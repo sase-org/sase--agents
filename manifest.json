@@ -2376,6 +2376,14 @@
       "schema_version": 1,
       "updated_at": "2026-07-23T13:28:39.055156+00:00"
     },
+    "athena.sase-8u.3": {
+      "artifact_timestamp": "20260723081250",
+      "digest": "eab8600f1f43a95778be463d9785e631861e6dcc0c1ff2ca1324807865d17616",
+      "machine": "athena",
+      "name": "athena.sase-8u.3",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T13:43:00.349992+00:00"
+    },
     "athena.toobig-l.split_file.src.sase.ace.tui.modals.axe_entry_editor_modal.d329226c": {
       "artifact_timestamp": "20260722145133",
       "digest": "ba4c742e60b3587c1da06f3370a44fa03b21a1969f138cbc0b8d26cf6d3caa0f",
