@@ -1720,6 +1720,14 @@
       "schema_version": 1,
       "updated_at": "2026-07-23T14:43:48.684590+00:00"
     },
+    "athena.j1.f0--code": {
+      "artifact_timestamp": "20260723104615",
+      "digest": "489788a8d3d0848ce305a548471104c06b013e85d479b158b467d3ac11f2649b",
+      "machine": "athena",
+      "name": "athena.j1.f0--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T15:02:48.804381+00:00"
+    },
     "athena.k--code": {
       "artifact_timestamp": "20260706150353",
       "digest": "b4aa02cdd5a274c89d7be6382473aff849d0fba6921682cb2e24a1e720b3138a",

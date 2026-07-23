@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784818402,
+      "sha": "30503fca89e08e303ef58874edcf683e1f617251",
+      "subject": "feat(ace): continue prompt bullets with open-above"
+    }
+  ],
+  "schema_version": 1
+}
