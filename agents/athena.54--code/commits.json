@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783729006,
+      "sha": "7776f7a85726f3e05ea6b0fd135ee9b65cd1b1cb",
+      "subject": "feat(ace): add inline xprompt property editing"
+    }
+  ],
+  "schema_version": 1
+}

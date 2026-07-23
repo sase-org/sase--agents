@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784239731,
+      "sha": "38760e2f2eb9ef47bebbb1c89d4ec97624e8e598",
+      "subject": "feat(ace): polish plan lane visuals"
+    }
+  ],
+  "schema_version": 1
+}

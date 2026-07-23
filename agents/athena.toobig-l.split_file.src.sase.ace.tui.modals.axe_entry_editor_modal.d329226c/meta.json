@@ -1,0 +1,21 @@
+{
+  "agent_clan": "toobig-l",
+  "agent_clan_generation": "20260722145133",
+  "approve": true,
+  "artifact_layout_version": 2,
+  "artifact_timestamp": "20260722145133",
+  "changespec_name": "gh_sase-org__sase",
+  "cl_name": "gh_sase-org__sase",
+  "clan_summary": "[bold #D75FFF]◆ TOOBIG SPLIT · 8 FILES[/bold #D75FFF]\n[bold #87D7FF]MISSION[/bold #87D7FF]\n[dim #D7D7FF]Decompose oversized Python modules into focused, reviewable units[/dim #D7D7FF]\n[dim #D7D7FF]without changing behavior.[/dim #D7D7FF]\n[dim #A8A8A8]2 scan roots · limits 1,000 / 850 / 700 lines · sequential queue[/dim #A8A8A8]",
+  "clan_tribe": "chop",
+  "exec_llm_provider": "codex",
+  "llm_provider": "codex",
+  "machine": "athena",
+  "model": "gpt-5.6-sol",
+  "name": "athena.toobig-l.split_file.src.sase.ace.tui.modals.axe_entry_editor_modal.d329226c",
+  "reasoning_effort": "xhigh",
+  "run_started_at": "2026-07-22T18:51:38.213553+00:00",
+  "schema_version": 1,
+  "stopped_at": "2026-07-22T19:10:39.261135+00:00",
+  "vcs_provider": "GitHub"
+}

@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784380232,
+      "sha": "005f431eb8e50c8ea187145d6c9eeb612ba32b88",
+      "subject": "feat(gates)!: add canonical primary branch submission"
+    }
+  ],
+  "schema_version": 1
+}

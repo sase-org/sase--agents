@@ -1,0 +1,15 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784236271,
+      "sha": "aa38ebf34fc2be9484d5b06f2c79c05a4e062725",
+      "subject": "refactor!: remove unused content layout entry points (sase-6d)"
+    },
+    {
+      "committed_at": 1784236306,
+      "sha": "50809bdb85382fe20e9e502e2f14b15c37490728",
+      "subject": "test: stabilize xprompt save visual snapshots (sase-6d)"
+    }
+  ],
+  "schema_version": 1
+}

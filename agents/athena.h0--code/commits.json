@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784640638,
+      "sha": "e2ba79309adfa14722851c93c13c29c8c468be83",
+      "subject": "perf: reuse fresh roots for update previews"
+    }
+  ],
+  "schema_version": 1
+}

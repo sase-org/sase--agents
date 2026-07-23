@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784214758,
+      "sha": "c08a43458d712f78f2008113044ffef2df6b47b3",
+      "subject": "fix(ace): keep collapsed agent panels last"
+    }
+  ],
+  "schema_version": 1
+}

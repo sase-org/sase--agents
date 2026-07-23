@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784134186,
+      "sha": "03df1f88dabcdb8895abf5025f566c389da3b7a3",
+      "subject": "test: tighten visual snapshot drift tolerance"
+    }
+  ],
+  "schema_version": 1
+}

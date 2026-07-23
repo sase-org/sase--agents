@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784470625,
+      "sha": "a9065c25eaaf49de3ad5f5b45bc46237e9db11d7",
+      "subject": "docs: document clan-scoped agent cleanup (sase-74)"
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783793332,
+      "sha": "437645675ee74440a32fd4079fee031bbe3524f3",
+      "subject": "fix: make retry visual tests hermetic"
+    }
+  ],
+  "schema_version": 1
+}

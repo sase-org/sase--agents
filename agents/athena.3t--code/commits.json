@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783618426,
+      "sha": "6137dbafecf1b8e80a8f32f6a0ad57952166a716",
+      "subject": "feat(vcs): show SASE tags in log"
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784425620,
+      "sha": "2267919394eb8751bc9b7abd80a74326a5ce701e",
+      "subject": "fix: reveal collapsed containers during agent jumps"
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784306509,
+      "sha": "de9d36014a20c6795a557dae1435b4b25fa22471",
+      "subject": "fix(tui): count effective agents in headline"
+    }
+  ],
+  "schema_version": 1
+}

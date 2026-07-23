@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784733402,
+      "sha": "1232a8c1c91b6dcabb6fb5d0959d631b7135d6a1",
+      "subject": "fix(ace): count agent holes in headline"
+    }
+  ],
+  "schema_version": 1
+}

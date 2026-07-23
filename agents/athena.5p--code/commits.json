@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783788570,
+      "sha": "028ecaea069c24c89dd2156106df60555d2cd2ec",
+      "subject": "fix(tui): invalidate stale detail work before hint rendering"
+    }
+  ],
+  "schema_version": 1
+}

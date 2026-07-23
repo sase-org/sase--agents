@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783448504,
+      "sha": "af1ff138ccb8d12add5eecb908cd2c0411b84a22",
+      "subject": "feat: manage xprompt LSP installs during dev updates"
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783365704,
+      "sha": "4cce6a46b099256a59048bae1539a13efc988063",
+      "subject": "fix: humanize project-prefixed ChangeSpec names"
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784583709,
+      "sha": "866aea65a3fc91224db3382125e71fd3494bcd70",
+      "subject": "feat(telemetry): isolate test state and add cleanup command (sase-8g.11)"
+    }
+  ],
+  "schema_version": 1
+}

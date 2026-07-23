@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783446982,
+      "sha": "306b5ec957dbc162f8ba1f72c7eb3b409389cb27",
+      "subject": "fix(ace): expand help panel viewport usage"
+    }
+  ],
+  "schema_version": 1
+}

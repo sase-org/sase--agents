@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784751240,
+      "sha": "767a3c4f6dcd34e41f6587126bf0c0d5c49532b2",
+      "subject": "test: split repo init handler tests"
+    }
+  ],
+  "schema_version": 1
+}

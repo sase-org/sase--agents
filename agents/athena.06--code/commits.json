@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783396483,
+      "sha": "d7e06b77b42d89ecf4bb1538c6f89c6fe700124e",
+      "subject": "fix: expose launch artifact directories"
+    }
+  ],
+  "schema_version": 1
+}

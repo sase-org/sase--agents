@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784251909,
+      "sha": "0c438540c6f78fb9e3e36e67037f9ab1b9846b92",
+      "subject": "test(xprompt): cover family launch neutrality (sase-6g)"
+    }
+  ],
+  "schema_version": 1
+}

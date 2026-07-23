@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784510584,
+      "sha": "5b49b204f84e7933984a283373ec837aaa4bff71",
+      "subject": "fix(axe): constrain refresh docs agents to documentation"
+    }
+  ],
+  "schema_version": 1
+}

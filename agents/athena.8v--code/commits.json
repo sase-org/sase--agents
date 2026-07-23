@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784119203,
+      "sha": "1114961b46c4374c6d9c291cce0a1b8aab79b638",
+      "subject": "build: prefer workspace-local sase-core checkout"
+    }
+  ],
+  "schema_version": 1
+}

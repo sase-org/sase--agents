@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784640249,
+      "sha": "8e7851edeb78730fceabd9adfe2ee0b9d1f56ee3",
+      "subject": "feat: add clickable SDD frontmatter links"
+    }
+  ],
+  "schema_version": 1
+}

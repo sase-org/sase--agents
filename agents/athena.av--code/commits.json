@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784234844,
+      "sha": "4d2fb87e5c444c5a82cf7370a95bdc158c5f7293",
+      "subject": "fix(tui): improve inline code visibility"
+    }
+  ],
+  "schema_version": 1
+}

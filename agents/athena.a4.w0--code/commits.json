@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784201766,
+      "sha": "8ab0936f13cfa11e96e70385aeb587f12dbe12bf",
+      "subject": "fix(ace): preserve explicit plan approval tiers"
+    }
+  ],
+  "schema_version": 1
+}

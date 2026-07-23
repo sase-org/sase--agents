@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784573289,
+      "sha": "75e2c647dfc2bbc58dc1ae54893f6a73ad3ff054",
+      "subject": "feat(statistics): add metric legends and recovery states (sase-8a.2)"
+    }
+  ],
+  "schema_version": 1
+}

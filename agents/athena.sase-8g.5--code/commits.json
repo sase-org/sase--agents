@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784581775,
+      "sha": "e7c76807064bd53ea6fa97661c37d388d82fa1f8",
+      "subject": "fix(sdd): self-heal wedged sidecar clones (sase-8g.5)"
+    }
+  ],
+  "schema_version": 1
+}

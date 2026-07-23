@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784381443,
+      "sha": "4c20b1bdb1d62ceea0c52532cff6691e9c198b23",
+      "subject": "feat(ace): distinguish agent family rows"
+    }
+  ],
+  "schema_version": 1
+}

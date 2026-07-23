@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783812252,
+      "sha": "08b2f73ed69df95437787a046ab9465af7a88455",
+      "subject": "fix: preserve display-prefixed ChangeSpec refs"
+    }
+  ],
+  "schema_version": 1
+}

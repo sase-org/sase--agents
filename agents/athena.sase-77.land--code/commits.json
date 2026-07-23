@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784481400,
+      "sha": "bd7f969711101f08a5867fa6821933f29f4f5f2b",
+      "subject": "fix(sdd): expose the shared lock retry schedule (sase-77)"
+    }
+  ],
+  "schema_version": 1
+}

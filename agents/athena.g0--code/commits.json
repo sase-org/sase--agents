@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784555054,
+      "sha": "88c1a7b9eced3c45ab36a5673257714b6fe2c4ba",
+      "subject": "feat(test): gate parallel suites by host capacity"
+    }
+  ],
+  "schema_version": 1
+}

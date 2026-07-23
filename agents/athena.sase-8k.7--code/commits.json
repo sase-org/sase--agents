@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784753266,
+      "sha": "a075c014fd5faed7f6c7556fca7d4db51286b891",
+      "subject": "feat(ace): surface agents repository sync status (sase-8k.7)"
+    }
+  ],
+  "schema_version": 1
+}

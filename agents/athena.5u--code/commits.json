@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783790049,
+      "sha": "8af1d23841e8e9e6f3d9a85e4f2fdf228050e7f3",
+      "subject": "feat: simplify custom revival search"
+    }
+  ],
+  "schema_version": 1
+}

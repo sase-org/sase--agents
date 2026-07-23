@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784569228,
+      "sha": "1227d918817639a90a291c953cc6da21e3ea3f72",
+      "subject": "test: restore review-runner environment isolation (sase-83)"
+    }
+  ],
+  "schema_version": 1
+}

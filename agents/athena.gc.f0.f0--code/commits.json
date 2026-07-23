@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784570822,
+      "sha": "145f2876e8013faa2fc3f7aa8fb48ef2f76ed4cc",
+      "subject": "feat(ace): resume last Admin Center section"
+    }
+  ],
+  "schema_version": 1
+}

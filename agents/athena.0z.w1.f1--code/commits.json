@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783471907,
+      "sha": "2d13be9ce05a93715436a755e8dcf168c98a041b",
+      "subject": "feat(tui): add slow-tool reports for successful calls"
+    }
+  ],
+  "schema_version": 1
+}

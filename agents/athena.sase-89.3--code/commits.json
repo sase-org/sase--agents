@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784570492,
+      "sha": "e3af45c7060abb9481e85c2a14c3c99cce74b20a",
+      "subject": "fix(stats): retain project display projection helper (sase-89.3)"
+    }
+  ],
+  "schema_version": 1
+}

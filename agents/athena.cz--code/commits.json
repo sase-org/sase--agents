@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784372635,
+      "sha": "64f560802da4f19a7acf916d3107f1cdc08e89c6",
+      "subject": "feat(ace): view prompt jump images in terminal"
+    }
+  ],
+  "schema_version": 1
+}

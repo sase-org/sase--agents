@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784658717,
+      "sha": "fbcfb1eb193c14aaeafc527c41224c03470c1d02",
+      "subject": "feat(ace)!: separate left navigation from collapsing"
+    }
+  ],
+  "schema_version": 1
+}

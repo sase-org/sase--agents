@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784582835,
+      "sha": "fc1c91844a8e4b1c0ad311c98d29f9c3beb61ecc",
+      "subject": "fix(sdd): preserve plan path basenames when wrapping (sase-8d)"
+    }
+  ],
+  "schema_version": 1
+}

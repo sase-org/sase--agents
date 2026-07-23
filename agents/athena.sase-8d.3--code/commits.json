@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784579840,
+      "sha": "7ab260ddba51c780c195d4180576fae508f0e87c",
+      "subject": "fix: render epic clan summaries from authored plans (sase-8d.3)"
+    }
+  ],
+  "schema_version": 1
+}

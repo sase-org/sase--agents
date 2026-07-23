@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783399793,
+      "sha": "2601f87b3e4660b1d285bd302010e227fd159397",
+      "subject": "fix(agent): clean up stale waiting agents on kill"
+    }
+  ],
+  "schema_version": 1
+}

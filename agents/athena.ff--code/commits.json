@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784498218,
+      "sha": "b938e94ad0d744b3fa691b031dc5d682109ce756",
+      "subject": "feat(tui): navigate to neighbors in folded clans"
+    }
+  ],
+  "schema_version": 1
+}

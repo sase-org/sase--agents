@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784387373,
+      "sha": "91959c10cdd6241b649439b6f92912d323c35d27",
+      "subject": "feat(ace): render clan and family identities name first"
+    }
+  ],
+  "schema_version": 1
+}

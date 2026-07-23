@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784563287,
+      "sha": "01c5b8022662bba689d147a70fd7d2cd6c8d6c48",
+      "subject": "feat: enrich epic clan summaries (sase-85.2)"
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784465090,
+      "sha": "5868154f1c267fdeb05635c656394b40f12389a6",
+      "subject": "fix(ace): descend from tribe focus on agent jumps"
+    }
+  ],
+  "schema_version": 1
+}

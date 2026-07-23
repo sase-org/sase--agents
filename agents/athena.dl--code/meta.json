@@ -1,0 +1,20 @@
+{
+  "agent_family": "dl",
+  "agent_family_role": "code",
+  "artifact_layout_version": 2,
+  "artifact_timestamp": "20260718140053",
+  "changespec_name": "gh_sase-org__sase",
+  "cl_name": "gh_sase-org__sase",
+  "exec_llm_provider": "codex",
+  "llm_provider": "codex",
+  "machine": "athena",
+  "model": "gpt-5.6-sol",
+  "name": "athena.dl--code",
+  "reasoning_effort": "xhigh",
+  "role_suffix": "--code",
+  "run_started_at": "2026-07-18T18:00:53.795208+00:00",
+  "schema_version": 1,
+  "stopped_at": "2026-07-18T18:15:50.190840+00:00",
+  "vcs_provider": "GitHub",
+  "workflow_name": "dl"
+}

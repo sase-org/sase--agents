@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783541305,
+      "sha": "affbc4d4e8e2526da54c75f0d6bbdba87b2953be",
+      "subject": "fix(vcs-log): show primary project display name"
+    }
+  ],
+  "schema_version": 1
+}

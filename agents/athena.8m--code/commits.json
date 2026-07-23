@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784038038,
+      "sha": "81eca4e6663478ea9d7cec34594d2ad43cc057c1",
+      "subject": "fix(ace): scope group folds to agent panels"
+    }
+  ],
+  "schema_version": 1
+}

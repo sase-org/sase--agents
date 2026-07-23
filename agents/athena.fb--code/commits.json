@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784489657,
+      "sha": "d8b67d602c0df6f4c2c7d26f845ec85dad3bc10e",
+      "subject": "feat: support agent families as fork sources (sase-7i.5)"
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "artifact_layout_version": 2,
+  "artifact_timestamp": "20260722113604",
+  "changespec_name": "gh_sase-org__sase",
+  "cl_name": "gh_sase-org__sase",
+  "exec_llm_provider": "codex",
+  "llm_provider": "codex",
+  "machine": "athena",
+  "model": "gpt-5.6-sol",
+  "name": "athena.ig",
+  "reasoning_effort": "xhigh",
+  "run_started_at": "2026-07-22T15:36:10.011305+00:00",
+  "schema_version": 1,
+  "stopped_at": "2026-07-22T16:08:28.283472+00:00",
+  "vcs_provider": "GitHub"
+}

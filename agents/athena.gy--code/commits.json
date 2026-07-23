@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784638748,
+      "sha": "eb93169eb8874e70e01d17daf2709521627072fc",
+      "subject": "feat!: route phase workers through size aliases"
+    }
+  ],
+  "schema_version": 1
+}

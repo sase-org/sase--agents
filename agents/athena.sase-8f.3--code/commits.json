@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784583291,
+      "sha": "9d8b7e28054ef02f3bece5813fd337627144b0b2",
+      "subject": "feat(beads): claim epic work just in time (sase-8f.3)"
+    }
+  ],
+  "schema_version": 1
+}

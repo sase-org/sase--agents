@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783552303,
+      "sha": "9242805e1afa7a9574f919ca2b1867cb6d75caec",
+      "subject": "feat(vcs): show remote commit presence in log"
+    }
+  ],
+  "schema_version": 1
+}

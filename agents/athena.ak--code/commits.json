@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784223851,
+      "sha": "592c252a3e45ff626cc98505e3b4d42dfa49f98b",
+      "subject": "test: stabilize cross-version CI checks"
+    }
+  ],
+  "schema_version": 1
+}

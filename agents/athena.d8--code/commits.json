@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784376419,
+      "sha": "a27479e795300e33aff8d1d5cd94ffe437e36334",
+      "subject": "feat(ace): add alias options to model picker"
+    }
+  ],
+  "schema_version": 1
+}

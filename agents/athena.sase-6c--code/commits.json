@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784218979,
+      "sha": "b8b7d65e1a0bb39a59ec2385416b9c8cbf5400f6",
+      "subject": "perf(tui): keep remaining maintenance off the message pump (sase-6c)"
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784295689,
+      "sha": "d98b2846247b9d5edcba07e779feaaddfc5991f7",
+      "subject": "fix(tui): allow repeat agent across artifact subtabs"
+    }
+  ],
+  "schema_version": 1
+}

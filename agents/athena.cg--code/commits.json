@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784318397,
+      "sha": "f6782286e42727c2cdda919f27e6a3c2dbc813d5",
+      "subject": "fix(sdd): make sidecar integration transactional"
+    }
+  ],
+  "schema_version": 1
+}

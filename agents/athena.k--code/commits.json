@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783365264,
+      "sha": "60a7b5fbd9189258d224b1aa3082dde44795cc9f",
+      "subject": "fix: resolve chat install workspace through project aliases"
+    }
+  ],
+  "schema_version": 1
+}

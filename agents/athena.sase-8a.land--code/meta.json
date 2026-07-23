@@ -1,0 +1,22 @@
+{
+  "agent_family": "sase-8a.land",
+  "agent_family_role": "code",
+  "approve": true,
+  "artifact_layout_version": 2,
+  "artifact_timestamp": "20260720160042",
+  "changespec_name": "gh_sase-org__sase",
+  "cl_name": "gh_sase-org__sase",
+  "epic_bead_id": "sase-8a",
+  "exec_llm_provider": "codex",
+  "llm_provider": "codex",
+  "machine": "athena",
+  "model": "gpt-5.6-sol",
+  "name": "athena.sase-8a.land--code",
+  "reasoning_effort": "xhigh",
+  "role_suffix": "--code",
+  "run_started_at": "2026-07-20T20:00:42.667878+00:00",
+  "schema_version": 1,
+  "stopped_at": "2026-07-20T20:14:09.023817+00:00",
+  "vcs_provider": "GitHub",
+  "workflow_name": "sase-8a.land"
+}

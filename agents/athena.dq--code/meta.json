@@ -1,0 +1,20 @@
+{
+  "agent_family": "dq",
+  "agent_family_role": "code",
+  "artifact_layout_version": 2,
+  "artifact_timestamp": "20260718143807",
+  "changespec_name": "gh_sase-org__sase",
+  "cl_name": "gh_sase-org__sase",
+  "exec_llm_provider": "codex",
+  "llm_provider": "codex",
+  "machine": "athena",
+  "model": "gpt-5.6-sol",
+  "name": "athena.dq--code",
+  "reasoning_effort": "xhigh",
+  "role_suffix": "--code",
+  "run_started_at": "2026-07-18T18:38:07.176279+00:00",
+  "schema_version": 1,
+  "stopped_at": "2026-07-18T19:05:14.259062+00:00",
+  "vcs_provider": "GitHub",
+  "workflow_name": "dq"
+}

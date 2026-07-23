@@ -1,0 +1,19 @@
+{
+  "agent_family": "0z.w1.f1",
+  "agent_family_role": "code",
+  "artifact_layout_version": 2,
+  "artifact_timestamp": "20260707204040",
+  "changespec_name": "gh_sase-org__sase",
+  "cl_name": "gh_sase-org__sase",
+  "llm_provider": "codex",
+  "machine": "athena",
+  "model": "gpt-5.5",
+  "name": "athena.0z.w1.f1--code",
+  "reasoning_effort": "xhigh",
+  "role_suffix": "--code",
+  "run_started_at": "2026-07-08T00:40:40.830423+00:00",
+  "schema_version": 1,
+  "stopped_at": "2026-07-08T00:52:09.192392+00:00",
+  "vcs_provider": "GitHub",
+  "workflow_name": "0z.w1.f1"
+}

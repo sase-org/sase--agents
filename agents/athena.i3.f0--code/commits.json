@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784729018,
+      "sha": "627b0b377c15b3c7ad322333fc38303b840defe7",
+      "subject": "fix(tui): keep TODO markers legible"
+    }
+  ],
+  "schema_version": 1
+}

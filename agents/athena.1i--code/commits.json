@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783474737,
+      "sha": "2f3a04c0508143c3ab29a6bfa07b757742582ae0",
+      "subject": "feat(ace): make slow tool threshold configurable"
+    }
+  ],
+  "schema_version": 1
+}

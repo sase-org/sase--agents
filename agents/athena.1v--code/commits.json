@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783494546,
+      "sha": "5e9300e1129d84c8964a8811f85539c6a370a57a",
+      "subject": "test: cover log jump hints in admin center"
+    }
+  ],
+  "schema_version": 1
+}

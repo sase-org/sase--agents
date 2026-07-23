@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783616070,
+      "sha": "228b496e0e109962d8acb42a4af6e7b335394e7d",
+      "subject": "fix(tui): handle control-byte prompt chords"
+    }
+  ],
+  "schema_version": 1
+}

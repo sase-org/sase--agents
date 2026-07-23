@@ -1,0 +1,20 @@
+{
+  "agent_clan": "toobig-l",
+  "agent_clan_generation": "20260722145133",
+  "approve": true,
+  "artifact_layout_version": 2,
+  "artifact_timestamp": "20260722145135",
+  "changespec_name": "gh_sase-org__sase",
+  "cl_name": "gh_sase-org__sase",
+  "exec_llm_provider": "codex",
+  "llm_provider": "codex",
+  "machine": "athena",
+  "model": "gpt-5.6-sol",
+  "name": "athena.toobig-l.split_file.tests.main.test_init_memory_handler.24ee75c1",
+  "reasoning_effort": "xhigh",
+  "run_started_at": "2026-07-22T19:35:27.536856+00:00",
+  "schema_version": 1,
+  "stopped_at": "2026-07-22T19:56:08.563340+00:00",
+  "vcs_provider": "GitHub",
+  "wait_completed_at": "2026-07-22T19:35:26.410367+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784291069,
+      "sha": "e73d1400c4097432461316e3a2fca827ab9c8f75",
+      "subject": "feat(tui): record sub-threshold watchdog hitches (sase-6j.1)"
+    }
+  ],
+  "schema_version": 1
+}

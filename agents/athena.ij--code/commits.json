@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784740325,
+      "sha": "010c061757c693cc271e49043a049627eb2f4793",
+      "subject": "fix(ace): collapse group clans before grouping banners"
+    }
+  ],
+  "schema_version": 1
+}

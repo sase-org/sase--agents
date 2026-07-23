@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784581478,
+      "sha": "b935b7495d3b297b376370a5ef7bf9f9db9cdc92",
+      "subject": "feat(agent): claim beads at launch execution (sase-8f.2)"
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,15 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784203198,
+      "sha": "743233177c26e56948bc59ddab43550a1d615dbd",
+      "subject": "docs: correct project glossary storage terminology"
+    },
+    {
+      "committed_at": 1784203313,
+      "sha": "bc68696715826bdfef1817e22dc2c379f671362b",
+      "subject": "chore: run sase init memory"
+    }
+  ],
+  "schema_version": 1
+}

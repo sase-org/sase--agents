@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783448487,
+      "sha": "c962280a98dd9bcbae75f7d8e91cb7d099501bb3",
+      "subject": "feat(tui): show linked repo change badges"
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784409418,
+      "sha": "97583b66cabb67f41722ab779fc79223d9727373",
+      "subject": "feat(ace): share prompt search register across panes"
+    }
+  ],
+  "schema_version": 1
+}

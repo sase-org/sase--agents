@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784139222,
+      "sha": "805de8fe66844508303575aa6c4975c1b2a0588e",
+      "subject": "test: harden CI reliability harnesses"
+    }
+  ],
+  "schema_version": 1
+}

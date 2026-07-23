@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784671644,
+      "sha": "6c052e8169789a0b4ffa1fd536cf642c9a9bd88f",
+      "subject": "feat(tui): add runner statistics experience (sase-8j.3)"
+    }
+  ],
+  "schema_version": 1
+}

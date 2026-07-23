@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784223537,
+      "sha": "6a4a47f94322474395c3d7b80f42fe6c9e0136de",
+      "subject": "docs: refresh TUI performance guidance"
+    }
+  ],
+  "schema_version": 1
+}

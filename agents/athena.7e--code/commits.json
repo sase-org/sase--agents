@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783940683,
+      "sha": "3d5fe9c50a8e3d68f04bf1a5a033247e65f79c0a",
+      "subject": "fix: complete Symvision migration recovery (sase-5t.5)"
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784472713,
+      "sha": "ee3242bce534d1c12e141691bf37e9a398e9862e",
+      "subject": "feat(ace): toggle metadata folds at scale extremes"
+    }
+  ],
+  "schema_version": 1
+}

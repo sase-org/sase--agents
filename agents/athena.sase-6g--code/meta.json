@@ -1,0 +1,19 @@
+{
+  "agent_family": "sase-6g",
+  "agent_family_role": "code",
+  "artifact_layout_version": 2,
+  "artifact_timestamp": "20260716211122",
+  "changespec_name": "gh_sase-org__sase",
+  "cl_name": "gh_sase-org__sase",
+  "llm_provider": "codex",
+  "machine": "athena",
+  "model": "gpt-5.6-sol",
+  "name": "athena.sase-6g--code",
+  "reasoning_effort": "xhigh",
+  "role_suffix": "--code",
+  "run_started_at": "2026-07-17T01:11:22.219585+00:00",
+  "schema_version": 1,
+  "stopped_at": "2026-07-17T01:33:24.714391+00:00",
+  "vcs_provider": "GitHub",
+  "workflow_name": "sase-6g"
+}

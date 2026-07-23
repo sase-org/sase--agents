@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784584011,
+      "sha": "982e51e6b78ff1bf8698ce94b37bd33c6554a2e4",
+      "subject": "fix(agent): derive template clan declarations from members"
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783805489,
+      "sha": "711120b638d3362f4b9c0b1211c49a4af9ab5b69",
+      "subject": "fix: handle pinned prompt stash bundles consistently"
+    }
+  ],
+  "schema_version": 1
+}

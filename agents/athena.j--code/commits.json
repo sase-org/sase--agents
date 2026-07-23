@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783363089,
+      "sha": "f672125c50dd7456b4f02fb16d485ad8a5ecf00d",
+      "subject": "fix: prepare linked repo workspaces before agent launch"
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784294683,
+      "sha": "abf5cdcd51a2d3d40f2f446d4019bedb336aafbc",
+      "subject": "feat(ace): add fast navigation to artifact lists"
+    }
+  ],
+  "schema_version": 1
+}

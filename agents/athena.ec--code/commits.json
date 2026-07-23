@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784460974,
+      "sha": "a1b6b0a3e1587c82b6836ec458326a4b6ece7d37",
+      "subject": "fix(tui): restore admin center digit keymaps"
+    }
+  ],
+  "schema_version": 1
+}

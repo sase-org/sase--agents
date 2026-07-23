@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783944016,
+      "sha": "bfb468ca853939662e7ed9fc2fd5ce1c558ebc1b",
+      "subject": "fix: auto-commit Q&A prompt snapshots"
+    }
+  ],
+  "schema_version": 1
+}

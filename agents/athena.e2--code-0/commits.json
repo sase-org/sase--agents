@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784418020,
+      "sha": "8970fbaab7987f1ad1330844f4fb1fa39496fa88",
+      "subject": "revert: undo stale memory initialization output"
+    }
+  ],
+  "schema_version": 1
+}

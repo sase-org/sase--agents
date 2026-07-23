@@ -1,0 +1,18 @@
+{
+  "agent_family": "research.g.final",
+  "agent_family_parallel": true,
+  "agent_family_role": "researcher",
+  "artifact_layout_version": 2,
+  "artifact_timestamp": "20260717094120",
+  "changespec_name": "gh_sase-org__sase",
+  "cl_name": "gh_sase-org__sase",
+  "llm_provider": "codex",
+  "machine": "athena",
+  "model": "gpt-5.6-sol",
+  "name": "athena.research.g.cdx",
+  "reasoning_effort": "xhigh",
+  "run_started_at": "2026-07-17T13:41:24.640042+00:00",
+  "schema_version": 1,
+  "stopped_at": "2026-07-17T13:53:30.010084+00:00",
+  "vcs_provider": "GitHub"
+}
