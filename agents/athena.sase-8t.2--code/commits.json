@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784810329,
+      "sha": "0689333f778ad10c96e2fe82a03076b3c3f7e752",
+      "subject": "feat(axe): add side-effect-free status snapshots (sase-8t.2)"
+    }
+  ],
+  "schema_version": 1
+}

@@ -2352,6 +2352,30 @@
       "schema_version": 1,
       "updated_at": "2026-07-23T10:07:45.721650+00:00"
     },
+    "athena.sase-8t.2--code": {
+      "artifact_timestamp": "20260723080909",
+      "digest": "5db81704df57609cf8af2631ca5f05e584a9387db694934a170e8d684a2919b1",
+      "machine": "athena",
+      "name": "athena.sase-8t.2--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T13:28:39.055156+00:00"
+    },
+    "athena.sase-8t.3--code": {
+      "artifact_timestamp": "20260723084313",
+      "digest": "e3c47826fe02f1915fd4d1d4ccf5998cb6fb04679b203a6b0e3183d48cb417de",
+      "machine": "athena",
+      "name": "athena.sase-8t.3--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T13:28:39.055156+00:00"
+    },
+    "athena.sase-8u.2--code": {
+      "artifact_timestamp": "20260723083342",
+      "digest": "3025a1a5618864058f0cecde0fb1d2995527d20cc1ffc0bd6f57637690db808e",
+      "machine": "athena",
+      "name": "athena.sase-8u.2--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T13:28:39.055156+00:00"
+    },
     "athena.toobig-l.split_file.src.sase.ace.tui.modals.axe_entry_editor_modal.d329226c": {
       "artifact_timestamp": "20260722145133",
       "digest": "ba4c742e60b3587c1da06f3370a44fa03b21a1969f138cbc0b8d26cf6d3caa0f",
@@ -2423,6 +2447,38 @@
       "name": "athena.toobig-n.split_file.src.sase.ace.tui.actions.axe_config_actions.80b8ffd8",
       "schema_version": 1,
       "updated_at": "2026-07-23T12:37:02.697832+00:00"
+    },
+    "athena.toobig-n.split_file.src.sase.ace.tui.actions.axe_display._loaders.1372d6e1": {
+      "artifact_timestamp": "20260723075713",
+      "digest": "c496d326de168912ddecc74edaaf89e34316d8b5ac68e199d3086fa9ed925322",
+      "machine": "athena",
+      "name": "athena.toobig-n.split_file.src.sase.ace.tui.actions.axe_display._loaders.1372d6e1",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T13:28:39.055156+00:00"
+    },
+    "athena.toobig-n.split_file.src.sase.agent.multi_prompt_reference_allocator.538088f5": {
+      "artifact_timestamp": "20260723075714",
+      "digest": "cc589ad30543068efa6816e08186ddafb1c2ff2930e82c332530469a96f13b99",
+      "machine": "athena",
+      "name": "athena.toobig-n.split_file.src.sase.agent.multi_prompt_reference_allocator.538088f5",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T13:28:39.055156+00:00"
+    },
+    "athena.toobig-n.split_file.src.sase.agent.names._registry.c6e8beea": {
+      "artifact_timestamp": "20260723075715",
+      "digest": "971738faa46594f7534db5318ca87a3b873a55c8e6b35f4de97bcdfe738bcccc",
+      "machine": "athena",
+      "name": "athena.toobig-n.split_file.src.sase.agent.names._registry.c6e8beea",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T13:28:39.055156+00:00"
+    },
+    "athena.toobig-n.split_file.tests.ace.tui.test_plugins_browser_pane_comprehe.98f3e0f6": {
+      "artifact_timestamp": "20260723075716",
+      "digest": "31937cd786eb11ece88097a162310cf47ed56159b55bdf5ef1dd5fd0a782028d",
+      "machine": "athena",
+      "name": "athena.toobig-n.split_file.tests.ace.tui.test_plugins_browser_pane_comprehe.98f3e0f6",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T13:28:39.055156+00:00"
     }
   },
   "schema_version": 1
