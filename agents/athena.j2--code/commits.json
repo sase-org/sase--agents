@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784818980,
+      "sha": "330c25856f83465adfefe190495f6ddbc3369867",
+      "subject": "fix: restart exact agent family members"
+    }
+  ],
+  "schema_version": 1
+}

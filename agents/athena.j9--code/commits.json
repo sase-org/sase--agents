@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784826094,
+      "sha": "215721fd5a17f70ba42937223cd3db84411a66a3",
+      "subject": "feat(pdf): render plan frontmatter as properties cards"
+    }
+  ],
+  "schema_version": 1
+}
