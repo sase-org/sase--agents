@@ -1768,6 +1768,38 @@
       "schema_version": 1,
       "updated_at": "2026-07-23T17:02:47.356783+00:00"
     },
+    "athena.jb--code": {
+      "artifact_timestamp": "20260723124352",
+      "digest": "c0b856b378ae568316a359338b433d710be12795f39d8a7e46090580929c4979",
+      "machine": "athena",
+      "name": "athena.jb--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T18:19:31.931560+00:00"
+    },
+    "athena.je--code": {
+      "artifact_timestamp": "20260723130149",
+      "digest": "3d31481b7113e4c72d2d93b4f0187710f74f68c58ae702cb3d1275ccc0a39d47",
+      "machine": "athena",
+      "name": "athena.je--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T18:19:31.931560+00:00"
+    },
+    "athena.jf--code": {
+      "artifact_timestamp": "20260723131622",
+      "digest": "5f7ea5a095069fbb6437ac586b8d4c74e6481d0aa7c21c79aa55625810ea6037",
+      "machine": "athena",
+      "name": "athena.jf--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T18:19:31.931560+00:00"
+    },
+    "athena.jg--code": {
+      "artifact_timestamp": "20260723132818",
+      "digest": "bec2010448c7f335ecc1caeb8abfd70c3c40cd13c29418ff7646ae47a01fb88b",
+      "machine": "athena",
+      "name": "athena.jg--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T18:19:31.931560+00:00"
+    },
     "athena.k--code": {
       "artifact_timestamp": "20260706150353",
       "digest": "b4aa02cdd5a274c89d7be6382473aff849d0fba6921682cb2e24a1e720b3138a",
@@ -2455,6 +2487,14 @@
       "name": "athena.sase-8u.3",
       "schema_version": 1,
       "updated_at": "2026-07-23T13:43:00.349992+00:00"
+    },
+    "athena.sase-8v.1--code": {
+      "artifact_timestamp": "20260723130539",
+      "digest": "ddd6d9fae271beb0a5f236c364ccee372398ecd9ef0495d418f2ed3a71dbf8fd",
+      "machine": "athena",
+      "name": "athena.sase-8v.1--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T18:19:31.931560+00:00"
     },
     "athena.toobig-l.split_file.src.sase.ace.tui.modals.axe_entry_editor_modal.d329226c": {
       "artifact_timestamp": "20260722145133",
