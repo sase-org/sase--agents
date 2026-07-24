@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784846012,
+      "sha": "f19e031dd1aebbb6ebb1b86fd4385f02d91c5901",
+      "subject": "feat(tui): present all five phase sizes (sase-8w.4)"
+    }
+  ],
+  "schema_version": 1
+}

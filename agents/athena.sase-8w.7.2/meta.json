@@ -1,0 +1,23 @@
+{
+  "agent_clan": "sase-8w.7",
+  "agent_clan_generation": "20260723191324",
+  "approve": true,
+  "artifact_layout_version": 2,
+  "artifact_timestamp": "20260723191325",
+  "bead_id": "sase-8w.7.2",
+  "changespec_name": "gh_sase-org__sase",
+  "cl_name": "gh_sase-org__sase",
+  "clan_tribe": "epic",
+  "epic_bead_id": "sase-8w.7",
+  "exec_llm_provider": "claude",
+  "llm_provider": "claude",
+  "machine": "athena",
+  "model": "opus",
+  "name": "athena.sase-8w.7.2",
+  "phase_bead_id": "sase-8w.7.2",
+  "reasoning_effort": "medium",
+  "run_started_at": "2026-07-23T23:13:33.560408+00:00",
+  "schema_version": 1,
+  "stopped_at": "2026-07-23T23:26:01.889692+00:00",
+  "vcs_provider": "GitHub"
+}
