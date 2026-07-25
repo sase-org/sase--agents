@@ -8,4 +8,4 @@
 |---|---|---|---|---:|---|
 | [ec](../../../../../../agents/bbugyi200.athena.ec/README.md) | completed | — | — | 1 | — |
 | [ec--code](../../../../../../families/bbugyi200.athena.ec.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-19T11:25:22.233339+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.ec--code/chat.md) |
-| [ec--plan](../../../../../../families/bbugyi200.athena.ec.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-19T11:13:39.900756+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.ec--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.ec--plan/chat.md) |
+| [ec--plan](../../../../../../families/bbugyi200.athena.ec.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-19T11:13:39.900756+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.ec--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.ec--plan/prompt.md) |
