@@ -1,0 +1,12 @@
+#gh:sase-org/sase
+%id:toobig-x.split_file.tests.history.test_chat_catalog_provenance.023bef4f
+%clan(toobig-x, tribe=chop, summary=[[[bold #D75FFF]◆ TOOBIG SPLIT · 1 FILE[/bold #D75FFF]
+[bold #87D7FF]MISSION[/bold #87D7FF]
+[dim #D7D7FF]Decompose oversized Python modules into focused, reviewable units[/dim #D7D7FF]
+[dim #D7D7FF]without changing behavior.[/dim #D7D7FF]
+
+[bold #87D7FF]TARGETS[/bold #87D7FF]
+[#87D7FF]• 808  tests/history/test_chat_catalog_provenance.py[/#87D7FF]
+
+[dim #A8A8A8]2 scan roots · limits 1,000 / 850 / 700 lines · sequential queue[/dim #A8A8A8]]])
+%auto %wait(priority=20) #split_file:tests/history/test_chat_catalog_provenance.py
