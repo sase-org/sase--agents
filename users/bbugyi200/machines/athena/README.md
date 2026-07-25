@@ -1049,7 +1049,7 @@
 | [sase\_fix\_just-y](hoods/sase_fix_just-y/README.md) | 1 | 0 | active 1 |
 | [split\_file](hoods/split_file/README.md) | 632 | 1 | active 256, dismissed 95, waiting 281 |
 | [toobig-0](hoods/toobig-0/README.md) | 18 | 0 | active 4, waiting 14 |
-| [toobig-00](hoods/toobig-00/README.md) | 2 | 0 | active 1, waiting 1 |
+| [toobig-00](hoods/toobig-00/README.md) | 2 | 0 | active 1, completed 1 |
 | [toobig-1](hoods/toobig-1/README.md) | 14 | 0 | active 5, waiting 9 |
 | [toobig-3](hoods/toobig-3/README.md) | 13 | 0 | active 4, waiting 9 |
 | [toobig-4](hoods/toobig-4/README.md) | 14 | 0 | active 6, waiting 8 |

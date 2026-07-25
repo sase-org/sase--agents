@@ -1,6 +1,6 @@
 # Agent: toobig-00.split\_file.src.sase.axe.run\_agent\_wait.77d2b8bf
 
-**Global name:** `bbugyi200.athena.toobig-00.split_file.src.sase.axe.run_agent_wait.77d2b8bf` · **State:** active · **Source run:** `run-2c9d6867d1fac40b16d56ca962cf8fe0`
+**Global name:** `bbugyi200.athena.toobig-00.split_file.src.sase.axe.run_agent_wait.77d2b8bf` · **State:** completed · **Source run:** `run-2c9d6867d1fac40b16d56ca962cf8fe0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-00
 
@@ -13,4 +13,4 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
