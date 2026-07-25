@@ -1,0 +1,2 @@
+%wait(gy.f1.f8)
+#gh:gh_sase-org__sase Can you help me make the "Models" panel have great support for model aliases that are configured to load balance (make sure we show which models are configured in the pool and which one will be used next) and for model effort levels (show the default effort that is configured at the top of the panel somewhere and show any effort levels used by model aliases that have values that override the default effort level)? See ~/tmp/screenshots/20260721_100212.png for what this panel looks like currently. #beau #plan #m_fable

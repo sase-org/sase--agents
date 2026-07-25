@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make the inline code syntax highlighting more robust so, for example, the `bar` in `foo`/`bar` is highlighted properly in the prompt input widget (see #sshot for an example of this bug)? #plan

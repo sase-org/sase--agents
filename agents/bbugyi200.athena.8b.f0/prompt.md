@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:8b Can you now help me add great syntax highlighting for known xprompt skills that are referenced in the prompt input widget (ex: /sase_plan)? Make sure this doesn't hurt performance too much. #beau #tale #m_opus

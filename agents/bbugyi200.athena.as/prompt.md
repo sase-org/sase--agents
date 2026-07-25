@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We recently added support for collapsing agent panels on the agents tab. Can you help me add support to the special apostrophe keymap for rendering hints on this panel when it's collapsed? #tale

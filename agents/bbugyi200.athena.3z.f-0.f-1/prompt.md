@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:3z.f-0 The model is actually called "gpt-5.6-sol"! Can you update all of the necessary references? Make sure you're thorough and catch all of them. #tale %m:gpt-5.6-sol

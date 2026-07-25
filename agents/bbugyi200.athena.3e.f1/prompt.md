@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:3e Can you now help me migrate the bob-cli and actstat repos over to using a separate repo for sase sdd artifacts? I think you should be able to just run the sase init command after you set the right config variable in the project. Fix any issues you find with the sase init command along the way. #plan

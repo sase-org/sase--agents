@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780750607,"sha":"63d1f0e5572a854a08b08fff3007153940a3b813","subject":"chore: Add SDD prompt and plan for recent_agent_restore"},{"committed_at":1780752166,"sha":"1b1ce7921ca290177f7dc8687aab87db09531b1b","subject":"feat: restore recently dismissed agent groups"}],"schema_version":2,"source_run_id":"run-fd63159e63b36e9e948ca81ac9812b8f"}

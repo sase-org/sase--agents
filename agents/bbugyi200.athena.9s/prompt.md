@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I just tried to approve an epic from the TUI and it failed (see #sshot). Can you help me diagnose the root cause of this issue and fix it? #plan

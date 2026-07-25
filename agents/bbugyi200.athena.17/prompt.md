@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add a new `?` keymap and a new `/` keymap to the zoom panel in the TUI that allow users to search (backward and forward) the zoom panel's current contents using a Vim style search? #beau #plan #m_opus

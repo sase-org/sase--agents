@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:bt Can you help me use GPT image to improve this infographic using the critique provided by the previous agent? Overwrite the old image file using this new image that you created.

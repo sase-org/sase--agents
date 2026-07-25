@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The agent CLI update for claude code keeps failing (see #sshot). Can you help me diagnose the root cause of this issue and fix it? #plan  #m_opus

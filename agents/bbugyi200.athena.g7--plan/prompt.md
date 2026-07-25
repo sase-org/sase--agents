@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase This phase agent (see #sshot) created a plan, so we should see a `PLAN` lane rendered in the `SASE CONTEXT` section, but no such lane is shown. Also, the data for the `sase-83.1` sase bead isn't loading in the `BEAD` lane for some reason. Can you help me fix both of these issues? #plan

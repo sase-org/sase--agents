@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The /sase_run xprompt skill should instruct the agent that launching a new agent is an async process that the agent should NOT wait around for (i.e. instead, it should use /sase_run and then terminate if the rest of its work is done). Can you help me make this change?

@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase #fork:a4.w0.w0.f1 This agent ran into some unexpected trouble when running the `just check` command (see the quote below from the agent's transcript for context). Can you help me diagnose the root cause of this issue and fix it so this doesn't hinder future agents? #plan #m_fable 
+
+> The refreshed core fixed all eight schema failures, but `just check` still stops at the same unrelated plans-sidecar README drift before launching its test stage.

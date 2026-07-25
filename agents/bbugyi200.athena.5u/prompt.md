@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me remove the project/ChangeSpec picker that is shown when the user selects `Custom revival search...` from the "Agent Revive" panel? We can just let the user filter using the filter bar on the panel after the last 250 dismissed agents are loaded into that panel. #plan

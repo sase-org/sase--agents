@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We currently show the status of the axe process in the bottom right of the TUI but we don't make it clear that this status is associated with axe. Can you help me make this much clearer to users somehow? #bea #tale #m_opus

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Something is wrong with the new `sase_chop_toobig_split` chop (defined and configured in my chezmoi repo). See the "split_file.projects_pane-2" sase agent for an example of what I'm talking about. It looks like a jinja2 xprompt input variable was not rendered correctly. Can you help me diagnose the root cause of this issue and fix it? #plan

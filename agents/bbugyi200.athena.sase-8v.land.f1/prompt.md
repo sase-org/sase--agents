@@ -1,0 +1,2 @@
+#gh:gh_sase-org__sase
+#fork:athena.sase-8v.land Can you help me remove any backward compatibility that we left around (this is the only machine I've been using with sase for weeks and I am its only user) and just strip the `athena.` machine hood prefix from all old Agent data files? Make sure you don't break anything on this machine though! #plan

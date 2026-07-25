@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:2j Can you now help me make this command even nicer by adding some CLI options that users will likely find useful (e.g. commit count, before/after date, output format, etc...)? #beau #tale #m_opus

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We shouldn't show `@<tribe>` on agent rows (on the agents tab) when tribes are separated into different agent panels (they can be grouped together using the `,g` keymap). See #sshot for context. Can you help me fix this? #plan

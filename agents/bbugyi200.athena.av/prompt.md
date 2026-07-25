@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make the syntax highlighting for inline code (e.g. `foo`) a bit more visible in the prompt input widget? The #sshot file contains an example of what it looks like now. #bea #tale

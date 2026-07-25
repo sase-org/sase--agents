@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start having the `toobig_split` chop launch all of its agents inside of the `toobig-@` clan? This will require you to also add sase config support to chops for only running them when no agent clan with a name that starts with a particular string (`toobig-` in our case) exists. #plan %w:sase-7o.4

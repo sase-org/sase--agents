@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase Can you help me make the xprompt property panel that is displayed above the top prompt input widget on the stack of prompt input widgets much easier to use? The goal is to make it so easy to create and modify xprompts (and normal user prompts which have the exact same shape) from the TUI that there is no justifiable reason that the user would want to use their editor to do so aside from familiarity.
+
+#beau #tale #m_fable

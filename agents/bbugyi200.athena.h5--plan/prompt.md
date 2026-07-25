@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I'm pretty sure that we are emitting a terminal bell before switching an agent's status from `TALE APPROVED` to `WORKING TALE`, but I'm not sure where this is coming from. Can you help me dig into this, diagnose where this bell sound is coming from, and remove this bell in this particular case? #plan

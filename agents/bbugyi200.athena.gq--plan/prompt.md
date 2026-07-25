@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add a new `T` keymap to the "Statistics" tab of the "SASE Admin Center" panel that works just like the existing `t` keymap on that tab, but cycles the time ranges in the opposite direction? #plan

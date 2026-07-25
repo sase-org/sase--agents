@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase sase currently has an Android repo that I haven't touched in a long time and I never even tested it to see if it ran. I've been intrigued by the idea of a dedicated sase mobile app for a while now to break free of the limitations of using Telegram to interact with sase. Can you do some research to help motivate the creation of a dedicated sase mobile app? In particular my goal would be to replicate as much functionality from the TUI in a mobile native way.
+
+#research #m_fable

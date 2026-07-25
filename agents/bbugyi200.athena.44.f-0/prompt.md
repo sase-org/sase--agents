@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:44 Also, We currently only fetch from remote GitHub repos if we haven't done so in the last 60 seconds but there's no clear visual indication that a fetch is happening when it occurs. Can you start printing something to the user when we fetch from remote? #bea

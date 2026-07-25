@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase When loading the "Models" panel in the TUI, can we start showing a warning message / indicator when the user has defined a custom alias that overrides a builtin alias? Advice the user that they should override the model aliases value using the `llm_provider.model_aliases.builtin` config field instead of `llm_provider.model_aliases.custom`. #plan

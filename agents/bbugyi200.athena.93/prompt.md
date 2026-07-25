@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me create an epic bead, phase beads, and all of the required dependencies for the approved epic plan in the ~/.sase/plans/202607/bead_work_from_plan_file.md file? Once you are done, run the `sase bead work <epic_bead> -y` command to launch the agents who will work the epic.

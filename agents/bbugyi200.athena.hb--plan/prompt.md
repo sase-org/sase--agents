@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The "Commits" sub-tab of the "Artifacts" tab currently sets `limit:40` in the default search query. This shouldn't be necessary since the default query also filters for only the commits that were made in the last 24 hours. Can you help me remove this from the default commits query? #plan

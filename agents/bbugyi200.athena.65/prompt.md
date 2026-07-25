@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me search for and fix any bugs with the prompt stash panel (I don't think that the `<space>` keymap properly pins multi-prompt stashes all of the time, for example), diagnose their root causes, and fix them? #tale #m_fable

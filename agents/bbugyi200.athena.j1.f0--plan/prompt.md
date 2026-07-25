@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:j1 Can you now help me add similar support for the `O` keymap in the prompt input widget? #plan

@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase #fork:hk.f0 This worked! Can you now help me make it so the `H` keymap prefers to fully collapse all agent houses in an agent tribe panel group (if any are open) instead of collapsing the panel group? For example, in #sshot:2, if the user presses `H` after you implement this, I would expect to see #sshot. If the user were to press `H` again, then the `Running` panel group should be collapsed (which is the existing behavior today), since no agent houses in that group are expanded anymore.
+
+#plan

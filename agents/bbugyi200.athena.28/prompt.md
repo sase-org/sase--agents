@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #coder:~/.sase/plans/202607/prepare_workspace_sdd_link.md

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add a new, random (and funny) sase snippet to the sase.yml file in my chezmoi repo? #m_sonnet

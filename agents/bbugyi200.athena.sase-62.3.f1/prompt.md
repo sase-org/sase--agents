@@ -1,0 +1,2 @@
+#gh:gh_sase-org__sase
+#fork:sase-62.3 It looks like this agent ran into some issues when running the `sase init` command from the sase/repos/linked/ repo directories. Is there anything we can do to fix this so this doesn't happen again in the future? Also, it would be great if we could completely get rid of any remaining legacy sdd/ logic from the codebase. #plan #m_fable

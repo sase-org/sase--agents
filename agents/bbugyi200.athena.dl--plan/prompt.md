@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We seem to have some weird CSS rule that makes the untagged agent panel reduce its size like this when its contents are too large. Can you help me fix this so we make the most of the screen's vertical space? See #sshot for context. #plan

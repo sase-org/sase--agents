@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:3w.f-0.w-1 did we make sure to remove the Legend telegram button from our sase-telegram integration? #if_not_plan

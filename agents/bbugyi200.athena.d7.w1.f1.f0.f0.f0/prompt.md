@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:d7.w1.f1.f0.f0 I like the new colors, but have decided I don't like the agent clan/family icons. Can you help me remove the icons?

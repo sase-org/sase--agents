@@ -1,0 +1,2 @@
+#gh:gh_sase-org__sase
+I just realized that the "toolong" PyPI project is already taken! I've decided on a new project name, "toobig", and have already published that name properly to PyPI (it is now "pending"--i.e. waiting for the first release). See the sase-5r epic bead for context (which you should close after completing this work). Can you help me rename everything to "toobig" (including the GitHub repo, project directory, and sase integration)? #plan #m_fable

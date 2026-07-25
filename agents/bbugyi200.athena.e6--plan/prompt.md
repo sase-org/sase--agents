@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase The `~` (neighbor) keymap on the agents tab is supposed to show all of the other agents that have agent names which the current agent's name starts with or vice-versa (the other agent's name starts with the current agent's name), or that agent and this agent share one or more agent hoods. We should try to separate these neighbor agents (in the neighbor panel) into groups the best we can (use your best judgement here). Can you help me make the implementation match these requirements?
+
+#beau #plan #m_fable

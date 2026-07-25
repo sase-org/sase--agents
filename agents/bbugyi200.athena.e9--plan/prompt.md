@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add a new `D` (delete all) keymap to the prompt stash panel that marks all prompts in the prompt stash for deletion? #plan

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add a new `,H` keymap that expands/collapses one or more agent panels based on which hints (rendered by those panels) the user selects? See the recently added `H` / `L` keymaps for context. Make sure we support selecting multiple hints and ranges of hints using the same syntax we do elsewhere when using hints in the TUI. #beau #tale

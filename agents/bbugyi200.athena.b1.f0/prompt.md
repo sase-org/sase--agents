@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:b1 Also, let's put the `Deltas:` and `Artifacts:` fields in a new `FILES` lane for the `SASE CONTEXT` section. #beau #tale #m_opus

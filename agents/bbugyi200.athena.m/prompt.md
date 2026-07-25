@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We recently replaced the raw project directory name with the configured project name in user-visible text all throughout our codebase. See recent git commits for context. I think we maybe overlooked some references in the sase-telegram repo. Can you help me confirm this and fix those references as well? #plan

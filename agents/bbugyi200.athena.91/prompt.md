@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I don't think that when we kill agents that have open questions (i.e. asked a question using the /sase_questions skill) that we correctly dismiss the corresponding question notification. Can you help me confirm/deny this suspicion, diagnose the root cause, and fix the issue? #plan

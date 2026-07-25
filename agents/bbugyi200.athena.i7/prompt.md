@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The TODO foreground color is still not dark enough to be visible in the prompt input widget (see #sshot). Can you help me fix this? #plan #m_opus

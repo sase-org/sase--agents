@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:i3 You need to make the forground (i.e. the "TODO") text darker, so the user can read it. Also, stop highlighting text after "TODO" unless it ends with a colon (i.e. "TODO:"); see #sshot for the kind of ugly syntax highlighting not doing this causes. #plan

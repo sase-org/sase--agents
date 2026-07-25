@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Why does the `bugyi-chops` sase plugin appear to be not installed in the "Updates" tab of the "SASE Admin Center" panel (see #sshot for context)? Can you help me diagnose the root cause of this issue (reinstall the `bugyi-chops` plugin using the `sase plugin install` command if you have to / if that is desirable) and fix it? #plan

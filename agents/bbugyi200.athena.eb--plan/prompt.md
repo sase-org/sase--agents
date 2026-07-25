@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We recently added the ability to select Agent Tribe panels on the Agents tab (see the sase-6z epic bead and #sshot for context). I like the way this looks mostly but don't like that we lost the agent tribe panel header. Can we start rendering that above the box when the tribe panel is selected instead of making it disappear altogether? #beau #plan

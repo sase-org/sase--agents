@@ -1,0 +1,2 @@
+#gh:gh_sase-org__sase
+%w:sase-6t.land Can you help me add support for negative filters to the filter bar supported by the "Commits" and "Plans" sub-tabs of the "Artifacts" tab? For example, we should be able to use the `-repo:plans` query to specify that we want to see all commits except for those in the `plans` sidecar repo. #plan

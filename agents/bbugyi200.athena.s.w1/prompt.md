@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me rename the `just demo-video` command to `just demos`? %w:s

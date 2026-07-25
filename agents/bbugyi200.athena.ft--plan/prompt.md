@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `[`/`]` keymaps are not working on the "Updates" sub-tab of the "SASE Admin Center" panel. Can you help me diagnose the root cause of this issue and fix it? Also, make the footer message related to these keymaps consistent with what we show on the "Projects" sub-tab of the same panel. #plan

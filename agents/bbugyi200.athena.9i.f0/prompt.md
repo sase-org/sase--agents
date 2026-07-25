@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:9i For epic plan files, can we also render each of the `phases` entries from the epic plan file's frontmatter in a nice way? #beau #plan

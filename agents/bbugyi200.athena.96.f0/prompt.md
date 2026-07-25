@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:96 Can you now help me figure out why those screenshot tests are failing? Is it a bug or did we just forget to update the screenshots at some point? Diagnose the root cause and fix it. #plan

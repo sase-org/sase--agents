@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase can you help me start hiding all sidecar repos by default on the commits sub-tab of the artifacts tab? The user should be able to specify that they want to see filtered repos by using sidecar:true (which you will need to add support for)  in the filter input bar on that tab. #plan

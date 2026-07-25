@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me rename agent "hole" to agent "lane" anywhere you find a lingering reference like this (see git commit e803ce63f305 for context)? Make sure you are thorough and update all references. #plan

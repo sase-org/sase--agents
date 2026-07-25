@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start showing clan members above the clan summary in the agent metadata panel when an agent clan is selected? #plan

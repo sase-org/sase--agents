@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We still seem to be showing weird project names used as arguments to the `#gh` VCS xprompt workflow in prompt history (see #sshot for an example of this bad behavior). The project name that is configured in the project spec file should be used for all user-facing prompts. Can you help me fix this? #plan #m_fable %a:tale

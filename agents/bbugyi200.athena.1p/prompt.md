@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase The `sase bead show` command currently shows an epic bead's design/plan file in its output when the epic bead is given as an argument. Can you help me start showing the corresponding epic's plan file in the output when a phase bead is targeted too? Make sure that it is clear from the output that this plan file is associated with the epic bead (i.e. a larger body of work / project that this phase is associated with) and not specific to this phase.
+
+#plan %a:tale

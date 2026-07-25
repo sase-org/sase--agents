@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:3o.f-0 I'm thinking about adding a keymap to the agents tab that automatically loads all commits made by this agent in this new commits panel. What keys are available for this keymap and which would you recommend?

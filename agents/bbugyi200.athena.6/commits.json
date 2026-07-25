@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1783352761,"sha":"ba445aaf98c45d1091f82d36819390d84342a479","subject":"chore: Add SDD prompt and plan for bare_git_first_use_init"},{"committed_at":1783353493,"sha":"dff269e3a8642a84609ae17d7b3c4ba91595f577","subject":"fix: recover bare git projects from partial init state"}],"schema_version":2,"source_run_id":"run-da9f1ed74020cf784939ed0ed071b32f"}

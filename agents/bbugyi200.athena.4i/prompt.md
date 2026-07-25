@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase A sase agent launch just failed (see #sshot). Can you help me fix this? I don't think this validation that we perform is valid. We might want to just remove it. #tale

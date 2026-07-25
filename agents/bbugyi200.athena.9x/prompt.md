@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me investigate the ~/.sase/plans/202607/nested_clone_context_and_legacy_sdd_retirement.md epic plan file, which was created earlier today and verify that all of the claims it makes are correct? Would you recommend approving this epic?

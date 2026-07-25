@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase It seems like the `#git:home` project (and maybe other bare git projects too?) is not properly initialized upon first use (see #sshot for context)? Can you help me diagnose the root cause of this issue and fix it? #plan #m_fable %a:tale

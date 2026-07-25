@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1783483812,"sha":"24c7cf6691b88f30f6b00ded45a0ecd750a12d84","subject":"chore: Add SDD prompt and plan for phase_bead_epic_plan"},{"committed_at":1783484516,"sha":"36f89b7724fd2b67920769b4c452dd4e9f72dfe5","subject":"feat(bead): show parent epic plans for phase beads"}],"schema_version":2,"source_run_id":"run-a637b3b509597aa892e8cc2691fbe34e"}

@@ -1,0 +1,33 @@
+# Hood: gy
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / gy
+
+**Global hood:** `bbugyi200.athena.gy` · **Runs:** 25 · **Families:** 7 · **States:** active 12, completed 7, dismissed 1, waiting 5
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [gy.f1.f8.f0--plan](../../../../../../families/bbugyi200.athena.gy.f1.f8.f0.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-21T15:31:15.427024+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.gy.f1.f8.f0--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.gy.f1.f8.f0--plan/chat.md) |
+| [gy.f1.f6.f1](../../../../../../agents/bbugyi200.athena.gy.f1.f6.f1/README.md) | active | gpt-5.6-sol / codex | 20260721092346 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.gy.f1.f6.f1/prompt.md) |
+| [gy.f1.f8--plan](../../../../../../families/bbugyi200.athena.gy.f1.f8.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-21T13:58:24.734386+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.gy.f1.f8--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.gy.f1.f8--plan/chat.md) |
+| [gy.f1.f8.f0--code](../../../../../../families/bbugyi200.athena.gy.f1.f8.f0.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-21T15:35:11.634292+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.gy.f1.f8.f0--code/chat.md) |
+| [gy--plan](../../../../../../families/bbugyi200.athena.gy.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-21T12:20:50.439573+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.gy--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.gy--plan/chat.md) |
+| [gy.f1.f6.f0.w0.f2.f1](../../../../../../agents/bbugyi200.athena.gy.f1.f6.f0.w0.f2.f1/README.md) | active | gpt-5.6-sol / codex | 2026-07-21T16:41:06.433372+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.gy.f1.f6.f0.w0.f2.f1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.gy.f1.f6.f0.w0.f2.f1/chat.md) |
+| [gy.f1.f0](../../../../../../agents/bbugyi200.athena.gy.f1.f0/README.md) | waiting | gpt-5.6-sol / codex | 20260721090503 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.gy.f1.f0/prompt.md) |
+| [gy--code](../../../../../../families/bbugyi200.athena.gy.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-21T12:33:30.524199+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.gy--code/chat.md) |
+| [gy.f1.f6.f0.w0.f2--code](../../../../../../families/bbugyi200.athena.gy.f1.f6.f0.w0.f2.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-21T15:46:38.153363+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.gy.f1.f6.f0.w0.f2--code/chat.md) |
+| [gy.f1.f6.f0.w0.f2--plan](../../../../../../families/bbugyi200.athena.gy.f1.f6.f0.w0.f2.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-21T15:35:55.868954+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.gy.f1.f6.f0.w0.f2--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.gy.f1.f6.f0.w0.f2--plan/chat.md) |
+| [gy.f1.f7--plan](../../../../../../families/bbugyi200.athena.gy.f1.f7.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-21T14:33:36.431188+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.gy.f1.f7--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.gy.f1.f7--plan/chat.md) |
+| [gy.f0](../../../../../../agents/bbugyi200.athena.gy.f0/README.md) | active | claude-fable-5 / claude | 2026-07-21T13:02:07.106892+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.gy.f0/prompt.md) |
+| [gy.f1--plan](../../../../../../families/bbugyi200.athena.gy.f1.md#member-plan) | active | claude-fable-5 / claude | 2026-07-21T13:03:05.952224+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.gy.f1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.gy.f1--plan/chat.md) |
+| [gy.f1.f6.f0](../../../../../../agents/bbugyi200.athena.gy.f1.f6.f0/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-21T09:23:46 | 0 | — |
+| [gy.f1.f1](../../../../../../agents/bbugyi200.athena.gy.f1.f1/README.md) | waiting | gpt-5.6-sol / codex | 20260721090735 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.gy.f1.f1/prompt.md) |
+| [gy.f1.f6.f0.w0--plan](../../../../../../families/bbugyi200.athena.gy.f1.f6.f0.w0.md#member-plan) | active | claude-fable-5 / claude | 2026-07-21T14:33:32.524848+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.gy.f1.f6.f0.w0--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.gy.f1.f6.f0.w0--plan/chat.md) |
+| [gy.f1.f3](../../../../../../agents/bbugyi200.athena.gy.f1.f3/README.md) | waiting | gpt-5.6-sol / codex | 20260721091220 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.gy.f1.f3/prompt.md) |
+| [gy.f1.f6.f0.w0--code](../../../../../../families/bbugyi200.athena.gy.f1.f6.f0.w0.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-21T14:42:17.110482+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.gy.f1.f6.f0.w0--code/chat.md) |
+| [gy.f1--code](../../../../../../families/bbugyi200.athena.gy.f1.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-21T13:11:54.304959+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.gy.f1--code/chat.md) |
+| [gy.f1.f7--code](../../../../../../families/bbugyi200.athena.gy.f1.f7.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-21T14:38:24.034365+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.gy.f1.f7--code/chat.md) |
+| [gy.f1.f5](../../../../../../agents/bbugyi200.athena.gy.f1.f5/README.md) | active | gpt-5.6-sol / codex | 20260721091800 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.gy.f1.f5/prompt.md) |
+| [gy.f1.f4](../../../../../../agents/bbugyi200.athena.gy.f1.f4/README.md) | active | gpt-5.6-sol / codex | 20260721091742 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.gy.f1.f4/prompt.md) |
+| [gy.f1.f6.f0.w0.f0](../../../../../../agents/bbugyi200.athena.gy.f1.f6.f0.w0.f0/README.md) | waiting | gpt-5.6-sol / codex | 20260721111043 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.gy.f1.f6.f0.w0.f0/prompt.md) |
+| [gy.f1.f8--code](../../../../../../families/bbugyi200.athena.gy.f1.f8.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-21T14:06:12.861434+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.gy.f1.f8--code/chat.md) |
+| [gy.f1.f2](../../../../../../agents/bbugyi200.athena.gy.f1.f2/README.md) | waiting | gpt-5.6-sol / codex | 20260721091129 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.gy.f1.f2/prompt.md) |

@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase Can you help me review recent sase chats related to the TUI's performance (the sase-6c epic bead is worth looking at, for example) with the goal of improving the memory/tui_perf.md agent memory file such that it is more accurate and/or more concise and/or more useful for future agents? Use your best judgment on how long this memory file should be but keep in mind that each token in context either helps or hurts us.
+
+#plan #m_fable

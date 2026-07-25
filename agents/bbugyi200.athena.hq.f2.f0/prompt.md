@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:hq.f2 That worked well. Can you now help me start adding a fourth step (prioritized after collapsing agents/families but before collapsing groups) where we collapse any expanded agent clans? #plan

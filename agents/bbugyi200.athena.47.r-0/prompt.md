@@ -1,0 +1,2 @@
+%name:47.r-0
+#gh:gh_sase-org__sase I think we might have lingering references to the old `#hg` VCS xprompt workflow, which belonged to the (now obsolete) ../sase-google sase plugin repo. Can you help me remove all of these references? Make sure you are thorough and catch all references. #tale

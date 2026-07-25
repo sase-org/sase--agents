@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase %w:br Can you help me make sure that the `<ctrl+space>` keymap works on all sub-tabs of the "Artifacts" tab? I don't think this keymap was working on the "Plans" sub-tab for example. #plan

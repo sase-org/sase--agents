@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me merge the `SASE PLAN` section into the `SASE CONTEXT` section (see #sshot for what these look like now) by adding a new `PLAN` sub-section to the `SASE CONTEXT` section? #beau #tale #m_opus

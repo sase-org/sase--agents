@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:3z Can you now help me also make this the default model used when I run the `codex` command by updating the appropriate config file in my chezmoi repo? %m:gpt-5.5

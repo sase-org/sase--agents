@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:b1.f2 this looks good. Can you now help me add a new FILES lane to this SASE CONTEXT section that contains the Commits, Deltas, and Artifacts fields? Make sure the FILES lane is always shown at the bottom because its fields are so verbose and make sure that the PLAN lane is always shown at the top since it is so important. #beau #tale #m_opus

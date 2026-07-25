@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We currently identify sase plugins by looking for the sase-plugin GitHub repo label. Can you help me change that so we look for sase--plugin instead? #tale

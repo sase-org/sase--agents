@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The models panel currently gives us the ability to override one or more model alliances for a certain amount of time. There are several pre-set durations available and you can set a custom duration. Can you help me also add the ability to set the override until a specific time? #beau #tale

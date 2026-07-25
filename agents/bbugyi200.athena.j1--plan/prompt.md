@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We recently added support for the `o` keymap in the prompt input widget to auto-add a bullet (with appropriate nesting) when the current line is contained in a bullet. Can you help me add the same behavior for the `<ctrl+j>` insert-mode keymap? #plan

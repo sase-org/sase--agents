@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me remove support for the memory/ markdown `keywords` property? This property should no longer be used anymore. Make sure you remove it from all existing memory files and remove all related code support. #tale

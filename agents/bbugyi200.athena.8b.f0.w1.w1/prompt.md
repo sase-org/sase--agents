@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase %w:8b.f0.w1 The prompt input widget has some syntax highlighting for xprompts currently but we lack syntax highlighting for code blocks, whether in-line or multi-line. This is important since code blocks can be used to escape xprompts and xprompt directives so it's important we not highlight xprompts or xprompt directives inside of code blocks. Can you help me add great syntax highlighting for code blocks to the prompt input widget?
+
+#beau #tale #m_fable

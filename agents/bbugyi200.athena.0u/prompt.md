@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start using `%auto:tale` in epic phase worker agent prompts and in epic lander agent prompts instead of just `%auto`? This way the plan file is committed to the repo in the sdd/tales/ directory. #plan %a:tale

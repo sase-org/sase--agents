@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Why are `Stopped` and `Waiting` agents shown at the bottom instead of at the top and below the `Running` group, respectively, when grouping the agents tab `by status` (see #sshot)? I'm guessing that we broke something when we changed how we sort agents within an agent clan recently. Can you help me diagnose the root cause of this issue and fix it? #plan

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:0z.w1 Can you now help me add support for these same type of hints to tool call entries in the "SLOW TOOL CALLS" section that correspond with tool calls that succeeded? #plan %a:tale

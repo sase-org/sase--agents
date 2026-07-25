@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The TUI just froze up on me for a few seconds again. Can you dig deep in the sase's logs to diagnose the root cause of this performance issue and fix it? #plan #m_fable

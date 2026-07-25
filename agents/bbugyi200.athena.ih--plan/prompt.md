@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase It seems like when I launch epics by running the `sase bead work` command directly, the clan summaries don't get added. Can you confirm or deny my suspicion and then if I'm right fix this so clan summaries for epics always get added when epics are launched? #plan

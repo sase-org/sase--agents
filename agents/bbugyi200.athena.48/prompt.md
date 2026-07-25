@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase This sase agent (named "47") just failed (see #sshot). Can you help me diagnose the root cause of this issue and fix it? #tale #m_opus

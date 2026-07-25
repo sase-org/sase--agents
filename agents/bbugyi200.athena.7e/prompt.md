@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Why did we never migrate this repo from using the vendored pyvision script to using the new symvision Python package (see the sase-5t epic bead for context)? Can you help me fix this? #plan

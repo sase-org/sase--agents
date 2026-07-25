@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me remove the blank line between the "SASE PLAN" section header and the "Goal:" field (see #sshot for context)? #tale

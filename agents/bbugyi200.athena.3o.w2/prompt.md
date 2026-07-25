@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Sometimes when I use the `v` (view) keymap on the "Agents" tab of the `sase ace` TUI, the hints disappear before I submit my hint input. Can you help me diagnose the root cause of this issue and fix it? #plan #m_opus %w:3o

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add excellent xprompt syntax highlighting (equivalent to what is supported in the prompt input widget) to the `AGENT XPROMPT` section of the agent metadata panel on the "Agents" tab of the `sase ace` TUI (see #sshot for what this section looks like now)? Make sure this doesn't hurt the TUI's performance too much. #tale #m_fable

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We have some logic in this codebase that automatically renders an agent in a particular agent panel, based on the relationship between the name of that agent and the name of the agent panel, can you help me remove this logic so whether or not an agent belongs to a particular agent panel is entirely determined by the `%group` xprompt directive? #plan

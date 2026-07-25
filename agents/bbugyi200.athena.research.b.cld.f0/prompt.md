@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:research.b.cld Can you explain why this agent did not use the /sase_repo skill to open the `gh:steveyegge/beads` external sase repo? It looks like it used a web fetch tool instead (despite the instructions telling it to use /sase_repo that should be in the CLAUDE.md file). Can you help me fix this for future agents? #plan #m_fable

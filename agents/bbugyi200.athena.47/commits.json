@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781018428,"sha":"425cba35a314bb9a63bec638b24884cf18d3b17a","subject":"chore: Add SDD prompt and plan for agent_name_namespace_templates"},{"committed_at":1781019927,"sha":"75f999ecd223802b9fdf55fd4b13214978eea970","subject":"fix: reserve agent template namespaces"}],"schema_version":2,"source_run_id":"run-8c398496284464d5c9e89a86feecb15d"}

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start having the agents tab remember the fold states of the agent panels across restarts so, for example, the folded `Done` group and folded `#chop` panel shown in #sshot remain folded if I restart the `sase ace` TUI? Make sure this doesn't slow down the TUI's startup at all, which is already slow. #plan

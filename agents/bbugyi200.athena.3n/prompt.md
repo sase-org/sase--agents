@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `<ctrl+g><ctrl+c>` keymap doesn't seem to do anything at all in the prompt input widget. Can you help me diagnose the root cause of this issue and fix it? If this is because `<ctrl+c>` is special, you can change the trigger to `<ctrl+g>c`. #tale #m_opus

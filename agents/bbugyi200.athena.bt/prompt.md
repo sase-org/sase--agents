@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you provide a constructive critique of the infographic stored in the docs/images/sase_overview.png file with a goal of making it more accurate, useful, and beautiful? #m_fable

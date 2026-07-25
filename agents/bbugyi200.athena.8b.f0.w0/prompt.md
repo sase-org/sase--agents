@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase %w:8b.f0 Can you help me start highlighting the text that is copied using the `y` keymap in the prompt input widget for a moment after the text is copied? See how I handle this in Neovim in the ~/.local/share/chezmoi/home/dot_config/nvim/lua/config/autocmds.lua file in my chezmoi repo for inspiration. #beau #plan #m_opus

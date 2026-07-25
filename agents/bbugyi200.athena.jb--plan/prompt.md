@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me stop adding the `#plan` xprompt for medium sized epic phase worker agent prompts (only do this for large phases)? #plan

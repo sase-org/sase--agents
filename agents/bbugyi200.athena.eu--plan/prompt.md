@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The agent statuses shown in the `FAMILY MEMBERS` section of the agent metadata panel on the "Agents" tab of the `sase ace` TUI for this agent (see #sshot) do not match the actual statues of those child / family member agents. Can you help me diagnose the root cause of this issue and fix it? #plan

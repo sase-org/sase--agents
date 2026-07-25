@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:95 Can you help me also verify that the clone we create uses the proper SSH git remote (ex: `git@github.com:sase-org/sase--plans.git`--HTTPS git remotes are not allowed)? #if_not_plan

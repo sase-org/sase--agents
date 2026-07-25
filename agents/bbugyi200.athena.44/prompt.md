@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `sase vcs log` command lists only 20 commits by default unless the `-n|--limit` option is used. Can you help me change this to 40?

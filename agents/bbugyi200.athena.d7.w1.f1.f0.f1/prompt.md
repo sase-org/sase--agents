@@ -1,0 +1,2 @@
+%auto
+#gh:gh_sase-org__sase #fork:d7.w1.f1.f0 Actually, can we start coloring agent clan names the same as the agent clan icon and coloring agent family names the same as the agent family icon? Make sure this is still readable and everything still looks good. #plan

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:d6 Can you actually help me change this button/option text from "Approve" to "Tale"? #plan

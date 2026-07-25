@@ -1,0 +1,2 @@
+#gh:gh_sase-org__sase 
+%w:sase-5g Can you do some research into the recently implemented "dynamic agent families" (see the sase-5f and sase-5g epic beads and related git commits) with the goal of helping me produce a user manual that describes their design and how to use them? #research #m_fable

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The toobig chop's agents are supposed to run in the `@chop` tribe. Can you help me fix this by making the `toobig-@` clan join the `@chop` agent tribe? #plan

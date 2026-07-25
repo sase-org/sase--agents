@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1783460995,"sha":"419bbfddef78e9f89ef4949b3406dbf6480b6136","subject":"chore: Add SDD prompt and plan for telegram_update_core"},{"committed_at":1783461588,"sha":"d4ed465fda9267c014146f8f04298a77dcd9e838","subject":"fix: include core package in dev updates"}],"schema_version":2,"source_run_id":"run-bde952faa360b80d7c7c39f1193d8314"}

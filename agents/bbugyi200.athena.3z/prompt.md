@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add support to sase for gpt-5.6 and switch all xprompts that currently use gpt-5.5 (make sure to check my chezmoi repo) over to use gpt-5.6? Make sure you add support for gpt-5.6 to all sase model surfaces (i.e. everywhere that sase deals with models). #tale

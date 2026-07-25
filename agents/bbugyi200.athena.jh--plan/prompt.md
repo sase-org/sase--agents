@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase When we complete agent names in the prompt input widget (e.g. for the `%wait` directive or the `#fork` xprompt), we don't seem to include any of the names for the agent lanes that are nested under collapsed agent clans. This is not correct (we should show these). Can you help me fix this? #plan

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Question notifications in the notification panel do not currently show any helpful information on the right pane (see #sshot). Can you help me start populating a useful summary of the questions that the agent asked in this pane (make sure it is clear which agent asked the question too)? #beau #plan #m_opus

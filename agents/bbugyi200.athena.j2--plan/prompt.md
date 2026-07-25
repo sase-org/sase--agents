@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add support for killing and restarting individual members of agent families from the agents tab using the `,x` keymap? For example, in #sshot, pressing `,x` should dismiss the `sase-8u.4.2--code` agent and load the proper prompt (using `!` to overwrite the agent name) in the prompt input widget. #plan

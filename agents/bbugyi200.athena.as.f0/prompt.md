@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:as Can you now help me add support to the `,j` and `,J` keymaps for auto-expanding an agent panel if the apppropriate agent row to jump to lives in that panel? #tale

@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase %w:3w.f-0 sase urrently has the concept of tales, epics, legends, and myths in the sdd directory/repo. I have barely ever used legends and have never used myths. Can you help me remove all support for legends and myths from sase? Make sure your review is thorough and you remove all references, supporting code, and/or xprompts. I believe I may have one or two legend plan files and/or beads that exist currently. Just go ahead and remove all of them. I can access them via git commit history if I need to.
+
+#tale

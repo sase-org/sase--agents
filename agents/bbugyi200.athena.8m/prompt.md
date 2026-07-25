@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I think I just discovered a bug in the `sase ace` TUI. Namely, when I folded the "Done" group on the "Agents" tab, the "Done" group from ALL agent panels was folded (see #sshot), instead of just foldin the current panel's "Done" group. Can you help me fix this? #plan

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:d7.w1 Can you now help me add some nice icon in front of an agent family row to distinguish it from a single-agent row (a top-level row that contains only one agent child row)? We do this currently for agent clan rows. Try to make the agent clan icon better if you can too. #beau #plan #m_opus

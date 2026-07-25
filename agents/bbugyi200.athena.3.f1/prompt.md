@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:3 Can you now do the same for the sase-telegram repo? #plan #m_fable %a:tale

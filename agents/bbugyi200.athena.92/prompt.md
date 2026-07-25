@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase It looks like sidecar repos are being initialized (or were at some point) using HTTPS instead of SSH. Can you help me confirm/deny this suspision and fix the issue? #plan

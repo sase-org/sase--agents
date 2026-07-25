@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I'm pretty sure we have some xprompts that still instruct agents to write to the sdd/research/ directory unconditionally. That is not correct. I think we have a `sase sdd path` command that we should be using instead (use the xprompt shell expansion syntax to run this command). Can you help me find the xprompts that need to be updated and update them? #tale

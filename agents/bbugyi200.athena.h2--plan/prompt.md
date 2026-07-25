@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase When the user first navigates to the "Artifacts" tab, the default sub-tab that is selected should be the "Commits" sub-tab. Can you help me fix this? #plan

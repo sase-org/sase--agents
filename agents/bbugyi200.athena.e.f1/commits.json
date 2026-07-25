@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1783361326,"sha":"9690feb4cb59f3827cec2d27277b930155493b13","subject":"chore: Add SDD prompt and plan for root_agent_status_mirror"},{"committed_at":1783362320,"sha":"7b53fec4b02faf76ac9cb8a285ab4f8f0ff4dc33","subject":"fix(tui): mirror root wait status from child agents"}],"schema_version":2,"source_run_id":"run-c465c8011e42b39e58ef01827b6771a9"}

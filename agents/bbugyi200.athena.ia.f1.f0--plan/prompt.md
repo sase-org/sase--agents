@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:ia.f1 You fixed the total counts but didn't fix the individual agent status counts (for the top of the tab or the individual agent tribe panel counts). Can you help me fix this? #plan

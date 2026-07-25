@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me change the color of xprompt arguments in the prompt input widget to something distinct (but not too different) from the color we use for the xprompts themselves (see #sshot for what this looks like now)? #beau #tale #m_opus

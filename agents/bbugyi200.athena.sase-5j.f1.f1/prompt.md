@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:sase-5j.f1 Also I think I have another agent running that is going to land an Epic soon and is attempting to use the Fable model. Can you kill that agent and relaunch it using the Opus model?

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase A codex agent just failed because the selected model is at capacity. sase already has support for retrying failed agents if the failure message matches a particular pattern. Can you help me add the appropriate string to this configuration field's default so we, by default, retry this type of codex sase agent failure (see #sshot)? #plan #m_opus

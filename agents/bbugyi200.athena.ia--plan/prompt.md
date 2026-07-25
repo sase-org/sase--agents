@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We should be showing the count of agent holes on the agents tab, NOT the total count of agents. For example, in #sshot, `56` should be replaced with `31`. Can you help me fix this? #plan

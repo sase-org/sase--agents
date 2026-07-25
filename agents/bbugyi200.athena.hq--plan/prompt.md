@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me migrate the special behavior of the `H` keymap that triggers when an agent tribe panel is selected to the `Z` keymap, which seems more appropriate since the zoom panel can't be used in this context and we are essentially "zooming" in on a single agent tribe panel? #plan

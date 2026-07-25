@@ -1,0 +1,2 @@
+#gh:gh_sase-org__sase
+#fork:sase-5h.6 Undo that memory/glossary.md file change that you just made and make it clear to future agents somehow that it is NOT okay to add new entries to edit memory/ markdown files and/or AGENTS.md files without explicit user permission. #m_fable

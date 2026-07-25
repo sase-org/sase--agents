@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:5v Can you now help me move the final few tales/ markdown files in the .sase/sdd/ directory (the sdd companion repo) and then remove all the migration logic we added to the `sase sdd init` command and any backward compatibility code we have related to this (all projects on all machines have been updated)? #tale

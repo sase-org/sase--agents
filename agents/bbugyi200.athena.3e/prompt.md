@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me rename the sdd repo to sase--sdd (rename the repo with the `gh` command and rename the local directory as well) and stop looking for a sdd repo by default? #plan

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781694715,"sha":"b526f9def24ee979cce09ca657804782c2c7afe9","subject":"chore: Add SDD prompt and plan for rename_chats_to_chat"},{"committed_at":1781695521,"sha":"86849c6df9363015e869f75be85ca3a60aeb3961","subject":"refactor(cli)!: rename `sase chats` command to `sase chat`"}],"schema_version":2,"source_run_id":"run-97ca23e791b2d85ec8e5432430cb45ed"}

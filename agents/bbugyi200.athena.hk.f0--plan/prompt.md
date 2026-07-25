@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:hk This seemed to work for some agent house members, but not all of them (it needs to work on all agent house members--even Bash and Python steps). For example, in #sshot, pressing `l` does nothing. Can you help me diagnose the root cause of this issue and fix it? #plan

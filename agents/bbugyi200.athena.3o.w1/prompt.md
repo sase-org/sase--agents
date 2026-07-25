@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase %w:3o We shouldn't show the commit_message.md file (used by the `sase commit` command) as a "DELTAS:" field entry (see #sshot). Can you help me fix this? #tale

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The "SASE Admin Center" currently uses the `[` / `]` keymaps to navigate the main tabs and the `<tab>` / `<shift+tab>` keymaps to navigate sub-tabs (ex: on the we have these on the "Projects" tab). Can you help me switch these (i.e. use `[` / `]` for sub-tabs and vice-versa)? #tale

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Instead of "Submit primary" for the `<enter>` keymap on the sase gate panel in the TUI (see #sshot for context) can we show the name of the primary option (ex: "Tale" in the case of the screenshot) instead and make this keymap description in the footer stand out a bit more? #beau #plan

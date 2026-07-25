@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:3b I'm worried that a git clone in CI might be unreliable (what if the `git clone` fails due to some temporary network issue) and slow once the sdd repo has a lot of commits. Can you make this more reliable somehow and, if possible, cache the cloned repo so we don't need to clone it on every CI run? #plan  #m_opus

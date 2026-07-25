@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I keep getting an error after I confirm the update (by pressing `y` in the y/n prompt that is triggered) that I initiated using the `u` keymap from the "Updates" tab of the "SASE Admin Center" panel (see #sshot for the error). Can you help me diagnose the root cause of this issue and fix it? #plan #m_fable %a:tale

@@ -1,0 +1,2 @@
+%auto:tale
+#gh:gh_sase-org__sase I keep seeing tool calls of type "Read" in the "SLOW TOOL CALLS" section of the agent metadata panel on the "Agents" tab of the `sase ace` TUI that never seem to complete (see #sshot). Can you help me diagnose the root cause of this issue and fix it? If you can't find a better way, it is acceptable to add some logic that filters out these tool calls (but only if you can't find a better way). #plan #m_fable

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase  #fork:l Also can you make it so these types of files are automatically added as sase artifacts just like we do for image files that are modified by an agent? #plan

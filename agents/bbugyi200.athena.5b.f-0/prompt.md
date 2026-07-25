@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:5b Can you now help me make the `sase sdd init` command always prompt the user (y/n) before creating the new SDD GitHub repo? #tale

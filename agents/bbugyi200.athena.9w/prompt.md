@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me remove the blank lines underneath all of the sections in the agent metadata panel, just like the "SASE PLAN" section already does? Also, can you change the color of the "Goal:" field text so it doesn't match the section title's color so closely? See #sshot for an idea of what this looks like now. #plan

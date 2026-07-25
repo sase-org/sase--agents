@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `<provider>_coder` model aliases are supposed to default to `@coder`, but they seem to default to `@default` instead (see #sshot). Can you help me diagnose the root cause of this issue and fix it? #plan %a:tale

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me get rid of the `ID:` field shown in the `BEAD` lane (see #sshot) and just put the bead ID next to the word `phase` (which is to the right of `BEAD`)? #plan %auto

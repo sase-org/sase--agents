@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add a new -a|--all option to the sase init command that specifies that we should attempt to initialize every known active main sase project? See how the sase vcs log command handles this with its CLI option of the same name for inspiration. #tale

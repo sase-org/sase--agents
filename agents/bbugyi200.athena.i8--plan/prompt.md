@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make the `o` keymap start auto-inserting `-` bullets at the appropriate level of indentation when used in the prompt input widget on a line belonging to (not necessarily the top line, since we use `prettier` to wrap bullets) an existing bullet? #plan

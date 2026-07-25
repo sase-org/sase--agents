@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:0e.w1.w1.w1 Can you now help me make this panel take up almost the entire TUI so there is less need to scroll? #plan %a:tale

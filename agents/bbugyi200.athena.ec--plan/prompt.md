@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The numbered keymaps on the "SASE Admin Center" panel stopped working (this might be related to the sase-6w epic bead). Can you help me diagnose the root cause of this issue and fix it? #plan

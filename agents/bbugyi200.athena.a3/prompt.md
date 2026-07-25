@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase For the sub-tabs on the "Projects" tab of the "SASE Admin Center" panel and the sub-tabs on the "Artifacts" tab, can you help me make it so the active tab is shown in all capital letters? Also, when not selected "Prs" should be "PRs" (since PR is an acronym for "pull request"). #tale

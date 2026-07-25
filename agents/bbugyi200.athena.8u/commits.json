@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781619924,"sha":"0b42943cfe127d92780e3b6dc7c32c2d9e5ecd61","subject":"chore: Add SDD prompt and plan for agent_name_brackets"},{"committed_at":1781621222,"sha":"fde659437dcdc9aac154ee0572f8816ac9320bf5","subject":"feat(tui): render agent names with brackets in Agents tab"}],"schema_version":2,"source_run_id":"run-15fcebe2d19878e5c9c9b05a308c2758"}

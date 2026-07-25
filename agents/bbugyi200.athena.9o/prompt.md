@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make sure that the `%wait` directive's `runners` directive still works when the directive was also used to specify agents to wait for? We should only run such agents when all of the agents it is waiting for are complete AND there are less than or equal to `<runners>` agents running. #if_not_plan

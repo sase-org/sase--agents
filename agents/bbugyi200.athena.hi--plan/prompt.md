@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I'm still hearing a terminal bell when `WORKING TALE` agents start (see recent, related git commits). Can you help me diagnose the root cause of this issue and fix it? Dig deep on this one. You failed before. #plan

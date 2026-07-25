@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase We recently added support to the GitHub VCS xprompt workflow/integration for storing SDD artifacts outside of the main repo in their own distinct repo. We currently support storing SDD files locally as well for GitHub projects but this was always meant to be a temporary state. Can you help me remove support for local SDD files from the GitHub integration? There should be no need for a sase sdd migrate command or a config variable for this anymore.
+
+#plan

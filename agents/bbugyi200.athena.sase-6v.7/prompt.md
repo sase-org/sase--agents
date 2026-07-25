@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase %name:sase-6v.7 %clan(sase-6v) %model:@phase_worker %auto %w:sase-6v.6 #bd/work_phase_bead:sase-6v.7

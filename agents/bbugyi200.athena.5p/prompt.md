@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Sometimes when I use the `v` (view) keymap on the "Agents" tab of the `sase ace` TUI, the hints that are initially shown disappear (see the ~/tmp/20260711_101812.png screenshot). Can you help me diagnose the root cause of this issue and fix it? #plan

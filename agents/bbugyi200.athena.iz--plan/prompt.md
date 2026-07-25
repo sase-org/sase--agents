@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I keep getting these `Missing property "machine_name"` LSP errors (see #sshot). This field should only be required in one of the potentially many sase config files, not in every one of them. Can you help me fix this? #plan

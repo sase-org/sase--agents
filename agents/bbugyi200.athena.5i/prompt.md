@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make the "Models" panel larger so there is never a need to wrap lines like is shown in #sshot? #plan %a

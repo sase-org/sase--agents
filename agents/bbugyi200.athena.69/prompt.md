@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The sase workspace open command currently uses the .sase/workspaces/ directory to clone length repos to. Can you help me start cloning them to the sase/repos/ directory (add the proper .gitignore file entry to ignore this directory and make sure that the proper sase init commands start auto-adding this entry) instead? #tale #m_fable

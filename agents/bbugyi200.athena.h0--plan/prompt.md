@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `u` keymap on the "Updates" tab of the "SASE Admin Center" panel is very slow, even though I would think we have most of the data we need by the time the "Updates" tab finishes loading. Can you help me make this keymap much faster? #plan

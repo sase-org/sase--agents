@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me have the `sase plan propose` command start deleting the `sase_plan_*.md` file that it consumes? I think it currently copies it to the ~/.sase/plans/ directory (we should start moving the file to that directory instead). #plan %a:tale

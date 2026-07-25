@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me change the trigger for the `,H` keymap to `L` on the agents tab (we don't need the old functionality of that keymap)? #plan

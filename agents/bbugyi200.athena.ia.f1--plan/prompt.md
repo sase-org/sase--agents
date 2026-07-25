@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:ia Can you help me make sure that we also fixed the counts in shown on agent clan rows and agent tribe panels? #if_not_plan

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `/` and `?` vim-inspired search keymaps in the prompt input widget seem to associate the last search query with the prompt input widget it was made from only (see #sshot). Can you help me fix this? #plan

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me change the `<ctrl+t>` (snippet) keymap trigger in the "Save draft as xprompt" panel (triggered via the `<ctrl+g>x` keymap in the prompt input widget) to `<ctrl+x>` and also allow `<ctrl+g><ctrl+x>` to be used as an alias for `<ctrl+g>x` so the user can just press `<ctrl+g><ctrl+x><ctrl+x>` to trigger this functionality? #plan

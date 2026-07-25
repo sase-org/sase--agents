@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:3o.f-0 I want to add a keymap that automatically loads all commits made by this agent (on the agents tab) or associated with this PR (on the PRs tab)  in this new commits panel. What keys are available on both of these tabs for this keymap and which would you recommend?

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:e6 Can you now help me make sure that the containing agent tribe/clan is always expanded when jumping to an neighbor agent using the `~` keymap? #plan

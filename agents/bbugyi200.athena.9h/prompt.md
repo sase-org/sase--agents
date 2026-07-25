@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The updates tab (of the "SASE Admin Center" panel) is showing that sase-core updates are available, but I'm getting an error when I try to update with the `u` keymap (see #sshot). Can you help me diagnose the root cause of this issue and fix it? #plan

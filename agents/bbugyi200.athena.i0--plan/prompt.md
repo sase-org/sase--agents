@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase When the `h` keymap is used on a collapsed agent tribe panel, we currently just show an error toast to the user. Can you help me start jumping to the last/bottom expanded agent tribe panel in the list of panels (if any are expanded) in this case instead? #plan

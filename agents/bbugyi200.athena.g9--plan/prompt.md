@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase This agent is still waiting for the sase-7z epic (see #sshot) even though that epic has already completed. I'm going to start this agent manually now but can you dig into why this happened, diagnose the root cause, and fix the issue? #plan

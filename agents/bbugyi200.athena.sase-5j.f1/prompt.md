@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:sase-5j Can you help me re-launch this agent using the exact same prompts that we used to launch it, except we should use the Opus model instead of the Fable model? Use your /sase_run skill to do this.

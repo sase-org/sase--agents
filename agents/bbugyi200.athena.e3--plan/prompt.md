@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me get sase agents to stop asking whether they can initialize sase memory or not so much? If I explicitly ask them to update a sase  memory file then they MUST initialize sase memory. #plan #m_fable

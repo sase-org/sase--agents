@@ -1,0 +1,16 @@
+# Agent: toobig-1.split\_file.tests.test\_command\_availability.58f49cd5
+
+**Global name:** `bbugyi200.athena.toobig-1.split_file.tests.test_command_availability.58f49cd5` · **State:** waiting · **Source run:** `run-e3dac60347fd4c6a6ffba3576272ce62`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-1
+
+## Summary
+
+- Model: gpt-5.6-sol
+- Provider: codex
+- Timing: 20260719233733
+- Commits: 0
+
+## Files
+
+[Prompt](prompt.md)

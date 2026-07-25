@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The /update telegram command is supposed to act nearly identically to as if the user had updated sase, the sase-core repo, and all of sase's installed plugins via the TUI. I just updated sase using the /update telegram command, however, and it looks like the sase-core repo was not updated. Can you diagnose the root cause of this issue and fix it? #plan

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1783457227,"sha":"52349bdf0c64920942ee50d885c87f158e895111","subject":"feat: add VCS ref completion foundations (sase-5i.1)"},{"committed_at":1783457547,"sha":"0fcf8a203584482ea474d9479e9a80839177bc46","subject":"test: update agent detail fake for tools footer"}],"schema_version":2,"source_run_id":"run-5260865d6253279ee27a365601e1f004"}

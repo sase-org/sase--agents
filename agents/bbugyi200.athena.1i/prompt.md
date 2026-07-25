@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make sure that the threshold (the default is 20s) used by the "SLOW TOOL CALLS" section in the agent metadata panel on the "Agents" tab of the `sase ace` TUI is configurable via a sase configuration field? #plan %a:tale

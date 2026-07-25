@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase sase agents keep failing for some unknown reason (there's not a good failure message in the TUI). When I relaunch these failed agents, they always work. I suspect that these agents are failing because I launched them before updating sase and they intentionally fail when they detect that a different version of sase is being used than the version that the launcher was using. Can you help me confirm or deny my suspicion about these failing agents, diagnose the true root cause, and fix it? If I'm correct that these agents intentionally fail, can we start automatically relaunching them since that seems to work every time?
+
+#plan #m_fable

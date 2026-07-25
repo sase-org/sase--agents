@@ -1,0 +1,19 @@
+# Family: dr
+
+Owner: `bbugyi200.athena` · Hood: `dr` · Members: 2
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["dr--code [completed]"]
+  n1["dr--plan [active]"]
+  n0 --> n1
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-code"></a>code | dr--code | completed | gpt-5.6-sol / codex | 2026-07-18T18:48:48.618252+00:00 | 1 | — | [Chat](../agents/bbugyi200.athena.dr--code/chat.md) |
+| <a id="member-plan"></a>plan | dr--plan | active | gpt-5.6-sol / codex | 2026-07-18T18:37:36.289366+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.dr--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.dr--plan/chat.md) |

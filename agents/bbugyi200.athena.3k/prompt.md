@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase When the user updates sase using the `u` keymap from the Updates tab of the sase admin center panel, we restart the TUI after the update completes. Can you help me make it so we don't restart the TUI until all other background tasks are complete? See how we prompt the user to confirm quitting the TUI when they are running background tasks for context. #plan

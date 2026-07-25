@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:da Can you now help me make sure that, when the user adds a snippet like this, it is immediately available in the TUI, even in prompt input widgets that are already open? I just added a snippet using this method earlier and I had to restart the TUI to use it. #plan

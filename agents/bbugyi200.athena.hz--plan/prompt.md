@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Our todo highlighting in the prompt input widget doesn't look great (see #sshot). Can you help me make this look much better? #beau #plan  #m_opus

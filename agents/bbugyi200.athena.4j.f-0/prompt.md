@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:4j Can you now help me move the bob_dataview.md file associated with the /bob_dataview xprompt skill to my chezmoi repo? Rename it to bob_query.md when you do that. Then re-generate xprompt skills by running the appropriate command and make sure to delete any left-over bob_dataview skills files/directories in my chezmoi repo. #tale

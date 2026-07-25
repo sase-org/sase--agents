@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me fix the `<ctrl+]>` (go-to-def) keymap in the prompt input widget when used on image files (see #sshot for context)? We should use the same method that we do elsewhere to display images in the terminal instead of trying to open image files using an editor. #plan

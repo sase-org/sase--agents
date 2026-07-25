@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you add a new term to the memory/glossary.md file called "agent house"? This term is just used as a generic name for agents/agent families. This way we don't need to explicitly state that we're talking about both of them, which is often the case since an agent family hijacks an agent's name when it is created. #plan #m_fable

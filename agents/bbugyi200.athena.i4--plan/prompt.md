@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I think we lost the legitimate terminal bell that sounds when tale/epic plans are proposed by agents when we attempted to fix terminal bells that seemed to be (verify this was the case) sounding after I had already approved the plan (see recent, related git commits). Can you help me diagnose the root cause of this issue and fix it? #plan #m_opus

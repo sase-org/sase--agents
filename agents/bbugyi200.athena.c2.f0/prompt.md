@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:c2 Can you help me update the total agent count (shown at the top) too? #plan

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase When I jump forward on the commits sub-tab (and probably other sub-tabs) using the `<ctrl+f/b>` keymaps, the pane's viewport doesn't scroll as my selected commit moves out of view. Can you help me diagnose the root cause of this issue and fix it? #plan

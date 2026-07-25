@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add support for the special apostrophe keymap to the Logs tab of the SASE Admin Center panel so I can easily jump around to different Logs tab entries? #plan %a:tale

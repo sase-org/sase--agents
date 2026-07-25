@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:3w Can you actually help me remove the `cd` VCS xprompt workflow from this memory file and then remove that VCS xprompt workflow completely (I never use it)? Make sure you remove all references. #tale

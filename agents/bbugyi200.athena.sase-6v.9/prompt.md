@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make sure that we track and display, on the statistics tab of the sase Admin Center panel, which projects or ChangeSpecs sase agents ran on? Also make sure that we offer several views and/or grouping strategies for projects / ChangeSpecs. #beau #plan #m_fable

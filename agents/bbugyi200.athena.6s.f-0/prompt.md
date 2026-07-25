@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase #fork:6s Can you now help me start storing companion repos in directories with names that strip the `<project>--` prefix from the actual GitHub repo name? For example, the `sase--plans` repo should be cloned to the sase/repos/plans/ directory instead of the sase/repos/sase--plans/ directory. Again, there should be no backward compatibility code (you should migrate all sase projects as necessary).
+
+#tale #m_fable

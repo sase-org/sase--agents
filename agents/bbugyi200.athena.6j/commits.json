@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781365488,"sha":"5fcec21ff9f1b2dbbdb605dac55baa98605cf30c","subject":"chore: Add SDD prompt and plan for prompt_history_ctrl_k_rebind"},{"committed_at":1781365853,"sha":"d7e45bc0744e1f4f0df155e7bdfabe29a547b6d1","subject":"fix(ace): rebind prompt history to ctrl+k"}],"schema_version":2,"source_run_id":"run-9c37550d67b292204950b8eff3394bd6"}

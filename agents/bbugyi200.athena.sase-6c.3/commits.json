@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1784216269,"sha":"f4639414a457e969e369078eedd71970f5402f98","subject":"perf(tui): move stale index rebuild off startup path (sase-6c.3)"}],"schema_version":2,"source_run_id":"run-65b263c10ce9bc4505f008fe0addc0c2"}

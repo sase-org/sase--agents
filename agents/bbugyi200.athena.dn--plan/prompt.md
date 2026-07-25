@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We currently use the green checkbox icon for both the primary "Tale" option and the "Launch coder agent" option of the tale sase gate. Can you help me change this so we use a rocket icon for the "Launch coder agent" option instead of the checkbox? #plan

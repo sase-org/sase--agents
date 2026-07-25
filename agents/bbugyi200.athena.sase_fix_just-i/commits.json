@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781037134,"sha":"a0658b6d916739c869ded743c78d3239fa7e56a1","subject":"fix: validate agent namespace template binding (#163)"},{"committed_at":1783398848,"sha":"8ad2eae4c745b76a1ab133f1a9f4dec0865c1e7e","subject":"test: pin ACE visual snapshot clock (#210)"}],"schema_version":2,"source_run_id":"run-7a8333ff96d16e882b97d6b2102c6a9d"}

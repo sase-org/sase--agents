@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make it so you can kill/dismiss all agents in a given tribe / agent panel when that collapsed agent panel is selected (as shown in #sshot)? #plan

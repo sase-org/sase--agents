@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase If an agent sets sase variables using the /sase_va skill, we surface those variables on the agent metadata panel in the TUI. But I think that the root agent entry on the agents tab only shows the variables that are set by the first agent child.  Can you help me fix that by aggregating all agent child sase variables in the agent metadata tab when multiple agent children set variables? See how we handle this for other sections in the agent metadata panel for inspiration. 
+
+#beau #plan #m_opus

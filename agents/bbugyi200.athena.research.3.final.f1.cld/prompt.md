@@ -1,0 +1,2 @@
+%name:research.3.final.f1.cld
+#gh:gh_sase-org__sase #fork:research.3.final but what if it's pronounced as a single word (that rhymes with "hang") that is treated like a noun just like xprompts are today. We could still make the distinction between plang parts and plang markdown files and plang workflow YAML files, right? Express your answer using SASE variables. %m:opus

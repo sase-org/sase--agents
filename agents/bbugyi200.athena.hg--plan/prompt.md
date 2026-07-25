@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add support for the `S` keymap visual-model keymap in the prompt input widget, inspired by vim-surround, to complement the `ys` normal-mode keymap that is already implemented? #plan

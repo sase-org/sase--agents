@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase When the `sase bead work` command launches an epic that is already partially complete, we don't seem to add it to the `@epic` agent tribe like we should (see #sshot). Can you help me diagnose the root cause of this issue and fix it? #plan

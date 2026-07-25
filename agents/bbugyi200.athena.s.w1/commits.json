@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1783101417,"sha":"2856003484aac9950419951b94e25fd0c5afd095","subject":"fix(tui): show configured PROJECT_NAME in VCS xprompt prefill surfaces"},{"committed_at":1783380582,"sha":"05ce0e75ddc90be99073d3c9c28f39b79b19e683","subject":"build!: rename demo-video recipe to demos"}],"schema_version":2,"source_run_id":"run-48cd77927c6de37594dba118c71f8cb1"}

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me always sort collapsed agent panels on the agents tab at the very bottom of the agent panel list? For example, in #sshot, the `#chop` agent panel/group should be at the bottom, instead of one from the top. #tale

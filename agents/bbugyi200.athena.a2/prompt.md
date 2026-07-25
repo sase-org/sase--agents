@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase After an epic is approved and the task that runs the `sase bead work <epic_plan_file>` command completes, we should mark the corresponding agent rows (ex: the `a1` root agent row and `a1--plan` child agent row in #sshot) with a status of `EPIC CREATED`. Can you help me fix this? Try to verify your fix using the fakey agent if you can. #plan

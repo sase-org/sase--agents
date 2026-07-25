@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:aa Can you now help me make sure this "10 minutes" is just the default value for some sase configuration field that the user can override in their own config? #if_not_plan

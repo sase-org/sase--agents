@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add new `<ctrl+d/u>` keymaps to the panel shown in #sshot so the user can scroll down/up when the contents of that panel are too long (which happens when the proposed updates contain many commits)? #plan

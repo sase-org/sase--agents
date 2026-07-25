@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Most of the `sase bead` command that mutate beads seem way too slow. Can you help me make these much faster without breaking anything? #tale #m_fable

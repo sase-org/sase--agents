@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:8s I should always be able to see the entire plan goal in the agent metadata panel on the "Agents" tab of the `sase ace` TUI. Can you help me fix this? Make sure we wrap the text and keep each line <=80 characters long. #bea #tale

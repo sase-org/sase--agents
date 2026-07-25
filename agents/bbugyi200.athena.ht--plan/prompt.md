@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start highlighting TODO something really distinct and noticable in the prompt input widget? I want to start leaving TODOs for myself in stashed prompts (which I use when I'm working on a long prompt sometimes) and I need a way to easily spot them when I load the prompt back into the prompt input widget. #beau #plan

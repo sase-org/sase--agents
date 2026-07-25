@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start enriching (configurable with a CLI option) the commits shown by the `sase vcs log` command with the `SASE_*` tags (strip the `SASE_`) that we automatically add to commit messages? #plan

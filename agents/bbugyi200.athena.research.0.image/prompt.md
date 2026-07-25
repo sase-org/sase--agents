@@ -1,0 +1,1 @@
+%name:research.@.image %model:codex/gpt-5.5 %wait:research.0.final %g:research #gh:gh_sase-org__sase #fork:research.0.final #research/image

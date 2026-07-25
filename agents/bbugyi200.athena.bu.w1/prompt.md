@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase %w:bu Can you help me make the `j` / `k` / `<space>` keymaps on custom notification gate panels work (to navigate and select the commands to run) without the user needing to hit `<tab>` first? #plan

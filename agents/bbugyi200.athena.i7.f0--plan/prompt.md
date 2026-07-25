@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:i7 No. I think that's just the way black renders in my terminal sometimes. Let's just go with a different color. Make sure it is readable! #plan %auto

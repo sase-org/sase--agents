@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase %w:a4.w0 Can you help me start having the `sase plan validate` command always require (for both tiers) a `title` property in the frontmatter of the plan file? This title should be displayed as a field in the agent metadata panel's (in the TUI) "SASE PLAN" section (when that section is shown). #tale

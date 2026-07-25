@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:4x--epic Why was this last agent talking about "legend" plan files? I was hoping I'd never have to think about these again. We removed them yesterday. Why are we still talking about them?

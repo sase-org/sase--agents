@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me stop buffering the lines of the files stored in the file panel (see the "34 more lines below" line in #sshot for context)? It is very important that there's no performance cost of this change. Make sure that you update or remove (e.g. I don't think we need the `-`/`+` keymaps anymore) all related keymaps as necessary. #tale #m_fable

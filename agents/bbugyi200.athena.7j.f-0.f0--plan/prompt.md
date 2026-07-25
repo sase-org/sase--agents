@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:7j.f-0 We shouldn't add this `%w(runners=0)` to any agent prompts containing standalone xprompt workflows (these always start with `#!`). Can you help me fix this? #tale

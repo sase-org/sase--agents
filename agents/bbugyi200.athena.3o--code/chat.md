@@ -1,0 +1,208 @@
+# Chat History - ace-run
+
+- **TIMESTAMP:** 2026-07-09 13:22:45 EDT
+- **MODEL:** codex/gpt-5.5
+- **AGENT:** 3o--code
+
+## Linked Chats
+
+- 1. --plan — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-3o__plan-260709_124549.md`
+- **2. --code** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-260709_124549.md`
+
+## Prompt
+
+%model:@claude_coder
+#gh:gh_sase-org__sase @.sase/sdd/tales/202607/commit_view_hints.md
+
+The above plan has been reviewed and approved. Implement it now.
+
+
+## Response
+
+I’ll read the approved plan and the surrounding code first, then make the smallest implementation that matches the repo’s existing patterns. After edits, I’ll run the required install/check flow for this workspace.
+
+The plan touches ACE TUI responsiveness, so I need to follow the repo’s long-memory rule for `memory/tui_perf.md` before editing. I’m reading that procedure now, then I’ll inspect the exact hint/modal modules.
+
+The performance note confirms the modal should open immediately and load any diff off-thread. I’m narrowing the implementation to the existing hint-state flow plus a Textual modal so the hot header path still only uses in-memory commit metadata.
+
+I found the existing commit metadata renderer and the hint pipeline. The plan maps cleanly: commits are currently rendered from `meta_commits`, while hint state only carries file paths and slow-tool reports, so I’m adding commit specs as a parallel side map.
+
+The persisted diff reader already exists for DELTAS, and the app has a reusable syntax-preview modal pattern. I’m going to reuse those primitives, adding a thin `load_commit_diff_text` helper for persisted diff plus VCS fallback.
+
+One design adjustment: I’m going to avoid adding blocking work to the view-input handler. Commit selection will push the modal immediately; the modal itself owns the thread worker and updates its body when the diff arrives.
+
+The loader can produce both old single-commit metadata and newer `meta_commits` records. I’m keeping both viewable: newer records get full metadata directly; older single records still open a message view and can fall back to `git show` when a diff file is absent.
+
+I have enough context now. Edits are going into the commit renderer/state, view-input dispatcher, a new commit modal, styles, and focused tests for registration, dispatch, diff loading, and modal behavior.
+
+The shared hint state now has a `commit_views` side map, separate from file path mappings. Next I’m refactoring the COMMITS renderer so each displayed commit registers exactly one viewer spec when hint mode is active.
+
+Commit rows now emit `[N]` hints and register full `CommitViewSpec` objects. I’m threading those specs through the agent hint render result and the app state next.
+
+The `AgentHintRender` now carries commit view specs alongside file hints. I’m updating the view action so a COMMITS-only agent still gets a hint bar instead of being treated as “no files found.”
+
+The app state now has a dedicated `_hint_commit_views` map, matching the existing slow-tool report side map. Next I’m adding the dispatcher branch for default modal open, `%` SHA copy, and `@` diff-file editor routing.
+
+The dispatcher now parses hint numbers against the union of file and commit targets, so commit-only selections are valid. I’m tightening the type annotations before adding the modal file.
+
+The hint bar now advertises that `%` can copy either a path or commit SHA and `@` can open a diff. I’m adding the commit modal next, with an immediate message view and a thread worker for diff loading.
+
+The modal is in place and mirrors the existing preview modal’s navigation, with `y` to copy the full SHA. I’m exporting it and adding its TCSS block so it uses the same centered overlay styling.
+
+The modal is exported. I’m adding style rules beside the existing preview modal block so sizing, border, scroll area, and footer match the rest of ACE.
+
+The functional path is wired. I’m adding focused tests now: commit hint registration from `meta_commits`, persisted diff loading, VCS fallback, and view-input dispatch for modal/copy/editor suffixes.
+
+Registration and diff-loader tests are added. I’m extending the view routing tests with a minimal app stub that can capture pushed modals and editor/copy behavior.
+
+The routing tests cover commit modal open, `%` SHA copy, and `@` raw diff editor routing. I’m adding a small modal behavior test now to exercise copy/close and the loaded diff path.
+
+The modal behavior test is in. I’m doing a quick source scan now for obvious type/import issues before running targeted tests.
+
+The scan shows the core files are syntactically coherent, but I noticed the new modal test file is untracked in the diff stat because it was not included in the stat output view. I’m checking git status and the tail of the edited dispatcher/renderer before running pytest.
+
+The scan looks okay, and the new files are untracked as expected. I’m running the targeted test subset first to catch behavioral and typing mistakes before the full repo check.
+
+The targeted pytest run failed before collection because this ephemeral workspace does not have TUI dependencies installed (`textual` missing). Per repo instructions I’m running `just install` now, then I’ll rerun the target tests.
+
+Dependencies are installed in the workspace venv. I’m rerunning the targeted tests through `.venv/bin/pytest` so they use the installed editable package and TUI dependencies.
+
+The targeted tests mostly pass; the modal test is using a non-public `Static` attribute that is not present in this Textual version. I’m adjusting the assertion to avoid depending on that widget internals.
+
+Textual’s `Static` exposes `render()` in this version, so I’m switching the test to that API and rerunning the targeted set.
+
+The modal test now uses the supported `Static.render()` API. I’m rerunning the same focused suite.
+
+`Static.render()` returns a wrapper object in this Textual build, not flattened content. I’m changing the assertion to inspect the modal’s own loaded diff state instead of scraping the widget render wrapper.
+
+The modal test now verifies the worker-loaded diff state directly. I’m rerunning the focused suite again.
+
+The modal worker is completing but returning no diff in the test, so I’m checking the loader directly with the same spec shape. If the loader is fine, the test should not assert worker content in this small modal interaction case.
+
+The loader works directly; the bug is in the modal worker handler. It was treating non-terminal worker states as completion. I’m fixing it to update the UI only on SUCCESS, ERROR, or CANCELLED.
+
+The worker handler now ignores PENDING/RUNNING transitions. I’m rerunning the focused tests.
+
+The focused test suite passes. I’m running the repo’s required `just check` next; if it surfaces formatting or type issues, I’ll fix them and rerun the relevant checks.
+
+`just check` stopped at formatting: two edited Python files need Ruff formatting. I’m formatting those files only, then I’ll rerun the focused tests and `just check`.
+
+Ruff formatted the two files. I’m rerunning the focused tests to make sure formatting did not change behavior.
+
+Focused tests still pass after formatting. I’m rerunning `just check` now.
+
+`just check` reached Ruff lint and found only quoted type annotations in the edited commit renderer. I’m applying that mechanical fix and rerunning check.
+
+The annotation cleanup is in. I’m rerunning `just check`.
+
+`just check` now reaches mypy and has one issue: the new warning notify in `_view_agent_files` needs the same `type: ignore[attr-defined]` treatment used elsewhere in that mixin. I’m patching that.
+
+The ignore comment was on the closing parenthesis, so mypy did not attach it to the `notify` call. I’m moving it to the call line.
+
+The mypy ignore is on the correct line now. I’m rerunning the full check.
+
+`pyvision` caught that my dispatcher rewrite made the public `parse_view_input` helper unused. I’m preserving that API by reusing it for file-only parsing in the dispatcher instead of deleting it.
+
+I can keep the commit-aware validation while letting the existing helper materialize file paths from the selected file hint numbers. I’m wiring `parse_view_input` back into that narrow path.
+
+The public hint parser is used again for file path materialization. I’m rerunning the focused tests before the full check.
+
+Focused tests still pass. I’m rerunning `just check`.
+
+`just check` has cleared all lint phases so far and is still running the remaining checks/tests. I’m waiting for it to finish before making any further changes.
+
+Validation has passed too; the command is still in the test phase. I’m continuing to wait rather than interrupting the required check.
+
+No new output yet from `just check`; it is still running. I’m polling until it exits.
+
+The full check is still running without additional output. I’m letting it continue.
+
+`just check` passed, including the test phase. I’m doing a final diff/status review now to make sure only intended files changed and to summarize accurately.
+
+The final diff review shows only intended ACE TUI files and tests. Since I changed the dispatcher after the last `just check` failure, I’m running `just check` one final time.
+
+The final `just check` has cleared all lint phases again and is continuing through validation/tests.
+
+Validation passed; the final test phase is still running.
+
+No new output yet; I’m waiting for the final `just check` to exit.
+
+The check is still in the test phase. Continuing to wait.
+
+The final `just check` passed. I’m taking one last status snapshot for the closeout.
+
+One note from the approved plan remains: it suggested a PNG visual snapshot for the modal. The functional implementation and checks are done; I’m inspecting the visual snapshot harness now to see whether adding a stable golden is practical in this workspace without destabilizing `just check`.
+
+The visual harness is available and `just test` includes it. I’m going to add the commit modal PNG snapshot and generate its golden with the project’s update flag, then rerun `just check`.
+
+The visual tests use committed PNG goldens and have an update mode. I’m locating the `AcePage` helper methods so the modal snapshot can wait deterministically for the diff worker to finish before capture.
+
+`AcePage` exposes `pause()` and direct app access, so the visual test can wait on `CommitViewModal._diff_loaded` before snapshotting. I’m adding it beside the preview-panel snapshots.
+
+The visual test is added. I’m checking the literal diff fixture and then I’ll run just that visual test in snapshot-update mode to create the golden.
+
+The fixture text is correct. I’m adding the `Path` annotation so mypy stays clean, then I’ll generate the PNG golden.
+
+The visual test is typed. I’m generating the new PNG golden for only this snapshot.
+
+The commit-view PNG golden was created successfully. I’m running the same visual test without update mode to verify the committed snapshot matches.
+
+The new visual snapshot passes in normal mode. I’m running the focused non-visual tests again, then the required full `just check`.
+
+Focused non-visual tests still pass. I’m running the full check again with the visual snapshot included.
+
+The final full check has cleared lint again and is moving through validation/tests.
+
+Validation passed; waiting on the final test phase.
+
+No new output yet from the test phase; I’m continuing to wait.
+
+The full test phase is still running. I’m letting it finish.
+
+`just check` passed with the new visual snapshot. I’m taking the final status/diff summary now.
+
+Implemented the approved commit view hints feature.
+
+Key changes:
+- COMMITS entries now get `v` hint numbers and register `CommitViewSpec` targets.
+- Selecting a commit opens a new in-TUI `CommitViewModal` with full message, summary, and syntax-highlighted diff.
+- Diff loading happens in a Textual thread worker, with persisted `diff_path` first and VCS `show_revision` fallback.
+- `%` copies commit SHA; `@` opens the raw diff path when available.
+- Added modal styling, unit coverage, dispatch coverage, and a PNG visual snapshot golden.
+
+Touched main files include:
+- [\_agent_commits.py](/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/src/sase/ace/tui/widgets/prompt_panel/_agent_commits.py)
+- [\_processing.py](/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/src/sase/ace/tui/actions/hints/_processing.py)
+- [commit_view_modal.py](/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/src/sase/ace/tui/modals/commit_view_modal.py)
+
+Verification passed:
+- Focused pytest suite: `32 passed`
+- Visual snapshot test for commit modal
+- Final `just check` passed.
+
+The finalizer is asking for a commit, and these are the files from my implementation. I’m using the required `sase_git_commit` workflow now, then I’ll give a concise closeout.
+
+I’ve recorded the required commit skill use. Next I’m checking the working tree and diff so the commit includes only the implementation files from this session.
+
+The working tree contains the expected production, test, and visual snapshot files. I’m doing one more targeted diff read over the remaining touched modules before committing, since the branch is behind upstream and the commit workflow will handle that after creating the local commit.
+
+The remaining diff matches the commit-view hint wiring and tests. I’m reading the new modal file once before writing the commit message, then I’ll run the wrapper with explicit `-f` flags for every changed file.
+
+I’m writing a focused `feat(tui)` commit message for just this implementation: commit hints, modal viewing, suffix behavior, and tests/snapshot.
+
+I’m invoking `sase_git_commit` now with an explicit file list, including the new modal test and PNG golden. The wrapper is expected to create the commit first and then handle the upstream movement.
+
+The commit wrapper completed successfully. I’m verifying the branch and working tree now, as required by the commit workflow.
+
+Committed the implementation.
+
+Commit: `cca9d500c feat(tui): add commit hint viewer`
+
+Summary:
+- Added commit view hints for COMMITS entries.
+- Added the `CommitViewModal` with async diff loading, SHA copy, and raw diff routing.
+- Added unit coverage plus a PNG visual snapshot.
+
+Verification already passed: focused tests, visual snapshot test, and full `just check`.
+
+Working tree is clean and `master` is in sync with `origin/master`.

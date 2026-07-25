@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me improve the y/n panel (shown in #sshot) that is shown when the `u` keymap is used from the the "Updates" tab of the "SASE Admin Center" panel show a section at the top with a list of all of the new commits that will be pulled in from that update (separate commits from different repos into different sub-sections)? #beau #plan

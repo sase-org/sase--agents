@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase We can be sure that sase plan files now contain a `goal` property in their frontmatter (see the sase-61 epic bead for context), so it would be nice to show that goal somewhere prominently when an agent row (root or child) is associated with that plan. Can you help me start showing this goal somewhere in the agent metadata panel on the "Agents" tab of the `sase ace` TUI?
+
+#beau #plan #m_opus

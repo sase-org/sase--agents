@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I just tried to revert the commits created by the sase agent named "8e" but it didn't work. I received an error (see #sshot). Can you help me diagnose the root cause of this issue and fix it? #plan #m_fable

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:l.f1 Can you now help me add support for video previews, like we have for image files (e.g. we can open up a vertical tmux pane and view the image in the terminal)? I think you should be able to use mpv (https://github.com/mpv-player/mpv) to achieve something like this, right? #beau #plan #m_fable %a:tale

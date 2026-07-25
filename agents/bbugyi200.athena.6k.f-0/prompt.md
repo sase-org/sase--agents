@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:6k Make sure the prompt entries on the left pane almost never need to be split across multiple lines. You can fix this by making the information on that pane more concise or by making the entire panel larger. Ideally we don't lose any information here. #beau #tale #m_fable

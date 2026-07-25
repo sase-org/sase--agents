@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Why am I unable to use the `v` (view) keymap for this agent family (see #sshot)? Can you help me diagnose the root cause of this issue and fix it? #plan

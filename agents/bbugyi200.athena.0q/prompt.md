@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I think we currently only show the pencil icon when "Deltas:" exist (i.e. the agent made file changes) for the main repo (e.g. sase if `#gh:sase` was included in the prompt). We do not seem to show this icon when the agent made file changes in a linked repo (that it opened via the `sase workspace open` command). Can you help me fix this? #plan %a:tale

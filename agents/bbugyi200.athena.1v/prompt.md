@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add support for the special apostrophe keymap that allows you to navigate to different sidebar entries using hints to the logs tab of the SASE admin center panel in the TUI? #plan

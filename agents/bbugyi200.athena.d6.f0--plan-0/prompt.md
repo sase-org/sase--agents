@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:d6 Can you now help me make the epic sase gate use "Epic" instead of "Approve" for its button/option? #plan

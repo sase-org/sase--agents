@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase #fork:research.f.final The research created by the previous agent (review it since I'm sure at least some parts are useful) seemed to be too focused on the two use cases that I provided. This feature (xprompt agent families) needs to be incredibly generic and definable only via xprompt syntax. Can you help me design and implement a solution for this? This should be an MVP but it should also be ambitious, address all edge cases surfaced by the agent research referenced above, and reliable (do not break anything). 
+
+#plan #m_fable

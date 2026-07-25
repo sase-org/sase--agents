@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make sure that the `,j` / `,J` keymaps work even when an agent tribe panel is selected? #plan

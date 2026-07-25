@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The new "Runners" tab of the "SASE Admin Center" panel seems to be pulling in the wrong data maybe? I don't think that we ever had thirty sase agents running at once for example (see #sshot for context). Also, the `<ctrl+d/u>` keymaps do not work to scroll down/up that tab. Can you help me fix these issues? #plan

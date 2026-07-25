@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add support for killing individual agent child entries on the "Agents" tab of the `sase ace` TUI using the `x` keymap? Currently, we can only kill root agent entries and atempting to kill a child agent entry results in an error (see #sshot). #plan %a:tale

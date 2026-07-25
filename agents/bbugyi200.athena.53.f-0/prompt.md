@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:53 Can you also add a CLI option to sase init and sase memory init that allows the user to explicitly request to have a sase.yml file created in their current project directory and have this new config field set in that file before running the normal initialization process? This way it's easy for users to initialize a new active main sase project.

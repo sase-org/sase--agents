@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase GitHub Actions is failing for the 'lint' job for this (sase) repo. Can you run the `actstat` command to get details about the failing job, diagnose the root cause, and fix the issue? #plan #m_fable %a:tale

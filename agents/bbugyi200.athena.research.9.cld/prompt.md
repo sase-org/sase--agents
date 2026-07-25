@@ -1,0 +1,1 @@
+%name:research.@.cld %m:@research_b %g:research #gh:gh_sase-org__sase SASE Phase 7 smoke test: produce a tiny report and simple infographic about the split plans/research companion layout. #research

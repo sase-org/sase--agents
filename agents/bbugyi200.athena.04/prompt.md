@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I recently tried to launch three agents using the /sase_run skill but the launch failed when I tried to approve it. Can you review the failure, fix the bad instructions in the /sase_run xprompt skill, and launch a new agent (with three slots) using the correct syntax using the /sase_run skill? #plan #m_fable

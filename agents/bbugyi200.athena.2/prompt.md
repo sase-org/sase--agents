@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #coder:~/.sase/plans/202607/fix_chop_standalone_workflow_project_scope.md

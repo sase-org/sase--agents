@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780457848,"sha":"97e7b4c6e70700e1454c5aec9d62f0a58d875d2b","subject":"chore: Add SDD prompt and plan for agent_name_collision_race"},{"committed_at":1780458418,"sha":"76c5df017cccc75fd75a777d5a0dd7144542de41","subject":"fix: gate explicit agent name claims through registry"}],"schema_version":2,"source_run_id":"run-30eb688e33a5e32e6f0968d2a4a79c2d"}

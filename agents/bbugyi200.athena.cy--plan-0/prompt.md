@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `sase ace` TUI just froze while I was trying to navigate the commits shown on the "Commits" sub-tab of the "Artifacts" tab (see #sshot). Can you help me diagnose the root cause of this issue and fix it? #plan #m_fable

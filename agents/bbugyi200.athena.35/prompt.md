@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The icon that indicates that there are updates available for sase and the icon that indicates that there are prompts stashed both use a similar purple color which makes them hard to distinguish at a glance. Can you change the color of one of them to something different and distinct? #tale

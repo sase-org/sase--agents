@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make it a little clearer when an expanded agent tribe panel is selected (see #sshot) by highlighting the total agent count (52 in the provided screenshot), the `[]` brackets, and the agent status characters (e.g. `R` for running, `W` for waiting, `D` for done, etc...) the same color that the border of the panel is (some kind of yellow)? #plan

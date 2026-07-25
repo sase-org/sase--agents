@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Is there a single markdown template that I can edit to change the base contents used by the `sase memory init` command for the agent files (e.g. AGENTS.md)? Ideally this exists because we want to make it easy for humans to edit this content. #if_not_plan #m_fable

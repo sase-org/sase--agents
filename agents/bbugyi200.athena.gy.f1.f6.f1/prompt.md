@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:gy.f1.f6 Can you now help me define the `@big_epic_lander` model alias to use `@smartest` by default and stop overriding this model alias in my chezmoi repo as well? #plan

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781357684,"sha":"f13b4c6cb443bf602b7d949bb45c7fea94ac87d5","subject":"fix(agent-index): use Rust facade for index metadata"},{"committed_at":1783076046,"sha":"8a6d6619e9fcee150d538b9cd846476e4d610b5c","subject":"chore: Add SDD prompt and plan for timezone_runtime_consistency"}],"schema_version":2,"source_run_id":"run-56fbce3f7e77b33b69931fccfbfacbea"}

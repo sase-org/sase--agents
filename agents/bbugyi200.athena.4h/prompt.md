@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add a new `-S|--sdd` option to the `sase vcs log` command which specifies that commits from sdd repos should be included? These commits are currently included by default, but we should start excluding them by default instead. #tale

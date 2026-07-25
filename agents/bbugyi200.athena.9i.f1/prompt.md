@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:9i For epic plan files, can we also render each of the `phases` entries from the epic plan file's frontmatter in a nice way? Also, if it is not already, make sure this `SASE PLAN` section is shown above all other sections (but not above the top-level metadata panel fields). #beau #plan
