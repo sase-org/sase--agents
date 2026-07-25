@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase When I press `<space>` in normal-mode from the prompt input widget, the entire prompt is cleared and stored as a canceled agent prompt. I think this is because of a `<space>` keymap that should not be active in the prompt input widget. Can you help me verify/deny my suspicion, diagnose the root cause of this issue, and fix it? #plan #m_opus

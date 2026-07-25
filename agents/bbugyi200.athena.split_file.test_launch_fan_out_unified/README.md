@@ -1,6 +1,6 @@
 # Agent: split\_file.test\_launch\_fan\_out\_unified
 
-**Global name:** `bbugyi200.athena.split_file.test_launch_fan_out_unified` · **State:** completed · **Source run:** `run-a0775d95fa2fb2784f50158a6858a1f6`
+**Global name:** `bbugyi200.athena.split_file.test_launch_fan_out_unified` · **State:** dismissed · **Source run:** `run-f6e5252c66f200d3e75daad32783ca8b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** split\_file
 
@@ -8,5 +8,5 @@
 
 - Model: —
 - Provider: —
-- Timing: —
+- Timing: 2029-09-13T23:04:50+00:00 → 2029-09-13T23:04:50+00:00
 - Commits: 1

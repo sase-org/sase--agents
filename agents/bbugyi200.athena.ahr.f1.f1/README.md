@@ -1,6 +1,6 @@
 # Agent: ahr.f1.f1
 
-**Global name:** `bbugyi200.athena.ahr.f1.f1` · **State:** completed · **Source run:** `run-382b3781cafe91993c5f0c6418f3a5a9`
+**Global name:** `bbugyi200.athena.ahr.f1.f1` · **State:** dismissed · **Source run:** `run-cda04554755568b2dcd6b791050bd10f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** ahr
 
@@ -8,5 +8,5 @@
 
 - Model: —
 - Provider: —
-- Timing: —
+- Timing: 2122-05-14T11:55:41+00:00 → 2122-05-14T11:55:41+00:00
 - Commits: 1

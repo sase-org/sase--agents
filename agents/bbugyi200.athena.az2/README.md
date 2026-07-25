@@ -1,6 +1,6 @@
 # Agent: az2
 
-**Global name:** `bbugyi200.athena.az2` · **State:** completed · **Source run:** `run-1c2b591cf355a9cccc8791b1bfe553c4`
+**Global name:** `bbugyi200.athena.az2` · **State:** dismissed · **Source run:** `run-cbbdf29bc6dc56379eed9bee5486f2b9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** az2
 
@@ -8,5 +8,5 @@
 
 - Model: —
 - Provider: —
-- Timing: —
+- Timing: 2092-02-29T19:15:42+00:00 → 2092-02-29T19:15:42+00:00
 - Commits: 1

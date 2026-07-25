@@ -6,6 +6,6 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [e5--plan](../../../../../../families/bbugyi200.athena.e5.md#member-plan) | active | claude-fable-5 / claude | 2026-07-19T00:26:29.239199+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.e5--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.e5--plan/prompt.md) |
+| [e5--plan](../../../../../../families/bbugyi200.athena.e5.md#member-plan) | active | claude-fable-5 / claude | 2026-07-19T00:26:29.239199+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.e5--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.e5--plan/chat.md) |
 | [e5](../../../../../../agents/bbugyi200.athena.e5/README.md) | completed | — | — | 1 | — |
 | [e5--code](../../../../../../families/bbugyi200.athena.e5.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-19T00:37:27.055741+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.e5--code/chat.md) |

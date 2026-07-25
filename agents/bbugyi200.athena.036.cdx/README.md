@@ -1,6 +1,6 @@
 # Agent: 036.cdx
 
-**Global name:** `bbugyi200.athena.036.cdx` · **State:** completed · **Source run:** `run-8dbde7bd8f181cc63ef2114fa5204934`
+**Global name:** `bbugyi200.athena.036.cdx` · **State:** dismissed · **Source run:** `run-78aeca191a799c691b21292b3004a19d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 036
 
@@ -8,5 +8,5 @@
 
 - Model: —
 - Provider: —
-- Timing: —
+- Timing: 2074-11-19T15:03:24+00:00 → 2074-11-19T15:03:24+00:00
 - Commits: 2

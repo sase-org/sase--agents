@@ -1,1 +1,1 @@
-{"commits":[{"committed_at":1781990908,"sha":"0c91326a530e985bbaf975a70cf024c3789a6ded","subject":"fix: detect brace alt directives after openers"}],"schema_version":2,"source_run_id":"run-ec014776a5d61876bd9e9b65876c46ff"}
+{"commits":[{"committed_at":1781990908,"sha":"0c91326a530e985bbaf975a70cf024c3789a6ded","subject":"fix: detect brace alt directives after openers"}],"schema_version":2,"source_run_id":"run-53934fe34debd644c28cd581d9b8b63e"}

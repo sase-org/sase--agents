@@ -1,6 +1,6 @@
 # Agent: pysplit.collector
 
-**Global name:** `bbugyi200.athena.pysplit.collector` · **State:** completed · **Source run:** `run-2930116eed2cc08b2c578d4c8cf017a4`
+**Global name:** `bbugyi200.athena.pysplit.collector` · **State:** dismissed · **Source run:** `run-1af82ba464b6ea8dd440453a32b71335`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** pysplit
 
@@ -8,5 +8,5 @@
 
 - Model: —
 - Provider: —
-- Timing: —
+- Timing: 2115-04-18T05:05:21+00:00 → 2115-04-18T05:05:21+00:00
 - Commits: 1

@@ -1,6 +1,6 @@
 # Agent: refresh\_docs.sase.01b5839248f8.update
 
-**Global name:** `bbugyi200.athena.refresh_docs.sase.01b5839248f8.update` · **State:** completed · **Source run:** `run-accf49dce90a72f8888bb8b6611bb427`
+**Global name:** `bbugyi200.athena.refresh_docs.sase.01b5839248f8.update` · **State:** dismissed · **Source run:** `run-0106eb2c4bc758b41050c3ebd7b2029f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** refresh\_docs
 
@@ -8,5 +8,5 @@
 
 - Model: —
 - Provider: —
-- Timing: —
+- Timing: 2087-10-13T13:59:15+00:00 → 2087-10-13T13:59:15+00:00
 - Commits: 1

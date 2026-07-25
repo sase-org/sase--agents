@@ -1,6 +1,6 @@
 # Agent: 01e.r1
 
-**Global name:** `bbugyi200.athena.01e.r1` · **State:** completed · **Source run:** `run-9c66d6ea405d7ba804478b1861eff1c7`
+**Global name:** `bbugyi200.athena.01e.r1` · **State:** dismissed · **Source run:** `run-323c7d1d0f5951028bbfe8df1326f2b3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 01e
 
@@ -8,5 +8,5 @@
 
 - Model: —
 - Provider: —
-- Timing: —
+- Timing: 2020-03-01T09:31:24+00:00 → 2020-03-01T09:31:24+00:00
 - Commits: 2
