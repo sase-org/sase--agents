@@ -1016,7 +1016,7 @@
 | [sase-8z](hoods/sase-8z/README.md) | 4 | 0 | completed 4 |
 | [sase-90](hoods/sase-90/README.md) | 10 | 1 | completed 10 |
 | [sase-91](hoods/sase-91/README.md) | 7 | 0 | active 1, completed 6 |
-| [sase-92](hoods/sase-92/README.md) | 7 | 0 | completed 2, waiting 5 |
+| [sase-92](hoods/sase-92/README.md) | 7 | 0 | active 2, completed 2, waiting 3 |
 | [sase-93](hoods/sase-93/README.md) | 8 | 0 | completed 7, waiting 1 |
 | [sase-94](hoods/sase-94/README.md) | 5 | 0 | completed 2, waiting 3 |
 | [sase-95](hoods/sase-95/README.md) | 9 | 0 | active 1, completed 1, waiting 7 |
