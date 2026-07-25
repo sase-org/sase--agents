@@ -6,5 +6,5 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [ij--plan](../../../../../../families/bbugyi200.athena.ij.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-22T16:21:29.615305+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.ij--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.ij--plan/chat.md) |
+| [ij--plan](../../../../../../families/bbugyi200.athena.ij.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-22T16:21:29.615305+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.ij--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.ij--plan/prompt.md) |
 | [ij--code](../../../../../../families/bbugyi200.athena.ij.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-22T16:27:48.059491+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.ij--code/chat.md) |
