@@ -1,0 +1,16 @@
+# Agent: toobig-s.split\_file.tests.test\_models\_panel.7a1f8b85
+
+**Global name:** `bbugyi200.athena.toobig-s.split_file.tests.test_models_panel.7a1f8b85` · **State:** active · **Source run:** `run-0bf9739efd8cc8e48ea05dc8f329560a`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-s
+
+## Summary
+
+- Model: gpt-5.6-sol
+- Provider: codex
+- Timing: 2026-07-24T20:29:02.792216+00:00
+- Commits: 1
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
