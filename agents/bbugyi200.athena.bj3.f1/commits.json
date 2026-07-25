@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779891150,"sha":"d77f1bd2d5e23b1aa515568a61423cc8d74ca938","subject":"chore: Add SDD prompt and plan for agent_row_file_change_pencil"},{"committed_at":1779891586,"sha":"beef9e07851c4ac3bcebe6bd3974f769e6583489","subject":"feat: show file-change marker in agent rows"}],"schema_version":2,"source_run_id":"run-254dddc47c2d96019f134ce9add06627"}

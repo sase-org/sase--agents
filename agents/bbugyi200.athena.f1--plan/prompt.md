@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add support for the `f` (fork) keymap on the agents tab for agent clans/tribes, since the `#fork` xprompt workflow supports both as input arguments now? Make sure we add the appropriate VCS xprompt workflow to the pre-filled prompt too, if all members use the same one, otherwise don't add a VCS xprompt workflow to the prompt. #plan

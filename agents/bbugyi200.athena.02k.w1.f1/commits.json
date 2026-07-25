@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781986752,"sha":"0d62f948847ce1a1bee2b999ac09d75f5acf3475","subject":"chore: Add SDD prompt and plan for sase_context_workspaces_lane"},{"committed_at":1781987882,"sha":"039877a444f3857edde032bc532e414226f60034","subject":"feat(tui): show opened workspaces in SASE context"}],"schema_version":2,"source_run_id":"run-f497d61f81a5f3c9e69712350d46216a"}

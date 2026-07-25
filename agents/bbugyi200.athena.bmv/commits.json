@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779968731,"sha":"4cb3cee982322f9d8bad551fe202104d534fbcad","subject":"chore: Add SDD prompt and plan for starting_waiting_poll"},{"committed_at":1779969179,"sha":"45773cd64a50e4626b1929e29384d053c6412b77","subject":"feat: refresh starting agents on waiting marker changes"}],"schema_version":2,"source_run_id":"run-6ca9a215bd9a46d1339fb44bf40dca83"}

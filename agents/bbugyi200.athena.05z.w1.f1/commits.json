@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782390880,"sha":"81758c8aef09b6cc1514c497aa96922b4f460393","subject":"chore: Add SDD prompt and plan for all_panel_agent_completion"},{"committed_at":1782391328,"sha":"1506956b2c33da4bd8e81e09e00a41fc8b26faf0","subject":"fix(tui): complete agent names from all panels"}],"schema_version":2,"source_run_id":"run-4f7ab36a67243841e66caffaecdb9bb8"}

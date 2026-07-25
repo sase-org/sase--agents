@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781627266,"sha":"61406fe129ec633f75d87af01e91cd36134b689f","subject":"chore: Add SDD prompt and plan for jinja2_prompt_input"},{"committed_at":1781628972,"sha":"540bbe3fd02bcb300d8f15e0234eb31b082c5ac9","subject":"feat(ace): support Jinja prompt input"}],"schema_version":2,"source_run_id":"run-758b6b517952858d0a3054bf73ec7aec"}

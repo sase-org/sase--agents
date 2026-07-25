@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779975483,"sha":"61229b4308a4654b293e67c97afaf3d0403a1ffb","subject":"chore: Add SDD prompt and plan for static_sibling_finalizer_1"},{"committed_at":1779976089,"sha":"421e99ebafb6194cbec3c6abb335ddbf4c68a0c9","subject":"fix: report dirty static sibling repos as advisory"}],"schema_version":2,"source_run_id":"run-e454e36ad92abc50f328d3f788a6def2"}

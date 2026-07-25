@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779998608,"sha":"e23c848bce7997041327660ccb4a514050ec0627","subject":"chore: Add SDD prompt and plan for research_swarm_workflow"},{"committed_at":1779998939,"sha":"41c6cec890d45a5ac89b1afd8d5c44a0d5419c34","subject":"feat: split research swarm into parallel researchers"}],"schema_version":2,"source_run_id":"run-406a5b8611d4420a9d61fd4f9246aa00"}

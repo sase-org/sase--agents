@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781376125,"sha":"62630b0bbd17ad97b83af8980f9d2a99ac6b38eb","subject":"chore: Add SDD prompt and plan for worker_models"},{"committed_at":1781378380,"sha":"2da49fbed5dcc57808237c7b3256f9c0cef2144d","subject":"feat: resolve worker-lane models from the planner's primary context"}],"schema_version":2,"source_run_id":"run-dce3df79a5bbbf1dd5827c73014fee65"}

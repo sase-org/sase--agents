@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779835414,"sha":"79871e8d047a9aa8987fee4fe811c8f7d03e88b2","subject":"chore: Add SDD prompt and plan for telegram_retry_copy_names"},{"committed_at":1779836111,"sha":"3ebed3282cc487e1e681a0311d87bc7a9a47eede","subject":"fix: support retry directive aliases"}],"schema_version":2,"source_run_id":"run-908a4897cb4c8903dcacbf775d90cb90"}

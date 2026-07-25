@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781645129,"sha":"abdba9a5df9fa6ccc67ff4b5a72836d973d75c88","subject":"chore: Add SDD prompt and plan for agents_bulk_kill_edit"},{"committed_at":1781646660,"sha":"b129002382fdc67a08a6e653a73ca14d3bb13383","subject":"feat(tui): add Agents-tab bulk kill-and-edit (sase-4r)"}],"schema_version":2,"source_run_id":"run-42ab8f28d5f29363b77d7cd4d789e806"}

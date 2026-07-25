@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781798644,"sha":"920f25643f0cf033564c5bf14f81e3e9be2c61b2","subject":"chore: Add SDD prompt and plan for xprompt_stash_properties"},{"committed_at":1781799258,"sha":"e7aaedeee249de5db54e3d5a0bf1a5eab93b24be","subject":"fix(tui): restore stashed prompt properties"}],"schema_version":2,"source_run_id":"run-3249136a44c281cb21beaea95ea05ccb"}

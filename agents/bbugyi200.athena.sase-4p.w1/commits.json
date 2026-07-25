@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781571157,"sha":"eab469d80302ac7479f31185314f567c9b52bac1","subject":"chore: Add SDD prompt and plan for prompt_stack_visual_polish"},{"committed_at":1781571912,"sha":"bf878045b9701e5fc53ee16faa46854abb0cc96b","subject":"feat(tui): polish prompt stack presentation"}],"schema_version":2,"source_run_id":"run-86e1b3462771fea70c6f1169c249f2ef"}

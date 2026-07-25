@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:f1 Can you now help me add great completion menu support for agent tribes/clans when completion is triggered (either in the prompt input widget or via our LSP server) for `%wait` or `#fork`? #plan

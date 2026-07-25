@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779968008,"sha":"65b3c1e832aa5887a32480bd73f35a0a5745f24f","subject":"chore: Add SDD prompt and plan for xprompt_lsp_description_warning"},{"committed_at":1779968578,"sha":"c69b2007406a09cc0dd9fed8f724f0028b21c874","subject":"fix: prefer sibling xprompt LSP source"}],"schema_version":2,"source_run_id":"run-49b4353e576033ed8261695ad0424bb7"}

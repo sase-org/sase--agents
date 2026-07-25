@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780243794,"sha":"a9af3fb451103f952cd36c670c7e20bc0ccf4223","subject":"chore: Add SDD prompt and plan for killed_agents_terminate"},{"committed_at":1780244698,"sha":"d9884642d9c2b002e36f69b2da7914a839241abf","subject":"fix: honor explicit agent kill intent"}],"schema_version":2,"source_run_id":"run-a223d36e35a7be4020a480d86dbf86f9"}

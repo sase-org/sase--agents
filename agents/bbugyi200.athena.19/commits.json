@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780422826,"sha":"4e9b6bee4f86a946be364554c388768b6d3d7569","subject":"chore: Add SDD prompt and plan for auto_name_zero_first"},{"committed_at":1780423605,"sha":"72c82159bf0af8209110cfb32603e5425c0449b4","subject":"fix: start auto agent names at zero"}],"schema_version":2,"source_run_id":"run-01c57412b24dd5e1ef30d333b762173b"}

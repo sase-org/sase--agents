@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781632835,"sha":"3cfcb83fe39ed63749df431cc208b9167aef7dc1","subject":"chore: Add SDD prompt and plan for bead_work_launch_fast_path"},{"committed_at":1781634687,"sha":"4be6f73525d9c923d5f215a1fac40af4f6efc4d8","subject":"perf(bead): speed up `sase bead work` launch path"}],"schema_version":2,"source_run_id":"run-0aa553ace520b9380bc5a9183c6802fd"}

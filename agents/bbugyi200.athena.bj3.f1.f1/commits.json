@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779892319,"sha":"4803fe1ebf087b71fcbff8b207189cb3a7f7fd1f","subject":"chore: Add SDD prompt and plan for move_pencil_provider_badge"},{"committed_at":1779892843,"sha":"622a026f6239c2af58b72dafb5402b28afa6a6f0","subject":"fix: render pencil with agent row badges"}],"schema_version":2,"source_run_id":"run-7ff53f5882e726a530d77fa0f0e536ff"}

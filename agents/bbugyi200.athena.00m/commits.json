@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781827434,"sha":"be75205b0064a153cfd73f5438cc1a06a1d927cb","subject":"chore: Add SDD prompt and plan for default_list_notice"},{"committed_at":1781828120,"sha":"0e6217b5ee5c3cee2e3660d955215066f7189caa","subject":"feat(cli): notify when delegating bare command group to list"}],"schema_version":2,"source_run_id":"run-5efe80334397ca4e48d452bc49a8d01d"}

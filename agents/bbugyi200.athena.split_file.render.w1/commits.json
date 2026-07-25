@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782478041,"sha":"935cd24bbdd13972c92546660d9ba4ee559123e6","subject":"chore: Add SDD prompt and plan for plugin_list_packaging_import"},{"committed_at":1782478298,"sha":"a2596a973655c1612428aecb97749a93ceea2003","subject":"fix(plugins): lazy-import packaging in is_newer"}],"schema_version":2,"source_run_id":"run-8bb3a7110a1ec4fb9e36adc969710b8e"}

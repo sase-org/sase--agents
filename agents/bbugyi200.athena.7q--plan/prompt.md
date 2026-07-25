@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase We currently delete the sase/repos/linked/ directory during workspace directory preperation in order to ensure that linked repos that were opened by previous agents in this workspace are not visible to the new agent we are about to launch. Can you help me start just deleting the entire sase/repos/ directory instead? This means that we will need to automatically clone the companion repos that are configured to auto-clone (currently just the `plans` repo) after deleting this directory but before launching the new agent. Make sure we are smart about this auto-cloning so we don't take too much of a performance hit for this.
+
+#tale #m_fable

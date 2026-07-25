@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782828467,"sha":"b826408cff763dadd1cee5530c7e94338fe3c300","subject":"chore: Add SDD prompt and plan for bead_closed_default_limit"},{"committed_at":1782829210,"sha":"b9266887d7f25c0950ef3a4a0a77aa1218256ae0","subject":"feat(bead): default closed list results to newest 20"}],"schema_version":2,"source_run_id":"run-29fe2d08ef9ad3fb6292d4652d2a52d0"}

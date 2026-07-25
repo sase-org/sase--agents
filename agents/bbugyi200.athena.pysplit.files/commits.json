@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779903700,"sha":"b9ff8975af20a4a50c1fc83708369a57eedfc9ae","subject":"ref: split SDD file helpers by responsibility"},{"committed_at":1779904172,"sha":"14dba53e6846519915f57d9e48414435aa61f4fe","subject":"ref: split SDD link models from validation"}],"schema_version":2,"source_run_id":"run-13059f3fcfe574f2201ad887ad2b55a1"}

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780054293,"sha":"fd98a5326b9123eeb59f8bb05ff91ded6570af8a","subject":"chore: Add SDD prompt and plan for artifact_panel_relative_path"},{"committed_at":1780054700,"sha":"db254333d7727b9df6ebd33688fda45e4c47a250","subject":"fix: copy artifact paths relative to workspace"}],"schema_version":2,"source_run_id":"run-b5d6803bfb78503c329d22a7fec6ebf2"}

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make it clearer what time range is currently selected on the "Statistics" tab of the "SASE Admin Center" panel? We should keep the explicit date-time ranges, which are nice, but also show a shorter, more human-readable representation of the selected time range. #plan

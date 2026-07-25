@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781574339,"sha":"bed33e1f5e97b31f6db119325180bd3f46097f20","subject":"chore: Add SDD prompt and plan for ace_startup_active_index_bloat"},{"committed_at":1781575704,"sha":"c029ba2da5f7388dc7c750c58bc4cda331272249","subject":"perf: reduce ACE startup active index work"}],"schema_version":2,"source_run_id":"run-60651c37b9e99330fe9230634ac8c4f5"}

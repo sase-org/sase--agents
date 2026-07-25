@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779900022,"sha":"ab7d78c578e26806a604d4aecc3778dd77851696","subject":"chore: Add SDD prompt and plan for auto_sdd_init_for_bare_git"},{"committed_at":1779902009,"sha":"6741ec5df008eaec58c980a66efbec731fb23424","subject":"feat: auto-initialize SDD files for bare git"}],"schema_version":2,"source_run_id":"run-5d4e69cbf8551ac50b3f70d2eee9867f"}

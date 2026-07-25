@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780954354,"sha":"29e30509c2bbcce73ffaadc67f13ad99be19f44b","subject":"chore: close sase-4g verification bead"},{"committed_at":1780954496,"sha":"93bfc5f75967c01da535be54acc374cf98cf9a27","subject":"chore: Add SDD prompt and plan for fix_generated_skill_staleness_1 (sase-4g)"}],"schema_version":2,"source_run_id":"run-b736d12d2fa9ff2c472958a03f484199"}

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782234621,"sha":"7535d98b718faaa5489e7ea7bc447e210b3edff1","subject":"feat(llm_provider): translate reasoning effort into per-run CLI args (sase-55.3)"}],"schema_version":2,"source_run_id":"run-8197e10443456fdc88cee3407adb249a"}

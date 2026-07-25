@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779973316,"sha":"940255047803c26f82bb766231c8079a14625de9","subject":"chore: Add SDD prompt and plan for direct_local_reads_xprompt"},{"committed_at":1779973826,"sha":"0fc1672939bf528bfb22261852b56c588c37fcec","subject":"fix: expand reads local helpers directly"}],"schema_version":2,"source_run_id":"run-a6e00036b86e6a334b479c585484e7ba"}

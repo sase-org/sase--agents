@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782319604,"sha":"ec67267ef4a3b16f831f6fb3c894dd59aed4b7bb","subject":"chore: Add SDD prompt and plan for alt_brace_two_space_padding"},{"committed_at":1782320166,"sha":"36810c583ab61cfaa4fc887b541668802ca5a836","subject":"fix(tui): pad directive alt brace pairs"}],"schema_version":2,"source_run_id":"run-bce1cdb4a43c7469ebd90ec34b70d430"}

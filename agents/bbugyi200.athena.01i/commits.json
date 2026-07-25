@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781898628,"sha":"cb8da8a2647aa4ec9782baf6f5231617938a55a4","subject":"chore: Add SDD prompt and plan for auto_xprompt_menu"},{"committed_at":1781899792,"sha":"133c2ae5841d16b7d5e98c63e118f1e8c158cf34","subject":"feat(ace): auto-open xprompt completion menu"}],"schema_version":2,"source_run_id":"run-399f7aa151eb278f5911d8d9e5587236"}

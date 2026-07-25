@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780240804,"sha":"cad8a052777818ca6e2d297059b7abf82b275ab1","subject":"fix: restore tiered AMD memory headings"},{"committed_at":1780240935,"sha":"b74407c2e575663e56b527be32944d9db8682347","subject":"chore: Add SDD prompt and plan for revert_agents_md_titles"}],"schema_version":2,"source_run_id":"run-26d0ce866b57221834d719a6d7a1fc30"}

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781890491,"sha":"0665b2f3d3cda97fd4770b98181bcdaca3e1a7a9","subject":"chore: Add SDD prompt and plan for license_file_cleanup"},{"committed_at":1781890722,"sha":"f7a80040ecab24409fad9cf001fbdb77b79a3cb3","subject":"build: add MIT LICENSE file and PEP 639 packaging metadata"}],"schema_version":2,"source_run_id":"run-2fda98abec79ea4a516b2e05dfb78a24"}

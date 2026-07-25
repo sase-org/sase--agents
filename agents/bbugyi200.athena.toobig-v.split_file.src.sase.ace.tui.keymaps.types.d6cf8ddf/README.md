@@ -1,6 +1,6 @@
 # Agent: toobig-v.split\_file.src.sase.ace.tui.keymaps.types.d6cf8ddf
 
-**Global name:** `bbugyi200.athena.toobig-v.split_file.src.sase.ace.tui.keymaps.types.d6cf8ddf` · **State:** active · **Source run:** `run-9bdd30cc60e89c3537692c464fe658aa`
+**Global name:** `bbugyi200.athena.toobig-v.split_file.src.sase.ace.tui.keymaps.types.d6cf8ddf` · **State:** completed · **Source run:** `run-9bdd30cc60e89c3537692c464fe658aa`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-v
 
@@ -13,4 +13,4 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)

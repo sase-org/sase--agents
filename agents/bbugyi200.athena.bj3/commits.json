@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779890068,"sha":"2f39ccc58e5d2c01f4cf74967b9ace931b7b9d8d","subject":"chore: Add SDD prompt and plan for agent_deltas_metadata_panel"},{"committed_at":1779890684,"sha":"d848d34b763cba3a1531fe537a315b05b30b71a3","subject":"feat: show agent deltas in detail metadata header"}],"schema_version":2,"source_run_id":"run-caa7de69028966ca552c2e0c266875e0"}

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780238939,"sha":"96249e45d877eda756cace4a1e2de7cacb65ee1d","subject":"chore: Add SDD prompt and plan for revert_dynamic_memory"},{"committed_at":1780240372,"sha":"e8c2f14bb6f9d9d39a28ec4a93c83adb866c8dde","subject":"feat: remove dynamic memory runtime"}],"schema_version":2,"source_run_id":"run-61ba6265b350bdc14ed692123390c8c2"}

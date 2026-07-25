@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782585758,"sha":"255b7079c2bcbed771f0921f68044b12899fd111","subject":"chore: Add SDD prompt and plan for auto_approve_pending_plan"},{"committed_at":1782586280,"sha":"1add4d9d8a0d4409439ed80a5b0c2521a53ecdd5","subject":"fix: auto-approve pending plans during wait loop"}],"schema_version":2,"source_run_id":"run-8b6b0292b987dd44e5eb3aa415939001"}

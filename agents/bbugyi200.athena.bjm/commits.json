@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779879684,"sha":"0553d7ac2457e00ff9f91c8e33483e213b88e530","subject":"chore: Add SDD prompt and plan for cls_tab_header_width"},{"committed_at":1779880589,"sha":"59bcae55fb26b20517c918141aae2d899da777ef","subject":"fix: clamp CL list group banners"}],"schema_version":2,"source_run_id":"run-1d6cacfcb01445d405860661c2327019"}

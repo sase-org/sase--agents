@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782740646,"sha":"e1a42adf0bf87bf6b458164881a0e22076d4e2ff","subject":"chore: Add SDD prompt and plan for hide_child_agent_step_prefix"},{"committed_at":1782741298,"sha":"50cfd8a0341a2acdce6fd4e71e68266a1093cb08","subject":"feat(tui): hide workflow child step prefixes"}],"schema_version":2,"source_run_id":"run-76a98c1ef4b1a001003c61f4078de11f"}

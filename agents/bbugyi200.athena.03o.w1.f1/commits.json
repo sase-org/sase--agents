@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782137364,"sha":"75d9ab3bd41ed4f528b55a1c766d018b9f1a066b","subject":"chore: Add SDD prompt and plan for unify_prompt_stash_panel"},{"committed_at":1782138450,"sha":"727c08d55e578fba6a0fd293f98c3ac0db778c63","subject":"feat(tui)!: unify prompt stash panel"}],"schema_version":2,"source_run_id":"run-082459e4975ab04aa4a616e25d9b72b3"}

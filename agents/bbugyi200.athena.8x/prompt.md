@@ -1,0 +1,10 @@
+#gh:gh_sase-org__sase We recently added support for programmatically creating epic beads, phase beads, and launching the epic (e.g. via the `sase bead work` command) when users approve epic plans. This is supposed to work by reading the new frontmatter fields that an agent is instructed (via the `sase plan validate` command) to add to the plan file when the chosen `tier` is `epic`. Somethiing seems to have gone wrong with our design / implementation, however, since the epic I just approved resulted in an agent crash (see #sshot). Can you help me fix and add support to this process for better user-replication and transparency?
+
+- Let's add support for this functionality directly to the `sase bead work` command, which should now be able to accept a `<plan_file>` instead of `<epic_bead>` as an argument.
+- When `<plan_file>` is given as an argument instead of `<epic_bead>`, the epic bead should be created along with all listed phase beads and the dependencies should be set up properly. The command should then proceed with "working" the epic bead that it created just as if it had been provided as an `<epic_bead>` argument by the user.
+- When a user approves an Epic, we should start creating and working on the Epic using this command, which should be run as a background task (this way the user can view the output of the `sase bead work` command in the "Tasks" tab of the "SASE Admin Center" panel in the TUI).
+- Make sure you give this command excellent and useful command line output when `<plan_file>` is given instead of `<epic_bead>`.
+- #beau
+- NOTE: FWIW, the epic plan that was created by the failed "8u" sase agent did seem to have an epic bead created for it (see the sase-62 epic bead), so it looks like this worked. But the agent failure is clearly misleading, the process is hard to replicate by users, and there was no way for the user to track the progress of the epic's creation / launch from the TUI.
+
+#plan This plan should have a tier of `plan`, since the epic `tier` is currently broken. #m_fable

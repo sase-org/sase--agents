@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779656660,"sha":"d2454df51508049ea50c494d550800b01e6aa9ef","subject":"chore: Add SDD prompt and plan for targeted_commit_staging"},{"committed_at":1779657270,"sha":"aedacf00d2276c16b555417b22d5db6598bb9591","subject":"fix: target SDD auto-commit staging"}],"schema_version":2,"source_run_id":"run-1ac4e5bb9f03d90cbf840d625e458cac"}

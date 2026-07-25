@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780324022,"sha":"be32faa1c5936c1be7962aaca1df921209485119","subject":"chore: Add SDD prompt and plan for epic_created_status_1"},{"committed_at":1780324262,"sha":"0ebc5a36a5e57a1bee11c963d9c3ccc5961a5c21","subject":"fix: surface epic creation status for completed followups"}],"schema_version":2,"source_run_id":"run-d7d1ea5fbfcaaf03b0d67ada39f5944c"}

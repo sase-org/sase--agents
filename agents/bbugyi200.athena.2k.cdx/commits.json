@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780670261,"sha":"d5a29071e2146ac9415f10116178e8dd430b2696","subject":"chore: Add SDD prompt and plan for prompt_ctrl_l_completion"},{"committed_at":1780670800,"sha":"7982611464325ca814dc64a4b0760f4500169cbf","subject":"fix: let ctrl-l build prompt soft completions"}],"schema_version":2,"source_run_id":"run-08772c5be621b3ebfe467bc5312d1cd8"}

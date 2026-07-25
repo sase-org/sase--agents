@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782129445,"sha":"959c68045ad3ac27f397e12b3c5eb576b8471992","subject":"chore: Add SDD prompt and plan for expand_xprompt_with_inputs"},{"committed_at":1782130089,"sha":"620ccda1c20a256070eac1f53c411514a214598d","subject":"feat(ace): inline expand xprompts with inputs"}],"schema_version":2,"source_run_id":"run-165e065cf8d7fd2f06e79dc418e7324d"}

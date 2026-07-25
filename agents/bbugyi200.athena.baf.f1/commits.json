@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779644510,"sha":"1cf2cf54c0990279bce1900fe67cd4b7fc5e6828","subject":"chore: Add SDD prompt and plan for auto_commit_type_tags"},{"committed_at":1779645296,"sha":"ed2fee636d0abf24c22b64d342b23c891dac8a3b","subject":"feat: tag generated auto commits with type"}],"schema_version":2,"source_run_id":"run-a8208d37ee39e05ed5eb7d0ef0b5e54b"}

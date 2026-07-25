@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782395557,"sha":"43446c02fa60efcc59968cf4bd6896475d93fa81","subject":"chore: Add SDD prompt and plan for fork_colon_trailing_text_completion"},{"committed_at":1782396056,"sha":"2d007dfef6ac3399655f2c58f4a05fedb73d8c01","subject":"fix(tui): complete fork args after colon"}],"schema_version":2,"source_run_id":"run-fdaa830d90f53ff0baab80b05c66a139"}

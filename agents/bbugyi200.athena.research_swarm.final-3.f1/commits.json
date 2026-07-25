@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780021199,"sha":"67f702955069597918cb66f6496b95ae6c100886","subject":"chore: Add SDD prompt and plan for tui_prompt_live_completion"},{"committed_at":1780022512,"sha":"ecbc44b0499b6e9ad83b5dc7ea1a0daa25612f6c","subject":"feat: add live ACE prompt completion"}],"schema_version":2,"source_run_id":"run-e7ffe0425e63552d41ca646d448c785b"}

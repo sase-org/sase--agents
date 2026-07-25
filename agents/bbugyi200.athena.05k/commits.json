@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782317928,"sha":"af0d95fe910f4ccbae4b00439296710fda5d6e46","subject":"chore: Add SDD prompt and plan for cancel_toast"},{"committed_at":1782318446,"sha":"60776ae601d7dc9b624298955e0810a9e460730a","subject":"fix(tui): only toast saved cancelled prompts"}],"schema_version":2,"source_run_id":"run-5dc18b7f9d250db80007e7f1d862c769"}

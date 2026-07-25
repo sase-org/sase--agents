@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780425299,"sha":"63b081df37b71c0670e6063b27ea34a4c89e225e","subject":"ref: split workspace handler modules"},{"committed_at":1780426089,"sha":"e8bd5dcf589665329db89d4a5597b54d9b1dec35","subject":"ref: split workspace command adapters"}],"schema_version":2,"source_run_id":"run-245ccc2055a2d112af0d5df60df10aea"}

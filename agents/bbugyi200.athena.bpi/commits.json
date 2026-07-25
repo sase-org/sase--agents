@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780162997,"sha":"b73bf2c8b0a7be00d5230fb3234453d11ee86538","subject":"chore: Add SDD prompt and plan for move_pick_plan_xprompt"},{"committed_at":1780163344,"sha":"d005e444c8a2f94c0b7da84104e0f9e181ea49d3","subject":"chore: remove project pick_plan xprompt"}],"schema_version":2,"source_run_id":"run-ecdf93eeea0ac297221cbc9c67831b2f"}

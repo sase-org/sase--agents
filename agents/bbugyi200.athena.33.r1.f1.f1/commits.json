@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780759794,"sha":"e0da192bd55f2ce7476dc772764c15461be5dd35","subject":"chore: Add SDD prompt and plan for amd_absolute_home_shims"},{"committed_at":1780761041,"sha":"cdef4332ea72374cf482e28574baf402aaac3a49","subject":"fix: render home provider shims with absolute imports"}],"schema_version":2,"source_run_id":"run-92440ddb1413066ef6035102ead685f9"}

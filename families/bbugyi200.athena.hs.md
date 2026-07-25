@@ -1,0 +1,19 @@
+# Family: hs
+
+Owner: `bbugyi200.athena` · Hood: `hs` · Members: 2
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["hs--plan [active]"]
+  n1["hs--code [completed]"]
+  n0 --> n1
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-plan"></a>plan | hs--plan | active | gpt-5.6-sol / codex | 2026-07-22T10:59:47.631202+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.hs--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.hs--plan/chat.md) |
+| <a id="member-code"></a>code | hs--code | completed | gpt-5.6-sol / codex | 2026-07-22T11:12:35.291505+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.hs--code/chat.md) |

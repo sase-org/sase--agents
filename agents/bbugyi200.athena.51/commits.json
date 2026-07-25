@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781096662,"sha":"86e9ef0e706125afdcf0674701e76c70ba124847","subject":"chore: Add SDD prompt and plan for tui_perf_memory_migration"},{"committed_at":1781097101,"sha":"20d129453f68a9b6070d1f6464817cfbf9313df9","subject":"chore: migrate tui_jk_baseline memory to tui_perf"}],"schema_version":2,"source_run_id":"run-341f1233b6887a0d877a5fe68c700a60"}

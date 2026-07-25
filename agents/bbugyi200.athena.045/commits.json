@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782218826,"sha":"f1d326c90e43747e2c1252e7bf9e6cd55e5b5083","subject":"chore: Add SDD prompt and plan for agy_workspace_dir_leak"},{"committed_at":1782219344,"sha":"86a71ecda860f43a344a15d26be29d7ce5277fb4","subject":"fix(agy): ignore stale workspace pins"}],"schema_version":2,"source_run_id":"run-2bbfea9db5d1496f5897ef1a7abbec66"}

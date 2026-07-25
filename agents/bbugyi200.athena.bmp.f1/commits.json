@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779967205,"sha":"8c81282ffeda7c3a8fddf0f92d6dcb1c0de61979","subject":"chore: Add SDD prompt and plan for agent_group_name_prompt"},{"committed_at":1779968116,"sha":"a034a3802a5bd7a7eda0f735c165d1f25333da1a","subject":"feat: prompt for saved agent group names"}],"schema_version":2,"source_run_id":"run-fd6b3bbcc59517cd8beb106f090c5138"}

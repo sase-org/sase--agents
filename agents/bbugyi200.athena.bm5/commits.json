@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779973558,"sha":"9010c68cb98226aef36d1cd320bd3343fca77507","subject":"chore: Add SDD prompt and plan for finalizer_done_status_autocommit"},{"committed_at":1779974434,"sha":"0e185fdaccda09a0c630963f8d2a4169527eab42","subject":"feat: Auto-commit completed SDD plan status"}],"schema_version":2,"source_run_id":"run-07e06520e2c6d9782ce6f8b4a65d4a6b"}

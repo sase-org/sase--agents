@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780091762,"sha":"9da17c71ed16b0fd598c9070b5257072339ac486","subject":"chore: Add SDD prompt and plan for amd_chezmoi_home_sync_1"},{"committed_at":1780092159,"sha":"97f11a8b0daf4af9a3526c0a1267d5475ef8ab21","subject":"fix: sync AMD init with chezmoi source home"}],"schema_version":2,"source_run_id":"run-afc32175ca37838dcf39ed3d68c1f80a"}

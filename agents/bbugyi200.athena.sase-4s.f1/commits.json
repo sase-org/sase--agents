@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781727119,"sha":"c3da9d5b193e15d5271b471e088587fa617b4296","subject":"chore: Add SDD prompt and plan for prompt_g_enter_submit"},{"committed_at":1781728165,"sha":"a505b16a9988dd50c2124a29e26f752377821413","subject":"feat(ace)!: move current-pane submit to g-enter"}],"schema_version":2,"source_run_id":"run-376168cb5b45d06100316f407a9375f5"}

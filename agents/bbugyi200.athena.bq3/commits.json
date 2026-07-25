@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780325602,"sha":"c7274495d6d07265a29a243b6f9c56f657dab5fd","subject":"chore: Add SDD prompt and plan for agent_bead_cross_project_metadata"},{"committed_at":1780326041,"sha":"d012dee902dc6af1ca792ff884aaa9d6476e00b7","subject":"fix: resolve bead metadata from agent workspace"}],"schema_version":2,"source_run_id":"run-003cff6140cf0286f51e18340ec87e03"}

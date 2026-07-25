@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781623383,"sha":"82d5d80c8d5983452360fe94bc0cf7a45c8f17f4","subject":"chore: Add SDD prompt and plan for bead_agent_selection_freeze"},{"committed_at":1781624319,"sha":"d01a6522d861f835800a0ad946e17fc0e6117b55","subject":"perf(tui): resolve agent bead details asynchronously"}],"schema_version":2,"source_run_id":"run-9a6692af9e30f4c254bc0b119abda1b6"}

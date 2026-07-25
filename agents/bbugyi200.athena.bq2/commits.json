@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780325336,"sha":"919be6da15ce097bfca48e90dc7c60cca801ce0b","subject":"chore: Add SDD prompt and plan for pylimit_split_chop_workspace_claim_1"},{"committed_at":1780326362,"sha":"aa8832459c6bd1cd872e93a16538262a808cd67b","subject":"fix: claim VCS launch workspaces atomically"}],"schema_version":2,"source_run_id":"run-867476769d199d56c5363b1508442feb"}

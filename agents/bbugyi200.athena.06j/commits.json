@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782422926,"sha":"5d2c42b7b146547848b10dc8210171340ace9343","subject":"chore: Add SDD prompt and plan for move_pencil_after_runtime"},{"committed_at":1782423187,"sha":"af132fb8eb329e27294a9d7c7de9512271924655","subject":"feat(ace): move agent row pencil after runtime suffix"}],"schema_version":2,"source_run_id":"run-e5c6d30511fb38cf3f92060c4860efd0"}

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781983441,"sha":"2cb2239e4018902d9b4c5ba2921f011ccec2c371","subject":"feat(xprompt): wire %{...} brace alt shorthand through Python fan-out (sase-52.2)"}],"schema_version":2,"source_run_id":"run-8fa7373cf91863d3adac4a3cecdfa69b"}

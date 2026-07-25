@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase When I approve a tale or epic from Telegram, the agent status is not quickly updated to `TALE APPROVED` or `EPIC APPROVED` like it is when I approve tales/epics from the TUI (in #sshot, for example, the `hk.f0` sase agent's tale has already been approved from Telegram). Can you help me diagnose the root cause of this issue and fix it? #plan

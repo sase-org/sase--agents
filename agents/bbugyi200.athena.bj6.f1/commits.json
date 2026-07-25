@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779891973,"sha":"d83b4dd020f34e1a068b6b1713a6cbeb533dfe15","subject":"chore: Add SDD prompt and plan for agent_metadata_title_case_labels"},{"committed_at":1779892444,"sha":"6be3b940aeab1e5efca3ea3d3c9abf87949a8787","subject":"fix: title case agent metadata labels"}],"schema_version":2,"source_run_id":"run-e8d63aa261cd72fd1b08555e54a248d9"}

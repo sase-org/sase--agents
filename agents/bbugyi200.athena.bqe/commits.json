@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780243808,"sha":"86c864af24870ff69a40636c6a461c861f8fff05","subject":"chore: Add SDD prompt and plan for remove_long_memory_subheading"},{"committed_at":1780244185,"sha":"0fee2097c14975484ba186b7a2def26503dadad8","subject":"fix: remove long memory subheading from AMD output"}],"schema_version":2,"source_run_id":"run-6b616dd04e03ea7e95c71e1cde657695"}

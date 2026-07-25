@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782675724,"sha":"820967b22b2da6dd84acb5d7ddfb1a25f7ca7864","subject":"chore: Add SDD prompt and plan for agent_neighbors_hoods"},{"committed_at":1782677705,"sha":"d121dcd06c0ef5191b1d0e4c83e89f2c5db685c4","subject":"feat(ace): replace agent siblings with hood-based neighbors"}],"schema_version":2,"source_run_id":"run-0003f527e27fee899b4a0068abc22ae3"}

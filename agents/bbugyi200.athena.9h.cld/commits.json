@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781708270,"sha":"7684c5f7d2cf27197508be1c582eb3cb1eebfe6b","subject":"chore: Add SDD prompt and plan for ace_quit_hang_loader_executor"},{"committed_at":1781708877,"sha":"2805071a9e1fa90cd3ef0205ae9053fa21b26e1c","subject":"fix(ace): cancel loader executor on quit"}],"schema_version":2,"source_run_id":"run-4c5a43707007367d45e2054aa1d0410f"}

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782131782,"sha":"be10baea6338f12416db0e01f0af1b820d8a6fb6","subject":"chore: Add SDD prompt and plan for fix_working_status_invariants"},{"committed_at":1782132436,"sha":"9de865bf4eec23383ef242c552f969e6aef1eee5","subject":"fix(tui): preserve working status invariants"}],"schema_version":2,"source_run_id":"run-30e376c5f9e2cd2ef1807f42c12ebd1f"}

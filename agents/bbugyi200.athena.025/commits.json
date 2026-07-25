@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781965906,"sha":"cea2d7bd0a1eb00a2df7625b198552cb9a7264dc","subject":"chore: Add SDD prompt and plan for hint_bar_duplicate_id_crash"},{"committed_at":1781966667,"sha":"5ea9cc128b52a176efafd8e8763b3e79f351f21a","subject":"fix: prevent duplicate hint input bars"}],"schema_version":2,"source_run_id":"run-eaa17d634a18a5700a5934962a1de740"}

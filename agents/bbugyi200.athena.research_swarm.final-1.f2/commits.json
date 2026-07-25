@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780001700,"sha":"65d7a89a3a3480888f4fba76852d2e07c3056e61","subject":"chore: Add SDD prompt and plan for plugin_command"},{"committed_at":1780002591,"sha":"2130d6b01d351abadd51e08e513fe8c9898ce57f","subject":"feat: add plugin diagnostics commands"}],"schema_version":2,"source_run_id":"run-d14014739c1865df338f6b074de5221f"}

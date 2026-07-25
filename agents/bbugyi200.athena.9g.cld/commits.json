@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781707866,"sha":"bb9d79703abd7d4b9a4dbcd38d4f5a73777bf979","subject":"chore: Add SDD prompt and plan for ctrl_minus_add_pane_tmux_fix"},{"committed_at":1781708544,"sha":"d1fb91a4156a62cdc5bf3294b915cf548096ede5","subject":"fix(tui): support tmux Ctrl-minus add pane"}],"schema_version":2,"source_run_id":"run-886a5569adbda14954d649c25ca59a2c"}

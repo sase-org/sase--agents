@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase We recently added support for showing/editing/overriding the currently configured default agent effort level in the models panel in the TUI. Can you now help me add support for doing something very similar for the currently configured maximum allowed number of running agents configuration (which defaults to 10)? Let's use a new `<ctrl+r>` keymap on this panel to trigger an edit/override prompt for this configuration field.
+
+#beau #plan

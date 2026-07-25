@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782046411,"sha":"164c0e0ff30ad5cca09aba13047e0e5bdc506409","subject":"chore: Add SDD prompt and plan for agent_restore_panel_polish"},{"committed_at":1782047466,"sha":"6458af0ab3cb22321ee8ba2b980a23bc6d5f2e11","subject":"feat(tui): polish agent restore panel rows"}],"schema_version":2,"source_run_id":"run-3073ca1ebb1b759117947cc7b9ee924a"}

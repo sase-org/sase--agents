@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780344345,"sha":"a08259bac59814825caa22e1f8941bcc1fb16361","subject":"chore: Add SDD prompt and plan for project_delete_keymap"},{"committed_at":1780345007,"sha":"2c1d4e335c8a746111fe89881c37b3dfa131a974","subject":"feat: add project deletion from management modal"}],"schema_version":2,"source_run_id":"run-d337904f43e7747d8293ab386e314065"}

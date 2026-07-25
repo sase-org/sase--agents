@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782564696,"sha":"7cb4a133396889d66e194869658b10b44da60cb4","subject":"chore: Add SDD prompt and plan for operations_tab"},{"committed_at":1782566122,"sha":"192a4dc940b972b235f03696e2e6f62bf69edee7","subject":"feat(tui): merge tasks and logs under operations"}],"schema_version":2,"source_run_id":"run-8419d4a3ec4c101a08eafc0eadafce60"}

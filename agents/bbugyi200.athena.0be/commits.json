@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1783000866,"sha":"da239dc6e72a0bd9fb04f66677efc59abc02a631","subject":"chore: Add SDD prompt and plan for daemon_only_run"},{"committed_at":1783002249,"sha":"b20637f4f09fc5eb9e72ee1dbb3fdcdbc728f8d2","subject":"feat(cli)!: make run detached-only"}],"schema_version":2,"source_run_id":"run-aae5784ecd13e6e2728ef23989556229"}

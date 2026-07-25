@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781794838,"sha":"fde4d1c68999eca7ad8e7274616dab0d1af984cd","subject":"chore: Add SDD prompt and plan for agent_mark_auto_reads_unread"},{"committed_at":1781795522,"sha":"a011b4247f2d41f745cf10b236cef6d174dddc53","subject":"fix(tui): acknowledge unread on mark auto-advance"}],"schema_version":2,"source_run_id":"run-a5c27f10966eae1fb2f6534ff8a47e42"}

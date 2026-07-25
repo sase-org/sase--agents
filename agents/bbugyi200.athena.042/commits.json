@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782217589,"sha":"84d8af51f6cfddcfcce499811285340ac554ecb4","subject":"chore: Add SDD prompt and plan for clear_agent_tag_meta_revert"},{"committed_at":1782218389,"sha":"4d60ba2260c48a56b34ec3c5ea196aa2372a2b0d","subject":"fix(tui): clear persisted agent meta tags on unset"}],"schema_version":2,"source_run_id":"run-51abc7146e74980934c126e4f5cd3914"}

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782986170,"sha":"3e86a8a46cab116822dc64c28b8b6fc4db7c5ad8","subject":"chore: Add SDD prompt and plan for fix_config_schema_wheel_packaging"},{"committed_at":1782986757,"sha":"3580f1c68810f9409fd7dded341ea312cf39e8bf","subject":"fix: package config schema in wheel"}],"schema_version":2,"source_run_id":"run-23301eb2b3eaa81cf2a637f571bc91e7"}

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780395919,"sha":"c52a842d0a510c94f181a5eaa3553c12227caac7","subject":"chore: Add SDD prompt and plan for at_project_picker_home"},{"committed_at":1780396351,"sha":"6234646de5d0456959acf5f951dde52f010b9d55","subject":"fix: treat home as a launchable project"}],"schema_version":2,"source_run_id":"run-be6e2dffd8b0bdeace3c7a20a70b22cc"}

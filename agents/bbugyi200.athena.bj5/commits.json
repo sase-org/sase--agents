@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779890324,"sha":"bcbe719489a7ed3c6bfa04453d2e7100c57866e8","subject":"chore: Add SDD prompt and plan for agent_panel_cropping"},{"committed_at":1779890914,"sha":"64bd94e17d45fede5c675b56018567d61c460928","subject":"fix: improve agent panel overflow sizing"}],"schema_version":2,"source_run_id":"run-30f824a390e7476e82d268137d601260"}

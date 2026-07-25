@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781195478,"sha":"6e3ab607ddd4fd5b824a144034f366da80215465","subject":"chore: keep sdist under PyPI's 100 MB file limit (#166)"}],"schema_version":2,"source_run_id":"run-185f0845a581723a2c39f051bc7e9565"}

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782138643,"sha":"2f16a819dd252c859a85eb48b5e11d2aba61214f","subject":"chore: Add SDD prompt and plan for freeze_approved_plan_runtime"},{"committed_at":1782139300,"sha":"80fcc2ba6df06701d32183974d3ff8e982b8ca0e","subject":"fix(tui): freeze approved plan runtimes"}],"schema_version":2,"source_run_id":"run-62ba885e9402f94776b5dbb3f037c14d"}

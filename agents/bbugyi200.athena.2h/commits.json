@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780616117,"sha":"3929347f06550507acf7d6e082f0da55e787b40d","subject":"chore: Add SDD prompt and plan for concurrent_research_swarm_launch_race"},{"committed_at":1780617460,"sha":"f2322c3591ee80242141cbeb00070f7140cbb04f","subject":"fix: coordinate concurrent swarm launches"}],"schema_version":2,"source_run_id":"run-48b505fbaf9036df6ea97c04a02f574d"}

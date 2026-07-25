@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782506143,"sha":"c28f33aed0d98009c73fc1d76b9276d78759856e","subject":"chore: Add SDD prompt and plan for logs_admin_center_tab"},{"committed_at":1782508413,"sha":"4ffe90b280bb983204c54bbc23835e8790f79b09","subject":"feat(tui)!: move logs into Admin Center"}],"schema_version":2,"source_run_id":"run-a9338b64d2b23344980214396038f61c"}

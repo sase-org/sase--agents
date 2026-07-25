@@ -1,0 +1,18 @@
+# Agent: f0--plan
+
+**Global name:** `bbugyi200.athena.f0--plan` · **State:** active · **Source run:** `run-a746985a8e1c2f1cfd6af8ee52a755f7`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** f0
+
+This run is represented in its [family lineage](../../families/bbugyi200.athena.f0.md#member-plan).
+
+## Summary
+
+- Model: claude-fable-5
+- Provider: claude
+- Timing: 2026-07-19T14:35:48.779665+00:00
+- Commits: 0
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781707623,"sha":"5165cb74130f7fc23c00155adfa3131aaad07284","subject":"chore: Add SDD prompt and plan for prompt_stack_ctrl_hl_focus"},{"committed_at":1781709152,"sha":"ed4f9c716a6b53d91b6163beee0c329993ca8a69","subject":"feat(tui): move prompt-stack pane focus to Ctrl+H/L"}],"schema_version":2,"source_run_id":"run-3b4f6397a26e8c2a03af97d188a58565"}

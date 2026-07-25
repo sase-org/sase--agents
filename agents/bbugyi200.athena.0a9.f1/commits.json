@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782753920,"sha":"49a5a8cb30aaaa074a99494e6ab8981624c0ceea","subject":"chore: Add SDD prompt and plan for commit_delta_cwd_robust_fix"},{"committed_at":1782755315,"sha":"1588d689d7c30e65932e5a52fe885e34dbde22c7","subject":"test: harden commit delta visual fixtures"}],"schema_version":2,"source_run_id":"run-af779c485211b25705dc3f583f379593"}

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782337204,"sha":"9553f385316b4fbe313744fcac7e51a8dde8f03b","subject":"chore: Add SDD prompt and plan for agent_name_completion"},{"committed_at":1782338855,"sha":"1c8acbd9447ed47c6d11a4c00a422feea721e8e8","subject":"feat(ace): add agent name completions"}],"schema_version":2,"source_run_id":"run-003fa606388bd5dc3fb30257140f10ea"}

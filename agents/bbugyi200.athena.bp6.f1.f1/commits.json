@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780241453,"sha":"e1820314af30c992b26295c0bdc8600f6b323c66","subject":"chore: Add SDD prompt and plan for remove_amd_marker_comments"},{"committed_at":1780242152,"sha":"2ede642f2911a015217015da6c5935feb850c7cf","subject":"feat: remove AMD marker comments"}],"schema_version":2,"source_run_id":"run-5c13e3338605046aaf40a132c2c58c75"}

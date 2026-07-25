@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779974344,"sha":"89794369e370d59f4bbdbc554e082419edacef07","subject":"chore: Add SDD prompt and plan for agent_root_diffs"},{"committed_at":1779974864,"sha":"471e25ceb4c7228fa91471239d5cb6bdfdeae379","subject":"fix: resolve root workflow diffs from active coder"}],"schema_version":2,"source_run_id":"run-f94a06ec227aca86233e1dcb7deeadde"}

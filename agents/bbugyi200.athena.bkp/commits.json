@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1779901001,"sha":"97c9996dc40f0905f6d2b7dcfa74379b9a0c631a","subject":"chore: Add SDD prompt and plan for agent_panel_gold_highlight"},{"committed_at":1779902527,"sha":"cf69b9307658b5ba52d0253b8a19753be9028693","subject":"feat: highlight focused agent panel in gold"}],"schema_version":2,"source_run_id":"run-d3e937fb2e2c19d01500d17a511beeb2"}

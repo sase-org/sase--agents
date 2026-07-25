@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780006557,"sha":"653d41e302cecf7321f12e631a16b87a71610628","subject":"chore: Add SDD prompt and plan for agents_refresh_gating"},{"committed_at":1780007008,"sha":"2fb5dd22159ae28a90f74981f07c5057970206f7","subject":"fix: gate agents refresh from watcher events"}],"schema_version":2,"source_run_id":"run-027f6a6ab94d6f0dc3555ab07af34b46"}

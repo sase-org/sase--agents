@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:fi--code Can you now help me add a new configuration field that allows users to configure custom tribe colors (i.e. the `@<tribe>` that is shown above the corresponding agent tribe panel on the agents tab)? Configure some unique colors for the 4 tribes that the last agent configured. #plan

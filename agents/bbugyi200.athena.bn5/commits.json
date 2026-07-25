@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780019388,"sha":"492fcf909ac34e3dff98919a0ea0d60c3c833943","subject":"chore: Add SDD prompt and plan for default_list_subcommands"},{"committed_at":1780019979,"sha":"a990ea2ef558229622963e12eeb120ee58453280","subject":"fix: default list subcommands when omitted"}],"schema_version":2,"source_run_id":"run-99c1de821a7954453db9afdee254837d"}

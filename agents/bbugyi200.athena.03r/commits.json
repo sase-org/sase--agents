@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782136732,"sha":"f1f5577d59818e8b68250c2ce2fc658cc5771b5d","subject":"chore: Add SDD prompt and plan for vcs_home_replay_filter"},{"committed_at":1782137373,"sha":"840e69794825f2c1caad3777521e105a8cdf343d","subject":"fix(ace): exclude #git:home from Ctrl+Space replay history"}],"schema_version":2,"source_run_id":"run-9566136edd34a5c56d0f4a04351bb055"}

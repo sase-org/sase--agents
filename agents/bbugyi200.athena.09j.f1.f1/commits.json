@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782742405,"sha":"f1a2d0f560a63312059df874c6b27db296dd73b9","subject":"chore: Add SDD prompt and plan for project_display_name_everywhere"},{"committed_at":1782744045,"sha":"91d6a4f18f3fbd37e6a3d524cced33b2752d1df1","subject":"fix(tui): show project display names consistently"}],"schema_version":2,"source_run_id":"run-294e1769761ede3edc962d1887ea1d24"}

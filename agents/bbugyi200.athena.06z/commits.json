@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782477425,"sha":"fa8be3e7449708d9f546b2fc32bcbce58f8644f0","subject":"chore: Add SDD prompt and plan for context_reason_80_col_wrap"},{"committed_at":1782477802,"sha":"0db9fe9d33e00481f25b96f6a5fa05affeef6210","subject":"fix(tui): wrap SASE CONTEXT reasons within 80 columns"}],"schema_version":2,"source_run_id":"run-28b66f0ed11e1621fd2e7346c254b638"}

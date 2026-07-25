@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782514912,"sha":"130280d5632703ee96e2c43ba6c08b13f5b65d60","subject":"chore: Add SDD prompt and plan for updates_tab"},{"committed_at":1782516452,"sha":"46bf6e7bcae2f8d08d3b73e430f47418fc5770ea","subject":"feat(tui): add Updates tab core updater"}],"schema_version":2,"source_run_id":"run-3689474c07c35eb3427e9d4bd61e73b7"}

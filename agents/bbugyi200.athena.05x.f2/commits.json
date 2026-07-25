@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782396396,"sha":"986fcd86942c25a66b51b3aab0ff39ee8bdb0c14","subject":"chore: Add SDD prompt and plan for minimal_config_xprompt_edits"},{"committed_at":1782397015,"sha":"cfa6a8d905fb4bf7cf86213975ab1ec2f139f312","subject":"fix(xprompt): preserve config formatting on edits"}],"schema_version":2,"source_run_id":"run-8b20aa934f7f55594400f543c0a63fab"}

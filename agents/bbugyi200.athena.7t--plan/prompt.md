@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The sase agent named "7s" just failed. It looks like maybe our implementation of the `%wait` directive's `runners` keyword argument is incomplete? Can you help me diagnose the root cause of this issue and fix it? #tale #m_fable

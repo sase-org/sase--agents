@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782743515,"sha":"9202845c12c3799c57ff868efbc305df57197754","subject":"chore: Add SDD prompt and plan for wait_time_concise_live_countdown"},{"committed_at":1782744319,"sha":"1261bfeaefa67d5ee806422a69a71a8e40afea53","subject":"feat(tui): show concise wait countdown rows"}],"schema_version":2,"source_run_id":"run-43274c7d887df0f89098ae1191849f73"}
