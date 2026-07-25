@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-02e6e3028fbab35e822a1fe97698ef92"}
+{"commits":[{"committed_at":1784999553,"sha":"289222b19ca37c8fdf34a86112aa3997807abf96","subject":"fix(tests): deny unsandboxed pytest bead-store writes (sase-9l.2)"}],"schema_version":2,"source_run_id":"run-02e6e3028fbab35e822a1fe97698ef92"}

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d526811af6939beb6e1747fed673b3f7"}
+{"commits":[{"committed_at":1784997671,"sha":"c4063f44788f86af1169ee1ac22ca4565c1858b2","subject":"fix(ace): exclude a lane from its own neighbor list (sase-99.5)"}],"schema_version":2,"source_run_id":"run-d526811af6939beb6e1747fed673b3f7"}
