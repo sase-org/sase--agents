@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-57f24a5848debfbd9f7cf94a08b69fff"}
+{"commits":[{"committed_at":1784988483,"sha":"712a6b1f3bb1c209e07919f4794acd4f4a0fc211","subject":"feat(agents)!: retire legacy v1 sync payloads (sase-92.5)"}],"schema_version":2,"source_run_id":"run-57f24a5848debfbd9f7cf94a08b69fff"}
