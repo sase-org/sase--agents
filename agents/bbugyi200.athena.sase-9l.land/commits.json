@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c0faebee3a056eb4536015ae443c68b3"}
+{"commits":[{"committed_at":1785002994,"sha":"84f6619ec4e9478559701a049c95e8ea60036498","subject":"fix: guard the event-store manifest repair write path (sase-9l)"}],"schema_version":2,"source_run_id":"run-c0faebee3a056eb4536015ae443c68b3"}
