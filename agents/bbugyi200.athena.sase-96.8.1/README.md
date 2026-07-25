@@ -1,6 +1,6 @@
 # Agent: sase-96.8.1
 
-**Global name:** `bbugyi200.athena.sase-96.8.1` · **State:** active · **Source run:** `run-90e0830b845bc2f1b4d8c045ab005f75`
+**Global name:** `bbugyi200.athena.sase-96.8.1` · **State:** failed · **Source run:** `run-90e0830b845bc2f1b4d8c045ab005f75`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-96
 
