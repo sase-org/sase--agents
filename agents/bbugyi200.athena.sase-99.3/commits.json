@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7dc2dda8630e0139c468883a5a9f8e07"}
+{"commits":[{"committed_at":1784993377,"sha":"a53f5a55b9c0ff299ef5cc3b2db9f3f2c0c1fa5c","subject":"feat(tui): render fold-aware lane neighbors (sase-99.3)"}],"schema_version":2,"source_run_id":"run-7dc2dda8630e0139c468883a5a9f8e07"}
