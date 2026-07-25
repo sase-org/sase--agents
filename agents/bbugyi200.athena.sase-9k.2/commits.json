@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2b42d9a3adf60d105a48324b40d9766d"}
+{"commits":[{"committed_at":1784993651,"sha":"64ac40d38983ea26c6ed2d983813495e74058809","subject":"fix(wait): persist wait priority explicitness (sase-9k.2)"}],"schema_version":2,"source_run_id":"run-2b42d9a3adf60d105a48324b40d9766d"}
