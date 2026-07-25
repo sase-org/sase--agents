@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me stop adding the `COMMIT: <sha>` note to beads? This never seems to point to the right commit and (more importantly) overwrites any notes that were left previously (which sase agents sometimes do while working beads). #plan
