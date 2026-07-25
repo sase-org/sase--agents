@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:ku Can you now help me start showing which spot in the queue the currently selected QUEUED agent has in the agent metadata panel somehow? #beau #plan
