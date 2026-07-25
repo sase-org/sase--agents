@@ -6,7 +6,7 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [audit\_improvements.sase.605fbebd1064](../../../../../../agents/bbugyi200.athena.audit_improvements.sase.605fbebd1064/README.md) | active | gpt-5.6-sol / codex | 2026-07-20T17:33:25.450263+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.audit_improvements.sase.605fbebd1064/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.audit_improvements.sase.605fbebd1064/prompt.md) |
+| [audit\_improvements.sase.605fbebd1064](../../../../../../agents/bbugyi200.athena.audit_improvements.sase.605fbebd1064/README.md) | active | gpt-5.6-sol / codex | 2026-07-20T17:33:25.450263+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.audit_improvements.sase.605fbebd1064/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.audit_improvements.sase.605fbebd1064/chat.md) |
 | [audit\_improvements.sase.a452b461cf42](../../../../../../agents/bbugyi200.athena.audit_improvements.sase.a452b461cf42/README.md) | active | gpt-5.6-sol / codex | 20260718134047 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.audit_improvements.sase.a452b461cf42/prompt.md) |
 | [audit\_improvements.sase.915fdc737dda](../../../../../../agents/bbugyi200.athena.audit_improvements.sase.915fdc737dda/README.md) | dismissed | — | 2003-10-01T20:59:53+00:00 → 2003-10-01T20:59:53+00:00 | 1 | — |
 | [audit\_improvements.sase.1180425d1192](../../../../../../agents/bbugyi200.athena.audit_improvements.sase.1180425d1192/README.md) | active | gpt-5.6-sol / codex | 2026-07-11T17:43:46.593352+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.audit_improvements.sase.1180425d1192/prompt.md) |

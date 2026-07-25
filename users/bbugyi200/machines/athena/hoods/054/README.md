@@ -2,8 +2,8 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 054
 
-**Global hood:** `bbugyi200.athena.054` · **Runs:** 1 · **Families:** 0 · **States:** completed 1
+**Global hood:** `bbugyi200.athena.054` · **Runs:** 1 · **Families:** 0 · **States:** dismissed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [054](../../../../../../agents/bbugyi200.athena.054/README.md) | completed | — | — | 2 | — |
+| [054](../../../../../../agents/bbugyi200.athena.054/README.md) | dismissed | — | 2042-08-09T06:24:48+00:00 → 2042-08-09T06:24:48+00:00 | 2 | — |

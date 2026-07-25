@@ -1,6 +1,6 @@
 # Agent: 06k
 
-**Global name:** `bbugyi200.athena.06k` · **State:** completed · **Source run:** `run-d2d461e7eef3410cc1a5bb59f593c19e`
+**Global name:** `bbugyi200.athena.06k` · **State:** dismissed · **Source run:** `run-c41dab592593c6587e2aa705a0f4a5fb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 06k
 
@@ -8,5 +8,5 @@
 
 - Model: —
 - Provider: —
-- Timing: —
+- Timing: 2010-05-12T09:53:17+00:00 → 2010-05-12T09:53:17+00:00
 - Commits: 2

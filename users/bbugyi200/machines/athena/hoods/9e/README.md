@@ -15,4 +15,4 @@
 | [9e.f1.f2.f1](../../../../../../agents/bbugyi200.athena.9e.f1.f2.f1/README.md) | completed | — | — | 2 | — |
 | [9e.f1.f2.f1.f1](../../../../../../agents/bbugyi200.athena.9e.f1.f2.f1.f1/README.md) | completed | — | — | 2 | — |
 | [9e.f1.f1.f1](../../../../../../agents/bbugyi200.athena.9e.f1.f1.f1/README.md) | completed | — | — | 2 | — |
-| [9e](../../../../../../agents/bbugyi200.athena.9e/README.md) | active | gpt-5.6-sol / codex | 2026-07-15T17:29:46.173792+00:00 | 2 | [chat](../../../../../../agents/bbugyi200.athena.9e/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.9e/prompt.md) |
+| [9e](../../../../../../agents/bbugyi200.athena.9e/README.md) | active | gpt-5.6-sol / codex | 2026-07-15T17:29:46.173792+00:00 | 2 | [prompt](../../../../../../agents/bbugyi200.athena.9e/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.9e/chat.md) |

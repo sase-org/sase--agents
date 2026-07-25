@@ -1,6 +1,6 @@
 # Agent: 084
 
-**Global name:** `bbugyi200.athena.084` · **State:** completed · **Source run:** `run-19c5d429ac4172b51abeb372d0d020b8`
+**Global name:** `bbugyi200.athena.084` · **State:** dismissed · **Source run:** `run-1285c4d6829d1e13c9b5cd7f618e9079`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 084
 
@@ -8,5 +8,5 @@
 
 - Model: —
 - Provider: —
-- Timing: —
+- Timing: 2099-08-04T11:00:06+00:00 → 2099-08-04T11:00:06+00:00
 - Commits: 2

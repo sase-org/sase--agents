@@ -1,6 +1,6 @@
 # Agent: 0ar.f1
 
-**Global name:** `bbugyi200.athena.0ar.f1` · **State:** completed · **Source run:** `run-29fe2d08ef9ad3fb6292d4652d2a52d0`
+**Global name:** `bbugyi200.athena.0ar.f1` · **State:** dismissed · **Source run:** `run-594d763b90b20374443f6fa09bbece50`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0ar
 
@@ -8,5 +8,5 @@
 
 - Model: —
 - Provider: —
-- Timing: —
+- Timing: 2005-09-30T11:39:17+00:00 → 2005-09-30T11:39:17+00:00
 - Commits: 2

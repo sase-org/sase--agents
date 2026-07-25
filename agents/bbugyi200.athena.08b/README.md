@@ -1,6 +1,6 @@
 # Agent: 08b
 
-**Global name:** `bbugyi200.athena.08b` · **State:** completed · **Source run:** `run-8b6b0292b987dd44e5eb3aa415939001`
+**Global name:** `bbugyi200.athena.08b` · **State:** dismissed · **Source run:** `run-f88aec30abf8ad750880c6a4d35d6613`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 08b
 
@@ -8,5 +8,5 @@
 
 - Model: —
 - Provider: —
-- Timing: —
+- Timing: 2136-01-09T14:24:02+00:00 → 2136-01-09T14:24:02+00:00
 - Commits: 2

@@ -1,6 +1,6 @@
 # Agent: 05w
 
-**Global name:** `bbugyi200.athena.05w` · **State:** completed · **Source run:** `run-7e65d291e1e2f7f55287a33ae6483a72`
+**Global name:** `bbugyi200.athena.05w` · **State:** dismissed · **Source run:** `run-033f6cd7a6ea580eb461a34cba562aa5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 05w
 
@@ -8,5 +8,5 @@
 
 - Model: —
 - Provider: —
-- Timing: —
+- Timing: 2063-03-04T13:03:56+00:00 → 2063-03-04T13:03:56+00:00
 - Commits: 2

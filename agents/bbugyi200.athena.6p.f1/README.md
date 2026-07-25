@@ -1,6 +1,6 @@
 # Agent: 6p.f1
 
-**Global name:** `bbugyi200.athena.6p.f1` · **State:** completed · **Source run:** `run-89c7532fc3261b9856f551e1c7a631f2`
+**Global name:** `bbugyi200.athena.6p.f1` · **State:** dismissed · **Source run:** `run-e28abc7e193963075a96a0d7db81373f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 6p
 
@@ -8,5 +8,5 @@
 
 - Model: —
 - Provider: —
-- Timing: —
+- Timing: 2100-06-21T17:04:47+00:00 → 2100-06-21T17:04:47+00:00
 - Commits: 2
