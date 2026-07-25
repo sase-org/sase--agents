@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start setting the default value for the `@medium_phase_worker` model alias to `@default@high` (i.e. use the model specified by the `@default` model alias, but override the effort level to `high`)? Make sure you add good representation for this syntax to the "Models" panel when showing how this model alias is set. #plan
