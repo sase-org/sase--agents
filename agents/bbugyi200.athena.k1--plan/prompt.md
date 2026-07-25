@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me move the "Chat" sub-tab of the "Artifacts" tab from the 5th position to the 3rd position in the tab list? Make sure to update the numeric keymaps accordingly. #plan

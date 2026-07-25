@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Anthropic recently release Opus 5, which should be the default model used for opus now (e.g. when `%m:opus` is included in a sase agent prompt). Can you help me update all user-facing text to show Opus 5 instead of Opus 4.6? #plan #m_opus
