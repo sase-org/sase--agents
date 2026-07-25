@@ -14,5 +14,5 @@
 | [00.w1.r1.w1.f1](../../../../../../agents/bbugyi200.athena.00.w1.r1.w1.f1/README.md) | dismissed | — | 2035-08-19T02:37:04+00:00 → 2035-08-19T02:37:04+00:00 | 1 | — |
 | [00.f1](../../../../../../agents/bbugyi200.athena.00.f1/README.md) | dismissed | — | 2090-10-22T08:29:15+00:00 → 2090-10-22T08:29:15+00:00 | 2 | — |
 | [00.w1](../../../../../../agents/bbugyi200.athena.00.w1/README.md) | dismissed | — | 2063-08-29T02:39:57+00:00 → 2063-08-29T02:39:57+00:00 | 2 | — |
-| [00](../../../../../../agents/bbugyi200.athena.00/README.md) | active | claude-fable-5 / claude | 2026-07-07T02:44:57.251430+00:00 | 6 | [prompt](../../../../../../agents/bbugyi200.athena.00/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.00/chat.md) |
+| [00](../../../../../../agents/bbugyi200.athena.00/README.md) | active | claude-fable-5 / claude | 2026-07-07T02:44:57.251430+00:00 | 6 | [chat](../../../../../../agents/bbugyi200.athena.00/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.00/prompt.md) |
 | [00.w1.w1](../../../../../../agents/bbugyi200.athena.00.w1.w1/README.md) | dismissed | — | 2134-12-31T09:56:44+00:00 → 2134-12-31T09:56:44+00:00 | 2 | — |

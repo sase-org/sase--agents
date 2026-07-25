@@ -6,6 +6,6 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-8x.1](../../../../../../agents/bbugyi200.athena.sase-8x.1/README.md) | completed | gpt-5.6-sol / codex | 2026-07-24T18:33:27.014551+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-8x.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-8x.1/chat.md) |
-| [sase-8x.land](../../../../../../agents/bbugyi200.athena.sase-8x.land/README.md) | completed | gpt-5.6-sol / codex | 2026-07-24T19:06:57.492601+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-8x.land/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-8x.land/chat.md) |
-| [sase-8x.2](../../../../../../agents/bbugyi200.athena.sase-8x.2/README.md) | completed | gpt-5.6-sol / codex | 2026-07-24T18:44:00.497172+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-8x.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-8x.2/chat.md) |
+| [sase-8x.1](../../../../../../agents/bbugyi200.athena.sase-8x.1/README.md) | completed | gpt-5.6-sol / codex | 2026-07-24T18:33:27.014551+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-8x.1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-8x.1/prompt.md) |
+| [sase-8x.land](../../../../../../agents/bbugyi200.athena.sase-8x.land/README.md) | completed | gpt-5.6-sol / codex | 2026-07-24T19:06:57.492601+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-8x.land/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-8x.land/prompt.md) |
+| [sase-8x.2](../../../../../../agents/bbugyi200.athena.sase-8x.2/README.md) | completed | gpt-5.6-sol / codex | 2026-07-24T18:44:00.497172+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-8x.2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-8x.2/prompt.md) |
