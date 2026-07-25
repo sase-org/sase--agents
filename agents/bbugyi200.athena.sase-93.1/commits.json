@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-488a2c0dfa79436bfb39c492c862c739"}
+{"commits":[{"committed_at":1784982738,"sha":"53d25b3173ae0df30909d3f4e256c9d4d52d08f6","subject":"fix(init): warn instead of blocking when the agents sidecar has no project key (sase-93.1)"}],"schema_version":2,"source_run_id":"run-488a2c0dfa79436bfb39c492c862c739"}
