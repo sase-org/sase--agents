@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase #fork:kh Can you now help me stop double counting queued agents and waiting agents? For example, in #sshot:2, we should be showing `[Q2 W4]` instead of `[Q2 W6]` since there are only 6 agents in the `sase-99` agent clan. We should continue showing the same waiting status (the `WAITING ▶10/10` statuses shown in the screenshot) that we do today, but the agent counts shown on the agents tab should treat queued agents separately. Make sure you apply this fix to all agent counts that are displayed on the agents tab, including ones that are associated with specific agent tribes/clans.
+
+#plan

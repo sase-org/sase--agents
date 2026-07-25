@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a8f9033c4f29f2684ae5cb136e4643da"}
+{"commits":[{"committed_at":1784984904,"sha":"d58f7b062094e42d4cf580626050cf74fcf39097","subject":"test(visual): drop host home paths from visual fixtures (sase-93.4)"}],"schema_version":2,"source_run_id":"run-a8f9033c4f29f2684ae5cb136e4643da"}

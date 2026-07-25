@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6b92ebebc66cb43bfe8c76877237e9ba"}
+{"commits":[{"committed_at":1784984305,"sha":"42b93168e5d1bec586d9487b0c16adff7ff3994d","subject":"fix: persist waiting bead claims through shutdown (sase-94.2)"}],"schema_version":2,"source_run_id":"run-6b92ebebc66cb43bfe8c76877237e9ba"}

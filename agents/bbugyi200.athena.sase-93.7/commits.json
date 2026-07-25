@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-112dfa2319fb1fd5e1f70fa8ffa44c2a"}
+{"commits":[{"committed_at":1784984741,"sha":"07e45d21e07961921fbcb95885c1b35cebffb203","subject":"build(deps): align sase-core-rs with published release (sase-93.7)"}],"schema_version":2,"source_run_id":"run-112dfa2319fb1fd5e1f70fa8ffa44c2a"}

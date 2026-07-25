@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We should not be showing `[Q1]` next to the `WAITING` agents in #sshot (we only use these short-hand agent counts for agent tribes and agent clans). Can you help me fix this? #plan
