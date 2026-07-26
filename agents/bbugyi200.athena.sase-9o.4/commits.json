@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c16db93f9f8f09068ad7078ba0e6c822"}
+{"commits":[{"committed_at":1785061899,"sha":"2a40c2530ce18b4c3369d15e9cc9b0f7b53e279f","subject":"fix(agents-sync): prevent imported history amplification (sase-9o.4)"}],"schema_version":2,"source_run_id":"run-c16db93f9f8f09068ad7078ba0e6c822"}
