@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a927a04fa2f7ae78ff67f92670646d8a"}
+{"commits":[{"committed_at":1785069639,"sha":"b9bcae7fee0d23ffcb881cfd921e3c30bf3c2d79","subject":"fix(sdd): throttle repeated failed sidecar integrations (sase-9r.5)"}],"schema_version":2,"source_run_id":"run-a927a04fa2f7ae78ff67f92670646d8a"}

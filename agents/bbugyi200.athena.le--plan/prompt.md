@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add `%wait(priority=15)` to the `#bd/land_epic` and `#bd/next` xprompts so agents that are associated with epics are prioritized below new agents that the user launches without specifying a priority (since `priority` defaults to 10)? #plan
