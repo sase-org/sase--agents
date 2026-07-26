@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We should show `QUEUED` as the sase agent status for the agent clan if the clan contains only `QUEUED` and `WAITING` agents (see the `sase-9s` sase agent in ~/tmp/screenshots/20260726_072532.png, for example). Can you help me fix this? #plan
