@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6492504feac81adc0b0fb5fea1c2a6e2"}
+{"commits":[{"committed_at":1785070754,"sha":"6d78d490d27eec12e0b28f2f554a44dc60c46b5e","subject":"feat(bead): launch approved epics as detached tasks (sase-9s.5)"}],"schema_version":2,"source_run_id":"run-6492504feac81adc0b0fb5fea1c2a6e2"}

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7a2820687ceb3442b701799e25b6a5c8"}
+{"commits":[{"committed_at":1785070808,"sha":"9176e2396ef8e4516e38c0221c5b9513bc65647b","subject":"feat(tasks): expose detached work across CLI and TUI (sase-9s.7)"}],"schema_version":2,"source_run_id":"run-7a2820687ceb3442b701799e25b6a5c8"}
