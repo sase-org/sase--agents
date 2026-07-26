@@ -4,6 +4,11 @@
 - **MODEL:** claude/claude-fable-5
 - **AGENT:** sase-9q.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_9q_land__plan-260726_060810.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_9q_land__code-260726_060810.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/xprompt_placeholder_args_toggle.md
 
 

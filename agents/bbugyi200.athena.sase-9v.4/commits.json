@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-eb9ee7fca0aef99ee60d3a54fd7a22f5"}
+{"commits":[{"committed_at":1785084460,"sha":"f3680c3c9d0a8a1680887a8754abbf288e4392bb","subject":"fix: fail closed on sdd git probe errors (sase-9v.4)"}],"schema_version":2,"source_run_id":"run-eb9ee7fca0aef99ee60d3a54fd7a22f5"}

@@ -1,6 +1,6 @@
 # Agent: sase-9q.land--plan
 
-**Global name:** `bbugyi200.athena.sase-9q.land--plan` · **State:** active · **Source run:** `run-a5b6e6e24ba1bccca271d9d0de3b88c1`
+**Global name:** `bbugyi200.athena.sase-9q.land--plan` · **State:** completed · **Source run:** `run-a5b6e6e24ba1bccca271d9d0de3b88c1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-9q
 
