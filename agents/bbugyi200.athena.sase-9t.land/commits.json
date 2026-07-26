@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-92b5c5282972f1dcee022c518d5bbd40"}
+{"commits":[{"committed_at":1785085266,"sha":"20c131b55788ae5d07ea32fcae66328c48e748ab","subject":"build(deps): require sase-core-rs 0.10 (sase-9t)"}],"schema_version":2,"source_run_id":"run-4418f65a7511489844673f133686a326"}
