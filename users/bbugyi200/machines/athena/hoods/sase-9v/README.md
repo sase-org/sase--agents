@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-9v
 
-**Global hood:** `bbugyi200.athena.sase-9v` · **Runs:** 12 · **Families:** 0 · **States:** active 4, completed 6, waiting 2
+**Global hood:** `bbugyi200.athena.sase-9v` · **Runs:** 12 · **Families:** 0 · **States:** active 3, completed 7, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-9v.8](../../../../../../agents/bbugyi200.athena.sase-9v.8/README.md) | active | gpt-5.5 / codex | 2026-07-26T15:37:27.737791+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-9v.8/prompt.md) |
+| [sase-9v.8](../../../../../../agents/bbugyi200.athena.sase-9v.8/README.md) | completed | gpt-5.5 / codex | 2026-07-26T15:37:27.737791+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-9v.8/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-9v.8/chat.md) |
 | [sase-9v.9](../../../../../../agents/bbugyi200.athena.sase-9v.9/README.md) | completed | gpt-5.6-sol / codex | 2026-07-26T15:51:08.853054+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-9v.9/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-9v.9/chat.md) |
 | [sase-9v.5](../../../../../../agents/bbugyi200.athena.sase-9v.5/README.md) | completed | gpt-5.5 / codex | 2026-07-26T15:33:54.119455+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-9v.5/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-9v.5/chat.md) |
 | [sase-9v.land](../../../../../../agents/bbugyi200.athena.sase-9v.land/README.md) | waiting | claude-fable-5 / claude | 20260726113335 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-9v.land/prompt.md) |

@@ -1043,7 +1043,7 @@
 | [sase-9r](hoods/sase-9r/README.md) | 11 | 1 | completed 2, dismissed 9 |
 | [sase-9s](hoods/sase-9s/README.md) | 9 | 0 | completed 7, waiting 2 |
 | [sase-9t](hoods/sase-9t/README.md) | 8 | 1 | active 2, completed 6 |
-| [sase-9v](hoods/sase-9v/README.md) | 12 | 0 | active 4, completed 6, waiting 2 |
+| [sase-9v](hoods/sase-9v/README.md) | 12 | 0 | active 3, completed 7, waiting 2 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-0q](hoods/sase_fix_just-0q/README.md) | 1 | 0 | active 1 |
