@@ -2,7 +2,7 @@
 %id(land, clan=sase-96.8, bead=sase-96.8)
 %model:@big_epic_lander
 %auto
-%w:sase-96.8.1,sase-96.8.2,sase-96.8.3,sase-96.8.4,sase-96.8.5,sase-96.8.6,sase-96.8.7,sase-96.8.8,sase-96.8.9
+%w:sase-96.8.1,sase-96.8.4,sase-96.8.9
 %w(bead=sase-96.8.1)
 %w(bead=sase-96.8.2)
 %w(bead=sase-96.8.3)

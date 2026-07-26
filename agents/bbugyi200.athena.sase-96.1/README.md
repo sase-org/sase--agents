@@ -1,6 +1,6 @@
 # Agent: sase-96.1
 
-**Global name:** `bbugyi200.athena.sase-96.1` · **State:** completed · **Source run:** `run-effe16c12ca1b1d12af7097f6365c130`
+**Global name:** `bbugyi200.athena.sase-96.1` · **State:** active · **Source run:** `run-effe16c12ca1b1d12af7097f6365c130`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-96
 

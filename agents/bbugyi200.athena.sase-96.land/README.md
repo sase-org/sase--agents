@@ -1,6 +1,6 @@
 # Agent: sase-96.land
 
-**Global name:** `bbugyi200.athena.sase-96.land` · **State:** failed · **Source run:** `run-1fd03c83c6fc19d21cdd0f537a5e3865`
+**Global name:** `bbugyi200.athena.sase-96.land` · **State:** active · **Source run:** `run-1fd03c83c6fc19d21cdd0f537a5e3865`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-96
 
