@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start showing all bead statuses for the beads an agent is waiting for in the `Wait:` field of the agent metadata panel? For example, in #sshot, we should show a checkmark next to the right of `beads: sase-9r.2` since the `sase-9r.2` bead is closed. Make sure this doesn't hurt the TUI's performance (beads can be slow). #plan #m_opus
