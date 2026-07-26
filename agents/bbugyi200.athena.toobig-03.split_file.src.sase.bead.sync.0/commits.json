@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1785074381,"sha":"1a84560e8a7751f50e2c1c5240853ae47da1e8cd","subject":"refactor(beads): split local persistence from sync"}],"schema_version":2,"source_run_id":"run-ac2e092b3cc5422e33330ba62fcc78a3"}

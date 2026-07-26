@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make sure that, when we claim the beads associated with the `%id` directive's `bead` kwarg, that we also push those changes to the git remote (i.e. to GitHub)? #if_not_plan
