@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase It seems like the `#fork` xprompt workflow renders a space before the `# New Query` section (see #sshot). Can you help me fix this? #plan
