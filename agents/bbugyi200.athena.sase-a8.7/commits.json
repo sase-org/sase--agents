@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-701ead5cbef7954037355051883e097b"}
+{"commits":[{"committed_at":1785187874,"sha":"73a75f94d4370b0ba582bccfa025f45839f4976f","subject":"feat(beads): materialize split sidecar on demand (sase-a8.7)"}],"schema_version":2,"source_run_id":"run-701ead5cbef7954037355051883e097b"}
