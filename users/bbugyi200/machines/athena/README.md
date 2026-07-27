@@ -1084,7 +1084,7 @@
 | [toobig-05](hoods/toobig-05/README.md) | 2 | 0 | completed 2 |
 | [toobig-08](hoods/toobig-08/README.md) | 3 | 0 | active 1, completed 2 |
 | [toobig-09](hoods/toobig-09/README.md) | 1 | 0 | active 1 |
-| [toobig-0a](hoods/toobig-0a/README.md) | 2 | 0 | active 1, waiting 1 |
+| [toobig-0a](hoods/toobig-0a/README.md) | 2 | 0 | active 1, completed 1 |
 | [toobig-1](hoods/toobig-1/README.md) | 14 | 0 | active 5, waiting 9 |
 | [toobig-3](hoods/toobig-3/README.md) | 13 | 0 | active 4, waiting 9 |
 | [toobig-4](hoods/toobig-4/README.md) | 14 | 0 | active 6, waiting 8 |

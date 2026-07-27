@@ -1,6 +1,6 @@
 # Agent: toobig-0a.split\_file.src.sase.bead.cli\_dep.0
 
-**Global name:** `bbugyi200.athena.toobig-0a.split_file.src.sase.bead.cli_dep.0` · **State:** active · **Source run:** `run-e9f6b8898a18db4cee6b5a1b728c5eb0`
+**Global name:** `bbugyi200.athena.toobig-0a.split_file.src.sase.bead.cli_dep.0` · **State:** completed · **Source run:** `run-e9f6b8898a18db4cee6b5a1b728c5eb0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-0a
 
@@ -13,4 +13,4 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
