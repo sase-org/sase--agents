@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I think there is a bug with the way we count running agents when calculating the agent counts that are displayed on an agent clan row. For example, in #sshot, the agent counts for the `sase-9x` agent clan should read `[R2 W2 D3]` instead of `[R3 W2 D2]`. Can you help me diagnose the root cause of this issue and fix it? #plan #m_opus
