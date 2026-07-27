@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d488cdcb19289155d5664b7ba06d8a0a"}
+{"commits":[{"committed_at":1785187471,"sha":"3dba997d0c80ce4ec8234d650514ae50eff838a0","subject":"feat(sdd): route bead operations to dedicated sidecar (sase-a8.6)"}],"schema_version":2,"source_run_id":"run-d488cdcb19289155d5664b7ba06d8a0a"}
