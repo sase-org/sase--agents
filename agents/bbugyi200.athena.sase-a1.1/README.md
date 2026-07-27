@@ -1,6 +1,6 @@
 # Agent: sase-a1.1
 
-**Global name:** `bbugyi200.athena.sase-a1.1` · **State:** active · **Source run:** `run-d0b158452d3993aa49415939ed708b67`
+**Global name:** `bbugyi200.athena.sase-a1.1` · **State:** completed · **Source run:** `run-d0b158452d3993aa49415939ed708b67`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-a1
 
@@ -13,4 +13,4 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
