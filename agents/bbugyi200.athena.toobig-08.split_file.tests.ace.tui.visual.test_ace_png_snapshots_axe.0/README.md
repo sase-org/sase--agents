@@ -1,6 +1,6 @@
 # Agent: toobig-08.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_axe.0
 
-**Global name:** `bbugyi200.athena.toobig-08.split_file.tests.ace.tui.visual.test_ace_png_snapshots_axe.0` · **State:** active · **Source run:** `run-85c5fff7bec40fefe1f048fdf26218da`
+**Global name:** `bbugyi200.athena.toobig-08.split_file.tests.ace.tui.visual.test_ace_png_snapshots_axe.0` · **State:** completed · **Source run:** `run-85c5fff7bec40fefe1f048fdf26218da`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-08
 
@@ -13,4 +13,4 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
