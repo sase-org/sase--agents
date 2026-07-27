@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3290aeae8f85dbb8c33d57df5dabdeab"}
+{"commits":[{"committed_at":1785182217,"sha":"830245c8cdf01ef0f60c3b86346fba02a0b6d68a","subject":"fix(bead): require core dependency removal support (sase-a3.4)"}],"schema_version":2,"source_run_id":"run-3290aeae8f85dbb8c33d57df5dabdeab"}
