@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-33e30d2ed53fcfd6f1518bb6947df0df"}
+{"commits":[{"committed_at":1785185022,"sha":"c113156466bd746064212cfe48e80fc74073ffe3","subject":"feat: register beads as a managed sidecar (sase-a8.4)"}],"schema_version":2,"source_run_id":"run-33e30d2ed53fcfd6f1518bb6947df0df"}
