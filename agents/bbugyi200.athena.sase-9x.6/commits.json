@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4ee0081c6548114f797390d15a7cd9b7"}
+{"commits":[{"committed_at":1785156145,"sha":"7538b9395489ffc74de8c58525bd9cee2d870889","subject":"feat(bead): report recurring managed-sync failures (sase-9x.6)"}],"schema_version":2,"source_run_id":"run-4ee0081c6548114f797390d15a7cd9b7"}
