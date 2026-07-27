@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-398b5439034de524f0d620a5c771b8fd"}
+{"commits":[{"committed_at":1785169231,"sha":"26ead3f39ac89b6969b71ce1872edab834760aee","subject":"fix(bead): resolve sidecar store from plain checkouts (sase-a0.1)"}],"schema_version":2,"source_run_id":"run-398b5439034de524f0d620a5c771b8fd"}
