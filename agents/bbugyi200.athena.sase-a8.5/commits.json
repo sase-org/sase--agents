@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-82a9fdea480e18491b546cf512da82d6"}
+{"commits":[{"committed_at":1785185884,"sha":"5cf149c1f5c2a914c1df0a98a63bd7d02fad5b81","subject":"feat(beads): support repository-root bead stores (sase-a8.5)"}],"schema_version":2,"source_run_id":"run-82a9fdea480e18491b546cf512da82d6"}
