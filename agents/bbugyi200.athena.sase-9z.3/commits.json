@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1c64014e2694f16092b065dca4d17182"}
+{"commits":[{"committed_at":1785161715,"sha":"b3a4bc282b0fd04bc849797b00dd0d8570282cef","subject":"fix(bead): persist canonical plan references (sase-9z.3)"}],"schema_version":2,"source_run_id":"run-1c64014e2694f16092b065dca4d17182"}
