@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-9z.5--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_9z_5__plan-260727_084035.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_9z_5__code-260727_084035.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/design_ref_doctor_repair.md
 
 
