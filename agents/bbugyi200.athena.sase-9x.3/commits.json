@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6997a40139a033f136a73cd8513a1941"}
+{"commits":[{"committed_at":1785151338,"sha":"0b51af99549e2a3cfbb1fc7201cb0faf9ba4a19a","subject":"fix: preserve bead commits before sidecar workspace reset (sase-9x.3)"}],"schema_version":2,"source_run_id":"run-6997a40139a033f136a73cd8513a1941"}
