@@ -29,5 +29,5 @@
 |---|---|---|
 | [sase-ak.2](../bbugyi200.athena.sase-ak.2/README.md) | sase-ak hood | completed |
 | [sase-ak.3](../bbugyi200.athena.sase-ak.3/README.md) | sase-ak hood | completed |
-| [sase-ak.4](../bbugyi200.athena.sase-ak.4/README.md) | sase-ak hood | active |
-| [sase-ak.land](../bbugyi200.athena.sase-ak.land/README.md) | sase-ak hood | waiting |
+| [sase-ak.4](../bbugyi200.athena.sase-ak.4/README.md) | sase-ak hood | completed |
+| [sase-ak.land](../../families/bbugyi200.athena.sase-ak.land.md) (family · 2) | sase-ak hood | active 2 |
