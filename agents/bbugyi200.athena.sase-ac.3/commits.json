@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6556b69612bef02ccd8c62d548615b82"}
+{"commits":[{"committed_at":1785243028,"sha":"9148e45e1829a445e772a07c8c71b6d919a6ff56","subject":"feat(xprompt): resolve registered project prompts outside cwd (sase-ac.3)"}],"schema_version":2,"source_run_id":"run-6556b69612bef02ccd8c62d548615b82"}

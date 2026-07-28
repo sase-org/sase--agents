@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4ab725811ead029fa5412ecab10d92f4"}
+{"commits":[{"committed_at":1785243109,"sha":"046a92a3b6ce4495d53f431bcca8008c895c8413","subject":"feat(skills): enforce monotonic deploy provenance (sase-ae.2)"}],"schema_version":2,"source_run_id":"run-4ab725811ead029fa5412ecab10d92f4"}

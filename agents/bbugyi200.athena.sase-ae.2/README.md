@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-28T12:25:25.939966+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`046a92a`](https://github.com/sase-org/sase/commit/046a92a3b6ce4495d53f431bcca8008c895c8413) | feat(skills): enforce monotonic deploy provenance (sase-ae.2) | 2026-07-28 12:51:49 |
 
 ## Neighbors
 
