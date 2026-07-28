@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-94ee5df1536696cdcaf89ce297d1dd5c"}
+{"commits":[{"committed_at":1785271120,"sha":"8d34bc9ae0f093f4170229cf78a7dafe8007a26f","subject":"test: keep suite gate socket paths below Linux limits"}],"schema_version":2,"source_run_id":"run-94ee5df1536696cdcaf89ce297d1dd5c"}

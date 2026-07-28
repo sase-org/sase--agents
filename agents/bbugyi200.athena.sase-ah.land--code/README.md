@@ -11,7 +11,13 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-28T20:01:39.144268+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`8d34bc9`](https://github.com/sase-org/sase/commit/8d34bc9ae0f093f4170229cf78a7dafe8007a26f) | test: keep suite gate socket paths below Linux limits | 2026-07-28 20:38:40 |
 
 ## Neighbors
 
