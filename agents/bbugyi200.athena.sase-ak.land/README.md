@@ -23,5 +23,5 @@
 |---|---|---|
 | [sase-ak.1](../bbugyi200.athena.sase-ak.1/README.md) | sase-ak hood | completed |
 | [sase-ak.2](../bbugyi200.athena.sase-ak.2/README.md) | sase-ak hood | completed |
-| [sase-ak.3](../bbugyi200.athena.sase-ak.3/README.md) | sase-ak hood | active |
-| [sase-ak.4](../bbugyi200.athena.sase-ak.4/README.md) | sase-ak hood | waiting |
+| [sase-ak.3](../bbugyi200.athena.sase-ak.3/README.md) | sase-ak hood | completed |
+| [sase-ak.4](../bbugyi200.athena.sase-ak.4/README.md) | sase-ak hood | active |
