@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make the `<ctrl+space>` keymap not work in the prompt input widget? Leaving this keymap enabled allows the user to accidentally wipe out their current prompt. #plan #m_opus
