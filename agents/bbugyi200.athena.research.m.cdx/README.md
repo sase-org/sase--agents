@@ -27,7 +27,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.m.cld](../bbugyi200.athena.research.m.cld/README.md) | research.m hood | active |
+| [research.m.cld](../bbugyi200.athena.research.m.cld/README.md) | research.m hood | completed |
 | [research.m.final](../bbugyi200.athena.research.m.final/README.md) | research.m hood | waiting |
 | [research.m.image](../bbugyi200.athena.research.m.image/README.md) | research.m hood | waiting |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | active |

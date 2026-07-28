@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / research
 
-**Global hood:** `bbugyi200.athena.research` · **Runs:** 287 · **Families:** 6 · **States:** active 82, completed 190, dismissed 5, failed 1, waiting 9
+**Global hood:** `bbugyi200.athena.research` · **Runs:** 287 · **Families:** 6 · **States:** active 81, completed 191, dismissed 5, failed 1, waiting 9
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -243,7 +243,7 @@
 | [research.s.cdx](../../../../../../agents/bbugyi200.athena.research.s.cdx/README.md) | completed | — | 2026-06-19T16:29:56+00:00 → 2026-06-19T16:29:56+00:00 | 1 | — |
 | [research.0n.image](../../../../../../agents/bbugyi200.athena.research.0n.image/README.md) | completed | — | 2026-06-26T15:52:20+00:00 → 2026-06-26T15:52:20+00:00 | 1 | — |
 | [research.z.final](../../../../../../agents/bbugyi200.athena.research.z.final/README.md) | completed | — | 2026-06-20T16:18:21+00:00 → 2026-06-20T16:18:21+00:00 | 1 | — |
-| [research.m.cld](../../../../../../agents/bbugyi200.athena.research.m.cld/README.md) | active | opus / claude | 2026-07-28T19:01:00.389421+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.research.m.cld/prompt.md) |
+| [research.m.cld](../../../../../../agents/bbugyi200.athena.research.m.cld/README.md) | completed | opus / claude | 2026-07-28T19:01:00.389421+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.research.m.cld/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.m.cld/chat.md) |
 | [research.0n.cdx](../../../../../../agents/bbugyi200.athena.research.0n.cdx/README.md) | completed | — | 2026-06-26T15:38:59+00:00 → 2026-06-26T15:38:59+00:00 | 1 | — |
 | [research.0e.final](../../../../../../agents/bbugyi200.athena.research.0e.final/README.md) | completed | — | 2026-06-25T10:47:07+00:00 → 2026-06-25T10:47:07+00:00 | 1 | — |
 | [research.image-1](../../../../../../agents/bbugyi200.athena.research.image-1/README.md) | completed | — | 2026-06-03T07:36:39+00:00 → 2026-06-03T07:36:39+00:00 | 1 | — |
