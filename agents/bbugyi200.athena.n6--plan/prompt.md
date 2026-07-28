@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me use GPT image to generate an excellent infographic that we should start showing in the root-level README.md file for the `<project>--agents` sidecar repos that the `sase repo init` command creates / updates? #plan

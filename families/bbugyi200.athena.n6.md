@@ -1,0 +1,27 @@
+# Family: n6
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [n6](../users/bbugyi200/machines/athena/hoods/n6/README.md) / n6
+
+Owner: `bbugyi200.athena` · Hood: `n6` · Members: 2
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["n6--plan [active]"]
+  n1["n6--code [active]"]
+  n0 --> n1
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-plan"></a>plan | n6--plan | active | gpt-5.6-sol / codex | 2026-07-28T16:46:48.372122+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.n6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.n6--plan/chat.md) |
+| <a id="member-code"></a>code | n6--code | active | gpt-5.6-sol / codex | 2026-07-28T16:52:44.328462+00:00 | [1](../agents/bbugyi200.athena.n6--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| code | [`d4198f1`](https://github.com/sase-org/sase/commit/d4198f1cc9b1e87b361fd80b6e0f99c94c5cec27) | feat: illustrate agents sidecar lifecycle | 2026-07-28 17:17:44 |
