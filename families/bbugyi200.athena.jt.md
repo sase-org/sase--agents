@@ -1,5 +1,7 @@
 # Family: jt
 
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [jt](../users/bbugyi200/machines/athena/hoods/jt/README.md) / jt
+
 Owner: `bbugyi200.athena` · Hood: `jt` · Members: 2
 
 ## Lineage
@@ -15,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | jt--code | completed | gpt-5.6-sol / codex | 2026-07-24T22:34:50.268326+00:00 | 1 | — | [Chat](../agents/bbugyi200.athena.jt--code/chat.md) |
+| <a id="member-code"></a>code | jt--code | completed | gpt-5.6-sol / codex | 2026-07-24T22:34:50.268326+00:00 | [1](../agents/bbugyi200.athena.jt--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.jt--code/chat.md) |
 | <a id="member-plan"></a>plan | jt--plan | dismissed | gpt-5.6-sol / codex | 2026-07-24T18:28:56.558510 → 2026-07-24T19:00:25.939850 | 0 | — | [Chat](../agents/bbugyi200.athena.jt--plan/chat.md) |
+
+## Commits
+
+| Role | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| code | [`c1fc89c`](https://github.com/sase-org/sase/commit/c1fc89c571ff2607365caef4bcfe527073eb7d9e) | feat(ace): let q close the AXE entry editor | 2026-07-24 23:00:05 |

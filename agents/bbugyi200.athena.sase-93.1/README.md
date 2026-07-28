@@ -1,5 +1,7 @@
 # Agent: sase-93.1
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-93](../../users/bbugyi200/machines/athena/hoods/sase-93/README.md) / sase-93.1
+
 **Global name:** `bbugyi200.athena.sase-93.1` · **State:** completed · **Source run:** `run-488a2c0dfa79436bfb39c492c862c739`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-93
@@ -9,8 +11,26 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-25T11:28:09.348132+00:00
-- Commits: 1
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`53d25b3`](https://github.com/sase-org/sase/commit/53d25b3173ae0df30909d3f4e256c9d4d52d08f6) | fix(init): warn instead of blocking when the agents sidecar has no project key (sase-93.1) | 2026-07-25 12:32:18 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-93.2](../bbugyi200.athena.sase-93.2/README.md) | sase-93 hood | completed |
+| [sase-93.3](../bbugyi200.athena.sase-93.3/README.md) | sase-93 hood | completed |
+| [sase-93.4](../bbugyi200.athena.sase-93.4/README.md) | sase-93 hood | completed |
+| [sase-93.5](../bbugyi200.athena.sase-93.5/README.md) | sase-93 hood | completed |
+| [sase-93.6](../bbugyi200.athena.sase-93.6/README.md) | sase-93 hood | completed |
+| [sase-93.7](../bbugyi200.athena.sase-93.7/README.md) | sase-93 hood | completed |
+| [sase-93.land](../bbugyi200.athena.sase-93.land/README.md) | sase-93 hood | waiting |

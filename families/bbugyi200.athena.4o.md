@@ -1,5 +1,7 @@
 # Family: 4o
 
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [4o](../users/bbugyi200/machines/athena/hoods/4o/README.md) / 4o
+
 Owner: `bbugyi200.athena` · Hood: `4o` · Members: 2
 
 ## Lineage
@@ -15,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 4o | active | claude-fable-5 / claude | 2026-07-10T19:09:30.590363+00:00 | 1 | [Prompt](../agents/bbugyi200.athena.4o/prompt.md) | [Chat](../agents/bbugyi200.athena.4o/chat.md) |
+| <a id="member-root"></a>root | 4o | active | claude-fable-5 / claude | 2026-07-10T19:09:30.590363+00:00 | [1](../agents/bbugyi200.athena.4o/README.md#commits) | [Prompt](../agents/bbugyi200.athena.4o/prompt.md) | [Chat](../agents/bbugyi200.athena.4o/chat.md) |
 | <a id="member-code"></a>code | 4o--code | completed | gpt-5.6-sol / codex | 2026-07-10T19:24:24.409079+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.4o--code/chat.md) |
+
+## Commits
+
+| Role | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| root | [`608ec52`](https://github.com/sase-org/sase/commit/608ec521b32420c7a132c8cebd71678158f2a321) | fix: keep dependency waiters pending after failures | 2026-07-10 19:48:01 |

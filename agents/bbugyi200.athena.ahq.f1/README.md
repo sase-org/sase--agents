@@ -1,5 +1,7 @@
 # Agent: ahq.f1
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ahq](../../users/bbugyi200/machines/athena/hoods/ahq/README.md) / ahq.f1
+
 **Global name:** `bbugyi200.athena.ahq.f1` · **State:** dismissed · **Source run:** `run-c3f4992bb6611ce7d256500bc9d57a05`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** ahq
@@ -9,4 +11,17 @@
 - Model: —
 - Provider: —
 - Timing: 2113-03-29T05:50:08+00:00 → 2113-03-29T05:50:08+00:00
-- Commits: 1
+- Commits: [1](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`bd49694`](https://github.com/sase-org/sase/commit/bd49694f037a8df3d28435322af957905941e823) | chore: expand git-versioned episodic events research | 2026-05-26 21:06:36 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [ahq](../bbugyi200.athena.ahq/README.md) | ancestor | dismissed |
+| [ahq.f1.f1](../bbugyi200.athena.ahq.f1.f1/README.md) | descendant | dismissed |

@@ -1,10 +1,10 @@
 # Agent: is.cdx--plan
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [is](../../users/bbugyi200/machines/athena/hoods/is/README.md) / [is.cdx](../../families/bbugyi200.athena.is.cdx.md) / is.cdx--plan
+
 **Global name:** `bbugyi200.athena.is.cdx--plan` · **State:** active · **Source run:** `run-e10caae10b9f82559251f742ef3071fb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** is
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.is.cdx.md#member-plan).
 
 ## Summary
 
@@ -16,3 +16,9 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [is.cld](../bbugyi200.athena.is.cld/README.md) | is hood | active |

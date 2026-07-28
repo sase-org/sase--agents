@@ -1,5 +1,7 @@
 # Family: 06
 
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [06](../users/bbugyi200/machines/athena/hoods/06/README.md) / 06
+
 Owner: `bbugyi200.athena` · Hood: `06` · Members: 2
 
 ## Lineage
@@ -15,5 +17,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 06--code | completed | gpt-5.5 / codex | 2026-07-07T03:42:43.411584+00:00 | 1 | — | [Chat](../agents/bbugyi200.athena.06--code/chat.md) |
-| <a id="member-root"></a>root | 06 | active | claude-fable-5 / claude | 2026-07-07T03:30:26.557888+00:00 | 4 | [Prompt](../agents/bbugyi200.athena.06/prompt.md) | [Chat](../agents/bbugyi200.athena.06/chat.md) |
+| <a id="member-code"></a>code | 06--code | completed | gpt-5.5 / codex | 2026-07-07T03:42:43.411584+00:00 | [1](../agents/bbugyi200.athena.06--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.06--code/chat.md) |
+| <a id="member-root"></a>root | 06 | active | claude-fable-5 / claude | 2026-07-07T03:30:26.557888+00:00 | [4](../agents/bbugyi200.athena.06/README.md#commits) | [Prompt](../agents/bbugyi200.athena.06/prompt.md) | [Chat](../agents/bbugyi200.athena.06/chat.md) |
+
+## Commits
+
+| Role | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| root | [`0348a31`](https://github.com/sase-org/sase/commit/0348a311ede448dd40e509994a00bf60fd02258d) | chore: Add SDD prompt and plan for move\_research\_xprompts\_to\_chezmoi | 2026-07-05 11:05:44 |
+| root | [`bc6a9cc`](https://github.com/sase-org/sase/commit/bc6a9cc87f2ef91166c3cd4b344f8afc3318f710) | feat!: remove packaged research xprompts | 2026-07-05 11:31:43 |
+| root | [`f27dde7`](https://github.com/sase-org/sase/commit/f27dde7d4964dd9da70718efb1decf6a4af08ace) | chore: Add SDD prompt and plan for telegram\_launch\_buttons\_sharded\_artifacts | 2026-07-07 03:42:42 |
+| code | [`d7e06b7`](https://github.com/sase-org/sase/commit/d7e06b77b42d89ecf4bb1538c6f89c6fe700124e) | fix: expose launch artifact directories | 2026-07-07 03:54:43 |
+| root | [`d7e06b7`](https://github.com/sase-org/sase/commit/d7e06b77b42d89ecf4bb1538c6f89c6fe700124e) | fix: expose launch artifact directories | 2026-07-07 03:54:43 |

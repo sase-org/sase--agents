@@ -1,10 +1,10 @@
 # Agent: hc--plan
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [hc](../../users/bbugyi200/machines/athena/hoods/hc/README.md) / [hc](../../families/bbugyi200.athena.hc.md) / hc--plan
+
 **Global name:** `bbugyi200.athena.hc--plan` · **State:** active · **Source run:** `run-22e66c658698025e7abe60a49ebc3e47`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** hc
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.hc.md#member-plan).
 
 ## Summary
 
@@ -16,3 +16,11 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [hc.f0](../../families/bbugyi200.athena.hc.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [hc.f0](../bbugyi200.athena.hc.f0/README.md) | descendant | completed |
+| [hc.f0.f0](../../families/bbugyi200.athena.hc.f0.f0.md) (family · 2) | descendant | active 2 |

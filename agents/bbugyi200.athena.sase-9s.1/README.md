@@ -1,5 +1,7 @@
 # Agent: sase-9s.1
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-9s](../../users/bbugyi200/machines/athena/hoods/sase-9s/README.md) / sase-9s.1
+
 **Global name:** `bbugyi200.athena.sase-9s.1` · **State:** completed · **Source run:** `run-e87e61ae504da41ae076ea5214c26183`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-9s
@@ -9,8 +11,27 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-26T11:28:15.666010+00:00
-- Commits: 1
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`a3b3ff7`](https://github.com/sase-org/sase/commit/a3b3ff7bf14b1fd6fb555c6c7c2703c152e5e4d9) | fix: break agents sync ace import cycle (sase-9s.1) | 2026-07-26 12:34:04 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-9s.2](../bbugyi200.athena.sase-9s.2/README.md) | sase-9s hood | completed |
+| [sase-9s.3](../bbugyi200.athena.sase-9s.3/README.md) | sase-9s hood | completed |
+| [sase-9s.4](../bbugyi200.athena.sase-9s.4/README.md) | sase-9s hood | completed |
+| [sase-9s.5](../bbugyi200.athena.sase-9s.5/README.md) | sase-9s hood | completed |
+| [sase-9s.6](../bbugyi200.athena.sase-9s.6/README.md) | sase-9s hood | completed |
+| [sase-9s.7](../bbugyi200.athena.sase-9s.7/README.md) | sase-9s hood | completed |
+| [sase-9s.8](../bbugyi200.athena.sase-9s.8/README.md) | sase-9s hood | waiting |
+| [sase-9s.land](../bbugyi200.athena.sase-9s.land/README.md) | sase-9s hood | waiting |

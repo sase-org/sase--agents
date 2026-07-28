@@ -1,10 +1,10 @@
 # Agent: 7q.w1--epic
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [7q](../../users/bbugyi200/machines/athena/hoods/7q/README.md) / [7q.w1](../../families/bbugyi200.athena.7q.w1.md) / 7q.w1--epic
+
 **Global name:** `bbugyi200.athena.7q.w1--epic` · **State:** completed · **Source run:** `run-c88b8a4110bbd758e393e4c02fe3b6c1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 7q
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.7q.w1.md#member-epic).
 
 ## Summary
 
@@ -16,3 +16,10 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [7q](../bbugyi200.athena.7q/README.md) | ancestor | dismissed |
+| [7q.w0](../../families/bbugyi200.athena.7q.w0.md) (family · 2) | 7q hood | active 1, completed 1 |

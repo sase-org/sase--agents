@@ -1,10 +1,10 @@
 # Agent: sase-7r.land--plan
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-7r](../../users/bbugyi200/machines/athena/hoods/sase-7r/README.md) / [sase-7r.land](../../families/bbugyi200.athena.sase-7r.land.md) / sase-7r.land--plan
+
 **Global name:** `bbugyi200.athena.sase-7r.land--plan` · **State:** active · **Source run:** `run-581832cd61d9ac2c960471347e9ceda0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-7r
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.sase-7r.land.md#member-plan).
 
 ## Summary
 
@@ -16,3 +16,15 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-7r.1](../bbugyi200.athena.sase-7r.1/README.md) | sase-7r hood | active |
+| [sase-7r.2](../bbugyi200.athena.sase-7r.2/README.md) | sase-7r hood | active |
+| [sase-7r.3](../bbugyi200.athena.sase-7r.3/README.md) | sase-7r hood | active |
+| [sase-7r.4](../bbugyi200.athena.sase-7r.4/README.md) | sase-7r hood | active |
+| [sase-7r.5](../bbugyi200.athena.sase-7r.5/README.md) | sase-7r hood | active |
+| [sase-7r.6](../bbugyi200.athena.sase-7r.6/README.md) | sase-7r hood | active |
+| [sase-7r.7](../bbugyi200.athena.sase-7r.7/README.md) | sase-7r hood | active |

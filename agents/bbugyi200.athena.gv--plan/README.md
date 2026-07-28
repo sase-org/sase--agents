@@ -1,10 +1,10 @@
 # Agent: gv--plan
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [gv](../../users/bbugyi200/machines/athena/hoods/gv/README.md) / [gv](../../families/bbugyi200.athena.gv.md) / gv--plan
+
 **Global name:** `bbugyi200.athena.gv--plan` · **State:** active · **Source run:** `run-d5209b4323f8aa524e5080291430f3c9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** gv
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.gv.md#member-plan).
 
 ## Summary
 

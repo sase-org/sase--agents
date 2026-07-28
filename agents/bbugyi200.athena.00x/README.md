@@ -1,5 +1,7 @@
 # Agent: 00x
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [00x](../../users/bbugyi200/machines/athena/hoods/00x/README.md) / 00x
+
 **Global name:** `bbugyi200.athena.00x` · **State:** dismissed · **Source run:** `run-be50f4068b18759c2510a8aea10e5fba`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 00x
@@ -9,4 +11,11 @@
 - Model: —
 - Provider: —
 - Timing: 2130-02-09T23:14:50+00:00 → 2130-02-09T23:14:50+00:00
-- Commits: 2
+- Commits: [2](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`c37dfb3`](https://github.com/sase-org/sase/commit/c37dfb33bd67720e927ae33f9dc0b8979fe6f7e5) | chore: Add SDD prompt and plan for reverse\_bead\_search\_order | 2026-06-19 12:06:49 |
+| [`a3812c2`](https://github.com/sase-org/sase/commit/a3812c2b8fcc52c13a2e279732563c830365105a) | chore(sdd): mark reverse\_bead\_search\_order tale done | 2026-06-19 12:12:18 |

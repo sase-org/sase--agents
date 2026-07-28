@@ -1,5 +1,7 @@
 # Agent: 07m
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [07m](../../users/bbugyi200/machines/athena/hoods/07m/README.md) / 07m
+
 **Global name:** `bbugyi200.athena.07m` · **State:** dismissed · **Source run:** `run-104e5f953c1c4b61e2332ef98de7efc9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 07m
@@ -9,4 +11,17 @@
 - Model: —
 - Provider: —
 - Timing: 2033-01-27T00:34:29+00:00 → 2033-01-27T00:34:29+00:00
-- Commits: 2
+- Commits: [2](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`7cb4a13`](https://github.com/sase-org/sase/commit/7cb4a133396889d66e194869658b10b44da60cb4) | chore: Add SDD prompt and plan for operations\_tab | 2026-06-27 12:51:36 |
+| [`192a4dc`](https://github.com/sase-org/sase/commit/192a4dc940b972b235f03696e2e6f62bf69edee7) | feat(tui): merge tasks and logs under operations | 2026-06-27 13:15:22 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [07m.f1](../bbugyi200.athena.07m.f1/README.md) | descendant | dismissed |

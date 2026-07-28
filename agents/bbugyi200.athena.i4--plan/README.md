@@ -1,10 +1,10 @@
 # Agent: i4--plan
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [i4](../../users/bbugyi200/machines/athena/hoods/i4/README.md) / [i4](../../families/bbugyi200.athena.i4.md) / i4--plan
+
 **Global name:** `bbugyi200.athena.i4--plan` · **State:** active · **Source run:** `run-95559f4ff8e7003ae80feb5735d92d6d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** i4
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.i4.md#member-plan).
 
 ## Summary
 

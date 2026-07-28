@@ -1,10 +1,10 @@
 # Agent: 3k--code
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [3k](../../users/bbugyi200/machines/athena/hoods/3k/README.md) / [3k](../../families/bbugyi200.athena.3k.md) / 3k--code
+
 **Global name:** `bbugyi200.athena.3k--code` · **State:** completed · **Source run:** `run-1335de27806598e57aa15022a10d262a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 3k
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.3k.md#member-code).
 
 ## Summary
 
@@ -16,3 +16,9 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [3k.cld](../bbugyi200.athena.3k.cld/README.md) | descendant | dismissed |

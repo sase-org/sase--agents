@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8c2bee0bdfc57252c78f07207a8514e4"}
+{"commits":[{"committed_at":1785233620,"sha":"2a795b049c56283d2e55be8d6abfaaafbb89cf39","subject":"feat: adopt bead state into dedicated sidecar (sase-a8.8)"}],"schema_version":2,"source_run_id":"run-c61ed2c649069e4007c6a2daeae28ce9"}

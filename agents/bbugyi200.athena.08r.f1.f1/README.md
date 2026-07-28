@@ -1,5 +1,7 @@
 # Agent: 08r.f1.f1
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [08r](../../users/bbugyi200/machines/athena/hoods/08r/README.md) / 08r.f1.f1
+
 **Global name:** `bbugyi200.athena.08r.f1.f1` · **State:** dismissed · **Source run:** `run-0d116c27e4d9fb03473d92dae6e2c6d8`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 08r
@@ -9,4 +11,18 @@
 - Model: —
 - Provider: —
 - Timing: 2074-01-24T03:32:42+00:00 → 2074-01-24T03:32:42+00:00
-- Commits: 2
+- Commits: [2](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`5e5a5bc`](https://github.com/sase-org/sase/commit/5e5a5bca53d3a1766272b38c69c47d2eafd4567a) | chore: Add SDD prompt and plan for model\_above\_xprompts | 2026-06-28 14:01:00 |
+| [`db1eba5`](https://github.com/sase-org/sase/commit/db1eba5eb7acf96be5ee90d35f6f6c06bbbd2ded) | feat(tui): render Model metadata between Auto and Xprompts | 2026-06-28 14:09:42 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [08r.f1](../bbugyi200.athena.08r.f1/README.md) | ancestor | dismissed |
+| [08r](../bbugyi200.athena.08r/README.md) | ancestor | dismissed |

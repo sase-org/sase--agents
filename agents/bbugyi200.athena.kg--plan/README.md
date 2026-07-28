@@ -1,10 +1,10 @@
 # Agent: kg--plan
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [kg](../../users/bbugyi200/machines/athena/hoods/kg/README.md) / [kg](../../families/bbugyi200.athena.kg.md) / kg--plan
+
 **Global name:** `bbugyi200.athena.kg--plan` · **State:** completed · **Source run:** `run-2316e23d42a6bc692392e4d27235e5a1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** kg
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.kg.md#member-plan).
 
 ## Summary
 

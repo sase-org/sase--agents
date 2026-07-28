@@ -1,5 +1,7 @@
 # Agent: 05m.f1
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [05m](../../users/bbugyi200/machines/athena/hoods/05m/README.md) / 05m.f1
+
 **Global name:** `bbugyi200.athena.05m.f1` · **State:** dismissed · **Source run:** `run-d1e26f70dbec8f465c476e856a181136`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 05m
@@ -9,4 +11,20 @@
 - Model: —
 - Provider: —
 - Timing: 2130-12-22T23:15:24+00:00 → 2130-12-22T23:15:24+00:00
-- Commits: 2
+- Commits: [2](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`1ffa21a`](https://github.com/sase-org/sase/commit/1ffa21a6b6c0d50612f5ea2255e1d99df7c3af2a) | chore: Add SDD prompt and plan for persist\_prompt\_stash\_pin | 2026-06-24 18:05:37 |
+| [`8326560`](https://github.com/sase-org/sase/commit/832656055139ccd92dfdaf412081aab1e3c26796) | feat: add persistent prompt stash pins | 2026-06-24 18:23:52 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [05m](../bbugyi200.athena.05m/README.md) | ancestor | dismissed |
+| [05m.f1.w1](../bbugyi200.athena.05m.f1.w1/README.md) | descendant | dismissed |
+| [05m.f1.w1.f1](../bbugyi200.athena.05m.f1.w1.f1/README.md) | descendant | dismissed |
+| [05m.f1.w1.f2](../bbugyi200.athena.05m.f1.w1.f2/README.md) | descendant | dismissed |

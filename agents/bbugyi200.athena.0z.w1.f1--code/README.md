@@ -1,18 +1,31 @@
 # Agent: 0z.w1.f1--code
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0z](../../users/bbugyi200/machines/athena/hoods/0z/README.md) / [0z.w1.f1](../../families/bbugyi200.athena.0z.w1.f1.md) / 0z.w1.f1--code
+
 **Global name:** `bbugyi200.athena.0z.w1.f1--code` · **State:** completed · **Source run:** `run-3c550999ae9cf5e9843fa22a141cd1ae`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0z
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.0z.w1.f1.md#member-code).
 
 ## Summary
 
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-08T00:40:40.830423+00:00
-- Commits: 1
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`2d13be9`](https://github.com/sase-org/sase/commit/2d13be9ce05a93715436a755e8dcf168c98a041b) | feat(tui): add slow-tool reports for successful calls | 2026-07-08 00:51:47 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [0z.w1](../../families/bbugyi200.athena.0z.w1.md) (family · 2) | ancestor | active 1, completed 1 |
+| [0z](../../families/bbugyi200.athena.0z.md) (family · 2) | ancestor | active 1, completed 1 |

@@ -1,10 +1,10 @@
 # Agent: gz--plan
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [gz](../../users/bbugyi200/machines/athena/hoods/gz/README.md) / [gz](../../families/bbugyi200.athena.gz.md) / gz--plan
+
 **Global name:** `bbugyi200.athena.gz--plan` · **State:** active · **Source run:** `run-5639f080201fd642cdc6ff858626b1f6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** gz
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.gz.md#member-plan).
 
 ## Summary
 
@@ -16,3 +16,10 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [gz.f0](../../families/bbugyi200.athena.gz.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [gz.f0](../bbugyi200.athena.gz.f0/README.md) | descendant | completed |

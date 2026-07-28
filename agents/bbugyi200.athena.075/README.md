@@ -1,5 +1,7 @@
 # Agent: 075
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [075](../../users/bbugyi200/machines/athena/hoods/075/README.md) / 075
+
 **Global name:** `bbugyi200.athena.075` · **State:** dismissed · **Source run:** `run-fd8cdfcf508fac1b44ebf489735db356`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 075
@@ -9,4 +11,11 @@
 - Model: —
 - Provider: —
 - Timing: 2058-10-23T06:04:09+00:00 → 2058-10-23T06:04:09+00:00
-- Commits: 2
+- Commits: [2](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`687a46a`](https://github.com/sase-org/sase/commit/687a46a113fdeb6fc55330f84ea6b3df2fec366e) | chore: Add SDD prompt and plan for inline\_short\_term\_memory | 2026-06-26 19:48:43 |
+| [`1a04500`](https://github.com/sase-org/sase/commit/1a04500e473b5bf83e13778558ed69a300297bbb) | chore: create inline memory epic beads | 2026-06-26 19:54:47 |

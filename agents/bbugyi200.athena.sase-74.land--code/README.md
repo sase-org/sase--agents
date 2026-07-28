@@ -1,18 +1,32 @@
 # Agent: sase-74.land--code
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-74](../../users/bbugyi200/machines/athena/hoods/sase-74/README.md) / [sase-74.land](../../families/bbugyi200.athena.sase-74.land.md) / sase-74.land--code
+
 **Global name:** `bbugyi200.athena.sase-74.land--code` · **State:** completed · **Source run:** `run-b86478694b657d5a6a7c90ca04b7862f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-74
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.sase-74.land.md#member-code).
 
 ## Summary
 
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-19T14:06:30.379597+00:00
-- Commits: 1
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`a9065c2`](https://github.com/sase-org/sase/commit/a9065c25eaaf49de3ad5f5b45bc46237e9db11d7) | docs: document clan-scoped agent cleanup (sase-74) | 2026-07-19 14:17:05 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-74.1](../bbugyi200.athena.sase-74.1/README.md) | sase-74 hood | active |
+| [sase-74.2](../bbugyi200.athena.sase-74.2/README.md) | sase-74 hood | active |
+| [sase-74.3](../bbugyi200.athena.sase-74.3/README.md) | sase-74 hood | active |

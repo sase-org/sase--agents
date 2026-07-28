@@ -1,10 +1,10 @@
 # Agent: 00--code
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [00](../../users/bbugyi200/machines/athena/hoods/00/README.md) / [00](../../families/bbugyi200.athena.00.md) / 00--code
+
 **Global name:** `bbugyi200.athena.00--code` · **State:** completed · **Source run:** `run-8c10e3ee643ab4d872b83db15c5dfc43`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 00
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.00.md#member-code).
 
 ## Summary
 
@@ -16,3 +16,16 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [00.f1](../bbugyi200.athena.00.f1/README.md) | descendant | dismissed |
+| [00.w1](../bbugyi200.athena.00.w1/README.md) | descendant | dismissed |
+| [00.w1.r1](../bbugyi200.athena.00.w1.r1/README.md) | descendant | dismissed |
+| [00.w1.r1.w1](../bbugyi200.athena.00.w1.r1.w1/README.md) | descendant | dismissed |
+| [00.w1.r1.w1.f1](../bbugyi200.athena.00.w1.r1.w1.f1/README.md) | descendant | dismissed |
+| [00.w1.w1](../bbugyi200.athena.00.w1.w1/README.md) | descendant | dismissed |
+| [00.w1.w1.w1](../bbugyi200.athena.00.w1.w1.w1/README.md) | descendant | dismissed |
+| [00.w1.w1.w1.f1](../bbugyi200.athena.00.w1.w1.w1.f1/README.md) | descendant | dismissed |

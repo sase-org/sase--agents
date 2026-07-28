@@ -1,5 +1,7 @@
 # Agent: sase-93.land
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-93](../../users/bbugyi200/machines/athena/hoods/sase-93/README.md) / sase-93.land
+
 **Global name:** `bbugyi200.athena.sase-93.land` · **State:** waiting · **Source run:** `run-607389b7099e1951e7d27c99a60bb67e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-93
@@ -14,3 +16,15 @@
 ## Files
 
 [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-93.1](../bbugyi200.athena.sase-93.1/README.md) | sase-93 hood | completed |
+| [sase-93.2](../bbugyi200.athena.sase-93.2/README.md) | sase-93 hood | completed |
+| [sase-93.3](../bbugyi200.athena.sase-93.3/README.md) | sase-93 hood | completed |
+| [sase-93.4](../bbugyi200.athena.sase-93.4/README.md) | sase-93 hood | completed |
+| [sase-93.5](../bbugyi200.athena.sase-93.5/README.md) | sase-93 hood | completed |
+| [sase-93.6](../bbugyi200.athena.sase-93.6/README.md) | sase-93 hood | completed |
+| [sase-93.7](../bbugyi200.athena.sase-93.7/README.md) | sase-93 hood | completed |

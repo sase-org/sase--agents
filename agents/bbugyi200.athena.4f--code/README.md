@@ -1,10 +1,10 @@
 # Agent: 4f--code
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [4f](../../users/bbugyi200/machines/athena/hoods/4f/README.md) / [4f](../../families/bbugyi200.athena.4f.md) / 4f--code
+
 **Global name:** `bbugyi200.athena.4f--code` · **State:** completed · **Source run:** `run-52267139573dbb3ce37e64ca46a044bf`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 4f
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.4f.md#member-code).
 
 ## Summary
 
@@ -16,3 +16,14 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [4f.f-0](../bbugyi200.athena.4f.f-0/README.md) | descendant | active |
+| [4f.f-1](../bbugyi200.athena.4f.f-1/README.md) | descendant | active |
+| [4f.f-2](../bbugyi200.athena.4f.f-2/README.md) | descendant | active |
+| [4f.f-3](../../families/bbugyi200.athena.4f.f-3.md) (family · 2) | descendant | active 1, completed 1 |
+| [4f.f1](../bbugyi200.athena.4f.f1/README.md) | descendant | dismissed |
+| [4f.f1.f1](../bbugyi200.athena.4f.f1.f1/README.md) | descendant | dismissed |

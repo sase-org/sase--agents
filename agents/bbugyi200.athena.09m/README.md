@@ -1,5 +1,7 @@
 # Agent: 09m
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [09m](../../users/bbugyi200/machines/athena/hoods/09m/README.md) / 09m
+
 **Global name:** `bbugyi200.athena.09m` · **State:** dismissed · **Source run:** `run-bec67a421c54f6a3f846596cdc7c14aa`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 09m
@@ -9,4 +11,11 @@
 - Model: —
 - Provider: —
 - Timing: 2023-06-13T19:34:49+00:00 → 2023-06-13T19:34:49+00:00
-- Commits: 2
+- Commits: [2](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`2ffac01`](https://github.com/sase-org/sase/commit/2ffac01b3dd09a1914ff79df79629c1ed883a27b) | chore: Add SDD prompt and plan for per\_commit\_diffs\_and\_deltas | 2026-06-29 12:27:49 |
+| [`9b93600`](https://github.com/sase-org/sase/commit/9b93600a48913f3cb6f63d60d59310dae960847e) | feat(tui): surface persisted commit diffs | 2026-06-29 13:13:30 |

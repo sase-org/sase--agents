@@ -1,5 +1,7 @@
 # Agent: sase-5g.9
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-5g](../../users/bbugyi200/machines/athena/hoods/sase-5g/README.md) / sase-5g.9
+
 **Global name:** `bbugyi200.athena.sase-5g.9` · **State:** active · **Source run:** `run-489c5e3a1acc9decfc37f701d43072e6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-5g
@@ -9,8 +11,31 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-06T11:19:12.143325+00:00
-- Commits: 1
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`5eb4508`](https://github.com/sase-org/sase/commit/5eb450842dd30b31777259c202e4b722e83e2339) | feat(agent-family): display custom role status labels (sase-5g.9) | 2026-07-06 11:51:25 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-5g](../bbugyi200.athena.sase-5g/README.md) | ancestor | active |
+| [sase-5g.1](../bbugyi200.athena.sase-5g.1/README.md) | sase-5g hood | dismissed |
+| [sase-5g.2](../bbugyi200.athena.sase-5g.2/README.md) | sase-5g hood | dismissed |
+| [sase-5g.3](../bbugyi200.athena.sase-5g.3/README.md) | sase-5g hood | dismissed |
+| [sase-5g.4](../bbugyi200.athena.sase-5g.4/README.md) | sase-5g hood | active |
+| [sase-5g.5](../bbugyi200.athena.sase-5g.5/README.md) | sase-5g hood | active |
+| [sase-5g.6](../bbugyi200.athena.sase-5g.6/README.md) | sase-5g hood | active |
+| [sase-5g.7](../bbugyi200.athena.sase-5g.7/README.md) | sase-5g hood | dismissed |
+| [sase-5g.8](../bbugyi200.athena.sase-5g.8/README.md) | sase-5g hood | active |
+| [sase-5g.w1](../bbugyi200.athena.sase-5g.w1/README.md) | sase-5g hood | active |
+| [sase-5g.w1.f1](../bbugyi200.athena.sase-5g.w1.f1/README.md) | sase-5g hood | active |
+| [sase-5g.w1.w1](../bbugyi200.athena.sase-5g.w1.w1/README.md) | sase-5g hood | active |

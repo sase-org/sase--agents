@@ -1,5 +1,7 @@
 # Family: 7t
 
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [7t](../users/bbugyi200/machines/athena/hoods/7t/README.md) / 7t
+
 Owner: `bbugyi200.athena` · Hood: `7t` · Members: 2
 
 ## Lineage

@@ -1,5 +1,7 @@
 # Family: hk.f0.f0
 
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [hk](../users/bbugyi200/machines/athena/hoods/hk/README.md) / hk.f0.f0
+
 Owner: `bbugyi200.athena` · Hood: `hk` · Members: 2
 
 ## Lineage
@@ -17,3 +19,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | hk.f0.f0--code | completed | gpt-5.6-sol / codex | 2026-07-22T11:27:48.247840+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.hk.f0.f0--code/chat.md) |
 | <a id="member-plan"></a>plan | hk.f0.f0--plan | active | gpt-5.6-sol / codex | 2026-07-22T11:19:23.217095+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.hk.f0.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.hk.f0.f0--plan/chat.md) |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [hk.f0](../agents/bbugyi200.athena.hk.f0/README.md) | ancestor | completed |
+| [hk](../agents/bbugyi200.athena.hk/README.md) | ancestor | active |

@@ -1,5 +1,7 @@
 # Agent: 00z.cld
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [00z](../../users/bbugyi200/machines/athena/hoods/00z/README.md) / 00z.cld
+
 **Global name:** `bbugyi200.athena.00z.cld` · **State:** dismissed · **Source run:** `run-d78c21e7d6ff4d7482a026a1cd2e5022`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 00z
@@ -9,4 +11,17 @@
 - Model: —
 - Provider: —
 - Timing: 2076-10-05T18:41:32+00:00 → 2076-10-05T18:41:32+00:00
-- Commits: 2
+- Commits: [2](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`d72330a`](https://github.com/sase-org/sase/commit/d72330a7aed385e5a41ea0f9aef5c5ea2fd2f67f) | chore: Add SDD prompt and plan for project\_creation\_logging | 2026-06-19 12:58:28 |
+| [`63f69be`](https://github.com/sase-org/sase/commit/63f69beaf7709a1c5c69fe55ebbb7735a2a02913) | feat(logs): record project creation diagnostics | 2026-06-19 13:08:39 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [00z.cld.f1](../bbugyi200.athena.00z.cld.f1/README.md) | descendant | dismissed |

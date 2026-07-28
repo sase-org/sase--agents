@@ -1,10 +1,10 @@
 # Agent: k0--plan
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [k0](../../users/bbugyi200/machines/athena/hoods/k0/README.md) / [k0](../../families/bbugyi200.athena.k0.md) / k0--plan
+
 **Global name:** `bbugyi200.athena.k0--plan` · **State:** dismissed · **Source run:** `run-be1931bc188cb026798eb612adeae531`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** k0
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.k0.md#member-plan).
 
 ## Summary
 

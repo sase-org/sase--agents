@@ -1,5 +1,7 @@
 # Agent: 04t
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [04t](../../users/bbugyi200/machines/athena/hoods/04t/README.md) / 04t
+
 **Global name:** `bbugyi200.athena.04t` · **State:** dismissed · **Source run:** `run-7384d6b99dd288efb42ad8d15c87a530`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 04t
@@ -9,4 +11,17 @@
 - Model: —
 - Provider: —
 - Timing: 2032-01-10T05:00:53+00:00 → 2032-01-10T05:00:53+00:00
-- Commits: 2
+- Commits: [2](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`f2f80b2`](https://github.com/sase-org/sase/commit/f2f80b29312ec04c1e76ee1991fecd170ff35ec3) | chore: Add SDD prompt and plan for prompt\_number\_increment | 2026-06-23 22:25:22 |
+| [`9e19bdb`](https://github.com/sase-org/sase/commit/9e19bdb286296530d46d51563eb4942a6b9aded1) | feat(ace): support vim number increment commands | 2026-06-23 22:37:20 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [04t.w1](../bbugyi200.athena.04t.w1/README.md) | descendant | dismissed |

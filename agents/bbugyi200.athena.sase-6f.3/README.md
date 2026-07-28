@@ -1,5 +1,7 @@
 # Agent: sase-6f.3
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-6f](../../users/bbugyi200/machines/athena/hoods/sase-6f/README.md) / sase-6f.3
+
 **Global name:** `bbugyi200.athena.sase-6f.3` · **State:** active · **Source run:** `run-4770ac43d21a3605aa12b8fd0bbbfe3f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-6f
@@ -14,3 +16,12 @@
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-6f](../../families/bbugyi200.athena.sase-6f.md) (family · 2) | ancestor | active 1, completed 1 |
+| [sase-6f.1](../bbugyi200.athena.sase-6f.1/README.md) | sase-6f hood | active |
+| [sase-6f.2](../bbugyi200.athena.sase-6f.2/README.md) | sase-6f hood | active |
+| [sase-6f.4](../bbugyi200.athena.sase-6f.4/README.md) | sase-6f hood | active |

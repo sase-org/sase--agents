@@ -1,5 +1,5 @@
-#gh:gh_sase-org__sase
 %id(9, clan=sase-a8, bead=sase-a8.9)
+#gh:gh_sase-org__sase
 %model:@small_phase_worker
 %auto
 %w:sase-a8.8

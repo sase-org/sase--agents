@@ -1,10 +1,10 @@
 # Agent: sase-86.1--plan
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-86](../../users/bbugyi200/machines/athena/hoods/sase-86/README.md) / [sase-86.1](../../families/bbugyi200.athena.sase-86.1.md) / sase-86.1--plan
+
 **Global name:** `bbugyi200.athena.sase-86.1--plan` · **State:** active · **Source run:** `run-4e2ec8ab028847d847eb3b0f0d1a27bd`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-86
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.sase-86.1.md#member-plan).
 
 ## Summary
 
@@ -16,3 +16,17 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-86.2](../../families/bbugyi200.athena.sase-86.2.md) (family · 2) | sase-86 hood | active 1, completed 1 |
+| [sase-86.2](../bbugyi200.athena.sase-86.2/README.md) | sase-86 hood | completed |
+| [sase-86.3](../../families/bbugyi200.athena.sase-86.3.md) (family · 2) | sase-86 hood | active 1, completed 1 |
+| [sase-86.3](../bbugyi200.athena.sase-86.3/README.md) | sase-86 hood | completed |
+| [sase-86.4](../../families/bbugyi200.athena.sase-86.4.md) (family · 2) | sase-86 hood | active 1, completed 1 |
+| [sase-86.4](../bbugyi200.athena.sase-86.4/README.md) | sase-86 hood | completed |
+| [sase-86.5](../bbugyi200.athena.sase-86.5/README.md) | sase-86 hood | active |
+| [sase-86.6](../bbugyi200.athena.sase-86.6/README.md) | sase-86 hood | active |
+| [sase-86.land](../bbugyi200.athena.sase-86.land/README.md) | sase-86 hood | active |

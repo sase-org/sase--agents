@@ -1,5 +1,7 @@
 # Agent: 099
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [099](../../users/bbugyi200/machines/athena/hoods/099/README.md) / 099
+
 **Global name:** `bbugyi200.athena.099` · **State:** dismissed · **Source run:** `run-c65c444ed76e03f4448585ccd337fceb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 099
@@ -9,4 +11,11 @@
 - Model: —
 - Provider: —
 - Timing: 2074-07-22T01:26:02+00:00 → 2074-07-22T01:26:02+00:00
-- Commits: 2
+- Commits: [2](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`884efc5`](https://github.com/sase-org/sase/commit/884efc51082fd904517f3ffe64063d79c91b385e) | chore: Add SDD prompt and plan for tui\_xprompt\_snippet\_auto\_reload | 2026-06-28 19:38:57 |
+| [`1a51990`](https://github.com/sase-org/sase/commit/1a51990c80bd18998a26bf2bf3cc47a5a786887b) | feat(tui): auto-reload xprompt completion catalog | 2026-06-28 20:23:17 |

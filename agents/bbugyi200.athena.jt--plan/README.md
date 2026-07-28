@@ -1,10 +1,10 @@
 # Agent: jt--plan
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [jt](../../users/bbugyi200/machines/athena/hoods/jt/README.md) / [jt](../../families/bbugyi200.athena.jt.md) / jt--plan
+
 **Global name:** `bbugyi200.athena.jt--plan` · **State:** dismissed · **Source run:** `run-5c269653bdfd42d642ec54262715e311`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** jt
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.jt.md#member-plan).
 
 ## Summary
 

@@ -1,10 +1,10 @@
 # Agent: 3p--code
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [3p](../../users/bbugyi200/machines/athena/hoods/3p/README.md) / [3p](../../families/bbugyi200.athena.3p.md) / 3p--code
+
 **Global name:** `bbugyi200.athena.3p--code` · **State:** completed · **Source run:** `run-89d7db4aaa4624fca9ec15185e76e361`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 3p
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.3p.md#member-code).
 
 ## Summary
 

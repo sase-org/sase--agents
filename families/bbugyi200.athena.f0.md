@@ -1,5 +1,7 @@
 # Family: f0
 
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [f0](../users/bbugyi200/machines/athena/hoods/f0/README.md) / f0
+
 Owner: `bbugyi200.athena` · Hood: `f0` · Members: 2
 
 ## Lineage

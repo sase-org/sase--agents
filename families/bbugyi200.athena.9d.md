@@ -1,5 +1,7 @@
 # Family: 9d
 
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [9d](../users/bbugyi200/machines/athena/hoods/9d/README.md) / 9d
+
 Owner: `bbugyi200.athena` · Hood: `9d` · Members: 2
 
 ## Lineage
@@ -16,4 +18,16 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 9d--code | completed | gpt-5.6-sol / codex | 2026-07-15T17:21:52.197514+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.9d--code/chat.md) |
-| <a id="member-root"></a>root | 9d | active | claude-fable-5 / claude | 2026-07-15T16:58:02.817662+00:00 | 1 | [Prompt](../agents/bbugyi200.athena.9d/prompt.md) | [Chat](../agents/bbugyi200.athena.9d/chat.md) |
+| <a id="member-root"></a>root | 9d | active | claude-fable-5 / claude | 2026-07-15T16:58:02.817662+00:00 | [1](../agents/bbugyi200.athena.9d/README.md#commits) | [Prompt](../agents/bbugyi200.athena.9d/prompt.md) | [Chat](../agents/bbugyi200.athena.9d/chat.md) |
+
+## Commits
+
+| Role | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| root | [`39122ff`](https://github.com/sase-org/sase/commit/39122ff058279b2f7f840a3315258e6d5e5be67a) | fix: publish review runner environment before invocation | 2026-07-15 17:40:19 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [9d.cld.f1](../agents/bbugyi200.athena.9d.cld.f1/README.md) | descendant | completed |

@@ -1,10 +1,10 @@
 # Agent: 4j.f-0--code
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [4j](../../users/bbugyi200/machines/athena/hoods/4j/README.md) / [4j.f-0](../../families/bbugyi200.athena.4j.f-0.md) / 4j.f-0--code
+
 **Global name:** `bbugyi200.athena.4j.f-0--code` · **State:** completed · **Source run:** `run-a1536f21899078df60860ebca054a051`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 4j
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.4j.f-0.md#member-code).
 
 ## Summary
 
@@ -16,3 +16,9 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [4j](../bbugyi200.athena.4j/README.md) | ancestor | completed |

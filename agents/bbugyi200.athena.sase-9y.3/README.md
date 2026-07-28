@@ -1,5 +1,7 @@
 # Agent: sase-9y.3
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-9y](../../users/bbugyi200/machines/athena/hoods/sase-9y/README.md) / sase-9y.3
+
 **Global name:** `bbugyi200.athena.sase-9y.3` · **State:** active · **Source run:** `run-e3240226b81ba797f556143de01f6164`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-9y
@@ -9,8 +11,23 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-27T12:41:31.155252+00:00
-- Commits: 1
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`57e3acb`](https://github.com/sase-org/sase/commit/57e3acb3a9ebf7fc777c1db799f09facbce5fd07) | test: harden ACE PNG snapshot convergence (sase-9y.3) | 2026-07-27 14:12:37 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-9y.1](../bbugyi200.athena.sase-9y.1/README.md) | sase-9y hood | completed |
+| [sase-9y.2](../bbugyi200.athena.sase-9y.2/README.md) | sase-9y hood | completed |
+| [sase-9y.4](../bbugyi200.athena.sase-9y.4/README.md) | sase-9y hood | waiting |
+| [sase-9y.land](../bbugyi200.athena.sase-9y.land/README.md) | sase-9y hood | waiting |

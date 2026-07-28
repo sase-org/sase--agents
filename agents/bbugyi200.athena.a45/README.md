@@ -1,5 +1,7 @@
 # Agent: a45
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [a45](../../users/bbugyi200/machines/athena/hoods/a45/README.md) / a45
+
 **Global name:** `bbugyi200.athena.a45` · **State:** dismissed · **Source run:** `run-e46d81255af9f980f3ffaa064eb34292`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** a45
@@ -9,4 +11,10 @@
 - Model: —
 - Provider: —
 - Timing: 2024-07-17T18:31:05+00:00 → 2024-07-17T18:31:05+00:00
-- Commits: 1
+- Commits: [1](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`9ceb7a8`](https://github.com/sase-org/sase/commit/9ceb7a85a608d34a083fbd164b673a0566b70a56) | fix: harden pytest runner marker modes | 2026-06-03 06:00:53 |

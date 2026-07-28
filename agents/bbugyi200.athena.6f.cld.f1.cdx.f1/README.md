@@ -1,5 +1,7 @@
 # Agent: 6f.cld.f1.cdx.f1
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [6f](../../users/bbugyi200/machines/athena/hoods/6f/README.md) / 6f.cld.f1.cdx.f1
+
 **Global name:** `bbugyi200.athena.6f.cld.f1.cdx.f1` · **State:** dismissed · **Source run:** `run-ba129599f96c6404f1c5e5b952bcd7e0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 6f
@@ -9,4 +11,21 @@
 - Model: —
 - Provider: —
 - Timing: 2100-01-27T10:01:15+00:00 → 2100-01-27T10:01:15+00:00
-- Commits: 2
+- Commits: [2](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`4473752`](https://github.com/sase-org/sase/commit/4473752b0058f94f1e6851acb9f22be72b78c91c) | chore: Add SDD prompt and plan for ace\_run\_layout\_review\_fixes | 2026-06-13 17:36:03 |
+| [`ae6e9ff`](https://github.com/sase-org/sase/commit/ae6e9ff9ca09916827c66c114bb2611d523d57a4) | fix(agents): support sharded artifact layout readers | 2026-06-13 17:49:08 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [6f.cld.f1.cdx](../bbugyi200.athena.6f.cld.f1.cdx/README.md) | ancestor | dismissed |
+| [6f.cld](../bbugyi200.athena.6f.cld/README.md) | ancestor | dismissed |
+| [6f](../../families/bbugyi200.athena.6f.md) (family · 2) | ancestor | active 1, completed 1 |
+| [6f.f-0](../bbugyi200.athena.6f.f-0/README.md) | 6f hood | waiting |
+| [6f.f-1](../bbugyi200.athena.6f.f-1/README.md) | 6f hood | active |

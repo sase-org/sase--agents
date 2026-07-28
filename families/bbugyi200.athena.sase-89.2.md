@@ -1,5 +1,7 @@
 # Family: sase-89.2
 
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-89](../users/bbugyi200/machines/athena/hoods/sase-89/README.md) / sase-89.2
+
 Owner: `bbugyi200.athena` · Hood: `sase-89` · Members: 2
 
 ## Lineage
@@ -15,5 +17,23 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-89.2--code | completed | gpt-5.6-sol / codex | 2026-07-20T17:12:20.245534+00:00 | 1 | — | [Chat](../agents/bbugyi200.athena.sase-89.2--code/chat.md) |
+| <a id="member-code"></a>code | sase-89.2--code | completed | gpt-5.6-sol / codex | 2026-07-20T17:12:20.245534+00:00 | [1](../agents/bbugyi200.athena.sase-89.2--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-89.2--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-89.2--plan | active | gpt-5.6-sol / codex | 2026-07-20T17:08:28.726560+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-89.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-89.2--plan/chat.md) |
+
+## Commits
+
+| Role | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| code | [`e584c89`](https://github.com/sase-org/sase/commit/e584c89df570717429bdc477fdec0f76377d9f64) | feat(stats): render configured project labels (sase-89.2) | 2026-07-20 17:35:57 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-89.1](bbugyi200.athena.sase-89.1.md) (family · 2) | sase-89 hood | active 1, completed 1 |
+| [sase-89.1](../agents/bbugyi200.athena.sase-89.1/README.md) | sase-89 hood | completed |
+| [sase-89.3](bbugyi200.athena.sase-89.3.md) (family · 2) | sase-89 hood | active 1, completed 1 |
+| [sase-89.3](../agents/bbugyi200.athena.sase-89.3/README.md) | sase-89 hood | completed |
+| [sase-89.4](bbugyi200.athena.sase-89.4.md) (family · 2) | sase-89 hood | active 1, completed 1 |
+| [sase-89.4](../agents/bbugyi200.athena.sase-89.4/README.md) | sase-89 hood | completed |
+| [sase-89.land](../agents/bbugyi200.athena.sase-89.land/README.md) | sase-89 hood | active |

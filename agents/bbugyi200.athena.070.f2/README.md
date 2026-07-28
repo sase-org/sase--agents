@@ -1,5 +1,7 @@
 # Agent: 070.f2
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [070](../../users/bbugyi200/machines/athena/hoods/070/README.md) / 070.f2
+
 **Global name:** `bbugyi200.athena.070.f2` · **State:** dismissed · **Source run:** `run-143d952bd5efcf7f6bb13fea6635125f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 070
@@ -9,4 +11,17 @@
 - Model: —
 - Provider: —
 - Timing: 2108-12-02T21:22:28+00:00 → 2108-12-02T21:22:28+00:00
-- Commits: 1
+- Commits: [1](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`45afc6e`](https://github.com/sase-org/sase/commit/45afc6eabad41beef66f27024fe741f2115ea6e4) | feat(tui): underline SASE Config title | 2026-06-26 13:47:33 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [070](../bbugyi200.athena.070/README.md) | ancestor | dismissed |
+| [070.f1](../bbugyi200.athena.070.f1/README.md) | 070 hood | dismissed |

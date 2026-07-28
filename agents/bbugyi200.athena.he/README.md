@@ -1,5 +1,7 @@
 # Agent: he
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [he](../../users/bbugyi200/machines/athena/hoods/he/README.md) / he
+
 **Global name:** `bbugyi200.athena.he` · **State:** completed · **Source run:** `run-56e28eca5ac0e4daab46aef4d4c035cc`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** he
@@ -9,4 +11,10 @@
 - Model: —
 - Provider: —
 - Timing: —
-- Commits: 1
+- Commits: [1](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`1fe0afe`](https://github.com/sase-org/sase/commit/1fe0afee6009fa5af8eccd3ddf278bdecae8b582) | feat(ace): show commit timeline position badge | 2026-07-21 19:39:28 |

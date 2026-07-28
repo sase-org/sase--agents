@@ -1,5 +1,7 @@
 # Agent: 1d
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [1d](../../users/bbugyi200/machines/athena/hoods/1d/README.md) / [1d](../../families/bbugyi200.athena.1d.md) / 1d
+
 **Global name:** `bbugyi200.athena.1d` · **State:** active · **Source run:** `run-19de8d0ed2535f72520336e188dd6a34`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 1d
@@ -9,8 +11,15 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-08T00:25:22.395058+00:00
-- Commits: 2
+- Commits: [2](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`00f59d7`](https://github.com/sase-org/sase/commit/00f59d7fe1a70565df2e2b92bc03983880393eea) | chore: Add SDD prompt and plan for updates\_all\_current\_banner | 2026-07-08 00:40:42 |
+| [`ddf8496`](https://github.com/sase-org/sase/commit/ddf849668d025f99012b1f681620ca36dd96bf0f) | feat(tui): show all-current updates banner | 2026-07-08 00:58:16 |

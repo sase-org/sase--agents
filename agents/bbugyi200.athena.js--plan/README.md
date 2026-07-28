@@ -1,10 +1,10 @@
 # Agent: js--plan
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [js](../../users/bbugyi200/machines/athena/hoods/js/README.md) / [js](../../families/bbugyi200.athena.js.md) / js--plan
+
 **Global name:** `bbugyi200.athena.js--plan` · **State:** dismissed · **Source run:** `run-e953b7dadf715ef8ea0d5a9f29f84be1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** js
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.js.md#member-plan).
 
 ## Summary
 

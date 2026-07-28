@@ -1,10 +1,10 @@
 # Agent: fp.f1--code
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [fp](../../users/bbugyi200/machines/athena/hoods/fp/README.md) / [fp.f1](../../families/bbugyi200.athena.fp.f1.md) / fp.f1--code
+
 **Global name:** `bbugyi200.athena.fp.f1--code` · **State:** completed · **Source run:** `run-a205514774e166315ade51d0bb8a6cc6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** fp
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.fp.f1.md#member-code).
 
 ## Summary
 
@@ -16,3 +16,10 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [fp](../bbugyi200.athena.fp/README.md) | ancestor | completed |
+| [fp.f0](../bbugyi200.athena.fp.f0/README.md) | fp hood | waiting |

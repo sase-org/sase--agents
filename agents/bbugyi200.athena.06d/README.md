@@ -1,5 +1,7 @@
 # Agent: 06d
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [06d](../../users/bbugyi200/machines/athena/hoods/06d/README.md) / 06d
+
 **Global name:** `bbugyi200.athena.06d` · **State:** dismissed · **Source run:** `run-30d7c34808cb13baa7a1b4655f5dd48e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 06d
@@ -9,4 +11,11 @@
 - Model: —
 - Provider: —
 - Timing: 2073-02-06T19:01:52+00:00 → 2073-02-06T19:01:52+00:00
-- Commits: 2
+- Commits: [2](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`3d7728a`](https://github.com/sase-org/sase/commit/3d7728a5e5d0feef26e8fc459b9130f13335e02b) | chore: Add SDD prompt and plan for telegram\_auto\_plan\_button\_dismissal | 2026-06-25 19:40:35 |
+| [`02fb83e`](https://github.com/sase-org/sase/commit/02fb83e8928441bef861fdfc40cbde7d35b5388a) | feat(notifications): record handled plan actions in shared store | 2026-06-25 20:11:23 |

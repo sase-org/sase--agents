@@ -1,5 +1,7 @@
 # Agent: a3p.f1.f1
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [a3p](../../users/bbugyi200/machines/athena/hoods/a3p/README.md) / a3p.f1.f1
+
 **Global name:** `bbugyi200.athena.a3p.f1.f1` · **State:** dismissed · **Source run:** `run-52e519f79726b45686fafcf030c11658`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** a3p
@@ -9,4 +11,17 @@
 - Model: —
 - Provider: —
 - Timing: 2118-04-03T22:05:46+00:00 → 2118-04-03T22:05:46+00:00
-- Commits: 1
+- Commits: [1](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`af49a20`](https://github.com/sase-org/sase/commit/af49a20b8449da4b18136ca08b11d2da3124df33) | chore: add configurable agent families infographic | 2026-06-02 20:14:24 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [a3p.f1](../bbugyi200.athena.a3p.f1/README.md) | ancestor | dismissed |
+| [a3p](../bbugyi200.athena.a3p/README.md) | ancestor | dismissed |

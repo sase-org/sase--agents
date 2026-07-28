@@ -1,10 +1,10 @@
 # Agent: i3.f0--plan
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [i3](../../users/bbugyi200/machines/athena/hoods/i3/README.md) / [i3.f0](../../families/bbugyi200.athena.i3.f0.md) / i3.f0--plan
+
 **Global name:** `bbugyi200.athena.i3.f0--plan` · **State:** active · **Source run:** `run-55d6f0c68665131c3bd246fe0d86c449`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** i3
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.i3.f0.md#member-plan).
 
 ## Summary
 
@@ -16,3 +16,9 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [i3](../bbugyi200.athena.i3/README.md) | ancestor | completed |

@@ -1,5 +1,7 @@
 # Agent: sase-8l.land
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-8l](../../users/bbugyi200/machines/athena/hoods/sase-8l/README.md) / sase-8l.land
+
 **Global name:** `bbugyi200.athena.sase-8l.land` · **State:** active · **Source run:** `run-eeca1b76b40b81d0563c329f031539ac`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-8l
@@ -14,3 +16,11 @@
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-8l.1](../../families/bbugyi200.athena.sase-8l.1.md) (family · 2) | sase-8l hood | active 1, completed 1 |
+| [sase-8l.1](../bbugyi200.athena.sase-8l.1/README.md) | sase-8l hood | completed |
+| [sase-8l.2](../../families/bbugyi200.athena.sase-8l.2.md) (family · 2) | sase-8l hood | active 1, completed 1 |

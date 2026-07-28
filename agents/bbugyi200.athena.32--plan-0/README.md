@@ -1,10 +1,10 @@
 # Agent: 32--plan-0
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [32](../../users/bbugyi200/machines/athena/hoods/32/README.md) / [32](../../families/bbugyi200.athena.32.md) / 32--plan-0
+
 **Global name:** `bbugyi200.athena.32--plan-0` · **State:** active · **Source run:** `run-6fff90df76abfcc69350bbcecfd50962`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 32
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.32.md#member-plan-0).
 
 ## Summary
 

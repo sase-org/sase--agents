@@ -1,5 +1,7 @@
 # Family: ak
 
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [ak](../users/bbugyi200/machines/athena/hoods/ak/README.md) / ak
+
 Owner: `bbugyi200.athena` · Hood: `ak` · Members: 2
 
 ## Lineage
@@ -15,5 +17,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | ak--code | completed | gpt-5.6-sol / codex | 2026-07-16T17:21:01.646485+00:00 | 1 | — | [Chat](../agents/bbugyi200.athena.ak--code/chat.md) |
-| <a id="member-root"></a>root | ak | active | claude-fable-5 / claude | 2026-07-16T17:01:36.861772+00:00 | 1 | [Prompt](../agents/bbugyi200.athena.ak/prompt.md) | [Chat](../agents/bbugyi200.athena.ak/chat.md) |
+| <a id="member-code"></a>code | ak--code | completed | gpt-5.6-sol / codex | 2026-07-16T17:21:01.646485+00:00 | [1](../agents/bbugyi200.athena.ak--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.ak--code/chat.md) |
+| <a id="member-root"></a>root | ak | active | claude-fable-5 / claude | 2026-07-16T17:01:36.861772+00:00 | [1](../agents/bbugyi200.athena.ak/README.md#commits) | [Prompt](../agents/bbugyi200.athena.ak/prompt.md) | [Chat](../agents/bbugyi200.athena.ak/chat.md) |
+
+## Commits
+
+| Role | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| code | [`592c252`](https://github.com/sase-org/sase/commit/592c252a3e45ff626cc98505e3b4d42dfa49f98b) | test: stabilize cross-version CI checks | 2026-07-16 17:44:11 |
+| root | [`592c252`](https://github.com/sase-org/sase/commit/592c252a3e45ff626cc98505e3b4d42dfa49f98b) | test: stabilize cross-version CI checks | 2026-07-16 17:44:11 |

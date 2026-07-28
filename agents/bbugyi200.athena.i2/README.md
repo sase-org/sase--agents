@@ -1,5 +1,7 @@
 # Agent: i2
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [i2](../../users/bbugyi200/machines/athena/hoods/i2/README.md) / i2
+
 **Global name:** `bbugyi200.athena.i2` · **State:** completed · **Source run:** `run-5d429da7bca75d55e1a18488eaaa74db`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** i2
@@ -9,4 +11,10 @@
 - Model: —
 - Provider: —
 - Timing: —
-- Commits: 1
+- Commits: [1](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`7c71edf`](https://github.com/sase-org/sase/commit/7c71edf08ff7e6581a56af3cc9072272fae3a5cc) | feat(ace): show applied commits in post-update toast | 2026-07-22 13:50:28 |

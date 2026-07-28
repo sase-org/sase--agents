@@ -1,10 +1,10 @@
 # Agent: 0m--epic
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0m](../../users/bbugyi200/machines/athena/hoods/0m/README.md) / [0m](../../families/bbugyi200.athena.0m.md) / 0m--epic
+
 **Global name:** `bbugyi200.athena.0m--epic` · **State:** completed · **Source run:** `run-7d1dd32b899cf4947cc34b0f21028235`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0m
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.0m.md#member-epic).
 
 ## Summary
 

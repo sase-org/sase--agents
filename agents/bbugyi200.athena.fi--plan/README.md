@@ -1,10 +1,10 @@
 # Agent: fi--plan
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [fi](../../users/bbugyi200/machines/athena/hoods/fi/README.md) / [fi](../../families/bbugyi200.athena.fi.md) / fi--plan
+
 **Global name:** `bbugyi200.athena.fi--plan` · **State:** active · **Source run:** `run-57ae5a34cfb981c63615835d4f9f6686`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** fi
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.fi.md#member-plan).
 
 ## Summary
 
@@ -16,3 +16,11 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [fi--code.f0](../../families/bbugyi200.athena.fi--code.f0.md) (family · 2) | descendant | active 2 |
+| [fi.f0](../bbugyi200.athena.fi.f0/README.md) | descendant | active |
+| [fi.f1](../bbugyi200.athena.fi.f1/README.md) | descendant | active |

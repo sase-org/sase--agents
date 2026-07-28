@@ -1,5 +1,7 @@
 # Agent: sase-80.2
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-80](../../users/bbugyi200/machines/athena/hoods/sase-80/README.md) / sase-80.2
+
 **Global name:** `bbugyi200.athena.sase-80.2` · **State:** active · **Source run:** `run-d004be591eb566cb64d334b240a55c7d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-80
@@ -9,8 +11,27 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-20T12:07:53.689313+00:00
-- Commits: 1
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`969970b`](https://github.com/sase-org/sase/commit/969970bcb7a7cdd757cb78bcfe5eaf2bdef9e2e9) | fix(axe): guard daemon lifecycle under pytest (sase-80.2) | 2026-07-20 12:35:53 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-80.1](../bbugyi200.athena.sase-80.1/README.md) | sase-80 hood | active |
+| [sase-80.3](../bbugyi200.athena.sase-80.3/README.md) | sase-80 hood | active |
+| [sase-80.4](../bbugyi200.athena.sase-80.4/README.md) | sase-80 hood | active |
+| [sase-80.5](../bbugyi200.athena.sase-80.5/README.md) | sase-80 hood | active |
+| [sase-80.land](../bbugyi200.athena.sase-80.land/README.md) | sase-80 hood | active |
+| [sase-80.land.w0](../bbugyi200.athena.sase-80.land.w0/README.md) | sase-80 hood | waiting |
+| [sase-80.land.w1](../bbugyi200.athena.sase-80.land.w1/README.md) | sase-80 hood | active |
+| [sase-80.land.w2](../bbugyi200.athena.sase-80.land.w2/README.md) | sase-80 hood | active |

@@ -1,5 +1,7 @@
 # Family: h6
 
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [h6](../users/bbugyi200/machines/athena/hoods/h6/README.md) / h6
+
 Owner: `bbugyi200.athena` · Hood: `h6` · Members: 2
 
 ## Lineage

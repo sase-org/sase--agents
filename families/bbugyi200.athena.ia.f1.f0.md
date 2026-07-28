@@ -1,5 +1,7 @@
 # Family: ia.f1.f0
 
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [ia](../users/bbugyi200/machines/athena/hoods/ia/README.md) / ia.f1.f0
+
 Owner: `bbugyi200.athena` · Hood: `ia` · Members: 2
 
 ## Lineage
@@ -16,4 +18,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | ia.f1.f0--plan | active | gpt-5.6-sol / codex | 2026-07-22T16:04:13.148953+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ia.f1.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ia.f1.f0--plan/chat.md) |
-| <a id="member-code"></a>code | ia.f1.f0--code | completed | gpt-5.6-sol / codex | 2026-07-22T16:11:29.348933+00:00 | 1 | — | [Chat](../agents/bbugyi200.athena.ia.f1.f0--code/chat.md) |
+| <a id="member-code"></a>code | ia.f1.f0--code | completed | gpt-5.6-sol / codex | 2026-07-22T16:11:29.348933+00:00 | [1](../agents/bbugyi200.athena.ia.f1.f0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.ia.f1.f0--code/chat.md) |
+
+## Commits
+
+| Role | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| code | [`85aa33e`](https://github.com/sase-org/sase/commit/85aa33e908bb7286d09ace4befb6c2f42666c382) | fix(ace): align status summaries with agent holes | 2026-07-22 16:47:58 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [ia.f1](../agents/bbugyi200.athena.ia.f1/README.md) | ancestor | completed |
+| [ia](../agents/bbugyi200.athena.ia/README.md) | ancestor | completed |

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me fix the `memories contains` typo (should be `memories contain`) that the `sase memory init` command adds to AGENTS.md files? #plan

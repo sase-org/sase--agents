@@ -1,10 +1,10 @@
 # Agent: je--plan
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [je](../../users/bbugyi200/machines/athena/hoods/je/README.md) / [je](../../families/bbugyi200.athena.je.md) / je--plan
+
 **Global name:** `bbugyi200.athena.je--plan` · **State:** active · **Source run:** `run-06fd84d41b32308e1eb0be4efc37bf3c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** je
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.je.md#member-plan).
 
 ## Summary
 

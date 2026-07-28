@@ -1,10 +1,10 @@
 # Agent: g4--code
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [g4](../../users/bbugyi200/machines/athena/hoods/g4/README.md) / [g4](../../families/bbugyi200.athena.g4.md) / g4--code
+
 **Global name:** `bbugyi200.athena.g4--code` · **State:** completed · **Source run:** `run-8b8b07e9b2bb8ad7a8f3a20d640edb89`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** g4
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.g4.md#member-code).
 
 ## Summary
 

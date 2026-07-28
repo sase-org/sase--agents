@@ -1,5 +1,7 @@
 # Agent: sase-99.1
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-99](../../users/bbugyi200/machines/athena/hoods/sase-99/README.md) / sase-99.1
+
 **Global name:** `bbugyi200.athena.sase-99.1` · **State:** completed · **Source run:** `run-37500daf2d1ed5aacde5041cd96e7248`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-99
@@ -9,8 +11,26 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-25T13:09:12.934845+00:00
-- Commits: 1
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`1d6c95e`](https://github.com/sase-org/sase/commit/1d6c95e60d6ae0f98c309de41490aa4c8738a9d9) | refactor(ace): share lane neighbor projection (sase-99.1) | 2026-07-25 13:34:08 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-99.2](../bbugyi200.athena.sase-99.2/README.md) | sase-99 hood | completed |
+| [sase-99.3](../bbugyi200.athena.sase-99.3/README.md) | sase-99 hood | completed |
+| [sase-99.4](../bbugyi200.athena.sase-99.4/README.md) | sase-99 hood | completed |
+| [sase-99.5](../bbugyi200.athena.sase-99.5/README.md) | sase-99 hood | completed |
+| [sase-99.land](../bbugyi200.athena.sase-99.land/README.md) | sase-99 hood | active |
+| [sase-99.land.f0](../bbugyi200.athena.sase-99.land.f0/README.md) | sase-99 hood | waiting |
+| [sase-99.land.f1](../bbugyi200.athena.sase-99.land.f1/README.md) | sase-99 hood | waiting |

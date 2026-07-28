@@ -1,5 +1,7 @@
 # Agent: 6d
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [6d](../../users/bbugyi200/machines/athena/hoods/6d/README.md) / [6d](../../families/bbugyi200.athena.6d.md) / 6d
+
 **Global name:** `bbugyi200.athena.6d` · **State:** active · **Source run:** `run-968b37dfdbe6feca8ff95f931c22e16b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 6d
@@ -9,8 +11,14 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-11T23:37:58.764627+00:00
-- Commits: 1
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`ddd0b63`](https://github.com/sase-org/sase/commit/ddd0b63f22dce1e5e5d2c8d35af96b9fd2967a3f) | feat: support launch-scoped model alias overrides | 2026-07-12 00:11:16 |

@@ -1,5 +1,7 @@
 # Family: jo
 
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [jo](../users/bbugyi200/machines/athena/hoods/jo/README.md) / jo
+
 Owner: `bbugyi200.athena` · Hood: `jo` · Members: 2
 
 ## Lineage
@@ -15,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | jo--code | completed | gpt-5.6-sol / codex | 2026-07-24T21:15:19.613714+00:00 | 1 | — | [Chat](../agents/bbugyi200.athena.jo--code/chat.md) |
+| <a id="member-code"></a>code | jo--code | completed | gpt-5.6-sol / codex | 2026-07-24T21:15:19.613714+00:00 | [1](../agents/bbugyi200.athena.jo--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.jo--code/chat.md) |
 | <a id="member-plan"></a>plan | jo--plan | dismissed | opus / claude | 2026-07-24T17:00:43.341822 → 2026-07-24T18:18:33.743008 | 0 | — | [Chat](../agents/bbugyi200.athena.jo--plan/chat.md) |
+
+## Commits
+
+| Role | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| code | [`5a9a01f`](https://github.com/sase-org/sase/commit/5a9a01fe64ff0936cb1b20a368876ff6897aced4) | feat(ace): redesign AXE entry editor as property sheet | 2026-07-24 22:09:47 |

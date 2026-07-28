@@ -1,5 +1,7 @@
 # Agent: 03g
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [03g](../../users/bbugyi200/machines/athena/hoods/03g/README.md) / 03g
+
 **Global name:** `bbugyi200.athena.03g` · **State:** dismissed · **Source run:** `run-f5aa97e0ef46976032c6300d5a9b4e6c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 03g
@@ -9,4 +11,17 @@
 - Model: —
 - Provider: —
 - Timing: 2026-04-24T23:34:18+00:00 → 2026-04-24T23:34:18+00:00
-- Commits: 2
+- Commits: [2](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`959c680`](https://github.com/sase-org/sase/commit/959c68045ad3ac27f397e12b3c5eb576b8471992) | chore: Add SDD prompt and plan for expand\_xprompt\_with\_inputs | 2026-06-22 11:57:25 |
+| [`620ccda`](https://github.com/sase-org/sase/commit/620ccda1c20a256070eac1f53c411514a214598d) | feat(ace): inline expand xprompts with inputs | 2026-06-22 12:08:09 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [03g.f1](../bbugyi200.athena.03g.f1/README.md) | descendant | dismissed |

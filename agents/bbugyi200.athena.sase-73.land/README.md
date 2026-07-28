@@ -1,5 +1,7 @@
 # Agent: sase-73.land
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-73](../../users/bbugyi200/machines/athena/hoods/sase-73/README.md) / sase-73.land
+
 **Global name:** `bbugyi200.athena.sase-73.land` · **State:** active · **Source run:** `run-8dda9fbe5335781892749636a47add24`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-73
@@ -14,3 +16,11 @@
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-73.1](../bbugyi200.athena.sase-73.1/README.md) | sase-73 hood | active |
+| [sase-73.2](../bbugyi200.athena.sase-73.2/README.md) | sase-73 hood | active |
+| [sase-73.3](../bbugyi200.athena.sase-73.3/README.md) | sase-73 hood | active |

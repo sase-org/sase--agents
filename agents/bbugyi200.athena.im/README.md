@@ -1,5 +1,7 @@
 # Agent: im
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [im](../../users/bbugyi200/machines/athena/hoods/im/README.md) / im
+
 **Global name:** `bbugyi200.athena.im` · **State:** active · **Source run:** `run-868a99f1106d20bbb5ed06f63878d674`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** im
@@ -14,3 +16,10 @@
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [im.f0](../../families/bbugyi200.athena.im.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [im.f0](../bbugyi200.athena.im.f0/README.md) | descendant | completed |

@@ -1,5 +1,7 @@
 # Agent: 076
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [076](../../users/bbugyi200/machines/athena/hoods/076/README.md) / 076
+
 **Global name:** `bbugyi200.athena.076` · **State:** dismissed · **Source run:** `run-7550361c348bf23b19e7850fcaa6a4cb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 076
@@ -9,4 +11,11 @@
 - Model: —
 - Provider: —
 - Timing: 2101-04-28T08:54:18+00:00 → 2101-04-28T08:54:18+00:00
-- Commits: 2
+- Commits: [2](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`8442d08`](https://github.com/sase-org/sase/commit/8442d08e8b13082505d6f7b921f9a41a1228efa6) | chore: Add SDD prompt and plan for plugin\_uninstall | 2026-06-26 19:49:03 |
+| [`2834fe4`](https://github.com/sase-org/sase/commit/2834fe4158137388c8cd70b8c5258d9f3493d4a3) | feat(plugins): add \`sase plugin uninstall \<plugin\>\` | 2026-06-26 20:09:59 |

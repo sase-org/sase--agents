@@ -1,5 +1,7 @@
 # Agent: sase-52.4
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-52](../../users/bbugyi200/machines/athena/hoods/sase-52/README.md) / sase-52.4
+
 **Global name:** `bbugyi200.athena.sase-52.4` · **State:** completed · **Source run:** `run-09ced2465c12aaa7bd82071b5776f662`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-52
@@ -9,4 +11,22 @@
 - Model: —
 - Provider: —
 - Timing: —
-- Commits: 1
+- Commits: [1](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`57e9fd6`](https://github.com/sase-org/sase/commit/57e9fd6f35f9ef2f197d65ffe97a6dd422b426df) | feat(tui): highlight %{...} alt shorthand in ACE prompt input (sase-52.4) | 2026-06-20 19:37:49 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-52](../bbugyi200.athena.sase-52/README.md) | ancestor | completed |
+| [sase-52.1](../bbugyi200.athena.sase-52.1/README.md) | sase-52 hood | completed |
+| [sase-52.2](../bbugyi200.athena.sase-52.2/README.md) | sase-52 hood | completed |
+| [sase-52.3](../bbugyi200.athena.sase-52.3/README.md) | sase-52 hood | completed |
+| [sase-52.5](../bbugyi200.athena.sase-52.5/README.md) | sase-52 hood | completed |
+| [sase-52.6](../bbugyi200.athena.sase-52.6/README.md) | sase-52 hood | completed |
+| [sase-52.7](../bbugyi200.athena.sase-52.7/README.md) | sase-52 hood | completed |

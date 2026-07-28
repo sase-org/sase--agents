@@ -1,10 +1,10 @@
 # Agent: 7v--plan
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [7v](../../users/bbugyi200/machines/athena/hoods/7v/README.md) / [7v](../../families/bbugyi200.athena.7v.md) / 7v--plan
+
 **Global name:** `bbugyi200.athena.7v--plan` · **State:** active · **Source run:** `run-44fefc6b137eed7b1e5ae17aadaa81f8`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 7v
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.7v.md#member-plan).
 
 ## Summary
 

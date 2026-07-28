@@ -1,5 +1,7 @@
 # Family: g4
 
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [g4](../users/bbugyi200/machines/athena/hoods/g4/README.md) / g4
+
 Owner: `bbugyi200.athena` · Hood: `g4` · Members: 2
 
 ## Lineage

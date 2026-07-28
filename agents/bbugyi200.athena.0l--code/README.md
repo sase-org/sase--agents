@@ -1,10 +1,10 @@
 # Agent: 0l--code
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0l](../../users/bbugyi200/machines/athena/hoods/0l/README.md) / [0l](../../families/bbugyi200.athena.0l.md) / 0l--code
+
 **Global name:** `bbugyi200.athena.0l--code` · **State:** completed · **Source run:** `run-ec8fe2624422ca222a00695dd8906af2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0l
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.0l.md#member-code).
 
 ## Summary
 

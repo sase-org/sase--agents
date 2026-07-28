@@ -1,5 +1,7 @@
 # Agent: sase-9t.land
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-9t](../../users/bbugyi200/machines/athena/hoods/sase-9t/README.md) / sase-9t.land
+
 **Global name:** `bbugyi200.athena.sase-9t.land` · **State:** completed · **Source run:** `run-4418f65a7511489844673f133686a326`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-9t
@@ -9,4 +11,22 @@
 - Model: —
 - Provider: —
 - Timing: 2026-07-26T17:01:06+00:00 → 2026-07-26T17:01:06+00:00
-- Commits: 1
+- Commits: [1](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`20c131b`](https://github.com/sase-org/sase/commit/20c131b55788ae5d07ea32fcae66328c48e748ab) | build(deps): require sase-core-rs 0.10 (sase-9t) | 2026-07-26 17:01:06 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-9t.land.w0](../bbugyi200.athena.sase-9t.land.w0/README.md) | descendant | waiting |
+| [sase-9t.1](../bbugyi200.athena.sase-9t.1/README.md) | sase-9t hood | completed |
+| [sase-9t.2](../bbugyi200.athena.sase-9t.2/README.md) | sase-9t hood | completed |
+| [sase-9t.3](../bbugyi200.athena.sase-9t.3/README.md) | sase-9t hood | completed |
+| [sase-9t.4](../bbugyi200.athena.sase-9t.4/README.md) | sase-9t hood | completed |
+| [sase-9t.5](../bbugyi200.athena.sase-9t.5/README.md) | sase-9t hood | completed |
+| [sase-9t.6](../bbugyi200.athena.sase-9t.6/README.md) | sase-9t hood | completed |

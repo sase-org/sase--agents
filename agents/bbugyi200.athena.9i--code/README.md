@@ -1,10 +1,10 @@
 # Agent: 9i--code
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [9i](../../users/bbugyi200/machines/athena/hoods/9i/README.md) / [9i](../../families/bbugyi200.athena.9i.md) / 9i--code
+
 **Global name:** `bbugyi200.athena.9i--code` · **State:** completed · **Source run:** `run-54e3a31ed5698712355e2147dc7b81e4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 9i
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.9i.md#member-code).
 
 ## Summary
 
@@ -16,3 +16,10 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [9i.f0](../bbugyi200.athena.9i.f0/README.md) | descendant | waiting |
+| [9i.f1](../../families/bbugyi200.athena.9i.f1.md) (family · 2) | descendant | active 1, completed 1 |

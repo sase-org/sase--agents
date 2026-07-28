@@ -1,5 +1,7 @@
 # Agent: 15.cdx.f1.w1
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [15](../../users/bbugyi200/machines/athena/hoods/15/README.md) / 15.cdx.f1.w1
+
 **Global name:** `bbugyi200.athena.15.cdx.f1.w1` · **State:** dismissed · **Source run:** `run-9b31cb673d35f3860c7217108b2cdb99`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 15
@@ -9,4 +11,17 @@
 - Model: —
 - Provider: —
 - Timing: 2118-01-31T10:43:38+00:00 → 2118-01-31T10:43:38+00:00
-- Commits: 2
+- Commits: [2](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`a1a127e`](https://github.com/sase-org/sase/commit/a1a127ebe74bf2d9c7a304b2c175e98efc4e76c5) | chore: Add SDD prompt and plan for sibling\_project\_status | 2026-06-02 17:27:45 |
+| [`064cf1f`](https://github.com/sase-org/sase/commit/064cf1f43f295a9dbec0da1b43321299191d7dd4) | feat: support sibling project lifecycle | 2026-06-02 17:53:21 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [15.cdx.f1](../bbugyi200.athena.15.cdx.f1/README.md) | ancestor | dismissed |

@@ -1,5 +1,7 @@
 # Agent: 04c
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [04c](../../users/bbugyi200/machines/athena/hoods/04c/README.md) / 04c
+
 **Global name:** `bbugyi200.athena.04c` · **State:** dismissed · **Source run:** `run-b61f9dfe7bc4d31295d8233665364098`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 04c
@@ -9,4 +11,10 @@
 - Model: —
 - Provider: —
 - Timing: 2067-05-18T03:19:58+00:00 → 2067-05-18T03:19:58+00:00
-- Commits: 1
+- Commits: [1](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`dcf015e`](https://github.com/sase-org/sase/commit/dcf015e022e1a4744c64ee606697dcebf60efc05) | ci: add publish workflow concurrency | 2026-06-23 14:30:30 |

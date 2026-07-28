@@ -1,5 +1,7 @@
 # Agent: 00.w1.w1.w1.f1
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [00](../../users/bbugyi200/machines/athena/hoods/00/README.md) / 00.w1.w1.w1.f1
+
 **Global name:** `bbugyi200.athena.00.w1.w1.w1.f1` · **State:** dismissed · **Source run:** `run-7fcd37ef7b2e452766a8d6abed9bbf20`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 00
@@ -9,4 +11,24 @@
 - Model: —
 - Provider: —
 - Timing: 2005-09-26T23:43:24+00:00 → 2005-09-26T23:43:24+00:00
-- Commits: 2
+- Commits: [2](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`f99d984`](https://github.com/sase-org/sase/commit/f99d984777908e03c3f83910a5bab5f3cd0cbd54) | chore: Add SDD prompt and plan for config\_edit\_modal\_large\_value\_overflow | 2026-07-05 10:36:18 |
+| [`46f5f4c`](https://github.com/sase-org/sase/commit/46f5f4c05fe17392d98b64d1bb4bce4bf071021c) | fix(tui): cap config edit modal value previews | 2026-07-05 11:06:30 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [00.w1.w1.w1](../bbugyi200.athena.00.w1.w1.w1/README.md) | ancestor | dismissed |
+| [00.w1.w1](../bbugyi200.athena.00.w1.w1/README.md) | ancestor | dismissed |
+| [00.w1](../bbugyi200.athena.00.w1/README.md) | ancestor | dismissed |
+| [00](../../families/bbugyi200.athena.00.md) (family · 2) | ancestor | active 1, completed 1 |
+| [00.w1.r1](../bbugyi200.athena.00.w1.r1/README.md) | 00.w1 hood | dismissed |
+| [00.w1.r1.w1](../bbugyi200.athena.00.w1.r1.w1/README.md) | 00.w1 hood | dismissed |
+| [00.w1.r1.w1.f1](../bbugyi200.athena.00.w1.r1.w1.f1/README.md) | 00.w1 hood | dismissed |
+| [00.f1](../bbugyi200.athena.00.f1/README.md) | 00 hood | dismissed |

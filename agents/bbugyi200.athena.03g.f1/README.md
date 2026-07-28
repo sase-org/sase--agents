@@ -1,5 +1,7 @@
 # Agent: 03g.f1
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [03g](../../users/bbugyi200/machines/athena/hoods/03g/README.md) / 03g.f1
+
 **Global name:** `bbugyi200.athena.03g.f1` · **State:** dismissed · **Source run:** `run-ffc15356ca4c6e26839038acd922da71`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 03g
@@ -9,4 +11,17 @@
 - Model: —
 - Provider: —
 - Timing: 2086-03-03T03:45:15+00:00 → 2086-03-03T03:45:15+00:00
-- Commits: 2
+- Commits: [2](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`e5815bb`](https://github.com/sase-org/sase/commit/e5815bb9c2588e0c13467f89438869eb5e25e92d) | chore: Add SDD prompt and plan for undo\_xprompt\_staged\_inputs | 2026-06-22 12:29:09 |
+| [`9d0c55c`](https://github.com/sase-org/sase/commit/9d0c55cda44c2c73a62cfba41947a4640bbf4121) | fix(ace): couple xprompt inline-expansion staged inputs to body undo/redo | 2026-06-22 12:51:20 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [03g](../bbugyi200.athena.03g/README.md) | ancestor | dismissed |

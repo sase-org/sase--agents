@@ -1,5 +1,7 @@
 # Agent: bhl.cdx
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bhl](../../users/bbugyi200/machines/athena/hoods/bhl/README.md) / bhl.cdx
+
 **Global name:** `bbugyi200.athena.bhl.cdx` · **State:** completed · **Source run:** `run-c869005dc0fc5ef4c35ec4d2da314912`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** bhl
@@ -9,4 +11,10 @@
 - Model: —
 - Provider: —
 - Timing: —
-- Commits: 1
+- Commits: [1](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`ffe67b3`](https://github.com/sase-org/sase/commit/ffe67b30a7a1cbb67a46baaddb27750a4937af17) | chore: Add SDD prompt and plan for chop\_open\_changespec\_guard | 2026-05-26 22:34:50 |

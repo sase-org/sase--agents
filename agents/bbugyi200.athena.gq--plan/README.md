@@ -1,10 +1,10 @@
 # Agent: gq--plan
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [gq](../../users/bbugyi200/machines/athena/hoods/gq/README.md) / [gq](../../families/bbugyi200.athena.gq.md) / gq--plan
+
 **Global name:** `bbugyi200.athena.gq--plan` · **State:** active · **Source run:** `run-967d4b2b83b94eb8248e2ce010fcfab1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** gq
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.gq.md#member-plan).
 
 ## Summary
 

@@ -1,10 +1,10 @@
 # Agent: jb--plan
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [jb](../../users/bbugyi200/machines/athena/hoods/jb/README.md) / [jb](../../families/bbugyi200.athena.jb.md) / jb--plan
+
 **Global name:** `bbugyi200.athena.jb--plan` · **State:** active · **Source run:** `run-052d9c631bc2e696d049bceec4ea48ce`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** jb
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.jb.md#member-plan).
 
 ## Summary
 
@@ -16,3 +16,9 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [jb.f0](../bbugyi200.athena.jb.f0/README.md) | descendant | waiting |

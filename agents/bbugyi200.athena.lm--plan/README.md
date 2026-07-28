@@ -1,10 +1,10 @@
 # Agent: lm--plan
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [lm](../../users/bbugyi200/machines/athena/hoods/lm/README.md) / [lm](../../families/bbugyi200.athena.lm.md) / lm--plan
+
 **Global name:** `bbugyi200.athena.lm--plan` · **State:** completed · **Source run:** `run-21bd8af4cc09026a24c575f56b7fc1b1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** lm
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.lm.md#member-plan).
 
 ## Summary
 
@@ -16,3 +16,10 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [lm.w0](../bbugyi200.athena.lm.w0/README.md) | descendant | dismissed |
+| [lm.w1](../bbugyi200.athena.lm.w1/README.md) | descendant | dismissed |

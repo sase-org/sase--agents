@@ -1,10 +1,10 @@
 # Agent: sase-6f--code
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-6f](../../users/bbugyi200/machines/athena/hoods/sase-6f/README.md) / [sase-6f](../../families/bbugyi200.athena.sase-6f.md) / sase-6f--code
+
 **Global name:** `bbugyi200.athena.sase-6f--code` · **State:** completed · **Source run:** `run-7249e81e5f861a078fced9d396f67034`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-6f
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.sase-6f.md#member-code).
 
 ## Summary
 
@@ -16,3 +16,12 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-6f.1](../bbugyi200.athena.sase-6f.1/README.md) | descendant | active |
+| [sase-6f.2](../bbugyi200.athena.sase-6f.2/README.md) | descendant | active |
+| [sase-6f.3](../bbugyi200.athena.sase-6f.3/README.md) | descendant | active |
+| [sase-6f.4](../bbugyi200.athena.sase-6f.4/README.md) | descendant | active |

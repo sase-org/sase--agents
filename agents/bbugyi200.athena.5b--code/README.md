@@ -1,10 +1,10 @@
 # Agent: 5b--code
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [5b](../../users/bbugyi200/machines/athena/hoods/5b/README.md) / [5b](../../families/bbugyi200.athena.5b.md) / 5b--code
+
 **Global name:** `bbugyi200.athena.5b--code` · **State:** completed · **Source run:** `run-5f53150b5a4866affcc30e857569419e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 5b
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.5b.md#member-code).
 
 ## Summary
 
@@ -16,3 +16,10 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [5b.f-0](../../families/bbugyi200.athena.5b.f-0.md) (family · 2) | descendant | active 1, completed 1 |
+| [5b.f-0.w-0](../../families/bbugyi200.athena.5b.f-0.w-0.md) (family · 2) | descendant | active 1, completed 1 |

@@ -1,5 +1,7 @@
 # Agent: sase-8z.1
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-8z](../../users/bbugyi200/machines/athena/hoods/sase-8z/README.md) / sase-8z.1
+
 **Global name:** `bbugyi200.athena.sase-8z.1` · **State:** completed · **Source run:** `run-a8ccdd7093707d1afdda906003739314`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-8z
@@ -9,8 +11,22 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-24T20:43:11.167499+00:00
-- Commits: 1
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`4457a87`](https://github.com/sase-org/sase/commit/4457a87c4290fa08751ac6e9c161b87fce2f3831) | feat: preserve effort through model aliases and overrides (sase-8z.1) | 2026-07-24 21:10:51 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-8z.2](../bbugyi200.athena.sase-8z.2/README.md) | sase-8z hood | completed |
+| [sase-8z.3](../bbugyi200.athena.sase-8z.3/README.md) | sase-8z hood | completed |
+| [sase-8z.land](../bbugyi200.athena.sase-8z.land/README.md) | sase-8z hood | completed |

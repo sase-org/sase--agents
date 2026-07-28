@@ -1,10 +1,10 @@
 # Agent: cx--code
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [cx](../../users/bbugyi200/machines/athena/hoods/cx/README.md) / [cx](../../families/bbugyi200.athena.cx.md) / cx--code
+
 **Global name:** `bbugyi200.athena.cx--code` · **State:** completed · **Source run:** `run-1539147d5dfc466a04d6c2c416a1b5c8`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** cx
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.cx.md#member-code).
 
 ## Summary
 
@@ -16,3 +16,14 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [cx.f0](../../families/bbugyi200.athena.cx.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [cx.f0](../bbugyi200.athena.cx.f0/README.md) | descendant | completed |
+| [cx.w0.w0](../bbugyi200.athena.cx.w0.w0/README.md) | descendant | active |
+| [cx.w0.w1.w0](../bbugyi200.athena.cx.w0.w1.w0/README.md) | descendant | active |
+| [cx.w0.w2](../bbugyi200.athena.cx.w0.w2/README.md) | descendant | active |
+| [cx.w1](../../families/bbugyi200.athena.cx.w1.md) (family · 2) | descendant | active 2 |

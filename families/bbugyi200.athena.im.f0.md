@@ -1,5 +1,7 @@
 # Family: im.f0
 
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [im](../users/bbugyi200/machines/athena/hoods/im/README.md) / im.f0
+
 Owner: `bbugyi200.athena` · Hood: `im` · Members: 2
 
 ## Lineage
@@ -15,5 +17,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | im.f0--code | completed | gpt-5.6-sol / codex | 2026-07-22T18:37:35.745207+00:00 | 1 | — | [Chat](../agents/bbugyi200.athena.im.f0--code/chat.md) |
+| <a id="member-code"></a>code | im.f0--code | completed | gpt-5.6-sol / codex | 2026-07-22T18:37:35.745207+00:00 | [1](../agents/bbugyi200.athena.im.f0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.im.f0--code/chat.md) |
 | <a id="member-plan"></a>plan | im.f0--plan | active | gpt-5.6-sol / codex | 2026-07-22T18:25:28.706053+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.im.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.im.f0--plan/chat.md) |
+
+## Commits
+
+| Role | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| code | [`5fb55a5`](https://github.com/sase-org/sase/commit/5fb55a5a98e91fbc807d3e008f3af55d3d3863a1) | fix: recover interrupted agent families during forced reuse | 2026-07-22 19:03:36 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [im](../agents/bbugyi200.athena.im/README.md) | ancestor | active |

@@ -1,5 +1,7 @@
 # Agent: sase-8d.land
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-8d](../../users/bbugyi200/machines/athena/hoods/sase-8d/README.md) / sase-8d.land
+
 **Global name:** `bbugyi200.athena.sase-8d.land` · **State:** completed · **Source run:** `run-d8f16bef737d44145408d43747978709`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-8d
@@ -9,4 +11,20 @@
 - Model: —
 - Provider: —
 - Timing: —
-- Commits: 1
+- Commits: [1](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`fc1c918`](https://github.com/sase-org/sase/commit/fc1c91844a8e4b1c0ad311c98d29f9c3beb61ecc) | fix(sdd): preserve plan path basenames when wrapping (sase-8d) | 2026-07-20 21:27:15 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-8d.1](../../families/bbugyi200.athena.sase-8d.1.md) (family · 1) | sase-8d hood | active 1 |
+| [sase-8d.2](../../families/bbugyi200.athena.sase-8d.2.md) (family · 2) | sase-8d hood | active 1, completed 1 |
+| [sase-8d.2](../bbugyi200.athena.sase-8d.2/README.md) | sase-8d hood | completed |
+| [sase-8d.3](../../families/bbugyi200.athena.sase-8d.3.md) (family · 2) | sase-8d hood | active 1, completed 1 |
+| [sase-8d.3](../bbugyi200.athena.sase-8d.3/README.md) | sase-8d hood | completed |

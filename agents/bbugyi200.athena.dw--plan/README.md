@@ -1,10 +1,10 @@
 # Agent: dw--plan
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [dw](../../users/bbugyi200/machines/athena/hoods/dw/README.md) / [dw](../../families/bbugyi200.athena.dw.md) / dw--plan
+
 **Global name:** `bbugyi200.athena.dw--plan` · **State:** active · **Source run:** `run-46915e51c70ae2ff6a373729454009ff`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** dw
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.dw.md#member-plan).
 
 ## Summary
 

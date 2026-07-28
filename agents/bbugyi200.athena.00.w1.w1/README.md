@@ -1,5 +1,7 @@
 # Agent: 00.w1.w1
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [00](../../users/bbugyi200/machines/athena/hoods/00/README.md) / 00.w1.w1
+
 **Global name:** `bbugyi200.athena.00.w1.w1` · **State:** dismissed · **Source run:** `run-ca92f4c075dbe412fd09c2e5280fbd1c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 00
@@ -9,4 +11,24 @@
 - Model: —
 - Provider: —
 - Timing: 2134-12-31T09:56:44+00:00 → 2134-12-31T09:56:44+00:00
-- Commits: 2
+- Commits: [2](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`8abfb41`](https://github.com/sase-org/sase/commit/8abfb4139aada9f67810e5bbc948a54b753d5765) | chore: Add SDD prompt and plan for install\_mode\_switch | 2026-07-04 11:42:32 |
+| [`5131ec8`](https://github.com/sase-org/sase/commit/5131ec849b03b3a00232d1ea5c4e04edc56ad0ab) | feat(update): add install mode switching | 2026-07-04 16:37:06 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [00.w1](../bbugyi200.athena.00.w1/README.md) | ancestor | dismissed |
+| [00](../../families/bbugyi200.athena.00.md) (family · 2) | ancestor | active 1, completed 1 |
+| [00.w1.w1.w1](../bbugyi200.athena.00.w1.w1.w1/README.md) | descendant | dismissed |
+| [00.w1.w1.w1.f1](../bbugyi200.athena.00.w1.w1.w1.f1/README.md) | descendant | dismissed |
+| [00.w1.r1](../bbugyi200.athena.00.w1.r1/README.md) | 00.w1 hood | dismissed |
+| [00.w1.r1.w1](../bbugyi200.athena.00.w1.r1.w1/README.md) | 00.w1 hood | dismissed |
+| [00.w1.r1.w1.f1](../bbugyi200.athena.00.w1.r1.w1.f1/README.md) | 00.w1 hood | dismissed |
+| [00.f1](../bbugyi200.athena.00.f1/README.md) | 00 hood | dismissed |

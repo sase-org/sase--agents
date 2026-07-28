@@ -1,5 +1,7 @@
 # Family: j7
 
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [j7](../users/bbugyi200/machines/athena/hoods/j7/README.md) / j7
+
 Owner: `bbugyi200.athena` · Hood: `j7` · Members: 2
 
 ## Lineage
@@ -16,4 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | j7--plan | active | opus / claude | 2026-07-23T15:48:10.579290+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.j7--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.j7--plan/chat.md) |
-| <a id="member-code"></a>code | j7--code | completed | gpt-5.6-sol / codex | 2026-07-23T16:03:04.813827+00:00 | 1 | — | [Chat](../agents/bbugyi200.athena.j7--code/chat.md) |
+| <a id="member-code"></a>code | j7--code | completed | gpt-5.6-sol / codex | 2026-07-23T16:03:04.813827+00:00 | [1](../agents/bbugyi200.athena.j7--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.j7--code/chat.md) |
+
+## Commits
+
+| Role | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| code | [`485e562`](https://github.com/sase-org/sase/commit/485e5624ef9630119bd3e4fa2a11c0d1f51d743e) | fix(bead)!: confirm destructive forced-reuse cleanup | 2026-07-23 16:22:01 |

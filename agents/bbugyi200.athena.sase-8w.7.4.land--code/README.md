@@ -1,10 +1,10 @@
 # Agent: sase-8w.7.4.land--code
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-8w](../../users/bbugyi200/machines/athena/hoods/sase-8w/README.md) / [sase-8w.7.4.land](../../families/bbugyi200.athena.sase-8w.7.4.land.md) / sase-8w.7.4.land--code
+
 **Global name:** `bbugyi200.athena.sase-8w.7.4.land--code` · **State:** completed · **Source run:** `run-6652e6011894b892e1e386a94d2a30a1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-8w
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.sase-8w.7.4.land.md#member-code).
 
 ## Summary
 
@@ -16,3 +16,21 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-8w.7.4.1](../bbugyi200.athena.sase-8w.7.4.1/README.md) | sase-8w.7.4 hood | active |
+| [sase-8w.7.4.2](../bbugyi200.athena.sase-8w.7.4.2/README.md) | sase-8w.7.4 hood | active |
+| [sase-8w.7.1](../bbugyi200.athena.sase-8w.7.1/README.md) | sase-8w.7 hood | active |
+| [sase-8w.7.2](../bbugyi200.athena.sase-8w.7.2/README.md) | sase-8w.7 hood | active |
+| [sase-8w.7.3](../bbugyi200.athena.sase-8w.7.3/README.md) | sase-8w.7 hood | active |
+| [sase-8w.7.land](../bbugyi200.athena.sase-8w.7.land/README.md) | sase-8w.7 hood | active |
+| [sase-8w.1](../bbugyi200.athena.sase-8w.1/README.md) | sase-8w hood | active |
+| [sase-8w.2](../bbugyi200.athena.sase-8w.2/README.md) | sase-8w hood | active |
+| [sase-8w.3](../bbugyi200.athena.sase-8w.3/README.md) | sase-8w hood | active |
+| [sase-8w.4](../bbugyi200.athena.sase-8w.4/README.md) | sase-8w hood | active |
+| [sase-8w.5](../bbugyi200.athena.sase-8w.5/README.md) | sase-8w hood | active |
+| [sase-8w.6](../bbugyi200.athena.sase-8w.6/README.md) | sase-8w hood | active |
+| [sase-8w.land](../bbugyi200.athena.sase-8w.land/README.md) | sase-8w hood | active |
