@@ -8,4 +8,4 @@
 |---|---|---|---|---:|---|
 | [ft](../../../../../../agents/bbugyi200.athena.ft/README.md) | completed | — | 2026-07-20T12:21:10+00:00 → 2026-07-20T12:21:10+00:00 | 1 | — |
 | [ft--code](../../../../../../families/bbugyi200.athena.ft.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-20T11:56:07.431823+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.ft--code/chat.md) |
-| [ft--plan](../../../../../../families/bbugyi200.athena.ft.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-20T11:46:11.591530+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.ft--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.ft--plan/chat.md) |
+| [ft--plan](../../../../../../families/bbugyi200.athena.ft.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-20T11:46:11.591530+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.ft--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.ft--plan/prompt.md) |
