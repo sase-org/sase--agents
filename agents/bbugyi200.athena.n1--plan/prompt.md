@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start showing the a phase bead's title in the `BEAD` subsection of the `SASE CONTEXT` section in the agent metadata panel? It looks like we currently include the epic title as well as the phase description but not the phase title (see #sshot:2). #beau #plan #m_opus
