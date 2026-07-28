@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase For some reason if the `#` symbol is typed directly before a period then we don't trigger xprompt completion in the prompt input widget (see #sshot). Can you help me fix this? #plan #m_opus

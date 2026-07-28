@@ -1,0 +1,24 @@
+# Agent: toobig-0q.split\_file.tests.test\_sdd.0
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-0q](../../users/bbugyi200/machines/athena/hoods/toobig-0q/README.md) / toobig-0q.split\_file.tests.test\_sdd.0
+
+**Global name:** `bbugyi200.athena.toobig-0q.split_file.tests.test_sdd.0` · **State:** dismissed · **Source run:** `run-a606e86cb270660eb4736d76cb66902c`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-0q
+
+## Summary
+
+- Model: gpt-5.6-sol
+- Provider: codex
+- Timing: 2026-07-28T11:56:38.182223 → 2026-07-28T12:16:14.511944
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`9967ded`](https://github.com/sase-org/sase/commit/9967ded24a46b40e12ed763e8eb2ea27555c7a23) | test: split SDD tests by behavior | 2026-07-28 16:15:47 |

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1785255426,"sha":"ad3c75151077382cc7f77fe67556b77bb875aadb","subject":"fix(xprompt): preserve trailing punctuation in completion"}],"schema_version":2,"source_run_id":"run-ab43778530fe1dd698535b8efb8ce745"}
