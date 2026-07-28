@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4c0c30e738b95a4f760cb4f8361c69d0"}
+{"commits":[{"committed_at":1785273824,"sha":"21e75272f628e4ce84bfe55453f2cb5fe55950e4","subject":"feat: add snapshot-driven tribe wait binding resolver"}],"schema_version":2,"source_run_id":"run-4c0c30e738b95a4f760cb4f8361c69d0"}

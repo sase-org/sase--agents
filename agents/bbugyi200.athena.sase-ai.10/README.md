@@ -11,11 +11,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-28T21:07:37.025255+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`ee2bb5e`](https://github.com/sase-org/sase/commit/ee2bb5eee4d0ca76c5cd1d5087abae5269a0b3e3) | perf(bead-pages): precompute refresh relationship details | 2026-07-28 21:41:49 |
 
 ## Neighbors
 
