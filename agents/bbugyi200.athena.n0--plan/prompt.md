@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I'm pretty sure that when we set SASE variables currently the value must be a single word containing no spaces or new lines. Can you help me change this by adding support for spaces and new lines in SASE variable values? #plan #m_opus
