@@ -11,19 +11,25 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-28T13:50:55.733313+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`8b2baa8`](https://github.com/sase-org/sase/commit/8b2baa881e24ab30dadfe527da1bba514a99d817) | feat(sdd): add typed plan header block adapter (sase-ag.1) | 2026-07-28 14:33:32 |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ag.2](../bbugyi200.athena.sase-ag.2/README.md) | sase-ag hood | completed |
-| [sase-ag.3](../bbugyi200.athena.sase-ag.3/README.md) | sase-ag hood | active |
-| [sase-ag.4](../bbugyi200.athena.sase-ag.4/README.md) | sase-ag hood | waiting |
+| [sase-ag.3](../bbugyi200.athena.sase-ag.3/README.md) | sase-ag hood | completed |
+| [sase-ag.4](../bbugyi200.athena.sase-ag.4/README.md) | sase-ag hood | active |
 | [sase-ag.5](../bbugyi200.athena.sase-ag.5/README.md) | sase-ag hood | waiting |
 | [sase-ag.6](../bbugyi200.athena.sase-ag.6/README.md) | sase-ag hood | waiting |
 | [sase-ag.land](../bbugyi200.athena.sase-ag.land/README.md) | sase-ag hood | waiting |

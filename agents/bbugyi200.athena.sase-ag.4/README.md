@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ag](../../users/bbugyi200/machines/athena/hoods/sase-ag/README.md) / sase-ag.4
 
-**Global name:** `bbugyi200.athena.sase-ag.4` · **State:** waiting · **Source run:** `run-0260eb0dd658c1b6b3574b32f5fad2b7`
+**Global name:** `bbugyi200.athena.sase-ag.4` · **State:** active · **Source run:** `run-0260eb0dd658c1b6b3574b32f5fad2b7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ag
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260728095046
-- Commits: 0
+- Timing: 2026-07-28T14:43:22.833007+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`9701511`](https://github.com/sase-org/sase/commit/97015111b388e663506d996a2d9c6a7511af0eda) | feat(sdd)!: write plan provenance headers (sase-ag.4) | 2026-07-28 15:36:40 |
 
 ## Neighbors
 
@@ -23,7 +29,7 @@
 |---|---|---|
 | [sase-ag.1](../bbugyi200.athena.sase-ag.1/README.md) | sase-ag hood | completed |
 | [sase-ag.2](../bbugyi200.athena.sase-ag.2/README.md) | sase-ag hood | completed |
-| [sase-ag.3](../bbugyi200.athena.sase-ag.3/README.md) | sase-ag hood | active |
+| [sase-ag.3](../bbugyi200.athena.sase-ag.3/README.md) | sase-ag hood | completed |
 | [sase-ag.5](../bbugyi200.athena.sase-ag.5/README.md) | sase-ag hood | waiting |
 | [sase-ag.6](../bbugyi200.athena.sase-ag.6/README.md) | sase-ag hood | waiting |
 | [sase-ag.land](../bbugyi200.athena.sase-ag.land/README.md) | sase-ag hood | waiting |
