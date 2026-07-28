@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-af.land](../bbugyi200.athena.sase-af.land/README.md) | ancestor | waiting |
+| [sase-af.land](../bbugyi200.athena.sase-af.land/README.md) | ancestor | active |
 | [sase-af.1](../bbugyi200.athena.sase-af.1/README.md) | sase-af hood | completed |
-| [sase-af.2](../bbugyi200.athena.sase-af.2/README.md) | sase-af hood | active |
-| [sase-af.3](../bbugyi200.athena.sase-af.3/README.md) | sase-af hood | waiting |
+| [sase-af.2](../bbugyi200.athena.sase-af.2/README.md) | sase-af hood | completed |
+| [sase-af.3](../bbugyi200.athena.sase-af.3/README.md) | sase-af hood | completed |
