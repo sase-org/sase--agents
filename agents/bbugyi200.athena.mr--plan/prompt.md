@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me remove all folding of the `AGENT XPROMPT`, `AGENT PROMPT`, and `AGENT REPLY` metadata panel sections for agents and agent families? Agents / agent families should have pretty minimal folding. #plan
