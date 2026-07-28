@@ -11,7 +11,13 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-28T12:01:58.345383+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`e73040a`](https://github.com/sase-org/sase/commit/e73040accf00f09ec3d7a0dbc6657114aa159805) | feat(ace): add foldable slow tool call details | 2026-07-28 13:00:18 |
 
 ## Neighbors
 

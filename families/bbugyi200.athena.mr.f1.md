@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | mr.f1--code | active | gpt-5.6-sol / codex | 2026-07-28T12:01:58.345383+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | mr.f1--code | active | gpt-5.6-sol / codex | 2026-07-28T12:01:58.345383+00:00 | [1](../agents/bbugyi200.athena.mr.f1--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | mr.f1--plan | active | opus / claude | 2026-07-28T11:44:35.721146+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.mr.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.mr.f1--plan/chat.md) |
+
+## Commits
+
+| Role | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| code | [`e73040a`](https://github.com/sase-org/sase/commit/e73040accf00f09ec3d7a0dbc6657114aa159805) | feat(ace): add foldable slow tool call details | 2026-07-28 13:00:18 |
 
 ## Neighbors
 

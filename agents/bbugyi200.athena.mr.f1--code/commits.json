@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-07f58cd549f65f91e9cd2edbc9765e8b"}
+{"commits":[{"committed_at":1785243618,"sha":"e73040accf00f09ec3d7a0dbc6657114aa159805","subject":"feat(ace): add foldable slow tool call details"}],"schema_version":2,"source_run_id":"run-07f58cd549f65f91e9cd2edbc9765e8b"}
