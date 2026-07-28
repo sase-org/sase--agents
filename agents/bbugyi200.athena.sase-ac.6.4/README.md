@@ -11,11 +11,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-28T13:16:23.616207+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`02eee83`](https://github.com/sase-org/sase/commit/02eee837542948dba30c2327120de3a9c8e6fb3d) | fix: invalidate xprompt identity on project mutations (sase-ac.6.4) | 2026-07-28 13:47:00 |
 
 ## Neighbors
 
@@ -23,7 +29,7 @@
 |---|---|---|
 | [sase-ac.6.1](../bbugyi200.athena.sase-ac.6.1/README.md) | sase-ac.6 hood | active |
 | [sase-ac.6.2](../bbugyi200.athena.sase-ac.6.2/README.md) | sase-ac.6 hood | completed |
-| [sase-ac.6.3](../bbugyi200.athena.sase-ac.6.3/README.md) | sase-ac.6 hood | active |
+| [sase-ac.6.3](../bbugyi200.athena.sase-ac.6.3/README.md) | sase-ac.6 hood | completed |
 | [sase-ac.6.5](../bbugyi200.athena.sase-ac.6.5/README.md) | sase-ac.6 hood | waiting |
 | [sase-ac.6.land](../bbugyi200.athena.sase-ac.6.land/README.md) | sase-ac.6 hood | waiting |
 | [sase-ac.1](../bbugyi200.athena.sase-ac.1/README.md) | sase-ac hood | completed |
