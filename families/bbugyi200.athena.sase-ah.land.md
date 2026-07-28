@@ -18,13 +18,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-ah.land--plan | active | gpt-5.6-sol / codex | 2026-07-28T19:52:05.148096+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ah.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ah.land--plan/chat.md) |
-| <a id="member-code"></a>code | sase-ah.land--code | active | gpt-5.6-sol / codex | 2026-07-28T20:01:39.144268+00:00 | [1](../agents/bbugyi200.athena.sase-ah.land--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | sase-ah.land--code | active | gpt-5.6-sol / codex | 2026-07-28T20:01:39.144268+00:00 | [2](../agents/bbugyi200.athena.sase-ah.land--code/README.md#commits) | — | — |
 
 ## Commits
 
 | Role | Commit | Subject | Committed (UTC) |
 |---|---|---|---|
 | code | [`8d34bc9`](https://github.com/sase-org/sase/commit/8d34bc9ae0f093f4170229cf78a7dafe8007a26f) | test: keep suite gate socket paths below Linux limits | 2026-07-28 20:38:40 |
+| code | [`7ba8b1c`](https://github.com/sase-org/sase/commit/7ba8b1ceab7d6652e011ac4461c1745e69f91997) | test: preserve suite-gate holder status at timeout | 2026-07-28 21:01:02 |
 
 ## Neighbors
 
