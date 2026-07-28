@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-28T18:38:43.548377+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`4f2694c`](https://github.com/sase-org/sase/commit/4f2694c9211b289b0dc8f48622fd3334975a2675) | feat: add linked bead commit footer tags (sase-ai.2) | 2026-07-28 19:03:58 |
 
 ## Neighbors
 
@@ -26,7 +32,7 @@
 | [sase-ai.3](../bbugyi200.athena.sase-ai.3/README.md) | sase-ai hood | active |
 | [sase-ai.4](../bbugyi200.athena.sase-ai.4/README.md) | sase-ai hood | waiting |
 | [sase-ai.5](../bbugyi200.athena.sase-ai.5/README.md) | sase-ai hood | waiting |
-| [sase-ai.6](../bbugyi200.athena.sase-ai.6/README.md) | sase-ai hood | active |
+| [sase-ai.6](../bbugyi200.athena.sase-ai.6/README.md) | sase-ai hood | completed |
 | [sase-ai.7](../bbugyi200.athena.sase-ai.7/README.md) | sase-ai hood | waiting |
 | [sase-ai.8](../bbugyi200.athena.sase-ai.8/README.md) | sase-ai hood | active |
 | [sase-ai.9](../bbugyi200.athena.sase-ai.9/README.md) | sase-ai hood | waiting |
