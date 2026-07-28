@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ag](../../users/bbugyi200/machines/athena/hoods/sase-ag/README.md) / sase-ag.6
 
-**Global name:** `bbugyi200.athena.sase-ag.6` · **State:** waiting · **Source run:** `run-393f7b0c1985ba9e0775fe500d883142`
+**Global name:** `bbugyi200.athena.sase-ag.6` · **State:** active · **Source run:** `run-393f7b0c1985ba9e0775fe500d883142`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ag
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260728095048
-- Commits: 0
+- Timing: 2026-07-28T16:27:47.104382+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`5c74052`](https://github.com/sase-org/sase/commit/5c74052a6728503ee4bd1a42b8b4be58e72f5318) | feat(plan): surface plan header block in viewers and docs (sase-ag.6) | 2026-07-28 16:53:07 |
 
 ## Neighbors
 
@@ -25,5 +31,7 @@
 | [sase-ag.2](../bbugyi200.athena.sase-ag.2/README.md) | sase-ag hood | completed |
 | [sase-ag.3](../bbugyi200.athena.sase-ag.3/README.md) | sase-ag hood | completed |
 | [sase-ag.4](../bbugyi200.athena.sase-ag.4/README.md) | sase-ag hood | completed |
-| [sase-ag.5](../bbugyi200.athena.sase-ag.5/README.md) | sase-ag hood | active |
+| [sase-ag.5](../bbugyi200.athena.sase-ag.5/README.md) | sase-ag hood | completed |
 | [sase-ag.land](../bbugyi200.athena.sase-ag.land/README.md) | sase-ag hood | waiting |
+| [sase-ag.land.w0](../bbugyi200.athena.sase-ag.land.w0/README.md) | sase-ag hood | dismissed |
+| [sase-ag.land.w1](../bbugyi200.athena.sase-ag.land.w1/README.md) | sase-ag hood | waiting |
