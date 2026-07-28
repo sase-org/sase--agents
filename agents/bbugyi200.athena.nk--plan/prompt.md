@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I thought we got rid of this use for `WAITING` in favor of the new `QUEUED` status, right? See #sshot for context. Can you help me fix this so we always use `QUEUED` when agents are waiting because of the configured maximum allowed number of running agents? #plan #m_opus
