@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-aj.3--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_aj_3__plan-260728_162236.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_aj_3__code-260728_162236.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/single_commit_epic_launch.md
 
 
