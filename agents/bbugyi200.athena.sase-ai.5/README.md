@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ai](../../users/bbugyi200/machines/athena/hoods/sase-ai/README.md) / sase-ai.5
 
-**Global name:** `bbugyi200.athena.sase-ai.5` · **State:** active · **Source run:** `run-9bc9adb236948701139b48d289871e03`
+**Global name:** `bbugyi200.athena.sase-ai.5` · **State:** completed · **Source run:** `run-9bc9adb236948701139b48d289871e03`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ai
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -33,7 +33,7 @@
 | [sase-ai.3](../bbugyi200.athena.sase-ai.3/README.md) | sase-ai hood | completed |
 | [sase-ai.4](../bbugyi200.athena.sase-ai.4/README.md) | sase-ai hood | completed |
 | [sase-ai.6](../bbugyi200.athena.sase-ai.6/README.md) | sase-ai hood | completed |
-| [sase-ai.7](../bbugyi200.athena.sase-ai.7/README.md) | sase-ai hood | waiting |
+| [sase-ai.7](../bbugyi200.athena.sase-ai.7/README.md) | sase-ai hood | active |
 | [sase-ai.8](../bbugyi200.athena.sase-ai.8/README.md) | sase-ai hood | completed |
 | [sase-ai.9](../bbugyi200.athena.sase-ai.9/README.md) | sase-ai hood | waiting |
 | [sase-ai.land](../bbugyi200.athena.sase-ai.land/README.md) | sase-ai hood | waiting |
