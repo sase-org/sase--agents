@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ab](../../users/bbugyi200/machines/athena/hoods/sase-ab/README.md) / sase-ab.3
 
-**Global name:** `bbugyi200.athena.sase-ab.3` · **State:** waiting · **Source run:** `run-fa9b22bc843aec482d0e3e3790f5a9a8`
+**Global name:** `bbugyi200.athena.sase-ab.3` · **State:** active · **Source run:** `run-fa9b22bc843aec482d0e3e3790f5a9a8`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ab
 
@@ -10,19 +10,25 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260728073923
-- Commits: 0
+- Timing: 2026-07-28T12:01:05.454331+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`ac12273`](https://github.com/sase-org/sase/commit/ac12273f547df64aee8b59ab951ada5e440750da) | fix(ace): resolve plans roots through SDD store (sase-ab.3) | 2026-07-28 12:25:44 |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ab.1](../bbugyi200.athena.sase-ab.1/README.md) | sase-ab hood | active |
+| [sase-ab.1](../bbugyi200.athena.sase-ab.1/README.md) | sase-ab hood | completed |
 | [sase-ab.2](../bbugyi200.athena.sase-ab.2/README.md) | sase-ab hood | completed |
-| [sase-ab.4](../bbugyi200.athena.sase-ab.4/README.md) | sase-ab hood | active |
+| [sase-ab.4](../bbugyi200.athena.sase-ab.4/README.md) | sase-ab hood | dismissed |
 | [sase-ab.5](../bbugyi200.athena.sase-ab.5/README.md) | sase-ab hood | waiting |
 | [sase-ab.land](../bbugyi200.athena.sase-ab.land/README.md) | sase-ab hood | waiting |
