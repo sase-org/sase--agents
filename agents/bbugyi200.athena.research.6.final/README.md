@@ -12,6 +12,7 @@
 - Provider: codex
 - Timing: 2026-07-09T20:21:18.789504+00:00
 - Commits: [1](#commits)
+- Variables: [6](#variables)
 
 ## Files
 
@@ -22,6 +23,17 @@
 | Commit | Subject | Committed (UTC) |
 |---|---|---|
 | [`b9ac265`](https://github.com/sase-org/sase/commit/b9ac2657303735e51c8eb40d97e48e01bdeda761) | chore: consolidate memory build-vs-Zep research into one document | 2026-06-11 12:09:30 |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `concurrency_solvable` | yes\_with\_transaction\_lock\_or\_broker |
+| `confidence` | high |
+| `final_research_path` | .sase/sdd/research/202607/shared\_sdd\_clone\_consolidated.md |
+| `recommendation` | shared\_object\_cache\_private\_worktrees |
+| `recommended_phase` | A\_plus\_sparse |
+| `shared_working_tree_recommended` | no |
 
 ## Neighbors
 
@@ -80,4 +92,4 @@
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 228 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 229 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

@@ -10,7 +10,7 @@
 
 - Model: —
 - Provider: —
-- Timing: —
+- Timing: 2026-07-24T22:20:05+00:00 → 2026-07-24T22:20:05+00:00
 - Commits: [1](#commits)
 
 ## Commits
@@ -23,9 +23,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [jq.f0](../../families/bbugyi200.athena.jq.f0.md) (family · 2) | descendant | completed 1, dismissed 1 |
+| [jq.f0](../../families/bbugyi200.athena.jq.f0.md) (family · 2) | descendant | active 1, completed 1 |
 | [jq.f0](../bbugyi200.athena.jq.f0/README.md) | descendant | completed |
-| [jq.f0.f0](../../families/bbugyi200.athena.jq.f0.f0.md) (family · 2) | descendant | completed 1, dismissed 1 |
+| [jq.f0.f0](../../families/bbugyi200.athena.jq.f0.f0.md) (family · 2) | descendant | active 1, completed 1 |
 | [jq.f0.f0](../bbugyi200.athena.jq.f0.f0/README.md) | descendant | completed |
-| [jq.f0.f1](../../families/bbugyi200.athena.jq.f0.f1.md) (family · 2) | descendant | completed 1, dismissed 1 |
+| [jq.f0.f1](../../families/bbugyi200.athena.jq.f0.f1.md) (family · 2) | descendant | active 1, completed 1 |
 | [jq.f0.f1](../bbugyi200.athena.jq.f0.f1/README.md) | descendant | completed |

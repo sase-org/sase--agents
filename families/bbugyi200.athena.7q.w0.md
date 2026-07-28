@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [7q](../agents/bbugyi200.athena.7q/README.md) | ancestor | dismissed |
+| [7q](../agents/bbugyi200.athena.7q/README.md) | ancestor | completed |
 | [7q.w1](bbugyi200.athena.7q.w1.md) (family · 2) | 7q hood | active 1, completed 1 |

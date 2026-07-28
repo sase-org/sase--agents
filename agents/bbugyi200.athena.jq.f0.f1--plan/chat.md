@@ -1,11 +1,20 @@
-# Chat History - tmp_260724_185203 (main)
+# Chat History - ace-run (jq.f0.f1--plan)
 
-- **TIMESTAMP:** 2026-07-24 18:57:16 EDT
+- **TIMESTAMP:** 2026-07-24 18:57:37 EDT
 - **MODEL:** codex/gpt-5.6-sol
-- **AGENT:** main
+- **AGENT:** jq.f0.f1--plan
+
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-jq_f0_f1__plan-260724_183220.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-jq_f0_f1__code-260724_183220.md`
+
+**Plan:** /home/bryan/.sase/plans/202607/queued_agent_counts.md
+
 
 ## Prompt
 
+#gh:gh_sase-org__sase %xprompts_enabled:false
 # Previous Conversations
 
 You are forking from 1 prior source. Source sections are independent parents, and section order carries no priority. Members inside an agent family section are sequential: each member continued the previous member's work. Carry forward relevant goals, constraints, decisions, and unfinished work with attribution when it matters. The New Query is the active request and takes precedence over conflicting source instructions.
@@ -151,7 +160,7 @@ Committed and pushed the implementation:
 
 ---
 
- # New Query
+# New Query
 
 Can you now help me change the color of the `<M>` (10 in the screenshot) so it doesn't match the color used to count done sase agents? Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate
 tier, validate and revalidate until it passes, then submit it with `sase plan propose` (as the skill instructs)
@@ -253,26 +262,30 @@ Committed and pushed the implementation:
 
 ---
 
- # New Query
+%xprompts_enabled:true
+# New Query
 
-Can you now help me make sure the color used for the queued agent count is also
-distinct? Also, make sure that we show how many agents are queued in each agent
-tribe panel / agent clan using `Q` to denote the queued agent count. Think
-this through thoroughly and create a plan using your `/sase_plan` skill. Choose and
-author the appropriate tier, validate and revalidate until it passes, then
-submit it with `sase plan propose` (as the skill instructs) before making any file changes.
+ Can you now help me make sure the color used for the queued agent count is also distinct? Also, make sure that we show how many agents are queued in each agent tribe panel / agent clan using `Q` to denote the queued agent count. Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate
+tier, validate and revalidate until it passes, then submit it with `sase plan propose` (as the skill instructs)
+before making any file changes.
 
 
 ## Response
 
-I’m using the `sase_plan` skill to produce and submit the reviewed artifact, and the required `sase_memory_read` workflow because this changes Agents-tab rendering/count propagation. I’ll trace both the global queued-count styling and the tribe/clan panel data path, then author, validate, revalidate, and propose the appropriate plan tier without changing implementation files.
+*Plan submitted for review.*
 
-The performance guidance confirms the plan should reuse the existing cached agent snapshot and selective panel render path—no new polling, disk reads, or refresh loop. I’m now mapping where queue ownership is represented globally versus per tribe/clan so the plan can specify one authoritative counting rule and avoid UI-only inference.
+**Plan file:** `/home/bryan/.sase/plans/202607/queued_agent_counts.md`
 
-The key design point is that “queued” is an orthogonal runner-capacity state, not a replacement for the normal `WAITING` status: today the global header deliberately shows both queue pressure and waiting totals. The plan will preserve that behavior, define `Q` from the same live implicit runner-cap predicate as the global total, and carry it through the existing shared count-chip model so tribe and clan summaries cannot drift.
+> # Distinguish and scope queued-agent counts in the Agents tab
+> ## Goal
+> Make runner-capacity queue pressure immediately distinguishable from ordinary waiting in the `sase ace` Agents tab, and
+> expose that pressure in every tribe-panel and clan aggregate that already uses the compact agent-count chip.
+> After this change:
+> - The global header continues to render a positive queue as `<Q> queued`, but its number uses a dedicated bright-pink
+>   queue style (`bold #FF87D7`) instead of the waiting metric's purple.
+> - Compact aggregate chips use `Q` for the same queue concept and place it between running and waiting, for example
+>   `[R3 Q2 W4 D5]`.
+> - `Q0` is suppressed, like every other zero-valued compact metric.
 
-This is a `tale`: one follow-up coding agent can implement the shared predicate, aggregate-field plumbing, rendering, and focused visual verification as one coherent change. I’ve chosen a bright pink queue accent (`#FF87D7`), which is distinct from waiting purple, running teal/gold, failed red, done cyan, and the gold runner limit; compact chips will order it as `R… Q… W…`, matching the global header’s running → queued → waiting sequence.
+*See full plan file for details.*
 
-The first required `--explain` validation found the current tale schema now requires `title` and `goal` in addition to `tier`. I’m updating only that frontmatter metadata, then I’ll run the mandated clean revalidation before proposing.
-
-The tale now passes strict validation with zero warnings. It explicitly locks queue semantics to the existing live implicit runner-cap predicate, preserves the intentional `Q`/`W` overlap, uses `R → Q → W` ordering, and covers global, tribe-panel, clan, family-container, cleanup, cache, and visual boundaries. I’m submitting it now with `sase plan propose`; that command consumes the scratch plan and hands it to the approval workflow.

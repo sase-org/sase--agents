@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [split\_file](../../users/bbugyi200/machines/athena/hoods/split_file/README.md) / split\_file.\_parsing
 
-**Global name:** `bbugyi200.athena.split_file._parsing` · **State:** dismissed · **Source run:** `run-0d1b8ba1ac78443252d8e1cdec43bcb8`
+**Global name:** `bbugyi200.athena.split_file._parsing` · **State:** completed · **Source run:** `run-29b3e40c8371b1257e7b069baee538d1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** split\_file
 
@@ -10,7 +10,7 @@
 
 - Model: —
 - Provider: —
-- Timing: 2042-07-20T07:57:18+00:00 → 2042-07-20T07:57:18+00:00
+- Timing: 2026-06-06T14:34:39+00:00 → 2026-06-06T14:34:39+00:00
 - Commits: [1](#commits)
 
 ## Commits
@@ -23,31 +23,31 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [split\_file.\_\_init\_\_](../bbugyi200.athena.split_file.__init__/README.md) | split\_file hood | dismissed |
+| [split\_file.\_\_init\_\_](../bbugyi200.athena.split_file.__init__/README.md) | split\_file hood | completed |
 | [split\_file.\_ace\_config\_center\_png\_snapshot\_helpers](../bbugyi200.athena.split_file._ace_config_center_png_snapshot_helpers/README.md) | split\_file hood | active |
-| [split\_file.\_agent\_display](../bbugyi200.athena.split_file._agent_display/README.md) | split\_file hood | dismissed |
-| [split\_file.\_agent\_display\_parts](../bbugyi200.athena.split_file._agent_display_parts/README.md) | split\_file hood | dismissed |
-| [split\_file.\_agent\_status\_overrides](../bbugyi200.athena.split_file._agent_status_overrides/README.md) | split\_file hood | dismissed |
+| [split\_file.\_agent\_display](../bbugyi200.athena.split_file._agent_display/README.md) | split\_file hood | completed |
+| [split\_file.\_agent\_display\_parts](../bbugyi200.athena.split_file._agent_display_parts/README.md) | split\_file hood | completed |
+| [split\_file.\_agent\_status\_overrides](../bbugyi200.athena.split_file._agent_status_overrides/README.md) | split\_file hood | completed |
 | [split\_file.\_commit](../bbugyi200.athena.split_file._commit/README.md) | split\_file hood | active |
-| [split\_file.\_directive\_alt](../bbugyi200.athena.split_file._directive_alt/README.md) | split\_file hood | dismissed |
-| [split\_file.\_entry\_points](../bbugyi200.athena.split_file._entry_points/README.md) | split\_file hood | dismissed |
-| [split\_file.\_event\_refresh](../bbugyi200.athena.split_file._event_refresh/README.md) | split\_file hood | dismissed |
-| [split\_file.\_file\_completion](../bbugyi200.athena.split_file._file_completion/README.md) | split\_file hood | dismissed |
-| [split\_file.\_file\_completion\_2](../bbugyi200.athena.split_file._file_completion_2/README.md) | split\_file hood | dismissed |
+| [split\_file.\_directive\_alt](../bbugyi200.athena.split_file._directive_alt/README.md) | split\_file hood | completed |
+| [split\_file.\_entry\_points](../bbugyi200.athena.split_file._entry_points/README.md) | split\_file hood | completed |
+| [split\_file.\_event\_refresh](../bbugyi200.athena.split_file._event_refresh/README.md) | split\_file hood | completed |
+| [split\_file.\_file\_completion](../bbugyi200.athena.split_file._file_completion/README.md) | split\_file hood | completed |
+| [split\_file.\_file\_completion\_2](../bbugyi200.athena.split_file._file_completion_2/README.md) | split\_file hood | completed |
 | [split\_file.\_frontmatter\_panel\_editing](../bbugyi200.athena.split_file._frontmatter_panel_editing/README.md) | split\_file hood | active |
-| [split\_file.\_killing](../bbugyi200.athena.split_file._killing/README.md) | split\_file hood | dismissed |
-| [split\_file.\_launch\_body](../bbugyi200.athena.split_file._launch_body/README.md) | split\_file hood | dismissed |
-| [split\_file.\_meta\_enrichment](../bbugyi200.athena.split_file._meta_enrichment/README.md) | split\_file hood | dismissed |
+| [split\_file.\_killing](../bbugyi200.athena.split_file._killing/README.md) | split\_file hood | completed |
+| [split\_file.\_launch\_body](../bbugyi200.athena.split_file._launch_body/README.md) | split\_file hood | completed |
+| [split\_file.\_meta\_enrichment](../bbugyi200.athena.split_file._meta_enrichment/README.md) | split\_file hood | completed |
 | [split\_file.\_notification\_modals](../bbugyi200.athena.split_file._notification_modals/README.md) | split\_file hood | active |
-| [split\_file.\_prompt\_bar\_save\_xprompt](../bbugyi200.athena.split_file._prompt_bar_save_xprompt/README.md) | split\_file hood | dismissed |
+| [split\_file.\_prompt\_bar\_save\_xprompt](../bbugyi200.athena.split_file._prompt_bar_save_xprompt/README.md) | split\_file hood | completed |
 | [split\_file.\_prompt\_bar\_stash](../bbugyi200.athena.split_file._prompt_bar_stash/README.md) | split\_file hood | active |
 | [split\_file.\_prompt\_input\_bar\_completion](../bbugyi200.athena.split_file._prompt_input_bar_completion/README.md) | split\_file hood | active |
-| [split\_file.\_prompt\_input\_bar\_stack\_actions](../bbugyi200.athena.split_file._prompt_input_bar_stack_actions/README.md) | split\_file hood | dismissed |
-| [split\_file.\_registry](../bbugyi200.athena.split_file._registry/README.md) | split\_file hood | dismissed |
+| [split\_file.\_prompt\_input\_bar\_stack\_actions](../bbugyi200.athena.split_file._prompt_input_bar_stack_actions/README.md) | split\_file hood | completed |
+| [split\_file.\_registry](../bbugyi200.athena.split_file._registry/README.md) | split\_file hood | completed |
 | [split\_file.\_viewer\_loop](../bbugyi200.athena.split_file._viewer_loop/README.md) | split\_file hood | active |
-| [split\_file.\_vim\_normal](../bbugyi200.athena.split_file._vim_normal/README.md) | split\_file hood | dismissed |
-| [split\_file.\_vim\_normal\_ops](../bbugyi200.athena.split_file._vim_normal_ops/README.md) | split\_file hood | dismissed |
-| [split\_file.\_vim\_visual](../bbugyi200.athena.split_file._vim_visual/README.md) | split\_file hood | dismissed |
+| [split\_file.\_vim\_normal](../bbugyi200.athena.split_file._vim_normal/README.md) | split\_file hood | completed |
+| [split\_file.\_vim\_normal\_ops](../bbugyi200.athena.split_file._vim_normal_ops/README.md) | split\_file hood | completed |
+| [split\_file.\_vim\_visual](../bbugyi200.athena.split_file._vim_visual/README.md) | split\_file hood | completed |
 | [split\_file.ace\_png\_snapshot\_helpers-0](../bbugyi200.athena.split_file.ace_png_snapshot_helpers-0/README.md) | split\_file hood | active |
 | [split\_file.ace\_png\_snapshot\_helpers-5](../bbugyi200.athena.split_file.ace_png_snapshot_helpers-5/README.md) | split\_file hood | active |
 | [split\_file.agent-0](../bbugyi200.athena.split_file.agent-0/README.md) | split\_file hood | waiting |

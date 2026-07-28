@@ -2,20 +2,22 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [km](../../users/bbugyi200/machines/athena/hoods/km/README.md) / km.f0
 
-**Global name:** `bbugyi200.athena.km.f0` · **State:** waiting · **Source run:** `run-b896e0a6abe582795caebd2ba8c19e12`
+**Global name:** `bbugyi200.athena.km.f0` · **State:** completed · **Source run:** `run-81f950cd1ffab4f710b3e6e320514746`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** km
 
 ## Summary
 
-- Model: opus
-- Provider: claude
-- Timing: 20260725110512
-- Commits: 0
+- Model: —
+- Provider: —
+- Timing: 2026-07-25T15:46:36+00:00 → 2026-07-25T15:46:36+00:00
+- Commits: [1](#commits)
 
-## Files
+## Commits
 
-[Prompt](prompt.md)
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`a0b40ef`](https://github.com/sase-org/sase/commit/a0b40ef37c1ec7afd8581fb31dd38ff0ca372937) | fix: propagate default overrides through alias resolution | 2026-07-25 15:46:36 |
 
 ## Neighbors
 

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:jq.f0 Can you now help me make sure the color used for the queued agent count is also distinct? Also, make sure that we show how many agents are queued in each agent tribe panel / agent clan using `Q` to denote the queued agent count. #plan

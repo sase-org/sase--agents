@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make it much clearer which model aliases in the "Models" panel are created by users and which are built-in by separating them into different sections or visually indicating which are user model aliases some other way? See #sshot for an example of what this panel looks like today. #beau #plan #m_opus

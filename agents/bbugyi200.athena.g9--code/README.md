@@ -11,14 +11,8 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-20T14:53:58.053751+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md)
-
-## Commits
-
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b4d689f`](https://github.com/sase-org/sase/commit/b4d689f53d6e397f8ef6e3a0b733321e4d9934da) | fix: resolve waits for dismissed clan members | 2026-07-20 15:21:11 |

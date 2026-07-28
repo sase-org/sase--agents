@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** ku.f1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-ku_f1__plan-260725_123309.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-ku_f1__code-260725_123309.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/queue_position_panel.md
 
 

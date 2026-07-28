@@ -6,5 +6,5 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [8x.cld](../../../../../../agents/bbugyi200.athena.8x.cld/README.md) | completed | — | — | 2 | — |
+| [8x.cld](../../../../../../agents/bbugyi200.athena.8x.cld/README.md) | completed | — | 2026-06-16T15:23:03+00:00 → 2026-06-16T15:38:39+00:00 | 2 | — |
 | [8x](../../../../../../agents/bbugyi200.athena.8x/README.md) | active | claude-fable-5 / claude | 2026-07-15T12:54:46.109538+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.8x/prompt.md) |

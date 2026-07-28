@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [077](../../users/bbugyi200/machines/athena/hoods/077/README.md) / 077.w1.w1.f1.w2
 
-**Global name:** `bbugyi200.athena.077.w1.w1.f1.w2` · **State:** dismissed · **Source run:** `run-a409392cd083287346fb5af9617c0193`
+**Global name:** `bbugyi200.athena.077.w1.w1.f1.w2` · **State:** completed · **Source run:** `run-534f786c44eb7feb570920c6a4c9d717`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 077
 
@@ -10,7 +10,7 @@
 
 - Model: —
 - Provider: —
-- Timing: 2003-03-15T11:55:01+00:00 → 2003-03-15T11:55:01+00:00
+- Timing: 2026-06-26T23:41:17+00:00 → 2026-06-26T23:41:17+00:00
 - Commits: [1](#commits)
 
 ## Commits
@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [077.w1](../bbugyi200.athena.077.w1/README.md) | ancestor | dismissed |
-| [077](../bbugyi200.athena.077/README.md) | ancestor | dismissed |
-| [077.w1.w2](../bbugyi200.athena.077.w1.w2/README.md) | 077.w1 hood | dismissed |
-| [077.w1.w2.f1](../bbugyi200.athena.077.w1.w2.f1/README.md) | 077.w1 hood | dismissed |
+| [077.w1](../bbugyi200.athena.077.w1/README.md) | ancestor | completed |
+| [077](../bbugyi200.athena.077/README.md) | ancestor | completed |
+| [077.w1.w2](../bbugyi200.athena.077.w1.w2/README.md) | 077.w1 hood | completed |
+| [077.w1.w2.f1](../bbugyi200.athena.077.w1.w2.f1/README.md) | 077.w1 hood | completed |

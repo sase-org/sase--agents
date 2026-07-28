@@ -18,10 +18,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | je--plan | active | gpt-5.6-sol / codex | 2026-07-23T16:56:27.322688+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.je--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.je--plan/chat.md) |
-| <a id="member-code"></a>code | je--code | completed | gpt-5.6-sol / codex | 2026-07-23T17:01:49.279014+00:00 | [1](../agents/bbugyi200.athena.je--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.je--code/chat.md) |
-
-## Commits
-
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`ec03529`](https://github.com/sase-org/sase/commit/ec0352909ef3d51fdf6e5f70e537aeffd29d1481) | feat(ace): add numbered gate branch shortcuts | 2026-07-23 17:22:22 |
+| <a id="member-code"></a>code | je--code | completed | gpt-5.6-sol / codex | 2026-07-23T17:01:49.279014+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.je--code/chat.md) |

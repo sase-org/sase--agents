@@ -12,6 +12,7 @@
 - Provider: codex
 - Timing: 2026-07-08T21:38:34.035808+00:00
 - Commits: [1](#commits)
+- Variables: [5](#variables)
 
 ## Files
 
@@ -22,6 +23,16 @@
 | Commit | Subject | Committed (UTC) |
 |---|---|---|
 | [`895246b`](https://github.com/sase-org/sase/commit/895246bd3980f8bcfaa6bc5465ede7795b506c19) | docs: consolidate xprompt rename research | 2026-07-08 21:43:11 |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `confidence` | high |
+| `recommendation` | do\_not\_rename\_xprompt\_to\_plang |
+| `research_path` | sdd/research/202607/xprompt\_plang\_rename\_consolidated.md |
+| `summary` | Keep xprompt for reusable prompt assets; use SASE Prompt Language only as an umbrella term if needed. |
+| `top_reason` | plang fails as an artifact count noun, collides with SASE prompt terminology, and has direct prompt/programming-language collisions. |
 
 ## Neighbors
 
@@ -86,4 +97,4 @@
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 222 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 223 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

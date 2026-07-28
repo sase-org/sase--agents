@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0x.cld](../bbugyi200.athena.0x.cld/README.md) | descendant | dismissed |
+| [0x.cld](../bbugyi200.athena.0x.cld/README.md) | descendant | completed |

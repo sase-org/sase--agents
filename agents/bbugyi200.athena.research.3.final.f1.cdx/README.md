@@ -12,10 +12,22 @@
 - Provider: codex
 - Timing: 2026-07-08T21:56:23.047751+00:00
 - Commits: 0
+- Variables: [6](#variables)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `best_convention` | Keep xprompt for concrete reusable prompt assets; use SASE Prompt Language or SPL only for the broader grammar/language layer if that layer needs a formal name. |
+| `concession` | Yes, you could distinguish plang parts, plang markdown files, and plang workflow YAML files; that taxonomy is workable if consistently documented. |
+| `confidence` | medium\_high |
+| `main_issue` | The remaining problem is not pronunciation; it is that plang still sounds like the language layer while users need a crisp artifact noun distinct from raw prompt, workflow, directive, and skill. |
+| `recommendation` | do\_not\_rename\_xprompt\_to\_plang |
+| `short_answer` | Pronouncing plang as one syllable like hang makes it more viable as a count noun, but it still remains weaker than xprompt for SASE's concrete reusable prompt artifacts. |
 
 ## Neighbors
 
@@ -80,4 +92,4 @@
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 222 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 223 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

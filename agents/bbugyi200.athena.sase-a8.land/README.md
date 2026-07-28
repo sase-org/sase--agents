@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-a8](../../users/bbugyi200/machines/athena/hoods/sase-a8/README.md) / sase-a8.land
 
-**Global name:** `bbugyi200.athena.sase-a8.land` · **State:** active · **Source run:** `run-e8c7d76f5b4426262cdc7a32f73e8627`
+**Global name:** `bbugyi200.athena.sase-a8.land` · **State:** failed · **Source run:** `run-e8c7d76f5b4426262cdc7a32f73e8627`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-a8
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 

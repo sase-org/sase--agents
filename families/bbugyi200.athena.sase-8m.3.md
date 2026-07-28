@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-8m` · Members: 2
 ```mermaid
 flowchart TD
   n0["sase-8m.3--code [completed]"]
-  n1["sase-8m.3--plan [completed]"]
+  n1["sase-8m.3--plan [active]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-8m.3--code | completed | gpt-5.6-sol / codex | 2026-07-22T18:00:26.813512+00:00 | [1](../agents/bbugyi200.athena.sase-8m.3--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-8m.3--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-8m.3--plan | completed | gpt-5.6-sol / codex | 2026-07-22T17:52:34.105679+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-8m.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-8m.3--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-8m.3--plan | active | gpt-5.6-sol / codex | 2026-07-22T17:52:34.105679+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-8m.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-8m.3--plan/chat.md) |
 
 ## Commits
 
@@ -34,5 +34,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-8m.1](../agents/bbugyi200.athena.sase-8m.1/README.md) | sase-8m hood | completed |
 | [sase-8m.2](bbugyi200.athena.sase-8m.2.md) (family · 2) | sase-8m hood | active 2 |
 | [sase-8m.2](../agents/bbugyi200.athena.sase-8m.2/README.md) | sase-8m hood | completed |
-| [sase-8m.4](../agents/bbugyi200.athena.sase-8m.4/README.md) | sase-8m hood | completed |
-| [sase-8m.land](../agents/bbugyi200.athena.sase-8m.land/README.md) | sase-8m hood | completed |
+| [sase-8m.4](../agents/bbugyi200.athena.sase-8m.4/README.md) | sase-8m hood | active |
+| [sase-8m.land](../agents/bbugyi200.athena.sase-8m.land/README.md) | sase-8m hood | active |

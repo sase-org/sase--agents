@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [7q](../bbugyi200.athena.7q/README.md) | ancestor | dismissed |
+| [7q](../bbugyi200.athena.7q/README.md) | ancestor | completed |
 | [7q.w1](../../families/bbugyi200.athena.7q.w1.md) (family · 2) | 7q hood | active 1, completed 1 |

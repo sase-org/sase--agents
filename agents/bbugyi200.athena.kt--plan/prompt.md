@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Why does the `sase ace` TUI keep hanging when I attempt to quit with the `q` keymap? The TUI is dismissed, but control is never returned to my shell. Can you help me diagnose the root cause of this issue and fix it? #plan

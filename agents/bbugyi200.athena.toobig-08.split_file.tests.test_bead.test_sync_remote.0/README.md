@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-08.split\_file.tests.test\_bead.test\_sync\_conflict\_regressions.0](../bbugyi200.athena.toobig-08.split_file.tests.test_bead.test_sync_conflict_regressions.0/README.md) | toobig-08.split\_file.tests.test\_bead hood | completed |
-| [toobig-08.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_axe.0](../bbugyi200.athena.toobig-08.split_file.tests.ace.tui.visual.test_ace_png_snapshots_axe.0/README.md) | toobig-08.split\_file.tests hood | completed |
+| [toobig-08.split\_file.tests.test\_bead.test\_sync\_conflict\_regressions.0](../bbugyi200.athena.toobig-08.split_file.tests.test_bead.test_sync_conflict_regressions.0/README.md) | toobig-08.split\_file.tests.test\_bead hood | active |
+| [toobig-08.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_axe.0](../bbugyi200.athena.toobig-08.split_file.tests.ace.tui.visual.test_ace_png_snapshots_axe.0/README.md) | toobig-08.split\_file.tests hood | active |

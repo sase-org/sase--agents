@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-8k` · Members: 2
 ```mermaid
 flowchart TD
   n0["sase-8k.3--code [completed]"]
-  n1["sase-8k.3--plan [completed]"]
+  n1["sase-8k.3--plan [active]"]
   n0 --> n1
 ```
 
@@ -17,14 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-8k.3--code | completed | gpt-5.6-sol / codex | 2026-07-22T18:04:40.234437+00:00 | [1](../agents/bbugyi200.athena.sase-8k.3--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-8k.3--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-8k.3--plan | completed | gpt-5.6-sol / codex | 2026-07-22T17:58:56.465499+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-8k.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-8k.3--plan/chat.md) |
-
-## Commits
-
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`e828aa9`](https://github.com/sase-org/sase/commit/e828aa927e3dff3c3c4f1f4539a3c8c5201ea83e) | feat: add machine-qualified agent hoods (sase-8k.3) | 2026-07-22 19:07:39 |
+| <a id="member-code"></a>code | sase-8k.3--code | completed | gpt-5.6-sol / codex | 2026-07-22T18:04:40.234437+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-8k.3--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-8k.3--plan | active | gpt-5.6-sol / codex | 2026-07-22T17:58:56.465499+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-8k.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-8k.3--plan/chat.md) |
 
 ## Neighbors
 
@@ -37,10 +31,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-8k.4](../agents/bbugyi200.athena.sase-8k.4/README.md) | sase-8k hood | completed |
 | [sase-8k.5](bbugyi200.athena.sase-8k.5.md) (family · 2) | sase-8k hood | active 1, completed 1 |
 | [sase-8k.5](../agents/bbugyi200.athena.sase-8k.5/README.md) | sase-8k hood | completed |
-| [sase-8k.6](bbugyi200.athena.sase-8k.6.md) (family · 2) | sase-8k hood | completed 2 |
+| [sase-8k.6](bbugyi200.athena.sase-8k.6.md) (family · 2) | sase-8k hood | active 1, completed 1 |
 | [sase-8k.6](../agents/bbugyi200.athena.sase-8k.6/README.md) | sase-8k hood | completed |
-| [sase-8k.7](bbugyi200.athena.sase-8k.7.md) (family · 2) | sase-8k hood | completed 2 |
+| [sase-8k.7](bbugyi200.athena.sase-8k.7.md) (family · 2) | sase-8k hood | active 1, completed 1 |
 | [sase-8k.7](../agents/bbugyi200.athena.sase-8k.7/README.md) | sase-8k hood | completed |
-| [sase-8k.8](../agents/bbugyi200.athena.sase-8k.8/README.md) | sase-8k hood | completed |
-| [sase-8k.land](bbugyi200.athena.sase-8k.land.md) (family · 2) | sase-8k hood | completed 2 |
+| [sase-8k.8](../agents/bbugyi200.athena.sase-8k.8/README.md) | sase-8k hood | active |
+| [sase-8k.land](bbugyi200.athena.sase-8k.land.md) (family · 2) | sase-8k hood | active 1, completed 1 |
 | [sase-8k.land](../agents/bbugyi200.athena.sase-8k.land/README.md) | sase-8k hood | completed |

@@ -10,7 +10,7 @@
 
 - Model: —
 - Provider: —
-- Timing: —
+- Timing: 2026-07-24T23:20:55+00:00 → 2026-07-24T23:20:55+00:00
 - Commits: [1](#commits)
 
 ## Commits
@@ -25,5 +25,5 @@
 |---|---|---|
 | [jq.f0](../bbugyi200.athena.jq.f0/README.md) | ancestor | completed |
 | [jq](../bbugyi200.athena.jq/README.md) | ancestor | completed |
-| [jq.f0.f0](../../families/bbugyi200.athena.jq.f0.f0.md) (family · 2) | jq.f0 hood | completed 1, dismissed 1 |
+| [jq.f0.f0](../../families/bbugyi200.athena.jq.f0.f0.md) (family · 2) | jq.f0 hood | active 1, completed 1 |
 | [jq.f0.f0](../bbugyi200.athena.jq.f0.f0/README.md) | jq.f0 hood | completed |

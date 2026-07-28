@@ -11,17 +11,11 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-17T16:25:41.637091+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md)
-
-## Commits
-
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`de9d360`](https://github.com/sase-org/sase/commit/de9d36014a20c6795a557dae1435b4b25fa22471) | fix(tui): count effective agents in headline | 2026-07-17 16:41:49 |
 
 ## Neighbors
 

@@ -18,13 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-8t.3--plan | active | gpt-5.6-sol / codex | 2026-07-23T12:39:08.179462+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-8t.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-8t.3--plan/chat.md) |
-| <a id="member-code"></a>code | sase-8t.3--code | completed | gpt-5.6-sol / codex | 2026-07-23T12:43:13.774757+00:00 | [1](../agents/bbugyi200.athena.sase-8t.3--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-8t.3--code/chat.md) |
-
-## Commits
-
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`d0cf97a`](https://github.com/sase-org/sase/commit/d0cf97a12930b4c28e0f86097518cf05965ca306) | feat(axe): add whole-system status command (sase-8t.3) | 2026-07-23 13:05:49 |
+| <a id="member-code"></a>code | sase-8t.3--code | completed | gpt-5.6-sol / codex | 2026-07-23T12:43:13.774757+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-8t.3--code/chat.md) |
 
 ## Neighbors
 

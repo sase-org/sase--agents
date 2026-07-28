@@ -31,5 +31,5 @@
 | [4f.f-0](../bbugyi200.athena.4f.f-0/README.md) | 4f hood | active |
 | [4f.f-1](../bbugyi200.athena.4f.f-1/README.md) | 4f hood | active |
 | [4f.f-2](../bbugyi200.athena.4f.f-2/README.md) | 4f hood | active |
-| [4f.f1](../bbugyi200.athena.4f.f1/README.md) | 4f hood | dismissed |
-| [4f.f1.f1](../bbugyi200.athena.4f.f1.f1/README.md) | 4f hood | dismissed |
+| [4f.f1](../bbugyi200.athena.4f.f1/README.md) | 4f hood | completed |
+| [4f.f1.f1](../bbugyi200.athena.4f.f1.f1/README.md) | 4f hood | completed |

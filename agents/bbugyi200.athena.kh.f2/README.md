@@ -10,7 +10,7 @@
 
 - Model: —
 - Provider: —
-- Timing: —
+- Timing: 2026-07-25T14:26:53+00:00 → 2026-07-25T14:26:53+00:00
 - Commits: [1](#commits)
 
 ## Commits
@@ -24,5 +24,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [kh](../bbugyi200.athena.kh/README.md) | ancestor | completed |
-| [kh.f0](../bbugyi200.athena.kh.f0/README.md) | kh hood | dismissed |
-| [kh.f1](../bbugyi200.athena.kh.f1/README.md) | kh hood | dismissed |
+| [kh.f0](../bbugyi200.athena.kh.f0/README.md) | kh hood | waiting |
+| [kh.f1](../bbugyi200.athena.kh.f1/README.md) | kh hood | active |

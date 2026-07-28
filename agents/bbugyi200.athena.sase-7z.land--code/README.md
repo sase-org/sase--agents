@@ -11,17 +11,11 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-20T14:27:52.559847+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md)
-
-## Commits
-
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6cc67b9`](https://github.com/sase-org/sase/commit/6cc67b90fcc881469f7cf00f926a8a45a1c29084) | fix(beads): show child epics owned by phases (sase-7z) | 2026-07-20 14:39:27 |
 
 ## Neighbors
 

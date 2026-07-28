@@ -17,14 +17,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | c2.f0--code | completed | gpt-5.6-sol / codex | 2026-07-17T16:25:41.637091+00:00 | [1](../agents/bbugyi200.athena.c2.f0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.c2.f0--code/chat.md) |
+| <a id="member-code"></a>code | c2.f0--code | completed | gpt-5.6-sol / codex | 2026-07-17T16:25:41.637091+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.c2.f0--code/chat.md) |
 | <a id="member-root"></a>root | c2.f0 | active | gpt-5.6-sol / codex | 2026-07-17T16:18:45.009646+00:00 | [1](../agents/bbugyi200.athena.c2.f0/README.md#commits) | [Prompt](../agents/bbugyi200.athena.c2.f0/prompt.md) | [Chat](../agents/bbugyi200.athena.c2.f0/chat.md) |
 
 ## Commits
 
 | Role | Commit | Subject | Committed (UTC) |
 |---|---|---|---|
-| code | [`de9d360`](https://github.com/sase-org/sase/commit/de9d36014a20c6795a557dae1435b4b25fa22471) | fix(tui): count effective agents in headline | 2026-07-17 16:41:49 |
 | root | [`de9d360`](https://github.com/sase-org/sase/commit/de9d36014a20c6795a557dae1435b4b25fa22471) | fix(tui): count effective agents in headline | 2026-07-17 16:41:49 |
 
 ## Neighbors

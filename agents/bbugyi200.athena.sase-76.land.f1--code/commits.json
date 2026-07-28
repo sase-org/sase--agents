@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-91bc402459d14f4ecd6e29814c501ebf"}
+{"commits":[{"committed_at":1784482932,"sha":"24a5fb69cba6a31215ea88ef1a59c3af6d97357c","subject":"fix(ace): restore contextual query shortcuts"}],"schema_version":2,"source_run_id":"run-91bc402459d14f4ecd6e29814c501ebf"}

@@ -17,14 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | d7.w1.f1--code | completed | gpt-5.6-sol / codex | 2026-07-18T13:04:13.359243+00:00 | [1](../agents/bbugyi200.athena.d7.w1.f1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.d7.w1.f1--code/chat.md) |
+| <a id="member-code"></a>code | d7.w1.f1--code | completed | gpt-5.6-sol / codex | 2026-07-18T13:04:13.359243+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.d7.w1.f1--code/chat.md) |
 | <a id="member-plan-0"></a>plan-0 | d7.w1.f1--plan-0 | active | opus / claude | 2026-07-18T12:54:29.182399+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.d7.w1.f1--plan-0/prompt.md) | [Chat](../agents/bbugyi200.athena.d7.w1.f1--plan-0/chat.md) |
-
-## Commits
-
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`4c20b1b`](https://github.com/sase-org/sase/commit/4c20b1bdb1d62ceea0c52532cff6691e9c198b23) | feat(ace): distinguish agent family rows | 2026-07-18 13:30:43 |
 
 ## Neighbors
 

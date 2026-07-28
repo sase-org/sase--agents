@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [bnb](../../../../../../agents/bbugyi200.athena.bnb/README.md) | completed | — | — | 2 | — |
+| [bnb](../../../../../../agents/bbugyi200.athena.bnb/README.md) | completed | — | 2026-05-28T13:38:03+00:00 → 2026-05-28T13:48:09+00:00 | 2 | — |

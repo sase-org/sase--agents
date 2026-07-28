@@ -6,9 +6,9 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-4c.1](../../../../../../agents/bbugyi200.athena.sase-4c.1/README.md) | completed | — | — | 1 | — |
-| [sase-4c.2](../../../../../../agents/bbugyi200.athena.sase-4c.2/README.md) | completed | — | — | 1 | — |
-| [sase-4c.5](../../../../../../agents/bbugyi200.athena.sase-4c.5/README.md) | completed | — | — | 1 | — |
-| [sase-4c.3](../../../../../../agents/bbugyi200.athena.sase-4c.3/README.md) | completed | — | — | 1 | — |
-| [sase-4c](../../../../../../agents/bbugyi200.athena.sase-4c/README.md) | completed | — | — | 1 | — |
-| [sase-4c.4](../../../../../../agents/bbugyi200.athena.sase-4c.4/README.md) | completed | — | — | 1 | — |
+| [sase-4c.1](../../../../../../agents/bbugyi200.athena.sase-4c.1/README.md) | completed | — | 2026-06-04T15:03:22+00:00 → 2026-06-04T15:03:22+00:00 | 1 | — |
+| [sase-4c.2](../../../../../../agents/bbugyi200.athena.sase-4c.2/README.md) | completed | — | 2026-06-04T15:24:34+00:00 → 2026-06-04T15:24:34+00:00 | 1 | — |
+| [sase-4c.5](../../../../../../agents/bbugyi200.athena.sase-4c.5/README.md) | completed | — | 2026-06-04T16:11:14+00:00 → 2026-06-04T16:11:14+00:00 | 1 | — |
+| [sase-4c.3](../../../../../../agents/bbugyi200.athena.sase-4c.3/README.md) | completed | — | 2026-06-04T15:41:14+00:00 → 2026-06-04T15:41:14+00:00 | 1 | — |
+| [sase-4c](../../../../../../agents/bbugyi200.athena.sase-4c/README.md) | completed | — | 2026-06-04T16:21:27+00:00 → 2026-06-04T16:21:27+00:00 | 1 | — |
+| [sase-4c.4](../../../../../../agents/bbugyi200.athena.sase-4c.4/README.md) | completed | — | 2026-06-04T15:58:38+00:00 → 2026-06-04T15:58:38+00:00 | 1 | — |

@@ -12,6 +12,7 @@
 - Provider: claude
 - Timing: 2026-07-08T21:30:55.187130+00:00
 - Commits: [1](#commits)
+- Variables: [5](#variables)
 
 ## Files
 
@@ -22,6 +23,16 @@
 | Commit | Subject | Committed (UTC) |
 |---|---|---|
 | [`e16ac98`](https://github.com/sase-org/sase/commit/e16ac986f5c1918e4d438df2bc6b378aa854c179) | docs: research xprompt-to-plang rename critique | 2026-07-08 21:38:05 |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `cheaper_fix` | document the x prefix and keep the prompt-language framing in prose instead of renaming |
+| `recommendation` | Do NOT rename xprompt to plang |
+| `report_path` | sdd/research/202607/xprompt\_to\_plang\_rename\_analysis.md |
+| `top_reason` | plang fails as a count noun (plangs: is nonsensical), collides with the sibling sase prompt command group, and clashes with an existing LLM prompt DSL already named Plang |
+| `verdict` | keep\_xprompt |
 
 ## Neighbors
 
@@ -86,4 +97,4 @@
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 222 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 223 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

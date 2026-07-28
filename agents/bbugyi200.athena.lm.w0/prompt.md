@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me review all recent work (see recent related git commits and sase epic beads) we have done on sase beads and look for any objective improvements/simplifications you can make or bugs you can fix? If you find any, use your /sase_plan skill to plan out the necessary changes. #m_fable %w:lm

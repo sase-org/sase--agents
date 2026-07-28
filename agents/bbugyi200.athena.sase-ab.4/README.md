@@ -19,6 +19,6 @@
 |---|---|---|
 | [sase-ab.1](../bbugyi200.athena.sase-ab.1/README.md) | sase-ab hood | completed |
 | [sase-ab.2](../bbugyi200.athena.sase-ab.2/README.md) | sase-ab hood | completed |
-| [sase-ab.3](../bbugyi200.athena.sase-ab.3/README.md) | sase-ab hood | active |
-| [sase-ab.5](../bbugyi200.athena.sase-ab.5/README.md) | sase-ab hood | waiting |
+| [sase-ab.3](../bbugyi200.athena.sase-ab.3/README.md) | sase-ab hood | completed |
+| [sase-ab.5](../bbugyi200.athena.sase-ab.5/README.md) | sase-ab hood | active |
 | [sase-ab.land](../bbugyi200.athena.sase-ab.land/README.md) | sase-ab hood | waiting |

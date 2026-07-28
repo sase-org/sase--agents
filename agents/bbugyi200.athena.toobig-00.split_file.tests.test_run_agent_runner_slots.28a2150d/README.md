@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-00.split\_file.src.sase.axe.run\_agent\_wait.77d2b8bf](../bbugyi200.athena.toobig-00.split_file.src.sase.axe.run_agent_wait.77d2b8bf/README.md) | toobig-00.split\_file hood | completed |
+| [toobig-00.split\_file.src.sase.axe.run\_agent\_wait.77d2b8bf](../bbugyi200.athena.toobig-00.split_file.src.sase.axe.run_agent_wait.77d2b8bf/README.md) | toobig-00.split\_file hood | active |

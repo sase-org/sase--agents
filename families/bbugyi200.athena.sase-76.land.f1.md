@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-76.land.f1--plan | active | gpt-5.6-sol / codex | 2026-07-19T16:56:09.613602+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-76.land.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-76.land.f1--plan/chat.md) |
-| <a id="member-code"></a>code | sase-76.land.f1--code | completed | gpt-5.6-sol / codex | 2026-07-19T17:02:41.836533+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-76.land.f1--code/chat.md) |
+| <a id="member-code"></a>code | sase-76.land.f1--code | completed | gpt-5.6-sol / codex | 2026-07-19T17:02:41.836533+00:00 | [1](../agents/bbugyi200.athena.sase-76.land.f1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-76.land.f1--code/chat.md) |
+
+## Commits
+
+| Role | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| code | [`24a5fb6`](https://github.com/sase-org/sase/commit/24a5fb69cba6a31215ea88ef1a59c3af6d97357c) | fix(ace): restore contextual query shortcuts | 2026-07-19 17:42:12 |
 
 ## Neighbors
 

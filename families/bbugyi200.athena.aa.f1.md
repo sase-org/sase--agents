@@ -18,13 +18,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-root"></a>root | aa.f1 | active | gpt-5.6-sol / codex | 2026-07-16T13:42:57.084339+00:00 | [1](../agents/bbugyi200.athena.aa.f1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.aa.f1/prompt.md) | [Chat](../agents/bbugyi200.athena.aa.f1/chat.md) |
-| <a id="member-code"></a>code | aa.f1--code | completed | gpt-5.6-sol / codex | 2026-07-16T13:47:19.140405+00:00 | [1](../agents/bbugyi200.athena.aa.f1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.aa.f1--code/chat.md) |
+| <a id="member-code"></a>code | aa.f1--code | completed | gpt-5.6-sol / codex | 2026-07-16T13:47:19.140405+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.aa.f1--code/chat.md) |
 
 ## Commits
 
 | Role | Commit | Subject | Committed (UTC) |
 |---|---|---|---|
-| code | [`147090d`](https://github.com/sase-org/sase/commit/147090de1a6cbac42d11c2efa30dbd321c85fa81) | feat(ace): make update check interval configurable | 2026-07-16 14:02:09 |
 | root | [`147090d`](https://github.com/sase-org/sase/commit/147090de1a6cbac42d11c2efa30dbd321c85fa81) | feat(ace): make update check interval configurable | 2026-07-16 14:02:09 |
 
 ## Neighbors

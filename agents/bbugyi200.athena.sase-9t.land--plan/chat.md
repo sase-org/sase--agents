@@ -4,6 +4,11 @@
 - **MODEL:** claude/claude-fable-5
 - **AGENT:** sase-9t.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_9t_land__plan-260726_085422.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_9t_land__code-260726_085422.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/release_core_and_land_axe_descriptions.md
 
 

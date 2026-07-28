@@ -12,6 +12,7 @@
 - Provider: claude
 - Timing: 2026-07-11T23:03:56.980578+00:00
 - Commits: [1](#commits)
+- Variables: [7](#variables)
 
 ## Files
 
@@ -22,6 +23,20 @@
 | Commit | Subject | Committed (UTC) |
 |---|---|---|
 | [`690d4a3`](https://github.com/sase-org/sase/commit/690d4a3bee64454f19ba9f9252e1f405d14f171f) | chore: consolidate repeat STOP variable research into one doc | 2026-06-11 23:21:00 |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `core_mechanism` | Self-cleaning bead-keyed in-code expiry markers hard-enforced in just check, generalizing the existing pyvision --epic-symbol loop |
+| `recommendation` | Layered lifecycle system: one structured BACKCOMPAT\[bead-id\] in-code marker per shim (source of truth), enforced by a bead-aware \_lint-backcompat stage in just check (modeled on pyvision --epic-symbol… |
+| `research_dir` | .sase/sdd/research/backcompat\_lifecycle\_governance |
+| `research_file` | .sase/sdd/research/backcompat\_lifecycle\_governance/backcompat\_lifecycle\_governance.md |
+| `source_a` | .sase/sdd/research/backcompat\_lifecycle\_governance/backcompat\_lifecycle\_governance\_\_a.md |
+| `source_b` | .sase/sdd/research/backcompat\_lifecycle\_governance/backcompat\_lifecycle\_governance\_\_b.md |
+| `status` | ok |
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -80,4 +95,4 @@
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 228 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 229 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

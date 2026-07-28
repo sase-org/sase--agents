@@ -18,13 +18,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-root"></a>root | c2 | active | gpt-5.6-sol / codex | 2026-07-17T15:36:01.742409+00:00 | [1](../agents/bbugyi200.athena.c2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.c2/prompt.md) | [Chat](../agents/bbugyi200.athena.c2/chat.md) |
-| <a id="member-code"></a>code | c2--code | completed | gpt-5.6-sol / codex | 2026-07-17T15:45:37.033809+00:00 | [1](../agents/bbugyi200.athena.c2--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.c2--code/chat.md) |
+| <a id="member-code"></a>code | c2--code | completed | gpt-5.6-sol / codex | 2026-07-17T15:45:37.033809+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.c2--code/chat.md) |
 
 ## Commits
 
 | Role | Commit | Subject | Committed (UTC) |
 |---|---|---|---|
-| code | [`4dc5ca6`](https://github.com/sase-org/sase/commit/4dc5ca609890eee56a780793e997709de57de52b) | fix(ace): project parallel family status counts | 2026-07-17 16:09:10 |
 | root | [`4dc5ca6`](https://github.com/sase-org/sase/commit/4dc5ca609890eee56a780793e997709de57de52b) | fix(ace): project parallel family status counts | 2026-07-17 16:09:10 |
 
 ## Neighbors

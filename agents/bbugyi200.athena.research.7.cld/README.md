@@ -12,6 +12,7 @@
 - Provider: claude
 - Timing: 2026-07-11T15:46:32.244105+00:00
 - Commits: [1](#commits)
+- Variables: [6](#variables)
 
 ## Files
 
@@ -22,6 +23,17 @@
 | Commit | Subject | Committed (UTC) |
 |---|---|---|
 | [`1d1602a`](https://github.com/sase-org/sase/commit/1d1602a6aa27f9e6a4fb2b511f66e5245a6daaff) | chore: add second research pass on TUI screenshots and demo videos | 2026-06-11 22:21:19 |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `caveat` | prepend/append-to-first-agent is not universal: no-agent and conditional-entry workflows (eval\_parallel, eval\_ifs\_loops, sync) have no meaningful agent slot |
+| `claim1_why_standalone_exists` | confirmed |
+| `claim2_prepend_to_first_agent` | partially\_confirmed |
+| `recommendation` | remove\_bang\_marker |
+| `research_doc` | .sase/sdd/research/202607/standalone\_xprompt\_bang\_marker\_removal\_20260711.md |
+| `verdict` | Remove #! and unify on #; the marker is redundant with prompt\_part structure and only produces wrong-sigil errors |
 
 ## Neighbors
 
@@ -80,4 +92,4 @@
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 228 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 229 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

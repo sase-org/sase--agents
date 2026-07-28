@@ -33,6 +33,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [s.w1](../agents/bbugyi200.athena.s.w1/README.md) | descendant | active |
-| [s.w1.f1](../agents/bbugyi200.athena.s.w1.f1/README.md) | descendant | dismissed |
-| [s.w1.f1.f1.f1](../agents/bbugyi200.athena.s.w1.f1.f1.f1/README.md) | descendant | dismissed |
+| [s.w1.f1](../agents/bbugyi200.athena.s.w1.f1/README.md) | descendant | completed |
+| [s.w1.f1.f1.f1](../agents/bbugyi200.athena.s.w1.f1.f1.f1/README.md) | descendant | completed |
 | [s.w1.w1](bbugyi200.athena.s.w1.w1.md) (family · 2) | descendant | active 1, completed 1 |

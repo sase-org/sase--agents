@@ -31,7 +31,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [43.f1](../agents/bbugyi200.athena.43.f1/README.md) | descendant | dismissed |
-| [43.f1.f1](../agents/bbugyi200.athena.43.f1.f1/README.md) | descendant | dismissed |
-| [43.f1.f1.f1.cld.f1](../agents/bbugyi200.athena.43.f1.f1.f1.cld.f1/README.md) | descendant | dismissed |
-| [43.f1.f1.f1.cld.f1.f1.cdx.f1.cld](../agents/bbugyi200.athena.43.f1.f1.f1.cld.f1.f1.cdx.f1.cld/README.md) | descendant | dismissed |
+| [43.f1](../agents/bbugyi200.athena.43.f1/README.md) | descendant | completed |
+| [43.f1.f1](../agents/bbugyi200.athena.43.f1.f1/README.md) | descendant | completed |
+| [43.f1.f1.f1.cld.f1](../agents/bbugyi200.athena.43.f1.f1.f1.cld.f1/README.md) | descendant | completed |
+| [43.f1.f1.f1.cld.f1.f1.cdx.f1.cld](../agents/bbugyi200.athena.43.f1.f1.f1.cld.f1.f1.cdx.f1.cld/README.md) | descendant | completed |

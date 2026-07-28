@@ -18,12 +18,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-root"></a>root | 1p | active | gpt-5.5 / codex | 2026-07-08T04:07:11.653877+00:00 | [2](../agents/bbugyi200.athena.1p/README.md#commits) | [Prompt](../agents/bbugyi200.athena.1p/prompt.md) | [Chat](../agents/bbugyi200.athena.1p/chat.md) |
-| <a id="member-code"></a>code | 1p--code | completed | gpt-5.5 / codex | 2026-07-08T04:10:13.931763+00:00 | [1](../agents/bbugyi200.athena.1p--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.1p--code/chat.md) |
+| <a id="member-code"></a>code | 1p--code | completed | gpt-5.5 / codex | 2026-07-08T04:10:13.931763+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.1p--code/chat.md) |
 
 ## Commits
 
 | Role | Commit | Subject | Committed (UTC) |
 |---|---|---|---|
 | root | [`24c7cf6`](https://github.com/sase-org/sase/commit/24c7cf6691b88f30f6b00ded45a0ecd750a12d84) | chore: Add SDD prompt and plan for phase\_bead\_epic\_plan | 2026-07-08 04:10:12 |
-| code | [`36f89b7`](https://github.com/sase-org/sase/commit/36f89b7724fd2b67920769b4c452dd4e9f72dfe5) | feat(bead): show parent epic plans for phase beads | 2026-07-08 04:21:56 |
 | root | [`36f89b7`](https://github.com/sase-org/sase/commit/36f89b7724fd2b67920769b4c452dd4e9f72dfe5) | feat(bead): show parent epic plans for phase beads | 2026-07-08 04:21:56 |

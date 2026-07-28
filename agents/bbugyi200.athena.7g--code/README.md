@@ -11,14 +11,8 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-13T11:03:07.990449+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md)
-
-## Commits
-
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`836d738`](https://github.com/sase-org/sase/commit/836d73818b0218403744da2ff32d3133679bf2fc) | fix: release failed workspaces without visible notifications | 2026-07-13 11:13:16 |

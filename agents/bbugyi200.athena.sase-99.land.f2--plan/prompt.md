@@ -1,0 +1,2 @@
+#gh:gh_sase-org__sase
+#fork:sase-99.land Can you now help me make sure that agents that are named the same as one of an agent's hoods (and vice-versa) are matched as neighbors? This applied to both the new `NEIGHBORS` metadata panel section as well as the `~` (neighbors) keymap. #plan

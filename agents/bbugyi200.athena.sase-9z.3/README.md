@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-9z](../../users/bbugyi200/machines/athena/hoods/sase-9z/README.md) / sase-9z.3
 
-**Global name:** `bbugyi200.athena.sase-9z.3` · **State:** completed · **Source run:** `run-1c64014e2694f16092b065dca4d17182`
+**Global name:** `bbugyi200.athena.sase-9z.3` · **State:** dismissed · **Source run:** `run-1c64014e2694f16092b065dca4d17182`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-9z
 
@@ -10,12 +10,12 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-07-27T13:55:45.246509+00:00
+- Timing: 2026-07-27T09:55:45.246509 → 2026-07-27T10:16:55.170764
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -27,9 +27,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-9z.1](../bbugyi200.athena.sase-9z.1/README.md) | sase-9z hood | completed |
-| [sase-9z.2](../bbugyi200.athena.sase-9z.2/README.md) | sase-9z hood | completed |
-| [sase-9z.4](../bbugyi200.athena.sase-9z.4/README.md) | sase-9z hood | dismissed |
-| [sase-9z.5](../../families/bbugyi200.athena.sase-9z.5.md) (family · 2) | sase-9z hood | completed 2 |
+| [sase-9z.1](../bbugyi200.athena.sase-9z.1/README.md) | sase-9z hood | dismissed |
+| [sase-9z.2](../bbugyi200.athena.sase-9z.2/README.md) | sase-9z hood | dismissed |
+| [sase-9z.4](../bbugyi200.athena.sase-9z.4/README.md) | sase-9z hood | active |
+| [sase-9z.5](../../families/bbugyi200.athena.sase-9z.5.md) (family · 2) | sase-9z hood | completed 1, dismissed 1 |
 | [sase-9z.5](../bbugyi200.athena.sase-9z.5/README.md) | sase-9z hood | completed |
-| [sase-9z.land](../bbugyi200.athena.sase-9z.land/README.md) | sase-9z hood | active |
+| [sase-9z.land](../bbugyi200.athena.sase-9z.land/README.md) | sase-9z hood | dismissed |

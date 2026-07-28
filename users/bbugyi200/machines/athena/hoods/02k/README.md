@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 02k
 
-**Global hood:** `bbugyi200.athena.02k` · **Runs:** 4 · **Families:** 0 · **States:** dismissed 4
+**Global hood:** `bbugyi200.athena.02k` · **Runs:** 4 · **Families:** 0 · **States:** completed 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [02k.w1.f1.f1](../../../../../../agents/bbugyi200.athena.02k.w1.f1.f1/README.md) | dismissed | — | 2059-08-02T20:42:18+00:00 → 2059-08-02T20:42:18+00:00 | 2 | — |
-| [02k.w1.f1](../../../../../../agents/bbugyi200.athena.02k.w1.f1/README.md) | dismissed | — | 2062-12-12T04:35:43+00:00 → 2062-12-12T04:35:43+00:00 | 2 | — |
-| [02k.w1](../../../../../../agents/bbugyi200.athena.02k.w1/README.md) | dismissed | — | 2133-12-12T01:33:57+00:00 → 2133-12-12T01:33:57+00:00 | 2 | — |
-| [02k](../../../../../../agents/bbugyi200.athena.02k/README.md) | dismissed | — | 2124-04-03T01:23:47+00:00 → 2124-04-03T01:23:47+00:00 | 2 | — |
+| [02k.w1.f1.f1](../../../../../../agents/bbugyi200.athena.02k.w1.f1.f1/README.md) | completed | — | 2026-06-20T21:03:43+00:00 → 2026-06-20T21:44:55+00:00 | 2 | — |
+| [02k](../../../../../../agents/bbugyi200.athena.02k/README.md) | completed | — | 2026-06-20T19:15:36+00:00 → 2026-06-20T19:20:52+00:00 | 2 | — |
+| [02k.w1](../../../../../../agents/bbugyi200.athena.02k.w1/README.md) | completed | — | 2026-06-20T19:33:39+00:00 → 2026-06-20T19:56:48+00:00 | 2 | — |
+| [02k.w1.f1](../../../../../../agents/bbugyi200.athena.02k.w1.f1/README.md) | completed | — | 2026-06-20T20:19:12+00:00 → 2026-06-20T20:38:02+00:00 | 2 | — |

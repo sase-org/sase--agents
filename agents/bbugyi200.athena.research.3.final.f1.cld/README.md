@@ -12,10 +12,24 @@
 - Provider: claude
 - Timing: 2026-07-08T21:56:22.103166+00:00
 - Commits: 0
+- Variables: [6](#variables)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `confidence` | high |
+| `count_noun_objection` | Resolved: as an opaque count noun, plang supports plang parts, plang markdown files, and plang workflow YAML just like xprompt does today. |
+| `decisive_objection` | External collision with Plang (plang.is / the LLM prompt-language paper) is a spelling clash that pronunciation cannot fix; rhyming with hang worsens the spoken clash too. |
+| `recommendation` | Still do not rename; the reframing fixes a real objection but not the decisive one. |
+| `self_defeating` | Declaring plang opaque throws away its only advantage, the transparent prompt-language meaning, leaving an arbitrary token that still collides and is strictly worse than the self-documenting xprompt. |
+| `summary` | You are right that plang can work as an opaque count noun with the parts/markdown/workflow distinctions preserved, but that move concedes plang's semantic upside while leaving the Plang namespace coll… |
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -80,4 +94,4 @@
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 222 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 223 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

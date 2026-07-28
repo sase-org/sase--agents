@@ -24,8 +24,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [6f.cld](../agents/bbugyi200.athena.6f.cld/README.md) | descendant | dismissed |
-| [6f.cld.f1.cdx](../agents/bbugyi200.athena.6f.cld.f1.cdx/README.md) | descendant | dismissed |
-| [6f.cld.f1.cdx.f1](../agents/bbugyi200.athena.6f.cld.f1.cdx.f1/README.md) | descendant | dismissed |
+| [6f.cld](../agents/bbugyi200.athena.6f.cld/README.md) | descendant | completed |
+| [6f.cld.f1.cdx](../agents/bbugyi200.athena.6f.cld.f1.cdx/README.md) | descendant | completed |
+| [6f.cld.f1.cdx.f1](../agents/bbugyi200.athena.6f.cld.f1.cdx.f1/README.md) | descendant | completed |
 | [6f.f-0](../agents/bbugyi200.athena.6f.f-0/README.md) | descendant | waiting |
 | [6f.f-1](../agents/bbugyi200.athena.6f.f-1/README.md) | descendant | active |

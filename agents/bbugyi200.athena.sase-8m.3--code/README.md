@@ -31,5 +31,5 @@
 | [sase-8m.1](../bbugyi200.athena.sase-8m.1/README.md) | sase-8m hood | completed |
 | [sase-8m.2](../../families/bbugyi200.athena.sase-8m.2.md) (family · 2) | sase-8m hood | active 2 |
 | [sase-8m.2](../bbugyi200.athena.sase-8m.2/README.md) | sase-8m hood | completed |
-| [sase-8m.4](../bbugyi200.athena.sase-8m.4/README.md) | sase-8m hood | completed |
-| [sase-8m.land](../bbugyi200.athena.sase-8m.land/README.md) | sase-8m hood | completed |
+| [sase-8m.4](../bbugyi200.athena.sase-8m.4/README.md) | sase-8m hood | active |
+| [sase-8m.land](../bbugyi200.athena.sase-8m.land/README.md) | sase-8m hood | active |

@@ -21,8 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [6f.cld](../bbugyi200.athena.6f.cld/README.md) | descendant | dismissed |
-| [6f.cld.f1.cdx](../bbugyi200.athena.6f.cld.f1.cdx/README.md) | descendant | dismissed |
-| [6f.cld.f1.cdx.f1](../bbugyi200.athena.6f.cld.f1.cdx.f1/README.md) | descendant | dismissed |
+| [6f.cld](../bbugyi200.athena.6f.cld/README.md) | descendant | completed |
+| [6f.cld.f1.cdx](../bbugyi200.athena.6f.cld.f1.cdx/README.md) | descendant | completed |
+| [6f.cld.f1.cdx.f1](../bbugyi200.athena.6f.cld.f1.cdx.f1/README.md) | descendant | completed |
 | [6f.f-0](../bbugyi200.athena.6f.f-0/README.md) | descendant | waiting |
 | [6f.f-1](../bbugyi200.athena.6f.f-1/README.md) | descendant | active |

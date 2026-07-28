@@ -18,13 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-8g.6--plan | active | gpt-5.6-sol / codex | 2026-07-20T20:37:40.063680+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-8g.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-8g.6--plan/chat.md) |
-| <a id="member-code"></a>code | sase-8g.6--code | completed | gpt-5.6-sol / codex | 2026-07-20T20:43:20.467554+00:00 | [1](../agents/bbugyi200.athena.sase-8g.6--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-8g.6--code/chat.md) |
-
-## Commits
-
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`4103e91`](https://github.com/sase-org/sase/commit/4103e9154d3f239a7652da06a30764a957aefe10) | fix(axe): damp restart storms (sase-8g.6) | 2026-07-20 21:15:48 |
+| <a id="member-code"></a>code | sase-8g.6--code | completed | gpt-5.6-sol / codex | 2026-07-20T20:43:20.467554+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-8g.6--code/chat.md) |
 
 ## Neighbors
 

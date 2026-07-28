@@ -12,6 +12,7 @@
 - Provider: codex
 - Timing: 2026-07-11T15:46:29.192524+00:00
 - Commits: [1](#commits)
+- Variables: [5](#variables)
 
 ## Files
 
@@ -22,6 +23,16 @@
 | Commit | Subject | Committed (UTC) |
 |---|---|---|
 | [`b814527`](https://github.com/sase-org/sase/commit/b8145272f0c31d51d30db3a7512d14898169b36a) | chore: add TUI media research | 2026-06-11 22:12:12 |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `claim_assessment` | core\_first\_agent\_splicing\_claim\_denied |
+| `recommendation` | keep\_standalone\_xprompt\_workflows\_and\_bang\_syntax |
+| `remove_bang_syntax` | no |
+| `remove_standalone_xprompt_workflows` | no |
+| `research_path` | /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase\_11/.sase/sdd/research/202607/standalone\_xprompt\_workflow\_reconsideration.md |
 
 ## Neighbors
 
@@ -80,4 +91,4 @@
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 228 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 229 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

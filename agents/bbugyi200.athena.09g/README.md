@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [09g](../../users/bbugyi200/machines/athena/hoods/09g/README.md) / 09g
 
-**Global name:** `bbugyi200.athena.09g` · **State:** dismissed · **Source run:** `run-8fe578025b1b4842efbcdcb83f0800c3`
+**Global name:** `bbugyi200.athena.09g` · **State:** completed · **Source run:** `run-0897f46aa9ae216de0a6d92f99a93e12`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 09g
 
@@ -10,7 +10,7 @@
 
 - Model: —
 - Provider: —
-- Timing: 2088-10-24T11:56:26+00:00 → 2088-10-24T11:56:26+00:00
+- Timing: 2026-06-29T10:59:15+00:00 → 2026-06-29T11:14:39+00:00
 - Commits: [2](#commits)
 
 ## Commits
@@ -24,4 +24,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [09g.f1](../bbugyi200.athena.09g.f1/README.md) | descendant | dismissed |
+| [09g.f1](../bbugyi200.athena.09g.f1/README.md) | descendant | completed |

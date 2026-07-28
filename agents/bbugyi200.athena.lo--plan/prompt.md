@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me remove the `,?  ]  tab guide` shown at the top of the AXE tab (see #sshot)? #plan

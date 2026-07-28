@@ -12,6 +12,7 @@
 - Provider: codex
 - Timing: 2026-07-09T20:09:34.077561+00:00
 - Commits: [1](#commits)
+- Variables: [8](#variables)
 
 ## Files
 
@@ -22,6 +23,19 @@
 | Commit | Subject | Committed (UTC) |
 |---|---|---|
 | [`5c71a37`](https://github.com/sase-org/sase/commit/5c71a376147546f5122ba5d389c029c70bb46792) | chore: add Zep memory framework research | 2026-06-11 11:48:50 |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `answer` | Use a machine-local SDD cache plus per-agent isolated worktrees/reference clones; avoid one shared mutable checkout unless every SDD write is brokered under an exclusive transaction lock. |
+| `concurrency_solution` | Use mandatory store-identity lock/broker for any single shared mutable checkout; otherwise keep isolated writable views. |
+| `confidence` | high |
+| `recommendation` | shared\_cache\_per\_agent\_worktree |
+| `research_path` | .sase/sdd/research/202607/shared\_sdd\_clone\_research.md |
+| `shared_mutable_checkout_safe` | no |
+| `single_checkout_possible_with_lock` | yes\_but\_not\_recommended |
+| `status` | complete |
 
 ## Neighbors
 
@@ -80,4 +94,4 @@
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 228 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 229 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

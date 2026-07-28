@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:km Can you now help me fix a related bug? Namely, it seems like we are not using the overridden values for model aliases when those model aliases are used as the values for other aliases. For example, in #sshot, the `@default` model has been overriden, so we should be using the overridden value. #plan

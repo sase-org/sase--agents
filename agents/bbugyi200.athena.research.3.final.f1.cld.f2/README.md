@@ -12,10 +12,25 @@
 - Provider: codex
 - Timing: 2026-07-08T22:06:38.257838+00:00
 - Commits: 0
+- Variables: [7](#variables)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `answer` | I overstated the case for xprompt: it describes prompt ancestry, not the actual object model, and that is a real disadvantage. |
+| `collision_factor` | ignored\_by\_user\_request |
+| `confidence` | medium\_high |
+| `plang_assessment` | If plang is an opaque count noun pronounced like hang, it works grammatically as plang/plangs and supports plang part, plang markdown file, and plang workflow YAML without implying the object is itsel… |
+| `revised_recommendation` | With implementation cost and external collisions excluded, I now lean toward renaming xprompt away from xprompt; plang is better than xprompt under these constraints, though it should be documented as… |
+| `xprompt_strength` | The x prefix separates it from raw prompt enough in text and commands, but it does not solve the spoken or conceptual confusion with prompt. |
+| `xprompt_weakness` | xprompt sounds like a subtype of prompt, but SASE xprompts can be prompt parts, multi-agent prompt bundles, markdown artifacts, or YAML workflows containing prompts plus shell/Python steps. |
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -80,4 +95,4 @@
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 222 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 223 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

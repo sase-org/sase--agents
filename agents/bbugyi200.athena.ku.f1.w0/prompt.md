@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Shouldn't the root-level agent selected in #sshot (named `sase-9m`) show its agent status as `QUEUED` instead of `WAITING`? Can you help me fix this? #plan %w:ku.f1

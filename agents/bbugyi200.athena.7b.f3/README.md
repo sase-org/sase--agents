@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [7b](../../users/bbugyi200/machines/athena/hoods/7b/README.md) / 7b.f3
 
-**Global name:** `bbugyi200.athena.7b.f3` · **State:** dismissed · **Source run:** `run-7afbf942be0ac568e45174dfd95ba873`
+**Global name:** `bbugyi200.athena.7b.f3` · **State:** completed · **Source run:** `run-3cc769e940095047dcf81c64718ce070`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 7b
 
@@ -10,7 +10,7 @@
 
 - Model: —
 - Provider: —
-- Timing: 2068-10-12T10:57:29+00:00 → 2068-10-12T10:57:29+00:00
+- Timing: 2026-06-14T16:48:49+00:00 → 2026-06-14T17:01:22+00:00
 - Commits: [2](#commits)
 
 ## Commits
@@ -25,4 +25,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [7b](../../families/bbugyi200.athena.7b.md) (family · 2) | ancestor | active 1, completed 1 |
-| [7b.f2](../bbugyi200.athena.7b.f2/README.md) | 7b hood | dismissed |
+| [7b.f2](../bbugyi200.athena.7b.f2/README.md) | 7b hood | completed |

@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [bqm](../../../../../../agents/bbugyi200.athena.bqm/README.md) | completed | — | — | 2 | — |
+| [bqm](../../../../../../agents/bbugyi200.athena.bqm/README.md) | completed | — | 2026-06-01T12:28:37+00:00 → 2026-06-01T12:36:42+00:00 | 2 | — |

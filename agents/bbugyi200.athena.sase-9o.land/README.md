@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,8 +27,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-9o.1](../bbugyi200.athena.sase-9o.1/README.md) | sase-9o hood | completed |
-| [sase-9o.2](../bbugyi200.athena.sase-9o.2/README.md) | sase-9o hood | completed |
-| [sase-9o.3](../bbugyi200.athena.sase-9o.3/README.md) | sase-9o hood | completed |
-| [sase-9o.4](../bbugyi200.athena.sase-9o.4/README.md) | sase-9o hood | completed |
-| [sase-9o.5](../bbugyi200.athena.sase-9o.5/README.md) | sase-9o hood | completed |
+| [sase-9o.1](../bbugyi200.athena.sase-9o.1/README.md) | sase-9o hood | active |
+| [sase-9o.2](../bbugyi200.athena.sase-9o.2/README.md) | sase-9o hood | active |
+| [sase-9o.3](../bbugyi200.athena.sase-9o.3/README.md) | sase-9o hood | active |
+| [sase-9o.4](../bbugyi200.athena.sase-9o.4/README.md) | sase-9o hood | active |
+| [sase-9o.5](../bbugyi200.athena.sase-9o.5/README.md) | sase-9o hood | active |

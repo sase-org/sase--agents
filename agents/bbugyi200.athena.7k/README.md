@@ -28,4 +28,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [7k.f1](../bbugyi200.athena.7k.f1/README.md) | descendant | dismissed |
+| [7k.f1](../bbugyi200.athena.7k.f1/README.md) | descendant | completed |

@@ -11,17 +11,11 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-20T20:43:20.467554+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md)
-
-## Commits
-
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4103e91`](https://github.com/sase-org/sase/commit/4103e9154d3f239a7652da06a30764a957aefe10) | fix(axe): damp restart storms (sase-8g.6) | 2026-07-20 21:15:48 |
 
 ## Neighbors
 

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start having the TUI remember the last chosen "SASE Admin Center" tab that is used by the `##` keymap (see the `#  resume Tasks` line in #sshot for context) across TUI restarts (or even machine restarts) by writing (without blocking the TUI) this information to disk somewhere? #plan

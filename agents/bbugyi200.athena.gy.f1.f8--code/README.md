@@ -11,17 +11,11 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-21T14:06:12.861434+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md)
-
-## Commits
-
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`58bacaf`](https://github.com/sase-org/sase/commit/58bacaf668db5541554a49922203b828df9de916) | feat!: simplify phase model aliases | 2026-07-21 14:32:49 |
 
 ## Neighbors
 

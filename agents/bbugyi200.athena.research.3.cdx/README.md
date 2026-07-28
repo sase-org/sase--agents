@@ -12,6 +12,7 @@
 - Provider: codex
 - Timing: 2026-07-08T21:30:53.322345+00:00
 - Commits: [1](#commits)
+- Variables: [4](#variables)
 
 ## Files
 
@@ -22,6 +23,17 @@
 | Commit | Subject | Committed (UTC) |
 |---|---|---|
 | [`72bd50b`](https://github.com/sase-org/sase/commit/72bd50b8b33bc074af28458bc560fbdbfc974b94) | docs: add xprompt plang rename research | 2026-07-08 21:36:04 |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `confidence` | high |
+| `recommendation` | do\_not\_rename\_xprompt\_to\_plang |
+| `research_path` | sdd/research/202607/xprompt\_plang\_rename\_research.md |
+| `summary` | Do not move forward with the rename. Plang is less semantically precise, blurs SASE's prompt/xprompt/workflow/directive taxonomy, and has direct prompt-language naming collisions. Keep xprompt; option… |
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -86,4 +98,4 @@
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 222 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 223 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

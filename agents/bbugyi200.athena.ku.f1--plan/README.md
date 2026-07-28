@@ -22,3 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [ku](../bbugyi200.athena.ku/README.md) | ancestor | completed |
+| [ku.f1.w0](../bbugyi200.athena.ku.f1.w0/README.md) | descendant | waiting |

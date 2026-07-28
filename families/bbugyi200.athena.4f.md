@@ -35,5 +35,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [4f.f-1](../agents/bbugyi200.athena.4f.f-1/README.md) | descendant | active |
 | [4f.f-2](../agents/bbugyi200.athena.4f.f-2/README.md) | descendant | active |
 | [4f.f-3](bbugyi200.athena.4f.f-3.md) (family · 2) | descendant | active 1, completed 1 |
-| [4f.f1](../agents/bbugyi200.athena.4f.f1/README.md) | descendant | dismissed |
-| [4f.f1.f1](../agents/bbugyi200.athena.4f.f1.f1/README.md) | descendant | dismissed |
+| [4f.f1](../agents/bbugyi200.athena.4f.f1/README.md) | descendant | completed |
+| [4f.f1.f1](../agents/bbugyi200.athena.4f.f1.f1/README.md) | descendant | completed |

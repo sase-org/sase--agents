@@ -6,5 +6,5 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [bpq](../../../../../../agents/bbugyi200.athena.bpq/README.md) | completed | — | — | 1 | — |
-| [bpq.f1](../../../../../../agents/bbugyi200.athena.bpq.f1/README.md) | completed | — | — | 1 | — |
+| [bpq](../../../../../../agents/bbugyi200.athena.bpq/README.md) | completed | — | 2026-05-30T19:44:29+00:00 → 2026-05-30T19:44:29+00:00 | 1 | — |
+| [bpq.f1](../../../../../../agents/bbugyi200.athena.bpq.f1/README.md) | completed | — | 2026-05-30T20:45:42+00:00 → 2026-05-30T20:45:42+00:00 | 1 | — |

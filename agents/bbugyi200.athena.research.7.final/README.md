@@ -12,6 +12,7 @@
 - Provider: codex
 - Timing: 2026-07-11T15:55:52.249788+00:00
 - Commits: [1](#commits)
+- Variables: [7](#variables)
 
 ## Files
 
@@ -22,6 +23,18 @@
 | Commit | Subject | Committed (UTC) |
 |---|---|---|
 | [`0dc540d`](https://github.com/sase-org/sase/commit/0dc540d15e577e58524eebfa4f05739eebae8ea5) | chore: consolidate TUI screenshot/demo-video research into one doc | 2026-06-11 22:26:58 |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `claim_assessment` | missing\_prompt\_part\_confirmed\_universal\_splicing\_denied |
+| `first_agent_splicing` | reject\_as\_general\_rule |
+| `recommendation` | remove\_bang\_marker\_keep\_standalone\_semantics |
+| `remove_bang_syntax` | yes |
+| `remove_standalone_semantics` | no |
+| `research_path` | /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase\_11/.sase/sdd/research/202607/standalone\_xprompt\_final\_research\_20260711.md |
+| `verification` | 145 focused tests passed |
 
 ## Neighbors
 
@@ -80,4 +93,4 @@
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 228 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 229 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

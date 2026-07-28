@@ -11,14 +11,8 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-21T12:10:26.258344+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md)
-
-## Commits
-
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6cbb38f`](https://github.com/sase-org/sase/commit/6cbb38faf62635b8e070ec66347ff118c2d6bd3d) | fix(ace): enable view hints for agent families | 2026-07-21 12:26:34 |

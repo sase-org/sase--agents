@@ -10,7 +10,7 @@
 
 - Model: —
 - Provider: —
-- Timing: —
+- Timing: 2026-07-23T13:04:22+00:00 → 2026-07-23T13:04:22+00:00
 - Commits: [1](#commits)
 
 ## Commits
@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8u.1](../../families/bbugyi200.athena.sase-8u.1.md) (family · 2) | sase-8u hood | completed 2 |
-| [sase-8u.3](../bbugyi200.athena.sase-8u.3/README.md) | sase-8u hood | completed |
+| [sase-8u.1](../../families/bbugyi200.athena.sase-8u.1.md) (family · 2) | sase-8u hood | active 1, completed 1 |
+| [sase-8u.3](../bbugyi200.athena.sase-8u.3/README.md) | sase-8u hood | active |
 | [sase-8u.4.1](../../families/bbugyi200.athena.sase-8u.4.1.md) (family · 2) | sase-8u hood | active 1, completed 1 |
-| [sase-8u.land](../bbugyi200.athena.sase-8u.land/README.md) | sase-8u hood | failed |
+| [sase-8u.land](../bbugyi200.athena.sase-8u.land/README.md) | sase-8u hood | active |

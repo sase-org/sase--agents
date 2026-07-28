@@ -12,6 +12,7 @@
 - Provider: codex
 - Timing: 2026-07-11T22:57:37.826377+00:00
 - Commits: [1](#commits)
+- Variables: [4](#variables)
 
 ## Files
 
@@ -22,6 +23,15 @@
 | Commit | Subject | Committed (UTC) |
 |---|---|---|
 | [`4b7bccb`](https://github.com/sase-org/sase/commit/4b7bccbcc458cff2c6e276ad3daa723c8e1feaf6) | chore: add repeat STOP variable research | 2026-06-11 23:10:44 |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `default_windows` | Public: 90 days plus 2 feature releases; persisted data: 180 days plus 2 feature releases. |
+| `recommendation` | Use an expiring compatibility ledger linked to source/test markers and a pre-created removal bead; fail CI after both calendar and release thresholds pass. |
+| `research_path` | .sase/sdd/research/202607/backward\_compatibility\_sunset\_policy\_research.md |
+| `status` | complete |
 
 ## Neighbors
 
@@ -80,4 +90,4 @@
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 228 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 229 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

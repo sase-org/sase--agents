@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We already support custom colors for sase agent tribe's, but these colors are not applied everywhere a tribe's name and icon are shown (see the metadata panel's `Name:` field in ~/tmp/screenshots/20260726_075857.png, for example) Can you help me start using these custom colors everywhere agent tribe names/icons are shown in the TUI? #plan

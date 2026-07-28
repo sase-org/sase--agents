@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-8v` · Members: 2
 ```mermaid
 flowchart TD
   n0["sase-8v.5--code [completed]"]
-  n1["sase-8v.5--plan [completed]"]
+  n1["sase-8v.5--plan [active]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-8v.5--code | completed | gpt-5.6-sol / codex | 2026-07-24T18:30:10.344600+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-8v.5--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-8v.5--plan | completed | gpt-5.6-sol / codex | 2026-07-24T18:24:25.552655+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-8v.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-8v.5--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-8v.5--plan | active | gpt-5.6-sol / codex | 2026-07-24T18:24:25.552655+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-8v.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-8v.5--plan/chat.md) |
 
 ## Neighbors
 
@@ -26,22 +26,22 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-8v.1](bbugyi200.athena.sase-8v.1.md) (family · 2) | sase-8v hood | active 1, completed 1 |
 | [sase-8v.1](../agents/bbugyi200.athena.sase-8v.1/README.md) | sase-8v hood | completed |
-| [sase-8v.10](../agents/bbugyi200.athena.sase-8v.10/README.md) | sase-8v hood | completed |
+| [sase-8v.10](../agents/bbugyi200.athena.sase-8v.10/README.md) | sase-8v hood | active |
 | [sase-8v.2](bbugyi200.athena.sase-8v.2.md) (family · 2) | sase-8v hood | active 1, completed 1 |
 | [sase-8v.2](../agents/bbugyi200.athena.sase-8v.2/README.md) | sase-8v hood | completed |
 | [sase-8v.3](bbugyi200.athena.sase-8v.3.md) (family · 2) | sase-8v hood | active 1, completed 1 |
 | [sase-8v.3](../agents/bbugyi200.athena.sase-8v.3/README.md) | sase-8v hood | completed |
-| [sase-8v.4](bbugyi200.athena.sase-8v.4.md) (family · 2) | sase-8v hood | completed 2 |
+| [sase-8v.4](bbugyi200.athena.sase-8v.4.md) (family · 2) | sase-8v hood | active 1, completed 1 |
 | [sase-8v.4](../agents/bbugyi200.athena.sase-8v.4/README.md) | sase-8v hood | completed |
-| [sase-8v.6](../agents/bbugyi200.athena.sase-8v.6/README.md) | sase-8v hood | completed |
-| [sase-8v.7](bbugyi200.athena.sase-8v.7.md) (family · 2) | sase-8v hood | completed 2 |
+| [sase-8v.6](../agents/bbugyi200.athena.sase-8v.6/README.md) | sase-8v hood | active |
+| [sase-8v.7](bbugyi200.athena.sase-8v.7.md) (family · 2) | sase-8v hood | active 1, completed 1 |
 | [sase-8v.7](../agents/bbugyi200.athena.sase-8v.7/README.md) | sase-8v hood | completed |
-| [sase-8v.8](../agents/bbugyi200.athena.sase-8v.8/README.md) | sase-8v hood | completed |
+| [sase-8v.8](../agents/bbugyi200.athena.sase-8v.8/README.md) | sase-8v hood | active |
 | [sase-8v.9](../agents/bbugyi200.athena.sase-8v.9/README.md) | sase-8v hood | active |
-| [sase-8v.land](../agents/bbugyi200.athena.sase-8v.land/README.md) | sase-8v hood | completed |
+| [sase-8v.land](../agents/bbugyi200.athena.sase-8v.land/README.md) | sase-8v hood | active |
 | [sase-8v.land.f0](../agents/bbugyi200.athena.sase-8v.land.f0/README.md) | sase-8v hood | active |
 | [sase-8v.land.f1](../agents/bbugyi200.athena.sase-8v.land.f1/README.md) | sase-8v hood | active |
 | [sase-8v.land.f2](../agents/bbugyi200.athena.sase-8v.land.f2/README.md) | sase-8v hood | waiting |
 | [sase-8v.land.f3](../agents/bbugyi200.athena.sase-8v.land.f3/README.md) | sase-8v hood | waiting |
 | [sase-8v.land.w0](../agents/bbugyi200.athena.sase-8v.land.w0/README.md) | sase-8v hood | active |
-| [sase-8v.land.w2](../agents/bbugyi200.athena.sase-8v.land.w2/README.md) | sase-8v hood | dismissed |
+| [sase-8v.land.w2](../agents/bbugyi200.athena.sase-8v.land.w2/README.md) | sase-8v hood | active |

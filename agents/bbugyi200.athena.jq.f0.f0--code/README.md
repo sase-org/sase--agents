@@ -23,5 +23,5 @@
 |---|---|---|
 | [jq.f0](../bbugyi200.athena.jq.f0/README.md) | ancestor | completed |
 | [jq](../bbugyi200.athena.jq/README.md) | ancestor | completed |
-| [jq.f0.f1](../../families/bbugyi200.athena.jq.f0.f1.md) (family · 2) | jq.f0 hood | completed 1, dismissed 1 |
+| [jq.f0.f1](../../families/bbugyi200.athena.jq.f0.f1.md) (family · 2) | jq.f0 hood | active 1, completed 1 |
 | [jq.f0.f1](../bbugyi200.athena.jq.f0.f1/README.md) | jq.f0 hood | completed |

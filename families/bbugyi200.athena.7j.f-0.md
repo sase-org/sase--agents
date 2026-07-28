@@ -32,4 +32,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [7j](bbugyi200.athena.7j.md) (family · 2) | ancestor | active 1, completed 1 |
 | [7j.f-0.f0](bbugyi200.athena.7j.f-0.f0.md) (family · 2) | descendant | active 1, completed 1 |
-| [7j.f-0.f0](../agents/bbugyi200.athena.7j.f-0.f0/README.md) | descendant | dismissed |
+| [7j.f-0.f0](../agents/bbugyi200.athena.7j.f-0.f0/README.md) | descendant | completed |

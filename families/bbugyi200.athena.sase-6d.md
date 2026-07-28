@@ -18,15 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-root"></a>root | sase-6d | active | gpt-5.6-sol / codex | 2026-07-16T20:34:19.220895+00:00 | [2](../agents/bbugyi200.athena.sase-6d/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-6d/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-6d/chat.md) |
-| <a id="member-code"></a>code | sase-6d--code | completed | gpt-5.6-sol / codex | 2026-07-16T20:51:36.067611+00:00 | [2](../agents/bbugyi200.athena.sase-6d--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-6d--code/chat.md) |
+| <a id="member-code"></a>code | sase-6d--code | completed | gpt-5.6-sol / codex | 2026-07-16T20:51:36.067611+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-6d--code/chat.md) |
 
 ## Commits
 
 | Role | Commit | Subject | Committed (UTC) |
 |---|---|---|---|
-| code | [`aa38ebf`](https://github.com/sase-org/sase/commit/aa38ebf34fc2be9484d5b06f2c79c05a4e062725) | refactor!: remove unused content layout entry points (sase-6d) | 2026-07-16 21:11:11 |
 | root | [`aa38ebf`](https://github.com/sase-org/sase/commit/aa38ebf34fc2be9484d5b06f2c79c05a4e062725) | refactor!: remove unused content layout entry points (sase-6d) | 2026-07-16 21:11:11 |
-| code | [`50809bd`](https://github.com/sase-org/sase/commit/50809bdb85382fe20e9e502e2f14b15c37490728) | test: stabilize xprompt save visual snapshots (sase-6d) | 2026-07-16 21:11:46 |
 | root | [`50809bd`](https://github.com/sase-org/sase/commit/50809bdb85382fe20e9e502e2f14b15c37490728) | test: stabilize xprompt save visual snapshots (sase-6d) | 2026-07-16 21:11:46 |
 
 ## Neighbors

@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [2k.cdx](../agents/bbugyi200.athena.2k.cdx/README.md) | descendant | dismissed |
+| [2k.cdx](../agents/bbugyi200.athena.2k.cdx/README.md) | descendant | completed |

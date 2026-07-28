@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `ku` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["ku--plan [completed]"]
+  n0["ku--plan [active]"]
   n1["ku--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | ku--plan | completed | opus / claude | 2026-07-25T15:15:49.044149+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ku--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ku--plan/chat.md) |
+| <a id="member-plan"></a>plan | ku--plan | active | opus / claude | 2026-07-25T15:15:49.044149+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ku--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ku--plan/chat.md) |
 | <a id="member-code"></a>code | ku--code | completed | gpt-5.6-sol / codex | 2026-07-25T15:45:09.600483+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.ku--code/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [ku.f1](bbugyi200.athena.ku.f1.md) (family · 2) | descendant | active 2 |
+| [ku.f1](bbugyi200.athena.ku.f1.md) (family · 2) | descendant | active 1, completed 1 |
+| [ku.f1](../agents/bbugyi200.athena.ku.f1/README.md) | descendant | completed |
+| [ku.f1.w0](../agents/bbugyi200.athena.ku.f1.w0/README.md) | descendant | waiting |

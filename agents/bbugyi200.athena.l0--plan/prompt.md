@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase Pressing `<ctrl+j>` in the prompt input widget when there is only a single bullet should not clear the line and add a newline (like it should when there are one or more bullets defined above the current empty bullet). See #sshot for an example of what I'm talking about. Pressing `<ctrl+j>` at that moment should not clear the line, it should insert a new `- ` line below that line. If the user pressed `<ctrl+j>` again at that point, then that new line should be cleared and a newline added. Can you help me fix this?
+
+#plan

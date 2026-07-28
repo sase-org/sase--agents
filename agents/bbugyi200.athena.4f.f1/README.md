@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [4f](../../users/bbugyi200/machines/athena/hoods/4f/README.md) / 4f.f1
 
-**Global name:** `bbugyi200.athena.4f.f1` · **State:** dismissed · **Source run:** `run-4b7aa3576e94c9720e1d650029d1bc08`
+**Global name:** `bbugyi200.athena.4f.f1` · **State:** completed · **Source run:** `run-898f633143a80c2662e352a50da27e85`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 4f
 
@@ -10,7 +10,7 @@
 
 - Model: —
 - Provider: —
-- Timing: 2112-02-03T09:35:40+00:00 → 2112-02-03T09:35:40+00:00
+- Timing: 2026-06-09T20:26:24+00:00 → 2026-06-09T20:26:24+00:00
 - Commits: [1](#commits)
 
 ## Commits
@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [4f](../../families/bbugyi200.athena.4f.md) (family · 2) | ancestor | active 1, completed 1 |
-| [4f.f1.f1](../bbugyi200.athena.4f.f1.f1/README.md) | descendant | dismissed |
+| [4f.f1.f1](../bbugyi200.athena.4f.f1.f1/README.md) | descendant | completed |
 | [4f.f-0](../bbugyi200.athena.4f.f-0/README.md) | 4f hood | active |
 | [4f.f-1](../bbugyi200.athena.4f.f-1/README.md) | 4f hood | active |
 | [4f.f-2](../bbugyi200.athena.4f.f-2/README.md) | 4f hood | active |

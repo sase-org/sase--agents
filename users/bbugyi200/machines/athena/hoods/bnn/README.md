@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [bnn.f1.cdx](../../../../../../agents/bbugyi200.athena.bnn.f1.cdx/README.md) | completed | — | — | 2 | — |
+| [bnn.f1.cdx](../../../../../../agents/bbugyi200.athena.bnn.f1.cdx/README.md) | completed | — | 2026-05-28T18:31:04+00:00 → 2026-05-28T18:38:07+00:00 | 2 | — |

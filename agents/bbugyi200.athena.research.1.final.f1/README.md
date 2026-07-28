@@ -12,6 +12,7 @@
 - Provider: claude
 - Timing: 2026-07-08T05:03:12.150614+00:00
 - Commits: [3](#commits)
+- Variables: [4](#variables)
 
 ## Files
 
@@ -24,6 +25,15 @@
 | [`c4080bf`](https://github.com/sase-org/sase/commit/c4080bfd90e1fb151ae1e5e0e63da811277ef24a) | chore: Add SDD prompt and plan for doctor\_command\_mvp | 2026-06-09 15:52:58 |
 | [`f18855e`](https://github.com/sase-org/sase/commit/f18855e27fb72edb59ceceee12faf44d85ab3bf5) | chore: create doctor command mvp bead plan | 2026-06-09 15:57:13 |
 | [`cc91f9c`](https://github.com/sase-org/sase/commit/cc91f9ca4b4e63ce8b60a0322815f0124281ceab) | chore: scaffold sase doctor diagnostics epic and phase beads | 2026-07-08 05:31:45 |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `epic` | sase-5l |
+| `opus_verification_phase` | sase-5l.14 |
+| `phase_count` | 14 |
+| `phases` | sase-5l.1,sase-5l.2,sase-5l.3,sase-5l.4,sase-5l.5,sase-5l.6,sase-5l.7,sase-5l.8,sase-5l.9,sase-5l.10,sase-5l.11,sase-5l.12,sase-5l.13,sase-5l.14 |
 
 ## Neighbors
 
@@ -83,4 +93,4 @@
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 227 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 228 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

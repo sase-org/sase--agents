@@ -33,4 +33,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-a8.7](../agents/bbugyi200.athena.sase-a8.7/README.md) | sase-a8 hood | completed |
 | [sase-a8.8](../agents/bbugyi200.athena.sase-a8.8/README.md) | sase-a8 hood | completed |
 | [sase-a8.9](../agents/bbugyi200.athena.sase-a8.9/README.md) | sase-a8 hood | completed |
-| [sase-a8.land](../agents/bbugyi200.athena.sase-a8.land/README.md) | sase-a8 hood | active |
+| [sase-a8.land](../agents/bbugyi200.athena.sase-a8.land/README.md) | sase-a8 hood | failed |

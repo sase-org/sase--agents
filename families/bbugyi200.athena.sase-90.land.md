@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-90` · Members: 2
 ```mermaid
 flowchart TD
   n0["sase-90.land--code [completed]"]
-  n1["sase-90.land--plan [completed]"]
+  n1["sase-90.land--plan [active]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-90.land--code | completed | gpt-5.6-sol / codex | 2026-07-25T01:52:41.813693+00:00 | [1](../agents/bbugyi200.athena.sase-90.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-90.land--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-90.land--plan | completed | gpt-5.6-sol / codex | 2026-07-25T01:42:20.331655+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-90.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-90.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-90.land--plan | active | gpt-5.6-sol / codex | 2026-07-25T01:42:20.331655+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-90.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-90.land--plan/chat.md) |
 
 ## Commits
 
@@ -30,11 +30,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-90.1](../agents/bbugyi200.athena.sase-90.1/README.md) | sase-90 hood | completed |
-| [sase-90.2](../agents/bbugyi200.athena.sase-90.2/README.md) | sase-90 hood | completed |
-| [sase-90.3](../agents/bbugyi200.athena.sase-90.3/README.md) | sase-90 hood | completed |
-| [sase-90.4](../agents/bbugyi200.athena.sase-90.4/README.md) | sase-90 hood | completed |
-| [sase-90.5](../agents/bbugyi200.athena.sase-90.5/README.md) | sase-90 hood | completed |
-| [sase-90.6](../agents/bbugyi200.athena.sase-90.6/README.md) | sase-90 hood | completed |
-| [sase-90.7](../agents/bbugyi200.athena.sase-90.7/README.md) | sase-90 hood | completed |
-| [sase-90.8](../agents/bbugyi200.athena.sase-90.8/README.md) | sase-90 hood | completed |
+| [sase-90.1](../agents/bbugyi200.athena.sase-90.1/README.md) | sase-90 hood | active |
+| [sase-90.2](../agents/bbugyi200.athena.sase-90.2/README.md) | sase-90 hood | active |
+| [sase-90.3](../agents/bbugyi200.athena.sase-90.3/README.md) | sase-90 hood | active |
+| [sase-90.4](../agents/bbugyi200.athena.sase-90.4/README.md) | sase-90 hood | active |
+| [sase-90.5](../agents/bbugyi200.athena.sase-90.5/README.md) | sase-90 hood | active |
+| [sase-90.6](../agents/bbugyi200.athena.sase-90.6/README.md) | sase-90 hood | active |
+| [sase-90.7](../agents/bbugyi200.athena.sase-90.7/README.md) | sase-90 hood | active |
+| [sase-90.8](../agents/bbugyi200.athena.sase-90.8/README.md) | sase-90 hood | active |

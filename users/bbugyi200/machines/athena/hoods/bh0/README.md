@@ -6,6 +6,6 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [bh0](../../../../../../agents/bbugyi200.athena.bh0/README.md) | completed | — | — | 1 | — |
-| [bh0.f1.f1](../../../../../../agents/bbugyi200.athena.bh0.f1.f1/README.md) | completed | — | — | 1 | — |
-| [bh0.f1](../../../../../../agents/bbugyi200.athena.bh0.f1/README.md) | completed | — | — | 1 | — |
+| [bh0](../../../../../../agents/bbugyi200.athena.bh0/README.md) | completed | — | 2026-05-26T23:49:33+00:00 → 2026-05-26T23:49:33+00:00 | 1 | — |
+| [bh0.f1.f1](../../../../../../agents/bbugyi200.athena.bh0.f1.f1/README.md) | completed | — | 2026-05-26T23:59:29+00:00 → 2026-05-26T23:59:29+00:00 | 1 | — |
+| [bh0.f1](../../../../../../agents/bbugyi200.athena.bh0.f1/README.md) | completed | — | 2026-05-26T23:55:49+00:00 → 2026-05-26T23:55:49+00:00 | 1 | — |

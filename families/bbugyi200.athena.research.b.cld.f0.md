@@ -18,13 +18,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-root"></a>root | research.b.cld.f0 | active | claude-fable-5 / claude | 2026-07-14T11:31:47.972371+00:00 | [1](../agents/bbugyi200.athena.research.b.cld.f0/README.md#commits) | [Prompt](../agents/bbugyi200.athena.research.b.cld.f0/prompt.md) | [Chat](../agents/bbugyi200.athena.research.b.cld.f0/chat.md) |
-| <a id="member-code"></a>code | research.b.cld.f0--code | completed | gpt-5.6-sol / codex | 2026-07-14T11:38:57.812876+00:00 | [1](../agents/bbugyi200.athena.research.b.cld.f0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.research.b.cld.f0--code/chat.md) |
+| <a id="member-code"></a>code | research.b.cld.f0--code | completed | gpt-5.6-sol / codex | 2026-07-14T11:38:57.812876+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.b.cld.f0--code/chat.md) |
 
 ## Commits
 
 | Role | Commit | Subject | Committed (UTC) |
 |---|---|---|---|
-| code | [`d6771fe`](https://github.com/sase-org/sase/commit/d6771fe404545914ee60bef9026294b83d3276ec) | fix: require repo skill for repository web fetches | 2026-07-14 11:57:35 |
 | root | [`d6771fe`](https://github.com/sase-org/sase/commit/d6771fe404545914ee60bef9026294b83d3276ec) | fix: require repo skill for repository web fetches | 2026-07-14 11:57:35 |
 
 ## Neighbors
@@ -85,4 +84,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.0e.cld](../agents/bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../agents/bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../agents/bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 227 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 228 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

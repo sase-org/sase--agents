@@ -11,17 +11,11 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-06T18:44:19.279959+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md)
-
-## Commits
-
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4cce6a4`](https://github.com/sase-org/sase/commit/4cce6a46b099256a59048bae1539a13efc988063) | fix: humanize project-prefixed ChangeSpec names | 2026-07-06 19:21:44 |
 
 ## Neighbors
 

@@ -30,5 +30,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0b.f1](../bbugyi200.athena.0b.f1/README.md) | descendant | dismissed |
-| [0b.f1.f1](../bbugyi200.athena.0b.f1.f1/README.md) | descendant | dismissed |
+| [0b.f1](../bbugyi200.athena.0b.f1/README.md) | descendant | completed |
+| [0b.f1.f1](../bbugyi200.athena.0b.f1.f1/README.md) | descendant | completed |

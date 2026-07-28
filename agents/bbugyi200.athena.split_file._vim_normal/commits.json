@@ -1,1 +1,1 @@
-{"commits":[{"committed_at":1781568756,"sha":"46d6ce5e38f68766e2a7fe603fbe4d07c0f89318","subject":"refactor(tui): split vim normal mode handlers"}],"schema_version":2,"source_run_id":"run-430651d2aea0d9723c672f779d354ed7"}
+{"commits":[{"committed_at":1781568756,"sha":"46d6ce5e38f68766e2a7fe603fbe4d07c0f89318","subject":"refactor(tui): split vim normal mode handlers"}],"schema_version":2,"source_run_id":"run-893a0381b3ed806f3f42b13cd4319d71"}

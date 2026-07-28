@@ -15,15 +15,15 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-91.1](../bbugyi200.athena.sase-91.1/README.md) | sase-91 hood | completed |
-| [sase-91.2](../bbugyi200.athena.sase-91.2/README.md) | sase-91 hood | completed |
-| [sase-91.3](../bbugyi200.athena.sase-91.3/README.md) | sase-91 hood | completed |
-| [sase-91.4](../bbugyi200.athena.sase-91.4/README.md) | sase-91 hood | completed |
-| [sase-91.5](../bbugyi200.athena.sase-91.5/README.md) | sase-91 hood | completed |
-| [sase-91.6](../bbugyi200.athena.sase-91.6/README.md) | sase-91 hood | completed |
+| [sase-91.1](../bbugyi200.athena.sase-91.1/README.md) | sase-91 hood | active |
+| [sase-91.2](../bbugyi200.athena.sase-91.2/README.md) | sase-91 hood | active |
+| [sase-91.3](../bbugyi200.athena.sase-91.3/README.md) | sase-91 hood | active |
+| [sase-91.4](../bbugyi200.athena.sase-91.4/README.md) | sase-91 hood | active |
+| [sase-91.5](../bbugyi200.athena.sase-91.5/README.md) | sase-91 hood | active |
+| [sase-91.6](../bbugyi200.athena.sase-91.6/README.md) | sase-91 hood | active |

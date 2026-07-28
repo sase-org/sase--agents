@@ -17,11 +17,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | hb--code | completed | gpt-5.6-sol / codex | 2026-07-21T17:06:54.259809+00:00 | [1](../agents/bbugyi200.athena.hb--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.hb--code/chat.md) |
+| <a id="member-code"></a>code | hb--code | completed | gpt-5.6-sol / codex | 2026-07-21T17:06:54.259809+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.hb--code/chat.md) |
 | <a id="member-plan"></a>plan | hb--plan | active | gpt-5.6-sol / codex | 2026-07-21T17:00:22.299481+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.hb--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.hb--plan/chat.md) |
-
-## Commits
-
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`4d98fe0`](https://github.com/sase-org/sase/commit/4d98fe0d262fe159a759cf0b412f75c2bba956ae) | feat(ace): uncap default commit queries | 2026-07-21 17:30:25 |

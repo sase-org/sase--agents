@@ -32,4 +32,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [33](bbugyi200.athena.33.md) (family · 2) | ancestor | active 1, completed 1 |
-| [33.r1.f1.f1](../agents/bbugyi200.athena.33.r1.f1.f1/README.md) | 33 hood | dismissed |
+| [33.r1.f1.f1](../agents/bbugyi200.athena.33.r1.f1.f1/README.md) | 33 hood | completed |

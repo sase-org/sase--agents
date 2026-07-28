@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase Can you help me switch the `y` (copy) keymap and the `Y` (copy path) keymaps in the sase gate notification panel (see #sshot)? Also, make it clearer that (after this change), the `Y` keymap copies the entire contents of the file. Finally, let's start copying the path of the plan file that is stored in the ~/.sase/plans/ directory, instead of the sase gate file that gets written to a file path that looks like ~/.sase/interaction_requests/epic_plan/db6cb071-0dcf-45ce-9132-4267be6b6e85/plan.md.
+
+#plan

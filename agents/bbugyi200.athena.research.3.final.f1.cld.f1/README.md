@@ -12,10 +12,27 @@
 - Provider: claude
 - Timing: 2026-07-08T22:06:27.369222+00:00
 - Commits: 0
+- Variables: [9](#variables)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `caveat` | Commit to the meaningful 'prompt language' reading, not last turn's opaque rhymes-with-hang framing; opacity throws away the very accuracy advantage that wins the argument |
+| `concession` | I retract the 'xprompt self-documents the relationship' claim; it names the DOMAIN correctly but models the RELATIONSHIP wrongly |
+| `confidence` | medium-high |
+| `core_relationship` | The true relationship is producer/product (source to output), like recipe/meal or blueprint/building; the authored artifact should NOT sound like a subtype of the thing it emits |
+| `recommendation` | Proceed to seriously prototype the rename to plang; the collision objection you waived was carrying most of my prior case, and this relationship argument dismantles the rest |
+| `residual_xprompt_edge` | xprompt still screams prompt-domain on first sight; plang costs one sentence of teaching (plang = the prompt language you author) but that is cheap |
+| `verdict` | Your critique is correct and it is the strongest argument yet; under your constraints it flips my prior recommendation from keep-xprompt toward lean-plang |
+| `why_plang_wins` | plang (read as 'prompt language') keeps the source lexically distinct from the prompt it produces, drops the false is-a, and 'language' accommodates multi-part/multi-agent/shell+python workflows bette… |
+| `xprompt_flaw` | xprompt is a near-homophone and apparent hyponym of 'prompt', so it (a) blurs source vs runtime output and (b) falsely implies is-a-prompt, when the referent is a generator of prompts+steps |
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -80,4 +97,4 @@
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 222 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 223 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

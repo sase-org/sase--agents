@@ -17,14 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-8g.11--code | completed | gpt-5.6-sol / codex | 2026-07-20T21:07:56.491236+00:00 | [1](../agents/bbugyi200.athena.sase-8g.11--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-8g.11--code/chat.md) |
+| <a id="member-code"></a>code | sase-8g.11--code | completed | gpt-5.6-sol / codex | 2026-07-20T21:07:56.491236+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-8g.11--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-8g.11--plan | active | gpt-5.6-sol / codex | 2026-07-20T21:01:43.939703+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-8g.11--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-8g.11--plan/chat.md) |
-
-## Commits
-
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`866aea6`](https://github.com/sase-org/sase/commit/866aea65a3fc91224db3382125e71fd3494bcd70) | feat(telemetry): isolate test state and add cleanup command (sase-8g.11) | 2026-07-20 21:41:49 |
 
 ## Neighbors
 

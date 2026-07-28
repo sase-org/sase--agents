@@ -18,13 +18,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-root"></a>root | 96 | active | opus / claude | 2026-07-15T15:17:18.847499+00:00 | [1](../agents/bbugyi200.athena.96/README.md#commits) | [Prompt](../agents/bbugyi200.athena.96/prompt.md) | [Chat](../agents/bbugyi200.athena.96/chat.md) |
-| <a id="member-code"></a>code | 96--code | completed | gpt-5.6-sol / codex | 2026-07-15T15:33:00.452914+00:00 | [1](../agents/bbugyi200.athena.96--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.96--code/chat.md) |
+| <a id="member-code"></a>code | 96--code | completed | gpt-5.6-sol / codex | 2026-07-15T15:33:00.452914+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.96--code/chat.md) |
 
 ## Commits
 
 | Role | Commit | Subject | Committed (UTC) |
 |---|---|---|---|
-| code | [`5e9bfa1`](https://github.com/sase-org/sase/commit/5e9bfa1987f0b9ba998173e4e3e5e23793b10f85) | feat(ace)!: collapse focused agent panels | 2026-07-15 16:05:20 |
 | root | [`5e9bfa1`](https://github.com/sase-org/sase/commit/5e9bfa1987f0b9ba998173e4e3e5e23793b10f85) | feat(ace)!: collapse focused agent panels | 2026-07-15 16:05:20 |
 
 ## Neighbors

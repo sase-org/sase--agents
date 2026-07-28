@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `jq` · Members: 2
 ```mermaid
 flowchart TD
   n0["jq.f0.f1--code [completed]"]
-  n1["jq.f0.f1--plan [dismissed]"]
+  n1["jq.f0.f1--plan [active]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | jq.f0.f1--code | completed | gpt-5.6-sol / codex | 2026-07-24T22:57:43.367240+00:00 | [1](../agents/bbugyi200.athena.jq.f0.f1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.jq.f0.f1--code/chat.md) |
-| <a id="member-plan"></a>plan | jq.f0.f1--plan | dismissed | gpt-5.6-sol / codex | 2026-07-24T18:51:59.399242 → 2026-07-24T19:28:23.790102 | 0 | — | [Chat](../agents/bbugyi200.athena.jq.f0.f1--plan/chat.md) |
+| <a id="member-plan"></a>plan | jq.f0.f1--plan | active | gpt-5.6-sol / codex | 2026-07-24T22:51:59.399242+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.jq.f0.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.jq.f0.f1--plan/chat.md) |
 
 ## Commits
 
@@ -32,5 +32,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [jq.f0](../agents/bbugyi200.athena.jq.f0/README.md) | ancestor | completed |
 | [jq](../agents/bbugyi200.athena.jq/README.md) | ancestor | completed |
-| [jq.f0.f0](bbugyi200.athena.jq.f0.f0.md) (family · 2) | jq.f0 hood | completed 1, dismissed 1 |
+| [jq.f0.f0](bbugyi200.athena.jq.f0.f0.md) (family · 2) | jq.f0 hood | active 1, completed 1 |
 | [jq.f0.f0](../agents/bbugyi200.athena.jq.f0.f0/README.md) | jq.f0 hood | completed |

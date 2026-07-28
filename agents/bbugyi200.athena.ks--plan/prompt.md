@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make it so the `J` / `K` keymaps on the agents tab skip closed agent tribe panels? These keymaps are supposed to select the first/last Agent Lane in the next/previous Agent Tribe panel respectively, so it doesn't make sense for them to select a collapsed agent tribe panel. #plan

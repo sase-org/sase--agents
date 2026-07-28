@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [bm6](../../../../../../agents/bbugyi200.athena.bm6/README.md) | completed | — | — | 1 | — |
+| [bm6](../../../../../../agents/bbugyi200.athena.bm6/README.md) | completed | — | 2026-05-28T13:15:41+00:00 → 2026-05-28T13:15:41+00:00 | 1 | — |

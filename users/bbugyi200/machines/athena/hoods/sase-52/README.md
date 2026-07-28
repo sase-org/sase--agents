@@ -6,11 +6,11 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-52.4](../../../../../../agents/bbugyi200.athena.sase-52.4/README.md) | completed | — | — | 1 | — |
-| [sase-52](../../../../../../agents/bbugyi200.athena.sase-52/README.md) | completed | — | — | 1 | — |
-| [sase-52.3](../../../../../../agents/bbugyi200.athena.sase-52.3/README.md) | completed | — | — | 1 | — |
-| [sase-52.1](../../../../../../agents/bbugyi200.athena.sase-52.1/README.md) | completed | — | — | 1 | — |
-| [sase-52.5](../../../../../../agents/bbugyi200.athena.sase-52.5/README.md) | completed | — | — | 1 | — |
-| [sase-52.2](../../../../../../agents/bbugyi200.athena.sase-52.2/README.md) | completed | — | — | 1 | — |
-| [sase-52.7](../../../../../../agents/bbugyi200.athena.sase-52.7/README.md) | completed | — | — | 1 | — |
-| [sase-52.6](../../../../../../agents/bbugyi200.athena.sase-52.6/README.md) | completed | — | — | 1 | — |
+| [sase-52.4](../../../../../../agents/bbugyi200.athena.sase-52.4/README.md) | completed | — | 2026-06-20T19:37:49+00:00 → 2026-06-20T19:37:49+00:00 | 1 | — |
+| [sase-52](../../../../../../agents/bbugyi200.athena.sase-52/README.md) | completed | — | 2026-06-20T21:08:11+00:00 → 2026-06-20T21:08:11+00:00 | 1 | — |
+| [sase-52.3](../../../../../../agents/bbugyi200.athena.sase-52.3/README.md) | completed | — | 2026-06-20T19:48:18+00:00 → 2026-06-20T19:48:18+00:00 | 1 | — |
+| [sase-52.1](../../../../../../agents/bbugyi200.athena.sase-52.1/README.md) | completed | — | 2026-06-20T19:09:15+00:00 → 2026-06-20T19:09:15+00:00 | 1 | — |
+| [sase-52.5](../../../../../../agents/bbugyi200.athena.sase-52.5/README.md) | completed | — | 2026-06-20T20:00:19+00:00 → 2026-06-20T20:00:19+00:00 | 1 | — |
+| [sase-52.2](../../../../../../agents/bbugyi200.athena.sase-52.2/README.md) | completed | — | 2026-06-20T19:24:01+00:00 → 2026-06-20T19:24:01+00:00 | 1 | — |
+| [sase-52.7](../../../../../../agents/bbugyi200.athena.sase-52.7/README.md) | completed | — | 2026-06-20T21:01:30+00:00 → 2026-06-20T21:01:30+00:00 | 1 | — |
+| [sase-52.6](../../../../../../agents/bbugyi200.athena.sase-52.6/README.md) | completed | — | 2026-06-20T20:29:50+00:00 → 2026-06-20T20:29:50+00:00 | 1 | — |

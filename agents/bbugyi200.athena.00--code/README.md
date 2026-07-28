@@ -21,11 +21,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [00.f1](../bbugyi200.athena.00.f1/README.md) | descendant | dismissed |
-| [00.w1](../bbugyi200.athena.00.w1/README.md) | descendant | dismissed |
-| [00.w1.r1](../bbugyi200.athena.00.w1.r1/README.md) | descendant | dismissed |
-| [00.w1.r1.w1](../bbugyi200.athena.00.w1.r1.w1/README.md) | descendant | dismissed |
-| [00.w1.r1.w1.f1](../bbugyi200.athena.00.w1.r1.w1.f1/README.md) | descendant | dismissed |
-| [00.w1.w1](../bbugyi200.athena.00.w1.w1/README.md) | descendant | dismissed |
-| [00.w1.w1.w1](../bbugyi200.athena.00.w1.w1.w1/README.md) | descendant | dismissed |
-| [00.w1.w1.w1.f1](../bbugyi200.athena.00.w1.w1.w1.f1/README.md) | descendant | dismissed |
+| [00.f1](../bbugyi200.athena.00.f1/README.md) | descendant | completed |
+| [00.w1](../bbugyi200.athena.00.w1/README.md) | descendant | completed |
+| [00.w1.r1](../bbugyi200.athena.00.w1.r1/README.md) | descendant | completed |
+| [00.w1.r1.w1](../bbugyi200.athena.00.w1.r1.w1/README.md) | descendant | completed |
+| [00.w1.r1.w1.f1](../bbugyi200.athena.00.w1.r1.w1.f1/README.md) | descendant | completed |
+| [00.w1.w1](../bbugyi200.athena.00.w1.w1/README.md) | descendant | completed |
+| [00.w1.w1.w1](../bbugyi200.athena.00.w1.w1.w1/README.md) | descendant | completed |
+| [00.w1.w1.w1.f1](../bbugyi200.athena.00.w1.w1.w1.f1/README.md) | descendant | completed |

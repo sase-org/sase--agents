@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add a new `q` (quit) keymap to the panel used to edit lumberjacks/chops from the AXE tab (shown in #sshot)? #plan

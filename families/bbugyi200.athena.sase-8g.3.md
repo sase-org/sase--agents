@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-8g.3--plan | active | gpt-5.6-sol / codex | 2026-07-20T20:32:07.363522+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-8g.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-8g.3--plan/chat.md) |
-| <a id="member-code"></a>code | sase-8g.3--code | completed | gpt-5.6-sol / codex | 2026-07-20T20:37:35.049256+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-8g.3--code/chat.md) |
+| <a id="member-code"></a>code | sase-8g.3--code | completed | gpt-5.6-sol / codex | 2026-07-20T20:37:35.049256+00:00 | [1](../agents/bbugyi200.athena.sase-8g.3--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-8g.3--code/chat.md) |
+
+## Commits
+
+| Role | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| code | [`9aed7d7`](https://github.com/sase-org/sase/commit/9aed7d72366ab5bbf243320fb3c621be21d6eea3) | fix(runner-slots): preserve waiter state across admission (sase-8g.3) | 2026-07-20 21:01:23 |
 
 ## Neighbors
 

@@ -12,6 +12,7 @@
 - Provider: claude
 - Timing: 2026-07-09T20:09:34.935273+00:00
 - Commits: [1](#commits)
+- Variables: [6](#variables)
 
 ## Files
 
@@ -22,6 +23,17 @@
 | Commit | Subject | Committed (UTC) |
 |---|---|---|
 | [`e826c9e`](https://github.com/sase-org/sase/commit/e826c9e5e87c80d7e67c5de6c066189172c884fb) | chore: Add research on memory system build-vs-Zep decision | 2026-06-11 12:03:54 |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `concurrency_solvable` | yes |
+| `duplicated_gib` | 3.3 |
+| `per_clone_mib` | 472 |
+| `recommended_option` | A\_plus\_sparse |
+| `research_file` | .sase/sdd/research/202607/shared\_sdd\_clone\_per\_machine.md |
+| `shared_clone_recommended` | yes\_objects\_only |
 
 ## Neighbors
 
@@ -80,4 +92,4 @@
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 228 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 229 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
