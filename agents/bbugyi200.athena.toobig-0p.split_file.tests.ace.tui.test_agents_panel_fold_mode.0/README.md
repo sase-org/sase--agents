@@ -27,6 +27,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-0p.split\_file.tests.ace.tui.test\_commits\_pane\_filters.0](../bbugyi200.athena.toobig-0p.split_file.tests.ace.tui.test_commits_pane_filters.0/README.md) | toobig-0p.split\_file.tests.ace.tui hood | active |
-| [toobig-0p.split\_file.tests.ace.tui.widgets.test\_agent\_slow\_tools.0](../bbugyi200.athena.toobig-0p.split_file.tests.ace.tui.widgets.test_agent_slow_tools.0/README.md) | toobig-0p.split\_file.tests.ace.tui hood | waiting |
+| [toobig-0p.split\_file.tests.ace.tui.test\_commits\_pane\_filters.0](../bbugyi200.athena.toobig-0p.split_file.tests.ace.tui.test_commits_pane_filters.0/README.md) | toobig-0p.split\_file.tests.ace.tui hood | completed |
+| [toobig-0p.split\_file.tests.ace.tui.widgets.test\_agent\_slow\_tools.0](../bbugyi200.athena.toobig-0p.split_file.tests.ace.tui.widgets.test_agent_slow_tools.0/README.md) | toobig-0p.split\_file.tests.ace.tui hood | active |
 | [toobig-0p.split\_file.tests.ace.tui.widgets.test\_summary\_fold\_contracts.0](../bbugyi200.athena.toobig-0p.split_file.tests.ace.tui.widgets.test_summary_fold_contracts.0/README.md) | toobig-0p.split\_file.tests.ace.tui hood | waiting |
