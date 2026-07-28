@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-84c98646e02f55f0dadffe0bc0dc29e8"}
+{"commits":[{"committed_at":1785240020,"sha":"0ee67b10a5e36519ffa93998a4b2969c8eca86a1","subject":"fix(bead): protect root-layout stores during workspace prep (sase-ab.1)"}],"schema_version":2,"source_run_id":"run-84c98646e02f55f0dadffe0bc0dc29e8"}
