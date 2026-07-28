@@ -30,4 +30,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [mp.f0](../agents/bbugyi200.athena.mp.f0/README.md) | descendant | active |
+| [mp.f0](bbugyi200.athena.mp.f0.md) (family · 2) | descendant | active 2 |
