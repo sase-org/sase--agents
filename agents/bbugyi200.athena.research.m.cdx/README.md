@@ -12,6 +12,7 @@
 - Provider: codex
 - Timing: 2026-07-28T19:00:23.923056+00:00
 - Commits: [1](#commits)
+- Variables: [3](#variables)
 
 ## Files
 
@@ -22,6 +23,16 @@
 | Commit | Subject | Committed (UTC) |
 |---|---|---|
 | [`a20841f`](https://github.com/sase-org/sase/commit/a20841fb4ae44baf476434d8c068a31ffc95e74b) | docs: research dynamic agent family workflows | 2026-06-17 22:14:52 |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `recommendation` | do\_not\_rename\_to\_sawi |
+| `research_path` | 202607/sase\_to\_sawi\_rename\_research\_20260728.md |
+| `research_summary` | Do not rename SASE to SAWI. SASE has a severe and worsening Secure Access Service Edge search collision, so another naming round may be worthwhile before 1.0 if the product is broadening beyond softwa… |
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
