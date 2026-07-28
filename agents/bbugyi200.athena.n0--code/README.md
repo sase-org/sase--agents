@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [n0](../../users/bbugyi200/machines/athena/hoods/n0/README.md) / [n0](../../families/bbugyi200.athena.n0.md) / n0--code
 
-**Global name:** `bbugyi200.athena.n0--code` · **State:** active · **Source run:** `run-ae2449c04590cc14434483d9c2548f70`
+**Global name:** `bbugyi200.athena.n0--code` · **State:** completed · **Source run:** `run-ae2449c04590cc14434483d9c2548f70`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** n0
 
@@ -12,6 +12,10 @@
 - Provider: codex
 - Timing: 2026-07-28T15:30:11.743988+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
 
 ## Commits
 

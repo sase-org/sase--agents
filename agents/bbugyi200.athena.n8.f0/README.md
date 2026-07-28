@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [n8](../bbugyi200.athena.n8/README.md) | ancestor | completed |
-| [n8.f0.f0](../../families/bbugyi200.athena.n8.f0.f0.md) (family · 2) | descendant | active 2 |
+| [n8.f0.f0](../../families/bbugyi200.athena.n8.f0.f0.md) (family · 2) | descendant | completed 2 |

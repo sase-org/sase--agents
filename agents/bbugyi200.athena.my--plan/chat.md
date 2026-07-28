@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** my--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-my__plan-260728_094224.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-my__code-260728_094224.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/selected_clan_collapse_precedence.md
 
 

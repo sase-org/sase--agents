@@ -31,4 +31,4 @@
 | [sase-ac.6.3](../bbugyi200.athena.sase-ac.6.3/README.md) | sase-ac hood | completed |
 | [sase-ac.6.4](../bbugyi200.athena.sase-ac.6.4/README.md) | sase-ac hood | completed |
 | [sase-ac.6.5](../bbugyi200.athena.sase-ac.6.5/README.md) | sase-ac hood | completed |
-| [sase-ac.6.land](../bbugyi200.athena.sase-ac.6.land/README.md) | sase-ac hood | active |
+| [sase-ac.6.land](../bbugyi200.athena.sase-ac.6.land/README.md) | sase-ac hood | completed |

@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** n3--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-n3__plan-260728_114418.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-n3__code-260728_114418.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/xprompt_completion_trailing_period.md
 
 

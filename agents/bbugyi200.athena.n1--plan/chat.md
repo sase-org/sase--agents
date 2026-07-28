@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** n1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-n1__plan-260728_114227.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-n1__code-260728_114227.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/bead_phase_title.md
 
 

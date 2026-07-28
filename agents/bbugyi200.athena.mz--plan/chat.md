@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** mz--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-mz__plan-260728_095154.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-mz__code-260728_095154.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/family_predecessor_bucket.md
 
 

@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** n8.f0.f0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-n8_f0_f0__plan-260728_130813.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-n8_f0_f0__code-260728_130813.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/sidecar_repo_labels.md
 
 

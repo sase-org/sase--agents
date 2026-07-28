@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** n4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-n4__plan-260728_114754.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-n4__code-260728_114754.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/ctrl_space_prompt_guard.md
 
 

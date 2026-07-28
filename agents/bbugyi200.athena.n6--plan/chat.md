@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** n6--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-n6__plan-260728_124639.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-n6__code-260728_124639.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/agents_sidecar_infographic.md
 
 

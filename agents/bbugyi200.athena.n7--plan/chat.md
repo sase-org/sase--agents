@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** n7--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-n7__plan-260728_125206.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-n7__code-260728_125206.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/fix_sdd_store_annotation_ci_break.md
 
 

@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `n6` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["n6--plan [active]"]
-  n1["n6--code [active]"]
+  n0["n6--plan [completed]"]
+  n1["n6--code [completed]"]
   n0 --> n1
 ```
 
@@ -17,11 +17,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | n6--plan | active | gpt-5.6-sol / codex | 2026-07-28T16:46:48.372122+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.n6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.n6--plan/chat.md) |
-| <a id="member-code"></a>code | n6--code | active | gpt-5.6-sol / codex | 2026-07-28T16:52:44.328462+00:00 | [1](../agents/bbugyi200.athena.n6--code/README.md#commits) | — | — |
+| <a id="member-plan"></a>plan | n6--plan | completed | gpt-5.6-sol / codex | 2026-07-28T16:46:48.372122+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.n6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.n6--plan/chat.md) |
+| <a id="member-code"></a>code | n6--code | completed | gpt-5.6-sol / codex | 2026-07-28T16:52:44.328462+00:00 | [1](../agents/bbugyi200.athena.n6--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.n6--code/chat.md) |
 
 ## Commits
 
 | Role | Commit | Subject | Committed (UTC) |
 |---|---|---|---|
 | code | [`d4198f1`](https://github.com/sase-org/sase/commit/d4198f1cc9b1e87b361fd80b6e0f99c94c5cec27) | feat: illustrate agents sidecar lifecycle | 2026-07-28 17:17:44 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [n6.f0](../agents/bbugyi200.athena.n6.f0/README.md) | descendant | completed |
+| [n6.f0.f0](../agents/bbugyi200.athena.n6.f0.f0/README.md) | descendant | failed |
+| [n6.f0.f1](../agents/bbugyi200.athena.n6.f0.f1/README.md) | descendant | dismissed |

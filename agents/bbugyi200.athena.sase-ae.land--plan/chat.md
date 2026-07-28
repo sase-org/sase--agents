@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-ae.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_ae_land__plan-260728_075836.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_ae_land__code-260728_075836.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/land_skill_deploy_thrash.md
 
 

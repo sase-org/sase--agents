@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** n0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-n0__plan-260728_111844.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-n0__code-260728_111844.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/var_set_multiline_values.md
 
 

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:n6 Is this infographic properly linked to by the `<project>--agents` repo's README.md file (which should be auto-generated / auto-updated by the `sase repo init` command--and the `sase init` command, by extension)? #if_not_plan
