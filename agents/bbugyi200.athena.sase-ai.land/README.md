@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ai](../../users/bbugyi200/machines/athena/hoods/sase-ai/README.md) / sase-ai.land
 
-**Global name:** `bbugyi200.athena.sase-ai.land` · **State:** waiting · **Source run:** `run-f16dc945ce6e21522c2d760af0fd3c2f`
+**Global name:** `bbugyi200.athena.sase-ai.land` · **State:** active · **Source run:** `run-f16dc945ce6e21522c2d760af0fd3c2f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ai
 
@@ -10,19 +10,25 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20260728142428
-- Commits: 0
+- Timing: 2026-07-28T21:44:48.288936+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`48edca8`](https://github.com/sase-org/sase/commit/48edca8c449d805ba9c1bc9f3df7f2301e8d4977) | fix(bead-pages): link plan BEAD bullets only to pages that exist | 2026-07-28 22:23:22 |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ai.1](../bbugyi200.athena.sase-ai.1/README.md) | sase-ai hood | completed |
-| [sase-ai.10](../bbugyi200.athena.sase-ai.10/README.md) | sase-ai hood | active |
+| [sase-ai.10](../bbugyi200.athena.sase-ai.10/README.md) | sase-ai hood | completed |
 | [sase-ai.2](../bbugyi200.athena.sase-ai.2/README.md) | sase-ai hood | completed |
 | [sase-ai.3](../bbugyi200.athena.sase-ai.3/README.md) | sase-ai hood | completed |
 | [sase-ai.4](../bbugyi200.athena.sase-ai.4/README.md) | sase-ai hood | completed |

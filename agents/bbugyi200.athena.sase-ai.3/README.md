@@ -28,7 +28,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ai.1](../bbugyi200.athena.sase-ai.1/README.md) | sase-ai hood | completed |
-| [sase-ai.10](../bbugyi200.athena.sase-ai.10/README.md) | sase-ai hood | active |
+| [sase-ai.10](../bbugyi200.athena.sase-ai.10/README.md) | sase-ai hood | completed |
 | [sase-ai.2](../bbugyi200.athena.sase-ai.2/README.md) | sase-ai hood | completed |
 | [sase-ai.4](../bbugyi200.athena.sase-ai.4/README.md) | sase-ai hood | completed |
 | [sase-ai.5](../bbugyi200.athena.sase-ai.5/README.md) | sase-ai hood | completed |
@@ -36,4 +36,4 @@
 | [sase-ai.7](../bbugyi200.athena.sase-ai.7/README.md) | sase-ai hood | completed |
 | [sase-ai.8](../bbugyi200.athena.sase-ai.8/README.md) | sase-ai hood | completed |
 | [sase-ai.9](../bbugyi200.athena.sase-ai.9/README.md) | sase-ai hood | completed |
-| [sase-ai.land](../bbugyi200.athena.sase-ai.land/README.md) | sase-ai hood | waiting |
+| [sase-ai.land](../bbugyi200.athena.sase-ai.land/README.md) | sase-ai hood | active |
