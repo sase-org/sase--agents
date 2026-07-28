@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-28T11:19:05.714147+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`d128e24`](https://github.com/sase-org/sase/commit/d128e2405d2d3459577584d526b0174c84675ca3) | refactor(bead): split CLI location resolution | 2026-07-28 11:39:39 |
 
 ## Neighbors
 
