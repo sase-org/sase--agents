@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6b1780b2d78754ac11992f157f57a1a4"}
+{"commits":[{"committed_at":1785271963,"sha":"e1e86f276f86192fe469c8a121054d1c4ce93546","subject":"fix(beads): consolidate post-commit sidecar sync"}],"schema_version":2,"source_run_id":"run-6b1780b2d78754ac11992f157f57a1a4"}

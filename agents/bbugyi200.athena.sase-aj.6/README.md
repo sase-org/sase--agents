@@ -11,19 +11,25 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-28T20:22:49.452428+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`e1e86f2`](https://github.com/sase-org/sase/commit/e1e86f276f86192fe469c8a121054d1c4ce93546) | fix(beads): consolidate post-commit sidecar sync | 2026-07-28 20:52:43 |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-aj.1](../bbugyi200.athena.sase-aj.1/README.md) | sase-aj hood | active |
-| [sase-aj.2](../bbugyi200.athena.sase-aj.2/README.md) | sase-aj hood | waiting |
+| [sase-aj.1](../bbugyi200.athena.sase-aj.1/README.md) | sase-aj hood | completed |
+| [sase-aj.2](../bbugyi200.athena.sase-aj.2/README.md) | sase-aj hood | active |
 | [sase-aj.3](../bbugyi200.athena.sase-aj.3/README.md) | sase-aj hood | waiting |
-| [sase-aj.4](../bbugyi200.athena.sase-aj.4/README.md) | sase-aj hood | waiting |
-| [sase-aj.5](../bbugyi200.athena.sase-aj.5/README.md) | sase-aj hood | waiting |
+| [sase-aj.4](../bbugyi200.athena.sase-aj.4/README.md) | sase-aj hood | completed |
+| [sase-aj.5](../bbugyi200.athena.sase-aj.5/README.md) | sase-aj hood | active |
 | [sase-aj.land](../bbugyi200.athena.sase-aj.land/README.md) | sase-aj hood | waiting |
