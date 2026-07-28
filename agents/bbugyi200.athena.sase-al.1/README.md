@@ -1,0 +1,25 @@
+# Agent: sase-al.1
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-al](../../users/bbugyi200/machines/athena/hoods/sase-al/README.md) / sase-al.1
+
+**Global name:** `bbugyi200.athena.sase-al.1` · **State:** active · **Source run:** `run-90ec07ecf044be3390273eee74ab3239`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-al
+
+## Summary
+
+- Model: opus
+- Provider: claude
+- Timing: 2026-07-28T21:39:03.844213+00:00
+- Commits: 0
+
+## Files
+
+[Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-al.2](../bbugyi200.athena.sase-al.2/README.md) | sase-al hood | waiting |
+| [sase-al.land](../bbugyi200.athena.sase-al.land/README.md) | sase-al hood | waiting |
