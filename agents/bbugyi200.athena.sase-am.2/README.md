@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-28T22:18:23.955375+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`61c812a`](https://github.com/sase-org/sase/commit/61c812a7b7f1e04c44e50330f803868154500e3d) | ci: reuse one prebuilt core wheel across jobs | 2026-07-28 22:39:22 |
 
 ## Neighbors
 
