@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I keep seeing the term SDD thrown around a lot, but that terminoligy should be completely replaced / removed at this point. Can you help me audit this codebase to determine everywhere that this term is used to give me an idea of how difficult it would be to remove/replace this term? Express your answer by setting some sase variables. #m_opus

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:n8.f0 Why do we show `sdd` in #sshot for the bead commits / deltas? Is that correct? #if_not_plan #m_opus
