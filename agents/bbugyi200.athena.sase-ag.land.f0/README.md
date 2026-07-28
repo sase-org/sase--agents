@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ag](../../users/bbugyi200/machines/athena/hoods/sase-ag/README.md) / sase-ag.land.f0
 
-**Global name:** `bbugyi200.athena.sase-ag.land.f0` · **State:** waiting · **Source run:** `run-86567b05a8762fdff65d7ddf63221192`
+**Global name:** `bbugyi200.athena.sase-ag.land.f0` · **State:** failed · **Source run:** `run-86567b05a8762fdff65d7ddf63221192`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ag
 
@@ -10,23 +10,23 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20260728140552
+- Timing: 2026-07-28T18:08:34.732947+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ag.land](../../families/bbugyi200.athena.sase-ag.land.md) (family · 2) | ancestor | active 2 |
+| [sase-ag.land](../../families/bbugyi200.athena.sase-ag.land.md) (family · 2) | ancestor | completed 1, dismissed 1 |
 | [sase-ag.land.w0](../bbugyi200.athena.sase-ag.land.w0/README.md) | sase-ag.land hood | dismissed |
 | [sase-ag.land.w1](../bbugyi200.athena.sase-ag.land.w1/README.md) | sase-ag.land hood | dismissed |
-| [sase-ag.1](../bbugyi200.athena.sase-ag.1/README.md) | sase-ag hood | completed |
-| [sase-ag.2](../bbugyi200.athena.sase-ag.2/README.md) | sase-ag hood | completed |
-| [sase-ag.3](../bbugyi200.athena.sase-ag.3/README.md) | sase-ag hood | completed |
-| [sase-ag.4](../bbugyi200.athena.sase-ag.4/README.md) | sase-ag hood | completed |
-| [sase-ag.5](../bbugyi200.athena.sase-ag.5/README.md) | sase-ag hood | completed |
-| [sase-ag.6](../bbugyi200.athena.sase-ag.6/README.md) | sase-ag hood | completed |
+| [sase-ag.1](../bbugyi200.athena.sase-ag.1/README.md) | sase-ag hood | dismissed |
+| [sase-ag.2](../bbugyi200.athena.sase-ag.2/README.md) | sase-ag hood | dismissed |
+| [sase-ag.3](../bbugyi200.athena.sase-ag.3/README.md) | sase-ag hood | dismissed |
+| [sase-ag.4](../bbugyi200.athena.sase-ag.4/README.md) | sase-ag hood | dismissed |
+| [sase-ag.5](../bbugyi200.athena.sase-ag.5/README.md) | sase-ag hood | dismissed |
+| [sase-ag.6](../bbugyi200.athena.sase-ag.6/README.md) | sase-ag hood | dismissed |

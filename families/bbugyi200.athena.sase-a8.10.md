@@ -24,13 +24,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-a8.1](../agents/bbugyi200.athena.sase-a8.1/README.md) | sase-a8 hood | completed |
-| [sase-a8.2](../agents/bbugyi200.athena.sase-a8.2/README.md) | sase-a8 hood | completed |
-| [sase-a8.3](../agents/bbugyi200.athena.sase-a8.3/README.md) | sase-a8 hood | completed |
-| [sase-a8.4](../agents/bbugyi200.athena.sase-a8.4/README.md) | sase-a8 hood | completed |
-| [sase-a8.5](../agents/bbugyi200.athena.sase-a8.5/README.md) | sase-a8 hood | completed |
-| [sase-a8.6](../agents/bbugyi200.athena.sase-a8.6/README.md) | sase-a8 hood | completed |
-| [sase-a8.7](../agents/bbugyi200.athena.sase-a8.7/README.md) | sase-a8 hood | completed |
-| [sase-a8.8](../agents/bbugyi200.athena.sase-a8.8/README.md) | sase-a8 hood | completed |
-| [sase-a8.9](../agents/bbugyi200.athena.sase-a8.9/README.md) | sase-a8 hood | completed |
-| [sase-a8.land](../agents/bbugyi200.athena.sase-a8.land/README.md) | sase-a8 hood | failed |
+| [sase-a8.1](../agents/bbugyi200.athena.sase-a8.1/README.md) | sase-a8 hood | dismissed |
+| [sase-a8.2](../agents/bbugyi200.athena.sase-a8.2/README.md) | sase-a8 hood | dismissed |
+| [sase-a8.3](../agents/bbugyi200.athena.sase-a8.3/README.md) | sase-a8 hood | dismissed |
+| [sase-a8.4](../agents/bbugyi200.athena.sase-a8.4/README.md) | sase-a8 hood | dismissed |
+| [sase-a8.5](../agents/bbugyi200.athena.sase-a8.5/README.md) | sase-a8 hood | dismissed |
+| [sase-a8.6](../agents/bbugyi200.athena.sase-a8.6/README.md) | sase-a8 hood | dismissed |
+| [sase-a8.7](../agents/bbugyi200.athena.sase-a8.7/README.md) | sase-a8 hood | dismissed |
+| [sase-a8.8](../agents/bbugyi200.athena.sase-a8.8/README.md) | sase-a8 hood | dismissed |
+| [sase-a8.9](../agents/bbugyi200.athena.sase-a8.9/README.md) | sase-a8 hood | dismissed |
+| [sase-a8.land](../agents/bbugyi200.athena.sase-a8.land/README.md) | sase-a8 hood | dismissed |

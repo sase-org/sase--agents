@@ -27,9 +27,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ae.1](../bbugyi200.athena.sase-ae.1/README.md) | sase-ae hood | completed |
-| [sase-ae.2](../bbugyi200.athena.sase-ae.2/README.md) | sase-ae hood | completed |
-| [sase-ae.3](../bbugyi200.athena.sase-ae.3/README.md) | sase-ae hood | completed |
-| [sase-ae.4](../bbugyi200.athena.sase-ae.4/README.md) | sase-ae hood | completed |
-| [sase-ae.5](../bbugyi200.athena.sase-ae.5/README.md) | sase-ae hood | completed |
-| [sase-ae.6](../../families/bbugyi200.athena.sase-ae.6.md) (family · 2) | sase-ae hood | completed 2 |
+| [sase-ae.1](../bbugyi200.athena.sase-ae.1/README.md) | sase-ae hood | dismissed |
+| [sase-ae.2](../bbugyi200.athena.sase-ae.2/README.md) | sase-ae hood | dismissed |
+| [sase-ae.3](../bbugyi200.athena.sase-ae.3/README.md) | sase-ae hood | dismissed |
+| [sase-ae.4](../bbugyi200.athena.sase-ae.4/README.md) | sase-ae hood | dismissed |
+| [sase-ae.5](../bbugyi200.athena.sase-ae.5/README.md) | sase-ae hood | dismissed |
+| [sase-ae.6](../../families/bbugyi200.athena.sase-ae.6.md) (family · 2) | sase-ae hood | completed 1, dismissed 1 |

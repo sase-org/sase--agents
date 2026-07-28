@@ -29,7 +29,7 @@
 |---|---|---|
 | [sase-ai.1](../bbugyi200.athena.sase-ai.1/README.md) | sase-ai hood | completed |
 | [sase-ai.10](../bbugyi200.athena.sase-ai.10/README.md) | sase-ai hood | waiting |
-| [sase-ai.2](../bbugyi200.athena.sase-ai.2/README.md) | sase-ai hood | active |
+| [sase-ai.2](../bbugyi200.athena.sase-ai.2/README.md) | sase-ai hood | completed |
 | [sase-ai.3](../bbugyi200.athena.sase-ai.3/README.md) | sase-ai hood | active |
 | [sase-ai.4](../bbugyi200.athena.sase-ai.4/README.md) | sase-ai hood | waiting |
 | [sase-ai.5](../bbugyi200.athena.sase-ai.5/README.md) | sase-ai hood | waiting |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ag](../../users/bbugyi200/machines/athena/hoods/sase-ag/README.md) / sase-ag.5
 
-**Global name:** `bbugyi200.athena.sase-ag.5` · **State:** completed · **Source run:** `run-33c6880e3d4516e7de62d9284b9f7b9e`
+**Global name:** `bbugyi200.athena.sase-ag.5` · **State:** dismissed · **Source run:** `run-33c6880e3d4516e7de62d9284b9f7b9e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ag
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-28T15:37:50.637399+00:00
+- Timing: 2026-07-28T11:37:50.637399 → 2026-07-28T12:27:29.885388
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -27,12 +27,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ag.1](../bbugyi200.athena.sase-ag.1/README.md) | sase-ag hood | completed |
-| [sase-ag.2](../bbugyi200.athena.sase-ag.2/README.md) | sase-ag hood | completed |
-| [sase-ag.3](../bbugyi200.athena.sase-ag.3/README.md) | sase-ag hood | completed |
-| [sase-ag.4](../bbugyi200.athena.sase-ag.4/README.md) | sase-ag hood | completed |
-| [sase-ag.6](../bbugyi200.athena.sase-ag.6/README.md) | sase-ag hood | completed |
-| [sase-ag.land](../../families/bbugyi200.athena.sase-ag.land.md) (family · 2) | sase-ag hood | active 2 |
-| [sase-ag.land.f0](../bbugyi200.athena.sase-ag.land.f0/README.md) | sase-ag hood | waiting |
+| [sase-ag.1](../bbugyi200.athena.sase-ag.1/README.md) | sase-ag hood | dismissed |
+| [sase-ag.2](../bbugyi200.athena.sase-ag.2/README.md) | sase-ag hood | dismissed |
+| [sase-ag.3](../bbugyi200.athena.sase-ag.3/README.md) | sase-ag hood | dismissed |
+| [sase-ag.4](../bbugyi200.athena.sase-ag.4/README.md) | sase-ag hood | dismissed |
+| [sase-ag.6](../bbugyi200.athena.sase-ag.6/README.md) | sase-ag hood | dismissed |
+| [sase-ag.land](../../families/bbugyi200.athena.sase-ag.land.md) (family · 2) | sase-ag hood | completed 1, dismissed 1 |
+| [sase-ag.land.f0](../bbugyi200.athena.sase-ag.land.f0/README.md) | sase-ag hood | failed |
 | [sase-ag.land.w0](../bbugyi200.athena.sase-ag.land.w0/README.md) | sase-ag hood | dismissed |
 | [sase-ag.land.w1](../bbugyi200.athena.sase-ag.land.w1/README.md) | sase-ag hood | dismissed |

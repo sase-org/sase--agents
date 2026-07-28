@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ac](../../users/bbugyi200/machines/athena/hoods/sase-ac/README.md) / sase-ac.1
 
-**Global name:** `bbugyi200.athena.sase-ac.1` · **State:** completed · **Source run:** `run-139f93092c5339a51cd2efc158405512`
+**Global name:** `bbugyi200.athena.sase-ac.1` · **State:** dismissed · **Source run:** `run-139f93092c5339a51cd2efc158405512`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ac
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-07-28T11:42:41.113986+00:00
+- Timing: 2026-07-28T07:42:41.113986 → 2026-07-28T08:08:35.726662
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -27,14 +27,14 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ac.2](../bbugyi200.athena.sase-ac.2/README.md) | sase-ac hood | completed |
-| [sase-ac.3](../bbugyi200.athena.sase-ac.3/README.md) | sase-ac hood | completed |
-| [sase-ac.4](../bbugyi200.athena.sase-ac.4/README.md) | sase-ac hood | completed |
-| [sase-ac.5](../bbugyi200.athena.sase-ac.5/README.md) | sase-ac hood | completed |
-| [sase-ac.6.1](../bbugyi200.athena.sase-ac.6.1/README.md) | sase-ac hood | completed |
-| [sase-ac.6.2](../bbugyi200.athena.sase-ac.6.2/README.md) | sase-ac hood | completed |
-| [sase-ac.6.3](../bbugyi200.athena.sase-ac.6.3/README.md) | sase-ac hood | completed |
-| [sase-ac.6.4](../bbugyi200.athena.sase-ac.6.4/README.md) | sase-ac hood | completed |
-| [sase-ac.6.5](../bbugyi200.athena.sase-ac.6.5/README.md) | sase-ac hood | completed |
-| [sase-ac.6.land](../bbugyi200.athena.sase-ac.6.land/README.md) | sase-ac hood | completed |
-| [sase-ac.land](../bbugyi200.athena.sase-ac.land/README.md) | sase-ac hood | failed |
+| [sase-ac.2](../bbugyi200.athena.sase-ac.2/README.md) | sase-ac hood | dismissed |
+| [sase-ac.3](../bbugyi200.athena.sase-ac.3/README.md) | sase-ac hood | dismissed |
+| [sase-ac.4](../bbugyi200.athena.sase-ac.4/README.md) | sase-ac hood | dismissed |
+| [sase-ac.5](../bbugyi200.athena.sase-ac.5/README.md) | sase-ac hood | dismissed |
+| [sase-ac.6.1](../bbugyi200.athena.sase-ac.6.1/README.md) | sase-ac hood | dismissed |
+| [sase-ac.6.2](../bbugyi200.athena.sase-ac.6.2/README.md) | sase-ac hood | dismissed |
+| [sase-ac.6.3](../bbugyi200.athena.sase-ac.6.3/README.md) | sase-ac hood | dismissed |
+| [sase-ac.6.4](../bbugyi200.athena.sase-ac.6.4/README.md) | sase-ac hood | dismissed |
+| [sase-ac.6.5](../bbugyi200.athena.sase-ac.6.5/README.md) | sase-ac hood | dismissed |
+| [sase-ac.6.land](../bbugyi200.athena.sase-ac.6.land/README.md) | sase-ac hood | dismissed |
+| [sase-ac.land](../bbugyi200.athena.sase-ac.land/README.md) | sase-ac hood | dismissed |
