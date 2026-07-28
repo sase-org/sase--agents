@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-al](../../users/bbugyi200/machines/athena/hoods/sase-al/README.md) / sase-al.2
 
-**Global name:** `bbugyi200.athena.sase-al.2` · **State:** waiting · **Source run:** `run-9c9447db35e7456580931ed401f68821`
+**Global name:** `bbugyi200.athena.sase-al.2` · **State:** active · **Source run:** `run-9c9447db35e7456580931ed401f68821`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-al
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260728173846
+- Timing: 2026-07-28T22:21:08.789125+00:00
 - Commits: 0
 
 ## Files
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-al.1](../bbugyi200.athena.sase-al.1/README.md) | sase-al hood | active |
+| [sase-al.1](../bbugyi200.athena.sase-al.1/README.md) | sase-al hood | completed |
 | [sase-al.land](../bbugyi200.athena.sase-al.land/README.md) | sase-al hood | waiting |
