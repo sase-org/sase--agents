@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-28T20:37:30.668530+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`aae07cf`](https://github.com/sase-org/sase/commit/aae07cfee19c92b1134447604a13b1a8cc37d623) | fix(beads): skip commits for no-op mutations | 2026-07-28 21:04:15 |
 
 ## Neighbors
 

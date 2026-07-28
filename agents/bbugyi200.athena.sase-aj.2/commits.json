@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4daf313ff1e8bb9321a727c09d5db63d"}
+{"commits":[{"committed_at":1785272655,"sha":"aae07cfee19c92b1134447604a13b1a8cc37d623","subject":"fix(beads): skip commits for no-op mutations"}],"schema_version":2,"source_run_id":"run-4daf313ff1e8bb9321a727c09d5db63d"}
