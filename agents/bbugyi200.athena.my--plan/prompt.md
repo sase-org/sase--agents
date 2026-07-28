@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase Can you help me change the `H` keymap, so we prefer to collapse the agent clan we are in instead of collapsing all clans in a given agent tribe panel's group? For example, in #sshot, when the user presses `H` currently, both expanded agent clans are collapsed. After this change, I would like just the `sase-ac.6` agent clan to collapse when `H` is first pressed. Pressing it a 2nd time (while the collapsed `sase-ac.6` agent clan is selected) should result in all expanded agent clans in the current agent tribe panel group (i.e. the `sase-af` agent clan) to collapse.
+
+#plan #m_opus
