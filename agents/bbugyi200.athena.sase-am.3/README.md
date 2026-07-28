@@ -29,5 +29,5 @@
 |---|---|---|
 | [sase-am.1](../bbugyi200.athena.sase-am.1/README.md) | sase-am hood | completed |
 | [sase-am.2](../bbugyi200.athena.sase-am.2/README.md) | sase-am hood | completed |
-| [sase-am.4](../bbugyi200.athena.sase-am.4/README.md) | sase-am hood | active |
-| [sase-am.land](../bbugyi200.athena.sase-am.land/README.md) | sase-am hood | waiting |
+| [sase-am.4](../bbugyi200.athena.sase-am.4/README.md) | sase-am hood | completed |
+| [sase-am.land](../../families/bbugyi200.athena.sase-am.land.md) (family · 2) | sase-am hood | active 2 |
