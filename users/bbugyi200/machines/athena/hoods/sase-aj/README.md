@@ -7,7 +7,7 @@
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [sase-aj.land](../../../../../../agents/bbugyi200.athena.sase-aj.land/README.md) | waiting | opus / claude | 20260728162237 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-aj.land/prompt.md) |
-| [sase-aj.5](../../../../../../agents/bbugyi200.athena.sase-aj.5/README.md) | active | gpt-5.6-sol / codex | 2026-07-28T20:37:34.643880+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-aj.5/prompt.md) |
+| [sase-aj.5](../../../../../../agents/bbugyi200.athena.sase-aj.5/README.md) | active | gpt-5.6-sol / codex | 2026-07-28T20:37:34.643880+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-aj.5/prompt.md) |
 | [sase-aj.2](../../../../../../agents/bbugyi200.athena.sase-aj.2/README.md) | completed | gpt-5.6-sol / codex | 2026-07-28T20:37:30.668530+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-aj.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-aj.2/chat.md) |
 | [sase-aj.6](../../../../../../agents/bbugyi200.athena.sase-aj.6/README.md) | completed | gpt-5.6-sol / codex | 2026-07-28T20:22:49.452428+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-aj.6/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-aj.6/chat.md) |
 | [sase-aj.3](../../../../../../agents/bbugyi200.athena.sase-aj.3/README.md) | waiting | gpt-5.6-sol / codex | 20260728162236 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-aj.3/prompt.md) |
