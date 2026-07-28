@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase When an xprompt is completed from the prompt input widget that has no arguments or one optional argument, we add a space after that xprompt.  Can you help me make it so when a comma is typed after that space, that we remove the space (e.g. so `#foo ,` becomes `#foo,`)? #plan
