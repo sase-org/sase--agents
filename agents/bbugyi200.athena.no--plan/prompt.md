@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I just got the following error when the `sase ace` TUI just crashed on me: `TypeError: build_wait_lanes() missing 1 required keyword-only argument: 'tribe_wait_bindings'`. Can you help me diagnose the root cause of this issue and fix it? #plan #m_opus
