@@ -31,7 +31,8 @@
 | [sase-ag.2](../bbugyi200.athena.sase-ag.2/README.md) | sase-ag hood | completed |
 | [sase-ag.3](../bbugyi200.athena.sase-ag.3/README.md) | sase-ag hood | completed |
 | [sase-ag.4](../bbugyi200.athena.sase-ag.4/README.md) | sase-ag hood | completed |
-| [sase-ag.6](../bbugyi200.athena.sase-ag.6/README.md) | sase-ag hood | active |
-| [sase-ag.land](../bbugyi200.athena.sase-ag.land/README.md) | sase-ag hood | waiting |
+| [sase-ag.6](../bbugyi200.athena.sase-ag.6/README.md) | sase-ag hood | completed |
+| [sase-ag.land](../../families/bbugyi200.athena.sase-ag.land.md) (family · 2) | sase-ag hood | active 2 |
+| [sase-ag.land.f0](../bbugyi200.athena.sase-ag.land.f0/README.md) | sase-ag hood | waiting |
 | [sase-ag.land.w0](../bbugyi200.athena.sase-ag.land.w0/README.md) | sase-ag hood | dismissed |
-| [sase-ag.land.w1](../bbugyi200.athena.sase-ag.land.w1/README.md) | sase-ag hood | waiting |
+| [sase-ag.land.w1](../bbugyi200.athena.sase-ag.land.w1/README.md) | sase-ag hood | dismissed |
