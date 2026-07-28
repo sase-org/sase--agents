@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-19a606ce69577c3ca0526b8b96f66393"}
+{"commits":[{"committed_at":1785244782,"sha":"105d9d36930f5f6824e49face0fff277e39d4fa9","subject":"fix: serialize skill chezmoi deploys (sase-ae.3)"}],"schema_version":2,"source_run_id":"run-19a606ce69577c3ca0526b8b96f66393"}
