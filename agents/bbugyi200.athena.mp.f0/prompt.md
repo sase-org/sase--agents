@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase #fork:mp We should never show the project spec filename to the user when a project name is configured, only the actual project name (i.e. use the configured `PROJECT_NAME:` in the project spec file if it exists). For example, in #sshot, we should show `sase` instead of `gh_sase-org__sase`. Can you help me fix this? Also, add a useful and concise (remember that every token in context either helps or hurts us) section (use the format used in that file--I think we use description lists) to the sase/memory/gotchas.md file that ensures we never make a mistake like this again.
+
+#plan #m_opus

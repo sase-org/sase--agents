@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6a0e3de5244de7fd7398e92d5a613437"}
+{"commits":[{"committed_at":1785241676,"sha":"40f2d526e6b1e0b992dbc3e80c8cee66d5750ac6","subject":"fix(xprompt): canonicalize project catalog namespaces (sase-ac.2)"}],"schema_version":2,"source_run_id":"run-6a0e3de5244de7fd7398e92d5a613437"}

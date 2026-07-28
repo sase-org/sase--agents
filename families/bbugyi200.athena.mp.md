@@ -25,3 +25,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Commit | Subject | Committed (UTC) |
 |---|---|---|---|
 | code | [`fc72269`](https://github.com/sase-org/sase/commit/fc72269b639c93cc29cd617d5b3dd3da4d91cd3d) | feat(ace): add project facet to commits filters | 2026-07-28 11:32:59 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [mp.f0](../agents/bbugyi200.athena.mp.f0/README.md) | descendant | active |

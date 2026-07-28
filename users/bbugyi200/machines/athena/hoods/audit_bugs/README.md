@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / audit\_bugs
 
-**Global hood:** `bbugyi200.athena.audit_bugs` · **Runs:** 33 · **Families:** 0 · **States:** active 24, completed 7, dismissed 1, waiting 1
+**Global hood:** `bbugyi200.athena.audit_bugs` · **Runs:** 33 · **Families:** 0 · **States:** active 23, completed 7, dismissed 2, waiting 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [audit\_bugs.sase.e2a294dc09ae](../../../../../../agents/bbugyi200.athena.audit_bugs.sase.e2a294dc09ae/README.md) | active | gpt-5.6-sol / codex | 2026-07-19T12:01:03.971276+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.audit_bugs.sase.e2a294dc09ae/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.audit_bugs.sase.e2a294dc09ae/chat.md) |
-| [audit\_bugs.sase.11f16e3275e5](../../../../../../agents/bbugyi200.athena.audit_bugs.sase.11f16e3275e5/README.md) | active | gpt-5.6-sol / codex | 2026-07-28T12:19:48.937629+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.audit_bugs.sase.11f16e3275e5/prompt.md) |
+| [audit\_bugs.sase.11f16e3275e5](../../../../../../agents/bbugyi200.athena.audit_bugs.sase.11f16e3275e5/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-28T08:19:48.937629 | 0 | — |
 | [audit\_bugs.sase.d605ae5119e3](../../../../../../agents/bbugyi200.athena.audit_bugs.sase.d605ae5119e3/README.md) | completed | — | 2026-06-24T10:28:05+00:00 → 2026-06-24T10:28:05+00:00 | 1 | — |
 | [audit\_bugs.sase.fe372b13adbc](../../../../../../agents/bbugyi200.athena.audit_bugs.sase.fe372b13adbc/README.md) | active | gpt-5.5 / codex | 2026-07-06T11:10:03.509991+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.audit_bugs.sase.fe372b13adbc/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.audit_bugs.sase.fe372b13adbc/chat.md) |
 | [audit\_bugs.sase.c029ba2da5f7](../../../../../../agents/bbugyi200.athena.audit_bugs.sase.c029ba2da5f7/README.md) | completed | — | 2026-06-16T02:35:37+00:00 → 2026-06-16T02:35:37+00:00 | 1 | — |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [audit\_bugs](../../users/bbugyi200/machines/athena/hoods/audit_bugs/README.md) / audit\_bugs.sase.11f16e3275e5
 
-**Global name:** `bbugyi200.athena.audit_bugs.sase.11f16e3275e5` · **State:** active · **Source run:** `run-0780372d3d70538cfcc14cf06ce61aa2`
+**Global name:** `bbugyi200.athena.audit_bugs.sase.11f16e3275e5` · **State:** dismissed · **Source run:** `run-0780372d3d70538cfcc14cf06ce61aa2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** audit\_bugs
 
@@ -10,12 +10,8 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-28T12:19:48.937629+00:00
+- Timing: 2026-07-28T08:19:48.937629
 - Commits: 0
-
-## Files
-
-[Prompt](prompt.md)
 
 ## Neighbors
 
