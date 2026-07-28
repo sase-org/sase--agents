@@ -11,11 +11,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-28T12:28:42.589492+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`b449b8a`](https://github.com/sase-org/sase/commit/b449b8a4b5a133ded4771fa07e22307bf97620cb) | fix(xprompt): normalize ACE completion project identity (sase-ac.4) | 2026-07-28 12:58:11 |
 
 ## Neighbors
 
