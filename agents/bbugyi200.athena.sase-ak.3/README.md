@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-28T21:24:28.423895+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`ed04c42`](https://github.com/sase-org/sase/commit/ed04c42f239002a2f682ca9dc0761442a140cf4c) | feat(ace): display tribe wait bindings | 2026-07-28 21:48:54 |
 
 ## Neighbors
 
