@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-560257c72ff369f9fb030dfa8601e9d9"}
+{"commits":[{"committed_at":1785265753,"sha":"a575d6539730da437fd65491b60eb6f598ad3e9c","subject":"refactor(agents-sync): remove unused publication interfaces"}],"schema_version":2,"source_run_id":"run-560257c72ff369f9fb030dfa8601e9d9"}

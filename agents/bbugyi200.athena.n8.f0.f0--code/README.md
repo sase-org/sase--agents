@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [n8.f0](../bbugyi200.athena.n8.f0/README.md) | ancestor | completed |
-| [n8](../bbugyi200.athena.n8/README.md) | ancestor | completed |
+| [n8.f0](../bbugyi200.athena.n8.f0/README.md) | ancestor | dismissed |
+| [n8](../bbugyi200.athena.n8/README.md) | ancestor | dismissed |

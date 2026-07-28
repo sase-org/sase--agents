@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [n8](../../users/bbugyi200/machines/athena/hoods/n8/README.md) / n8
 
-**Global name:** `bbugyi200.athena.n8` · **State:** completed · **Source run:** `run-3cf57493b6832aa7b277222c7bc890e2`
+**Global name:** `bbugyi200.athena.n8` · **State:** dismissed · **Source run:** `run-3cf57493b6832aa7b277222c7bc890e2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** n8
 
@@ -10,13 +10,13 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-07-28T16:58:15.619776+00:00
+- Timing: 2026-07-28T12:58:15.619776 → 2026-07-28T13:01:44.809962
 - Commits: 0
 - Variables: [15](#variables)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Variables
 
@@ -44,5 +44,5 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [n8.f0](../bbugyi200.athena.n8.f0/README.md) | descendant | completed |
-| [n8.f0.f0](../../families/bbugyi200.athena.n8.f0.f0.md) (family · 2) | descendant | completed 2 |
+| [n8.f0](../bbugyi200.athena.n8.f0/README.md) | descendant | dismissed |
+| [n8.f0.f0](../../families/bbugyi200.athena.n8.f0.f0.md) (family · 2) | descendant | completed 1, dismissed 1 |

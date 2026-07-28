@@ -17,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | nb--code | completed | gpt-5.6-sol / codex | 2026-07-28T19:03:32.015047+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.nb--code/chat.md) |
+| <a id="member-code"></a>code | nb--code | completed | gpt-5.6-sol / codex | 2026-07-28T19:03:32.015047+00:00 | [1](../agents/bbugyi200.athena.nb--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.nb--code/chat.md) |
 | <a id="member-plan"></a>plan | nb--plan | completed | gpt-5.6-sol / codex | 2026-07-28T18:54:53.273925+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.nb--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.nb--plan/chat.md) |
+
+## Commits
+
+| Role | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| code | [`a575d65`](https://github.com/sase-org/sase/commit/a575d6539730da437fd65491b60eb6f598ad3e9c) | refactor(agents-sync): remove unused publication interfaces | 2026-07-28 19:09:13 |
