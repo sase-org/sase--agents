@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-av.7--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_av_7__plan-260729_125047.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_av_7__code-260729_125047.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/artifact_ref_lsp_completion.md
 
 
