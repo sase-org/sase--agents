@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:nx We should not wrap URLs since that will break terminal application's (e.g. Kitty) ability to identify it as a URL (for example, I often open URLs using Kitty's `<ctrl+shift+e>` keymap). Can you help me fix this? #plan

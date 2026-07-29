@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start adding a URL to the `<project>--beads` GitHub page associated with the epic bead to the agent clan summary used for that epic (see #sshot for what this looks like now? #beau #plan #m_opus
