@@ -11,7 +11,13 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-29T17:58:08.029675+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`3f6e4ea`](https://github.com/sase-org/sase/commit/3f6e4ea81a0ea13d5f0427358df02aa0c5cdde0a) | feat(editor): materialize artifact reference catalog for LSP | 2026-07-29 19:03:40 |
 
 ## Neighbors
 

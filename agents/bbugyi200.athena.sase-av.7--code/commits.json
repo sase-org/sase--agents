@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-90170cb3e3a340b52a4ef0a1f2cb0aa9"}
+{"commits":[{"committed_at":1785351820,"sha":"3f6e4ea81a0ea13d5f0427358df02aa0c5cdde0a","subject":"feat(editor): materialize artifact reference catalog for LSP"}],"schema_version":2,"source_run_id":"run-90170cb3e3a340b52a4ef0a1f2cb0aa9"}
