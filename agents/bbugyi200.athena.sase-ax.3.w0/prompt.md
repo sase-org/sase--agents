@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make the changes described in the "Unified 'Copy as…' palette" (#6) section of the artifact_refs_and_inspector.md research repo file? See the work associated with the sase-as and sase-ax (still landing ATTOW, but basically done) epic beads for the work the corresponds with sections #2 and #3, respectively. #beau #plan #m_fable %w:sase-ax.3
