@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase In the agent tribe panel summary that is shown in the agent metadata panel when agent tribe panel's are selected, I would like to start visually indicating (somehow--make sure this looks good) which member of the `TRIBE MEMBERS` section would be selected if the user presses `l` (this should be either the last selected agent clan / lane selected in this agent tribe panel, if we have that information, or the first agent clan / lane in this tribe). See #sshot for an example of what these agent tribe panel summaries look like in the agent metadata panel currently.
+
+#beau #plan #m_opus
