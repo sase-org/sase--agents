@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-124cd44a0a21b047e90a0db3a0b84de6"}
+{"commits":[{"committed_at":1785339759,"sha":"17fc09cdc0124036ed3b301bcb2031a2df11392b","subject":"build(deps): require sase-core-rs>=0.12.9 for the chop report wire"}],"schema_version":2,"source_run_id":"run-124cd44a0a21b047e90a0db3a0b84de6"}
