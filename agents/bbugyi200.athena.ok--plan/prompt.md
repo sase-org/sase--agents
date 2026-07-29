@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase If an agent tribe panel is selected and the `l` keymap is used to select the first/last agent lane, if that agent lane is unread, it should be marked as read once selected. That doesn't seem to be happening (the user needs to do something like press `j` and then `k` to mark the lane as read). Can you help me fix this? #plan #m_opus
