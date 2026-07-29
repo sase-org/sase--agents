@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-29T12:07:42.946897+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`c5d2e1a`](https://github.com/sase-org/sase/commit/c5d2e1a2cbec42eb6903c2ae4069a8cda792692d) | feat(tui): enrich model completion rows | 2026-07-29 12:34:07 |
 
 ## Neighbors
 
@@ -23,6 +29,6 @@
 |---|---|---|
 | [sase-ao.1](../bbugyi200.athena.sase-ao.1/README.md) | sase-ao hood | completed |
 | [sase-ao.2](../bbugyi200.athena.sase-ao.2/README.md) | sase-ao hood | completed |
-| [sase-ao.4](../bbugyi200.athena.sase-ao.4/README.md) | sase-ao hood | active |
+| [sase-ao.4](../bbugyi200.athena.sase-ao.4/README.md) | sase-ao hood | completed |
 | [sase-ao.5](../bbugyi200.athena.sase-ao.5/README.md) | sase-ao hood | waiting |
 | [sase-ao.land](../bbugyi200.athena.sase-ao.land/README.md) | sase-ao hood | waiting |

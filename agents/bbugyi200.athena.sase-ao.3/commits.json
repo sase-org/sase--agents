@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-aaca70dbb9b3dc4e9de5be0b0655c713"}
+{"commits":[{"committed_at":1785328447,"sha":"c5d2e1a2cbec42eb6903c2ae4069a8cda792692d","subject":"feat(tui): enrich model completion rows"}],"schema_version":2,"source_run_id":"run-aaca70dbb9b3dc4e9de5be0b0655c713"}
