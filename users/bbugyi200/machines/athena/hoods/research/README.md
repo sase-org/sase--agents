@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / research
 
-**Global hood:** `bbugyi200.athena.research` · **Runs:** 295 · **Families:** 6 · **States:** active 83, completed 188, dismissed 13, failed 1, waiting 10
+**Global hood:** `bbugyi200.athena.research` · **Runs:** 296 · **Families:** 6 · **States:** active 82, completed 190, dismissed 13, failed 1, waiting 10
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -73,6 +73,7 @@
 | [research.n.cld](../../../../../../agents/bbugyi200.athena.research.n.cld/README.md) | dismissed | opus / claude | 2026-07-28T15:41:48.819467 → 2026-07-28T15:53:46.161151 | 0 | [chat](../../../../../../agents/bbugyi200.athena.research.n.cld/chat.md) |
 | [research.0e.image](../../../../../../agents/bbugyi200.athena.research.0e.image/README.md) | completed | — | 2026-06-25T10:51:04+00:00 → 2026-06-25T10:51:04+00:00 | 1 | — |
 | [research.0j.final](../../../../../../agents/bbugyi200.athena.research.0j.final/README.md) | completed | — | 2026-06-25T22:52:19+00:00 → 2026-06-25T22:52:19+00:00 | 1 | — |
+| [research.p.cld.f0](../../../../../../agents/bbugyi200.athena.research.p.cld.f0/README.md) | completed | haiku / claude | 2026-07-29T11:10:04.493526+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.p.cld.f0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.p.cld.f0/chat.md) |
 | [research.cld-11](../../../../../../agents/bbugyi200.athena.research.cld-11/README.md) | completed | — | 2026-06-06T17:15:31+00:00 → 2026-06-06T17:15:31+00:00 | 1 | — |
 | [research.0n.final.f1](../../../../../../agents/bbugyi200.athena.research.0n.final.f1/README.md) | completed | — | 2026-06-26T16:39:23+00:00 → 2026-06-26T17:10:54+00:00 | 2 | — |
 | [research.3.final.f1.cld.f1.cld](../../../../../../agents/bbugyi200.athena.research.3.final.f1.cld.f1.cld/README.md) | active | opus / claude | 2026-07-08T22:03:23.327417+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.3.final.f1.cld.f1.cld/prompt.md) |
@@ -97,7 +98,7 @@
 | [research.h.final](../../../../../../agents/bbugyi200.athena.research.h.final/README.md) | completed | claude-fable-5 / claude | 2026-07-17T17:29:58.960586+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.h.final/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.h.final/chat.md) |
 | [research.k.final](../../../../../../agents/bbugyi200.athena.research.k.final/README.md) | active | opus / claude | 2026-07-25T14:15:32.867293+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.research.k.final/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.k.final/chat.md) |
 | [research.l.final](../../../../../../agents/bbugyi200.athena.research.l.final/README.md) | dismissed | claude-fable-5 / claude | 2026-07-27T12:09:45.243076 → 2026-07-27T12:17:21.006813 | 1 | [chat](../../../../../../agents/bbugyi200.athena.research.l.final/chat.md) |
-| [research.p.cld](../../../../../../agents/bbugyi200.athena.research.p.cld/README.md) | active | opus / claude | 2026-07-29T10:56:44.767198+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.research.p.cld/prompt.md) |
+| [research.p.cld](../../../../../../agents/bbugyi200.athena.research.p.cld/README.md) | completed | opus / claude | 2026-07-29T10:56:44.767198+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.research.p.cld/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.p.cld/chat.md) |
 | [research.p.image](../../../../../../agents/bbugyi200.athena.research.p.image/README.md) | waiting | gpt-5.6-sol / codex | 20260729065525 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.research.p.image/prompt.md) |
 | [research.08.cld](../../../../../../agents/bbugyi200.athena.research.08.cld/README.md) | completed | — | 2026-06-23T10:59:13+00:00 → 2026-06-23T10:59:13+00:00 | 1 | — |
 | [research.0k.cdx](../../../../../../agents/bbugyi200.athena.research.0k.cdx/README.md) | completed | — | 2026-06-25T22:53:09+00:00 → 2026-06-25T22:53:09+00:00 | 1 | — |
