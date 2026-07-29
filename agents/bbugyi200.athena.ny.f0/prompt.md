@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:ny Can you now help me add the ability to delete entries from these common lists by using a new `<ctrl+d>` keymap that deletes the currently selected entry in the prompt input widget's completion menu? Make sure we display a toast to the user when an entry is deleted and update (but do not close) the completion menu. #plan #m_opus

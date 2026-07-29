@@ -4,10 +4,10 @@ Deterministic, owner-sharded snapshots published by SASE.
 
 ![Project-scoped agent hoods pass through explicit privacy consent into an owner-sharded agents sidecar, where deterministic sync publishes prompts, chats, commits, states, and browsable owner, machine, hood, family, and agent pages.](assets/agents-directory-map.png)
 
-**Owners:** 1 · **Machines:** 1 · **Hoods:** 1180 · **Runs:** 4937
+**Owners:** 1 · **Machines:** 1 · **Hoods:** 1181 · **Runs:** 4940
 
 ## Users
 
 | User | Machines | Hoods | Runs |
 |---|---:|---:|---:|
-| [bbugyi200](users/bbugyi200/README.md) | 1 | 1180 | 4937 |
+| [bbugyi200](users/bbugyi200/README.md) | 1 | 1181 | 4940 |

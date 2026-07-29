@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me raise the default value for the sase config field that controls how many common words / placeholders we store from `1000` to `10000`? #plan
