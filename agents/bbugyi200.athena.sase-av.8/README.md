@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-29T19:05:05.251767+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`a0ca459`](https://github.com/sase-org/sase/commit/a0ca459ea1c0e9b4b938df8e42bcb1b0ba33d51d) | docs(editor): document artifact semantic highlighting | 2026-07-29 19:35:44 |
 
 ## Neighbors
 
@@ -26,6 +32,6 @@
 | [sase-av.3](../bbugyi200.athena.sase-av.3/README.md) | sase-av hood | completed |
 | [sase-av.4](../bbugyi200.athena.sase-av.4/README.md) | sase-av hood | completed |
 | [sase-av.5](../bbugyi200.athena.sase-av.5/README.md) | sase-av hood | completed |
-| [sase-av.6](../../families/bbugyi200.athena.sase-av.6.md) (family · 2) | sase-av hood | active 2 |
+| [sase-av.6](../../families/bbugyi200.athena.sase-av.6.md) (family · 2) | sase-av hood | completed 2 |
 | [sase-av.7](../../families/bbugyi200.athena.sase-av.7.md) (family · 2) | sase-av hood | completed 2 |
 | [sase-av.land](../bbugyi200.athena.sase-av.land/README.md) | sase-av hood | waiting |
