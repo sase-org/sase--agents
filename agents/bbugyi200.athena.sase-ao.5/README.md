@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ao](../../users/bbugyi200/machines/athena/hoods/sase-ao/README.md) / sase-ao.5
 
-**Global name:** `bbugyi200.athena.sase-ao.5` · **State:** waiting · **Source run:** `run-8ff6d338c763edb8e49aeba7c34c961c`
+**Global name:** `bbugyi200.athena.sase-ao.5` · **State:** active · **Source run:** `run-8ff6d338c763edb8e49aeba7c34c961c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ao
 
@@ -10,12 +10,18 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20260729074720
-- Commits: 0
+- Timing: 2026-07-29T12:35:26.071273+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`fe53df8`](https://github.com/sase-org/sase/commit/fe53df885faf473a7ec5e459258e35764e6f8049) | docs(ace): document the %model alias completion rows | 2026-07-29 12:48:59 |
 
 ## Neighbors
 
@@ -23,6 +29,6 @@
 |---|---|---|
 | [sase-ao.1](../bbugyi200.athena.sase-ao.1/README.md) | sase-ao hood | completed |
 | [sase-ao.2](../bbugyi200.athena.sase-ao.2/README.md) | sase-ao hood | completed |
-| [sase-ao.3](../bbugyi200.athena.sase-ao.3/README.md) | sase-ao hood | active |
+| [sase-ao.3](../bbugyi200.athena.sase-ao.3/README.md) | sase-ao hood | completed |
 | [sase-ao.4](../bbugyi200.athena.sase-ao.4/README.md) | sase-ao hood | completed |
 | [sase-ao.land](../bbugyi200.athena.sase-ao.land/README.md) | sase-ao hood | waiting |

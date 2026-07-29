@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8ff6d338c763edb8e49aeba7c34c961c"}
+{"commits":[{"committed_at":1785329339,"sha":"fe53df885faf473a7ec5e459258e35764e6f8049","subject":"docs(ace): document the %model alias completion rows"}],"schema_version":2,"source_run_id":"run-8ff6d338c763edb8e49aeba7c34c961c"}
