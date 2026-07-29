@@ -25,7 +25,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-av.2](../agents/bbugyi200.athena.sase-av.2/README.md) | sase-av hood | completed |
-| [sase-av.3](../agents/bbugyi200.athena.sase-av.3/README.md) | sase-av hood | active |
+| [sase-av.3](../agents/bbugyi200.athena.sase-av.3/README.md) | sase-av hood | completed |
 | [sase-av.4](../agents/bbugyi200.athena.sase-av.4/README.md) | sase-av hood | completed |
 | [sase-av.5](../agents/bbugyi200.athena.sase-av.5/README.md) | sase-av hood | completed |
 | [sase-av.6](bbugyi200.athena.sase-av.6.md) (family · 2) | sase-av hood | active 2 |
