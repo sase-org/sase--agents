@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me label every sub-tab of the "Statistics" tab of the "SASE Admin Center" panel with a number starting with one? We should then add new `0<N>` keymaps, where `<N>` corresponds to the tab number, that activate the corresponding statistics sub-tab. #plan #m_opus %w:sase-au.5
