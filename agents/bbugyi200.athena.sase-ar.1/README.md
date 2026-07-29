@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ar](../../users/bbugyi200/machines/athena/hoods/sase-ar/README.md) / sase-ar.1
 
-**Global name:** `bbugyi200.athena.sase-ar.1` · **State:** active · **Source run:** `run-77dcb7fcaa181ce041ed5634717c3e87`
+**Global name:** `bbugyi200.athena.sase-ar.1` · **State:** completed · **Source run:** `run-77dcb7fcaa181ce041ed5634717c3e87`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ar
 
@@ -15,14 +15,14 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ar.2](../bbugyi200.athena.sase-ar.2/README.md) | sase-ar hood | waiting |
-| [sase-ar.3](../bbugyi200.athena.sase-ar.3/README.md) | sase-ar hood | waiting |
+| [sase-ar.2](../bbugyi200.athena.sase-ar.2/README.md) | sase-ar hood | active |
+| [sase-ar.3](../bbugyi200.athena.sase-ar.3/README.md) | sase-ar hood | active |
 | [sase-ar.4](../bbugyi200.athena.sase-ar.4/README.md) | sase-ar hood | waiting |
 | [sase-ar.5](../bbugyi200.athena.sase-ar.5/README.md) | sase-ar hood | waiting |
 | [sase-ar.6](../bbugyi200.athena.sase-ar.6/README.md) | sase-ar hood | waiting |
