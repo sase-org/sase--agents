@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Is placeholder completion for the placeholders in the current prompt working correctly? #if_not_plan I'm worred that our recent support for "common placeholders" has overridden the old functionality (which was not the intention). #m_opus
