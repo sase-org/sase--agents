@@ -98,4 +98,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 227 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 231 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
