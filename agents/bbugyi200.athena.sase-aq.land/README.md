@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-aq](../../users/bbugyi200/machines/athena/hoods/sase-aq/README.md) / sase-aq.land
 
-**Global name:** `bbugyi200.athena.sase-aq.land` · **State:** waiting · **Source run:** `run-57690767b307978a3bfc06216535ebd3`
+**Global name:** `bbugyi200.athena.sase-aq.land` · **State:** completed · **Source run:** `run-57690767b307978a3bfc06216535ebd3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-aq
 
@@ -10,12 +10,12 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20260729090850
+- Timing: 2026-07-29T14:58:25.145060+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -26,4 +26,4 @@
 | [sase-aq.3](../bbugyi200.athena.sase-aq.3/README.md) | sase-aq hood | completed |
 | [sase-aq.4](../bbugyi200.athena.sase-aq.4/README.md) | sase-aq hood | completed |
 | [sase-aq.5](../bbugyi200.athena.sase-aq.5/README.md) | sase-aq hood | completed |
-| [sase-aq.6](../bbugyi200.athena.sase-aq.6/README.md) | sase-aq hood | active |
+| [sase-aq.6](../bbugyi200.athena.sase-aq.6/README.md) | sase-aq hood | completed |
