@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase When we dismiss/kill agents, we seem to be showin the wrong agent lane count in the y/n prompt we display to the user in the TUI (see #sshot, for example). Can you help me fix this? #plan #m_opus
