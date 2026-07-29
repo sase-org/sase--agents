@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e4f681648edd25e7036520c3c755eefe"}
+{"commits":[{"committed_at":1785337018,"sha":"02e83845b1ef0fa7e173915a1a010fe27cfa047a","subject":"fix(ace): safely dump text artifact fallback"}],"schema_version":2,"source_run_id":"run-e4f681648edd25e7036520c3c755eefe"}
