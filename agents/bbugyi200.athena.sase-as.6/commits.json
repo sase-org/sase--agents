@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-bcbf63e2942b4e76f69d78116ee69f86"}
+{"commits":[{"committed_at":1785339125,"sha":"107904b6bea97c5d036921b2fbbc7ee92e7ceb0e","subject":"feat(sdd): route document sidecars through role registry"}],"schema_version":2,"source_run_id":"run-bcbf63e2942b4e76f69d78116ee69f86"}

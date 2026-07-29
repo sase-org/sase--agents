@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-29T15:08:29.893799+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`107904b`](https://github.com/sase-org/sase/commit/107904b6bea97c5d036921b2fbbc7ee92e7ceb0e) | feat(sdd): route document sidecars through role registry | 2026-07-29 15:32:05 |
 
 ## Neighbors
 
