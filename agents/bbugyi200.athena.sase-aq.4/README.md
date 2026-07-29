@@ -30,6 +30,6 @@
 | [sase-aq.1](../bbugyi200.athena.sase-aq.1/README.md) | sase-aq hood | completed |
 | [sase-aq.2](../bbugyi200.athena.sase-aq.2/README.md) | sase-aq hood | completed |
 | [sase-aq.3](../bbugyi200.athena.sase-aq.3/README.md) | sase-aq hood | completed |
-| [sase-aq.5](../bbugyi200.athena.sase-aq.5/README.md) | sase-aq hood | active |
+| [sase-aq.5](../bbugyi200.athena.sase-aq.5/README.md) | sase-aq hood | completed |
 | [sase-aq.6](../bbugyi200.athena.sase-aq.6/README.md) | sase-aq hood | active |
 | [sase-aq.land](../bbugyi200.athena.sase-aq.land/README.md) | sase-aq hood | waiting |

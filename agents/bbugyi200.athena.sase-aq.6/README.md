@@ -11,11 +11,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-29T14:24:02.186075+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`0272356`](https://github.com/sase-org/sase/commit/0272356a5df3070960e1634eae673524fe3d0bc0) | docs: document keyed xprompt markers | 2026-07-29 14:56:41 |
 
 ## Neighbors
 
@@ -25,5 +31,5 @@
 | [sase-aq.2](../bbugyi200.athena.sase-aq.2/README.md) | sase-aq hood | completed |
 | [sase-aq.3](../bbugyi200.athena.sase-aq.3/README.md) | sase-aq hood | completed |
 | [sase-aq.4](../bbugyi200.athena.sase-aq.4/README.md) | sase-aq hood | completed |
-| [sase-aq.5](../bbugyi200.athena.sase-aq.5/README.md) | sase-aq hood | active |
+| [sase-aq.5](../bbugyi200.athena.sase-aq.5/README.md) | sase-aq hood | completed |
 | [sase-aq.land](../bbugyi200.athena.sase-aq.land/README.md) | sase-aq hood | waiting |
