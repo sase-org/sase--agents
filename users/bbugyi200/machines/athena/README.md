@@ -558,7 +558,7 @@
 | [as](hoods/as/README.md) | 4 | 2 | active 2, completed 2 |
 | [ato](hoods/ato/README.md) | 3 | 0 | completed 3 |
 | [audit\_bugs](hoods/audit_bugs/README.md) | 36 | 0 | active 24, completed 7, dismissed 4, waiting 1 |
-| [audit\_improvements](hoods/audit_improvements/README.md) | 24 | 0 | active 12, completed 11, waiting 1 |
+| [audit\_improvements](hoods/audit_improvements/README.md) | 24 | 0 | active 13, completed 11 |
 | [av](hoods/av/README.md) | 2 | 1 | active 1, completed 1 |
 | [aw](hoods/aw/README.md) | 4 | 2 | active 2, completed 2 |
 | [az2](hoods/az2/README.md) | 3 | 0 | completed 3 |
