@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8e60197db8f623ff9d03d29cac982542"}
+{"commits":[{"committed_at":1785365418,"sha":"30e2ed37ed28cc2dab894e69419d206fec79ce05","subject":"feat(cli): add artifact read commands"}],"schema_version":2,"source_run_id":"run-8e60197db8f623ff9d03d29cac982542"}

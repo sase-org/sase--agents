@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-ax.3--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_ax_3__plan-260729_170720.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_ax_3__code-260729_170720.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/artifact_read_cli_1.md
 
 
