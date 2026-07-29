@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / chop
 
-**Global hood:** `bbugyi200.athena.chop` · **Runs:** 38 · **Families:** 0 · **States:** active 29, dismissed 6, waiting 3
+**Global hood:** `bbugyi200.athena.chop` · **Runs:** 38 · **Families:** 0 · **States:** active 29, completed 1, dismissed 6, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -12,7 +12,7 @@
 | [chop.refresh\_docs.sase.0\_740675.1](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.0_740675.1/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-28T11:57:48.188849 | 0 | — |
 | [chop.refresh\_docs.sase.2\_895086.1](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.2_895086.1/README.md) | active | gpt-5.6-sol / codex | 2026-07-26T09:48:37.590911+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.2_895086.1/prompt.md) |
 | [chop.refresh\_docs.sase.2\_783024.2](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.2_783024.2/README.md) | active | opus / claude | 20260725104149 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.2_783024.2/prompt.md) |
-| [chop.refresh\_docs.sase.0\_456044.1](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.0_456044.1/README.md) | active | gpt-5.6-sol / codex | 2026-07-29T05:40:45.589993+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.0_456044.1/prompt.md) |
+| [chop.refresh\_docs.sase.0\_456044.1](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.0_456044.1/README.md) | completed | gpt-5.6-sol / codex | 2026-07-29T05:40:45.589993+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.0_456044.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.0_456044.1/chat.md) |
 | [chop.refresh\_docs.sase.7\_951139.1](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.7_951139.1/README.md) | active | opus / claude | 2026-07-25T23:43:49.877888+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.7_951139.1/prompt.md) |
 | [chop.refresh\_docs.sase.2\_783024.1](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.2_783024.1/README.md) | active | opus / claude | 2026-07-25T14:41:55.801485+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.2_783024.1/prompt.md) |
 | [chop.refresh\_docs.sase.1\_574131.2](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.1_574131.2/README.md) | active | gpt-5.6-sol / codex | 2026-07-26T13:18:13.311968+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.1_574131.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.1_574131.2/chat.md) |
@@ -41,6 +41,6 @@
 | [chop.refresh\_docs.sase.9\_859634.1](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.9_859634.1/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-28T05:56:25.676675 → 2026-07-28T05:56:34.018283 | 0 | — |
 | [chop.refresh\_docs.sase.8\_532679.2](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.8_532679.2/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-28T08:56:34 | 0 | — |
 | [chop.refresh\_docs.sase.8\_257999.2](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.8_257999.2/README.md) | waiting | opus / claude | 20260725134217 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.8_257999.2/prompt.md) |
-| [chop.refresh\_docs.sase.0\_456044.2](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.0_456044.2/README.md) | waiting | gpt-5.6-sol / codex | 20260728145755 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.0_456044.2/prompt.md) |
+| [chop.refresh\_docs.sase.0\_456044.2](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.0_456044.2/README.md) | active | gpt-5.6-sol / codex | 2026-07-29T06:04:47.842226+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.0_456044.2/prompt.md) |
 | [chop.refresh\_docs.sase.0\_740675.2](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.0_740675.2/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-28T11:57:40 | 0 | — |
 | [chop.refresh\_docs.sase.1\_232033.1](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.1_232033.1/README.md) | active | opus / claude | 2026-07-25T20:43:02.105953+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.1_232033.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.sase.1_232033.1/chat.md) |
