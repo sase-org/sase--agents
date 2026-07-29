@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `H` (collapse houses) keymap seems to have the wrong description (see #sshot). Can you help me fix this? #plan #m_opus
