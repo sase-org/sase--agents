@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-9d1051a7687b951dc6fc4fcd054c6244"}
+{"commits":[{"committed_at":1785347533,"sha":"9988b6161c9b47b3a657b49981fb11b1bf3e0c98","subject":"feat(artifacts): add artifact reference facade"}],"schema_version":2,"source_run_id":"run-9d1051a7687b951dc6fc4fcd054c6244"}
