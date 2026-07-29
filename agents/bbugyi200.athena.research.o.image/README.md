@@ -15,15 +15,15 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.o.cdx](../bbugyi200.athena.research.o.cdx/README.md) | research.o hood | completed |
-| [research.o.cld](../bbugyi200.athena.research.o.cld/README.md) | research.o hood | completed |
-| [research.o.final](../bbugyi200.athena.research.o.final/README.md) | research.o hood | completed |
+| [research.o.cdx](../bbugyi200.athena.research.o.cdx/README.md) | research.o hood | active |
+| [research.o.cld](../bbugyi200.athena.research.o.cld/README.md) | research.o hood | active |
+| [research.o.final](../bbugyi200.athena.research.o.final/README.md) | research.o hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | active |
@@ -74,4 +74,4 @@
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 240 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 244 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
