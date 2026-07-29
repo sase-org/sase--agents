@@ -7,9 +7,9 @@
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [sase-au.2](../../../../../../agents/bbugyi200.athena.sase-au.2/README.md) | active | gpt-5.6-sol / codex | 2026-07-29T16:38:31.903512+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-au.2/prompt.md) |
-| [sase-au.3](../../../../../../agents/bbugyi200.athena.sase-au.3/README.md) | completed | gpt-5.6-sol / codex | 2026-07-29T16:27:48.634958+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-au.3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-au.3/chat.md) |
+| [sase-au.3](../../../../../../agents/bbugyi200.athena.sase-au.3/README.md) | completed | gpt-5.6-sol / codex | 2026-07-29T16:27:48.634958+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-au.3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-au.3/prompt.md) |
 | [sase-au.5](../../../../../../agents/bbugyi200.athena.sase-au.5/README.md) | waiting | gpt-5.6-sol / codex | 20260729122734 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-au.5/prompt.md) |
 | [sase-au.6](../../../../../../agents/bbugyi200.athena.sase-au.6/README.md) | waiting | gpt-5.6-sol / codex | 20260729122735 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-au.6/prompt.md) |
 | [sase-au.land](../../../../../../agents/bbugyi200.athena.sase-au.land/README.md) | waiting | opus / claude | 20260729122736 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-au.land/prompt.md) |
 | [sase-au.4](../../../../../../agents/bbugyi200.athena.sase-au.4/README.md) | active | gpt-5.6-sol / codex | 2026-07-29T16:42:00.913731+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-au.4/prompt.md) |
-| [sase-au.1](../../../../../../agents/bbugyi200.athena.sase-au.1/README.md) | completed | gpt-5.6-sol / codex | 2026-07-29T16:27:43.440753+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-au.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-au.1/chat.md) |
+| [sase-au.1](../../../../../../agents/bbugyi200.athena.sase-au.1/README.md) | completed | gpt-5.6-sol / codex | 2026-07-29T16:27:43.440753+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-au.1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-au.1/prompt.md) |
