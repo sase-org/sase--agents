@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-29T15:14:44.614949+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`1a4ad18`](https://github.com/sase-org/sase/commit/1a4ad1828148b7ae17fd9eaca457c82793224246) | feat(tui): add notification report viewer | 2026-07-29 15:42:29 |
 
 ## Neighbors
 
