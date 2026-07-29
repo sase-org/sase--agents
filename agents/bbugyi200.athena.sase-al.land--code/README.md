@@ -11,13 +11,14 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-28T22:57:04.750982+00:00
-- Commits: [1](#commits)
+- Commits: [2](#commits)
 
 ## Commits
 
 | Commit | Subject | Committed (UTC) |
 |---|---|---|
 | [`41a01b3`](https://github.com/sase-org/sase/commit/41a01b397c79303acad241f2a44822193b3aeb32) | ci: emit valid split SDD store record | 2026-07-28 23:12:14 |
+| [`887999f`](https://github.com/sase-org/sase/commit/887999fb5d0c7acd0ca0a232e9a98f33d1fcc182) | fix(ci): stabilize full matrix isolation | 2026-07-29 01:50:44 |
 
 ## Neighbors
 

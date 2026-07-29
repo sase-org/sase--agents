@@ -1,1 +1,1 @@
-{"commits":[{"committed_at":1785280334,"sha":"41a01b397c79303acad241f2a44822193b3aeb32","subject":"ci: emit valid split SDD store record"}],"schema_version":2,"source_run_id":"run-ba34da0fd66c7bfc9821327e02ee953f"}
+{"commits":[{"committed_at":1785280334,"sha":"41a01b397c79303acad241f2a44822193b3aeb32","subject":"ci: emit valid split SDD store record"},{"committed_at":1785289844,"sha":"887999fb5d0c7acd0ca0a232e9a98f33d1fcc182","subject":"fix(ci): stabilize full matrix isolation"}],"schema_version":2,"source_run_id":"run-ba34da0fd66c7bfc9821327e02ee953f"}
