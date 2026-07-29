@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** nx--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-nx__plan-260729_075920.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-nx__code-260729_075920.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/epic_clan_summary_bead_page_link.md
 
 
