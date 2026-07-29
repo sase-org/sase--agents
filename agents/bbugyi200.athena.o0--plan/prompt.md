@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me have the `J` keymap, which joins the next line with the current one in the prompt input widget, start auto-removing the `- ` prefix from the next line, assuming the next line starts with some optional whitespace followed by `- `? #plan #m_opus
