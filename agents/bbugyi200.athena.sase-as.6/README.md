@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-as](../../users/bbugyi200/machines/athena/hoods/sase-as/README.md) / sase-as.6
 
-**Global name:** `bbugyi200.athena.sase-as.6` · **State:** waiting · **Source run:** `run-bcbf63e2942b4e76f69d78116ee69f86`
+**Global name:** `bbugyi200.athena.sase-as.6` · **State:** active · **Source run:** `run-bcbf63e2942b4e76f69d78116ee69f86`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-as
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260729103219
+- Timing: 2026-07-29T15:08:29.893799+00:00
 - Commits: 0
 
 ## Files
@@ -21,12 +21,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-as.1](../bbugyi200.athena.sase-as.1/README.md) | sase-as hood | active |
-| [sase-as.2](../bbugyi200.athena.sase-as.2/README.md) | sase-as hood | waiting |
-| [sase-as.3](../bbugyi200.athena.sase-as.3/README.md) | sase-as hood | active |
+| [sase-as.1](../bbugyi200.athena.sase-as.1/README.md) | sase-as hood | completed |
+| [sase-as.2](../bbugyi200.athena.sase-as.2/README.md) | sase-as hood | active |
+| [sase-as.3](../bbugyi200.athena.sase-as.3/README.md) | sase-as hood | completed |
 | [sase-as.4](../bbugyi200.athena.sase-as.4/README.md) | sase-as hood | completed |
-| [sase-as.5](../bbugyi200.athena.sase-as.5/README.md) | sase-as hood | active |
+| [sase-as.5](../bbugyi200.athena.sase-as.5/README.md) | sase-as hood | completed |
 | [sase-as.7](../bbugyi200.athena.sase-as.7/README.md) | sase-as hood | completed |
-| [sase-as.8](../bbugyi200.athena.sase-as.8/README.md) | sase-as hood | waiting |
-| [sase-as.9](../bbugyi200.athena.sase-as.9/README.md) | sase-as hood | waiting |
+| [sase-as.8](../bbugyi200.athena.sase-as.8/README.md) | sase-as hood | completed |
+| [sase-as.9](../bbugyi200.athena.sase-as.9/README.md) | sase-as hood | active |
 | [sase-as.land](../bbugyi200.athena.sase-as.land/README.md) | sase-as hood | waiting |

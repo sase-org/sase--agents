@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-bc35f6c867b1b0d3b0b167e23c282fcd"}
+{"commits":[{"committed_at":1785338744,"sha":"5f554c3ea4112ef6e472ef5eced04978776298d5","subject":"feat(plan-search): support generic document sidecar roles"}],"schema_version":2,"source_run_id":"run-bc35f6c867b1b0d3b0b167e23c282fcd"}
