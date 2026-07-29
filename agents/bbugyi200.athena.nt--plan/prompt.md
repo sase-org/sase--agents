@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The selected agent row should have an agent status of `ANSWERED` instead of `DONE` (see #sshot for context). Can you help me diagnose the root cause of this issue and fix it? Make sure you don't break any previous bug fixes. #plan #m_opus
