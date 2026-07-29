@@ -33,5 +33,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-ax.3.w0](../agents/bbugyi200.athena.sase-ax.3.w0/README.md) | descendant | failed |
 | [sase-ax.1](../agents/bbugyi200.athena.sase-ax.1/README.md) | sase-ax hood | completed |
 | [sase-ax.2](../agents/bbugyi200.athena.sase-ax.2/README.md) | sase-ax hood | completed |
-| [sase-ax.4](../agents/bbugyi200.athena.sase-ax.4/README.md) | sase-ax hood | active |
-| [sase-ax.land](../agents/bbugyi200.athena.sase-ax.land/README.md) | sase-ax hood | waiting |
+| [sase-ax.4](../agents/bbugyi200.athena.sase-ax.4/README.md) | sase-ax hood | completed |
+| [sase-ax.land](bbugyi200.athena.sase-ax.land.md) (family · 2) | sase-ax hood | active 2 |

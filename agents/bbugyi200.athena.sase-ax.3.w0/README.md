@@ -24,5 +24,5 @@
 | [sase-ax.3](../../families/bbugyi200.athena.sase-ax.3.md) (family · 2) | ancestor | completed 2 |
 | [sase-ax.1](../bbugyi200.athena.sase-ax.1/README.md) | sase-ax hood | completed |
 | [sase-ax.2](../bbugyi200.athena.sase-ax.2/README.md) | sase-ax hood | completed |
-| [sase-ax.4](../bbugyi200.athena.sase-ax.4/README.md) | sase-ax hood | active |
-| [sase-ax.land](../bbugyi200.athena.sase-ax.land/README.md) | sase-ax hood | waiting |
+| [sase-ax.4](../bbugyi200.athena.sase-ax.4/README.md) | sase-ax hood | completed |
+| [sase-ax.land](../../families/bbugyi200.athena.sase-ax.land.md) (family · 2) | sase-ax hood | active 2 |
