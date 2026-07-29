@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5dfecadc17201c2b5ee0e56ae50c4f31"}
+{"commits":[{"committed_at":1785333883,"sha":"6209176ae2b38de2c5a4fd5bdf18909d647b2619","subject":"feat(agent): resolve keyed name markers at launch"}],"schema_version":2,"source_run_id":"run-5dfecadc17201c2b5ee0e56ae50c4f31"}
