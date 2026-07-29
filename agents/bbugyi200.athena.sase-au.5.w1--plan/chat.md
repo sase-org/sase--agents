@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-au.5.w1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_au_5_w1__plan-260729_135340.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_au_5_w1__code-260729_135340.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/statistics_numbered_subtabs.md
 
 

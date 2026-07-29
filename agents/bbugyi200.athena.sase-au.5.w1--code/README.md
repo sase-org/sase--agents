@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-au](../../users/bbugyi200/machines/athena/hoods/sase-au/README.md) / [sase-au.5.w1](../../families/bbugyi200.athena.sase-au.5.w1.md) / sase-au.5.w1--code
 
-**Global name:** `bbugyi200.athena.sase-au.5.w1--code` · **State:** active · **Source run:** `run-6ad7c5e0e1f193d5c5333174ef917ed8`
+**Global name:** `bbugyi200.athena.sase-au.5.w1--code` · **State:** completed · **Source run:** `run-6ad7c5e0e1f193d5c5333174ef917ed8`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-au
 
@@ -12,6 +12,10 @@
 - Provider: codex
 - Timing: 2026-07-29T18:06:35.031642+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
 
 ## Commits
 
