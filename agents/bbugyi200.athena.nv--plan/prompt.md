@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase What causes this weird `PDF` line to show up on agent rows on the agents tab in the TUI like this (see #sshot)? Can you help me remove this from the agent row (it makes it way too long and its not clear what it indicates)? #plan #m_opus
