@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** nv--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-nv__plan-260729_071432.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-nv__code-260729_071432.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/remove_pdf_row_suffix.md
 
 
