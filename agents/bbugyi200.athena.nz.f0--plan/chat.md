@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** nz.f0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-nz_f0__plan-260729_082112.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-nz_f0__code-260729_082112.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/placeholder_prompt_local_precedence.md
 
 

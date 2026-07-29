@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** ny--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-ny__plan-260729_080355.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-ny__code-260729_080355.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/raise_history_word_count_default.md
 
 
