@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me label every sub-tab of the "Statistics" tab of the "SASE Admin Center" panel with a number (1-9 or 00-99 if the number of sub-tabs exceed 10)? We should then add new `,<N>` keymaps, where `<N>` is either an integer between 1-9 or 00-99, that activate the corresponding statistics sub-tab. #plan #m_opus %w:sase-au.5
