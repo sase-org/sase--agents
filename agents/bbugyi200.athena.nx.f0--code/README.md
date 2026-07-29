@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [nx](../../users/bbugyi200/machines/athena/hoods/nx/README.md) / [nx.f0](../../families/bbugyi200.athena.nx.f0.md) / nx.f0--code
 
-**Global name:** `bbugyi200.athena.nx.f0--code` · **State:** active · **Source run:** `run-979756ed7c1888f37514a3fd2e1cff47`
+**Global name:** `bbugyi200.athena.nx.f0--code` · **State:** completed · **Source run:** `run-979756ed7c1888f37514a3fd2e1cff47`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** nx
 
@@ -12,6 +12,10 @@
 - Provider: codex
 - Timing: 2026-07-29T12:49:24.201393+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
 
 ## Commits
 
@@ -23,4 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [nx](../../families/bbugyi200.athena.nx.md) (family · 2) | ancestor | completed 2 |
+| [nx](../../families/bbugyi200.athena.nx.md) (family · 2) | ancestor | completed 1, dismissed 1 |
+| [nx.f0.f0](../../families/bbugyi200.athena.nx.f0.f0.md) (family · 2) | descendant | active 2 |

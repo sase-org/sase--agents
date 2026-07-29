@@ -27,4 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [nx.f0](../../families/bbugyi200.athena.nx.f0.md) (family · 2) | descendant | active 2 |
+| [nx.f0](../../families/bbugyi200.athena.nx.f0.md) (family · 2) | descendant | completed 2 |
+| [nx.f0.f0](../../families/bbugyi200.athena.nx.f0.f0.md) (family · 2) | descendant | active 2 |
