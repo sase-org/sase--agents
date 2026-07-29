@@ -8,5 +8,5 @@
 |---|---|---|---|---:|---|
 | [sase-aw.2](../../../../../../agents/bbugyi200.athena.sase-aw.2/README.md) | active | gpt-5.5 / codex | 2026-07-29T21:25:22.101250+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-aw.2/prompt.md) |
 | [sase-aw.3](../../../../../../agents/bbugyi200.athena.sase-aw.3/README.md) | waiting | gpt-5.6-sol / codex | 20260729165940 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-aw.3/prompt.md) |
-| [sase-aw.1](../../../../../../agents/bbugyi200.athena.sase-aw.1/README.md) | completed | gpt-5.6-sol / codex | 2026-07-29T20:59:52.665170+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-aw.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-aw.1/chat.md) |
+| [sase-aw.1](../../../../../../agents/bbugyi200.athena.sase-aw.1/README.md) | completed | gpt-5.6-sol / codex | 2026-07-29T20:59:52.665170+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-aw.1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-aw.1/prompt.md) |
 | [sase-aw.land](../../../../../../agents/bbugyi200.athena.sase-aw.land/README.md) | waiting | gpt-5.6-sol / codex | 20260729165941 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-aw.land/prompt.md) |
