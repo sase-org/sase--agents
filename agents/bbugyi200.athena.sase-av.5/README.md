@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-29T17:53:17.575137+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`de57f5a`](https://github.com/sase-org/sase/commit/de57f5a5f3e8563b48400f2843737ef7b4c8b33b) | feat(tui): highlight artifact references in prompts | 2026-07-29 18:32:47 |
 
 ## Neighbors
 
@@ -24,7 +30,7 @@
 | [sase-av.1](../../families/bbugyi200.athena.sase-av.1.md) (family · 2) | sase-av hood | completed 2 |
 | [sase-av.2](../bbugyi200.athena.sase-av.2/README.md) | sase-av hood | completed |
 | [sase-av.3](../bbugyi200.athena.sase-av.3/README.md) | sase-av hood | active |
-| [sase-av.4](../bbugyi200.athena.sase-av.4/README.md) | sase-av hood | active |
+| [sase-av.4](../bbugyi200.athena.sase-av.4/README.md) | sase-av hood | completed |
 | [sase-av.6](../bbugyi200.athena.sase-av.6/README.md) | sase-av hood | waiting |
 | [sase-av.7](../../families/bbugyi200.athena.sase-av.7.md) (family · 2) | sase-av hood | active 2 |
 | [sase-av.8](../bbugyi200.athena.sase-av.8/README.md) | sase-av hood | waiting |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-deaa03762cf190cd3364b84a94f93250"}
+{"commits":[{"committed_at":1785349967,"sha":"de57f5a5f3e8563b48400f2843737ef7b4c8b33b","subject":"feat(tui): highlight artifact references in prompts"}],"schema_version":2,"source_run_id":"run-deaa03762cf190cd3364b84a94f93250"}
