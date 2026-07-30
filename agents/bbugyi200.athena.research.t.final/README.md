@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.t.final
 
-**Global name:** `bbugyi200.athena.research.t.final` · **State:** completed · **Source run:** `run-afa2324c593a7e34fcb2b4c0132f51d3`
+**Global name:** `bbugyi200.athena.research.t.final` · **State:** active · **Source run:** `run-afa2324c593a7e34fcb2b4c0132f51d3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -28,9 +28,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.t.final.f1](../bbugyi200.athena.research.t.final.f1/README.md) | descendant | completed |
-| [research.t.cdx](../bbugyi200.athena.research.t.cdx/README.md) | research.t hood | completed |
-| [research.t.cld](../bbugyi200.athena.research.t.cld/README.md) | research.t hood | completed |
-| [research.t.image](../bbugyi200.athena.research.t.image/README.md) | research.t hood | completed |
+| [research.t.cdx](../bbugyi200.athena.research.t.cdx/README.md) | research.t hood | active |
+| [research.t.cld](../bbugyi200.athena.research.t.cld/README.md) | research.t hood | active |
+| [research.t.image](../bbugyi200.athena.research.t.image/README.md) | research.t hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | active |

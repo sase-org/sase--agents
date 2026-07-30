@@ -1,0 +1,2 @@
+%clan(research.u, tribe=research, summary=[[[bold]RESEARCH PROMPT:[/bold] I've been thinking a lot lately about ways I can improve sase beads. Can you do some research with this goal in mind? End your analysis with a list of ranked recommended improvements.]]) %id:research.u.cdx
+%wait(priority=20) %model:@research_a #gh:gh_sase-org__sase I've been thinking a lot lately about ways I can improve sase beads. Can you do some research with this goal in mind? End your analysis with a list of ranked recommended improvements. #research

@@ -2,16 +2,20 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.u.cld
 
-**Global name:** `bbugyi200.athena.research.u.cld` · **State:** completed · **Source run:** `run-e3a10b0c68fef7f4f8d719063629729d`
+**Global name:** `bbugyi200.athena.research.u.cld` · **State:** completed · **Source run:** `run-eb89a82409b12fc93df8397874aaff1a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
 ## Summary
 
-- Model: —
-- Provider: —
-- Timing: 2026-06-19T20:04:11+00:00 → 2026-06-19T20:04:11+00:00
+- Model: opus
+- Provider: claude
+- Timing: 2026-07-30T16:02:25.202882+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -23,9 +27,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.u.cdx](../bbugyi200.athena.research.u.cdx/README.md) | research.u hood | completed |
-| [research.u.final](../bbugyi200.athena.research.u.final/README.md) | research.u hood | completed |
-| [research.u.image](../bbugyi200.athena.research.u.image/README.md) | research.u hood | completed |
+| [research.u.cdx](../bbugyi200.athena.research.u.cdx/README.md) | research.u hood | active |
+| [research.u.final](../bbugyi200.athena.research.u.final/README.md) | research.u hood | waiting |
+| [research.u.image](../bbugyi200.athena.research.u.image/README.md) | research.u hood | waiting |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | active |

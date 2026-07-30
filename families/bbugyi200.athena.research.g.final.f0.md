@@ -18,14 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | research.g.final.f0--code | completed | gpt-5.6-sol / codex | 2026-07-17T14:13:31.288495+00:00 | [1](../agents/bbugyi200.athena.research.g.final.f0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.research.g.final.f0--code/chat.md) |
-| <a id="member-root"></a>root | research.g.final.f0 | active | claude-fable-5 / claude | 2026-07-17T14:08:04.772761+00:00 | [1](../agents/bbugyi200.athena.research.g.final.f0/README.md#commits) | [Prompt](../agents/bbugyi200.athena.research.g.final.f0/prompt.md) | [Chat](../agents/bbugyi200.athena.research.g.final.f0/chat.md) |
+| <a id="member-root"></a>root | research.g.final.f0 | active | claude-fable-5 / claude | 2026-07-17T14:08:04.772761+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.g.final.f0/prompt.md) | [Chat](../agents/bbugyi200.athena.research.g.final.f0/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed (UTC) |
 |---|---|---|---|---|
 | code | sase | [`094ee4a`](https://github.com/sase-org/sase/commit/094ee4ab617c54e6308f212594d3cfec741ca69f) | docs: overhaul README and PyPI rendering | 2026-07-17 14:24:41 |
-| root | sase | [`094ee4a`](https://github.com/sase-org/sase/commit/094ee4ab617c54e6308f212594d3cfec741ca69f) | docs: overhaul README and PyPI rendering | 2026-07-17 14:24:41 |
 
 ## Neighbors
 

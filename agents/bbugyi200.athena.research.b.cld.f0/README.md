@@ -11,17 +11,11 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-14T11:31:47.972371+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| sase | [`d6771fe`](https://github.com/sase-org/sase/commit/d6771fe404545914ee60bef9026294b83d3276ec) | fix: require repo skill for repository web fetches | 2026-07-14 11:57:35 |
 
 ## Neighbors
 

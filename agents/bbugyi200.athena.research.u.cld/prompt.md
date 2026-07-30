@@ -1,0 +1,1 @@
+%id(cld, clan=research.u) %wait(priority=20) %m:@research_b #gh:gh_sase-org__sase I've been thinking a lot lately about ways I can improve sase beads. Can you do some research with this goal in mind? End your analysis with a list of ranked recommended improvements. #research
