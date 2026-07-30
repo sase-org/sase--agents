@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1734921e59ee3b646e4e81e40b852c61"}
+{"commits":[{"committed_at":1785445724,"sha":"daeb4109a079c971f654ba72266e16c8a752dfae","subject":"fix(artifact): protect artifacts referenced only by beads"}],"schema_version":2,"source_run_id":"run-1734921e59ee3b646e4e81e40b852c61"}
