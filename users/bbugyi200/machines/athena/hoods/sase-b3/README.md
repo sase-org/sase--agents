@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-b3
 
-**Global hood:** `bbugyi200.athena.sase-b3` · **Runs:** 10 · **Families:** 0 · **States:** active 2, completed 3, waiting 5
+**Global hood:** `bbugyi200.athena.sase-b3` · **Runs:** 10 · **Families:** 0 · **States:** active 1, completed 4, waiting 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-b3.5](../../../../../../agents/bbugyi200.athena.sase-b3.5/README.md) | active | opus / claude | 2026-07-30T08:43:51.197436+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-b3.5/prompt.md) |
+| [sase-b3.5](../../../../../../agents/bbugyi200.athena.sase-b3.5/README.md) | completed | opus / claude | 2026-07-30T08:43:51.197436+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-b3.5/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-b3.5/chat.md) |
 | [sase-b3.8](../../../../../../agents/bbugyi200.athena.sase-b3.8/README.md) | waiting | opus / claude | 20260730041958 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-b3.8/prompt.md) |
 | [sase-b3.6](../../../../../../agents/bbugyi200.athena.sase-b3.6/README.md) | waiting | gpt-5.6-sol / codex | 20260730041956 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-b3.6/prompt.md) |
 | [sase-b3.4](../../../../../../agents/bbugyi200.athena.sase-b3.4/README.md) | active | gpt-5.6-sol / codex | 2026-07-30T08:43:49.820866+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-b3.4/prompt.md) |
