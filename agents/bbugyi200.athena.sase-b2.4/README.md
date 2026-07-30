@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-30T02:05:15.107773+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`85b5b64`](https://github.com/sase-org/sase/commit/85b5b642167aa400538f77121546a705f93fbe9f) | feat(artifact-refs): add bead and agent resolution context | 2026-07-30 02:23:26 |
 
 ## Neighbors
 
@@ -23,7 +29,7 @@
 |---|---|---|
 | [sase-b2.1](../bbugyi200.athena.sase-b2.1/README.md) | sase-b2 hood | completed |
 | [sase-b2.2](../bbugyi200.athena.sase-b2.2/README.md) | sase-b2 hood | completed |
-| [sase-b2.3](../bbugyi200.athena.sase-b2.3/README.md) | sase-b2 hood | active |
+| [sase-b2.3](../bbugyi200.athena.sase-b2.3/README.md) | sase-b2 hood | completed |
 | [sase-b2.5](../bbugyi200.athena.sase-b2.5/README.md) | sase-b2 hood | waiting |
 | [sase-b2.6](../bbugyi200.athena.sase-b2.6/README.md) | sase-b2 hood | waiting |
 | [sase-b2.7](../bbugyi200.athena.sase-b2.7/README.md) | sase-b2 hood | waiting |

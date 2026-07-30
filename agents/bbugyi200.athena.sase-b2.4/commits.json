@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ce123a51b3723788b1c050b7407aa1c1"}
+{"commits":[{"committed_at":1785378206,"sha":"85b5b642167aa400538f77121546a705f93fbe9f","subject":"feat(artifact-refs): add bead and agent resolution context"}],"schema_version":2,"source_run_id":"run-ce123a51b3723788b1c050b7407aa1c1"}
