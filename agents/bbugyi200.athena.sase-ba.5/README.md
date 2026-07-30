@@ -11,11 +11,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-30T16:53:44.731438+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1a4e838`](https://github.com/sase-org/sase/commit/1a4e838df607139e5402596398ea666b77280389) | test(artifacts): align retention fixtures with protection ids | 2026-07-30 17:30:16 |
 
 ## Neighbors
 
