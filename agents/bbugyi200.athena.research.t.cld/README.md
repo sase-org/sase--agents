@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.t.cld
 
-**Global name:** `bbugyi200.athena.research.t.cld` · **State:** active · **Source run:** `run-73f0279d104cca065eb8868723a978c3`
+**Global name:** `bbugyi200.athena.research.t.cld` · **State:** completed · **Source run:** `run-73f0279d104cca065eb8868723a978c3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 

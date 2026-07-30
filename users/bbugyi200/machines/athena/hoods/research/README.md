@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / research
 
-**Global hood:** `bbugyi200.athena.research` · **Runs:** 302 · **Families:** 6 · **States:** active 106, completed 175, dismissed 9, failed 1, waiting 11
+**Global hood:** `bbugyi200.athena.research` · **Runs:** 302 · **Families:** 6 · **States:** active 105, completed 176, dismissed 9, failed 1, waiting 11
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -159,7 +159,7 @@
 | [research.07.image](../../../../../../agents/bbugyi200.athena.research.07.image/README.md) | completed | — | 2026-06-22T17:01:35+00:00 → 2026-06-22T17:01:35+00:00 | 1 | — |
 | [research.image-19](../../../../../../agents/bbugyi200.athena.research.image-19/README.md) | completed | — | 2026-06-08T17:49:05+00:00 → 2026-06-08T17:49:05+00:00 | 1 | — |
 | [research.1.image](../../../../../../agents/bbugyi200.athena.research.1.image/README.md) | active | gpt-5.5 / codex | 2026-07-08T04:53:02.959836+00:00 | 2 | [prompt](../../../../../../agents/bbugyi200.athena.research.1.image/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.1.image/chat.md) |
-| [research.t.cld](../../../../../../agents/bbugyi200.athena.research.t.cld/README.md) | active | opus / claude | 2026-07-30T10:48:21.269207+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.research.t.cld/prompt.md) |
+| [research.t.cld](../../../../../../agents/bbugyi200.athena.research.t.cld/README.md) | completed | opus / claude | 2026-07-30T10:48:21.269207+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.research.t.cld/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.t.cld/chat.md) |
 | [research.cdx-9](../../../../../../agents/bbugyi200.athena.research.cdx-9/README.md) | completed | — | 2026-06-04T23:41:02+00:00 → 2026-06-04T23:41:02+00:00 | 1 | — |
 | [research.f.final.f2](../../../../../../agents/bbugyi200.athena.research.f.final.f2/README.md) | active | claude-fable-5 / claude | 2026-07-16T22:39:00.836694+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.f.final.f2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.f.final.f2/chat.md) |
 | [research.0.final](../../../../../../agents/bbugyi200.athena.research.0.final/README.md) | active | gpt-5.5 / codex | 2026-07-08T02:29:58.306061+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.research.0.final/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.0.final/chat.md) |
