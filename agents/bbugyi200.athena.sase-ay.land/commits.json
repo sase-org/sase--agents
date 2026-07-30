@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-43e32ab04e5aa4857f72358ec28d41cc"}
+{"commits":[{"committed_at":1785372750,"sha":"e9b17a884aa1b0207d61a5f434541dbe6738a34b","subject":"build(deps): require sase-core-rs>=0.12.15 for the `@` reference menu"}],"schema_version":2,"source_run_id":"run-43e32ab04e5aa4857f72358ec28d41cc"}
