@@ -1,0 +1,15 @@
+# Hood: toobig-14
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / toobig-14
+
+**Global hood:** `bbugyi200.athena.toobig-14` · **Runs:** 7 · **Families:** 0 · **States:** active 1, completed 1, waiting 5
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [toobig-14.split\_file.tests.test\_xprompt\_swarm\_expansion.0](../../../../../../agents/bbugyi200.athena.toobig-14.split_file.tests.test_xprompt_swarm_expansion.0/README.md) | waiting | gpt-5.6-sol / codex | 20260730071122 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-14.split_file.tests.test_xprompt_swarm_expansion.0/prompt.md) |
+| [toobig-14.split\_file.tests.ace.tui.widgets.test\_artifact\_ref\_completion.0](../../../../../../agents/bbugyi200.athena.toobig-14.split_file.tests.ace.tui.widgets.test_artifact_ref_completion.0/README.md) | waiting | gpt-5.6-sol / codex | 20260730071119 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-14.split_file.tests.ace.tui.widgets.test_artifact_ref_completion.0/prompt.md) |
+| [toobig-14.split\_file.src.sase.ace.tui.modals.artifact\_files\_modal.0](../../../../../../agents/bbugyi200.athena.toobig-14.split_file.src.sase.ace.tui.modals.artifact_files_modal.0/README.md) | completed | gpt-5.6-sol / codex | 2026-07-30T11:20:53.875381+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.toobig-14.split_file.src.sase.ace.tui.modals.artifact_files_modal.0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.toobig-14.split_file.src.sase.ace.tui.modals.artifact_files_modal.0/prompt.md) |
+| [toobig-14.split\_file.src.sase.ace.tui.widgets.artifact\_ref\_completion.0](../../../../../../agents/bbugyi200.athena.toobig-14.split_file.src.sase.ace.tui.widgets.artifact_ref_completion.0/README.md) | active | gpt-5.6-sol / codex | 2026-07-30T11:41:28.103699+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-14.split_file.src.sase.ace.tui.widgets.artifact_ref_completion.0/prompt.md) |
+| [toobig-14.split\_file.tests.test\_artifact\_refs.0](../../../../../../agents/bbugyi200.athena.toobig-14.split_file.tests.test_artifact_refs.0/README.md) | waiting | gpt-5.6-sol / codex | 20260730071121 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-14.split_file.tests.test_artifact_refs.0/prompt.md) |
+| [toobig-14.split\_file.tests.ace.tui.test\_copy\_as\_palette.0](../../../../../../agents/bbugyi200.athena.toobig-14.split_file.tests.ace.tui.test_copy_as_palette.0/README.md) | waiting | gpt-5.6-sol / codex | 20260730071118 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-14.split_file.tests.ace.tui.test_copy_as_palette.0/prompt.md) |
+| [toobig-14.split\_file.tests.test\_ace\_tui\_widgets.0](../../../../../../agents/bbugyi200.athena.toobig-14.split_file.tests.test_ace_tui_widgets.0/README.md) | waiting | gpt-5.6-sol / codex | 20260730071120 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-14.split_file.tests.test_ace_tui_widgets.0/prompt.md) |
