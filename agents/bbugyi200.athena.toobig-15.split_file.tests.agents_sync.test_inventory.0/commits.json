@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f05347e5e8cef05f4957a0ac3731f453"}
+{"commits":[{"committed_at":1785438942,"sha":"aa67afc046c6d2aa3def9e3ad5b8ee9d4e7acf92","subject":"test: split agent inventory tests by behavior"}],"schema_version":2,"source_run_id":"run-f05347e5e8cef05f4957a0ac3731f453"}
