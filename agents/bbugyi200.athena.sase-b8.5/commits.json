@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8fc3d04c20810a1d61fc4666b3a9eb0a"}
+{"commits":[{"committed_at":1785427463,"sha":"eefd432bab1b6562947545e0f1c52a67ea48c5a3","subject":"feat(agents-sync): attribute commit history to agent lanes"}],"schema_version":2,"source_run_id":"run-8fc3d04c20810a1d61fc4666b3a9eb0a"}
