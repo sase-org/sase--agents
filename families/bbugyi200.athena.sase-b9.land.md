@@ -18,13 +18,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-b9.land--plan | active | gpt-5.6-sol / codex | 2026-07-30T16:51:16.295766+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-b9.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-b9.land--plan/chat.md) |
-| <a id="member-code"></a>code | sase-b9.land--code | active | gpt-5.6-sol / codex | 2026-07-30T17:01:46.557108+00:00 | [1](../agents/bbugyi200.athena.sase-b9.land--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | sase-b9.land--code | active | gpt-5.6-sol / codex | 2026-07-30T17:01:46.557108+00:00 | [2](../agents/bbugyi200.athena.sase-b9.land--code/README.md#commits) | — | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed (UTC) |
 |---|---|---|---|---|
 | code | sase | [`d6eb412`](https://github.com/sase-org/sase/commit/d6eb4127138b071e02e179b4cd8bf0c1da7c9948) | fix(artifact): protect consumed files from retention | 2026-07-30 17:09:26 |
+| code | sase | [`be94f09`](https://github.com/sase-org/sase/commit/be94f098a761cee54e5e4b855374b504b92f6eb8) | fix(artifact): extend consumption protection coverage | 2026-07-30 17:52:03 |
 
 ## Neighbors
 
