@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-bf](../../users/bbugyi200/machines/athena/hoods/sase-bf/README.md) / sase-bf.5
 
-**Global name:** `bbugyi200.athena.sase-bf.5` · **State:** active · **Source run:** `run-894c840fee36492d172631052daff87a`
+**Global name:** `bbugyi200.athena.sase-bf.5` · **State:** completed · **Source run:** `run-894c840fee36492d172631052daff87a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-bf
 
@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-30T21:34:54.806863+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b66357e`](https://github.com/sase-org/sase/commit/b66357ee238c45291b58764504232d2397f0e872) | feat(agents-sync): publish structured output variables | 2026-07-30 22:19:33 |
 
 ## Neighbors
 

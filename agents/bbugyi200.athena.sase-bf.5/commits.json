@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-894c840fee36492d172631052daff87a"}
+{"commits":[{"committed_at":1785449973,"sha":"b66357ee238c45291b58764504232d2397f0e872","subject":"feat(agents-sync): publish structured output variables"}],"schema_version":2,"source_run_id":"run-894c840fee36492d172631052daff87a"}
