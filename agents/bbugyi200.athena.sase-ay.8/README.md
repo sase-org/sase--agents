@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ay](../../users/bbugyi200/machines/athena/hoods/sase-ay/README.md) / sase-ay.8
 
-**Global name:** `bbugyi200.athena.sase-ay.8` · **State:** waiting · **Source run:** `run-124dde64f195d9745a45b3078c575d5d`
+**Global name:** `bbugyi200.athena.sase-ay.8` · **State:** active · **Source run:** `run-124dde64f195d9745a45b3078c575d5d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ay
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260729182705
-- Commits: 0
+- Timing: 2026-07-30T00:08:04.034826+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`9d8a700`](https://github.com/sase-org/sase/commit/9d8a70048e5aabeb5c594d1d50e28ba7f36fb84e) | docs: document grouped at-reference completion | 2026-07-30 00:27:14 |
 
 ## Neighbors
 
@@ -27,5 +33,5 @@
 | [sase-ay.4](../bbugyi200.athena.sase-ay.4/README.md) | sase-ay hood | completed |
 | [sase-ay.5](../bbugyi200.athena.sase-ay.5/README.md) | sase-ay hood | completed |
 | [sase-ay.6](../bbugyi200.athena.sase-ay.6/README.md) | sase-ay hood | completed |
-| [sase-ay.7](../bbugyi200.athena.sase-ay.7/README.md) | sase-ay hood | active |
+| [sase-ay.7](../bbugyi200.athena.sase-ay.7/README.md) | sase-ay hood | completed |
 | [sase-ay.land](../bbugyi200.athena.sase-ay.land/README.md) | sase-ay hood | waiting |
