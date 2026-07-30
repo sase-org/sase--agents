@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2c3c6724f76d825615d66904df179292"}
+{"commits":[{"committed_at":1785403873,"sha":"cbe3d214af47a9e645bfac725cd64960f337409c","subject":"perf(artifact-refs): cache bounded payload catalogs"}],"schema_version":2,"source_run_id":"run-2c3c6724f76d825615d66904df179292"}
