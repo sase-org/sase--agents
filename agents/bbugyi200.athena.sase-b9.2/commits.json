@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0fb1fe45e2938c80d127ced77791c500"}
+{"commits":[{"committed_at":1785425403,"sha":"3a0a92d84cffe20b3f1a9e7f57f4eb57ecb190f9","subject":"feat: record artifact consumption during prompt expansion"}],"schema_version":2,"source_run_id":"run-0fb1fe45e2938c80d127ced77791c500"}
