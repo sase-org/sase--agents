@@ -32,5 +32,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-az.1](../agents/bbugyi200.athena.sase-az.1/README.md) | sase-az hood | completed |
 | [sase-az.2](../agents/bbugyi200.athena.sase-az.2/README.md) | sase-az hood | completed |
-| [sase-az.4](../agents/bbugyi200.athena.sase-az.4/README.md) | sase-az hood | active |
-| [sase-az.land](../agents/bbugyi200.athena.sase-az.land/README.md) | sase-az hood | waiting |
+| [sase-az.4](../agents/bbugyi200.athena.sase-az.4/README.md) | sase-az hood | completed |
+| [sase-az.land](bbugyi200.athena.sase-az.land.md) (family · 2) | sase-az hood | active 2 |
