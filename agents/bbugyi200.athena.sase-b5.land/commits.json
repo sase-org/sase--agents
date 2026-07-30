@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6d24fd7f02d8a6b63e7a57f92ec395ca"}
+{"commits":[{"committed_at":1785419964,"sha":"3475368f66c8cdacf59a26802ee50cdc53d23269","subject":"refactor(sdd): make the checkout anchor dataclass module-private"}],"schema_version":2,"source_run_id":"run-6d24fd7f02d8a6b63e7a57f92ec395ca"}

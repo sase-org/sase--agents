@@ -28,7 +28,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-b5.4.w0.w0](../bbugyi200.athena.sase-b5.4.w0.w0/README.md) | descendant | active |
-| [sase-b5.4.w1](../../families/bbugyi200.athena.sase-b5.4.w1.md) (family · 2) | descendant | active 2 |
+| [sase-b5.4.w1](../../families/bbugyi200.athena.sase-b5.4.w1.md) (family · 2) | descendant | completed 2 |
 | [sase-b5.1](../bbugyi200.athena.sase-b5.1/README.md) | sase-b5 hood | completed |
 | [sase-b5.2](../bbugyi200.athena.sase-b5.2/README.md) | sase-b5 hood | completed |
 | [sase-b5.3](../bbugyi200.athena.sase-b5.3/README.md) | sase-b5 hood | completed |

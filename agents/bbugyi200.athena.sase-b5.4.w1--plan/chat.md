@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-b5.4.w1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_b5_4_w1__plan-260730_081337.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_b5_4_w1__code-260730_081337.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/commit_table_repo_column.md
 
 
