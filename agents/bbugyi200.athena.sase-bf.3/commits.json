@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-224ad7c845ef377b01910d968887bf51"}
+{"commits":[{"committed_at":1785448622,"sha":"6f7c56043164900af7c80d2fd7899018434828de","subject":"feat(var): support structured output variables"}],"schema_version":2,"source_run_id":"run-224ad7c845ef377b01910d968887bf51"}
