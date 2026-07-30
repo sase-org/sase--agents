@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-273ce3ab36558c192cd731f2680a9a6e"}
+{"commits":[{"committed_at":1785406244,"sha":"835536a846a55f596fa707145ca629a5bb46188f","subject":"refactor(tui): reuse shared fuzzy matcher in finder"}],"schema_version":2,"source_run_id":"run-273ce3ab36558c192cd731f2680a9a6e"}
