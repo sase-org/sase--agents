@@ -1,0 +1,35 @@
+# Family: sase-b7.4.w5
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-b7](../users/bbugyi200/machines/athena/hoods/sase-b7/README.md) / sase-b7.4.w5
+
+Owner: `bbugyi200.athena` · Hood: `sase-b7` · Members: 2
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["sase-b7.4.w5--code [active]"]
+  n1["sase-b7.4.w5--plan [failed]"]
+  n0 --> n1
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-code"></a>code | sase-b7.4.w5--code | active | gpt-5.6-sol / codex | 2026-07-30T14:30:41.118688+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-b7.4.w5--plan | failed | opus / claude | 2026-07-30T14:22:16.851670+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-b7.4.w5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-b7.4.w5--plan/chat.md) |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-b7.4](../agents/bbugyi200.athena.sase-b7.4/README.md) | ancestor | completed |
+| [sase-b7.4.w4](../agents/bbugyi200.athena.sase-b7.4.w4/README.md) | sase-b7.4 hood | failed |
+| [sase-b7.4.w6](../agents/bbugyi200.athena.sase-b7.4.w6/README.md) | sase-b7.4 hood | active |
+| [sase-b7.4.w7](../agents/bbugyi200.athena.sase-b7.4.w7/README.md) | sase-b7.4 hood | failed |
+| [sase-b7.1](../agents/bbugyi200.athena.sase-b7.1/README.md) | sase-b7 hood | completed |
+| [sase-b7.2](../agents/bbugyi200.athena.sase-b7.2/README.md) | sase-b7 hood | completed |
+| [sase-b7.3](../agents/bbugyi200.athena.sase-b7.3/README.md) | sase-b7 hood | completed |
+| [sase-b7.5](../agents/bbugyi200.athena.sase-b7.5/README.md) | sase-b7 hood | completed |
+| [sase-b7.land](../agents/bbugyi200.athena.sase-b7.land/README.md) | sase-b7 hood | active |
