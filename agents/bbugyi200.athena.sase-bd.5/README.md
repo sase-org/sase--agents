@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-30T18:00:20.901427+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9fdae1e`](https://github.com/sase-org/sase/commit/9fdae1e1e1349d255f0800d3a4cc481d48159c00) | feat(beads): repair stale event projections | 2026-07-30 18:59:54 |
 
 ## Neighbors
 
@@ -23,9 +29,9 @@
 |---|---|---|
 | [sase-bd.1](../bbugyi200.athena.sase-bd.1/README.md) | sase-bd hood | completed |
 | [sase-bd.2](../bbugyi200.athena.sase-bd.2/README.md) | sase-bd hood | completed |
-| [sase-bd.3](../bbugyi200.athena.sase-bd.3/README.md) | sase-bd hood | active |
+| [sase-bd.3](../bbugyi200.athena.sase-bd.3/README.md) | sase-bd hood | completed |
 | [sase-bd.4](../bbugyi200.athena.sase-bd.4/README.md) | sase-bd hood | active |
-| [sase-bd.6](../bbugyi200.athena.sase-bd.6/README.md) | sase-bd hood | active |
+| [sase-bd.6](../bbugyi200.athena.sase-bd.6/README.md) | sase-bd hood | completed |
 | [sase-bd.7](../bbugyi200.athena.sase-bd.7/README.md) | sase-bd hood | waiting |
 | [sase-bd.8](../bbugyi200.athena.sase-bd.8/README.md) | sase-bd hood | waiting |
 | [sase-bd.land](../bbugyi200.athena.sase-bd.land/README.md) | sase-bd hood | waiting |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a634e0e4d86835c1ce4f032278a241c0"}
+{"commits":[{"committed_at":1785437994,"sha":"9fdae1e1e1349d255f0800d3a4cc481d48159c00","subject":"feat(beads): repair stale event projections"}],"schema_version":2,"source_run_id":"run-a634e0e4d86835c1ce4f032278a241c0"}

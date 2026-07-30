@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8885667bb9daa3f8360d5e0afdc5f654"}
+{"commits":[{"committed_at":1785437982,"sha":"5f682e2b1b0ebb7fb295c8cffef49ba495c70f8c","subject":"fix(beads): report close mutation outcomes honestly"}],"schema_version":2,"source_run_id":"run-8885667bb9daa3f8360d5e0afdc5f654"}

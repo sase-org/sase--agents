@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6366fbc101aa9b612da6fe3fcc86f55e"}
+{"commits":[{"committed_at":1785437298,"sha":"f40c517bfc7d0421d2a8df1fabb526b21964278e","subject":"feat(file-hooks): run hooks for committed files"}],"schema_version":2,"source_run_id":"run-6366fbc101aa9b612da6fe3fcc86f55e"}
