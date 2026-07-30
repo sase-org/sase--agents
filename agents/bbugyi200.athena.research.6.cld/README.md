@@ -29,8 +29,8 @@
 | Variable | Value |
 |---|---|
 | `concurrency_solvable` | yes |
-| `duplicated_gib` | 3.3 |
-| `per_clone_mib` | 472 |
+| `duplicated_gib` | "3.3" |
+| `per_clone_mib` | "472" |
 | `recommended_option` | A\_plus\_sparse |
 | `research_file` | .sase/sdd/research/202607/shared\_sdd\_clone\_per\_machine.md |
 | `shared_clone_recommended` | yes\_objects\_only |

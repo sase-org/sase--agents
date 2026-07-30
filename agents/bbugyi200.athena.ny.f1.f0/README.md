@@ -22,13 +22,13 @@
 
 | Variable | Value |
 |---|---|
-| `history_word_cap` | 10000 |
-| `history_word_prior_cap` | 1000 |
-| `history_word_source_entries` | 3276 |
-| `history_word_total` | 6360 |
-| `placeholder_store_cap` | 100 |
-| `placeholder_store_used` | 98 |
-| `summary` | History-word completion list: 6,360 unique tokens (10,000 cap not yet binding; old cap was 1,000),<br>derived from 3,276 July prompt-history entries, ordered most-recently-used first, exact-spelling<br>dedu… |
+| `history_word_cap` | "10000" |
+| `history_word_prior_cap` | "1000" |
+| `history_word_source_entries` | "3276" |
+| `history_word_total` | "6360" |
+| `placeholder_store_cap` | "100" |
+| `placeholder_store_used` | "98" |
+| `summary` | "History-word completion list: 6,360 unique tokens (10,000 cap not yet binding; old cap was 1,000),\\nderived from 3,276 July prompt-history entries, ordered most-recently-used first, exact-spelling\\n… |
 | `top_placeholder` | \<ctrl+enter\>(18) |
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.

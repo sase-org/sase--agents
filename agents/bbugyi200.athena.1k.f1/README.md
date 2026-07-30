@@ -22,9 +22,9 @@
 
 | Variable | Value |
 |---|---|
-| `committee_minutes` | Item 1: appoint a toast auditor<br>Item 2: defer the banana zoning appeal<br>Item 3: unanimously meow in lowercase |
-| `empty_pickle_jar` |  |
-| `markdown_confetti` | \*sparkles\* \[brackets\] \_underscores\_ \`tiny code\` (parentheses)! |
+| `committee_minutes` | "Item 1: appoint a toast auditor\\nItem 2: defer the banana zoning appeal\\nItem 3: unanimously meow in lowercase" |
+| `empty_pickle_jar` | "" |
+| `markdown_confetti` | "\*sparkles\* \[brackets\] \_underscores\_ \`tiny code\` (parentheses)!" |
 | `moon_spoon` | authorized\_for\_lunar\_soup.exe |
 | `waffle_status` | crispy but emotionally ambiguous |
 

@@ -30,7 +30,7 @@
 |---|---|
 | `recommendation` | do\_not\_rename\_to\_sawi |
 | `research_path` | 202607/sase\_to\_sawi\_rename\_research\_20260728.md |
-| `research_summary` | Do not rename SASE to SAWI. SASE has a severe and worsening Secure Access Service Edge search collision, so another naming round may be worthwhile before 1.0 if the product is broadening beyond softwa… |
+| `research_summary` | Do not rename SASE to SAWI. SASE has a severe and worsening Secure Access Service Edge search collision, so another naming round may be worthwhile before 1.0 if the product is broadening beyond softw… |
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
 

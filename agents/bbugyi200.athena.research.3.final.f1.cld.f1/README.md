@@ -29,7 +29,7 @@
 | `recommendation` | Proceed to seriously prototype the rename to plang; the collision objection you waived was carrying most of my prior case, and this relationship argument dismantles the rest |
 | `residual_xprompt_edge` | xprompt still screams prompt-domain on first sight; plang costs one sentence of teaching (plang = the prompt language you author) but that is cheap |
 | `verdict` | Your critique is correct and it is the strongest argument yet; under your constraints it flips my prior recommendation from keep-xprompt toward lean-plang |
-| `why_plang_wins` | plang (read as 'prompt language') keeps the source lexically distinct from the prompt it produces, drops the false is-a, and 'language' accommodates multi-part/multi-agent/shell+python workflows bette… |
+| `why_plang_wins` | plang (read as 'prompt language') keeps the source lexically distinct from the prompt it produces, drops the false is-a, and 'language' accommodates multi-part/multi-agent/shell+python workflows bett… |
 | `xprompt_flaw` | xprompt is a near-homophone and apparent hyponym of 'prompt', so it (a) blurs source vs runtime output and (b) falsely implies is-a-prompt, when the referent is a generator of prompts+steps |
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.

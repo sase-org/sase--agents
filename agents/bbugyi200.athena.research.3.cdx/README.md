@@ -31,7 +31,7 @@
 | `confidence` | high |
 | `recommendation` | do\_not\_rename\_xprompt\_to\_plang |
 | `research_path` | sdd/research/202607/xprompt\_plang\_rename\_research.md |
-| `summary` | Do not move forward with the rename. Plang is less semantically precise, blurs SASE's prompt/xprompt/workflow/directive taxonomy, and has direct prompt-language naming collisions. Keep xprompt; option… |
+| `summary` | Do not move forward with the rename. Plang is less semantically precise, blurs SASE's prompt/xprompt/workflow/directive taxonomy, and has direct prompt-language naming collisions. Keep xprompt; optio… |
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
 

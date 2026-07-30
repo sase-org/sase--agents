@@ -27,7 +27,7 @@
 | `decisive_objection` | External collision with Plang (plang.is / the LLM prompt-language paper) is a spelling clash that pronunciation cannot fix; rhyming with hang worsens the spoken clash too. |
 | `recommendation` | Still do not rename; the reframing fixes a real objection but not the decisive one. |
 | `self_defeating` | Declaring plang opaque throws away its only advantage, the transparent prompt-language meaning, leaving an arbitrary token that still collides and is strictly worse than the self-documenting xprompt. |
-| `summary` | You are right that plang can work as an opaque count noun with the parts/markdown/workflow distinctions preserved, but that move concedes plang's semantic upside while leaving the Plang namespace coll… |
+| `summary` | You are right that plang can work as an opaque count noun with the parts/markdown/workflow distinctions preserved, but that move concedes plang's semantic upside while leaving the Plang namespace col… |
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
 

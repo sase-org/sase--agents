@@ -30,7 +30,7 @@
 |---|---|
 | `core_mechanism` | custom just-check linter that hard-fails on expired/untracked backcompat markers, cross-checked against bead status via BD\_COMMAND (same loop as pyvision --epic-symbol) |
 | `options_considered` | A-policy-only, B-inline-markers+linter, C-registry-file, D-bead-backed, E-version-windows, F-scheduled-agentic-sweep |
-| `recommendation` | Layered lifecycle: structured in-code BACKCOMPAT\[bead\] markers enforced by a bead-aware just-check linter (generalizing pyvision --epic-symbol), removal windows anchored to semver releases, and a sche… |
+| `recommendation` | Layered lifecycle: structured in-code BACKCOMPAT\[bead\] markers enforced by a bead-aware just-check linter (generalizing pyvision --epic-symbol), removal windows anchored to semver releases, and a sch… |
 | `recommended_option` | hybrid B+D+E+F over policy A |
 | `research_file` | .sase/sdd/research/202607/backcompat\_lifecycle\_governance\_20260711.md |
 | `status` | ok |

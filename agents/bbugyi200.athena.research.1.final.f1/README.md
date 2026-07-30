@@ -32,7 +32,7 @@
 |---|---|
 | `epic` | sase-5l |
 | `opus_verification_phase` | sase-5l.14 |
-| `phase_count` | 14 |
+| `phase_count` | "14" |
 | `phases` | sase-5l.1,sase-5l.2,sase-5l.3,sase-5l.4,sase-5l.5,sase-5l.6,sase-5l.7,sase-5l.8,sase-5l.9,sase-5l.10,sase-5l.11,sase-5l.12,sase-5l.13,sase-5l.14 |
 
 ## Neighbors

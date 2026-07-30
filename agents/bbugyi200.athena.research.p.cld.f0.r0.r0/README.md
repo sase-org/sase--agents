@@ -22,13 +22,13 @@
 
 | Variable | Value |
 |---|---|
-| `defects` | 1. Copy mode (%) and marks (m) are hard-gated off on 4 of 5 Artifacts sub-tabs<br>   (missing from NON\_PRS\_ARTIFACT\_ACTIONS in src/sase/ace/tui/actions/artifacts.py:39;<br>   check\_action denies by default … |
+| `defects` | "1. Copy mode (%) and marks (m) are hard-gated off on 4 of 5 Artifacts sub-tabs\\n   (missing from NON\_PRS\_ARTIFACT\_ACTIONS in src/sase/ace/tui/actions/artifacts.py:39;\\n   check\_action denies by defa… |
 | `dormant_primitives` | ArtifactEntryTarget (computed per row, consumed by one caller to restore scroll) and plans: refs in Rust core (drift-tolerant ordered-root resolution, locked to one kind by an explicit error) |
 | `headline` | Artifacts panel needs one shared artifact noun, not more features: 6 kinds behind 6 models/keymaps and 2 disjoint UI surfaces |
 | `keystone_recommendation` | artifact-ref-grammar-in-sase-core |
-| `open_questions` | 3 |
-| `ranked_recommendations` | 1. Restore copy mode + marks per sub-tab (small, immediate, fixes a live defect)<br>2. Promote ArtifactEntryTarget into a sase\_core::artifact\_ref grammar (keystone)<br>3. Make PreviewPanelModal a real reade… |
-| `recommendation_count` | 10 |
+| `open_questions` | "3" |
+| `ranked_recommendations` | "1. Restore copy mode + marks per sub-tab (small, immediate, fixes a live defect)\\n2. Promote ArtifactEntryTarget into a sase\_core::artifact\_ref grammar (keystone)\\n3. Make PreviewPanelModal a real r… |
+| `recommendation_count` | "10" |
 | `report_commit` | 55d9f37 |
 | `report_path` | sase/repos/research/202607/artifact\_view\_copy\_reference\_20260729.md |
 | `report_repo` | research |

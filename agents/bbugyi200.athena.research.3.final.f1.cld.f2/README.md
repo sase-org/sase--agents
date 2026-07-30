@@ -25,8 +25,8 @@
 | `answer` | I overstated the case for xprompt: it describes prompt ancestry, not the actual object model, and that is a real disadvantage. |
 | `collision_factor` | ignored\_by\_user\_request |
 | `confidence` | medium\_high |
-| `plang_assessment` | If plang is an opaque count noun pronounced like hang, it works grammatically as plang/plangs and supports plang part, plang markdown file, and plang workflow YAML without implying the object is itsel… |
-| `revised_recommendation` | With implementation cost and external collisions excluded, I now lean toward renaming xprompt away from xprompt; plang is better than xprompt under these constraints, though it should be documented as… |
+| `plang_assessment` | If plang is an opaque count noun pronounced like hang, it works grammatically as plang/plangs and supports plang part, plang markdown file, and plang workflow YAML without implying the object is itse… |
+| `revised_recommendation` | With implementation cost and external collisions excluded, I now lean toward renaming xprompt away from xprompt; plang is better than xprompt under these constraints, though it should be documented a… |
 | `xprompt_strength` | The x prefix separates it from raw prompt enough in text and commands, but it does not solve the spoken or conceptual confusion with prompt. |
 | `xprompt_weakness` | xprompt sounds like a subtype of prompt, but SASE xprompts can be prompt parts, multi-agent prompt bundles, markdown artifacts, or YAML workflows containing prompts plus shell/Python steps. |
 

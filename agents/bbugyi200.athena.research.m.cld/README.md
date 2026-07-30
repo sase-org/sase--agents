@@ -28,12 +28,12 @@
 
 | Variable | Value |
 |---|---|
-| `key_findings` | 1. sase collision is severe: Secure Access Service Edge ($15-17B market in 2026; Zscaler, Palo Alto, Netskope, Cato, Cisco, Cloudflare, Fortinet). Adjacent industry, identical spelling, identical pron… |
-| `next_step` | Rename is justified but needs a better candidate. Section 9 of the report lists a 7-point bar: zero enterprise-IT category collision, an actually acquirable .dev/.sh/.com, PyPI+crates+npm+Homebrew all… |
+| `key_findings` | "1. sase collision is severe: Secure Access Service Edge ($15-17B market in 2026; Zscaler, Palo Alto, Netskope, Cato, Cisco, Cloudflare, Fortinet). Adjacent industry, identical spelling, identical pr… |
+| `next_step` | Rename is justified but needs a better candidate. Section 9 of the report lists a 7-point bar: zero enterprise-IT category collision, an actually acquirable .dev/.sh/.com, PyPI+crates+npm+Homebrew al… |
 | `recommendation` | DO\_NOT\_RENAME |
 | `report_path` | sase/repos/research/202607/sase\_to\_sawi\_rename\_research.md |
-| `salvage` | If you like the branding hook, the mustard SEED metaphor (smallest seed -\> largest plant; one prompt -\> a team of agents) is legible without a footnote and botanically honest - but that argues for an … |
-| `verdict` | Do not rename sase -\> sawi. The sase name IS badly broken (collides with Secure Access Service Edge, a $15-17B Gartner category, same spelling AND same pronunciation 'sassy'), but sawi is a lateral mo… |
+| `salvage` | If you like the branding hook, the mustard SEED metaphor (smallest seed -\> largest plant; one prompt -\> a team of agents) is legible without a footnote and botanically honest - but that argues for an… |
+| `verdict` | Do not rename sase -\> sawi. The sase name IS badly broken (collides with Secure Access Service Edge, a $15-17B Gartner category, same spelling AND same pronunciation 'sassy'), but sawi is a lateral m… |
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
 

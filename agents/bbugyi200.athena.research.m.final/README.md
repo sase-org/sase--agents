@@ -29,12 +29,12 @@
 | Variable | Value |
 |---|---|
 | `consensus` | All three analyses (codex \_\_a, claude \_\_b, lead) independently recommend against renaming sase to sawi. |
-| `corrections` | Three source-report claims were corrected by lead verification:<br>1. DOMAIN ARGUMENT REVERSED: both reports treated "you own sase.sh" as a major asset to protect. Registry whois shows sawi.sh is FREE ("… |
-| `next_step` | Keep sase for now; treat the Secure Access Service Edge collision as a real but non-urgent liability. If renaming, hold candidates to the report's 8-point bar (now including a hostile-meaning check in… |
-| `rationale` | Post-correction, the case against sawi rests on four points (NOT on namespaces -- sawi is clear on PyPI, crates.io, sawi-org, and sawi.sh):<br>1. "Structured Agentic Work Interface" is a worse expansion … |
+| `corrections` | "Three source-report claims were corrected by lead verification:\\n1. DOMAIN ARGUMENT REVERSED: both reports treated \\"you own sase.sh\\" as a major asset to protect. Registry whois shows sawi.sh is FR… |
+| `next_step` | Keep sase for now; treat the Secure Access Service Edge collision as a real but non-urgent liability. If renaming, hold candidates to the report's 8-point bar (now including a hostile-meaning check i… |
+| `rationale` | "Post-correction, the case against sawi rests on four points (NOT on namespaces -- sawi is clear on PyPI, crates.io, sawi-org, and sawi.sh):\\n1. \\"Structured Agentic Work Interface\\" is a worse expan… |
 | `recommendation` | do\_not\_rename\_to\_sawi |
 | `report_path` | sase/repos/research/202607/sawi\_rename\_decision/sawi\_rename\_decision.md |
-| `salvage` | The mustard-SEED metaphor is genuinely strong (smallest seed -\> largest plant; one prompt -\> a team of agents) but it argues for an English/botanical mustard name, not an Indonesian one. Illustrative … |
+| `salvage` | The mustard-SEED metaphor is genuinely strong (smallest seed -\> largest plant; one prompt -\> a team of agents) but it argues for an English/botanical mustard name, not an Indonesian one. Illustrative… |
 | `verdict` | sideways\_move\_not\_an\_upgrade |
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.

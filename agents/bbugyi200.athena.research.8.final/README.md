@@ -29,7 +29,7 @@
 | Variable | Value |
 |---|---|
 | `core_mechanism` | Self-cleaning bead-keyed in-code expiry markers hard-enforced in just check, generalizing the existing pyvision --epic-symbol loop |
-| `recommendation` | Layered lifecycle system: one structured BACKCOMPAT\[bead-id\] in-code marker per shim (source of truth), enforced by a bead-aware \_lint-backcompat stage in just check (modeled on pyvision --epic-symbol… |
+| `recommendation` | Layered lifecycle system: one structured BACKCOMPAT\[bead-id\] in-code marker per shim (source of truth), enforced by a bead-aware \_lint-backcompat stage in just check (modeled on pyvision --epic-symbo… |
 | `research_dir` | .sase/sdd/research/backcompat\_lifecycle\_governance |
 | `research_file` | .sase/sdd/research/backcompat\_lifecycle\_governance/backcompat\_lifecycle\_governance.md |
 | `source_a` | .sase/sdd/research/backcompat\_lifecycle\_governance/backcompat\_lifecycle\_governance\_\_a.md |
