@@ -32,6 +32,12 @@
 | [sase-bd.3](../bbugyi200.athena.sase-bd.3/README.md) | sase-bd hood | completed |
 | [sase-bd.5](../bbugyi200.athena.sase-bd.5/README.md) | sase-bd hood | completed |
 | [sase-bd.6](../bbugyi200.athena.sase-bd.6/README.md) | sase-bd hood | completed |
-| [sase-bd.7](../bbugyi200.athena.sase-bd.7/README.md) | sase-bd hood | active |
-| [sase-bd.8](../bbugyi200.athena.sase-bd.8/README.md) | sase-bd hood | waiting |
-| [sase-bd.land](../bbugyi200.athena.sase-bd.land/README.md) | sase-bd hood | waiting |
+| [sase-bd.7](../bbugyi200.athena.sase-bd.7/README.md) | sase-bd hood | completed |
+| [sase-bd.8](../bbugyi200.athena.sase-bd.8/README.md) | sase-bd hood | completed |
+| [sase-bd.9.1](../bbugyi200.athena.sase-bd.9.1/README.md) | sase-bd hood | completed |
+| [sase-bd.9.2](../bbugyi200.athena.sase-bd.9.2/README.md) | sase-bd hood | active |
+| [sase-bd.9.3](../bbugyi200.athena.sase-bd.9.3/README.md) | sase-bd hood | waiting |
+| [sase-bd.9.4](../bbugyi200.athena.sase-bd.9.4/README.md) | sase-bd hood | completed |
+| [sase-bd.9.5](../bbugyi200.athena.sase-bd.9.5/README.md) | sase-bd hood | waiting |
+| [sase-bd.9.land](../bbugyi200.athena.sase-bd.9.land/README.md) | sase-bd hood | waiting |
+| [sase-bd.land](../bbugyi200.athena.sase-bd.land/README.md) | sase-bd hood | failed |
