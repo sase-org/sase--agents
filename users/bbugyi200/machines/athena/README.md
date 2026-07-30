@@ -944,7 +944,7 @@
 | [pysplit](hoods/pysplit/README.md) | 28 | 0 | completed 28 |
 | [r](hoods/r/README.md) | 4 | 2 | active 2, completed 2 |
 | [refresh\_docs](hoods/refresh_docs/README.md) | 64 | 0 | active 14, completed 48, waiting 2 |
-| [research](hoods/research/README.md) | 302 | 6 | active 120, completed 167, dismissed 5, failed 1, waiting 9 |
+| [research](hoods/research/README.md) | 302 | 6 | active 120, completed 168, dismissed 5, failed 1, waiting 8 |
 | [research\_swarm](hoods/research_swarm/README.md) | 45 | 0 | completed 45 |
 | [s](hoods/s/README.md) | 7 | 2 | active 3, completed 4 |
 | [sase-44](hoods/sase-44/README.md) | 7 | 0 | completed 7 |
