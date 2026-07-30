@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-bf](../../users/bbugyi200/machines/athena/hoods/sase-bf/README.md) / sase-bf.land
 
-**Global name:** `bbugyi200.athena.sase-bf.land` · **State:** active · **Source run:** `run-a75621647d4e474249ad75e1544f3ad2`
+**Global name:** `bbugyi200.athena.sase-bf.land` · **State:** completed · **Source run:** `run-a75621647d4e474249ad75e1544f3ad2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-bf
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
