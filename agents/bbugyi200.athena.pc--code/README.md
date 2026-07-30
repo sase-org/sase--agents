@@ -11,4 +11,10 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-30T13:40:41.778817+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4866ece`](https://github.com/sase-org/sase/commit/4866ece4a6dca7bc148f10323b5ce418f145729d) | fix(sdd): project canonical plan header links | 2026-07-30 14:10:49 |
