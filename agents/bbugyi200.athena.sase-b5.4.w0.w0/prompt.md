@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me implement the work associated with the "Give the store a lifecycle: report → dry-run → opt-in retention" section of the artifact_capture_and_retention.md research sidecar repo? #plan #m_opus %w:sase-b5.4.w0

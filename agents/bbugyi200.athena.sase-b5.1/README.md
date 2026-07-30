@@ -11,18 +11,26 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-30T11:22:37.675166+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
 
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`ad0f038`](https://github.com/sase-org/sase/commit/ad0f038a05e9b840247a5c97822c2ee3ebb05830) | feat(sdd): add checkout anchor resolver | 2026-07-30 12:08:28 |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-b5.2](../bbugyi200.athena.sase-b5.2/README.md) | sase-b5 hood | active |
-| [sase-b5.3](../bbugyi200.athena.sase-b5.3/README.md) | sase-b5 hood | active |
-| [sase-b5.4](../bbugyi200.athena.sase-b5.4/README.md) | sase-b5 hood | waiting |
+| [sase-b5.2](../bbugyi200.athena.sase-b5.2/README.md) | sase-b5 hood | completed |
+| [sase-b5.3](../bbugyi200.athena.sase-b5.3/README.md) | sase-b5 hood | completed |
+| [sase-b5.4](../bbugyi200.athena.sase-b5.4/README.md) | sase-b5 hood | active |
+| [sase-b5.4.w0](../bbugyi200.athena.sase-b5.4.w0/README.md) | sase-b5 hood | waiting |
+| [sase-b5.4.w0.w0](../bbugyi200.athena.sase-b5.4.w0.w0/README.md) | sase-b5 hood | active |
 | [sase-b5.5](../bbugyi200.athena.sase-b5.5/README.md) | sase-b5 hood | waiting |
 | [sase-b5.land](../bbugyi200.athena.sase-b5.land/README.md) | sase-b5 hood | waiting |

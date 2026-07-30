@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make it so we always include a column that indicates what repo a commit belongs to when generating commits tables in pages for sidecar repo's (for example, see ~/tmp/screenshots/20260730_081150.png, for a screenshot of a commits table on a `beads` sidecar repo page)? #plan #m_opus %w:sase-b5.4
