@@ -1,0 +1,10 @@
+# Hood: po
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / po
+
+**Global hood:** `bbugyi200.athena.po` · **Runs:** 2 · **Families:** 1 · **States:** active 2
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [po--plan](../../../../../../families/bbugyi200.athena.po.md#member-plan) | active | opus / claude | 2026-07-30T19:58:17.096069+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.po--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.po--plan/chat.md) |
+| [po--code](../../../../../../families/bbugyi200.athena.po.md#member-code) | active | gpt-5.6-sol / codex | 2026-07-30T20:06:11.799867+00:00 | 1 | — |

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase It doesn't seem like the `sase bead close` command pushes the commit by default anymore. It should (but this should be overridable for when we want to commit all of the changes at once--see how the `sase bead work` command does this for context). Can you help me fix this? #plan #m_opus
