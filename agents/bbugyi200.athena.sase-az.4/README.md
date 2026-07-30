@@ -23,5 +23,5 @@
 |---|---|---|
 | [sase-az.1](../bbugyi200.athena.sase-az.1/README.md) | sase-az hood | completed |
 | [sase-az.2](../bbugyi200.athena.sase-az.2/README.md) | sase-az hood | completed |
-| [sase-az.3](../bbugyi200.athena.sase-az.3/README.md) | sase-az hood | active |
+| [sase-az.3](../../families/bbugyi200.athena.sase-az.3.md) (family · 2) | sase-az hood | active 2 |
 | [sase-az.land](../bbugyi200.athena.sase-az.land/README.md) | sase-az hood | waiting |
