@@ -28,6 +28,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-az.2](../bbugyi200.athena.sase-az.2/README.md) | sase-az hood | completed |
-| [sase-az.3](../../families/bbugyi200.athena.sase-az.3.md) (family · 2) | sase-az hood | active 2 |
-| [sase-az.4](../bbugyi200.athena.sase-az.4/README.md) | sase-az hood | waiting |
+| [sase-az.3](../../families/bbugyi200.athena.sase-az.3.md) (family · 2) | sase-az hood | completed 2 |
+| [sase-az.4](../bbugyi200.athena.sase-az.4/README.md) | sase-az hood | active |
 | [sase-az.land](../bbugyi200.athena.sase-az.land/README.md) | sase-az hood | waiting |
