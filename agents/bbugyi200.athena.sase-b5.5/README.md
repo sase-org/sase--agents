@@ -11,11 +11,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-30T13:14:30.982546+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`f62e8cd`](https://github.com/sase-org/sase/commit/f62e8cd01713c934cb6e5fcf0374667805a78ceb) | feat(bead-pages): guard against misattributed commit links | 2026-07-30 13:31:35 |
 
 ## Neighbors
 
@@ -26,5 +32,5 @@
 | [sase-b5.3](../bbugyi200.athena.sase-b5.3/README.md) | sase-b5 hood | completed |
 | [sase-b5.4](../bbugyi200.athena.sase-b5.4/README.md) | sase-b5 hood | completed |
 | [sase-b5.4.w0.w0](../bbugyi200.athena.sase-b5.4.w0.w0/README.md) | sase-b5 hood | active |
-| [sase-b5.4.w1](../bbugyi200.athena.sase-b5.4.w1/README.md) | sase-b5 hood | active |
+| [sase-b5.4.w1](../../families/bbugyi200.athena.sase-b5.4.w1.md) (family · 2) | sase-b5 hood | active 2 |
 | [sase-b5.land](../bbugyi200.athena.sase-b5.land/README.md) | sase-b5 hood | waiting |
