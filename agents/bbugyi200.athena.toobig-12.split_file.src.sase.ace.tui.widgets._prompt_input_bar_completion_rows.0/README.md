@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-12.split\_file.src.sase.artifact\_refs.0](../bbugyi200.athena.toobig-12.split_file.src.sase.artifact_refs.0/README.md) | toobig-12.split\_file.src.sase hood | active |
-| [toobig-12.split\_file.tests.ace.tui.actions.test\_view\_files\_image.0](../bbugyi200.athena.toobig-12.split_file.tests.ace.tui.actions.test_view_files_image.0/README.md) | toobig-12.split\_file hood | waiting |
+| [toobig-12.split\_file.src.sase.artifact\_refs.0](../bbugyi200.athena.toobig-12.split_file.src.sase.artifact_refs.0/README.md) | toobig-12.split\_file.src.sase hood | completed |
+| [toobig-12.split\_file.tests.ace.tui.actions.test\_view\_files\_image.0](../bbugyi200.athena.toobig-12.split_file.tests.ace.tui.actions.test_view_files_image.0/README.md) | toobig-12.split\_file hood | active |
