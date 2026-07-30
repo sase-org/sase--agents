@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1785431366,"sha":"d6eb4127138b071e02e179b4cd8bf0c1da7c9948","subject":"fix(artifact): protect consumed files from retention"}],"schema_version":2,"source_run_id":"run-f599b6867137a7ea6f8fd8dd4677e35c"}
