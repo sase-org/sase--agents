@@ -11,7 +11,13 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-30T13:29:26.715551+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`63d0ca5`](https://github.com/sase-org/sase/commit/63d0ca504d48b8daed6702e38d79443d77af44cb) | feat: show repository names in commit tables | 2026-07-30 13:44:26 |
 
 ## Neighbors
 
@@ -22,5 +28,5 @@
 | [sase-b5.1](../bbugyi200.athena.sase-b5.1/README.md) | sase-b5 hood | completed |
 | [sase-b5.2](../bbugyi200.athena.sase-b5.2/README.md) | sase-b5 hood | completed |
 | [sase-b5.3](../bbugyi200.athena.sase-b5.3/README.md) | sase-b5 hood | completed |
-| [sase-b5.5](../bbugyi200.athena.sase-b5.5/README.md) | sase-b5 hood | active |
-| [sase-b5.land](../bbugyi200.athena.sase-b5.land/README.md) | sase-b5 hood | waiting |
+| [sase-b5.5](../bbugyi200.athena.sase-b5.5/README.md) | sase-b5 hood | completed |
+| [sase-b5.land](../bbugyi200.athena.sase-b5.land/README.md) | sase-b5 hood | active |

@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-b5.4.w1--code | active | gpt-5.6-sol / codex | 2026-07-30T13:29:26.715551+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-b5.4.w1--code | active | gpt-5.6-sol / codex | 2026-07-30T13:29:26.715551+00:00 | [1](../agents/bbugyi200.athena.sase-b5.4.w1--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-b5.4.w1--plan | active | opus / claude | 2026-07-30T13:14:28.253324+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-b5.4.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-b5.4.w1--plan/chat.md) |
+
+## Commits
+
+| Role | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| code | [`63d0ca5`](https://github.com/sase-org/sase/commit/63d0ca504d48b8daed6702e38d79443d77af44cb) | feat: show repository names in commit tables | 2026-07-30 13:44:26 |
 
 ## Neighbors
 
@@ -29,5 +35,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-b5.1](../agents/bbugyi200.athena.sase-b5.1/README.md) | sase-b5 hood | completed |
 | [sase-b5.2](../agents/bbugyi200.athena.sase-b5.2/README.md) | sase-b5 hood | completed |
 | [sase-b5.3](../agents/bbugyi200.athena.sase-b5.3/README.md) | sase-b5 hood | completed |
-| [sase-b5.5](../agents/bbugyi200.athena.sase-b5.5/README.md) | sase-b5 hood | active |
-| [sase-b5.land](../agents/bbugyi200.athena.sase-b5.land/README.md) | sase-b5 hood | waiting |
+| [sase-b5.5](../agents/bbugyi200.athena.sase-b5.5/README.md) | sase-b5 hood | completed |
+| [sase-b5.land](../agents/bbugyi200.athena.sase-b5.land/README.md) | sase-b5 hood | active |
