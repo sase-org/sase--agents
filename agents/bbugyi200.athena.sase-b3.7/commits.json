@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6fa16810a6d257572ef8ed3a7ee5fffb"}
+{"commits":[{"committed_at":1785405181,"sha":"b6b51f2399df191dc5a926a26a3040a74bda3b03","subject":"feat(tui): highlight fuzzy artifact reference matches"}],"schema_version":2,"source_run_id":"run-6fa16810a6d257572ef8ed3a7ee5fffb"}
