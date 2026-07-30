@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-52400a89f3bd85ee4435f839134c7acc"}
+{"commits":[{"committed_at":1785433561,"sha":"ac2d5b22cf2d4cc0c0c25f5accb039d9118cee79","subject":"feat(artifact): reclaim stored bytes from durable VCS"}],"schema_version":2,"source_run_id":"run-52400a89f3bd85ee4435f839134c7acc"}
