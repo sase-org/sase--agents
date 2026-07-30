@@ -1,0 +1,1 @@
+%id(cld, clan=research.t) %wait(priority=20) %m:@research_b #gh:gh_sase-org__sase I'm looking for new ways to improve sase artifacts. Can you do some research to help me decide the best path forward? End your analysis with a ranked list of recommended improvements. #research
