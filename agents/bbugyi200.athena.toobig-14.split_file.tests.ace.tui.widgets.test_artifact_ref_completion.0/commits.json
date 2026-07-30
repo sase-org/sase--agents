@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5b1651fbfe6e782c9dd35f157a919c5d"}
+{"commits":[{"committed_at":1785417227,"sha":"70b8fe28f747578f4137675c15a84350f83604ca","subject":"test: split artifact reference completion coverage"}],"schema_version":2,"source_run_id":"run-5b1651fbfe6e782c9dd35f157a919c5d"}
