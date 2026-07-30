@@ -30,7 +30,7 @@
 | [sase-b0.1](../bbugyi200.athena.sase-b0.1/README.md) | sase-b0 hood | completed |
 | [sase-b0.2](../bbugyi200.athena.sase-b0.2/README.md) | sase-b0 hood | completed |
 | [sase-b0.4](../bbugyi200.athena.sase-b0.4/README.md) | sase-b0 hood | completed |
-| [sase-b0.5](../bbugyi200.athena.sase-b0.5/README.md) | sase-b0 hood | active |
-| [sase-b0.6](../bbugyi200.athena.sase-b0.6/README.md) | sase-b0 hood | waiting |
+| [sase-b0.5](../bbugyi200.athena.sase-b0.5/README.md) | sase-b0 hood | completed |
+| [sase-b0.6](../bbugyi200.athena.sase-b0.6/README.md) | sase-b0 hood | active |
 | [sase-b0.7](../bbugyi200.athena.sase-b0.7/README.md) | sase-b0 hood | waiting |
 | [sase-b0.land](../bbugyi200.athena.sase-b0.land/README.md) | sase-b0 hood | waiting |
