@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`128aa29`](https://github.com/sase-org/sase/commit/128aa29bc6f2ce93bda5acfb1db6a1ed2acc3ef9) | chore: Add SDD prompt and plan for finalizer\_opened\_sibling\_authoritative\_path | 2026-06-20 18:07:49 |
-| [`7d9f003`](https://github.com/sase-org/sase/commit/7d9f0036f42f372db1af53d0832587ce22cc8f0d) | fix: finalize recorded sibling workspaces | 2026-06-20 18:16:01 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`128aa29`](https://github.com/sase-org/sase/commit/128aa29bc6f2ce93bda5acfb1db6a1ed2acc3ef9) | chore: Add SDD prompt and plan for finalizer\_opened\_sibling\_authoritative\_path | 2026-06-20 18:07:49 |
+| sase | [`7d9f003`](https://github.com/sase-org/sase/commit/7d9f0036f42f372db1af53d0832587ce22cc8f0d) | fix: finalize recorded sibling workspaces | 2026-06-20 18:16:01 |
 
 ## Neighbors
 

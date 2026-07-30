@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3648ce1`](https://github.com/sase-org/sase/commit/3648ce1d2a36fe04678b342e0fa887c62d41a9d0) | fix: honor retry fallback model overrides (sase-5o.4) | 2026-07-10 22:07:18 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3648ce1`](https://github.com/sase-org/sase/commit/3648ce1d2a36fe04678b342e0fa887c62d41a9d0) | fix: honor retry fallback model overrides (sase-5o.4) | 2026-07-10 22:07:18 |
 
 ## Neighbors
 

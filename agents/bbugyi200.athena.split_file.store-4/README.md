@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6290fd5`](https://github.com/sase-org/sase/commit/6290fd5208b76b8b7c42d374632a048363145f46) | refactor(sdd): split store module by responsibility | 2026-07-16 04:49:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6290fd5`](https://github.com/sase-org/sase/commit/6290fd5208b76b8b7c42d374632a048363145f46) | refactor(sdd): split store module by responsibility | 2026-07-16 04:49:54 |
 
 ## Neighbors
 

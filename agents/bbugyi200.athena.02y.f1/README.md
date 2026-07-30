@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a8ebd9d`](https://github.com/sase-org/sase/commit/a8ebd9d262b4cb2c19ed64847b4dd67733493153) | chore: Add SDD prompt and plan for agent\_restore\_jump\_hints | 2026-06-21 13:14:35 |
-| [`cb85e8e`](https://github.com/sase-org/sase/commit/cb85e8e52cecf706a3a2c57d2ac1927cb55f5a52) | feat(tui): add apostrophe jump hints to Agent Restore modal | 2026-06-21 13:31:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a8ebd9d`](https://github.com/sase-org/sase/commit/a8ebd9d262b4cb2c19ed64847b4dd67733493153) | chore: Add SDD prompt and plan for agent\_restore\_jump\_hints | 2026-06-21 13:14:35 |
+| sase | [`cb85e8e`](https://github.com/sase-org/sase/commit/cb85e8e52cecf706a3a2c57d2ac1927cb55f5a52) | feat(tui): add apostrophe jump hints to Agent Restore modal | 2026-06-21 13:31:58 |
 
 ## Neighbors
 

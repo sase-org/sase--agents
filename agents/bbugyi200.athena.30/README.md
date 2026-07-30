@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`63d1f0e`](https://github.com/sase-org/sase/commit/63d1f0e5572a854a08b08fff3007153940a3b813) | chore: Add SDD prompt and plan for recent\_agent\_restore | 2026-06-06 12:56:47 |
-| [`1b1ce79`](https://github.com/sase-org/sase/commit/1b1ce7921ca290177f7dc8687aab87db09531b1b) | feat: restore recently dismissed agent groups | 2026-06-06 13:22:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`63d1f0e`](https://github.com/sase-org/sase/commit/63d1f0e5572a854a08b08fff3007153940a3b813) | chore: Add SDD prompt and plan for recent\_agent\_restore | 2026-06-06 12:56:47 |
+| sase | [`1b1ce79`](https://github.com/sase-org/sase/commit/1b1ce7921ca290177f7dc8687aab87db09531b1b) | feat: restore recently dismissed agent groups | 2026-06-06 13:22:46 |
 
 ## Neighbors
 

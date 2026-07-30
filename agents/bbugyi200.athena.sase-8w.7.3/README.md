@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c2fd043`](https://github.com/sase-org/sase/commit/c2fd0433617be4862dc33c2e883646f8be30931b) | test(tui): tolerate commits pane preview timing (sase-8w.7.3) | 2026-07-24 00:21:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c2fd043`](https://github.com/sase-org/sase/commit/c2fd0433617be4862dc33c2e883646f8be30931b) | test(tui): tolerate commits pane preview timing (sase-8w.7.3) | 2026-07-24 00:21:23 |
 
 ## Neighbors
 

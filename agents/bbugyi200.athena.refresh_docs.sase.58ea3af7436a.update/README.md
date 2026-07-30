@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7b6d8d5`](https://github.com/sase-org/sase/commit/7b6d8d54e45ee75b3ac546f99a53271101a3e513) | chore: update documentation for finalizer behavior | 2026-05-28 14:38:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7b6d8d5`](https://github.com/sase-org/sase/commit/7b6d8d54e45ee75b3ac546f99a53271101a3e513) | chore: update documentation for finalizer behavior | 2026-05-28 14:38:27 |
 
 ## Neighbors
 

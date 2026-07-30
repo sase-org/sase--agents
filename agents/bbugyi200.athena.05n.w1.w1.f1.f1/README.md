@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9553f38`](https://github.com/sase-org/sase/commit/9553f385316b4fbe313744fcac7e51a8dde8f03b) | chore: Add SDD prompt and plan for agent\_name\_completion | 2026-06-24 21:40:04 |
-| [`1c8acbd`](https://github.com/sase-org/sase/commit/1c8acbd9447ed47c6d11a4c00a422feea721e8e8) | feat(ace): add agent name completions | 2026-06-24 22:07:35 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9553f38`](https://github.com/sase-org/sase/commit/9553f385316b4fbe313744fcac7e51a8dde8f03b) | chore: Add SDD prompt and plan for agent\_name\_completion | 2026-06-24 21:40:04 |
+| sase | [`1c8acbd`](https://github.com/sase-org/sase/commit/1c8acbd9447ed47c6d11a4c00a422feea721e8e8) | feat(ace): add agent name completions | 2026-06-24 22:07:35 |
 
 ## Neighbors
 

@@ -20,9 +20,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`895246b`](https://github.com/sase-org/sase/commit/895246bd3980f8bcfaa6bc5465ede7795b506c19) | docs: consolidate xprompt rename research | 2026-07-08 21:43:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`895246b`](https://github.com/sase-org/sase/commit/895246bd3980f8bcfaa6bc5465ede7795b506c19) | docs: consolidate xprompt rename research | 2026-07-08 21:43:11 |
 
 ## Variables
 

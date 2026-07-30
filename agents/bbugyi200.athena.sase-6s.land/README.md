@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6bd3617`](https://github.com/sase-org/sase/commit/6bd3617f73d9aecfe8f69f853074cc7c8696d23a) | refactor: remove expired filter epic scaffolding (sase-6s) | 2026-07-18 14:30:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6bd3617`](https://github.com/sase-org/sase/commit/6bd3617f73d9aecfe8f69f853074cc7c8696d23a) | refactor: remove expired filter epic scaffolding (sase-6s) | 2026-07-18 14:30:37 |
 
 ## Neighbors
 

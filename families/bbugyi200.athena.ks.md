@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`178f5d5`](https://github.com/sase-org/sase/commit/178f5d53fd7228e8363cfd1ce7adf594bb6127ac) | fix(ace): skip collapsed tribe panels during jumps | 2026-07-25 15:32:42 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`178f5d5`](https://github.com/sase-org/sase/commit/178f5d53fd7228e8363cfd1ce7adf594bb6127ac) | fix(ace): skip collapsed tribe panels during jumps | 2026-07-25 15:32:42 |

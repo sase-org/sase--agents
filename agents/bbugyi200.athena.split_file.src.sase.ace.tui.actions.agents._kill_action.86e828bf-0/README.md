@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fe76c78`](https://github.com/sase-org/sase/commit/fe76c789f28065b5fede6bcb8554dabc166a0d91) | refactor(ace): split agent kill actions | 2026-07-19 18:14:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fe76c78`](https://github.com/sase-org/sase/commit/fe76c789f28065b5fede6bcb8554dabc166a0d91) | refactor(ace): split agent kill actions | 2026-07-19 18:14:25 |
 
 ## Neighbors
 

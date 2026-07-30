@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ff81f49`](https://github.com/sase-org/sase/commit/ff81f497528a9e8465a0ed20156776bb65cdceab) | chore: Add research for #with\_q\_and\_a xprompt | 2026-06-18 20:36:19 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ff81f49`](https://github.com/sase-org/sase/commit/ff81f497528a9e8465a0ed20156776bb65cdceab) | chore: Add research for #with\_q\_and\_a xprompt | 2026-06-18 20:36:19 |
 
 ## Neighbors
 

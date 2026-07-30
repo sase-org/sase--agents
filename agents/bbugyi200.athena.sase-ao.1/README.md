@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6405e40`](https://github.com/sase-org/sase/commit/6405e40eeb57d97909c601d5bc4764b61dae5f8b) | fix: keep leading model aliases in completion context | 2026-07-29 11:56:14 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6405e40`](https://github.com/sase-org/sase/commit/6405e40eeb57d97909c601d5bc4764b61dae5f8b) | fix: keep leading model aliases in completion context | 2026-07-29 11:56:14 |
 
 ## Neighbors
 

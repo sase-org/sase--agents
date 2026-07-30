@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ffcfae3`](https://github.com/sase-org/sase/commit/ffcfae364dd34df5ca2ddd5780c3a59d619caff6) | feat(cli)!: redesign repo list inventory (sase-5x.2) | 2026-07-13 18:55:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ffcfae3`](https://github.com/sase-org/sase/commit/ffcfae364dd34df5ca2ddd5780c3a59d619caff6) | feat(cli)!: redesign repo list inventory (sase-5x.2) | 2026-07-13 18:55:56 |
 
 ## Neighbors
 

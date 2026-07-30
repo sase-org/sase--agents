@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9aa81bc`](https://github.com/sase-org/sase/commit/9aa81bcc92076730474d0396d267684f7eb68c6f) | chore: fill verified gaps in agent family research | 2026-06-02 20:10:19 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9aa81bc`](https://github.com/sase-org/sase/commit/9aa81bcc92076730474d0396d267684f7eb68c6f) | chore: fill verified gaps in agent family research | 2026-06-02 20:10:19 |
 
 ## Neighbors
 

@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`528c62b`](https://github.com/sase-org/sase/commit/528c62bfb3f6483e5970b77218d125d4ae093f7f) | chore: Add SDD prompt and plan for chop\_indexed\_agent\_names | 2026-05-28 13:15:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`528c62b`](https://github.com/sase-org/sase/commit/528c62bfb3f6483e5970b77218d125d4ae093f7f) | chore: Add SDD prompt and plan for chop\_indexed\_agent\_names | 2026-05-28 13:15:41 |

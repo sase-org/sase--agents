@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`46670fb`](https://github.com/sase-org/sase/commit/46670fbf4d2afccdc30cf6ec344d5a003d358f3b) | feat(sdd): create companion repo during init | 2026-07-09 01:31:46 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`46670fb`](https://github.com/sase-org/sase/commit/46670fbf4d2afccdc30cf6ec344d5a003d358f3b) | feat(sdd): create companion repo during init | 2026-07-09 01:31:46 |
 
 ## Neighbors
 

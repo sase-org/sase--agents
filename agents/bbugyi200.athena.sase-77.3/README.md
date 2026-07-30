@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`09fa3fe`](https://github.com/sase-org/sase/commit/09fa3fe1e8b6a29532127ade5be2e020fd06388a) | fix(git): apply lock recovery to remaining mutation runners (sase-77.3) | 2026-07-19 14:36:26 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`09fa3fe`](https://github.com/sase-org/sase/commit/09fa3fe1e8b6a29532127ade5be2e020fd06388a) | fix(git): apply lock recovery to remaining mutation runners (sase-77.3) | 2026-07-19 14:36:26 |
 
 ## Neighbors
 

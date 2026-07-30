@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d849d62`](https://github.com/sase-org/sase/commit/d849d628bf0ac28c000e489fcd6e5074c860fbc0) | fix(ace): keep agent subtrees in outer grouping | 2026-07-18 12:19:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d849d62`](https://github.com/sase-org/sase/commit/d849d628bf0ac28c000e489fcd6e5074c860fbc0) | fix(ace): keep agent subtrees in outer grouping | 2026-07-18 12:19:44 |
 
 ## Neighbors
 

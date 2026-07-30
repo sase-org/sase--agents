@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`5a5d07d`](https://github.com/sase-org/sase/commit/5a5d07d62eeb2abe60159a01bffec71c8fc4462e) | fix(tui): preserve selected tribe header marker | 2026-07-19 11:34:49 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`5a5d07d`](https://github.com/sase-org/sase/commit/5a5d07d62eeb2abe60159a01bffec71c8fc4462e) | fix(tui): preserve selected tribe header marker | 2026-07-19 11:34:49 |

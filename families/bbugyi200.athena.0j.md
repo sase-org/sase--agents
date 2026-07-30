@@ -22,13 +22,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`9763639`](https://github.com/sase-org/sase/commit/9763639d601f1052cdc472c44948a743496ee605) | chore: Add SDD prompt and plan for fix\_bead\_display\_flicker | 2026-07-06 04:32:17 |
-| root | [`47a7d5d`](https://github.com/sase-org/sase/commit/47a7d5dad9ad317e2b4fa26116538d99bfc2266f) | fix(tui): keep bead displays visible while revalidating | 2026-07-06 05:26:22 |
-| root | [`eeb6f73`](https://github.com/sase-org/sase/commit/eeb6f73957807882f31956933f9dbdc7be4c92a5) | chore: Add SDD prompt and plan for update\_confirm\_incoming\_commits | 2026-07-07 16:16:48 |
-| code | [`ad66f33`](https://github.com/sase-org/sase/commit/ad66f332904e58bee10d3157362b66cc4651d752) | feat(tui): show incoming commits in update confirmations | 2026-07-07 16:42:29 |
-| root | [`ad66f33`](https://github.com/sase-org/sase/commit/ad66f332904e58bee10d3157362b66cc4651d752) | feat(tui): show incoming commits in update confirmations | 2026-07-07 16:42:29 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`9763639`](https://github.com/sase-org/sase/commit/9763639d601f1052cdc472c44948a743496ee605) | chore: Add SDD prompt and plan for fix\_bead\_display\_flicker | 2026-07-06 04:32:17 |
+| root | sase | [`47a7d5d`](https://github.com/sase-org/sase/commit/47a7d5dad9ad317e2b4fa26116538d99bfc2266f) | fix(tui): keep bead displays visible while revalidating | 2026-07-06 05:26:22 |
+| root | sase | [`eeb6f73`](https://github.com/sase-org/sase/commit/eeb6f73957807882f31956933f9dbdc7be4c92a5) | chore: Add SDD prompt and plan for update\_confirm\_incoming\_commits | 2026-07-07 16:16:48 |
+| code | sase | [`ad66f33`](https://github.com/sase-org/sase/commit/ad66f332904e58bee10d3157362b66cc4651d752) | feat(tui): show incoming commits in update confirmations | 2026-07-07 16:42:29 |
+| root | sase | [`ad66f33`](https://github.com/sase-org/sase/commit/ad66f332904e58bee10d3157362b66cc4651d752) | feat(tui): show incoming commits in update confirmations | 2026-07-07 16:42:29 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c2a7379`](https://github.com/sase-org/sase/commit/c2a7379250a109321f02d3be9fe7b2e4c9dce41e) | docs: update ACE prompt stack documentation | 2026-06-16 01:52:00 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c2a7379`](https://github.com/sase-org/sase/commit/c2a7379250a109321f02d3be9fe7b2e4c9dce41e) | docs: update ACE prompt stack documentation | 2026-06-16 01:52:00 |
 
 ## Neighbors
 

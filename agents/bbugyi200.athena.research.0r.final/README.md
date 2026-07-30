@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`343691c`](https://github.com/sase-org/sase/commit/343691cd877c6dbc8c4ea2613af53a5d3a287229) | docs: consolidate TUI prompt auto-loading research | 2026-06-27 13:15:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`343691c`](https://github.com/sase-org/sase/commit/343691cd877c6dbc8c4ea2613af53a5d3a287229) | docs: consolidate TUI prompt auto-loading research | 2026-06-27 13:15:37 |
 
 ## Neighbors
 

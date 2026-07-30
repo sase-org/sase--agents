@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f87a09c`](https://github.com/sase-org/sase/commit/f87a09c423fef75701b816dbfaa67370d7a8832b) | test: cover stale epic summary clone recovery (sase-85) | 2026-07-20 16:42:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f87a09c`](https://github.com/sase-org/sase/commit/f87a09c423fef75701b816dbfaa67370d7a8832b) | test: cover stale epic summary clone recovery (sase-85) | 2026-07-20 16:42:58 |
 
 ## Neighbors
 

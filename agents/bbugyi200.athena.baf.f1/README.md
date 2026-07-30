@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1cf2cf5`](https://github.com/sase-org/sase/commit/1cf2cf54c0990279bce1900fe67cd4b7fc5e6828) | chore: Add SDD prompt and plan for auto\_commit\_type\_tags | 2026-05-24 17:41:50 |
-| [`ed2fee6`](https://github.com/sase-org/sase/commit/ed2fee636d0abf24c22b64d342b23c891dac8a3b) | feat: tag generated auto commits with type | 2026-05-24 17:54:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1cf2cf5`](https://github.com/sase-org/sase/commit/1cf2cf54c0990279bce1900fe67cd4b7fc5e6828) | chore: Add SDD prompt and plan for auto\_commit\_type\_tags | 2026-05-24 17:41:50 |
+| sase | [`ed2fee6`](https://github.com/sase-org/sase/commit/ed2fee636d0abf24c22b64d342b23c891dac8a3b) | feat: tag generated auto commits with type | 2026-05-24 17:54:56 |

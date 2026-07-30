@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`691eb3f`](https://github.com/sase-org/sase/commit/691eb3fd974a5a2fde48a3118e3d3ec1bbe44db6) | chore: Add SDD prompt and plan for cross\_project\_timestamp\_dedup\_collision | 2026-06-08 11:43:27 |
-| [`a381195`](https://github.com/sase-org/sase/commit/a38119552879f766e89859fd402ce4b25bb92109) | fix: project-scope timestamp-based workflow dedup keys | 2026-06-08 11:49:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`691eb3f`](https://github.com/sase-org/sase/commit/691eb3fd974a5a2fde48a3118e3d3ec1bbe44db6) | chore: Add SDD prompt and plan for cross\_project\_timestamp\_dedup\_collision | 2026-06-08 11:43:27 |
+| sase | [`a381195`](https://github.com/sase-org/sase/commit/a38119552879f766e89859fd402ce4b25bb92109) | fix: project-scope timestamp-based workflow dedup keys | 2026-06-08 11:49:32 |
 
 ## Neighbors
 

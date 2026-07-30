@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`494d5c5`](https://github.com/sase-org/sase/commit/494d5c5632822b3efd5b3c913907915949d59a59) | feat(ace): add jump hints for collapsed agent panels | 2026-07-16 20:31:15 |
-| root | [`494d5c5`](https://github.com/sase-org/sase/commit/494d5c5632822b3efd5b3c913907915949d59a59) | feat(ace): add jump hints for collapsed agent panels | 2026-07-16 20:31:15 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`494d5c5`](https://github.com/sase-org/sase/commit/494d5c5632822b3efd5b3c913907915949d59a59) | feat(ace): add jump hints for collapsed agent panels | 2026-07-16 20:31:15 |
+| root | sase | [`494d5c5`](https://github.com/sase-org/sase/commit/494d5c5632822b3efd5b3c913907915949d59a59) | feat(ace): add jump hints for collapsed agent panels | 2026-07-16 20:31:15 |
 
 ## Neighbors
 

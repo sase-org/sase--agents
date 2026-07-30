@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`59cb6a5`](https://github.com/sase-org/sase/commit/59cb6a5e0d2b27bed270a29315ebdff4fb43fa08) | feat: allocate fan-out names through templates (sase-4g.4) | 2026-06-08 20:43:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`59cb6a5`](https://github.com/sase-org/sase/commit/59cb6a5e0d2b27bed270a29315ebdff4fb43fa08) | feat: allocate fan-out names through templates (sase-4g.4) | 2026-06-08 20:43:09 |
 
 ## Neighbors
 

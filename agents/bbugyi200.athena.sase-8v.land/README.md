@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9b46bc9`](https://github.com/sase-org/sase/commit/9b46bc94bd0ad625ad9b405319ba10720b2b8fe6) | test(tui): refresh lane cleanup snapshot (sase-8v) | 2026-07-24 23:14:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9b46bc9`](https://github.com/sase-org/sase/commit/9b46bc94bd0ad625ad9b405319ba10720b2b8fe6) | test(tui): refresh lane cleanup snapshot (sase-8v) | 2026-07-24 23:14:30 |
 
 ## Neighbors
 

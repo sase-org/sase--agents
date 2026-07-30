@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a706eb1`](https://github.com/sase-org/sase/commit/a706eb12fde23c7806740142fb9f30c34a6b1454) | chore: Add SDD prompt and plan for editor\_at\_review\_marker | 2026-06-26 01:30:42 |
-| [`4fc6077`](https://github.com/sase-org/sase/commit/4fc6077cfd6f35917c0b8782192f05aefb285df8) | feat(ace)!: replace %edit directive with editor \` @\` review marker | 2026-06-26 02:01:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a706eb1`](https://github.com/sase-org/sase/commit/a706eb12fde23c7806740142fb9f30c34a6b1454) | chore: Add SDD prompt and plan for editor\_at\_review\_marker | 2026-06-26 01:30:42 |
+| sase | [`4fc6077`](https://github.com/sase-org/sase/commit/4fc6077cfd6f35917c0b8782192f05aefb285df8) | feat(ace)!: replace %edit directive with editor \` @\` review marker | 2026-06-26 02:01:25 |

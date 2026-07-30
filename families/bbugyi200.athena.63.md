@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`dcafd64`](https://github.com/sase-org/sase/commit/dcafd64e74d695d194f6ab2b0893a098e38b3c40) | feat(tui): redesign xprompt save panel | 2026-07-11 21:14:40 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`dcafd64`](https://github.com/sase-org/sase/commit/dcafd64e74d695d194f6ab2b0893a098e38b3c40) | feat(tui): redesign xprompt save panel | 2026-07-11 21:14:40 |

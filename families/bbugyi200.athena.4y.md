@@ -25,7 +25,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`7c7a5c6`](https://github.com/sase-org/sase/commit/7c7a5c6a48298ffd2eab7787abce943ef38b4ed2) | feat: add Claude Fable 5 model metadata | 2026-06-10 12:44:19 |
-| root | [`a262729`](https://github.com/sase-org/sase/commit/a2627294293db6ac85b0273cec6b5730a7a38a10) | feat(workspaces)!: scope linked repos to host workspaces | 2026-07-10 21:36:56 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`7c7a5c6`](https://github.com/sase-org/sase/commit/7c7a5c6a48298ffd2eab7787abce943ef38b4ed2) | feat: add Claude Fable 5 model metadata | 2026-06-10 12:44:19 |
+| root | sase | [`a262729`](https://github.com/sase-org/sase/commit/a2627294293db6ac85b0273cec6b5730a7a38a10) | feat(workspaces)!: scope linked repos to host workspaces | 2026-07-10 21:36:56 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8c73c22`](https://github.com/sase-org/sase/commit/8c73c22c5cf1bada5df9f7c7c97ba1f61b7b8f41) | feat: resolve parallel agent families at launch (sase-6g.3) | 2026-07-16 23:45:31 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8c73c22`](https://github.com/sase-org/sase/commit/8c73c22c5cf1bada5df9f7c7c97ba1f61b7b8f41) | feat: resolve parallel agent families at launch (sase-6g.3) | 2026-07-16 23:45:31 |
 
 ## Neighbors
 

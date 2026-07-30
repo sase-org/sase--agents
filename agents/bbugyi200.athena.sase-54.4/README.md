@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8792e87`](https://github.com/sase-org/sase/commit/8792e87dc538b81ec9c23159965fec7e5f12e792) | feat(config): add read-only config browser to Config Center (sase-54.4) | 2026-06-23 14:39:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8792e87`](https://github.com/sase-org/sase/commit/8792e87dc538b81ec9c23159965fec7e5f12e792) | feat(config): add read-only config browser to Config Center (sase-54.4) | 2026-06-23 14:39:05 |
 
 ## Neighbors
 

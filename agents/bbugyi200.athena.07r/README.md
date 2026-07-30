@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1abbe07`](https://github.com/sase-org/sase/commit/1abbe07ef86e671696ad754b9e915d1af77734b8) | chore: Add SDD prompt and plan for clean\_killed\_agent\_linked\_repos | 2026-06-27 13:53:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1abbe07`](https://github.com/sase-org/sase/commit/1abbe07ef86e671696ad754b9e915d1af77734b8) | chore: Add SDD prompt and plan for clean\_killed\_agent\_linked\_repos | 2026-06-27 13:53:46 |

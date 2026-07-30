@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7cf2365`](https://github.com/sase-org/sase/commit/7cf23657fbff9585d6544b0f9081c3758cebb32e) | test(stats): split statistics view tests by domain | 2026-07-29 19:01:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7cf2365`](https://github.com/sase-org/sase/commit/7cf23657fbff9585d6544b0f9081c3758cebb32e) | test(stats): split statistics view tests by domain | 2026-07-29 19:01:46 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`83d3143`](https://github.com/sase-org/sase/commit/83d3143a41a7b2d80c0d1364e4b4c830345834fa) | test: split agent neighbor navigation tests | 2026-07-19 12:02:36 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`83d3143`](https://github.com/sase-org/sase/commit/83d3143a41a7b2d80c0d1364e4b4c830345834fa) | test: split agent neighbor navigation tests | 2026-07-19 12:02:36 |
 
 ## Neighbors
 

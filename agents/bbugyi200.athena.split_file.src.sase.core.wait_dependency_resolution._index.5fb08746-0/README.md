@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`da17707`](https://github.com/sase-org/sase/commit/da1770780936971499bd2421a2b2181a85086eaa) | refactor: split wait dependency index queries | 2026-07-19 09:29:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`da17707`](https://github.com/sase-org/sase/commit/da1770780936971499bd2421a2b2181a85086eaa) | refactor: split wait dependency index queries | 2026-07-19 09:29:42 |
 
 ## Neighbors
 

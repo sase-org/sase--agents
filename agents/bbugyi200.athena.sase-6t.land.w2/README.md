@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9de151e`](https://github.com/sase-org/sase/commit/9de151eb32c233e610776ae86eb40a579518d9bf) | feat(ace): support negative artifact filters | 2026-07-18 20:09:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9de151e`](https://github.com/sase-org/sase/commit/9de151eb32c233e610776ae86eb40a579518d9bf) | feat(ace): support negative artifact filters | 2026-07-18 20:09:21 |
 
 ## Neighbors
 

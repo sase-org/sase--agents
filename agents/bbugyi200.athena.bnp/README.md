@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9776e5f`](https://github.com/sase-org/sase/commit/9776e5f58c10dbd2cf98ba544f9335ac1721945c) | feat: add artifact modal copy shortcuts | 2026-05-28 18:26:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9776e5f`](https://github.com/sase-org/sase/commit/9776e5f58c10dbd2cf98ba544f9335ac1721945c) | feat: add artifact modal copy shortcuts | 2026-05-28 18:26:20 |

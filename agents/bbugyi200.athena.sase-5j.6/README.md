@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8cf369d`](https://github.com/sase-org/sase/commit/8cf369de2c9826176129371691796445f0d7ab0c) | feat(sdd): use resolved SDD store in consumers (sase-5j.6) | 2026-07-08 04:14:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8cf369d`](https://github.com/sase-org/sase/commit/8cf369de2c9826176129371691796445f0d7ab0c) | feat(sdd): use resolved SDD store in consumers (sase-5j.6) | 2026-07-08 04:14:45 |
 
 ## Neighbors
 

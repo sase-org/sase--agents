@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ad0f038`](https://github.com/sase-org/sase/commit/ad0f038a05e9b840247a5c97822c2ee3ebb05830) | feat(sdd): add checkout anchor resolver | 2026-07-30 12:08:28 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ad0f038`](https://github.com/sase-org/sase/commit/ad0f038a05e9b840247a5c97822c2ee3ebb05830) | feat(sdd): add checkout anchor resolver | 2026-07-30 12:08:28 |
 
 ## Neighbors
 

@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`6903e78`](https://github.com/sase-org/sase/commit/6903e78ec41cea2b98ce28c12d1db85fa5214647) | perf(test): reduce ACE pilot harness startup cost (sase-86.2) | 2026-07-20 15:53:07 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`6903e78`](https://github.com/sase-org/sase/commit/6903e78ec41cea2b98ce28c12d1db85fa5214647) | perf(test): reduce ACE pilot harness startup cost (sase-86.2) | 2026-07-20 15:53:07 |
 
 ## Neighbors
 

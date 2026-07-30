@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9385e8a`](https://github.com/sase-org/sase/commit/9385e8a6209256a46176353cda1e5fd2a36f8539) | perf(tui): bound file hint rendering work (sase-a5.2) | 2026-07-27 19:54:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9385e8a`](https://github.com/sase-org/sase/commit/9385e8a6209256a46176353cda1e5fd2a36f8539) | perf(tui): bound file hint rendering work (sase-a5.2) | 2026-07-27 19:54:25 |
 
 ## Neighbors
 

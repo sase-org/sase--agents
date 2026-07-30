@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`56fbe6d`](https://github.com/sase-org/sase/commit/56fbe6d40a183e76b163c8f7cc7284195e3af6f8) | chore: close sase-4p prompt stack epic | 2026-06-16 00:45:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`56fbe6d`](https://github.com/sase-org/sase/commit/56fbe6d40a183e76b163c8f7cc7284195e3af6f8) | chore: close sase-4p prompt stack epic | 2026-06-16 00:45:27 |
 
 ## Neighbors
 

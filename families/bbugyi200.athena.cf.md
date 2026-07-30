@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`16c6bcd`](https://github.com/sase-org/sase/commit/16c6bcd996919bd5a401a4ced3adde92e3c2be88) | fix(ace): require explicit agent panel groups | 2026-07-17 18:50:56 |
-| root | [`16c6bcd`](https://github.com/sase-org/sase/commit/16c6bcd996919bd5a401a4ced3adde92e3c2be88) | fix(ace): require explicit agent panel groups | 2026-07-17 18:50:56 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`16c6bcd`](https://github.com/sase-org/sase/commit/16c6bcd996919bd5a401a4ced3adde92e3c2be88) | fix(ace): require explicit agent panel groups | 2026-07-17 18:50:56 |
+| root | sase | [`16c6bcd`](https://github.com/sase-org/sase/commit/16c6bcd996919bd5a401a4ced3adde92e3c2be88) | fix(ace): require explicit agent panel groups | 2026-07-17 18:50:56 |

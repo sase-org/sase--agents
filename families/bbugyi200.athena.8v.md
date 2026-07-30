@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`1114961`](https://github.com/sase-org/sase/commit/1114961b46c4374c6d9c291cce0a1b8aab79b638) | build: prefer workspace-local sase-core checkout | 2026-07-15 12:40:03 |
-| root | [`1114961`](https://github.com/sase-org/sase/commit/1114961b46c4374c6d9c291cce0a1b8aab79b638) | build: prefer workspace-local sase-core checkout | 2026-07-15 12:40:03 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`1114961`](https://github.com/sase-org/sase/commit/1114961b46c4374c6d9c291cce0a1b8aab79b638) | build: prefer workspace-local sase-core checkout | 2026-07-15 12:40:03 |
+| root | sase | [`1114961`](https://github.com/sase-org/sase/commit/1114961b46c4374c6d9c291cce0a1b8aab79b638) | build: prefer workspace-local sase-core checkout | 2026-07-15 12:40:03 |

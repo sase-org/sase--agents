@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`390a7f1`](https://github.com/sase-org/sase/commit/390a7f1ea528e2650375d8a9805396e1b2623658) | feat(editor): add kind-aware agent catalog entries (sase-7h.1) | 2026-07-19 17:20:12 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`390a7f1`](https://github.com/sase-org/sase/commit/390a7f1ea528e2650375d8a9805396e1b2623658) | feat(editor): add kind-aware agent catalog entries (sase-7h.1) | 2026-07-19 17:20:12 |
 
 ## Neighbors
 

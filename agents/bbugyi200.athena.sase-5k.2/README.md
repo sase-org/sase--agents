@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f877bd8`](https://github.com/sase-org/sase/commit/f877bd8457136e53c0dac424f193c075f4017dbf) | docs: integrate SASE blog demo media (sase-5k.2) | 2026-07-08 04:41:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f877bd8`](https://github.com/sase-org/sase/commit/f877bd8457136e53c0dac424f193c075f4017dbf) | docs: integrate SASE blog demo media (sase-5k.2) | 2026-07-08 04:41:05 |
 
 ## Neighbors
 

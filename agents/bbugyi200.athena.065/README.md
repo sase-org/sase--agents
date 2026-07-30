@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`39d4c51`](https://github.com/sase-org/sase/commit/39d4c51a036bd09575b20c90950e8d12a72c1932) | chore: Add SDD prompt and plan for bare\_percent\_directive\_completion | 2026-06-25 18:24:26 |
-| [`8f53363`](https://github.com/sase-org/sase/commit/8f5336300aa23ef9f24136749d3a5ebbb1177a1a) | feat(ace): open directive menu on bare percent | 2026-06-25 18:31:15 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`39d4c51`](https://github.com/sase-org/sase/commit/39d4c51a036bd09575b20c90950e8d12a72c1932) | chore: Add SDD prompt and plan for bare\_percent\_directive\_completion | 2026-06-25 18:24:26 |
+| sase | [`8f53363`](https://github.com/sase-org/sase/commit/8f5336300aa23ef9f24136749d3a5ebbb1177a1a) | feat(ace): open directive menu on bare percent | 2026-06-25 18:31:15 |

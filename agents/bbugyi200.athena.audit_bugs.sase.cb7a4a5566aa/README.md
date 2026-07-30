@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c6cb0f4`](https://github.com/sase-org/sase/commit/c6cb0f46ea573eab50ce610856972b9527fd368d) | fix: reserve planned multi-prompt agent names | 2026-06-08 16:29:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c6cb0f4`](https://github.com/sase-org/sase/commit/c6cb0f46ea573eab50ce610856972b9527fd368d) | fix: reserve planned multi-prompt agent names | 2026-06-08 16:29:45 |
 
 ## Neighbors
 

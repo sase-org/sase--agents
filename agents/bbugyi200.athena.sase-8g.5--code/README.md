@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e7c7680`](https://github.com/sase-org/sase/commit/e7c76807064bd53ea6fa97661c37d388d82fa1f8) | fix(sdd): self-heal wedged sidecar clones (sase-8g.5) | 2026-07-20 21:09:35 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e7c7680`](https://github.com/sase-org/sase/commit/e7c76807064bd53ea6fa97661c37d388d82fa1f8) | fix(sdd): self-heal wedged sidecar clones (sase-8g.5) | 2026-07-20 21:09:35 |
 
 ## Neighbors
 

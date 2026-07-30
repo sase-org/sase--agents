@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cf1d3aa`](https://github.com/sase-org/sase/commit/cf1d3aa4fc181597d71ddbcb19e9908e1e2928b9) | feat: render claimed bead status in TUI (sase-8y.6) | 2026-07-24 21:17:52 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cf1d3aa`](https://github.com/sase-org/sase/commit/cf1d3aa4fc181597d71ddbcb19e9908e1e2928b9) | feat: render claimed bead status in TUI (sase-8y.6) | 2026-07-24 21:17:52 |
 
 ## Neighbors
 

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`697002d`](https://github.com/sase-org/sase/commit/697002d642b2b0d7f109e4233b0dfe19f38bb474) | chore: Add SDD prompt and plan for agy\_tools\_panel | 2026-06-20 14:03:57 |
-| [`6c661bb`](https://github.com/sase-org/sase/commit/6c661bbdbae36b100fed2fa4cfe6bb57a4093f4e) | feat(agy): extract trajectory tool calls | 2026-06-20 14:24:08 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`697002d`](https://github.com/sase-org/sase/commit/697002d642b2b0d7f109e4233b0dfe19f38bb474) | chore: Add SDD prompt and plan for agy\_tools\_panel | 2026-06-20 14:03:57 |
+| sase | [`6c661bb`](https://github.com/sase-org/sase/commit/6c661bbdbae36b100fed2fa4cfe6bb57a4093f4e) | feat(agy): extract trajectory tool calls | 2026-06-20 14:24:08 |
 
 ## Neighbors
 

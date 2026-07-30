@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`58dcc9e`](https://github.com/sase-org/sase/commit/58dcc9eb600481ac9c8532d3e69f81f643397e10) | chore: add PyPI release research infographic | 2026-06-09 20:35:18 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`58dcc9e`](https://github.com/sase-org/sase/commit/58dcc9eb600481ac9c8532d3e69f81f643397e10) | chore: add PyPI release research infographic | 2026-06-09 20:35:18 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a342e9f`](https://github.com/sase-org/sase/commit/a342e9f6245b24716320f483a5b7ac8cecf7cbfb) | feat(axe): enforce declarative chop policies | 2026-07-18 22:48:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a342e9f`](https://github.com/sase-org/sase/commit/a342e9f6245b24716320f483a5b7ac8cecf7cbfb) | feat(axe): enforce declarative chop policies | 2026-07-18 22:48:44 |
 
 ## Neighbors
 

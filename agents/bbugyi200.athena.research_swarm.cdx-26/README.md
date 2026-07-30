@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6a7fe8f`](https://github.com/sase-org/sase/commit/6a7fe8f6948cd561f7060db41bf3dd7b61dfe5e1) | chore: add project lifecycle configuration research | 2026-06-01 16:06:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6a7fe8f`](https://github.com/sase-org/sase/commit/6a7fe8f6948cd561f7060db41bf3dd7b61dfe5e1) | chore: add project lifecycle configuration research | 2026-06-01 16:06:25 |
 
 ## Neighbors
 

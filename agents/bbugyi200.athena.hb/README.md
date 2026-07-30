@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4d98fe0`](https://github.com/sase-org/sase/commit/4d98fe0d262fe159a759cf0b412f75c2bba956ae) | feat(ace): uncap default commit queries | 2026-07-21 17:30:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4d98fe0`](https://github.com/sase-org/sase/commit/4d98fe0d262fe159a759cf0b412f75c2bba956ae) | feat(ace): uncap default commit queries | 2026-07-21 17:30:25 |

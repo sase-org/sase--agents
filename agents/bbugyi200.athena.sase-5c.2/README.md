@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4a06b31`](https://github.com/sase-org/sase/commit/4a06b3128522f340f2c5c09ad7a69ef3a73d7b39) | feat(plugins): show dev latest versions (sase-5c.2) | 2026-06-27 20:11:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4a06b31`](https://github.com/sase-org/sase/commit/4a06b3128522f340f2c5c09ad7a69ef3a73d7b39) | feat(plugins): show dev latest versions (sase-5c.2) | 2026-06-27 20:11:57 |
 
 ## Neighbors
 

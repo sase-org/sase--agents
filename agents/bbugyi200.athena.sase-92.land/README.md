@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0e7e361`](https://github.com/sase-org/sase/commit/0e7e36185d851b2c42a12deb9b6553a27ad5b240) | refactor(agents-sync): finish v1 exporter removal and refresh docs (sase-92) | 2026-07-25 15:11:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0e7e361`](https://github.com/sase-org/sase/commit/0e7e36185d851b2c42a12deb9b6553a27ad5b240) | refactor(agents-sync): finish v1 exporter removal and refresh docs (sase-92) | 2026-07-25 15:11:24 |
 
 ## Neighbors
 

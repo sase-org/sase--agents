@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`008972d`](https://github.com/sase-org/sase/commit/008972df48a2c59ed6c4c3d2da640303d72391c9) | feat(ace): revert agent changes across linked repos | 2026-06-25 11:54:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`008972d`](https://github.com/sase-org/sase/commit/008972df48a2c59ed6c4c3d2da640303d72391c9) | feat(ace): revert agent changes across linked repos | 2026-06-25 11:54:22 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fec5fa6`](https://github.com/sase-org/sase/commit/fec5fa69e2d054ab787e21e4dc52940de319ae04) | feat: add agent CLI update service layer (sase-7s.1) | 2026-07-20 00:54:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fec5fa6`](https://github.com/sase-org/sase/commit/fec5fa69e2d054ab787e21e4dc52940de319ae04) | feat: add agent CLI update service layer (sase-7s.1) | 2026-07-20 00:54:27 |
 
 ## Neighbors
 

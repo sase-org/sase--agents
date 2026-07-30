@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`13598dc`](https://github.com/sase-org/sase/commit/13598dc3d14bd28b004406794b8a99df3f8b21fe) | feat(tasks): add detached task supervision (sase-95.4) | 2026-07-25 15:02:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`13598dc`](https://github.com/sase-org/sase/commit/13598dc3d14bd28b004406794b8a99df3f8b21fe) | feat(tasks): add detached task supervision (sase-95.4) | 2026-07-25 15:02:57 |
 
 ## Neighbors
 

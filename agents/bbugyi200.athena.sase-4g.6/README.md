@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0dd2cda`](https://github.com/sase-org/sase/commit/0dd2cda86ada7142b3fa65d983dd728dd0c97fe6) | feat: update built-in templates terminology (sase-4g.6) | 2026-06-08 21:17:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0dd2cda`](https://github.com/sase-org/sase/commit/0dd2cda86ada7142b3fa65d983dd728dd0c97fe6) | feat: update built-in templates terminology (sase-4g.6) | 2026-06-08 21:17:25 |
 
 ## Neighbors
 

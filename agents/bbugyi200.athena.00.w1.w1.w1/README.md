@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ff8499d`](https://github.com/sase-org/sase/commit/ff8499dbdd1d31982b36f4e453a7cbf3edcde93a) | chore: Add SDD prompt and plan for config\_tab\_edit\_ux | 2026-07-04 16:47:56 |
-| [`2e38f97`](https://github.com/sase-org/sase/commit/2e38f97a8ca6dcb38148d0484c5ea53c27a729b5) | feat(tui): improve config edit navigation | 2026-07-04 17:22:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ff8499d`](https://github.com/sase-org/sase/commit/ff8499dbdd1d31982b36f4e453a7cbf3edcde93a) | chore: Add SDD prompt and plan for config\_tab\_edit\_ux | 2026-07-04 16:47:56 |
+| sase | [`2e38f97`](https://github.com/sase-org/sase/commit/2e38f97a8ca6dcb38148d0484c5ea53c27a729b5) | feat(tui): improve config edit navigation | 2026-07-04 17:22:51 |
 
 ## Neighbors
 

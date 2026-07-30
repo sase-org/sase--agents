@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`eb93169`](https://github.com/sase-org/sase/commit/eb93169eb8874e70e01d17daf2709521627072fc) | feat!: route phase workers through size aliases | 2026-07-21 12:59:08 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`eb93169`](https://github.com/sase-org/sase/commit/eb93169eb8874e70e01d17daf2709521627072fc) | feat!: route phase workers through size aliases | 2026-07-21 12:59:08 |
 
 ## Neighbors
 

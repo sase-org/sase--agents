@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`117a19c`](https://github.com/sase-org/sase/commit/117a19cd0562aa558d58ed2613547cd9f5c18cd4) | refactor(sdd): split repository recovery helpers | 2026-07-20 23:09:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`117a19c`](https://github.com/sase-org/sase/commit/117a19cd0562aa558d58ed2613547cd9f5c18cd4) | refactor(sdd): split repository recovery helpers | 2026-07-20 23:09:44 |
 
 ## Neighbors
 

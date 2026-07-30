@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`aa08bdf`](https://github.com/sase-org/sase/commit/aa08bdf80daee0b5bb50120d10ee416178f84daf) | feat!: move Bob query skill to user configuration | 2026-07-10 17:28:08 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`aa08bdf`](https://github.com/sase-org/sase/commit/aa08bdf80daee0b5bb50120d10ee416178f84daf) | feat!: move Bob query skill to user configuration | 2026-07-10 17:28:08 |
 
 ## Neighbors
 

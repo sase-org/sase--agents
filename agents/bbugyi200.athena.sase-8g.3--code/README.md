@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9aed7d7`](https://github.com/sase-org/sase/commit/9aed7d72366ab5bbf243320fb3c621be21d6eea3) | fix(runner-slots): preserve waiter state across admission (sase-8g.3) | 2026-07-20 21:01:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9aed7d7`](https://github.com/sase-org/sase/commit/9aed7d72366ab5bbf243320fb3c621be21d6eea3) | fix(runner-slots): preserve waiter state across admission (sase-8g.3) | 2026-07-20 21:01:23 |
 
 ## Neighbors
 

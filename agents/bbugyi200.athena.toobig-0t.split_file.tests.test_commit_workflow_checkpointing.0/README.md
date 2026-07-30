@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0c1e02c`](https://github.com/sase-org/sase/commit/0c1e02c3bc14b4c7522bece1e62b0845ff0ee05c) | test: split commit workflow checkpoint tests | 2026-07-28 23:28:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0c1e02c`](https://github.com/sase-org/sase/commit/0c1e02c3bc14b4c7522bece1e62b0845ff0ee05c) | test: split commit workflow checkpoint tests | 2026-07-28 23:28:39 |
 
 ## Neighbors
 

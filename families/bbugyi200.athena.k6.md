@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`7dd9a0f`](https://github.com/sase-org/sase/commit/7dd9a0fdb0ce23440501965d111a18104e4e8990) | feat(claude): register Claude 5 model metadata | 2026-07-25 10:58:44 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`7dd9a0f`](https://github.com/sase-org/sase/commit/7dd9a0fdb0ce23440501965d111a18104e4e8990) | feat(claude): register Claude 5 model metadata | 2026-07-25 10:58:44 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`60c9b3e`](https://github.com/sase-org/sase/commit/60c9b3e7b1334655b79438838bd6b2bf2a4247f7) | perf(ace): instrument and baseline the view-hints keypath (sase-a5.1) | 2026-07-27 19:31:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`60c9b3e`](https://github.com/sase-org/sase/commit/60c9b3e7b1334655b79438838bd6b2bf2a4247f7) | perf(ace): instrument and baseline the view-hints keypath (sase-a5.1) | 2026-07-27 19:31:24 |
 
 ## Neighbors
 

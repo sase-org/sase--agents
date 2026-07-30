@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`28267a7`](https://github.com/sase-org/sase/commit/28267a799deb01978bd723c31b74c01b9771501d) | chore: Mark SDD plan done | 2026-06-28 17:03:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`28267a7`](https://github.com/sase-org/sase/commit/28267a799deb01978bd723c31b74c01b9771501d) | chore: Mark SDD plan done | 2026-06-28 17:03:57 |
 
 ## Neighbors
 

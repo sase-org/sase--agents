@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5b07536`](https://github.com/sase-org/sase/commit/5b07536e6ef0d34d064e8dc16ee8828904a46529) | feat(tui): add Plugins tab with read-only list browse (sase-59.2) | 2026-06-26 14:27:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5b07536`](https://github.com/sase-org/sase/commit/5b07536e6ef0d34d064e8dc16ee8828904a46529) | feat(tui): add Plugins tab with read-only list browse (sase-59.2) | 2026-06-26 14:27:13 |
 
 ## Neighbors
 

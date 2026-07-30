@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f47815d`](https://github.com/sase-org/sase/commit/f47815df3109bb7708303c230d63e09c33fb4239) | feat(projects): adopt enabled and disabled lifecycle states (sase-5w.1) | 2026-07-13 14:58:47 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f47815d`](https://github.com/sase-org/sase/commit/f47815df3109bb7708303c230d63e09c33fb4239) | feat(projects): adopt enabled and disabled lifecycle states (sase-5w.1) | 2026-07-13 14:58:47 |
 
 ## Neighbors
 

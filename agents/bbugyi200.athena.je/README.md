@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ec03529`](https://github.com/sase-org/sase/commit/ec0352909ef3d51fdf6e5f70e537aeffd29d1481) | feat(ace): add numbered gate branch shortcuts | 2026-07-23 17:22:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ec03529`](https://github.com/sase-org/sase/commit/ec0352909ef3d51fdf6e5f70e537aeffd29d1481) | feat(ace): add numbered gate branch shortcuts | 2026-07-23 17:22:22 |

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6dbfc66`](https://github.com/sase-org/sase/commit/6dbfc6693f42f4012d627d8ac320300e033dd8da) | chore: Add SDD prompt and plan for projects\_admin\_center\_tab | 2026-06-26 16:52:03 |
-| [`502647e`](https://github.com/sase-org/sase/commit/502647e5c0921d627a10a9c89cada0933714d3e7) | chore: add project admin center plan beads | 2026-06-26 16:58:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6dbfc66`](https://github.com/sase-org/sase/commit/6dbfc6693f42f4012d627d8ac320300e033dd8da) | chore: Add SDD prompt and plan for projects\_admin\_center\_tab | 2026-06-26 16:52:03 |
+| sase | [`502647e`](https://github.com/sase-org/sase/commit/502647e5c0921d627a10a9c89cada0933714d3e7) | chore: add project admin center plan beads | 2026-06-26 16:58:27 |
 
 ## Neighbors
 

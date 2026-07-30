@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f3965dd`](https://github.com/sase-org/sase/commit/f3965dd19e48a7be84658da43e92ef891d9d2583) | refactor(ace): rename agent holes to lanes | 2026-07-23 17:50:00 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f3965dd`](https://github.com/sase-org/sase/commit/f3965dd19e48a7be84658da43e92ef891d9d2583) | refactor(ace): rename agent holes to lanes | 2026-07-23 17:50:00 |

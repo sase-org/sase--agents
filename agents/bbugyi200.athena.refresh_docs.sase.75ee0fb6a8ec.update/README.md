@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ccdd104`](https://github.com/sase-org/sase/commit/ccdd104828c38809d039228bc7ff7d27216c47af) | docs: refresh SDD storage and model routing guidance | 2026-07-12 01:48:28 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ccdd104`](https://github.com/sase-org/sase/commit/ccdd104828c38809d039228bc7ff7d27216c47af) | docs: refresh SDD storage and model routing guidance | 2026-07-12 01:48:28 |
 
 ## Neighbors
 

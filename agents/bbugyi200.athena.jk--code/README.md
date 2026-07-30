@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`abf8dd3`](https://github.com/sase-org/sase/commit/abf8dd3c48d446a3148d860af34cd7dbb6fe4e95) | feat(models): clarify alias ownership in Models panel | 2026-07-24 18:59:59 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`abf8dd3`](https://github.com/sase-org/sase/commit/abf8dd3c48d446a3148d860af34cd7dbb6fe4e95) | feat(models): clarify alias ownership in Models panel | 2026-07-24 18:59:59 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a0a81e4`](https://github.com/sase-org/sase/commit/a0a81e445a5888e046b68b19603eed054fb01eab) | feat(tui): aggregate parallel agent family status (sase-6g.5) | 2026-07-17 00:11:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a0a81e4`](https://github.com/sase-org/sase/commit/a0a81e445a5888e046b68b19603eed054fb01eab) | feat(tui): aggregate parallel agent family status (sase-6g.5) | 2026-07-17 00:11:51 |
 
 ## Neighbors
 

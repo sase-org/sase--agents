@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9864538`](https://github.com/sase-org/sase/commit/9864538e24251d60be35227e2b62ce0ff7947558) | chore: Add SDD prompt and plan for github\_actions\_home\_init | 2026-05-29 00:46:58 |
-| [`94bcfd2`](https://github.com/sase-org/sase/commit/94bcfd246d26de057ca3906a2b0e6b99b66900b0) | chore: initialize SASE home in CI lint job | 2026-05-29 00:50:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9864538`](https://github.com/sase-org/sase/commit/9864538e24251d60be35227e2b62ce0ff7947558) | chore: Add SDD prompt and plan for github\_actions\_home\_init | 2026-05-29 00:46:58 |
+| sase | [`94bcfd2`](https://github.com/sase-org/sase/commit/94bcfd246d26de057ca3906a2b0e6b99b66900b0) | chore: initialize SASE home in CI lint job | 2026-05-29 00:50:54 |

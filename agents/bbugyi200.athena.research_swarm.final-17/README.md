@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c440c5e`](https://github.com/sase-org/sase/commit/c440c5ecc9dc8f02a3bce21c1f942af2258aba73) | chore: consolidate SASE episode lesson research | 2026-05-30 15:13:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c440c5e`](https://github.com/sase-org/sase/commit/c440c5ecc9dc8f02a3bce21c1f942af2258aba73) | chore: consolidate SASE episode lesson research | 2026-05-30 15:13:07 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8c78eb6`](https://github.com/sase-org/sase/commit/8c78eb6ca04ed4d4a447ffd1c6b1c08820db4816) | test: split agent panel visual snapshots | 2026-07-25 01:07:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8c78eb6`](https://github.com/sase-org/sase/commit/8c78eb6ca04ed4d4a447ffd1c6b1c08820db4816) | test: split agent panel visual snapshots | 2026-07-25 01:07:07 |
 
 ## Neighbors
 

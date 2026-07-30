@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3bd49dd`](https://github.com/sase-org/sase/commit/3bd49dd236aabfd7c8dfa49b75f4c96b008888af) | chore: document sdd commit noise prior art | 2026-05-27 12:29:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3bd49dd`](https://github.com/sase-org/sase/commit/3bd49dd236aabfd7c8dfa49b75f4c96b008888af) | chore: document sdd commit noise prior art | 2026-05-27 12:29:45 |
 
 ## Neighbors
 

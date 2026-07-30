@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`47d0066`](https://github.com/sase-org/sase/commit/47d0066bd77795d50e225290fb5a915895d23752) | feat(sdd)!: require confirmation for GitHub companion creation | 2026-07-11 12:55:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`47d0066`](https://github.com/sase-org/sase/commit/47d0066bd77795d50e225290fb5a915895d23752) | feat(sdd)!: require confirmation for GitHub companion creation | 2026-07-11 12:55:38 |
 
 ## Neighbors
 

@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cd6fc9f`](https://github.com/sase-org/sase/commit/cd6fc9fdcd6413da7c5db784b1ed8193becc740f) | test: split chat catalog provenance coverage | 2026-07-25 10:44:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cd6fc9f`](https://github.com/sase-org/sase/commit/cd6fc9fdcd6413da7c5db784b1ed8193becc740f) | test: split chat catalog provenance coverage | 2026-07-25 10:44:02 |

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e0da192`](https://github.com/sase-org/sase/commit/e0da192bd55f2ce7476dc772764c15461be5dd35) | chore: Add SDD prompt and plan for amd\_absolute\_home\_shims | 2026-06-06 15:29:54 |
-| [`cdef433`](https://github.com/sase-org/sase/commit/cdef4332ea72374cf482e28574baf402aaac3a49) | fix: render home provider shims with absolute imports | 2026-06-06 15:50:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e0da192`](https://github.com/sase-org/sase/commit/e0da192bd55f2ce7476dc772764c15461be5dd35) | chore: Add SDD prompt and plan for amd\_absolute\_home\_shims | 2026-06-06 15:29:54 |
+| sase | [`cdef433`](https://github.com/sase-org/sase/commit/cdef4332ea72374cf482e28574baf402aaac3a49) | fix: render home provider shims with absolute imports | 2026-06-06 15:50:41 |
 
 ## Neighbors
 

@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`678414a`](https://github.com/sase-org/sase/commit/678414a6ce10e728fe4d9a32cae741752a87094f) | feat(ace): jump from collapsed panels to expanded panel | 2026-07-22 13:19:36 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`678414a`](https://github.com/sase-org/sase/commit/678414a6ce10e728fe4d9a32cae741752a87094f) | feat(ace): jump from collapsed panels to expanded panel | 2026-07-22 13:19:36 |

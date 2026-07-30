@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`f26c178`](https://github.com/sase-org/sase/commit/f26c178353d33a07cb97351cad7c5e4c956ab8f0) | chore: Add SDD prompt and plan for prompt\_stack\_ctrl\_shift\_navigation | 2026-06-17 13:42:46 |
-| root | [`770f4e9`](https://github.com/sase-org/sase/commit/770f4e9e08ed722a09b4f742ea2abda833f1925b) | feat(tui): migrate prompt stack pane navigation to Ctrl+Shift+J/K | 2026-06-17 13:52:35 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`f26c178`](https://github.com/sase-org/sase/commit/f26c178353d33a07cb97351cad7c5e4c956ab8f0) | chore: Add SDD prompt and plan for prompt\_stack\_ctrl\_shift\_navigation | 2026-06-17 13:42:46 |
+| root | sase | [`770f4e9`](https://github.com/sase-org/sase/commit/770f4e9e08ed722a09b4f742ea2abda833f1925b) | feat(tui): migrate prompt stack pane navigation to Ctrl+Shift+J/K | 2026-06-17 13:52:35 |
 
 ## Neighbors
 

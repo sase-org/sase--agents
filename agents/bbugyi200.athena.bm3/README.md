@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`db11be6`](https://github.com/sase-org/sase/commit/db11be626205e55d4a9592698419780184b040df) | chore: Add SDD prompt and plan for xprompt\_frontmatter\_xprompts | 2026-05-28 12:55:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`db11be6`](https://github.com/sase-org/sase/commit/db11be626205e55d4a9592698419780184b040df) | chore: Add SDD prompt and plan for xprompt\_frontmatter\_xprompts | 2026-05-28 12:55:02 |

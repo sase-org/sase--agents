@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4071b7e`](https://github.com/sase-org/sase/commit/4071b7eb5382592d34314c6d65b977f4bff524f2) | chore: expand configurable agent families research | 2026-06-02 20:01:52 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4071b7e`](https://github.com/sase-org/sase/commit/4071b7eb5382592d34314c6d65b977f4bff524f2) | chore: expand configurable agent families research | 2026-06-02 20:01:52 |
 
 ## Neighbors
 

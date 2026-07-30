@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c8fedfa`](https://github.com/sase-org/sase/commit/c8fedfa1526c6cb335ffe58cf30efbf09690e86b) | feat(demos): add ACE prompt history stash demo | 2026-07-07 03:34:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c8fedfa`](https://github.com/sase-org/sase/commit/c8fedfa1526c6cb335ffe58cf30efbf09690e86b) | feat(demos): add ACE prompt history stash demo | 2026-07-07 03:34:42 |

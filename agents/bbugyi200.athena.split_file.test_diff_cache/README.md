@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`96a7643`](https://github.com/sase-org/sase/commit/96a76432bfffb76fae73777984ae165d077095bb) | test: split file panel diff cache tests | 2026-07-12 15:10:14 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`96a7643`](https://github.com/sase-org/sase/commit/96a76432bfffb76fae73777984ae165d077095bb) | test: split file panel diff cache tests | 2026-07-12 15:10:14 |
 
 ## Neighbors
 

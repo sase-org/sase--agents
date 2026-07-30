@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`dec6cdc`](https://github.com/sase-org/sase/commit/dec6cdccf7a54d8ac6435ec194a9ad464224008b) | chore: Add SDD prompt and plan for q\_restart\_self\_sigterm\_fix | 2026-06-27 20:01:43 |
-| [`94f9cb8`](https://github.com/sase-org/sase/commit/94f9cb8dead1035f828c940f17ed963cc83d8096) | fix(axe): avoid self-signaling during daemon stop | 2026-06-27 20:10:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`dec6cdc`](https://github.com/sase-org/sase/commit/dec6cdccf7a54d8ac6435ec194a9ad464224008b) | chore: Add SDD prompt and plan for q\_restart\_self\_sigterm\_fix | 2026-06-27 20:01:43 |
+| sase | [`94f9cb8`](https://github.com/sase-org/sase/commit/94f9cb8dead1035f828c940f17ed963cc83d8096) | fix(axe): avoid self-signaling during daemon stop | 2026-06-27 20:10:24 |
 
 ## Neighbors
 

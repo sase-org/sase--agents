@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5fcec21`](https://github.com/sase-org/sase/commit/5fcec21ff9f1b2dbbdb605dac55baa98605cf30c) | chore: Add SDD prompt and plan for prompt\_history\_ctrl\_k\_rebind | 2026-06-13 15:44:48 |
-| [`d7e45bc`](https://github.com/sase-org/sase/commit/d7e45bc0744e1f4f0df155e7bdfabe29a547b6d1) | fix(ace): rebind prompt history to ctrl+k | 2026-06-13 15:50:53 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5fcec21`](https://github.com/sase-org/sase/commit/5fcec21ff9f1b2dbbdb605dac55baa98605cf30c) | chore: Add SDD prompt and plan for prompt\_history\_ctrl\_k\_rebind | 2026-06-13 15:44:48 |
+| sase | [`d7e45bc`](https://github.com/sase-org/sase/commit/d7e45bc0744e1f4f0df155e7bdfabe29a547b6d1) | fix(ace): rebind prompt history to ctrl+k | 2026-06-13 15:50:53 |

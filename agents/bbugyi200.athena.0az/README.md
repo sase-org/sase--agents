@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`dbaf6ad`](https://github.com/sase-org/sase/commit/dbaf6adcf11571e7eb07d30f0bac71c7a2226ed1) | fix(ace): improve post-update toast layout | 2026-07-01 11:25:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`dbaf6ad`](https://github.com/sase-org/sase/commit/dbaf6adcf11571e7eb07d30f0bac71c7a2226ed1) | fix(ace): improve post-update toast layout | 2026-07-01 11:25:23 |

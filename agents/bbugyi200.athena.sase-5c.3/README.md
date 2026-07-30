@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d80fc0c`](https://github.com/sase-org/sase/commit/d80fc0c3fcc75a8489e9d38373c82f6d8acc814e) | feat: support dev execution in sase update (sase-5c.3) | 2026-06-27 20:23:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d80fc0c`](https://github.com/sase-org/sase/commit/d80fc0c3fcc75a8489e9d38373c82f6d8acc814e) | feat: support dev execution in sase update (sase-5c.3) | 2026-06-27 20:23:25 |
 
 ## Neighbors
 

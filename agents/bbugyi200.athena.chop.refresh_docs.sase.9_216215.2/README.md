@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0f096fa`](https://github.com/sase-org/sase/commit/0f096fa8353ab7684debcf8633cc280c422a0b6b) | docs: clarify agent workflows and editor helpers | 2026-07-19 18:50:17 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0f096fa`](https://github.com/sase-org/sase/commit/0f096fa8353ab7684debcf8633cc280c422a0b6b) | docs: clarify agent workflows and editor helpers | 2026-07-19 18:50:17 |
 
 ## Neighbors
 

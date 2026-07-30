@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cf0cc0c`](https://github.com/sase-org/sase/commit/cf0cc0ca368f7b3979c416418cf7afa29e5ab851) | docs: clarify resolved SDD storage guidance | 2026-07-08 04:55:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cf0cc0c`](https://github.com/sase-org/sase/commit/cf0cc0ca368f7b3979c416418cf7afa29e5ab851) | docs: clarify resolved SDD storage guidance | 2026-07-08 04:55:42 |
 
 ## Neighbors
 

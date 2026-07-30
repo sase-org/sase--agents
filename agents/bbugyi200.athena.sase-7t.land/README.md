@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b8b0a92`](https://github.com/sase-org/sase/commit/b8b0a924807f2881b950fda561a99434d39d80e2) | docs(axe): document chop launch linkage and finalization semantics (sase-7t) | 2026-07-20 01:10:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b8b0a92`](https://github.com/sase-org/sase/commit/b8b0a924807f2881b950fda561a99434d39d80e2) | docs(axe): document chop launch linkage and finalization semantics (sase-7t) | 2026-07-20 01:10:20 |
 
 ## Neighbors
 

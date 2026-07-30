@@ -20,9 +20,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0dc540d`](https://github.com/sase-org/sase/commit/0dc540d15e577e58524eebfa4f05739eebae8ea5) | chore: consolidate TUI screenshot/demo-video research into one doc | 2026-06-11 22:26:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0dc540d`](https://github.com/sase-org/sase/commit/0dc540d15e577e58524eebfa4f05739eebae8ea5) | chore: consolidate TUI screenshot/demo-video research into one doc | 2026-06-11 22:26:58 |
 
 ## Variables
 

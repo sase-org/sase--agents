@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b935b74`](https://github.com/sase-org/sase/commit/b935b7495d3b297b376370a5ef7bf9f9db9cdc92) | feat(agent): claim beads at launch execution (sase-8f.2) | 2026-07-20 21:04:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b935b74`](https://github.com/sase-org/sase/commit/b935b7495d3b297b376370a5ef7bf9f9db9cdc92) | feat(agent): claim beads at launch execution (sase-8f.2) | 2026-07-20 21:04:38 |
 
 ## Neighbors
 

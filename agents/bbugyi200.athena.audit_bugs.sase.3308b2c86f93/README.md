@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0f0cb70`](https://github.com/sase-org/sase/commit/0f0cb704c26c49a0d9ec3d4e023c6ff0166e7bd2) | fix: tolerate corrupt prompt history during directive persistence (#186) | 2026-06-26 16:16:08 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0f0cb70`](https://github.com/sase-org/sase/commit/0f0cb704c26c49a0d9ec3d4e023c6ff0166e7bd2) | fix: tolerate corrupt prompt history during directive persistence (#186) | 2026-06-26 16:16:08 |
 
 ## Neighbors
 

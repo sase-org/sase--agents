@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2579d18`](https://github.com/sase-org/sase/commit/2579d18c554507c1e79bd7bbea32287f1a0e0e2a) | docs: add tiny field note | 2026-06-25 19:43:03 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2579d18`](https://github.com/sase-org/sase/commit/2579d18c554507c1e79bd7bbea32287f1a0e0e2a) | docs: add tiny field note | 2026-06-25 19:43:03 |

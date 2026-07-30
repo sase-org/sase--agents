@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`9cdfb37`](https://github.com/sase-org/sase/commit/9cdfb378a43753436abac5a9c673f4efa8c60e51) | fix(ace): escape dead-end panel row focus | 2026-07-28 20:16:27 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`9cdfb37`](https://github.com/sase-org/sase/commit/9cdfb378a43753436abac5a9c673f4efa8c60e51) | fix(ace): escape dead-end panel row focus | 2026-07-28 20:16:27 |

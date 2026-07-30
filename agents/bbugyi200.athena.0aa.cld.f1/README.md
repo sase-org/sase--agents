@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e85b0cb`](https://github.com/sase-org/sase/commit/e85b0cbb3ea6857725dfb74d20902d1bd485b49e) | chore: Add SDD prompt and plan for remove\_config\_repo\_migration | 2026-06-29 16:56:45 |
-| [`b453ab7`](https://github.com/sase-org/sase/commit/b453ab7e507bff2ea1aec08c6511c01a4cea92f8) | feat(ace)!: remove repo-key migration UI | 2026-06-29 17:08:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e85b0cb`](https://github.com/sase-org/sase/commit/e85b0cbb3ea6857725dfb74d20902d1bd485b49e) | chore: Add SDD prompt and plan for remove\_config\_repo\_migration | 2026-06-29 16:56:45 |
+| sase | [`b453ab7`](https://github.com/sase-org/sase/commit/b453ab7e507bff2ea1aec08c6511c01a4cea92f8) | feat(ace)!: remove repo-key migration UI | 2026-06-29 17:08:42 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8b78a14`](https://github.com/sase-org/sase/commit/8b78a1453f622586b6fe1795c1aff6cdec8c3951) | docs: align agent provider setup guide | 2026-07-08 18:57:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8b78a14`](https://github.com/sase-org/sase/commit/8b78a1453f622586b6fe1795c1aff6cdec8c3951) | docs: align agent provider setup guide | 2026-07-08 18:57:13 |
 
 ## Neighbors
 

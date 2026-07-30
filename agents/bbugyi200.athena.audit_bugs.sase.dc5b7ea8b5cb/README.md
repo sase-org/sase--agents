@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`759158b`](https://github.com/sase-org/sase/commit/759158bd27e50715c8c008fac0872237c279f65d) | fix: correct lifecycle handling in audited agent paths (#251) | 2026-07-19 20:17:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`759158b`](https://github.com/sase-org/sase/commit/759158bd27e50715c8c008fac0872237c279f65d) | fix: correct lifecycle handling in audited agent paths (#251) | 2026-07-19 20:17:42 |
 
 ## Neighbors
 

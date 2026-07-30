@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`225b888`](https://github.com/sase-org/sase/commit/225b8884041fdf343df56dd0abfaa84fa585a61b) | chore: research preferred plugin and chop installs | 2026-05-28 20:26:18 |
-| [`bd39852`](https://github.com/sase-org/sase/commit/bd39852712a5143d9ae1c1ad9b22628642b52e4f) | chore: add SASE first blog launch research | 2026-06-03 07:18:59 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`225b888`](https://github.com/sase-org/sase/commit/225b8884041fdf343df56dd0abfaa84fa585a61b) | chore: research preferred plugin and chop installs | 2026-05-28 20:26:18 |
+| sase | [`bd39852`](https://github.com/sase-org/sase/commit/bd39852712a5143d9ae1c1ad9b22628642b52e4f) | chore: add SASE first blog launch research | 2026-06-03 07:18:59 |
 
 ## Neighbors
 

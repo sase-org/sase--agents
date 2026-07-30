@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`164fa4d`](https://github.com/sase-org/sase/commit/164fa4ddfc66ff18f22867e09446ba29d0427ef2) | fix: label generic agent replies by suffix | 2026-07-08 18:59:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`164fa4d`](https://github.com/sase-org/sase/commit/164fa4ddfc66ff18f22867e09446ba29d0427ef2) | fix: label generic agent replies by suffix | 2026-07-08 18:59:40 |

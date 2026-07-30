@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`26708aa`](https://github.com/sase-org/sase/commit/26708aa4e4a88bb5d5e3df0ae8793120520ca79e) | chore: Add SDD prompt and plan for agent\_context\_redesign | 2026-06-14 16:20:30 |
-| [`ac4d3f3`](https://github.com/sase-org/sase/commit/ac4d3f32324d8304b60ae991f0d74a42de0c1d8a) | feat(tui): redesign agent context lanes | 2026-06-14 16:36:17 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`26708aa`](https://github.com/sase-org/sase/commit/26708aa4e4a88bb5d5e3df0ae8793120520ca79e) | chore: Add SDD prompt and plan for agent\_context\_redesign | 2026-06-14 16:20:30 |
+| sase | [`ac4d3f3`](https://github.com/sase-org/sase/commit/ac4d3f32324d8304b60ae991f0d74a42de0c1d8a) | feat(tui): redesign agent context lanes | 2026-06-14 16:36:17 |
 
 ## Neighbors
 

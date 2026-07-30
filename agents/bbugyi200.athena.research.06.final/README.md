@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c07ba30`](https://github.com/sase-org/sase/commit/c07ba30a2ad8886f500c0650bf1316b6cc3f51fc) | docs: consolidate xprompt thinking level research | 2026-06-22 16:44:53 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c07ba30`](https://github.com/sase-org/sase/commit/c07ba30a2ad8886f500c0650bf1316b6cc3f51fc) | docs: consolidate xprompt thinking level research | 2026-06-22 16:44:53 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fd0e697`](https://github.com/sase-org/sase/commit/fd0e69706f90c370564687c16c3ca838dbf90f6d) | refactor(ace): split models panel into focused modules | 2026-07-11 13:50:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fd0e697`](https://github.com/sase-org/sase/commit/fd0e69706f90c370564687c16c3ca838dbf90f6d) | refactor(ace): split models panel into focused modules | 2026-07-11 13:50:11 |
 
 ## Neighbors
 

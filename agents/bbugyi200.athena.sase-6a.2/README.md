@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ec1a006`](https://github.com/sase-org/sase/commit/ec1a006f53282265330668704a416bb0d03562df) | feat(plans): redesign plan pipeline list (sase-6a.2) | 2026-07-16 13:35:12 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ec1a006`](https://github.com/sase-org/sase/commit/ec1a006f53282265330668704a416bb0d03562df) | feat(plans): redesign plan pipeline list (sase-6a.2) | 2026-07-16 13:35:12 |
 
 ## Neighbors
 

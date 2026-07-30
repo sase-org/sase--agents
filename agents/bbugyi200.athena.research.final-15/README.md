@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ac98b99`](https://github.com/sase-org/sase/commit/ac98b995a0080e19409b460508955e27380eef68) | chore: consolidate SASE competitor research | 2026-06-07 11:29:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ac98b99`](https://github.com/sase-org/sase/commit/ac98b995a0080e19409b460508955e27380eef68) | chore: consolidate SASE competitor research | 2026-06-07 11:29:56 |
 
 ## Neighbors
 

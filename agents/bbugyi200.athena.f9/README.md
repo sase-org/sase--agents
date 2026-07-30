@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e9228cd`](https://github.com/sase-org/sase/commit/e9228cdcb9330dc3362d3c2e9bd022a5bd96adf9) | feat(tui): support group targets for wait prompts | 2026-07-19 18:40:53 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e9228cd`](https://github.com/sase-org/sase/commit/e9228cdcb9330dc3362d3c2e9bd022a5bd96adf9) | feat(tui): support group targets for wait prompts | 2026-07-19 18:40:53 |

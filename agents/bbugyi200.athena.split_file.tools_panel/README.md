@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1a05c2c`](https://github.com/sase-org/sase/commit/1a05c2cec73c92fa6042787cd1233dcc649732cd) | refactor(tui): split tools panel helpers | 2026-07-07 21:48:50 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1a05c2c`](https://github.com/sase-org/sase/commit/1a05c2cec73c92fa6042787cd1233dcc649732cd) | refactor(tui): split tools panel helpers | 2026-07-07 21:48:50 |
 
 ## Neighbors
 

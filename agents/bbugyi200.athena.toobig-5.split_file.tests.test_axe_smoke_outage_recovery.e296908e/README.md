@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9619b80`](https://github.com/sase-org/sase/commit/9619b80e484eb2f7dacc1cb1aa0e92de38d936bd) | test: split axe outage recovery smoke tests | 2026-07-20 16:35:00 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9619b80`](https://github.com/sase-org/sase/commit/9619b80e484eb2f7dacc1cb1aa0e92de38d936bd) | test: split axe outage recovery smoke tests | 2026-07-20 16:35:00 |
 
 ## Neighbors
 

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cad8a05`](https://github.com/sase-org/sase/commit/cad8a052777818ca6e2d297059b7abf82b275ab1) | fix: restore tiered AMD memory headings | 2026-05-31 15:20:04 |
-| [`b74407c`](https://github.com/sase-org/sase/commit/b74407c2e575663e56b527be32944d9db8682347) | chore: Add SDD prompt and plan for revert\_agents\_md\_titles | 2026-05-31 15:22:15 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cad8a05`](https://github.com/sase-org/sase/commit/cad8a052777818ca6e2d297059b7abf82b275ab1) | fix: restore tiered AMD memory headings | 2026-05-31 15:20:04 |
+| sase | [`b74407c`](https://github.com/sase-org/sase/commit/b74407c2e575663e56b527be32944d9db8682347) | chore: Add SDD prompt and plan for revert\_agents\_md\_titles | 2026-05-31 15:22:15 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`582498f`](https://github.com/sase-org/sase/commit/582498fe0bea1390d20be1c29c56cfa663d643af) | refactor(tui): split startup action mixin | 2026-06-28 21:17:52 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`582498f`](https://github.com/sase-org/sase/commit/582498fe0bea1390d20be1c29c56cfa663d643af) | refactor(tui): split startup action mixin | 2026-06-28 21:17:52 |
 
 ## Neighbors
 

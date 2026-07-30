@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d6771fe`](https://github.com/sase-org/sase/commit/d6771fe404545914ee60bef9026294b83d3276ec) | fix: require repo skill for repository web fetches | 2026-07-14 11:57:35 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d6771fe`](https://github.com/sase-org/sase/commit/d6771fe404545914ee60bef9026294b83d3276ec) | fix: require repo skill for repository web fetches | 2026-07-14 11:57:35 |
 
 ## Neighbors
 

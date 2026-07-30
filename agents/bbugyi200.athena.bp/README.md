@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ac92d6a`](https://github.com/sase-org/sase/commit/ac92d6adeae089f629f7ec748bbb821730093723) | docs: redesign README landing page | 2026-07-17 12:56:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ac92d6a`](https://github.com/sase-org/sase/commit/ac92d6adeae089f629f7ec748bbb821730093723) | docs: redesign README landing page | 2026-07-17 12:56:46 |

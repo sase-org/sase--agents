@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fb37a09`](https://github.com/sase-org/sase/commit/fb37a09eef03292a849359feca9cadb7c5510f03) | fix(ace): isolate clan member fold state | 2026-07-18 11:08:47 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fb37a09`](https://github.com/sase-org/sase/commit/fb37a09eef03292a849359feca9cadb7c5510f03) | fix(ace): isolate clan member fold state | 2026-07-18 11:08:47 |
 
 ## Neighbors
 

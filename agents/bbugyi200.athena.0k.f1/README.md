@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5050811`](https://github.com/sase-org/sase/commit/50508113f2ffd24c0328f8bec10187245274a5c4) | docs: Add xprompt skill disclosure infographic | 2026-07-07 16:25:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5050811`](https://github.com/sase-org/sase/commit/50508113f2ffd24c0328f8bec10187245274a5c4) | docs: Add xprompt skill disclosure infographic | 2026-07-07 16:25:09 |
 
 ## Neighbors
 

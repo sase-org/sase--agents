@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`1227d91`](https://github.com/sase-org/sase/commit/1227d918817639a90a291c953cc6da21e3ea3f72) | test: restore review-runner environment isolation (sase-83) | 2026-07-20 17:40:28 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`1227d91`](https://github.com/sase-org/sase/commit/1227d918817639a90a291c953cc6da21e3ea3f72) | test: restore review-runner environment isolation (sase-83) | 2026-07-20 17:40:28 |
 
 ## Neighbors
 

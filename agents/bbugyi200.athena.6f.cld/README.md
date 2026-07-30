@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`26110ab`](https://github.com/sase-org/sase/commit/26110abcbe6a7555d8865db7bad924075b62f67e) | chore: Add SDD prompt and plan for tui\_freeze\_artifact\_scan | 2026-06-13 15:23:34 |
-| [`a4088d5`](https://github.com/sase-org/sase/commit/a4088d57cfcb687456ab6ebd8086e5d8a21ab992) | perf(tui): avoid repeated tool artifact scans | 2026-06-13 15:40:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`26110ab`](https://github.com/sase-org/sase/commit/26110abcbe6a7555d8865db7bad924075b62f67e) | chore: Add SDD prompt and plan for tui\_freeze\_artifact\_scan | 2026-06-13 15:23:34 |
+| sase | [`a4088d5`](https://github.com/sase-org/sase/commit/a4088d57cfcb687456ab6ebd8086e5d8a21ab992) | perf(tui): avoid repeated tool artifact scans | 2026-06-13 15:40:39 |
 
 ## Neighbors
 

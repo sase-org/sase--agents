@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`09046c7`](https://github.com/sase-org/sase/commit/09046c70b8ffa75682965ff5b646f83647d6a154) | chore: Add SDD prompt and plan for decouple\_kill\_dismiss\_from\_agents\_tab | 2026-06-24 10:47:00 |
-| [`f04bea6`](https://github.com/sase-org/sase/commit/f04bea6d77e1a749b5a5cbeda157c92eb4ed3d40) | perf(tui): avoid broad reloads after artifact cleanup | 2026-06-24 11:14:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`09046c7`](https://github.com/sase-org/sase/commit/09046c70b8ffa75682965ff5b646f83647d6a154) | chore: Add SDD prompt and plan for decouple\_kill\_dismiss\_from\_agents\_tab | 2026-06-24 10:47:00 |
+| sase | [`f04bea6`](https://github.com/sase-org/sase/commit/f04bea6d77e1a749b5a5cbeda157c92eb4ed3d40) | perf(tui): avoid broad reloads after artifact cleanup | 2026-06-24 11:14:07 |

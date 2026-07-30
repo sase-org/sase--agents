@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`5bf430b`](https://github.com/sase-org/sase/commit/5bf430b67eb42f61e5472f689e0cba4a0d276669) | feat(agent): persist local names relative to owner (sase-8v.3) | 2026-07-23 19:56:11 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`5bf430b`](https://github.com/sase-org/sase/commit/5bf430b67eb42f61e5472f689e0cba4a0d276669) | feat(agent): persist local names relative to owner (sase-8v.3) | 2026-07-23 19:56:11 |
 
 ## Neighbors
 

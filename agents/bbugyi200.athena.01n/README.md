@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`541f5b8`](https://github.com/sase-org/sase/commit/541f5b85c7f80b7d0206bc90c2a3b2bab640c6aa) | chore: Add SDD prompt and plan for completion\_panel\_excess\_height | 2026-06-19 23:06:11 |
-| [`23a3a5e`](https://github.com/sase-org/sase/commit/23a3a5e87057b5fe24a856baae81dcdbb4ef2e95) | fix(tui): clamp prompt completion height reservation | 2026-06-19 23:15:50 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`541f5b8`](https://github.com/sase-org/sase/commit/541f5b85c7f80b7d0206bc90c2a3b2bab640c6aa) | chore: Add SDD prompt and plan for completion\_panel\_excess\_height | 2026-06-19 23:06:11 |
+| sase | [`23a3a5e`](https://github.com/sase-org/sase/commit/23a3a5e87057b5fe24a856baae81dcdbb4ef2e95) | fix(tui): clamp prompt completion height reservation | 2026-06-19 23:15:50 |

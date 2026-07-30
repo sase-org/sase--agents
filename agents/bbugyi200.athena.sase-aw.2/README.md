@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`afad2e6`](https://github.com/sase-org/sase/commit/afad2e6ca1b5bce83e1facb22f584c137346bf40) | feat(ace): render plan previews as markdown | 2026-07-29 22:11:46 |
-| [`0a7282f`](https://github.com/sase-org/sase/commit/0a7282f20787c94e85c57319d33a6dfbd9f2f909) | fix(ace): stabilize prompt input and visual waits | 2026-07-29 22:40:01 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`afad2e6`](https://github.com/sase-org/sase/commit/afad2e6ca1b5bce83e1facb22f584c137346bf40) | feat(ace): render plan previews as markdown | 2026-07-29 22:11:46 |
+| sase | [`0a7282f`](https://github.com/sase-org/sase/commit/0a7282f20787c94e85c57319d33a6dfbd9f2f909) | fix(ace): stabilize prompt input and visual waits | 2026-07-29 22:40:01 |
 
 ## Neighbors
 

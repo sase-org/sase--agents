@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`eaa82d3`](https://github.com/sase-org/sase/commit/eaa82d3dd4031096aa904383b4ba6f5db4785584) | test: split git sync tests by responsibility | 2026-07-28 23:11:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`eaa82d3`](https://github.com/sase-org/sase/commit/eaa82d3dd4031096aa904383b4ba6f5db4785584) | test: split git sync tests by responsibility | 2026-07-28 23:11:54 |
 
 ## Neighbors
 

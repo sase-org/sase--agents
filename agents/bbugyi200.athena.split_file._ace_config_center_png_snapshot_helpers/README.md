@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`07240f5`](https://github.com/sase-org/sase/commit/07240f5b374f27bb5e9679d81f6b1356f097cf0a) | test: split config center visual helpers | 2026-07-07 18:26:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`07240f5`](https://github.com/sase-org/sase/commit/07240f5b374f27bb5e9679d81f6b1356f097cf0a) | test: split config center visual helpers | 2026-07-07 18:26:42 |
 
 ## Neighbors
 

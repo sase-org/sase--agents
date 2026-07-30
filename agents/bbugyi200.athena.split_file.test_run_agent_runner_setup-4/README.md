@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d0c62f9`](https://github.com/sase-org/sase/commit/d0c62f979a50c5dc87a9b80a3cfbf7114ed99426) | test: split agent runner setup tests | 2026-07-16 08:16:59 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d0c62f9`](https://github.com/sase-org/sase/commit/d0c62f979a50c5dc87a9b80a3cfbf7114ed99426) | test: split agent runner setup tests | 2026-07-16 08:16:59 |
 
 ## Neighbors
 

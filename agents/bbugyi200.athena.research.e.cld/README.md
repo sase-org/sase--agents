@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0dce323`](https://github.com/sase-org/sase/commit/0dce323c9aef7fba3039e84a88feef1424bc176d) | docs(research): analyze ,r keymap to revert a done agent's commits | 2026-06-14 14:23:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0dce323`](https://github.com/sase-org/sase/commit/0dce323c9aef7fba3039e84a88feef1424bc176d) | docs(research): analyze ,r keymap to revert a done agent's commits | 2026-06-14 14:23:25 |
 
 ## Neighbors
 

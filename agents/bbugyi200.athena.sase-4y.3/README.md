@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0b762df`](https://github.com/sase-org/sase/commit/0b762dfc25ae1575edd606fa214906091a80fe7d) | feat(prompt): add prompt search CLI surface (Phase 3) (sase-4y.3) | 2026-06-19 03:06:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0b762df`](https://github.com/sase-org/sase/commit/0b762dfc25ae1575edd606fa214906091a80fe7d) | feat(prompt): add prompt search CLI surface (Phase 3) (sase-4y.3) | 2026-06-19 03:06:25 |
 
 ## Neighbors
 

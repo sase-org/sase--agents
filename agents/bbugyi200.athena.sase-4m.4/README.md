@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2a562f3`](https://github.com/sase-org/sase/commit/2a562f3fc68947dc6df0114fc4c431e574180a2d) | fix: record failed TUI launches as cancelled history (sase-4m.4) | 2026-06-13 14:29:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2a562f3`](https://github.com/sase-org/sase/commit/2a562f3fc68947dc6df0114fc4c431e574180a2d) | fix: record failed TUI launches as cancelled history (sase-4m.4) | 2026-06-13 14:29:37 |
 
 ## Neighbors
 

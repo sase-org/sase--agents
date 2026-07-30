@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1106561`](https://github.com/sase-org/sase/commit/11065612bcdb544d9f1e41036b9f23d9ad950898) | feat(tui): add unified prompt inputs panel (sase-9q.4) | 2026-07-26 12:29:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1106561`](https://github.com/sase-org/sase/commit/11065612bcdb544d9f1e41036b9f23d9ad950898) | feat(tui): add unified prompt inputs panel (sase-9q.4) | 2026-07-26 12:29:13 |
 
 ## Neighbors
 

@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4fa00b5`](https://github.com/sase-org/sase/commit/4fa00b52f11ca8019df3a8dd1b366d5d1b24057d) | perf(sdd): avoid repeated database rebuilds during migration (#222) | 2026-07-11 19:34:08 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4fa00b5`](https://github.com/sase-org/sase/commit/4fa00b52f11ca8019df3a8dd1b366d5d1b24057d) | perf(sdd): avoid repeated database rebuilds during migration (#222) | 2026-07-11 19:34:08 |

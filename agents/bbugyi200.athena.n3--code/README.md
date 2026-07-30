@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ad3c751`](https://github.com/sase-org/sase/commit/ad3c75151077382cc7f77fe67556b77bb875aadb) | fix(xprompt): preserve trailing punctuation in completion | 2026-07-28 16:17:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ad3c751`](https://github.com/sase-org/sase/commit/ad3c75151077382cc7f77fe67556b77bb875aadb) | fix(xprompt): preserve trailing punctuation in completion | 2026-07-28 16:17:06 |

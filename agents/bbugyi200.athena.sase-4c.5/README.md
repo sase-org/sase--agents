@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`db255fd`](https://github.com/sase-org/sase/commit/db255fd26bf7827b91a331a13aa1dd08969e6f8a) | chore: document project aliases rollout (sase-4c.5) | 2026-06-04 16:11:14 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`db255fd`](https://github.com/sase-org/sase/commit/db255fd26bf7827b91a331a13aa1dd08969e6f8a) | chore: document project aliases rollout (sase-4c.5) | 2026-06-04 16:11:14 |
 
 ## Neighbors
 

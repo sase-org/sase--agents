@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cd3cdf8`](https://github.com/sase-org/sase/commit/cd3cdf8b805d3e334005f0235eb0bafe2e71c7b5) | chore: close sase-4n plan epic | 2026-06-13 15:48:16 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cd3cdf8`](https://github.com/sase-org/sase/commit/cd3cdf8b805d3e334005f0235eb0bafe2e71c7b5) | chore: close sase-4n plan epic | 2026-06-13 15:48:16 |
 
 ## Neighbors
 

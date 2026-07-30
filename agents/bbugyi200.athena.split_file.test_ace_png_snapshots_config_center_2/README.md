@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c19c613`](https://github.com/sase-org/sase/commit/c19c6137de1b239d15075c56bd385278693157a4) | test: split config center visual snapshots | 2026-06-26 17:14:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c19c613`](https://github.com/sase-org/sase/commit/c19c6137de1b239d15075c56bd385278693157a4) | test: split config center visual snapshots | 2026-06-26 17:14:58 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ef6bda7`](https://github.com/sase-org/sase/commit/ef6bda77c2de04e0aa9135ab09352e2682848d0c) | chore: end agent family research with recommendation | 2026-06-02 19:56:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ef6bda7`](https://github.com/sase-org/sase/commit/ef6bda77c2de04e0aa9135ab09352e2682848d0c) | chore: end agent family research with recommendation | 2026-06-02 19:56:27 |
 
 ## Neighbors
 

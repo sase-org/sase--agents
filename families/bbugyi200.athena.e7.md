@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`292e9db`](https://github.com/sase-org/sase/commit/292e9db152c06ebc5b90ab88e051ddb0b1df7c93) | fix(agent): prevent ambient identity leaking across processes | 2026-07-19 02:48:22 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`292e9db`](https://github.com/sase-org/sase/commit/292e9db152c06ebc5b90ab88e051ddb0b1df7c93) | fix(agent): prevent ambient identity leaking across processes | 2026-07-19 02:48:22 |

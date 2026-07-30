@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`63d0ca5`](https://github.com/sase-org/sase/commit/63d0ca504d48b8daed6702e38d79443d77af44cb) | feat: show repository names in commit tables | 2026-07-30 13:44:26 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`63d0ca5`](https://github.com/sase-org/sase/commit/63d0ca504d48b8daed6702e38d79443d77af44cb) | feat: show repository names in commit tables | 2026-07-30 13:44:26 |
 
 ## Neighbors
 

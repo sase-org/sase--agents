@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ca348d7`](https://github.com/sase-org/sase/commit/ca348d7034c1887b600464b913d8b29cba304ef9) | feat(ace): show globally queued agent counts | 2026-07-24 23:20:55 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ca348d7`](https://github.com/sase-org/sase/commit/ca348d7034c1887b600464b913d8b29cba304ef9) | feat(ace): show globally queued agent counts | 2026-07-24 23:20:55 |
 
 ## Neighbors
 

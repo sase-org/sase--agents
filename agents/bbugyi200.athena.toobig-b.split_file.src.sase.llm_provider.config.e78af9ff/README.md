@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7b53972`](https://github.com/sase-org/sase/commit/7b53972e0b4f5f87b0ee5781fdf3fd1e92491b71) | refactor(llm-provider): split model alias configuration | 2026-07-21 16:11:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7b53972`](https://github.com/sase-org/sase/commit/7b53972e0b4f5f87b0ee5781fdf3fd1e92491b71) | refactor(llm-provider): split model alias configuration | 2026-07-21 16:11:57 |
 
 ## Neighbors
 

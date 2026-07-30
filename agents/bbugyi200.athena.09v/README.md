@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`70322a3`](https://github.com/sase-org/sase/commit/70322a35ebfb0f76c264f50ac14711c5a13d262d) | chore: Add SDD prompt and plan for fix\_coverage\_load\_test\_flakes | 2026-06-29 14:12:42 |
-| [`1a9c06b`](https://github.com/sase-org/sase/commit/1a9c06b2caf2fab3d26df397921ac3eb9117218e) | fix: stop provider timer threads under load | 2026-06-29 14:27:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`70322a3`](https://github.com/sase-org/sase/commit/70322a35ebfb0f76c264f50ac14711c5a13d262d) | chore: Add SDD prompt and plan for fix\_coverage\_load\_test\_flakes | 2026-06-29 14:12:42 |
+| sase | [`1a9c06b`](https://github.com/sase-org/sase/commit/1a9c06b2caf2fab3d26df397921ac3eb9117218e) | fix: stop provider timer threads under load | 2026-06-29 14:27:20 |

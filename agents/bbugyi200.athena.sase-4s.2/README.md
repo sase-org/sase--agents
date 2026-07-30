@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e2369f0`](https://github.com/sase-org/sase/commit/e2369f0efb525610005285018baacfed6362e933) | feat(tui): migrate prompt pane nav/reorder to \`g\` prefix and restore Vim \`J\` (sase-4s.2) | 2026-06-17 18:50:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e2369f0`](https://github.com/sase-org/sase/commit/e2369f0efb525610005285018baacfed6362e933) | feat(tui): migrate prompt pane nav/reorder to \`g\` prefix and restore Vim \`J\` (sase-4s.2) | 2026-06-17 18:50:23 |
 
 ## Neighbors
 

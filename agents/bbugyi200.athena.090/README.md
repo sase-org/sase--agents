@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1b4be00`](https://github.com/sase-org/sase/commit/1b4be006bc4bdb5433d64603d2437a163e0d1dcd) | feat(ace): add prompt jump to definitions | 2026-06-28 15:04:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1b4be00`](https://github.com/sase-org/sase/commit/1b4be006bc4bdb5433d64603d2437a163e0d1dcd) | feat(ace): add prompt jump to definitions | 2026-06-28 15:04:11 |
 
 ## Neighbors
 

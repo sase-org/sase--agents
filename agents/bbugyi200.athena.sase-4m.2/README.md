@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ac817e0`](https://github.com/sase-org/sase/commit/ac817e0c19098d2b3fda8f432094e69af1cb61ee) | fix(ace): remove prompt history sorting references (sase-4m.2) | 2026-06-13 13:52:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ac817e0`](https://github.com/sase-org/sase/commit/ac817e0c19098d2b3fda8f432094e69af1cb61ee) | fix(ace): remove prompt history sorting references (sase-4m.2) | 2026-06-13 13:52:42 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`46a3561`](https://github.com/sase-org/sase/commit/46a35610aea4615cc357c9bd42d9c9f854245df3) | fix: recover artifact workspace for content copy | 2026-05-29 14:40:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`46a3561`](https://github.com/sase-org/sase/commit/46a35610aea4615cc357c9bd42d9c9f854245df3) | fix: recover artifact workspace for content copy | 2026-05-29 14:40:46 |
 
 ## Neighbors
 

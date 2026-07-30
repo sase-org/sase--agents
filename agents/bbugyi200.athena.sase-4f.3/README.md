@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5a14acc`](https://github.com/sase-org/sase/commit/5a14acc1e18db369b7333f7aff93b1b8b57ce79c) | feat: add incremental Agents display refresh (sase-4f.3) | 2026-06-08 19:20:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5a14acc`](https://github.com/sase-org/sase/commit/5a14acc1e18db369b7333f7aff93b1b8b57ce79c) | feat: add incremental Agents display refresh (sase-4f.3) | 2026-06-08 19:20:51 |
 
 ## Neighbors
 

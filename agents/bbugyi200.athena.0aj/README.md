@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d216bf9`](https://github.com/sase-org/sase/commit/d216bf9a0282d87fecaabc604df26ab216664f2d) | chore: Add SDD prompt and plan for dismiss\_unread\_agent\_dismisses\_notification | 2026-06-30 11:21:42 |
-| [`86a4b6b`](https://github.com/sase-org/sase/commit/86a4b6b8c21c65af943293b10b431c8321b10a42) | fix: dismiss completion notifications with agent rows | 2026-06-30 11:33:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d216bf9`](https://github.com/sase-org/sase/commit/d216bf9a0282d87fecaabc604df26ab216664f2d) | chore: Add SDD prompt and plan for dismiss\_unread\_agent\_dismisses\_notification | 2026-06-30 11:21:42 |
+| sase | [`86a4b6b`](https://github.com/sase-org/sase/commit/86a4b6b8c21c65af943293b10b431c8321b10a42) | fix: dismiss completion notifications with agent rows | 2026-06-30 11:33:44 |

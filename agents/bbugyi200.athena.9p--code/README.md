@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f5d7184`](https://github.com/sase-org/sase/commit/f5d718444ae0a67ef92791014a33e419994210ed) | fix(xprompt): render declared inputs inside inline code | 2026-07-15 19:58:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f5d7184`](https://github.com/sase-org/sase/commit/f5d718444ae0a67ef92791014a33e419994210ed) | fix(xprompt): render declared inputs inside inline code | 2026-07-15 19:58:29 |
 
 ## Neighbors
 

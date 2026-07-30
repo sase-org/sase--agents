@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9e786c9`](https://github.com/sase-org/sase/commit/9e786c9a8280522c0be1fe012a9a7ee43801719a) | feat(agent-tribes)!: add canonical tribe persistence contracts (sase-7j.1) | 2026-07-19 18:41:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9e786c9`](https://github.com/sase-org/sase/commit/9e786c9a8280522c0be1fe012a9a7ee43801719a) | feat(agent-tribes)!: add canonical tribe persistence contracts (sase-7j.1) | 2026-07-19 18:41:24 |
 
 ## Neighbors
 

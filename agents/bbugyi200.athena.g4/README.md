@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`58d6222`](https://github.com/sase-org/sase/commit/58d622217ce85359cfaa93d5504517e32b360eaa) | feat(config): offer commit and push after config edits | 2026-07-20 14:25:53 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`58d6222`](https://github.com/sase-org/sase/commit/58d622217ce85359cfaa93d5504517e32b360eaa) | feat(config): offer commit and push after config edits | 2026-07-20 14:25:53 |

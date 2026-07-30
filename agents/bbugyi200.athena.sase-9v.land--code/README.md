@@ -19,11 +19,11 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bb04762`](https://github.com/sase-org/sase/commit/bb0476224f547a751f81643dbe607089531d5609) | test(bead): fix work-launch push-hint call (sase-9v) | 2026-07-26 18:39:24 |
-| [`41d02f6`](https://github.com/sase-org/sase/commit/41d02f653a516602ecd01983e23390f9b730387e) | build(deps): require sase-core-rs 0.11 (sase-9v) | 2026-07-26 19:14:03 |
-| [`9e63c5e`](https://github.com/sase-org/sase/commit/9e63c5eb785c8ed009e74841cf4cc301a5bbcc9d) | fix(agents-sync): skip tribe wait relationships (sase-9v) | 2026-07-26 19:16:03 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`bb04762`](https://github.com/sase-org/sase/commit/bb0476224f547a751f81643dbe607089531d5609) | test(bead): fix work-launch push-hint call (sase-9v) | 2026-07-26 18:39:24 |
+| sase | [`41d02f6`](https://github.com/sase-org/sase/commit/41d02f653a516602ecd01983e23390f9b730387e) | build(deps): require sase-core-rs 0.11 (sase-9v) | 2026-07-26 19:14:03 |
+| sase | [`9e63c5e`](https://github.com/sase-org/sase/commit/9e63c5eb785c8ed009e74841cf4cc301a5bbcc9d) | fix(agents-sync): skip tribe wait relationships (sase-9v) | 2026-07-26 19:16:03 |
 
 ## Neighbors
 

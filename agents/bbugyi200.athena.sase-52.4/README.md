@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`57e9fd6`](https://github.com/sase-org/sase/commit/57e9fd6f35f9ef2f197d65ffe97a6dd422b426df) | feat(tui): highlight %{...} alt shorthand in ACE prompt input (sase-52.4) | 2026-06-20 19:37:49 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`57e9fd6`](https://github.com/sase-org/sase/commit/57e9fd6f35f9ef2f197d65ffe97a6dd422b426df) | feat(tui): highlight %{...} alt shorthand in ACE prompt input (sase-52.4) | 2026-06-20 19:37:49 |
 
 ## Neighbors
 

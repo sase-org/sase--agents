@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bfb468c`](https://github.com/sase-org/sase/commit/bfb468ca853939662e7ed9fc2fd5ce1c558ebc1b) | fix: auto-commit Q&A prompt snapshots | 2026-07-13 12:00:16 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`bfb468c`](https://github.com/sase-org/sase/commit/bfb468ca853939662e7ed9fc2fd5ce1c558ebc1b) | fix: auto-commit Q&A prompt snapshots | 2026-07-13 12:00:16 |

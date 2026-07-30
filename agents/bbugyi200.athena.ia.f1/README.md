@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bdde10d`](https://github.com/sase-org/sase/commit/bdde10dceb45dc86cadb85be5d8400207b387b7c) | feat(ace): report agent holes in tribe panels | 2026-07-22 15:58:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`bdde10d`](https://github.com/sase-org/sase/commit/bdde10dceb45dc86cadb85be5d8400207b387b7c) | feat(ace): report agent holes in tribe panels | 2026-07-22 15:58:24 |
 
 ## Neighbors
 

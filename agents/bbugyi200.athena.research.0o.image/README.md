@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c3a331c`](https://github.com/sase-org/sase/commit/c3a331cb2c813444a141f26e515e3fa5931b22ab) | docs: add TUI freeze research infographic | 2026-06-26 16:01:08 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c3a331c`](https://github.com/sase-org/sase/commit/c3a331cb2c813444a141f26e515e3fa5931b22ab) | docs: add TUI freeze research infographic | 2026-06-26 16:01:08 |
 
 ## Neighbors
 

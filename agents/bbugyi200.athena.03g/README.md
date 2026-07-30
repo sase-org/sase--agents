@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`959c680`](https://github.com/sase-org/sase/commit/959c68045ad3ac27f397e12b3c5eb576b8471992) | chore: Add SDD prompt and plan for expand\_xprompt\_with\_inputs | 2026-06-22 11:57:25 |
-| [`620ccda`](https://github.com/sase-org/sase/commit/620ccda1c20a256070eac1f53c411514a214598d) | feat(ace): inline expand xprompts with inputs | 2026-06-22 12:08:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`959c680`](https://github.com/sase-org/sase/commit/959c68045ad3ac27f397e12b3c5eb576b8471992) | chore: Add SDD prompt and plan for expand\_xprompt\_with\_inputs | 2026-06-22 11:57:25 |
+| sase | [`620ccda`](https://github.com/sase-org/sase/commit/620ccda1c20a256070eac1f53c411514a214598d) | feat(ace): inline expand xprompts with inputs | 2026-06-22 12:08:09 |
 
 ## Neighbors
 

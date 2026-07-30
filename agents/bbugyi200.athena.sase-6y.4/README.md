@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b85ca32`](https://github.com/sase-org/sase/commit/b85ca326a07248e82ad8bdf5fa5b4b837814b48b) | feat(ace)!: replace telemetry tab with statistics (sase-6y.4) | 2026-07-19 00:22:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b85ca32`](https://github.com/sase-org/sase/commit/b85ca326a07248e82ad8bdf5fa5b4b837814b48b) | feat(ace)!: replace telemetry tab with statistics (sase-6y.4) | 2026-07-19 00:22:37 |
 
 ## Neighbors
 

@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`99d29be`](https://github.com/sase-org/sase/commit/99d29be7594c410d8f9c8025c52b3da2ff4f69ef) | feat(vim): support visual surround selections | 2026-07-21 20:19:47 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`99d29be`](https://github.com/sase-org/sase/commit/99d29be7594c410d8f9c8025c52b3da2ff4f69ef) | feat(vim): support visual surround selections | 2026-07-21 20:19:47 |

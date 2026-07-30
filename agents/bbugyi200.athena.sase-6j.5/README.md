@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e5eef71`](https://github.com/sase-org/sase/commit/e5eef716c705c6745d69bef8e6b2a4dcaa412056) | fix(tui): complete residual freeze verification (sase-6j.5) | 2026-07-17 13:08:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e5eef71`](https://github.com/sase-org/sase/commit/e5eef716c705c6745d69bef8e6b2a4dcaa412056) | fix(tui): complete residual freeze verification (sase-6j.5) | 2026-07-17 13:08:21 |
 
 ## Neighbors
 

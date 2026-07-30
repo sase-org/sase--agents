@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`090f461`](https://github.com/sase-org/sase/commit/090f461deeda3c911f0a9ff9d81d386a72de0d93) | chore: Add SDD prompt and plan for xprompt\_optional\_colon\_spacer | 2026-06-21 22:58:11 |
-| [`8244755`](https://github.com/sase-org/sase/commit/82447552f14c76c2f402f899d6d1f2036996758d) | feat(ace): rewrite optional xprompt spacer to colon on next ":" | 2026-06-21 23:30:50 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`090f461`](https://github.com/sase-org/sase/commit/090f461deeda3c911f0a9ff9d81d386a72de0d93) | chore: Add SDD prompt and plan for xprompt\_optional\_colon\_spacer | 2026-06-21 22:58:11 |
+| sase | [`8244755`](https://github.com/sase-org/sase/commit/82447552f14c76c2f402f899d6d1f2036996758d) | feat(ace): rewrite optional xprompt spacer to colon on next ":" | 2026-06-21 23:30:50 |
 
 ## Neighbors
 

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f493f14`](https://github.com/sase-org/sase/commit/f493f1447f56e4a33dd26670a8375bf685326c47) | chore: Add SDD prompt and plan for migrate\_amd\_into\_memory | 2026-06-26 16:39:23 |
-| [`128d0d2`](https://github.com/sase-org/sase/commit/128d0d26a5d9f64fa71d912ff81186093fcfaca6) | feat(cli)!: migrate \`sase amd\` into \`sase memory\` | 2026-06-26 17:10:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f493f14`](https://github.com/sase-org/sase/commit/f493f1447f56e4a33dd26670a8375bf685326c47) | chore: Add SDD prompt and plan for migrate\_amd\_into\_memory | 2026-06-26 16:39:23 |
+| sase | [`128d0d2`](https://github.com/sase-org/sase/commit/128d0d26a5d9f64fa71d912ff81186093fcfaca6) | feat(cli)!: migrate \`sase amd\` into \`sase memory\` | 2026-06-26 17:10:54 |
 
 ## Neighbors
 

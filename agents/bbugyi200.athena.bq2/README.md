@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`919be6d`](https://github.com/sase-org/sase/commit/919be6da15ce097bfca48e90dc7c60cca801ce0b) | chore: Add SDD prompt and plan for pylimit\_split\_chop\_workspace\_claim\_1 | 2026-06-01 14:48:56 |
-| [`aa88324`](https://github.com/sase-org/sase/commit/aa8832459c6bd1cd872e93a16538262a808cd67b) | fix: claim VCS launch workspaces atomically | 2026-06-01 15:06:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`919be6d`](https://github.com/sase-org/sase/commit/919be6da15ce097bfca48e90dc7c60cca801ce0b) | chore: Add SDD prompt and plan for pylimit\_split\_chop\_workspace\_claim\_1 | 2026-06-01 14:48:56 |
+| sase | [`aa88324`](https://github.com/sase-org/sase/commit/aa8832459c6bd1cd872e93a16538262a808cd67b) | fix: claim VCS launch workspaces atomically | 2026-06-01 15:06:02 |

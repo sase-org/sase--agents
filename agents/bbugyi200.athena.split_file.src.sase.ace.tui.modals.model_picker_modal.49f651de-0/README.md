@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`33d3e6f`](https://github.com/sase-org/sase/commit/33d3e6f21943f50b16e16af6fe6e73f0b652bdd9) | refactor(tui): split model picker modal | 2026-07-19 04:35:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`33d3e6f`](https://github.com/sase-org/sase/commit/33d3e6f21943f50b16e16af6fe6e73f0b652bdd9) | refactor(tui): split model picker modal | 2026-07-19 04:35:45 |
 
 ## Neighbors
 

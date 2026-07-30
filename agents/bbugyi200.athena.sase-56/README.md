@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f3144e6`](https://github.com/sase-org/sase/commit/f3144e633821248fbf751d13b1778e683595e602) | chore: Add SDD prompt and plan for sase\_56\_completion (sase-56) | 2026-06-24 00:07:55 |
-| [`d605ae5`](https://github.com/sase-org/sase/commit/d605ae5119e31d0055a0dd8d823bd97fc177ccc0) | docs(ace): update auto-approve docs for the Auto-Approve menu (sase-56) | 2026-06-24 00:25:53 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f3144e6`](https://github.com/sase-org/sase/commit/f3144e633821248fbf751d13b1778e683595e602) | chore: Add SDD prompt and plan for sase\_56\_completion (sase-56) | 2026-06-24 00:07:55 |
+| sase | [`d605ae5`](https://github.com/sase-org/sase/commit/d605ae5119e31d0055a0dd8d823bd97fc177ccc0) | docs(ace): update auto-approve docs for the Auto-Approve menu (sase-56) | 2026-06-24 00:25:53 |
 
 ## Neighbors
 

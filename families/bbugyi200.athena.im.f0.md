@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`5fb55a5`](https://github.com/sase-org/sase/commit/5fb55a5a98e91fbc807d3e008f3af55d3d3863a1) | fix: recover interrupted agent families during forced reuse | 2026-07-22 19:03:36 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`5fb55a5`](https://github.com/sase-org/sase/commit/5fb55a5a98e91fbc807d3e008f3af55d3d3863a1) | fix: recover interrupted agent families during forced reuse | 2026-07-22 19:03:36 |
 
 ## Neighbors
 

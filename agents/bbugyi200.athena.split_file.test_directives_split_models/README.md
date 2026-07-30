@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e627a94`](https://github.com/sase-org/sase/commit/e627a94fce75975e6b0bd959a5792f799a336957) | test: split split-model directive tests | 2026-06-23 14:28:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e627a94`](https://github.com/sase-org/sase/commit/e627a94fce75975e6b0bd959a5792f799a336957) | test: split split-model directive tests | 2026-06-23 14:28:54 |
 
 ## Neighbors
 

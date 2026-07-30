@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0e73622`](https://github.com/sase-org/sase/commit/0e73622151de0454f1852ad8c6eedf5183e3511a) | chore: Add SDD prompt and plan for fix\_x11\_clipboard\_test\_leak | 2026-06-15 23:05:25 |
-| [`4015682`](https://github.com/sase-org/sase/commit/40156827dfc59cd9919ea7630613b60048bc116b) | test: guard clipboard command resolution in tests | 2026-06-15 23:13:12 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0e73622`](https://github.com/sase-org/sase/commit/0e73622151de0454f1852ad8c6eedf5183e3511a) | chore: Add SDD prompt and plan for fix\_x11\_clipboard\_test\_leak | 2026-06-15 23:05:25 |
+| sase | [`4015682`](https://github.com/sase-org/sase/commit/40156827dfc59cd9919ea7630613b60048bc116b) | test: guard clipboard command resolution in tests | 2026-06-15 23:13:12 |
 
 ## Neighbors
 

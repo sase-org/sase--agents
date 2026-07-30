@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`74aecd4`](https://github.com/sase-org/sase/commit/74aecd4aae6511217bfbdf8c6a2cce99cb87dad8) | docs: research license file options | 2026-06-19 16:29:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`74aecd4`](https://github.com/sase-org/sase/commit/74aecd4aae6511217bfbdf8c6a2cce99cb87dad8) | docs: research license file options | 2026-06-19 16:29:56 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cca9d50`](https://github.com/sase-org/sase/commit/cca9d500cd88751180efd0d6f47c0ab9b73e7902) | feat(tui): add commit hint viewer | 2026-07-09 17:22:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cca9d50`](https://github.com/sase-org/sase/commit/cca9d500cd88751180efd0d6f47c0ab9b73e7902) | feat(tui): add commit hint viewer | 2026-07-09 17:22:24 |
 
 ## Neighbors
 

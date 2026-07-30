@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`228b496`](https://github.com/sase-org/sase/commit/228b496e0e109962d8acb42a4af6e7b335394e7d) | fix(tui): handle control-byte prompt chords | 2026-07-09 16:54:30 |
-| root | [`228b496`](https://github.com/sase-org/sase/commit/228b496e0e109962d8acb42a4af6e7b335394e7d) | fix(tui): handle control-byte prompt chords | 2026-07-09 16:54:30 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`228b496`](https://github.com/sase-org/sase/commit/228b496e0e109962d8acb42a4af6e7b335394e7d) | fix(tui): handle control-byte prompt chords | 2026-07-09 16:54:30 |
+| root | sase | [`228b496`](https://github.com/sase-org/sase/commit/228b496e0e109962d8acb42a4af6e7b335394e7d) | fix(tui): handle control-byte prompt chords | 2026-07-09 16:54:30 |

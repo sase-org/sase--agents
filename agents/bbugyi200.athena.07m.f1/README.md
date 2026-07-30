@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`dec4018`](https://github.com/sase-org/sase/commit/dec4018dc9f9ae6728247cc0270880031dd525dc) | chore: Add SDD prompt and plan for split\_operations\_back | 2026-06-27 14:46:59 |
-| [`81f8374`](https://github.com/sase-org/sase/commit/81f83742e1af11344b1e8efafd3d903fcb3da610) | feat(tui): split Admin Center Operations back into Logs and Tasks tabs | 2026-06-27 15:07:16 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`dec4018`](https://github.com/sase-org/sase/commit/dec4018dc9f9ae6728247cc0270880031dd525dc) | chore: Add SDD prompt and plan for split\_operations\_back | 2026-06-27 14:46:59 |
+| sase | [`81f8374`](https://github.com/sase-org/sase/commit/81f83742e1af11344b1e8efafd3d903fcb3da610) | feat(tui): split Admin Center Operations back into Logs and Tasks tabs | 2026-06-27 15:07:16 |
 
 ## Neighbors
 

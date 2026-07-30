@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5e9170f`](https://github.com/sase-org/sase/commit/5e9170f4f231a22c8aa13c88ca68221105457b53) | docs: clarify verified ACE workflows | 2026-07-22 15:16:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5e9170f`](https://github.com/sase-org/sase/commit/5e9170f4f231a22c8aa13c88ca68221105457b53) | docs: clarify verified ACE workflows | 2026-07-22 15:16:23 |
 
 ## Neighbors
 

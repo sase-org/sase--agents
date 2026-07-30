@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`99ff60e`](https://github.com/sase-org/sase/commit/99ff60e248ab123e08bb47ea37f7b2f2295d5999) | refactor(bead): split plan-file work helpers | 2026-07-22 10:56:14 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`99ff60e`](https://github.com/sase-org/sase/commit/99ff60e248ab123e08bb47ea37f7b2f2295d5999) | refactor(bead): split plan-file work helpers | 2026-07-22 10:56:14 |
 
 ## Neighbors
 

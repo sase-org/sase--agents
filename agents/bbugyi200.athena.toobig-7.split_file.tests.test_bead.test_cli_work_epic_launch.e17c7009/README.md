@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`07dba89`](https://github.com/sase-org/sase/commit/07dba89410ee7fe747da035a51da14e61b9606af) | test: split epic work launch tests | 2026-07-20 23:39:53 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`07dba89`](https://github.com/sase-org/sase/commit/07dba89410ee7fe747da035a51da14e61b9606af) | test: split epic work launch tests | 2026-07-20 23:39:53 |
 
 ## Neighbors
 

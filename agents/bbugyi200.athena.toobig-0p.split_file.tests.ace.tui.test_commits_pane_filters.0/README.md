@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7e686c7`](https://github.com/sase-org/sase/commit/7e686c743e8bd18771585408f03c056e9ec250fe) | test(ace): split commits pane filter coverage | 2026-07-28 14:24:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7e686c7`](https://github.com/sase-org/sase/commit/7e686c743e8bd18771585408f03c056e9ec250fe) | test(ace): split commits pane filter coverage | 2026-07-28 14:24:22 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cf844c3`](https://github.com/sase-org/sase/commit/cf844c3e5d574d7c8898a73fd36cba686c17a6ad) | feat(ace): add paste-ready copy representations | 2026-07-30 00:27:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cf844c3`](https://github.com/sase-org/sase/commit/cf844c3e5d574d7c8898a73fd36cba686c17a6ad) | feat(ace): add paste-ready copy representations | 2026-07-30 00:27:20 |
 
 ## Neighbors
 

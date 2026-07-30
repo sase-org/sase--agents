@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4c00394`](https://github.com/sase-org/sase/commit/4c003945232ffe3d4845af137dc532db2c7fadbd) | chore: Add SDD prompt and plan for fix\_agent\_context\_plan\_feedback\_label | 2026-06-16 13:24:45 |
-| [`29ab809`](https://github.com/sase-org/sase/commit/29ab80962476bc2321220199d990656d77a2e619) | fix(tui): label plan-feedback context members by suffix | 2026-06-16 13:31:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4c00394`](https://github.com/sase-org/sase/commit/4c003945232ffe3d4845af137dc532db2c7fadbd) | chore: Add SDD prompt and plan for fix\_agent\_context\_plan\_feedback\_label | 2026-06-16 13:24:45 |
+| sase | [`29ab809`](https://github.com/sase-org/sase/commit/29ab80962476bc2321220199d990656d77a2e619) | fix(tui): label plan-feedback context members by suffix | 2026-06-16 13:31:25 |

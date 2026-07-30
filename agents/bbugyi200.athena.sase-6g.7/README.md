@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5601773`](https://github.com/sase-org/sase/commit/5601773404cd487fe81fe5ce4cd8d380c55a7a79) | feat(bead): group epic workers into agent families (sase-6g.7) | 2026-07-17 00:43:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5601773`](https://github.com/sase-org/sase/commit/5601773404cd487fe81fe5ce4cd8d380c55a7a79) | feat(bead): group epic workers into agent families (sase-6g.7) | 2026-07-17 00:43:20 |
 
 ## Neighbors
 

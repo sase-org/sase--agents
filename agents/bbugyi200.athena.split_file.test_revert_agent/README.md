@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`283bcea`](https://github.com/sase-org/sase/commit/283bceaea3aff8eccd72360ffad8f00b969ce542) | test: split revert agent tests | 2026-06-25 13:01:34 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`283bcea`](https://github.com/sase-org/sase/commit/283bceaea3aff8eccd72360ffad8f00b969ce542) | test: split revert agent tests | 2026-06-25 13:01:34 |
 
 ## Neighbors
 

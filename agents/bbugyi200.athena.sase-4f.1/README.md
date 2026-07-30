@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`43ec668`](https://github.com/sase-org/sase/commit/43ec668316ae38938a3b50bc2ef5ca03955cb01f) | feat: add agents refresh telemetry taxonomy (sase-4f.1) | 2026-06-08 18:31:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`43ec668`](https://github.com/sase-org/sase/commit/43ec668316ae38938a3b50bc2ef5ca03955cb01f) | feat: add agents refresh telemetry taxonomy (sase-4f.1) | 2026-06-08 18:31:21 |
 
 ## Neighbors
 

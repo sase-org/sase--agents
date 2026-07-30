@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1628f68`](https://github.com/sase-org/sase/commit/1628f6808c6173299e90465b37817316f23197eb) | docs: update SASE user documentation | 2026-06-25 20:35:14 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1628f68`](https://github.com/sase-org/sase/commit/1628f6808c6173299e90465b37817316f23197eb) | docs: update SASE user documentation | 2026-06-25 20:35:14 |
 
 ## Neighbors
 

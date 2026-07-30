@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ef8bc92`](https://github.com/sase-org/sase/commit/ef8bc928e9cdebf04764b41bbee6f5aafcb71cd5) | chore: Add research review of sase episode lessons | 2026-05-30 15:02:16 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ef8bc92`](https://github.com/sase-org/sase/commit/ef8bc928e9cdebf04764b41bbee6f5aafcb71cd5) | chore: Add research review of sase episode lessons | 2026-05-30 15:02:16 |
 
 ## Neighbors
 

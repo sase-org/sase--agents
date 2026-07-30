@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b74adbf`](https://github.com/sase-org/sase/commit/b74adbf4cad66da4435017a41df074965d53a694) | feat(tui): add prompt placeholder completion (sase-6b.2) | 2026-07-16 13:35:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b74adbf`](https://github.com/sase-org/sase/commit/b74adbf4cad66da4435017a41df074965d53a694) | feat(tui): add prompt placeholder completion (sase-6b.2) | 2026-07-16 13:35:57 |
 
 ## Neighbors
 

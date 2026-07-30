@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8256e25`](https://github.com/sase-org/sase/commit/8256e2584648cf54e62f0cf8cf04ae73ee322d7d) | fix(agents): preserve clan tribe across filtered snapshots | 2026-07-20 02:13:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8256e25`](https://github.com/sase-org/sase/commit/8256e2584648cf54e62f0cf8cf04ae73ee322d7d) | fix(agents): preserve clan tribe across filtered snapshots | 2026-07-20 02:13:07 |
 
 ## Neighbors
 

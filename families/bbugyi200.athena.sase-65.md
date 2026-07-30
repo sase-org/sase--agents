@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`26682ba`](https://github.com/sase-org/sase/commit/26682ba376d8eaaf426e532ef6a895815da25824) | test: pin visual snapshot rendering environment (sase-65) | 2026-07-16 01:58:06 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`26682ba`](https://github.com/sase-org/sase/commit/26682ba376d8eaaf426e532ef6a895815da25824) | test: pin visual snapshot rendering environment (sase-65) | 2026-07-16 01:58:06 |
 
 ## Neighbors
 

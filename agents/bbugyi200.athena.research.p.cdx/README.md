@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cd88617`](https://github.com/sase-org/sase/commit/cd886176b00cd2343237a111a72a34c859f9aca3) | docs: research with\_q\_and\_a xprompt design | 2026-06-18 20:29:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cd88617`](https://github.com/sase-org/sase/commit/cd886176b00cd2343237a111a72a34c859f9aca3) | docs: research with\_q\_and\_a xprompt design | 2026-06-18 20:29:37 |
 
 ## Neighbors
 

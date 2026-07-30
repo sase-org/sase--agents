@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1d0fc92`](https://github.com/sase-org/sase/commit/1d0fc92c2a55c42bdb223cf444f95eedac74f164) | refactor(tui): split meta enrichment loaders | 2026-06-20 22:59:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1d0fc92`](https://github.com/sase-org/sase/commit/1d0fc92c2a55c42bdb223cf444f95eedac74f164) | refactor(tui): split meta enrichment loaders | 2026-06-20 22:59:58 |
 
 ## Neighbors
 

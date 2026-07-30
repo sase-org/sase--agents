@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cd31c08`](https://github.com/sase-org/sase/commit/cd31c083075dd2787525dc85c4872f928805a8cf) | feat(ace): clean up collapsed agent panels | 2026-07-18 10:54:49 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cd31c08`](https://github.com/sase-org/sase/commit/cd31c083075dd2787525dc85c4872f928805a8cf) | feat(ace): clean up collapsed agent panels | 2026-07-18 10:54:49 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d3991f2`](https://github.com/sase-org/sase/commit/d3991f2cde46672bad62214f2cd4a1c3e62d38cb) | docs: add sase prompt research infographic | 2026-06-13 13:49:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d3991f2`](https://github.com/sase-org/sase/commit/d3991f2cde46672bad62214f2cd4a1c3e62d38cb) | docs: add sase prompt research infographic | 2026-06-13 13:49:20 |
 
 ## Neighbors
 

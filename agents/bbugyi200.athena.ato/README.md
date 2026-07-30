@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a43e835`](https://github.com/sase-org/sase/commit/a43e835295f2230995c9a337aa8785c2bb269c3d) | chore: document episode lesson memory candidates | 2026-05-30 14:59:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a43e835`](https://github.com/sase-org/sase/commit/a43e835295f2230995c9a337aa8785c2bb269c3d) | chore: document episode lesson memory candidates | 2026-05-30 14:59:23 |
 
 ## Neighbors
 

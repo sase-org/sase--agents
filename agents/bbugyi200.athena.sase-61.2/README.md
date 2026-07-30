@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4881a04`](https://github.com/sase-org/sase/commit/4881a04bfa1ede8580925fe14bae6935ca1eb620) | feat(plan): add strict plan validation command (sase-61.2) | 2026-07-14 17:25:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4881a04`](https://github.com/sase-org/sase/commit/4881a04bfa1ede8580925fe14bae6935ca1eb620) | feat(plan): add strict plan validation command (sase-61.2) | 2026-07-14 17:25:09 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f7f4146`](https://github.com/sase-org/sase/commit/f7f4146958fa2a851c0dfb829fd67decd26d9917) | docs: clarify prompt history documentation | 2026-06-24 11:33:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f7f4146`](https://github.com/sase-org/sase/commit/f7f4146958fa2a851c0dfb829fd67decd26d9917) | docs: clarify prompt history documentation | 2026-06-24 11:33:05 |
 
 ## Neighbors
 

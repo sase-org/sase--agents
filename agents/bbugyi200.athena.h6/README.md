@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e4cdefd`](https://github.com/sase-org/sase/commit/e4cdefd621267341005fcbed6ac6cceb51bf5c49) | feat(tui): show linked plans in commit view | 2026-07-21 15:45:31 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e4cdefd`](https://github.com/sase-org/sase/commit/e4cdefd621267341005fcbed6ac6cceb51bf5c49) | feat(tui): show linked plans in commit view | 2026-07-21 15:45:31 |

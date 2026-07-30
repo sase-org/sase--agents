@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fe8c2e0`](https://github.com/sase-org/sase/commit/fe8c2e0277e5cd77cce6d591f135407924c0385b) | fix(ace): navigate to all agent house parents | 2026-07-22 11:03:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fe8c2e0`](https://github.com/sase-org/sase/commit/fe8c2e0277e5cd77cce6d591f135407924c0385b) | fix(ace): navigate to all agent house parents | 2026-07-22 11:03:11 |
 
 ## Neighbors
 

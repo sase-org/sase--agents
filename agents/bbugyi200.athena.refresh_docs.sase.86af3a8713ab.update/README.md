@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`30c1d6a`](https://github.com/sase-org/sase/commit/30c1d6a9d4e29aeba116873e4eba330e5fe15bbe) | docs: refresh plan workflow documentation | 2026-06-13 16:41:14 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`30c1d6a`](https://github.com/sase-org/sase/commit/30c1d6a9d4e29aeba116873e4eba330e5fe15bbe) | docs: refresh plan workflow documentation | 2026-06-13 16:41:14 |
 
 ## Neighbors
 

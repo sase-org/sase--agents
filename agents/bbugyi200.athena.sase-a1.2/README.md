@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d1b02a6`](https://github.com/sase-org/sase/commit/d1b02a69f3471c97c40cb214eb42f411bd5184e8) | feat(bead): expose typed close resolutions (sase-a1.2) | 2026-07-27 17:05:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d1b02a6`](https://github.com/sase-org/sase/commit/d1b02a69f3471c97c40cb214eb42f411bd5184e8) | feat(bead): expose typed close resolutions (sase-a1.2) | 2026-07-27 17:05:25 |
 
 ## Neighbors
 

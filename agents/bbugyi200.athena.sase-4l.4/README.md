@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`915fdc7`](https://github.com/sase-org/sase/commit/915fdc737dda451657b2775dce14dec0bd17d546) | feat(ace): add vim prompt fidelity commands (sase-4l.4) | 2026-06-12 17:25:36 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`915fdc7`](https://github.com/sase-org/sase/commit/915fdc737dda451657b2775dce14dec0bd17d546) | feat(ace): add vim prompt fidelity commands (sase-4l.4) | 2026-06-12 17:25:36 |
 
 ## Neighbors
 

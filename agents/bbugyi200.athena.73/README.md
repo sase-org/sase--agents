@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3169f35`](https://github.com/sase-org/sase/commit/3169f351b9f9698720f62881a2763262748d86a3) | feat(sdd): finalize companion repository changes | 2026-07-12 19:55:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3169f35`](https://github.com/sase-org/sase/commit/3169f351b9f9698720f62881a2763262748d86a3) | feat(sdd): finalize companion repository changes | 2026-07-12 19:55:45 |

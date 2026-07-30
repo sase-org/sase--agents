@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7bb485d`](https://github.com/sase-org/sase/commit/7bb485d33f966a4471cd67c59a20b0b4e6c0982e) | fix(agents): quarantine failing publication requests (sase-91.3) | 2026-07-25 01:07:50 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7bb485d`](https://github.com/sase-org/sase/commit/7bb485d33f966a4471cd67c59a20b0b4e6c0982e) | fix(agents): quarantine failing publication requests (sase-91.3) | 2026-07-25 01:07:50 |
 
 ## Neighbors
 

@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`47899b7`](https://github.com/sase-org/sase/commit/47899b7a15d70fe8e62d421e9f3a831b8f04ea06) | fix(beads): route separate SDD writes to workspace clone | 2026-07-09 03:13:39 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`47899b7`](https://github.com/sase-org/sase/commit/47899b7a15d70fe8e62d421e9f3a831b8f04ea06) | fix(beads): route separate SDD writes to workspace clone | 2026-07-09 03:13:39 |

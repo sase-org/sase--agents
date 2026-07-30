@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a4d026b`](https://github.com/sase-org/sase/commit/a4d026ba78e0406fa2f13701d2c56afbfd4b72cc) | feat(ace): turn preview modal into artifact reader | 2026-07-29 21:23:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a4d026b`](https://github.com/sase-org/sase/commit/a4d026ba78e0406fa2f13701d2c56afbfd4b72cc) | feat(ace): turn preview modal into artifact reader | 2026-07-29 21:23:54 |
 
 ## Neighbors
 

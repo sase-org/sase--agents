@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b1d192e`](https://github.com/sase-org/sase/commit/b1d192ea5f7c24e9b9b28a3963144dfb2e5a0545) | docs: align smart summary folding guidance (sase-7f.1) | 2026-07-19 16:14:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b1d192e`](https://github.com/sase-org/sase/commit/b1d192ea5f7c24e9b9b28a3963144dfb2e5a0545) | docs: align smart summary folding guidance (sase-7f.1) | 2026-07-19 16:14:09 |
 
 ## Neighbors
 

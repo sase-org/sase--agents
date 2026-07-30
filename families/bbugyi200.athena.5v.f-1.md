@@ -25,9 +25,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`546a115`](https://github.com/sase-org/sase/commit/546a1155f210569ae093e3dc0ffa3bd05f36e47f) | feat(sdd)!: retire legacy plan layout | 2026-07-11 20:35:05 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`546a115`](https://github.com/sase-org/sase/commit/546a1155f210569ae093e3dc0ffa3bd05f36e47f) | feat(sdd)!: retire legacy plan layout | 2026-07-11 20:35:05 |
 
 ## Neighbors
 

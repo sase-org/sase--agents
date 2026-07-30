@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`17131a1`](https://github.com/sase-org/sase/commit/17131a15572b7dff7cd7136ce9a5a276208378ae) | chore: consolidate episode v2 research | 2026-05-28 22:13:31 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`17131a1`](https://github.com/sase-org/sase/commit/17131a15572b7dff7cd7136ce9a5a276208378ae) | chore: consolidate episode v2 research | 2026-05-28 22:13:31 |
 
 ## Neighbors
 

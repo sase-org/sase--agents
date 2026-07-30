@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`93f9dbf`](https://github.com/sase-org/sase/commit/93f9dbfd03b3c6b75d261852e065b80c959220d9) | feat(tui): target originating pane for #@ snippet selector (sase-53.1) | 2026-06-21 15:21:49 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`93f9dbf`](https://github.com/sase-org/sase/commit/93f9dbfd03b3c6b75d261852e065b80c959220d9) | feat(tui): target originating pane for #@ snippet selector (sase-53.1) | 2026-06-21 15:21:49 |
 
 ## Neighbors
 

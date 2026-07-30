@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`1943e18`](https://github.com/sase-org/sase/commit/1943e18a74f5f2ca3731dd051e68837574ea1c1e) | feat(beads): preassign epic work before launch | 2026-07-28 22:30:42 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`1943e18`](https://github.com/sase-org/sase/commit/1943e18a74f5f2ca3731dd051e68837574ea1c1e) | feat(beads): preassign epic work before launch | 2026-07-28 22:30:42 |
 
 ## Neighbors
 

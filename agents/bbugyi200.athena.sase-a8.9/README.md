@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9ddd75a`](https://github.com/sase-org/sase/commit/9ddd75a3f34902c48e361942cfe9a652b37b7d49) | docs: describe the dedicated beads sidecar (sase-a8.9) | 2026-07-28 10:28:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9ddd75a`](https://github.com/sase-org/sase/commit/9ddd75a3f34902c48e361942cfe9a652b37b7d49) | docs: describe the dedicated beads sidecar (sase-a8.9) | 2026-07-28 10:28:30 |
 
 ## Neighbors
 

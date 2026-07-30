@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8209751`](https://github.com/sase-org/sase/commit/8209751f8dbf1f703adc800d287f87759f097253) | feat: add exact artifact delta loading (sase-4f.2) | 2026-06-08 18:52:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8209751`](https://github.com/sase-org/sase/commit/8209751f8dbf1f703adc800d287f87759f097253) | feat: add exact artifact delta loading (sase-4f.2) | 2026-06-08 18:52:37 |
 
 ## Neighbors
 

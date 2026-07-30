@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0a1fd5f`](https://github.com/sase-org/sase/commit/0a1fd5f83e0d0bf3ed86b8638bdf266ea80c5557) | fix: refresh missing epic summaries before fallback (sase-85.1) | 2026-07-20 15:21:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0a1fd5f`](https://github.com/sase-org/sase/commit/0a1fd5f83e0d0bf3ed86b8638bdf266ea80c5557) | fix: refresh missing epic summaries before fallback (sase-85.1) | 2026-07-20 15:21:23 |
 
 ## Neighbors
 

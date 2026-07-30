@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`23fc81b`](https://github.com/sase-org/sase/commit/23fc81bcff0a728de5bfa296b22de9cd95509037) | ref: split multi-agent xprompt tests | 2026-05-28 13:40:10 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`23fc81b`](https://github.com/sase-org/sase/commit/23fc81bcff0a728de5bfa296b22de9cd95509037) | ref: split multi-agent xprompt tests | 2026-05-28 13:40:10 |
 
 ## Neighbors
 

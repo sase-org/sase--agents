@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`b7b64b7`](https://github.com/sase-org/sase/commit/b7b64b7199510be56c5638d0302bc2d002e31a7c) | feat(ace): place artifacts directly below plan | 2026-07-17 13:14:23 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`b7b64b7`](https://github.com/sase-org/sase/commit/b7b64b7199510be56c5638d0302bc2d002e31a7c) | feat(ace): place artifacts directly below plan | 2026-07-17 13:14:23 |

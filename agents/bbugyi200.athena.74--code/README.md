@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ab0a559`](https://github.com/sase-org/sase/commit/ab0a55920427b845eb14fa674239278dcf04843b) | feat(amd): support customizable agent templates | 2026-07-12 19:57:43 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ab0a559`](https://github.com/sase-org/sase/commit/ab0a55920427b845eb14fa674239278dcf04843b) | feat(amd): support customizable agent templates | 2026-07-12 19:57:43 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3385050`](https://github.com/sase-org/sase/commit/3385050c87f8b25d498bcc3aaafdcbbc95e72c3a) | chore: add preferred install infographic | 2026-05-28 20:43:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3385050`](https://github.com/sase-org/sase/commit/3385050c87f8b25d498bcc3aaafdcbbc95e72c3a) | chore: add preferred install infographic | 2026-05-28 20:43:39 |
 
 ## Neighbors
 

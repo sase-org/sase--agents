@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`deb7674`](https://github.com/sase-org/sase/commit/deb767421f14f1f79ad372d4625e5326b33bf27a) | test: split axe chop result protocol coverage | 2026-07-20 16:03:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`deb7674`](https://github.com/sase-org/sase/commit/deb767421f14f1f79ad372d4625e5326b33bf27a) | test: split axe chop result protocol coverage | 2026-07-20 16:03:44 |
 
 ## Neighbors
 

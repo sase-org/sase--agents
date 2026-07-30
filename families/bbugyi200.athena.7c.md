@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`c717162`](https://github.com/sase-org/sase/commit/c7171621956131316efa9836c752cd0f94f10de2) | chore: Add SDD prompt and plan for bulk\_agent\_revert | 2026-06-14 15:46:42 |
-| root | [`7babf67`](https://github.com/sase-org/sase/commit/7babf670a8caab72e9d4ae928f20c8084fbc3c71) | feat(ace): bulk-revert all marked agents with leader \`,r\` | 2026-06-14 16:04:53 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`c717162`](https://github.com/sase-org/sase/commit/c7171621956131316efa9836c752cd0f94f10de2) | chore: Add SDD prompt and plan for bulk\_agent\_revert | 2026-06-14 15:46:42 |
+| root | sase | [`7babf67`](https://github.com/sase-org/sase/commit/7babf670a8caab72e9d4ae928f20c8084fbc3c71) | feat(ace): bulk-revert all marked agents with leader \`,r\` | 2026-06-14 16:04:53 |

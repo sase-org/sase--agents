@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f2f80b2`](https://github.com/sase-org/sase/commit/f2f80b29312ec04c1e76ee1991fecd170ff35ec3) | chore: Add SDD prompt and plan for prompt\_number\_increment | 2026-06-23 22:25:22 |
-| [`9e19bdb`](https://github.com/sase-org/sase/commit/9e19bdb286296530d46d51563eb4942a6b9aded1) | feat(ace): support vim number increment commands | 2026-06-23 22:37:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f2f80b2`](https://github.com/sase-org/sase/commit/f2f80b29312ec04c1e76ee1991fecd170ff35ec3) | chore: Add SDD prompt and plan for prompt\_number\_increment | 2026-06-23 22:25:22 |
+| sase | [`9e19bdb`](https://github.com/sase-org/sase/commit/9e19bdb286296530d46d51563eb4942a6b9aded1) | feat(ace): support vim number increment commands | 2026-06-23 22:37:20 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`62f6d5c`](https://github.com/sase-org/sase/commit/62f6d5c33821095f717134d1fad2250b9786fd2e) | test: split update command tests | 2026-06-27 21:21:59 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`62f6d5c`](https://github.com/sase-org/sase/commit/62f6d5c33821095f717134d1fad2250b9786fd2e) | test: split update command tests | 2026-06-27 21:21:59 |
 
 ## Neighbors
 

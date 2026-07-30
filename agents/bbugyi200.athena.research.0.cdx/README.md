@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8bc5e9f`](https://github.com/sase-org/sase/commit/8bc5e9f225795d7995e2e807de7bf5a535956c93) | docs: research GitHub companion SDD repositories | 2026-07-08 02:23:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8bc5e9f`](https://github.com/sase-org/sase/commit/8bc5e9f225795d7995e2e807de7bf5a535956c93) | docs: research GitHub companion SDD repositories | 2026-07-08 02:23:58 |
 
 ## Neighbors
 

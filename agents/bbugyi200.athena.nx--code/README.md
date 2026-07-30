@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f36f37d`](https://github.com/sase-org/sase/commit/f36f37d3ceb5154e1b23602f5ce50ed44eebb52d) | feat(ace): link epic summaries to hosted bead pages | 2026-07-29 12:35:18 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f36f37d`](https://github.com/sase-org/sase/commit/f36f37d3ceb5154e1b23602f5ce50ed44eebb52d) | feat(ace): link epic summaries to hosted bead pages | 2026-07-29 12:35:18 |
 
 ## Neighbors
 

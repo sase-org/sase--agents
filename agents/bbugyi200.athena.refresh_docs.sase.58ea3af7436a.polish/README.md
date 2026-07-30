@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`00510a2`](https://github.com/sase-org/sase/commit/00510a22b6d3ef190f22d001c32b56246d73be54) | chore: clarify commit finalizer documentation | 2026-05-28 14:49:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`00510a2`](https://github.com/sase-org/sase/commit/00510a22b6d3ef190f22d001c32b56246d73be54) | chore: clarify commit finalizer documentation | 2026-05-28 14:49:54 |
 
 ## Neighbors
 

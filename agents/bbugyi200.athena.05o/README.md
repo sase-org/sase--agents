@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`68720ff`](https://github.com/sase-org/sase/commit/68720ff0b700ed33de26212e7b3e9952d1d28524) | feat: show multi-repo commit results in agents panel | 2026-06-24 19:24:19 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`68720ff`](https://github.com/sase-org/sase/commit/68720ff0b700ed33de26212e7b3e9952d1d28524) | feat: show multi-repo commit results in agents panel | 2026-06-24 19:24:19 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3dba997`](https://github.com/sase-org/sase/commit/3dba997d0c80ce4ec8234d650514ae50eff838a0) | feat(sdd): route bead operations to dedicated sidecar (sase-a8.6) | 2026-07-27 21:24:31 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3dba997`](https://github.com/sase-org/sase/commit/3dba997d0c80ce4ec8234d650514ae50eff838a0) | feat(sdd): route bead operations to dedicated sidecar (sase-a8.6) | 2026-07-27 21:24:31 |
 
 ## Neighbors
 

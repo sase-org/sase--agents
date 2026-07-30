@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| 1 | [`fae9dbb`](https://github.com/sase-org/sase/commit/fae9dbb340d7ca69ae61ffe610b29f2ed9e8dc21) | test(chop): isolate result-file contract tests (sase-72.3) | 2026-07-19 05:44:57 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| 1 | sase | [`fae9dbb`](https://github.com/sase-org/sase/commit/fae9dbb340d7ca69ae61ffe610b29f2ed9e8dc21) | test(chop): isolate result-file contract tests (sase-72.3) | 2026-07-19 05:44:57 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d5cf7af`](https://github.com/sase-org/sase/commit/d5cf7af9d9c84ba598327e4489da6b5963e209d1) | refactor(ace): split projects pane modules | 2026-07-15 21:52:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d5cf7af`](https://github.com/sase-org/sase/commit/d5cf7af9d9c84ba598327e4489da6b5963e209d1) | refactor(ace): split projects pane modules | 2026-07-15 21:52:51 |
 
 ## Neighbors
 

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2f39ccc`](https://github.com/sase-org/sase/commit/2f39ccc58e5d2c01f4cf74967b9ace931b7b9d8d) | chore: Add SDD prompt and plan for agent\_deltas\_metadata\_panel | 2026-05-27 13:54:28 |
-| [`d848d34`](https://github.com/sase-org/sase/commit/d848d34b763cba3a1531fe537a315b05b30b71a3) | feat: show agent deltas in detail metadata header | 2026-05-27 14:04:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2f39ccc`](https://github.com/sase-org/sase/commit/2f39ccc58e5d2c01f4cf74967b9ace931b7b9d8d) | chore: Add SDD prompt and plan for agent\_deltas\_metadata\_panel | 2026-05-27 13:54:28 |
+| sase | [`d848d34`](https://github.com/sase-org/sase/commit/d848d34b763cba3a1531fe537a315b05b30b71a3) | feat: show agent deltas in detail metadata header | 2026-05-27 14:04:44 |
 
 ## Neighbors
 

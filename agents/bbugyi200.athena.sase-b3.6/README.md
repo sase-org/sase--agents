@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cbe3d21`](https://github.com/sase-org/sase/commit/cbe3d214af47a9e645bfac725cd64960f337409c) | perf(artifact-refs): cache bounded payload catalogs | 2026-07-30 09:31:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cbe3d21`](https://github.com/sase-org/sase/commit/cbe3d214af47a9e645bfac725cd64960f337409c) | perf(artifact-refs): cache bounded payload catalogs | 2026-07-30 09:31:13 |
 
 ## Neighbors
 

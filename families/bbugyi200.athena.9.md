@@ -22,8 +22,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`2ff92fe`](https://github.com/sase-org/sase/commit/2ff92fe3af28ee983856e83f3cfc4c45b9eaf60b) | chore: Add SDD prompt and plan for fix\_stale\_launch\_body\_patch\_targets | 2026-07-03 14:09:36 |
-| root | [`2dcaec5`](https://github.com/sase-org/sase/commit/2dcaec58a7282627b73e2956f4ba6b0a585046f8) | chore: Add SDD prompt and plan for provider\_coder\_alias\_fallback | 2026-07-06 16:52:44 |
-| root | [`54033e8`](https://github.com/sase-org/sase/commit/54033e8b9ababb08d6152b400191bac599137cac) | fix: provider coder aliases inherit @coder instead of @default | 2026-07-06 16:59:58 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`2ff92fe`](https://github.com/sase-org/sase/commit/2ff92fe3af28ee983856e83f3cfc4c45b9eaf60b) | chore: Add SDD prompt and plan for fix\_stale\_launch\_body\_patch\_targets | 2026-07-03 14:09:36 |
+| root | sase | [`2dcaec5`](https://github.com/sase-org/sase/commit/2dcaec58a7282627b73e2956f4ba6b0a585046f8) | chore: Add SDD prompt and plan for provider\_coder\_alias\_fallback | 2026-07-06 16:52:44 |
+| root | sase | [`54033e8`](https://github.com/sase-org/sase/commit/54033e8b9ababb08d6152b400191bac599137cac) | fix: provider coder aliases inherit @coder instead of @default | 2026-07-06 16:59:58 |

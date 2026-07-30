@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`47e6a65`](https://github.com/sase-org/sase/commit/47e6a6548130871f164d84658edb6865955f1471) | test: split models panel edit tests | 2026-07-24 23:50:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`47e6a65`](https://github.com/sase-org/sase/commit/47e6a6548130871f164d84658edb6865955f1471) | test: split models panel edit tests | 2026-07-24 23:50:21 |
 
 ## Neighbors
 

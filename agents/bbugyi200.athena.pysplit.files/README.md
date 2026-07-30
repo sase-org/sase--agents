@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b9ff897`](https://github.com/sase-org/sase/commit/b9ff8975af20a4a50c1fc83708369a57eedfc9ae) | ref: split SDD file helpers by responsibility | 2026-05-27 17:41:40 |
-| [`14dba53`](https://github.com/sase-org/sase/commit/14dba53e6846519915f57d9e48414435aa61f4fe) | ref: split SDD link models from validation | 2026-05-27 17:49:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b9ff897`](https://github.com/sase-org/sase/commit/b9ff8975af20a4a50c1fc83708369a57eedfc9ae) | ref: split SDD file helpers by responsibility | 2026-05-27 17:41:40 |
+| sase | [`14dba53`](https://github.com/sase-org/sase/commit/14dba53e6846519915f57d9e48414435aa61f4fe) | ref: split SDD link models from validation | 2026-05-27 17:49:32 |
 
 ## Neighbors
 

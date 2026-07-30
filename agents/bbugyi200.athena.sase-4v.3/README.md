@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f8d2ca3`](https://github.com/sase-org/sase/commit/f8d2ca347e22f6f2571f447ba29105ab39e0abad) | feat(tui): add repeat prompt search (sase-4v.3) | 2026-06-17 23:37:23 |
-| [`1d88019`](https://github.com/sase-org/sase/commit/1d88019f5a6e6472545e99bda3e8649803780fc1) | chore(beads): correct prompt search commit note | 2026-06-17 23:39:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f8d2ca3`](https://github.com/sase-org/sase/commit/f8d2ca347e22f6f2571f447ba29105ab39e0abad) | feat(tui): add repeat prompt search (sase-4v.3) | 2026-06-17 23:37:23 |
+| sase | [`1d88019`](https://github.com/sase-org/sase/commit/1d88019f5a6e6472545e99bda3e8649803780fc1) | chore(beads): correct prompt search commit note | 2026-06-17 23:39:09 |
 
 ## Neighbors
 

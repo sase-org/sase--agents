@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ac7a6aa`](https://github.com/sase-org/sase/commit/ac7a6aacd13c7921d05406031209119e065b6ffc) | test: split command availability tests by surface | 2026-07-20 17:21:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ac7a6aa`](https://github.com/sase-org/sase/commit/ac7a6aacd13c7921d05406031209119e065b6ffc) | test: split command availability tests by surface | 2026-07-20 17:21:42 |
 
 ## Neighbors
 

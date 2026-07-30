@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`7f688d0`](https://github.com/sase-org/sase/commit/7f688d070d0240af65bd82379d47bb4c69f356c6) | fix(notifications): dismiss settled gate notifications | 2026-07-25 14:32:17 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`7f688d0`](https://github.com/sase-org/sase/commit/7f688d070d0240af65bd82379d47bb4c69f356c6) | fix(notifications): dismiss settled gate notifications | 2026-07-25 14:32:17 |

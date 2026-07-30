@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`1f0296a`](https://github.com/sase-org/sase/commit/1f0296ade1a22ac55dbd93d410f0247e6befba3a) | feat(bead): close selected epic phases | 2026-07-29 16:34:01 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`1f0296a`](https://github.com/sase-org/sase/commit/1f0296ade1a22ac55dbd93d410f0247e6befba3a) | feat(bead): close selected epic phases | 2026-07-29 16:34:01 |

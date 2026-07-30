@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`757b4c6`](https://github.com/sase-org/sase/commit/757b4c626e3e615ad0da3416593b73de69e77953) | ci: restore launch and docs validation | 2026-07-08 22:51:31 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`757b4c6`](https://github.com/sase-org/sase/commit/757b4c626e3e615ad0da3416593b73de69e77953) | ci: restore launch and docs validation | 2026-07-08 22:51:31 |

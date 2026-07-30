@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`804ffdf`](https://github.com/sase-org/sase/commit/804ffdf1867c2d629701b27b336a95e213e69e58) | ref: split episode recall helpers | 2026-05-29 01:19:31 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`804ffdf`](https://github.com/sase-org/sase/commit/804ffdf1867c2d629701b27b336a95e213e69e58) | ref: split episode recall helpers | 2026-05-29 01:19:31 |
 
 ## Neighbors
 

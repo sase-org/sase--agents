@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4400631`](https://github.com/sase-org/sase/commit/44006310d41e6a5b56a6a1cdf004b89afcdfb042) | refactor(tui): split config pane module | 2026-06-23 16:33:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4400631`](https://github.com/sase-org/sase/commit/44006310d41e6a5b56a6a1cdf004b89afcdfb042) | refactor(tui): split config pane module | 2026-06-23 16:33:48 |
 
 ## Neighbors
 

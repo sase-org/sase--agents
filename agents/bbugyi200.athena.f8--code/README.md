@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`918e3b9`](https://github.com/sase-org/sase/commit/918e3b9dda0a1b0c01fed86c27597358ac18a280) | feat(tui): show clan member status in wait metadata | 2026-07-19 18:23:01 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`918e3b9`](https://github.com/sase-org/sase/commit/918e3b9dda0a1b0c01fed86c27597358ac18a280) | feat(tui): show clan member status in wait metadata | 2026-07-19 18:23:01 |

@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f56df2e`](https://github.com/sase-org/sase/commit/f56df2e8c8d08bb7ceb8f7cee1a1d1ffcfed1046) | chore: Add SDD prompt and plan for telegram\_update\_workspace\_resolution | 2026-07-06 19:03:52 |
-| [`60a7b5f`](https://github.com/sase-org/sase/commit/60a7b5fbd9189258d224b1aa3082dde44795cc9f) | fix: resolve chat install workspace through project aliases | 2026-07-06 19:14:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f56df2e`](https://github.com/sase-org/sase/commit/f56df2e8c8d08bb7ceb8f7cee1a1d1ffcfed1046) | chore: Add SDD prompt and plan for telegram\_update\_workspace\_resolution | 2026-07-06 19:03:52 |
+| sase | [`60a7b5f`](https://github.com/sase-org/sase/commit/60a7b5fbd9189258d224b1aa3082dde44795cc9f) | fix: resolve chat install workspace through project aliases | 2026-07-06 19:14:24 |

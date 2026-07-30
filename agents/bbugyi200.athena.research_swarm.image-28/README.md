@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`05c484a`](https://github.com/sase-org/sase/commit/05c484a7dd4a13e69ab75a391f8a6454424501f3) | chore: add configurable agent families infographic | 2026-06-02 20:16:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`05c484a`](https://github.com/sase-org/sase/commit/05c484a7dd4a13e69ab75a391f8a6454424501f3) | chore: add configurable agent families infographic | 2026-06-02 20:16:39 |
 
 ## Neighbors
 

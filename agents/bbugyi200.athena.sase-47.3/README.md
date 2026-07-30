@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`566f400`](https://github.com/sase-org/sase/commit/566f4000e4b86bbb02a26403dcc205b996e64052) | feat: add saved agent group revival panel (sase-47.3) | 2026-05-27 17:08:15 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`566f400`](https://github.com/sase-org/sase/commit/566f4000e4b86bbb02a26403dcc205b996e64052) | feat: add saved agent group revival panel (sase-47.3) | 2026-05-27 17:08:15 |
 
 ## Neighbors
 

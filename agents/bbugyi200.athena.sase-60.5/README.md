@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8c716fa`](https://github.com/sase-org/sase/commit/8c716fa745b03fd9b9bed87c9ad23ae55bafea9a) | feat(repos)!: make research sidecars explicit | 2026-07-14 16:41:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8c716fa`](https://github.com/sase-org/sase/commit/8c716fa745b03fd9b9bed87c9ad23ae55bafea9a) | feat(repos)!: make research sidecars explicit | 2026-07-14 16:41:13 |
 
 ## Neighbors
 

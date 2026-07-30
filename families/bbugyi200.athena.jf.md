@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`f3965dd`](https://github.com/sase-org/sase/commit/f3965dd19e48a7be84658da43e92ef891d9d2583) | refactor(ace): rename agent holes to lanes | 2026-07-23 17:50:00 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`f3965dd`](https://github.com/sase-org/sase/commit/f3965dd19e48a7be84658da43e92ef891d9d2583) | refactor(ace): rename agent holes to lanes | 2026-07-23 17:50:00 |

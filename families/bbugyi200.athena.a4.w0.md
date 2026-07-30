@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`8ab0936`](https://github.com/sase-org/sase/commit/8ab0936f13cfa11e96e70385aeb587f12dbe12bf) | fix(ace): preserve explicit plan approval tiers | 2026-07-16 11:36:06 |
-| root | [`8ab0936`](https://github.com/sase-org/sase/commit/8ab0936f13cfa11e96e70385aeb587f12dbe12bf) | fix(ace): preserve explicit plan approval tiers | 2026-07-16 11:36:06 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`8ab0936`](https://github.com/sase-org/sase/commit/8ab0936f13cfa11e96e70385aeb587f12dbe12bf) | fix(ace): preserve explicit plan approval tiers | 2026-07-16 11:36:06 |
+| root | sase | [`8ab0936`](https://github.com/sase-org/sase/commit/8ab0936f13cfa11e96e70385aeb587f12dbe12bf) | fix(ace): preserve explicit plan approval tiers | 2026-07-16 11:36:06 |
 
 ## Neighbors
 

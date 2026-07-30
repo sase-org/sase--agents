@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9315d48`](https://github.com/sase-org/sase/commit/9315d48a45538e510b4970a7d933202ca414fb41) | chore: Add SDD prompt and plan for remove\_at\_project\_selector | 2026-06-20 00:55:50 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9315d48`](https://github.com/sase-org/sase/commit/9315d48a45538e510b4970a7d933202ca414fb41) | chore: Add SDD prompt and plan for remove\_at\_project\_selector | 2026-06-20 00:55:50 |

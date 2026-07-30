@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0cbabff`](https://github.com/sase-org/sase/commit/0cbabff59da7938d2b478a0fcc794989d9b9f1e0) | test: split prompt command tests | 2026-06-13 20:24:15 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0cbabff`](https://github.com/sase-org/sase/commit/0cbabff59da7938d2b478a0fcc794989d9b9f1e0) | test: split prompt command tests | 2026-06-13 20:24:15 |
 
 ## Neighbors
 

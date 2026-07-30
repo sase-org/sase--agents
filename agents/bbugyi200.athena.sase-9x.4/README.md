@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5993058`](https://github.com/sase-org/sase/commit/59930584cdf8a46d651d246cdaa763c88ada407e) | fix(beads): recover from transient sync divergence (sase-9x.4) | 2026-07-27 11:11:19 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5993058`](https://github.com/sase-org/sase/commit/59930584cdf8a46d651d246cdaa763c88ada407e) | fix(beads): recover from transient sync divergence (sase-9x.4) | 2026-07-27 11:11:19 |
 
 ## Neighbors
 

@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ad45962`](https://github.com/sase-org/sase/commit/ad4596285d9bf394df688c2e0cd1cb41293dbebb) | fix(memory): avoid redundant init approval requests | 2026-07-18 23:24:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ad45962`](https://github.com/sase-org/sase/commit/ad4596285d9bf394df688c2e0cd1cb41293dbebb) | fix(memory): avoid redundant init approval requests | 2026-07-18 23:24:57 |

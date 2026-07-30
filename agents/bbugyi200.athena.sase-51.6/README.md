@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`799fd49`](https://github.com/sase-org/sase/commit/799fd49bd3ff03246703518f548f5fb4a7472c9f) | chore: Close bead sase-51.6 (Phase 6: bob-cli Config Migration And Commit) | 2026-06-20 20:56:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`799fd49`](https://github.com/sase-org/sase/commit/799fd49bd3ff03246703518f548f5fb4a7472c9f) | chore: Close bead sase-51.6 (Phase 6: bob-cli Config Migration And Commit) | 2026-06-20 20:56:45 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`39be97a`](https://github.com/sase-org/sase/commit/39be97a15ee5c58c46707f0ed4452b35ead5de35) | fix(tui): show auto-approve kind in agent metadata | 2026-06-28 12:20:26 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`39be97a`](https://github.com/sase-org/sase/commit/39be97a15ee5c58c46707f0ed4452b35ead5de35) | fix(tui): show auto-approve kind in agent metadata | 2026-06-28 12:20:26 |
 
 ## Neighbors
 

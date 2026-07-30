@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8ebf710`](https://github.com/sase-org/sase/commit/8ebf710f4a1a0c13dd23585212c77506eb7881ce) | test: align statistics fixtures and agent snapshots (sase-6w) | 2026-07-19 01:38:14 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8ebf710`](https://github.com/sase-org/sase/commit/8ebf710f4a1a0c13dd23585212c77506eb7881ce) | test: align statistics fixtures and agent snapshots (sase-6w) | 2026-07-19 01:38:14 |
 
 ## Neighbors
 

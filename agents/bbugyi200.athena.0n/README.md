@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`40c594f`](https://github.com/sase-org/sase/commit/40c594fd8f77a9bb23cd732abc0393376262b0e6) | chore: Add SDD prompt and plan for tui\_toasts\_log\_source | 2026-07-07 17:47:10 |
-| [`de0130a`](https://github.com/sase-org/sase/commit/de0130a8d688eb2ec9d41dd1b8fb2c38ebc9f064) | feat(tui): persist toast notifications in logs pane | 2026-07-07 18:07:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`40c594f`](https://github.com/sase-org/sase/commit/40c594fd8f77a9bb23cd732abc0393376262b0e6) | chore: Add SDD prompt and plan for tui\_toasts\_log\_source | 2026-07-07 17:47:10 |
+| sase | [`de0130a`](https://github.com/sase-org/sase/commit/de0130a8d688eb2ec9d41dd1b8fb2c38ebc9f064) | feat(tui): persist toast notifications in logs pane | 2026-07-07 18:07:29 |

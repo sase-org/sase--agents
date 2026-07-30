@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0bfd0c8`](https://github.com/sase-org/sase/commit/0bfd0c84ee98045cea5b1647c11869c0cc5fa1a2) | docs: consolidate epic bead work PR migration research | 2026-06-25 23:04:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0bfd0c8`](https://github.com/sase-org/sase/commit/0bfd0c84ee98045cea5b1647c11869c0cc5fa1a2) | docs: consolidate epic bead work PR migration research | 2026-06-25 23:04:45 |
 
 ## Neighbors
 

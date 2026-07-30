@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`97c0bf6`](https://github.com/sase-org/sase/commit/97c0bf6ad22fa5eec06705bfc9d533525d299cc8) | docs: define agent house in glossary | 2026-07-18 22:55:10 |
-| [`8970fba`](https://github.com/sase-org/sase/commit/8970fbaab7987f1ad1330844f4fb1fa39496fa88) | revert: undo stale memory initialization output | 2026-07-18 23:40:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`97c0bf6`](https://github.com/sase-org/sase/commit/97c0bf6ad22fa5eec06705bfc9d533525d299cc8) | docs: define agent house in glossary | 2026-07-18 22:55:10 |
+| sase | [`8970fba`](https://github.com/sase-org/sase/commit/8970fbaab7987f1ad1330844f4fb1fa39496fa88) | revert: undo stale memory initialization output | 2026-07-18 23:40:20 |

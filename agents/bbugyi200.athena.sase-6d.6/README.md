@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8985b05`](https://github.com/sase-org/sase/commit/8985b05247d25a5994685c956868e28d12468271) | fix: isolate nested external repository identity (sase-6d.6) | 2026-07-16 18:23:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8985b05`](https://github.com/sase-org/sase/commit/8985b05247d25a5994685c956868e28d12468271) | fix: isolate nested external repository identity (sase-6d.6) | 2026-07-16 18:23:46 |
 
 ## Neighbors
 

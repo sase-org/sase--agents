@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`cfbac39`](https://github.com/sase-org/sase/commit/cfbac3928a5039a06090e7e4cdf5ce2ef47ee862) | fix: make approved plan linking atomic | 2026-07-27 19:54:21 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`cfbac39`](https://github.com/sase-org/sase/commit/cfbac3928a5039a06090e7e4cdf5ce2ef47ee862) | fix: make approved plan linking atomic | 2026-07-27 19:54:21 |

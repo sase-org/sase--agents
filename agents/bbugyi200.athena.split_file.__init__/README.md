@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`32f48c9`](https://github.com/sase-org/sase/commit/32f48c945510cf22cd491f5fe6de3035d8e76f42) | refactor(tui): split file panel widget modules | 2026-06-29 14:39:04 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`32f48c9`](https://github.com/sase-org/sase/commit/32f48c945510cf22cd491f5fe6de3035d8e76f42) | refactor(tui): split file panel widget modules | 2026-06-29 14:39:04 |
 
 ## Neighbors
 

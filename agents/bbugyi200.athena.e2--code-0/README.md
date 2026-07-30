@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8970fba`](https://github.com/sase-org/sase/commit/8970fbaab7987f1ad1330844f4fb1fa39496fa88) | revert: undo stale memory initialization output | 2026-07-18 23:40:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8970fba`](https://github.com/sase-org/sase/commit/8970fbaab7987f1ad1330844f4fb1fa39496fa88) | revert: undo stale memory initialization output | 2026-07-18 23:40:20 |

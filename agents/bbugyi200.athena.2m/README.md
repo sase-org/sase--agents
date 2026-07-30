@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9cffb61`](https://github.com/sase-org/sase/commit/9cffb61f4dcd7f817b71ef1d1a7f735039d770e1) | feat(agent): attach family members to in-batch parents | 2026-07-08 19:05:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9cffb61`](https://github.com/sase-org/sase/commit/9cffb61f4dcd7f817b71ef1d1a7f735039d770e1) | feat(agent): attach family members to in-batch parents | 2026-07-08 19:05:37 |

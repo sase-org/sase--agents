@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bfe4cc2`](https://github.com/sase-org/sase/commit/bfe4cc29893c86e3a4a4efd661352be862fa7afd) | feat: add typed plan-chain handoff evaluator (sase-5g.3) | 2026-07-06 09:26:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`bfe4cc2`](https://github.com/sase-org/sase/commit/bfe4cc29893c86e3a4a4efd661352be862fa7afd) | feat: add typed plan-chain handoff evaluator (sase-5g.3) | 2026-07-06 09:26:39 |
 
 ## Neighbors
 

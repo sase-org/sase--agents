@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5876514`](https://github.com/sase-org/sase/commit/58765147ac29d0c0ad7f000f740233def8f5c926) | test(ace): add Chats visual snapshots (sase-90.8) | 2026-07-25 01:41:15 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5876514`](https://github.com/sase-org/sase/commit/58765147ac29d0c0ad7f000f740233def8f5c926) | test(ace): add Chats visual snapshots (sase-90.8) | 2026-07-25 01:41:15 |
 
 ## Neighbors
 

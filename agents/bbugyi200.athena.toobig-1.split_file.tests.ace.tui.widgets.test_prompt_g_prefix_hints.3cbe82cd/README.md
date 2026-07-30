@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a51da86`](https://github.com/sase-org/sase/commit/a51da867f58e542fc79d71f7b590cfc2565e0022) | test: split prompt g-prefix hint tests | 2026-07-20 04:09:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a51da86`](https://github.com/sase-org/sase/commit/a51da867f58e542fc79d71f7b590cfc2565e0022) | test: split prompt g-prefix hint tests | 2026-07-20 04:09:56 |
 
 ## Neighbors
 

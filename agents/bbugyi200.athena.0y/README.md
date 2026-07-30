@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a1b6b59`](https://github.com/sase-org/sase/commit/a1b6b5905d98160315ebaf9b1479b69c8a25e1b9) | chore: create VCS ref completion epic beads | 2026-07-07 20:20:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a1b6b59`](https://github.com/sase-org/sase/commit/a1b6b5905d98160315ebaf9b1479b69c8a25e1b9) | chore: create VCS ref completion epic beads | 2026-07-07 20:20:51 |

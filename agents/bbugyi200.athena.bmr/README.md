@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`65b3c1e`](https://github.com/sase-org/sase/commit/65b3c1e832aa5887a32480bd73f35a0a5745f24f) | chore: Add SDD prompt and plan for xprompt\_lsp\_description\_warning | 2026-05-28 11:33:28 |
-| [`c69b200`](https://github.com/sase-org/sase/commit/c69b2007406a09cc0dd9fed8f724f0028b21c874) | fix: prefer sibling xprompt LSP source | 2026-05-28 11:42:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`65b3c1e`](https://github.com/sase-org/sase/commit/65b3c1e832aa5887a32480bd73f35a0a5745f24f) | chore: Add SDD prompt and plan for xprompt\_lsp\_description\_warning | 2026-05-28 11:33:28 |
+| sase | [`c69b200`](https://github.com/sase-org/sase/commit/c69b2007406a09cc0dd9fed8f724f0028b21c874) | fix: prefer sibling xprompt LSP source | 2026-05-28 11:42:58 |
 
 ## Neighbors
 

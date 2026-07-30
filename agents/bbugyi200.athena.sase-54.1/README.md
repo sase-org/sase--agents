@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8b1b5b9`](https://github.com/sase-org/sase/commit/8b1b5b9abb7da79997fd3da384a5d4d21d4e5ed7) | chore(beads): close sase-54.1 phase 1 rust config backend | 2026-06-23 13:17:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8b1b5b9`](https://github.com/sase-org/sase/commit/8b1b5b9abb7da79997fd3da384a5d4d21d4e5ed7) | chore(beads): close sase-54.1 phase 1 rust config backend | 2026-06-23 13:17:06 |
 
 ## Neighbors
 

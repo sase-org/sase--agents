@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4f76c7b`](https://github.com/sase-org/sase/commit/4f76c7b033113c69535f3643d54c82e642d6adbb) | chore: consolidate dev-version update docs (sase-5c.5) | 2026-06-27 21:11:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4f76c7b`](https://github.com/sase-org/sase/commit/4f76c7b033113c69535f3643d54c82e642d6adbb) | chore: consolidate dev-version update docs (sase-5c.5) | 2026-06-27 21:11:57 |
 
 ## Neighbors
 

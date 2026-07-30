@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2110954`](https://github.com/sase-org/sase/commit/2110954eb1d6833a03228298d5716681d484980a) | feat(tui): show tribe panel entry target | 2026-07-29 11:19:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2110954`](https://github.com/sase-org/sase/commit/2110954eb1d6833a03228298d5716681d484980a) | feat(tui): show tribe panel entry target | 2026-07-29 11:19:24 |

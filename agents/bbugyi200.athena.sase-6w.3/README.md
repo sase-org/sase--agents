@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3877dce`](https://github.com/sase-org/sase/commit/3877dcedee60955cbef1467f925a4018828d2114) | feat(tui): add numbered member jump navigation (sase-6w.3) | 2026-07-18 23:58:14 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3877dce`](https://github.com/sase-org/sase/commit/3877dcedee60955cbef1467f925a4018828d2114) | feat(tui): add numbered member jump navigation (sase-6w.3) | 2026-07-18 23:58:14 |
 
 ## Neighbors
 

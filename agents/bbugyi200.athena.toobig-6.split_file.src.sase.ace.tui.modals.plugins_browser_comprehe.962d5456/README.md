@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a1ebb55`](https://github.com/sase-org/sase/commit/a1ebb55c4e96b0564b3061142a09f872252aeac6) | refactor(ace): split comprehensive update modal | 2026-07-20 20:11:14 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a1ebb55`](https://github.com/sase-org/sase/commit/a1ebb55c4e96b0564b3061142a09f872252aeac6) | refactor(ace): split comprehensive update modal | 2026-07-20 20:11:14 |
 
 ## Neighbors
 

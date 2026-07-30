@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`bd7f969`](https://github.com/sase-org/sase/commit/bd7f969711101f08a5867fa6821933f29f4f5f2b) | fix(sdd): expose the shared lock retry schedule (sase-77) | 2026-07-19 17:16:40 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`bd7f969`](https://github.com/sase-org/sase/commit/bd7f969711101f08a5867fa6821933f29f4f5f2b) | fix(sdd): expose the shared lock retry schedule (sase-77) | 2026-07-19 17:16:40 |
 
 ## Neighbors
 

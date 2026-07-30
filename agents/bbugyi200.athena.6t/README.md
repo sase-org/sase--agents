@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`094b828`](https://github.com/sase-org/sase/commit/094b82885a33acb8d95ed1d5df831e4fa7cb84c4) | chore: Add SDD prompt and plan for prompt\_command | 2026-06-13 18:25:08 |
-| [`076e3bd`](https://github.com/sase-org/sase/commit/076e3bd622a9dbcc2d4ed93ecafc092010a26bec) | chore: Create epic and phase beads for prompt\_command plan | 2026-06-13 18:32:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`094b828`](https://github.com/sase-org/sase/commit/094b82885a33acb8d95ed1d5df831e4fa7cb84c4) | chore: Add SDD prompt and plan for prompt\_command | 2026-06-13 18:25:08 |
+| sase | [`076e3bd`](https://github.com/sase-org/sase/commit/076e3bd622a9dbcc2d4ed93ecafc092010a26bec) | chore: Create epic and phase beads for prompt\_command plan | 2026-06-13 18:32:23 |

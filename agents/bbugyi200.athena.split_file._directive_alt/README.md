@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1fbf80a`](https://github.com/sase-org/sase/commit/1fbf80a07cfc9cd1ff184ff7079a9fd298c1852a) | refactor(xprompt): split alt fanout naming helpers | 2026-06-30 13:35:14 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1fbf80a`](https://github.com/sase-org/sase/commit/1fbf80a07cfc9cd1ff184ff7079a9fd298c1852a) | refactor(xprompt): split alt fanout naming helpers | 2026-06-30 13:35:14 |
 
 ## Neighbors
 

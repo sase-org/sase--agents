@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d8cdb86`](https://github.com/sase-org/sase/commit/d8cdb866d6fd6f8ee9a24923a79145dbb949b2f9) | ref: split prompt text area mixins | 2026-05-29 03:40:16 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d8cdb86`](https://github.com/sase-org/sase/commit/d8cdb866d6fd6f8ee9a24923a79145dbb949b2f9) | ref: split prompt text area mixins | 2026-05-29 03:40:16 |
 
 ## Neighbors
 

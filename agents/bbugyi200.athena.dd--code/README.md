@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6fd595d`](https://github.com/sase-org/sase/commit/6fd595daac75ab88e60d84a041a3c8c52fb43f43) | feat(ace): label primary gate footer action | 2026-07-18 14:32:59 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6fd595d`](https://github.com/sase-org/sase/commit/6fd595daac75ab88e60d84a041a3c8c52fb43f43) | feat(ace): label primary gate footer action | 2026-07-18 14:32:59 |
 
 ## Neighbors
 

@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`78c7374`](https://github.com/sase-org/sase/commit/78c73749b7ee21f9ec6b2c6b614cd1929514e7fa) | chore: Add SDD prompt and plan for prompt\_pyvision\_cleanup | 2026-06-13 20:34:37 |
-| [`4537b70`](https://github.com/sase-org/sase/commit/4537b7024e60dad2f8e19fa713a6d1c4b1af7709) | refactor(history): trim prompt facade to public surface for pyvision | 2026-06-13 21:00:36 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`78c7374`](https://github.com/sase-org/sase/commit/78c73749b7ee21f9ec6b2c6b614cd1929514e7fa) | chore: Add SDD prompt and plan for prompt\_pyvision\_cleanup | 2026-06-13 20:34:37 |
+| sase | [`4537b70`](https://github.com/sase-org/sase/commit/4537b7024e60dad2f8e19fa713a6d1c4b1af7709) | refactor(history): trim prompt facade to public surface for pyvision | 2026-06-13 21:00:36 |

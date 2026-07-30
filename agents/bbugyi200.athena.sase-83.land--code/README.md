@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1227d91`](https://github.com/sase-org/sase/commit/1227d918817639a90a291c953cc6da21e3ea3f72) | test: restore review-runner environment isolation (sase-83) | 2026-07-20 17:40:28 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1227d91`](https://github.com/sase-org/sase/commit/1227d918817639a90a291c953cc6da21e3ea3f72) | test: restore review-runner environment isolation (sase-83) | 2026-07-20 17:40:28 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0276a7d`](https://github.com/sase-org/sase/commit/0276a7d04d84813eb6ec5079871f8ac96f4eb0a5) | test: split init memory handler tests | 2026-06-26 22:45:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0276a7d`](https://github.com/sase-org/sase/commit/0276a7d04d84813eb6ec5079871f8ac96f4eb0a5) | test: split init memory handler tests | 2026-06-26 22:45:38 |
 
 ## Neighbors
 

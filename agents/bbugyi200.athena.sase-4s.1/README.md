@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`94ac293`](https://github.com/sase-org/sase/commit/94ac2932744b98be65555ff9e6aa0db93316f1b5) | feat(tui): build prompt \`g\` prefix foundation and remove comma leader (sase-4s.1) | 2026-06-17 18:29:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`94ac293`](https://github.com/sase-org/sase/commit/94ac2932744b98be65555ff9e6aa0db93316f1b5) | feat(tui): build prompt \`g\` prefix foundation and remove comma leader (sase-4s.1) | 2026-06-17 18:29:44 |
 
 ## Neighbors
 

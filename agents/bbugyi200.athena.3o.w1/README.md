@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4330f6f`](https://github.com/sase-org/sase/commit/4330f6f2c92357d3204b930ba334003e4b386bae) | fix(tui): hide commit message bookkeeping deltas | 2026-07-09 17:35:26 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4330f6f`](https://github.com/sase-org/sase/commit/4330f6f2c92357d3204b930ba334003e4b386bae) | fix(tui): hide commit message bookkeeping deltas | 2026-07-09 17:35:26 |
 
 ## Neighbors
 

@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ab0a48c`](https://github.com/sase-org/sase/commit/ab0a48c0b963fc0529647795552e16a3de721a60) | chore: Add SDD prompt and plan for fix\_ctrl\_n\_vcs\_mru\_cycling | 2026-06-22 12:12:23 |
-| [`1dd07e9`](https://github.com/sase-org/sase/commit/1dd07e9fe4f259bb7fbae2966b2270a0df9377e3) | fix(ace): restore bidirectional Ctrl+N VCS MRU cycling | 2026-06-22 12:22:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ab0a48c`](https://github.com/sase-org/sase/commit/ab0a48c0b963fc0529647795552e16a3de721a60) | chore: Add SDD prompt and plan for fix\_ctrl\_n\_vcs\_mru\_cycling | 2026-06-22 12:12:23 |
+| sase | [`1dd07e9`](https://github.com/sase-org/sase/commit/1dd07e9fe4f259bb7fbae2966b2270a0df9377e3) | fix(ace): restore bidirectional Ctrl+N VCS MRU cycling | 2026-06-22 12:22:32 |

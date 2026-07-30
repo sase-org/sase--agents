@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cbc7b94`](https://github.com/sase-org/sase/commit/cbc7b94de633fcd5a98b1b878a2368c5f424d488) | chore: Add SDD prompt and plan for selective\_artifact\_dirty\_routing | 2026-05-28 18:31:04 |
-| [`f41cfe0`](https://github.com/sase-org/sase/commit/f41cfe094869ffd1275f2c0a5b613a52b3b4b79a) | fix: filter artifact refresh routing | 2026-05-28 18:38:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cbc7b94`](https://github.com/sase-org/sase/commit/cbc7b94de633fcd5a98b1b878a2368c5f424d488) | chore: Add SDD prompt and plan for selective\_artifact\_dirty\_routing | 2026-05-28 18:31:04 |
+| sase | [`f41cfe0`](https://github.com/sase-org/sase/commit/f41cfe094869ffd1275f2c0a5b613a52b3b4b79a) | fix: filter artifact refresh routing | 2026-05-28 18:38:07 |

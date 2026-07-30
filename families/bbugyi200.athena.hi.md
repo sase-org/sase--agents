@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`6307a3f`](https://github.com/sase-org/sase/commit/6307a3fc3bc4b4b832ce8152e44fa70d2e382e25) | fix: suppress completion bell during handoffs | 2026-07-21 20:38:35 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`6307a3f`](https://github.com/sase-org/sase/commit/6307a3fc3bc4b4b832ce8152e44fa70d2e382e25) | fix: suppress completion bell during handoffs | 2026-07-21 20:38:35 |

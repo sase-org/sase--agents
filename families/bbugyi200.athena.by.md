@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`c9c8131`](https://github.com/sase-org/sase/commit/c9c81317859bd220dc6839167d0dfd62b71e7dfe) | feat(plan): guide phase description authoring | 2026-07-17 15:07:22 |
-| root | [`c9c8131`](https://github.com/sase-org/sase/commit/c9c81317859bd220dc6839167d0dfd62b71e7dfe) | feat(plan): guide phase description authoring | 2026-07-17 15:07:22 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`c9c8131`](https://github.com/sase-org/sase/commit/c9c81317859bd220dc6839167d0dfd62b71e7dfe) | feat(plan): guide phase description authoring | 2026-07-17 15:07:22 |
+| root | sase | [`c9c8131`](https://github.com/sase-org/sase/commit/c9c81317859bd220dc6839167d0dfd62b71e7dfe) | feat(plan): guide phase description authoring | 2026-07-17 15:07:22 |

@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`a9065c2`](https://github.com/sase-org/sase/commit/a9065c25eaaf49de3ad5f5b45bc46237e9db11d7) | docs: document clan-scoped agent cleanup (sase-74) | 2026-07-19 14:17:05 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`a9065c2`](https://github.com/sase-org/sase/commit/a9065c25eaaf49de3ad5f5b45bc46237e9db11d7) | docs: document clan-scoped agent cleanup (sase-74) | 2026-07-19 14:17:05 |
 
 ## Neighbors
 

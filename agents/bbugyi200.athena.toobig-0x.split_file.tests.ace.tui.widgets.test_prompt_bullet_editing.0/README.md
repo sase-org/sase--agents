@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c6de1f3`](https://github.com/sase-org/sase/commit/c6de1f3e316bd2d4602b38c7ef8c416eb79e111d) | test: split prompt bullet editing coverage | 2026-07-29 13:16:15 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c6de1f3`](https://github.com/sase-org/sase/commit/c6de1f3e316bd2d4602b38c7ef8c416eb79e111d) | test: split prompt bullet editing coverage | 2026-07-29 13:16:15 |

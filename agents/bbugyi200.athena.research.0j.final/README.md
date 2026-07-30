@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`65923e2`](https://github.com/sase-org/sase/commit/65923e2bd5f6833dfa0ecf820ad313e11cf9234c) | docs: consolidate curl installer research | 2026-06-25 22:52:19 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`65923e2`](https://github.com/sase-org/sase/commit/65923e2bd5f6833dfa0ecf820ad313e11cf9234c) | docs: consolidate curl installer research | 2026-06-25 22:52:19 |
 
 ## Neighbors
 

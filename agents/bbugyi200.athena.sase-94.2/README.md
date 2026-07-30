@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`42b9316`](https://github.com/sase-org/sase/commit/42b93168e5d1bec586d9487b0c16adff7ff3994d) | fix: persist waiting bead claims through shutdown (sase-94.2) | 2026-07-25 12:58:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`42b9316`](https://github.com/sase-org/sase/commit/42b93168e5d1bec586d9487b0c16adff7ff3994d) | fix: persist waiting bead claims through shutdown (sase-94.2) | 2026-07-25 12:58:25 |
 
 ## Neighbors
 

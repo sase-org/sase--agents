@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`14b70ab`](https://github.com/sase-org/sase/commit/14b70ab944814db6492d80ae11d97ebc7ea51d78) | chore: Add SDD prompt and plan for disabled\_region\_jinja\_inert | 2026-06-24 15:06:38 |
-| [`3b17ee3`](https://github.com/sase-org/sase/commit/3b17ee3afb4204973cad51a6ba0bbf964a943c6c) | fix: treat disabled xprompt regions as inert Jinja | 2026-06-24 15:20:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`14b70ab`](https://github.com/sase-org/sase/commit/14b70ab944814db6492d80ae11d97ebc7ea51d78) | chore: Add SDD prompt and plan for disabled\_region\_jinja\_inert | 2026-06-24 15:06:38 |
+| sase | [`3b17ee3`](https://github.com/sase-org/sase/commit/3b17ee3afb4204973cad51a6ba0bbf964a943c6c) | fix: treat disabled xprompt regions as inert Jinja | 2026-06-24 15:20:48 |

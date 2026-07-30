@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`17fc09c`](https://github.com/sase-org/sase/commit/17fc09cdc0124036ed3b301bcb2031a2df11392b) | build(deps): require sase-core-rs\>=0.12.9 for the chop report wire | 2026-07-29 15:42:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`17fc09c`](https://github.com/sase-org/sase/commit/17fc09cdc0124036ed3b301bcb2031a2df11392b) | build(deps): require sase-core-rs\>=0.12.9 for the chop report wire | 2026-07-29 15:42:39 |
 
 ## Neighbors
 

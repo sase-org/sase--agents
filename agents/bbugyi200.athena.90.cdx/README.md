@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3cfcb83`](https://github.com/sase-org/sase/commit/3cfcb83fe39ed63749df431cc208b9167aef7dc1) | chore: Add SDD prompt and plan for bead\_work\_launch\_fast\_path | 2026-06-16 18:00:35 |
-| [`4be6f73`](https://github.com/sase-org/sase/commit/4be6f73525d9c923d5f215a1fac40af4f6efc4d8) | perf(bead): speed up \`sase bead work\` launch path | 2026-06-16 18:31:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3cfcb83`](https://github.com/sase-org/sase/commit/3cfcb83fe39ed63749df431cc208b9167aef7dc1) | chore: Add SDD prompt and plan for bead\_work\_launch\_fast\_path | 2026-06-16 18:00:35 |
+| sase | [`4be6f73`](https://github.com/sase-org/sase/commit/4be6f73525d9c923d5f215a1fac40af4f6efc4d8) | perf(bead): speed up \`sase bead work\` launch path | 2026-06-16 18:31:27 |
 
 ## Neighbors
 

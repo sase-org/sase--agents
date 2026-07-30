@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3a570cb`](https://github.com/sase-org/sase/commit/3a570cb6cba177997f9c78ae2b44351ccd6f7bf6) | refactor(ace): split commits pane responsibilities | 2026-07-19 05:38:33 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3a570cb`](https://github.com/sase-org/sase/commit/3a570cb6cba177997f9c78ae2b44351ccd6f7bf6) | refactor(ace): split commits pane responsibilities | 2026-07-19 05:38:33 |
 
 ## Neighbors
 

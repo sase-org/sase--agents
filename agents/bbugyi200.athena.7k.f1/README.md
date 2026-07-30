@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0bf7f95`](https://github.com/sase-org/sase/commit/0bf7f954e82613146b17229706dc7581b2184313) | chore: Add SDD prompt and plan for stopped\_status\_highlighting | 2026-06-14 22:36:42 |
-| [`4aa31d8`](https://github.com/sase-org/sase/commit/4aa31d8959a3afb6a07b619612bec96ec7a7f885) | feat(ace): highlight stopped agent status | 2026-06-14 23:01:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0bf7f95`](https://github.com/sase-org/sase/commit/0bf7f954e82613146b17229706dc7581b2184313) | chore: Add SDD prompt and plan for stopped\_status\_highlighting | 2026-06-14 22:36:42 |
+| sase | [`4aa31d8`](https://github.com/sase-org/sase/commit/4aa31d8959a3afb6a07b619612bec96ec7a7f885) | feat(ace): highlight stopped agent status | 2026-06-14 23:01:07 |
 
 ## Neighbors
 

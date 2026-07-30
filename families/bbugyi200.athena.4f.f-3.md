@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`d0c4f88`](https://github.com/sase-org/sase/commit/d0c4f8838b3e7a1cbdfde32230d5c04170dd3e71) | fix(vcs): exclude phantom repositories from global inventory | 2026-07-10 17:09:28 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`d0c4f88`](https://github.com/sase-org/sase/commit/d0c4f8838b3e7a1cbdfde32230d5c04170dd3e71) | fix(vcs): exclude phantom repositories from global inventory | 2026-07-10 17:09:28 |
 
 ## Neighbors
 

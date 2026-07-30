@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`88c3d68`](https://github.com/sase-org/sase/commit/88c3d68c6a7f1804e424d9dc83a3a81bd6517ffc) | docs(research): evaluate curl install.sh bootstrap script | 2026-06-25 22:34:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`88c3d68`](https://github.com/sase-org/sase/commit/88c3d68c6a7f1804e424d9dc83a3a81bd6517ffc) | docs(research): evaluate curl install.sh bootstrap script | 2026-06-25 22:34:41 |
 
 ## Neighbors
 

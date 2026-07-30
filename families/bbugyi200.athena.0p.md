@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`2cc38ed`](https://github.com/sase-org/sase/commit/2cc38ed789d16a7279f9925a3b1137189b89d957) | chore: Add SDD prompt and plan for output\_var\_digit\_namespaces | 2026-06-03 03:12:48 |
-| root | [`49dcdcb`](https://github.com/sase-org/sase/commit/49dcdcb4a95d64d82e481fe9e611fa8d54c76ec2) | fix: normalize digit-leading output variable namespaces | 2026-06-03 03:21:26 |
-| root | [`987b2dd`](https://github.com/sase-org/sase/commit/987b2dd4c63019f835501163cd6c52618ace5800) | chore: Add SDD prompt and plan for xprompt\_lsp\_update\_reconcile | 2026-07-07 18:06:47 |
-| code | [`af1ff13`](https://github.com/sase-org/sase/commit/af1ff138ccb8d12add5eecb908cd2c0411b84a22) | feat: manage xprompt LSP installs during dev updates | 2026-07-07 18:21:44 |
-| root | [`af1ff13`](https://github.com/sase-org/sase/commit/af1ff138ccb8d12add5eecb908cd2c0411b84a22) | feat: manage xprompt LSP installs during dev updates | 2026-07-07 18:21:44 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`2cc38ed`](https://github.com/sase-org/sase/commit/2cc38ed789d16a7279f9925a3b1137189b89d957) | chore: Add SDD prompt and plan for output\_var\_digit\_namespaces | 2026-06-03 03:12:48 |
+| root | sase | [`49dcdcb`](https://github.com/sase-org/sase/commit/49dcdcb4a95d64d82e481fe9e611fa8d54c76ec2) | fix: normalize digit-leading output variable namespaces | 2026-06-03 03:21:26 |
+| root | sase | [`987b2dd`](https://github.com/sase-org/sase/commit/987b2dd4c63019f835501163cd6c52618ace5800) | chore: Add SDD prompt and plan for xprompt\_lsp\_update\_reconcile | 2026-07-07 18:06:47 |
+| code | sase | [`af1ff13`](https://github.com/sase-org/sase/commit/af1ff138ccb8d12add5eecb908cd2c0411b84a22) | feat: manage xprompt LSP installs during dev updates | 2026-07-07 18:21:44 |
+| root | sase | [`af1ff13`](https://github.com/sase-org/sase/commit/af1ff138ccb8d12add5eecb908cd2c0411b84a22) | feat: manage xprompt LSP installs during dev updates | 2026-07-07 18:21:44 |

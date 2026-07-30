@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ac18bd7`](https://github.com/sase-org/sase/commit/ac18bd7fabd444f330504f01d83f54504c5ea586) | docs: research sase-dev parallel installs | 2026-06-25 20:05:43 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ac18bd7`](https://github.com/sase-org/sase/commit/ac18bd7fabd444f330504f01d83f54504c5ea586) | docs: research sase-dev parallel installs | 2026-06-25 20:05:43 |
 
 ## Neighbors
 

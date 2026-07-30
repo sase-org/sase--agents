@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`08915a2`](https://github.com/sase-org/sase/commit/08915a2fbd74449e0f847efc79b23987896deb28) | fix: resolve 11 bugs found auditing recent commits (#170) | 2026-06-12 18:59:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`08915a2`](https://github.com/sase-org/sase/commit/08915a2fbd74449e0f847efc79b23987896deb28) | fix: resolve 11 bugs found auditing recent commits (#170) | 2026-06-12 18:59:37 |
 
 ## Neighbors
 

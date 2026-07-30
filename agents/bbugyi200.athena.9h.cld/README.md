@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7684c5f`](https://github.com/sase-org/sase/commit/7684c5f7d2cf27197508be1c582eb3cb1eebfe6b) | chore: Add SDD prompt and plan for ace\_quit\_hang\_loader\_executor | 2026-06-17 14:57:50 |
-| [`2805071`](https://github.com/sase-org/sase/commit/2805071a9e1fa90cd3ef0205ae9053fa21b26e1c) | fix(ace): cancel loader executor on quit | 2026-06-17 15:07:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7684c5f`](https://github.com/sase-org/sase/commit/7684c5f7d2cf27197508be1c582eb3cb1eebfe6b) | chore: Add SDD prompt and plan for ace\_quit\_hang\_loader\_executor | 2026-06-17 14:57:50 |
+| sase | [`2805071`](https://github.com/sase-org/sase/commit/2805071a9e1fa90cd3ef0205ae9053fa21b26e1c) | fix(ace): cancel loader executor on quit | 2026-06-17 15:07:57 |
 
 ## Neighbors
 

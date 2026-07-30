@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`494d5c5`](https://github.com/sase-org/sase/commit/494d5c5632822b3efd5b3c913907915949d59a59) | feat(ace): add jump hints for collapsed agent panels | 2026-07-16 20:31:15 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`494d5c5`](https://github.com/sase-org/sase/commit/494d5c5632822b3efd5b3c913907915949d59a59) | feat(ace): add jump hints for collapsed agent panels | 2026-07-16 20:31:15 |
 
 ## Neighbors
 

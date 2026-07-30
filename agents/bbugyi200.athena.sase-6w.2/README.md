@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e6d49ae`](https://github.com/sase-org/sase/commit/e6d49ae6a291fa0b8ebbe23e1f1e579f9ddde9f6) | feat(tui): add fold-aware family detail panels (sase-6w.2) | 2026-07-18 22:49:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e6d49ae`](https://github.com/sase-org/sase/commit/e6d49ae6a291fa0b8ebbe23e1f1e579f9ddde9f6) | feat(tui): add fold-aware family detail panels (sase-6w.2) | 2026-07-18 22:49:42 |
 
 ## Neighbors
 

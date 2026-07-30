@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d9bfbf7`](https://github.com/sase-org/sase/commit/d9bfbf76e422fd0c33064a48824a36b6f67cdf63) | chore: Add SDD prompt and plan for log\_skill\_use\_lsp | 2026-06-19 15:28:53 |
-| [`534642d`](https://github.com/sase-org/sase/commit/534642d5a6d704ce8dfcb97f6b1e792bc12523f2) | test(xprompt): cover log\_skill\_use frontmatter validation | 2026-06-19 15:39:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d9bfbf7`](https://github.com/sase-org/sase/commit/d9bfbf76e422fd0c33064a48824a36b6f67cdf63) | chore: Add SDD prompt and plan for log\_skill\_use\_lsp | 2026-06-19 15:28:53 |
+| sase | [`534642d`](https://github.com/sase-org/sase/commit/534642d5a6d704ce8dfcb97f6b1e792bc12523f2) | test(xprompt): cover log\_skill\_use frontmatter validation | 2026-06-19 15:39:02 |

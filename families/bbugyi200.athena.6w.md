@@ -22,8 +22,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`a7b86be`](https://github.com/sase-org/sase/commit/a7b86be68ee1dc4d9ee8804ee0c32bf928f8e387) | chore: Add SDD prompt and plan for hello\_sase\_blog\_nav | 2026-06-13 20:10:45 |
-| root | [`db1043b`](https://github.com/sase-org/sase/commit/db1043bec5f4b2036e990133574c38afc2ad3d5b) | docs(nav): move \[01\] Hello, SASE post under Blog section | 2026-06-13 20:18:50 |
-| root | [`f115c3c`](https://github.com/sase-org/sase/commit/f115c3c5babe3c4f40c742092c9f532bb1fd2b81) | feat(ace)!: remove file panel trimming | 2026-07-12 17:20:47 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`a7b86be`](https://github.com/sase-org/sase/commit/a7b86be68ee1dc4d9ee8804ee0c32bf928f8e387) | chore: Add SDD prompt and plan for hello\_sase\_blog\_nav | 2026-06-13 20:10:45 |
+| root | sase | [`db1043b`](https://github.com/sase-org/sase/commit/db1043bec5f4b2036e990133574c38afc2ad3d5b) | docs(nav): move \[01\] Hello, SASE post under Blog section | 2026-06-13 20:18:50 |
+| root | sase | [`f115c3c`](https://github.com/sase-org/sase/commit/f115c3c5babe3c4f40c742092c9f532bb1fd2b81) | feat(ace)!: remove file panel trimming | 2026-07-12 17:20:47 |

@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`702b82f`](https://github.com/sase-org/sase/commit/702b82f3d5c3a0e5d05ce3420b6a620042b4dddb) | chore: Add SDD prompt and plan for log\_panel\_g\_scroll | 2026-06-20 23:00:09 |
-| [`de38910`](https://github.com/sase-org/sase/commit/de389106dfc2b89519b96431532a39b474785b22) | feat(tui): add g/G top-bottom scrolling to ACE Logs panel | 2026-06-20 23:07:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`702b82f`](https://github.com/sase-org/sase/commit/702b82f3d5c3a0e5d05ce3420b6a620042b4dddb) | chore: Add SDD prompt and plan for log\_panel\_g\_scroll | 2026-06-20 23:00:09 |
+| sase | [`de38910`](https://github.com/sase-org/sase/commit/de389106dfc2b89519b96431532a39b474785b22) | feat(tui): add g/G top-bottom scrolling to ACE Logs panel | 2026-06-20 23:07:06 |

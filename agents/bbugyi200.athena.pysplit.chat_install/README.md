@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`faf2576`](https://github.com/sase-org/sase/commit/faf25768cd98818c9ae69d17677ee265f9c7a058) | ref: split chat install integration modules | 2026-05-27 19:43:19 |
-| [`f87bdab`](https://github.com/sase-org/sase/commit/f87bdab6ee9f2022b508222f9d2910833662e573) | ref: align chat install split with facade patch points | 2026-05-27 19:47:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`faf2576`](https://github.com/sase-org/sase/commit/faf25768cd98818c9ae69d17677ee265f9c7a058) | ref: split chat install integration modules | 2026-05-27 19:43:19 |
+| sase | [`f87bdab`](https://github.com/sase-org/sase/commit/f87bdab6ee9f2022b508222f9d2910833662e573) | ref: align chat install split with facade patch points | 2026-05-27 19:47:25 |
 
 ## Neighbors
 

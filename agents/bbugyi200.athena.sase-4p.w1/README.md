@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`eab469d`](https://github.com/sase-org/sase/commit/eab469d80302ac7479f31185314f567c9b52bac1) | chore: Add SDD prompt and plan for prompt\_stack\_visual\_polish | 2026-06-16 00:52:37 |
-| [`bf87804`](https://github.com/sase-org/sase/commit/bf878045b9701e5fc53ee16faa46854abb0cc96b) | feat(tui): polish prompt stack presentation | 2026-06-16 01:05:12 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`eab469d`](https://github.com/sase-org/sase/commit/eab469d80302ac7479f31185314f567c9b52bac1) | chore: Add SDD prompt and plan for prompt\_stack\_visual\_polish | 2026-06-16 00:52:37 |
+| sase | [`bf87804`](https://github.com/sase-org/sase/commit/bf878045b9701e5fc53ee16faa46854abb0cc96b) | feat(tui): polish prompt stack presentation | 2026-06-16 01:05:12 |
 
 ## Neighbors
 

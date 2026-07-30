@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`8e7851e`](https://github.com/sase-org/sase/commit/8e7851edeb78730fceabd9adfe2ee0b9d1f56ee3) | feat: add clickable SDD frontmatter links | 2026-07-21 13:24:09 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`8e7851e`](https://github.com/sase-org/sase/commit/8e7851edeb78730fceabd9adfe2ee0b9d1f56ee3) | feat: add clickable SDD frontmatter links | 2026-07-21 13:24:09 |
 
 ## Neighbors
 

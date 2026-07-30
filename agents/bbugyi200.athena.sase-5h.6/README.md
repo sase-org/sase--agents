@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`852c622`](https://github.com/sase-org/sase/commit/852c622c1f1efc2948436a122a82f82c70ac5b04) | docs: document VCS repository completion (sase-5h.6) | 2026-07-07 19:06:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`852c622`](https://github.com/sase-org/sase/commit/852c622c1f1efc2948436a122a82f82c70ac5b04) | docs: document VCS repository completion (sase-5h.6) | 2026-07-07 19:06:13 |
 
 ## Neighbors
 

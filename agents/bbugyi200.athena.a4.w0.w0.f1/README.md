@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`42cadf4`](https://github.com/sase-org/sase/commit/42cadf45175e65694650cbd03f010fa5bd20eae1) | feat(tui): underline available plan titles | 2026-07-16 12:23:43 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`42cadf4`](https://github.com/sase-org/sase/commit/42cadf45175e65694650cbd03f010fa5bd20eae1) | feat(tui): underline available plan titles | 2026-07-16 12:23:43 |
 
 ## Neighbors
 

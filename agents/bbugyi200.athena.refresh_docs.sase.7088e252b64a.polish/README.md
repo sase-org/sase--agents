@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`942a205`](https://github.com/sase-org/sase/commit/942a20549829b3fbcc9dd4f899e3393e7f909a28) | chore: clarify generated skills docs | 2026-05-27 00:14:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`942a205`](https://github.com/sase-org/sase/commit/942a20549829b3fbcc9dd4f899e3393e7f909a28) | chore: clarify generated skills docs | 2026-05-27 00:14:06 |
 
 ## Neighbors
 

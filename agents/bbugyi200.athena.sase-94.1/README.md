@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a8b63c2`](https://github.com/sase-org/sase/commit/a8b63c27f0fb89b04f4bd214b556685925bd39f4) | fix(beads): recover waiting claims after publication lag (sase-94.1) | 2026-07-25 12:14:12 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a8b63c2`](https://github.com/sase-org/sase/commit/a8b63c27f0fb89b04f4bd214b556685925bd39f4) | fix(beads): recover waiting claims after publication lag (sase-94.1) | 2026-07-25 12:14:12 |
 
 ## Neighbors
 

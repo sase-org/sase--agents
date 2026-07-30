@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9b3074c`](https://github.com/sase-org/sase/commit/9b3074c66cafe32b21f392a3af7f9c6392652d95) | feat(ace): add collapsible AXE description panel (sase-9w.3) | 2026-07-26 21:46:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9b3074c`](https://github.com/sase-org/sase/commit/9b3074c66cafe32b21f392a3af7f9c6392652d95) | feat(ace): add collapsible AXE description panel (sase-9w.3) | 2026-07-26 21:46:39 |
 
 ## Neighbors
 

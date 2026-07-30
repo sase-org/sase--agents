@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ff7ed06`](https://github.com/sase-org/sase/commit/ff7ed06066c32d0e90abfc0667543c5da7c3f5bd) | docs: Add research on tools panel support for anti-gravity provider | 2026-06-20 13:30:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ff7ed06`](https://github.com/sase-org/sase/commit/ff7ed06066c32d0e90abfc0667543c5da7c3f5bd) | docs: Add research on tools panel support for anti-gravity provider | 2026-06-20 13:30:05 |
 
 ## Neighbors
 

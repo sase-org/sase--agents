@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b923ccd`](https://github.com/sase-org/sase/commit/b923ccdc5d23d7c98349c2d2c69fcff2eaa05581) | chore: close sase-4b epic | 2026-06-03 21:01:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b923ccd`](https://github.com/sase-org/sase/commit/b923ccdc5d23d7c98349c2d2c69fcff2eaa05581) | chore: close sase-4b epic | 2026-06-03 21:01:37 |
 
 ## Neighbors
 

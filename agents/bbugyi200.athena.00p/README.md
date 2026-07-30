@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f5b2729`](https://github.com/sase-org/sase/commit/f5b272914a8c20f13ac9f884d113a52c57e84330) | chore: Add SDD prompt and plan for prompt\_search\_command | 2026-06-19 01:25:10 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f5b2729`](https://github.com/sase-org/sase/commit/f5b272914a8c20f13ac9f884d113a52c57e84330) | chore: Add SDD prompt and plan for prompt\_search\_command | 2026-06-19 01:25:10 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`dea2369`](https://github.com/sase-org/sase/commit/dea236963275cbb907248a4aa766631c5c0f68ce) | feat!: enforce single-declaration clan lifecycle (sase-7g.3) | 2026-07-19 18:27:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`dea2369`](https://github.com/sase-org/sase/commit/dea236963275cbb907248a4aa766631c5c0f68ce) | feat!: enforce single-declaration clan lifecycle (sase-7g.3) | 2026-07-19 18:27:39 |
 
 ## Neighbors
 

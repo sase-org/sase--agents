@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`284f180`](https://github.com/sase-org/sase/commit/284f180c82d7b3534770337c34ddcb365d2a284e) | chore: Add SDD prompt and plan for github\_project\_aliases | 2026-06-06 13:04:13 |
-| [`0b24274`](https://github.com/sase-org/sase/commit/0b24274e01084902499ce3a4faa7fa003cf2d4cd) | chore: add github project aliases epic beads | 2026-06-06 13:08:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`284f180`](https://github.com/sase-org/sase/commit/284f180c82d7b3534770337c34ddcb365d2a284e) | chore: Add SDD prompt and plan for github\_project\_aliases | 2026-06-06 13:04:13 |
+| sase | [`0b24274`](https://github.com/sase-org/sase/commit/0b24274e01084902499ce3a4faa7fa003cf2d4cd) | chore: add github project aliases epic beads | 2026-06-06 13:08:23 |
 
 ## Neighbors
 

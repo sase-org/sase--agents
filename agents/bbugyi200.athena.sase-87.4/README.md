@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0ee641f`](https://github.com/sase-org/sase/commit/0ee641f6c047f73870a345f682e484e152321409) | feat(bead): emit bead-gated waits for epic work (sase-87.4) | 2026-07-20 17:19:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0ee641f`](https://github.com/sase-org/sase/commit/0ee641f6c047f73870a345f682e484e152321409) | feat(bead): emit bead-gated waits for epic work (sase-87.4) | 2026-07-20 17:19:48 |
 
 ## Neighbors
 

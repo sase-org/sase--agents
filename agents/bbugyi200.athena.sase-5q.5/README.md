@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`75ee0fb`](https://github.com/sase-org/sase/commit/75ee0fb6a8ec7cc1dfa00214c05d704e8383507e) | docs(sdd): add companion repository infographics (sase-5q.5) | 2026-07-12 01:02:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`75ee0fb`](https://github.com/sase-org/sase/commit/75ee0fb6a8ec7cc1dfa00214c05d704e8383507e) | docs(sdd): add companion repository infographics (sase-5q.5) | 2026-07-12 01:02:05 |
 
 ## Neighbors
 

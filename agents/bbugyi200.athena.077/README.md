@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c28f33a`](https://github.com/sase-org/sase/commit/c28f33aed0d98009c73fc1d76b9276d78759856e) | chore: Add SDD prompt and plan for logs\_admin\_center\_tab | 2026-06-26 20:35:43 |
-| [`4ffe90b`](https://github.com/sase-org/sase/commit/4ffe90b280bb983204c54bbc23835e8790f79b09) | feat(tui)!: move logs into Admin Center | 2026-06-26 21:13:33 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c28f33a`](https://github.com/sase-org/sase/commit/c28f33aed0d98009c73fc1d76b9276d78759856e) | chore: Add SDD prompt and plan for logs\_admin\_center\_tab | 2026-06-26 20:35:43 |
+| sase | [`4ffe90b`](https://github.com/sase-org/sase/commit/4ffe90b280bb983204c54bbc23835e8790f79b09) | feat(tui)!: move logs into Admin Center | 2026-06-26 21:13:33 |
 
 ## Neighbors
 

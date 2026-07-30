@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1a0b181`](https://github.com/sase-org/sase/commit/1a0b181e2a8ecaff2cce50365433ae9d23697c53) | docs: add coral naming infographic | 2026-06-22 15:46:17 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1a0b181`](https://github.com/sase-org/sase/commit/1a0b181e2a8ecaff2cce50365433ae9d23697c53) | docs: add coral naming infographic | 2026-06-22 15:46:17 |
 
 ## Neighbors
 

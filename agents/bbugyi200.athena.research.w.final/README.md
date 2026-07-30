@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5840a69`](https://github.com/sase-org/sase/commit/5840a698b87bf386d7443a412d30c85de4002b75) | docs: consolidate agy tools panel research | 2026-06-20 13:39:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5840a69`](https://github.com/sase-org/sase/commit/5840a698b87bf386d7443a412d30c85de4002b75) | docs: consolidate agy tools panel research | 2026-06-20 13:39:45 |
 
 ## Neighbors
 

@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`059a889`](https://github.com/sase-org/sase/commit/059a8897cea41a238bef0d7460de812cca2ed5f5) | chore: Add SDD prompt and plan for new\_query\_prompt\_panel\_finalizer | 2026-05-31 16:10:49 |
-| [`3d81c57`](https://github.com/sase-org/sase/commit/3d81c57e959ba492b0a7d468776d9ad4eb01f300) | fix: Keep submitted prompt in ACE prompt panel instead of finalizer re-prompt | 2026-05-31 16:19:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`059a889`](https://github.com/sase-org/sase/commit/059a8897cea41a238bef0d7460de812cca2ed5f5) | chore: Add SDD prompt and plan for new\_query\_prompt\_panel\_finalizer | 2026-05-31 16:10:49 |
+| sase | [`3d81c57`](https://github.com/sase-org/sase/commit/3d81c57e959ba492b0a7d468776d9ad4eb01f300) | fix: Keep submitted prompt in ACE prompt panel instead of finalizer re-prompt | 2026-05-31 16:19:21 |

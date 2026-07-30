@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`041ff14`](https://github.com/sase-org/sase/commit/041ff14b1079c8b531a4aa0cac2fc1be4fd7f9c3) | test: split agent plan display coverage | 2026-07-20 03:51:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`041ff14`](https://github.com/sase-org/sase/commit/041ff14b1079c8b531a4aa0cac2fc1be4fd7f9c3) | test: split agent plan display coverage | 2026-07-20 03:51:37 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f6159ce`](https://github.com/sase-org/sase/commit/f6159cea5c8d9fcdef16ba6ef799ff39078e65be) | docs: add SASE rename research | 2026-06-22 11:55:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f6159ce`](https://github.com/sase-org/sase/commit/f6159cea5c8d9fcdef16ba6ef799ff39078e65be) | docs: add SASE rename research | 2026-06-22 11:55:20 |
 
 ## Neighbors
 

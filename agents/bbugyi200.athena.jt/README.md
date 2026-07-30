@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c1fc89c`](https://github.com/sase-org/sase/commit/c1fc89c571ff2607365caef4bcfe527073eb7d9e) | feat(ace): let q close the AXE entry editor | 2026-07-24 23:00:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c1fc89c`](https://github.com/sase-org/sase/commit/c1fc89c571ff2607365caef4bcfe527073eb7d9e) | feat(ace): let q close the AXE entry editor | 2026-07-24 23:00:05 |

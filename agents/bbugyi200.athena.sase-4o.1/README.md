@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3bc6d17`](https://github.com/sase-org/sase/commit/3bc6d177b75b5d6c36412c0c6c38cadaceab8622) | feat(prompt): add read-only \`sase prompt\` command group (sase-4o.1) | 2026-06-13 19:02:31 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3bc6d17`](https://github.com/sase-org/sase/commit/3bc6d177b75b5d6c36412c0c6c38cadaceab8622) | feat(prompt): add read-only \`sase prompt\` command group (sase-4o.1) | 2026-06-13 19:02:31 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`851b663`](https://github.com/sase-org/sase/commit/851b6632260d92b5ff75deddffbf6facaa08e8cc) | ref: split version inventory tests | 2026-06-08 21:43:36 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`851b663`](https://github.com/sase-org/sase/commit/851b6632260d92b5ff75deddffbf6facaa08e8cc) | ref: split version inventory tests | 2026-06-08 21:43:36 |
 
 ## Neighbors
 

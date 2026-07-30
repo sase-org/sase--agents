@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`77ec879`](https://github.com/sase-org/sase/commit/77ec8798e0c6f435e3b32a4f24e161ce268fb81f) | feat(ace): unify clipboard delivery | 2026-07-29 23:50:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`77ec879`](https://github.com/sase-org/sase/commit/77ec8798e0c6f435e3b32a4f24e161ce268fb81f) | feat(ace): unify clipboard delivery | 2026-07-29 23:50:42 |
 
 ## Neighbors
 

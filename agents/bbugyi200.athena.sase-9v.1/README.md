@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`26c26fe`](https://github.com/sase-org/sase/commit/26c26fec23542b62be756aad42c559a868e12f73) | fix(beads): serialize the launch-claim mutation under the store write lock (sase-9v.1) | 2026-07-26 16:04:52 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`26c26fe`](https://github.com/sase-org/sase/commit/26c26fec23542b62be756aad42c559a868e12f73) | fix(beads): serialize the launch-claim mutation under the store write lock (sase-9v.1) | 2026-07-26 16:04:52 |
 
 ## Neighbors
 

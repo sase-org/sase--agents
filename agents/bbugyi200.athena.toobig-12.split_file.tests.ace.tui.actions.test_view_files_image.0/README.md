@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`51722af`](https://github.com/sase-org/sase/commit/51722af0da37d8d905f22557488a533c7266d55a) | test(ace): split view-file action tests | 2026-07-30 03:23:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`51722af`](https://github.com/sase-org/sase/commit/51722af0da37d8d905f22557488a533c7266d55a) | test(ace): split view-file action tests | 2026-07-30 03:23:38 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`85ebbe6`](https://github.com/sase-org/sase/commit/85ebbe6733b647ff6de0c65932cfae4111d523ef) | docs: document reasoning-effort directive and default\_effort config (sase-55.6) | 2026-06-23 17:23:14 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`85ebbe6`](https://github.com/sase-org/sase/commit/85ebbe6733b647ff6de0c65932cfae4111d523ef) | docs: document reasoning-effort directive and default\_effort config (sase-55.6) | 2026-06-23 17:23:14 |
 
 ## Neighbors
 

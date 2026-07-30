@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4637a8a`](https://github.com/sase-org/sase/commit/4637a8aa15539c4955eb696fb9a83d1c4362013a) | refactor(sdd): introduce storage policy resolver (sase-5j.1) | 2026-07-08 03:55:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4637a8a`](https://github.com/sase-org/sase/commit/4637a8aa15539c4955eb696fb9a83d1c4362013a) | refactor(sdd): introduce storage policy resolver (sase-5j.1) | 2026-07-08 03:55:25 |
 
 ## Neighbors
 

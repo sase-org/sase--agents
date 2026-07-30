@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`83cdf59`](https://github.com/sase-org/sase/commit/83cdf590d2fcd0dfdc5db11c6402ec7fd7a2c328) | chore: Close bead sase-51.5 (Phase 5: Maintained Local Configuration Sweep) | 2026-06-20 20:48:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`83cdf59`](https://github.com/sase-org/sase/commit/83cdf590d2fcd0dfdc5db11c6402ec7fd7a2c328) | chore: Close bead sase-51.5 (Phase 5: Maintained Local Configuration Sweep) | 2026-06-20 20:48:42 |
 
 ## Neighbors
 

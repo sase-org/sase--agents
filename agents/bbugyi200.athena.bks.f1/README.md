@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e2c4a42`](https://github.com/sase-org/sase/commit/e2c4a4286317048c15065ef64e9f02bfca98834a) | chore: expand just check speed research | 2026-05-27 17:46:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e2c4a42`](https://github.com/sase-org/sase/commit/e2c4a4286317048c15065ef64e9f02bfca98834a) | chore: expand just check speed research | 2026-05-27 17:46:48 |
 
 ## Neighbors
 

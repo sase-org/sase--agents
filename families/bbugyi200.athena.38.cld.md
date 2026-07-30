@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`b38c1b2`](https://github.com/sase-org/sase/commit/b38c1b262cb3da46385d3a8590463413406a5d6c) | fix: avoid stale agents tab diff fallback | 2026-07-09 02:55:57 |
-| root | [`b38c1b2`](https://github.com/sase-org/sase/commit/b38c1b262cb3da46385d3a8590463413406a5d6c) | fix: avoid stale agents tab diff fallback | 2026-07-09 02:55:57 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`b38c1b2`](https://github.com/sase-org/sase/commit/b38c1b262cb3da46385d3a8590463413406a5d6c) | fix: avoid stale agents tab diff fallback | 2026-07-09 02:55:57 |
+| root | sase | [`b38c1b2`](https://github.com/sase-org/sase/commit/b38c1b262cb3da46385d3a8590463413406a5d6c) | fix: avoid stale agents tab diff fallback | 2026-07-09 02:55:57 |
 
 ## Neighbors
 

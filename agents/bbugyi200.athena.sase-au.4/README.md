@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7ddfbb1`](https://github.com/sase-org/sase/commit/7ddfbb16a13bd0771d1bf3d47fc19beee3a31086) | feat(tui): add xprompt statistics view | 2026-07-29 17:13:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7ddfbb1`](https://github.com/sase-org/sase/commit/7ddfbb16a13bd0771d1bf3d47fc19beee3a31086) | feat(tui): add xprompt statistics view | 2026-07-29 17:13:25 |
 
 ## Neighbors
 

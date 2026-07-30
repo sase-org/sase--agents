@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f672125`](https://github.com/sase-org/sase/commit/f672125c50dd7456b4f02fb16d485ad8a5ecf00d) | fix: prepare linked repo workspaces before agent launch | 2026-07-06 18:38:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f672125`](https://github.com/sase-org/sase/commit/f672125c50dd7456b4f02fb16d485ad8a5ecf00d) | fix: prepare linked repo workspaces before agent launch | 2026-07-06 18:38:09 |
 
 ## Neighbors
 

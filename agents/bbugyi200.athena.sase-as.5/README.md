@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`70a22c3`](https://github.com/sase-org/sase/commit/70a22c347e617988e3a25b62975ab12837ea4444) | feat(sdd): support generic sidecar roles | 2026-07-29 15:07:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`70a22c3`](https://github.com/sase-org/sase/commit/70a22c347e617988e3a25b62975ab12837ea4444) | feat(sdd): support generic sidecar roles | 2026-07-29 15:07:29 |
 
 ## Neighbors
 

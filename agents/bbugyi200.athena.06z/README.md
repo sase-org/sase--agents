@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fa8be3e`](https://github.com/sase-org/sase/commit/fa8be3e7449708d9f546b2fc32bcbce58f8644f0) | chore: Add SDD prompt and plan for context\_reason\_80\_col\_wrap | 2026-06-26 12:37:05 |
-| [`0db9fe9`](https://github.com/sase-org/sase/commit/0db9fe9d33e00481f25b96f6a5fa05affeef6210) | fix(tui): wrap SASE CONTEXT reasons within 80 columns | 2026-06-26 12:43:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fa8be3e`](https://github.com/sase-org/sase/commit/fa8be3e7449708d9f546b2fc32bcbce58f8644f0) | chore: Add SDD prompt and plan for context\_reason\_80\_col\_wrap | 2026-06-26 12:37:05 |
+| sase | [`0db9fe9`](https://github.com/sase-org/sase/commit/0db9fe9d33e00481f25b96f6a5fa05affeef6210) | fix(tui): wrap SASE CONTEXT reasons within 80 columns | 2026-06-26 12:43:22 |

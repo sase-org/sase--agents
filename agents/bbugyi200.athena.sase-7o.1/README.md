@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c8f80b2`](https://github.com/sase-org/sase/commit/c8f80b24a1869bc425810e431a5c0801c69ebb8b) | feat!: require family keyword for name directives (sase-7o.1) | 2026-07-19 20:49:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c8f80b2`](https://github.com/sase-org/sase/commit/c8f80b24a1869bc425810e431a5c0801c69ebb8b) | feat!: require family keyword for name directives (sase-7o.1) | 2026-07-19 20:49:07 |
 
 ## Neighbors
 

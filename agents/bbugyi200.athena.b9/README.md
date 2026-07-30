@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6d7f472`](https://github.com/sase-org/sase/commit/6d7f47203bab8c974f6b0bb2dfdac1f543fd80ed) | fix(ace): cycle metadata navigation through document top | 2026-07-16 23:50:12 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6d7f472`](https://github.com/sase-org/sase/commit/6d7f47203bab8c974f6b0bb2dfdac1f543fd80ed) | fix(ace): cycle metadata navigation through document top | 2026-07-16 23:50:12 |

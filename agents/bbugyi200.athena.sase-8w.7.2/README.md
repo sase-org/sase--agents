@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`39c9fe7`](https://github.com/sase-org/sase/commit/39c9fe7dca53caf21b23e86049efeb346219d4ff) | docs: reconcile manuals with five-size phase routing (sase-8w.7.2) | 2026-07-23 23:25:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`39c9fe7`](https://github.com/sase-org/sase/commit/39c9fe7dca53caf21b23e86049efeb346219d4ff) | docs: reconcile manuals with five-size phase routing (sase-8w.7.2) | 2026-07-23 23:25:32 |
 
 ## Neighbors
 

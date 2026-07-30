@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d3da2f1`](https://github.com/sase-org/sase/commit/d3da2f1a502918e0b91c3d17f812747d02fbfe86) | feat(ace): add selected-panel collapse ladder | 2026-07-22 12:35:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d3da2f1`](https://github.com/sase-org/sase/commit/d3da2f1a502918e0b91c3d17f812747d02fbfe86) | feat(ace): add selected-panel collapse ladder | 2026-07-22 12:35:54 |
 
 ## Neighbors
 

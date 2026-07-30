@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5885890`](https://github.com/sase-org/sase/commit/58858901b857cfb9b3831cb61bb8c00e1bfbfd78) | feat(chops): add typed report builder | 2026-07-29 14:30:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5885890`](https://github.com/sase-org/sase/commit/58858901b857cfb9b3831cb61bb8c00e1bfbfd78) | feat(chops): add typed report builder | 2026-07-29 14:30:54 |
 
 ## Neighbors
 

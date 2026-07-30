@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0ea4f7d`](https://github.com/sase-org/sase/commit/0ea4f7d19aa113b3d6854293d153e13457276aee) | feat(doctor): promote tmux and clipboard checks (sase-5l.5) | 2026-07-08 06:50:35 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0ea4f7d`](https://github.com/sase-org/sase/commit/0ea4f7d19aa113b3d6854293d153e13457276aee) | feat(doctor): promote tmux and clipboard checks (sase-5l.5) | 2026-07-08 06:50:35 |
 
 ## Neighbors
 

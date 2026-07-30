@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cd6dfa8`](https://github.com/sase-org/sase/commit/cd6dfa8d39b008919119c7ddfea17c9666e94f68) | chore: Add SDD prompt and plan for bead\_search\_highlight | 2026-06-18 14:06:31 |
-| [`5d73456`](https://github.com/sase-org/sase/commit/5d7345619348c34d31616ac5ea3922e970efb6e8) | chore: Mark SDD plan done | 2026-06-18 14:57:04 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cd6dfa8`](https://github.com/sase-org/sase/commit/cd6dfa8d39b008919119c7ddfea17c9666e94f68) | chore: Add SDD prompt and plan for bead\_search\_highlight | 2026-06-18 14:06:31 |
+| sase | [`5d73456`](https://github.com/sase-org/sase/commit/5d7345619348c34d31616ac5ea3922e970efb6e8) | chore: Mark SDD plan done | 2026-06-18 14:57:04 |
 
 ## Neighbors
 

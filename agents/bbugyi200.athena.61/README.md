@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ed18bbd`](https://github.com/sase-org/sase/commit/ed18bbd2606d1314ad1f2b57cfe801d84a60f335) | chore: Add SDD prompt and plan for pylimit\_split\_codex\_model | 2026-06-12 19:22:35 |
-| [`84d8fd7`](https://github.com/sase-org/sase/commit/84d8fd7da775a89c9b27a46c5690ffa08651f677) | fix: pin codex model for pylimit split agents | 2026-06-12 19:34:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ed18bbd`](https://github.com/sase-org/sase/commit/ed18bbd2606d1314ad1f2b57cfe801d84a60f335) | chore: Add SDD prompt and plan for pylimit\_split\_codex\_model | 2026-06-12 19:22:35 |
+| sase | [`84d8fd7`](https://github.com/sase-org/sase/commit/84d8fd7da775a89c9b27a46c5690ffa08651f677) | fix: pin codex model for pylimit split agents | 2026-06-12 19:34:22 |

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`764ed39`](https://github.com/sase-org/sase/commit/764ed39d94b604c692bf42d4081241f324dba410) | chore: Add SDD prompt and plan for create\_prompt\_snippet\_option | 2026-06-27 12:10:25 |
-| [`0311120`](https://github.com/sase-org/sase/commit/0311120d48b97deae8b0ba88a76c0607d5f02083) | feat(tui): add "Create a new snippet" option to prompt save menu | 2026-06-27 12:35:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`764ed39`](https://github.com/sase-org/sase/commit/764ed39d94b604c692bf42d4081241f324dba410) | chore: Add SDD prompt and plan for create\_prompt\_snippet\_option | 2026-06-27 12:10:25 |
+| sase | [`0311120`](https://github.com/sase-org/sase/commit/0311120d48b97deae8b0ba88a76c0607d5f02083) | feat(tui): add "Create a new snippet" option to prompt save menu | 2026-06-27 12:35:06 |
 
 ## Neighbors
 

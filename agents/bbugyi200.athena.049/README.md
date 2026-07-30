@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d941409`](https://github.com/sase-org/sase/commit/d941409de4307f4bafc2964fd8c07fdecd3410dd) | chore: Add SDD prompt and plan for disable\_prompt\_keymap\_leak | 2026-06-23 13:47:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d941409`](https://github.com/sase-org/sase/commit/d941409de4307f4bafc2964fd8c07fdecd3410dd) | chore: Add SDD prompt and plan for disable\_prompt\_keymap\_leak | 2026-06-23 13:47:41 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`33d30ba`](https://github.com/sase-org/sase/commit/33d30ba0f4ce450bb7e56e22228dcf6b246883e2) | feat: make epic approval launches host-owned (sase-64.3) | 2026-07-15 16:00:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`33d30ba`](https://github.com/sase-org/sase/commit/33d30ba0f4ce450bb7e56e22228dcf6b246883e2) | feat: make epic approval launches host-owned (sase-64.3) | 2026-07-15 16:00:23 |
 
 ## Neighbors
 

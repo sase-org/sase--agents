@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`86af3a8`](https://github.com/sase-org/sase/commit/86af3a8713abe0c9bbec65a3f4350c0296c580eb) | chore: Add SDD prompt and plan for plan\_list\_live\_agents | 2026-06-13 16:13:19 |
-| root | [`f15d55c`](https://github.com/sase-org/sase/commit/f15d55c7efb914a3dc795a4e3867c1b279ca4bef) | fix(plan): filter pending approvals to live agents | 2026-06-13 16:29:37 |
-| code | [`e2274e5`](https://github.com/sase-org/sase/commit/e2274e52b3b8cb6897eb0c8fe22eb32ae5c97064) | fix: preserve primary commit diff provenance | 2026-07-12 13:59:38 |
-| root | [`e2274e5`](https://github.com/sase-org/sase/commit/e2274e52b3b8cb6897eb0c8fe22eb32ae5c97064) | fix: preserve primary commit diff provenance | 2026-07-12 13:59:38 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`86af3a8`](https://github.com/sase-org/sase/commit/86af3a8713abe0c9bbec65a3f4350c0296c580eb) | chore: Add SDD prompt and plan for plan\_list\_live\_agents | 2026-06-13 16:13:19 |
+| root | sase | [`f15d55c`](https://github.com/sase-org/sase/commit/f15d55c7efb914a3dc795a4e3867c1b279ca4bef) | fix(plan): filter pending approvals to live agents | 2026-06-13 16:29:37 |
+| code | sase | [`e2274e5`](https://github.com/sase-org/sase/commit/e2274e52b3b8cb6897eb0c8fe22eb32ae5c97064) | fix: preserve primary commit diff provenance | 2026-07-12 13:59:38 |
+| root | sase | [`e2274e5`](https://github.com/sase-org/sase/commit/e2274e52b3b8cb6897eb0c8fe22eb32ae5c97064) | fix: preserve primary commit diff provenance | 2026-07-12 13:59:38 |

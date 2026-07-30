@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`09f9151`](https://github.com/sase-org/sase/commit/09f9151b61c01c6d277628981a3ead1aae0b95c6) | fix(tui): preserve clan membership on retry (sase-7g.4) | 2026-07-19 18:56:52 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`09f9151`](https://github.com/sase-org/sase/commit/09f9151b61c01c6d277628981a3ead1aae0b95c6) | fix(tui): preserve clan membership on retry (sase-7g.4) | 2026-07-19 18:56:52 |
 
 ## Neighbors
 

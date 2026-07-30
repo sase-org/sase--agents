@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2511b71`](https://github.com/sase-org/sase/commit/2511b71875900273b78c42af9ca43b586e7cabb8) | feat(ace): add Bugs artifact pane (sase-69.5) | 2026-07-16 02:26:58 |
-| [`ad730f6`](https://github.com/sase-org/sase/commit/ad730f6447a3bc4bd3705125b9d4ce317b2aacd8) | chore(lint): remove fulfilled artifact epic symbols (sase-69.5) | 2026-07-16 02:33:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2511b71`](https://github.com/sase-org/sase/commit/2511b71875900273b78c42af9ca43b586e7cabb8) | feat(ace): add Bugs artifact pane (sase-69.5) | 2026-07-16 02:26:58 |
+| sase | [`ad730f6`](https://github.com/sase-org/sase/commit/ad730f6447a3bc4bd3705125b9d4ce317b2aacd8) | chore(lint): remove fulfilled artifact epic symbols (sase-69.5) | 2026-07-16 02:33:21 |
 
 ## Neighbors
 

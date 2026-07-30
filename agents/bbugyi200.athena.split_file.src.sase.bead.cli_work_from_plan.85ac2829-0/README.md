@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b2d8cef`](https://github.com/sase-org/sase/commit/b2d8cefd2eecae5ec52aa29696d034b835b0a966) | refactor(bead): split plan-file work CLI module | 2026-07-19 08:33:10 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b2d8cef`](https://github.com/sase-org/sase/commit/b2d8cefd2eecae5ec52aa29696d034b835b0a966) | refactor(bead): split plan-file work CLI module | 2026-07-19 08:33:10 |
 
 ## Neighbors
 

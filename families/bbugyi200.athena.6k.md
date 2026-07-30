@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`6ab1482`](https://github.com/sase-org/sase/commit/6ab1482bb99eeb9d03a008a82ef5456a4dd596d8) | feat(tui): add prompt stash preview panes | 2026-07-12 13:26:49 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`6ab1482`](https://github.com/sase-org/sase/commit/6ab1482bb99eeb9d03a008a82ef5456a4dd596d8) | feat(tui): add prompt stash preview panes | 2026-07-12 13:26:49 |
 
 ## Neighbors
 

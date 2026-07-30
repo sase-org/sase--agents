@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`34dae08`](https://github.com/sase-org/sase/commit/34dae080e7ecda3d53d2f598962b488547779554) | test: isolate default LLM effort config (#183) | 2026-06-24 10:28:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`34dae08`](https://github.com/sase-org/sase/commit/34dae080e7ecda3d53d2f598962b488547779554) | test: isolate default LLM effort config (#183) | 2026-06-24 10:28:05 |
 
 ## Neighbors
 

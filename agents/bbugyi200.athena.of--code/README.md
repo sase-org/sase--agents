@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`619de09`](https://github.com/sase-org/sase/commit/619de093a7e9f9cb86a05042fb402f2710039996) | fix(changelog): enforce release-please ownership | 2026-07-29 16:26:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`619de09`](https://github.com/sase-org/sase/commit/619de093a7e9f9cb86a05042fb402f2710039996) | fix(changelog): enforce release-please ownership | 2026-07-29 16:26:20 |

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`da42489`](https://github.com/sase-org/sase/commit/da4248906b3cdc08c445c972ea91b4e978551976) | feat: implement AMD init engine (sase-44.2) | 2026-05-24 22:30:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`da42489`](https://github.com/sase-org/sase/commit/da4248906b3cdc08c445c972ea91b4e978551976) | feat: implement AMD init engine (sase-44.2) | 2026-05-24 22:30:40 |
 
 ## Neighbors
 

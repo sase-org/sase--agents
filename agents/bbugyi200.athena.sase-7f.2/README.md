@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f9084fc`](https://github.com/sase-org/sase/commit/f9084fcd727ad8e65bbc10b8779386c982267f9e) | test: patch public git lock retry helper (sase-7f.2) | 2026-07-19 18:03:55 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f9084fc`](https://github.com/sase-org/sase/commit/f9084fcd727ad8e65bbc10b8779386c982267f9e) | test: patch public git lock retry helper (sase-7f.2) | 2026-07-19 18:03:55 |
 
 ## Neighbors
 

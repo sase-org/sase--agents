@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`69d403c`](https://github.com/sase-org/sase/commit/69d403c4c7f17f665cccaffd52dc910be8177c99) | fix(ace): anchor artifact-file path copy | 2026-07-29 14:58:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`69d403c`](https://github.com/sase-org/sase/commit/69d403c4c7f17f665cccaffd52dc910be8177c99) | fix(ace): anchor artifact-file path copy | 2026-07-29 14:58:27 |
 
 ## Neighbors
 

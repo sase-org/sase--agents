@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`866aea6`](https://github.com/sase-org/sase/commit/866aea65a3fc91224db3382125e71fd3494bcd70) | feat(telemetry): isolate test state and add cleanup command (sase-8g.11) | 2026-07-20 21:41:49 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`866aea6`](https://github.com/sase-org/sase/commit/866aea65a3fc91224db3382125e71fd3494bcd70) | feat(telemetry): isolate test state and add cleanup command (sase-8g.11) | 2026-07-20 21:41:49 |
 
 ## Neighbors
 

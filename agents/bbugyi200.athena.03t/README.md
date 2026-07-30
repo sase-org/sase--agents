@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`69cf307`](https://github.com/sase-org/sase/commit/69cf307d15205dbd9cec27c3d3f402f47a8c525f) | chore: Add SDD prompt and plan for mark\_collapsed\_agent\_groups | 2026-06-23 10:04:06 |
-| [`9a86edf`](https://github.com/sase-org/sase/commit/9a86edf1875ea0ed734cce2d114366baf5c69b4b) | feat(ace): mark collapsed agent groups | 2026-06-23 10:17:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`69cf307`](https://github.com/sase-org/sase/commit/69cf307d15205dbd9cec27c3d3f402f47a8c525f) | chore: Add SDD prompt and plan for mark\_collapsed\_agent\_groups | 2026-06-23 10:04:06 |
+| sase | [`9a86edf`](https://github.com/sase-org/sase/commit/9a86edf1875ea0ed734cce2d114366baf5c69b4b) | feat(ace): mark collapsed agent groups | 2026-06-23 10:17:45 |

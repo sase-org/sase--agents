@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`97e7b4c`](https://github.com/sase-org/sase/commit/97e7b4c6e70700e1454c5aec9d62f0a58d875d2b) | chore: Add SDD prompt and plan for agent\_name\_collision\_race | 2026-06-03 03:37:28 |
-| [`76c5df0`](https://github.com/sase-org/sase/commit/76c5df017cccc75fd75a777d5a0dd7144542de41) | fix: gate explicit agent name claims through registry | 2026-06-03 03:46:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`97e7b4c`](https://github.com/sase-org/sase/commit/97e7b4c6e70700e1454c5aec9d62f0a58d875d2b) | chore: Add SDD prompt and plan for agent\_name\_collision\_race | 2026-06-03 03:37:28 |
+| sase | [`76c5df0`](https://github.com/sase-org/sase/commit/76c5df017cccc75fd75a777d5a0dd7144542de41) | fix: gate explicit agent name claims through registry | 2026-06-03 03:46:58 |

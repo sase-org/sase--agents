@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`46c2f06`](https://github.com/sase-org/sase/commit/46c2f0622a4998cf01e997a147df5c600ee1bae7) | feat: prioritize runner-slot wait admission (sase-8c.2) | 2026-07-20 18:49:41 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`46c2f06`](https://github.com/sase-org/sase/commit/46c2f0622a4998cf01e997a147df5c600ee1bae7) | feat: prioritize runner-slot wait admission (sase-8c.2) | 2026-07-20 18:49:41 |
 
 ## Neighbors
 

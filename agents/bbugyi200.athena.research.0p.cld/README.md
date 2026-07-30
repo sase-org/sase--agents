@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`77c2177`](https://github.com/sase-org/sase/commit/77c2177e9e2d795faf3acce3b7638cc06efca698) | docs(research): survey admin center tab migration candidates | 2026-06-26 19:29:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`77c2177`](https://github.com/sase-org/sase/commit/77c2177e9e2d795faf3acce3b7638cc06efca698) | docs(research): survey admin center tab migration candidates | 2026-06-26 19:29:32 |
 
 ## Neighbors
 

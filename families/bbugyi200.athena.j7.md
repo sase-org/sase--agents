@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`485e562`](https://github.com/sase-org/sase/commit/485e5624ef9630119bd3e4fa2a11c0d1f51d743e) | fix(bead)!: confirm destructive forced-reuse cleanup | 2026-07-23 16:22:01 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`485e562`](https://github.com/sase-org/sase/commit/485e5624ef9630119bd3e4fa2a11c0d1f51d743e) | fix(bead)!: confirm destructive forced-reuse cleanup | 2026-07-23 16:22:01 |

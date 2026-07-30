@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a397e5b`](https://github.com/sase-org/sase/commit/a397e5b6bef5c0d46749bb8e47c8c9ed6b1a856c) | docs: document raw placeholder prompt inputs (sase-9q.7) | 2026-07-26 14:52:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a397e5b`](https://github.com/sase-org/sase/commit/a397e5b6bef5c0d46749bb8e47c8c9ed6b1a856c) | docs: document raw placeholder prompt inputs (sase-9q.7) | 2026-07-26 14:52:23 |
 
 ## Neighbors
 

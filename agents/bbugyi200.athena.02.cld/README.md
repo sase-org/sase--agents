@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2f65376`](https://github.com/sase-org/sase/commit/2f6537665773343b452a1b0c0a54382fb0ae61f5) | chore: Add SDD prompt and plan for fix\_just\_orphaned\_prs | 2026-06-02 20:37:45 |
-| [`e933951`](https://github.com/sase-org/sase/commit/e933951016ec9b2e191b65544788be57c700481d) | fix: Allocate PR branch suffixes from the remote branch namespace | 2026-06-02 21:11:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2f65376`](https://github.com/sase-org/sase/commit/2f6537665773343b452a1b0c0a54382fb0ae61f5) | chore: Add SDD prompt and plan for fix\_just\_orphaned\_prs | 2026-06-02 20:37:45 |
+| sase | [`e933951`](https://github.com/sase-org/sase/commit/e933951016ec9b2e191b65544788be57c700481d) | fix: Allocate PR branch suffixes from the remote branch namespace | 2026-06-02 21:11:02 |
 
 ## Neighbors
 

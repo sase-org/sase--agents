@@ -20,9 +20,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7cbbd96`](https://github.com/sase-org/sase/commit/7cbbd96c5264d6d1824694a706fc1004745aa278) | chore: add research on STOP variable for breaking repeat loops | 2026-06-11 23:14:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7cbbd96`](https://github.com/sase-org/sase/commit/7cbbd96c5264d6d1824694a706fc1004745aa278) | chore: add research on STOP variable for breaking repeat loops | 2026-06-11 23:14:09 |
 
 ## Variables
 

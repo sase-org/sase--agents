@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6bc7613`](https://github.com/sase-org/sase/commit/6bc7613fae64f1f0040d8200dcfe8773e116ce7c) | feat(ace): polish artifacts tab integration (sase-69.7) | 2026-07-16 03:02:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6bc7613`](https://github.com/sase-org/sase/commit/6bc7613fae64f1f0040d8200dcfe8773e116ce7c) | feat(ace): polish artifacts tab integration (sase-69.7) | 2026-07-16 03:02:41 |
 
 ## Neighbors
 

@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f678228`](https://github.com/sase-org/sase/commit/f6782286e42727c2cdda919f27e6a3c2dbc813d5) | fix(sdd): make sidecar integration transactional | 2026-07-17 19:59:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f678228`](https://github.com/sase-org/sase/commit/f6782286e42727c2cdda919f27e6a3c2dbc813d5) | fix(sdd): make sidecar integration transactional | 2026-07-17 19:59:57 |

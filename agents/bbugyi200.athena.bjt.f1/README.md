@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bebf109`](https://github.com/sase-org/sase/commit/bebf109a28d38ebcd08a054d5061dd9015e54753) | chore: expand connected memory episode research | 2026-05-27 12:08:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`bebf109`](https://github.com/sase-org/sase/commit/bebf109a28d38ebcd08a054d5061dd9015e54753) | chore: expand connected memory episode research | 2026-05-27 12:08:46 |
 
 ## Neighbors
 

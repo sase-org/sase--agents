@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`44077a6`](https://github.com/sase-org/sase/commit/44077a6dfb8a97f069ced3536e0b66126f587ce6) | feat: add episode evidence recall export (sase-48.9) | 2026-05-29 00:28:47 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`44077a6`](https://github.com/sase-org/sase/commit/44077a6dfb8a97f069ced3536e0b66126f587ce6) | feat: add episode evidence recall export (sase-48.9) | 2026-05-29 00:28:47 |
 
 ## Neighbors
 

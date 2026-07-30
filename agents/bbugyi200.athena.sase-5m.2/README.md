@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`373c31c`](https://github.com/sase-org/sase/commit/373c31cf1692dbfaae14575ab0affbb5d8239a34) | feat(memory): generate data-driven memory README (sase-5m.2) | 2026-07-08 23:39:12 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`373c31c`](https://github.com/sase-org/sase/commit/373c31cf1692dbfaae14575ab0affbb5d8239a34) | feat(memory): generate data-driven memory README (sase-5m.2) | 2026-07-08 23:39:12 |
 
 ## Neighbors
 

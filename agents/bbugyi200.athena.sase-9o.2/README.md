@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6363f22`](https://github.com/sase-org/sase/commit/6363f22db23d6c6a90585dbad53d0a741d962d99) | fix: record dismissed identities during v2 import (sase-9o.2) | 2026-07-26 10:42:17 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6363f22`](https://github.com/sase-org/sase/commit/6363f22db23d6c6a90585dbad53d0a741d962d99) | fix: record dismissed identities during v2 import (sase-9o.2) | 2026-07-26 10:42:17 |
 
 ## Neighbors
 

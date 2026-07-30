@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c37dfb3`](https://github.com/sase-org/sase/commit/c37dfb33bd67720e927ae33f9dc0b8979fe6f7e5) | chore: Add SDD prompt and plan for reverse\_bead\_search\_order | 2026-06-19 12:06:49 |
-| [`a3812c2`](https://github.com/sase-org/sase/commit/a3812c2b8fcc52c13a2e279732563c830365105a) | chore(sdd): mark reverse\_bead\_search\_order tale done | 2026-06-19 12:12:18 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c37dfb3`](https://github.com/sase-org/sase/commit/c37dfb33bd67720e927ae33f9dc0b8979fe6f7e5) | chore: Add SDD prompt and plan for reverse\_bead\_search\_order | 2026-06-19 12:06:49 |
+| sase | [`a3812c2`](https://github.com/sase-org/sase/commit/a3812c2b8fcc52c13a2e279732563c830365105a) | chore(sdd): mark reverse\_bead\_search\_order tale done | 2026-06-19 12:12:18 |

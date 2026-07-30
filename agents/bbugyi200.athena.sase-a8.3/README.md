@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f9bd6ad`](https://github.com/sase-org/sase/commit/f9bd6ad226fba1067e1abfd6ae885e3ad312c371) | feat(sdd): support split beads sidecar records (sase-a8.3) | 2026-07-27 20:16:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f9bd6ad`](https://github.com/sase-org/sase/commit/f9bd6ad226fba1067e1abfd6ae885e3ad312c371) | feat(sdd): support split beads sidecar records (sase-a8.3) | 2026-07-27 20:16:40 |
 
 ## Neighbors
 

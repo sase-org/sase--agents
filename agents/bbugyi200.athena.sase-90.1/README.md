@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e7da5cd`](https://github.com/sase-org/sase/commit/e7da5cd18d378bf10a0289e849f028816e2b813f) | fix(history): discover imported chat transcripts (sase-90.1) | 2026-07-24 23:45:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e7da5cd`](https://github.com/sase-org/sase/commit/e7da5cd18d378bf10a0289e849f028816e2b813f) | fix(history): discover imported chat transcripts (sase-90.1) | 2026-07-24 23:45:46 |
 
 ## Neighbors
 

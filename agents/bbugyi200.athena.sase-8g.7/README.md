@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`24d42d3`](https://github.com/sase-org/sase/commit/24d42d3813a12dd834e2766cffbd107136fa6513) | fix(beads): repair concurrent sync integrations (sase-8g.7) | 2026-07-20 21:24:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`24d42d3`](https://github.com/sase-org/sase/commit/24d42d3813a12dd834e2766cffbd107136fa6513) | fix(beads): repair concurrent sync integrations (sase-8g.7) | 2026-07-20 21:24:29 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e10427e`](https://github.com/sase-org/sase/commit/e10427eb38871507c5f28462e2155be0dd7c4dd1) | feat: harden version runtime inventory (sase-4h.4) | 2026-06-08 20:40:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e10427e`](https://github.com/sase-org/sase/commit/e10427eb38871507c5f28462e2155be0dd7c4dd1) | feat: harden version runtime inventory (sase-4h.4) | 2026-06-08 20:40:24 |
 
 ## Neighbors
 

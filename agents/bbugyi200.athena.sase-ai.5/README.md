@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b645718`](https://github.com/sase-org/sase/commit/b6457189ccceea2aa2c2df2b78362fabe307ca51) | feat: publish bead lineage after commits (sase-ai.5) | 2026-07-28 19:50:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b645718`](https://github.com/sase-org/sase/commit/b6457189ccceea2aa2c2df2b78362fabe307ca51) | feat: publish bead lineage after commits (sase-ai.5) | 2026-07-28 19:50:42 |
 
 ## Neighbors
 

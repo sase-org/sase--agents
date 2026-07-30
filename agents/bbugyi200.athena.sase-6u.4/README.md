@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bf61e8a`](https://github.com/sase-org/sase/commit/bf61e8acc5403fd3b418606eb368793d9228bd7b) | docs: document clan summary folding (sase-6u.4) | 2026-07-18 20:34:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`bf61e8a`](https://github.com/sase-org/sase/commit/bf61e8acc5403fd3b418606eb368793d9228bd7b) | docs: document clan summary folding (sase-6u.4) | 2026-07-18 20:34:58 |
 
 ## Neighbors
 

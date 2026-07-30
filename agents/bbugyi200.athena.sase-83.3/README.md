@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bf84d7b`](https://github.com/sase-org/sase/commit/bf84d7b25424511fd98f44e7f302d0a8235f1022) | feat(updates): distinguish agent CLI update status (sase-83.3) | 2026-07-20 16:39:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`bf84d7b`](https://github.com/sase-org/sase/commit/bf84d7b25424511fd98f44e7f302d0a8235f1022) | feat(updates): distinguish agent CLI update status (sase-83.3) | 2026-07-20 16:39:51 |
 
 ## Neighbors
 

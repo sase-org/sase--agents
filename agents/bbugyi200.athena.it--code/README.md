@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`104a31c`](https://github.com/sase-org/sase/commit/104a31c715ac950d6a73de08d12b0266beda2fe7) | feat(ace): redesign AXE entry editor | 2026-07-23 11:53:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`104a31c`](https://github.com/sase-org/sase/commit/104a31c715ac950d6a73de08d12b0266beda2fe7) | feat(ace): redesign AXE entry editor | 2026-07-23 11:53:54 |

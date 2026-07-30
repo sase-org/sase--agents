@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1fe0afe`](https://github.com/sase-org/sase/commit/1fe0afee6009fa5af8eccd3ddf278bdecae8b582) | feat(ace): show commit timeline position badge | 2026-07-21 19:39:28 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1fe0afe`](https://github.com/sase-org/sase/commit/1fe0afee6009fa5af8eccd3ddf278bdecae8b582) | feat(ace): show commit timeline position badge | 2026-07-21 19:39:28 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`31b4d01`](https://github.com/sase-org/sase/commit/31b4d012e1c707ff832e0850d550cd67e5223b87) | feat(vcs): cache log fetches and show tags by default | 2026-07-09 18:40:10 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`31b4d01`](https://github.com/sase-org/sase/commit/31b4d012e1c707ff832e0850d550cd67e5223b87) | feat(vcs): cache log fetches and show tags by default | 2026-07-09 18:40:10 |
 
 ## Neighbors
 

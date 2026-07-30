@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`be5967a`](https://github.com/sase-org/sase/commit/be5967a70a49b63bef291b03b8ea2927c76dc265) | test(tui): stabilize residual freeze soak (sase-6j.5) (sase-6j) | 2026-07-17 13:46:57 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`be5967a`](https://github.com/sase-org/sase/commit/be5967a70a49b63bef291b03b8ea2927c76dc265) | test(tui): stabilize residual freeze soak (sase-6j.5) (sase-6j) | 2026-07-17 13:46:57 |
 
 ## Neighbors
 

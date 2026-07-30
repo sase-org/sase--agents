@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9292e5b`](https://github.com/sase-org/sase/commit/9292e5bf38eb93e9b7d2ae80316400d04bf52bae) | build(deps): require sase-core-rs 0.5.0 (sase-6b) | 2026-07-16 14:16:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9292e5b`](https://github.com/sase-org/sase/commit/9292e5bf38eb93e9b7d2ae80316400d04bf52bae) | build(deps): require sase-core-rs 0.5.0 (sase-6b) | 2026-07-16 14:16:56 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0d33d2a`](https://github.com/sase-org/sase/commit/0d33d2a8c71f0a175afb7fbc1163f7499c1ad93e) | perf(tui): move slow refresh work off the message pump (sase-6c.1) | 2026-07-16 15:49:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0d33d2a`](https://github.com/sase-org/sase/commit/0d33d2a8c71f0a175afb7fbc1163f7499c1ad93e) | perf(tui): move slow refresh work off the message pump (sase-6c.1) | 2026-07-16 15:49:02 |
 
 ## Neighbors
 

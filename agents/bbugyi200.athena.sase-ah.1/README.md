@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4fc555d`](https://github.com/sase-org/sase/commit/4fc555db0a6b86ccd1f5437c49fdfa668495e169) | fix(commit): resolve publication targets by repository path (sase-ah.1) | 2026-07-28 18:38:03 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4fc555d`](https://github.com/sase-org/sase/commit/4fc555db0a6b86ccd1f5437c49fdfa668495e169) | fix(commit): resolve publication targets by repository path (sase-ah.1) | 2026-07-28 18:38:03 |
 
 ## Neighbors
 

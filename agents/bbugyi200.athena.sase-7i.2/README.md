@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7ef3482`](https://github.com/sase-org/sase/commit/7ef34829ef0a31143a358bab6e6ccb85006046dc) | fix(axe): relink waits across deduped chop proposals (sase-7i.2) | 2026-07-19 17:42:53 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7ef3482`](https://github.com/sase-org/sase/commit/7ef34829ef0a31143a358bab6e6ccb85006046dc) | fix(axe): relink waits across deduped chop proposals (sase-7i.2) | 2026-07-19 17:42:53 |
 
 ## Neighbors
 

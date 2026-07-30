@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f2c53c2`](https://github.com/sase-org/sase/commit/f2c53c28f83fd9961460f8ff7dcb4fea29424364) | feat(axe): show summary-first list descriptions (sase-9w.4) | 2026-07-27 10:31:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f2c53c2`](https://github.com/sase-org/sase/commit/f2c53c28f83fd9961460f8ff7dcb4fea29424364) | feat(axe): show summary-first list descriptions (sase-9w.4) | 2026-07-27 10:31:46 |
 
 ## Neighbors
 

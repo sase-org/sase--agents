@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`8049b46`](https://github.com/sase-org/sase/commit/8049b46ccb83fa3f88ecb8aba4d70545111f19aa) | fix: label sidecar commits by repository role | 2026-07-28 17:37:31 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`8049b46`](https://github.com/sase-org/sase/commit/8049b46ccb83fa3f88ecb8aba4d70545111f19aa) | fix: label sidecar commits by repository role | 2026-07-28 17:37:31 |
 
 ## Neighbors
 

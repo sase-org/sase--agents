@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e584c89`](https://github.com/sase-org/sase/commit/e584c89df570717429bdc477fdec0f76377d9f64) | feat(stats): render configured project labels (sase-89.2) | 2026-07-20 17:35:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e584c89`](https://github.com/sase-org/sase/commit/e584c89df570717429bdc477fdec0f76377d9f64) | feat(stats): render configured project labels (sase-89.2) | 2026-07-20 17:35:57 |
 
 ## Neighbors
 

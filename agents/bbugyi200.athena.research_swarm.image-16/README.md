@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`98a2c20`](https://github.com/sase-org/sase/commit/98a2c20e23e79b0f0235f58551f9fda829b50976) | chore: add SASE lesson infographic | 2026-05-30 15:19:52 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`98a2c20`](https://github.com/sase-org/sase/commit/98a2c20e23e79b0f0235f58551f9fda829b50976) | chore: add SASE lesson infographic | 2026-05-30 15:19:52 |
 
 ## Neighbors
 

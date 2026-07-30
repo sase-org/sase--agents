@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`2267919`](https://github.com/sase-org/sase/commit/2267919394eb8751bc9b7abd80a74326a5ce701e) | fix: reveal collapsed containers during agent jumps | 2026-07-19 01:47:00 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`2267919`](https://github.com/sase-org/sase/commit/2267919394eb8751bc9b7abd80a74326a5ce701e) | fix: reveal collapsed containers during agent jumps | 2026-07-19 01:47:00 |
 
 ## Neighbors
 

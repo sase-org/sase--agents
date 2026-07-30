@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4d09e81`](https://github.com/sase-org/sase/commit/4d09e81b9c6669c4ca04594e8fc26dbaf057e080) | fix(ace): show bare container names for family roots | 2026-07-21 20:40:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4d09e81`](https://github.com/sase-org/sase/commit/4d09e81b9c6669c4ca04594e8fc26dbaf057e080) | fix(ace): show bare container names for family roots | 2026-07-21 20:40:38 |

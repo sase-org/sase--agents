@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d31c886`](https://github.com/sase-org/sase/commit/d31c8866bb473f3cfd36b95cfe5cb0670b19d89a) | fix(agent): keep generated family-role suffixes terminal (sase-91.5) | 2026-07-25 00:20:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d31c886`](https://github.com/sase-org/sase/commit/d31c8866bb473f3cfd36b95cfe5cb0670b19d89a) | fix(agent): keep generated family-role suffixes terminal (sase-91.5) | 2026-07-25 00:20:40 |
 
 ## Neighbors
 

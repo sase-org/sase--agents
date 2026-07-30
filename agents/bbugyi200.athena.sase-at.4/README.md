@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7396862`](https://github.com/sase-org/sase/commit/7396862437c034428ca25b4244beb4f0f92d325b) | docs: document the ViewReport notification action | 2026-07-29 16:30:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7396862`](https://github.com/sase-org/sase/commit/7396862437c034428ca25b4244beb4f0f92d325b) | docs: document the ViewReport notification action | 2026-07-29 16:30:51 |
 
 ## Neighbors
 

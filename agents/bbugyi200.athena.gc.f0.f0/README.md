@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`145f287`](https://github.com/sase-org/sase/commit/145f2876e8013faa2fc3f7aa8fb48ef2f76ed4cc) | feat(ace): resume last Admin Center section | 2026-07-20 18:07:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`145f287`](https://github.com/sase-org/sase/commit/145f2876e8013faa2fc3f7aa8fb48ef2f76ed4cc) | feat(ace): resume last Admin Center section | 2026-07-20 18:07:02 |
 
 ## Neighbors
 

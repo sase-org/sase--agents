@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7e4a995`](https://github.com/sase-org/sase/commit/7e4a995b4064843fa573d872446b92db45bb5300) | ref: split project management modal | 2026-06-02 10:48:53 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7e4a995`](https://github.com/sase-org/sase/commit/7e4a995b4064843fa573d872446b92db45bb5300) | ref: split project management modal | 2026-06-02 10:48:53 |
 
 ## Neighbors
 

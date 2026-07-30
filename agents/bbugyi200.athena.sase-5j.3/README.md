@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5568489`](https://github.com/sase-org/sase/commit/556848902da6b636b3c46e55cc6377852350f894) | feat: add SDD companion repo config (sase-5j.3) | 2026-07-08 04:37:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5568489`](https://github.com/sase-org/sase/commit/556848902da6b636b3c46e55cc6377852350f894) | feat: add SDD companion repo config (sase-5j.3) | 2026-07-08 04:37:11 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c1cd662`](https://github.com/sase-org/sase/commit/c1cd66291d8071d4192fd820ca692e347bdd56b2) | feat(ace): top-bar indicator for non-default alias overrides (sase-5e.4) | 2026-06-30 19:55:34 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c1cd662`](https://github.com/sase-org/sase/commit/c1cd66291d8071d4192fd820ca692e347bdd56b2) | feat(ace): top-bar indicator for non-default alias overrides (sase-5e.4) | 2026-06-30 19:55:34 |
 
 ## Neighbors
 

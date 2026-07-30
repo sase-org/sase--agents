@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`38760e2`](https://github.com/sase-org/sase/commit/38760e2f2eb9ef47bebbb1c89d4ec97624e8e598) | feat(ace): polish plan lane visuals | 2026-07-16 22:08:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`38760e2`](https://github.com/sase-org/sase/commit/38760e2f2eb9ef47bebbb1c89d4ec97624e8e598) | feat(ace): polish plan lane visuals | 2026-07-16 22:08:51 |
 
 ## Neighbors
 

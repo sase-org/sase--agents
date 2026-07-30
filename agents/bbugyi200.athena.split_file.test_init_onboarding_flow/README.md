@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fd152e0`](https://github.com/sase-org/sase/commit/fd152e08a9002f3979d7b05cdf1b43928ea920ec) | test: split init onboarding flow tests | 2026-07-07 00:19:49 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fd152e0`](https://github.com/sase-org/sase/commit/fd152e08a9002f3979d7b05cdf1b43928ea920ec) | test: split init onboarding flow tests | 2026-07-07 00:19:49 |
 
 ## Neighbors
 

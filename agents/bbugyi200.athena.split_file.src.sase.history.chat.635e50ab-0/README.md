@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c659638`](https://github.com/sase-org/sase/commit/c6596383a14fd9171a97d595056ae9f35eb4141c) | refactor(history): split chat history module | 2026-07-19 10:00:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c659638`](https://github.com/sase-org/sase/commit/c6596383a14fd9171a97d595056ae9f35eb4141c) | refactor(history): split chat history module | 2026-07-19 10:00:23 |
 
 ## Neighbors
 

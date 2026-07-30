@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a0ca459`](https://github.com/sase-org/sase/commit/a0ca459ea1c0e9b4b938df8e42bcb1b0ba33d51d) | docs(editor): document artifact semantic highlighting | 2026-07-29 19:35:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a0ca459`](https://github.com/sase-org/sase/commit/a0ca459ea1c0e9b4b938df8e42bcb1b0ba33d51d) | docs(editor): document artifact semantic highlighting | 2026-07-29 19:35:44 |
 
 ## Neighbors
 

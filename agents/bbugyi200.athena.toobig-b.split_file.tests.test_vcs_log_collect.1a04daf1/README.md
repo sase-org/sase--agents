@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ec6644e`](https://github.com/sase-org/sase/commit/ec6644e062e3f6858ad96a5dac351b8353a1135b) | test: split vcs log collection tests | 2026-07-21 17:10:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ec6644e`](https://github.com/sase-org/sase/commit/ec6644e062e3f6858ad96a5dac351b8353a1135b) | test: split vcs log collection tests | 2026-07-21 17:10:48 |
 
 ## Neighbors
 

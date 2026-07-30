@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`236ffd0`](https://github.com/sase-org/sase/commit/236ffd03aff81f591ff51e981418d303e9fa20d1) | test: split saved agent revival modal tests | 2026-06-23 12:14:04 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`236ffd0`](https://github.com/sase-org/sase/commit/236ffd03aff81f591ff51e981418d303e9fa20d1) | test: split saved agent revival modal tests | 2026-06-23 12:14:04 |
 
 ## Neighbors
 

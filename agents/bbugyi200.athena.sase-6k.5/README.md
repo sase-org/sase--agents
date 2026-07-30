@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`79f0a1b`](https://github.com/sase-org/sase/commit/79f0a1b4730c5d2b0d5ce04748abbfe9f63c4d8a) | feat(tui): add Admin Center telemetry dashboard (sase-6k.5) | 2026-07-17 18:08:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`79f0a1b`](https://github.com/sase-org/sase/commit/79f0a1b4730c5d2b0d5ce04748abbfe9f63c4d8a) | feat(tui): add Admin Center telemetry dashboard (sase-6k.5) | 2026-07-17 18:08:30 |
 
 ## Neighbors
 

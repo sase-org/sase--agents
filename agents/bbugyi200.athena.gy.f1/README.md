@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5a23c29`](https://github.com/sase-org/sase/commit/5a23c297f8a43ffc3a537da23ebb4aa319a68a22) | feat!: add load-balanced model alias pools | 2026-07-21 13:49:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5a23c29`](https://github.com/sase-org/sase/commit/5a23c297f8a43ffc3a537da23ebb4aa319a68a22) | feat!: add load-balanced model alias pools | 2026-07-21 13:49:20 |
 
 ## Neighbors
 

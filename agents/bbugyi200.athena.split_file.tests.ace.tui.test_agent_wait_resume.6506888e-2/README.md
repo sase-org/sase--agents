@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6fb4cf8`](https://github.com/sase-org/sase/commit/6fb4cf804f784105bfae744a88825d11580b8512) | test: split agent wait and resume coverage | 2026-07-19 21:20:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6fb4cf8`](https://github.com/sase-org/sase/commit/6fb4cf804f784105bfae744a88825d11580b8512) | test: split agent wait and resume coverage | 2026-07-19 21:20:23 |
 
 ## Neighbors
 

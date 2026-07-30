@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c98fd78`](https://github.com/sase-org/sase/commit/c98fd786744734fe7aee6ffeff247c250b5c0e56) | perf(ace): defer runtime ticks during navigation (sase-6n.9) | 2026-07-18 02:04:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c98fd78`](https://github.com/sase-org/sase/commit/c98fd786744734fe7aee6ffeff247c250b5c0e56) | perf(ace): defer runtime ticks during navigation (sase-6n.9) | 2026-07-18 02:04:48 |
 
 ## Neighbors
 

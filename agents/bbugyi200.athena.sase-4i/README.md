@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1511073`](https://github.com/sase-org/sase/commit/1511073f38e4c7e64f819c2de6e67a19a573b34f) | chore: close sase-4i doctor epic | 2026-06-09 17:50:36 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1511073`](https://github.com/sase-org/sase/commit/1511073f38e4c7e64f819c2de6e67a19a573b34f) | chore: close sase-4i doctor epic | 2026-06-09 17:50:36 |
 
 ## Neighbors
 

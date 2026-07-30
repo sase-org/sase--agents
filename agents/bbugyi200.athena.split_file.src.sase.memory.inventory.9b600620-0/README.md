@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0a36657`](https://github.com/sase-org/sase/commit/0a36657fca6544acb16041f1f75029f79fe83257) | refactor(memory): split inventory into focused modules | 2026-07-19 10:29:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0a36657`](https://github.com/sase-org/sase/commit/0a36657fca6544acb16041f1f75029f79fe83257) | refactor(memory): split inventory into focused modules | 2026-07-19 10:29:09 |
 
 ## Neighbors
 

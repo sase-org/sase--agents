@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`364dcbc`](https://github.com/sase-org/sase/commit/364dcbc897a9119fb807a5264f120b8275be0872) | chore: add memory system research critique | 2026-05-31 18:47:35 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`364dcbc`](https://github.com/sase-org/sase/commit/364dcbc897a9119fb807a5264f120b8275be0872) | chore: add memory system research critique | 2026-05-31 18:47:35 |
 
 ## Neighbors
 

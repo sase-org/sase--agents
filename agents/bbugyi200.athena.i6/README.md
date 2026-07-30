@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0e26ea1`](https://github.com/sase-org/sase/commit/0e26ea1939823a2f5d5e5922c519cd2525ea5385) | feat(ace): highlight leading bullet dashes in prompt input | 2026-07-22 14:09:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0e26ea1`](https://github.com/sase-org/sase/commit/0e26ea1939823a2f5d5e5922c519cd2525ea5385) | feat(ace): highlight leading bullet dashes in prompt input | 2026-07-22 14:09:54 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1caf496`](https://github.com/sase-org/sase/commit/1caf496db918fe93ef38c9b5d59db92d3d1049f1) | test: split tools panel tests | 2026-07-06 12:35:28 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1caf496`](https://github.com/sase-org/sase/commit/1caf496db918fe93ef38c9b5d59db92d3d1049f1) | test: split tools panel tests | 2026-07-06 12:35:28 |
 
 ## Neighbors
 

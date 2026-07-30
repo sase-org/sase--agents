@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b875af1`](https://github.com/sase-org/sase/commit/b875af1f298436f96adaadf11b41faef688817b6) | refactor(prompt-panel): split agent display mixin | 2026-06-20 23:13:43 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b875af1`](https://github.com/sase-org/sase/commit/b875af1f298436f96adaadf11b41faef688817b6) | refactor(prompt-panel): split agent display mixin | 2026-06-20 23:13:43 |
 
 ## Neighbors
 

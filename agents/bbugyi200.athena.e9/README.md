@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`be0c9b5`](https://github.com/sase-org/sase/commit/be0c9b5c4b3be9e518245ec22b70684058f6fd71) | feat(ace): add prompt stash delete-all action | 2026-07-19 11:27:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`be0c9b5`](https://github.com/sase-org/sase/commit/be0c9b5c4b3be9e518245ec22b70684058f6fd71) | feat(ace): add prompt stash delete-all action | 2026-07-19 11:27:13 |

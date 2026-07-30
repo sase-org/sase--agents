@@ -20,9 +20,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`127ca32`](https://github.com/sase-org/sase/commit/127ca32f3b461a84a7cb85b641ec5cb292339057) | docs: add alternate research take on dynamic agent family workflows | 2026-06-17 22:27:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`127ca32`](https://github.com/sase-org/sase/commit/127ca32f3b461a84a7cb85b641ec5cb292339057) | docs: add alternate research take on dynamic agent family workflows | 2026-06-17 22:27:56 |
 
 ## Variables
 

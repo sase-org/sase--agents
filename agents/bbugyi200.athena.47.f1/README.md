@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c075b5a`](https://github.com/sase-org/sase/commit/c075b5af3b7d9d72f967d6241ce9ecde01961a73) | chore: Add SDD prompt and plan for namespace\_template\_review | 2026-06-09 15:53:37 |
-| [`576b246`](https://github.com/sase-org/sase/commit/576b2465ad84041921e7eec758e532c67ae0c30a) | ref: tighten namespace-aware agent name template allocation | 2026-06-09 16:02:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c075b5a`](https://github.com/sase-org/sase/commit/c075b5af3b7d9d72f967d6241ce9ecde01961a73) | chore: Add SDD prompt and plan for namespace\_template\_review | 2026-06-09 15:53:37 |
+| sase | [`576b246`](https://github.com/sase-org/sase/commit/576b2465ad84041921e7eec758e532c67ae0c30a) | ref: tighten namespace-aware agent name template allocation | 2026-06-09 16:02:54 |
 
 ## Neighbors
 

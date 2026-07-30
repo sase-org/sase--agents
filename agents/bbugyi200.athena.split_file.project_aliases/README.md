@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`76ea771`](https://github.com/sase-org/sase/commit/76ea77126defcbd700c35108b7fff2234af900f9) | refactor: split project alias services into focused modules | 2026-07-12 00:08:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`76ea771`](https://github.com/sase-org/sase/commit/76ea77126defcbd700c35108b7fff2234af900f9) | refactor: split project alias services into focused modules | 2026-07-12 00:08:21 |
 
 ## Neighbors
 

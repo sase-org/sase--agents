@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`c0d68a4`](https://github.com/sase-org/sase/commit/c0d68a4f21a7fdac281094d8823eef4b1e08294e) | feat(updates): track provider CLI update candidates (sase-83.1) | 2026-07-20 14:57:32 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`c0d68a4`](https://github.com/sase-org/sase/commit/c0d68a4f21a7fdac281094d8823eef4b1e08294e) | feat(updates): track provider CLI update candidates (sase-83.1) | 2026-07-20 14:57:32 |
 
 ## Neighbors
 

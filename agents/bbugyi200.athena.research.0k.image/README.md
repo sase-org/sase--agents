@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b46d9e3`](https://github.com/sase-org/sase/commit/b46d9e312db9f5f5d3fa2877bb2f20ade1ea53f5) | docs: add epic bead work migration infographic | 2026-06-25 23:08:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b46d9e3`](https://github.com/sase-org/sase/commit/b46d9e312db9f5f5d3fa2877bb2f20ade1ea53f5) | docs: add epic bead work migration infographic | 2026-06-25 23:08:39 |
 
 ## Neighbors
 

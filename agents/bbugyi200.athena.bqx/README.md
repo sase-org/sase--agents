@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`be32faa`](https://github.com/sase-org/sase/commit/be32faa1c5936c1be7962aaca1df921209485119) | chore: Add SDD prompt and plan for epic\_created\_status\_1 | 2026-06-01 14:27:02 |
-| [`0ebc5a3`](https://github.com/sase-org/sase/commit/0ebc5a36a5e57a1bee11c963d9c3ccc5961a5c21) | fix: surface epic creation status for completed followups | 2026-06-01 14:31:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`be32faa`](https://github.com/sase-org/sase/commit/be32faa1c5936c1be7962aaca1df921209485119) | chore: Add SDD prompt and plan for epic\_created\_status\_1 | 2026-06-01 14:27:02 |
+| sase | [`0ebc5a3`](https://github.com/sase-org/sase/commit/0ebc5a36a5e57a1bee11c963d9c3ccc5961a5c21) | fix: surface epic creation status for completed followups | 2026-06-01 14:31:02 |

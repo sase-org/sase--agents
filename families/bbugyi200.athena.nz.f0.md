@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`1e44e03`](https://github.com/sase-org/sase/commit/1e44e0367cdc1fa4fbf81b9dde350de8c45a8103) | fix(ace): restore prompt-local placeholder precedence | 2026-07-29 12:54:05 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`1e44e03`](https://github.com/sase-org/sase/commit/1e44e0367cdc1fa4fbf81b9dde350de8c45a8103) | fix(ace): restore prompt-local placeholder precedence | 2026-07-29 12:54:05 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5d1a5bd`](https://github.com/sase-org/sase/commit/5d1a5bd4152b65651e039e8d93cb47ae22ec7ced) | fix(uv\_tool): polish update/plugin output and add real-uv harness (sase-58.4) | 2026-06-26 03:07:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5d1a5bd`](https://github.com/sase-org/sase/commit/5d1a5bd4152b65651e039e8d93cb47ae22ec7ced) | fix(uv\_tool): polish update/plugin output and add real-uv harness (sase-58.4) | 2026-06-26 03:07:09 |
 
 ## Neighbors
 

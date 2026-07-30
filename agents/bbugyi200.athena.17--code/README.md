@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f2d82e3`](https://github.com/sase-org/sase/commit/f2d82e3d98ba749df8ecf06469e003b6f023bf00) | feat(ace): add zoom panel search | 2026-07-07 22:34:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f2d82e3`](https://github.com/sase-org/sase/commit/f2d82e3d98ba749df8ecf06469e003b6f023bf00) | feat(ace): add zoom panel search | 2026-07-07 22:34:24 |
 
 ## Neighbors
 

@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`64bbbca`](https://github.com/sase-org/sase/commit/64bbbcaf6734d99bac329f88397569058188da2e) | chore: Add SDD prompt and plan for video\_artifact\_preview | 2026-07-06 20:51:46 |
-| root | [`e49c4e1`](https://github.com/sase-org/sase/commit/e49c4e13698a4b703c3e2b0e56178b0a7a0b8ef6) | feat(ace): preview video artifacts with mpv | 2026-07-06 21:10:15 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`64bbbca`](https://github.com/sase-org/sase/commit/64bbbcaf6734d99bac329f88397569058188da2e) | chore: Add SDD prompt and plan for video\_artifact\_preview | 2026-07-06 20:51:46 |
+| root | sase | [`e49c4e1`](https://github.com/sase-org/sase/commit/e49c4e13698a4b703c3e2b0e56178b0a7a0b8ef6) | feat(ace): preview video artifacts with mpv | 2026-07-06 21:10:15 |
 
 ## Neighbors
 

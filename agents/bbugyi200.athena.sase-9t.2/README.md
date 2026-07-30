@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b3bfb81`](https://github.com/sase-org/sase/commit/b3bfb817399efea2d19a58b4df106dbe4b8c1534) | feat(axe): plumb optional lumberjack descriptions (sase-9t.2) | 2026-07-26 13:42:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b3bfb81`](https://github.com/sase-org/sase/commit/b3bfb817399efea2d19a58b4df106dbe4b8c1534) | feat(axe): plumb optional lumberjack descriptions (sase-9t.2) | 2026-07-26 13:42:24 |
 
 ## Neighbors
 

@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`798b559`](https://github.com/sase-org/sase/commit/798b55922e38230f9810e39f01c017210015cb4c) | chore: Add SDD prompt and plan for xprompts\_filter\_focus | 2026-06-27 13:26:04 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`798b559`](https://github.com/sase-org/sase/commit/798b55922e38230f9810e39f01c017210015cb4c) | chore: Add SDD prompt and plan for xprompts\_filter\_focus | 2026-06-27 13:26:04 |

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`821ae68`](https://github.com/sase-org/sase/commit/821ae68a97195e2ade16a530c0dc77587fe9062f) | fix(tui): scope bead display cache by project (#179) | 2026-06-18 15:55:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`821ae68`](https://github.com/sase-org/sase/commit/821ae68a97195e2ade16a530c0dc77587fe9062f) | fix(tui): scope bead display cache by project (#179) | 2026-06-18 15:55:27 |
 
 ## Neighbors
 

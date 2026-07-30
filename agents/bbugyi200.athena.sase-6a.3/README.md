@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1d9b5d0`](https://github.com/sase-org/sase/commit/1d9b5d0a9ae6ef86b610258fbcdb931b89ed1e82) | feat(tui): redesign plans detail pane (sase-6a.3) | 2026-07-16 14:09:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1d9b5d0`](https://github.com/sase-org/sase/commit/1d9b5d0a9ae6ef86b610258fbcdb931b89ed1e82) | feat(tui): redesign plans detail pane (sase-6a.3) | 2026-07-16 14:09:25 |
 
 ## Neighbors
 

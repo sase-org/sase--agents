@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bee6423`](https://github.com/sase-org/sase/commit/bee6423a8289eaa70f725d9043d6a0077a715d14) | chore: update research\_swarm loader regression | 2026-06-03 06:48:55 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`bee6423`](https://github.com/sase-org/sase/commit/bee6423a8289eaa70f725d9043d6a0077a715d14) | chore: update research\_swarm loader regression | 2026-06-03 06:48:55 |

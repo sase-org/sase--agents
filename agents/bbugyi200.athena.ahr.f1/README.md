@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6736a8c`](https://github.com/sase-org/sase/commit/6736a8c3f910de2033e1cc9f8a739879f0ab62ea) | chore: expand sase amd command research | 2026-05-26 21:10:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6736a8c`](https://github.com/sase-org/sase/commit/6736a8c3f910de2033e1cc9f8a739879f0ab62ea) | chore: expand sase amd command research | 2026-05-26 21:10:13 |
 
 ## Neighbors
 

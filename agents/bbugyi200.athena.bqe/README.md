@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`86c864a`](https://github.com/sase-org/sase/commit/86c864af24870ff69a40636c6a461c861f8fff05) | chore: Add SDD prompt and plan for remove\_long\_memory\_subheading | 2026-05-31 16:10:08 |
-| [`0fee209`](https://github.com/sase-org/sase/commit/0fee2097c14975484ba186b7a2def26503dadad8) | fix: remove long memory subheading from AMD output | 2026-05-31 16:16:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`86c864a`](https://github.com/sase-org/sase/commit/86c864af24870ff69a40636c6a461c861f8fff05) | chore: Add SDD prompt and plan for remove\_long\_memory\_subheading | 2026-05-31 16:10:08 |
+| sase | [`0fee209`](https://github.com/sase-org/sase/commit/0fee2097c14975484ba186b7a2def26503dadad8) | fix: remove long memory subheading from AMD output | 2026-05-31 16:16:25 |

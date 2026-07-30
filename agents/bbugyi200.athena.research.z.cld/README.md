@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ee69270`](https://github.com/sase-org/sase/commit/ee6927081d1c7ea76b85f98a5b95a77bb7b45777) | docs: research consequences of removing sibling repos concept | 2026-06-20 16:12:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ee69270`](https://github.com/sase-org/sase/commit/ee6927081d1c7ea76b85f98a5b95a77bb7b45777) | docs: research consequences of removing sibling repos concept | 2026-06-20 16:12:22 |
 
 ## Neighbors
 

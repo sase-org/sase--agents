@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3f81fb3`](https://github.com/sase-org/sase/commit/3f81fb3e9b99cad18caa948e3871302e3c63aad9) | test: split agent panel collapse coverage | 2026-07-22 13:59:01 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3f81fb3`](https://github.com/sase-org/sase/commit/3f81fb3e9b99cad18caa948e3871302e3c63aad9) | test: split agent panel collapse coverage | 2026-07-22 13:59:01 |

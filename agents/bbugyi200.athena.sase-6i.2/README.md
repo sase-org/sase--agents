@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`158e9a2`](https://github.com/sase-org/sase/commit/158e9a293c8e679728ef94f8989e895f6126f4a2) | feat(gates): add custom notification gate execution (sase-6i.2) | 2026-07-17 03:58:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`158e9a2`](https://github.com/sase-org/sase/commit/158e9a293c8e679728ef94f8989e895f6126f4a2) | feat(gates): add custom notification gate execution (sase-6i.2) | 2026-07-17 03:58:38 |
 
 ## Neighbors
 

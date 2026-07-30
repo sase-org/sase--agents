@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0272356`](https://github.com/sase-org/sase/commit/0272356a5df3070960e1634eae673524fe3d0bc0) | docs: document keyed xprompt markers | 2026-07-29 14:56:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0272356`](https://github.com/sase-org/sase/commit/0272356a5df3070960e1634eae673524fe3d0bc0) | docs: document keyed xprompt markers | 2026-07-29 14:56:41 |
 
 ## Neighbors
 

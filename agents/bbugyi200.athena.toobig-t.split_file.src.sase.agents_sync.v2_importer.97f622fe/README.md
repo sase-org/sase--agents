@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3bc618f`](https://github.com/sase-org/sase/commit/3bc618fee5ae37cb0e74da8d8870f7531f174fe7) | refactor(agents-sync): split v2 importer into focused modules | 2026-07-24 23:37:26 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3bc618f`](https://github.com/sase-org/sase/commit/3bc618fee5ae37cb0e74da8d8870f7531f174fe7) | refactor(agents-sync): split v2 importer into focused modules | 2026-07-24 23:37:26 |
 
 ## Neighbors
 

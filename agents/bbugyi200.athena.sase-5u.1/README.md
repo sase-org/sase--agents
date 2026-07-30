@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c321764`](https://github.com/sase-org/sase/commit/c321764e3379fcb71c96df83b9242a83c1d700fd) | feat: add concurrent agent limit directive plumbing (sase-5u.1) | 2026-07-12 22:31:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c321764`](https://github.com/sase-org/sase/commit/c321764e3379fcb71c96df83b9242a83c1d700fd) | feat: add concurrent agent limit directive plumbing (sase-5u.1) | 2026-07-12 22:31:58 |
 
 ## Neighbors
 

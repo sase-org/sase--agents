@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d643af6`](https://github.com/sase-org/sase/commit/d643af684dd90f11099195b33b27200d4eb91df8) | chore: remove unused vendored bugyi shell library (sase-5v.6) | 2026-07-13 10:51:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d643af6`](https://github.com/sase-org/sase/commit/d643af684dd90f11099195b33b27200d4eb91df8) | chore: remove unused vendored bugyi shell library (sase-5v.6) | 2026-07-13 10:51:24 |
 
 ## Neighbors
 

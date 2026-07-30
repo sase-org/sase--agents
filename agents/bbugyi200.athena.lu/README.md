@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`05b45da`](https://github.com/sase-org/sase/commit/05b45da0193c11c084c80673208a38db045fc6a5) | fix(xprompt): preserve fork query spacing | 2026-07-27 11:32:00 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`05b45da`](https://github.com/sase-org/sase/commit/05b45da0193c11c084c80673208a38db045fc6a5) | fix(xprompt): preserve fork query spacing | 2026-07-27 11:32:00 |

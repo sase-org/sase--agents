@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`60c5526`](https://github.com/sase-org/sase/commit/60c5526e77e3b6e74f0fe493c7e703eb9bdb8b94) | chore: consolidate new-user onboarding research | 2026-06-09 22:16:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`60c5526`](https://github.com/sase-org/sase/commit/60c5526e77e3b6e74f0fe493c7e703eb9bdb8b94) | chore: consolidate new-user onboarding research | 2026-06-09 22:16:06 |
 
 ## Neighbors
 

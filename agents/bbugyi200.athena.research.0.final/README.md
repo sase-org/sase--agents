@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`39f0e12`](https://github.com/sase-org/sase/commit/39f0e127cdf171ff6c7579e9a873bd1be9d455e4) | docs: consolidate GitHub SDD repo research | 2026-07-08 02:36:59 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`39f0e12`](https://github.com/sase-org/sase/commit/39f0e127cdf171ff6c7579e9a873bd1be9d455e4) | docs: consolidate GitHub SDD repo research | 2026-07-08 02:36:59 |
 
 ## Neighbors
 

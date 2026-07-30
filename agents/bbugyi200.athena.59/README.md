@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0cc5930`](https://github.com/sase-org/sase/commit/0cc5930694b803f9b0ce40d549b31bed458b5ce1) | chore: Add SDD prompt and plan for sase\_pypi\_015\_trusted\_publishing | 2026-06-11 11:54:05 |
-| [`064e9bf`](https://github.com/sase-org/sase/commit/064e9bffc41b3a27ea55e74dcbaec5e02c7eb616) | chore: configure PyPI publish workflow | 2026-06-11 11:59:03 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0cc5930`](https://github.com/sase-org/sase/commit/0cc5930694b803f9b0ce40d549b31bed458b5ce1) | chore: Add SDD prompt and plan for sase\_pypi\_015\_trusted\_publishing | 2026-06-11 11:54:05 |
+| sase | [`064e9bf`](https://github.com/sase-org/sase/commit/064e9bffc41b3a27ea55e74dcbaec5e02c7eb616) | chore: configure PyPI publish workflow | 2026-06-11 11:59:03 |
 
 ## Neighbors
 

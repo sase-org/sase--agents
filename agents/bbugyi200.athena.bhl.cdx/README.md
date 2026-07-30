@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ffe67b3`](https://github.com/sase-org/sase/commit/ffe67b30a7a1cbb67a46baaddb27750a4937af17) | chore: Add SDD prompt and plan for chop\_open\_changespec\_guard | 2026-05-26 22:34:50 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ffe67b3`](https://github.com/sase-org/sase/commit/ffe67b30a7a1cbb67a46baaddb27750a4937af17) | chore: Add SDD prompt and plan for chop\_open\_changespec\_guard | 2026-05-26 22:34:50 |

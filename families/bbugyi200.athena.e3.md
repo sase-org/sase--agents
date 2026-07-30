@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`ad45962`](https://github.com/sase-org/sase/commit/ad4596285d9bf394df688c2e0cd1cb41293dbebb) | fix(memory): avoid redundant init approval requests | 2026-07-18 23:24:57 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`ad45962`](https://github.com/sase-org/sase/commit/ad4596285d9bf394df688c2e0cd1cb41293dbebb) | fix(memory): avoid redundant init approval requests | 2026-07-18 23:24:57 |

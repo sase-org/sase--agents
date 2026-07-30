@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`43ba5da`](https://github.com/sase-org/sase/commit/43ba5daf72c0d112902fe4b33fbc9bc07e4a86c1) | fix(runner-slots): defer deprioritized admission (sase-9k.1) | 2026-07-25 15:06:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`43ba5da`](https://github.com/sase-org/sase/commit/43ba5daf72c0d112902fe4b33fbc9bc07e4a86c1) | fix(runner-slots): defer deprioritized admission (sase-9k.1) | 2026-07-25 15:06:09 |
 
 ## Neighbors
 

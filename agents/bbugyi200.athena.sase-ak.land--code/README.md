@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0b3d16c`](https://github.com/sase-org/sase/commit/0b3d16ce40b7b0d20aa504d748c4147d3dfc9967) | fix(ace): finish tribe wait integration | 2026-07-28 22:36:19 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0b3d16c`](https://github.com/sase-org/sase/commit/0b3d16ce40b7b0d20aa504d748c4147d3dfc9967) | fix(ace): finish tribe wait integration | 2026-07-28 22:36:19 |
 
 ## Neighbors
 

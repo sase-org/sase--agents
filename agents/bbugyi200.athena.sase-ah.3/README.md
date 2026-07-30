@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ee5938a`](https://github.com/sase-org/sase/commit/ee5938a20b9a42b247a73601c2accc3d5d984504) | feat(agents-sync): surface retired publication requests to operators (sase-ah.3) | 2026-07-28 19:22:12 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ee5938a`](https://github.com/sase-org/sase/commit/ee5938a20b9a42b247a73601c2accc3d5d984504) | feat(agents-sync): surface retired publication requests to operators (sase-ah.3) | 2026-07-28 19:22:12 |
 
 ## Neighbors
 

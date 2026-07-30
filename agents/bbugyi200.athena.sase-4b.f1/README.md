@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`216f658`](https://github.com/sase-org/sase/commit/216f658c26dcecb39fc733f7541b97bd2cf03ac3) | chore: Add SDD prompt and plan for ref\_type\_frontmatter | 2026-06-03 21:05:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`216f658`](https://github.com/sase-org/sase/commit/216f658c26dcecb39fc733f7541b97bd2cf03ac3) | chore: Add SDD prompt and plan for ref\_type\_frontmatter | 2026-06-03 21:05:58 |
 
 ## Neighbors
 

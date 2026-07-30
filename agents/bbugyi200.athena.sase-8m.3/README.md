@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`058cd64`](https://github.com/sase-org/sase/commit/058cd646fb1d3113fe28186473f252dc4f488d13) | feat(axe): add config management workflows (sase-8m.3) | 2026-07-22 18:39:16 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`058cd64`](https://github.com/sase-org/sase/commit/058cd646fb1d3113fe28186473f252dc4f488d13) | feat(axe): add config management workflows (sase-8m.3) | 2026-07-22 18:39:16 |
 
 ## Neighbors
 

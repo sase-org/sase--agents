@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9d3ff15`](https://github.com/sase-org/sase/commit/9d3ff15eb902e747c1db23c4bcdfb12ffd465ef1) | chore: Add SDD prompt and plan for vcs\_xprompt\_mru\_all\_launch\_paths | 2026-06-29 14:39:54 |
-| [`669ecfe`](https://github.com/sase-org/sase/commit/669ecfee73629bc256859990a066f1adc34ee049) | fix: record VCS xprompt MRU for launch paths | 2026-06-29 14:58:33 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9d3ff15`](https://github.com/sase-org/sase/commit/9d3ff15eb902e747c1db23c4bcdfb12ffd465ef1) | chore: Add SDD prompt and plan for vcs\_xprompt\_mru\_all\_launch\_paths | 2026-06-29 14:39:54 |
+| sase | [`669ecfe`](https://github.com/sase-org/sase/commit/669ecfee73629bc256859990a066f1adc34ee049) | fix: record VCS xprompt MRU for launch paths | 2026-06-29 14:58:33 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b762964`](https://github.com/sase-org/sase/commit/b762964a53714994d8c578f7fc6475428b14ff24) | feat: add plan approval member selection (sase-5g.6) | 2026-07-06 11:45:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b762964`](https://github.com/sase-org/sase/commit/b762964a53714994d8c578f7fc6475428b14ff24) | feat: add plan approval member selection (sase-5g.6) | 2026-07-06 11:45:44 |
 
 ## Neighbors
 

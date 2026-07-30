@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0c717b6`](https://github.com/sase-org/sase/commit/0c717b6dfde32d8e478ce02105e76250950e8448) | chore: Add SDD prompt and plan for sase\_update\_and\_plugin\_install | 2026-06-26 01:15:50 |
-| [`00fa262`](https://github.com/sase-org/sase/commit/00fa262ae37c320a0700e97c0f7ddf70fcc5e1ae) | chore: create update plugin epic beads | 2026-06-26 01:23:08 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0c717b6`](https://github.com/sase-org/sase/commit/0c717b6dfde32d8e478ce02105e76250950e8448) | chore: Add SDD prompt and plan for sase\_update\_and\_plugin\_install | 2026-06-26 01:15:50 |
+| sase | [`00fa262`](https://github.com/sase-org/sase/commit/00fa262ae37c320a0700e97c0f7ddf70fcc5e1ae) | chore: create update plugin epic beads | 2026-06-26 01:23:08 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`dd54d69`](https://github.com/sase-org/sase/commit/dd54d69839f8bf8c6fe91dd89f7486b88fec508f) | docs: refresh guides for current behavior | 2026-07-19 15:55:35 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`dd54d69`](https://github.com/sase-org/sase/commit/dd54d69839f8bf8c6fe91dd89f7486b88fec508f) | docs: refresh guides for current behavior | 2026-07-19 15:55:35 |
 
 ## Neighbors
 

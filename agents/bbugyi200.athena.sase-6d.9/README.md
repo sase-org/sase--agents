@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1a39e38`](https://github.com/sase-org/sase/commit/1a39e3872aa5e2aae02105453b7016d97d4c98f0) | docs: finish canonical SASE path cleanup (sase-6d.9) | 2026-07-16 20:33:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1a39e38`](https://github.com/sase-org/sase/commit/1a39e3872aa5e2aae02105453b7016d97d4c98f0) | docs: finish canonical SASE path cleanup (sase-6d.9) | 2026-07-16 20:33:07 |
 
 ## Neighbors
 

@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`494a12b`](https://github.com/sase-org/sase/commit/494a12b766b3b54f203146c5eb73d8cf2eb59207) | chore: Add SDD prompt and plan for updates\_tab\_plugin\_detail\_space\_and\_scroll | 2026-06-29 13:24:09 |
-| [`ec82208`](https://github.com/sase-org/sase/commit/ec82208ef438c5bb4d51d345807451a137f4a124) | fix(ace): improve plugin detail scrolling | 2026-06-29 13:43:34 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`494a12b`](https://github.com/sase-org/sase/commit/494a12b766b3b54f203146c5eb73d8cf2eb59207) | chore: Add SDD prompt and plan for updates\_tab\_plugin\_detail\_space\_and\_scroll | 2026-06-29 13:24:09 |
+| sase | [`ec82208`](https://github.com/sase-org/sase/commit/ec82208ef438c5bb4d51d345807451a137f4a124) | fix(ace): improve plugin detail scrolling | 2026-06-29 13:43:34 |

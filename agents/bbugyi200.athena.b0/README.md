@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b02ae14`](https://github.com/sase-org/sase/commit/b02ae14fb4625e3940ae5e5d25835fd48ec6ba9e) | feat(ace): add selected panel folding mode | 2026-07-16 21:28:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b02ae14`](https://github.com/sase-org/sase/commit/b02ae14fb4625e3940ae5e5d25835fd48ec6ba9e) | feat(ace): add selected panel folding mode | 2026-07-16 21:28:44 |

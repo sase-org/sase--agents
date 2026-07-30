@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d5e1017`](https://github.com/sase-org/sase/commit/d5e10175dfcc58a1d1df0e9b1800f5dcc1b87fa2) | feat(cli): support multiline output variable values | 2026-07-28 15:53:35 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d5e1017`](https://github.com/sase-org/sase/commit/d5e10175dfcc58a1d1df0e9b1800f5dcc1b87fa2) | feat(cli): support multiline output variable values | 2026-07-28 15:53:35 |

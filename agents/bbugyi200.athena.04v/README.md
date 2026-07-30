@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3223500`](https://github.com/sase-org/sase/commit/3223500910bde745512a0271925a4b4b850075da) | chore: Add SDD prompt and plan for fix\_commits\_panel\_snapshot | 2026-06-24 10:50:32 |
-| [`48b976f`](https://github.com/sase-org/sase/commit/48b976f2e9102f51c7d48d4554a00cfb5a5d85cd) | test: stabilize commits panel visual snapshot | 2026-06-24 10:56:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3223500`](https://github.com/sase-org/sase/commit/3223500910bde745512a0271925a4b4b850075da) | chore: Add SDD prompt and plan for fix\_commits\_panel\_snapshot | 2026-06-24 10:50:32 |
+| sase | [`48b976f`](https://github.com/sase-org/sase/commit/48b976f2e9102f51c7d48d4554a00cfb5a5d85cd) | test: stabilize commits panel visual snapshot | 2026-06-24 10:56:38 |

@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`990a06f`](https://github.com/sase-org/sase/commit/990a06fbc5fda2074132748511157f87438b23fc) | chore: Add SDD prompt and plan for pypi\_release\_recovery | 2026-06-09 11:12:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`990a06f`](https://github.com/sase-org/sase/commit/990a06fbc5fda2074132748511157f87438b23fc) | chore: Add SDD prompt and plan for pypi\_release\_recovery | 2026-06-09 11:12:22 |

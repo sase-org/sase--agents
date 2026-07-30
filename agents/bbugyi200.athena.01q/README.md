@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7584ee8`](https://github.com/sase-org/sase/commit/7584ee8ce1fdae4451ad9fd1fe84f9fca354fdc3) | chore: Add SDD prompt and plan for xprompt\_completion\_project\_scope | 2026-06-20 01:29:48 |
-| [`8ed5ba9`](https://github.com/sase-org/sase/commit/8ed5ba9278555d7e43dd4e05e1cecb7d2dc8d09d) | fix(xprompt): keep virtual catalog sources global | 2026-06-20 01:40:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7584ee8`](https://github.com/sase-org/sase/commit/7584ee8ce1fdae4451ad9fd1fe84f9fca354fdc3) | chore: Add SDD prompt and plan for xprompt\_completion\_project\_scope | 2026-06-20 01:29:48 |
+| sase | [`8ed5ba9`](https://github.com/sase-org/sase/commit/8ed5ba9278555d7e43dd4e05e1cecb7d2dc8d09d) | fix(xprompt): keep virtual catalog sources global | 2026-06-20 01:40:54 |

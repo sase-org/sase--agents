@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`df67668`](https://github.com/sase-org/sase/commit/df676685d6d060d8c40857ed3ad77dfc03f53dd0) | chore: Add SDD prompt and plan for p0\_onboarding | 2026-06-09 22:41:57 |
-| [`8799a4d`](https://github.com/sase-org/sase/commit/8799a4d820b7122bd3275a41057704b8299f349c) | chore: create P0 onboarding epic beads | 2026-06-09 22:46:17 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`df67668`](https://github.com/sase-org/sase/commit/df676685d6d060d8c40857ed3ad77dfc03f53dd0) | chore: Add SDD prompt and plan for p0\_onboarding | 2026-06-09 22:41:57 |
+| sase | [`8799a4d`](https://github.com/sase-org/sase/commit/8799a4d820b7122bd3275a41057704b8299f349c) | chore: create P0 onboarding epic beads | 2026-06-09 22:46:17 |
 
 ## Neighbors
 

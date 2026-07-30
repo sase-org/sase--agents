@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`46153d4`](https://github.com/sase-org/sase/commit/46153d429548785e299f410aca75c14d9ac5f159) | chore: add episodic events research infographic | 2026-05-26 21:08:43 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`46153d4`](https://github.com/sase-org/sase/commit/46153d429548785e299f410aca75c14d9ac5f159) | chore: add episodic events research infographic | 2026-05-26 21:08:43 |
 
 ## Neighbors
 

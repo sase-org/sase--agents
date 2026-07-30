@@ -15,8 +15,8 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c7c5d55`](https://github.com/sase-org/sase/commit/c7c5d55d23ac15ae1201d964e600fda2a988ede1) | ci: cap job runtimes and supersede stale runs | 2026-07-18 16:04:02 |
-| [`fde0d42`](https://github.com/sase-org/sase/commit/fde0d425e33c81534510397d01f8664f083ad042) | fix(core): tolerate unknown keys in wire rehydration | 2026-07-18 16:29:32 |
-| [`44132ed`](https://github.com/sase-org/sase/commit/44132edaa3be5fd89becade93273533b2e1471ec) | fix(deps): require sase-core-rs 0.7.0 and gate published bindings | 2026-07-18 16:53:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c7c5d55`](https://github.com/sase-org/sase/commit/c7c5d55d23ac15ae1201d964e600fda2a988ede1) | ci: cap job runtimes and supersede stale runs | 2026-07-18 16:04:02 |
+| sase | [`fde0d42`](https://github.com/sase-org/sase/commit/fde0d425e33c81534510397d01f8664f083ad042) | fix(core): tolerate unknown keys in wire rehydration | 2026-07-18 16:29:32 |
+| sase | [`44132ed`](https://github.com/sase-org/sase/commit/44132edaa3be5fd89becade93273533b2e1471ec) | fix(deps): require sase-core-rs 0.7.0 and gate published bindings | 2026-07-18 16:53:25 |

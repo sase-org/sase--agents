@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`06de2f0`](https://github.com/sase-org/sase/commit/06de2f0d9c672a06f2111e5af0d420d254b89231) | test: split prompt input bar stack editor tests | 2026-06-22 13:06:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`06de2f0`](https://github.com/sase-org/sase/commit/06de2f0d9c672a06f2111e5af0d420d254b89231) | test: split prompt input bar stack editor tests | 2026-06-22 13:06:51 |
 
 ## Neighbors
 

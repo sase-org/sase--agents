@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`605b7ba`](https://github.com/sase-org/sase/commit/605b7baa1d4a9a95b4188f32fb69a05d23031eab) | fix(ace): remove clan and family identity icons | 2026-07-18 17:43:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`605b7ba`](https://github.com/sase-org/sase/commit/605b7baa1d4a9a95b4188f32fb69a05d23031eab) | fix(ace): remove clan and family identity icons | 2026-07-18 17:43:32 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f5338b8`](https://github.com/sase-org/sase/commit/f5338b812004b469631077e13a9852c37f480f7d) | docs: consolidate bead work latency research | 2026-06-23 16:12:14 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f5338b8`](https://github.com/sase-org/sase/commit/f5338b812004b469631077e13a9852c37f480f7d) | docs: consolidate bead work latency research | 2026-06-23 16:12:14 |
 
 ## Neighbors
 

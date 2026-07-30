@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7ac5b91`](https://github.com/sase-org/sase/commit/7ac5b917c08ebe10f847caacdcabf2a2fcc401a6) | feat(beads): repair legacy design references (sase-9z.5) | 2026-07-27 15:18:08 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7ac5b91`](https://github.com/sase-org/sase/commit/7ac5b917c08ebe10f847caacdcabf2a2fcc401a6) | feat(beads): repair legacy design references (sase-9z.5) | 2026-07-27 15:18:08 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`788e321`](https://github.com/sase-org/sase/commit/788e321c6445309771f65c300d91841d7e1a55f1) | feat(llm\_provider)!: route bead/epic launches through role aliases and retire worker lane (sase-5d.4) | 2026-06-30 15:59:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`788e321`](https://github.com/sase-org/sase/commit/788e321c6445309771f65c300d91841d7e1a55f1) | feat(llm\_provider)!: route bead/epic launches through role aliases and retire worker lane (sase-5d.4) | 2026-06-30 15:59:46 |
 
 ## Neighbors
 

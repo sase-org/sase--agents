@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`061779f`](https://github.com/sase-org/sase/commit/061779f11a985fdc52a7e16ad9275997caf7cf8b) | fix: deflake fix\_just lint gate (#209) | 2026-07-06 21:26:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`061779f`](https://github.com/sase-org/sase/commit/061779f11a985fdc52a7e16ad9275997caf7cf8b) | fix: deflake fix\_just lint gate (#209) | 2026-07-06 21:26:41 |

@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`f9345e7`](https://github.com/sase-org/sase/commit/f9345e7c11bedb3b947dc2e17ae65d7b2e6d6d72) | fix(vcs): make commit collection truncation-aware (sase-8h.2) | 2026-07-21 15:18:31 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`f9345e7`](https://github.com/sase-org/sase/commit/f9345e7c11bedb3b947dc2e17ae65d7b2e6d6d72) | fix(vcs): make commit collection truncation-aware (sase-8h.2) | 2026-07-21 15:18:31 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`578dad2`](https://github.com/sase-org/sase/commit/578dad292b6d603478179eeb8eed070ffe9364ea) | perf(ace): avoid redundant periodic update recomputes (sase-6c.4) | 2026-07-16 15:27:55 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`578dad2`](https://github.com/sase-org/sase/commit/578dad292b6d603478179eeb8eed070ffe9364ea) | perf(ace): avoid redundant periodic update recomputes (sase-6c.4) | 2026-07-16 15:27:55 |
 
 ## Neighbors
 

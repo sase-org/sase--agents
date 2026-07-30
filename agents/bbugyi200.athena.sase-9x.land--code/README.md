@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fa07151`](https://github.com/sase-org/sase/commit/fa07151cf1414f652b836ac1511f302e8dafac2d) | test: track sase-core-rs 0.11.2 minimum (sase-9x) | 2026-07-27 13:51:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fa07151`](https://github.com/sase-org/sase/commit/fa07151cf1414f652b836ac1511f302e8dafac2d) | test: track sase-core-rs 0.11.2 minimum (sase-9x) | 2026-07-27 13:51:05 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e898a65`](https://github.com/sase-org/sase/commit/e898a65ba45c5a4baef7e9a0fa2f39135cac6ca0) | fix: honor display names and statistics help binding (sase-8g.9) | 2026-07-20 21:05:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e898a65`](https://github.com/sase-org/sase/commit/e898a65ba45c5a4baef7e9a0fa2f39135cac6ca0) | fix: honor display names and statistics help binding (sase-8g.9) | 2026-07-20 21:05:24 |
 
 ## Neighbors
 

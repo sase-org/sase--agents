@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0383abb`](https://github.com/sase-org/sase/commit/0383abbfaad1c60a5edd0c6da7eb8e08743db836) | test: split single-agent kill tests | 2026-07-16 06:38:00 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0383abb`](https://github.com/sase-org/sase/commit/0383abbfaad1c60a5edd0c6da7eb8e08743db836) | test: split single-agent kill tests | 2026-07-16 06:38:00 |
 
 ## Neighbors
 

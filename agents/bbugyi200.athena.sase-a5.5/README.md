@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`41ba006`](https://github.com/sase-org/sase/commit/41ba006bd4c6f41a041abae4508d2ed90c5c8f24) | perf(tui): skip unchanged hint document renders (sase-a5.5) | 2026-07-27 21:07:34 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`41ba006`](https://github.com/sase-org/sase/commit/41ba006bd4c6f41a041abae4508d2ed90c5c8f24) | perf(tui): skip unchanged hint document renders (sase-a5.5) | 2026-07-27 21:07:34 |
 
 ## Neighbors
 

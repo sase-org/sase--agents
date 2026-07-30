@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`efd19c9`](https://github.com/sase-org/sase/commit/efd19c925cc6614c9bbc54ebe3ae098bb3cb3185) | refactor(ace): split unread agent actions | 2026-07-19 04:12:35 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`efd19c9`](https://github.com/sase-org/sase/commit/efd19c925cc6614c9bbc54ebe3ae098bb3cb3185) | refactor(ace): split unread agent actions | 2026-07-19 04:12:35 |
 
 ## Neighbors
 

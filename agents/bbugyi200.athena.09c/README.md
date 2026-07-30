@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`999e727`](https://github.com/sase-org/sase/commit/999e7274780ae0e38a2a56a369f343b8b76ada98) | chore: Add SDD prompt and plan for updates\_tab\_incoming\_commits | 2026-06-28 20:38:44 |
-| [`d6117f3`](https://github.com/sase-org/sase/commit/d6117f3d33e890001fd4f4b27514c65fd13941c1) | feat(updates): show incoming commits for available updates | 2026-06-28 21:08:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`999e727`](https://github.com/sase-org/sase/commit/999e7274780ae0e38a2a56a369f343b8b76ada98) | chore: Add SDD prompt and plan for updates\_tab\_incoming\_commits | 2026-06-28 20:38:44 |
+| sase | [`d6117f3`](https://github.com/sase-org/sase/commit/d6117f3d33e890001fd4f4b27514c65fd13941c1) | feat(updates): show incoming commits for available updates | 2026-06-28 21:08:48 |

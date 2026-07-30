@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d8e30b5`](https://github.com/sase-org/sase/commit/d8e30b51d3eea3817693b9b9b68cf5775dadbcdb) | feat(ace)!: move tribe panel isolation to zoom action | 2026-07-22 11:16:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d8e30b5`](https://github.com/sase-org/sase/commit/d8e30b51d3eea3817693b9b9b68cf5775dadbcdb) | feat(ace)!: move tribe panel isolation to zoom action | 2026-07-22 11:16:29 |
 
 ## Neighbors
 

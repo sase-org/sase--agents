@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b00c807`](https://github.com/sase-org/sase/commit/b00c807ae39f99de3586947789df0381974a78ce) | chore: Add SDD prompt and plan for ace\_tui\_startup\_speedup | 2026-06-16 00:55:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b00c807`](https://github.com/sase-org/sase/commit/b00c807ae39f99de3586947789df0381974a78ce) | chore: Add SDD prompt and plan for ace\_tui\_startup\_speedup | 2026-06-16 00:55:44 |
 
 ## Neighbors
 

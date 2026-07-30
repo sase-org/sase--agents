@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ad39415`](https://github.com/sase-org/sase/commit/ad39415ea541e357af3fa90bebbd0b58d2004a04) | fix(ace): honor bead gates when resolving waiters on kill/dismiss (sase-87) | 2026-07-20 18:42:59 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ad39415`](https://github.com/sase-org/sase/commit/ad39415ea541e357af3fa90bebbd0b58d2004a04) | fix(ace): honor bead gates when resolving waiters on kill/dismiss (sase-87) | 2026-07-20 18:42:59 |
 
 ## Neighbors
 

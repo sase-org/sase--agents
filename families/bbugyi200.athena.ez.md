@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`ee3242b`](https://github.com/sase-org/sase/commit/ee3242bce534d1c12e141691bf37e9a398e9862e) | feat(ace): toggle metadata folds at scale extremes | 2026-07-19 14:51:53 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`ee3242b`](https://github.com/sase-org/sase/commit/ee3242bce534d1c12e141691bf37e9a398e9862e) | feat(ace): toggle metadata folds at scale extremes | 2026-07-19 14:51:53 |

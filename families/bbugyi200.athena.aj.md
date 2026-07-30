@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`8359294`](https://github.com/sase-org/sase/commit/835929471ffe7618503a3d3b5fa193206136a5ca) | feat(ace): add numbered artifacts and saved query picker | 2026-07-16 17:36:30 |
-| root | [`8359294`](https://github.com/sase-org/sase/commit/835929471ffe7618503a3d3b5fa193206136a5ca) | feat(ace): add numbered artifacts and saved query picker | 2026-07-16 17:36:30 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`8359294`](https://github.com/sase-org/sase/commit/835929471ffe7618503a3d3b5fa193206136a5ca) | feat(ace): add numbered artifacts and saved query picker | 2026-07-16 17:36:30 |
+| root | sase | [`8359294`](https://github.com/sase-org/sase/commit/835929471ffe7618503a3d3b5fa193206136a5ca) | feat(ace): add numbered artifacts and saved query picker | 2026-07-16 17:36:30 |

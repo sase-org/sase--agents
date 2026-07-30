@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c6f9db1`](https://github.com/sase-org/sase/commit/c6f9db1ac8debfce484465cfd314424d284fa50f) | chore: research memory search direction | 2026-05-31 18:49:17 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c6f9db1`](https://github.com/sase-org/sase/commit/c6f9db1ac8debfce484465cfd314424d284fa50f) | chore: research memory search direction | 2026-05-31 18:49:17 |
 
 ## Neighbors
 

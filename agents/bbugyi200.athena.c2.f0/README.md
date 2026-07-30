@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`de9d360`](https://github.com/sase-org/sase/commit/de9d36014a20c6795a557dae1435b4b25fa22471) | fix(tui): count effective agents in headline | 2026-07-17 16:41:49 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`de9d360`](https://github.com/sase-org/sase/commit/de9d36014a20c6795a557dae1435b4b25fa22471) | fix(tui): count effective agents in headline | 2026-07-17 16:41:49 |
 
 ## Neighbors
 

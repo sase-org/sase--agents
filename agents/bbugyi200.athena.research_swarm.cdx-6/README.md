@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4257dee`](https://github.com/sase-org/sase/commit/4257dee7e1fcef8bf03bc0e9b444971dae7dc138) | chore: add episodes events decision critique | 2026-05-29 13:37:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4257dee`](https://github.com/sase-org/sase/commit/4257dee7e1fcef8bf03bc0e9b444971dae7dc138) | chore: add episodes events decision critique | 2026-05-29 13:37:48 |
 
 ## Neighbors
 

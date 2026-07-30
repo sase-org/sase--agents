@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2f0b68b`](https://github.com/sase-org/sase/commit/2f0b68b86e8cc08efc8de48495d649ca0d39c1a9) | feat: project runner wait priorities across ACE queues | 2026-07-20 19:38:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2f0b68b`](https://github.com/sase-org/sase/commit/2f0b68b86e8cc08efc8de48495d649ca0d39c1a9) | feat: project runner wait priorities across ACE queues | 2026-07-20 19:38:24 |
 
 ## Neighbors
 

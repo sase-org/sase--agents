@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e39816a`](https://github.com/sase-org/sase/commit/e39816a1f2736c1cd54c9759cd2cca7796b52051) | fix(axe): skip explicit chop name collisions (sase-7t.3) | 2026-07-20 00:31:52 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e39816a`](https://github.com/sase-org/sase/commit/e39816a1f2736c1cd54c9759cd2cca7796b52051) | fix(axe): skip explicit chop name collisions (sase-7t.3) | 2026-07-20 00:31:52 |
 
 ## Neighbors
 

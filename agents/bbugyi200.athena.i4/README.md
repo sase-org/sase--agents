@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`679a41b`](https://github.com/sase-org/sase/commit/679a41b42eaed4821cfa699139d3088f804cbd77) | fix(ace): restore arrival bell for plan reviews | 2026-07-22 13:39:47 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`679a41b`](https://github.com/sase-org/sase/commit/679a41b42eaed4821cfa699139d3088f804cbd77) | fix(ace): restore arrival bell for plan reviews | 2026-07-22 13:39:47 |

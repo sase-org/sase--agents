@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`18cee8f`](https://github.com/sase-org/sase/commit/18cee8fd2bb05e5ff4381dea3ceed895654df915) | test: split bead work rendering tests | 2026-07-20 17:10:01 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`18cee8f`](https://github.com/sase-org/sase/commit/18cee8fd2bb05e5ff4381dea3ceed895654df915) | test: split bead work rendering tests | 2026-07-20 17:10:01 |
 
 ## Neighbors
 

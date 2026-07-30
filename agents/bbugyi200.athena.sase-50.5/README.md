@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7e22e78`](https://github.com/sase-org/sase/commit/7e22e786e932043dff165585e4cd0a662b1d5307) | test(llm): gate agy structured-artifacts parity gap (sase-50.5) | 2026-06-20 00:37:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7e22e78`](https://github.com/sase-org/sase/commit/7e22e786e932043dff165585e4cd0a662b1d5307) | test(llm): gate agy structured-artifacts parity gap (sase-50.5) | 2026-06-20 00:37:29 |
 
 ## Neighbors
 

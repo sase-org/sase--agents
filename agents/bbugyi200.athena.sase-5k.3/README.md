@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a280878`](https://github.com/sase-org/sase/commit/a280878c380502e4c929e314baddb667e4c9f73c) | docs: publish SASE launch post (sase-5k.3) | 2026-07-08 05:06:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a280878`](https://github.com/sase-org/sase/commit/a280878c380502e4c929e314baddb667e4c9f73c) | docs: publish SASE launch post (sase-5k.3) | 2026-07-08 05:06:22 |
 
 ## Neighbors
 

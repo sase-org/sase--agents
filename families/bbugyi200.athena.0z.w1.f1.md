@@ -22,11 +22,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`a85b283`](https://github.com/sase-org/sase/commit/a85b28328b9fb67a9dc72de827b869c4dec2cafd) | chore: Add SDD prompt and plan for successful\_slow\_tool\_call\_hints | 2026-07-08 00:40:38 |
-| code | [`2d13be9`](https://github.com/sase-org/sase/commit/2d13be9ce05a93715436a755e8dcf168c98a041b) | feat(tui): add slow-tool reports for successful calls | 2026-07-08 00:51:47 |
-| root | [`2d13be9`](https://github.com/sase-org/sase/commit/2d13be9ce05a93715436a755e8dcf168c98a041b) | feat(tui): add slow-tool reports for successful calls | 2026-07-08 00:51:47 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`a85b283`](https://github.com/sase-org/sase/commit/a85b28328b9fb67a9dc72de827b869c4dec2cafd) | chore: Add SDD prompt and plan for successful\_slow\_tool\_call\_hints | 2026-07-08 00:40:38 |
+| code | sase | [`2d13be9`](https://github.com/sase-org/sase/commit/2d13be9ce05a93715436a755e8dcf168c98a041b) | feat(tui): add slow-tool reports for successful calls | 2026-07-08 00:51:47 |
+| root | sase | [`2d13be9`](https://github.com/sase-org/sase/commit/2d13be9ce05a93715436a755e8dcf168c98a041b) | feat(tui): add slow-tool reports for successful calls | 2026-07-08 00:51:47 |
 
 ## Neighbors
 

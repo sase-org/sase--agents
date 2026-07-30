@@ -19,8 +19,8 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e20f51f`](https://github.com/sase-org/sase/commit/e20f51f7ffb6d8a63aaf07a2b8a5b084a4eea047) | chore: Add SDD prompt and plan for remove\_memory\_episodes | 2026-06-15 23:42:22 |
-| [`37973b8`](https://github.com/sase-org/sase/commit/37973b8b3faa00322d218bd819e8b3e4e9d2bce5) | feat(memory)!: remove the memory episodes feature | 2026-06-16 00:16:42 |
-| [`fef304c`](https://github.com/sase-org/sase/commit/fef304cfaa2c810b82e1acb842ca6c554a1562a9) | fix(ace): prepare project reverts on default branches | 2026-07-14 13:04:35 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e20f51f`](https://github.com/sase-org/sase/commit/e20f51f7ffb6d8a63aaf07a2b8a5b084a4eea047) | chore: Add SDD prompt and plan for remove\_memory\_episodes | 2026-06-15 23:42:22 |
+| sase | [`37973b8`](https://github.com/sase-org/sase/commit/37973b8b3faa00322d218bd819e8b3e4e9d2bce5) | feat(memory)!: remove the memory episodes feature | 2026-06-16 00:16:42 |
+| sase | [`fef304c`](https://github.com/sase-org/sase/commit/fef304cfaa2c810b82e1acb842ca6c554a1562a9) | fix(ace): prepare project reverts on default branches | 2026-07-14 13:04:35 |

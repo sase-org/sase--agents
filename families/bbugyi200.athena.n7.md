@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`ee087a3`](https://github.com/sase-org/sase/commit/ee087a3df01a59617c8a8650ee333b127c5393b3) | fix(sdd): defer type-only annotations at runtime | 2026-07-28 17:15:34 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`ee087a3`](https://github.com/sase-org/sase/commit/ee087a3df01a59617c8a8650ee333b127c5393b3) | fix(sdd): defer type-only annotations at runtime | 2026-07-28 17:15:34 |

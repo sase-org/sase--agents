@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6c052e8`](https://github.com/sase-org/sase/commit/6c052e8169789a0b4ffa1fd536cf642c9a9bd88f) | feat(tui): add runner statistics experience (sase-8j.3) | 2026-07-21 22:07:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6c052e8`](https://github.com/sase-org/sase/commit/6c052e8169789a0b4ffa1fd536cf642c9a9bd88f) | feat(tui): add runner statistics experience (sase-8j.3) | 2026-07-21 22:07:24 |
 
 ## Neighbors
 

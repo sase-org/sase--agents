@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`ca348d7`](https://github.com/sase-org/sase/commit/ca348d7034c1887b600464b913d8b29cba304ef9) | feat(ace): show globally queued agent counts | 2026-07-24 23:20:55 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`ca348d7`](https://github.com/sase-org/sase/commit/ca348d7034c1887b600464b913d8b29cba304ef9) | feat(ace): show globally queued agent counts | 2026-07-24 23:20:55 |
 
 ## Neighbors
 

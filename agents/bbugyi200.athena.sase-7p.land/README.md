@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9ba591e`](https://github.com/sase-org/sase/commit/9ba591e6f6fa58cbb3a368cd97a0a568dea756f0) | refactor(axe): privatize desired\_state\_path after sase-7p close (sase-7p) | 2026-07-19 23:02:43 |
-| [`88ba178`](https://github.com/sase-org/sase/commit/88ba178869162b6eb393e8c63b845db1315e9a1d) | test: make plugin preflight assertions wrap-tolerant (sase-7p) | 2026-07-19 23:03:04 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9ba591e`](https://github.com/sase-org/sase/commit/9ba591e6f6fa58cbb3a368cd97a0a568dea756f0) | refactor(axe): privatize desired\_state\_path after sase-7p close (sase-7p) | 2026-07-19 23:02:43 |
+| sase | [`88ba178`](https://github.com/sase-org/sase/commit/88ba178869162b6eb393e8c63b845db1315e9a1d) | test: make plugin preflight assertions wrap-tolerant (sase-7p) | 2026-07-19 23:03:04 |
 
 ## Neighbors
 

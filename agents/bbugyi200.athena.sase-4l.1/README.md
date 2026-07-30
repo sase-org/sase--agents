@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a8603da`](https://github.com/sase-org/sase/commit/a8603da30bd21ab891a669aed1730268530f8087) | feat: add prompt Vim yank and paste (sase-4l.1) | 2026-06-12 17:19:00 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a8603da`](https://github.com/sase-org/sase/commit/a8603da30bd21ab891a669aed1730268530f8087) | feat: add prompt Vim yank and paste (sase-4l.1) | 2026-06-12 17:19:00 |
 
 ## Neighbors
 

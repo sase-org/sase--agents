@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0760521`](https://github.com/sase-org/sase/commit/0760521dc7eedb70991a0848f3a40d7a1b22e7c7) | docs(research): add LICENSE file options and recommendation | 2026-06-19 16:28:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0760521`](https://github.com/sase-org/sase/commit/0760521dc7eedb70991a0848f3a40d7a1b22e7c7) | docs(research): add LICENSE file options and recommendation | 2026-06-19 16:28:22 |
 
 ## Neighbors
 

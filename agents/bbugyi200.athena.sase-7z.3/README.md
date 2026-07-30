@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`65bcc93`](https://github.com/sase-org/sase/commit/65bcc9391b500bc0aa77e8e66dc24a2f80b4d77e) | feat(sdd): mirror phase size validation metadata (sase-7z.3) | 2026-07-20 01:51:36 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`65bcc93`](https://github.com/sase-org/sase/commit/65bcc9391b500bc0aa77e8e66dc24a2f80b4d77e) | feat(sdd): mirror phase size validation metadata (sase-7z.3) | 2026-07-20 01:51:36 |
 
 ## Neighbors
 

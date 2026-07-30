@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ca5c526`](https://github.com/sase-org/sase/commit/ca5c526c724957db6bdcd273b57fe860df2d0883) | fix(agents-sync): recover sidecar transaction state (sase-ad.3) | 2026-07-28 12:18:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ca5c526`](https://github.com/sase-org/sase/commit/ca5c526c724957db6bdcd273b57fe860df2d0883) | fix(agents-sync): recover sidecar transaction state (sase-ad.3) | 2026-07-28 12:18:56 |
 
 ## Neighbors
 

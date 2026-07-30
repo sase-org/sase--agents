@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fb4ba70`](https://github.com/sase-org/sase/commit/fb4ba70f41f790cac9c3869c2d0e00537a57ed4c) | refactor(ace): split agent completion module | 2026-07-19 18:50:43 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fb4ba70`](https://github.com/sase-org/sase/commit/fb4ba70f41f790cac9c3869c2d0e00537a57ed4c) | refactor(ace): split agent completion module | 2026-07-19 18:50:43 |
 
 ## Neighbors
 

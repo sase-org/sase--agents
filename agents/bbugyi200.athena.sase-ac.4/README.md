@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b449b8a`](https://github.com/sase-org/sase/commit/b449b8a4b5a133ded4771fa07e22307bf97620cb) | fix(xprompt): normalize ACE completion project identity (sase-ac.4) | 2026-07-28 12:58:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b449b8a`](https://github.com/sase-org/sase/commit/b449b8a4b5a133ded4771fa07e22307bf97620cb) | fix(xprompt): normalize ACE completion project identity (sase-ac.4) | 2026-07-28 12:58:11 |
 
 ## Neighbors
 

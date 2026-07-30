@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`eaf6f68`](https://github.com/sase-org/sase/commit/eaf6f6809e89010b1e31a6880d0cbaab37794195) | fix: expose family runner-slot occupancy in agent listings | 2026-07-17 23:16:18 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`eaf6f68`](https://github.com/sase-org/sase/commit/eaf6f6809e89010b1e31a6880d0cbaab37794195) | fix: expose family runner-slot occupancy in agent listings | 2026-07-17 23:16:18 |

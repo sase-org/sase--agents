@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`78eaa34`](https://github.com/sase-org/sase/commit/78eaa34f9dfc96334aeda82300b593edbced26b5) | fix(telegram): exclude completed epic agents from active list | 2026-07-16 16:25:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`78eaa34`](https://github.com/sase-org/sase/commit/78eaa34f9dfc96334aeda82300b593edbced26b5) | fix(telegram): exclude completed epic agents from active list | 2026-07-16 16:25:56 |

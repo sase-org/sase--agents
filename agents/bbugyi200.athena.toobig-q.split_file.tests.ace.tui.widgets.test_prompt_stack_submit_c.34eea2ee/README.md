@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7c82582`](https://github.com/sase-org/sase/commit/7c825822f0e0d71b4b37b9525318677b9e6b0075) | test: split prompt stack submit and cancel tests | 2026-07-23 18:11:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7c82582`](https://github.com/sase-org/sase/commit/7c825822f0e0d71b4b37b9525318677b9e6b0075) | test: split prompt stack submit and cancel tests | 2026-07-23 18:11:02 |
 
 ## Neighbors
 

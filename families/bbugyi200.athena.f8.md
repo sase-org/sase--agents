@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`918e3b9`](https://github.com/sase-org/sase/commit/918e3b9dda0a1b0c01fed86c27597358ac18a280) | feat(tui): show clan member status in wait metadata | 2026-07-19 18:23:01 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`918e3b9`](https://github.com/sase-org/sase/commit/918e3b9dda0a1b0c01fed86c27597358ac18a280) | feat(tui): show clan member status in wait metadata | 2026-07-19 18:23:01 |

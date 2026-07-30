@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`73b7db3`](https://github.com/sase-org/sase/commit/73b7db3afbd1c9951be5703247624ee58427728f) | fix: hide audit launcher marker notifications | 2026-07-11 18:39:15 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`73b7db3`](https://github.com/sase-org/sase/commit/73b7db3afbd1c9951be5703247624ee58427728f) | fix: hide audit launcher marker notifications | 2026-07-11 18:39:15 |

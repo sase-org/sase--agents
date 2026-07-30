@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3c184d2`](https://github.com/sase-org/sase/commit/3c184d240b6e1a5393ff6bba36fcda0d459b8dac) | ref: split version inventory module | 2026-06-08 21:35:49 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3c184d2`](https://github.com/sase-org/sase/commit/3c184d240b6e1a5393ff6bba36fcda0d459b8dac) | ref: split version inventory module | 2026-06-08 21:35:49 |
 
 ## Neighbors
 

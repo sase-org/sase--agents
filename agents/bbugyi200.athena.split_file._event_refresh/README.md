@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f77c2d8`](https://github.com/sase-org/sase/commit/f77c2d871dd260d0dea25dc8f5bc6294a240b6ed) | refactor(tui): split event refresh actions | 2026-06-24 12:26:33 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f77c2d8`](https://github.com/sase-org/sase/commit/f77c2d871dd260d0dea25dc8f5bc6294a240b6ed) | refactor(tui): split event refresh actions | 2026-06-24 12:26:33 |
 
 ## Neighbors
 

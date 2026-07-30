@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fd98a53`](https://github.com/sase-org/sase/commit/fd98a5326b9123eeb59f8bb05ff91ded6570af8a) | chore: Add SDD prompt and plan for artifact\_panel\_relative\_path | 2026-05-29 11:31:33 |
-| [`db25433`](https://github.com/sase-org/sase/commit/db254333d7727b9df6ebd33688fda45e4c47a250) | fix: copy artifact paths relative to workspace | 2026-05-29 11:38:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fd98a53`](https://github.com/sase-org/sase/commit/fd98a5326b9123eeb59f8bb05ff91ded6570af8a) | chore: Add SDD prompt and plan for artifact\_panel\_relative\_path | 2026-05-29 11:31:33 |
+| sase | [`db25433`](https://github.com/sase-org/sase/commit/db254333d7727b9df6ebd33688fda45e4c47a250) | fix: copy artifact paths relative to workspace | 2026-05-29 11:38:20 |

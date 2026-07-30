@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e217bf3`](https://github.com/sase-org/sase/commit/e217bf31a4ab8527520e9f92448cd54add5098f2) | fix: correct helper visibility across module boundaries | 2026-07-16 11:19:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e217bf3`](https://github.com/sase-org/sase/commit/e217bf31a4ab8527520e9f92448cd54add5098f2) | fix: correct helper visibility across module boundaries | 2026-07-16 11:19:51 |

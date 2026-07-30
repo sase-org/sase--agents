@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cc45fdf`](https://github.com/sase-org/sase/commit/cc45fdf1eca59f33d3d4625164f515f21445e03f) | feat(ace): add fold-aware tribe summary documents (sase-6z.2) | 2026-07-19 03:33:55 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cc45fdf`](https://github.com/sase-org/sase/commit/cc45fdf1eca59f33d3d4625164f515f21445e03f) | feat(ace): add fold-aware tribe summary documents (sase-6z.2) | 2026-07-19 03:33:55 |
 
 ## Neighbors
 

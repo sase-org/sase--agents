@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`18ca7cb`](https://github.com/sase-org/sase/commit/18ca7cb9684c5b24ca311b6a8e8f8706a3a13f85) | feat: expand phase-worker model alias ladder (sase-8w.2) | 2026-07-23 22:03:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`18ca7cb`](https://github.com/sase-org/sase/commit/18ca7cb9684c5b24ca311b6a8e8f8706a3a13f85) | feat: expand phase-worker model alias ladder (sase-8w.2) | 2026-07-23 22:03:24 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6532710`](https://github.com/sase-org/sase/commit/65327103d203a534bfbe2c95139fbbf051ed2ba3) | feat(tui): add \`,L\` Log panel modal for launch failures (sase-4t.2) | 2026-06-17 19:49:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6532710`](https://github.com/sase-org/sase/commit/65327103d203a534bfbe2c95139fbbf051ed2ba3) | feat(tui): add \`,L\` Log panel modal for launch failures (sase-4t.2) | 2026-06-17 19:49:32 |
 
 ## Neighbors
 

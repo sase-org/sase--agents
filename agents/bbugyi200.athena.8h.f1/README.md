@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4af3a81`](https://github.com/sase-org/sase/commit/4af3a818acccc66c9748fc10565e27b577602950) | chore: Add SDD prompt and plan for remove\_langchain\_core | 2026-06-16 01:32:18 |
-| [`b3512dc`](https://github.com/sase-org/sase/commit/b3512dc090baebe0af68344d20273c25eb2220ff) | refactor(llm\_provider): replace langchain-core with native message types | 2026-06-16 01:44:36 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4af3a81`](https://github.com/sase-org/sase/commit/4af3a818acccc66c9748fc10565e27b577602950) | chore: Add SDD prompt and plan for remove\_langchain\_core | 2026-06-16 01:32:18 |
+| sase | [`b3512dc`](https://github.com/sase-org/sase/commit/b3512dc090baebe0af68344d20273c25eb2220ff) | refactor(llm\_provider): replace langchain-core with native message types | 2026-06-16 01:44:36 |
 
 ## Neighbors
 

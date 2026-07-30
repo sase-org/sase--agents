@@ -22,11 +22,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`dcf9e74`](https://github.com/sase-org/sase/commit/dcf9e74aa8246d403c60035e0ccb7e98d808d08e) | chore: Add SDD prompt and plan for ace\_prompt\_input\_demo | 2026-07-06 23:36:09 |
-| code | [`05dd75c`](https://github.com/sase-org/sase/commit/05dd75c013a130aa9f97d81447b165a938e33e0a) | docs(demos): expand ACE prompt input demo | 2026-07-07 00:00:58 |
-| root | [`05dd75c`](https://github.com/sase-org/sase/commit/05dd75c013a130aa9f97d81447b165a938e33e0a) | docs(demos): expand ACE prompt input demo | 2026-07-07 00:00:58 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`dcf9e74`](https://github.com/sase-org/sase/commit/dcf9e74aa8246d403c60035e0ccb7e98d808d08e) | chore: Add SDD prompt and plan for ace\_prompt\_input\_demo | 2026-07-06 23:36:09 |
+| code | sase | [`05dd75c`](https://github.com/sase-org/sase/commit/05dd75c013a130aa9f97d81447b165a938e33e0a) | docs(demos): expand ACE prompt input demo | 2026-07-07 00:00:58 |
+| root | sase | [`05dd75c`](https://github.com/sase-org/sase/commit/05dd75c013a130aa9f97d81447b165a938e33e0a) | docs(demos): expand ACE prompt input demo | 2026-07-07 00:00:58 |
 
 ## Neighbors
 

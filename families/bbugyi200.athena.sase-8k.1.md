@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`770ad01`](https://github.com/sase-org/sase/commit/770ad01ab111e5454d375ec786a1e60cb64c775d) | feat(config)!: add machine identity initialization (sase-8k.1) | 2026-07-22 15:51:28 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`770ad01`](https://github.com/sase-org/sase/commit/770ad01ab111e5454d375ec786a1e60cb64c775d) | feat(config)!: add machine identity initialization (sase-8k.1) | 2026-07-22 15:51:28 |
 
 ## Neighbors
 

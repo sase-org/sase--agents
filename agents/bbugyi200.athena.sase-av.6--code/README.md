@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e55aab9`](https://github.com/sase-org/sase/commit/e55aab9c92f73f5f902fa58ee39641da6a78686a) | feat(ace): add artifact reference prompt completion | 2026-07-29 19:07:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e55aab9`](https://github.com/sase-org/sase/commit/e55aab9c92f73f5f902fa58ee39641da6a78686a) | feat(ace): add artifact reference prompt completion | 2026-07-29 19:07:54 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`14c0021`](https://github.com/sase-org/sase/commit/14c00218029a4a7736b264e7fecb874e242b5021) | feat(ace): add prompt vim quote and bracket text objects (sase-4l.3) | 2026-06-12 18:02:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`14c0021`](https://github.com/sase-org/sase/commit/14c00218029a4a7736b264e7fecb874e242b5021) | feat(ace): add prompt vim quote and bracket text objects (sase-4l.3) | 2026-06-12 18:02:37 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f94462f`](https://github.com/sase-org/sase/commit/f94462fb6daa85a0fd9c4f753b8090bfba8098cb) | ref: split agent name registry helpers | 2026-06-09 16:30:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f94462f`](https://github.com/sase-org/sase/commit/f94462fb6daa85a0fd9c4f753b8090bfba8098cb) | ref: split agent name registry helpers | 2026-06-09 16:30:21 |
 
 ## Neighbors
 

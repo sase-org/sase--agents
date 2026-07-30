@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fe59b3a`](https://github.com/sase-org/sase/commit/fe59b3ad0e5c23e0fbfa9fa19ed31caa79569b50) | chore: consolidate TUI full refresh research | 2026-06-08 17:42:01 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fe59b3a`](https://github.com/sase-org/sase/commit/fe59b3ad0e5c23e0fbfa9fa19ed31caa79569b50) | chore: consolidate TUI full refresh research | 2026-06-08 17:42:01 |
 
 ## Neighbors
 

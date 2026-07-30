@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2695bf7`](https://github.com/sase-org/sase/commit/2695bf72af57c11f71b2110430c4468b8ac192c4) | feat(ace): continue prompt bullets on Ctrl+J | 2026-07-23 14:33:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2695bf7`](https://github.com/sase-org/sase/commit/2695bf72af57c11f71b2110430c4468b8ac192c4) | feat(ace): continue prompt bullets on Ctrl+J | 2026-07-23 14:33:44 |
 
 ## Neighbors
 

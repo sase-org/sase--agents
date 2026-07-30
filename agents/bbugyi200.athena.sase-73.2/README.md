@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c85cdd7`](https://github.com/sase-org/sase/commit/c85cdd7a369c9c79aa0be9e7a9044f7597ac41c3) | feat(tui): refine clan and family summaries (sase-73.2) | 2026-07-19 14:28:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c85cdd7`](https://github.com/sase-org/sase/commit/c85cdd7a369c9c79aa0be9e7a9044f7597ac41c3) | feat(tui): refine clan and family summaries (sase-73.2) | 2026-07-19 14:28:25 |
 
 ## Neighbors
 

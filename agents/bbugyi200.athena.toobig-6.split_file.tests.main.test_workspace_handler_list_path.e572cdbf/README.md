@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bcdea77`](https://github.com/sase-org/sase/commit/bcdea7716d8b110cd4ef1a7689dec44a96a7b5cf) | test(workspace): split open handler tests | 2026-07-20 21:54:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`bcdea77`](https://github.com/sase-org/sase/commit/bcdea7716d8b110cd4ef1a7689dec44a96a7b5cf) | test(workspace): split open handler tests | 2026-07-20 21:54:48 |
 
 ## Neighbors
 

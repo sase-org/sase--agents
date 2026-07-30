@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bc60461`](https://github.com/sase-org/sase/commit/bc604614cf13e778106c2aa3b3e6275f7ff12e2c) | refactor(doctor): split deep checks by domain | 2026-07-08 21:35:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`bc60461`](https://github.com/sase-org/sase/commit/bc604614cf13e778106c2aa3b3e6275f7ff12e2c) | refactor(doctor): split deep checks by domain | 2026-07-08 21:35:42 |
 
 ## Neighbors
 

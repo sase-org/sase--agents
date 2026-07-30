@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`08c945d`](https://github.com/sase-org/sase/commit/08c945d0c77786ab0f321741122aa1f296ca076c) | feat(tui): use exact agent deltas for notification refreshes (sase-4f.5) | 2026-06-08 20:06:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`08c945d`](https://github.com/sase-org/sase/commit/08c945d0c77786ab0f321741122aa1f296ca076c) | feat(tui): use exact agent deltas for notification refreshes (sase-4f.5) | 2026-06-08 20:06:06 |
 
 ## Neighbors
 

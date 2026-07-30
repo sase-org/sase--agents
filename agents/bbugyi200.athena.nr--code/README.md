@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cca22e6`](https://github.com/sase-org/sase/commit/cca22e64d9648386ad52631f8f0217a55cc01f55) | refactor(ace): rename collapse houses to lanes | 2026-07-29 10:52:28 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cca22e6`](https://github.com/sase-org/sase/commit/cca22e64d9648386ad52631f8f0217a55cc01f55) | refactor(ace): rename collapse houses to lanes | 2026-07-29 10:52:28 |

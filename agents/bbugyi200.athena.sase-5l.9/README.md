@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0ee1b55`](https://github.com/sase-org/sase/commit/0ee1b55b8f2b219a9b13c8fae6432edb9cff2c22) | feat(doctor): add mobile gateway binary check (sase-5l.9) | 2026-07-08 07:42:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0ee1b55`](https://github.com/sase-org/sase/commit/0ee1b55b8f2b219a9b13c8fae6432edb9cff2c22) | feat(doctor): add mobile gateway binary check (sase-5l.9) | 2026-07-08 07:42:39 |
 
 ## Neighbors
 

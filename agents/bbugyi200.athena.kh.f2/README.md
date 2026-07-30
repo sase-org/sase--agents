@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b1b5db1`](https://github.com/sase-org/sase/commit/b1b5db1fd7392a731ffdf7ec3c0fb848a7489498) | fix(ace): exclude queued agents from waiting counts | 2026-07-25 14:26:53 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b1b5db1`](https://github.com/sase-org/sase/commit/b1b5db1fd7392a731ffdf7ec3c0fb848a7489498) | fix(ace): exclude queued agents from waiting counts | 2026-07-25 14:26:53 |
 
 ## Neighbors
 

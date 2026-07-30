@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f0630ab`](https://github.com/sase-org/sase/commit/f0630ab76ba527efc67a55f845ced041555f6866) | chore: close sase-58 epic | 2026-06-26 03:22:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f0630ab`](https://github.com/sase-org/sase/commit/f0630ab76ba527efc67a55f845ced041555f6866) | chore: close sase-58 epic | 2026-06-26 03:22:24 |
 
 ## Neighbors
 

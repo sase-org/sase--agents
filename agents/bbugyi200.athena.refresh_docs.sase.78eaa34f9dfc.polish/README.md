@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ea1db4f`](https://github.com/sase-org/sase/commit/ea1db4f4b559e970ad1d7054cd7258d266913525) | docs: clarify lifecycle and launch workflows | 2026-07-17 02:27:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ea1db4f`](https://github.com/sase-org/sase/commit/ea1db4f4b559e970ad1d7054cd7258d266913525) | docs: clarify lifecycle and launch workflows | 2026-07-17 02:27:05 |
 
 ## Neighbors
 

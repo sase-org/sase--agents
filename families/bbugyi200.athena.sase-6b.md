@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`9292e5b`](https://github.com/sase-org/sase/commit/9292e5bf38eb93e9b7d2ae80316400d04bf52bae) | build(deps): require sase-core-rs 0.5.0 (sase-6b) | 2026-07-16 14:16:56 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`9292e5b`](https://github.com/sase-org/sase/commit/9292e5bf38eb93e9b7d2ae80316400d04bf52bae) | build(deps): require sase-core-rs 0.5.0 (sase-6b) | 2026-07-16 14:16:56 |
 
 ## Neighbors
 

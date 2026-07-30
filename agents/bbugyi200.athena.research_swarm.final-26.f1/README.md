@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`50dde7a`](https://github.com/sase-org/sase/commit/50dde7aad2e27feb9bff56f81fb2bf4fd359757d) | chore: Add SDD prompt and plan for project\_lifecycle\_cli\_tui | 2026-06-01 16:38:37 |
-| [`84de353`](https://github.com/sase-org/sase/commit/84de3539eb27f6d3f0e71b4f3bfe5cbab7056009) | chore: create project lifecycle epic beads | 2026-06-01 16:43:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`50dde7a`](https://github.com/sase-org/sase/commit/50dde7aad2e27feb9bff56f81fb2bf4fd359757d) | chore: Add SDD prompt and plan for project\_lifecycle\_cli\_tui | 2026-06-01 16:38:37 |
+| sase | [`84de353`](https://github.com/sase-org/sase/commit/84de3539eb27f6d3f0e71b4f3bfe5cbab7056009) | chore: create project lifecycle epic beads | 2026-06-01 16:43:21 |
 
 ## Neighbors
 

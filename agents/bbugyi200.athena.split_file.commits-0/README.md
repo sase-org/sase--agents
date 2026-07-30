@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fe0aad1`](https://github.com/sase-org/sase/commit/fe0aad1038d0768fbade8c0ced9f5dba77c3704b) | refactor(ace): split commits pane into focused modules | 2026-07-16 11:48:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fe0aad1`](https://github.com/sase-org/sase/commit/fe0aad1038d0768fbade8c0ced9f5dba77c3704b) | refactor(ace): split commits pane into focused modules | 2026-07-16 11:48:48 |
 
 ## Neighbors
 

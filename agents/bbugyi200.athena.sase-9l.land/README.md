@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`84f6619`](https://github.com/sase-org/sase/commit/84f6619ec4e9478559701a049c95e8ea60036498) | fix: guard the event-store manifest repair write path (sase-9l) | 2026-07-25 18:09:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`84f6619`](https://github.com/sase-org/sase/commit/84f6619ec4e9478559701a049c95e8ea60036498) | fix: guard the event-store manifest repair write path (sase-9l) | 2026-07-25 18:09:54 |
 
 ## Neighbors
 

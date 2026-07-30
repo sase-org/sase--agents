@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`791dec5`](https://github.com/sase-org/sase/commit/791dec5ca0fe40d303ab1e409ca61cb1665b83c3) | docs: refresh current user workflows | 2026-07-29 06:03:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`791dec5`](https://github.com/sase-org/sase/commit/791dec5ca0fe40d303ab1e409ca61cb1665b83c3) | docs: refresh current user workflows | 2026-07-29 06:03:44 |
 
 ## Neighbors
 

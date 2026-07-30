@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`deaf571`](https://github.com/sase-org/sase/commit/deaf571e08fbd1b1577308e4bffac627dcba23ce) | feat: add approved agent launch requests (sase-5g.8) | 2026-07-06 11:40:49 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`deaf571`](https://github.com/sase-org/sase/commit/deaf571e08fbd1b1577308e4bffac627dcba23ce) | feat: add approved agent launch requests (sase-5g.8) | 2026-07-06 11:40:49 |
 
 ## Neighbors
 

@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`7e20cd2`](https://github.com/sase-org/sase/commit/7e20cd22e847c12fc6e435e6da4003e9d054f358) | fix(ace): remove PDF activity from agent rows | 2026-07-29 11:54:32 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`7e20cd2`](https://github.com/sase-org/sase/commit/7e20cd22e847c12fc6e435e6da4003e9d054f358) | fix(ace): remove PDF activity from agent rows | 2026-07-29 11:54:32 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7679df5`](https://github.com/sase-org/sase/commit/7679df5ed82e052a2eb8f84cd58d70804c69cd13) | test: split models panel visual snapshots | 2026-07-21 16:49:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7679df5`](https://github.com/sase-org/sase/commit/7679df5ed82e052a2eb8f84cd58d70804c69cd13) | test: split models panel visual snapshots | 2026-07-21 16:49:22 |
 
 ## Neighbors
 

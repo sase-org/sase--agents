@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4375a97`](https://github.com/sase-org/sase/commit/4375a979133848a741f3bbecb5e64329eed5cad4) | chore: Add SDD prompt and plan for prompt\_insert\_ctrl\_g\_prefix | 2026-06-18 12:01:48 |
-| [`d4dd47d`](https://github.com/sase-org/sase/commit/d4dd47dd5272dc047f2adb3e64dca5030f90b38a) | feat(tui)!: add prompt Ctrl+G insert prefix | 2026-06-18 12:24:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4375a97`](https://github.com/sase-org/sase/commit/4375a979133848a741f3bbecb5e64329eed5cad4) | chore: Add SDD prompt and plan for prompt\_insert\_ctrl\_g\_prefix | 2026-06-18 12:01:48 |
+| sase | [`d4dd47d`](https://github.com/sase-org/sase/commit/d4dd47dd5272dc047f2adb3e64dca5030f90b38a) | feat(tui)!: add prompt Ctrl+G insert prefix | 2026-06-18 12:24:42 |

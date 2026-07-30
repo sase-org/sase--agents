@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`50ce11d`](https://github.com/sase-org/sase/commit/50ce11d988b443ccaf107f412bcb4e79d236a4d1) | fix(ace): show created status after epic launch | 2026-07-16 01:00:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`50ce11d`](https://github.com/sase-org/sase/commit/50ce11d988b443ccaf107f412bcb4e79d236a4d1) | fix(ace): show created status after epic launch | 2026-07-16 01:00:21 |

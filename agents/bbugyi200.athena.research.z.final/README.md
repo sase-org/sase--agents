@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fbac771`](https://github.com/sase-org/sase/commit/fbac77176d04194bda0cb7041317a75131b9d1d9) | docs: consolidate sibling repo removal research | 2026-06-20 16:18:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fbac771`](https://github.com/sase-org/sase/commit/fbac77176d04194bda0cb7041317a75131b9d1d9) | docs: consolidate sibling repo removal research | 2026-06-20 16:18:21 |
 
 ## Neighbors
 

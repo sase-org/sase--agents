@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`896e024`](https://github.com/sase-org/sase/commit/896e024004e1ce40a5247f7c17583a092d24b8d2) | fix(bead): reconcile claim residue and flag stuck beads (sase-9v.3) | 2026-07-26 17:08:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`896e024`](https://github.com/sase-org/sase/commit/896e024004e1ce40a5247f7c17583a092d24b8d2) | fix(bead): reconcile claim residue and flag stuck beads (sase-9v.3) | 2026-07-26 17:08:30 |
 
 ## Neighbors
 

@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d27422f`](https://github.com/sase-org/sase/commit/d27422fd7e8007c5b3073f4ce9bc0d083d17b571) | fix(tui): flag missing agent wait targets | 2026-07-21 16:06:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d27422f`](https://github.com/sase-org/sase/commit/d27422fd7e8007c5b3073f4ce9bc0d083d17b571) | fix(tui): flag missing agent wait targets | 2026-07-21 16:06:25 |

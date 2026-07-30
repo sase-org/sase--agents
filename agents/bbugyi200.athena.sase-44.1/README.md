@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5a07052`](https://github.com/sase-org/sase/commit/5a0705214207a9b7ebe17fac0828de93dd8c858d) | feat: add AMD CLI skeleton (sase-44.1) | 2026-05-24 22:15:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5a07052`](https://github.com/sase-org/sase/commit/5a0705214207a9b7ebe17fac0828de93dd8c858d) | feat: add AMD CLI skeleton (sase-44.1) | 2026-05-24 22:15:29 |
 
 ## Neighbors
 

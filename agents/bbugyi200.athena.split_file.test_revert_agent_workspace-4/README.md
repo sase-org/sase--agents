@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`de234ac`](https://github.com/sase-org/sase/commit/de234ac96f2870867e56b70e2b18ccf40a6903b0) | test: split revert agent workspace tests | 2026-07-16 04:58:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`de234ac`](https://github.com/sase-org/sase/commit/de234ac96f2870867e56b70e2b18ccf40a6903b0) | test: split revert agent workspace tests | 2026-07-16 04:58:45 |
 
 ## Neighbors
 

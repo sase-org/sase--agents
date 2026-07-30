@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`46b40c5`](https://github.com/sase-org/sase/commit/46b40c5f6610b2ccd97d0e315b853a6563b2ab1a) | feat(artifacts): expand references during prompt launch | 2026-07-29 18:25:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`46b40c5`](https://github.com/sase-org/sase/commit/46b40c5f6610b2ccd97d0e315b853a6563b2ab1a) | feat(artifacts): expand references during prompt launch | 2026-07-29 18:25:21 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a11c6ba`](https://github.com/sase-org/sase/commit/a11c6ba96bc6b12a4dc26c0774e80066917a5e97) | test: split agents PNG snapshot coverage | 2026-07-16 05:26:49 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a11c6ba`](https://github.com/sase-org/sase/commit/a11c6ba96bc6b12a4dc26c0774e80066917a5e97) | test: split agents PNG snapshot coverage | 2026-07-16 05:26:49 |
 
 ## Neighbors
 

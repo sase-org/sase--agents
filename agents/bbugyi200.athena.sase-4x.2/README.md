@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`97edc91`](https://github.com/sase-org/sase/commit/97edc9156f51abb586c10a9c5067744c1de41870) | chore(beads): close sase-4x.2 (plan search Phase 2) | 2026-06-19 02:18:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`97edc91`](https://github.com/sase-org/sase/commit/97edc9156f51abb586c10a9c5067744c1de41870) | chore(beads): close sase-4x.2 (plan search Phase 2) | 2026-06-19 02:18:07 |
 
 ## Neighbors
 

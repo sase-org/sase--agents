@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`796eb1e`](https://github.com/sase-org/sase/commit/796eb1ef005a3b1b283e8c3e0d7588577b903de0) | chore: Add research memo on remote agent work broker | 2026-06-06 17:15:31 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`796eb1e`](https://github.com/sase-org/sase/commit/796eb1ef005a3b1b283e8c3e0d7588577b903de0) | chore: Add research memo on remote agent work broker | 2026-06-06 17:15:31 |
 
 ## Neighbors
 

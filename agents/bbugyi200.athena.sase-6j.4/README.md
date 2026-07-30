@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`af95760`](https://github.com/sase-org/sase/commit/af95760dfa3c3ee31ed8e1202b7a4c3eb35daeff) | fix(ace): keep startup and modal handlers responsive (sase-6j.4) | 2026-07-17 12:39:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`af95760`](https://github.com/sase-org/sase/commit/af95760dfa3c3ee31ed8e1202b7a4c3eb35daeff) | fix(ace): keep startup and modal handlers responsive (sase-6j.4) | 2026-07-17 12:39:44 |
 
 ## Neighbors
 

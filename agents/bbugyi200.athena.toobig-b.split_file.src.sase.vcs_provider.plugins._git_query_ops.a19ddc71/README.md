@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0c99b1f`](https://github.com/sase-org/sase/commit/0c99b1f581ef2caad1288c6203314eda45454b7a) | refactor(vcs): split git query operations | 2026-07-21 16:32:50 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0c99b1f`](https://github.com/sase-org/sase/commit/0c99b1f581ef2caad1288c6203314eda45454b7a) | refactor(vcs): split git query operations | 2026-07-21 16:32:50 |
 
 ## Neighbors
 

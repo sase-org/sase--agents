@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f1a2d0f`](https://github.com/sase-org/sase/commit/f1a2d0f560a63312059df874c6b27db296dd73b9) | chore: Add SDD prompt and plan for project\_display\_name\_everywhere | 2026-06-29 14:13:25 |
-| [`91d6a4f`](https://github.com/sase-org/sase/commit/91d6a4f18f3fbd37e6a3d524cced33b2752d1df1) | fix(tui): show project display names consistently | 2026-06-29 14:40:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f1a2d0f`](https://github.com/sase-org/sase/commit/f1a2d0f560a63312059df874c6b27db296dd73b9) | chore: Add SDD prompt and plan for project\_display\_name\_everywhere | 2026-06-29 14:13:25 |
+| sase | [`91d6a4f`](https://github.com/sase-org/sase/commit/91d6a4f18f3fbd37e6a3d524cced33b2752d1df1) | fix(tui): show project display names consistently | 2026-06-29 14:40:45 |
 
 ## Neighbors
 

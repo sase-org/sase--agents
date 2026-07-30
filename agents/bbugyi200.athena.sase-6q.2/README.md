@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`02bb467`](https://github.com/sase-org/sase/commit/02bb4670b5feb48992717f1b59f7410a68a952d5) | feat: add big epic lander alias configuration (sase-6q.2) | 2026-07-18 10:34:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`02bb467`](https://github.com/sase-org/sase/commit/02bb4670b5feb48992717f1b59f7410a68a952d5) | feat: add big epic lander alias configuration (sase-6q.2) | 2026-07-18 10:34:25 |
 
 ## Neighbors
 

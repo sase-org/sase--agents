@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4a6776f`](https://github.com/sase-org/sase/commit/4a6776f1255df378d3a9d9f9439680dc388213e9) | fix(ace): preserve runner roots sharing child pid | 2026-07-22 16:08:18 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4a6776f`](https://github.com/sase-org/sase/commit/4a6776f1255df378d3a9d9f9439680dc388213e9) | fix(ace): preserve runner roots sharing child pid | 2026-07-22 16:08:18 |

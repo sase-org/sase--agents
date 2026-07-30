@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`dc455c5`](https://github.com/sase-org/sase/commit/dc455c5d2bc469cabcffab2863f4c61707d5a252) | chore: Add SDD prompt and plan for unknown\_wait\_agent\_warning | 2026-06-26 21:41:30 |
-| [`f9b635d`](https://github.com/sase-org/sase/commit/f9b635df2f79017f5415b50b4253bbbbca0a415f) | feat(tui): flag unknown waited-for agents | 2026-06-26 21:58:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`dc455c5`](https://github.com/sase-org/sase/commit/dc455c5d2bc469cabcffab2863f4c61707d5a252) | chore: Add SDD prompt and plan for unknown\_wait\_agent\_warning | 2026-06-26 21:41:30 |
+| sase | [`f9b635d`](https://github.com/sase-org/sase/commit/f9b635df2f79017f5415b50b4253bbbbca0a415f) | feat(tui): flag unknown waited-for agents | 2026-06-26 21:58:41 |
 
 ## Neighbors
 

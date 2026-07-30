@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`52c5ab2`](https://github.com/sase-org/sase/commit/52c5ab2748bc1e02e5a292b155fdf50f75c854f9) | chore: Add SDD prompt and plan for xprompts\_enabled\_skips\_embedded\_validation | 2026-06-19 18:39:47 |
-| [`86f89d4`](https://github.com/sase-org/sase/commit/86f89d40fe060d3d809f25b3024e2ab1e36323d1) | fix: ignore embedded prompts in disabled regions | 2026-06-19 18:47:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`52c5ab2`](https://github.com/sase-org/sase/commit/52c5ab2748bc1e02e5a292b155fdf50f75c854f9) | chore: Add SDD prompt and plan for xprompts\_enabled\_skips\_embedded\_validation | 2026-06-19 18:39:47 |
+| sase | [`86f89d4`](https://github.com/sase-org/sase/commit/86f89d40fe060d3d809f25b3024e2ab1e36323d1) | fix: ignore embedded prompts in disabled regions | 2026-06-19 18:47:20 |

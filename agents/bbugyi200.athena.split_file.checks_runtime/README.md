@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`732565f`](https://github.com/sase-org/sase/commit/732565f3469fa3c0cece7ac5bc68dc94e9a62939) | refactor(doctor): split runtime checks | 2026-07-08 07:39:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`732565f`](https://github.com/sase-org/sase/commit/732565f3469fa3c0cece7ac5bc68dc94e9a62939) | refactor(doctor): split runtime checks | 2026-07-08 07:39:40 |
 
 ## Neighbors
 

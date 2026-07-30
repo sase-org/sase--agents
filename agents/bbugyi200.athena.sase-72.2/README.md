@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`81dcef9`](https://github.com/sase-org/sase/commit/81dcef937c8481425d7ba119d56831a1a31aeb15) | fix(stats): scope plan and question counters by project (sase-72.2) | 2026-07-19 04:24:49 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`81dcef9`](https://github.com/sase-org/sase/commit/81dcef937c8481425d7ba119d56831a1a31aeb15) | fix(stats): scope plan and question counters by project (sase-72.2) | 2026-07-19 04:24:49 |
 
 ## Neighbors
 

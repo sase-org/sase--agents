@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2fd3c84`](https://github.com/sase-org/sase/commit/2fd3c84a703fd55c6883105f802ecfc2343c19dd) | feat(ace): highlight xprompts in agent panels | 2026-07-16 20:57:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2fd3c84`](https://github.com/sase-org/sase/commit/2fd3c84a703fd55c6883105f802ecfc2343c19dd) | feat(ace): highlight xprompts in agent panels | 2026-07-16 20:57:07 |
 
 ## Neighbors
 

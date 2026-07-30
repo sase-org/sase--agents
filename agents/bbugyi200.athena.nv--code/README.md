@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7e20cd2`](https://github.com/sase-org/sase/commit/7e20cd22e847c12fc6e435e6da4003e9d054f358) | fix(ace): remove PDF activity from agent rows | 2026-07-29 11:54:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7e20cd2`](https://github.com/sase-org/sase/commit/7e20cd22e847c12fc6e435e6da4003e9d054f358) | fix(ace): remove PDF activity from agent rows | 2026-07-29 11:54:32 |

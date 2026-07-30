@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3da9140`](https://github.com/sase-org/sase/commit/3da9140b4968f590f84ace1db91f21c565746381) | feat(ace): add contextual Copy as palette | 2026-07-30 01:14:52 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3da9140`](https://github.com/sase-org/sase/commit/3da9140b4968f590f84ace1db91f21c565746381) | feat(ace): add contextual Copy as palette | 2026-07-30 01:14:52 |
 
 ## Neighbors
 

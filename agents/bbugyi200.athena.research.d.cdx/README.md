@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`88bb7c1`](https://github.com/sase-org/sase/commit/88bb7c1d0361b4ef393a2c32712b248f57d7ed11) | docs: research sase prompt command | 2026-06-13 13:31:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`88bb7c1`](https://github.com/sase-org/sase/commit/88bb7c1d0361b4ef393a2c32712b248f57d7ed11) | docs: research sase prompt command | 2026-06-13 13:31:38 |
 
 ## Neighbors
 

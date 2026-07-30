@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c27b66a`](https://github.com/sase-org/sase/commit/c27b66a7d0d3877e23226395e8805ab941b15502) | fix: preserve handoff model providers | 2026-06-10 13:01:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c27b66a`](https://github.com/sase-org/sase/commit/c27b66a7d0d3877e23226395e8805ab941b15502) | fix: preserve handoff model providers | 2026-06-10 13:01:46 |

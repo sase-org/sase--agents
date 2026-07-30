@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a939e51`](https://github.com/sase-org/sase/commit/a939e51f1f7c1a0943403fe1d90417850dcadf12) | docs: add research on parallel sase/sase-dev installs | 2026-06-25 20:05:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a939e51`](https://github.com/sase-org/sase/commit/a939e51f1f7c1a0943403fe1d90417850dcadf12) | docs: add research on parallel sase/sase-dev installs | 2026-06-25 20:05:44 |
 
 ## Neighbors
 

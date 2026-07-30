@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`df403f3`](https://github.com/sase-org/sase/commit/df403f3c873bc19846a2606db21bc7c497cdfa9c) | feat: add episode component planner (sase-48.2) | 2026-05-28 22:05:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`df403f3`](https://github.com/sase-org/sase/commit/df403f3c873bc19846a2606db21bc7c497cdfa9c) | feat: add episode component planner (sase-48.2) | 2026-05-28 22:05:57 |
 
 ## Neighbors
 

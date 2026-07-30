@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1eee25b`](https://github.com/sase-org/sase/commit/1eee25b3f825f597278a7aa386e3ea271e963af1) | feat: reconcile launch results with artifact deltas (sase-4f.4) | 2026-06-08 19:44:28 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1eee25b`](https://github.com/sase-org/sase/commit/1eee25b3f825f597278a7aa386e3ea271e963af1) | feat: reconcile launch results with artifact deltas (sase-4f.4) | 2026-06-08 19:44:28 |
 
 ## Neighbors
 

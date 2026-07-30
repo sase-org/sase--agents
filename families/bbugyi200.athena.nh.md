@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`5568411`](https://github.com/sase-org/sase/commit/5568411c9545b2c34bd112fb30f0d39afd4aacc2) | fix(tui): tighten commas after xprompt completions | 2026-07-28 22:00:32 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`5568411`](https://github.com/sase-org/sase/commit/5568411c9545b2c34bd112fb30f0d39afd4aacc2) | fix(tui): tighten commas after xprompt completions | 2026-07-28 22:00:32 |

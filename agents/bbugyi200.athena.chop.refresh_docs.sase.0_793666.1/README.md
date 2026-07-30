@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d369a98`](https://github.com/sase-org/sase/commit/d369a98ce19183d408cba7f9233388cad2c2ce8a) | docs: refresh guides for current behavior | 2026-07-20 23:51:18 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d369a98`](https://github.com/sase-org/sase/commit/d369a98ce19183d408cba7f9233388cad2c2ce8a) | docs: refresh guides for current behavior | 2026-07-20 23:51:18 |
 
 ## Neighbors
 

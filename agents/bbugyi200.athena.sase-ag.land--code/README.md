@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`702f1ae`](https://github.com/sase-org/sase/commit/702f1aece2375113427d437497924e960d5ca735) | build(deps): require sase-core-rs 0.12.4 (sase-ag) | 2026-07-28 18:03:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`702f1ae`](https://github.com/sase-org/sase/commit/702f1aece2375113427d437497924e960d5ca735) | build(deps): require sase-core-rs 0.12.4 (sase-ag) | 2026-07-28 18:03:38 |
 
 ## Neighbors
 

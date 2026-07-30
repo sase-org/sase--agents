@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`615ab89`](https://github.com/sase-org/sase/commit/615ab89c00cc7abf4ae20d5ecccb9e0acc9396b0) | test: split config edit modal widget tests | 2026-07-06 12:27:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`615ab89`](https://github.com/sase-org/sase/commit/615ab89c00cc7abf4ae20d5ecccb9e0acc9396b0) | test: split config edit modal widget tests | 2026-07-06 12:27:05 |
 
 ## Neighbors
 

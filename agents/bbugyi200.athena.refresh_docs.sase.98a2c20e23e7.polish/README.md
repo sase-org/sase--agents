@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`139dab3`](https://github.com/sase-org/sase/commit/139dab31807d8603bd8cd8fcdb9ae1f4cd5d927f) | chore: clarify AMD and dynamic memory docs | 2026-05-30 17:51:18 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`139dab3`](https://github.com/sase-org/sase/commit/139dab31807d8603bd8cd8fcdb9ae1f4cd5d927f) | chore: clarify AMD and dynamic memory docs | 2026-05-30 17:51:18 |
 
 ## Neighbors
 

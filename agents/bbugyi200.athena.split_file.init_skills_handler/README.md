@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ff160d0`](https://github.com/sase-org/sase/commit/ff160d01e0abccd3d7a09ada47516e382395550d) | refactor: split init skills handler responsibilities | 2026-07-11 14:02:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ff160d0`](https://github.com/sase-org/sase/commit/ff160d01e0abccd3d7a09ada47516e382395550d) | refactor: split init skills handler responsibilities | 2026-07-11 14:02:41 |
 
 ## Neighbors
 

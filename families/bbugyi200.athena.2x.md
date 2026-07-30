@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`9242805`](https://github.com/sase-org/sase/commit/9242805e1afa7a9574f919ca2b1867cb6d75caec) | feat(vcs): show remote commit presence in log | 2026-07-08 23:11:43 |
-| root | [`9242805`](https://github.com/sase-org/sase/commit/9242805e1afa7a9574f919ca2b1867cb6d75caec) | feat(vcs): show remote commit presence in log | 2026-07-08 23:11:43 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`9242805`](https://github.com/sase-org/sase/commit/9242805e1afa7a9574f919ca2b1867cb6d75caec) | feat(vcs): show remote commit presence in log | 2026-07-08 23:11:43 |
+| root | sase | [`9242805`](https://github.com/sase-org/sase/commit/9242805e1afa7a9574f919ca2b1867cb6d75caec) | feat(vcs): show remote commit presence in log | 2026-07-08 23:11:43 |

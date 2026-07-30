@@ -15,12 +15,12 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`41a01b3`](https://github.com/sase-org/sase/commit/41a01b397c79303acad241f2a44822193b3aeb32) | ci: emit valid split SDD store record | 2026-07-28 23:12:14 |
-| [`887999f`](https://github.com/sase-org/sase/commit/887999fb5d0c7acd0ca0a232e9a98f33d1fcc182) | fix(ci): stabilize full matrix isolation | 2026-07-29 01:50:44 |
-| [`14b30c4`](https://github.com/sase-org/sase/commit/14b30c411fe4ab371048b9b38d28dfad9bca3c06) | test: make task help aliases version-neutral | 2026-07-29 02:53:58 |
-| [`07aaac0`](https://github.com/sase-org/sase/commit/07aaac0d726f94390c8ad0d0c4c1a5a129c610d1) | test: identify final deep archive request | 2026-07-29 03:49:12 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`41a01b3`](https://github.com/sase-org/sase/commit/41a01b397c79303acad241f2a44822193b3aeb32) | ci: emit valid split SDD store record | 2026-07-28 23:12:14 |
+| sase | [`887999f`](https://github.com/sase-org/sase/commit/887999fb5d0c7acd0ca0a232e9a98f33d1fcc182) | fix(ci): stabilize full matrix isolation | 2026-07-29 01:50:44 |
+| sase | [`14b30c4`](https://github.com/sase-org/sase/commit/14b30c411fe4ab371048b9b38d28dfad9bca3c06) | test: make task help aliases version-neutral | 2026-07-29 02:53:58 |
+| sase | [`07aaac0`](https://github.com/sase-org/sase/commit/07aaac0d726f94390c8ad0d0c4c1a5a129c610d1) | test: identify final deep archive request | 2026-07-29 03:49:12 |
 
 ## Neighbors
 

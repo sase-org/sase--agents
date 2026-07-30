@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`80c8ec9`](https://github.com/sase-org/sase/commit/80c8ec952f874713c8c7ea03562e116279bf10bb) | chore: audit agents TUI full refreshes | 2026-06-08 17:22:12 |
-| [`eedee20`](https://github.com/sase-org/sase/commit/eedee20702f0a67b047a541bf38a97499bc6655f) | chore: add agents tui refresh research | 2026-06-08 17:33:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`80c8ec9`](https://github.com/sase-org/sase/commit/80c8ec952f874713c8c7ea03562e116279bf10bb) | chore: audit agents TUI full refreshes | 2026-06-08 17:22:12 |
+| sase | [`eedee20`](https://github.com/sase-org/sase/commit/eedee20702f0a67b047a541bf38a97499bc6655f) | chore: add agents tui refresh research | 2026-06-08 17:33:27 |
 
 ## Neighbors
 

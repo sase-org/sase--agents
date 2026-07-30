@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ecb4bf6`](https://github.com/sase-org/sase/commit/ecb4bf67987a625ed1fbe0a62ec240cc2cb11b0a) | feat: add agent output variables CLI (sase-4a.1) | 2026-06-03 00:38:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ecb4bf6`](https://github.com/sase-org/sase/commit/ecb4bf67987a625ed1fbe0a62ec240cc2cb11b0a) | feat: add agent output variables CLI (sase-4a.1) | 2026-06-03 00:38:58 |
 
 ## Neighbors
 

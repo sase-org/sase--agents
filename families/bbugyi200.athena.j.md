@@ -22,11 +22,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`a30415a`](https://github.com/sase-org/sase/commit/a30415a7255b2a8ba5bad5458f3968e216e05ff4) | chore: Add SDD prompt and plan for fix\_chop\_linked\_repo\_skew | 2026-07-06 18:22:11 |
-| code | [`f672125`](https://github.com/sase-org/sase/commit/f672125c50dd7456b4f02fb16d485ad8a5ecf00d) | fix: prepare linked repo workspaces before agent launch | 2026-07-06 18:38:09 |
-| root | [`f672125`](https://github.com/sase-org/sase/commit/f672125c50dd7456b4f02fb16d485ad8a5ecf00d) | fix: prepare linked repo workspaces before agent launch | 2026-07-06 18:38:09 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`a30415a`](https://github.com/sase-org/sase/commit/a30415a7255b2a8ba5bad5458f3968e216e05ff4) | chore: Add SDD prompt and plan for fix\_chop\_linked\_repo\_skew | 2026-07-06 18:22:11 |
+| code | sase | [`f672125`](https://github.com/sase-org/sase/commit/f672125c50dd7456b4f02fb16d485ad8a5ecf00d) | fix: prepare linked repo workspaces before agent launch | 2026-07-06 18:38:09 |
+| root | sase | [`f672125`](https://github.com/sase-org/sase/commit/f672125c50dd7456b4f02fb16d485ad8a5ecf00d) | fix: prepare linked repo workspaces before agent launch | 2026-07-06 18:38:09 |
 
 ## Neighbors
 

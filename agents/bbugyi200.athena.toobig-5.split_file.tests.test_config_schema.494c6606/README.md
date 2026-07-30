@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5fda3b0`](https://github.com/sase-org/sase/commit/5fda3b0ee312442a51c57672adbd528a9a2653dd) | test: split config schema coverage by area | 2026-07-20 17:48:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5fda3b0`](https://github.com/sase-org/sase/commit/5fda3b0ee312442a51c57672adbd528a9a2653dd) | test: split config schema coverage by area | 2026-07-20 17:48:05 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4e2a948`](https://github.com/sase-org/sase/commit/4e2a9488a052ef061e555f6ae387138bf31d5429) | refactor(ace): split agent detail display helpers | 2026-07-19 03:19:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4e2a948`](https://github.com/sase-org/sase/commit/4e2a9488a052ef061e555f6ae387138bf31d5429) | refactor(ace): split agent detail display helpers | 2026-07-19 03:19:02 |
 
 ## Neighbors
 

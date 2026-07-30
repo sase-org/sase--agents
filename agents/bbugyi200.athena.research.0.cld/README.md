@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b75bb70`](https://github.com/sase-org/sase/commit/b75bb70506b44de1808cd4d8e515bb82e1f527c2) | docs: add research on separate SDD repository per project | 2026-07-08 02:29:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b75bb70`](https://github.com/sase-org/sase/commit/b75bb70506b44de1808cd4d8e515bb82e1f527c2) | docs: add research on separate SDD repository per project | 2026-07-08 02:29:32 |
 
 ## Neighbors
 

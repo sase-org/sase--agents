@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e2fcc1d`](https://github.com/sase-org/sase/commit/e2fcc1d60634ed6287e2588c9eea33f4c4c6e0f2) | chore: Add SDD prompt and plan for fork\_implies\_wait | 2026-06-19 13:50:33 |
-| [`e64a9eb`](https://github.com/sase-org/sase/commit/e64a9ebf1ce354e1cd039a61239e38f547ac123f) | feat(fork): make \`#fork:\<name\>\` imply \`%w:\<name\>\` | 2026-06-19 14:11:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e2fcc1d`](https://github.com/sase-org/sase/commit/e2fcc1d60634ed6287e2588c9eea33f4c4c6e0f2) | chore: Add SDD prompt and plan for fork\_implies\_wait | 2026-06-19 13:50:33 |
+| sase | [`e64a9eb`](https://github.com/sase-org/sase/commit/e64a9ebf1ce354e1cd039a61239e38f547ac123f) | feat(fork): make \`#fork:\<name\>\` imply \`%w:\<name\>\` | 2026-06-19 14:11:37 |
 
 ## Neighbors
 

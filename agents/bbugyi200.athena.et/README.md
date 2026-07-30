@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9a06f75`](https://github.com/sase-org/sase/commit/9a06f756b6b84afacc5364b1a3af2e8a2bacde3e) | feat(tui): highlight YAML frontmatter in Markdown previews | 2026-07-19 13:24:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9a06f75`](https://github.com/sase-org/sase/commit/9a06f756b6b84afacc5364b1a3af2e8a2bacde3e) | feat(tui): highlight YAML frontmatter in Markdown previews | 2026-07-19 13:24:54 |

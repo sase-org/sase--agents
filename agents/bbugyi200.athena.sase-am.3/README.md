@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`29ca9ac`](https://github.com/sase-org/sase/commit/29ca9ac511433323f872213603b1ead19db565c3) | ci: consolidate workflow lanes | 2026-07-28 23:04:01 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`29ca9ac`](https://github.com/sase-org/sase/commit/29ca9ac511433323f872213603b1ead19db565c3) | ci: consolidate workflow lanes | 2026-07-28 23:04:01 |
 
 ## Neighbors
 

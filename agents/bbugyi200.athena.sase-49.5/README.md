@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`131b87b`](https://github.com/sase-org/sase/commit/131b87bfe34cfcfa4223cf65ec9b9d7b95081e09) | feat: add project management TUI panel (sase-49.5) | 2026-06-01 18:30:31 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`131b87b`](https://github.com/sase-org/sase/commit/131b87bfe34cfcfa4223cf65ec9b9d7b95081e09) | feat: add project management TUI panel (sase-49.5) | 2026-06-01 18:30:31 |
 
 ## Neighbors
 

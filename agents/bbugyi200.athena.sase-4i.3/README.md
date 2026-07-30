@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`def2859`](https://github.com/sase-org/sase/commit/def285906e0289ecd1937c43c8bc7fab867f5e15) | feat: add phase 3 doctor checks (sase-4i.3) | 2026-06-09 17:00:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`def2859`](https://github.com/sase-org/sase/commit/def285906e0289ecd1937c43c8bc7fab867f5e15) | feat: add phase 3 doctor checks (sase-4i.3) | 2026-06-09 17:00:40 |
 
 ## Neighbors
 

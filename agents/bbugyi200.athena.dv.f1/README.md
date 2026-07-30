@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ff19c80`](https://github.com/sase-org/sase/commit/ff19c80f9b24ff9ca1b08cc91acdc233efbf5a94) | feat(ace): sort clan members by status | 2026-07-18 20:58:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ff19c80`](https://github.com/sase-org/sase/commit/ff19c80f9b24ff9ca1b08cc91acdc233efbf5a94) | feat(ace): sort clan members by status | 2026-07-18 20:58:45 |
 
 ## Neighbors
 

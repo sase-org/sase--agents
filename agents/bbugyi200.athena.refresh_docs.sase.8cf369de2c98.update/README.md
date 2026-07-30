@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0151e1f`](https://github.com/sase-org/sase/commit/0151e1f77454609cd372b4c8de8fe22354c60b5c) | docs: document resolved SDD storage policy | 2026-07-08 04:37:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0151e1f`](https://github.com/sase-org/sase/commit/0151e1f77454609cd372b4c8de8fe22354c60b5c) | docs: document resolved SDD storage policy | 2026-07-08 04:37:30 |
 
 ## Neighbors
 

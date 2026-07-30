@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`a035958`](https://github.com/sase-org/sase/commit/a035958ca96d7ab80a47f18a944c384b90291f67) | test(fakey): guard retry marker attribution (sase-5o) | 2026-07-10 23:01:23 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`a035958`](https://github.com/sase-org/sase/commit/a035958ca96d7ab80a47f18a944c384b90291f67) | test(fakey): guard retry marker attribution (sase-5o) | 2026-07-10 23:01:23 |
 
 ## Neighbors
 

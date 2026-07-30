@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`80c536e`](https://github.com/sase-org/sase/commit/80c536eb2f25c2693c9a1e1002fe2e10c4e6d139) | chore(llm\_provider): finalize sase-5d verification cleanup | 2026-06-30 16:40:43 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`80c536e`](https://github.com/sase-org/sase/commit/80c536eb2f25c2693c9a1e1002fe2e10c4e6d139) | chore(llm\_provider): finalize sase-5d verification cleanup | 2026-06-30 16:40:43 |
 
 ## Neighbors
 

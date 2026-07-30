@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a9007ab`](https://github.com/sase-org/sase/commit/a9007ab34b1be216de4e25a99033b7fb2c3ba4b9) | docs(memory): add memory directory map assets (sase-5m.1) | 2026-07-08 23:22:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a9007ab`](https://github.com/sase-org/sase/commit/a9007ab34b1be216de4e25a99033b7fb2c3ba4b9) | docs(memory): add memory directory map assets (sase-5m.1) | 2026-07-08 23:22:07 |
 
 ## Neighbors
 

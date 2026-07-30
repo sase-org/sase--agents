@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fcf8794`](https://github.com/sase-org/sase/commit/fcf879400b5e91398e5f7b70157c44a6c1d77d11) | chore: consolidate agent launch UX research | 2026-06-04 23:59:00 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fcf8794`](https://github.com/sase-org/sase/commit/fcf879400b5e91398e5f7b70157c44a6c1d77d11) | chore: consolidate agent launch UX research | 2026-06-04 23:59:00 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5aa7cc4`](https://github.com/sase-org/sase/commit/5aa7cc4a0b5cc0d8f6e0ea5c6d702f0e1f2573ff) | refactor(ace): split tool report responsibilities | 2026-07-16 02:46:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5aa7cc4`](https://github.com/sase-org/sase/commit/5aa7cc4a0b5cc0d8f6e0ea5c6d702f0e1f2573ff) | refactor(ace): split tool report responsibilities | 2026-07-16 02:46:21 |
 
 ## Neighbors
 

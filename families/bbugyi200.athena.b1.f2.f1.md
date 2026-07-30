@@ -22,11 +22,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`6b84f2a`](https://github.com/sase-org/sase/commit/6b84f2add16e3e28af29837d2c6189ab9b76c1ed) | feat(ace): add ranked artifacts context lane | 2026-07-16 23:00:10 |
-| code | [`b296828`](https://github.com/sase-org/sase/commit/b29682808132418e06eb4601f7c6a7b6d2e2a715) | fix(ace): keep artifact fields under context navigation | 2026-07-16 23:11:44 |
-| root | [`b296828`](https://github.com/sase-org/sase/commit/b29682808132418e06eb4601f7c6a7b6d2e2a715) | fix(ace): keep artifact fields under context navigation | 2026-07-16 23:11:44 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`6b84f2a`](https://github.com/sase-org/sase/commit/6b84f2add16e3e28af29837d2c6189ab9b76c1ed) | feat(ace): add ranked artifacts context lane | 2026-07-16 23:00:10 |
+| code | sase | [`b296828`](https://github.com/sase-org/sase/commit/b29682808132418e06eb4601f7c6a7b6d2e2a715) | fix(ace): keep artifact fields under context navigation | 2026-07-16 23:11:44 |
+| root | sase | [`b296828`](https://github.com/sase-org/sase/commit/b29682808132418e06eb4601f7c6a7b6d2e2a715) | fix(ace): keep artifact fields under context navigation | 2026-07-16 23:11:44 |
 
 ## Neighbors
 

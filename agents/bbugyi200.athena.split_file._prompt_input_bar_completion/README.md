@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e917fee`](https://github.com/sase-org/sase/commit/e917feeb1744ca1cea0a4822ac127ec8c8c474ec) | refactor: split prompt completion widget helpers | 2026-07-07 22:34:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e917fee`](https://github.com/sase-org/sase/commit/e917feeb1744ca1cea0a4822ac127ec8c8c474ec) | refactor: split prompt completion widget helpers | 2026-07-07 22:34:48 |
 
 ## Neighbors
 

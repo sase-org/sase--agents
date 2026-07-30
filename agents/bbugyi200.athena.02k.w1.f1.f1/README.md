@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ae13705`](https://github.com/sase-org/sase/commit/ae13705a091949c7cc4273a8fce3099a07e30dcf) | chore: Add SDD prompt and plan for workspace\_tmux\_chooser | 2026-06-20 21:03:43 |
-| [`fb422ed`](https://github.com/sase-org/sase/commit/fb422edde684fb6852378f8aa61a5bdc9bd0b6f5) | feat(tui): add tmux workspace chooser for agents with opened workspaces | 2026-06-20 21:44:55 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ae13705`](https://github.com/sase-org/sase/commit/ae13705a091949c7cc4273a8fce3099a07e30dcf) | chore: Add SDD prompt and plan for workspace\_tmux\_chooser | 2026-06-20 21:03:43 |
+| sase | [`fb422ed`](https://github.com/sase-org/sase/commit/fb422edde684fb6852378f8aa61a5bdc9bd0b6f5) | feat(tui): add tmux workspace chooser for agents with opened workspaces | 2026-06-20 21:44:55 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e68ff17`](https://github.com/sase-org/sase/commit/e68ff172ddd53906806432e3f886ece2a203c7e3) | fix: clone launch sidecars from authoritative remotes | 2026-07-15 15:27:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e68ff17`](https://github.com/sase-org/sase/commit/e68ff172ddd53906806432e3f886ece2a203c7e3) | fix: clone launch sidecars from authoritative remotes | 2026-07-15 15:27:02 |
 
 ## Neighbors
 

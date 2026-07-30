@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`a450a34`](https://github.com/sase-org/sase/commit/a450a34034d417021f83a8c8b27e415010615bbc) | fix(tui): scope group actions to focused panel | 2026-07-13 16:44:18 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`a450a34`](https://github.com/sase-org/sase/commit/a450a34034d417021f83a8c8b27e415010615bbc) | fix(tui): scope group actions to focused panel | 2026-07-13 16:44:18 |

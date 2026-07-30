@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`4f87e3e`](https://github.com/sase-org/sase/commit/4f87e3e022dc15d20b96f3aa0df04b659dcec8fc) | feat!: add phased commit hooks | 2026-07-11 12:33:38 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`4f87e3e`](https://github.com/sase-org/sase/commit/4f87e3e022dc15d20b96f3aa0df04b659dcec8fc) | feat!: add phased commit hooks | 2026-07-11 12:33:38 |

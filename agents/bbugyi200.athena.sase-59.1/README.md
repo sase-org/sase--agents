@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b605a7e`](https://github.com/sase-org/sase/commit/b605a7e5208f0109beaca61e7d84cdb5eddb86d6) | refactor(plugins): add headless operations layer and promote renderables (sase-59.1) | 2026-06-26 14:07:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b605a7e`](https://github.com/sase-org/sase/commit/b605a7e5208f0109beaca61e7d84cdb5eddb86d6) | refactor(plugins): add headless operations layer and promote renderables (sase-59.1) | 2026-06-26 14:07:20 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f15c9a3`](https://github.com/sase-org/sase/commit/f15c9a33758bf82d0cc1e4a4372b5edd5d8b38ed) | feat(doctor): add deep host limit checks (sase-5l.12) | 2026-07-08 21:07:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f15c9a3`](https://github.com/sase-org/sase/commit/f15c9a33758bf82d0cc1e4a4372b5edd5d8b38ed) | feat(doctor): add deep host limit checks (sase-5l.12) | 2026-07-08 21:07:57 |
 
 ## Neighbors
 

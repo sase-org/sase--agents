@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cdb2af0`](https://github.com/sase-org/sase/commit/cdb2af0233a1278c51dcb076a6f66e07a4323114) | refactor(axe): split run agent directive handling | 2026-07-20 22:58:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cdb2af0`](https://github.com/sase-org/sase/commit/cdb2af0233a1278c51dcb076a6f66e07a4323114) | refactor(axe): split run agent directive handling | 2026-07-20 22:58:29 |
 
 ## Neighbors
 

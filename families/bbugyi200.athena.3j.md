@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`e137094`](https://github.com/sase-org/sase/commit/e137094bcd23e30110a7f4be972a28e48a138213) | docs: add pyvision memory note | 2026-07-09 15:48:06 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`e137094`](https://github.com/sase-org/sase/commit/e137094bcd23e30110a7f4be972a28e48a138213) | docs: add pyvision memory note | 2026-07-09 15:48:06 |
 
 ## Neighbors
 

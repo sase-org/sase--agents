@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`dda37da`](https://github.com/sase-org/sase/commit/dda37dae347caea88a124df0667d5fcbfe2e60c7) | fix(agent-clis): ignore orphaned npm package listings | 2026-07-22 12:45:38 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`dda37da`](https://github.com/sase-org/sase/commit/dda37dae347caea88a124df0667d5fcbfe2e60c7) | fix(agent-clis): ignore orphaned npm package listings | 2026-07-22 12:45:38 |

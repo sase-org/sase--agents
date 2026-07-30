@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5b488ee`](https://github.com/sase-org/sase/commit/5b488eecbd0a2b5683ed6f8c495243d6b602f461) | chore: Add SDD prompt and plan for memory\_init\_fold\_commit | 2026-06-28 12:38:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5b488ee`](https://github.com/sase-org/sase/commit/5b488eecbd0a2b5683ed6f8c495243d6b602f461) | chore: Add SDD prompt and plan for memory\_init\_fold\_commit | 2026-06-28 12:38:44 |

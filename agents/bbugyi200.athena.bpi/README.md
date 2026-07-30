@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b73bf2c`](https://github.com/sase-org/sase/commit/b73bf2c8b0a7be00d5230fb3234453d11ee86538) | chore: Add SDD prompt and plan for move\_pick\_plan\_xprompt | 2026-05-30 17:43:17 |
-| [`d005e44`](https://github.com/sase-org/sase/commit/d005e444c8a2f94c0b7da84104e0f9e181ea49d3) | chore: remove project pick\_plan xprompt | 2026-05-30 17:49:04 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b73bf2c`](https://github.com/sase-org/sase/commit/b73bf2c8b0a7be00d5230fb3234453d11ee86538) | chore: Add SDD prompt and plan for move\_pick\_plan\_xprompt | 2026-05-30 17:43:17 |
+| sase | [`d005e44`](https://github.com/sase-org/sase/commit/d005e444c8a2f94c0b7da84104e0f9e181ea49d3) | chore: remove project pick\_plan xprompt | 2026-05-30 17:49:04 |

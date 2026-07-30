@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`01c5b80`](https://github.com/sase-org/sase/commit/01c5b8022662bba689d147a70fd7d2cd6c8d6c48) | feat: enrich epic clan summaries (sase-85.2) | 2026-07-20 16:01:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`01c5b80`](https://github.com/sase-org/sase/commit/01c5b8022662bba689d147a70fd7d2cd6c8d6c48) | feat: enrich epic clan summaries (sase-85.2) | 2026-07-20 16:01:27 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`dd16a88`](https://github.com/sase-org/sase/commit/dd16a883e31138187f91bdce092b29897ec449ff) | fix(tui): restore Agents parent navigation | 2026-07-21 20:58:04 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`dd16a88`](https://github.com/sase-org/sase/commit/dd16a883e31138187f91bdce092b29897ec449ff) | fix(tui): restore Agents parent navigation | 2026-07-21 20:58:04 |
 
 ## Neighbors
 

@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a380101`](https://github.com/sase-org/sase/commit/a380101d1867adfb7d9e8679c7d5bdf1be058d32) | test(ace): patch startup time object directly (#192) | 2026-06-29 10:43:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a380101`](https://github.com/sase-org/sase/commit/a380101d1867adfb7d9e8679c7d5bdf1be058d32) | test(ace): patch startup time object directly (#192) | 2026-06-29 10:43:24 |

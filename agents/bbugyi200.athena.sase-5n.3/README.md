@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a79df77`](https://github.com/sase-org/sase/commit/a79df7733386de41507804ae2d17866ca9c5d64d) | refactor: remove markdown pyvision pragmas (sase-5n.3) | 2026-07-09 02:59:50 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a79df77`](https://github.com/sase-org/sase/commit/a79df7733386de41507804ae2d17866ca9c5d64d) | refactor: remove markdown pyvision pragmas (sase-5n.3) | 2026-07-09 02:59:50 |
 
 ## Neighbors
 

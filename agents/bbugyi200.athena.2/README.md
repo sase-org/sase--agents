@@ -19,8 +19,8 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8557237`](https://github.com/sase-org/sase/commit/85572377d42230e3b0b968e24c5e4145272c554c) | chore: Add SDD prompt and plan for invalid\_sase\_project | 2026-06-02 11:23:29 |
-| [`bce1e5a`](https://github.com/sase-org/sase/commit/bce1e5a254999cdf5c8e853ff8e9449fff575c61) | fix: reject invalid SASE project names | 2026-06-02 11:36:39 |
-| [`1b6df81`](https://github.com/sase-org/sase/commit/1b6df81760a819d4b1de431b56edcbdf46d60f91) | fix: resolve standalone workflow scope from workspace | 2026-07-06 10:41:43 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8557237`](https://github.com/sase-org/sase/commit/85572377d42230e3b0b968e24c5e4145272c554c) | chore: Add SDD prompt and plan for invalid\_sase\_project | 2026-06-02 11:23:29 |
+| sase | [`bce1e5a`](https://github.com/sase-org/sase/commit/bce1e5a254999cdf5c8e853ff8e9449fff575c61) | fix: reject invalid SASE project names | 2026-06-02 11:36:39 |
+| sase | [`1b6df81`](https://github.com/sase-org/sase/commit/1b6df81760a819d4b1de431b56edcbdf46d60f91) | fix: resolve standalone workflow scope from workspace | 2026-07-06 10:41:43 |

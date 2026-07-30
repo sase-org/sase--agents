@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`20a9589`](https://github.com/sase-org/sase/commit/20a95891d2fcdc1a90f9c8b7d1aa14d461c80d9a) | feat(xprompt): add frontmatter schema adapter over sase\_core (sase-4r.1) | 2026-06-16 18:24:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`20a9589`](https://github.com/sase-org/sase/commit/20a95891d2fcdc1a90f9c8b7d1aa14d461c80d9a) | feat(xprompt): add frontmatter schema adapter over sase\_core (sase-4r.1) | 2026-06-16 18:24:56 |
 
 ## Neighbors
 

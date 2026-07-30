@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`52af3b1`](https://github.com/sase-org/sase/commit/52af3b1a64afd73b3e3e31e354521919701d86ee) | docs: add coral subcommand naming research | 2026-06-22 15:31:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`52af3b1`](https://github.com/sase-org/sase/commit/52af3b1a64afd73b3e3e31e354521919701d86ee) | docs: add coral subcommand naming research | 2026-06-22 15:31:13 |
 
 ## Neighbors
 

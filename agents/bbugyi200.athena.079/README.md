@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2156918`](https://github.com/sase-org/sase/commit/215691847a56a3bd78680855acf18064bc1a6156) | chore: Add SDD prompt and plan for swap\_a\_big\_a\_keymaps | 2026-06-26 21:07:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2156918`](https://github.com/sase-org/sase/commit/215691847a56a3bd78680855acf18064bc1a6156) | chore: Add SDD prompt and plan for swap\_a\_big\_a\_keymaps | 2026-06-26 21:07:41 |

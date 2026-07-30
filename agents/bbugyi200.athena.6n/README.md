@@ -19,8 +19,8 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`38d8c73`](https://github.com/sase-org/sase/commit/38d8c7364c2e4e775931c372320123ef0e64e00c) | chore: Add SDD prompt and plan for worker\_models\_mapping | 2026-06-13 16:50:03 |
-| [`51a36b8`](https://github.com/sase-org/sase/commit/51a36b83d0caea4147e99a86fe99335c3f06ee58) | feat!: map worker models by primary lane | 2026-06-13 17:07:39 |
-| [`b788ca5`](https://github.com/sase-org/sase/commit/b788ca52264df2652e7b29063c5d3a67448ee75f) | fix(tui): prevent message pump starvation | 2026-07-12 14:31:55 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`38d8c73`](https://github.com/sase-org/sase/commit/38d8c7364c2e4e775931c372320123ef0e64e00c) | chore: Add SDD prompt and plan for worker\_models\_mapping | 2026-06-13 16:50:03 |
+| sase | [`51a36b8`](https://github.com/sase-org/sase/commit/51a36b83d0caea4147e99a86fe99335c3f06ee58) | feat!: map worker models by primary lane | 2026-06-13 17:07:39 |
+| sase | [`b788ca5`](https://github.com/sase-org/sase/commit/b788ca52264df2652e7b29063c5d3a67448ee75f) | fix(tui): prevent message pump starvation | 2026-07-12 14:31:55 |

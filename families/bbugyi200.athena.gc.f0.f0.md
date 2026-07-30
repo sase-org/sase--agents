@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`145f287`](https://github.com/sase-org/sase/commit/145f2876e8013faa2fc3f7aa8fb48ef2f76ed4cc) | feat(ace): resume last Admin Center section | 2026-07-20 18:07:02 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`145f287`](https://github.com/sase-org/sase/commit/145f2876e8013faa2fc3f7aa8fb48ef2f76ed4cc) | feat(ace): resume last Admin Center section | 2026-07-20 18:07:02 |
 
 ## Neighbors
 

@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6307a3f`](https://github.com/sase-org/sase/commit/6307a3fc3bc4b4b832ce8152e44fa70d2e382e25) | fix: suppress completion bell during handoffs | 2026-07-21 20:38:35 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6307a3f`](https://github.com/sase-org/sase/commit/6307a3fc3bc4b4b832ce8152e44fa70d2e382e25) | fix: suppress completion bell during handoffs | 2026-07-21 20:38:35 |

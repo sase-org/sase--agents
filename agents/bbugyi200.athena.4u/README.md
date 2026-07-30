@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bb9037c`](https://github.com/sase-org/sase/commit/bb9037c94d917b20e477c3824f0e20e748ec6a21) | chore: Add SDD research on commit log clutter from sdd/ files | 2026-06-10 00:45:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`bb9037c`](https://github.com/sase-org/sase/commit/bb9037c94d917b20e477c3824f0e20e748ec6a21) | chore: Add SDD research on commit log clutter from sdd/ files | 2026-06-10 00:45:24 |
 
 ## Neighbors
 

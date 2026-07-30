@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b4026bc`](https://github.com/sase-org/sase/commit/b4026bca1d89a786a6e830753dbcee520d0e05a4) | chore: clarify prompt completion docs | 2026-06-06 22:27:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b4026bc`](https://github.com/sase-org/sase/commit/b4026bca1d89a786a6e830753dbcee520d0e05a4) | chore: clarify prompt completion docs | 2026-06-06 22:27:42 |
 
 ## Neighbors
 

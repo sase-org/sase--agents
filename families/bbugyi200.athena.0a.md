@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`b93621d`](https://github.com/sase-org/sase/commit/b93621dbfb43171f826cacb8dfb46a910a9852fa) | chore: Add SDD prompt and plan for demo\_gif\_polish | 2026-07-07 04:49:37 |
-| root | [`9b6adb9`](https://github.com/sase-org/sase/commit/9b6adb94c3da8f0e34ba95278e3e8de07e094f19) | fix(demos): polish ace demo captures | 2026-07-07 05:07:03 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`b93621d`](https://github.com/sase-org/sase/commit/b93621dbfb43171f826cacb8dfb46a910a9852fa) | chore: Add SDD prompt and plan for demo\_gif\_polish | 2026-07-07 04:49:37 |
+| root | sase | [`9b6adb9`](https://github.com/sase-org/sase/commit/9b6adb94c3da8f0e34ba95278e3e8de07e094f19) | fix(demos): polish ace demo captures | 2026-07-07 05:07:03 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`70ed5fa`](https://github.com/sase-org/sase/commit/70ed5fa962ea3e3e69f94adeecbc643e8bd2098c) | fix(axe): re-resolve stranded wait dependencies (sase-80.4) | 2026-07-20 12:06:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`70ed5fa`](https://github.com/sase-org/sase/commit/70ed5fa962ea3e3e69f94adeecbc643e8bd2098c) | fix(axe): re-resolve stranded wait dependencies (sase-80.4) | 2026-07-20 12:06:44 |
 
 ## Neighbors
 

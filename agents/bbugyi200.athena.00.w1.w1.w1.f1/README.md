@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f99d984`](https://github.com/sase-org/sase/commit/f99d984777908e03c3f83910a5bab5f3cd0cbd54) | chore: Add SDD prompt and plan for config\_edit\_modal\_large\_value\_overflow | 2026-07-05 10:36:18 |
-| [`46f5f4c`](https://github.com/sase-org/sase/commit/46f5f4c05fe17392d98b64d1bb4bce4bf071021c) | fix(tui): cap config edit modal value previews | 2026-07-05 11:06:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f99d984`](https://github.com/sase-org/sase/commit/f99d984777908e03c3f83910a5bab5f3cd0cbd54) | chore: Add SDD prompt and plan for config\_edit\_modal\_large\_value\_overflow | 2026-07-05 10:36:18 |
+| sase | [`46f5f4c`](https://github.com/sase-org/sase/commit/46f5f4c05fe17392d98b64d1bb4bce4bf071021c) | fix(tui): cap config edit modal value previews | 2026-07-05 11:06:30 |
 
 ## Neighbors
 

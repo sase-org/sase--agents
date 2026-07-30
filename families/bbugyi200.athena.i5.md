@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`6b3457b`](https://github.com/sase-org/sase/commit/6b3457b0bc765201ca33a8a80fddf544ae3a67cb) | feat(cli)!: infer plan validation tier | 2026-07-22 13:55:40 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`6b3457b`](https://github.com/sase-org/sase/commit/6b3457b0bc765201ca33a8a80fddf544ae3a67cb) | feat(cli)!: infer plan validation tier | 2026-07-22 13:55:40 |

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`250414a`](https://github.com/sase-org/sase/commit/250414afcaf98092701417c059854187a8a26b35) | chore: Add SDD prompt and plan for release\_plz\_internal\_dependency\_versions | 2026-06-09 13:04:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`250414a`](https://github.com/sase-org/sase/commit/250414afcaf98092701417c059854187a8a26b35) | chore: Add SDD prompt and plan for release\_plz\_internal\_dependency\_versions | 2026-06-09 13:04:06 |
 
 ## Neighbors
 

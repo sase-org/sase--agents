@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`306b5ec`](https://github.com/sase-org/sase/commit/306b5ec957dbc162f8ba1f72c7eb3b409389cb27) | fix(ace): expand help panel viewport usage | 2026-07-07 17:56:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`306b5ec`](https://github.com/sase-org/sase/commit/306b5ec957dbc162f8ba1f72c7eb3b409389cb27) | fix(ace): expand help panel viewport usage | 2026-07-07 17:56:22 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1759721`](https://github.com/sase-org/sase/commit/175972194b41fc4e5c468968c9a41c5ee4140359) | feat: support tribe targets in fork workflows (sase-6x.3) | 2026-07-18 23:05:15 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1759721`](https://github.com/sase-org/sase/commit/175972194b41fc4e5c468968c9a41c5ee4140359) | feat: support tribe targets in fork workflows (sase-6x.3) | 2026-07-18 23:05:15 |
 
 ## Neighbors
 

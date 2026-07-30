@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e62eefb`](https://github.com/sase-org/sase/commit/e62eefba2787ff9d26a21008afdd83d9dce00e2e) | feat(ace): support two-character jump hints | 2026-07-19 15:33:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e62eefb`](https://github.com/sase-org/sase/commit/e62eefba2787ff9d26a21008afdd83d9dce00e2e) | feat(ace): support two-character jump hints | 2026-07-19 15:33:06 |

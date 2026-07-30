@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6bdd008`](https://github.com/sase-org/sase/commit/6bdd00894b11267f06cf49b7c8a0a25f8fbcd94d) | feat: add install management doctor check (sase-5l.2) | 2026-07-08 06:03:31 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6bdd008`](https://github.com/sase-org/sase/commit/6bdd00894b11267f06cf49b7c8a0a25f8fbcd94d) | feat: add install management doctor check (sase-5l.2) | 2026-07-08 06:03:31 |
 
 ## Neighbors
 

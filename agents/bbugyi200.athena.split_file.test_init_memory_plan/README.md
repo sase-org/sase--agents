@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6b51b3b`](https://github.com/sase-org/sase/commit/6b51b3b7f2f8bfd77b44cf826e00851a45f1321b) | test: split init memory tests by concern | 2026-07-10 23:55:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6b51b3b`](https://github.com/sase-org/sase/commit/6b51b3b7f2f8bfd77b44cf826e00851a45f1321b) | test: split init memory tests by concern | 2026-07-10 23:55:11 |
 
 ## Neighbors
 

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6f001b0`](https://github.com/sase-org/sase/commit/6f001b03a1140e5f7541c031b68879f426ba3ed6) | chore: Add SDD prompt and plan for wait\_modal\_redesign | 2026-06-24 20:27:32 |
-| [`aabf7d1`](https://github.com/sase-org/sase/commit/aabf7d1cae9e25cf3f2ccc641b10b1610bcb89ce) | feat(tui): redesign agent wait modal | 2026-06-24 20:48:03 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6f001b0`](https://github.com/sase-org/sase/commit/6f001b03a1140e5f7541c031b68879f426ba3ed6) | chore: Add SDD prompt and plan for wait\_modal\_redesign | 2026-06-24 20:27:32 |
+| sase | [`aabf7d1`](https://github.com/sase-org/sase/commit/aabf7d1cae9e25cf3f2ccc641b10b1610bcb89ce) | feat(tui): redesign agent wait modal | 2026-06-24 20:48:03 |
 
 ## Neighbors
 

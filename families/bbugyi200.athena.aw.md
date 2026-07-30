@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`2fd3c84`](https://github.com/sase-org/sase/commit/2fd3c84a703fd55c6883105f802ecfc2343c19dd) | feat(ace): highlight xprompts in agent panels | 2026-07-16 20:57:07 |
-| root | [`2fd3c84`](https://github.com/sase-org/sase/commit/2fd3c84a703fd55c6883105f802ecfc2343c19dd) | feat(ace): highlight xprompts in agent panels | 2026-07-16 20:57:07 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`2fd3c84`](https://github.com/sase-org/sase/commit/2fd3c84a703fd55c6883105f802ecfc2343c19dd) | feat(ace): highlight xprompts in agent panels | 2026-07-16 20:57:07 |
+| root | sase | [`2fd3c84`](https://github.com/sase-org/sase/commit/2fd3c84a703fd55c6883105f802ecfc2343c19dd) | feat(ace): highlight xprompts in agent panels | 2026-07-16 20:57:07 |
 
 ## Neighbors
 

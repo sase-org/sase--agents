@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d383322`](https://github.com/sase-org/sase/commit/d383322e76729058d13805c3a1d28eb938c2b176) | feat(axe)!: replace chop workflows with builtin proposals | 2026-07-18 23:57:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d383322`](https://github.com/sase-org/sase/commit/d383322e76729058d13805c3a1d28eb938c2b176) | feat(axe)!: replace chop workflows with builtin proposals | 2026-07-18 23:57:22 |
 
 ## Neighbors
 

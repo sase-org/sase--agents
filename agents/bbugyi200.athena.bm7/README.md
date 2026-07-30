@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8979436`](https://github.com/sase-org/sase/commit/89794369e370d59f4bbdbc554e082419edacef07) | chore: Add SDD prompt and plan for agent\_root\_diffs | 2026-05-28 13:19:04 |
-| [`471e25c`](https://github.com/sase-org/sase/commit/471e25ceb4c7228fa91471239d5cb6bdfdeae379) | fix: resolve root workflow diffs from active coder | 2026-05-28 13:27:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8979436`](https://github.com/sase-org/sase/commit/89794369e370d59f4bbdbc554e082419edacef07) | chore: Add SDD prompt and plan for agent\_root\_diffs | 2026-05-28 13:19:04 |
+| sase | [`471e25c`](https://github.com/sase-org/sase/commit/471e25ceb4c7228fa91471239d5cb6bdfdeae379) | fix: resolve root workflow diffs from active coder | 2026-05-28 13:27:44 |

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8757e79`](https://github.com/sase-org/sase/commit/8757e797c1767fbcc828a362f5daac06f2c84be9) | chore(beads): close sase-4w.1 | 2026-06-18 12:36:55 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8757e79`](https://github.com/sase-org/sase/commit/8757e797c1767fbcc828a362f5daac06f2c84be9) | chore(beads): close sase-4w.1 | 2026-06-18 12:36:55 |
 
 ## Neighbors
 

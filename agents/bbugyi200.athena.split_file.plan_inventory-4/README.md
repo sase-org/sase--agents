@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`aaf676d`](https://github.com/sase-org/sase/commit/aaf676d7d0c63fc11ba577d4018448ee9122d37e) | refactor: split plan inventory into focused modules | 2026-07-16 04:08:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`aaf676d`](https://github.com/sase-org/sase/commit/aaf676d7d0c63fc11ba577d4018448ee9122d37e) | refactor: split plan inventory into focused modules | 2026-07-16 04:08:48 |
 
 ## Neighbors
 

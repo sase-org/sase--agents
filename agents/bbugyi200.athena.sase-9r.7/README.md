@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9c845cb`](https://github.com/sase-org/sase/commit/9c845cb3add536e74a0ce3d850a67ec4a9748bf2) | fix(sdd): reap safe recovery residue (sase-9r.7) | 2026-07-26 12:16:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9c845cb`](https://github.com/sase-org/sase/commit/9c845cb3add536e74a0ce3d850a67ec4a9748bf2) | fix(sdd): reap safe recovery residue (sase-9r.7) | 2026-07-26 12:16:13 |
 
 ## Neighbors
 

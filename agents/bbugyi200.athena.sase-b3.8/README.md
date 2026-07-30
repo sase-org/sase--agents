@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`835536a`](https://github.com/sase-org/sase/commit/835536a846a55f596fa707145ca629a5bb46188f) | refactor(tui): reuse shared fuzzy matcher in finder | 2026-07-30 10:10:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`835536a`](https://github.com/sase-org/sase/commit/835536a846a55f596fa707145ca629a5bb46188f) | refactor(tui): reuse shared fuzzy matcher in finder | 2026-07-30 10:10:44 |
 
 ## Neighbors
 

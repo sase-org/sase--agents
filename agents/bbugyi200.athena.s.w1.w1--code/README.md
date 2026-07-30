@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`05dd75c`](https://github.com/sase-org/sase/commit/05dd75c013a130aa9f97d81447b165a938e33e0a) | docs(demos): expand ACE prompt input demo | 2026-07-07 00:00:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`05dd75c`](https://github.com/sase-org/sase/commit/05dd75c013a130aa9f97d81447b165a938e33e0a) | docs(demos): expand ACE prompt input demo | 2026-07-07 00:00:58 |
 
 ## Neighbors
 

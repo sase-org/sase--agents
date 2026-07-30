@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a947469`](https://github.com/sase-org/sase/commit/a947469eece2988bdfff48bd6ee40b5a9701172f) | docs: record final visual contention baseline (sase-9y) | 2026-07-27 16:24:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a947469`](https://github.com/sase-org/sase/commit/a947469eece2988bdfff48bd6ee40b5a9701172f) | docs: record final visual contention baseline (sase-9y) | 2026-07-27 16:24:46 |
 
 ## Neighbors
 

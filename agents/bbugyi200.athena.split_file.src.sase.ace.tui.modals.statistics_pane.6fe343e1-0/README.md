@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`453a84a`](https://github.com/sase-org/sase/commit/453a84af8aa14cc449ee160f58e9634c7c55d73c) | refactor: split statistics pane rendering | 2026-07-19 04:52:03 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`453a84a`](https://github.com/sase-org/sase/commit/453a84af8aa14cc449ee160f58e9634c7c55d73c) | refactor: split statistics pane rendering | 2026-07-19 04:52:03 |
 
 ## Neighbors
 

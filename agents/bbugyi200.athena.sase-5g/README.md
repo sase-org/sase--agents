@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f00d67d`](https://github.com/sase-org/sase/commit/f00d67d6aca187ef4f46e0e1dc553d318e54933d) | chore: finalize dynamic agent families epic | 2026-07-06 13:26:55 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f00d67d`](https://github.com/sase-org/sase/commit/f00d67d6aca187ef4f46e0e1dc553d318e54933d) | chore: finalize dynamic agent families epic | 2026-07-06 13:26:55 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1497022`](https://github.com/sase-org/sase/commit/1497022522ede983e002f8bd358f4b7d131d4914) | feat(bead): route big epics to dedicated lander (sase-6q.3) | 2026-07-18 10:52:49 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1497022`](https://github.com/sase-org/sase/commit/1497022522ede983e002f8bd358f4b7d131d4914) | feat(bead): route big epics to dedicated lander (sase-6q.3) | 2026-07-18 10:52:49 |
 
 ## Neighbors
 

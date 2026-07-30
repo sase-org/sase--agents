@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0c91326`](https://github.com/sase-org/sase/commit/0c91326a530e985bbaf975a70cf024c3789a6ded) | fix: detect brace alt directives after openers | 2026-06-20 21:28:28 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0c91326`](https://github.com/sase-org/sase/commit/0c91326a530e985bbaf975a70cf024c3789a6ded) | fix: detect brace alt directives after openers | 2026-06-20 21:28:28 |

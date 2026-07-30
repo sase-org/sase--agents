@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`28321d8`](https://github.com/sase-org/sase/commit/28321d8dfc18fcca4da201a9d3a6a3eeaae102fc) | fix(ace): project concrete family member state | 2026-07-19 13:59:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`28321d8`](https://github.com/sase-org/sase/commit/28321d8dfc18fcca4da201a9d3a6a3eeaae102fc) | fix(ace): project concrete family member state | 2026-07-19 13:59:20 |

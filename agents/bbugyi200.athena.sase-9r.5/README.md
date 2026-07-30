@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b9bcae7`](https://github.com/sase-org/sase/commit/b9bcae7fee0d23ffcb881cfd921e3c30bf3c2d79) | fix(sdd): throttle repeated failed sidecar integrations (sase-9r.5) | 2026-07-26 12:40:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b9bcae7`](https://github.com/sase-org/sase/commit/b9bcae7fee0d23ffcb881cfd921e3c30bf3c2d79) | fix(sdd): throttle repeated failed sidecar integrations (sase-9r.5) | 2026-07-26 12:40:39 |
 
 ## Neighbors
 

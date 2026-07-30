@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7dd9a0f`](https://github.com/sase-org/sase/commit/7dd9a0fdb0ce23440501965d111a18104e4e8990) | feat(claude): register Claude 5 model metadata | 2026-07-25 10:58:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7dd9a0f`](https://github.com/sase-org/sase/commit/7dd9a0fdb0ce23440501965d111a18104e4e8990) | feat(claude): register Claude 5 model metadata | 2026-07-25 10:58:44 |

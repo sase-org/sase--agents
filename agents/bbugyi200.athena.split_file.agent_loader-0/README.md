@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b0f3791`](https://github.com/sase-org/sase/commit/b0f3791bea5204d5ef4bbccd19ac08256e19c909) | refactor(ace): split agent loader responsibilities | 2026-07-18 02:24:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b0f3791`](https://github.com/sase-org/sase/commit/b0f3791bea5204d5ef4bbccd19ac08256e19c909) | refactor(ace): split agent loader responsibilities | 2026-07-18 02:24:38 |
 
 ## Neighbors
 

@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`01ac81a`](https://github.com/sase-org/sase/commit/01ac81a0bd90b28cf38496bbe58bd1e55d7da64e) | fix: resolve clipboard lint and test flake | 2026-07-30 11:31:18 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`01ac81a`](https://github.com/sase-org/sase/commit/01ac81a0bd90b28cf38496bbe58bd1e55d7da64e) | fix: resolve clipboard lint and test flake | 2026-07-30 11:31:18 |

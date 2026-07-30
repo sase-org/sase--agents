@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b13be0b`](https://github.com/sase-org/sase/commit/b13be0b8b58b4b76a57437069ea5f2dbb57fdc4b) | chore: Add SDD prompt and plan for run\_cwd\_project\_creation | 2026-06-15 13:53:50 |
-| [`5bc999d`](https://github.com/sase-org/sase/commit/5bc999d04f189e678ae611ff6e813bb88b8baf66) | fix(run): stop creating CWD project on bare \`sase run\` | 2026-06-15 14:08:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b13be0b`](https://github.com/sase-org/sase/commit/b13be0b8b58b4b76a57437069ea5f2dbb57fdc4b) | chore: Add SDD prompt and plan for run\_cwd\_project\_creation | 2026-06-15 13:53:50 |
+| sase | [`5bc999d`](https://github.com/sase-org/sase/commit/5bc999d04f189e678ae611ff6e813bb88b8baf66) | fix(run): stop creating CWD project on bare \`sase run\` | 2026-06-15 14:08:57 |

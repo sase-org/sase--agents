@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2a795b0`](https://github.com/sase-org/sase/commit/2a795b049c56283d2e55be8d6abfaaafbb89cf39) | feat: adopt bead state into dedicated sidecar (sase-a8.8) | 2026-07-28 10:13:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2a795b0`](https://github.com/sase-org/sase/commit/2a795b049c56283d2e55be8d6abfaaafbb89cf39) | feat: adopt bead state into dedicated sidecar (sase-a8.8) | 2026-07-28 10:13:40 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9a7fb3f`](https://github.com/sase-org/sase/commit/9a7fb3fbe157c7c5e87bbdb35656ef0a5f18ebdd) | feat(agents-sync): stabilize sidecar page anatomy (sase-a9.5) | 2026-07-28 10:14:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9a7fb3f`](https://github.com/sase-org/sase/commit/9a7fb3fbe157c7c5e87bbdb35656ef0a5f18ebdd) | feat(agents-sync): stabilize sidecar page anatomy (sase-a9.5) | 2026-07-28 10:14:56 |
 
 ## Neighbors
 

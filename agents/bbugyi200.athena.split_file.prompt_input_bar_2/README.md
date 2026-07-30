@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b9c84df`](https://github.com/sase-org/sase/commit/b9c84df652eb703c448cc985112b9508842914e7) | refactor(tui): split prompt input bar module | 2026-06-16 20:25:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b9c84df`](https://github.com/sase-org/sase/commit/b9c84df652eb703c448cc985112b9508842914e7) | refactor(tui): split prompt input bar module | 2026-06-16 20:25:56 |
 
 ## Neighbors
 

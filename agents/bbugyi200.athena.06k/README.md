@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`eb726b1`](https://github.com/sase-org/sase/commit/eb726b14cda60f1edec33d2028197f934f12dbab) | chore: Add SDD prompt and plan for plugin\_catalog | 2026-06-25 22:35:43 |
-| [`2dbf284`](https://github.com/sase-org/sase/commit/2dbf2848cd6077250e48991ffd2def6b3487df21) | chore(beads): create plugin catalog epic beads | 2026-06-25 22:45:26 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`eb726b1`](https://github.com/sase-org/sase/commit/eb726b14cda60f1edec33d2028197f934f12dbab) | chore: Add SDD prompt and plan for plugin\_catalog | 2026-06-25 22:35:43 |
+| sase | [`2dbf284`](https://github.com/sase-org/sase/commit/2dbf2848cd6077250e48991ffd2def6b3487df21) | chore(beads): create plugin catalog epic beads | 2026-06-25 22:45:26 |

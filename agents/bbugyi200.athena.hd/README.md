@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`01b06e3`](https://github.com/sase-org/sase/commit/01b06e3d6507c68b3ae9a1ccebc6859a13e40c66) | fix(tui): keep artifact selection in viewport | 2026-07-21 19:22:12 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`01b06e3`](https://github.com/sase-org/sase/commit/01b06e3d6507c68b3ae9a1ccebc6859a13e40c66) | fix(tui): keep artifact selection in viewport | 2026-07-21 19:22:12 |

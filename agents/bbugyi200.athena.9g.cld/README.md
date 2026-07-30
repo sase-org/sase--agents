@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bb9d797`](https://github.com/sase-org/sase/commit/bb9d79703abd7d4b9a4dbcd38d4f5a73777bf979) | chore: Add SDD prompt and plan for ctrl\_minus\_add\_pane\_tmux\_fix | 2026-06-17 14:51:06 |
-| [`d1fb91a`](https://github.com/sase-org/sase/commit/d1fb91a4156a62cdc5bf3294b915cf548096ede5) | fix(tui): support tmux Ctrl-minus add pane | 2026-06-17 15:02:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`bb9d797`](https://github.com/sase-org/sase/commit/bb9d79703abd7d4b9a4dbcd38d4f5a73777bf979) | chore: Add SDD prompt and plan for ctrl\_minus\_add\_pane\_tmux\_fix | 2026-06-17 14:51:06 |
+| sase | [`d1fb91a`](https://github.com/sase-org/sase/commit/d1fb91a4156a62cdc5bf3294b915cf548096ede5) | fix(tui): support tmux Ctrl-minus add pane | 2026-06-17 15:02:24 |
 
 ## Neighbors
 

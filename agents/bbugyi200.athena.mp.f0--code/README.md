@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4fb5980`](https://github.com/sase-org/sase/commit/4fb5980600a819238d77e4add6bc3487378d5d94) | fix(ace): show configured project names in commits UI | 2026-07-28 13:13:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4fb5980`](https://github.com/sase-org/sase/commit/4fb5980600a819238d77e4add6bc3487378d5d94) | fix(ace): show configured project names in commits UI | 2026-07-28 13:13:56 |
 
 ## Neighbors
 

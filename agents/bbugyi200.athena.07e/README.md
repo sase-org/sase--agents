@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`099e1bd`](https://github.com/sase-org/sase/commit/099e1bde3341f5e83896fa3ed9f791b43b6e1eb5) | chore: Add SDD prompt and plan for admin\_center\_xprompt\_ctrl\_i | 2026-06-27 11:13:02 |
-| [`8b0d270`](https://github.com/sase-org/sase/commit/8b0d2707e6bf992f6f2df020ce6cad2e3a9b2dd2) | feat(tui): add Ctrl+I to load xprompt from Admin Center XPrompts tab | 2026-06-27 11:45:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`099e1bd`](https://github.com/sase-org/sase/commit/099e1bde3341f5e83896fa3ed9f791b43b6e1eb5) | chore: Add SDD prompt and plan for admin\_center\_xprompt\_ctrl\_i | 2026-06-27 11:13:02 |
+| sase | [`8b0d270`](https://github.com/sase-org/sase/commit/8b0d2707e6bf992f6f2df020ce6cad2e3a9b2dd2) | feat(tui): add Ctrl+I to load xprompt from Admin Center XPrompts tab | 2026-06-27 11:45:07 |
 
 ## Neighbors
 

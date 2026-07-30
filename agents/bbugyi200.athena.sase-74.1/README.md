@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`dc0fa09`](https://github.com/sase-org/sase/commit/dc0fa09f9bb986d88ad22c67f91ab020ce1a63fd) | feat(agent-cleanup): mirror clan planning scope (sase-74.1) | 2026-07-19 12:45:17 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`dc0fa09`](https://github.com/sase-org/sase/commit/dc0fa09f9bb986d88ad22c67f91ab020ce1a63fd) | feat(agent-cleanup): mirror clan planning scope (sase-74.1) | 2026-07-19 12:45:17 |
 
 ## Neighbors
 

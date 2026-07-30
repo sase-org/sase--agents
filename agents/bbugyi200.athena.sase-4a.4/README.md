@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a9c4095`](https://github.com/sase-org/sase/commit/a9c4095a8dbb9cf40207a0846d645a1ffad0006c) | chore: document output variable handoff (sase-4a.4) | 2026-06-03 01:37:49 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a9c4095`](https://github.com/sase-org/sase/commit/a9c4095a8dbb9cf40207a0846d645a1ffad0006c) | chore: document output variable handoff (sase-4a.4) | 2026-06-03 01:37:49 |
 
 ## Neighbors
 

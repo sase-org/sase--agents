@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`786cdb7`](https://github.com/sase-org/sase/commit/786cdb7f7bfa71d9bef874be15c27062611676ac) | fix(ace): show retrying status before the next attempt | 2026-07-17 16:41:21 |
-| root | [`786cdb7`](https://github.com/sase-org/sase/commit/786cdb7f7bfa71d9bef874be15c27062611676ac) | fix(ace): show retrying status before the next attempt | 2026-07-17 16:41:21 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`786cdb7`](https://github.com/sase-org/sase/commit/786cdb7f7bfa71d9bef874be15c27062611676ac) | fix(ace): show retrying status before the next attempt | 2026-07-17 16:41:21 |
+| root | sase | [`786cdb7`](https://github.com/sase-org/sase/commit/786cdb7f7bfa71d9bef874be15c27062611676ac) | fix(ace): show retrying status before the next attempt | 2026-07-17 16:41:21 |

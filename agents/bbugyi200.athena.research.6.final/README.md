@@ -20,9 +20,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b9ac265`](https://github.com/sase-org/sase/commit/b9ac2657303735e51c8eb40d97e48e01bdeda761) | chore: consolidate memory build-vs-Zep research into one document | 2026-06-11 12:09:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b9ac265`](https://github.com/sase-org/sase/commit/b9ac2657303735e51c8eb40d97e48e01bdeda761) | chore: consolidate memory build-vs-Zep research into one document | 2026-06-11 12:09:30 |
 
 ## Variables
 

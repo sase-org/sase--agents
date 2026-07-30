@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b399f6d`](https://github.com/sase-org/sase/commit/b399f6d460b6cdf7448c8d2d3d4a056eafae50dc) | chore: Close bead sase-52.1 (Phase 1: Core Grammar Contract) | 2026-06-20 19:09:15 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b399f6d`](https://github.com/sase-org/sase/commit/b399f6d460b6cdf7448c8d2d3d4a056eafae50dc) | chore: Close bead sase-52.1 (Phase 1: Core Grammar Contract) | 2026-06-20 19:09:15 |
 
 ## Neighbors
 

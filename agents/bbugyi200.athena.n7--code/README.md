@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ee087a3`](https://github.com/sase-org/sase/commit/ee087a3df01a59617c8a8650ee333b127c5393b3) | fix(sdd): defer type-only annotations at runtime | 2026-07-28 17:15:34 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ee087a3`](https://github.com/sase-org/sase/commit/ee087a3df01a59617c8a8650ee333b127c5393b3) | fix(sdd): defer type-only annotations at runtime | 2026-07-28 17:15:34 |

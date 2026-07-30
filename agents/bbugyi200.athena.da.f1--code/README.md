@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d68b0a4`](https://github.com/sase-org/sase/commit/d68b0a461f8dd963b5506136e10700c7cb7b3994) | fix(ace): keep saved snippets live in prompt catalog | 2026-07-18 13:16:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d68b0a4`](https://github.com/sase-org/sase/commit/d68b0a461f8dd963b5506136e10700c7cb7b3994) | fix(ace): keep saved snippets live in prompt catalog | 2026-07-18 13:16:13 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`54e8736`](https://github.com/sase-org/sase/commit/54e8736ea7ed487b3f600ad71939316764957b43) | fix(ace): report capped commit results truthfully (sase-8h.3) | 2026-07-21 16:17:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`54e8736`](https://github.com/sase-org/sase/commit/54e8736ea7ed487b3f600ad71939316764957b43) | fix(ace): report capped commit results truthfully (sase-8h.3) | 2026-07-21 16:17:45 |
 
 ## Neighbors
 

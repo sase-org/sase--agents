@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f0379e4`](https://github.com/sase-org/sase/commit/f0379e49746195206f76590fa51cdd18afce06f1) | test: split commit finalizer sibling tests | 2026-06-20 19:51:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f0379e4`](https://github.com/sase-org/sase/commit/f0379e49746195206f76590fa51cdd18afce06f1) | test: split commit finalizer sibling tests | 2026-06-20 19:51:23 |
 
 ## Neighbors
 

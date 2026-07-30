@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`63b9d88`](https://github.com/sase-org/sase/commit/63b9d8814590ea857e4675b5b55099a0d475f3c4) | fix: give the agent-launch prompt file a reapable home (sase-96.8.2) | 2026-07-25 19:16:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`63b9d88`](https://github.com/sase-org/sase/commit/63b9d8814590ea857e4675b5b55099a0d475f3c4) | fix: give the agent-launch prompt file a reapable home (sase-96.8.2) | 2026-07-25 19:16:39 |
 
 ## Neighbors
 

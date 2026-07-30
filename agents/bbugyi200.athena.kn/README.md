@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`396e272`](https://github.com/sase-org/sase/commit/396e27268fe1ba4e4411e851375e1451ee80c296) | fix: preserve bead notes during commit workflows | 2026-07-25 14:13:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`396e272`](https://github.com/sase-org/sase/commit/396e27268fe1ba4e4411e851375e1451ee80c296) | fix: preserve bead notes during commit workflows | 2026-07-25 14:13:21 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`30e1577`](https://github.com/sase-org/sase/commit/30e15776174a32f74e93e4d71d98c441b58d4ad9) | refactor(ace): split directive completion token parsing | 2026-07-19 06:26:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`30e1577`](https://github.com/sase-org/sase/commit/30e15776174a32f74e93e4d71d98c441b58d4ad9) | refactor(ace): split directive completion token parsing | 2026-07-19 06:26:54 |
 
 ## Neighbors
 

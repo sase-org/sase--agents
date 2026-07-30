@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cb7a4a5`](https://github.com/sase-org/sase/commit/cb7a4a5566aa1f59d0a77ba692af00679519e08c) | chore: add release research infographic | 2026-06-08 15:33:36 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cb7a4a5`](https://github.com/sase-org/sase/commit/cb7a4a5566aa1f59d0a77ba692af00679519e08c) | chore: add release research infographic | 2026-06-08 15:33:36 |
 
 ## Neighbors
 

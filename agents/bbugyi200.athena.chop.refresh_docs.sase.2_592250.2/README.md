@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d0ddb97`](https://github.com/sase-org/sase/commit/d0ddb97dbe667cb85f46f971a137b99cf2bd70e3) | fix(axe): preserve explicit stops during recovery | 2026-07-20 00:57:16 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d0ddb97`](https://github.com/sase-org/sase/commit/d0ddb97dbe667cb85f46f971a137b99cf2bd70e3) | fix(axe): preserve explicit stops during recovery | 2026-07-20 00:57:16 |
 
 ## Neighbors
 

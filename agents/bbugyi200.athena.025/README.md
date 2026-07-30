@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cea2d7b`](https://github.com/sase-org/sase/commit/cea2d7bd0a1eb00a2df7625b198552cb9a7264dc) | chore: Add SDD prompt and plan for hint\_bar\_duplicate\_id\_crash | 2026-06-20 14:31:46 |
-| [`5ea9cc1`](https://github.com/sase-org/sase/commit/5ea9cc128b52a176efafd8e8763b3e79f351f21a) | fix: prevent duplicate hint input bars | 2026-06-20 14:44:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cea2d7b`](https://github.com/sase-org/sase/commit/cea2d7bd0a1eb00a2df7625b198552cb9a7264dc) | chore: Add SDD prompt and plan for hint\_bar\_duplicate\_id\_crash | 2026-06-20 14:31:46 |
+| sase | [`5ea9cc1`](https://github.com/sase-org/sase/commit/5ea9cc128b52a176efafd8e8763b3e79f351f21a) | fix: prevent duplicate hint input bars | 2026-06-20 14:44:27 |

@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`55171bd`](https://github.com/sase-org/sase/commit/55171bd0f74ba8a57831e3807b31a126845b0bf7) | chore: Add SDD prompt and plan for remove\_pyvision\_epic\_symbols | 2026-06-02 10:42:04 |
-| [`97fca59`](https://github.com/sase-org/sase/commit/97fca59ce7a1700b30943bf4591bb69ac3c44d38) | chore: remove stale pyvision epic overrides | 2026-06-02 10:45:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`55171bd`](https://github.com/sase-org/sase/commit/55171bd0f74ba8a57831e3807b31a126845b0bf7) | chore: Add SDD prompt and plan for remove\_pyvision\_epic\_symbols | 2026-06-02 10:42:04 |
+| sase | [`97fca59`](https://github.com/sase-org/sase/commit/97fca59ce7a1700b30943bf4591bb69ac3c44d38) | chore: remove stale pyvision epic overrides | 2026-06-02 10:45:29 |

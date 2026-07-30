@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a5d12fa`](https://github.com/sase-org/sase/commit/a5d12fa2ed6b6461073ced924cdc7f7f057d1939) | chore: Add SDD prompt and plan for notification\_tabs | 2026-05-29 12:18:05 |
-| [`e0be8b4`](https://github.com/sase-org/sase/commit/e0be8b4566daa37c130d48d237fa404413ddd22e) | feat: add notification modal tabs for HITL and errors | 2026-05-29 12:29:59 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a5d12fa`](https://github.com/sase-org/sase/commit/a5d12fa2ed6b6461073ced924cdc7f7f057d1939) | chore: Add SDD prompt and plan for notification\_tabs | 2026-05-29 12:18:05 |
+| sase | [`e0be8b4`](https://github.com/sase-org/sase/commit/e0be8b4566daa37c130d48d237fa404413ddd22e) | feat: add notification modal tabs for HITL and errors | 2026-05-29 12:29:59 |
 
 ## Neighbors
 

@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`a874efc`](https://github.com/sase-org/sase/commit/a874efce376f5886da4795610aed55e24d769c8c) | feat: resolve waits gated by closed beads (sase-87.3) | 2026-07-20 16:40:56 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`a874efc`](https://github.com/sase-org/sase/commit/a874efce376f5886da4795610aed55e24d769c8c) | feat: resolve waits gated by closed beads (sase-87.3) | 2026-07-20 16:40:56 |
 
 ## Neighbors
 

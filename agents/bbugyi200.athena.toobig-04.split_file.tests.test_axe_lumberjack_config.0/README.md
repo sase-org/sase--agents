@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`92b856f`](https://github.com/sase-org/sase/commit/92b856f83cec02c8333a698d1665f5bf2f2e007d) | test: split axe lumberjack config tests | 2026-07-26 16:47:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`92b856f`](https://github.com/sase-org/sase/commit/92b856f83cec02c8333a698d1665f5bf2f2e007d) | test: split axe lumberjack config tests | 2026-07-26 16:47:09 |

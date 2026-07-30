@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9f53821`](https://github.com/sase-org/sase/commit/9f538217466bf7cfee5922ecdf11db8dbe765d9b) | docs: add Gemini Antigravity infographic | 2026-06-19 18:26:00 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9f53821`](https://github.com/sase-org/sase/commit/9f538217466bf7cfee5922ecdf11db8dbe765d9b) | docs: add Gemini Antigravity infographic | 2026-06-19 18:26:00 |
 
 ## Neighbors
 

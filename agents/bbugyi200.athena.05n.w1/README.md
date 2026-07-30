@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3b7b709`](https://github.com/sase-org/sase/commit/3b7b709fd1a952ff7032dbc7a921befd403f451b) | chore: Add SDD prompt and plan for wait\_time\_keyword | 2026-06-24 19:49:45 |
-| [`86322d4`](https://github.com/sase-org/sase/commit/86322d43b2b77acd82cd836daae9d77cf794dc0f) | feat!: move time waits under the wait directive | 2026-06-24 20:10:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3b7b709`](https://github.com/sase-org/sase/commit/3b7b709fd1a952ff7032dbc7a921befd403f451b) | chore: Add SDD prompt and plan for wait\_time\_keyword | 2026-06-24 19:49:45 |
+| sase | [`86322d4`](https://github.com/sase-org/sase/commit/86322d43b2b77acd82cd836daae9d77cf794dc0f) | feat!: move time waits under the wait directive | 2026-06-24 20:10:40 |
 
 ## Neighbors
 

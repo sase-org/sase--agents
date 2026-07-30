@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`ce12818`](https://github.com/sase-org/sase/commit/ce128180aab455b120fe453155aa287fb4429834) | fix(tui): preserve tribe fold intent across updates | 2026-07-20 14:51:21 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`ce12818`](https://github.com/sase-org/sase/commit/ce128180aab455b120fe453155aa287fb4429834) | fix(tui): preserve tribe fold intent across updates | 2026-07-20 14:51:21 |

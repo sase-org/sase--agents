@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0c67c8a`](https://github.com/sase-org/sase/commit/0c67c8a5b5c42a0dc5d8a9a4b3ea02ceb975e575) | docs: add TUI performance log research | 2026-06-20 21:22:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0c67c8a`](https://github.com/sase-org/sase/commit/0c67c8a5b5c42a0dc5d8a9a4b3ea02ceb975e575) | docs: add TUI performance log research | 2026-06-20 21:22:46 |
 
 ## Neighbors
 

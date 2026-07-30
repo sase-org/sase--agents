@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`48abe26`](https://github.com/sase-org/sase/commit/48abe26ea0fed666630122073b303f4c8f67d0f2) | fix(agent): retry family phases from base names (sase-8g.2) | 2026-07-20 20:52:38 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`48abe26`](https://github.com/sase-org/sase/commit/48abe26ea0fed666630122073b303f4c8f67d0f2) | fix(agent): retry family phases from base names (sase-8g.2) | 2026-07-20 20:52:38 |
 
 ## Neighbors
 

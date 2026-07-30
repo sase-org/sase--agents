@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ce3ba54`](https://github.com/sase-org/sase/commit/ce3ba5445082cbea84b1dd4d6dca3749a10b0124) | test: split plan-file work coverage by behavior | 2026-07-20 16:53:19 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ce3ba54`](https://github.com/sase-org/sase/commit/ce3ba5445082cbea84b1dd4d6dca3749a10b0124) | test: split plan-file work coverage by behavior | 2026-07-20 16:53:19 |
 
 ## Neighbors
 

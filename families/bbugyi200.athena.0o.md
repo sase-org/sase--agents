@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`68cb9a9`](https://github.com/sase-org/sase/commit/68cb9a919ab5fd45b30f20bea8a13593bc43fa8a) | chore: Add SDD prompt and plan for dev\_update\_editable\_overrides | 2026-07-07 17:49:56 |
-| root | [`c91a032`](https://github.com/sase-org/sase/commit/c91a032882aaf7fd6c5bd127e1c2bf98edb23bcd) | fix(uv-tool): write editable overrides for tool reinstalls | 2026-07-07 18:03:48 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`68cb9a9`](https://github.com/sase-org/sase/commit/68cb9a919ab5fd45b30f20bea8a13593bc43fa8a) | chore: Add SDD prompt and plan for dev\_update\_editable\_overrides | 2026-07-07 17:49:56 |
+| root | sase | [`c91a032`](https://github.com/sase-org/sase/commit/c91a032882aaf7fd6c5bd127e1c2bf98edb23bcd) | fix(uv-tool): write editable overrides for tool reinstalls | 2026-07-07 18:03:48 |

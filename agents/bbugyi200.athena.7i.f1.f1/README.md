@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f08f1ff`](https://github.com/sase-org/sase/commit/f08f1ff6e8ecd7ac679537eaa33189ae0352a51e) | docs: standardize "Gas Town" spelling in orchestration post | 2026-06-14 19:50:00 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f08f1ff`](https://github.com/sase-org/sase/commit/f08f1ff6e8ecd7ac679537eaa33189ae0352a51e) | docs: standardize "Gas Town" spelling in orchestration post | 2026-06-14 19:50:00 |
 
 ## Neighbors
 

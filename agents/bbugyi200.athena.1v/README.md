@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9b07496`](https://github.com/sase-org/sase/commit/9b074966abfdd6a080008e7a0cf35ff092405b8a) | chore: Add SDD prompt and plan for bob\_dataview\_reads | 2026-06-03 19:55:48 |
-| [`66305ab`](https://github.com/sase-org/sase/commit/66305ab993758c2e42911d27ae8c17a7d6f551d5) | chore: create bob dataview reads beads | 2026-06-03 19:59:42 |
-| [`b0d8eae`](https://github.com/sase-org/sase/commit/b0d8eaeb8df43e37f9d008b4e648dfdc478911a4) | chore: Add SDD prompt and plan for logs\_tab\_jump\_hints | 2026-07-08 07:01:45 |
-| [`5e9300e`](https://github.com/sase-org/sase/commit/5e9300e1129d84c8964a8811f85539c6a370a57a) | test: cover log jump hints in admin center | 2026-07-08 07:09:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9b07496`](https://github.com/sase-org/sase/commit/9b074966abfdd6a080008e7a0cf35ff092405b8a) | chore: Add SDD prompt and plan for bob\_dataview\_reads | 2026-06-03 19:55:48 |
+| sase | [`66305ab`](https://github.com/sase-org/sase/commit/66305ab993758c2e42911d27ae8c17a7d6f551d5) | chore: create bob dataview reads beads | 2026-06-03 19:59:42 |
+| sase | [`b0d8eae`](https://github.com/sase-org/sase/commit/b0d8eaeb8df43e37f9d008b4e648dfdc478911a4) | chore: Add SDD prompt and plan for logs\_tab\_jump\_hints | 2026-07-08 07:01:45 |
+| sase | [`5e9300e`](https://github.com/sase-org/sase/commit/5e9300e1129d84c8964a8811f85539c6a370a57a) | test: cover log jump hints in admin center | 2026-07-08 07:09:06 |

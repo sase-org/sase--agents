@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5c16fcc`](https://github.com/sase-org/sase/commit/5c16fcc5743208d2ff5eff7946cd2a78900d5b4f) | refactor(vcs-log): split repository catalog resolution | 2026-07-21 18:04:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5c16fcc`](https://github.com/sase-org/sase/commit/5c16fcc5743208d2ff5eff7946cd2a78900d5b4f) | refactor(vcs-log): split repository catalog resolution | 2026-07-21 18:04:56 |
 
 ## Neighbors
 

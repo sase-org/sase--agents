@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2c7ec47`](https://github.com/sase-org/sase/commit/2c7ec4718b178047d505eb839bf7817adefc39ee) | docs(plugins): polish \`sase plugin\` help text and document catalog commands (sase-57.4) | 2026-06-25 23:54:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2c7ec47`](https://github.com/sase-org/sase/commit/2c7ec4718b178047d505eb839bf7817adefc39ee) | docs(plugins): polish \`sase plugin\` help text and document catalog commands (sase-57.4) | 2026-06-25 23:54:29 |
 
 ## Neighbors
 

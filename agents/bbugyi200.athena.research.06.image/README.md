@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5ab3f9e`](https://github.com/sase-org/sase/commit/5ab3f9e714feb3614155b37f0caff5ba8b74a73a) | docs: add xprompt thinking level infographic | 2026-06-22 16:51:33 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5ab3f9e`](https://github.com/sase-org/sase/commit/5ab3f9e714feb3614155b37f0caff5ba8b74a73a) | docs: add xprompt thinking level infographic | 2026-06-22 16:51:33 |
 
 ## Neighbors
 

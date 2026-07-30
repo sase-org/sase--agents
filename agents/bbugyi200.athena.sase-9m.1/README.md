@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`26b4a4c`](https://github.com/sase-org/sase/commit/26b4a4cc936d3270f654c6ab20fe7b5e1ec75f36) | fix(xprompt): read the new placeholder candidate shape from sase-core (sase-9m.1) | 2026-07-25 17:11:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`26b4a4c`](https://github.com/sase-org/sase/commit/26b4a4cc936d3270f654c6ab20fe7b5e1ec75f36) | fix(xprompt): read the new placeholder candidate shape from sase-core (sase-9m.1) | 2026-07-25 17:11:51 |
 
 ## Neighbors
 

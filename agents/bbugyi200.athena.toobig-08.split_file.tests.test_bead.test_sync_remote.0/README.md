@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`352c693`](https://github.com/sase-org/sase/commit/352c6939a7c51c419d3af73bc2d2b9ee57eac925) | test: split remote bead sync tests | 2026-07-27 15:38:52 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`352c693`](https://github.com/sase-org/sase/commit/352c6939a7c51c419d3af73bc2d2b9ee57eac925) | test: split remote bead sync tests | 2026-07-27 15:38:52 |
 
 ## Neighbors
 

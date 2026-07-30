@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`01ec998`](https://github.com/sase-org/sase/commit/01ec998822bb689065fdcdc9ca9155131e35772d) | feat: rename long-term memory tier heading | 2026-05-31 15:51:27 |
-| [`a5bc2ff`](https://github.com/sase-org/sase/commit/a5bc2ff33ec3dd35412533c478f8c8d93df03517) | chore: Add SDD prompt and plan for tier2\_long\_memory\_heading | 2026-05-31 15:53:43 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`01ec998`](https://github.com/sase-org/sase/commit/01ec998822bb689065fdcdc9ca9155131e35772d) | feat: rename long-term memory tier heading | 2026-05-31 15:51:27 |
+| sase | [`a5bc2ff`](https://github.com/sase-org/sase/commit/a5bc2ff33ec3dd35412533c478f8c8d93df03517) | chore: Add SDD prompt and plan for tier2\_long\_memory\_heading | 2026-05-31 15:53:43 |
 
 ## Neighbors
 

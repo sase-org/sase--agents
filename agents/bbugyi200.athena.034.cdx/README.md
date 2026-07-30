@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c5bb940`](https://github.com/sase-org/sase/commit/c5bb94077abc5a6f6fe416eff0b23fe8760420a5) | chore: Add SDD prompt and plan for vcs\_project\_completion\_replace\_existing\_tag | 2026-06-21 14:20:30 |
-| [`1c0269b`](https://github.com/sase-org/sase/commit/1c0269b65047f0cbf68a69cea3efcfdee50792dd) | fix(xprompt): replace VCS tag at EOF during \`#+\` completion | 2026-06-21 14:36:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c5bb940`](https://github.com/sase-org/sase/commit/c5bb94077abc5a6f6fe416eff0b23fe8760420a5) | chore: Add SDD prompt and plan for vcs\_project\_completion\_replace\_existing\_tag | 2026-06-21 14:20:30 |
+| sase | [`1c0269b`](https://github.com/sase-org/sase/commit/1c0269b65047f0cbf68a69cea3efcfdee50792dd) | fix(xprompt): replace VCS tag at EOF during \`#+\` completion | 2026-06-21 14:36:07 |

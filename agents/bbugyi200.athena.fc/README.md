@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c8d39dc`](https://github.com/sase-org/sase/commit/c8d39dcd9be6197c9868e4b56191d6bb7b558efd) | feat(ace): restore panel layout after isolation | 2026-07-19 20:42:34 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c8d39dc`](https://github.com/sase-org/sase/commit/c8d39dcd9be6197c9868e4b56191d6bb7b558efd) | feat(ace): restore panel layout after isolation | 2026-07-19 20:42:34 |

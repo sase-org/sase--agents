@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`43321b8`](https://github.com/sase-org/sase/commit/43321b87837a9d6fc8c1a2627fdaa40b90b9e07f) | refactor(tui): extract shared Vim search controller (sase-76.1) | 2026-07-19 14:14:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`43321b8`](https://github.com/sase-org/sase/commit/43321b87837a9d6fc8c1a2627fdaa40b90b9e07f) | refactor(tui): extract shared Vim search controller (sase-76.1) | 2026-07-19 14:14:39 |
 
 ## Neighbors
 

@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`73de857`](https://github.com/sase-org/sase/commit/73de8575bc63180822daf1a41cbf70855a8bb6fe) | test: cover deleted cwd through xprompt sources | 2026-07-16 21:16:09 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`73de857`](https://github.com/sase-org/sase/commit/73de8575bc63180822daf1a41cbf70855a8bb6fe) | test: cover deleted cwd through xprompt sources | 2026-07-16 21:16:09 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1c7d757`](https://github.com/sase-org/sase/commit/1c7d7573437c0830f846ffcac83cc8e156042d8b) | test: split launch fan-out tui tests | 2026-06-13 14:53:19 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1c7d757`](https://github.com/sase-org/sase/commit/1c7d7573437c0830f846ffcac83cc8e156042d8b) | test: split launch fan-out tui tests | 2026-06-13 14:53:19 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b33ef20`](https://github.com/sase-org/sase/commit/b33ef206cfa69408823d1b681b2b82f2eb20fe2d) | feat(sdd): enforce committed plan schema cutover (sase-61.6) | 2026-07-14 17:49:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b33ef20`](https://github.com/sase-org/sase/commit/b33ef206cfa69408823d1b681b2b82f2eb20fe2d) | feat(sdd): enforce committed plan schema cutover (sase-61.6) | 2026-07-14 17:49:51 |
 
 ## Neighbors
 

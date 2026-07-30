@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6b1933e`](https://github.com/sase-org/sase/commit/6b1933eafd755f791e9770141df8d23f61c118d7) | chore: consolidate Apollo remote agent research | 2026-06-04 23:49:31 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6b1933e`](https://github.com/sase-org/sase/commit/6b1933eafd755f791e9770141df8d23f61c118d7) | chore: consolidate Apollo remote agent research | 2026-06-04 23:49:31 |
 
 ## Neighbors
 

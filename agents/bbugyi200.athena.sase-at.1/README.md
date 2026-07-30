@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`73cc28b`](https://github.com/sase-org/sase/commit/73cc28b7c5e6df26486971d62e2a4ac55debcf26) | feat(notifications): add generic report action contract | 2026-07-29 15:13:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`73cc28b`](https://github.com/sase-org/sase/commit/73cc28b7c5e6df26486971d62e2a4ac55debcf26) | feat(notifications): add generic report action contract | 2026-07-29 15:13:58 |
 
 ## Neighbors
 

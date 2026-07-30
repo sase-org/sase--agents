@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0de3c14`](https://github.com/sase-org/sase/commit/0de3c14e23925147089050adcfd9940e95054a2a) | feat(editor): complete repeatable agent arguments (sase-6m.3) | 2026-07-17 20:53:33 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0de3c14`](https://github.com/sase-org/sase/commit/0de3c14e23925147089050adcfd9940e95054a2a) | feat(editor): complete repeatable agent arguments (sase-6m.3) | 2026-07-17 20:53:33 |
 
 ## Neighbors
 

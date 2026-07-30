@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ecc07b6`](https://github.com/sase-org/sase/commit/ecc07b6a8c7d376d2a57d6801e0f782f6af40964) | refactor(agents): split git sync responsibilities | 2026-07-25 04:42:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ecc07b6`](https://github.com/sase-org/sase/commit/ecc07b6a8c7d376d2a57d6801e0f782f6af40964) | refactor(agents): split git sync responsibilities | 2026-07-25 04:42:06 |

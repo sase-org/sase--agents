@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`65d7a89`](https://github.com/sase-org/sase/commit/65d7a89a3a3480888f4fba76852d2e07c3056e61) | chore: Add SDD prompt and plan for plugin\_command | 2026-05-28 20:55:00 |
-| [`2130d6b`](https://github.com/sase-org/sase/commit/2130d6b01d351abadd51e08e513fe8c9898ce57f) | feat: add plugin diagnostics commands | 2026-05-28 21:09:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`65d7a89`](https://github.com/sase-org/sase/commit/65d7a89a3a3480888f4fba76852d2e07c3056e61) | chore: Add SDD prompt and plan for plugin\_command | 2026-05-28 20:55:00 |
+| sase | [`2130d6b`](https://github.com/sase-org/sase/commit/2130d6b01d351abadd51e08e513fe8c9898ce57f) | feat: add plugin diagnostics commands | 2026-05-28 21:09:51 |
 
 ## Neighbors
 

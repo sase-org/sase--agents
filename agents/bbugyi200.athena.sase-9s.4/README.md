@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f49e598`](https://github.com/sase-org/sase/commit/f49e598037b7e1183e4434bc198cc39a4d72bbf4) | feat(tasks): submit, own, and filter detached tasks (sase-9s.4) | 2026-07-26 12:28:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f49e598`](https://github.com/sase-org/sase/commit/f49e598037b7e1183e4434bc198cc39a4d72bbf4) | feat(tasks): submit, own, and filter detached tasks (sase-9s.4) | 2026-07-26 12:28:54 |
 
 ## Neighbors
 

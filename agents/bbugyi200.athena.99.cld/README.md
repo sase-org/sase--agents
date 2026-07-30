@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`13c6929`](https://github.com/sase-org/sase/commit/13c69290143d241abfba4d2c706eba6b391dbb81) | chore: Add SDD prompt and plan for fix\_stale\_pdf\_blog\_sentinels | 2026-06-17 12:11:26 |
-| [`928b7f6`](https://github.com/sase-org/sase/commit/928b7f63a134540fb7772d7344465ef8c78e552f) | fix: refresh docs PDF blog sentinels | 2026-06-17 12:17:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`13c6929`](https://github.com/sase-org/sase/commit/13c69290143d241abfba4d2c706eba6b391dbb81) | chore: Add SDD prompt and plan for fix\_stale\_pdf\_blog\_sentinels | 2026-06-17 12:11:26 |
+| sase | [`928b7f6`](https://github.com/sase-org/sase/commit/928b7f63a134540fb7772d7344465ef8c78e552f) | fix: refresh docs PDF blog sentinels | 2026-06-17 12:17:48 |
 
 ## Neighbors
 

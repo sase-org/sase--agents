@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4ab5e7f`](https://github.com/sase-org/sase/commit/4ab5e7f09fb3338926d94e98940a76d04258a78c) | feat: add doctor command runtime checks (sase-4i.2) | 2026-06-09 16:40:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4ab5e7f`](https://github.com/sase-org/sase/commit/4ab5e7f09fb3338926d94e98940a76d04258a78c) | feat: add doctor command runtime checks (sase-4i.2) | 2026-06-09 16:40:27 |
 
 ## Neighbors
 

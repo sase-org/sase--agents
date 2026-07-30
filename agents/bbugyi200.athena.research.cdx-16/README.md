@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b1b7e60`](https://github.com/sase-org/sase/commit/b1b7e60fcfbcc826778f400938104aee6d97df4c) | chore: add SASE blog series research | 2026-06-07 11:24:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b1b7e60`](https://github.com/sase-org/sase/commit/b1b7e60fcfbcc826778f400938104aee6d97df4c) | chore: add SASE blog series research | 2026-06-07 11:24:41 |
 
 ## Neighbors
 

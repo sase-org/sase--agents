@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`74265a8`](https://github.com/sase-org/sase/commit/74265a88ec11c400170320975b06ee17d81c575c) | test: split comprehensive update browser suite | 2026-07-23 13:21:04 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`74265a8`](https://github.com/sase-org/sase/commit/74265a88ec11c400170320975b06ee17d81c575c) | test: split comprehensive update browser suite | 2026-07-23 13:21:04 |
 
 ## Neighbors
 

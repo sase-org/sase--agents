@@ -25,6 +25,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`3b54a7b`](https://github.com/sase-org/sase/commit/3b54a7bd1761ae7ccb041d170fc3cf986d5ec380) | fix: decouple source linting from SASE validation (#225) | 2026-07-12 13:59:47 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`3b54a7b`](https://github.com/sase-org/sase/commit/3b54a7bd1761ae7ccb041d170fc3cf986d5ec380) | fix: decouple source linting from SASE validation (#225) | 2026-07-12 13:59:47 |

@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6a4a47f`](https://github.com/sase-org/sase/commit/6a4a47f94322474395c3d7b80f42fe6c9e0136de) | docs: refresh TUI performance guidance | 2026-07-16 17:38:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6a4a47f`](https://github.com/sase-org/sase/commit/6a4a47f94322474395c3d7b80f42fe6c9e0136de) | docs: refresh TUI performance guidance | 2026-07-16 17:38:57 |

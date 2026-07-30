@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1a4ad18`](https://github.com/sase-org/sase/commit/1a4ad1828148b7ae17fd9eaca457c82793224246) | feat(tui): add notification report viewer | 2026-07-29 15:42:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1a4ad18`](https://github.com/sase-org/sase/commit/1a4ad1828148b7ae17fd9eaca457c82793224246) | feat(tui): add notification report viewer | 2026-07-29 15:42:29 |
 
 ## Neighbors
 

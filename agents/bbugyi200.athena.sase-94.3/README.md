@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2b7b71b`](https://github.com/sase-org/sase/commit/2b7b71b608e7a943d3aa6dd3115d48b829e23130) | fix: reconcile missing pre-launch bead claims (sase-94.3) | 2026-07-25 13:39:47 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2b7b71b`](https://github.com/sase-org/sase/commit/2b7b71b608e7a943d3aa6dd3115d48b829e23130) | fix: reconcile missing pre-launch bead claims (sase-94.3) | 2026-07-25 13:39:47 |
 
 ## Neighbors
 

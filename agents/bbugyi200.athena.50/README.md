@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`25a0d1a`](https://github.com/sase-org/sase/commit/25a0d1ae357c9ae39773d9b6d88784b6e8c3e15d) | chore: Add SDD prompt and plan for single\_count\_notification\_indicator | 2026-06-10 13:04:14 |
-| [`91755ca`](https://github.com/sase-org/sase/commit/91755ca46b23847d12a87b149f6194e823773b4d) | feat: show single count in notification indicator | 2026-06-10 13:20:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`25a0d1a`](https://github.com/sase-org/sase/commit/25a0d1ae357c9ae39773d9b6d88784b6e8c3e15d) | chore: Add SDD prompt and plan for single\_count\_notification\_indicator | 2026-06-10 13:04:14 |
+| sase | [`91755ca`](https://github.com/sase-org/sase/commit/91755ca46b23847d12a87b149f6194e823773b4d) | feat: show single count in notification indicator | 2026-06-10 13:20:13 |

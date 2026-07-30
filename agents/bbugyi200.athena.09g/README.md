@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`923f1a3`](https://github.com/sase-org/sase/commit/923f1a32574601b035d63b6963681b0353f3bb9d) | chore: Add SDD prompt and plan for autostash\_prompts\_on\_restart | 2026-06-29 10:59:15 |
-| [`b54e0d8`](https://github.com/sase-org/sase/commit/b54e0d877c9f3ec42f746b72ad3ffaa18f9208e9) | feat(tui): stash prompt drafts on restart | 2026-06-29 11:14:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`923f1a3`](https://github.com/sase-org/sase/commit/923f1a32574601b035d63b6963681b0353f3bb9d) | chore: Add SDD prompt and plan for autostash\_prompts\_on\_restart | 2026-06-29 10:59:15 |
+| sase | [`b54e0d8`](https://github.com/sase-org/sase/commit/b54e0d877c9f3ec42f746b72ad3ffaa18f9208e9) | feat(tui): stash prompt drafts on restart | 2026-06-29 11:14:39 |
 
 ## Neighbors
 

@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2443fc8`](https://github.com/sase-org/sase/commit/2443fc80e26aeb126c77ef2f7ee400aa631560a1) | feat!: rename explicit artifacts to artifact files | 2026-07-17 16:08:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2443fc8`](https://github.com/sase-org/sase/commit/2443fc80e26aeb126c77ef2f7ee400aa631560a1) | feat!: rename explicit artifacts to artifact files | 2026-07-17 16:08:57 |

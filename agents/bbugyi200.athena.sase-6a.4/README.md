@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`721b64c`](https://github.com/sase-org/sase/commit/721b64ce6ec37b138767a53108182b8615cee772) | fix(ace): polish plans pane visual coverage (sase-6a.4) | 2026-07-16 14:59:52 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`721b64c`](https://github.com/sase-org/sase/commit/721b64ce6ec37b138767a53108182b8615cee772) | fix(ace): polish plans pane visual coverage (sase-6a.4) | 2026-07-16 14:59:52 |
 
 ## Neighbors
 

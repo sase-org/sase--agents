@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d16fe1d`](https://github.com/sase-org/sase/commit/d16fe1dcd9abe1bcc0e6b44af0bc98e2b0ad5788) | feat(ace): copy artifact references from artifact tabs | 2026-07-29 18:38:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d16fe1d`](https://github.com/sase-org/sase/commit/d16fe1dcd9abe1bcc0e6b44af0bc98e2b0ad5788) | feat(ace): copy artifact references from artifact tabs | 2026-07-29 18:38:57 |
 
 ## Neighbors
 

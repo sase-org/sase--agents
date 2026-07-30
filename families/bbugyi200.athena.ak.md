@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`592c252`](https://github.com/sase-org/sase/commit/592c252a3e45ff626cc98505e3b4d42dfa49f98b) | test: stabilize cross-version CI checks | 2026-07-16 17:44:11 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`592c252`](https://github.com/sase-org/sase/commit/592c252a3e45ff626cc98505e3b4d42dfa49f98b) | test: stabilize cross-version CI checks | 2026-07-16 17:44:11 |

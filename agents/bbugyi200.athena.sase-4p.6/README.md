@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3813516`](https://github.com/sase-org/sase/commit/381351639e12dbb75f26662213e0720c9ecd6b83) | feat(ace): visual polish and stack-aware help for prompt stack (sase-4p.6) | 2026-06-16 00:30:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3813516`](https://github.com/sase-org/sase/commit/381351639e12dbb75f26662213e0720c9ecd6b83) | feat(ace): visual polish and stack-aware help for prompt stack (sase-4p.6) | 2026-06-16 00:30:40 |
 
 ## Neighbors
 

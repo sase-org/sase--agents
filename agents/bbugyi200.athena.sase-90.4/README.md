@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c1c0e15`](https://github.com/sase-org/sase/commit/c1c0e1557314fb6a0db27a0bce919c9c466c72e7) | feat(chat): surface sync provenance in \`sase chat list\` (sase-90.4) | 2026-07-25 00:40:10 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c1c0e15`](https://github.com/sase-org/sase/commit/c1c0e1557314fb6a0db27a0bce919c9c466c72e7) | feat(chat): surface sync provenance in \`sase chat list\` (sase-90.4) | 2026-07-25 00:40:10 |
 
 ## Neighbors
 

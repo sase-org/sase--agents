@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`207e2a7`](https://github.com/sase-org/sase/commit/207e2a75f13be342e0e9802213bed31fd063ad91) | chore: Add SDD prompt and plan for hide\_terminalized\_abandoned\_agents | 2026-06-16 12:29:52 |
-| [`af35df7`](https://github.com/sase-org/sase/commit/af35df7e29c2041ff7fe45434e194bd079c7e18e) | fix(history): keep alternate project MRU refs | 2026-06-16 13:05:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`207e2a7`](https://github.com/sase-org/sase/commit/207e2a75f13be342e0e9802213bed31fd063ad91) | chore: Add SDD prompt and plan for hide\_terminalized\_abandoned\_agents | 2026-06-16 12:29:52 |
+| sase | [`af35df7`](https://github.com/sase-org/sase/commit/af35df7e29c2041ff7fe45434e194bd079c7e18e) | fix(history): keep alternate project MRU refs | 2026-06-16 13:05:57 |
 
 ## Neighbors
 

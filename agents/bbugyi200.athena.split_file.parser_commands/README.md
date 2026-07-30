@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`18ebc36`](https://github.com/sase-org/sase/commit/18ebc363151016b765a3e481113463a2615e2f63) | refactor(cli): split parser command modules | 2026-06-25 20:35:16 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`18ebc36`](https://github.com/sase-org/sase/commit/18ebc363151016b765a3e481113463a2615e2f63) | refactor(cli): split parser command modules | 2026-06-25 20:35:16 |
 
 ## Neighbors
 

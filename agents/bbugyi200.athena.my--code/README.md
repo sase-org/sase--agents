@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a016706`](https://github.com/sase-org/sase/commit/a016706a6118a9d5ce89e0ad817790a79d6d8fb1) | fix(ace): prioritize selected clan collapse | 2026-07-28 14:35:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a016706`](https://github.com/sase-org/sase/commit/a016706a6118a9d5ce89e0ad817790a79d6d8fb1) | fix(ace): prioritize selected clan collapse | 2026-07-28 14:35:29 |

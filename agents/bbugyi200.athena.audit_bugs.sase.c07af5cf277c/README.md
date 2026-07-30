@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`71acf60`](https://github.com/sase-org/sase/commit/71acf60072420374c64bf40a44f6a3a86d26e4e3) | fix: preserve saved agent group wire fields | 2026-05-28 21:44:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`71acf60`](https://github.com/sase-org/sase/commit/71acf60072420374c64bf40a44f6a3a86d26e4e3) | fix: preserve saved agent group wire fields | 2026-05-28 21:44:58 |
 
 ## Neighbors
 

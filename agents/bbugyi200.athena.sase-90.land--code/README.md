@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e5d953e`](https://github.com/sase-org/sase/commit/e5d953eadd0b66ce4c9d8806d045048943107825) | feat(chats): expose publication quarantine provenance (sase-90) | 2026-07-25 02:12:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e5d953e`](https://github.com/sase-org/sase/commit/e5d953eadd0b66ce4c9d8806d045048943107825) | feat(chats): expose publication quarantine provenance (sase-90) | 2026-07-25 02:12:39 |
 
 ## Neighbors
 

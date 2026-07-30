@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`12c2652`](https://github.com/sase-org/sase/commit/12c2652cc20d8d523fc0147f65dfcee6aefd0c35) | refactor(stats): split statistics view builders | 2026-07-22 12:12:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`12c2652`](https://github.com/sase-org/sase/commit/12c2652cc20d8d523fc0147f65dfcee6aefd0c35) | refactor(stats): split statistics view builders | 2026-07-22 12:12:29 |
 
 ## Neighbors
 

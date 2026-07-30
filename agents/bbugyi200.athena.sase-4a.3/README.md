@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1d0cd11`](https://github.com/sase-org/sase/commit/1d0cd1140cf12d8838a36fa574d4592f969a3934) | feat: propagate output variables across named agents (sase-4a.3) | 2026-06-03 01:21:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1d0cd11`](https://github.com/sase-org/sase/commit/1d0cd1140cf12d8838a36fa574d4592f969a3934) | feat: propagate output variables across named agents (sase-4a.3) | 2026-06-03 01:21:32 |
 
 ## Neighbors
 

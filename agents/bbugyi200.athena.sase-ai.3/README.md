@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9a9bec4`](https://github.com/sase-org/sase/commit/9a9bec4ad2673012a77c6e6fe96bce98d654cf01) | feat(sdd): index bead commit and agent associations (sase-ai.3) | 2026-07-28 19:11:50 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9a9bec4`](https://github.com/sase-org/sase/commit/9a9bec4ad2673012a77c6e6fe96bce98d654cf01) | feat(sdd): index bead commit and agent associations (sase-ai.3) | 2026-07-28 19:11:50 |
 
 ## Neighbors
 

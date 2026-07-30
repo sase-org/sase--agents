@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`215a114`](https://github.com/sase-org/sase/commit/215a114f2998a64ca2208e4eefe9a364c9f491aa) | ref: split episode explorer modal | 2026-05-29 00:41:35 |
-| [`6efd63f`](https://github.com/sase-org/sase/commit/6efd63f47774702b89f357c4f1b0b0630321b503) | ref: organize episode explorer modal helpers | 2026-05-29 01:02:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`215a114`](https://github.com/sase-org/sase/commit/215a114f2998a64ca2208e4eefe9a364c9f491aa) | ref: split episode explorer modal | 2026-05-29 00:41:35 |
+| sase | [`6efd63f`](https://github.com/sase-org/sase/commit/6efd63f47774702b89f357c4f1b0b0630321b503) | ref: organize episode explorer modal helpers | 2026-05-29 01:02:20 |
 
 ## Neighbors
 

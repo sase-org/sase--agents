@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`79cbd23`](https://github.com/sase-org/sase/commit/79cbd234d2a44546b348badf6d837b0be5060747) | docs: add TUI tmux performance research | 2026-06-16 01:49:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`79cbd23`](https://github.com/sase-org/sase/commit/79cbd234d2a44546b348badf6d837b0be5060747) | docs: add TUI tmux performance research | 2026-06-16 01:49:40 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a66dc39`](https://github.com/sase-org/sase/commit/a66dc398a401c0726b8309a9b3d235fb6a6661d3) | fix: migrate lint integration to toobig | 2026-07-12 21:27:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a66dc39`](https://github.com/sase-org/sase/commit/a66dc398a401c0726b8309a9b3d235fb6a6661d3) | fix: migrate lint integration to toobig | 2026-07-12 21:27:11 |
 
 ## Neighbors
 

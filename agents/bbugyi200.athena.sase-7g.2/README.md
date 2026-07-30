@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`985b1c0`](https://github.com/sase-org/sase/commit/985b1c0d1dbd20c91d473b5d19283bb56c28cfbe) | feat: support clan-scoped agent IDs (sase-7g.2) | 2026-07-19 17:50:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`985b1c0`](https://github.com/sase-org/sase/commit/985b1c0d1dbd20c91d473b5d19283bb56c28cfbe) | feat: support clan-scoped agent IDs (sase-7g.2) | 2026-07-19 17:50:21 |
 
 ## Neighbors
 

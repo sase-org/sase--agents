@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`085d336`](https://github.com/sase-org/sase/commit/085d336667325b5996b72eecc0e002882145b54d) | feat: use role-aware agent family child names | 2026-06-15 23:07:33 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`085d336`](https://github.com/sase-org/sase/commit/085d336667325b5996b72eecc0e002882145b54d) | feat: use role-aware agent family child names | 2026-06-15 23:07:33 |

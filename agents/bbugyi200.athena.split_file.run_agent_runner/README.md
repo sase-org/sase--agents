@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b5e1ae8`](https://github.com/sase-org/sase/commit/b5e1ae8107f19296802e3c8549c15bdcffff9085) | refactor: split agent runner helpers | 2026-06-28 13:20:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b5e1ae8`](https://github.com/sase-org/sase/commit/b5e1ae8107f19296802e3c8549c15bdcffff9085) | refactor: split agent runner helpers | 2026-06-28 13:20:41 |
 
 ## Neighbors
 

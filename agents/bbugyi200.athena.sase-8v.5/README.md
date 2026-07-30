@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2409ed2`](https://github.com/sase-org/sase/commit/2409ed2e37e454f712f44651534516d04517ef4f) | feat: import agent packages transactionally (sase-8v.5) | 2026-07-24 19:54:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2409ed2`](https://github.com/sase-org/sase/commit/2409ed2e37e454f712f44651534516d04517ef4f) | feat: import agent packages transactionally (sase-8v.5) | 2026-07-24 19:54:41 |
 
 ## Neighbors
 

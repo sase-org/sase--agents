@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`23bf6d8`](https://github.com/sase-org/sase/commit/23bf6d8ee911f3da66f1c48545f1c3da4a7347d8) | chore: Add SDD prompt and plan for bead\_list\_limit\_and\_implicit\_closed | 2026-06-30 13:45:54 |
-| [`4d3264c`](https://github.com/sase-org/sase/commit/4d3264c366be8562da0025eaf7828b20f72f3d34) | feat(bead): limit list results and fall back to closed | 2026-06-30 14:00:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`23bf6d8`](https://github.com/sase-org/sase/commit/23bf6d8ee911f3da66f1c48545f1c3da4a7347d8) | chore: Add SDD prompt and plan for bead\_list\_limit\_and\_implicit\_closed | 2026-06-30 13:45:54 |
+| sase | [`4d3264c`](https://github.com/sase-org/sase/commit/4d3264c366be8562da0025eaf7828b20f72f3d34) | feat(bead): limit list results and fall back to closed | 2026-06-30 14:00:13 |
 
 ## Neighbors
 

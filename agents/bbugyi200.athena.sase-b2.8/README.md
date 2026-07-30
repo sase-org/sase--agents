@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`34b2f7f`](https://github.com/sase-org/sase/commit/34b2f7f2fdb1038d2c0ff3b82300a9b199b34732) | docs: document bead and agent artifact refs | 2026-07-30 03:31:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`34b2f7f`](https://github.com/sase-org/sase/commit/34b2f7f2fdb1038d2c0ff3b82300a9b199b34732) | docs: document bead and agent artifact refs | 2026-07-30 03:31:40 |
 
 ## Neighbors
 

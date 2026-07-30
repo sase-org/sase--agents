@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8c81282`](https://github.com/sase-org/sase/commit/8c81282ffeda7c3a8fddf0f92d6dcb1c0de61979) | chore: Add SDD prompt and plan for agent\_group\_name\_prompt | 2026-05-28 11:20:05 |
-| [`a034a38`](https://github.com/sase-org/sase/commit/a034a3802a5bd7a7eda0f735c165d1f25333da1a) | feat: prompt for saved agent group names | 2026-05-28 11:35:16 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8c81282`](https://github.com/sase-org/sase/commit/8c81282ffeda7c3a8fddf0f92d6dcb1c0de61979) | chore: Add SDD prompt and plan for agent\_group\_name\_prompt | 2026-05-28 11:20:05 |
+| sase | [`a034a38`](https://github.com/sase-org/sase/commit/a034a3802a5bd7a7eda0f735c165d1f25333da1a) | feat: prompt for saved agent group names | 2026-05-28 11:35:16 |
 
 ## Neighbors
 

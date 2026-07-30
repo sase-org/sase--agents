@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`0b44bc6`](https://github.com/sase-org/sase/commit/0b44bc602ff94934efa0494ca2f7735aac49f6e1) | fix(tui): simplify runner capacity header | 2026-07-20 14:40:25 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`0b44bc6`](https://github.com/sase-org/sase/commit/0b44bc602ff94934efa0494ca2f7735aac49f6e1) | fix(tui): simplify runner capacity header | 2026-07-20 14:40:25 |
 
 ## Neighbors
 

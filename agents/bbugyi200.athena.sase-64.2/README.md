@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3c0b0ea`](https://github.com/sase-org/sase/commit/3c0b0ea24a1085a7d719f37d644f663b1e0c469e) | feat: harden epic approval handoff (sase-64.2) | 2026-07-15 15:34:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3c0b0ea`](https://github.com/sase-org/sase/commit/3c0b0ea24a1085a7d719f37d644f663b1e0c469e) | feat: harden epic approval handoff (sase-64.2) | 2026-07-15 15:34:21 |
 
 ## Neighbors
 

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cab0adb`](https://github.com/sase-org/sase/commit/cab0adb5cb75b27febf25c63bcda9649393d0a2d) | chore: Add SDD prompt and plan for split\_vim\_visual | 2026-06-24 00:13:51 |
-| [`a052025`](https://github.com/sase-org/sase/commit/a052025a82957152becbe8a2f8904fbd1f9e6f1a) | refactor(tui): split vim visual-mode widget into responsibility modules | 2026-06-24 00:25:33 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cab0adb`](https://github.com/sase-org/sase/commit/cab0adb5cb75b27febf25c63bcda9649393d0a2d) | chore: Add SDD prompt and plan for split\_vim\_visual | 2026-06-24 00:13:51 |
+| sase | [`a052025`](https://github.com/sase-org/sase/commit/a052025a82957152becbe8a2f8904fbd1f9e6f1a) | refactor(tui): split vim visual-mode widget into responsibility modules | 2026-06-24 00:25:33 |
 
 ## Neighbors
 

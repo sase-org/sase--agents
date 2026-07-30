@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8e25774`](https://github.com/sase-org/sase/commit/8e257740647d5ef9d264f6ea904d1b104a5655fb) | refactor(ace): split artifact clipboard actions | 2026-07-30 00:14:14 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8e25774`](https://github.com/sase-org/sase/commit/8e257740647d5ef9d264f6ea904d1b104a5655fb) | refactor(ace): split artifact clipboard actions | 2026-07-30 00:14:14 |
 
 ## Neighbors
 

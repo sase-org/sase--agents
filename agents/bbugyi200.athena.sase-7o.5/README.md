@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`05cacb0`](https://github.com/sase-org/sase/commit/05cacb0ade7d094c3f7549998b5f1f1327d8e2f8) | fix: preserve concrete family names on retry (sase-7o.5) | 2026-07-19 22:06:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`05cacb0`](https://github.com/sase-org/sase/commit/05cacb0ade7d094c3f7549998b5f1f1327d8e2f8) | fix: preserve concrete family names on retry (sase-7o.5) | 2026-07-19 22:06:40 |
 
 ## Neighbors
 

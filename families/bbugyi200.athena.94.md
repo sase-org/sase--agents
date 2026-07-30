@@ -22,8 +22,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`ac28e8e`](https://github.com/sase-org/sase/commit/ac28e8ebd387937fd411df9aa2fefdb52a012a1b) | chore: Add SDD prompt and plan for xprompt\_metadata\_capture | 2026-06-17 11:19:19 |
-| root | [`ecd13bf`](https://github.com/sase-org/sase/commit/ecd13bf83276677daa5d6bf4ad18dcb615a70810) | fix(xprompt): capture launch-boundary xprompt metadata for daemon agents | 2026-06-17 11:38:34 |
-| root | [`d2157eb`](https://github.com/sase-org/sase/commit/d2157eb0e53bcf6363055a294ed15a11696665ac) | fix(init): filter batch inventory to projects | 2026-07-15 15:01:06 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`ac28e8e`](https://github.com/sase-org/sase/commit/ac28e8ebd387937fd411df9aa2fefdb52a012a1b) | chore: Add SDD prompt and plan for xprompt\_metadata\_capture | 2026-06-17 11:19:19 |
+| root | sase | [`ecd13bf`](https://github.com/sase-org/sase/commit/ecd13bf83276677daa5d6bf4ad18dcb615a70810) | fix(xprompt): capture launch-boundary xprompt metadata for daemon agents | 2026-06-17 11:38:34 |
+| root | sase | [`d2157eb`](https://github.com/sase-org/sase/commit/d2157eb0e53bcf6363055a294ed15a11696665ac) | fix(init): filter batch inventory to projects | 2026-07-15 15:01:06 |

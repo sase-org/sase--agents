@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6df3eaf`](https://github.com/sase-org/sase/commit/6df3eafc495f0859191783f2f799c7d03f279bd9) | refactor(tui): split keybinding footer modules | 2026-06-16 16:22:35 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6df3eaf`](https://github.com/sase-org/sase/commit/6df3eafc495f0859191783f2f799c7d03f279bd9) | refactor(tui): split keybinding footer modules | 2026-06-16 16:22:35 |
 
 ## Neighbors
 

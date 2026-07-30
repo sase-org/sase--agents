@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`49e6b4c`](https://github.com/sase-org/sase/commit/49e6b4cd17708195e8843d3806c98551f3846244) | feat(tui): scaffold artifacts files tab | 2026-07-29 23:50:34 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`49e6b4c`](https://github.com/sase-org/sase/commit/49e6b4cd17708195e8843d3806c98551f3846244) | feat(tui): scaffold artifacts files tab | 2026-07-29 23:50:34 |
 
 ## Neighbors
 

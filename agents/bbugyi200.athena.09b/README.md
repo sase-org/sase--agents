@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`820967b`](https://github.com/sase-org/sase/commit/820967b22b2da6dd84acb5d7ddfb1a25f7ca7864) | chore: Add SDD prompt and plan for agent\_neighbors\_hoods | 2026-06-28 19:42:04 |
-| [`d121dcd`](https://github.com/sase-org/sase/commit/d121dcd06c0ef5191b1d0e4c83e89f2c5db685c4) | feat(ace): replace agent siblings with hood-based neighbors | 2026-06-28 20:15:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`820967b`](https://github.com/sase-org/sase/commit/820967b22b2da6dd84acb5d7ddfb1a25f7ca7864) | chore: Add SDD prompt and plan for agent\_neighbors\_hoods | 2026-06-28 19:42:04 |
+| sase | [`d121dcd`](https://github.com/sase-org/sase/commit/d121dcd06c0ef5191b1d0e4c83e89f2c5db685c4) | feat(ace): replace agent siblings with hood-based neighbors | 2026-06-28 20:15:05 |
 
 ## Neighbors
 

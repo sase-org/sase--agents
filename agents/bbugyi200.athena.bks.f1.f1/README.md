@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3b279ca`](https://github.com/sase-org/sase/commit/3b279ca6021188c8805b3361c54af99065a340ab) | chore: add just check research infographic | 2026-05-27 17:51:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3b279ca`](https://github.com/sase-org/sase/commit/3b279ca6021188c8805b3361c54af99065a340ab) | chore: add just check research infographic | 2026-05-27 17:51:29 |
 
 ## Neighbors
 

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`148bbb1`](https://github.com/sase-org/sase/commit/148bbb1cc982f47100bdeb4ba9acd4e78744d08d) | fix(projects): humanize remaining display surfaces (sase-89.3) | 2026-07-20 17:58:37 |
-| [`e3af45c`](https://github.com/sase-org/sase/commit/e3af45c7060abb9481e85c2a14c3c99cce74b20a) | fix(stats): retain project display projection helper (sase-89.3) | 2026-07-20 18:01:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`148bbb1`](https://github.com/sase-org/sase/commit/148bbb1cc982f47100bdeb4ba9acd4e78744d08d) | fix(projects): humanize remaining display surfaces (sase-89.3) | 2026-07-20 17:58:37 |
+| sase | [`e3af45c`](https://github.com/sase-org/sase/commit/e3af45c7060abb9481e85c2a14c3c99cce74b20a) | fix(stats): retain project display projection helper (sase-89.3) | 2026-07-20 18:01:32 |
 
 ## Neighbors
 

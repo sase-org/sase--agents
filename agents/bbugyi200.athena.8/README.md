@@ -19,8 +19,8 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`350c2a3`](https://github.com/sase-org/sase/commit/350c2a3590a780388432b5dbe1e932487257ccee) | fix: guard sase-core-rs source version skew | 2026-06-25 11:11:15 |
-| [`f493dbb`](https://github.com/sase-org/sase/commit/f493dbb99954e92c7dba93a7a0298e0367ae8393) | chore: Add SDD prompt and plan for fix\_flaky\_preview\_scroll\_test | 2026-07-06 16:54:07 |
-| [`c1475be`](https://github.com/sase-org/sase/commit/c1475bee0af886f4ca31cb53e60582df09bdd9d5) | fix(tui): make config preview scrolling deterministic | 2026-07-06 17:04:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`350c2a3`](https://github.com/sase-org/sase/commit/350c2a3590a780388432b5dbe1e932487257ccee) | fix: guard sase-core-rs source version skew | 2026-06-25 11:11:15 |
+| sase | [`f493dbb`](https://github.com/sase-org/sase/commit/f493dbb99954e92c7dba93a7a0298e0367ae8393) | chore: Add SDD prompt and plan for fix\_flaky\_preview\_scroll\_test | 2026-07-06 16:54:07 |
+| sase | [`c1475be`](https://github.com/sase-org/sase/commit/c1475bee0af886f4ca31cb53e60582df09bdd9d5) | fix(tui): make config preview scrolling deterministic | 2026-07-06 17:04:57 |

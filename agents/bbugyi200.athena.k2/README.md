@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e40bce9`](https://github.com/sase-org/sase/commit/e40bce924375f7bf7d8690caf9f92c0b1f693e1c) | fix(tui): contain unhandled vim mode keys | 2026-07-25 02:34:17 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e40bce9`](https://github.com/sase-org/sase/commit/e40bce924375f7bf7d8690caf9f92c0b1f693e1c) | fix(tui): contain unhandled vim mode keys | 2026-07-25 02:34:17 |

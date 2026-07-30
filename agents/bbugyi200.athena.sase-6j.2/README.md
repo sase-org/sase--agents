@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fbf6213`](https://github.com/sase-org/sase/commit/fbf62139df84a7fd6f66612c549d196aaf2157eb) | perf(config): refresh config tokens off-thread (sase-6j.2) | 2026-07-17 12:14:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fbf6213`](https://github.com/sase-org/sase/commit/fbf62139df84a7fd6f66612c549d196aaf2157eb) | perf(config): refresh config tokens off-thread (sase-6j.2) | 2026-07-17 12:14:20 |
 
 ## Neighbors
 

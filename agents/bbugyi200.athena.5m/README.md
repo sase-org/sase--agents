@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`94d7cdc`](https://github.com/sase-org/sase/commit/94d7cdc48c43a7e6cd2c9472b3c3b69ca443497a) | perf(tui): reuse update freshness for confirmation | 2026-07-11 16:44:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`94d7cdc`](https://github.com/sase-org/sase/commit/94d7cdc48c43a7e6cd2c9472b3c3b69ca443497a) | perf(tui): reuse update freshness for confirmation | 2026-07-11 16:44:09 |

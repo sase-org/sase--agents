@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`04a7254`](https://github.com/sase-org/sase/commit/04a725461b302838c641abfe759083c4a0b9d468) | feat(ace): isolate selected tribe panel with capital H | 2026-07-19 12:42:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`04a7254`](https://github.com/sase-org/sase/commit/04a725461b302838c641abfe759083c4a0b9d468) | feat(ace): isolate selected tribe panel with capital H | 2026-07-19 12:42:05 |

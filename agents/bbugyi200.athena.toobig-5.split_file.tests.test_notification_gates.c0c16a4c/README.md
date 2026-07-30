@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`777a2ab`](https://github.com/sase-org/sase/commit/777a2ab47ccb636f35e6c3944982322582d9a662) | test: split notification gate test suite | 2026-07-20 18:30:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`777a2ab`](https://github.com/sase-org/sase/commit/777a2ab47ccb636f35e6c3944982322582d9a662) | test: split notification gate test suite | 2026-07-20 18:30:22 |
 
 ## Neighbors
 

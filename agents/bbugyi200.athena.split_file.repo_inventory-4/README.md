@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`be671cb`](https://github.com/sase-org/sase/commit/be671cbd6269d17dd7d6ddf84d2e34d6a4ff59a8) | refactor: split repository inventory module | 2026-07-16 04:35:18 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`be671cb`](https://github.com/sase-org/sase/commit/be671cbd6269d17dd7d6ddf84d2e34d6a4ff59a8) | refactor: split repository inventory module | 2026-07-16 04:35:18 |
 
 ## Neighbors
 

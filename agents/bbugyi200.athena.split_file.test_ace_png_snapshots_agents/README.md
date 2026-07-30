@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fbbfc3f`](https://github.com/sase-org/sase/commit/fbbfc3fc5c3812b5a1795d454ce7ec3f55eb6605) | test: split ACE agents PNG snapshot tests | 2026-06-23 20:16:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fbbfc3f`](https://github.com/sase-org/sase/commit/fbbfc3fc5c3812b5a1795d454ce7ec3f55eb6605) | test: split ACE agents PNG snapshot tests | 2026-06-23 20:16:40 |
 
 ## Neighbors
 

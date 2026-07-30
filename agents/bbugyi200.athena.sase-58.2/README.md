@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6578bb3`](https://github.com/sase-org/sase/commit/6578bb36846bbc147c9219398dbe1361d409a5f7) | feat(main): add top-level \`sase update\` command (sase-58.2) | 2026-06-26 02:14:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6578bb3`](https://github.com/sase-org/sase/commit/6578bb36846bbc147c9219398dbe1361d409a5f7) | feat(main): add top-level \`sase update\` command (sase-58.2) | 2026-06-26 02:14:42 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0c5fbaa`](https://github.com/sase-org/sase/commit/0c5fbaa65fbdeed0b489aa518b78f634f0be7ed1) | perf(tui): run xprompt commit push in background (#187) | 2026-06-26 16:21:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0c5fbaa`](https://github.com/sase-org/sase/commit/0c5fbaa65fbdeed0b489aa518b78f634f0be7ed1) | perf(tui): run xprompt commit push in background (#187) | 2026-06-26 16:21:13 |
 
 ## Neighbors
 

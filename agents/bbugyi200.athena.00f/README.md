@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fde4d1c`](https://github.com/sase-org/sase/commit/fde4d1c68999eca7ad8e7274616dab0d1af984cd) | chore: Add SDD prompt and plan for agent\_mark\_auto\_reads\_unread | 2026-06-18 15:00:38 |
-| [`a011b42`](https://github.com/sase-org/sase/commit/a011b4247f2d41f745cf10b236cef6d174dddc53) | fix(tui): acknowledge unread on mark auto-advance | 2026-06-18 15:12:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fde4d1c`](https://github.com/sase-org/sase/commit/fde4d1c68999eca7ad8e7274616dab0d1af984cd) | chore: Add SDD prompt and plan for agent\_mark\_auto\_reads\_unread | 2026-06-18 15:00:38 |
+| sase | [`a011b42`](https://github.com/sase-org/sase/commit/a011b4247f2d41f745cf10b236cef6d174dddc53) | fix(tui): acknowledge unread on mark auto-advance | 2026-06-18 15:12:02 |

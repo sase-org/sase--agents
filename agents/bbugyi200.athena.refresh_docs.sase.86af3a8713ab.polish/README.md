@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e5ab602`](https://github.com/sase-org/sase/commit/e5ab602c5d65ef9182bafdd70d6e2fe612574e53) | docs: clarify plan approval workflow | 2026-06-13 16:54:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e5ab602`](https://github.com/sase-org/sase/commit/e5ab602c5d65ef9182bafdd70d6e2fe612574e53) | docs: clarify plan approval workflow | 2026-06-13 16:54:39 |
 
 ## Neighbors
 

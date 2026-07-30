@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`dc8da9e`](https://github.com/sase-org/sase/commit/dc8da9e713876479b30ac02670ba4f6c81183b88) | chore: Add SDD prompt and plan for dynamic\_agent\_families\_v1 | 2026-07-06 01:16:59 |
-| [`2ad36d8`](https://github.com/sase-org/sase/commit/2ad36d8262abd9c604d27d773dc4ae393f21c8cd) | chore: create dynamic agent families epic beads | 2026-07-06 01:21:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`dc8da9e`](https://github.com/sase-org/sase/commit/dc8da9e713876479b30ac02670ba4f6c81183b88) | chore: Add SDD prompt and plan for dynamic\_agent\_families\_v1 | 2026-07-06 01:16:59 |
+| sase | [`2ad36d8`](https://github.com/sase-org/sase/commit/2ad36d8262abd9c604d27d773dc4ae393f21c8cd) | chore: create dynamic agent families epic beads | 2026-07-06 01:21:06 |
 
 ## Neighbors
 

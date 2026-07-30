@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3c0761f`](https://github.com/sase-org/sase/commit/3c0761f2e1c978ed48e2b2c105ac6de4c76e5044) | chore: Add SDD prompt and plan for directive\_value\_fanout | 2026-06-23 18:44:25 |
-| [`6d26305`](https://github.com/sase-org/sase/commit/6d263059944d092943b17224dff6a14419104f8a) | feat: support directive value fanout | 2026-06-23 19:00:16 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3c0761f`](https://github.com/sase-org/sase/commit/3c0761f2e1c978ed48e2b2c105ac6de4c76e5044) | chore: Add SDD prompt and plan for directive\_value\_fanout | 2026-06-23 18:44:25 |
+| sase | [`6d26305`](https://github.com/sase-org/sase/commit/6d263059944d092943b17224dff6a14419104f8a) | feat: support directive value fanout | 2026-06-23 19:00:16 |

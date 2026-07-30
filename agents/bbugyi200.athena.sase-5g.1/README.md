@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1466dbf`](https://github.com/sase-org/sase/commit/1466dbf77349b5dab09b17bcca0b68787c5ee0a2) | test: add plan chain golden harness (sase-5g.1) | 2026-07-06 07:46:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1466dbf`](https://github.com/sase-org/sase/commit/1466dbf77349b5dab09b17bcca0b68787c5ee0a2) | test: add plan chain golden harness (sase-5g.1) | 2026-07-06 07:46:27 |
 
 ## Neighbors
 

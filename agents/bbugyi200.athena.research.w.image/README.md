@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7e275ea`](https://github.com/sase-org/sase/commit/7e275ea0ee95f930c75f2f3c256a3cb6bc235a9a) | docs: add agy tools panel infographic | 2026-06-20 13:48:26 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7e275ea`](https://github.com/sase-org/sase/commit/7e275ea0ee95f930c75f2f3c256a3cb6bc235a9a) | docs: add agy tools panel infographic | 2026-06-20 13:48:26 |
 
 ## Neighbors
 

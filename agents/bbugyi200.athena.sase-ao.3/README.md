@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c5d2e1a`](https://github.com/sase-org/sase/commit/c5d2e1a2cbec42eb6903c2ae4069a8cda792692d) | feat(tui): enrich model completion rows | 2026-07-29 12:34:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c5d2e1a`](https://github.com/sase-org/sase/commit/c5d2e1a2cbec42eb6903c2ae4069a8cda792692d) | feat(tui): enrich model completion rows | 2026-07-29 12:34:07 |
 
 ## Neighbors
 

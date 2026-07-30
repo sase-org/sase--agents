@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`03f68ff`](https://github.com/sase-org/sase/commit/03f68ff127795cd997f34d47d8e6212a163f07c7) | fix(ace): project concrete tribe agent counts | 2026-07-19 15:49:28 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`03f68ff`](https://github.com/sase-org/sase/commit/03f68ff127795cd997f34d47d8e6212a163f07c7) | fix(ace): project concrete tribe agent counts | 2026-07-19 15:49:28 |

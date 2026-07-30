@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`257d9e6`](https://github.com/sase-org/sase/commit/257d9e6545a88ff8e495bbc420b27a435374713c) | feat(memory)!: remove legacy memory layout support (sase-4u.5) | 2026-06-18 00:24:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`257d9e6`](https://github.com/sase-org/sase/commit/257d9e6545a88ff8e495bbc420b27a435374713c) | feat(memory)!: remove legacy memory layout support (sase-4u.5) | 2026-06-18 00:24:30 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1a84560`](https://github.com/sase-org/sase/commit/1a84560e8a7751f50e2c1c5240853ae47da1e8cd) | refactor(beads): split local persistence from sync | 2026-07-26 13:59:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1a84560`](https://github.com/sase-org/sase/commit/1a84560e8a7751f50e2c1c5240853ae47da1e8cd) | refactor(beads): split local persistence from sync | 2026-07-26 13:59:41 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5f60a1f`](https://github.com/sase-org/sase/commit/5f60a1f8882aa49989250ac496d1c5952b99ca7c) | docs: research config editor TUI panel UX | 2026-06-22 16:48:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5f60a1f`](https://github.com/sase-org/sase/commit/5f60a1f8882aa49989250ac496d1c5952b99ca7c) | docs: research config editor TUI panel UX | 2026-06-22 16:48:37 |
 
 ## Neighbors
 

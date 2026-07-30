@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`06ac966`](https://github.com/sase-org/sase/commit/06ac96653a73ac38d5a906fd340cae013b1f7532) | chore: add SASE episodes and SDD events critique | 2026-05-29 13:39:19 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`06ac966`](https://github.com/sase-org/sase/commit/06ac96653a73ac38d5a906fd340cae013b1f7532) | chore: add SASE episodes and SDD events critique | 2026-05-29 13:39:19 |
 
 ## Neighbors
 

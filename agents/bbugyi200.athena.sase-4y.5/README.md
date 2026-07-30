@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4dd94bf`](https://github.com/sase-org/sase/commit/4dd94bf60cd8577508611689223080d78df7a337) | docs(prompt): document \`prompt search\` and cover bounded output (sase-4y.5) | 2026-06-19 03:42:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4dd94bf`](https://github.com/sase-org/sase/commit/4dd94bf60cd8577508611689223080d78df7a337) | docs(prompt): document \`prompt search\` and cover bounded output (sase-4y.5) | 2026-06-19 03:42:30 |
 
 ## Neighbors
 

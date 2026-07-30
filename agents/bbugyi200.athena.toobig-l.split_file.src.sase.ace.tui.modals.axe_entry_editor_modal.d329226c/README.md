@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c6dbe90`](https://github.com/sase-org/sase/commit/c6dbe9058a6fd5642ab01aa0261f9a2f48cbe388) | refactor(ace): split AXE entry editor modal | 2026-07-22 19:10:28 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c6dbe90`](https://github.com/sase-org/sase/commit/c6dbe9058a6fd5642ab01aa0261f9a2f48cbe388) | refactor(ace): split AXE entry editor modal | 2026-07-22 19:10:28 |
 
 ## Neighbors
 

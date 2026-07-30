@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7575927`](https://github.com/sase-org/sase/commit/7575927a974063ab4f4ef21486c745b2a5717b3f) | feat(prompt-stash): add Python prompt-stash facade and wire types (sase-4q.1) | 2026-06-16 14:41:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7575927`](https://github.com/sase-org/sase/commit/7575927a974063ab4f4ef21486c745b2a5717b3f) | feat(prompt-stash): add Python prompt-stash facade and wire types (sase-4q.1) | 2026-06-16 14:41:38 |
 
 ## Neighbors
 

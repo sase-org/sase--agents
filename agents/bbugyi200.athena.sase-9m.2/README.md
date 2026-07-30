@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9f8f04a`](https://github.com/sase-org/sase/commit/9f8f04a4ae7f927447469de0674ebb2ca76d38dd) | feat(history): add durable common-placeholder store (sase-9m.2) | 2026-07-25 17:11:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9f8f04a`](https://github.com/sase-org/sase/commit/9f8f04a4ae7f927447469de0674ebb2ca76d38dd) | feat(history): add durable common-placeholder store (sase-9m.2) | 2026-07-25 17:11:27 |
 
 ## Neighbors
 

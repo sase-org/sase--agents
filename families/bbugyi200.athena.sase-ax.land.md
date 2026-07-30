@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`af42951`](https://github.com/sase-org/sase/commit/af42951798753ef28a2c73e75bcbef1780dbfb83) | perf: warm artifact completion through Rust query | 2026-07-29 23:46:56 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`af42951`](https://github.com/sase-org/sase/commit/af42951798753ef28a2c73e75bcbef1780dbfb83) | perf: warm artifact completion through Rust query | 2026-07-29 23:46:56 |
 
 ## Neighbors
 

@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`dc6ef5f`](https://github.com/sase-org/sase/commit/dc6ef5fade7cf1410513b96c4011d1fc97fba3c0) | feat(ace): confirm launches containing TODO markers | 2026-07-23 15:47:27 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`dc6ef5f`](https://github.com/sase-org/sase/commit/dc6ef5fade7cf1410513b96c4011d1fc97fba3c0) | feat(ace): confirm launches containing TODO markers | 2026-07-23 15:47:27 |

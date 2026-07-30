@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`513b3ae`](https://github.com/sase-org/sase/commit/513b3ae0150f336651e5918e8bd423c5eda384d6) | docs: add agent revert research infographic | 2026-06-14 14:39:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`513b3ae`](https://github.com/sase-org/sase/commit/513b3ae0150f336651e5918e8bd423c5eda384d6) | docs: add agent revert research infographic | 2026-06-14 14:39:23 |
 
 ## Neighbors
 

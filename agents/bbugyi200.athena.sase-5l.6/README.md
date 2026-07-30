@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`274a0ad`](https://github.com/sase-org/sase/commit/274a0ad8fc5461f356c5b748e28bbecfdfd81e2f) | feat(doctor): add mobile push config diagnostic (sase-5l.6) | 2026-07-08 07:05:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`274a0ad`](https://github.com/sase-org/sase/commit/274a0ad8fc5461f356c5b748e28bbecfdfd81e2f) | feat(doctor): add mobile push config diagnostic (sase-5l.6) | 2026-07-08 07:05:51 |
 
 ## Neighbors
 

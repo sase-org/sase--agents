@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`005f431`](https://github.com/sase-org/sase/commit/005f431eb8e50c8ea187145d6c9eeb612ba32b88) | feat(gates)!: add canonical primary branch submission | 2026-07-18 13:10:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`005f431`](https://github.com/sase-org/sase/commit/005f431eb8e50c8ea187145d6c9eeb612ba32b88) | feat(gates)!: add canonical primary branch submission | 2026-07-18 13:10:32 |
 
 ## Neighbors
 

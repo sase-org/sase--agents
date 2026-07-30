@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0bff029`](https://github.com/sase-org/sase/commit/0bff029f30a56c04b8cf0488e68051355e25c49b) | feat(tui): color tribe identities consistently | 2026-07-26 13:08:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0bff029`](https://github.com/sase-org/sase/commit/0bff029f30a56c04b8cf0488e68051355e25c49b) | feat(tui): color tribe identities consistently | 2026-07-26 13:08:02 |

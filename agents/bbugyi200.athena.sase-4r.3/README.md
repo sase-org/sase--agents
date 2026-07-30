@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5f1cbf1`](https://github.com/sase-org/sase/commit/5f1cbf1ce97e175c4a986d41ff7741c88392627f) | feat(tui): add Frontmatter Panel widget to prompt input bar (sase-4r.3) | 2026-06-16 19:26:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5f1cbf1`](https://github.com/sase-org/sase/commit/5f1cbf1ce97e175c4a986d41ff7741c88392627f) | feat(tui): add Frontmatter Panel widget to prompt input bar (sase-4r.3) | 2026-06-16 19:26:23 |
 
 ## Neighbors
 

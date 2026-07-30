@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6afc114`](https://github.com/sase-org/sase/commit/6afc114ac2c0a212256fbba220801bb90bd77d86) | feat: add worker lane LLM resolution core (sase-4k.1) | 2026-06-10 01:08:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6afc114`](https://github.com/sase-org/sase/commit/6afc114ac2c0a212256fbba220801bb90bd77d86) | feat: add worker lane LLM resolution core (sase-4k.1) | 2026-06-10 01:08:07 |
 
 ## Neighbors
 

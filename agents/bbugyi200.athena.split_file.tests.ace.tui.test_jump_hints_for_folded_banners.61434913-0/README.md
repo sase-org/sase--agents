@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4824443`](https://github.com/sase-org/sase/commit/4824443e599f04c7bef532399d09f94b3fefd183) | test: split folded banner jump hint coverage | 2026-07-19 12:56:35 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4824443`](https://github.com/sase-org/sase/commit/4824443e599f04c7bef532399d09f94b3fefd183) | test: split folded banner jump hint coverage | 2026-07-19 12:56:35 |
 
 ## Neighbors
 

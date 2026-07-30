@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`492fcf9`](https://github.com/sase-org/sase/commit/492fcf909ac34e3dff98919a0ea0d60c3c833943) | chore: Add SDD prompt and plan for default\_list\_subcommands | 2026-05-29 01:49:48 |
-| [`a990ea2`](https://github.com/sase-org/sase/commit/a990ea2ef558229622963e12eeb120ee58453280) | fix: default list subcommands when omitted | 2026-05-29 01:59:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`492fcf9`](https://github.com/sase-org/sase/commit/492fcf909ac34e3dff98919a0ea0d60c3c833943) | chore: Add SDD prompt and plan for default\_list\_subcommands | 2026-05-29 01:49:48 |
+| sase | [`a990ea2`](https://github.com/sase-org/sase/commit/a990ea2ef558229622963e12eeb120ee58453280) | fix: default list subcommands when omitted | 2026-05-29 01:59:39 |

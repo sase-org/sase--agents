@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bc36d2a`](https://github.com/sase-org/sase/commit/bc36d2aa3e8d7b020bba673ffff00b0073666fa7) | chore: Add SDD prompt and plan for archive\_git\_worktree\_delete | 2026-06-24 11:05:47 |
-| [`988bd32`](https://github.com/sase-org/sase/commit/988bd32f17d32092c7369c450159f4a41216e669) | fix(vcs): archive branch safely from a checked-out worktree | 2026-06-24 11:14:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`bc36d2a`](https://github.com/sase-org/sase/commit/bc36d2aa3e8d7b020bba673ffff00b0073666fa7) | chore: Add SDD prompt and plan for archive\_git\_worktree\_delete | 2026-06-24 11:05:47 |
+| sase | [`988bd32`](https://github.com/sase-org/sase/commit/988bd32f17d32092c7369c450159f4a41216e669) | fix(vcs): archive branch safely from a checked-out worktree | 2026-06-24 11:14:29 |

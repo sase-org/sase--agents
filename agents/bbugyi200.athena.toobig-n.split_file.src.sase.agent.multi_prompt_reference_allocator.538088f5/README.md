@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fb64690`](https://github.com/sase-org/sase/commit/fb64690604acc6c2b083c9e18bfb21c1c38fc414) | refactor: split multi-prompt reference allocator | 2026-07-23 12:55:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fb64690`](https://github.com/sase-org/sase/commit/fb64690604acc6c2b083c9e18bfb21c1c38fc414) | refactor: split multi-prompt reference allocator | 2026-07-23 12:55:54 |
 
 ## Neighbors
 

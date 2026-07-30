@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7cab247`](https://github.com/sase-org/sase/commit/7cab247bd66a8a77154079f2600b312223317b59) | docs: research SASE audio generation | 2026-06-14 19:07:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7cab247`](https://github.com/sase-org/sase/commit/7cab247bd66a8a77154079f2600b312223317b59) | docs: research SASE audio generation | 2026-06-14 19:07:32 |
 
 ## Neighbors
 

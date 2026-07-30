@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`74b3fc7`](https://github.com/sase-org/sase/commit/74b3fc7328c25ade56ce503fb5a0c1c36b7a38ab) | feat(stats): add project and ChangeSpec views (sase-70.4) | 2026-07-19 03:52:55 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`74b3fc7`](https://github.com/sase-org/sase/commit/74b3fc7328c25ade56ce503fb5a0c1c36b7a38ab) | feat(stats): add project and ChangeSpec views (sase-70.4) | 2026-07-19 03:52:55 |
 
 ## Neighbors
 

@@ -25,7 +25,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`97c0bf6`](https://github.com/sase-org/sase/commit/97c0bf6ad22fa5eec06705bfc9d533525d299cc8) | docs: define agent house in glossary | 2026-07-18 22:55:10 |
-| code-0 | [`8970fba`](https://github.com/sase-org/sase/commit/8970fbaab7987f1ad1330844f4fb1fa39496fa88) | revert: undo stale memory initialization output | 2026-07-18 23:40:20 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`97c0bf6`](https://github.com/sase-org/sase/commit/97c0bf6ad22fa5eec06705bfc9d533525d299cc8) | docs: define agent house in glossary | 2026-07-18 22:55:10 |
+| code-0 | sase | [`8970fba`](https://github.com/sase-org/sase/commit/8970fbaab7987f1ad1330844f4fb1fa39496fa88) | revert: undo stale memory initialization output | 2026-07-18 23:40:20 |

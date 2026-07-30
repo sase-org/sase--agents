@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`125f342`](https://github.com/sase-org/sase/commit/125f342cb18e2a5bee33370948a204733c25e948) | feat(ace): merge plan into SASE context | 2026-07-16 21:35:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`125f342`](https://github.com/sase-org/sase/commit/125f342cb18e2a5bee33370948a204733c25e948) | feat(ace): merge plan into SASE context | 2026-07-16 21:35:38 |
 
 ## Neighbors
 

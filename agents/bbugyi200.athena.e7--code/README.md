@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`292e9db`](https://github.com/sase-org/sase/commit/292e9db152c06ebc5b90ab88e051ddb0b1df7c93) | fix(agent): prevent ambient identity leaking across processes | 2026-07-19 02:48:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`292e9db`](https://github.com/sase-org/sase/commit/292e9db152c06ebc5b90ab88e051ddb0b1df7c93) | fix(agent): prevent ambient identity leaking across processes | 2026-07-19 02:48:22 |

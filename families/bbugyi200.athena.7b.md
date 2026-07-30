@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`e87f949`](https://github.com/sase-org/sase/commit/e87f949f68008579a958640411908e17c94d5edd) | chore: Add SDD prompt and plan for agent\_context\_memory\_skills\_panel | 2026-06-14 15:43:53 |
-| root | [`9f6e739`](https://github.com/sase-org/sase/commit/9f6e739789a55c3b00e85f6bb07b270cbd11bf62) | feat: audit generated skill usage | 2026-06-14 16:11:45 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`e87f949`](https://github.com/sase-org/sase/commit/e87f949f68008579a958640411908e17c94d5edd) | chore: Add SDD prompt and plan for agent\_context\_memory\_skills\_panel | 2026-06-14 15:43:53 |
+| root | sase | [`9f6e739`](https://github.com/sase-org/sase/commit/9f6e739789a55c3b00e85f6bb07b270cbd11bf62) | feat: audit generated skill usage | 2026-06-14 16:11:45 |
 
 ## Neighbors
 

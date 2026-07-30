@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d7718ec`](https://github.com/sase-org/sase/commit/d7718ec579a40e72e23dcf49c0fa89c1b31606ec) | test: split plugin action modal tests | 2026-07-19 21:36:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d7718ec`](https://github.com/sase-org/sase/commit/d7718ec579a40e72e23dcf49c0fa89c1b31606ec) | test: split plugin action modal tests | 2026-07-19 21:36:45 |
 
 ## Neighbors
 

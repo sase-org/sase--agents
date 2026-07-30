@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d2e9613`](https://github.com/sase-org/sase/commit/d2e9613a8ad23368037fcb1c0161e4e1a6480273) | feat(plan): validate plans before proposal (sase-61.3) | 2026-07-14 17:41:47 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d2e9613`](https://github.com/sase-org/sase/commit/d2e9613a8ad23368037fcb1c0161e4e1a6480273) | feat(plan): validate plans before proposal (sase-61.3) | 2026-07-14 17:41:47 |
 
 ## Neighbors
 

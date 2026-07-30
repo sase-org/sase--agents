@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ad3e1eb`](https://github.com/sase-org/sase/commit/ad3e1eba20969489ebd368118019f76209fb6e5e) | feat(fakey): add deterministic scenario CLI (sase-5o.1) | 2026-07-10 21:28:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ad3e1eb`](https://github.com/sase-org/sase/commit/ad3e1eba20969489ebd368118019f76209fb6e5e) | feat(fakey): add deterministic scenario CLI (sase-5o.1) | 2026-07-10 21:28:27 |
 
 ## Neighbors
 

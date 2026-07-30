@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`21e1640`](https://github.com/sase-org/sase/commit/21e1640ee7373759701865b7917a7828b2d233bb) | feat(memory)!: remove keyword metadata | 2026-07-13 11:23:35 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`21e1640`](https://github.com/sase-org/sase/commit/21e1640ee7373759701865b7917a7828b2d233bb) | feat(memory)!: remove keyword metadata | 2026-07-13 11:23:35 |

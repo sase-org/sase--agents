@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1790e44`](https://github.com/sase-org/sase/commit/1790e441c2d37b2e61cdd919ca4c5106116af0e6) | fix: scope chop linkage to explicit launches (sase-7t.1) | 2026-07-20 00:35:08 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1790e44`](https://github.com/sase-org/sase/commit/1790e441c2d37b2e61cdd919ca4c5106116af0e6) | fix: scope chop linkage to explicit launches (sase-7t.1) | 2026-07-20 00:35:08 |
 
 ## Neighbors
 

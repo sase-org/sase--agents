@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6c2f547`](https://github.com/sase-org/sase/commit/6c2f54777c948d3a84e7e4893737030adb44e11e) | feat(tui): add non-destructive \`gp\` stash load and retire leader \`,P\` (sase-4s.4) | 2026-06-17 19:32:52 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6c2f547`](https://github.com/sase-org/sase/commit/6c2f54777c948d3a84e7e4893737030adb44e11e) | feat(tui): add non-destructive \`gp\` stash load and retire leader \`,P\` (sase-4s.4) | 2026-06-17 19:32:52 |
 
 ## Neighbors
 

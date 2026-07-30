@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`711120b`](https://github.com/sase-org/sase/commit/711120b638d3362f4b9c0b1211c49a4af9ab5b69) | fix: handle pinned prompt stash bundles consistently | 2026-07-11 21:31:29 |
-| root | [`711120b`](https://github.com/sase-org/sase/commit/711120b638d3362f4b9c0b1211c49a4af9ab5b69) | fix: handle pinned prompt stash bundles consistently | 2026-07-11 21:31:29 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`711120b`](https://github.com/sase-org/sase/commit/711120b638d3362f4b9c0b1211c49a4af9ab5b69) | fix: handle pinned prompt stash bundles consistently | 2026-07-11 21:31:29 |
+| root | sase | [`711120b`](https://github.com/sase-org/sase/commit/711120b638d3362f4b9c0b1211c49a4af9ab5b69) | fix: handle pinned prompt stash bundles consistently | 2026-07-11 21:31:29 |

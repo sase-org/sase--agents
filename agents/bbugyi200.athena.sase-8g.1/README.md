@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`84da472`](https://github.com/sase-org/sase/commit/84da4721c2f13a922590d1b30aea64b658b48aab) | fix: make suffix transforms merge current ChangeSpec state (sase-8g.1) | 2026-07-20 21:08:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`84da472`](https://github.com/sase-org/sase/commit/84da4721c2f13a922590d1b30aea64b658b48aab) | fix: make suffix transforms merge current ChangeSpec state (sase-8g.1) | 2026-07-20 21:08:48 |
 
 ## Neighbors
 

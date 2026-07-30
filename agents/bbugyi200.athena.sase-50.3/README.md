@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2428355`](https://github.com/sase-org/sase/commit/2428355bebd5095829885b8d32f32b848e46a1c3) | feat(llm): integrate agy provider into registry, doctor, config, and TUI (sase-50.3) | 2026-06-20 00:12:59 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2428355`](https://github.com/sase-org/sase/commit/2428355bebd5095829885b8d32f32b848e46a1c3) | feat(llm): integrate agy provider into registry, doctor, config, and TUI (sase-50.3) | 2026-06-20 00:12:59 |
 
 ## Neighbors
 

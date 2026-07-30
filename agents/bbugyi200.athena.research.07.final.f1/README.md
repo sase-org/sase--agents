@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a787c31`](https://github.com/sase-org/sase/commit/a787c31f5e6fc7885f83a5aa385a35a26c0fe949) | chore(beads): create config center epic beads | 2026-06-23 12:39:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a787c31`](https://github.com/sase-org/sase/commit/a787c31f5e6fc7885f83a5aa385a35a26c0fe949) | chore(beads): create config center epic beads | 2026-06-23 12:39:29 |
 
 ## Neighbors
 

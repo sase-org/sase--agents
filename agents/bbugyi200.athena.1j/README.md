@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bb7df91`](https://github.com/sase-org/sase/commit/bb7df91fb5fc91f3dd57062b3de7d29af6bca691) | chore: Add SDD prompt and plan for logs\_apostrophe\_jump | 2026-07-08 02:38:51 |
-| [`54e2cb3`](https://github.com/sase-org/sase/commit/54e2cb3282f7bf3b6b581acbc6ce9c5f44ce1120) | feat(ace): add jump hints to logs pane | 2026-07-08 02:51:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`bb7df91`](https://github.com/sase-org/sase/commit/bb7df91fb5fc91f3dd57062b3de7d29af6bca691) | chore: Add SDD prompt and plan for logs\_apostrophe\_jump | 2026-07-08 02:38:51 |
+| sase | [`54e2cb3`](https://github.com/sase-org/sase/commit/54e2cb3282f7bf3b6b581acbc6ce9c5f44ce1120) | feat(ace): add jump hints to logs pane | 2026-07-08 02:51:48 |

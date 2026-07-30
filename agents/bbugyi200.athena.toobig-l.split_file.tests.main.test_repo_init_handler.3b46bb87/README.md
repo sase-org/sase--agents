@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`767a3c4`](https://github.com/sase-org/sase/commit/767a3c4f6dcd34e41f6587126bf0c0d5c49532b2) | test: split repo init handler tests | 2026-07-22 20:14:00 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`767a3c4`](https://github.com/sase-org/sase/commit/767a3c4f6dcd34e41f6587126bf0c0d5c49532b2) | test: split repo init handler tests | 2026-07-22 20:14:00 |
 
 ## Neighbors
 

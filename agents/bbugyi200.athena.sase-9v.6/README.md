@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`54f4203`](https://github.com/sase-org/sase/commit/54f42034b81f28bc6b08294c43505cec8c2b2890) | fix(axe): fit bead\_store\_refresh chop inside its time budget (sase-9v.6) | 2026-07-26 16:26:16 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`54f4203`](https://github.com/sase-org/sase/commit/54f42034b81f28bc6b08294c43505cec8c2b2890) | fix(axe): fit bead\_store\_refresh chop inside its time budget (sase-9v.6) | 2026-07-26 16:26:16 |
 
 ## Neighbors
 

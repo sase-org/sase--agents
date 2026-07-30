@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ebb1c42`](https://github.com/sase-org/sase/commit/ebb1c42acf0b5a115e39ff1685625c673a348571) | docs: research alternation shorthand syntax | 2026-06-20 14:13:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ebb1c42`](https://github.com/sase-org/sase/commit/ebb1c42acf0b5a115e39ff1685625c673a348571) | docs: research alternation shorthand syntax | 2026-06-20 14:13:40 |
 
 ## Neighbors
 

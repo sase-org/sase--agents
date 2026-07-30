@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bf17b39`](https://github.com/sase-org/sase/commit/bf17b396a61f9aba12e952863a1ce550fb6c2fd2) | refactor: fix symbol visibility after sase-67 whitelist expiry | 2026-07-16 00:58:34 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`bf17b39`](https://github.com/sase-org/sase/commit/bf17b396a61f9aba12e952863a1ce550fb6c2fd2) | refactor: fix symbol visibility after sase-67 whitelist expiry | 2026-07-16 00:58:34 |
 
 ## Neighbors
 

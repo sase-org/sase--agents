@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`29562f8`](https://github.com/sase-org/sase/commit/29562f84d790afcc741a7cef57469db39dbfe0d0) | chore: Add SDD prompt and plan for prompt\_ctrl\_r\_recursive\_finder | 2026-06-05 17:28:04 |
-| [`d09221b`](https://github.com/sase-org/sase/commit/d09221b2be7a033acb3689f71ebc9169af50bc0f) | feat: add ctrl+r recursive fuzzy file finder to the prompt input | 2026-06-05 18:03:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`29562f8`](https://github.com/sase-org/sase/commit/29562f84d790afcc741a7cef57469db39dbfe0d0) | chore: Add SDD prompt and plan for prompt\_ctrl\_r\_recursive\_finder | 2026-06-05 17:28:04 |
+| sase | [`d09221b`](https://github.com/sase-org/sase/commit/d09221b2be7a033acb3689f71ebc9169af50bc0f) | feat: add ctrl+r recursive fuzzy file finder to the prompt input | 2026-06-05 18:03:41 |

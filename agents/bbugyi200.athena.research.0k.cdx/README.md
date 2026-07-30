@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`674fcea`](https://github.com/sase-org/sase/commit/674fcead430501499cab773872cc3531e232ecc2) | docs: research epic bead work PR migration | 2026-06-25 22:53:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`674fcea`](https://github.com/sase-org/sase/commit/674fcead430501499cab773872cc3531e232ecc2) | docs: research epic bead work PR migration | 2026-06-25 22:53:09 |
 
 ## Neighbors
 

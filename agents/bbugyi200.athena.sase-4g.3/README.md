@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8f81b30`](https://github.com/sase-org/sase/commit/8f81b30cd927a12d411799ad84629d4e75b8f22e) | feat: plan generic agent name templates (sase-4g.3) | 2026-06-08 20:19:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8f81b30`](https://github.com/sase-org/sase/commit/8f81b30cd927a12d411799ad84629d4e75b8f22e) | feat: plan generic agent name templates (sase-4g.3) | 2026-06-08 20:19:38 |
 
 ## Neighbors
 

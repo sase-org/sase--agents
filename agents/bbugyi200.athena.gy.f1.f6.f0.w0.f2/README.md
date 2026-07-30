@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a2c33ea`](https://github.com/sase-org/sase/commit/a2c33ea03d1936d0f953ed9448ade95c2c5dd3c5) | feat(ace): add default effort controls to Models panel | 2026-07-21 16:37:55 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a2c33ea`](https://github.com/sase-org/sase/commit/a2c33ea03d1936d0f953ed9448ade95c2c5dd3c5) | feat(ace): add default effort controls to Models panel | 2026-07-21 16:37:55 |
 
 ## Neighbors
 

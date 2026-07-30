@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`dc183a7`](https://github.com/sase-org/sase/commit/dc183a727b7cad626cbc27cb78fe30293bd3bcef) | feat(ace): render gates from option branches (sase-6p.4) | 2026-07-18 01:32:17 |
-| [`6ff0f17`](https://github.com/sase-org/sase/commit/6ff0f17a0e24cd1843ad193567d878999981e61d) | fix(ace): preserve programmatic plan choices (sase-6p.4) | 2026-07-18 01:39:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`dc183a7`](https://github.com/sase-org/sase/commit/dc183a727b7cad626cbc27cb78fe30293bd3bcef) | feat(ace): render gates from option branches (sase-6p.4) | 2026-07-18 01:32:17 |
+| sase | [`6ff0f17`](https://github.com/sase-org/sase/commit/6ff0f17a0e24cd1843ad193567d878999981e61d) | fix(ace): preserve programmatic plan choices (sase-6p.4) | 2026-07-18 01:39:58 |
 
 ## Neighbors
 

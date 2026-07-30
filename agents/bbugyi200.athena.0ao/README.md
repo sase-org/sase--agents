@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b3c1b7a`](https://github.com/sase-org/sase/commit/b3c1b7ab1ad2b8ee81754114899f405c1a627b59) | chore: Add SDD prompt and plan for agents\_first\_tab\_1 | 2026-06-30 12:56:09 |
-| [`2404af6`](https://github.com/sase-org/sase/commit/2404af6d2a8d32eb2deb910298b25ee50219faa1) | feat(ace)!: move Agents to the first tab position | 2026-06-30 13:36:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b3c1b7a`](https://github.com/sase-org/sase/commit/b3c1b7ab1ad2b8ee81754114899f405c1a627b59) | chore: Add SDD prompt and plan for agents\_first\_tab\_1 | 2026-06-30 12:56:09 |
+| sase | [`2404af6`](https://github.com/sase-org/sase/commit/2404af6d2a8d32eb2deb910298b25ee50219faa1) | feat(ace)!: move Agents to the first tab position | 2026-06-30 13:36:30 |

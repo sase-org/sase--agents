@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a79c174`](https://github.com/sase-org/sase/commit/a79c174797b0f8c92442e8d4003ca3c8fc679e10) | chore: Add SDD prompt and plan for neighbor\_keymap\_includes\_ancestors | 2026-06-29 16:59:31 |
-| [`4ffd1f1`](https://github.com/sase-org/sase/commit/4ffd1f1442105cd333977ce15157fa349ea4cbc2) | feat(tui): include ancestors in agent neighbor jumps | 2026-06-29 17:10:59 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a79c174`](https://github.com/sase-org/sase/commit/a79c174797b0f8c92442e8d4003ca3c8fc679e10) | chore: Add SDD prompt and plan for neighbor\_keymap\_includes\_ancestors | 2026-06-29 16:59:31 |
+| sase | [`4ffd1f1`](https://github.com/sase-org/sase/commit/4ffd1f1442105cd333977ce15157fa349ea4cbc2) | feat(tui): include ancestors in agent neighbor jumps | 2026-06-29 17:10:59 |

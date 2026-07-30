@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b979c54`](https://github.com/sase-org/sase/commit/b979c54bb12ae328b845f1605fc7d9d865a6f945) | test(core): cover model@effort suffix stripping in agent-launch fanout (sase-55.5) | 2026-06-23 17:03:18 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b979c54`](https://github.com/sase-org/sase/commit/b979c54bb12ae328b845f1605fc7d9d865a6f945) | test(core): cover model@effort suffix stripping in agent-launch fanout (sase-55.5) | 2026-06-23 17:03:18 |
 
 ## Neighbors
 

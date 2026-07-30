@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e447907`](https://github.com/sase-org/sase/commit/e447907f29b17b6289defa9292107ccb2f951ac9) | chore: Add SDD prompt and plan for always\_show\_create\_snippet | 2026-06-27 15:17:05 |
-| [`590289a`](https://github.com/sase-org/sase/commit/590289a7d27ad73c00c6936623b5ec97905cbcf1) | feat(tui): always offer snippet creation from gx save panel | 2026-06-27 15:26:17 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e447907`](https://github.com/sase-org/sase/commit/e447907f29b17b6289defa9292107ccb2f951ac9) | chore: Add SDD prompt and plan for always\_show\_create\_snippet | 2026-06-27 15:17:05 |
+| sase | [`590289a`](https://github.com/sase-org/sase/commit/590289a7d27ad73c00c6936623b5ec97905cbcf1) | feat(tui): always offer snippet creation from gx save panel | 2026-06-27 15:26:17 |

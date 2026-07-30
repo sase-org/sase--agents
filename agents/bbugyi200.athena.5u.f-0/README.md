@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1180425`](https://github.com/sase-org/sase/commit/1180425d1192c6a3017aece24f67524a19b942dd) | fix: sort custom revival rows by recency | 2026-07-11 17:26:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1180425`](https://github.com/sase-org/sase/commit/1180425d1192c6a3017aece24f67524a19b942dd) | fix: sort custom revival rows by recency | 2026-07-11 17:26:32 |
 
 ## Neighbors
 

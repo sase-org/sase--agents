@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f379472`](https://github.com/sase-org/sase/commit/f379472b19c194749728054022853ba4a4b2bdfd) | ref: split commit finalizer helpers | 2026-05-27 00:49:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f379472`](https://github.com/sase-org/sase/commit/f379472b19c194749728054022853ba4a4b2bdfd) | ref: split commit finalizer helpers | 2026-05-27 00:49:57 |
 
 ## Neighbors
 

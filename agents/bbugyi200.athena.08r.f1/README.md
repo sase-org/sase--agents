@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d461d92`](https://github.com/sase-org/sase/commit/d461d921333d637b7e2d128fca16f9ed6e0e322d) | chore: Add SDD prompt and plan for auto\_before\_xprompts | 2026-06-28 13:07:54 |
-| [`b68ffc3`](https://github.com/sase-org/sase/commit/b68ffc3ef8d4333434a9e99fd1798ce0f83517b3) | feat(tui): render Auto metadata before Xprompts | 2026-06-28 13:17:16 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d461d92`](https://github.com/sase-org/sase/commit/d461d921333d637b7e2d128fca16f9ed6e0e322d) | chore: Add SDD prompt and plan for auto\_before\_xprompts | 2026-06-28 13:07:54 |
+| sase | [`b68ffc3`](https://github.com/sase-org/sase/commit/b68ffc3ef8d4333434a9e99fd1798ce0f83517b3) | feat(tui): render Auto metadata before Xprompts | 2026-06-28 13:17:16 |
 
 ## Neighbors
 

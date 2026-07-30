@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ffb676e`](https://github.com/sase-org/sase/commit/ffb676e9c0817f30af18ff1e0c213b4364ecd75a) | chore: Add SDD prompt and plan for remove\_plan\_search\_skill | 2026-06-19 14:44:44 |
-| [`5c5fe42`](https://github.com/sase-org/sase/commit/5c5fe42a8b4281b5fbabaa986ff1d9d8b38d2f0c) | feat(skills)!: remove unintended sase\_plan\_search skill | 2026-06-19 14:54:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ffb676e`](https://github.com/sase-org/sase/commit/ffb676e9c0817f30af18ff1e0c213b4364ecd75a) | chore: Add SDD prompt and plan for remove\_plan\_search\_skill | 2026-06-19 14:44:44 |
+| sase | [`5c5fe42`](https://github.com/sase-org/sase/commit/5c5fe42a8b4281b5fbabaa986ff1d9d8b38d2f0c) | feat(skills)!: remove unintended sase\_plan\_search skill | 2026-06-19 14:54:54 |

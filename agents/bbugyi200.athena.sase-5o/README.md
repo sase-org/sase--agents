@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a035958`](https://github.com/sase-org/sase/commit/a035958ca96d7ab80a47f18a944c384b90291f67) | test(fakey): guard retry marker attribution (sase-5o) | 2026-07-10 23:01:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a035958`](https://github.com/sase-org/sase/commit/a035958ca96d7ab80a47f18a944c384b90291f67) | test(fakey): guard retry marker attribution (sase-5o) | 2026-07-10 23:01:23 |
 
 ## Neighbors
 

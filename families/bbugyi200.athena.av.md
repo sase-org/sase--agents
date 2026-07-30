@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`4d2fb87`](https://github.com/sase-org/sase/commit/4d2fb87e5c444c5a82cf7370a95bdc158c5f7293) | fix(tui): improve inline code visibility | 2026-07-16 20:47:24 |
-| root | [`4d2fb87`](https://github.com/sase-org/sase/commit/4d2fb87e5c444c5a82cf7370a95bdc158c5f7293) | fix(tui): improve inline code visibility | 2026-07-16 20:47:24 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`4d2fb87`](https://github.com/sase-org/sase/commit/4d2fb87e5c444c5a82cf7370a95bdc158c5f7293) | fix(tui): improve inline code visibility | 2026-07-16 20:47:24 |
+| root | sase | [`4d2fb87`](https://github.com/sase-org/sase/commit/4d2fb87e5c444c5a82cf7370a95bdc158c5f7293) | fix(tui): improve inline code visibility | 2026-07-16 20:47:24 |

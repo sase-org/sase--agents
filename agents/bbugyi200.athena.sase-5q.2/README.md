@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4c40d5a`](https://github.com/sase-org/sase/commit/4c40d5af8f3f6ecdb367891483a720b68b6cd3a0) | feat(sdd): support split companion repositories (sase-5q.2) | 2026-07-12 00:09:50 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4c40d5a`](https://github.com/sase-org/sase/commit/4c40d5af8f3f6ecdb367891483a720b68b6cd3a0) | feat(sdd): support split companion repositories (sase-5q.2) | 2026-07-12 00:09:50 |
 
 ## Neighbors
 

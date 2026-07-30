@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`08a7258`](https://github.com/sase-org/sase/commit/08a7258713abe405d375648005aed3b43af9ecde) | chore: Add SDD prompt and plan for axe\_restart\_stuck\_indicator | 2026-06-13 16:29:26 |
-| [`51ea133`](https://github.com/sase-org/sase/commit/51ea1334ce6dcb8eae8f58ef9b8ce25b85f5779c) | fix: keep axe restart status indicators accurate | 2026-06-13 16:39:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`08a7258`](https://github.com/sase-org/sase/commit/08a7258713abe405d375648005aed3b43af9ecde) | chore: Add SDD prompt and plan for axe\_restart\_stuck\_indicator | 2026-06-13 16:29:26 |
+| sase | [`51ea133`](https://github.com/sase-org/sase/commit/51ea1334ce6dcb8eae8f58ef9b8ce25b85f5779c) | fix: keep axe restart status indicators accurate | 2026-06-13 16:39:07 |
 
 ## Neighbors
 

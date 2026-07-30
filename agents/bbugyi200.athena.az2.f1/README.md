@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2ba0095`](https://github.com/sase-org/sase/commit/2ba0095d03ec982dda54e084417ea02f787508f4) | chore: expand project lifecycle research | 2026-06-01 16:12:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2ba0095`](https://github.com/sase-org/sase/commit/2ba0095d03ec982dda54e084417ea02f787508f4) | chore: expand project lifecycle research | 2026-06-01 16:12:39 |
 
 ## Neighbors
 

@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d662c3f`](https://github.com/sase-org/sase/commit/d662c3ffe00d7c5c34644a932b6042cec348da0d) | refactor(keymaps): split keymap types into focused modules | 2026-07-25 01:50:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d662c3f`](https://github.com/sase-org/sase/commit/d662c3ffe00d7c5c34644a932b6042cec348da0d) | refactor(keymaps): split keymap types into focused modules | 2026-07-25 01:50:27 |

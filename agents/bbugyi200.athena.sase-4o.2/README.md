@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a385fa5`](https://github.com/sase-org/sase/commit/a385fa563d5cdd82a30d728964f4a45479d0e59a) | feat(prompt): add replay, selection, and clipboard commands (sase-4o.2) | 2026-06-13 19:15:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a385fa5`](https://github.com/sase-org/sase/commit/a385fa563d5cdd82a30d728964f4a45479d0e59a) | feat(prompt): add replay, selection, and clipboard commands (sase-4o.2) | 2026-06-13 19:15:30 |
 
 ## Neighbors
 

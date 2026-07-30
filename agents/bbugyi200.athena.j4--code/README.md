@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`dc6ef5f`](https://github.com/sase-org/sase/commit/dc6ef5fade7cf1410513b96c4011d1fc97fba3c0) | feat(ace): confirm launches containing TODO markers | 2026-07-23 15:47:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`dc6ef5f`](https://github.com/sase-org/sase/commit/dc6ef5fade7cf1410513b96c4011d1fc97fba3c0) | feat(ace): confirm launches containing TODO markers | 2026-07-23 15:47:27 |

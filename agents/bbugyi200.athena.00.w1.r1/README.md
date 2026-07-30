@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ec65688`](https://github.com/sase-org/sase/commit/ec65688dcab6d63990fc6b8afc76f21be40621dc) | chore: Add SDD prompt and plan for fix\_flaky\_neighbor\_modal\_visual\_test | 2026-07-04 12:38:23 |
-| [`7f56922`](https://github.com/sase-org/sase/commit/7f5692230f75b48740b958779a8fc51981892029) | test: refresh neighbor modal footer before snapshot | 2026-07-04 16:35:26 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ec65688`](https://github.com/sase-org/sase/commit/ec65688dcab6d63990fc6b8afc76f21be40621dc) | chore: Add SDD prompt and plan for fix\_flaky\_neighbor\_modal\_visual\_test | 2026-07-04 12:38:23 |
+| sase | [`7f56922`](https://github.com/sase-org/sase/commit/7f5692230f75b48740b958779a8fc51981892029) | test: refresh neighbor modal footer before snapshot | 2026-07-04 16:35:26 |
 
 ## Neighbors
 

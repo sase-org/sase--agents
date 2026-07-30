@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`70d34ce`](https://github.com/sase-org/sase/commit/70d34cea6a495231664379083f89462c98a03621) | docs: consolidate sase-dev install research | 2026-06-25 20:13:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`70d34ce`](https://github.com/sase-org/sase/commit/70d34cea6a495231664379083f89462c98a03621) | docs: consolidate sase-dev install research | 2026-06-25 20:13:44 |
 
 ## Neighbors
 

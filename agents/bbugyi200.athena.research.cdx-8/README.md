@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`594dd4a`](https://github.com/sase-org/sase/commit/594dd4ae0a077820590d146b5876dec6ccd17a03) | chore: add Apollo remote agents alias research | 2026-06-04 23:40:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`594dd4a`](https://github.com/sase-org/sase/commit/594dd4ae0a077820590d146b5876dec6ccd17a03) | chore: add Apollo remote agents alias research | 2026-06-04 23:40:57 |
 
 ## Neighbors
 

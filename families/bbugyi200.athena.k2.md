@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`e40bce9`](https://github.com/sase-org/sase/commit/e40bce924375f7bf7d8690caf9f92c0b1f693e1c) | fix(tui): contain unhandled vim mode keys | 2026-07-25 02:34:17 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`e40bce9`](https://github.com/sase-org/sase/commit/e40bce924375f7bf7d8690caf9f92c0b1f693e1c) | fix(tui): contain unhandled vim mode keys | 2026-07-25 02:34:17 |

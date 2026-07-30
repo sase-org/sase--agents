@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`25c87d4`](https://github.com/sase-org/sase/commit/25c87d40fbad0d5783c19ec901b624dbf5584cad) | feat(ace): add prompt history word completion | 2026-07-18 19:04:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`25c87d4`](https://github.com/sase-org/sase/commit/25c87d40fbad0d5783c19ec901b624dbf5584cad) | feat(ace): add prompt history word completion | 2026-07-18 19:04:56 |

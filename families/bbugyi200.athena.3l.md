@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`f1f5324`](https://github.com/sase-org/sase/commit/f1f5324e21cd6fa25f29dd47af0c672c5de6269e) | fix: suppress refresh docs marker notification | 2026-07-09 16:51:39 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`f1f5324`](https://github.com/sase-org/sase/commit/f1f5324e21cd6fa25f29dd47af0c672c5de6269e) | fix: suppress refresh docs marker notification | 2026-07-09 16:51:39 |

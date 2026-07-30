@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`147c303`](https://github.com/sase-org/sase/commit/147c3038ba7c4fd1951a9ce5c072e346431d65ce) | chore: Add SDD prompt and plan for sase\_telegram\_mit\_license | 2026-07-06 11:04:40 |
-| [`fb80faa`](https://github.com/sase-org/sase/commit/fb80faa6d314bd96bff9f02f63f33545c2f4ecbb) | chore: Mark SDD plan done | 2026-07-06 11:50:04 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`147c303`](https://github.com/sase-org/sase/commit/147c3038ba7c4fd1951a9ce5c072e346431d65ce) | chore: Add SDD prompt and plan for sase\_telegram\_mit\_license | 2026-07-06 11:04:40 |
+| sase | [`fb80faa`](https://github.com/sase-org/sase/commit/fb80faa6d314bd96bff9f02f63f33545c2f4ecbb) | chore: Mark SDD plan done | 2026-07-06 11:50:04 |
 
 ## Neighbors
 

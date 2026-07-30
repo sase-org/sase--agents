@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3349fdf`](https://github.com/sase-org/sase/commit/3349fdfc3ec8cfd7334c78e6e51538ee09e707fd) | test: split clan summary epic tests | 2026-07-27 18:12:26 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3349fdf`](https://github.com/sase-org/sase/commit/3349fdfc3ec8cfd7334c78e6e51538ee09e707fd) | test: split clan summary epic tests | 2026-07-27 18:12:26 |

@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`de9d360`](https://github.com/sase-org/sase/commit/de9d36014a20c6795a557dae1435b4b25fa22471) | fix(tui): count effective agents in headline | 2026-07-17 16:41:49 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`de9d360`](https://github.com/sase-org/sase/commit/de9d36014a20c6795a557dae1435b4b25fa22471) | fix(tui): count effective agents in headline | 2026-07-17 16:41:49 |
 
 ## Neighbors
 

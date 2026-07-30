@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f178aa1`](https://github.com/sase-org/sase/commit/f178aa1999ef783dcf9a72bbb7fb11d7acd9eb65) | chore: Add SDD prompt and plan for agent\_question\_answered\_status | 2026-06-17 12:12:04 |
-| [`eca16bf`](https://github.com/sase-org/sase/commit/eca16bf4782940b4a611326209940e0131f2cba8) | fix(tui): clear stale QUESTION status on answered question rows | 2026-06-17 12:28:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f178aa1`](https://github.com/sase-org/sase/commit/f178aa1999ef783dcf9a72bbb7fb11d7acd9eb65) | chore: Add SDD prompt and plan for agent\_question\_answered\_status | 2026-06-17 12:12:04 |
+| sase | [`eca16bf`](https://github.com/sase-org/sase/commit/eca16bf4782940b4a611326209940e0131f2cba8) | fix(tui): clear stale QUESTION status on answered question rows | 2026-06-17 12:28:46 |

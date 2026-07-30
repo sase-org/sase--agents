@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`985af86`](https://github.com/sase-org/sase/commit/985af86476d88c4ba4b143c152639da511478252) | chore: Add SDD prompt and plan for rename\_waiting\_for\_field | 2026-06-29 12:44:01 |
-| [`e84474f`](https://github.com/sase-org/sase/commit/e84474f5dd97e2aedd6896e606ad0b70e308c6c1) | feat(tui): shorten Agents wait metadata label to "Wait:" | 2026-06-29 12:54:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`985af86`](https://github.com/sase-org/sase/commit/985af86476d88c4ba4b143c152639da511478252) | chore: Add SDD prompt and plan for rename\_waiting\_for\_field | 2026-06-29 12:44:01 |
+| sase | [`e84474f`](https://github.com/sase-org/sase/commit/e84474f5dd97e2aedd6896e606ad0b70e308c6c1) | feat(tui): shorten Agents wait metadata label to "Wait:" | 2026-06-29 12:54:42 |

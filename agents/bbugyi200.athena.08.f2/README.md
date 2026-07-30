@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`835c2c9`](https://github.com/sase-org/sase/commit/835c2c9abaae45777f346dcd644cc37839e43c34) | fix(dev-update): refresh upstream refs before planning | 2026-07-07 04:24:10 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`835c2c9`](https://github.com/sase-org/sase/commit/835c2c9abaae45777f346dcd644cc37839e43c34) | fix(dev-update): refresh upstream refs before planning | 2026-07-07 04:24:10 |
 
 ## Neighbors
 

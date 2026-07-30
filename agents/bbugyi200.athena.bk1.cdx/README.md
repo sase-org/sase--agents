@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ba89552`](https://github.com/sase-org/sase/commit/ba8955293d82a067f618aa30cdfaf9c26bfd8870) | chore: Add SDD prompt and plan for saved\_group\_revival\_visibility | 2026-05-27 19:06:22 |
-| [`daefb3d`](https://github.com/sase-org/sase/commit/daefb3d2b1cdfd46a1e57c09117ef46dc83c03b3) | fix: preserve saved group tags through revive | 2026-05-27 19:19:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ba89552`](https://github.com/sase-org/sase/commit/ba8955293d82a067f618aa30cdfaf9c26bfd8870) | chore: Add SDD prompt and plan for saved\_group\_revival\_visibility | 2026-05-27 19:06:22 |
+| sase | [`daefb3d`](https://github.com/sase-org/sase/commit/daefb3d2b1cdfd46a1e57c09117ef46dc83c03b3) | fix: preserve saved group tags through revive | 2026-05-27 19:19:38 |
 
 ## Neighbors
 

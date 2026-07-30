@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a660d92`](https://github.com/sase-org/sase/commit/a660d92277d2f348a4fb67c4025bc19fdd10763b) | feat: compose follow-up xprompts with family attach (sase-5f.5) | 2026-07-06 03:47:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a660d92`](https://github.com/sase-org/sase/commit/a660d92277d2f348a4fb67c4025bc19fdd10763b) | feat: compose follow-up xprompts with family attach (sase-5f.5) | 2026-07-06 03:47:21 |
 
 ## Neighbors
 

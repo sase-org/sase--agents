@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`485e562`](https://github.com/sase-org/sase/commit/485e5624ef9630119bd3e4fa2a11c0d1f51d743e) | fix(bead)!: confirm destructive forced-reuse cleanup | 2026-07-23 16:22:01 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`485e562`](https://github.com/sase-org/sase/commit/485e5624ef9630119bd3e4fa2a11c0d1f51d743e) | fix(bead)!: confirm destructive forced-reuse cleanup | 2026-07-23 16:22:01 |

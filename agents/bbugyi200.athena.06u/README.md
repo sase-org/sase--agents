@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`88529d3`](https://github.com/sase-org/sase/commit/88529d372147f9cd3fa6c3e08919c77365171190) | chore: Add SDD prompt and plan for effort\_alias | 2026-06-26 11:49:26 |
-| [`1e40bf1`](https://github.com/sase-org/sase/commit/1e40bf11f72b2c535eee0fa1cedb962919dce531) | feat(directives): make %e an alias for %effort | 2026-06-26 12:07:08 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`88529d3`](https://github.com/sase-org/sase/commit/88529d372147f9cd3fa6c3e08919c77365171190) | chore: Add SDD prompt and plan for effort\_alias | 2026-06-26 11:49:26 |
+| sase | [`1e40bf1`](https://github.com/sase-org/sase/commit/1e40bf11f72b2c535eee0fa1cedb962919dce531) | feat(directives): make %e an alias for %effort | 2026-06-26 12:07:08 |

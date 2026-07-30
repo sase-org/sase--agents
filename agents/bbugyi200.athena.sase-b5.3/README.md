@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f1289a1`](https://github.com/sase-org/sase/commit/f1289a124ba4e94478b2ea0f973344c8a96ebc46) | fix: resolve agent links through checkout anchors | 2026-07-30 12:39:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f1289a1`](https://github.com/sase-org/sase/commit/f1289a124ba4e94478b2ea0f973344c8a96ebc46) | fix: resolve agent links through checkout anchors | 2026-07-30 12:39:25 |
 
 ## Neighbors
 

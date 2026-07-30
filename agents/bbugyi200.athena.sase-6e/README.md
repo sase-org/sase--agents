@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a0dc62d`](https://github.com/sase-org/sase/commit/a0dc62d2fa5788eb06a5e60a7be14976c2f09eb5) | feat(notification-gates): finalize adapter-owned auto resolution (sase-6e) | 2026-07-17 00:25:16 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a0dc62d`](https://github.com/sase-org/sase/commit/a0dc62d2fa5788eb06a5e60a7be14976c2f09eb5) | feat(notification-gates): finalize adapter-owned auto resolution (sase-6e) | 2026-07-17 00:25:16 |
 
 ## Neighbors
 

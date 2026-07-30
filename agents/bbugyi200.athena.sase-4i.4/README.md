@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e802a84`](https://github.com/sase-org/sase/commit/e802a84efa89d36c67d835bea77eb0746e13391d) | feat: add phase 4 doctor checks (sase-4i.4) | 2026-06-09 17:22:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e802a84`](https://github.com/sase-org/sase/commit/e802a84efa89d36c67d835bea77eb0746e13391d) | feat: add phase 4 doctor checks (sase-4i.4) | 2026-06-09 17:22:51 |
 
 ## Neighbors
 

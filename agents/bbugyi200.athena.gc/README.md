@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`605fbeb`](https://github.com/sase-org/sase/commit/605fbebd1064af07a5f92320393fa5efddfd687f) | feat(ace): add lazy Admin Center landing page | 2026-07-20 16:47:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`605fbeb`](https://github.com/sase-org/sase/commit/605fbebd1064af07a5f92320393fa5efddfd687f) | feat(ace): add lazy Admin Center landing page | 2026-07-20 16:47:42 |
 
 ## Neighbors
 

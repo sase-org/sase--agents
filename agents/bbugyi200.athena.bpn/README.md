@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cfacac6`](https://github.com/sase-org/sase/commit/cfacac611e4bc7b25bed3fcfed98b47e981841c4) | fix: keep unreviewed planner entries in PLAN | 2026-05-30 18:22:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cfacac6`](https://github.com/sase-org/sase/commit/cfacac611e4bc7b25bed3fcfed98b47e981841c4) | fix: keep unreviewed planner entries in PLAN | 2026-05-30 18:22:41 |

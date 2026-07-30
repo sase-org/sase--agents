@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`3e06256`](https://github.com/sase-org/sase/commit/3e06256aa6f65243bb424b91b8ed18ab865c5e11) | fix: preserve proposal associations from agent metadata | 2026-07-21 15:12:00 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`3e06256`](https://github.com/sase-org/sase/commit/3e06256aa6f65243bb424b91b8ed18ab865c5e11) | fix: preserve proposal associations from agent metadata | 2026-07-21 15:12:00 |
 
 ## Neighbors
 

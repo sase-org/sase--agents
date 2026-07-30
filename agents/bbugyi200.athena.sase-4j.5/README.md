@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`67ab224`](https://github.com/sase-org/sase/commit/67ab2242d5d16c1906f630fddcdb83dd61decee4) | chore: close bead sase-4j.5 (launch readiness audit) | 2026-06-10 00:42:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`67ab224`](https://github.com/sase-org/sase/commit/67ab2242d5d16c1906f630fddcdb83dd61decee4) | chore: close bead sase-4j.5 (launch readiness audit) | 2026-06-10 00:42:38 |
 
 ## Neighbors
 

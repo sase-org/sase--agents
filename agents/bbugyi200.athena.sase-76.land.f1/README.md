@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`24a5fb6`](https://github.com/sase-org/sase/commit/24a5fb69cba6a31215ea88ef1a59c3af6d97357c) | fix(ace): restore contextual query shortcuts | 2026-07-19 17:42:12 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`24a5fb6`](https://github.com/sase-org/sase/commit/24a5fb69cba6a31215ea88ef1a59c3af6d97357c) | fix(ace): restore contextual query shortcuts | 2026-07-19 17:42:12 |
 
 ## Neighbors
 

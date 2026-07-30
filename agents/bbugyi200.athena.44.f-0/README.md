@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ba60137`](https://github.com/sase-org/sase/commit/ba60137dd626c6ed156fdf5622719aeb92e3c247) | feat(vcs): show remote fetch progress | 2026-07-10 13:28:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ba60137`](https://github.com/sase-org/sase/commit/ba60137dd626c6ed156fdf5622719aeb92e3c247) | feat(vcs): show remote fetch progress | 2026-07-10 13:28:21 |
 
 ## Neighbors
 

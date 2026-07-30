@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`da239dc`](https://github.com/sase-org/sase/commit/da239dc6e72a0bd9fb04f66677efc59abc02a631) | chore: Add SDD prompt and plan for daemon\_only\_run | 2026-07-02 14:01:06 |
-| [`b20637f`](https://github.com/sase-org/sase/commit/b20637f4f09fc5eb9e72ee1dbb3fdcdbc728f8d2) | feat(cli)!: make run detached-only | 2026-07-02 14:24:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`da239dc`](https://github.com/sase-org/sase/commit/da239dc6e72a0bd9fb04f66677efc59abc02a631) | chore: Add SDD prompt and plan for daemon\_only\_run | 2026-07-02 14:01:06 |
+| sase | [`b20637f`](https://github.com/sase-org/sase/commit/b20637f4f09fc5eb9e72ee1dbb3fdcdbc728f8d2) | feat(cli)!: make run detached-only | 2026-07-02 14:24:09 |
 
 ## Neighbors
 

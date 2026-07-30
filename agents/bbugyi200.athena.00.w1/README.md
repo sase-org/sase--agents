@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7bd65fb`](https://github.com/sase-org/sase/commit/7bd65fba3107a70075697ea1c23056a4df99c399) | chore: Add SDD prompt and plan for fix\_visual\_ci\_not\_uv\_tool | 2026-07-04 11:11:19 |
-| [`3c1cacb`](https://github.com/sase-org/sase/commit/3c1cacb3e6d43cabdc2bb30d82a71db662b045ad) | test: stabilize plugin visual snapshots | 2026-07-04 11:33:08 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7bd65fb`](https://github.com/sase-org/sase/commit/7bd65fba3107a70075697ea1c23056a4df99c399) | chore: Add SDD prompt and plan for fix\_visual\_ci\_not\_uv\_tool | 2026-07-04 11:11:19 |
+| sase | [`3c1cacb`](https://github.com/sase-org/sase/commit/3c1cacb3e6d43cabdc2bb30d82a71db662b045ad) | test: stabilize plugin visual snapshots | 2026-07-04 11:33:08 |
 
 ## Neighbors
 

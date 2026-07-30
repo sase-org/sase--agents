@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1e036c7`](https://github.com/sase-org/sase/commit/1e036c7ef3e5408ea5c3c9789273592a25cf703d) | fix(init-memory): keep managed instructions prettier-stable (#191) | 2026-06-29 10:45:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1e036c7`](https://github.com/sase-org/sase/commit/1e036c7ef3e5408ea5c3c9789273592a25cf703d) | fix(init-memory): keep managed instructions prettier-stable (#191) | 2026-06-29 10:45:24 |
 
 ## Neighbors
 

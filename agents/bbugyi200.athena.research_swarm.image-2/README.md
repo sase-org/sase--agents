@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`934e6ce`](https://github.com/sase-org/sase/commit/934e6cea9a66f42e45f7562cc6a01a9894b696b2) | chore: add TUI completion research infographic | 2026-05-29 02:18:16 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`934e6ce`](https://github.com/sase-org/sase/commit/934e6cea9a66f42e45f7562cc6a01a9894b696b2) | chore: add TUI completion research infographic | 2026-05-29 02:18:16 |
 
 ## Neighbors
 

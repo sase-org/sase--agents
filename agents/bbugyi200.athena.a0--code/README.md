@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d1a3bda`](https://github.com/sase-org/sase/commit/d1a3bdaf1d32b1a6b01e5605c1d603f09eef63da) | feat(ace): persist Agents fold state across sessions | 2026-07-15 23:43:52 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d1a3bda`](https://github.com/sase-org/sase/commit/d1a3bdaf1d32b1a6b01e5605c1d603f09eef63da) | feat(ace): persist Agents fold state across sessions | 2026-07-15 23:43:52 |

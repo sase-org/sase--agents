@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7bc4ff3`](https://github.com/sase-org/sase/commit/7bc4ff38f5e4943c52e755ec069cc48aeb1bd4b3) | feat(tui): flash yanked prompt text | 2026-07-14 13:16:10 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7bc4ff3`](https://github.com/sase-org/sase/commit/7bc4ff38f5e4943c52e755ec069cc48aeb1bd4b3) | feat(tui): flash yanked prompt text | 2026-07-14 13:16:10 |
 
 ## Neighbors
 

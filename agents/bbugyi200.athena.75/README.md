@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`71ee815`](https://github.com/sase-org/sase/commit/71ee8156030e9526c0b788c606fa3401723c3fe3) | fix: exclude internal SDD files from completion attachments | 2026-07-12 20:22:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`71ee815`](https://github.com/sase-org/sase/commit/71ee8156030e9526c0b788c606fa3401723c3fe3) | fix: exclude internal SDD files from completion attachments | 2026-07-12 20:22:07 |

@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`415ff51`](https://github.com/sase-org/sase/commit/415ff51766ff8ad65b66b139872f3793126431b0) | chore: Add SDD prompt and plan for telegram\_project\_display\_names | 2026-07-06 19:52:30 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`415ff51`](https://github.com/sase-org/sase/commit/415ff51766ff8ad65b66b139872f3793126431b0) | chore: Add SDD prompt and plan for telegram\_project\_display\_names | 2026-07-06 19:52:30 |

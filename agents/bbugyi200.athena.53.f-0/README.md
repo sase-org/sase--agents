@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ff96b2c`](https://github.com/sase-org/sase/commit/ff96b2c85569e093e4a4a52562606383f8aeeffb) | feat(cli): let init enable project memory | 2026-07-10 23:23:26 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ff96b2c`](https://github.com/sase-org/sase/commit/ff96b2c85569e093e4a4a52562606383f8aeeffb) | feat(cli): let init enable project memory | 2026-07-10 23:23:26 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`33b57c3`](https://github.com/sase-org/sase/commit/33b57c3709b688730e05da2ef0dda74534815c86) | feat(agents-sync): publish output variables (sase-a9.3) | 2026-07-27 21:39:47 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`33b57c3`](https://github.com/sase-org/sase/commit/33b57c3709b688730e05da2ef0dda74534815c86) | feat(agents-sync): publish output variables (sase-a9.3) | 2026-07-27 21:39:47 |
 
 ## Neighbors
 

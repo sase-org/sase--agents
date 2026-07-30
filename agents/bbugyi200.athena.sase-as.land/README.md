@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f3420f5`](https://github.com/sase-org/sase/commit/f3420f5d00c9cf889415d4e5db1c26a2be402023) | build(deps): require sase-core-rs\>=0.12.10 for document corpora | 2026-07-29 16:10:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f3420f5`](https://github.com/sase-org/sase/commit/f3420f5d00c9cf889415d4e5db1c26a2be402023) | build(deps): require sase-core-rs\>=0.12.10 for document corpora | 2026-07-29 16:10:41 |
 
 ## Neighbors
 

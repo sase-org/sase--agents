@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9ba92b0`](https://github.com/sase-org/sase/commit/9ba92b09a7cacd192f59ccc0756970d8ca67526d) | feat(ace): gate artifact file completion rows | 2026-07-30 11:47:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9ba92b0`](https://github.com/sase-org/sase/commit/9ba92b09a7cacd192f59ccc0756970d8ca67526d) | feat(ace): gate artifact file completion rows | 2026-07-30 11:47:37 |
 
 ## Neighbors
 

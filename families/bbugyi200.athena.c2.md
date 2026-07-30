@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`4dc5ca6`](https://github.com/sase-org/sase/commit/4dc5ca609890eee56a780793e997709de57de52b) | fix(ace): project parallel family status counts | 2026-07-17 16:09:10 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`4dc5ca6`](https://github.com/sase-org/sase/commit/4dc5ca609890eee56a780793e997709de57de52b) | fix(ace): project parallel family status counts | 2026-07-17 16:09:10 |
 
 ## Neighbors
 

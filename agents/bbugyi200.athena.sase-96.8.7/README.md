@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`15a5a0e`](https://github.com/sase-org/sase/commit/15a5a0e67ad521644e7b85063aaefba5798b2adf) | feat(axe): reap the managed SASE temp root (sase-96.8.7) | 2026-07-25 20:37:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`15a5a0e`](https://github.com/sase-org/sase/commit/15a5a0e67ad521644e7b85063aaefba5798b2adf) | feat(axe): reap the managed SASE temp root (sase-96.8.7) | 2026-07-25 20:37:45 |
 
 ## Neighbors
 

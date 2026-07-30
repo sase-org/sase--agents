@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`d5e1017`](https://github.com/sase-org/sase/commit/d5e10175dfcc58a1d1df0e9b1800f5dcc1b87fa2) | feat(cli): support multiline output variable values | 2026-07-28 15:53:35 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`d5e1017`](https://github.com/sase-org/sase/commit/d5e10175dfcc58a1d1df0e9b1800f5dcc1b87fa2) | feat(cli): support multiline output variable values | 2026-07-28 15:53:35 |

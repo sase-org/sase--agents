@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ada19c3`](https://github.com/sase-org/sase/commit/ada19c3c792a0c2cfd75ea6b37c3762627dc86fa) | fix: order step metadata before memory reads | 2026-05-27 15:13:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ada19c3`](https://github.com/sase-org/sase/commit/ada19c3c792a0c2cfd75ea6b37c3762627dc86fa) | fix: order step metadata before memory reads | 2026-05-27 15:13:45 |
 
 ## Neighbors
 

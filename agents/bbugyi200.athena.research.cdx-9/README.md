@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4c9ac54`](https://github.com/sase-org/sase/commit/4c9ac544ab0735d293869968e6c0e073657cbe76) | chore: add agent launch UX research memo | 2026-06-04 23:41:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4c9ac54`](https://github.com/sase-org/sase/commit/4c9ac544ab0735d293869968e6c0e073657cbe76) | chore: add agent launch UX research memo | 2026-06-04 23:41:02 |
 
 ## Neighbors
 

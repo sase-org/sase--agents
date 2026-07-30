@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f8a8922`](https://github.com/sase-org/sase/commit/f8a892234fa7192492c9c7b3bf1247f49950ed3f) | feat(llm): support execution provider overrides (sase-6l.2) | 2026-07-17 16:21:15 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f8a8922`](https://github.com/sase-org/sase/commit/f8a892234fa7192492c9c7b3bf1247f49950ed3f) | feat(llm): support execution provider overrides (sase-6l.2) | 2026-07-17 16:21:15 |
 
 ## Neighbors
 

@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e2ce6f7`](https://github.com/sase-org/sase/commit/e2ce6f7288dba4f7d9680a7fab3badd20525fccf) | chore: Add SDD prompt and plan for root\_row\_multi\_provider\_icons | 2026-06-10 14:24:18 |
-| [`f36a4b5`](https://github.com/sase-org/sase/commit/f36a4b56f33eb6e88b7c62d9772943084940abc9) | feat: show all row provider badges | 2026-06-10 14:32:18 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e2ce6f7`](https://github.com/sase-org/sase/commit/e2ce6f7288dba4f7d9680a7fab3badd20525fccf) | chore: Add SDD prompt and plan for root\_row\_multi\_provider\_icons | 2026-06-10 14:24:18 |
+| sase | [`f36a4b5`](https://github.com/sase-org/sase/commit/f36a4b56f33eb6e88b7c62d9772943084940abc9) | feat: show all row provider badges | 2026-06-10 14:32:18 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`865d5c1`](https://github.com/sase-org/sase/commit/865d5c191e7fcecf6f7f96c9f1ba2732d6436d6b) | fix: refresh clan summaries after workspace preparation (sase-8i.3) | 2026-07-21 16:12:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`865d5c1`](https://github.com/sase-org/sase/commit/865d5c191e7fcecf6f7f96c9f1ba2732d6436d6b) | fix: refresh clan summaries after workspace preparation (sase-8i.3) | 2026-07-21 16:12:48 |
 
 ## Neighbors
 

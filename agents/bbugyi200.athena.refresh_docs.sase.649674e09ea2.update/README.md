@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`deb6d4c`](https://github.com/sase-org/sase/commit/deb6d4ca6df06df73297beaa907c6199f1d96e24) | docs: refresh SASE usage documentation | 2026-07-09 10:39:33 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`deb6d4c`](https://github.com/sase-org/sase/commit/deb6d4ca6df06df73297beaa907c6199f1d96e24) | docs: refresh SASE usage documentation | 2026-07-09 10:39:33 |
 
 ## Neighbors
 

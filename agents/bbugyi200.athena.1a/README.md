@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0fe1a25`](https://github.com/sase-org/sase/commit/0fe1a25efd7fe8851f90655a275f259974538030) | chore: Add SDD prompt and plan for telegram\_kill\_redo | 2026-06-03 07:14:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0fe1a25`](https://github.com/sase-org/sase/commit/0fe1a25efd7fe8851f90655a275f259974538030) | chore: Add SDD prompt and plan for telegram\_kill\_redo | 2026-06-03 07:14:27 |

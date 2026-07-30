@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fb5c558`](https://github.com/sase-org/sase/commit/fb5c558e636d259cfdc8c7d16be2ac30052317da) | docs: consolidate development install research | 2026-06-27 12:42:52 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fb5c558`](https://github.com/sase-org/sase/commit/fb5c558e636d259cfdc8c7d16be2ac30052317da) | docs: consolidate development install research | 2026-06-27 12:42:52 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6ad36d6`](https://github.com/sase-org/sase/commit/6ad36d67ef1121ca1094d8cb7cbb36d570d1ee64) | docs: clarify plan and prompt workflows | 2026-06-25 20:52:03 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6ad36d6`](https://github.com/sase-org/sase/commit/6ad36d67ef1121ca1094d8cb7cbb36d570d1ee64) | docs: clarify plan and prompt workflows | 2026-06-25 20:52:03 |
 
 ## Neighbors
 

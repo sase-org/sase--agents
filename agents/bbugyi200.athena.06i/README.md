@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f68c362`](https://github.com/sase-org/sase/commit/f68c362c78a4f7f4e28b2a25a7be9b358708fe5a) | chore: Add SDD prompt and plan for claimed\_agent\_reverts\_1 | 2026-06-25 20:57:38 |
-| [`5fd8741`](https://github.com/sase-org/sase/commit/5fd874121bef6eb10c9110def7d44b2a0bd2ae16) | feat(ace): claim fresh workspaces for agent reverts | 2026-06-25 21:20:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f68c362`](https://github.com/sase-org/sase/commit/f68c362c78a4f7f4e28b2a25a7be9b358708fe5a) | chore: Add SDD prompt and plan for claimed\_agent\_reverts\_1 | 2026-06-25 20:57:38 |
+| sase | [`5fd8741`](https://github.com/sase-org/sase/commit/5fd874121bef6eb10c9110def7d44b2a0bd2ae16) | feat(ace): claim fresh workspaces for agent reverts | 2026-06-25 21:20:56 |
 
 ## Neighbors
 

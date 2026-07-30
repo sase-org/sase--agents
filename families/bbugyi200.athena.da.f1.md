@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`d68b0a4`](https://github.com/sase-org/sase/commit/d68b0a461f8dd963b5506136e10700c7cb7b3994) | fix(ace): keep saved snippets live in prompt catalog | 2026-07-18 13:16:13 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`d68b0a4`](https://github.com/sase-org/sase/commit/d68b0a461f8dd963b5506136e10700c7cb7b3994) | fix(ace): keep saved snippets live in prompt catalog | 2026-07-18 13:16:13 |
 
 ## Neighbors
 

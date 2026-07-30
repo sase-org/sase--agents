@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`094ee4a`](https://github.com/sase-org/sase/commit/094ee4ab617c54e6308f212594d3cfec741ca69f) | docs: overhaul README and PyPI rendering | 2026-07-17 14:24:41 |
-| root | [`094ee4a`](https://github.com/sase-org/sase/commit/094ee4ab617c54e6308f212594d3cfec741ca69f) | docs: overhaul README and PyPI rendering | 2026-07-17 14:24:41 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`094ee4a`](https://github.com/sase-org/sase/commit/094ee4ab617c54e6308f212594d3cfec741ca69f) | docs: overhaul README and PyPI rendering | 2026-07-17 14:24:41 |
+| root | sase | [`094ee4a`](https://github.com/sase-org/sase/commit/094ee4ab617c54e6308f212594d3cfec741ca69f) | docs: overhaul README and PyPI rendering | 2026-07-17 14:24:41 |
 
 ## Neighbors
 

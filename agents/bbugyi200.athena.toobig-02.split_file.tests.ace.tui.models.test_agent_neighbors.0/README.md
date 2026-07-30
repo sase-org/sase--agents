@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c935d5d`](https://github.com/sase-org/sase/commit/c935d5dae72427117ec08432ba3cd4c40c0384bd) | test: split agent neighbor model tests | 2026-07-26 12:48:15 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c935d5d`](https://github.com/sase-org/sase/commit/c935d5dae72427117ec08432ba3cd4c40c0384bd) | test: split agent neighbor model tests | 2026-07-26 12:48:15 |
 
 ## Neighbors
 

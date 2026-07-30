@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`00f59d7`](https://github.com/sase-org/sase/commit/00f59d7fe1a70565df2e2b92bc03983880393eea) | chore: Add SDD prompt and plan for updates\_all\_current\_banner | 2026-07-08 00:40:42 |
-| root | [`ddf8496`](https://github.com/sase-org/sase/commit/ddf849668d025f99012b1f681620ca36dd96bf0f) | feat(tui): show all-current updates banner | 2026-07-08 00:58:16 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`00f59d7`](https://github.com/sase-org/sase/commit/00f59d7fe1a70565df2e2b92bc03983880393eea) | chore: Add SDD prompt and plan for updates\_all\_current\_banner | 2026-07-08 00:40:42 |
+| root | sase | [`ddf8496`](https://github.com/sase-org/sase/commit/ddf849668d025f99012b1f681620ca36dd96bf0f) | feat(tui): show all-current updates banner | 2026-07-08 00:58:16 |

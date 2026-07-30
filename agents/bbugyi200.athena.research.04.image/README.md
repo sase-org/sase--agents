@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fe5b816`](https://github.com/sase-org/sase/commit/fe5b816c422a05d4775d5ee63166d43be139cb93) | docs: add SASE rename research infographic | 2026-06-22 12:22:04 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fe5b816`](https://github.com/sase-org/sase/commit/fe5b816c422a05d4775d5ee63166d43be139cb93) | docs: add SASE rename research infographic | 2026-06-22 12:22:04 |
 
 ## Neighbors
 

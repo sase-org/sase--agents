@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9c40093`](https://github.com/sase-org/sase/commit/9c400939a9202481f53238ea9410d2442d3632b4) | fix(tui): align plan gate clipboard shortcuts | 2026-07-25 01:25:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9c40093`](https://github.com/sase-org/sase/commit/9c400939a9202481f53238ea9410d2442d3632b4) | fix(tui): align plan gate clipboard shortcuts | 2026-07-25 01:25:57 |

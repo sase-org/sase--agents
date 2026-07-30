@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1d2df4e`](https://github.com/sase-org/sase/commit/1d2df4eebb4d66f3d1d2c950c1356a176753cf06) | fix(plan-gates): preserve selected approval capabilities | 2026-07-17 12:06:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1d2df4e`](https://github.com/sase-org/sase/commit/1d2df4eebb4d66f3d1d2c950c1356a176753cf06) | fix(plan-gates): preserve selected approval capabilities | 2026-07-17 12:06:38 |

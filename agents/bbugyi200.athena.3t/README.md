@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6137dba`](https://github.com/sase-org/sase/commit/6137dbafecf1b8e80a8f32f6a0ad57952166a716) | feat(vcs): show SASE tags in log | 2026-07-09 17:33:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6137dba`](https://github.com/sase-org/sase/commit/6137dbafecf1b8e80a8f32f6a0ad57952166a716) | feat(vcs): show SASE tags in log | 2026-07-09 17:33:46 |
 
 ## Neighbors
 

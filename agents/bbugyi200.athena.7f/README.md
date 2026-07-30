@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f8ce046`](https://github.com/sase-org/sase/commit/f8ce04634a5a63dab59945ddb00bdeaaf4770feb) | chore: Add SDD prompt and plan for agent\_family\_context\_1 | 2026-06-14 17:11:04 |
-| [`64bd2fb`](https://github.com/sase-org/sase/commit/64bd2fbd66cc46b96a769af0e5a25fd319b7d724) | feat(ace): attribute agent-family context in metadata panel | 2026-06-14 17:35:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f8ce046`](https://github.com/sase-org/sase/commit/f8ce04634a5a63dab59945ddb00bdeaaf4770feb) | chore: Add SDD prompt and plan for agent\_family\_context\_1 | 2026-06-14 17:11:04 |
+| sase | [`64bd2fb`](https://github.com/sase-org/sase/commit/64bd2fbd66cc46b96a769af0e5a25fd319b7d724) | feat(ace): attribute agent-family context in metadata panel | 2026-06-14 17:35:54 |
 
 ## Neighbors
 

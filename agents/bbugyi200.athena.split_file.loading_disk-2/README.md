@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`16ec0c4`](https://github.com/sase-org/sase/commit/16ec0c4d462e24d5b5c8c9315b488fa064dd6940) | refactor(ace): split disk loading support | 2026-07-18 14:53:12 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`16ec0c4`](https://github.com/sase-org/sase/commit/16ec0c4d462e24d5b5c8c9315b488fa064dd6940) | refactor(ace): split disk loading support | 2026-07-18 14:53:12 |
 
 ## Neighbors
 

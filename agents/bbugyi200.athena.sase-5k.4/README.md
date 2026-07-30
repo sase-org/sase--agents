@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9851ae7`](https://github.com/sase-org/sase/commit/9851ae756a0d3aac6c801fc53bf99e549892313a) | docs: polish SASE launch post xprompt example (sase-5k.4) | 2026-07-08 05:24:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9851ae7`](https://github.com/sase-org/sase/commit/9851ae756a0d3aac6c801fc53bf99e549892313a) | docs: polish SASE launch post xprompt example (sase-5k.4) | 2026-07-08 05:24:39 |
 
 ## Neighbors
 

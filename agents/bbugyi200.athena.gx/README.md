@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`99fcb50`](https://github.com/sase-org/sase/commit/99fcb506b2daeac9f8314931b5f36247188d8678) | feat!: share word completion minimum length | 2026-07-21 12:36:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`99fcb50`](https://github.com/sase-org/sase/commit/99fcb506b2daeac9f8314931b5f36247188d8678) | feat!: share word completion minimum length | 2026-07-21 12:36:25 |

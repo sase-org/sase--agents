@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6249dbf`](https://github.com/sase-org/sase/commit/6249dbffeda44cf389959b977d043afb7e3589c1) | test: split agent display list rendering tests | 2026-06-29 13:18:18 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6249dbf`](https://github.com/sase-org/sase/commit/6249dbffeda44cf389959b977d043afb7e3589c1) | test: split agent display list rendering tests | 2026-06-29 13:18:18 |
 
 ## Neighbors
 

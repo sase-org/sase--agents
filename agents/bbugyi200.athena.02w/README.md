@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`089c49a`](https://github.com/sase-org/sase/commit/089c49a69e65b51a517baecf6beb8475342e51a9) | chore: Add SDD prompt and plan for startup\_stopwatch\_escalation\_colors | 2026-06-21 12:13:53 |
-| [`ec8c494`](https://github.com/sase-org/sase/commit/ec8c49412ee66f455c2f55dfcbb605f5d61529c5) | feat(tui): escalate startup stopwatch colors | 2026-06-21 12:22:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`089c49a`](https://github.com/sase-org/sase/commit/089c49a69e65b51a517baecf6beb8475342e51a9) | chore: Add SDD prompt and plan for startup\_stopwatch\_escalation\_colors | 2026-06-21 12:13:53 |
+| sase | [`ec8c494`](https://github.com/sase-org/sase/commit/ec8c49412ee66f455c2f55dfcbb605f5d61529c5) | feat(tui): escalate startup stopwatch colors | 2026-06-21 12:22:30 |

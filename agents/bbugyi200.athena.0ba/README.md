@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3e86a8a`](https://github.com/sase-org/sase/commit/3e86a8a46cab116822dc64c28b8b6fc4db7c5ad8) | chore: Add SDD prompt and plan for fix\_config\_schema\_wheel\_packaging | 2026-07-02 09:56:10 |
-| [`3580f1c`](https://github.com/sase-org/sase/commit/3580f1c68810f9409fd7dded341ea312cf39e8bf) | fix: package config schema in wheel | 2026-07-02 10:05:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3e86a8a`](https://github.com/sase-org/sase/commit/3e86a8a46cab116822dc64c28b8b6fc4db7c5ad8) | chore: Add SDD prompt and plan for fix\_config\_schema\_wheel\_packaging | 2026-07-02 09:56:10 |
+| sase | [`3580f1c`](https://github.com/sase-org/sase/commit/3580f1c68810f9409fd7dded341ea312cf39e8bf) | fix: package config schema in wheel | 2026-07-02 10:05:57 |

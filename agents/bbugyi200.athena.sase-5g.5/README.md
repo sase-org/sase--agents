@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`72fc527`](https://github.com/sase-org/sase/commit/72fc527b2286b8eea4e122cda332f13b24f97455) | feat: add file-backed custom agent-family roles (sase-5g.5) | 2026-07-06 11:18:16 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`72fc527`](https://github.com/sase-org/sase/commit/72fc527b2286b8eea4e122cda332f13b24f97455) | feat: add file-backed custom agent-family roles (sase-5g.5) | 2026-07-06 11:18:16 |
 
 ## Neighbors
 

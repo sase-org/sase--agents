@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`01da419`](https://github.com/sase-org/sase/commit/01da41927a323008f378f2a377d76405a4731135) | feat(agent)!: persist sequential family promotion (sase-6n.4) | 2026-07-17 23:44:01 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`01da419`](https://github.com/sase-org/sase/commit/01da41927a323008f378f2a377d76405a4731135) | feat(agent)!: persist sequential family promotion (sase-6n.4) | 2026-07-17 23:44:01 |
 
 ## Neighbors
 

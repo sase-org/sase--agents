@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1e44e03`](https://github.com/sase-org/sase/commit/1e44e0367cdc1fa4fbf81b9dde350de8c45a8103) | fix(ace): restore prompt-local placeholder precedence | 2026-07-29 12:54:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1e44e03`](https://github.com/sase-org/sase/commit/1e44e0367cdc1fa4fbf81b9dde350de8c45a8103) | fix(ace): restore prompt-local placeholder precedence | 2026-07-29 12:54:05 |
 
 ## Neighbors
 

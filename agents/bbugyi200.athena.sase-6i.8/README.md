@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3bbcfda`](https://github.com/sase-org/sase/commit/3bbcfda69c507fea23339bcb1a5ea3ecce4f3d80) | docs: document custom notification gates (sase-6i.8) | 2026-07-17 06:27:50 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3bbcfda`](https://github.com/sase-org/sase/commit/3bbcfda69c507fea23339bcb1a5ea3ecce4f3d80) | docs: document custom notification gates (sase-6i.8) | 2026-07-17 06:27:50 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d476196`](https://github.com/sase-org/sase/commit/d476196b63937321620a130f83ef10a2ff012f79) | test(ace): split update receipt tests | 2026-07-22 15:13:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d476196`](https://github.com/sase-org/sase/commit/d476196b63937321620a130f83ef10a2ff012f79) | test(ace): split update receipt tests | 2026-07-22 15:13:51 |
 
 ## Neighbors
 

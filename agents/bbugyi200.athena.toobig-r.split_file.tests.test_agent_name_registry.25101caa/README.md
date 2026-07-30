@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6711092`](https://github.com/sase-org/sase/commit/6711092605c19d3953b526d6b42204eef998d250) | test: split agent name registry tests | 2026-07-24 19:22:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6711092`](https://github.com/sase-org/sase/commit/6711092605c19d3953b526d6b42204eef998d250) | test: split agent name registry tests | 2026-07-24 19:22:45 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`41276df`](https://github.com/sase-org/sase/commit/41276df4425874ed8dc55641ec6543d5d46bc0d3) | test(beads): split claim tests by behavior | 2026-07-26 18:28:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`41276df`](https://github.com/sase-org/sase/commit/41276df4425874ed8dc55641ec6543d5d46bc0d3) | test(beads): split claim tests by behavior | 2026-07-26 18:28:39 |
 
 ## Neighbors
 

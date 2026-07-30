@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`df19d58`](https://github.com/sase-org/sase/commit/df19d586b53cd0db2f63d512178ff43e5ced770f) | feat(doctor): add disk resource diagnostic (sase-5l.3) | 2026-07-08 06:17:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`df19d58`](https://github.com/sase-org/sase/commit/df19d586b53cd0db2f63d512178ff43e5ced770f) | feat(doctor): add disk resource diagnostic (sase-5l.3) | 2026-07-08 06:17:51 |
 
 ## Neighbors
 

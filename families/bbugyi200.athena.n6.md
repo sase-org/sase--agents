@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`d4198f1`](https://github.com/sase-org/sase/commit/d4198f1cc9b1e87b361fd80b6e0f99c94c5cec27) | feat: illustrate agents sidecar lifecycle | 2026-07-28 17:17:44 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`d4198f1`](https://github.com/sase-org/sase/commit/d4198f1cc9b1e87b361fd80b6e0f99c94c5cec27) | feat: illustrate agents sidecar lifecycle | 2026-07-28 17:17:44 |
 
 ## Neighbors
 

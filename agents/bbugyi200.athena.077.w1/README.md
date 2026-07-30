@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4cd243a`](https://github.com/sase-org/sase/commit/4cd243a5d0fbd9dc5caf85cb223e54ea3e0d8e7e) | chore: Add SDD prompt and plan for tasks\_admin\_center\_tab | 2026-06-26 21:32:31 |
-| [`f14944c`](https://github.com/sase-org/sase/commit/f14944cf58337f740d8cfa85411fdb30a63c6957) | feat(ace)!: move task queue into admin center | 2026-06-26 22:05:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4cd243a`](https://github.com/sase-org/sase/commit/4cd243a5d0fbd9dc5caf85cb223e54ea3e0d8e7e) | chore: Add SDD prompt and plan for tasks\_admin\_center\_tab | 2026-06-26 21:32:31 |
+| sase | [`f14944c`](https://github.com/sase-org/sase/commit/f14944cf58337f740d8cfa85411fdb30a63c6957) | feat(ace)!: move task queue into admin center | 2026-06-26 22:05:51 |
 
 ## Neighbors
 

@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`df67fec`](https://github.com/sase-org/sase/commit/df67fecb82eac898295074432b934d76a82d33b9) | feat(tui): render fenced code blocks as full-width cards | 2026-07-14 15:20:36 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`df67fec`](https://github.com/sase-org/sase/commit/df67fecb82eac898295074432b934d76a82d33b9) | feat(tui): render fenced code blocks as full-width cards | 2026-07-14 15:20:36 |
 
 ## Neighbors
 

@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0a043b3`](https://github.com/sase-org/sase/commit/0a043b3466e070419f2689938afb4d306d1e60ff) | chore: Add SDD prompt and plan for ctrl\_s\_stash\_prompt | 2026-06-24 11:54:42 |
-| [`b81437a`](https://github.com/sase-org/sase/commit/b81437a8b4198f2197e1889ebd43e267319dea16) | feat!: rebind prompt stash shortcuts | 2026-06-24 12:11:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0a043b3`](https://github.com/sase-org/sase/commit/0a043b3466e070419f2689938afb4d306d1e60ff) | chore: Add SDD prompt and plan for ctrl\_s\_stash\_prompt | 2026-06-24 11:54:42 |
+| sase | [`b81437a`](https://github.com/sase-org/sase/commit/b81437a8b4198f2197e1889ebd43e267319dea16) | feat!: rebind prompt stash shortcuts | 2026-06-24 12:11:22 |

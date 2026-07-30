@@ -22,11 +22,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`ca8d0c5`](https://github.com/sase-org/sase/commit/ca8d0c5bde01a10b665436c98aa8384b87eacc11) | chore: Add SDD prompt and plan for project\_management\_inactive\_vcs\_launch | 2026-06-02 22:25:42 |
-| root | [`2559e8a`](https://github.com/sase-org/sase/commit/2559e8a3e60738007375ef68f26525913ab36f22) | feat: reactivate inactive project refs on launch | 2026-06-02 22:52:30 |
-| root | [`1c21d26`](https://github.com/sase-org/sase/commit/1c21d266a286f0b52f505556813970862bb16788) | feat(tui): add vim + readline editing to config edit inputs | 2026-07-05 23:12:53 |
-| root | [`02c54c6`](https://github.com/sase-org/sase/commit/02c54c6392702035d1c28098565cc7a61d299a10) | chore: Add SDD prompt and plan for kill\_waiting\_agents\_pid\_fallback | 2026-07-07 04:32:05 |
-| code | [`2601f87`](https://github.com/sase-org/sase/commit/2601f87b3e4660b1d285bd302010e227fd159397) | fix(agent): clean up stale waiting agents on kill | 2026-07-07 04:49:53 |
-| root | [`2601f87`](https://github.com/sase-org/sase/commit/2601f87b3e4660b1d285bd302010e227fd159397) | fix(agent): clean up stale waiting agents on kill | 2026-07-07 04:49:53 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`ca8d0c5`](https://github.com/sase-org/sase/commit/ca8d0c5bde01a10b665436c98aa8384b87eacc11) | chore: Add SDD prompt and plan for project\_management\_inactive\_vcs\_launch | 2026-06-02 22:25:42 |
+| root | sase | [`2559e8a`](https://github.com/sase-org/sase/commit/2559e8a3e60738007375ef68f26525913ab36f22) | feat: reactivate inactive project refs on launch | 2026-06-02 22:52:30 |
+| root | sase | [`1c21d26`](https://github.com/sase-org/sase/commit/1c21d266a286f0b52f505556813970862bb16788) | feat(tui): add vim + readline editing to config edit inputs | 2026-07-05 23:12:53 |
+| root | sase | [`02c54c6`](https://github.com/sase-org/sase/commit/02c54c6392702035d1c28098565cc7a61d299a10) | chore: Add SDD prompt and plan for kill\_waiting\_agents\_pid\_fallback | 2026-07-07 04:32:05 |
+| code | sase | [`2601f87`](https://github.com/sase-org/sase/commit/2601f87b3e4660b1d285bd302010e227fd159397) | fix(agent): clean up stale waiting agents on kill | 2026-07-07 04:49:53 |
+| root | sase | [`2601f87`](https://github.com/sase-org/sase/commit/2601f87b3e4660b1d285bd302010e227fd159397) | fix(agent): clean up stale waiting agents on kill | 2026-07-07 04:49:53 |

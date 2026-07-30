@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5b56b56`](https://github.com/sase-org/sase/commit/5b56b56e3cde0224f22101e4d345f5a5f3959289) | feat(ace): polish statistics help and visual coverage (sase-8a.4) | 2026-07-20 19:50:28 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5b56b56`](https://github.com/sase-org/sase/commit/5b56b56e3cde0224f22101e4d345f5a5f3959289) | feat(ace): polish statistics help and visual coverage (sase-8a.4) | 2026-07-20 19:50:28 |
 
 ## Neighbors
 

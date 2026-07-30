@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0f8ee16`](https://github.com/sase-org/sase/commit/0f8ee16bdd09804b8fde0692c5fb473d07ba18ea) | chore: Add research on xprompt skill description progressive disclosure | 2026-07-07 16:22:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0f8ee16`](https://github.com/sase-org/sase/commit/0f8ee16bdd09804b8fde0692c5fb473d07ba18ea) | chore: Add research on xprompt skill description progressive disclosure | 2026-07-07 16:22:05 |
 
 ## Neighbors
 

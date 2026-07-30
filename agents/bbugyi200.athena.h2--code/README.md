@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1026740`](https://github.com/sase-org/sase/commit/1026740c50ef4383bb739267fdb2b7e9e9cde57c) | feat(ace): default Artifacts to Commits | 2026-07-21 14:36:47 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1026740`](https://github.com/sase-org/sase/commit/1026740c50ef4383bb739267fdb2b7e9e9cde57c) | feat(ace): default Artifacts to Commits | 2026-07-21 14:36:47 |

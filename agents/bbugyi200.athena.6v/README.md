@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e9f33ee`](https://github.com/sase-org/sase/commit/e9f33ee31174ba8380eeed895782797a8b5cdc8a) | chore: Add SDD prompt and plan for repeat\_stop\_variable | 2026-06-13 20:05:57 |
-| [`cf9d54a`](https://github.com/sase-org/sase/commit/cf9d54a8916cc55cf49e083f5eaeb079ddce3666) | feat(repeat): add STOP output variable to halt later repeat slots | 2026-06-13 20:24:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e9f33ee`](https://github.com/sase-org/sase/commit/e9f33ee31174ba8380eeed895782797a8b5cdc8a) | chore: Add SDD prompt and plan for repeat\_stop\_variable | 2026-06-13 20:05:57 |
+| sase | [`cf9d54a`](https://github.com/sase-org/sase/commit/cf9d54a8916cc55cf49e083f5eaeb079ddce3666) | feat(repeat): add STOP output variable to halt later repeat slots | 2026-06-13 20:24:13 |

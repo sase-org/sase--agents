@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`461c619`](https://github.com/sase-org/sase/commit/461c6196d1df648a0cb97ac61213e2d51f27565a) | chore: Add SDD prompt and plan for first\_blog\_post | 2026-07-08 03:59:30 |
-| [`05ec540`](https://github.com/sase-org/sase/commit/05ec54063c2b2fa993caf4223f5aeb3150ecaa83) | chore: create first blog post epic beads | 2026-07-08 04:08:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`461c619`](https://github.com/sase-org/sase/commit/461c6196d1df648a0cb97ac61213e2d51f27565a) | chore: Add SDD prompt and plan for first\_blog\_post | 2026-07-08 03:59:30 |
+| sase | [`05ec540`](https://github.com/sase-org/sase/commit/05ec54063c2b2fa993caf4223f5aeb3150ecaa83) | chore: create first blog post epic beads | 2026-07-08 04:08:22 |

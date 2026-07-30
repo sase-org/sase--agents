@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e965101`](https://github.com/sase-org/sase/commit/e96510106d45be3afae9216a3cc5589c7857918e) | docs: rewrite SASE launch essay | 2026-06-14 19:10:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e965101`](https://github.com/sase-org/sase/commit/e96510106d45be3afae9216a3cc5589c7857918e) | docs: rewrite SASE launch essay | 2026-06-14 19:10:45 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`41a89aa`](https://github.com/sase-org/sase/commit/41a89aafb325b9b38900ee86b151ff30efaf365d) | test: split alias view tests by behavior | 2026-07-21 17:00:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`41a89aa`](https://github.com/sase-org/sase/commit/41a89aafb325b9b38900ee86b151ff30efaf365d) | test: split alias view tests by behavior | 2026-07-21 17:00:45 |
 
 ## Neighbors
 

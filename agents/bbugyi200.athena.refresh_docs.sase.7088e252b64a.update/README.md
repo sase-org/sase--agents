@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`419991d`](https://github.com/sase-org/sase/commit/419991d223bc95cf707ebad8de461c39e98b99f4) | fix: document generated skills CLI | 2026-05-26 23:59:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`419991d`](https://github.com/sase-org/sase/commit/419991d223bc95cf707ebad8de461c39e98b99f4) | fix: document generated skills CLI | 2026-05-26 23:59:45 |
 
 ## Neighbors
 

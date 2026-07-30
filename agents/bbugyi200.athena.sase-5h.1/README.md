@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0547413`](https://github.com/sase-org/sase/commit/0547413c10677ea6bce1505597a7ea0934ac7f19) | feat: add VCS repo completion foundations (sase-5h.1) | 2026-07-07 17:45:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0547413`](https://github.com/sase-org/sase/commit/0547413c10677ea6bce1505597a7ea0934ac7f19) | feat: add VCS repo completion foundations (sase-5h.1) | 2026-07-07 17:45:21 |
 
 ## Neighbors
 

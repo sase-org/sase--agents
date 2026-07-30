@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b06c908`](https://github.com/sase-org/sase/commit/b06c908cc93467bc2c28e40e4b03e889c9603327) | chore: Add SDD prompt and plan for codex\_provider\_retry | 2026-06-03 05:32:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b06c908`](https://github.com/sase-org/sase/commit/b06c908cc93467bc2c28e40e4b03e889c9603327) | chore: Add SDD prompt and plan for codex\_provider\_retry | 2026-06-03 05:32:48 |

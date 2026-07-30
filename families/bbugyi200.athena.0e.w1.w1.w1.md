@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`63ea7d9`](https://github.com/sase-org/sase/commit/63ea7d9da3c218564a52ce03ee3c0f2b39fe73dd) | chore: Add SDD prompt and plan for merge\_help\_and\_tab\_guide\_panels | 2026-07-07 17:05:39 |
-| root | [`0862efa`](https://github.com/sase-org/sase/commit/0862efa745f91bd5687d7d34d81b4fece50eb2f7) | feat(ace)!: merge tab guide into help panel | 2026-07-07 17:34:59 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`63ea7d9`](https://github.com/sase-org/sase/commit/63ea7d9da3c218564a52ce03ee3c0f2b39fe73dd) | chore: Add SDD prompt and plan for merge\_help\_and\_tab\_guide\_panels | 2026-07-07 17:05:39 |
+| root | sase | [`0862efa`](https://github.com/sase-org/sase/commit/0862efa745f91bd5687d7d34d81b4fece50eb2f7) | feat(ace)!: merge tab guide into help panel | 2026-07-07 17:34:59 |
 
 ## Neighbors
 

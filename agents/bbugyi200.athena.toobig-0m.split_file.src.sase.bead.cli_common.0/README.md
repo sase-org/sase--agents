@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d128e24`](https://github.com/sase-org/sase/commit/d128e2405d2d3459577584d526b0174c84675ca3) | refactor(bead): split CLI location resolution | 2026-07-28 11:39:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d128e24`](https://github.com/sase-org/sase/commit/d128e2405d2d3459577584d526b0174c84675ca3) | refactor(bead): split CLI location resolution | 2026-07-28 11:39:39 |
 
 ## Neighbors
 

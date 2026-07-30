@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f17ccbf`](https://github.com/sase-org/sase/commit/f17ccbf8f5b365ff83d5fc77d180feeab7739ca1) | fix(ace): clarify cached agent hood update copy (sase-92.6) | 2026-07-25 14:44:49 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f17ccbf`](https://github.com/sase-org/sase/commit/f17ccbf8f5b365ff83d5fc77d180feeab7739ca1) | fix(ace): clarify cached agent hood update copy (sase-92.6) | 2026-07-25 14:44:49 |
 
 ## Neighbors
 

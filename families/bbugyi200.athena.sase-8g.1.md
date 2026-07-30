@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`84da472`](https://github.com/sase-org/sase/commit/84da4721c2f13a922590d1b30aea64b658b48aab) | fix: make suffix transforms merge current ChangeSpec state (sase-8g.1) | 2026-07-20 21:08:48 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`84da472`](https://github.com/sase-org/sase/commit/84da4721c2f13a922590d1b30aea64b658b48aab) | fix: make suffix transforms merge current ChangeSpec state (sase-8g.1) | 2026-07-20 21:08:48 |
 
 ## Neighbors
 

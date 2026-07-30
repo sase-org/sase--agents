@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3ddfab3`](https://github.com/sase-org/sase/commit/3ddfab3438e099cc59bdd759f59a7f4f318369e2) | chore: Add SDD prompt and plan for telegram\_sequential\_questions | 2026-06-26 23:13:21 |
-| [`17cb037`](https://github.com/sase-org/sase/commit/17cb037f4b361a3421868ed367b08c120444e7d6) | chore: Mark SDD plan done | 2026-06-27 00:01:12 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3ddfab3`](https://github.com/sase-org/sase/commit/3ddfab3438e099cc59bdd759f59a7f4f318369e2) | chore: Add SDD prompt and plan for telegram\_sequential\_questions | 2026-06-26 23:13:21 |
+| sase | [`17cb037`](https://github.com/sase-org/sase/commit/17cb037f4b361a3421868ed367b08c120444e7d6) | chore: Mark SDD plan done | 2026-06-27 00:01:12 |

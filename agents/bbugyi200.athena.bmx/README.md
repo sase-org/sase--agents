@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`af84c63`](https://github.com/sase-org/sase/commit/af84c6397960540892a9f1267a167fb41e047f4b) | chore: Add SDD prompt and plan for local\_reads\_xprompt | 2026-05-28 12:23:59 |
-| [`acfd193`](https://github.com/sase-org/sase/commit/acfd193c40bebd283c4e5f20bb777fc40262e8c9) | feat: support local helpers in markdown xprompts | 2026-05-28 12:40:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`af84c63`](https://github.com/sase-org/sase/commit/af84c6397960540892a9f1267a167fb41e047f4b) | chore: Add SDD prompt and plan for local\_reads\_xprompt | 2026-05-28 12:23:59 |
+| sase | [`acfd193`](https://github.com/sase-org/sase/commit/acfd193c40bebd283c4e5f20bb777fc40262e8c9) | feat: support local helpers in markdown xprompts | 2026-05-28 12:40:56 |

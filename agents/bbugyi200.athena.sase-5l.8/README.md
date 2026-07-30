@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`35d813f`](https://github.com/sase-org/sase/commit/35d813fb2df084180bd70d353e7b422fd044071a) | feat(doctor): add fzf tool diagnostic (sase-5l.8) | 2026-07-08 07:29:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`35d813f`](https://github.com/sase-org/sase/commit/35d813fb2df084180bd70d353e7b422fd044071a) | feat(doctor): add fzf tool diagnostic (sase-5l.8) | 2026-07-08 07:29:24 |
 
 ## Neighbors
 

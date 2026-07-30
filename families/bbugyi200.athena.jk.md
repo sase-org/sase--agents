@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`abf8dd3`](https://github.com/sase-org/sase/commit/abf8dd3c48d446a3148d860af34cd7dbb6fe4e95) | feat(models): clarify alias ownership in Models panel | 2026-07-24 18:59:59 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`abf8dd3`](https://github.com/sase-org/sase/commit/abf8dd3c48d446a3148d860af34cd7dbb6fe4e95) | feat(models): clarify alias ownership in Models panel | 2026-07-24 18:59:59 |
 
 ## Neighbors
 

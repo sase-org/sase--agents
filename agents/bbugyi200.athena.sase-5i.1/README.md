@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`52349bd`](https://github.com/sase-org/sase/commit/52349bdf0c64920942ee50d885c87f158e895111) | feat: add VCS ref completion foundations (sase-5i.1) | 2026-07-07 20:47:07 |
-| [`0fcf8a2`](https://github.com/sase-org/sase/commit/0fcf8a203584482ea474d9479e9a80839177bc46) | test: update agent detail fake for tools footer | 2026-07-07 20:52:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`52349bd`](https://github.com/sase-org/sase/commit/52349bdf0c64920942ee50d885c87f158e895111) | feat: add VCS ref completion foundations (sase-5i.1) | 2026-07-07 20:47:07 |
+| sase | [`0fcf8a2`](https://github.com/sase-org/sase/commit/0fcf8a203584482ea474d9479e9a80839177bc46) | test: update agent detail fake for tools footer | 2026-07-07 20:52:27 |
 
 ## Neighbors
 

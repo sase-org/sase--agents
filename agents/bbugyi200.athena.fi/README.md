@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`aefb7a7`](https://github.com/sase-org/sase/commit/aefb7a7a3b3ae6cfb28d22025d39cccd5f4e38ca) | feat(ace): configure tribe panel displays | 2026-07-19 23:27:01 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`aefb7a7`](https://github.com/sase-org/sase/commit/aefb7a7a3b3ae6cfb28d22025d39cccd5f4e38ca) | feat(ace): configure tribe panel displays | 2026-07-19 23:27:01 |
 
 ## Neighbors
 

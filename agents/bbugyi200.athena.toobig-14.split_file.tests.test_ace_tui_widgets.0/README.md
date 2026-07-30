@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`da13da8`](https://github.com/sase-org/sase/commit/da13da81e7416bbb51a33287e29cd005af943823) | test: split ace TUI widget tests | 2026-07-30 13:43:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`da13da8`](https://github.com/sase-org/sase/commit/da13da81e7416bbb51a33287e29cd005af943823) | test: split ace TUI widget tests | 2026-07-30 13:43:46 |
 
 ## Neighbors
 

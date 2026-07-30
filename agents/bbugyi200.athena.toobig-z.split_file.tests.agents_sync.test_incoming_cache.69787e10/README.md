@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ee25f9f`](https://github.com/sase-org/sase/commit/ee25f9f3ca059d4989c60468066adfebbedb38e5) | test(agents\_sync): split incoming cache tests into focused modules | 2026-07-25 15:53:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ee25f9f`](https://github.com/sase-org/sase/commit/ee25f9f3ca059d4989c60468066adfebbedb38e5) | test(agents\_sync): split incoming cache tests into focused modules | 2026-07-25 15:53:23 |

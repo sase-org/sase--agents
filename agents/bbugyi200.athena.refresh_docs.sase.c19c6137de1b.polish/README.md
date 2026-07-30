@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e72f2dc`](https://github.com/sase-org/sase/commit/e72f2dc273473a2ffe5895f6661a2d2b0d890c46) | docs: clarify ACE workflow references | 2026-06-26 17:46:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e72f2dc`](https://github.com/sase-org/sase/commit/e72f2dc273473a2ffe5895f6661a2d2b0d890c46) | docs: clarify ACE workflow references | 2026-06-26 17:46:29 |
 
 ## Neighbors
 

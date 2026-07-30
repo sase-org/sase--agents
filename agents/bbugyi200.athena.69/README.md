@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7a4e0aa`](https://github.com/sase-org/sase/commit/7a4e0aa43156f74c7da77b335bf0b5fcefde9964) | chore: Add SDD prompt and plan for ace\_macbook\_sqlite\_sigbus | 2026-06-13 13:08:16 |
-| [`265f3e9`](https://github.com/sase-org/sase/commit/265f3e90be0b37298aa26b3582b45accaf072a03) | fix: serialize artifact index startup maintenance | 2026-06-13 13:27:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7a4e0aa`](https://github.com/sase-org/sase/commit/7a4e0aa43156f74c7da77b335bf0b5fcefde9964) | chore: Add SDD prompt and plan for ace\_macbook\_sqlite\_sigbus | 2026-06-13 13:08:16 |
+| sase | [`265f3e9`](https://github.com/sase-org/sase/commit/265f3e90be0b37298aa26b3582b45accaf072a03) | fix: serialize artifact index startup maintenance | 2026-06-13 13:27:05 |
 
 ## Neighbors
 

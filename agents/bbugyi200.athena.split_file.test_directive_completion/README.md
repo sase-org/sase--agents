@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3521d17`](https://github.com/sase-org/sase/commit/3521d1749807af186d06ad865a2734fe99741d8d) | test: split directive completion tests | 2026-06-24 22:26:28 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3521d17`](https://github.com/sase-org/sase/commit/3521d1749807af186d06ad865a2734fe99741d8d) | test: split directive completion tests | 2026-06-24 22:26:28 |
 
 ## Neighbors
 

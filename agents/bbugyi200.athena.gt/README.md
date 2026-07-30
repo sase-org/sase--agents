@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7630f7f`](https://github.com/sase-org/sase/commit/7630f7f26273eb6c02ee97c56ea833e8258d5ffd) | fix(tui): highlight selected collapsed tribe titles | 2026-07-21 12:15:26 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7630f7f`](https://github.com/sase-org/sase/commit/7630f7f26273eb6c02ee97c56ea833e8258d5ffd) | fix(tui): highlight selected collapsed tribe titles | 2026-07-21 12:15:26 |

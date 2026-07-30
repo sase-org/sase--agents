@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b1ed4ec`](https://github.com/sase-org/sase/commit/b1ed4ec21d9ff5197f0b4c9254fc47ca47b3d68e) | refactor(agents-sync): split incoming cache module | 2026-07-24 22:50:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b1ed4ec`](https://github.com/sase-org/sase/commit/b1ed4ec21d9ff5197f0b4c9254fc47ca47b3d68e) | refactor(agents-sync): split incoming cache module | 2026-07-24 22:50:23 |
 
 ## Neighbors
 

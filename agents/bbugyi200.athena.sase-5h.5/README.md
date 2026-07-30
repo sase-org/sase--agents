@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2768b11`](https://github.com/sase-org/sase/commit/2768b11bf9893bdf9c6f396dfafaa8bbdf901baa) | chore(beads): close sase-5h.5 | 2026-07-07 18:33:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2768b11`](https://github.com/sase-org/sase/commit/2768b11bf9893bdf9c6f396dfafaa8bbdf901baa) | chore(beads): close sase-5h.5 | 2026-07-07 18:33:38 |
 
 ## Neighbors
 

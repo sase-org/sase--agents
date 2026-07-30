@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`96fe7e7`](https://github.com/sase-org/sase/commit/96fe7e78af7e3cb687d2cef83c91713229fc6663) | feat: route large epic landers through smartest alias | 2026-07-21 15:57:20 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`96fe7e7`](https://github.com/sase-org/sase/commit/96fe7e78af7e3cb687d2cef83c91713229fc6663) | feat: route large epic landers through smartest alias | 2026-07-21 15:57:20 |
 
 ## Neighbors
 

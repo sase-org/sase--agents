@@ -22,11 +22,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`80eb745`](https://github.com/sase-org/sase/commit/80eb745fd24d9ce1c2f8a1cfd68db0f6e8810f49) | chore: Add SDD prompt and plan for chezmoi\_model\_aliases\_migration | 2026-07-03 17:08:53 |
-| root | [`00c6cc4`](https://github.com/sase-org/sase/commit/00c6cc4b0ea5262ca8c0d092a3cc6084e231fe8c) | chore: Add SDD prompt and plan for linked\_repo\_sibling\_state\_root\_cause | 2026-07-06 22:12:52 |
-| root | [`c3de387`](https://github.com/sase-org/sase/commit/c3de3870ef61231e4ca2b3dd90075f63ad860b34) | fix: materialize linked repos as sibling projects | 2026-07-06 22:24:42 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`80eb745`](https://github.com/sase-org/sase/commit/80eb745fd24d9ce1c2f8a1cfd68db0f6e8810f49) | chore: Add SDD prompt and plan for chezmoi\_model\_aliases\_migration | 2026-07-03 17:08:53 |
+| root | sase | [`00c6cc4`](https://github.com/sase-org/sase/commit/00c6cc4b0ea5262ca8c0d092a3cc6084e231fe8c) | chore: Add SDD prompt and plan for linked\_repo\_sibling\_state\_root\_cause | 2026-07-06 22:12:52 |
+| root | sase | [`c3de387`](https://github.com/sase-org/sase/commit/c3de3870ef61231e4ca2b3dd90075f63ad860b34) | fix: materialize linked repos as sibling projects | 2026-07-06 22:24:42 |
 
 ## Neighbors
 

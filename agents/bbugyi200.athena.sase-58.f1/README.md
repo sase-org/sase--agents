@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5c032de`](https://github.com/sase-org/sase/commit/5c032de22fb3556df6d5e2710a965d92a78208a6) | chore: Add SDD prompt and plan for plugin\_version\_indicators | 2026-06-26 11:13:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5c032de`](https://github.com/sase-org/sase/commit/5c032de22fb3556df6d5e2710a965d92a78208a6) | chore: Add SDD prompt and plan for plugin\_version\_indicators | 2026-06-26 11:13:11 |
 
 ## Neighbors
 

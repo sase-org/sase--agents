@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cafc0d4`](https://github.com/sase-org/sase/commit/cafc0d40654f9867bdb7907d746b96f75e58a48b) | chore: close release audit bead (sase-4e.6) | 2026-06-08 17:42:59 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cafc0d4`](https://github.com/sase-org/sase/commit/cafc0d40654f9867bdb7907d746b96f75e58a48b) | chore: close release audit bead (sase-4e.6) | 2026-06-08 17:42:59 |
 
 ## Neighbors
 

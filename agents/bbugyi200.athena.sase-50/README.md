@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cb54659`](https://github.com/sase-org/sase/commit/cb54659c5ff4b04938e392f039e116dcb9192aa7) | chore: Add SDD prompt and plan for agy\_provider\_final\_gap (sase-50) | 2026-06-20 01:49:36 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cb54659`](https://github.com/sase-org/sase/commit/cb54659c5ff4b04938e392f039e116dcb9192aa7) | chore: Add SDD prompt and plan for agy\_provider\_final\_gap (sase-50) | 2026-06-20 01:49:36 |
 
 ## Neighbors
 

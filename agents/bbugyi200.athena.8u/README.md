@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0b42943`](https://github.com/sase-org/sase/commit/0b42943cfe127d92780e3b6dc7c32c2d9e5ecd61) | chore: Add SDD prompt and plan for agent\_name\_brackets | 2026-06-16 14:25:24 |
-| [`fde6594`](https://github.com/sase-org/sase/commit/fde659437dcdc9aac154ee0572f8816ac9320bf5) | feat(tui): render agent names with brackets in Agents tab | 2026-06-16 14:47:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0b42943`](https://github.com/sase-org/sase/commit/0b42943cfe127d92780e3b6dc7c32c2d9e5ecd61) | chore: Add SDD prompt and plan for agent\_name\_brackets | 2026-06-16 14:25:24 |
+| sase | [`fde6594`](https://github.com/sase-org/sase/commit/fde659437dcdc9aac154ee0572f8816ac9320bf5) | feat(tui): render agent names with brackets in Agents tab | 2026-06-16 14:47:02 |
 
 ## Neighbors
 

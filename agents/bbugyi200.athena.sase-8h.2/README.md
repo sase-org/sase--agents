@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f9345e7`](https://github.com/sase-org/sase/commit/f9345e7c11bedb3b947dc2e17ae65d7b2e6d6d72) | fix(vcs): make commit collection truncation-aware (sase-8h.2) | 2026-07-21 15:18:31 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f9345e7`](https://github.com/sase-org/sase/commit/f9345e7c11bedb3b947dc2e17ae65d7b2e6d6d72) | fix(vcs): make commit collection truncation-aware (sase-8h.2) | 2026-07-21 15:18:31 |
 
 ## Neighbors
 

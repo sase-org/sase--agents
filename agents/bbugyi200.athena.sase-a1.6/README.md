@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6ad452e`](https://github.com/sase-org/sase/commit/6ad452e1e84d47bafc39eb3a2850a954a1891768) | docs(beads): document truthful completion contract (sase-a1.6) | 2026-07-27 21:17:33 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6ad452e`](https://github.com/sase-org/sase/commit/6ad452e1e84d47bafc39eb3a2850a954a1891768) | docs(beads): document truthful completion contract (sase-a1.6) | 2026-07-27 21:17:33 |
 
 ## Neighbors
 

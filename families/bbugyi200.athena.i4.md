@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`679a41b`](https://github.com/sase-org/sase/commit/679a41b42eaed4821cfa699139d3088f804cbd77) | fix(ace): restore arrival bell for plan reviews | 2026-07-22 13:39:47 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`679a41b`](https://github.com/sase-org/sase/commit/679a41b42eaed4821cfa699139d3088f804cbd77) | fix(ace): restore arrival bell for plan reviews | 2026-07-22 13:39:47 |

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2d4d27e`](https://github.com/sase-org/sase/commit/2d4d27eaef33ccc35f02220e2e1663143c53cf6f) | docs(glossary): document \`+\` VCS project completion (sase-4z.5) | 2026-06-19 16:10:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2d4d27e`](https://github.com/sase-org/sase/commit/2d4d27eaef33ccc35f02220e2e1663143c53cf6f) | docs(glossary): document \`+\` VCS project completion (sase-4z.5) | 2026-06-19 16:10:21 |
 
 ## Neighbors
 

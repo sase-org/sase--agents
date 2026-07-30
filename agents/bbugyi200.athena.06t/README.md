@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`235d8a6`](https://github.com/sase-org/sase/commit/235d8a6c263cd960edfefc03423335035e4cf87b) | feat(plugin): show latest version indicators | 2026-06-26 11:42:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`235d8a6`](https://github.com/sase-org/sase/commit/235d8a6c263cd960edfefc03423335035e4cf87b) | feat(plugin): show latest version indicators | 2026-06-26 11:42:06 |
 
 ## Neighbors
 

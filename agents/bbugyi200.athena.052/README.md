@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7d2c099`](https://github.com/sase-org/sase/commit/7d2c099fdf84fb6b75c831a46681a320558f9f00) | chore: Add SDD prompt and plan for fix\_followup\_agent\_default\_effort | 2026-06-24 11:15:44 |
-| [`06bfa10`](https://github.com/sase-org/sase/commit/06bfa1070a65b4fa8f8b63e52d95117f3dbbd796) | fix: persist follow-up reasoning effort | 2026-06-24 11:29:04 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7d2c099`](https://github.com/sase-org/sase/commit/7d2c099fdf84fb6b75c831a46681a320558f9f00) | chore: Add SDD prompt and plan for fix\_followup\_agent\_default\_effort | 2026-06-24 11:15:44 |
+| sase | [`06bfa10`](https://github.com/sase-org/sase/commit/06bfa1070a65b4fa8f8b63e52d95117f3dbbd796) | fix: persist follow-up reasoning effort | 2026-06-24 11:29:04 |

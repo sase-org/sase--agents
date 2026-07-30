@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`126a4fc`](https://github.com/sase-org/sase/commit/126a4fc48e1f8d1def7f20334676d856077a1987) | chore: Add SDD prompt and plan for project\_management\_active\_filter\_1 | 2026-06-02 15:51:30 |
-| [`c38c594`](https://github.com/sase-org/sase/commit/c38c59425bd6377a7d9626c7c9a157d56201244d) | feat: default project management filter to active | 2026-06-02 15:57:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`126a4fc`](https://github.com/sase-org/sase/commit/126a4fc48e1f8d1def7f20334676d856077a1987) | chore: Add SDD prompt and plan for project\_management\_active\_filter\_1 | 2026-06-02 15:51:30 |
+| sase | [`c38c594`](https://github.com/sase-org/sase/commit/c38c59425bd6377a7d9626c7c9a157d56201244d) | feat: default project management filter to active | 2026-06-02 15:57:42 |
 
 ## Neighbors
 

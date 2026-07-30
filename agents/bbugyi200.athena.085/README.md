@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ae15fcb`](https://github.com/sase-org/sase/commit/ae15fcbed0c783c0a5ce9b6af4fe2183633202cb) | chore: Add SDD prompt and plan for yaml\_literal\_chomping | 2026-06-27 17:19:53 |
-| [`4f23848`](https://github.com/sase-org/sase/commit/4f2384867e67f2e1eb5664b734f2190a5c6838c8) | fix(xprompt): use strip-chomped block scalars for config-saved entries | 2026-06-27 17:30:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ae15fcb`](https://github.com/sase-org/sase/commit/ae15fcbed0c783c0a5ce9b6af4fe2183633202cb) | chore: Add SDD prompt and plan for yaml\_literal\_chomping | 2026-06-27 17:19:53 |
+| sase | [`4f23848`](https://github.com/sase-org/sase/commit/4f2384867e67f2e1eb5664b734f2190a5c6838c8) | fix(xprompt): use strip-chomped block scalars for config-saved entries | 2026-06-27 17:30:07 |

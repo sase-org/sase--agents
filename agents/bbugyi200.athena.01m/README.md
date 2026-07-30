@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2f4a707`](https://github.com/sase-org/sase/commit/2f4a707b680fad7617da540053f529e10b8f613a) | chore: Add SDD prompt and plan for changespec\_vcs\_completion | 2026-06-19 21:41:06 |
-| [`8034d33`](https://github.com/sase-org/sase/commit/8034d33578674992ba988a4e1df4d155aa99aeb6) | feat(xprompt): include PRs in VCS completion | 2026-06-19 21:59:33 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2f4a707`](https://github.com/sase-org/sase/commit/2f4a707b680fad7617da540053f529e10b8f613a) | chore: Add SDD prompt and plan for changespec\_vcs\_completion | 2026-06-19 21:41:06 |
+| sase | [`8034d33`](https://github.com/sase-org/sase/commit/8034d33578674992ba988a4e1df4d155aa99aeb6) | feat(xprompt): include PRs in VCS completion | 2026-06-19 21:59:33 |

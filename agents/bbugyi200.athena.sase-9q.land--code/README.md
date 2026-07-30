@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f5f30f9`](https://github.com/sase-org/sase/commit/f5f30f91e6f5c76b02d58b371d64761910448e39) | feat(ace): honor xprompt placeholder argument toggle (sase-9q) | 2026-07-26 16:28:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f5f30f9`](https://github.com/sase-org/sase/commit/f5f30f91e6f5c76b02d58b371d64761910448e39) | feat(ace): honor xprompt placeholder argument toggle (sase-9q) | 2026-07-26 16:28:25 |
 
 ## Neighbors
 

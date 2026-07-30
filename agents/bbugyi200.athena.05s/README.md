@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d8f60e7`](https://github.com/sase-org/sase/commit/d8f60e729c54fae373e0f232fa79a2c39cd71561) | chore: Add SDD prompt and plan for update\_pinned\_prompt\_stash | 2026-06-25 11:28:45 |
-| [`a439daf`](https://github.com/sase-org/sase/commit/a439daf2f52d2fb1987f45e6bc113c8372f32dfc) | feat(tui): update pinned prompt stash | 2026-06-25 11:48:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d8f60e7`](https://github.com/sase-org/sase/commit/d8f60e729c54fae373e0f232fa79a2c39cd71561) | chore: Add SDD prompt and plan for update\_pinned\_prompt\_stash | 2026-06-25 11:28:45 |
+| sase | [`a439daf`](https://github.com/sase-org/sase/commit/a439daf2f52d2fb1987f45e6bc113c8372f32dfc) | feat(tui): update pinned prompt stash | 2026-06-25 11:48:58 |

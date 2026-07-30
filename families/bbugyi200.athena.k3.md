@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`80cc705`](https://github.com/sase-org/sase/commit/80cc705f4bd78b9c691d1c220c0d0a466e00944f) | feat(chats): integrate publication state with provenance | 2026-07-25 04:20:36 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`80cc705`](https://github.com/sase-org/sase/commit/80cc705f4bd78b9c691d1c220c0d0a466e00944f) | feat(chats): integrate publication state with provenance | 2026-07-25 04:20:36 |

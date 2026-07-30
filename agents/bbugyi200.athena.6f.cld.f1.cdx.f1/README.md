@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4473752`](https://github.com/sase-org/sase/commit/4473752b0058f94f1e6851acb9f22be72b78c91c) | chore: Add SDD prompt and plan for ace\_run\_layout\_review\_fixes | 2026-06-13 17:36:03 |
-| [`ae6e9ff`](https://github.com/sase-org/sase/commit/ae6e9ff9ca09916827c66c114bb2611d523d57a4) | fix(agents): support sharded artifact layout readers | 2026-06-13 17:49:08 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4473752`](https://github.com/sase-org/sase/commit/4473752b0058f94f1e6851acb9f22be72b78c91c) | chore: Add SDD prompt and plan for ace\_run\_layout\_review\_fixes | 2026-06-13 17:36:03 |
+| sase | [`ae6e9ff`](https://github.com/sase-org/sase/commit/ae6e9ff9ca09916827c66c114bb2611d523d57a4) | fix(agents): support sharded artifact layout readers | 2026-06-13 17:49:08 |
 
 ## Neighbors
 

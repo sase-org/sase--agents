@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3362655`](https://github.com/sase-org/sase/commit/33626551f485a0dd65ecf0c37626eab7f9ea2259) | fix: resolve epic launches from canonical project identity | 2026-07-15 21:15:52 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3362655`](https://github.com/sase-org/sase/commit/33626551f485a0dd65ecf0c37626eab7f9ea2259) | fix: resolve epic launches from canonical project identity | 2026-07-15 21:15:52 |

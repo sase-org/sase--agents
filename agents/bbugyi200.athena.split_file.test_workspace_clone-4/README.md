@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cde595e`](https://github.com/sase-org/sase/commit/cde595ea33b0030a1753428d62e93fd5b3ed2475) | test(sdd): split workspace clone tests | 2026-07-16 06:06:55 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cde595e`](https://github.com/sase-org/sase/commit/cde595ea33b0030a1753428d62e93fd5b3ed2475) | test(sdd): split workspace clone tests | 2026-07-16 06:06:55 |
 
 ## Neighbors
 

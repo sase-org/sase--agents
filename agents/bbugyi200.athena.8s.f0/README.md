@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2394f83`](https://github.com/sase-org/sase/commit/2394f83054581ff1babff2b03fd97f3618c1f1cd) | feat(ace): render complete responsive plan goals | 2026-07-15 13:39:10 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2394f83`](https://github.com/sase-org/sase/commit/2394f83054581ff1babff2b03fd97f3618c1f1cd) | feat(ace): render complete responsive plan goals | 2026-07-15 13:39:10 |
 
 ## Neighbors
 

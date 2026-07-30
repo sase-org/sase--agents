@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`57e3acb`](https://github.com/sase-org/sase/commit/57e3acb3a9ebf7fc777c1db799f09facbce5fd07) | test: harden ACE PNG snapshot convergence (sase-9y.3) | 2026-07-27 14:12:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`57e3acb`](https://github.com/sase-org/sase/commit/57e3acb3a9ebf7fc777c1db799f09facbce5fd07) | test: harden ACE PNG snapshot convergence (sase-9y.3) | 2026-07-27 14:12:37 |
 
 ## Neighbors
 

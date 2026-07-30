@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`aedbb6b`](https://github.com/sase-org/sase/commit/aedbb6b07ad73fb4c61c4c02db2e0d3e71d8029f) | feat(xprompt): add raw placeholder facade (sase-9q.2) | 2026-07-26 11:06:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`aedbb6b`](https://github.com/sase-org/sase/commit/aedbb6b07ad73fb4c61c4c02db2e0d3e71d8029f) | feat(xprompt): add raw placeholder facade (sase-9q.2) | 2026-07-26 11:06:51 |
 
 ## Neighbors
 

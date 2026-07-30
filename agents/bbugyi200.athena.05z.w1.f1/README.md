@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`81758c8`](https://github.com/sase-org/sase/commit/81758c8aef09b6cc1514c497aa96922b4f460393) | chore: Add SDD prompt and plan for all\_panel\_agent\_completion | 2026-06-25 12:34:40 |
-| [`1506956`](https://github.com/sase-org/sase/commit/1506956b2c33da4bd8e81e09e00a41fc8b26faf0) | fix(tui): complete agent names from all panels | 2026-06-25 12:42:08 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`81758c8`](https://github.com/sase-org/sase/commit/81758c8aef09b6cc1514c497aa96922b4f460393) | chore: Add SDD prompt and plan for all\_panel\_agent\_completion | 2026-06-25 12:34:40 |
+| sase | [`1506956`](https://github.com/sase-org/sase/commit/1506956b2c33da4bd8e81e09e00a41fc8b26faf0) | fix(tui): complete agent names from all panels | 2026-06-25 12:42:08 |
 
 ## Neighbors
 

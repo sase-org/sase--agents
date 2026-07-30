@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d295d35`](https://github.com/sase-org/sase/commit/d295d35a1da27d325e85a77851e4a12850488782) | docs: add review research for blog00 launch post | 2026-06-14 21:28:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d295d35`](https://github.com/sase-org/sase/commit/d295d35a1da27d325e85a77851e4a12850488782) | docs: add review research for blog00 launch post | 2026-06-14 21:28:56 |
 
 ## Neighbors
 

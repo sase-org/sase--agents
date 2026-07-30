@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ab9853c`](https://github.com/sase-org/sase/commit/ab9853ca1eeccc919bce51c93282ea243b7ce6f7) | fix: preserve project reload failure status | 2026-06-02 18:25:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ab9853c`](https://github.com/sase-org/sase/commit/ab9853ca1eeccc919bce51c93282ea243b7ce6f7) | fix: preserve project reload failure status | 2026-06-02 18:25:58 |
 
 ## Neighbors
 

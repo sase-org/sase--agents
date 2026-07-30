@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a6c0a76`](https://github.com/sase-org/sase/commit/a6c0a76b6e0072e2d663a16cdac4520cc8768186) | chore: Add SDD prompt and plan for wait\_plan\_chain\_premature\_ready | 2026-06-07 12:55:45 |
-| [`0cffcc1`](https://github.com/sase-org/sase/commit/0cffcc1670ceb5ed9eafd48d1d1115e90e02d4f8) | fix: don't resolve wait deps on an unfinished plan chain | 2026-06-07 13:01:52 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a6c0a76`](https://github.com/sase-org/sase/commit/a6c0a76b6e0072e2d663a16cdac4520cc8768186) | chore: Add SDD prompt and plan for wait\_plan\_chain\_premature\_ready | 2026-06-07 12:55:45 |
+| sase | [`0cffcc1`](https://github.com/sase-org/sase/commit/0cffcc1670ceb5ed9eafd48d1d1115e90e02d4f8) | fix: don't resolve wait deps on an unfinished plan chain | 2026-06-07 13:01:52 |
 
 ## Neighbors
 

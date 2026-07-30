@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`713d972`](https://github.com/sase-org/sase/commit/713d972f7cd3ff029aa1a6e8ba517c06775ec4b0) | chore: Add SDD prompt and plan for ace\_update\_check\_10m\_fast | 2026-06-28 19:59:27 |
-| [`1dde590`](https://github.com/sase-org/sase/commit/1dde59049348f5dc8d16892cdd8f9000b0562e16) | feat(ace): check for updates every 10 minutes on ACE startup | 2026-06-28 20:11:36 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`713d972`](https://github.com/sase-org/sase/commit/713d972f7cd3ff029aa1a6e8ba517c06775ec4b0) | chore: Add SDD prompt and plan for ace\_update\_check\_10m\_fast | 2026-06-28 19:59:27 |
+| sase | [`1dde590`](https://github.com/sase-org/sase/commit/1dde59049348f5dc8d16892cdd8f9000b0562e16) | feat(ace): check for updates every 10 minutes on ACE startup | 2026-06-28 20:11:36 |
 
 ## Neighbors
 

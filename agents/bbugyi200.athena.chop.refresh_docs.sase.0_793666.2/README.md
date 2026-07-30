@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`717abb8`](https://github.com/sase-org/sase/commit/717abb8eca81707407fa6bd39762b8fc82d03cb9) | docs: align operational guidance with current behavior | 2026-07-21 00:19:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`717abb8`](https://github.com/sase-org/sase/commit/717abb8eca81707407fa6bd39762b8fc82d03cb9) | docs: align operational guidance with current behavior | 2026-07-21 00:19:56 |
 
 ## Neighbors
 

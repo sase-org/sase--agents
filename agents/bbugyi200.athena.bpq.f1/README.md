@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d9780f8`](https://github.com/sase-org/sase/commit/d9780f87055de57f49d8dbf8f596f036492a6de2) | chore: Add SDD prompt and plan for revert\_obsidian\_instructions | 2026-05-30 20:45:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d9780f8`](https://github.com/sase-org/sase/commit/d9780f87055de57f49d8dbf8f596f036492a6de2) | chore: Add SDD prompt and plan for revert\_obsidian\_instructions | 2026-05-30 20:45:42 |
 
 ## Neighbors
 

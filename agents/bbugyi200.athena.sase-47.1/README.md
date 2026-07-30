@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c598016`](https://github.com/sase-org/sase/commit/c598016e7402de0348e8ceab6935c9008af8da4d) | feat: add saved dismissed-agent group facade (sase-47.1) | 2026-05-27 16:30:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c598016`](https://github.com/sase-org/sase/commit/c598016e7402de0348e8ceab6935c9008af8da4d) | feat: add saved dismissed-agent group facade (sase-47.1) | 2026-05-27 16:30:37 |
 
 ## Neighbors
 

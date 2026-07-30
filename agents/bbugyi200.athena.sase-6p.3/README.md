@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f072f8a`](https://github.com/sase-org/sase/commit/f072f8a824f6310f2b3db57e3d6baeca6a0bf109) | feat(notification-gates)!: migrate producers to option queries (sase-6p.3) | 2026-07-18 00:41:19 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f072f8a`](https://github.com/sase-org/sase/commit/f072f8a824f6310f2b3db57e3d6baeca6a0bf109) | feat(notification-gates)!: migrate producers to option queries (sase-6p.3) | 2026-07-18 00:41:19 |
 
 ## Neighbors
 

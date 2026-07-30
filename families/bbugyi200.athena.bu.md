@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`2cab7b0`](https://github.com/sase-org/sase/commit/2cab7b07973b70291a6c923992968ec45243586e) | feat(ace): add gate debug view | 2026-07-17 14:08:28 |
-| root | [`2cab7b0`](https://github.com/sase-org/sase/commit/2cab7b07973b70291a6c923992968ec45243586e) | feat(ace): add gate debug view | 2026-07-17 14:08:28 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`2cab7b0`](https://github.com/sase-org/sase/commit/2cab7b07973b70291a6c923992968ec45243586e) | feat(ace): add gate debug view | 2026-07-17 14:08:28 |
+| root | sase | [`2cab7b0`](https://github.com/sase-org/sase/commit/2cab7b07973b70291a6c923992968ec45243586e) | feat(ace): add gate debug view | 2026-07-17 14:08:28 |
 
 ## Neighbors
 

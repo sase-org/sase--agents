@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a9813bf`](https://github.com/sase-org/sase/commit/a9813bf2c4014b6ac467476c2dcd7870436917e7) | feat: highlight literal code in prompts | 2026-07-14 14:23:19 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a9813bf`](https://github.com/sase-org/sase/commit/a9813bf2c4014b6ac467476c2dcd7870436917e7) | feat: highlight literal code in prompts | 2026-07-14 14:23:19 |
 
 ## Neighbors
 

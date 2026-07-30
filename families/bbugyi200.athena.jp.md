@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`339e06f`](https://github.com/sase-org/sase/commit/339e06f651ca5268f340a4910646dc19ff491006) | fix(ace): summarize cleanup confirmations by agent lane | 2026-07-24 22:39:23 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`339e06f`](https://github.com/sase-org/sase/commit/339e06f651ca5268f340a4910646dc19ff491006) | fix(ace): summarize cleanup confirmations by agent lane | 2026-07-24 22:39:23 |

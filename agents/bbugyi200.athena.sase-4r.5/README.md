@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f4f4969`](https://github.com/sase-org/sase/commit/f4f496984239fa764fcdc68d3aeec5eb9ca457a5) | feat(tui): collect frontmatter inputs at launch (sase-4r.5) | 2026-06-16 19:30:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f4f4969`](https://github.com/sase-org/sase/commit/f4f496984239fa764fcdc68d3aeec5eb9ca457a5) | feat(tui): collect frontmatter inputs at launch (sase-4r.5) | 2026-06-16 19:30:30 |
 
 ## Neighbors
 

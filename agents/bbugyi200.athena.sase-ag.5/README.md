@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ca29de3`](https://github.com/sase-org/sase/commit/ca29de3befeea34321826e749ffc1e689a8a8b5e) | feat(plan): add bulk provenance link refresh (sase-ag.5) | 2026-07-28 16:26:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ca29de3`](https://github.com/sase-org/sase/commit/ca29de3befeea34321826e749ffc1e689a8a8b5e) | feat(plan): add bulk provenance link refresh (sase-ag.5) | 2026-07-28 16:26:46 |
 
 ## Neighbors
 

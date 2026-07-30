@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`df160e3`](https://github.com/sase-org/sase/commit/df160e361c289688cf097727c0c4041eff12ba28) | feat(ace): models panel for viewing aliases and per-alias overrides (sase-5e.2) | 2026-06-30 19:12:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`df160e3`](https://github.com/sase-org/sase/commit/df160e361c289688cf097727c0c4041eff12ba28) | feat(ace): models panel for viewing aliases and per-alias overrides (sase-5e.2) | 2026-06-30 19:12:07 |
 
 ## Neighbors
 

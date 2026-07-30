@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d05f51a`](https://github.com/sase-org/sase/commit/d05f51af40d52efa649089e1c733e524e079a676) | test: split vcs log resolver tests by scope | 2026-07-20 18:38:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d05f51a`](https://github.com/sase-org/sase/commit/d05f51af40d52efa649089e1c733e524e079a676) | test: split vcs log resolver tests by scope | 2026-07-20 18:38:57 |
 
 ## Neighbors
 

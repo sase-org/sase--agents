@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`63dc8c6`](https://github.com/sase-org/sase/commit/63dc8c6d24788356a7cad223b7d812ead3cb2685) | refactor(ace): split plans data module | 2026-07-19 05:55:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`63dc8c6`](https://github.com/sase-org/sase/commit/63dc8c6d24788356a7cad223b7d812ead3cb2685) | refactor(ace): split plans data module | 2026-07-19 05:55:45 |
 
 ## Neighbors
 

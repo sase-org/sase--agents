@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`90e268d`](https://github.com/sase-org/sase/commit/90e268d045fc1b184d4d65eed4db5c7c67a1397f) | fix(models): rename user alias ownership to Custom | 2026-07-24 19:19:18 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`90e268d`](https://github.com/sase-org/sase/commit/90e268d045fc1b184d4d65eed4db5c7c67a1397f) | fix(models): rename user alias ownership to Custom | 2026-07-24 19:19:18 |
 
 ## Neighbors
 

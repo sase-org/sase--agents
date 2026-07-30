@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`aad7e0f`](https://github.com/sase-org/sase/commit/aad7e0f4ebbcc579c6f4311433a8f0d8e67c4f8d) | chore: Add SDD prompt and plan for sorted\_snippet\_insertion | 2026-06-27 12:42:49 |
-| [`a250134`](https://github.com/sase-org/sase/commit/a250134d292104d772c11968afef2022ee3399dd) | fix(xprompt): sort snippet insertions by trigger name | 2026-06-27 12:48:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`aad7e0f`](https://github.com/sase-org/sase/commit/aad7e0f4ebbcc579c6f4311433a8f0d8e67c4f8d) | chore: Add SDD prompt and plan for sorted\_snippet\_insertion | 2026-06-27 12:42:49 |
+| sase | [`a250134`](https://github.com/sase-org/sase/commit/a250134d292104d772c11968afef2022ee3399dd) | fix(xprompt): sort snippet insertions by trigger name | 2026-06-27 12:48:48 |
 
 ## Neighbors
 

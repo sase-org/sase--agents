@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d3cf623`](https://github.com/sase-org/sase/commit/d3cf6236e866b5f27b7f342a68b257692e97cf62) | perf(tui): streamline selected tribe navigation (sase-6z.6) | 2026-07-19 06:03:35 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d3cf623`](https://github.com/sase-org/sase/commit/d3cf6236e866b5f27b7f342a68b257692e97cf62) | perf(tui): streamline selected tribe navigation (sase-6z.6) | 2026-07-19 06:03:35 |
 
 ## Neighbors
 

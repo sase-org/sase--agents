@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9402550`](https://github.com/sase-org/sase/commit/940255047803c26f82bb766231c8079a14625de9) | chore: Add SDD prompt and plan for direct\_local\_reads\_xprompt | 2026-05-28 13:01:56 |
-| [`0fc1672`](https://github.com/sase-org/sase/commit/0fc1672939bf528bfb22261852b56c588c37fcec) | fix: expand reads local helpers directly | 2026-05-28 13:10:26 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9402550`](https://github.com/sase-org/sase/commit/940255047803c26f82bb766231c8079a14625de9) | chore: Add SDD prompt and plan for direct\_local\_reads\_xprompt | 2026-05-28 13:01:56 |
+| sase | [`0fc1672`](https://github.com/sase-org/sase/commit/0fc1672939bf528bfb22261852b56c588c37fcec) | fix: expand reads local helpers directly | 2026-05-28 13:10:26 |

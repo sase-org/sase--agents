@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b0b8403`](https://github.com/sase-org/sase/commit/b0b84033abbd9321a7b6c6ac76fc23b2b350df77) | chore: Add SDD prompt and plan for apostrophe\_jump\_marks\_agent\_read | 2026-05-27 00:18:30 |
-| [`1e3616f`](https://github.com/sase-org/sase/commit/1e3616f6c363e25d597e8d8145470d74530455b1) | fix: acknowledge unread agents on apostrophe jump | 2026-05-27 00:29:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b0b8403`](https://github.com/sase-org/sase/commit/b0b84033abbd9321a7b6c6ac76fc23b2b350df77) | chore: Add SDD prompt and plan for apostrophe\_jump\_marks\_agent\_read | 2026-05-27 00:18:30 |
+| sase | [`1e3616f`](https://github.com/sase-org/sase/commit/1e3616f6c363e25d597e8d8145470d74530455b1) | fix: acknowledge unread agents on apostrophe jump | 2026-05-27 00:29:32 |

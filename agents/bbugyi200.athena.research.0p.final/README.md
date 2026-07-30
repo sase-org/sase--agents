@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0702f7f`](https://github.com/sase-org/sase/commit/0702f7f9215648abe84a75d3bfd55630a223a4b1) | docs: consolidate admin center tab migration research | 2026-06-26 19:35:50 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0702f7f`](https://github.com/sase-org/sase/commit/0702f7f9215648abe84a75d3bfd55630a223a4b1) | docs: consolidate admin center tab migration research | 2026-06-26 19:35:50 |
 
 ## Neighbors
 

@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`84d8846`](https://github.com/sase-org/sase/commit/84d8846211566bfc00566c55266b3ae9d5b98474) | chore: Add SDD prompt and plan for ctrl\_g\_ctrl\_c\_cancel\_all | 2026-06-27 17:25:33 |
-| [`f2ac8b2`](https://github.com/sase-org/sase/commit/f2ac8b20f3bb5615091372316870b70538952b70) | feat(tui): add cancel-all prompt stack chord | 2026-06-27 17:39:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`84d8846`](https://github.com/sase-org/sase/commit/84d8846211566bfc00566c55266b3ae9d5b98474) | chore: Add SDD prompt and plan for ctrl\_g\_ctrl\_c\_cancel\_all | 2026-06-27 17:25:33 |
+| sase | [`f2ac8b2`](https://github.com/sase-org/sase/commit/f2ac8b20f3bb5615091372316870b70538952b70) | feat(tui): add cancel-all prompt stack chord | 2026-06-27 17:39:41 |

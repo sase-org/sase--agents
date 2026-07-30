@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b1bf540`](https://github.com/sase-org/sase/commit/b1bf540dc6995d03042d5a0af5106de4ee99e752) | chore: Add SDD prompt and plan for config\_edit\_modal\_fullscreen | 2026-07-05 23:24:25 |
-| [`f56f137`](https://github.com/sase-org/sase/commit/f56f137fc88b637959f98cc54f944e8677d8408d) | feat(tui): expand config edit modal for multiline content | 2026-07-05 23:59:00 |
-| [`90777bd`](https://github.com/sase-org/sase/commit/90777bd4963aae5213b814c51345681a82769619) | chore: Add SDD prompt and plan for launch\_preview\_pdf | 2026-07-07 05:07:11 |
-| [`8aa58d6`](https://github.com/sase-org/sase/commit/8aa58d6d5fa65f9e43056b787483e451388b084e) | feat: render launch previews as highlighted PDFs | 2026-07-07 05:21:08 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b1bf540`](https://github.com/sase-org/sase/commit/b1bf540dc6995d03042d5a0af5106de4ee99e752) | chore: Add SDD prompt and plan for config\_edit\_modal\_fullscreen | 2026-07-05 23:24:25 |
+| sase | [`f56f137`](https://github.com/sase-org/sase/commit/f56f137fc88b637959f98cc54f944e8677d8408d) | feat(tui): expand config edit modal for multiline content | 2026-07-05 23:59:00 |
+| sase | [`90777bd`](https://github.com/sase-org/sase/commit/90777bd4963aae5213b814c51345681a82769619) | chore: Add SDD prompt and plan for launch\_preview\_pdf | 2026-07-07 05:07:11 |
+| sase | [`8aa58d6`](https://github.com/sase-org/sase/commit/8aa58d6d5fa65f9e43056b787483e451388b084e) | feat: render launch previews as highlighted PDFs | 2026-07-07 05:21:08 |

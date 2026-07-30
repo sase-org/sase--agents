@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cc11df6`](https://github.com/sase-org/sase/commit/cc11df6980b9d3ab6abe097cc3746dd995de78e2) | chore: consolidate memory system research | 2026-05-31 18:52:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cc11df6`](https://github.com/sase-org/sase/commit/cc11df6980b9d3ab6abe097cc3746dd995de78e2) | chore: consolidate memory system research | 2026-05-31 18:52:57 |
 
 ## Neighbors
 

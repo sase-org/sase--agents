@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a07f029`](https://github.com/sase-org/sase/commit/a07f029125a9b5b5c663e1d6d798611e5474b817) | refactor(notification-gates): split registry modules | 2026-07-19 11:07:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a07f029`](https://github.com/sase-org/sase/commit/a07f029125a9b5b5c663e1d6d798611e5474b817) | refactor(notification-gates): split registry modules | 2026-07-19 11:07:06 |
 
 ## Neighbors
 

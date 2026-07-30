@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ce39b90`](https://github.com/sase-org/sase/commit/ce39b90681299e713000758951f0bda268753f81) | chore: expand memory read research with gaps and open questions | 2026-05-26 21:28:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ce39b90`](https://github.com/sase-org/sase/commit/ce39b90681299e713000758951f0bda268753f81) | chore: expand memory read research with gaps and open questions | 2026-05-26 21:28:30 |
 
 ## Neighbors
 

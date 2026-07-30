@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8c22b6f`](https://github.com/sase-org/sase/commit/8c22b6f2fa73b06b9616a5e2cd878106f5c00046) | refactor(linked-repos): split module by responsibility | 2026-07-11 23:55:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8c22b6f`](https://github.com/sase-org/sase/commit/8c22b6f2fa73b06b9616a5e2cd878106f5c00046) | refactor(linked-repos): split module by responsibility | 2026-07-11 23:55:23 |
 
 ## Neighbors
 

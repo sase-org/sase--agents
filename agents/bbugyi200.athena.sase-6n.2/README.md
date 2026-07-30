@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f3bc42c`](https://github.com/sase-org/sase/commit/f3bc42caaee2d60fdfa1fee6e49d9c8ed7631fc5) | feat(xprompt)!: replace parallel family launches with clans (sase-6n.2) | 2026-07-17 22:42:43 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f3bc42c`](https://github.com/sase-org/sase/commit/f3bc42caaee2d60fdfa1fee6e49d9c8ed7631fc5) | feat(xprompt)!: replace parallel family launches with clans (sase-6n.2) | 2026-07-17 22:42:43 |
 
 ## Neighbors
 

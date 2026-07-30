@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`c917bc0`](https://github.com/sase-org/sase/commit/c917bc04d341885ec11fdf4285288cc846fa4469) | feat(ace): move the lane NEIGHBORS section above SASE CONTEXT | 2026-07-25 19:24:15 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`c917bc0`](https://github.com/sase-org/sase/commit/c917bc04d341885ec11fdf4285288cc846fa4469) | feat(ace): move the lane NEIGHBORS section above SASE CONTEXT | 2026-07-25 19:24:15 |
 
 ## Neighbors
 

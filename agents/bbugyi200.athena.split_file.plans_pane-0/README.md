@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4e6b056`](https://github.com/sase-org/sase/commit/4e6b0566cb903d20f147719c4e1f046400320e34) | refactor(ace): split plans pane responsibilities | 2026-07-16 16:11:08 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4e6b056`](https://github.com/sase-org/sase/commit/4e6b0566cb903d20f147719c4e1f046400320e34) | refactor(ace): split plans pane responsibilities | 2026-07-16 16:11:08 |
 
 ## Neighbors
 

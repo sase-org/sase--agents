@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8128c4e`](https://github.com/sase-org/sase/commit/8128c4e8dc0c5d189992f86d1a0a8bccf38ed522) | test: split core agent scan record tests | 2026-07-06 12:57:16 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8128c4e`](https://github.com/sase-org/sase/commit/8128c4e8dc0c5d189992f86d1a0a8bccf38ed522) | test: split core agent scan record tests | 2026-07-06 12:57:16 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`01661d3`](https://github.com/sase-org/sase/commit/01661d3c9b965e3fb86afd4000b2c43122f2e42f) | feat(agent)!: replace group terminology with tribes (sase-6n.3) | 2026-07-17 22:06:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`01661d3`](https://github.com/sase-org/sase/commit/01661d3c9b965e3fb86afd4000b2c43122f2e42f) | feat(agent)!: replace group terminology with tribes (sase-6n.3) | 2026-07-17 22:06:06 |
 
 ## Neighbors
 

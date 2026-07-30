@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`80d5c47`](https://github.com/sase-org/sase/commit/80d5c47c12bfe426f8d37121d6b2ba35ef08480a) | refactor(tui): split prompt input stack actions | 2026-06-27 16:03:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`80d5c47`](https://github.com/sase-org/sase/commit/80d5c47c12bfe426f8d37121d6b2ba35ef08480a) | refactor(tui): split prompt input stack actions | 2026-06-27 16:03:06 |
 
 ## Neighbors
 

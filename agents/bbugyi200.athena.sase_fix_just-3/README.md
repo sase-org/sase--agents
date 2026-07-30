@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`01babf3`](https://github.com/sase-org/sase/commit/01babf3a82e2efd3df7c0771e4eaa1241bab0797) | fix: require core wheel with agent role metadata (#207) | 2026-07-06 13:30:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`01babf3`](https://github.com/sase-org/sase/commit/01babf3a82e2efd3df7c0771e4eaa1241bab0797) | fix: require core wheel with agent role metadata (#207) | 2026-07-06 13:30:25 |

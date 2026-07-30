@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`08c056c`](https://github.com/sase-org/sase/commit/08c056c74b2f78d74e246ee01ba2709b5b426178) | refactor(memory): extract project deployment workflow | 2026-07-10 23:49:14 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`08c056c`](https://github.com/sase-org/sase/commit/08c056c74b2f78d74e246ee01ba2709b5b426178) | refactor(memory): extract project deployment workflow | 2026-07-10 23:49:14 |
 
 ## Neighbors
 

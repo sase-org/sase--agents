@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`906690b`](https://github.com/sase-org/sase/commit/906690b506d82c39c7b970a30293fe580fda94ca) | feat(ace): separate cached agent updates from full sync (sase-8v.8) | 2026-07-24 21:44:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`906690b`](https://github.com/sase-org/sase/commit/906690b506d82c39c7b970a30293fe580fda94ca) | feat(ace): separate cached agent updates from full sync (sase-8v.8) | 2026-07-24 21:44:06 |
 
 ## Neighbors
 

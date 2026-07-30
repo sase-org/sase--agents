@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`78057dd`](https://github.com/sase-org/sase/commit/78057dd22a6f8d8d55f441d12377a15bdeda3b8b) | feat(cli)!: move SDD operations under plan commands | 2026-07-14 16:12:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`78057dd`](https://github.com/sase-org/sase/commit/78057dd22a6f8d8d55f441d12377a15bdeda3b8b) | feat(cli)!: move SDD operations under plan commands | 2026-07-14 16:12:46 |
 
 ## Neighbors
 

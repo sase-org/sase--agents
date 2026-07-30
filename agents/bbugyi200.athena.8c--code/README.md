@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5bd4014`](https://github.com/sase-org/sase/commit/5bd40142d85b2071e157343a15bf7f401503085e) | fix(artifacts): attribute attachments to commit repositories | 2026-07-14 12:03:03 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5bd4014`](https://github.com/sase-org/sase/commit/5bd40142d85b2071e157343a15bf7f401503085e) | fix(artifacts): attribute attachments to commit repositories | 2026-07-14 12:03:03 |

@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`42cadf4`](https://github.com/sase-org/sase/commit/42cadf45175e65694650cbd03f010fa5bd20eae1) | feat(tui): underline available plan titles | 2026-07-16 12:23:43 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`42cadf4`](https://github.com/sase-org/sase/commit/42cadf45175e65694650cbd03f010fa5bd20eae1) | feat(tui): underline available plan titles | 2026-07-16 12:23:43 |
 
 ## Neighbors
 

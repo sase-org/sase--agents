@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f333d88`](https://github.com/sase-org/sase/commit/f333d88c81897a306717319e79e0d55bcedc5df8) | chore: Add SDD prompt and plan for linked\_repo\_diff\_file\_panels | 2026-06-23 19:18:14 |
-| [`e471144`](https://github.com/sase-org/sase/commit/e471144b5f5d2655806dcb5950eade89a96f939e) | feat(tui): show linked repo diffs in file panel | 2026-06-23 19:39:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f333d88`](https://github.com/sase-org/sase/commit/f333d88c81897a306717319e79e0d55bcedc5df8) | chore: Add SDD prompt and plan for linked\_repo\_diff\_file\_panels | 2026-06-23 19:18:14 |
+| sase | [`e471144`](https://github.com/sase-org/sase/commit/e471144b5f5d2655806dcb5950eade89a96f939e) | feat(tui): show linked repo diffs in file panel | 2026-06-23 19:39:21 |
 
 ## Neighbors
 

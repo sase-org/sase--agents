@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4d7c9aa`](https://github.com/sase-org/sase/commit/4d7c9aac3aa01947fe4e261c7cccbffa22614991) | feat(ace): add group-aware prompt target completion (sase-7h.2) | 2026-07-19 17:22:52 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4d7c9aa`](https://github.com/sase-org/sase/commit/4d7c9aac3aa01947fe4e261c7cccbffa22614991) | feat(ace): add group-aware prompt target completion (sase-7h.2) | 2026-07-19 17:22:52 |
 
 ## Neighbors
 

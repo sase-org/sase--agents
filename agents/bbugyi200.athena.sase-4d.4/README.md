@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5ca5ad9`](https://github.com/sase-org/sase/commit/5ca5ad9ba39c999bd737adbf17553d0710eabf9b) | chore: document GitHub project alias compatibility (sase-4d.4) | 2026-06-06 14:08:50 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5ca5ad9`](https://github.com/sase-org/sase/commit/5ca5ad9ba39c999bd737adbf17553d0710eabf9b) | chore: document GitHub project alias compatibility (sase-4d.4) | 2026-06-06 14:08:50 |
 
 ## Neighbors
 

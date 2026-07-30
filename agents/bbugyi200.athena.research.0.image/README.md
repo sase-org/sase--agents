@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3c5e639`](https://github.com/sase-org/sase/commit/3c5e6399a306f31a7d9afe6ee82d2ed7fefd1cac) | docs: add SDD repo research infographic | 2026-07-08 02:43:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3c5e639`](https://github.com/sase-org/sase/commit/3c5e6399a306f31a7d9afe6ee82d2ed7fefd1cac) | docs: add SDD repo research infographic | 2026-07-08 02:43:56 |
 
 ## Neighbors
 

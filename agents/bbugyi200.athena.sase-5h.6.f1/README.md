@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f71fb6f`](https://github.com/sase-org/sase/commit/f71fb6f9cca5bd9f7718953ef650c6704f2d18e4) | docs: require user permission for memory edits | 2026-07-07 19:16:59 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f71fb6f`](https://github.com/sase-org/sase/commit/f71fb6f9cca5bd9f7718953ef650c6704f2d18e4) | docs: require user permission for memory edits | 2026-07-07 19:16:59 |
 
 ## Neighbors
 

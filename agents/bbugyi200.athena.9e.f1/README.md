@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c9fcad7`](https://github.com/sase-org/sase/commit/c9fcad79cb718d29bdd94cf37c01a07a7e0b5022) | chore: Add SDD prompt and plan for prompt\_stack\_ctrl\_shift\_hl\_reorder | 2026-06-17 13:58:00 |
-| [`21fee88`](https://github.com/sase-org/sase/commit/21fee88e05cc501a7d64c0cad410f75f76f67d55) | feat(tui): migrate prompt stack reorder to Ctrl+Shift+H/L | 2026-06-17 14:09:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c9fcad7`](https://github.com/sase-org/sase/commit/c9fcad79cb718d29bdd94cf37c01a07a7e0b5022) | chore: Add SDD prompt and plan for prompt\_stack\_ctrl\_shift\_hl\_reorder | 2026-06-17 13:58:00 |
+| sase | [`21fee88`](https://github.com/sase-org/sase/commit/21fee88e05cc501a7d64c0cad410f75f76f67d55) | feat(tui): migrate prompt stack reorder to Ctrl+Shift+H/L | 2026-06-17 14:09:06 |
 
 ## Neighbors
 

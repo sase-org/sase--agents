@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6712d6e`](https://github.com/sase-org/sase/commit/6712d6e40bdd72958735097967380b3a0fa281d6) | chore: close sase-46 epic | 2026-05-27 17:23:04 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6712d6e`](https://github.com/sase-org/sase/commit/6712d6e40bdd72958735097967380b3a0fa281d6) | chore: close sase-46 epic | 2026-05-27 17:23:04 |
 
 ## Neighbors
 

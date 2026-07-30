@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`12e0f99`](https://github.com/sase-org/sase/commit/12e0f997f78be848e5869e0369b2e66780f35e07) | fix: avoid false init memory drift in lint (#216) | 2026-07-09 04:45:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`12e0f99`](https://github.com/sase-org/sase/commit/12e0f997f78be848e5869e0369b2e66780f35e07) | fix: avoid false init memory drift in lint (#216) | 2026-07-09 04:45:42 |

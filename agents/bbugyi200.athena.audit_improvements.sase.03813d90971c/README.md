@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7aa16e8`](https://github.com/sase-org/sase/commit/7aa16e85f1d90627504c6cb49f43ddffa07f62e4) | fix: avoid replaying old agy tool calls (#182) | 2026-06-20 22:09:26 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7aa16e8`](https://github.com/sase-org/sase/commit/7aa16e85f1d90627504c6cb49f43ddffa07f62e4) | fix: avoid replaying old agy tool calls (#182) | 2026-06-20 22:09:26 |
 
 ## Neighbors
 

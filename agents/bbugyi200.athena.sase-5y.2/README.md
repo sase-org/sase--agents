@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`61b29ff`](https://github.com/sase-org/sase/commit/61b29fff98f68f058e981b584d1ae8d4f9acdea8) | feat(cli): open registered and external repositories (sase-5y.2) | 2026-07-13 22:06:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`61b29ff`](https://github.com/sase-org/sase/commit/61b29fff98f68f058e981b584d1ae8d4f9acdea8) | feat(cli): open registered and external repositories (sase-5y.2) | 2026-07-13 22:06:23 |
 
 ## Neighbors
 

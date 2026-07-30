@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ad66f33`](https://github.com/sase-org/sase/commit/ad66f332904e58bee10d3157362b66cc4651d752) | feat(tui): show incoming commits in update confirmations | 2026-07-07 16:42:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ad66f33`](https://github.com/sase-org/sase/commit/ad66f332904e58bee10d3157362b66cc4651d752) | feat(tui): show incoming commits in update confirmations | 2026-07-07 16:42:29 |
 
 ## Neighbors
 

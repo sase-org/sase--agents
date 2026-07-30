@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`c13664d`](https://github.com/sase-org/sase/commit/c13664dc6b1ce83bd6f4ea9f4755d71dad78cf61) | feat!: make linked repository materialization opt-in (sase-5q.1) | 2026-07-11 23:28:55 |
-| root | [`5df88d7`](https://github.com/sase-org/sase/commit/5df88d7ca00e1cae07fd7033be28ed0a17f2fdb4) | fix(memory): finalize linked repository initialization (sase-5q.1) | 2026-07-11 23:47:14 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`c13664d`](https://github.com/sase-org/sase/commit/c13664dc6b1ce83bd6f4ea9f4755d71dad78cf61) | feat!: make linked repository materialization opt-in (sase-5q.1) | 2026-07-11 23:28:55 |
+| root | sase | [`5df88d7`](https://github.com/sase-org/sase/commit/5df88d7ca00e1cae07fd7033be28ed0a17f2fdb4) | fix(memory): finalize linked repository initialization (sase-5q.1) | 2026-07-11 23:47:14 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5ba1f08`](https://github.com/sase-org/sase/commit/5ba1f08d0262d14300f295b60b8fee2df3866d50) | fix: anchor bead page publication on primary checkout | 2026-07-30 12:39:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5ba1f08`](https://github.com/sase-org/sase/commit/5ba1f08d0262d14300f295b60b8fee2df3866d50) | fix: anchor bead page publication on primary checkout | 2026-07-30 12:39:39 |
 
 ## Neighbors
 

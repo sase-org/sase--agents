@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5b85c9c`](https://github.com/sase-org/sase/commit/5b85c9c9e8df002ac1909506226681fb437fc91d) | fix: run inline snapshot update modes serially | 2026-06-08 19:29:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5b85c9c`](https://github.com/sase-org/sase/commit/5b85c9c9e8df002ac1909506226681fb437fc91d) | fix: run inline snapshot update modes serially | 2026-06-08 19:29:22 |

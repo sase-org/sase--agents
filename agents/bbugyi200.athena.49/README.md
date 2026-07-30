@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`afe3701`](https://github.com/sase-org/sase/commit/afe37010f171b7a1b33ad1d02c06024f54c8b2ea) | feat(xprompt)!: remove Mercurial workspace workflow references | 2026-07-10 14:52:50 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`afe3701`](https://github.com/sase-org/sase/commit/afe37010f171b7a1b33ad1d02c06024f54c8b2ea) | feat(xprompt)!: remove Mercurial workspace workflow references | 2026-07-10 14:52:50 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`07e45d2`](https://github.com/sase-org/sase/commit/07e45d21e07961921fbcb95885c1b35cebffb203) | build(deps): align sase-core-rs with published release (sase-93.7) | 2026-07-25 13:05:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`07e45d2`](https://github.com/sase-org/sase/commit/07e45d21e07961921fbcb95885c1b35cebffb203) | build(deps): align sase-core-rs with published release (sase-93.7) | 2026-07-25 13:05:41 |
 
 ## Neighbors
 

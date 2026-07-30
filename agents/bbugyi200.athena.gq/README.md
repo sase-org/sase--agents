@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`fdbdf2d`](https://github.com/sase-org/sase/commit/fdbdf2d968e45be0047b1a443d7c60f26f249688) | feat(statistics): add reverse time range cycling | 2026-07-21 11:56:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`fdbdf2d`](https://github.com/sase-org/sase/commit/fdbdf2d968e45be0047b1a443d7c60f26f249688) | feat(statistics): add reverse time range cycling | 2026-07-21 11:56:41 |

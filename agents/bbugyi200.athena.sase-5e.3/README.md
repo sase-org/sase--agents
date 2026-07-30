@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`aebfbf2`](https://github.com/sase-org/sase/commit/aebfbf247cef8d783fffdc327b90c46c3cfeaee3) | feat(ace): persistent alias editing + commit/push in models panel (sase-5e.3) | 2026-06-30 19:37:10 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`aebfbf2`](https://github.com/sase-org/sase/commit/aebfbf247cef8d783fffdc327b90c46c3cfeaee3) | feat(ace): persistent alias editing + commit/push in models panel (sase-5e.3) | 2026-06-30 19:37:10 |
 
 ## Neighbors
 

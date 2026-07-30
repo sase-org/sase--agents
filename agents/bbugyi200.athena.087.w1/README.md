@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`57a9f17`](https://github.com/sase-org/sase/commit/57a9f170a89d72c084fcf99c03f213cdde23f2ed) | chore: Add SDD prompt and plan for q\_keymap\_quit\_restart\_panel | 2026-06-27 17:55:00 |
-| [`e70f5e4`](https://github.com/sase-org/sase/commit/e70f5e483bc7b8661749fc82db9ef33cf2a05491) | feat(ace): add quit/restart menu | 2026-06-27 18:06:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`57a9f17`](https://github.com/sase-org/sase/commit/57a9f170a89d72c084fcf99c03f213cdde23f2ed) | chore: Add SDD prompt and plan for q\_keymap\_quit\_restart\_panel | 2026-06-27 17:55:00 |
+| sase | [`e70f5e4`](https://github.com/sase-org/sase/commit/e70f5e483bc7b8661749fc82db9ef33cf2a05491) | feat(ace): add quit/restart menu | 2026-06-27 18:06:58 |
 
 ## Neighbors
 

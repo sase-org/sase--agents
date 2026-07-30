@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`75d9ab3`](https://github.com/sase-org/sase/commit/75d9ab3bd41ed4f528b55a1c766d018b9f1a066b) | chore: Add SDD prompt and plan for unify\_prompt\_stash\_panel | 2026-06-22 14:09:24 |
-| [`727c08d`](https://github.com/sase-org/sase/commit/727c08d55e578fba6a0fd293f98c3ac0db778c63) | feat(tui)!: unify prompt stash panel | 2026-06-22 14:27:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`75d9ab3`](https://github.com/sase-org/sase/commit/75d9ab3bd41ed4f528b55a1c766d018b9f1a066b) | chore: Add SDD prompt and plan for unify\_prompt\_stash\_panel | 2026-06-22 14:09:24 |
+| sase | [`727c08d`](https://github.com/sase-org/sase/commit/727c08d55e578fba6a0fd293f98c3ac0db778c63) | feat(tui)!: unify prompt stash panel | 2026-06-22 14:27:30 |
 
 ## Neighbors
 

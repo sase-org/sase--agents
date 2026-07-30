@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6bc0292`](https://github.com/sase-org/sase/commit/6bc02923d46585db29dd8dc4d51de338cd9c6441) | refactor: split plan approval actions by responsibility | 2026-07-19 11:22:08 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6bc0292`](https://github.com/sase-org/sase/commit/6bc02923d46585db29dd8dc4d51de338cd9c6441) | refactor: split plan approval actions by responsibility | 2026-07-19 11:22:08 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e9b17a8`](https://github.com/sase-org/sase/commit/e9b17a884aa1b0207d61a5f434541dbe6738a34b) | build(deps): require sase-core-rs\>=0.12.15 for the \`@\` reference menu | 2026-07-30 00:52:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e9b17a8`](https://github.com/sase-org/sase/commit/e9b17a884aa1b0207d61a5f434541dbe6738a34b) | build(deps): require sase-core-rs\>=0.12.15 for the \`@\` reference menu | 2026-07-30 00:52:30 |
 
 ## Neighbors
 

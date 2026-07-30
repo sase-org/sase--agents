@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`687a46a`](https://github.com/sase-org/sase/commit/687a46a113fdeb6fc55330f84ea6b3df2fec366e) | chore: Add SDD prompt and plan for inline\_short\_term\_memory | 2026-06-26 19:48:43 |
-| [`1a04500`](https://github.com/sase-org/sase/commit/1a04500e473b5bf83e13778558ed69a300297bbb) | chore: create inline memory epic beads | 2026-06-26 19:54:47 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`687a46a`](https://github.com/sase-org/sase/commit/687a46a113fdeb6fc55330f84ea6b3df2fec366e) | chore: Add SDD prompt and plan for inline\_short\_term\_memory | 2026-06-26 19:48:43 |
+| sase | [`1a04500`](https://github.com/sase-org/sase/commit/1a04500e473b5bf83e13778558ed69a300297bbb) | chore: create inline memory epic beads | 2026-06-26 19:54:47 |

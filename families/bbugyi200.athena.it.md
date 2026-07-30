@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`104a31c`](https://github.com/sase-org/sase/commit/104a31c715ac950d6a73de08d12b0266beda2fe7) | feat(ace): redesign AXE entry editor | 2026-07-23 11:53:54 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`104a31c`](https://github.com/sase-org/sase/commit/104a31c715ac950d6a73de08d12b0266beda2fe7) | feat(ace): redesign AXE entry editor | 2026-07-23 11:53:54 |

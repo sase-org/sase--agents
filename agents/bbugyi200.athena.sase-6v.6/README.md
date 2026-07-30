@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4e8b4e1`](https://github.com/sase-org/sase/commit/4e8b4e11270ebee82ec422b8a6c09b90d54c9fe0) | feat(axe): add composable targeted chops | 2026-07-18 23:34:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4e8b4e1`](https://github.com/sase-org/sase/commit/4e8b4e11270ebee82ec422b8a6c09b90d54c9fe0) | feat(axe): add composable targeted chops | 2026-07-18 23:34:22 |
 
 ## Neighbors
 

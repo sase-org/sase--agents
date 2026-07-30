@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5ff7b8a`](https://github.com/sase-org/sase/commit/5ff7b8ab899d014b5f8d4d2be7af6fe0a865213a) | docs: correct artifact-reference completion reachability claims | 2026-07-30 11:59:54 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5ff7b8a`](https://github.com/sase-org/sase/commit/5ff7b8ab899d014b5f8d4d2be7af6fe0a865213a) | docs: correct artifact-reference completion reachability claims | 2026-07-30 11:59:54 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`31e9697`](https://github.com/sase-org/sase/commit/31e9697ac65d69917929f8348810857ee8e2cdb2) | feat(llm): add ordered model alias fallbacks | 2026-07-21 15:17:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`31e9697`](https://github.com/sase-org/sase/commit/31e9697ac65d69917929f8348810857ee8e2cdb2) | feat(llm): add ordered model alias fallbacks | 2026-07-21 15:17:45 |
 
 ## Neighbors
 

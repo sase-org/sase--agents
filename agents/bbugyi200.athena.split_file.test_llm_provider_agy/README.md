@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`65658a1`](https://github.com/sase-org/sase/commit/65658a143752e997a114e04fe35f760c046cec8f) | test: split agy provider tests | 2026-06-21 17:01:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`65658a1`](https://github.com/sase-org/sase/commit/65658a143752e997a114e04fe35f760c046cec8f) | test: split agy provider tests | 2026-06-21 17:01:13 |
 
 ## Neighbors
 

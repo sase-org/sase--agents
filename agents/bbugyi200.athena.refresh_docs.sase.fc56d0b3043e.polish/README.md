@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`51b7426`](https://github.com/sase-org/sase/commit/51b742625b461932510185918a931695a026df66) | chore: clarify runtime and agent naming docs | 2026-06-08 22:19:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`51b7426`](https://github.com/sase-org/sase/commit/51b742625b461932510185918a931695a026df66) | chore: clarify runtime and agent naming docs | 2026-06-08 22:19:21 |
 
 ## Neighbors
 

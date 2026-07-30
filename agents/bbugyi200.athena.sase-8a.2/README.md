@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`75e2c64`](https://github.com/sase-org/sase/commit/75e2c647dfc2bbc58dc1ae54893f6a73ad3ff054) | feat(statistics): add metric legends and recovery states (sase-8a.2) | 2026-07-20 18:48:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`75e2c64`](https://github.com/sase-org/sase/commit/75e2c647dfc2bbc58dc1ae54893f6a73ad3ff054) | feat(statistics): add metric legends and recovery states (sase-8a.2) | 2026-07-20 18:48:09 |
 
 ## Neighbors
 

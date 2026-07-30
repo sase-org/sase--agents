@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3767e7f`](https://github.com/sase-org/sase/commit/3767e7ff71e12a042f7a3a8cf66f9a717733fc77) | feat(tui): add guide learn-more links | 2026-07-05 10:54:53 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3767e7f`](https://github.com/sase-org/sase/commit/3767e7ff71e12a042f7a3a8cf66f9a717733fc77) | feat(tui): add guide learn-more links | 2026-07-05 10:54:53 |
 
 ## Neighbors
 

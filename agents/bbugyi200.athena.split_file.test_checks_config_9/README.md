@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`70104da`](https://github.com/sase-org/sase/commit/70104da1a5f1c487994a03bb3330556d2f376e18) | test: split doctor config check tests | 2026-07-08 16:30:19 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`70104da`](https://github.com/sase-org/sase/commit/70104da1a5f1c487994a03bb3330556d2f376e18) | test: split doctor config check tests | 2026-07-08 16:30:19 |
 
 ## Neighbors
 

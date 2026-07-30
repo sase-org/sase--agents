@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a08d370`](https://github.com/sase-org/sase/commit/a08d37046637854a61eb341904abd7baafa485cc) | refactor(tui): split config edit modal | 2026-06-23 16:19:53 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a08d370`](https://github.com/sase-org/sase/commit/a08d37046637854a61eb341904abd7baafa485cc) | refactor(tui): split config edit modal | 2026-06-23 16:19:53 |
 
 ## Neighbors
 

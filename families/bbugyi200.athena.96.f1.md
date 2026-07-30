@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`03df1f8`](https://github.com/sase-org/sase/commit/03df1f88dabcdb8895abf5025f566c389da3b7a3) | test: tighten visual snapshot drift tolerance | 2026-07-15 16:49:46 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`03df1f8`](https://github.com/sase-org/sase/commit/03df1f88dabcdb8895abf5025f566c389da3b7a3) | test: tighten visual snapshot drift tolerance | 2026-07-15 16:49:46 |
 
 ## Neighbors
 

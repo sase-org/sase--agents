@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`a79dad1`](https://github.com/sase-org/sase/commit/a79dad1639a7a54406a4c185fdc15be00d8e8628) | feat(ace): allow alt braces before punctuation | 2026-07-29 22:52:38 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`a79dad1`](https://github.com/sase-org/sase/commit/a79dad1639a7a54406a4c185fdc15be00d8e8628) | feat(ace): allow alt braces before punctuation | 2026-07-29 22:52:38 |

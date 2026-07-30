@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6d99736`](https://github.com/sase-org/sase/commit/6d99736516c426d900faa813f2584336fb3cffdc) | feat(stats): add XPrompt statistics view models | 2026-07-29 16:40:55 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6d99736`](https://github.com/sase-org/sase/commit/6d99736516c426d900faa813f2584336fb3cffdc) | feat(stats): add XPrompt statistics view models | 2026-07-29 16:40:55 |
 
 ## Neighbors
 

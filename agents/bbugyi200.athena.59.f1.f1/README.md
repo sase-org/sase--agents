@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0985057`](https://github.com/sase-org/sase/commit/098505731ece8401b84fd2208c0a3771c660a57b) | chore: Add SDD prompt and plan for publish\_sase\_github\_011\_to\_pypi | 2026-06-11 14:48:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0985057`](https://github.com/sase-org/sase/commit/098505731ece8401b84fd2208c0a3771c660a57b) | chore: Add SDD prompt and plan for publish\_sase\_github\_011\_to\_pypi | 2026-06-11 14:48:29 |
 
 ## Neighbors
 

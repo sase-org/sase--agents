@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6d563ea`](https://github.com/sase-org/sase/commit/6d563ea481a0669b5cf247594852849b696a5daf) | docs: consolidate directives and xprompts research | 2026-06-20 13:32:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6d563ea`](https://github.com/sase-org/sase/commit/6d563ea481a0669b5cf247594852849b696a5daf) | docs: consolidate directives and xprompts research | 2026-06-20 13:32:41 |
 
 ## Neighbors
 

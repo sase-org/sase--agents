@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`04595d3`](https://github.com/sase-org/sase/commit/04595d3159d7451bca8a1eef28b24ee6c7d6f200) | feat(memory): fold dirty memory edits into init commits | 2026-06-28 13:10:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`04595d3`](https://github.com/sase-org/sase/commit/04595d3159d7451bca8a1eef28b24ee6c7d6f200) | feat(memory): fold dirty memory edits into init commits | 2026-06-28 13:10:40 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d857fc7`](https://github.com/sase-org/sase/commit/d857fc7c62feafc37e8be5678b5aab8f602efda4) | feat: add commit filter query language (sase-6s.1) | 2026-07-18 12:46:43 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d857fc7`](https://github.com/sase-org/sase/commit/d857fc7c62feafc37e8be5678b5aab8f602efda4) | feat: add commit filter query language (sase-6s.1) | 2026-07-18 12:46:43 |
 
 ## Neighbors
 

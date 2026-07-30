@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8cbbc9e`](https://github.com/sase-org/sase/commit/8cbbc9e0e3d96996fd62aa5880a61de4350806ff) | test: split SDD commit tests by responsibility | 2026-07-17 02:04:36 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8cbbc9e`](https://github.com/sase-org/sase/commit/8cbbc9e0e3d96996fd62aa5880a61de4350806ff) | test: split SDD commit tests by responsibility | 2026-07-17 02:04:36 |
 
 ## Neighbors
 

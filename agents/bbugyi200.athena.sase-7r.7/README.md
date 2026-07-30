@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`926d19b`](https://github.com/sase-org/sase/commit/926d19b9b0c0707b5dde5bc77892434c7ce5be3b) | test: add end-to-end smoke tests for clan summaries (sase-7r.7) | 2026-07-20 01:11:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`926d19b`](https://github.com/sase-org/sase/commit/926d19b9b0c0707b5dde5bc77892434c7ce5be3b) | test: add end-to-end smoke tests for clan summaries (sase-7r.7) | 2026-07-20 01:11:13 |
 
 ## Neighbors
 

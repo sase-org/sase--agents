@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f5bb487`](https://github.com/sase-org/sase/commit/f5bb487f5be2e8bb011ce44bafb2c3e2d3f2f6fc) | chore: add episode v2 and events trajectory critique | 2026-05-28 22:06:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f5bb487`](https://github.com/sase-org/sase/commit/f5bb487f5be2e8bb011ce44bafb2c3e2d3f2f6fc) | chore: add episode v2 and events trajectory critique | 2026-05-28 22:06:25 |
 
 ## Neighbors
 

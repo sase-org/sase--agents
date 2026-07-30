@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d50c2e5`](https://github.com/sase-org/sase/commit/d50c2e52e706da04790419df19e6684b04354344) | feat(tui): aggregate agent output variables | 2026-07-09 01:30:53 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d50c2e5`](https://github.com/sase-org/sase/commit/d50c2e52e706da04790419df19e6684b04354344) | feat(tui): aggregate agent output variables | 2026-07-09 01:30:53 |

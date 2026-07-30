@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`40f61ab`](https://github.com/sase-org/sase/commit/40f61abb525eec988a3959c1449543502b7a0112) | build(deps): raise the sase-core-rs floor to 0.12.17 | 2026-07-30 03:42:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`40f61ab`](https://github.com/sase-org/sase/commit/40f61abb525eec988a3959c1449543502b7a0112) | build(deps): raise the sase-core-rs floor to 0.12.17 | 2026-07-30 03:42:42 |
 
 ## Neighbors
 

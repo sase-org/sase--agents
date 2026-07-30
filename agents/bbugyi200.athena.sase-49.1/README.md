@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`067360d`](https://github.com/sase-org/sase/commit/067360dfdbb9b8c69b706687e3bc4769f770236a) | feat: add project lifecycle facade (sase-49.1) | 2026-06-01 17:06:47 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`067360d`](https://github.com/sase-org/sase/commit/067360dfdbb9b8c69b706687e3bc4769f770236a) | feat: add project lifecycle facade (sase-49.1) | 2026-06-01 17:06:47 |
 
 ## Neighbors
 

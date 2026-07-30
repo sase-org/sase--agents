@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2ce0f95`](https://github.com/sase-org/sase/commit/2ce0f956da2facb017cfcb5f1874388fb10e2b5c) | feat(tui): collect prompt inputs on prompt-bar submit (sase-9q.5) | 2026-07-26 12:53:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2ce0f95`](https://github.com/sase-org/sase/commit/2ce0f956da2facb017cfcb5f1874388fb10e2b5c) | feat(tui): collect prompt inputs on prompt-bar submit (sase-9q.5) | 2026-07-26 12:53:37 |
 
 ## Neighbors
 

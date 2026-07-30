@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`da3314b`](https://github.com/sase-org/sase/commit/da3314bb0f53c3debde7a53b3275b7dd20e9795d) | docs: consolidate config TUI UX research | 2026-06-22 16:55:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`da3314b`](https://github.com/sase-org/sase/commit/da3314bb0f53c3debde7a53b3275b7dd20e9795d) | docs: consolidate config TUI UX research | 2026-06-22 16:55:30 |
 
 ## Neighbors
 

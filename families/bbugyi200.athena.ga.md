@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`0bbf415`](https://github.com/sase-org/sase/commit/0bbf41585be894812dcb2bec927bcd7f0558ff45) | fix: serialize approved epic plan launches | 2026-07-20 15:25:08 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`0bbf415`](https://github.com/sase-org/sase/commit/0bbf41585be894812dcb2bec927bcd7f0558ff45) | fix: serialize approved epic plan launches | 2026-07-20 15:25:08 |

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`608c76a`](https://github.com/sase-org/sase/commit/608c76ac3eaded7c884c314dd057ec21e8e8d222) | chore: Add SDD commit log clutter infographic | 2026-06-10 00:49:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`608c76a`](https://github.com/sase-org/sase/commit/608c76ac3eaded7c884c314dd057ec21e8e8d222) | chore: Add SDD commit log clutter infographic | 2026-06-10 00:49:11 |
 
 ## Neighbors
 

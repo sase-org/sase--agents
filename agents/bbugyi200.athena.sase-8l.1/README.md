@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`eaef2d7`](https://github.com/sase-org/sase/commit/eaef2d78b1faf15a0764e08b066383ee4d6a48e3) | feat(axe): carry clan summaries through chop launches (sase-8l.1) | 2026-07-22 16:42:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`eaef2d7`](https://github.com/sase-org/sase/commit/eaef2d78b1faf15a0764e08b066383ee4d6a48e3) | feat(axe): carry clan summaries through chop launches (sase-8l.1) | 2026-07-22 16:42:07 |
 
 ## Neighbors
 

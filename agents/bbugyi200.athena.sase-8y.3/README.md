@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5ca1756`](https://github.com/sase-org/sase/commit/5ca1756fc685499fa42e8a784ae5c3beb7e5c39e) | feat(beads): add claimed status read-side support (sase-8y.3) | 2026-07-24 20:48:00 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5ca1756`](https://github.com/sase-org/sase/commit/5ca1756fc685499fa42e8a784ae5c3beb7e5c39e) | feat(beads): add claimed status read-side support (sase-8y.3) | 2026-07-24 20:48:00 |
 
 ## Neighbors
 

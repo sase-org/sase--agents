@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b3db87d`](https://github.com/sase-org/sase/commit/b3db87d93c7ddd23d415ae6ef10d3275379b8886) | chore: Add SDD prompt and plan for vcs\_ref\_colon\_completion | 2026-07-07 19:36:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b3db87d`](https://github.com/sase-org/sase/commit/b3db87d93c7ddd23d415ae6ef10d3275379b8886) | chore: Add SDD prompt and plan for vcs\_ref\_colon\_completion | 2026-07-07 19:36:06 |
 
 ## Neighbors
 

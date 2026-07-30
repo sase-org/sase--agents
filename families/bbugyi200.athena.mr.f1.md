@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`e73040a`](https://github.com/sase-org/sase/commit/e73040accf00f09ec3d7a0dbc6657114aa159805) | feat(ace): add foldable slow tool call details | 2026-07-28 13:00:18 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`e73040a`](https://github.com/sase-org/sase/commit/e73040accf00f09ec3d7a0dbc6657114aa159805) | feat(ace): add foldable slow tool call details | 2026-07-28 13:00:18 |
 
 ## Neighbors
 

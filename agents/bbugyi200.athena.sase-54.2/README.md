@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`618c275`](https://github.com/sase-org/sase/commit/618c27537c6624c12571556f3a8bb60ef09e13ca) | feat(config): add Python config backend and write execution (sase-54.2) | 2026-06-23 14:06:52 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`618c275`](https://github.com/sase-org/sase/commit/618c27537c6624c12571556f3a8bb60ef09e13ca) | feat(config): add Python config backend and write execution (sase-54.2) | 2026-06-23 14:06:52 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`de57f5a`](https://github.com/sase-org/sase/commit/de57f5a5f3e8563b48400f2843737ef7b4c8b33b) | feat(tui): highlight artifact references in prompts | 2026-07-29 18:32:47 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`de57f5a`](https://github.com/sase-org/sase/commit/de57f5a5f3e8563b48400f2843737ef7b4c8b33b) | feat(tui): highlight artifact references in prompts | 2026-07-29 18:32:47 |
 
 ## Neighbors
 

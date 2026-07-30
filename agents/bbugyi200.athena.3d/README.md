@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`dfd4675`](https://github.com/sase-org/sase/commit/dfd4675cc023acb9d9b86b29fce78e6f5102c391) | chore: Add SDD prompt and plan for rename\_cls\_tab\_to\_prs | 2026-06-07 10:06:28 |
-| [`75ff288`](https://github.com/sase-org/sase/commit/75ff2882000a1df2b7f25eefb56297d87b7b2ea3) | feat: rename ACE CL labels to PRs | 2026-06-07 10:24:59 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`dfd4675`](https://github.com/sase-org/sase/commit/dfd4675cc023acb9d9b86b29fce78e6f5102c391) | chore: Add SDD prompt and plan for rename\_cls\_tab\_to\_prs | 2026-06-07 10:06:28 |
+| sase | [`75ff288`](https://github.com/sase-org/sase/commit/75ff2882000a1df2b7f25eefb56297d87b7b2ea3) | feat: rename ACE CL labels to PRs | 2026-06-07 10:24:59 |

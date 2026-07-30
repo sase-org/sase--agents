@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a3130df`](https://github.com/sase-org/sase/commit/a3130df52c0bff060db58bb4468d4a0ef82925f2) | docs: clarify artifact reference handoffs | 2026-07-30 03:47:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a3130df`](https://github.com/sase-org/sase/commit/a3130df52c0bff060db58bb4468d4a0ef82925f2) | docs: clarify artifact reference handoffs | 2026-07-30 03:47:32 |
 
 ## Neighbors
 

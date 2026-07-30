@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`da84b41`](https://github.com/sase-org/sase/commit/da84b41b73fa1867b39edc8d260830026793bcb6) | fix(sdd): replace stale workspace SDD clone instead of refusing | 2026-07-08 18:29:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`da84b41`](https://github.com/sase-org/sase/commit/da84b41b73fa1867b39edc8d260830026793bcb6) | fix(sdd): replace stale workspace SDD clone instead of refusing | 2026-07-08 18:29:27 |

@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ce3258b`](https://github.com/sase-org/sase/commit/ce3258be0a7665e12a321f56a3a7747ed74539fd) | feat(tui): keep commit timeline entries on one line | 2026-07-17 17:43:49 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ce3258b`](https://github.com/sase-org/sase/commit/ce3258be0a7665e12a321f56a3a7747ed74539fd) | feat(tui): keep commit timeline entries on one line | 2026-07-17 17:43:49 |

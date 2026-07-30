@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5568411`](https://github.com/sase-org/sase/commit/5568411c9545b2c34bd112fb30f0d39afd4aacc2) | fix(tui): tighten commas after xprompt completions | 2026-07-28 22:00:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5568411`](https://github.com/sase-org/sase/commit/5568411c9545b2c34bd112fb30f0d39afd4aacc2) | fix(tui): tighten commas after xprompt completions | 2026-07-28 22:00:32 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`57c5b8c`](https://github.com/sase-org/sase/commit/57c5b8c6a9007fae7c6b18ba4ea56b9e038be88a) | perf(tui): cache annotated hint documents (sase-a5.4) | 2026-07-27 20:41:17 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`57c5b8c`](https://github.com/sase-org/sase/commit/57c5b8c6a9007fae7c6b18ba4ea56b9e038be88a) | perf(tui): cache annotated hint documents (sase-a5.4) | 2026-07-27 20:41:17 |
 
 ## Neighbors
 

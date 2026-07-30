@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f4ced91`](https://github.com/sase-org/sase/commit/f4ced9109fca2de718b253c6baf5aa873e67f03e) | chore: document memory search implementation research | 2026-05-31 16:12:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f4ced91`](https://github.com/sase-org/sase/commit/f4ced9109fca2de718b253c6baf5aa873e67f03e) | chore: document memory search implementation research | 2026-05-31 16:12:40 |
 
 ## Neighbors
 

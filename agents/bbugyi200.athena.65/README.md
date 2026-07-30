@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`711120b`](https://github.com/sase-org/sase/commit/711120b638d3362f4b9c0b1211c49a4af9ab5b69) | fix: handle pinned prompt stash bundles consistently | 2026-07-11 21:31:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`711120b`](https://github.com/sase-org/sase/commit/711120b638d3362f4b9c0b1211c49a4af9ab5b69) | fix: handle pinned prompt stash bundles consistently | 2026-07-11 21:31:29 |

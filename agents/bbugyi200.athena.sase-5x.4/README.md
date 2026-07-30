@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5afb9b3`](https://github.com/sase-org/sase/commit/5afb9b33c781cf27ed63789c2b18e7bcff96abd7) | docs: migrate linked repository guidance to repo commands (sase-5x.4) | 2026-07-13 19:38:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5afb9b3`](https://github.com/sase-org/sase/commit/5afb9b33c781cf27ed63789c2b18e7bcff96abd7) | docs: migrate linked repository guidance to repo commands (sase-5x.4) | 2026-07-13 19:38:22 |
 
 ## Neighbors
 

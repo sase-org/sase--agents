@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5bbe080`](https://github.com/sase-org/sase/commit/5bbe080279d4f202903175d4ab341bee756826f0) | chore: Add SDD prompt and plan for mode\_switch\_github\_dev\_root | 2026-07-05 10:21:28 |
-| [`672c3ce`](https://github.com/sase-org/sase/commit/672c3cea88582de76508080ff5a1639201a0efea) | feat(mode-switch)!: use GitHub dev checkout layout | 2026-07-05 10:43:21 |
-| [`3717d87`](https://github.com/sase-org/sase/commit/3717d87a6d4ad7eb0f13ceeb3afdc2c2da937877) | chore: Add SDD prompt and plan for sase\_run\_literal\_directive\_fix | 2026-07-07 04:00:06 |
-| [`a7953c4`](https://github.com/sase-org/sase/commit/a7953c42dd1d35c94f8a032d6cc2b9e7c8354a7d) | docs(skills): document literal prompt directives | 2026-07-07 04:51:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5bbe080`](https://github.com/sase-org/sase/commit/5bbe080279d4f202903175d4ab341bee756826f0) | chore: Add SDD prompt and plan for mode\_switch\_github\_dev\_root | 2026-07-05 10:21:28 |
+| sase | [`672c3ce`](https://github.com/sase-org/sase/commit/672c3cea88582de76508080ff5a1639201a0efea) | feat(mode-switch)!: use GitHub dev checkout layout | 2026-07-05 10:43:21 |
+| sase | [`3717d87`](https://github.com/sase-org/sase/commit/3717d87a6d4ad7eb0f13ceeb3afdc2c2da937877) | chore: Add SDD prompt and plan for sase\_run\_literal\_directive\_fix | 2026-07-07 04:00:06 |
+| sase | [`a7953c4`](https://github.com/sase-org/sase/commit/a7953c42dd1d35c94f8a032d6cc2b9e7c8354a7d) | docs(skills): document literal prompt directives | 2026-07-07 04:51:11 |

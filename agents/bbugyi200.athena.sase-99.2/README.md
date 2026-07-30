@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a8f9e58`](https://github.com/sase-org/sase/commit/a8f9e5802c395c3cce113edee9dac1c53d56dc08) | feat(tui): extend shared member roster rendering (sase-99.2) | 2026-07-25 13:46:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a8f9e58`](https://github.com/sase-org/sase/commit/a8f9e5802c395c3cce113edee9dac1c53d56dc08) | feat(tui): extend shared member roster rendering (sase-99.2) | 2026-07-25 13:46:11 |
 
 ## Neighbors
 

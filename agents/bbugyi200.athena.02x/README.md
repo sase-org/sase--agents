@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d56eef4`](https://github.com/sase-org/sase/commit/d56eef4cd2f996a08a9751632878a632b97ad9d7) | chore: Add SDD prompt and plan for prompt\_autopairs | 2026-06-21 12:39:11 |
-| [`b0e668f`](https://github.com/sase-org/sase/commit/b0e668f7cc998dcf9be81a6e5a91a31566189e26) | feat(tui): generalize prompt input auto-pairing | 2026-06-21 12:55:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d56eef4`](https://github.com/sase-org/sase/commit/d56eef4cd2f996a08a9751632878a632b97ad9d7) | chore: Add SDD prompt and plan for prompt\_autopairs | 2026-06-21 12:39:11 |
+| sase | [`b0e668f`](https://github.com/sase-org/sase/commit/b0e668f7cc998dcf9be81a6e5a91a31566189e26) | feat(tui): generalize prompt input auto-pairing | 2026-06-21 12:55:30 |
 
 ## Neighbors
 

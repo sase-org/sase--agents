@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e10f7ec`](https://github.com/sase-org/sase/commit/e10f7ecb47d3a712cf77d5917bd4056b2e0c390d) | test: split launch approval tests by behavior | 2026-07-20 18:02:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e10f7ec`](https://github.com/sase-org/sase/commit/e10f7ecb47d3a712cf77d5917bd4056b2e0c390d) | test: split launch approval tests by behavior | 2026-07-20 18:02:46 |
 
 ## Neighbors
 

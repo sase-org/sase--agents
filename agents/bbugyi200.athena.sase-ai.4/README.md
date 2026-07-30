@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6e15f0d`](https://github.com/sase-org/sase/commit/6e15f0dc06c87b9f09241f675f81057d4975a70b) | feat(bead-pages): render deterministic bead pages (sase-ai.4) | 2026-07-28 19:32:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6e15f0d`](https://github.com/sase-org/sase/commit/6e15f0dc06c87b9f09241f675f81057d4975a70b) | feat(bead-pages): render deterministic bead pages (sase-ai.4) | 2026-07-28 19:32:06 |
 
 ## Neighbors
 

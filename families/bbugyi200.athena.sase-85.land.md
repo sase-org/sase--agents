@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`f87a09c`](https://github.com/sase-org/sase/commit/f87a09c423fef75701b816dbfaa67370d7a8832b) | test: cover stale epic summary clone recovery (sase-85) | 2026-07-20 16:42:58 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`f87a09c`](https://github.com/sase-org/sase/commit/f87a09c423fef75701b816dbfaa67370d7a8832b) | test: cover stale epic summary clone recovery (sase-85) | 2026-07-20 16:42:58 |
 
 ## Neighbors
 

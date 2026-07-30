@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b6ee8f7`](https://github.com/sase-org/sase/commit/b6ee8f76161d25914894566125bf99321828dcde) | test: harden runner slot lifecycle (sase-5u.5) | 2026-07-13 10:50:19 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b6ee8f7`](https://github.com/sase-org/sase/commit/b6ee8f76161d25914894566125bf99321828dcde) | test: harden runner slot lifecycle (sase-5u.5) | 2026-07-13 10:50:19 |
 
 ## Neighbors
 

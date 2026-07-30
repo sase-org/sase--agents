@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1524b96`](https://github.com/sase-org/sase/commit/1524b964fbf4dda8195c5cbdf3176eafc9779180) | feat(xprompt): materialize VCS project catalog for the xprompt LSP (sase-4z.4) | 2026-06-19 15:30:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1524b96`](https://github.com/sase-org/sase/commit/1524b964fbf4dda8195c5cbdf3176eafc9779180) | feat(xprompt): materialize VCS project catalog for the xprompt LSP (sase-4z.4) | 2026-06-19 15:30:23 |
 
 ## Neighbors
 

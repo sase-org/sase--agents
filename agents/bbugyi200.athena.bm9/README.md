@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4afac01`](https://github.com/sase-org/sase/commit/4afac012ce429038820e11fbcae8f59a1da2686b) | chore: Add SDD prompt and plan for lsp\_local\_xprompts | 2026-05-28 13:22:22 |
-| [`05306a6`](https://github.com/sase-org/sase/commit/05306a6bde55e2130ae438b1461e80036f8c27ec) | chore: mark LSP local xprompts tale done | 2026-05-28 13:33:33 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4afac01`](https://github.com/sase-org/sase/commit/4afac012ce429038820e11fbcae8f59a1da2686b) | chore: Add SDD prompt and plan for lsp\_local\_xprompts | 2026-05-28 13:22:22 |
+| sase | [`05306a6`](https://github.com/sase-org/sase/commit/05306a6bde55e2130ae438b1461e80036f8c27ec) | chore: mark LSP local xprompts tale done | 2026-05-28 13:33:33 |

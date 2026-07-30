@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`01a1adb`](https://github.com/sase-org/sase/commit/01a1adbe73866475de7c068fa3637d2a0009e0c8) | feat: migrate project config and xprompt runtime paths (sase-6d.2) | 2026-07-16 17:47:19 |
-| [`6dbd568`](https://github.com/sase-org/sase/commit/6dbd5688ef77df23640164328b26f794e304244e) | fix: reconcile memory init config path API (sase-6d.2) | 2026-07-16 17:51:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`01a1adb`](https://github.com/sase-org/sase/commit/01a1adbe73866475de7c068fa3637d2a0009e0c8) | feat: migrate project config and xprompt runtime paths (sase-6d.2) | 2026-07-16 17:47:19 |
+| sase | [`6dbd568`](https://github.com/sase-org/sase/commit/6dbd5688ef77df23640164328b26f794e304244e) | fix: reconcile memory init config path API (sase-6d.2) | 2026-07-16 17:51:09 |
 
 ## Neighbors
 

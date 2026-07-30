@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ad4a0f8`](https://github.com/sase-org/sase/commit/ad4a0f88abc439adf0c001fd9a684aa2a9ea7daf) | test: split commit workflow artifact tests | 2026-07-12 15:17:03 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ad4a0f8`](https://github.com/sase-org/sase/commit/ad4a0f88abc439adf0c001fd9a684aa2a9ea7daf) | test: split commit workflow artifact tests | 2026-07-12 15:17:03 |
 
 ## Neighbors
 

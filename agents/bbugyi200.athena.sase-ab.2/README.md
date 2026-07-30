@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8137b10`](https://github.com/sase-org/sase/commit/8137b10480ef0e1c03613c3cad862f707e56d95d) | fix: preserve flat plans sidecar with plans README (sase-ab.2) | 2026-07-28 11:56:04 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8137b10`](https://github.com/sase-org/sase/commit/8137b10480ef0e1c03613c3cad862f707e56d95d) | fix: preserve flat plans sidecar with plans README (sase-ab.2) | 2026-07-28 11:56:04 |
 
 ## Neighbors
 

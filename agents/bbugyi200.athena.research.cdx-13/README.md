@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`dc0414c`](https://github.com/sase-org/sase/commit/dc0414c6246eb42c75515ff87dae48c743fb718a) | chore: add HN launch strategy research | 2026-06-07 10:11:47 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`dc0414c`](https://github.com/sase-org/sase/commit/dc0414c6246eb42c75515ff87dae48c743fb718a) | chore: add HN launch strategy research | 2026-06-07 10:11:47 |
 
 ## Neighbors
 

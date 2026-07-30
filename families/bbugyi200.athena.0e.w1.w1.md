@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`672f706`](https://github.com/sase-org/sase/commit/672f7068ee588c6e0edfa9e5059170df59dea6b1) | chore: Add SDD prompt and plan for pr\_terminology\_rename | 2026-07-07 15:55:24 |
-| root | [`ba6d2a1`](https://github.com/sase-org/sase/commit/ba6d2a1e57fd5e6bd93cf444555d58c04b839988) | feat: use PR terminology for ChangeSpec reviews | 2026-07-07 16:54:38 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`672f706`](https://github.com/sase-org/sase/commit/672f7068ee588c6e0edfa9e5059170df59dea6b1) | chore: Add SDD prompt and plan for pr\_terminology\_rename | 2026-07-07 15:55:24 |
+| root | sase | [`ba6d2a1`](https://github.com/sase-org/sase/commit/ba6d2a1e57fd5e6bd93cf444555d58c04b839988) | feat: use PR terminology for ChangeSpec reviews | 2026-07-07 16:54:38 |
 
 ## Neighbors
 

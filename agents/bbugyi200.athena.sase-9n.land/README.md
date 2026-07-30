@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4b9a5be`](https://github.com/sase-org/sase/commit/4b9a5bec2bf492792020be3fb71ef61a9a48a0a5) | docs: document templated chop member names in the plugin guide (sase-9n) | 2026-07-25 20:14:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4b9a5be`](https://github.com/sase-org/sase/commit/4b9a5bec2bf492792020be3fb71ef61a9a48a0a5) | docs: document templated chop member names in the plugin guide (sase-9n) | 2026-07-25 20:14:06 |
 
 ## Neighbors
 

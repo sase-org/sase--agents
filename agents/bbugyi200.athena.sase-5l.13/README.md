@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2e7861a`](https://github.com/sase-org/sase/commit/2e7861a2fe4ee80bbb5db832ce66c67c88f15bee) | fix(doctor): clarify prettier skill drift diagnostics (sase-5l.13) | 2026-07-08 21:17:53 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2e7861a`](https://github.com/sase-org/sase/commit/2e7861a2fe4ee80bbb5db832ce66c67c88f15bee) | fix(doctor): clarify prettier skill drift diagnostics (sase-5l.13) | 2026-07-08 21:17:53 |
 
 ## Neighbors
 

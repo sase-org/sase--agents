@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`65732cb`](https://github.com/sase-org/sase/commit/65732cb3b621319e012b44905d7bf50722f20e53) | fix: report lane counts in cleanup confirmations | 2026-07-29 13:36:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`65732cb`](https://github.com/sase-org/sase/commit/65732cb3b621319e012b44905d7bf50722f20e53) | fix: report lane counts in cleanup confirmations | 2026-07-29 13:36:44 |

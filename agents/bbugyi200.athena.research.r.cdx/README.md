@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1dd3ffc`](https://github.com/sase-org/sase/commit/1dd3ffc69ccdb190a53512569f02d2648129fb15) | docs: add Hacker News timing research | 2026-06-19 15:21:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1dd3ffc`](https://github.com/sase-org/sase/commit/1dd3ffc69ccdb190a53512569f02d2648129fb15) | docs: add Hacker News timing research | 2026-06-19 15:21:27 |
 
 ## Neighbors
 

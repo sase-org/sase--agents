@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`eca7a0a`](https://github.com/sase-org/sase/commit/eca7a0a4c014a3f30f50b6e6070a691fc6e9abda) | chore: add episode v2 research infographic | 2026-05-28 22:16:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`eca7a0a`](https://github.com/sase-org/sase/commit/eca7a0a4c014a3f30f50b6e6070a691fc6e9abda) | chore: add episode v2 research infographic | 2026-05-28 22:16:46 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8abdb35`](https://github.com/sase-org/sase/commit/8abdb359cb7051cb5e0e1d936b6fc47c8cdcd4be) | test: split prompt input bar stack tests | 2026-06-17 22:29:08 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8abdb35`](https://github.com/sase-org/sase/commit/8abdb359cb7051cb5e0e1d936b6fc47c8cdcd4be) | test: split prompt input bar stack tests | 2026-06-17 22:29:08 |
 
 ## Neighbors
 

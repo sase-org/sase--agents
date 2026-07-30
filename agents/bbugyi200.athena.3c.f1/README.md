@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ed5f1ec`](https://github.com/sase-org/sase/commit/ed5f1ec2e278a04f0d56f7b7f5dbd8f7a444e350) | chore: Add SDD prompt and plan for hide\_unpublished\_blog\_posts | 2026-06-06 20:24:21 |
-| [`b1d537d`](https://github.com/sase-org/sase/commit/b1d537da4d9d5828f1fbe9979443d01730f6b452) | chore: hide unpublished blog posts | 2026-06-06 20:35:47 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ed5f1ec`](https://github.com/sase-org/sase/commit/ed5f1ec2e278a04f0d56f7b7f5dbd8f7a444e350) | chore: Add SDD prompt and plan for hide\_unpublished\_blog\_posts | 2026-06-06 20:24:21 |
+| sase | [`b1d537d`](https://github.com/sase-org/sase/commit/b1d537da4d9d5828f1fbe9979443d01730f6b452) | chore: hide unpublished blog posts | 2026-06-06 20:35:47 |
 
 ## Neighbors
 

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`dfe7d43`](https://github.com/sase-org/sase/commit/dfe7d439bb5de926a65315f9e94ebcd0a537f50c) | chore: Add SDD prompt and plan for update\_check\_startup\_toast | 2026-06-28 18:55:08 |
-| [`d22ef80`](https://github.com/sase-org/sase/commit/d22ef802056d18a98806f81b7be598bc101535f7) | feat(ace): show startup toast for available updates | 2026-06-28 19:19:16 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`dfe7d43`](https://github.com/sase-org/sase/commit/dfe7d439bb5de926a65315f9e94ebcd0a537f50c) | chore: Add SDD prompt and plan for update\_check\_startup\_toast | 2026-06-28 18:55:08 |
+| sase | [`d22ef80`](https://github.com/sase-org/sase/commit/d22ef802056d18a98806f81b7be598bc101535f7) | feat(ace): show startup toast for available updates | 2026-06-28 19:19:16 |
 
 ## Neighbors
 

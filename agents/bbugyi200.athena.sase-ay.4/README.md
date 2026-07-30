@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`53b3496`](https://github.com/sase-org/sase/commit/53b34965f1cf960e92935ca1ec999ff9c24ec4f7) | fix(ace): keep completion panel rows within budget | 2026-07-29 22:49:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`53b3496`](https://github.com/sase-org/sase/commit/53b34965f1cf960e92935ca1ec999ff9c24ec4f7) | fix(ace): keep completion panel rows within budget | 2026-07-29 22:49:21 |
 
 ## Neighbors
 

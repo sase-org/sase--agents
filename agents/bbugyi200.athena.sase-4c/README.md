@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d89738c`](https://github.com/sase-org/sase/commit/d89738cfbc12da09cf416e5a9c6f489b3245e3b0) | chore: close project aliases epic (sase-4c) | 2026-06-04 16:21:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d89738c`](https://github.com/sase-org/sase/commit/d89738cfbc12da09cf416e5a9c6f489b3245e3b0) | chore: close project aliases epic (sase-4c) | 2026-06-04 16:21:27 |
 
 ## Neighbors
 

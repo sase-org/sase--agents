@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b040020`](https://github.com/sase-org/sase/commit/b040020913e5284e5858a49b1404151c1e07be9e) | feat(ace): surface bead-gated waits (sase-87.5) | 2026-07-20 18:02:49 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b040020`](https://github.com/sase-org/sase/commit/b040020913e5284e5858a49b1404151c1e07be9e) | feat(ace): surface bead-gated waits (sase-87.5) | 2026-07-20 18:02:49 |
 
 ## Neighbors
 

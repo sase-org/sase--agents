@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`d28d297`](https://github.com/sase-org/sase/commit/d28d2976bb5cb312ea2ddc92d3b7d01c309dfe1d) | feat(ace): enrich folded clan summaries | 2026-07-18 21:48:46 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`d28d297`](https://github.com/sase-org/sase/commit/d28d2976bb5cb312ea2ddc92d3b7d01c309dfe1d) | feat(ace): enrich folded clan summaries | 2026-07-18 21:48:46 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`47514b7`](https://github.com/sase-org/sase/commit/47514b77a887b7a518a7df1013c1021d9d73e498) | fix: initialize project-specific research sidecars (sase-62.2) | 2026-07-15 12:49:36 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`47514b7`](https://github.com/sase-org/sase/commit/47514b77a887b7a518a7df1013c1021d9d73e498) | fix: initialize project-specific research sidecars (sase-62.2) | 2026-07-15 12:49:36 |
 
 ## Neighbors
 

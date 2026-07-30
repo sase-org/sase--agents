@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`241de00`](https://github.com/sase-org/sase/commit/241de00c2ee716e9daf0f20aee70881801e41683) | fix(beads): harden managed sync worker hygiene (sase-9v.5) | 2026-07-26 16:00:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`241de00`](https://github.com/sase-org/sase/commit/241de00c2ee716e9daf0f20aee70881801e41683) | fix(beads): harden managed sync worker hygiene (sase-9v.5) | 2026-07-26 16:00:30 |
 
 ## Neighbors
 

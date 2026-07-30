@@ -15,11 +15,11 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a8fb1e5`](https://github.com/sase-org/sase/commit/a8fb1e5254470fdaa972df174a9a916e06e4f2f3) | chore: Add SDD prompt and plan for hide\_home\_project\_from\_at\_panel | 2026-06-02 20:53:27 |
-| [`6f5e692`](https://github.com/sase-org/sase/commit/6f5e692a403354b5f5462dac33538219ea60dd87) | fix: hide home project from custom-agent selector | 2026-06-02 20:58:34 |
-| [`d6855ae`](https://github.com/sase-org/sase/commit/d6855ae890cbafadc80cc7f22d380a11fbf5779d) | fix(tui): strip ANSI controls from semantic AXE logs | 2026-07-05 22:30:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a8fb1e5`](https://github.com/sase-org/sase/commit/a8fb1e5254470fdaa972df174a9a916e06e4f2f3) | chore: Add SDD prompt and plan for hide\_home\_project\_from\_at\_panel | 2026-06-02 20:53:27 |
+| sase | [`6f5e692`](https://github.com/sase-org/sase/commit/6f5e692a403354b5f5462dac33538219ea60dd87) | fix: hide home project from custom-agent selector | 2026-06-02 20:58:34 |
+| sase | [`d6855ae`](https://github.com/sase-org/sase/commit/d6855ae890cbafadc80cc7f22d380a11fbf5779d) | fix(tui): strip ANSI controls from semantic AXE logs | 2026-07-05 22:30:02 |
 
 ## Neighbors
 

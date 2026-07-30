@@ -20,9 +20,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4b7bccb`](https://github.com/sase-org/sase/commit/4b7bccbcc458cff2c6e276ad3daa723c8e1feaf6) | chore: add repeat STOP variable research | 2026-06-11 23:10:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4b7bccb`](https://github.com/sase-org/sase/commit/4b7bccbcc458cff2c6e276ad3daa723c8e1feaf6) | chore: add repeat STOP variable research | 2026-06-11 23:10:44 |
 
 ## Variables
 

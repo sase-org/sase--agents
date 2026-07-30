@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3a8eea0`](https://github.com/sase-org/sase/commit/3a8eea0c28798a597b759cb3780a3044ecd26047) | feat(cli): add audited repository open command (sase-5x.1) | 2026-07-13 18:36:16 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3a8eea0`](https://github.com/sase-org/sase/commit/3a8eea0c28798a597b759cb3780a3044ecd26047) | feat(cli): add audited repository open command (sase-5x.1) | 2026-07-13 18:36:16 |
 
 ## Neighbors
 

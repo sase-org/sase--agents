@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`eff1c4f`](https://github.com/sase-org/sase/commit/eff1c4fbdc96ded5cafb12fa17e9293363652d7f) | chore: consolidate project lifecycle research | 2026-06-01 16:13:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`eff1c4f`](https://github.com/sase-org/sase/commit/eff1c4fbdc96ded5cafb12fa17e9293363652d7f) | chore: consolidate project lifecycle research | 2026-06-01 16:13:05 |
 
 ## Neighbors
 

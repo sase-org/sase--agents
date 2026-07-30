@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`994fc8a`](https://github.com/sase-org/sase/commit/994fc8ad2d1047a8523114457b1072231322bc7d) | refactor(tui): split tool call reader | 2026-06-13 16:03:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`994fc8a`](https://github.com/sase-org/sase/commit/994fc8ad2d1047a8523114457b1072231322bc7d) | refactor(tui): split tool call reader | 2026-06-13 16:03:25 |
 
 ## Neighbors
 

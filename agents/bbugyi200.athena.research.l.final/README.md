@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`15557e8`](https://github.com/sase-org/sase/commit/15557e87cdd5ce4f882cca835a01cd8a8f844577) | docs: consolidate model purpose config research | 2026-06-17 19:18:00 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`15557e8`](https://github.com/sase-org/sase/commit/15557e87cdd5ce4f882cca835a01cd8a8f844577) | docs: consolidate model purpose config research | 2026-06-17 19:18:00 |
 
 ## Neighbors
 

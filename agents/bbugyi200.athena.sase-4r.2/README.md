@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b8ad5db`](https://github.com/sase-org/sase/commit/b8ad5db760b41da505f20a08a4205ac131bee3b4) | feat(xprompt): add structured PromptFrontmatter model + stack round-trip (sase-4r.2) | 2026-06-16 18:43:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b8ad5db`](https://github.com/sase-org/sase/commit/b8ad5db760b41da505f20a08a4205ac131bee3b4) | feat(xprompt): add structured PromptFrontmatter model + stack round-trip (sase-4r.2) | 2026-06-16 18:43:44 |
 
 ## Neighbors
 

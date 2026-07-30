@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`ed7714b`](https://github.com/sase-org/sase/commit/ed7714b5b2e5f714cd54105139b054e28c7a8fb7) | feat(models): group coder aliases in built-in bucket | 2026-07-11 14:25:50 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`ed7714b`](https://github.com/sase-org/sase/commit/ed7714b5b2e5f714cd54105139b054e28c7a8fb7) | feat(models): group coder aliases in built-in bucket | 2026-07-11 14:25:50 |
 
 ## Neighbors
 

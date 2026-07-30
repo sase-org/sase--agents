@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`52c99ca`](https://github.com/sase-org/sase/commit/52c99ca5de304fdc673f0ba76002a260321f5bd0) | fix(tui): defer update restart for background tasks | 2026-07-09 16:40:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`52c99ca`](https://github.com/sase-org/sase/commit/52c99ca5de304fdc673f0ba76002a260321f5bd0) | fix(tui): defer update restart for background tasks | 2026-07-09 16:40:20 |
 
 ## Neighbors
 

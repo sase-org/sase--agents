@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c35848f`](https://github.com/sase-org/sase/commit/c35848f73669c7c4c08ceb214e4ac6e9e4bb0340) | chore: consolidate Mac screenshot sharing research into one memo | 2026-06-12 13:29:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c35848f`](https://github.com/sase-org/sase/commit/c35848f73669c7c4c08ceb214e4ac6e9e4bb0340) | chore: consolidate Mac screenshot sharing research into one memo | 2026-06-12 13:29:42 |
 
 ## Neighbors
 

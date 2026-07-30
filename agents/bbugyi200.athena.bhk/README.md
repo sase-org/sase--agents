@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4b1e07e`](https://github.com/sase-org/sase/commit/4b1e07eec675308e0f33c9b197c18da280c7903f) | chore: Add SDD prompt and plan for retry\_suffix\_and\_keymap | 2026-05-26 22:16:46 |
-| [`b69fa05`](https://github.com/sase-org/sase/commit/b69fa057fbf04829caf9c214c1d4ce2baeb38b88) | feat: move agent retry to direct r | 2026-05-26 22:29:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4b1e07e`](https://github.com/sase-org/sase/commit/4b1e07eec675308e0f33c9b197c18da280c7903f) | chore: Add SDD prompt and plan for retry\_suffix\_and\_keymap | 2026-05-26 22:16:46 |
+| sase | [`b69fa05`](https://github.com/sase-org/sase/commit/b69fa057fbf04829caf9c214c1d4ce2baeb38b88) | feat: move agent retry to direct r | 2026-05-26 22:29:41 |
 
 ## Neighbors
 

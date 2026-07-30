@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e4ed0cb`](https://github.com/sase-org/sase/commit/e4ed0cbc80fd14524a8b2895fed2c6547317f393) | chore: refresh SASE architecture diagrams (sase-6d.8) | 2026-07-16 19:50:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e4ed0cb`](https://github.com/sase-org/sase/commit/e4ed0cbc80fd14524a8b2895fed2c6547317f393) | chore: refresh SASE architecture diagrams (sase-6d.8) | 2026-07-16 19:50:46 |
 
 ## Neighbors
 

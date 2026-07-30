@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d6b9ebe`](https://github.com/sase-org/sase/commit/d6b9ebe1bf1e3f7bdc742783a8eb281feb7136bd) | feat(ace): persist and display reasoning effort uniformly (sase-55.4) | 2026-06-23 17:53:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d6b9ebe`](https://github.com/sase-org/sase/commit/d6b9ebe1bf1e3f7bdc742783a8eb281feb7136bd) | feat(ace): persist and display reasoning effort uniformly (sase-55.4) | 2026-06-23 17:53:41 |
 
 ## Neighbors
 

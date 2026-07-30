@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`d1a3bda`](https://github.com/sase-org/sase/commit/d1a3bdaf1d32b1a6b01e5605c1d603f09eef63da) | feat(ace): persist Agents fold state across sessions | 2026-07-15 23:43:52 |
-| root | [`d1a3bda`](https://github.com/sase-org/sase/commit/d1a3bdaf1d32b1a6b01e5605c1d603f09eef63da) | feat(ace): persist Agents fold state across sessions | 2026-07-15 23:43:52 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`d1a3bda`](https://github.com/sase-org/sase/commit/d1a3bdaf1d32b1a6b01e5605c1d603f09eef63da) | feat(ace): persist Agents fold state across sessions | 2026-07-15 23:43:52 |
+| root | sase | [`d1a3bda`](https://github.com/sase-org/sase/commit/d1a3bdaf1d32b1a6b01e5605c1d603f09eef63da) | feat(ace): persist Agents fold state across sessions | 2026-07-15 23:43:52 |

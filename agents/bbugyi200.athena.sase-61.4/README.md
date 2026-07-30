@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bc32fb8`](https://github.com/sase-org/sase/commit/bc32fb844cdc36181f824c2bfa78fcda7e9c6548) | feat: validate tiered plans before approval (sase-61.4) | 2026-07-14 17:54:36 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`bc32fb8`](https://github.com/sase-org/sase/commit/bc32fb844cdc36181f824c2bfa78fcda7e9c6548) | feat: validate tiered plans before approval (sase-61.4) | 2026-07-14 17:54:36 |
 
 ## Neighbors
 

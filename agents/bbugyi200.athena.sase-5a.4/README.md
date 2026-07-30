@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`300fe2e`](https://github.com/sase-org/sase/commit/300fe2efeb64760c0f1a7c990447449f63d0bb92) | test(ace): add Projects-tab PNG snapshots and refresh config-center goldens (sase-5a.4) | 2026-06-26 19:05:49 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`300fe2e`](https://github.com/sase-org/sase/commit/300fe2efeb64760c0f1a7c990447449f63d0bb92) | test(ace): add Projects-tab PNG snapshots and refresh config-center goldens (sase-5a.4) | 2026-06-26 19:05:49 |
 
 ## Neighbors
 

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6c83498`](https://github.com/sase-org/sase/commit/6c834980864d657afc97205e1b1cfcf82d636444) | chore: Add SDD prompt and plan for blog\_quickstart\_git\_workspace | 2026-07-02 19:38:37 |
-| [`286446e`](https://github.com/sase-org/sase/commit/286446e557d4ce1dd3dc1f5a0b23c6f0762d444d) | docs: refresh SASE quickstart workspace examples | 2026-07-02 19:44:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6c83498`](https://github.com/sase-org/sase/commit/6c834980864d657afc97205e1b1cfcf82d636444) | chore: Add SDD prompt and plan for blog\_quickstart\_git\_workspace | 2026-07-02 19:38:37 |
+| sase | [`286446e`](https://github.com/sase-org/sase/commit/286446e557d4ce1dd3dc1f5a0b23c6f0762d444d) | docs: refresh SASE quickstart workspace examples | 2026-07-02 19:44:46 |
 
 ## Neighbors
 

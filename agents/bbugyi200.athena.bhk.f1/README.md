@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`79871e8`](https://github.com/sase-org/sase/commit/79871e8d047a9aa8987fee4fe811c8f7d03e88b2) | chore: Add SDD prompt and plan for telegram\_retry\_copy\_names | 2026-05-26 22:43:34 |
-| [`3ebed32`](https://github.com/sase-org/sase/commit/3ebed3282cc487e1e681a0311d87bc7a9a47eede) | fix: support retry directive aliases | 2026-05-26 22:55:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`79871e8`](https://github.com/sase-org/sase/commit/79871e8d047a9aa8987fee4fe811c8f7d03e88b2) | chore: Add SDD prompt and plan for telegram\_retry\_copy\_names | 2026-05-26 22:43:34 |
+| sase | [`3ebed32`](https://github.com/sase-org/sase/commit/3ebed3282cc487e1e681a0311d87bc7a9a47eede) | fix: support retry directive aliases | 2026-05-26 22:55:11 |
 
 ## Neighbors
 

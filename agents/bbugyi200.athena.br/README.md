@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`abf5cdc`](https://github.com/sase-org/sase/commit/abf5cdcd51a2d3d40f2f446d4019bedb336aafbc) | feat(ace): add fast navigation to artifact lists | 2026-07-17 13:24:43 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`abf5cdc`](https://github.com/sase-org/sase/commit/abf5cdcd51a2d3d40f2f446d4019bedb336aafbc) | feat(ace): add fast navigation to artifact lists | 2026-07-17 13:24:43 |
 
 ## Neighbors
 

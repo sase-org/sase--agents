@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4fbc531`](https://github.com/sase-org/sase/commit/4fbc5315efa364c904d49aa8cb22b89469c9bc13) | test: split agent loader PID dedup tests | 2026-07-22 20:45:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4fbc531`](https://github.com/sase-org/sase/commit/4fbc5315efa364c904d49aa8cb22b89469c9bc13) | test: split agent loader PID dedup tests | 2026-07-22 20:45:32 |
 
 ## Neighbors
 

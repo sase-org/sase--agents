@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6b3457b`](https://github.com/sase-org/sase/commit/6b3457b0bc765201ca33a8a80fddf544ae3a67cb) | feat(cli)!: infer plan validation tier | 2026-07-22 13:55:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6b3457b`](https://github.com/sase-org/sase/commit/6b3457b0bc765201ca33a8a80fddf544ae3a67cb) | feat(cli)!: infer plan validation tier | 2026-07-22 13:55:40 |

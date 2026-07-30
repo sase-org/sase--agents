@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a323d33`](https://github.com/sase-org/sase/commit/a323d33fa42dada649e9f8d4b041ef692ddd396b) | docs: consolidate sase dev update research | 2026-06-26 01:52:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a323d33`](https://github.com/sase-org/sase/commit/a323d33fa42dada649e9f8d4b041ef692ddd396b) | docs: consolidate sase dev update research | 2026-06-26 01:52:05 |
 
 ## Neighbors
 

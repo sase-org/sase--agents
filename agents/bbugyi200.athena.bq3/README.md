@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c727449`](https://github.com/sase-org/sase/commit/c7274495d6d07265a29a243b6f9c56f657dab5fd) | chore: Add SDD prompt and plan for agent\_bead\_cross\_project\_metadata | 2026-06-01 14:53:22 |
-| [`d012dee`](https://github.com/sase-org/sase/commit/d012dee902dc6af1ca792ff884aaa9d6476e00b7) | fix: resolve bead metadata from agent workspace | 2026-06-01 15:00:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c727449`](https://github.com/sase-org/sase/commit/c7274495d6d07265a29a243b6f9c56f657dab5fd) | chore: Add SDD prompt and plan for agent\_bead\_cross\_project\_metadata | 2026-06-01 14:53:22 |
+| sase | [`d012dee`](https://github.com/sase-org/sase/commit/d012dee902dc6af1ca792ff884aaa9d6476e00b7) | fix: resolve bead metadata from agent workspace | 2026-06-01 15:00:41 |

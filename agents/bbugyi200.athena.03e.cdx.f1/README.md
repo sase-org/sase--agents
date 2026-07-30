@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`09b1cce`](https://github.com/sase-org/sase/commit/09b1cceb25ff694768df5681e6fc485fe4cc67aa) | chore: Add SDD prompt and plan for xprompt\_double\_colon\_space | 2026-06-22 11:38:38 |
-| [`d3eeb4d`](https://github.com/sase-org/sase/commit/d3eeb4d7c1594251a9932a3f9d7533af47c9bc4e) | feat(ace): append space after end-of-line xprompt double-colon skeleton | 2026-06-22 11:56:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`09b1cce`](https://github.com/sase-org/sase/commit/09b1cceb25ff694768df5681e6fc485fe4cc67aa) | chore: Add SDD prompt and plan for xprompt\_double\_colon\_space | 2026-06-22 11:38:38 |
+| sase | [`d3eeb4d`](https://github.com/sase-org/sase/commit/d3eeb4d7c1594251a9932a3f9d7533af47c9bc4e) | feat(ace): append space after end-of-line xprompt double-colon skeleton | 2026-06-22 11:56:30 |
 
 ## Neighbors
 

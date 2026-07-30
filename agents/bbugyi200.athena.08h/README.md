@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f6fa3fb`](https://github.com/sase-org/sase/commit/f6fa3fbc6384078e1ade4257dfc711af18b9373b) | feat(config): pretty render structured config values | 2026-06-27 20:41:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f6fa3fb`](https://github.com/sase-org/sase/commit/f6fa3fbc6384078e1ade4257dfc711af18b9373b) | feat(config): pretty render structured config values | 2026-06-27 20:41:30 |

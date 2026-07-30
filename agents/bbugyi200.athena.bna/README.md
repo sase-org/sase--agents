@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`69878d7`](https://github.com/sase-org/sase/commit/69878d7b0bb8f6ea943efa6ab2605423d216f841) | chore: Add SDD prompt and plan for chat\_transcript\_metadata\_description\_lists | 2026-05-28 13:24:23 |
-| [`4708fe1`](https://github.com/sase-org/sase/commit/4708fe1b6cd094d9935df13605f628c82ccedf9c) | feat: render chat transcript metadata as blocks | 2026-05-28 13:36:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`69878d7`](https://github.com/sase-org/sase/commit/69878d7b0bb8f6ea943efa6ab2605423d216f841) | chore: Add SDD prompt and plan for chat\_transcript\_metadata\_description\_lists | 2026-05-28 13:24:23 |
+| sase | [`4708fe1`](https://github.com/sase-org/sase/commit/4708fe1b6cd094d9935df13605f628c82ccedf9c) | feat: render chat transcript metadata as blocks | 2026-05-28 13:36:32 |

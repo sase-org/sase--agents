@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6fcf391`](https://github.com/sase-org/sase/commit/6fcf3913de7dd251f3280bf6ae210beca0ecf073) | docs: correct refreshed workflow guidance | 2026-07-29 06:28:34 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6fcf391`](https://github.com/sase-org/sase/commit/6fcf3913de7dd251f3280bf6ae210beca0ecf073) | docs: correct refreshed workflow guidance | 2026-07-29 06:28:34 |
 
 ## Neighbors
 

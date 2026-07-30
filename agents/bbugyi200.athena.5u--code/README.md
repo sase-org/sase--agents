@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8af1d23`](https://github.com/sase-org/sase/commit/8af1d23841e8e9e6f3d9a85e4f2fdf228050e7f3) | feat: simplify custom revival search | 2026-07-11 17:14:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8af1d23`](https://github.com/sase-org/sase/commit/8af1d23841e8e9e6f3d9a85e4f2fdf228050e7f3) | feat: simplify custom revival search | 2026-07-11 17:14:09 |
 
 ## Neighbors
 

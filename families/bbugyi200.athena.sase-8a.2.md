@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`75e2c64`](https://github.com/sase-org/sase/commit/75e2c647dfc2bbc58dc1ae54893f6a73ad3ff054) | feat(statistics): add metric legends and recovery states (sase-8a.2) | 2026-07-20 18:48:09 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`75e2c64`](https://github.com/sase-org/sase/commit/75e2c647dfc2bbc58dc1ae54893f6a73ad3ff054) | feat(statistics): add metric legends and recovery states (sase-8a.2) | 2026-07-20 18:48:09 |
 
 ## Neighbors
 

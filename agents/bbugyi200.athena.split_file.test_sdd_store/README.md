@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9fa8971`](https://github.com/sase-org/sase/commit/9fa89717b4d3bdcfd1934229f534b571bb06cc16) | test: split SDD store tests by behavior | 2026-07-08 20:19:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`9fa8971`](https://github.com/sase-org/sase/commit/9fa89717b4d3bdcfd1934229f534b571bb06cc16) | test: split SDD store tests by behavior | 2026-07-08 20:19:24 |
 
 ## Neighbors
 

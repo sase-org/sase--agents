@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0233d57`](https://github.com/sase-org/sase/commit/0233d57c0ec07c67834ce50d9d29780d9f764761) | test(visual): pin renderer environment (sase-65.1) | 2026-07-15 22:17:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0233d57`](https://github.com/sase-org/sase/commit/0233d57c0ec07c67834ce50d9d29780d9f764761) | test(visual): pin renderer environment (sase-65.1) | 2026-07-15 22:17:29 |
 
 ## Neighbors
 

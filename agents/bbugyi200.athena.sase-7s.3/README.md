@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1afba63`](https://github.com/sase-org/sase/commit/1afba633d9bfe27bdfbb3fe7598b2d577d51b16f) | feat(tui): add agent CLI update browser (sase-7s.3) | 2026-07-20 01:51:22 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`1afba63`](https://github.com/sase-org/sase/commit/1afba633d9bfe27bdfbb3fe7598b2d577d51b16f) | feat(tui): add agent CLI update browser (sase-7s.3) | 2026-07-20 01:51:22 |
 
 ## Neighbors
 

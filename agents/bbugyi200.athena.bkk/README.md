@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bdd067a`](https://github.com/sase-org/sase/commit/bdd067aa2fcfc30ea3cf0befa610f32523f30050) | chore: Add SDD prompt and plan for agent\_group\_revival | 2026-05-27 15:52:41 |
-| [`c7512fb`](https://github.com/sase-org/sase/commit/c7512fbda2a29107842f83eadc265777ed0105d6) | chore: create agent group revival epic beads | 2026-05-27 16:04:14 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`bdd067a`](https://github.com/sase-org/sase/commit/bdd067aa2fcfc30ea3cf0befa610f32523f30050) | chore: Add SDD prompt and plan for agent\_group\_revival | 2026-05-27 15:52:41 |
+| sase | [`c7512fb`](https://github.com/sase-org/sase/commit/c7512fbda2a29107842f83eadc265777ed0105d6) | chore: create agent group revival epic beads | 2026-05-27 16:04:14 |

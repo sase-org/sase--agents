@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2d8a8b9`](https://github.com/sase-org/sase/commit/2d8a8b9b9a181bbf54d325f35c283ace90fc3125) | chore: Add SDD prompt and plan for xprompt\_silent\_failure\_diagnostics | 2026-07-02 19:57:26 |
-| [`d698779`](https://github.com/sase-org/sase/commit/d698779c60c01082a75f2a642dd9f23cd986994f) | feat(xprompt): diagnose unresolved xprompt references | 2026-07-02 20:14:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2d8a8b9`](https://github.com/sase-org/sase/commit/2d8a8b9b9a181bbf54d325f35c283ace90fc3125) | chore: Add SDD prompt and plan for xprompt\_silent\_failure\_diagnostics | 2026-07-02 19:57:26 |
+| sase | [`d698779`](https://github.com/sase-org/sase/commit/d698779c60c01082a75f2a642dd9f23cd986994f) | feat(xprompt): diagnose unresolved xprompt references | 2026-07-02 20:14:02 |

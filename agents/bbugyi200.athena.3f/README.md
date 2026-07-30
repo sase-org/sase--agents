@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`649674e`](https://github.com/sase-org/sase/commit/649674e09ea242e5278dad9755db73cbc92ec889) | feat: add shared agent list projection | 2026-07-09 07:39:53 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`649674e`](https://github.com/sase-org/sase/commit/649674e09ea242e5278dad9755db73cbc92ec889) | feat: add shared agent list projection | 2026-07-09 07:39:53 |

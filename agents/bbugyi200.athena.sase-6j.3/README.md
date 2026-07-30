@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6ade59e`](https://github.com/sase-org/sase/commit/6ade59edcd93d25cc6fbb438dba51d36508bcb06) | fix(ace): keep agent refresh responsive during cleanup (sase-6j.3) | 2026-07-17 12:41:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6ade59e`](https://github.com/sase-org/sase/commit/6ade59edcd93d25cc6fbb438dba51d36508bcb06) | fix(ace): keep agent refresh responsive during cleanup (sase-6j.3) | 2026-07-17 12:41:23 |
 
 ## Neighbors
 

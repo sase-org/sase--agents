@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cbcbb66`](https://github.com/sase-org/sase/commit/cbcbb663457615d171a9b9315f48ad5f1ae086bd) | chore: Add SDD prompt and plan for project\_delete\_missing\_spec | 2026-06-01 21:25:33 |
-| [`3f5350d`](https://github.com/sase-org/sase/commit/3f5350da36b474ae92efcaae17ed9fa098ef74a2) | fix: allow deleting projects with missing specs | 2026-06-01 21:31:01 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cbcbb66`](https://github.com/sase-org/sase/commit/cbcbb663457615d171a9b9315f48ad5f1ae086bd) | chore: Add SDD prompt and plan for project\_delete\_missing\_spec | 2026-06-01 21:25:33 |
+| sase | [`3f5350d`](https://github.com/sase-org/sase/commit/3f5350da36b474ae92efcaae17ed9fa098ef74a2) | fix: allow deleting projects with missing specs | 2026-06-01 21:31:01 |

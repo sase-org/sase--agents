@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bd7ac5d`](https://github.com/sase-org/sase/commit/bd7ac5de57b845072df2d9b787ca79567e06472b) | chore: Add SDD prompt and plan for dot\_repeat\_completeness | 2026-06-23 22:55:32 |
-| [`8233079`](https://github.com/sase-org/sase/commit/82330792f3fb9f93b3dc7c7c17cfc42cdc71995f) | fix(ace): complete prompt vim dot repeat | 2026-06-23 23:18:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`bd7ac5d`](https://github.com/sase-org/sase/commit/bd7ac5de57b845072df2d9b787ca79567e06472b) | chore: Add SDD prompt and plan for dot\_repeat\_completeness | 2026-06-23 22:55:32 |
+| sase | [`8233079`](https://github.com/sase-org/sase/commit/82330792f3fb9f93b3dc7c7c17cfc42cdc71995f) | fix(ace): complete prompt vim dot repeat | 2026-06-23 23:18:57 |
 
 ## Neighbors
 

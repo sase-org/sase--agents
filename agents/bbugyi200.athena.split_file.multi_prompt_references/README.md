@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8510e2c`](https://github.com/sase-org/sase/commit/8510e2c74927e5cfb7f8dc0434e17987983ad739) | ref: split multi-prompt reference helpers | 2026-06-08 21:20:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8510e2c`](https://github.com/sase-org/sase/commit/8510e2c74927e5cfb7f8dc0434e17987983ad739) | ref: split multi-prompt reference helpers | 2026-06-08 21:20:45 |
 
 ## Neighbors
 

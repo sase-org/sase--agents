@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`90b8261`](https://github.com/sase-org/sase/commit/90b826121193d211b415a83787dd2301e0da8881) | fix: use PR terminology in ACE command labels | 2026-06-08 18:21:03 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`90b8261`](https://github.com/sase-org/sase/commit/90b826121193d211b415a83787dd2301e0da8881) | fix: use PR terminology in ACE command labels | 2026-06-08 18:21:03 |
 
 ## Neighbors
 

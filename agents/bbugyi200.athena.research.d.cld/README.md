@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5c7a16e`](https://github.com/sase-org/sase/commit/5c7a16ee020aced196c3131be162496e97845741) | docs: add research for proposed \`sase prompt\` command | 2026-06-13 13:30:19 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5c7a16e`](https://github.com/sase-org/sase/commit/5c7a16ee020aced196c3131be162496e97845741) | docs: add research for proposed \`sase prompt\` command | 2026-06-13 13:30:19 |
 
 ## Neighbors
 

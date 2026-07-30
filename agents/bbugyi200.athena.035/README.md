@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5aa9492`](https://github.com/sase-org/sase/commit/5aa9492438c99b9a1ab22a2e302432c06c4cf9c6) | chore: Add SDD prompt and plan for ctrl\_g\_prompt\_normal\_mode | 2026-06-21 14:16:18 |
-| [`be9b975`](https://github.com/sase-org/sase/commit/be9b97517af00fda312efe6aa79b96e2ad0f3a0b) | feat(tui): enable Ctrl+G prompt prefix in NORMAL mode | 2026-06-21 14:33:51 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5aa9492`](https://github.com/sase-org/sase/commit/5aa9492438c99b9a1ab22a2e302432c06c4cf9c6) | chore: Add SDD prompt and plan for ctrl\_g\_prompt\_normal\_mode | 2026-06-21 14:16:18 |
+| sase | [`be9b975`](https://github.com/sase-org/sase/commit/be9b97517af00fda312efe6aa79b96e2ad0f3a0b) | feat(tui): enable Ctrl+G prompt prefix in NORMAL mode | 2026-06-21 14:33:51 |

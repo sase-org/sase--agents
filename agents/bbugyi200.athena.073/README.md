@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`33a8975`](https://github.com/sase-org/sase/commit/33a8975689aa72e2497b8f0c852019fd62b72d7a) | chore: Add SDD prompt and plan for fix\_wait\_completion\_comma | 2026-06-26 15:30:30 |
-| [`2479fbd`](https://github.com/sase-org/sase/commit/2479fbd4bc7da580d12e06338388e93d6b2b6dd5) | fix(tui): don't reopen wait-agent completion on prose commas | 2026-06-26 15:38:15 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`33a8975`](https://github.com/sase-org/sase/commit/33a8975689aa72e2497b8f0c852019fd62b72d7a) | chore: Add SDD prompt and plan for fix\_wait\_completion\_comma | 2026-06-26 15:30:30 |
+| sase | [`2479fbd`](https://github.com/sase-org/sase/commit/2479fbd4bc7da580d12e06338388e93d6b2b6dd5) | fix(tui): don't reopen wait-agent completion on prose commas | 2026-06-26 15:38:15 |

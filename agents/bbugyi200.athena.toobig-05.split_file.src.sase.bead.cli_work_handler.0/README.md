@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ef16e3f`](https://github.com/sase-org/sase/commit/ef16e3f5ab1ee3e1ba4b07c0c565bec72056f700) | refactor(bead): split work handler responsibilities | 2026-07-26 18:12:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ef16e3f`](https://github.com/sase-org/sase/commit/ef16e3f5ab1ee3e1ba4b07c0c565bec72056f700) | refactor(bead): split work handler responsibilities | 2026-07-26 18:12:02 |
 
 ## Neighbors
 

@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`6de6ee3`](https://github.com/sase-org/sase/commit/6de6ee32b03b4c5151df146f97302ce3a03f712c) | feat(ace): reserve the default agent tribe panel | 2026-07-19 23:03:17 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`6de6ee3`](https://github.com/sase-org/sase/commit/6de6ee32b03b4c5151df146f97302ce3a03f712c) | feat(ace): reserve the default agent tribe panel | 2026-07-19 23:03:17 |
 
 ## Neighbors
 

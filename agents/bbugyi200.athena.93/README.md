@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b526f9d`](https://github.com/sase-org/sase/commit/b526f9def24ee979cce09ca657804782c2c7afe9) | chore: Add SDD prompt and plan for rename\_chats\_to\_chat | 2026-06-17 11:11:55 |
-| [`86849c6`](https://github.com/sase-org/sase/commit/86849c6df9363015e869f75be85ca3a60aeb3961) | refactor(cli)!: rename \`sase chats\` command to \`sase chat\` | 2026-06-17 11:25:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b526f9d`](https://github.com/sase-org/sase/commit/b526f9def24ee979cce09ca657804782c2c7afe9) | chore: Add SDD prompt and plan for rename\_chats\_to\_chat | 2026-06-17 11:11:55 |
+| sase | [`86849c6`](https://github.com/sase-org/sase/commit/86849c6df9363015e869f75be85ca3a60aeb3961) | refactor(cli)!: rename \`sase chats\` command to \`sase chat\` | 2026-06-17 11:25:21 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`480cbfc`](https://github.com/sase-org/sase/commit/480cbfc3a99d8dbf76d7ec31c77de526af4d8838) | docs(beads): align bead docs and CLI help with current behavior (sase-9v.11) | 2026-07-26 16:38:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`480cbfc`](https://github.com/sase-org/sase/commit/480cbfc3a99d8dbf76d7ec31c77de526af4d8838) | docs(beads): align bead docs and CLI help with current behavior (sase-9v.11) | 2026-07-26 16:38:02 |
 
 ## Neighbors
 

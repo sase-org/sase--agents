@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6436463`](https://github.com/sase-org/sase/commit/6436463fb77c61a1f8e1a79b2f857bcbfff34574) | chore: Add SDD prompt and plan for prompt\_input\_search | 2026-06-17 22:22:27 |
-| [`c5557d1`](https://github.com/sase-org/sase/commit/c5557d1b039d063499434c219286bfa3d79a6b6b) | chore: create prompt input search beads | 2026-06-17 22:30:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`6436463`](https://github.com/sase-org/sase/commit/6436463fb77c61a1f8e1a79b2f857bcbfff34574) | chore: Add SDD prompt and plan for prompt\_input\_search | 2026-06-17 22:22:27 |
+| sase | [`c5557d1`](https://github.com/sase-org/sase/commit/c5557d1b039d063499434c219286bfa3d79a6b6b) | chore: create prompt input search beads | 2026-06-17 22:30:58 |

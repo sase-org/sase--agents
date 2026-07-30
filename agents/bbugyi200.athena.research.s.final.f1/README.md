@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0665b2f`](https://github.com/sase-org/sase/commit/0665b2f3d3cda97fd4770b98181bcdaca3e1a7a9) | chore: Add SDD prompt and plan for license\_file\_cleanup | 2026-06-19 17:34:51 |
-| [`f7a8004`](https://github.com/sase-org/sase/commit/f7a80040ecab24409fad9cf001fbdb77b79a3cb3) | build: add MIT LICENSE file and PEP 639 packaging metadata | 2026-06-19 17:38:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0665b2f`](https://github.com/sase-org/sase/commit/0665b2f3d3cda97fd4770b98181bcdaca3e1a7a9) | chore: Add SDD prompt and plan for license\_file\_cleanup | 2026-06-19 17:34:51 |
+| sase | [`f7a8004`](https://github.com/sase-org/sase/commit/f7a80040ecab24409fad9cf001fbdb77b79a3cb3) | build: add MIT LICENSE file and PEP 639 packaging metadata | 2026-06-19 17:38:42 |
 
 ## Neighbors
 

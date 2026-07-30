@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`73de857`](https://github.com/sase-org/sase/commit/73de8575bc63180822daf1a41cbf70855a8bb6fe) | test: cover deleted cwd through xprompt sources | 2026-07-16 21:16:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`73de857`](https://github.com/sase-org/sase/commit/73de8575bc63180822daf1a41cbf70855a8bb6fe) | test: cover deleted cwd through xprompt sources | 2026-07-16 21:16:09 |
 
 ## Neighbors
 

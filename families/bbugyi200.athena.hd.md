@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`01b06e3`](https://github.com/sase-org/sase/commit/01b06e3d6507c68b3ae9a1ccebc6859a13e40c66) | fix(tui): keep artifact selection in viewport | 2026-07-21 19:22:12 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`01b06e3`](https://github.com/sase-org/sase/commit/01b06e3d6507c68b3ae9a1ccebc6859a13e40c66) | fix(tui): keep artifact selection in viewport | 2026-07-21 19:22:12 |

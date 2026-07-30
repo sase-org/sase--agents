@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2a616e7`](https://github.com/sase-org/sase/commit/2a616e7c0da1398ff517568ee2aef8fbd20d6d21) | docs: document clan summaries and axe recovery | 2026-07-20 00:36:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2a616e7`](https://github.com/sase-org/sase/commit/2a616e7c0da1398ff517568ee2aef8fbd20d6d21) | docs: document clan summaries and axe recovery | 2026-07-20 00:36:46 |
 
 ## Neighbors
 

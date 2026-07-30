@@ -22,8 +22,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`d57cf2a`](https://github.com/sase-org/sase/commit/d57cf2ab941b131019a84ed9c06babbb1fdd2b15) | chore: Add SDD prompt and plan for agents\_var\_namespace | 2026-06-03 05:23:03 |
-| root | [`0b84b94`](https://github.com/sase-org/sase/commit/0b84b94fca438557844b88154ad5df40c5644c95) | chore: Add SDD prompt and plan for update\_confirm\_commits | 2026-07-07 18:24:34 |
-| root | [`9c9caa6`](https://github.com/sase-org/sase/commit/9c9caa6cc99b733f3605799b4ffd38d9c07c18e4) | fix(tui): summarize multi-repo update commits | 2026-07-07 18:33:43 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`d57cf2a`](https://github.com/sase-org/sase/commit/d57cf2ab941b131019a84ed9c06babbb1fdd2b15) | chore: Add SDD prompt and plan for agents\_var\_namespace | 2026-06-03 05:23:03 |
+| root | sase | [`0b84b94`](https://github.com/sase-org/sase/commit/0b84b94fca438557844b88154ad5df40c5644c95) | chore: Add SDD prompt and plan for update\_confirm\_commits | 2026-07-07 18:24:34 |
+| root | sase | [`9c9caa6`](https://github.com/sase-org/sase/commit/9c9caa6cc99b733f3605799b4ffd38d9c07c18e4) | fix(tui): summarize multi-repo update commits | 2026-07-07 18:33:43 |

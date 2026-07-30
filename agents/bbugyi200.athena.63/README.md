@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`dcafd64`](https://github.com/sase-org/sase/commit/dcafd64e74d695d194f6ab2b0893a098e38b3c40) | feat(tui): redesign xprompt save panel | 2026-07-11 21:14:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`dcafd64`](https://github.com/sase-org/sase/commit/dcafd64e74d695d194f6ab2b0893a098e38b3c40) | feat(tui): redesign xprompt save panel | 2026-07-11 21:14:40 |

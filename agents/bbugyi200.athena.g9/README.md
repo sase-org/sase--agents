@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b4d689f`](https://github.com/sase-org/sase/commit/b4d689f53d6e397f8ef6e3a0b733321e4d9934da) | fix: resolve waits for dismissed clan members | 2026-07-20 15:21:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b4d689f`](https://github.com/sase-org/sase/commit/b4d689f53d6e397f8ef6e3a0b733321e4d9934da) | fix: resolve waits for dismissed clan members | 2026-07-20 15:21:11 |

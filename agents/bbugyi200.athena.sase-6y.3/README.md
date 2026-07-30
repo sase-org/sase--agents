@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5a4c0ae`](https://github.com/sase-org/sase/commit/5a4c0aeb0fd90cb944f236547ba49aa0d6229d13) | feat(stats): add Python statistics facade (sase-6y.3) | 2026-07-18 23:29:14 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5a4c0ae`](https://github.com/sase-org/sase/commit/5a4c0aeb0fd90cb944f236547ba49aa0d6229d13) | feat(stats): add Python statistics facade (sase-6y.3) | 2026-07-18 23:29:14 |
 
 ## Neighbors
 

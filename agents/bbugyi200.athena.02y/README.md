@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`164c0e0`](https://github.com/sase-org/sase/commit/164c0e0ff30ad5cca09aba13047e0e5bdc506409) | chore: Add SDD prompt and plan for agent\_restore\_panel\_polish | 2026-06-21 12:53:31 |
-| [`6458af0`](https://github.com/sase-org/sase/commit/6458af0ab3cb22321ee8ba2b980a23bc6d5f2e11) | feat(tui): polish agent restore panel rows | 2026-06-21 13:11:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`164c0e0`](https://github.com/sase-org/sase/commit/164c0e0ff30ad5cca09aba13047e0e5bdc506409) | chore: Add SDD prompt and plan for agent\_restore\_panel\_polish | 2026-06-21 12:53:31 |
+| sase | [`6458af0`](https://github.com/sase-org/sase/commit/6458af0ab3cb22321ee8ba2b980a23bc6d5f2e11) | feat(tui): polish agent restore panel rows | 2026-06-21 13:11:06 |
 
 ## Neighbors
 

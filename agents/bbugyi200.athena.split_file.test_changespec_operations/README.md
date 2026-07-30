@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8e50ac6`](https://github.com/sase-org/sase/commit/8e50ac6d59ee34b1f71957b62f579d1df92b0863) | ref: split changespec operation tests | 2026-06-02 21:25:14 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8e50ac6`](https://github.com/sase-org/sase/commit/8e50ac6d59ee34b1f71957b62f579d1df92b0863) | ref: split changespec operation tests | 2026-06-02 21:25:14 |
 
 ## Neighbors
 

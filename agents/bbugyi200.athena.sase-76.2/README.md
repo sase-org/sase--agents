@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`286b992`](https://github.com/sase-org/sase/commit/286b992e4289edf2ca1f1ced20d37d6833b80e30) | feat(ace)!: move query and help to leader chords (sase-76.2) | 2026-07-19 13:54:43 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`286b992`](https://github.com/sase-org/sase/commit/286b992e4289edf2ca1f1ced20d37d6833b80e30) | feat(ace)!: move query and help to leader chords (sase-76.2) | 2026-07-19 13:54:43 |
 
 ## Neighbors
 

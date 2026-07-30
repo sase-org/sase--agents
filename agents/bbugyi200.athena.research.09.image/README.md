@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7608303`](https://github.com/sase-org/sase/commit/76083037828319e246a8ef4d318740ac5ae4f826) | docs: add bead work latency infographic | 2026-06-23 16:18:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7608303`](https://github.com/sase-org/sase/commit/76083037828319e246a8ef4d318740ac5ae4f826) | docs: add bead work latency infographic | 2026-06-23 16:18:41 |
 
 ## Neighbors
 

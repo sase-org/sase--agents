@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f1f5324`](https://github.com/sase-org/sase/commit/f1f5324e21cd6fa25f29dd47af0c672c5de6269e) | fix: suppress refresh docs marker notification | 2026-07-09 16:51:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f1f5324`](https://github.com/sase-org/sase/commit/f1f5324e21cd6fa25f29dd47af0c672c5de6269e) | fix: suppress refresh docs marker notification | 2026-07-09 16:51:39 |

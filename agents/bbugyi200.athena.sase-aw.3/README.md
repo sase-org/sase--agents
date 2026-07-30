@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cc7a347`](https://github.com/sase-org/sase/commit/cc7a347c3a9a15af4154117acb33ce27384e48cd) | feat(ace): add source search to preview reader | 2026-07-29 23:10:50 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cc7a347`](https://github.com/sase-org/sase/commit/cc7a347c3a9a15af4154117acb33ce27384e48cd) | feat(ace): add source search to preview reader | 2026-07-29 23:10:50 |
 
 ## Neighbors
 

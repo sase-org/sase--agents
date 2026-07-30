@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`04f7be6`](https://github.com/sase-org/sase/commit/04f7be663fd601b5289514bcf9dcc1f2f9986ac3) | feat(telemetry)!: query the local store from the CLI (sase-6k.4) | 2026-07-17 17:47:08 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`04f7be6`](https://github.com/sase-org/sase/commit/04f7be663fd601b5289514bcf9dcc1f2f9986ac3) | feat(telemetry)!: query the local store from the CLI (sase-6k.4) | 2026-07-17 17:47:08 |
 
 ## Neighbors
 

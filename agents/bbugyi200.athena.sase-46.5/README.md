@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`15f6f77`](https://github.com/sase-org/sase/commit/15f6f771c2d32fe0bef62e954cc61371a44fe147) | chore: close sase-46.5 verification bead | 2026-05-27 16:59:50 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`15f6f77`](https://github.com/sase-org/sase/commit/15f6f771c2d32fe0bef62e954cc61371a44fe147) | chore: close sase-46.5 verification bead | 2026-05-27 16:59:50 |
 
 ## Neighbors
 

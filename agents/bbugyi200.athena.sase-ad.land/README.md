@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7076775`](https://github.com/sase-org/sase/commit/7076775d252780c71df7ae9769863315a19390c4) | refactor(agents\_sync): share one publication outbox path reader (sase-ad) | 2026-07-28 13:12:17 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7076775`](https://github.com/sase-org/sase/commit/7076775d252780c71df7ae9769863315a19390c4) | refactor(agents\_sync): share one publication outbox path reader (sase-ad) | 2026-07-28 13:12:17 |
 
 ## Neighbors
 

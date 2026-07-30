@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cb7b4fb`](https://github.com/sase-org/sase/commit/cb7b4fbd63dac72183c0b9c706832d8b34d955d7) | docs: consolidate sase prompt command research | 2026-06-13 13:45:01 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cb7b4fb`](https://github.com/sase-org/sase/commit/cb7b4fbd63dac72183c0b9c706832d8b34d955d7) | docs: consolidate sase prompt command research | 2026-06-13 13:45:01 |
 
 ## Neighbors
 

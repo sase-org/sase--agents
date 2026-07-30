@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`22b5102`](https://github.com/sase-org/sase/commit/22b5102511e10937af3dfb7ae18bd1cd31fdd8da) | chore: Add SDD prompt and plan for sase\_core\_rs\_pypi\_release\_recovery | 2026-06-09 12:01:19 |
-| root | [`747d9be`](https://github.com/sase-org/sase/commit/747d9be322fda3d635d436217365084031d12188) | feat(sdd)!: make provider storage authoritative | 2026-07-10 11:47:30 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`22b5102`](https://github.com/sase-org/sase/commit/22b5102511e10937af3dfb7ae18bd1cd31fdd8da) | chore: Add SDD prompt and plan for sase\_core\_rs\_pypi\_release\_recovery | 2026-06-09 12:01:19 |
+| root | sase | [`747d9be`](https://github.com/sase-org/sase/commit/747d9be322fda3d635d436217365084031d12188) | feat(sdd)!: make provider storage authoritative | 2026-07-10 11:47:30 |
 
 ## Neighbors
 

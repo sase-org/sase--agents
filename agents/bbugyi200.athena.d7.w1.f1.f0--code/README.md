@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a1152a8`](https://github.com/sase-org/sase/commit/a1152a88c72f1362d8f9c1fd802387c7288f8117) | feat(tui): unify clan and family row identities | 2026-07-18 14:32:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a1152a8`](https://github.com/sase-org/sase/commit/a1152a88c72f1362d8f9c1fd802387c7288f8117) | feat(tui): unify clan and family row identities | 2026-07-18 14:32:09 |
 
 ## Neighbors
 

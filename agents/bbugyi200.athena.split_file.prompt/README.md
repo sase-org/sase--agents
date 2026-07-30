@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`de52d3b`](https://github.com/sase-org/sase/commit/de52d3b6aae4f9bd86d7b88d451a5beb4ecea099) | refactor(history): split prompt history implementation | 2026-06-13 20:01:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`de52d3b`](https://github.com/sase-org/sase/commit/de52d3b6aae4f9bd86d7b88d451a5beb4ecea099) | refactor(history): split prompt history implementation | 2026-06-13 20:01:44 |
 
 ## Neighbors
 

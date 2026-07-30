@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cc8f7a5`](https://github.com/sase-org/sase/commit/cc8f7a50c26945cf0c3046b39098bc2e209d1ced) | feat: add generic clan plan summaries (sase-8d.2) | 2026-07-20 20:14:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cc8f7a5`](https://github.com/sase-org/sase/commit/cc8f7a50c26945cf0c3046b39098bc2e209d1ced) | feat: add generic clan plan summaries (sase-8d.2) | 2026-07-20 20:14:02 |
 
 ## Neighbors
 

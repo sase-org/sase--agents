@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`daaec31`](https://github.com/sase-org/sase/commit/daaec318a48d700a0fbe81755b8d767e4eade638) | test: split epic work launch tests | 2026-07-20 22:12:31 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`daaec31`](https://github.com/sase-org/sase/commit/daaec318a48d700a0fbe81755b8d767e4eade638) | test: split epic work launch tests | 2026-07-20 22:12:31 |
 
 ## Neighbors
 

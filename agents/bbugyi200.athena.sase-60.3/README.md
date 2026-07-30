@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5db03cb`](https://github.com/sase-org/sase/commit/5db03cb123e66b5f401cc0c6bfd9a86b6d2ce534) | feat(cli)!: generalize repository initialization | 2026-07-14 15:48:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5db03cb`](https://github.com/sase-org/sase/commit/5db03cb123e66b5f401cc0c6bfd9a86b6d2ce534) | feat(cli)!: generalize repository initialization | 2026-07-14 15:48:38 |
 
 ## Neighbors
 

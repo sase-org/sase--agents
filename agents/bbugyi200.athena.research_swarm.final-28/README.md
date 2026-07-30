@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a104ef8`](https://github.com/sase-org/sase/commit/a104ef8effa2d40271203d54d29868ebc7906dce) | chore: consolidate agent family research | 2026-06-02 20:08:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a104ef8`](https://github.com/sase-org/sase/commit/a104ef8effa2d40271203d54d29868ebc7906dce) | chore: consolidate agent family research | 2026-06-02 20:08:06 |
 
 ## Neighbors
 

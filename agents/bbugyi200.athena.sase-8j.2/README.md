@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`624adb3`](https://github.com/sase-org/sase/commit/624adb3d843b107513ee4d150d3102abe8a9a9a5) | feat(stats): add Python runner-occupancy view model contract (sase-8j.2) | 2026-07-21 21:34:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`624adb3`](https://github.com/sase-org/sase/commit/624adb3d843b107513ee4d150d3102abe8a9a9a5) | feat(stats): add Python runner-occupancy view model contract (sase-8j.2) | 2026-07-21 21:34:06 |
 
 ## Neighbors
 

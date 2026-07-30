@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5004fe8`](https://github.com/sase-org/sase/commit/5004fe81ba42012fc7fc09a09bf7078709617c92) | fix(agents): force-stage ignored sidecar payloads (sase-92.3) | 2026-07-25 11:23:30 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5004fe8`](https://github.com/sase-org/sase/commit/5004fe81ba42012fc7fc09a09bf7078709617c92) | fix(agents): force-stage ignored sidecar payloads (sase-92.3) | 2026-07-25 11:23:30 |
 
 ## Neighbors
 

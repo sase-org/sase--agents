@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`53d36a2`](https://github.com/sase-org/sase/commit/53d36a2980bd3930de103ccc65f94c4117f59f39) | fix(ace): omit queued chip from leaf agent rows | 2026-07-25 12:58:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`53d36a2`](https://github.com/sase-org/sase/commit/53d36a2980bd3930de103ccc65f94c4117f59f39) | fix(ace): omit queued chip from leaf agent rows | 2026-07-25 12:58:20 |
 
 ## Neighbors
 

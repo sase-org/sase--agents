@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5f0e832`](https://github.com/sase-org/sase/commit/5f0e832a10d59650bf7160bd231ef2ce5b8b92dc) | test(ace): split PNG snapshot suite into feature-scoped modules | 2026-06-12 17:59:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5f0e832`](https://github.com/sase-org/sase/commit/5f0e832a10d59650bf7160bd231ef2ce5b8b92dc) | test(ace): split PNG snapshot suite into feature-scoped modules | 2026-06-12 17:59:11 |
 
 ## Neighbors
 

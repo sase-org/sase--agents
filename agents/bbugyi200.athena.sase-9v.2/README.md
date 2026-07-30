@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a91b71d`](https://github.com/sase-org/sase/commit/a91b71d3702a24a8dde5a1a1fb0f8c811bc4f143) | fix(beads): persist and safely release waiting claims (sase-9v.2) | 2026-07-26 16:17:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a91b71d`](https://github.com/sase-org/sase/commit/a91b71d3702a24a8dde5a1a1fb0f8c811bc4f143) | fix(beads): persist and safely release waiting claims (sase-9v.2) | 2026-07-26 16:17:13 |
 
 ## Neighbors
 

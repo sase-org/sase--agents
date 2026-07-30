@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`28be941`](https://github.com/sase-org/sase/commit/28be941f7b6d321a475ab4648e27240a0c086ea6) | chore: add research on dynamic project lifecycle state | 2026-06-01 16:04:17 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`28be941`](https://github.com/sase-org/sase/commit/28be941f7b6d321a475ab4648e27240a0c086ea6) | chore: add research on dynamic project lifecycle state | 2026-06-01 16:04:17 |
 
 ## Neighbors
 

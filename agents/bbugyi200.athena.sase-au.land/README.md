@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f35c4ce`](https://github.com/sase-org/sase/commit/f35c4ce33185d857fac08c0b80b6e93ef4a2ea50) | fix(ace): mirror launch-boundary xprompt usage in the Python scan wire | 2026-07-29 19:22:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f35c4ce`](https://github.com/sase-org/sase/commit/f35c4ce33185d857fac08c0b80b6e93ef4a2ea50) | fix(ace): mirror launch-boundary xprompt usage in the Python scan wire | 2026-07-29 19:22:37 |
 
 ## Neighbors
 

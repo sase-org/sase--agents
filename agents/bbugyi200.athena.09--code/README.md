@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2601f87`](https://github.com/sase-org/sase/commit/2601f87b3e4660b1d285bd302010e227fd159397) | fix(agent): clean up stale waiting agents on kill | 2026-07-07 04:49:53 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2601f87`](https://github.com/sase-org/sase/commit/2601f87b3e4660b1d285bd302010e227fd159397) | fix(agent): clean up stale waiting agents on kill | 2026-07-07 04:49:53 |

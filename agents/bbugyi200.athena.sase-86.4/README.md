@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8e544a3`](https://github.com/sase-org/sase/commit/8e544a398f7f733dfe92245b1941aee7813e499e) | perf(tests): distribute parallel tests with work stealing (sase-86.4) | 2026-07-20 17:02:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8e544a3`](https://github.com/sase-org/sase/commit/8e544a398f7f733dfe92245b1941aee7813e499e) | perf(tests): distribute parallel tests with work stealing (sase-86.4) | 2026-07-20 17:02:45 |
 
 ## Neighbors
 

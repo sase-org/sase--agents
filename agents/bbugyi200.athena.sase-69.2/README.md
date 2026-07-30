@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e5d2995`](https://github.com/sase-org/sase/commit/e5d29958205915ef9fb218fd12785861800804ad) | feat(vcs): add issue-tracker provider seam (sase-69.2) | 2026-07-16 00:50:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e5d2995`](https://github.com/sase-org/sase/commit/e5d29958205915ef9fb218fd12785861800804ad) | feat(vcs): add issue-tracker provider seam (sase-69.2) | 2026-07-16 00:50:20 |
 
 ## Neighbors
 

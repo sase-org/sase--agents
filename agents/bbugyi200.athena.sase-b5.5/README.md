@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f62e8cd`](https://github.com/sase-org/sase/commit/f62e8cd01713c934cb6e5fcf0374667805a78ceb) | feat(bead-pages): guard against misattributed commit links | 2026-07-30 13:31:35 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f62e8cd`](https://github.com/sase-org/sase/commit/f62e8cd01713c934cb6e5fcf0374667805a78ceb) | feat(bead-pages): guard against misattributed commit links | 2026-07-30 13:31:35 |
 
 ## Neighbors
 

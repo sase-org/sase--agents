@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5d2c42b`](https://github.com/sase-org/sase/commit/5d2c42b7b146547848b10dc8210171340ace9343) | chore: Add SDD prompt and plan for move\_pencil\_after\_runtime | 2026-06-25 21:28:46 |
-| [`af132fb`](https://github.com/sase-org/sase/commit/af132fb8eb329e27294a9d7c7de9512271924655) | feat(ace): move agent row pencil after runtime suffix | 2026-06-25 21:33:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5d2c42b`](https://github.com/sase-org/sase/commit/5d2c42b7b146547848b10dc8210171340ace9343) | chore: Add SDD prompt and plan for move\_pencil\_after\_runtime | 2026-06-25 21:28:46 |
+| sase | [`af132fb`](https://github.com/sase-org/sase/commit/af132fb8eb329e27294a9d7c7de9512271924655) | feat(ace): move agent row pencil after runtime suffix | 2026-06-25 21:33:07 |

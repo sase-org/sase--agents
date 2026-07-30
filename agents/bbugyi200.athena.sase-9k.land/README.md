@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4b9281d`](https://github.com/sase-org/sase/commit/4b9281d3d7d92f0de8a03c8bdea802d28eea6901) | docs: document bounded runner-slot deference (sase-9k) | 2026-07-25 16:53:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`4b9281d`](https://github.com/sase-org/sase/commit/4b9281d3d7d92f0de8a03c8bdea802d28eea6901) | docs: document bounded runner-slot deference (sase-9k) | 2026-07-25 16:53:09 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d32b2d4`](https://github.com/sase-org/sase/commit/d32b2d4a0ed321c310943e2de5347f1cab021f38) | feat(ace): collapse clans from selected agent panel | 2026-07-22 13:23:52 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d32b2d4`](https://github.com/sase-org/sase/commit/d32b2d4a0ed321c310943e2de5347f1cab021f38) | feat(ace): collapse clans from selected agent panel | 2026-07-22 13:23:52 |
 
 ## Neighbors
 

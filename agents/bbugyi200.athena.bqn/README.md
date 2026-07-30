@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e886389`](https://github.com/sase-org/sase/commit/e8863891a900db44ff17e9d451c7393ac85bb20e) | chore: Add SDD prompt and plan for bulk\_kill\_flake\_1 | 2026-06-01 13:06:44 |
-| [`008e81b`](https://github.com/sase-org/sase/commit/008e81b476991cee4f9bf245e941384055e4b9bb) | chore: Stabilize bulk kill tests | 2026-06-01 13:11:03 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e886389`](https://github.com/sase-org/sase/commit/e8863891a900db44ff17e9d451c7393ac85bb20e) | chore: Add SDD prompt and plan for bulk\_kill\_flake\_1 | 2026-06-01 13:06:44 |
+| sase | [`008e81b`](https://github.com/sase-org/sase/commit/008e81b476991cee4f9bf245e941384055e4b9bb) | chore: Stabilize bulk kill tests | 2026-06-01 13:11:03 |

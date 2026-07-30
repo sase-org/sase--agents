@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ac12273`](https://github.com/sase-org/sase/commit/ac12273f547df64aee8b59ab951ada5e440750da) | fix(ace): resolve plans roots through SDD store (sase-ab.3) | 2026-07-28 12:25:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ac12273`](https://github.com/sase-org/sase/commit/ac12273f547df64aee8b59ab951ada5e440750da) | fix(ace): resolve plans roots through SDD store (sase-ab.3) | 2026-07-28 12:25:44 |
 
 ## Neighbors
 

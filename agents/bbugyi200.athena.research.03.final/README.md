@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`10a0afc`](https://github.com/sase-org/sase/commit/10a0afca8aa8cb3192b097253d8debccb5fed6b9) | docs: consolidate agent QoL chat research | 2026-06-20 21:51:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`10a0afc`](https://github.com/sase-org/sase/commit/10a0afca8aa8cb3192b097253d8debccb5fed6b9) | docs: consolidate agent QoL chat research | 2026-06-20 21:51:46 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`67fb149`](https://github.com/sase-org/sase/commit/67fb149a1679909b4ff75162160e1c2c247a5262) | docs: consolidate ACE demo video research | 2026-06-23 11:12:47 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`67fb149`](https://github.com/sase-org/sase/commit/67fb149a1679909b4ff75162160e1c2c247a5262) | docs: consolidate ACE demo video research | 2026-06-23 11:12:47 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`750ad6b`](https://github.com/sase-org/sase/commit/750ad6b8fa9d7b861045cc4d6d88bf1b72e5db94) | feat!: enforce SSH transport for sidecar remotes | 2026-07-15 16:00:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`750ad6b`](https://github.com/sase-org/sase/commit/750ad6b8fa9d7b861045cc4d6d88bf1b72e5db94) | feat!: enforce SSH transport for sidecar remotes | 2026-07-15 16:00:09 |
 
 ## Neighbors
 

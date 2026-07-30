@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ccd9bb6`](https://github.com/sase-org/sase/commit/ccd9bb6a7c13463474486cf8dd6192fbcf1c6899) | test: split frontmatter panel widget tests | 2026-06-18 14:34:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`ccd9bb6`](https://github.com/sase-org/sase/commit/ccd9bb6a7c13463474486cf8dd6192fbcf1c6899) | test: split frontmatter panel widget tests | 2026-06-18 14:34:32 |
 
 ## Neighbors
 

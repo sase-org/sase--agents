@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b72fab8`](https://github.com/sase-org/sase/commit/b72fab8536083c81fdaa814541aa833944e1e8f0) | refactor(axe): split status models by responsibility | 2026-07-23 14:46:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b72fab8`](https://github.com/sase-org/sase/commit/b72fab8536083c81fdaa814541aa833944e1e8f0) | refactor(axe): split status models by responsibility | 2026-07-23 14:46:07 |
 
 ## Neighbors
 

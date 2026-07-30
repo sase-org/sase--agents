@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cbf6151`](https://github.com/sase-org/sase/commit/cbf615131352a46447e144e8f54f16b8862eb9f6) | chore: Add research note for tiered \`sase memory search\` command | 2026-05-31 16:11:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cbf6151`](https://github.com/sase-org/sase/commit/cbf615131352a46447e144e8f54f16b8862eb9f6) | chore: Add research note for tiered \`sase memory search\` command | 2026-05-31 16:11:41 |
 
 ## Neighbors
 

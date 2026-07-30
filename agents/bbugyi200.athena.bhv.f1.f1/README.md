@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3130706`](https://github.com/sase-org/sase/commit/3130706ad1ad3b2db80f2bbc306d8b02abe67075) | chore: add SASE episodes research infographic | 2026-05-26 23:38:35 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3130706`](https://github.com/sase-org/sase/commit/3130706ad1ad3b2db80f2bbc306d8b02abe67075) | chore: add SASE episodes research infographic | 2026-05-26 23:38:35 |

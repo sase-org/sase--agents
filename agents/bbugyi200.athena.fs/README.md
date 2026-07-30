@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2c8e4f2`](https://github.com/sase-org/sase/commit/2c8e4f2ac4d18e94c6a01fcc9b73d14be962b5a1) | feat(ace): add configurable tribe panel colors | 2026-07-20 11:49:49 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2c8e4f2`](https://github.com/sase-org/sase/commit/2c8e4f2ac4d18e94c6a01fcc9b73d14be962b5a1) | feat(ace): add configurable tribe panel colors | 2026-07-20 11:49:49 |

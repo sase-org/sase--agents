@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`47f6df2`](https://github.com/sase-org/sase/commit/47f6df24b96976ef4228910abc20182c77755372) | fix(tui): degrade invalid axe status gracefully (sase-8g.4) | 2026-07-20 20:48:33 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`47f6df2`](https://github.com/sase-org/sase/commit/47f6df24b96976ef4228910abc20182c77755372) | fix(tui): degrade invalid axe status gracefully (sase-8g.4) | 2026-07-20 20:48:33 |
 
 ## Neighbors
 

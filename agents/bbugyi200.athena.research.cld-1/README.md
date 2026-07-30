@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f511896`](https://github.com/sase-org/sase/commit/f51189673d8cff203edb066bdc61e31cf2f6d9dc) | chore: Add blog post launch strategy research | 2026-06-03 07:15:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`f511896`](https://github.com/sase-org/sase/commit/f51189673d8cff203edb066bdc61e31cf2f6d9dc) | chore: Add blog post launch strategy research | 2026-06-03 07:15:40 |
 
 ## Neighbors
 

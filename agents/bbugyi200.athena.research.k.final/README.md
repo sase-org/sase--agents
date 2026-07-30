@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`89db64b`](https://github.com/sase-org/sase/commit/89db64bb56349f29e894478669b10b5dc54877a2) | docs: consolidate TUI performance research | 2026-06-16 01:58:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`89db64b`](https://github.com/sase-org/sase/commit/89db64bb56349f29e894478669b10b5dc54877a2) | docs: consolidate TUI performance research | 2026-06-16 01:58:27 |
 
 ## Neighbors
 

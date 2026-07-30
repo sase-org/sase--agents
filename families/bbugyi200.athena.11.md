@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`53da0b7`](https://github.com/sase-org/sase/commit/53da0b7ab75eaa8af474e34f187ded6706cbd837) | chore: Add SDD prompt and plan for startup\_toast\_incoming\_commits | 2026-07-07 20:32:22 |
-| root | [`8465daa`](https://github.com/sase-org/sase/commit/8465daa3564f01ae1b8b6dcc1e8685f07dbadddd) | feat(ace): show incoming commits in startup update toast | 2026-07-07 20:53:17 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`53da0b7`](https://github.com/sase-org/sase/commit/53da0b7ab75eaa8af474e34f187ded6706cbd837) | chore: Add SDD prompt and plan for startup\_toast\_incoming\_commits | 2026-07-07 20:32:22 |
+| root | sase | [`8465daa`](https://github.com/sase-org/sase/commit/8465daa3564f01ae1b8b6dcc1e8685f07dbadddd) | feat(ace): show incoming commits in startup update toast | 2026-07-07 20:53:17 |

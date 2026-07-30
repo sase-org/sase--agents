@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8892204`](https://github.com/sase-org/sase/commit/8892204722d7e94df05a7fc5be9945406f0dc629) | test: gate visual snapshots on rendered state (sase-93.5) | 2026-07-25 12:44:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`8892204`](https://github.com/sase-org/sase/commit/8892204722d7e94df05a7fc5be9945406f0dc629) | test: gate visual snapshots on rendered state (sase-93.5) | 2026-07-25 12:44:02 |
 
 ## Neighbors
 

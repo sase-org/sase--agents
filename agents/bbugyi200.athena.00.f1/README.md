@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d163dc8`](https://github.com/sase-org/sase/commit/d163dc8089245ea1445e08483f1535816df17a04) | chore: Add SDD prompt and plan for restore\_leader\_space\_agent\_prefix | 2026-06-02 19:06:17 |
-| [`c572fcd`](https://github.com/sase-org/sase/commit/c572fcdefa499918c31945d6e6050ae33515e09a) | fix: restore leader space agent selection shortcut | 2026-06-02 19:13:28 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d163dc8`](https://github.com/sase-org/sase/commit/d163dc8089245ea1445e08483f1535816df17a04) | chore: Add SDD prompt and plan for restore\_leader\_space\_agent\_prefix | 2026-06-02 19:06:17 |
+| sase | [`c572fcd`](https://github.com/sase-org/sase/commit/c572fcdefa499918c31945d6e6050ae33515e09a) | fix: restore leader space agent selection shortcut | 2026-06-02 19:13:28 |
 
 ## Neighbors
 

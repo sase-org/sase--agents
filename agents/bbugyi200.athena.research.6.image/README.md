@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b27fee6`](https://github.com/sase-org/sase/commit/b27fee6d2af4aa1f8944f9cd735bbe65108da071) | chore: add memory research infographic | 2026-06-11 12:15:27 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b27fee6`](https://github.com/sase-org/sase/commit/b27fee6d2af4aa1f8944f9cd735bbe65108da071) | chore: add memory research infographic | 2026-06-11 12:15:27 |
 
 ## Neighbors
 

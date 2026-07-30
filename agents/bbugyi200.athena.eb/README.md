@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5a5d07d`](https://github.com/sase-org/sase/commit/5a5d07d62eeb2abe60159a01bffec71c8fc4462e) | fix(tui): preserve selected tribe header marker | 2026-07-19 11:34:49 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`5a5d07d`](https://github.com/sase-org/sase/commit/5a5d07d62eeb2abe60159a01bffec71c8fc4462e) | fix(tui): preserve selected tribe header marker | 2026-07-19 11:34:49 |

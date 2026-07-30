@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`d3c37c5`](https://github.com/sase-org/sase/commit/d3c37c5b11f46381ad94f127a9ec6edbf3ff52e7) | chore: Add SDD prompt and plan for codex\_transient\_retry | 2026-06-03 05:40:52 |
-| root | [`0ceb65c`](https://github.com/sase-org/sase/commit/0ceb65c27949090bc57a79f5f1c9e8d24201e855) | feat: Add built-in transient-failure retry coverage for the Codex provider | 2026-06-03 06:24:56 |
-| root | [`cd2be5d`](https://github.com/sase-org/sase/commit/cd2be5d63981331fbaaa87e864cd6fe06ab66f0d) | chore: Add SDD prompt and plan for gh\_ref\_tui\_credential\_freeze | 2026-07-07 20:04:43 |
-| code | [`77d9330`](https://github.com/sase-org/sase/commit/77d933029cf8d4027fe4eefab6af4219f7b5c784) | fix: avoid credential prompts during ref completion | 2026-07-07 20:25:09 |
-| root | [`77d9330`](https://github.com/sase-org/sase/commit/77d933029cf8d4027fe4eefab6af4219f7b5c784) | fix: avoid credential prompts during ref completion | 2026-07-07 20:25:09 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`d3c37c5`](https://github.com/sase-org/sase/commit/d3c37c5b11f46381ad94f127a9ec6edbf3ff52e7) | chore: Add SDD prompt and plan for codex\_transient\_retry | 2026-06-03 05:40:52 |
+| root | sase | [`0ceb65c`](https://github.com/sase-org/sase/commit/0ceb65c27949090bc57a79f5f1c9e8d24201e855) | feat: Add built-in transient-failure retry coverage for the Codex provider | 2026-06-03 06:24:56 |
+| root | sase | [`cd2be5d`](https://github.com/sase-org/sase/commit/cd2be5d63981331fbaaa87e864cd6fe06ab66f0d) | chore: Add SDD prompt and plan for gh\_ref\_tui\_credential\_freeze | 2026-07-07 20:04:43 |
+| code | sase | [`77d9330`](https://github.com/sase-org/sase/commit/77d933029cf8d4027fe4eefab6af4219f7b5c784) | fix: avoid credential prompts during ref completion | 2026-07-07 20:25:09 |
+| root | sase | [`77d9330`](https://github.com/sase-org/sase/commit/77d933029cf8d4027fe4eefab6af4219f7b5c784) | fix: avoid credential prompts during ref completion | 2026-07-07 20:25:09 |

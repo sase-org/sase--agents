@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3cfd6d6`](https://github.com/sase-org/sase/commit/3cfd6d632d65dc615d8dd7a40ca641a942e99a61) | refactor(core): split agent artifact index lifecycle | 2026-07-19 09:00:59 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`3cfd6d6`](https://github.com/sase-org/sase/commit/3cfd6d632d65dc615d8dd7a40ca641a942e99a61) | refactor(core): split agent artifact index lifecycle | 2026-07-19 09:00:59 |
 
 ## Neighbors
 

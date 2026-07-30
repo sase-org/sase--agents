@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2e86a1e`](https://github.com/sase-org/sase/commit/2e86a1ed6882582337014f5283980bc5cf8fbfde) | chore: document TUI prompt autocomplete options | 2026-05-29 02:06:10 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2e86a1e`](https://github.com/sase-org/sase/commit/2e86a1ed6882582337014f5283980bc5cf8fbfde) | chore: document TUI prompt autocomplete options | 2026-05-29 02:06:10 |
 
 ## Neighbors
 

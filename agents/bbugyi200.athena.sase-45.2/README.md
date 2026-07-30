@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bd40316`](https://github.com/sase-org/sase/commit/bd4031677efd4cd34447086875f19032f8dd1bf7) | feat: add deterministic episode source graph collector (sase-45.2) | 2026-05-26 23:35:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`bd40316`](https://github.com/sase-org/sase/commit/bd4031677efd4cd34447086875f19032f8dd1bf7) | feat: add deterministic episode source graph collector (sase-45.2) | 2026-05-26 23:35:58 |
 
 ## Neighbors
 

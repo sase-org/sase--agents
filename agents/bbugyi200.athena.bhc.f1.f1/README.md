@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2187718`](https://github.com/sase-org/sase/commit/2187718213c38ef4ad0ccab5277bc0b8dd8c25a8) | chore: add sase amd research infographic | 2026-05-26 21:21:17 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`2187718`](https://github.com/sase-org/sase/commit/2187718213c38ef4ad0ccab5277bc0b8dd8c25a8) | chore: add sase amd research infographic | 2026-05-26 21:21:17 |
 
 ## Neighbors
 

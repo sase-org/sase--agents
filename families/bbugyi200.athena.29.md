@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`84f289d`](https://github.com/sase-org/sase/commit/84f289dd3a1308294c2a21c9088d13f46800714a) | chore: Add SDD prompt and plan for project\_aliases | 2026-06-04 14:31:57 |
-| root | [`1a95ca1`](https://github.com/sase-org/sase/commit/1a95ca19252098a693e563d203a6f9b31327556b) | chore: create project aliases epic beads | 2026-06-04 14:37:13 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | sase | [`84f289d`](https://github.com/sase-org/sase/commit/84f289dd3a1308294c2a21c9088d13f46800714a) | chore: Add SDD prompt and plan for project\_aliases | 2026-06-04 14:31:57 |
+| root | sase | [`1a95ca1`](https://github.com/sase-org/sase/commit/1a95ca19252098a693e563d203a6f9b31327556b) | chore: create project aliases epic beads | 2026-06-04 14:37:13 |
 
 ## Neighbors
 

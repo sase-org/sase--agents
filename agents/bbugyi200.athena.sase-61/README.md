@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`beeefa6`](https://github.com/sase-org/sase/commit/beeefa6c2b358bf36a79f172d2274e13275d9afe) | fix: require plan validation core bindings (sase-61) | 2026-07-14 19:12:17 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`beeefa6`](https://github.com/sase-org/sase/commit/beeefa6c2b358bf36a79f172d2274e13275d9afe) | fix: require plan validation core bindings (sase-61) | 2026-07-14 19:12:17 |
 
 ## Neighbors
 
