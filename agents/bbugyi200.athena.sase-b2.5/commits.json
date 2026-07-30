@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-30be29b886afb70a46e106c2986026b8"}
+{"commits":[{"committed_at":1785379101,"sha":"278e16952b95de02025a6f21f438db530362bc7d","subject":"feat: support entity artifact references in prompt paths"}],"schema_version":2,"source_run_id":"run-30be29b886afb70a46e106c2986026b8"}

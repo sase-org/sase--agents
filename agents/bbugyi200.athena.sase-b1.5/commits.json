@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4970f6c377a8c6da010a16b6eeb1b409"}
+{"commits":[{"committed_at":1785379087,"sha":"e62f9a6ee5bbe1072e517ca3adae4265e8479033","subject":"feat(tui): render the swarm xprompt kind"}],"schema_version":2,"source_run_id":"run-4970f6c377a8c6da010a16b6eeb1b409"}
