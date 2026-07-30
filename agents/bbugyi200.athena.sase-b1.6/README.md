@@ -11,11 +11,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-30T02:39:04.869533+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`6e35387`](https://github.com/sase-org/sase/commit/6e35387e2ba5564c134ccc7ce1b84c5cd5957850) | feat(xprompts): require sase-core-rs with the swarm xprompt kind | 2026-07-30 02:53:56 |
 
 ## Neighbors
 

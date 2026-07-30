@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-26827359274085d62c93879500dc0473"}
+{"commits":[{"committed_at":1785380036,"sha":"6e35387e2ba5564c134ccc7ce1b84c5cd5957850","subject":"feat(xprompts): require sase-core-rs with the swarm xprompt kind"}],"schema_version":2,"source_run_id":"run-26827359274085d62c93879500dc0473"}
