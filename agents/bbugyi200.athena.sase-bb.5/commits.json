@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-42f14db82ca63f83523c2524a8f0f935"}
+{"commits":[{"committed_at":1785432438,"sha":"87ece3ee34d613780923e2d9d9a2f0349ff12f0a","subject":"feat(artifact): surface bead references and attach on create"}],"schema_version":2,"source_run_id":"run-42f14db82ca63f83523c2524a8f0f935"}

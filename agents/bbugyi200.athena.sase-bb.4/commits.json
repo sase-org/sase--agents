@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-47733c05680a0d5df4cd018d1a9ae34e"}
+{"commits":[{"committed_at":1785433353,"sha":"f921f428dba97720bec8b0853fc5e6bcb34f535c","subject":"feat(changespec): add artifact reference support"}],"schema_version":2,"source_run_id":"run-47733c05680a0d5df4cd018d1a9ae34e"}
