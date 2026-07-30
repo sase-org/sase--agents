@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260730064750
+- Timing: 2026-07-30T11:12:36.990033+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -29,7 +29,7 @@
 |---|---|---|
 | [research.t.cdx](../bbugyi200.athena.research.t.cdx/README.md) | research.t hood | completed |
 | [research.t.cld](../bbugyi200.athena.research.t.cld/README.md) | research.t hood | completed |
-| [research.t.final](../bbugyi200.athena.research.t.final/README.md) | research.t hood | active |
+| [research.t.final](../bbugyi200.athena.research.t.final/README.md) | research.t hood | completed |
 | [research.t.final.f1](../bbugyi200.athena.research.t.final.f1/README.md) | research.t hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | active |
