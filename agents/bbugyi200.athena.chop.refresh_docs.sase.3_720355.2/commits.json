@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b74e7102da722f1a0bec3340e1fb1738"}
+{"commits":[{"committed_at":1785400834,"sha":"7164ac9e9cb71ac17d5431d166a1f36b5b312f3c","subject":"docs: correct artifact handoff and Rust boundary guidance"}],"schema_version":2,"source_run_id":"run-b74e7102da722f1a0bec3340e1fb1738"}
