@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-221a56a63751723833eafcf5b3d0471e"}
+{"commits":[{"committed_at":1785419334,"sha":"c9edec56145a050d89ed18911c27f90831e7a9dc","subject":"feat(artifacts): materialize VCS-backed files on demand"}],"schema_version":2,"source_run_id":"run-221a56a63751723833eafcf5b3d0471e"}
