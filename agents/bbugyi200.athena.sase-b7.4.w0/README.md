@@ -21,12 +21,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-b7.4](../bbugyi200.athena.sase-b7.4/README.md) | ancestor | waiting |
+| [sase-b7.4](../bbugyi200.athena.sase-b7.4/README.md) | ancestor | active |
 | [sase-b7.4.w1](../bbugyi200.athena.sase-b7.4.w1/README.md) | sase-b7.4 hood | waiting |
 | [sase-b7.4.w2](../bbugyi200.athena.sase-b7.4.w2/README.md) | sase-b7.4 hood | waiting |
 | [sase-b7.4.w3](../bbugyi200.athena.sase-b7.4.w3/README.md) | sase-b7.4 hood | waiting |
 | [sase-b7.1](../bbugyi200.athena.sase-b7.1/README.md) | sase-b7 hood | completed |
 | [sase-b7.2](../bbugyi200.athena.sase-b7.2/README.md) | sase-b7 hood | completed |
-| [sase-b7.3](../bbugyi200.athena.sase-b7.3/README.md) | sase-b7 hood | active |
+| [sase-b7.3](../bbugyi200.athena.sase-b7.3/README.md) | sase-b7 hood | completed |
 | [sase-b7.5](../bbugyi200.athena.sase-b7.5/README.md) | sase-b7 hood | waiting |
 | [sase-b7.land](../bbugyi200.athena.sase-b7.land/README.md) | sase-b7 hood | waiting |
