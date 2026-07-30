@@ -1,0 +1,15 @@
+# Hood: sase-bf
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-bf
+
+**Global hood:** `bbugyi200.athena.sase-bf` · **Runs:** 7 · **Families:** 0 · **States:** active 2, waiting 5
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [sase-bf.3](../../../../../../agents/bbugyi200.athena.sase-bf.3/README.md) | waiting | gpt-5.6-sol / codex | 20260730170128 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-bf.3/prompt.md) |
+| [sase-bf.6](../../../../../../agents/bbugyi200.athena.sase-bf.6/README.md) | waiting | gpt-5.6-sol / codex | 20260730170131 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-bf.6/prompt.md) |
+| [sase-bf.5](../../../../../../agents/bbugyi200.athena.sase-bf.5/README.md) | waiting | gpt-5.6-sol / codex | 20260730170130 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-bf.5/prompt.md) |
+| [sase-bf.land](../../../../../../agents/bbugyi200.athena.sase-bf.land/README.md) | waiting | opus / claude | 20260730170132 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-bf.land/prompt.md) |
+| [sase-bf.1](../../../../../../agents/bbugyi200.athena.sase-bf.1/README.md) | active | gpt-5.6-sol / codex | 2026-07-30T21:01:43.047980+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-bf.1/prompt.md) |
+| [sase-bf.2](../../../../../../agents/bbugyi200.athena.sase-bf.2/README.md) | active | gpt-5.6-sol / codex | 2026-07-30T21:01:49.134977+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-bf.2/prompt.md) |
+| [sase-bf.4](../../../../../../agents/bbugyi200.athena.sase-bf.4/README.md) | waiting | gpt-5.6-sol / codex | 20260730170129 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-bf.4/prompt.md) |
