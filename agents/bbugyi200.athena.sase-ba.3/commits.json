@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-10dfcd5186a443519345737193ce3115"}
+{"commits":[{"committed_at":1785429830,"sha":"be4c19969fc6ce227ee4e474d9952722ea172b02","subject":"feat(artifact): add pruning and trash lifecycle"}],"schema_version":2,"source_run_id":"run-10dfcd5186a443519345737193ce3115"}

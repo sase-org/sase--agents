@@ -31,7 +31,7 @@
 | [sase-b8.2](../bbugyi200.athena.sase-b8.2/README.md) | sase-b8 hood | completed |
 | [sase-b8.4](../bbugyi200.athena.sase-b8.4/README.md) | sase-b8 hood | completed |
 | [sase-b8.5](../bbugyi200.athena.sase-b8.5/README.md) | sase-b8 hood | completed |
-| [sase-b8.6](../bbugyi200.athena.sase-b8.6/README.md) | sase-b8 hood | active |
+| [sase-b8.6](../bbugyi200.athena.sase-b8.6/README.md) | sase-b8 hood | completed |
 | [sase-b8.7](../bbugyi200.athena.sase-b8.7/README.md) | sase-b8 hood | completed |
-| [sase-b8.8](../bbugyi200.athena.sase-b8.8/README.md) | sase-b8 hood | waiting |
-| [sase-b8.land](../bbugyi200.athena.sase-b8.land/README.md) | sase-b8 hood | waiting |
+| [sase-b8.8](../bbugyi200.athena.sase-b8.8/README.md) | sase-b8 hood | completed |
+| [sase-b8.land](../bbugyi200.athena.sase-b8.land/README.md) | sase-b8 hood | active |

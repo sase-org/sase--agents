@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-bb](../../users/bbugyi200/machines/athena/hoods/sase-bb/README.md) / sase-bb.5
 
-**Global name:** `bbugyi200.athena.sase-bb.5` · **State:** waiting · **Source run:** `run-42f14db82ca63f83523c2524a8f0f935`
+**Global name:** `bbugyi200.athena.sase-bb.5` · **State:** active · **Source run:** `run-42f14db82ca63f83523c2524a8f0f935`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-bb
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20260730105511
+- Timing: 2026-07-30T16:59:31.626768+00:00
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 |---|---|---|
 | [sase-bb.1](../bbugyi200.athena.sase-bb.1/README.md) | sase-bb hood | completed |
 | [sase-bb.2](../bbugyi200.athena.sase-bb.2/README.md) | sase-bb hood | completed |
-| [sase-bb.3](../bbugyi200.athena.sase-bb.3/README.md) | sase-bb hood | active |
-| [sase-bb.4](../bbugyi200.athena.sase-bb.4/README.md) | sase-bb hood | waiting |
+| [sase-bb.3](../bbugyi200.athena.sase-bb.3/README.md) | sase-bb hood | completed |
+| [sase-bb.4](../bbugyi200.athena.sase-bb.4/README.md) | sase-bb hood | active |
 | [sase-bb.6](../bbugyi200.athena.sase-bb.6/README.md) | sase-bb hood | waiting |
 | [sase-bb.land](../bbugyi200.athena.sase-bb.land/README.md) | sase-bb hood | waiting |
