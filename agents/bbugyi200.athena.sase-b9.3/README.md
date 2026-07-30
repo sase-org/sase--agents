@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-b9](../../users/bbugyi200/machines/athena/hoods/sase-b9/README.md) / sase-b9.3
 
-**Global name:** `bbugyi200.athena.sase-b9.3` · **State:** active · **Source run:** `run-7da3aa3a1236a8f307bf2df2cdc646ab`
+**Global name:** `bbugyi200.athena.sase-b9.3` · **State:** completed · **Source run:** `run-7da3aa3a1236a8f307bf2df2cdc646ab`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-b9
 
@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-30T15:32:06.485100+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`a4880ce`](https://github.com/sase-org/sase/commit/a4880ce321df4a9afdf1a2be5ce86eed8a5860fe) | feat(artifact): expose consumption read surfaces | 2026-07-30 16:01:51 |
 
 ## Neighbors
 
@@ -23,5 +29,5 @@
 |---|---|---|
 | [sase-b9.1](../bbugyi200.athena.sase-b9.1/README.md) | sase-b9 hood | completed |
 | [sase-b9.2](../bbugyi200.athena.sase-b9.2/README.md) | sase-b9 hood | completed |
-| [sase-b9.4](../bbugyi200.athena.sase-b9.4/README.md) | sase-b9 hood | waiting |
+| [sase-b9.4](../bbugyi200.athena.sase-b9.4/README.md) | sase-b9 hood | active |
 | [sase-b9.land](../bbugyi200.athena.sase-b9.land/README.md) | sase-b9 hood | waiting |

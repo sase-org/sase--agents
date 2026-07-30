@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7da3aa3a1236a8f307bf2df2cdc646ab"}
+{"commits":[{"committed_at":1785427311,"sha":"a4880ce321df4a9afdf1a2be5ce86eed8a5860fe","subject":"feat(artifact): expose consumption read surfaces"}],"schema_version":2,"source_run_id":"run-7da3aa3a1236a8f307bf2df2cdc646ab"}
