@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ef3dc62f1cfcb6c273838233dcdd799f"}
+{"commits":[{"committed_at":1785440519,"sha":"384eaa437f6718afa0e97373598e348c6cf04bf9","subject":"test: split artifact CLI reference tests"}],"schema_version":2,"source_run_id":"run-ef3dc62f1cfcb6c273838233dcdd799f"}

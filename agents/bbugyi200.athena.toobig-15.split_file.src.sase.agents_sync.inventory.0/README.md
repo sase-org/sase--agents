@@ -28,5 +28,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-15.split\_file.tests.agents\_sync.test\_commit\_publication.0](../bbugyi200.athena.toobig-15.split_file.tests.agents_sync.test_commit_publication.0/README.md) | toobig-15.split\_file hood | completed |
-| [toobig-15.split\_file.tests.agents\_sync.test\_inventory.0](../bbugyi200.athena.toobig-15.split_file.tests.agents_sync.test_inventory.0/README.md) | toobig-15.split\_file hood | active |
-| [toobig-15.split\_file.tests.main.test\_artifact\_cli\_references.0](../bbugyi200.athena.toobig-15.split_file.tests.main.test_artifact_cli_references.0/README.md) | toobig-15.split\_file hood | waiting |
+| [toobig-15.split\_file.tests.agents\_sync.test\_inventory.0](../bbugyi200.athena.toobig-15.split_file.tests.agents_sync.test_inventory.0/README.md) | toobig-15.split\_file hood | completed |
+| [toobig-15.split\_file.tests.main.test\_artifact\_cli\_references.0](../bbugyi200.athena.toobig-15.split_file.tests.main.test_artifact_cli_references.0/README.md) | toobig-15.split\_file hood | active |
