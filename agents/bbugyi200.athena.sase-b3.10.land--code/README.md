@@ -1,30 +1,32 @@
-# Agent: sase-b3.10.2
+# Agent: sase-b3.10.land--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-b3](../../users/bbugyi200/machines/athena/hoods/sase-b3/README.md) / sase-b3.10.2
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-b3](../../users/bbugyi200/machines/athena/hoods/sase-b3/README.md) / [sase-b3.10.land](../../families/bbugyi200.athena.sase-b3.10.land.md) / sase-b3.10.land--code
 
-**Global name:** `bbugyi200.athena.sase-b3.10.2` · **State:** completed · **Source run:** `run-05d1aac9d35214cc67af451e23cfd7d3`
+**Global name:** `bbugyi200.athena.sase-b3.10.land--code` · **State:** active · **Source run:** `run-2364633acf8af3ac0546490e6dfd1cee`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-b3
 
 ## Summary
 
-- Model: opus
-- Provider: claude
-- Timing: 2026-07-30T10:58:11.824035+00:00
-- Commits: 0
+- Model: gpt-5.6-sol
+- Provider: codex
+- Timing: 2026-07-30T12:10:15.395433+00:00
+- Commits: [1](#commits)
 
-## Files
+## Commits
 
-[Chat](chat.md) · [Prompt](prompt.md)
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`02de1fd`](https://github.com/sase-org/sase/commit/02de1fd2aceb105419a188fa9cd1d46c53782d7c) | build(deps): require sase-core-rs 0.12.19 | 2026-07-30 12:30:20 |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-b3.10.1](../bbugyi200.athena.sase-b3.10.1/README.md) | sase-b3.10 hood | completed |
+| [sase-b3.10.2](../bbugyi200.athena.sase-b3.10.2/README.md) | sase-b3.10 hood | completed |
 | [sase-b3.10.3](../bbugyi200.athena.sase-b3.10.3/README.md) | sase-b3.10 hood | completed |
 | [sase-b3.10.4](../bbugyi200.athena.sase-b3.10.4/README.md) | sase-b3.10 hood | completed |
-| [sase-b3.10.land](../../families/bbugyi200.athena.sase-b3.10.land.md) (family · 2) | sase-b3.10 hood | active 2 |
 | [sase-b3.1](../bbugyi200.athena.sase-b3.1/README.md) | sase-b3 hood | completed |
 | [sase-b3.2](../bbugyi200.athena.sase-b3.2/README.md) | sase-b3 hood | completed |
 | [sase-b3.3](../bbugyi200.athena.sase-b3.3/README.md) | sase-b3 hood | completed |
