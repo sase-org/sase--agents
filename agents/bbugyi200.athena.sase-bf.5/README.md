@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-bf](../../users/bbugyi200/machines/athena/hoods/sase-bf/README.md) / sase-bf.5
 
-**Global name:** `bbugyi200.athena.sase-bf.5` · **State:** waiting · **Source run:** `run-894c840fee36492d172631052daff87a`
+**Global name:** `bbugyi200.athena.sase-bf.5` · **State:** active · **Source run:** `run-894c840fee36492d172631052daff87a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-bf
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260730170130
+- Timing: 2026-07-30T21:34:54.806863+00:00
 - Commits: 0
 
 ## Files
@@ -21,9 +21,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-bf.1](../bbugyi200.athena.sase-bf.1/README.md) | sase-bf hood | active |
+| [sase-bf.1](../bbugyi200.athena.sase-bf.1/README.md) | sase-bf hood | completed |
 | [sase-bf.2](../bbugyi200.athena.sase-bf.2/README.md) | sase-bf hood | active |
-| [sase-bf.3](../bbugyi200.athena.sase-bf.3/README.md) | sase-bf hood | waiting |
+| [sase-bf.3](../bbugyi200.athena.sase-bf.3/README.md) | sase-bf hood | active |
 | [sase-bf.4](../bbugyi200.athena.sase-bf.4/README.md) | sase-bf hood | waiting |
-| [sase-bf.6](../bbugyi200.athena.sase-bf.6/README.md) | sase-bf hood | waiting |
+| [sase-bf.6](../bbugyi200.athena.sase-bf.6/README.md) | sase-bf hood | active |
 | [sase-bf.land](../bbugyi200.athena.sase-bf.land/README.md) | sase-bf hood | waiting |

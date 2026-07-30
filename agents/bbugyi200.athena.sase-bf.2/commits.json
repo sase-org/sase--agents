@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b905d4322e00af64528bac0c2e2d308d"}
+{"commits":[{"committed_at":1785447965,"sha":"2b95bd329fb0a8fa1b666b1019fed154b6870b7f","subject":"feat(agent-scan): preserve structured output variables"}],"schema_version":2,"source_run_id":"run-b905d4322e00af64528bac0c2e2d308d"}
