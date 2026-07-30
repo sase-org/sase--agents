@@ -1151,7 +1151,7 @@
 | [sase-b8](hoods/sase-b8/README.md) | 9 | 0 | active 1, completed 6, waiting 2 |
 | [sase-b9](hoods/sase-b9/README.md) | 5 | 0 | active 1, completed 3, waiting 1 |
 | [sase-ba](hoods/sase-ba/README.md) | 7 | 0 | active 1, completed 1, waiting 5 |
-| [sase-bb](hoods/sase-bb/README.md) | 7 | 0 | active 1, completed 1, waiting 5 |
+| [sase-bb](hoods/sase-bb/README.md) | 7 | 0 | active 1, completed 2, waiting 4 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-0q](hoods/sase_fix_just-0q/README.md) | 1 | 0 | active 1 |
