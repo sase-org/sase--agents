@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-b1](../../users/bbugyi200/machines/athena/hoods/sase-b1/README.md) / sase-b1.4
 
-**Global name:** `bbugyi200.athena.sase-b1.4` · **State:** waiting · **Source run:** `run-5760ba5bc7676bf7f455612687e4ec23`
+**Global name:** `bbugyi200.athena.sase-b1.4` · **State:** active · **Source run:** `run-5760ba5bc7676bf7f455612687e4ec23`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-b1
 
@@ -10,19 +10,25 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260729211048
-- Commits: 0
+- Timing: 2026-07-30T01:59:20.992614+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`01f9912`](https://github.com/sase-org/sase/commit/01f9912ce6ef3042d2761de1d40aba7d602c29b4) | feat(xprompts): capture swarm launch provenance | 2026-07-30 02:14:48 |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-b1.1](../bbugyi200.athena.sase-b1.1/README.md) | sase-b1 hood | completed |
-| [sase-b1.2](../bbugyi200.athena.sase-b1.2/README.md) | sase-b1 hood | active |
+| [sase-b1.2](../bbugyi200.athena.sase-b1.2/README.md) | sase-b1 hood | completed |
 | [sase-b1.3](../bbugyi200.athena.sase-b1.3/README.md) | sase-b1 hood | completed |
 | [sase-b1.5](../bbugyi200.athena.sase-b1.5/README.md) | sase-b1 hood | waiting |
 | [sase-b1.6](../bbugyi200.athena.sase-b1.6/README.md) | sase-b1 hood | waiting |

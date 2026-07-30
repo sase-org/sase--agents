@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5760ba5bc7676bf7f455612687e4ec23"}
+{"commits":[{"committed_at":1785377688,"sha":"01f9912ce6ef3042d2761de1d40aba7d602c29b4","subject":"feat(xprompts): capture swarm launch provenance"}],"schema_version":2,"source_run_id":"run-5760ba5bc7676bf7f455612687e4ec23"}
