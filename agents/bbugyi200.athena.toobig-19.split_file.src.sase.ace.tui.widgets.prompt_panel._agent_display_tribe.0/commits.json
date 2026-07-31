@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6c0d27299a4ed9e993e64c81d6ac0331"}
+{"commits":[{"committed_at":1785507882,"sha":"34ec429b944c5601351e7842ec27a3dfefe017b7","subject":"refactor(tui): split tribe display rendering"}],"schema_version":2,"source_run_id":"run-6c0d27299a4ed9e993e64c81d6ac0331"}

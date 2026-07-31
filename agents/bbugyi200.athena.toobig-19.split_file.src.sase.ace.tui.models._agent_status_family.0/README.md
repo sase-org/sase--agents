@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-19](../../users/bbugyi200/machines/athena/hoods/toobig-19/README.md) / toobig-19.split\_file.src.sase.ace.tui.models.\_agent\_status\_family.0
 
-**Global name:** `bbugyi200.athena.toobig-19.split_file.src.sase.ace.tui.models._agent_status_family.0` · **State:** active · **Source run:** `run-0bebd9a1805f9aced1a1dd436abba338`
+**Global name:** `bbugyi200.athena.toobig-19.split_file.src.sase.ace.tui.models._agent_status_family.0` · **State:** completed · **Source run:** `run-0bebd9a1805f9aced1a1dd436abba338`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-19
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,7 +27,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-19.split\_file.src.sase.ace.tui.widgets.prompt\_panel.\_agent\_display\_tribe.0](../bbugyi200.athena.toobig-19.split_file.src.sase.ace.tui.widgets.prompt_panel._agent_display_tribe.0/README.md) | toobig-19.split\_file.src.sase.ace.tui hood | waiting |
-| [toobig-19.split\_file.src.sase.llm\_provider.registry.0](../bbugyi200.athena.toobig-19.split_file.src.sase.llm_provider.registry.0/README.md) | toobig-19.split\_file.src.sase hood | waiting |
+| [toobig-19.split\_file.src.sase.ace.tui.widgets.prompt\_panel.\_agent\_display\_tribe.0](../bbugyi200.athena.toobig-19.split_file.src.sase.ace.tui.widgets.prompt_panel._agent_display_tribe.0/README.md) | toobig-19.split\_file.src.sase.ace.tui hood | completed |
+| [toobig-19.split\_file.src.sase.llm\_provider.registry.0](../bbugyi200.athena.toobig-19.split_file.src.sase.llm_provider.registry.0/README.md) | toobig-19.split\_file.src.sase hood | active |
 | [toobig-19.split\_file.tests.ace.tui.widgets.test\_agent\_display\_tribe.0](../bbugyi200.athena.toobig-19.split_file.tests.ace.tui.widgets.test_agent_display_tribe.0/README.md) | toobig-19.split\_file hood | waiting |
 | [toobig-19.split\_file.tests.llm\_provider.test\_alias\_view.0](../bbugyi200.athena.toobig-19.split_file.tests.llm_provider.test_alias_view.0/README.md) | toobig-19.split\_file hood | waiting |

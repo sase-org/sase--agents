@@ -22,6 +22,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-19.split\_file.tests.llm\_provider.test\_alias\_view.0](../bbugyi200.athena.toobig-19.split_file.tests.llm_provider.test_alias_view.0/README.md) | toobig-19.split\_file.tests hood | waiting |
-| [toobig-19.split\_file.src.sase.ace.tui.models.\_agent\_status\_family.0](../bbugyi200.athena.toobig-19.split_file.src.sase.ace.tui.models._agent_status_family.0/README.md) | toobig-19.split\_file hood | active |
-| [toobig-19.split\_file.src.sase.ace.tui.widgets.prompt\_panel.\_agent\_display\_tribe.0](../bbugyi200.athena.toobig-19.split_file.src.sase.ace.tui.widgets.prompt_panel._agent_display_tribe.0/README.md) | toobig-19.split\_file hood | waiting |
-| [toobig-19.split\_file.src.sase.llm\_provider.registry.0](../bbugyi200.athena.toobig-19.split_file.src.sase.llm_provider.registry.0/README.md) | toobig-19.split\_file hood | waiting |
+| [toobig-19.split\_file.src.sase.ace.tui.models.\_agent\_status\_family.0](../bbugyi200.athena.toobig-19.split_file.src.sase.ace.tui.models._agent_status_family.0/README.md) | toobig-19.split\_file hood | completed |
+| [toobig-19.split\_file.src.sase.ace.tui.widgets.prompt\_panel.\_agent\_display\_tribe.0](../bbugyi200.athena.toobig-19.split_file.src.sase.ace.tui.widgets.prompt_panel._agent_display_tribe.0/README.md) | toobig-19.split\_file hood | completed |
+| [toobig-19.split\_file.src.sase.llm\_provider.registry.0](../bbugyi200.athena.toobig-19.split_file.src.sase.llm_provider.registry.0/README.md) | toobig-19.split\_file hood | active |
