@@ -28,7 +28,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-bv.1](../bbugyi200.athena.sase-bv.1/README.md) | sase-bv hood | completed |
-| [sase-bv.3](../bbugyi200.athena.sase-bv.3/README.md) | sase-bv hood | active |
+| [sase-bv.3](../bbugyi200.athena.sase-bv.3/README.md) | sase-bv hood | completed |
 | [sase-bv.4](../bbugyi200.athena.sase-bv.4/README.md) | sase-bv hood | completed |
 | [sase-bv.5](../bbugyi200.athena.sase-bv.5/README.md) | sase-bv hood | completed |
-| [sase-bv.land](../bbugyi200.athena.sase-bv.land/README.md) | sase-bv hood | waiting |
+| [sase-bv.land](../../families/bbugyi200.athena.sase-bv.land.md) (family · 2) | sase-bv hood | active 2 |
