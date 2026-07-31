@@ -29,9 +29,9 @@
 |---|---|---|
 | [sase-bg.1](../bbugyi200.athena.sase-bg.1/README.md) | sase-bg hood | completed |
 | [sase-bg.10](../bbugyi200.athena.sase-bg.10/README.md) | sase-bg hood | waiting |
-| [sase-bg.3](../bbugyi200.athena.sase-bg.3/README.md) | sase-bg hood | active |
-| [sase-bg.4](../bbugyi200.athena.sase-bg.4/README.md) | sase-bg hood | waiting |
-| [sase-bg.5](../bbugyi200.athena.sase-bg.5/README.md) | sase-bg hood | waiting |
+| [sase-bg.3](../bbugyi200.athena.sase-bg.3/README.md) | sase-bg hood | completed |
+| [sase-bg.4](../../families/bbugyi200.athena.sase-bg.4.md) (family · 2) | sase-bg hood | active 2 |
+| [sase-bg.5](../bbugyi200.athena.sase-bg.5/README.md) | sase-bg hood | completed |
 | [sase-bg.6](../bbugyi200.athena.sase-bg.6/README.md) | sase-bg hood | completed |
 | [sase-bg.7](../../families/bbugyi200.athena.sase-bg.7.md) (family · 2) | sase-bg hood | active 2 |
 | [sase-bg.8](../bbugyi200.athena.sase-bg.8/README.md) | sase-bg hood | waiting |

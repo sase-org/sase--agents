@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c60db99d6d0e0634cc58ef73d006d68a"}
+{"commits":[{"committed_at":1785458744,"sha":"2ce43ee3e84c960fafa9326d15d8cd2f26475756","subject":"feat(bead): show task type and ready status on pages and mobile"}],"schema_version":2,"source_run_id":"run-c60db99d6d0e0634cc58ef73d006d68a"}
