@@ -7,4 +7,4 @@
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [qt--code](../../../../../../families/bbugyi200.athena.qt.md#member-code) | active | sonnet / claude | 2026-07-31T22:05:07.546878+00:00 | 0 | — |
-| [qt--plan](../../../../../../families/bbugyi200.athena.qt.md#member-plan) | active | opus / claude | 2026-07-31T21:36:04.870212+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.qt--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.qt--plan/chat.md) |
+| [qt--plan](../../../../../../families/bbugyi200.athena.qt.md#member-plan) | active | opus / claude | 2026-07-31T21:36:04.870212+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.qt--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.qt--plan/prompt.md) |
