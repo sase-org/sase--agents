@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me remove the `Description:` prefix from the agent tribe description that is shown in the agent tribe panel's metadata panel summary (see #sshot)? Let's just unindent the description and display it without the `Description:` prefix. #plan
