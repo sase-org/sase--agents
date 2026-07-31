@@ -27,7 +27,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.w.cdx](../bbugyi200.athena.research.w.cdx/README.md) | research.w hood | active |
+| [research.w.cdx](../bbugyi200.athena.research.w.cdx/README.md) | research.w hood | completed |
 | [research.w.final](../bbugyi200.athena.research.w.final/README.md) | research.w hood | waiting |
 | [research.w.final.f1](../bbugyi200.athena.research.w.final.f1/README.md) | research.w hood | completed |
 | [research.w.image](../bbugyi200.athena.research.w.image/README.md) | research.w hood | dismissed |
