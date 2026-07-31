@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-bv.land--code | active | sonnet / claude | 2026-07-31T15:08:24.731184+00:00 | [1](../agents/bbugyi200.athena.sase-bv.land--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | sase-bv.land--code | active | sonnet / claude | 2026-07-31T15:08:24.731184+00:00 | [2](../agents/bbugyi200.athena.sase-bv.land--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-bv.land--plan | active | opus / claude | 2026-07-31T14:52:48.374208+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-bv.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-bv.land--plan/chat.md) |
 
 ## Commits
@@ -25,6 +25,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Repo | Commit | Subject | Committed (UTC) |
 |---|---|---|---|---|
 | code | sase | [`4fd54a9`](https://github.com/sase-org/sase/commit/4fd54a96707a0931b3c86a8c3551a2e0fbed0ea5) | fix(bead): route sase bead create through the attributing handler | 2026-07-31 15:15:17 |
+| code | sase | [`3a98c68`](https://github.com/sase-org/sase/commit/3a98c68df821b90d4445fbb5bff8c132fb42757c) | refactor(bead): remove superseded SASE\_AGENT guard from attribution | 2026-07-31 15:18:44 |
 
 ## Neighbors
 
