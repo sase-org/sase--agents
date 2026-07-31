@@ -1,0 +1,32 @@
+# Agent: sase-cp.1
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-cp](../../users/bbugyi200/machines/athena/hoods/sase-cp/README.md) / sase-cp.1
+
+**Global name:** `bbugyi200.athena.sase-cp.1` · **State:** active · **Source run:** `run-f4bae443568595d41eccdf15e2236dc8`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-cp
+
+## Summary
+
+- Model: gpt-5.6-sol
+- Provider: codex
+- Timing: 2026-07-31T19:01:59.434945+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`d6a2cce`](https://github.com/sase-org/sase/commit/d6a2cce1f0e7464aa36dd3e22b77b95e57bef298) | feat(memory): generate Tier 2 bead workflow note | 2026-07-31 19:25:30 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-cp.2](../bbugyi200.athena.sase-cp.2/README.md) | sase-cp hood | waiting |
+| [sase-cp.3](../bbugyi200.athena.sase-cp.3/README.md) | sase-cp hood | waiting |
+| [sase-cp.land](../bbugyi200.athena.sase-cp.land/README.md) | sase-cp hood | waiting |
