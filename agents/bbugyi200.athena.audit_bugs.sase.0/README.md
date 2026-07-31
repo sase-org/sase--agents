@@ -1,29 +1,26 @@
-# Agent: audit\_bugs.sase.c029ba2da5f7
+# Agent: audit\_bugs.sase.0
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [audit\_bugs](../../users/bbugyi200/machines/athena/hoods/audit_bugs/README.md) / audit\_bugs.sase.c029ba2da5f7
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [audit\_bugs](../../users/bbugyi200/machines/athena/hoods/audit_bugs/README.md) / audit\_bugs.sase.0
 
-**Global name:** `bbugyi200.athena.audit_bugs.sase.c029ba2da5f7` · **State:** completed · **Source run:** `run-30cd376c5f136530a8040ba05db41809`
+**Global name:** `bbugyi200.athena.audit_bugs.sase.0` · **State:** active · **Source run:** `run-48dc28ffb1ce4f54b56ddf4c202a966b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** audit\_bugs
 
 ## Summary
 
-- Model: —
-- Provider: —
-- Timing: 2026-06-16T02:35:37+00:00 → 2026-06-16T02:35:37+00:00
-- Commits: [1](#commits)
+- Model: gpt-5.6-sol
+- Provider: codex
+- Timing: 2026-07-31T00:02:33.238547+00:00
+- Commits: 0
 
-## Commits
+## Files
 
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| sase | [`115cb41`](https://github.com/sase-org/sase/commit/115cb41d432c36bc13ef06878264a89bd5a41aec) | fix: guard prompt pruning and sharded plan lookup (#176) | 2026-06-16 02:35:37 |
+[Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [audit\_bugs.sase.0](../bbugyi200.athena.audit_bugs.sase.0/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.04a725461b30](../bbugyi200.athena.audit_bugs.sase.04a725461b30/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.09fa3fe1e8b6](../bbugyi200.athena.audit_bugs.sase.09fa3fe1e8b6/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.10eeaf72302a](../bbugyi200.athena.audit_bugs.sase.10eeaf72302a/README.md) | audit\_bugs.sase hood | active |
@@ -49,6 +46,7 @@
 | [audit\_bugs.sase.a011b4247f2d](../bbugyi200.athena.audit_bugs.sase.a011b4247f2d/README.md) | audit\_bugs.sase hood | completed |
 | [audit\_bugs.sase.a452b461cf42](../bbugyi200.athena.audit_bugs.sase.a452b461cf42/README.md) | audit\_bugs.sase hood | waiting |
 | [audit\_bugs.sase.a8f9e5802c39](../bbugyi200.athena.audit_bugs.sase.a8f9e5802c39/README.md) | audit\_bugs.sase hood | active |
+| [audit\_bugs.sase.c029ba2da5f7](../bbugyi200.athena.audit_bugs.sase.c029ba2da5f7/README.md) | audit\_bugs.sase hood | completed |
 | [audit\_bugs.sase.c07af5cf277c](../bbugyi200.athena.audit_bugs.sase.c07af5cf277c/README.md) | audit\_bugs.sase hood | completed |
 | [audit\_bugs.sase.cb7a4a5566aa](../bbugyi200.athena.audit_bugs.sase.cb7a4a5566aa/README.md) | audit\_bugs.sase hood | completed |
 | [audit\_bugs.sase.d605ae5119e3](../bbugyi200.athena.audit_bugs.sase.d605ae5119e3/README.md) | audit\_bugs.sase hood | completed |

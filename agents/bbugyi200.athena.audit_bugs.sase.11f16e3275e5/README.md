@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [audit\_bugs](../../users/bbugyi200/machines/athena/hoods/audit_bugs/README.md) / audit\_bugs.sase.11f16e3275e5
 
-**Global name:** `bbugyi200.athena.audit_bugs.sase.11f16e3275e5` · **State:** dismissed · **Source run:** `run-0780372d3d70538cfcc14cf06ce61aa2`
+**Global name:** `bbugyi200.athena.audit_bugs.sase.11f16e3275e5` · **State:** active · **Source run:** `run-0780372d3d70538cfcc14cf06ce61aa2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** audit\_bugs
 
@@ -10,13 +10,18 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-28T08:19:48.937629
+- Timing: 2026-07-28T12:19:48.937629+00:00
 - Commits: 0
+
+## Files
+
+[Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [audit\_bugs.sase.0](../bbugyi200.athena.audit_bugs.sase.0/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.04a725461b30](../bbugyi200.athena.audit_bugs.sase.04a725461b30/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.09fa3fe1e8b6](../bbugyi200.athena.audit_bugs.sase.09fa3fe1e8b6/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.10eeaf72302a](../bbugyi200.athena.audit_bugs.sase.10eeaf72302a/README.md) | audit\_bugs.sase hood | active |
@@ -26,8 +31,8 @@
 | [audit\_bugs.sase.31f8436d101f](../bbugyi200.athena.audit_bugs.sase.31f8436d101f/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.3308b2c86f93](../bbugyi200.athena.audit_bugs.sase.3308b2c86f93/README.md) | audit\_bugs.sase hood | completed |
 | [audit\_bugs.sase.35aeb27ca689](../bbugyi200.athena.audit_bugs.sase.35aeb27ca689/README.md) | audit\_bugs.sase hood | active |
-| [audit\_bugs.sase.3bd59cdda2a0](../bbugyi200.athena.audit_bugs.sase.3bd59cdda2a0/README.md) | audit\_bugs.sase hood | dismissed |
-| [audit\_bugs.sase.61013b22957c](../bbugyi200.athena.audit_bugs.sase.61013b22957c/README.md) | audit\_bugs.sase hood | dismissed |
+| [audit\_bugs.sase.3bd59cdda2a0](../bbugyi200.athena.audit_bugs.sase.3bd59cdda2a0/README.md) | audit\_bugs.sase hood | active |
+| [audit\_bugs.sase.61013b22957c](../bbugyi200.athena.audit_bugs.sase.61013b22957c/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.679a41b42eae](../bbugyi200.athena.audit_bugs.sase.679a41b42eae/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.7270b986bf6f](../bbugyi200.athena.audit_bugs.sase.7270b986bf6f/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.734f67a25203](../bbugyi200.athena.audit_bugs.sase.734f67a25203/README.md) | audit\_bugs.sase hood | active |
@@ -49,6 +54,6 @@
 | [audit\_bugs.sase.de315ca0f426](../bbugyi200.athena.audit_bugs.sase.de315ca0f426/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.e0f310d8da7a](../bbugyi200.athena.audit_bugs.sase.e0f310d8da7a/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.e2a294dc09ae](../bbugyi200.athena.audit_bugs.sase.e2a294dc09ae/README.md) | audit\_bugs.sase hood | active |
-| [audit\_bugs.sase.e73040accf00](../bbugyi200.athena.audit_bugs.sase.e73040accf00/README.md) | audit\_bugs.sase hood | dismissed |
+| [audit\_bugs.sase.e73040accf00](../bbugyi200.athena.audit_bugs.sase.e73040accf00/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.f628154527ea](../bbugyi200.athena.audit_bugs.sase.f628154527ea/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.fe372b13adbc](../bbugyi200.athena.audit_bugs.sase.fe372b13adbc/README.md) | audit\_bugs.sase hood | active |
