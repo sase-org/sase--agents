@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase As sase's maintainer, I would like to be able to change the current default model alias configurations by changing a single yaml file. Is this currently possible? #if_not_plan #m_opus
