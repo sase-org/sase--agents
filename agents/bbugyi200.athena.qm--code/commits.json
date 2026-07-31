@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1785526091,"sha":"50988fe7f0b77c0f54fbd71fd9de89ae3788662b","subject":"feat(beads): accept multiple bead IDs in `sase bead update`"}],"schema_version":2,"source_run_id":"run-570e2c45dbe237320ec053b18d6bdaec"}

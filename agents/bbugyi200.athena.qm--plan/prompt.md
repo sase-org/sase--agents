@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add support for specifying multiple bead IDs to the `sase bead update` command? This should result in a bulk update that creates a single git commit (and pushes it to GitHub properly). #plan #m_opus
