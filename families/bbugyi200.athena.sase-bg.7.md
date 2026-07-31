@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-bg` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["sase-bg.7--code [active]"]
-  n1["sase-bg.7--plan [active]"]
+  n0["sase-bg.7--code [completed]"]
+  n1["sase-bg.7--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-bg.7--code | active | gpt-5.6-sol / codex | 2026-07-31T00:08:41.092351+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-bg.7--plan | active | gpt-5.6-sol / codex | 2026-07-31T00:02:37.976616+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-bg.7--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-bg.7--plan/chat.md) |
+| <a id="member-code"></a>code | sase-bg.7--code | completed | gpt-5.6-sol / codex | 2026-07-31T00:08:41.092351+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-bg.7--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-bg.7--plan | completed | gpt-5.6-sol / codex | 2026-07-31T00:02:37.976616+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-bg.7--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-bg.7--plan/chat.md) |
 
 ## Neighbors
 
@@ -31,6 +31,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-bg.4](bbugyi200.athena.sase-bg.4.md) (family · 2) | sase-bg hood | active 2 |
 | [sase-bg.5](../agents/bbugyi200.athena.sase-bg.5/README.md) | sase-bg hood | completed |
 | [sase-bg.6](../agents/bbugyi200.athena.sase-bg.6/README.md) | sase-bg hood | completed |
-| [sase-bg.8](../agents/bbugyi200.athena.sase-bg.8/README.md) | sase-bg hood | waiting |
+| [sase-bg.8](bbugyi200.athena.sase-bg.8.md) (family · 2) | sase-bg hood | active 2 |
 | [sase-bg.9](../agents/bbugyi200.athena.sase-bg.9/README.md) | sase-bg hood | waiting |
 | [sase-bg.land](../agents/bbugyi200.athena.sase-bg.land/README.md) | sase-bg hood | waiting |
