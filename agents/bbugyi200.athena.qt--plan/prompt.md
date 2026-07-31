@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me install OpenCode and setup GLM 5.2 properly (see recent related research added to the research sidecar repo) by creating whatever configuration files need to exist (if any) and creating a custom sase gate with commands that properly install OpenCode and authenticate? #plan #m_opus
