@@ -7,4 +7,4 @@
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [qj--code](../../../../../../families/bbugyi200.athena.qj.md#member-code) | active | gpt-5.5 / codex | 2026-07-31T17:15:35.193458+00:00 | 1 | — |
-| [qj--plan](../../../../../../families/bbugyi200.athena.qj.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-31T17:08:01.027268+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.qj--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.qj--plan/chat.md) |
+| [qj--plan](../../../../../../families/bbugyi200.athena.qj.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-31T17:08:01.027268+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.qj--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.qj--plan/prompt.md) |
