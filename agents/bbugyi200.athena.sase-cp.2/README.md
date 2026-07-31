@@ -11,16 +11,23 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-31T19:26:51.500953+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`642b4f4`](https://github.com/sase-org/sase/commit/642b4f490b302311ce5b737ac76d3720f4404f01) | feat(memory): retire bundled sase\_beads skill source | 2026-07-31 19:43:03 |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-cp.1](../bbugyi200.athena.sase-cp.1/README.md) | sase-cp hood | completed |
-| [sase-cp.3](../bbugyi200.athena.sase-cp.3/README.md) | sase-cp hood | active |
-| [sase-cp.land](../bbugyi200.athena.sase-cp.land/README.md) | sase-cp hood | waiting |
+| [sase-cp.3](../bbugyi200.athena.sase-cp.3/README.md) | sase-cp hood | completed |
+| [sase-cp.land](../../families/bbugyi200.athena.sase-cp.land.md) (family · 2) | sase-cp hood | active 2 |
+| [sase-cp.land.w0](../bbugyi200.athena.sase-cp.land.w0/README.md) | sase-cp hood | dismissed |
