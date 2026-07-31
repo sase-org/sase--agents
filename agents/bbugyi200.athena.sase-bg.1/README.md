@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-bg.10](../bbugyi200.athena.sase-bg.10/README.md) | sase-bg hood | active |
+| [sase-bg.10](../bbugyi200.athena.sase-bg.10/README.md) | sase-bg hood | completed |
 | [sase-bg.2](../bbugyi200.athena.sase-bg.2/README.md) | sase-bg hood | completed |
 | [sase-bg.3](../bbugyi200.athena.sase-bg.3/README.md) | sase-bg hood | completed |
 | [sase-bg.4](../../families/bbugyi200.athena.sase-bg.4.md) (family · 2) | sase-bg hood | completed 2 |
@@ -30,4 +30,4 @@
 | [sase-bg.7](../../families/bbugyi200.athena.sase-bg.7.md) (family · 2) | sase-bg hood | completed 2 |
 | [sase-bg.8](../../families/bbugyi200.athena.sase-bg.8.md) (family · 2) | sase-bg hood | completed 2 |
 | [sase-bg.9](../bbugyi200.athena.sase-bg.9/README.md) | sase-bg hood | completed |
-| [sase-bg.land](../bbugyi200.athena.sase-bg.land/README.md) | sase-bg hood | waiting |
+| [sase-bg.land](../bbugyi200.athena.sase-bg.land/README.md) | sase-bg hood | active |
