@@ -1174,7 +1174,7 @@
 | [sase-ci](hoods/sase-ci/README.md) | 4 | 0 | active 1, completed 3 |
 | [sase-cn](hoods/sase-cn/README.md) | 1 | 0 | completed 1 |
 | [sase-co](hoods/sase-co/README.md) | 1 | 0 | active 1 |
-| [sase-cp](hoods/sase-cp/README.md) | 4 | 0 | active 1, completed 1, waiting 2 |
+| [sase-cp](hoods/sase-cp/README.md) | 4 | 0 | active 1, completed 2, waiting 1 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-0q](hoods/sase_fix_just-0q/README.md) | 1 | 0 | active 1 |
