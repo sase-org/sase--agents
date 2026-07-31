@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-bg.8--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_bg_8__plan-260730_185713.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_bg_8__code-260730_185713.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/task_triage_gate.md
 
 

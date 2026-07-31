@@ -1,29 +1,27 @@
-# Agent: audit\_improvements.sase.03813d90971c
+# Agent: audit\_improvements.sase.0
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [audit\_improvements](../../users/bbugyi200/machines/athena/hoods/audit_improvements/README.md) / audit\_improvements.sase.03813d90971c
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [audit\_improvements](../../users/bbugyi200/machines/athena/hoods/audit_improvements/README.md) / audit\_improvements.sase.0
 
-**Global name:** `bbugyi200.athena.audit_improvements.sase.03813d90971c` · **State:** completed · **Source run:** `run-6366a209fdaa6ba50e1ac6a00b347d19`
+**Global name:** `bbugyi200.athena.audit_improvements.sase.0` · **State:** active · **Source run:** `run-cf5b0086143f1ef489cab77532916ff4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** audit\_improvements
 
 ## Summary
 
-- Model: —
-- Provider: —
-- Timing: 2026-06-20T22:09:26+00:00 → 2026-06-20T22:09:26+00:00
-- Commits: [1](#commits)
+- Model: gpt-5.6-sol
+- Provider: codex
+- Timing: 2026-07-31T01:57:38.146406+00:00
+- Commits: 0
 
-## Commits
+## Files
 
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| sase | [`7aa16e8`](https://github.com/sase-org/sase/commit/7aa16e85f1d90627504c6cb49f43ddffa07f62e4) | fix: avoid replaying old agy tool calls (#182) | 2026-06-20 22:09:26 |
+[Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [audit\_improvements.sase.0](../bbugyi200.athena.audit_improvements.sase.0/README.md) | audit\_improvements.sase hood | active |
+| [audit\_improvements.sase.03813d90971c](../bbugyi200.athena.audit_improvements.sase.03813d90971c/README.md) | audit\_improvements.sase hood | completed |
 | [audit\_improvements.sase.08e1fc7c0f0d](../bbugyi200.athena.audit_improvements.sase.08e1fc7c0f0d/README.md) | audit\_improvements.sase hood | active |
 | [audit\_improvements.sase.1180425d1192](../bbugyi200.athena.audit_improvements.sase.1180425d1192/README.md) | audit\_improvements.sase hood | active |
 | [audit\_improvements.sase.141aaf7f51cc](../bbugyi200.athena.audit_improvements.sase.141aaf7f51cc/README.md) | audit\_improvements.sase hood | active |

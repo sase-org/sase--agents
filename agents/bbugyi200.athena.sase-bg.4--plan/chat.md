@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-bg.4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_bg_4__plan-260730_185711.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_bg_4__code-260730_185711.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/tui_task_surfaces.md
 
 
