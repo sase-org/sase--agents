@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-9327fa3fd725901619a96e6546de5080"}
+{"commits":[{"committed_at":1785507490,"sha":"578e4f5c6499c32d21468734e142ff1c6d092eac","subject":"feat(bead): resolve the acting agent as a bead creator"}],"schema_version":2,"source_run_id":"run-9327fa3fd725901619a96e6546de5080"}
