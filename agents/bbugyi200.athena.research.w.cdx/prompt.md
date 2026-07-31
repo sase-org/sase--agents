@@ -1,0 +1,2 @@
+%clan(research.w, tribe=research, summary=[[[bold]RESEARCH PROMPT:[/bold] I wanna start using GLM 5.2 with sase. Can you do some research to help me understand the best way to achieve this? End your analysis with a recommended solution.]]) %id:research.w.cdx
+%wait(priority=20) %model:@research_a #gh:gh_sase-org__sase I wanna start using GLM 5.2 with sase. Can you do some research to help me understand the best way to achieve this? End your analysis with a recommended solution. #research
