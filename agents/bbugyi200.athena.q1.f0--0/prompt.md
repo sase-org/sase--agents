@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:q1 Are the `@chop` and `@research` agent tribes configured in this repo or in my chezmoi repo? They are supposed to be configured in my chezmoi repo. #if_not_plan #m_opus
