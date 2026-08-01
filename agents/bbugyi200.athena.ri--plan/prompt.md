@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me improve the `,u` keymap on the agents tab, which marks all unread agent lanes as read, so that the user can press `,u` a second time to undo that change (assuming no agents have been marked as unread since the user pressed `,u` the first time)? #plan
