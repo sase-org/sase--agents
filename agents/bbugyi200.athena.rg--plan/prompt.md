@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me stop showing "Fakey" in the list of agent CLIs shown on the "Updates" tab of the "SASE Admin Center" panel (see #sshot)? #plan

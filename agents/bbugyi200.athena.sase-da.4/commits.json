@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5d7d2d416f011380fc662a96da302229"}
+{"commits":[{"committed_at":1785594333,"sha":"09c1d0d6b793cc278a644bdbde4aa05c08c58148","subject":"feat(bead): retry bead-work preclaims on store-lock contention"}],"schema_version":2,"source_run_id":"run-5d7d2d416f011380fc662a96da302229"}

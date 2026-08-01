@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / athena
 
-**Project:** sase · **Hoods:** 1271 · **Runs:** 5342
+**Project:** sase · **Hoods:** 1277 · **Runs:** 5360
 
 | Hood | Runs | Families | States |
 |---|---:|---:|---|
@@ -956,9 +956,13 @@
 | [r](hoods/r/README.md) | 4 | 2 | active 2, completed 2 |
 | [r0](hoods/r0/README.md) | 4 | 2 | active 2, completed 2 |
 | [r8](hoods/r8/README.md) | 2 | 1 | active 2 |
+| [ra](hoods/ra/README.md) | 2 | 1 | completed 2 |
+| [rc](hoods/rc/README.md) | 3 | 1 | active 2, completed 1 |
+| [rd](hoods/rd/README.md) | 1 | 0 | completed 1 |
 | [refresh\_docs](hoods/refresh_docs/README.md) | 64 | 0 | active 14, completed 48, waiting 2 |
 | [research](hoods/research/README.md) | 302 | 6 | active 120, completed 164, dismissed 10, failed 1, waiting 7 |
 | [research\_swarm](hoods/research_swarm/README.md) | 45 | 0 | completed 45 |
+| [rg](hoods/rg/README.md) | 2 | 1 | active 2 |
 | [s](hoods/s/README.md) | 7 | 2 | active 3, completed 4 |
 | [sase-44](hoods/sase-44/README.md) | 7 | 0 | completed 7 |
 | [sase-45](hoods/sase-45/README.md) | 9 | 0 | completed 9 |
@@ -1189,8 +1193,10 @@
 | [sase-d0](hoods/sase-d0/README.md) | 1 | 0 | completed 1 |
 | [sase-d1](hoods/sase-d1/README.md) | 1 | 0 | completed 1 |
 | [sase-d5](hoods/sase-d5/README.md) | 1 | 0 | active 1 |
-| [sase-d9](hoods/sase-d9/README.md) | 8 | 0 | active 1, completed 3, waiting 4 |
-| [sase-da](hoods/sase-da/README.md) | 6 | 0 | active 2, completed 1, waiting 3 |
+| [sase-d9](hoods/sase-d9/README.md) | 8 | 0 | active 1, completed 6, waiting 1 |
+| [sase-da](hoods/sase-da/README.md) | 6 | 0 | active 1, completed 5 |
+| [sase-dd](hoods/sase-dd/README.md) | 8 | 0 | active 2, completed 1, waiting 5 |
+| [sase-de](hoods/sase-de/README.md) | 2 | 1 | completed 2 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-0q](hoods/sase_fix_just-0q/README.md) | 1 | 0 | active 1 |

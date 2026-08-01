@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-18986946d7ed7c32f9953845f995b7b2"}
+{"commits":[{"committed_at":1785594059,"sha":"d1f55cec31a7ce1a97ec0030c8e7c9853cfe4be6","subject":"feat(tui): resolve clan hint paths off-thread"}],"schema_version":2,"source_run_id":"run-18986946d7ed7c32f9953845f995b7b2"}
