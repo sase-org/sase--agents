@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-d9](../../users/bbugyi200/machines/athena/hoods/sase-d9/README.md) / sase-d9.land
 
-**Global name:** `bbugyi200.athena.sase-d9.land` · **State:** waiting · **Source run:** `run-580367a2d5e7afa40edaa00a8572ea86`
+**Global name:** `bbugyi200.athena.sase-d9.land` · **State:** completed · **Source run:** `run-580367a2d5e7afa40edaa00a8572ea86`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-d9
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260801084628
+- Timing: 2026-08-01T15:17:05.896119+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -27,4 +27,4 @@
 | [sase-d9.4](../bbugyi200.athena.sase-d9.4/README.md) | sase-d9 hood | completed |
 | [sase-d9.5](../bbugyi200.athena.sase-d9.5/README.md) | sase-d9 hood | completed |
 | [sase-d9.6](../bbugyi200.athena.sase-d9.6/README.md) | sase-d9 hood | completed |
-| [sase-d9.7](../bbugyi200.athena.sase-d9.7/README.md) | sase-d9 hood | active |
+| [sase-d9.7](../bbugyi200.athena.sase-d9.7/README.md) | sase-d9 hood | completed |
