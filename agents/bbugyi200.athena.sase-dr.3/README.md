@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-08-01T18:00:38.405736+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`0f1f286`](https://github.com/sase-org/sase/commit/0f1f28699598bb86bed8de5ec2c42f2463c6ee21) | test(ace): refresh task triage presentation golden | 2026-08-01 18:37:09 |
 
 ## Neighbors
 
