@@ -29,5 +29,5 @@
 |---|---|---|
 | [sase-cy.1](../bbugyi200.athena.sase-cy.1/README.md) | sase-cy hood | completed |
 | [sase-cy.2](../bbugyi200.athena.sase-cy.2/README.md) | sase-cy hood | completed |
-| [sase-cy.4](../bbugyi200.athena.sase-cy.4/README.md) | sase-cy hood | active |
-| [sase-cy.land](../bbugyi200.athena.sase-cy.land/README.md) | sase-cy hood | waiting |
+| [sase-cy.4](../bbugyi200.athena.sase-cy.4/README.md) | sase-cy hood | completed |
+| [sase-cy.land](../../families/bbugyi200.athena.sase-cy.land.md) (family · 2) | sase-cy hood | active 2 |
