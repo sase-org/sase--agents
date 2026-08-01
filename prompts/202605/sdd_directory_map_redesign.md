@@ -1,0 +1,3 @@
+- **PLAN:** [202605/sdd_directory_map_redesign.md](https://github.com/sase-org/sase--plans/blob/main/202605/sdd_directory_map_redesign.md)
+
+  #resume:wk That image is too fun and not helpful enough to the user. Can you use GPT image to generate a new one? Think this through thoroughly and create a plan using your `/sase_plan` skill before making any file changes.
