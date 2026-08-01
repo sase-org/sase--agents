@@ -28,5 +28,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-1c.split\_file.src.sase.ace.tui.modals.logs\_pane.0](../bbugyi200.athena.toobig-1c.split_file.src.sase.ace.tui.modals.logs_pane.0/README.md) | toobig-1c.split\_file.src.sase.ace.tui.modals hood | completed |
-| [toobig-1c.split\_file.src.sase.ace.tui.modals.tasks\_pane.0](../bbugyi200.athena.toobig-1c.split_file.src.sase.ace.tui.modals.tasks_pane.0/README.md) | toobig-1c.split\_file.src.sase.ace.tui.modals hood | active |
-| [toobig-1c.split\_file.tests.ace.tui.test\_tasks\_pane.0](../bbugyi200.athena.toobig-1c.split_file.tests.ace.tui.test_tasks_pane.0/README.md) | toobig-1c.split\_file hood | waiting |
+| [toobig-1c.split\_file.src.sase.ace.tui.modals.tasks\_pane.0](../bbugyi200.athena.toobig-1c.split_file.src.sase.ace.tui.modals.tasks_pane.0/README.md) | toobig-1c.split\_file.src.sase.ace.tui.modals hood | completed |
+| [toobig-1c.split\_file.tests.ace.tui.test\_tasks\_pane.0](../bbugyi200.athena.toobig-1c.split_file.tests.ace.tui.test_tasks_pane.0/README.md) | toobig-1c.split\_file hood | active |
