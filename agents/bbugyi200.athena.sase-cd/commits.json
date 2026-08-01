@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7a1fce3e186d3ab1ca122dcf63cd71c6"}
+{"commits":[{"committed_at":1785588942,"sha":"d3c2dee7357125d37472964fedfafe687fba4adb","subject":"fix(bead): align compact search type column"}],"schema_version":2,"source_run_id":"run-7a1fce3e186d3ab1ca122dcf63cd71c6"}
