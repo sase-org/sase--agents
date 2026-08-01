@@ -28,6 +28,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-cy.2](../bbugyi200.athena.sase-cy.2/README.md) | sase-cy hood | active |
-| [sase-cy.3](../bbugyi200.athena.sase-cy.3/README.md) | sase-cy hood | active |
+| [sase-cy.3](../bbugyi200.athena.sase-cy.3/README.md) | sase-cy hood | completed |
 | [sase-cy.4](../bbugyi200.athena.sase-cy.4/README.md) | sase-cy hood | waiting |
 | [sase-cy.land](../bbugyi200.athena.sase-cy.land/README.md) | sase-cy hood | waiting |

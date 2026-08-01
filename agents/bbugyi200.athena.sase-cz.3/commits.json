@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-87e441702697020d5d74636b85d607b9"}
+{"commits":[{"committed_at":1785586043,"sha":"661699f387a830d107f02a45558e121bdfff494c","subject":"feat(tui): route notifications through declared panels"}],"schema_version":2,"source_run_id":"run-87e441702697020d5d74636b85d607b9"}

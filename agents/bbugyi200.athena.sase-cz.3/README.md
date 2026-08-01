@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-08-01T11:26:51.013014+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`661699f`](https://github.com/sase-org/sase/commit/661699f387a830d107f02a45558e121bdfff494c) | feat(tui): route notifications through declared panels | 2026-08-01 12:07:23 |
 
 ## Neighbors
 
@@ -23,6 +29,6 @@
 |---|---|---|
 | [sase-cz.1](../bbugyi200.athena.sase-cz.1/README.md) | sase-cz hood | completed |
 | [sase-cz.2](../bbugyi200.athena.sase-cz.2/README.md) | sase-cz hood | completed |
-| [sase-cz.4](../bbugyi200.athena.sase-cz.4/README.md) | sase-cz hood | active |
-| [sase-cz.5](../bbugyi200.athena.sase-cz.5/README.md) | sase-cz hood | waiting |
+| [sase-cz.4](../bbugyi200.athena.sase-cz.4/README.md) | sase-cz hood | completed |
+| [sase-cz.5](../bbugyi200.athena.sase-cz.5/README.md) | sase-cz hood | active |
 | [sase-cz.land](../bbugyi200.athena.sase-cz.land/README.md) | sase-cz hood | waiting |
