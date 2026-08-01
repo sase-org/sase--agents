@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me opt-in to sase's recently added (yesterday I think) artifact pruning by adding the appropriate sase config field to the sase.yml file in my chezmoi repo? #plan
