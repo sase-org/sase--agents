@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-1d](../../users/bbugyi200/machines/athena/hoods/toobig-1d/README.md) / toobig-1d.split\_file.src.sase.ace.tui.actions.artifacts\_beads.0
 
-**Global name:** `bbugyi200.athena.toobig-1d.split_file.src.sase.ace.tui.actions.artifacts_beads.0` · **State:** active · **Source run:** `run-c827df49af476180813f3adece6d226c`
+**Global name:** `bbugyi200.athena.toobig-1d.split_file.src.sase.ace.tui.actions.artifacts_beads.0` · **State:** completed · **Source run:** `run-c827df49af476180813f3adece6d226c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-1d
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260801132858
-- Commits: 0
+- Timing: 2026-08-01T17:59:17.953836+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`e20ebf4`](https://github.com/sase-org/sase/commit/e20ebf438d3c973b094d3df804fc5ad8cbd233df) | refactor(ace): split artifacts beads actions | 2026-08-01 18:19:29 |
 
 ## Neighbors
 

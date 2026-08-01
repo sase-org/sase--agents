@@ -22,7 +22,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-1d.split\_file.src.sase.ace.tui.actions.artifacts.0](../bbugyi200.athena.toobig-1d.split_file.src.sase.ace.tui.actions.artifacts.0/README.md) | toobig-1d.split\_file.src.sase.ace.tui hood | completed |
-| [toobig-1d.split\_file.src.sase.ace.tui.actions.artifacts\_beads.0](../bbugyi200.athena.toobig-1d.split_file.src.sase.ace.tui.actions.artifacts_beads.0/README.md) | toobig-1d.split\_file.src.sase.ace.tui hood | active |
+| [toobig-1d.split\_file.src.sase.ace.tui.actions.artifacts\_beads.0](../bbugyi200.athena.toobig-1d.split_file.src.sase.ace.tui.actions.artifacts_beads.0/README.md) | toobig-1d.split\_file.src.sase.ace.tui hood | completed |
 | [toobig-1d.split\_file.src.sase.ace.tui.actions.clipboard.\_artifact\_targets.0](../bbugyi200.athena.toobig-1d.split_file.src.sase.ace.tui.actions.clipboard._artifact_targets.0/README.md) | toobig-1d.split\_file.src.sase.ace.tui hood | waiting |
 | [toobig-1d.split\_file.src.sase.ace.tui.app.0](../bbugyi200.athena.toobig-1d.split_file.src.sase.ace.tui.app.0/README.md) | toobig-1d.split\_file.src.sase.ace.tui hood | waiting |
 | [toobig-1d.split\_file.src.sase.ace.tui.widgets.prompt\_panel.\_agent\_display\_hints.0](../bbugyi200.athena.toobig-1d.split_file.src.sase.ace.tui.widgets.prompt_panel._agent_display_hints.0/README.md) | toobig-1d.split\_file.src.sase.ace.tui hood | waiting |

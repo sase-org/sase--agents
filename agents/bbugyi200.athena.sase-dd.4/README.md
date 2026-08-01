@@ -32,5 +32,5 @@
 | [sase-dd.3](../bbugyi200.athena.sase-dd.3/README.md) | sase-dd hood | completed |
 | [sase-dd.5](../bbugyi200.athena.sase-dd.5/README.md) | sase-dd hood | completed |
 | [sase-dd.6](../bbugyi200.athena.sase-dd.6/README.md) | sase-dd hood | completed |
-| [sase-dd.7](../bbugyi200.athena.sase-dd.7/README.md) | sase-dd hood | active |
-| [sase-dd.land](../bbugyi200.athena.sase-dd.land/README.md) | sase-dd hood | waiting |
+| [sase-dd.7](../bbugyi200.athena.sase-dd.7/README.md) | sase-dd hood | completed |
+| [sase-dd.land](../bbugyi200.athena.sase-dd.land/README.md) | sase-dd hood | active |
