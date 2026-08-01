@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-1c](../../users/bbugyi200/machines/athena/hoods/toobig-1c/README.md) / toobig-1c.split\_file.src.sase.ace.tui.modals.logs\_pane.0
 
-**Global name:** `bbugyi200.athena.toobig-1c.split_file.src.sase.ace.tui.modals.logs_pane.0` · **State:** active · **Source run:** `run-fd64b5d0350aa03066836da88da6b952`
+**Global name:** `bbugyi200.athena.toobig-1c.split_file.src.sase.ace.tui.modals.logs_pane.0` · **State:** completed · **Source run:** `run-fd64b5d0350aa03066836da88da6b952`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-1c
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -28,5 +28,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-1c.split\_file.src.sase.ace.tui.modals.config\_pane\_widget.0](../bbugyi200.athena.toobig-1c.split_file.src.sase.ace.tui.modals.config_pane_widget.0/README.md) | toobig-1c.split\_file.src.sase.ace.tui.modals hood | completed |
-| [toobig-1c.split\_file.src.sase.ace.tui.modals.tasks\_pane.0](../bbugyi200.athena.toobig-1c.split_file.src.sase.ace.tui.modals.tasks_pane.0/README.md) | toobig-1c.split\_file.src.sase.ace.tui.modals hood | waiting |
+| [toobig-1c.split\_file.src.sase.ace.tui.modals.tasks\_pane.0](../bbugyi200.athena.toobig-1c.split_file.src.sase.ace.tui.modals.tasks_pane.0/README.md) | toobig-1c.split\_file.src.sase.ace.tui.modals hood | active |
 | [toobig-1c.split\_file.tests.ace.tui.test\_tasks\_pane.0](../bbugyi200.athena.toobig-1c.split_file.tests.ace.tui.test_tasks_pane.0/README.md) | toobig-1c.split\_file hood | waiting |
