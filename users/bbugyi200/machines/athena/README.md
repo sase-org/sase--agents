@@ -1198,7 +1198,7 @@
 | [sase-da](hoods/sase-da/README.md) | 6 | 0 | completed 6 |
 | [sase-dd](hoods/sase-dd/README.md) | 8 | 0 | active 1, completed 7 |
 | [sase-de](hoods/sase-de/README.md) | 2 | 1 | completed 2 |
-| [sase-dh](hoods/sase-dh/README.md) | 8 | 0 | active 1, completed 3, waiting 4 |
+| [sase-dh](hoods/sase-dh/README.md) | 8 | 0 | active 1, completed 5, waiting 2 |
 | [sase-di](hoods/sase-di/README.md) | 1 | 0 | completed 1 |
 | [sase-dr](hoods/sase-dr/README.md) | 6 | 0 | active 2, completed 2, waiting 2 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
