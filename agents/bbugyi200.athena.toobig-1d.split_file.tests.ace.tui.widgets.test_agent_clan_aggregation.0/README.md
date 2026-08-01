@@ -25,7 +25,7 @@
 | [toobig-1d.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_agents\_auto\_approve.0](../bbugyi200.athena.toobig-1d.split_file.tests.ace.tui.visual.test_ace_png_snapshots_agents_auto_approve.0/README.md) | toobig-1d.split\_file.tests.ace.tui hood | waiting |
 | [toobig-1d.split\_file.src.sase.ace.tui.actions.artifacts.0](../bbugyi200.athena.toobig-1d.split_file.src.sase.ace.tui.actions.artifacts.0/README.md) | toobig-1d.split\_file hood | completed |
 | [toobig-1d.split\_file.src.sase.ace.tui.actions.artifacts\_beads.0](../bbugyi200.athena.toobig-1d.split_file.src.sase.ace.tui.actions.artifacts_beads.0/README.md) | toobig-1d.split\_file hood | completed |
-| [toobig-1d.split\_file.src.sase.ace.tui.actions.clipboard.\_artifact\_targets.0](../bbugyi200.athena.toobig-1d.split_file.src.sase.ace.tui.actions.clipboard._artifact_targets.0/README.md) | toobig-1d.split\_file hood | waiting |
-| [toobig-1d.split\_file.src.sase.ace.tui.app.0](../bbugyi200.athena.toobig-1d.split_file.src.sase.ace.tui.app.0/README.md) | toobig-1d.split\_file hood | waiting |
-| [toobig-1d.split\_file.src.sase.ace.tui.modals.notification\_modal\_actions.0](../bbugyi200.athena.toobig-1d.split_file.src.sase.ace.tui.modals.notification_modal_actions.0/README.md) | toobig-1d.split\_file hood | waiting |
+| [toobig-1d.split\_file.src.sase.ace.tui.actions.clipboard.\_artifact\_targets.0](../bbugyi200.athena.toobig-1d.split_file.src.sase.ace.tui.actions.clipboard._artifact_targets.0/README.md) | toobig-1d.split\_file hood | completed |
+| [toobig-1d.split\_file.src.sase.ace.tui.app.0](../bbugyi200.athena.toobig-1d.split_file.src.sase.ace.tui.app.0/README.md) | toobig-1d.split\_file hood | completed |
+| [toobig-1d.split\_file.src.sase.ace.tui.modals.notification\_modal\_actions.0](../bbugyi200.athena.toobig-1d.split_file.src.sase.ace.tui.modals.notification_modal_actions.0/README.md) | toobig-1d.split\_file hood | active |
 | [toobig-1d.split\_file.src.sase.ace.tui.widgets.prompt\_panel.\_agent\_display\_hints.0](../bbugyi200.athena.toobig-1d.split_file.src.sase.ace.tui.widgets.prompt_panel._agent_display_hints.0/README.md) | toobig-1d.split\_file hood | waiting |

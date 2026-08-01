@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7e8fb610fa7482906c38543b1b03cf9b"}
+{"commits":[{"committed_at":1785611326,"sha":"ec246d8708a1a6379775787c9b70c350f4d7eb32","subject":"refactor(tui): split artifact clipboard targets"}],"schema_version":2,"source_run_id":"run-7e8fb610fa7482906c38543b1b03cf9b"}
