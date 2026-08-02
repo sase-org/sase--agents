@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me remove the "Runs" and "Runtime" tabs of the "SASE Admin Center" panel? These have never really provided much value. #plan

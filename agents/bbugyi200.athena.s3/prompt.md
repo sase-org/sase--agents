@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add a new `sase xprompt show` command that displays an xprompt definition (including any properties defined for that xprompt) using excellent xprompt syntax highlighting (see the syntax highlighting we use in the prompt input widget for inspiration)? #beau #plan #m_opus
