@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e9de9bdbc1c1f5d7e4f4cfa680f94485"}
+{"commits":[{"committed_at":1785683944,"sha":"abbeb36d9033a6e5fa7e758930b6ad5ae3ccd5a2","subject":"test: make suite-gate integration budgets load-tolerant"}],"schema_version":2,"source_run_id":"run-e9de9bdbc1c1f5d7e4f4cfa680f94485"}

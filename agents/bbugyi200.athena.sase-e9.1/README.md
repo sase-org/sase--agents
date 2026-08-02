@@ -11,11 +11,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-02T14:19:20.748965+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`abbeb36`](https://github.com/sase-org/sase/commit/abbeb36d9033a6e5fa7e758930b6ad5ae3ccd5a2) | test: make suite-gate integration budgets load-tolerant | 2026-08-02 15:19:04 |
 
 ## Neighbors
 
