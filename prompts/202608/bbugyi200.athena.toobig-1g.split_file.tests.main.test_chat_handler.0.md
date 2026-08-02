@@ -10,7 +10,7 @@ focused, reviewable units[/dim #D7D7FF] [dim #D7D7FF]without changing behavior.[
 
 [dim #A8A8A8]2 scan roots · limits 1,000 / 850 / 700 lines · sequential queue[/dim #A8A8A8]]]) %wait(runners=3) %auto
 %wait(priority=20)
-[#split_file:tests/main/test_chat_handler.py](https://github.com/sase-org/sase/blob/fbe7a6fb6d2a6ee48a96c0de4e61245dfb813092/src/sase/xprompts/split_file.md)
+[#split_file:tests/main/test_chat_handler.py](https://github.com/sase-org/sase/blob/c2d1784fdb35dc69ea3f8f74f32480bfb046d759/src/sase/xprompts/split_file.md)
 
 <!-- sase:section:rendered -->
 
