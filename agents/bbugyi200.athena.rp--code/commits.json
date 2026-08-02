@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5f7ac1737a0791e855e5de020431aef6"}
+{"commits":[{"committed_at":1785670202,"sha":"0d7c351e43d258f67ee98c346f41ec246f1f7573","subject":"feat(llm): default smartest alias to Opus at max effort"}],"schema_version":2,"source_run_id":"run-5f7ac1737a0791e855e5de020431aef6"}

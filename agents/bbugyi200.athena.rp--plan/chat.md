@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** rp--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-rp__plan-260802_065329.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-rp__code-260802_065329.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/smartest_alias_opus_max.md
 
 
