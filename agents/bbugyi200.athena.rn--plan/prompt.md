@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Why does the "Plans and Questions" sub-tab of the "Statistics" tab of the "SASE Admin Center" panel show that there have only been 3 tale plans in the last 7 days (see #sshot)? Is this right? #if_not_plan #m_opus

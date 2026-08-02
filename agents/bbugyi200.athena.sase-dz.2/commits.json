@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1785668302,"sha":"a7ac9cc9af0e7e720d4303a7cef934c5e623f829","subject":"fix(bead): force color in prose rendering so --color always beats NO_COLOR"}],"schema_version":2,"source_run_id":"run-87f4a21b4164ad29082030f3c5520493"}

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:rp Also, can you help me set the default values for the `@claude_coder` and `@codex_coder` model aliases to `claude/sonnet` and `codex/gpt-5.5`, respectively? #plan

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me change the default value for the `@smartest` model alias to `claude/opus@max`? #plan
