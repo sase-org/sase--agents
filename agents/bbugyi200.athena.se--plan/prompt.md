@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Something caused the failure of the ~/.sase/plans/202608/priority_property.md epic plan's launch via the `sase bead work` command. See relevant sase logs for details. Can you help me diagnose the root cause of this issue, fix it, and then launch the epic by running the appropriate command? #plan #m_opus
