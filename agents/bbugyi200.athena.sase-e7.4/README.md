@@ -23,6 +23,6 @@
 |---|---|---|
 | [sase-e7.1](../bbugyi200.athena.sase-e7.1/README.md) | sase-e7 hood | active |
 | [sase-e7.2](../bbugyi200.athena.sase-e7.2/README.md) | sase-e7 hood | completed |
-| [sase-e7.3](../bbugyi200.athena.sase-e7.3/README.md) | sase-e7 hood | active |
+| [sase-e7.3](../bbugyi200.athena.sase-e7.3/README.md) | sase-e7 hood | completed |
 | [sase-e7.5](../bbugyi200.athena.sase-e7.5/README.md) | sase-e7 hood | waiting |
 | [sase-e7.land](../bbugyi200.athena.sase-e7.land/README.md) | sase-e7 hood | waiting |

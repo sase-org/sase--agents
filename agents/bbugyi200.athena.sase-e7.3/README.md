@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-e7](../../users/bbugyi200/machines/athena/hoods/sase-e7/README.md) / sase-e7.3
 
-**Global name:** `bbugyi200.athena.sase-e7.3` · **State:** active · **Source run:** `run-5a595b3b5a5358e108a9da2c772dea86`
+**Global name:** `bbugyi200.athena.sase-e7.3` · **State:** completed · **Source run:** `run-5a595b3b5a5358e108a9da2c772dea86`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-e7
 
@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-08-02T13:31:08.523468+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`7ba7ce6`](https://github.com/sase-org/sase/commit/7ba7ce664afec6308a65b998c47e6e72c444c8e2) | fix(prompts): make archive migration durable | 2026-08-02 14:24:00 |
 
 ## Neighbors
 
