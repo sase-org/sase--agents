@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6891b8acc234778fd18a36d287d3a836"}
+{"commits":[{"committed_at":1785692030,"sha":"d26d6635febfe1ace3a6d60d07cfe8ba76f5c4d7","subject":"feat(xprompt): add rich show renderer"}],"schema_version":2,"source_run_id":"run-6891b8acc234778fd18a36d287d3a836"}

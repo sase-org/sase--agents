@@ -1223,9 +1223,9 @@
 | [sase-e4](hoods/sase-e4/README.md) | 8 | 1 | active 4, waiting 4 |
 | [sase-e6](hoods/sase-e6/README.md) | 7 | 0 | active 1, completed 5, waiting 1 |
 | [sase-e7](hoods/sase-e7/README.md) | 7 | 1 | active 1, completed 5, failed 1 |
-| [sase-e8](hoods/sase-e8/README.md) | 7 | 0 | active 1, completed 5, waiting 1 |
+| [sase-e8](hoods/sase-e8/README.md) | 7 | 0 | active 1, completed 6 |
 | [sase-e9](hoods/sase-e9/README.md) | 4 | 0 | active 1, completed 2, waiting 1 |
-| [sase-eb](hoods/sase-eb/README.md) | 5 | 0 | active 1, completed 1, waiting 3 |
+| [sase-eb](hoods/sase-eb/README.md) | 5 | 0 | active 1, completed 3, waiting 1 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-0q](hoods/sase_fix_just-0q/README.md) | 1 | 0 | active 1 |
