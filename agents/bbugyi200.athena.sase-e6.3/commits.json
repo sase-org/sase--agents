@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c92291f3ee9ade13e61ba778a1f0b772"}
+{"commits":[{"committed_at":1785683835,"sha":"e30935808ba50079c927c2c54130c4b155b9d0e1","subject":"feat(xprompt): resolve hosted URLs for captured definition provenance"}],"schema_version":2,"source_run_id":"run-c92291f3ee9ade13e61ba778a1f0b772"}

@@ -1,0 +1,12 @@
+# Hood: sase-e9
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-e9
+
+**Global hood:** `bbugyi200.athena.sase-e9` · **Runs:** 4 · **Families:** 0 · **States:** active 1, completed 1, waiting 2
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [sase-e9.2](../../../../../../agents/bbugyi200.athena.sase-e9.2/README.md) | completed | gpt-5.6-sol / codex | 2026-08-02T14:19:25.394176+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-e9.2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-e9.2/prompt.md) |
+| [sase-e9.3](../../../../../../agents/bbugyi200.athena.sase-e9.3/README.md) | waiting | sonnet / claude | 20260802101748 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-e9.3/prompt.md) |
+| [sase-e9.1](../../../../../../agents/bbugyi200.athena.sase-e9.1/README.md) | active | sonnet / claude | 2026-08-02T14:19:20.748965+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-e9.1/prompt.md) |
+| [sase-e9.land](../../../../../../agents/bbugyi200.athena.sase-e9.land/README.md) | waiting | gpt-5.6-sol / codex | 20260802101749 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-e9.land/prompt.md) |
