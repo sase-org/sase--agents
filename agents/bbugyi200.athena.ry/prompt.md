@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add improve the `@commit:` artifact reference by giving it excellent argument completion in the prompt input widget and in external editors (via LSP support)? #beau #plan #m_opus
