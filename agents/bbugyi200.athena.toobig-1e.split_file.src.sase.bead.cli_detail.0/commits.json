@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-9820a817b5cf3baf3bef9f15589ef7f0"}
+{"commits":[{"committed_at":1785672388,"sha":"e1595ff18a140bb423d68089744dad43ee35d95e","subject":"refactor(bead): split detail CLI responsibilities"}],"schema_version":2,"source_run_id":"run-9820a817b5cf3baf3bef9f15589ef7f0"}

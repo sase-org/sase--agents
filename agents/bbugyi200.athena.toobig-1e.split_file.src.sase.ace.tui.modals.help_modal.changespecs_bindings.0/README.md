@@ -28,4 +28,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-1e.split\_file.src.sase.agents\_sync.prompt\_archive.publish.0](../bbugyi200.athena.toobig-1e.split_file.src.sase.agents_sync.prompt_archive.publish.0/README.md) | toobig-1e.split\_file.src.sase hood | completed |
-| [toobig-1e.split\_file.src.sase.bead.cli\_detail.0](../bbugyi200.athena.toobig-1e.split_file.src.sase.bead.cli_detail.0/README.md) | toobig-1e.split\_file.src.sase hood | waiting |
+| [toobig-1e.split\_file.src.sase.bead.cli\_detail.0](../bbugyi200.athena.toobig-1e.split_file.src.sase.bead.cli_detail.0/README.md) | toobig-1e.split\_file.src.sase hood | active |

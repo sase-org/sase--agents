@@ -960,7 +960,7 @@
 | [rc](hoods/rc/README.md) | 3 | 1 | active 2, completed 1 |
 | [rd](hoods/rd/README.md) | 1 | 0 | completed 1 |
 | [refresh\_docs](hoods/refresh_docs/README.md) | 64 | 0 | active 14, completed 48, waiting 2 |
-| [research](hoods/research/README.md) | 305 | 6 | active 120, completed 163, dismissed 13, failed 1, waiting 8 |
+| [research](hoods/research/README.md) | 305 | 6 | active 119, completed 165, dismissed 13, failed 1, waiting 7 |
 | [research\_swarm](hoods/research_swarm/README.md) | 45 | 0 | completed 45 |
 | [rg](hoods/rg/README.md) | 2 | 1 | active 2 |
 | [ri](hoods/ri/README.md) | 2 | 1 | active 2 |
@@ -1260,7 +1260,7 @@
 | [toobig-1b](hoods/toobig-1b/README.md) | 1 | 0 | active 1 |
 | [toobig-1c](hoods/toobig-1c/README.md) | 4 | 0 | active 1, completed 3 |
 | [toobig-1d](hoods/toobig-1d/README.md) | 9 | 0 | dismissed 9 |
-| [toobig-1e](hoods/toobig-1e/README.md) | 3 | 0 | completed 2, waiting 1 |
+| [toobig-1e](hoods/toobig-1e/README.md) | 3 | 0 | active 1, completed 2 |
 | [toobig-3](hoods/toobig-3/README.md) | 13 | 0 | active 4, waiting 9 |
 | [toobig-4](hoods/toobig-4/README.md) | 14 | 0 | active 6, waiting 8 |
 | [toobig-5](hoods/toobig-5/README.md) | 13 | 0 | active 13 |
