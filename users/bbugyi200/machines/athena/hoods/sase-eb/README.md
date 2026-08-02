@@ -8,6 +8,6 @@
 |---|---|---|---|---:|---|
 | [sase-eb.4](../../../../../../agents/bbugyi200.athena.sase-eb.4/README.md) | waiting | sonnet / claude | 20260802115145 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-eb.4/prompt.md) |
 | [sase-eb.3](../../../../../../agents/bbugyi200.athena.sase-eb.3/README.md) | waiting | gpt-5.6-sol / codex | 20260802115144 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-eb.3/prompt.md) |
-| [sase-eb.2](../../../../../../agents/bbugyi200.athena.sase-eb.2/README.md) | completed | gpt-5.6-sol / codex | 2026-08-02T15:55:16.450456+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-eb.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-eb.2/chat.md) |
+| [sase-eb.2](../../../../../../agents/bbugyi200.athena.sase-eb.2/README.md) | completed | gpt-5.6-sol / codex | 2026-08-02T15:55:16.450456+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-eb.2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-eb.2/prompt.md) |
 | [sase-eb.land](../../../../../../agents/bbugyi200.athena.sase-eb.land/README.md) | waiting | gpt-5.6-sol / codex | 20260802115146 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-eb.land/prompt.md) |
 | [sase-eb.1](../../../../../../agents/bbugyi200.athena.sase-eb.1/README.md) | active | gpt-5.6-sol / codex | 2026-08-02T15:52:05.046412+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-eb.1/prompt.md) |

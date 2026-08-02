@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ba55859c7597749dc19ae7d3109388f7"}
+{"commits":[{"committed_at":1785691448,"sha":"f55b79787d72807b407c20246c55e3aae20329bd","subject":"test: stabilize visual snapshots under contention"}],"schema_version":2,"source_run_id":"run-ba55859c7597749dc19ae7d3109388f7"}
