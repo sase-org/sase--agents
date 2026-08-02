@@ -18,4 +18,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [rp](../../families/bbugyi200.athena.rp.md) (family · 2) | ancestor | completed 2 |
-| [rp.f2](../../families/bbugyi200.athena.rp.f2.md) (family · 2) | rp hood | active 2 |
+| [rp.f2](../../families/bbugyi200.athena.rp.f2.md) (family · 2) | rp hood | completed 2 |

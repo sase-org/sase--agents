@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-914c813a3a2b111604030e65a41913bd"}
+{"commits":[{"committed_at":1785673010,"sha":"e4c13b3e837b8d8464013cf52194a596a1c4ac9b","subject":"feat(llm): add provider-specific coder defaults"}],"schema_version":2,"source_run_id":"run-914c813a3a2b111604030e65a41913bd"}
