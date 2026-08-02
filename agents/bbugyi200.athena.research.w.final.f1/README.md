@@ -24,9 +24,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.w.final](../bbugyi200.athena.research.w.final/README.md) | ancestor | active |
-| [research.w.cdx](../bbugyi200.athena.research.w.cdx/README.md) | research.w hood | completed |
-| [research.w.cld](../bbugyi200.athena.research.w.cld/README.md) | research.w hood | completed |
+| [research.w.final](../bbugyi200.athena.research.w.final/README.md) | ancestor | dismissed |
+| [research.w.cdx](../bbugyi200.athena.research.w.cdx/README.md) | research.w hood | dismissed |
+| [research.w.cld](../bbugyi200.athena.research.w.cld/README.md) | research.w hood | dismissed |
 | [research.w.image](../bbugyi200.athena.research.w.image/README.md) | research.w hood | dismissed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | active |
@@ -78,4 +78,4 @@
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.athena.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.athena.research.0e.final.f1/README.md) | research hood | completed |
-| … and 243 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 246 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

@@ -78,4 +78,4 @@
 | [research.0i.cld](../bbugyi200.athena.research.0i.cld/README.md) | research hood | completed |
 | [research.0i.final](../bbugyi200.athena.research.0i.final/README.md) | research hood | completed |
 | [research.0i.image](../bbugyi200.athena.research.0i.image/README.md) | research hood | completed |
-| … and 243 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 246 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

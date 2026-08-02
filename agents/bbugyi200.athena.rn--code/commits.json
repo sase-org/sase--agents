@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4a61a922f128522f734bf742ce384c9a"}
+{"commits":[{"committed_at":1785670272,"sha":"6800c3d3eff788c7850d06e2619dd79d253c323c","subject":"feat(stats): report plan and question activity from gates"}],"schema_version":2,"source_run_id":"run-4a61a922f128522f734bf742ce384c9a"}
