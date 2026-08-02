@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase When I go to the "Tasks" tab of the "SASE Admin Center" panel and select an entry (see #sshot:2), then close the panel, then re-open the same tab by pressing `##`, the same entry should be selected, but that doesn't seem to be the case (see #sshot). Can you help me diagnose the root cause of this issue and fix it? #plan #m_opus

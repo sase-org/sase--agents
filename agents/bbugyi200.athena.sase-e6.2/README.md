@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-08-02T13:45:20.033270+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`cb90eaf`](https://github.com/sase-org/sase/commit/cb90eaf00a707a32fa7cea009e719df7cdd4cb43) | feat(xprompt): capture definition provenance at launch | 2026-08-02 14:33:02 |
 
 ## Neighbors
 
