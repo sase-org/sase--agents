@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8b54ed775c1c6b1c769296e7ee82288d"}
+{"commits":[{"committed_at":1785689719,"sha":"98f2af2fd7a012ca2a8f7093bb6ea3e8d31360d3","subject":"feat(xprompt): add show definition resolver"}],"schema_version":2,"source_run_id":"run-8b54ed775c1c6b1c769296e7ee82288d"}

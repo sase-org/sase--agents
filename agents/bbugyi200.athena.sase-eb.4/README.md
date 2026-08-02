@@ -11,11 +11,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-02T17:34:43.043128+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c8211ae`](https://github.com/sase-org/sase/commit/c8211ae5cf3e08f0c3d4402ee5b6bdfe6617a0e0) | feat(xprompt): add show CLI command | 2026-08-02 18:07:24 |
 
 ## Neighbors
 

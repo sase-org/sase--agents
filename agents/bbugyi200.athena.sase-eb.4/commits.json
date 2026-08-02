@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-08e5dedce7520d806d30fbefe266314a"}
+{"commits":[{"committed_at":1785694044,"sha":"c8211ae5cf3e08f0c3d4402ee5b6bdfe6617a0e0","subject":"feat(xprompt): add show CLI command"}],"schema_version":2,"source_run_id":"run-08e5dedce7520d806d30fbefe266314a"}
