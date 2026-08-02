@@ -1,0 +1,40 @@
+- **AGENTS:**
+  - [bbugyi200.athena.chop.refresh_docs.sase.0_753955.1](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.chop.refresh_docs.sase.0_753955.1/README.md)
+
+[#gh:sase-org/sase](https://github.com/sase-org/sase-github/blob/7dd02fcec77649b34cba23ae33f30793311869dd/src/sase_github/xprompts/gh.yml)
+%id(chop.refresh_docs.sase.0_753955.1, tribe=chop) %wait(runners=0) Refresh the documentation for sase.
+
+Review the current repository behavior and the changes since the last documentation refresh. Update user-facing
+documentation so it is accurate, complete, and clear to someone new to the project. You may only create, modify, or
+delete documentation files, such as Markdown or other docs-tree content, READMEs, and doc-adjacent assets. You MUST NOT
+create, modify, or delete source code, tests, build configuration, or any other non-documentation file, even to fix a
+bug you are confident about.
+
+When documentation and code disagree, document the actual current behavior; never change the code to match the prose. If
+you identify a suspected code bug, describe it in your final response so a human or separately scoped agent can pick it
+up (and you may also note it in the commit message body), but do not fix it. Run the repository's documentation checks
+when you change files.
+
+<!-- sase:section:rendered -->
+
+<details>
+<summary><b>Agent Prompt</b> — rendered, 916 B</summary>
+
+```markdown
+Refresh the documentation for sase.
+
+Review the current repository behavior and the changes since the last documentation refresh. Update user-facing
+documentation so it is accurate, complete, and clear to someone new to the project. You may only create, modify, or
+delete documentation files, such as Markdown or other docs-tree content, READMEs, and doc-adjacent assets. You MUST NOT
+create, modify, or delete source code, tests, build configuration, or any other non-documentation file, even to fix a
+bug you are confident about.
+
+When documentation and code disagree, document the actual current behavior; never change the code to match the prose. If
+you identify a suspected code bug, describe it in your final response so a human or separately scoped agent can pick it
+up (and you may also note it in the commit message body), but do not fix it. Run the repository's documentation checks
+when you change files.
+```
+
+</details>
+
+<!-- /sase:section:rendered -->
