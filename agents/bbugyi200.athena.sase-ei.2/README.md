@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ei](../../users/bbugyi200/machines/athena/hoods/sase-ei/README.md) / sase-ei.2
 
-**Global name:** `bbugyi200.athena.sase-ei.2` · **State:** active · **Source run:** `run-67c560844b512904e16541df114d346e`
+**Global name:** `bbugyi200.athena.sase-ei.2` · **State:** completed · **Source run:** `run-67c560844b512904e16541df114d346e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ei
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 

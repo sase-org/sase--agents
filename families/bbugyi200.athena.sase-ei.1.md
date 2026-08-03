@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ei.2](../agents/bbugyi200.athena.sase-ei.2/README.md) | sase-ei hood | active |
+| [sase-ei.2](../agents/bbugyi200.athena.sase-ei.2/README.md) | sase-ei hood | completed |
 | [sase-ei.3](bbugyi200.athena.sase-ei.3.md) (family · 2) | sase-ei hood | active 2 |
 | [sase-ei.4](../agents/bbugyi200.athena.sase-ei.4/README.md) | sase-ei hood | waiting |
 | [sase-ei.5](../agents/bbugyi200.athena.sase-ei.5/README.md) | sase-ei hood | waiting |

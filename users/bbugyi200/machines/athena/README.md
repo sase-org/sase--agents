@@ -1229,7 +1229,7 @@
 | [sase-e9](hoods/sase-e9/README.md) | 4 | 0 | active 1, completed 3 |
 | [sase-eb](hoods/sase-eb/README.md) | 5 | 0 | active 1, completed 3, waiting 1 |
 | [sase-eh](hoods/sase-eh/README.md) | 1 | 0 | dismissed 1 |
-| [sase-ei](hoods/sase-ei/README.md) | 8 | 2 | active 3, completed 2, waiting 3 |
+| [sase-ei](hoods/sase-ei/README.md) | 8 | 2 | active 2, completed 3, waiting 3 |
 | [sase-ej](hoods/sase-ej/README.md) | 9 | 0 | active 1, completed 4, dismissed 1, waiting 3 |
 | [sase-ek](hoods/sase-ek/README.md) | 5 | 1 | active 2, completed 3 |
 | [sase-el](hoods/sase-el/README.md) | 5 | 0 | active 1, completed 3, waiting 1 |
