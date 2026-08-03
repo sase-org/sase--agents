@@ -22,6 +22,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-f1.1](../bbugyi200.athena.sase-f1.1/README.md) | sase-f1 hood | completed |
-| [sase-f1.2](../bbugyi200.athena.sase-f1.2/README.md) | sase-f1 hood | active |
+| [sase-f1.2](../bbugyi200.athena.sase-f1.2/README.md) | sase-f1 hood | completed |
 | [sase-f1.3](../bbugyi200.athena.sase-f1.3/README.md) | sase-f1 hood | completed |
 | [sase-f1.4](../bbugyi200.athena.sase-f1.4/README.md) | sase-f1 hood | waiting |
