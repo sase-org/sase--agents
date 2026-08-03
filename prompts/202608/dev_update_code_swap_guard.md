@@ -8,20 +8,3 @@ Something caused the failure of the ~/.sase/plans/202608/priority_property.md ep
 it, and then launch the epic by running the appropriate command? Think this through thoroughly and create a plan using
 your `/sase_plan` skill. Choose and author the appropriate tier, validate and revalidate until it passes, then submit it
 with `sase plan propose` (as the skill instructs) before making any file changes.
-
-<!-- sase:section:rendered -->
-
-<details>
-<summary><b>Agent Prompt</b> — rendered, 548 B</summary>
-
-```markdown
-Something caused the failure of the ~/.sase/plans/202608/priority_property.md epic plan's launch via the
-`sase bead work` command. See relevant sase logs for details. Can you help me diagnose the root cause of this issue, fix
-it, and then launch the epic by running the appropriate command? Think this through thoroughly and create a plan using
-your `/sase_plan` skill. Choose and author the appropriate tier, validate and revalidate until it passes, then submit it
-with `sase plan propose` (as the skill instructs) before making any file changes.
-```
-
-</details>
-
-<!-- /sase:section:rendered -->
