@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me set the default value for the `@coder` model alias to `codex/gpt-5.5`? You should then be able to remove the default values for the `@claude_coder` and `@codex_coder` model aliases since these can now just use `@coder` as their default values. #plan
