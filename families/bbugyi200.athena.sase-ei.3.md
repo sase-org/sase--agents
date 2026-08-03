@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-ei` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["sase-ei.3--code [active]"]
-  n1["sase-ei.3--plan [active]"]
+  n0["sase-ei.3--code [completed]"]
+  n1["sase-ei.3--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-ei.3--code | active | gpt-5.5 / codex | 2026-08-03T12:06:27.592602+00:00 | [1](../agents/bbugyi200.athena.sase-ei.3--code/README.md#commits) | — | — |
-| <a id="member-plan"></a>plan | sase-ei.3--plan | active | gpt-5.6-sol / codex | 2026-08-03T12:01:34.193983+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ei.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ei.3--plan/chat.md) |
+| <a id="member-code"></a>code | sase-ei.3--code | completed | gpt-5.5 / codex | 2026-08-03T12:06:27.592602+00:00 | [1](../agents/bbugyi200.athena.sase-ei.3--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-ei.3--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-ei.3--plan | completed | gpt-5.6-sol / codex | 2026-08-03T12:01:34.193983+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ei.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ei.3--plan/chat.md) |
 
 ## Commits
 
@@ -32,6 +32,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-ei.1](bbugyi200.athena.sase-ei.1.md) (family · 2) | sase-ei hood | completed 2 |
 | [sase-ei.2](../agents/bbugyi200.athena.sase-ei.2/README.md) | sase-ei hood | completed |
-| [sase-ei.4](../agents/bbugyi200.athena.sase-ei.4/README.md) | sase-ei hood | waiting |
+| [sase-ei.4](bbugyi200.athena.sase-ei.4.md) (family · 2) | sase-ei hood | active 2 |
 | [sase-ei.5](../agents/bbugyi200.athena.sase-ei.5/README.md) | sase-ei hood | waiting |
 | [sase-ei.land](../agents/bbugyi200.athena.sase-ei.land/README.md) | sase-ei hood | waiting |
