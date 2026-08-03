@@ -1,0 +1,27 @@
+# Family: sf
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sf](../users/bbugyi200/machines/athena/hoods/sf/README.md) / sf
+
+Owner: `bbugyi200.athena` · Hood: `sf` · Members: 2
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["sf--plan [active]"]
+  n1["sf--code [active]"]
+  n0 --> n1
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-plan"></a>plan | sf--plan | active | opus / claude | 2026-08-03T08:10:00.074915+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sf--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sf--plan/chat.md) |
+| <a id="member-code"></a>code | sf--code | active | gpt-5.5 / codex | 2026-08-03T08:19:04.634056+00:00 | [1](../agents/bbugyi200.athena.sf--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`77ef395`](https://github.com/sase-org/sase/commit/77ef3953e5c67c8be6247c4de1e2e62c474243a3) | fix(beads): repair stale project-key prefixes before minting | 2026-08-03 08:38:00 |
