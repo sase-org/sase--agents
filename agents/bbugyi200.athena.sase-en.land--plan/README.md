@@ -1,8 +1,8 @@
-# Agent: sase-en.land
+# Agent: sase-en.land--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-en](../../users/bbugyi200/machines/athena/hoods/sase-en/README.md) / sase-en.land
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-en](../../users/bbugyi200/machines/athena/hoods/sase-en/README.md) / [sase-en.land](../../families/bbugyi200.athena.sase-en.land.md) / sase-en.land--plan
 
-**Global name:** `bbugyi200.athena.sase-en.land` · **State:** waiting · **Source run:** `run-6c75a2697b7a42e618da17999c087d78`
+**Global name:** `bbugyi200.athena.sase-en.land--plan` · **State:** active · **Source run:** `run-6c75a2697b7a42e618da17999c087d78`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-en
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260803084656
+- Timing: 2026-08-03T14:32:54.667322+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
