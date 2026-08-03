@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me revert all of the work associated with the sase-ei epic bead? The bob-cli sase project is the only project that was affected by this. Just fix that repo and its bead names / agent names manually. #plan #m_opus
