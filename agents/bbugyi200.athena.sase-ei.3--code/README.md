@@ -11,7 +11,13 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-03T12:06:27.592602+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b4db947`](https://github.com/sase-org/sase/commit/b4db947d2c746c1c4aebc68f3d3ecee95ae44a9f) | feat(agent-names): migrate historical agent identities | 2026-08-03 13:29:25 |
 
 ## Neighbors
 
