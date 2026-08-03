@@ -11,7 +11,7 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-03T18:45:58.573695+00:00
-- Commits: [3](#commits)
+- Commits: [4](#commits)
 
 ## Files
 
@@ -24,6 +24,7 @@
 | sase | [`f2cd75b`](https://github.com/sase-org/sase/commit/f2cd75bc55a1c6c786961572f4703605ae6d91a5) | revert(agent-names): remove historical identity migration | 2026-08-03 14:52:59 EDT |
 | sase | [`850cb91`](https://github.com/sase-org/sase/commit/850cb910ee9f944e6c5871187581758cdba9c9d3) | revert(beads): remove historical reference rewriting | 2026-08-03 14:54:41 EDT |
 | sase | [`e433d38`](https://github.com/sase-org/sase/commit/e433d388575fa71423dd6c15b3264e8a9572636b) | revert(beads): remove prefix migration facade | 2026-08-03 14:56:34 EDT |
+| sase | [`234e817`](https://github.com/sase-org/sase/commit/234e8175cd28e7a3f040510f0c68a0f5fba1494b) | fix(lint): remove stale symvision state | 2026-08-03 15:03:28 EDT |
 
 ## Neighbors
 
