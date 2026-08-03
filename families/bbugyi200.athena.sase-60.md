@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`1e3ab66`](https://github.com/sase-org/sase/commit/1e3ab66b5a04aa87350801f993fc98c6fe422eed) | fix: preserve sidecar identity during repository cutover | 2026-07-14 17:18:11 |
-| root | sase | [`1e3ab66`](https://github.com/sase-org/sase/commit/1e3ab66b5a04aa87350801f993fc98c6fe422eed) | fix: preserve sidecar identity during repository cutover | 2026-07-14 17:18:11 |
+| code | sase | [`1e3ab66`](https://github.com/sase-org/sase/commit/1e3ab66b5a04aa87350801f993fc98c6fe422eed) | fix: preserve sidecar identity during repository cutover | 2026-07-14 13:18:11 EDT |
+| root | sase | [`1e3ab66`](https://github.com/sase-org/sase/commit/1e3ab66b5a04aa87350801f993fc98c6fe422eed) | fix: preserve sidecar identity during repository cutover | 2026-07-14 13:18:11 EDT |
 
 ## Neighbors
 

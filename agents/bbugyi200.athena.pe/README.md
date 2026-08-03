@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e0b1ca4`](https://github.com/sase-org/sase/commit/e0b1ca4450b89a02b8f2bae3b019eddc649e1976) | feat(artifacts)!: copy created artifacts by default | 2026-07-30 15:37:08 |
+| sase | [`e0b1ca4`](https://github.com/sase-org/sase/commit/e0b1ca4450b89a02b8f2bae3b019eddc649e1976) | feat(artifacts)!: copy created artifacts by default | 2026-07-30 11:37:08 EDT |

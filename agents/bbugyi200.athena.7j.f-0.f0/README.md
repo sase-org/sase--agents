@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8b804aa`](https://github.com/sase-org/sase/commit/8b804aa544b9ab63461645b32b4c04fd13183150) | test: distinguish workflow wrappers from leaf agents | 2026-07-13 13:09:21 |
+| sase | [`8b804aa`](https://github.com/sase-org/sase/commit/8b804aa544b9ab63461645b32b4c04fd13183150) | test: distinguish workflow wrappers from leaf agents | 2026-07-13 09:09:21 EDT |
 
 ## Neighbors
 

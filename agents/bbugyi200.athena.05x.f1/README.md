@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`851923b`](https://github.com/sase-org/sase/commit/851923b6fe2bed20f4a60ee9008b0f5662b0b506) | chore: Add SDD prompt and plan for hide\_workflows\_from\_save\_target | 2026-06-25 13:41:09 |
-| sase | [`63e8cbf`](https://github.com/sase-org/sase/commit/63e8cbf6692c7786eeffa735f8696043c7cc6afb) | fix(tui): hide workflows from xprompt save targets | 2026-06-25 13:46:26 |
+| sase | [`851923b`](https://github.com/sase-org/sase/commit/851923b6fe2bed20f4a60ee9008b0f5662b0b506) | chore: Add SDD prompt and plan for hide\_workflows\_from\_save\_target | 2026-06-25 09:41:09 EDT |
+| sase | [`63e8cbf`](https://github.com/sase-org/sase/commit/63e8cbf6692c7786eeffa735f8696043c7cc6afb) | fix(tui): hide workflows from xprompt save targets | 2026-06-25 09:46:26 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0a29b11`](https://github.com/sase-org/sase/commit/0a29b11bbd62b45dcd5ad12ba19a8e2484da32d3) | chore: add episode v2 architecture research | 2026-05-28 22:05:06 |
+| sase | [`0a29b11`](https://github.com/sase-org/sase/commit/0a29b11bbd62b45dcd5ad12ba19a8e2484da32d3) | chore: add episode v2 architecture research | 2026-05-28 18:05:06 EDT |
 
 ## Neighbors
 

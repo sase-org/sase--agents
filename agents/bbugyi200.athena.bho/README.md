@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b9c95b6`](https://github.com/sase-org/sase/commit/b9c95b62af9f673ddc163e676429938838d43424) | chore: Add SDD prompt and plan for structured\_episodic\_memory\_mvp | 2026-05-26 22:32:38 |
-| sase | [`8b9cad5`](https://github.com/sase-org/sase/commit/8b9cad5a9c7b8460cc962c95164a29e4b53cece3) | chore: create structured episodic memory MVP beads | 2026-05-26 22:41:13 |
+| sase | [`b9c95b6`](https://github.com/sase-org/sase/commit/b9c95b62af9f673ddc163e676429938838d43424) | chore: Add SDD prompt and plan for structured\_episodic\_memory\_mvp | 2026-05-26 18:32:38 EDT |
+| sase | [`8b9cad5`](https://github.com/sase-org/sase/commit/8b9cad5a9c7b8460cc962c95164a29e4b53cece3) | chore: create structured episodic memory MVP beads | 2026-05-26 18:41:13 EDT |

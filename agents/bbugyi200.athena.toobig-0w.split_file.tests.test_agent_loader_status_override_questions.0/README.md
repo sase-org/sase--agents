@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c9b5df0`](https://github.com/sase-org/sase/commit/c9b5df05fe111465c918500b321fdbd8cccbdc03) | test: split agent loader question override tests | 2026-07-29 11:28:20 |
+| sase | [`c9b5df0`](https://github.com/sase-org/sase/commit/c9b5df05fe111465c918500b321fdbd8cccbdc03) | test: split agent loader question override tests | 2026-07-29 07:28:20 EDT |

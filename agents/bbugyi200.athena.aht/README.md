@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`48f59b0`](https://github.com/sase-org/sase/commit/48f59b0a6fa13271e4b66d16874a9d8520237489) | chore: add memory read agent research | 2026-05-26 21:24:08 |
+| sase | [`48f59b0`](https://github.com/sase-org/sase/commit/48f59b0a6fa13271e4b66d16874a9d8520237489) | chore: add memory read agent research | 2026-05-26 17:24:08 EDT |
 
 ## Neighbors
 

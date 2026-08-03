@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`441882d`](https://github.com/sase-org/sase/commit/441882db9949c7f057bd7e68a2be0aaeffc986bd) | feat(beads): route approved epic launch through the task runner (sase-95.7) | 2026-07-25 15:27:04 |
+| sase | [`441882d`](https://github.com/sase-org/sase/commit/441882db9949c7f057bd7e68a2be0aaeffc986bd) | feat(beads): route approved epic launch through the task runner (sase-95.7) | 2026-07-25 11:27:04 EDT |
 
 ## Neighbors
 

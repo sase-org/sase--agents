@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e7e4121`](https://github.com/sase-org/sase/commit/e7e41216496356c24fa1268ca4fd4e4d67c02216) | fix(ace): mark handed-off root questions answered | 2026-07-29 10:56:48 |
+| sase | [`e7e4121`](https://github.com/sase-org/sase/commit/e7e41216496356c24fa1268ca4fd4e4d67c02216) | fix(ace): mark handed-off root questions answered | 2026-07-29 06:56:48 EDT |

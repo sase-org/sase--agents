@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e9ae2db`](https://github.com/sase-org/sase/commit/e9ae2dbacd07a438f11fcb6980c32e2bf1efd311) | test: stabilize slow-tool fold visual snapshot | 2026-07-31 15:48:41 |
+| sase | [`e9ae2db`](https://github.com/sase-org/sase/commit/e9ae2dbacd07a438f11fcb6980c32e2bf1efd311) | test: stabilize slow-tool fold visual snapshot | 2026-07-31 11:48:41 EDT |

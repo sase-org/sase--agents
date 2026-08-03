@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7ee8e4e`](https://github.com/sase-org/sase/commit/7ee8e4e31fd7468528a5ce2a10a1069506ae8719) | feat: plan indexed names across multi-prompt launches (sase-46.3) | 2026-05-27 15:56:57 |
+| sase | [`7ee8e4e`](https://github.com/sase-org/sase/commit/7ee8e4e31fd7468528a5ce2a10a1069506ae8719) | feat: plan indexed names across multi-prompt launches (sase-46.3) | 2026-05-27 11:56:57 EDT |
 
 ## Neighbors
 

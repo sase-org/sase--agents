@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`69d7142`](https://github.com/sase-org/sase/commit/69d7142b45cecdf43ded7aef7e976df2d816d900) | feat: link plan tags in commit footers | 2026-07-16 17:57:43 |
-| root | sase | [`69d7142`](https://github.com/sase-org/sase/commit/69d7142b45cecdf43ded7aef7e976df2d816d900) | feat: link plan tags in commit footers | 2026-07-16 17:57:43 |
+| code | sase | [`69d7142`](https://github.com/sase-org/sase/commit/69d7142b45cecdf43ded7aef7e976df2d816d900) | feat: link plan tags in commit footers | 2026-07-16 13:57:43 EDT |
+| root | sase | [`69d7142`](https://github.com/sase-org/sase/commit/69d7142b45cecdf43ded7aef7e976df2d816d900) | feat: link plan tags in commit footers | 2026-07-16 13:57:43 EDT |

@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`abf5cdc`](https://github.com/sase-org/sase/commit/abf5cdcd51a2d3d40f2f446d4019bedb336aafbc) | feat(ace): add fast navigation to artifact lists | 2026-07-17 13:24:43 |
-| root | sase | [`abf5cdc`](https://github.com/sase-org/sase/commit/abf5cdcd51a2d3d40f2f446d4019bedb336aafbc) | feat(ace): add fast navigation to artifact lists | 2026-07-17 13:24:43 |
+| code | sase | [`abf5cdc`](https://github.com/sase-org/sase/commit/abf5cdcd51a2d3d40f2f446d4019bedb336aafbc) | feat(ace): add fast navigation to artifact lists | 2026-07-17 09:24:43 EDT |
+| root | sase | [`abf5cdc`](https://github.com/sase-org/sase/commit/abf5cdcd51a2d3d40f2f446d4019bedb336aafbc) | feat(ace): add fast navigation to artifact lists | 2026-07-17 09:24:43 EDT |
 
 ## Neighbors
 

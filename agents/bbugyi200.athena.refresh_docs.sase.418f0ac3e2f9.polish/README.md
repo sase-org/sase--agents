@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aab17a8`](https://github.com/sase-org/sase/commit/aab17a8eba102b1197e920973db8566e2606eac5) | chore: clarify project deletion docs | 2026-06-02 11:39:56 |
+| sase | [`aab17a8`](https://github.com/sase-org/sase/commit/aab17a8eba102b1197e920973db8566e2606eac5) | chore: clarify project deletion docs | 2026-06-02 07:39:56 EDT |
 
 ## Neighbors
 

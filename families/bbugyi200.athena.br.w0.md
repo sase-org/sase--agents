@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`d98b284`](https://github.com/sase-org/sase/commit/d98b2846247b9d5edcba07e779feaaddfc5991f7) | fix(tui): allow repeat agent across artifact subtabs | 2026-07-17 13:41:29 |
-| root | sase | [`d98b284`](https://github.com/sase-org/sase/commit/d98b2846247b9d5edcba07e779feaaddfc5991f7) | fix(tui): allow repeat agent across artifact subtabs | 2026-07-17 13:41:29 |
+| code | sase | [`d98b284`](https://github.com/sase-org/sase/commit/d98b2846247b9d5edcba07e779feaaddfc5991f7) | fix(tui): allow repeat agent across artifact subtabs | 2026-07-17 09:41:29 EDT |
+| root | sase | [`d98b284`](https://github.com/sase-org/sase/commit/d98b2846247b9d5edcba07e779feaaddfc5991f7) | fix(tui): allow repeat agent across artifact subtabs | 2026-07-17 09:41:29 EDT |
 
 ## Neighbors
 

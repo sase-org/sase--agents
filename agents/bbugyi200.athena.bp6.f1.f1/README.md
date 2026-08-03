@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e182031`](https://github.com/sase-org/sase/commit/e1820314af30c992b26295c0bdc8600f6b323c66) | chore: Add SDD prompt and plan for remove\_amd\_marker\_comments | 2026-05-31 15:30:53 |
-| sase | [`2ede642`](https://github.com/sase-org/sase/commit/2ede642f2911a015217015da6c5935feb850c7cf) | feat: remove AMD marker comments | 2026-05-31 15:42:32 |
+| sase | [`e182031`](https://github.com/sase-org/sase/commit/e1820314af30c992b26295c0bdc8600f6b323c66) | chore: Add SDD prompt and plan for remove\_amd\_marker\_comments | 2026-05-31 11:30:53 EDT |
+| sase | [`2ede642`](https://github.com/sase-org/sase/commit/2ede642f2911a015217015da6c5935feb850c7cf) | feat: remove AMD marker comments | 2026-05-31 11:42:32 EDT |
 
 ## Neighbors
 

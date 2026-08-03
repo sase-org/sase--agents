@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0922878`](https://github.com/sase-org/sase/commit/09228787b2f7fea2a8865568322d0c23d6e9e454) | ref: split multi prompt launcher planning tests | 2026-06-09 16:38:14 |
+| sase | [`0922878`](https://github.com/sase-org/sase/commit/09228787b2f7fea2a8865568322d0c23d6e9e454) | ref: split multi prompt launcher planning tests | 2026-06-09 12:38:14 EDT |
 
 ## Neighbors
 

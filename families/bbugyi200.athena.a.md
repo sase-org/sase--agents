@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`228fc78`](https://github.com/sase-org/sase/commit/228fc78aff339555268d16fee134d208f0991769) | fix(tui): humanize project refs in prompt displays | 2026-07-06 17:31:55 |
+| root | sase | [`228fc78`](https://github.com/sase-org/sase/commit/228fc78aff339555268d16fee134d208f0991769) | fix(tui): humanize project refs in prompt displays | 2026-07-06 13:31:55 EDT |
 
 ## Neighbors
 

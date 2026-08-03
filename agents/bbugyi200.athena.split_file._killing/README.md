@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0123b2e`](https://github.com/sase-org/sase/commit/0123b2e2f234a9b2b93f91aa1ed83892258d0639) | ref: split TUI agent killing actions | 2026-06-10 01:34:35 |
+| sase | [`0123b2e`](https://github.com/sase-org/sase/commit/0123b2e2f234a9b2b93f91aa1ed83892258d0639) | ref: split TUI agent killing actions | 2026-06-09 21:34:35 EDT |
 
 ## Neighbors
 

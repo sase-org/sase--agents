@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`b9d0e53`](https://github.com/sase-org/sase/commit/b9d0e53716252adfe9f46cc74bf5ce4eb67c85f1) | feat(ace): sort status groups by launch recency | 2026-07-18 18:32:13 |
+| code | sase | [`b9d0e53`](https://github.com/sase-org/sase/commit/b9d0e53716252adfe9f46cc74bf5ce4eb67c85f1) | feat(ace): sort status groups by launch recency | 2026-07-18 14:32:13 EDT |

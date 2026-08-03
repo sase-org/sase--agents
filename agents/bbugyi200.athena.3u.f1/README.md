@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`75bf587`](https://github.com/sase-org/sase/commit/75bf58786da1aa0b961ada9d5a3f749a2801117e) | chore: Add SDD prompt and plan for pyvendor\_strip\_executable\_prefix | 2026-06-08 15:11:48 |
-| sase | [`79e3a24`](https://github.com/sase-org/sase/commit/79e3a2476355bc690efa46306d0c3f212b5980af) | fix: strip executable prefix from vendored pyvision | 2026-06-08 15:29:31 |
+| sase | [`75bf587`](https://github.com/sase-org/sase/commit/75bf58786da1aa0b961ada9d5a3f749a2801117e) | chore: Add SDD prompt and plan for pyvendor\_strip\_executable\_prefix | 2026-06-08 11:11:48 EDT |
+| sase | [`79e3a24`](https://github.com/sase-org/sase/commit/79e3a2476355bc690efa46306d0c3f212b5980af) | fix: strip executable prefix from vendored pyvision | 2026-06-08 11:29:31 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dfd9f50`](https://github.com/sase-org/sase/commit/dfd9f50f07181b96940a33c1987084c42f402df9) | feat: queue family children behind running parents (sase-5f.4) | 2026-07-06 03:07:02 |
+| sase | [`dfd9f50`](https://github.com/sase-org/sase/commit/dfd9f50f07181b96940a33c1987084c42f402df9) | feat: queue family children behind running parents (sase-5f.4) | 2026-07-05 23:07:02 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3712813`](https://github.com/sase-org/sase/commit/371281378aecf38b1f59235a8821ad12fd680bfd) | feat: bind agent save to lowercase s | 2026-05-28 11:14:13 |
+| sase | [`3712813`](https://github.com/sase-org/sase/commit/371281378aecf38b1f59235a8821ad12fd680bfd) | feat: bind agent save to lowercase s | 2026-05-28 07:14:13 EDT |
 
 ## Neighbors
 

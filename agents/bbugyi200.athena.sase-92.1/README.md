@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d1353c6`](https://github.com/sase-org/sase/commit/d1353c635849625aaf25c20230bc55b762dc5aa4) | feat(core): add SHA and legacy ownership facades (sase-92.1) | 2026-07-25 12:02:00 |
+| sase | [`d1353c6`](https://github.com/sase-org/sase/commit/d1353c635849625aaf25c20230bc55b762dc5aa4) | feat(core): add SHA and legacy ownership facades (sase-92.1) | 2026-07-25 08:02:00 EDT |
 
 ## Neighbors
 

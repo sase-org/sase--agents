@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`99d8887`](https://github.com/sase-org/sase/commit/99d8887d3593e0abc5143ccd8195bc6cf4f5ade4) | ref: split cwd launch tests by scenario | 2026-06-03 00:27:29 |
+| sase | [`99d8887`](https://github.com/sase-org/sase/commit/99d8887d3593e0abc5143ccd8195bc6cf4f5ade4) | ref: split cwd launch tests by scenario | 2026-06-02 20:27:29 EDT |
 
 ## Neighbors
 

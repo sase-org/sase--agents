@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`86c8614`](https://github.com/sase-org/sase/commit/86c8614726acac65409a55ff39d7b43869294328) | feat(llm): add core Antigravity (agy) provider (MVP) (sase-50.2) | 2026-06-19 23:53:51 |
+| sase | [`86c8614`](https://github.com/sase-org/sase/commit/86c8614726acac65409a55ff39d7b43869294328) | feat(llm): add core Antigravity (agy) provider (MVP) (sase-50.2) | 2026-06-19 19:53:51 EDT |
 
 ## Neighbors
 

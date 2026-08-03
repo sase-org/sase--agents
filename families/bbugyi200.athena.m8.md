@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`39aa7cf`](https://github.com/sase-org/sase/commit/39aa7cf172a8b34d9c5300940193cef451945249) | docs(beads): refresh command skill accuracy | 2026-07-27 13:57:59 |
+| code | sase | [`39aa7cf`](https://github.com/sase-org/sase/commit/39aa7cf172a8b34d9c5300940193cef451945249) | docs(beads): refresh command skill accuracy | 2026-07-27 09:57:59 EDT |

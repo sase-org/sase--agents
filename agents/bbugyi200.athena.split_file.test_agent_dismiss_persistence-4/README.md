@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bc03804`](https://github.com/sase-org/sase/commit/bc03804d7f361ce2a9924499798fada51723e9e1) | test: split agent dismiss persistence tests | 2026-07-16 06:18:11 |
+| sase | [`bc03804`](https://github.com/sase-org/sase/commit/bc03804d7f361ce2a9924499798fada51723e9e1) | test: split agent dismiss persistence tests | 2026-07-16 02:18:11 EDT |
 
 ## Neighbors
 

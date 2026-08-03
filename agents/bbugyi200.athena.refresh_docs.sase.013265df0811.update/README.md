@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bedbb09`](https://github.com/sase-org/sase/commit/bedbb09456572378f83dea90a72b745ca553458f) | chore: refresh documentation for recent CLI changes | 2026-05-29 15:16:21 |
+| sase | [`bedbb09`](https://github.com/sase-org/sase/commit/bedbb09456572378f83dea90a72b745ca553458f) | chore: refresh documentation for recent CLI changes | 2026-05-29 11:16:21 EDT |
 
 ## Neighbors
 

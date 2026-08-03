@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`55eb243`](https://github.com/sase-org/sase/commit/55eb24331e77f758be540d45c9db4451cac84b5e) | feat(agent-clis): journal update runs | 2026-08-03 11:24:35 |
+| sase | [`55eb243`](https://github.com/sase-org/sase/commit/55eb24331e77f758be540d45c9db4451cac84b5e) | feat(agent-clis): journal update runs | 2026-08-03 07:24:35 EDT |
 
 ## Neighbors
 

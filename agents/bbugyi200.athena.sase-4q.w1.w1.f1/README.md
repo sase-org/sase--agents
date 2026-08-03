@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8a2aa5e`](https://github.com/sase-org/sase/commit/8a2aa5e3d36d400123ebb91978b1266a97af5dbb) | feat(tui): add prompt delete surround keymap | 2026-06-16 17:15:36 |
+| sase | [`8a2aa5e`](https://github.com/sase-org/sase/commit/8a2aa5e3d36d400123ebb91978b1266a97af5dbb) | feat(tui): add prompt delete surround keymap | 2026-06-16 13:15:36 EDT |
 
 ## Neighbors
 

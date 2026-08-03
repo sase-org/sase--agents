@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`26ead3f`](https://github.com/sase-org/sase/commit/26ead3f39ac89b6969b71ce1872edab834760aee) | fix(bead): resolve sidecar store from plain checkouts (sase-a0.1) | 2026-07-27 16:20:31 |
+| sase | [`26ead3f`](https://github.com/sase-org/sase/commit/26ead3f39ac89b6969b71ce1872edab834760aee) | fix(bead): resolve sidecar store from plain checkouts (sase-a0.1) | 2026-07-27 12:20:31 EDT |
 
 ## Neighbors
 

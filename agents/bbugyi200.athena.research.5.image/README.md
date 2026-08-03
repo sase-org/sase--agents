@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`60f1b5f`](https://github.com/sase-org/sase/commit/60f1b5fe8026434eaa75eadad6c617dc0804773a) | chore: add new-user onboarding infographic | 2026-06-09 22:21:05 |
+| sase | [`60f1b5f`](https://github.com/sase-org/sase/commit/60f1b5fe8026434eaa75eadad6c617dc0804773a) | chore: add new-user onboarding infographic | 2026-06-09 18:21:05 EDT |
 
 ## Neighbors
 

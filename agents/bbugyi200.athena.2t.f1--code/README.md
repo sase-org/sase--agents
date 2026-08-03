@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`affbc4d`](https://github.com/sase-org/sase/commit/affbc4d4e8e2526da54c75f0d6bbdba87b2953be) | fix(vcs-log): show primary project display name | 2026-07-08 20:08:25 |
+| sase | [`affbc4d`](https://github.com/sase-org/sase/commit/affbc4d4e8e2526da54c75f0d6bbdba87b2953be) | fix(vcs-log): show primary project display name | 2026-07-08 16:08:25 EDT |
 
 ## Neighbors
 

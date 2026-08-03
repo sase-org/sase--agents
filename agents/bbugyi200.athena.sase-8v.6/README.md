@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9aab8a7`](https://github.com/sase-org/sase/commit/9aab8a713d27977956c68eb80b4affa9ac41a00b) | feat!: publish linked agent hoods after commits (sase-8v.6) | 2026-07-24 18:56:52 |
+| sase | [`9aab8a7`](https://github.com/sase-org/sase/commit/9aab8a713d27977956c68eb80b4affa9ac41a00b) | feat!: publish linked agent hoods after commits (sase-8v.6) | 2026-07-24 14:56:52 EDT |
 
 ## Neighbors
 

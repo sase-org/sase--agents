@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`6b51a9c`](https://github.com/sase-org/sase/commit/6b51a9c86114be04752652eb1cc9faff1d6a4c20) | feat(agent)!: allocate derived names through templates | 2026-07-09 17:40:03 |
+| root | sase | [`6b51a9c`](https://github.com/sase-org/sase/commit/6b51a9c86114be04752652eb1cc9faff1d6a4c20) | feat(agent)!: allocate derived names through templates | 2026-07-09 13:40:03 EDT |
 
 ## Neighbors
 

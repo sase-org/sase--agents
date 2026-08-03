@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d8d7e81`](https://github.com/sase-org/sase/commit/d8d7e81d4abfa094e61a9c7ac482f650087fc813) | docs(research): analyze sase bead work command latency | 2026-06-23 16:02:58 |
+| sase | [`d8d7e81`](https://github.com/sase-org/sase/commit/d8d7e81d4abfa094e61a9c7ac482f650087fc813) | docs(research): analyze sase bead work command latency | 2026-06-23 12:02:58 EDT |
 
 ## Neighbors
 

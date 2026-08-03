@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`a575d65`](https://github.com/sase-org/sase/commit/a575d6539730da437fd65491b60eb6f598ad3e9c) | refactor(agents-sync): remove unused publication interfaces | 2026-07-28 19:09:13 |
+| code | sase | [`a575d65`](https://github.com/sase-org/sase/commit/a575d6539730da437fd65491b60eb6f598ad3e9c) | refactor(agents-sync): remove unused publication interfaces | 2026-07-28 15:09:13 EDT |

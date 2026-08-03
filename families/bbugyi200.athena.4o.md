@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`608ec52`](https://github.com/sase-org/sase/commit/608ec521b32420c7a132c8cebd71678158f2a321) | fix: keep dependency waiters pending after failures | 2026-07-10 19:48:01 |
+| root | sase | [`608ec52`](https://github.com/sase-org/sase/commit/608ec521b32420c7a132c8cebd71678158f2a321) | fix: keep dependency waiters pending after failures | 2026-07-10 15:48:01 EDT |

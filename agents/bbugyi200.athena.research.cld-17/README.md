@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b3570ac`](https://github.com/sase-org/sase/commit/b3570ac9e4bbb66e02daace03d03c3b6ad64684a) | chore: Add research on automated semver releases | 2026-06-08 15:18:57 |
+| sase | [`b3570ac`](https://github.com/sase-org/sase/commit/b3570ac9e4bbb66e02daace03d03c3b6ad64684a) | chore: Add research on automated semver releases | 2026-06-08 11:18:57 EDT |
 
 ## Neighbors
 

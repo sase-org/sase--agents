@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0860455`](https://github.com/sase-org/sase/commit/0860455be3064a69d75621928b8b56d86a570ccb) | chore: Add research on direct-to-master PyPI publishing | 2026-06-09 20:18:44 |
+| sase | [`0860455`](https://github.com/sase-org/sase/commit/0860455be3064a69d75621928b8b56d86a570ccb) | chore: Add research on direct-to-master PyPI publishing | 2026-06-09 16:18:44 EDT |
 
 ## Neighbors
 

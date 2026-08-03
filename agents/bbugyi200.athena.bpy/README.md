@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`21fca12`](https://github.com/sase-org/sase/commit/21fca12dc4f22944c044af230cf479f8a3a2aa38) | chore: Add SDD prompt and plan for fix\_running\_agents\_tests | 2026-05-31 12:47:59 |
-| sase | [`a52c430`](https://github.com/sase-org/sase/commit/a52c43018bb27913ec55347d87112b88b2cfd12b) | chore: mock proc cmdline in running agent tests | 2026-05-31 12:52:29 |
+| sase | [`21fca12`](https://github.com/sase-org/sase/commit/21fca12dc4f22944c044af230cf479f8a3a2aa38) | chore: Add SDD prompt and plan for fix\_running\_agents\_tests | 2026-05-31 08:47:59 EDT |
+| sase | [`a52c430`](https://github.com/sase-org/sase/commit/a52c43018bb27913ec55347d87112b88b2cfd12b) | chore: mock proc cmdline in running agent tests | 2026-05-31 08:52:29 EDT |

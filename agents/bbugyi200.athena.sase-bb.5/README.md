@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`87ece3e`](https://github.com/sase-org/sase/commit/87ece3ee34d613780923e2d9d9a2f0349ff12f0a) | feat(artifact): surface bead references and attach on create | 2026-07-30 17:27:18 |
+| sase | [`87ece3e`](https://github.com/sase-org/sase/commit/87ece3ee34d613780923e2d9d9a2f0349ff12f0a) | feat(artifact): surface bead references and attach on create | 2026-07-30 13:27:18 EDT |
 
 ## Neighbors
 

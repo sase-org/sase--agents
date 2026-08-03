@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`1064f1d`](https://github.com/sase-org/sase/commit/1064f1df38ce7c73354c8f42375e5d74cba98da8) | fix: finalize interrupted tool calls on agent teardown | 2026-07-11 13:14:45 |
+| root | sase | [`1064f1d`](https://github.com/sase-org/sase/commit/1064f1df38ce7c73354c8f42375e5d74cba98da8) | fix: finalize interrupted tool calls on agent teardown | 2026-07-11 09:14:45 EDT |

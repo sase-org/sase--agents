@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`881636a`](https://github.com/sase-org/sase/commit/881636a745de9f88d43cbfcec868f6a537e9f0a2) | feat(sdd): surface plan references and where they resolve (sase-9z.4) | 2026-07-27 16:03:49 |
+| sase | [`881636a`](https://github.com/sase-org/sase/commit/881636a745de9f88d43cbfcec868f6a537e9f0a2) | feat(sdd): surface plan references and where they resolve (sase-9z.4) | 2026-07-27 12:03:49 EDT |
 
 ## Neighbors
 

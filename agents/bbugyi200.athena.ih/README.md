@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a20e82d`](https://github.com/sase-org/sase/commit/a20e82dca2d2867920ad7534447c806845258fe5) | fix: restore epic clan summaries | 2026-07-22 16:41:35 |
+| sase | [`a20e82d`](https://github.com/sase-org/sase/commit/a20e82dca2d2867920ad7534447c806845258fe5) | fix: restore epic clan summaries | 2026-07-22 12:41:35 EDT |

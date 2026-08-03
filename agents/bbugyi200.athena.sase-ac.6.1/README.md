@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0db608e`](https://github.com/sase-org/sase/commit/0db608e985e2031bdb8a58322d8f29b0ce8484fb) | fix(xprompt): canonicalize project-local browser identities (sase-ac.6.1) | 2026-07-28 14:07:20 |
+| sase | [`0db608e`](https://github.com/sase-org/sase/commit/0db608e985e2031bdb8a58322d8f29b0ce8484fb) | fix(xprompt): canonicalize project-local browser identities (sase-ac.6.1) | 2026-07-28 10:07:20 EDT |
 
 ## Neighbors
 

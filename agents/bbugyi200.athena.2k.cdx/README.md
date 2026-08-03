@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d5a2907`](https://github.com/sase-org/sase/commit/d5a29071e2146ac9415f10116178e8dd430b2696) | chore: Add SDD prompt and plan for prompt\_ctrl\_l\_completion | 2026-06-05 14:37:41 |
-| sase | [`7982611`](https://github.com/sase-org/sase/commit/7982611464325ca814dc64a4b0760f4500169cbf) | fix: let ctrl-l build prompt soft completions | 2026-06-05 14:46:40 |
+| sase | [`d5a2907`](https://github.com/sase-org/sase/commit/d5a29071e2146ac9415f10116178e8dd430b2696) | chore: Add SDD prompt and plan for prompt\_ctrl\_l\_completion | 2026-06-05 10:37:41 EDT |
+| sase | [`7982611`](https://github.com/sase-org/sase/commit/7982611464325ca814dc64a4b0760f4500169cbf) | fix: let ctrl-l build prompt soft completions | 2026-06-05 10:46:40 EDT |
 
 ## Neighbors
 

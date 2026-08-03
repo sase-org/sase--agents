@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0009cfe`](https://github.com/sase-org/sase/commit/0009cfe1f0e7f12d6282887c1d01074c8c09faf0) | test: split init memory handler tests | 2026-07-22 19:55:57 |
+| sase | [`0009cfe`](https://github.com/sase-org/sase/commit/0009cfe1f0e7f12d6282887c1d01074c8c09faf0) | test: split init memory handler tests | 2026-07-22 15:55:57 EDT |
 
 ## Neighbors
 

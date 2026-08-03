@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a500f33`](https://github.com/sase-org/sase/commit/a500f334ed4cbdc81ae250db9ccfe5a737220d4a) | feat: add bob dataview generated skill source (sase-4b.2) | 2026-06-03 20:25:51 |
+| sase | [`a500f33`](https://github.com/sase-org/sase/commit/a500f334ed4cbdc81ae250db9ccfe5a737220d4a) | feat: add bob dataview generated skill source (sase-4b.2) | 2026-06-03 16:25:51 EDT |
 
 ## Neighbors
 

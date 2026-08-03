@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6341b53`](https://github.com/sase-org/sase/commit/6341b535d57b314d8f05efa5f5b62f2e6a2926e2) | test: split agent loader status override question tests | 2026-06-23 16:42:31 |
+| sase | [`6341b53`](https://github.com/sase-org/sase/commit/6341b535d57b314d8f05efa5f5b62f2e6a2926e2) | test: split agent loader status override question tests | 2026-06-23 12:42:31 EDT |
 
 ## Neighbors
 

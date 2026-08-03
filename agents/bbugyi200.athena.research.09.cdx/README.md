@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ce2103b`](https://github.com/sase-org/sase/commit/ce2103b375f177c92f2244d570d8068db7dca919) | docs: research bead work latency | 2026-06-23 16:03:52 |
+| sase | [`ce2103b`](https://github.com/sase-org/sase/commit/ce2103b375f177c92f2244d570d8068db7dca919) | docs: research bead work latency | 2026-06-23 12:03:52 EDT |
 
 ## Neighbors
 

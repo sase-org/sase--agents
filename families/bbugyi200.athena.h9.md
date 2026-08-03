@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`4df8b4e`](https://github.com/sase-org/sase/commit/4df8b4e7c27fbda2ad5dbd9b146342627cf2206c) | fix: preserve launch xprompt metadata during deferred expansion | 2026-07-21 16:09:11 |
+| code | sase | [`4df8b4e`](https://github.com/sase-org/sase/commit/4df8b4e7c27fbda2ad5dbd9b146342627cf2206c) | fix: preserve launch xprompt metadata during deferred expansion | 2026-07-21 12:09:11 EDT |

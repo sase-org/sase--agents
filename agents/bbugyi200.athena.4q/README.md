@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c224c98`](https://github.com/sase-org/sase/commit/c224c98bdc679e6894defe0a2a1c40d2754ca06f) | fix(query): propagate project names to ChangeSpec search | 2026-07-10 20:04:04 |
+| sase | [`c224c98`](https://github.com/sase-org/sase/commit/c224c98bdc679e6894defe0a2a1c40d2754ca06f) | fix(query): propagate project names to ChangeSpec search | 2026-07-10 16:04:04 EDT |

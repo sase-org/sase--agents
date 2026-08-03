@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`8a1a4f4`](https://github.com/sase-org/sase/commit/8a1a4f46772e3eb0fbab6eb39fd20dedc1f3cfb9) | feat(tui)!: swap Admin Center tab keymaps | 2026-07-13 13:38:51 |
+| code | sase | [`8a1a4f4`](https://github.com/sase-org/sase/commit/8a1a4f46772e3eb0fbab6eb39fd20dedc1f3cfb9) | feat(tui)!: swap Admin Center tab keymaps | 2026-07-13 09:38:51 EDT |

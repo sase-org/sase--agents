@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fec3f86`](https://github.com/sase-org/sase/commit/fec3f86830367ecd7914f1e3087ea5909dc9f451) | feat(prompt-stash): capture keymaps, top-bar indicator, and toasts (sase-4q.2) | 2026-06-16 15:07:43 |
+| sase | [`fec3f86`](https://github.com/sase-org/sase/commit/fec3f86830367ecd7914f1e3087ea5909dc9f451) | feat(prompt-stash): capture keymaps, top-bar indicator, and toasts (sase-4q.2) | 2026-06-16 11:07:43 EDT |
 
 ## Neighbors
 

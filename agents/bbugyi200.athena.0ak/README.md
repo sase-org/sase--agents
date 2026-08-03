@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0edfb84`](https://github.com/sase-org/sase/commit/0edfb846b2bc80a4288e7a1a10d34686c935ddc6) | feat(ace)!: move Model Overrides to leader \`,m\` | 2026-06-30 11:46:15 |
+| sase | [`0edfb84`](https://github.com/sase-org/sase/commit/0edfb846b2bc80a4288e7a1a10d34686c935ddc6) | feat(ace)!: move Model Overrides to leader \`,m\` | 2026-06-30 07:46:15 EDT |

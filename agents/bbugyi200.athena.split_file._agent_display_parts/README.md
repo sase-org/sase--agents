@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ecf9459`](https://github.com/sase-org/sase/commit/ecf945942317fff7abaa62c077dbc7ac874086e1) | refactor: split agent display parts helpers | 2026-06-25 12:53:14 |
+| sase | [`ecf9459`](https://github.com/sase-org/sase/commit/ecf945942317fff7abaa62c077dbc7ac874086e1) | refactor: split agent display parts helpers | 2026-06-25 08:53:14 EDT |
 
 ## Neighbors
 

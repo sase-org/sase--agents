@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`046a92a`](https://github.com/sase-org/sase/commit/046a92a3b6ce4495d53f431bcca8008c895c8413) | feat(skills): enforce monotonic deploy provenance (sase-ae.2) | 2026-07-28 12:51:49 |
+| sase | [`046a92a`](https://github.com/sase-org/sase/commit/046a92a3b6ce4495d53f431bcca8008c895c8413) | feat(skills): enforce monotonic deploy provenance (sase-ae.2) | 2026-07-28 08:51:49 EDT |
 
 ## Neighbors
 

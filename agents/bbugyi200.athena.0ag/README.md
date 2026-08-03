@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`31c9895`](https://github.com/sase-org/sase/commit/31c98951ce0acb47910225275ff318c2a15b1c3a) | fix(dev-update): fetch release tags from upstream | 2026-06-30 09:22:53 |
+| sase | [`31c9895`](https://github.com/sase-org/sase/commit/31c98951ce0acb47910225275ff318c2a15b1c3a) | fix(dev-update): fetch release tags from upstream | 2026-06-30 05:22:53 EDT |

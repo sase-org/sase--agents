@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`dfd4675`](https://github.com/sase-org/sase/commit/dfd4675cc023acb9d9b86b29fce78e6f5102c391) | chore: Add SDD prompt and plan for rename\_cls\_tab\_to\_prs | 2026-06-07 10:06:28 |
-| root | sase | [`75ff288`](https://github.com/sase-org/sase/commit/75ff2882000a1df2b7f25eefb56297d87b7b2ea3) | feat: rename ACE CL labels to PRs | 2026-06-07 10:24:59 |
+| root | sase | [`dfd4675`](https://github.com/sase-org/sase/commit/dfd4675cc023acb9d9b86b29fce78e6f5102c391) | chore: Add SDD prompt and plan for rename\_cls\_tab\_to\_prs | 2026-06-07 06:06:28 EDT |
+| root | sase | [`75ff288`](https://github.com/sase-org/sase/commit/75ff2882000a1df2b7f25eefb56297d87b7b2ea3) | feat: rename ACE CL labels to PRs | 2026-06-07 06:24:59 EDT |

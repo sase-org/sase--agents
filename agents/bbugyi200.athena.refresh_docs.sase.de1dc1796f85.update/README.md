@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8925d17`](https://github.com/sase-org/sase/commit/8925d175216d06b1da65681fe0ced54e3eb768f8) | chore: update project lifecycle documentation | 2026-06-01 18:28:04 |
+| sase | [`8925d17`](https://github.com/sase-org/sase/commit/8925d175216d06b1da65681fe0ced54e3eb768f8) | chore: update project lifecycle documentation | 2026-06-01 14:28:04 EDT |
 
 ## Neighbors
 

@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`34d533f`](https://github.com/sase-org/sase/commit/34d533f54e765b947aae9dac78fd4511448e1630) | fix: recognize adjacent inline code in xprompt overlays | 2026-07-19 13:18:20 |
+| sase | [`34d533f`](https://github.com/sase-org/sase/commit/34d533f54e765b947aae9dac78fd4511448e1630) | fix: recognize adjacent inline code in xprompt overlays | 2026-07-19 09:18:20 EDT |

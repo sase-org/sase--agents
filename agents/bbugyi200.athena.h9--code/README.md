@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4df8b4e`](https://github.com/sase-org/sase/commit/4df8b4e7c27fbda2ad5dbd9b146342627cf2206c) | fix: preserve launch xprompt metadata during deferred expansion | 2026-07-21 16:09:11 |
+| sase | [`4df8b4e`](https://github.com/sase-org/sase/commit/4df8b4e7c27fbda2ad5dbd9b146342627cf2206c) | fix: preserve launch xprompt metadata during deferred expansion | 2026-07-21 12:09:11 EDT |

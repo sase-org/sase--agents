@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c5d7e77`](https://github.com/sase-org/sase/commit/c5d7e771ed7abb1960515086150739116936ff5f) | feat(notify): add mechanical gate wait command (sase-6i.3) | 2026-07-17 04:22:55 |
+| sase | [`c5d7e77`](https://github.com/sase-org/sase/commit/c5d7e771ed7abb1960515086150739116936ff5f) | feat(notify): add mechanical gate wait command (sase-6i.3) | 2026-07-17 00:22:55 EDT |
 
 ## Neighbors
 

@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`28321d8`](https://github.com/sase-org/sase/commit/28321d8dfc18fcca4da201a9d3a6a3eeaae102fc) | fix(ace): project concrete family member state | 2026-07-19 13:59:20 |
+| code | sase | [`28321d8`](https://github.com/sase-org/sase/commit/28321d8dfc18fcca4da201a9d3a6a3eeaae102fc) | fix(ace): project concrete family member state | 2026-07-19 09:59:20 EDT |

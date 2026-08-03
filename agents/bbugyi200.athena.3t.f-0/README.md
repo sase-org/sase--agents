@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`600eb4d`](https://github.com/sase-org/sase/commit/600eb4df714eae16beece21919bbd8b210a803b9) | feat(vcs-log): render SASE tags as styled chips | 2026-07-09 18:14:41 |
+| sase | [`600eb4d`](https://github.com/sase-org/sase/commit/600eb4df714eae16beece21919bbd8b210a803b9) | feat(vcs-log): render SASE tags as styled chips | 2026-07-09 14:14:41 EDT |
 
 ## Neighbors
 

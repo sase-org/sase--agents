@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ddbe622`](https://github.com/sase-org/sase/commit/ddbe622a9802338b61e56b843656948345121ce6) | test: split clan aggregation tests by behavior | 2026-08-01 20:49:19 |
+| sase | [`ddbe622`](https://github.com/sase-org/sase/commit/ddbe622a9802338b61e56b843656948345121ce6) | test: split clan aggregation tests by behavior | 2026-08-01 16:49:19 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0f1f286`](https://github.com/sase-org/sase/commit/0f1f28699598bb86bed8de5ec2c42f2463c6ee21) | test(ace): refresh task triage presentation golden | 2026-08-01 18:37:09 |
+| sase | [`0f1f286`](https://github.com/sase-org/sase/commit/0f1f28699598bb86bed8de5ec2c42f2463c6ee21) | test(ace): refresh task triage presentation golden | 2026-08-01 14:37:09 EDT |
 
 ## Neighbors
 

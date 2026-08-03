@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cc85ef8`](https://github.com/sase-org/sase/commit/cc85ef89b3ba7f2f03389a751a6a212b94030267) | feat(tui): add catalog-backed Chats list (sase-90.5) | 2026-07-25 00:47:50 |
+| sase | [`cc85ef8`](https://github.com/sase-org/sase/commit/cc85ef89b3ba7f2f03389a751a6a212b94030267) | feat(tui): add catalog-backed Chats list (sase-90.5) | 2026-07-24 20:47:50 EDT |
 
 ## Neighbors
 

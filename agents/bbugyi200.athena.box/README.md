@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aa7cf28`](https://github.com/sase-org/sase/commit/aa7cf2876efa626a0ebc73116e6b3b9513c85a71) | chore: Add SDD prompt and plan for dynamic\_memory\_tier2 | 2026-05-30 00:26:42 |
-| sase | [`dc5033e`](https://github.com/sase-org/sase/commit/dc5033e8fb443dc01d8dc5e7efc21f7d2340378a) | fix: render dynamic memory guidance only with keywords | 2026-05-30 00:33:45 |
+| sase | [`aa7cf28`](https://github.com/sase-org/sase/commit/aa7cf2876efa626a0ebc73116e6b3b9513c85a71) | chore: Add SDD prompt and plan for dynamic\_memory\_tier2 | 2026-05-29 20:26:42 EDT |
+| sase | [`dc5033e`](https://github.com/sase-org/sase/commit/dc5033e8fb443dc01d8dc5e7efc21f7d2340378a) | fix: render dynamic memory guidance only with keywords | 2026-05-29 20:33:45 EDT |

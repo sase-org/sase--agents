@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d8028ee`](https://github.com/sase-org/sase/commit/d8028eeebf7f240c76a5f0cd034f0629b066d5c0) | feat(axe): triage ready task beads | 2026-07-31 02:31:17 |
+| sase | [`d8028ee`](https://github.com/sase-org/sase/commit/d8028eeebf7f240c76a5f0cd034f0629b066d5c0) | feat(axe): triage ready task beads | 2026-07-30 22:31:17 EDT |
 
 ## Neighbors
 

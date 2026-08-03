@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bdcd121`](https://github.com/sase-org/sase/commit/bdcd1219602c9473622133d846c1297c5d0e3372) | test: split AXE PNG snapshot tests | 2026-07-27 15:05:55 |
+| sase | [`bdcd121`](https://github.com/sase-org/sase/commit/bdcd1219602c9473622133d846c1297c5d0e3372) | test: split AXE PNG snapshot tests | 2026-07-27 11:05:55 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0fe38d6`](https://github.com/sase-org/sase/commit/0fe38d6748e55c1f8cd8fe64aa9e7ced863dab6b) | feat(ace): add inline agent metadata search (sase-76.3) | 2026-07-19 15:16:48 |
+| sase | [`0fe38d6`](https://github.com/sase-org/sase/commit/0fe38d6748e55c1f8cd8fe64aa9e7ced863dab6b) | feat(ace): add inline agent metadata search (sase-76.3) | 2026-07-19 11:16:48 EDT |
 
 ## Neighbors
 

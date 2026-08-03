@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`384eaa4`](https://github.com/sase-org/sase/commit/384eaa437f6718afa0e97373598e348c6cf04bf9) | test: split artifact CLI reference tests | 2026-07-30 19:41:59 |
+| sase | [`384eaa4`](https://github.com/sase-org/sase/commit/384eaa437f6718afa0e97373598e348c6cf04bf9) | test: split artifact CLI reference tests | 2026-07-30 15:41:59 EDT |
 
 ## Neighbors
 

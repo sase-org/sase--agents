@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3054ea5`](https://github.com/sase-org/sase/commit/3054ea56f2fbaa4709c02bfad2124c7636552c46) | feat: track xprompt swarm provenance on expansion records | 2026-07-30 01:25:22 |
+| sase | [`3054ea5`](https://github.com/sase-org/sase/commit/3054ea56f2fbaa4709c02bfad2124c7636552c46) | feat: track xprompt swarm provenance on expansion records | 2026-07-29 21:25:22 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dd58aa7`](https://github.com/sase-org/sase/commit/dd58aa71dacef87931075309a092fc94e2388092) | fix: harden indexed name fanout handling (sase-46.4) | 2026-05-27 16:13:20 |
+| sase | [`dd58aa7`](https://github.com/sase-org/sase/commit/dd58aa71dacef87931075309a092fc94e2388092) | fix: harden indexed name fanout handling (sase-46.4) | 2026-05-27 12:13:20 EDT |
 
 ## Neighbors
 

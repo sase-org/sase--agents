@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`43186b4`](https://github.com/sase-org/sase/commit/43186b41b96b75124ee6d4228a75846fd23fc7a4) | docs(research): add dynamic agent families v1/v2 design | 2026-07-06 00:43:00 |
+| sase | [`43186b4`](https://github.com/sase-org/sase/commit/43186b41b96b75124ee6d4228a75846fd23fc7a4) | docs(research): add dynamic agent families v1/v2 design | 2026-07-05 20:43:00 EDT |
 
 ## Neighbors
 

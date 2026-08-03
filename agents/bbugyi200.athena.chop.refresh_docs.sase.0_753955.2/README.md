@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fe0d71e`](https://github.com/sase-org/sase/commit/fe0d71e09fc1ce0984d67df49917c8e2055c0b4b) | docs: clarify archived prompt representations | 2026-08-02 23:23:09 |
+| sase | [`fe0d71e`](https://github.com/sase-org/sase/commit/fe0d71e09fc1ce0984d67df49917c8e2055c0b4b) | docs: clarify archived prompt representations | 2026-08-02 19:23:09 EDT |
 
 ## Neighbors
 

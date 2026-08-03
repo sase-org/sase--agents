@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`19e780d`](https://github.com/sase-org/sase/commit/19e780dd50ad288b23b280dd69ab36e3efe4bee4) | feat(agent-family): emit role completion lifecycle events | 2026-07-06 10:46:08 |
+| sase | [`19e780d`](https://github.com/sase-org/sase/commit/19e780dd50ad288b23b280dd69ab36e3efe4bee4) | feat(agent-family): emit role completion lifecycle events | 2026-07-06 06:46:08 EDT |
 
 ## Neighbors
 

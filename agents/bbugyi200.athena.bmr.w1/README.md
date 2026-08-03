@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`94e23c0`](https://github.com/sase-org/sase/commit/94e23c0a52272cc889175c89cbb01504d8d0426b) | chore: Add SDD prompt and plan for xprompt\_lsp\_activation | 2026-05-28 11:48:12 |
+| sase | [`94e23c0`](https://github.com/sase-org/sase/commit/94e23c0a52272cc889175c89cbb01504d8d0426b) | chore: Add SDD prompt and plan for xprompt\_lsp\_activation | 2026-05-28 07:48:12 EDT |
 
 ## Neighbors
 

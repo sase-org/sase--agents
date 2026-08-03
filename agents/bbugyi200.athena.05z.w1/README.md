@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d3ec4c9`](https://github.com/sase-org/sase/commit/d3ec4c9422daff918ffc96b5e4cfa79ad8e2d38f) | chore: Add SDD prompt and plan for fork\_spacer\_colon\_completion | 2026-06-25 12:20:55 |
-| sase | [`aa7f615`](https://github.com/sase-org/sase/commit/aa7f615ca43b936f5a657fd94c75898919f171af) | fix(tui): open xprompt argument menu after spacer colon | 2026-06-25 12:28:29 |
+| sase | [`d3ec4c9`](https://github.com/sase-org/sase/commit/d3ec4c9422daff918ffc96b5e4cfa79ad8e2d38f) | chore: Add SDD prompt and plan for fork\_spacer\_colon\_completion | 2026-06-25 08:20:55 EDT |
+| sase | [`aa7f615`](https://github.com/sase-org/sase/commit/aa7f615ca43b936f5a657fd94c75898919f171af) | fix(tui): open xprompt argument menu after spacer colon | 2026-06-25 08:28:29 EDT |
 
 ## Neighbors
 

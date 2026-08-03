@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b66826c`](https://github.com/sase-org/sase/commit/b66826c4005cb1e9e33be801f5c083a08e90e23a) | refactor(tui): split file completion mixin | 2026-06-19 20:40:33 |
+| sase | [`b66826c`](https://github.com/sase-org/sase/commit/b66826c4005cb1e9e33be801f5c083a08e90e23a) | refactor(tui): split file completion mixin | 2026-06-19 16:40:33 EDT |
 
 ## Neighbors
 

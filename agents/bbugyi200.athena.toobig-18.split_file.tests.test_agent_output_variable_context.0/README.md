@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cb779f7`](https://github.com/sase-org/sase/commit/cb779f7dfce3776d304072f7f645cb0090cdcdba) | test: split agent output variable context tests | 2026-07-30 23:25:46 |
+| sase | [`cb779f7`](https://github.com/sase-org/sase/commit/cb779f7dfce3776d304072f7f645cb0090cdcdba) | test: split agent output variable context tests | 2026-07-30 19:25:46 EDT |

@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`70d1fb5`](https://github.com/sase-org/sase/commit/70d1fb5668f0940bec221004e209e45a175bd0f6) | feat(tui): uppercase active nested tab labels | 2026-07-16 10:51:15 |
+| sase | [`70d1fb5`](https://github.com/sase-org/sase/commit/70d1fb5668f0940bec221004e209e45a175bd0f6) | feat(tui): uppercase active nested tab labels | 2026-07-16 06:51:15 EDT |

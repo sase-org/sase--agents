@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`24c999a`](https://github.com/sase-org/sase/commit/24c999a79dae8d52ae5fdd79059c87d4512b7d33) | docs: research workspace open tracking for linked repos | 2026-06-20 17:10:43 |
+| sase | [`24c999a`](https://github.com/sase-org/sase/commit/24c999a79dae8d52ae5fdd79059c87d4512b7d33) | docs: research workspace open tracking for linked repos | 2026-06-20 13:10:43 EDT |
 
 ## Neighbors
 

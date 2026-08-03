@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5da0f65`](https://github.com/sase-org/sase/commit/5da0f65e53b7802b14e8ba4a07a49688f2e6e193) | refactor(sdd): split plan display module | 2026-07-28 18:06:28 |
+| sase | [`5da0f65`](https://github.com/sase-org/sase/commit/5da0f65e53b7802b14e8ba4a07a49688f2e6e193) | refactor(sdd): split plan display module | 2026-07-28 14:06:28 EDT |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`699456a`](https://github.com/sase-org/sase/commit/699456a521e25e0aaa38f4e289db38e71a6488a6) | fix(xprompt): canonicalize workflow project identity (sase-ac.6.3) | 2026-07-28 13:37:41 |
+| sase | [`699456a`](https://github.com/sase-org/sase/commit/699456a521e25e0aaa38f4e289db38e71a6488a6) | fix(xprompt): canonicalize workflow project identity (sase-ac.6.3) | 2026-07-28 09:37:41 EDT |
 
 ## Neighbors
 

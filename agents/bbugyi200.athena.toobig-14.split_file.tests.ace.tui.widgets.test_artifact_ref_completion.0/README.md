@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`70b8fe2`](https://github.com/sase-org/sase/commit/70b8fe28f747578f4137675c15a84350f83604ca) | test: split artifact reference completion coverage | 2026-07-30 13:13:47 |
+| sase | [`70b8fe2`](https://github.com/sase-org/sase/commit/70b8fe28f747578f4137675c15a84350f83604ca) | test: split artifact reference completion coverage | 2026-07-30 09:13:47 EDT |
 
 ## Neighbors
 

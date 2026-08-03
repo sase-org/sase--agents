@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`303281b`](https://github.com/sase-org/sase/commit/303281b704896f8dbd0cddcff1b11fff6a83477a) | refactor(ace): split revert agent module | 2026-06-25 12:37:27 |
+| sase | [`303281b`](https://github.com/sase-org/sase/commit/303281b704896f8dbd0cddcff1b11fff6a83477a) | refactor(ace): split revert agent module | 2026-06-25 08:37:27 EDT |
 
 ## Neighbors
 

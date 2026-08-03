@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`940fdd6`](https://github.com/sase-org/sase/commit/940fdd6e2825383ee9b932079712881e23a71b90) | chore: refresh docs for recent agent updates | 2026-05-28 12:02:05 |
+| sase | [`940fdd6`](https://github.com/sase-org/sase/commit/940fdd6e2825383ee9b932079712881e23a71b90) | chore: refresh docs for recent agent updates | 2026-05-28 08:02:05 EDT |
 
 ## Neighbors
 

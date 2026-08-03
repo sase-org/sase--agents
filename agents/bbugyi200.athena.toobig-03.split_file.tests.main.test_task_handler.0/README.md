@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f2361e4`](https://github.com/sase-org/sase/commit/f2361e4584f80b6a138b2173216f22304392535f) | test: split task handler tests by subcommand | 2026-07-26 15:10:42 |
+| sase | [`f2361e4`](https://github.com/sase-org/sase/commit/f2361e4584f80b6a138b2173216f22304392535f) | test: split task handler tests by subcommand | 2026-07-26 11:10:42 EDT |
 
 ## Neighbors
 

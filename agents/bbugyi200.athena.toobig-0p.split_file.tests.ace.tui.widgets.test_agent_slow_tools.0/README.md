@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`27a03d4`](https://github.com/sase-org/sase/commit/27a03d472dab3b16e94fffc60d9d7c014a2b7f77) | test: split slow tool widget tests | 2026-07-28 14:44:10 |
+| sase | [`27a03d4`](https://github.com/sase-org/sase/commit/27a03d472dab3b16e94fffc60d9d7c014a2b7f77) | test: split slow tool widget tests | 2026-07-28 10:44:10 EDT |
 
 ## Neighbors
 

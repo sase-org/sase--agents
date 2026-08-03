@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b201c92`](https://github.com/sase-org/sase/commit/b201c9200c8954b36c226dde675af52fd7b1b66d) | fix(commit): attribute family member runs correctly (sase-ad.1) | 2026-07-28 12:15:18 |
+| sase | [`b201c92`](https://github.com/sase-org/sase/commit/b201c9200c8954b36c226dde675af52fd7b1b66d) | fix(commit): attribute family member runs correctly (sase-ad.1) | 2026-07-28 08:15:18 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`add1577`](https://github.com/sase-org/sase/commit/add1577de51e02459bdb3ba67a72ca69207210da) | fix(update): upgrade core wheel with editable sources | 2026-07-15 18:18:21 |
+| sase | [`add1577`](https://github.com/sase-org/sase/commit/add1577de51e02459bdb3ba67a72ca69207210da) | fix(update): upgrade core wheel with editable sources | 2026-07-15 14:18:21 EDT |
 
 ## Neighbors
 

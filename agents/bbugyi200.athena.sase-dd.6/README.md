@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`db504de`](https://github.com/sase-org/sase/commit/db504de6e348401c3fa960cef38980afd4a8b1e6) | feat(artifacts): link Beads and Plans panes | 2026-08-01 17:14:52 |
+| sase | [`db504de`](https://github.com/sase-org/sase/commit/db504de6e348401c3fa960cef38980afd4a8b1e6) | feat(artifacts): link Beads and Plans panes | 2026-08-01 13:14:52 EDT |
 
 ## Neighbors
 

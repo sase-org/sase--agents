@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`b8b7d65`](https://github.com/sase-org/sase/commit/b8b7d65e1a0bb39a59ec2385416b9c8cbf5400f6) | perf(tui): keep remaining maintenance off the message pump (sase-6c) | 2026-07-16 16:22:59 |
-| root | sase | [`b8b7d65`](https://github.com/sase-org/sase/commit/b8b7d65e1a0bb39a59ec2385416b9c8cbf5400f6) | perf(tui): keep remaining maintenance off the message pump (sase-6c) | 2026-07-16 16:22:59 |
+| code | sase | [`b8b7d65`](https://github.com/sase-org/sase/commit/b8b7d65e1a0bb39a59ec2385416b9c8cbf5400f6) | perf(tui): keep remaining maintenance off the message pump (sase-6c) | 2026-07-16 12:22:59 EDT |
+| root | sase | [`b8b7d65`](https://github.com/sase-org/sase/commit/b8b7d65e1a0bb39a59ec2385416b9c8cbf5400f6) | perf(tui): keep remaining maintenance off the message pump (sase-6c) | 2026-07-16 12:22:59 EDT |
 
 ## Neighbors
 

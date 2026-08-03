@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f965273`](https://github.com/sase-org/sase/commit/f965273f0a223d4afc015d7090499c63c55d5513) | chore: Add SDD prompt and plan for agent\_detail\_header\_offthread\_diff | 2026-06-25 11:01:39 |
-| sase | [`abe91de`](https://github.com/sase-org/sase/commit/abe91de7f22ed5773672b3e2eb94795de76a5b3a) | perf(tui): async enrich agent detail headers | 2026-06-25 11:21:13 |
+| sase | [`f965273`](https://github.com/sase-org/sase/commit/f965273f0a223d4afc015d7090499c63c55d5513) | chore: Add SDD prompt and plan for agent\_detail\_header\_offthread\_diff | 2026-06-25 07:01:39 EDT |
+| sase | [`abe91de`](https://github.com/sase-org/sase/commit/abe91de7f22ed5773672b3e2eb94795de76a5b3a) | perf(tui): async enrich agent detail headers | 2026-06-25 07:21:13 EDT |
 
 ## Neighbors
 

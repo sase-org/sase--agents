@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ac8fe03`](https://github.com/sase-org/sase/commit/ac8fe03f756c3af3d0440c3a4fd53d14fbc4b5ca) | test: split linked repo resolution tests | 2026-07-16 07:33:51 |
+| sase | [`ac8fe03`](https://github.com/sase-org/sase/commit/ac8fe03f756c3af3d0440c3a4fd53d14fbc4b5ca) | test: split linked repo resolution tests | 2026-07-16 03:33:51 EDT |
 
 ## Neighbors
 

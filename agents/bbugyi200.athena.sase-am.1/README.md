@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4d55dab`](https://github.com/sase-org/sase/commit/4d55dabc17152d033c195fcebdf21df4e16b2170) | ci: restore completed-run signal and unbreak lint | 2026-07-28 22:17:35 |
+| sase | [`4d55dab`](https://github.com/sase-org/sase/commit/4d55dabc17152d033c195fcebdf21df4e16b2170) | ci: restore completed-run signal and unbreak lint | 2026-07-28 18:17:35 EDT |
 
 ## Neighbors
 

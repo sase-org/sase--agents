@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5d4716c`](https://github.com/sase-org/sase/commit/5d4716c3572ced4281cbf97b527cc9bdcdd0ed4b) | refactor: use keyed name markers in the reads swarm | 2026-07-29 14:40:08 |
+| sase | [`5d4716c`](https://github.com/sase-org/sase/commit/5d4716c3572ced4281cbf97b527cc9bdcdd0ed4b) | refactor: use keyed name markers in the reads swarm | 2026-07-29 10:40:08 EDT |
 
 ## Neighbors
 

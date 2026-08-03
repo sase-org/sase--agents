@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`58ea3af`](https://github.com/sase-org/sase/commit/58ea3af7436a5646f353e4b49d6dc3272840b266) | chore: Add SDD prompt and plan for nvim\_xprompt\_frontmatter\_hover | 2026-05-28 14:21:59 |
+| sase | [`58ea3af`](https://github.com/sase-org/sase/commit/58ea3af7436a5646f353e4b49d6dc3272840b266) | chore: Add SDD prompt and plan for nvim\_xprompt\_frontmatter\_hover | 2026-05-28 10:21:59 EDT |

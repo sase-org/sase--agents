@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f463941`](https://github.com/sase-org/sase/commit/f4639414a457e969e369078eedd71970f5402f98) | perf(tui): move stale index rebuild off startup path (sase-6c.3) | 2026-07-16 15:37:49 |
+| sase | [`f463941`](https://github.com/sase-org/sase/commit/f4639414a457e969e369078eedd71970f5402f98) | perf(tui): move stale index rebuild off startup path (sase-6c.3) | 2026-07-16 11:37:49 EDT |
 
 ## Neighbors
 

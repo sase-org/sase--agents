@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b732cc7`](https://github.com/sase-org/sase/commit/b732cc73fd2f3a715f07a35a0f10bcbb8312f95c) | fix: preserve agents view hints during detail refresh | 2026-07-09 17:45:56 |
+| sase | [`b732cc7`](https://github.com/sase-org/sase/commit/b732cc73fd2f3a715f07a35a0f10bcbb8312f95c) | fix: preserve agents view hints during detail refresh | 2026-07-09 13:45:56 EDT |
 
 ## Neighbors
 

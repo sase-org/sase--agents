@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0333dcf`](https://github.com/sase-org/sase/commit/0333dcf68aff95efb7f090b7e3d3cecb7f8092ea) | feat(config): add Telegram command configuration (sase-6f.1) | 2026-07-16 19:43:28 |
+| sase | [`0333dcf`](https://github.com/sase-org/sase/commit/0333dcf68aff95efb7f090b7e3d3cecb7f8092ea) | feat(config): add Telegram command configuration (sase-6f.1) | 2026-07-16 15:43:28 EDT |
 
 ## Neighbors
 

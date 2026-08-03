@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`13b8aab`](https://github.com/sase-org/sase/commit/13b8aab3687aefc453a9cdf7681572a24ed91844) | fix: keep epic page labels inline with URLs | 2026-07-29 14:26:44 |
+| code | sase | [`13b8aab`](https://github.com/sase-org/sase/commit/13b8aab3687aefc453a9cdf7681572a24ed91844) | fix: keep epic page labels inline with URLs | 2026-07-29 10:26:44 EDT |
 
 ## Neighbors
 

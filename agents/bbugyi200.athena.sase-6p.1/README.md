@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`789cbfe`](https://github.com/sase-org/sase/commit/789cbfe5d7974b601ba87eaef6c428c0c73bd3e5) | feat(notification-gates)!: add option-query gate contract (sase-6p.1) | 2026-07-18 00:06:35 |
+| sase | [`789cbfe`](https://github.com/sase-org/sase/commit/789cbfe5d7974b601ba87eaef6c428c0c73bd3e5) | feat(notification-gates)!: add option-query gate contract (sase-6p.1) | 2026-07-17 20:06:35 EDT |
 
 ## Neighbors
 

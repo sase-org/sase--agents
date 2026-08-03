@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8db2e86`](https://github.com/sase-org/sase/commit/8db2e86d102a6632f804851b5b1af5704901b377) | chore: Add SDD prompt and plan for feedback\_child\_done\_after\_approval | 2026-05-28 12:28:55 |
-| sase | [`49a3e6c`](https://github.com/sase-org/sase/commit/49a3e6c88786f7cf76cd929afebc1810a491d1ec) | fix: keep approved feedback children done | 2026-05-28 12:40:14 |
+| sase | [`8db2e86`](https://github.com/sase-org/sase/commit/8db2e86d102a6632f804851b5b1af5704901b377) | chore: Add SDD prompt and plan for feedback\_child\_done\_after\_approval | 2026-05-28 08:28:55 EDT |
+| sase | [`49a3e6c`](https://github.com/sase-org/sase/commit/49a3e6c88786f7cf76cd929afebc1810a491d1ec) | fix: keep approved feedback children done | 2026-05-28 08:40:14 EDT |

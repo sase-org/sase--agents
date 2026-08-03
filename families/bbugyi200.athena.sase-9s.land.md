@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`1cb134f`](https://github.com/sase-org/sase/commit/1cb134fd1cd8e76f8427aad797844a8c681060b8) | test: stabilize post-rebase suite checks (sase-9s) | 2026-07-26 18:43:57 |
+| code | sase | [`1cb134f`](https://github.com/sase-org/sase/commit/1cb134fd1cd8e76f8427aad797844a8c681060b8) | test: stabilize post-rebase suite checks (sase-9s) | 2026-07-26 14:43:57 EDT |
 
 ## Neighbors
 

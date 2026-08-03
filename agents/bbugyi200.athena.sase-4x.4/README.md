@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`668b090`](https://github.com/sase-org/sase/commit/668b090f051350835d1c92461e71d09cade64125) | feat(plan-search): add \`sase plan search\` CLI with JSON output (sase-4x.4) | 2026-06-19 03:03:13 |
+| sase | [`668b090`](https://github.com/sase-org/sase/commit/668b090f051350835d1c92461e71d09cade64125) | feat(plan-search): add \`sase plan search\` CLI with JSON output (sase-4x.4) | 2026-06-18 23:03:13 EDT |
 
 ## Neighbors
 

@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4ccfa21`](https://github.com/sase-org/sase/commit/4ccfa212d6aa54d9021080485f6460291cfed343) | chore: Add SDD prompt and plan for xprompts\_enabled\_skips\_early\_jinja\_render | 2026-06-23 12:37:42 |
-| sase | [`3be2894`](https://github.com/sase-org/sase/commit/3be2894bd0cdcf935c6b60fd63b8cc99089f9a8f) | fix: preserve disabled regions during early Jinja render | 2026-06-23 12:44:06 |
+| sase | [`4ccfa21`](https://github.com/sase-org/sase/commit/4ccfa212d6aa54d9021080485f6460291cfed343) | chore: Add SDD prompt and plan for xprompts\_enabled\_skips\_early\_jinja\_render | 2026-06-23 08:37:42 EDT |
+| sase | [`3be2894`](https://github.com/sase-org/sase/commit/3be2894bd0cdcf935c6b60fd63b8cc99089f9a8f) | fix: preserve disabled regions during early Jinja render | 2026-06-23 08:44:06 EDT |

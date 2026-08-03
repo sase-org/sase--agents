@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a26d4d2`](https://github.com/sase-org/sase/commit/a26d4d24453e6bab373852a93efcbf083f85790d) | feat(demos): add captioned media post-processing (sase-6l.3) | 2026-07-17 15:55:13 |
+| sase | [`a26d4d2`](https://github.com/sase-org/sase/commit/a26d4d24453e6bab373852a93efcbf083f85790d) | feat(demos): add captioned media post-processing (sase-6l.3) | 2026-07-17 11:55:13 EDT |
 
 ## Neighbors
 

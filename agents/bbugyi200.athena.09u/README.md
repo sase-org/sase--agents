@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e1a42ad`](https://github.com/sase-org/sase/commit/e1a42adf0bf87bf6b458164881a0e22076d4e2ff) | chore: Add SDD prompt and plan for hide\_child\_agent\_step\_prefix | 2026-06-29 13:44:06 |
-| sase | [`50cfd8a`](https://github.com/sase-org/sase/commit/50cfd8a0341a2acdce6fd4e71e68266a1093cb08) | feat(tui): hide workflow child step prefixes | 2026-06-29 13:54:58 |
+| sase | [`e1a42ad`](https://github.com/sase-org/sase/commit/e1a42adf0bf87bf6b458164881a0e22076d4e2ff) | chore: Add SDD prompt and plan for hide\_child\_agent\_step\_prefix | 2026-06-29 09:44:06 EDT |
+| sase | [`50cfd8a`](https://github.com/sase-org/sase/commit/50cfd8a0341a2acdce6fd4e71e68266a1093cb08) | feat(tui): hide workflow child step prefixes | 2026-06-29 09:54:58 EDT |

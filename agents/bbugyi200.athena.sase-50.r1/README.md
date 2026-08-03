@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`214c1c5`](https://github.com/sase-org/sase/commit/214c1c592f67c21d0063d411351a17cb437f3441) | fix(llm): guard oversized agy prompts | 2026-06-20 02:26:51 |
+| sase | [`214c1c5`](https://github.com/sase-org/sase/commit/214c1c592f67c21d0063d411351a17cb437f3441) | fix(llm): guard oversized agy prompts | 2026-06-19 22:26:51 EDT |
 
 ## Neighbors
 

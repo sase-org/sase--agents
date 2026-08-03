@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4fe7faf`](https://github.com/sase-org/sase/commit/4fe7faf649b4ba263379bb7c77928cf9c3d34b87) | fix: preserve soft SIGTERM for plan handoff | 2026-06-28 12:05:31 |
+| sase | [`4fe7faf`](https://github.com/sase-org/sase/commit/4fe7faf649b4ba263379bb7c77928cf9c3d34b87) | fix: preserve soft SIGTERM for plan handoff | 2026-06-28 08:05:31 EDT |
 
 ## Neighbors
 

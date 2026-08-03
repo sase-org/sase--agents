@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`19bb1ad`](https://github.com/sase-org/sase/commit/19bb1adc74f8194b0d451936f07e7291bb473723) | fix(bead): emit byte-identical JSONL from both store writers (sase-9x.2) | 2026-07-27 11:16:46 |
+| sase | [`19bb1ad`](https://github.com/sase-org/sase/commit/19bb1adc74f8194b0d451936f07e7291bb473723) | fix(bead): emit byte-identical JSONL from both store writers (sase-9x.2) | 2026-07-27 07:16:46 EDT |
 
 ## Neighbors
 

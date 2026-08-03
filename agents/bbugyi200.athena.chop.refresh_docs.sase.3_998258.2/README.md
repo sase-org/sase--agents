@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`76e9ab4`](https://github.com/sase-org/sase/commit/76e9ab408cda6f9aff104217e57ada008246763c) | docs: correct task bead workflow guidance | 2026-07-31 03:47:28 |
+| sase | [`76e9ab4`](https://github.com/sase-org/sase/commit/76e9ab408cda6f9aff104217e57ada008246763c) | docs: correct task bead workflow guidance | 2026-07-30 23:47:28 EDT |
 
 ## Neighbors
 

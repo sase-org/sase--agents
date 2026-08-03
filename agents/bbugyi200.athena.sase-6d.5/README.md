@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5894a48`](https://github.com/sase-org/sase/commit/5894a487f32be50e247db0819b0f9429ecaf1731) | feat: migrate project content to canonical sase tree (sase-6d.5) | 2026-07-16 18:23:13 |
+| sase | [`5894a48`](https://github.com/sase-org/sase/commit/5894a487f32be50e247db0819b0f9429ecaf1731) | feat: migrate project content to canonical sase tree (sase-6d.5) | 2026-07-16 14:23:13 EDT |
 
 ## Neighbors
 

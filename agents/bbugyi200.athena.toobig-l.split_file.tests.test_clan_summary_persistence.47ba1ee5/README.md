@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`58279cc`](https://github.com/sase-org/sase/commit/58279cc8f5c99406dc6b510f6b94f31d1324bfde) | test: split clan summary persistence coverage | 2026-07-22 20:55:17 |
+| sase | [`58279cc`](https://github.com/sase-org/sase/commit/58279cc8f5c99406dc6b510f6b94f31d1324bfde) | test: split clan summary persistence coverage | 2026-07-22 16:55:17 EDT |
 
 ## Neighbors
 

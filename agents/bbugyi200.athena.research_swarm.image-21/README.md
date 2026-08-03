@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`37a1fda`](https://github.com/sase-org/sase/commit/37a1fda7311b4d479b340f692ceae566e7e17e58) | chore: add memory search research infographic | 2026-05-31 16:25:52 |
+| sase | [`37a1fda`](https://github.com/sase-org/sase/commit/37a1fda7311b4d479b340f692ceae566e7e17e58) | chore: add memory search research infographic | 2026-05-31 12:25:52 EDT |
 
 ## Neighbors
 

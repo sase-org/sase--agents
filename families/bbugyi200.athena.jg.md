@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`06338fc`](https://github.com/sase-org/sase/commit/06338fc148dbad0297cf94fa90651680a72817a1) | feat(ace): clarify Help Guide tab content | 2026-07-23 17:58:50 |
+| code | sase | [`06338fc`](https://github.com/sase-org/sase/commit/06338fc148dbad0297cf94fa90651680a72817a1) | feat(ace): clarify Help Guide tab content | 2026-07-23 13:58:50 EDT |

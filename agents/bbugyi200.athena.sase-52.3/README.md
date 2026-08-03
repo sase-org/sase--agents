@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2e5d157`](https://github.com/sase-org/sase/commit/2e5d1578bc4b4b154507414687354c059784c477) | feat(ace): add %{...} alt-shorthand prompt editing behavior (sase-52.3) | 2026-06-20 19:48:18 |
+| sase | [`2e5d157`](https://github.com/sase-org/sase/commit/2e5d1578bc4b4b154507414687354c059784c477) | feat(ace): add %{...} alt-shorthand prompt editing behavior (sase-52.3) | 2026-06-20 15:48:18 EDT |
 
 ## Neighbors
 

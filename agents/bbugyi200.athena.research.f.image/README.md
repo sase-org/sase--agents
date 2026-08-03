@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fc35b8a`](https://github.com/sase-org/sase/commit/fc35b8a6a5b0c1661cac3c23a525c6351899bc41) | docs: add audio generation infographic | 2026-06-14 19:19:36 |
+| sase | [`fc35b8a`](https://github.com/sase-org/sase/commit/fc35b8a6a5b0c1661cac3c23a525c6351899bc41) | docs: add audio generation infographic | 2026-06-14 15:19:36 EDT |
 
 ## Neighbors
 

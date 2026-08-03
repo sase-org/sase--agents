@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5787f08`](https://github.com/sase-org/sase/commit/5787f08177e20299e84a7d506a44f98165a238d2) | refactor(agent-names): split registry mutation modules | 2026-07-24 18:39:41 |
+| sase | [`5787f08`](https://github.com/sase-org/sase/commit/5787f08177e20299e84a7d506a44f98165a238d2) | refactor(agent-names): split registry mutation modules | 2026-07-24 14:39:41 EDT |
 
 ## Neighbors
 

@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ea38782`](https://github.com/sase-org/sase/commit/ea387821a77118ac2450a746950f1e6cbb8ac36c) | fix: display configured project names in plan inventory | 2026-07-15 13:10:11 |
+| sase | [`ea38782`](https://github.com/sase-org/sase/commit/ea387821a77118ac2450a746950f1e6cbb8ac36c) | fix: display configured project names in plan inventory | 2026-07-15 09:10:11 EDT |

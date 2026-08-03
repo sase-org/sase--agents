@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4827c09`](https://github.com/sase-org/sase/commit/4827c093e0180e121d76d6699e53d69dd73402dc) | feat(memory): add fence-aware short-term memory inlining helpers (sase-5b.1) | 2026-06-26 20:12:56 |
+| sase | [`4827c09`](https://github.com/sase-org/sase/commit/4827c093e0180e121d76d6699e53d69dd73402dc) | feat(memory): add fence-aware short-term memory inlining helpers (sase-5b.1) | 2026-06-26 16:12:56 EDT |
 
 ## Neighbors
 

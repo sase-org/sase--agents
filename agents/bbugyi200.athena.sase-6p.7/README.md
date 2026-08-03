@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e3a1b4a`](https://github.com/sase-org/sase/commit/e3a1b4a8a5c97218f13c92c9241364ca7ed3337f) | docs(gates): migrate guidance to option queries (sase-6p.7) | 2026-07-18 00:56:42 |
+| sase | [`e3a1b4a`](https://github.com/sase-org/sase/commit/e3a1b4a8a5c97218f13c92c9241364ca7ed3337f) | docs(gates): migrate guidance to option queries (sase-6p.7) | 2026-07-17 20:56:42 EDT |
 
 ## Neighbors
 

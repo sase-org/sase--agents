@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`493f5b0`](https://github.com/sase-org/sase/commit/493f5b077b1a99c6801308e3e8c14f4965c51e6b) | test: split associated-plan phase tests | 2026-08-01 20:23:07 |
+| sase | [`493f5b0`](https://github.com/sase-org/sase/commit/493f5b077b1a99c6801308e3e8c14f4965c51e6b) | test: split associated-plan phase tests | 2026-08-01 16:23:07 EDT |
 
 ## Neighbors
 

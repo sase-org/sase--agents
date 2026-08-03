@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2d133a1`](https://github.com/sase-org/sase/commit/2d133a14ad5af8aacfe0577dd3a3fb158d1d1e22) | test: split tasks pane tests by behavior | 2026-08-01 17:04:42 |
+| sase | [`2d133a1`](https://github.com/sase-org/sase/commit/2d133a14ad5af8aacfe0577dd3a3fb158d1d1e22) | test: split tasks pane tests by behavior | 2026-08-01 13:04:42 EDT |
 
 ## Neighbors
 

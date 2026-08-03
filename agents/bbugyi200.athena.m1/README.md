@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b3f400c`](https://github.com/sase-org/sase/commit/b3f400c8ea1e621da88f1c892a594e39438de0ee) | fix: honor projected buckets in clan counts | 2026-07-27 11:59:55 |
+| sase | [`b3f400c`](https://github.com/sase-org/sase/commit/b3f400c8ea1e621da88f1c892a594e39438de0ee) | fix: honor projected buckets in clan counts | 2026-07-27 07:59:55 EDT |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4520b4c`](https://github.com/sase-org/sase/commit/4520b4cc353a8368fc1534dd92acf03f01f55324) | test: contain ChangeSpec temp artifacts (sase-96.3) | 2026-07-25 13:22:41 |
+| sase | [`4520b4c`](https://github.com/sase-org/sase/commit/4520b4cc353a8368fc1534dd92acf03f01f55324) | test: contain ChangeSpec temp artifacts (sase-96.3) | 2026-07-25 09:22:41 EDT |
 
 ## Neighbors
 

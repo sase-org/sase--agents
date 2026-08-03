@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`440b907`](https://github.com/sase-org/sase/commit/440b9075684f9fc49fa45299084b5315f08a930d) | docs: add model purpose config infographic | 2026-06-17 19:39:10 |
+| sase | [`440b907`](https://github.com/sase-org/sase/commit/440b9075684f9fc49fa45299084b5315f08a930d) | docs: add model purpose config infographic | 2026-06-17 15:39:10 EDT |
 
 ## Neighbors
 

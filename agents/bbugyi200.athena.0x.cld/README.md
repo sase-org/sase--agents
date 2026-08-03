@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fb4a13f`](https://github.com/sase-org/sase/commit/fb4a13f2433f026b0cede695268ab8b40fe52ff4) | chore: Add SDD prompt and plan for fork\_strip\_sase\_lingo | 2026-06-03 06:42:02 |
-| sase | [`65a2938`](https://github.com/sase-org/sase/commit/65a29388ebfcb5dbcdf979337a382d260315367e) | feat: Strip sase lingo from forked previous-conversation history | 2026-06-03 06:51:10 |
+| sase | [`fb4a13f`](https://github.com/sase-org/sase/commit/fb4a13f2433f026b0cede695268ab8b40fe52ff4) | chore: Add SDD prompt and plan for fork\_strip\_sase\_lingo | 2026-06-03 02:42:02 EDT |
+| sase | [`65a2938`](https://github.com/sase-org/sase/commit/65a29388ebfcb5dbcdf979337a382d260315367e) | feat: Strip sase lingo from forked previous-conversation history | 2026-06-03 02:51:10 EDT |
 
 ## Neighbors
 

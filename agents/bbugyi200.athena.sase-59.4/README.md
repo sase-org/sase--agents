@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`28b1780`](https://github.com/sase-org/sase/commit/28b1780c88e8d8afd9e97a136ca61b55427d73d6) | feat(tui): add Plugins install action with confirm-preview modal (sase-59.4) | 2026-06-26 15:22:38 |
+| sase | [`28b1780`](https://github.com/sase-org/sase/commit/28b1780c88e8d8afd9e97a136ca61b55427d73d6) | feat(tui): add Plugins install action with confirm-preview modal (sase-59.4) | 2026-06-26 11:22:38 EDT |
 
 ## Neighbors
 

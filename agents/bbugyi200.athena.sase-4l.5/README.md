@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`abb8f9e`](https://github.com/sase-org/sase/commit/abb8f9ecd38aef6c6e15385165e903f343e499b4) | feat: add vim paragraph motions to prompt input (sase-4l.5) | 2026-06-12 17:58:26 |
+| sase | [`abb8f9e`](https://github.com/sase-org/sase/commit/abb8f9ecd38aef6c6e15385165e903f343e499b4) | feat: add vim paragraph motions to prompt input (sase-4l.5) | 2026-06-12 13:58:26 EDT |
 
 ## Neighbors
 

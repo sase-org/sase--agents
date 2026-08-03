@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9a6fed3`](https://github.com/sase-org/sase/commit/9a6fed341fb50c609f7a9c227e60c82a0f896934) | feat: add runtime version inventory collector (sase-4h.1) | 2026-06-08 19:57:13 |
+| sase | [`9a6fed3`](https://github.com/sase-org/sase/commit/9a6fed341fb50c609f7a9c227e60c82a0f896934) | feat: add runtime version inventory collector (sase-4h.1) | 2026-06-08 15:57:13 EDT |
 
 ## Neighbors
 

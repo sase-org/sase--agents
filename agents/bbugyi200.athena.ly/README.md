@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d6688f1`](https://github.com/sase-org/sase/commit/d6688f133b0320d413d2bb4a2c857a15ddaa9782) | fix(ace): preserve prompt space below frontmatter panel | 2026-07-27 11:48:37 |
+| sase | [`d6688f1`](https://github.com/sase-org/sase/commit/d6688f133b0320d413d2bb4a2c857a15ddaa9782) | fix(ace): preserve prompt space below frontmatter panel | 2026-07-27 07:48:37 EDT |

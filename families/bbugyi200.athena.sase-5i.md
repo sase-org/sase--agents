@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`1a73a30`](https://github.com/sase-org/sase/commit/1a73a30c9b5e805d4ba4e834878f4b3fc3ecf02b) | chore: Add SDD prompt and plan for close\_sase\_5i\_parity\_and\_test\_gaps (sase-5i) | 2026-07-07 22:01:45 |
-| root | sase | [`b596d78`](https://github.com/sase-org/sase/commit/b596d78dbbcd9d93712a11332a6078e59723efb7) | fix: align VCS ref completion parity (sase-5i) | 2026-07-07 22:23:03 |
+| root | sase | [`1a73a30`](https://github.com/sase-org/sase/commit/1a73a30c9b5e805d4ba4e834878f4b3fc3ecf02b) | chore: Add SDD prompt and plan for close\_sase\_5i\_parity\_and\_test\_gaps (sase-5i) | 2026-07-07 18:01:45 EDT |
+| root | sase | [`b596d78`](https://github.com/sase-org/sase/commit/b596d78dbbcd9d93712a11332a6078e59723efb7) | fix: align VCS ref completion parity (sase-5i) | 2026-07-07 18:23:03 EDT |
 
 ## Neighbors
 

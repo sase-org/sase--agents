@@ -19,8 +19,8 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`abbc8ac`](https://github.com/sase-org/sase/commit/abbc8ac6d6ef9ff34ffcaaa126057058bd8b1cc7) | chore: Add SDD prompt and plan for migrate\_sdd\_to\_companion\_repo | 2026-07-08 07:02:52 |
-| sase | [`646eb60`](https://github.com/sase-org/sase/commit/646eb602f8c753e04dc47d13f51f066dd1c37b4c) | Remove migrated in-tree SDD files | 2026-07-08 07:34:45 |
-| sase | [`e33fc5b`](https://github.com/sase-org/sase/commit/e33fc5b7db7d9e75c2b33cdaec1aef2b12702733) | feat: support migrated separate repo SDD stores | 2026-07-08 07:34:45 |
+| sase | [`abbc8ac`](https://github.com/sase-org/sase/commit/abbc8ac6d6ef9ff34ffcaaa126057058bd8b1cc7) | chore: Add SDD prompt and plan for migrate\_sdd\_to\_companion\_repo | 2026-07-08 03:02:52 EDT |
+| sase | [`646eb60`](https://github.com/sase-org/sase/commit/646eb602f8c753e04dc47d13f51f066dd1c37b4c) | Remove migrated in-tree SDD files | 2026-07-08 03:34:45 EDT |
+| sase | [`e33fc5b`](https://github.com/sase-org/sase/commit/e33fc5b7db7d9e75c2b33cdaec1aef2b12702733) | feat: support migrated separate repo SDD stores | 2026-07-08 03:34:45 EDT |

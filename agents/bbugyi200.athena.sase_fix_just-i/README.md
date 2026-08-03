@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a0658b6`](https://github.com/sase-org/sase/commit/a0658b6d916739c869ded743c78d3239fa7e56a1) | fix: validate agent namespace template binding (#163) | 2026-06-09 20:32:14 |
-| sase | [`8ad2eae`](https://github.com/sase-org/sase/commit/8ad2eae4c745b76a1ab133f1a9f4dec0865c1e7e) | test: pin ACE visual snapshot clock (#210) | 2026-07-07 04:34:08 |
+| sase | [`a0658b6`](https://github.com/sase-org/sase/commit/a0658b6d916739c869ded743c78d3239fa7e56a1) | fix: validate agent namespace template binding (#163) | 2026-06-09 16:32:14 EDT |
+| sase | [`8ad2eae`](https://github.com/sase-org/sase/commit/8ad2eae4c745b76a1ab133f1a9f4dec0865c1e7e) | test: pin ACE visual snapshot clock (#210) | 2026-07-07 00:34:08 EDT |

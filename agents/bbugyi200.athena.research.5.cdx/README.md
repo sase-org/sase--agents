@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d093260`](https://github.com/sase-org/sase/commit/d09326067eef82418b512db11ea63e1c803924e6) | chore: Add research on SASE new-user onboarding | 2026-06-09 22:07:47 |
+| sase | [`d093260`](https://github.com/sase-org/sase/commit/d09326067eef82418b512db11ea63e1c803924e6) | chore: Add research on SASE new-user onboarding | 2026-06-09 18:07:47 EDT |
 
 ## Neighbors
 

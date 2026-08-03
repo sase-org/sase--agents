@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b10dbd3`](https://github.com/sase-org/sase/commit/b10dbd36c4d260fb25c2faab9925e26c8674b9ed) | chore: close sase-4f refresh optimization epic | 2026-06-08 20:47:15 |
+| sase | [`b10dbd3`](https://github.com/sase-org/sase/commit/b10dbd36c4d260fb25c2faab9925e26c8674b9ed) | chore: close sase-4f refresh optimization epic | 2026-06-08 16:47:15 EDT |
 
 ## Neighbors
 

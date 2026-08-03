@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d6172a0`](https://github.com/sase-org/sase/commit/d6172a0e204c980a776c87576841cae9ca565a5f) | docs: add ACE demo-video tooling research | 2026-06-23 10:59:13 |
+| sase | [`d6172a0`](https://github.com/sase-org/sase/commit/d6172a0e204c980a776c87576841cae9ca565a5f) | docs: add ACE demo-video tooling research | 2026-06-23 06:59:13 EDT |
 
 ## Neighbors
 

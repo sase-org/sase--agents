@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4c5ab83`](https://github.com/sase-org/sase/commit/4c5ab83c9897e1104a389c17430c9460709c4317) | chore: Add SDD prompt and plan for tui\_suspend\_watchdog | 2026-06-26 16:38:45 |
-| sase | [`a4afcdf`](https://github.com/sase-org/sase/commit/a4afcdfecb7720a4d39e7fa7e753b942449cbf41) | feat(tui): make ACE suspend handoffs watchdog-aware | 2026-06-26 16:56:33 |
+| sase | [`4c5ab83`](https://github.com/sase-org/sase/commit/4c5ab83c9897e1104a389c17430c9460709c4317) | chore: Add SDD prompt and plan for tui\_suspend\_watchdog | 2026-06-26 12:38:45 EDT |
+| sase | [`a4afcdf`](https://github.com/sase-org/sase/commit/a4afcdfecb7720a4d39e7fa7e753b942449cbf41) | feat(tui): make ACE suspend handoffs watchdog-aware | 2026-06-26 12:56:33 EDT |
 
 ## Neighbors
 

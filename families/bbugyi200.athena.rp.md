@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`0d7c351`](https://github.com/sase-org/sase/commit/0d7c351e43d258f67ee98c346f41ec246f1f7573) | feat(llm): default smartest alias to Opus at max effort | 2026-08-02 11:30:02 |
+| code | sase | [`0d7c351`](https://github.com/sase-org/sase/commit/0d7c351e43d258f67ee98c346f41ec246f1f7573) | feat(llm): default smartest alias to Opus at max effort | 2026-08-02 07:30:02 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0ab01c9`](https://github.com/sase-org/sase/commit/0ab01c9fe75aea9a5baf28c7af822efc6c8068a4) | chore: close prompt g-prefix keymap epic (sase-4s) | 2026-06-17 20:02:49 |
+| sase | [`0ab01c9`](https://github.com/sase-org/sase/commit/0ab01c9fe75aea9a5baf28c7af822efc6c8068a4) | chore: close prompt g-prefix keymap epic (sase-4s) | 2026-06-17 16:02:49 EDT |
 
 ## Neighbors
 

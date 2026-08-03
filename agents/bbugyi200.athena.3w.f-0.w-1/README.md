@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1815d55`](https://github.com/sase-org/sase/commit/1815d551553a28e69e2b097a034c5c57d8fe1f7a) | feat!: remove legend and myth planning flows | 2026-07-09 20:45:33 |
+| sase | [`1815d55`](https://github.com/sase-org/sase/commit/1815d551553a28e69e2b097a034c5c57d8fe1f7a) | feat!: remove legend and myth planning flows | 2026-07-09 16:45:33 EDT |
 
 ## Neighbors
 

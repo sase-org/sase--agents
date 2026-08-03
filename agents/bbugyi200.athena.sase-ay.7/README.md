@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fedea3a`](https://github.com/sase-org/sase/commit/fedea3aa9b28d063add5edc2e83fbe108d0bae19) | feat(tui): render grouped @ reference completions | 2026-07-30 00:06:55 |
+| sase | [`fedea3a`](https://github.com/sase-org/sase/commit/fedea3aa9b28d063add5edc2e83fbe108d0bae19) | feat(tui): render grouped @ reference completions | 2026-07-29 20:06:55 EDT |
 
 ## Neighbors
 

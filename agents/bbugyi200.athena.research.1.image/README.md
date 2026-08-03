@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7ee16d9`](https://github.com/sase-org/sase/commit/7ee16d943de696ed088add756e05920e0718da67) | chore: add sase doctor research infographic | 2026-06-09 15:38:17 |
-| sase | [`cf403ac`](https://github.com/sase-org/sase/commit/cf403ac681d289bef373f14fbb8fd1f37300b62f) | docs: add sase doctor diagnostics infographic | 2026-07-08 04:59:22 |
+| sase | [`7ee16d9`](https://github.com/sase-org/sase/commit/7ee16d943de696ed088add756e05920e0718da67) | chore: add sase doctor research infographic | 2026-06-09 11:38:17 EDT |
+| sase | [`cf403ac`](https://github.com/sase-org/sase/commit/cf403ac681d289bef373f14fbb8fd1f37300b62f) | docs: add sase doctor diagnostics infographic | 2026-07-08 00:59:22 EDT |
 
 ## Neighbors
 

@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`93c58bd`](https://github.com/sase-org/sase/commit/93c58bd88c547aadad4a04e77409777b1edc92a1) | feat(tui): reorder Artifacts tabs by usage | 2026-07-25 11:11:27 |
+| sase | [`93c58bd`](https://github.com/sase-org/sase/commit/93c58bd88c547aadad4a04e77409777b1edc92a1) | feat(tui): reorder Artifacts tabs by usage | 2026-07-25 07:11:27 EDT |

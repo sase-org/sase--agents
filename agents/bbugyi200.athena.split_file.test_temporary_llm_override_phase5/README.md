@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`edc5c46`](https://github.com/sase-org/sase/commit/edc5c4620c59f5e6868f88e89324a2091db68402) | ref: split temporary LLM override tests | 2026-06-10 02:35:44 |
+| sase | [`edc5c46`](https://github.com/sase-org/sase/commit/edc5c4620c59f5e6868f88e89324a2091db68402) | ref: split temporary LLM override tests | 2026-06-09 22:35:44 EDT |
 
 ## Neighbors
 

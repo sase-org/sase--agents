@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e1595ff`](https://github.com/sase-org/sase/commit/e1595ff18a140bb423d68089744dad43ee35d95e) | refactor(bead): split detail CLI responsibilities | 2026-08-02 12:06:28 |
+| sase | [`e1595ff`](https://github.com/sase-org/sase/commit/e1595ff18a140bb423d68089744dad43ee35d95e) | refactor(bead): split detail CLI responsibilities | 2026-08-02 08:06:28 EDT |
 
 ## Neighbors
 

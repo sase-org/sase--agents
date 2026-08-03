@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ab8babd`](https://github.com/sase-org/sase/commit/ab8babdce84e04a95834d201f7c301b9126bfd96) | chore: Add SDD prompt and plan for memory\_read\_home\_search | 2026-05-31 12:54:46 |
-| sase | [`00c8bec`](https://github.com/sase-org/sase/commit/00c8bec51612dfd5a5a50d1a7ec0bd9fb242e33c) | fix: support home fallback for memory reads | 2026-05-31 13:05:24 |
+| sase | [`ab8babd`](https://github.com/sase-org/sase/commit/ab8babdce84e04a95834d201f7c301b9126bfd96) | chore: Add SDD prompt and plan for memory\_read\_home\_search | 2026-05-31 08:54:46 EDT |
+| sase | [`00c8bec`](https://github.com/sase-org/sase/commit/00c8bec51612dfd5a5a50d1a7ec0bd9fb242e33c) | fix: support home fallback for memory reads | 2026-05-31 09:05:24 EDT |

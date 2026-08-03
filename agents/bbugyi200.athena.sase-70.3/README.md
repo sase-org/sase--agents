@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fcdf263`](https://github.com/sase-org/sase/commit/fcdf2638ed58420ce37d7ac2b1c4c9778050070f) | feat(stats): expose project and changespec work data (sase-70.3) | 2026-07-19 03:08:41 |
+| sase | [`fcdf263`](https://github.com/sase-org/sase/commit/fcdf2638ed58420ce37d7ac2b1c4c9778050070f) | feat(stats): expose project and changespec work data (sase-70.3) | 2026-07-18 23:08:41 EDT |
 
 ## Neighbors
 

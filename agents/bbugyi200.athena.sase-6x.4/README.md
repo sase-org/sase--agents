@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bebd7cf`](https://github.com/sase-org/sase/commit/bebd7cf85c9d0f19bf97100e7a2225e067e9f7ea) | feat(tui): complete tribe targets in wait and fork (sase-6x.4) | 2026-07-18 23:23:07 |
+| sase | [`bebd7cf`](https://github.com/sase-org/sase/commit/bebd7cf85c9d0f19bf97100e7a2225e067e9f7ea) | feat(tui): complete tribe targets in wait and fork (sase-6x.4) | 2026-07-18 19:23:07 EDT |
 
 ## Neighbors
 

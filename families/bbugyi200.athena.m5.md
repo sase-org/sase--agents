@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`672ecbb`](https://github.com/sase-org/sase/commit/672ecbb4c835507817b78af6c573c399145c3b08) | feat(bead): add list output formats | 2026-07-27 13:03:42 |
+| code | sase | [`672ecbb`](https://github.com/sase-org/sase/commit/672ecbb4c835507817b78af6c573c399145c3b08) | feat(bead): add list output formats | 2026-07-27 09:03:42 EDT |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1449c9b`](https://github.com/sase-org/sase/commit/1449c9bb7b46348f391ffdbb8fffdd6d5a38384d) | perf(agents-sync): reduce publication drain lock work (sase-91.4) | 2026-07-25 00:56:13 |
+| sase | [`1449c9b`](https://github.com/sase-org/sase/commit/1449c9bb7b46348f391ffdbb8fffdd6d5a38384d) | perf(agents-sync): reduce publication drain lock work (sase-91.4) | 2026-07-24 20:56:13 EDT |
 
 ## Neighbors
 

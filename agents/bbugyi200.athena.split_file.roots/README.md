@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`97f516d`](https://github.com/sase-org/sase/commit/97f516dbcec3b18dc9dc290a328313e2bfbfac56) | refactor(init-memory): split memory root implementation | 2026-07-09 00:36:34 |
+| sase | [`97f516d`](https://github.com/sase-org/sase/commit/97f516dbcec3b18dc9dc290a328313e2bfbfac56) | refactor(init-memory): split memory root implementation | 2026-07-08 20:36:34 EDT |
 
 ## Neighbors
 

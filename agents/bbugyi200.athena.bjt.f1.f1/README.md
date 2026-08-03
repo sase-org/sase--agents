@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`80e9c58`](https://github.com/sase-org/sase/commit/80e9c5884a16651e1b652794de6b7cb2db0787b9) | chore: add memory episode infographic | 2026-05-27 12:18:15 |
+| sase | [`80e9c58`](https://github.com/sase-org/sase/commit/80e9c5884a16651e1b652794de6b7cb2db0787b9) | chore: add memory episode infographic | 2026-05-27 08:18:15 EDT |
 
 ## Neighbors
 

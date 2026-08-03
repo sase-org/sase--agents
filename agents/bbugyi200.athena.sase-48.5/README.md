@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b9661ef`](https://github.com/sase-org/sase/commit/b9661efc4cc7623f017d1f5d911ac87bfb9646f4) | feat: add split episode build and inventory CLI (sase-48.5) | 2026-05-28 23:00:54 |
+| sase | [`b9661ef`](https://github.com/sase-org/sase/commit/b9661efc4cc7623f017d1f5d911ac87bfb9646f4) | feat: add split episode build and inventory CLI (sase-48.5) | 2026-05-28 19:00:54 EDT |
 
 ## Neighbors
 

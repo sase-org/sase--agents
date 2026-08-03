@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`763bf73`](https://github.com/sase-org/sase/commit/763bf73edceb0d0604058f48848fe7484107c650) | feat: migrate plan approvals to notification gates (sase-6e.6) | 2026-07-16 23:14:47 |
+| sase | [`763bf73`](https://github.com/sase-org/sase/commit/763bf73edceb0d0604058f48848fe7484107c650) | feat: migrate plan approvals to notification gates (sase-6e.6) | 2026-07-16 19:14:47 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0a4dc48`](https://github.com/sase-org/sase/commit/0a4dc48e34e93bc2257c4d831e6f957852d3bb7b) | chore: research new user guidance for SASE episodes | 2026-05-26 23:23:12 |
+| sase | [`0a4dc48`](https://github.com/sase-org/sase/commit/0a4dc48e34e93bc2257c4d831e6f957852d3bb7b) | chore: research new user guidance for SASE episodes | 2026-05-26 19:23:12 EDT |
 
 ## Neighbors
 

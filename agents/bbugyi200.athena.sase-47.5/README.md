@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e416320`](https://github.com/sase-org/sase/commit/e416320f42bfa704c36286d7f424da3231ad42f9) | feat: complete saved agent group revival polish (sase-47.5) | 2026-05-27 17:43:50 |
+| sase | [`e416320`](https://github.com/sase-org/sase/commit/e416320f42bfa704c36286d7f424da3231ad42f9) | feat: complete saved agent group revival polish (sase-47.5) | 2026-05-27 13:43:50 EDT |
 
 ## Neighbors
 

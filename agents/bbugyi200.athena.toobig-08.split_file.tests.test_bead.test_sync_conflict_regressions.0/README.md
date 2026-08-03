@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fa6b004`](https://github.com/sase-org/sase/commit/fa6b0047fe697bad2635e04d632a5d871abbdf80) | test: split sync conflict regression suite | 2026-07-27 15:23:47 |
+| sase | [`fa6b004`](https://github.com/sase-org/sase/commit/fa6b0047fe697bad2635e04d632a5d871abbdf80) | test: split sync conflict regression suite | 2026-07-27 11:23:47 EDT |
 
 ## Neighbors
 

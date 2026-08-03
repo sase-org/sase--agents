@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`56264fa`](https://github.com/sase-org/sase/commit/56264fa316047d22aa480c6526314b5cc79b26fd) | feat(ace): show phase sizes in artifact plans (sase-8b.4) | 2026-07-20 19:54:20 |
+| sase | [`56264fa`](https://github.com/sase-org/sase/commit/56264fa316047d22aa480c6526314b5cc79b26fd) | feat(ace): show phase sizes in artifact plans (sase-8b.4) | 2026-07-20 15:54:20 EDT |
 
 ## Neighbors
 

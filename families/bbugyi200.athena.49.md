@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`afe3701`](https://github.com/sase-org/sase/commit/afe37010f171b7a1b33ad1d02c06024f54c8b2ea) | feat(xprompt)!: remove Mercurial workspace workflow references | 2026-07-10 14:52:50 |
+| root | sase | [`afe3701`](https://github.com/sase-org/sase/commit/afe37010f171b7a1b33ad1d02c06024f54c8b2ea) | feat(xprompt)!: remove Mercurial workspace workflow references | 2026-07-10 10:52:50 EDT |

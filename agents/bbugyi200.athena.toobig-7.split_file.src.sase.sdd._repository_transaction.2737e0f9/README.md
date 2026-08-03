@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5c93569`](https://github.com/sase-org/sase/commit/5c93569d8d0faaecba49d139b8acc7c2aac0b17f) | refactor(sdd): split repository transaction module | 2026-07-20 23:24:58 |
+| sase | [`5c93569`](https://github.com/sase-org/sase/commit/5c93569d8d0faaecba49d139b8acc7c2aac0b17f) | refactor(sdd): split repository transaction module | 2026-07-20 19:24:58 EDT |
 
 ## Neighbors
 

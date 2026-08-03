@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0c43854`](https://github.com/sase-org/sase/commit/0c438540c6f78fb9e3e36e67037f9ab1b9846b92) | test(xprompt): cover family launch neutrality (sase-6g) | 2026-07-17 01:31:49 |
+| sase | [`0c43854`](https://github.com/sase-org/sase/commit/0c438540c6f78fb9e3e36e67037f9ab1b9846b92) | test(xprompt): cover family launch neutrality (sase-6g) | 2026-07-16 21:31:49 EDT |
 
 ## Neighbors
 

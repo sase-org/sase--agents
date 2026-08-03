@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e08f275`](https://github.com/sase-org/sase/commit/e08f27523c192c3f18b1db9152f4b05a873c3225) | chore: Add SDD prompt and plan for ace\_run\_layout | 2026-06-13 16:29:55 |
-| sase | [`6cfa3b1`](https://github.com/sase-org/sase/commit/6cfa3b1714a1b1bc8fe53b9347abe658ff5ef3dc) | feat: add sharded agent artifact migration | 2026-06-13 17:11:15 |
+| sase | [`e08f275`](https://github.com/sase-org/sase/commit/e08f27523c192c3f18b1db9152f4b05a873c3225) | chore: Add SDD prompt and plan for ace\_run\_layout | 2026-06-13 12:29:55 EDT |
+| sase | [`6cfa3b1`](https://github.com/sase-org/sase/commit/6cfa3b1714a1b1bc8fe53b9347abe658ff5ef3dc) | feat: add sharded agent artifact migration | 2026-06-13 13:11:15 EDT |
 
 ## Neighbors
 

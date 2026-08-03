@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a379c31`](https://github.com/sase-org/sase/commit/a379c31c7302a89617bdfb41718907c89a975c6a) | chore: Consolidate SASE blog launch research | 2026-06-03 07:28:09 |
+| sase | [`a379c31`](https://github.com/sase-org/sase/commit/a379c31c7302a89617bdfb41718907c89a975c6a) | chore: Consolidate SASE blog launch research | 2026-06-03 03:28:09 EDT |
 
 ## Neighbors
 

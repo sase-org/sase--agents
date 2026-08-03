@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`f6f0224`](https://github.com/sase-org/sase/commit/f6f02240fed6e4f6435469b4de016f81e39788b0) | fix(memory): fold agent doc source changes into init commits | 2026-07-11 14:11:48 |
+| root | sase | [`f6f0224`](https://github.com/sase-org/sase/commit/f6f02240fed6e4f6435469b4de016f81e39788b0) | fix(memory): fold agent doc source changes into init commits | 2026-07-11 10:11:48 EDT |

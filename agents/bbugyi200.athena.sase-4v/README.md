@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bb3b486`](https://github.com/sase-org/sase/commit/bb3b486387482ce46704400c408d6a31abcf046d) | chore: close sase-4v epic metadata | 2026-06-17 23:51:21 |
+| sase | [`bb3b486`](https://github.com/sase-org/sase/commit/bb3b486387482ce46704400c408d6a31abcf046d) | chore: close sase-4v epic metadata | 2026-06-17 19:51:21 EDT |
 
 ## Neighbors
 

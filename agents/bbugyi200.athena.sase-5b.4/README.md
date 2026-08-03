@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`17bc99c`](https://github.com/sase-org/sase/commit/17bc99cbd8a7d340f2c9547ff9a77d95e41ca4e6) | feat(memory): regenerate artifacts with inlined short-term memory (sase-5b.4) | 2026-06-26 21:24:46 |
+| sase | [`17bc99c`](https://github.com/sase-org/sase/commit/17bc99cbd8a7d340f2c9547ff9a77d95e41ca4e6) | feat(memory): regenerate artifacts with inlined short-term memory (sase-5b.4) | 2026-06-26 17:24:46 EDT |
 
 ## Neighbors
 

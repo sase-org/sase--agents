@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6434c16`](https://github.com/sase-org/sase/commit/6434c169468e44ad6c74ca6e38682a0bef9e9d5d) | docs: consolidate SASE rename research | 2026-06-22 12:05:41 |
+| sase | [`6434c16`](https://github.com/sase-org/sase/commit/6434c169468e44ad6c74ca6e38682a0bef9e9d5d) | docs: consolidate SASE rename research | 2026-06-22 08:05:41 EDT |
 
 ## Neighbors
 

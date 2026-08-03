@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6f7c560`](https://github.com/sase-org/sase/commit/6f7c56043164900af7c80d2fd7899018434828de) | feat(var): support structured output variables | 2026-07-30 21:57:02 |
+| sase | [`6f7c560`](https://github.com/sase-org/sase/commit/6f7c56043164900af7c80d2fd7899018434828de) | feat(var): support structured output variables | 2026-07-30 17:57:02 EDT |
 
 ## Neighbors
 

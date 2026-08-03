@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c41320c`](https://github.com/sase-org/sase/commit/c41320c9563cd13481b0a38e3200fd91223e11ac) | docs: add agy migration infographic | 2026-06-19 20:26:25 |
+| sase | [`c41320c`](https://github.com/sase-org/sase/commit/c41320c9563cd13481b0a38e3200fd91223e11ac) | docs: add agy migration infographic | 2026-06-19 16:26:25 EDT |
 
 ## Neighbors
 

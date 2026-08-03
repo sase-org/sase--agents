@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`71c5e2a`](https://github.com/sase-org/sase/commit/71c5e2a055288c72ed9dcc7a0ad21fc608f5726b) | test: split deferred workspace runner tests | 2026-07-20 23:32:48 |
+| sase | [`71c5e2a`](https://github.com/sase-org/sase/commit/71c5e2a055288c72ed9dcc7a0ad21fc608f5726b) | test: split deferred workspace runner tests | 2026-07-20 19:32:48 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d4087b0`](https://github.com/sase-org/sase/commit/d4087b08e15cb52eb5a20650adf1e319d1224685) | fix(ace): polish clan cleanup guidance (sase-74.3) | 2026-07-19 13:54:10 |
+| sase | [`d4087b0`](https://github.com/sase-org/sase/commit/d4087b08e15cb52eb5a20650adf1e319d1224685) | fix(ace): polish clan cleanup guidance (sase-74.3) | 2026-07-19 09:54:10 EDT |
 
 ## Neighbors
 

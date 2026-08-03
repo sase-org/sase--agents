@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3fbb14f`](https://github.com/sase-org/sase/commit/3fbb14f1671f6a8813d7a3a0a36cb785a91f8d16) | chore: Add SDD prompt and plan for tab\_guide\_modal | 2026-07-04 16:48:13 |
-| sase | [`bde2155`](https://github.com/sase-org/sase/commit/bde21558c0028b4d4b012a25aa8642283fa0022a) | feat(tui): add tab guide modal | 2026-07-04 18:07:15 |
+| sase | [`3fbb14f`](https://github.com/sase-org/sase/commit/3fbb14f1671f6a8813d7a3a0a36cb785a91f8d16) | chore: Add SDD prompt and plan for tab\_guide\_modal | 2026-07-04 12:48:13 EDT |
+| sase | [`bde2155`](https://github.com/sase-org/sase/commit/bde21558c0028b4d4b012a25aa8642283fa0022a) | feat(tui): add tab guide modal | 2026-07-04 14:07:15 EDT |
 
 ## Neighbors
 

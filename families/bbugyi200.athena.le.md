@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`5c7f258`](https://github.com/sase-org/sase/commit/5c7f25834f1d4ae04bed2289cee9202f794dd7c1) | fix(xprompts): deprioritize epic agents | 2026-07-26 12:39:39 |
+| code | sase | [`5c7f258`](https://github.com/sase-org/sase/commit/5c7f25834f1d4ae04bed2289cee9202f794dd7c1) | fix(xprompts): deprioritize epic agents | 2026-07-26 08:39:39 EDT |

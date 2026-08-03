@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7294db9`](https://github.com/sase-org/sase/commit/7294db9bb5c60ab2935ee059e4af528026b7323d) | feat(notifications): add durable command-backed gates (sase-6e.3) | 2026-07-16 20:56:01 |
+| sase | [`7294db9`](https://github.com/sase-org/sase/commit/7294db9bb5c60ab2935ee059e4af528026b7323d) | feat(notifications): add durable command-backed gates (sase-6e.3) | 2026-07-16 16:56:01 EDT |
 
 ## Neighbors
 

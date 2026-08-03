@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a434e09`](https://github.com/sase-org/sase/commit/a434e09e675c08adb8567cb342add9add087e120) | feat(ace): navigate agent metadata sections | 2026-07-16 22:30:03 |
+| sase | [`a434e09`](https://github.com/sase-org/sase/commit/a434e09e675c08adb8567cb342add9add087e120) | feat(ace): navigate agent metadata sections | 2026-07-16 18:30:03 EDT |

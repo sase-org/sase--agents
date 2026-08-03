@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`90d7f91`](https://github.com/sase-org/sase/commit/90d7f9121566904b1b2b4d971c13ab61f3ecf90e) | test: split VCS log rendering tests | 2026-07-21 17:21:06 |
+| sase | [`90d7f91`](https://github.com/sase-org/sase/commit/90d7f9121566904b1b2b4d971c13ab61f3ecf90e) | test: split VCS log rendering tests | 2026-07-21 13:21:06 EDT |
 
 ## Neighbors
 

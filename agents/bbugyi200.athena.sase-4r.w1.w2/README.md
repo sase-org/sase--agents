@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4600da0`](https://github.com/sase-org/sase/commit/4600da081109f3856fef42ef0d9166fb92071a29) | chore: Add SDD prompt and plan for prompt\_input\_all\_editor | 2026-06-17 11:11:32 |
-| sase | [`0b874c9`](https://github.com/sase-org/sase/commit/0b874c93c32eda2182f7d6901ee268b7069a35df) | feat(tui): add prompt-input all-panes editor keymap | 2026-06-17 11:24:50 |
+| sase | [`4600da0`](https://github.com/sase-org/sase/commit/4600da081109f3856fef42ef0d9166fb92071a29) | chore: Add SDD prompt and plan for prompt\_input\_all\_editor | 2026-06-17 07:11:32 EDT |
+| sase | [`0b874c9`](https://github.com/sase-org/sase/commit/0b874c93c32eda2182f7d6901ee268b7069a35df) | feat(tui): add prompt-input all-panes editor keymap | 2026-06-17 07:24:50 EDT |
 
 ## Neighbors
 

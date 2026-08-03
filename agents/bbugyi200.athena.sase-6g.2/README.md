@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`702ab60`](https://github.com/sase-org/sase/commit/702ab603aaad29970098aa81db003cccef85f54c) | feat(runner-slots): admit parallel family members (sase-6g.2) | 2026-07-16 23:17:36 |
+| sase | [`702ab60`](https://github.com/sase-org/sase/commit/702ab603aaad29970098aa81db003cccef85f54c) | feat(runner-slots): admit parallel family members (sase-6g.2) | 2026-07-16 19:17:36 EDT |
 
 ## Neighbors
 

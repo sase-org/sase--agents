@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`08e1fc7`](https://github.com/sase-org/sase/commit/08e1fc7c0f0d871dfd0b6850b96f3f2ac30a12ce) | test: split dev update execute tests | 2026-07-22 17:35:10 |
+| sase | [`08e1fc7`](https://github.com/sase-org/sase/commit/08e1fc7c0f0d871dfd0b6850b96f3f2ac30a12ce) | test: split dev update execute tests | 2026-07-22 13:35:10 EDT |
 
 ## Neighbors
 

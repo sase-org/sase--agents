@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`586ca95`](https://github.com/sase-org/sase/commit/586ca95d1b5faf59a71170fdf90a7aa35424260f) | chore: refresh runtime and agent naming docs | 2026-06-08 22:11:57 |
+| sase | [`586ca95`](https://github.com/sase-org/sase/commit/586ca95d1b5faf59a71170fdf90a7aa35424260f) | chore: refresh runtime and agent naming docs | 2026-06-08 18:11:57 EDT |
 
 ## Neighbors
 

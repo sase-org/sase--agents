@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`396e272`](https://github.com/sase-org/sase/commit/396e27268fe1ba4e4411e851375e1451ee80c296) | fix: preserve bead notes during commit workflows | 2026-07-25 14:13:21 |
+| code | sase | [`396e272`](https://github.com/sase-org/sase/commit/396e27268fe1ba4e4411e851375e1451ee80c296) | fix: preserve bead notes during commit workflows | 2026-07-25 10:13:21 EDT |

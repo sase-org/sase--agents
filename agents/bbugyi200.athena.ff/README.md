@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b938e94`](https://github.com/sase-org/sase/commit/b938e94ad0d744b3fa691b031dc5d682109ce756) | feat(tui): navigate to neighbors in folded clans | 2026-07-19 21:56:58 |
+| sase | [`b938e94`](https://github.com/sase-org/sase/commit/b938e94ad0d744b3fa691b031dc5d682109ce756) | feat(tui): navigate to neighbors in folded clans | 2026-07-19 17:56:58 EDT |

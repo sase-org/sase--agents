@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8e25a3d`](https://github.com/sase-org/sase/commit/8e25a3d050b4c654414a62fb37f32fde0efa40f9) | docs: add launch blog TUI research audit | 2026-07-02 19:17:12 |
+| sase | [`8e25a3d`](https://github.com/sase-org/sase/commit/8e25a3d050b4c654414a62fb37f32fde0efa40f9) | docs: add launch blog TUI research audit | 2026-07-02 15:17:12 EDT |
 
 ## Neighbors
 

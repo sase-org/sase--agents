@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7538b93`](https://github.com/sase-org/sase/commit/7538b9395489ffc74de8c58525bd9cee2d870889) | feat(bead): report recurring managed-sync failures (sase-9x.6) | 2026-07-27 12:42:25 |
+| sase | [`7538b93`](https://github.com/sase-org/sase/commit/7538b9395489ffc74de8c58525bd9cee2d870889) | feat(bead): report recurring managed-sync failures (sase-9x.6) | 2026-07-27 08:42:25 EDT |
 
 ## Neighbors
 

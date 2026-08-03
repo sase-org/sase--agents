@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2c15257`](https://github.com/sase-org/sase/commit/2c152578537e50209de8b6e750d4d179182a5e44) | feat(beads): show creator attribution links | 2026-07-31 13:39:42 |
+| sase | [`2c15257`](https://github.com/sase-org/sase/commit/2c152578537e50209de8b6e750d4d179182a5e44) | feat(beads): show creator attribution links | 2026-07-31 09:39:42 EDT |
 
 ## Neighbors
 

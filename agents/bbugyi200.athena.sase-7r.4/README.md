@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c283d63`](https://github.com/sase-org/sase/commit/c283d638ec63ca06c36856bcd908a3db3845c617) | feat(tui): render rich clan summaries (sase-7r.4) | 2026-07-20 00:34:47 |
+| sase | [`c283d63`](https://github.com/sase-org/sase/commit/c283d638ec63ca06c36856bcd908a3db3845c617) | feat(tui): render rich clan summaries (sase-7r.4) | 2026-07-19 20:34:47 EDT |
 
 ## Neighbors
 

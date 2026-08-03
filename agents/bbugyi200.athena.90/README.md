@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bd8fe53`](https://github.com/sase-org/sase/commit/bd8fe533476acf747a7203a03fc265943e73fe8a) | test: stabilize xprompt skill highlight coverage | 2026-07-15 13:23:18 |
+| sase | [`bd8fe53`](https://github.com/sase-org/sase/commit/bd8fe533476acf747a7203a03fc265943e73fe8a) | test: stabilize xprompt skill highlight coverage | 2026-07-15 09:23:18 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`350af96`](https://github.com/sase-org/sase/commit/350af961bfc203e823cf75ecd33b3ba6a9e0c742) | fix(logs): bound and harden persistent sinks (sase-8g.10) | 2026-07-20 21:22:56 |
+| sase | [`350af96`](https://github.com/sase-org/sase/commit/350af961bfc203e823cf75ecd33b3ba6a9e0c742) | fix(logs): bound and harden persistent sinks (sase-8g.10) | 2026-07-20 17:22:56 EDT |
 
 ## Neighbors
 

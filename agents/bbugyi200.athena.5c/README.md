@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4f87e3e`](https://github.com/sase-org/sase/commit/4f87e3e022dc15d20b96f3aa0df04b659dcec8fc) | feat!: add phased commit hooks | 2026-07-11 12:33:38 |
+| sase | [`4f87e3e`](https://github.com/sase-org/sase/commit/4f87e3e022dc15d20b96f3aa0df04b659dcec8fc) | feat!: add phased commit hooks | 2026-07-11 08:33:38 EDT |

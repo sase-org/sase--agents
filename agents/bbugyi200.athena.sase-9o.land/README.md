@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eda646e`](https://github.com/sase-org/sase/commit/eda646ec02177d9e28ebb03cb322a68b52bb2f9c) | docs(agents): document the agent index repair subcommand (sase-9o) | 2026-07-26 12:25:22 |
+| sase | [`eda646e`](https://github.com/sase-org/sase/commit/eda646ec02177d9e28ebb03cb322a68b52bb2f9c) | docs(agents): document the agent index repair subcommand (sase-9o) | 2026-07-26 08:25:22 EDT |
 
 ## Neighbors
 

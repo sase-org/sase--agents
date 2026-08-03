@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9945d55`](https://github.com/sase-org/sase/commit/9945d5531000d94050e699c3a450daf13025c945) | chore: Add SDD prompt and plan for project\_select\_filter\_popup | 2026-06-02 17:40:08 |
-| sase | [`c08af2a`](https://github.com/sase-org/sase/commit/c08af2ad51b782cc667f2f318c46d5b3b00cb0a6) | feat: make @ project picker a compact filterable pop-up | 2026-06-02 17:47:57 |
+| sase | [`9945d55`](https://github.com/sase-org/sase/commit/9945d5531000d94050e699c3a450daf13025c945) | chore: Add SDD prompt and plan for project\_select\_filter\_popup | 2026-06-02 13:40:08 EDT |
+| sase | [`c08af2a`](https://github.com/sase-org/sase/commit/c08af2ad51b782cc667f2f318c46d5b3b00cb0a6) | feat: make @ project picker a compact filterable pop-up | 2026-06-02 13:47:57 EDT |

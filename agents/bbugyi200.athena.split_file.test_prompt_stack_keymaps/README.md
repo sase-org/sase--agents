@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4cce50e`](https://github.com/sase-org/sase/commit/4cce50e3a74930ec3c0ef6f400bbeab8918142f7) | test: split prompt stack keymap tests | 2026-06-17 19:29:54 |
+| sase | [`4cce50e`](https://github.com/sase-org/sase/commit/4cce50e3a74930ec3c0ef6f400bbeab8918142f7) | test: split prompt stack keymap tests | 2026-06-17 15:29:54 EDT |
 
 ## Neighbors
 

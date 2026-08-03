@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ef4363f`](https://github.com/sase-org/sase/commit/ef4363fdccea2aa38f372a2ada328b35e9c45129) | feat(ace): add prompt Vim visual mode (sase-4l.2) | 2026-06-12 17:43:38 |
+| sase | [`ef4363f`](https://github.com/sase-org/sase/commit/ef4363fdccea2aa38f372a2ada328b35e9c45129) | feat(ace): add prompt Vim visual mode (sase-4l.2) | 2026-06-12 13:43:38 EDT |
 
 ## Neighbors
 

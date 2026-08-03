@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ef87e5e`](https://github.com/sase-org/sase/commit/ef87e5edf3938440c05eb882e9f8f1e751798af2) | chore: Add SDD prompt and plan for episode\_id\_portability | 2026-05-31 19:26:15 |
-| sase | [`91ec3e1`](https://github.com/sase-org/sase/commit/91ec3e1a56f7210f2e6b3daea2d6d8ef7c612d93) | fix: make episode IDs portable across roots | 2026-05-31 19:41:08 |
+| sase | [`ef87e5e`](https://github.com/sase-org/sase/commit/ef87e5edf3938440c05eb882e9f8f1e751798af2) | chore: Add SDD prompt and plan for episode\_id\_portability | 2026-05-31 15:26:15 EDT |
+| sase | [`91ec3e1`](https://github.com/sase-org/sase/commit/91ec3e1a56f7210f2e6b3daea2d6d8ef7c612d93) | fix: make episode IDs portable across roots | 2026-05-31 15:41:08 EDT |

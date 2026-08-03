@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2db0294`](https://github.com/sase-org/sase/commit/2db0294503abebfc71b91867b52f2450d778af34) | chore: extend tagged agent revival sets research | 2026-05-26 23:55:49 |
+| sase | [`2db0294`](https://github.com/sase-org/sase/commit/2db0294503abebfc71b91867b52f2450d778af34) | chore: extend tagged agent revival sets research | 2026-05-26 19:55:49 EDT |
 
 ## Neighbors
 

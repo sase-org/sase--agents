@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7d85188`](https://github.com/sase-org/sase/commit/7d85188c18080e4e986e8fd65394144c8ae9ce2f) | test(skills): cover backwards manifest ABA refusal (sase-ae) | 2026-07-28 14:11:00 |
+| sase | [`7d85188`](https://github.com/sase-org/sase/commit/7d85188c18080e4e986e8fd65394144c8ae9ce2f) | test(skills): cover backwards manifest ABA refusal (sase-ae) | 2026-07-28 10:11:00 EDT |
 
 ## Neighbors
 

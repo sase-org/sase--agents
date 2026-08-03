@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5a5e721`](https://github.com/sase-org/sase/commit/5a5e7217c1dcd43925a24e1ee320260687f10346) | chore: Add SDD prompt and plan for plugins\_tab | 2026-06-26 13:35:58 |
-| sase | [`7bb7b28`](https://github.com/sase-org/sase/commit/7bb7b287a70a573c95b75104e19a6086934023fb) | chore: create plugins tab epic beads | 2026-06-26 13:46:04 |
+| sase | [`5a5e721`](https://github.com/sase-org/sase/commit/5a5e7217c1dcd43925a24e1ee320260687f10346) | chore: Add SDD prompt and plan for plugins\_tab | 2026-06-26 09:35:58 EDT |
+| sase | [`7bb7b28`](https://github.com/sase-org/sase/commit/7bb7b287a70a573c95b75104e19a6086934023fb) | chore: create plugins tab epic beads | 2026-06-26 09:46:04 EDT |
 
 ## Neighbors
 

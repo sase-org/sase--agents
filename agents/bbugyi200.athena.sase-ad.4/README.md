@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5842f04`](https://github.com/sase-org/sase/commit/5842f04af4d3eabebed72d81b64a6bec477125a3) | feat: surface agent publication outbox health (sase-ad.4) | 2026-07-28 12:48:50 |
+| sase | [`5842f04`](https://github.com/sase-org/sase/commit/5842f04af4d3eabebed72d81b64a6bec477125a3) | feat: surface agent publication outbox health (sase-ad.4) | 2026-07-28 08:48:50 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1e9bfc9`](https://github.com/sase-org/sase/commit/1e9bfc9c50b6d9e6ceb40d7e0fff7150ec36ed3f) | feat(plans): add shared plan filter bar (sase-6t.2) | 2026-07-18 15:02:09 |
+| sase | [`1e9bfc9`](https://github.com/sase-org/sase/commit/1e9bfc9c50b6d9e6ceb40d7e0fff7150ec36ed3f) | feat(plans): add shared plan filter bar (sase-6t.2) | 2026-07-18 11:02:09 EDT |
 
 ## Neighbors
 

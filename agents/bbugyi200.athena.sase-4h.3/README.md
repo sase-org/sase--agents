@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fa6b12d`](https://github.com/sase-org/sase/commit/fa6b12d6aebdd38dfb77f6324b473cae3e97d61f) | feat: add runtime version command (sase-4h.3) | 2026-06-08 20:28:00 |
+| sase | [`fa6b12d`](https://github.com/sase-org/sase/commit/fa6b12d6aebdd38dfb77f6324b473cae3e97d61f) | feat: add runtime version command (sase-4h.3) | 2026-06-08 16:28:00 EDT |
 
 ## Neighbors
 

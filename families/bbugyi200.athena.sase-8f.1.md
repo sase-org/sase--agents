@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`0ed5505`](https://github.com/sase-org/sase/commit/0ed55056f9acfb6ec60adba4b9d4330cacc4043d) | feat(beads): expose atomic agent launch claims (sase-8f.1) | 2026-07-20 20:21:27 |
+| code | sase | [`0ed5505`](https://github.com/sase-org/sase/commit/0ed55056f9acfb6ec60adba4b9d4330cacc4043d) | feat(beads): expose atomic agent launch claims (sase-8f.1) | 2026-07-20 16:21:27 EDT |
 
 ## Neighbors
 

@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ce12818`](https://github.com/sase-org/sase/commit/ce128180aab455b120fe453155aa287fb4429834) | fix(tui): preserve tribe fold intent across updates | 2026-07-20 14:51:21 |
+| sase | [`ce12818`](https://github.com/sase-org/sase/commit/ce128180aab455b120fe453155aa287fb4429834) | fix(tui): preserve tribe fold intent across updates | 2026-07-20 10:51:21 EDT |

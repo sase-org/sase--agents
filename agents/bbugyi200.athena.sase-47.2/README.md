@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5d20c67`](https://github.com/sase-org/sase/commit/5d20c67579a30de947d43b35619594f74554b05f) | feat: add non-killing agent group save flow (sase-47.2) | 2026-05-27 16:56:03 |
+| sase | [`5d20c67`](https://github.com/sase-org/sase/commit/5d20c67579a30de947d43b35619594f74554b05f) | feat: add non-killing agent group save flow (sase-47.2) | 2026-05-27 12:56:03 EDT |
 
 ## Neighbors
 

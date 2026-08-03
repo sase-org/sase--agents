@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`05a8b9e`](https://github.com/sase-org/sase/commit/05a8b9e6947eb728b67dddfffae81a3a9d6c6f62) | feat: add shared project alias services (sase-4d.1) | 2026-06-06 13:29:46 |
+| sase | [`05a8b9e`](https://github.com/sase-org/sase/commit/05a8b9e6947eb728b67dddfffae81a3a9d6c6f62) | feat: add shared project alias services (sase-4d.1) | 2026-06-06 09:29:46 EDT |
 
 ## Neighbors
 

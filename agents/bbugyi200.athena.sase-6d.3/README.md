@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`21dfb11`](https://github.com/sase-org/sase/commit/21dfb110a47f7e45cbff8199d58b3e9e32c3745a) | feat(memory): migrate runtime to canonical sase paths (sase-6d.3) | 2026-07-16 17:44:50 |
+| sase | [`21dfb11`](https://github.com/sase-org/sase/commit/21dfb110a47f7e45cbff8199d58b3e9e32c3745a) | feat(memory): migrate runtime to canonical sase paths (sase-6d.3) | 2026-07-16 13:44:50 EDT |
 
 ## Neighbors
 

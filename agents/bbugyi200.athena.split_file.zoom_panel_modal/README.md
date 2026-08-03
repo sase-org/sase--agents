@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`61123e9`](https://github.com/sase-org/sase/commit/61123e9d8508cec6c4786a46c40463a8f41c2f1c) | refactor(tui): split zoom panel modal | 2026-07-07 21:32:23 |
+| sase | [`61123e9`](https://github.com/sase-org/sase/commit/61123e9d8508cec6c4786a46c40463a8f41c2f1c) | refactor(tui): split zoom panel modal | 2026-07-07 17:32:23 EDT |
 
 ## Neighbors
 

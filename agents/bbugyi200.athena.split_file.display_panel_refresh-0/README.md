@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`31feef1`](https://github.com/sase-org/sase/commit/31feef1fd8d6b274ba7c3a1421e50c71286ea554) | refactor(ace): split panel refresh responsibilities | 2026-07-17 11:26:17 |
+| sase | [`31feef1`](https://github.com/sase-org/sase/commit/31feef1fd8d6b274ba7c3a1421e50c71286ea554) | refactor(ace): split panel refresh responsibilities | 2026-07-17 07:26:17 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`56031dd`](https://github.com/sase-org/sase/commit/56031ddb995c4454c250e8f48e8af42943393cfa) | refactor(linked\_repos): migrate runtime call-sites to canonical module (sase-51.2) | 2026-06-20 19:02:39 |
+| sase | [`56031dd`](https://github.com/sase-org/sase/commit/56031ddb995c4454c250e8f48e8af42943393cfa) | refactor(linked\_repos): migrate runtime call-sites to canonical module (sase-51.2) | 2026-06-20 15:02:39 EDT |
 
 ## Neighbors
 

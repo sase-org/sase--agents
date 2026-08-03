@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`37163d5`](https://github.com/sase-org/sase/commit/37163d50647f0f67da5831628d3bd8504b73dec1) | chore: Add SDD prompt and plan for fix\_agent\_completion\_text\_muted\_style | 2026-06-25 12:04:39 |
-| sase | [`092d37c`](https://github.com/sase-org/sase/commit/092d37c365a80e653b5b0937fea0aa753e4ac19e) | fix(tui): use rich parseable agent status fallback | 2026-06-25 12:10:18 |
+| sase | [`37163d5`](https://github.com/sase-org/sase/commit/37163d50647f0f67da5831628d3bd8504b73dec1) | chore: Add SDD prompt and plan for fix\_agent\_completion\_text\_muted\_style | 2026-06-25 08:04:39 EDT |
+| sase | [`092d37c`](https://github.com/sase-org/sase/commit/092d37c365a80e653b5b0937fea0aa753e4ac19e) | fix(tui): use rich parseable agent status fallback | 2026-06-25 08:10:18 EDT |
 
 ## Neighbors
 

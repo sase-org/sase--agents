@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2acd455`](https://github.com/sase-org/sase/commit/2acd455376d80b50cee81f0e956c40af6815d75a) | chore: Add SDD prompt and plan for failed\_launch\_prompt\_stash | 2026-06-19 13:15:06 |
-| sase | [`1ffc49b`](https://github.com/sase-org/sase/commit/1ffc49b0f93b57598b3f8482d5af16ab69408b6d) | feat(launch): preserve submitted prompt when an agent launch fails | 2026-06-19 13:46:20 |
+| sase | [`2acd455`](https://github.com/sase-org/sase/commit/2acd455376d80b50cee81f0e956c40af6815d75a) | chore: Add SDD prompt and plan for failed\_launch\_prompt\_stash | 2026-06-19 09:15:06 EDT |
+| sase | [`1ffc49b`](https://github.com/sase-org/sase/commit/1ffc49b0f93b57598b3f8482d5af16ab69408b6d) | feat(launch): preserve submitted prompt when an agent launch fails | 2026-06-19 09:46:20 EDT |
 
 ## Neighbors
 

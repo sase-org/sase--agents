@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f593eca`](https://github.com/sase-org/sase/commit/f593eca04f2279b35c41e05472e21a3ca5cf3224) | feat: unify plan reference resolution across readers (sase-9z.2) | 2026-07-27 13:54:47 |
+| sase | [`f593eca`](https://github.com/sase-org/sase/commit/f593eca04f2279b35c41e05472e21a3ca5cf3224) | feat: unify plan reference resolution across readers (sase-9z.2) | 2026-07-27 09:54:47 EDT |
 
 ## Neighbors
 

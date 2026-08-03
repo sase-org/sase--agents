@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`c8abfe2`](https://github.com/sase-org/sase/commit/c8abfe29f6653fa5615051157e470c4e5dd8ddba) | feat(ace): load linked plans in artifact details | 2026-07-18 21:00:34 |
+| code | sase | [`c8abfe2`](https://github.com/sase-org/sase/commit/c8abfe29f6653fa5615051157e470c4e5dd8ddba) | feat(ace): load linked plans in artifact details | 2026-07-18 17:00:34 EDT |
 
 ## Neighbors
 

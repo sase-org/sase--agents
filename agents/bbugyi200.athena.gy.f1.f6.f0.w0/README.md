@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d57e220`](https://github.com/sase-org/sase/commit/d57e2207c097dd7fc097f7267e700db5727c3bde) | feat(ace): show model pool effort details | 2026-07-21 15:35:08 |
+| sase | [`d57e220`](https://github.com/sase-org/sase/commit/d57e2207c097dd7fc097f7267e700db5727c3bde) | feat(ace): show model pool effort details | 2026-07-21 11:35:08 EDT |
 
 ## Neighbors
 

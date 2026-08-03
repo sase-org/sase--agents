@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e0644ef`](https://github.com/sase-org/sase/commit/e0644efad3b457e2a2196c89ef0c19f067e6bdfe) | chore: Add SDD prompt and plan for jinja\_diagnostics\_known\_vars | 2026-06-27 15:43:03 |
-| sase | [`9eb77c1`](https://github.com/sase-org/sase/commit/9eb77c1dd4683024e9dffb765989ad4dcaeba080) | fix: recognize prompt jinja runtime variables | 2026-06-27 15:50:40 |
+| sase | [`e0644ef`](https://github.com/sase-org/sase/commit/e0644efad3b457e2a2196c89ef0c19f067e6bdfe) | chore: Add SDD prompt and plan for jinja\_diagnostics\_known\_vars | 2026-06-27 11:43:03 EDT |
+| sase | [`9eb77c1`](https://github.com/sase-org/sase/commit/9eb77c1dd4683024e9dffb765989ad4dcaeba080) | fix: recognize prompt jinja runtime variables | 2026-06-27 11:50:40 EDT |

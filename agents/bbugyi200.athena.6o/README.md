@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fd0a3c5`](https://github.com/sase-org/sase/commit/fd0a3c53c3c8aa4aae17313ad63c577e5a4ed5f0) | feat(tui): add prompt stash leader shortcut | 2026-07-12 13:53:29 |
+| sase | [`fd0a3c5`](https://github.com/sase-org/sase/commit/fd0a3c53c3c8aa4aae17313ad63c577e5a4ed5f0) | feat(tui): add prompt stash leader shortcut | 2026-07-12 09:53:29 EDT |

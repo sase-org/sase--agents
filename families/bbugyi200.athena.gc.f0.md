@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`46c3a9f`](https://github.com/sase-org/sase/commit/46c3a9fdd308314f9450bcc31a550144fbffcdf4) | feat(ace): polish Admin Center landing | 2026-07-20 17:24:05 |
+| code | sase | [`46c3a9f`](https://github.com/sase-org/sase/commit/46c3a9fdd308314f9450bcc31a550144fbffcdf4) | feat(ace): polish Admin Center landing | 2026-07-20 13:24:05 EDT |
 
 ## Neighbors
 

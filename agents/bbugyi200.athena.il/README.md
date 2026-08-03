@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7ba379f`](https://github.com/sase-org/sase/commit/7ba379f49d84512ca1f3ef6f597955e7be1a9c6f) | fix: show source plan basename in approval toasts | 2026-07-22 17:04:11 |
+| sase | [`7ba379f`](https://github.com/sase-org/sase/commit/7ba379f49d84512ca1f3ef6f597955e7be1a9c6f) | fix: show source plan basename in approval toasts | 2026-07-22 13:04:11 EDT |

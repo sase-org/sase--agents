@@ -15,11 +15,11 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fb52c91`](https://github.com/sase-org/sase/commit/fb52c91aa839219c3aba4486a17d35550167ad99) | chore: Add SDD prompt and plan for vcs\_project\_completion\_hash\_plus\_trigger | 2026-06-19 18:54:46 |
-| sase | [`909b2cd`](https://github.com/sase-org/sase/commit/909b2cd9c8904e032ce65613c13111c0177a5ab6) | feat!: require #+ for VCS project completions | 2026-06-19 19:20:15 |
-| sase | [`e3b1475`](https://github.com/sase-org/sase/commit/e3b1475678c2999a57229c20dbed33e3faeec308) | fix: disable sase\_plan skill-use logging | 2026-06-19 19:21:02 |
+| sase | [`fb52c91`](https://github.com/sase-org/sase/commit/fb52c91aa839219c3aba4486a17d35550167ad99) | chore: Add SDD prompt and plan for vcs\_project\_completion\_hash\_plus\_trigger | 2026-06-19 14:54:46 EDT |
+| sase | [`909b2cd`](https://github.com/sase-org/sase/commit/909b2cd9c8904e032ce65613c13111c0177a5ab6) | feat!: require #+ for VCS project completions | 2026-06-19 15:20:15 EDT |
+| sase | [`e3b1475`](https://github.com/sase-org/sase/commit/e3b1475678c2999a57229c20dbed33e3faeec308) | fix: disable sase\_plan skill-use logging | 2026-06-19 15:21:02 EDT |
 
 ## Neighbors
 

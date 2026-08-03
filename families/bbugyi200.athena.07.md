@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`62cd6e6`](https://github.com/sase-org/sase/commit/62cd6e6fc7323fce87da99a28a2bfdd01f90be30) | chore: Add SDD prompt and plan for chat\_header\_bullets | 2026-06-02 20:49:31 |
-| root | sase | [`eb06ca9`](https://github.com/sase-org/sase/commit/eb06ca9fe4b45d0fb6a96d7ecc9c65d945f91f89) | feat: format chat metadata as bullets | 2026-06-02 20:54:53 |
-| root | sase | [`da5324d`](https://github.com/sase-org/sase/commit/da5324ddaa0cd525c5089436566b7f3153072749) | chore: Add SDD prompt and plan for plugins\_marked\_batch\_install | 2026-07-07 04:04:43 |
-| root | sase | [`cc894cb`](https://github.com/sase-org/sase/commit/cc894cb17bad89c8ed0bb3f730480996f2417888) | feat: install marked plugins in one operation | 2026-07-07 04:27:00 |
+| root | sase | [`62cd6e6`](https://github.com/sase-org/sase/commit/62cd6e6fc7323fce87da99a28a2bfdd01f90be30) | chore: Add SDD prompt and plan for chat\_header\_bullets | 2026-06-02 16:49:31 EDT |
+| root | sase | [`eb06ca9`](https://github.com/sase-org/sase/commit/eb06ca9fe4b45d0fb6a96d7ecc9c65d945f91f89) | feat: format chat metadata as bullets | 2026-06-02 16:54:53 EDT |
+| root | sase | [`da5324d`](https://github.com/sase-org/sase/commit/da5324ddaa0cd525c5089436566b7f3153072749) | chore: Add SDD prompt and plan for plugins\_marked\_batch\_install | 2026-07-07 00:04:43 EDT |
+| root | sase | [`cc894cb`](https://github.com/sase-org/sase/commit/cc894cb17bad89c8ed0bb3f730480996f2417888) | feat: install marked plugins in one operation | 2026-07-07 00:27:00 EDT |

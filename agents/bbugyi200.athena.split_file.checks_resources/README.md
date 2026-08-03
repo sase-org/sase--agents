@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`39b7dca`](https://github.com/sase-org/sase/commit/39b7dcab9150c04f21bf4dceb418e7e2155d1286) | refactor(doctor): split resource checks by concern | 2026-07-08 21:44:56 |
+| sase | [`39b7dca`](https://github.com/sase-org/sase/commit/39b7dcab9150c04f21bf4dceb418e7e2155d1286) | refactor(doctor): split resource checks by concern | 2026-07-08 17:44:56 EDT |
 
 ## Neighbors
 

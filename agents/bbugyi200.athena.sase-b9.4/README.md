@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0d01edb`](https://github.com/sase-org/sase/commit/0d01edb911a117c69515ba1947c8d0f904e3c458) | docs(artifacts): document artifact consumption ledger | 2026-07-30 16:39:50 |
+| sase | [`0d01edb`](https://github.com/sase-org/sase/commit/0d01edb911a117c69515ba1947c8d0f904e3c458) | docs(artifacts): document artifact consumption ledger | 2026-07-30 12:39:50 EDT |
 
 ## Neighbors
 

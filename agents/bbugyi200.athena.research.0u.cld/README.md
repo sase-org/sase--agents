@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5ad8673`](https://github.com/sase-org/sase/commit/5ad86738c375645de32abd05d41a08d11f69e2c7) | docs: add blog-launch audit of xprompts, agents tab, and TUI | 2026-07-02 19:23:18 |
+| sase | [`5ad8673`](https://github.com/sase-org/sase/commit/5ad86738c375645de32abd05d41a08d11f69e2c7) | docs: add blog-launch audit of xprompts, agents tab, and TUI | 2026-07-02 15:23:18 EDT |
 
 ## Neighbors
 

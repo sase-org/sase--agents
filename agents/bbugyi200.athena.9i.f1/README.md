@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4779fcb`](https://github.com/sase-org/sase/commit/4779fcbc57e6ead87c01e110e9ca85493d2d23df) | feat(ace): show epic phase roadmaps | 2026-07-15 19:18:39 |
+| sase | [`4779fcb`](https://github.com/sase-org/sase/commit/4779fcbc57e6ead87c01e110e9ca85493d2d23df) | feat(ace): show epic phase roadmaps | 2026-07-15 15:18:39 EDT |
 
 ## Neighbors
 

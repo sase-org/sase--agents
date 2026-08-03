@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4b083e8`](https://github.com/sase-org/sase/commit/4b083e8332f2f2c82439b441294c76cd14c3243d) | feat(stats): show concise range summary | 2026-07-20 17:04:35 |
+| sase | [`4b083e8`](https://github.com/sase-org/sase/commit/4b083e8332f2f2c82439b441294c76cd14c3243d) | feat(stats): show concise range summary | 2026-07-20 13:04:35 EDT |

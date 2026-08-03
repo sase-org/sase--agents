@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`627b0b3`](https://github.com/sase-org/sase/commit/627b0b377c15b3c7ad322333fc38303b840defe7) | fix(tui): keep TODO markers legible | 2026-07-22 14:03:38 |
+| code | sase | [`627b0b3`](https://github.com/sase-org/sase/commit/627b0b377c15b3c7ad322333fc38303b840defe7) | fix(tui): keep TODO markers legible | 2026-07-22 10:03:38 EDT |
 
 ## Neighbors
 

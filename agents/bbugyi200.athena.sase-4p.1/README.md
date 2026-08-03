@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5aef3e0`](https://github.com/sase-org/sase/commit/5aef3e0914fd91429450942dcd41b1a7902e5da0) | feat(ace): add prompt stack data model and canonical split/join (sase-4p.1) | 2026-06-15 22:06:52 |
+| sase | [`5aef3e0`](https://github.com/sase-org/sase/commit/5aef3e0914fd91429450942dcd41b1a7902e5da0) | feat(ace): add prompt stack data model and canonical split/join (sase-4p.1) | 2026-06-15 18:06:52 EDT |
 
 ## Neighbors
 

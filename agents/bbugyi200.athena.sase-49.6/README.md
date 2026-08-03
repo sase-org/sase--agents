@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d5570e2`](https://github.com/sase-org/sase/commit/d5570e2bba5eb563e9acfdcf23065e82368deb89) | chore: document project lifecycle completion (sase-49.6) | 2026-06-01 18:43:16 |
+| sase | [`d5570e2`](https://github.com/sase-org/sase/commit/d5570e2bba5eb563e9acfdcf23065e82368deb89) | chore: document project lifecycle completion (sase-49.6) | 2026-06-01 14:43:16 EDT |
 
 ## Neighbors
 

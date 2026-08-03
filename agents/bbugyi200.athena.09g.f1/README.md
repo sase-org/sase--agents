@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bb9515c`](https://github.com/sase-org/sase/commit/bb9515caa23e8c08c22d7b92ba11307e5c55a47f) | chore: Add SDD prompt and plan for close\_admin\_center\_on\_sase\_update\_confirm | 2026-06-29 11:17:59 |
-| sase | [`f33532d`](https://github.com/sase-org/sase/commit/f33532d9d66ae8894fbec264bc541a1609f9463c) | feat(tui): close Admin Center after confirming full SASE update | 2026-06-29 11:31:59 |
+| sase | [`bb9515c`](https://github.com/sase-org/sase/commit/bb9515caa23e8c08c22d7b92ba11307e5c55a47f) | chore: Add SDD prompt and plan for close\_admin\_center\_on\_sase\_update\_confirm | 2026-06-29 07:17:59 EDT |
+| sase | [`f33532d`](https://github.com/sase-org/sase/commit/f33532d9d66ae8894fbec264bc541a1609f9463c) | feat(tui): close Admin Center after confirming full SASE update | 2026-06-29 07:31:59 EDT |
 
 ## Neighbors
 

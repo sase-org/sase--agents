@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`900c75f`](https://github.com/sase-org/sase/commit/900c75f5b1ef2e28d42b4bd593708b5228d3cf41) | feat: support multi-parent fork conversations (sase-6m.2) | 2026-07-17 20:18:21 |
+| sase | [`900c75f`](https://github.com/sase-org/sase/commit/900c75f5b1ef2e28d42b4bd593708b5228d3cf41) | feat: support multi-parent fork conversations (sase-6m.2) | 2026-07-17 16:18:21 EDT |
 
 ## Neighbors
 

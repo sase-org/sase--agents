@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`38f64ca`](https://github.com/sase-org/sase/commit/38f64ca8e8c48c56e0a719e62e9b3f478aec67eb) | fix(tui): prevent bead warmup pump stalls | 2026-07-12 21:20:56 |
+| sase | [`38f64ca`](https://github.com/sase-org/sase/commit/38f64ca8e8c48c56e0a719e62e9b3f478aec67eb) | fix(tui): prevent bead warmup pump stalls | 2026-07-12 17:20:56 EDT |

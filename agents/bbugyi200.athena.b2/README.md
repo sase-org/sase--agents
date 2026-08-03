@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5346d2e`](https://github.com/sase-org/sase/commit/5346d2edf32ddae932d19009650dce2448401365) | feat(ace): enrich agent view hints asynchronously | 2026-07-16 22:03:11 |
+| sase | [`5346d2e`](https://github.com/sase-org/sase/commit/5346d2edf32ddae932d19009650dce2448401365) | feat(ace): enrich agent view hints asynchronously | 2026-07-16 18:03:11 EDT |

@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`aace448`](https://github.com/sase-org/sase/commit/aace4488ded58da60877f75972abd48bd2156c7c) | fix(llm): route provider coder aliases through shared coder default | 2026-08-03 13:05:12 |
+| code | sase | [`aace448`](https://github.com/sase-org/sase/commit/aace4488ded58da60877f75972abd48bd2156c7c) | fix(llm): route provider coder aliases through shared coder default | 2026-08-03 09:05:12 EDT |

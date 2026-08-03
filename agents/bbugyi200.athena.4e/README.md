@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`40696be`](https://github.com/sase-org/sase/commit/40696be4f10668e74588d1dc16e59a29831d9155) | chore: Add SDD prompt and plan for github\_ci\_sase\_version\_skew | 2026-06-09 19:53:48 |
-| sase | [`22d3906`](https://github.com/sase-org/sase/commit/22d3906155cf97804938ddc70beb55168009ce6b) | fix(notifications): limit completion image attachments | 2026-07-10 14:40:46 |
+| sase | [`40696be`](https://github.com/sase-org/sase/commit/40696be4f10668e74588d1dc16e59a29831d9155) | chore: Add SDD prompt and plan for github\_ci\_sase\_version\_skew | 2026-06-09 15:53:48 EDT |
+| sase | [`22d3906`](https://github.com/sase-org/sase/commit/22d3906155cf97804938ddc70beb55168009ce6b) | fix(notifications): limit completion image attachments | 2026-07-10 10:40:46 EDT |

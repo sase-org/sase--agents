@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6a8968a`](https://github.com/sase-org/sase/commit/6a8968aba3b194bc7ba34a52a94396618544d06f) | chore: Add SDD prompt and plan for preserve\_workspace\_claim\_during\_plan\_handoff | 2026-06-28 12:24:38 |
-| sase | [`7a00e22`](https://github.com/sase-org/sase/commit/7a00e22079cd2fd055ab7b0101ffb1019570d6f7) | fix: preserve workspace claims during handoff | 2026-06-28 12:44:28 |
+| sase | [`6a8968a`](https://github.com/sase-org/sase/commit/6a8968aba3b194bc7ba34a52a94396618544d06f) | chore: Add SDD prompt and plan for preserve\_workspace\_claim\_during\_plan\_handoff | 2026-06-28 08:24:38 EDT |
+| sase | [`7a00e22`](https://github.com/sase-org/sase/commit/7a00e22079cd2fd055ab7b0101ffb1019570d6f7) | fix: preserve workspace claims during handoff | 2026-06-28 08:44:28 EDT |
 
 ## Neighbors
 

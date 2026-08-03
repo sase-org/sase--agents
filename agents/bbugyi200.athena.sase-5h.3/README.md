@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6405eac`](https://github.com/sase-org/sase/commit/6405eac1a3d3df9a29fd95e44c941e3d10734119) | feat(ace): add VCS repo completion menu (sase-5h.3) | 2026-07-07 18:16:52 |
+| sase | [`6405eac`](https://github.com/sase-org/sase/commit/6405eac1a3d3df9a29fd95e44c941e3d10734119) | feat(ace): add VCS repo completion menu (sase-5h.3) | 2026-07-07 14:16:52 EDT |
 
 ## Neighbors
 

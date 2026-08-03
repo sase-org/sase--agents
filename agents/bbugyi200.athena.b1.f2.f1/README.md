@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6b84f2a`](https://github.com/sase-org/sase/commit/6b84f2add16e3e28af29837d2c6189ab9b76c1ed) | feat(ace): add ranked artifacts context lane | 2026-07-16 23:00:10 |
-| sase | [`b296828`](https://github.com/sase-org/sase/commit/b29682808132418e06eb4601f7c6a7b6d2e2a715) | fix(ace): keep artifact fields under context navigation | 2026-07-16 23:11:44 |
+| sase | [`6b84f2a`](https://github.com/sase-org/sase/commit/6b84f2add16e3e28af29837d2c6189ab9b76c1ed) | feat(ace): add ranked artifacts context lane | 2026-07-16 19:00:10 EDT |
+| sase | [`b296828`](https://github.com/sase-org/sase/commit/b29682808132418e06eb4601f7c6a7b6d2e2a715) | fix(ace): keep artifact fields under context navigation | 2026-07-16 19:11:44 EDT |
 
 ## Neighbors
 

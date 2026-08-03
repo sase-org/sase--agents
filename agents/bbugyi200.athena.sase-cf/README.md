@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c27c056`](https://github.com/sase-org/sase/commit/c27c056c35fe84587cec17853ee55ad88523f282) | test: isolate suite-gate child pytest temp roots | 2026-08-03 10:55:59 |
+| sase | [`c27c056`](https://github.com/sase-org/sase/commit/c27c056c35fe84587cec17853ee55ad88523f282) | test: isolate suite-gate child pytest temp roots | 2026-08-03 06:55:59 EDT |

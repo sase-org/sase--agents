@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7931c7e`](https://github.com/sase-org/sase/commit/7931c7e57f44c45c2db3092ab4409408b7079ec0) | feat(llm): support agy provider in skill init (sase-50.4) | 2026-06-20 00:25:53 |
+| sase | [`7931c7e`](https://github.com/sase-org/sase/commit/7931c7e57f44c45c2db3092ab4409408b7079ec0) | feat(llm): support agy provider in skill init (sase-50.4) | 2026-06-19 20:25:53 EDT |
 
 ## Neighbors
 

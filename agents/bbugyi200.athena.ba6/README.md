@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`28ed335`](https://github.com/sase-org/sase/commit/28ed335aee4058f2abbdb22e68a0c52b0f248578) | chore: remove reverted notification mute tag tests | 2026-05-24 20:44:54 |
+| sase | [`28ed335`](https://github.com/sase-org/sase/commit/28ed335aee4058f2abbdb22e68a0c52b0f248578) | chore: remove reverted notification mute tag tests | 2026-05-24 16:44:54 EDT |

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`32d8dfd`](https://github.com/sase-org/sase/commit/32d8dfd2d746ceaa05dc039ea5c84465819ab22f) | feat(prompt): add doctor, delete, and prune maintenance commands (sase-4o.3) | 2026-06-13 19:30:47 |
+| sase | [`32d8dfd`](https://github.com/sase-org/sase/commit/32d8dfd2d746ceaa05dc039ea5c84465819ab22f) | feat(prompt): add doctor, delete, and prune maintenance commands (sase-4o.3) | 2026-06-13 15:30:47 EDT |
 
 ## Neighbors
 

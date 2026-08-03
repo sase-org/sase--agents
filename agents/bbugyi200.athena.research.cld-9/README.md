@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`97f8e6c`](https://github.com/sase-org/sase/commit/97f8e6c1031e58fe6be824ff357b69b51522ed83) | chore: add agent launch UX and family types research memo | 2026-06-04 23:36:25 |
+| sase | [`97f8e6c`](https://github.com/sase-org/sase/commit/97f8e6c1031e58fe6be824ff357b69b51522ed83) | chore: add agent launch UX and family types research memo | 2026-06-04 19:36:25 EDT |
 
 ## Neighbors
 

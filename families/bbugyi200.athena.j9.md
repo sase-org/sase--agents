@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`215721f`](https://github.com/sase-org/sase/commit/215721fd5a17f70ba42937223cd3db84411a66a3) | feat(pdf): render plan frontmatter as properties cards | 2026-07-23 17:01:34 |
+| code | sase | [`215721f`](https://github.com/sase-org/sase/commit/215721fd5a17f70ba42937223cd3db84411a66a3) | feat(pdf): render plan frontmatter as properties cards | 2026-07-23 13:01:34 EDT |

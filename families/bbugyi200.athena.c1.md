@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`05dc1db`](https://github.com/sase-org/sase/commit/05dc1db089965775e5f20be4dcacda66a60411a4) | fix: contain scrollable update commit previews | 2026-07-17 16:15:15 |
-| root | sase | [`05dc1db`](https://github.com/sase-org/sase/commit/05dc1db089965775e5f20be4dcacda66a60411a4) | fix: contain scrollable update commit previews | 2026-07-17 16:15:15 |
+| code | sase | [`05dc1db`](https://github.com/sase-org/sase/commit/05dc1db089965775e5f20be4dcacda66a60411a4) | fix: contain scrollable update commit previews | 2026-07-17 12:15:15 EDT |
+| root | sase | [`05dc1db`](https://github.com/sase-org/sase/commit/05dc1db089965775e5f20be4dcacda66a60411a4) | fix: contain scrollable update commit previews | 2026-07-17 12:15:15 EDT |

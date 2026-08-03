@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f1d326c`](https://github.com/sase-org/sase/commit/f1d326c90e43747e2c1252e7bf9e6cd55e5b5083) | chore: Add SDD prompt and plan for agy\_workspace\_dir\_leak | 2026-06-23 12:47:06 |
-| sase | [`86a71ec`](https://github.com/sase-org/sase/commit/86a71ecda860f43a344a15d26be29d7ce5277fb4) | fix(agy): ignore stale workspace pins | 2026-06-23 12:55:44 |
+| sase | [`f1d326c`](https://github.com/sase-org/sase/commit/f1d326c90e43747e2c1252e7bf9e6cd55e5b5083) | chore: Add SDD prompt and plan for agy\_workspace\_dir\_leak | 2026-06-23 08:47:06 EDT |
+| sase | [`86a71ec`](https://github.com/sase-org/sase/commit/86a71ecda860f43a344a15d26be29d7ce5277fb4) | fix(agy): ignore stale workspace pins | 2026-06-23 08:55:44 EDT |

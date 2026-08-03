@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`3d5fe9c`](https://github.com/sase-org/sase/commit/3d5fe9c50a8e3d68f04bf1a5a033247e65f79c0a) | fix: complete Symvision migration recovery (sase-5t.5) | 2026-07-13 11:04:43 |
+| root | sase | [`3d5fe9c`](https://github.com/sase-org/sase/commit/3d5fe9c50a8e3d68f04bf1a5a033247e65f79c0a) | fix: complete Symvision migration recovery (sase-5t.5) | 2026-07-13 07:04:43 EDT |

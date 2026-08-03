@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`53b6e8c`](https://github.com/sase-org/sase/commit/53b6e8cec499261de0e4dc6117089cb049743478) | docs: clarify bead search and research docs | 2026-06-18 23:08:53 |
+| sase | [`53b6e8c`](https://github.com/sase-org/sase/commit/53b6e8cec499261de0e4dc6117089cb049743478) | docs: clarify bead search and research docs | 2026-06-18 19:08:53 EDT |
 
 ## Neighbors
 

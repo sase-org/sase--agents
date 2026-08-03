@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c8005ce`](https://github.com/sase-org/sase/commit/c8005cef680842888a26a984d07cad6cbb799f1b) | ref: split file completion widget helpers | 2026-06-06 19:34:24 |
+| sase | [`c8005ce`](https://github.com/sase-org/sase/commit/c8005cef680842888a26a984d07cad6cbb799f1b) | ref: split file completion widget helpers | 2026-06-06 15:34:24 EDT |
 
 ## Neighbors
 

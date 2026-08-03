@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3ae2008`](https://github.com/sase-org/sase/commit/3ae2008ee12a6b1875f71590a98eabcd464261c2) | feat(tui): add deep tribe detail enrichment (sase-6z.4) | 2026-07-19 04:13:48 |
+| sase | [`3ae2008`](https://github.com/sase-org/sase/commit/3ae2008ee12a6b1875f71590a98eabcd464261c2) | feat(tui): add deep tribe detail enrichment (sase-6z.4) | 2026-07-19 00:13:48 EDT |
 
 ## Neighbors
 

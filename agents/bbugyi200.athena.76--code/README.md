@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4518dc1`](https://github.com/sase-org/sase/commit/4518dc19dd8c68e3f2377630dd35c1e54fc17dcb) | feat: hold failed agent workspaces until dismissal | 2026-07-12 20:43:41 |
+| sase | [`4518dc1`](https://github.com/sase-org/sase/commit/4518dc19dd8c68e3f2377630dd35c1e54fc17dcb) | feat: hold failed agent workspaces until dismissal | 2026-07-12 16:43:41 EDT |

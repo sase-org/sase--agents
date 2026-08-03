@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`4330f6f`](https://github.com/sase-org/sase/commit/4330f6f2c92357d3204b930ba334003e4b386bae) | fix(tui): hide commit message bookkeeping deltas | 2026-07-09 17:35:26 |
+| root | sase | [`4330f6f`](https://github.com/sase-org/sase/commit/4330f6f2c92357d3204b930ba334003e4b386bae) | fix(tui): hide commit message bookkeeping deltas | 2026-07-09 13:35:26 EDT |
 
 ## Neighbors
 

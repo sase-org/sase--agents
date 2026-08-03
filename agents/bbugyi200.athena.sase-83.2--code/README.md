@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c82006b`](https://github.com/sase-org/sase/commit/c82006bdca22a7c010d933923a1fcddbd4ac288a) | feat(ace): add snapshot-gated comprehensive updates (sase-83.2) | 2026-07-20 15:42:41 |
+| sase | [`c82006b`](https://github.com/sase-org/sase/commit/c82006bdca22a7c010d933923a1fcddbd4ac288a) | feat(ace): add snapshot-gated comprehensive updates (sase-83.2) | 2026-07-20 11:42:41 EDT |
 
 ## Neighbors
 

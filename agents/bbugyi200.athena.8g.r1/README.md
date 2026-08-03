@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3cd39b7`](https://github.com/sase-org/sase/commit/3cd39b7a79c941f5a01e0c89162bd07d0fad82c5) | chore: Add SDD prompt and plan for ace\_tui\_startup\_perf | 2026-06-16 01:02:40 |
-| sase | [`94af722`](https://github.com/sase-org/sase/commit/94af72277d063c971a71ea0a32530fb57a19d094) | perf(ace): defer live diff hints out of the agents startup loader | 2026-06-16 01:27:36 |
+| sase | [`3cd39b7`](https://github.com/sase-org/sase/commit/3cd39b7a79c941f5a01e0c89162bd07d0fad82c5) | chore: Add SDD prompt and plan for ace\_tui\_startup\_perf | 2026-06-15 21:02:40 EDT |
+| sase | [`94af722`](https://github.com/sase-org/sase/commit/94af72277d063c971a71ea0a32530fb57a19d094) | perf(ace): defer live diff hints out of the agents startup loader | 2026-06-15 21:27:36 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`21e7527`](https://github.com/sase-org/sase/commit/21e75272f628e4ce84bfe55453f2cb5fe55950e4) | feat: add snapshot-driven tribe wait binding resolver | 2026-07-28 21:23:44 |
+| sase | [`21e7527`](https://github.com/sase-org/sase/commit/21e75272f628e4ce84bfe55453f2cb5fe55950e4) | feat: add snapshot-driven tribe wait binding resolver | 2026-07-28 17:23:44 EDT |
 
 ## Neighbors
 

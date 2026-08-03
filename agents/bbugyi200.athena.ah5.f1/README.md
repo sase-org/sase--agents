@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`45eae6b`](https://github.com/sase-org/sase/commit/45eae6bfadb06d1bd7d9fa7707f89c8d66b3ad4b) | chore: fill gaps in episodes new-user guidance research | 2026-05-26 23:36:55 |
+| sase | [`45eae6b`](https://github.com/sase-org/sase/commit/45eae6bfadb06d1bd7d9fa7707f89c8d66b3ad4b) | chore: fill gaps in episodes new-user guidance research | 2026-05-26 19:36:55 EDT |
 
 ## Neighbors
 

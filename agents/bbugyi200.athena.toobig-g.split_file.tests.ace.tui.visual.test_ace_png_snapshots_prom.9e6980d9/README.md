@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`59dba9f`](https://github.com/sase-org/sase/commit/59dba9fa5002c4fe2f5cc02bc48889c638fe35a2) | test: split prompt visual snapshots by concern | 2026-07-22 13:17:13 |
+| sase | [`59dba9f`](https://github.com/sase-org/sase/commit/59dba9fa5002c4fe2f5cc02bc48889c638fe35a2) | test: split prompt visual snapshots by concern | 2026-07-22 09:17:13 EDT |
 
 ## Neighbors
 

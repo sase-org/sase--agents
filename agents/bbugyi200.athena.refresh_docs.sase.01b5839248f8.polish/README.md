@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`546c3d2`](https://github.com/sase-org/sase/commit/546c3d2ab1b962b645cb566833bdd05120c70db8) | docs: correct ACE quit-menu and Admin Center reopen details | 2026-06-27 21:17:26 |
+| sase | [`546c3d2`](https://github.com/sase-org/sase/commit/546c3d2ab1b962b645cb566833bdd05120c70db8) | docs: correct ACE quit-menu and Admin Center reopen details | 2026-06-27 17:17:26 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`624db9a`](https://github.com/sase-org/sase/commit/624db9a9f7baf4545451cd460a026684198a34f1) | docs(ace): document clan view hints and cover the clan \`v\` flow | 2026-08-01 15:15:01 |
+| sase | [`624db9a`](https://github.com/sase-org/sase/commit/624db9a9f7baf4545451cd460a026684198a34f1) | docs(ace): document clan view hints and cover the clan \`v\` flow | 2026-08-01 11:15:01 EDT |
 
 ## Neighbors
 

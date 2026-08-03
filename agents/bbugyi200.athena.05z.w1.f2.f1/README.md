@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`15bfbff`](https://github.com/sase-org/sase/commit/15bfbffd6cf2f069dcc2601f1a90488f84283006) | chore: Add SDD prompt and plan for fork\_colon\_completion\_after\_prefix | 2026-06-25 14:11:41 |
-| sase | [`c318feb`](https://github.com/sase-org/sase/commit/c318feb6499095c5278f1047be0dbe4d3374bc10) | fix(tui): complete fork args after earlier xprompt reference | 2026-06-25 14:27:03 |
+| sase | [`15bfbff`](https://github.com/sase-org/sase/commit/15bfbffd6cf2f069dcc2601f1a90488f84283006) | chore: Add SDD prompt and plan for fork\_colon\_completion\_after\_prefix | 2026-06-25 10:11:41 EDT |
+| sase | [`c318feb`](https://github.com/sase-org/sase/commit/c318feb6499095c5278f1047be0dbe4d3374bc10) | fix(tui): complete fork args after earlier xprompt reference | 2026-06-25 10:27:03 EDT |
 
 ## Neighbors
 

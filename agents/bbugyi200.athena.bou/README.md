@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9da17c7`](https://github.com/sase-org/sase/commit/9da17c71ed16b0fd598c9070b5257072339ac486) | chore: Add SDD prompt and plan for amd\_chezmoi\_home\_sync\_1 | 2026-05-29 21:56:02 |
-| sase | [`97f11a8`](https://github.com/sase-org/sase/commit/97f11a8b0daf4af9a3526c0a1267d5475ef8ab21) | fix: sync AMD init with chezmoi source home | 2026-05-29 22:02:39 |
+| sase | [`9da17c7`](https://github.com/sase-org/sase/commit/9da17c71ed16b0fd598c9070b5257072339ac486) | chore: Add SDD prompt and plan for amd\_chezmoi\_home\_sync\_1 | 2026-05-29 17:56:02 EDT |
+| sase | [`97f11a8`](https://github.com/sase-org/sase/commit/97f11a8b0daf4af9a3526c0a1267d5475ef8ab21) | fix: sync AMD init with chezmoi source home | 2026-05-29 18:02:39 EDT |

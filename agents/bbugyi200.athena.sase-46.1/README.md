@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`74f1042`](https://github.com/sase-org/sase/commit/74f104265028c81c27b8c0090fb38131c977a74b) | feat: add indexed agent name template parsing (sase-46.1) | 2026-05-27 15:19:27 |
+| sase | [`74f1042`](https://github.com/sase-org/sase/commit/74f104265028c81c27b8c0090fb38131c977a74b) | feat: add indexed agent name template parsing (sase-46.1) | 2026-05-27 11:19:27 EDT |
 
 ## Neighbors
 

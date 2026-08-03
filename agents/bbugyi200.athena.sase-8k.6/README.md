@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`58d1ca2`](https://github.com/sase-org/sase/commit/58d1ca2da51df1bcd9bdc2464503985de59a416c) | feat(agents): add completed agent sync engine (sase-8k.6) | 2026-07-22 20:00:45 |
+| sase | [`58d1ca2`](https://github.com/sase-org/sase/commit/58d1ca2da51df1bcd9bdc2464503985de59a416c) | feat(agents): add completed agent sync engine (sase-8k.6) | 2026-07-22 16:00:45 EDT |
 
 ## Neighbors
 

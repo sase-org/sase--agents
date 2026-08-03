@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5fe2a73`](https://github.com/sase-org/sase/commit/5fe2a7376cf007f7f54469f4dac7d24a3c10f10f) | docs: add first blog post review research | 2026-06-14 21:27:00 |
+| sase | [`5fe2a73`](https://github.com/sase-org/sase/commit/5fe2a7376cf007f7f54469f4dac7d24a3c10f10f) | docs: add first blog post review research | 2026-06-14 17:27:00 EDT |
 
 ## Neighbors
 

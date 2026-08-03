@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c9aed8a`](https://github.com/sase-org/sase/commit/c9aed8a6fca8eeaca467f60234d5a74d05a84800) | feat(beads): integrate atomic task evidence contract | 2026-08-01 17:58:19 |
+| sase | [`c9aed8a`](https://github.com/sase-org/sase/commit/c9aed8a6fca8eeaca467f60234d5a74d05a84800) | feat(beads): integrate atomic task evidence contract | 2026-08-01 13:58:19 EDT |
 
 ## Neighbors
 

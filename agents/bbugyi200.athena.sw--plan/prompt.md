@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me change the default value used by the `@cheap` model alias to `claude/sonnet@xhigh | codex/gpt-5.5@medium`? Also, for the `@medium_phase_worker` model alias, let's start using `codex/gpt-5.5@xhigh` as the default value. #plan #m_opus

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1f4c5a7`](https://github.com/sase-org/sase/commit/1f4c5a7aabacac7083ebbf971160fa33ba2e6cb6) | chore: Add SDD prompt and plan for exclude\_default\_vcs\_mru | 2026-06-21 13:00:38 |
-| sase | [`c2b53bc`](https://github.com/sase-org/sase/commit/c2b53bc35bd592360159f543a676f1959b45a987) | feat(tui): exclude default VCS xprompt from prompt cycling | 2026-06-21 13:08:34 |
+| sase | [`1f4c5a7`](https://github.com/sase-org/sase/commit/1f4c5a7aabacac7083ebbf971160fa33ba2e6cb6) | chore: Add SDD prompt and plan for exclude\_default\_vcs\_mru | 2026-06-21 09:00:38 EDT |
+| sase | [`c2b53bc`](https://github.com/sase-org/sase/commit/c2b53bc35bd592360159f543a676f1959b45a987) | feat(tui): exclude default VCS xprompt from prompt cycling | 2026-06-21 09:08:34 EDT |
 
 ## Neighbors
 

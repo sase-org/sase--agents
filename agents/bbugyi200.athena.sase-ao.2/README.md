@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e55e18b`](https://github.com/sase-org/sase/commit/e55e18b94f132b52eb0badf6440d49a849ad717d) | feat: enrich model completion alias metadata | 2026-07-29 12:06:41 |
+| sase | [`e55e18b`](https://github.com/sase-org/sase/commit/e55e18b94f132b52eb0badf6440d49a849ad717d) | feat: enrich model completion alias metadata | 2026-07-29 08:06:41 EDT |
 
 ## Neighbors
 

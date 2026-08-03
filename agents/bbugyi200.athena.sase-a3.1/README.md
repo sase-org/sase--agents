@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`87bc8f7`](https://github.com/sase-org/sase/commit/87bc8f72f5c917ee898a1da18218ff4710d7b0a6) | feat(beads): list dependency graph edges (sase-a3.1) | 2026-07-27 18:33:28 |
+| sase | [`87bc8f7`](https://github.com/sase-org/sase/commit/87bc8f72f5c917ee898a1da18218ff4710d7b0a6) | feat(beads): list dependency graph edges (sase-a3.1) | 2026-07-27 14:33:28 EDT |
 
 ## Neighbors
 

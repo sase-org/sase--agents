@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a27b457`](https://github.com/sase-org/sase/commit/a27b4572ecc94114f06e808ba0697390678bdb98) | docs(llm\_provider): align docs and shipped config with role-alias model (sase-5d.5) | 2026-06-30 16:21:00 |
+| sase | [`a27b457`](https://github.com/sase-org/sase/commit/a27b4572ecc94114f06e808ba0697390678bdb98) | docs(llm\_provider): align docs and shipped config with role-alias model (sase-5d.5) | 2026-06-30 12:21:00 EDT |
 
 ## Neighbors
 

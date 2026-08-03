@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7ef9d81`](https://github.com/sase-org/sase/commit/7ef9d812bfbb144e8f8515dcf1258a415b521bf5) | chore: Add SDD prompt and plan for zoom\_panel\_ctrlp\_metadata\_1 | 2026-06-25 20:23:25 |
-| sase | [`ab5ae80`](https://github.com/sase-org/sase/commit/ab5ae80407c374c3c7c78da8adefe73da7524ee5) | fix(ace): return to metadata on Ctrl-P after zoom file reveal | 2026-06-25 20:29:56 |
+| sase | [`7ef9d81`](https://github.com/sase-org/sase/commit/7ef9d812bfbb144e8f8515dcf1258a415b521bf5) | chore: Add SDD prompt and plan for zoom\_panel\_ctrlp\_metadata\_1 | 2026-06-25 16:23:25 EDT |
+| sase | [`ab5ae80`](https://github.com/sase-org/sase/commit/ab5ae80407c374c3c7c78da8adefe73da7524ee5) | fix(ace): return to metadata on Ctrl-P after zoom file reveal | 2026-06-25 16:29:56 EDT |

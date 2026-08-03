@@ -22,11 +22,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`3dfd443`](https://github.com/sase-org/sase/commit/3dfd443764d2f0a52765961bc86e0401649a07dc) | chore: Add SDD prompt and plan for worker\_model\_handoffs | 2026-06-10 13:22:51 |
-| root | sase | [`6a680c1`](https://github.com/sase-org/sase/commit/6a680c1fd3ed2614e6d85290ed7537e0ad844f24) | feat: route plan-implementation handoffs through the worker model lane | 2026-06-10 13:41:53 |
-| root | sase | [`8ee7fa5`](https://github.com/sase-org/sase/commit/8ee7fa57d2ca5e2e63c051ef50dd3e82cb8aef1a) | feat(memory)!: require explicit project opt-in | 2026-07-10 23:12:38 |
+| root | sase | [`3dfd443`](https://github.com/sase-org/sase/commit/3dfd443764d2f0a52765961bc86e0401649a07dc) | chore: Add SDD prompt and plan for worker\_model\_handoffs | 2026-06-10 09:22:51 EDT |
+| root | sase | [`6a680c1`](https://github.com/sase-org/sase/commit/6a680c1fd3ed2614e6d85290ed7537e0ad844f24) | feat: route plan-implementation handoffs through the worker model lane | 2026-06-10 09:41:53 EDT |
+| root | sase | [`8ee7fa5`](https://github.com/sase-org/sase/commit/8ee7fa57d2ca5e2e63c051ef50dd3e82cb8aef1a) | feat(memory)!: require explicit project opt-in | 2026-07-10 19:12:38 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`786b672`](https://github.com/sase-org/sase/commit/786b6720e72cb520408b6e93e425406cbb092bda) | feat(bead): add dependency removal command (sase-a3.2) | 2026-07-27 18:41:46 |
+| sase | [`786b672`](https://github.com/sase-org/sase/commit/786b6720e72cb520408b6e93e425406cbb092bda) | feat(bead): add dependency removal command (sase-a3.2) | 2026-07-27 14:41:46 EDT |
 
 ## Neighbors
 

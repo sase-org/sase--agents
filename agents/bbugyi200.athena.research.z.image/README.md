@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c700455`](https://github.com/sase-org/sase/commit/c7004559c2ade765398b3707d00ad588ba0b35b7) | docs: add sibling repo research infographic | 2026-06-20 16:25:48 |
+| sase | [`c700455`](https://github.com/sase-org/sase/commit/c7004559c2ade765398b3707d00ad588ba0b35b7) | docs: add sibling repo research infographic | 2026-06-20 12:25:48 EDT |
 
 ## Neighbors
 

@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e8134fd`](https://github.com/sase-org/sase/commit/e8134fdbdca1a527bfafe593955c719a0919b036) | fix(ace): suppress alerts for handled plans | 2026-07-21 15:00:37 |
+| sase | [`e8134fd`](https://github.com/sase-org/sase/commit/e8134fdbdca1a527bfafe593955c719a0919b036) | fix(ace): suppress alerts for handled plans | 2026-07-21 11:00:37 EDT |

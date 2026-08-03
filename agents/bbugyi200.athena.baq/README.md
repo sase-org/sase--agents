@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`df3c816`](https://github.com/sase-org/sase/commit/df3c816723c437be7064a1ea7e1870524991d70c) | fix(ace): deduplicate tier1 plan child rows | 2026-05-24 17:51:58 |
+| sase | [`df3c816`](https://github.com/sase-org/sase/commit/df3c816723c437be7064a1ea7e1870524991d70c) | fix(ace): deduplicate tier1 plan child rows | 2026-05-24 13:51:58 EDT |

@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e2274e5`](https://github.com/sase-org/sase/commit/e2274e52b3b8cb6897eb0c8fe22eb32ae5c97064) | fix: preserve primary commit diff provenance | 2026-07-12 13:59:38 |
+| sase | [`e2274e5`](https://github.com/sase-org/sase/commit/e2274e52b3b8cb6897eb0c8fe22eb32ae5c97064) | fix: preserve primary commit diff provenance | 2026-07-12 09:59:38 EDT |

@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cd84ab5`](https://github.com/sase-org/sase/commit/cd84ab5aade0bc7788ac5dc2573bfc43d24bb1d8) | feat(tui): colorize confirm dialog content | 2026-06-28 12:22:31 |
+| sase | [`cd84ab5`](https://github.com/sase-org/sase/commit/cd84ab5aade0bc7788ac5dc2573bfc43d24bb1d8) | feat(tui): colorize confirm dialog content | 2026-06-28 08:22:31 EDT |

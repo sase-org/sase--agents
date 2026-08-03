@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`734341d`](https://github.com/sase-org/sase/commit/734341df641c2c56980c526cfa78dadc1a3e8c98) | feat(plans): reconcile filters with deep archive | 2026-07-18 18:38:57 |
+| sase | [`734341d`](https://github.com/sase-org/sase/commit/734341df641c2c56980c526cfa78dadc1a3e8c98) | feat(plans): reconcile filters with deep archive | 2026-07-18 14:38:57 EDT |
 
 ## Neighbors
 

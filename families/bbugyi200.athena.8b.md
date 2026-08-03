@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`36b0286`](https://github.com/sase-org/sase/commit/36b0286934e3ff86e1886fa50b6fb22076491453) | fix(tui): distinguish xprompt argument colors | 2026-07-14 11:48:21 |
+| root | sase | [`36b0286`](https://github.com/sase-org/sase/commit/36b0286934e3ff86e1886fa50b6fb22076491453) | fix(tui): distinguish xprompt argument colors | 2026-07-14 07:48:21 EDT |
 
 ## Neighbors
 

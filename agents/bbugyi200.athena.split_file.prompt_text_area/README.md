@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1472f31`](https://github.com/sase-org/sase/commit/1472f3194d7f00def0ff7d2d301517bf3cba30a3) | refactor(tui): split prompt text area widget | 2026-06-17 16:35:22 |
+| sase | [`1472f31`](https://github.com/sase-org/sase/commit/1472f3194d7f00def0ff7d2d301517bf3cba30a3) | refactor(tui): split prompt text area widget | 2026-06-17 12:35:22 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8775f42`](https://github.com/sase-org/sase/commit/8775f42a892b6091aa71948cb6ed41b6e57eaca7) | fix(plan-gate): distinguish tale approval action | 2026-07-18 11:39:00 |
+| sase | [`8775f42`](https://github.com/sase-org/sase/commit/8775f42a892b6091aa71948cb6ed41b6e57eaca7) | fix(plan-gate): distinguish tale approval action | 2026-07-18 07:39:00 EDT |
 
 ## Neighbors
 

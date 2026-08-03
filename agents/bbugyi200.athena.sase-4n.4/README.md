@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e5bf27a`](https://github.com/sase-org/sase/commit/e5bf27ae4e218fc0e867b661eb806437d34254d3) | fix(cli): polish plan command help | 2026-06-13 15:38:04 |
+| sase | [`e5bf27a`](https://github.com/sase-org/sase/commit/e5bf27ae4e218fc0e867b661eb806437d34254d3) | fix(cli): polish plan command help | 2026-06-13 11:38:04 EDT |
 
 ## Neighbors
 

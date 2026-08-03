@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9ca01b7`](https://github.com/sase-org/sase/commit/9ca01b78551da26cf96afd706068bd43d661ab70) | test: split plan approval response tests | 2026-07-31 16:53:33 |
+| sase | [`9ca01b7`](https://github.com/sase-org/sase/commit/9ca01b78551da26cf96afd706068bd43d661ab70) | test: split plan approval response tests | 2026-07-31 12:53:33 EDT |
 
 ## Neighbors
 

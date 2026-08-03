@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aba7615`](https://github.com/sase-org/sase/commit/aba76152cb4c87ac89b3683140f397040fb68c3f) | chore: Add SDD prompt and plan for frontmatter\_panel\_add\_property\_fix | 2026-06-17 21:37:57 |
-| sase | [`a14450e`](https://github.com/sase-org/sase/commit/a14450ed3ee898a512203de6fed39198559a7959) | fix(tui): preserve prompt body with frontmatter panel | 2026-06-17 21:50:40 |
+| sase | [`aba7615`](https://github.com/sase-org/sase/commit/aba76152cb4c87ac89b3683140f397040fb68c3f) | chore: Add SDD prompt and plan for frontmatter\_panel\_add\_property\_fix | 2026-06-17 17:37:57 EDT |
+| sase | [`a14450e`](https://github.com/sase-org/sase/commit/a14450ed3ee898a512203de6fed39198559a7959) | fix(tui): preserve prompt body with frontmatter panel | 2026-06-17 17:50:40 EDT |

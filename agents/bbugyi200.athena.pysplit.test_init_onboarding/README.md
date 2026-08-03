@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5fdbb43`](https://github.com/sase-org/sase/commit/5fdbb4398dbfe6f940286e8580c7b337a49b77a6) | ref: split init onboarding tests | 2026-05-24 23:22:06 |
+| sase | [`5fdbb43`](https://github.com/sase-org/sase/commit/5fdbb4398dbfe6f940286e8580c7b337a49b77a6) | ref: split init onboarding tests | 2026-05-24 19:22:06 EDT |
 
 ## Neighbors
 

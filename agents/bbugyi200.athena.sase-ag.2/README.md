@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`563deaf`](https://github.com/sase-org/sase/commit/563deafc555973c025e1d99633e4dc770392cd4d) | feat(sdd): add hosted URL resolution for plans, agents, and commits (sase-ag.2) | 2026-07-28 14:07:10 |
+| sase | [`563deaf`](https://github.com/sase-org/sase/commit/563deafc555973c025e1d99633e4dc770392cd4d) | feat(sdd): add hosted URL resolution for plans, agents, and commits (sase-ag.2) | 2026-07-28 10:07:10 EDT |
 
 ## Neighbors
 

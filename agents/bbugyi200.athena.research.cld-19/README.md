@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9b175cd`](https://github.com/sase-org/sase/commit/9b175cd9e5c2e500b88697d40700992bab8d10dc) | chore: research plan to eliminate full agent refreshes | 2026-06-08 17:19:02 |
+| sase | [`9b175cd`](https://github.com/sase-org/sase/commit/9b175cd9e5c2e500b88697d40700992bab8d10dc) | chore: research plan to eliminate full agent refreshes | 2026-06-08 13:19:02 EDT |
 
 ## Neighbors
 

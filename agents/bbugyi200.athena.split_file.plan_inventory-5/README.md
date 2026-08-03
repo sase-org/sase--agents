@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4e5bcf1`](https://github.com/sase-org/sase/commit/4e5bcf16b0debe002b823673f00814bcc6068d19) | refactor: split plan inventory responsibilities | 2026-07-16 09:47:11 |
+| sase | [`4e5bcf1`](https://github.com/sase-org/sase/commit/4e5bcf16b0debe002b823673f00814bcc6068d19) | refactor: split plan inventory responsibilities | 2026-07-16 05:47:11 EDT |
 
 ## Neighbors
 

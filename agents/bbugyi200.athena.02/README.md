@@ -19,11 +19,11 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`091e546`](https://github.com/sase-org/sase/commit/091e546db618f80b1b96b859a5920d64d9778d19) | chore: Add SDD prompt and plan for telegram\_chop\_credentials | 2026-07-04 17:57:54 |
-| sase | [`99d2435`](https://github.com/sase-org/sase/commit/99d24356bbd93b1622aae2c90f4d2f0a2b8f79d0) | fix(axe): check telegram token sources in chop doctor | 2026-07-04 18:23:47 |
-| sase | [`fea5e06`](https://github.com/sase-org/sase/commit/fea5e06fa5a76f4bf29bc41f6b2b8c5453f528fa) | feat(demos): add ACE PR pipeline demo | 2026-07-07 03:38:19 |
+| sase | [`091e546`](https://github.com/sase-org/sase/commit/091e546db618f80b1b96b859a5920d64d9778d19) | chore: Add SDD prompt and plan for telegram\_chop\_credentials | 2026-07-04 13:57:54 EDT |
+| sase | [`99d2435`](https://github.com/sase-org/sase/commit/99d24356bbd93b1622aae2c90f4d2f0a2b8f79d0) | fix(axe): check telegram token sources in chop doctor | 2026-07-04 14:23:47 EDT |
+| sase | [`fea5e06`](https://github.com/sase-org/sase/commit/fea5e06fa5a76f4bf29bc41f6b2b8c5453f528fa) | feat(demos): add ACE PR pipeline demo | 2026-07-06 23:38:19 EDT |
 
 ## Neighbors
 

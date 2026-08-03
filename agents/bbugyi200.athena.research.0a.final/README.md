@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3f3b732`](https://github.com/sase-org/sase/commit/3f3b73231f4d4ee567d92c0651c31ace388f5717) | docs: consolidate TUI startup freeze research | 2026-06-23 18:26:23 |
+| sase | [`3f3b732`](https://github.com/sase-org/sase/commit/3f3b73231f4d4ee567d92c0651c31ace388f5717) | docs: consolidate TUI startup freeze research | 2026-06-23 14:26:23 EDT |
 
 ## Neighbors
 

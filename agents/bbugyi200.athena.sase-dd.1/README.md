@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9f80b41`](https://github.com/sase-org/sase/commit/9f80b413627c3a2614bbea4b0a58c97be03546b3) | feat(tui): nest artifact file tabs | 2026-08-01 14:44:59 |
+| sase | [`9f80b41`](https://github.com/sase-org/sase/commit/9f80b413627c3a2614bbea4b0a58c97be03546b3) | feat(tui): nest artifact file tabs | 2026-08-01 10:44:59 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`af0d505`](https://github.com/sase-org/sase/commit/af0d505297c25813e5b8885fe8cd674f3d374a2d) | test: split dynamic family attach tests | 2026-07-08 20:09:20 |
+| sase | [`af0d505`](https://github.com/sase-org/sase/commit/af0d505297c25813e5b8885fe8cd674f3d374a2d) | test: split dynamic family attach tests | 2026-07-08 16:09:20 EDT |
 
 ## Neighbors
 

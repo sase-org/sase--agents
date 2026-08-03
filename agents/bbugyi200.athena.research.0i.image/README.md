@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2460ac2`](https://github.com/sase-org/sase/commit/2460ac2321dd424d401c0fa76b95affc27105fc5) | docs: add sase-dev install strategy infographic | 2026-06-25 20:18:21 |
+| sase | [`2460ac2`](https://github.com/sase-org/sase/commit/2460ac2321dd424d401c0fa76b95affc27105fc5) | docs: add sase-dev install strategy infographic | 2026-06-25 16:18:21 EDT |
 
 ## Neighbors
 

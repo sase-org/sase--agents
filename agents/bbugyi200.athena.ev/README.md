@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5299760`](https://github.com/sase-org/sase/commit/5299760d378224280e884fa80892d3176d790ec2) | feat(ace): distinguish pending plan review tiers | 2026-07-19 13:30:22 |
+| sase | [`5299760`](https://github.com/sase-org/sase/commit/5299760d378224280e884fa80892d3176d790ec2) | feat(ace): distinguish pending plan review tiers | 2026-07-19 09:30:22 EDT |

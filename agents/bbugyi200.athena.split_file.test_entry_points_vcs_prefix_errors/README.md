@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ab3a5f2`](https://github.com/sase-org/sase/commit/ab3a5f2db29313c7da9f6a46a867b1790c155166) | test: split VCS prefix TUI tests | 2026-06-22 15:06:57 |
+| sase | [`ab3a5f2`](https://github.com/sase-org/sase/commit/ab3a5f2db29313c7da9f6a46a867b1790c155166) | test: split VCS prefix TUI tests | 2026-06-22 11:06:57 EDT |
 
 ## Neighbors
 

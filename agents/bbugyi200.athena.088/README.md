@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b98e0eb`](https://github.com/sase-org/sase/commit/b98e0ebc19ffef4422205e9531596a3adf6c266d) | chore: Add SDD prompt and plan for prompt\_history\_three\_word\_minimum | 2026-06-27 17:41:21 |
-| sase | [`a71f97a`](https://github.com/sase-org/sase/commit/a71f97ad67babde830941ce7488aba39a51c142a) | fix(history): require three-word prompt entries | 2026-06-27 17:48:57 |
+| sase | [`b98e0eb`](https://github.com/sase-org/sase/commit/b98e0ebc19ffef4422205e9531596a3adf6c266d) | chore: Add SDD prompt and plan for prompt\_history\_three\_word\_minimum | 2026-06-27 13:41:21 EDT |
+| sase | [`a71f97a`](https://github.com/sase-org/sase/commit/a71f97ad67babde830941ce7488aba39a51c142a) | fix(history): require three-word prompt entries | 2026-06-27 13:48:57 EDT |
 
 ## Neighbors
 

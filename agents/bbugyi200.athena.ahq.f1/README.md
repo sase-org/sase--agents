@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bd49694`](https://github.com/sase-org/sase/commit/bd49694f037a8df3d28435322af957905941e823) | chore: expand git-versioned episodic events research | 2026-05-26 21:06:36 |
+| sase | [`bd49694`](https://github.com/sase-org/sase/commit/bd49694f037a8df3d28435322af957905941e823) | chore: expand git-versioned episodic events research | 2026-05-26 17:06:36 EDT |
 
 ## Neighbors
 

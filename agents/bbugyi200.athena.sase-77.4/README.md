@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c7b84dc`](https://github.com/sase-org/sase/commit/c7b84dc46e6106a9a38aacab97b2fa4c7e8d8b71) | test(git): exercise lock recovery end-to-end across representative flows (sase-77.4) | 2026-07-19 14:44:43 |
+| sase | [`c7b84dc`](https://github.com/sase-org/sase/commit/c7b84dc46e6106a9a38aacab97b2fa4c7e8d8b71) | test(git): exercise lock recovery end-to-end across representative flows (sase-77.4) | 2026-07-19 10:44:43 EDT |
 
 ## Neighbors
 

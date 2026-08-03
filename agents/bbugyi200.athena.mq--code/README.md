@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`86dd439`](https://github.com/sase-org/sase/commit/86dd439409b08005fe24758419e7d669d4c808c7) | fix: materialize beads sidecar before launch claim | 2026-07-28 11:10:27 |
+| sase | [`86dd439`](https://github.com/sase-org/sase/commit/86dd439409b08005fe24758419e7d669d4c808c7) | fix: materialize beads sidecar before launch claim | 2026-07-28 07:10:27 EDT |

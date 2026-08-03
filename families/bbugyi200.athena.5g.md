@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`1654299`](https://github.com/sase-org/sase/commit/1654299f0297286883d6802e52c070546214c50d) | feat(ace): add model alias buckets | 2026-07-11 13:32:57 |
-| root | sase | [`1654299`](https://github.com/sase-org/sase/commit/1654299f0297286883d6802e52c070546214c50d) | feat(ace): add model alias buckets | 2026-07-11 13:32:57 |
+| code | sase | [`1654299`](https://github.com/sase-org/sase/commit/1654299f0297286883d6802e52c070546214c50d) | feat(ace): add model alias buckets | 2026-07-11 09:32:57 EDT |
+| root | sase | [`1654299`](https://github.com/sase-org/sase/commit/1654299f0297286883d6802e52c070546214c50d) | feat(ace): add model alias buckets | 2026-07-11 09:32:57 EDT |
 
 ## Neighbors
 

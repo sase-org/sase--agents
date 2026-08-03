@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`115cb41`](https://github.com/sase-org/sase/commit/115cb41d432c36bc13ef06878264a89bd5a41aec) | fix: guard prompt pruning and sharded plan lookup (#176) | 2026-06-16 02:35:37 |
+| sase | [`115cb41`](https://github.com/sase-org/sase/commit/115cb41d432c36bc13ef06878264a89bd5a41aec) | fix: guard prompt pruning and sharded plan lookup (#176) | 2026-06-15 22:35:37 EDT |
 
 ## Neighbors
 

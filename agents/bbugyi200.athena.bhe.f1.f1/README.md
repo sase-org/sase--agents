@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ee3d222`](https://github.com/sase-org/sase/commit/ee3d222b9729a814aea3b1c07b447302fbb750fc) | chore: add memory read research infographic | 2026-05-26 21:40:37 |
+| sase | [`ee3d222`](https://github.com/sase-org/sase/commit/ee3d222b9729a814aea3b1c07b447302fbb750fc) | chore: add memory read research infographic | 2026-05-26 17:40:37 EDT |
 
 ## Neighbors
 

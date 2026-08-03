@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`50e3d73`](https://github.com/sase-org/sase/commit/50e3d73ecee0429ee5ed7d04130fbf08aa866245) | test: stop TUI log setup from leaking the \`sase\` logger level (sase-93.2) | 2026-07-25 11:37:14 |
+| sase | [`50e3d73`](https://github.com/sase-org/sase/commit/50e3d73ecee0429ee5ed7d04130fbf08aa866245) | test: stop TUI log setup from leaking the \`sase\` logger level (sase-93.2) | 2026-07-25 07:37:14 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d8b1969`](https://github.com/sase-org/sase/commit/d8b196967dfc0699d9c15f59b0ff6dce960c5eca) | feat(tui)!: add agent metadata panel fold controls (sase-6u.1) | 2026-07-18 18:26:43 |
+| sase | [`d8b1969`](https://github.com/sase-org/sase/commit/d8b196967dfc0699d9c15f59b0ff6dce960c5eca) | feat(tui)!: add agent metadata panel fold controls (sase-6u.1) | 2026-07-18 14:26:43 EDT |
 
 ## Neighbors
 

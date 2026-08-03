@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1b9659f`](https://github.com/sase-org/sase/commit/1b9659f362e90eb5ef5dc3b617d7a8193a017d16) | refactor: split notification gate debug module | 2026-07-19 10:42:54 |
+| sase | [`1b9659f`](https://github.com/sase-org/sase/commit/1b9659f362e90eb5ef5dc3b617d7a8193a017d16) | refactor: split notification gate debug module | 2026-07-19 06:42:54 EDT |
 
 ## Neighbors
 

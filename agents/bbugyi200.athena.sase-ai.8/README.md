@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ab1c360`](https://github.com/sase-org/sase/commit/ab1c360404b7af12251a19716b0ed51b429cdbde) | feat(plan): project bead links into plan headers (sase-ai.8) | 2026-07-28 19:10:36 |
+| sase | [`ab1c360`](https://github.com/sase-org/sase/commit/ab1c360404b7af12251a19716b0ed51b429cdbde) | feat(plan): project bead links into plan headers (sase-ai.8) | 2026-07-28 15:10:36 EDT |
 
 ## Neighbors
 

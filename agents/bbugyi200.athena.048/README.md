@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`70d4214`](https://github.com/sase-org/sase/commit/70d4214cfa1c98c850ee55ad0c303a81435f2159) | chore: Add SDD prompt and plan for zoom\_file\_reverse\_cycle | 2026-06-23 13:02:11 |
-| sase | [`229050d`](https://github.com/sase-org/sase/commit/229050d10b4446af76af8d887b58e822d4e286f7) | test(ace): cover zoom modal file cycling in both directions | 2026-06-23 13:18:51 |
+| sase | [`70d4214`](https://github.com/sase-org/sase/commit/70d4214cfa1c98c850ee55ad0c303a81435f2159) | chore: Add SDD prompt and plan for zoom\_file\_reverse\_cycle | 2026-06-23 09:02:11 EDT |
+| sase | [`229050d`](https://github.com/sase-org/sase/commit/229050d10b4446af76af8d887b58e822d4e286f7) | test(ace): cover zoom modal file cycling in both directions | 2026-06-23 09:18:51 EDT |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`130c0ca`](https://github.com/sase-org/sase/commit/130c0ca7e26e303f33b02c5826403fe3b301f633) | docs: add TUI performance infographic | 2026-06-16 02:05:28 |
+| sase | [`130c0ca`](https://github.com/sase-org/sase/commit/130c0ca7e26e303f33b02c5826403fe3b301f633) | docs: add TUI performance infographic | 2026-06-15 22:05:28 EDT |
 
 ## Neighbors
 

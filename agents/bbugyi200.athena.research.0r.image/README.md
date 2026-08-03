@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0682924`](https://github.com/sase-org/sase/commit/0682924ec831c80253075f74764732b05d6f0c7c) | docs: add TUI auto-loading research infographic | 2026-06-27 13:19:38 |
+| sase | [`0682924`](https://github.com/sase-org/sase/commit/0682924ec831c80253075f74764732b05d6f0c7c) | docs: add TUI auto-loading research infographic | 2026-06-27 09:19:38 EDT |
 
 ## Neighbors
 

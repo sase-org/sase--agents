@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8714f62`](https://github.com/sase-org/sase/commit/8714f620cd3040c2765aee2c295c0ea06b93bb76) | chore: Add SDD prompt and plan for fix\_vcs\_project\_completion\_blank\_line | 2026-06-19 18:32:29 |
-| sase | [`950e621`](https://github.com/sase-org/sase/commit/950e6212c9eb869933013951792e00d574ec38f2) | fix: preserve blank lines in VCS project completions | 2026-06-19 18:42:55 |
+| sase | [`8714f62`](https://github.com/sase-org/sase/commit/8714f620cd3040c2765aee2c295c0ea06b93bb76) | chore: Add SDD prompt and plan for fix\_vcs\_project\_completion\_blank\_line | 2026-06-19 14:32:29 EDT |
+| sase | [`950e621`](https://github.com/sase-org/sase/commit/950e6212c9eb869933013951792e00d574ec38f2) | fix: preserve blank lines in VCS project completions | 2026-06-19 14:42:55 EDT |
 
 ## Neighbors
 

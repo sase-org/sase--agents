@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`69e8b84`](https://github.com/sase-org/sase/commit/69e8b847f178bc398c47d5e362711b928d4ead46) | feat(ace): support external repository workflows (sase-5y.4) | 2026-07-13 22:50:21 |
+| sase | [`69e8b84`](https://github.com/sase-org/sase/commit/69e8b847f178bc398c47d5e362711b928d4ead46) | feat(ace): support external repository workflows (sase-5y.4) | 2026-07-13 18:50:21 EDT |
 
 ## Neighbors
 

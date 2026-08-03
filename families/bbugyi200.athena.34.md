@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`d50c2e5`](https://github.com/sase-org/sase/commit/d50c2e52e706da04790419df19e6684b04354344) | feat(tui): aggregate agent output variables | 2026-07-09 01:30:53 |
+| root | sase | [`d50c2e5`](https://github.com/sase-org/sase/commit/d50c2e52e706da04790419df19e6684b04354344) | feat(tui): aggregate agent output variables | 2026-07-08 21:30:53 EDT |

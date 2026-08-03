@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7ad46ed`](https://github.com/sase-org/sase/commit/7ad46edf2b186b734e0160dde2b885d3aeec73b4) | test: split commit publication tests | 2026-07-30 18:59:45 |
+| sase | [`7ad46ed`](https://github.com/sase-org/sase/commit/7ad46edf2b186b734e0160dde2b885d3aeec73b4) | test: split commit publication tests | 2026-07-30 14:59:45 EDT |
 
 ## Neighbors
 

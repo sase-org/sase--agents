@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e0fbcec`](https://github.com/sase-org/sase/commit/e0fbcecc8f3b4709c1aeea7fa9769fbce8064e72) | fix(agents-sync): prevent future import timestamps (sase-9o.3) | 2026-07-26 10:15:48 |
+| sase | [`e0fbcec`](https://github.com/sase-org/sase/commit/e0fbcecc8f3b4709c1aeea7fa9769fbce8064e72) | fix(agents-sync): prevent future import timestamps (sase-9o.3) | 2026-07-26 06:15:48 EDT |
 
 ## Neighbors
 

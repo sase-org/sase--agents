@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`28168ad`](https://github.com/sase-org/sase/commit/28168ad0566e54baf577836221f1ab778c1b6dd2) | fix: include companion SDD artifacts in finalization | 2026-07-09 17:14:28 |
+| root | sase | [`28168ad`](https://github.com/sase-org/sase/commit/28168ad0566e54baf577836221f1ab778c1b6dd2) | fix: include companion SDD artifacts in finalization | 2026-07-09 13:14:28 EDT |

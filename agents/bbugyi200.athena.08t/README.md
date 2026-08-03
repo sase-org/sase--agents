@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b091695`](https://github.com/sase-org/sase/commit/b091695f7bf9515ce096364a786e685b2e4e501d) | feat(memory): number inlined short memory headers | 2026-06-28 12:19:20 |
+| sase | [`b091695`](https://github.com/sase-org/sase/commit/b091695f7bf9515ce096364a786e685b2e4e501d) | feat(memory): number inlined short memory headers | 2026-06-28 08:19:20 EDT |

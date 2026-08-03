@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8d023ac`](https://github.com/sase-org/sase/commit/8d023ac1e31a78e026fff6e349f8f0b2c2e2ec36) | docs: research TUI prompt catalog auto reload | 2026-06-27 13:07:37 |
+| sase | [`8d023ac`](https://github.com/sase-org/sase/commit/8d023ac1e31a78e026fff6e349f8f0b2c2e2ec36) | docs: research TUI prompt catalog auto reload | 2026-06-27 09:07:37 EDT |
 
 ## Neighbors
 

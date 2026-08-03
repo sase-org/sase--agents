@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2c4a4f0`](https://github.com/sase-org/sase/commit/2c4a4f0aa28f39444a5940ba9a6184c8cfe84bf2) | refactor(axe): split ensure responsibilities | 2026-07-20 22:45:55 |
+| sase | [`2c4a4f0`](https://github.com/sase-org/sase/commit/2c4a4f0aa28f39444a5940ba9a6184c8cfe84bf2) | refactor(axe): split ensure responsibilities | 2026-07-20 18:45:55 EDT |
 
 ## Neighbors
 

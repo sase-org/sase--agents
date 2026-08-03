@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`db9214c`](https://github.com/sase-org/sase/commit/db9214c5f2201ad889d95ac4ea84a4f988aeb258) | feat: add prompt vim indent and case operators (sase-4l.6) | 2026-06-12 18:08:40 |
+| sase | [`db9214c`](https://github.com/sase-org/sase/commit/db9214c5f2201ad889d95ac4ea84a4f988aeb258) | feat: add prompt vim indent and case operators (sase-4l.6) | 2026-06-12 14:08:40 EDT |
 
 ## Neighbors
 

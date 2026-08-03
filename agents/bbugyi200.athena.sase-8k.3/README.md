@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e828aa9`](https://github.com/sase-org/sase/commit/e828aa927e3dff3c3c4f1f4539a3c8c5201ea83e) | feat: add machine-qualified agent hoods (sase-8k.3) | 2026-07-22 19:07:39 |
+| sase | [`e828aa9`](https://github.com/sase-org/sase/commit/e828aa927e3dff3c3c4f1f4539a3c8c5201ea83e) | feat: add machine-qualified agent hoods (sase-8k.3) | 2026-07-22 15:07:39 EDT |
 
 ## Neighbors
 

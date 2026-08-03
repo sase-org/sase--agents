@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0d62f94`](https://github.com/sase-org/sase/commit/0d62f948847ce1a1bee2b999ac09d75f5acf3475) | chore: Add SDD prompt and plan for sase\_context\_workspaces\_lane | 2026-06-20 20:19:12 |
-| sase | [`039877a`](https://github.com/sase-org/sase/commit/039877a444f3857edde032bc532e414226f60034) | feat(tui): show opened workspaces in SASE context | 2026-06-20 20:38:02 |
+| sase | [`0d62f94`](https://github.com/sase-org/sase/commit/0d62f948847ce1a1bee2b999ac09d75f5acf3475) | chore: Add SDD prompt and plan for sase\_context\_workspaces\_lane | 2026-06-20 16:19:12 EDT |
+| sase | [`039877a`](https://github.com/sase-org/sase/commit/039877a444f3857edde032bc532e414226f60034) | feat(tui): show opened workspaces in SASE context | 2026-06-20 16:38:02 EDT |
 
 ## Neighbors
 

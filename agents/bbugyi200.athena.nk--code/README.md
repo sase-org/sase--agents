@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d8c2f50`](https://github.com/sase-org/sase/commit/d8c2f5019f58e957b34e124f735899dcadc3a307) | feat(agents): classify all runner-slot waiters as queued | 2026-07-28 22:08:19 |
+| sase | [`d8c2f50`](https://github.com/sase-org/sase/commit/d8c2f5019f58e957b34e124f735899dcadc3a307) | feat(agents): classify all runner-slot waiters as queued | 2026-07-28 18:08:19 EDT |

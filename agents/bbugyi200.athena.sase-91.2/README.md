@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ae44c73`](https://github.com/sase-org/sase/commit/ae44c73b551a0e9fb88c7a81ccc4f7257d4127dc) | fix(agents-sync): diagnose inventory classifier failures (sase-91.2) | 2026-07-25 00:32:38 |
+| sase | [`ae44c73`](https://github.com/sase-org/sase/commit/ae44c73b551a0e9fb88c7a81ccc4f7257d4127dc) | fix(agents-sync): diagnose inventory classifier failures (sase-91.2) | 2026-07-24 20:32:38 EDT |
 
 ## Neighbors
 

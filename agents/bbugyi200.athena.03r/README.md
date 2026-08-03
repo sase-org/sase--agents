@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f1f5577`](https://github.com/sase-org/sase/commit/f1f5577d59818e8b68250c2ce2fc658cc5771b5d) | chore: Add SDD prompt and plan for vcs\_home\_replay\_filter | 2026-06-22 13:58:52 |
-| sase | [`840e697`](https://github.com/sase-org/sase/commit/840e69794825f2c1caad3777521e105a8cdf343d) | fix(ace): exclude #git:home from Ctrl+Space replay history | 2026-06-22 14:09:33 |
+| sase | [`f1f5577`](https://github.com/sase-org/sase/commit/f1f5577d59818e8b68250c2ce2fc658cc5771b5d) | chore: Add SDD prompt and plan for vcs\_home\_replay\_filter | 2026-06-22 09:58:52 EDT |
+| sase | [`840e697`](https://github.com/sase-org/sase/commit/840e69794825f2c1caad3777521e105a8cdf343d) | fix(ace): exclude #git:home from Ctrl+Space replay history | 2026-06-22 10:09:33 EDT |

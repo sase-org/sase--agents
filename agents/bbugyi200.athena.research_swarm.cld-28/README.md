@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`916d8dd`](https://github.com/sase-org/sase/commit/916d8dd1c2b01466f27c6d29a58e4eba558b25fa) | chore: add research on configurable agent families | 2026-06-02 19:52:07 |
+| sase | [`916d8dd`](https://github.com/sase-org/sase/commit/916d8dd1c2b01466f27c6d29a58e4eba558b25fa) | chore: add research on configurable agent families | 2026-06-02 15:52:07 EDT |
 
 ## Neighbors
 

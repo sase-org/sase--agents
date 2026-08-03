@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`40665a0`](https://github.com/sase-org/sase/commit/40665a0c74958c6732aafc0561d3cf66dcda59d7) | chore: Add SDD prompt and plan for async\_force\_reuse\_agent\_launch | 2026-06-13 14:53:17 |
-| sase | [`5dfa29b`](https://github.com/sase-org/sase/commit/5dfa29b219d3caa96e24e46b7ed21eee00a1e8c1) | perf(tui): defer forced-reuse cleanup to launch task | 2026-06-13 15:08:50 |
+| sase | [`40665a0`](https://github.com/sase-org/sase/commit/40665a0c74958c6732aafc0561d3cf66dcda59d7) | chore: Add SDD prompt and plan for async\_force\_reuse\_agent\_launch | 2026-06-13 10:53:17 EDT |
+| sase | [`5dfa29b`](https://github.com/sase-org/sase/commit/5dfa29b219d3caa96e24e46b7ed21eee00a1e8c1) | perf(tui): defer forced-reuse cleanup to launch task | 2026-06-13 11:08:50 EDT |

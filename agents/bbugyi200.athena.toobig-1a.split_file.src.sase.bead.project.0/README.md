@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`792080e`](https://github.com/sase-org/sase/commit/792080e513c7f029fa311571fa857657bbb65352) | refactor(bead): split project facade by responsibility | 2026-07-31 15:40:57 |
+| sase | [`792080e`](https://github.com/sase-org/sase/commit/792080e513c7f029fa311571fa857657bbb65352) | refactor(bead): split project facade by responsibility | 2026-07-31 11:40:57 EDT |
 
 ## Neighbors
 

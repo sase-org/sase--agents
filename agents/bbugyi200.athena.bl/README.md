@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7346e04`](https://github.com/sase-org/sase/commit/7346e04c5fe445b15b02b4d4eb92a3fbd1ac3f0e) | feat(tui): support slash skills in preview and jump actions | 2026-07-17 12:18:40 |
+| sase | [`7346e04`](https://github.com/sase-org/sase/commit/7346e04c5fe445b15b02b4d4eb92a3fbd1ac3f0e) | feat(tui): support slash skills in preview and jump actions | 2026-07-17 08:18:40 EDT |

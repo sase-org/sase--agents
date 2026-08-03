@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9d98417`](https://github.com/sase-org/sase/commit/9d98417d5ea89ef32ea91798aac68047b6f127a0) | feat(ace): redesign projects inventory pane | 2026-07-13 16:46:24 |
+| sase | [`9d98417`](https://github.com/sase-org/sase/commit/9d98417d5ea89ef32ea91798aac68047b6f127a0) | feat(ace): redesign projects inventory pane | 2026-07-13 12:46:24 EDT |
 
 ## Neighbors
 

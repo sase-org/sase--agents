@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`e635b1f`](https://github.com/sase-org/sase/commit/e635b1f2a8bee7d44a3ceb50392cb19125c9454e) | fix: drain runners before detached workflow launches | 2026-07-13 11:55:16 |
+| root | sase | [`e635b1f`](https://github.com/sase-org/sase/commit/e635b1f2a8bee7d44a3ceb50392cb19125c9454e) | fix: drain runners before detached workflow launches | 2026-07-13 07:55:16 EDT |
 
 ## Neighbors
 

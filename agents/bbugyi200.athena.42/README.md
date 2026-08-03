@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ccc02c0`](https://github.com/sase-org/sase/commit/ccc02c0f95823e80892d4df9dea30d0fafd54927) | fix(codex): use GPT-5.6 SOL model ID | 2026-07-09 23:32:34 |
+| sase | [`ccc02c0`](https://github.com/sase-org/sase/commit/ccc02c0f95823e80892d4df9dea30d0fafd54927) | fix(codex): use GPT-5.6 SOL model ID | 2026-07-09 19:32:34 EDT |

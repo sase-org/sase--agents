@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`767861b`](https://github.com/sase-org/sase/commit/767861b87bb108446619b5e44e59abd8b734d756) | docs: add VHS caption overlay infographic | 2026-07-08 21:35:23 |
+| sase | [`767861b`](https://github.com/sase-org/sase/commit/767861b87bb108446619b5e44e59abd8b734d756) | docs: add VHS caption overlay infographic | 2026-07-08 17:35:23 EDT |
 
 ## Neighbors
 

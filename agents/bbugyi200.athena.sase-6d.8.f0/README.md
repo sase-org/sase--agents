@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a800419`](https://github.com/sase-org/sase/commit/a8004197d5de182a62d55a2d5d3c45261e2cd529) | docs: remove legacy paths from xprompt infographic | 2026-07-16 20:16:34 |
+| sase | [`a800419`](https://github.com/sase-org/sase/commit/a8004197d5de182a62d55a2d5d3c45261e2cd529) | docs: remove legacy paths from xprompt infographic | 2026-07-16 16:16:34 EDT |
 
 ## Neighbors
 

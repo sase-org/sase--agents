@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0107212`](https://github.com/sase-org/sase/commit/010721231e4966efffc9d8cbdacc2fef9012ccb5) | feat: add episode v2 Python wire compatibility (sase-48.1) | 2026-05-28 21:48:42 |
+| sase | [`0107212`](https://github.com/sase-org/sase/commit/010721231e4966efffc9d8cbdacc2fef9012ccb5) | feat: add episode v2 Python wire compatibility (sase-48.1) | 2026-05-28 17:48:42 EDT |
 
 ## Neighbors
 

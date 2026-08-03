@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`0ed6b32`](https://github.com/sase-org/sase/commit/0ed6b32e49b9d31e84f26a869d41a523609256fe) | feat(xprompt): integrate epic changes before landing | 2026-07-13 15:47:20 |
+| root | sase | [`0ed6b32`](https://github.com/sase-org/sase/commit/0ed6b32e49b9d31e84f26a869d41a523609256fe) | feat(xprompt): integrate epic changes before landing | 2026-07-13 11:47:20 EDT |

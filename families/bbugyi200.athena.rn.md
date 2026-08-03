@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`6800c3d`](https://github.com/sase-org/sase/commit/6800c3d3eff788c7850d06e2619dd79d253c323c) | feat(stats): report plan and question activity from gates | 2026-08-02 11:31:12 |
+| code | sase | [`6800c3d`](https://github.com/sase-org/sase/commit/6800c3d3eff788c7850d06e2619dd79d253c323c) | feat(stats): report plan and question activity from gates | 2026-08-02 07:31:12 EDT |
 
 ## Neighbors
 

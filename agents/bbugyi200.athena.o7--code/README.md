@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3463978`](https://github.com/sase-org/sase/commit/3463978fb3b571b5770eae676279ded54b39f780) | fix(ace): exit populated bullets with ctrl+j | 2026-07-29 14:31:18 |
+| sase | [`3463978`](https://github.com/sase-org/sase/commit/3463978fb3b571b5770eae676279ded54b39f780) | fix(ace): exit populated bullets with ctrl+j | 2026-07-29 10:31:18 EDT |

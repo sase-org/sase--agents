@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aa67afc`](https://github.com/sase-org/sase/commit/aa67afc046c6d2aa3def9e3ad5b8ee9d4e7acf92) | test: split agent inventory tests by behavior | 2026-07-30 19:15:42 |
+| sase | [`aa67afc`](https://github.com/sase-org/sase/commit/aa67afc046c6d2aa3def9e3ad5b8ee9d4e7acf92) | test: split agent inventory tests by behavior | 2026-07-30 15:15:42 EDT |
 
 ## Neighbors
 

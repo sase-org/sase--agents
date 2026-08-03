@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`7ab260d`](https://github.com/sase-org/sase/commit/7ab260ddba51c780c195d4180576fae508f0e87c) | fix: render epic clan summaries from authored plans (sase-8d.3) | 2026-07-20 20:37:20 |
+| code | sase | [`7ab260d`](https://github.com/sase-org/sase/commit/7ab260ddba51c780c195d4180576fae508f0e87c) | fix: render epic clan summaries from authored plans (sase-8d.3) | 2026-07-20 16:37:20 EDT |
 
 ## Neighbors
 

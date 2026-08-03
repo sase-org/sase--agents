@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6be68fa`](https://github.com/sase-org/sase/commit/6be68fa08978f7a091cc1439c1ed859adbfc1dcc) | feat: sync plan notification mutes to agent tags | 2026-05-24 17:41:57 |
+| sase | [`6be68fa`](https://github.com/sase-org/sase/commit/6be68fa08978f7a091cc1439c1ed859adbfc1dcc) | feat: sync plan notification mutes to agent tags | 2026-05-24 13:41:57 EDT |

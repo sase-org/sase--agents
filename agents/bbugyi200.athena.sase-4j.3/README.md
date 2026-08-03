@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2498fcc`](https://github.com/sase-org/sase/commit/2498fccef377026a3499d25a35866e73c5a1344a) | chore: publish quickstart beginner path (sase-4j.3) | 2026-06-09 23:26:16 |
+| sase | [`2498fcc`](https://github.com/sase-org/sase/commit/2498fccef377026a3499d25a35866e73c5a1344a) | chore: publish quickstart beginner path (sase-4j.3) | 2026-06-09 19:26:16 EDT |
 
 ## Neighbors
 

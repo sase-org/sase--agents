@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`15efdc0`](https://github.com/sase-org/sase/commit/15efdc09b973edb994270069d1b1ed61530bf532) | feat: add project lifecycle CLI (sase-49.2) | 2026-06-01 17:25:05 |
+| sase | [`15efdc0`](https://github.com/sase-org/sase/commit/15efdc09b973edb994270069d1b1ed61530bf532) | feat: add project lifecycle CLI (sase-49.2) | 2026-06-01 13:25:05 EDT |
 
 ## Neighbors
 

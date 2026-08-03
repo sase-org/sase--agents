@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`78522a3`](https://github.com/sase-org/sase/commit/78522a318c48a33c3622d05b1885a8d045cbbbe0) | fix: normalize agent associations by lane | 2026-07-30 16:07:56 |
+| sase | [`78522a3`](https://github.com/sase-org/sase/commit/78522a318c48a33c3622d05b1885a8d045cbbbe0) | fix: normalize agent associations by lane | 2026-07-30 12:07:56 EDT |
 
 ## Neighbors
 

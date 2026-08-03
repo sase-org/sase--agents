@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`97fc3cb`](https://github.com/sase-org/sase/commit/97fc3cb2894081abfd22dc19b57ba2b4d5da55cc) | feat(tui): add interactive prompt input search (sase-4v.2) | 2026-06-17 23:15:11 |
+| sase | [`97fc3cb`](https://github.com/sase-org/sase/commit/97fc3cb2894081abfd22dc19b57ba2b4d5da55cc) | feat(tui): add interactive prompt input search (sase-4v.2) | 2026-06-17 19:15:11 EDT |
 
 ## Neighbors
 

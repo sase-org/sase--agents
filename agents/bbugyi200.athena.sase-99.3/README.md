@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a53f5a5`](https://github.com/sase-org/sase/commit/a53f5a55b9c0ff299ef5cc3b2db9f3f2c0c1fa5c) | feat(tui): render fold-aware lane neighbors (sase-99.3) | 2026-07-25 15:29:37 |
+| sase | [`a53f5a5`](https://github.com/sase-org/sase/commit/a53f5a55b9c0ff299ef5cc3b2db9f3f2c0c1fa5c) | feat(tui): render fold-aware lane neighbors (sase-99.3) | 2026-07-25 11:29:37 EDT |
 
 ## Neighbors
 

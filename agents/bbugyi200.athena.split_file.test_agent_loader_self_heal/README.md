@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ecbf53d`](https://github.com/sase-org/sase/commit/ecbf53d3cb6335a0b7c10854de4634e0ee9adf6e) | test: split agent loader self-heal tests | 2026-06-19 15:54:21 |
+| sase | [`ecbf53d`](https://github.com/sase-org/sase/commit/ecbf53d3cb6335a0b7c10854de4634e0ee9adf6e) | test: split agent loader self-heal tests | 2026-06-19 11:54:21 EDT |
 
 ## Neighbors
 

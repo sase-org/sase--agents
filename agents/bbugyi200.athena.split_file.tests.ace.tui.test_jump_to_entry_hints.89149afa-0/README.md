@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`231749d`](https://github.com/sase-org/sase/commit/231749d96a81b5b14707ca7d0806324b30dc8434) | test(ace): split jump hint tests by behavior | 2026-07-19 19:18:27 |
+| sase | [`231749d`](https://github.com/sase-org/sase/commit/231749d96a81b5b14707ca7d0806324b30dc8434) | test(ace): split jump hint tests by behavior | 2026-07-19 15:18:27 EDT |
 
 ## Neighbors
 

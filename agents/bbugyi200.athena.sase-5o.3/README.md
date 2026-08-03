@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7ecc017`](https://github.com/sase-org/sase/commit/7ecc0173eff527f7ec87cfd2ceea919936d7fa93) | feat: add first-class fakey provider integration (sase-5o.3) | 2026-07-10 21:54:04 |
+| sase | [`7ecc017`](https://github.com/sase-org/sase/commit/7ecc0173eff527f7ec87cfd2ceea919936d7fa93) | feat: add first-class fakey provider integration (sase-5o.3) | 2026-07-10 17:54:04 EDT |
 
 ## Neighbors
 

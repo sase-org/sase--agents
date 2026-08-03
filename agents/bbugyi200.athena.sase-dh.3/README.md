@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`149b57e`](https://github.com/sase-org/sase/commit/149b57e4f42fa70fa2bda7dde41a760cc3cc6c53) | feat: archive committed prompts and artifacts | 2026-08-01 17:11:23 |
+| sase | [`149b57e`](https://github.com/sase-org/sase/commit/149b57e4f42fa70fa2bda7dde41a760cc3cc6c53) | feat: archive committed prompts and artifacts | 2026-08-01 13:11:23 EDT |
 
 ## Neighbors
 

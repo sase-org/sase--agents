@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cc0e304`](https://github.com/sase-org/sase/commit/cc0e304ce1807e14c724e38ac18f49df6cd9e46f) | feat(plugins): add plugin catalog engine (library-only) (sase-57.1) | 2026-06-25 23:12:46 |
+| sase | [`cc0e304`](https://github.com/sase-org/sase/commit/cc0e304ce1807e14c724e38ac18f49df6cd9e46f) | feat(plugins): add plugin catalog engine (library-only) (sase-57.1) | 2026-06-25 19:12:46 EDT |
 
 ## Neighbors
 

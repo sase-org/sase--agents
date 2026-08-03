@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aad6506`](https://github.com/sase-org/sase/commit/aad65066ce091a403e11242b98f1ebe9e8b55365) | chore: consolidate semver release research | 2026-06-08 15:27:50 |
+| sase | [`aad6506`](https://github.com/sase-org/sase/commit/aad65066ce091a403e11242b98f1ebe9e8b55365) | chore: consolidate semver release research | 2026-06-08 11:27:50 EDT |
 
 ## Neighbors
 

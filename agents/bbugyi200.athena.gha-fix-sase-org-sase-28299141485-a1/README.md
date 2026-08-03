@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a2494b3`](https://github.com/sase-org/sase/commit/a2494b370d81b10419aed26e394dc2e1a38c145a) | build: harden cargo crate downloads against crates.io HTTP/2 flakiness (#188) | 2026-06-27 20:07:39 |
+| sase | [`a2494b3`](https://github.com/sase-org/sase/commit/a2494b370d81b10419aed26e394dc2e1a38c145a) | build: harden cargo crate downloads against crates.io HTTP/2 flakiness (#188) | 2026-06-27 16:07:39 EDT |

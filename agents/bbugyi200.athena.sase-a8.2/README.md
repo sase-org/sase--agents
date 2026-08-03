@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fde7e62`](https://github.com/sase-org/sase/commit/fde7e62a15f934b3824264848cc068af7f81f88a) | feat(sdd): add beads sidecar guide bundle (sase-a8.2) | 2026-07-27 20:37:36 |
+| sase | [`fde7e62`](https://github.com/sase-org/sase/commit/fde7e62a15f934b3824264848cc068af7f81f88a) | feat(sdd): add beads sidecar guide bundle (sase-a8.2) | 2026-07-27 16:37:36 EDT |
 
 ## Neighbors
 

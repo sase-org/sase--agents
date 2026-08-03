@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2d23135`](https://github.com/sase-org/sase/commit/2d23135c60a47797f4057ff677cdc40cd715c326) | chore: Add SDD prompt and plan for admin\_center\_title\_5color\_gradient | 2026-06-27 14:21:06 |
-| sase | [`005fe0d`](https://github.com/sase-org/sase/commit/005fe0de14c92301a73f85a585f020e154925a2c) | feat(tui): add five-stop Admin Center title gradient | 2026-06-27 14:26:43 |
+| sase | [`2d23135`](https://github.com/sase-org/sase/commit/2d23135c60a47797f4057ff677cdc40cd715c326) | chore: Add SDD prompt and plan for admin\_center\_title\_5color\_gradient | 2026-06-27 10:21:06 EDT |
+| sase | [`005fe0d`](https://github.com/sase-org/sase/commit/005fe0de14c92301a73f85a585f020e154925a2c) | feat(tui): add five-stop Admin Center title gradient | 2026-06-27 10:26:43 EDT |

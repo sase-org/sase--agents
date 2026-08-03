@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eb93169`](https://github.com/sase-org/sase/commit/eb93169eb8874e70e01d17daf2709521627072fc) | feat!: route phase workers through size aliases | 2026-07-21 12:59:08 |
+| sase | [`eb93169`](https://github.com/sase-org/sase/commit/eb93169eb8874e70e01d17daf2709521627072fc) | feat!: route phase workers through size aliases | 2026-07-21 08:59:08 EDT |
 
 ## Neighbors
 

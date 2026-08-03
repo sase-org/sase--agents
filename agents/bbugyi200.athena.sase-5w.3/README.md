@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`93e2227`](https://github.com/sase-org/sase/commit/93e2227a1f8db9669cef5817821fe4be6d82f351) | feat(cli): add repository and workspace inventories | 2026-07-13 15:57:05 |
+| sase | [`93e2227`](https://github.com/sase-org/sase/commit/93e2227a1f8db9669cef5817821fe4be6d82f351) | feat(cli): add repository and workspace inventories | 2026-07-13 11:57:05 EDT |
 
 ## Neighbors
 

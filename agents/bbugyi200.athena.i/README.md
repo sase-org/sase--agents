@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3fbd33d`](https://github.com/sase-org/sase/commit/3fbd33dd07d55f215536c0b3a33b8ff8aa50cf39) | chore: Add SDD prompt and plan for sase\_ace\_demo\_video | 2026-07-06 18:32:36 |
-| sase | [`751145d`](https://github.com/sase-org/sase/commit/751145d581111765134f64b9b6c40ecc2688685b) | feat(demos): add ACE prompt input demo video | 2026-07-06 19:41:18 |
+| sase | [`3fbd33d`](https://github.com/sase-org/sase/commit/3fbd33dd07d55f215536c0b3a33b8ff8aa50cf39) | chore: Add SDD prompt and plan for sase\_ace\_demo\_video | 2026-07-06 14:32:36 EDT |
+| sase | [`751145d`](https://github.com/sase-org/sase/commit/751145d581111765134f64b9b6c40ecc2688685b) | feat(demos): add ACE prompt input demo video | 2026-07-06 15:41:18 EDT |
 
 ## Neighbors
 

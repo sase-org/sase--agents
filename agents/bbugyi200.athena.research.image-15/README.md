@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`195e2b0`](https://github.com/sase-org/sase/commit/195e2b0f5c10252848c2a1928e7dbf3c43a23f67) | chore: add SASE competitor audit infographic | 2026-06-07 11:34:19 |
+| sase | [`195e2b0`](https://github.com/sase-org/sase/commit/195e2b0f5c10252848c2a1928e7dbf3c43a23f67) | chore: add SASE competitor audit infographic | 2026-06-07 07:34:19 EDT |
 
 ## Neighbors
 

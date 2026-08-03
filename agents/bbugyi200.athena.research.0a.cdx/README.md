@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f6e2134`](https://github.com/sase-org/sase/commit/f6e2134680c94dcdc30511a7c21b00e55d0e395c) | docs: research TUI agents tab startup freeze | 2026-06-23 18:15:32 |
+| sase | [`f6e2134`](https://github.com/sase-org/sase/commit/f6e2134680c94dcdc30511a7c21b00e55d0e395c) | docs: research TUI agents tab startup freeze | 2026-06-23 14:15:32 EDT |
 
 ## Neighbors
 

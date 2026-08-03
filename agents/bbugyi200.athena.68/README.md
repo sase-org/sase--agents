@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c58e80c`](https://github.com/sase-org/sase/commit/c58e80c9ab4b0a7464ce0093c0742617739fb7bf) | chore: Add SDD prompt and plan for prompt\_history\_tui | 2026-06-13 13:02:11 |
-| sase | [`26d5c96`](https://github.com/sase-org/sase/commit/26d5c968f4e5c1ea2937f87df21f521b31025392) | chore: create prompt history TUI epic beads | 2026-06-13 13:08:44 |
+| sase | [`c58e80c`](https://github.com/sase-org/sase/commit/c58e80c9ab4b0a7464ce0093c0742617739fb7bf) | chore: Add SDD prompt and plan for prompt\_history\_tui | 2026-06-13 09:02:11 EDT |
+| sase | [`26d5c96`](https://github.com/sase-org/sase/commit/26d5c968f4e5c1ea2937f87df21f521b31025392) | chore: create prompt history TUI epic beads | 2026-06-13 09:08:44 EDT |

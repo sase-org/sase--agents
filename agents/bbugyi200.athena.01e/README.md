@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2741e10`](https://github.com/sase-org/sase/commit/2741e101a80954eac189b18edc604d3006acb93a) | chore: Add SDD prompt and plan for fix\_vcs\_project\_lsp\_enter | 2026-06-19 17:57:56 |
+| sase | [`2741e10`](https://github.com/sase-org/sase/commit/2741e101a80954eac189b18edc604d3006acb93a) | chore: Add SDD prompt and plan for fix\_vcs\_project\_lsp\_enter | 2026-06-19 13:57:56 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8e7851e`](https://github.com/sase-org/sase/commit/8e7851edeb78730fceabd9adfe2ee0b9d1f56ee3) | feat: add clickable SDD frontmatter links | 2026-07-21 13:24:09 |
+| sase | [`8e7851e`](https://github.com/sase-org/sase/commit/8e7851edeb78730fceabd9adfe2ee0b9d1f56ee3) | feat: add clickable SDD frontmatter links | 2026-07-21 09:24:09 EDT |
 
 ## Neighbors
 

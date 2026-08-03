@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b4db947`](https://github.com/sase-org/sase/commit/b4db947d2c746c1c4aebc68f3d3ecee95ae44a9f) | feat(agent-names): migrate historical agent identities | 2026-08-03 13:29:25 |
+| sase | [`b4db947`](https://github.com/sase-org/sase/commit/b4db947d2c746c1c4aebc68f3d3ecee95ae44a9f) | feat(agent-names): migrate historical agent identities | 2026-08-03 09:29:25 EDT |
 
 ## Neighbors
 

@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7432331`](https://github.com/sase-org/sase/commit/743233177c26e56948bc59ddab43550a1d615dbd) | docs: correct project glossary storage terminology | 2026-07-16 11:59:58 |
-| sase | [`bc68696`](https://github.com/sase-org/sase/commit/bc68696715826bdfef1817e22dc2c379f671362b) | chore: run sase init memory | 2026-07-16 12:01:53 |
+| sase | [`7432331`](https://github.com/sase-org/sase/commit/743233177c26e56948bc59ddab43550a1d615dbd) | docs: correct project glossary storage terminology | 2026-07-16 07:59:58 EDT |
+| sase | [`bc68696`](https://github.com/sase-org/sase/commit/bc68696715826bdfef1817e22dc2c379f671362b) | chore: run sase init memory | 2026-07-16 08:01:53 EDT |

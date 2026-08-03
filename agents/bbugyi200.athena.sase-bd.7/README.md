@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5a8dc1c`](https://github.com/sase-org/sase/commit/5a8dc1cbadfcdd15df3c45568b6e5bfb5e217374) | build(deps): require sase-core-rs 0.14.2 | 2026-07-30 19:35:03 |
+| sase | [`5a8dc1c`](https://github.com/sase-org/sase/commit/5a8dc1cbadfcdd15df3c45568b6e5bfb5e217374) | build(deps): require sase-core-rs 0.14.2 | 2026-07-30 15:35:03 EDT |
 
 ## Neighbors
 

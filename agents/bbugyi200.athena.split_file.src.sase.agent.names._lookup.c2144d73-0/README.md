@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2b4526f`](https://github.com/sase-org/sase/commit/2b4526f959b4e5a05b8d47e198f49b74f3fcd5ad) | refactor(agent-names): split lookup implementation | 2026-07-19 07:44:34 |
+| sase | [`2b4526f`](https://github.com/sase-org/sase/commit/2b4526f959b4e5a05b8d47e198f49b74f3fcd5ad) | refactor(agent-names): split lookup implementation | 2026-07-19 03:44:34 EDT |
 
 ## Neighbors
 

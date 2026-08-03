@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`937278e`](https://github.com/sase-org/sase/commit/937278ecb1b0723a4aa42d55fe60f1cd635e8660) | feat(ace): render bare count in Agents info strip | 2026-07-01 09:56:59 |
+| sase | [`937278e`](https://github.com/sase-org/sase/commit/937278ecb1b0723a4aa42d55fe60f1cd635e8660) | feat(ace): render bare count in Agents info strip | 2026-07-01 05:56:59 EDT |

@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9f11060`](https://github.com/sase-org/sase/commit/9f1106068caa951039966938424ade137a01e5a0) | fix(ace): reconcile cross-surface plan approval status | 2026-07-22 11:21:38 |
+| sase | [`9f11060`](https://github.com/sase-org/sase/commit/9f1106068caa951039966938424ade137a01e5a0) | fix(ace): reconcile cross-surface plan approval status | 2026-07-22 07:21:38 EDT |

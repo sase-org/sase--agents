@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e4673d6`](https://github.com/sase-org/sase/commit/e4673d6ada112414f44bd728ca5af78f5484d858) | chore: publish public install contract (sase-4j.2) | 2026-06-09 23:13:55 |
+| sase | [`e4673d6`](https://github.com/sase-org/sase/commit/e4673d6ada112414f44bd728ca5af78f5484d858) | chore: publish public install contract (sase-4j.2) | 2026-06-09 19:13:55 EDT |
 
 ## Neighbors
 

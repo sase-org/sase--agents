@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d5eb58f`](https://github.com/sase-org/sase/commit/d5eb58fbf7e2f0bad25afc724911be3ec55cb921) | chore: consolidate remote agent research | 2026-06-06 17:21:24 |
+| sase | [`d5eb58f`](https://github.com/sase-org/sase/commit/d5eb58fbf7e2f0bad25afc724911be3ec55cb921) | chore: consolidate remote agent research | 2026-06-06 13:21:24 EDT |
 
 ## Neighbors
 

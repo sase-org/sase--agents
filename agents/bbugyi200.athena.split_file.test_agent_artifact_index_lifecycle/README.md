@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7419936`](https://github.com/sase-org/sase/commit/7419936e5eeb89f4a9aa4313c8c78508d4d6ef81) | test: split agent artifact index lifecycle tests | 2026-06-16 03:12:52 |
+| sase | [`7419936`](https://github.com/sase-org/sase/commit/7419936e5eeb89f4a9aa4313c8c78508d4d6ef81) | test: split agent artifact index lifecycle tests | 2026-06-15 23:12:52 EDT |
 
 ## Neighbors
 

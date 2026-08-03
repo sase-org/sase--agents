@@ -22,8 +22,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`a141201`](https://github.com/sase-org/sase/commit/a141201cf038db63d1c4bf84d87d87e037cfadbc) | chore: Add SDD prompt and plan for cli\_help\_output | 2026-06-09 22:15:19 |
-| root | sase | [`3161450`](https://github.com/sase-org/sase/commit/3161450fc57f1db9f677ad98ac81d1504691b416) | feat: add compact root CLI help | 2026-06-09 22:24:52 |
-| root | sase | [`8d2179c`](https://github.com/sase-org/sase/commit/8d2179ced988a670782773751ec7c6c0858c6f5f) | fix(xprompt): preserve time-shaped wait dependency names | 2026-07-10 15:28:11 |
+| root | sase | [`a141201`](https://github.com/sase-org/sase/commit/a141201cf038db63d1c4bf84d87d87e037cfadbc) | chore: Add SDD prompt and plan for cli\_help\_output | 2026-06-09 18:15:19 EDT |
+| root | sase | [`3161450`](https://github.com/sase-org/sase/commit/3161450fc57f1db9f677ad98ac81d1504691b416) | feat: add compact root CLI help | 2026-06-09 18:24:52 EDT |
+| root | sase | [`8d2179c`](https://github.com/sase-org/sase/commit/8d2179ced988a670782773751ec7c6c0858c6f5f) | fix(xprompt): preserve time-shaped wait dependency names | 2026-07-10 11:28:11 EDT |

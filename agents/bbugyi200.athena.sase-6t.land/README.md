@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6a1df14`](https://github.com/sase-org/sase/commit/6a1df14b349e1e5f6bc688b43fea9ce8ff2b6543) | refactor(plans): privatize plan filter record types | 2026-07-18 19:19:52 |
+| sase | [`6a1df14`](https://github.com/sase-org/sase/commit/6a1df14b349e1e5f6bc688b43fea9ce8ff2b6543) | refactor(plans): privatize plan filter record types | 2026-07-18 15:19:52 EDT |
 
 ## Neighbors
 

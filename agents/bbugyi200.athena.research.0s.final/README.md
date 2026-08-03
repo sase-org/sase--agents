@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9394ef7`](https://github.com/sase-org/sase/commit/9394ef71b8bb0453b185273a1ad3688e2ed38c33) | docs: consolidate TUI/xprompt-LSP freeze research | 2026-06-27 20:21:40 |
+| sase | [`9394ef7`](https://github.com/sase-org/sase/commit/9394ef71b8bb0453b185273a1ad3688e2ed38c33) | docs: consolidate TUI/xprompt-LSP freeze research | 2026-06-27 16:21:40 EDT |
 
 ## Neighbors
 

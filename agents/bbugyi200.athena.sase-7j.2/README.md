@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`16309d5`](https://github.com/sase-org/sase/commit/16309d54c82de4644fec99e313dc8571276a3137) | feat(agents)!: cut runtime over to tribe terminology (sase-7j.2) | 2026-07-19 20:01:07 |
+| sase | [`16309d5`](https://github.com/sase-org/sase/commit/16309d54c82de4644fec99e313dc8571276a3137) | feat(agents)!: cut runtime over to tribe terminology (sase-7j.2) | 2026-07-19 16:01:07 EDT |
 
 ## Neighbors
 

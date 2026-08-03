@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`03df1f8`](https://github.com/sase-org/sase/commit/03df1f88dabcdb8895abf5025f566c389da3b7a3) | test: tighten visual snapshot drift tolerance | 2026-07-15 16:49:46 |
+| sase | [`03df1f8`](https://github.com/sase-org/sase/commit/03df1f88dabcdb8895abf5025f566c389da3b7a3) | test: tighten visual snapshot drift tolerance | 2026-07-15 12:49:46 EDT |
 
 ## Neighbors
 

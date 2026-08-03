@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8261b92`](https://github.com/sase-org/sase/commit/8261b9278fdb8d08bebd1a70a8c623a621d0f01b) | docs: clarify refreshed user documentation | 2026-06-23 11:34:47 |
+| sase | [`8261b92`](https://github.com/sase-org/sase/commit/8261b9278fdb8d08bebd1a70a8c623a621d0f01b) | docs: clarify refreshed user documentation | 2026-06-23 07:34:47 EDT |
 
 ## Neighbors
 

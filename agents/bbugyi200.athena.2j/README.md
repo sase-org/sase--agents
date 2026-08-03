@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d74aec7`](https://github.com/sase-org/sase/commit/d74aec7036551b8b9c66e7c5f4b39ca11bea1b25) | feat: add \`sase vcs log\` cross-repo commit timeline | 2026-07-08 19:10:09 |
+| sase | [`d74aec7`](https://github.com/sase-org/sase/commit/d74aec7036551b8b9c66e7c5f4b39ca11bea1b25) | feat: add \`sase vcs log\` cross-repo commit timeline | 2026-07-08 15:10:09 EDT |
 
 ## Neighbors
 

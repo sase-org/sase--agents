@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a59afd7`](https://github.com/sase-org/sase/commit/a59afd7d4084058d6dea1ce5b42bcf4d04ee278b) | chore: add project lifecycle infographic | 2026-06-01 16:20:51 |
+| sase | [`a59afd7`](https://github.com/sase-org/sase/commit/a59afd7d4084058d6dea1ce5b42bcf4d04ee278b) | chore: add project lifecycle infographic | 2026-06-01 12:20:51 EDT |
 
 ## Neighbors
 

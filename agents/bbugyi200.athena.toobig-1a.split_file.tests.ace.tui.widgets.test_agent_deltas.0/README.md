@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2035c46`](https://github.com/sase-org/sase/commit/2035c462d22f99779dc9f741e8f35c75065cccdf) | test: split agent deltas tests by behavior | 2026-07-31 15:54:44 |
+| sase | [`2035c46`](https://github.com/sase-org/sase/commit/2035c462d22f99779dc9f741e8f35c75065cccdf) | test: split agent deltas tests by behavior | 2026-07-31 11:54:44 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a75a477`](https://github.com/sase-org/sase/commit/a75a477d8b9511cdf9b16685828d9d94dfd8b037) | fix: persist clan summary stderr diagnostics (sase-8i.1) | 2026-07-21 15:02:21 |
+| sase | [`a75a477`](https://github.com/sase-org/sase/commit/a75a477d8b9511cdf9b16685828d9d94dfd8b037) | fix: persist clan summary stderr diagnostics (sase-8i.1) | 2026-07-21 11:02:21 EDT |
 
 ## Neighbors
 

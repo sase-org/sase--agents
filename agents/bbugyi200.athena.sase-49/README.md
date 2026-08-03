@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d4cc896`](https://github.com/sase-org/sase/commit/d4cc896e21f0b0982adf15fff99017e9a40da259) | chore: Add SDD prompt and plan for sase\_49\_completion\_gap (sase-49) | 2026-06-01 18:48:19 |
-| sase | [`43be21e`](https://github.com/sase-org/sase/commit/43be21ed806323667e4b658e941a13f5660b5f41) | fix: enforce workspace claim failures in launch paths (sase-49) | 2026-06-01 18:59:05 |
+| sase | [`d4cc896`](https://github.com/sase-org/sase/commit/d4cc896e21f0b0982adf15fff99017e9a40da259) | chore: Add SDD prompt and plan for sase\_49\_completion\_gap (sase-49) | 2026-06-01 14:48:19 EDT |
+| sase | [`43be21e`](https://github.com/sase-org/sase/commit/43be21ed806323667e4b658e941a13f5660b5f41) | fix: enforce workspace claim failures in launch paths (sase-49) | 2026-06-01 14:59:05 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a643a86`](https://github.com/sase-org/sase/commit/a643a864c33b1eb864f570c9e009ff89d313a69f) | fix(sdd): keep published core integration commit-safe (sase-af) | 2026-07-28 16:18:15 |
+| sase | [`a643a86`](https://github.com/sase-org/sase/commit/a643a864c33b1eb864f570c9e009ff89d313a69f) | fix(sdd): keep published core integration commit-safe (sase-af) | 2026-07-28 12:18:15 EDT |
 
 ## Neighbors
 

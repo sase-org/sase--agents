@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2a8d2eb`](https://github.com/sase-org/sase/commit/2a8d2eb6e42537b6eb56e935d1faf3cdce811d2d) | feat(sdd): add bead page addressing and hosted bead URLs (sase-ai.1) | 2026-07-28 18:38:10 |
+| sase | [`2a8d2eb`](https://github.com/sase-org/sase/commit/2a8d2eb6e42537b6eb56e935d1faf3cdce811d2d) | feat(sdd): add bead page addressing and hosted bead URLs (sase-ai.1) | 2026-07-28 14:38:10 EDT |
 
 ## Neighbors
 

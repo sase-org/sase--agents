@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2a8f559`](https://github.com/sase-org/sase/commit/2a8f55948cd7e592c9ef031750c9952f29db62cb) | chore: research project lifecycle states | 2026-06-01 16:08:23 |
+| sase | [`2a8f559`](https://github.com/sase-org/sase/commit/2a8f55948cd7e592c9ef031750c9952f29db62cb) | chore: research project lifecycle states | 2026-06-01 12:08:23 EDT |
 
 ## Neighbors
 

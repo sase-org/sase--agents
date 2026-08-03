@@ -15,11 +15,11 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c5f18ae`](https://github.com/sase-org/sase/commit/c5f18ae90c284e866aa79f1ffce9656886af1146) | fix: close dynamic family edge cases (sase-5f) | 2026-07-06 05:40:44 |
-| sase | [`5d604ab`](https://github.com/sase-org/sase/commit/5d604ab01ac0f25fb6a98dd82abf46ae56dd0789) | chore: record dynamic family bead commit marker | 2026-07-06 05:42:38 |
-| sase | [`b779bd5`](https://github.com/sase-org/sase/commit/b779bd534dd122e1fc762ec11b350cb29a968a31) | style: format rust install hint | 2026-07-06 05:43:23 |
+| sase | [`c5f18ae`](https://github.com/sase-org/sase/commit/c5f18ae90c284e866aa79f1ffce9656886af1146) | fix: close dynamic family edge cases (sase-5f) | 2026-07-06 01:40:44 EDT |
+| sase | [`5d604ab`](https://github.com/sase-org/sase/commit/5d604ab01ac0f25fb6a98dd82abf46ae56dd0789) | chore: record dynamic family bead commit marker | 2026-07-06 01:42:38 EDT |
+| sase | [`b779bd5`](https://github.com/sase-org/sase/commit/b779bd534dd122e1fc762ec11b350cb29a968a31) | style: format rust install hint | 2026-07-06 01:43:23 EDT |
 
 ## Neighbors
 

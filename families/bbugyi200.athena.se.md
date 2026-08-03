@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`4fcaee9`](https://github.com/sase-org/sase/commit/4fcaee95a5e543fd6635fc820e64b3cd2776480d) | fix(dev-update): guard code swaps during bead work | 2026-08-02 20:22:34 |
+| code | sase | [`4fcaee9`](https://github.com/sase-org/sase/commit/4fcaee95a5e543fd6635fc820e64b3cd2776480d) | fix(dev-update): guard code swaps during bead work | 2026-08-02 16:22:34 EDT |

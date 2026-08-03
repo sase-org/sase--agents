@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8f68de1`](https://github.com/sase-org/sase/commit/8f68de18acdc25e3b7e4c640db6b979a05d79581) | test: split axe chop policy coverage | 2026-07-20 11:51:11 |
+| sase | [`8f68de1`](https://github.com/sase-org/sase/commit/8f68de18acdc25e3b7e4c640db6b979a05d79581) | test: split axe chop policy coverage | 2026-07-20 07:51:11 EDT |
 
 ## Neighbors
 

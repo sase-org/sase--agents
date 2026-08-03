@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`bbb01e1`](https://github.com/sase-org/sase/commit/bbb01e1faec78ac570ff58342aa201aec0cb75b2) | feat(ace): add role-aware epic phase metadata | 2026-07-16 11:18:21 |
-| root | sase | [`bbb01e1`](https://github.com/sase-org/sase/commit/bbb01e1faec78ac570ff58342aa201aec0cb75b2) | feat(ace): add role-aware epic phase metadata | 2026-07-16 11:18:21 |
+| code | sase | [`bbb01e1`](https://github.com/sase-org/sase/commit/bbb01e1faec78ac570ff58342aa201aec0cb75b2) | feat(ace): add role-aware epic phase metadata | 2026-07-16 07:18:21 EDT |
+| root | sase | [`bbb01e1`](https://github.com/sase-org/sase/commit/bbb01e1faec78ac570ff58342aa201aec0cb75b2) | feat(ace): add role-aware epic phase metadata | 2026-07-16 07:18:21 EDT |
 
 ## Neighbors
 

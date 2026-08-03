@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`95010c1`](https://github.com/sase-org/sase/commit/95010c1d8038b90265eaa437815611f1fc2f8e1f) | test: split agent PNG snapshot tests by context | 2026-08-01 20:35:28 |
+| sase | [`95010c1`](https://github.com/sase-org/sase/commit/95010c1d8038b90265eaa437815611f1fc2f8e1f) | test: split agent PNG snapshot tests by context | 2026-08-01 16:35:28 EDT |
 
 ## Neighbors
 

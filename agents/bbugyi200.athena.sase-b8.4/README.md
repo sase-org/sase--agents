@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`59b0ecd`](https://github.com/sase-org/sase/commit/59b0ecd227a23891e7c6ed0eb588376a9a3b7135) | feat(agents-sync): preserve family lane commits | 2026-07-30 15:12:22 |
+| sase | [`59b0ecd`](https://github.com/sase-org/sase/commit/59b0ecd227a23891e7c6ed0eb588376a9a3b7135) | feat(agents-sync): preserve family lane commits | 2026-07-30 11:12:22 EDT |
 
 ## Neighbors
 

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e59ab99`](https://github.com/sase-org/sase/commit/e59ab99e60eba15339be9ba053cc5efbdbcab353) | chore: Add SDD prompt and plan for sase\_4z\_pyvision\_cleanup\_1 | 2026-06-19 16:33:58 |
-| sase | [`1cbae4d`](https://github.com/sase-org/sase/commit/1cbae4d1dbf88c105a88b5b4e6913cfe612720be) | refactor(xprompt): make VCS completion cache-clear helper private | 2026-06-19 16:40:33 |
+| sase | [`e59ab99`](https://github.com/sase-org/sase/commit/e59ab99e60eba15339be9ba053cc5efbdbcab353) | chore: Add SDD prompt and plan for sase\_4z\_pyvision\_cleanup\_1 | 2026-06-19 12:33:58 EDT |
+| sase | [`1cbae4d`](https://github.com/sase-org/sase/commit/1cbae4d1dbf88c105a88b5b4e6913cfe612720be) | refactor(xprompt): make VCS completion cache-clear helper private | 2026-06-19 12:40:33 EDT |
 
 ## Neighbors
 

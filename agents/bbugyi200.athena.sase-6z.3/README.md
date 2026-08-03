@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`80bd97a`](https://github.com/sase-org/sase/commit/80bd97ace7d8b14b721a930d6a125f006dd2a7a3) | feat(ace)!: add whole-panel selection (sase-6z.3) | 2026-07-19 04:20:23 |
+| sase | [`80bd97a`](https://github.com/sase-org/sase/commit/80bd97ace7d8b14b721a930d6a125f006dd2a7a3) | feat(ace)!: add whole-panel selection (sase-6z.3) | 2026-07-19 00:20:23 EDT |
 
 ## Neighbors
 

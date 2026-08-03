@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0e3f2f5`](https://github.com/sase-org/sase/commit/0e3f2f5167240a514507ec0e0f7987fd4f555b15) | chore: Add SDD prompt and plan for publish\_sase\_core\_rs\_0\_1\_1 | 2026-06-09 14:52:55 |
+| sase | [`0e3f2f5`](https://github.com/sase-org/sase/commit/0e3f2f5167240a514507ec0e0f7987fd4f555b15) | chore: Add SDD prompt and plan for publish\_sase\_core\_rs\_0\_1\_1 | 2026-06-09 10:52:55 EDT |
 
 ## Neighbors
 

@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c772feb`](https://github.com/sase-org/sase/commit/c772feb216286526e1a1d3a4f92e3648e105cb7f) | feat(tui): add command palette position indicator | 2026-06-25 23:08:02 |
+| sase | [`c772feb`](https://github.com/sase-org/sase/commit/c772feb216286526e1a1d3a4f92e3648e105cb7f) | feat(tui): add command palette position indicator | 2026-06-25 19:08:02 EDT |

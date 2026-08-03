@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`67929ab`](https://github.com/sase-org/sase/commit/67929abea95837d22b15b0a9d317100a70039a01) | docs(research): add blog launch readiness audit for xprompts, agents tab, and install flow | 2026-07-02 19:24:02 |
+| sase | [`67929ab`](https://github.com/sase-org/sase/commit/67929abea95837d22b15b0a9d317100a70039a01) | docs(research): add blog launch readiness audit for xprompts, agents tab, and install flow | 2026-07-02 15:24:02 EDT |
 
 ## Neighbors
 

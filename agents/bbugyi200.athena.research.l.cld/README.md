@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`111616f`](https://github.com/sase-org/sase/commit/111616f747e166f2b09b0a89242b7400329587e3) | docs(research): analyze model role config unification | 2026-06-17 19:12:10 |
+| sase | [`111616f`](https://github.com/sase-org/sase/commit/111616f747e166f2b09b0a89242b7400329587e3) | docs(research): analyze model role config unification | 2026-06-17 15:12:10 EDT |
 
 ## Neighbors
 

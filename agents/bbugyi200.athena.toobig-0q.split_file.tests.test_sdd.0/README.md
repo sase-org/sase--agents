@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9967ded`](https://github.com/sase-org/sase/commit/9967ded24a46b40e12ed763e8eb2ea27555c7a23) | test: split SDD tests by behavior | 2026-07-28 16:15:47 |
+| sase | [`9967ded`](https://github.com/sase-org/sase/commit/9967ded24a46b40e12ed763e8eb2ea27555c7a23) | test: split SDD tests by behavior | 2026-07-28 12:15:47 EDT |

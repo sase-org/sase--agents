@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`7917c0f`](https://github.com/sase-org/sase/commit/7917c0f79fece6d823e200233d1cc8220ab66027) | fix(tui): show clan members before summary | 2026-07-22 15:43:18 |
+| code | sase | [`7917c0f`](https://github.com/sase-org/sase/commit/7917c0f79fece6d823e200233d1cc8220ab66027) | fix(tui): show clan members before summary | 2026-07-22 11:43:18 EDT |

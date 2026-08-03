@@ -25,7 +25,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`9560818`](https://github.com/sase-org/sase/commit/9560818891754e12f4f25a9d34a692f83cf2945f) | chore: Add SDD prompt and plan for tui\_launch\_approval\_dispatch | 2026-07-06 17:32:21 |
-| root | sase | [`95f03c9`](https://github.com/sase-org/sase/commit/95f03c96be0b98c8694d1e0281575ec0a2100ffb) | fix(tui): dispatch launch approvals in background | 2026-07-06 17:44:10 |
+| root | sase | [`9560818`](https://github.com/sase-org/sase/commit/9560818891754e12f4f25a9d34a692f83cf2945f) | chore: Add SDD prompt and plan for tui\_launch\_approval\_dispatch | 2026-07-06 13:32:21 EDT |
+| root | sase | [`95f03c9`](https://github.com/sase-org/sase/commit/95f03c96be0b98c8694d1e0281575ec0a2100ffb) | fix(tui): dispatch launch approvals in background | 2026-07-06 13:44:10 EDT |

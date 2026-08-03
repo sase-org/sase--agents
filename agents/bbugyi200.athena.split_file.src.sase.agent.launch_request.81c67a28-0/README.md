@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6ae0dd2`](https://github.com/sase-org/sase/commit/6ae0dd2b73f07602463bbb5eb745db3e75193d26) | refactor(agent): split launch request responsibilities | 2026-07-19 07:18:58 |
+| sase | [`6ae0dd2`](https://github.com/sase-org/sase/commit/6ae0dd2b73f07602463bbb5eb745db3e75193d26) | refactor(agent): split launch request responsibilities | 2026-07-19 03:18:58 EDT |
 
 ## Neighbors
 

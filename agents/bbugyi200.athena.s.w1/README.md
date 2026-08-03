@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2856003`](https://github.com/sase-org/sase/commit/2856003484aac9950419951b94e25fd0c5afd095) | fix(tui): show configured PROJECT\_NAME in VCS xprompt prefill surfaces | 2026-07-03 17:56:57 |
-| sase | [`05ce0e7`](https://github.com/sase-org/sase/commit/05ce0e75ddc90be99073d3c9c28f39b79b19e683) | build!: rename demo-video recipe to demos | 2026-07-06 23:29:42 |
+| sase | [`2856003`](https://github.com/sase-org/sase/commit/2856003484aac9950419951b94e25fd0c5afd095) | fix(tui): show configured PROJECT\_NAME in VCS xprompt prefill surfaces | 2026-07-03 13:56:57 EDT |
+| sase | [`05ce0e7`](https://github.com/sase-org/sase/commit/05ce0e75ddc90be99073d3c9c28f39b79b19e683) | build!: rename demo-video recipe to demos | 2026-07-06 19:29:42 EDT |
 
 ## Neighbors
 

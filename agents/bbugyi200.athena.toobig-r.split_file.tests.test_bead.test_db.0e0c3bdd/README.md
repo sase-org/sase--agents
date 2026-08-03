@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3f61cb2`](https://github.com/sase-org/sase/commit/3f61cb29c03671315ea6be39964ee42db9b90e2b) | test: split bead database tests | 2026-07-24 19:44:54 |
+| sase | [`3f61cb2`](https://github.com/sase-org/sase/commit/3f61cb29c03671315ea6be39964ee42db9b90e2b) | test: split bead database tests | 2026-07-24 15:44:54 EDT |
 
 ## Neighbors
 

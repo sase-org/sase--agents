@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c8abfe2`](https://github.com/sase-org/sase/commit/c8abfe29f6653fa5615051157e470c4e5dd8ddba) | feat(ace): load linked plans in artifact details | 2026-07-18 21:00:34 |
+| sase | [`c8abfe2`](https://github.com/sase-org/sase/commit/c8abfe29f6653fa5615051157e470c4e5dd8ddba) | feat(ace): load linked plans in artifact details | 2026-07-18 17:00:34 EDT |
 
 ## Neighbors
 

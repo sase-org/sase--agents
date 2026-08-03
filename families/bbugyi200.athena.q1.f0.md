@@ -25,9 +25,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`e023e68`](https://github.com/sase-org/sase/commit/e023e68a9d8e363a92e2504e881d92d00f26c39d) | feat(ace-tribes): drop bundled research tribe display config | 2026-07-31 13:01:44 |
+| code | sase | [`e023e68`](https://github.com/sase-org/sase/commit/e023e68a9d8e363a92e2504e881d92d00f26c39d) | feat(ace-tribes): drop bundled research tribe display config | 2026-07-31 09:01:44 EDT |
 
 ## Neighbors
 

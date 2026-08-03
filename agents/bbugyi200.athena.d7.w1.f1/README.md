@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4c20b1b`](https://github.com/sase-org/sase/commit/4c20b1bdb1d62ceea0c52532cff6691e9c198b23) | feat(ace): distinguish agent family rows | 2026-07-18 13:30:43 |
+| sase | [`4c20b1b`](https://github.com/sase-org/sase/commit/4c20b1bdb1d62ceea0c52532cff6691e9c198b23) | feat(ace): distinguish agent family rows | 2026-07-18 09:30:43 EDT |
 
 ## Neighbors
 

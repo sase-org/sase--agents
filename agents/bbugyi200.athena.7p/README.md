@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ab26e9e`](https://github.com/sase-org/sase/commit/ab26e9eace2cf95198d32fd76ce45d9a82cd8691) | chore: Add SDD prompt and plan for hide\_empty\_memory\_lane\_1 | 2026-06-15 11:07:46 |
-| sase | [`7189b64`](https://github.com/sase-org/sase/commit/7189b64407571282bc0552a8d41cd9c7cbd43c90) | feat(ace): hide empty MEMORY lane in agent context section | 2026-06-15 11:11:59 |
+| sase | [`ab26e9e`](https://github.com/sase-org/sase/commit/ab26e9eace2cf95198d32fd76ce45d9a82cd8691) | chore: Add SDD prompt and plan for hide\_empty\_memory\_lane\_1 | 2026-06-15 07:07:46 EDT |
+| sase | [`7189b64`](https://github.com/sase-org/sase/commit/7189b64407571282bc0552a8d41cd9c7cbd43c90) | feat(ace): hide empty MEMORY lane in agent context section | 2026-06-15 07:11:59 EDT |

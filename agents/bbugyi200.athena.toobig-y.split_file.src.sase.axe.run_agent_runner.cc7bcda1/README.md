@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`61859eb`](https://github.com/sase-org/sase/commit/61859ebb8393f0e92702cc75990ab6556e36ed18) | refactor(axe): split run\_agent\_runner into phase modules | 2026-07-25 14:58:15 |
+| sase | [`61859eb`](https://github.com/sase-org/sase/commit/61859ebb8393f0e92702cc75990ab6556e36ed18) | refactor(axe): split run\_agent\_runner into phase modules | 2026-07-25 10:58:15 EDT |
 
 ## Neighbors
 

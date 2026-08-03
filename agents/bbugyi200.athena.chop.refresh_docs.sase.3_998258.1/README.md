@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e93ab3d`](https://github.com/sase-org/sase/commit/e93ab3db05a1bf5ff5dc89e4724ad92fffd89f19) | docs: refresh current user workflows | 2026-07-31 03:10:52 |
+| sase | [`e93ab3d`](https://github.com/sase-org/sase/commit/e93ab3db05a1bf5ff5dc89e4724ad92fffd89f19) | docs: refresh current user workflows | 2026-07-30 23:10:52 EDT |
 
 ## Neighbors
 

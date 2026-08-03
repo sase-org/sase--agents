@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`86dd439`](https://github.com/sase-org/sase/commit/86dd439409b08005fe24758419e7d669d4c808c7) | fix: materialize beads sidecar before launch claim | 2026-07-28 11:10:27 |
+| code | sase | [`86dd439`](https://github.com/sase-org/sase/commit/86dd439409b08005fe24758419e7d669d4c808c7) | fix: materialize beads sidecar before launch claim | 2026-07-28 07:10:27 EDT |

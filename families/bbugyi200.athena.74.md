@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`ab0a559`](https://github.com/sase-org/sase/commit/ab0a55920427b845eb14fa674239278dcf04843b) | feat(amd): support customizable agent templates | 2026-07-12 19:57:43 |
-| root | sase | [`ab0a559`](https://github.com/sase-org/sase/commit/ab0a55920427b845eb14fa674239278dcf04843b) | feat(amd): support customizable agent templates | 2026-07-12 19:57:43 |
+| code | sase | [`ab0a559`](https://github.com/sase-org/sase/commit/ab0a55920427b845eb14fa674239278dcf04843b) | feat(amd): support customizable agent templates | 2026-07-12 15:57:43 EDT |
+| root | sase | [`ab0a559`](https://github.com/sase-org/sase/commit/ab0a55920427b845eb14fa674239278dcf04843b) | feat(amd): support customizable agent templates | 2026-07-12 15:57:43 EDT |
 
 ## Neighbors
 

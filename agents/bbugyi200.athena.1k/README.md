@@ -19,12 +19,12 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c03fc7f`](https://github.com/sase-org/sase/commit/c03fc7f63d12a2f3c2f97b32350e8c4628bc008e) | chore: Add SDD prompt and plan for artifact\_file\_fallback\_viewer | 2026-06-03 12:31:46 |
-| sase | [`3e49b5b`](https://github.com/sase-org/sase/commit/3e49b5b102c23d41f25bce03bef8e72a9601eac9) | feat: add text fallback for artifact viewer | 2026-06-03 12:44:41 |
-| sase | [`41017b9`](https://github.com/sase-org/sase/commit/41017b9745c1b75e4e924a6f45481602e15182e0) | chore: Add SDD prompt and plan for telegram\_output\_variables | 2026-07-08 03:00:43 |
-| sase | [`a5e3ef5`](https://github.com/sase-org/sase/commit/a5e3ef5f047e69982c4ec041dc2de1abc13f123b) | feat: include output variables in completion notifications | 2026-07-08 03:11:43 |
+| sase | [`c03fc7f`](https://github.com/sase-org/sase/commit/c03fc7f63d12a2f3c2f97b32350e8c4628bc008e) | chore: Add SDD prompt and plan for artifact\_file\_fallback\_viewer | 2026-06-03 08:31:46 EDT |
+| sase | [`3e49b5b`](https://github.com/sase-org/sase/commit/3e49b5b102c23d41f25bce03bef8e72a9601eac9) | feat: add text fallback for artifact viewer | 2026-06-03 08:44:41 EDT |
+| sase | [`41017b9`](https://github.com/sase-org/sase/commit/41017b9745c1b75e4e924a6f45481602e15182e0) | chore: Add SDD prompt and plan for telegram\_output\_variables | 2026-07-07 23:00:43 EDT |
+| sase | [`a5e3ef5`](https://github.com/sase-org/sase/commit/a5e3ef5f047e69982c4ec041dc2de1abc13f123b) | feat: include output variables in completion notifications | 2026-07-07 23:11:43 EDT |
 
 ## Neighbors
 

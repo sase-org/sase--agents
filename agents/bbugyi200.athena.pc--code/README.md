@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4866ece`](https://github.com/sase-org/sase/commit/4866ece4a6dca7bc148f10323b5ce418f145729d) | fix(sdd): project canonical plan header links | 2026-07-30 14:10:49 |
+| sase | [`4866ece`](https://github.com/sase-org/sase/commit/4866ece4a6dca7bc148f10323b5ce418f145729d) | fix(sdd): project canonical plan header links | 2026-07-30 10:10:49 EDT |

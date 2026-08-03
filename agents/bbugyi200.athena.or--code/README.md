@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`03739dc`](https://github.com/sase-org/sase/commit/03739dcecdc357d73dba1e83c3edce0b4309a58d) | fix(tui): load artifact catalog from target project | 2026-07-29 20:58:36 |
+| sase | [`03739dc`](https://github.com/sase-org/sase/commit/03739dcecdc357d73dba1e83c3edce0b4309a58d) | fix(tui): load artifact catalog from target project | 2026-07-29 16:58:36 EDT |

@@ -15,11 +15,11 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aee775e`](https://github.com/sase-org/sase/commit/aee775e9248e725a30297127ece7a7930b905e95) | chore: close structured episodic memory epic (sase-45) | 2026-05-27 01:24:38 |
-| sase | [`05b1470`](https://github.com/sase-org/sase/commit/05b147024ee81b19a7b45bf67b2f82f0b65c9a66) | chore: Add SDD prompt and plan for sase45\_pyvision\_cleanup (sase-45) | 2026-05-27 01:27:03 |
-| sase | [`5299857`](https://github.com/sase-org/sase/commit/529985798864533aea701e78fa9553ba85b2c032) | feat(memory): expose episode build wire payloads (sase-45) | 2026-05-27 01:36:39 |
+| sase | [`aee775e`](https://github.com/sase-org/sase/commit/aee775e9248e725a30297127ece7a7930b905e95) | chore: close structured episodic memory epic (sase-45) | 2026-05-26 21:24:38 EDT |
+| sase | [`05b1470`](https://github.com/sase-org/sase/commit/05b147024ee81b19a7b45bf67b2f82f0b65c9a66) | chore: Add SDD prompt and plan for sase45\_pyvision\_cleanup (sase-45) | 2026-05-26 21:27:03 EDT |
+| sase | [`5299857`](https://github.com/sase-org/sase/commit/529985798864533aea701e78fa9553ba85b2c032) | feat(memory): expose episode build wire payloads (sase-45) | 2026-05-26 21:36:39 EDT |
 
 ## Neighbors
 

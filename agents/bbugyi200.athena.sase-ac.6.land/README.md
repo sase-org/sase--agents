@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`01549ff`](https://github.com/sase-org/sase/commit/01549ff628d0fc96995e7cc11b04a44d2e7a6b52) | test(xprompt): cover browser row merge and drop cache reach-ins (sase-ac.6) | 2026-07-28 15:22:06 |
+| sase | [`01549ff`](https://github.com/sase-org/sase/commit/01549ff628d0fc96995e7cc11b04a44d2e7a6b52) | test(xprompt): cover browser row merge and drop cache reach-ins (sase-ac.6) | 2026-07-28 11:22:06 EDT |
 
 ## Neighbors
 

@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d6acb3f`](https://github.com/sase-org/sase/commit/d6acb3f6e4524d4c58f0ebca9d4aa7923469fb2b) | chore: Add SDD prompt and plan for remove\_sase\_git | 2026-06-18 18:31:05 |
-| sase | [`70651ab`](https://github.com/sase-org/sase/commit/70651abeb701f0cbf1817ca4cfc86463e24270e5) | feat(cli)!: remove sase git init | 2026-06-18 18:38:27 |
+| sase | [`d6acb3f`](https://github.com/sase-org/sase/commit/d6acb3f6e4524d4c58f0ebca9d4aa7923469fb2b) | chore: Add SDD prompt and plan for remove\_sase\_git | 2026-06-18 14:31:05 EDT |
+| sase | [`70651ab`](https://github.com/sase-org/sase/commit/70651abeb701f0cbf1817ca4cfc86463e24270e5) | feat(cli)!: remove sase git init | 2026-06-18 14:38:27 EDT |

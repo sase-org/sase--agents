@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d309209`](https://github.com/sase-org/sase/commit/d3092097634024e4d000201137a1aedfd918d742) | feat(tui): persist agent directive edits in background | 2026-06-25 21:00:03 |
+| sase | [`d309209`](https://github.com/sase-org/sase/commit/d3092097634024e4d000201137a1aedfd918d742) | feat(tui): persist agent directive edits in background | 2026-06-25 17:00:03 EDT |

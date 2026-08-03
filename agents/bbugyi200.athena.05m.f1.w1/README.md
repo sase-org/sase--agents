@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4c38617`](https://github.com/sase-org/sase/commit/4c386170b373672f5ba1c0a3e68ce480fb41513e) | feat(tui): auto-restore lone prompt stash entry | 2026-06-24 18:53:03 |
+| sase | [`4c38617`](https://github.com/sase-org/sase/commit/4c386170b373672f5ba1c0a3e68ce480fb41513e) | feat(tui): auto-restore lone prompt stash entry | 2026-06-24 14:53:03 EDT |
 
 ## Neighbors
 

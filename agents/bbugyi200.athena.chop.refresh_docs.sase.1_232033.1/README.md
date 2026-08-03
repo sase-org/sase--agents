@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b0f4918`](https://github.com/sase-org/sase/commit/b0f491800236604b55a0e68371d84818b970351c) | docs: refresh user-facing documentation | 2026-07-25 20:57:40 |
+| sase | [`b0f4918`](https://github.com/sase-org/sase/commit/b0f491800236604b55a0e68371d84818b970351c) | docs: refresh user-facing documentation | 2026-07-25 16:57:40 EDT |
 
 ## Neighbors
 

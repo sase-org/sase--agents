@@ -22,8 +22,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`e8dbf1c`](https://github.com/sase-org/sase/commit/e8dbf1cdb78ac26d5123e379980d4ad8d7027d12) | chore: Add SDD prompt and plan for wait\_family\_handoff | 2026-06-06 14:50:00 |
-| root | sase | [`aaf3ec8`](https://github.com/sase-org/sase/commit/aaf3ec8a7d319efbcf3bc14a72805c5a757d1cdd) | fix: resolve completed plan handoff wait deps | 2026-06-06 14:59:13 |
-| root | sase | [`dff80f1`](https://github.com/sase-org/sase/commit/dff80f129e7181036a2b70c0e0efb282bbb39961) | fix(plugin): use sase--plugin catalog topic | 2026-07-09 02:04:35 |
+| root | sase | [`e8dbf1c`](https://github.com/sase-org/sase/commit/e8dbf1cdb78ac26d5123e379980d4ad8d7027d12) | chore: Add SDD prompt and plan for wait\_family\_handoff | 2026-06-06 10:50:00 EDT |
+| root | sase | [`aaf3ec8`](https://github.com/sase-org/sase/commit/aaf3ec8a7d319efbcf3bc14a72805c5a757d1cdd) | fix: resolve completed plan handoff wait deps | 2026-06-06 10:59:13 EDT |
+| root | sase | [`dff80f1`](https://github.com/sase-org/sase/commit/dff80f129e7181036a2b70c0e0efb282bbb39961) | fix(plugin): use sase--plugin catalog topic | 2026-07-08 22:04:35 EDT |

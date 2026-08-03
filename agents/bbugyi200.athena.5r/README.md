@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1763302`](https://github.com/sase-org/sase/commit/1763302c8d5e583545ae387bd174d1ed79483790) | chore: Add SDD prompt and plan for agents\_zoom\_keymap | 2026-06-12 16:39:25 |
-| sase | [`1bfd6a8`](https://github.com/sase-org/sase/commit/1bfd6a888b945a05bf612375eb9f681eba5ee876) | feat(ace): add agents detail zoom modal | 2026-06-12 17:01:32 |
+| sase | [`1763302`](https://github.com/sase-org/sase/commit/1763302c8d5e583545ae387bd174d1ed79483790) | chore: Add SDD prompt and plan for agents\_zoom\_keymap | 2026-06-12 12:39:25 EDT |
+| sase | [`1bfd6a8`](https://github.com/sase-org/sase/commit/1bfd6a888b945a05bf612375eb9f681eba5ee876) | feat(ace): add agents detail zoom modal | 2026-06-12 13:01:32 EDT |

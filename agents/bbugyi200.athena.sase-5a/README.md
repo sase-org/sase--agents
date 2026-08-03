@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`865d6fe`](https://github.com/sase-org/sase/commit/865d6fe078041e24610acc3605a2686161ad7fa0) | chore: Add SDD prompt and plan for sase\_5a\_remaining (sase-5a) | 2026-06-26 19:10:35 |
-| sase | [`4143811`](https://github.com/sase-org/sase/commit/41438115571e5f65f46f6280a3a475b6c7e25eba) | docs(ace): drop retired projects leader key and close sase-5a | 2026-06-26 19:15:59 |
+| sase | [`865d6fe`](https://github.com/sase-org/sase/commit/865d6fe078041e24610acc3605a2686161ad7fa0) | chore: Add SDD prompt and plan for sase\_5a\_remaining (sase-5a) | 2026-06-26 15:10:35 EDT |
+| sase | [`4143811`](https://github.com/sase-org/sase/commit/41438115571e5f65f46f6280a3a475b6c7e25eba) | docs(ace): drop retired projects leader key and close sase-5a | 2026-06-26 15:15:59 EDT |
 
 ## Neighbors
 

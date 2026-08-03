@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`496c794`](https://github.com/sase-org/sase/commit/496c7945ea5b223c5969e3ff7ea060e84c25d015) | fix(bead): preserve authored tier for epic work plans | 2026-07-18 17:47:32 |
+| sase | [`496c794`](https://github.com/sase-org/sase/commit/496c7945ea5b223c5969e3ff7ea060e84c25d015) | fix(bead): preserve authored tier for epic work plans | 2026-07-18 13:47:32 EDT |

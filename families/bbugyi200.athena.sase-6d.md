@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`aa38ebf`](https://github.com/sase-org/sase/commit/aa38ebf34fc2be9484d5b06f2c79c05a4e062725) | refactor!: remove unused content layout entry points (sase-6d) | 2026-07-16 21:11:11 |
-| root | sase | [`50809bd`](https://github.com/sase-org/sase/commit/50809bdb85382fe20e9e502e2f14b15c37490728) | test: stabilize xprompt save visual snapshots (sase-6d) | 2026-07-16 21:11:46 |
+| root | sase | [`aa38ebf`](https://github.com/sase-org/sase/commit/aa38ebf34fc2be9484d5b06f2c79c05a4e062725) | refactor!: remove unused content layout entry points (sase-6d) | 2026-07-16 17:11:11 EDT |
+| root | sase | [`50809bd`](https://github.com/sase-org/sase/commit/50809bdb85382fe20e9e502e2f14b15c37490728) | test: stabilize xprompt save visual snapshots (sase-6d) | 2026-07-16 17:11:46 EDT |
 
 ## Neighbors
 

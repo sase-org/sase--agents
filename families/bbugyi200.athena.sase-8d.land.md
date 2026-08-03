@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`fc1c918`](https://github.com/sase-org/sase/commit/fc1c91844a8e4b1c0ad311c98d29f9c3beb61ecc) | fix(sdd): preserve plan path basenames when wrapping (sase-8d) | 2026-07-20 21:27:15 |
+| code | sase | [`fc1c918`](https://github.com/sase-org/sase/commit/fc1c91844a8e4b1c0ad311c98d29f9c3beb61ecc) | fix(sdd): preserve plan path basenames when wrapping (sase-8d) | 2026-07-20 17:27:15 EDT |
 
 ## Neighbors
 

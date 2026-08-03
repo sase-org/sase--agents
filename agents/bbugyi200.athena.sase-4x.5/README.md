@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b733512`](https://github.com/sase-org/sase/commit/b733512740d2fb35099bf82ea241205340e2c0f2) | feat(plan-search): add compact/full/markdown rendering + color (sase-4x.5) | 2026-06-19 03:30:17 |
+| sase | [`b733512`](https://github.com/sase-org/sase/commit/b733512740d2fb35099bf82ea241205340e2c0f2) | feat(plan-search): add compact/full/markdown rendering + color (sase-4x.5) | 2026-06-18 23:30:17 EDT |
 
 ## Neighbors
 

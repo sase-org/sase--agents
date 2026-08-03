@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cfbac39`](https://github.com/sase-org/sase/commit/cfbac3928a5039a06090e7e4cdf5ce2ef47ee862) | fix: make approved plan linking atomic | 2026-07-27 19:54:21 |
+| sase | [`cfbac39`](https://github.com/sase-org/sase/commit/cfbac3928a5039a06090e7e4cdf5ce2ef47ee862) | fix: make approved plan linking atomic | 2026-07-27 15:54:21 EDT |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c4063f4`](https://github.com/sase-org/sase/commit/c4063f44788f86af1169ee1ac22ca4565c1858b2) | fix(ace): exclude a lane from its own neighbor list (sase-99.5) | 2026-07-25 16:41:11 |
+| sase | [`c4063f4`](https://github.com/sase-org/sase/commit/c4063f44788f86af1169ee1ac22ca4565c1858b2) | fix(ace): exclude a lane from its own neighbor list (sase-99.5) | 2026-07-25 12:41:11 EDT |
 
 ## Neighbors
 

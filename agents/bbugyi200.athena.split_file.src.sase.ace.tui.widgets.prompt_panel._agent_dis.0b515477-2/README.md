@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5a56032`](https://github.com/sase-org/sase/commit/5a56032fb1d6868dd063da40b7e3b8ed04fd8aba) | refactor(ace): split agent display async workers | 2026-07-19 20:46:47 |
+| sase | [`5a56032`](https://github.com/sase-org/sase/commit/5a56032fb1d6868dd063da40b7e3b8ed04fd8aba) | refactor(ace): split agent display async workers | 2026-07-19 16:46:47 EDT |
 
 ## Neighbors
 

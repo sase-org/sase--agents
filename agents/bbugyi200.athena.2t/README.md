@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d17ac0b`](https://github.com/sase-org/sase/commit/d17ac0bb2602615286fd953cb2c7ea2aff53c278) | feat(vcs): add log filters and full output | 2026-07-08 19:40:36 |
+| sase | [`d17ac0b`](https://github.com/sase-org/sase/commit/d17ac0bb2602615286fd953cb2c7ea2aff53c278) | feat(vcs): add log filters and full output | 2026-07-08 15:40:36 EDT |
 
 ## Neighbors
 

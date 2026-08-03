@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`4376456`](https://github.com/sase-org/sase/commit/437645675ee74440a32fd4079fee031bbe3524f3) | fix: make retry visual tests hermetic | 2026-07-11 18:08:52 |
-| root | sase | [`4376456`](https://github.com/sase-org/sase/commit/437645675ee74440a32fd4079fee031bbe3524f3) | fix: make retry visual tests hermetic | 2026-07-11 18:08:52 |
+| code | sase | [`4376456`](https://github.com/sase-org/sase/commit/437645675ee74440a32fd4079fee031bbe3524f3) | fix: make retry visual tests hermetic | 2026-07-11 14:08:52 EDT |
+| root | sase | [`4376456`](https://github.com/sase-org/sase/commit/437645675ee74440a32fd4079fee031bbe3524f3) | fix: make retry visual tests hermetic | 2026-07-11 14:08:52 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c1f0026`](https://github.com/sase-org/sase/commit/c1f002680ffc14f194865bd56bbd9a1c4c816ff6) | ref: split project handler tests | 2026-06-04 16:11:01 |
+| sase | [`c1f0026`](https://github.com/sase-org/sase/commit/c1f002680ffc14f194865bd56bbd9a1c4c816ff6) | ref: split project handler tests | 2026-06-04 12:11:01 EDT |
 
 ## Neighbors
 

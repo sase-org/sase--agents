@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`7d85188`](https://github.com/sase-org/sase/commit/7d85188c18080e4e986e8fd65394144c8ae9ce2f) | test(skills): cover backwards manifest ABA refusal (sase-ae) | 2026-07-28 14:11:00 |
+| code | sase | [`7d85188`](https://github.com/sase-org/sase/commit/7d85188c18080e4e986e8fd65394144c8ae9ce2f) | test(skills): cover backwards manifest ABA refusal (sase-ae) | 2026-07-28 10:11:00 EDT |
 
 ## Neighbors
 

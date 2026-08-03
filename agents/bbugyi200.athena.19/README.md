@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4e9b6be`](https://github.com/sase-org/sase/commit/4e9b6bee4f86a946be364554c388768b6d3d7569) | chore: Add SDD prompt and plan for auto\_name\_zero\_first | 2026-06-02 17:53:46 |
-| sase | [`72c8215`](https://github.com/sase-org/sase/commit/72c82159bf0af8209110cfb32603e5425c0449b4) | fix: start auto agent names at zero | 2026-06-02 18:06:45 |
+| sase | [`4e9b6be`](https://github.com/sase-org/sase/commit/4e9b6bee4f86a946be364554c388768b6d3d7569) | chore: Add SDD prompt and plan for auto\_name\_zero\_first | 2026-06-02 13:53:46 EDT |
+| sase | [`72c8215`](https://github.com/sase-org/sase/commit/72c82159bf0af8209110cfb32603e5425c0449b4) | fix: start auto agent names at zero | 2026-06-02 14:06:45 EDT |

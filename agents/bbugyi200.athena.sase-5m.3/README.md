@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b09de75`](https://github.com/sase-org/sase/commit/b09de751983a332fae4f4b8b42ee0a2389380ab7) | docs(memory): update memory directory map infographic (sase-5m.3) | 2026-07-08 23:38:58 |
+| sase | [`b09de75`](https://github.com/sase-org/sase/commit/b09de751983a332fae4f4b8b42ee0a2389380ab7) | docs(memory): update memory directory map infographic (sase-5m.3) | 2026-07-08 19:38:58 EDT |
 
 ## Neighbors
 

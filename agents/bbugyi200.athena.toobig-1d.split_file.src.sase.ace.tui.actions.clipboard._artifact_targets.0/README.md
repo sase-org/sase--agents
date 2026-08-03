@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ec246d8`](https://github.com/sase-org/sase/commit/ec246d8708a1a6379775787c9b70c350f4d7eb32) | refactor(tui): split artifact clipboard targets | 2026-08-01 19:08:46 |
+| sase | [`ec246d8`](https://github.com/sase-org/sase/commit/ec246d8708a1a6379775787c9b70c350f4d7eb32) | refactor(tui): split artifact clipboard targets | 2026-08-01 15:08:46 EDT |
 
 ## Neighbors
 

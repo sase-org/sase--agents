@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8f6d3a2`](https://github.com/sase-org/sase/commit/8f6d3a2d4c410815ef79059442315b2322751a75) | fix: preserve commit ChangeSpec attribution (sase-70.1) | 2026-07-19 02:39:13 |
+| sase | [`8f6d3a2`](https://github.com/sase-org/sase/commit/8f6d3a2d4c410815ef79059442315b2322751a75) | fix: preserve commit ChangeSpec attribution (sase-70.1) | 2026-07-18 22:39:13 EDT |
 
 ## Neighbors
 

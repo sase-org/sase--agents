@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6a1afad`](https://github.com/sase-org/sase/commit/6a1afad8a7f2cc35b76821ca18f382385fe80f4d) | feat(tui): add clan slow tool report hints | 2026-08-01 13:50:34 |
+| sase | [`6a1afad`](https://github.com/sase-org/sase/commit/6a1afad8a7f2cc35b76821ca18f382385fe80f4d) | feat(tui): add clan slow tool report hints | 2026-08-01 09:50:34 EDT |
 
 ## Neighbors
 

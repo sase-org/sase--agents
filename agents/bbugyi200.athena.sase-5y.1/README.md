@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f324809`](https://github.com/sase-org/sase/commit/f324809f09d2e49852bd9430a3b57a0793a695aa) | feat(repo): add external repository domain model (sase-5y.1) | 2026-07-13 21:26:45 |
+| sase | [`f324809`](https://github.com/sase-org/sase/commit/f324809f09d2e49852bd9430a3b57a0793a695aa) | feat(repo): add external repository domain model (sase-5y.1) | 2026-07-13 17:26:45 EDT |
 
 ## Neighbors
 

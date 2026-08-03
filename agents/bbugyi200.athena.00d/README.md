@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8db0ca4`](https://github.com/sase-org/sase/commit/8db0ca446ff2ca9f97080f02ff83cb34ad4efd1a) | chore: Add SDD prompt and plan for xprompt\_panel\_add\_keymaps | 2026-06-18 14:10:02 |
-| sase | [`36eb840`](https://github.com/sase-org/sase/commit/36eb8403b5bbb6af0fe2bfb24c7b559f966eae48) | feat(tui): split frontmatter add keymaps | 2026-06-18 14:23:21 |
+| sase | [`8db0ca4`](https://github.com/sase-org/sase/commit/8db0ca446ff2ca9f97080f02ff83cb34ad4efd1a) | chore: Add SDD prompt and plan for xprompt\_panel\_add\_keymaps | 2026-06-18 10:10:02 EDT |
+| sase | [`36eb840`](https://github.com/sase-org/sase/commit/36eb8403b5bbb6af0fe2bfb24c7b559f966eae48) | feat(tui): split frontmatter add keymaps | 2026-06-18 10:23:21 EDT |

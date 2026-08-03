@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8442d08`](https://github.com/sase-org/sase/commit/8442d08e8b13082505d6f7b921f9a41a1228efa6) | chore: Add SDD prompt and plan for plugin\_uninstall | 2026-06-26 19:49:03 |
-| sase | [`2834fe4`](https://github.com/sase-org/sase/commit/2834fe4158137388c8cd70b8c5258d9f3493d4a3) | feat(plugins): add \`sase plugin uninstall \<plugin\>\` | 2026-06-26 20:09:59 |
+| sase | [`8442d08`](https://github.com/sase-org/sase/commit/8442d08e8b13082505d6f7b921f9a41a1228efa6) | chore: Add SDD prompt and plan for plugin\_uninstall | 2026-06-26 15:49:03 EDT |
+| sase | [`2834fe4`](https://github.com/sase-org/sase/commit/2834fe4158137388c8cd70b8c5258d9f3493d4a3) | feat(plugins): add \`sase plugin uninstall \<plugin\>\` | 2026-06-26 16:09:59 EDT |

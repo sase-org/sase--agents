@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`34d533f`](https://github.com/sase-org/sase/commit/34d533f54e765b947aae9dac78fd4511448e1630) | fix: recognize adjacent inline code in xprompt overlays | 2026-07-19 13:18:20 |
+| code | sase | [`34d533f`](https://github.com/sase-org/sase/commit/34d533f54e765b947aae9dac78fd4511448e1630) | fix: recognize adjacent inline code in xprompt overlays | 2026-07-19 09:18:20 EDT |

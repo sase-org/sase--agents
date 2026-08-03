@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`331932b`](https://github.com/sase-org/sase/commit/331932b2c8c82517dd5920b5129822e50466079d) | feat(ace): add shared config editor components (sase-8m.2) | 2026-07-22 17:19:57 |
+| sase | [`331932b`](https://github.com/sase-org/sase/commit/331932b2c8c82517dd5920b5129822e50466079d) | feat(ace): add shared config editor components (sase-8m.2) | 2026-07-22 13:19:57 EDT |
 
 ## Neighbors
 

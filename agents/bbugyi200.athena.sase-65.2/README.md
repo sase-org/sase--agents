@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1b5b6a3`](https://github.com/sase-org/sase/commit/1b5b6a3f201881d40c9e972527863dec434f97f0) | test: make visual snapshot capture deterministic | 2026-07-15 23:34:22 |
+| sase | [`1b5b6a3`](https://github.com/sase-org/sase/commit/1b5b6a3f201881d40c9e972527863dec434f97f0) | test: make visual snapshot capture deterministic | 2026-07-15 19:34:22 EDT |
 
 ## Neighbors
 

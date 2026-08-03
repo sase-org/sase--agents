@@ -22,11 +22,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`7f7b213`](https://github.com/sase-org/sase/commit/7f7b213adfacb4d51973abfd99d4a76bb46c3529) | chore: Add SDD prompt and plan for pypi\_smoke\_env | 2026-06-12 16:52:37 |
-| root | sase | [`d5af376`](https://github.com/sase-org/sase/commit/d5af3768ac2935116a40c22ced7579e60a67ed1e) | build: add PyPI release smoke harness | 2026-06-12 17:09:33 |
-| root | sase | [`b3c7582`](https://github.com/sase-org/sase/commit/b3c75827571fde1b6027e3f7d2f0bac40d3d9530) | feat(sdd): unify tale and epic plan storage | 2026-07-11 18:14:26 |
+| root | sase | [`7f7b213`](https://github.com/sase-org/sase/commit/7f7b213adfacb4d51973abfd99d4a76bb46c3529) | chore: Add SDD prompt and plan for pypi\_smoke\_env | 2026-06-12 12:52:37 EDT |
+| root | sase | [`d5af376`](https://github.com/sase-org/sase/commit/d5af3768ac2935116a40c22ced7579e60a67ed1e) | build: add PyPI release smoke harness | 2026-06-12 13:09:33 EDT |
+| root | sase | [`b3c7582`](https://github.com/sase-org/sase/commit/b3c75827571fde1b6027e3f7d2f0bac40d3d9530) | feat(sdd): unify tale and epic plan storage | 2026-07-11 14:14:26 EDT |
 
 ## Neighbors
 

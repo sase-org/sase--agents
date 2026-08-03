@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9fca688`](https://github.com/sase-org/sase/commit/9fca688f05e014dac3732251ede35bcacdbe680d) | chore: Add SDD prompt and plan for atomic\_starting\_count\_and\_row | 2026-06-10 13:03:09 |
+| sase | [`9fca688`](https://github.com/sase-org/sase/commit/9fca688f05e014dac3732251ede35bcacdbe680d) | chore: Add SDD prompt and plan for atomic\_starting\_count\_and\_row | 2026-06-10 09:03:09 EDT |
 
 ## Neighbors
 

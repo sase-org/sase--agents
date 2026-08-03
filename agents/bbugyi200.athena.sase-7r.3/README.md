@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`734f67a`](https://github.com/sase-org/sase/commit/734f67a25203b15816aa69cb5572f3c481ccaa9b) | feat: persist launch-time clan summaries (sase-7r.3) | 2026-07-19 23:51:20 |
+| sase | [`734f67a`](https://github.com/sase-org/sase/commit/734f67a25203b15816aa69cb5572f3c481ccaa9b) | feat: persist launch-time clan summaries (sase-7r.3) | 2026-07-19 19:51:20 EDT |
 
 ## Neighbors
 

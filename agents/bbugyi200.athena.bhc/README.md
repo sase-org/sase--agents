@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d33d89c`](https://github.com/sase-org/sase/commit/d33d89c1e5f4bd00d7b8542a6da32ce2b089a2be) | chore: refresh sase amd research observations | 2026-05-26 21:12:45 |
+| sase | [`d33d89c`](https://github.com/sase-org/sase/commit/d33d89c1e5f4bd00d7b8542a6da32ce2b089a2be) | chore: refresh sase amd research observations | 2026-05-26 17:12:45 EDT |
 
 ## Neighbors
 

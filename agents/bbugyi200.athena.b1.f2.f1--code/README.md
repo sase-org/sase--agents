@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b296828`](https://github.com/sase-org/sase/commit/b29682808132418e06eb4601f7c6a7b6d2e2a715) | fix(ace): keep artifact fields under context navigation | 2026-07-16 23:11:44 |
+| sase | [`b296828`](https://github.com/sase-org/sase/commit/b29682808132418e06eb4601f7c6a7b6d2e2a715) | fix(ace): keep artifact fields under context navigation | 2026-07-16 19:11:44 EDT |
 
 ## Neighbors
 

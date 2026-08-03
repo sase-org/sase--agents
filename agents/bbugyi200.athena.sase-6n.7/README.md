@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8119612`](https://github.com/sase-org/sase/commit/8119612f48bf8fe0b68075993db2e8bdce75d3d5) | feat(tui): add aggregate clan detail panel (sase-6n.7) | 2026-07-18 00:08:57 |
+| sase | [`8119612`](https://github.com/sase-org/sase/commit/8119612f48bf8fe0b68075993db2e8bdce75d3d5) | feat(tui): add aggregate clan detail panel (sase-6n.7) | 2026-07-17 20:08:57 EDT |
 
 ## Neighbors
 

@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cbb6135`](https://github.com/sase-org/sase/commit/cbb61358a39faaf7a96609d5f09e2bb0e6546be5) | feat: add leader shortcut for SASE updates | 2026-06-30 13:30:00 |
+| sase | [`cbb6135`](https://github.com/sase-org/sase/commit/cbb61358a39faaf7a96609d5f09e2bb0e6546be5) | feat: add leader shortcut for SASE updates | 2026-06-30 09:30:00 EDT |

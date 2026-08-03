@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`74b866e`](https://github.com/sase-org/sase/commit/74b866e8782c497ef9fc72d92ebaf791fe8d5a62) | feat(axe)!: add chop author SDK | 2026-07-18 22:16:12 |
+| sase | [`74b866e`](https://github.com/sase-org/sase/commit/74b866e8782c497ef9fc72d92ebaf791fe8d5a62) | feat(axe)!: add chop author SDK | 2026-07-18 18:16:12 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`37b8257`](https://github.com/sase-org/sase/commit/37b8257d2fd96fe48cb42f0bee1628991ec0a433) | docs(ace): document unified Models panel and per-alias overrides (sase-5e.5) | 2026-06-30 20:10:58 |
+| sase | [`37b8257`](https://github.com/sase-org/sase/commit/37b8257d2fd96fe48cb42f0bee1628991ec0a433) | docs(ace): document unified Models panel and per-alias overrides (sase-5e.5) | 2026-06-30 16:10:58 EDT |
 
 ## Neighbors
 

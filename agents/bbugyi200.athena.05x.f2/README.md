@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`986fcd8`](https://github.com/sase-org/sase/commit/986fcd86942c25a66b51b3aab0ff39ee8bdb0c14) | chore: Add SDD prompt and plan for minimal\_config\_xprompt\_edits | 2026-06-25 14:06:36 |
-| sase | [`cfa6a8d`](https://github.com/sase-org/sase/commit/cfa6a8d905fb4bf7cf86213975ab1ec2f139f312) | fix(xprompt): preserve config formatting on edits | 2026-06-25 14:16:55 |
+| sase | [`986fcd8`](https://github.com/sase-org/sase/commit/986fcd86942c25a66b51b3aab0ff39ee8bdb0c14) | chore: Add SDD prompt and plan for minimal\_config\_xprompt\_edits | 2026-06-25 10:06:36 EDT |
+| sase | [`cfa6a8d`](https://github.com/sase-org/sase/commit/cfa6a8d905fb4bf7cf86213975ab1ec2f139f312) | fix(xprompt): preserve config formatting on edits | 2026-06-25 10:16:55 EDT |
 
 ## Neighbors
 

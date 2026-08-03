@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`da207ba`](https://github.com/sase-org/sase/commit/da207ba769eba6a058c408c04162adda0d3556dd) | fix(ace): respect Markdown structure in TODO highlighting | 2026-07-23 14:39:20 |
+| sase | [`da207ba`](https://github.com/sase-org/sase/commit/da207ba769eba6a058c408c04162adda0d3556dd) | fix(ace): respect Markdown structure in TODO highlighting | 2026-07-23 10:39:20 EDT |

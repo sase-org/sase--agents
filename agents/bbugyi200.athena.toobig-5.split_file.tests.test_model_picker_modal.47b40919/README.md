@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`13b4bae`](https://github.com/sase-org/sase/commit/13b4bae21e2c82026ded72d09e5866bacacea128) | test: split model picker modal tests | 2026-07-20 18:13:18 |
+| sase | [`13b4bae`](https://github.com/sase-org/sase/commit/13b4bae21e2c82026ded72d09e5866bacacea128) | test: split model picker modal tests | 2026-07-20 14:13:18 EDT |
 
 ## Neighbors
 

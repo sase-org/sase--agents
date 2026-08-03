@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a9174a9`](https://github.com/sase-org/sase/commit/a9174a910971d9941f09b8bd13341ce6c104ed10) | refactor(ace): split AXE display loaders | 2026-07-23 12:41:32 |
+| sase | [`a9174a9`](https://github.com/sase-org/sase/commit/a9174a910971d9941f09b8bd13341ce6c104ed10) | refactor(ace): split AXE display loaders | 2026-07-23 08:41:32 EDT |
 
 ## Neighbors
 

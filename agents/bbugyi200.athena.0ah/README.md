@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7c5e5e1`](https://github.com/sase-org/sase/commit/7c5e5e1f9436a7ce0266c15ccd8b491e2ba9992d) | chore: Add SDD prompt and plan for agents\_onboarding\_visible\_gate | 2026-06-30 10:02:23 |
-| sase | [`f783204`](https://github.com/sase-org/sase/commit/f7832045b7ec7052a3454aef208a86786b68d413) | fix: show agents onboarding when no rows are visible | 2026-06-30 10:08:42 |
+| sase | [`7c5e5e1`](https://github.com/sase-org/sase/commit/7c5e5e1f9436a7ce0266c15ccd8b491e2ba9992d) | chore: Add SDD prompt and plan for agents\_onboarding\_visible\_gate | 2026-06-30 06:02:23 EDT |
+| sase | [`f783204`](https://github.com/sase-org/sase/commit/f7832045b7ec7052a3454aef208a86786b68d413) | fix: show agents onboarding when no rows are visible | 2026-06-30 06:08:42 EDT |

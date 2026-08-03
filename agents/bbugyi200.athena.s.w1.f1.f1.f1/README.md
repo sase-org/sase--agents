@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6b6f485`](https://github.com/sase-org/sase/commit/6b6f485a1f13d474db6acb0bc11b1d75562eb9d2) | chore: Add SDD prompt and plan for hermetic\_resvg\_visual\_renderer | 2026-07-03 18:39:07 |
+| sase | [`6b6f485`](https://github.com/sase-org/sase/commit/6b6f485a1f13d474db6acb0bc11b1d75562eb9d2) | chore: Add SDD prompt and plan for hermetic\_resvg\_visual\_renderer | 2026-07-03 14:39:07 EDT |
 
 ## Neighbors
 

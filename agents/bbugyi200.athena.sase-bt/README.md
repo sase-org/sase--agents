@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a633a29`](https://github.com/sase-org/sase/commit/a633a29ed47e4ad73727630d748b1dc6c0e8a478) | test(tui): await artifact clipboard delivery | 2026-07-31 13:55:14 |
+| sase | [`a633a29`](https://github.com/sase-org/sase/commit/a633a29ed47e4ad73727630d748b1dc6c0e8a478) | test(tui): await artifact clipboard delivery | 2026-07-31 09:55:14 EDT |

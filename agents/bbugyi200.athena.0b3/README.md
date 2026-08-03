@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8ba81d7`](https://github.com/sase-org/sase/commit/8ba81d7ff03166ff0e54df1ac448ea1cb4e6d1b6) | fix(tui): recommend update keymap in update notices | 2026-07-01 12:55:03 |
+| sase | [`8ba81d7`](https://github.com/sase-org/sase/commit/8ba81d7ff03166ff0e54df1ac448ea1cb4e6d1b6) | fix(tui): recommend update keymap in update notices | 2026-07-01 08:55:03 EDT |

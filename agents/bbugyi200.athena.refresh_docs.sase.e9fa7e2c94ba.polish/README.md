@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3805b62`](https://github.com/sase-org/sase/commit/3805b6229088699810bdf023a25f1fca07ee00e3) | docs: clarify linked workspace documentation | 2026-06-20 23:25:13 |
+| sase | [`3805b62`](https://github.com/sase-org/sase/commit/3805b6229088699810bdf023a25f1fca07ee00e3) | docs: clarify linked workspace documentation | 2026-06-20 19:25:13 EDT |
 
 ## Neighbors
 

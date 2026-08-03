@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`21d995c`](https://github.com/sase-org/sase/commit/21d995ce59c5b684e06ee947288e95dd07bec0b8) | feat(ace): add clan hierarchy to agents tab (sase-6n.6) | 2026-07-17 23:41:18 |
+| sase | [`21d995c`](https://github.com/sase-org/sase/commit/21d995ce59c5b684e06ee947288e95dd07bec0b8) | feat(ace): add clan hierarchy to agents tab (sase-6n.6) | 2026-07-17 19:41:18 EDT |
 
 ## Neighbors
 

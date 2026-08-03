@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`702974e`](https://github.com/sase-org/sase/commit/702974e959fce28fbc1c7b8afd9c1b550c225517) | test: split prompt stash restore tests | 2026-06-25 13:10:18 |
+| sase | [`702974e`](https://github.com/sase-org/sase/commit/702974e959fce28fbc1c7b8afd9c1b550c225517) | test: split prompt stash restore tests | 2026-06-25 09:10:18 EDT |
 
 ## Neighbors
 

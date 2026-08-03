@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dd7fc1a`](https://github.com/sase-org/sase/commit/dd7fc1ace88c8ddc7fbac0d4b18316a227728310) | refactor(axe): split configuration module | 2026-07-19 08:18:33 |
+| sase | [`dd7fc1a`](https://github.com/sase-org/sase/commit/dd7fc1ace88c8ddc7fbac0d4b18316a227728310) | refactor(axe): split configuration module | 2026-07-19 04:18:33 EDT |
 
 ## Neighbors
 

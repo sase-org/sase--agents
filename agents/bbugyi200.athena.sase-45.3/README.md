@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2732b9c`](https://github.com/sase-org/sase/commit/2732b9cf0dd0218c5b0932d5361f0703351863a9) | feat: add deterministic episode lesson builder (sase-45.3) | 2026-05-27 00:08:05 |
+| sase | [`2732b9c`](https://github.com/sase-org/sase/commit/2732b9cf0dd0218c5b0932d5361f0703351863a9) | feat: add deterministic episode lesson builder (sase-45.3) | 2026-05-26 20:08:05 EDT |
 
 ## Neighbors
 

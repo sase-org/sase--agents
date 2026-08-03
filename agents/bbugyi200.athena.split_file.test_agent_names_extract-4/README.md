@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d19bc4e`](https://github.com/sase-org/sase/commit/d19bc4ea78a1b73ef17e8960a177d078048d4ba1) | test: split agent name extraction tests | 2026-07-16 06:59:38 |
+| sase | [`d19bc4e`](https://github.com/sase-org/sase/commit/d19bc4ea78a1b73ef17e8960a177d078048d4ba1) | test: split agent name extraction tests | 2026-07-16 02:59:38 EDT |
 
 ## Neighbors
 

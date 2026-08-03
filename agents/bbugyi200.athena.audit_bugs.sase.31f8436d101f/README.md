@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`27c01c0`](https://github.com/sase-org/sase/commit/27c01c0a353e6fb6901814439f4e464df7a2db2d) | fix: avoid early wakeup for multi-dependency waiters (#214) | 2026-07-08 01:55:51 |
+| sase | [`27c01c0`](https://github.com/sase-org/sase/commit/27c01c0a353e6fb6901814439f4e464df7a2db2d) | fix: avoid early wakeup for multi-dependency waiters (#214) | 2026-07-07 21:55:51 EDT |
 
 ## Neighbors
 

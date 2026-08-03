@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ab23e17`](https://github.com/sase-org/sase/commit/ab23e17247917ed12fbd478b2c96ba46b917e9f9) | docs(research): expand curl installer recommendation | 2026-06-25 22:39:27 |
+| sase | [`ab23e17`](https://github.com/sase-org/sase/commit/ab23e17247917ed12fbd478b2c96ba46b917e9f9) | docs(research): expand curl installer recommendation | 2026-06-25 18:39:27 EDT |
 
 ## Neighbors
 

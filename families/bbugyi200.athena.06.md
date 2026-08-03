@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`0348a31`](https://github.com/sase-org/sase/commit/0348a311ede448dd40e509994a00bf60fd02258d) | chore: Add SDD prompt and plan for move\_research\_xprompts\_to\_chezmoi | 2026-07-05 11:05:44 |
-| root | sase | [`bc6a9cc`](https://github.com/sase-org/sase/commit/bc6a9cc87f2ef91166c3cd4b344f8afc3318f710) | feat!: remove packaged research xprompts | 2026-07-05 11:31:43 |
-| root | sase | [`f27dde7`](https://github.com/sase-org/sase/commit/f27dde7d4964dd9da70718efb1decf6a4af08ace) | chore: Add SDD prompt and plan for telegram\_launch\_buttons\_sharded\_artifacts | 2026-07-07 03:42:42 |
-| root | sase | [`d7e06b7`](https://github.com/sase-org/sase/commit/d7e06b77b42d89ecf4bb1538c6f89c6fe700124e) | fix: expose launch artifact directories | 2026-07-07 03:54:43 |
+| root | sase | [`0348a31`](https://github.com/sase-org/sase/commit/0348a311ede448dd40e509994a00bf60fd02258d) | chore: Add SDD prompt and plan for move\_research\_xprompts\_to\_chezmoi | 2026-07-05 07:05:44 EDT |
+| root | sase | [`bc6a9cc`](https://github.com/sase-org/sase/commit/bc6a9cc87f2ef91166c3cd4b344f8afc3318f710) | feat!: remove packaged research xprompts | 2026-07-05 07:31:43 EDT |
+| root | sase | [`f27dde7`](https://github.com/sase-org/sase/commit/f27dde7d4964dd9da70718efb1decf6a4af08ace) | chore: Add SDD prompt and plan for telegram\_launch\_buttons\_sharded\_artifacts | 2026-07-06 23:42:42 EDT |
+| root | sase | [`d7e06b7`](https://github.com/sase-org/sase/commit/d7e06b77b42d89ecf4bb1538c6f89c6fe700124e) | fix: expose launch artifact directories | 2026-07-06 23:54:43 EDT |

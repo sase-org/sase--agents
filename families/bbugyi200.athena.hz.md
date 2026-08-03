@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`ac9fb40`](https://github.com/sase-org/sase/commit/ac9fb4081c92e903639142c6d03c52a303c20375) | fix(tui): soften TODO annotation styling | 2026-07-22 12:55:44 |
+| code | sase | [`ac9fb40`](https://github.com/sase-org/sase/commit/ac9fb4081c92e903639142c6d03c52a303c20375) | fix(tui): soften TODO annotation styling | 2026-07-22 08:55:44 EDT |

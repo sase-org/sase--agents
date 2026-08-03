@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a1b6b0a`](https://github.com/sase-org/sase/commit/a1b6b0a3e1587c82b6836ec458326a4b6ece7d37) | fix(tui): restore admin center digit keymaps | 2026-07-19 11:36:14 |
+| sase | [`a1b6b0a`](https://github.com/sase-org/sase/commit/a1b6b0a3e1587c82b6836ec458326a4b6ece7d37) | fix(tui): restore admin center digit keymaps | 2026-07-19 07:36:14 EDT |

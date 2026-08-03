@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`450644b`](https://github.com/sase-org/sase/commit/450644be7bbfca8ac334b713bde41b526c122ea1) | docs: correct Admin Center tabs and refresh feature docs | 2026-06-27 20:59:49 |
+| sase | [`450644b`](https://github.com/sase-org/sase/commit/450644be7bbfca8ac334b713bde41b526c122ea1) | docs: correct Admin Center tabs and refresh feature docs | 2026-06-27 16:59:49 EDT |
 
 ## Neighbors
 

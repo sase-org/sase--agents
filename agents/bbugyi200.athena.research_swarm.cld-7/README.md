@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6db67b1`](https://github.com/sase-org/sase/commit/6db67b1cb62a8074197b60ad8080f07f8d9d64a7) | chore: add research critique on sase episodes necessity | 2026-05-29 13:38:38 |
+| sase | [`6db67b1`](https://github.com/sase-org/sase/commit/6db67b1cb62a8074197b60ad8080f07f8d9d64a7) | chore: add research critique on sase episodes necessity | 2026-05-29 09:38:38 EDT |
 
 ## Neighbors
 

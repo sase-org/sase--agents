@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3dd9765`](https://github.com/sase-org/sase/commit/3dd976565937d0b9851d25c94be1ef89442d2885) | feat(beads): add history command (sase-a1.1) | 2026-07-27 17:25:21 |
+| sase | [`3dd9765`](https://github.com/sase-org/sase/commit/3dd976565937d0b9851d25c94be1ef89442d2885) | feat(beads): add history command (sase-a1.1) | 2026-07-27 13:25:21 EDT |
 
 ## Neighbors
 

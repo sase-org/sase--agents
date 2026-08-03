@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`905c1ee`](https://github.com/sase-org/sase/commit/905c1ee8a48b26e2d5b914eceae37d9c5c08b0ab) | chore: Add SDD prompt and plan for sdd\_separate\_repo | 2026-07-08 03:22:30 |
-| sase | [`c58554f`](https://github.com/sase-org/sase/commit/c58554f661bbb30714a5a74ec55f971356280d87) | chore: add SDD separate repo epic beads | 2026-07-08 03:33:21 |
+| sase | [`905c1ee`](https://github.com/sase-org/sase/commit/905c1ee8a48b26e2d5b914eceae37d9c5c08b0ab) | chore: Add SDD prompt and plan for sdd\_separate\_repo | 2026-07-07 23:22:30 EDT |
+| sase | [`c58554f`](https://github.com/sase-org/sase/commit/c58554f661bbb30714a5a74ec55f971356280d87) | chore: add SDD separate repo epic beads | 2026-07-07 23:33:21 EDT |

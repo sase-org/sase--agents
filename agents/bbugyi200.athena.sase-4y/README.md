@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8410b30`](https://github.com/sase-org/sase/commit/8410b30bcfd56550029fda3fc71a737c029215d4) | chore: Add SDD prompt and plan for prompt\_search\_completion (sase-4y) | 2026-06-19 03:50:20 |
-| sase | [`552cba5`](https://github.com/sase-org/sase/commit/552cba5bbd4628d7789e61ce355c27b787e34acd) | feat(prompt-search): surface local .sase/sdd snapshots in SDD search (sase-4y) | 2026-06-19 03:59:55 |
+| sase | [`8410b30`](https://github.com/sase-org/sase/commit/8410b30bcfd56550029fda3fc71a737c029215d4) | chore: Add SDD prompt and plan for prompt\_search\_completion (sase-4y) | 2026-06-18 23:50:20 EDT |
+| sase | [`552cba5`](https://github.com/sase-org/sase/commit/552cba5bbd4628d7789e61ce355c27b787e34acd) | feat(prompt-search): surface local .sase/sdd snapshots in SDD search (sase-4y) | 2026-06-18 23:59:55 EDT |
 
 ## Neighbors
 

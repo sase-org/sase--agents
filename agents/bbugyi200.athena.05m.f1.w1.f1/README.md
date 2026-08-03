@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`64de8e9`](https://github.com/sase-org/sase/commit/64de8e9bcbe7879cc3a8c4866b7ca09ddc8242dd) | feat(tui): restore prompt stash rows by number | 2026-06-24 19:14:06 |
+| sase | [`64de8e9`](https://github.com/sase-org/sase/commit/64de8e9bcbe7879cc3a8c4866b7ca09ddc8242dd) | feat(tui): restore prompt stash rows by number | 2026-06-24 15:14:06 EDT |
 
 ## Neighbors
 

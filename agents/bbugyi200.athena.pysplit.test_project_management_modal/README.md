@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c19ac16`](https://github.com/sase-org/sase/commit/c19ac16233c4049895c2586ab76fba4e2e77b069) | ref: split project management modal tests | 2026-06-02 10:55:13 |
+| sase | [`c19ac16`](https://github.com/sase-org/sase/commit/c19ac16233c4049895c2586ab76fba4e2e77b069) | ref: split project management modal tests | 2026-06-02 06:55:13 EDT |
 
 ## Neighbors
 

@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5605178`](https://github.com/sase-org/sase/commit/56051782c1ac46bf44720f6ee27f47bc685443a2) | fix: attribute nested linked repository commits correctly | 2026-07-11 12:39:04 |
+| sase | [`5605178`](https://github.com/sase-org/sase/commit/56051782c1ac46bf44720f6ee27f47bc685443a2) | fix: attribute nested linked repository commits correctly | 2026-07-11 08:39:04 EDT |

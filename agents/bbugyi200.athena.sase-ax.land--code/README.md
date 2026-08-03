@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`af42951`](https://github.com/sase-org/sase/commit/af42951798753ef28a2c73e75bcbef1780dbfb83) | perf: warm artifact completion through Rust query | 2026-07-29 23:46:56 |
+| sase | [`af42951`](https://github.com/sase-org/sase/commit/af42951798753ef28a2c73e75bcbef1780dbfb83) | perf: warm artifact completion through Rust query | 2026-07-29 19:46:56 EDT |
 
 ## Neighbors
 

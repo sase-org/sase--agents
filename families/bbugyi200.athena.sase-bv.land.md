@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`4fd54a9`](https://github.com/sase-org/sase/commit/4fd54a96707a0931b3c86a8c3551a2e0fbed0ea5) | fix(bead): route sase bead create through the attributing handler | 2026-07-31 15:15:17 |
-| code | sase | [`3a98c68`](https://github.com/sase-org/sase/commit/3a98c68df821b90d4445fbb5bff8c132fb42757c) | refactor(bead): remove superseded SASE\_AGENT guard from attribution | 2026-07-31 15:18:44 |
+| code | sase | [`4fd54a9`](https://github.com/sase-org/sase/commit/4fd54a96707a0931b3c86a8c3551a2e0fbed0ea5) | fix(bead): route sase bead create through the attributing handler | 2026-07-31 11:15:17 EDT |
+| code | sase | [`3a98c68`](https://github.com/sase-org/sase/commit/3a98c68df821b90d4445fbb5bff8c132fb42757c) | refactor(bead): remove superseded SASE\_AGENT guard from attribution | 2026-07-31 11:18:44 EDT |
 
 ## Neighbors
 

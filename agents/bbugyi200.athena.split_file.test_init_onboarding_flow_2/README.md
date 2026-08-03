@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d5cf974`](https://github.com/sase-org/sase/commit/d5cf9745044c182e90c9deb90f28c6f8775f48a2) | test: split init onboarding flow tests | 2026-07-12 01:02:02 |
+| sase | [`d5cf974`](https://github.com/sase-org/sase/commit/d5cf9745044c182e90c9deb90f28c6f8775f48a2) | test: split init onboarding flow tests | 2026-07-11 21:02:02 EDT |
 
 ## Neighbors
 

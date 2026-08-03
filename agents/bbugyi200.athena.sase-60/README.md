@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1e3ab66`](https://github.com/sase-org/sase/commit/1e3ab66b5a04aa87350801f993fc98c6fe422eed) | fix: preserve sidecar identity during repository cutover | 2026-07-14 17:18:11 |
+| sase | [`1e3ab66`](https://github.com/sase-org/sase/commit/1e3ab66b5a04aa87350801f993fc98c6fe422eed) | fix: preserve sidecar identity during repository cutover | 2026-07-14 13:18:11 EDT |
 
 ## Neighbors
 

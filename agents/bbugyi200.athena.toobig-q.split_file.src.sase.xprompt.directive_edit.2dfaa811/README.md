@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`51d27a7`](https://github.com/sase-org/sase/commit/51d27a730cdfe852c5cc62ba5a0996d372c271c8) | refactor(xprompt): split directive editing by responsibility | 2026-07-23 17:59:34 |
+| sase | [`51d27a7`](https://github.com/sase-org/sase/commit/51d27a730cdfe852c5cc62ba5a0996d372c271c8) | refactor(xprompt): split directive editing by responsibility | 2026-07-23 13:59:34 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b6d59fa`](https://github.com/sase-org/sase/commit/b6d59fa0fa7824a21dbf393c2b689797dbaa2d73) | feat!: remove legacy epic approval launch paths (sase-9s.6) | 2026-07-26 13:44:39 |
+| sase | [`b6d59fa`](https://github.com/sase-org/sase/commit/b6d59fa0fa7824a21dbf393c2b689797dbaa2d73) | feat!: remove legacy epic approval launch paths (sase-9s.6) | 2026-07-26 09:44:39 EDT |
 
 ## Neighbors
 

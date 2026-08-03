@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c4581d9`](https://github.com/sase-org/sase/commit/c4581d91dc1ea42faf41b6fbe81d51c89d020c4a) | feat: add editable dev update backend (sase-5c.1) | 2026-06-27 19:14:23 |
+| sase | [`c4581d9`](https://github.com/sase-org/sase/commit/c4581d91dc1ea42faf41b6fbe81d51c89d020c4a) | feat: add editable dev update backend (sase-5c.1) | 2026-06-27 15:14:23 EDT |
 
 ## Neighbors
 

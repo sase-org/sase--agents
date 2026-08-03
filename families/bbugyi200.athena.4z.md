@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`bec37b5`](https://github.com/sase-org/sase/commit/bec37b564563dab50b3ef7917f99d6ef64facf57) | feat(ace): support exact-time model overrides | 2026-07-10 22:11:15 |
+| root | sase | [`bec37b5`](https://github.com/sase-org/sase/commit/bec37b564563dab50b3ef7917f99d6ef64facf57) | feat(ace): support exact-time model overrides | 2026-07-10 18:11:15 EDT |

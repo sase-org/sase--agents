@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a3ae3df`](https://github.com/sase-org/sase/commit/a3ae3dfdcdc8c884abf79385c9037198c31301bf) | feat(cli): add agent CLI management commands (sase-7s.2) | 2026-07-20 01:18:18 |
+| sase | [`a3ae3df`](https://github.com/sase-org/sase/commit/a3ae3dfdcdc8c884abf79385c9037198c31301bf) | feat(cli): add agent CLI management commands (sase-7s.2) | 2026-07-19 21:18:18 EDT |
 
 ## Neighbors
 

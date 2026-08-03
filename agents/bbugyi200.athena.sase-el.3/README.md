@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a086b0f`](https://github.com/sase-org/sase/commit/a086b0f30ecef9cf0f66891695650fd165fd8f5d) | feat(agent-clis): render update history panel | 2026-08-03 12:43:52 |
+| sase | [`a086b0f`](https://github.com/sase-org/sase/commit/a086b0f30ecef9cf0f66891695650fd165fd8f5d) | feat(agent-clis): render update history panel | 2026-08-03 08:43:52 EDT |
 
 ## Neighbors
 

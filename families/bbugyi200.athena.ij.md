@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`010c061`](https://github.com/sase-org/sase/commit/010c061757c693cc271e49043a049627eb2f4793) | fix(ace): collapse group clans before grouping banners | 2026-07-22 17:12:05 |
+| code | sase | [`010c061`](https://github.com/sase-org/sase/commit/010c061757c693cc271e49043a049627eb2f4793) | fix(ace): collapse group clans before grouping banners | 2026-07-22 13:12:05 EDT |

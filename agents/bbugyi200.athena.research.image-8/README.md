@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`07d5753`](https://github.com/sase-org/sase/commit/07d5753cf67fda628dcce2634a97c6fb51d8063a) | chore: add Apollo remote agents infographic | 2026-06-04 23:54:10 |
+| sase | [`07d5753`](https://github.com/sase-org/sase/commit/07d5753cf67fda628dcce2634a97c6fb51d8063a) | chore: add Apollo remote agents infographic | 2026-06-04 19:54:10 EDT |
 
 ## Neighbors
 

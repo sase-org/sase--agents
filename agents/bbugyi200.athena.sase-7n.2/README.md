@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dc5b7ea`](https://github.com/sase-org/sase/commit/dc5b7ea8b5cba5b79503068918a81ea285c90539) | refactor: remove legacy repeat planner bridge (sase-7n.2) | 2026-07-19 19:34:45 |
+| sase | [`dc5b7ea`](https://github.com/sase-org/sase/commit/dc5b7ea8b5cba5b79503068918a81ea285c90539) | refactor: remove legacy repeat planner bridge (sase-7n.2) | 2026-07-19 15:34:45 EDT |
 
 ## Neighbors
 

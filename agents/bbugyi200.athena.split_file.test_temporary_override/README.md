@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e1b96b1`](https://github.com/sase-org/sase/commit/e1b96b1bfed2491284eb5fdb64a73802b2f3ebf6) | test: split temporary override resolution tests | 2026-06-13 20:10:39 |
+| sase | [`e1b96b1`](https://github.com/sase-org/sase/commit/e1b96b1bfed2491284eb5fdb64a73802b2f3ebf6) | test: split temporary override resolution tests | 2026-06-13 16:10:39 EDT |
 
 ## Neighbors
 

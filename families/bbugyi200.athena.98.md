@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`3053fa7`](https://github.com/sase-org/sase/commit/3053fa78f995ccccb3f92c92337fe4fee0cc8d20) | chore: Add SDD prompt and plan for remove\_shift\_enter\_prompt\_stack | 2026-06-17 11:24:39 |
-| root | sase | [`b017a62`](https://github.com/sase-org/sase/commit/b017a6207188cd84cbc44cfb350e0ca8055095dc) | feat(ace)!: remove Shift+Enter prompt-stack submit alias | 2026-06-17 11:36:21 |
+| root | sase | [`3053fa7`](https://github.com/sase-org/sase/commit/3053fa78f995ccccb3f92c92337fe4fee0cc8d20) | chore: Add SDD prompt and plan for remove\_shift\_enter\_prompt\_stack | 2026-06-17 07:24:39 EDT |
+| root | sase | [`b017a62`](https://github.com/sase-org/sase/commit/b017a6207188cd84cbc44cfb350e0ca8055095dc) | feat(ace)!: remove Shift+Enter prompt-stack submit alias | 2026-06-17 07:36:21 EDT |

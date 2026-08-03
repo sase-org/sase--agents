@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f76a9ed`](https://github.com/sase-org/sase/commit/f76a9ede7738308fc89ca7cfe6f476e0a6598727) | feat: cache foreign agent state for offline integration (sase-8v.7) | 2026-07-24 21:07:49 |
+| sase | [`f76a9ed`](https://github.com/sase-org/sase/commit/f76a9ede7738308fc89ca7cfe6f476e0a6598727) | feat: cache foreign agent state for offline integration (sase-8v.7) | 2026-07-24 17:07:49 EDT |
 
 ## Neighbors
 

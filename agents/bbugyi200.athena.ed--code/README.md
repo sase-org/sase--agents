@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9f6c8f1`](https://github.com/sase-org/sase/commit/9f6c8f19fd1e428f24e1974647ccd4a37272a873) | feat(ace): add direct numeric fold levels | 2026-07-19 12:04:15 |
+| sase | [`9f6c8f1`](https://github.com/sase-org/sase/commit/9f6c8f19fd1e428f24e1974647ccd4a37272a873) | feat(ace): add direct numeric fold levels | 2026-07-19 08:04:15 EDT |

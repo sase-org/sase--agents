@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`419790e`](https://github.com/sase-org/sase/commit/419790e846b17308052b65ce0d22096d7094ce59) | perf(tui): defer agent hint document rendering (sase-a5.3) | 2026-07-27 20:12:59 |
+| sase | [`419790e`](https://github.com/sase-org/sase/commit/419790e846b17308052b65ce0d22096d7094ce59) | perf(tui): defer agent hint document rendering (sase-a5.3) | 2026-07-27 16:12:59 EDT |
 
 ## Neighbors
 

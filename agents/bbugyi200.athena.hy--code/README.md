@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dda37da`](https://github.com/sase-org/sase/commit/dda37dae347caea88a124df0667d5fcbfe2e60c7) | fix(agent-clis): ignore orphaned npm package listings | 2026-07-22 12:45:38 |
+| sase | [`dda37da`](https://github.com/sase-org/sase/commit/dda37dae347caea88a124df0667d5fcbfe2e60c7) | fix(agent-clis): ignore orphaned npm package listings | 2026-07-22 08:45:38 EDT |

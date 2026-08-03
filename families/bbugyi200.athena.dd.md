@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`6fd595d`](https://github.com/sase-org/sase/commit/6fd595daac75ab88e60d84a041a3c8c52fb43f43) | feat(ace): label primary gate footer action | 2026-07-18 14:32:59 |
+| code | sase | [`6fd595d`](https://github.com/sase-org/sase/commit/6fd595daac75ab88e60d84a041a3c8c52fb43f43) | feat(ace): label primary gate footer action | 2026-07-18 10:32:59 EDT |
 
 ## Neighbors
 

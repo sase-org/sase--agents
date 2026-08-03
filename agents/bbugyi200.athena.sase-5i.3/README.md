@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`461aae3`](https://github.com/sase-org/sase/commit/461aae3b8384187ac4df208a117a81e55a6db4ea) | feat: wire VCS ref completion into TUI (sase-5i.3) | 2026-07-07 21:22:38 |
+| sase | [`461aae3`](https://github.com/sase-org/sase/commit/461aae3b8384187ac4df208a117a81e55a6db4ea) | feat: wire VCS ref completion into TUI (sase-5i.3) | 2026-07-07 17:22:38 EDT |
 
 ## Neighbors
 

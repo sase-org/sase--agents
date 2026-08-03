@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`84d47aa`](https://github.com/sase-org/sase/commit/84d47aa78bf75e88486e4ace484d782b74139fe6) | docs: document artifact reference persistence | 2026-07-30 20:34:11 |
+| sase | [`84d47aa`](https://github.com/sase-org/sase/commit/84d47aa78bf75e88486e4ace484d782b74139fe6) | docs: document artifact reference persistence | 2026-07-30 16:34:11 EDT |
 
 ## Neighbors
 

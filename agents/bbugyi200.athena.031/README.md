@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dd91764`](https://github.com/sase-org/sase/commit/dd91764759a45aec274a7d2657e46f87b591e8ba) | chore: Add SDD prompt and plan for prompt\_search\_char\_targets | 2026-06-21 13:45:35 |
-| sase | [`838bf81`](https://github.com/sase-org/sase/commit/838bf81ed1051cb0e67ba68341a51e0b2bca01c9) | fix(tui): keep \`/\` and \`?\` as literal char targets in prompt NORMAL mode | 2026-06-21 13:55:52 |
+| sase | [`dd91764`](https://github.com/sase-org/sase/commit/dd91764759a45aec274a7d2657e46f87b591e8ba) | chore: Add SDD prompt and plan for prompt\_search\_char\_targets | 2026-06-21 09:45:35 EDT |
+| sase | [`838bf81`](https://github.com/sase-org/sase/commit/838bf81ed1051cb0e67ba68341a51e0b2bca01c9) | fix(tui): keep \`/\` and \`?\` as literal char targets in prompt NORMAL mode | 2026-06-21 09:55:52 EDT |

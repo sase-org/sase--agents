@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4833fba`](https://github.com/sase-org/sase/commit/4833fbaf1cc2e819778f096a87356cea515639c6) | docs: refresh guides for current behavior | 2026-07-19 18:23:43 |
+| sase | [`4833fba`](https://github.com/sase-org/sase/commit/4833fbaf1cc2e819778f096a87356cea515639c6) | docs: refresh guides for current behavior | 2026-07-19 14:23:43 EDT |
 
 ## Neighbors
 

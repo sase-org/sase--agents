@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b8441dc`](https://github.com/sase-org/sase/commit/b8441dc3895139d82bcc19f2391db5080ad6b91c) | test: add two-machine agents sidecar sync e2e exercise (sase-8k.8) | 2026-07-22 21:00:06 |
+| sase | [`b8441dc`](https://github.com/sase-org/sase/commit/b8441dc3895139d82bcc19f2391db5080ad6b91c) | test: add two-machine agents sidecar sync e2e exercise (sase-8k.8) | 2026-07-22 17:00:06 EDT |
 
 ## Neighbors
 

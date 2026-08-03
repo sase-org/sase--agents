@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cc5b1ea`](https://github.com/sase-org/sase/commit/cc5b1ea66620a8bbf433791fc79fc5ef259b4cb2) | chore: Add SDD prompt and plan for frontmatter\_add\_property\_picker | 2026-06-18 13:19:53 |
-| sase | [`6fbc748`](https://github.com/sase-org/sase/commit/6fbc748f52453eed1a31ba253ca904ef2a93bd41) | feat(tui): improve frontmatter add-property picker | 2026-06-18 13:33:46 |
+| sase | [`cc5b1ea`](https://github.com/sase-org/sase/commit/cc5b1ea66620a8bbf433791fc79fc5ef259b4cb2) | chore: Add SDD prompt and plan for frontmatter\_add\_property\_picker | 2026-06-18 09:19:53 EDT |
+| sase | [`6fbc748`](https://github.com/sase-org/sase/commit/6fbc748f52453eed1a31ba253ca904ef2a93bd41) | feat(tui): improve frontmatter add-property picker | 2026-06-18 09:33:46 EDT |

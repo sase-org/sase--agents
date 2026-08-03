@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5c59972`](https://github.com/sase-org/sase/commit/5c599721d577b456e1d2931384b5cad532f79377) | refactor(agent): split CWD launch implementation | 2026-06-16 19:23:14 |
+| sase | [`5c59972`](https://github.com/sase-org/sase/commit/5c599721d577b456e1d2931384b5cad532f79377) | refactor(agent): split CWD launch implementation | 2026-06-16 15:23:14 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7c7f984`](https://github.com/sase-org/sase/commit/7c7f984159fad1c5288815ffc5896b64a84014d3) | docs: add admin center research infographic | 2026-06-26 19:41:45 |
+| sase | [`7c7f984`](https://github.com/sase-org/sase/commit/7c7f984159fad1c5288815ffc5896b64a84014d3) | docs: add admin center research infographic | 2026-06-26 15:41:45 EDT |
 
 ## Neighbors
 

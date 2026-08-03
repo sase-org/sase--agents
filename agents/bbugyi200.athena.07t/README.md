@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`448f868`](https://github.com/sase-org/sase/commit/448f868357fb0eac172b98daf34b34ec022cdf64) | chore: Add SDD prompt and plan for reserved\_jinja\_globals | 2026-06-27 14:00:14 |
-| sase | [`12a6967`](https://github.com/sase-org/sase/commit/12a6967ed547252758a83c632fe7a6a4ec0fdec5) | fix(xprompt): reserve Jinja globals statically | 2026-06-27 14:08:02 |
+| sase | [`448f868`](https://github.com/sase-org/sase/commit/448f868357fb0eac172b98daf34b34ec022cdf64) | chore: Add SDD prompt and plan for reserved\_jinja\_globals | 2026-06-27 10:00:14 EDT |
+| sase | [`12a6967`](https://github.com/sase-org/sase/commit/12a6967ed547252758a83c632fe7a6a4ec0fdec5) | fix(xprompt): reserve Jinja globals statically | 2026-06-27 10:08:02 EDT |

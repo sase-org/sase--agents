@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7377ec8`](https://github.com/sase-org/sase/commit/7377ec8e661280f55ea1f85f40ddefd8167c3cd4) | feat: add deterministic episodic recall integration (sase-45.7) | 2026-05-27 00:52:21 |
+| sase | [`7377ec8`](https://github.com/sase-org/sase/commit/7377ec8e661280f55ea1f85f40ddefd8167c3cd4) | feat: add deterministic episodic recall integration (sase-45.7) | 2026-05-26 20:52:21 EDT |
 
 ## Neighbors
 

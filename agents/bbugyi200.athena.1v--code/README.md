@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5e9300e`](https://github.com/sase-org/sase/commit/5e9300e1129d84c8964a8811f85539c6a370a57a) | test: cover log jump hints in admin center | 2026-07-08 07:09:06 |
+| sase | [`5e9300e`](https://github.com/sase-org/sase/commit/5e9300e1129d84c8964a8811f85539c6a370a57a) | test: cover log jump hints in admin center | 2026-07-08 03:09:06 EDT |

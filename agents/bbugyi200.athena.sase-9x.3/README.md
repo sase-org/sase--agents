@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0b51af9`](https://github.com/sase-org/sase/commit/0b51af99549e2a3cfbb1fc7201cb0faf9ba4a19a) | fix: preserve bead commits before sidecar workspace reset (sase-9x.3) | 2026-07-27 11:22:18 |
+| sase | [`0b51af9`](https://github.com/sase-org/sase/commit/0b51af99549e2a3cfbb1fc7201cb0faf9ba4a19a) | fix: preserve bead commits before sidecar workspace reset (sase-9x.3) | 2026-07-27 07:22:18 EDT |
 
 ## Neighbors
 

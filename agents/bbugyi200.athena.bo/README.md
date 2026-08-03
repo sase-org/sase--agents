@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`45c04ae`](https://github.com/sase-org/sase/commit/45c04ae99c7c8738d2b2f66271a37ea82f915b77) | feat(ace): compact parallel family status counts | 2026-07-17 12:38:01 |
+| sase | [`45c04ae`](https://github.com/sase-org/sase/commit/45c04ae99c7c8738d2b2f66271a37ea82f915b77) | feat(ace): compact parallel family status counts | 2026-07-17 08:38:01 EDT |

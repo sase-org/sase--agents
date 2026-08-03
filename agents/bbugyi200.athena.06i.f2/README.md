@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3fbc420`](https://github.com/sase-org/sase/commit/3fbc420747827d24c42adf72f5b9e86d199926f8) | chore: Add SDD prompt and plan for revert\_modal\_redesign | 2026-06-25 21:28:28 |
-| sase | [`7cd69a7`](https://github.com/sase-org/sase/commit/7cd69a7464df8737a1a87e9c0750fc00851cb3a4) | feat(tui): redesign revert confirmation modal | 2026-06-25 21:41:28 |
+| sase | [`3fbc420`](https://github.com/sase-org/sase/commit/3fbc420747827d24c42adf72f5b9e86d199926f8) | chore: Add SDD prompt and plan for revert\_modal\_redesign | 2026-06-25 17:28:28 EDT |
+| sase | [`7cd69a7`](https://github.com/sase-org/sase/commit/7cd69a7464df8737a1a87e9c0750fc00851cb3a4) | feat(tui): redesign revert confirmation modal | 2026-06-25 17:41:28 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5ba2242`](https://github.com/sase-org/sase/commit/5ba2242b2f4cd16893b8995db0f4e98c0c91340a) | feat: add AMD inventory listing (sase-44.4) | 2026-05-24 23:01:10 |
+| sase | [`5ba2242`](https://github.com/sase-org/sase/commit/5ba2242b2f4cd16893b8995db0f4e98c0c91340a) | feat: add AMD inventory listing (sase-44.4) | 2026-05-24 19:01:10 EDT |
 
 ## Neighbors
 

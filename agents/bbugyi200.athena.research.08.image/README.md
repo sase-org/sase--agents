@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3933e7f`](https://github.com/sase-org/sase/commit/3933e7f732d4263bbfec9c4096f85a83b5d7b3fa) | docs: add ACE demo video infographic | 2026-06-23 11:17:12 |
+| sase | [`3933e7f`](https://github.com/sase-org/sase/commit/3933e7f732d4263bbfec9c4096f85a83b5d7b3fa) | docs: add ACE demo video infographic | 2026-06-23 07:17:12 EDT |
 
 ## Neighbors
 

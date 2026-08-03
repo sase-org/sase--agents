@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f4cb17b`](https://github.com/sase-org/sase/commit/f4cb17bf71ca87910ad57a8dcb66fd23fd3aabf7) | chore: Add SDD prompt and plan for github\_enterprise\_setup\_docs | 2026-07-01 12:32:26 |
-| sase | [`d337fc0`](https://github.com/sase-org/sase/commit/d337fc01f315b086de8ff134a2d0dffa70a1a1c9) | docs: clarify GitHub plugin install and Enterprise setup | 2026-07-01 12:41:39 |
+| sase | [`f4cb17b`](https://github.com/sase-org/sase/commit/f4cb17bf71ca87910ad57a8dcb66fd23fd3aabf7) | chore: Add SDD prompt and plan for github\_enterprise\_setup\_docs | 2026-07-01 08:32:26 EDT |
+| sase | [`d337fc0`](https://github.com/sase-org/sase/commit/d337fc01f315b086de8ff134a2d0dffa70a1a1c9) | docs: clarify GitHub plugin install and Enterprise setup | 2026-07-01 08:41:39 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e14237f`](https://github.com/sase-org/sase/commit/e14237fb29f155ec41f81acdc1dfe9a1b8d2e092) | test: split command palette wiring tests | 2026-07-20 17:31:24 |
+| sase | [`e14237f`](https://github.com/sase-org/sase/commit/e14237fb29f155ec41f81acdc1dfe9a1b8d2e092) | test: split command palette wiring tests | 2026-07-20 13:31:24 EDT |
 
 ## Neighbors
 

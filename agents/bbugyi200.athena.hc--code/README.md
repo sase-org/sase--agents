@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7900eeb`](https://github.com/sase-org/sase/commit/7900eeb50a3542af97a6ed0404ff2bb3e45d23f0) | feat(ace): jump to parent agent containers | 2026-07-21 17:41:14 |
+| sase | [`7900eeb`](https://github.com/sase-org/sase/commit/7900eeb50a3542af97a6ed0404ff2bb3e45d23f0) | feat(ace): jump to parent agent containers | 2026-07-21 13:41:14 EDT |
 
 ## Neighbors
 

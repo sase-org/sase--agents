@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`161d2a3`](https://github.com/sase-org/sase/commit/161d2a39a4bcc538cf11d8416ce74ad87634b104) | test: split SDD handler tests by command area | 2026-07-08 05:29:57 |
+| sase | [`161d2a3`](https://github.com/sase-org/sase/commit/161d2a39a4bcc538cf11d8416ce74ad87634b104) | test: split SDD handler tests by command area | 2026-07-08 01:29:57 EDT |
 
 ## Neighbors
 

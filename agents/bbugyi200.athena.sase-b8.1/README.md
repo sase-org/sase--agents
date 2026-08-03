@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c537f7e`](https://github.com/sase-org/sase/commit/c537f7e03de7315d07f041def613cbba0bcde354) | feat(agents): add shared agent-lane vocabulary | 2026-07-30 14:51:14 |
+| sase | [`c537f7e`](https://github.com/sase-org/sase/commit/c537f7e03de7315d07f041def613cbba0bcde354) | feat(agents): add shared agent-lane vocabulary | 2026-07-30 10:51:14 EDT |
 
 ## Neighbors
 

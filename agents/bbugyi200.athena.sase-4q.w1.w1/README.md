@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e2f93a7`](https://github.com/sase-org/sase/commit/e2f93a7f19a5f4384465ddd41d66b3aae2d1ca0e) | feat(tui): add prompt surround operator | 2026-06-16 17:07:27 |
-| sase | [`56d7a6e`](https://github.com/sase-org/sase/commit/56d7a6e6488984d6a0239a6820975a9147db07e9) | style(core): format prompt stash helpers | 2026-06-16 17:07:55 |
+| sase | [`e2f93a7`](https://github.com/sase-org/sase/commit/e2f93a7f19a5f4384465ddd41d66b3aae2d1ca0e) | feat(tui): add prompt surround operator | 2026-06-16 13:07:27 EDT |
+| sase | [`56d7a6e`](https://github.com/sase-org/sase/commit/56d7a6e6488984d6a0239a6820975a9147db07e9) | style(core): format prompt stash helpers | 2026-06-16 13:07:55 EDT |
 
 ## Neighbors
 

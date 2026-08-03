@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`578e4f5`](https://github.com/sase-org/sase/commit/578e4f5c6499c32d21468734e142ff1c6d092eac) | feat(bead): resolve the acting agent as a bead creator | 2026-07-31 14:18:10 |
+| sase | [`578e4f5`](https://github.com/sase-org/sase/commit/578e4f5c6499c32d21468734e142ff1c6d092eac) | feat(bead): resolve the acting agent as a bead creator | 2026-07-31 10:18:10 EDT |
 
 ## Neighbors
 

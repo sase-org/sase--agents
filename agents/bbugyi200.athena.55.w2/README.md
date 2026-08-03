@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e121427`](https://github.com/sase-org/sase/commit/e121427d9f77cf665b4f2d5b060453ee9db57f11) | chore: Add SDD prompt and plan for pencil\_icon\_ignore\_plan\_prompt\_edits | 2026-06-10 14:55:04 |
-| sase | [`575e6b4`](https://github.com/sase-org/sase/commit/575e6b45de96aa55d0a43fbd68c30999b759fcea) | fix: hide diff badge for plan-only changes | 2026-06-10 15:07:11 |
+| sase | [`e121427`](https://github.com/sase-org/sase/commit/e121427d9f77cf665b4f2d5b060453ee9db57f11) | chore: Add SDD prompt and plan for pencil\_icon\_ignore\_plan\_prompt\_edits | 2026-06-10 10:55:04 EDT |
+| sase | [`575e6b4`](https://github.com/sase-org/sase/commit/575e6b45de96aa55d0a43fbd68c30999b759fcea) | fix: hide diff badge for plan-only changes | 2026-06-10 11:07:11 EDT |
 
 ## Neighbors
 

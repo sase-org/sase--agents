@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0e38edf`](https://github.com/sase-org/sase/commit/0e38edf56bf8fb7266362e95504b5477d7b1864f) | feat(ace): reorder Artifacts subtabs | 2026-07-21 12:23:11 |
+| sase | [`0e38edf`](https://github.com/sase-org/sase/commit/0e38edf56bf8fb7266362e95504b5477d7b1864f) | feat(ace): reorder Artifacts subtabs | 2026-07-21 08:23:11 EDT |
 
 ## Neighbors
 

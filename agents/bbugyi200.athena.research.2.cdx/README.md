@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2e77bd2`](https://github.com/sase-org/sase/commit/2e77bd2991623e01f1bcd8cd4016f5d11de02cff) | docs: research VHS text overlay options | 2026-07-08 21:21:50 |
+| sase | [`2e77bd2`](https://github.com/sase-org/sase/commit/2e77bd2991623e01f1bcd8cd4016f5d11de02cff) | docs: research VHS text overlay options | 2026-07-08 17:21:50 EDT |
 
 ## Neighbors
 

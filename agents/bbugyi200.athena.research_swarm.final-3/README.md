@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dc87444`](https://github.com/sase-org/sase/commit/dc87444a11878c9e8c5ff1b8cf82c9cf4509a61a) | chore: consolidate TUI prompt completion research | 2026-05-29 02:12:57 |
+| sase | [`dc87444`](https://github.com/sase-org/sase/commit/dc87444a11878c9e8c5ff1b8cf82c9cf4509a61a) | chore: consolidate TUI prompt completion research | 2026-05-28 22:12:57 EDT |
 
 ## Neighbors
 

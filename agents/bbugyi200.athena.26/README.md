@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d16940b`](https://github.com/sase-org/sase/commit/d16940b12167fd1ea2abf65bab4b7b954b7ac991) | fix: retry auto-commit after stale index lock | 2026-07-08 17:02:48 |
+| sase | [`d16940b`](https://github.com/sase-org/sase/commit/d16940b12167fd1ea2abf65bab4b7b954b7ac991) | fix: retry auto-commit after stale index lock | 2026-07-08 13:02:48 EDT |

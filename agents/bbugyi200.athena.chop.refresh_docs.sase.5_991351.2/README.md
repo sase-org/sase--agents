@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`999df80`](https://github.com/sase-org/sase/commit/999df80ec437f6da3892f200a39f7fef822c72d6) | docs: correct agent grouping and launch lifecycle guidance | 2026-07-19 21:48:16 |
+| sase | [`999df80`](https://github.com/sase-org/sase/commit/999df80ec437f6da3892f200a39f7fef822c72d6) | docs: correct agent grouping and launch lifecycle guidance | 2026-07-19 17:48:16 EDT |
 
 ## Neighbors
 

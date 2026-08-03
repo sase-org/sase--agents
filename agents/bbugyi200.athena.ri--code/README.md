@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d53f085`](https://github.com/sase-org/sase/commit/d53f0856eed0f83076e2afe96ad5b1fb0bee5707) | feat(ace): add undo for bulk agent read toggle | 2026-08-01 16:33:05 |
+| sase | [`d53f085`](https://github.com/sase-org/sase/commit/d53f0856eed0f83076e2afe96ad5b1fb0bee5707) | feat(ace): add undo for bulk agent read toggle | 2026-08-01 12:33:05 EDT |

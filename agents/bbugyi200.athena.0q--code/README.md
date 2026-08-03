@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c962280`](https://github.com/sase-org/sase/commit/c962280a98dd9bcbae75f7d8e91cb7d099501bb3) | feat(tui): show linked repo change badges | 2026-07-07 18:21:27 |
+| sase | [`c962280`](https://github.com/sase-org/sase/commit/c962280a98dd9bcbae75f7d8e91cb7d099501bb3) | feat(tui): show linked repo change badges | 2026-07-07 14:21:27 EDT |

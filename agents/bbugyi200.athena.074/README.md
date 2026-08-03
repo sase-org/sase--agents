@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3308b2c`](https://github.com/sase-org/sase/commit/3308b2c86f93a7634c280127055045f5179a2200) | feat(tui): swap idle keymaps | 2026-06-26 15:56:34 |
+| sase | [`3308b2c`](https://github.com/sase-org/sase/commit/3308b2c86f93a7634c280127055045f5179a2200) | feat(tui): swap idle keymaps | 2026-06-26 11:56:34 EDT |

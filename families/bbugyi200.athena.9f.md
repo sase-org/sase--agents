@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`1607d60`](https://github.com/sase-org/sase/commit/1607d601eea797aa741dac2cf771a7dddd694af2) | chore: Add SDD prompt and plan for xprompt\_part\_color | 2026-06-17 14:24:01 |
-| root | sase | [`7531efc`](https://github.com/sase-org/sase/commit/7531efcc4df00dcfc1c5e25f09634afbdbf46fdb) | feat(tui): use distinct color for xprompt part values | 2026-06-17 14:30:55 |
-| code | sase | [`805de8f`](https://github.com/sase-org/sase/commit/805de8fe66844508303575aa6c4975c1b2a0588e) | test: harden CI reliability harnesses | 2026-07-15 18:13:42 |
-| root | sase | [`805de8f`](https://github.com/sase-org/sase/commit/805de8fe66844508303575aa6c4975c1b2a0588e) | test: harden CI reliability harnesses | 2026-07-15 18:13:42 |
+| root | sase | [`1607d60`](https://github.com/sase-org/sase/commit/1607d601eea797aa741dac2cf771a7dddd694af2) | chore: Add SDD prompt and plan for xprompt\_part\_color | 2026-06-17 10:24:01 EDT |
+| root | sase | [`7531efc`](https://github.com/sase-org/sase/commit/7531efcc4df00dcfc1c5e25f09634afbdbf46fdb) | feat(tui): use distinct color for xprompt part values | 2026-06-17 10:30:55 EDT |
+| code | sase | [`805de8f`](https://github.com/sase-org/sase/commit/805de8fe66844508303575aa6c4975c1b2a0588e) | test: harden CI reliability harnesses | 2026-07-15 14:13:42 EDT |
+| root | sase | [`805de8f`](https://github.com/sase-org/sase/commit/805de8fe66844508303575aa6c4975c1b2a0588e) | test: harden CI reliability harnesses | 2026-07-15 14:13:42 EDT |

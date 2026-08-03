@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4309efb`](https://github.com/sase-org/sase/commit/4309efbf19bad8b26f33ef4e0fbb7ee6aa8c87dd) | perf(config): throttle freshness scans in render paths (sase-6c.2) | 2026-07-16 15:29:56 |
+| sase | [`4309efb`](https://github.com/sase-org/sase/commit/4309efbf19bad8b26f33ef4e0fbb7ee6aa8c87dd) | perf(config): throttle freshness scans in render paths (sase-6c.2) | 2026-07-16 11:29:56 EDT |
 
 ## Neighbors
 

@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`e1b2d2e`](https://github.com/sase-org/sase/commit/e1b2d2efb5a3bd955922e0b4c365ea43962727ea) | chore: Add SDD prompt and plan for generated\_media\_default\_artifacts | 2026-07-06 20:33:36 |
-| root | sase | [`0047ef8`](https://github.com/sase-org/sase/commit/0047ef832725c6d8b33abf89d0173e98a3b0cf18) | fix: persist prompt-referenced videos as artifacts | 2026-07-06 20:43:38 |
+| root | sase | [`e1b2d2e`](https://github.com/sase-org/sase/commit/e1b2d2efb5a3bd955922e0b4c365ea43962727ea) | chore: Add SDD prompt and plan for generated\_media\_default\_artifacts | 2026-07-06 16:33:36 EDT |
+| root | sase | [`0047ef8`](https://github.com/sase-org/sase/commit/0047ef832725c6d8b33abf89d0173e98a3b0cf18) | fix: persist prompt-referenced videos as artifacts | 2026-07-06 16:43:38 EDT |
 
 ## Neighbors
 

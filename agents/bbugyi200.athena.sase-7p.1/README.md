@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a30e9e3`](https://github.com/sase-org/sase/commit/a30e9e342feead3f54148530bfd1b603054e9875) | feat(axe): add bounded log rotation headroom (sase-7p.1) | 2026-07-19 21:50:04 |
+| sase | [`a30e9e3`](https://github.com/sase-org/sase/commit/a30e9e342feead3f54148530bfd1b603054e9875) | feat(axe): add bounded log rotation headroom (sase-7p.1) | 2026-07-19 17:50:04 EDT |
 
 ## Neighbors
 

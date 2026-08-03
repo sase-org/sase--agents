@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fbb4c78`](https://github.com/sase-org/sase/commit/fbb4c781ab8c31404c425ff68c94d46edd712aa3) | docs: research development runtime install strategy | 2026-06-27 12:34:30 |
+| sase | [`fbb4c78`](https://github.com/sase-org/sase/commit/fbb4c781ab8c31404c425ff68c94d46edd712aa3) | docs: research development runtime install strategy | 2026-06-27 08:34:30 EDT |
 
 ## Neighbors
 

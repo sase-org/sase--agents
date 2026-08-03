@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`470c4b0`](https://github.com/sase-org/sase/commit/470c4b023d1f9e538d97e576614bc0d8993c424e) | refactor(agent): split running-agent listing logic | 2026-07-16 03:14:56 |
+| sase | [`470c4b0`](https://github.com/sase-org/sase/commit/470c4b023d1f9e538d97e576614bc0d8993c424e) | refactor(agent): split running-agent listing logic | 2026-07-15 23:14:56 EDT |
 
 ## Neighbors
 

@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`60a7b5f`](https://github.com/sase-org/sase/commit/60a7b5fbd9189258d224b1aa3082dde44795cc9f) | fix: resolve chat install workspace through project aliases | 2026-07-06 19:14:24 |
+| sase | [`60a7b5f`](https://github.com/sase-org/sase/commit/60a7b5fbd9189258d224b1aa3082dde44795cc9f) | fix: resolve chat install workspace through project aliases | 2026-07-06 15:14:24 EDT |

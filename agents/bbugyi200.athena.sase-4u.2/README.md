@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`45b3b0f`](https://github.com/sase-org/sase/commit/45b3b0f0ef6da127dbd23034fa7ecc76519bd51d) | feat(memory): support flat memory read paths (sase-4u.2) | 2026-06-17 22:55:08 |
+| sase | [`45b3b0f`](https://github.com/sase-org/sase/commit/45b3b0f0ef6da127dbd23034fa7ecc76519bd51d) | feat(memory): support flat memory read paths (sase-4u.2) | 2026-06-17 18:55:08 EDT |
 
 ## Neighbors
 

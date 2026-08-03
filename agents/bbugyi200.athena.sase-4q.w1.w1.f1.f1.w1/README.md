@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`91ca861`](https://github.com/sase-org/sase/commit/91ca861e5f04a54f0c7a56a74731e4be017980d7) | chore: Add SDD prompt and plan for prompt\_frontmatter\_panel | 2026-06-16 17:42:37 |
-| sase | [`14f12bb`](https://github.com/sase-org/sase/commit/14f12bb91b306dd8aaba456cc27c04ac45db4ea3) | chore: add prompt frontmatter panel epic beads | 2026-06-16 17:51:03 |
+| sase | [`91ca861`](https://github.com/sase-org/sase/commit/91ca861e5f04a54f0c7a56a74731e4be017980d7) | chore: Add SDD prompt and plan for prompt\_frontmatter\_panel | 2026-06-16 13:42:37 EDT |
+| sase | [`14f12bb`](https://github.com/sase-org/sase/commit/14f12bb91b306dd8aaba456cc27c04ac45db4ea3) | chore: add prompt frontmatter panel epic beads | 2026-06-16 13:51:03 EDT |
 
 ## Neighbors
 

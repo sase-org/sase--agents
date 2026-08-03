@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d3f6b20`](https://github.com/sase-org/sase/commit/d3f6b20fceec0aee1a479d63a00385c0a33a2761) | chore: close bead sase-4z.3 | 2026-06-19 15:04:25 |
+| sase | [`d3f6b20`](https://github.com/sase-org/sase/commit/d3f6b20fceec0aee1a479d63a00385c0a33a2761) | chore: close bead sase-4z.3 | 2026-06-19 11:04:25 EDT |
 
 ## Neighbors
 

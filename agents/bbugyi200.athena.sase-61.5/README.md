@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9ef9688`](https://github.com/sase-org/sase/commit/9ef9688c8bc2856466c2d57d0daa3ac132271ebd) | feat!: launch approved epics from structured plans (sase-61.5) | 2026-07-14 18:34:35 |
+| sase | [`9ef9688`](https://github.com/sase-org/sase/commit/9ef9688c8bc2856466c2d57d0daa3ac132271ebd) | feat!: launch approved epics from structured plans (sase-61.5) | 2026-07-14 14:34:35 EDT |
 
 ## Neighbors
 

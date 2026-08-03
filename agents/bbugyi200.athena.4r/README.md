@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1b528af`](https://github.com/sase-org/sase/commit/1b528aff6c4358f2f1ccc6bb1b50029f46a5354e) | chore: Add SDD prompt and plan for fast\_ace\_tui\_startup | 2026-06-10 00:14:27 |
-| sase | [`cf57ff5`](https://github.com/sase-org/sase/commit/cf57ff540f6a9b498f79926409e770f8f1c1ea74) | fix: eliminate pre-paint dismissed-index sync from \`sase ace\` startup | 2026-06-10 00:35:00 |
+| sase | [`1b528af`](https://github.com/sase-org/sase/commit/1b528aff6c4358f2f1ccc6bb1b50029f46a5354e) | chore: Add SDD prompt and plan for fast\_ace\_tui\_startup | 2026-06-09 20:14:27 EDT |
+| sase | [`cf57ff5`](https://github.com/sase-org/sase/commit/cf57ff540f6a9b498f79926409e770f8f1c1ea74) | fix: eliminate pre-paint dismissed-index sync from \`sase ace\` startup | 2026-06-09 20:35:00 EDT |

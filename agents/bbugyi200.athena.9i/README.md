@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`75bf5c7`](https://github.com/sase-org/sase/commit/75bf5c791c302823415a4efa4b277740fc7e79ff) | feat(ace): show associated plan metadata | 2026-07-15 18:35:43 |
+| sase | [`75bf5c7`](https://github.com/sase-org/sase/commit/75bf5c791c302823415a4efa4b277740fc7e79ff) | feat(ace): show associated plan metadata | 2026-07-15 14:35:43 EDT |
 
 ## Neighbors
 

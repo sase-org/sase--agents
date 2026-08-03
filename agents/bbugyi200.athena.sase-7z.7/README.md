@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`11f6529`](https://github.com/sase-org/sase/commit/11f65293214ca741794d15a9cdb9a3899d871324) | docs: document phase sizing and child epics (sase-7z.7) | 2026-07-20 14:14:01 |
+| sase | [`11f6529`](https://github.com/sase-org/sase/commit/11f65293214ca741794d15a9cdb9a3899d871324) | docs: document phase sizing and child epics (sase-7z.7) | 2026-07-20 10:14:01 EDT |
 
 ## Neighbors
 

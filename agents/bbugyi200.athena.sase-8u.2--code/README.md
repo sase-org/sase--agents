@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6e6b8d8`](https://github.com/sase-org/sase/commit/6e6b8d85c3c4314d84ba5167c22a955bacf623fe) | feat: integrate core capitalized snippet aliases (sase-8u.2) | 2026-07-23 13:04:22 |
+| sase | [`6e6b8d8`](https://github.com/sase-org/sase/commit/6e6b8d85c3c4314d84ba5167c22a955bacf623fe) | feat: integrate core capitalized snippet aliases (sase-8u.2) | 2026-07-23 09:04:22 EDT |
 
 ## Neighbors
 

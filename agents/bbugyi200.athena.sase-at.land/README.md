@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8013915`](https://github.com/sase-org/sase/commit/8013915ac54bb5dbd2730c101c27c3b3fee77712) | build: sync lockfile package version | 2026-07-29 17:00:33 |
+| sase | [`8013915`](https://github.com/sase-org/sase/commit/8013915ac54bb5dbd2730c101c27c3b3fee77712) | build: sync lockfile package version | 2026-07-29 13:00:33 EDT |
 
 ## Neighbors
 

@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`fd9db05`](https://github.com/sase-org/sase/commit/fd9db0526eaf20827ab198ddbfc726707bbc43b4) | fix(beads): publish epic graph before worker launch | 2026-07-21 21:14:40 |
+| code | sase | [`fd9db05`](https://github.com/sase-org/sase/commit/fd9db0526eaf20827ab198ddbfc726707bbc43b4) | fix(beads): publish epic graph before worker launch | 2026-07-21 17:14:40 EDT |

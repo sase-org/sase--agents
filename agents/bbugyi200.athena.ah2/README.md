@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bccb950`](https://github.com/sase-org/sase/commit/bccb950245231931786d508c441da6b07f49bdea) | chore: add sase-45 epic infographic | 2026-05-26 23:01:59 |
+| sase | [`bccb950`](https://github.com/sase-org/sase/commit/bccb950245231931786d508c441da6b07f49bdea) | chore: add sase-45 epic infographic | 2026-05-26 19:01:59 EDT |

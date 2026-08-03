@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0b6583a`](https://github.com/sase-org/sase/commit/0b6583aaf308bf8181d1a660499e503c5a5078b6) | chore: consolidate memory search research | 2026-05-31 16:19:20 |
+| sase | [`0b6583a`](https://github.com/sase-org/sase/commit/0b6583aaf308bf8181d1a660499e503c5a5078b6) | chore: consolidate memory search research | 2026-05-31 12:19:20 EDT |
 
 ## Neighbors
 

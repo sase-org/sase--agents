@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`8256e25`](https://github.com/sase-org/sase/commit/8256e2584648cf54e62f0cf8cf04ae73ee322d7d) | fix(agents): preserve clan tribe across filtered snapshots | 2026-07-20 02:13:07 |
+| code | sase | [`8256e25`](https://github.com/sase-org/sase/commit/8256e2584648cf54e62f0cf8cf04ae73ee322d7d) | fix(agents): preserve clan tribe across filtered snapshots | 2026-07-19 22:13:07 EDT |
 
 ## Neighbors
 

@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`07aebb2`](https://github.com/sase-org/sase/commit/07aebb2f956550d47051b7d42f41d1642369dfff) | fix(tui): show full prompt input values | 2026-07-29 21:15:07 |
+| sase | [`07aebb2`](https://github.com/sase-org/sase/commit/07aebb2f956550d47051b7d42f41d1642369dfff) | fix(tui): show full prompt input values | 2026-07-29 17:15:07 EDT |

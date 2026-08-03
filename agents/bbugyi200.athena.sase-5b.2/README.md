@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`41de8f1`](https://github.com/sase-org/sase/commit/41de8f1b3ee20673802a4a6817a65bb354f3a3ba) | feat(memory): inline short-term memory into \`AGENTS.md\` (sase-5b.2) | 2026-06-26 20:47:21 |
+| sase | [`41de8f1`](https://github.com/sase-org/sase/commit/41de8f1b3ee20673802a4a6817a65bb354f3a3ba) | feat(memory): inline short-term memory into \`AGENTS.md\` (sase-5b.2) | 2026-06-26 16:47:21 EDT |
 
 ## Neighbors
 

@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`88245f6`](https://github.com/sase-org/sase/commit/88245f6b7152fc3b13f12caa58abd3ab6e1d2f45) | chore: Add SDD prompt and plan for telegram\_llm\_provider\_ci | 2026-06-18 13:00:09 |
+| sase | [`88245f6`](https://github.com/sase-org/sase/commit/88245f6b7152fc3b13f12caa58abd3ab6e1d2f45) | chore: Add SDD prompt and plan for telegram\_llm\_provider\_ci | 2026-06-18 09:00:09 EDT |

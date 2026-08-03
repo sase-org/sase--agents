@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2ac99da`](https://github.com/sase-org/sase/commit/2ac99dab516508ae27d12fe22ebd1f292b5ce1be) | feat(ace)!: add Ctrl+X xprompt snippet chord | 2026-07-18 12:37:20 |
+| sase | [`2ac99da`](https://github.com/sase-org/sase/commit/2ac99dab516508ae27d12fe22ebd1f292b5ce1be) | feat(ace)!: add Ctrl+X xprompt snippet chord | 2026-07-18 08:37:20 EDT |
 
 ## Neighbors
 

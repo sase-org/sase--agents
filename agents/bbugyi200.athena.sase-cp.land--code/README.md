@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`33c6311`](https://github.com/sase-org/sase/commit/33c63112c911958e5a3c6111eb4f01caeb945794) | docs(memory): document bulk bead update semantics | 2026-07-31 20:25:18 |
+| sase | [`33c6311`](https://github.com/sase-org/sase/commit/33c63112c911958e5a3c6111eb4f01caeb945794) | docs(memory): document bulk bead update semantics | 2026-07-31 16:25:18 EDT |
 
 ## Neighbors
 

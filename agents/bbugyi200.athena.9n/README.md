@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d794742`](https://github.com/sase-org/sase/commit/d7947425969670dac3e859eb00c76e0f0e0386d8) | chore: Add SDD prompt and plan for prompt\_ctrl\_g\_stack\_editor | 2026-06-17 15:47:00 |
-| sase | [`e6d547f`](https://github.com/sase-org/sase/commit/e6d547f542bff0063b38f8665933056240d62a9d) | feat(tui): make Ctrl+G the single stack-aware prompt editor key | 2026-06-17 16:01:44 |
+| sase | [`d794742`](https://github.com/sase-org/sase/commit/d7947425969670dac3e859eb00c76e0f0e0386d8) | chore: Add SDD prompt and plan for prompt\_ctrl\_g\_stack\_editor | 2026-06-17 11:47:00 EDT |
+| sase | [`e6d547f`](https://github.com/sase-org/sase/commit/e6d547f542bff0063b38f8665933056240d62a9d) | feat(tui): make Ctrl+G the single stack-aware prompt editor key | 2026-06-17 12:01:44 EDT |

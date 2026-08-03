@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4416671`](https://github.com/sase-org/sase/commit/4416671d46511b0fce15db32692579ceed79e922) | chore: add research on sharing MacBook screenshots with remote agents | 2026-06-12 13:25:24 |
+| sase | [`4416671`](https://github.com/sase-org/sase/commit/4416671d46511b0fce15db32692579ceed79e922) | chore: add research on sharing MacBook screenshots with remote agents | 2026-06-12 09:25:24 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0c4c0ac`](https://github.com/sase-org/sase/commit/0c4c0ac2d17f205f60471ffc0f77aad5c9b60a27) | docs: add mobile app motivation infographic | 2026-07-07 03:52:07 |
+| sase | [`0c4c0ac`](https://github.com/sase-org/sase/commit/0c4c0ac2d17f205f60471ffc0f77aad5c9b60a27) | docs: add mobile app motivation infographic | 2026-07-06 23:52:07 EDT |
 
 ## Neighbors
 

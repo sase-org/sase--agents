@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`cc8f7a5`](https://github.com/sase-org/sase/commit/cc8f7a50c26945cf0c3046b39098bc2e209d1ced) | feat: add generic clan plan summaries (sase-8d.2) | 2026-07-20 20:14:02 |
+| code | sase | [`cc8f7a5`](https://github.com/sase-org/sase/commit/cc8f7a50c26945cf0c3046b39098bc2e209d1ced) | feat: add generic clan plan summaries (sase-8d.2) | 2026-07-20 16:14:02 EDT |
 
 ## Neighbors
 

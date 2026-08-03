@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`e4c13b3`](https://github.com/sase-org/sase/commit/e4c13b3e837b8d8464013cf52194a596a1c4ac9b) | feat(llm): add provider-specific coder defaults | 2026-08-02 12:16:50 |
+| code | sase | [`e4c13b3`](https://github.com/sase-org/sase/commit/e4c13b3e837b8d8464013cf52194a596a1c4ac9b) | feat(llm): add provider-specific coder defaults | 2026-08-02 08:16:50 EDT |
 
 ## Neighbors
 

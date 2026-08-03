@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5cf149c`](https://github.com/sase-org/sase/commit/5cf149c1f5c2a914c1df0a98a63bd7d02fad5b81) | feat(beads): support repository-root bead stores (sase-a8.5) | 2026-07-27 20:58:04 |
+| sase | [`5cf149c`](https://github.com/sase-org/sase/commit/5cf149c1f5c2a914c1df0a98a63bd7d02fad5b81) | feat(beads): support repository-root bead stores (sase-a8.5) | 2026-07-27 16:58:04 EDT |
 
 ## Neighbors
 

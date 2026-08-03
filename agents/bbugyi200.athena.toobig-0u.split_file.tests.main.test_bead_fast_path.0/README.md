@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b83a9cd`](https://github.com/sase-org/sase/commit/b83a9cd186a9fca941ac040ddc90c97f95be8a53) | test: split bead fast-path tests by behavior | 2026-07-29 00:12:00 |
+| sase | [`b83a9cd`](https://github.com/sase-org/sase/commit/b83a9cd186a9fca941ac040ddc90c97f95be8a53) | test: split bead fast-path tests by behavior | 2026-07-28 20:12:00 EDT |

@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`30eb1ce`](https://github.com/sase-org/sase/commit/30eb1ceeb7461ec3aff43faa726464c213d3fa63) | chore: Add SDD prompt and plan for revive\_bundle\_reprojection | 2026-06-09 19:30:34 |
-| sase | [`cab1bf5`](https://github.com/sase-org/sase/commit/cab1bf5519e3443c9e9ff3970bd2ae539e445f4f) | fix: purge dismissed bundles on revive so agents stay visible | 2026-06-09 19:48:16 |
+| sase | [`30eb1ce`](https://github.com/sase-org/sase/commit/30eb1ceeb7461ec3aff43faa726464c213d3fa63) | chore: Add SDD prompt and plan for revive\_bundle\_reprojection | 2026-06-09 15:30:34 EDT |
+| sase | [`cab1bf5`](https://github.com/sase-org/sase/commit/cab1bf5519e3443c9e9ff3970bd2ae539e445f4f) | fix: purge dismissed bundles on revive so agents stay visible | 2026-06-09 15:48:16 EDT |

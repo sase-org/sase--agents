@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5a15d18`](https://github.com/sase-org/sase/commit/5a15d188c2af2e21c06465e70e99913ebee25a9c) | test(axe): add editor polish verification (sase-8m.4) | 2026-07-22 19:44:02 |
+| sase | [`5a15d18`](https://github.com/sase-org/sase/commit/5a15d188c2af2e21c06465e70e99913ebee25a9c) | test(axe): add editor polish verification (sase-8m.4) | 2026-07-22 15:44:02 EDT |
 
 ## Neighbors
 

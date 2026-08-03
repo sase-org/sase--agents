@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e3fb9a8`](https://github.com/sase-org/sase/commit/e3fb9a86a6ef5e81f8c17370c932566773f5184c) | refactor(tui): split plugin browser pane | 2026-06-26 16:49:25 |
+| sase | [`e3fb9a8`](https://github.com/sase-org/sase/commit/e3fb9a86a6ef5e81f8c17370c932566773f5184c) | refactor(tui): split plugin browser pane | 2026-06-26 12:49:25 EDT |
 
 ## Neighbors
 

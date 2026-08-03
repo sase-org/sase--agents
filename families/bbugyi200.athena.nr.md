@@ -25,6 +25,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`cca22e6`](https://github.com/sase-org/sase/commit/cca22e64d9648386ad52631f8f0217a55cc01f55) | refactor(ace): rename collapse houses to lanes | 2026-07-29 10:52:28 |
+| code | sase | [`cca22e6`](https://github.com/sase-org/sase/commit/cca22e64d9648386ad52631f8f0217a55cc01f55) | refactor(ace): rename collapse houses to lanes | 2026-07-29 06:52:28 EDT |

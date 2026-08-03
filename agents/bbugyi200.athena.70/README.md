@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`438d3c7`](https://github.com/sase-org/sase/commit/438d3c7e05e92e537376c03d217e38837137931b) | feat(beads): accelerate companion mutations | 2026-07-12 19:22:26 |
+| sase | [`438d3c7`](https://github.com/sase-org/sase/commit/438d3c7e05e92e537376c03d217e38837137931b) | feat(beads): accelerate companion mutations | 2026-07-12 15:22:26 EDT |

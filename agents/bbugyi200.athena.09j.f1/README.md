@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`81fa8c7`](https://github.com/sase-org/sase/commit/81fa8c758c600a8e9ce6222b21a7463ed9b2b90e) | chore: Add SDD prompt and plan for project\_display\_name\_agent\_rows | 2026-06-29 12:48:19 |
-| sase | [`b7e9829`](https://github.com/sase-org/sase/commit/b7e982967a7e4a17e05d9159523e682761c9b681) | fix(tui): show project display names in agent rows | 2026-06-29 13:01:41 |
+| sase | [`81fa8c7`](https://github.com/sase-org/sase/commit/81fa8c758c600a8e9ce6222b21a7463ed9b2b90e) | chore: Add SDD prompt and plan for project\_display\_name\_agent\_rows | 2026-06-29 08:48:19 EDT |
+| sase | [`b7e9829`](https://github.com/sase-org/sase/commit/b7e982967a7e4a17e05d9159523e682761c9b681) | fix(tui): show project display names in agent rows | 2026-06-29 09:01:41 EDT |
 
 ## Neighbors
 

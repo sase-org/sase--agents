@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9455106`](https://github.com/sase-org/sase/commit/945510600a052be893596fd3a6820d73e1cfda65) | chore: close xprompt expansion epic | 2026-06-21 16:57:42 |
+| sase | [`9455106`](https://github.com/sase-org/sase/commit/945510600a052be893596fd3a6820d73e1cfda65) | chore: close xprompt expansion epic | 2026-06-21 12:57:42 EDT |
 
 ## Neighbors
 

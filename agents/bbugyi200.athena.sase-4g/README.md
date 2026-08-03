@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`29e3050`](https://github.com/sase-org/sase/commit/29e30509c2bbcce73ffaadc67f13ad99be19f44b) | chore: close sase-4g verification bead | 2026-06-08 21:32:34 |
-| sase | [`93bfc5f`](https://github.com/sase-org/sase/commit/93bfc5f75967c01da535be54acc374cf98cf9a27) | chore: Add SDD prompt and plan for fix\_generated\_skill\_staleness\_1 (sase-4g) | 2026-06-08 21:34:56 |
+| sase | [`29e3050`](https://github.com/sase-org/sase/commit/29e30509c2bbcce73ffaadc67f13ad99be19f44b) | chore: close sase-4g verification bead | 2026-06-08 17:32:34 EDT |
+| sase | [`93bfc5f`](https://github.com/sase-org/sase/commit/93bfc5f75967c01da535be54acc374cf98cf9a27) | chore: Add SDD prompt and plan for fix\_generated\_skill\_staleness\_1 (sase-4g) | 2026-06-08 17:34:56 EDT |
 
 ## Neighbors
 

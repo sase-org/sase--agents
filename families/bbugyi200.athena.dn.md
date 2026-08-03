@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`9c2f000`](https://github.com/sase-org/sase/commit/9c2f00092ee7adf636d499db24d58e034846ec69) | fix(plan-gate): distinguish tale launch icon | 2026-07-18 18:18:12 |
+| code | sase | [`9c2f000`](https://github.com/sase-org/sase/commit/9c2f00092ee7adf636d499db24d58e034846ec69) | fix(plan-gate): distinguish tale launch icon | 2026-07-18 14:18:12 EDT |

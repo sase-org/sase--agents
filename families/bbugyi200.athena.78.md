@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`5e4ae55`](https://github.com/sase-org/sase/commit/5e4ae55d3a066b7c178ee0a754a9b5f9acfcc15d) | feat(cli): add plan list status and limit filters | 2026-07-12 20:41:47 |
+| root | sase | [`5e4ae55`](https://github.com/sase-org/sase/commit/5e4ae55d3a066b7c178ee0a754a9b5f9acfcc15d) | feat(cli): add plan list status and limit filters | 2026-07-12 16:41:47 EDT |

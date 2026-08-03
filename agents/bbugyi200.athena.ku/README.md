@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`899a257`](https://github.com/sase-org/sase/commit/899a257f22b0a36225485f8c81faaf72cef4fdf9) | feat: surface runner-cap queued agent status | 2026-07-25 16:43:55 |
+| sase | [`899a257`](https://github.com/sase-org/sase/commit/899a257f22b0a36225485f8c81faaf72cef4fdf9) | feat: surface runner-cap queued agent status | 2026-07-25 12:43:55 EDT |
 
 ## Neighbors
 

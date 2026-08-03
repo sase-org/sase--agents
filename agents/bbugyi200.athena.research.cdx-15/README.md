@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`08770d3`](https://github.com/sase-org/sase/commit/08770d3f8034a999b2bc86643e8d086acfe5b8a4) | chore: add open source SASE competitor audit | 2026-06-07 11:17:58 |
+| sase | [`08770d3`](https://github.com/sase-org/sase/commit/08770d3f8034a999b2bc86643e8d086acfe5b8a4) | chore: add open source SASE competitor audit | 2026-06-07 07:17:58 EDT |
 
 ## Neighbors
 

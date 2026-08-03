@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f499ca1`](https://github.com/sase-org/sase/commit/f499ca1db61a7f2ccef55e6d8d59f57048617d49) | feat(tasks): record detached epic launch origins (sase-9s) | 2026-07-26 17:40:57 |
-| sase | [`1cb134f`](https://github.com/sase-org/sase/commit/1cb134fd1cd8e76f8427aad797844a8c681060b8) | test: stabilize post-rebase suite checks (sase-9s) | 2026-07-26 18:43:57 |
+| sase | [`f499ca1`](https://github.com/sase-org/sase/commit/f499ca1db61a7f2ccef55e6d8d59f57048617d49) | feat(tasks): record detached epic launch origins (sase-9s) | 2026-07-26 13:40:57 EDT |
+| sase | [`1cb134f`](https://github.com/sase-org/sase/commit/1cb134fd1cd8e76f8427aad797844a8c681060b8) | test: stabilize post-rebase suite checks (sase-9s) | 2026-07-26 14:43:57 EDT |
 
 ## Neighbors
 

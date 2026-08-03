@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0ea37bf`](https://github.com/sase-org/sase/commit/0ea37bfa58af4b923f950774635ebafa0659804e) | refactor(agent-family): split standard plan chain modules | 2026-07-06 12:30:36 |
+| sase | [`0ea37bf`](https://github.com/sase-org/sase/commit/0ea37bfa58af4b923f950774635ebafa0659804e) | refactor(agent-family): split standard plan chain modules | 2026-07-06 08:30:36 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`02eee83`](https://github.com/sase-org/sase/commit/02eee837542948dba30c2327120de3a9c8e6fb3d) | fix: invalidate xprompt identity on project mutations (sase-ac.6.4) | 2026-07-28 13:47:00 |
+| sase | [`02eee83`](https://github.com/sase-org/sase/commit/02eee837542948dba30c2327120de3a9c8e6fb3d) | fix: invalidate xprompt identity on project mutations (sase-ac.6.4) | 2026-07-28 09:47:00 EDT |
 
 ## Neighbors
 

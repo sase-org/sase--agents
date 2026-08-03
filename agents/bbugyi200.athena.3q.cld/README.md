@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`845bbfa`](https://github.com/sase-org/sase/commit/845bbfa379e8992053bce3eac78366339989e032) | chore: Add SDD prompt and plan for vcs\_xprompt\_ctrlp\_stale\_context | 2026-06-08 11:14:31 |
-| sase | [`b8d0977`](https://github.com/sase-org/sase/commit/b8d0977bca7958da2b0c86bfc46cfeb971cba850) | fix: don't launch \`\<ctrl+p\>\`-cycled VCS xprompt under stale baked context | 2026-06-08 11:44:41 |
+| sase | [`845bbfa`](https://github.com/sase-org/sase/commit/845bbfa379e8992053bce3eac78366339989e032) | chore: Add SDD prompt and plan for vcs\_xprompt\_ctrlp\_stale\_context | 2026-06-08 07:14:31 EDT |
+| sase | [`b8d0977`](https://github.com/sase-org/sase/commit/b8d0977bca7958da2b0c86bfc46cfeb971cba850) | fix: don't launch \`\<ctrl+p\>\`-cycled VCS xprompt under stale baked context | 2026-06-08 07:44:41 EDT |

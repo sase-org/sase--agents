@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a4f48cb`](https://github.com/sase-org/sase/commit/a4f48cbfdf96d7195270ef71b067d3b72fbb9870) | docs(research): add Hacker News launch timing analysis | 2026-06-19 15:16:25 |
+| sase | [`a4f48cb`](https://github.com/sase-org/sase/commit/a4f48cbfdf96d7195270ef71b067d3b72fbb9870) | docs(research): add Hacker News launch timing analysis | 2026-06-19 11:16:25 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`889ddca`](https://github.com/sase-org/sase/commit/889ddca89746bf15b2473e6dc0b3dee09c3e3394) | refactor(bead): retire expired sase-bg epic symbols | 2026-07-31 03:22:39 |
+| sase | [`889ddca`](https://github.com/sase-org/sase/commit/889ddca89746bf15b2473e6dc0b3dee09c3e3394) | refactor(bead): retire expired sase-bg epic symbols | 2026-07-30 23:22:39 EDT |
 
 ## Neighbors
 

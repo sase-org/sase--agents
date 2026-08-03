@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`130280d`](https://github.com/sase-org/sase/commit/130280d5632703ee96e2c43ba6c08b13f5b65d60) | chore: Add SDD prompt and plan for updates\_tab | 2026-06-26 23:01:52 |
-| sase | [`46bf6e7`](https://github.com/sase-org/sase/commit/46bf6e7bcae2f8d08d3b73e430f47418fc5770ea) | feat(tui): add Updates tab core updater | 2026-06-26 23:27:32 |
+| sase | [`130280d`](https://github.com/sase-org/sase/commit/130280d5632703ee96e2c43ba6c08b13f5b65d60) | chore: Add SDD prompt and plan for updates\_tab | 2026-06-26 19:01:52 EDT |
+| sase | [`46bf6e7`](https://github.com/sase-org/sase/commit/46bf6e7bcae2f8d08d3b73e430f47418fc5770ea) | feat(tui): add Updates tab core updater | 2026-06-26 19:27:32 EDT |
 
 ## Neighbors
 

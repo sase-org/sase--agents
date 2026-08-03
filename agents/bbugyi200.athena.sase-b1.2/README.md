@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0683114`](https://github.com/sase-org/sase/commit/068311411b65de0931d755cdfc88e66114a918b3) | feat(agent): carry swarm provenance through launches | 2026-07-30 01:57:40 |
+| sase | [`0683114`](https://github.com/sase-org/sase/commit/068311411b65de0931d755cdfc88e66114a918b3) | feat(agent): carry swarm provenance through launches | 2026-07-29 21:57:40 EDT |
 
 ## Neighbors
 

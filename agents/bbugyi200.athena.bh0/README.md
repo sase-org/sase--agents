@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d303ce8`](https://github.com/sase-org/sase/commit/d303ce8ff7c41ea34c9455f24e681cc16a005115) | chore: research tagged agent revival sets | 2026-05-26 23:49:33 |
+| sase | [`d303ce8`](https://github.com/sase-org/sase/commit/d303ce8ff7c41ea34c9455f24e681cc16a005115) | chore: research tagged agent revival sets | 2026-05-26 19:49:33 EDT |
 
 ## Neighbors
 

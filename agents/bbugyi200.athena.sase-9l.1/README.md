@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5ae5e9a`](https://github.com/sase-org/sase/commit/5ae5e9a4dcdc51c496009259baa4e0625ba44b9c) | fix(tests): contain bead resolution in pytest sandbox (sase-9l.1) | 2026-07-25 15:19:11 |
+| sase | [`5ae5e9a`](https://github.com/sase-org/sase/commit/5ae5e9a4dcdc51c496009259baa4e0625ba44b9c) | fix(tests): contain bead resolution in pytest sandbox (sase-9l.1) | 2026-07-25 11:19:11 EDT |
 
 ## Neighbors
 

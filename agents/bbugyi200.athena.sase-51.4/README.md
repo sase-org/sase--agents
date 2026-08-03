@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d5f3fca`](https://github.com/sase-org/sase/commit/d5f3fca9269bf7cbb9bb3e08826bcccc513ac439) | feat(config): warn on deprecated sibling\_repos key (sase-51.4) | 2026-06-20 20:37:08 |
+| sase | [`d5f3fca`](https://github.com/sase-org/sase/commit/d5f3fca9269bf7cbb9bb3e08826bcccc513ac439) | feat(config): warn on deprecated sibling\_repos key (sase-51.4) | 2026-06-20 16:37:08 EDT |
 
 ## Neighbors
 

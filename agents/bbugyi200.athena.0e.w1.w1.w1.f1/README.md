@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9d16bd5`](https://github.com/sase-org/sase/commit/9d16bd5418a61eaedb257ba9fbddc8c593323cf7) | chore: Add SDD prompt and plan for expand\_help\_panel | 2026-07-07 17:46:59 |
-| sase | [`306b5ec`](https://github.com/sase-org/sase/commit/306b5ec957dbc162f8ba1f72c7eb3b409389cb27) | fix(ace): expand help panel viewport usage | 2026-07-07 17:56:22 |
+| sase | [`9d16bd5`](https://github.com/sase-org/sase/commit/9d16bd5418a61eaedb257ba9fbddc8c593323cf7) | chore: Add SDD prompt and plan for expand\_help\_panel | 2026-07-07 13:46:59 EDT |
+| sase | [`306b5ec`](https://github.com/sase-org/sase/commit/306b5ec957dbc162f8ba1f72c7eb3b409389cb27) | fix(ace): expand help panel viewport usage | 2026-07-07 13:56:22 EDT |
 
 ## Neighbors
 

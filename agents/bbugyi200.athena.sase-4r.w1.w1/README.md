@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`395a848`](https://github.com/sase-org/sase/commit/395a848b1d00a06935ebb6875d1ab1a275206c0d) | chore: Add SDD prompt and plan for prompt\_stack\_xprompt\_editor | 2026-06-17 09:43:47 |
+| sase | [`395a848`](https://github.com/sase-org/sase/commit/395a848b1d00a06935ebb6875d1ab1a275206c0d) | chore: Add SDD prompt and plan for prompt\_stack\_xprompt\_editor | 2026-06-17 05:43:47 EDT |
 
 ## Neighbors
 

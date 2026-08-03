@@ -20,9 +20,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5c71a37`](https://github.com/sase-org/sase/commit/5c71a376147546f5122ba5d389c029c70bb46792) | chore: add Zep memory framework research | 2026-06-11 11:48:50 |
+| sase | [`5c71a37`](https://github.com/sase-org/sase/commit/5c71a376147546f5122ba5d389c029c70bb46792) | chore: add Zep memory framework research | 2026-06-11 07:48:50 EDT |
 
 ## Variables
 

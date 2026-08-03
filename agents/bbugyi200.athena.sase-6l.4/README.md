@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ed23598`](https://github.com/sase-org/sase/commit/ed235980f058eabe99970b62777a4aec887e3c55) | feat(demos): showcase live multi-model fan-out (sase-6l.4) | 2026-07-17 19:04:35 |
+| sase | [`ed23598`](https://github.com/sase-org/sase/commit/ed235980f058eabe99970b62777a4aec887e3c55) | feat(demos): showcase live multi-model fan-out (sase-6l.4) | 2026-07-17 15:04:35 EDT |
 
 ## Neighbors
 

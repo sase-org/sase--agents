@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4188d2b`](https://github.com/sase-org/sase/commit/4188d2bbb163f89a748e02edd4fb60c66d771f32) | chore: Add SDD prompt and plan for prompt\_preview\_keymap | 2026-06-28 13:48:35 |
-| sase | [`43d2d05`](https://github.com/sase-org/sase/commit/43d2d05e5598df0b8d4bd0a483c8f43b19367b41) | feat(ace): add prompt preview keymap | 2026-06-28 14:15:23 |
+| sase | [`4188d2b`](https://github.com/sase-org/sase/commit/4188d2bbb163f89a748e02edd4fb60c66d771f32) | chore: Add SDD prompt and plan for prompt\_preview\_keymap | 2026-06-28 09:48:35 EDT |
+| sase | [`43d2d05`](https://github.com/sase-org/sase/commit/43d2d05e5598df0b8d4bd0a483c8f43b19367b41) | feat(ace): add prompt preview keymap | 2026-06-28 10:15:23 EDT |
 
 ## Neighbors
 

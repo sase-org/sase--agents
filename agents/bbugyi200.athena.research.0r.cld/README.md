@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4ad86da`](https://github.com/sase-org/sase/commit/4ad86da3344151a17d860d0329978d2b9c57e7d1) | docs: add research on auto-loading snippets and xprompts in the TUI | 2026-06-27 13:09:10 |
+| sase | [`4ad86da`](https://github.com/sase-org/sase/commit/4ad86da3344151a17d860d0329978d2b9c57e7d1) | docs: add research on auto-loading snippets and xprompts in the TUI | 2026-06-27 09:09:10 EDT |
 
 ## Neighbors
 

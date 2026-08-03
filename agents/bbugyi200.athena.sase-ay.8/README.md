@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9d8a700`](https://github.com/sase-org/sase/commit/9d8a70048e5aabeb5c594d1d50e28ba7f36fb84e) | docs: document grouped at-reference completion | 2026-07-30 00:27:14 |
+| sase | [`9d8a700`](https://github.com/sase-org/sase/commit/9d8a70048e5aabeb5c594d1d50e28ba7f36fb84e) | docs: document grouped at-reference completion | 2026-07-29 20:27:14 EDT |
 
 ## Neighbors
 

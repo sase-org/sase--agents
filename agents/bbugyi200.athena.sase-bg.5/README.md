@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2ce43ee`](https://github.com/sase-org/sase/commit/2ce43ee3e84c960fafa9326d15d8cd2f26475756) | feat(bead): show task type and ready status on pages and mobile | 2026-07-31 00:45:44 |
+| sase | [`2ce43ee`](https://github.com/sase-org/sase/commit/2ce43ee3e84c960fafa9326d15d8cd2f26475756) | feat(bead): show task type and ready status on pages and mobile | 2026-07-30 20:45:44 EDT |
 
 ## Neighbors
 

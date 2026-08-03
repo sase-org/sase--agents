@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f3680c3`](https://github.com/sase-org/sase/commit/f3680c3c9d0a8a1680887a8754abbf288e4392bb) | fix: fail closed on sdd git probe errors (sase-9v.4) | 2026-07-26 16:47:40 |
+| sase | [`f3680c3`](https://github.com/sase-org/sase/commit/f3680c3c9d0a8a1680887a8754abbf288e4392bb) | fix: fail closed on sdd git probe errors (sase-9v.4) | 2026-07-26 12:47:40 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aa08bdf`](https://github.com/sase-org/sase/commit/aa08bdf80daee0b5bb50120d10ee416178f84daf) | feat!: move Bob query skill to user configuration | 2026-07-10 17:28:08 |
+| sase | [`aa08bdf`](https://github.com/sase-org/sase/commit/aa08bdf80daee0b5bb50120d10ee416178f84daf) | feat!: move Bob query skill to user configuration | 2026-07-10 13:28:08 EDT |
 
 ## Neighbors
 

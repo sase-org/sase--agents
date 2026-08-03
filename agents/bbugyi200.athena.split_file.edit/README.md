@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6695816`](https://github.com/sase-org/sase/commit/669581651df9df2160caac6cff0942c178c578e4) | refactor(config): split config edit implementation | 2026-07-01 13:38:55 |
+| sase | [`6695816`](https://github.com/sase-org/sase/commit/669581651df9df2160caac6cff0942c178c578e4) | refactor(config): split config edit implementation | 2026-07-01 09:38:55 EDT |
 
 ## Neighbors
 

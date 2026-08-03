@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3929347`](https://github.com/sase-org/sase/commit/3929347f06550507acf7d6e082f0da55e787b40d) | chore: Add SDD prompt and plan for concurrent\_research\_swarm\_launch\_race | 2026-06-04 23:35:17 |
-| sase | [`f2322c3`](https://github.com/sase-org/sase/commit/f2322c3591ee80242141cbeb00070f7140cbb04f) | fix: coordinate concurrent swarm launches | 2026-06-04 23:57:40 |
+| sase | [`3929347`](https://github.com/sase-org/sase/commit/3929347f06550507acf7d6e082f0da55e787b40d) | chore: Add SDD prompt and plan for concurrent\_research\_swarm\_launch\_race | 2026-06-04 19:35:17 EDT |
+| sase | [`f2322c3`](https://github.com/sase-org/sase/commit/f2322c3591ee80242141cbeb00070f7140cbb04f) | fix: coordinate concurrent swarm launches | 2026-06-04 19:57:40 EDT |

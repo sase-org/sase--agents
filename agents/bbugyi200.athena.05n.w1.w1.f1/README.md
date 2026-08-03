@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dc1a796`](https://github.com/sase-org/sase/commit/dc1a796191311f2f6177186b65b1d9c9a6ba9054) | chore: Add SDD prompt and plan for model\_directive\_arg\_completion | 2026-06-24 20:58:22 |
-| sase | [`4964ee0`](https://github.com/sase-org/sase/commit/4964ee0eeb0b72bde81b0340a5aa168195a6d9ea) | feat: complete model directive values | 2026-06-24 21:25:38 |
+| sase | [`dc1a796`](https://github.com/sase-org/sase/commit/dc1a796191311f2f6177186b65b1d9c9a6ba9054) | chore: Add SDD prompt and plan for model\_directive\_arg\_completion | 2026-06-24 16:58:22 EDT |
+| sase | [`4964ee0`](https://github.com/sase-org/sase/commit/4964ee0eeb0b72bde81b0340a5aa168195a6d9ea) | feat: complete model directive values | 2026-06-24 17:25:38 EDT |
 
 ## Neighbors
 

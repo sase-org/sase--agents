@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3b6f589`](https://github.com/sase-org/sase/commit/3b6f58960f8d04757f17f1bdd0c1e98e816bb2ef) | refactor(cli): split bead parser registrations | 2026-07-30 20:49:49 |
+| sase | [`3b6f589`](https://github.com/sase-org/sase/commit/3b6f58960f8d04757f17f1bdd0c1e98e816bb2ef) | refactor(cli): split bead parser registrations | 2026-07-30 16:49:49 EDT |

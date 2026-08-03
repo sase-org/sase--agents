@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`80d44e3`](https://github.com/sase-org/sase/commit/80d44e38414c1ce4258535271208c6c6be38ad9b) | feat(ace): polish beads and nested files views | 2026-08-01 18:18:45 |
+| sase | [`80d44e3`](https://github.com/sase-org/sase/commit/80d44e38414c1ce4258535271208c6c6be38ad9b) | feat(ace): polish beads and nested files views | 2026-08-01 14:18:45 EDT |
 
 ## Neighbors
 

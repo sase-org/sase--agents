@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d4be80d`](https://github.com/sase-org/sase/commit/d4be80d3f9a6c96890f6b83c8c4af0a20797f214) | fix(artifacts): render timestamps in configured timezone | 2026-08-03 13:39:09 |
+| sase | [`d4be80d`](https://github.com/sase-org/sase/commit/d4be80d3f9a6c96890f6b83c8c4af0a20797f214) | fix(artifacts): render timestamps in configured timezone | 2026-08-03 09:39:09 EDT |
 
 ## Neighbors
 

@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`86c7034`](https://github.com/sase-org/sase/commit/86c7034f2132b3112e7c3c68bbf544952d8d3d7e) | feat(vcs)!: make SDD log history opt-in | 2026-07-10 15:28:18 |
+| sase | [`86c7034`](https://github.com/sase-org/sase/commit/86c7034f2132b3112e7c3c68bbf544952d8d3d7e) | feat(vcs)!: make SDD log history opt-in | 2026-07-10 11:28:18 EDT |

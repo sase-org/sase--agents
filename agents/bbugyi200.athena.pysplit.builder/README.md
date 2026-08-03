@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`09c4dfa`](https://github.com/sase-org/sase/commit/09c4dfa26774e6aad54801dc7f583a37bf902da3) | ref: split episode builder into focused modules | 2026-05-28 23:59:34 |
+| sase | [`09c4dfa`](https://github.com/sase-org/sase/commit/09c4dfa26774e6aad54801dc7f583a37bf902da3) | ref: split episode builder into focused modules | 2026-05-28 19:59:34 EDT |
 
 ## Neighbors
 

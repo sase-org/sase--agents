@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`346ddbc`](https://github.com/sase-org/sase/commit/346ddbc511c1644aeccb92026205c581f46ded9e) | test: split parser help tests | 2026-06-19 00:35:03 |
+| sase | [`346ddbc`](https://github.com/sase-org/sase/commit/346ddbc511c1644aeccb92026205c581f46ded9e) | test: split parser help tests | 2026-06-18 20:35:03 EDT |
 
 ## Neighbors
 

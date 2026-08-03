@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5c7f258`](https://github.com/sase-org/sase/commit/5c7f25834f1d4ae04bed2289cee9202f794dd7c1) | fix(xprompts): deprioritize epic agents | 2026-07-26 12:39:39 |
+| sase | [`5c7f258`](https://github.com/sase-org/sase/commit/5c7f25834f1d4ae04bed2289cee9202f794dd7c1) | fix(xprompts): deprioritize epic agents | 2026-07-26 08:39:39 EDT |

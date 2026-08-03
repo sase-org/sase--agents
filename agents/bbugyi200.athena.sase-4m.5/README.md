@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d9910fc`](https://github.com/sase-org/sase/commit/d9910fcc25d827b1e565e30fdc7945c1854b5c21) | fix: record failed non-TUI launches as cancelled history | 2026-06-13 14:56:35 |
+| sase | [`d9910fc`](https://github.com/sase-org/sase/commit/d9910fcc25d827b1e565e30fdc7945c1854b5c21) | fix: record failed non-TUI launches as cancelled history | 2026-06-13 10:56:35 EDT |
 
 ## Neighbors
 

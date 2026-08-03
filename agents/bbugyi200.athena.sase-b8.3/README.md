@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1cd59c3`](https://github.com/sase-org/sase/commit/1cd59c3b11e16835ab23dc030f8234e871bb194e) | feat(agents): anchor sidecar publication requests on the agent lane | 2026-07-30 15:40:37 |
+| sase | [`1cd59c3`](https://github.com/sase-org/sase/commit/1cd59c3b11e16835ab23dc030f8234e871bb194e) | feat(agents): anchor sidecar publication requests on the agent lane | 2026-07-30 11:40:37 EDT |
 
 ## Neighbors
 

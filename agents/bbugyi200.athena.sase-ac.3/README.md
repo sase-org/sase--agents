@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9148e45`](https://github.com/sase-org/sase/commit/9148e45e1829a445e772a07c8c71b6d919a6ff56) | feat(xprompt): resolve registered project prompts outside cwd (sase-ac.3) | 2026-07-28 12:50:28 |
+| sase | [`9148e45`](https://github.com/sase-org/sase/commit/9148e45e1829a445e772a07c8c71b6d919a6ff56) | feat(xprompt): resolve registered project prompts outside cwd (sase-ac.3) | 2026-07-28 08:50:28 EDT |
 
 ## Neighbors
 

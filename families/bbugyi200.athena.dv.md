@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`ec9bdd0`](https://github.com/sase-org/sase/commit/ec9bdd0471ae1dfe3c4eb0d12350be962ffb909e) | fix(ace): restore agent status bucket priority | 2026-07-18 19:57:28 |
+| code | sase | [`ec9bdd0`](https://github.com/sase-org/sase/commit/ec9bdd0471ae1dfe3c4eb0d12350be962ffb909e) | fix(ace): restore agent status bucket priority | 2026-07-18 15:57:28 EDT |
 
 ## Neighbors
 

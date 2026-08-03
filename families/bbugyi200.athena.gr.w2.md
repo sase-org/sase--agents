@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`4f86191`](https://github.com/sase-org/sase/commit/4f86191c2866975f8ca40173345a3adf01617035) | feat(ace): persist the commits default filter | 2026-07-21 13:10:39 |
+| code | sase | [`4f86191`](https://github.com/sase-org/sase/commit/4f86191c2866975f8ca40173345a3adf01617035) | feat(ace): persist the commits default filter | 2026-07-21 09:10:39 EDT |
 
 ## Neighbors
 

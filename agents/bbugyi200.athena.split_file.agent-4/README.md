@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b76cf48`](https://github.com/sase-org/sase/commit/b76cf4858d83632d42bfd2ee9fccbef5a42f8c11) | refactor(ace): split agent model state into modules | 2026-07-15 22:28:45 |
+| sase | [`b76cf48`](https://github.com/sase-org/sase/commit/b76cf4858d83632d42bfd2ee9fccbef5a42f8c11) | refactor(ace): split agent model state into modules | 2026-07-15 18:28:45 EDT |
 
 ## Neighbors
 

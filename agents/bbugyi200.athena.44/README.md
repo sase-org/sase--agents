@@ -19,11 +19,11 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`abf3ebe`](https://github.com/sase-org/sase/commit/abf3ebe85a7fb9bd44849d711005b17e205bb1e1) | chore: Add SDD prompt and plan for artifact\_panel\_zoom\_open | 2026-06-09 13:43:33 |
-| sase | [`556af4b`](https://github.com/sase-org/sase/commit/556af4baf4d550404646627d6985bdd9203796bf) | feat: support zoomed artifact pane opens | 2026-06-09 13:54:01 |
-| sase | [`e853025`](https://github.com/sase-org/sase/commit/e85302525ec562b5759aaa39244089bd87f1ac10) | feat(vcs): show 40 log commits by default | 2026-07-10 13:16:22 |
+| sase | [`abf3ebe`](https://github.com/sase-org/sase/commit/abf3ebe85a7fb9bd44849d711005b17e205bb1e1) | chore: Add SDD prompt and plan for artifact\_panel\_zoom\_open | 2026-06-09 09:43:33 EDT |
+| sase | [`556af4b`](https://github.com/sase-org/sase/commit/556af4baf4d550404646627d6985bdd9203796bf) | feat: support zoomed artifact pane opens | 2026-06-09 09:54:01 EDT |
+| sase | [`e853025`](https://github.com/sase-org/sase/commit/e85302525ec562b5759aaa39244089bd87f1ac10) | feat(vcs): show 40 log commits by default | 2026-07-10 09:16:22 EDT |
 
 ## Neighbors
 

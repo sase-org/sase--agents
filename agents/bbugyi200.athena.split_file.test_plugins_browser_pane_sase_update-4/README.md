@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a70e3ad`](https://github.com/sase-org/sase/commit/a70e3ad12b6a753c51e359318d957e8b5c1173ca) | test: split plugin browser SASE update tests | 2026-07-16 05:07:48 |
+| sase | [`a70e3ad`](https://github.com/sase-org/sase/commit/a70e3ad12b6a753c51e359318d957e8b5c1173ca) | test: split plugin browser SASE update tests | 2026-07-16 01:07:48 EDT |
 
 ## Neighbors
 

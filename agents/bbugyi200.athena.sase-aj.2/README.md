@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aae07cf`](https://github.com/sase-org/sase/commit/aae07cfee19c92b1134447604a13b1a8cc37d623) | fix(beads): skip commits for no-op mutations | 2026-07-28 21:04:15 |
+| sase | [`aae07cf`](https://github.com/sase-org/sase/commit/aae07cfee19c92b1134447604a13b1a8cc37d623) | fix(beads): skip commits for no-op mutations | 2026-07-28 17:04:15 EDT |
 
 ## Neighbors
 

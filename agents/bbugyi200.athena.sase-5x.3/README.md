@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1ec31b8`](https://github.com/sase-org/sase/commit/1ec31b87d4535e9f298ea22d738a171b28232f79) | feat(repo): add repository open log dashboard (sase-5x.3) | 2026-07-13 19:16:07 |
+| sase | [`1ec31b8`](https://github.com/sase-org/sase/commit/1ec31b87d4535e9f298ea22d738a171b28232f79) | feat(repo): add repository open log dashboard (sase-5x.3) | 2026-07-13 15:16:07 EDT |
 
 ## Neighbors
 

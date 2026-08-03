@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1b45a7c`](https://github.com/sase-org/sase/commit/1b45a7cb1174a2ae04c1adf78d44a8ed91490ddc) | chore: create worker model epic beads | 2026-06-10 00:52:24 |
+| sase | [`1b45a7c`](https://github.com/sase-org/sase/commit/1b45a7cb1174a2ae04c1adf78d44a8ed91490ddc) | chore: create worker model epic beads | 2026-06-09 20:52:24 EDT |

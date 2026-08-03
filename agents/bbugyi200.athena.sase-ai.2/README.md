@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4f2694c`](https://github.com/sase-org/sase/commit/4f2694c9211b289b0dc8f48622fd3334975a2675) | feat: add linked bead commit footer tags (sase-ai.2) | 2026-07-28 19:03:58 |
+| sase | [`4f2694c`](https://github.com/sase-org/sase/commit/4f2694c9211b289b0dc8f48622fd3334975a2675) | feat: add linked bead commit footer tags (sase-ai.2) | 2026-07-28 15:03:58 EDT |
 
 ## Neighbors
 

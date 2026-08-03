@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`eaf6f68`](https://github.com/sase-org/sase/commit/eaf6f6809e89010b1e31a6880d0cbaab37794195) | fix: expose family runner-slot occupancy in agent listings | 2026-07-17 23:16:18 |
+| root | sase | [`eaf6f68`](https://github.com/sase-org/sase/commit/eaf6f6809e89010b1e31a6880d0cbaab37794195) | fix: expose family runner-slot occupancy in agent listings | 2026-07-17 19:16:18 EDT |

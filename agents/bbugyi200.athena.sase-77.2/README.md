@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4060ac6`](https://github.com/sase-org/sase/commit/4060ac6456d2ed8cca1b23371bc569e255ffb752) | fix(git): recover high-traffic runners from index locks (sase-77.2) | 2026-07-19 14:08:03 |
+| sase | [`4060ac6`](https://github.com/sase-org/sase/commit/4060ac6456d2ed8cca1b23371bc569e255ffb752) | fix(git): recover high-traffic runners from index locks (sase-77.2) | 2026-07-19 10:08:03 EDT |
 
 ## Neighbors
 

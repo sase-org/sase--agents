@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6b2e112`](https://github.com/sase-org/sase/commit/6b2e112ec5baaf764feab238f308bbc8a8632abd) | chore: Add SDD prompt and plan for directive\_arg\_completion | 2026-06-24 20:21:44 |
-| sase | [`d2b31ce`](https://github.com/sase-org/sase/commit/d2b31cefcd68d341509c224f5c6f384ee4163a17) | feat(ace): complete directive argument values | 2026-06-24 20:45:49 |
+| sase | [`6b2e112`](https://github.com/sase-org/sase/commit/6b2e112ec5baaf764feab238f308bbc8a8632abd) | chore: Add SDD prompt and plan for directive\_arg\_completion | 2026-06-24 16:21:44 EDT |
+| sase | [`d2b31ce`](https://github.com/sase-org/sase/commit/d2b31cefcd68d341509c224f5c6f384ee4163a17) | feat(ace): complete directive argument values | 2026-06-24 16:45:49 EDT |
 
 ## Neighbors
 

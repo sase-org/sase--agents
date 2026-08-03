@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ff2edcb`](https://github.com/sase-org/sase/commit/ff2edcb5f92952d24a2d970cab51111ba2042a22) | refactor(ace): split update receipt responsibilities | 2026-07-20 20:41:52 |
+| sase | [`ff2edcb`](https://github.com/sase-org/sase/commit/ff2edcb5f92952d24a2d970cab51111ba2042a22) | refactor(ace): split update receipt responsibilities | 2026-07-20 16:41:52 EDT |
 
 ## Neighbors
 

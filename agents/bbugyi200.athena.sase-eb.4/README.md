@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c8211ae`](https://github.com/sase-org/sase/commit/c8211ae5cf3e08f0c3d4402ee5b6bdfe6617a0e0) | feat(xprompt): add show CLI command | 2026-08-02 18:07:24 |
+| sase | [`c8211ae`](https://github.com/sase-org/sase/commit/c8211ae5cf3e08f0c3d4402ee5b6bdfe6617a0e0) | feat(xprompt): add show CLI command | 2026-08-02 14:07:24 EDT |
 
 ## Neighbors
 

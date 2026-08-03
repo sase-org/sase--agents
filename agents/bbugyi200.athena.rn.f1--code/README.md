@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5143cb9`](https://github.com/sase-org/sase/commit/5143cb9813d129850bbea0ec52246238bc31f696) | fix(stats): expose runner occupancy diagnostics | 2026-08-02 13:23:48 |
+| sase | [`5143cb9`](https://github.com/sase-org/sase/commit/5143cb9813d129850bbea0ec52246238bc31f696) | fix(stats): expose runner occupancy diagnostics | 2026-08-02 09:23:48 EDT |
 
 ## Neighbors
 

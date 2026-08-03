@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e62c094`](https://github.com/sase-org/sase/commit/e62c094c5682b598f439c467a18882977ff26848) | chore: refresh AMD and dynamic memory docs | 2026-05-30 17:42:28 |
+| sase | [`e62c094`](https://github.com/sase-org/sase/commit/e62c094c5682b598f439c467a18882977ff26848) | chore: refresh AMD and dynamic memory docs | 2026-05-30 13:42:28 EDT |
 
 ## Neighbors
 

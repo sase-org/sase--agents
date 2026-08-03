@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`28933e2`](https://github.com/sase-org/sase/commit/28933e2fc8d14065e416910cd685cbe22a1a6107) | feat: discover plugin packages in version inventory (sase-4h.2) | 2026-06-08 20:14:42 |
+| sase | [`28933e2`](https://github.com/sase-org/sase/commit/28933e2fc8d14065e416910cd685cbe22a1a6107) | feat: discover plugin packages in version inventory (sase-4h.2) | 2026-06-08 16:14:42 EDT |
 
 ## Neighbors
 

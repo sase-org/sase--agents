@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3c19c82`](https://github.com/sase-org/sase/commit/3c19c82f5fc790b601ea99d28d8c7ac382942df5) | ref: split memory episodes CLI tests | 2026-05-29 00:08:20 |
-| sase | [`ac3c64d`](https://github.com/sase-org/sase/commit/ac3c64d2f62157d16fd9f930fcac412497eeddb5) | ref: split memory episodes CLI tests | 2026-05-29 00:16:13 |
+| sase | [`3c19c82`](https://github.com/sase-org/sase/commit/3c19c82f5fc790b601ea99d28d8c7ac382942df5) | ref: split memory episodes CLI tests | 2026-05-28 20:08:20 EDT |
+| sase | [`ac3c64d`](https://github.com/sase-org/sase/commit/ac3c64d2f62157d16fd9f930fcac412497eeddb5) | ref: split memory episodes CLI tests | 2026-05-28 20:16:13 EDT |
 
 ## Neighbors
 

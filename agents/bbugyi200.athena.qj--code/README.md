@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`df5054c`](https://github.com/sase-org/sase/commit/df5054c4073357c29ecf644de8f8ddeb7dc60f58) | feat(notifications): apply mark actions in bulk | 2026-07-31 17:32:41 |
+| sase | [`df5054c`](https://github.com/sase-org/sase/commit/df5054c4073357c29ecf644de8f8ddeb7dc60f58) | feat(notifications): apply mark actions in bulk | 2026-07-31 13:32:41 EDT |

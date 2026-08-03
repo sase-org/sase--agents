@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b86cb95`](https://github.com/sase-org/sase/commit/b86cb95f975e15d09434c97816eafb52cc636328) | chore: Add SDD prompt and plan for xprompt\_effort\_levels | 2026-06-23 15:20:55 |
-| sase | [`d5224a6`](https://github.com/sase-org/sase/commit/d5224a6ad56a77285fc7c54300ca96b5fa275d8a) | chore: create xprompt effort epic beads | 2026-06-23 15:37:35 |
+| sase | [`b86cb95`](https://github.com/sase-org/sase/commit/b86cb95f975e15d09434c97816eafb52cc636328) | chore: Add SDD prompt and plan for xprompt\_effort\_levels | 2026-06-23 11:20:55 EDT |
+| sase | [`d5224a6`](https://github.com/sase-org/sase/commit/d5224a6ad56a77285fc7c54300ca96b5fa275d8a) | chore: create xprompt effort epic beads | 2026-06-23 11:37:35 EDT |

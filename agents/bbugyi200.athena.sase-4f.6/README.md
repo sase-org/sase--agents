@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4d9c4cc`](https://github.com/sase-org/sase/commit/4d9c4ccc78f65e5967acc6b5eefeef2ab45d8732) | feat: optimize agents tab local refresh paths (sase-4f.6) | 2026-06-08 20:32:22 |
+| sase | [`4d9c4cc`](https://github.com/sase-org/sase/commit/4d9c4ccc78f65e5967acc6b5eefeef2ab45d8732) | feat: optimize agents tab local refresh paths (sase-4f.6) | 2026-06-08 16:32:22 EDT |
 
 ## Neighbors
 

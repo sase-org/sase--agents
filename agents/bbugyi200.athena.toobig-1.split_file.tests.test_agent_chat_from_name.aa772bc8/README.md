@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`68f7435`](https://github.com/sase-org/sase/commit/68f743522451c47e021456d3a608447935bc0bb5) | test: split agent chat resolver tests | 2026-07-20 11:36:29 |
+| sase | [`68f7435`](https://github.com/sase-org/sase/commit/68f743522451c47e021456d3a608447935bc0bb5) | test: split agent chat resolver tests | 2026-07-20 07:36:29 EDT |
 
 ## Neighbors
 

@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`94d7cdc`](https://github.com/sase-org/sase/commit/94d7cdc48c43a7e6cd2c9472b3c3b69ca443497a) | perf(tui): reuse update freshness for confirmation | 2026-07-11 16:44:09 |
+| root | sase | [`94d7cdc`](https://github.com/sase-org/sase/commit/94d7cdc48c43a7e6cd2c9472b3c3b69ca443497a) | perf(tui): reuse update freshness for confirmation | 2026-07-11 12:44:09 EDT |

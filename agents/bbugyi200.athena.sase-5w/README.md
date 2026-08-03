@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`185b8a4`](https://github.com/sase-org/sase/commit/185b8a45fdbb06f7c673e84e123759d6ab3ca4d0) | refactor(workspace): privatize workspace inventory project info | 2026-07-13 17:54:00 |
+| sase | [`185b8a4`](https://github.com/sase-org/sase/commit/185b8a45fdbb06f7c673e84e123759d6ab3ca4d0) | refactor(workspace): privatize workspace inventory project info | 2026-07-13 13:54:00 EDT |
 
 ## Neighbors
 

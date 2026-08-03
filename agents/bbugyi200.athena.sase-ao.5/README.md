@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fe53df8`](https://github.com/sase-org/sase/commit/fe53df885faf473a7ec5e459258e35764e6f8049) | docs(ace): document the %model alias completion rows | 2026-07-29 12:48:59 |
+| sase | [`fe53df8`](https://github.com/sase-org/sase/commit/fe53df885faf473a7ec5e459258e35764e6f8049) | docs(ace): document the %model alias completion rows | 2026-07-29 08:48:59 EDT |
 
 ## Neighbors
 

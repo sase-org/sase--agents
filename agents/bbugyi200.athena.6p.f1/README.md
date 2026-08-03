@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`718db7f`](https://github.com/sase-org/sase/commit/718db7f54c4d598a0feca854691a4337924f3572) | chore: Add SDD prompt and plan for prompt\_history\_panel\_redesign | 2026-06-13 17:36:28 |
-| sase | [`06700fa`](https://github.com/sase-org/sase/commit/06700fa2ae5283e00269c1dff78d5433972c7fe3) | feat(tui): redesign prompt history modal | 2026-06-13 17:56:07 |
+| sase | [`718db7f`](https://github.com/sase-org/sase/commit/718db7f54c4d598a0feca854691a4337924f3572) | chore: Add SDD prompt and plan for prompt\_history\_panel\_redesign | 2026-06-13 13:36:28 EDT |
+| sase | [`06700fa`](https://github.com/sase-org/sase/commit/06700fa2ae5283e00269c1dff78d5433972c7fe3) | feat(tui): redesign prompt history modal | 2026-06-13 13:56:07 EDT |
 
 ## Neighbors
 

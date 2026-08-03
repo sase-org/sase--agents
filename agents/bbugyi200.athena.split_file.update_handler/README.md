@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6cae3ec`](https://github.com/sase-org/sase/commit/6cae3ecb2dc68d7c039de4c34f9c7474ec99d3ca) | refactor: split update handler modules | 2026-06-27 21:11:28 |
+| sase | [`6cae3ec`](https://github.com/sase-org/sase/commit/6cae3ecb2dc68d7c039de4c34f9c7474ec99d3ca) | refactor: split update handler modules | 2026-06-27 17:11:28 EDT |
 
 ## Neighbors
 

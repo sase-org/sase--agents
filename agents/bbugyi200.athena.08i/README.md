@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eecfe36`](https://github.com/sase-org/sase/commit/eecfe36c594f9096e6a0e01da831a05cb118b24a) | chore: Add SDD prompt and plan for memory\_init\_header\_basename | 2026-06-27 20:24:07 |
-| sase | [`57b6a4e`](https://github.com/sase-org/sase/commit/57b6a4ed2c31f83ced4e44dc4336c69977cde0f6) | feat(memory): shorten inlined memory headers | 2026-06-27 20:36:00 |
+| sase | [`eecfe36`](https://github.com/sase-org/sase/commit/eecfe36c594f9096e6a0e01da831a05cb118b24a) | chore: Add SDD prompt and plan for memory\_init\_header\_basename | 2026-06-27 16:24:07 EDT |
+| sase | [`57b6a4e`](https://github.com/sase-org/sase/commit/57b6a4ed2c31f83ced4e44dc4336c69977cde0f6) | feat(memory): shorten inlined memory headers | 2026-06-27 16:36:00 EDT |

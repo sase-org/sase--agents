@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d3c2dee`](https://github.com/sase-org/sase/commit/d3c2dee7357125d37472964fedfafe687fba4adb) | fix(bead): align compact search type column | 2026-08-01 12:55:42 |
+| sase | [`d3c2dee`](https://github.com/sase-org/sase/commit/d3c2dee7357125d37472964fedfafe687fba4adb) | fix(bead): align compact search type column | 2026-08-01 08:55:42 EDT |

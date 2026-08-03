@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4f783d4`](https://github.com/sase-org/sase/commit/4f783d4b6efcae81eae4014d53154993b6083693) | feat(ace): exit prompt bullets with ctrl+j | 2026-07-24 20:04:12 |
+| sase | [`4f783d4`](https://github.com/sase-org/sase/commit/4f783d4b6efcae81eae4014d53154993b6083693) | feat(ace): exit prompt bullets with ctrl+j | 2026-07-24 16:04:12 EDT |

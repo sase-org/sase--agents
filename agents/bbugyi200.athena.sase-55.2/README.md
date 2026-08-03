@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`88bc7f1`](https://github.com/sase-org/sase/commit/88bc7f1266df53f98078c5322b7895491ba0a67c) | feat(llm\_provider): add default\_effort config field (sase-55.2) | 2026-06-23 16:39:14 |
+| sase | [`88bc7f1`](https://github.com/sase-org/sase/commit/88bc7f1266df53f98078c5322b7895491ba0a67c) | feat(llm\_provider): add default\_effort config field (sase-55.2) | 2026-06-23 12:39:14 EDT |
 
 ## Neighbors
 

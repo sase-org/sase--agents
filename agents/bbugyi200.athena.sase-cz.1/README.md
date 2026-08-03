@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d02ab49`](https://github.com/sase-org/sase/commit/d02ab49e58e81a1860c2f11f83c5a61c76c94e2a) | feat(gates): add generic presentation metadata | 2026-08-01 11:25:51 |
+| sase | [`d02ab49`](https://github.com/sase-org/sase/commit/d02ab49e58e81a1860c2f11f83c5a61c76c94e2a) | feat(gates): add generic presentation metadata | 2026-08-01 07:25:51 EDT |
 
 ## Neighbors
 

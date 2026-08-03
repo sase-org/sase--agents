@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a98612a`](https://github.com/sase-org/sase/commit/a98612a94157e9f2ddabea8bf1bc76c978ce2f07) | refactor(ace): split agent display rendering | 2026-07-21 12:48:38 |
+| sase | [`a98612a`](https://github.com/sase-org/sase/commit/a98612a94157e9f2ddabea8bf1bc76c978ce2f07) | refactor(ace): split agent display rendering | 2026-07-21 08:48:38 EDT |

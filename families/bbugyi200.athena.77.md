@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`db9ad5d`](https://github.com/sase-org/sase/commit/db9ad5d513e1e6b80a5776193ad4058ad46106e6) | feat: highlight xprompt syntax in prompt input | 2026-07-12 20:45:08 |
+| root | sase | [`db9ad5d`](https://github.com/sase-org/sase/commit/db9ad5d513e1e6b80a5776193ad4058ad46106e6) | feat: highlight xprompt syntax in prompt input | 2026-07-12 16:45:08 EDT |

@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2f63f8c`](https://github.com/sase-org/sase/commit/2f63f8c0a83ca958aaea32b20f7189f05f9a7dfd) | chore: Add SDD prompt and plan for prompt\_vim\_cursor\_highlight | 2026-06-24 10:50:13 |
-| sase | [`2ab68db`](https://github.com/sase-org/sase/commit/2ab68dbb54957e2c110436da97cf5665fcae0376) | feat(tui): color vim prompt cursor by mode | 2026-06-24 11:07:43 |
+| sase | [`2f63f8c`](https://github.com/sase-org/sase/commit/2f63f8c0a83ca958aaea32b20f7189f05f9a7dfd) | chore: Add SDD prompt and plan for prompt\_vim\_cursor\_highlight | 2026-06-24 06:50:13 EDT |
+| sase | [`2ab68db`](https://github.com/sase-org/sase/commit/2ab68dbb54957e2c110436da97cf5665fcae0376) | feat(tui): color vim prompt cursor by mode | 2026-06-24 07:07:43 EDT |

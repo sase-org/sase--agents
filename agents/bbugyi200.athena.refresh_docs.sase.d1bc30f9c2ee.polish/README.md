@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a313b71`](https://github.com/sase-org/sase/commit/a313b7174315bc71b93926e3180368518895a6b9) | docs: clarify refreshed user documentation | 2026-06-29 18:06:30 |
+| sase | [`a313b71`](https://github.com/sase-org/sase/commit/a313b7174315bc71b93926e3180368518895a6b9) | docs: clarify refreshed user documentation | 2026-06-29 14:06:30 EDT |
 
 ## Neighbors
 

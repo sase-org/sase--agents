@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e20dde9`](https://github.com/sase-org/sase/commit/e20dde983edfa6c8aeb57a6b55c58675246f2bc1) | refactor: clean up private visibility boundaries (sase-5n.4) | 2026-07-09 03:21:44 |
+| sase | [`e20dde9`](https://github.com/sase-org/sase/commit/e20dde983edfa6c8aeb57a6b55c58675246f2bc1) | refactor: clean up private visibility boundaries (sase-5n.4) | 2026-07-08 23:21:44 EDT |
 
 ## Neighbors
 

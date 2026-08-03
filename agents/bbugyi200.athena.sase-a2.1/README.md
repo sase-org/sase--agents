@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f15c05d`](https://github.com/sase-org/sase/commit/f15c05dc6cb8b9c7a6b5564655a676a3d3257e6f) | feat(axe): expose chop run source and dry-run state (sase-a2.1) | 2026-07-27 17:31:36 |
+| sase | [`f15c05d`](https://github.com/sase-org/sase/commit/f15c05dc6cb8b9c7a6b5564655a676a3d3257e6f) | feat(axe): expose chop run source and dry-run state (sase-a2.1) | 2026-07-27 13:31:36 EDT |
 
 ## Neighbors
 

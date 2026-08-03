@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7c0ce03`](https://github.com/sase-org/sase/commit/7c0ce034c0eb72630e6ce5f22399ad6a8e8d189a) | test(perf): relax agent scan facade floor (#195) | 2026-07-01 19:51:38 |
+| sase | [`7c0ce03`](https://github.com/sase-org/sase/commit/7c0ce034c0eb72630e6ce5f22399ad6a8e8d189a) | test(perf): relax agent scan facade floor (#195) | 2026-07-01 15:51:38 EDT |

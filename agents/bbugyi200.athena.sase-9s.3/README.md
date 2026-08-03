@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`657f14f`](https://github.com/sase-org/sase/commit/657f14f778c6dcaf636f9b6ec2e8a73cefd1440c) | fix: resolve epic launch workspace from shared env contract (sase-9s.3) | 2026-07-26 12:06:36 |
+| sase | [`657f14f`](https://github.com/sase-org/sase/commit/657f14f778c6dcaf636f9b6ec2e8a73cefd1440c) | fix: resolve epic launch workspace from shared env contract (sase-9s.3) | 2026-07-26 08:06:36 EDT |
 
 ## Neighbors
 

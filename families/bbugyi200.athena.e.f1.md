@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`9690feb`](https://github.com/sase-org/sase/commit/9690feb4cb59f3827cec2d27277b930155493b13) | chore: Add SDD prompt and plan for root\_agent\_status\_mirror | 2026-07-06 18:08:46 |
-| root | sase | [`7b53fec`](https://github.com/sase-org/sase/commit/7b53fec4b02faf76ac9cb8a285ab4f8f0ff4dc33) | fix(tui): mirror root wait status from child agents | 2026-07-06 18:25:20 |
+| root | sase | [`9690feb`](https://github.com/sase-org/sase/commit/9690feb4cb59f3827cec2d27277b930155493b13) | chore: Add SDD prompt and plan for root\_agent\_status\_mirror | 2026-07-06 14:08:46 EDT |
+| root | sase | [`7b53fec`](https://github.com/sase-org/sase/commit/7b53fec4b02faf76ac9cb8a285ab4f8f0ff4dc33) | fix(tui): mirror root wait status from child agents | 2026-07-06 14:25:20 EDT |
 
 ## Neighbors
 

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e9fa7e2`](https://github.com/sase-org/sase/commit/e9fa7e2c94baf217930a7d2f0cc29ec1268ad3ea) | chore: Add SDD prompt and plan for alt\_empty\_whitespace | 2026-06-20 22:50:04 |
-| sase | [`055526e`](https://github.com/sase-org/sase/commit/055526edf4800f4abdac3d90492f010a30e9f485) | test: update empty alt whitespace expectations | 2026-06-20 23:07:57 |
+| sase | [`e9fa7e2`](https://github.com/sase-org/sase/commit/e9fa7e2c94baf217930a7d2f0cc29ec1268ad3ea) | chore: Add SDD prompt and plan for alt\_empty\_whitespace | 2026-06-20 18:50:04 EDT |
+| sase | [`055526e`](https://github.com/sase-org/sase/commit/055526edf4800f4abdac3d90492f010a30e9f485) | test: update empty alt whitespace expectations | 2026-06-20 19:07:57 EDT |
 
 ## Neighbors
 

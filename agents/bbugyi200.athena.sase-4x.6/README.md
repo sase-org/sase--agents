@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`21c14d7`](https://github.com/sase-org/sase/commit/21c14d74b2c775a773143135e5d9b5731b91a933) | feat(plan-search): add generated skill, docs, and e2e tests (sase-4x.6) | 2026-06-19 04:10:07 |
+| sase | [`21c14d7`](https://github.com/sase-org/sase/commit/21c14d74b2c775a773143135e5d9b5731b91a933) | feat(plan-search): add generated skill, docs, and e2e tests (sase-4x.6) | 2026-06-19 00:10:07 EDT |
 
 ## Neighbors
 

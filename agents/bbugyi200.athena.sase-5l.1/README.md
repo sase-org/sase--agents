@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`141fcbe`](https://github.com/sase-org/sase/commit/141fcbe29e53f077970a72b2fd234227fe6c2f7e) | feat(doctor): add offline LLM auth evidence check (sase-5l.1) | 2026-07-08 05:52:58 |
+| sase | [`141fcbe`](https://github.com/sase-org/sase/commit/141fcbe29e53f077970a72b2fd234227fe6c2f7e) | feat(doctor): add offline LLM auth evidence check (sase-5l.1) | 2026-07-08 01:52:58 EDT |
 
 ## Neighbors
 

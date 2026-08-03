@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6521dd3`](https://github.com/sase-org/sase/commit/6521dd3c28b95ef49731a154f87ced3c5dc500a7) | feat(bead): label redundant close history | 2026-07-30 18:37:48 |
+| sase | [`6521dd3`](https://github.com/sase-org/sase/commit/6521dd3c28b95ef49731a154f87ced3c5dc500a7) | feat(bead): label redundant close history | 2026-07-30 14:37:48 EDT |
 
 ## Neighbors
 

@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`de816e0`](https://github.com/sase-org/sase/commit/de816e064b19a40f4490f4aa1407e0e8093de614) | feat(identity): expose owner-aware agent facade (sase-8v.1) | 2026-07-23 18:07:30 |
+| code | sase | [`de816e0`](https://github.com/sase-org/sase/commit/de816e064b19a40f4490f4aa1407e0e8093de614) | feat(identity): expose owner-aware agent facade (sase-8v.1) | 2026-07-23 14:07:30 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0e11dbb`](https://github.com/sase-org/sase/commit/0e11dbb11c597bcea5f790edcd59e98adfd2f087) | chore: add repeat STOP variable research infographic | 2026-06-11 23:41:03 |
+| sase | [`0e11dbb`](https://github.com/sase-org/sase/commit/0e11dbb11c597bcea5f790edcd59e98adfd2f087) | chore: add repeat STOP variable research infographic | 2026-06-11 19:41:03 EDT |
 
 ## Neighbors
 

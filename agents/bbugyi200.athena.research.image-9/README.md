@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cd23685`](https://github.com/sase-org/sase/commit/cd2368520d390a0a934a72919e0b889bd9581a05) | chore: add agent launch UX infographic | 2026-06-05 00:03:00 |
+| sase | [`cd23685`](https://github.com/sase-org/sase/commit/cd2368520d390a0a934a72919e0b889bd9581a05) | chore: add agent launch UX infographic | 2026-06-04 20:03:00 EDT |
 
 ## Neighbors
 

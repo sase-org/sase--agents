@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ca7b8bf`](https://github.com/sase-org/sase/commit/ca7b8bf5ba0ccd960c7522e74c3aef625217b475) | chore: close prompt history epic (sase-4m) | 2026-06-13 15:12:43 |
+| sase | [`ca7b8bf`](https://github.com/sase-org/sase/commit/ca7b8bf5ba0ccd960c7522e74c3aef625217b475) | chore: close prompt history epic (sase-4m) | 2026-06-13 11:12:43 EDT |
 
 ## Neighbors
 

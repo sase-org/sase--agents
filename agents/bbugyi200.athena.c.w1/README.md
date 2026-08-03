@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4ebb0df`](https://github.com/sase-org/sase/commit/4ebb0df0db724dbd0c07f3b358a80886488bc354) | chore: Add SDD prompt and plan for plugin\_install\_update\_restart | 2026-07-03 20:52:37 |
-| sase | [`6910d18`](https://github.com/sase-org/sase/commit/6910d1842ad30eb3ed7876bedfced0dca5fbeaf5) | feat(plugin): restart after plugin package changes | 2026-07-03 23:41:46 |
+| sase | [`4ebb0df`](https://github.com/sase-org/sase/commit/4ebb0df0db724dbd0c07f3b358a80886488bc354) | chore: Add SDD prompt and plan for plugin\_install\_update\_restart | 2026-07-03 16:52:37 EDT |
+| sase | [`6910d18`](https://github.com/sase-org/sase/commit/6910d1842ad30eb3ed7876bedfced0dca5fbeaf5) | feat(plugin): restart after plugin package changes | 2026-07-03 19:41:46 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`19787ad`](https://github.com/sase-org/sase/commit/19787ada50cd61c4af29be8bf1933595563da632) | chore: Add SDD prompt and plan for sase\_github\_pypi\_release | 2026-06-09 21:12:19 |
+| sase | [`19787ad`](https://github.com/sase-org/sase/commit/19787ada50cd61c4af29be8bf1933595563da632) | chore: Add SDD prompt and plan for sase\_github\_pypi\_release | 2026-06-09 17:12:19 EDT |
 
 ## Neighbors
 

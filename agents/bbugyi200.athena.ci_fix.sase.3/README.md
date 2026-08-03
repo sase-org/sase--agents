@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d462e97`](https://github.com/sase-org/sase/commit/d462e97bbdf23f624c96683a63da56a22617b8e6) | fix(deps): raise sase-core-rs floor to 0.17.4 for bead\_update\_many binding (#270) | 2026-08-01 10:17:15 |
+| sase | [`d462e97`](https://github.com/sase-org/sase/commit/d462e97bbdf23f624c96683a63da56a22617b8e6) | fix(deps): raise sase-core-rs floor to 0.17.4 for bead\_update\_many binding (#270) | 2026-08-01 06:17:15 EDT |
 
 ## Neighbors
 

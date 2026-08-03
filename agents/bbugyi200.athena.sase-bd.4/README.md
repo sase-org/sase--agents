@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5f682e2`](https://github.com/sase-org/sase/commit/5f682e2b1b0ebb7fb295c8cffef49ba495c70f8c) | fix(beads): report close mutation outcomes honestly | 2026-07-30 18:59:42 |
+| sase | [`5f682e2`](https://github.com/sase-org/sase/commit/5f682e2b1b0ebb7fb295c8cffef49ba495c70f8c) | fix(beads): report close mutation outcomes honestly | 2026-07-30 14:59:42 EDT |
 
 ## Neighbors
 

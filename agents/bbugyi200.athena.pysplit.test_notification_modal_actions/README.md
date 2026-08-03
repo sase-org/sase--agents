@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5240b22`](https://github.com/sase-org/sase/commit/5240b224a2a2f0e122f653716ec8ed7da001aebd) | ref: split notification modal action tests | 2026-05-24 18:20:33 |
+| sase | [`5240b22`](https://github.com/sase-org/sase/commit/5240b224a2a2f0e122f653716ec8ed7da001aebd) | ref: split notification modal action tests | 2026-05-24 14:20:33 EDT |
 
 ## Neighbors
 

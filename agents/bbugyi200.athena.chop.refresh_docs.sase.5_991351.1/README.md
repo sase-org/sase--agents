@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fa54cf3`](https://github.com/sase-org/sase/commit/fa54cf375efe3b6df5bf5d0261451f41494644c5) | docs: refresh agent workflow documentation | 2026-07-19 21:21:34 |
+| sase | [`fa54cf3`](https://github.com/sase-org/sase/commit/fa54cf375efe3b6df5bf5d0261451f41494644c5) | docs: refresh agent workflow documentation | 2026-07-19 17:21:34 EDT |
 
 ## Neighbors
 

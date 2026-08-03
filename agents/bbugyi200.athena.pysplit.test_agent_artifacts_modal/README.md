@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`62c1216`](https://github.com/sase-org/sase/commit/62c121613087b1e91dab4cb12c7d63c014ec81cb) | ref: split agent artifact modal tests | 2026-06-02 10:26:17 |
+| sase | [`62c1216`](https://github.com/sase-org/sase/commit/62c121613087b1e91dab4cb12c7d63c014ec81cb) | ref: split agent artifact modal tests | 2026-06-02 06:26:17 EDT |
 
 ## Neighbors
 

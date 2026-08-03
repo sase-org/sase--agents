@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d9b44c7`](https://github.com/sase-org/sase/commit/d9b44c70d887fe96d755464748b73ed57219f5c0) | chore: Add SDD prompt and plan for slow\_tool\_calls\_start\_time\_ordering | 2026-07-06 02:46:32 |
-| sase | [`5f29a7f`](https://github.com/sase-org/sase/commit/5f29a7fddcf5afdb0ed24afc4b88fe59ec786530) | fix: order slow tool calls by start time | 2026-07-06 03:13:15 |
+| sase | [`d9b44c7`](https://github.com/sase-org/sase/commit/d9b44c70d887fe96d755464748b73ed57219f5c0) | chore: Add SDD prompt and plan for slow\_tool\_calls\_start\_time\_ordering | 2026-07-05 22:46:32 EDT |
+| sase | [`5f29a7f`](https://github.com/sase-org/sase/commit/5f29a7fddcf5afdb0ed24afc4b88fe59ec786530) | fix: order slow tool calls by start time | 2026-07-05 23:13:15 EDT |

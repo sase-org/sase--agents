@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9ceb7a8`](https://github.com/sase-org/sase/commit/9ceb7a85a608d34a083fbd164b673a0566b70a56) | fix: harden pytest runner marker modes | 2026-06-03 06:00:53 |
+| sase | [`9ceb7a8`](https://github.com/sase-org/sase/commit/9ceb7a85a608d34a083fbd164b673a0566b70a56) | fix: harden pytest runner marker modes | 2026-06-03 02:00:53 EDT |

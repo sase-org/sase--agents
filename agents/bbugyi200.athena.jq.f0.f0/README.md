@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`63ad0ab`](https://github.com/sase-org/sase/commit/63ad0ab6b188392f9a7348b545f733d991d74f42) | feat(tui): color runner limits by capacity | 2026-07-24 23:36:01 |
+| sase | [`63ad0ab`](https://github.com/sase-org/sase/commit/63ad0ab6b188392f9a7348b545f733d991d74f42) | feat(tui): color runner limits by capacity | 2026-07-24 19:36:01 EDT |
 
 ## Neighbors
 

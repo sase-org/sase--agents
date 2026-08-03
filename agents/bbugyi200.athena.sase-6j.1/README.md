@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e73d140`](https://github.com/sase-org/sase/commit/e73d1400c4097432461316e3a2fca827ab9c8f75) | feat(tui): record sub-threshold watchdog hitches (sase-6j.1) | 2026-07-17 12:24:29 |
+| sase | [`e73d140`](https://github.com/sase-org/sase/commit/e73d1400c4097432461316e3a2fca827ab9c8f75) | feat(tui): record sub-threshold watchdog hitches (sase-6j.1) | 2026-07-17 08:24:29 EDT |
 
 ## Neighbors
 

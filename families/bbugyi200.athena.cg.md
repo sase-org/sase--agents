@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f678228`](https://github.com/sase-org/sase/commit/f6782286e42727c2cdda919f27e6a3c2dbc813d5) | fix(sdd): make sidecar integration transactional | 2026-07-17 19:59:57 |
-| root | sase | [`f678228`](https://github.com/sase-org/sase/commit/f6782286e42727c2cdda919f27e6a3c2dbc813d5) | fix(sdd): make sidecar integration transactional | 2026-07-17 19:59:57 |
+| code | sase | [`f678228`](https://github.com/sase-org/sase/commit/f6782286e42727c2cdda919f27e6a3c2dbc813d5) | fix(sdd): make sidecar integration transactional | 2026-07-17 15:59:57 EDT |
+| root | sase | [`f678228`](https://github.com/sase-org/sase/commit/f6782286e42727c2cdda919f27e6a3c2dbc813d5) | fix(sdd): make sidecar integration transactional | 2026-07-17 15:59:57 EDT |

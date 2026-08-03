@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`af0d95f`](https://github.com/sase-org/sase/commit/af0d95fe910f4ccbae4b00439296710fda5d6e46) | chore: Add SDD prompt and plan for cancel\_toast | 2026-06-24 16:18:48 |
-| sase | [`60776ae`](https://github.com/sase-org/sase/commit/60776ae601d7dc9b624298955e0810a9e460730a) | fix(tui): only toast saved cancelled prompts | 2026-06-24 16:27:26 |
+| sase | [`af0d95f`](https://github.com/sase-org/sase/commit/af0d95fe910f4ccbae4b00439296710fda5d6e46) | chore: Add SDD prompt and plan for cancel\_toast | 2026-06-24 12:18:48 EDT |
+| sase | [`60776ae`](https://github.com/sase-org/sase/commit/60776ae601d7dc9b624298955e0810a9e460730a) | fix(tui): only toast saved cancelled prompts | 2026-06-24 12:27:26 EDT |

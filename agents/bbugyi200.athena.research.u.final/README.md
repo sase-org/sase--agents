@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`449ceea`](https://github.com/sase-org/sase/commit/449ceeac0c03f768ac2eba697ccb7d849fe38851) | docs: consolidate agy migration research | 2026-06-19 20:16:24 |
+| sase | [`449ceea`](https://github.com/sase-org/sase/commit/449ceeac0c03f768ac2eba697ccb7d849fe38851) | docs: consolidate agy migration research | 2026-06-19 16:16:24 EDT |
 
 ## Neighbors
 

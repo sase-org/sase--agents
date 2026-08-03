@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`67dd47a`](https://github.com/sase-org/sase/commit/67dd47acc170601fe0c987e4f26c6df397ab360b) | docs(research): add audio podcast generation feasibility study | 2026-06-14 19:06:11 |
+| sase | [`67dd47a`](https://github.com/sase-org/sase/commit/67dd47acc170601fe0c987e4f26c6df397ab360b) | docs(research): add audio podcast generation feasibility study | 2026-06-14 15:06:11 EDT |
 
 ## Neighbors
 

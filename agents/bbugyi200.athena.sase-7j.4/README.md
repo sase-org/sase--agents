@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0138849`](https://github.com/sase-org/sase/commit/0138849d919e0136b6eedadbcfb28e603f2b58bb) | feat(agents)!: complete tribe terminology cutover (sase-7j.4) | 2026-07-19 21:38:55 |
+| sase | [`0138849`](https://github.com/sase-org/sase/commit/0138849d919e0136b6eedadbcfb28e603f2b58bb) | feat(agents)!: complete tribe terminology cutover (sase-7j.4) | 2026-07-19 17:38:55 EDT |
 
 ## Neighbors
 

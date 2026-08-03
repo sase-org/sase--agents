@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5f39034`](https://github.com/sase-org/sase/commit/5f390345a4398b549c87953ab4cae82cca21a1f8) | fix(plan): archive run approvals through shared choice registry (sase-5g.2) | 2026-07-06 08:54:46 |
+| sase | [`5f39034`](https://github.com/sase-org/sase/commit/5f390345a4398b549c87953ab4cae82cca21a1f8) | fix(plan): archive run approvals through shared choice registry (sase-5g.2) | 2026-07-06 04:54:46 EDT |
 
 ## Neighbors
 

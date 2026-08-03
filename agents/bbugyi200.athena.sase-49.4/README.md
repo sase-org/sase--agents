@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`39260db`](https://github.com/sase-org/sase/commit/39260db42f168b5ba69946f0cf888309fde0b349) | feat: filter broader project discovery by lifecycle (sase-49.4) | 2026-06-01 18:08:30 |
+| sase | [`39260db`](https://github.com/sase-org/sase/commit/39260db42f168b5ba69946f0cf888309fde0b349) | feat: filter broader project discovery by lifecycle (sase-49.4) | 2026-06-01 14:08:30 EDT |
 
 ## Neighbors
 

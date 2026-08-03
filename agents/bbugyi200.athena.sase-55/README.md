@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8440f97`](https://github.com/sase-org/sase/commit/8440f9795edcaa8fa5364554b436c59847ba20e9) | chore: Add SDD prompt and plan for reasoning\_effort\_pyvision\_cleanup\_2 | 2026-06-23 18:23:24 |
-| sase | [`e349b44`](https://github.com/sase-org/sase/commit/e349b440245da838b4c9b3db3337e925ffdcb48f) | refactor(llm\_provider): make get\_default\_effort a private helper | 2026-06-23 18:35:03 |
+| sase | [`8440f97`](https://github.com/sase-org/sase/commit/8440f9795edcaa8fa5364554b436c59847ba20e9) | chore: Add SDD prompt and plan for reasoning\_effort\_pyvision\_cleanup\_2 | 2026-06-23 14:23:24 EDT |
+| sase | [`e349b44`](https://github.com/sase-org/sase/commit/e349b440245da838b4c9b3db3337e925ffdcb48f) | refactor(llm\_provider): make get\_default\_effort a private helper | 2026-06-23 14:35:03 EDT |
 
 ## Neighbors
 

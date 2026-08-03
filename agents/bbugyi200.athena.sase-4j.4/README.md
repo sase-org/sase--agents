@@ -15,11 +15,11 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3c9556d`](https://github.com/sase-org/sase/commit/3c9556df40d3017c80a0f52c83167dd6170891b6) | chore: harden release publish smoke (sase-4j.4) | 2026-06-09 23:35:27 |
-| sase | [`57fbce7`](https://github.com/sase-org/sase/commit/57fbce7063fd36ca5305776c94d5ecb9c41ea06f) | chore: update docs artifact quickstart check (sase-4j.4) | 2026-06-09 23:47:03 |
-| sase | [`87a6d2b`](https://github.com/sase-org/sase/commit/87a6d2b88390d36325fbf42b70033e5a5c213132) | test: add deterministic provider CLI stub (sase-4j.4) | 2026-06-09 23:52:58 |
+| sase | [`3c9556d`](https://github.com/sase-org/sase/commit/3c9556df40d3017c80a0f52c83167dd6170891b6) | chore: harden release publish smoke (sase-4j.4) | 2026-06-09 19:35:27 EDT |
+| sase | [`57fbce7`](https://github.com/sase-org/sase/commit/57fbce7063fd36ca5305776c94d5ecb9c41ea06f) | chore: update docs artifact quickstart check (sase-4j.4) | 2026-06-09 19:47:03 EDT |
+| sase | [`87a6d2b`](https://github.com/sase-org/sase/commit/87a6d2b88390d36325fbf42b70033e5a5c213132) | test: add deterministic provider CLI stub (sase-4j.4) | 2026-06-09 19:52:58 EDT |
 
 ## Neighbors
 

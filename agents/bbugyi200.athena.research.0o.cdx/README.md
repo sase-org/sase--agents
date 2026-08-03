@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0434175`](https://github.com/sase-org/sase/commit/0434175ef47a309cef5af0d15fc7d05e897ab407) | docs: research TUI external editor freeze | 2026-06-26 15:46:51 |
+| sase | [`0434175`](https://github.com/sase-org/sase/commit/0434175ef47a309cef5af0d15fc7d05e897ab407) | docs: research TUI external editor freeze | 2026-06-26 11:46:51 EDT |
 
 ## Neighbors
 

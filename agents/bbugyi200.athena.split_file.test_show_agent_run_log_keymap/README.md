@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1eab147`](https://github.com/sase-org/sase/commit/1eab147c4b9b252b4816e38a264927aac584e696) | test: split leader keymap tests | 2026-06-17 12:41:10 |
+| sase | [`1eab147`](https://github.com/sase-org/sase/commit/1eab147c4b9b252b4816e38a264927aac584e696) | test: split leader keymap tests | 2026-06-17 08:41:10 EDT |
 
 ## Neighbors
 

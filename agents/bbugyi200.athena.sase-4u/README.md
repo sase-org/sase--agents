@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5b4ae04`](https://github.com/sase-org/sase/commit/5b4ae049b32491bcf73cb4ba15572fcb2dcd78f2) | chore: Add SDD prompt and plan for nested\_memory\_child\_reachability (sase-4u) | 2026-06-18 00:32:13 |
-| sase | [`6d1a4b5`](https://github.com/sase-org/sase/commit/6d1a4b541990f39f903fdd6bf0eeb55621ed2bfe) | fix(memory): follow parented long notes during init checks (sase-4u) | 2026-06-18 00:48:03 |
+| sase | [`5b4ae04`](https://github.com/sase-org/sase/commit/5b4ae049b32491bcf73cb4ba15572fcb2dcd78f2) | chore: Add SDD prompt and plan for nested\_memory\_child\_reachability (sase-4u) | 2026-06-17 20:32:13 EDT |
+| sase | [`6d1a4b5`](https://github.com/sase-org/sase/commit/6d1a4b541990f39f903fdd6bf0eeb55621ed2bfe) | fix(memory): follow parented long notes during init checks (sase-4u) | 2026-06-17 20:48:03 EDT |
 
 ## Neighbors
 

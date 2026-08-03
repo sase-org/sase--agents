@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8483626`](https://github.com/sase-org/sase/commit/848362656edbaa2b088e644f47efe38dee79acac) | feat: add project alias CLI support (sase-4c.3) | 2026-06-04 15:41:14 |
+| sase | [`8483626`](https://github.com/sase-org/sase/commit/848362656edbaa2b088e644f47efe38dee79acac) | feat: add project alias CLI support (sase-4c.3) | 2026-06-04 11:41:14 EDT |
 
 ## Neighbors
 

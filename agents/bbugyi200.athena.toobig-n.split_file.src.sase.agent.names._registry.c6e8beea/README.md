@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ab46b19`](https://github.com/sase-org/sase/commit/ab46b191801df43cb9c98a3358e03eebecec9bb8) | refactor(agent-names): extract registry mutations | 2026-07-23 13:10:00 |
+| sase | [`ab46b19`](https://github.com/sase-org/sase/commit/ab46b191801df43cb9c98a3358e03eebecec9bb8) | refactor(agent-names): extract registry mutations | 2026-07-23 09:10:00 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cdde8de`](https://github.com/sase-org/sase/commit/cdde8dec1e7d51fca75a11facbaf453d0a31dc24) | docs(axe): expand builtin chop descriptions (sase-9w.5) | 2026-07-26 21:21:30 |
+| sase | [`cdde8de`](https://github.com/sase-org/sase/commit/cdde8dec1e7d51fca75a11facbaf453d0a31dc24) | docs(axe): expand builtin chop descriptions (sase-9w.5) | 2026-07-26 17:21:30 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6a623cd`](https://github.com/sase-org/sase/commit/6a623cd7a2a277993a9787bf744804a2e6152cef) | feat(llm)!: remove Gemini CLI provider in favor of agy (sase-50.6) | 2026-06-20 01:24:54 |
+| sase | [`6a623cd`](https://github.com/sase-org/sase/commit/6a623cd7a2a277993a9787bf744804a2e6152cef) | feat(llm)!: remove Gemini CLI provider in favor of agy (sase-50.6) | 2026-06-19 21:24:54 EDT |
 
 ## Neighbors
 

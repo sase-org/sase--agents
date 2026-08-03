@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8d58053`](https://github.com/sase-org/sase/commit/8d580534eafc6809e6a26c46aa4a521160566795) | test: split agents zoom panel tests | 2026-06-23 14:14:30 |
+| sase | [`8d58053`](https://github.com/sase-org/sase/commit/8d580534eafc6809e6a26c46aa4a521160566795) | test: split agents zoom panel tests | 2026-06-23 10:14:30 EDT |
 
 ## Neighbors
 

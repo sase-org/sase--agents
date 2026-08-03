@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9ea3c7b`](https://github.com/sase-org/sase/commit/9ea3c7b983ce28c1ffc357e19369b03fc7b3ec4f) | feat: add SDD separate-repo migration tooling (sase-5j.4) | 2026-07-08 05:07:07 |
+| sase | [`9ea3c7b`](https://github.com/sase-org/sase/commit/9ea3c7b983ce28c1ffc357e19369b03fc7b3ec4f) | feat: add SDD separate-repo migration tooling (sase-5j.4) | 2026-07-08 01:07:07 EDT |
 
 ## Neighbors
 

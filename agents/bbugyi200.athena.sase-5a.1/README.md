@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`be370bd`](https://github.com/sase-org/sase/commit/be370bd2ce08a6f024415688a2e0aefa2b428fa2) | feat(tui): add Projects pane to the ACE Admin Center (sase-5a.1) | 2026-06-26 17:46:47 |
+| sase | [`be370bd`](https://github.com/sase-org/sase/commit/be370bd2ce08a6f024415688a2e0aefa2b428fa2) | feat(tui): add Projects pane to the ACE Admin Center (sase-5a.1) | 2026-06-26 13:46:47 EDT |
 
 ## Neighbors
 

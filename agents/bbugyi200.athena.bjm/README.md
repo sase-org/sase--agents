@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0553d7a`](https://github.com/sase-org/sase/commit/0553d7ac2457e00ff9f91c8e33483e213b88e530) | chore: Add SDD prompt and plan for cls\_tab\_header\_width | 2026-05-27 11:01:24 |
-| sase | [`59bcae5`](https://github.com/sase-org/sase/commit/59bcae55fb26b20517c918141aae2d899da777ef) | fix: clamp CL list group banners | 2026-05-27 11:16:29 |
+| sase | [`0553d7a`](https://github.com/sase-org/sase/commit/0553d7ac2457e00ff9f91c8e33483e213b88e530) | chore: Add SDD prompt and plan for cls\_tab\_header\_width | 2026-05-27 07:01:24 EDT |
+| sase | [`59bcae5`](https://github.com/sase-org/sase/commit/59bcae55fb26b20517c918141aae2d899da777ef) | fix: clamp CL list group banners | 2026-05-27 07:16:29 EDT |

@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a813226`](https://github.com/sase-org/sase/commit/a8132265be0d7e27f93695c6ad3da8d3191ec217) | fix(ace): strip prompt bullet markers on join | 2026-07-29 12:39:25 |
+| sase | [`a813226`](https://github.com/sase-org/sase/commit/a8132265be0d7e27f93695c6ad3da8d3191ec217) | fix(ace): strip prompt bullet markers on join | 2026-07-29 08:39:25 EDT |

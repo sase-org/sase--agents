@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7695615`](https://github.com/sase-org/sase/commit/769561512d840e87cf4a5119218c2806532df6b2) | docs: add with\_q\_and\_a research infographic | 2026-06-18 20:59:23 |
+| sase | [`7695615`](https://github.com/sase-org/sase/commit/769561512d840e87cf4a5119218c2806532df6b2) | docs: add with\_q\_and\_a research infographic | 2026-06-18 16:59:23 EDT |
 
 ## Neighbors
 

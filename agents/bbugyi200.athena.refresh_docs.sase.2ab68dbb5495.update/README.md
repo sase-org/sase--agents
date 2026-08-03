@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b65ad93`](https://github.com/sase-org/sase/commit/b65ad932e9379b3b63dcb633a3d93c19cb7db774) | docs: update prompt history and config documentation | 2026-06-24 11:23:10 |
+| sase | [`b65ad93`](https://github.com/sase-org/sase/commit/b65ad932e9379b3b63dcb633a3d93c19cb7db774) | docs: update prompt history and config documentation | 2026-06-24 07:23:10 EDT |
 
 ## Neighbors
 

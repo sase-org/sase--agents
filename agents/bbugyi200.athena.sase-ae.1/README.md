@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3537aa1`](https://github.com/sase-org/sase/commit/3537aa141d844123c02fbca3552dbcc669673b3d) | feat(skills): guard chezmoi deploy source integrity (sase-ae.1) | 2026-07-28 12:24:10 |
+| sase | [`3537aa1`](https://github.com/sase-org/sase/commit/3537aa141d844123c02fbca3552dbcc669673b3d) | feat(skills): guard chezmoi deploy source integrity (sase-ae.1) | 2026-07-28 08:24:10 EDT |
 
 ## Neighbors
 

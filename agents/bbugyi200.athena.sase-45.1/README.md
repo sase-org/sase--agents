@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5b208d3`](https://github.com/sase-org/sase/commit/5b208d36d6feb99c14dad2464ecb31158a4c3a7e) | feat: add Python episode wire facade (sase-45.1) | 2026-05-26 23:08:54 |
+| sase | [`5b208d3`](https://github.com/sase-org/sase/commit/5b208d36d6feb99c14dad2464ecb31158a4c3a7e) | feat: add Python episode wire facade (sase-45.1) | 2026-05-26 19:08:54 EDT |
 
 ## Neighbors
 

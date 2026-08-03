@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b27a717`](https://github.com/sase-org/sase/commit/b27a7177620ebb701fa13401350c950ce8b43196) | chore: document connected memory episode design | 2026-05-27 12:03:03 |
+| sase | [`b27a717`](https://github.com/sase-org/sase/commit/b27a7177620ebb701fa13401350c950ce8b43196) | chore: document connected memory episode design | 2026-05-27 08:03:03 EDT |
 
 ## Neighbors
 

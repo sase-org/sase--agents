@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`71942fe`](https://github.com/sase-org/sase/commit/71942fe16dacc0fd1ea1819ef53b09bdd000144a) | feat(ace): keep family conversations fully visible | 2026-07-28 11:43:46 |
+| code | sase | [`71942fe`](https://github.com/sase-org/sase/commit/71942fe16dacc0fd1ea1819ef53b09bdd000144a) | feat(ace): keep family conversations fully visible | 2026-07-28 07:43:46 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0b6ba86`](https://github.com/sase-org/sase/commit/0b6ba86ad9f324274d457e16090e091ae7d0f49f) | chore: expand research on episodic event memory | 2026-05-26 21:04:40 |
+| sase | [`0b6ba86`](https://github.com/sase-org/sase/commit/0b6ba86ad9f324274d457e16090e091ae7d0f49f) | chore: expand research on episodic event memory | 2026-05-26 17:04:40 EDT |
 
 ## Neighbors
 

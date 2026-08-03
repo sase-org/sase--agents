@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`838d400`](https://github.com/sase-org/sase/commit/838d40007f5e693c9ec3f1ec9f910fa291cc8b8b) | feat: add dual-lane model override TUI (sase-4k.3) | 2026-06-10 01:27:38 |
+| sase | [`838d400`](https://github.com/sase-org/sase/commit/838d40007f5e693c9ec3f1ec9f910fa291cc8b8b) | feat: add dual-lane model override TUI (sase-4k.3) | 2026-06-09 21:27:38 EDT |
 
 ## Neighbors
 

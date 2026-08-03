@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`24ff23f`](https://github.com/sase-org/sase/commit/24ff23f6bd1d20a0f3fd25d9482544ac96843294) | feat(axe): add clan-scoped chop launches (sase-7q.2) | 2026-07-19 23:15:38 |
+| sase | [`24ff23f`](https://github.com/sase-org/sase/commit/24ff23f6bd1d20a0f3fd25d9482544ac96843294) | feat(axe): add clan-scoped chop launches (sase-7q.2) | 2026-07-19 19:15:38 EDT |
 
 ## Neighbors
 

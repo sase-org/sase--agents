@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`36b0286`](https://github.com/sase-org/sase/commit/36b0286934e3ff86e1886fa50b6fb22076491453) | fix(tui): distinguish xprompt argument colors | 2026-07-14 11:48:21 |
+| sase | [`36b0286`](https://github.com/sase-org/sase/commit/36b0286934e3ff86e1886fa50b6fb22076491453) | fix(tui): distinguish xprompt argument colors | 2026-07-14 07:48:21 EDT |
 
 ## Neighbors
 

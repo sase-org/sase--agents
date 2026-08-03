@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6f273cc`](https://github.com/sase-org/sase/commit/6f273ccfefd9cc6e248503286f3e50155401dfe1) | docs: add agent QoL research infographic | 2026-06-20 22:03:28 |
+| sase | [`6f273cc`](https://github.com/sase-org/sase/commit/6f273ccfefd9cc6e248503286f3e50155401dfe1) | docs: add agent QoL research infographic | 2026-06-20 18:03:28 EDT |
 
 ## Neighbors
 

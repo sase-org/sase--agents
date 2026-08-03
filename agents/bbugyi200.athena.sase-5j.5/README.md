@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ee106e0`](https://github.com/sase-org/sase/commit/ee106e0b398465119898e01836584d95f709c7a7) | feat: add SDD path discovery for agents (sase-5j.5) | 2026-07-08 04:23:25 |
+| sase | [`ee106e0`](https://github.com/sase-org/sase/commit/ee106e0b398465119898e01836584d95f709c7a7) | feat: add SDD path discovery for agents (sase-5j.5) | 2026-07-08 00:23:25 EDT |
 
 ## Neighbors
 

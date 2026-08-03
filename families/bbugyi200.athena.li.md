@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`28c4097`](https://github.com/sase-org/sase/commit/28c40972a2c41abec5a165560da188ba732caac8) | feat(ace): show statuses for waited-on beads | 2026-07-26 13:27:31 |
+| code | sase | [`28c4097`](https://github.com/sase-org/sase/commit/28c40972a2c41abec5a165560da188ba732caac8) | feat(ace): show statuses for waited-on beads | 2026-07-26 09:27:31 EDT |

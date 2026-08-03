@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`18e17c0`](https://github.com/sase-org/sase/commit/18e17c0d23e1664d32ddd487620837a24c271143) | chore: Add SDD prompt and plan for project\_name\_field | 2026-06-29 11:24:55 |
-| sase | [`1cbe79f`](https://github.com/sase-org/sase/commit/1cbe79f91fd773dc1d865065be8b924a9e971cc7) | feat: support project display names | 2026-06-29 12:00:24 |
+| sase | [`18e17c0`](https://github.com/sase-org/sase/commit/18e17c0d23e1664d32ddd487620837a24c271143) | chore: Add SDD prompt and plan for project\_name\_field | 2026-06-29 07:24:55 EDT |
+| sase | [`1cbe79f`](https://github.com/sase-org/sase/commit/1cbe79f91fd773dc1d865065be8b924a9e971cc7) | feat: support project display names | 2026-06-29 08:00:24 EDT |
 
 ## Neighbors
 

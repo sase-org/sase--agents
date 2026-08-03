@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1ca4583`](https://github.com/sase-org/sase/commit/1ca45830e09c889901d52928e46ed48200259f23) | refactor(tui): split ChangeSpec help bindings | 2026-08-02 10:43:52 |
+| sase | [`1ca4583`](https://github.com/sase-org/sase/commit/1ca45830e09c889901d52928e46ed48200259f23) | refactor(tui): split ChangeSpec help bindings | 2026-08-02 06:43:52 EDT |
 
 ## Neighbors
 

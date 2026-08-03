@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`88a317a`](https://github.com/sase-org/sase/commit/88a317a87684772c5c9384ee6f8a8f9a53ad21ae) | feat(bead): show hosted page URLs in bead detail | 2026-07-28 21:06:02 |
+| sase | [`88a317a`](https://github.com/sase-org/sase/commit/88a317a87684772c5c9384ee6f8a8f9a53ad21ae) | feat(bead): show hosted page URLs in bead detail | 2026-07-28 17:06:02 EDT |
 
 ## Neighbors
 

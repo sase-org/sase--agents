@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4cb3cee`](https://github.com/sase-org/sase/commit/4cb3cee982322f9d8bad551fe202104d534fbcad) | chore: Add SDD prompt and plan for starting\_waiting\_poll | 2026-05-28 11:45:31 |
-| sase | [`45773cd`](https://github.com/sase-org/sase/commit/45773cd64a50e4626b1929e29384d053c6412b77) | feat: refresh starting agents on waiting marker changes | 2026-05-28 11:52:59 |
+| sase | [`4cb3cee`](https://github.com/sase-org/sase/commit/4cb3cee982322f9d8bad551fe202104d534fbcad) | chore: Add SDD prompt and plan for starting\_waiting\_poll | 2026-05-28 07:45:31 EDT |
+| sase | [`45773cd`](https://github.com/sase-org/sase/commit/45773cd64a50e4626b1929e29384d053c6412b77) | feat: refresh starting agents on waiting marker changes | 2026-05-28 07:52:59 EDT |

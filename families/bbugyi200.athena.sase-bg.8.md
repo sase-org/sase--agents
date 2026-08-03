@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`010fe0f`](https://github.com/sase-org/sase/commit/010fe0fc067fd818302a8967197297ef5d7c1b34) | feat(gates): add TaskTriage decision workflow | 2026-07-31 01:41:42 |
+| code | sase | [`010fe0f`](https://github.com/sase-org/sase/commit/010fe0fc067fd818302a8967197297ef5d7c1b34) | feat(gates): add TaskTriage decision workflow | 2026-07-30 21:41:42 EDT |
 
 ## Neighbors
 

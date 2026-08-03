@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`28f563f`](https://github.com/sase-org/sase/commit/28f563f3fa85e683b0d6dda4cf4526e37058d167) | feat: enforce global runner slot admission (sase-5u.2) | 2026-07-12 22:53:41 |
+| sase | [`28f563f`](https://github.com/sase-org/sase/commit/28f563f3fa85e683b0d6dda4cf4526e37058d167) | feat: enforce global runner slot admission (sase-5u.2) | 2026-07-12 18:53:41 EDT |
 
 ## Neighbors
 

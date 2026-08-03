@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6ab1482`](https://github.com/sase-org/sase/commit/6ab1482bb99eeb9d03a008a82ef5456a4dd596d8) | feat(tui): add prompt stash preview panes | 2026-07-12 13:26:49 |
+| sase | [`6ab1482`](https://github.com/sase-org/sase/commit/6ab1482bb99eeb9d03a008a82ef5456a4dd596d8) | feat(tui): add prompt stash preview panes | 2026-07-12 09:26:49 EDT |
 
 ## Neighbors
 

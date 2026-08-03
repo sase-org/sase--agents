@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7765a07`](https://github.com/sase-org/sase/commit/7765a07c915d1bae5469ad2f43072136f4620ae6) | feat(beads): support shorthand bead ids | 2026-07-31 18:02:41 |
+| sase | [`7765a07`](https://github.com/sase-org/sase/commit/7765a07c915d1bae5469ad2f43072136f4620ae6) | feat(beads): support shorthand bead ids | 2026-07-31 14:02:41 EDT |

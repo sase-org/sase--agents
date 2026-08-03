@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`83f26c7`](https://github.com/sase-org/sase/commit/83f26c714eb2730fa5e6f61b5cd227874f59bf15) | fix(runner): record bootstrap failures in artifacts | 2026-07-15 23:28:17 |
+| sase | [`83f26c7`](https://github.com/sase-org/sase/commit/83f26c714eb2730fa5e6f61b5cd227874f59bf15) | fix(runner): record bootstrap failures in artifacts | 2026-07-15 19:28:17 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eb624fa`](https://github.com/sase-org/sase/commit/eb624fa8eedf06c3e3afa3f99949267c9b142ac4) | refactor(sdd): split commit helpers into focused modules | 2026-07-12 00:53:59 |
+| sase | [`eb624fa`](https://github.com/sase-org/sase/commit/eb624fa8eedf06c3e3afa3f99949267c9b142ac4) | refactor(sdd): split commit helpers into focused modules | 2026-07-11 20:53:59 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dd114a6`](https://github.com/sase-org/sase/commit/dd114a6ef057de37974490ff941554e1d25529ec) | feat(axe): plumb structured descriptions (sase-9w.2) | 2026-07-26 19:58:22 |
+| sase | [`dd114a6`](https://github.com/sase-org/sase/commit/dd114a6ef057de37974490ff941554e1d25529ec) | feat(axe): plumb structured descriptions (sase-9w.2) | 2026-07-26 15:58:22 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`010fe0f`](https://github.com/sase-org/sase/commit/010fe0fc067fd818302a8967197297ef5d7c1b34) | feat(gates): add TaskTriage decision workflow | 2026-07-31 01:41:42 |
+| sase | [`010fe0f`](https://github.com/sase-org/sase/commit/010fe0fc067fd818302a8967197297ef5d7c1b34) | feat(gates): add TaskTriage decision workflow | 2026-07-30 21:41:42 EDT |
 
 ## Neighbors
 

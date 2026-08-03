@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aceb8d7`](https://github.com/sase-org/sase/commit/aceb8d73c27759502b9052d140869f7c4e1b4d91) | chore: Add SDD prompt and plan for fork\_wait\_defers\_workspace | 2026-06-19 14:28:00 |
-| sase | [`8e5fdfa`](https://github.com/sase-org/sase/commit/8e5fdfaf6cdb512df3c451ede63b69d20257c57e) | fix: defer workspace allocation for fork references | 2026-06-19 14:42:11 |
+| sase | [`aceb8d7`](https://github.com/sase-org/sase/commit/aceb8d73c27759502b9052d140869f7c4e1b4d91) | chore: Add SDD prompt and plan for fork\_wait\_defers\_workspace | 2026-06-19 10:28:00 EDT |
+| sase | [`8e5fdfa`](https://github.com/sase-org/sase/commit/8e5fdfaf6cdb512df3c451ede63b69d20257c57e) | fix: defer workspace allocation for fork references | 2026-06-19 10:42:11 EDT |
 
 ## Neighbors
 

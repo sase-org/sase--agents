@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ae6ff5d`](https://github.com/sase-org/sase/commit/ae6ff5d22acb9edf43eb73132c292f9c09bef11d) | refactor: split agent cleanup facade | 2026-07-19 09:14:00 |
+| sase | [`ae6ff5d`](https://github.com/sase-org/sase/commit/ae6ff5d22acb9edf43eb73132c292f9c09bef11d) | refactor: split agent cleanup facade | 2026-07-19 05:14:00 EDT |
 
 ## Neighbors
 

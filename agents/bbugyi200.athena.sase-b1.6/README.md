@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6e35387`](https://github.com/sase-org/sase/commit/6e35387e2ba5564c134ccc7ce1b84c5cd5957850) | feat(xprompts): require sase-core-rs with the swarm xprompt kind | 2026-07-30 02:53:56 |
+| sase | [`6e35387`](https://github.com/sase-org/sase/commit/6e35387e2ba5564c134ccc7ce1b84c5cd5957850) | feat(xprompts): require sase-core-rs with the swarm xprompt kind | 2026-07-29 22:53:56 EDT |
 
 ## Neighbors
 

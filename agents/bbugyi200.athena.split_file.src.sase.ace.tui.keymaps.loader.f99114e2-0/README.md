@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`45794d1`](https://github.com/sase-org/sase/commit/45794d153470b3c378004838f01525cc945e6713) | refactor(ace): split keymap loader by responsibility | 2026-07-19 19:02:48 |
+| sase | [`45794d1`](https://github.com/sase-org/sase/commit/45794d153470b3c378004838f01525cc945e6713) | refactor(ace): split keymap loader by responsibility | 2026-07-19 15:02:48 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f012029`](https://github.com/sase-org/sase/commit/f012029a02662ce077ee1d8d38b996ba9e4a295b) | chore: document memory episodes workflow | 2026-05-27 02:32:04 |
+| sase | [`f012029`](https://github.com/sase-org/sase/commit/f012029a02662ce077ee1d8d38b996ba9e4a295b) | chore: document memory episodes workflow | 2026-05-26 22:32:04 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`70bb4f4`](https://github.com/sase-org/sase/commit/70bb4f40a959402b6ee77d1c7c9cee64c7a7f103) | docs: clarify SDD migration and model routing | 2026-07-12 01:57:43 |
+| sase | [`70bb4f4`](https://github.com/sase-org/sase/commit/70bb4f40a959402b6ee77d1c7c9cee64c7a7f103) | docs: clarify SDD migration and model routing | 2026-07-11 21:57:43 EDT |
 
 ## Neighbors
 

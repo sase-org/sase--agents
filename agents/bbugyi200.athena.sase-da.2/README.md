@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cb6efd7`](https://github.com/sase-org/sase/commit/cb6efd7de3380634387b10c30d08ffdfe7bd288c) | feat(bead): persist bead work launch timing | 2026-08-01 13:40:30 |
+| sase | [`cb6efd7`](https://github.com/sase-org/sase/commit/cb6efd7de3380634387b10c30d08ffdfe7bd288c) | feat(bead): persist bead work launch timing | 2026-08-01 09:40:30 EDT |
 
 ## Neighbors
 

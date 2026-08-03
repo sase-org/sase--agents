@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`14bf5f1`](https://github.com/sase-org/sase/commit/14bf5f15c169579fe947609236c23f7d77ccb6f4) | feat(llm-provider)!: retire epic\_creator model alias | 2026-07-25 18:21:45 |
+| code | sase | [`14bf5f1`](https://github.com/sase-org/sase/commit/14bf5f15c169579fe947609236c23f7d77ccb6f4) | feat(llm-provider)!: retire epic\_creator model alias | 2026-07-25 14:21:45 EDT |

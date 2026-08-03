@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d3da6c9`](https://github.com/sase-org/sase/commit/d3da6c93b789a6e9f443ca7986a26969be4261fb) | fix(sdd): handle legacy stores during companion init | 2026-07-09 07:31:45 |
+| sase | [`d3da6c9`](https://github.com/sase-org/sase/commit/d3da6c93b789a6e9f443ca7986a26969be4261fb) | fix(sdd): handle legacy stores during companion init | 2026-07-09 03:31:45 EDT |
 
 ## Neighbors
 

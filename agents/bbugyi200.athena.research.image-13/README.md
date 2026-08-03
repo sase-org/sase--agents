@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`94873c6`](https://github.com/sase-org/sase/commit/94873c68df63e65ff4860dda444885a1929f682e) | chore: add Hacker News strategy infographic | 2026-06-07 10:24:57 |
+| sase | [`94873c6`](https://github.com/sase-org/sase/commit/94873c68df63e65ff4860dda444885a1929f682e) | chore: add Hacker News strategy infographic | 2026-06-07 06:24:57 EDT |
 
 ## Neighbors
 

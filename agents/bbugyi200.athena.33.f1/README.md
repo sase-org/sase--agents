@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5b50fc5`](https://github.com/sase-org/sase/commit/5b50fc5fd230352282b36cb87ff49ee37720b0db) | feat: refresh materialized SDD companions through providers | 2026-07-09 02:08:54 |
+| sase | [`5b50fc5`](https://github.com/sase-org/sase/commit/5b50fc5fd230352282b36cb87ff49ee37720b0db) | feat: refresh materialized SDD companions through providers | 2026-07-08 22:08:54 EDT |
 
 ## Neighbors
 

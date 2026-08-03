@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3d23bdd`](https://github.com/sase-org/sase/commit/3d23bdd9b6f2cdedf3340b76cd2e0984b14dc847) | fix: preserve SASE plan tags for separate stores | 2026-07-11 13:36:34 |
+| sase | [`3d23bdd`](https://github.com/sase-org/sase/commit/3d23bdd9b6f2cdedf3340b76cd2e0984b14dc847) | fix: preserve SASE plan tags for separate stores | 2026-07-11 09:36:34 EDT |

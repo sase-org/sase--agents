@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7bfb83a`](https://github.com/sase-org/sase/commit/7bfb83afcced62eef7a14dc1792679f7751609d3) | ref: split episode storage helpers | 2026-05-31 20:15:00 |
+| sase | [`7bfb83a`](https://github.com/sase-org/sase/commit/7bfb83afcced62eef7a14dc1792679f7751609d3) | ref: split episode storage helpers | 2026-05-31 16:15:00 EDT |
 
 ## Neighbors
 

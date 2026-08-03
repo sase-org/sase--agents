@@ -20,9 +20,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`690d4a3`](https://github.com/sase-org/sase/commit/690d4a3bee64454f19ba9f9252e1f405d14f171f) | chore: consolidate repeat STOP variable research into one doc | 2026-06-11 23:21:00 |
+| sase | [`690d4a3`](https://github.com/sase-org/sase/commit/690d4a3bee64454f19ba9f9252e1f405d14f171f) | chore: consolidate repeat STOP variable research into one doc | 2026-06-11 19:21:00 EDT |
 
 ## Variables
 

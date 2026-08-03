@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`4add66d`](https://github.com/sase-org/sase/commit/4add66de85c2b06c5d38f9321a3ab0c65425f8d2) | chore: Add SDD prompt and plan for tui\_title\_version | 2026-07-03 18:43:19 |
-| root | sase | [`9deb012`](https://github.com/sase-org/sase/commit/9deb01206b0de988b6de7827e4ff6253631f0bc8) | feat(ace): show sase version instead of PID in the TUI title | 2026-07-03 19:40:55 |
-| root | sase | [`8b64dd4`](https://github.com/sase-org/sase/commit/8b64dd4b635acd86924fea5873cd723eb9bb7fbf) | chore: Add SDD prompt and plan for sase\_run\_skill\_prompt\_guidance | 2026-07-07 02:41:10 |
-| root | sase | [`2894fd2`](https://github.com/sase-org/sase/commit/2894fd280cc76debdc012de6a77ade37dc85b121) | docs: clarify sase\_run prompt composition | 2026-07-07 02:48:00 |
+| root | sase | [`4add66d`](https://github.com/sase-org/sase/commit/4add66de85c2b06c5d38f9321a3ab0c65425f8d2) | chore: Add SDD prompt and plan for tui\_title\_version | 2026-07-03 14:43:19 EDT |
+| root | sase | [`9deb012`](https://github.com/sase-org/sase/commit/9deb01206b0de988b6de7827e4ff6253631f0bc8) | feat(ace): show sase version instead of PID in the TUI title | 2026-07-03 15:40:55 EDT |
+| root | sase | [`8b64dd4`](https://github.com/sase-org/sase/commit/8b64dd4b635acd86924fea5873cd723eb9bb7fbf) | chore: Add SDD prompt and plan for sase\_run\_skill\_prompt\_guidance | 2026-07-06 22:41:10 EDT |
+| root | sase | [`2894fd2`](https://github.com/sase-org/sase/commit/2894fd280cc76debdc012de6a77ade37dc85b121) | docs: clarify sase\_run prompt composition | 2026-07-06 22:48:00 EDT |

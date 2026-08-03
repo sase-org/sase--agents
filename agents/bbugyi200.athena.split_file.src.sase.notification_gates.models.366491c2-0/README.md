@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`81c5553`](https://github.com/sase-org/sase/commit/81c5553093b770851199c0213fdef19739f15983) | refactor(notification-gates): split model definitions | 2026-07-19 10:54:49 |
+| sase | [`81c5553`](https://github.com/sase-org/sase/commit/81c5553093b770851199c0213fdef19739f15983) | refactor(notification-gates): split model definitions | 2026-07-19 06:54:49 EDT |
 
 ## Neighbors
 

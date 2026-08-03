@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`58948eb`](https://github.com/sase-org/sase/commit/58948eb9c45c0eba8dfed3c59a28d108a95402b1) | test: stabilize committed plan metadata fixtures | 2026-08-01 12:49:48 |
+| sase | [`58948eb`](https://github.com/sase-org/sase/commit/58948eb9c45c0eba8dfed3c59a28d108a95402b1) | test: stabilize committed plan metadata fixtures | 2026-08-01 08:49:48 EDT |

@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`93c8ccb`](https://github.com/sase-org/sase/commit/93c8ccb35bd197a082269dc107cae7696fac6b04) | fix: resolve 11 bugs found in recent-commit audit (cb7a4a556..690d4a3be) (#167) | 2026-06-12 12:15:05 |
-| root | sase | [`1c0154b`](https://github.com/sase-org/sase/commit/1c0154b904984bb6c3b5475c499030426775094f) | fix: make workflow retries independent of workspace helper | 2026-07-11 15:57:47 |
+| root | sase | [`93c8ccb`](https://github.com/sase-org/sase/commit/93c8ccb35bd197a082269dc107cae7696fac6b04) | fix: resolve 11 bugs found in recent-commit audit (cb7a4a556..690d4a3be) (#167) | 2026-06-12 08:15:05 EDT |
+| root | sase | [`1c0154b`](https://github.com/sase-org/sase/commit/1c0154b904984bb6c3b5475c499030426775094f) | fix: make workflow retries independent of workspace helper | 2026-07-11 11:57:47 EDT |
 
 ## Neighbors
 

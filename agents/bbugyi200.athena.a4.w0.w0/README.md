@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f8b44c4`](https://github.com/sase-org/sase/commit/f8b44c49fbc8db391bb41cd30e4f8e7907cd8909) | feat!: require and display plan titles | 2026-07-16 12:02:28 |
+| sase | [`f8b44c4`](https://github.com/sase-org/sase/commit/f8b44c49fbc8db391bb41cd30e4f8e7907cd8909) | feat!: require and display plan titles | 2026-07-16 08:02:28 EDT |
 
 ## Neighbors
 

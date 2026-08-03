@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fd31c86`](https://github.com/sase-org/sase/commit/fd31c8691584969cb53ee7757d4eade5ed940aba) | feat(ace): navigate unread agents in collapsed clans | 2026-07-18 12:07:27 |
+| sase | [`fd31c86`](https://github.com/sase-org/sase/commit/fd31c8691584969cb53ee7757d4eade5ed940aba) | feat(ace): navigate unread agents in collapsed clans | 2026-07-18 08:07:27 EDT |
 
 ## Neighbors
 

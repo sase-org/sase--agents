@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ee228c9`](https://github.com/sase-org/sase/commit/ee228c9ce17f30a2e478386afe92e752e31d82f5) | test: split editor helper tests by catalog | 2026-07-23 14:56:41 |
+| sase | [`ee228c9`](https://github.com/sase-org/sase/commit/ee228c9ce17f30a2e478386afe92e752e31d82f5) | test: split editor helper tests by catalog | 2026-07-23 10:56:41 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fd9e163`](https://github.com/sase-org/sase/commit/fd9e16338a77b22ad9272913d88eb6e81a3f674d) | docs: Add research on Gemini CLI to Antigravity migration | 2026-06-19 20:04:11 |
+| sase | [`fd9e163`](https://github.com/sase-org/sase/commit/fd9e16338a77b22ad9272913d88eb6e81a3f674d) | docs: Add research on Gemini CLI to Antigravity migration | 2026-06-19 16:04:11 EDT |
 
 ## Neighbors
 

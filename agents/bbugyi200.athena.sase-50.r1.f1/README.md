@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c5cef28`](https://github.com/sase-org/sase/commit/c5cef2876182c8f57ba66e0da31e6a86e7200472) | chore: Add SDD prompt and plan for chezmoi\_agy\_xprompts | 2026-06-20 02:39:34 |
-| sase | [`2b9024f`](https://github.com/sase-org/sase/commit/2b9024f2ed4ec929d13406a648a07c9e6ab2499c) | chore: Mark SDD plan done | 2026-06-20 02:43:55 |
+| sase | [`c5cef28`](https://github.com/sase-org/sase/commit/c5cef2876182c8f57ba66e0da31e6a86e7200472) | chore: Add SDD prompt and plan for chezmoi\_agy\_xprompts | 2026-06-19 22:39:34 EDT |
+| sase | [`2b9024f`](https://github.com/sase-org/sase/commit/2b9024f2ed4ec929d13406a648a07c9e6ab2499c) | chore: Mark SDD plan done | 2026-06-19 22:43:55 EDT |
 
 ## Neighbors
 

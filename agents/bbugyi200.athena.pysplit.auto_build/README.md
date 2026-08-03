@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9843833`](https://github.com/sase-org/sase/commit/9843833090c5300643fda2b843fe18007fc19260) | ref: split episode auto build module | 2026-05-29 00:56:32 |
-| sase | [`a6a9cd3`](https://github.com/sase-org/sase/commit/a6a9cd3e94dcc46ea396f1c757b6a1caa80f8cf9) | ref: split episode auto build modules | 2026-05-29 01:09:43 |
+| sase | [`9843833`](https://github.com/sase-org/sase/commit/9843833090c5300643fda2b843fe18007fc19260) | ref: split episode auto build module | 2026-05-28 20:56:32 EDT |
+| sase | [`a6a9cd3`](https://github.com/sase-org/sase/commit/a6a9cd3e94dcc46ea396f1c757b6a1caa80f8cf9) | ref: split episode auto build modules | 2026-05-28 21:09:43 EDT |
 
 ## Neighbors
 

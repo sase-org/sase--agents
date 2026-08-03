@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0767451`](https://github.com/sase-org/sase/commit/076745176b11757476355c271d57e59205bbfba7) | chore: re-vendor pyvision linter (sase-5n.5) | 2026-07-09 03:31:37 |
+| sase | [`0767451`](https://github.com/sase-org/sase/commit/076745176b11757476355c271d57e59205bbfba7) | chore: re-vendor pyvision linter (sase-5n.5) | 2026-07-08 23:31:37 EDT |
 
 ## Neighbors
 

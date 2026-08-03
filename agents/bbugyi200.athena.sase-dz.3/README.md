@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e11c992`](https://github.com/sase-org/sase/commit/e11c9925c26642dbb16690ec738310a1b030de6b) | ci: fit the test matrix inside its job timeout | 2026-08-02 11:19:50 |
+| sase | [`e11c992`](https://github.com/sase-org/sase/commit/e11c9925c26642dbb16690ec738310a1b030de6b) | ci: fit the test matrix inside its job timeout | 2026-08-02 07:19:50 EDT |
 
 ## Neighbors
 

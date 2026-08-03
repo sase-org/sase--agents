@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6c0f899`](https://github.com/sase-org/sase/commit/6c0f8998220df0539e5dca54bebd732eb7f35c11) | refactor(tui): split frontmatter panel widget | 2026-06-16 21:25:40 |
+| sase | [`6c0f899`](https://github.com/sase-org/sase/commit/6c0f8998220df0539e5dca54bebd732eb7f35c11) | refactor(tui): split frontmatter panel widget | 2026-06-16 17:25:40 EDT |
 
 ## Neighbors
 

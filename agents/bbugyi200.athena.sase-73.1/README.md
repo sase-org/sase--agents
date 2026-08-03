@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c433dc7`](https://github.com/sase-org/sase/commit/c433dc7590a64bfa186f311c89b4b75482d63683) | feat(tui): rework tribe summary fold documents (sase-73.1) | 2026-07-19 12:36:08 |
+| sase | [`c433dc7`](https://github.com/sase-org/sase/commit/c433dc7590a64bfa186f311c89b4b75482d63683) | feat(tui): rework tribe summary fold documents (sase-73.1) | 2026-07-19 08:36:08 EDT |
 
 ## Neighbors
 

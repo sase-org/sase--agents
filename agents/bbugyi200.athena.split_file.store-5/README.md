@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`391272b`](https://github.com/sase-org/sase/commit/391272b2626077bcf7c4207a2660448a5f80e46d) | refactor(sdd): extract store git helpers | 2026-07-16 10:07:08 |
+| sase | [`391272b`](https://github.com/sase-org/sase/commit/391272b2626077bcf7c4207a2660448a5f80e46d) | refactor(sdd): extract store git helpers | 2026-07-16 06:07:08 EDT |
 
 ## Neighbors
 

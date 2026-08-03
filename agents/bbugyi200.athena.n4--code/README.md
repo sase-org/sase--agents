@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`18d0d92`](https://github.com/sase-org/sase/commit/18d0d924179e250a32cd14f048fbce01f4acbe6f) | fix(tui): preserve active prompts on Ctrl+Space | 2026-07-28 16:20:52 |
+| sase | [`18d0d92`](https://github.com/sase-org/sase/commit/18d0d924179e250a32cd14f048fbce01f4acbe6f) | fix(tui): preserve active prompts on Ctrl+Space | 2026-07-28 12:20:52 EDT |

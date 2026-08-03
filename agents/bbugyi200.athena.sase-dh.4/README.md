@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6107515`](https://github.com/sase-org/sase/commit/61075153cbf05a43c58725ffd2cae538de85f8aa) | feat(sdd): cross-link plans and archived prompts | 2026-08-01 18:10:58 |
+| sase | [`6107515`](https://github.com/sase-org/sase/commit/61075153cbf05a43c58725ffd2cae538de85f8aa) | feat(sdd): cross-link plans and archived prompts | 2026-08-01 14:10:58 EDT |
 
 ## Neighbors
 

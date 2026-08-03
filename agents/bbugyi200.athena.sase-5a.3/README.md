@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9e3de03`](https://github.com/sase-org/sase/commit/9e3de039c7eafc6f13b42b0fb668c4e453be97ee) | docs(ace): sync help and docs to Projects tab (sase-5a.3) | 2026-06-26 18:45:26 |
+| sase | [`9e3de03`](https://github.com/sase-org/sase/commit/9e3de039c7eafc6f13b42b0fb668c4e453be97ee) | docs(ace): sync help and docs to Projects tab (sase-5a.3) | 2026-06-26 14:45:26 EDT |
 
 ## Neighbors
 

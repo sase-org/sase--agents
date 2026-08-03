@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0a910c5`](https://github.com/sase-org/sase/commit/0a910c51803d3a556d1e2d2fb9746a94cd243930) | feat(plans): aggregate enabled projects by default (sase-6a.1) | 2026-07-16 13:13:22 |
+| sase | [`0a910c5`](https://github.com/sase-org/sase/commit/0a910c51803d3a556d1e2d2fb9746a94cd243930) | feat(plans): aggregate enabled projects by default (sase-6a.1) | 2026-07-16 09:13:22 EDT |
 
 ## Neighbors
 

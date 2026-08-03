@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1da3817`](https://github.com/sase-org/sase/commit/1da3817eb72f994709f2d4147277134e3c36c73b) | fix(ace): collapse houses before agent groups | 2026-07-22 12:03:17 |
+| sase | [`1da3817`](https://github.com/sase-org/sase/commit/1da3817eb72f994709f2d4147277134e3c36c73b) | fix(ace): collapse houses before agent groups | 2026-07-22 08:03:17 EDT |
 
 ## Neighbors
 

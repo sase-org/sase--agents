@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cd7f4f6`](https://github.com/sase-org/sase/commit/cd7f4f67f1ea69dab9b145519b5d5b0baa4a7a56) | feat(plugins): add \`sase plugin list\` command + rendering (sase-57.2) | 2026-06-25 23:28:14 |
+| sase | [`cd7f4f6`](https://github.com/sase-org/sase/commit/cd7f4f67f1ea69dab9b145519b5d5b0baa4a7a56) | feat(plugins): add \`sase plugin list\` command + rendering (sase-57.2) | 2026-06-25 19:28:14 EDT |
 
 ## Neighbors
 

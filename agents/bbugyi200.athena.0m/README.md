@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bee58b4`](https://github.com/sase-org/sase/commit/bee58b411bce355c5c36689aefe2833b34fa2b34) | chore: Add SDD prompt and plan for vcs\_repo\_slash\_completion | 2026-07-07 17:10:33 |
-| sase | [`cb5f4cf`](https://github.com/sase-org/sase/commit/cb5f4cf229a7b4a65d0dbc4d42dfffae9914e40b) | chore(beads): create VCS repo completion epic | 2026-07-07 17:20:20 |
+| sase | [`bee58b4`](https://github.com/sase-org/sase/commit/bee58b411bce355c5c36689aefe2833b34fa2b34) | chore: Add SDD prompt and plan for vcs\_repo\_slash\_completion | 2026-07-07 13:10:33 EDT |
+| sase | [`cb5f4cf`](https://github.com/sase-org/sase/commit/cb5f4cf229a7b4a65d0dbc4d42dfffae9914e40b) | chore(beads): create VCS repo completion epic | 2026-07-07 13:20:20 EDT |

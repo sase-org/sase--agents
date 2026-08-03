@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`bd8fe53`](https://github.com/sase-org/sase/commit/bd8fe533476acf747a7203a03fc265943e73fe8a) | test: stabilize xprompt skill highlight coverage | 2026-07-15 13:23:18 |
+| root | sase | [`bd8fe53`](https://github.com/sase-org/sase/commit/bd8fe533476acf747a7203a03fc265943e73fe8a) | test: stabilize xprompt skill highlight coverage | 2026-07-15 09:23:18 EDT |
 
 ## Neighbors
 

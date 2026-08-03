@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`398d0c0`](https://github.com/sase-org/sase/commit/398d0c0e3338784a36e8845973a2b9805bd18759) | docs(research): critique sase update --dev install plan | 2026-06-26 01:43:55 |
+| sase | [`398d0c0`](https://github.com/sase-org/sase/commit/398d0c0e3338784a36e8845973a2b9805bd18759) | docs(research): critique sase update --dev install plan | 2026-06-25 21:43:55 EDT |
 
 ## Neighbors
 

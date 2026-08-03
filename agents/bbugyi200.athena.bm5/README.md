@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9010c68`](https://github.com/sase-org/sase/commit/9010c68cb98226aef36d1cd320bd3343fca77507) | chore: Add SDD prompt and plan for finalizer\_done\_status\_autocommit | 2026-05-28 13:05:58 |
-| sase | [`0e185fd`](https://github.com/sase-org/sase/commit/0e185fdaccda09a0c630963f8d2a4169527eab42) | feat: Auto-commit completed SDD plan status | 2026-05-28 13:20:34 |
+| sase | [`9010c68`](https://github.com/sase-org/sase/commit/9010c68cb98226aef36d1cd320bd3343fca77507) | chore: Add SDD prompt and plan for finalizer\_done\_status\_autocommit | 2026-05-28 09:05:58 EDT |
+| sase | [`0e185fd`](https://github.com/sase-org/sase/commit/0e185fdaccda09a0c630963f8d2a4169527eab42) | feat: Auto-commit completed SDD plan status | 2026-05-28 09:20:34 EDT |

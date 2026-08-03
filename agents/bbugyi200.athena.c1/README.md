@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`05dc1db`](https://github.com/sase-org/sase/commit/05dc1db089965775e5f20be4dcacda66a60411a4) | fix: contain scrollable update commit previews | 2026-07-17 16:15:15 |
+| sase | [`05dc1db`](https://github.com/sase-org/sase/commit/05dc1db089965775e5f20be4dcacda66a60411a4) | fix: contain scrollable update commit previews | 2026-07-17 12:15:15 EDT |

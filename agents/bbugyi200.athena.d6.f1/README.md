@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dc09732`](https://github.com/sase-org/sase/commit/dc09732399aa651f54579f753c9234b08c6d66d9) | fix: label tale plan submit action | 2026-07-18 12:35:01 |
+| sase | [`dc09732`](https://github.com/sase-org/sase/commit/dc09732399aa651f54579f753c9234b08c6d66d9) | fix: label tale plan submit action | 2026-07-18 08:35:01 EDT |
 
 ## Neighbors
 

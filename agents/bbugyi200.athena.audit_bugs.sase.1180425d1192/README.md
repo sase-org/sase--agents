@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1cfa9b1`](https://github.com/sase-org/sase/commit/1cfa9b11364c97681dddcdcc53f25243e4235fef) | fix: prevent lost override and plan state updates (#221) | 2026-07-11 18:24:38 |
+| sase | [`1cfa9b1`](https://github.com/sase-org/sase/commit/1cfa9b11364c97681dddcdcc53f25243e4235fef) | fix: prevent lost override and plan state updates (#221) | 2026-07-11 14:24:38 EDT |
 
 ## Neighbors
 

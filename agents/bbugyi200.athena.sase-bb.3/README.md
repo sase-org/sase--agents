@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4aee2f4`](https://github.com/sase-org/sase/commit/4aee2f49fecb256d4ed5a06b23c0f401f94b3da8) | feat(bead): integrate persistent artifact references | 2026-07-30 16:48:49 |
+| sase | [`4aee2f4`](https://github.com/sase-org/sase/commit/4aee2f49fecb256d4ed5a06b23c0f401f94b3da8) | feat(bead): integrate persistent artifact references | 2026-07-30 12:48:49 EDT |
 
 ## Neighbors
 

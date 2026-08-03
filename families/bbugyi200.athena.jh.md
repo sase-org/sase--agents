@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`467fc76`](https://github.com/sase-org/sase/commit/467fc76b82222a7d44fd64cafdc5d86478746632) | fix(tui): include collapsed clan lanes in completions | 2026-07-23 18:44:47 |
+| code | sase | [`467fc76`](https://github.com/sase-org/sase/commit/467fc76b82222a7d44fd64cafdc5d86478746632) | fix(tui): include collapsed clan lanes in completions | 2026-07-23 14:44:47 EDT |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7a03b9c`](https://github.com/sase-org/sase/commit/7a03b9c8a4ae8e89cf9761948e26590ee8471bac) | docs: align SDD docs with per-project research sidecars (sase-62) | 2026-07-15 13:56:26 |
+| sase | [`7a03b9c`](https://github.com/sase-org/sase/commit/7a03b9c8a4ae8e89cf9761948e26590ee8471bac) | docs: align SDD docs with per-project research sidecars (sase-62) | 2026-07-15 09:56:26 EDT |
 
 ## Neighbors
 

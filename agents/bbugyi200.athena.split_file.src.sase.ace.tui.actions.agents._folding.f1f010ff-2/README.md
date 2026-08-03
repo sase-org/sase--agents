@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`35aeb27`](https://github.com/sase-org/sase/commit/35aeb27ca6891a9663b13e75c96b3a0abf4023c7) | refactor(ace): split agent folding mixin | 2026-07-19 20:33:24 |
+| sase | [`35aeb27`](https://github.com/sase-org/sase/commit/35aeb27ca6891a9663b13e75c96b3a0abf4023c7) | refactor(ace): split agent folding mixin | 2026-07-19 16:33:24 EDT |
 
 ## Neighbors
 

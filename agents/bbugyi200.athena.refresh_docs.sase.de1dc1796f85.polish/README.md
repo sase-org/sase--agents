@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8c25852`](https://github.com/sase-org/sase/commit/8c25852f5a9d77e4ada692a7d0a011e6ced1ea03) | chore: clarify project lifecycle docs | 2026-06-01 18:51:51 |
+| sase | [`8c25852`](https://github.com/sase-org/sase/commit/8c25852f5a9d77e4ada692a7d0a011e6ced1ea03) | chore: clarify project lifecycle docs | 2026-06-01 14:51:51 EDT |
 
 ## Neighbors
 

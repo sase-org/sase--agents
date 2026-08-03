@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`85aa33e`](https://github.com/sase-org/sase/commit/85aa33e908bb7286d09ace4befb6c2f42666c382) | fix(ace): align status summaries with agent holes | 2026-07-22 16:47:58 |
+| sase | [`85aa33e`](https://github.com/sase-org/sase/commit/85aa33e908bb7286d09ace4befb6c2f42666c382) | fix(ace): align status summaries with agent holes | 2026-07-22 12:47:58 EDT |
 
 ## Neighbors
 

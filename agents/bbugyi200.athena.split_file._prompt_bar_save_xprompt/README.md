@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f380c2c`](https://github.com/sase-org/sase/commit/f380c2c4b7ad7962fbf283b325ff004ad37d8bf6) | refactor(ace): split prompt save xprompt helpers | 2026-06-27 15:54:24 |
+| sase | [`f380c2c`](https://github.com/sase-org/sase/commit/f380c2c4b7ad7962fbf283b325ff004ad37d8bf6) | refactor(ace): split prompt save xprompt helpers | 2026-06-27 11:54:24 EDT |
 
 ## Neighbors
 

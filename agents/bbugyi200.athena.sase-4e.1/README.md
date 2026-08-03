@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9071f55`](https://github.com/sase-org/sase/commit/9071f55be3fe53ce1f2ea8b372f241b5ed6145ac) | chore: add shared release guardrails (sase-4e.1) | 2026-06-08 16:50:55 |
+| sase | [`9071f55`](https://github.com/sase-org/sase/commit/9071f55be3fe53ce1f2ea8b372f241b5ed6145ac) | chore: add shared release guardrails (sase-4e.1) | 2026-06-08 12:50:55 EDT |
 
 ## Neighbors
 

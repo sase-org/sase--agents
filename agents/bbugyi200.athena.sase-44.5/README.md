@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`98784db`](https://github.com/sase-org/sase/commit/98784db6dd885f45792e6537f2ba973bb96e3f5e) | feat: enable AMD-managed project instructions (sase-44.5) | 2026-05-24 23:13:46 |
+| sase | [`98784db`](https://github.com/sase-org/sase/commit/98784db6dd885f45792e6537f2ba973bb96e3f5e) | feat: enable AMD-managed project instructions (sase-44.5) | 2026-05-24 19:13:46 EDT |
 
 ## Neighbors
 

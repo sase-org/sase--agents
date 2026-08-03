@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4dcb779`](https://github.com/sase-org/sase/commit/4dcb77960eb8484913c531cd53e64914f3231f42) | feat(ace): show phase titles in BEAD context | 2026-07-28 16:14:56 |
+| sase | [`4dcb779`](https://github.com/sase-org/sase/commit/4dcb77960eb8484913c531cd53e64914f3231f42) | feat(ace): show phase titles in BEAD context | 2026-07-28 12:14:56 EDT |

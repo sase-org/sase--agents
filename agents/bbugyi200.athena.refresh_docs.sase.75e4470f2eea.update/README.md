@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2b4d8e9`](https://github.com/sase-org/sase/commit/2b4d8e9aed2a8ccf6f802cd420a94b33a0152525) | docs: refresh docs for recent features and add agent families page | 2026-07-06 14:57:38 |
+| sase | [`2b4d8e9`](https://github.com/sase-org/sase/commit/2b4d8e9aed2a8ccf6f802cd420a94b33a0152525) | docs: refresh docs for recent features and add agent families page | 2026-07-06 10:57:38 EDT |
 
 ## Neighbors
 

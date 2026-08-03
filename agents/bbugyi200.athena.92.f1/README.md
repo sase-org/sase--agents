@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8b2ae3e`](https://github.com/sase-org/sase/commit/8b2ae3ef470d97acbf3b1919a1a4d90f6eec45b0) | chore: Add SDD prompt and plan for agent\_command\_rename | 2026-06-17 11:49:53 |
-| sase | [`d25be1f`](https://github.com/sase-org/sase/commit/d25be1fa2186a486bd21e9da584981a6adb14c00) | feat(cli)!: rename \`sase agents\` to \`sase agent\` | 2026-06-17 12:19:46 |
+| sase | [`8b2ae3e`](https://github.com/sase-org/sase/commit/8b2ae3ef470d97acbf3b1919a1a4d90f6eec45b0) | chore: Add SDD prompt and plan for agent\_command\_rename | 2026-06-17 07:49:53 EDT |
+| sase | [`d25be1f`](https://github.com/sase-org/sase/commit/d25be1fa2186a486bd21e9da584981a6adb14c00) | feat(cli)!: rename \`sase agents\` to \`sase agent\` | 2026-06-17 08:19:46 EDT |
 
 ## Neighbors
 

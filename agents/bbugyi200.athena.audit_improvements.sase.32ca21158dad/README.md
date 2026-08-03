@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0e0ce2c`](https://github.com/sase-org/sase/commit/0e0ce2cec6c6320734c16820ad94578f812fff26) | fix: preserve dismissed agents on revive restore failure | 2026-05-28 23:51:53 |
+| sase | [`0e0ce2c`](https://github.com/sase-org/sase/commit/0e0ce2cec6c6320734c16820ad94578f812fff26) | fix: preserve dismissed agents on revive restore failure | 2026-05-28 19:51:53 EDT |
 
 ## Neighbors
 

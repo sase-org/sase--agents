@@ -19,14 +19,14 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b4de850`](https://github.com/sase-org/sase/commit/b4de85085391688a3241a59f81f93af8f7209bb0) | chore: Add SDD prompt and plan for fix\_space\_agent\_home | 2026-06-02 18:43:46 |
-| sase | [`397d4cc`](https://github.com/sase-org/sase/commit/397d4cc7e8241fbd3f62bb63b6d39bf2d28ad883) | fix: bind Space to home agent prompt | 2026-06-02 18:56:29 |
-| sase | [`dcff90d`](https://github.com/sase-org/sase/commit/dcff90d94f893c783d5676cfde85c0677cb73f8a) | chore: Add SDD prompt and plan for init\_command\_improvements | 2026-07-04 10:32:41 |
-| sase | [`4a23371`](https://github.com/sase-org/sase/commit/4a23371ec6fb28742d672b0057ba586e7e3a1e36) | feat(init): add skills check mode | 2026-07-04 11:00:49 |
-| sase | [`13e2d40`](https://github.com/sase-org/sase/commit/13e2d405767710900a5378828b581c08e1f9f54c) | chore: Add SDD prompt and plan for chat\_update\_builtin\_engine | 2026-07-07 02:55:21 |
-| sase | [`b718d92`](https://github.com/sase-org/sase/commit/b718d92b4e64a0e3026845c56664bf4361288a37) | feat!: use built-in chat update engine | 2026-07-07 03:11:18 |
+| sase | [`b4de850`](https://github.com/sase-org/sase/commit/b4de85085391688a3241a59f81f93af8f7209bb0) | chore: Add SDD prompt and plan for fix\_space\_agent\_home | 2026-06-02 14:43:46 EDT |
+| sase | [`397d4cc`](https://github.com/sase-org/sase/commit/397d4cc7e8241fbd3f62bb63b6d39bf2d28ad883) | fix: bind Space to home agent prompt | 2026-06-02 14:56:29 EDT |
+| sase | [`dcff90d`](https://github.com/sase-org/sase/commit/dcff90d94f893c783d5676cfde85c0677cb73f8a) | chore: Add SDD prompt and plan for init\_command\_improvements | 2026-07-04 06:32:41 EDT |
+| sase | [`4a23371`](https://github.com/sase-org/sase/commit/4a23371ec6fb28742d672b0057ba586e7e3a1e36) | feat(init): add skills check mode | 2026-07-04 07:00:49 EDT |
+| sase | [`13e2d40`](https://github.com/sase-org/sase/commit/13e2d405767710900a5378828b581c08e1f9f54c) | chore: Add SDD prompt and plan for chat\_update\_builtin\_engine | 2026-07-06 22:55:21 EDT |
+| sase | [`b718d92`](https://github.com/sase-org/sase/commit/b718d92b4e64a0e3026845c56664bf4361288a37) | feat!: use built-in chat update engine | 2026-07-06 23:11:18 EDT |
 
 ## Neighbors
 

@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6181ab2`](https://github.com/sase-org/sase/commit/6181ab2e7ac384d8974c87ce4478b285fbe7fac3) | chore: Add SDD prompt and plan for revert\_agent\_push | 2026-06-15 14:35:55 |
-| sase | [`904e612`](https://github.com/sase-org/sase/commit/904e6123a338a30b84f7cb4f9141eb639189cb57) | feat(ace): push Agents-tab revert commits to GitHub | 2026-06-15 14:45:50 |
+| sase | [`6181ab2`](https://github.com/sase-org/sase/commit/6181ab2e7ac384d8974c87ce4478b285fbe7fac3) | chore: Add SDD prompt and plan for revert\_agent\_push | 2026-06-15 10:35:55 EDT |
+| sase | [`904e612`](https://github.com/sase-org/sase/commit/904e6123a338a30b84f7cb4f9141eb639189cb57) | feat(ace): push Agents-tab revert commits to GitHub | 2026-06-15 10:45:50 EDT |

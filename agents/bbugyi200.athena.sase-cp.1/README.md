@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d6a2cce`](https://github.com/sase-org/sase/commit/d6a2cce1f0e7464aa36dd3e22b77b95e57bef298) | feat(memory): generate Tier 2 bead workflow note | 2026-07-31 19:25:30 |
+| sase | [`d6a2cce`](https://github.com/sase-org/sase/commit/d6a2cce1f0e7464aa36dd3e22b77b95e57bef298) | feat(memory): generate Tier 2 bead workflow note | 2026-07-31 15:25:30 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aac709e`](https://github.com/sase-org/sase/commit/aac709ea1c96c866e392da16af9c3070dc14ae2f) | chore: close worker model epic bead (sase-4k) | 2026-06-10 01:54:00 |
+| sase | [`aac709e`](https://github.com/sase-org/sase/commit/aac709ea1c96c866e392da16af9c3070dc14ae2f) | chore: close worker model epic bead (sase-4k) | 2026-06-09 21:54:00 EDT |
 
 ## Neighbors
 

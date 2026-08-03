@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`85b85bd`](https://github.com/sase-org/sase/commit/85b85bd31afa13211db4f24130d4a144402f80b5) | feat(ace): add stack keymaps and live splitting (sase-4p.3) | 2026-06-15 23:05:36 |
+| sase | [`85b85bd`](https://github.com/sase-org/sase/commit/85b85bd31afa13211db4f24130d4a144402f80b5) | feat(ace): add stack keymaps and live splitting (sase-4p.3) | 2026-06-15 19:05:36 EDT |
 
 ## Neighbors
 

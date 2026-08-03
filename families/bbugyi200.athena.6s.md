@@ -22,11 +22,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`737954d`](https://github.com/sase-org/sase/commit/737954d2562ee426b0bc3b6c58cd4ceae7439b73) | chore: Add SDD prompt and plan for plan\_list\_perf | 2026-06-13 18:07:04 |
-| root | sase | [`cfbad85`](https://github.com/sase-org/sase/commit/cfbad8509c0b263a83f8154d669d8c7d10ea5a4e) | perf: speed up plan list inventory | 2026-06-13 18:31:49 |
-| root | sase | [`df60999`](https://github.com/sase-org/sase/commit/df60999b5b38ef1c94dcb247b66a52e744d6e4ad) | feat!: isolate linked repository clones from companions | 2026-07-12 16:11:41 |
+| root | sase | [`737954d`](https://github.com/sase-org/sase/commit/737954d2562ee426b0bc3b6c58cd4ceae7439b73) | chore: Add SDD prompt and plan for plan\_list\_perf | 2026-06-13 14:07:04 EDT |
+| root | sase | [`cfbad85`](https://github.com/sase-org/sase/commit/cfbad8509c0b263a83f8154d669d8c7d10ea5a4e) | perf: speed up plan list inventory | 2026-06-13 14:31:49 EDT |
+| root | sase | [`df60999`](https://github.com/sase-org/sase/commit/df60999b5b38ef1c94dcb247b66a52e744d6e4ad) | feat!: isolate linked repository clones from companions | 2026-07-12 12:11:41 EDT |
 
 ## Neighbors
 

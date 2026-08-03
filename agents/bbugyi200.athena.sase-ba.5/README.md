@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1a4e838`](https://github.com/sase-org/sase/commit/1a4e838df607139e5402596398ea666b77280389) | test(artifacts): align retention fixtures with protection ids | 2026-07-30 17:30:16 |
+| sase | [`1a4e838`](https://github.com/sase-org/sase/commit/1a4e838df607139e5402596398ea666b77280389) | test(artifacts): align retention fixtures with protection ids | 2026-07-30 13:30:16 EDT |
 
 ## Neighbors
 

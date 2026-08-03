@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c05047f`](https://github.com/sase-org/sase/commit/c05047fa565abe4e702f99421abb431f960e0dc5) | ci: update publish smoke help assertion (#199) | 2026-07-02 18:52:59 |
+| sase | [`c05047f`](https://github.com/sase-org/sase/commit/c05047fa565abe4e702f99421abb431f960e0dc5) | ci: update publish smoke help assertion (#199) | 2026-07-02 14:52:59 EDT |

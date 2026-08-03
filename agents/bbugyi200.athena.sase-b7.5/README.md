@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`658e576`](https://github.com/sase-org/sase/commit/658e57696301cdab8119f77ef0ec1cd4fda16037) | docs(artifacts): document VCS-backed artifact files | 2026-07-30 14:33:01 |
+| sase | [`658e576`](https://github.com/sase-org/sase/commit/658e57696301cdab8119f77ef0ec1cd4fda16037) | docs(artifacts): document VCS-backed artifact files | 2026-07-30 10:33:01 EDT |
 
 ## Neighbors
 

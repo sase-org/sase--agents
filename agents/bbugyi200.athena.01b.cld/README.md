@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3be4a5d`](https://github.com/sase-org/sase/commit/3be4a5db4dcff422e9320a40308b87f5ab0eb9da) | chore: Add SDD prompt and plan for answered\_question\_status\_1 | 2026-06-19 17:15:10 |
-| sase | [`78a7f14`](https://github.com/sase-org/sase/commit/78a7f14ee6eaff8d19e4e6dc51615a93240133eb) | fix(tui): mark answered question families done | 2026-06-19 17:24:34 |
+| sase | [`3be4a5d`](https://github.com/sase-org/sase/commit/3be4a5db4dcff422e9320a40308b87f5ab0eb9da) | chore: Add SDD prompt and plan for answered\_question\_status\_1 | 2026-06-19 13:15:10 EDT |
+| sase | [`78a7f14`](https://github.com/sase-org/sase/commit/78a7f14ee6eaff8d19e4e6dc51615a93240133eb) | fix(tui): mark answered question families done | 2026-06-19 13:24:34 EDT |

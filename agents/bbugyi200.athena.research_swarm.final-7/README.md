@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`48e23ee`](https://github.com/sase-org/sase/commit/48e23ee7be1f5d6b9220a4e3f7f37ec33c6b99d6) | chore: consolidate SASE episodes research | 2026-05-29 13:43:55 |
+| sase | [`48e23ee`](https://github.com/sase-org/sase/commit/48e23ee7be1f5d6b9220a4e3f7f37ec33c6b99d6) | chore: consolidate SASE episodes research | 2026-05-29 09:43:55 EDT |
 
 ## Neighbors
 

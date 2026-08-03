@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`4779fcb`](https://github.com/sase-org/sase/commit/4779fcbc57e6ead87c01e110e9ca85493d2d23df) | feat(ace): show epic phase roadmaps | 2026-07-15 19:18:39 |
-| root | sase | [`4779fcb`](https://github.com/sase-org/sase/commit/4779fcbc57e6ead87c01e110e9ca85493d2d23df) | feat(ace): show epic phase roadmaps | 2026-07-15 19:18:39 |
+| code | sase | [`4779fcb`](https://github.com/sase-org/sase/commit/4779fcbc57e6ead87c01e110e9ca85493d2d23df) | feat(ace): show epic phase roadmaps | 2026-07-15 15:18:39 EDT |
+| root | sase | [`4779fcb`](https://github.com/sase-org/sase/commit/4779fcbc57e6ead87c01e110e9ca85493d2d23df) | feat(ace): show epic phase roadmaps | 2026-07-15 15:18:39 EDT |
 
 ## Neighbors
 

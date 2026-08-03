@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`65f5df0`](https://github.com/sase-org/sase/commit/65f5df0825cb30d12b1f92dab9be150a8367923d) | refactor(core): split wait dependency resolution module | 2026-07-06 18:34:02 |
+| sase | [`65f5df0`](https://github.com/sase-org/sase/commit/65f5df0825cb30d12b1f92dab9be150a8367923d) | refactor(core): split wait dependency resolution module | 2026-07-06 14:34:02 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a0b40ef`](https://github.com/sase-org/sase/commit/a0b40ef37c1ec7afd8581fb31dd38ff0ca372937) | fix: propagate default overrides through alias resolution | 2026-07-25 15:46:36 |
+| sase | [`a0b40ef`](https://github.com/sase-org/sase/commit/a0b40ef37c1ec7afd8581fb31dd38ff0ca372937) | fix: propagate default overrides through alias resolution | 2026-07-25 11:46:36 EDT |
 
 ## Neighbors
 

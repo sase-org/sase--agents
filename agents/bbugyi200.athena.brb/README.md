@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ebb08bf`](https://github.com/sase-org/sase/commit/ebb08bf067721f2d3806a429799fdf09315a212c) | chore: Add SDD prompt and plan for numeric\_auto\_agent\_names | 2026-06-02 10:23:18 |
-| sase | [`b76d960`](https://github.com/sase-org/sase/commit/b76d960ef8dc6e2035eeedca672934e9e9a0d700) | feat: use numeric-first auto agent names | 2026-06-02 10:40:01 |
+| sase | [`ebb08bf`](https://github.com/sase-org/sase/commit/ebb08bf067721f2d3806a429799fdf09315a212c) | chore: Add SDD prompt and plan for numeric\_auto\_agent\_names | 2026-06-02 06:23:18 EDT |
+| sase | [`b76d960`](https://github.com/sase-org/sase/commit/b76d960ef8dc6e2035eeedca672934e9e9a0d700) | feat: use numeric-first auto agent names | 2026-06-02 06:40:01 EDT |

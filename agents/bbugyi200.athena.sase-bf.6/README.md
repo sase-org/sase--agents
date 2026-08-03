@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`738f7ec`](https://github.com/sase-org/sase/commit/738f7ec30eb930ad507c47d2cc851b368acf74d4) | test(notifications): cover structured output variables | 2026-07-30 22:00:20 |
+| sase | [`738f7ec`](https://github.com/sase-org/sase/commit/738f7ec30eb930ad507c47d2cc851b368acf74d4) | test(notifications): cover structured output variables | 2026-07-30 18:00:20 EDT |
 
 ## Neighbors
 

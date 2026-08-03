@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cc15db7`](https://github.com/sase-org/sase/commit/cc15db770dca5781bab5fd26a59b34ae8e92c16c) | fix: wipe forced names across multi-prompt launches | 2026-07-18 21:20:59 |
+| sase | [`cc15db7`](https://github.com/sase-org/sase/commit/cc15db770dca5781bab5fd26a59b34ae8e92c16c) | fix: wipe forced names across multi-prompt launches | 2026-07-18 17:20:59 EDT |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a908b57`](https://github.com/sase-org/sase/commit/a908b578f32f18e93a116f13ceb5c97eaf71e8d4) | test: harden residual-freeze soak attribution (sase-93.3) | 2026-07-25 12:18:29 |
+| sase | [`a908b57`](https://github.com/sase-org/sase/commit/a908b578f32f18e93a116f13ceb5c97eaf71e8d4) | test: harden residual-freeze soak attribution (sase-93.3) | 2026-07-25 08:18:29 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9734456`](https://github.com/sase-org/sase/commit/9734456742a064faf5dad0ffe97a37bae3c7852f) | test: split summary fold contract suites | 2026-07-28 14:54:55 |
+| sase | [`9734456`](https://github.com/sase-org/sase/commit/9734456742a064faf5dad0ffe97a37bae3c7852f) | test: split summary fold contract suites | 2026-07-28 10:54:55 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d08dd54`](https://github.com/sase-org/sase/commit/d08dd540f2f407a988d760c0947d6c909696d450) | docs: add SASE launch post draft (sase-5k.1) | 2026-07-08 04:20:46 |
+| sase | [`d08dd54`](https://github.com/sase-org/sase/commit/d08dd540f2f407a988d760c0947d6c909696d450) | docs: add SASE launch post draft (sase-5k.1) | 2026-07-08 00:20:46 EDT |
 
 ## Neighbors
 

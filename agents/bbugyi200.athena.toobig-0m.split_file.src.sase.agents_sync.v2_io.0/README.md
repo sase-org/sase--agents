@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`231483a`](https://github.com/sase-org/sase/commit/231483a25f756c123ce0d4feaf069197cab9f94d) | refactor(agents-sync): split v2 I/O responsibilities | 2026-07-28 11:17:58 |
+| sase | [`231483a`](https://github.com/sase-org/sase/commit/231483a25f756c123ce0d4feaf069197cab9f94d) | refactor(agents-sync): split v2 I/O responsibilities | 2026-07-28 07:17:58 EDT |
 
 ## Neighbors
 

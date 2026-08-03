@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8e9017a`](https://github.com/sase-org/sase/commit/8e9017a40cb591361068f4045509fc3a39de7d74) | chore: add SASE episodes guidance infographic | 2026-05-26 23:38:12 |
+| sase | [`8e9017a`](https://github.com/sase-org/sase/commit/8e9017a40cb591361068f4045509fc3a39de7d74) | chore: add SASE episodes guidance infographic | 2026-05-26 19:38:12 EDT |
 
 ## Neighbors
 

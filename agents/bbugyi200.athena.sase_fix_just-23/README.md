@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`693556a`](https://github.com/sase-org/sase/commit/693556a3159ac8d3c7df654234b3d7171f4b78af) | fix: sync reads prompt test query | 2026-06-03 22:37:57 |
+| sase | [`693556a`](https://github.com/sase-org/sase/commit/693556a3159ac8d3c7df654234b3d7171f4b78af) | fix: sync reads prompt test query | 2026-06-03 18:37:57 EDT |

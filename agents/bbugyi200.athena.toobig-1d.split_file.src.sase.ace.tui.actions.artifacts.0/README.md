@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4a61a79`](https://github.com/sase-org/sase/commit/4a61a79378f5552f1b06fbeb74ed43027843d354) | refactor(tui): split artifact navigation actions | 2026-08-01 17:57:40 |
+| sase | [`4a61a79`](https://github.com/sase-org/sase/commit/4a61a79378f5552f1b06fbeb74ed43027843d354) | refactor(tui): split artifact navigation actions | 2026-08-01 13:57:40 EDT |
 
 ## Neighbors
 

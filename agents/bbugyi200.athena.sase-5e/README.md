@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`26e9d35`](https://github.com/sase-org/sase/commit/26e9d358d55653108bd98c05eefffc7fe78ce8d4) | chore: close sase-5e models panel epic | 2026-06-30 20:22:40 |
+| sase | [`26e9d35`](https://github.com/sase-org/sase/commit/26e9d358d55653108bd98c05eefffc7fe78ce8d4) | chore: close sase-5e models panel epic | 2026-06-30 16:22:40 EDT |
 
 ## Neighbors
 

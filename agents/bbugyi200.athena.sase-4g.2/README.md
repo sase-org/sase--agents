@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2fb3d3b`](https://github.com/sase-org/sase/commit/2fb3d3b5b1c880113d617933fbe6ed550d91cd72) | feat: support registry-backed @ name templates (sase-4g.2) | 2026-06-08 19:57:21 |
+| sase | [`2fb3d3b`](https://github.com/sase-org/sase/commit/2fb3d3b5b1c880113d617933fbe6ed550d91cd72) | feat: support registry-backed @ name templates (sase-4g.2) | 2026-06-08 15:57:21 EDT |
 
 ## Neighbors
 

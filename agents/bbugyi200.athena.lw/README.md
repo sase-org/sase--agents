@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c9f2450`](https://github.com/sase-org/sase/commit/c9f2450ae0d1c0a183fa31f680670b281d2ae04b) | fix: defer epic completion notifications until launch settles | 2026-07-27 11:36:22 |
+| sase | [`c9f2450`](https://github.com/sase-org/sase/commit/c9f2450ae0d1c0a183fa31f680670b281d2ae04b) | fix: defer epic completion notifications until launch settles | 2026-07-27 07:36:22 EDT |

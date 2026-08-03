@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0224105`](https://github.com/sase-org/sase/commit/0224105ac98c6a944eb3b8e5367178dcbb1528e3) | fix: honor active venv in just test setup | 2026-06-08 17:29:08 |
+| sase | [`0224105`](https://github.com/sase-org/sase/commit/0224105ac98c6a944eb3b8e5367178dcbb1528e3) | fix: honor active venv in just test setup | 2026-06-08 13:29:08 EDT |

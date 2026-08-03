@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6eb7231`](https://github.com/sase-org/sase/commit/6eb7231a8deaa935745d8dc4930c2afb91b50bd2) | chore: create dynamic agent families v2 epic beads | 2026-07-06 06:38:14 |
+| sase | [`6eb7231`](https://github.com/sase-org/sase/commit/6eb7231a8deaa935745d8dc4930c2afb91b50bd2) | chore: create dynamic agent families v2 epic beads | 2026-07-06 02:38:14 EDT |
 
 ## Neighbors
 

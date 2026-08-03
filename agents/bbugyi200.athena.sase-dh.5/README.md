@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`64c26f1`](https://github.com/sase-org/sase/commit/64c26f106fac8b03237761f420079fae71c116b3) | feat(agent): add canonical prompt archive validation | 2026-08-01 18:44:18 |
+| sase | [`64c26f1`](https://github.com/sase-org/sase/commit/64c26f106fac8b03237761f420079fae71c116b3) | feat(agent): add canonical prompt archive validation | 2026-08-01 14:44:18 EDT |
 
 ## Neighbors
 

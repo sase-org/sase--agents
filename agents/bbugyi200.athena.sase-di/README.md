@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3f5f64b`](https://github.com/sase-org/sase/commit/3f5f64b0f587d851c5fd0d873ed7a46f424bdb0e) | fix(tui): ignore file hints inside HTTP URLs | 2026-08-01 15:59:54 |
+| sase | [`3f5f64b`](https://github.com/sase-org/sase/commit/3f5f64b0f587d851c5fd0d873ed7a46f424bdb0e) | fix(tui): ignore file hints inside HTTP URLs | 2026-08-01 11:59:54 EDT |

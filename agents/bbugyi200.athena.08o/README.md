@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`75deba2`](https://github.com/sase-org/sase/commit/75deba204262c26b7040898595f07a4262edf8cc) | feat(tui): add config detail scroll keys | 2026-06-28 12:19:17 |
+| sase | [`75deba2`](https://github.com/sase-org/sase/commit/75deba204262c26b7040898595f07a4262edf8cc) | feat(tui): add config detail scroll keys | 2026-06-28 08:19:17 EDT |

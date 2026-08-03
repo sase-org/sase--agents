@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a39ca1f`](https://github.com/sase-org/sase/commit/a39ca1f9d4cb3c5c2579ff7075dbc9a4007ab28e) | fix(llm): route claude coder default to gpt-5.5 | 2026-08-02 16:09:19 |
+| sase | [`a39ca1f`](https://github.com/sase-org/sase/commit/a39ca1f9d4cb3c5c2579ff7075dbc9a4007ab28e) | fix(llm): route claude coder default to gpt-5.5 | 2026-08-02 12:09:19 EDT |

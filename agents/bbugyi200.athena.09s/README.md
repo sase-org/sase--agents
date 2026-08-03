@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`76aafc7`](https://github.com/sase-org/sase/commit/76aafc727c521abe6b1bd0c268d6a392d0e1b773) | chore: Add SDD prompt and plan for wait\_time\_countdown\_after\_deps | 2026-06-29 13:23:43 |
-| sase | [`eaeff11`](https://github.com/sase-org/sase/commit/eaeff119de8167dc7b7602a3106801c76e1eb63e) | fix: start dependency wait duration after deps are ready | 2026-06-29 13:38:45 |
+| sase | [`76aafc7`](https://github.com/sase-org/sase/commit/76aafc727c521abe6b1bd0c268d6a392d0e1b773) | chore: Add SDD prompt and plan for wait\_time\_countdown\_after\_deps | 2026-06-29 09:23:43 EDT |
+| sase | [`eaeff11`](https://github.com/sase-org/sase/commit/eaeff119de8167dc7b7602a3106801c76e1eb63e) | fix: start dependency wait duration after deps are ready | 2026-06-29 09:38:45 EDT |

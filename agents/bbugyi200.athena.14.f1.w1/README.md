@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1e3c58d`](https://github.com/sase-org/sase/commit/1e3c58d9c5a21a4d08379a0abeee968e14ff44b6) | chore: Add SDD prompt and plan for project\_management\_fullscreen | 2026-06-02 16:13:22 |
-| sase | [`c2145c2`](https://github.com/sase-org/sase/commit/c2145c2efb5be3ae389e038f3db4bdf21ed5ff49) | feat: redesign project management modal as full-screen command center | 2026-06-02 16:28:16 |
+| sase | [`1e3c58d`](https://github.com/sase-org/sase/commit/1e3c58d9c5a21a4d08379a0abeee968e14ff44b6) | chore: Add SDD prompt and plan for project\_management\_fullscreen | 2026-06-02 12:13:22 EDT |
+| sase | [`c2145c2`](https://github.com/sase-org/sase/commit/c2145c2efb5be3ae389e038f3db4bdf21ed5ff49) | feat: redesign project management modal as full-screen command center | 2026-06-02 12:28:16 EDT |
 
 ## Neighbors
 

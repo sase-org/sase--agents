@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`43c5562`](https://github.com/sase-org/sase/commit/43c55620fd790c7390e743b203c6fcef6800f825) | docs: document fuzzy artifact reference completion | 2026-07-30 10:33:48 |
-| sase | [`c135dcb`](https://github.com/sase-org/sase/commit/c135dcbd62843e00697d89390dc53734de9098e0) | build(deps): raise the sase-core-rs floor to 0.12.18 | 2026-07-30 10:34:54 |
+| sase | [`43c5562`](https://github.com/sase-org/sase/commit/43c55620fd790c7390e743b203c6fcef6800f825) | docs: document fuzzy artifact reference completion | 2026-07-30 06:33:48 EDT |
+| sase | [`c135dcb`](https://github.com/sase-org/sase/commit/c135dcbd62843e00697d89390dc53734de9098e0) | build(deps): raise the sase-core-rs floor to 0.12.18 | 2026-07-30 06:34:54 EDT |
 
 ## Neighbors
 

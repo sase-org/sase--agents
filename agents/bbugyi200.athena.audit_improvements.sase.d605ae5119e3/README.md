@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0466184`](https://github.com/sase-org/sase/commit/04661847ddd2d0fa318db9896ca9d65ad60e3569) | fix(config): reject path-like overlay names (#184) | 2026-06-24 10:28:33 |
+| sase | [`0466184`](https://github.com/sase-org/sase/commit/04661847ddd2d0fa318db9896ca9d65ad60e3569) | fix(config): reject path-like overlay names (#184) | 2026-06-24 06:28:33 EDT |
 
 ## Neighbors
 

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1c066bc`](https://github.com/sase-org/sase/commit/1c066bcb83c67e769fd138ed58e51541265fe3c1) | chore: Add SDD prompt and plan for sase\_51\_closeout | 2026-06-20 21:28:39 |
-| sase | [`3aeee31`](https://github.com/sase-org/sase/commit/3aeee31d9d3163c41c31e10b632091a993c856d5) | test: isolate finalizer config-fallback tests from live agent config | 2026-06-20 21:50:08 |
+| sase | [`1c066bc`](https://github.com/sase-org/sase/commit/1c066bcb83c67e769fd138ed58e51541265fe3c1) | chore: Add SDD prompt and plan for sase\_51\_closeout | 2026-06-20 17:28:39 EDT |
+| sase | [`3aeee31`](https://github.com/sase-org/sase/commit/3aeee31d9d3163c41c31e10b632091a993c856d5) | test: isolate finalizer config-fallback tests from live agent config | 2026-06-20 17:50:08 EDT |
 
 ## Neighbors
 

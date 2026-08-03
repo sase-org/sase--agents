@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`9de5384`](https://github.com/sase-org/sase/commit/9de538432c7f5facaad3c9a3508292c8b6715439) | fix(sdd): sync separate SDD stores per workspace | 2026-07-08 19:39:16 |
+| root | sase | [`9de5384`](https://github.com/sase-org/sase/commit/9de538432c7f5facaad3c9a3508292c8b6715439) | fix(sdd): sync separate SDD stores per workspace | 2026-07-08 15:39:16 EDT |
 
 ## Neighbors
 

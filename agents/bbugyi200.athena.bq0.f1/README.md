@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`70a35e9`](https://github.com/sase-org/sase/commit/70a35e9ddf4f5954aa3a74273d443763b0755061) | chore: Add SDD prompt and plan for agent\_refresh\_coalescing | 2026-06-01 14:59:40 |
-| sase | [`cd4c2b4`](https://github.com/sase-org/sase/commit/cd4c2b4aae7c748b52ff09bb5b09d6f25b458849) | fix: coalesce notification agent refreshes | 2026-06-01 15:19:04 |
+| sase | [`70a35e9`](https://github.com/sase-org/sase/commit/70a35e9ddf4f5954aa3a74273d443763b0755061) | chore: Add SDD prompt and plan for agent\_refresh\_coalescing | 2026-06-01 10:59:40 EDT |
+| sase | [`cd4c2b4`](https://github.com/sase-org/sase/commit/cd4c2b4aae7c748b52ff09bb5b09d6f25b458849) | fix: coalesce notification agent refreshes | 2026-06-01 11:19:04 EDT |

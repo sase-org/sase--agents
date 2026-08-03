@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`26767ec`](https://github.com/sase-org/sase/commit/26767ec70751d5374344a5dc4584d647cfdf7625) | chore: Add SDD prompt and plan for vim\_text\_area\_adoption | 2026-07-05 23:48:52 |
-| root | sase | [`085054e`](https://github.com/sase-org/sase/commit/085054e325c5c32667f677eae30a2d04cf8771e6) | feat(tui): adopt vim text areas for modal inputs | 2026-07-06 00:49:46 |
-| root | sase | [`5785c09`](https://github.com/sase-org/sase/commit/5785c092701161c4d272620deda1bf52a6a742c5) | chore: Add SDD prompt and plan for telegram\_project\_display\_names\_1 | 2026-07-07 06:06:33 |
-| root | sase | [`0654041`](https://github.com/sase-org/sase/commit/0654041e20263c8b21b2666c5749ca6406dad333) | feat: humanize safe project filename stems | 2026-07-07 06:19:02 |
+| root | sase | [`26767ec`](https://github.com/sase-org/sase/commit/26767ec70751d5374344a5dc4584d647cfdf7625) | chore: Add SDD prompt and plan for vim\_text\_area\_adoption | 2026-07-05 19:48:52 EDT |
+| root | sase | [`085054e`](https://github.com/sase-org/sase/commit/085054e325c5c32667f677eae30a2d04cf8771e6) | feat(tui): adopt vim text areas for modal inputs | 2026-07-05 20:49:46 EDT |
+| root | sase | [`5785c09`](https://github.com/sase-org/sase/commit/5785c092701161c4d272620deda1bf52a6a742c5) | chore: Add SDD prompt and plan for telegram\_project\_display\_names\_1 | 2026-07-07 02:06:33 EDT |
+| root | sase | [`0654041`](https://github.com/sase-org/sase/commit/0654041e20263c8b21b2666c5749ca6406dad333) | feat: humanize safe project filename stems | 2026-07-07 02:19:02 EDT |

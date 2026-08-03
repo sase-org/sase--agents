@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7535d98`](https://github.com/sase-org/sase/commit/7535d98b718faaa5489e7ea7bc447e210b3edff1) | feat(llm\_provider): translate reasoning effort into per-run CLI args (sase-55.3) | 2026-06-23 17:10:21 |
+| sase | [`7535d98`](https://github.com/sase-org/sase/commit/7535d98b718faaa5489e7ea7bc447e210b3edff1) | feat(llm\_provider): translate reasoning effort into per-run CLI args (sase-55.3) | 2026-06-23 13:10:21 EDT |
 
 ## Neighbors
 

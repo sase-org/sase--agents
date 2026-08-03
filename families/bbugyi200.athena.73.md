@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`3169f35`](https://github.com/sase-org/sase/commit/3169f351b9f9698720f62881a2763262748d86a3) | feat(sdd): finalize companion repository changes | 2026-07-12 19:55:45 |
+| root | sase | [`3169f35`](https://github.com/sase-org/sase/commit/3169f351b9f9698720f62881a2763262748d86a3) | feat(sdd): finalize companion repository changes | 2026-07-12 15:55:45 EDT |

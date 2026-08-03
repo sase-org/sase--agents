@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`41e44d1`](https://github.com/sase-org/sase/commit/41e44d1c4205f7049723e109c53350460cc36913) | feat(ace): refine top-bar override pills | 2026-07-25 12:53:02 |
+| code | sase | [`41e44d1`](https://github.com/sase-org/sase/commit/41e44d1c4205f7049723e109c53350460cc36913) | feat(ace): refine top-bar override pills | 2026-07-25 08:53:02 EDT |

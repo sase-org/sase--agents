@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3d7728a`](https://github.com/sase-org/sase/commit/3d7728a5e5d0feef26e8fc459b9130f13335e02b) | chore: Add SDD prompt and plan for telegram\_auto\_plan\_button\_dismissal | 2026-06-25 19:40:35 |
-| sase | [`02fb83e`](https://github.com/sase-org/sase/commit/02fb83e8928441bef861fdfc40cbde7d35b5388a) | feat(notifications): record handled plan actions in shared store | 2026-06-25 20:11:23 |
+| sase | [`3d7728a`](https://github.com/sase-org/sase/commit/3d7728a5e5d0feef26e8fc459b9130f13335e02b) | chore: Add SDD prompt and plan for telegram\_auto\_plan\_button\_dismissal | 2026-06-25 15:40:35 EDT |
+| sase | [`02fb83e`](https://github.com/sase-org/sase/commit/02fb83e8928441bef861fdfc40cbde7d35b5388a) | feat(notifications): record handled plan actions in shared store | 2026-06-25 16:11:23 EDT |

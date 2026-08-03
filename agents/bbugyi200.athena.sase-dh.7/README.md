@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`527e645`](https://github.com/sase-org/sase/commit/527e6458225baeb0e45feb6e63e2b24900eeb3a2) | docs: document agents-sidecar prompt archives | 2026-08-01 19:56:27 |
+| sase | [`527e645`](https://github.com/sase-org/sase/commit/527e6458225baeb0e45feb6e63e2b24900eeb3a2) | docs: document agents-sidecar prompt archives | 2026-08-01 15:56:27 EDT |
 
 ## Neighbors
 

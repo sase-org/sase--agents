@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`616657f`](https://github.com/sase-org/sase/commit/616657f2b0cf4cef50cc8914d0721716b11a63a0) | fix(beads): diagnose concurrent claim recovery residue (sase-9r.8) | 2026-07-26 13:17:19 |
+| sase | [`616657f`](https://github.com/sase-org/sase/commit/616657f2b0cf4cef50cc8914d0721716b11a63a0) | fix(beads): diagnose concurrent claim recovery residue (sase-9r.8) | 2026-07-26 09:17:19 EDT |
 
 ## Neighbors
 

@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`88c49a7`](https://github.com/sase-org/sase/commit/88c49a7982fbfcaa1a2400b2f9e91b646405bce3) | fix(sdd): auto-commit separate store mutations | 2026-07-08 17:07:12 |
+| sase | [`88c49a7`](https://github.com/sase-org/sase/commit/88c49a7982fbfcaa1a2400b2f9e91b646405bce3) | fix(sdd): auto-commit separate store mutations | 2026-07-08 13:07:12 EDT |

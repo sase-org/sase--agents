@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`affbc4d`](https://github.com/sase-org/sase/commit/affbc4d4e8e2526da54c75f0d6bbdba87b2953be) | fix(vcs-log): show primary project display name | 2026-07-08 20:08:25 |
-| root | sase | [`affbc4d`](https://github.com/sase-org/sase/commit/affbc4d4e8e2526da54c75f0d6bbdba87b2953be) | fix(vcs-log): show primary project display name | 2026-07-08 20:08:25 |
+| code | sase | [`affbc4d`](https://github.com/sase-org/sase/commit/affbc4d4e8e2526da54c75f0d6bbdba87b2953be) | fix(vcs-log): show primary project display name | 2026-07-08 16:08:25 EDT |
+| root | sase | [`affbc4d`](https://github.com/sase-org/sase/commit/affbc4d4e8e2526da54c75f0d6bbdba87b2953be) | fix(vcs-log): show primary project display name | 2026-07-08 16:08:25 EDT |
 
 ## Neighbors
 

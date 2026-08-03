@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`277c3c1`](https://github.com/sase-org/sase/commit/277c3c1bb57adcba0d0ae0cb34ec4bf4762ddfb2) | test: split plan command handler tests | 2026-07-31 16:39:08 |
+| sase | [`277c3c1`](https://github.com/sase-org/sase/commit/277c3c1bb57adcba0d0ae0cb34ec4bf4762ddfb2) | test: split plan command handler tests | 2026-07-31 12:39:08 EDT |
 
 ## Neighbors
 

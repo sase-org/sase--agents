@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6b7284c`](https://github.com/sase-org/sase/commit/6b7284ce4d21a62c274bf016c9c6ef9ca4ece0f2) | feat(ace-tui): load prompt commit snapshots independently | 2026-08-02 16:02:30 |
+| sase | [`6b7284c`](https://github.com/sase-org/sase/commit/6b7284ce4d21a62c274bf016c9c6ef9ca4ece0f2) | feat(ace-tui): load prompt commit snapshots independently | 2026-08-02 12:02:30 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e737ed9`](https://github.com/sase-org/sase/commit/e737ed9f3f9e37153be5d249d125fbec81a8a510) | feat: add ACE project alias editing (sase-4c.4) | 2026-06-04 15:58:38 |
+| sase | [`e737ed9`](https://github.com/sase-org/sase/commit/e737ed9f3f9e37153be5d249d125fbec81a8a510) | feat: add ACE project alias editing (sase-4c.4) | 2026-06-04 11:58:38 EDT |
 
 ## Neighbors
 

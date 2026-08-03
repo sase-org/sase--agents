@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7917c0f`](https://github.com/sase-org/sase/commit/7917c0f79fece6d823e200233d1cc8220ab66027) | fix(tui): show clan members before summary | 2026-07-22 15:43:18 |
+| sase | [`7917c0f`](https://github.com/sase-org/sase/commit/7917c0f79fece6d823e200233d1cc8220ab66027) | fix(tui): show clan members before summary | 2026-07-22 11:43:18 EDT |

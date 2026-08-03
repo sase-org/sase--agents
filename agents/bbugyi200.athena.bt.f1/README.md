@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`24637e4`](https://github.com/sase-org/sase/commit/24637e49e213068b5dcfa1383a000f1222b8c4a9) | docs: improve sase overview infographic | 2026-07-17 13:34:52 |
+| sase | [`24637e4`](https://github.com/sase-org/sase/commit/24637e49e213068b5dcfa1383a000f1222b8c4a9) | docs: improve sase overview infographic | 2026-07-17 09:34:52 EDT |
 
 ## Neighbors
 

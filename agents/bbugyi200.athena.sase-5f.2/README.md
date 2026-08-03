@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`41b27fb`](https://github.com/sase-org/sase/commit/41b27fbaa8481568c1655feb561ac5a51063e0a2) | feat: add embedded follow-up prompt xprompts (sase-5f.2) | 2026-07-06 02:11:12 |
+| sase | [`41b27fb`](https://github.com/sase-org/sase/commit/41b27fbaa8481568c1655feb561ac5a51063e0a2) | feat: add embedded follow-up prompt xprompts (sase-5f.2) | 2026-07-05 22:11:12 EDT |
 
 ## Neighbors
 

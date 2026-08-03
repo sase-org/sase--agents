@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d370bfe`](https://github.com/sase-org/sase/commit/d370bfe163f4868c8aa8ea489c91a14ae2b34cea) | chore: Add SDD prompt and plan for onboarding\_install\_plugins\_step | 2026-07-01 11:06:05 |
-| sase | [`9e77bd3`](https://github.com/sase-org/sase/commit/9e77bd393aed7b6bf604abbfb88c7e9ed8c65784) | feat: recommend plugins during agents onboarding | 2026-07-01 11:18:17 |
+| sase | [`d370bfe`](https://github.com/sase-org/sase/commit/d370bfe163f4868c8aa8ea489c91a14ae2b34cea) | chore: Add SDD prompt and plan for onboarding\_install\_plugins\_step | 2026-07-01 07:06:05 EDT |
+| sase | [`9e77bd3`](https://github.com/sase-org/sase/commit/9e77bd393aed7b6bf604abbfb88c7e9ed8c65784) | feat: recommend plugins during agents onboarding | 2026-07-01 07:18:17 EDT |

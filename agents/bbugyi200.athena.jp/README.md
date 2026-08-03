@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`339e06f`](https://github.com/sase-org/sase/commit/339e06f651ca5268f340a4910646dc19ff491006) | fix(ace): summarize cleanup confirmations by agent lane | 2026-07-24 22:39:23 |
+| sase | [`339e06f`](https://github.com/sase-org/sase/commit/339e06f651ca5268f340a4910646dc19ff491006) | fix(ace): summarize cleanup confirmations by agent lane | 2026-07-24 18:39:23 EDT |

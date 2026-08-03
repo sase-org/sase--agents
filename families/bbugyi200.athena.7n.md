@@ -22,9 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`71207d0`](https://github.com/sase-org/sase/commit/71207d0cacde38b4c9bb214197592bbe69d66a46) | chore: Add SDD prompt and plan for macbook\_screenshots\_1 | 2026-06-14 23:23:54 |
-| root | sase | [`48143c9`](https://github.com/sase-org/sase/commit/48143c91634cfdea42839f6354cd4c9cc3b39fe6) | chore: Mark SDD plan done | 2026-06-14 23:29:53 |
-| code | sase | [`bfb468c`](https://github.com/sase-org/sase/commit/bfb468ca853939662e7ed9fc2fd5ce1c558ebc1b) | fix: auto-commit Q&A prompt snapshots | 2026-07-13 12:00:16 |
-| root | sase | [`bfb468c`](https://github.com/sase-org/sase/commit/bfb468ca853939662e7ed9fc2fd5ce1c558ebc1b) | fix: auto-commit Q&A prompt snapshots | 2026-07-13 12:00:16 |
+| root | sase | [`71207d0`](https://github.com/sase-org/sase/commit/71207d0cacde38b4c9bb214197592bbe69d66a46) | chore: Add SDD prompt and plan for macbook\_screenshots\_1 | 2026-06-14 19:23:54 EDT |
+| root | sase | [`48143c9`](https://github.com/sase-org/sase/commit/48143c91634cfdea42839f6354cd4c9cc3b39fe6) | chore: Mark SDD plan done | 2026-06-14 19:29:53 EDT |
+| code | sase | [`bfb468c`](https://github.com/sase-org/sase/commit/bfb468ca853939662e7ed9fc2fd5ce1c558ebc1b) | fix: auto-commit Q&A prompt snapshots | 2026-07-13 08:00:16 EDT |
+| root | sase | [`bfb468c`](https://github.com/sase-org/sase/commit/bfb468ca853939662e7ed9fc2fd5ce1c558ebc1b) | fix: auto-commit Q&A prompt snapshots | 2026-07-13 08:00:16 EDT |

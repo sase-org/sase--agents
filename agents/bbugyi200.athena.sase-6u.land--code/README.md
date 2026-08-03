@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d28d297`](https://github.com/sase-org/sase/commit/d28d2976bb5cb312ea2ddc92d3b7d01c309dfe1d) | feat(ace): enrich folded clan summaries | 2026-07-18 21:48:46 |
+| sase | [`d28d297`](https://github.com/sase-org/sase/commit/d28d2976bb5cb312ea2ddc92d3b7d01c309dfe1d) | feat(ace): enrich folded clan summaries | 2026-07-18 17:48:46 EDT |
 
 ## Neighbors
 

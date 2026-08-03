@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fbcfb1e`](https://github.com/sase-org/sase/commit/fbcfb1eb193c14aaeafc527c41224c03470c1d02) | feat(ace)!: separate left navigation from collapsing | 2026-07-21 18:31:57 |
+| sase | [`fbcfb1e`](https://github.com/sase-org/sase/commit/fbcfb1eb193c14aaeafc527c41224c03470c1d02) | feat(ace)!: separate left navigation from collapsing | 2026-07-21 14:31:57 EDT |
 
 ## Neighbors
 

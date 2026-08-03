@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fa6e214`](https://github.com/sase-org/sase/commit/fa6e21446401f0dff01fbb719243b40b7441c5d2) | chore: Add SDD prompt and plan for log\_panel | 2026-06-17 18:19:07 |
-| sase | [`3b17852`](https://github.com/sase-org/sase/commit/3b17852e718f82a23af6bc75379bfb5b837a732c) | chore: create log panel epic beads | 2026-06-17 18:33:15 |
+| sase | [`fa6e214`](https://github.com/sase-org/sase/commit/fa6e21446401f0dff01fbb719243b40b7441c5d2) | chore: Add SDD prompt and plan for log\_panel | 2026-06-17 14:19:07 EDT |
+| sase | [`3b17852`](https://github.com/sase-org/sase/commit/3b17852e718f82a23af6bc75379bfb5b837a732c) | chore: create log panel epic beads | 2026-06-17 14:33:15 EDT |

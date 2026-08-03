@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`99863da`](https://github.com/sase-org/sase/commit/99863da79c0003d8a3cf30cf49ff3c1f1f219a07) | ref: split memory episodes CLI handlers | 2026-05-28 23:49:35 |
+| sase | [`99863da`](https://github.com/sase-org/sase/commit/99863da79c0003d8a3cf30cf49ff3c1f1f219a07) | ref: split memory episodes CLI handlers | 2026-05-28 19:49:35 EDT |
 
 ## Neighbors
 

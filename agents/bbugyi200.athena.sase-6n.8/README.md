@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`325efd1`](https://github.com/sase-org/sase/commit/325efd1529b9f55f91f21c121a99f603d5e3c157) | docs: document agent clans, families, and tribes (sase-6n.8) | 2026-07-18 00:44:21 |
+| sase | [`325efd1`](https://github.com/sase-org/sase/commit/325efd1529b9f55f91f21c121a99f603d5e3c157) | docs: document agent clans, families, and tribes (sase-6n.8) | 2026-07-17 20:44:21 EDT |
 
 ## Neighbors
 

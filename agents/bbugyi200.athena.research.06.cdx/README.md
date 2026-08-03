@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`38c886f`](https://github.com/sase-org/sase/commit/38c886f18eeaba38b0dcfaec3f4966deec8635ad) | docs: research xprompt reasoning effort | 2026-06-22 16:36:12 |
+| sase | [`38c886f`](https://github.com/sase-org/sase/commit/38c886f18eeaba38b0dcfaec3f4966deec8635ad) | docs: research xprompt reasoning effort | 2026-06-22 12:36:12 EDT |
 
 ## Neighbors
 
