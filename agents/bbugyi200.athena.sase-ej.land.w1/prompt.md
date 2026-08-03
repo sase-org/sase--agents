@@ -1,0 +1,2 @@
+#gh:gh_sase-org__sase
+%w:sase-ej.land Can you help me revert all of the work that corresponds with the sase-e6 epic bead? I want to go back to storing prompts in chat/prompt markdown files the way we did before. Make sure you revert any existing chat/prompt markdown files that used the format introduced by sase-e6 (do not leave any backward-compatibility code for handling these obsolete chat/prompt file formats). #plan #m_opus

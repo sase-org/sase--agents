@@ -2,9 +2,9 @@
   - [bbugyi200.athena.sase-cf](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.sase-cf/README.md)
 
 [#gh:gh_sase-org__sase](https://github.com/sase-org/sase-github/blob/7dd02fcec77649b34cba23ae33f30793311869dd/src/sase_github/xprompts/gh.yml)
-[#commit](https://github.com/sase-org/sase/blob/77ef3953e5c67c8be6247c4de1e2e62c474243a3/src/sase/xprompts/commit.yml)
+[#commit](https://github.com/sase-org/sase/blob/c27c056c35fe84587cec17853ee55ad88523f282/src/sase/xprompts/commit.yml)
 %id(sase-cf, bead=sase-cf) %m:@small_phase_worker
-[#bd/work_task:sase-cf](https://github.com/sase-org/sase/blob/77ef3953e5c67c8be6247c4de1e2e62c474243a3/src/sase/default_config.yml#L1016)
+[#bd/work_task:sase-cf](https://github.com/sase-org/sase/blob/c27c056c35fe84587cec17853ee55ad88523f282/src/sase/default_config.yml#L1016)
 
 <!-- sase:section:rendered -->
 
