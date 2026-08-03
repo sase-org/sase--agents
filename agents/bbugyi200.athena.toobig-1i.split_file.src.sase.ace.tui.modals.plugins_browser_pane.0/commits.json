@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-35e434bb234639d3dcf8c988cda670e0"}
+{"commits":[{"committed_at":1785777737,"sha":"fac88efb319279e1de09a9b72b171e4d3f910fa9","subject":"refactor: split plugin browser pane responsibilities"}],"schema_version":2,"source_run_id":"run-35e434bb234639d3dcf8c988cda670e0"}

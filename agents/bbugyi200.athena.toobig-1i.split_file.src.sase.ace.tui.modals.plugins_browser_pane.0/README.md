@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-1i](../../users/bbugyi200/machines/athena/hoods/toobig-1i/README.md) / toobig-1i.split\_file.src.sase.ace.tui.modals.plugins\_browser\_pane.0
 
-**Global name:** `bbugyi200.athena.toobig-1i.split_file.src.sase.ace.tui.modals.plugins_browser_pane.0` · **State:** active · **Source run:** `run-35e434bb234639d3dcf8c988cda670e0`
+**Global name:** `bbugyi200.athena.toobig-1i.split_file.src.sase.ace.tui.modals.plugins_browser_pane.0` · **State:** completed · **Source run:** `run-35e434bb234639d3dcf8c988cda670e0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-1i
 
@@ -11,18 +11,24 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-08-03T17:01:51.982257+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`fac88ef`](https://github.com/sase-org/sase/commit/fac88efb319279e1de09a9b72b171e4d3f910fa9) | refactor: split plugin browser pane responsibilities | 2026-08-03 13:22:17 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-1i.split\_file.src.sase.ace.tui.modals.plugins\_browser\_agent\_clis.0](../bbugyi200.athena.toobig-1i.split_file.src.sase.ace.tui.modals.plugins_browser_agent_clis.0/README.md) | toobig-1i.split\_file.src.sase.ace.tui.modals hood | completed |
-| [toobig-1i.split\_file.src.sase.agent.names.\_identity\_migration\_actions.0](../bbugyi200.athena.toobig-1i.split_file.src.sase.agent.names._identity_migration_actions.0/README.md) | toobig-1i.split\_file.src.sase hood | waiting |
+| [toobig-1i.split\_file.src.sase.agent.names.\_identity\_migration\_actions.0](../bbugyi200.athena.toobig-1i.split_file.src.sase.agent.names._identity_migration_actions.0/README.md) | toobig-1i.split\_file.src.sase hood | active |
 | [toobig-1i.split\_file.src.sase.agent.names.\_registry\_scan.0](../bbugyi200.athena.toobig-1i.split_file.src.sase.agent.names._registry_scan.0/README.md) | toobig-1i.split\_file.src.sase hood | waiting |
 | [toobig-1i.split\_file.src.sase.agents\_sync.publication.0](../bbugyi200.athena.toobig-1i.split_file.src.sase.agents_sync.publication.0/README.md) | toobig-1i.split\_file.src.sase hood | waiting |
 | [toobig-1i.split\_file.src.sase.agents\_sync.publication\_outbox.0](../bbugyi200.athena.toobig-1i.split_file.src.sase.agents_sync.publication_outbox.0/README.md) | toobig-1i.split\_file.src.sase hood | waiting |
