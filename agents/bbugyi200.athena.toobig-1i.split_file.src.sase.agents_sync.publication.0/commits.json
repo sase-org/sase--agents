@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-44d2692a1402ea86666ffb68696604fe"}
+{"commits":[{"committed_at":1785780728,"sha":"fc20ba4336a043404b5fa1306a4cefaba8720425","subject":"refactor(agents-sync): split publication module"}],"schema_version":2,"source_run_id":"run-44d2692a1402ea86666ffb68696604fe"}
