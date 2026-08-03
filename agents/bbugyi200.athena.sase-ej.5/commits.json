@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4bf647eeb2e01e2e480e4ad4afbdf779"}
+{"commits":[{"committed_at":1785763125,"sha":"1116bccb0a4390e748a4042b9e92bbcb50d991a2","subject":"feat(sdd)!: keep validation green while sidecar publication is pending"}],"schema_version":2,"source_run_id":"run-4bf647eeb2e01e2e480e4ad4afbdf779"}
