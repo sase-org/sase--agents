@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6810ad783feea790bf21f308da813765"}
+{"commits":[{"committed_at":1785766306,"sha":"18d438bc066a15569c2f2faa393ffa4e1aa94f11","subject":"test(bead): guard the show speedup's end-to-end budget"}],"schema_version":2,"source_run_id":"run-6810ad783feea790bf21f308da813765"}
