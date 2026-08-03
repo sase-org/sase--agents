@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-1h.split\_file.src.sase.agents\_sync.publication\_outbox.0](../bbugyi200.athena.toobig-1h.split_file.src.sase.agents_sync.publication_outbox.0/README.md) | toobig-1h.split\_file.src.sase.agents\_sync hood | waiting |
+| [toobig-1h.split\_file.src.sase.agents\_sync.publication\_outbox.0](../bbugyi200.athena.toobig-1h.split_file.src.sase.agents_sync.publication_outbox.0/README.md) | toobig-1h.split\_file.src.sase.agents\_sync hood | completed |

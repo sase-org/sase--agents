@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2a051919d22472a45fab309d3fb7d5c4"}
+{"commits":[{"committed_at":1785772872,"sha":"028a69b59d3fe492fe26dd970893f2430300504b","subject":"refactor(agents-sync): split publication outbox module"}],"schema_version":2,"source_run_id":"run-2a051919d22472a45fab309d3fb7d5c4"}
