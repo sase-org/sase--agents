@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-ei.1--code | active | gpt-5.5 / codex | 2026-08-03T08:56:53.663502+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-ei.1--code | active | gpt-5.5 / codex | 2026-08-03T08:56:53.663502+00:00 | [1](../agents/bbugyi200.athena.sase-ei.1--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-ei.1--plan | active | gpt-5.6-sol / codex | 2026-08-03T08:49:29.211823+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ei.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ei.1--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`b763878`](https://github.com/sase-org/sase/commit/b763878d3dc938672722d6053737f8e706cdc180) | feat(beads): expose prefix migration facade | 2026-08-03 11:59:00 |
 
 ## Neighbors
 

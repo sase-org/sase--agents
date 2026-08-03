@@ -11,7 +11,13 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-03T08:56:53.663502+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`b763878`](https://github.com/sase-org/sase/commit/b763878d3dc938672722d6053737f8e706cdc180) | feat(beads): expose prefix migration facade | 2026-08-03 11:59:00 |
 
 ## Neighbors
 

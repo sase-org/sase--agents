@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-86deff1c9ef7bdbcceff1dfca0c33299"}
+{"commits":[{"committed_at":1785758340,"sha":"b763878d3dc938672722d6053737f8e706cdc180","subject":"feat(beads): expose prefix migration facade"}],"schema_version":2,"source_run_id":"run-86deff1c9ef7bdbcceff1dfca0c33299"}
