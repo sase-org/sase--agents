@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a86fff18d2e7714eb7f6e51363e23bff"}
+{"commits":[{"committed_at":1785579435,"sha":"d462e97bbdf23f624c96683a63da56a22617b8e6","subject":"fix(deps): raise sase-core-rs floor to 0.17.4 for bead_update_many binding (#270)"}],"schema_version":2,"source_run_id":"run-a86fff18d2e7714eb7f6e51363e23bff"}
