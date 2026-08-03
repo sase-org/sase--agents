@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sl` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["sl--plan [active]"]
-  n1["sl--code [active]"]
+  n0["sl--plan [completed]"]
+  n1["sl--code [completed]"]
   n0 --> n1
 ```
 
@@ -17,5 +17,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sl--plan | active | opus / claude | 2026-08-03T10:57:42.025249+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sl--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sl--plan/chat.md) |
-| <a id="member-code"></a>code | sl--code | active | gpt-5.5 / codex | 2026-08-03T11:13:19.263774+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sl--plan | completed | opus / claude | 2026-08-03T10:57:42.025249+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sl--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sl--plan/chat.md) |
+| <a id="member-code"></a>code | sl--code | completed | gpt-5.5 / codex | 2026-08-03T11:13:19.263774+00:00 | [1](../agents/bbugyi200.athena.sl--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sl--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | sase | [`e257d6b`](https://github.com/sase-org/sase/commit/e257d6b1b2da21d1b59414fe7fc1214b37aa5659) | feat(cli)!: wrap bead show prose | 2026-08-03 12:08:30 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sl.f1](../agents/bbugyi200.athena.sl.f1/README.md) | descendant | failed |

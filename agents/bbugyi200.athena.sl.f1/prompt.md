@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:sl Can you now help me make the `sase bead show` command MUCH faster? #plan #m_opus
