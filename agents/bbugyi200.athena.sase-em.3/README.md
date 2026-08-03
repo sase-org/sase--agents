@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260803080139
+- Timing: 2026-08-03T13:29:26.600925+00:00
 - Commits: 0
 
 ## Files
@@ -22,8 +22,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-em.1](../bbugyi200.athena.sase-em.1/README.md) | sase-em hood | completed |
-| [sase-em.2](../bbugyi200.athena.sase-em.2/README.md) | sase-em hood | waiting |
-| [sase-em.4](../bbugyi200.athena.sase-em.4/README.md) | sase-em hood | waiting |
-| [sase-em.5](../bbugyi200.athena.sase-em.5/README.md) | sase-em hood | waiting |
+| [sase-em.2](../bbugyi200.athena.sase-em.2/README.md) | sase-em hood | completed |
+| [sase-em.4](../bbugyi200.athena.sase-em.4/README.md) | sase-em hood | active |
+| [sase-em.5](../bbugyi200.athena.sase-em.5/README.md) | sase-em hood | active |
 | [sase-em.6](../bbugyi200.athena.sase-em.6/README.md) | sase-em hood | waiting |
 | [sase-em.land](../bbugyi200.athena.sase-em.land/README.md) | sase-em hood | waiting |

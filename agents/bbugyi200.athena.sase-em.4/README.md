@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-em](../../users/bbugyi200/machines/athena/hoods/sase-em/README.md) / sase-em.4
 
-**Global name:** `bbugyi200.athena.sase-em.4` · **State:** waiting · **Source run:** `run-7405b775d8d35363bee57b067129e280`
+**Global name:** `bbugyi200.athena.sase-em.4` · **State:** active · **Source run:** `run-7405b775d8d35363bee57b067129e280`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-em
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260803080140
+- Timing: 2026-08-03T13:06:40.794898+00:00
 - Commits: 0
 
 ## Files
@@ -22,8 +22,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-em.1](../bbugyi200.athena.sase-em.1/README.md) | sase-em hood | completed |
-| [sase-em.2](../bbugyi200.athena.sase-em.2/README.md) | sase-em hood | waiting |
+| [sase-em.2](../bbugyi200.athena.sase-em.2/README.md) | sase-em hood | completed |
 | [sase-em.3](../bbugyi200.athena.sase-em.3/README.md) | sase-em hood | active |
-| [sase-em.5](../bbugyi200.athena.sase-em.5/README.md) | sase-em hood | waiting |
+| [sase-em.5](../bbugyi200.athena.sase-em.5/README.md) | sase-em hood | active |
 | [sase-em.6](../bbugyi200.athena.sase-em.6/README.md) | sase-em hood | waiting |
 | [sase-em.land](../bbugyi200.athena.sase-em.land/README.md) | sase-em hood | waiting |
