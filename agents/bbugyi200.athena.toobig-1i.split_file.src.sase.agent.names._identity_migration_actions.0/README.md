@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-1i](../../users/bbugyi200/machines/athena/hoods/toobig-1i/README.md) / toobig-1i.split\_file.src.sase.agent.names.\_identity\_migration\_actions.0
 
-**Global name:** `bbugyi200.athena.toobig-1i.split_file.src.sase.agent.names._identity_migration_actions.0` · **State:** active · **Source run:** `run-198958d7e6c16535763a0203f315c408`
+**Global name:** `bbugyi200.athena.toobig-1i.split_file.src.sase.agent.names._identity_migration_actions.0` · **State:** completed · **Source run:** `run-198958d7e6c16535763a0203f315c408`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-1i
 
@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-08-03T17:22:46.292886+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8b367b9`](https://github.com/sase-org/sase/commit/8b367b99b776d8966ddabe41117728a392fcec20) | refactor(agent-names): split identity migration actions | 2026-08-03 13:37:26 EDT |
 
 ## Neighbors
 
