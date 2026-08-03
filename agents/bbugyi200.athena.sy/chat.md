@@ -6,31 +6,6 @@
 
 **Plan:** /home/bryan/.sase/plans/202608/revert_bead_reprefix_epic.md
 
-
-<!-- sase:section:xprompt -->
-
-## Agent XPrompt
-
-#gh:gh_sase-org__sase Can you help me revert all of the work associated with the sase-ei epic bead? The bob-cli sase project is the only project that was affected by this. Just fix that repo and its bead names / agent names manually. #plan #m_opus
-
-<!-- /sase:section:xprompt -->
-
-<!-- sase:section:rendered -->
-
-<details>
-<summary><b>Agent Prompt</b> — rendered, 503 B</summary>
-
-```markdown
-#gh:gh_sase-org__sase Can you help me revert all of the work associated with the sase-ei epic bead? The bob-cli sase project is the only project that was affected by this. Just fix that repo and its bead names / agent names manually. Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate
-tier, validate and revalidate until it passes, then submit it with `sase plan propose` (as the skill instructs)
-before making any file changes.
- %model:opus
-```
-
-</details>
-
-<!-- /sase:section:rendered -->
-
 ## Prompt
 
 #gh:gh_sase-org__sase Can you help me revert all of the work associated with the sase-ei epic bead? The bob-cli sase project is the only project that was affected by this. Just fix that repo and its bead names / agent names manually. Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate

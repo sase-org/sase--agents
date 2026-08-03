@@ -9,38 +9,6 @@
 - 1. --plan — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_el_land__plan-260803_065405.md`
 - **2. --code** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_el_land__code-260803_065405.md`
 
-<!-- sase:section:xprompt -->
-
-## Agent XPrompt
-
-[#gh:gh_sase-org__sase](https://github.com/sase-org/sase-github/blob/7dd02fcec77649b34cba23ae33f30793311869dd/src/sase_github/xprompts/gh.yml)
-%id(land, clan=sase-el, bead=sase-el)
-%model:@epic_lander
-%auto
-%w:sase-el.1,sase-el.2,sase-el.3,sase-el.4
-%w(bead=sase-el.1)
-%w(bead=sase-el.2)
-%w(bead=sase-el.3)
-%w(bead=sase-el.4)
-[#bd/land_epic:sase-el](https://github.com/sase-org/sase/blob/6424082f968b220212dd3656413d076fd1ce9fb0/src/sase/default_config.yml#L968)
-
-<!-- /sase:section:xprompt -->
-
-<!-- sase:section:rendered -->
-
-<details>
-<summary><b>Agent Prompt</b> — rendered, 124 B</summary>
-
-```markdown
-@sase/repos/plans/202608/land_agent_cli_update_history.md
-
-The above plan has been reviewed and approved. Implement it now.
-```
-
-</details>
-
-<!-- /sase:section:rendered -->
-
 ## Prompt
 
 %model:@codex_coder

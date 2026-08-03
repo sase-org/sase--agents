@@ -11,31 +11,6 @@
 
 **Plan:** /home/bryan/.sase/plans/202608/cheap_and_medium_phase_worker_defaults.md
 
-
-<!-- sase:section:xprompt -->
-
-## Agent XPrompt
-
-#gh:gh_sase-org__sase Can you help me change the default value used by the `@cheap` model alias to `claude/sonnet@xhigh | codex/gpt-5.5@medium`? Also, for the `@medium_phase_worker` model alias, let's start using `codex/gpt-5.5@xhigh` as the default value. #plan #m_opus
-
-<!-- /sase:section:xprompt -->
-
-<!-- sase:section:rendered -->
-
-<details>
-<summary><b>Agent Prompt</b> — rendered, 526 B</summary>
-
-```markdown
-#gh:gh_sase-org__sase Can you help me change the default value used by the `@cheap` model alias to `claude/sonnet@xhigh | codex/gpt-5.5@medium`? Also, for the `@medium_phase_worker` model alias, let's start using `codex/gpt-5.5@xhigh` as the default value. Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate
-tier, validate and revalidate until it passes, then submit it with `sase plan propose` (as the skill instructs)
-before making any file changes.
- %model:opus
-```
-
-</details>
-
-<!-- /sase:section:rendered -->
-
 ## Prompt
 
 #gh:gh_sase-org__sase Can you help me change the default value used by the `@cheap` model alias to `claude/sonnet@xhigh | codex/gpt-5.5@medium`? Also, for the `@medium_phase_worker` model alias, let's start using `codex/gpt-5.5@xhigh` as the default value. Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate

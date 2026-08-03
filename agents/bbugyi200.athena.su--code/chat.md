@@ -9,29 +9,6 @@
 - 1. --plan — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-su__plan-260803_084349.md`
 - **2. --code** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-su__code-260803_084349.md`
 
-<!-- sase:section:xprompt -->
-
-## Agent XPrompt
-
-[#gh:gh_sase-org__sase](https://github.com/sase-org/sase-github/blob/7dd02fcec77649b34cba23ae33f30793311869dd/src/sase_github/xprompts/gh.yml) This name collision error (see ~/tmp/screenshots/20260803_083948.png) seems to happen when plans are approved for `foo` agents when the `foo` agent hood already exists (in this case, it was because I had already targeted this agent name with `#fork` for a different agent's prompt). Agent family members should always bypass this validation. Can you help me fix this? [#plan](https://github.com/sase-org/sase/blob/3ac2b097beac842dc02df1edf88704ff87cd351d/src/sase/default_config.yml#L1053) [#m_opus](https://github.com/bbugyi200/dotfiles/blob/c4d233bb350f92377d02a1e754f992395a0947c3/home/dot_config/sase/sase.yml#L234)
-
-<!-- /sase:section:xprompt -->
-
-<!-- sase:section:rendered -->
-
-<details>
-<summary><b>Agent Prompt</b> — rendered, 121 B</summary>
-
-```markdown
-@sase/repos/plans/202608/family_hood_name_collision.md
-
-The above plan has been reviewed and approved. Implement it now.
-```
-
-</details>
-
-<!-- /sase:section:rendered -->
-
 ## Prompt
 
 %model:@claude_coder

@@ -9,29 +9,6 @@
 - 1. --plan — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-se__plan-260802_154407.md`
 - **2. --code** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-se__code-260802_154407.md`
 
-<!-- sase:section:xprompt -->
-
-## Agent XPrompt
-
-[#gh:gh_sase-org__sase](https://github.com/sase-org/sase-github/blob/7dd02fcec77649b34cba23ae33f30793311869dd/src/sase_github/xprompts/gh.yml) Something caused the failure of the ~/.sase/plans/202608/priority_property.md epic plan's launch via the `sase bead work` command. See relevant sase logs for details. Can you help me diagnose the root cause of this issue, fix it, and then launch the epic by running the appropriate command? [#plan](https://github.com/sase-org/sase/blob/fbe7a6fb6d2a6ee48a96c0de4e61245dfb813092/src/sase/default_config.yml#L1033) [#m_opus](https://github.com/bbugyi200/dotfiles/blob/0945392321d67fd9559dc06dcfcec7c94522648d/home/dot_config/sase/sase.yml#L234)
-
-<!-- /sase:section:xprompt -->
-
-<!-- sase:section:rendered -->
-
-<details>
-<summary><b>Agent Prompt</b> — rendered, 121 B</summary>
-
-```markdown
-@sase/repos/plans/202608/dev_update_code_swap_guard.md
-
-The above plan has been reviewed and approved. Implement it now.
-```
-
-</details>
-
-<!-- /sase:section:rendered -->
-
 ## Prompt
 
 %model:@claude_coder

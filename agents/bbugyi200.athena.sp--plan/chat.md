@@ -11,30 +11,6 @@
 
 **Plan:** /home/bryan/.sase/plans/202608/coder_alias_default.md
 
-
-<!-- sase:section:xprompt -->
-
-## Agent XPrompt
-
-#gh:gh_sase-org__sase Can you help me set the default value for the `@coder` model alias to `codex/gpt-5.5`? You should then be able to remove the default values for the `@claude_coder` and `@codex_coder` model aliases since these can now just use `@coder` as their default values. #plan
-
-<!-- /sase:section:xprompt -->
-
-<!-- sase:section:rendered -->
-
-<details>
-<summary><b>Agent Prompt</b> — rendered, 539 B</summary>
-
-```markdown
-#gh:gh_sase-org__sase Can you help me set the default value for the `@coder` model alias to `codex/gpt-5.5`? You should then be able to remove the default values for the `@claude_coder` and `@codex_coder` model aliases since these can now just use `@coder` as their default values. Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate
-tier, validate and revalidate until it passes, then submit it with `sase plan propose` (as the skill instructs)
-before making any file changes.
-```
-
-</details>
-
-<!-- /sase:section:rendered -->
-
 ## Prompt
 
 #gh:gh_sase-org__sase Can you help me set the default value for the `@coder` model alias to `codex/gpt-5.5`? You should then be able to remove the default values for the `@claude_coder` and `@codex_coder` model aliases since these can now just use `@coder` as their default values. Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate

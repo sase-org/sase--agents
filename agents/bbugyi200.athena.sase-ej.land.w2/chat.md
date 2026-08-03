@@ -6,33 +6,6 @@
 
 **Plan:** /home/bryan/.sase/plans/202608/revert_stored_prompt_duality.md
 
-
-<!-- sase:section:xprompt -->
-
-## Agent XPrompt
-
-#gh:gh_sase-org__sase
-%w:sase-ej.land Can you help me revert all of the work that corresponds with the sase-e6 epic bead? I want to go back to storing prompts in chat/prompt markdown files the way we did before. Make sure you revert any existing chat/prompt markdown files that used the format introduced by sase-e6 (do not leave any backward-compatibility code for handling these obsolete chat/prompt file formats). #plan #m_opus
-
-<!-- /sase:section:xprompt -->
-
-<!-- sase:section:rendered -->
-
-<details>
-<summary><b>Agent Prompt</b> — rendered, 686 B</summary>
-
-```markdown
-#gh:gh_sase-org__sase
-%w:sase-ej.land Can you help me revert all of the work that corresponds with the sase-e6 epic bead? I want to go back to storing prompts in chat/prompt markdown files the way we did before. Make sure you revert any existing chat/prompt markdown files that used the format introduced by sase-e6 (do not leave any backward-compatibility code for handling these obsolete chat/prompt file formats). Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate
-tier, validate and revalidate until it passes, then submit it with `sase plan propose` (as the skill instructs)
-before making any file changes.
- %model:opus
-```
-
-</details>
-
-<!-- /sase:section:rendered -->
-
 ## Prompt
 
 #gh:gh_sase-org__sase

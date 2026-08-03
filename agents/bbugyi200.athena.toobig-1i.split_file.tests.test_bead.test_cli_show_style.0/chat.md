@@ -5,32 +5,6 @@
 - **AGENT:** toobig-1i.split_file.tests.test_bead.test_cli_show_style.0
 - **PROMPT:** `~/.sase/multi_prompts/202608/sase_org_sase-multiprompt-260803_124106.md`
 
-<!-- sase:section:xprompt -->
-
-## Agent XPrompt
-
-[#gh:sase-org/sase](https://github.com/sase-org/sase-github/blob/7dd02fcec77649b34cba23ae33f30793311869dd/src/sase_github/xprompts/gh.yml)
-%id(split_file.tests.test_bead.test_cli_show_style.0, clan=toobig-1i)
-%wait:toobig-1i.split_file.src.sase.agents_sync.publication_outbox.0
-%wait(runners=3)
-%auto %wait(priority=20) [#split_file:tests/test_bead/test_cli_show_style.py](https://github.com/sase-org/sase/blob/0f19ffc66a0c3143d7010047767b64d7d49a0bf3/src/sase/xprompts/split_file.md)
-
-<!-- /sase:section:xprompt -->
-
-<!-- sase:section:rendered -->
-
-<details>
-<summary><b>Agent Prompt</b> — rendered, 174 B</summary>
-
-```markdown
-Can you help me split the `tests/test_bead/test_cli_show_style.py` file up into multiple files? Use your best
-judgement, but let's aim to keep all files <=500 lines of code.
-```
-
-</details>
-
-<!-- /sase:section:rendered -->
-
 ## Prompt
 
 #gh:sase-org/sase

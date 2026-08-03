@@ -9,35 +9,6 @@
 - 1. --plan — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ei_1__plan-260803_044909.md`
 - **2. --code** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ei_1__code-260803_044909.md`
 
-<!-- sase:section:xprompt -->
-
-## Agent XPrompt
-
-[#gh:gh_sase-org__sase](https://github.com/sase-org/sase-github/blob/7dd02fcec77649b34cba23ae33f30793311869dd/src/sase_github/xprompts/gh.yml)
-%id(sase-ei.1, bead=sase-ei.1)
-%clan(sase-ei, tribe=epic, summary_script=sase_clan_summary_epic)
-%model:@large_phase_worker
-%auto
-[#bd/work_phase_bead:sase-ei.1](https://github.com/sase-org/sase/blob/55eb24331e77f758be540d45c9db4451cac84b5e/src/sase/default_config.yml#L1002)
-[#plan](https://github.com/sase-org/sase/blob/55eb24331e77f758be540d45c9db4451cac84b5e/src/sase/default_config.yml#L1033)
-
-<!-- /sase:section:xprompt -->
-
-<!-- sase:section:rendered -->
-
-<details>
-<summary><b>Agent Prompt</b> — rendered, 123 B</summary>
-
-```markdown
-@sase/repos/plans/202608/rust_bead_reprefix_primitive.md
-
-The above plan has been reviewed and approved. Implement it now.
-```
-
-</details>
-
-<!-- /sase:section:rendered -->
-
 ## Prompt
 
 %model:@codex_coder

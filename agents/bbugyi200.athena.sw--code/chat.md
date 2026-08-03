@@ -9,29 +9,6 @@
 - 1. --plan — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sw__plan-260803_095141.md`
 - **2. --code** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sw__code-260803_095141.md`
 
-<!-- sase:section:xprompt -->
-
-## Agent XPrompt
-
-[#gh:gh_sase-org__sase](https://github.com/sase-org/sase-github/blob/7dd02fcec77649b34cba23ae33f30793311869dd/src/sase_github/xprompts/gh.yml) Can you help me change the default value used by the `@cheap` model alias to `claude/sonnet@xhigh | codex/gpt-5.5@medium`? Also, for the `@medium_phase_worker` model alias, let's start using `codex/gpt-5.5@xhigh` as the default value. [#plan](https://github.com/sase-org/sase/blob/6424082f968b220212dd3656413d076fd1ce9fb0/src/sase/default_config.yml#L1052) [#m_opus](https://github.com/bbugyi200/dotfiles/blob/08917615117076bc72f19a6699471f0f150069e0/home/dot_config/sase/sase.yml#L238)
-
-<!-- /sase:section:xprompt -->
-
-<!-- sase:section:rendered -->
-
-<details>
-<summary><b>Agent Prompt</b> — rendered, 133 B</summary>
-
-```markdown
-@sase/repos/plans/202608/cheap_and_medium_phase_worker_defaults.md
-
-The above plan has been reviewed and approved. Implement it now.
-```
-
-</details>
-
-<!-- /sase:section:rendered -->
-
 ## Prompt
 
 %model:@claude_coder

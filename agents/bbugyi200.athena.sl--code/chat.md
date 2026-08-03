@@ -9,39 +9,6 @@
 - 1. --plan — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sl__plan-260803_065707.md`
 - **2. --code** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sl__code-260803_065707.md`
 
-<!-- sase:section:xprompt -->
-
-## Agent XPrompt
-
-[#gh:gh_sase-org__sase](https://github.com/sase-org/sase-github/blob/7dd02fcec77649b34cba23ae33f30793311869dd/src/sase_github/xprompts/gh.yml) Can you help me start wrapping the description/note text displayed by
-the `sase bead show` command at a specific line length?
-
-- Default to 120 characters, but add a new CLI option to make this configurable.
-- Also, let's remove the `-S|--style` options supported `color` value (which
-  seems to be same as `rich`) and change the short-option for this CLI option
-  from `-S` to `-s`.
-- Make sure we don't wrap URLs or inline code snippets (ex: `foo bar baz`).
-- [#beau](https://github.com/bbugyi200/dotfiles/blob/c4d233bb350f92377d02a1e754f992395a0947c3/home/dot_config/sase/sase.yml#L217)
-
-[#plan](https://github.com/sase-org/sase/blob/a5aa2e9c0e426b78910a73bf7e3037e0de8d9450/src/sase/default_config.yml#L1033) [#m_opus](https://github.com/bbugyi200/dotfiles/blob/c4d233bb350f92377d02a1e754f992395a0947c3/home/dot_config/sase/sase.yml#L234)
-
-<!-- /sase:section:xprompt -->
-
-<!-- sase:section:rendered -->
-
-<details>
-<summary><b>Agent Prompt</b> — rendered, 115 B</summary>
-
-```markdown
-@sase/repos/plans/202608/bead_show_prose_wrap.md
-
-The above plan has been reviewed and approved. Implement it now.
-```
-
-</details>
-
-<!-- /sase:section:rendered -->
-
 ## Prompt
 
 %model:@claude_coder

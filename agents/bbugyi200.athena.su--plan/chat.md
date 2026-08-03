@@ -11,31 +11,6 @@
 
 **Plan:** /home/bryan/.sase/plans/202608/family_hood_name_collision.md
 
-
-<!-- sase:section:xprompt -->
-
-## Agent XPrompt
-
-#gh:gh_sase-org__sase This name collision error (see ~/tmp/screenshots/20260803_083948.png) seems to happen when plans are approved for `foo` agents when the `foo` agent hood already exists (in this case, it was because I had already targeted this agent name with `#fork` for a different agent's prompt). Agent family members should always bypass this validation. Can you help me fix this? #plan #m_opus
-
-<!-- /sase:section:xprompt -->
-
-<!-- sase:section:rendered -->
-
-<details>
-<summary><b>Agent Prompt</b> — rendered, 659 B</summary>
-
-```markdown
-#gh:gh_sase-org__sase This name collision error (see ~/tmp/screenshots/20260803_083948.png) seems to happen when plans are approved for `foo` agents when the `foo` agent hood already exists (in this case, it was because I had already targeted this agent name with `#fork` for a different agent's prompt). Agent family members should always bypass this validation. Can you help me fix this? Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate
-tier, validate and revalidate until it passes, then submit it with `sase plan propose` (as the skill instructs)
-before making any file changes.
- %model:opus
-```
-
-</details>
-
-<!-- /sase:section:rendered -->
-
 ## Prompt
 
 #gh:gh_sase-org__sase This name collision error (see ~/tmp/screenshots/20260803_083948.png) seems to happen when plans are approved for `foo` agents when the `foo` agent hood already exists (in this case, it was because I had already targeted this agent name with `#fork` for a different agent's prompt). Agent family members should always bypass this validation. Can you help me fix this? Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate
