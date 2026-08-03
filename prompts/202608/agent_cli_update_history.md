@@ -6,7 +6,7 @@
 [#gh:gh_sase-org__sase](https://github.com/sase-org/sase-github/blob/7dd02fcec77649b34cba23ae33f30793311869dd/src/sase_github/xprompts/gh.yml)
 %id(sase-el.1, bead=sase-el.1) %clan(sase-el, tribe=epic, summary_script=sase_clan_summary_epic)
 %model:@medium_phase_worker %auto
-[#bd/work_phase_bead:sase-el.1](https://github.com/sase-org/sase/blob/70410a05b1a6250bbe6adb86c41a65cbef827e9b/src/sase/default_config.yml#L1002)
+[#bd/work_phase_bead:sase-el.1](https://github.com/sase-org/sase/blob/55eb24331e77f758be540d45c9db4451cac84b5e/src/sase/default_config.yml#L1002)
 
 <!-- sase:section:rendered -->
 

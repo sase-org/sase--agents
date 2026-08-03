@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-61d5ffacca347f5438eccdc19daaf04d"}
+{"commits":[{"committed_at":1785755336,"sha":"70410a05b1a6250bbe6adb86c41a65cbef827e9b","subject":"feat(artifact-refs): propagate repository kind into wire form and parity test"}],"schema_version":2,"source_run_id":"run-61d5ffacca347f5438eccdc19daaf04d"}
