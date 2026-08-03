@@ -25,7 +25,7 @@
 | [sase-ej.land.w0](../bbugyi200.athena.sase-ej.land.w0/README.md) | sase-ej.land hood | dismissed |
 | [sase-ej.1](../bbugyi200.athena.sase-ej.1/README.md) | sase-ej hood | active |
 | [sase-ej.2](../bbugyi200.athena.sase-ej.2/README.md) | sase-ej hood | completed |
-| [sase-ej.3](../bbugyi200.athena.sase-ej.3/README.md) | sase-ej hood | active |
-| [sase-ej.4](../bbugyi200.athena.sase-ej.4/README.md) | sase-ej hood | waiting |
+| [sase-ej.3](../bbugyi200.athena.sase-ej.3/README.md) | sase-ej hood | completed |
+| [sase-ej.4](../bbugyi200.athena.sase-ej.4/README.md) | sase-ej hood | active |
 | [sase-ej.5](../bbugyi200.athena.sase-ej.5/README.md) | sase-ej hood | waiting |
 | [sase-ej.6](../bbugyi200.athena.sase-ej.6/README.md) | sase-ej hood | waiting |
