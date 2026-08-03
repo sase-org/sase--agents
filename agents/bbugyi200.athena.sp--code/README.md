@@ -11,4 +11,10 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-03T12:16:39.304997+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`aace448`](https://github.com/sase-org/sase/commit/aace4488ded58da60877f75972abd48bd2156c7c) | fix(llm): route provider coder aliases through shared coder default | 2026-08-03 13:05:12 |
