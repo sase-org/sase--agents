@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-ei.1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ei_1__plan-260803_044909.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ei_1__code-260803_044909.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/rust_bead_reprefix_primitive.md
 
 

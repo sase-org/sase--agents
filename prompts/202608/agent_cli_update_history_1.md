@@ -5,7 +5,7 @@
 
 [#gh:gh_sase-org__sase](https://github.com/sase-org/sase-github/blob/7dd02fcec77649b34cba23ae33f30793311869dd/src/sase_github/xprompts/gh.yml)
 %id(2, clan=sase-el, bead=sase-el.2) %model:@small_phase_worker %auto %w:sase-el.1 %w(bead=sase-el.1)
-[#bd/work_phase_bead:sase-el.2](https://github.com/sase-org/sase/blob/a5aa2e9c0e426b78910a73bf7e3037e0de8d9450/src/sase/default_config.yml#L1002)
+[#bd/work_phase_bead:sase-el.2](https://github.com/sase-org/sase/blob/e4ad939168acf54a963c5a404a39cbd059ef969e/src/sase/default_config.yml#L1002)
 
 <!-- sase:section:rendered -->
 

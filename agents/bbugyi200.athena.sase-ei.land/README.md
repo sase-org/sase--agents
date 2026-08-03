@@ -21,8 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ei.1](../../families/bbugyi200.athena.sase-ei.1.md) (family · 2) | sase-ei hood | active 2 |
-| [sase-ei.2](../bbugyi200.athena.sase-ei.2/README.md) | sase-ei hood | waiting |
-| [sase-ei.3](../bbugyi200.athena.sase-ei.3/README.md) | sase-ei hood | waiting |
+| [sase-ei.1](../../families/bbugyi200.athena.sase-ei.1.md) (family · 2) | sase-ei hood | completed 2 |
+| [sase-ei.2](../bbugyi200.athena.sase-ei.2/README.md) | sase-ei hood | active |
+| [sase-ei.3](../../families/bbugyi200.athena.sase-ei.3.md) (family · 2) | sase-ei hood | active 2 |
 | [sase-ei.4](../bbugyi200.athena.sase-ei.4/README.md) | sase-ei hood | waiting |
 | [sase-ei.5](../bbugyi200.athena.sase-ei.5/README.md) | sase-ei hood | waiting |

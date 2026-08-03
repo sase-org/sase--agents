@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-9f0fbe9496664ebfa514d46babb2800d"}
+{"commits":[{"committed_at":1785758772,"sha":"e4ad939168acf54a963c5a404a39cbd059ef969e","subject":"feat(agent-clis): wire update history into pane load, config, and session state"}],"schema_version":2,"source_run_id":"run-9f0fbe9496664ebfa514d46babb2800d"}
