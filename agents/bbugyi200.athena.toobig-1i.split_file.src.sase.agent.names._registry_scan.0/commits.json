@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c943db666818166d74134afc670cded2"}
+{"commits":[{"committed_at":1785779600,"sha":"d317ab9ce2d5c1383967f5878a2dce44386b294f","subject":"refactor(agent-names): split registry scan responsibilities"}],"schema_version":2,"source_run_id":"run-c943db666818166d74134afc670cded2"}
