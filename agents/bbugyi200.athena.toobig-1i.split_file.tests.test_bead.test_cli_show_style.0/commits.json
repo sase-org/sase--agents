@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3e9a6beb2682489c32b19f12e7bf96af"}
+{"commits":[{"committed_at":1785782590,"sha":"3f03b0a8f3b40db18af385988378753b06eb5710","subject":"test(bead): split CLI show style tests"}],"schema_version":2,"source_run_id":"run-3e9a6beb2682489c32b19f12e7bf96af"}

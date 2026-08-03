@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-1i](../../users/bbugyi200/machines/athena/hoods/toobig-1i/README.md) / toobig-1i.split\_file.tests.test\_bead.test\_cli\_show\_style.0
 
-**Global name:** `bbugyi200.athena.toobig-1i.split_file.tests.test_bead.test_cli_show_style.0` · **State:** active · **Source run:** `run-3e9a6beb2682489c32b19f12e7bf96af`
+**Global name:** `bbugyi200.athena.toobig-1i.split_file.tests.test_bead.test_cli_show_style.0` · **State:** completed · **Source run:** `run-3e9a6beb2682489c32b19f12e7bf96af`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-1i
 
@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-08-03T18:27:49.148670+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3f03b0a`](https://github.com/sase-org/sase/commit/3f03b0a8f3b40db18af385988378753b06eb5710) | test(bead): split CLI show style tests | 2026-08-03 14:43:10 EDT |
 
 ## Neighbors
 
