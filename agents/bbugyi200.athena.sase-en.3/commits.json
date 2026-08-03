@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-08f8db07d82301333f5751f0051f2d8f"}
+{"commits":[{"committed_at":1785764290,"sha":"7a66461b98890f66413bfbc67bc7a6d90b2c736f","subject":"perf(bead): resolve detail from one core snapshot"}],"schema_version":2,"source_run_id":"run-08f8db07d82301333f5751f0051f2d8f"}
