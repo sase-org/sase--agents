@@ -33,4 +33,4 @@
 | [toobig-1i.split\_file.src.sase.agent.names.\_identity\_migration\_actions.0](../bbugyi200.athena.toobig-1i.split_file.src.sase.agent.names._identity_migration_actions.0/README.md) | toobig-1i.split\_file.src.sase hood | completed |
 | [toobig-1i.split\_file.src.sase.agent.names.\_registry\_scan.0](../bbugyi200.athena.toobig-1i.split_file.src.sase.agent.names._registry_scan.0/README.md) | toobig-1i.split\_file.src.sase hood | completed |
 | [toobig-1i.split\_file.tests.test\_bead.test\_cli\_show\_style.0](../bbugyi200.athena.toobig-1i.split_file.tests.test_bead.test_cli_show_style.0/README.md) | toobig-1i.split\_file hood | completed |
-| [toobig-1i.split\_file.tests.test\_timezone\_display\_consistency.0](../bbugyi200.athena.toobig-1i.split_file.tests.test_timezone_display_consistency.0/README.md) | toobig-1i.split\_file hood | waiting |
+| [toobig-1i.split\_file.tests.test\_timezone\_display\_consistency.0](../bbugyi200.athena.toobig-1i.split_file.tests.test_timezone_display_consistency.0/README.md) | toobig-1i.split\_file hood | completed |

@@ -27,7 +27,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-1i.split\_file.tests.test\_timezone\_display\_consistency.0](../bbugyi200.athena.toobig-1i.split_file.tests.test_timezone_display_consistency.0/README.md) | toobig-1i.split\_file.tests hood | waiting |
+| [toobig-1i.split\_file.tests.test\_timezone\_display\_consistency.0](../bbugyi200.athena.toobig-1i.split_file.tests.test_timezone_display_consistency.0/README.md) | toobig-1i.split\_file.tests hood | completed |
 | [toobig-1i.split\_file.src.sase.ace.tui.modals.plugins\_browser\_agent\_clis.0](../bbugyi200.athena.toobig-1i.split_file.src.sase.ace.tui.modals.plugins_browser_agent_clis.0/README.md) | toobig-1i.split\_file hood | completed |
 | [toobig-1i.split\_file.src.sase.ace.tui.modals.plugins\_browser\_pane.0](../bbugyi200.athena.toobig-1i.split_file.src.sase.ace.tui.modals.plugins_browser_pane.0/README.md) | toobig-1i.split\_file hood | completed |
 | [toobig-1i.split\_file.src.sase.agent.names.\_identity\_migration\_actions.0](../bbugyi200.athena.toobig-1i.split_file.src.sase.agent.names._identity_migration_actions.0/README.md) | toobig-1i.split\_file hood | completed |
