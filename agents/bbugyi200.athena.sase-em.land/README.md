@@ -24,6 +24,6 @@
 | [sase-em.1](../bbugyi200.athena.sase-em.1/README.md) | sase-em hood | completed |
 | [sase-em.2](../bbugyi200.athena.sase-em.2/README.md) | sase-em hood | completed |
 | [sase-em.3](../bbugyi200.athena.sase-em.3/README.md) | sase-em hood | active |
-| [sase-em.4](../bbugyi200.athena.sase-em.4/README.md) | sase-em hood | active |
+| [sase-em.4](../bbugyi200.athena.sase-em.4/README.md) | sase-em hood | completed |
 | [sase-em.5](../bbugyi200.athena.sase-em.5/README.md) | sase-em hood | completed |
 | [sase-em.6](../bbugyi200.athena.sase-em.6/README.md) | sase-em hood | waiting |

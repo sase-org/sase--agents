@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c7c672f32650649bf4fd9bc782e5a894"}
+{"commits":[{"committed_at":1785764910,"sha":"eda7c1564387abf356e601dd32d86c68b4efedd8","subject":"fix(artifacts): mint timestamps in the configured timezone"}],"schema_version":2,"source_run_id":"run-c7c672f32650649bf4fd9bc782e5a894"}
