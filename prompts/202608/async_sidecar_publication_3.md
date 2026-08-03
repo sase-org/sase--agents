@@ -6,7 +6,7 @@
 [#gh:gh_sase-org__sase](https://github.com/sase-org/sase-github/blob/7dd02fcec77649b34cba23ae33f30793311869dd/src/sase_github/xprompts/gh.yml)
 %id(4, clan=sase-ej, bead=sase-ej.4) %model:@medium_phase_worker %auto %w:sase-ej.2,sase-ej.3 %w(bead=sase-ej.2)
 %w(bead=sase-ej.3)
-[#bd/work_phase_bead:sase-ej.4](https://github.com/sase-org/sase/blob/a5aa2e9c0e426b78910a73bf7e3037e0de8d9450/src/sase/default_config.yml#L1002)
+[#bd/work_phase_bead:sase-ej.4](https://github.com/sase-org/sase/blob/3ac2b097beac842dc02df1edf88704ff87cd351d/src/sase/default_config.yml#L1002)
 
 <!-- sase:section:rendered -->
 
