@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** t0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-t0__plan-260803_115250.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-t0__code-260803_115250.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/epic_launch_sync_lock_skip.md
 
 
