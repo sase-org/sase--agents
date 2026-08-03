@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-el.land--code | active | gpt-5.5 / codex | 2026-08-03T14:43:41.873832+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-el.land--code | active | gpt-5.5 / codex | 2026-08-03T14:43:41.873832+00:00 | [1](../agents/bbugyi200.athena.sase-el.land--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-el.land--plan | active | gpt-5.6-sol / codex | 2026-08-03T14:32:22.326823+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-el.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-el.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`cd9815f`](https://github.com/sase-org/sase/commit/cd9815ff60ca70840e1530c82394ebf8c2d4e175) | test: harden agent CLI history timezone checks | 2026-08-03 11:08:15 EDT |
 
 ## Neighbors
 
