@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ej](../../users/bbugyi200/machines/athena/hoods/sase-ej/README.md) / sase-ej.1
 
-**Global name:** `bbugyi200.athena.sase-ej.1` · **State:** active · **Source run:** `run-98db9a4bfbc480a88caeae8a03b6ddbd`
+**Global name:** `bbugyi200.athena.sase-ej.1` · **State:** completed · **Source run:** `run-98db9a4bfbc480a88caeae8a03b6ddbd`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ej
 
@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-08-03T10:23:29.140169+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| sase | [`c6bed82`](https://github.com/sase-org/sase/commit/c6bed82365b3fd316637c9bc68aa5ecc2479c7ad) | perf: bound agent registry scans during association builds | 2026-08-03 12:40:38 |
 
 ## Neighbors
 

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-98db9a4bfbc480a88caeae8a03b6ddbd"}
+{"commits":[{"committed_at":1785760838,"sha":"c6bed82365b3fd316637c9bc68aa5ecc2479c7ad","subject":"perf: bound agent registry scans during association builds"}],"schema_version":2,"source_run_id":"run-98db9a4bfbc480a88caeae8a03b6ddbd"}

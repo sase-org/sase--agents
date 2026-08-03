@@ -23,7 +23,7 @@
 |---|---|---|
 | [sase-ej.land.w0](../bbugyi200.athena.sase-ej.land.w0/README.md) | descendant | dismissed |
 | [sase-ej.land.w1](../bbugyi200.athena.sase-ej.land.w1/README.md) | descendant | waiting |
-| [sase-ej.1](../bbugyi200.athena.sase-ej.1/README.md) | sase-ej hood | active |
+| [sase-ej.1](../bbugyi200.athena.sase-ej.1/README.md) | sase-ej hood | completed |
 | [sase-ej.2](../bbugyi200.athena.sase-ej.2/README.md) | sase-ej hood | completed |
 | [sase-ej.3](../bbugyi200.athena.sase-ej.3/README.md) | sase-ej hood | completed |
 | [sase-ej.4](../bbugyi200.athena.sase-ej.4/README.md) | sase-ej hood | completed |
