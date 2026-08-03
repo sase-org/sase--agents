@@ -29,5 +29,5 @@
 |---|---|---|
 | [sase-el.1](../bbugyi200.athena.sase-el.1/README.md) | sase-el hood | completed |
 | [sase-el.3](../bbugyi200.athena.sase-el.3/README.md) | sase-el hood | completed |
-| [sase-el.4](../bbugyi200.athena.sase-el.4/README.md) | sase-el hood | active |
-| [sase-el.land](../bbugyi200.athena.sase-el.land/README.md) | sase-el hood | waiting |
+| [sase-el.4](../bbugyi200.athena.sase-el.4/README.md) | sase-el hood | completed |
+| [sase-el.land](../../families/bbugyi200.athena.sase-el.land.md) (family · 2) | sase-el hood | active 2 |
