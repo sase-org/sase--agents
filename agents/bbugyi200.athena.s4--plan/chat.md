@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** s4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-s4__plan-260802_113956.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-s4__code-260802_113956.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/remove_statistics_runs_runtime_tabs.md
 
 

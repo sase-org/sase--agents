@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:qg Can we remove the word that describes the type (e.g. `task`, `plan`, etc...) from the output and just keep the colored symbol? #plan

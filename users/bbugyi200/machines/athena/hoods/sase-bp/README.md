@@ -1,0 +1,9 @@
+# Hood: sase-bp
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-bp
+
+**Global hood:** `bbugyi200.athena.sase-bp` · **Runs:** 1 · **Families:** 0 · **States:** active 1
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [sase-bp](../../../../../../agents/bbugyi200.athena.sase-bp/README.md) | active | gpt-5.6-sol / codex | 2026-07-31T13:31:42.535467+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-bp/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-bp/chat.md) |

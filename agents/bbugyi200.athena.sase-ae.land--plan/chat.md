@@ -1,52 +1,70 @@
-# Chat History - ace-run (sase-ae.land--code)
+# Chat History - ace-run (sase-ae.land--plan)
 
-- **TIMESTAMP:** 2026-07-28 10:18:23 EDT
-- **MODEL:** codex/gpt-5.6-sol
-- **AGENT:** sase-ae.land--code
+- **TIMESTAMP:** 2026-07-28 10:04:42 EDT
+- **MODEL:** claude/opus
+- **AGENT:** sase-ae.land--plan
 
 ## Linked Chats
 
-- 1. --plan — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_ae_land__plan-260728_075836.md`
-- **2. --code** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_ae_land__code-260728_075836.md`
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_ae_land__plan-260728_075836.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_ae_land__code-260728_075836.md`
+
+**Plan:** /home/bryan/.sase/plans/202607/land_skill_deploy_thrash.md
+
 
 ## Prompt
 
-%model:@claude_coder
 #gh:gh_sase-org__sase
-@sase/repos/plans/202607/land_skill_deploy_thrash.md
+%id(land, clan=sase-ae, bead=sase-ae)
+%model:@big_epic_lander
+%auto
+%w:sase-ae.1,sase-ae.4,sase-ae.2,sase-ae.3,sase-ae.5,sase-ae.6
+%w(bead=sase-ae.1)
+%w(bead=sase-ae.2)
+%w(bead=sase-ae.3)
+%w(bead=sase-ae.4)
+%w(bead=sase-ae.5)
+%w(bead=sase-ae.6)
+%wait(priority=15)
+You are the land agent for epic bead sase-ae: verify the epic is truly complete, integrate it with changes
+that landed since it started, then close it out.
 
-The above plan has been reviewed and approved. Implement it now.
+1. Verify. Run `sase bead show sase-ae` (children, linked plan file), then `sase bead show` on each child
+   bead. Confirm every bead note was addressed, and read the actual source code and the epic's commits (bead IDs
+   appear in commit messages) to confirm the work previous agents reported complete really is.
 
+2. Integrate. Changes committed since this epic started could not integrate with this epic's feature while it was
+   incomplete. Find them (e.g. `git log` since the first commit mentioning sase-ae, excluding the epic's own
+   commits; in a PR workflow also review commits on the base branch) and update anything that should now use what
+   this epic added or that duplicates or conflicts with it. This integration is part of the epic's work.
+
+3. Land. Close the epic with `sase bead close sase-ae`. AFTER closing, run `just symvision` if available
+   (epic-symbol whitelist entries for sase-ae expire at close) and remove the stale entries and unused code
+   it reports. Finally, set `status: done` in the frontmatter of the epic's plan file (the PLAN path shown by
+   `sase bead show`). If the close is rejected, the named phases were never completed: finish or reopen them, or
+   record the outcome deliberately with `--force --reason ... --resolution canceled|superseded`. Never force
+   merely to make the command succeed.
+
+If steps 1-2 uncover remaining work, use your /sase_plan skill to plan it and complete the skill's tier-aware
+validate/revalidate/propose loop. Make step 3 the plan's final phase (close, run symvision, mark the plan file done)
+so the agent that executes the plan finishes the landing. Otherwise do step 3 now.
 
 ## Response
 
-I’m using the SASE repo skill to open the approved plan from its sidecar safely, then the memory-read skill because this work appears to touch generated skill deployment. I’ll implement in the current SASE checkout, preserve unrelated changes, and run the required install/check sequence.
+*Plan submitted for review.*
 
-The approved plan’s audit is already complete, so I’m proceeding only with the missing handler-level ABA regression coverage and its shared test helper. The checkout is clean; after verification I’ll use the plan-authorized SASE commit workflow, close `sase-ae`, run Symvision, and mark the parent plan done.
+**Plan file:** `/home/bryan/.sase/plans/202607/land_skill_deploy_thrash.md`
 
-The two regression paths are now in place: refusal preserves the newer bytes and provenance without invoking deployment; `--force` overwrites both with the incoming source and deploys. I also moved the manifest git stub unchanged into the shared helper, so unit and handler tests drive the same ancestry model. I’m installing this workspace’s current dependencies before running tests, as required.
+> # Plan: Land epic sase-ae with its missing ABA regression test
+> ## Why This Plan Exists
+> Epic `sase-ae` ("Stop `sase skill init` skill-deployment thrashing", plan `plans:202607/skill_deploy_thrash.md`) is
+> substantively complete. A land-agent audit confirmed every phase against the source, the commits, and the live chezmoi
+> repo, with one exception.
+> The `converge` phase (`sase-ae.5`) named one check as **"the regression test for the whole epic — reproduce the original
+> ABA against the fixed code and show it is now blocked."** That bead closed with no note, no close reason, and no commit
+> in the sase repo. No such test exists anywhere in `tests/` or `smoke/`. If the ABA reproduction was run at all, it was a
+> one-off manual check that leaves nothing behind to protect the invariant.
+> This plan lands that test and then closes the epic.
 
-The focused suite is green at the planned count: 90 tests passed. I’m now doing the mutation proof the plan requested: briefly disabling only the backwards-manifest branch, running the no-revert test to confirm it fails against pre-guard behavior, then immediately restoring the production code before any broader checks.
+*See full plan file for details.*
 
-`just check` passed formatting, Ruff, mypy, script lint, Symvision, and size checks. It stopped only at the pre-existing plan-sidecar link errors the approved plan anticipated; none involve these changes. I’m reviewing the final three-file diff now, then I’ll commit only those test files with a `sase-ae.5` reference.
-
-The test commit succeeded and the SASE workflow also closed `sase-ae` automatically. Its only warning is an existing queue of three quarantined agent-hood publication requests; that does not affect the commit itself. I’m verifying the pushed state and bead closure now, then running the required post-close Symvision pass before updating the approved parent plan.
-
-`sase-ae` is confirmed closed with resolution `done`, all six phases closed, and post-close Symvision is clean. I’m making the final approved artifact update now: changing the parent epic plan’s frontmatter from `wip` to `done`.
-
-The parent-plan commit is still running inside SASE’s normal close/sync workflow; there is no error output, and the epic close is idempotent. I’m letting that finish, then I’ll verify both repositories are clean and exactly at their upstream commits.
-
-The parent-plan commit itself succeeded, but SASE’s post-commit publication step could not map the sidecar name `sase--plans` to a project. I’m following the commit workflow’s prescribed resume path now; it retries only bookkeeping and will not create another commit.
-
-I found the bookkeeping mismatch: the sidecar commit’s checkpoint is global to this agent, while project detection uses the directory from which resume is invoked. The two failed resumes were run inside `sase--plans`, so they kept resolving that non-project name. I’m rerunning the same checkpoint from the primary SASE workspace; it still performs no new commit, but now publication resolves the actual `sase` project.
-
-Implemented and landed.
-
-- Added shared `stub_manifest_git` and both handler-level ABA regression tests in [test_init_skills_handler.py](/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/tests/main/test_init_skills_handler.py).
-- Focused suite: **90 passed**. Mutation proof failed as expected with the guard disabled, then passed after restoration.
-- `just check` passed all code-quality stages, stopping only on the three known unrelated plan-link errors.
-- Post-close Symvision passed.
-- Closed `sase-ae` with resolution `done`; all phases and both plans are marked done.
-- Pushed commits: `7d85188c1` and `11eb0f96`. Both repositories are clean and synchronized.
-
-Only remaining warning is the pre-existing three quarantined agent-publication requests.

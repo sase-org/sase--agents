@@ -11,14 +11,8 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-09T16:49:13.016170+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`28168ad`](https://github.com/sase-org/sase/commit/28168ad0566e54baf577836221f1ab778c1b6dd2) | fix: include companion SDD artifacts in finalization | 2026-07-09 13:14:28 EDT |

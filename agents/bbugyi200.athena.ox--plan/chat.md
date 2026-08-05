@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** ox--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-ox__plan-260729_182012.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-ox__code-260729_182012.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/alt_brace_punctuation.md
 
 

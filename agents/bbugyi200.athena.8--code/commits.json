@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0d097bb00fd515728466f17b41864c0f"}
+{"commits":[{"committed_at":1783357497,"sha":"c1475bee0af886f4ca31cb53e60582df09bdd9d5","subject":"fix(tui): make config preview scrolling deterministic"}],"schema_version":2,"source_run_id":"run-0d097bb00fd515728466f17b41864c0f"}

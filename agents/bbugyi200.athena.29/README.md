@@ -11,18 +11,11 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-08T17:45:40.927064+00:00
-- Commits: [2](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`84f289d`](https://github.com/sase-org/sase/commit/84f289dd3a1308294c2a21c9088d13f46800714a) | chore: Add SDD prompt and plan for project\_aliases | 2026-06-04 10:31:57 EDT |
-| sase | [`1a95ca1`](https://github.com/sase-org/sase/commit/1a95ca19252098a693e563d203a6f9b31327556b) | chore: create project aliases epic beads | 2026-06-04 10:37:13 EDT |
 
 ## Neighbors
 

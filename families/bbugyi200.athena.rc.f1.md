@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `rc` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["rc.f1--code [active]"]
+  n0["rc.f1--code [completed]"]
   n1["rc.f1--plan [active]"]
   n0 --> n1
 ```
@@ -17,11 +17,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | rc.f1--code | active | gpt-5.5 / codex | 2026-08-01T14:39:28.653626+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | rc.f1--code | completed | gpt-5.5 / codex | 2026-08-01T14:39:28.653626+00:00 | [1](../agents/bbugyi200.athena.rc.f1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.rc.f1--code/chat.md) |
 | <a id="member-plan"></a>plan | rc.f1--plan | active | gpt-5.6-sol / codex | 2026-08-01T14:34:42.751941+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.rc.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.rc.f1--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`6e96ff1`](https://github.com/sase-org/sase/commit/6e96ff12fdb14cab6f7ff6cbb7c8074db6efc678) | feat(llm): load balance cheapest alias by default | 2026-08-01 11:06:49 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [rc](../agents/bbugyi200.athena.rc/README.md) | ancestor | completed |
+| [rc](../agents/bbugyi200.athena.rc/README.md) | ancestor | active |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ci\_fix](../../users/bbugyi200/machines/athena/hoods/ci_fix/README.md) / ci\_fix.sase.0
 
-**Global name:** `bbugyi200.athena.ci_fix.sase.0` · **State:** dismissed · **Source run:** `run-eae894d276b6aff1b81f948da007b87d`
+**Global name:** `bbugyi200.athena.ci_fix.sase.0` · **State:** active · **Source run:** `run-eae894d276b6aff1b81f948da007b87d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** ci\_fix
 
@@ -10,19 +10,21 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-31T01:14:20.005986 → 2026-07-31T01:31:01.032348
+- Timing: 2026-07-31T05:14:20.005986+00:00
 - Commits: 0
 
 ## Files
 
-[Chat](chat.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [ci\_fix.sase](../bbugyi200.athena.ci_fix.sase/README.md) | ancestor | active |
-| [ci\_fix.sase.1](../bbugyi200.athena.ci_fix.sase.1/README.md) | ci\_fix.sase hood | dismissed |
-| [ci\_fix.sase.2](../bbugyi200.athena.ci_fix.sase.2/README.md) | ci\_fix.sase hood | dismissed |
-| [ci\_fix.sase.3](../bbugyi200.athena.ci_fix.sase.3/README.md) | ci\_fix.sase hood | dismissed |
+| [ci\_fix.sase.1](../bbugyi200.athena.ci_fix.sase.1/README.md) | ci\_fix.sase hood | waiting |
+| [ci\_fix.sase.2](../bbugyi200.athena.ci_fix.sase.2/README.md) | ci\_fix.sase hood | active |
+| [ci\_fix.sase.3](../bbugyi200.athena.ci_fix.sase.3/README.md) | ci\_fix.sase hood | active |
 | [ci\_fix.sase.4](../bbugyi200.athena.ci_fix.sase.4/README.md) | ci\_fix.sase hood | active |
+| [ci\_fix.sase.5](../bbugyi200.athena.ci_fix.sase.5/README.md) | ci\_fix.sase hood | active |
+| [ci\_fix.sase.6](../bbugyi200.athena.ci_fix.sase.6/README.md) | ci\_fix.sase hood | dismissed |

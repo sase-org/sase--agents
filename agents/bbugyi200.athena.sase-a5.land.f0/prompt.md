@@ -1,0 +1,2 @@
+#gh:gh_sase-org__sase
+#fork:sase-a5.land I'm fairly certain this epic broke the `v` (view) keymap on the agents tab. Can you help me end-to-end test this by running the appropriate `sase ace --tmux` command, emulating the appropriate keypresses in the TUI, and then taking screenshots to verify this feature? If you find any issues (I think you should--I'm not seeing any hints) fix them. #plan #m_opus

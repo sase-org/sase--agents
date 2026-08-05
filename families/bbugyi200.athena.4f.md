@@ -17,15 +17,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 4f--code | completed | gpt-5.6-sol / codex | 2026-07-10T14:51:51.993726+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.4f--code/chat.md) |
-| <a id="member-root"></a>root | 4f | active | gpt-5.6-sol / codex | 2026-07-10T14:46:59.951799+00:00 | [2](../agents/bbugyi200.athena.4f/README.md#commits) | [Prompt](../agents/bbugyi200.athena.4f/prompt.md) | [Chat](../agents/bbugyi200.athena.4f/chat.md) |
+| <a id="member-code"></a>code | 4f--code | completed | gpt-5.6-sol / codex | 2026-07-10T14:51:51.993726+00:00 | [1](../agents/bbugyi200.athena.4f--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.4f--code/chat.md) |
+| <a id="member-root"></a>root | 4f | active | gpt-5.6-sol / codex | 2026-07-10T14:46:59.951799+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.4f/prompt.md) | [Chat](../agents/bbugyi200.athena.4f/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`b6b4a7a`](https://github.com/sase-org/sase/commit/b6b4a7a730600863ca2d1a6913d1f69e9db98d8b) | chore: Add SDD prompt and plan for sase\_telegram\_pypi\_release | 2026-06-09 16:03:08 EDT |
-| root | sase | [`cebc837`](https://github.com/sase-org/sase/commit/cebc837720036c1dae660bcacf3f7f4f37006378) | feat(vcs)!: add all-project commit log scope | 2026-07-10 11:08:33 EDT |
+| — | sase | [`b6b4a7a`](https://github.com/sase-org/sase/commit/b6b4a7a730600863ca2d1a6913d1f69e9db98d8b) | chore: Add SDD prompt and plan for sase\_telegram\_pypi\_release | 2026-06-09 16:03:08 EDT |
+| code | sase | [`cebc837`](https://github.com/sase-org/sase/commit/cebc837720036c1dae660bcacf3f7f4f37006378) | feat(vcs)!: add all-project commit log scope | 2026-07-10 11:08:33 EDT |
 
 ## Neighbors
 

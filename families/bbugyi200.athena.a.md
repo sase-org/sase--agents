@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | a--code | completed | gpt-5.5 / codex | 2026-07-06T17:13:56.176674+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.a--code/chat.md) |
-| <a id="member-root"></a>root | a | active | claude-fable-5 / claude | 2026-07-06T17:00:21.588230+00:00 | [1](../agents/bbugyi200.athena.a/README.md#commits) | [Prompt](../agents/bbugyi200.athena.a/prompt.md) | [Chat](../agents/bbugyi200.athena.a/chat.md) |
+| <a id="member-code"></a>code | a--code | completed | gpt-5.5 / codex | 2026-07-06T17:13:56.176674+00:00 | [1](../agents/bbugyi200.athena.a--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.a--code/chat.md) |
+| <a id="member-root"></a>root | a | active | claude-fable-5 / claude | 2026-07-06T17:00:21.588230+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.a/prompt.md) | [Chat](../agents/bbugyi200.athena.a/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`228fc78`](https://github.com/sase-org/sase/commit/228fc78aff339555268d16fee134d208f0991769) | fix(tui): humanize project refs in prompt displays | 2026-07-06 13:31:55 EDT |
+| code | sase | [`228fc78`](https://github.com/sase-org/sase/commit/228fc78aff339555268d16fee134d208f0991769) | fix(tui): humanize project refs in prompt displays | 2026-07-06 13:31:55 EDT |
 
 ## Neighbors
 

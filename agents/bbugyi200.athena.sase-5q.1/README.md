@@ -11,7 +11,7 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-11T23:17:27.489280+00:00
-- Commits: [2](#commits)
+- Commits: [1](#commits)
 
 ## Files
 
@@ -22,7 +22,6 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`c13664d`](https://github.com/sase-org/sase/commit/c13664dc6b1ce83bd6f4ea9f4755d71dad78cf61) | feat!: make linked repository materialization opt-in (sase-5q.1) | 2026-07-11 19:28:55 EDT |
-| sase | [`5df88d7`](https://github.com/sase-org/sase/commit/5df88d7ca00e1cae07fd7033be28ed0a17f2fdb4) | fix(memory): finalize linked repository initialization (sase-5q.1) | 2026-07-11 19:47:14 EDT |
 
 ## Neighbors
 

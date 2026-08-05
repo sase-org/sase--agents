@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:qy We seem to be remembering an index that is off by one. I suspect this because it is the entry below the previously selected entry that gets selected when the user navigates to a tab that they had previously been on in the current session. Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix it? #plan #m_opus

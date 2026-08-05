@@ -4,6 +4,12 @@
 - **MODEL:** claude/opus
 - **AGENT:** nr--1
 
+## Linked Chats
+
+- 1. --0 — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-nr__0-260729_062253.md`
+- **2. --1** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-nr__1-260729_062253.md`
+- 3. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-nr__code-260729_062253.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/h_collapse_lanes_label.md
 
 

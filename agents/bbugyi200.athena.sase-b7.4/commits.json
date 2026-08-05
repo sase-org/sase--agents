@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c51ec24f96a9f3d36ba1f7cabd444a6d"}
+{"commits":[{"committed_at":1785421233,"sha":"94daa1ebdcff2d3adf11c24599d04807f8a5a03a","subject":"feat(artifacts): wire VCS-backed default capture"}],"schema_version":2,"source_run_id":"run-c51ec24f96a9f3d36ba1f7cabd444a6d"}

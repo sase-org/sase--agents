@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | ak--code | completed | gpt-5.6-sol / codex | 2026-07-16T17:21:01.646485+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.ak--code/chat.md) |
-| <a id="member-root"></a>root | ak | active | claude-fable-5 / claude | 2026-07-16T17:01:36.861772+00:00 | [1](../agents/bbugyi200.athena.ak/README.md#commits) | [Prompt](../agents/bbugyi200.athena.ak/prompt.md) | [Chat](../agents/bbugyi200.athena.ak/chat.md) |
+| <a id="member-code"></a>code | ak--code | completed | gpt-5.6-sol / codex | 2026-07-16T17:21:01.646485+00:00 | [1](../agents/bbugyi200.athena.ak--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.ak--code/chat.md) |
+| <a id="member-root"></a>root | ak | active | claude-fable-5 / claude | 2026-07-16T17:01:36.861772+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ak/prompt.md) | [Chat](../agents/bbugyi200.athena.ak/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`592c252`](https://github.com/sase-org/sase/commit/592c252a3e45ff626cc98505e3b4d42dfa49f98b) | test: stabilize cross-version CI checks | 2026-07-16 13:44:11 EDT |
+| code | sase | [`592c252`](https://github.com/sase-org/sase/commit/592c252a3e45ff626cc98505e3b4d42dfa49f98b) | test: stabilize cross-version CI checks | 2026-07-16 13:44:11 EDT |

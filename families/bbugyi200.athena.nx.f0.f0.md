@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `nx` · Members: 2
 ```mermaid
 flowchart TD
   n0["nx.f0.f0--plan [active]"]
-  n1["nx.f0.f0--code [active]"]
+  n1["nx.f0.f0--code [completed]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | nx.f0.f0--plan | active | opus / claude | 2026-07-29T13:53:19.879968+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.nx.f0.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.nx.f0.f0--plan/chat.md) |
-| <a id="member-code"></a>code | nx.f0.f0--code | active | gpt-5.6-sol / codex | 2026-07-29T14:02:56.560368+00:00 | [1](../agents/bbugyi200.athena.nx.f0.f0--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | nx.f0.f0--code | completed | gpt-5.6-sol / codex | 2026-07-29T14:02:56.560368+00:00 | [1](../agents/bbugyi200.athena.nx.f0.f0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.nx.f0.f0--code/chat.md) |
 
 ## Commits
 
@@ -30,5 +30,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [nx.f0](bbugyi200.athena.nx.f0.md) (family · 2) | ancestor | completed 2 |
-| [nx](bbugyi200.athena.nx.md) (family · 2) | ancestor | completed 1, dismissed 1 |
+| [nx.f0](bbugyi200.athena.nx.f0.md) (family · 2) | ancestor | active 1, completed 1 |
+| [nx](bbugyi200.athena.nx.md) (family · 2) | ancestor | active 1, completed 1 |

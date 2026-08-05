@@ -11,19 +11,11 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-12T14:17:42.769073+00:00
-- Commits: [3](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`59b6b0f`](https://github.com/sase-org/sase/commit/59b6b0faec49eaa7356b2ccf073f1255d0db09f3) | chore: Add SDD prompt and plan for prompt\_history\_metadata | 2026-06-13 13:01:45 EDT |
-| sase | [`bdea1b3`](https://github.com/sase-org/sase/commit/bdea1b3f805fde1dfa2a9851159d18f00e97681e) | feat(tui): surface prompt metadata in history modal | 2026-06-13 13:18:35 EDT |
-| sase | [`6df95bb`](https://github.com/sase-org/sase/commit/6df95bbecc640071a22a768af6c5718242227d1d) | fix(sdd): preserve unknown store records | 2026-07-12 11:08:13 EDT |
 
 ## Neighbors
 

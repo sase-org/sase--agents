@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [toobig-1b.split\_file.tests.test\_bead.test\_cli\_show.0](../../../../../../agents/bbugyi200.athena.toobig-1b.split_file.tests.test_bead.test_cli_show.0/README.md) | active | gpt-5.6-sol / codex | 2026-07-31T17:39:03.617072+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-1b.split_file.tests.test_bead.test_cli_show.0/prompt.md) |
+| [toobig-1b.split\_file.tests.test\_bead.test\_cli\_show.0](../../../../../../agents/bbugyi200.athena.toobig-1b.split_file.tests.test_bead.test_cli_show.0/README.md) | active | gpt-5.6-sol / codex | 2026-07-31T17:39:03.617072+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-1b.split_file.tests.test_bead.test_cli_show.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-1b.split_file.tests.test_bead.test_cli_show.0/chat.md) |

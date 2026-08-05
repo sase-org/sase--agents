@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-20b81fd978ce3769f29443784f17587e"}
+{"commits":[{"committed_at":1783353493,"sha":"dff269e3a8642a84609ae17d7b3c4ba91595f577","subject":"fix: recover bare git projects from partial init state"}],"schema_version":2,"source_run_id":"run-20b81fd978ce3769f29443784f17587e"}

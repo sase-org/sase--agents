@@ -11,17 +11,11 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-12T16:12:05.309925+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`e1c2fd0`](https://github.com/sase-org/sase/commit/e1c2fd0c40b97f836799698a496776bc43b40e9d) | feat!: use fixed companion clone directory names | 2026-07-12 12:59:59 EDT |
 
 ## Neighbors
 

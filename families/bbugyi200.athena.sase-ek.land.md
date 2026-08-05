@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-ek` · Members: 2
 ```mermaid
 flowchart TD
   n0["sase-ek.land--code [completed]"]
-  n1["sase-ek.land--plan [completed]"]
+  n1["sase-ek.land--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-ek.land--code | completed | gpt-5.5 / codex | 2026-08-03T12:33:21.869988+00:00 | [1](../agents/bbugyi200.athena.sase-ek.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-ek.land--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-ek.land--plan | completed | gpt-5.6-sol / codex | 2026-08-03T12:22:51.407712+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ek.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ek.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-ek.land--plan | dismissed | gpt-5.6-sol / codex | 2026-08-03T08:22:51.407712 → 2026-08-03T10:04:40.065399 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ek.land--plan/chat.md) |
 
 ## Commits
 
@@ -30,6 +30,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ek.1](../agents/bbugyi200.athena.sase-ek.1/README.md) | sase-ek hood | completed |
-| [sase-ek.2](../agents/bbugyi200.athena.sase-ek.2/README.md) | sase-ek hood | completed |
-| [sase-ek.3](../agents/bbugyi200.athena.sase-ek.3/README.md) | sase-ek hood | completed |
+| [sase-ek.1](../agents/bbugyi200.athena.sase-ek.1/README.md) | sase-ek hood | dismissed |
+| [sase-ek.2](../agents/bbugyi200.athena.sase-ek.2/README.md) | sase-ek hood | dismissed |
+| [sase-ek.3](../agents/bbugyi200.athena.sase-ek.3/README.md) | sase-ek hood | dismissed |

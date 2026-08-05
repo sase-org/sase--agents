@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-b3.10.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_b3_10_land__plan-260730_065756.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_b3_10_land__code-260730_065756.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/editor_artifact_ref_parity_integration.md
 
 

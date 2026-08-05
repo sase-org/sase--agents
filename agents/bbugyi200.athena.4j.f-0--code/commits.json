@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a1536f21899078df60860ebca054a051"}
+{"commits":[{"committed_at":1783704488,"sha":"aa08bdf80daee0b5bb50120d10ee416178f84daf","subject":"feat!: move Bob query skill to user configuration"}],"schema_version":2,"source_run_id":"run-a1536f21899078df60860ebca054a051"}

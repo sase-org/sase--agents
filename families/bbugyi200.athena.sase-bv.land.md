@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-bv` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["sase-bv.land--code [active]"]
+  n0["sase-bv.land--code [completed]"]
   n1["sase-bv.land--plan [active]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-bv.land--code | active | sonnet / claude | 2026-07-31T15:08:24.731184+00:00 | [2](../agents/bbugyi200.athena.sase-bv.land--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | sase-bv.land--code | completed | sonnet / claude | 2026-07-31T15:08:24.731184+00:00 | [2](../agents/bbugyi200.athena.sase-bv.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-bv.land--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-bv.land--plan | active | opus / claude | 2026-07-31T14:52:48.374208+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-bv.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-bv.land--plan/chat.md) |
 
 ## Commits
@@ -31,8 +31,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-bv.1](../agents/bbugyi200.athena.sase-bv.1/README.md) | sase-bv hood | completed |
-| [sase-bv.2](../agents/bbugyi200.athena.sase-bv.2/README.md) | sase-bv hood | completed |
-| [sase-bv.3](../agents/bbugyi200.athena.sase-bv.3/README.md) | sase-bv hood | completed |
-| [sase-bv.4](../agents/bbugyi200.athena.sase-bv.4/README.md) | sase-bv hood | completed |
-| [sase-bv.5](../agents/bbugyi200.athena.sase-bv.5/README.md) | sase-bv hood | completed |
+| [sase-bv.1](../agents/bbugyi200.athena.sase-bv.1/README.md) | sase-bv hood | active |
+| [sase-bv.2](../agents/bbugyi200.athena.sase-bv.2/README.md) | sase-bv hood | active |
+| [sase-bv.3](../agents/bbugyi200.athena.sase-bv.3/README.md) | sase-bv hood | active |
+| [sase-bv.4](../agents/bbugyi200.athena.sase-bv.4/README.md) | sase-bv hood | active |
+| [sase-bv.5](../agents/bbugyi200.athena.sase-bv.5/README.md) | sase-bv hood | active |

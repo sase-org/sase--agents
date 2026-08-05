@@ -11,18 +11,11 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-10T14:46:59.951799+00:00
-- Commits: [2](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`b6b4a7a`](https://github.com/sase-org/sase/commit/b6b4a7a730600863ca2d1a6913d1f69e9db98d8b) | chore: Add SDD prompt and plan for sase\_telegram\_pypi\_release | 2026-06-09 16:03:08 EDT |
-| sase | [`cebc837`](https://github.com/sase-org/sase/commit/cebc837720036c1dae660bcacf3f7f4f37006378) | feat(vcs)!: add all-project commit log scope | 2026-07-10 11:08:33 EDT |
 
 ## Neighbors
 

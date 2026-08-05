@@ -27,6 +27,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ek.1](../bbugyi200.athena.sase-ek.1/README.md) | sase-ek hood | completed |
-| [sase-ek.2](../bbugyi200.athena.sase-ek.2/README.md) | sase-ek hood | completed |
-| [sase-ek.3](../bbugyi200.athena.sase-ek.3/README.md) | sase-ek hood | completed |
+| [sase-ek.1](../bbugyi200.athena.sase-ek.1/README.md) | sase-ek hood | dismissed |
+| [sase-ek.2](../bbugyi200.athena.sase-ek.2/README.md) | sase-ek hood | dismissed |
+| [sase-ek.3](../bbugyi200.athena.sase-ek.3/README.md) | sase-ek hood | dismissed |

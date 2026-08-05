@@ -11,14 +11,8 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-16T17:04:20.342312+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`6a4a47f`](https://github.com/sase-org/sase/commit/6a4a47f94322474395c3d7b80f42fe6c9e0136de) | docs: refresh TUI performance guidance | 2026-07-16 13:38:57 EDT |

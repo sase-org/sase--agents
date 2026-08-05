@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-14T11:59:21.765301+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c5ded4a`](https://github.com/sase-org/sase/commit/c5ded4a86e5ad590b3f421615052b7284daf8a83) | feat(tui): highlight known slash skills in prompts | 2026-07-14 08:16:10 EDT |
 
 ## Neighbors
 

@@ -11,18 +11,11 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-09T23:51:48.856187+00:00
-- Commits: [2](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`22b5102`](https://github.com/sase-org/sase/commit/22b5102511e10937af3dfb7ae18bd1cd31fdd8da) | chore: Add SDD prompt and plan for sase\_core\_rs\_pypi\_release\_recovery | 2026-06-09 08:01:19 EDT |
-| sase | [`747d9be`](https://github.com/sase-org/sase/commit/747d9be322fda3d635d436217365084031d12188) | feat(sdd)!: make provider storage authoritative | 2026-07-10 07:47:30 EDT |
 
 ## Neighbors
 

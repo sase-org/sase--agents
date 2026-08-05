@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** qi--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-qi__plan-260731_130446.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-qi__code-260731_130446.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/bead_id_shorthand.md
 
 

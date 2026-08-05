@@ -11,17 +11,11 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-09T00:57:38.748177+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`46670fb`](https://github.com/sase-org/sase/commit/46670fbf4d2afccdc30cf6ec344d5a003d358f3b) | feat(sdd): create companion repo during init | 2026-07-08 21:31:46 EDT |
 
 ## Neighbors
 

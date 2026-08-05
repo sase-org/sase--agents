@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a0b7046a35f2eb847c9905f4e3b21853"}
+{"commits":[{"committed_at":1785686969,"sha":"e6624e324e7857a1967757c8b22984ff7d49b4a8","subject":"feat(history): store both prompt renderings in chats"}],"schema_version":2,"source_run_id":"run-a0b7046a35f2eb847c9905f4e3b21853"}

@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-ax` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["sase-ax.3--plan [completed]"]
+  n0["sase-ax.3--plan [active]"]
   n1["sase-ax.3--code [completed]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-ax.3--plan | completed | gpt-5.6-sol / codex | 2026-07-29T21:36:53.445659+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ax.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ax.3--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-ax.3--plan | active | gpt-5.6-sol / codex | 2026-07-29T21:36:53.445659+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ax.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ax.3--plan/chat.md) |
 | <a id="member-code"></a>code | sase-ax.3--code | completed | gpt-5.6-sol / codex | 2026-07-29T21:41:44.554573+00:00 | [1](../agents/bbugyi200.athena.sase-ax.3--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-ax.3--code/chat.md) |
 
 ## Commits
@@ -30,8 +30,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ax.3.w0](../agents/bbugyi200.athena.sase-ax.3.w0/README.md) | descendant | failed |
-| [sase-ax.1](../agents/bbugyi200.athena.sase-ax.1/README.md) | sase-ax hood | completed |
-| [sase-ax.2](../agents/bbugyi200.athena.sase-ax.2/README.md) | sase-ax hood | completed |
-| [sase-ax.4](../agents/bbugyi200.athena.sase-ax.4/README.md) | sase-ax hood | completed |
-| [sase-ax.land](bbugyi200.athena.sase-ax.land.md) (family · 2) | sase-ax hood | active 2 |
+| [sase-ax.3.w0](../agents/bbugyi200.athena.sase-ax.3.w0/README.md) | descendant | active |
+| [sase-ax.1](../agents/bbugyi200.athena.sase-ax.1/README.md) | sase-ax hood | active |
+| [sase-ax.2](../agents/bbugyi200.athena.sase-ax.2/README.md) | sase-ax hood | active |
+| [sase-ax.4](../agents/bbugyi200.athena.sase-ax.4/README.md) | sase-ax hood | active |
+| [sase-ax.land](bbugyi200.athena.sase-ax.land.md) (family · 2) | sase-ax hood | active 1, completed 1 |

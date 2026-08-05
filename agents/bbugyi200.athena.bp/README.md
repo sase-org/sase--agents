@@ -11,14 +11,8 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-17T12:26:32.961900+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`ac92d6a`](https://github.com/sase-org/sase/commit/ac92d6adeae089f629f7ec748bbb821730093723) | docs: redesign README landing page | 2026-07-17 08:56:46 EDT |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3a194ef792753b04aeefad13ff543060"}
+{"commits":[{"committed_at":1783789310,"sha":"dc1221799490b32d8c1939394dd502da83479f65","subject":"feat(tui): distinguish artifact types with icons"}],"schema_version":2,"source_run_id":"run-3a194ef792753b04aeefad13ff543060"}

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-dfc117951ba6ea1a9b5b782eb3bf2776"}
+{"commits":[{"committed_at":1783349994,"sha":"8585d194d6bd805a79dcdf08820e5df7ce48177b","subject":"feat: move consumed plan files into archive on propose"}],"schema_version":2,"source_run_id":"run-dfc117951ba6ea1a9b5b782eb3bf2776"}

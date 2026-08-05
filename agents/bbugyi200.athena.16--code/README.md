@@ -11,8 +11,14 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-07T21:49:57.300815+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`d4ed465`](https://github.com/sase-org/sase/commit/d4ed465fda9267c014146f8f04298a77dcd9e838) | fix: include core package in dev updates | 2026-07-07 17:59:48 EDT |

@@ -1,6 +1,6 @@
-#gh:gh_sase-org__sase
 %id(land, clan=sase-ba, bead=sase-ba)
-%model:@big_epic_lander
+#gh:gh_sase-org__sase
+%model:@epic_lander
 %auto
 %w:sase-ba.1,sase-ba.2,sase-ba.3,sase-ba.4,sase-ba.5,sase-ba.6
 %w(bead=sase-ba.1)

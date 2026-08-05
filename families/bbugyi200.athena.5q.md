@@ -17,13 +17,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 5q--code | completed | gpt-5.6-sol / codex | 2026-07-11T16:45:14.764004+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.5q--code/chat.md) |
-| <a id="member-root"></a>root | 5q | active | opus / claude | 2026-07-11T16:37:19.176927+00:00 | [3](../agents/bbugyi200.athena.5q/README.md#commits) | [Prompt](../agents/bbugyi200.athena.5q/prompt.md) | [Chat](../agents/bbugyi200.athena.5q/chat.md) |
+| <a id="member-code"></a>code | 5q--code | completed | gpt-5.6-sol / codex | 2026-07-11T16:45:14.764004+00:00 | [1](../agents/bbugyi200.athena.5q--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.5q--code/chat.md) |
+| <a id="member-root"></a>root | 5q | active | opus / claude | 2026-07-11T16:37:19.176927+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.5q/prompt.md) | [Chat](../agents/bbugyi200.athena.5q/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`d6c4a5b`](https://github.com/sase-org/sase/commit/d6c4a5bd2e6951598758f6bf22ccf4d9a65ec260) | chore: Add SDD prompt and plan for commit\_tags | 2026-06-12 12:12:02 EDT |
-| root | sase | [`1d59abb`](https://github.com/sase-org/sase/commit/1d59abbcd27ccf52af8503f2c330ffe6b768f59f) | docs: expand git commit tag guidance | 2026-06-12 12:17:36 EDT |
-| root | sase | [`dc12217`](https://github.com/sase-org/sase/commit/dc1221799490b32d8c1939394dd502da83479f65) | feat(tui): distinguish artifact types with icons | 2026-07-11 13:01:50 EDT |
+| — | sase | [`d6c4a5b`](https://github.com/sase-org/sase/commit/d6c4a5bd2e6951598758f6bf22ccf4d9a65ec260) | chore: Add SDD prompt and plan for commit\_tags | 2026-06-12 12:12:02 EDT |
+| — | sase | [`1d59abb`](https://github.com/sase-org/sase/commit/1d59abbcd27ccf52af8503f2c330ffe6b768f59f) | docs: expand git commit tag guidance | 2026-06-12 12:17:36 EDT |
+| code | sase | [`dc12217`](https://github.com/sase-org/sase/commit/dc1221799490b32d8c1939394dd502da83479f65) | feat(tui): distinguish artifact types with icons | 2026-07-11 13:01:50 EDT |

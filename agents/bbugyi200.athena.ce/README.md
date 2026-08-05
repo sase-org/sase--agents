@@ -11,14 +11,8 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-17T18:19:47.246549+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`328b3b5`](https://github.com/sase-org/sase/commit/328b3b5208c5a005b1db105669769e29f27f7338) | feat(ace): summarize collapsed agent panels | 2026-07-17 15:28:36 EDT |

@@ -17,18 +17,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 0j | active | claude-fable-5 / claude | 2026-07-07T16:07:35.193931+00:00 | [4](../agents/bbugyi200.athena.0j/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0j/prompt.md) | [Chat](../agents/bbugyi200.athena.0j/chat.md) |
+| <a id="member-root"></a>root | 0j | active | claude-fable-5 / claude | 2026-07-07T16:07:35.193931+00:00 | [1](../agents/bbugyi200.athena.0j/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0j/prompt.md) | [Chat](../agents/bbugyi200.athena.0j/chat.md) |
 | <a id="member-code"></a>code | 0j--code | completed | gpt-5.5 / codex | 2026-07-07T16:16:50.391520+00:00 | [1](../agents/bbugyi200.athena.0j--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.0j--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`9763639`](https://github.com/sase-org/sase/commit/9763639d601f1052cdc472c44948a743496ee605) | chore: Add SDD prompt and plan for fix\_bead\_display\_flicker | 2026-07-06 00:32:17 EDT |
-| root | sase | [`47a7d5d`](https://github.com/sase-org/sase/commit/47a7d5dad9ad317e2b4fa26116538d99bfc2266f) | fix(tui): keep bead displays visible while revalidating | 2026-07-06 01:26:22 EDT |
+| — | sase | [`9763639`](https://github.com/sase-org/sase/commit/9763639d601f1052cdc472c44948a743496ee605) | chore: Add SDD prompt and plan for fix\_bead\_display\_flicker | 2026-07-06 00:32:17 EDT |
+| — | sase | [`47a7d5d`](https://github.com/sase-org/sase/commit/47a7d5dad9ad317e2b4fa26116538d99bfc2266f) | fix(tui): keep bead displays visible while revalidating | 2026-07-06 01:26:22 EDT |
 | root | sase | [`eeb6f73`](https://github.com/sase-org/sase/commit/eeb6f73957807882f31956933f9dbdc7be4c92a5) | chore: Add SDD prompt and plan for update\_confirm\_incoming\_commits | 2026-07-07 12:16:48 EDT |
 | code | sase | [`ad66f33`](https://github.com/sase-org/sase/commit/ad66f332904e58bee10d3157362b66cc4651d752) | feat(tui): show incoming commits in update confirmations | 2026-07-07 12:42:29 EDT |
-| root | sase | [`ad66f33`](https://github.com/sase-org/sase/commit/ad66f332904e58bee10d3157362b66cc4651d752) | feat(tui): show incoming commits in update confirmations | 2026-07-07 12:42:29 EDT |
 
 ## Neighbors
 

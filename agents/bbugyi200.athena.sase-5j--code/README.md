@@ -11,11 +11,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-08T06:47:12.536942+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`bbbcf31`](https://github.com/sase-org/sase/commit/bbbcf31fd96f74fcd8e5328cf9b486de3960e34e) | fix(sdd): point missing companion stores at migrate | 2026-07-08 02:58:58 EDT |
 
 ## Neighbors
 

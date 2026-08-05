@@ -11,14 +11,8 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-11T20:21:07.154336+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`dcafd64`](https://github.com/sase-org/sase/commit/dcafd64e74d695d194f6ab2b0893a098e38b3c40) | feat(tui): redesign xprompt save panel | 2026-07-11 17:14:40 EDT |

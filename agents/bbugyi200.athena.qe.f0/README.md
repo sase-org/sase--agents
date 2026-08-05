@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -28,4 +28,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [qe](../../families/bbugyi200.athena.qe.md) (family · 2) | ancestor | completed 2 |
+| [qe](../../families/bbugyi200.athena.qe.md) (family · 2) | ancestor | active 1, completed 1 |

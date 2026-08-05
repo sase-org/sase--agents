@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** o7--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-o7__plan-260729_101214.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-o7__code-260729_101214.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/ctrl_j_exit_populated_bullet.md
 
 

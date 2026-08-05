@@ -11,17 +11,11 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-15T15:17:18.847499+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`5e9bfa1`](https://github.com/sase-org/sase/commit/5e9bfa1987f0b9ba998173e4e3e5e23793b10f85) | feat(ace)!: collapse focused agent panels | 2026-07-15 12:05:20 EDT |
 
 ## Neighbors
 

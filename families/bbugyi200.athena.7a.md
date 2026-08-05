@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 7a--code | completed | gpt-5.6-sol / codex | 2026-07-12T21:11:46.592623+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.7a--code/chat.md) |
-| <a id="member-root"></a>root | 7a | active | claude-fable-5 / claude | 2026-07-12T20:58:30.131439+00:00 | [1](../agents/bbugyi200.athena.7a/README.md#commits) | [Prompt](../agents/bbugyi200.athena.7a/prompt.md) | [Chat](../agents/bbugyi200.athena.7a/chat.md) |
+| <a id="member-code"></a>code | 7a--code | completed | gpt-5.6-sol / codex | 2026-07-12T21:11:46.592623+00:00 | [1](../agents/bbugyi200.athena.7a--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.7a--code/chat.md) |
+| <a id="member-root"></a>root | 7a | active | claude-fable-5 / claude | 2026-07-12T20:58:30.131439+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.7a/prompt.md) | [Chat](../agents/bbugyi200.athena.7a/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`a66dc39`](https://github.com/sase-org/sase/commit/a66dc398a401c0726b8309a9b3d235fb6a6661d3) | fix: migrate lint integration to toobig | 2026-07-12 17:27:11 EDT |
+| code | sase | [`a66dc39`](https://github.com/sase-org/sase/commit/a66dc398a401c0726b8309a9b3d235fb6a6661d3) | fix: migrate lint integration to toobig | 2026-07-12 17:27:11 EDT |
 
 ## Neighbors
 

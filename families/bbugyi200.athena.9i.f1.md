@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 9i.f1 | active | gpt-5.6-sol / codex | 2026-07-15T18:36:15.743615+00:00 | [1](../agents/bbugyi200.athena.9i.f1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.9i.f1/prompt.md) | [Chat](../agents/bbugyi200.athena.9i.f1/chat.md) |
+| <a id="member-root"></a>root | 9i.f1 | active | gpt-5.6-sol / codex | 2026-07-15T18:36:15.743615+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.9i.f1/prompt.md) | [Chat](../agents/bbugyi200.athena.9i.f1/chat.md) |
 | <a id="member-code"></a>code | 9i.f1--code | completed | gpt-5.6-sol / codex | 2026-07-15T18:42:55.562578+00:00 | [1](../agents/bbugyi200.athena.9i.f1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.9i.f1--code/chat.md) |
 
 ## Commits
@@ -25,7 +25,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | code | sase | [`4779fcb`](https://github.com/sase-org/sase/commit/4779fcbc57e6ead87c01e110e9ca85493d2d23df) | feat(ace): show epic phase roadmaps | 2026-07-15 15:18:39 EDT |
-| root | sase | [`4779fcb`](https://github.com/sase-org/sase/commit/4779fcbc57e6ead87c01e110e9ca85493d2d23df) | feat(ace): show epic phase roadmaps | 2026-07-15 15:18:39 EDT |
 
 ## Neighbors
 

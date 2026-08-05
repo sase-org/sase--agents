@@ -11,8 +11,14 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-07T15:57:22.257446+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9a30501`](https://github.com/sase-org/sase/commit/9a30501c34416b316c79b2449a90ffc20028c512) | fix: use canonical workspace refs in launches | 2026-07-07 12:07:46 EDT |

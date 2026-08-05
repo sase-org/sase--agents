@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-cs](../../../../../../agents/bbugyi200.athena.sase-cs/README.md) | active | gemini-3.6-flash-high / agy | 2026-07-31T20:30:19.655112+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-cs/prompt.md) |
+| [sase-cs](../../../../../../agents/bbugyi200.athena.sase-cs/README.md) | active | gemini-3.6-flash-high / agy | 2026-07-31T20:30:19.655112+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-cs/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-cs/chat.md) |

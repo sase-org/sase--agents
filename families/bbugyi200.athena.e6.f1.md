@@ -31,3 +31,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [e6](../agents/bbugyi200.athena.e6/README.md) | ancestor | completed |
+| [e6.6.verify](../agents/bbugyi200.athena.e6.6.verify/README.md) | e6 hood | failed |

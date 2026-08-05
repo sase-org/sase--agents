@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | sase-6e | active | gpt-5.6-sol / codex | 2026-07-16T23:40:54.892761+00:00 | [1](../agents/bbugyi200.athena.sase-6e/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-6e/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-6e/chat.md) |
-| <a id="member-code"></a>code | sase-6e--code | completed | gpt-5.6-sol / codex | 2026-07-16T23:54:00.403045+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-6e--code/chat.md) |
+| <a id="member-root"></a>root | sase-6e | active | gpt-5.6-sol / codex | 2026-07-16T23:40:54.892761+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-6e/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-6e/chat.md) |
+| <a id="member-code"></a>code | sase-6e--code | completed | gpt-5.6-sol / codex | 2026-07-16T23:54:00.403045+00:00 | [1](../agents/bbugyi200.athena.sase-6e--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-6e--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`a0dc62d`](https://github.com/sase-org/sase/commit/a0dc62d2fa5788eb06a5e60a7be14976c2f09eb5) | feat(notification-gates): finalize adapter-owned auto resolution (sase-6e) | 2026-07-16 20:25:16 EDT |
+| code | sase | [`a0dc62d`](https://github.com/sase-org/sase/commit/a0dc62d2fa5788eb06a5e60a7be14976c2f09eb5) | feat(notification-gates): finalize adapter-owned auto resolution (sase-6e) | 2026-07-16 20:25:16 EDT |
 
 ## Neighbors
 

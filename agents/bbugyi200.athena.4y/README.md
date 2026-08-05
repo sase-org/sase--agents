@@ -11,15 +11,8 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-10T20:52:13.010169+00:00
-- Commits: [2](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`7c7a5c6`](https://github.com/sase-org/sase/commit/7c7a5c6a48298ffd2eab7787abce943ef38b4ed2) | feat: add Claude Fable 5 model metadata | 2026-06-10 08:44:19 EDT |
-| sase | [`a262729`](https://github.com/sase-org/sase/commit/a2627294293db6ac85b0273cec6b5730a7a38a10) | feat(workspaces)!: scope linked repos to host workspaces | 2026-07-10 17:36:56 EDT |

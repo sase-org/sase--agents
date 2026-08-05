@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-1e](../../users/bbugyi200/machines/athena/hoods/toobig-1e/README.md) / toobig-1e.split\_file.src.sase.ace.tui.modals.help\_modal.changespecs\_bindings.0
 
-**Global name:** `bbugyi200.athena.toobig-1e.split_file.src.sase.ace.tui.modals.help_modal.changespecs_bindings.0` · **State:** completed · **Source run:** `run-ef233824ce11a9d185fa3159fda9ed89`
+**Global name:** `bbugyi200.athena.toobig-1e.split_file.src.sase.ace.tui.modals.help_modal.changespecs_bindings.0` · **State:** active · **Source run:** `run-ef233824ce11a9d185fa3159fda9ed89`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-1e
 
@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-1e.split\_file.src.sase.agents\_sync.prompt\_archive.publish.0](../bbugyi200.athena.toobig-1e.split_file.src.sase.agents_sync.prompt_archive.publish.0/README.md) | toobig-1e.split\_file.src.sase hood | completed |
+| [toobig-1e.split\_file.src.sase.agents\_sync.prompt\_archive.publish.0](../bbugyi200.athena.toobig-1e.split_file.src.sase.agents_sync.prompt_archive.publish.0/README.md) | toobig-1e.split\_file.src.sase hood | active |
 | [toobig-1e.split\_file.src.sase.bead.cli\_detail.0](../bbugyi200.athena.toobig-1e.split_file.src.sase.bead.cli_detail.0/README.md) | toobig-1e.split\_file.src.sase hood | active |

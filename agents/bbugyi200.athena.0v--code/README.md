@@ -11,8 +11,14 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-07T19:52:31.893198+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`64728c4`](https://github.com/sase-org/sase/commit/64728c413a9b1083f01f8ac5f66579a28f125253) | fix(bead): use tale auto-approval for epic work | 2026-07-07 16:00:02 EDT |

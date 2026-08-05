@@ -217,7 +217,7 @@ This runs on **every** `sase bead doctor` invocation (with or without `--fix-iss
 
 **Doc location:** `docs/beads.md`, `### sase bead init` (~line 662-666), or the "Directory Structure" subsection (~line 341-354).
 
-**What's wrong/missing:** `22e78f792` changed how **new** bead stores pick their default `issue_prefix` (`src/sase/bead/prefix_policy.py:39-68`, wired through `src/sase/bead/config.py:54-56`), but this default-creation-time behavior is described nowhere in `docs/beads.md` except implicitly, via the `--fix-issue-prefix` *repair* paragraph (which only covers fixing already-leaked stores). A user creating bead stores for multiple projects (e.g. projects that got auto-suffixed keys like `gh_org__repo`, `foo_1`) has no doc explaining why their new bead IDs now use the human-readable `PROJECT_NAME` (e.g. `bob-cli-1`) rather than the internal ProjectSpec key (e.g. `gh_bobs-org__bob-cli-1`).
+**What's wrong/missing:** `22e78f792` changed how **new** bead stores pick their default `issue_prefix` (`src/sase/bead/prefix_policy.py:39-68`, wired through `src/sase/bead/config.py:54-56`), but this default-creation-time behavior is described nowhere in `docs/beads.md` except implicitly, via the `--fix-issue-prefix` *repair* paragraph (which only covers fixing already-leaked stores). A user creating bead stores for multiple projects (e.g. projects that got auto-suffixed keys like `gh_org__repo`, `foo_1`) has no doc explaining why their new bead IDs now use the human-readable `PROJECT_NAME` (e.g. `bob-cli-1`) rather than the internal ProjectSpec key (e.g. `bob-cli-a`).
 
 **Verified current behavior** (`src/sase/bead/prefix_policy.py:39-68`):
 1. Infer the current ProjectSpec key from cwd (`infer_project_name_from_cwd()`).

@@ -18,14 +18,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 3.f1--code | completed | gpt-5.5 / codex | 2026-07-06T11:04:41.930217+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.3.f1--code/chat.md) |
-| <a id="member-root"></a>root | 3.f1 | active | claude-fable-5 / claude | 2026-07-06T11:01:48.494418+00:00 | [2](../agents/bbugyi200.athena.3.f1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.3.f1/prompt.md) | [Chat](../agents/bbugyi200.athena.3.f1/chat.md) |
+| <a id="member-root"></a>root | 3.f1 | active | claude-fable-5 / claude | 2026-07-06T11:01:48.494418+00:00 | [1](../agents/bbugyi200.athena.3.f1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.3.f1/prompt.md) | [Chat](../agents/bbugyi200.athena.3.f1/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | root | sase | [`147c303`](https://github.com/sase-org/sase/commit/147c3038ba7c4fd1951a9ce5c072e346431d65ce) | chore: Add SDD prompt and plan for sase\_telegram\_mit\_license | 2026-07-06 07:04:40 EDT |
-| root | sase | [`fb80faa`](https://github.com/sase-org/sase/commit/fb80faa6d314bd96bff9f02f63f33545c2f4ecbb) | chore: Mark SDD plan done | 2026-07-06 07:50:04 EDT |
+| — | sase | [`fb80faa`](https://github.com/sase-org/sase/commit/fb80faa6d314bd96bff9f02f63f33545c2f4ecbb) | chore: Mark SDD plan done | 2026-07-06 07:50:04 EDT |
 
 ## Neighbors
 

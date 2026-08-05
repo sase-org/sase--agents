@@ -11,7 +11,7 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-07T19:54:36.884522+00:00
-- Commits: [4](#commits)
+- Commits: [1](#commits)
 
 ## Files
 
@@ -21,7 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d3c37c5`](https://github.com/sase-org/sase/commit/d3c37c5b11f46381ad94f127a9ec6edbf3ff52e7) | chore: Add SDD prompt and plan for codex\_transient\_retry | 2026-06-03 01:40:52 EDT |
-| sase | [`0ceb65c`](https://github.com/sase-org/sase/commit/0ceb65c27949090bc57a79f5f1c9e8d24201e855) | feat: Add built-in transient-failure retry coverage for the Codex provider | 2026-06-03 02:24:56 EDT |
 | sase | [`cd2be5d`](https://github.com/sase-org/sase/commit/cd2be5d63981331fbaaa87e864cd6fe06ab66f0d) | chore: Add SDD prompt and plan for gh\_ref\_tui\_credential\_freeze | 2026-07-07 16:04:43 EDT |
-| sase | [`77d9330`](https://github.com/sase-org/sase/commit/77d933029cf8d4027fe4eefab6af4219f7b5c784) | fix: avoid credential prompts during ref completion | 2026-07-07 16:25:09 EDT |

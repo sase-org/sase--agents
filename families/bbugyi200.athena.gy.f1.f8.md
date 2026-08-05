@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | gy.f1.f8--plan | active | gpt-5.6-sol / codex | 2026-07-21T13:58:24.734386+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.gy.f1.f8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.gy.f1.f8--plan/chat.md) |
-| <a id="member-code"></a>code | gy.f1.f8--code | completed | gpt-5.6-sol / codex | 2026-07-21T14:06:12.861434+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.gy.f1.f8--code/chat.md) |
+| <a id="member-code"></a>code | gy.f1.f8--code | completed | gpt-5.6-sol / codex | 2026-07-21T14:06:12.861434+00:00 | [1](../agents/bbugyi200.athena.gy.f1.f8--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.gy.f1.f8--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`58bacaf`](https://github.com/sase-org/sase/commit/58bacaf668db5541554a49922203b828df9de916) | feat!: simplify phase model aliases | 2026-07-21 10:32:49 EDT |
 
 ## Neighbors
 

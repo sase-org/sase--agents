@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 8b.f0.w1.w1--code | completed | gpt-5.6-sol / codex | 2026-07-14T13:33:43.579406+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.8b.f0.w1.w1--code/chat.md) |
-| <a id="member-root"></a>root | 8b.f0.w1.w1 | active | claude-fable-5 / claude | 2026-07-14T13:17:16.196429+00:00 | [1](../agents/bbugyi200.athena.8b.f0.w1.w1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.8b.f0.w1.w1/prompt.md) | [Chat](../agents/bbugyi200.athena.8b.f0.w1.w1/chat.md) |
+| <a id="member-code"></a>code | 8b.f0.w1.w1--code | completed | gpt-5.6-sol / codex | 2026-07-14T13:33:43.579406+00:00 | [1](../agents/bbugyi200.athena.8b.f0.w1.w1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.8b.f0.w1.w1--code/chat.md) |
+| <a id="member-root"></a>root | 8b.f0.w1.w1 | active | claude-fable-5 / claude | 2026-07-14T13:17:16.196429+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.8b.f0.w1.w1/prompt.md) | [Chat](../agents/bbugyi200.athena.8b.f0.w1.w1/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`a9813bf`](https://github.com/sase-org/sase/commit/a9813bf2c4014b6ac467476c2dcd7870436917e7) | feat: highlight literal code in prompts | 2026-07-14 10:23:19 EDT |
+| code | sase | [`a9813bf`](https://github.com/sase-org/sase/commit/a9813bf2c4014b6ac467476c2dcd7870436917e7) | feat: highlight literal code in prompts | 2026-07-14 10:23:19 EDT |
 
 ## Neighbors
 

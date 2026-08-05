@@ -21,9 +21,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [audit\_improvements.sase.0](../bbugyi200.athena.audit_improvements.sase.0/README.md) | audit\_improvements.sase hood | dismissed |
+| [audit\_improvements.sase.0](../bbugyi200.athena.audit_improvements.sase.0/README.md) | audit\_improvements.sase hood | active |
 | [audit\_improvements.sase.03813d90971c](../bbugyi200.athena.audit_improvements.sase.03813d90971c/README.md) | audit\_improvements.sase hood | completed |
-| [audit\_improvements.sase.1](../bbugyi200.athena.audit_improvements.sase.1/README.md) | audit\_improvements.sase hood | dismissed |
+| [audit\_improvements.sase.1](../bbugyi200.athena.audit_improvements.sase.1/README.md) | audit\_improvements.sase hood | active |
 | [audit\_improvements.sase.1180425d1192](../bbugyi200.athena.audit_improvements.sase.1180425d1192/README.md) | audit\_improvements.sase hood | active |
 | [audit\_improvements.sase.141aaf7f51cc](../bbugyi200.athena.audit_improvements.sase.141aaf7f51cc/README.md) | audit\_improvements.sase hood | active |
 | [audit\_improvements.sase.147c3038ba7c](../bbugyi200.athena.audit_improvements.sase.147c3038ba7c/README.md) | audit\_improvements.sase hood | active |

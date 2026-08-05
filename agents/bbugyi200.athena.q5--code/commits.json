@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1785503030,"sha":"22e78f792c3a5f251d70cf69a991770be1dcb27c","subject":"fix(bead): derive issue prefixes from PROJECT_NAME, not ProjectSpec key"}],"schema_version":2,"source_run_id":"run-ba9c360173badbcd954ae8572b95eff2"}

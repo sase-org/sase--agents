@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** ou--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-ou__plan-260729_164317.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-ou__code-260729_164317.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/prompt_inputs_show_full_value.md
 
 

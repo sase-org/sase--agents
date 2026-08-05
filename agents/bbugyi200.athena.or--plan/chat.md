@@ -4,6 +4,11 @@
 - **MODEL:** claude/claude-fable-5
 - **AGENT:** or--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-or__plan-260729_162822.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-or__code-260729_162822.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/artifact_ref_completion_target_project_workspace.md
 
 

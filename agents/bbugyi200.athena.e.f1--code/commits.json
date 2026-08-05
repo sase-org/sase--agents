@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-62cfed59b75eec66d514d095fe3ed163"}
+{"commits":[{"committed_at":1783362320,"sha":"7b53fec4b02faf76ac9cb8a285ab4f8f0ff4dc33","subject":"fix(tui): mirror root wait status from child agents"}],"schema_version":2,"source_run_id":"run-62cfed59b75eec66d514d095fe3ed163"}

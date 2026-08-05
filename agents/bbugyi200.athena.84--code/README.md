@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-14T09:57:12.469501+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`36b962a`](https://github.com/sase-org/sase/commit/36b962ad9f664186dfa52b372469a9318b2c0fa7) | fix(workspaces): isolate generated SASE repo metadata | 2026-07-14 06:16:37 EDT |
 
 ## Neighbors
 

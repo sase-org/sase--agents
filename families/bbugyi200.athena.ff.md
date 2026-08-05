@@ -17,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | ff--code | completed | gpt-5.6-sol / codex | 2026-07-19T21:26:49.567286+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.ff--code/chat.md) |
+| <a id="member-code"></a>code | ff--code | completed | gpt-5.6-sol / codex | 2026-07-19T21:26:49.567286+00:00 | [1](../agents/bbugyi200.athena.ff--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.ff--code/chat.md) |
 | <a id="member-plan"></a>plan | ff--plan | active | gpt-5.6-sol / codex | 2026-07-19T21:18:10.741782+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ff--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ff--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`b938e94`](https://github.com/sase-org/sase/commit/b938e94ad0d744b3fa691b031dc5d682109ce756) | feat(tui): navigate to neighbors in folded clans | 2026-07-19 17:56:58 EDT |

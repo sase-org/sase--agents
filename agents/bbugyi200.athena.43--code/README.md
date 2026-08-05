@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-10T10:47:31.174648+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`747d9be`](https://github.com/sase-org/sase/commit/747d9be322fda3d635d436217365084031d12188) | feat(sdd)!: make provider storage authoritative | 2026-07-10 07:47:30 EDT |
 
 ## Neighbors
 

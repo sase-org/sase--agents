@@ -18,13 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-6f--code | completed | gpt-5.6-sol / codex | 2026-07-16T20:52:19.617597+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-6f--code/chat.md) |
-| <a id="member-root"></a>root | sase-6f | active | gpt-5.6-sol / codex | 2026-07-16T20:32:35.757822+00:00 | [1](../agents/bbugyi200.athena.sase-6f/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-6f/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-6f/chat.md) |
+| <a id="member-root"></a>root | sase-6f | active | gpt-5.6-sol / codex | 2026-07-16T20:32:35.757822+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-6f/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-6f/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`73de857`](https://github.com/sase-org/sase/commit/73de8575bc63180822daf1a41cbf70855a8bb6fe) | test: cover deleted cwd through xprompt sources | 2026-07-16 17:16:09 EDT |
+| — | sase | [`73de857`](https://github.com/sase-org/sase/commit/73de8575bc63180822daf1a41cbf70855a8bb6fe) | test: cover deleted cwd through xprompt sources | 2026-07-16 17:16:09 EDT |
 
 ## Neighbors
 

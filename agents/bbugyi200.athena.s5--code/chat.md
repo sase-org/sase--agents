@@ -1,0 +1,368 @@
+# Chat History - ace-run (s5--code)
+
+- **TIMESTAMP:** 2026-08-02 13:15:32 EDT
+- **MODEL:** codex/gpt-5.5
+- **AGENT:** s5--code
+
+## Linked Chats
+
+- 1. --plan — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-s5__plan-260802_114424.md`
+- **2. --code** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-s5__code-260802_114424.md`
+
+## Prompt
+
+%model:@codex_coder
+#gh:gh_sase-org__sase @sase/repos/plans/202608/restore_help_and_reverse_metadata_search.md
+
+The above plan has been reviewed and approved. Implement it now.
+
+
+## Response
+
+I’ll first resolve the approved plan through the SASE repo workflow, then inspect the affected code paths before editing. That matters here because the plan appears to live in a sidecar repo rather than this workspace checkout.
+
+The working tree is clean. I’m checking the registered repo aliases now so I can open the plan location through SASE’s audited path rather than guessing a filesystem path.
+
+I found `plans` as the sidecar alias and will read the approved plan from that opened checkout. After that I’ll map each step to code and tests before touching files.
+
+The plan sidecar is opened at the workspace-local `sase/repos/plans` path. I’m reading the approved plan now and checking for any memory-domain prerequisites it triggers.
+
+The plan touches Ace keymaps, command filtering, help text, and the shared Vim-style search controller. I’m going to inspect those paths plus the Ace-local instructions before making edits, then I’ll keep the implementation staged by behavior: key ownership, dispatch, search toggle, UI text, tests.
+
+I found the old arrangement in the defaults: app reverse search is `?`, app help is absent/retired, and leader help owns `,?`. Next I’m reading the core keymap registry, dispatch, command metadata, metadata-search host, and shared controller to see the exact change points.
+
+The registry already has retirement handling for stale app and leader keys, which is exactly where the migration should land. I’m checking the bottom half of validation and the command-context model next because those determine whether `Ctrl+R` is hidden unless the metadata overlay is active.
+
+The shared search controller currently treats `?` as a built-in reverse starter both when idle and when committed. For metadata search we’ll need to make that behavior configurable by host, then layer `Ctrl+R` as a direction toggle before generic text handling sees it.
+
+The keymap unit tests already assert the old split, so I’ll update those alongside the implementation instead of patching only runtime code. I’m also checking the e2e and display-help tests because they usually catch stale visible hints.
+
+There’s a stale command-availability test around metadata search that currently assumes reverse search is always available on the Agents tab. I’ll change that to require an active metadata-search flag and make extraction populate the same flag from the live controller.
+
+The visible strings are concentrated in three help builders plus onboarding and tab quick-start helpers. I’m reading those now and will switch them to display `app.show_help` directly while leaving local prompt-editor and statistics-pane help alone.
+
+The app-level action needs to be present in the default Textual bindings too, because these fallback bindings are still used as a shape and metadata source. I’ll update those defaults and then make leader mode tolerate the retired `show_help` key by removing its dispatch branch and footer row.
+
+The prompt editor uses its own search implementation, not the shared metadata controller, so the prompt `?` behavior can remain unchanged. The shared controller changes should be backward-compatible by default and only disabled by the metadata host.
+
+I have enough context to edit. The first patch will move help into `AppKeymaps`, change reverse search to `Ctrl+R`, retire stale leader help keys, and update binding/catalog metadata so the loader and palette stay consistent.
+
+The key ownership patch is in place. I’m now wiring the runtime availability rules: `show_help` remains global, `search_forward` can start metadata search on Agents, and `search_reverse` is only considered available while that metadata search overlay is active.
+
+Next I’m adding a controller-level direction toggle. It preserves the frozen corpus and query, recomputes preview only while typing, and in committed mode only changes the recorded repeat direction.
+
+I’m updating the metadata-search host to recognize the configured reverse key before normal search text handling. That keeps `Ctrl+R` from becoming part of the search query and lets committed `?` fall through to the restored help binding.
+
+Leader mode still has direct `show_help` lookups that would now fail because the key is retired at load time. I’m removing those runtime rows and dispatch branches while leaving the app-level `?` help action available everywhere.
+
+I’ll move “Show this help” out of the Leader Mode sections and into each tab’s general area, using the configurable app key. The Agents metadata-search section will document `/` to start and the configured reverse key to toggle order.
+
+ChangeSpecs and Axe help now show app-level help in General. I’m checking the Agents General section separately because that file has more sections after Leader Mode.
+
+The Agents help file has a separate General section at the end; I’m adding the app help key there so it no longer depends on the leader-mode map.
+
+I’m moving onboarding and quick-start hint rendering to `app.show_help` as well. This keeps custom app help overrides visible and ignores stale leader-mode overrides as intended.
+
+Only quick-start still needs `leader_key_display` for the Agents query shortcut. The onboarding cards can drop it and use `key_display_name(registry.app.show_help)`.
+
+I’m checking for remaining leader-help references now; any surviving lookup of `leader_mode.keys["show_help"]` would either crash or bring the retired chord back.
+
+I’m updating the unit and e2e expectations that encoded the old `,?`/bare-`?` behavior. The new assertions will cover defaults, stale override filtering, binding construction, command availability, and actual key dispatch.
+
+The display-help tests still expect custom leader help. I’m changing them to assert app-level help overrides and the new metadata-search help rows.
+
+For the end-to-end keymap test, I’m flipping the behavior: bare `?` opens help on every top-level tab, and `,?` now just exits leader mode without opening help.
+
+The onboarding tests are next. They’ll now configure `app.show_help` instead of `leader_mode.keys.show_help`, which also proves stale leader overrides no longer influence the visible hints.
+
+I’m updating the leader-dispatch test so `,?` is treated like an unknown retired leader subkey: it exits the prefix mode, refreshes, and does not call help or become repeatable.
+
+The metadata-search pilot test needs the behavioral coverage now: `/` starts search, `Ctrl+R` toggles direction without losing the query, committed repeats follow the toggled direction, and `?` reaches help instead of starting reverse search.
+
+I’m adding the metadata-search integration coverage for default `Ctrl+R` and an override key. The override test also checks that the old default no longer toggles when the user remaps the action.
+
+I’m adding focused controller tests for the new toggle and for the host opt-out that lets metadata search give `?` back to global help without changing the default prompt-search behavior.
+
+I removed the stale leader command label too. Now I’m running targeted searches for old expectations: `,?`, leader `show_help`, and metadata reverse on `?`.
+
+The remaining `/ / ?` strings are prompt/zoom search docs, which are intentionally separate from metadata search. I’ll now tighten the onboarding quick-start tests to ensure stale leader help overrides do not leak into the rendered card.
+
+I’m checking for remaining old metadata-search wording and the `question_mark` reverse default in tests before running the first focused suite.
+
+The old leader-help references are gone from code. I’m spot-checking the remaining `question_mark` tests to distinguish local prompt/zoom behavior from the top-level help binding.
+
+A few help-modal tests still open help via the retired leader chord. I’m switching those to bare `?`; the jump-mode test that presses `'?` is unrelated and should stay as a cancellation case.
+
+I’m doing one more pass for literal `comma, question_mark` help-open calls and stale leader-mode show-help assertions.
+
+I’m adding a small command-catalog assertion for the new app-level help command. That catches both metadata drift and accidental reintroduction of `leader.show_help`.
+
+I’ll add one availability test for `app.show_help` across the top-level tabs and Artifacts sub-tabs, since the plan explicitly calls out that scope.
+
+Before running tests, I’m checking the config/dataclass consistency and import-time guard with a quick compile plus the targeted keymap tests.
+
+The first quick test attempt hit the expected ephemeral-workspace issue: dependencies are not installed (`rich` missing). The raw `compileall` also used the system Python and choked on the repo’s newer Python syntax, so I’m switching to the prescribed path: `just install`, then tests through the project environment.
+
+`just install` completed and the local editable environment is ready. I’m rerunning the focused tests now through `.venv/bin/pytest` so failures reflect the project runtime.
+
+One controller test expectation was wrong for a match exactly at the origin: Vim-style preview includes the origin, so reversing can legitimately keep the same match. I’m adjusting the fixture so the origin is between two matches and the test proves the direction toggle selects the opposite side from the same origin.
+
+The controller fixture is corrected. I’m rerunning the same focused suite before moving on to integration and visual coverage.
+
+The keymap/controller unit suite is green. I’m running the pilot tests that exercise real Textual dispatch and the updated help/onboarding surfaces.
+
+The pilot suite exposed a real wiring gap: adding `show_help` to the generated configurable bindings is not enough if the underlying app binding table does not get updated at runtime in these contexts. I’m checking how `AceApp` installs the registry-backed binding list so `?` can actually dispatch.
+
+The runtime failure confirms `show_help` is present in metadata but not actually being installed on `AceApp`. I’m inspecting app construction/bindings installation to find where configured bindings are applied.
+
+`AceApp` replaces `self._bindings` from `build_app_bindings`, so I’m checking the live binding map and action availability on a fresh app. If the binding exists there, the issue is likely a conflict or lifecycle timing rather than metadata.
+
+The binding is installed, but `app.check_action('show_help')` was false in an unmounted instance because one of the generic Artifacts filters is catching it. I’m tracing that predicate and will exempt/help-scope it before those filters run.
+
+The live app starts on the Artifacts top-level tab with the Commits sub-tab active, and `_app_action_availability` has its own non-PR Artifacts allowlist separate from the command-palette allowlist. I’m adding `show_help` there so `?` works on every Artifacts sub-tab.
+
+I found the runtime allowlist. I’m adding `show_help` there, which should make bare `?` dispatch on Commits, Plans, Beads, Chats, Files, Bugs, and PRs.
+
+The Artifacts action allowlist is patched. I’m verifying `check_action('show_help')` directly, then I’ll rerun the failed pilot tests.
+
+`show_help` now reports available on the initial Artifacts/Commits surface. I’m rerunning the failed dispatch tests plus the metadata-search pilot suite.
+
+The failed dispatch paths are fixed, and the metadata-search pilot suite is green. I’m identifying the visual snapshot tests that cover changed text so I can update only those PNGs.
+
+I’m picking up from the implemented code and test changes. Next I’m going to re-run a narrow visual/test scan, update only intentional snapshots if they fail, then run the required full `just check`.
+
+The worktree has only the expected source/test edits so far. I found the targeted visual test files for help, onboarding, command palette, and metadata search; I’m checking the project recipes next because the justfile is capitalized or located differently here.
+
+The visual suite and snapshot helpers are present. I’m narrowing to the explicit recipes and the affected visual files now, avoiding the whole-repo text sweep because it is too noisy.
+
+I’m going to run the affected PNG tests without updating snapshots first. If the differences are exactly the expected help key and metadata-search footer changes, I’ll regenerate only those targeted snapshots.
+
+The targeted visual run is still in progress. These tests render full TUI frames, so I’m letting it complete rather than interrupting and losing the failure artifacts.
+
+The visual runner is queued behind an existing 26-token visual pytest process (`pid 516264`) that predates this resumed run. I’m going to inspect that process so I can tell whether it is a live prior test run or stale token contention.
+
+The blocking process is a real full visual pytest run in a sibling workspace, not a stale token file. I’m leaving it alone and waiting for the scheduler slot; meanwhile I’ll avoid changing files under the queued visual command.
+
+The targeted visual run failed only in the expected surfaces: onboarding/help text and metadata search overlay. I’m inspecting the generated SVG text before accepting the new goldens, so the snapshot updates stay tied to the intended UI copy changes.
+
+The failure summaries are small and line up with text-only shifts. I’m checking the actual rendered strings for `?`, `Ctrl+R`, and any remaining `,?` before regenerating.
+
+The metadata search SVG shows the new `[Ctrl+R] reverse` hint in the overlay. I’m doing one more targeted text check on the changed help/onboarding frames, then I’ll refresh the goldens.
+
+The changed frames render `?` as the app-level help key and `[Ctrl+R] reverse` in metadata search; no `,?` help prompt showed up in those affected surfaces. I’m regenerating the targeted PNG goldens now.
+
+The snapshot update run has started and is still rendering. I’ll rerun the same targeted visual subset without update immediately afterward to verify the committed goldens are exact.
+
+The update run is queued behind two active fast pytest jobs using the worker tokens. I’m leaving those alone and waiting for capacity; no files have been regenerated yet in this queued command.
+
+Still queued; the same two fast pytest runs hold all tokens. I’ll give the scheduler more time rather than bypassing it, since these visual snapshots are sensitive to concurrent test load.
+
+The token holders are now a few minutes old. I’m going to inspect them briefly so I can distinguish normal long-running test work from a stuck token holder before continuing to wait.
+
+Both token holders are live pytest runs in sibling workspaces, so I’m continuing to wait rather than interfering. Once the update run gets a slot, it should complete quickly because it’s only seven visual cases.
+
+The queue is still blocked by those two fast suites. I’m holding the targeted snapshot update until the token gate allows it, then the full `just check` will also use the same scheduler.
+
+The targeted PNG goldens have been regenerated and the update run passed. I’m rerunning the same visual subset without the update flag now to verify the committed files match exactly.
+
+The verification visual run is active. This should confirm both the updated goldens and the unchanged command palette/help guide frames in the same pass.
+
+The verify run queued behind another fast suite again. I’m waiting on the token gate; the command has not started collecting tests yet.
+
+The same 4-token fast run is still active and a newer 12-token fast run is also holding capacity. I’m continuing to respect the scheduler; once this verify pass finishes, I’ll move to formatting/check.
+
+The verify pass is still waiting after several minutes. I’m not going to terminate other agents’ pytest processes; I’ll keep the queued run open and use the time to do read-only checks that don’t affect the files under test.
+
+The static sweep shows the new app-level `show_help` path, the metadata-search `Ctrl+R` label, and expected local uses of `?` in prompt/statistics tests. I’m waiting for the queued visual verification to complete before running any formatter.
+
+The visual verification is still queued and has not collected tests. I’m going to cancel that queued run, run the formatter now, then rely on the required full `just check` to verify the whole suite including visual snapshots.
+
+The queued verify command is stopped cleanly. I’m running the Python formatter/fixer now before the final check, which may make small formatting-only edits across the files I touched.
+
+Ruff reformatted one touched Python file and reported no fixable lint issues. I’m checking the diff shape once, then I’ll start `just check`.
+
+The diff is scoped to the planned keymap/help/search code, tests, and seven intentional PNG goldens; `git diff --check` is clean. I’m starting the required `just check` now.
+
+`just check` has passed formatting, keep-sorted, and ruff so far. It is still running through type/lint validation before it reaches the full test suite.
+
+Type checking, script validation, changelog validation, symvision, and line-count checks have passed. The remaining parts are SASE validation, committed-plan validation, and the full test run.
+
+SASE validation and committed-plan validation passed. `just check` is now in the full test step, which includes the PNG visual suite.
+
+The full test step is still running without new output. I’m leaving it to finish so we get the real suite result rather than stopping at partial verification.
+
+No test output yet; `just check` wraps the test command through a quiet runner, so it will usually stay silent until success or failure.
+
+The quiet test wrapper is still active. I’m checking the process tree in parallel to see whether it is queued on worker tokens or already executing pytest.
+
+The test step is queued on the SASE worker-token gate, not hung: my `sase_22` `tools/run_pytest fast` process has not spawned pytest yet because several sibling workspaces are already running checks.
+
+Still queued silently under the check wrapper. I’m going to keep waiting because the earlier stages are already complete and the required remaining work is the test grant.
+
+There are multiple sibling `just check` runs queued or active now; mine is still waiting in `tools/run_pytest fast`. I’ll keep the session open until the gate grants it or the command fails.
+
+The full check is still waiting on the shared pytest token pool with no new output from the quiet wrapper. I’m checking the queue again so I can report accurately and keep waiting if it is still normal contention.
+
+The gate has granted this workspace now: `just check` is running pytest with 7 workers. I’ll wait for the quiet wrapper to return the final pass/fail output.
+
+The 7-worker pytest run is still active under `just check`. The wrapper remains silent while tests pass, so there is nothing actionable yet.
+
+Still in the full pytest phase. I’m keeping the run alive until it finishes; earlier stages of `just check` are already green.
+
+The quiet test step has been running for several minutes. I’m checking the process once more to confirm it is still active and not waiting on a child that exited.
+
+The pytest process and its 7 workers are active. I’m continuing to wait for the wrapper to emit the final result.
+
+No failures have been reported; the quiet check wrapper is still waiting on pytest. I’m letting it continue.
+
+The full suite is still running under `just check`; this is now the main remaining step. I’ll keep the session open and report the actual result when it returns.
+
+`just check` failed in the final test step, but its quiet wrapper lost the failure log (`cat` complained the temp file was gone). I’m going to recover the failing test list from pytest cache/artifacts and then rerun the right subset with normal output.
+
+Pytest cache points at the footer help test and two footer overflow snapshots, which are directly related to the `,?` retirement. I’m reading those tests first; the older SDD entries in `lastfailed` may be stale from other runs, so I’ll verify with a focused rerun after updating the footer expectations.
+
+The footer test file already expects `?` for help, so that `lastfailed` entry may be stale or a runtime footer path still differs. I’m checking the footer implementation and the current visual SVG content around the footer rows.
+
+The leader footer implementation no longer has a help chip, which matches retiring `,?`. I’m updating the stale test expectation and accepting the two footer-overflow snapshots that changed because that chip disappeared from the leader grid.
+
+I’m editing the footer unit test so it checks that leader-mode `,?` is gone while the Agents-only leader query shortcut remains scoped to Agents.
+
+The unit expectation is now aligned with the retired leader help chord. I’m regenerating just the two footer overflow PNGs so the leader grid no longer contains the stale help chip.
+
+The targeted footer snapshot update is queued or starting under the visual runner. After it completes, I’ll format the test edit and rerun the affected footer tests before restarting `just check`.
+
+The footer PNG update got a 6-worker grant and both targeted snapshot update tests passed. I’m waiting for the command to exit cleanly.
+
+The footer goldens are updated. I’m formatting the one unit-test edit, then I’ll rerun the focused footer unit/visual checks without snapshot update.
+
+Formatting is clean. I’m running the affected footer unit test and the two footer visual snapshots now, this time without update mode.
+
+The focused footer unit test and footer visual snapshots pass. I’m checking pytest’s last-failed cache before restarting the full `just check`, so I know whether any unrelated failures are still current.
+
+The focused footer fixes are green; `lastfailed` still contains old node IDs and unrelated stale entries, so I’m rerunning the full required `just check` rather than using `--lf`.
+
+The second `just check` has already passed formatting, linting, type checking, symvision, and size checks. It is moving through validation and then the full test step again.
+
+SASE validation and committed-plan validation passed again. The check is now in the full test phase.
+
+The full test phase is running or queued under the quiet wrapper again. I’ll keep it open until it returns the actual result.
+
+No output yet from the quiet test wrapper. I’m checking whether this run has a pytest worker grant or is still queued behind sibling checks.
+
+This time pytest has a 6-worker grant and is actively running. I’m waiting for the final result from the quiet wrapper.
+
+The full pytest run is still active with no reported failures. I’ll keep polling until `just check` exits.
+
+Still in the full test phase. The lack of output is expected from `tools/run_silent`; I’m letting the check finish.
+
+The quiet test phase has been running for several more minutes. I’m checking worker status again to distinguish slow tests from a stuck process.
+
+The pytest workers are still active. No new visual failure artifacts have appeared in the last few minutes, so I’m continuing to wait for normal completion.
+
+`just check` is now green, including the full test suite. One tool issue surfaced during the first failing run: `tools/run_silent` lost the underlying failure log and printed a missing temp-file error. Per this repo’s instructions, I’m going to record that as follow-up work through the SASE task workflow before I wrap up.
+
+Using `sase_new_task` because I found a reproducible follow-up in this repo’s own check wrapper while implementing the approved plan.
+
+I’ve loaded the task-bead policy. Next I’m checking for duplicates across all task statuses and for any active epic that already covers the `run_silent` failure-log issue.
+
+The active epic list shows general test-contention work, but nothing yet that obviously covers `run_silent` losing its captured failure output. The full task duplicate scan is still running; I’m waiting for that before deciding whether to create or corroborate a bead.
+
+The duplicate scan did not show an existing task about `run_silent` losing its captured log; it mainly found broader test flakes/contention and unrelated validation issues. I’m inspecting the plausible active test-contention epic before filing anything, because this may belong there if it is causally linked.
+
+The active test-contention epic is about load-sensitive pytest behavior, not the wrapper losing its captured stderr/stdout. I’m checking `tools/run_silent` directly and trying a tiny failing command to see whether the log-loss has a simple reproduction before creating the bead.
+
+A simple failing command preserves its output, so the issue is narrower: during the full pytest failure, the capture file under `/tmp/tmp.*` disappeared before `run_silent` could `cat` it. I found no direct duplicate, and the active epic does not causally cover this wrapper behavior, so I’m going to create a small ready task for it.
+
+The direct bead searches for `run_silent`, `cat: /tmp`, and failure-log wording found no duplicate. I’m creating a new small task bead and marking it ready for triage.
+
+The task creation command is running; bead operations can take a moment because they update the shared sidecar store.
+
+Created task bead `sase-ee`. I’m marking it ready now, per the discovered-follow-up workflow.
+
+The ready-state update is still running against the bead store. I’ll wait for it to finish before checking the final worktree.
+
+The follow-up task `sase-ee` is ready. I’m doing a final status/diff check now; because the only post-check mutation should be bead metadata, the earlier `just check` result still covers the code changes.
+
+Implemented the approved plan.
+
+Changes made:
+- Restored app-level `?` help via `app.show_help`.
+- Retired leader `,?` help from config, command catalog, footer/help surfaces, and tests.
+- Moved Agents metadata reverse search to configurable `Ctrl+R`, active only while metadata search overlay is open.
+- Made `?` fall through to global help when metadata search is committed/idle.
+- Updated help/onboarding/footer text and PNG goldens.
+- Added/updated regression coverage for keymap loading, command availability, metadata search behavior, prompt-search separation, footer behavior, and visual snapshots.
+
+Verification completed:
+- `just install`
+- Focused pytest/keymap/metadata-search/footer suites
+- Targeted visual snapshot update and verification
+- `just fmt-py`
+- Final `just check` passed, including the full test suite.
+
+I also filed the discovered follow-up task `sase-ee` for `tools/run_silent` losing captured failure logs when its temp file disappears during `just check`.
+
+Using `sase_git_commit` now because the finalizer requires committing the changes I made in this session. I’ll read the commit workflow instructions, then create a scoped commit with the listed files only.
+
+I’ve loaded the commit skill instructions. I’m recording the skill-use evidence now, then I’ll inspect the final diff and commit only the files from the finalizer list.
+
+The status is exactly the implementation set from the finalizer, with no untracked files. I’m doing one content diff pass before creating the commit message so the commit scope and message match the actual changes.
+
+The textual diff matches the planned behavior: app help is global again, leader help is retired, and metadata reverse search is now a stateful `Ctrl+R` toggle with updated tests and snapshots. I’m writing the commit message file and then invoking `sase_git_commit` with one `-f` per changed file.
+
+The commit message is in `.sase/commit_message.md`. I’m running the SASE commit wrapper now; it may take a bit because it handles the commit workflow and any safe upstream reconciliation itself.
+
+The primary commit succeeded; the wrapper is still finishing its bookkeeping. It noted that prompt archive publication was skipped because `raw_xprompt.md` is unavailable, which is non-blocking if the wrapper exits cleanly.
+
+The commit wrapper has not returned yet after the successful provider commit message. I’m keeping the session open until it exits so I can verify the final repo state instead of assuming the bookkeeping is done.
+
+Still waiting on the wrapper process after the commit succeeded. I’m going to inspect the process tree in parallel to see whether it is doing post-commit work or stuck waiting on a child process.
+
+The working tree is already clean and no longer ahead or behind `origin/master`, so the commit and push appear complete. I’m still waiting for the wrapper session itself to return before I close out.
+
+The wrapper session is still open despite the clean pushed state. I’m checking for any remaining `sase_git_commit` or `sase commit` process so I can tell whether this is active work or a stale PTY.
+
+There is still a live `sase commit` process, not just a stale PTY, even though the branch is clean and synced. I’m going to wait a little longer, then inspect it more closely if it keeps running with no output.
+
+It is still running silently. I’m checking CPU/time and open descriptors for the `sase commit` child; that should tell whether it is actively computing, waiting on I/O, or waiting on an external command.
+
+The child is CPU-bound and holding the plans sidecar write lock with no subprocesses, which looks like post-commit bookkeeping rather than git push. I’m taking a short Python stack sample so I can decide whether to wait or treat this as a stuck wrapper after the successful commit.
+
+`py-spy` is available, so I’m sampling the stuck Python process directly. This is read-only inspection; I’m not interrupting the commit process yet.
+
+The stack sample shows the wrapper is in committed-plan header refresh, rebuilding plan association metadata and repeatedly loading the agent-name registry. That is post-commit publication work after the git commit/push; I’ll give it a short window to finish, then decide whether to interrupt and file this specific follow-up if it remains CPU-bound.
+
+The post-commit process is still CPU-bound in the same phase. I’m taking one more stack sample; if it is unchanged, I’ll stop the stuck wrapper because the commit is already present and the branch is clean/synced.
+
+The second sample is still in the same committed-plan association refresh, now CPU-bound for over four minutes, while the commit is already at `origin/master` and the tree is clean. I’m interrupting the stuck post-commit wrapper so it releases the sidecar lock, then I’ll verify the repository state again.
+
+The interrupted stack confirms the slow path was `iter_agent_artifact_dirs` during committed-plan header refresh. I’m verifying the commit/push state now and checking whether the sidecar lock was released.
+
+The repository is clean and `HEAD` is pushed to `origin/master` at `fa43d2f46`. I also uncovered a separate SASE commit-workflow hang in the post-commit plan-header refresh; per repo policy, I’m going to check for an existing task before deciding whether to file that follow-up.
+
+Using `sase_new_task` for the commit-workflow hang because it is a discovered follow-up in this repo’s own tooling. I’ll check duplicates and active epics before creating anything new.
+
+I’ve loaded the bead policy. I’m scanning all task statuses and active epics for this specific root cause: `sase commit` spending unbounded CPU in committed-plan header association refresh through agent-registry/artifact-dir scanning.
+
+There is an exact duplicate: `sase-cl` already tracks the same post-commit publication scan hang, including the same call path through `refresh_committed_plan_header` and `iter_agent_artifact_dirs`. I’m going to corroborate that task with this independent `fa43d2f46` occurrence instead of creating a new bead.
+
+I corroborated the existing duplicate task `sase-cl` with this `fa43d2f46` occurrence. I’m doing one final cleanliness/process check now so the closeout reflects the actual state after the interrupted publication step and the duplicate-task update.
+
+The main repo is clean and synced, and there are no remaining commit-wrapper processes. The interrupted wrapper left only the ignored temporary commit message file; I’m removing that local scratch file before the final status check.
+
+The scratch commit message file is gone. I’m running the last status check now.
+
+Implemented and committed the approved plan.
+
+Commit: `fa43d2f46 fix(ace): restore app help keymap`
+
+Verified:
+- `just check` passed, including full tests and PNG visual suite.
+- Final repo status is clean and synced with `origin/master`.
+
+Notes:
+- Restored global `?` help and retired leader `,?` help.
+- Moved Agents metadata reverse search to configurable `Ctrl+R`.
+- Updated help/onboarding/footer text, command availability, keymap defaults, tests, and PNG goldens.
+- Filed `sase-ee` for the `run_silent` lost-log issue.
+- Corroborated existing `sase-cl` for the post-commit publication scan hang observed after the commit had already been pushed.

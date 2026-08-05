@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** qj--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-qj__plan-260731_130751.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-qj__code-260731_130751.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/bulk_notification_mark_actions.md
 
 

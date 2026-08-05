@@ -18,13 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 5i.w-0--code | completed | gpt-5.6-sol / codex | 2026-07-11T14:06:37.714703+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.5i.w-0--code/chat.md) |
-| <a id="member-root"></a>root | 5i.w-0 | active | gpt-5.6-sol / codex | 2026-07-11T14:01:01.043355+00:00 | [1](../agents/bbugyi200.athena.5i.w-0/README.md#commits) | [Prompt](../agents/bbugyi200.athena.5i.w-0/prompt.md) | [Chat](../agents/bbugyi200.athena.5i.w-0/chat.md) |
+| <a id="member-root"></a>root | 5i.w-0 | active | gpt-5.6-sol / codex | 2026-07-11T14:01:01.043355+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.5i.w-0/prompt.md) | [Chat](../agents/bbugyi200.athena.5i.w-0/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`ed7714b`](https://github.com/sase-org/sase/commit/ed7714b5b2e5f714cd54105139b054e28c7a8fb7) | feat(models): group coder aliases in built-in bucket | 2026-07-11 10:25:50 EDT |
+| — | sase | [`ed7714b`](https://github.com/sase-org/sase/commit/ed7714b5b2e5f714cd54105139b054e28c7a8fb7) | feat(models): group coder aliases in built-in bucket | 2026-07-11 10:25:50 EDT |
 
 ## Neighbors
 

@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-13T12:59:08.257028+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8b804aa`](https://github.com/sase-org/sase/commit/8b804aa544b9ab63461645b32b4c04fd13183150) | test: distinguish workflow wrappers from leaf agents | 2026-07-13 09:09:21 EDT |
 
 ## Neighbors
 

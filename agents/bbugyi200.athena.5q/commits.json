@@ -1,1 +1,1 @@
-{"commits":[{"committed_at":1781280722,"sha":"d6c4a5bd2e6951598758f6bf22ccf4d9a65ec260","subject":"chore: Add SDD prompt and plan for commit_tags"},{"committed_at":1781281056,"sha":"1d59abbcd27ccf52af8503f2c330ffe6b768f59f","subject":"docs: expand git commit tag guidance"},{"committed_at":1783789310,"sha":"dc1221799490b32d8c1939394dd502da83479f65","subject":"feat(tui): distinguish artifact types with icons"}],"schema_version":2,"source_run_id":"run-e9280329a07bfa0f05565d18865ac476"}
+{"commits":[],"schema_version":2,"source_run_id":"run-e9280329a07bfa0f05565d18865ac476"}

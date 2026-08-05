@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-28197aa39c72988a84bbb2bd060091ef"}
+{"commits":[{"committed_at":1783457558,"sha":"be540239c2b33730c83199d8465546e294b5f4b6","subject":"fix: prevent stale pending tool calls"}],"schema_version":2,"source_run_id":"run-28197aa39c72988a84bbb2bd060091ef"}

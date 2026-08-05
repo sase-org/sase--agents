@@ -11,17 +11,11 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-14T18:35:48.186023+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`beeefa6`](https://github.com/sase-org/sase/commit/beeefa6c2b358bf36a79f172d2274e13275d9afe) | fix: require plan validation core bindings (sase-61) | 2026-07-14 15:12:17 EDT |
 
 ## Neighbors
 

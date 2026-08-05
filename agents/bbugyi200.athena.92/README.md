@@ -11,19 +11,11 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-15T13:59:28.818607+00:00
-- Commits: [3](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`49c9470`](https://github.com/sase-org/sase/commit/49c9470431d6ce6a192ee3b5db2b84ec59eef036) | chore: Add SDD prompt and plan for agents\_list\_command | 2026-06-17 07:11:45 EDT |
-| sase | [`00dc569`](https://github.com/sase-org/sase/commit/00dc569bba2ce6e1850ebab0bd7de17cda0d664e) | feat(cli)!: rename \`agents status\` to \`agents list\` | 2026-06-17 07:43:09 EDT |
-| sase | [`fc3fc55`](https://github.com/sase-org/sase/commit/fc3fc552c09b3b78c30fdb0765eaf02ea70af32d) | fix: normalize GitHub sidecar origins to SSH | 2026-07-15 10:28:06 EDT |
 
 ## Neighbors
 

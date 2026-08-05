@@ -11,7 +11,7 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-07T16:42:15.474406+00:00
-- Commits: [2](#commits)
+- Commits: [1](#commits)
 
 ## Files
 
@@ -22,4 +22,3 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`805fe94`](https://github.com/sase-org/sase/commit/805fe9452ff18df7de915da13f88674e5bb86251) | chore: Add SDD prompt and plan for fix\_sase\_github\_ci\_dependency\_floor | 2026-07-07 12:47:40 EDT |
-| sase | [`22890c6`](https://github.com/sase-org/sase/commit/22890c6f4f95133243a36d0d2a9f2a550583852e) | chore: Mark SDD plan done | 2026-07-07 13:42:05 EDT |

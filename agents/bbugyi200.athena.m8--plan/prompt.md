@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me review the /sase_beads xprompt skill for accuracy, usefullness (make sure you understand how beads are actually used in practice), and conciseness (remember, every token in context either helps or hurts us)? Make any improvements you find that you are confident in. #plan #m_fable 

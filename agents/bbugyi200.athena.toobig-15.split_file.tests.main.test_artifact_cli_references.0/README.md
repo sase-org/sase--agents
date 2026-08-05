@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,6 +27,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-15.split\_file.tests.agents\_sync.test\_commit\_publication.0](../bbugyi200.athena.toobig-15.split_file.tests.agents_sync.test_commit_publication.0/README.md) | toobig-15.split\_file.tests hood | completed |
-| [toobig-15.split\_file.tests.agents\_sync.test\_inventory.0](../bbugyi200.athena.toobig-15.split_file.tests.agents_sync.test_inventory.0/README.md) | toobig-15.split\_file.tests hood | completed |
-| [toobig-15.split\_file.src.sase.agents\_sync.inventory.0](../bbugyi200.athena.toobig-15.split_file.src.sase.agents_sync.inventory.0/README.md) | toobig-15.split\_file hood | completed |
+| [toobig-15.split\_file.tests.agents\_sync.test\_commit\_publication.0](../bbugyi200.athena.toobig-15.split_file.tests.agents_sync.test_commit_publication.0/README.md) | toobig-15.split\_file.tests hood | active |
+| [toobig-15.split\_file.tests.agents\_sync.test\_inventory.0](../bbugyi200.athena.toobig-15.split_file.tests.agents_sync.test_inventory.0/README.md) | toobig-15.split\_file.tests hood | active |
+| [toobig-15.split\_file.src.sase.agents\_sync.inventory.0](../bbugyi200.athena.toobig-15.split_file.src.sase.agents_sync.inventory.0/README.md) | toobig-15.split\_file hood | active |

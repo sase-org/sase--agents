@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-0t.split\_file.tests.agents\_sync.test\_git\_sync.0](../bbugyi200.athena.toobig-0t.split_file.tests.agents_sync.test_git_sync.0/README.md) | toobig-0t.split\_file.tests hood | completed |
-| [toobig-0t.split\_file.src.sase.workflows.commit.workflow.0](../bbugyi200.athena.toobig-0t.split_file.src.sase.workflows.commit.workflow.0/README.md) | toobig-0t.split\_file hood | completed |
+| [toobig-0t.split\_file.tests.agents\_sync.test\_git\_sync.0](../bbugyi200.athena.toobig-0t.split_file.tests.agents_sync.test_git_sync.0/README.md) | toobig-0t.split\_file.tests hood | active |
+| [toobig-0t.split\_file.src.sase.workflows.commit.workflow.0](../bbugyi200.athena.toobig-0t.split_file.src.sase.workflows.commit.workflow.0/README.md) | toobig-0t.split\_file hood | active |

@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [nz](../bbugyi200.athena.nz/README.md) | ancestor | completed |
+| [nz](../bbugyi200.athena.nz/README.md) | ancestor | active |

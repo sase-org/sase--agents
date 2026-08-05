@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** o4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-o4__plan-260729_084819.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-o4__code-260729_084819.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/lane_counts_in_cleanup_confirmations.md
 
 

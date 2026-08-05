@@ -24,3 +24,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [e6](../bbugyi200.athena.e6/README.md) | ancestor | completed |
+| [e6.6.verify](../bbugyi200.athena.e6.6.verify/README.md) | e6 hood | failed |

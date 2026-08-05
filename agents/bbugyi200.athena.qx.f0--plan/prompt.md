@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:qx Can you now help me add support for adding a word to the user's `aspell` personal dictionary directly from the panel that shows the list of spelling correction recommendations? #beau #plan #m_opus

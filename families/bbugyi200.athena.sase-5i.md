@@ -17,15 +17,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-5i--code | completed | gpt-5.5 / codex | 2026-07-07T22:01:47.854404+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-5i--code/chat.md) |
-| <a id="member-root"></a>root | sase-5i | active | claude-fable-5 / claude | 2026-07-07T21:48:16.774820+00:00 | [2](../agents/bbugyi200.athena.sase-5i/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-5i/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-5i/chat.md) |
+| <a id="member-code"></a>code | sase-5i--code | completed | gpt-5.5 / codex | 2026-07-07T22:01:47.854404+00:00 | [1](../agents/bbugyi200.athena.sase-5i--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-5i--code/chat.md) |
+| <a id="member-root"></a>root | sase-5i | active | claude-fable-5 / claude | 2026-07-07T21:48:16.774820+00:00 | [1](../agents/bbugyi200.athena.sase-5i/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-5i/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-5i/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | root | sase | [`1a73a30`](https://github.com/sase-org/sase/commit/1a73a30c9b5e805d4ba4e834878f4b3fc3ecf02b) | chore: Add SDD prompt and plan for close\_sase\_5i\_parity\_and\_test\_gaps (sase-5i) | 2026-07-07 18:01:45 EDT |
-| root | sase | [`b596d78`](https://github.com/sase-org/sase/commit/b596d78dbbcd9d93712a11332a6078e59723efb7) | fix: align VCS ref completion parity (sase-5i) | 2026-07-07 18:23:03 EDT |
+| code | sase | [`b596d78`](https://github.com/sase-org/sase/commit/b596d78dbbcd9d93712a11332a6078e59723efb7) | fix: align VCS ref completion parity (sase-5i) | 2026-07-07 18:23:03 EDT |
 
 ## Neighbors
 

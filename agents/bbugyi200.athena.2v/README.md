@@ -11,14 +11,8 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-08T22:11:58.313523+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`9765fa7`](https://github.com/sase-org/sase/commit/9765fa7d6e3ed6435d5ab01b1a1699f7d2d8cdd2) | feat: surface SDD commits in agent metadata | 2026-07-08 18:36:41 EDT |

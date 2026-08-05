@@ -20,6 +20,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | hq--code | completed | gpt-5.6-sol / codex | 2026-07-22T10:57:44.468083+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.hq--code/chat.md) |
 | <a id="member-plan"></a>plan | hq--plan | active | gpt-5.6-sol / codex | 2026-07-22T10:52:56.509082+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.hq--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.hq--plan/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`d8e30b5`](https://github.com/sase-org/sase/commit/d8e30b51d3eea3817693b9b9b68cf5775dadbcdb) | feat(ace)!: move tribe panel isolation to zoom action | 2026-07-22 07:16:29 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |

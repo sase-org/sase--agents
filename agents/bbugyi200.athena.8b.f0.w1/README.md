@@ -11,17 +11,11 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-14T12:24:46.302155+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`7bc4ff3`](https://github.com/sase-org/sase/commit/7bc4ff38f5e4943c52e755ec069cc48aeb1bd4b3) | feat(tui): flash yanked prompt text | 2026-07-14 09:16:10 EDT |
 
 ## Neighbors
 

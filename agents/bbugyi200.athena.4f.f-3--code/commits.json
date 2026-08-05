@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b8c4f70d1ce02d630a597509a5e2a1cf"}
+{"commits":[{"committed_at":1783703368,"sha":"d0c4f8838b3e7a1cbdfde32230d5c04170dd3e71","subject":"fix(vcs): exclude phantom repositories from global inventory"}],"schema_version":2,"source_run_id":"run-b8c4f70d1ce02d630a597509a5e2a1cf"}

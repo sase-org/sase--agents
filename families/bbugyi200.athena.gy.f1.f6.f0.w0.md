@@ -20,6 +20,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | gy.f1.f6.f0.w0--plan | active | claude-fable-5 / claude | 2026-07-21T14:33:32.524848+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.gy.f1.f6.f0.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.gy.f1.f6.f0.w0--plan/chat.md) |
 | <a id="member-code"></a>code | gy.f1.f6.f0.w0--code | completed | gpt-5.6-sol / codex | 2026-07-21T14:42:17.110482+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.gy.f1.f6.f0.w0--code/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`d57e220`](https://github.com/sase-org/sase/commit/d57e2207c097dd7fc097f7267e700db5727c3bde) | feat(ace): show model pool effort details | 2026-07-21 11:35:08 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |

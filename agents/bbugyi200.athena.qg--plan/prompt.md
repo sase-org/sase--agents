@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make it so the `sase bead list` command shows a great visual indication of each bead's type? #beau #plan #m_opus

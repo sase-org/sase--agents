@@ -11,4 +11,10 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-10T19:47:04.317633+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c224c98`](https://github.com/sase-org/sase/commit/c224c98bdc679e6894defe0a2a1c40d2754ca06f) | fix(query): propagate project names to ChangeSpec search | 2026-07-10 16:04:04 EDT |

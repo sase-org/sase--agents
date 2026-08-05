@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 78 | active | claude-fable-5 / claude | 2026-07-12T20:25:22.486259+00:00 | [1](../agents/bbugyi200.athena.78/README.md#commits) | [Prompt](../agents/bbugyi200.athena.78/prompt.md) | [Chat](../agents/bbugyi200.athena.78/chat.md) |
-| <a id="member-code"></a>code | 78--code | completed | gpt-5.6-sol / codex | 2026-07-12T20:29:56.763368+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.78--code/chat.md) |
+| <a id="member-root"></a>root | 78 | active | claude-fable-5 / claude | 2026-07-12T20:25:22.486259+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.78/prompt.md) | [Chat](../agents/bbugyi200.athena.78/chat.md) |
+| <a id="member-code"></a>code | 78--code | completed | gpt-5.6-sol / codex | 2026-07-12T20:29:56.763368+00:00 | [1](../agents/bbugyi200.athena.78--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.78--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`5e4ae55`](https://github.com/sase-org/sase/commit/5e4ae55d3a066b7c178ee0a754a9b5f9acfcc15d) | feat(cli): add plan list status and limit filters | 2026-07-12 16:41:47 EDT |
+| code | sase | [`5e4ae55`](https://github.com/sase-org/sase/commit/5e4ae55d3a066b7c178ee0a754a9b5f9acfcc15d) | feat(cli): add plan list status and limit filters | 2026-07-12 16:41:47 EDT |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a2f715d9ce6cd7e0678f486dac988584"}
+{"commits":[{"committed_at":1785692068,"sha":"aab489997eb1c745d34cfda0978089696aed1135","subject":"fix(ace-tui): repair prompt commit inventory binding and worker lifecycle"}],"schema_version":2,"source_run_id":"run-a2f715d9ce6cd7e0678f486dac988584"}

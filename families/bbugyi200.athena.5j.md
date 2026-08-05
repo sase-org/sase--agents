@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 5j--code | completed | gpt-5.6-sol / codex | 2026-07-11T13:59:40.383696+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.5j--code/chat.md) |
-| <a id="member-root"></a>root | 5j | active | gpt-5.6-sol / codex | 2026-07-11T13:55:24.995559+00:00 | [1](../agents/bbugyi200.athena.5j/README.md#commits) | [Prompt](../agents/bbugyi200.athena.5j/prompt.md) | [Chat](../agents/bbugyi200.athena.5j/chat.md) |
+| <a id="member-code"></a>code | 5j--code | completed | gpt-5.6-sol / codex | 2026-07-11T13:59:40.383696+00:00 | [1](../agents/bbugyi200.athena.5j--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.5j--code/chat.md) |
+| <a id="member-root"></a>root | 5j | active | gpt-5.6-sol / codex | 2026-07-11T13:55:24.995559+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.5j/prompt.md) | [Chat](../agents/bbugyi200.athena.5j/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`f6f0224`](https://github.com/sase-org/sase/commit/f6f02240fed6e4f6435469b4de016f81e39788b0) | fix(memory): fold agent doc source changes into init commits | 2026-07-11 10:11:48 EDT |
+| code | sase | [`f6f0224`](https://github.com/sase-org/sase/commit/f6f02240fed6e4f6435469b4de016f81e39788b0) | fix(memory): fold agent doc source changes into init commits | 2026-07-11 10:11:48 EDT |

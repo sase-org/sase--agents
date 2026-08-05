@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d9eceecc1d7d005253cb52d5e7269a4e"}
+{"commits":[{"committed_at":1785281097,"sha":"b5efaf7e7929d41e94c53fc01d1e2e143cc011f9","subject":"ci: derive sidecar checkouts from sase.yml"}],"schema_version":2,"source_run_id":"run-d9eceecc1d7d005253cb52d5e7269a4e"}

@@ -18,13 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-root"></a>root | research.b.cld.f0 | active | claude-fable-5 / claude | 2026-07-14T11:31:47.972371+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.b.cld.f0/prompt.md) | [Chat](../agents/bbugyi200.athena.research.b.cld.f0/chat.md) |
-| <a id="member-code"></a>code | research.b.cld.f0--code | completed | gpt-5.6-sol / codex | 2026-07-14T11:38:57.812876+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.b.cld.f0--code/chat.md) |
+| <a id="member-code"></a>code | research.b.cld.f0--code | completed | gpt-5.6-sol / codex | 2026-07-14T11:38:57.812876+00:00 | [1](../agents/bbugyi200.athena.research.b.cld.f0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.research.b.cld.f0--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`d6771fe`](https://github.com/sase-org/sase/commit/d6771fe404545914ee60bef9026294b83d3276ec) | fix: require repo skill for repository web fetches | 2026-07-14 07:57:35 EDT |
+| code | sase | [`d6771fe`](https://github.com/sase-org/sase/commit/d6771fe404545914ee60bef9026294b83d3276ec) | fix: require repo skill for repository web fetches | 2026-07-14 07:57:35 EDT |
 
 ## Neighbors
 

@@ -11,7 +11,7 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-08T06:35:32.287566+00:00
-- Commits: [2](#commits)
+- Commits: [1](#commits)
 
 ## Files
 
@@ -22,7 +22,6 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`bb46c64`](https://github.com/sase-org/sase/commit/bb46c640baa116f6e8732cfd7ec4718dfd45cc32) | chore: Add SDD prompt and plan for sase\_5j\_finish | 2026-07-08 02:47:11 EDT |
-| sase | [`bbbcf31`](https://github.com/sase-org/sase/commit/bbbcf31fd96f74fcd8e5328cf9b486de3960e34e) | fix(sdd): point missing companion stores at migrate | 2026-07-08 02:58:58 EDT |
 
 ## Neighbors
 

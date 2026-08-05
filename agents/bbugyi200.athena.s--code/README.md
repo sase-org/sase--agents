@@ -11,11 +11,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-06T23:14:54.262621+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`7fb19c3`](https://github.com/sase-org/sase/commit/7fb19c3953cdb0988c831c7d67eb5da21ee61dc5) | build: update demo video regeneration workflow | 2026-07-06 19:25:14 EDT |
 
 ## Neighbors
 

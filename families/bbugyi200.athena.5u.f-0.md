@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 5u.f-0--code | completed | gpt-5.6-sol / codex | 2026-07-11T17:19:54.713345+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.5u.f-0--code/chat.md) |
-| <a id="member-root"></a>root | 5u.f-0 | active | gpt-5.6-sol / codex | 2026-07-11T17:15:57.899422+00:00 | [1](../agents/bbugyi200.athena.5u.f-0/README.md#commits) | [Prompt](../agents/bbugyi200.athena.5u.f-0/prompt.md) | [Chat](../agents/bbugyi200.athena.5u.f-0/chat.md) |
+| <a id="member-code"></a>code | 5u.f-0--code | completed | gpt-5.6-sol / codex | 2026-07-11T17:19:54.713345+00:00 | [1](../agents/bbugyi200.athena.5u.f-0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.5u.f-0--code/chat.md) |
+| <a id="member-root"></a>root | 5u.f-0 | active | gpt-5.6-sol / codex | 2026-07-11T17:15:57.899422+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.5u.f-0/prompt.md) | [Chat](../agents/bbugyi200.athena.5u.f-0/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`1180425`](https://github.com/sase-org/sase/commit/1180425d1192c6a3017aece24f67524a19b942dd) | fix: sort custom revival rows by recency | 2026-07-11 13:26:32 EDT |
+| code | sase | [`1180425`](https://github.com/sase-org/sase/commit/1180425d1192c6a3017aece24f67524a19b942dd) | fix: sort custom revival rows by recency | 2026-07-11 13:26:32 EDT |
 
 ## Neighbors
 

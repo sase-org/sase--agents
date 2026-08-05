@@ -11,7 +11,7 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-06T23:23:05.704230+00:00
-- Commits: [4](#commits)
+- Commits: [1](#commits)
 
 ## Files
 
@@ -21,7 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3be27db`](https://github.com/sase-org/sase/commit/3be27dbe78067f86eabc715f64653c5adb4e3f1a) | chore: Add SDD prompt and plan for slow\_tool\_calls\_metadata\_panel | 2026-07-03 12:19:30 EDT |
-| sase | [`4536419`](https://github.com/sase-org/sase/commit/4536419035284fb5064c9a09a964986362f6a8f0) | feat(tui): surface slow tool calls in agent metadata | 2026-07-03 13:03:03 EDT |
 | sase | [`3fe09a7`](https://github.com/sase-org/sase/commit/3fe09a76c40be608c99ae193f6496372a2d11ac8) | chore: Add SDD prompt and plan for tab\_onboarding\_quickstart | 2026-07-06 19:33:22 EDT |
-| sase | [`6fdd502`](https://github.com/sase-org/sase/commit/6fdd502c5a50387c54741830eb88893ec86acc28) | feat(tui): add tab quickstart onboarding | 2026-07-06 19:54:27 EDT |

@@ -11,17 +11,11 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-11T12:56:22.594414+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`f7cc1d7`](https://github.com/sase-org/sase/commit/f7cc1d7f4975f925d93fd51c0180e63678910c49) | feat(cli): preview init changes before applying | 2026-07-11 09:18:00 EDT |
 
 ## Neighbors
 

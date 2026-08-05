@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-acfbc8e390ade638c6a2fc60475115af"}
+{"commits":[{"committed_at":1783459441,"sha":"7696aa00e157a706d02ba8956126049892b3b5a8","subject":"feat(tui): add failed tool call report hints"}],"schema_version":2,"source_run_id":"run-acfbc8e390ade638c6a2fc60475115af"}

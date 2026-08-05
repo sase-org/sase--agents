@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-1e.split\_file.src.sase.ace.tui.modals.help\_modal.changespecs\_bindings.0](../bbugyi200.athena.toobig-1e.split_file.src.sase.ace.tui.modals.help_modal.changespecs_bindings.0/README.md) | toobig-1e.split\_file.src.sase hood | completed |
-| [toobig-1e.split\_file.src.sase.agents\_sync.prompt\_archive.publish.0](../bbugyi200.athena.toobig-1e.split_file.src.sase.agents_sync.prompt_archive.publish.0/README.md) | toobig-1e.split\_file.src.sase hood | completed |
+| [toobig-1e.split\_file.src.sase.ace.tui.modals.help\_modal.changespecs\_bindings.0](../bbugyi200.athena.toobig-1e.split_file.src.sase.ace.tui.modals.help_modal.changespecs_bindings.0/README.md) | toobig-1e.split\_file.src.sase hood | active |
+| [toobig-1e.split\_file.src.sase.agents\_sync.prompt\_archive.publish.0](../bbugyi200.athena.toobig-1e.split_file.src.sase.agents_sync.prompt_archive.publish.0/README.md) | toobig-1e.split\_file.src.sase hood | active |

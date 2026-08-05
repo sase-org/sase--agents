@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-ah` · Members: 2
 ```mermaid
 flowchart TD
   n0["sase-ah.land--plan [active]"]
-  n1["sase-ah.land--code [active]"]
+  n1["sase-ah.land--code [completed]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-ah.land--plan | active | gpt-5.6-sol / codex | 2026-07-28T19:52:05.148096+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ah.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ah.land--plan/chat.md) |
-| <a id="member-code"></a>code | sase-ah.land--code | active | gpt-5.6-sol / codex | 2026-07-28T20:01:39.144268+00:00 | [2](../agents/bbugyi200.athena.sase-ah.land--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | sase-ah.land--code | completed | gpt-5.6-sol / codex | 2026-07-28T20:01:39.144268+00:00 | [2](../agents/bbugyi200.athena.sase-ah.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-ah.land--code/chat.md) |
 
 ## Commits
 
@@ -31,6 +31,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ah.1](../agents/bbugyi200.athena.sase-ah.1/README.md) | sase-ah hood | completed |
-| [sase-ah.2](../agents/bbugyi200.athena.sase-ah.2/README.md) | sase-ah hood | completed |
-| [sase-ah.3](../agents/bbugyi200.athena.sase-ah.3/README.md) | sase-ah hood | completed |
+| [sase-ah.1](../agents/bbugyi200.athena.sase-ah.1/README.md) | sase-ah hood | active |
+| [sase-ah.2](../agents/bbugyi200.athena.sase-ah.2/README.md) | sase-ah hood | active |
+| [sase-ah.3](../agents/bbugyi200.athena.sase-ah.3/README.md) | sase-ah hood | active |

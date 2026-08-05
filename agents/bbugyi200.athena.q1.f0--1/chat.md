@@ -4,6 +4,12 @@
 - **MODEL:** claude/opus
 - **AGENT:** q1.f0--1
 
+## Linked Chats
+
+- 1. --0 — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-q1_f0__0-260731_082444.md`
+- **2. --1** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-q1_f0__1-260731_082444.md`
+- 3. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-q1_f0__code-260731_082444.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/research_tribe_to_chezmoi.md
 
 

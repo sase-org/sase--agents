@@ -11,17 +11,11 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-09T17:22:56.544662+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`4330f6f`](https://github.com/sase-org/sase/commit/4330f6f2c92357d3204b930ba334003e4b386bae) | fix(tui): hide commit message bookkeeping deltas | 2026-07-09 13:35:26 EDT |
 
 ## Neighbors
 

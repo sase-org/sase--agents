@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 8b.f0.w1--code | completed | gpt-5.6-sol / codex | 2026-07-14T12:58:00.166146+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.8b.f0.w1--code/chat.md) |
-| <a id="member-root"></a>root | 8b.f0.w1 | active | opus / claude | 2026-07-14T12:24:46.302155+00:00 | [1](../agents/bbugyi200.athena.8b.f0.w1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.8b.f0.w1/prompt.md) | [Chat](../agents/bbugyi200.athena.8b.f0.w1/chat.md) |
+| <a id="member-code"></a>code | 8b.f0.w1--code | completed | gpt-5.6-sol / codex | 2026-07-14T12:58:00.166146+00:00 | [1](../agents/bbugyi200.athena.8b.f0.w1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.8b.f0.w1--code/chat.md) |
+| <a id="member-root"></a>root | 8b.f0.w1 | active | opus / claude | 2026-07-14T12:24:46.302155+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.8b.f0.w1/prompt.md) | [Chat](../agents/bbugyi200.athena.8b.f0.w1/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`7bc4ff3`](https://github.com/sase-org/sase/commit/7bc4ff38f5e4943c52e755ec069cc48aeb1bd4b3) | feat(tui): flash yanked prompt text | 2026-07-14 09:16:10 EDT |
+| code | sase | [`7bc4ff3`](https://github.com/sase-org/sase/commit/7bc4ff38f5e4943c52e755ec069cc48aeb1bd4b3) | feat(tui): flash yanked prompt text | 2026-07-14 09:16:10 EDT |
 
 ## Neighbors
 

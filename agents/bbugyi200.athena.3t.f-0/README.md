@@ -11,17 +11,11 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-09T17:51:39.190840+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`600eb4d`](https://github.com/sase-org/sase/commit/600eb4df714eae16beece21919bbd8b210a803b9) | feat(vcs-log): render SASE tags as styled chips | 2026-07-09 14:14:41 EDT |
 
 ## Neighbors
 

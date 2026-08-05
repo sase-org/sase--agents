@@ -11,17 +11,11 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-10T20:36:56.269822+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`9fca688`](https://github.com/sase-org/sase/commit/9fca688f05e014dac3732251ede35bcacdbe680d) | chore: Add SDD prompt and plan for atomic\_starting\_count\_and\_row | 2026-06-10 09:03:09 EDT |
 
 ## Neighbors
 

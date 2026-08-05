@@ -11,8 +11,14 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-08T22:21:35.376866+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9765fa7`](https://github.com/sase-org/sase/commit/9765fa7d6e3ed6435d5ab01b1a1699f7d2d8cdd2) | feat: surface SDD commits in agent metadata | 2026-07-08 18:36:41 EDT |

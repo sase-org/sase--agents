@@ -11,7 +11,7 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-06T19:45:09.961253+00:00
-- Commits: [2](#commits)
+- Commits: [1](#commits)
 
 ## Files
 
@@ -22,7 +22,6 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`0497e9b`](https://github.com/sase-org/sase/commit/0497e9b0c85b242b8263adfc2018fae19cabd1d7) | chore: Add SDD prompt and plan for telegram\_completion\_media\_attachments | 2026-07-06 15:50:05 EDT |
-| sase | [`e746e59`](https://github.com/sase-org/sase/commit/e746e59d2a517804f250077ae9eb90cddf2ff39b) | feat: attach generated videos to agent completions | 2026-07-06 16:25:42 EDT |
 
 ## Neighbors
 

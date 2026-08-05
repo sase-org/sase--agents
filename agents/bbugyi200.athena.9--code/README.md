@@ -11,8 +11,14 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-06T16:52:46.056385+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`54033e8`](https://github.com/sase-org/sase/commit/54033e8b9ababb08d6152b400191bac599137cac) | fix: provider coder aliases inherit @coder instead of @default | 2026-07-06 12:59:58 EDT |

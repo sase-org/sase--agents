@@ -11,14 +11,8 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-09T16:39:33.812084+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`228b496`](https://github.com/sase-org/sase/commit/228b496e0e109962d8acb42a4af6e7b335394e7d) | fix(tui): handle control-byte prompt chords | 2026-07-09 12:54:30 EDT |

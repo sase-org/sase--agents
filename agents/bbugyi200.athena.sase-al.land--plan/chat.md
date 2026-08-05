@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-al.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_al_land__plan-260728_173847.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_al_land__code-260728_173847.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/sase_al_ci_integration_and_land.md
 
 

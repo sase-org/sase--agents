@@ -17,13 +17,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 8--code | completed | gpt-5.5 / codex | 2026-07-06T16:54:08.839555+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.8--code/chat.md) |
-| <a id="member-root"></a>root | 8 | active | claude-fable-5 / claude | 2026-07-06T16:41:31.210541+00:00 | [3](../agents/bbugyi200.athena.8/README.md#commits) | [Prompt](../agents/bbugyi200.athena.8/prompt.md) | [Chat](../agents/bbugyi200.athena.8/chat.md) |
+| <a id="member-code"></a>code | 8--code | completed | gpt-5.5 / codex | 2026-07-06T16:54:08.839555+00:00 | [1](../agents/bbugyi200.athena.8--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.8--code/chat.md) |
+| <a id="member-root"></a>root | 8 | active | claude-fable-5 / claude | 2026-07-06T16:41:31.210541+00:00 | [1](../agents/bbugyi200.athena.8/README.md#commits) | [Prompt](../agents/bbugyi200.athena.8/prompt.md) | [Chat](../agents/bbugyi200.athena.8/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`350c2a3`](https://github.com/sase-org/sase/commit/350c2a3590a780388432b5dbe1e932487257ccee) | fix: guard sase-core-rs source version skew | 2026-06-25 07:11:15 EDT |
+| — | sase | [`350c2a3`](https://github.com/sase-org/sase/commit/350c2a3590a780388432b5dbe1e932487257ccee) | fix: guard sase-core-rs source version skew | 2026-06-25 07:11:15 EDT |
 | root | sase | [`f493dbb`](https://github.com/sase-org/sase/commit/f493dbb99954e92c7dba93a7a0298e0367ae8393) | chore: Add SDD prompt and plan for fix\_flaky\_preview\_scroll\_test | 2026-07-06 12:54:07 EDT |
-| root | sase | [`c1475be`](https://github.com/sase-org/sase/commit/c1475bee0af886f4ca31cb53e60582df09bdd9d5) | fix(tui): make config preview scrolling deterministic | 2026-07-06 13:04:57 EDT |
+| code | sase | [`c1475be`](https://github.com/sase-org/sase/commit/c1475bee0af886f4ca31cb53e60582df09bdd9d5) | fix(tui): make config preview scrolling deterministic | 2026-07-06 13:04:57 EDT |

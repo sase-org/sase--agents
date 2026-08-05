@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 9i | active | gpt-5.6-sol / codex | 2026-07-15T17:45:10.170356+00:00 | [1](../agents/bbugyi200.athena.9i/README.md#commits) | [Prompt](../agents/bbugyi200.athena.9i/prompt.md) | [Chat](../agents/bbugyi200.athena.9i/chat.md) |
-| <a id="member-code"></a>code | 9i--code | completed | gpt-5.6-sol / codex | 2026-07-15T17:52:55.419462+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.9i--code/chat.md) |
+| <a id="member-root"></a>root | 9i | active | gpt-5.6-sol / codex | 2026-07-15T17:45:10.170356+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.9i/prompt.md) | [Chat](../agents/bbugyi200.athena.9i/chat.md) |
+| <a id="member-code"></a>code | 9i--code | completed | gpt-5.6-sol / codex | 2026-07-15T17:52:55.419462+00:00 | [1](../agents/bbugyi200.athena.9i--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.9i--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`75bf5c7`](https://github.com/sase-org/sase/commit/75bf5c791c302823415a4efa4b277740fc7e79ff) | feat(ace): show associated plan metadata | 2026-07-15 14:35:43 EDT |
+| code | sase | [`75bf5c7`](https://github.com/sase-org/sase/commit/75bf5c791c302823415a4efa4b277740fc7e79ff) | feat(ace): show associated plan metadata | 2026-07-15 14:35:43 EDT |
 
 ## Neighbors
 

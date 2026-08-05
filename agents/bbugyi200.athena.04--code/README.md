@@ -11,8 +11,14 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-07T04:00:08.065026+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`a7953c4`](https://github.com/sase-org/sase/commit/a7953c42dd1d35c94f8a032d6cc2b9e7c8354a7d) | docs(skills): document literal prompt directives | 2026-07-07 00:51:11 EDT |

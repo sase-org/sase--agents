@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** qq--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-qq__plan-260731_160100.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-qq__code-260731_160100.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/yaml_model_alias_defaults.md
 
 

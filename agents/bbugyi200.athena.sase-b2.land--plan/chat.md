@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-b2.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_b2_land__plan-260729_213642.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_b2_land__code-260729_213642.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/artifact_ref_project_ref.md
 
 

@@ -11,19 +11,11 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-13T11:13:38.923944+00:00
-- Commits: [3](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`b0caeff`](https://github.com/sase-org/sase/commit/b0caefff752ad639130bd7c8823865aeaaa3795b) | chore: Add SDD prompt and plan for remove\_plan\_directive\_1 | 2026-06-14 17:06:56 EDT |
-| sase | [`58b44e2`](https://github.com/sase-org/sase/commit/58b44e2d84882dae5729707e6c8b11076b08b581) | feat!: remove legacy %plan/%p xprompt directive | 2026-06-14 17:24:19 EDT |
-| sase | [`a086bb9`](https://github.com/sase-org/sase/commit/a086bb95274059d4a46b35b1161792f974e51aa9) | feat!: rename pylimit\_split workflow to toobig\_split | 2026-07-13 07:30:45 EDT |
 
 ## Neighbors
 

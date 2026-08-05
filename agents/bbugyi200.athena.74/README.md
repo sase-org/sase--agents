@@ -11,17 +11,11 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-12T19:27:49.410769+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`ab0a559`](https://github.com/sase-org/sase/commit/ab0a55920427b845eb14fa674239278dcf04843b) | feat(amd): support customizable agent templates | 2026-07-12 15:57:43 EDT |
 
 ## Neighbors
 

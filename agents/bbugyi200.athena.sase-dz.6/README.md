@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,9 +27,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-dz.1](../bbugyi200.athena.sase-dz.1/README.md) | sase-dz hood | completed |
-| [sase-dz.2](../bbugyi200.athena.sase-dz.2/README.md) | sase-dz hood | completed |
-| [sase-dz.3](../bbugyi200.athena.sase-dz.3/README.md) | sase-dz hood | completed |
-| [sase-dz.4](../bbugyi200.athena.sase-dz.4/README.md) | sase-dz hood | completed |
-| [sase-dz.5](../bbugyi200.athena.sase-dz.5/README.md) | sase-dz hood | completed |
-| [sase-dz.land](../bbugyi200.athena.sase-dz.land/README.md) | sase-dz hood | waiting |
+| [sase-dz.1](../bbugyi200.athena.sase-dz.1/README.md) | sase-dz hood | active |
+| [sase-dz.2](../bbugyi200.athena.sase-dz.2/README.md) | sase-dz hood | active |
+| [sase-dz.3](../bbugyi200.athena.sase-dz.3/README.md) | sase-dz hood | active |
+| [sase-dz.4](../bbugyi200.athena.sase-dz.4/README.md) | sase-dz hood | active |
+| [sase-dz.5](../bbugyi200.athena.sase-dz.5/README.md) | sase-dz hood | active |
+| [sase-dz.land](../bbugyi200.athena.sase-dz.land/README.md) | sase-dz hood | active |

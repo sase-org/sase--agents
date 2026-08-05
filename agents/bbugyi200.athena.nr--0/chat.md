@@ -3,6 +3,12 @@
 - **TIMESTAMP:** 2026-07-29 06:30:57 EDT
 - **AGENT:** nr--0
 
+## Linked Chats
+
+- **1. --0** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-nr__0-260729_062253.md`
+- 2. --1 — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-nr__1-260729_062253.md`
+- 3. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-nr__code-260729_062253.md`
+
 ## Prompt
 
 #gh:gh_sase-org__sase The `H` (collapse houses) keymap seems to have the wrong description (see #sshot). Can you help me fix this? Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate

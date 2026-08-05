@@ -20,11 +20,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code-0"></a>code-0 | 6l--code-0 | completed | gpt-5.6-sol / codex | 2026-07-12T13:33:38.577702+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.6l--code-0/chat.md) |
-| <a id="member-root"></a>root | 6l | active | claude-fable-5 / claude | 2026-07-12T12:57:51.312901+00:00 | [1](../agents/bbugyi200.athena.6l/README.md#commits) | [Prompt](../agents/bbugyi200.athena.6l/prompt.md) | [Chat](../agents/bbugyi200.athena.6l/chat.md) |
-| <a id="member-code"></a>code | 6l--code | active | gpt-5.6-sol / codex | 2026-07-12T13:11:16.496635+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.6l--code/chat.md) |
+| <a id="member-root"></a>root | 6l | active | claude-fable-5 / claude | 2026-07-12T12:57:51.312901+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.6l/prompt.md) | [Chat](../agents/bbugyi200.athena.6l/chat.md) |
+| <a id="member-code"></a>code | 6l--code | active | gpt-5.6-sol / codex | 2026-07-12T13:11:16.496635+00:00 | [1](../agents/bbugyi200.athena.6l--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.6l--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`3b54a7b`](https://github.com/sase-org/sase/commit/3b54a7bd1761ae7ccb041d170fc3cf986d5ec380) | fix: decouple source linting from SASE validation (#225) | 2026-07-12 09:59:47 EDT |
+| code | sase | [`5e84b5b`](https://github.com/sase-org/sase/commit/5e84b5b83a41a2ee2d00d145a8eed6e6a0159ebf) | fix: preserve validation after lint decoupling | 2026-07-12 09:26:34 EDT |
+| — | sase | [`3b54a7b`](https://github.com/sase-org/sase/commit/3b54a7bd1761ae7ccb041d170fc3cf986d5ec380) | fix: decouple source linting from SASE validation (#225) | 2026-07-12 09:59:47 EDT |

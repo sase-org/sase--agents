@@ -11,8 +11,14 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-06T23:31:50.771380+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`17acd9f`](https://github.com/sase-org/sase/commit/17acd9fec688aa5995fc9f636dc4e9ab2b43a278) | fix: manage nested agent doc provider shims | 2026-07-06 19:41:47 EDT |

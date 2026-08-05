@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8db414a1426876daf0ca816c014dfba5"}
+{"commits":[{"committed_at":1783480303,"sha":"a5e3ef5f047e69982c4ec041dc2de1abc13f123b","subject":"feat: include output variables in completion notifications"}],"schema_version":2,"source_run_id":"run-8db414a1426876daf0ca816c014dfba5"}

@@ -1,1 +1,1 @@
-{"commits":[{"committed_at":1781034828,"sha":"40696be4f10668e74588d1dc16e59a29831d9155","subject":"chore: Add SDD prompt and plan for github_ci_sase_version_skew"},{"committed_at":1783694446,"sha":"22d3906155cf97804938ddc70beb55168009ce6b","subject":"fix(notifications): limit completion image attachments"}],"schema_version":2,"source_run_id":"run-e4433ba1d6345d356737a335d3b6fc30"}
+{"commits":[],"schema_version":2,"source_run_id":"run-e4433ba1d6345d356737a335d3b6fc30"}

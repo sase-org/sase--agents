@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | aa--code | completed | gpt-5.6-sol / codex | 2026-07-16T13:29:19.190522+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.aa--code/chat.md) |
-| <a id="member-root"></a>root | aa | active | gpt-5.6-sol / codex | 2026-07-16T13:23:50.569732+00:00 | [1](../agents/bbugyi200.athena.aa/README.md#commits) | [Prompt](../agents/bbugyi200.athena.aa/prompt.md) | [Chat](../agents/bbugyi200.athena.aa/chat.md) |
+| <a id="member-code"></a>code | aa--code | completed | gpt-5.6-sol / codex | 2026-07-16T13:29:19.190522+00:00 | [1](../agents/bbugyi200.athena.aa--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.aa--code/chat.md) |
+| <a id="member-root"></a>root | aa | active | gpt-5.6-sol / codex | 2026-07-16T13:23:50.569732+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.aa/prompt.md) | [Chat](../agents/bbugyi200.athena.aa/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`138a600`](https://github.com/sase-org/sase/commit/138a600ac36a68141a8719c9c45fc9786f5945a2) | feat(ace): add periodic update checks | 2026-07-16 09:42:30 EDT |
+| code | sase | [`138a600`](https://github.com/sase-org/sase/commit/138a600ac36a68141a8719c9c45fc9786f5945a2) | feat(ace): add periodic update checks | 2026-07-16 09:42:30 EDT |
 
 ## Neighbors
 

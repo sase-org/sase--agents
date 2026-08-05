@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f1e9f88fff3f64a1c411145489319d4a"}
+{"commits":[{"committed_at":1783461588,"sha":"d4ed465fda9267c014146f8f04298a77dcd9e838","subject":"fix: include core package in dev updates"}],"schema_version":2,"source_run_id":"run-f1e9f88fff3f64a1c411145489319d4a"}

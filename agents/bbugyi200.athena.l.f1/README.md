@@ -11,7 +11,7 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-06T20:29:46.442857+00:00
-- Commits: [2](#commits)
+- Commits: [1](#commits)
 
 ## Files
 
@@ -22,7 +22,6 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`e1b2d2e`](https://github.com/sase-org/sase/commit/e1b2d2efb5a3bd955922e0b4c365ea43962727ea) | chore: Add SDD prompt and plan for generated\_media\_default\_artifacts | 2026-07-06 16:33:36 EDT |
-| sase | [`0047ef8`](https://github.com/sase-org/sase/commit/0047ef832725c6d8b33abf89d0173e98a3b0cf18) | fix: persist prompt-referenced videos as artifacts | 2026-07-06 16:43:38 EDT |
 
 ## Neighbors
 

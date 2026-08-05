@@ -15,14 +15,16 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [ci\_fix.sase](../bbugyi200.athena.ci_fix.sase/README.md) | ancestor | active |
-| [ci\_fix.sase.0](../bbugyi200.athena.ci_fix.sase.0/README.md) | ci\_fix.sase hood | dismissed |
-| [ci\_fix.sase.1](../bbugyi200.athena.ci_fix.sase.1/README.md) | ci\_fix.sase hood | dismissed |
-| [ci\_fix.sase.2](../bbugyi200.athena.ci_fix.sase.2/README.md) | ci\_fix.sase hood | dismissed |
-| [ci\_fix.sase.3](../bbugyi200.athena.ci_fix.sase.3/README.md) | ci\_fix.sase hood | dismissed |
+| [ci\_fix.sase.0](../bbugyi200.athena.ci_fix.sase.0/README.md) | ci\_fix.sase hood | active |
+| [ci\_fix.sase.1](../bbugyi200.athena.ci_fix.sase.1/README.md) | ci\_fix.sase hood | waiting |
+| [ci\_fix.sase.2](../bbugyi200.athena.ci_fix.sase.2/README.md) | ci\_fix.sase hood | active |
+| [ci\_fix.sase.3](../bbugyi200.athena.ci_fix.sase.3/README.md) | ci\_fix.sase hood | active |
+| [ci\_fix.sase.5](../bbugyi200.athena.ci_fix.sase.5/README.md) | ci\_fix.sase hood | active |
+| [ci\_fix.sase.6](../bbugyi200.athena.ci_fix.sase.6/README.md) | ci\_fix.sase hood | dismissed |

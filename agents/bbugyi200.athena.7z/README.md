@@ -11,14 +11,8 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-13T15:27:08.720907+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`0ed6b32`](https://github.com/sase-org/sase/commit/0ed6b32e49b9d31e84f26a869d41a523609256fe) | feat(xprompt): integrate epic changes before landing | 2026-07-13 11:47:20 EDT |

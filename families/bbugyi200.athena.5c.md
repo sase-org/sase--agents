@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 5c--code | completed | gpt-5.6-sol / codex | 2026-07-11T12:14:41.566448+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.5c--code/chat.md) |
-| <a id="member-root"></a>root | 5c | active | gpt-5.6-sol / codex | 2026-07-11T12:11:12.866025+00:00 | [1](../agents/bbugyi200.athena.5c/README.md#commits) | [Prompt](../agents/bbugyi200.athena.5c/prompt.md) | [Chat](../agents/bbugyi200.athena.5c/chat.md) |
+| <a id="member-code"></a>code | 5c--code | completed | gpt-5.6-sol / codex | 2026-07-11T12:14:41.566448+00:00 | [1](../agents/bbugyi200.athena.5c--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.5c--code/chat.md) |
+| <a id="member-root"></a>root | 5c | active | gpt-5.6-sol / codex | 2026-07-11T12:11:12.866025+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.5c/prompt.md) | [Chat](../agents/bbugyi200.athena.5c/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`4f87e3e`](https://github.com/sase-org/sase/commit/4f87e3e022dc15d20b96f3aa0df04b659dcec8fc) | feat!: add phased commit hooks | 2026-07-11 08:33:38 EDT |
+| code | sase | [`4f87e3e`](https://github.com/sase-org/sase/commit/4f87e3e022dc15d20b96f3aa0df04b659dcec8fc) | feat!: add phased commit hooks | 2026-07-11 08:33:38 EDT |

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start displaying all bead notes (if any--don't modify the way this section looks when no notes exist) associated with the corresponding bead in the `BEAD` lane contained in the `SASE CONTEXT` section of the agent metadata panel (see #sshot for an example of what this looks like now)? #beau #plan

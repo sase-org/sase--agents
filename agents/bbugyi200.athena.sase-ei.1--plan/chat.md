@@ -44,7 +44,7 @@ before making any file changes.
 > ## Context and boundaries
 > The current forward-only prefix repair changes `config.json.issue_prefix` before minting a new top-level bead, but it
 > does not rename existing event streams or references. A historical store can therefore contain canonical IDs such as
-> `gh_bobs-org__bob-cli-1` through `gh_bobs-org__bob-cli-5` beside already-correct IDs such as `bob-cli-6`.
+> `bob-cli-a` through `bob-cli-e` beside already-correct IDs such as `bob-cli-6`.
 > This tale implements phase `sase-ei.1`, the core foundation for the larger historical migration. The semantic owner is
 > the linked `sase-core` repository; the Python repository receives only facade/model adapters and parity tests. The later
 > epic phases remain responsible for plan and ChangeSpec codecs, bead compatibility pages, historical agent/chat storage,

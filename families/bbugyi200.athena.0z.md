@@ -17,15 +17,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 0z--code | completed | gpt-5.5 / codex | 2026-07-07T20:28:20.564183+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0z--code/chat.md) |
-| <a id="member-root"></a>root | 0z | active | claude-fable-5 / claude | 2026-07-07T20:15:56.991295+00:00 | [2](../agents/bbugyi200.athena.0z/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0z/prompt.md) | [Chat](../agents/bbugyi200.athena.0z/chat.md) |
+| <a id="member-code"></a>code | 0z--code | completed | gpt-5.5 / codex | 2026-07-07T20:28:20.564183+00:00 | [1](../agents/bbugyi200.athena.0z--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.0z--code/chat.md) |
+| <a id="member-root"></a>root | 0z | active | claude-fable-5 / claude | 2026-07-07T20:15:56.991295+00:00 | [1](../agents/bbugyi200.athena.0z/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0z/prompt.md) | [Chat](../agents/bbugyi200.athena.0z/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | root | sase | [`8c26b3c`](https://github.com/sase-org/sase/commit/8c26b3c9abab86e23ced65e99e941c12e12460ba) | chore: Add SDD prompt and plan for stuck\_pending\_tool\_calls | 2026-07-07 16:28:18 EDT |
-| root | sase | [`be54023`](https://github.com/sase-org/sase/commit/be540239c2b33730c83199d8465546e294b5f4b6) | fix: prevent stale pending tool calls | 2026-07-07 16:52:38 EDT |
+| code | sase | [`be54023`](https://github.com/sase-org/sase/commit/be540239c2b33730c83199d8465546e294b5f4b6) | fix: prevent stale pending tool calls | 2026-07-07 16:52:38 EDT |
 
 ## Neighbors
 

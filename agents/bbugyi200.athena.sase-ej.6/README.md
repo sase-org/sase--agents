@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ej](../../users/bbugyi200/machines/athena/hoods/sase-ej/README.md) / sase-ej.6
 
-**Global name:** `bbugyi200.athena.sase-ej.6` · **State:** completed · **Source run:** `run-ceb379e5ea7af58d496f09375d2b8e27`
+**Global name:** `bbugyi200.athena.sase-ej.6` · **State:** dismissed · **Source run:** `run-ceb379e5ea7af58d496f09375d2b8e27`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ej
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-03T13:30:19.959472+00:00
+- Timing: 2026-08-03T09:30:19.959472 → 2026-08-03T10:42:42.971897
 - Commits: [2](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -28,11 +28,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ej.1](../bbugyi200.athena.sase-ej.1/README.md) | sase-ej hood | completed |
-| [sase-ej.2](../bbugyi200.athena.sase-ej.2/README.md) | sase-ej hood | completed |
-| [sase-ej.3](../bbugyi200.athena.sase-ej.3/README.md) | sase-ej hood | completed |
-| [sase-ej.4](../bbugyi200.athena.sase-ej.4/README.md) | sase-ej hood | completed |
-| [sase-ej.5](../bbugyi200.athena.sase-ej.5/README.md) | sase-ej hood | completed |
-| [sase-ej.land](../bbugyi200.athena.sase-ej.land/README.md) | sase-ej hood | completed |
-| [sase-ej.land.w0](../bbugyi200.athena.sase-ej.land.w0/README.md) | sase-ej hood | dismissed |
-| [sase-ej.land.w2](../bbugyi200.athena.sase-ej.land.w2/README.md) | sase-ej hood | failed |
+| [sase-ej.1](../bbugyi200.athena.sase-ej.1/README.md) | sase-ej hood | dismissed |
+| [sase-ej.2](../bbugyi200.athena.sase-ej.2/README.md) | sase-ej hood | dismissed |
+| [sase-ej.3](../bbugyi200.athena.sase-ej.3/README.md) | sase-ej hood | dismissed |
+| [sase-ej.4](../bbugyi200.athena.sase-ej.4/README.md) | sase-ej hood | dismissed |
+| [sase-ej.5](../bbugyi200.athena.sase-ej.5/README.md) | sase-ej hood | dismissed |
+| [sase-ej.land](../bbugyi200.athena.sase-ej.land/README.md) | sase-ej hood | dismissed |
+| [sase-ej.land.w0](../bbugyi200.athena.sase-ej.land.w0/README.md) | sase-ej hood | waiting |
+| [sase-ej.land.w2](../bbugyi200.athena.sase-ej.land.w2/README.md) | sase-ej hood | dismissed |

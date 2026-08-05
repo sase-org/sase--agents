@@ -11,7 +11,7 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-07T17:39:04.807679+00:00
-- Commits: [2](#commits)
+- Commits: [1](#commits)
 
 ## Files
 
@@ -22,4 +22,3 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`40c594f`](https://github.com/sase-org/sase/commit/40c594fd8f77a9bb23cd732abc0393376262b0e6) | chore: Add SDD prompt and plan for tui\_toasts\_log\_source | 2026-07-07 13:47:10 EDT |
-| sase | [`de0130a`](https://github.com/sase-org/sase/commit/de0130a8d688eb2ec9d41dd1b8fb2c38ebc9f064) | feat(tui): persist toast notifications in logs pane | 2026-07-07 14:07:29 EDT |

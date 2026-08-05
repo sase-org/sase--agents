@@ -27,12 +27,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ag.land.f0](../bbugyi200.athena.sase-ag.land.f0/README.md) | descendant | failed |
-| [sase-ag.land.w0](../bbugyi200.athena.sase-ag.land.w0/README.md) | descendant | dismissed |
-| [sase-ag.land.w1](../bbugyi200.athena.sase-ag.land.w1/README.md) | descendant | dismissed |
-| [sase-ag.1](../bbugyi200.athena.sase-ag.1/README.md) | sase-ag hood | dismissed |
-| [sase-ag.2](../bbugyi200.athena.sase-ag.2/README.md) | sase-ag hood | dismissed |
-| [sase-ag.3](../bbugyi200.athena.sase-ag.3/README.md) | sase-ag hood | dismissed |
-| [sase-ag.4](../bbugyi200.athena.sase-ag.4/README.md) | sase-ag hood | dismissed |
-| [sase-ag.5](../bbugyi200.athena.sase-ag.5/README.md) | sase-ag hood | dismissed |
-| [sase-ag.6](../bbugyi200.athena.sase-ag.6/README.md) | sase-ag hood | dismissed |
+| [sase-ag.land.f0](../bbugyi200.athena.sase-ag.land.f0/README.md) | descendant | active |
+| [sase-ag.land.w0](../bbugyi200.athena.sase-ag.land.w0/README.md) | descendant | active |
+| [sase-ag.land.w1](../bbugyi200.athena.sase-ag.land.w1/README.md) | descendant | waiting |
+| [sase-ag.1](../bbugyi200.athena.sase-ag.1/README.md) | sase-ag hood | active |
+| [sase-ag.2](../bbugyi200.athena.sase-ag.2/README.md) | sase-ag hood | active |
+| [sase-ag.3](../bbugyi200.athena.sase-ag.3/README.md) | sase-ag hood | active |
+| [sase-ag.4](../bbugyi200.athena.sase-ag.4/README.md) | sase-ag hood | active |
+| [sase-ag.5](../bbugyi200.athena.sase-ag.5/README.md) | sase-ag hood | active |
+| [sase-ag.6](../bbugyi200.athena.sase-ag.6/README.md) | sase-ag hood | active |

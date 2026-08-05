@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7f56a08aba5c4b973bd574504e6f7e94"}
+{"commits":[{"committed_at":1783961058,"sha":"a450a34034d417021f83a8c8b27e415010615bbc","subject":"fix(tui): scope group actions to focused panel"}],"schema_version":2,"source_run_id":"run-7f56a08aba5c4b973bd574504e6f7e94"}

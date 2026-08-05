@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c23f04d1ec7fc8fd75a478aab130b162"}
+{"commits":[{"committed_at":1783582305,"sha":"d3da6c93b789a6e9f443ca7986a26969be4261fb","subject":"fix(sdd): handle legacy stores during companion init"}],"schema_version":2,"source_run_id":"run-c23f04d1ec7fc8fd75a478aab130b162"}

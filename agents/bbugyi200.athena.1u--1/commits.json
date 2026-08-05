@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-60596e73a9f2d047a394cf8ed572dd7a"}
+{"commits":[{"committed_at":1783494172,"sha":"abbc8ac6d6ef9ff34ffcaaa126057058bd8b1cc7","subject":"chore: Add SDD prompt and plan for migrate_sdd_to_companion_repo"}],"schema_version":2,"source_run_id":"run-60596e73a9f2d047a394cf8ed572dd7a"}

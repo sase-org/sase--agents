@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-9890875b5da7f3c9aef3f9027bd45316"}
+{"commits":[{"committed_at":1783562675,"sha":"dff80f129e7181036a2b70c0e0efb282bbb39961","subject":"fix(plugin): use sase--plugin catalog topic"}],"schema_version":2,"source_run_id":"run-9890875b5da7f3c9aef3f9027bd45316"}

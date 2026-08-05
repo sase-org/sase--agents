@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-74037799dbd16089d368e2ecf5b1dd36"}
+{"commits":[{"committed_at":1783370618,"sha":"0047ef832725c6d8b33abf89d0173e98a3b0cf18","subject":"fix: persist prompt-referenced videos as artifacts"}],"schema_version":2,"source_run_id":"run-74037799dbd16089d368e2ecf5b1dd36"}

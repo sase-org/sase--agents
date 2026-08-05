@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** nu--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-nu__plan-260729_064456.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-nu__code-260729_064456.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/tribe_entry_cursor.md
 
 

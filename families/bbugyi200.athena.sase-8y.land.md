@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-8y.land--code | completed | gpt-5.6-sol / codex | 2026-07-24T22:13:13.829161+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-8y.land--code/chat.md) |
+| <a id="member-code"></a>code | sase-8y.land--code | completed | gpt-5.6-sol / codex | 2026-07-24T22:13:13.829161+00:00 | [1](../agents/bbugyi200.athena.sase-8y.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-8y.land--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-8y.land--plan | active | gpt-5.6-sol / codex | 2026-07-24T22:07:00.207735+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-8y.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-8y.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`d0495f1`](https://github.com/sase-org/sase/commit/d0495f1cba07b4706cc7696a1561d9fa0a0c3343) | fix: finish claimed status landing cleanup (sase-8y) | 2026-07-24 18:58:11 EDT |
 
 ## Neighbors
 

@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 6d--code | completed | gpt-5.6-sol / codex | 2026-07-11T23:50:30.500305+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.6d--code/chat.md) |
-| <a id="member-root"></a>root | 6d | active | claude-fable-5 / claude | 2026-07-11T23:37:58.764627+00:00 | [1](../agents/bbugyi200.athena.6d/README.md#commits) | [Prompt](../agents/bbugyi200.athena.6d/prompt.md) | [Chat](../agents/bbugyi200.athena.6d/chat.md) |
+| <a id="member-code"></a>code | 6d--code | completed | gpt-5.6-sol / codex | 2026-07-11T23:50:30.500305+00:00 | [1](../agents/bbugyi200.athena.6d--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.6d--code/chat.md) |
+| <a id="member-root"></a>root | 6d | active | claude-fable-5 / claude | 2026-07-11T23:37:58.764627+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.6d/prompt.md) | [Chat](../agents/bbugyi200.athena.6d/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`ddd0b63`](https://github.com/sase-org/sase/commit/ddd0b63f22dce1e5e5d2c8d35af96b9fd2967a3f) | feat: support launch-scoped model alias overrides | 2026-07-11 20:11:16 EDT |
+| code | sase | [`ddd0b63`](https://github.com/sase-org/sase/commit/ddd0b63f22dce1e5e5d2c8d35af96b9fd2967a3f) | feat: support launch-scoped model alias overrides | 2026-07-11 20:11:16 EDT |

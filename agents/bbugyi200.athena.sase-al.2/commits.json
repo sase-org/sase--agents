@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-9c9447db35e7456580931ed401f68821"}
+{"commits":[{"committed_at":1785278724,"sha":"ab6f07a68c63a7a8438942980ca20e133748dc90","subject":"build(deps): bump published core minimum to 0.12.5"}],"schema_version":2,"source_run_id":"run-9c9447db35e7456580931ed401f68821"}

@@ -18,14 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-60--code | completed | gpt-5.6-sol / codex | 2026-07-14T17:02:12.266726+00:00 | [1](../agents/bbugyi200.athena.sase-60--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-60--code/chat.md) |
-| <a id="member-root"></a>root | sase-60 | active | claude-fable-5 / claude | 2026-07-14T16:43:59.657724+00:00 | [1](../agents/bbugyi200.athena.sase-60/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-60/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-60/chat.md) |
+| <a id="member-root"></a>root | sase-60 | active | claude-fable-5 / claude | 2026-07-14T16:43:59.657724+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-60/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-60/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | code | sase | [`1e3ab66`](https://github.com/sase-org/sase/commit/1e3ab66b5a04aa87350801f993fc98c6fe422eed) | fix: preserve sidecar identity during repository cutover | 2026-07-14 13:18:11 EDT |
-| root | sase | [`1e3ab66`](https://github.com/sase-org/sase/commit/1e3ab66b5a04aa87350801f993fc98c6fe422eed) | fix: preserve sidecar identity during repository cutover | 2026-07-14 13:18:11 EDT |
 
 ## Neighbors
 

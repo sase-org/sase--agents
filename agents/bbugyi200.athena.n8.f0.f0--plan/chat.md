@@ -1,74 +1,142 @@
-# Chat History - ace-run (n8.f0.f0--code)
+# Chat History - ace-run (n8.f0.f0--plan)
 
-- **TIMESTAMP:** 2026-07-28 13:38:19 EDT
-- **MODEL:** codex/gpt-5.6-sol
-- **AGENT:** n8.f0.f0--code
+- **TIMESTAMP:** 2026-07-28 13:18:37 EDT
+- **MODEL:** claude/opus
+- **AGENT:** n8.f0.f0--plan
 
 ## Linked Chats
 
-- 1. --plan — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-n8_f0_f0__plan-260728_130813.md`
-- **2. --code** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-n8_f0_f0__code-260728_130813.md`
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-n8_f0_f0__plan-260728_130813.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-n8_f0_f0__code-260728_130813.md`
+
+**Plan:** /home/bryan/.sase/plans/202607/sidecar_repo_labels.md
+
 
 ## Prompt
 
-%model:@claude_coder
-#gh:gh_sase-org__sase @sase/repos/plans/202607/sidecar_repo_labels.md
+#gh:gh_sase-org__sase 
+%xprompts_enabled:false
+# Previous Conversation
 
-The above plan has been reviewed and approved. Implement it now.
+**User:**
 
+# Previous Conversation
+
+**User:**
+
+I keep seeing the term SDD thrown around a lot, but that terminoligy should be completely replaced / removed at this point. Can you help me audit this codebase to determine everywhere that this term is used to give me an idea of how difficult it would be to remove/replace this term? Express your answer by setting some sase variables.
+
+**Assistant:**
+
+I'll audit the codebase for SDD usage. Let me start by getting a broad picture.
+
+Audit done. Variables are set on this run (agent `n8`).
+
+## Scalars
+
+| Variable | Value |
+|---|---|
+| `sdd_total_occurrences` | 8,412 (sase repo, temp dirs excluded) |
+| `sdd_files_touched` | 637 |
+| `sdd_src_files` | 254 (61 = the `src/sase/sdd/` package, 188 outside it across 24 subpackages) |
+| `sdd_test_files` | 316 |
+| `sdd_doc_files` | 45 |
+| `sdd_paths_to_rename` | 133 |
+| `sdd_python_identifiers` | 571 distinct |
+| `sdd_import_refs` | 916 `sase.sdd` refs across 261 files |
+| `sdd_core_files` / `sdd_core_occurrences` | 29 / 534 (in `sase-core`) |
+| `sdd_env_vars` | 9 |
+| `sdd_difficulty` | **high** |
+
+Also set: `sdd_scope_summary`, `sdd_hard_surfaces`, `sdd_easy_surfaces`.
+
+## The shape of it
+
+Roughly 90% of the 8,412 hits are mechanical — `src/sase/sdd/` is a self-contained 61-module package with 36 exported names, and the blast radius outside it is concentrated in `ace` (54 files), `main` (21), `bead` (21), `axe` (15). A rename + import rewrite handles that.
+
+The cost is in 9 spots that aren't sed-able:
+
+- **`sdd/` as a real on-disk directory** — 519 path literals (`sdd/beads` 265, `sdd/plans` 256, plus research/prompts/tales/epics). Only applies to `in_tree` storage.
+- **`.sase/sdd-store.json`** — persisted state, needs read-both/write-new.
+- **`<owner>/<repo>--sdd`** sidecar naming (78 refs) — this renames actual remote GitHub repos.
+- **9 `SASE_SDD_*` env vars** and the `sdd:` config block + `commits_toggle_sdd` keymap action.
+- **12 persisted record/JSON fields** (`sdd_plan_path`, `sdd_base_sha`, `sdd_sidecar_suffix`, …).
+- **8 `Sdd*Wire` types** crossing the Python↔Rust boundary — requires lockstep changes in `sase-core`.
+- **Published doc URLs**: `docs/sdd.md`, `docs/sdd_storage.md`, `blog/posts/beads-and-sdd.md`.
+
+Three findings make this cheaper than the raw count suggests:
+
+1. The on-disk plan/artifact-link **syntax carries no `sdd` token** — `artifact_link.rs` only has it in error message text. No file-format migration for plans.
+2. **Sidecar repos already store bare `plans/`, `beads/`, `research/`** with no `sdd/` prefix — your primary storage mode is already SDD-free on disk.
+3. `sdd_kind_roots()` in `src/sase/sdd/_paths.py:82` **already falls back to bare `<kind>/`** alongside `sdd/<kind>/` — the in-tree compatibility hook you'd need for the directory rename exists today.
+
+There is no `sase sdd` CLI subcommand, and SDD is already gone from the `AGENTS.md`/`CLAUDE.md` glossary — only 3 memory files still mention it.
+
+---
+
+# New Query
+
+What exactly does this concept represent? What is SDD?
+
+**Assistant:**
+
+**SDD = "Spec-Driven Development."** It's documented in `docs/sdd.md:1`.
+
+## What the docs claim it is
+
+A methodology: agent plans are ephemeral, living and dying inside one session's context window. SDD "fixes this" by writing the intent behind agent work to disk as first-class, queryable artifacts — creating a traceable chain from prompt → plan → bead → commit.
+
+## What it actually is in the code
+
+Nearly all 8,412 occurrences don't mean a methodology. They mean **a durable artifact store** — a resolved on-disk location plus the machinery to read, write, commit, and cross-link four artifact kinds:
+
+| Kind | What it holds |
+|---|---|
+| `prompts/` | Snapshot of the fully expanded prompt the agent received (xprompts resolved, `%directives` stripped, Q&A appended) |
+| `plans/` | Approved planning artifacts — `tier: tale` (ordinary) or `tier: epic` (multi-phase, executable via `sase bead work`) |
+| `research/` | Exploratory findings, prior art, critiques — longer-lived context the plans depend on |
+| `beads/` | The issue tracker that links artifacts to execution |
+
+`SDD_CANONICAL_DIRS` at `src/sase/sdd/_paths.py:8` is literally just `("beads", "plans", "research")`.
+
+The subsystem has three real responsibilities:
+
+1. **Store resolution** — picking where artifacts live. Four provider-owned policies: `in_tree` (checkout's `sdd/`), `local` (`.sase/sdd/`), `separate_repo` (sidecar clone), `sidecar_repos` (auto-cloned `--plans` / `--research` repos). Not user-configurable; the workspace provider owns it.
+2. **Artifact persistence** — `YYYYMM/` monthly layout, frontmatter schemas, tier validation, archiving on approval.
+3. **Provenance linking** — the bidirectional `PROMPT`/`PLAN`/`PARENT`/`AGENTS`/`COMMITS` header block, re-derived from `SASE_PLAN=`/`SASE_AGENT=` commit footers.
+
+## Why the term grates
+
+The name is a **methodology label doing a storage-subsystem's job.** `SASE_SDD_PLANS_DIR`, `resolve_sdd_dir()`, `SddStoreRecord`, `sdd/beads/`, `--sdd` sidecar — none of those are about a development philosophy. They're all saying "the place where durable agent artifacts live."
+
+There's also an internal inconsistency: "Spec-Driven" is stale vocabulary. The system moved to tales and epics — `_SDD_PROMPT_KINDS = {"prompts", "specs"}` at `_paths.py:7` keeps `specs` only as a legacy read alias, and `write_sdd_spec` / `update_spec_with_qa` still carry the old noun for what is now a prompt snapshot.
+
+So the rename target isn't really one concept — it's an **artifact store** (the ~90% mechanical mass: paths, env vars, `Sdd*` types, sidecar suffix) that happens to be named after a **methodology** (the ~45 doc files, which is the only place the phrase "Spec-Driven Development" is doing honest work). Those two could split cleanly: rename the subsystem to something like `store`/`artifacts`/`plans`, and either drop the methodology framing entirely from docs or keep it as prose without it being a code identifier.
+
+---
+
+%xprompts_enabled:true
+# New Query
+
+ Why do we show `sdd` in #sshot for the bead commits / deltas? Is that correct? If not, use your /sase_plan skill to plan the appropriate changes.
+ %model:opus
 
 ## Response
 
-I’ll implement the approved plan, starting by opening its sidecar repository through the required SASE repo workflow. Then I’ll trace the affected code, make the changes, and run the repository’s full check suite.
+*Plan submitted for review.*
 
-The approved plan is specific and internally consistent. I’m now mapping its assumptions against the current checkout, including existing test helpers and any concurrent user changes, before editing.
+**Plan file:** `/home/bryan/.sase/plans/202607/sidecar_repo_labels.md`
 
-The current code matches the plan’s root-cause analysis: sidecar targets lack a role, record reads use the numbered checkout, and persisted `"sdd"` wins over correct cwd attribution. I’m applying the role propagation and the two marker/display fixes together so the write path and historical read path stay aligned.
+> # Label sidecar commits/deltas by sidecar role, not `sdd`
+> ## Problem
+> The ACE Agents-tab ARTIFACTS section groups an agent's commits and deltas by source repository. Bead-store commits
+> (`chore(beads): claim …`, `chore(beads): close …`) and their deltas (`issues.jsonl`, `events/streams/*.jsonl`) render
+> under a group named `sdd`.
+> That is wrong three separate ways:
+> 1. **Wrong repo identity.** Those commits land in the beads sidecar (`<org>/<project>--beads`), not in anything named
+>    `sdd`.
+> 2. **Dead terminology.** `sdd` is the deprecated "Spec-Driven Development" label that is being removed from the
+>    codebase.
 
-The implementation and regression fixtures are in place. The new fixture models the real production layout—metadata in the primary checkout and sidecar clones in a separate numbered workspace—so the tests can no longer pass by accidentally co-locating the record with the agent checkout. I’m installing the workspace dependencies now, then I’ll run focused tests before the full check.
+*See full plan file for details.*
 
-Dependency installation is still compiling the local Rust binding; no errors so far. Once that finishes, the first test pass will cover the sidecar labels, marker persistence, historical `"sdd"` normalization, and legacy separate-repo record lookup.
-
-All 72 focused tests pass, including the real-topology regressions and the unchanged legacy `owner/project--sdd` override. I’m tightening coverage for the new marker fallback next, then I’ll run formatting/type checks and the complete repository check.
-
-Focused behavior, lint, formatting, and whitespace checks are clean. The final gate is `just check`, which runs the repository’s full validation suite (including type checks and visual snapshot tests); I’m starting that now.
-
-The code gates all passed through mypy, Symvision, and size checks. `just check` then stopped on an unrelated pre-existing plan-sidecar validation error in `plan_header_provenance.md` (its prompt link structure is invalid); none of the implementation files are implicated. I’m continuing with the full test suite separately and will also verify the exact diff remains scoped to this change.
-
-The full suite is underway: 23,138 tests across 14 workers, currently progressing without failures. The remaining validation stage (`validate-committed-plans`) has also passed; only the unrelated sidecar link error prevents the single aggregate `just check` command from reaching these tests itself.
-
-The full run has surfaced three failures while continuing through the suite. I’m letting it complete so I can distinguish regressions from existing/flaky failures by name and rerun each one in isolation; the focused tests for this change remain green.
-
-Test execution reached 100%; pytest is still collecting worker shutdown/failure details. I’m waiting for the final report before rerunning the named failures individually.
-
-Isolation confirms the suite-gate failure was environmental/flaky and now passes. The other two failures reproduce independently in untouched plan-validation code and are unrelated to this implementation; I won’t expand scope into that separate defect. I’m doing the plan’s live numbered-workspace label check now, followed by a final diff review.
-
-Implemented sidecar repository role labels.
-
-- ACE now shows `plans`, `research`, or `beads` for commits and deltas, including historical `"sdd"` markers.
-- New markers use role names; legacy separate-repo `owner/project--sdd` labels remain unchanged.
-- Added real primary/numbered-workspace topology regressions.
-- Live verification returned `['plans', 'research', 'beads']`.
-
-Key changes: [_commit_store.py](/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_18/src/sase/sdd/_commit_store.py:131), [commit_tracking.py](/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_18/src/sase/workflows/commit/commit_tracking.py:394), [_agent_commits.py](/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_18/src/sase/ace/tui/widgets/prompt_panel/_agent_commits.py:353).
-
-Verification:
-
-- 73 focused tests passed.
-- Formatting, Ruff, mypy, Symvision, size checks, and committed-plan validation passed.
-- Full suite: 23,129 passed, 7 skipped. Two unrelated plan-validation tests remain failing; one suite-gate failure passed when rerun.
-- `just check` is additionally blocked by a pre-existing invalid link in the clean plans sidecar’s `plan_header_provenance.md`.
-
-The listed changes are the implementation from this run, so I’m using the required `sase_git_commit` workflow to commit exactly those nine files with a scoped message.
-
-The diff is confined to sidecar role propagation, marker attribution, display normalization, and regression coverage. I’m committing it as a user-facing bug fix: `fix: label sidecar commits by repository role`.
-
-The commit itself succeeded; the wrapper is finishing its synchronization and bookkeeping steps. I’ll verify the branch is clean and not ahead before handing back.
-
-Committed and pushed the implementation:
-
-`8049b46cc fix: label sidecar commits by repository role`
-
-The working tree is clean and synchronized with `origin/master`.
-
-SASE also reported three existing quarantined publication requests; this may temporarily affect the commit link, but not the commit itself.

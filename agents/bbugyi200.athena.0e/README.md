@@ -11,7 +11,7 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-07T15:00:37.715194+00:00
-- Commits: [6](#commits)
+- Commits: [1](#commits)
 
 ## Files
 
@@ -21,12 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5924868`](https://github.com/sase-org/sase/commit/5924868b0c5db0b7000e6c80f8f28a398d77050c) | chore: Add SDD prompt and plan for sase\_var\_output\_variables | 2026-06-02 20:19:08 EDT |
-| sase | [`68716ab`](https://github.com/sase-org/sase/commit/68716ab4c603128d02bfaf79ddd510508aa3584d) | chore: create sase var output variable epic beads | 2026-06-02 20:23:43 EDT |
-| sase | [`932b6fa`](https://github.com/sase-org/sase/commit/932b6fa3a1657c6db6c7d024b9ff1ee182f73484) | chore: Add SDD prompt and plan for agents\_tab\_auto\_approve\_prefix\_and\_child\_alignment | 2026-07-05 21:37:09 EDT |
-| sase | [`3e4c53d`](https://github.com/sase-org/sase/commit/3e4c53d359c795a9d80338b5b98fe018688ad99c) | fix(tui): align workflow child approval indicators | 2026-07-05 22:18:56 EDT |
 | sase | [`c5f48b6`](https://github.com/sase-org/sase/commit/c5f48b6d601915c4fab8b3d7b7870502c2d2f4e3) | chore: Add SDD prompt and plan for popup\_panel\_tab\_switch\_keymaps | 2026-07-07 11:13:39 EDT |
-| sase | [`904a3e1`](https://github.com/sase-org/sase/commit/904a3e1514308972d27afc79914de6a90a5bedcf) | fix(ace): support tab switching in popup panels | 2026-07-07 11:28:42 EDT |
 
 ## Neighbors
 

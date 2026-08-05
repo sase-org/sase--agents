@@ -11,7 +11,7 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-08T03:46:47.351354+00:00
-- Commits: [2](#commits)
+- Commits: [1](#commits)
 
 ## Files
 
@@ -22,4 +22,3 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`461c619`](https://github.com/sase-org/sase/commit/461c6196d1df648a0cb97ac61213e2d51f27565a) | chore: Add SDD prompt and plan for first\_blog\_post | 2026-07-07 23:59:30 EDT |
-| sase | [`05ec540`](https://github.com/sase-org/sase/commit/05ec54063c2b2fa993caf4223f5aeb3150ecaa83) | chore: create first blog post epic beads | 2026-07-08 00:08:22 EDT |

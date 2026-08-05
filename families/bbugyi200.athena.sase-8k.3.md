@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-8k.3--code | completed | gpt-5.6-sol / codex | 2026-07-22T18:04:40.234437+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-8k.3--code/chat.md) |
+| <a id="member-code"></a>code | sase-8k.3--code | completed | gpt-5.6-sol / codex | 2026-07-22T18:04:40.234437+00:00 | [1](../agents/bbugyi200.athena.sase-8k.3--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-8k.3--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-8k.3--plan | active | gpt-5.6-sol / codex | 2026-07-22T17:58:56.465499+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-8k.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-8k.3--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`e828aa9`](https://github.com/sase-org/sase/commit/e828aa927e3dff3c3c4f1f4539a3c8c5201ea83e) | feat: add machine-qualified agent hoods (sase-8k.3) | 2026-07-22 15:07:39 EDT |
 
 ## Neighbors
 

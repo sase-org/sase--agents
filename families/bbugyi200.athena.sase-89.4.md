@@ -20,6 +20,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | sase-89.4--code | completed | gpt-5.6-sol / codex | 2026-07-20T18:11:20.621090+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-89.4--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-89.4--plan | active | gpt-5.6-sol / codex | 2026-07-20T18:05:51.624584+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-89.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-89.4--plan/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`e917679`](https://github.com/sase-org/sase/commit/e917679d1d690aa19241fce1d755ac7dba0bce4f) | fix: prevent canonical project keys leaking into displays (sase-89.4) | 2026-07-20 14:47:14 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |

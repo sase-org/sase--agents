@@ -11,7 +11,7 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-07T21:45:44.416669+00:00
-- Commits: [2](#commits)
+- Commits: [1](#commits)
 
 ## Files
 
@@ -22,4 +22,3 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`419bbfd`](https://github.com/sase-org/sase/commit/419bbfddef78e9f89ef4949b3406dbf6480b6136) | chore: Add SDD prompt and plan for telegram\_update\_core | 2026-07-07 17:49:55 EDT |
-| sase | [`d4ed465`](https://github.com/sase-org/sase/commit/d4ed465fda9267c014146f8f04298a77dcd9e838) | fix: include core package in dev updates | 2026-07-07 17:59:48 EDT |

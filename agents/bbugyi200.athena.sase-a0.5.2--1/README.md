@@ -21,11 +21,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-a0.5.1](../bbugyi200.athena.sase-a0.5.1/README.md) | sase-a0.5 hood | dismissed |
-| [sase-a0.5.3](../bbugyi200.athena.sase-a0.5.3/README.md) | sase-a0.5 hood | dismissed |
-| [sase-a0.5.land](../bbugyi200.athena.sase-a0.5.land/README.md) | sase-a0.5 hood | dismissed |
-| [sase-a0.1](../bbugyi200.athena.sase-a0.1/README.md) | sase-a0 hood | dismissed |
-| [sase-a0.2](../bbugyi200.athena.sase-a0.2/README.md) | sase-a0 hood | dismissed |
-| [sase-a0.3](../bbugyi200.athena.sase-a0.3/README.md) | sase-a0 hood | dismissed |
-| [sase-a0.4](../bbugyi200.athena.sase-a0.4/README.md) | sase-a0 hood | dismissed |
-| [sase-a0.land](../bbugyi200.athena.sase-a0.land/README.md) | sase-a0 hood | dismissed |
+| [sase-a0.5.1](../bbugyi200.athena.sase-a0.5.1/README.md) | sase-a0.5 hood | active |
+| [sase-a0.5.3](../bbugyi200.athena.sase-a0.5.3/README.md) | sase-a0.5 hood | active |
+| [sase-a0.5.land](../bbugyi200.athena.sase-a0.5.land/README.md) | sase-a0.5 hood | active |
+| [sase-a0.1](../bbugyi200.athena.sase-a0.1/README.md) | sase-a0 hood | active |
+| [sase-a0.2](../bbugyi200.athena.sase-a0.2/README.md) | sase-a0 hood | active |
+| [sase-a0.3](../bbugyi200.athena.sase-a0.3/README.md) | sase-a0 hood | active |
+| [sase-a0.4](../bbugyi200.athena.sase-a0.4/README.md) | sase-a0 hood | active |
+| [sase-a0.land](../bbugyi200.athena.sase-a0.land/README.md) | sase-a0 hood | active |

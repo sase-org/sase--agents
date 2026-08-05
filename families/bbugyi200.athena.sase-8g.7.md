@@ -20,6 +20,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | sase-8g.7--code | completed | gpt-5.6-sol / codex | 2026-07-20T20:44:53.423009+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-8g.7--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-8g.7--plan | active | gpt-5.6-sol / codex | 2026-07-20T20:39:11.127829+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-8g.7--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-8g.7--plan/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`24d42d3`](https://github.com/sase-org/sase/commit/24d42d3813a12dd834e2766cffbd107136fa6513) | fix(beads): repair concurrent sync integrations (sase-8g.7) | 2026-07-20 17:24:29 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |

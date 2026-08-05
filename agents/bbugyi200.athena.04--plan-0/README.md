@@ -11,8 +11,14 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-07T03:41:15.922828+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3717d87`](https://github.com/sase-org/sase/commit/3717d87a6d4ad7eb0f13ceeb3afdc2c2da937877) | chore: Add SDD prompt and plan for sase\_run\_literal\_directive\_fix | 2026-07-07 00:00:06 EDT |

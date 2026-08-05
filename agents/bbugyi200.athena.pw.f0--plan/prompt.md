@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:pw Also, can you help me remove `fakey` from all model pickers (this is an internal, fake LLM provider used for testing)? #plan #m_opus

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I don't understand why the prompts and plan were not linked for the sase agent that created the sase-cq bead. Can you help me diagnose the root cause of this issue and fix it? Close the bead when you are done.  #plan #m_opus

@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan-0"></a>plan-0 | d7.w1--plan-0 | active | claude-fable-5 / claude | 2026-07-18T12:07:51.515803+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.d7.w1--plan-0/prompt.md) | [Chat](../agents/bbugyi200.athena.d7.w1--plan-0/chat.md) |
-| <a id="member-code"></a>code | d7.w1--code | completed | gpt-5.6-sol / codex | 2026-07-18T12:24:35.759973+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.d7.w1--code/chat.md) |
+| <a id="member-code"></a>code | d7.w1--code | completed | gpt-5.6-sol / codex | 2026-07-18T12:24:35.759973+00:00 | [1](../agents/bbugyi200.athena.d7.w1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.d7.w1--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`fbe165b`](https://github.com/sase-org/sase/commit/fbe165baf8bd7b6492c06cf35da5d9ca1610c16e) | feat(agent): rename plan family roots | 2026-07-18 08:54:07 EDT |
 
 ## Neighbors
 

@@ -11,14 +11,8 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-10T23:17:23.738223+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`4067411`](https://github.com/sase-org/sase/commit/4067411bc5dd51a0e9ab8ea2cc1f601e9883ad1b) | fix: attribute SDD artifacts to the completing agent | 2026-07-10 19:34:56 EDT |

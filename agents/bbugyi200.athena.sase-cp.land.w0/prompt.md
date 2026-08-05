@@ -1,0 +1,2 @@
+#gh:gh_sase-org__sase
+%w:sase-cp.land The new sase/memory/sase_beads.md memory file was never supposed to be added to ~/AGENTS.md (or the chezmoi equivalent). It should only be added to sase-managed project repos. Can you help me fix this? #plan

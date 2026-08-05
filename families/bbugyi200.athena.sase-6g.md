@@ -18,14 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-6g--code | completed | gpt-5.6-sol / codex | 2026-07-17T01:11:22.219585+00:00 | [1](../agents/bbugyi200.athena.sase-6g--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-6g--code/chat.md) |
-| <a id="member-root"></a>root | sase-6g | active | gpt-5.6-sol / codex | 2026-07-17T00:58:57.735533+00:00 | [1](../agents/bbugyi200.athena.sase-6g/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-6g/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-6g/chat.md) |
+| <a id="member-root"></a>root | sase-6g | active | gpt-5.6-sol / codex | 2026-07-17T00:58:57.735533+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-6g/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-6g/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | code | sase | [`0c43854`](https://github.com/sase-org/sase/commit/0c438540c6f78fb9e3e36e67037f9ab1b9846b92) | test(xprompt): cover family launch neutrality (sase-6g) | 2026-07-16 21:31:49 EDT |
-| root | sase | [`0c43854`](https://github.com/sase-org/sase/commit/0c438540c6f78fb9e3e36e67037f9ab1b9846b92) | test(xprompt): cover family launch neutrality (sase-6g) | 2026-07-16 21:31:49 EDT |
 
 ## Neighbors
 

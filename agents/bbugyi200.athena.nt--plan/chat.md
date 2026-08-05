@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** nt--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-nt__plan-260729_063412.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-nt__code-260729_063412.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/answered_root_asker_status.md
 
 

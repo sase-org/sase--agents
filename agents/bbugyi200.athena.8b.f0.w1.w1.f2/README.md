@@ -11,17 +11,11 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-14T14:36:48.508753+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`df67fec`](https://github.com/sase-org/sase/commit/df67fecb82eac898295074432b934d76a82d33b9) | feat(tui): render fenced code blocks as full-width cards | 2026-07-14 11:20:36 EDT |
 
 ## Neighbors
 

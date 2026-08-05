@@ -11,14 +11,8 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-13T16:26:56.856655+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`a450a34`](https://github.com/sase-org/sase/commit/a450a34034d417021f83a8c8b27e415010615bbc) | fix(tui): scope group actions to focused panel | 2026-07-13 12:44:18 EDT |

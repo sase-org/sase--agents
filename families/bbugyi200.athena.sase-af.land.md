@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-af` · Members: 2
 ```mermaid
 flowchart TD
   n0["sase-af.land--code [active]"]
-  n1["sase-af.land--plan [dismissed]"]
+  n1["sase-af.land--plan [active]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-af.land--code | active | gpt-5.6-sol / codex | 2026-07-28T15:04:34.396196+00:00 | [1](../agents/bbugyi200.athena.sase-af.land--code/README.md#commits) | — | — |
-| <a id="member-plan"></a>plan | sase-af.land--plan | dismissed | gpt-5.6-sol / codex | 2026-07-28T10:52:00.997560 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-af.land--plan | active | gpt-5.6-sol / codex | 2026-07-28T14:52:00.997560+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-af.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-af.land--plan/chat.md) |
 
 ## Commits
 
@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-af.land.f0](../agents/bbugyi200.athena.sase-af.land.f0/README.md) | descendant | dismissed |
-| [sase-af.1](../agents/bbugyi200.athena.sase-af.1/README.md) | sase-af hood | dismissed |
-| [sase-af.2](../agents/bbugyi200.athena.sase-af.2/README.md) | sase-af hood | dismissed |
-| [sase-af.3](../agents/bbugyi200.athena.sase-af.3/README.md) | sase-af hood | dismissed |
+| [sase-af.land.f0](../agents/bbugyi200.athena.sase-af.land.f0/README.md) | descendant | waiting |
+| [sase-af.1](../agents/bbugyi200.athena.sase-af.1/README.md) | sase-af hood | active |
+| [sase-af.2](../agents/bbugyi200.athena.sase-af.2/README.md) | sase-af hood | active |
+| [sase-af.3](../agents/bbugyi200.athena.sase-af.3/README.md) | sase-af hood | active |

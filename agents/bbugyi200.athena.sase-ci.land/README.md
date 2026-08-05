@@ -15,12 +15,12 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ci.1](../bbugyi200.athena.sase-ci.1/README.md) | sase-ci hood | completed |
-| [sase-ci.2](../bbugyi200.athena.sase-ci.2/README.md) | sase-ci hood | completed |
-| [sase-ci.3](../bbugyi200.athena.sase-ci.3/README.md) | sase-ci hood | completed |
+| [sase-ci.1](../bbugyi200.athena.sase-ci.1/README.md) | sase-ci hood | active |
+| [sase-ci.2](../bbugyi200.athena.sase-ci.2/README.md) | sase-ci hood | active |
+| [sase-ci.3](../bbugyi200.athena.sase-ci.3/README.md) | sase-ci hood | active |

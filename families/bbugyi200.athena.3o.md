@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 3o | active | opus / claude | 2026-07-09T16:45:52.641182+00:00 | [1](../agents/bbugyi200.athena.3o/README.md#commits) | [Prompt](../agents/bbugyi200.athena.3o/prompt.md) | [Chat](../agents/bbugyi200.athena.3o/chat.md) |
-| <a id="member-code"></a>code | 3o--code | completed | gpt-5.5 / codex | 2026-07-09T16:57:02.546970+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.3o--code/chat.md) |
+| <a id="member-root"></a>root | 3o | active | opus / claude | 2026-07-09T16:45:52.641182+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.3o/prompt.md) | [Chat](../agents/bbugyi200.athena.3o/chat.md) |
+| <a id="member-code"></a>code | 3o--code | completed | gpt-5.5 / codex | 2026-07-09T16:57:02.546970+00:00 | [1](../agents/bbugyi200.athena.3o--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.3o--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`cca9d50`](https://github.com/sase-org/sase/commit/cca9d500cd88751180efd0d6f47c0ab9b73e7902) | feat(tui): add commit hint viewer | 2026-07-09 13:22:24 EDT |
+| code | sase | [`cca9d50`](https://github.com/sase-org/sase/commit/cca9d500cd88751180efd0d6f47c0ab9b73e7902) | feat(tui): add commit hint viewer | 2026-07-09 13:22:24 EDT |
 
 ## Neighbors
 

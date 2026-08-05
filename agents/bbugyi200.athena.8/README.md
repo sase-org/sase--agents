@@ -11,7 +11,7 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-06T16:41:31.210541+00:00
-- Commits: [3](#commits)
+- Commits: [1](#commits)
 
 ## Files
 
@@ -21,6 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`350c2a3`](https://github.com/sase-org/sase/commit/350c2a3590a780388432b5dbe1e932487257ccee) | fix: guard sase-core-rs source version skew | 2026-06-25 07:11:15 EDT |
 | sase | [`f493dbb`](https://github.com/sase-org/sase/commit/f493dbb99954e92c7dba93a7a0298e0367ae8393) | chore: Add SDD prompt and plan for fix\_flaky\_preview\_scroll\_test | 2026-07-06 12:54:07 EDT |
-| sase | [`c1475be`](https://github.com/sase-org/sase/commit/c1475bee0af886f4ca31cb53e60582df09bdd9d5) | fix(tui): make config preview scrolling deterministic | 2026-07-06 13:04:57 EDT |

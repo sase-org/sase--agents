@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-53e580e9969d405b9b2b9ec2b9b29717"}
+{"commits":[{"committed_at":1783357198,"sha":"54033e8b9ababb08d6152b400191bac599137cac","subject":"fix: provider coder aliases inherit @coder instead of @default"}],"schema_version":2,"source_run_id":"run-53e580e9969d405b9b2b9ec2b9b29717"}

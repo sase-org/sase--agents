@@ -11,14 +11,8 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-14T15:11:59.584287+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`05ef506`](https://github.com/sase-org/sase/commit/05ef5069984b6a42023bb565411e58cb677c4934) | fix(tui): preserve agent names in bulk kill-and-edit | 2026-07-14 11:38:51 EDT |

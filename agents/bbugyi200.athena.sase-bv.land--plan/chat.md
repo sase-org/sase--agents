@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-bv.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_bv_land__plan-260731_091328.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_bv_land__code-260731_091328.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/land_bead_creator_attribution.md
 
 

@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | b1 | active | opus / claude | 2026-07-16T20:59:50.611996+00:00 | [1](../agents/bbugyi200.athena.b1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.b1/prompt.md) | [Chat](../agents/bbugyi200.athena.b1/chat.md) |
+| <a id="member-root"></a>root | b1 | active | opus / claude | 2026-07-16T20:59:50.611996+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.b1/prompt.md) | [Chat](../agents/bbugyi200.athena.b1/chat.md) |
 | <a id="member-code"></a>code | b1--code | completed | gpt-5.6-sol / codex | 2026-07-16T21:09:13.460416+00:00 | [1](../agents/bbugyi200.athena.b1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.b1--code/chat.md) |
 
 ## Commits
@@ -25,7 +25,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | code | sase | [`125f342`](https://github.com/sase-org/sase/commit/125f342cb18e2a5bee33370948a204733c25e948) | feat(ace): merge plan into SASE context | 2026-07-16 17:35:38 EDT |
-| root | sase | [`125f342`](https://github.com/sase-org/sase/commit/125f342cb18e2a5bee33370948a204733c25e948) | feat(ace): merge plan into SASE context | 2026-07-16 17:35:38 EDT |
 
 ## Neighbors
 

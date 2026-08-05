@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** o9--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-o9__plan-260729_102912.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-o9__code-260729_102912.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/config_init_chezmoi_ignore.md
 
 

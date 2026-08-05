@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 9g | active | gpt-5.6-sol / codex | 2026-07-15T17:33:43.894173+00:00 | [1](../agents/bbugyi200.athena.9g/README.md#commits) | [Prompt](../agents/bbugyi200.athena.9g/prompt.md) | [Chat](../agents/bbugyi200.athena.9g/chat.md) |
+| <a id="member-root"></a>root | 9g | active | gpt-5.6-sol / codex | 2026-07-15T17:33:43.894173+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.9g/prompt.md) | [Chat](../agents/bbugyi200.athena.9g/chat.md) |
 | <a id="member-code"></a>code | 9g--code | completed | gpt-5.6-sol / codex | 2026-07-15T17:48:15.994525+00:00 | [1](../agents/bbugyi200.athena.9g--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.9g--code/chat.md) |
 
 ## Commits
@@ -25,7 +25,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | code | sase | [`73c2dc6`](https://github.com/sase-org/sase/commit/73c2dc6db11abcad2cc0402e85b9774a7c523101) | fix: preserve command output tails in tool reports | 2026-07-15 14:09:29 EDT |
-| root | sase | [`73c2dc6`](https://github.com/sase-org/sase/commit/73c2dc6db11abcad2cc0402e85b9774a7c523101) | fix: preserve command output tails in tool reports | 2026-07-15 14:09:29 EDT |
 
 ## Neighbors
 

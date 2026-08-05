@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** of--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-of__plan-260729_120422.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-of__code-260729_120422.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/changelog_unreleased_cleanup.md
 
 

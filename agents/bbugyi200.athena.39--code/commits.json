@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1d8f1a3ddb82b700f064407f726d7e9c"}
+{"commits":[{"committed_at":1783566819,"sha":"47899b7a15d70fe8e62d421e9f3a831b8f04ea06","subject":"fix(beads): route separate SDD writes to workspace clone"}],"schema_version":2,"source_run_id":"run-1d8f1a3ddb82b700f064407f726d7e9c"}

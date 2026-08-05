@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-b9.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_b9_land__plan-260730_103723.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_b9_land__code-260730_103723.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/integrate_consumption_protection.md
 
 

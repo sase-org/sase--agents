@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `pv` sase agent lane (see #sshot) should have an agent status of `TALE` here, but is marked as `DONE` instead. Can you help me diagnose the root cause of this issue and fix it? #plan #m_opus

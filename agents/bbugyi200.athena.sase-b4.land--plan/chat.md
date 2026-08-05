@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-b4.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_b4_land__plan-260730_071544.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-sase_b4_land__code-260730_071544.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/finish_b4_release_floor_and_land.md
 
 

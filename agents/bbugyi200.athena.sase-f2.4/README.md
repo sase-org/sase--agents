@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-f2](../../users/bbugyi200/machines/athena/hoods/sase-f2/README.md) / sase-f2.4
 
-**Global name:** `bbugyi200.athena.sase-f2.4` · **State:** waiting · **Source run:** `run-607c8ed3406756186722ad4e0d1a8b4d`
+**Global name:** `bbugyi200.athena.sase-f2.4` · **State:** dismissed · **Source run:** `run-607c8ed3406756186722ad4e0d1a8b4d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-f2
 
@@ -10,20 +10,26 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260803145013
-- Commits: 0
+- Timing: 2026-08-03T16:02:27.543764 → 2026-08-03T16:21:32.731452
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`1a2040e`](https://github.com/sase-org/sase/commit/1a2040e73d351ec7c1c280bdc4c4d16dbda10f7e) | feat(xprompt)!: stop writing launch-time provenance JSON | 2026-08-03 16:21:16 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-f2.1](../bbugyi200.athena.sase-f2.1/README.md) | sase-f2 hood | completed |
-| [sase-f2.2](../bbugyi200.athena.sase-f2.2/README.md) | sase-f2 hood | completed |
-| [sase-f2.3](../bbugyi200.athena.sase-f2.3/README.md) | sase-f2 hood | active |
-| [sase-f2.5](../bbugyi200.athena.sase-f2.5/README.md) | sase-f2 hood | waiting |
-| [sase-f2.6](../bbugyi200.athena.sase-f2.6/README.md) | sase-f2 hood | active |
-| [sase-f2.land](../bbugyi200.athena.sase-f2.land/README.md) | sase-f2 hood | waiting |
+| [sase-f2.1](../bbugyi200.athena.sase-f2.1/README.md) | sase-f2 hood | dismissed |
+| [sase-f2.2](../bbugyi200.athena.sase-f2.2/README.md) | sase-f2 hood | dismissed |
+| [sase-f2.3](../bbugyi200.athena.sase-f2.3/README.md) | sase-f2 hood | dismissed |
+| [sase-f2.5](../bbugyi200.athena.sase-f2.5/README.md) | sase-f2 hood | dismissed |
+| [sase-f2.6](../bbugyi200.athena.sase-f2.6/README.md) | sase-f2 hood | dismissed |
+| [sase-f2.land](../bbugyi200.athena.sase-f2.land/README.md) | sase-f2 hood | dismissed |

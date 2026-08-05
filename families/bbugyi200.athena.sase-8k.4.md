@@ -20,6 +20,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | sase-8k.4--code | completed | gpt-5.6-sol / codex | 2026-07-22T14:58:51.735336+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-8k.4--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-8k.4--plan | active | gpt-5.6-sol / codex | 2026-07-22T14:54:39.212533+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-8k.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-8k.4--plan/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`ba0a3cd`](https://github.com/sase-org/sase/commit/ba0a3cd92f02754effe0db0f647ff21c82b8b32f) | feat: add hidden agents sidecar foundation (sase-8k.4) | 2026-07-22 11:54:46 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |

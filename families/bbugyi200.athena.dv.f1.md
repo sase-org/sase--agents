@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | dv.f1--plan | active | claude-fable-5 / claude | 2026-07-18T20:03:16.532400+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.dv.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.dv.f1--plan/chat.md) |
-| <a id="member-code"></a>code | dv.f1--code | completed | gpt-5.6-sol / codex | 2026-07-18T20:26:44.481361+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.dv.f1--code/chat.md) |
+| <a id="member-code"></a>code | dv.f1--code | completed | gpt-5.6-sol / codex | 2026-07-18T20:26:44.481361+00:00 | [1](../agents/bbugyi200.athena.dv.f1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.dv.f1--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`ff19c80`](https://github.com/sase-org/sase/commit/ff19c80f9b24ff9ca1b08cc91acdc233efbf5a94) | feat(ace): sort clan members by status | 2026-07-18 16:58:45 EDT |
 
 ## Neighbors
 

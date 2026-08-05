@@ -11,14 +11,8 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-17T22:25:11.170123+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`eaf6f68`](https://github.com/sase-org/sase/commit/eaf6f6809e89010b1e31a6880d0cbaab37794195) | fix: expose family runner-slot occupancy in agent listings | 2026-07-17 19:16:18 EDT |

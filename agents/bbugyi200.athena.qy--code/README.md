@@ -22,3 +22,9 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`460b8ff`](https://github.com/sase-org/sase/commit/460b8ff2356cc7f35357d2207b14f23182eef3c9) | feat(ace): remember admin center entry selections | 2026-08-01 08:01:39 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [qy.f0](../../families/bbugyi200.athena.qy.f0.md) (family · 2) | descendant | active 2 |

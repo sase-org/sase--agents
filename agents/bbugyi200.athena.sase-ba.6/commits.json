@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-72bf6f8b768188c5b097796d1e848a3c"}
+{"commits":[{"committed_at":1785442211,"sha":"38e3b725a75b9bc16d888cfeedc0b96c6fd21b59","subject":"docs(artifact): document the artifact store lifecycle"}],"schema_version":2,"source_run_id":"run-72bf6f8b768188c5b097796d1e848a3c"}

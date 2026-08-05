@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Something is going wrong with the `agents` sidecar repo syncs (see #sshot). We are only supposed to sync agents that were launched from a different machine, but we seem to be failing to sync agents that were launched from this machine (of course there is a collision). Can you help me diagnose the root cause of this issue and fix it? #plan #m_opus

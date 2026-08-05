@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 3w.f-0.w-1 | active | gpt-5.5 / codex | 2026-07-09T19:36:26.350203+00:00 | [1](../agents/bbugyi200.athena.3w.f-0.w-1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.3w.f-0.w-1/prompt.md) | [Chat](../agents/bbugyi200.athena.3w.f-0.w-1/chat.md) |
-| <a id="member-code"></a>code | 3w.f-0.w-1--code | completed | gpt-5.5 / codex | 2026-07-09T19:40:20.076496+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.3w.f-0.w-1--code/chat.md) |
+| <a id="member-root"></a>root | 3w.f-0.w-1 | active | gpt-5.5 / codex | 2026-07-09T19:36:26.350203+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.3w.f-0.w-1/prompt.md) | [Chat](../agents/bbugyi200.athena.3w.f-0.w-1/chat.md) |
+| <a id="member-code"></a>code | 3w.f-0.w-1--code | completed | gpt-5.5 / codex | 2026-07-09T19:40:20.076496+00:00 | [1](../agents/bbugyi200.athena.3w.f-0.w-1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.3w.f-0.w-1--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`1815d55`](https://github.com/sase-org/sase/commit/1815d551553a28e69e2b097a034c5c57d8fe1f7a) | feat!: remove legend and myth planning flows | 2026-07-09 16:45:33 EDT |
+| code | sase | [`1815d55`](https://github.com/sase-org/sase/commit/1815d551553a28e69e2b097a034c5c57d8fe1f7a) | feat!: remove legend and myth planning flows | 2026-07-09 16:45:33 EDT |
 
 ## Neighbors
 

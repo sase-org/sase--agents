@@ -11,14 +11,8 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-11T12:24:44.306626+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`5605178`](https://github.com/sase-org/sase/commit/56051782c1ac46bf44720f6ee27f47bc685443a2) | fix: attribute nested linked repository commits correctly | 2026-07-11 08:39:04 EDT |

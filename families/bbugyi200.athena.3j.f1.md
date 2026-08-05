@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 3j.f1--code | completed | gpt-5.5 / codex | 2026-07-09T16:04:22.723615+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.3j.f1--code/chat.md) |
-| <a id="member-root"></a>root | 3j.f1 | active | opus / claude | 2026-07-09T16:01:16.057083+00:00 | [1](../agents/bbugyi200.athena.3j.f1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.3j.f1/prompt.md) | [Chat](../agents/bbugyi200.athena.3j.f1/chat.md) |
+| <a id="member-code"></a>code | 3j.f1--code | completed | gpt-5.5 / codex | 2026-07-09T16:04:22.723615+00:00 | [1](../agents/bbugyi200.athena.3j.f1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.3j.f1--code/chat.md) |
+| <a id="member-root"></a>root | 3j.f1 | active | opus / claude | 2026-07-09T16:01:16.057083+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.3j.f1/prompt.md) | [Chat](../agents/bbugyi200.athena.3j.f1/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`1514023`](https://github.com/sase-org/sase/commit/151402345dc3dcec1145d0e070a5d2b9ca9e65ae) | docs: tighten pyvision memory guidance | 2026-07-09 12:10:36 EDT |
+| code | sase | [`1514023`](https://github.com/sase-org/sase/commit/151402345dc3dcec1145d0e070a5d2b9ca9e65ae) | docs: tighten pyvision memory guidance | 2026-07-09 12:10:36 EDT |
 
 ## Neighbors
 

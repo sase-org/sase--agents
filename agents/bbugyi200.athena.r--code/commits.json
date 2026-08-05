@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6864b2e43301f80557fc6679aaa488df"}
+{"commits":[{"committed_at":1783374137,"sha":"7bd3c07bbce8011b5ae24ea2d04ad2c2a18e88a1","subject":"fix: catch dirty linked repos without open markers"}],"schema_version":2,"source_run_id":"run-6864b2e43301f80557fc6679aaa488df"}

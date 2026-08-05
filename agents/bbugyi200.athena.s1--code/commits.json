@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-42b7923d3b5c0674c0bf502df3c1d9d2"}
+{"commits":[{"committed_at":1785682841,"sha":"f393b9151dc2f8151f0901628c3c47f1015d1bbd","subject":"fix(ace-tui): restore tasks-tab selection for durable-store rows"}],"schema_version":2,"source_run_id":"run-42b7923d3b5c0674c0bf502df3c1d9d2"}

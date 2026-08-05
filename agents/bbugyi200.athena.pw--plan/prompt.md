@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me remove the `claude-opus-5` and `claude-sonnet-5` models from builtin pickers (`opus` and `sonnet` default to using these)? Also, let's add support for `codex/gpt-5.3-codex-spark` (i.e. show it in pickers). #plan

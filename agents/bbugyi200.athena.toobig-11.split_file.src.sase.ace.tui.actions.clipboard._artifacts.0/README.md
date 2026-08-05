@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-11](../../users/bbugyi200/machines/athena/hoods/toobig-11/README.md) / toobig-11.split\_file.src.sase.ace.tui.actions.clipboard.\_artifacts.0
 
-**Global name:** `bbugyi200.athena.toobig-11.split_file.src.sase.ace.tui.actions.clipboard._artifacts.0` · **State:** completed · **Source run:** `run-3785e35bbf4e6625807c925ffba74329`
+**Global name:** `bbugyi200.athena.toobig-11.split_file.src.sase.ace.tui.actions.clipboard._artifacts.0` · **State:** active · **Source run:** `run-3785e35bbf4e6625807c925ffba74329`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-11
 

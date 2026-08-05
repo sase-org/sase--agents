@@ -11,14 +11,8 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-10T19:09:30.590363+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`608ec52`](https://github.com/sase-org/sase/commit/608ec521b32420c7a132c8cebd71678158f2a321) | fix: keep dependency waiters pending after failures | 2026-07-10 15:48:01 EDT |

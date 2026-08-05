@@ -19,15 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | sase-5v | active | claude-fable-5 / claude | 2026-07-13T10:58:50.316456+00:00 | [1](../agents/bbugyi200.athena.sase-5v/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-5v/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-5v/chat.md) |
+| <a id="member-root"></a>root | sase-5v | active | claude-fable-5 / claude | 2026-07-13T10:58:50.316456+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-5v/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-5v/chat.md) |
 | <a id="member-code"></a>code | sase-5v--code | active | gpt-5.6-sol / codex | 2026-07-13T11:05:21.399225+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-5v--code/chat.md) |
-| <a id="member-code-0"></a>code-0 | sase-5v--code-0 | active | gpt-5.6-sol / codex | 2026-07-13T11:07:02.570430+00:00 | 0 | — | — |
+| <a id="member-code-0"></a>code-0 | sase-5v--code-0 | active | gpt-5.6-sol / codex | 2026-07-13T11:07:02.570430+00:00 | [1](../agents/bbugyi200.athena.sase-5v--code-0/README.md#commits) | — | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`d6b6ab7`](https://github.com/sase-org/sase/commit/d6b6ab73f53bb19b6f4f46b4bf275a1abacab753) | docs: document basher vendoring workflow (sase-5v) | 2026-07-13 07:16:11 EDT |
+| code-0 | sase | [`d6b6ab7`](https://github.com/sase-org/sase/commit/d6b6ab73f53bb19b6f4f46b4bf275a1abacab753) | docs: document basher vendoring workflow (sase-5v) | 2026-07-13 07:16:11 EDT |
 
 ## Neighbors
 

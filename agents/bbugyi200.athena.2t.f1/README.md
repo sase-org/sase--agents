@@ -11,17 +11,11 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-08T20:00:04.970909+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`affbc4d`](https://github.com/sase-org/sase/commit/affbc4d4e8e2526da54c75f0d6bbdba87b2953be) | fix(vcs-log): show primary project display name | 2026-07-08 16:08:25 EDT |
 
 ## Neighbors
 

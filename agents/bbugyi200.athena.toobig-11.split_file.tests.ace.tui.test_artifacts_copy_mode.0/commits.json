@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2d31bdc63e68f555ca4e0ce16b042bdd"}
+{"commits":[{"committed_at":1785372160,"sha":"5bf8d696b94ae19ea2fb5f8973dbcd2d1af4769c","subject":"test: split artifacts copy-mode tests"}],"schema_version":2,"source_run_id":"run-2d31bdc63e68f555ca4e0ce16b042bdd"}

@@ -11,14 +11,8 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-12T18:31:05.356016+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`438d3c7`](https://github.com/sase-org/sase/commit/438d3c7e05e92e537376c03d217e38837137931b) | feat(beads): accelerate companion mutations | 2026-07-12 15:22:26 EDT |

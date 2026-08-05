@@ -11,17 +11,11 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-16T20:59:50.611996+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`125f342`](https://github.com/sase-org/sase/commit/125f342cb18e2a5bee33370948a204733c25e948) | feat(ace): merge plan into SASE context | 2026-07-16 17:35:38 EDT |
 
 ## Neighbors
 

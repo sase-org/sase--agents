@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-7z.land--code | completed | gpt-5.6-sol / codex | 2026-07-20T14:27:52.559847+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-7z.land--code/chat.md) |
+| <a id="member-code"></a>code | sase-7z.land--code | completed | gpt-5.6-sol / codex | 2026-07-20T14:27:52.559847+00:00 | [1](../agents/bbugyi200.athena.sase-7z.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-7z.land--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-7z.land--plan | active | claude-fable-5 / claude | 2026-07-20T14:20:38.059174+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-7z.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-7z.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`6cc67b9`](https://github.com/sase-org/sase/commit/6cc67b90fcc881469f7cf00f926a8a45a1c29084) | fix(beads): show child epics owned by phases (sase-7z) | 2026-07-20 10:39:27 EDT |
 
 ## Neighbors
 

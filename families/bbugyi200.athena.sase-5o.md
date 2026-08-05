@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-5o--code | completed | gpt-5.6-sol / codex | 2026-07-10T22:55:22.591106+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-5o--code/chat.md) |
-| <a id="member-root"></a>root | sase-5o | active | claude-fable-5 / claude | 2026-07-10T22:34:45.135065+00:00 | [1](../agents/bbugyi200.athena.sase-5o/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-5o/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-5o/chat.md) |
+| <a id="member-code"></a>code | sase-5o--code | completed | gpt-5.6-sol / codex | 2026-07-10T22:55:22.591106+00:00 | [1](../agents/bbugyi200.athena.sase-5o--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-5o--code/chat.md) |
+| <a id="member-root"></a>root | sase-5o | active | claude-fable-5 / claude | 2026-07-10T22:34:45.135065+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-5o/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-5o/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`a035958`](https://github.com/sase-org/sase/commit/a035958ca96d7ab80a47f18a944c384b90291f67) | test(fakey): guard retry marker attribution (sase-5o) | 2026-07-10 19:01:23 EDT |
+| code | sase | [`a035958`](https://github.com/sase-org/sase/commit/a035958ca96d7ab80a47f18a944c384b90291f67) | test(fakey): guard retry marker attribution (sase-5o) | 2026-07-10 19:01:23 EDT |
 
 ## Neighbors
 

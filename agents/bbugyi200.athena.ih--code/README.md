@@ -11,8 +11,14 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-22T16:21:47.824381+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`a20e82d`](https://github.com/sase-org/sase/commit/a20e82dca2d2867920ad7534447c806845258fe5) | fix: restore epic clan summaries | 2026-07-22 12:41:35 EDT |

@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 3t.f-0.f-0--code | completed | gpt-5.5 / codex | 2026-07-09T18:23:57.458483+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.3t.f-0.f-0--code/chat.md) |
-| <a id="member-root"></a>root | 3t.f-0.f-0 | active | gpt-5.5 / codex | 2026-07-09T18:19:31.616601+00:00 | [1](../agents/bbugyi200.athena.3t.f-0.f-0/README.md#commits) | [Prompt](../agents/bbugyi200.athena.3t.f-0.f-0/prompt.md) | [Chat](../agents/bbugyi200.athena.3t.f-0.f-0/chat.md) |
+| <a id="member-code"></a>code | 3t.f-0.f-0--code | completed | gpt-5.5 / codex | 2026-07-09T18:23:57.458483+00:00 | [1](../agents/bbugyi200.athena.3t.f-0.f-0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.3t.f-0.f-0--code/chat.md) |
+| <a id="member-root"></a>root | 3t.f-0.f-0 | active | gpt-5.5 / codex | 2026-07-09T18:19:31.616601+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.3t.f-0.f-0/prompt.md) | [Chat](../agents/bbugyi200.athena.3t.f-0.f-0/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`31b4d01`](https://github.com/sase-org/sase/commit/31b4d012e1c707ff832e0850d550cd67e5223b87) | feat(vcs): cache log fetches and show tags by default | 2026-07-09 14:40:10 EDT |
+| code | sase | [`31b4d01`](https://github.com/sase-org/sase/commit/31b4d012e1c707ff832e0850d550cd67e5223b87) | feat(vcs): cache log fetches and show tags by default | 2026-07-09 14:40:10 EDT |
 
 ## Neighbors
 

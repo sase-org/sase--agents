@@ -18,14 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 74--code | completed | gpt-5.6-sol / codex | 2026-07-12T19:41:36.136911+00:00 | [1](../agents/bbugyi200.athena.74--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.74--code/chat.md) |
-| <a id="member-root"></a>root | 74 | active | claude-fable-5 / claude | 2026-07-12T19:27:49.410769+00:00 | [1](../agents/bbugyi200.athena.74/README.md#commits) | [Prompt](../agents/bbugyi200.athena.74/prompt.md) | [Chat](../agents/bbugyi200.athena.74/chat.md) |
+| <a id="member-root"></a>root | 74 | active | claude-fable-5 / claude | 2026-07-12T19:27:49.410769+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.74/prompt.md) | [Chat](../agents/bbugyi200.athena.74/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | code | sase | [`ab0a559`](https://github.com/sase-org/sase/commit/ab0a55920427b845eb14fa674239278dcf04843b) | feat(amd): support customizable agent templates | 2026-07-12 15:57:43 EDT |
-| root | sase | [`ab0a559`](https://github.com/sase-org/sase/commit/ab0a55920427b845eb14fa674239278dcf04843b) | feat(amd): support customizable agent templates | 2026-07-12 15:57:43 EDT |
 
 ## Neighbors
 

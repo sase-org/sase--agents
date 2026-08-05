@@ -17,13 +17,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 5s | active | opus / claude | 2026-07-11T16:46:39.399585+00:00 | [3](../agents/bbugyi200.athena.5s/README.md#commits) | [Prompt](../agents/bbugyi200.athena.5s/prompt.md) | [Chat](../agents/bbugyi200.athena.5s/chat.md) |
-| <a id="member-code"></a>code | 5s--code | completed | gpt-5.6-sol / codex | 2026-07-11T16:55:28.137652+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.5s--code/chat.md) |
+| <a id="member-root"></a>root | 5s | active | opus / claude | 2026-07-11T16:46:39.399585+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.5s/prompt.md) | [Chat](../agents/bbugyi200.athena.5s/chat.md) |
+| <a id="member-code"></a>code | 5s--code | completed | gpt-5.6-sol / codex | 2026-07-11T16:55:28.137652+00:00 | [1](../agents/bbugyi200.athena.5s--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.5s--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`72c8bed`](https://github.com/sase-org/sase/commit/72c8bed85ccc359a58f75ebc4f67e8fa75a29e39) | chore: Add SDD prompt and plan for vcs\_mru\_cycling\_anywhere | 2026-06-12 12:45:50 EDT |
-| root | sase | [`d297e00`](https://github.com/sase-org/sase/commit/d297e000d1a043028cfa08d38008f51897adf5e6) | feat(ace): cycle VCS MRU prefixes in prompt bodies | 2026-06-12 13:05:17 EDT |
-| root | sase | [`59ea6e5`](https://github.com/sase-org/sase/commit/59ea6e53ec4207741f793cd61f9547cb3ae62e2e) | feat: show alias references in Models panel | 2026-07-11 13:03:21 EDT |
+| — | sase | [`72c8bed`](https://github.com/sase-org/sase/commit/72c8bed85ccc359a58f75ebc4f67e8fa75a29e39) | chore: Add SDD prompt and plan for vcs\_mru\_cycling\_anywhere | 2026-06-12 12:45:50 EDT |
+| — | sase | [`d297e00`](https://github.com/sase-org/sase/commit/d297e000d1a043028cfa08d38008f51897adf5e6) | feat(ace): cycle VCS MRU prefixes in prompt bodies | 2026-06-12 13:05:17 EDT |
+| code | sase | [`59ea6e5`](https://github.com/sase-org/sase/commit/59ea6e53ec4207741f793cd61f9547cb3ae62e2e) | feat: show alias references in Models panel | 2026-07-11 13:03:21 EDT |

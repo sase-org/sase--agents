@@ -11,14 +11,8 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-12T12:57:51.312901+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`3b54a7b`](https://github.com/sase-org/sase/commit/3b54a7bd1761ae7ccb041d170fc3cf986d5ec380) | fix: decouple source linting from SASE validation (#225) | 2026-07-12 09:59:47 EDT |

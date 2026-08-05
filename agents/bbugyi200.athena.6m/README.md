@@ -11,16 +11,8 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-12T13:24:51.399322+00:00
-- Commits: [3](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`86af3a8`](https://github.com/sase-org/sase/commit/86af3a8713abe0c9bbec65a3f4350c0296c580eb) | chore: Add SDD prompt and plan for plan\_list\_live\_agents | 2026-06-13 12:13:19 EDT |
-| sase | [`f15d55c`](https://github.com/sase-org/sase/commit/f15d55c7efb914a3dc795a4e3867c1b279ca4bef) | fix(plan): filter pending approvals to live agents | 2026-06-13 12:29:37 EDT |
-| sase | [`e2274e5`](https://github.com/sase-org/sase/commit/e2274e52b3b8cb6897eb0c8fe22eb32ae5c97064) | fix: preserve primary commit diff provenance | 2026-07-12 09:59:38 EDT |

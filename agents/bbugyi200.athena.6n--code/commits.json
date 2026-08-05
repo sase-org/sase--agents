@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-16c7405633acfb4abffe39527b3cf94f"}
+{"commits":[{"committed_at":1783866715,"sha":"b788ca52264df2652e7b29063c5d3a67448ee75f","subject":"fix(tui): prevent message pump starvation"}],"schema_version":2,"source_run_id":"run-16c7405633acfb4abffe39527b3cf94f"}

@@ -11,16 +11,8 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-10T15:17:30.276768+00:00
-- Commits: [3](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`a141201`](https://github.com/sase-org/sase/commit/a141201cf038db63d1c4bf84d87d87e037cfadbc) | chore: Add SDD prompt and plan for cli\_help\_output | 2026-06-09 18:15:19 EDT |
-| sase | [`3161450`](https://github.com/sase-org/sase/commit/3161450fc57f1db9f677ad98ac81d1504691b416) | feat: add compact root CLI help | 2026-06-09 18:24:52 EDT |
-| sase | [`8d2179c`](https://github.com/sase-org/sase/commit/8d2179ced988a670782773751ec7c6c0858c6f5f) | fix(xprompt): preserve time-shaped wait dependency names | 2026-07-10 11:28:11 EDT |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7b197fac5e07ed95c981ae6f7ef13c71"}
+{"commits":[{"committed_at":1785791412,"sha":"943ffd0d3659298d16e29195da06d5d82dfeabea","subject":"fix(bead): expose sync helper implementation symbols"}],"schema_version":2,"source_run_id":"run-7b197fac5e07ed95c981ae6f7ef13c71"}

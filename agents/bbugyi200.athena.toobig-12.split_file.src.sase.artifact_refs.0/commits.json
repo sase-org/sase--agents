@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8f98c17502c0eef81a821cfe677226c2"}
+{"commits":[{"committed_at":1785380822,"sha":"e3cac0dee041f5561f0b8116c09aec54aaa7310c","subject":"refactor: split artifact reference facade into focused modules"}],"schema_version":2,"source_run_id":"run-8f98c17502c0eef81a821cfe677226c2"}

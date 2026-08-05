@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,6 +27,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-1c.split\_file.src.sase.ace.tui.modals.config\_pane\_widget.0](../bbugyi200.athena.toobig-1c.split_file.src.sase.ace.tui.modals.config_pane_widget.0/README.md) | toobig-1c.split\_file hood | completed |
-| [toobig-1c.split\_file.src.sase.ace.tui.modals.logs\_pane.0](../bbugyi200.athena.toobig-1c.split_file.src.sase.ace.tui.modals.logs_pane.0/README.md) | toobig-1c.split\_file hood | completed |
-| [toobig-1c.split\_file.src.sase.ace.tui.modals.tasks\_pane.0](../bbugyi200.athena.toobig-1c.split_file.src.sase.ace.tui.modals.tasks_pane.0/README.md) | toobig-1c.split\_file hood | completed |
+| [toobig-1c.split\_file.src.sase.ace.tui.modals.config\_pane\_widget.0](../bbugyi200.athena.toobig-1c.split_file.src.sase.ace.tui.modals.config_pane_widget.0/README.md) | toobig-1c.split\_file hood | active |
+| [toobig-1c.split\_file.src.sase.ace.tui.modals.logs\_pane.0](../bbugyi200.athena.toobig-1c.split_file.src.sase.ace.tui.modals.logs_pane.0/README.md) | toobig-1c.split\_file hood | active |
+| [toobig-1c.split\_file.src.sase.ace.tui.modals.tasks\_pane.0](../bbugyi200.athena.toobig-1c.split_file.src.sase.ace.tui.modals.tasks_pane.0/README.md) | toobig-1c.split\_file hood | active |

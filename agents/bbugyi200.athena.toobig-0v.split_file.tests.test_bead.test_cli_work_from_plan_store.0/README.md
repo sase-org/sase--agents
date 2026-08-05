@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-0v.split\_file.tests.test\_bead.test\_cli\_work\_epic\_lifecycle.0](../bbugyi200.athena.toobig-0v.split_file.tests.test_bead.test_cli_work_epic_lifecycle.0/README.md) | toobig-0v.split\_file.tests.test\_bead hood | completed |
+| [toobig-0v.split\_file.tests.test\_bead.test\_cli\_work\_epic\_lifecycle.0](../bbugyi200.athena.toobig-0v.split_file.tests.test_bead.test_cli_work_epic_lifecycle.0/README.md) | toobig-0v.split\_file.tests.test\_bead hood | active |

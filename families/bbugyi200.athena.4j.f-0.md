@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 4j.f-0 | active | gpt-5.6-sol / codex | 2026-07-10T17:06:40.382774+00:00 | [1](../agents/bbugyi200.athena.4j.f-0/README.md#commits) | [Prompt](../agents/bbugyi200.athena.4j.f-0/prompt.md) | [Chat](../agents/bbugyi200.athena.4j.f-0/chat.md) |
-| <a id="member-code"></a>code | 4j.f-0--code | completed | gpt-5.6-sol / codex | 2026-07-10T17:11:46.876030+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.4j.f-0--code/chat.md) |
+| <a id="member-root"></a>root | 4j.f-0 | active | gpt-5.6-sol / codex | 2026-07-10T17:06:40.382774+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.4j.f-0/prompt.md) | [Chat](../agents/bbugyi200.athena.4j.f-0/chat.md) |
+| <a id="member-code"></a>code | 4j.f-0--code | completed | gpt-5.6-sol / codex | 2026-07-10T17:11:46.876030+00:00 | [1](../agents/bbugyi200.athena.4j.f-0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.4j.f-0--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`aa08bdf`](https://github.com/sase-org/sase/commit/aa08bdf80daee0b5bb50120d10ee416178f84daf) | feat!: move Bob query skill to user configuration | 2026-07-10 13:28:08 EDT |
+| code | sase | [`aa08bdf`](https://github.com/sase-org/sase/commit/aa08bdf80daee0b5bb50120d10ee416178f84daf) | feat!: move Bob query skill to user configuration | 2026-07-10 13:28:08 EDT |
 
 ## Neighbors
 

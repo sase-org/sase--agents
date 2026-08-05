@@ -11,19 +11,11 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-14T09:29:33.569313+00:00
-- Commits: [3](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`e347407`](https://github.com/sase-org/sase/commit/e3474074c34b2b45913c7c183c8bf69386ee6bed) | chore: Add SDD prompt and plan for rename\_skills\_use | 2026-06-15 16:21:54 EDT |
-| sase | [`76a7f0c`](https://github.com/sase-org/sase/commit/76a7f0c0175d8182e360397a87b504718d8cc741) | feat(skills)!: rename \`sase skills log\` to \`sase skills use\` | 2026-06-15 16:32:11 EDT |
-| sase | [`36b962a`](https://github.com/sase-org/sase/commit/36b962ad9f664186dfa52b372469a9318b2c0fa7) | fix(workspaces): isolate generated SASE repo metadata | 2026-07-14 06:16:37 EDT |
 
 ## Neighbors
 

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add a new `--format` option to the `sase bead show` command? See the option of the same name that we recently added to the `sase bead list` command for inspiration. #beau #plan  #m_opus

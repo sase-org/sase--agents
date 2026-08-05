@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `nr` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["nr--code [active]"]
+  n0["nr--code [completed]"]
   n1["nr--0 [active]"]
   n0 --> n1
   n2["nr--1 [active]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | nr--code | active | gpt-5.6-sol / codex | 2026-07-29T10:35:42.569605+00:00 | [1](../agents/bbugyi200.athena.nr--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | nr--code | completed | gpt-5.6-sol / codex | 2026-07-29T10:35:42.569605+00:00 | [1](../agents/bbugyi200.athena.nr--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.nr--code/chat.md) |
 | <a id="member-0"></a>0 | nr--0 | active | opus / claude | 2026-07-29T10:23:20.936976+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.nr--0/prompt.md) | [Chat](../agents/bbugyi200.athena.nr--0/chat.md) |
 | <a id="member-1"></a>1 | nr--1 | active | opus / claude | 2026-07-29T10:30:58.644019+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.nr--1/chat.md) |
 

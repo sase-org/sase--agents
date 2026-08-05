@@ -18,14 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | b1.f2--code | completed | gpt-5.6-sol / codex | 2026-07-16T21:53:23.475129+00:00 | [1](../agents/bbugyi200.athena.b1.f2--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.b1.f2--code/chat.md) |
-| <a id="member-root"></a>root | b1.f2 | active | claude-fable-5 / claude | 2026-07-16T21:42:26.843416+00:00 | [1](../agents/bbugyi200.athena.b1.f2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.b1.f2/prompt.md) | [Chat](../agents/bbugyi200.athena.b1.f2/chat.md) |
+| <a id="member-root"></a>root | b1.f2 | active | claude-fable-5 / claude | 2026-07-16T21:42:26.843416+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.b1.f2/prompt.md) | [Chat](../agents/bbugyi200.athena.b1.f2/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | code | sase | [`38760e2`](https://github.com/sase-org/sase/commit/38760e2f2eb9ef47bebbb1c89d4ec97624e8e598) | feat(ace): polish plan lane visuals | 2026-07-16 18:08:51 EDT |
-| root | sase | [`38760e2`](https://github.com/sase-org/sase/commit/38760e2f2eb9ef47bebbb1c89d4ec97624e8e598) | feat(ace): polish plan lane visuals | 2026-07-16 18:08:51 EDT |
 
 ## Neighbors
 

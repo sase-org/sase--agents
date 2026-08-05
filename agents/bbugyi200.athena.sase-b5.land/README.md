@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,10 +27,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-b5.1](../bbugyi200.athena.sase-b5.1/README.md) | sase-b5 hood | completed |
-| [sase-b5.2](../bbugyi200.athena.sase-b5.2/README.md) | sase-b5 hood | completed |
-| [sase-b5.3](../bbugyi200.athena.sase-b5.3/README.md) | sase-b5 hood | completed |
-| [sase-b5.4](../bbugyi200.athena.sase-b5.4/README.md) | sase-b5 hood | completed |
+| [sase-b5.1](../bbugyi200.athena.sase-b5.1/README.md) | sase-b5 hood | active |
+| [sase-b5.2](../bbugyi200.athena.sase-b5.2/README.md) | sase-b5 hood | active |
+| [sase-b5.3](../bbugyi200.athena.sase-b5.3/README.md) | sase-b5 hood | active |
+| [sase-b5.4](../bbugyi200.athena.sase-b5.4/README.md) | sase-b5 hood | active |
 | [sase-b5.4.w0.w0](../bbugyi200.athena.sase-b5.4.w0.w0/README.md) | sase-b5 hood | active |
-| [sase-b5.4.w1](../../families/bbugyi200.athena.sase-b5.4.w1.md) (family · 2) | sase-b5 hood | completed 2 |
-| [sase-b5.5](../bbugyi200.athena.sase-b5.5/README.md) | sase-b5 hood | completed |
+| [sase-b5.4.w1](../../families/bbugyi200.athena.sase-b5.4.w1.md) (family · 2) | sase-b5 hood | active 1, completed 1 |
+| [sase-b5.5](../bbugyi200.athena.sase-b5.5/README.md) | sase-b5 hood | active |

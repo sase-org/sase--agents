@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-en](../../users/bbugyi200/machines/athena/hoods/sase-en/README.md) / sase-en.4
 
-**Global name:** `bbugyi200.athena.sase-en.4` · **State:** completed · **Source run:** `run-6810ad783feea790bf21f308da813765`
+**Global name:** `bbugyi200.athena.sase-en.4` · **State:** dismissed · **Source run:** `run-6810ad783feea790bf21f308da813765`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-en
 
@@ -10,12 +10,12 @@
 
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-03T13:41:15.275933+00:00
+- Timing: 2026-08-03T09:41:15.275933 → 2026-08-03T10:12:02.449513
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -27,7 +27,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-en.1](../bbugyi200.athena.sase-en.1/README.md) | sase-en hood | completed |
-| [sase-en.2](../bbugyi200.athena.sase-en.2/README.md) | sase-en hood | completed |
-| [sase-en.3](../bbugyi200.athena.sase-en.3/README.md) | sase-en hood | completed |
-| [sase-en.land](../../families/bbugyi200.athena.sase-en.land.md) (family · 2) | sase-en hood | completed 2 |
+| [sase-en.1](../bbugyi200.athena.sase-en.1/README.md) | sase-en hood | dismissed |
+| [sase-en.2](../bbugyi200.athena.sase-en.2/README.md) | sase-en hood | dismissed |
+| [sase-en.3](../bbugyi200.athena.sase-en.3/README.md) | sase-en hood | dismissed |
+| [sase-en.land](../../families/bbugyi200.athena.sase-en.land.md) (family · 2) | sase-en hood | completed 1, dismissed 1 |

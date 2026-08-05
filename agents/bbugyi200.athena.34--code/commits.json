@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2916108f9c9879eda0b5ef9793bc435e"}
+{"commits":[{"committed_at":1783560653,"sha":"d50c2e52e706da04790419df19e6684b04354344","subject":"feat(tui): aggregate agent output variables"}],"schema_version":2,"source_run_id":"run-2916108f9c9879eda0b5ef9793bc435e"}

@@ -1,1 +1,1 @@
-{"commits":[{"committed_at":1781051810,"sha":"cb30d6ff56ab0757c5a21771c132a069260db7aa","subject":"chore: Add SDD prompt and plan for worker_model"},{"committed_at":1783715153,"sha":"887f6890ce0323ec5608c940196ba2b76270b520","subject":"fix: retry model capacity failures"}],"schema_version":2,"source_run_id":"run-74d982d181de49247955c64a2ba5fa91"}
+{"commits":[],"schema_version":2,"source_run_id":"run-74d982d181de49247955c64a2ba5fa91"}

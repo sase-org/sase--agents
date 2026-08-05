@@ -11,8 +11,14 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-09T17:04:17.350517+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`28168ad`](https://github.com/sase-org/sase/commit/28168ad0566e54baf577836221f1ab778c1b6dd2) | fix: include companion SDD artifacts in finalization | 2026-07-09 13:14:28 EDT |

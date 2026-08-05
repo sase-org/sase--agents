@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 4h--code | completed | gpt-5.6-sol / codex | 2026-07-10T15:19:55.884906+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.4h--code/chat.md) |
-| <a id="member-root"></a>root | 4h | active | gpt-5.6-sol / codex | 2026-07-10T15:16:09.985288+00:00 | [1](../agents/bbugyi200.athena.4h/README.md#commits) | [Prompt](../agents/bbugyi200.athena.4h/prompt.md) | [Chat](../agents/bbugyi200.athena.4h/chat.md) |
+| <a id="member-code"></a>code | 4h--code | completed | gpt-5.6-sol / codex | 2026-07-10T15:19:55.884906+00:00 | [1](../agents/bbugyi200.athena.4h--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.4h--code/chat.md) |
+| <a id="member-root"></a>root | 4h | active | gpt-5.6-sol / codex | 2026-07-10T15:16:09.985288+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.4h/prompt.md) | [Chat](../agents/bbugyi200.athena.4h/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`86c7034`](https://github.com/sase-org/sase/commit/86c7034f2132b3112e7c3c68bbf544952d8d3d7e) | feat(vcs)!: make SDD log history opt-in | 2026-07-10 11:28:18 EDT |
+| code | sase | [`86c7034`](https://github.com/sase-org/sase/commit/86c7034f2132b3112e7c3c68bbf544952d8d3d7e) | feat(vcs)!: make SDD log history opt-in | 2026-07-10 11:28:18 EDT |

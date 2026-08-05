@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-30d6eec2f78f503b437f253dafa12f63"}
+{"commits":[{"committed_at":1785281618,"sha":"4f08f4f1b1cbbc9221017ac14f67cad5bf938446","subject":"fix(beads): land the sidecar commit-consolidation epic"}],"schema_version":2,"source_run_id":"run-30d6eec2f78f503b437f253dafa12f63"}

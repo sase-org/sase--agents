@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-17f667e2a1362e38b42c7d998cff2c19"}
+{"commits":[{"committed_at":1783574492,"sha":"e9473ca007b578df53ca7f7f4e1d515ccaa1d34c","subject":"feat: include VCS tags in plan approval notifications"}],"schema_version":2,"source_run_id":"run-17f667e2a1362e38b42c7d998cff2c19"}

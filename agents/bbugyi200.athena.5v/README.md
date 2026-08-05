@@ -11,19 +11,11 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-11T17:26:48.740585+00:00
-- Commits: [3](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`7f7b213`](https://github.com/sase-org/sase/commit/7f7b213adfacb4d51973abfd99d4a76bb46c3529) | chore: Add SDD prompt and plan for pypi\_smoke\_env | 2026-06-12 12:52:37 EDT |
-| sase | [`d5af376`](https://github.com/sase-org/sase/commit/d5af3768ac2935116a40c22ced7579e60a67ed1e) | build: add PyPI release smoke harness | 2026-06-12 13:09:33 EDT |
-| sase | [`b3c7582`](https://github.com/sase-org/sase/commit/b3c75827571fde1b6027e3f7d2f0bac40d3d9530) | feat(sdd): unify tale and epic plan storage | 2026-07-11 14:14:26 EDT |
 
 ## Neighbors
 

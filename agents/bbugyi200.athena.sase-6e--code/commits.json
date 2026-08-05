@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-9c7e3513dcde543ed1ba931d0b302582"}
+{"commits":[{"committed_at":1784247916,"sha":"a0dc62d2fa5788eb06a5e60a7be14976c2f09eb5","subject":"feat(notification-gates): finalize adapter-owned auto resolution (sase-6e)"}],"schema_version":2,"source_run_id":"run-9c7e3513dcde543ed1ba931d0b302582"}

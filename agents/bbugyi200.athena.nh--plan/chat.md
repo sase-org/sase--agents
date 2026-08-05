@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** nh--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-nh__plan-260728_172836.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-nh__code-260728_172836.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/xprompt_completion_comma_spacer.md
 
 

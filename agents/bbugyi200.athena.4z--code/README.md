@@ -11,8 +11,14 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-10T21:49:39.071762+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`bec37b5`](https://github.com/sase-org/sase/commit/bec37b564563dab50b3ef7917f99d6ef64facf57) | feat(ace): support exact-time model overrides | 2026-07-10 18:11:15 EDT |

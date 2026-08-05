@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** ny.f0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-ny_f0__plan-260729_081729.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-ny_f0__code-260729_081729.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/completion_menu_delete_entry.md
 
 

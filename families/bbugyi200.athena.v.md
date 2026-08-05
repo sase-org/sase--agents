@@ -17,13 +17,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | v--code | completed | gpt-5.5 / codex | 2026-07-06T23:31:50.771380+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.v--code/chat.md) |
-| <a id="member-root"></a>root | v | active | gpt-5.5 / codex | 2026-07-06T23:30:02.286136+00:00 | [3](../agents/bbugyi200.athena.v/README.md#commits) | [Prompt](../agents/bbugyi200.athena.v/prompt.md) | [Chat](../agents/bbugyi200.athena.v/chat.md) |
+| <a id="member-code"></a>code | v--code | completed | gpt-5.5 / codex | 2026-07-06T23:31:50.771380+00:00 | [1](../agents/bbugyi200.athena.v--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.v--code/chat.md) |
+| <a id="member-root"></a>root | v | active | gpt-5.5 / codex | 2026-07-06T23:30:02.286136+00:00 | [1](../agents/bbugyi200.athena.v/README.md#commits) | [Prompt](../agents/bbugyi200.athena.v/prompt.md) | [Chat](../agents/bbugyi200.athena.v/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`d2ac8c3`](https://github.com/sase-org/sase/commit/d2ac8c317cf07e2691e958b972761f2f1e31d5c6) | chore: Add SDD prompt and plan for telegram\_enabled\_gate | 2026-07-03 14:03:03 EDT |
+| — | sase | [`d2ac8c3`](https://github.com/sase-org/sase/commit/d2ac8c317cf07e2691e958b972761f2f1e31d5c6) | chore: Add SDD prompt and plan for telegram\_enabled\_gate | 2026-07-03 14:03:03 EDT |
 | root | sase | [`f48e881`](https://github.com/sase-org/sase/commit/f48e8818e340a6404b9d8c7c2f381b1072c67c4f) | chore: Add SDD prompt and plan for nested\_agent\_docs\_provider\_shims | 2026-07-06 19:31:49 EDT |
-| root | sase | [`17acd9f`](https://github.com/sase-org/sase/commit/17acd9fec688aa5995fc9f636dc4e9ab2b43a278) | fix: manage nested agent doc provider shims | 2026-07-06 19:41:47 EDT |
+| code | sase | [`17acd9f`](https://github.com/sase-org/sase/commit/17acd9fec688aa5995fc9f636dc4e9ab2b43a278) | fix: manage nested agent doc provider shims | 2026-07-06 19:41:47 EDT |

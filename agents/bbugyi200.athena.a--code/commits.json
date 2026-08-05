@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0330ba579dd350b02a18d2da06bc01fc"}
+{"commits":[{"committed_at":1783359115,"sha":"228fc78aff339555268d16fee134d208f0991769","subject":"fix(tui): humanize project refs in prompt displays"}],"schema_version":2,"source_run_id":"run-0330ba579dd350b02a18d2da06bc01fc"}

@@ -11,7 +11,7 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-07T20:15:56.991295+00:00
-- Commits: [2](#commits)
+- Commits: [1](#commits)
 
 ## Files
 
@@ -22,7 +22,6 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`8c26b3c`](https://github.com/sase-org/sase/commit/8c26b3c9abab86e23ced65e99e941c12e12460ba) | chore: Add SDD prompt and plan for stuck\_pending\_tool\_calls | 2026-07-07 16:28:18 EDT |
-| sase | [`be54023`](https://github.com/sase-org/sase/commit/be540239c2b33730c83199d8465546e294b5f4b6) | fix: prevent stale pending tool calls | 2026-07-07 16:52:38 EDT |
 
 ## Neighbors
 

@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-b5` · Members: 2
 ```mermaid
 flowchart TD
   n0["sase-b5.4.w1--code [completed]"]
-  n1["sase-b5.4.w1--plan [completed]"]
+  n1["sase-b5.4.w1--plan [active]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-b5.4.w1--code | completed | gpt-5.6-sol / codex | 2026-07-30T13:29:26.715551+00:00 | [1](../agents/bbugyi200.athena.sase-b5.4.w1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-b5.4.w1--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-b5.4.w1--plan | completed | opus / claude | 2026-07-30T13:14:28.253324+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-b5.4.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-b5.4.w1--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-b5.4.w1--plan | active | opus / claude | 2026-07-30T13:14:28.253324+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-b5.4.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-b5.4.w1--plan/chat.md) |
 
 ## Commits
 
@@ -30,10 +30,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-b5.4](../agents/bbugyi200.athena.sase-b5.4/README.md) | ancestor | completed |
+| [sase-b5.4](../agents/bbugyi200.athena.sase-b5.4/README.md) | ancestor | active |
 | [sase-b5.4.w0.w0](../agents/bbugyi200.athena.sase-b5.4.w0.w0/README.md) | sase-b5.4 hood | active |
-| [sase-b5.1](../agents/bbugyi200.athena.sase-b5.1/README.md) | sase-b5 hood | completed |
-| [sase-b5.2](../agents/bbugyi200.athena.sase-b5.2/README.md) | sase-b5 hood | completed |
-| [sase-b5.3](../agents/bbugyi200.athena.sase-b5.3/README.md) | sase-b5 hood | completed |
-| [sase-b5.5](../agents/bbugyi200.athena.sase-b5.5/README.md) | sase-b5 hood | completed |
+| [sase-b5.1](../agents/bbugyi200.athena.sase-b5.1/README.md) | sase-b5 hood | active |
+| [sase-b5.2](../agents/bbugyi200.athena.sase-b5.2/README.md) | sase-b5 hood | active |
+| [sase-b5.3](../agents/bbugyi200.athena.sase-b5.3/README.md) | sase-b5 hood | active |
+| [sase-b5.5](../agents/bbugyi200.athena.sase-b5.5/README.md) | sase-b5 hood | active |
 | [sase-b5.land](../agents/bbugyi200.athena.sase-b5.land/README.md) | sase-b5 hood | active |

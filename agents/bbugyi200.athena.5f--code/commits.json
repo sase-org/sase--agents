@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0ebebb029de7ecd2e2872ea0e17b3e32"}
+{"commits":[{"committed_at":1783775685,"sha":"1064f1df38ce7c73354c8f42375e5d74cba98da8","subject":"fix: finalize interrupted tool calls on agent teardown"}],"schema_version":2,"source_run_id":"run-0ebebb029de7ecd2e2872ea0e17b3e32"}

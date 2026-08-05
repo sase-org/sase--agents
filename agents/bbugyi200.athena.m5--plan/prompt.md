@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add a `-f|--format <compact|full|json>` option to the `sase bead list` command? #plan #m_opus

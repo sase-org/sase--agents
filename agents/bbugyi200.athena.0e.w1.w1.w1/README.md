@@ -11,7 +11,7 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-07T16:57:17.907507+00:00
-- Commits: [2](#commits)
+- Commits: [1](#commits)
 
 ## Files
 
@@ -22,7 +22,6 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`63ea7d9`](https://github.com/sase-org/sase/commit/63ea7d9da3c218564a52ce03ee3c0f2b39fe73dd) | chore: Add SDD prompt and plan for merge\_help\_and\_tab\_guide\_panels | 2026-07-07 13:05:39 EDT |
-| sase | [`0862efa`](https://github.com/sase-org/sase/commit/0862efa745f91bd5687d7d34d81b4fece50eb2f7) | feat(ace)!: merge tab guide into help panel | 2026-07-07 13:34:59 EDT |
 
 ## Neighbors
 

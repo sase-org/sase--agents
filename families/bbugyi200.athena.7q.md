@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 7q--code | completed | gpt-5.6-sol / codex | 2026-07-13T12:42:55.487715+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.7q--code/chat.md) |
+| <a id="member-code"></a>code | 7q--code | completed | gpt-5.6-sol / codex | 2026-07-13T12:42:55.487715+00:00 | [1](../agents/bbugyi200.athena.7q--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.7q--code/chat.md) |
 | <a id="member-plan"></a>plan | 7q--plan | active | claude-fable-5 / claude | 2026-07-13T08:32:15.203153 | 0 | [Prompt](../agents/bbugyi200.athena.7q--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.7q--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`33c02ed`](https://github.com/sase-org/sase/commit/33c02ed90a44096ffbf8559ad648d3ca3e9e7de1) | fix(workspace): reset repository clones before launch | 2026-07-13 09:00:41 EDT |
 
 ## Neighbors
 

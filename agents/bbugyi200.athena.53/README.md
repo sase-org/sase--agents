@@ -11,19 +11,11 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-10T22:51:02.604756+00:00
-- Commits: [3](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`3dfd443`](https://github.com/sase-org/sase/commit/3dfd443764d2f0a52765961bc86e0401649a07dc) | chore: Add SDD prompt and plan for worker\_model\_handoffs | 2026-06-10 09:22:51 EDT |
-| sase | [`6a680c1`](https://github.com/sase-org/sase/commit/6a680c1fd3ed2614e6d85290ed7537e0ad844f24) | feat: route plan-implementation handoffs through the worker model lane | 2026-06-10 09:41:53 EDT |
-| sase | [`8ee7fa5`](https://github.com/sase-org/sase/commit/8ee7fa57d2ca5e2e63c051ef50dd3e82cb8aef1a) | feat(memory)!: require explicit project opt-in | 2026-07-10 19:12:38 EDT |
 
 ## Neighbors
 

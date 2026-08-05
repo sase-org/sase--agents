@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** rg--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-rg__plan-260801_102836.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-rg__code-260801_102836.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/hide_fakey_from_updates.md
 
 

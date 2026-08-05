@@ -15,19 +15,19 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-b2.9](../bbugyi200.athena.sase-b2.9/README.md) | ancestor | completed |
-| [sase-b2.1](../bbugyi200.athena.sase-b2.1/README.md) | sase-b2 hood | completed |
-| [sase-b2.2](../bbugyi200.athena.sase-b2.2/README.md) | sase-b2 hood | completed |
-| [sase-b2.3](../bbugyi200.athena.sase-b2.3/README.md) | sase-b2 hood | completed |
-| [sase-b2.4](../bbugyi200.athena.sase-b2.4/README.md) | sase-b2 hood | completed |
-| [sase-b2.5](../bbugyi200.athena.sase-b2.5/README.md) | sase-b2 hood | completed |
-| [sase-b2.6](../bbugyi200.athena.sase-b2.6/README.md) | sase-b2 hood | completed |
-| [sase-b2.7](../bbugyi200.athena.sase-b2.7/README.md) | sase-b2 hood | completed |
-| [sase-b2.8](../bbugyi200.athena.sase-b2.8/README.md) | sase-b2 hood | completed |
-| [sase-b2.land](../../families/bbugyi200.athena.sase-b2.land.md) (family · 2) | sase-b2 hood | active 2 |
+| [sase-b2.9](../bbugyi200.athena.sase-b2.9/README.md) | ancestor | active |
+| [sase-b2.1](../bbugyi200.athena.sase-b2.1/README.md) | sase-b2 hood | active |
+| [sase-b2.2](../bbugyi200.athena.sase-b2.2/README.md) | sase-b2 hood | active |
+| [sase-b2.3](../bbugyi200.athena.sase-b2.3/README.md) | sase-b2 hood | active |
+| [sase-b2.4](../bbugyi200.athena.sase-b2.4/README.md) | sase-b2 hood | active |
+| [sase-b2.5](../bbugyi200.athena.sase-b2.5/README.md) | sase-b2 hood | active |
+| [sase-b2.6](../bbugyi200.athena.sase-b2.6/README.md) | sase-b2 hood | active |
+| [sase-b2.7](../bbugyi200.athena.sase-b2.7/README.md) | sase-b2 hood | active |
+| [sase-b2.8](../bbugyi200.athena.sase-b2.8/README.md) | sase-b2 hood | active |
+| [sase-b2.land](../../families/bbugyi200.athena.sase-b2.land.md) (family · 2) | sase-b2 hood | active 1, completed 1 |

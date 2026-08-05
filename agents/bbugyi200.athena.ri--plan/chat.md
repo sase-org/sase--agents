@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** ri--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-ri__plan-260801_120950.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-ri__code-260801_120950.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/agents_mark_all_read_undo.md
 
 

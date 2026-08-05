@@ -29,7 +29,7 @@ before making any file changes.
 > On 2026-08-02 the epic plan `~/.sase/plans/202608/priority_property.md` was approved from ACE and launched as a detached
 > `sase bead work` task. The launch failed with:
 > ```
-> Error: agent launch failed for epic gh_bobs-org__bob-cli-4: cannot import name 'StoredPromptRenderings' from
+> Error: agent launch failed for epic bob-cli-d: cannot import name 'StoredPromptRenderings' from
 > 'sase.history.chat_prompt_sections' (/home/bryan/projects/github/sase-org/sase/src/sase/history/chat_prompt_sections.py)
 > ```
 > The name exists in that file today, and existed in the commit the checkout was on when the error was reported. The

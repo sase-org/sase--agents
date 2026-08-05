@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `qk` · Members: 2
 ```mermaid
 flowchart TD
   n0["qk--code [completed]"]
-  n1["qk--plan [completed]"]
+  n1["qk--plan [active]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | qk--code | completed | gpt-5.5 / codex | 2026-07-31T17:19:22.296364+00:00 | [1](../agents/bbugyi200.athena.qk--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.qk--code/chat.md) |
-| <a id="member-plan"></a>plan | qk--plan | completed | gpt-5.6-sol / codex | 2026-07-31T17:13:13.627780+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.qk--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.qk--plan/chat.md) |
+| <a id="member-plan"></a>plan | qk--plan | active | gpt-5.6-sol / codex | 2026-07-31T17:13:13.627780+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.qk--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.qk--plan/chat.md) |
 
 ## Commits
 

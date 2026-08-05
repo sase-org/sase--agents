@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c332990f24f77e5f71e86a0bbd46d685"}
+{"commits":[{"committed_at":1783943716,"sha":"e635b1f2a8bee7d44a3ceb50392cb19125c9454e","subject":"fix: drain runners before detached workflow launches"}],"schema_version":2,"source_run_id":"run-c332990f24f77e5f71e86a0bbd46d685"}

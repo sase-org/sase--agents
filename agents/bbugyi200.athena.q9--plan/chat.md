@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** q9--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-q9__plan-260731_084929.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-q9__code-260731_084929.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/epic_prompt_link_race.md
 
 

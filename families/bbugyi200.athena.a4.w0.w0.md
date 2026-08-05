@@ -18,14 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | a4.w0.w0--code | completed | gpt-5.6-sol / codex | 2026-07-16T11:42:02.903593+00:00 | [1](../agents/bbugyi200.athena.a4.w0.w0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.a4.w0.w0--code/chat.md) |
-| <a id="member-root"></a>root | a4.w0.w0 | active | gpt-5.6-sol / codex | 2026-07-16T11:36:37.546924+00:00 | [1](../agents/bbugyi200.athena.a4.w0.w0/README.md#commits) | [Prompt](../agents/bbugyi200.athena.a4.w0.w0/prompt.md) | [Chat](../agents/bbugyi200.athena.a4.w0.w0/chat.md) |
+| <a id="member-root"></a>root | a4.w0.w0 | active | gpt-5.6-sol / codex | 2026-07-16T11:36:37.546924+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.a4.w0.w0/prompt.md) | [Chat](../agents/bbugyi200.athena.a4.w0.w0/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | code | sase | [`f8b44c4`](https://github.com/sase-org/sase/commit/f8b44c49fbc8db391bb41cd30e4f8e7907cd8909) | feat!: require and display plan titles | 2026-07-16 08:02:28 EDT |
-| root | sase | [`f8b44c4`](https://github.com/sase-org/sase/commit/f8b44c49fbc8db391bb41cd30e4f8e7907cd8909) | feat!: require and display plan titles | 2026-07-16 08:02:28 EDT |
 
 ## Neighbors
 

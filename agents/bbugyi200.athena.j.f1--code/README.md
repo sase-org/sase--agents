@@ -11,11 +11,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-06T18:51:29.978648+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3646c82`](https://github.com/sase-org/sase/commit/3646c82849cedd3289a2fe1bcb9c7412de68b534) | fix: use fresh linked repo resolution for prep | 2026-07-06 15:02:04 EDT |
 
 ## Neighbors
 

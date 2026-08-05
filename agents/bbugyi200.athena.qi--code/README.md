@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [qi](../../users/bbugyi200/machines/athena/hoods/qi/README.md) / [qi](../../families/bbugyi200.athena.qi.md) / qi--code
 
-**Global name:** `bbugyi200.athena.qi--code` · **State:** active · **Source run:** `run-6f85da7b82731f234446b08caa938651`
+**Global name:** `bbugyi200.athena.qi--code` · **State:** completed · **Source run:** `run-6f85da7b82731f234446b08caa938651`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** qi
 
@@ -12,6 +12,10 @@
 - Provider: codex
 - Timing: 2026-07-31T17:13:57.319813+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
 
 ## Commits
 

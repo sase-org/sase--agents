@@ -11,17 +11,11 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-14T11:48:57.255671+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`c5ded4a`](https://github.com/sase-org/sase/commit/c5ded4a86e5ad590b3f421615052b7284daf8a83) | feat(tui): highlight known slash skills in prompts | 2026-07-14 08:16:10 EDT |
 
 ## Neighbors
 

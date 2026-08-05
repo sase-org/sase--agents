@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** qm--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-qm__plan-260731_143310.md`
+- 2. --code — `~/.sase/chats/202607/gh_sase_org__sase-ace_run-qm__code-260731_143310.md`
+
 **Plan:** /home/bryan/.sase/plans/202607/bead_update_bulk_ids.md
 
 

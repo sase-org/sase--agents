@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** rc.f1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-rc_f1__plan-260801_100352.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-rc_f1__code-260801_100352.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/make_cheapest_load_balanced.md
 
 

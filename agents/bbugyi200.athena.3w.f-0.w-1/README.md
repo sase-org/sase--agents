@@ -11,17 +11,11 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-09T19:36:26.350203+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`1815d55`](https://github.com/sase-org/sase/commit/1815d551553a28e69e2b097a034c5c57d8fe1f7a) | feat!: remove legend and myth planning flows | 2026-07-09 16:45:33 EDT |
 
 ## Neighbors
 

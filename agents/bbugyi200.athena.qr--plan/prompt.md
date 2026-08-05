@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I need to fix a recent change we made. Namely, I want to ensure sase/memory/sase_beads.md is generated and included in Tier 2 long-term memory exclusively for sase-managed project repos, and excluded from home root memory and ~/AGENTS.md. Can you help me make this change? #plan #m_opus

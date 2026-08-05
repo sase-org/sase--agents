@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,10 +27,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-b0.1](../bbugyi200.athena.sase-b0.1/README.md) | sase-b0 hood | completed |
-| [sase-b0.2](../bbugyi200.athena.sase-b0.2/README.md) | sase-b0 hood | completed |
-| [sase-b0.3](../bbugyi200.athena.sase-b0.3/README.md) | sase-b0 hood | completed |
-| [sase-b0.4](../bbugyi200.athena.sase-b0.4/README.md) | sase-b0 hood | completed |
-| [sase-b0.5](../bbugyi200.athena.sase-b0.5/README.md) | sase-b0 hood | completed |
-| [sase-b0.6](../bbugyi200.athena.sase-b0.6/README.md) | sase-b0 hood | completed |
-| [sase-b0.7](../bbugyi200.athena.sase-b0.7/README.md) | sase-b0 hood | completed |
+| [sase-b0.1](../bbugyi200.athena.sase-b0.1/README.md) | sase-b0 hood | active |
+| [sase-b0.2](../bbugyi200.athena.sase-b0.2/README.md) | sase-b0 hood | active |
+| [sase-b0.3](../bbugyi200.athena.sase-b0.3/README.md) | sase-b0 hood | active |
+| [sase-b0.4](../bbugyi200.athena.sase-b0.4/README.md) | sase-b0 hood | active |
+| [sase-b0.5](../bbugyi200.athena.sase-b0.5/README.md) | sase-b0 hood | active |
+| [sase-b0.6](../bbugyi200.athena.sase-b0.6/README.md) | sase-b0 hood | active |
+| [sase-b0.7](../bbugyi200.athena.sase-b0.7/README.md) | sase-b0 hood | active |
