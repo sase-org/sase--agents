@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1785957633,"sha":"2a9627bc0814c495b8b5a99145eb7c17c72059ee","subject":"fix(agents-sync): repair stale hood-snapshot digests and add drift check"}],"schema_version":2,"source_run_id":"run-ef2708fe2ad8ef7cd5dff5a88a8458ae"}
