@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** tj--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-tj__plan-260805_174725.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-tj__code-260805_174725.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/finalizer_async_wait_deadlock.md
 
 
