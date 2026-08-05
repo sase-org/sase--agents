@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-67763444c9d03129eb73eba593f539e9"}
+{"commits":[{"committed_at":1785973686,"sha":"01398f5afc1061812388696daf82c78441665987","subject":"fix(ace): stop the beads detail pane from oscillating between two layouts"}],"schema_version":2,"source_run_id":"run-67763444c9d03129eb73eba593f539e9"}

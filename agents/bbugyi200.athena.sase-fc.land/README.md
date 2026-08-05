@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-fc](../../users/bbugyi200/machines/athena/hoods/sase-fc/README.md) / sase-fc.land
 
-**Global name:** `bbugyi200.athena.sase-fc.land` · **State:** waiting · **Source run:** `run-67763444c9d03129eb73eba593f539e9`
+**Global name:** `bbugyi200.athena.sase-fc.land` · **State:** active · **Source run:** `run-67763444c9d03129eb73eba593f539e9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-fc
 
@@ -10,12 +10,18 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20260805163045
-- Commits: 0
+- Timing: 2026-08-05T23:02:20.425053+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`01398f5`](https://github.com/sase-org/sase/commit/01398f5afc1061812388696daf82c78441665987) | fix(ace): stop the beads detail pane from oscillating between two layouts | 2026-08-05 19:48:06 EDT |
 
 ## Neighbors
 
@@ -27,4 +33,4 @@
 | [sase-fc.4](../bbugyi200.athena.sase-fc.4/README.md) | sase-fc hood | completed |
 | [sase-fc.5](../bbugyi200.athena.sase-fc.5/README.md) | sase-fc hood | completed |
 | [sase-fc.6](../bbugyi200.athena.sase-fc.6/README.md) | sase-fc hood | completed |
-| [sase-fc.7](../bbugyi200.athena.sase-fc.7/README.md) | sase-fc hood | active |
+| [sase-fc.7](../bbugyi200.athena.sase-fc.7/README.md) | sase-fc hood | completed |
