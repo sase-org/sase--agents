@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-263495c8ad78f48bd1b7d94f1bdab906"}
+{"commits":[{"committed_at":1785959462,"sha":"de7805278926e3a9abd97b475afca158363d7ffc","subject":"fix: publish sidecar work inline on the commit path"}],"schema_version":2,"source_run_id":"run-263495c8ad78f48bd1b7d94f1bdab906"}

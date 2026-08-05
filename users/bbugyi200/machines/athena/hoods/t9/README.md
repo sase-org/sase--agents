@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [t9](../../../../../../agents/bbugyi200.athena.t9/README.md) | failed | opus / claude | 2026-08-05T19:32:09.074183+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.t9/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.t9/chat.md) |
+| [t9](../../../../../../agents/bbugyi200.athena.t9/README.md) | failed | opus / claude | 2026-08-05T19:32:09.074183+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.t9/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.t9/prompt.md) |
