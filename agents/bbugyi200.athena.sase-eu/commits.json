@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1785959599,"sha":"dc993ccd87657982f3f0213f8214dea2c43f26ac","subject":"perf: prefer LibYAML C loader for trusted config YAML reads"}],"schema_version":2,"source_run_id":"run-9b86ee59c9aadea80c6d2a2af6ca898c"}
