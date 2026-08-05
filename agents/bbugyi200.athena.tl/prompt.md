@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Why did the epic launch approval for the `tg` sase agent fail (see #sshot:2), but the corresponding `sase bead work` command seems to still be running (see #sshot)? Can you help me diagnose the root cause of this issue and fix it? #plan #m_opus
