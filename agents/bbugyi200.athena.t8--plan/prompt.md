@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start showing all of the models used by members of the current agent family using the `Model:` field shown in the agent metadata panel when an agent family is selected? Show one model per-line and make sure it is clear which family member used which model. #beau #plan #m_opus
