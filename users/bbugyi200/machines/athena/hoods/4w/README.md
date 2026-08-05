@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [4w](../../../../../../agents/bbugyi200.athena.4w/README.md) | active | opus / claude | 2026-07-10T20:25:32.157101+00:00 | 2 | [prompt](../../../../../../agents/bbugyi200.athena.4w/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.4w/chat.md) |
+| [4w](../../../../../../agents/bbugyi200.athena.4w/README.md) | active | opus / claude | 2026-07-10T20:25:32.157101+00:00 | 2 | [chat](../../../../../../agents/bbugyi200.athena.4w/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.4w/prompt.md) |

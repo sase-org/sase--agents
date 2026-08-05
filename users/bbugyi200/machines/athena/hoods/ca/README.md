@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [ca](../../../../../../agents/bbugyi200.athena.ca/README.md) | active | gpt-5.6-sol / codex | 2026-07-17T16:57:07.442201+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.ca/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.ca/chat.md) |
+| [ca](../../../../../../agents/bbugyi200.athena.ca/README.md) | active | gpt-5.6-sol / codex | 2026-07-17T16:57:07.442201+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.ca/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.ca/prompt.md) |

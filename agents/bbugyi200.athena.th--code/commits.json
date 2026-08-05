@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-21d3401625e33d6c37924720368714d9"}
+{"commits":[{"committed_at":1785965660,"sha":"b3ac417f3a595cee7ee123a5da819a384e50cc6c","subject":"fix(artifact-file): resolve logical plans: references when synthesizing plan rows"}],"schema_version":2,"source_run_id":"run-21d3401625e33d6c37924720368714d9"}
