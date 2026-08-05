@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-10fbae733c4675e0d511b2ffcfb25cce"}
+{"commits":[{"committed_at":1785968503,"sha":"256da2887127cbe390cfd55d9ac5387b830ec25c","subject":"feat(tui): show bead creation time in context lane"}],"schema_version":2,"source_run_id":"run-10fbae733c4675e0d511b2ffcfb25cce"}

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.y.cdx
 
-**Global name:** `bbugyi200.athena.research.y.cdx` · **State:** active · **Source run:** `run-101ee1fde5a40c03d711fcbc77e3c322`
+**Global name:** `bbugyi200.athena.research.y.cdx` · **State:** completed · **Source run:** `run-101ee1fde5a40c03d711fcbc77e3c322`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -15,13 +15,13 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.y.cld](../bbugyi200.athena.research.y.cld/README.md) | research.y hood | active |
+| [research.y.cld](../bbugyi200.athena.research.y.cld/README.md) | research.y hood | completed |
 | [research.y.final](../bbugyi200.athena.research.y.final/README.md) | research.y hood | waiting |
 | [research.y.image](../bbugyi200.athena.research.y.image/README.md) | research.y hood | dismissed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | active |
