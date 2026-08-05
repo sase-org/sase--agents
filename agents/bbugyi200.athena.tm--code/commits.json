@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-42a63a87894794177bc7e54069166e03"}
+{"commits":[{"committed_at":1785973334,"sha":"9672c5602816c39f3d6f2e4af2b50a2e032f0d5e","subject":"fix(tests): stop CI worker collapse and drop visual from default lane"}],"schema_version":2,"source_run_id":"run-42a63a87894794177bc7e54069166e03"}
