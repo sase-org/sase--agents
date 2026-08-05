@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a63aca5c3ad3e48ddd46bf185063c61f"}
+{"commits":[{"committed_at":1785964200,"sha":"ccf4d77a9b1ffe83936e81c082040d61d2b8af60","subject":"feat!: narrow the durable publication outbox back to agent-hood retries"}],"schema_version":2,"source_run_id":"run-a63aca5c3ad3e48ddd46bf185063c61f"}
