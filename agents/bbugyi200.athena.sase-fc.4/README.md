@@ -2,15 +2,15 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-fc](../../users/bbugyi200/machines/athena/hoods/sase-fc/README.md) / sase-fc.4
 
-**Global name:** `bbugyi200.athena.sase-fc.4` · **State:** active · **Source run:** `run-0ed842eb6256caf1e74a6255c50f872b`
+**Global name:** `bbugyi200.athena.sase-fc.4` · **State:** active · **Source run:** `run-10fbae733c4675e0d511b2ffcfb25cce`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-fc
 
 ## Summary
 
-- Model: opus
-- Provider: claude
-- Timing: 2026-08-05T20:50:42.696782+00:00
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 2026-08-05T21:59:35.910015+00:00
 - Commits: 0
 
 ## Files

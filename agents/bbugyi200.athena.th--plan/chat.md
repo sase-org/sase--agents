@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** th--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-th__plan-260805_165924.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-th__code-260805_165924.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/plan_artifact_file_reference_resolution.md
 
 

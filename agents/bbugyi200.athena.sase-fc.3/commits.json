@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-952f6ac402d5be6fcb67526c79dd9e6a"}
+{"commits":[{"committed_at":1785965835,"sha":"8065b58c411b2ec5bd7bbb2caa54c718d22c74c1","subject":"feat(bead): show bead creation time on task triage gates"}],"schema_version":2,"source_run_id":"run-952f6ac402d5be6fcb67526c79dd9e6a"}

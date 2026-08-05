@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e2f48933e778e85a53a72618b45a5d35"}
+{"commits":[{"committed_at":1785966147,"sha":"e4fce05b61985d8f28e8f6dc44008526ce2d89c4","subject":"feat(bead): surface bead creation time across CLI detail, list, and dependency views"}],"schema_version":2,"source_run_id":"run-e2f48933e778e85a53a72618b45a5d35"}

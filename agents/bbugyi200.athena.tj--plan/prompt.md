@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Sase agents that use the claude/sonnet model sometimes fail with an `Error: Commit finalizer failed: uncommitted changes` error (see the `sase-fb.3` sase agent, for example). Can you help me diagnose why this is happening and recommend a solution? #plan #m_opus

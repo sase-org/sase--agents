@@ -11,11 +11,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-05T20:50:41.232587+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8065b58`](https://github.com/sase-org/sase/commit/8065b58c411b2ec5bd7bbb2caa54c718d22c74c1) | feat(bead): show bead creation time on task triage gates | 2026-08-05 17:37:15 EDT |
 
 ## Neighbors
 

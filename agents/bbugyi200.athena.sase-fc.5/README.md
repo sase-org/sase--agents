@@ -11,11 +11,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-05T20:50:45.851147+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`865281b`](https://github.com/sase-org/sase/commit/865281be4146ee9475a820e345c8b4930b701d17) | feat(ace): show explicit created and updated ages on bead surfaces | 2026-08-05 17:36:50 EDT |
 
 ## Neighbors
 
