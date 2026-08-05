@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Why is the `plans:202608/bead_close_publication_loss.md` plan file artifact reference showing as missing in the agent metadata panel when the `sase-fb.1` sase agent is selected? See #sshot for context. Can you help me diagnose the root cause of this issue and fix it? #plan #m_opus
