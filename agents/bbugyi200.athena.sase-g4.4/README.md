@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-06T14:32:35.353739+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`b088620`](https://github.com/sase-org/sase/commit/b08862001860814452c89553f10cc6a52c88d87e) | fix(sdd): validate plan header before projection at the archive boundary | 2026-08-06 10:50:01 EDT |
 
 ## Neighbors
 

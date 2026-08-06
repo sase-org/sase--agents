@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1fc389e3c235a6b85443b84f9e487d70"}
+{"commits":[{"committed_at":1786027801,"sha":"b08862001860814452c89553f10cc6a52c88d87e","subject":"fix(sdd): validate plan header before projection at the archive boundary"}],"schema_version":2,"source_run_id":"run-1fc389e3c235a6b85443b84f9e487d70"}
