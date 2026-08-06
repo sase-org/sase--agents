@@ -1,21 +1,21 @@
-# Agent: sase-fp.6
+# Agent: sase-fp.7--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-fp](../../users/bbugyi200/machines/athena/hoods/sase-fp/README.md) / sase-fp.6
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-fp](../../users/bbugyi200/machines/athena/hoods/sase-fp/README.md) / [sase-fp.7](../../families/bbugyi200.athena.sase-fp.7.md) / sase-fp.7--plan
 
-**Global name:** `bbugyi200.athena.sase-fp.6` · **State:** active · **Source run:** `run-9da1dd5ebdbd8939036ec08df1dbc14a`
+**Global name:** `bbugyi200.athena.sase-fp.7--plan` · **State:** active · **Source run:** `run-c61c90cfe9d4ad506630e1fe83eaa9cf`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-fp
 
 ## Summary
 
-- Model: opus
+- Model: sonnet
 - Provider: claude
-- Timing: 2026-08-06T03:47:49.611104+00:00
+- Timing: 2026-08-06T03:47:47.953782+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -26,5 +26,5 @@
 | [sase-fp.3](../bbugyi200.athena.sase-fp.3/README.md) | sase-fp hood | completed |
 | [sase-fp.4](../bbugyi200.athena.sase-fp.4/README.md) | sase-fp hood | completed |
 | [sase-fp.5](../bbugyi200.athena.sase-fp.5/README.md) | sase-fp hood | completed |
-| [sase-fp.7](../../families/bbugyi200.athena.sase-fp.7.md) (family · 2) | sase-fp hood | active 2 |
+| [sase-fp.6](../bbugyi200.athena.sase-fp.6/README.md) | sase-fp hood | active |
 | [sase-fp.land](../bbugyi200.athena.sase-fp.land/README.md) | sase-fp hood | waiting |
