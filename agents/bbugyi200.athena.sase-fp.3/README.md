@@ -32,5 +32,5 @@
 | [sase-fp.4](../bbugyi200.athena.sase-fp.4/README.md) | sase-fp hood | completed |
 | [sase-fp.5](../bbugyi200.athena.sase-fp.5/README.md) | sase-fp hood | completed |
 | [sase-fp.6](../bbugyi200.athena.sase-fp.6/README.md) | sase-fp hood | active |
-| [sase-fp.7](../../families/bbugyi200.athena.sase-fp.7.md) (family · 2) | sase-fp hood | active 2 |
+| [sase-fp.7](../../families/bbugyi200.athena.sase-fp.7.md) (family · 2) | sase-fp hood | completed 2 |
 | [sase-fp.land](../bbugyi200.athena.sase-fp.land/README.md) | sase-fp hood | waiting |
