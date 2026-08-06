@@ -18,4 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | tv--plan | active | opus / claude | 2026-08-06T12:06:25.676128+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.tv--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.tv--plan/chat.md) |
-| <a id="member-code"></a>code | tv--code | active | sonnet / claude | 2026-08-06T12:16:41.433266+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | tv--code | active | sonnet / claude | 2026-08-06T12:16:41.433266+00:00 | [1](../agents/bbugyi200.athena.tv--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`301f33a`](https://github.com/sase-org/sase/commit/301f33a544c596224477d2a9499e0e4dcb59b821) | feat(ace): show commit creation time in the commit panel | 2026-08-06 09:11:37 EDT |
