@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-gj](../../users/bbugyi200/machines/athena/hoods/sase-gj/README.md) / sase-gj.3
 
-**Global name:** `bbugyi200.athena.sase-gj.3` · **State:** waiting · **Source run:** `run-4b83a63221f4fc61042afad27c48a6bc`
+**Global name:** `bbugyi200.athena.sase-gj.3` · **State:** active · **Source run:** `run-4b83a63221f4fc61042afad27c48a6bc`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-gj
 
@@ -12,7 +12,7 @@
 - Epic: [sase-gj](https://github.com/sase-org/sase--beads/blob/main/pages/sase-gj/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260806160709
+- Timing: 2026-08-06T21:18:51.330594+00:00
 - Commits: 0
 
 ## Files
@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-gj.1](../bbugyi200.athena.sase-gj.1/README.md) | sase-gj hood | completed |
-| [sase-gj.2](../bbugyi200.athena.sase-gj.2/README.md) | sase-gj hood | active |
+| [sase-gj.2](../bbugyi200.athena.sase-gj.2/README.md) | sase-gj hood | completed |
 | [sase-gj.4](../bbugyi200.athena.sase-gj.4/README.md) | sase-gj hood | completed |
 | [sase-gj.5](../bbugyi200.athena.sase-gj.5/README.md) | sase-gj hood | completed |
 | [sase-gj.6](../bbugyi200.athena.sase-gj.6/README.md) | sase-gj hood | completed |

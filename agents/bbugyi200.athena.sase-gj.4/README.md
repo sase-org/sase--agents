@@ -13,19 +13,25 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-06T20:07:22.977215+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`f88b740`](https://github.com/sase-org/sase/commit/f88b7403cd0dcc2d5522d909582a7cdbddbb1304) | fix(test-selection): attribute and narrow the core-identity-changed escalation | 2026-08-06 16:47:36 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-gj.1](../bbugyi200.athena.sase-gj.1/README.md) | sase-gj hood | completed |
-| [sase-gj.2](../bbugyi200.athena.sase-gj.2/README.md) | sase-gj hood | active |
-| [sase-gj.3](../bbugyi200.athena.sase-gj.3/README.md) | sase-gj hood | waiting |
+| [sase-gj.2](../bbugyi200.athena.sase-gj.2/README.md) | sase-gj hood | completed |
+| [sase-gj.3](../bbugyi200.athena.sase-gj.3/README.md) | sase-gj hood | active |
 | [sase-gj.5](../bbugyi200.athena.sase-gj.5/README.md) | sase-gj hood | completed |
 | [sase-gj.6](../bbugyi200.athena.sase-gj.6/README.md) | sase-gj hood | completed |
 | [sase-gj.7](../bbugyi200.athena.sase-gj.7/README.md) | sase-gj hood | waiting |
