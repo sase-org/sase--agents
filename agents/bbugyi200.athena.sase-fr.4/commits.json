@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-dd79b9dd092c52690d3cac03851bef68"}
+{"commits":[{"committed_at":1785986952,"sha":"d0e59dfdd4d37de450f997bbc1d418ba4fa8af35","subject":"feat(bead): surface reopen history in bead show, JSON, list rows, and search"}],"schema_version":2,"source_run_id":"run-dd79b9dd092c52690d3cac03851bef68"}
