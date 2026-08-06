@@ -25,14 +25,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-fr.9.2](bbugyi200.athena.sase-fr.9.2.md) (family · 2) | sase-fr.9 hood | completed 2 |
-| [sase-fr.9.3](../agents/bbugyi200.athena.sase-fr.9.3/README.md) | sase-fr.9 hood | waiting |
+| [sase-fr.9.3](../agents/bbugyi200.athena.sase-fr.9.3/README.md) | sase-fr.9 hood | active |
 | [sase-fr.9.land](../agents/bbugyi200.athena.sase-fr.9.land/README.md) | sase-fr.9 hood | waiting |
-| [sase-fr.1](../agents/bbugyi200.athena.sase-fr.1/README.md) | sase-fr hood | completed |
-| [sase-fr.2](../agents/bbugyi200.athena.sase-fr.2/README.md) | sase-fr hood | completed |
-| [sase-fr.3](../agents/bbugyi200.athena.sase-fr.3/README.md) | sase-fr hood | completed |
-| [sase-fr.4](../agents/bbugyi200.athena.sase-fr.4/README.md) | sase-fr hood | completed |
-| [sase-fr.5](../agents/bbugyi200.athena.sase-fr.5/README.md) | sase-fr hood | completed |
-| [sase-fr.6](../agents/bbugyi200.athena.sase-fr.6/README.md) | sase-fr hood | completed |
-| [sase-fr.7](../agents/bbugyi200.athena.sase-fr.7/README.md) | sase-fr hood | completed |
-| [sase-fr.8](../agents/bbugyi200.athena.sase-fr.8/README.md) | sase-fr hood | completed |
-| [sase-fr.land](../agents/bbugyi200.athena.sase-fr.land/README.md) | sase-fr hood | failed |
+| [sase-fr.1](../agents/bbugyi200.athena.sase-fr.1/README.md) | sase-fr hood | dismissed |
+| [sase-fr.2](../agents/bbugyi200.athena.sase-fr.2/README.md) | sase-fr hood | dismissed |
+| [sase-fr.3](../agents/bbugyi200.athena.sase-fr.3/README.md) | sase-fr hood | dismissed |
+| [sase-fr.4](../agents/bbugyi200.athena.sase-fr.4/README.md) | sase-fr hood | dismissed |
+| [sase-fr.5](../agents/bbugyi200.athena.sase-fr.5/README.md) | sase-fr hood | dismissed |
+| [sase-fr.6](../agents/bbugyi200.athena.sase-fr.6/README.md) | sase-fr hood | dismissed |
+| [sase-fr.7](../agents/bbugyi200.athena.sase-fr.7/README.md) | sase-fr hood | dismissed |
+| [sase-fr.8](../agents/bbugyi200.athena.sase-fr.8/README.md) | sase-fr hood | dismissed |
+| [sase-fr.land](../agents/bbugyi200.athena.sase-fr.land/README.md) | sase-fr hood | dismissed |

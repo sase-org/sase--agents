@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-88deddda6cde1dc7b5389f35a1062d74"}
+{"commits":[{"committed_at":1785987440,"sha":"81d6191e3326265822b36b7040339fba7ce1eabd","subject":"feat(bead): warn on prior close in the TaskTriage gate"}],"schema_version":2,"source_run_id":"run-88deddda6cde1dc7b5389f35a1062d74"}

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-350d5b20be2dba411f4a6becf96c5d31"}
+{"commits":[{"committed_at":1786015180,"sha":"6b0976bcb6e534d871ee1e653ab3e0c0f8b8f6c6","subject":"build(deps): raise sase-core-rs floor to 0.18.3 and adopt the close-history reducer"}],"schema_version":2,"source_run_id":"run-350d5b20be2dba411f4a6becf96c5d31"}

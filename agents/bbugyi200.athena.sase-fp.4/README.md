@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-fp](../../users/bbugyi200/machines/athena/hoods/sase-fp/README.md) / sase-fp.4
 
-**Global name:** `bbugyi200.athena.sase-fp.4` · **State:** completed · **Source run:** `run-92e8e01f905849187c991eceea403858`
+**Global name:** `bbugyi200.athena.sase-fp.4` · **State:** dismissed · **Source run:** `run-92e8e01f905849187c991eceea403858`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-fp
 
@@ -10,12 +10,12 @@
 
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-06T02:32:40.473400+00:00
+- Timing: 2026-08-05T22:32:40.473400 → 2026-08-05T22:51:51.132971
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -27,14 +27,14 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-fp.1](../bbugyi200.athena.sase-fp.1/README.md) | sase-fp hood | completed |
-| [sase-fp.2](../bbugyi200.athena.sase-fp.2/README.md) | sase-fp hood | completed |
-| [sase-fp.3](../bbugyi200.athena.sase-fp.3/README.md) | sase-fp hood | completed |
-| [sase-fp.5](../bbugyi200.athena.sase-fp.5/README.md) | sase-fp hood | completed |
-| [sase-fp.6](../bbugyi200.athena.sase-fp.6/README.md) | sase-fp hood | completed |
-| [sase-fp.7](../../families/bbugyi200.athena.sase-fp.7.md) (family · 2) | sase-fp hood | completed 2 |
-| [sase-fp.8.1](../bbugyi200.athena.sase-fp.8.1/README.md) | sase-fp hood | active |
+| [sase-fp.1](../bbugyi200.athena.sase-fp.1/README.md) | sase-fp hood | dismissed |
+| [sase-fp.2](../bbugyi200.athena.sase-fp.2/README.md) | sase-fp hood | dismissed |
+| [sase-fp.3](../bbugyi200.athena.sase-fp.3/README.md) | sase-fp hood | dismissed |
+| [sase-fp.5](../bbugyi200.athena.sase-fp.5/README.md) | sase-fp hood | dismissed |
+| [sase-fp.6](../bbugyi200.athena.sase-fp.6/README.md) | sase-fp hood | dismissed |
+| [sase-fp.7](../../families/bbugyi200.athena.sase-fp.7.md) (family · 2) | sase-fp hood | completed 1, dismissed 1 |
+| [sase-fp.8.1](../bbugyi200.athena.sase-fp.8.1/README.md) | sase-fp hood | completed |
 | [sase-fp.8.2](../bbugyi200.athena.sase-fp.8.2/README.md) | sase-fp hood | completed |
-| [sase-fp.8.3](../bbugyi200.athena.sase-fp.8.3/README.md) | sase-fp hood | waiting |
-| [sase-fp.8.land](../bbugyi200.athena.sase-fp.8.land/README.md) | sase-fp hood | waiting |
-| [sase-fp.land](../bbugyi200.athena.sase-fp.land/README.md) | sase-fp hood | failed |
+| [sase-fp.8.3](../bbugyi200.athena.sase-fp.8.3/README.md) | sase-fp hood | completed |
+| [sase-fp.8.land](../bbugyi200.athena.sase-fp.8.land/README.md) | sase-fp hood | completed |
+| [sase-fp.land](../bbugyi200.athena.sase-fp.land/README.md) | sase-fp hood | dismissed |
