@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d08e1b819c6cfd6ccd2cdb3266a99b06"}
+{"commits":[{"committed_at":1786057459,"sha":"9e4e4ff54aff6ac9d37393625b4053e2bda6dbc8","subject":"docs(justfile): correct the scoped lane's suite-gate lease claim"}],"schema_version":2,"source_run_id":"run-d08e1b819c6cfd6ccd2cdb3266a99b06"}

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-gj](../../users/bbugyi200/machines/athena/hoods/sase-gj/README.md) / sase-gj.7
 
-**Global name:** `bbugyi200.athena.sase-gj.7` · **State:** active · **Source run:** `run-ce8a19fa495e556caf1759daa723a3f1`
+**Global name:** `bbugyi200.athena.sase-gj.7` · **State:** completed · **Source run:** `run-ce8a19fa495e556caf1759daa723a3f1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-gj
 
@@ -17,7 +17,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -35,4 +35,4 @@
 | [sase-gj.4](../bbugyi200.athena.sase-gj.4/README.md) | sase-gj hood | completed |
 | [sase-gj.5](../bbugyi200.athena.sase-gj.5/README.md) | sase-gj hood | completed |
 | [sase-gj.6](../bbugyi200.athena.sase-gj.6/README.md) | sase-gj hood | completed |
-| [sase-gj.land](../bbugyi200.athena.sase-gj.land/README.md) | sase-gj hood | waiting |
+| [sase-gj.land](../bbugyi200.athena.sase-gj.land/README.md) | sase-gj hood | active |

@@ -34,5 +34,5 @@
 | [sase-gj.3](../bbugyi200.athena.sase-gj.3/README.md) | sase-gj hood | completed |
 | [sase-gj.5](../bbugyi200.athena.sase-gj.5/README.md) | sase-gj hood | completed |
 | [sase-gj.6](../bbugyi200.athena.sase-gj.6/README.md) | sase-gj hood | completed |
-| [sase-gj.7](../bbugyi200.athena.sase-gj.7/README.md) | sase-gj hood | active |
-| [sase-gj.land](../bbugyi200.athena.sase-gj.land/README.md) | sase-gj hood | waiting |
+| [sase-gj.7](../bbugyi200.athena.sase-gj.7/README.md) | sase-gj hood | completed |
+| [sase-gj.land](../bbugyi200.athena.sase-gj.land/README.md) | sase-gj hood | active |
