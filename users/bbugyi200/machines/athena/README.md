@@ -694,7 +694,7 @@
 | [cf](hoods/cf/README.md) | 2 | 1 | active 1, completed 1 |
 | [cg](hoods/cg/README.md) | 2 | 1 | active 1, completed 1 |
 | [chop](hoods/chop/README.md) | 52 | 0 | active 47, waiting 5 |
-| [ci\_fix](hoods/ci_fix/README.md) | 11 | 0 | active 6, completed 1, dismissed 2, waiting 2 |
+| [ci\_fix](hoods/ci_fix/README.md) | 11 | 0 | active 7, completed 1, dismissed 2, waiting 1 |
 | [cj](hoods/cj/README.md) | 2 | 1 | active 1, completed 1 |
 | [cl](hoods/cl/README.md) | 2 | 1 | active 1, completed 1 |
 | [claude](hoods/claude/README.md) | 1 | 0 | completed 1 |
