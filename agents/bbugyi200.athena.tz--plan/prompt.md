@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The "Beads" sub-tab of the "Artifacts" tab is showing that there is no bead store for the sase project (see #sshot), but that should not be true. Can you help me diagnose the root cause of this issue and fix it? #plan #m_opus
