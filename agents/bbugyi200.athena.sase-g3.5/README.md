@@ -8,6 +8,8 @@
 
 ## Summary
 
+- Bead: [sase-g3.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-g3/sase-g3.5.md)
+- Epic: [sase-g3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-g3/README.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 20260806085637
@@ -21,8 +23,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-g3.1](../bbugyi200.athena.sase-g3.1/README.md) | sase-g3 hood | active |
+| [sase-g3.1](../bbugyi200.athena.sase-g3.1/README.md) | sase-g3 hood | completed |
 | [sase-g3.2](../bbugyi200.athena.sase-g3.2/README.md) | sase-g3 hood | completed |
-| [sase-g3.3](../bbugyi200.athena.sase-g3.3/README.md) | sase-g3 hood | waiting |
+| [sase-g3.3](../bbugyi200.athena.sase-g3.3/README.md) | sase-g3 hood | active |
 | [sase-g3.4](../bbugyi200.athena.sase-g3.4/README.md) | sase-g3 hood | completed |
 | [sase-g3.land](../bbugyi200.athena.sase-g3.land/README.md) | sase-g3 hood | waiting |

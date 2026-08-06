@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-g4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-g4/README.md)
 - Model: opus
 - Provider: claude
 - Timing: 20260806090813

@@ -8,6 +8,8 @@
 
 ## Summary
 
+- Bead: [sase-g4.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-g4/sase-g4.5.md)
+- Epic: [sase-g4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-g4/README.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 20260806090812

@@ -8,6 +8,8 @@
 
 ## Summary
 
+- Bead: [sase-g3.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-g3/sase-g3.4.md)
+- Epic: [sase-g3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-g3/README.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-06T12:56:56.081142+00:00
@@ -27,8 +29,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-g3.1](../bbugyi200.athena.sase-g3.1/README.md) | sase-g3 hood | active |
+| [sase-g3.1](../bbugyi200.athena.sase-g3.1/README.md) | sase-g3 hood | completed |
 | [sase-g3.2](../bbugyi200.athena.sase-g3.2/README.md) | sase-g3 hood | completed |
-| [sase-g3.3](../bbugyi200.athena.sase-g3.3/README.md) | sase-g3 hood | waiting |
+| [sase-g3.3](../bbugyi200.athena.sase-g3.3/README.md) | sase-g3 hood | active |
 | [sase-g3.5](../bbugyi200.athena.sase-g3.5/README.md) | sase-g3 hood | waiting |
 | [sase-g3.land](../bbugyi200.athena.sase-g3.land/README.md) | sase-g3 hood | waiting |

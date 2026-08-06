@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-37f5d08a6a737426c0c4abd075d2dfa5"}
+{"commits":[{"committed_at":1786024804,"sha":"9a366e0d6c5a0357a25044feb485357ad7ee2121","subject":"fix(ace): resolve Artifacts project scope through project refs"}],"schema_version":2,"source_run_id":"run-37f5d08a6a737426c0c4abd075d2dfa5"}
