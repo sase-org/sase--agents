@@ -28,3 +28,6 @@
 | [ci\_fix.sase.3](../bbugyi200.athena.ci_fix.sase.3/README.md) | ci\_fix.sase hood | active |
 | [ci\_fix.sase.5](../bbugyi200.athena.ci_fix.sase.5/README.md) | ci\_fix.sase hood | active |
 | [ci\_fix.sase.6](../bbugyi200.athena.ci_fix.sase.6/README.md) | ci\_fix.sase hood | dismissed |
+| [ci\_fix.sase.7](../bbugyi200.athena.ci_fix.sase.7/README.md) | ci\_fix.sase hood | dismissed |
+| [ci\_fix.sase.8](../bbugyi200.athena.ci_fix.sase.8/README.md) | ci\_fix.sase hood | completed |
+| [ci\_fix.sase.9](../bbugyi200.athena.ci_fix.sase.9/README.md) | ci\_fix.sase hood | waiting |

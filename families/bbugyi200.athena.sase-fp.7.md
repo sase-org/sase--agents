@@ -35,5 +35,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-fp.3](../agents/bbugyi200.athena.sase-fp.3/README.md) | sase-fp hood | completed |
 | [sase-fp.4](../agents/bbugyi200.athena.sase-fp.4/README.md) | sase-fp hood | completed |
 | [sase-fp.5](../agents/bbugyi200.athena.sase-fp.5/README.md) | sase-fp hood | completed |
-| [sase-fp.6](../agents/bbugyi200.athena.sase-fp.6/README.md) | sase-fp hood | active |
-| [sase-fp.land](../agents/bbugyi200.athena.sase-fp.land/README.md) | sase-fp hood | waiting |
+| [sase-fp.6](../agents/bbugyi200.athena.sase-fp.6/README.md) | sase-fp hood | completed |
+| [sase-fp.8.1](../agents/bbugyi200.athena.sase-fp.8.1/README.md) | sase-fp hood | active |
+| [sase-fp.8.2](../agents/bbugyi200.athena.sase-fp.8.2/README.md) | sase-fp hood | active |
+| [sase-fp.8.3](../agents/bbugyi200.athena.sase-fp.8.3/README.md) | sase-fp hood | waiting |
+| [sase-fp.8.land](../agents/bbugyi200.athena.sase-fp.8.land/README.md) | sase-fp hood | waiting |
+| [sase-fp.land](../agents/bbugyi200.athena.sase-fp.land/README.md) | sase-fp hood | failed |
