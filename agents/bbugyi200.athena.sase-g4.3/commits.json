@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d6c7543d63c9b614dca5ccde3d104ff7"}
+{"commits":[{"committed_at":1786026692,"sha":"d9c13549f9809f2ba8d695027dc7bf76440e7844","subject":"feat(sdd): adopt header-invalid diagnostic and pin it at every validation surface"}],"schema_version":2,"source_run_id":"run-d6c7543d63c9b614dca5ccde3d104ff7"}
