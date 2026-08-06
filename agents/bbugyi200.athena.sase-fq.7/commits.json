@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-bde06c82c4ba2c44e6d600f94c2f990f"}
+{"commits":[{"committed_at":1785985680,"sha":"7ffd5471ae0ad436a3607ea1a60dc144621ec263","subject":"build(deps): raise sase-core-rs floor to 0.18.2 and pin the parity test's commit budget"}],"schema_version":2,"source_run_id":"run-bde06c82c4ba2c44e6d600f94c2f990f"}
