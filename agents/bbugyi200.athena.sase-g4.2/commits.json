@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3969919e20fee0cefc5252176ec9498a"}
+{"commits":[{"committed_at":1786022830,"sha":"fa8fc69e46c49bc3367ea274584d7fa928aa1dc9","subject":"fix(sdd): report header-invalid from plan links validate"}],"schema_version":2,"source_run_id":"run-3969919e20fee0cefc5252176ec9498a"}

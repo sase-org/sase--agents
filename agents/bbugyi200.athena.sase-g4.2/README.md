@@ -11,11 +11,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-06T13:08:49.571033+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`fa8fc69`](https://github.com/sase-org/sase/commit/fa8fc69e46c49bc3367ea274584d7fa928aa1dc9) | fix(sdd): report header-invalid from plan links validate | 2026-08-06 09:27:10 EDT |
 
 ## Neighbors
 
