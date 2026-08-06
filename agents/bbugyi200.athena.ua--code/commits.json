@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1786044969,"sha":"5da193482e4f755413418330e7f5c3e681ccf73f","subject":"fix(llm): wrap agent prompts at the repo-wide 120-column width"}],"schema_version":2,"source_run_id":"run-23dc5d632cc1388d5ad9b0cb69690dc5"}
