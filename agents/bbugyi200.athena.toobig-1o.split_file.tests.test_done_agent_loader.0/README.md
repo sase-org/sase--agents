@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-1o](../../users/bbugyi200/machines/athena/hoods/toobig-1o/README.md) / toobig-1o.split\_file.tests.test\_done\_agent\_loader.0
 
-**Global name:** `bbugyi200.athena.toobig-1o.split_file.tests.test_done_agent_loader.0` · **State:** waiting · **Source run:** `run-1e24c8235701a49e9e706b57be6f0663`
+**Global name:** `bbugyi200.athena.toobig-1o.split_file.tests.test_done_agent_loader.0` · **State:** active · **Source run:** `run-1e24c8235701a49e9e706b57be6f0663`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-1o
 
@@ -10,16 +10,22 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20260806095719
-- Commits: 0
+- Timing: 2026-08-06T15:19:48.357405+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`628708a`](https://github.com/sase-org/sase/commit/628708a7173fadb6e25acdde86ac763d832487f6) | test(axe): split test\_done\_agent\_loader.py into focused modules | 2026-08-06 11:37:25 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-1o.split\_file.tests.test\_commit\_artifacts.0](../bbugyi200.athena.toobig-1o.split_file.tests.test_commit_artifacts.0/README.md) | toobig-1o.split\_file.tests hood | active |
+| [toobig-1o.split\_file.tests.test\_commit\_artifacts.0](../bbugyi200.athena.toobig-1o.split_file.tests.test_commit_artifacts.0/README.md) | toobig-1o.split\_file.tests hood | completed |
 | [toobig-1o.split\_file.src.sase.vcs\_log.render.0](../bbugyi200.athena.toobig-1o.split_file.src.sase.vcs_log.render.0/README.md) | toobig-1o.split\_file hood | completed |
