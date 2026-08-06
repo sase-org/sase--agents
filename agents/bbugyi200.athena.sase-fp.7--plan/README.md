@@ -28,7 +28,7 @@
 | [sase-fp.5](../bbugyi200.athena.sase-fp.5/README.md) | sase-fp hood | completed |
 | [sase-fp.6](../bbugyi200.athena.sase-fp.6/README.md) | sase-fp hood | completed |
 | [sase-fp.8.1](../bbugyi200.athena.sase-fp.8.1/README.md) | sase-fp hood | active |
-| [sase-fp.8.2](../bbugyi200.athena.sase-fp.8.2/README.md) | sase-fp hood | active |
+| [sase-fp.8.2](../bbugyi200.athena.sase-fp.8.2/README.md) | sase-fp hood | completed |
 | [sase-fp.8.3](../bbugyi200.athena.sase-fp.8.3/README.md) | sase-fp hood | waiting |
 | [sase-fp.8.land](../bbugyi200.athena.sase-fp.8.land/README.md) | sase-fp hood | waiting |
 | [sase-fp.land](../bbugyi200.athena.sase-fp.land/README.md) | sase-fp hood | failed |

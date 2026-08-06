@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-cc5149b7a26823ef3c2251d9d8c9d946"}
+{"commits":[{"committed_at":1785996926,"sha":"3e8600168e4845566525836546e81cbadc5fbfe4","subject":"test: normalize the contract-set budget guard against a calibration probe"}],"schema_version":2,"source_run_id":"run-cc5149b7a26823ef3c2251d9d8c9d946"}
