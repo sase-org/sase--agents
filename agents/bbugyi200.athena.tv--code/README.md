@@ -1,0 +1,14 @@
+# Agent: tv--code
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [tv](../../users/bbugyi200/machines/athena/hoods/tv/README.md) / [tv](../../families/bbugyi200.athena.tv.md) / tv--code
+
+**Global name:** `bbugyi200.athena.tv--code` · **State:** active · **Source run:** `run-9abf7c96849f8e64cb51e78cb897c550`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** tv
+
+## Summary
+
+- Model: sonnet
+- Provider: claude
+- Timing: 2026-08-06T12:16:41.433266+00:00
+- Commits: 0
