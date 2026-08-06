@@ -26,7 +26,7 @@
 | [sase-gi.1](../bbugyi200.athena.sase-gi.1/README.md) | sase-gi hood | completed |
 | [sase-gi.2](../bbugyi200.athena.sase-gi.2/README.md) | sase-gi hood | active |
 | [sase-gi.3](../bbugyi200.athena.sase-gi.3/README.md) | sase-gi hood | waiting |
-| [sase-gi.4](../bbugyi200.athena.sase-gi.4/README.md) | sase-gi hood | active |
-| [sase-gi.6](../bbugyi200.athena.sase-gi.6/README.md) | sase-gi hood | active |
+| [sase-gi.4](../bbugyi200.athena.sase-gi.4/README.md) | sase-gi hood | completed |
+| [sase-gi.6](../bbugyi200.athena.sase-gi.6/README.md) | sase-gi hood | completed |
 | [sase-gi.7](../bbugyi200.athena.sase-gi.7/README.md) | sase-gi hood | waiting |
 | [sase-gi.land](../bbugyi200.athena.sase-gi.land/README.md) | sase-gi hood | waiting |
