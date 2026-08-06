@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** tw--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/sase_fq_8_1_scratch_probe_1-ace_run-tw__plan-260806_082939.md`
+- 2. --code — `~/.sase/chats/202608/sase_fq_8_1_scratch_probe_1-ace_run-tw__code-260806_082939.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/scratch_tmpdir_leak_fix.md
 
 

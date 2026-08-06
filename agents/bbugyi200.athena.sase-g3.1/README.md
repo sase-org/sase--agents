@@ -11,11 +11,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-06T12:56:45.276977+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`4651ed1`](https://github.com/sase-org/sase/commit/4651ed1991a3dbd9284f21e7651b486f409c3539) | test(selection): add a historical backtest for diff-scoped selection recall | 2026-08-06 09:42:56 EDT |
 
 ## Neighbors
 
@@ -23,6 +29,6 @@
 |---|---|---|
 | [sase-g3.2](../bbugyi200.athena.sase-g3.2/README.md) | sase-g3 hood | completed |
 | [sase-g3.3](../bbugyi200.athena.sase-g3.3/README.md) | sase-g3 hood | waiting |
-| [sase-g3.4](../bbugyi200.athena.sase-g3.4/README.md) | sase-g3 hood | active |
+| [sase-g3.4](../bbugyi200.athena.sase-g3.4/README.md) | sase-g3 hood | completed |
 | [sase-g3.5](../bbugyi200.athena.sase-g3.5/README.md) | sase-g3 hood | waiting |
 | [sase-g3.land](../bbugyi200.athena.sase-g3.land/README.md) | sase-g3 hood | waiting |
