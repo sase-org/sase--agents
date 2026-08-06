@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-fq](../users/bbugyi200/machines/athena/hoods/sase-fq/README.md) / sase-fq.8.1
 
-Owner: `bbugyi200.athena` · Hood: `sase-fq` · Members: 2
+Owner: `bbugyi200.athena` · Hood: `sase-fq` · Members: 2 · Bead: [sase-fq.8.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-fq/sase-fq.8.1.md)
 
 ## Lineage
 
@@ -25,13 +25,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-fq.8.2](../agents/bbugyi200.athena.sase-fq.8.2/README.md) | sase-fq.8 hood | active |
-| [sase-fq.8.3](../agents/bbugyi200.athena.sase-fq.8.3/README.md) | sase-fq.8 hood | waiting |
-| [sase-fq.8.land](../agents/bbugyi200.athena.sase-fq.8.land/README.md) | sase-fq.8 hood | waiting |
-| [sase-fq.1](../agents/bbugyi200.athena.sase-fq.1/README.md) | sase-fq hood | dismissed |
-| [sase-fq.2](../agents/bbugyi200.athena.sase-fq.2/README.md) | sase-fq hood | dismissed |
-| [sase-fq.3](../agents/bbugyi200.athena.sase-fq.3/README.md) | sase-fq hood | dismissed |
-| [sase-fq.4](../agents/bbugyi200.athena.sase-fq.4/README.md) | sase-fq hood | dismissed |
-| [sase-fq.5](../agents/bbugyi200.athena.sase-fq.5/README.md) | sase-fq hood | dismissed |
-| [sase-fq.6](../agents/bbugyi200.athena.sase-fq.6/README.md) | sase-fq hood | dismissed |
-| [sase-fq.7](../agents/bbugyi200.athena.sase-fq.7/README.md) | sase-fq hood | dismissed |
-| [sase-fq.land](../agents/bbugyi200.athena.sase-fq.land/README.md) | sase-fq hood | dismissed |
+| [sase-fq.8.3](../agents/bbugyi200.athena.sase-fq.8.3/README.md) | sase-fq.8 hood | completed |
+| [sase-fq.8.land](../agents/bbugyi200.athena.sase-fq.8.land/README.md) | sase-fq.8 hood | active |
+| [sase-fq.1](../agents/bbugyi200.athena.sase-fq.1/README.md) | sase-fq hood | active |
+| [sase-fq.2](../agents/bbugyi200.athena.sase-fq.2/README.md) | sase-fq hood | active |
+| [sase-fq.3](../agents/bbugyi200.athena.sase-fq.3/README.md) | sase-fq hood | active |
+| [sase-fq.4](../agents/bbugyi200.athena.sase-fq.4/README.md) | sase-fq hood | active |
+| [sase-fq.5](../agents/bbugyi200.athena.sase-fq.5/README.md) | sase-fq hood | active |
+| [sase-fq.6](../agents/bbugyi200.athena.sase-fq.6/README.md) | sase-fq hood | active |
+| [sase-fq.7](../agents/bbugyi200.athena.sase-fq.7/README.md) | sase-fq hood | active |
+| [sase-fq.land](../agents/bbugyi200.athena.sase-fq.land/README.md) | sase-fq hood | active |
