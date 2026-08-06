@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-92e8e01f905849187c991eceea403858"}
+{"commits":[{"committed_at":1785984630,"sha":"515ef3a48e6911a4c8eb9fe9499f09bceb14fa5b","subject":"build(justfile): split `just check` into a scoped agent lane and `just check-full`"}],"schema_version":2,"source_run_id":"run-92e8e01f905849187c991eceea403858"}
