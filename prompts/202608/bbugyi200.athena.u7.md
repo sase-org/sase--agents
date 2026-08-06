@@ -1,0 +1,5 @@
+- **AGENTS:**
+  - [bbugyi200.athena.u7](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.u7/README.md)
+
+#gh:gh_sase-org__sase Can you help me review the sase-fr epic bead and confirm that the corresponding work is
+complete? If so, close out the epic bead (and its one remaining open phase bead). #if_not_plan #m_opus
