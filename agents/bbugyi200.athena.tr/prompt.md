@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase currently if a closed bead appears to be a duplicate of an unrelated issue that a sase agent detects, then that agent +1s the closed task, which reopens it. This is fine but the problem is that I think we lose the reason that gets left by the agent that closed the bead. Also it's not clear that a particular +1 reopened the bead from the output of the `sase bead show` command. Can you help me fix these issues?
+
+#beau #plan #m_opus
