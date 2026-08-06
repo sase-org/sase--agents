@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-fq](../../users/bbugyi200/machines/athena/hoods/sase-fq/README.md) / sase-fq.5
 
-**Global name:** `bbugyi200.athena.sase-fq.5` · **State:** completed · **Source run:** `run-7e88b62f462ce118195a381cd147ad3e`
+**Global name:** `bbugyi200.athena.sase-fq.5` · **State:** dismissed · **Source run:** `run-7e88b62f462ce118195a381cd147ad3e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-fq
 
@@ -10,12 +10,12 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-06T01:07:28.900101+00:00
+- Timing: 2026-08-05T21:07:28.900101 → 2026-08-05T21:40:36.746246
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -27,10 +27,14 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-fq.1](../bbugyi200.athena.sase-fq.1/README.md) | sase-fq hood | completed |
-| [sase-fq.2](../bbugyi200.athena.sase-fq.2/README.md) | sase-fq hood | completed |
-| [sase-fq.3](../bbugyi200.athena.sase-fq.3/README.md) | sase-fq hood | completed |
-| [sase-fq.4](../bbugyi200.athena.sase-fq.4/README.md) | sase-fq hood | completed |
-| [sase-fq.6](../bbugyi200.athena.sase-fq.6/README.md) | sase-fq hood | completed |
-| [sase-fq.7](../bbugyi200.athena.sase-fq.7/README.md) | sase-fq hood | completed |
-| [sase-fq.land](../bbugyi200.athena.sase-fq.land/README.md) | sase-fq hood | failed |
+| [sase-fq.1](../bbugyi200.athena.sase-fq.1/README.md) | sase-fq hood | dismissed |
+| [sase-fq.2](../bbugyi200.athena.sase-fq.2/README.md) | sase-fq hood | dismissed |
+| [sase-fq.3](../bbugyi200.athena.sase-fq.3/README.md) | sase-fq hood | dismissed |
+| [sase-fq.4](../bbugyi200.athena.sase-fq.4/README.md) | sase-fq hood | dismissed |
+| [sase-fq.6](../bbugyi200.athena.sase-fq.6/README.md) | sase-fq hood | dismissed |
+| [sase-fq.7](../bbugyi200.athena.sase-fq.7/README.md) | sase-fq hood | dismissed |
+| [sase-fq.8.1](../../families/bbugyi200.athena.sase-fq.8.1.md) (family · 2) | sase-fq hood | completed 2 |
+| [sase-fq.8.2](../bbugyi200.athena.sase-fq.8.2/README.md) | sase-fq hood | active |
+| [sase-fq.8.3](../bbugyi200.athena.sase-fq.8.3/README.md) | sase-fq hood | waiting |
+| [sase-fq.8.land](../bbugyi200.athena.sase-fq.8.land/README.md) | sase-fq hood | waiting |
+| [sase-fq.land](../bbugyi200.athena.sase-fq.land/README.md) | sase-fq hood | dismissed |
