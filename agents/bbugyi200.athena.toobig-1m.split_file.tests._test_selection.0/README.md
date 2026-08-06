@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-1m](../../users/bbugyi200/machines/athena/hoods/toobig-1m/README.md) / toobig-1m.split\_file.tests.\_test\_selection.0
 
-**Global name:** `bbugyi200.athena.toobig-1m.split_file.tests._test_selection.0` · **State:** waiting · **Source run:** `run-ecfe53e2a1f62012f1e201b6fe5093e6`
+**Global name:** `bbugyi200.athena.toobig-1m.split_file.tests._test_selection.0` · **State:** active · **Source run:** `run-ecfe53e2a1f62012f1e201b6fe5093e6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-1m
 
@@ -10,12 +10,18 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20260806055524
-- Commits: 0
+- Timing: 2026-08-06T10:12:04.806188+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`00da398`](https://github.com/sase-org/sase/commit/00da3981fa6b60a3ce55941c8e4814572053fec9) | refactor(tests): split \_test\_selection into focused modules | 2026-08-06 06:22:15 EDT |
 
 ## Neighbors
 
@@ -24,4 +30,4 @@
 | [toobig-1m.split\_file.tests.\_test\_selection\_health.0](../bbugyi200.athena.toobig-1m.split_file.tests._test_selection_health.0/README.md) | toobig-1m.split\_file.tests hood | waiting |
 | [toobig-1m.split\_file.tests.test\_bead.test\_bead\_page\_rendering.0](../bbugyi200.athena.toobig-1m.split_file.tests.test_bead.test_bead_page_rendering.0/README.md) | toobig-1m.split\_file.tests hood | waiting |
 | [toobig-1m.split\_file.tests.test\_test\_selection\_health.0](../bbugyi200.athena.toobig-1m.split_file.tests.test_test_selection_health.0/README.md) | toobig-1m.split\_file.tests hood | waiting |
-| [toobig-1m.split\_file.src.sase.notification\_gates.kind\_validation.0](../bbugyi200.athena.toobig-1m.split_file.src.sase.notification_gates.kind_validation.0/README.md) | toobig-1m.split\_file hood | active |
+| [toobig-1m.split\_file.src.sase.notification\_gates.kind\_validation.0](../bbugyi200.athena.toobig-1m.split_file.src.sase.notification_gates.kind_validation.0/README.md) | toobig-1m.split\_file hood | completed |
