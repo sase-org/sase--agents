@@ -6,7 +6,7 @@
 
 | Hood | Runs | Families | States |
 |---|---:|---:|---|
-| [sase-g3](hoods/sase-g3/README.md) | 6 | 0 | active 1, completed 3, waiting 2 |
+| [sase-g3](hoods/sase-g3/README.md) | 6 | 0 | active 1, completed 5 |
 | [sase-g4](hoods/sase-g4/README.md) | 6 | 0 | active 1, completed 3, waiting 2 |
 | [sase-g5](hoods/sase-g5/README.md) | 1 | 0 | active 1 |
 | [toobig-1o](hoods/toobig-1o/README.md) | 3 | 0 | active 1, completed 1, waiting 1 |
