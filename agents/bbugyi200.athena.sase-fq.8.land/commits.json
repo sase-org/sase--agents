@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-36fe829fd6a5666b8bd245cbffb83ded"}
+{"commits":[{"committed_at":1786033670,"sha":"a15f409dd11322a32649c627e226a0fd448c9070","subject":"docs(artifact-ref): describe the scratch probe against sase-core 0.18.4"}],"schema_version":2,"source_run_id":"run-36fe829fd6a5666b8bd245cbffb83ded"}

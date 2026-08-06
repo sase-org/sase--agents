@@ -12,11 +12,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-06T16:09:07.081257+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`a15f409`](https://github.com/sase-org/sase/commit/a15f409dd11322a32649c627e226a0fd448c9070) | docs(artifact-ref): describe the scratch probe against sase-core 0.18.4 | 2026-08-06 12:27:50 EDT |
 
 ## Neighbors
 
