@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-098ab1784e2d6466e1357c0619c86a51"}
+{"commits":[{"committed_at":1786024724,"sha":"48a34b4a11b9dd3553a3e0bd0fa4545ccddb10f6","subject":"feat(agents-sync): link published agent pages back to their bead pages"}],"schema_version":2,"source_run_id":"run-098ab1784e2d6466e1357c0619c86a51"}

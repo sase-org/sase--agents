@@ -11,4 +11,10 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-06T13:30:29.413164+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`48a34b4`](https://github.com/sase-org/sase/commit/48a34b4a11b9dd3553a3e0bd0fa4545ccddb10f6) | feat(agents-sync): link published agent pages back to their bead pages | 2026-08-06 09:58:44 EDT |
