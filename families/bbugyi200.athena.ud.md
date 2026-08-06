@@ -17,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | ud--code | active | sonnet / claude | 2026-08-06T19:48:44.625276+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | ud--code | active | sonnet / claude | 2026-08-06T19:48:44.625276+00:00 | [1](../agents/bbugyi200.athena.ud--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | ud--plan | active | opus / claude | 2026-08-06T19:36:51.001649+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ud--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ud--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`2c11c4e`](https://github.com/sase-org/sase/commit/2c11c4eb85e3c421e76897c871b47c5425cb663a) | feat(cli): add \`sase plan show\` detail command | 2026-08-06 16:41:47 EDT |
