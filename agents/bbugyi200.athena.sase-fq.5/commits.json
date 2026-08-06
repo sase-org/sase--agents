@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7e88b62f462ce118195a381cd147ad3e"}
+{"commits":[{"committed_at":1785980345,"sha":"245d7c44fc12635f37b0d797c661ba6d1dd5b3ee","subject":"ci: keep the prebuilt core wheel installed for every just recipe"}],"schema_version":2,"source_run_id":"run-7e88b62f462ce118195a381cd147ad3e"}
