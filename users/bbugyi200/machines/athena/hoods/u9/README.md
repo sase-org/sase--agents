@@ -1,0 +1,10 @@
+# Hood: u9
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / u9
+
+**Global hood:** `bbugyi200.athena.u9` · **Runs:** 2 · **Families:** 1 · **States:** active 2
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [u9--code](../../../../../../families/bbugyi200.athena.u9.md#member-code) | active | sonnet / claude | 2026-08-06T17:28:35.789373+00:00 | 1 | — |
+| [u9--plan](../../../../../../families/bbugyi200.athena.u9.md#member-plan) | active | opus / claude | 2026-08-06T17:13:26.795680+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.u9--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.u9--plan/chat.md) |
