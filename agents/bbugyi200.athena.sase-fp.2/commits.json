@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b19dbfebcae2186a72241534a0c7c0be"}
+{"commits":[{"committed_at":1785981712,"sha":"ab955c9cac1021c77c736ddeda9b499444c7d530","subject":"test: curate repository-wide audit tests behind a `contract` pytest marker"}],"schema_version":2,"source_run_id":"run-b19dbfebcae2186a72241534a0c7c0be"}

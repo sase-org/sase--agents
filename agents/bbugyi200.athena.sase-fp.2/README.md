@@ -11,11 +11,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-06T00:57:54.699147+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ab955c9`](https://github.com/sase-org/sase/commit/ab955c9cac1021c77c736ddeda9b499444c7d530) | test: curate repository-wide audit tests behind a \`contract\` pytest marker | 2026-08-05 22:01:52 EDT |
 
 ## Neighbors
 
@@ -23,7 +29,7 @@
 |---|---|---|
 | [sase-fp.1](../bbugyi200.athena.sase-fp.1/README.md) | sase-fp hood | completed |
 | [sase-fp.3](../bbugyi200.athena.sase-fp.3/README.md) | sase-fp hood | completed |
-| [sase-fp.4](../bbugyi200.athena.sase-fp.4/README.md) | sase-fp hood | active |
+| [sase-fp.4](../bbugyi200.athena.sase-fp.4/README.md) | sase-fp hood | completed |
 | [sase-fp.5](../bbugyi200.athena.sase-fp.5/README.md) | sase-fp hood | active |
 | [sase-fp.6](../bbugyi200.athena.sase-fp.6/README.md) | sase-fp hood | waiting |
 | [sase-fp.7](../bbugyi200.athena.sase-fp.7/README.md) | sase-fp hood | waiting |
