@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1786028290,"sha":"acd1f2e31e84b2c8ed2e32d109d8e8a2ec09e3ee","subject":"refactor(vcs-log): split render.py into focused renderer modules"}],"schema_version":2,"source_run_id":"run-b5cb6429886d76ed868918d2936ee9e0"}
