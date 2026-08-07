@@ -26,8 +26,8 @@
 | [sase-gm](hoods/sase-gm/README.md) | 1 | 0 | completed 1 |
 | [sase-gn](hoods/sase-gn/README.md) | 16 | 0 | active 1, completed 12, failed 1, waiting 2 |
 | [sase-gt](hoods/sase-gt/README.md) | 6 | 0 | completed 4, dismissed 1, failed 1 |
-| [sase-gu](hoods/sase-gu/README.md) | 4 | 0 | active 1, completed 1, waiting 2 |
-| [sase-gv](hoods/sase-gv/README.md) | 9 | 0 | active 1, completed 6, waiting 2 |
+| [sase-gu](hoods/sase-gu/README.md) | 4 | 0 | active 1, completed 3 |
+| [sase-gv](hoods/sase-gv/README.md) | 9 | 0 | active 1, completed 7, waiting 1 |
 | [sase-gx](hoods/sase-gx/README.md) | 1 | 0 | active 1 |
 | [sase-gy](hoods/sase-gy/README.md) | 4 | 0 | active 1, waiting 3 |
 | [sase-gz](hoods/sase-gz/README.md) | 7 | 0 | active 2, completed 3, waiting 2 |

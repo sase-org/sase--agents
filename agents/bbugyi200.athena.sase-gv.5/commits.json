@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-331bfe5c3d0c7a2bfcd652448f463ea1"}
+{"commits":[{"committed_at":1786116230,"sha":"d7f34d84dc9dd98447b57a499ea24fa02dcc2108","subject":"feat(ace): add entry-jump mode to the Updates tab's Plugins and Agent CLIs panes"}],"schema_version":2,"source_run_id":"run-331bfe5c3d0c7a2bfcd652448f463ea1"}
