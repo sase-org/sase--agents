@@ -29,7 +29,7 @@
 | [toobig-1s](hoods/toobig-1s/README.md) | 1 | 0 | active 1 |
 | [toobig-1t](hoods/toobig-1t/README.md) | 1 | 0 | active 1 |
 | [toobig-1u](hoods/toobig-1u/README.md) | 1 | 0 | active 1 |
-| [toobig-1v](hoods/toobig-1v/README.md) | 2 | 0 | active 1, waiting 1 |
+| [toobig-1v](hoods/toobig-1v/README.md) | 2 | 0 | active 1, completed 1 |
 | [tv](hoods/tv/README.md) | 2 | 1 | active 2 |
 | [tw](hoods/tw/README.md) | 5 | 2 | active 2, completed 2, dismissed 1 |
 | [tz](hoods/tz/README.md) | 2 | 1 | completed 2 |
