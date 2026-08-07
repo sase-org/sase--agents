@@ -1,0 +1,14 @@
+# Agent: uz--code
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [uz](../../users/bbugyi200/machines/athena/hoods/uz/README.md) / [uz](../../families/bbugyi200.athena.uz.md) / uz--code
+
+**Global name:** `bbugyi200.athena.uz--code` · **State:** active · **Source run:** `run-051018ae683bb4776d4d283d66717b3d`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** uz
+
+## Summary
+
+- Model: sonnet
+- Provider: claude
+- Timing: 2026-08-07T18:55:33.102989+00:00
+- Commits: 0
