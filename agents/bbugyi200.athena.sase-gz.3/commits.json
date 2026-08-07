@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-65e021a2a063330d5be3db10b9fc8019"}
+{"commits":[{"committed_at":1786115875,"sha":"61ace0852e8d40a4bd99ab5b8a0ad74e2325949e","subject":"feat(gates)!: require gates to declare their panel's icon"}],"schema_version":2,"source_run_id":"run-65e021a2a063330d5be3db10b9fc8019"}

@@ -28,5 +28,5 @@
 | [sase-gv.4](../bbugyi200.athena.sase-gv.4/README.md) | sase-gv hood | completed |
 | [sase-gv.5](../bbugyi200.athena.sase-gv.5/README.md) | sase-gv hood | active |
 | [sase-gv.6](../bbugyi200.athena.sase-gv.6/README.md) | sase-gv hood | completed |
-| [sase-gv.7](../bbugyi200.athena.sase-gv.7/README.md) | sase-gv hood | active |
+| [sase-gv.7](../bbugyi200.athena.sase-gv.7/README.md) | sase-gv hood | completed |
 | [sase-gv.8](../bbugyi200.athena.sase-gv.8/README.md) | sase-gv hood | waiting |
