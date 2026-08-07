@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ce0770f503bd858bc39e153253a0e222"}
+{"commits":[{"committed_at":1786118168,"sha":"94430f0f945002114ee1621cc1f0f0eb2abd4477","subject":"fix(notifications): declare icon field on _NotificationTabWire, raise sase-core-rs floor to 0.19.2"}],"schema_version":2,"source_run_id":"run-ce0770f503bd858bc39e153253a0e222"}
