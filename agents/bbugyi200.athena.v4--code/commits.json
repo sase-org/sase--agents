@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1786138478,"sha":"aaa8245df375ee96f68bbeef62c0e1d60c3e2735","subject":"fix(notification-gates): guard streaming stdin close against broken pipe"}],"schema_version":2,"source_run_id":"run-603b578e3d5477667f21f91dcf5fed03"}

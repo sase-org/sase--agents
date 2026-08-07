@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1786137856,"sha":"5a039ef149805f3d5bde7465b9c23c0050dc8bc9","subject":"fix(deps): fail loudly when the built sase_core_rs is behind the pyproject floor"}],"schema_version":2,"source_run_id":"run-62a1884d78d7e864297932fb4f5bd458"}
