@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-13f58e51df989d3745fecec3ef7ed138"}
+{"commits":[{"committed_at":1786112717,"sha":"7ca08ae0ef47d67051f3965d20e35e9b935d87d0","subject":"fix(bead): render a bead's Notes section only when it has notes"}],"schema_version":2,"source_run_id":"run-13f58e51df989d3745fecec3ef7ed138"}
