@@ -11,4 +11,10 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-07T17:19:36.392142+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`4c7c635`](https://github.com/sase-org/sase/commit/4c7c635d2db3b6b882a8f1844c4153771d73dc91) | fix(agent): stop swarm expansion splicing VCS refs into multi-line %clan(...) directives | 2026-08-07 13:31:35 EDT |

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make the log file size and datetime that is shown in the left pane of the "Logs" tab of the "SASE Admin Center" panel smaller / more concise somehow so the entries in the left pane basically never need to wrap across multiple lines? See #sshot for an example of how this looks now. #beau #plan #m_opus
