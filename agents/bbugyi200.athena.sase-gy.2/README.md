@@ -13,11 +13,18 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-07T15:13:56.032249+00:00
-- Commits: 0
+- Commits: [2](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`86c9b31`](https://github.com/sase-org/sase/commit/86c9b3181e8b959b7fa58c373ef0684be43897d1) | feat(markdown)!: default the Markdown prose width to 88 | 2026-08-07 11:49:23 EDT |
+| sase | [`b5ea6fa`](https://github.com/sase-org/sase/commit/b5ea6fa01e522a091edef9e478183618e31b94a5) | chore: run sase init memory | 2026-08-07 11:54:02 EDT |
 
 ## Neighbors
 
