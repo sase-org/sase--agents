@@ -11,7 +11,13 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-07T17:34:51.896577+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`4a03351`](https://github.com/sase-org/sase/commit/4a03351ecd4f8cbd041892cd4e437faa079338d4) | fix(ace): keep the notification modal's tag strip visible with a single tab | 2026-08-07 14:06:12 EDT |
 
 ## Neighbors
 

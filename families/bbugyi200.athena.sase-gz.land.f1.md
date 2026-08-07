@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-gz.land.f1--plan | active | opus / claude | 2026-08-07T17:28:20.189094+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-gz.land.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-gz.land.f1--plan/chat.md) |
-| <a id="member-code"></a>code | sase-gz.land.f1--code | active | sonnet / claude | 2026-08-07T17:34:51.896577+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-gz.land.f1--code | active | sonnet / claude | 2026-08-07T17:34:51.896577+00:00 | [1](../agents/bbugyi200.athena.sase-gz.land.f1--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`4a03351`](https://github.com/sase-org/sase/commit/4a03351ecd4f8cbd041892cd4e437faa079338d4) | fix(ace): keep the notification modal's tag strip visible with a single tab | 2026-08-07 14:06:12 EDT |
 
 ## Neighbors
 
