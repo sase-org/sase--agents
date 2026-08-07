@@ -8,7 +8,7 @@
 |---|---:|---:|---|
 | [audit\_improvements](hoods/audit_improvements/README.md) | 28 | 0 | active 17, completed 11 |
 | [ci\_fix](hoods/ci_fix/README.md) | 18 | 0 | active 8, completed 4, dismissed 4, waiting 2 |
-| [research](hoods/research/README.md) | 312 | 6 | active 138, completed 154, dismissed 9, failed 1, waiting 10 |
+| [research](hoods/research/README.md) | 312 | 6 | active 137, completed 156, dismissed 9, failed 1, waiting 9 |
 | [sase-ct](hoods/sase-ct/README.md) | 1 | 0 | active 1 |
 | [sase-e2](hoods/sase-e2/README.md) | 1 | 0 | active 1 |
 | [sase-fi](hoods/sase-fi/README.md) | 1 | 0 | completed 1 |
@@ -49,7 +49,7 @@
 | [toobig-1u](hoods/toobig-1u/README.md) | 1 | 0 | active 1 |
 | [toobig-1v](hoods/toobig-1v/README.md) | 2 | 0 | active 1, completed 1 |
 | [toobig-1w](hoods/toobig-1w/README.md) | 2 | 0 | active 1, completed 1 |
-| [toobig-1x](hoods/toobig-1x/README.md) | 4 | 0 | active 1, completed 1, waiting 2 |
+| [toobig-1x](hoods/toobig-1x/README.md) | 4 | 0 | active 1, completed 3 |
 | [tv](hoods/tv/README.md) | 2 | 1 | active 2 |
 | [tw](hoods/tw/README.md) | 5 | 2 | active 2, completed 2, dismissed 1 |
 | [tz](hoods/tz/README.md) | 2 | 1 | completed 2 |
