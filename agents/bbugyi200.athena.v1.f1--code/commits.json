@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-00ea9c017f32b4003df8b0c9eca9b267"}
+{"commits":[{"committed_at":1786139376,"sha":"0c084068cfa7247123d4a9bc96d372ef620ac6bd","subject":"revert(memory): drop stale-core sentence from build_and_run.md"}],"schema_version":2,"source_run_id":"run-00ea9c017f32b4003df8b0c9eca9b267"}

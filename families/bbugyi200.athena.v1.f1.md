@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | v1.f1--code | active | sonnet / claude | 2026-08-07T21:38:34.780054+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | v1.f1--code | active | sonnet / claude | 2026-08-07T21:38:34.780054+00:00 | [1](../agents/bbugyi200.athena.v1.f1--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | v1.f1--plan | active | opus / claude | 2026-08-07T21:27:20.494494+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.v1.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.v1.f1--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`0c08406`](https://github.com/sase-org/sase/commit/0c084068cfa7247123d4a9bc96d372ef620ac6bd) | revert(memory): drop stale-core sentence from build\_and\_run.md | 2026-08-07 17:49:36 EDT |
 
 ## Neighbors
 

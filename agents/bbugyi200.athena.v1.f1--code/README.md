@@ -11,7 +11,13 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-07T21:38:34.780054+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`0c08406`](https://github.com/sase-org/sase/commit/0c084068cfa7247123d4a9bc96d372ef620ac6bd) | revert(memory): drop stale-core sentence from build\_and\_run.md | 2026-08-07 17:49:36 EDT |
 
 ## Neighbors
 
