@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-63584737608e3b172796e0b16e1d2d48"}
+{"commits":[{"committed_at":1786066978,"sha":"b0e10d1284e0a364db8ccfae462ab3ab1e2d4a08","subject":"feat(bead): keep exactly one pending gate per task bead"}],"schema_version":2,"source_run_id":"run-63584737608e3b172796e0b16e1d2d48"}

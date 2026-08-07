@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b5cd6ffb7bf5a684d5d1707e3a2642cf"}
+{"commits":[{"committed_at":1786067100,"sha":"09bb443ea4206edf188b54042713cf561fc89f94","subject":"feat(ace-tui): show one indicator chip per notification tab"}],"schema_version":2,"source_run_id":"run-b5cd6ffb7bf5a684d5d1707e3a2642cf"}

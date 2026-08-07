@@ -13,11 +13,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-07T01:17:28.266390+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`b0e10d1`](https://github.com/sase-org/sase/commit/b0e10d1284e0a364db8ccfae462ab3ab1e2d4a08) | feat(bead): keep exactly one pending gate per task bead | 2026-08-06 21:42:58 EDT |
 
 ## Neighbors
 
