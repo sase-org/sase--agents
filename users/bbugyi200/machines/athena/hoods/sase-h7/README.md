@@ -8,7 +8,7 @@
 |---|---|---|---|---:|---|
 | [sase-h7.10](../../../../../../agents/bbugyi200.athena.sase-h7.10/README.md) | waiting | sonnet / claude | 20260807171300 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h7.10/prompt.md) |
 | [sase-h7.6](../../../../../../agents/bbugyi200.athena.sase-h7.6/README.md) | waiting | opus / claude | 20260807171256 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h7.6/prompt.md) |
-| [sase-h7.3--plan](../../../../../../families/bbugyi200.athena.sase-h7.3.md#member-plan) | active | opus / claude | 2026-08-07T21:13:31.675799+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h7.3--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-h7.3--plan/chat.md) |
+| [sase-h7.3--plan](../../../../../../families/bbugyi200.athena.sase-h7.3.md#member-plan) | active | opus / claude | 2026-08-07T21:13:31.675799+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-h7.3--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-h7.3--plan/prompt.md) |
 | [sase-h7.7](../../../../../../agents/bbugyi200.athena.sase-h7.7/README.md) | waiting | opus / claude | 20260807171258 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h7.7/prompt.md) |
 | [sase-h7.land](../../../../../../agents/bbugyi200.athena.sase-h7.land/README.md) | waiting | opus / claude | 20260807171303 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h7.land/prompt.md) |
 | [sase-h7.9](../../../../../../agents/bbugyi200.athena.sase-h7.9/README.md) | waiting | opus / claude | 20260807171259 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h7.9/prompt.md) |
