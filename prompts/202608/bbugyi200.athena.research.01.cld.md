@@ -1,0 +1,7 @@
+- **AGENTS:**
+  - [bbugyi200.athena.research.01.cld](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.research.01.cld/README.md)
+
+%id(cld, clan=research.01) %wait(priority=20) %m:@research_b #gh:gh_sase-org__sase I
+want to add a sase LLM provider for Meta's new Muse Code agentic harness. Can you do
+some research to help me understand what this would entail? End your analysis with a
+recommended approach/solution. #research
