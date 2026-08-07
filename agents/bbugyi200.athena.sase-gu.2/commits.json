@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7a21570ae43c4648b33542568357afd1"}
+{"commits":[{"committed_at":1786113222,"sha":"f77bc9891e801c5003896aff76bbe471668f4c67","subject":"feat(repos): write and document repos.sidecar as the builtin/custom mapping"}],"schema_version":2,"source_run_id":"run-7a21570ae43c4648b33542568357afd1"}
