@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c1d5d55415c8d410a3dc32017533775c"}
+{"commits":[{"committed_at":1786065267,"sha":"b723ace648b5c99923874f933c3f16e99cc1eeb9","subject":"feat(bead): add sase bead snooze and snooze-aware detail surfaces"}],"schema_version":2,"source_run_id":"run-c1d5d55415c8d410a3dc32017533775c"}

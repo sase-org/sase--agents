@@ -13,19 +13,25 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-07T00:31:19.179751+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`b723ace`](https://github.com/sase-org/sase/commit/b723ace648b5c99923874f933c3f16e99cc1eeb9) | feat(bead): add sase bead snooze and snooze-aware detail surfaces | 2026-08-06 21:14:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-gn.1](../bbugyi200.athena.sase-gn.1/README.md) | sase-gn hood | completed |
-| [sase-gn.2](../bbugyi200.athena.sase-gn.2/README.md) | sase-gn hood | active |
-| [sase-gn.3](../bbugyi200.athena.sase-gn.3/README.md) | sase-gn hood | waiting |
+| [sase-gn.2](../bbugyi200.athena.sase-gn.2/README.md) | sase-gn hood | completed |
+| [sase-gn.3](../bbugyi200.athena.sase-gn.3/README.md) | sase-gn hood | active |
 | [sase-gn.4](../bbugyi200.athena.sase-gn.4/README.md) | sase-gn hood | completed |
 | [sase-gn.6](../bbugyi200.athena.sase-gn.6/README.md) | sase-gn hood | active |
 | [sase-gn.7](../bbugyi200.athena.sase-gn.7/README.md) | sase-gn hood | waiting |

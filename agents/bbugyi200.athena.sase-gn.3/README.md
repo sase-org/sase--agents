@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-gn](../../users/bbugyi200/machines/athena/hoods/sase-gn/README.md) / sase-gn.3
 
-**Global name:** `bbugyi200.athena.sase-gn.3` · **State:** waiting · **Source run:** `run-b5cd6ffb7bf5a684d5d1707e3a2642cf`
+**Global name:** `bbugyi200.athena.sase-gn.3` · **State:** active · **Source run:** `run-b5cd6ffb7bf5a684d5d1707e3a2642cf`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-gn
 
@@ -12,7 +12,7 @@
 - Epic: [sase-gn](https://github.com/sase-org/sase--beads/blob/main/pages/sase-gn/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260806192946
+- Timing: 2026-08-07T01:05:17.932162+00:00
 - Commits: 0
 
 ## Files
@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-gn.1](../bbugyi200.athena.sase-gn.1/README.md) | sase-gn hood | completed |
-| [sase-gn.2](../bbugyi200.athena.sase-gn.2/README.md) | sase-gn hood | active |
+| [sase-gn.2](../bbugyi200.athena.sase-gn.2/README.md) | sase-gn hood | completed |
 | [sase-gn.4](../bbugyi200.athena.sase-gn.4/README.md) | sase-gn hood | completed |
 | [sase-gn.5](../bbugyi200.athena.sase-gn.5/README.md) | sase-gn hood | active |
 | [sase-gn.6](../bbugyi200.athena.sase-gn.6/README.md) | sase-gn hood | active |
