@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1786075035,"sha":"b8a9fb4edddd016bd0c33b0c5a9b91bb96fb127f","subject":"refactor(bead): split task_gate.py into focused modules"}],"schema_version":2,"source_run_id":"run-1260e5dd1572b58e84bf8a966e16d232"}
