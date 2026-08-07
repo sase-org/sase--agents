@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1786128750,"sha":"28e8ed1cebc384f1a283cf7b010c27d981b7f49d","subject":"fix(ace): materialize byte-free artifact rows before opening from Agents tab"}],"schema_version":2,"source_run_id":"run-7c6b6fc16f64f2b28530305b69ecbfde"}
