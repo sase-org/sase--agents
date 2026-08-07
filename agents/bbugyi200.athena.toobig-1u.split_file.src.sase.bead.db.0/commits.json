@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1786065629,"sha":"5be45045d2a871f311e0224ac12672f8b63d29aa","subject":"refactor(bead): split the bead SQLite layer into focused modules"}],"schema_version":2,"source_run_id":"run-2d56e7f49c0eb52611a9d374e6ad68d6"}
