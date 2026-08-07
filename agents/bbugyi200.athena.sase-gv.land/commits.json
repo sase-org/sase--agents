@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-61f300e6438ae17a91a32669a7520b49"}
+{"commits":[{"committed_at":1786121359,"sha":"8692478c94f52ba34117cca2fa75fde74bea8a87","subject":"fix(ace): route every jump-mode key to the pane that painted the hints"}],"schema_version":2,"source_run_id":"run-61f300e6438ae17a91a32669a7520b49"}

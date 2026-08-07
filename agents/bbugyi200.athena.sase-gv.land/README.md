@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-gv](../../users/bbugyi200/machines/athena/hoods/sase-gv/README.md) / sase-gv.land
 
-**Global name:** `bbugyi200.athena.sase-gv.land` · **State:** active · **Source run:** `run-61f300e6438ae17a91a32669a7520b49`
+**Global name:** `bbugyi200.athena.sase-gv.land` · **State:** completed · **Source run:** `run-61f300e6438ae17a91a32669a7520b49`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-gv
 
@@ -12,11 +12,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-07T15:57:28.698460+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8692478`](https://github.com/sase-org/sase/commit/8692478c94f52ba34117cca2fa75fde74bea8a87) | fix(ace): route every jump-mode key to the pane that painted the hints | 2026-08-07 12:49:19 EDT |
 
 ## Neighbors
 
