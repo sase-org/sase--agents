@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make the special apostrophe keymap work on ALL tabs of the "SASE Admin Center" panel? Currently I know it works on the "Logs" tab and it might work on some other tabs as well but it should work on all tabs. #plan #m_opus

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1786110998,"sha":"50bed7f99c48d78515bbc48f74c83924380982f5","subject":"feat(config): accept role-keyed sidecar repo config alongside the legacy list"}],"schema_version":2,"source_run_id":"run-9ad154bb6b729e86e655fb8037e6350e"}

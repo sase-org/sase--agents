@@ -1,0 +1,2 @@
+#gh:gh_sase-org__sase
+#fork:sase-gt.land Can you now help me make sure that this number (100) is configurable via a sase config field? Also, let's start having this config field default to 88 (instead of 100, which is the current behavior). #plan #m_opus

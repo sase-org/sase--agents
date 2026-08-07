@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start only showing a sase bead's `Notes` section (for example, in sase task bead gate notifications and when showing a bead's details via the `sase bead show` command) when that bead actually has notes? Let's stop showing this section when there are no notes (see #sshot for an example of what this empty section looks like now). #plan #m_opus

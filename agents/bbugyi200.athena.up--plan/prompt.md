@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start showing each prompt input widget cursor's current column number somewhere? We should also show the current line number somewhere for inactive/unfocused prompt input widgets. #beau #plan #m_opus
