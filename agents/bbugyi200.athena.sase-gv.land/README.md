@@ -22,11 +22,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-gv.1](../bbugyi200.athena.sase-gv.1/README.md) | sase-gv hood | active |
-| [sase-gv.2](../bbugyi200.athena.sase-gv.2/README.md) | sase-gv hood | waiting |
-| [sase-gv.3](../bbugyi200.athena.sase-gv.3/README.md) | sase-gv hood | waiting |
-| [sase-gv.4](../bbugyi200.athena.sase-gv.4/README.md) | sase-gv hood | waiting |
-| [sase-gv.5](../bbugyi200.athena.sase-gv.5/README.md) | sase-gv hood | waiting |
-| [sase-gv.6](../bbugyi200.athena.sase-gv.6/README.md) | sase-gv hood | waiting |
-| [sase-gv.7](../bbugyi200.athena.sase-gv.7/README.md) | sase-gv hood | waiting |
+| [sase-gv.1](../bbugyi200.athena.sase-gv.1/README.md) | sase-gv hood | completed |
+| [sase-gv.2](../bbugyi200.athena.sase-gv.2/README.md) | sase-gv hood | active |
+| [sase-gv.3](../bbugyi200.athena.sase-gv.3/README.md) | sase-gv hood | active |
+| [sase-gv.4](../bbugyi200.athena.sase-gv.4/README.md) | sase-gv hood | active |
+| [sase-gv.5](../bbugyi200.athena.sase-gv.5/README.md) | sase-gv hood | active |
+| [sase-gv.6](../bbugyi200.athena.sase-gv.6/README.md) | sase-gv hood | active |
+| [sase-gv.7](../bbugyi200.athena.sase-gv.7/README.md) | sase-gv hood | active |
 | [sase-gv.8](../bbugyi200.athena.sase-gv.8/README.md) | sase-gv hood | waiting |
