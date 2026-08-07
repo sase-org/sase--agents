@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `uz` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["uz--code [active]"]
-  n1["uz--plan [active]"]
+  n0["uz--code [completed]"]
+  n1["uz--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | uz--code | active | sonnet / claude | 2026-08-07T18:55:33.102989+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | uz--plan | active | opus / claude | 2026-08-07T18:43:07.395005+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.uz--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.uz--plan/chat.md) |
+| <a id="member-code"></a>code | uz--code | completed | sonnet / claude | 2026-08-07T18:55:33.102989+00:00 | [1](../agents/bbugyi200.athena.uz--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.uz--code/chat.md) |
+| <a id="member-plan"></a>plan | uz--plan | completed | opus / claude | 2026-08-07T18:43:07.395005+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.uz--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.uz--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`41103b5`](https://github.com/sase-org/sase/commit/41103b594bd852f35e798961a5a7706f4f498246) | fix(ace): route ChangeSpec navigation through the Artifacts PRs sub-tab | 2026-08-07 15:21:12 EDT |

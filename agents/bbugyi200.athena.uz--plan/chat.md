@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** uz--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-uz__plan-260807_144258.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-uz__code-260807_144258.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/agents_enter_jumps_to_prs_subtab.md
 
 
