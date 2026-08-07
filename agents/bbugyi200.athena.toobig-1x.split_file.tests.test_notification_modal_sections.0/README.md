@@ -22,5 +22,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-1x.split\_file.tests.main.test\_init\_skills\_plan.0](../bbugyi200.athena.toobig-1x.split_file.tests.main.test_init_skills_plan.0/README.md) | toobig-1x.split\_file.tests hood | waiting |
-| [toobig-1x.split\_file.src.sase.ace.tui.modals.project\_inventory\_panes.0](../bbugyi200.athena.toobig-1x.split_file.src.sase.ace.tui.modals.project_inventory_panes.0/README.md) | toobig-1x.split\_file hood | active |
-| [toobig-1x.split\_file.src.sase.ace.tui.widgets.\_prompt\_input\_bar\_completion\_panel.0](../bbugyi200.athena.toobig-1x.split_file.src.sase.ace.tui.widgets._prompt_input_bar_completion_panel.0/README.md) | toobig-1x.split\_file hood | waiting |
+| [toobig-1x.split\_file.src.sase.ace.tui.modals.project\_inventory\_panes.0](../bbugyi200.athena.toobig-1x.split_file.src.sase.ace.tui.modals.project_inventory_panes.0/README.md) | toobig-1x.split\_file hood | completed |
+| [toobig-1x.split\_file.src.sase.ace.tui.widgets.\_prompt\_input\_bar\_completion\_panel.0](../bbugyi200.athena.toobig-1x.split_file.src.sase.ace.tui.widgets._prompt_input_bar_completion_panel.0/README.md) | toobig-1x.split\_file hood | active |
