@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | un.w0--code | active | sonnet / claude | 2026-08-07T14:40:11.472097+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | un.w0--code | active | sonnet / claude | 2026-08-07T14:40:11.472097+00:00 | [1](../agents/bbugyi200.athena.un.w0--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | un.w0--plan | active | opus / claude | 2026-08-07T14:28:26.574522+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.un.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.un.w0--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`8865cf5`](https://github.com/sase-org/sase/commit/8865cf54da8a014299f8771a2d92335b80b6c33b) | test(bead): pin the snooze note contract across CLI, gate, and lifecycle | 2026-08-07 11:08:15 EDT |
 
 ## Neighbors
 

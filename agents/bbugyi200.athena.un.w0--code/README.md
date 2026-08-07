@@ -11,7 +11,13 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-07T14:40:11.472097+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8865cf5`](https://github.com/sase-org/sase/commit/8865cf54da8a014299f8771a2d92335b80b6c33b) | test(bead): pin the snooze note contract across CLI, gate, and lifecycle | 2026-08-07 11:08:15 EDT |
 
 ## Neighbors
 
