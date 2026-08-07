@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-gn](../../users/bbugyi200/machines/athena/hoods/sase-gn/README.md) / sase-gn.10.5
 
-**Global name:** `bbugyi200.athena.sase-gn.10.5` · **State:** waiting · **Source run:** `run-8d2cfdff48bb193b79801f74f8f6fef5`
+**Global name:** `bbugyi200.athena.sase-gn.10.5` · **State:** completed · **Source run:** `run-8d2cfdff48bb193b79801f74f8f6fef5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-gn
 
@@ -12,22 +12,22 @@
 - Epic: [sase-gn.10](https://github.com/sase-org/sase--beads/blob/main/pages/sase-gn/sase-gn.10.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 20260807001501
+- Timing: 2026-08-07T05:23:31.234185+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-gn.10.1](../bbugyi200.athena.sase-gn.10.1/README.md) | sase-gn.10 hood | completed |
-| [sase-gn.10.2](../bbugyi200.athena.sase-gn.10.2/README.md) | sase-gn.10 hood | active |
+| [sase-gn.10.2](../bbugyi200.athena.sase-gn.10.2/README.md) | sase-gn.10 hood | completed |
 | [sase-gn.10.3](../bbugyi200.athena.sase-gn.10.3/README.md) | sase-gn.10 hood | completed |
 | [sase-gn.10.4](../bbugyi200.athena.sase-gn.10.4/README.md) | sase-gn.10 hood | completed |
-| [sase-gn.10.land](../bbugyi200.athena.sase-gn.10.land/README.md) | sase-gn.10 hood | waiting |
+| [sase-gn.10.land](../bbugyi200.athena.sase-gn.10.land/README.md) | sase-gn.10 hood | active |
 | [sase-gn.1](../bbugyi200.athena.sase-gn.1/README.md) | sase-gn hood | completed |
 | [sase-gn.2](../bbugyi200.athena.sase-gn.2/README.md) | sase-gn hood | completed |
 | [sase-gn.3](../bbugyi200.athena.sase-gn.3/README.md) | sase-gn hood | completed |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0877762c15a0b51ddc0afb3edbc976e6"}
+{"commits":[{"committed_at":1786125598,"sha":"8be11ae2998ccb46954d1c596111d607a3146136","subject":"fix(bead): include snoozed beads in the mobile beads-list bridge default"}],"schema_version":2,"source_run_id":"run-0877762c15a0b51ddc0afb3edbc976e6"}

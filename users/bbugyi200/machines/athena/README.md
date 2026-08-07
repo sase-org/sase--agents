@@ -8,7 +8,7 @@
 |---|---:|---:|---|
 | [audit\_improvements](hoods/audit_improvements/README.md) | 28 | 0 | active 17, completed 11 |
 | [ci\_fix](hoods/ci_fix/README.md) | 18 | 0 | active 8, completed 4, dismissed 4, waiting 2 |
-| [research](hoods/research/README.md) | 312 | 6 | active 138, completed 159, dismissed 1, failed 1, waiting 13 |
+| [research](hoods/research/README.md) | 312 | 6 | active 139, completed 160, dismissed 1, failed 1, waiting 11 |
 | [sase-ct](hoods/sase-ct/README.md) | 1 | 0 | active 1 |
 | [sase-e2](hoods/sase-e2/README.md) | 1 | 0 | active 1 |
 | [sase-fi](hoods/sase-fi/README.md) | 1 | 0 | completed 1 |
@@ -25,7 +25,7 @@
 | [sase-gj](hoods/sase-gj/README.md) | 8 | 0 | active 1, completed 7 |
 | [sase-gl](hoods/sase-gl/README.md) | 1 | 0 | completed 1 |
 | [sase-gm](hoods/sase-gm/README.md) | 1 | 0 | completed 1 |
-| [sase-gn](hoods/sase-gn/README.md) | 16 | 0 | active 1, completed 12, failed 1, waiting 2 |
+| [sase-gn](hoods/sase-gn/README.md) | 16 | 0 | active 1, completed 14, failed 1 |
 | [sase-gt](hoods/sase-gt/README.md) | 6 | 0 | completed 4, dismissed 1, failed 1 |
 | [sase-gu](hoods/sase-gu/README.md) | 4 | 0 | active 1, completed 3 |
 | [sase-gv](hoods/sase-gv/README.md) | 9 | 0 | completed 9 |
