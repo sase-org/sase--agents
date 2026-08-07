@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0a09b3bbcd52fbf983fc3ee267bc1932"}
+{"commits":[{"committed_at":1786118668,"sha":"72a3ab92c448eeb95131e2b0308e82df78aa5f5e","subject":"test(ace): refresh Admin Center goldens for the notification badge"}],"schema_version":2,"source_run_id":"run-0a09b3bbcd52fbf983fc3ee267bc1932"}
