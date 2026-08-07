@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1e420056eec1a37c6be0130e1a722742"}
+{"commits":[{"committed_at":1786111706,"sha":"c710d966cf1a09b4cdf32d7b4d20ceea37c54563","subject":"test: guard inline prose-width literals, not just named constants"}],"schema_version":2,"source_run_id":"run-1e420056eec1a37c6be0130e1a722742"}

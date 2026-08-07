@@ -12,11 +12,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-07T13:46:59.809687+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c710d96`](https://github.com/sase-org/sase/commit/c710d966cf1a09b4cdf32d7b4d20ceea37c54563) | test: guard inline prose-width literals, not just named constants | 2026-08-07 10:08:26 EDT |
 
 ## Neighbors
 
