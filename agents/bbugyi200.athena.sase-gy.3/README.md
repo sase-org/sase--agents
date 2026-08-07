@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-gy](../../users/bbugyi200/machines/athena/hoods/sase-gy/README.md) / sase-gy.3
 
-**Global name:** `bbugyi200.athena.sase-gy.3` · **State:** active · **Source run:** `run-5979a482b834573c84bff1f92dcb78e9`
+**Global name:** `bbugyi200.athena.sase-gy.3` · **State:** completed · **Source run:** `run-5979a482b834573c84bff1f92dcb78e9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-gy
 
@@ -17,7 +17,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -25,4 +25,4 @@
 |---|---|---|
 | [sase-gy.1](../bbugyi200.athena.sase-gy.1/README.md) | sase-gy hood | completed |
 | [sase-gy.2](../bbugyi200.athena.sase-gy.2/README.md) | sase-gy hood | completed |
-| [sase-gy.land](../bbugyi200.athena.sase-gy.land/README.md) | sase-gy hood | waiting |
+| [sase-gy.land](../bbugyi200.athena.sase-gy.land/README.md) | sase-gy hood | active |
