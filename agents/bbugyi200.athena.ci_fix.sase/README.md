@@ -33,4 +33,6 @@
 | [ci\_fix.sase.9](../bbugyi200.athena.ci_fix.sase.9/README.md) | descendant | dismissed |
 | [ci\_fix.sase.a](../bbugyi200.athena.ci_fix.sase.a/README.md) | descendant | dismissed |
 | [ci\_fix.sase.b](../bbugyi200.athena.ci_fix.sase.b/README.md) | descendant | dismissed |
-| [ci\_fix.sase.c](../bbugyi200.athena.ci_fix.sase.c/README.md) | descendant | active |
+| [ci\_fix.sase.c](../bbugyi200.athena.ci_fix.sase.c/README.md) | descendant | completed |
+| [ci\_fix.sase.d](../bbugyi200.athena.ci_fix.sase.d/README.md) | descendant | completed |
+| [ci\_fix.sase.e](../bbugyi200.athena.ci_fix.sase.e/README.md) | descendant | active |
