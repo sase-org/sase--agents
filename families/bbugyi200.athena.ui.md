@@ -19,3 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | ui--code | active | sonnet / claude | 2026-08-07T12:39:48.292769+00:00 | 0 | — | — |
 | <a id="member-plan"></a>plan | ui--plan | active | opus / claude | 2026-08-07T12:26:43.817727+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ui--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ui--plan/chat.md) |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [ui.w0](../agents/bbugyi200.athena.ui.w0/README.md) | descendant | waiting |

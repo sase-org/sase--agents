@@ -12,3 +12,9 @@
 - Provider: claude
 - Timing: 2026-08-07T12:39:48.292769+00:00
 - Commits: 0
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [ui.w0](../bbugyi200.athena.ui.w0/README.md) | descendant | waiting |

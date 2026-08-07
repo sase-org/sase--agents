@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** uk--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-uk__plan-260807_085206.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-uk__code-260807_085206.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/help_panel_keymap_filter.md
 
 
