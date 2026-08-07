@@ -8,7 +8,7 @@
 |---|---:|---:|---|
 | [audit\_improvements](hoods/audit_improvements/README.md) | 28 | 0 | active 17, completed 11 |
 | [ci\_fix](hoods/ci_fix/README.md) | 18 | 0 | active 8, completed 4, dismissed 4, waiting 2 |
-| [research](hoods/research/README.md) | 312 | 6 | active 139, completed 160, dismissed 1, failed 1, waiting 11 |
+| [research](hoods/research/README.md) | 312 | 6 | active 138, completed 162, dismissed 1, failed 1, waiting 10 |
 | [sase-ct](hoods/sase-ct/README.md) | 1 | 0 | active 1 |
 | [sase-e2](hoods/sase-e2/README.md) | 1 | 0 | active 1 |
 | [sase-fi](hoods/sase-fi/README.md) | 1 | 0 | completed 1 |

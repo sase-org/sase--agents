@@ -24,10 +24,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.z.final](../bbugyi200.athena.research.z.final/README.md) | ancestor | active |
+| [research.z.final](../bbugyi200.athena.research.z.final/README.md) | ancestor | completed |
 | [research.z.cdx](../bbugyi200.athena.research.z.cdx/README.md) | research.z hood | completed |
 | [research.z.cld](../bbugyi200.athena.research.z.cld/README.md) | research.z hood | completed |
-| [research.z.image](../bbugyi200.athena.research.z.image/README.md) | research.z hood | waiting |
+| [research.z.image](../bbugyi200.athena.research.z.image/README.md) | research.z hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | active |
