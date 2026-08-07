@@ -1,23 +1,21 @@
-# Agent: audit\_improvements.sase.32ca21158dad
+# Agent: audit\_improvements.sase.4
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [audit\_improvements](../../users/bbugyi200/machines/athena/hoods/audit_improvements/README.md) / audit\_improvements.sase.32ca21158dad
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [audit\_improvements](../../users/bbugyi200/machines/athena/hoods/audit_improvements/README.md) / audit\_improvements.sase.4
 
-**Global name:** `bbugyi200.athena.audit_improvements.sase.32ca21158dad` · **State:** completed · **Source run:** `run-3f1688e116c4ac4430ed12c7720af863`
+**Global name:** `bbugyi200.athena.audit_improvements.sase.4` · **State:** active · **Source run:** `run-ed31988a228dfbb7802e999e5635f2c0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** audit\_improvements
 
 ## Summary
 
-- Model: —
-- Provider: —
-- Timing: 2026-05-28T23:51:53+00:00 → 2026-05-28T23:51:53+00:00
-- Commits: [1](#commits)
+- Model: opus
+- Provider: claude
+- Timing: 2026-08-07T11:30:45.714555+00:00
+- Commits: 0
 
-## Commits
+## Files
 
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`0e0ce2c`](https://github.com/sase-org/sase/commit/0e0ce2cec6c6320734c16820ad94578f812fff26) | fix: preserve dismissed agents on revive restore failure | 2026-05-28 19:51:53 EDT |
+[Prompt](prompt.md)
 
 ## Neighbors
 
@@ -32,8 +30,8 @@
 | [audit\_improvements.sase.147c3038ba7c](../bbugyi200.athena.audit_improvements.sase.147c3038ba7c/README.md) | audit\_improvements.sase hood | active |
 | [audit\_improvements.sase.3](../bbugyi200.athena.audit_improvements.sase.3/README.md) | audit\_improvements.sase hood | active |
 | [audit\_improvements.sase.31f8436d101f](../bbugyi200.athena.audit_improvements.sase.31f8436d101f/README.md) | audit\_improvements.sase hood | active |
+| [audit\_improvements.sase.32ca21158dad](../bbugyi200.athena.audit_improvements.sase.32ca21158dad/README.md) | audit\_improvements.sase hood | completed |
 | [audit\_improvements.sase.3308b2c86f93](../bbugyi200.athena.audit_improvements.sase.3308b2c86f93/README.md) | audit\_improvements.sase hood | completed |
-| [audit\_improvements.sase.4](../bbugyi200.athena.audit_improvements.sase.4/README.md) | audit\_improvements.sase hood | active |
 | [audit\_improvements.sase.4b9281d3d7d9](../bbugyi200.athena.audit_improvements.sase.4b9281d3d7d9/README.md) | audit\_improvements.sase hood | active |
 | [audit\_improvements.sase.4e4399a996d1](../bbugyi200.athena.audit_improvements.sase.4e4399a996d1/README.md) | audit\_improvements.sase hood | completed |
 | [audit\_improvements.sase.605fbebd1064](../bbugyi200.athena.audit_improvements.sase.605fbebd1064/README.md) | audit\_improvements.sase hood | active |
