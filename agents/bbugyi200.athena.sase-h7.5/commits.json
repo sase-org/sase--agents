@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ff1d845e2fec33781b65c4fbf3266ddd"}
+{"commits":[{"committed_at":1786145046,"sha":"ff0b765a4d395ef91f9b89aeabd5d3e7d831aed1","subject":"feat(notification-gates)!: fail closed at creation for unanswerable gates"}],"schema_version":2,"source_run_id":"run-ff1d845e2fec33781b65c4fbf3266ddd"}

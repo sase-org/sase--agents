@@ -13,11 +13,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-07T22:29:12.826662+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ff0b765`](https://github.com/sase-org/sase/commit/ff0b765a4d395ef91f9b89aeabd5d3e7d831aed1) | feat(notification-gates)!: fail closed at creation for unanswerable gates | 2026-08-07 19:24:06 EDT |
 
 ## Neighbors
 
@@ -33,5 +39,5 @@
 | [sase-h7.6](../../families/bbugyi200.athena.sase-h7.6.md) (family · 2) | sase-h7 hood | active 2 |
 | [sase-h7.7](../bbugyi200.athena.sase-h7.7/README.md) | sase-h7 hood | active |
 | [sase-h7.8](../../families/bbugyi200.athena.sase-h7.8.md) (family · 2) | sase-h7 hood | active 2 |
-| [sase-h7.9](../bbugyi200.athena.sase-h7.9/README.md) | sase-h7 hood | active |
+| [sase-h7.9](../bbugyi200.athena.sase-h7.9/README.md) | sase-h7 hood | completed |
 | [sase-h7.land](../bbugyi200.athena.sase-h7.land/README.md) | sase-h7 hood | waiting |

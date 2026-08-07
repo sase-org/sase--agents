@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase This machine has a really high load right now (run the `uptime` command). Can you help me diagnose the root cause of this issue (if there is one--otherwise, just explain why this happened without creating a plan) and fix it? #plan #m_opus
