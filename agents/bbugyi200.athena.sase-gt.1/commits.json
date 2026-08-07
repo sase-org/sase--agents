@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1786107319,"sha":"c37e68f7a5bcf73ceaa90923cb60a12ffd91b7e0","subject":"refactor: collapse every prose-width declaration onto one source of truth"}],"schema_version":2,"source_run_id":"run-9aff1b1326550567cc71e583fbd0ff0a"}

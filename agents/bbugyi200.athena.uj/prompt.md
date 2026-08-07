@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We recently unified the width used by prettier to 120 characters. We used to use different widths depending on the code points that ran the `prettier` command. Can you help me make sure that these widths are truly unified (e.g. that they use the same constant variable or something) and then change the width that we use from 120 to 100? #plan #m_opus
