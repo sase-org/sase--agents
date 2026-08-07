@@ -7,7 +7,7 @@
 | Hood | Runs | Families | States |
 |---|---:|---:|---|
 | [audit\_improvements](hoods/audit_improvements/README.md) | 28 | 0 | active 17, completed 11 |
-| [chop](hoods/chop/README.md) | 54 | 0 | active 49, waiting 5 |
+| [chop](hoods/chop/README.md) | 54 | 0 | active 49, completed 1, waiting 4 |
 | [ci\_fix](hoods/ci_fix/README.md) | 18 | 0 | active 8, completed 4, dismissed 4, waiting 2 |
 | [research](hoods/research/README.md) | 312 | 6 | active 137, completed 156, dismissed 9, failed 1, waiting 9 |
 | [sase-ct](hoods/sase-ct/README.md) | 1 | 0 | active 1 |
