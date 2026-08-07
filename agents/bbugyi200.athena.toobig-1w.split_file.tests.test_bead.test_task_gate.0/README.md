@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-1w](../../users/bbugyi200/machines/athena/hoods/toobig-1w/README.md) / toobig-1w.split\_file.tests.test\_bead.test\_task\_gate.0
 
-**Global name:** `bbugyi200.athena.toobig-1w.split_file.tests.test_bead.test_task_gate.0` · **State:** active · **Source run:** `run-c64f1b64cee41415e22a319308f2e4d8`
+**Global name:** `bbugyi200.athena.toobig-1w.split_file.tests.test_bead.test_task_gate.0` · **State:** completed · **Source run:** `run-c64f1b64cee41415e22a319308f2e4d8`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-1w
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-1w.split\_file.tests.test\_linked\_repo\_sidecar\_resolution.0](../bbugyi200.athena.toobig-1w.split_file.tests.test_linked_repo_sidecar_resolution.0/README.md) | toobig-1w.split\_file.tests hood | waiting |
+| [toobig-1w.split\_file.tests.test\_linked\_repo\_sidecar\_resolution.0](../bbugyi200.athena.toobig-1w.split_file.tests.test_linked_repo_sidecar_resolution.0/README.md) | toobig-1w.split\_file.tests hood | active |
