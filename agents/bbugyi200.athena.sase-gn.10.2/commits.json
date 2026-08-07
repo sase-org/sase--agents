@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-131e1dc7b46369139f93f0cf10af3b87"}
+{"commits":[{"committed_at":1786080007,"sha":"5b3f3494b9488719acacfa067d570fdef4d05f61","subject":"build(deps): raise sase-core-rs floor to 0.19.0 and cover the snooze close path against a real store"}],"schema_version":2,"source_run_id":"run-131e1dc7b46369139f93f0cf10af3b87"}
