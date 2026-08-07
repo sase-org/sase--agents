@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `ui` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["ui--code [active]"]
-  n1["ui--plan [active]"]
+  n0["ui--code [completed]"]
+  n1["ui--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,11 +17,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | ui--code | active | sonnet / claude | 2026-08-07T12:39:48.292769+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | ui--plan | active | opus / claude | 2026-08-07T12:26:43.817727+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ui--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ui--plan/chat.md) |
+| <a id="member-code"></a>code | ui--code | completed | sonnet / claude | 2026-08-07T12:39:48.292769+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.ui--code/chat.md) |
+| <a id="member-plan"></a>plan | ui--plan | completed | opus / claude | 2026-08-07T12:26:43.817727+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ui--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ui--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`7ca857a`](https://github.com/sase-org/sase/commit/7ca857a9a79d0b5e922eef4e55e91678cfa462f5) | feat(ace)!: always render a gate detail card and rename the HITL tab to Gates | 2026-08-07 10:12:33 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [ui.w0](../agents/bbugyi200.athena.ui.w0/README.md) | descendant | waiting |
+| [ui.w1](../agents/bbugyi200.athena.ui.w1/README.md) | descendant | failed |
