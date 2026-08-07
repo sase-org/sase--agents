@@ -36,4 +36,5 @@
 | [ci\_fix.sase.b](../bbugyi200.athena.ci_fix.sase.b/README.md) | ci\_fix.sase hood | dismissed |
 | [ci\_fix.sase.c](../bbugyi200.athena.ci_fix.sase.c/README.md) | ci\_fix.sase hood | completed |
 | [ci\_fix.sase.d](../bbugyi200.athena.ci_fix.sase.d/README.md) | ci\_fix.sase hood | completed |
-| [ci\_fix.sase.f](../bbugyi200.athena.ci_fix.sase.f/README.md) | ci\_fix.sase hood | active |
+| [ci\_fix.sase.f](../bbugyi200.athena.ci_fix.sase.f/README.md) | ci\_fix.sase hood | completed |
+| [ci\_fix.sase.g](../bbugyi200.athena.ci_fix.sase.g/README.md) | ci\_fix.sase hood | active |

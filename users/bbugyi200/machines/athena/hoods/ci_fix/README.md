@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / ci\_fix
 
-**Global hood:** `bbugyi200.athena.ci_fix` · **Runs:** 17 · **Families:** 0 · **States:** active 8, completed 3, dismissed 4, waiting 2
+**Global hood:** `bbugyi200.athena.ci_fix` · **Runs:** 18 · **Families:** 0 · **States:** active 8, completed 4, dismissed 4, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [ci\_fix.sase.f](../../../../../../agents/bbugyi200.athena.ci_fix.sase.f/README.md) | active | opus / claude | 2026-08-07T05:23:20.298390+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.ci_fix.sase.f/prompt.md) |
+| [ci\_fix.sase.f](../../../../../../agents/bbugyi200.athena.ci_fix.sase.f/README.md) | completed | opus / claude | 2026-08-07T05:23:20.298390+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.ci_fix.sase.f/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.ci_fix.sase.f/chat.md) |
 | [ci\_fix.sase.4](../../../../../../agents/bbugyi200.athena.ci_fix.sase.4/README.md) | active | gpt-5.6-sol / codex | 2026-08-03T00:14:54.554322+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.ci_fix.sase.4/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.ci_fix.sase.4/chat.md) |
 | [ci\_fix.sase.8](../../../../../../agents/bbugyi200.athena.ci_fix.sase.8/README.md) | dismissed | opus / claude | 2026-08-06T01:15:30.356282 → 2026-08-06T01:43:11.317094 | 0 | [chat](../../../../../../agents/bbugyi200.athena.ci_fix.sase.8/chat.md) |
 | [ci\_fix.sase.6](../../../../../../agents/bbugyi200.athena.ci_fix.sase.6/README.md) | active | gpt-5.6-sol / codex | 2026-08-03T22:51:04.289810+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.ci_fix.sase.6/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.ci_fix.sase.6/chat.md) |
@@ -15,6 +15,7 @@
 | [ci\_fix.sase.c](../../../../../../agents/bbugyi200.athena.ci_fix.sase.c/README.md) | completed | opus / claude | 2026-08-07T01:55:14.101811+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.ci_fix.sase.c/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.ci_fix.sase.c/chat.md) |
 | [ci\_fix.sase.d](../../../../../../agents/bbugyi200.athena.ci_fix.sase.d/README.md) | completed | opus / claude | 2026-08-07T02:51:15.672296+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.ci_fix.sase.d/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.ci_fix.sase.d/chat.md) |
 | [ci\_fix.sase.2](../../../../../../agents/bbugyi200.athena.ci_fix.sase.2/README.md) | active | sonnet / claude | 2026-07-31T22:44:58.634644+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.ci_fix.sase.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.ci_fix.sase.2/chat.md) |
+| [ci\_fix.sase.g](../../../../../../agents/bbugyi200.athena.ci_fix.sase.g/README.md) | active | opus / claude | 2026-08-07T06:29:05.848979+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.ci_fix.sase.g/prompt.md) |
 | [ci\_fix.sase.9](../../../../../../agents/bbugyi200.athena.ci_fix.sase.9/README.md) | dismissed | opus / claude | 2026-08-06T02:42:44.181067 → 2026-08-06T03:14:00.635315 | 0 | [chat](../../../../../../agents/bbugyi200.athena.ci_fix.sase.9/chat.md) |
 | [ci\_fix.sase.a](../../../../../../agents/bbugyi200.athena.ci_fix.sase.a/README.md) | dismissed | opus / claude | 2026-08-06T12:42:07.154534 | 0 | — |
 | [ci\_fix.sase.3](../../../../../../agents/bbugyi200.athena.ci_fix.sase.3/README.md) | active | sonnet / claude | 2026-08-01T01:42:48.118387+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.ci_fix.sase.3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.ci_fix.sase.3/chat.md) |
