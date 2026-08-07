@@ -31,7 +31,7 @@
 | [sase-gw](hoods/sase-gw/README.md) | 1 | 0 | completed 1 |
 | [sase-gx](hoods/sase-gx/README.md) | 1 | 0 | active 1 |
 | [sase-gy](hoods/sase-gy/README.md) | 4 | 0 | active 1, completed 3 |
-| [sase-gz](hoods/sase-gz/README.md) | 8 | 0 | active 1, completed 5, waiting 2 |
+| [sase-gz](hoods/sase-gz/README.md) | 8 | 0 | active 1, completed 6, waiting 1 |
 | [sase-h0](hoods/sase-h0/README.md) | 1 | 0 | completed 1 |
 | [sase-h1](hoods/sase-h1/README.md) | 1 | 0 | active 1 |
 | [toobig-1o](hoods/toobig-1o/README.md) | 3 | 0 | active 1, completed 2 |
