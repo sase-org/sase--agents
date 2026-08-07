@@ -13,11 +13,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-07T21:40:50.190597+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`0c971ff`](https://github.com/sase-org/sase/commit/0c971ff81078aff31542b2953ec35fb178e25228) | feat(notification-gates): generalize operations into repeatable gate actions | 2026-08-07 18:25:42 EDT |
 
 ## Neighbors
 
@@ -32,6 +38,6 @@
 | [sase-h7.5](../bbugyi200.athena.sase-h7.5/README.md) | sase-h7 hood | active |
 | [sase-h7.6](../../families/bbugyi200.athena.sase-h7.6.md) (family · 2) | sase-h7 hood | active 2 |
 | [sase-h7.7](../bbugyi200.athena.sase-h7.7/README.md) | sase-h7 hood | active |
-| [sase-h7.8](../bbugyi200.athena.sase-h7.8/README.md) | sase-h7 hood | active |
+| [sase-h7.8](../../families/bbugyi200.athena.sase-h7.8.md) (family · 2) | sase-h7 hood | active 2 |
 | [sase-h7.9](../bbugyi200.athena.sase-h7.9/README.md) | sase-h7 hood | active |
 | [sase-h7.land](../bbugyi200.athena.sase-h7.land/README.md) | sase-h7 hood | waiting |

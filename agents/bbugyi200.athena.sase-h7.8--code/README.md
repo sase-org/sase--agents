@@ -1,22 +1,19 @@
-# Agent: sase-h7.land
+# Agent: sase-h7.8--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-h7](../../users/bbugyi200/machines/athena/hoods/sase-h7/README.md) / sase-h7.land
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-h7](../../users/bbugyi200/machines/athena/hoods/sase-h7/README.md) / [sase-h7.8](../../families/bbugyi200.athena.sase-h7.8.md) / sase-h7.8--code
 
-**Global name:** `bbugyi200.athena.sase-h7.land` · **State:** waiting · **Source run:** `run-986bf7ebbe8929b69095f7320fdf0af7`
+**Global name:** `bbugyi200.athena.sase-h7.8--code` · **State:** active · **Source run:** `run-1a221bf5b0dfd56fe4d237677bdcc113`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-h7
 
 ## Summary
 
-- Bead: [sase-h7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-h7/README.md)
-- Model: opus
+- Bead: [sase-h7.8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-h7/sase-h7.8.md)
+- Epic: [sase-h7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-h7/README.md)
+- Model: sonnet
 - Provider: claude
-- Timing: 20260807171303
+- Timing: 2026-08-07T22:43:55.914730+00:00
 - Commits: 0
-
-## Files
-
-[Prompt](prompt.md)
 
 ## Neighbors
 
@@ -32,5 +29,5 @@
 | [sase-h7.5](../bbugyi200.athena.sase-h7.5/README.md) | sase-h7 hood | active |
 | [sase-h7.6](../../families/bbugyi200.athena.sase-h7.6.md) (family · 2) | sase-h7 hood | active 2 |
 | [sase-h7.7](../bbugyi200.athena.sase-h7.7/README.md) | sase-h7 hood | active |
-| [sase-h7.8](../../families/bbugyi200.athena.sase-h7.8.md) (family · 2) | sase-h7 hood | active 2 |
 | [sase-h7.9](../bbugyi200.athena.sase-h7.9/README.md) | sase-h7 hood | active |
+| [sase-h7.land](../bbugyi200.athena.sase-h7.land/README.md) | sase-h7 hood | waiting |

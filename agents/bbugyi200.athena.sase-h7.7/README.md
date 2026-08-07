@@ -32,6 +32,6 @@
 | [sase-h7.4](../bbugyi200.athena.sase-h7.4/README.md) | sase-h7 hood | completed |
 | [sase-h7.5](../bbugyi200.athena.sase-h7.5/README.md) | sase-h7 hood | active |
 | [sase-h7.6](../../families/bbugyi200.athena.sase-h7.6.md) (family · 2) | sase-h7 hood | active 2 |
-| [sase-h7.8](../bbugyi200.athena.sase-h7.8/README.md) | sase-h7 hood | active |
+| [sase-h7.8](../../families/bbugyi200.athena.sase-h7.8.md) (family · 2) | sase-h7 hood | active 2 |
 | [sase-h7.9](../bbugyi200.athena.sase-h7.9/README.md) | sase-h7 hood | active |
 | [sase-h7.land](../bbugyi200.athena.sase-h7.land/README.md) | sase-h7 hood | waiting |
