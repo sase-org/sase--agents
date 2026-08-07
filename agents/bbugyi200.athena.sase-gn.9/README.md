@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-gn](../../users/bbugyi200/machines/athena/hoods/sase-gn/README.md) / sase-gn.9
 
-**Global name:** `bbugyi200.athena.sase-gn.9` · **State:** waiting · **Source run:** `run-6945e6ce125dd67254d66c4b91f2c90f`
+**Global name:** `bbugyi200.athena.sase-gn.9` · **State:** active · **Source run:** `run-6945e6ce125dd67254d66c4b91f2c90f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-gn
 
@@ -12,12 +12,18 @@
 - Epic: [sase-gn](https://github.com/sase-org/sase--beads/blob/main/pages/sase-gn/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 20260806192949
-- Commits: 0
+- Timing: 2026-08-07T02:51:34.563333+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`44727b0`](https://github.com/sase-org/sase/commit/44727b0275df6c62f09c7929677ce54e35f4a8a4) | docs(bead): document the snoozed task-bead status and per-tab indicator | 2026-08-06 23:46:28 EDT |
 
 ## Neighbors
 
@@ -30,5 +36,5 @@
 | [sase-gn.5](../bbugyi200.athena.sase-gn.5/README.md) | sase-gn hood | completed |
 | [sase-gn.6](../bbugyi200.athena.sase-gn.6/README.md) | sase-gn hood | completed |
 | [sase-gn.7](../bbugyi200.athena.sase-gn.7/README.md) | sase-gn hood | completed |
-| [sase-gn.8](../bbugyi200.athena.sase-gn.8/README.md) | sase-gn hood | active |
+| [sase-gn.8](../bbugyi200.athena.sase-gn.8/README.md) | sase-gn hood | completed |
 | [sase-gn.land](../bbugyi200.athena.sase-gn.land/README.md) | sase-gn hood | waiting |
