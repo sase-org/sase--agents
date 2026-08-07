@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-836ff1327f2fe090edde2a051665b03c"}
+{"commits":[{"committed_at":1786115592,"sha":"64922e12acefbe1e202e69fa1d8146b06b7bad2e","subject":"feat(ace): wire XPrompts browser rows onto the shared entry-jump mixin"}],"schema_version":2,"source_run_id":"run-836ff1327f2fe090edde2a051665b03c"}

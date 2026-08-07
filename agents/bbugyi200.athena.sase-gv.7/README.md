@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-07T14:25:13.472626+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`317b83e`](https://github.com/sase-org/sase/commit/317b83e72b1d5780ac9474218af9bfea60c30f39) | feat(ace): arm numbered-view selection via apostrophe on the Statistics tab | 2026-08-07 11:11:26 EDT |
 
 ## Neighbors
 
@@ -25,9 +31,9 @@
 |---|---|---|
 | [sase-gv.1](../bbugyi200.athena.sase-gv.1/README.md) | sase-gv hood | completed |
 | [sase-gv.2](../bbugyi200.athena.sase-gv.2/README.md) | sase-gv hood | completed |
-| [sase-gv.3](../bbugyi200.athena.sase-gv.3/README.md) | sase-gv hood | active |
+| [sase-gv.3](../bbugyi200.athena.sase-gv.3/README.md) | sase-gv hood | completed |
 | [sase-gv.4](../bbugyi200.athena.sase-gv.4/README.md) | sase-gv hood | completed |
 | [sase-gv.5](../bbugyi200.athena.sase-gv.5/README.md) | sase-gv hood | active |
-| [sase-gv.6](../bbugyi200.athena.sase-gv.6/README.md) | sase-gv hood | active |
+| [sase-gv.6](../bbugyi200.athena.sase-gv.6/README.md) | sase-gv hood | completed |
 | [sase-gv.8](../bbugyi200.athena.sase-gv.8/README.md) | sase-gv hood | waiting |
 | [sase-gv.land](../bbugyi200.athena.sase-gv.land/README.md) | sase-gv hood | waiting |
