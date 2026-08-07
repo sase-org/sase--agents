@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ci\_fix](../../users/bbugyi200/machines/athena/hoods/ci_fix/README.md) / ci\_fix.sase.6
 
-**Global name:** `bbugyi200.athena.ci_fix.sase.6` · **State:** dismissed · **Source run:** `run-3f66046ec001b785f88f22b9d0d93e75`
+**Global name:** `bbugyi200.athena.ci_fix.sase.6` · **State:** active · **Source run:** `run-2b64dd5d14e51e3c59d59668751e7cd5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** ci\_fix
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-03T18:51:04.289810 → 2026-08-03T19:07:18.907626
+- Timing: 2026-08-03T22:51:04.289810+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -34,6 +34,9 @@
 | [ci\_fix.sase.3](../bbugyi200.athena.ci_fix.sase.3/README.md) | ci\_fix.sase hood | active |
 | [ci\_fix.sase.4](../bbugyi200.athena.ci_fix.sase.4/README.md) | ci\_fix.sase hood | active |
 | [ci\_fix.sase.5](../bbugyi200.athena.ci_fix.sase.5/README.md) | ci\_fix.sase hood | active |
-| [ci\_fix.sase.7](../bbugyi200.athena.ci_fix.sase.7/README.md) | ci\_fix.sase hood | dismissed |
-| [ci\_fix.sase.8](../bbugyi200.athena.ci_fix.sase.8/README.md) | ci\_fix.sase hood | completed |
-| [ci\_fix.sase.9](../bbugyi200.athena.ci_fix.sase.9/README.md) | ci\_fix.sase hood | active |
+| [ci\_fix.sase.7](../bbugyi200.athena.ci_fix.sase.7/README.md) | ci\_fix.sase hood | waiting |
+| [ci\_fix.sase.8](../bbugyi200.athena.ci_fix.sase.8/README.md) | ci\_fix.sase hood | dismissed |
+| [ci\_fix.sase.9](../bbugyi200.athena.ci_fix.sase.9/README.md) | ci\_fix.sase hood | dismissed |
+| [ci\_fix.sase.a](../bbugyi200.athena.ci_fix.sase.a/README.md) | ci\_fix.sase hood | dismissed |
+| [ci\_fix.sase.b](../bbugyi200.athena.ci_fix.sase.b/README.md) | ci\_fix.sase hood | dismissed |
+| [ci\_fix.sase.c](../bbugyi200.athena.ci_fix.sase.c/README.md) | ci\_fix.sase hood | active |

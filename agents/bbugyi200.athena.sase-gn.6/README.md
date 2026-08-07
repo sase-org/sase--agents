@@ -25,10 +25,10 @@
 |---|---|---|
 | [sase-gn.1](../bbugyi200.athena.sase-gn.1/README.md) | sase-gn hood | completed |
 | [sase-gn.2](../bbugyi200.athena.sase-gn.2/README.md) | sase-gn hood | completed |
-| [sase-gn.3](../bbugyi200.athena.sase-gn.3/README.md) | sase-gn hood | active |
+| [sase-gn.3](../bbugyi200.athena.sase-gn.3/README.md) | sase-gn hood | completed |
 | [sase-gn.4](../bbugyi200.athena.sase-gn.4/README.md) | sase-gn hood | completed |
 | [sase-gn.5](../bbugyi200.athena.sase-gn.5/README.md) | sase-gn hood | completed |
-| [sase-gn.7](../bbugyi200.athena.sase-gn.7/README.md) | sase-gn hood | active |
-| [sase-gn.8](../bbugyi200.athena.sase-gn.8/README.md) | sase-gn hood | waiting |
+| [sase-gn.7](../bbugyi200.athena.sase-gn.7/README.md) | sase-gn hood | completed |
+| [sase-gn.8](../bbugyi200.athena.sase-gn.8/README.md) | sase-gn hood | active |
 | [sase-gn.9](../bbugyi200.athena.sase-gn.9/README.md) | sase-gn hood | waiting |
 | [sase-gn.land](../bbugyi200.athena.sase-gn.land/README.md) | sase-gn hood | waiting |
