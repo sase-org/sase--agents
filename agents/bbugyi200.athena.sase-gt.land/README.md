@@ -23,6 +23,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-gt.land.f0](../bbugyi200.athena.sase-gt.land.f0/README.md) | descendant | waiting |
-| [sase-gt.1](../bbugyi200.athena.sase-gt.1/README.md) | sase-gt hood | active |
-| [sase-gt.2](../bbugyi200.athena.sase-gt.2/README.md) | sase-gt hood | waiting |
+| [sase-gt.1](../bbugyi200.athena.sase-gt.1/README.md) | sase-gt hood | completed |
+| [sase-gt.2](../bbugyi200.athena.sase-gt.2/README.md) | sase-gt hood | active |
 | [sase-gt.3](../bbugyi200.athena.sase-gt.3/README.md) | sase-gt hood | waiting |
