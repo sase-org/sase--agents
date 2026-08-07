@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3297a9277b7267f082e30f9c43f42e1f"}
+{"commits":[{"committed_at":1786077221,"sha":"8b92115e835227b0cd67754d4842ef9ef4183da1","subject":"feat(bead): include snoozed status in default bead list filter"}],"schema_version":2,"source_run_id":"run-3297a9277b7267f082e30f9c43f42e1f"}

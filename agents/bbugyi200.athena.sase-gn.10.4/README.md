@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-07T04:15:20.799919+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8b92115`](https://github.com/sase-org/sase/commit/8b92115e835227b0cd67754d4842ef9ef4183da1) | feat(bead): include snoozed status in default bead list filter | 2026-08-07 00:33:41 EDT |
 
 ## Neighbors
 
