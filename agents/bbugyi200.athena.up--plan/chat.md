@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** up--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-up__plan-260807_093817.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-up__code-260807_093817.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/prompt_cursor_readout.md
 
 
