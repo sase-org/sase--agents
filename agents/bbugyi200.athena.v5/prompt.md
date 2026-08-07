@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me fix the sase-ct sase task bead once and for all? Once you fix the issue make sure you close out the bead after you leave a note describing the root cause. #plan #m_opus

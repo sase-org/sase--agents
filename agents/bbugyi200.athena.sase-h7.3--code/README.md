@@ -23,7 +23,7 @@
 | [sase-h7.10](../bbugyi200.athena.sase-h7.10/README.md) | sase-h7 hood | waiting |
 | [sase-h7.11](../bbugyi200.athena.sase-h7.11/README.md) | sase-h7 hood | waiting |
 | [sase-h7.12](../bbugyi200.athena.sase-h7.12/README.md) | sase-h7 hood | waiting |
-| [sase-h7.2](../bbugyi200.athena.sase-h7.2/README.md) | sase-h7 hood | active |
+| [sase-h7.2](../bbugyi200.athena.sase-h7.2/README.md) | sase-h7 hood | completed |
 | [sase-h7.4](../bbugyi200.athena.sase-h7.4/README.md) | sase-h7 hood | active |
 | [sase-h7.5](../bbugyi200.athena.sase-h7.5/README.md) | sase-h7 hood | waiting |
 | [sase-h7.6](../bbugyi200.athena.sase-h7.6/README.md) | sase-h7 hood | waiting |
