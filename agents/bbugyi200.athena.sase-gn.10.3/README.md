@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-07T04:15:14.968215+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`222dd1e`](https://github.com/sase-org/sase/commit/222dd1e26c9d6f579c0ceb4d97740f7e870e7dc3) | refactor(bead): merge snooze\_duration.py into snooze\_time.py as single wake-time parser | 2026-08-07 00:37:50 EDT |
 
 ## Neighbors
 
@@ -25,7 +31,7 @@
 |---|---|---|
 | [sase-gn.10.1](../bbugyi200.athena.sase-gn.10.1/README.md) | sase-gn.10 hood | active |
 | [sase-gn.10.2](../bbugyi200.athena.sase-gn.10.2/README.md) | sase-gn.10 hood | waiting |
-| [sase-gn.10.4](../bbugyi200.athena.sase-gn.10.4/README.md) | sase-gn.10 hood | active |
+| [sase-gn.10.4](../bbugyi200.athena.sase-gn.10.4/README.md) | sase-gn.10 hood | completed |
 | [sase-gn.10.5](../bbugyi200.athena.sase-gn.10.5/README.md) | sase-gn.10 hood | waiting |
 | [sase-gn.10.land](../bbugyi200.athena.sase-gn.10.land/README.md) | sase-gn.10 hood | waiting |
 | [sase-gn.1](../bbugyi200.athena.sase-gn.1/README.md) | sase-gn hood | completed |
