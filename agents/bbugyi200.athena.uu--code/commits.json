@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-9dd2072b1f41822d70d54e483e5011a0"}
+{"commits":[{"committed_at":1786125139,"sha":"add38d73011e2bcbc08117c6d7e98cefc0f7c7d3","subject":"fix(ace): make Logs pane source rows non-wrapping and compact"}],"schema_version":2,"source_run_id":"run-9dd2072b1f41822d70d54e483e5011a0"}

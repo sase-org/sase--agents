@@ -34,5 +34,5 @@
 | [sase-gz.3](../bbugyi200.athena.sase-gz.3/README.md) | sase-gz hood | completed |
 | [sase-gz.4](../bbugyi200.athena.sase-gz.4/README.md) | sase-gz hood | completed |
 | [sase-gz.5](../bbugyi200.athena.sase-gz.5/README.md) | sase-gz hood | completed |
-| [sase-gz.land](../bbugyi200.athena.sase-gz.land/README.md) | sase-gz hood | active |
-| [sase-gz.land.f0](../bbugyi200.athena.sase-gz.land.f0/README.md) | sase-gz hood | waiting |
+| [sase-gz.land](../bbugyi200.athena.sase-gz.land/README.md) | sase-gz hood | completed |
+| [sase-gz.land.f1](../../families/bbugyi200.athena.sase-gz.land.f1.md) (family · 2) | sase-gz hood | active 2 |
