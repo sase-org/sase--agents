@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1786164448,"sha":"04e4a33b3a7e0e0e1c51596cdeca7ffbb4bfdfb8","subject":"fix(commit): stop closing the assigned bead on commit"}],"schema_version":2,"source_run_id":"run-250c9ae28087d3fac48325b9dc92f8dc"}
