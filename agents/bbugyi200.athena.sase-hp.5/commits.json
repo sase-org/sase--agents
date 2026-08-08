@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5e3fca680e9ffb6065dfe7d7fd204c75"}
+{"commits":[{"committed_at":1786227653,"sha":"e213d03f9240101ba674cbec0f40ebb520fd0bf6","subject":"feat(tui): show xprompt target state in prompt bar"},{"committed_at":1786228911,"sha":"bcf5748b6bf736a87b44f2100cc7f7f501b10133","subject":"test(tui): accept read-only xprompt target path"}],"schema_version":2,"source_run_id":"run-5e3fca680e9ffb6065dfe7d7fd204c75"}

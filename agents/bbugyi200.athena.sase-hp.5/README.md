@@ -13,11 +13,18 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-08T21:13:10.894961+00:00
-- Commits: 0
+- Commits: [2](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`e213d03`](https://github.com/sase-org/sase/commit/e213d03f9240101ba674cbec0f40ebb520fd0bf6) | feat(tui): show xprompt target state in prompt bar | 2026-08-08 18:20:53 EDT |
+| sase | [`bcf5748`](https://github.com/sase-org/sase/commit/bcf5748b6bf736a87b44f2100cc7f7f501b10133) | test(tui): accept read-only xprompt target path | 2026-08-08 18:41:51 EDT |
 
 ## Neighbors
 
