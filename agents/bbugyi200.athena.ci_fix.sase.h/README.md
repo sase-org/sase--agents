@@ -41,3 +41,4 @@
 | [ci\_fix.sase.g](../bbugyi200.athena.ci_fix.sase.g/README.md) | ci\_fix.sase hood | active |
 | [ci\_fix.sase.i](../bbugyi200.athena.ci_fix.sase.i/README.md) | ci\_fix.sase hood | active |
 | [ci\_fix.sase.j](../bbugyi200.athena.ci_fix.sase.j/README.md) | ci\_fix.sase hood | dismissed |
+| [ci\_fix.sase.k](../bbugyi200.athena.ci_fix.sase.k/README.md) | ci\_fix.sase hood | active |
