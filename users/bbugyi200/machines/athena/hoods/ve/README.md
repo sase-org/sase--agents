@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [ve](../../../../../../agents/bbugyi200.athena.ve/README.md) | failed | opus / claude | 2026-08-08T00:30:55.032639+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.ve/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.ve/chat.md) |
+| [ve](../../../../../../agents/bbugyi200.athena.ve/README.md) | failed | opus / claude | 2026-08-08T00:30:55.032639+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.ve/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.ve/prompt.md) |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-h8](../../users/bbugyi200/machines/athena/hoods/sase-h8/README.md) / sase-h8.land
 
-**Global name:** `bbugyi200.athena.sase-h8.land` · **State:** waiting · **Source run:** `run-7a892b3497649031c6e907becc2ec476`
+**Global name:** `bbugyi200.athena.sase-h8.land` · **State:** waiting · **Source run:** `run-2d60d379d531b20a5cf472b7b0ed4244`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-h8
 
@@ -11,7 +11,7 @@
 - Bead: [sase-h8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-h8/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260807180922
+- Timing: 20260807200440
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-h8.1](../bbugyi200.athena.sase-h8.1/README.md) | sase-h8 hood | active |
-| [sase-h8.2](../bbugyi200.athena.sase-h8.2/README.md) | sase-h8 hood | active |
+| [sase-h8.2](../bbugyi200.athena.sase-h8.2/README.md) | sase-h8 hood | completed |
 | [sase-h8.3](../bbugyi200.athena.sase-h8.3/README.md) | sase-h8 hood | waiting |
 | [sase-h8.4](../bbugyi200.athena.sase-h8.4/README.md) | sase-h8 hood | waiting |
 | [sase-h8.5](../bbugyi200.athena.sase-h8.5/README.md) | sase-h8 hood | waiting |
