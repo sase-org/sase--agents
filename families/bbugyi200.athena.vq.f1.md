@@ -18,10 +18,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | vq.f1--plan | active | gpt-5.6-sol / codex | 2026-08-08T15:38:13.361378+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.vq.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.vq.f1--plan/chat.md) |
-| <a id="member-code"></a>code | vq.f1--code | active | gpt-5.5 / codex | 2026-08-08T15:44:45.983187+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | vq.f1--code | active | gpt-5.5 / codex | 2026-08-08T15:44:45.983187+00:00 | [1](../agents/bbugyi200.athena.vq.f1--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`4bf7805`](https://github.com/sase-org/sase/commit/4bf78056c0bf22fe487fd2d402ff8a8a5b9d382a) | feat(config)!: nest file hook filters | 2026-08-08 12:28:49 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [vq](bbugyi200.athena.vq.md) (family · 2) | ancestor | completed 2 |
+| [vq.f0](../agents/bbugyi200.athena.vq.f0/README.md) | vq hood | active |

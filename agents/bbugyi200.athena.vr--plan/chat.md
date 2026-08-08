@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** vr--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-vr__plan-260808_112743.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-vr__code-260808_112743.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/document_muse_code_support.md
 
 
