@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | vo.f0--code | active | gpt-5.5 / codex | 2026-08-08T15:36:58.515589+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | vo.f0--code | active | gpt-5.5 / codex | 2026-08-08T15:36:58.515589+00:00 | [1](../agents/bbugyi200.athena.vo.f0--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | vo.f0--plan | active | gpt-5.6-sol / codex | 2026-08-08T15:25:58.185253+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.vo.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.vo.f0--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`f4dfc26`](https://github.com/sase-org/sase/commit/f4dfc2626ba425bb9b24e55f65518a317ed172e4) | feat(beads): simplify snooze gate duration input | 2026-08-08 11:54:01 EDT |
 
 ## Neighbors
 

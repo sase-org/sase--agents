@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-80e5a09e2432bdf19ad85f606baf1c06"}
+{"commits":[{"committed_at":1786204441,"sha":"f4dfc2626ba425bb9b24e55f65518a317ed172e4","subject":"feat(beads): simplify snooze gate duration input"}],"schema_version":2,"source_run_id":"run-80e5a09e2432bdf19ad85f606baf1c06"}

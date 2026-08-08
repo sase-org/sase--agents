@@ -11,7 +11,13 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-08T15:36:58.515589+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`f4dfc26`](https://github.com/sase-org/sase/commit/f4dfc2626ba425bb9b24e55f65518a317ed172e4) | feat(beads): simplify snooze gate duration input | 2026-08-08 11:54:01 EDT |
 
 ## Neighbors
 
