@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1d18415058f3657ad41c222dc2fb39ac"}
+{"commits":[{"committed_at":1786212125,"sha":"38fd25afdcda3481debf5324697ebf034eed62dd","subject":"test: replace contract runtime oracle with manifest budget"}],"schema_version":2,"source_run_id":"run-1d18415058f3657ad41c222dc2fb39ac"}

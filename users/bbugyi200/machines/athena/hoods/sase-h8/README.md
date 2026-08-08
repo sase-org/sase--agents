@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-h8
 
-**Global hood:** `bbugyi200.athena.sase-h8` · **Runs:** 19 · **Families:** 0 · **States:** active 2, completed 13, failed 2, waiting 2
+**Global hood:** `bbugyi200.athena.sase-h8` · **Runs:** 19 · **Families:** 0 · **States:** active 1, completed 14, failed 2, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-h8.10.5.1](../../../../../../agents/bbugyi200.athena.sase-h8.10.5.1/README.md) | active | gpt-5.5 / codex | 2026-08-08T17:29:06.707384+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h8.10.5.1/prompt.md) |
+| [sase-h8.10.5.1](../../../../../../agents/bbugyi200.athena.sase-h8.10.5.1/README.md) | active | gpt-5.5 / codex | 2026-08-08T17:29:06.707384+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h8.10.5.1/prompt.md) |
 | [sase-h8.10.1](../../../../../../agents/bbugyi200.athena.sase-h8.10.1/README.md) | completed | gpt-5.5 / codex | 2026-08-08T14:57:39.105092+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h8.10.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-h8.10.1/chat.md) |
 | [sase-h8.land](../../../../../../agents/bbugyi200.athena.sase-h8.land/README.md) | failed | opus / claude | 2026-08-08T14:42:55.233513+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h8.land/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-h8.land/chat.md) |
 | [sase-h8.6](../../../../../../agents/bbugyi200.athena.sase-h8.6/README.md) | completed | opus / claude | 2026-08-08T01:52:04.175516+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h8.6/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-h8.6/chat.md) |
@@ -14,7 +14,7 @@
 | [sase-h8.9](../../../../../../agents/bbugyi200.athena.sase-h8.9/README.md) | completed | sonnet / claude | 2026-08-08T14:15:28.392649+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h8.9/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-h8.9/chat.md) |
 | [sase-h8.5](../../../../../../agents/bbugyi200.athena.sase-h8.5/README.md) | completed | opus / claude | 2026-08-08T01:52:02.138633+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h8.5/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-h8.5/chat.md) |
 | [sase-h8.8](../../../../../../agents/bbugyi200.athena.sase-h8.8/README.md) | completed | opus / claude | 2026-08-08T13:45:10.169588+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h8.8/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-h8.8/chat.md) |
-| [sase-h8.10.5.2](../../../../../../agents/bbugyi200.athena.sase-h8.10.5.2/README.md) | active | gpt-5.5 / codex | 2026-08-08T17:29:11.841345+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h8.10.5.2/prompt.md) |
+| [sase-h8.10.5.2](../../../../../../agents/bbugyi200.athena.sase-h8.10.5.2/README.md) | completed | gpt-5.5 / codex | 2026-08-08T17:29:11.841345+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h8.10.5.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-h8.10.5.2/chat.md) |
 | [sase-h8.10.5.3](../../../../../../agents/bbugyi200.athena.sase-h8.10.5.3/README.md) | waiting | sonnet / claude | 20260808132854 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h8.10.5.3/prompt.md) |
 | [sase-h8.4](../../../../../../agents/bbugyi200.athena.sase-h8.4/README.md) | completed | opus / claude | 2026-08-08T01:52:07.830707+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h8.4/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-h8.4/chat.md) |
 | [sase-h8.3](../../../../../../agents/bbugyi200.athena.sase-h8.3/README.md) | completed | opus / claude | 2026-08-08T01:09:10.020259+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h8.3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-h8.3/chat.md) |
