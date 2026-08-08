@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:vo Can you now help me remove the enum input from task bead sase gates and instead just accept a single, required line argument (with a required date part and optional `+<N>` part)? #plan

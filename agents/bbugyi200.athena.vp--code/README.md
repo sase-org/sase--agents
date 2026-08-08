@@ -11,4 +11,10 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-08T15:15:33.116833+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`e802815`](https://github.com/sase-org/sase/commit/e8028151ef32819e637fe4062400c0387383a038) | feat: show selected snooze countdown in notifications | 2026-08-08 11:41:20 EDT |
