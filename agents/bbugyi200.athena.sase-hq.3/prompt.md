@@ -1,5 +1,5 @@
+%id(3, clan=sase-hq)
 #gh:gh_sase-org__sase
-%id(3, clan=sase-hq, bead=sase-hq.3)
 %model:@medium_phase_worker
 %auto
 %w:sase-hq.1,sase-hq.2

@@ -1283,7 +1283,7 @@
 | [sase-hn](hoods/sase-hn/README.md) | 11 | 3 | active 3, completed 5, waiting 3 |
 | [sase-ho](hoods/sase-ho/README.md) | 9 | 2 | active 1, completed 6, waiting 2 |
 | [sase-hp](hoods/sase-hp/README.md) | 8 | 0 | active 1, completed 4, waiting 3 |
-| [sase-hq](hoods/sase-hq/README.md) | 7 | 0 | active 1, completed 1, waiting 5 |
+| [sase-hq](hoods/sase-hq/README.md) | 7 | 0 | active 1, completed 2, waiting 4 |
 | [sase-hu](hoods/sase-hu/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |
