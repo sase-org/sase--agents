@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [vq](../../users/bbugyi200/machines/athena/hoods/vq/README.md) / [vq](../../families/bbugyi200.athena.vq.md) / vq--code
 
-**Global name:** `bbugyi200.athena.vq--code` · **State:** active · **Source run:** `run-844b8b057d455283534e94504bae114f`
+**Global name:** `bbugyi200.athena.vq--code` · **State:** completed · **Source run:** `run-844b8b057d455283534e94504bae114f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** vq
 
@@ -13,8 +13,12 @@
 - Timing: 2026-08-08T15:22:46.697439+00:00
 - Commits: 0
 
+## Files
+
+[Chat](chat.md)
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [vq.f0](../bbugyi200.athena.vq.f0/README.md) | descendant | waiting |
+| [vq.f1](../../families/bbugyi200.athena.vq.f1.md) (family · 2) | descendant | active 2 |

@@ -1,0 +1,2 @@
+#gh:gh_sase-org__sase
+%w:sase-hf.land Can you now help me make it so xprompt skills are invoked using the `#skill/` prefix instead of the `#skills/` prefix? Also, we made it a requirement that xprompt skills are defined in sase/skills/ directories. This is correct but there should be one exception, namely any builtin xprompt skills should be defined in the src/sase/xprompts/skills/ directory, not the src/sase/skills/ directory.  #plan

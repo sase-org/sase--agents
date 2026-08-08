@@ -1,0 +1,11 @@
+%clan(research.03, tribe=research,
+summary=[[[bold]RESEARCH PROMPT:[/bold] I wanted to find a reliable way to invoke xprompts by tag
+instead of by name. Can you do some research to help me decide the best way to implement
+this? Make sure you audit this codebase for existing xprompt tags and understand their
+purpose/usage before diving too deep into your research. End your analysis with a
+recommended solution.]]) %id:research.03.cdx
+%wait(priority=20) %model:@research_a #gh:gh_sase-org__sase I wanted to find a reliable way to invoke xprompts by tag
+instead of by name. Can you do some research to help me decide the best way to implement
+this? Make sure you audit this codebase for existing xprompt tags and understand their
+purpose/usage before diving too deep into your research. End your analysis with a
+recommended solution. #research
