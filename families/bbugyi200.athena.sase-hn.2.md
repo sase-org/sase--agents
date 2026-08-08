@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-hn.2--code | active | gpt-5.5 / codex | 2026-08-08T19:51:02.061997+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-hn.2--code | active | gpt-5.5 / codex | 2026-08-08T19:51:02.061997+00:00 | [1](../agents/bbugyi200.athena.sase-hn.2--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-hn.2--plan | active | gpt-5.6-sol / codex | 2026-08-08T19:47:12.287518+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-hn.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-hn.2--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`6367ef3`](https://github.com/sase-org/sase/commit/6367ef34734011e7ebe37885b7bf074260627412) | refactor(patch): canonicalize Python patch storage | 2026-08-08 17:04:42 EDT |
 
 ## Neighbors
 

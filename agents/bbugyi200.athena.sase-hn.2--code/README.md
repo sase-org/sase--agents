@@ -13,7 +13,13 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-08T19:51:02.061997+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`6367ef3`](https://github.com/sase-org/sase/commit/6367ef34734011e7ebe37885b7bf074260627412) | refactor(patch): canonicalize Python patch storage | 2026-08-08 17:04:42 EDT |
 
 ## Neighbors
 
