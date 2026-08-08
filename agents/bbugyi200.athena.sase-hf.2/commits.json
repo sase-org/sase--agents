@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-82375f4f3ba01ca00602fc1262dc8666"}
+{"commits":[{"committed_at":1786198307,"sha":"1c45d483f83e0a0f96dfa1558b5d661e8becd25d","subject":"feat(xprompt): load memory notes as xprompts"}],"schema_version":2,"source_run_id":"run-82375f4f3ba01ca00602fc1262dc8666"}
