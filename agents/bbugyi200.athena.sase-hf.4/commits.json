@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8c0d679dcd501b89a8103189cba3957e"}
+{"commits":[{"committed_at":1786199458,"sha":"5f0da4b331d7b72587fa8090954899a11fb5acff","subject":"docs(xprompt): document explicit #memory/<stem> inclusion and regenerate memory outputs"}],"schema_version":2,"source_run_id":"run-8c0d679dcd501b89a8103189cba3957e"}
