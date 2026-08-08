@@ -24,6 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
+| [sase-ho.2](bbugyi200.athena.sase-ho.2.md) (family · 2) | sase-ho hood | active 2 |
 | [sase-ho.2](../agents/bbugyi200.athena.sase-ho.2/README.md) | sase-ho hood | waiting |
 | [sase-ho.3](../agents/bbugyi200.athena.sase-ho.3/README.md) | sase-ho hood | waiting |
 | [sase-ho.4](../agents/bbugyi200.athena.sase-ho.4/README.md) | sase-ho hood | waiting |

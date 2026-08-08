@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-hn](../../users/bbugyi200/machines/athena/hoods/sase-hn/README.md) / [sase-hn.2](../../families/bbugyi200.athena.sase-hn.2.md) / sase-hn.2--code
 
-**Global name:** `bbugyi200.athena.sase-hn.2--code` · **State:** active · **Source run:** `run-23d5f4e52da2839c4cb557e896be9b6f`
+**Global name:** `bbugyi200.athena.sase-hn.2--code` · **State:** active · **Source run:** `run-64b9d2dc526d93d29132a018ba87d67d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-hn
 
@@ -12,7 +12,7 @@
 - Epic: [sase-hn](https://github.com/sase-org/sase--beads/blob/main/pages/sase-hn/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-08T17:46:46.847930+00:00
+- Timing: 2026-08-08T19:51:02.061997+00:00
 - Commits: 0
 
 ## Neighbors

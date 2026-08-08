@@ -1,10 +1,10 @@
 # Chat History - ace-run (sase-hn.2--plan)
 
-- **TIMESTAMP:** 2026-08-08 13:46:36 EDT
+- **TIMESTAMP:** 2026-08-08 15:50:53 EDT
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-hn.2--plan
 
-**Plan:** /home/bryan/.sase/plans/202608/python_patch_storage.md
+**Plan:** /home/bryan/.sase/plans/202608/complete_python_patch_storage.md
 
 
 ## Prompt
@@ -13,7 +13,6 @@
 %id(2, clan=sase-hn, bead=sase-hn.2)
 %model:@large_phase_worker
 %auto
-%w:sase-hn.1
 %w(bead=sase-hn.1)
 Can you complete the work for bead sase-hn.2? The bead is already reserved for you and assigned to your agent
 name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
@@ -33,18 +32,18 @@ before making any file changes.
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202608/python_patch_storage.md`
+**Plan file:** `/home/bryan/.sase/plans/202608/complete_python_patch_storage.md`
 
 > - **PARENT:**
 >   [202608/patch_and_stitch_terminology.md](202608/patch_and_stitch_terminology.md)
 > - **BEAD:** sase-hn.2
-> # Complete `sase-hn.2`: canonical Python Patch domain and ProjectSpec storage
+> # Complete the Python Patch and ProjectSpec storage migration
 > ## Goal
-> Make `sase.ace.patch` and the Python `Patch`/`Stitch` wire surface canonical while
-> preserving the behavior and data contracts of the existing ChangeSpec implementation.
-> Both canonical (`## Patch`, `STITCHES:`, `stitches`, `stitch_id`) and legacy
-> (`## ChangeSpec`, `COMMITS:`, `commits`, `commit_entry_num`/`entry_id`) inputs must
-> remain readable. Existing legacy Python imports and attributes must remain thin aliases
+> Finish phase `sase-hn.2` so `sase.ace.patch` is the canonical Python domain and
+> ProjectSpec storage implementation for Patch/Stitch terminology, while
+> `sase.ace.changespec` remains a thin, tested compatibility facade. Preserve all workflow
+> behavior, legacy imports and attributes, legacy `## ChangeSpec` / `COMMITS:` data,
+> proposal stitch IDs such as `2a`, and deterministic ProjectSpec/wire output.
 
 *See full plan file for details.*
 

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5bcd602be8baecad62a616a8d8c673a1"}
+{"commits":[{"committed_at":1786220125,"sha":"5170a3986737e900e2858d7a5897ac34e896a9cc","subject":"fix: validate current skill layout binding contract"}],"schema_version":2,"source_run_id":"run-8e62e4c9f56d80cef963c93ddc6ff993"}

@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-hi.4.2](../bbugyi200.athena.sase-hi.4.2/README.md) | sase-hi.4 hood | dismissed |
+| [sase-hi.4.2](../bbugyi200.athena.sase-hi.4.2/README.md) | sase-hi.4 hood | active |
 | [sase-hi.4.3](../bbugyi200.athena.sase-hi.4.3/README.md) | sase-hi.4 hood | waiting |
 | [sase-hi.4.land](../bbugyi200.athena.sase-hi.4.land/README.md) | sase-hi.4 hood | waiting |
 | [sase-hi.1](../bbugyi200.athena.sase-hi.1/README.md) | sase-hi hood | completed |

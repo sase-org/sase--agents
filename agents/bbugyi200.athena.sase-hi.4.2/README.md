@@ -2,17 +2,28 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-hi](../../users/bbugyi200/machines/athena/hoods/sase-hi/README.md) / sase-hi.4.2
 
-**Global name:** `bbugyi200.athena.sase-hi.4.2` · **State:** dismissed · **Source run:** `run-5bcd602be8baecad62a616a8d8c673a1`
+**Global name:** `bbugyi200.athena.sase-hi.4.2` · **State:** active · **Source run:** `run-8e62e4c9f56d80cef963c93ddc6ff993`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-hi
 
 ## Summary
 
 - Bead: [sase-hi.4.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-hi/sase-hi.4.2.md)
+- Epic: [sase-hi.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-hi/sase-hi.4.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-08T15:14:14.117338
-- Commits: 0
+- Timing: 2026-08-08T19:48:31.887374+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`5170a39`](https://github.com/sase-org/sase/commit/5170a3986737e900e2858d7a5897ac34e896a9cc) | fix: validate current skill layout binding contract | 2026-08-08 16:15:25 EDT |
 
 ## Neighbors
 
