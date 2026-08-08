@@ -1274,7 +1274,7 @@
 | [sase-hc](hoods/sase-hc/README.md) | 1 | 0 | active 1 |
 | [sase-hd](hoods/sase-hd/README.md) | 1 | 0 | active 1 |
 | [sase-he](hoods/sase-he/README.md) | 1 | 0 | active 1 |
-| [sase-hf](hoods/sase-hf/README.md) | 8 | 0 | active 2, completed 2, dismissed 1, waiting 3 |
+| [sase-hf](hoods/sase-hf/README.md) | 8 | 0 | active 1, completed 3, dismissed 1, waiting 3 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-0q](hoods/sase_fix_just-0q/README.md) | 1 | 0 | active 1 |

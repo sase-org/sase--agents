@@ -13,11 +13,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-08T14:13:28.746464+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`7631dc2`](https://github.com/sase-org/sase/commit/7631dc218a3f69616968d44d885ae231c5a351cd) | feat: expose memory entries across xprompt surfaces | 2026-08-08 11:00:06 EDT |
 
 ## Neighbors
 
@@ -25,7 +31,7 @@
 |---|---|---|
 | [sase-hf.1](../bbugyi200.athena.sase-hf.1/README.md) | sase-hf hood | completed |
 | [sase-hf.2](../bbugyi200.athena.sase-hf.2/README.md) | sase-hf hood | completed |
-| [sase-hf.4](../bbugyi200.athena.sase-hf.4/README.md) | sase-hf hood | active |
+| [sase-hf.4](../bbugyi200.athena.sase-hf.4/README.md) | sase-hf hood | completed |
 | [sase-hf.5](../bbugyi200.athena.sase-hf.5/README.md) | sase-hf hood | waiting |
 | [sase-hf.land](../bbugyi200.athena.sase-hf.land/README.md) | sase-hf hood | waiting |
 | [sase-hf.land.w0](../bbugyi200.athena.sase-hf.land.w0/README.md) | sase-hf hood | dismissed |
