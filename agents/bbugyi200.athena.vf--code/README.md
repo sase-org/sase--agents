@@ -11,4 +11,10 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-08T01:35:22.587492+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3e19085`](https://github.com/sase-org/sase/commit/3e19085ab4be7f5b8d335bfc4001184483845549) | feat(ace): restore direct saved-PR-query slot keys behind a 0 prefix | 2026-08-07 22:11:26 EDT |
