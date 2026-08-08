@@ -6,8 +6,8 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-fb.1](../../../../../../agents/bbugyi200.athena.sase-fb.1/README.md) | active | opus / claude | 2026-08-05T19:47:48.960134+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-fb.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-fb.1/chat.md) |
-| [sase-fb.land](../../../../../../agents/bbugyi200.athena.sase-fb.land/README.md) | active | sonnet / claude | 2026-08-05T22:15:53.357501+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-fb.land/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-fb.land/chat.md) |
+| [sase-fb.1](../../../../../../agents/bbugyi200.athena.sase-fb.1/README.md) | active | opus / claude | 2026-08-05T19:47:48.960134+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-fb.1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-fb.1/prompt.md) |
+| [sase-fb.land](../../../../../../agents/bbugyi200.athena.sase-fb.land/README.md) | active | sonnet / claude | 2026-08-05T22:15:53.357501+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-fb.land/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-fb.land/prompt.md) |
 | [sase-fb.3-1](../../../../../../agents/bbugyi200.athena.sase-fb.3-1/README.md) | active | opus / claude | 2026-08-05T21:51:18.501450+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-fb.3-1/prompt.md) |
-| [sase-fb.2](../../../../../../agents/bbugyi200.athena.sase-fb.2/README.md) | active | opus / claude | 2026-08-05T19:47:54.075377+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-fb.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-fb.2/chat.md) |
+| [sase-fb.2](../../../../../../agents/bbugyi200.athena.sase-fb.2/README.md) | active | opus / claude | 2026-08-05T19:47:54.075377+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-fb.2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-fb.2/prompt.md) |
 | [sase-fb.3](../../../../../../agents/bbugyi200.athena.sase-fb.3/README.md) | active | sonnet / claude | 2026-08-05T21:18:39.158031+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-fb.3/prompt.md) |

@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-ht](../../../../../../agents/bbugyi200.athena.sase-ht/README.md) | completed | sonnet / claude | 2026-08-08T21:56:41.566759+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ht/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-ht/chat.md) |
+| [sase-ht](../../../../../../agents/bbugyi200.athena.sase-ht/README.md) | completed | sonnet / claude | 2026-08-08T21:56:41.566759+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-ht/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-ht/prompt.md) |

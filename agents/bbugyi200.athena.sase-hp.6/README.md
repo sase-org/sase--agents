@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-08T22:51:24.579847+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`65f82cc`](https://github.com/sase-org/sase/commit/65f82ccd9f52946f2633b7aa0d986cefc7732858) | docs(ace): document xprompt targeting/save-flow entry points and fix stale help text | 2026-08-08 19:32:01 EDT |
 
 ## Neighbors
 
