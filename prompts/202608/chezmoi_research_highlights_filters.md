@@ -223,3 +223,15 @@ appropriate tier, validate and revalidate until it passes, then submit it with
 path_globs: ["20*/**/*.md", "!20*/*/*__*.md"]
 agent_name_globs: ["!research.*.cld", "!research.*.cdx"]
 ```
+
+%xprompts_enabled:false
+### Questions and Answers
+
+#### Q1: Description wording
+
+> The plan flags one open judgment call: should the research-highlights hook description also be updated (dropping "consolidated", since the hook now also covers ordinary top-level reports), or should I keep the description verbatim and change only the glob/filter lines?
+
+- [x] **Update description** — Drop "consolidated" per step 10 of the parent plan, matching the new broader behavior
+- [ ] **Keep verbatim** — Strictly minimal diff — change only the globs -> path_globs/agent_name_globs lines
+
+%xprompts_enabled:true
