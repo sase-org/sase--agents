@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-fb21e5b3150543c948e67f40701c4013"}
+{"commits":[{"committed_at":1786154210,"sha":"85d12614e2ae2ab6acc5b4455bba095e91bdb297","subject":"feat(agent-clis): add a confirmed, shell-free `sase agent-cli install`"}],"schema_version":2,"source_run_id":"run-fb21e5b3150543c948e67f40701c4013"}
