@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `v4` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["v4--code [active]"]
-  n1["v4--plan [active]"]
+  n0["v4--code [completed]"]
+  n1["v4--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | v4--code | active | sonnet / claude | 2026-08-07T21:21:26.932090+00:00 | [1](../agents/bbugyi200.athena.v4--code/README.md#commits) | — | — |
-| <a id="member-plan"></a>plan | v4--plan | active | opus / claude | 2026-08-07T21:09:04.596316+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.v4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.v4--plan/chat.md) |
+| <a id="member-code"></a>code | v4--code | completed | sonnet / claude | 2026-08-07T21:21:26.932090+00:00 | [1](../agents/bbugyi200.athena.v4--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.v4--code/chat.md) |
+| <a id="member-plan"></a>plan | v4--plan | completed | opus / claude | 2026-08-07T21:09:04.596316+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.v4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.v4--plan/chat.md) |
 
 ## Commits
 

@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-77.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-77/sase-77.4.md)
 - Model: haiku
 - Provider: claude
 - Timing: 2026-07-19T14:37:00.719298+00:00
@@ -31,4 +32,3 @@
 | [sase-77.2](../bbugyi200.athena.sase-77.2/README.md) | sase-77 hood | active |
 | [sase-77.3](../bbugyi200.athena.sase-77.3/README.md) | sase-77 hood | active |
 | [sase-77.land](../../families/bbugyi200.athena.sase-77.land.md) (family · 2) | sase-77 hood | active 1, completed 1 |
-| [sase-77.land](../bbugyi200.athena.sase-77.land/README.md) | sase-77 hood | completed |

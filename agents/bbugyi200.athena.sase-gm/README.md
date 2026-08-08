@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-gm](../../users/bbugyi200/machines/athena/hoods/sase-gm/README.md) / sase-gm
 
-**Global name:** `bbugyi200.athena.sase-gm` · **State:** completed · **Source run:** `run-9ed54564e8b340681288427aa028422e`
+**Global name:** `bbugyi200.athena.sase-gm` · **State:** active · **Source run:** `run-9ed54564e8b340681288427aa028422e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-gm
 

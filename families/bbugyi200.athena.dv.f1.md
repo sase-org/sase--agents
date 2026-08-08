@@ -30,5 +30,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [dv](../agents/bbugyi200.athena.dv/README.md) | ancestor | completed |
+| [dv](bbugyi200.athena.dv.md) (family · 2) | ancestor | active 1, completed 1 |
 | [dv.f0](../agents/bbugyi200.athena.dv.f0/README.md) | dv hood | active |

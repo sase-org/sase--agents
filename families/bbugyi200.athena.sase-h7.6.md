@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-h7` · Members: 2 · Bead: [sase-h7.6](
 
 ```mermaid
 flowchart TD
-  n0["sase-h7.6--code [active]"]
-  n1["sase-h7.6--plan [active]"]
+  n0["sase-h7.6--code [completed]"]
+  n1["sase-h7.6--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-h7.6--code | active | sonnet / claude | 2026-08-08T00:10:51.331893+00:00 | [1](../agents/bbugyi200.athena.sase-h7.6--code/README.md#commits) | — | — |
-| <a id="member-plan"></a>plan | sase-h7.6--plan | active | opus / claude | 2026-08-08T00:01:35.337479+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-h7.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-h7.6--plan/chat.md) |
+| <a id="member-code"></a>code | sase-h7.6--code | completed | sonnet / claude | 2026-08-08T00:10:51.331893+00:00 | [1](../agents/bbugyi200.athena.sase-h7.6--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-h7.6--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-h7.6--plan | completed | opus / claude | 2026-08-08T00:01:35.337479+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-h7.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-h7.6--plan/chat.md) |
 
 ## Commits
 
@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-h7.1](../agents/bbugyi200.athena.sase-h7.1/README.md) | sase-h7 hood | dismissed |
 | [sase-h7.10](../agents/bbugyi200.athena.sase-h7.10/README.md) | sase-h7 hood | completed |
-| [sase-h7.11](../agents/bbugyi200.athena.sase-h7.11/README.md) | sase-h7 hood | waiting |
+| [sase-h7.11](../agents/bbugyi200.athena.sase-h7.11/README.md) | sase-h7 hood | active |
 | [sase-h7.12](../agents/bbugyi200.athena.sase-h7.12/README.md) | sase-h7 hood | waiting |
 | [sase-h7.2](../agents/bbugyi200.athena.sase-h7.2/README.md) | sase-h7 hood | dismissed |
 | [sase-h7.3](bbugyi200.athena.sase-h7.3.md) (family · 2) | sase-h7 hood | completed 1, dismissed 1 |

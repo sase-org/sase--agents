@@ -21,6 +21,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [fi](../bbugyi200.athena.fi/README.md) | ancestor | completed |
+| [fi](../../families/bbugyi200.athena.fi.md) (family · 2) | ancestor | active 1, completed 1 |
 | [fi--code.f0](../../families/bbugyi200.athena.fi--code.f0.md) (family · 2) | fi hood | active 2 |
 | [fi.f0](../bbugyi200.athena.fi.f0/README.md) | fi hood | active |

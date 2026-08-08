@@ -29,4 +29,3 @@
 |---|---|---|
 | [7j](../../families/bbugyi200.athena.7j.md) (family · 2) | ancestor | active 1, completed 1 |
 | [7j.f-0.f0](../../families/bbugyi200.athena.7j.f-0.f0.md) (family · 2) | descendant | active 1, completed 1 |
-| [7j.f-0.f0](../bbugyi200.athena.7j.f-0.f0/README.md) | descendant | completed |

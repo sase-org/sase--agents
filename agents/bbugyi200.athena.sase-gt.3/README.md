@@ -26,5 +26,5 @@
 | [sase-gt.1](../bbugyi200.athena.sase-gt.1/README.md) | sase-gt hood | completed |
 | [sase-gt.2](../bbugyi200.athena.sase-gt.2/README.md) | sase-gt hood | completed |
 | [sase-gt.land](../bbugyi200.athena.sase-gt.land/README.md) | sase-gt hood | completed |
-| [sase-gt.land.f0](../bbugyi200.athena.sase-gt.land.f0/README.md) | sase-gt hood | dismissed |
-| [sase-gt.land.f1](../bbugyi200.athena.sase-gt.land.f1/README.md) | sase-gt hood | failed |
+| [sase-gt.land.f0](../bbugyi200.athena.sase-gt.land.f0/README.md) | sase-gt hood | waiting |
+| [sase-gt.land.f1](../bbugyi200.athena.sase-gt.land.f1/README.md) | sase-gt hood | active |

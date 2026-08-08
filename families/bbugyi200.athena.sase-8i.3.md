@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-8i](../users/bbugyi200/machines/athena/hoods/sase-8i/README.md) / sase-8i.3
 
-Owner: `bbugyi200.athena` · Hood: `sase-8i` · Members: 2
+Owner: `bbugyi200.athena` · Hood: `sase-8i` · Members: 2 · Bead: [sase-8i.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-8i/sase-8i.3.md)
 
 ## Lineage
 
@@ -32,5 +32,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-8i.1](../agents/bbugyi200.athena.sase-8i.1/README.md) | sase-8i hood | active |
 | [sase-8i.2](bbugyi200.athena.sase-8i.2.md) (family · 2) | sase-8i hood | active 1, completed 1 |
-| [sase-8i.2](../agents/bbugyi200.athena.sase-8i.2/README.md) | sase-8i hood | completed |
 | [sase-8i.land](../agents/bbugyi200.athena.sase-8i.land/README.md) | sase-8i hood | active |

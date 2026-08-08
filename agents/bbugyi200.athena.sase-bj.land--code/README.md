@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-bj](https://github.com/sase-org/sase--beads/blob/main/pages/sase-bj/README.md)
 - Model: gpt-5.3-codex-spark
 - Provider: codex
 - Timing: 2026-07-31T13:44:03.021863+00:00

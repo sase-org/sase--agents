@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [n6](../../users/bbugyi200/machines/athena/hoods/n6/README.md) / n6.f0.f0
 
-**Global name:** `bbugyi200.athena.n6.f0.f0` · **State:** failed · **Source run:** `run-66158d88ecf196454449fdc1771dfa4e`
+**Global name:** `bbugyi200.athena.n6.f0.f0` · **State:** active · **Source run:** `run-66158d88ecf196454449fdc1771dfa4e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** n6
 

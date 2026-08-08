@@ -2,12 +2,14 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-fl](../../users/bbugyi200/machines/athena/hoods/sase-fl/README.md) / sase-fl.1
 
-**Global name:** `bbugyi200.athena.sase-fl.1` · **State:** completed · **Source run:** `run-73657f2e2fded047bb41d5950e363d4a`
+**Global name:** `bbugyi200.athena.sase-fl.1` · **State:** active · **Source run:** `run-73657f2e2fded047bb41d5950e363d4a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-fl
 
 ## Summary
 
+- Bead: [sase-fl.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-fl/sase-fl.1.md)
+- Epic: [sase-fl](https://github.com/sase-org/sase--beads/blob/main/pages/sase-fl/README.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-05T22:33:45.952379+00:00
@@ -27,6 +29,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-fl.2](../bbugyi200.athena.sase-fl.2/README.md) | sase-fl hood | completed |
+| [sase-fl.2](../bbugyi200.athena.sase-fl.2/README.md) | sase-fl hood | active |
 | [sase-fl.3](../bbugyi200.athena.sase-fl.3/README.md) | sase-fl hood | active |
-| [sase-fl.land](../bbugyi200.athena.sase-fl.land/README.md) | sase-fl hood | waiting |
+| [sase-fl.land](../bbugyi200.athena.sase-fl.land/README.md) | sase-fl hood | active |

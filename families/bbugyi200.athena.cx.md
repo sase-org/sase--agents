@@ -31,7 +31,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [cx.f0](bbugyi200.athena.cx.f0.md) (family · 2) | descendant | active 1, completed 1 |
-| [cx.f0](../agents/bbugyi200.athena.cx.f0/README.md) | descendant | completed |
 | [cx.w0.w0](../agents/bbugyi200.athena.cx.w0.w0/README.md) | descendant | active |
 | [cx.w0.w1.w0](../agents/bbugyi200.athena.cx.w0.w1.w0/README.md) | descendant | active |
 | [cx.w0.w2](../agents/bbugyi200.athena.cx.w0.w2/README.md) | descendant | active |

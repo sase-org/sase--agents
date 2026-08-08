@@ -30,12 +30,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [d7.w1](../agents/bbugyi200.athena.d7.w1/README.md) | ancestor | completed |
+| [d7.w1](bbugyi200.athena.d7.w1.md) (family · 2) | ancestor | active 1, completed 1 |
 | [d7](../agents/bbugyi200.athena.d7/README.md) | ancestor | active |
 | [d7.w1.f1.f0](bbugyi200.athena.d7.w1.f1.f0.md) (family · 2) | descendant | active 1, completed 1 |
-| [d7.w1.f1.f0](../agents/bbugyi200.athena.d7.w1.f1.f0/README.md) | descendant | completed |
 | [d7.w1.f1.f0.f0](bbugyi200.athena.d7.w1.f1.f0.f0.md) (family · 2) | descendant | active 1, completed 1 |
-| [d7.w1.f1.f0.f0](../agents/bbugyi200.athena.d7.w1.f1.f0.f0/README.md) | descendant | completed |
 | [d7.w1.f1.f0.f0.f0](../agents/bbugyi200.athena.d7.w1.f1.f0.f0.f0/README.md) | descendant | active |
 | [d7.w1.f1.f0.f1](../agents/bbugyi200.athena.d7.w1.f1.f0.f1/README.md) | descendant | active |
 | [d7.w1.f1.w0](../agents/bbugyi200.athena.d7.w1.f1.w0/README.md) | descendant | active |

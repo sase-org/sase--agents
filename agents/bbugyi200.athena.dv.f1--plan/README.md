@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [dv](../bbugyi200.athena.dv/README.md) | ancestor | completed |
+| [dv](../../families/bbugyi200.athena.dv.md) (family · 2) | ancestor | active 1, completed 1 |
 | [dv.f0](../bbugyi200.athena.dv.f0/README.md) | dv hood | active |

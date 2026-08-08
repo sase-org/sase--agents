@@ -23,4 +23,4 @@
 |---|---|---|
 | [n6.f0](../bbugyi200.athena.n6.f0/README.md) | ancestor | active |
 | [n6](../../families/bbugyi200.athena.n6.md) (family · 2) | ancestor | active 1, completed 1 |
-| [n6.f0.f0](../bbugyi200.athena.n6.f0.f0/README.md) | n6.f0 hood | failed |
+| [n6.f0.f0](../bbugyi200.athena.n6.f0.f0/README.md) | n6.f0 hood | active |

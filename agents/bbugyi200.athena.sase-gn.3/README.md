@@ -35,7 +35,7 @@
 | [sase-gn.10.3](../bbugyi200.athena.sase-gn.10.3/README.md) | sase-gn hood | completed |
 | [sase-gn.10.4](../bbugyi200.athena.sase-gn.10.4/README.md) | sase-gn hood | completed |
 | [sase-gn.10.5](../bbugyi200.athena.sase-gn.10.5/README.md) | sase-gn hood | completed |
-| [sase-gn.10.land](../bbugyi200.athena.sase-gn.10.land/README.md) | sase-gn hood | active |
+| [sase-gn.10.land](../bbugyi200.athena.sase-gn.10.land/README.md) | sase-gn hood | completed |
 | [sase-gn.2](../bbugyi200.athena.sase-gn.2/README.md) | sase-gn hood | completed |
 | [sase-gn.4](../bbugyi200.athena.sase-gn.4/README.md) | sase-gn hood | completed |
 | [sase-gn.5](../bbugyi200.athena.sase-gn.5/README.md) | sase-gn hood | completed |

@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-gu.1](../bbugyi200.athena.sase-gu.1/README.md) | sase-gu hood | completed |
 | [sase-gu.3](../bbugyi200.athena.sase-gu.3/README.md) | sase-gu hood | completed |
-| [sase-gu.land](../bbugyi200.athena.sase-gu.land/README.md) | sase-gu hood | active |
+| [sase-gu.land](../bbugyi200.athena.sase-gu.land/README.md) | sase-gu hood | completed |

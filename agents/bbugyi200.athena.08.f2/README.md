@@ -18,9 +18,3 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`835c2c9`](https://github.com/sase-org/sase/commit/835c2c9abaae45777f346dcd644cc37839e43c34) | fix(dev-update): refresh upstream refs before planning | 2026-07-07 00:24:10 EDT |
-
-## Neighbors
-
-| Agent | Relation | State |
-|---|---|---|
-| [08](../bbugyi200.athena.08/README.md) | ancestor | completed |

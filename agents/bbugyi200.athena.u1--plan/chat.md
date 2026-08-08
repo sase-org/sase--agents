@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** u1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-u1__plan-260806_092607.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-u1__code-260806_092607.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/unknown_user_legacy_hood_ownership.md
 
 

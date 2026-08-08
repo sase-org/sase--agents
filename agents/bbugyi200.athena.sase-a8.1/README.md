@@ -8,6 +8,8 @@
 
 ## Summary
 
+- Bead: [sase-a8.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-a8/sase-a8.1.md)
+- Epic: [sase-a8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-a8/README.md)
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-27T19:58:03.247890+00:00
@@ -22,7 +24,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-a8.10](../../families/bbugyi200.athena.sase-a8.10.md) (family · 2) | sase-a8 hood | active 2 |
-| [sase-a8.10](../bbugyi200.athena.sase-a8.10/README.md) | sase-a8 hood | waiting |
 | [sase-a8.2](../bbugyi200.athena.sase-a8.2/README.md) | sase-a8 hood | active |
 | [sase-a8.3](../bbugyi200.athena.sase-a8.3/README.md) | sase-a8 hood | active |
 | [sase-a8.4](../bbugyi200.athena.sase-a8.4/README.md) | sase-a8 hood | active |

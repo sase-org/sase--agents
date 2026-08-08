@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** ux--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-ux__plan-260807_141502.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-ux__code-260807_141502.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/ace_byte_free_artifact_view_crash.md
 
 

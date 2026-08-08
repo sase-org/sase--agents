@@ -8,6 +8,8 @@
 
 ## Summary
 
+- Bead: [sase-8i.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-8i/sase-8i.1.md)
+- Epic: [sase-8i](https://github.com/sase-org/sase--beads/blob/main/pages/sase-8i/README.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-21T14:39:59.139340+00:00
@@ -28,7 +30,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-8i.2](../../families/bbugyi200.athena.sase-8i.2.md) (family · 2) | sase-8i hood | active 1, completed 1 |
-| [sase-8i.2](../bbugyi200.athena.sase-8i.2/README.md) | sase-8i hood | completed |
 | [sase-8i.3](../../families/bbugyi200.athena.sase-8i.3.md) (family · 2) | sase-8i hood | active 1, completed 1 |
-| [sase-8i.3](../bbugyi200.athena.sase-8i.3/README.md) | sase-8i hood | completed |
 | [sase-8i.land](../bbugyi200.athena.sase-8i.land/README.md) | sase-8i hood | active |

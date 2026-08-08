@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6t.land.w2](../agents/bbugyi200.athena.sase-6t.land.w2/README.md) | ancestor | completed |
+| [sase-6t.land.w2](bbugyi200.athena.sase-6t.land.w2.md) (family · 2) | ancestor | active 1, completed 1 |
 | [sase-6t.land](../agents/bbugyi200.athena.sase-6t.land/README.md) | ancestor | active |
 | [sase-6t.land.w0](../agents/bbugyi200.athena.sase-6t.land.w0/README.md) | sase-6t.land hood | waiting |
 | [sase-6t.land.w1](../agents/bbugyi200.athena.sase-6t.land.w1/README.md) | sase-6t.land hood | active |

@@ -32,4 +32,3 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [dv.f0](../agents/bbugyi200.athena.dv.f0/README.md) | descendant | active |
 | [dv.f1](bbugyi200.athena.dv.f1.md) (family · 2) | descendant | active 1, completed 1 |
-| [dv.f1](../agents/bbugyi200.athena.dv.f1/README.md) | descendant | completed |

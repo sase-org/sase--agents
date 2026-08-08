@@ -24,4 +24,3 @@
 | Agent | Relation | State |
 |---|---|---|
 | [7i.f1](../bbugyi200.athena.7i.f1/README.md) | ancestor | completed |
-| [7i](../bbugyi200.athena.7i/README.md) | ancestor | completed |

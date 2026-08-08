@@ -2,20 +2,22 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-em](../../users/bbugyi200/machines/athena/hoods/sase-em/README.md) / sase-em.2
 
-**Global name:** `bbugyi200.athena.sase-em.2` · **State:** dismissed · **Source run:** `run-78bd218b5f6d906f0c5d2bc09137e73a`
+**Global name:** `bbugyi200.athena.sase-em.2` · **State:** active · **Source run:** `run-78bd218b5f6d906f0c5d2bc09137e73a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-em
 
 ## Summary
 
+- Bead: [sase-em.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-em/sase-em.2.md)
+- Epic: [sase-em](https://github.com/sase-org/sase--beads/blob/main/pages/sase-em/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-03T08:58:27.208243 → 2026-08-03T09:39:58.768682
+- Timing: 2026-08-03T12:58:27.208243+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,9 +29,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-em.1](../bbugyi200.athena.sase-em.1/README.md) | sase-em hood | dismissed |
-| [sase-em.3](../bbugyi200.athena.sase-em.3/README.md) | sase-em hood | dismissed |
-| [sase-em.4](../bbugyi200.athena.sase-em.4/README.md) | sase-em hood | dismissed |
-| [sase-em.5](../bbugyi200.athena.sase-em.5/README.md) | sase-em hood | dismissed |
-| [sase-em.6](../bbugyi200.athena.sase-em.6/README.md) | sase-em hood | dismissed |
-| [sase-em.land](../bbugyi200.athena.sase-em.land/README.md) | sase-em hood | dismissed |
+| [sase-em.1](../bbugyi200.athena.sase-em.1/README.md) | sase-em hood | active |
+| [sase-em.3](../bbugyi200.athena.sase-em.3/README.md) | sase-em hood | active |
+| [sase-em.4](../bbugyi200.athena.sase-em.4/README.md) | sase-em hood | active |
+| [sase-em.5](../bbugyi200.athena.sase-em.5/README.md) | sase-em hood | active |
+| [sase-em.6](../bbugyi200.athena.sase-em.6/README.md) | sase-em hood | active |
+| [sase-em.land](../bbugyi200.athena.sase-em.land/README.md) | sase-em hood | active |

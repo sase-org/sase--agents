@@ -8,6 +8,8 @@
 
 ## Summary
 
+- Bead: [sase-8t.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-8t/sase-8t.1.md)
+- Epic: [sase-8t](https://github.com/sase-org/sase--beads/blob/main/pages/sase-8t/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-23T11:38:52.012748+00:00

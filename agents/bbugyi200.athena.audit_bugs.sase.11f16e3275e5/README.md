@@ -28,6 +28,7 @@
 | [audit\_bugs.sase.10eeaf72302a](../bbugyi200.athena.audit_bugs.sase.10eeaf72302a/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.1180425d1192](../bbugyi200.athena.audit_bugs.sase.1180425d1192/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.28321d8dfc18](../bbugyi200.athena.audit_bugs.sase.28321d8dfc18/README.md) | audit\_bugs.sase hood | active |
+| [audit\_bugs.sase.3](../bbugyi200.athena.audit_bugs.sase.3/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.3197b9148ad0](../bbugyi200.athena.audit_bugs.sase.3197b9148ad0/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.31f8436d101f](../bbugyi200.athena.audit_bugs.sase.31f8436d101f/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.3308b2c86f93](../bbugyi200.athena.audit_bugs.sase.3308b2c86f93/README.md) | audit\_bugs.sase hood | completed |

@@ -8,6 +8,8 @@
 
 ## Summary
 
+- Bead: [sase-8h.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-8h/sase-8h.2.md)
+- Epic: [sase-8h](https://github.com/sase-org/sase--beads/blob/main/pages/sase-8h/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-21T14:39:28.554762+00:00
@@ -22,9 +24,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-8h.1](../../families/bbugyi200.athena.sase-8h.1.md) (family · 2) | sase-8h hood | active 1, completed 1 |
-| [sase-8h.1](../bbugyi200.athena.sase-8h.1/README.md) | sase-8h hood | completed |
 | [sase-8h.1.w1](../../families/bbugyi200.athena.sase-8h.1.w1.md) (family · 2) | sase-8h hood | active 1, completed 1 |
-| [sase-8h.1.w1](../bbugyi200.athena.sase-8h.1.w1/README.md) | sase-8h hood | completed |
 | [sase-8h.3](../../families/bbugyi200.athena.sase-8h.3.md) (family · 2) | sase-8h hood | active 1, completed 1 |
-| [sase-8h.3](../bbugyi200.athena.sase-8h.3/README.md) | sase-8h hood | completed |
 | [sase-8h.land](../bbugyi200.athena.sase-8h.land/README.md) | sase-8h hood | active |

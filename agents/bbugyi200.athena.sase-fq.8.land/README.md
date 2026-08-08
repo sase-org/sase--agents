@@ -16,7 +16,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -28,9 +28,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-fq.8.1](../../families/bbugyi200.athena.sase-fq.8.1.md) (family · 2) | sase-fq.8 hood | completed 2 |
+| [sase-fq.8.1](../../families/bbugyi200.athena.sase-fq.8.1.md) (family · 2) | sase-fq.8 hood | active 1, completed 1 |
 | [sase-fq.8.2](../bbugyi200.athena.sase-fq.8.2/README.md) | sase-fq.8 hood | active |
-| [sase-fq.8.3](../bbugyi200.athena.sase-fq.8.3/README.md) | sase-fq.8 hood | completed |
+| [sase-fq.8.3](../bbugyi200.athena.sase-fq.8.3/README.md) | sase-fq.8 hood | active |
 | [sase-fq.1](../bbugyi200.athena.sase-fq.1/README.md) | sase-fq hood | active |
 | [sase-fq.2](../bbugyi200.athena.sase-fq.2/README.md) | sase-fq hood | active |
 | [sase-fq.3](../bbugyi200.athena.sase-fq.3/README.md) | sase-fq hood | active |

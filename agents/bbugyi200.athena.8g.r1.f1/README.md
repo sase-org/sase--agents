@@ -25,4 +25,3 @@
 | Agent | Relation | State |
 |---|---|---|
 | [8g.r1](../bbugyi200.athena.8g.r1/README.md) | ancestor | completed |
-| [8g](../bbugyi200.athena.8g/README.md) | ancestor | completed |

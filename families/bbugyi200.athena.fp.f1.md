@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [fp](../agents/bbugyi200.athena.fp/README.md) | ancestor | completed |
+| [fp](bbugyi200.athena.fp.md) (family · 2) | ancestor | active 1, completed 1 |
 | [fp.f0](../agents/bbugyi200.athena.fp.f0/README.md) | fp hood | waiting |

@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-f1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-f1/README.md)
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-03T20:49:15.855486+00:00
@@ -21,7 +22,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-f1.1](../bbugyi200.athena.sase-f1.1/README.md) | sase-f1 hood | dismissed |
-| [sase-f1.2](../bbugyi200.athena.sase-f1.2/README.md) | sase-f1 hood | dismissed |
-| [sase-f1.3](../bbugyi200.athena.sase-f1.3/README.md) | sase-f1 hood | dismissed |
-| [sase-f1.4](../bbugyi200.athena.sase-f1.4/README.md) | sase-f1 hood | dismissed |
+| [sase-f1.1](../bbugyi200.athena.sase-f1.1/README.md) | sase-f1 hood | active |
+| [sase-f1.2](../bbugyi200.athena.sase-f1.2/README.md) | sase-f1 hood | active |
+| [sase-f1.3](../bbugyi200.athena.sase-f1.3/README.md) | sase-f1 hood | active |
+| [sase-f1.4](../bbugyi200.athena.sase-f1.4/README.md) | sase-f1 hood | active |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b7131ade24b7733880af4dc8a14ea056"}
+{"commits":[{"committed_at":1786154644,"sha":"b9ac35d9e2e36a1f148670213b089295b69b297b","subject":"feat(llm-provider): add model advisories and a data-sharing guard"}],"schema_version":2,"source_run_id":"run-b7131ade24b7733880af4dc8a14ea056"}

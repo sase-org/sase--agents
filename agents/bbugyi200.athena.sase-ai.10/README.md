@@ -8,6 +8,8 @@
 
 ## Summary
 
+- Bead: [sase-ai.10](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ai/sase-ai.10.md)
+- Epic: [sase-ai](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ai/README.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-28T21:07:37.025255+00:00

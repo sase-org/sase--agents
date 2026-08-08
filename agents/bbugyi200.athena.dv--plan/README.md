@@ -23,4 +23,3 @@
 |---|---|---|
 | [dv.f0](../bbugyi200.athena.dv.f0/README.md) | descendant | active |
 | [dv.f1](../../families/bbugyi200.athena.dv.f1.md) (family · 2) | descendant | active 1, completed 1 |
-| [dv.f1](../bbugyi200.athena.dv.f1/README.md) | descendant | completed |

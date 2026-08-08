@@ -16,7 +16,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -28,8 +28,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-g3.1](../bbugyi200.athena.sase-g3.1/README.md) | sase-g3 hood | completed |
-| [sase-g3.2](../bbugyi200.athena.sase-g3.2/README.md) | sase-g3 hood | completed |
-| [sase-g3.3](../bbugyi200.athena.sase-g3.3/README.md) | sase-g3 hood | completed |
-| [sase-g3.4](../bbugyi200.athena.sase-g3.4/README.md) | sase-g3 hood | completed |
-| [sase-g3.5](../bbugyi200.athena.sase-g3.5/README.md) | sase-g3 hood | completed |
+| [sase-g3.1](../bbugyi200.athena.sase-g3.1/README.md) | sase-g3 hood | active |
+| [sase-g3.2](../bbugyi200.athena.sase-g3.2/README.md) | sase-g3 hood | active |
+| [sase-g3.3](../bbugyi200.athena.sase-g3.3/README.md) | sase-g3 hood | active |
+| [sase-g3.4](../bbugyi200.athena.sase-g3.4/README.md) | sase-g3 hood | active |
+| [sase-g3.5](../bbugyi200.athena.sase-g3.5/README.md) | sase-g3 hood | active |

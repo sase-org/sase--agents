@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-55a54b71c351a083ce25b6e2f14ead7b"}
+{"commits":[{"committed_at":1785968156,"sha":"980bdd33767edd55ce358ff9d2bd9a89b81a502c","subject":"fix(commit-finalizer): fail the run when auto-committed bead state is never published"}],"schema_version":2,"source_run_id":"run-55a54b71c351a083ce25b6e2f14ead7b"}

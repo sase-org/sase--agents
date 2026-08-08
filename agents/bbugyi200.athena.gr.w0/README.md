@@ -21,6 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [gr](../bbugyi200.athena.gr/README.md) | ancestor | completed |
+| [gr](../../families/bbugyi200.athena.gr.md) (family · 2) | ancestor | active 1, completed 1 |
 | [gr.w2](../../families/bbugyi200.athena.gr.w2.md) (family · 2) | gr hood | active 1, completed 1 |
-| [gr.w2](../bbugyi200.athena.gr.w2/README.md) | gr hood | completed |

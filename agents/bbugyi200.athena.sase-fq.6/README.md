@@ -29,8 +29,8 @@
 | [sase-fq.4](../bbugyi200.athena.sase-fq.4/README.md) | sase-fq hood | active |
 | [sase-fq.5](../bbugyi200.athena.sase-fq.5/README.md) | sase-fq hood | active |
 | [sase-fq.7](../bbugyi200.athena.sase-fq.7/README.md) | sase-fq hood | active |
-| [sase-fq.8.1](../../families/bbugyi200.athena.sase-fq.8.1.md) (family · 2) | sase-fq hood | completed 2 |
+| [sase-fq.8.1](../../families/bbugyi200.athena.sase-fq.8.1.md) (family · 2) | sase-fq hood | active 1, completed 1 |
 | [sase-fq.8.2](../bbugyi200.athena.sase-fq.8.2/README.md) | sase-fq hood | active |
-| [sase-fq.8.3](../bbugyi200.athena.sase-fq.8.3/README.md) | sase-fq hood | completed |
+| [sase-fq.8.3](../bbugyi200.athena.sase-fq.8.3/README.md) | sase-fq hood | active |
 | [sase-fq.8.land](../bbugyi200.athena.sase-fq.8.land/README.md) | sase-fq hood | active |
 | [sase-fq.land](../bbugyi200.athena.sase-fq.land/README.md) | sase-fq hood | active |

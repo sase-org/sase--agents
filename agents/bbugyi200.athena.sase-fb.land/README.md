@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-fb](https://github.com/sase-org/sase--beads/blob/main/pages/sase-fb/README.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-05T22:15:53.357501+00:00
@@ -15,13 +16,13 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-fb.1](../bbugyi200.athena.sase-fb.1/README.md) | sase-fb hood | completed |
-| [sase-fb.2](../bbugyi200.athena.sase-fb.2/README.md) | sase-fb hood | completed |
-| [sase-fb.3](../bbugyi200.athena.sase-fb.3/README.md) | sase-fb hood | dismissed |
+| [sase-fb.1](../bbugyi200.athena.sase-fb.1/README.md) | sase-fb hood | active |
+| [sase-fb.2](../bbugyi200.athena.sase-fb.2/README.md) | sase-fb hood | active |
+| [sase-fb.3](../bbugyi200.athena.sase-fb.3/README.md) | sase-fb hood | active |
 | [sase-fb.3-1](../bbugyi200.athena.sase-fb.3-1/README.md) | sase-fb hood | active |

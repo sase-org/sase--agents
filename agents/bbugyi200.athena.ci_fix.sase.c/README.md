@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ci\_fix](../../users/bbugyi200/machines/athena/hoods/ci_fix/README.md) / ci\_fix.sase.c
 
-**Global name:** `bbugyi200.athena.ci_fix.sase.c` · **State:** completed · **Source run:** `run-5474f1970f2994b0ec913cbb4f1c7f43`
+**Global name:** `bbugyi200.athena.ci_fix.sase.c` · **State:** active · **Source run:** `run-5474f1970f2994b0ec913cbb4f1c7f43`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** ci\_fix
 
@@ -30,11 +30,14 @@
 | [ci\_fix.sase.5](../bbugyi200.athena.ci_fix.sase.5/README.md) | ci\_fix.sase hood | active |
 | [ci\_fix.sase.6](../bbugyi200.athena.ci_fix.sase.6/README.md) | ci\_fix.sase hood | active |
 | [ci\_fix.sase.7](../bbugyi200.athena.ci_fix.sase.7/README.md) | ci\_fix.sase hood | waiting |
-| [ci\_fix.sase.8](../bbugyi200.athena.ci_fix.sase.8/README.md) | ci\_fix.sase hood | dismissed |
-| [ci\_fix.sase.9](../bbugyi200.athena.ci_fix.sase.9/README.md) | ci\_fix.sase hood | dismissed |
-| [ci\_fix.sase.a](../bbugyi200.athena.ci_fix.sase.a/README.md) | ci\_fix.sase hood | dismissed |
-| [ci\_fix.sase.b](../bbugyi200.athena.ci_fix.sase.b/README.md) | ci\_fix.sase hood | dismissed |
-| [ci\_fix.sase.d](../bbugyi200.athena.ci_fix.sase.d/README.md) | ci\_fix.sase hood | completed |
-| [ci\_fix.sase.e](../bbugyi200.athena.ci_fix.sase.e/README.md) | ci\_fix.sase hood | completed |
-| [ci\_fix.sase.f](../bbugyi200.athena.ci_fix.sase.f/README.md) | ci\_fix.sase hood | completed |
+| [ci\_fix.sase.8](../bbugyi200.athena.ci_fix.sase.8/README.md) | ci\_fix.sase hood | active |
+| [ci\_fix.sase.9](../bbugyi200.athena.ci_fix.sase.9/README.md) | ci\_fix.sase hood | active |
+| [ci\_fix.sase.a](../bbugyi200.athena.ci_fix.sase.a/README.md) | ci\_fix.sase hood | active |
+| [ci\_fix.sase.b](../bbugyi200.athena.ci_fix.sase.b/README.md) | ci\_fix.sase hood | active |
+| [ci\_fix.sase.d](../bbugyi200.athena.ci_fix.sase.d/README.md) | ci\_fix.sase hood | active |
+| [ci\_fix.sase.e](../bbugyi200.athena.ci_fix.sase.e/README.md) | ci\_fix.sase hood | active |
+| [ci\_fix.sase.f](../bbugyi200.athena.ci_fix.sase.f/README.md) | ci\_fix.sase hood | active |
 | [ci\_fix.sase.g](../bbugyi200.athena.ci_fix.sase.g/README.md) | ci\_fix.sase hood | active |
+| [ci\_fix.sase.h](../bbugyi200.athena.ci_fix.sase.h/README.md) | ci\_fix.sase hood | waiting |
+| [ci\_fix.sase.i](../bbugyi200.athena.ci_fix.sase.i/README.md) | ci\_fix.sase hood | active |
+| [ci\_fix.sase.j](../bbugyi200.athena.ci_fix.sase.j/README.md) | ci\_fix.sase hood | dismissed |

@@ -32,7 +32,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [hq.f0](../agents/bbugyi200.athena.hq.f0/README.md) | descendant | active |
 | [hq.f2](bbugyi200.athena.hq.f2.md) (family · 2) | descendant | active 1, completed 1 |
-| [hq.f2](../agents/bbugyi200.athena.hq.f2/README.md) | descendant | completed |
 | [hq.f2.f0](../agents/bbugyi200.athena.hq.f2.f0/README.md) | descendant | active |
 | [hq.f2.f1](bbugyi200.athena.hq.f2.f1.md) (family · 2) | descendant | active 1, completed 1 |
-| [hq.f2.f1](../agents/bbugyi200.athena.hq.f2.f1/README.md) | descendant | completed |

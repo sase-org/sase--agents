@@ -8,6 +8,8 @@
 
 ## Summary
 
+- Bead: [sase-cz.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-cz/sase-cz.5.md)
+- Epic: [sase-cz](https://github.com/sase-org/sase--beads/blob/main/pages/sase-cz/README.md)
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-01T12:11:46.129791+00:00

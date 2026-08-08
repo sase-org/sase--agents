@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-en](https://github.com/sase-org/sase--beads/blob/main/pages/sase-en/README.md)
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-03T14:53:46.279423+00:00
@@ -27,7 +28,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-en.1](../bbugyi200.athena.sase-en.1/README.md) | sase-en hood | dismissed |
-| [sase-en.2](../bbugyi200.athena.sase-en.2/README.md) | sase-en hood | dismissed |
-| [sase-en.3](../bbugyi200.athena.sase-en.3/README.md) | sase-en hood | dismissed |
-| [sase-en.4](../bbugyi200.athena.sase-en.4/README.md) | sase-en hood | dismissed |
+| [sase-en.1](../bbugyi200.athena.sase-en.1/README.md) | sase-en hood | active |
+| [sase-en.2](../bbugyi200.athena.sase-en.2/README.md) | sase-en hood | active |
+| [sase-en.3](../bbugyi200.athena.sase-en.3/README.md) | sase-en hood | active |
+| [sase-en.4](../bbugyi200.athena.sase-en.4/README.md) | sase-en hood | active |

@@ -17,14 +17,14 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-gg.1](../bbugyi200.athena.sase-gg.1/README.md) | sase-gg hood | completed |
-| [sase-gg.2](../bbugyi200.athena.sase-gg.2/README.md) | sase-gg hood | completed |
-| [sase-gg.3](../bbugyi200.athena.sase-gg.3/README.md) | sase-gg hood | completed |
-| [sase-gg.4](../bbugyi200.athena.sase-gg.4/README.md) | sase-gg hood | completed |
-| [sase-gg.land](../bbugyi200.athena.sase-gg.land/README.md) | sase-gg hood | waiting |
+| [sase-gg.1](../bbugyi200.athena.sase-gg.1/README.md) | sase-gg hood | active |
+| [sase-gg.2](../bbugyi200.athena.sase-gg.2/README.md) | sase-gg hood | active |
+| [sase-gg.3](../bbugyi200.athena.sase-gg.3/README.md) | sase-gg hood | active |
+| [sase-gg.4](../bbugyi200.athena.sase-gg.4/README.md) | sase-gg hood | active |
+| [sase-gg.land](../bbugyi200.athena.sase-gg.land/README.md) | sase-gg hood | active |

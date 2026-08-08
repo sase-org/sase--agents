@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-6u.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-6u/sase-6u.2.md)
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-18T17:47:46.919796+00:00
@@ -31,4 +32,3 @@
 | [sase-6u.3](../bbugyi200.athena.sase-6u.3/README.md) | sase-6u hood | active |
 | [sase-6u.4](../bbugyi200.athena.sase-6u.4/README.md) | sase-6u hood | active |
 | [sase-6u.land](../../families/bbugyi200.athena.sase-6u.land.md) (family · 2) | sase-6u hood | active 1, completed 1 |
-| [sase-6u.land](../bbugyi200.athena.sase-6u.land/README.md) | sase-6u hood | completed |

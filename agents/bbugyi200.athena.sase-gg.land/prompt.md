@@ -1,5 +1,5 @@
+%id(land, clan=sase-gg)
 #gh:gh_sase-org__sase
-%id(land, clan=sase-gg, bead=sase-gg)
 %model:@big_epic_lander
 %auto
 %w:sase-gg.1,sase-gg.2,sase-gg.3,sase-gg.4,sase-gg.5

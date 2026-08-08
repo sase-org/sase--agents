@@ -8,6 +8,8 @@
 
 ## Summary
 
+- Bead: [sase-ad.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ad/sase-ad.5.md)
+- Epic: [sase-ad](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ad/README.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-28T12:21:03.341205+00:00

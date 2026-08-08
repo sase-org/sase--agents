@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-89](../users/bbugyi200/machines/athena/hoods/sase-89/README.md) / sase-89.3
 
-Owner: `bbugyi200.athena` · Hood: `sase-89` · Members: 2
+Owner: `bbugyi200.athena` · Hood: `sase-89` · Members: 2 · Bead: [sase-89.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-89/sase-89.3.md)
 
 ## Lineage
 
@@ -32,9 +32,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-89.1](bbugyi200.athena.sase-89.1.md) (family · 2) | sase-89 hood | active 1, completed 1 |
-| [sase-89.1](../agents/bbugyi200.athena.sase-89.1/README.md) | sase-89 hood | completed |
 | [sase-89.2](bbugyi200.athena.sase-89.2.md) (family · 2) | sase-89 hood | active 1, completed 1 |
-| [sase-89.2](../agents/bbugyi200.athena.sase-89.2/README.md) | sase-89 hood | completed |
 | [sase-89.4](bbugyi200.athena.sase-89.4.md) (family · 2) | sase-89 hood | active 1, completed 1 |
-| [sase-89.4](../agents/bbugyi200.athena.sase-89.4/README.md) | sase-89 hood | completed |
 | [sase-89.land](../agents/bbugyi200.athena.sase-89.land/README.md) | sase-89 hood | active |

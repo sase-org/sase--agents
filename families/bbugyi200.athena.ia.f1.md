@@ -30,6 +30,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [ia](../agents/bbugyi200.athena.ia/README.md) | ancestor | completed |
+| [ia](bbugyi200.athena.ia.md) (family · 2) | ancestor | active 1, completed 1 |
 | [ia.f1.f0](bbugyi200.athena.ia.f1.f0.md) (family · 2) | descendant | active 1, completed 1 |
-| [ia.f1.f0](../agents/bbugyi200.athena.ia.f1.f0/README.md) | descendant | completed |

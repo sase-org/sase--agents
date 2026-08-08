@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-8b.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-8b/sase-8b.2.md)
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-20T18:48:15.136368+00:00
@@ -18,7 +19,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-8b.1](../../families/bbugyi200.athena.sase-8b.1.md) (family · 2) | sase-8b hood | active 1, completed 1 |
-| [sase-8b.1](../bbugyi200.athena.sase-8b.1/README.md) | sase-8b hood | completed |
 | [sase-8b.3](../../families/bbugyi200.athena.sase-8b.3.md) (family · 2) | sase-8b hood | active 1, completed 1 |
 | [sase-8b.4](../bbugyi200.athena.sase-8b.4/README.md) | sase-8b hood | active |
 | [sase-8b.land](../bbugyi200.athena.sase-8b.land/README.md) | sase-8b hood | active |

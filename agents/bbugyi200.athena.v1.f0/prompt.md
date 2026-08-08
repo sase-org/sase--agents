@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:v1 Actually, can you revert that sase/memory/build_and_run.md change and re-run the appropriate `sase init` command? I don't think agents need to be aware of this at all times, right? Especially since the `just test` command should now fail with a good error message (which should give them all of the same information that this memory update does).

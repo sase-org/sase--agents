@@ -32,4 +32,3 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [hk](../agents/bbugyi200.athena.hk/README.md) | ancestor | active |
 | [hk.f0.f0](bbugyi200.athena.hk.f0.f0.md) (family · 2) | descendant | active 1, completed 1 |
-| [hk.f0.f0](../agents/bbugyi200.athena.hk.f0.f0/README.md) | descendant | completed |

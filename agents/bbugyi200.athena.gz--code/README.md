@@ -28,4 +28,3 @@
 | Agent | Relation | State |
 |---|---|---|
 | [gz.f0](../../families/bbugyi200.athena.gz.f0.md) (family · 2) | descendant | active 1, completed 1 |
-| [gz.f0](../bbugyi200.athena.gz.f0/README.md) | descendant | completed |

@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-8v.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-8v/sase-8v.3.md)
 - Model: —
 - Provider: —
 - Timing: 2026-07-23T19:56:11+00:00 → 2026-07-23T19:56:11+00:00
@@ -29,7 +30,6 @@
 | [sase-8v.2](../../families/bbugyi200.athena.sase-8v.2.md) (family · 2) | sase-8v hood | active 1, completed 1 |
 | [sase-8v.2](../bbugyi200.athena.sase-8v.2/README.md) | sase-8v hood | completed |
 | [sase-8v.4](../../families/bbugyi200.athena.sase-8v.4.md) (family · 2) | sase-8v hood | active 1, completed 1 |
-| [sase-8v.4](../bbugyi200.athena.sase-8v.4/README.md) | sase-8v hood | completed |
 | [sase-8v.5](../../families/bbugyi200.athena.sase-8v.5.md) (family · 2) | sase-8v hood | active 1, completed 1 |
 | [sase-8v.5](../bbugyi200.athena.sase-8v.5/README.md) | sase-8v hood | completed |
 | [sase-8v.6](../bbugyi200.athena.sase-8v.6/README.md) | sase-8v hood | active |

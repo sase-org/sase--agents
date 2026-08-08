@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-89](https://github.com/sase-org/sase--beads/blob/main/pages/sase-89/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-20T18:48:20.752786+00:00
@@ -22,10 +23,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-89.1](../../families/bbugyi200.athena.sase-89.1.md) (family · 2) | sase-89 hood | active 1, completed 1 |
-| [sase-89.1](../bbugyi200.athena.sase-89.1/README.md) | sase-89 hood | completed |
 | [sase-89.2](../../families/bbugyi200.athena.sase-89.2.md) (family · 2) | sase-89 hood | active 1, completed 1 |
-| [sase-89.2](../bbugyi200.athena.sase-89.2/README.md) | sase-89 hood | completed |
 | [sase-89.3](../../families/bbugyi200.athena.sase-89.3.md) (family · 2) | sase-89 hood | active 1, completed 1 |
-| [sase-89.3](../bbugyi200.athena.sase-89.3/README.md) | sase-89 hood | completed |
 | [sase-89.4](../../families/bbugyi200.athena.sase-89.4.md) (family · 2) | sase-89 hood | active 1, completed 1 |
-| [sase-89.4](../bbugyi200.athena.sase-89.4/README.md) | sase-89 hood | completed |

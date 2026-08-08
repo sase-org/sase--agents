@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-87.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-87/sase-87.3.md)
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-20T16:02:22.567918+00:00
@@ -23,9 +24,7 @@
 |---|---|---|
 | [sase-87.1](../../families/bbugyi200.athena.sase-87.1.md) (family · 2) | sase-87 hood | active 1, completed 1 |
 | [sase-87.2](../../families/bbugyi200.athena.sase-87.2.md) (family · 2) | sase-87 hood | active 1, completed 1 |
-| [sase-87.2](../bbugyi200.athena.sase-87.2/README.md) | sase-87 hood | completed |
 | [sase-87.4](../../families/bbugyi200.athena.sase-87.4.md) (family · 2) | sase-87 hood | active 1, completed 1 |
-| [sase-87.4](../bbugyi200.athena.sase-87.4/README.md) | sase-87 hood | completed |
 | [sase-87.5](../bbugyi200.athena.sase-87.5/README.md) | sase-87 hood | active |
 | [sase-87.6](../bbugyi200.athena.sase-87.6/README.md) | sase-87 hood | active |
 | [sase-87.land](../bbugyi200.athena.sase-87.land/README.md) | sase-87 hood | active |

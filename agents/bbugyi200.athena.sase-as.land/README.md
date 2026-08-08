@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-as](https://github.com/sase-org/sase--beads/blob/main/pages/sase-as/README.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-29T15:48:50.722641+00:00

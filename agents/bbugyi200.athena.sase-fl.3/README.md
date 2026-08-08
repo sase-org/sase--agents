@@ -8,6 +8,8 @@
 
 ## Summary
 
+- Bead: [sase-fl.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-fl/sase-fl.3.md)
+- Epic: [sase-fl](https://github.com/sase-org/sase--beads/blob/main/pages/sase-fl/README.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-05T22:58:41.190574+00:00
@@ -15,7 +17,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,6 +29,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-fl.1](../bbugyi200.athena.sase-fl.1/README.md) | sase-fl hood | completed |
-| [sase-fl.2](../bbugyi200.athena.sase-fl.2/README.md) | sase-fl hood | completed |
-| [sase-fl.land](../bbugyi200.athena.sase-fl.land/README.md) | sase-fl hood | waiting |
+| [sase-fl.1](../bbugyi200.athena.sase-fl.1/README.md) | sase-fl hood | active |
+| [sase-fl.2](../bbugyi200.athena.sase-fl.2/README.md) | sase-fl hood | active |
+| [sase-fl.land](../bbugyi200.athena.sase-fl.land/README.md) | sase-fl hood | active |

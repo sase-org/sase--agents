@@ -8,6 +8,8 @@
 
 ## Summary
 
+- Bead: [sase-dz.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-dz/sase-dz.3.md)
+- Epic: [sase-dz](https://github.com/sase-org/sase--beads/blob/main/pages/sase-dz/README.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-02T10:47:29.633357+00:00

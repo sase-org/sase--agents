@@ -8,6 +8,8 @@
 
 ## Summary
 
+- Bead: [sase-8k.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-8k/sase-8k.7.md)
+- Epic: [sase-8k](https://github.com/sase-org/sase--beads/blob/main/pages/sase-8k/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-22T20:01:11.440911+00:00
@@ -22,16 +24,10 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-8k.1](../../families/bbugyi200.athena.sase-8k.1.md) (family · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.1](../bbugyi200.athena.sase-8k.1/README.md) | sase-8k hood | completed |
 | [sase-8k.2](../bbugyi200.athena.sase-8k.2/README.md) | sase-8k hood | active |
 | [sase-8k.3](../../families/bbugyi200.athena.sase-8k.3.md) (family · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.3](../bbugyi200.athena.sase-8k.3/README.md) | sase-8k hood | completed |
 | [sase-8k.4](../../families/bbugyi200.athena.sase-8k.4.md) (family · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.4](../bbugyi200.athena.sase-8k.4/README.md) | sase-8k hood | completed |
 | [sase-8k.5](../../families/bbugyi200.athena.sase-8k.5.md) (family · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.5](../bbugyi200.athena.sase-8k.5/README.md) | sase-8k hood | completed |
 | [sase-8k.6](../../families/bbugyi200.athena.sase-8k.6.md) (family · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.6](../bbugyi200.athena.sase-8k.6/README.md) | sase-8k hood | completed |
 | [sase-8k.8](../bbugyi200.athena.sase-8k.8/README.md) | sase-8k hood | active |
 | [sase-8k.land](../../families/bbugyi200.athena.sase-8k.land.md) (family · 2) | sase-8k hood | active 1, completed 1 |
-| [sase-8k.land](../bbugyi200.athena.sase-8k.land/README.md) | sase-8k hood | completed |

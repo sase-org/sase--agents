@@ -19,10 +19,3 @@
 |---|---|---|---|
 | sase | [`1e3c58d`](https://github.com/sase-org/sase/commit/1e3c58d9c5a21a4d08379a0abeee968e14ff44b6) | chore: Add SDD prompt and plan for project\_management\_fullscreen | 2026-06-02 12:13:22 EDT |
 | sase | [`c2145c2`](https://github.com/sase-org/sase/commit/c2145c2efb5be3ae389e038f3db4bdf21ed5ff49) | feat: redesign project management modal as full-screen command center | 2026-06-02 12:28:16 EDT |
-
-## Neighbors
-
-| Agent | Relation | State |
-|---|---|---|
-| [14.f1](../bbugyi200.athena.14.f1/README.md) | ancestor | completed |
-| [14](../bbugyi200.athena.14/README.md) | ancestor | completed |

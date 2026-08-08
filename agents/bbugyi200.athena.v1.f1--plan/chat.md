@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** v1.f1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-v1_f1__plan-260807_171635.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-v1_f1__code-260807_171635.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/revert_stale_core_memory_note.md
 
 

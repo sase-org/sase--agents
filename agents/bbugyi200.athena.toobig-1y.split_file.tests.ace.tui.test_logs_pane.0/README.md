@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-1y.split\_file.tests.test\_notification\_modal\_sections.0](../bbugyi200.athena.toobig-1y.split_file.tests.test_notification_modal_sections.0/README.md) | toobig-1y.split\_file.tests hood | waiting |
-| [toobig-1y.split\_file.src.sase.ace.tui.actions.agents.\_panel\_artifact\_files.0](../bbugyi200.athena.toobig-1y.split_file.src.sase.ace.tui.actions.agents._panel_artifact_files.0/README.md) | toobig-1y.split\_file hood | completed |
+| [toobig-1y.split\_file.tests.test\_notification\_modal\_sections.0](../bbugyi200.athena.toobig-1y.split_file.tests.test_notification_modal_sections.0/README.md) | toobig-1y.split\_file.tests hood | active |
+| [toobig-1y.split\_file.src.sase.ace.tui.actions.agents.\_panel\_artifact\_files.0](../bbugyi200.athena.toobig-1y.split_file.src.sase.ace.tui.actions.agents._panel_artifact_files.0/README.md) | toobig-1y.split\_file hood | active |

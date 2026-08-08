@@ -8,6 +8,8 @@
 
 ## Summary
 
+- Bead: [sase-8v.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-8v/sase-8v.1.md)
+- Epic: [sase-8v](https://github.com/sase-org/sase--beads/blob/main/pages/sase-8v/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-23T17:00:32.934347+00:00
@@ -27,7 +29,6 @@
 | [sase-8v.3](../../families/bbugyi200.athena.sase-8v.3.md) (family · 2) | sase-8v hood | active 1, completed 1 |
 | [sase-8v.3](../bbugyi200.athena.sase-8v.3/README.md) | sase-8v hood | completed |
 | [sase-8v.4](../../families/bbugyi200.athena.sase-8v.4.md) (family · 2) | sase-8v hood | active 1, completed 1 |
-| [sase-8v.4](../bbugyi200.athena.sase-8v.4/README.md) | sase-8v hood | completed |
 | [sase-8v.5](../../families/bbugyi200.athena.sase-8v.5.md) (family · 2) | sase-8v hood | active 1, completed 1 |
 | [sase-8v.5](../bbugyi200.athena.sase-8v.5/README.md) | sase-8v hood | completed |
 | [sase-8v.6](../bbugyi200.athena.sase-8v.6/README.md) | sase-8v hood | active |

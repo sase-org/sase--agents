@@ -23,7 +23,6 @@
 |---|---|---|
 | [sase-6t.land](../bbugyi200.athena.sase-6t.land/README.md) | ancestor | active |
 | [sase-6t.land.w2.w1](../../families/bbugyi200.athena.sase-6t.land.w2.w1.md) (family · 2) | descendant | active 1, completed 1 |
-| [sase-6t.land.w2.w1](../bbugyi200.athena.sase-6t.land.w2.w1/README.md) | descendant | completed |
 | [sase-6t.land.w0](../bbugyi200.athena.sase-6t.land.w0/README.md) | sase-6t.land hood | waiting |
 | [sase-6t.land.w1](../bbugyi200.athena.sase-6t.land.w1/README.md) | sase-6t.land hood | active |
 | [sase-6t.land.w1.w0](../bbugyi200.athena.sase-6t.land.w1.w0/README.md) | sase-6t.land hood | active |

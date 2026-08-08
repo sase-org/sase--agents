@@ -28,7 +28,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-gz.land.f1](../../families/bbugyi200.athena.sase-gz.land.f1.md) (family · 2) | descendant | active 2 |
+| [sase-gz.land.f1](../../families/bbugyi200.athena.sase-gz.land.f1.md) (family · 2) | descendant | active 1, completed 1 |
 | [sase-gz.1](../bbugyi200.athena.sase-gz.1/README.md) | sase-gz hood | completed |
 | [sase-gz.2](../bbugyi200.athena.sase-gz.2/README.md) | sase-gz hood | completed |
 | [sase-gz.3](../bbugyi200.athena.sase-gz.3/README.md) | sase-gz hood | completed |

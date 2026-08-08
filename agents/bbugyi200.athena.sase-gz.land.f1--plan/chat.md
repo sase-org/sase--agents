@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-gz.land.f1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_gz_land_f1__plan-260807_113035.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_gz_land_f1__code-260807_113035.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/always_show_notification_tag_strip.md
 
 

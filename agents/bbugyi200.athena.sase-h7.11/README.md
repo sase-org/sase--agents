@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-h7](../../users/bbugyi200/machines/athena/hoods/sase-h7/README.md) / sase-h7.11
 
-**Global name:** `bbugyi200.athena.sase-h7.11` · **State:** waiting · **Source run:** `run-dc472b97916b1e5ed03f74a23d8d8f25`
+**Global name:** `bbugyi200.athena.sase-h7.11` · **State:** active · **Source run:** `run-dc472b97916b1e5ed03f74a23d8d8f25`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-h7
 
@@ -12,7 +12,7 @@
 - Epic: [sase-h7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-h7/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260807200125
+- Timing: 2026-08-08T01:42:57.789447+00:00
 - Commits: 0
 
 ## Files
@@ -30,7 +30,7 @@
 | [sase-h7.3](../../families/bbugyi200.athena.sase-h7.3.md) (family · 2) | sase-h7 hood | completed 1, dismissed 1 |
 | [sase-h7.4](../bbugyi200.athena.sase-h7.4/README.md) | sase-h7 hood | dismissed |
 | [sase-h7.5](../bbugyi200.athena.sase-h7.5/README.md) | sase-h7 hood | dismissed |
-| [sase-h7.6](../../families/bbugyi200.athena.sase-h7.6.md) (family · 2) | sase-h7 hood | active 2 |
+| [sase-h7.6](../../families/bbugyi200.athena.sase-h7.6.md) (family · 2) | sase-h7 hood | completed 2 |
 | [sase-h7.7](../bbugyi200.athena.sase-h7.7/README.md) | sase-h7 hood | dismissed |
 | [sase-h7.8](../../families/bbugyi200.athena.sase-h7.8.md) (family · 2) | sase-h7 hood | completed 2 |
 | [sase-h7.9](../bbugyi200.athena.sase-h7.9/README.md) | sase-h7 hood | dismissed |

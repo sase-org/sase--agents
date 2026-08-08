@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-7o.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-7o/sase-7o.4.md)
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-19T21:32:56.556378+00:00
@@ -23,7 +24,6 @@
 |---|---|---|
 | [sase-7o.4.w2](../bbugyi200.athena.sase-7o.4.w2/README.md) | descendant | active |
 | [sase-7o.4.w3](../../families/bbugyi200.athena.sase-7o.4.w3.md) (family · 2) | descendant | active 1, completed 1 |
-| [sase-7o.4.w3](../bbugyi200.athena.sase-7o.4.w3/README.md) | descendant | completed |
 | [sase-7o.1](../bbugyi200.athena.sase-7o.1/README.md) | sase-7o hood | active |
 | [sase-7o.2](../bbugyi200.athena.sase-7o.2/README.md) | sase-7o hood | active |
 | [sase-7o.3](../bbugyi200.athena.sase-7o.3/README.md) | sase-7o hood | active |

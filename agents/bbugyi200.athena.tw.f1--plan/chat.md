@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** tw.f1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/sase_fq_8_1_scratch_probe_1-ace_run-tw_f1__plan-260806_092949.md`
+- 2. --code — `~/.sase/chats/202608/sase_fq_8_1_scratch_probe_1-ace_run-tw_f1__code-260806_092949.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/run_pytest_main_env_leaks.md
 
 

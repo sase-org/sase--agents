@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-fa](https://github.com/sase-org/sase--beads/blob/main/pages/sase-fa/README.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-05T22:10:30.622298+00:00
@@ -15,14 +16,14 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-fa.1](../bbugyi200.athena.sase-fa.1/README.md) | sase-fa hood | completed |
-| [sase-fa.2](../bbugyi200.athena.sase-fa.2/README.md) | sase-fa hood | completed |
-| [sase-fa.3](../bbugyi200.athena.sase-fa.3/README.md) | sase-fa hood | completed |
-| [sase-fa.4](../bbugyi200.athena.sase-fa.4/README.md) | sase-fa hood | completed |
-| [sase-fa.5](../bbugyi200.athena.sase-fa.5/README.md) | sase-fa hood | completed |
+| [sase-fa.1](../bbugyi200.athena.sase-fa.1/README.md) | sase-fa hood | active |
+| [sase-fa.2](../bbugyi200.athena.sase-fa.2/README.md) | sase-fa hood | active |
+| [sase-fa.3](../bbugyi200.athena.sase-fa.3/README.md) | sase-fa hood | active |
+| [sase-fa.4](../bbugyi200.athena.sase-fa.4/README.md) | sase-fa hood | active |
+| [sase-fa.5](../bbugyi200.athena.sase-fa.5/README.md) | sase-fa hood | active |

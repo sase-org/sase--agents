@@ -2,12 +2,14 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-fa](../../users/bbugyi200/machines/athena/hoods/sase-fa/README.md) / sase-fa.4
 
-**Global name:** `bbugyi200.athena.sase-fa.4` · **State:** completed · **Source run:** `run-ef2708fe2ad8ef7cd5dff5a88a8458ae`
+**Global name:** `bbugyi200.athena.sase-fa.4` · **State:** active · **Source run:** `run-ef2708fe2ad8ef7cd5dff5a88a8458ae`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-fa
 
 ## Summary
 
+- Bead: [sase-fa.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-fa/sase-fa.4.md)
+- Epic: [sase-fa](https://github.com/sase-org/sase--beads/blob/main/pages/sase-fa/README.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-05T18:28:17.102065+00:00
@@ -27,8 +29,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-fa.1](../bbugyi200.athena.sase-fa.1/README.md) | sase-fa hood | completed |
-| [sase-fa.2](../bbugyi200.athena.sase-fa.2/README.md) | sase-fa hood | completed |
-| [sase-fa.3](../bbugyi200.athena.sase-fa.3/README.md) | sase-fa hood | completed |
-| [sase-fa.5](../bbugyi200.athena.sase-fa.5/README.md) | sase-fa hood | completed |
+| [sase-fa.1](../bbugyi200.athena.sase-fa.1/README.md) | sase-fa hood | active |
+| [sase-fa.2](../bbugyi200.athena.sase-fa.2/README.md) | sase-fa hood | active |
+| [sase-fa.3](../bbugyi200.athena.sase-fa.3/README.md) | sase-fa hood | active |
+| [sase-fa.5](../bbugyi200.athena.sase-fa.5/README.md) | sase-fa hood | active |
 | [sase-fa.land](../bbugyi200.athena.sase-fa.land/README.md) | sase-fa hood | active |

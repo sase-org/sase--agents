@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-ff](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ff/README.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-05T22:23:37.793511+00:00
@@ -15,7 +16,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 

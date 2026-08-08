@@ -27,7 +27,6 @@
 | [sase-7o.4](../bbugyi200.athena.sase-7o.4/README.md) | sase-7o hood | active |
 | [sase-7o.4.w2](../bbugyi200.athena.sase-7o.4.w2/README.md) | sase-7o hood | active |
 | [sase-7o.4.w3](../../families/bbugyi200.athena.sase-7o.4.w3.md) (family · 2) | sase-7o hood | active 1, completed 1 |
-| [sase-7o.4.w3](../bbugyi200.athena.sase-7o.4.w3/README.md) | sase-7o hood | completed |
 | [sase-7o.5](../bbugyi200.athena.sase-7o.5/README.md) | sase-7o hood | active |
 | [sase-7o.land](../bbugyi200.athena.sase-7o.land/README.md) | sase-7o hood | active |
 | [sase-7o.w1](../bbugyi200.athena.sase-7o.w1/README.md) | sase-7o hood | active |

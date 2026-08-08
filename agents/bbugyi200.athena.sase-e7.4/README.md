@@ -8,6 +8,8 @@
 
 ## Summary
 
+- Bead: [sase-e7.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-e7/sase-e7.4.md)
+- Epic: [sase-e7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-e7/README.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-02T14:17:59.126286+00:00

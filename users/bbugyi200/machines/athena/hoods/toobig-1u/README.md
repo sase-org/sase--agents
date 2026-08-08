@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [toobig-1u.split\_file.src.sase.bead.db.0](../../../../../../agents/bbugyi200.athena.toobig-1u.split_file.src.sase.bead.db.0/README.md) | active | opus / claude | 2026-08-07T01:03:01.526750+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-1u.split_file.src.sase.bead.db.0/prompt.md) |
+| [toobig-1u.split\_file.src.sase.bead.db.0](../../../../../../agents/bbugyi200.athena.toobig-1u.split_file.src.sase.bead.db.0/README.md) | active | opus / claude | 2026-08-07T01:03:01.526750+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-1u.split_file.src.sase.bead.db.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-1u.split_file.src.sase.bead.db.0/chat.md) |

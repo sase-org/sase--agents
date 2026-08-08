@@ -26,7 +26,6 @@
 | [sase-6w.3](../bbugyi200.athena.sase-6w.3/README.md) | sase-6w hood | active |
 | [sase-6w.4](../bbugyi200.athena.sase-6w.4/README.md) | sase-6w hood | active |
 | [sase-6w.land](../../families/bbugyi200.athena.sase-6w.land.md) (family · 2) | sase-6w hood | active 1, completed 1 |
-| [sase-6w.land](../bbugyi200.athena.sase-6w.land/README.md) | sase-6w hood | completed |
 | [sase-6w.land.w0](../bbugyi200.athena.sase-6w.land.w0/README.md) | sase-6w hood | waiting |
 | [sase-6w.land.w1](../bbugyi200.athena.sase-6w.land.w1/README.md) | sase-6w hood | waiting |
 | [sase-6w.land.w2](../bbugyi200.athena.sase-6w.land.w2/README.md) | sase-6w hood | waiting |

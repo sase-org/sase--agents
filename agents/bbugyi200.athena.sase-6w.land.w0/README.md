@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6w.land](../bbugyi200.athena.sase-6w.land/README.md) | ancestor | completed |
+| [sase-6w.land](../../families/bbugyi200.athena.sase-6w.land.md) (family · 2) | ancestor | active 1, completed 1 |
 | [sase-6w.land.w1](../bbugyi200.athena.sase-6w.land.w1/README.md) | sase-6w.land hood | waiting |
 | [sase-6w.land.w2](../bbugyi200.athena.sase-6w.land.w2/README.md) | sase-6w.land hood | waiting |
 | [sase-6w.land.w3](../bbugyi200.athena.sase-6w.land.w3/README.md) | sase-6w.land hood | active |

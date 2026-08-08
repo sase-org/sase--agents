@@ -16,9 +16,3 @@
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Neighbors
-
-| Agent | Relation | State |
-|---|---|---|
-| [4j](../bbugyi200.athena.4j/README.md) | ancestor | completed |

@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-86.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-86/sase-86.1.md)
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-20T15:00:43.301749+00:00
@@ -22,11 +23,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-86.2](../../families/bbugyi200.athena.sase-86.2.md) (family · 2) | sase-86 hood | active 1, completed 1 |
-| [sase-86.2](../bbugyi200.athena.sase-86.2/README.md) | sase-86 hood | completed |
 | [sase-86.3](../../families/bbugyi200.athena.sase-86.3.md) (family · 2) | sase-86 hood | active 1, completed 1 |
-| [sase-86.3](../bbugyi200.athena.sase-86.3/README.md) | sase-86 hood | completed |
 | [sase-86.4](../../families/bbugyi200.athena.sase-86.4.md) (family · 2) | sase-86 hood | active 1, completed 1 |
-| [sase-86.4](../bbugyi200.athena.sase-86.4/README.md) | sase-86 hood | completed |
 | [sase-86.5](../bbugyi200.athena.sase-86.5/README.md) | sase-86 hood | active |
 | [sase-86.6](../bbugyi200.athena.sase-86.6/README.md) | sase-86 hood | active |
 | [sase-86.land](../bbugyi200.athena.sase-86.land/README.md) | sase-86 hood | active |

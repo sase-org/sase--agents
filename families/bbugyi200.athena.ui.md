@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `ui` · Members: 2
 ```mermaid
 flowchart TD
   n0["ui--code [completed]"]
-  n1["ui--plan [completed]"]
+  n1["ui--plan [active]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | ui--code | completed | sonnet / claude | 2026-08-07T12:39:48.292769+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.ui--code/chat.md) |
-| <a id="member-plan"></a>plan | ui--plan | completed | opus / claude | 2026-08-07T12:26:43.817727+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ui--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ui--plan/chat.md) |
+| <a id="member-plan"></a>plan | ui--plan | active | opus / claude | 2026-08-07T12:26:43.817727+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ui--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ui--plan/chat.md) |
 
 ## Commits
 
@@ -30,4 +30,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [ui.w1](../agents/bbugyi200.athena.ui.w1/README.md) | descendant | failed |
+| [ui.w1](../agents/bbugyi200.athena.ui.w1/README.md) | descendant | active |

@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-1p.split\_file.tests.agents\_sync.test\_rendering.0](../bbugyi200.athena.toobig-1p.split_file.tests.agents_sync.test_rendering.0/README.md) | toobig-1p.split\_file.tests hood | completed |
+| [toobig-1p.split\_file.tests.agents\_sync.test\_rendering.0](../bbugyi200.athena.toobig-1p.split_file.tests.agents_sync.test_rendering.0/README.md) | toobig-1p.split\_file.tests hood | active |

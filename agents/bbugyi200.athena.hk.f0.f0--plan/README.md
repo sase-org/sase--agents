@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [hk.f0](../bbugyi200.athena.hk.f0/README.md) | ancestor | completed |
+| [hk.f0](../../families/bbugyi200.athena.hk.f0.md) (family · 2) | ancestor | active 1, completed 1 |
 | [hk](../bbugyi200.athena.hk/README.md) | ancestor | active |

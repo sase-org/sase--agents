@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [hc.f0](../agents/bbugyi200.athena.hc.f0/README.md) | ancestor | completed |
-| [hc](../agents/bbugyi200.athena.hc/README.md) | ancestor | completed |
+| [hc.f0](bbugyi200.athena.hc.f0.md) (family · 2) | ancestor | active 1, completed 1 |
+| [hc](bbugyi200.athena.hc.md) (family · 2) | ancestor | active 1, completed 1 |

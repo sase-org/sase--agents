@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-bg](../users/bbugyi200/machines/athena/hoods/sase-bg/README.md) / sase-bg.7
 
-Owner: `bbugyi200.athena` · Hood: `sase-bg` · Members: 2
+Owner: `bbugyi200.athena` · Hood: `sase-bg` · Members: 2 · Bead: [sase-bg.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-bg/sase-bg.7.md)
 
 ## Lineage
 

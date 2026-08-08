@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-cs](https://github.com/sase-org/sase--beads/blob/main/pages/sase-cs/README.md)
 - Model: gemini-3.6-flash-high
 - Provider: agy
 - Timing: 2026-07-31T20:30:19.655112+00:00

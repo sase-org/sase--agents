@@ -23,7 +23,5 @@
 |---|---|---|
 | [hq.f0](../bbugyi200.athena.hq.f0/README.md) | descendant | active |
 | [hq.f2](../../families/bbugyi200.athena.hq.f2.md) (family · 2) | descendant | active 1, completed 1 |
-| [hq.f2](../bbugyi200.athena.hq.f2/README.md) | descendant | completed |
 | [hq.f2.f0](../bbugyi200.athena.hq.f2.f0/README.md) | descendant | active |
 | [hq.f2.f1](../../families/bbugyi200.athena.hq.f2.f1.md) (family · 2) | descendant | active 1, completed 1 |
-| [hq.f2.f1](../bbugyi200.athena.hq.f2.f1/README.md) | descendant | completed |

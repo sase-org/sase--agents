@@ -2,20 +2,22 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ej](../../users/bbugyi200/machines/athena/hoods/sase-ej/README.md) / sase-ej.4
 
-**Global name:** `bbugyi200.athena.sase-ej.4` · **State:** dismissed · **Source run:** `run-2c033e03ba6ca2d209f72ed01e475dcc`
+**Global name:** `bbugyi200.athena.sase-ej.4` · **State:** active · **Source run:** `run-2c033e03ba6ca2d209f72ed01e475dcc`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ej
 
 ## Summary
 
+- Bead: [sase-ej.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ej/sase-ej.4.md)
+- Epic: [sase-ej](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ej/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-03T07:41:08.683886 → 2026-08-03T08:27:29.595417
+- Timing: 2026-08-03T11:41:08.683886+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,11 +29,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ej.1](../bbugyi200.athena.sase-ej.1/README.md) | sase-ej hood | dismissed |
-| [sase-ej.2](../bbugyi200.athena.sase-ej.2/README.md) | sase-ej hood | dismissed |
-| [sase-ej.3](../bbugyi200.athena.sase-ej.3/README.md) | sase-ej hood | dismissed |
-| [sase-ej.5](../bbugyi200.athena.sase-ej.5/README.md) | sase-ej hood | dismissed |
-| [sase-ej.6](../bbugyi200.athena.sase-ej.6/README.md) | sase-ej hood | dismissed |
-| [sase-ej.land](../bbugyi200.athena.sase-ej.land/README.md) | sase-ej hood | dismissed |
+| [sase-ej.1](../bbugyi200.athena.sase-ej.1/README.md) | sase-ej hood | active |
+| [sase-ej.2](../bbugyi200.athena.sase-ej.2/README.md) | sase-ej hood | active |
+| [sase-ej.3](../bbugyi200.athena.sase-ej.3/README.md) | sase-ej hood | active |
+| [sase-ej.5](../bbugyi200.athena.sase-ej.5/README.md) | sase-ej hood | active |
+| [sase-ej.6](../bbugyi200.athena.sase-ej.6/README.md) | sase-ej hood | active |
+| [sase-ej.land](../bbugyi200.athena.sase-ej.land/README.md) | sase-ej hood | active |
 | [sase-ej.land.w0](../bbugyi200.athena.sase-ej.land.w0/README.md) | sase-ej hood | waiting |
-| [sase-ej.land.w2](../bbugyi200.athena.sase-ej.land.w2/README.md) | sase-ej hood | dismissed |
+| [sase-ej.land.w2](../bbugyi200.athena.sase-ej.land.w2/README.md) | sase-ej hood | active |

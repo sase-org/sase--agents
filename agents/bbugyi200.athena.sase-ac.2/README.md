@@ -8,6 +8,8 @@
 
 ## Summary
 
+- Bead: [sase-ac.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ac/sase-ac.2.md)
+- Epic: [sase-ac](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ac/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-28T12:08:54.194626+00:00

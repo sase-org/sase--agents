@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-1w.split\_file.tests.test\_bead.test\_task\_gate.0](../bbugyi200.athena.toobig-1w.split_file.tests.test_bead.test_task_gate.0/README.md) | toobig-1w.split\_file.tests hood | completed |
+| [toobig-1w.split\_file.tests.test\_bead.test\_task\_gate.0](../bbugyi200.athena.toobig-1w.split_file.tests.test_bead.test_task_gate.0/README.md) | toobig-1w.split\_file.tests hood | active |
