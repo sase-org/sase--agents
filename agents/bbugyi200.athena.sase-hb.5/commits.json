@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-edeb1b1f86dd8b882383d6e11a2d1843"}
+{"commits":[{"committed_at":1786170092,"sha":"4915790830164da6fe12de0acf13508e79419772","subject":"build(deps): raise sase-core-rs floor to 0.20.0"}],"schema_version":2,"source_run_id":"run-edeb1b1f86dd8b882383d6e11a2d1843"}
