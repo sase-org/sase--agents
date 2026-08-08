@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:vq Actually, can we use just the basename (with no extension) of the research markdown file and use the `id` property name instead of `research`? For example, we should start using `id: xprompt_role_binding` instead of `research: 202608/xprompt_role_binding/xprompt_role_binding.md`. #plan
