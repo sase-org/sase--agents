@@ -13,11 +13,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-08T05:15:24.864486+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c181d4c`](https://github.com/sase-org/sase/commit/c181d4c2442a47140f6465fb204decd4b7eac70d) | feat(skills)!: surface skill names across read surfaces and restrict authoring to skills/ | 2026-08-08 01:51:43 EDT |
 
 ## Neighbors
 
@@ -25,6 +31,6 @@
 |---|---|---|
 | [sase-hb.1](../bbugyi200.athena.sase-hb.1/README.md) | sase-hb hood | completed |
 | [sase-hb.2](../bbugyi200.athena.sase-hb.2/README.md) | sase-hb hood | completed |
-| [sase-hb.4](../bbugyi200.athena.sase-hb.4/README.md) | sase-hb hood | active |
+| [sase-hb.4](../bbugyi200.athena.sase-hb.4/README.md) | sase-hb hood | completed |
 | [sase-hb.5](../bbugyi200.athena.sase-hb.5/README.md) | sase-hb hood | waiting |
 | [sase-hb.land](../bbugyi200.athena.sase-hb.land/README.md) | sase-hb hood | waiting |

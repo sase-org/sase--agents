@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-dd9aa221efae04f01f0144d88d3ca5ac"}
+{"commits":[{"committed_at":1786168303,"sha":"c181d4c2442a47140f6465fb204decd4b7eac70d","subject":"feat(skills)!: surface skill names across read surfaces and restrict authoring to skills/"}],"schema_version":2,"source_run_id":"run-dd9aa221efae04f01f0144d88d3ca5ac"}
