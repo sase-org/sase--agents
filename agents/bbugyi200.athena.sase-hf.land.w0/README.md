@@ -18,7 +18,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-hf.land](../bbugyi200.athena.sase-hf.land/README.md) | ancestor | completed |
-| [sase-hf.land.w2](../bbugyi200.athena.sase-hf.land.w2/README.md) | sase-hf.land hood | failed |
+| [sase-hf.land.w2](../bbugyi200.athena.sase-hf.land.w2/README.md) | sase-hf.land hood | dismissed |
 | [sase-hf.1](../bbugyi200.athena.sase-hf.1/README.md) | sase-hf hood | completed |
 | [sase-hf.2](../bbugyi200.athena.sase-hf.2/README.md) | sase-hf hood | completed |
 | [sase-hf.3](../bbugyi200.athena.sase-hf.3/README.md) | sase-hf hood | completed |

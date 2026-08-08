@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `vq` · Members: 2
 ```mermaid
 flowchart TD
   n0["vq.f0--code [completed]"]
-  n1["vq.f0--plan [completed]"]
+  n1["vq.f0--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,11 +18,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | vq.f0--code | completed | gpt-5.5 / codex | 2026-08-08T16:36:23.878771+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.vq.f0--code/chat.md) |
-| <a id="member-plan"></a>plan | vq.f0--plan | completed | gpt-5.6-sol / codex | 2026-08-08T16:27:38.060267+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.vq.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.vq.f0--plan/chat.md) |
+| <a id="member-plan"></a>plan | vq.f0--plan | dismissed | gpt-5.6-sol / codex | 2026-08-08T12:27:38.060267 → 2026-08-08T12:54:08.465681 | 0 | — | [Chat](../agents/bbugyi200.athena.vq.f0--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [vq](bbugyi200.athena.vq.md) (family · 2) | ancestor | completed 2 |
-| [vq.f1](bbugyi200.athena.vq.f1.md) (family · 2) | vq hood | completed 2 |
+| [vq](bbugyi200.athena.vq.md) (family · 2) | ancestor | completed 1, dismissed 1 |
+| [vq.f1](bbugyi200.athena.vq.f1.md) (family · 2) | vq hood | completed 1, dismissed 1 |

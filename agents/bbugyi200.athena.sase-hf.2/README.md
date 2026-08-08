@@ -35,4 +35,4 @@
 | [sase-hf.5](../bbugyi200.athena.sase-hf.5/README.md) | sase-hf hood | completed |
 | [sase-hf.land](../bbugyi200.athena.sase-hf.land/README.md) | sase-hf hood | completed |
 | [sase-hf.land.w0](../bbugyi200.athena.sase-hf.land.w0/README.md) | sase-hf hood | dismissed |
-| [sase-hf.land.w2](../bbugyi200.athena.sase-hf.land.w2/README.md) | sase-hf hood | failed |
+| [sase-hf.land.w2](../bbugyi200.athena.sase-hf.land.w2/README.md) | sase-hf hood | dismissed |
