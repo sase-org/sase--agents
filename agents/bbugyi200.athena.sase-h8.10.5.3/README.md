@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-08T19:49:21.790614+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`607b72b`](https://github.com/sase-org/sase/commit/607b72bb0d9492cc184da022a5305748360aa96a) | test: bump flake-baseline cutoff past fixed historical xprompt records | 2026-08-08 17:27:22 EDT |
 
 ## Neighbors
 
