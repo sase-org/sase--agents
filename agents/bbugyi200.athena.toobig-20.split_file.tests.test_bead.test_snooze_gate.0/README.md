@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-20](../../users/bbugyi200/machines/athena/hoods/toobig-20/README.md) / toobig-20.split\_file.tests.test\_bead.test\_snooze\_gate.0
 
-**Global name:** `bbugyi200.athena.toobig-20.split_file.tests.test_bead.test_snooze_gate.0` · **State:** active · **Source run:** `run-21e18a533ff957b563d20374e07a09cb`
+**Global name:** `bbugyi200.athena.toobig-20.split_file.tests.test_bead.test_snooze_gate.0` · **State:** dismissed · **Source run:** `run-21e18a533ff957b563d20374e07a09cb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-20
 
@@ -10,12 +10,12 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-08T04:13:51.221065+00:00
+- Timing: 2026-08-08T00:13:51.221065 → 2026-08-08T00:25:18.376673
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 

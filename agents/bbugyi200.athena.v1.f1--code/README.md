@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [v1](../../families/bbugyi200.athena.v1.md) (family · 2) | ancestor | completed 2 |
+| [v1](../../families/bbugyi200.athena.v1.md) (family · 2) | ancestor | completed 1, dismissed 1 |
 | [v1.f0](../bbugyi200.athena.v1.f0/README.md) | v1 hood | waiting |

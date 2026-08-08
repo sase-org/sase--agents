@@ -1,1 +1,1 @@
-{"commits":[{"committed_at":1786126338,"sha":"1a43f494535e2b21af388775b5278703a975a3f7","subject":"test(visual): add a symbol fallback font so tab-icon goldens are not tofu"}],"schema_version":2,"source_run_id":"run-1d3e34067268b6a2288b90a7021e77ae"}
+{"commits":[{"committed_at":1786126338,"sha":"1a43f494535e2b21af388775b5278703a975a3f7","subject":"test(visual): add a symbol fallback font so tab-icon goldens are not tofu"}],"schema_version":2,"source_run_id":"run-fdf4477ee28858133a13bbcbda70525b"}

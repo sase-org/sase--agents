@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** w0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-w0__plan-260808_154430.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-w0__code-260808_154430.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/multi_target_bead_work.md
 
 

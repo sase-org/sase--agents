@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-1z](../../users/bbugyi200/machines/athena/hoods/toobig-1z/README.md) / toobig-1z.split\_file.src.sase.ace.tui.modals.plan\_approval\_modal.0
 
-**Global name:** `bbugyi200.athena.toobig-1z.split_file.src.sase.ace.tui.modals.plan_approval_modal.0` · **State:** active · **Source run:** `run-7ad6d422b4598af870ab7ec32b9418ed`
+**Global name:** `bbugyi200.athena.toobig-1z.split_file.src.sase.ace.tui.modals.plan_approval_modal.0` · **State:** dismissed · **Source run:** `run-7ad6d422b4598af870ab7ec32b9418ed`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-1z
 
@@ -10,12 +10,12 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-08T03:30:54.693394+00:00
+- Timing: 2026-08-07T23:30:54.693394 → 2026-08-07T23:53:14.911769
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-1z.split\_file.src.sase.ace.tui.modals.gate\_branch\_controls.0](../bbugyi200.athena.toobig-1z.split_file.src.sase.ace.tui.modals.gate_branch_controls.0/README.md) | toobig-1z.split\_file.src.sase.ace.tui.modals hood | completed |
+| [toobig-1z.split\_file.src.sase.ace.tui.modals.gate\_branch\_controls.0](../bbugyi200.athena.toobig-1z.split_file.src.sase.ace.tui.modals.gate_branch_controls.0/README.md) | toobig-1z.split\_file.src.sase.ace.tui.modals hood | dismissed |

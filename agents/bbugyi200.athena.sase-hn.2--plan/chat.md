@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-hn.2--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_hn_2__plan-260808_154659.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_hn_2__code-260808_154659.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/complete_python_patch_storage.md
 
 

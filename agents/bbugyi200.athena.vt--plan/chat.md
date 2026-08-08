@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** vt--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-vt__plan-260808_122144.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-vt__code-260808_122144.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/launch_state_thrash.md
 
 

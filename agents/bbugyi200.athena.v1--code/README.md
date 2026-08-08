@@ -28,4 +28,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [v1.f0](../bbugyi200.athena.v1.f0/README.md) | descendant | waiting |
-| [v1.f1](../../families/bbugyi200.athena.v1.f1.md) (family · 2) | descendant | completed 2 |
+| [v1.f1](../../families/bbugyi200.athena.v1.f1.md) (family · 2) | descendant | completed 1, dismissed 1 |

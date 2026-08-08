@@ -31,8 +31,8 @@
 |---|---|---|
 | [sase-hi.1](../bbugyi200.athena.sase-hi.1/README.md) | sase-hi hood | completed |
 | [sase-hi.2](../bbugyi200.athena.sase-hi.2/README.md) | sase-hi hood | completed |
-| [sase-hi.4.1](../bbugyi200.athena.sase-hi.4.1/README.md) | sase-hi hood | completed |
-| [sase-hi.4.2](../bbugyi200.athena.sase-hi.4.2/README.md) | sase-hi hood | active |
-| [sase-hi.4.3](../bbugyi200.athena.sase-hi.4.3/README.md) | sase-hi hood | waiting |
-| [sase-hi.4.land](../bbugyi200.athena.sase-hi.4.land/README.md) | sase-hi hood | waiting |
+| [sase-hi.4.1](../bbugyi200.athena.sase-hi.4.1/README.md) | sase-hi hood | dismissed |
+| [sase-hi.4.2](../bbugyi200.athena.sase-hi.4.2/README.md) | sase-hi hood | dismissed |
+| [sase-hi.4.3](../bbugyi200.athena.sase-hi.4.3/README.md) | sase-hi hood | dismissed |
+| [sase-hi.4.land](../bbugyi200.athena.sase-hi.4.land/README.md) | sase-hi hood | dismissed |
 | [sase-hi.land](../bbugyi200.athena.sase-hi.land/README.md) | sase-hi hood | failed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ci\_fix](../../users/bbugyi200/machines/athena/hoods/ci_fix/README.md) / ci\_fix.sase.l
 
-**Global name:** `bbugyi200.athena.ci_fix.sase.l` · **State:** active · **Source run:** `run-6263d2cf7692b5bcefde1800a794d66a`
+**Global name:** `bbugyi200.athena.ci_fix.sase.l` · **State:** dismissed · **Source run:** `run-7b9481a39c59e54a9777e3e29eecdfb8`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** ci\_fix
 
@@ -10,12 +10,12 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-08T06:23:02.322343+00:00
+- Timing: 2026-08-08T02:23:02.322343 → 2026-08-08T02:38:29.037809
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -42,4 +42,5 @@
 | [ci\_fix.sase.h](../bbugyi200.athena.ci_fix.sase.h/README.md) | ci\_fix.sase hood | waiting |
 | [ci\_fix.sase.i](../bbugyi200.athena.ci_fix.sase.i/README.md) | ci\_fix.sase hood | active |
 | [ci\_fix.sase.j](../bbugyi200.athena.ci_fix.sase.j/README.md) | ci\_fix.sase hood | dismissed |
-| [ci\_fix.sase.k](../bbugyi200.athena.ci_fix.sase.k/README.md) | ci\_fix.sase hood | completed |
+| [ci\_fix.sase.k](../bbugyi200.athena.ci_fix.sase.k/README.md) | ci\_fix.sase hood | dismissed |
+| [ci\_fix.sase.m](../bbugyi200.athena.ci_fix.sase.m/README.md) | ci\_fix.sase hood | waiting |

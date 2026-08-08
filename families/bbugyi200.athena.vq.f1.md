@@ -31,4 +31,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [vq](bbugyi200.athena.vq.md) (family · 2) | ancestor | completed 2 |
-| [vq.f0](bbugyi200.athena.vq.f0.md) (family · 2) | vq hood | active 2 |
+| [vq.f0](bbugyi200.athena.vq.f0.md) (family · 2) | vq hood | completed 2 |

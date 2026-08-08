@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** vo.f0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-vo_f0__plan-260808_112545.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-vo_f0__code-260808_112545.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/task_bead_gate_single_snooze_input.md
 
 

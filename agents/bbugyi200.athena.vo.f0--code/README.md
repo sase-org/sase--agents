@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [vo](../../users/bbugyi200/machines/athena/hoods/vo/README.md) / [vo.f0](../../families/bbugyi200.athena.vo.f0.md) / vo.f0--code
 
-**Global name:** `bbugyi200.athena.vo.f0--code` · **State:** active · **Source run:** `run-80e5a09e2432bdf19ad85f606baf1c06`
+**Global name:** `bbugyi200.athena.vo.f0--code` · **State:** completed · **Source run:** `run-80e5a09e2432bdf19ad85f606baf1c06`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** vo
 
@@ -12,6 +12,10 @@
 - Provider: codex
 - Timing: 2026-08-08T15:36:58.515589+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
 
 ## Commits
 
@@ -24,3 +28,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [vo](../../families/bbugyi200.athena.vo.md) (family · 2) | ancestor | completed 2 |
+| [vo.f0.f0](../bbugyi200.athena.vo.f0.f0/README.md) | descendant | dismissed |

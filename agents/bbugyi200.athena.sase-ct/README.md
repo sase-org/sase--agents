@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ct](../../users/bbugyi200/machines/athena/hoods/sase-ct/README.md) / sase-ct
 
-**Global name:** `bbugyi200.athena.sase-ct` · **State:** completed · **Source run:** `run-d0eb2da932f7a7d23c39fd1666d0305f`
+**Global name:** `bbugyi200.athena.sase-ct` · **State:** dismissed · **Source run:** `run-d0eb2da932f7a7d23c39fd1666d0305f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ct
 
@@ -11,12 +11,12 @@
 - Bead: [sase-ct](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ct/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-07T21:40:21.480013+00:00
+- Timing: 2026-08-07T17:40:21.480013 → 2026-08-07T17:47:10.064727
 - Commits: [4](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 

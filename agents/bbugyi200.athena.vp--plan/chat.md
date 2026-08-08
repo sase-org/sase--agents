@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** vp--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-vp__plan-260808_110557.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-vp__code-260808_110557.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/selected_notification_snooze_countdown.md
 
 

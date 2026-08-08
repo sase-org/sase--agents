@@ -30,10 +30,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-gz.land](../agents/bbugyi200.athena.sase-gz.land/README.md) | ancestor | completed |
-| [sase-gz.1](../agents/bbugyi200.athena.sase-gz.1/README.md) | sase-gz hood | completed |
-| [sase-gz.2](../agents/bbugyi200.athena.sase-gz.2/README.md) | sase-gz hood | completed |
-| [sase-gz.3](../agents/bbugyi200.athena.sase-gz.3/README.md) | sase-gz hood | completed |
-| [sase-gz.4](../agents/bbugyi200.athena.sase-gz.4/README.md) | sase-gz hood | completed |
-| [sase-gz.5](../agents/bbugyi200.athena.sase-gz.5/README.md) | sase-gz hood | completed |
-| [sase-gz.6](../agents/bbugyi200.athena.sase-gz.6/README.md) | sase-gz hood | completed |
+| [sase-gz.land](../agents/bbugyi200.athena.sase-gz.land/README.md) | ancestor | dismissed |
+| [sase-gz.1](../agents/bbugyi200.athena.sase-gz.1/README.md) | sase-gz hood | dismissed |
+| [sase-gz.2](../agents/bbugyi200.athena.sase-gz.2/README.md) | sase-gz hood | dismissed |
+| [sase-gz.3](../agents/bbugyi200.athena.sase-gz.3/README.md) | sase-gz hood | dismissed |
+| [sase-gz.4](../agents/bbugyi200.athena.sase-gz.4/README.md) | sase-gz hood | dismissed |
+| [sase-gz.5](../agents/bbugyi200.athena.sase-gz.5/README.md) | sase-gz hood | dismissed |
+| [sase-gz.6](../agents/bbugyi200.athena.sase-gz.6/README.md) | sase-gz hood | dismissed |
