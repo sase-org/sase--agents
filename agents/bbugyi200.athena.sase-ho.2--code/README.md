@@ -31,6 +31,6 @@
 |---|---|---|
 | [sase-ho.1](../../families/bbugyi200.athena.sase-ho.1.md) (family · 2) | sase-ho hood | completed 2 |
 | [sase-ho.3](../bbugyi200.athena.sase-ho.3/README.md) | sase-ho hood | completed |
-| [sase-ho.4](../bbugyi200.athena.sase-ho.4/README.md) | sase-ho hood | active |
-| [sase-ho.5](../bbugyi200.athena.sase-ho.5/README.md) | sase-ho hood | waiting |
+| [sase-ho.4](../bbugyi200.athena.sase-ho.4/README.md) | sase-ho hood | completed |
+| [sase-ho.5](../bbugyi200.athena.sase-ho.5/README.md) | sase-ho hood | active |
 | [sase-ho.land](../bbugyi200.athena.sase-ho.land/README.md) | sase-ho hood | waiting |

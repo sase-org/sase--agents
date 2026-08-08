@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-56bfdce6933993fe52c7ae5b0e6dfdd9"}
+{"commits":[{"committed_at":1786226581,"sha":"be6277b6722e7d393eb21c97150ddd4b47e117b4","subject":"feat: render artifact refs through ref xprompts"}],"schema_version":2,"source_run_id":"run-56bfdce6933993fe52c7ae5b0e6dfdd9"}
