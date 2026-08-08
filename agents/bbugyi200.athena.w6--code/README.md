@@ -11,4 +11,10 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-08T23:05:02.999180+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9c06b4f`](https://github.com/sase-org/sase/commit/9c06b4f7028ac8a9c1fbd7bc8ca9eb530f4bc0b2) | fix: retain bead assignee for forced agent reuse | 2026-08-08 19:43:43 EDT |

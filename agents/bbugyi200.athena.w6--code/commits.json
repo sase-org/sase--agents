@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-71ddc057cc8eb7ab7b79411d7efe3060"}
+{"commits":[{"committed_at":1786232623,"sha":"9c06b4f7028ac8a9c1fbd7bc8ca9eb530f4bc0b2","subject":"fix: retain bead assignee for forced agent reuse"}],"schema_version":2,"source_run_id":"run-71ddc057cc8eb7ab7b79411d7efe3060"}
