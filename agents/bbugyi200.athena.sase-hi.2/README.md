@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-08T16:27:36.370695+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`92f0ff3`](https://github.com/sase-org/sase/commit/92f0ff3774ca867ee971cedb092045d2a4824262) | feat(xprompts): load bundled skills from xprompt resources | 2026-08-08 13:11:31 EDT |
 
 ## Neighbors
 
