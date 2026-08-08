@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-h7](../../users/bbugyi200/machines/athena/hoods/sase-h7/README.md) / sase-h7.13.land
 
-**Global name:** `bbugyi200.athena.sase-h7.13.land` · **State:** waiting · **Source run:** `run-70df8852614b0c518c81dd638020ebe3`
+**Global name:** `bbugyi200.athena.sase-h7.13.land` · **State:** active · **Source run:** `run-70df8852614b0c518c81dd638020ebe3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-h7
 
@@ -11,12 +11,18 @@
 - Bead: [sase-h7.13](https://github.com/sase-org/sase--beads/blob/main/pages/sase-h7/sase-h7.13.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260807231454
-- Commits: 0
+- Timing: 2026-08-08T04:10:07.802229+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ed50d45`](https://github.com/sase-org/sase/commit/ed50d45ee67018f5a77bef87b8cabf6bbed1af9b) | fix(gate): keep submitted secrets out of response.json too | 2026-08-08 01:00:03 EDT |
 
 ## Neighbors
 
@@ -26,7 +32,7 @@
 | [sase-h7.13.2](../bbugyi200.athena.sase-h7.13.2/README.md) | sase-h7.13 hood | completed |
 | [sase-h7.13.3](../bbugyi200.athena.sase-h7.13.3/README.md) | sase-h7.13 hood | completed |
 | [sase-h7.13.4](../bbugyi200.athena.sase-h7.13.4/README.md) | sase-h7.13 hood | completed |
-| [sase-h7.13.5](../bbugyi200.athena.sase-h7.13.5/README.md) | sase-h7.13 hood | active |
+| [sase-h7.13.5](../bbugyi200.athena.sase-h7.13.5/README.md) | sase-h7.13 hood | completed |
 | [sase-h7.1](../bbugyi200.athena.sase-h7.1/README.md) | sase-h7 hood | dismissed |
 | [sase-h7.10](../bbugyi200.athena.sase-h7.10/README.md) | sase-h7 hood | completed |
 | [sase-h7.11](../bbugyi200.athena.sase-h7.11/README.md) | sase-h7 hood | completed |
