@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e64605c67aa6235ec4791a3e9cc92519"}
+{"commits":[{"committed_at":1786227183,"sha":"544e98a1904f319217c0661db39d037b56a538f9","subject":"feat(config): expose project glossary API"}],"schema_version":2,"source_run_id":"run-e64605c67aa6235ec4791a3e9cc92519"}
