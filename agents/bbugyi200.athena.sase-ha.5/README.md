@@ -34,6 +34,6 @@
 | [sase-ha.3](../bbugyi200.athena.sase-ha.3/README.md) | sase-ha hood | completed |
 | [sase-ha.4](../bbugyi200.athena.sase-ha.4/README.md) | sase-ha hood | completed |
 | [sase-ha.6](../bbugyi200.athena.sase-ha.6/README.md) | sase-ha hood | completed |
-| [sase-ha.7](../bbugyi200.athena.sase-ha.7/README.md) | sase-ha hood | active |
-| [sase-ha.8](../bbugyi200.athena.sase-ha.8/README.md) | sase-ha hood | waiting |
-| [sase-ha.land](../bbugyi200.athena.sase-ha.land/README.md) | sase-ha hood | waiting |
+| [sase-ha.7](../bbugyi200.athena.sase-ha.7/README.md) | sase-ha hood | completed |
+| [sase-ha.8](../bbugyi200.athena.sase-ha.8/README.md) | sase-ha hood | completed |
+| [sase-ha.land](../bbugyi200.athena.sase-ha.land/README.md) | sase-ha hood | active |
