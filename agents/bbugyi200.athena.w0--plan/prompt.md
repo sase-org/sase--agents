@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add support to the `sase bead work` command for accepting more than one target argument (multiple plan files, multiple bead IDs, or a mix)? When multiple arguments are provided, each should be addressed in sequence (as if the `sase bead work` command were run multiple times in sequence in bash using the `&&` operator). #plan
