@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-1z](../../users/bbugyi200/machines/athena/hoods/toobig-1z/README.md) / toobig-1z.split\_file.src.sase.ace.tui.modals.plan\_approval\_modal.0
 
-**Global name:** `bbugyi200.athena.toobig-1z.split_file.src.sase.ace.tui.modals.plan_approval_modal.0` · **State:** waiting · **Source run:** `run-7ad6d422b4598af870ab7ec32b9418ed`
+**Global name:** `bbugyi200.athena.toobig-1z.split_file.src.sase.ace.tui.modals.plan_approval_modal.0` · **State:** active · **Source run:** `run-7ad6d422b4598af870ab7ec32b9418ed`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-1z
 
@@ -10,12 +10,18 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20260807221130
-- Commits: 0
+- Timing: 2026-08-08T03:30:54.693394+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`20752de`](https://github.com/sase-org/sase/commit/20752def224eaa80c025ae87121a044ca0052b31) | refactor(ace): split the plan approval modal along the screen/meaning seam | 2026-08-07 23:52:07 EDT |
 
 ## Neighbors
 
