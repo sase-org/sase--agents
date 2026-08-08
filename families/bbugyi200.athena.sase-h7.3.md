@@ -34,10 +34,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-h7.10](../agents/bbugyi200.athena.sase-h7.10/README.md) | sase-h7 hood | completed |
 | [sase-h7.11](../agents/bbugyi200.athena.sase-h7.11/README.md) | sase-h7 hood | completed |
 | [sase-h7.12](../agents/bbugyi200.athena.sase-h7.12/README.md) | sase-h7 hood | completed |
-| [sase-h7.13.1](../agents/bbugyi200.athena.sase-h7.13.1/README.md) | sase-h7 hood | active |
+| [sase-h7.13.1](../agents/bbugyi200.athena.sase-h7.13.1/README.md) | sase-h7 hood | completed |
 | [sase-h7.13.2](../agents/bbugyi200.athena.sase-h7.13.2/README.md) | sase-h7 hood | completed |
-| [sase-h7.13.3](../agents/bbugyi200.athena.sase-h7.13.3/README.md) | sase-h7 hood | active |
-| [sase-h7.13.4](../agents/bbugyi200.athena.sase-h7.13.4/README.md) | sase-h7 hood | waiting |
+| [sase-h7.13.3](../agents/bbugyi200.athena.sase-h7.13.3/README.md) | sase-h7 hood | completed |
+| [sase-h7.13.4](../agents/bbugyi200.athena.sase-h7.13.4/README.md) | sase-h7 hood | active |
 | [sase-h7.13.5](../agents/bbugyi200.athena.sase-h7.13.5/README.md) | sase-h7 hood | waiting |
 | [sase-h7.13.land](../agents/bbugyi200.athena.sase-h7.13.land/README.md) | sase-h7 hood | waiting |
 | [sase-h7.2](../agents/bbugyi200.athena.sase-h7.2/README.md) | sase-h7 hood | dismissed |

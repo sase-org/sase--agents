@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-h7](../../users/bbugyi200/machines/athena/hoods/sase-h7/README.md) / sase-h7.13.1
 
-**Global name:** `bbugyi200.athena.sase-h7.13.1` · **State:** active · **Source run:** `run-bfa962337c6cf854030fd600a123c2ce`
+**Global name:** `bbugyi200.athena.sase-h7.13.1` · **State:** completed · **Source run:** `run-bfa962337c6cf854030fd600a123c2ce`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-h7
 
@@ -13,19 +13,25 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-08T03:15:02.984493+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`f2c6f18`](https://github.com/sase-org/sase/commit/f2c6f1889dce19dac2a34ecfc9b543315a19b241) | fix(gate): credit the raw-schema escape hatch in the answerability probe | 2026-08-07 23:38:18 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-h7.13.2](../bbugyi200.athena.sase-h7.13.2/README.md) | sase-h7.13 hood | completed |
-| [sase-h7.13.3](../bbugyi200.athena.sase-h7.13.3/README.md) | sase-h7.13 hood | active |
-| [sase-h7.13.4](../bbugyi200.athena.sase-h7.13.4/README.md) | sase-h7.13 hood | waiting |
+| [sase-h7.13.3](../bbugyi200.athena.sase-h7.13.3/README.md) | sase-h7.13 hood | completed |
+| [sase-h7.13.4](../bbugyi200.athena.sase-h7.13.4/README.md) | sase-h7.13 hood | active |
 | [sase-h7.13.5](../bbugyi200.athena.sase-h7.13.5/README.md) | sase-h7.13 hood | waiting |
 | [sase-h7.13.land](../bbugyi200.athena.sase-h7.13.land/README.md) | sase-h7.13 hood | waiting |
 | [sase-h7.1](../bbugyi200.athena.sase-h7.1/README.md) | sase-h7 hood | dismissed |

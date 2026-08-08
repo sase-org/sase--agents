@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1786160964,"sha":"315a5f9ffbb4ee110c5ca5b6d0ae5a6f6c45f54a","subject":"fix(bead): fail cleanly on SDD materialization refusal in read commands"}],"schema_version":2,"source_run_id":"run-99e47fb9cbe5bdb14d1389ef3972c78e"}

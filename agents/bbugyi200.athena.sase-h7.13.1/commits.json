@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-bfa962337c6cf854030fd600a123c2ce"}
+{"commits":[{"committed_at":1786160298,"sha":"f2c6f1889dce19dac2a34ecfc9b543315a19b241","subject":"fix(gate): credit the raw-schema escape hatch in the answerability probe"}],"schema_version":2,"source_run_id":"run-bfa962337c6cf854030fd600a123c2ce"}
