@@ -13,11 +13,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-08T01:52:10.172402+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`0a1502a`](https://github.com/sase-org/sase/commit/0a1502a041f459efa00a3b1c33aa4b9cfd135f11) | test(flakes): pin ambient env vars and hold fakey retry waits | 2026-08-07 22:57:16 EDT |
 
 ## Neighbors
 
@@ -28,7 +34,7 @@
 | [sase-h8.3](../bbugyi200.athena.sase-h8.3/README.md) | sase-h8 hood | completed |
 | [sase-h8.4](../bbugyi200.athena.sase-h8.4/README.md) | sase-h8 hood | completed |
 | [sase-h8.5](../bbugyi200.athena.sase-h8.5/README.md) | sase-h8 hood | completed |
-| [sase-h8.6](../bbugyi200.athena.sase-h8.6/README.md) | sase-h8 hood | active |
+| [sase-h8.6](../bbugyi200.athena.sase-h8.6/README.md) | sase-h8 hood | completed |
 | [sase-h8.8](../bbugyi200.athena.sase-h8.8/README.md) | sase-h8 hood | waiting |
 | [sase-h8.9](../bbugyi200.athena.sase-h8.9/README.md) | sase-h8 hood | waiting |
 | [sase-h8.land](../bbugyi200.athena.sase-h8.land/README.md) | sase-h8 hood | waiting |
