@@ -31,8 +31,8 @@
 |---|---|---|
 | [sase-h8.1](../bbugyi200.athena.sase-h8.1/README.md) | sase-h8 hood | completed |
 | [sase-h8.3](../bbugyi200.athena.sase-h8.3/README.md) | sase-h8 hood | completed |
-| [sase-h8.4](../bbugyi200.athena.sase-h8.4/README.md) | sase-h8 hood | active |
-| [sase-h8.5](../bbugyi200.athena.sase-h8.5/README.md) | sase-h8 hood | active |
+| [sase-h8.4](../bbugyi200.athena.sase-h8.4/README.md) | sase-h8 hood | completed |
+| [sase-h8.5](../bbugyi200.athena.sase-h8.5/README.md) | sase-h8 hood | completed |
 | [sase-h8.6](../bbugyi200.athena.sase-h8.6/README.md) | sase-h8 hood | active |
 | [sase-h8.7](../bbugyi200.athena.sase-h8.7/README.md) | sase-h8 hood | active |
 | [sase-h8.8](../bbugyi200.athena.sase-h8.8/README.md) | sase-h8 hood | waiting |

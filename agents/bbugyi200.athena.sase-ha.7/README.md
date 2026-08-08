@@ -13,11 +13,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-08T02:06:59.079278+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`1d5a8a7`](https://github.com/sase-org/sase/commit/1d5a8a70ff84a981f54b1eda0d9384fe687c1f14) | docs(llms): document the Muse Code provider end to end | 2026-08-07 22:30:14 EDT |
 
 ## Neighbors
 
