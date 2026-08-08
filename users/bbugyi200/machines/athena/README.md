@@ -1281,7 +1281,7 @@
 | [sase-hj](hoods/sase-hj/README.md) | 1 | 0 | completed 1 |
 | [sase-hl](hoods/sase-hl/README.md) | 1 | 0 | active 1 |
 | [sase-hn](hoods/sase-hn/README.md) | 11 | 3 | active 3, completed 5, waiting 3 |
-| [sase-ho](hoods/sase-ho/README.md) | 9 | 2 | active 1, completed 6, waiting 2 |
+| [sase-ho](hoods/sase-ho/README.md) | 9 | 2 | active 1, completed 7, waiting 1 |
 | [sase-hp](hoods/sase-hp/README.md) | 8 | 0 | active 1, completed 4, waiting 3 |
 | [sase-hq](hoods/sase-hq/README.md) | 7 | 0 | active 1, completed 2, waiting 4 |
 | [sase-hu](hoods/sase-hu/README.md) | 1 | 0 | active 1 |

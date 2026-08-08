@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-86ff9fdedf7c8f8848b4911584e7642f"}
+{"commits":[{"committed_at":1786230709,"sha":"0a45feebcf1bf691d83c272938e450e32b70a46e","subject":"fix(ace): treat synthesized ref renderers as read-only xprompt sources"}],"schema_version":2,"source_run_id":"run-86ff9fdedf7c8f8848b4911584e7642f"}
