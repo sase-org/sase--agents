@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1786164595,"sha":"6874d484031e3db75e48b8aeb0e27c8b0e450d35","subject":"fix(sdd): scope the plan PARENT check to what the workspace was given"}],"schema_version":2,"source_run_id":"run-398c7e204693206b7494eb93dd37a6b4"}
