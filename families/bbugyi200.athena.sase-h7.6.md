@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-h7.6--code | active | sonnet / claude | 2026-08-08T00:10:51.331893+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-h7.6--code | active | sonnet / claude | 2026-08-08T00:10:51.331893+00:00 | [1](../agents/bbugyi200.athena.sase-h7.6--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-h7.6--plan | active | opus / claude | 2026-08-08T00:01:35.337479+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-h7.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-h7.6--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`e1da6d1`](https://github.com/sase-org/sase/commit/e1da6d1b76fd1ea28bc620ab20ad63085842e932) | feat(notification-gates): collect typed gate inputs in the ACE modals | 2026-08-07 21:37:07 EDT |
 
 ## Neighbors
 
@@ -33,6 +39,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-h7.4](../agents/bbugyi200.athena.sase-h7.4/README.md) | sase-h7 hood | dismissed |
 | [sase-h7.5](../agents/bbugyi200.athena.sase-h7.5/README.md) | sase-h7 hood | dismissed |
 | [sase-h7.7](../agents/bbugyi200.athena.sase-h7.7/README.md) | sase-h7 hood | dismissed |
-| [sase-h7.8](bbugyi200.athena.sase-h7.8.md) (family · 2) | sase-h7 hood | active 2 |
+| [sase-h7.8](bbugyi200.athena.sase-h7.8.md) (family · 2) | sase-h7 hood | completed 2 |
 | [sase-h7.9](../agents/bbugyi200.athena.sase-h7.9/README.md) | sase-h7 hood | dismissed |
 | [sase-h7.land](../agents/bbugyi200.athena.sase-h7.land/README.md) | sase-h7 hood | waiting |

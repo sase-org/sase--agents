@@ -13,7 +13,13 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-08T00:10:51.331893+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`e1da6d1`](https://github.com/sase-org/sase/commit/e1da6d1b76fd1ea28bc620ab20ad63085842e932) | feat(notification-gates): collect typed gate inputs in the ACE modals | 2026-08-07 21:37:07 EDT |
 
 ## Neighbors
 
@@ -28,6 +34,6 @@
 | [sase-h7.4](../bbugyi200.athena.sase-h7.4/README.md) | sase-h7 hood | dismissed |
 | [sase-h7.5](../bbugyi200.athena.sase-h7.5/README.md) | sase-h7 hood | dismissed |
 | [sase-h7.7](../bbugyi200.athena.sase-h7.7/README.md) | sase-h7 hood | dismissed |
-| [sase-h7.8](../../families/bbugyi200.athena.sase-h7.8.md) (family · 2) | sase-h7 hood | active 2 |
+| [sase-h7.8](../../families/bbugyi200.athena.sase-h7.8.md) (family · 2) | sase-h7 hood | completed 2 |
 | [sase-h7.9](../bbugyi200.athena.sase-h7.9/README.md) | sase-h7 hood | dismissed |
 | [sase-h7.land](../bbugyi200.athena.sase-h7.land/README.md) | sase-h7 hood | waiting |

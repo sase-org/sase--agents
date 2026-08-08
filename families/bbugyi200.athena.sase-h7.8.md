@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-h7` · Members: 2 · Bead: [sase-h7.8](
 
 ```mermaid
 flowchart TD
-  n0["sase-h7.8--plan [active]"]
-  n1["sase-h7.8--code [active]"]
+  n0["sase-h7.8--plan [completed]"]
+  n1["sase-h7.8--code [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-h7.8--plan | active | opus / claude | 2026-08-08T00:01:38.750672+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-h7.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-h7.8--plan/chat.md) |
-| <a id="member-code"></a>code | sase-h7.8--code | active | sonnet / claude | 2026-08-08T00:10:02.618974+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-h7.8--plan | completed | opus / claude | 2026-08-08T00:01:38.750672+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-h7.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-h7.8--plan/chat.md) |
+| <a id="member-code"></a>code | sase-h7.8--code | completed | sonnet / claude | 2026-08-08T00:10:02.618974+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-h7.8--code/chat.md) |
 
 ## Commits
 

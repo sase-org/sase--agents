@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-h7.8--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_h7_8__plan-260807_200123.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_h7_8__code-260807_200123.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/gate_inputs_telegram.md
 
 
