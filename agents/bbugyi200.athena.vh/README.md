@@ -23,4 +23,4 @@
 |---|---|---|
 | [vh.f0](../bbugyi200.athena.vh.f0/README.md) | descendant | dismissed |
 | [vh.f1](../bbugyi200.athena.vh.f1/README.md) | descendant | dismissed |
-| [vh.f2](../bbugyi200.athena.vh.f2/README.md) | descendant | waiting |
+| [vh.f3](../bbugyi200.athena.vh.f3/README.md) | descendant | failed |
