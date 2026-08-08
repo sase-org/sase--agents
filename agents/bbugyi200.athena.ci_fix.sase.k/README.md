@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ci\_fix](../../users/bbugyi200/machines/athena/hoods/ci_fix/README.md) / ci\_fix.sase.k
 
-**Global name:** `bbugyi200.athena.ci_fix.sase.k` · **State:** active · **Source run:** `run-1799a529035a441dd14b3664d54fbe16`
+**Global name:** `bbugyi200.athena.ci_fix.sase.k` · **State:** completed · **Source run:** `run-1799a529035a441dd14b3664d54fbe16`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** ci\_fix
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -42,3 +42,4 @@
 | [ci\_fix.sase.h](../bbugyi200.athena.ci_fix.sase.h/README.md) | ci\_fix.sase hood | waiting |
 | [ci\_fix.sase.i](../bbugyi200.athena.ci_fix.sase.i/README.md) | ci\_fix.sase hood | active |
 | [ci\_fix.sase.j](../bbugyi200.athena.ci_fix.sase.j/README.md) | ci\_fix.sase hood | dismissed |
+| [ci\_fix.sase.l](../bbugyi200.athena.ci_fix.sase.l/README.md) | ci\_fix.sase hood | active |
