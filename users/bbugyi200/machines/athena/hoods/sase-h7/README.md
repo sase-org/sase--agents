@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-h7
 
-**Global hood:** `bbugyi200.athena.sase-h7` · **Runs:** 16 · **Families:** 3 · **States:** active 5, completed 1, dismissed 7, waiting 3
+**Global hood:** `bbugyi200.athena.sase-h7` · **Runs:** 16 · **Families:** 3 · **States:** active 4, completed 2, dismissed 7, waiting 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -12,7 +12,7 @@
 | [sase-h7.3--plan](../../../../../../families/bbugyi200.athena.sase-h7.3.md#member-plan) | dismissed | opus / claude | 2026-08-07T17:13:31.675799 → 2026-08-07T18:29:08.062256 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-h7.3--plan/chat.md) |
 | [sase-h7.7](../../../../../../agents/bbugyi200.athena.sase-h7.7/README.md) | dismissed | opus / claude | 2026-08-07T18:31:51.046466 | 1 | — |
 | [sase-h7.6--code](../../../../../../families/bbugyi200.athena.sase-h7.6.md#member-code) | active | sonnet / claude | 2026-08-08T00:10:51.331893+00:00 | 0 | — |
-| [sase-h7.10](../../../../../../agents/bbugyi200.athena.sase-h7.10/README.md) | active | sonnet / claude | 2026-08-08T00:01:41.018085+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h7.10/prompt.md) |
+| [sase-h7.10](../../../../../../agents/bbugyi200.athena.sase-h7.10/README.md) | completed | sonnet / claude | 2026-08-08T00:01:41.018085+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-h7.10/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-h7.10/prompt.md) |
 | [sase-h7.9](../../../../../../agents/bbugyi200.athena.sase-h7.9/README.md) | dismissed | opus / claude | 2026-08-07T18:31:53.434245 → 2026-08-07T19:25:51.384825 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-h7.9/chat.md) |
 | [sase-h7.2](../../../../../../agents/bbugyi200.athena.sase-h7.2/README.md) | dismissed | opus / claude | 2026-08-07T17:13:16.639434 → 2026-08-07T17:48:43.518679 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-h7.2/chat.md) |
 | [sase-h7.1](../../../../../../agents/bbugyi200.athena.sase-h7.1/README.md) | dismissed | opus / claude | 2026-08-07T17:13:10.377421 → 2026-08-07T17:40:37.750898 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-h7.1/chat.md) |

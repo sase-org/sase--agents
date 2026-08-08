@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-h7](../../users/bbugyi200/machines/athena/hoods/sase-h7/README.md) / sase-h7.10
 
-**Global name:** `bbugyi200.athena.sase-h7.10` · **State:** active · **Source run:** `run-8aa57d47d122b32aeb56960207e61e0d`
+**Global name:** `bbugyi200.athena.sase-h7.10` · **State:** completed · **Source run:** `run-8aa57d47d122b32aeb56960207e61e0d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-h7
 
@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-08T00:01:41.018085+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`a1cc172`](https://github.com/sase-org/sase/commit/a1cc172d337957f2d68d42ec9fe6c3187907ae87) | feat(notification-gates): surface declared and submitted gate input | 2026-08-07 20:41:46 EDT |
 
 ## Neighbors
 
