@@ -2,16 +2,16 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-h7
 
-**Global hood:** `bbugyi200.athena.sase-h7` · **Runs:** 22 · **Families:** 3 · **States:** active 3, completed 8, dismissed 7, failed 1, waiting 3
+**Global hood:** `bbugyi200.athena.sase-h7` · **Runs:** 22 · **Families:** 3 · **States:** active 2, completed 9, dismissed 7, failed 1, waiting 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-h7.13.3](../../../../../../agents/bbugyi200.athena.sase-h7.13.3/README.md) | active | opus / claude | 2026-08-08T03:15:14.701597+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h7.13.3/prompt.md) |
+| [sase-h7.13.3](../../../../../../agents/bbugyi200.athena.sase-h7.13.3/README.md) | active | opus / claude | 2026-08-08T03:15:14.701597+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h7.13.3/prompt.md) |
 | [sase-h7.13.4](../../../../../../agents/bbugyi200.athena.sase-h7.13.4/README.md) | waiting | opus / claude | 20260807231452 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h7.13.4/prompt.md) |
 | [sase-h7.12](../../../../../../agents/bbugyi200.athena.sase-h7.12/README.md) | completed | sonnet / claude | 2026-08-08T02:30:59.312631+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h7.12/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-h7.12/chat.md) |
 | [sase-h7.8--plan](../../../../../../families/bbugyi200.athena.sase-h7.8.md#member-plan) | completed | opus / claude | 2026-08-08T00:01:38.750672+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h7.8--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-h7.8--plan/chat.md) |
 | [sase-h7.land](../../../../../../agents/bbugyi200.athena.sase-h7.land/README.md) | failed | opus / claude | 2026-08-08T02:55:09.879109+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h7.land/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-h7.land/chat.md) |
-| [sase-h7.13.2](../../../../../../agents/bbugyi200.athena.sase-h7.13.2/README.md) | active | sonnet / claude | 2026-08-08T03:15:07.930025+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h7.13.2/prompt.md) |
+| [sase-h7.13.2](../../../../../../agents/bbugyi200.athena.sase-h7.13.2/README.md) | completed | sonnet / claude | 2026-08-08T03:15:07.930025+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h7.13.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-h7.13.2/chat.md) |
 | [sase-h7.3--plan](../../../../../../families/bbugyi200.athena.sase-h7.3.md#member-plan) | dismissed | opus / claude | 2026-08-07T17:13:31.675799 → 2026-08-07T18:29:08.062256 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-h7.3--plan/chat.md) |
 | [sase-h7.7](../../../../../../agents/bbugyi200.athena.sase-h7.7/README.md) | dismissed | opus / claude | 2026-08-07T18:31:51.046466 | 1 | — |
 | [sase-h7.13.land](../../../../../../agents/bbugyi200.athena.sase-h7.13.land/README.md) | waiting | opus / claude | 20260807231454 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-h7.13.land/prompt.md) |

@@ -1267,7 +1267,7 @@
 | [sase-h4](hoods/sase-h4/README.md) | 1 | 0 | completed 1 |
 | [sase-h5](hoods/sase-h5/README.md) | 1 | 0 | completed 1 |
 | [sase-h6](hoods/sase-h6/README.md) | 1 | 0 | completed 1 |
-| [sase-h7](hoods/sase-h7/README.md) | 22 | 3 | active 3, completed 8, dismissed 7, failed 1, waiting 3 |
+| [sase-h7](hoods/sase-h7/README.md) | 22 | 3 | active 2, completed 9, dismissed 7, failed 1, waiting 3 |
 | [sase-h8](hoods/sase-h8/README.md) | 10 | 0 | active 1, completed 6, waiting 3 |
 | [sase-ha](hoods/sase-ha/README.md) | 9 | 0 | active 1, completed 6, waiting 2 |
 | [sase-hb](hoods/sase-hb/README.md) | 6 | 0 | active 1, waiting 5 |
