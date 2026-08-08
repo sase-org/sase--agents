@@ -2,7 +2,7 @@
 %id(12, clan=sase-h7, bead=sase-h7.12)
 %model:@small_phase_worker
 %auto
-%w:sase-h7.10,sase-h7.11,sase-h7.5,sase-h7.7,sase-h7.9
+%w:sase-h7.10,sase-h7.11
 %w(bead=sase-h7.10)
 %w(bead=sase-h7.11)
 %w(bead=sase-h7.5)
