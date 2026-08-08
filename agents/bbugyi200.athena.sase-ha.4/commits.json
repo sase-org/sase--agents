@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-fd8e4705f4ff20f7cf6b481c4208ea6d"}
+{"commits":[{"committed_at":1786153491,"sha":"050c9477cea1e11b85df7d504b46a50db3bbdd67","subject":"feat(llm-provider): parse Muse tool calls, usage, and model identity"}],"schema_version":2,"source_run_id":"run-fd8e4705f4ff20f7cf6b481c4208ea6d"}
