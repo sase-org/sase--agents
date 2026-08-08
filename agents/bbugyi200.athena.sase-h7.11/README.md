@@ -13,11 +13,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-08T01:42:57.789447+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`27d04a6`](https://github.com/sase-org/sase/commit/27d04a679981f65c9efb655df8518da1731f2bf6) | feat(notification-gates)!: retire free-text smuggling from snooze, triage, and launch | 2026-08-07 22:29:07 EDT |
 
 ## Neighbors
 
