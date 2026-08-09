@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-09T12:19:59.138542+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`a3a536a`](https://github.com/sase-org/sase/commit/a3a536a033daebf647439bde081d7e609a8dc99e) | feat(bead): add regex mode to bead search | 2026-08-09 08:46:44 EDT |
 
 ## Neighbors
 

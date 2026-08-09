@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6f6d37a061b0ed67cd44363159022828"}
+{"commits":[{"committed_at":1786279604,"sha":"a3a536a033daebf647439bde081d7e609a8dc99e","subject":"feat(bead): add regex mode to bead search"}],"schema_version":2,"source_run_id":"run-6f6d37a061b0ed67cd44363159022828"}
