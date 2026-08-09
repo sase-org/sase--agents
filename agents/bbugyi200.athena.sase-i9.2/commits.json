@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b046ef63bcdc446c6c28d94c16faca7f"}
+{"commits":[{"committed_at":1786289882,"sha":"d83fe9668c0bd70b15d16ec87be0dbc03b8156b4","subject":"perf: install Rust dev artifacts in one update step"}],"schema_version":2,"source_run_id":"run-b046ef63bcdc446c6c28d94c16faca7f"}
