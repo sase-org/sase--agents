@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f146e8ba6e8ef969b2373f0239fa5888"}
+{"commits":[{"committed_at":1786284972,"sha":"d7e9ae8ae5ebcc9b55d68bfa8cc739c4a550a977","subject":"fix(search): require corrected core matcher release"}],"schema_version":2,"source_run_id":"run-f146e8ba6e8ef969b2373f0239fa5888"}

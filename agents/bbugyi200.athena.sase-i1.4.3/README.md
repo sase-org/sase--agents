@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-09T13:33:05.903196+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`d7e9ae8`](https://github.com/sase-org/sase/commit/d7e9ae8ae5ebcc9b55d68bfa8cc739c4a550a977) | fix(search): require corrected core matcher release | 2026-08-09 10:16:12 EDT |
 
 ## Neighbors
 
