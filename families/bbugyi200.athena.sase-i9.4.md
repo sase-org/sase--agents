@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-i9.4--plan | active | gpt-5.6-sol / codex | 2026-08-09T16:52:01.417566+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-i9.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-i9.4--plan/chat.md) |
-| <a id="member-code"></a>code | sase-i9.4--code | active | gpt-5.5 / codex | 2026-08-09T17:01:15.421235+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-i9.4--code | active | gpt-5.5 / codex | 2026-08-09T17:01:15.421235+00:00 | [1](../agents/bbugyi200.athena.sase-i9.4--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`9bce277`](https://github.com/sase-org/sase/commit/9bce277c942cc10009b984f1cc309920a36c29a6) | feat: add Rust prebuild cache | 2026-08-09 13:51:42 EDT |
 
 ## Neighbors
 
