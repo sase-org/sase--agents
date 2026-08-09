@@ -27,8 +27,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-23.split\_file.src.sase.ace.tui.widgets.\_prompt\_input\_bar\_stack\_rendering.0](../bbugyi200.athena.toobig-23.split_file.src.sase.ace.tui.widgets._prompt_input_bar_stack_rendering.0/README.md) | toobig-23.split\_file.src.sase.ace hood | active |
-| [toobig-23.split\_file.src.sase.artifact\_ref\_prompt.0](../bbugyi200.athena.toobig-23.split_file.src.sase.artifact_ref_prompt.0/README.md) | toobig-23.split\_file.src.sase hood | waiting |
-| [toobig-23.split\_file.src.sase.xprompt.workflow\_loader.0](../bbugyi200.athena.toobig-23.split_file.src.sase.xprompt.workflow_loader.0/README.md) | toobig-23.split\_file.src.sase hood | waiting |
+| [toobig-23.split\_file.src.sase.ace.tui.widgets.\_prompt\_input\_bar\_stack\_rendering.0](../bbugyi200.athena.toobig-23.split_file.src.sase.ace.tui.widgets._prompt_input_bar_stack_rendering.0/README.md) | toobig-23.split\_file.src.sase.ace hood | completed |
+| [toobig-23.split\_file.src.sase.artifact\_ref\_prompt.0](../bbugyi200.athena.toobig-23.split_file.src.sase.artifact_ref_prompt.0/README.md) | toobig-23.split\_file.src.sase hood | completed |
+| [toobig-23.split\_file.src.sase.xprompt.workflow\_loader.0](../bbugyi200.athena.toobig-23.split_file.src.sase.xprompt.workflow_loader.0/README.md) | toobig-23.split\_file.src.sase hood | active |
 | [toobig-23.split\_file.tests.test\_artifact\_ref\_preprocessing.0](../bbugyi200.athena.toobig-23.split_file.tests.test_artifact_ref_preprocessing.0/README.md) | toobig-23.split\_file hood | waiting |
 | [toobig-23.split\_file.tests.test\_bead.test\_project.0](../bbugyi200.athena.toobig-23.split_file.tests.test_bead.test_project.0/README.md) | toobig-23.split\_file hood | waiting |

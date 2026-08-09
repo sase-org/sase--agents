@@ -1376,7 +1376,7 @@
 | [toobig-20](hoods/toobig-20/README.md) | 1 | 0 | dismissed 1 |
 | [toobig-21](hoods/toobig-21/README.md) | 1 | 0 | dismissed 1 |
 | [toobig-22](hoods/toobig-22/README.md) | 1 | 0 | completed 1 |
-| [toobig-23](hoods/toobig-23/README.md) | 6 | 0 | active 1, completed 1, waiting 4 |
+| [toobig-23](hoods/toobig-23/README.md) | 6 | 0 | active 1, completed 3, waiting 2 |
 | [toobig-3](hoods/toobig-3/README.md) | 13 | 0 | active 4, waiting 9 |
 | [toobig-4](hoods/toobig-4/README.md) | 14 | 0 | active 6, waiting 8 |
 | [toobig-5](hoods/toobig-5/README.md) | 13 | 0 | active 13 |
