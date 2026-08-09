@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add support to the `sase bead search` command for regular expressions? Make sure that a CLI option is required to enable this (to keep plain string searches as fast as possible). #plan #m_opus

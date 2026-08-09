@@ -1,0 +1,28 @@
+# Agent: sase-i1.3
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-i1](../../users/bbugyi200/machines/athena/hoods/sase-i1/README.md) / sase-i1.3
+
+**Global name:** `bbugyi200.athena.sase-i1.3` · **State:** active · **Source run:** `run-6f6d37a061b0ed67cd44363159022828`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-i1
+
+## Summary
+
+- Bead: [sase-i1.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-i1/sase-i1.3.md)
+- Epic: [sase-i1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-i1/README.md)
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 2026-08-09T12:19:59.138542+00:00
+- Commits: 0
+
+## Files
+
+[Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-i1.1](../bbugyi200.athena.sase-i1.1/README.md) | sase-i1 hood | completed |
+| [sase-i1.2](../bbugyi200.athena.sase-i1.2/README.md) | sase-i1 hood | completed |
+| [sase-i1.land](../bbugyi200.athena.sase-i1.land/README.md) | sase-i1 hood | waiting |

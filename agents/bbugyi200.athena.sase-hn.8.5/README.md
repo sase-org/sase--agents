@@ -34,10 +34,10 @@
 | [sase-hn.8.3](../../families/bbugyi200.athena.sase-hn.8.3.md) (family · 2) | sase-hn.8 hood | completed 2 |
 | [sase-hn.8.4](../bbugyi200.athena.sase-hn.8.4/README.md) | sase-hn.8 hood | completed |
 | [sase-hn.8.6.1](../bbugyi200.athena.sase-hn.8.6.1/README.md) | sase-hn.8 hood | completed |
-| [sase-hn.8.6.2](../../families/bbugyi200.athena.sase-hn.8.6.2.md) (family · 2) | sase-hn.8 hood | active 2 |
+| [sase-hn.8.6.2](../../families/bbugyi200.athena.sase-hn.8.6.2.md) (family · 2) | sase-hn.8 hood | completed 2 |
 | [sase-hn.8.6.3](../bbugyi200.athena.sase-hn.8.6.3/README.md) | sase-hn.8 hood | completed |
-| [sase-hn.8.6.4](../bbugyi200.athena.sase-hn.8.6.4/README.md) | sase-hn.8 hood | waiting |
-| [sase-hn.8.6.land](../bbugyi200.athena.sase-hn.8.6.land/README.md) | sase-hn.8 hood | waiting |
+| [sase-hn.8.6.4](../bbugyi200.athena.sase-hn.8.6.4/README.md) | sase-hn.8 hood | completed |
+| [sase-hn.8.6.land](../../families/bbugyi200.athena.sase-hn.8.6.land.md) (family · 2) | sase-hn.8 hood | completed 2 |
 | [sase-hn.8.land](../bbugyi200.athena.sase-hn.8.land/README.md) | sase-hn.8 hood | failed |
 | [sase-hn.1](../bbugyi200.athena.sase-hn.1/README.md) | sase-hn hood | completed |
 | [sase-hn.2](../../families/bbugyi200.athena.sase-hn.2.md) (family · 2) | sase-hn hood | completed 2 |

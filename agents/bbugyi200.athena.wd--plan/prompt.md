@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I'm not sure why I'm getting the LSP error shown in #sshot (this is happening in nvim). Can you help me diagnose the root cause of this issue and fix it? #plan #m_opus

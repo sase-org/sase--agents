@@ -20,6 +20,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | sase-hn.4--code | completed | gpt-5.5 / codex | 2026-08-08T22:42:02.602435+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-hn.4--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-hn.4--plan | completed | gpt-5.6-sol / codex | 2026-08-08T22:35:43.292396+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-hn.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-hn.4--plan/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`c7026e5`](https://github.com/sase-org/sase/commit/c7026e50ef202e6d4dd63d8001af9d0c55ba4cdd) | feat(tui): rename ACE patch surface | 2026-08-08 21:48:53 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
@@ -36,9 +42,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-hn.8.4](../agents/bbugyi200.athena.sase-hn.8.4/README.md) | sase-hn hood | completed |
 | [sase-hn.8.5](../agents/bbugyi200.athena.sase-hn.8.5/README.md) | sase-hn hood | completed |
 | [sase-hn.8.6.1](../agents/bbugyi200.athena.sase-hn.8.6.1/README.md) | sase-hn hood | completed |
-| [sase-hn.8.6.2](bbugyi200.athena.sase-hn.8.6.2.md) (family · 2) | sase-hn hood | active 2 |
+| [sase-hn.8.6.2](bbugyi200.athena.sase-hn.8.6.2.md) (family · 2) | sase-hn hood | completed 2 |
 | [sase-hn.8.6.3](../agents/bbugyi200.athena.sase-hn.8.6.3/README.md) | sase-hn hood | completed |
-| [sase-hn.8.6.4](../agents/bbugyi200.athena.sase-hn.8.6.4/README.md) | sase-hn hood | waiting |
-| [sase-hn.8.6.land](../agents/bbugyi200.athena.sase-hn.8.6.land/README.md) | sase-hn hood | waiting |
+| [sase-hn.8.6.4](../agents/bbugyi200.athena.sase-hn.8.6.4/README.md) | sase-hn hood | completed |
+| [sase-hn.8.6.land](bbugyi200.athena.sase-hn.8.6.land.md) (family · 2) | sase-hn hood | completed 2 |
 | [sase-hn.8.land](../agents/bbugyi200.athena.sase-hn.8.land/README.md) | sase-hn hood | failed |
 | [sase-hn.land](../agents/bbugyi200.athena.sase-hn.land/README.md) | sase-hn hood | failed |

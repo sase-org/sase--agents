@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ff514bd4e3282600976a11e6309b36e7"}
+{"commits":[{"committed_at":1786274518,"sha":"466a24c3814838d3cf0d9ed7a87c370181106b3d","subject":"fix(ci): repair published core compatibility checks (#290)"}],"schema_version":2,"source_run_id":"run-115fd5c301339096c076b1cb91cae663"}

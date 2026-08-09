@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase I want to make sure that sase agents that use the /sase_new_task skill do not spend too much unnecessary time searching for duplicate task beads. Can you help me make it so we instruct them (via this skill's instructions) to use the `sase bead search` command when searching for duplicate sase task beads? They should still use the `sase bead list` command to check for related, in-progress epics. Make sure the instructions for this skill are useful but concise. Remember that every token added to context either helps or hurts us.
+
+#plan #m_opus

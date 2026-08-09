@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:wb %w:sase-i1.land Can you now help me update these instructions in-light of the new support for regular expressions that was added to the `sase bead search` command (see the sase-i1 epic bead for context)? Remember to keep the instructions concise and feel free to opt out and not create a plan if you don't think the instructions need updating. #plan

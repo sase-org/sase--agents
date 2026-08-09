@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We currently highlight glossary aliases in the prompt input widget and in external editors via LSP support. Can you help me start underlining these terms as well? See how we do this for known misspelled words in the prompt input widget for inspiration. #bea #plan #m_opus

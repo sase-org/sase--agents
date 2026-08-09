@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Yesterday was 2026-08-08, so I don't understand why the agents in the `This Week` agent tribe panel group shown in #sshot are not in the `Yesterday` group instead. Can you help me diagnose the root cause of this issue and fix it? #plan #m_opus

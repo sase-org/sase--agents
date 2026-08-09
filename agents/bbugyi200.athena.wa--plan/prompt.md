@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start rendering `ALIASES: ` in agent instruction files instead of `Aliases: `? The `sase memory init` command adds these lines based on the `glossary` sase config field I believe. #plan #m_opus

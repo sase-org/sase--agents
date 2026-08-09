@@ -30,9 +30,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-hn.8.6.1](../bbugyi200.athena.sase-hn.8.6.1/README.md) | sase-hn.8.6 hood | completed |
-| [sase-hn.8.6.2](../../families/bbugyi200.athena.sase-hn.8.6.2.md) (family · 2) | sase-hn.8.6 hood | active 2 |
-| [sase-hn.8.6.4](../bbugyi200.athena.sase-hn.8.6.4/README.md) | sase-hn.8.6 hood | waiting |
-| [sase-hn.8.6.land](../bbugyi200.athena.sase-hn.8.6.land/README.md) | sase-hn.8.6 hood | waiting |
+| [sase-hn.8.6.2](../../families/bbugyi200.athena.sase-hn.8.6.2.md) (family · 2) | sase-hn.8.6 hood | completed 2 |
+| [sase-hn.8.6.4](../bbugyi200.athena.sase-hn.8.6.4/README.md) | sase-hn.8.6 hood | completed |
+| [sase-hn.8.6.land](../../families/bbugyi200.athena.sase-hn.8.6.land.md) (family · 2) | sase-hn.8.6 hood | completed 2 |
 | [sase-hn.8.1](../bbugyi200.athena.sase-hn.8.1/README.md) | sase-hn.8 hood | completed |
 | [sase-hn.8.2](../../families/bbugyi200.athena.sase-hn.8.2.md) (family · 2) | sase-hn.8 hood | completed 2 |
 | [sase-hn.8.3](../../families/bbugyi200.athena.sase-hn.8.3.md) (family · 2) | sase-hn.8 hood | completed 2 |

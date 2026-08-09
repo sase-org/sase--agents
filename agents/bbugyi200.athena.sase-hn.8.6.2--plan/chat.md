@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-hn.8.6.2--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_hn_8_6_2__plan-260809_041601.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_hn_8_6_2__code-260809_041601.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/clear_ace_tui_test_surface.md
 
 
