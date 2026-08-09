@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-hq](../../users/bbugyi200/machines/athena/hoods/sase-hq/README.md) / sase-hq.land
 
-**Global name:** `bbugyi200.athena.sase-hq.land` · **State:** waiting · **Source run:** `run-1bdf77118c0580dca604b9aa829b70aa`
+**Global name:** `bbugyi200.athena.sase-hq.land` · **State:** active · **Source run:** `run-1bdf77118c0580dca604b9aa829b70aa`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-hq
 
@@ -11,12 +11,18 @@
 - Bead: [sase-hq](https://github.com/sase-org/sase--beads/blob/main/pages/sase-hq/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260808171308
-- Commits: 0
+- Timing: 2026-08-09T00:44:08.238584+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`4d3262f`](https://github.com/sase-org/sase/commit/4d3262f5c6b23f6e1c11f857844ffe4cc6ba82dc) | refactor(glossary): retire sase-hq epic symbols and finish landing cleanup | 2026-08-08 21:31:53 EDT |
 
 ## Neighbors
 
@@ -27,4 +33,4 @@
 | [sase-hq.3](../bbugyi200.athena.sase-hq.3/README.md) | sase-hq hood | completed |
 | [sase-hq.4](../bbugyi200.athena.sase-hq.4/README.md) | sase-hq hood | completed |
 | [sase-hq.5](../bbugyi200.athena.sase-hq.5/README.md) | sase-hq hood | completed |
-| [sase-hq.6](../bbugyi200.athena.sase-hq.6/README.md) | sase-hq hood | active |
+| [sase-hq.6](../bbugyi200.athena.sase-hq.6/README.md) | sase-hq hood | completed |

@@ -27,5 +27,5 @@
 | [sase-hq.2](../bbugyi200.athena.sase-hq.2/README.md) | sase-hq hood | completed |
 | [sase-hq.3](../bbugyi200.athena.sase-hq.3/README.md) | sase-hq hood | completed |
 | [sase-hq.4](../bbugyi200.athena.sase-hq.4/README.md) | sase-hq hood | completed |
-| [sase-hq.6](../bbugyi200.athena.sase-hq.6/README.md) | sase-hq hood | active |
-| [sase-hq.land](../bbugyi200.athena.sase-hq.land/README.md) | sase-hq hood | waiting |
+| [sase-hq.6](../bbugyi200.athena.sase-hq.6/README.md) | sase-hq hood | completed |
+| [sase-hq.land](../bbugyi200.athena.sase-hq.land/README.md) | sase-hq hood | active |
