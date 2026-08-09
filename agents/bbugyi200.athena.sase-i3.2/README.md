@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-i3](../../users/bbugyi200/machines/athena/hoods/sase-i3/README.md) / sase-i3.2
 
-**Global name:** `bbugyi200.athena.sase-i3.2` · **State:** active · **Source run:** `run-1a6b3dfeae982f10d46c15dbefb68b45`
+**Global name:** `bbugyi200.athena.sase-i3.2` · **State:** completed · **Source run:** `run-1a6b3dfeae982f10d46c15dbefb68b45`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-i3
 
@@ -17,12 +17,12 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-i3.1](../bbugyi200.athena.sase-i3.1/README.md) | sase-i3 hood | completed |
-| [sase-i3.3](../bbugyi200.athena.sase-i3.3/README.md) | sase-i3 hood | waiting |
-| [sase-i3.land](../bbugyi200.athena.sase-i3.land/README.md) | sase-i3 hood | waiting |
+| [sase-i3.3](../bbugyi200.athena.sase-i3.3/README.md) | sase-i3 hood | completed |
+| [sase-i3.land](../bbugyi200.athena.sase-i3.land/README.md) | sase-i3 hood | active |

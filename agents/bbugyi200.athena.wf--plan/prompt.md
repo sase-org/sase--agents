@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The syntax highlighting for glossary terms in the prompt input widget flickers everytime a character is typed, which is distracting and annoying. Can you help me diagnose the root cause of this issue and fix it? #plan #m_opus
