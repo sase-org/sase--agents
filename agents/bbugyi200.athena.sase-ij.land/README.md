@@ -29,4 +29,4 @@
 | [sase-ij.5](../bbugyi200.athena.sase-ij.5/README.md) | sase-ij hood | waiting |
 | [sase-ij.6](../bbugyi200.athena.sase-ij.6/README.md) | sase-ij hood | waiting |
 | [sase-ij.7](../bbugyi200.athena.sase-ij.7/README.md) | sase-ij hood | active |
-| [sase-ij.8](../bbugyi200.athena.sase-ij.8/README.md) | sase-ij hood | active |
+| [sase-ij.8](../bbugyi200.athena.sase-ij.8/README.md) | sase-ij hood | completed |
