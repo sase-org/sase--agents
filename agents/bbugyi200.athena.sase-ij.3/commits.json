@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f1163298a47d914a8248dc395ac9228d"}
+{"commits":[{"committed_at":1786304532,"sha":"48d5bcdf1e9c59a9a6dea498e3eb7a08b1c1a7d8","subject":"ci: enforce published core floor in release workflows"}],"schema_version":2,"source_run_id":"run-f1163298a47d914a8248dc395ac9228d"}
