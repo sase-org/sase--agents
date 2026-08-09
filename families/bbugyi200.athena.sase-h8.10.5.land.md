@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-h8.10.5.land--plan | active | gpt-5.6-sol / codex | 2026-08-08T21:30:05.738619+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-h8.10.5.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-h8.10.5.land--plan/chat.md) |
-| <a id="member-code"></a>code | sase-h8.10.5.land--code | active | gpt-5.5 / codex | 2026-08-08T22:09:13.208354+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-h8.10.5.land--code | active | gpt-5.5 / codex | 2026-08-08T22:09:13.208354+00:00 | [1](../agents/bbugyi200.athena.sase-h8.10.5.land--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`aeab1cb`](https://github.com/sase-org/sase/commit/aeab1cb9cc11033a5c1c57c09bbf49f1ca14ceb4) | test(tui): update artifact ref highlight snapshot | 2026-08-08 20:37:54 EDT |
 
 ## Neighbors
 
