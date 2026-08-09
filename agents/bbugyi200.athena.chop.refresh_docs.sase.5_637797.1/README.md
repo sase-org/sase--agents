@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [chop](../../users/bbugyi200/machines/athena/hoods/chop/README.md) / chop.refresh\_docs.sase.5\_637797.1
 
-**Global name:** `bbugyi200.athena.chop.refresh_docs.sase.5_637797.1` · **State:** active · **Source run:** `run-1f41fd8e91982381c7e36ad6eefaead9`
+**Global name:** `bbugyi200.athena.chop.refresh_docs.sase.5_637797.1` · **State:** completed · **Source run:** `run-1f41fd8e91982381c7e36ad6eefaead9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** chop
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,7 +27,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [chop.refresh\_docs.sase.5\_637797.2](../bbugyi200.athena.chop.refresh_docs.sase.5_637797.2/README.md) | chop.refresh\_docs.sase.5\_637797 hood | waiting |
+| [chop.refresh\_docs.sase.5\_637797.2](../bbugyi200.athena.chop.refresh_docs.sase.5_637797.2/README.md) | chop.refresh\_docs.sase.5\_637797 hood | active |
 | [chop.refresh\_docs.sase.0\_190948.1](../bbugyi200.athena.chop.refresh_docs.sase.0_190948.1/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.0\_190948.2](../bbugyi200.athena.chop.refresh_docs.sase.0_190948.2/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.0\_456044.1](../bbugyi200.athena.chop.refresh_docs.sase.0_456044.1/README.md) | chop.refresh\_docs.sase hood | active |
