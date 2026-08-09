@@ -17,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | wn--code | active | gpt-5.5 / codex | 2026-08-09T17:44:03.977720+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | wn--code | active | gpt-5.5 / codex | 2026-08-09T17:44:03.977720+00:00 | [1](../agents/bbugyi200.athena.wn--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | wn--plan | active | opus / claude | 2026-08-09T17:35:12.539036+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.wn--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.wn--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`bb279a2`](https://github.com/sase-org/sase/commit/bb279a2d595129a2ccd7536b44c516b1b709d5d8) | feat(ace): add glossary preview cards | 2026-08-09 14:21:25 EDT |
