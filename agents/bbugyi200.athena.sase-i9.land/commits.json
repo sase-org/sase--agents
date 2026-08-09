@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0037e76acf9f0e59c39fe84938cc781f"}
+{"commits":[{"committed_at":1786313468,"sha":"8658abee6a733ddadd7b4b5bb01225ec66c8300d","subject":"fix(dev-update): bound prebuild commands so a wedged build cannot pin the lock"}],"schema_version":2,"source_run_id":"run-0037e76acf9f0e59c39fe84938cc781f"}
