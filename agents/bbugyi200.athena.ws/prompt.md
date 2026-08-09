@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase It looks like glossary terms are not recognized when split across lines (see "xprompt memory" in #sshot for an example). Can you help me fix this? #plan #m_opus
