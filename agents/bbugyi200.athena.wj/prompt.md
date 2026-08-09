@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make updating sase when dev versions are installed (e.g. using the `,U` keymap) much faster somehow without removing any functionality / breaking anything? #plan #m_opus %w(runners=4)
