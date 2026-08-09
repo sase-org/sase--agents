@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-hn.7--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_hn_7__plan-260808_154704.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_hn_7__code-260808_154704.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/patch_stitch_compatibility_audit.md
 
 
