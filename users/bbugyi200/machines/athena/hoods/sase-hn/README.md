@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-hn
 
-**Global hood:** `bbugyi200.athena.sase-hn` · **Runs:** 20 · **Families:** 6 · **States:** active 5, completed 12, failed 1, waiting 2
+**Global hood:** `bbugyi200.athena.sase-hn` · **Runs:** 20 · **Families:** 6 · **States:** active 4, completed 13, failed 1, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -15,7 +15,7 @@
 | [sase-hn.4--code](../../../../../../families/bbugyi200.athena.sase-hn.4.md#member-code) | completed | gpt-5.5 / codex | 2026-08-08T22:42:02.602435+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-hn.4--code/chat.md) |
 | [sase-hn.2--code](../../../../../../families/bbugyi200.athena.sase-hn.2.md#member-code) | completed | gpt-5.5 / codex | 2026-08-08T19:51:02.061997+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-hn.2--code/chat.md) |
 | [sase-hn.5](../../../../../../agents/bbugyi200.athena.sase-hn.5/README.md) | completed | gpt-5.5 / codex | 2026-08-08T22:35:46.619939+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-hn.5/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-hn.5/chat.md) |
-| [sase-hn.8.4](../../../../../../agents/bbugyi200.athena.sase-hn.8.4/README.md) | active | gpt-5.5 / codex | 2026-08-09T04:29:46.265290+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-hn.8.4/prompt.md) |
+| [sase-hn.8.4](../../../../../../agents/bbugyi200.athena.sase-hn.8.4/README.md) | completed | gpt-5.5 / codex | 2026-08-09T04:29:46.265290+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-hn.8.4/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-hn.8.4/chat.md) |
 | [sase-hn.4--plan](../../../../../../families/bbugyi200.athena.sase-hn.4.md#member-plan) | completed | gpt-5.6-sol / codex | 2026-08-08T22:35:43.292396+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-hn.4--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-hn.4--plan/chat.md) |
 | [sase-hn.8.1](../../../../../../agents/bbugyi200.athena.sase-hn.8.1/README.md) | completed | gpt-5.5 / codex | 2026-08-09T04:12:41.326847+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-hn.8.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-hn.8.1/chat.md) |
 | [sase-hn.3--code](../../../../../../families/bbugyi200.athena.sase-hn.3.md#member-code) | completed | gpt-5.5 / codex | 2026-08-08T21:14:15.050859+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-hn.3--code/chat.md) |

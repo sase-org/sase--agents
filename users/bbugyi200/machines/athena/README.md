@@ -1280,7 +1280,7 @@
 | [sase-hi](hoods/sase-hi/README.md) | 8 | 0 | completed 3, dismissed 4, failed 1 |
 | [sase-hj](hoods/sase-hj/README.md) | 1 | 0 | completed 1 |
 | [sase-hl](hoods/sase-hl/README.md) | 1 | 0 | completed 1 |
-| [sase-hn](hoods/sase-hn/README.md) | 20 | 6 | active 5, completed 12, failed 1, waiting 2 |
+| [sase-hn](hoods/sase-hn/README.md) | 20 | 6 | active 4, completed 13, failed 1, waiting 2 |
 | [sase-ho](hoods/sase-ho/README.md) | 9 | 2 | active 1, completed 7, waiting 1 |
 | [sase-hp](hoods/sase-hp/README.md) | 8 | 0 | active 1, completed 7 |
 | [sase-hq](hoods/sase-hq/README.md) | 7 | 0 | active 1, completed 6 |
