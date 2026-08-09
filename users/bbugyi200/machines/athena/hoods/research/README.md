@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / research
 
-**Global hood:** `bbugyi200.athena.research` · **Runs:** 312 · **Families:** 6 · **States:** active 149, completed 142, dismissed 9, failed 1, waiting 11
+**Global hood:** `bbugyi200.athena.research` · **Runs:** 312 · **Families:** 6 · **States:** active 149, completed 143, dismissed 9, failed 1, waiting 10
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -150,7 +150,7 @@
 | [research.0p.image](../../../../../../agents/bbugyi200.athena.research.0p.image/README.md) | completed | — | 2026-06-26T19:41:45+00:00 → 2026-06-26T19:41:45+00:00 | 1 | — |
 | [research.f.cdx](../../../../../../agents/bbugyi200.athena.research.f.cdx/README.md) | active | gpt-5.6-sol / codex | 2026-07-16T21:52:55.257059+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.research.f.cdx/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.research.f.cdx/prompt.md) |
 | [research.4.cdx](../../../../../../agents/bbugyi200.athena.research.4.cdx/README.md) | completed | — | 2026-06-09T20:14:35+00:00 → 2026-06-09T20:14:35+00:00 | 1 | — |
-| [research.04.final](../../../../../../agents/bbugyi200.athena.research.04.final/README.md) | active | opus / claude | 2026-08-09T18:09:02.522626+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.research.04.final/prompt.md) |
+| [research.04.final](../../../../../../agents/bbugyi200.athena.research.04.final/README.md) | completed | opus / claude | 2026-08-09T18:09:02.522626+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.research.04.final/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.research.04.final/prompt.md) |
 | [research.04.cld](../../../../../../agents/bbugyi200.athena.research.04.cld/README.md) | completed | opus / claude | 2026-08-09T17:55:19.310410+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.research.04.cld/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.research.04.cld/prompt.md) |
 | [research.g.final.f0](../../../../../../agents/bbugyi200.athena.research.g.final.f0/README.md) | active | claude-fable-5 / claude | 2026-07-17T14:08:04.772761+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.research.g.final.f0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.research.g.final.f0/prompt.md) |
 | [research.w.image](../../../../../../agents/bbugyi200.athena.research.w.image/README.md) | waiting | gpt-5.6-sol / codex | 20260731161742 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.research.w.image/prompt.md) |
@@ -292,7 +292,7 @@
 | [research.0p.cld](../../../../../../agents/bbugyi200.athena.research.0p.cld/README.md) | completed | — | 2026-06-26T19:29:32+00:00 → 2026-06-26T19:29:32+00:00 | 1 | — |
 | [research.07.cdx](../../../../../../agents/bbugyi200.athena.research.07.cdx/README.md) | completed | — | 2026-06-22T16:45:31+00:00 → 2026-06-22T16:45:31+00:00 | 1 | — |
 | [research.cdx-14](../../../../../../agents/bbugyi200.athena.research.cdx-14/README.md) | completed | — | 2026-06-07T10:24:40+00:00 → 2026-06-07T10:24:40+00:00 | 1 | — |
-| [research.04.image](../../../../../../agents/bbugyi200.athena.research.04.image/README.md) | waiting | gpt-5.6-sol / codex | 20260809135349 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.research.04.image/prompt.md) |
+| [research.04.image](../../../../../../agents/bbugyi200.athena.research.04.image/README.md) | active | gpt-5.6-sol / codex | 2026-08-09T18:24:16.855438+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.research.04.image/prompt.md) |
 | [research.09.image](../../../../../../agents/bbugyi200.athena.research.09.image/README.md) | completed | — | 2026-06-23T16:18:41+00:00 → 2026-06-23T16:18:41+00:00 | 1 | — |
 | [research.5.cld](../../../../../../agents/bbugyi200.athena.research.5.cld/README.md) | completed | — | 2026-06-09T22:09:48+00:00 → 2026-06-09T22:09:48+00:00 | 1 | — |
 | [research.final-11](../../../../../../agents/bbugyi200.athena.research.final-11/README.md) | completed | — | 2026-06-06T17:21:24+00:00 → 2026-06-06T17:21:24+00:00 | 1 | — |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-i8](../../users/bbugyi200/machines/athena/hoods/sase-i8/README.md) / sase-i8.7
 
-**Global name:** `bbugyi200.athena.sase-i8.7` · **State:** waiting · **Source run:** `run-9077dfa5b2e273c25ad283f497a7fab5`
+**Global name:** `bbugyi200.athena.sase-i8.7` · **State:** active · **Source run:** `run-9077dfa5b2e273c25ad283f497a7fab5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-i8
 
@@ -12,12 +12,18 @@
 - Epic: [sase-i8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-i8/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260809094935
-- Commits: 0
+- Timing: 2026-08-09T17:49:45.196051+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c613822`](https://github.com/sase-org/sase/commit/c6138223bc86d8196812834ce76351f8f8f4df4f) | feat(ace): add commit merge visibility controls | 2026-08-09 14:25:10 EDT |
 
 ## Neighbors
 
@@ -27,7 +33,7 @@
 | [sase-i8.2](../bbugyi200.athena.sase-i8.2/README.md) | sase-i8 hood | completed |
 | [sase-i8.3](../bbugyi200.athena.sase-i8.3/README.md) | sase-i8 hood | completed |
 | [sase-i8.4](../bbugyi200.athena.sase-i8.4/README.md) | sase-i8 hood | completed |
-| [sase-i8.5](../bbugyi200.athena.sase-i8.5/README.md) | sase-i8 hood | active |
+| [sase-i8.5](../bbugyi200.athena.sase-i8.5/README.md) | sase-i8 hood | completed |
 | [sase-i8.6](../bbugyi200.athena.sase-i8.6/README.md) | sase-i8 hood | completed |
 | [sase-i8.8](../bbugyi200.athena.sase-i8.8/README.md) | sase-i8 hood | waiting |
 | [sase-i8.9](../bbugyi200.athena.sase-i8.9/README.md) | sase-i8 hood | waiting |
