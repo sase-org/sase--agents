@@ -12,7 +12,13 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-09T13:35:24.425555+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`a764618`](https://github.com/sase-org/sase/commit/a76461812e1fdf1a6661dbb790bd8fc54ed95300) | test(glossary): include display aliases in prompt fixture | 2026-08-09 09:50:01 EDT |
 
 ## Neighbors
 

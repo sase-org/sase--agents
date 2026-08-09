@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-i3.land--code | active | gpt-5.5 / codex | 2026-08-09T13:35:24.425555+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-i3.land--code | active | gpt-5.5 / codex | 2026-08-09T13:35:24.425555+00:00 | [1](../agents/bbugyi200.athena.sase-i3.land--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-i3.land--plan | active | gpt-5.6-sol / codex | 2026-08-09T13:22:19.004070+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-i3.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-i3.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`a764618`](https://github.com/sase-org/sase/commit/a76461812e1fdf1a6661dbb790bd8fc54ed95300) | test(glossary): include display aliases in prompt fixture | 2026-08-09 09:50:01 EDT |
 
 ## Neighbors
 

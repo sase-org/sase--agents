@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3a38dd3358062b555a4d8f226fdd9d25"}
+{"commits":[{"committed_at":1786283401,"sha":"a76461812e1fdf1a6661dbb790bd8fc54ed95300","subject":"test(glossary): include display aliases in prompt fixture"}],"schema_version":2,"source_run_id":"run-3a38dd3358062b555a4d8f226fdd9d25"}
