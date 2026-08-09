@@ -1292,7 +1292,7 @@
 | [sase-i8](hoods/sase-i8/README.md) | 10 | 0 | active 1, completed 6, waiting 3 |
 | [sase-i9](hoods/sase-i9/README.md) | 7 | 1 | active 2, completed 3, waiting 2 |
 | [sase-ia](hoods/sase-ia/README.md) | 6 | 0 | active 1, completed 5 |
-| [sase-ib](hoods/sase-ib/README.md) | 10 | 2 | active 3, completed 5, waiting 2 |
+| [sase-ib](hoods/sase-ib/README.md) | 10 | 2 | active 2, completed 6, waiting 2 |
 | [sase-id](hoods/sase-id/README.md) | 1 | 0 | active 1 |
 | [sase-ie](hoods/sase-ie/README.md) | 1 | 0 | completed 1 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |

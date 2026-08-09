@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ab74dbd56463ba6c26a2341bf22c56a7"}
+{"commits":[{"committed_at":1786300504,"sha":"44bf25f84fecc2ee32c0c6fc8cf58a642f0f632b","subject":"perf(ace): amortize ACE test app startup"}],"schema_version":2,"source_run_id":"run-ab74dbd56463ba6c26a2341bf22c56a7"}
