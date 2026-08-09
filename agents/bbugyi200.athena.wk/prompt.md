@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make sase's test suite (i.e. the `just test` command) much faster without removing any meaningful test coverage or causing resource issues when many parallel agents are running? #plan #m_opus %w(runners=4)
