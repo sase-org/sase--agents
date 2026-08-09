@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-492e2cb5d2430808cd09506fe32cf180"}
+{"commits":[{"committed_at":1786292173,"sha":"c58a0dfb6cf32188b5fb1ae166661f4abcda7dea","subject":"feat(vcs): add merge visibility to provider logs"}],"schema_version":2,"source_run_id":"run-492e2cb5d2430808cd09506fe32cf180"}
