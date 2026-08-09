@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-ib.3--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ib_3__plan-260809_103753.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ib_3__code-260809_103753.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/ace_app_boot_amortization.md
 
 

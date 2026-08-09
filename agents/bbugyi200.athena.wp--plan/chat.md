@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** wp--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-wp__plan-260809_145135.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-wp__code-260809_145135.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/dev_update_env_overlay.md
 
 

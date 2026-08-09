@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `wf` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["wf--plan [completed]"]
+  n0["wf--plan [dismissed]"]
   n1["wf--code [completed]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | wf--plan | completed | opus / claude | 2026-08-09T12:56:06.507530+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.wf--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.wf--plan/chat.md) |
+| <a id="member-plan"></a>plan | wf--plan | dismissed | opus / claude | 2026-08-09T08:56:06.507530 → 2026-08-09T09:29:22.064065 | 0 | — | [Chat](../agents/bbugyi200.athena.wf--plan/chat.md) |
 | <a id="member-code"></a>code | wf--code | completed | gpt-5.5 / codex | 2026-08-09T13:06:19.918476+00:00 | [1](../agents/bbugyi200.athena.wf--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.wf--code/chat.md) |
 
 ## Commits

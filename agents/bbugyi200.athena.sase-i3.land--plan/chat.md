@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-i3.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_i3_land__plan-260809_081954.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_i3_land__code-260809_081954.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/glossary_alias_plurals_landing.md
 
 

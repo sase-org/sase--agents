@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ib](../../users/bbugyi200/machines/athena/hoods/sase-ib/README.md) / sase-ib.7
 
-**Global name:** `bbugyi200.athena.sase-ib.7` · **State:** waiting · **Source run:** `run-4a9bbba7a55f88ab353b964264135f13`
+**Global name:** `bbugyi200.athena.sase-ib.7` · **State:** active · **Source run:** `run-4a9bbba7a55f88ab353b964264135f13`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ib
 
@@ -12,7 +12,7 @@
 - Epic: [sase-ib](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ib/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260809103755
+- Timing: 2026-08-09T18:37:16.943900+00:00
 - Commits: 0
 
 ## Files
@@ -25,7 +25,7 @@
 |---|---|---|
 | [sase-ib.1](../bbugyi200.athena.sase-ib.1/README.md) | sase-ib hood | completed |
 | [sase-ib.2](../../families/bbugyi200.athena.sase-ib.2.md) (family · 2) | sase-ib hood | completed 2 |
-| [sase-ib.3](../../families/bbugyi200.athena.sase-ib.3.md) (family · 2) | sase-ib hood | active 2 |
+| [sase-ib.3](../../families/bbugyi200.athena.sase-ib.3.md) (family · 2) | sase-ib hood | completed 2 |
 | [sase-ib.4](../bbugyi200.athena.sase-ib.4/README.md) | sase-ib hood | completed |
 | [sase-ib.5](../bbugyi200.athena.sase-ib.5/README.md) | sase-ib hood | completed |
 | [sase-ib.6](../bbugyi200.athena.sase-ib.6/README.md) | sase-ib hood | completed |

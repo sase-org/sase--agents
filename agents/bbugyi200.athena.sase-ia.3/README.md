@@ -33,4 +33,4 @@
 | [sase-ia.2](../bbugyi200.athena.sase-ia.2/README.md) | sase-ia hood | completed |
 | [sase-ia.4](../bbugyi200.athena.sase-ia.4/README.md) | sase-ia hood | completed |
 | [sase-ia.5](../bbugyi200.athena.sase-ia.5/README.md) | sase-ia hood | completed |
-| [sase-ia.land](../bbugyi200.athena.sase-ia.land/README.md) | sase-ia hood | active |
+| [sase-ia.land](../bbugyi200.athena.sase-ia.land/README.md) | sase-ia hood | completed |

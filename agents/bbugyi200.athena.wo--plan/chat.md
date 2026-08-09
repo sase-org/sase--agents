@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** wo--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-wo__plan-260809_133708.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-wo__code-260809_133708.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/ace_post_write_noninteractive.md
 
 

@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [d2](../../../../../../agents/bbugyi200.athena.d2/README.md) | active | claude-fable-5 / claude | 2026-07-18T10:59:38.263396+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.d2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.d2/prompt.md) |
+| [d2](../../../../../../agents/bbugyi200.athena.d2/README.md) | active | claude-fable-5 / claude | 2026-07-18T10:59:38.263396+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.d2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.d2/chat.md) |

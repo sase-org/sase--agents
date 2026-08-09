@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `wp` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["wp--plan [active]"]
-  n1["wp--code [active]"]
+  n0["wp--plan [completed]"]
+  n1["wp--code [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | wp--plan | active | opus / claude | 2026-08-09T18:51:47.983814+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.wp--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.wp--plan/chat.md) |
-| <a id="member-code"></a>code | wp--code | active | gpt-5.5 / codex | 2026-08-09T18:59:38.506306+00:00 | [1](../agents/bbugyi200.athena.wp--code/README.md#commits) | — | — |
+| <a id="member-plan"></a>plan | wp--plan | completed | opus / claude | 2026-08-09T18:51:47.983814+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.wp--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.wp--plan/chat.md) |
+| <a id="member-code"></a>code | wp--code | completed | gpt-5.5 / codex | 2026-08-09T18:59:38.506306+00:00 | [1](../agents/bbugyi200.athena.wp--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.wp--code/chat.md) |
 
 ## Commits
 

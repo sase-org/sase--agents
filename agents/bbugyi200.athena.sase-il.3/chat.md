@@ -1,0 +1,388 @@
+# Chat History - ace-run (sase-il.3)
+
+- **TIMESTAMP:** 2026-08-09 17:45:11 EDT
+- **MODEL:** codex/gpt-5.5
+- **AGENT:** sase-il.3
+
+## Prompt
+
+#gh:gh_sase-org__sase
+%id(3, clan=sase-il, bead=sase-il.3)
+%model:@medium_phase_worker
+%auto
+Can you complete the work for bead sase-il.3? The bead is already reserved for you and assigned to your agent
+name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
+checkpoint or by the runtime promoting an ad-hoc wait-time claim. Do not set the status by hand. Read its
+description and design file, do the work, and close the bead with
+`sase bead close sase-il.3 --note "<what you verified>"`. Closing an assigned phase bead is unaffected by the
+parent-close descendant guard. Do NOT close the parent epic. Do not create beads yourself: record discovered
+follow-up work as a `PROPOSED FOLLOW-UP:` entry via
+`sase bead note sase-il.3 'PROPOSED FOLLOW-UP: <one-line summary — detail>'`; the epic's land agent triages
+these into task beads.
+
+## Response
+
+I’ll use the SASE memory-read workflow first because this task involves querying and closing a bead. After that I’ll inspect `sase-il.3`, read its design context, implement the scoped change, verify it, and close only that bead.
+
+The bead memory confirms two things that matter here: I should query through `sase bead`, and as a phase worker I should append `PROPOSED FOLLOW-UP:` notes instead of creating new task beads. I’m reading the bead now and looking for the linked design file.
+
+The phase is `core-tale-size`: add required tale `size` validation in `sase-core`, expose it on the wire, and release it. Its plan lives in the plans sidecar, so I’m switching to the repo-opening workflow before reading that design file.
+
+The plans sidecar is present for this workspace. I’m opening it through `sase repo open` for an audit trail, then I’ll read `202608/sase_sizes_memory.md` from the printed path.
+
+I have the audited plans path. Next I’m reading the phase details and acceptance criteria, then I’ll map those to the core repo layout before editing.
+
+That exact relative path did not exist under the opened sidecar, so I’m locating the plan filename within the plans repo rather than guessing the directory layout.
+
+The sidecar has a `202608` directory, but the specific filename is absent in this checkout. I’m listing nearby plan files and also checking bead history in case the plan link was renamed.
+
+The bead event says the design path is `plans:202608/sase_sizes_memory.md`, but that file is missing from the sidecar after updating to `origin/main`. I’m searching the whole sidecar for the epic title and related slug to see whether the design content landed under another name.
+
+The design file is not present in the plans repo or its history under the referenced path, which looks like a publication gap in the sidecar rather than a local typo. I’ll continue from the bead’s phase description and the surrounding core patterns, and I’ll record the missing design file as a proposed follow-up on this phase if it remains relevant after implementation.
+
+This phase crosses the Python/Rust boundary, so I’m checking the registered repo inventory before touching the Rust core checkout. The instructions require opening any non-workspace repo through SASE, even when it sits next to this checkout.
+
+`sase-core` is a linked repo in this workspace. I’m opening that linked checkout now, then I’ll inspect the validator and binding surfaces.
+
+The core checkout is ready. I’m scanning for the tale plan validator, phase-size wire types, and Python binding/export points so the change lands at the shared backend layer instead of duplicating logic in Python.
+
+The relevant code appears to be under `crates/sase_core/src/plan`. I’m reading the validator, wire structs, and the existing parity tests before deciding the smallest edit.
+
+The current validator already requires phase sizes for epic phases and has a launch-mode legacy fallback there. I’m reading the rest of the validator to see how tale frontmatter is normalized and where the wire schema should grow.
+
+I’ve found the exact shape: `ValidatedPlanWire` currently has `model` but no plan-level `size`, and tale-only `size` is currently classified as an inert epic field. I’m going to change tale validation to require a plan-level `size`, normalize it into the wire result, and keep epic phase-size behavior unchanged.
+
+The unit fixtures still treat a tale without `size` as valid, so the core change will require updating those expectations. I’m reading the remaining validator tests to preserve the existing diagnostic conventions.
+
+The Rust API is pure serde wire, so adding `size` to `ValidatedPlanWire` will automatically affect JSON consumers once bindings are rebuilt. I’m checking the Python facade now so I can update any typed wrappers or fixtures in the primary repo after the core change.
+
+The primary repo has Python plan models and validation wrappers. I’m narrowing to `sase.sdd.plan_validate` and the tests that assert the Rust JSON shape, rather than scanning every unrelated `size` usage.
+
+The Python facade mirrors the Rust wire with dataclasses, so it needs a `size` field too. I’m reading that wrapper and the plan validation tests to keep Python/Rust parity intact.
+
+The existing Python tests assume tale plans have only `tier/title/goal`. I’ll update the shared test fixtures to include `size` and add explicit negative coverage for missing/invalid tale size so the new rule is enforced at both core and facade levels.
+
+The CLI examples are generated from the schema, so adding `size` to the tale schema should update expected output automatically. I’m checking that rendering path just enough to know whether tests need literal example updates.
+
+The follow-on phase is responsible for using tale size in SASE routing; this phase only needs the core validator/wire contract and enough Python facade compatibility for the new core payload. I’m checking the core crate versioning/changelog conventions before editing.
+
+The SASE package currently pins `sase-core-rs>=0.21.3,<0.22.0`, while the core checkout is already `0.22.0`. I’m checking the binding crate and release workflow because this change adds a breaking wire field/schema bump.
+
+The PyO3 layer just serializes the Rust wire, but it has contract tests for the returned JSON and schema. I’m opening those tests so the core crate stays self-consistent after the schema bump.
+
+Because the normalized validation payload gains a field and tale validation becomes stricter, I’m treating this as `PLAN_WIRE_SCHEMA_VERSION` 3. That means the Python facade constant and any installed-core validation probe that asserts the plan payload version must move with it.
+
+I’m searching that probe for plan-validation assertions before editing, since a stale version check would make `just check` fail even if the unit tests pass.
+
+The core checkout is at released `0.22.0`; adding required tale size is a breaking validation/wire change, so a semver-minor bump to `0.23.0` is the defensible release version. I’m checking whether version bumps are mechanical across Cargo metadata before making that edit.
+
+The version strings are centralized in the core workspace manifest and lock file, with package changelogs per crate. I’m going to edit core validator/schema/tests and changelogs first, then regenerate the lockfile with Cargo instead of hand-editing it.
+
+I’m making the core edit now: top-level `size` becomes a required tale-only field, the normalized plan wire gets `size: Option<String>`, and the plan wire schema version moves to 3.
+
+The core implementation is in place. I’m updating Rust tests now: valid tale fixtures get `size`, normalized results assert it, and old missing/invalid cases are adjusted to expect the new tale-size diagnostics.
+
+The test updates are mechanical but spread across the core validator, parity fixture, and PyO3 binding contract. I’m patching those expectations in one pass, then I’ll let the compiler catch any missed struct fields.
+
+The first core test patch is applied. I’m quickly inspecting the edited sections because one of the loops needed a format-string change, and Rust will be strict about that.
+
+The quick inspection caught a bad replacement in one header-block test and a few places where the combined output was hard to read. I’m switching to line-numbered reads around the edited ranges and correcting those before compiling.
+
+The header-block helper gained one frontmatter line, so the expected diagnostic line numbers need a matching +1 adjustment. I’m fixing that and the duplicated prose-plan argument now.
+
+The structural test expectations are cleaned up. I’m adding explicit tale-size coverage now so the rule is not only implied by fixture changes.
+
+I’m adding one focused Rust unit for tale `size`: missing is an error, bad values are rejected, all five values normalize, and top-level `size` on an epic stays invalid.
+
+The Rust validator now has direct coverage for tale size. I’m updating the parity JSON fixture so the serialized wire contract includes `schema_version: 3` and `plan.size`.
+
+The parity fixture is updated. Next I’m aligning the PyO3 binding contract: the epic payload should report schema 3 with `size: null`, and tale payloads must include `size`.
+
+I’m also tightening the Rust schema test so the new tale `size` field’s required/type/description metadata is checked directly, not only through the field order.
+
+The exact formatting differed from my patch context. I’m applying the schema assertions against the line-numbered section I just read.
+
+Core edits are far enough to compile. I’m running the focused Rust plan-validation tests now to catch missed struct fields or stale JSON expectations before touching the Python facade.
+
+The focused core test build is still compiling dependencies in this fresh linked checkout. I’ll let it finish, then I’ll fix whatever the compiler reports before moving on.
+
+The focused core parity test passed. I’m moving to the SASE Python facade: bump its expected plan wire version, carry `plan.size`, update valid tale fixtures, and teach the CLI explanation/example about required tale size.
+
+There are a few helper fixtures and file-write tests with minimal tale frontmatter. I’m reading those before patching so I don’t accidentally make an intentionally invalid plan valid.
+
+The Python-side updates are straightforward: add `size: small` to valid tale fixtures, keep intentionally invalid tests invalid for their original reason, and move schema assertions from 2 to 3.
+
+The facade now expects wire schema 3 and the tale help text shows required size. I’m patching the main validation tests and shared fixtures next.
+
+The primary `VALID_TALE` fixture now carries size and schema assertions are at 3. I’m updating helper fixtures and the diagnostic-specific cases that used hand-written tale frontmatter.
+
+Shared valid tale fixtures are updated. I’m patching SDD write tests where source plans are meant to pass validation after being copied into the plans sidecar.
+
+Now I’m adjusting diagnostic cases so they keep testing the intended problem instead of also tripping the new required tale-size rule.
+
+The first diagnostic patch is in. I’m searching again for remaining hand-authored tale plans without `size` in the touched test surface and source help.
+
+Remaining `tier: tale` hits are either updated valid fixtures or intentionally invalid files. I’m checking for stale plan-validation schema version assertions across tests and tools now.
+
+Most schema-version 2 hits are unrelated wire contracts. I’m narrowing to plan-validation tests now so I only change the relevant assertions.
+
+Plan-validation schema-version assertions are now all at 3. I’m adding one small assertion that the generated minimal tale example includes `size: small`, since that is a user-facing schema affordance.
+
+One test writes a source plan with no frontmatter and expects SASE to materialize a tale plan. Since the core validator now requires tale size, I’m checking whether the writer synthesizes default frontmatter or simply preserves the source.
+
+The committed-plan validator runs the Rust schema after the 202608 cutover, so any writer-generated tale must now include size before it can be stored. I’m checking the write path for where to preserve or synthesize that field.
+
+The write path itself can remain strict: pre-cutover tests stay unaffected, and post-cutover valid source fixtures now carry `size`. I’m searching for direct `_ValidatedPlan` construction or `.size` assumptions before running Python tests.
+
+The Python facade has no direct constructor fallout. I’m now handling release metadata: this is a plan wire/schema break, so the core crate and PyO3 package need a changelog entry and a version bump before SASE can depend on the new binding.
+
+The core README says release-plz owns Cargo version edits, so I’m leaving workspace versions alone and recording the breaking release note under Unreleased. That keeps the release metadata correct without fighting the repo’s release automation.
+
+Changelog entries are in place under Unreleased. I’m formatting the Rust workspace now, then I’ll rerun the focused core and binding tests.
+
+Rustfmt finished cleanly. I’m running the targeted Rust unit, parity fixture, and PyO3 binding contract tests that cover this change.
+
+The core unit and parity tests passed. The PyO3 contract test is still building the binding crate, so I’m waiting for that result before running Python-side tests.
+
+The PyO3 build is still running with no new output. I’ll keep waiting; this crate is large and the first build in a workspace can take a while.
+
+The PyO3 contract test passed. I’m rebuilding/installing the local SASE dev environment now so the Python tests use the updated linked `sase-core` extension rather than the old installed wheel.
+
+`just install` is rebuilding the local extension. It emitted the expected compatibility-window warning because SASE still pins the previous published floor; the dev install continues from the linked source checkout.
+
+The extension build is still running. After it finishes, I’ll run the focused Python plan-validation tests before the repo-wide check.
+
+No new install output yet; the local maturin build is still active. I’m waiting for completion rather than starting tests against a half-updated environment.
+
+The build is taking a while but still has the session open. I’ll keep waiting; terminating here would leave the Python environment ambiguous.
+
+The build has moved into `sase_core_py`, the final binding crate. Once it installs, I’ll validate the Python facade against that freshly built module.
+
+Still waiting on the final binding crate. I’m leaving the install session active until it returns a definite success or failure.
+
+`just install` completed and installed the rebuilt local `sase_core_rs`. I’m running the focused Python validation and SDD write tests now.
+
+The focused Python run found one stale test fixture: it was validating common diagnostics on a tale without `size`, so the new `tale-size-missing` error correctly appeared. I’m adding `size: small` there and rerunning the focused tests.
+
+The stale fixture is fixed. I’m rerunning the same focused Python set to confirm no adjacent validation expectation is left behind.
+
+The rerun found only the line-number assertion moved by the added `size` line. I’m correcting that expected line and rerunning the focused set once more.
+
+I’m picking up from the implemented changes and verification already completed in core. I’ll rerun the Python validation tests after the last fixture adjustment, then run the repo check gate and close the bead with the verification note.
+
+The focused Python validation tests are now clean. I’m moving to the required repository gate next; this will exercise linting plus the diff-scoped test lane against the current tree.
+
+`just check` is still running. The only noteworthy output so far is the same local development warning about the linked `sase-core` checkout being newer than the published compatibility window; the gate has continued past formatting and early lint steps.
+
+The check has cleared mypy and the project-specific lint lanes. I’m waiting on the scoped test selection and test run now.
+
+The gate reached its SASE validation step and surfaced an existing actionable warning: the published `sase-core-rs` floor is stale relative to release `v0.22.0`. I’m letting the full check finish before deciding whether this bead needs a follow-up note or a local compatibility-window adjustment.
+
+`just check` failed at `validate_committed_plans`: the new rule is rejecting 118 currently strict tale plans that predate `size`. I’m inspecting that validator before changing anything, because the right fix is either to migrate those strict plan files or explicitly grandfather older committed tales in that lane.
+
+The validator failure is specifically from committed plan documents, not from the app tests we touched. I’m narrowing to `validate_committed_plans` now to understand whether “strict” means “must migrate immediately” in this repository’s check contract.
+
+The existing sweep applies full schema validation to every plan in cutover months, so the new required `size` field makes old strict-month tale files fail immediately. I’m reading the committed-plan tests and helper contract before deciding whether to update the policy or migrate the sidecar documents.
+
+The committed-plan unit tests currently model strict tales without `size`, so they also need to move to the new contract. The remaining question is the sidecar sweep: I’m checking the actual failing plan files to see whether they can be migrated mechanically without guessing user-facing semantics.
+
+The sidecar files are already committed plan records, mostly with `status: done`, and the missing `size` is purely frontmatter. Since historical tale size cannot be recovered from the plan body reliably, I’m checking status distribution before applying any mechanical migration.
+
+There is a better migration source than guessing: many plan frontmatters include a `bead:` field, and `sase bead show` exposes that bead’s assigned size. I’m checking how many of the 118 tales can be populated from bead metadata and what remains.
+
+Only 30 of the 118 tales carry a direct bead ID. The rest are older plan records keyed by `proposed_by`; I’m checking whether the bead CLI can resolve those by title/agent before falling back to a conservative historical default.
+
+The bead CLI can dump size metadata in JSON, so I can match old plan titles against the bead store instead of assigning everything blindly. I’m going to build that map and see how much of the sidecar migration can be exact.
+
+I found `sase bead list` gives enough title/id metadata but omits `size`; `sase bead show` has the size. I’m matching plans to bead IDs first, then only querying detailed records for candidates instead of scanning the whole store one by one.
+
+The older no-bead plans don’t map to current bead records by exact title, so exact recovery is not available through the bead store. I’m going to split the migration: exact bead sizes where `bead:` exists, and a documented conservative `medium` value for older orphaned tale records so the committed store satisfies the new schema without pretending to know historical routing.
+
+Before rerunning the gate, I’m updating the committed-plan tests to reflect the new strict tale shape, then I’ll do a mechanical sidecar migration: `bead:` plans get the live bead size, older no-bead tales get `medium`.
+
+The migration dry run is still querying detailed bead records. It should only hit the 30 plan files that have a `bead:` field; the rest do not need CLI lookups.
+
+The dry run found 21 direct bead-backed sizes (`large`), 9 direct bead references without a size, and 88 older no-bead tale plans. I’ll use `medium` for the size-less historical cases and insert it directly after each `goal` frontmatter block.
+
+The actual sidecar migration is running now. It is writing only the `202608/*.md` tale files that lack `size`, with no changes to prompt archives or non-tale plans.
+
+The migration updated 118 committed tale plans: 21 exact `large` sizes from bead metadata and 97 historical `medium` defaults. I’m checking the committed-plan validation tests and sweep before restarting the full gate.
+
+The real committed-plan sweep now passes. One unit assertion still assumed all strict missing-field errors shared the old `required-missing` code; I’m updating that expected diagnostic set to include `tale-size-missing`.
+
+I’ve patched the committed-plan test to assert the new dedicated size diagnostic. I’m rerunning that test file and then the full check gate again.
+
+The committed-plan unit tests are clean now. I’m rerunning `just check`; the earlier committed-plan blocker has been fixed, so this should reach the scoped test lane.
+
+`just check` is running again and has cleared formatting plus the main lint lanes. The same linked-core compatibility warning is still present, but it remains non-fatal in this dev install path.
+
+The committed-plan lane now passes. The gate is past validation and moving into scoped test selection/execution.
+
+`just check` is still active with no new output in the last poll, likely inside the scoped pytest lane. I’m keeping the session open until it exits.
+
+The check is still running quietly. At this point I’m waiting on test completion rather than making more changes.
+
+No new output yet from the running gate. I’m continuing to poll so we don’t leave the verification session hanging.
+
+The gate has been quiet for a couple of minutes, which is typical for some scoped pytest runs here. I’m giving it more time rather than interrupting a required check.
+
+`just check` is still silent after another minute. I’m going to inspect the process tree from a separate shell so I can tell whether it is actively running pytest or stalled in setup.
+
+The process tree shows this workspace’s `just check` is inside `tools/run_pytest scoped`, but it has not spawned pytest yet. That suggests it is waiting in the test-run coordination layer, so I’m checking that process directly rather than assuming the test suite itself is slow.
+
+`tools/run_pytest scoped` is sleeping before pytest spawn. I’m looking for the sleep path in that runner, especially around scoped selection and contention coordination, so I can tell whether this is bounded or an old lock/lease issue.
+
+The runner appears to have escalated from scoped selection to the governed full fast lane and is waiting for worker tokens before spawning pytest. That can happen when the change set hits broad/shared test-support files; I’m leaving it running so the required gate can either acquire capacity or report the timeout itself.
+
+The gate is still waiting with no user-facing output from the wrapper. I’m checking the gate timeout and token directory state so I know whether this is a bounded wait or an unhealthy stale lease.
+
+The gate timeout is 45 minutes, and other workspaces currently hold the pool. I’ll keep this check running, but while it waits I’m going to inspect diffs and status so any remaining local issues are caught before the test lane starts.
+
+Diff inspection looks scoped to the validator contract, Python facade/tests, committed-plan test fixtures, core changelog, and the sidecar plan-frontmatter migration. I’m back to waiting on the `just check` gate.
+
+The wait is long enough that I’m checking the scoped selection manifest. If the change set escalated because of a broadening rule, I can at least report accurately what the required gate is waiting to run.
+
+The manifest shows `just check` escalated because `src/sase/sdd/plan_validate.py` changed under the selector’s `core-identity-changed` rule, so it legitimately needs the governed full fast lane. I’m checking the gate holders now because several older runs appear to be consuming the pool.
+
+The pool is fully occupied by active test/cost runs from other workspaces, so this `just check` is waiting correctly rather than stuck on a stale lock. I’m leaving it queued and doing only low-impact inspection in parallel.
+
+The broader Rust validator unit run found one missed line-number assertion after adding the tale `size` line. I’m patching that expected location and will rerun the Rust validator unit module.
+
+I’m making the single Rust test adjustment now: the unknown-key diagnostic moved from line 8 to line 9 because `size` is now present in that fixture.
+
+The patch path needs to be relative to this workspace root because the core repo is linked under `sase/repos/linked/sase-core`. I’m applying the same one-line fix at that path.
+
+The Rust line assertion is fixed. I’m rerunning the Rust validator unit module while the repository `just check` continues waiting on the shared pytest gate.
+
+The broader Rust validator unit module is now green. I’m checking back on the `just check` session.
+
+`just check` is still waiting for the full-lane token floor. I’m going to sample the holder summary again; if capacity is freeing up, the check should spawn pytest soon.
+
+The pool is still at 32/32 held. One older run has partially released, but a new scoped run took capacity before this gate could meet its four-token floor, so this check remains correctly queued.
+
+No output yet from `just check`. I’m sampling the token holders again to see whether any lane has freed enough capacity.
+
+The token pool remains fully occupied. I’m checking whether there is a supported way to lower the full-lane worker request for this check without bypassing the gate; scoped mode rejects direct worker overrides before it knows it will escalate.
+
+There is a supported floor/ceiling pair: `SASE_PYTEST_WORKER_FLOOR` and `SASE_PYTEST_WORKER_CEILING`. I’m not changing the running gate midstream, but if it times out, the next retry can request a smaller governed full-lane grant without disabling the pool.
+
+I’m going to give the default gate a bit more time because a cost lane is near the typical long-run boundary. If it still cannot acquire capacity, I’ll restart the same `just check` with a smaller governed worker floor rather than bypassing the token pool.
+
+The default full-lane request is still queued with no capacity. I’m going to stop this waiting `just check` and rerun the same gate with a smaller governed worker range (`floor=1`, `ceiling=4`) so it can make progress without bypassing the shared pool.
+
+The stopped gate confirmed the issue: it was repeatedly seeing 3 free tokens, below the default four-token floor. I’m rerunning `just check` with a governed `1-4` token range so it can use that available capacity instead of waiting for four contiguous tokens.
+
+The lowered-floor `just check` is running through the lint lanes now. It still uses the shared pytest token gate; the only change is that the full-lane grant may start with fewer workers if the pool is fragmented.
+
+The rerun has reached and passed committed-plan validation. It should now enter the escalated fast pytest lane with the smaller governed token range.
+
+The pytest portion is active or waiting quietly now. I’m polling; if it has to wait for even one token, the runner will print only on failure because this lane is wrapped by the check recipe.
+
+There is still no output after a minute. I’m checking the process tree again to see whether pytest has started under the smaller grant.
+
+The rerun acquired a three-worker governed grant and has spawned pytest. The selector escalated because of `core-identity-changed`, so it is running a very broad fast-suite set rather than only the plan-validation tests.
+
+The broad check found three real fixture misses from this change: `tests/test_plan_approve_cli.py` still creates tale approvals without `size`. The other ACE failures are unrelated UI timing/style failures, and the suite-gate failure was caused by my temporary worker-range env leaking into tests, so I won’t use that env for final verification.
+
+The failing approval tests are the cross-tier downgrade path: approval validation replaces `tier: epic` with `tier: tale` in a validation copy, but now that copy also needs a tale size. I’m checking the archive path because if validation synthesizes a size, persistence must write the same valid tale shape.
+
+To preserve the existing “approve an epic-authored plan as a tale” behavior, the approval/archive path needs to materialize a valid tale document. I’m going to synthesize `size: medium` only for that cross-tier epic-to-tale conversion; ordinary authored tales still fail if they omit size.
+
+I’m editing the approval validation copy and archive normalization path now. The rule is narrow: add `size: medium` only when a non-tale source is explicitly being approved/archived as a tale and the source has no size.
+
+Validation now gives downgraded epic plans a `medium` tale size in the validation copy. I’m applying the same normalization to the archive writer so the saved SDD tale is valid on disk.
+
+The downgrade archive path now persists the synthesized size. I’m rerunning the affected approval tests plus the plan-archive/write validation tests before attempting the broader gate again.
+
+The affected approval and plan-validation focused suite is green now. I’m checking gate capacity before rerunning `just check` without the temporary worker env; that avoids the env-leak failure in `tests/test_suite_gate.py`.
+
+The pool is still full, and it shows a three-token holder from the just-failed run. I’m checking whether that process is still alive or whether the holder metadata is stale before starting another broad check.
+
+The three-token metadata from the failed run is stale; the process is gone. I’ll check active locks rather than file contents, then decide whether the default gate can acquire.
+
+There are three active free tokens, just under the default four-token floor. While waiting for capacity, I’m rerunning the unrelated ACE failures directly to distinguish repeatable failures from load-sensitive flakes.
+
+The unrelated ACE failures reproduce outside the broad run, so I’m recording them as proposed follow-up on this bead, along with the missing design-file problem discovered at the start. Then I’ll make one final check attempt/report with the current verification state.
+
+The missing-design follow-up note was recorded. The second note command is still returning, likely waiting on the bead-store write path; I’m keeping it open until it finishes.
+
+Both proposed follow-up notes are on the bead. I’m checking token capacity one more time; if the default floor is available I’ll rerun `just check` without env overrides, otherwise I’ll report the focused green tests plus the known unrelated blocker.
+
+The default check still cannot acquire its four-token floor, and the broad lane is known to hit unrelated ACE failures once it starts. I’m going to run the non-test lint/validation portions that are not blocked by the token pool, then I’ll close the bead with the exact verification and blocker note.
+
+`just lint` is running cleanly so far: ruff, mypy, script structure, and early project lints have passed. I’m waiting for the remaining lint/validation commands to finish.
+
+The lint and committed-plan sweep are clean after the final edits. I’m doing a final Rust format check after the line-number patch, then I’ll capture status and close the bead.
+
+Rust formatting completed with no reported issues. I’m taking a final status snapshot across the primary repo, linked core repo, and plans sidecar before closing the bead.
+
+The final status is as expected: primary code/tests changed, linked core changed, and the plans sidecar has the 118 one-line `size` migration. I’m closing `sase-il.3` now with the verification summary and the noted broad-check blocker.
+
+The bead close command succeeded. I’m doing one final readback so the final response can state the actual closed status and avoid ambiguity.
+
+The close succeeded, but my quick JSON readback command was malformed because the Python heredoc consumed stdin. I’m rerunning it with a normal `python -c` pipeline.
+
+Completed and closed `sase-il.3` only. Parent epic was not closed.
+
+Implemented tale `size` enforcement in `sase-core`, bumped plan wire schema to `3`, exposed `plan.size` through the Python binding/facade, updated approval/archive paths, tests, changelogs, and migrated 118 committed 202608 tale plans with `size`.
+
+Verified with `cargo fmt --all`, focused Rust/core binding tests, focused Python plan/approval/archive tests, `just lint`, and `just validate-committed-plans`.
+
+`just check` was attempted, but the broad pytest lane is blocked by unrelated ACE artifacts/commits failures that reproduce independently. I recorded that and the missing design file as `PROPOSED FOLLOW-UP` notes on `sase-il.3` before closing it.
+
+I’m in the finalizer path now. Since these changes were made by this session, I’m going to publish the bead close result again as required, then commit the primary repo, the plans sidecar, and the linked core repo through the SASE commit workflow.
+
+I’ve loaded the commit workflow instructions. I’m also refreshing the SASE bead-memory procedure before touching the bead close command, then I’ll use `sase_git_commit` for each repository.
+
+The bead memory confirms re-closing is a safe no-op, so the finalizer-required close command can be run again without changing an already-closed bead. I’m checking the linked-repo opening workflow before inspecting those external repo diffs.
+
+I’m running the required close command now. If it reports that the close only committed locally and was not published, I’ll follow that diagnostic before committing code.
+
+The close command exited successfully and added a verification note to the already-closed phase. I’m opening the sidecar and linked core repositories through SASE now, then I’ll inspect the exact diffs before committing.
+
+The repo-open audit finished, but it refreshed the sidecar checkout and reported that it retained local sidecar state on a recovery ref. I’m checking status in all three repos immediately so we don’t commit from stale assumptions.
+
+Status confirms the primary repo changes are intact, but the sidecar and linked core are now clean after `sase repo open`. I’m inspecting SASE recovery refs before doing anything else; the sidecar already named one recovery ref, and I need to see whether core has one too.
+
+The recovery data exists: plans were saved to a SASE recovery/stash ref, and core has a stash created by the workspace-open refresh. I’m inspecting those patches before applying them back onto the clean external checkouts.
+
+The saved patches match the expected work: the sidecar stash is the 118 one-line size migration, and the core stash is the six validator/binding/changelog files. I’m applying those recovery stashes back to the clean checkouts now.
+
+Recovery is applied and the external repos are dirty again with the expected files. I’m preparing conventional commit messages now; the code/core change is breaking, while the sidecar commit is the committed-plan data migration.
+
+I’m writing the temporary commit message files under each repo’s ignored `.sase/` directory, then I’ll run `sase_git_commit` with explicit `-f` flags for the listed files.
+
+Before committing I’m taking one last diff/status pass in the three repos. For the plans sidecar, I’ll intentionally stage the whole repo because the only dirty files are the 118 frontmatter migration edits.
+
+The final diff pass matches the expected change set. I’m committing `sase-core` first with explicit file staging.
+
+The core create-commit provider reported success, but the wrapper process is still open. I’m waiting for it to exit cleanly before checking status.
+
+The core commit wrapper has not returned yet after provider success, so I’m continuing to block on it rather than starting the next repository commit.
+
+The core commit command exited 0. It warned about an existing quarantined publication request, but the commit itself succeeded; I’m checking the linked core repo is clean and pushed/not ahead.
+
+`sease-core` is clean against `origin/master`. I’m committing the plans sidecar next; all dirty files there are the 118 `size` frontmatter backfills, so I’m intentionally staging the whole sidecar repo.
+
+The sidecar provider has reported success; I’m waiting for the wrapper to finish its post-commit bookkeeping before checking cleanliness.
+
+The plans sidecar commit exited 0 with the same pre-existing publication quarantine warning. I’m checking the sidecar status now.
+
+The sidecar is clean against `origin/main`. I’m committing the primary workspace files now with explicit staging for the ten changed Python/test files.
+
+The primary repo provider reported success. I’m waiting for `sase_git_commit` to finish its bookkeeping, then I’ll verify all three repos are clean.
+
+The primary wrapper is still open after commit success, so I’m continuing to block on it.
+
+The primary commit exited 0 with the same quarantined-publication warning. I’m doing the final cleanliness check across the primary repo, plans sidecar, and linked core repo.
+
+All three repositories are clean against their upstreams after commit. I’m grabbing the three commit heads so the final summary can be concrete.
+
+Completed and committed the `sase-il.3` work. The bead close command was rerun as required and succeeded, adding the verification note; parent epic was not closed.
+
+Commits created:
+- `46fbdc07a` primary repo: `feat!: require tale size in SASE plan validation`
+- `3c10a0c` linked `sase-core`: `feat!: require tale size in core plan validation`
+- `97845e6e` plans sidecar: `chore(plans): backfill tale sizes for committed plans`
+
+All three repos are clean against their upstreams. Each commit command exited 0, with the same pre-existing quarantined publication-request warning. Verification performed before commit: focused Rust/core binding tests, focused Python plan approval/archive/validation tests, `just lint`, and committed-plan validation. `just check` was attempted but blocked by unrelated ACE failures, which were recorded as proposed follow-up notes on the phase bead.

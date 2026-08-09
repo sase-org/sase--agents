@@ -31,7 +31,7 @@
 |---|---|---|
 | [sase-il.1](../bbugyi200.athena.sase-il.1/README.md) | sase-il hood | completed |
 | [sase-il.2](../bbugyi200.athena.sase-il.2/README.md) | sase-il hood | active |
-| [sase-il.3](../bbugyi200.athena.sase-il.3/README.md) | sase-il hood | active |
+| [sase-il.3](../bbugyi200.athena.sase-il.3/README.md) | sase-il hood | completed |
 | [sase-il.4](../bbugyi200.athena.sase-il.4/README.md) | sase-il hood | waiting |
 | [sase-il.5](../bbugyi200.athena.sase-il.5/README.md) | sase-il hood | waiting |
 | [sase-il.land](../bbugyi200.athena.sase-il.land/README.md) | sase-il hood | waiting |

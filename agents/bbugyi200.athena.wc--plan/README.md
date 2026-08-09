@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [wc](../../users/bbugyi200/machines/athena/hoods/wc/README.md) / [wc](../../families/bbugyi200.athena.wc.md) / wc--plan
 
-**Global name:** `bbugyi200.athena.wc--plan` · **State:** completed · **Source run:** `run-9d076873f1ed635caf776d8aada94a97`
+**Global name:** `bbugyi200.athena.wc--plan` · **State:** dismissed · **Source run:** `run-9d076873f1ed635caf776d8aada94a97`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** wc
 
@@ -10,9 +10,9 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-09T11:39:15.092911+00:00
+- Timing: 2026-08-09T07:39:15.092911 → 2026-08-09T08:19:53.978084
 - Commits: 0
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)

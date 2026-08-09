@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-i1](../../users/bbugyi200/machines/athena/hoods/sase-i1/README.md) / sase-i1.4.4
 
-**Global name:** `bbugyi200.athena.sase-i1.4.4` · **State:** waiting · **Source run:** `run-5edf850a89b8e6a939ea7dd6a20b6a31`
+**Global name:** `bbugyi200.athena.sase-i1.4.4` · **State:** completed · **Source run:** `run-5edf850a89b8e6a939ea7dd6a20b6a31`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-i1
 
@@ -12,12 +12,12 @@
 - Epic: [sase-i1.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-i1/sase-i1.4.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260809090719
+- Timing: 2026-08-09T14:18:11.607862+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -25,8 +25,8 @@
 |---|---|---|
 | [sase-i1.4.1](../bbugyi200.athena.sase-i1.4.1/README.md) | sase-i1.4 hood | completed |
 | [sase-i1.4.2](../bbugyi200.athena.sase-i1.4.2/README.md) | sase-i1.4 hood | completed |
-| [sase-i1.4.3](../bbugyi200.athena.sase-i1.4.3/README.md) | sase-i1.4 hood | active |
-| [sase-i1.4.land](../bbugyi200.athena.sase-i1.4.land/README.md) | sase-i1.4 hood | waiting |
+| [sase-i1.4.3](../bbugyi200.athena.sase-i1.4.3/README.md) | sase-i1.4 hood | completed |
+| [sase-i1.4.land](../bbugyi200.athena.sase-i1.4.land/README.md) | sase-i1.4 hood | completed |
 | [sase-i1.1](../bbugyi200.athena.sase-i1.1/README.md) | sase-i1 hood | completed |
 | [sase-i1.2](../bbugyi200.athena.sase-i1.2/README.md) | sase-i1 hood | completed |
 | [sase-i1.3](../bbugyi200.athena.sase-i1.3/README.md) | sase-i1 hood | completed |
