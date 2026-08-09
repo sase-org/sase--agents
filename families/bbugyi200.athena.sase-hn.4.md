@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-hn` · Members: 2 · Bead: [sase-hn.4](
 
 ```mermaid
 flowchart TD
-  n0["sase-hn.4--code [active]"]
-  n1["sase-hn.4--plan [active]"]
+  n0["sase-hn.4--code [completed]"]
+  n1["sase-hn.4--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-hn.4--code | active | gpt-5.5 / codex | 2026-08-08T22:42:02.602435+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-hn.4--plan | active | gpt-5.6-sol / codex | 2026-08-08T22:35:43.292396+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-hn.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-hn.4--plan/chat.md) |
+| <a id="member-code"></a>code | sase-hn.4--code | completed | gpt-5.5 / codex | 2026-08-08T22:42:02.602435+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-hn.4--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-hn.4--plan | completed | gpt-5.6-sol / codex | 2026-08-08T22:35:43.292396+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-hn.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-hn.4--plan/chat.md) |
 
 ## Neighbors
 
@@ -28,6 +28,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-hn.2](bbugyi200.athena.sase-hn.2.md) (family · 2) | sase-hn hood | completed 2 |
 | [sase-hn.3](bbugyi200.athena.sase-hn.3.md) (family · 2) | sase-hn hood | completed 2 |
 | [sase-hn.5](../agents/bbugyi200.athena.sase-hn.5/README.md) | sase-hn hood | completed |
-| [sase-hn.6](../agents/bbugyi200.athena.sase-hn.6/README.md) | sase-hn hood | waiting |
+| [sase-hn.6](../agents/bbugyi200.athena.sase-hn.6/README.md) | sase-hn hood | active |
 | [sase-hn.7](../agents/bbugyi200.athena.sase-hn.7/README.md) | sase-hn hood | waiting |
 | [sase-hn.land](../agents/bbugyi200.athena.sase-hn.land/README.md) | sase-hn hood | waiting |
