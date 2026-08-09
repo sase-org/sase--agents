@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f1671d37f45fb59d11bc3bb20aa39605"}
+{"commits":[{"committed_at":1786307431,"sha":"dfa07fb48e7c215c6470ea9364b9f118a62bd50e","subject":"ci: reconcile release metadata on pending branch"}],"schema_version":2,"source_run_id":"run-f1671d37f45fb59d11bc3bb20aa39605"}
