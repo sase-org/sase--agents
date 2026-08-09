@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-473e196179eb2ed98a6b8038f9f0d0a1"}
+{"commits":[{"committed_at":1786289391,"sha":"b0a77aca283fa5708fb9f68c5f46d9fb16b73b1e","subject":"chore(memory): migrate project config to nested memory keys"}],"schema_version":2,"source_run_id":"run-473e196179eb2ed98a6b8038f9f0d0a1"}
