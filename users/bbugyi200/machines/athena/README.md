@@ -1289,7 +1289,7 @@
 | [sase-i1](hoods/sase-i1/README.md) | 9 | 0 | active 1, completed 5, failed 1, waiting 2 |
 | [sase-i2](hoods/sase-i2/README.md) | 3 | 0 | completed 3 |
 | [sase-i3](hoods/sase-i3/README.md) | 5 | 1 | active 2, completed 3 |
-| [sase-i8](hoods/sase-i8/README.md) | 10 | 0 | active 1, completed 2, waiting 7 |
+| [sase-i8](hoods/sase-i8/README.md) | 10 | 0 | active 1, completed 3, waiting 6 |
 | [sase-i9](hoods/sase-i9/README.md) | 7 | 1 | active 2, completed 3, waiting 2 |
 | [sase-ia](hoods/sase-ia/README.md) | 6 | 0 | active 1, completed 5 |
 | [sase-ib](hoods/sase-ib/README.md) | 9 | 1 | active 3, completed 2, waiting 4 |
