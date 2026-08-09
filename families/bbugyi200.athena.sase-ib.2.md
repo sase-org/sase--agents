@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-ib` · Members: 2 · Bead: [sase-ib.2](
 
 ```mermaid
 flowchart TD
-  n0["sase-ib.2--plan [active]"]
-  n1["sase-ib.2--code [active]"]
+  n0["sase-ib.2--plan [completed]"]
+  n1["sase-ib.2--code [completed]"]
   n0 --> n1
 ```
 
@@ -17,15 +17,21 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-ib.2--plan | active | gpt-5.6-sol / codex | 2026-08-09T15:26:13.264074+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ib.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ib.2--plan/chat.md) |
-| <a id="member-code"></a>code | sase-ib.2--code | active | gpt-5.5 / codex | 2026-08-09T15:32:30.110919+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-ib.2--plan | completed | gpt-5.6-sol / codex | 2026-08-09T15:26:13.264074+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ib.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ib.2--plan/chat.md) |
+| <a id="member-code"></a>code | sase-ib.2--code | completed | gpt-5.5 / codex | 2026-08-09T15:32:30.110919+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ib.2--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`cfe18d7`](https://github.com/sase-org/sase/commit/cfe18d7f0de46080e1a5b9e509845261e543b946) | perf(test): make ACE TUI waits event-driven | 2026-08-09 13:22:25 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ib.1](../agents/bbugyi200.athena.sase-ib.1/README.md) | sase-ib hood | completed |
-| [sase-ib.3](../agents/bbugyi200.athena.sase-ib.3/README.md) | sase-ib hood | waiting |
+| [sase-ib.3](bbugyi200.athena.sase-ib.3.md) (family · 2) | sase-ib hood | active 2 |
 | [sase-ib.4](../agents/bbugyi200.athena.sase-ib.4/README.md) | sase-ib hood | completed |
 | [sase-ib.5](../agents/bbugyi200.athena.sase-ib.5/README.md) | sase-ib hood | completed |
 | [sase-ib.6](../agents/bbugyi200.athena.sase-ib.6/README.md) | sase-ib hood | active |

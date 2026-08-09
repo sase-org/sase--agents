@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0d84e282a3eb892561564787dec0e929"}
+{"commits":[{"committed_at":1786297660,"sha":"77ee67052e418c7825249cb95ca1f32fe55f6b40","subject":"feat(vcs-log): mark merge commits in renderers"}],"schema_version":2,"source_run_id":"run-0d84e282a3eb892561564787dec0e929"}

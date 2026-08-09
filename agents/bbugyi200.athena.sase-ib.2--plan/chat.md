@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-ib.2--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ib_2__plan-260809_103750.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ib_2__code-260809_103750.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/event_driven_tui_waits.md
 
 
