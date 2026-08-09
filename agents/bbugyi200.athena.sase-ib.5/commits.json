@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-200cbb94cbb6b94ec1a0b55c4007c6a5"}
+{"commits":[{"committed_at":1786295363,"sha":"35d2d51f9a84d02c75eed244f39e867853520836","subject":"perf: reduce fast test collection footprint"}],"schema_version":2,"source_run_id":"run-200cbb94cbb6b94ec1a0b55c4007c6a5"}

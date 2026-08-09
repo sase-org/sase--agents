@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-9d76c6ed3d9663c8a9e24adbc0127121"}
+{"commits":[{"committed_at":1786294188,"sha":"2bb7ce46382ffa040a621bd9b7bb3258165da4f3","subject":"perf: use dev-update profile for rust updates"}],"schema_version":2,"source_run_id":"run-9d76c6ed3d9663c8a9e24adbc0127121"}
