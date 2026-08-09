@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1786300982,"sha":"f25a84603f43a2048a766db83ae74a31b2a91526","subject":"fix(ace): run post-write commands noninteractively"}],"schema_version":2,"source_run_id":"run-d23c736312a02217e3d312c4e3552b53"}
