@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-23](../../users/bbugyi200/machines/athena/hoods/toobig-23/README.md) / toobig-23.split\_file.src.sase.xprompt.workflow\_loader.0
 
-**Global name:** `bbugyi200.athena.toobig-23.split_file.src.sase.xprompt.workflow_loader.0` · **State:** active · **Source run:** `run-6eae40967a339d26c5000b85e4fadef2`
+**Global name:** `bbugyi200.athena.toobig-23.split_file.src.sase.xprompt.workflow_loader.0` · **State:** completed · **Source run:** `run-6eae40967a339d26c5000b85e4fadef2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-23
 
@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-08-09T02:21:28.176326+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`34597d1`](https://github.com/sase-org/sase/commit/34597d1c046d2db4eb7eff03292331be4a023c53) | refactor(xprompt): split workflow loader responsibilities | 2026-08-08 22:47:32 EDT |
 
 ## Neighbors
 
@@ -24,5 +30,5 @@
 | [toobig-23.split\_file.src.sase.ace.patch.models.0](../bbugyi200.athena.toobig-23.split_file.src.sase.ace.patch.models.0/README.md) | toobig-23.split\_file.src.sase hood | completed |
 | [toobig-23.split\_file.src.sase.ace.tui.widgets.\_prompt\_input\_bar\_stack\_rendering.0](../bbugyi200.athena.toobig-23.split_file.src.sase.ace.tui.widgets._prompt_input_bar_stack_rendering.0/README.md) | toobig-23.split\_file.src.sase hood | completed |
 | [toobig-23.split\_file.src.sase.artifact\_ref\_prompt.0](../bbugyi200.athena.toobig-23.split_file.src.sase.artifact_ref_prompt.0/README.md) | toobig-23.split\_file.src.sase hood | completed |
-| [toobig-23.split\_file.tests.test\_artifact\_ref\_preprocessing.0](../bbugyi200.athena.toobig-23.split_file.tests.test_artifact_ref_preprocessing.0/README.md) | toobig-23.split\_file hood | waiting |
-| [toobig-23.split\_file.tests.test\_bead.test\_project.0](../bbugyi200.athena.toobig-23.split_file.tests.test_bead.test_project.0/README.md) | toobig-23.split\_file hood | waiting |
+| [toobig-23.split\_file.tests.test\_artifact\_ref\_preprocessing.0](../bbugyi200.athena.toobig-23.split_file.tests.test_artifact_ref_preprocessing.0/README.md) | toobig-23.split\_file hood | completed |
+| [toobig-23.split\_file.tests.test\_bead.test\_project.0](../bbugyi200.athena.toobig-23.split_file.tests.test_bead.test_project.0/README.md) | toobig-23.split\_file hood | completed |

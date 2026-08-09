@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6eae40967a339d26c5000b85e4fadef2"}
+{"commits":[{"committed_at":1786243652,"sha":"34597d1c046d2db4eb7eff03292331be4a023c53","subject":"refactor(xprompt): split workflow loader responsibilities"}],"schema_version":2,"source_run_id":"run-6eae40967a339d26c5000b85e4fadef2"}
