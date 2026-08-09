@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I am unable to update sase with the `,U` keymap (see #sshot for the error that was shown to me in a toast). Can you help me diagnose the root cause of this issue and fix it? #plan #m_opus
