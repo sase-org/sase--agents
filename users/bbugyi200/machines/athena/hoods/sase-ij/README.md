@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-ij
 
-**Global hood:** `bbugyi200.athena.sase-ij` · **Runs:** 9 · **Families:** 0 · **States:** active 4, completed 1, waiting 4
+**Global hood:** `bbugyi200.athena.sase-ij` · **Runs:** 9 · **Families:** 0 · **States:** active 3, completed 2, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -12,6 +12,6 @@
 | [sase-ij.6](../../../../../../agents/bbugyi200.athena.sase-ij.6/README.md) | waiting | gpt-5.5 / codex | 20260809152317 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ij.6/prompt.md) |
 | [sase-ij.land](../../../../../../agents/bbugyi200.athena.sase-ij.land/README.md) | waiting | opus / claude | 20260809152318 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ij.land/prompt.md) |
 | [sase-ij.1](../../../../../../agents/bbugyi200.athena.sase-ij.1/README.md) | completed | gpt-5.5 / codex | 2026-08-09T19:23:25.789863+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ij.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-ij.1/chat.md) |
-| [sase-ij.3](../../../../../../agents/bbugyi200.athena.sase-ij.3/README.md) | active | gpt-5.5 / codex | 2026-08-09T19:23:31.028607+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ij.3/prompt.md) |
+| [sase-ij.3](../../../../../../agents/bbugyi200.athena.sase-ij.3/README.md) | completed | gpt-5.5 / codex | 2026-08-09T19:23:31.028607+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ij.3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-ij.3/chat.md) |
 | [sase-ij.4](../../../../../../agents/bbugyi200.athena.sase-ij.4/README.md) | waiting | gpt-5.5 / codex | 20260809152315 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ij.4/prompt.md) |
 | [sase-ij.8](../../../../../../agents/bbugyi200.athena.sase-ij.8/README.md) | active | sonnet / claude | 2026-08-09T19:23:43.981990+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ij.8/prompt.md) |
