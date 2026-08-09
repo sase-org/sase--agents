@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | we.f0--code | active | gpt-5.5 / codex | 2026-08-09T13:28:54.460500+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | we.f0--code | active | gpt-5.5 / codex | 2026-08-09T13:28:54.460500+00:00 | [1](../agents/bbugyi200.athena.we.f0--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | we.f0--plan | active | opus / claude | 2026-08-09T13:18:06.186012+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.we.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.we.f0--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`3ad2e62`](https://github.com/sase-org/sase/commit/3ad2e624cea555e1cfac75b7c31a0d0a4b2d3152) | feat(memory): number inlined short-memory subsections | 2026-08-09 10:00:11 EDT |
 
 ## Neighbors
 
