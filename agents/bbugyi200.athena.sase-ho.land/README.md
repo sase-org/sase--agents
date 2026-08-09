@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ho](../../users/bbugyi200/machines/athena/hoods/sase-ho/README.md) / sase-ho.land
 
-**Global name:** `bbugyi200.athena.sase-ho.land` · **State:** active · **Source run:** `run-86ff9fdedf7c8f8848b4911584e7642f`
+**Global name:** `bbugyi200.athena.sase-ho.land` · **State:** dismissed · **Source run:** `run-86ff9fdedf7c8f8848b4911584e7642f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ho
 
@@ -11,12 +11,12 @@
 - Bead: [sase-ho](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ho/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-08T22:41:04.508572+00:00
+- Timing: 2026-08-08T18:41:04.508572 → 2026-08-08T19:24:43.513647
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -28,9 +28,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ho.1](../../families/bbugyi200.athena.sase-ho.1.md) (family · 2) | sase-ho hood | completed 2 |
-| [sase-ho.2](../../families/bbugyi200.athena.sase-ho.2.md) (family · 2) | sase-ho hood | completed 2 |
+| [sase-ho.1](../../families/bbugyi200.athena.sase-ho.1.md) (family · 2) | sase-ho hood | completed 1, dismissed 1 |
+| [sase-ho.2](../../families/bbugyi200.athena.sase-ho.2.md) (family · 2) | sase-ho hood | completed 1, dismissed 1 |
 | [sase-ho.2](../bbugyi200.athena.sase-ho.2/README.md) | sase-ho hood | waiting |
-| [sase-ho.3](../bbugyi200.athena.sase-ho.3/README.md) | sase-ho hood | completed |
-| [sase-ho.4](../bbugyi200.athena.sase-ho.4/README.md) | sase-ho hood | completed |
-| [sase-ho.5](../bbugyi200.athena.sase-ho.5/README.md) | sase-ho hood | completed |
+| [sase-ho.3](../bbugyi200.athena.sase-ho.3/README.md) | sase-ho hood | dismissed |
+| [sase-ho.4](../bbugyi200.athena.sase-ho.4/README.md) | sase-ho hood | dismissed |
+| [sase-ho.5](../bbugyi200.athena.sase-ho.5/README.md) | sase-ho hood | dismissed |

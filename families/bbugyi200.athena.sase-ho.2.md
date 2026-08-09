@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-ho` · Members: 2 · Bead: [sase-ho.2](
 
 ```mermaid
 flowchart TD
-  n0["sase-ho.2--plan [completed]"]
+  n0["sase-ho.2--plan [dismissed]"]
   n1["sase-ho.2--code [completed]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-ho.2--plan | completed | gpt-5.6-sol / codex | 2026-08-08T19:42:44.079613+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ho.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ho.2--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-ho.2--plan | dismissed | gpt-5.6-sol / codex | 2026-08-08T15:42:44.079613 → 2026-08-08T17:04:20.521460 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ho.2--plan/chat.md) |
 | <a id="member-code"></a>code | sase-ho.2--code | completed | gpt-5.5 / codex | 2026-08-08T19:50:51.584156+00:00 | [1](../agents/bbugyi200.athena.sase-ho.2--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-ho.2--code/chat.md) |
 
 ## Commits
@@ -30,8 +30,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ho.1](bbugyi200.athena.sase-ho.1.md) (family · 2) | sase-ho hood | completed 2 |
-| [sase-ho.3](../agents/bbugyi200.athena.sase-ho.3/README.md) | sase-ho hood | completed |
-| [sase-ho.4](../agents/bbugyi200.athena.sase-ho.4/README.md) | sase-ho hood | completed |
-| [sase-ho.5](../agents/bbugyi200.athena.sase-ho.5/README.md) | sase-ho hood | completed |
-| [sase-ho.land](../agents/bbugyi200.athena.sase-ho.land/README.md) | sase-ho hood | active |
+| [sase-ho.1](bbugyi200.athena.sase-ho.1.md) (family · 2) | sase-ho hood | completed 1, dismissed 1 |
+| [sase-ho.3](../agents/bbugyi200.athena.sase-ho.3/README.md) | sase-ho hood | dismissed |
+| [sase-ho.4](../agents/bbugyi200.athena.sase-ho.4/README.md) | sase-ho hood | dismissed |
+| [sase-ho.5](../agents/bbugyi200.athena.sase-ho.5/README.md) | sase-ho hood | dismissed |
+| [sase-ho.land](../agents/bbugyi200.athena.sase-ho.land/README.md) | sase-ho hood | dismissed |

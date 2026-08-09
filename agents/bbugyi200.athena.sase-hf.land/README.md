@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-hf](../../users/bbugyi200/machines/athena/hoods/sase-hf/README.md) / sase-hf.land
 
-**Global name:** `bbugyi200.athena.sase-hf.land` · **State:** completed · **Source run:** `run-1b0c52553234ff659073b9a046d74572`
+**Global name:** `bbugyi200.athena.sase-hf.land` · **State:** dismissed · **Source run:** `run-1b0c52553234ff659073b9a046d74572`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-hf
 
@@ -11,12 +11,12 @@
 - Bead: [sase-hf](https://github.com/sase-org/sase--beads/blob/main/pages/sase-hf/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-08T15:25:43.892066+00:00
+- Timing: 2026-08-08T11:25:43.892066 → 2026-08-08T11:42:11.768027
 - Commits: 0
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -24,8 +24,8 @@
 |---|---|---|
 | [sase-hf.land.w0](../bbugyi200.athena.sase-hf.land.w0/README.md) | descendant | dismissed |
 | [sase-hf.land.w2](../bbugyi200.athena.sase-hf.land.w2/README.md) | descendant | dismissed |
-| [sase-hf.1](../bbugyi200.athena.sase-hf.1/README.md) | sase-hf hood | completed |
-| [sase-hf.2](../bbugyi200.athena.sase-hf.2/README.md) | sase-hf hood | completed |
-| [sase-hf.3](../bbugyi200.athena.sase-hf.3/README.md) | sase-hf hood | completed |
-| [sase-hf.4](../bbugyi200.athena.sase-hf.4/README.md) | sase-hf hood | completed |
-| [sase-hf.5](../bbugyi200.athena.sase-hf.5/README.md) | sase-hf hood | completed |
+| [sase-hf.1](../bbugyi200.athena.sase-hf.1/README.md) | sase-hf hood | dismissed |
+| [sase-hf.2](../bbugyi200.athena.sase-hf.2/README.md) | sase-hf hood | dismissed |
+| [sase-hf.3](../bbugyi200.athena.sase-hf.3/README.md) | sase-hf hood | dismissed |
+| [sase-hf.4](../bbugyi200.athena.sase-hf.4/README.md) | sase-hf hood | dismissed |
+| [sase-hf.5](../bbugyi200.athena.sase-hf.5/README.md) | sase-hf hood | dismissed |

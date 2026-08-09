@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-hj](../../users/bbugyi200/machines/athena/hoods/sase-hj/README.md) / sase-hj
 
-**Global name:** `bbugyi200.athena.sase-hj` · **State:** completed · **Source run:** `run-5f40b50ba520ce83f1144426f29e1ef7`
+**Global name:** `bbugyi200.athena.sase-hj` · **State:** dismissed · **Source run:** `run-5f40b50ba520ce83f1144426f29e1ef7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-hj
 
@@ -11,12 +11,12 @@
 - Bead: [sase-hj](https://github.com/sase-org/sase--beads/blob/main/pages/sase-hj/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-08T21:28:56.763100+00:00
+- Timing: 2026-08-08T17:28:56.763100 → 2026-08-08T18:13:52.450149
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 

@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** wf--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-wf__plan-260809_085553.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-wf__code-260809_085553.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/glossary_highlight_flicker.md
 
 

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-24](../../users/bbugyi200/machines/athena/hoods/toobig-24/README.md) / toobig-24.split\_file.tests.main.test\_lsp\_handler.0
 
-**Global name:** `bbugyi200.athena.toobig-24.split_file.tests.main.test_lsp_handler.0` · **State:** completed · **Source run:** `run-beb058f82a06ded5d399462127c5b043`
+**Global name:** `bbugyi200.athena.toobig-24.split_file.tests.main.test_lsp_handler.0` · **State:** dismissed · **Source run:** `run-beb058f82a06ded5d399462127c5b043`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-24
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-09T03:21:58.336049+00:00
+- Timing: 2026-08-08T23:21:58.336049 → 2026-08-08T23:33:01.447302
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 

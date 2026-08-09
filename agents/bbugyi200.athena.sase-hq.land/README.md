@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-hq](../../users/bbugyi200/machines/athena/hoods/sase-hq/README.md) / sase-hq.land
 
-**Global name:** `bbugyi200.athena.sase-hq.land` · **State:** active · **Source run:** `run-1bdf77118c0580dca604b9aa829b70aa`
+**Global name:** `bbugyi200.athena.sase-hq.land` · **State:** dismissed · **Source run:** `run-1bdf77118c0580dca604b9aa829b70aa`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-hq
 
@@ -11,12 +11,12 @@
 - Bead: [sase-hq](https://github.com/sase-org/sase--beads/blob/main/pages/sase-hq/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-09T00:44:08.238584+00:00
+- Timing: 2026-08-08T20:44:08.238584 → 2026-08-08T21:35:03.771964
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -28,9 +28,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-hq.1](../bbugyi200.athena.sase-hq.1/README.md) | sase-hq hood | completed |
-| [sase-hq.2](../bbugyi200.athena.sase-hq.2/README.md) | sase-hq hood | completed |
-| [sase-hq.3](../bbugyi200.athena.sase-hq.3/README.md) | sase-hq hood | completed |
-| [sase-hq.4](../bbugyi200.athena.sase-hq.4/README.md) | sase-hq hood | completed |
-| [sase-hq.5](../bbugyi200.athena.sase-hq.5/README.md) | sase-hq hood | completed |
-| [sase-hq.6](../bbugyi200.athena.sase-hq.6/README.md) | sase-hq hood | completed |
+| [sase-hq.1](../bbugyi200.athena.sase-hq.1/README.md) | sase-hq hood | dismissed |
+| [sase-hq.2](../bbugyi200.athena.sase-hq.2/README.md) | sase-hq hood | dismissed |
+| [sase-hq.3](../bbugyi200.athena.sase-hq.3/README.md) | sase-hq hood | dismissed |
+| [sase-hq.4](../bbugyi200.athena.sase-hq.4/README.md) | sase-hq hood | dismissed |
+| [sase-hq.5](../bbugyi200.athena.sase-hq.5/README.md) | sase-hq hood | dismissed |
+| [sase-hq.6](../bbugyi200.athena.sase-hq.6/README.md) | sase-hq hood | dismissed |

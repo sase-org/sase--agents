@@ -30,4 +30,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-i2.2](../bbugyi200.athena.sase-i2.2/README.md) | sase-i2 hood | completed |
-| [sase-i2.land](../bbugyi200.athena.sase-i2.land/README.md) | sase-i2 hood | active |
+| [sase-i2.land](../bbugyi200.athena.sase-i2.land/README.md) | sase-i2 hood | completed |
