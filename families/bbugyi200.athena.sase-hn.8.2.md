@@ -28,9 +28,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-hn.8.3](bbugyi200.athena.sase-hn.8.3.md) (family · 2) | sase-hn.8 hood | completed 2 |
 | [sase-hn.8.4](../agents/bbugyi200.athena.sase-hn.8.4/README.md) | sase-hn.8 hood | completed |
 | [sase-hn.8.5](../agents/bbugyi200.athena.sase-hn.8.5/README.md) | sase-hn.8 hood | completed |
-| [sase-hn.8.6.1](../agents/bbugyi200.athena.sase-hn.8.6.1/README.md) | sase-hn.8 hood | active |
-| [sase-hn.8.6.2](../agents/bbugyi200.athena.sase-hn.8.6.2/README.md) | sase-hn.8 hood | waiting |
-| [sase-hn.8.6.3](../agents/bbugyi200.athena.sase-hn.8.6.3/README.md) | sase-hn.8 hood | waiting |
+| [sase-hn.8.6.1](../agents/bbugyi200.athena.sase-hn.8.6.1/README.md) | sase-hn.8 hood | completed |
+| [sase-hn.8.6.2](bbugyi200.athena.sase-hn.8.6.2.md) (family · 2) | sase-hn.8 hood | active 2 |
+| [sase-hn.8.6.3](../agents/bbugyi200.athena.sase-hn.8.6.3/README.md) | sase-hn.8 hood | completed |
 | [sase-hn.8.6.4](../agents/bbugyi200.athena.sase-hn.8.6.4/README.md) | sase-hn.8 hood | waiting |
 | [sase-hn.8.6.land](../agents/bbugyi200.athena.sase-hn.8.6.land/README.md) | sase-hn.8 hood | waiting |
 | [sase-hn.8.land](../agents/bbugyi200.athena.sase-hn.8.land/README.md) | sase-hn.8 hood | failed |
