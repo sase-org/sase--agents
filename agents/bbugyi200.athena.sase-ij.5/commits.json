@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0fdf624d018e0bccf0f5097295cf9447"}
+{"commits":[{"committed_at":1786308480,"sha":"419a81b7b5530e700cb176acf2a888ba3c267e19","subject":"ci: apply release metadata ratchet"}],"schema_version":2,"source_run_id":"run-0fdf624d018e0bccf0f5097295cf9447"}
