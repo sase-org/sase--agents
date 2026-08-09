@@ -38,7 +38,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-hn.6](../agents/bbugyi200.athena.sase-hn.6/README.md) | sase-hn hood | completed |
 | [sase-hn.8.1](../agents/bbugyi200.athena.sase-hn.8.1/README.md) | sase-hn hood | completed |
 | [sase-hn.8.2](bbugyi200.athena.sase-hn.8.2.md) (family · 2) | sase-hn hood | active 2 |
-| [sase-hn.8.3](bbugyi200.athena.sase-hn.8.3.md) (family · 2) | sase-hn hood | active 2 |
+| [sase-hn.8.3](bbugyi200.athena.sase-hn.8.3.md) (family · 2) | sase-hn hood | completed 2 |
 | [sase-hn.8.4](../agents/bbugyi200.athena.sase-hn.8.4/README.md) | sase-hn hood | completed |
 | [sase-hn.8.5](../agents/bbugyi200.athena.sase-hn.8.5/README.md) | sase-hn hood | waiting |
 | [sase-hn.8.land](../agents/bbugyi200.athena.sase-hn.8.land/README.md) | sase-hn hood | waiting |
