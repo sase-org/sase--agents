@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a940dbbec1e46fbe9b38a9eae493cf0f"}
+{"commits":[{"committed_at":1786287327,"sha":"069d09c90380d477a9a5bab6b84faadfcfa1815f","subject":"feat(config): add memory.h1_title and memory.glossary, deprecate legacy top-level keys"}],"schema_version":2,"source_run_id":"run-a940dbbec1e46fbe9b38a9eae493cf0f"}

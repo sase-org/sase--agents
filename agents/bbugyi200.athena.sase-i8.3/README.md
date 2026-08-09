@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-i8](../../users/bbugyi200/machines/athena/hoods/sase-i8/README.md) / sase-i8.3
 
-**Global name:** `bbugyi200.athena.sase-i8.3` · **State:** waiting · **Source run:** `run-492e2cb5d2430808cd09506fe32cf180`
+**Global name:** `bbugyi200.athena.sase-i8.3` · **State:** active · **Source run:** `run-492e2cb5d2430808cd09506fe32cf180`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-i8
 
@@ -12,7 +12,7 @@
 - Epic: [sase-i8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-i8/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260809094931
+- Timing: 2026-08-09T14:54:31.932324+00:00
 - Commits: 0
 
 ## Files
@@ -23,8 +23,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-i8.1](../bbugyi200.athena.sase-i8.1/README.md) | sase-i8 hood | active |
-| [sase-i8.2](../bbugyi200.athena.sase-i8.2/README.md) | sase-i8 hood | waiting |
+| [sase-i8.1](../bbugyi200.athena.sase-i8.1/README.md) | sase-i8 hood | completed |
+| [sase-i8.2](../bbugyi200.athena.sase-i8.2/README.md) | sase-i8 hood | completed |
 | [sase-i8.4](../bbugyi200.athena.sase-i8.4/README.md) | sase-i8 hood | waiting |
 | [sase-i8.5](../bbugyi200.athena.sase-i8.5/README.md) | sase-i8 hood | waiting |
 | [sase-i8.6](../bbugyi200.athena.sase-i8.6/README.md) | sase-i8 hood | waiting |

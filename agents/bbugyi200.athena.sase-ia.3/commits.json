@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-40f58001f689edad074b7d65ffe84848"}
+{"commits":[{"committed_at":1786287923,"sha":"3ec02513e7da173b4a4d095e3d415861bf89230c","subject":"feat(memory): read glossary settings from nested config"}],"schema_version":2,"source_run_id":"run-40f58001f689edad074b7d65ffe84848"}

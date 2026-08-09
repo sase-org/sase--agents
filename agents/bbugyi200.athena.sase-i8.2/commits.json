@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b573bb9b5369363dae30470091a0e9c8"}
+{"commits":[{"committed_at":1786287202,"sha":"f5fb72438ce5aa4dc18a00a5b003791699bc180a","subject":"feat(vcs): mirror merge-commit parent ids in Python wire layer"}],"schema_version":2,"source_run_id":"run-b573bb9b5369363dae30470091a0e9c8"}
