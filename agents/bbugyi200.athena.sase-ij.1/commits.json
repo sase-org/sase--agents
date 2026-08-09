@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a98223d1cd5b9173583805a4d5609c4d"}
+{"commits":[{"committed_at":1786304011,"sha":"755987ff5b42418f6d411eec7373ce524184a0b3","subject":"test: derive telemetry smoke core floor from pyproject"}],"schema_version":2,"source_run_id":"run-a98223d1cd5b9173583805a4d5609c4d"}
