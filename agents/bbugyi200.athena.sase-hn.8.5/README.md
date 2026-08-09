@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-hn](../../users/bbugyi200/machines/athena/hoods/sase-hn/README.md) / sase-hn.8.5
 
-**Global name:** `bbugyi200.athena.sase-hn.8.5` · **State:** waiting · **Source run:** `run-eb064f6318179f1ab54298fce1fb05ec`
+**Global name:** `bbugyi200.athena.sase-hn.8.5` · **State:** active · **Source run:** `run-eb064f6318179f1ab54298fce1fb05ec`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-hn
 
@@ -12,19 +12,25 @@
 - Epic: [sase-hn.8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-hn/sase-hn.8.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260809001232
-- Commits: 0
+- Timing: 2026-08-09T06:50:11.844668+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`cac21c8`](https://github.com/sase-org/sase/commit/cac21c867e301b97a59b3918fb8242cdae51c9b9) | fix: enforce Patch terminology audit gate | 2026-08-09 03:58:02 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-hn.8.1](../bbugyi200.athena.sase-hn.8.1/README.md) | sase-hn.8 hood | completed |
-| [sase-hn.8.2](../../families/bbugyi200.athena.sase-hn.8.2.md) (family · 2) | sase-hn.8 hood | active 2 |
+| [sase-hn.8.2](../../families/bbugyi200.athena.sase-hn.8.2.md) (family · 2) | sase-hn.8 hood | completed 2 |
 | [sase-hn.8.3](../../families/bbugyi200.athena.sase-hn.8.3.md) (family · 2) | sase-hn.8 hood | completed 2 |
 | [sase-hn.8.4](../bbugyi200.athena.sase-hn.8.4/README.md) | sase-hn.8 hood | completed |
 | [sase-hn.8.land](../bbugyi200.athena.sase-hn.8.land/README.md) | sase-hn.8 hood | waiting |
