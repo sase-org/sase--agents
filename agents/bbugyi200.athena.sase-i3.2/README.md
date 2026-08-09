@@ -25,4 +25,4 @@
 |---|---|---|
 | [sase-i3.1](../bbugyi200.athena.sase-i3.1/README.md) | sase-i3 hood | completed |
 | [sase-i3.3](../bbugyi200.athena.sase-i3.3/README.md) | sase-i3 hood | completed |
-| [sase-i3.land](../bbugyi200.athena.sase-i3.land/README.md) | sase-i3 hood | active |
+| [sase-i3.land](../../families/bbugyi200.athena.sase-i3.land.md) (family · 2) | sase-i3 hood | active 2 |

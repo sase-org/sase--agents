@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-09T12:50:53.983773+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`b736093`](https://github.com/sase-org/sase/commit/b73609337d9bd1e7be6184bd4cd97f16cb342683) | feat(glossary): render core display aliases | 2026-08-09 09:20:30 EDT |
 
 ## Neighbors
 
@@ -25,4 +31,4 @@
 |---|---|---|
 | [sase-i3.1](../bbugyi200.athena.sase-i3.1/README.md) | sase-i3 hood | completed |
 | [sase-i3.2](../bbugyi200.athena.sase-i3.2/README.md) | sase-i3 hood | completed |
-| [sase-i3.land](../bbugyi200.athena.sase-i3.land/README.md) | sase-i3 hood | active |
+| [sase-i3.land](../../families/bbugyi200.athena.sase-i3.land.md) (family · 2) | sase-i3 hood | active 2 |

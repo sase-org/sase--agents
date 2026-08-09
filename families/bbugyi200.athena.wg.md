@@ -1,0 +1,27 @@
+# Family: wg
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [wg](../users/bbugyi200/machines/athena/hoods/wg/README.md) / wg
+
+Owner: `bbugyi200.athena` · Hood: `wg` · Members: 2
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["wg--plan [active]"]
+  n1["wg--code [active]"]
+  n0 --> n1
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-plan"></a>plan | wg--plan | active | opus / claude | 2026-08-09T13:02:26.014479+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.wg--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.wg--plan/chat.md) |
+| <a id="member-code"></a>code | wg--code | active | gpt-5.5 / codex | 2026-08-09T13:09:40.094929+00:00 | [1](../agents/bbugyi200.athena.wg--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`8847140`](https://github.com/sase-org/sase/commit/8847140e9eeeff4b56e213c71b670bdd3a1b8d71) | fix(tui): normalize glossary preview field labels | 2026-08-09 09:35:42 EDT |

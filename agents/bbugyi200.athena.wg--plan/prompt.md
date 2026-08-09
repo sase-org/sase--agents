@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase When I use the `K` keymap to preview a glossary term in the prompt input widget, I see a panel like the one shown in #sshot. Can you help me remove the `Matched:` field and capitalize the keys of the 3 other fields that we show at the bottom of this panel? #plan  #m_opus
