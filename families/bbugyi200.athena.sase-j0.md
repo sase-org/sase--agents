@@ -30,4 +30,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-j0.w1](bbugyi200.athena.sase-j0.w1.md) (family · 2) | descendant | active 2 |
+| [sase-j0.w1](bbugyi200.athena.sase-j0.w1.md) (family · 2) | descendant | completed 2 |
+| [sase-j0.w1.f0](../agents/bbugyi200.athena.sase-j0.w1.f0/README.md) | descendant | failed |

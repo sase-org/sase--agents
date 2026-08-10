@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-j0` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["sase-j0.w1--code [active]"]
-  n1["sase-j0.w1--plan [active]"]
+  n0["sase-j0.w1--code [completed]"]
+  n1["sase-j0.w1--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-j0.w1--code | active | sonnet / claude | 2026-08-10T19:10:37.643537+00:00 | [1](../agents/bbugyi200.athena.sase-j0.w1--code/README.md#commits) | — | — |
-| <a id="member-plan"></a>plan | sase-j0.w1--plan | active | opus / claude | 2026-08-10T19:00:23.438739+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-j0.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-j0.w1--plan/chat.md) |
+| <a id="member-code"></a>code | sase-j0.w1--code | completed | sonnet / claude | 2026-08-10T19:10:37.643537+00:00 | [1](../agents/bbugyi200.athena.sase-j0.w1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-j0.w1--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-j0.w1--plan | completed | opus / claude | 2026-08-10T19:00:23.438739+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-j0.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-j0.w1--plan/chat.md) |
 
 ## Commits
 
@@ -31,3 +31,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-j0](bbugyi200.athena.sase-j0.md) (family · 2) | ancestor | completed 2 |
+| [sase-j0.w1.f0](../agents/bbugyi200.athena.sase-j0.w1.f0/README.md) | descendant | failed |

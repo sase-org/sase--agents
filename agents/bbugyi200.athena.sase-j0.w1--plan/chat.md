@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-j0.w1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_j0_w1__plan-260810_140940.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_j0_w1__code-260810_140940.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/finish_sase_ct_retirement.md
 
 
