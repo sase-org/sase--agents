@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e536869b0f814bc5015dd7febae9ca58"}
+{"commits":[{"committed_at":1786393462,"sha":"c0520947de793ff7c10422d4cf18fef19f81f5b4","subject":"fix(cache): give workspace-provider metadata caches a real invalidation entry point"}],"schema_version":2,"source_run_id":"run-e536869b0f814bc5015dd7febae9ca58"}

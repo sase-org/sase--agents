@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-10T19:46:25.392181+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c052094`](https://github.com/sase-org/sase/commit/c0520947de793ff7c10422d4cf18fef19f81f5b4) | fix(cache): give workspace-provider metadata caches a real invalidation entry point | 2026-08-10 16:24:22 EDT |
 
 ## Neighbors
 
