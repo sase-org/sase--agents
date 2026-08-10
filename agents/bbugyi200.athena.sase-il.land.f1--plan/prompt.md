@@ -1,0 +1,2 @@
+#gh:gh_sase-org__sase
+#fork:sase-il.land Can you help me make sure that a tale plan's size has appropriate representation in the `PLAN` lane of the `SASE CONTEXT` section in the agent metadata panel? #if_not_plan #m_opus

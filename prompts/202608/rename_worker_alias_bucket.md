@@ -9,3 +9,15 @@ names. Think this through thoroughly and create a plan using your `/sase_plan` s
 Choose and author the appropriate tier, validate and revalidate until it passes, then
 submit it with `sase plan propose` (as the skill instructs) before making any file
 changes.
+
+%xprompts_enabled:false
+### Questions and Answers
+
+#### Q1: Memory
+
+> May I update `sase/memory/sase_sizes.md` and run `sase memory init` as required by the approved `worker` alias rename plan? This will regenerate `AGENTS.md`, `CLAUDE.md`, `GEMINI.md`, `OPENCODE.md`, `QWEN.md`, and the memory README from the packaged memory template.
+
+- [x] **Allow memory update** — Proceed with the template edit, generated memory note refresh, and provider shim regeneration so validation can pass.
+- [ ] **Do not update memory** — Stop before implementation because the approved rename cannot pass `just check` while generated memory still contains the retired alias names.
+
+%xprompts_enabled:true

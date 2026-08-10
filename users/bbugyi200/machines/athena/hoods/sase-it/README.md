@@ -7,4 +7,4 @@
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [sase-it--code](../../../../../../families/bbugyi200.athena.sase-it.md#member-code) | active | gpt-5.5 / codex | 2026-08-10T14:43:28.903379+00:00 | 1 | — |
-| [sase-it--plan](../../../../../../families/bbugyi200.athena.sase-it.md#member-plan) | active | gpt-5.6-sol / codex | 2026-08-10T14:38:52.768043+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-it--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-it--plan/chat.md) |
+| [sase-it--plan](../../../../../../families/bbugyi200.athena.sase-it.md#member-plan) | active | gpt-5.6-sol / codex | 2026-08-10T14:38:52.768043+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-it--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-it--plan/prompt.md) |

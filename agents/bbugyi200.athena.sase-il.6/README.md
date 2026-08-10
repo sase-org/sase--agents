@@ -39,5 +39,6 @@
 | [sase-il.7.3](../bbugyi200.athena.sase-il.7.3/README.md) | sase-il hood | waiting |
 | [sase-il.7.land](../bbugyi200.athena.sase-il.7.land/README.md) | sase-il hood | waiting |
 | [sase-il.land](../bbugyi200.athena.sase-il.land/README.md) | sase-il hood | failed |
-| [sase-il.land.f1](../bbugyi200.athena.sase-il.land.f1/README.md) | sase-il hood | active |
+| [sase-il.land.f1](../../families/bbugyi200.athena.sase-il.land.f1.md) (family · 2) | sase-il hood | active 2 |
+| [sase-il.land.w1](../../families/bbugyi200.athena.sase-il.land.w1.md) (family · 2) | sase-il hood | active 1, waiting 1 |
 | [sase-il.land.w1](../bbugyi200.athena.sase-il.land.w1/README.md) | sase-il hood | active |

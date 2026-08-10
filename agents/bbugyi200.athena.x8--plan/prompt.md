@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start rendering bead notes and +1s as collapsed in the agent metadata panel for the first fold level when an agent / agent lane is selected? #beau #plan #m_opus
