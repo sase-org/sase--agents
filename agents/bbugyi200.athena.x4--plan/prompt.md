@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make sure that plans created by sase agents that work task beads are always linked to that bead? #if_not_plan  See how we do this for other plan files for inspiration. #m_opus
