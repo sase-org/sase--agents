@@ -7,7 +7,7 @@
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [sase-gz.4](../../../../../../agents/bbugyi200.athena.sase-gz.4/README.md) | dismissed | opus / claude | 2026-08-07T11:19:01.074358 → 2026-08-07T12:16:58.042405 | 2 | [chat](../../../../../../agents/bbugyi200.athena.sase-gz.4/chat.md) |
-| [sase-gz.land.f1--plan](../../../../../../families/bbugyi200.athena.sase-gz.land.f1.md#member-plan) | active | opus / claude | 2026-08-07T17:28:20.189094+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-gz.land.f1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-gz.land.f1--plan/chat.md) |
+| [sase-gz.land.f1--plan](../../../../../../families/bbugyi200.athena.sase-gz.land.f1.md#member-plan) | active | opus / claude | 2026-08-07T17:28:20.189094+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-gz.land.f1--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-gz.land.f1--plan/prompt.md) |
 | [sase-gz.land](../../../../../../agents/bbugyi200.athena.sase-gz.land/README.md) | dismissed | opus / claude | 2026-08-07T12:36:20.917983 → 2026-08-07T13:27:53.126533 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-gz.land/chat.md) |
 | [sase-gz.3](../../../../../../agents/bbugyi200.athena.sase-gz.3/README.md) | dismissed | opus / claude | 2026-08-07T11:00:23.567744 → 2026-08-07T11:18:47.500861 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-gz.3/chat.md) |
 | [sase-gz.2](../../../../../../agents/bbugyi200.athena.sase-gz.2/README.md) | dismissed | opus / claude | 2026-08-07T10:54:08.475553 → 2026-08-07T11:18:49.302765 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-gz.2/chat.md) |

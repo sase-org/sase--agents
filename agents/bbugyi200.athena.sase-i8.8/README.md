@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-i8](../../users/bbugyi200/machines/athena/hoods/sase-i8/README.md) / sase-i8.8
 
-**Global name:** `bbugyi200.athena.sase-i8.8` · **State:** completed · **Source run:** `run-0d27f573d91ae96b52cd250330aca3a5`
+**Global name:** `bbugyi200.athena.sase-i8.8` · **State:** active · **Source run:** `run-d79dcc8e1992a43472b7f41f2ae7accb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-i8
 
@@ -12,12 +12,18 @@
 - Epic: [sase-i8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-i8/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-09T18:28:41.344917+00:00
-- Commits: 0
+- Timing: 2026-08-10T11:25:32.215096+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8ed11bb`](https://github.com/sase-org/sase/commit/8ed11bb80b6a218dcd49fed5529573e036bc32ca) | build(deps): raise sase-core-rs floor | 2026-08-10 07:46:04 EDT |
 
 ## Neighbors
 
