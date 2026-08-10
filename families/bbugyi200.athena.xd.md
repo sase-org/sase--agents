@@ -1,0 +1,21 @@
+# Family: xd
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [xd](../users/bbugyi200/machines/athena/hoods/xd/README.md) / xd
+
+Owner: `bbugyi200.athena` · Hood: `xd` · Members: 2
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["xd--code [active]"]
+  n1["xd--plan [active]"]
+  n0 --> n1
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-code"></a>code | xd--code | active | gpt-5.5 / codex | 2026-08-10T16:57:44.095468+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | xd--plan | active | opus / claude | 2026-08-10T16:54:57.261000+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.xd--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.xd--plan/chat.md) |

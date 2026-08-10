@@ -42,4 +42,3 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-il.land](../agents/bbugyi200.athena.sase-il.land/README.md) | sase-il hood | failed |
 | [sase-il.land.f1](bbugyi200.athena.sase-il.land.f1.md) (family · 2) | sase-il hood | completed 2 |
 | [sase-il.land.w1](bbugyi200.athena.sase-il.land.w1.md) (family · 3) | sase-il hood | active 3 |
-| [sase-il.land.w1](../agents/bbugyi200.athena.sase-il.land.w1/README.md) | sase-il hood | active |

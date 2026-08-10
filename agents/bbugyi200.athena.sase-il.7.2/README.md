@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-10T16:10:49.122265+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`dcb243b`](https://github.com/sase-org/sase/commit/dcb243b753b1cbc61d5a4b136063792e888d87ff) | feat!: adopt core tale size contract | 2026-08-10 12:57:22 EDT |
 
 ## Neighbors
 
@@ -35,4 +41,3 @@
 | [sase-il.land](../bbugyi200.athena.sase-il.land/README.md) | sase-il hood | failed |
 | [sase-il.land.f1](../../families/bbugyi200.athena.sase-il.land.f1.md) (family · 2) | sase-il hood | completed 2 |
 | [sase-il.land.w1](../../families/bbugyi200.athena.sase-il.land.w1.md) (family · 3) | sase-il hood | active 3 |
-| [sase-il.land.w1](../bbugyi200.athena.sase-il.land.w1/README.md) | sase-il hood | active |
