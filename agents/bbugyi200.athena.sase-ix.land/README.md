@@ -24,5 +24,5 @@
 |---|---|---|
 | [sase-ix.1](../bbugyi200.athena.sase-ix.1/README.md) | sase-ix hood | completed |
 | [sase-ix.2](../bbugyi200.athena.sase-ix.2/README.md) | sase-ix hood | completed |
-| [sase-ix.3](../bbugyi200.athena.sase-ix.3/README.md) | sase-ix hood | active |
-| [sase-ix.4](../bbugyi200.athena.sase-ix.4/README.md) | sase-ix hood | waiting |
+| [sase-ix.3](../bbugyi200.athena.sase-ix.3/README.md) | sase-ix hood | completed |
+| [sase-ix.4](../bbugyi200.athena.sase-ix.4/README.md) | sase-ix hood | active |
