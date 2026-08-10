@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start indicating the size of each bead (if the bead has a size) in the output of the `sase bead list` command somehow? Make sure the way we display the size is appropriate based on the `--format` CLI option. #beau #plan #m_opus
