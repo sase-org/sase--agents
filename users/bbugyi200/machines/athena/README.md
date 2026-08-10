@@ -1509,6 +1509,6 @@
 | [x1](hoods/x1/README.md) | 2 | 1 | active 2 |
 | [x2](hoods/x2/README.md) | 2 | 1 | active 2 |
 | [x3](hoods/x3/README.md) | 2 | 1 | active 2 |
-| [x4](hoods/x4/README.md) | 2 | 1 | active 2 |
+| [x4](hoods/x4/README.md) | 2 | 1 | completed 2 |
 | [y](hoods/y/README.md) | 2 | 1 | active 1, completed 1 |
 | [z](hoods/z/README.md) | 1 | 0 | completed 1 |
