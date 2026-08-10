@@ -1309,7 +1309,7 @@
 | [sase-iy](hoods/sase-iy/README.md) | 6 | 0 | active 1, completed 4, waiting 1 |
 | [sase-j0](hoods/sase-j0/README.md) | 5 | 2 | completed 4, failed 1 |
 | [sase-j2](hoods/sase-j2/README.md) | 4 | 1 | active 2, completed 2 |
-| [sase-j3](hoods/sase-j3/README.md) | 9 | 0 | active 1, completed 5, waiting 3 |
+| [sase-j3](hoods/sase-j3/README.md) | 9 | 0 | active 1, completed 6, waiting 2 |
 | [sase-j7](hoods/sase-j7/README.md) | 7 | 1 | active 2, completed 3, waiting 2 |
 | [sase-j8](hoods/sase-j8/README.md) | 5 | 0 | active 1, completed 1, waiting 3 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
