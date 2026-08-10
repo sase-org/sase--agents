@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-il](../../users/bbugyi200/machines/athena/hoods/sase-il/README.md) / sase-il.7.land
 
-**Global name:** `bbugyi200.athena.sase-il.7.land` · **State:** waiting · **Source run:** `run-6d1996a67ebfd766ed66a1629c00512e`
+**Global name:** `bbugyi200.athena.sase-il.7.land` · **State:** active · **Source run:** `run-6d1996a67ebfd766ed66a1629c00512e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-il
 
@@ -11,12 +11,18 @@
 - Bead: [sase-il.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-il/sase-il.7.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260810121029
-- Commits: 0
+- Timing: 2026-08-10T17:32:16.615271+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`7691738`](https://github.com/sase-org/sase/commit/769173869556de3c3677510703c0180ad019dee2) | docs: document the tale size contract and show its launch normalization | 2026-08-10 13:55:58 EDT |
 
 ## Neighbors
 
@@ -24,7 +30,7 @@
 |---|---|---|
 | [sase-il.7.1](../bbugyi200.athena.sase-il.7.1/README.md) | sase-il.7 hood | completed |
 | [sase-il.7.2](../bbugyi200.athena.sase-il.7.2/README.md) | sase-il.7 hood | completed |
-| [sase-il.7.3](../bbugyi200.athena.sase-il.7.3/README.md) | sase-il.7 hood | active |
+| [sase-il.7.3](../bbugyi200.athena.sase-il.7.3/README.md) | sase-il.7 hood | completed |
 | [sase-il.1](../bbugyi200.athena.sase-il.1/README.md) | sase-il hood | completed |
 | [sase-il.2](../bbugyi200.athena.sase-il.2/README.md) | sase-il hood | completed |
 | [sase-il.3](../bbugyi200.athena.sase-il.3/README.md) | sase-il hood | completed |
