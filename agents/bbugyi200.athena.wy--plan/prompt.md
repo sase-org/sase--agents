@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I'm pretty sure the task bead chop that sends task bead notifications sometimes sends notifications about task beads that are mid-launch (e.g. I just launched agents for hese a few seconds ago). Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix the issue? #plan #m_opus

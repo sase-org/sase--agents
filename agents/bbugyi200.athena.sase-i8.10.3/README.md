@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-i8.10.1](../bbugyi200.athena.sase-i8.10.1/README.md) | sase-i8.10 hood | active |
+| [sase-i8.10.1](../bbugyi200.athena.sase-i8.10.1/README.md) | sase-i8.10 hood | completed |
 | [sase-i8.10.2](../bbugyi200.athena.sase-i8.10.2/README.md) | sase-i8.10 hood | active |
 | [sase-i8.10.4](../bbugyi200.athena.sase-i8.10.4/README.md) | sase-i8.10 hood | waiting |
 | [sase-i8.10.land](../bbugyi200.athena.sase-i8.10.land/README.md) | sase-i8.10 hood | waiting |

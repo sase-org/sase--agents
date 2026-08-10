@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Something is wrong with the onboarding page that is shown on the "PRs" sub-tab of the "Artifacts" tab when there are no PR/Patch matches (see #sshot). Can you help me diagnose the root cause of this issue and fix it? #plan #m_opus
