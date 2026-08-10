@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-j2.land--plan | active | gpt-5.6-sol / codex | 2026-08-10T19:28:30.986849+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-j2.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-j2.land--plan/chat.md) |
-| <a id="member-code"></a>code | sase-j2.land--code | active | sonnet / claude | 2026-08-10T19:41:31.825396+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-j2.land--code | active | sonnet / claude | 2026-08-10T19:41:31.825396+00:00 | [1](../agents/bbugyi200.athena.sase-j2.land--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`5b97f27`](https://github.com/sase-org/sase/commit/5b97f275518a5990068a8bc13f671f04e2e80170) | test: finish epic sase-j2's isolation terminology cleanup and stale goldens | 2026-08-10 16:16:43 EDT |
 
 ## Neighbors
 

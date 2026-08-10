@@ -12,7 +12,13 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-10T19:41:31.825396+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`5b97f27`](https://github.com/sase-org/sase/commit/5b97f275518a5990068a8bc13f671f04e2e80170) | test: finish epic sase-j2's isolation terminology cleanup and stale goldens | 2026-08-10 16:16:43 EDT |
 
 ## Neighbors
 
