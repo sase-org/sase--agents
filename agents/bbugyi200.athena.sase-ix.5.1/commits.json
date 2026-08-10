@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2291c00595a182777a5347f3ca3a3665"}
+{"commits":[{"committed_at":1786383909,"sha":"f2f26245e59341888323420b71d69888b38c0f6b","subject":"fix(identity): fall back safely on malformed observation metadata"}],"schema_version":2,"source_run_id":"run-2291c00595a182777a5347f3ca3a3665"}

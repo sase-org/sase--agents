@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-10T17:29:07.361442+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`f2f2624`](https://github.com/sase-org/sase/commit/f2f26245e59341888323420b71d69888b38c0f6b) | fix(identity): fall back safely on malformed observation metadata | 2026-08-10 13:45:09 EDT |
 
 ## Neighbors
 
