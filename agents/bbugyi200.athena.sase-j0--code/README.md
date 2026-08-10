@@ -28,4 +28,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-j0.w1](../bbugyi200.athena.sase-j0.w1/README.md) | descendant | active |
+| [sase-j0.w1](../../families/bbugyi200.athena.sase-j0.w1.md) (family · 2) | descendant | active 2 |
