@@ -1,17 +1,16 @@
-# Agent: sase-il.land
+# Agent: sase-il.land.f0
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-il](../../users/bbugyi200/machines/athena/hoods/sase-il/README.md) / sase-il.land
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-il](../../users/bbugyi200/machines/athena/hoods/sase-il/README.md) / sase-il.land.f0
 
-**Global name:** `bbugyi200.athena.sase-il.land` · **State:** waiting · **Source run:** `run-58c9eba69f0ba97db7c5079462674af9`
+**Global name:** `bbugyi200.athena.sase-il.land.f0` · **State:** waiting · **Source run:** `run-1cda643c00c392e74790f519b9ffd30c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-il
 
 ## Summary
 
-- Bead: [sase-il](https://github.com/sase-org/sase--beads/blob/main/pages/sase-il/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260810072240
+- Timing: 20260810094832
 - Commits: 0
 
 ## Files
@@ -22,8 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-il.land.f0](../bbugyi200.athena.sase-il.land.f0/README.md) | descendant | waiting |
-| [sase-il.land.w0](../bbugyi200.athena.sase-il.land.w0/README.md) | descendant | waiting |
+| [sase-il.land](../bbugyi200.athena.sase-il.land/README.md) | ancestor | waiting |
+| [sase-il.land.w0](../bbugyi200.athena.sase-il.land.w0/README.md) | sase-il.land hood | waiting |
 | [sase-il.1](../bbugyi200.athena.sase-il.1/README.md) | sase-il hood | completed |
 | [sase-il.2](../bbugyi200.athena.sase-il.2/README.md) | sase-il hood | completed |
 | [sase-il.3](../bbugyi200.athena.sase-il.3/README.md) | sase-il hood | completed |

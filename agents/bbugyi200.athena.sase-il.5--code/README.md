@@ -13,7 +13,13 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-10T12:55:20.449072+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`344a0b8`](https://github.com/sase-org/sase/commit/344a0b8ff2da71bc53123f008fde5ab08c1bef3a) | feat!: retire implicit coder model aliases | 2026-08-10 10:35:10 EDT |
 
 ## Neighbors
 
@@ -25,4 +31,5 @@
 | [sase-il.4](../bbugyi200.athena.sase-il.4/README.md) | sase-il hood | completed |
 | [sase-il.6](../bbugyi200.athena.sase-il.6/README.md) | sase-il hood | completed |
 | [sase-il.land](../bbugyi200.athena.sase-il.land/README.md) | sase-il hood | waiting |
+| [sase-il.land.f0](../bbugyi200.athena.sase-il.land.f0/README.md) | sase-il hood | waiting |
 | [sase-il.land.w0](../bbugyi200.athena.sase-il.land.w0/README.md) | sase-il hood | waiting |

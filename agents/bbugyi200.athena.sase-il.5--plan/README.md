@@ -29,4 +29,5 @@
 | [sase-il.4](../bbugyi200.athena.sase-il.4/README.md) | sase-il hood | completed |
 | [sase-il.6](../bbugyi200.athena.sase-il.6/README.md) | sase-il hood | completed |
 | [sase-il.land](../bbugyi200.athena.sase-il.land/README.md) | sase-il hood | waiting |
+| [sase-il.land.f0](../bbugyi200.athena.sase-il.land.f0/README.md) | sase-il hood | waiting |
 | [sase-il.land.w0](../bbugyi200.athena.sase-il.land.w0/README.md) | sase-il hood | waiting |
