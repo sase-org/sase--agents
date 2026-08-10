@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me always show the `PLAN` lane above the `BEAD` lane in the `SASE CONTEXT` section in the agent metadata panel when they are both present? #plan #m_opus
