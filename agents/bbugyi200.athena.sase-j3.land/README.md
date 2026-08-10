@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-j3](../../users/bbugyi200/machines/athena/hoods/sase-j3/README.md) / sase-j3.land
 
-**Global name:** `bbugyi200.athena.sase-j3.land` · **State:** waiting · **Source run:** `run-e31e016120d02e98ee5a1dd9bb095240`
+**Global name:** `bbugyi200.athena.sase-j3.land` · **State:** active · **Source run:** `run-e31e016120d02e98ee5a1dd9bb095240`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-j3
 
@@ -11,12 +11,18 @@
 - Bead: [sase-j3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-j3/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260810145348
-- Commits: 0
+- Timing: 2026-08-10T22:46:35.569756+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9edf680`](https://github.com/sase-org/sase/commit/9edf680793f7ad322cad812d5006975384119646) | chore(ace): land sase-j3 snippet target mode | 2026-08-10 19:32:08 EDT |
 
 ## Neighbors
 
@@ -29,4 +35,4 @@
 | [sase-j3.5](../bbugyi200.athena.sase-j3.5/README.md) | sase-j3 hood | completed |
 | [sase-j3.6](../bbugyi200.athena.sase-j3.6/README.md) | sase-j3 hood | completed |
 | [sase-j3.7](../bbugyi200.athena.sase-j3.7/README.md) | sase-j3 hood | completed |
-| [sase-j3.8](../bbugyi200.athena.sase-j3.8/README.md) | sase-j3 hood | active |
+| [sase-j3.8](../bbugyi200.athena.sase-j3.8/README.md) | sase-j3 hood | completed |
