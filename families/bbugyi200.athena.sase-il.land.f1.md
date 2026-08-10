@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-il.land.f1--plan | active | opus / claude | 2026-08-10T14:54:39.625777+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-il.land.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-il.land.f1--plan/chat.md) |
-| <a id="member-code"></a>code | sase-il.land.f1--code | active | gpt-5.5 / codex | 2026-08-10T15:00:28.053885+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-il.land.f1--code | active | gpt-5.5 / codex | 2026-08-10T15:00:28.053885+00:00 | [1](../agents/bbugyi200.athena.sase-il.land.f1--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`7aebbe6`](https://github.com/sase-org/sase/commit/7aebbe6ff5ac3be77449dd4a547450ccffb86024) | feat: show tale size in plan displays | 2026-08-10 11:26:19 EDT |
 
 ## Neighbors
 

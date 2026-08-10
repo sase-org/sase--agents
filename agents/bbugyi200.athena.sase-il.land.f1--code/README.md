@@ -11,7 +11,13 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-10T15:00:28.053885+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`7aebbe6`](https://github.com/sase-org/sase/commit/7aebbe6ff5ac3be77449dd4a547450ccffb86024) | feat: show tale size in plan displays | 2026-08-10 11:26:19 EDT |
 
 ## Neighbors
 
