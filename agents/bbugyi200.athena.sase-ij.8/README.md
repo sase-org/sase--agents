@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ij](../../users/bbugyi200/machines/athena/hoods/sase-ij/README.md) / sase-ij.8
 
-**Global name:** `bbugyi200.athena.sase-ij.8` · **State:** completed · **Source run:** `run-fa3de128be241969f50f7d64710fc7ca`
+**Global name:** `bbugyi200.athena.sase-ij.8` · **State:** completed · **Source run:** `run-1985191fc526fa43922b54d099788220`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ij
 
@@ -10,9 +10,9 @@
 
 - Bead: [sase-ij.8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ij/sase-ij.8.md)
 - Epic: [sase-ij](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ij/README.md)
-- Model: sonnet
-- Provider: claude
-- Timing: 2026-08-09T19:23:43.981990+00:00
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 2026-08-10T11:26:40.943793+00:00
 - Commits: 0
 
 ## Files

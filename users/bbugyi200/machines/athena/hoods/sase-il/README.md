@@ -2,13 +2,14 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-il
 
-**Global hood:** `bbugyi200.athena.sase-il` · **Runs:** 8 · **Families:** 0 · **States:** active 1, completed 4, waiting 3
+**Global hood:** `bbugyi200.athena.sase-il` · **Runs:** 9 · **Families:** 1 · **States:** active 2, completed 5, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-il.5](../../../../../../agents/bbugyi200.athena.sase-il.5/README.md) | waiting | gpt-5.6-sol / codex | 20260810072239 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-il.5/prompt.md) |
+| [sase-il.5--code](../../../../../../families/bbugyi200.athena.sase-il.5.md#member-code) | active | gpt-5.5 / codex | 2026-08-10T12:55:20.449072+00:00 | 0 | — |
+| [sase-il.5--plan](../../../../../../families/bbugyi200.athena.sase-il.5.md#member-plan) | active | gpt-5.6-sol / codex | 2026-08-10T12:50:50.002067+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-il.5--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-il.5--plan/prompt.md) |
 | [sase-il.land](../../../../../../agents/bbugyi200.athena.sase-il.land/README.md) | waiting | opus / claude | 20260810072240 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-il.land/prompt.md) |
-| [sase-il.4](../../../../../../agents/bbugyi200.athena.sase-il.4/README.md) | active | gpt-5.5 / codex | 2026-08-10T11:49:01.903822+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-il.4/prompt.md) |
+| [sase-il.4](../../../../../../agents/bbugyi200.athena.sase-il.4/README.md) | completed | gpt-5.5 / codex | 2026-08-10T11:49:01.903822+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-il.4/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-il.4/prompt.md) |
 | [sase-il.1](../../../../../../agents/bbugyi200.athena.sase-il.1/README.md) | completed | gpt-5.5 / codex | 2026-08-09T20:49:32.869260+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-il.1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-il.1/prompt.md) |
 | [sase-il.land.w0](../../../../../../agents/bbugyi200.athena.sase-il.land.w0/README.md) | waiting | opus / claude | 20260810080023 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-il.land.w0/prompt.md) |
 | [sase-il.6](../../../../../../agents/bbugyi200.athena.sase-il.6/README.md) | completed | sonnet / claude | 2026-08-09T20:49:52.922221+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-il.6/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-il.6/prompt.md) |

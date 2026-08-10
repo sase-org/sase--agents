@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ik](../../users/bbugyi200/machines/athena/hoods/sase-ik/README.md) / sase-ik.3
 
-**Global name:** `bbugyi200.athena.sase-ik.3` · **State:** active · **Source run:** `run-a27f1945a9bbb69bb6dd9c0ef347876c`
+**Global name:** `bbugyi200.athena.sase-ik.3` · **State:** completed · **Source run:** `run-a27f1945a9bbb69bb6dd9c0ef347876c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ik
 
@@ -17,7 +17,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-ik.1](../bbugyi200.athena.sase-ik.1/README.md) | sase-ik hood | completed |
 | [sase-ik.2](../bbugyi200.athena.sase-ik.2/README.md) | sase-ik hood | completed |
-| [sase-ik.land](../bbugyi200.athena.sase-ik.land/README.md) | sase-ik hood | waiting |
+| [sase-ik.land](../bbugyi200.athena.sase-ik.land/README.md) | sase-ik hood | completed |
