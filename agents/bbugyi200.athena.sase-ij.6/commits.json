@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-fcc9194e7e9080b311a4ea6b8fcc02b4"}
+{"commits":[{"committed_at":1786367822,"sha":"0968318b17a35e13e539758191cc4ff8f2511478","subject":"ci: retire published-core-minimum-smoke now enforced at release boundary"}],"schema_version":2,"source_run_id":"run-fcc9194e7e9080b311a4ea6b8fcc02b4"}

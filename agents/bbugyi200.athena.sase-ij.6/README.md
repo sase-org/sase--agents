@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ij](../../users/bbugyi200/machines/athena/hoods/sase-ij/README.md) / sase-ij.6
 
-**Global name:** `bbugyi200.athena.sase-ij.6` · **State:** active · **Source run:** `run-fcc9194e7e9080b311a4ea6b8fcc02b4`
+**Global name:** `bbugyi200.athena.sase-ij.6` · **State:** completed · **Source run:** `run-fcc9194e7e9080b311a4ea6b8fcc02b4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ij
 
@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-10T11:26:35.591556+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`0968318`](https://github.com/sase-org/sase/commit/0968318b17a35e13e539758191cc4ff8f2511478) | ci: retire published-core-minimum-smoke now enforced at release boundary | 2026-08-10 09:17:02 EDT |
 
 ## Neighbors
 
@@ -30,4 +36,4 @@
 | [sase-ij.5](../bbugyi200.athena.sase-ij.5/README.md) | sase-ij hood | completed |
 | [sase-ij.7](../bbugyi200.athena.sase-ij.7/README.md) | sase-ij hood | completed |
 | [sase-ij.8](../bbugyi200.athena.sase-ij.8/README.md) | sase-ij hood | completed |
-| [sase-ij.land](../bbugyi200.athena.sase-ij.land/README.md) | sase-ij hood | waiting |
+| [sase-ij.land](../bbugyi200.athena.sase-ij.land/README.md) | sase-ij hood | active |

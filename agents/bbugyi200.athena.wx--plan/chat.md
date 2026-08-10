@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** wx--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-wx__plan-260810_090935.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-wx__code-260810_090935.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/prs_onboarding_duplicate_quickstart.md
 
 

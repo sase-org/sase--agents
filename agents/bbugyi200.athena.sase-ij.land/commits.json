@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d9843a28755a57093a71887e9d938a65"}
+{"commits":[{"committed_at":1786370881,"sha":"90912ad7d6cad2807ec86d6dbc98e60a33ec421d","subject":"fix: stop conscripting agents into manual core-window bumps"}],"schema_version":2,"source_run_id":"run-d9843a28755a57093a71887e9d938a65"}
