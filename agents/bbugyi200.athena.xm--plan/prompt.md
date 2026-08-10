@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase When a model alias is used as an argument to the `%model` directive instead of an explicit model name, I would like to start surfacing that to the user in the agent metadata panel. Can you help me accomplish this by adding some indication next to the model names / provider names / effort levels that are shown via the `Model:` field's value (or values if an agent family is selected)?
+
+#beau #plan #m_opus
