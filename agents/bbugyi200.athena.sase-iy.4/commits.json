@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f851ab574fd778786eb2a79e71f32161"}
+{"commits":[{"committed_at":1786380114,"sha":"ebd3a91bc16b3e1af6949177c2a475036af9f67a","subject":"test: stabilize contention-sensitive TUI waits"}],"schema_version":2,"source_run_id":"run-f851ab574fd778786eb2a79e71f32161"}
