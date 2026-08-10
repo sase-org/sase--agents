@@ -6,7 +6,7 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-j3.2](../../../../../../agents/bbugyi200.athena.sase-j3.2/README.md) | active | gpt-5.5 / codex | 2026-08-10T18:54:05.619999+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-j3.2/prompt.md) |
+| [sase-j3.2](../../../../../../agents/bbugyi200.athena.sase-j3.2/README.md) | active | gpt-5.5 / codex | 2026-08-10T18:54:05.619999+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-j3.2/prompt.md) |
 | [sase-j3.4](../../../../../../agents/bbugyi200.athena.sase-j3.4/README.md) | waiting | gpt-5.5 / codex | 20260810145343 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-j3.4/prompt.md) |
 | [sase-j3.8](../../../../../../agents/bbugyi200.athena.sase-j3.8/README.md) | waiting | gpt-5.5 / codex | 20260810145347 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-j3.8/prompt.md) |
 | [sase-j3.7](../../../../../../agents/bbugyi200.athena.sase-j3.7/README.md) | waiting | sonnet / claude | 20260810145346 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-j3.7/prompt.md) |
