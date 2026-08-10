@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3560a7f8a97c74bcfb424e655b66b3b9"}
+{"commits":[{"committed_at":1786397121,"sha":"6f4a032cd4ae8ffccd3d9707af2b8537d967b6fc","subject":"test: add opt-in global state leak detector"}],"schema_version":2,"source_run_id":"run-3560a7f8a97c74bcfb424e655b66b3b9"}
