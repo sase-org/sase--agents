@@ -1,0 +1,2 @@
+#gh:gh_sase-org__sase
+%w:sase-il.land Can you help me rename the `phase_worker` model alias bucket to just `worker`? Also, update all of the model alias names in that bucket to remove the `_phase` part of the names. #plan #m_opus

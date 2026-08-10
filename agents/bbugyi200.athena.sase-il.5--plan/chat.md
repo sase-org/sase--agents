@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-il.5--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_il_5__plan-260810_072239.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_il_5__code-260810_072239.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/retire_coder_alias_bucket.md
 
 

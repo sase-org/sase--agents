@@ -17,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-it--code | active | gpt-5.5 / codex | 2026-08-10T14:43:28.903379+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-it--code | active | gpt-5.5 / codex | 2026-08-10T14:43:28.903379+00:00 | [1](../agents/bbugyi200.athena.sase-it--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-it--plan | active | gpt-5.6-sol / codex | 2026-08-10T14:38:52.768043+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-it--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-it--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`b64ed20`](https://github.com/sase-org/sase/commit/b64ed20a11efaf45ce5082b6c85ffbbbe8d0f71c) | fix: retry symvision bead status lookups | 2026-08-10 10:58:38 EDT |
