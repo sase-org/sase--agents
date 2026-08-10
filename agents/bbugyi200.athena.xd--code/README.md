@@ -11,4 +11,10 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-10T16:57:44.095468+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`24dde37`](https://github.com/sase-org/sase/commit/24dde377599fa0bdcec8207663fdd11517e87204) | docs: drop plan authoring size paragraph | 2026-08-10 13:28:30 EDT |
