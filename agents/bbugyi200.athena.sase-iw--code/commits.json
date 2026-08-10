@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c5f1b2f8c47a0bb9501b2875e187be13"}
+{"commits":[{"committed_at":1786374949,"sha":"6e1753647c7ad0bfdd6d29c92ad2d8da1e381021","subject":"fix(lint): type-check extensionless tool scripts"}],"schema_version":2,"source_run_id":"run-c5f1b2f8c47a0bb9501b2875e187be13"}

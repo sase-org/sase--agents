@@ -2,22 +2,25 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-il](../users/bbugyi200/machines/athena/hoods/sase-il/README.md) / sase-il.land.w1
 
-Owner: `bbugyi200.athena` · Hood: `sase-il` · Members: 2
+Owner: `bbugyi200.athena` · Hood: `sase-il` · Members: 3
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-il.land.w1--code [waiting]"]
-  n1["sase-il.land.w1--plan [active]"]
+  n0["sase-il.land.w1--code-0 [active]"]
+  n1["sase-il.land.w1--code [active]"]
   n0 --> n1
+  n2["sase-il.land.w1--plan [active]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-il.land.w1--code | waiting | gpt-5.5 / codex | 2026-08-10T15:02:48.345147+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-il.land.w1--code/chat.md) |
+| <a id="member-code-0"></a>code-0 | sase-il.land.w1--code-0 | active | gpt-5.5 / codex | 2026-08-10T15:06:33.367933+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-il.land.w1--code | active | gpt-5.5 / codex | 2026-08-10T15:02:48.345147+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-il.land.w1--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-il.land.w1--plan | active | opus / claude | 2026-08-10T14:54:29.934936+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-il.land.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-il.land.w1--plan/chat.md) |
 
 ## Neighbors

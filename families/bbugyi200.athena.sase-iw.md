@@ -17,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-iw--code | active | gpt-5.5 / codex | 2026-08-10T14:54:35.421235+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-iw--code | active | gpt-5.5 / codex | 2026-08-10T14:54:35.421235+00:00 | [1](../agents/bbugyi200.athena.sase-iw--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-iw--plan | active | gpt-5.6-sol / codex | 2026-08-10T14:48:55.316651+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-iw--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-iw--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`6e17536`](https://github.com/sase-org/sase/commit/6e1753647c7ad0bfdd6d29c92ad2d8da1e381021) | fix(lint): type-check extensionless tool scripts | 2026-08-10 11:15:49 EDT |
