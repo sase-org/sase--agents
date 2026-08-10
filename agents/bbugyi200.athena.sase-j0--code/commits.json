@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f46de1dd8e345da2da7362885e511888"}
+{"commits":[{"committed_at":1786388328,"sha":"c8e4016c7c5e169b77fd4bfadd9170e71c2a1ca2","subject":"fix(test-cost): recalibrate suite-cost budgets against real recorded history"}],"schema_version":2,"source_run_id":"run-f46de1dd8e345da2da7362885e511888"}

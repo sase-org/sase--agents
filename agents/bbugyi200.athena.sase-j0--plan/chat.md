@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-j0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_j0__plan-260810_135115.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_j0__code-260810_135115.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/test_cost_budget_recalibration.md
 
 
