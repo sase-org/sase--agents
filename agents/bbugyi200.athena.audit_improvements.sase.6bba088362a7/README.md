@@ -37,10 +37,13 @@
 | [audit\_improvements.sase.4](../bbugyi200.athena.audit_improvements.sase.4/README.md) | audit\_improvements.sase hood | active |
 | [audit\_improvements.sase.4b9281d3d7d9](../bbugyi200.athena.audit_improvements.sase.4b9281d3d7d9/README.md) | audit\_improvements.sase hood | active |
 | [audit\_improvements.sase.4e4399a996d1](../bbugyi200.athena.audit_improvements.sase.4e4399a996d1/README.md) | audit\_improvements.sase hood | completed |
-| [audit\_improvements.sase.5](../bbugyi200.athena.audit_improvements.sase.5/README.md) | audit\_improvements.sase hood | waiting |
+| [audit\_improvements.sase.5](../bbugyi200.athena.audit_improvements.sase.5/README.md) | audit\_improvements.sase hood | dismissed |
+| [audit\_improvements.sase.6](../bbugyi200.athena.audit_improvements.sase.6/README.md) | audit\_improvements.sase hood | dismissed |
 | [audit\_improvements.sase.605fbebd1064](../bbugyi200.athena.audit_improvements.sase.605fbebd1064/README.md) | audit\_improvements.sase hood | active |
+| [audit\_improvements.sase.7](../bbugyi200.athena.audit_improvements.sase.7/README.md) | audit\_improvements.sase hood | dismissed |
 | [audit\_improvements.sase.72c82159bf0a](../bbugyi200.athena.audit_improvements.sase.72c82159bf0a/README.md) | audit\_improvements.sase hood | completed |
 | [audit\_improvements.sase.769561512d84](../bbugyi200.athena.audit_improvements.sase.769561512d84/README.md) | audit\_improvements.sase hood | completed |
+| [audit\_improvements.sase.8](../bbugyi200.athena.audit_improvements.sase.8/README.md) | audit\_improvements.sase hood | waiting |
 | [audit\_improvements.sase.81b946fcc180](../bbugyi200.athena.audit_improvements.sase.81b946fcc180/README.md) | audit\_improvements.sase hood | active |
 | [audit\_improvements.sase.83b7e6be94fa](../bbugyi200.athena.audit_improvements.sase.83b7e6be94fa/README.md) | audit\_improvements.sase hood | active |
 | [audit\_improvements.sase.8c318e7d20cf](../bbugyi200.athena.audit_improvements.sase.8c318e7d20cf/README.md) | audit\_improvements.sase hood | completed |

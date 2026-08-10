@@ -27,15 +27,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-il.land](../agents/bbugyi200.athena.sase-il.land/README.md) | ancestor | failed |
+| [sase-il.land](../agents/bbugyi200.athena.sase-il.land/README.md) | ancestor | dismissed |
 | [sase-il.land.f1](bbugyi200.athena.sase-il.land.f1.md) (family · 2) | sase-il.land hood | completed 2 |
-| [sase-il.1](../agents/bbugyi200.athena.sase-il.1/README.md) | sase-il hood | completed |
-| [sase-il.2](../agents/bbugyi200.athena.sase-il.2/README.md) | sase-il hood | completed |
-| [sase-il.3](../agents/bbugyi200.athena.sase-il.3/README.md) | sase-il hood | completed |
-| [sase-il.4](../agents/bbugyi200.athena.sase-il.4/README.md) | sase-il hood | completed |
-| [sase-il.5](bbugyi200.athena.sase-il.5.md) (family · 2) | sase-il hood | completed 2 |
-| [sase-il.6](../agents/bbugyi200.athena.sase-il.6/README.md) | sase-il hood | completed |
-| [sase-il.7.1](../agents/bbugyi200.athena.sase-il.7.1/README.md) | sase-il hood | completed |
-| [sase-il.7.2](../agents/bbugyi200.athena.sase-il.7.2/README.md) | sase-il hood | completed |
-| [sase-il.7.3](../agents/bbugyi200.athena.sase-il.7.3/README.md) | sase-il hood | completed |
-| [sase-il.7.land](../agents/bbugyi200.athena.sase-il.7.land/README.md) | sase-il hood | active |
+| [sase-il.1](../agents/bbugyi200.athena.sase-il.1/README.md) | sase-il hood | dismissed |
+| [sase-il.2](../agents/bbugyi200.athena.sase-il.2/README.md) | sase-il hood | dismissed |
+| [sase-il.3](../agents/bbugyi200.athena.sase-il.3/README.md) | sase-il hood | dismissed |
+| [sase-il.4](../agents/bbugyi200.athena.sase-il.4/README.md) | sase-il hood | dismissed |
+| [sase-il.5](bbugyi200.athena.sase-il.5.md) (family · 2) | sase-il hood | completed 1, dismissed 1 |
+| [sase-il.6](../agents/bbugyi200.athena.sase-il.6/README.md) | sase-il hood | dismissed |
+| [sase-il.7.1](../agents/bbugyi200.athena.sase-il.7.1/README.md) | sase-il hood | dismissed |
+| [sase-il.7.2](../agents/bbugyi200.athena.sase-il.7.2/README.md) | sase-il hood | dismissed |
+| [sase-il.7.3](../agents/bbugyi200.athena.sase-il.7.3/README.md) | sase-il hood | dismissed |
+| [sase-il.7.land](../agents/bbugyi200.athena.sase-il.7.land/README.md) | sase-il hood | dismissed |

@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-i3` · Members: 2 · Bead: [sase-i3](ht
 ```mermaid
 flowchart TD
   n0["sase-i3.land--code [completed]"]
-  n1["sase-i3.land--plan [completed]"]
+  n1["sase-i3.land--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-i3.land--code | completed | gpt-5.5 / codex | 2026-08-09T13:35:24.425555+00:00 | [1](../agents/bbugyi200.athena.sase-i3.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-i3.land--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-i3.land--plan | completed | gpt-5.6-sol / codex | 2026-08-09T13:22:19.004070+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-i3.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-i3.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-i3.land--plan | dismissed | gpt-5.6-sol / codex | 2026-08-09T09:22:19.004070 → 2026-08-09T09:55:46.082370 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-i3.land--plan/chat.md) |
 
 ## Commits
 
@@ -30,6 +30,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-i3.1](../agents/bbugyi200.athena.sase-i3.1/README.md) | sase-i3 hood | completed |
-| [sase-i3.2](../agents/bbugyi200.athena.sase-i3.2/README.md) | sase-i3 hood | completed |
-| [sase-i3.3](../agents/bbugyi200.athena.sase-i3.3/README.md) | sase-i3 hood | completed |
+| [sase-i3.1](../agents/bbugyi200.athena.sase-i3.1/README.md) | sase-i3 hood | dismissed |
+| [sase-i3.2](../agents/bbugyi200.athena.sase-i3.2/README.md) | sase-i3 hood | dismissed |
+| [sase-i3.3](../agents/bbugyi200.athena.sase-i3.3/README.md) | sase-i3 hood | dismissed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [audit\_bugs](../../users/bbugyi200/machines/athena/hoods/audit_bugs/README.md) / audit\_bugs.sase.4
 
-**Global name:** `bbugyi200.athena.audit_bugs.sase.4` · **State:** waiting · **Source run:** `run-2e1f75e57c41f81a46b6aaf8d384262a`
+**Global name:** `bbugyi200.athena.audit_bugs.sase.4` · **State:** dismissed · **Source run:** `run-2e1f75e57c41f81a46b6aaf8d384262a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** audit\_bugs
 
@@ -10,12 +10,8 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260809085151
+- Timing: 2026-08-09T19:28:42.027035 → 2026-08-09T19:29:22.552006
 - Commits: 0
-
-## Files
-
-[Prompt](prompt.md)
 
 ## Neighbors
 
@@ -35,8 +31,11 @@
 | [audit\_bugs.sase.3308b2c86f93](../bbugyi200.athena.audit_bugs.sase.3308b2c86f93/README.md) | audit\_bugs.sase hood | completed |
 | [audit\_bugs.sase.35aeb27ca689](../bbugyi200.athena.audit_bugs.sase.35aeb27ca689/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.3bd59cdda2a0](../bbugyi200.athena.audit_bugs.sase.3bd59cdda2a0/README.md) | audit\_bugs.sase hood | active |
+| [audit\_bugs.sase.5](../bbugyi200.athena.audit_bugs.sase.5/README.md) | audit\_bugs.sase hood | dismissed |
+| [audit\_bugs.sase.6](../bbugyi200.athena.audit_bugs.sase.6/README.md) | audit\_bugs.sase hood | dismissed |
 | [audit\_bugs.sase.61013b22957c](../bbugyi200.athena.audit_bugs.sase.61013b22957c/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.679a41b42eae](../bbugyi200.athena.audit_bugs.sase.679a41b42eae/README.md) | audit\_bugs.sase hood | active |
+| [audit\_bugs.sase.7](../bbugyi200.athena.audit_bugs.sase.7/README.md) | audit\_bugs.sase hood | waiting |
 | [audit\_bugs.sase.7270b986bf6f](../bbugyi200.athena.audit_bugs.sase.7270b986bf6f/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.734f67a25203](../bbugyi200.athena.audit_bugs.sase.734f67a25203/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.766469d7e5c1](../bbugyi200.athena.audit_bugs.sase.766469d7e5c1/README.md) | audit\_bugs.sase hood | active |

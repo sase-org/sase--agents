@@ -2,22 +2,21 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ib](../../users/bbugyi200/machines/athena/hoods/sase-ib/README.md) / sase-ib.1
 
-**Global name:** `bbugyi200.athena.sase-ib.1` · **State:** completed · **Source run:** `run-a021ee613b0be1cd3f59c2db5093d1ad`
+**Global name:** `bbugyi200.athena.sase-ib.1` · **State:** dismissed · **Source run:** `run-a021ee613b0be1cd3f59c2db5093d1ad`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ib
 
 ## Summary
 
 - Bead: [sase-ib.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ib/sase-ib.1.md)
-- Epic: [sase-ib](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ib/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-09T14:38:14.582910+00:00
+- Timing: 2026-08-09T10:38:14.582910 → 2026-08-09T11:25:49.645560
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -29,10 +28,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ib.2](../../families/bbugyi200.athena.sase-ib.2.md) (family · 2) | sase-ib hood | completed 2 |
-| [sase-ib.3](../../families/bbugyi200.athena.sase-ib.3.md) (family · 2) | sase-ib hood | completed 2 |
-| [sase-ib.4](../bbugyi200.athena.sase-ib.4/README.md) | sase-ib hood | completed |
-| [sase-ib.5](../bbugyi200.athena.sase-ib.5/README.md) | sase-ib hood | completed |
-| [sase-ib.6](../bbugyi200.athena.sase-ib.6/README.md) | sase-ib hood | completed |
-| [sase-ib.7](../bbugyi200.athena.sase-ib.7/README.md) | sase-ib hood | completed |
-| [sase-ib.land](../bbugyi200.athena.sase-ib.land/README.md) | sase-ib hood | completed |
+| [sase-ib.2](../../families/bbugyi200.athena.sase-ib.2.md) (family · 2) | sase-ib hood | completed 1, dismissed 1 |
+| [sase-ib.3](../../families/bbugyi200.athena.sase-ib.3.md) (family · 2) | sase-ib hood | completed 1, dismissed 1 |
+| [sase-ib.4](../bbugyi200.athena.sase-ib.4/README.md) | sase-ib hood | dismissed |
+| [sase-ib.5](../bbugyi200.athena.sase-ib.5/README.md) | sase-ib hood | dismissed |
+| [sase-ib.6](../bbugyi200.athena.sase-ib.6/README.md) | sase-ib hood | dismissed |
+| [sase-ib.7](../bbugyi200.athena.sase-ib.7/README.md) | sase-ib hood | dismissed |
+| [sase-ib.land](../bbugyi200.athena.sase-ib.land/README.md) | sase-ib hood | dismissed |

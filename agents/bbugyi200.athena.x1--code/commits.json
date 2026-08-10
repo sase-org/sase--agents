@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f7c15183101e81582afcf04237bba75a"}
+{"commits":[{"committed_at":1786372824,"sha":"c8d5b3d0a4a7061a8e813d04e81d32f4512a7fcc","subject":"feat(ace): show authored task plans in agent context"}],"schema_version":2,"source_run_id":"run-f7c15183101e81582afcf04237bba75a"}

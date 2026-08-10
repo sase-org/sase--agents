@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [wv](../../users/bbugyi200/machines/athena/hoods/wv/README.md) / [wv.f4.f0](../../families/bbugyi200.athena.wv.f4.f0.md) / wv.f4.f0--code
 
-**Global name:** `bbugyi200.athena.wv.f4.f0--code` · **State:** active · **Source run:** `run-2981caa4c5723bda402f95e7e7cad71e`
+**Global name:** `bbugyi200.athena.wv.f4.f0--code` · **State:** completed · **Source run:** `run-2981caa4c5723bda402f95e7e7cad71e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** wv
 
@@ -12,6 +12,10 @@
 - Provider: claude
 - Timing: 2026-08-10T17:15:05.046700+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
 
 ## Commits
 

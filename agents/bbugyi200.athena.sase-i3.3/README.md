@@ -2,22 +2,21 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-i3](../../users/bbugyi200/machines/athena/hoods/sase-i3/README.md) / sase-i3.3
 
-**Global name:** `bbugyi200.athena.sase-i3.3` · **State:** completed · **Source run:** `run-f40af91aeeb3cf40647c2fc31b7e9d39`
+**Global name:** `bbugyi200.athena.sase-i3.3` · **State:** dismissed · **Source run:** `run-f40af91aeeb3cf40647c2fc31b7e9d39`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-i3
 
 ## Summary
 
 - Bead: [sase-i3.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-i3/sase-i3.3.md)
-- Epic: [sase-i3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-i3/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-09T12:50:53.983773+00:00
+- Timing: 2026-08-09T08:50:53.983773 → 2026-08-09T09:21:43.509327
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -29,6 +28,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-i3.1](../bbugyi200.athena.sase-i3.1/README.md) | sase-i3 hood | completed |
-| [sase-i3.2](../bbugyi200.athena.sase-i3.2/README.md) | sase-i3 hood | completed |
-| [sase-i3.land](../../families/bbugyi200.athena.sase-i3.land.md) (family · 2) | sase-i3 hood | completed 2 |
+| [sase-i3.1](../bbugyi200.athena.sase-i3.1/README.md) | sase-i3 hood | dismissed |
+| [sase-i3.2](../bbugyi200.athena.sase-i3.2/README.md) | sase-i3 hood | dismissed |
+| [sase-i3.land](../../families/bbugyi200.athena.sase-i3.land.md) (family · 2) | sase-i3 hood | completed 1, dismissed 1 |

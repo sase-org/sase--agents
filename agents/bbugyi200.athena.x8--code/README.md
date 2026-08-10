@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [x8](../../users/bbugyi200/machines/athena/hoods/x8/README.md) / [x8](../../families/bbugyi200.athena.x8.md) / x8--code
 
-**Global name:** `bbugyi200.athena.x8--code` · **State:** active · **Source run:** `run-dfcbced3e70de1cf99b596536c8886e4`
+**Global name:** `bbugyi200.athena.x8--code` · **State:** completed · **Source run:** `run-dfcbced3e70de1cf99b596536c8886e4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** x8
 
@@ -12,6 +12,10 @@
 - Provider: codex
 - Timing: 2026-08-10T14:39:06.135169+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
 
 ## Commits
 

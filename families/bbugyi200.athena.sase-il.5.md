@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-il` · Members: 2 · Bead: [sase-il.5](
 ```mermaid
 flowchart TD
   n0["sase-il.5--code [completed]"]
-  n1["sase-il.5--plan [completed]"]
+  n1["sase-il.5--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-il.5--code | completed | gpt-5.5 / codex | 2026-08-10T12:55:20.449072+00:00 | [1](../agents/bbugyi200.athena.sase-il.5--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-il.5--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-il.5--plan | completed | gpt-5.6-sol / codex | 2026-08-10T12:50:50.002067+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-il.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-il.5--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-il.5--plan | dismissed | gpt-5.6-sol / codex | 2026-08-10T08:50:50.002067 → 2026-08-10T10:37:30.275864 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-il.5--plan/chat.md) |
 
 ## Commits
 
@@ -30,15 +30,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-il.1](../agents/bbugyi200.athena.sase-il.1/README.md) | sase-il hood | completed |
-| [sase-il.2](../agents/bbugyi200.athena.sase-il.2/README.md) | sase-il hood | completed |
-| [sase-il.3](../agents/bbugyi200.athena.sase-il.3/README.md) | sase-il hood | completed |
-| [sase-il.4](../agents/bbugyi200.athena.sase-il.4/README.md) | sase-il hood | completed |
-| [sase-il.6](../agents/bbugyi200.athena.sase-il.6/README.md) | sase-il hood | completed |
-| [sase-il.7.1](../agents/bbugyi200.athena.sase-il.7.1/README.md) | sase-il hood | completed |
-| [sase-il.7.2](../agents/bbugyi200.athena.sase-il.7.2/README.md) | sase-il hood | completed |
-| [sase-il.7.3](../agents/bbugyi200.athena.sase-il.7.3/README.md) | sase-il hood | completed |
-| [sase-il.7.land](../agents/bbugyi200.athena.sase-il.7.land/README.md) | sase-il hood | active |
-| [sase-il.land](../agents/bbugyi200.athena.sase-il.land/README.md) | sase-il hood | failed |
+| [sase-il.1](../agents/bbugyi200.athena.sase-il.1/README.md) | sase-il hood | dismissed |
+| [sase-il.2](../agents/bbugyi200.athena.sase-il.2/README.md) | sase-il hood | dismissed |
+| [sase-il.3](../agents/bbugyi200.athena.sase-il.3/README.md) | sase-il hood | dismissed |
+| [sase-il.4](../agents/bbugyi200.athena.sase-il.4/README.md) | sase-il hood | dismissed |
+| [sase-il.6](../agents/bbugyi200.athena.sase-il.6/README.md) | sase-il hood | dismissed |
+| [sase-il.7.1](../agents/bbugyi200.athena.sase-il.7.1/README.md) | sase-il hood | dismissed |
+| [sase-il.7.2](../agents/bbugyi200.athena.sase-il.7.2/README.md) | sase-il hood | dismissed |
+| [sase-il.7.3](../agents/bbugyi200.athena.sase-il.7.3/README.md) | sase-il hood | dismissed |
+| [sase-il.7.land](../agents/bbugyi200.athena.sase-il.7.land/README.md) | sase-il hood | dismissed |
+| [sase-il.land](../agents/bbugyi200.athena.sase-il.land/README.md) | sase-il hood | dismissed |
 | [sase-il.land.f1](bbugyi200.athena.sase-il.land.f1.md) (family · 2) | sase-il hood | completed 2 |
 | [sase-il.land.w1](bbugyi200.athena.sase-il.land.w1.md) (family · 3) | sase-il hood | active 3 |

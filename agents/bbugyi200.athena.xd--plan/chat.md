@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** xd--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-xd__plan-260810_125440.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-xd__code-260810_125440.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/drop_plan_authoring_size_paragraph.md
 
 

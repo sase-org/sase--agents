@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** xm--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-xm__plan-260810_153141.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-xm__code-260810_153141.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/model_alias_provenance.md
 
 

@@ -28,6 +28,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-i3.1](../bbugyi200.athena.sase-i3.1/README.md) | sase-i3 hood | completed |
-| [sase-i3.2](../bbugyi200.athena.sase-i3.2/README.md) | sase-i3 hood | completed |
-| [sase-i3.3](../bbugyi200.athena.sase-i3.3/README.md) | sase-i3 hood | completed |
+| [sase-i3.1](../bbugyi200.athena.sase-i3.1/README.md) | sase-i3 hood | dismissed |
+| [sase-i3.2](../bbugyi200.athena.sase-i3.2/README.md) | sase-i3 hood | dismissed |
+| [sase-i3.3](../bbugyi200.athena.sase-i3.3/README.md) | sase-i3 hood | dismissed |

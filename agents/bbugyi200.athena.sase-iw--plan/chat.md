@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-iw--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_iw__plan-260810_104451.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_iw__code-260810_104451.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/typecheck_extensionless_tools.md
 
 

@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** xa--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-xa__plan-260810_103516.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-xa__code-260810_103516.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/commit_task_bead_autoclose.md
 
 

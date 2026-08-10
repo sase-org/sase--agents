@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-ib` · Members: 2 · Bead: [sase-ib.2](
 
 ```mermaid
 flowchart TD
-  n0["sase-ib.2--plan [completed]"]
+  n0["sase-ib.2--plan [dismissed]"]
   n1["sase-ib.2--code [completed]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-ib.2--plan | completed | gpt-5.6-sol / codex | 2026-08-09T15:26:13.264074+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ib.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ib.2--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-ib.2--plan | dismissed | gpt-5.6-sol / codex | 2026-08-09T11:26:13.264074 → 2026-08-09T13:24:22.594534 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ib.2--plan/chat.md) |
 | <a id="member-code"></a>code | sase-ib.2--code | completed | gpt-5.5 / codex | 2026-08-09T15:32:30.110919+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ib.2--code/chat.md) |
 
 ## Commits
@@ -30,10 +30,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ib.1](../agents/bbugyi200.athena.sase-ib.1/README.md) | sase-ib hood | completed |
-| [sase-ib.3](bbugyi200.athena.sase-ib.3.md) (family · 2) | sase-ib hood | completed 2 |
-| [sase-ib.4](../agents/bbugyi200.athena.sase-ib.4/README.md) | sase-ib hood | completed |
-| [sase-ib.5](../agents/bbugyi200.athena.sase-ib.5/README.md) | sase-ib hood | completed |
-| [sase-ib.6](../agents/bbugyi200.athena.sase-ib.6/README.md) | sase-ib hood | completed |
-| [sase-ib.7](../agents/bbugyi200.athena.sase-ib.7/README.md) | sase-ib hood | completed |
-| [sase-ib.land](../agents/bbugyi200.athena.sase-ib.land/README.md) | sase-ib hood | completed |
+| [sase-ib.1](../agents/bbugyi200.athena.sase-ib.1/README.md) | sase-ib hood | dismissed |
+| [sase-ib.3](bbugyi200.athena.sase-ib.3.md) (family · 2) | sase-ib hood | completed 1, dismissed 1 |
+| [sase-ib.4](../agents/bbugyi200.athena.sase-ib.4/README.md) | sase-ib hood | dismissed |
+| [sase-ib.5](../agents/bbugyi200.athena.sase-ib.5/README.md) | sase-ib hood | dismissed |
+| [sase-ib.6](../agents/bbugyi200.athena.sase-ib.6/README.md) | sase-ib hood | dismissed |
+| [sase-ib.7](../agents/bbugyi200.athena.sase-ib.7/README.md) | sase-ib hood | dismissed |
+| [sase-ib.land](../agents/bbugyi200.athena.sase-ib.land/README.md) | sase-ib hood | dismissed |

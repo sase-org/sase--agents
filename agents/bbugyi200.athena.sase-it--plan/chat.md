@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-it--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_it__plan-260810_103832.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_it__code-260810_103832.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/symvision_bead_lookup_retry.md
 
 

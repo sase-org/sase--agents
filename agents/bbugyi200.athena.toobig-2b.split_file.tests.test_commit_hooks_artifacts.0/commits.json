@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8a4434066e05a42b90b34149d9d3609c"}
+{"commits":[{"committed_at":1786385498,"sha":"83e38521e7cf95373b7dd92c6e63720a51bd492b","subject":"test: split commit hook artifact tests"}],"schema_version":2,"source_run_id":"run-76936700663f17e37b2b416e4fd5d387"}

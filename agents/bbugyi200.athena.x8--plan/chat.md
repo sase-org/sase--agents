@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** x8--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-x8__plan-260810_102541.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-x8__code-260810_102541.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/bead_notes_plus_one_first_level_fold.md
 
 

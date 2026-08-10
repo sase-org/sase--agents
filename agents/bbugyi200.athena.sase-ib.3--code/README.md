@@ -29,10 +29,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ib.1](../bbugyi200.athena.sase-ib.1/README.md) | sase-ib hood | completed |
-| [sase-ib.2](../../families/bbugyi200.athena.sase-ib.2.md) (family · 2) | sase-ib hood | completed 2 |
-| [sase-ib.4](../bbugyi200.athena.sase-ib.4/README.md) | sase-ib hood | completed |
-| [sase-ib.5](../bbugyi200.athena.sase-ib.5/README.md) | sase-ib hood | completed |
-| [sase-ib.6](../bbugyi200.athena.sase-ib.6/README.md) | sase-ib hood | completed |
-| [sase-ib.7](../bbugyi200.athena.sase-ib.7/README.md) | sase-ib hood | completed |
-| [sase-ib.land](../bbugyi200.athena.sase-ib.land/README.md) | sase-ib hood | completed |
+| [sase-ib.1](../bbugyi200.athena.sase-ib.1/README.md) | sase-ib hood | dismissed |
+| [sase-ib.2](../../families/bbugyi200.athena.sase-ib.2.md) (family · 2) | sase-ib hood | completed 1, dismissed 1 |
+| [sase-ib.4](../bbugyi200.athena.sase-ib.4/README.md) | sase-ib hood | dismissed |
+| [sase-ib.5](../bbugyi200.athena.sase-ib.5/README.md) | sase-ib hood | dismissed |
+| [sase-ib.6](../bbugyi200.athena.sase-ib.6/README.md) | sase-ib hood | dismissed |
+| [sase-ib.7](../bbugyi200.athena.sase-ib.7/README.md) | sase-ib hood | dismissed |
+| [sase-ib.land](../bbugyi200.athena.sase-ib.land/README.md) | sase-ib hood | dismissed |
