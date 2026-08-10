@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:wv.f4 Why isn't the `@default` model alias row (see #sshot) showing `-> @smarter` after `implicit`? Can you help me fix this? #plan #m_opus

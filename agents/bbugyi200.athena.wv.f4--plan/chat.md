@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** wv.f4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-wv_f4__plan-260810_110854.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-wv_f4__code-260810_110854.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/smarter_model_alias.md
 
 
