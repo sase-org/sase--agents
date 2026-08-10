@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me remove the `IMPORTANT:` line from the `#bd/work_task` xprompt definition? Also, let's stop adding the `#commit` xprompt to the prompt used when launching sase agents to work task beads. #plan #m_opus
