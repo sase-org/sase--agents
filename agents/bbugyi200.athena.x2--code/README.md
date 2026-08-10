@@ -11,4 +11,10 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-10T13:59:56.130370+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`fb7b836`](https://github.com/sase-org/sase/commit/fb7b8366e4960081593235d66a7e73886f50d9fc) | fix(runner-slots): order queue display by capacity | 2026-08-10 10:34:19 EDT |
