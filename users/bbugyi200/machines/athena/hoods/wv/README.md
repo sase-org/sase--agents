@@ -11,4 +11,4 @@
 | [wv.f2](../../../../../../agents/bbugyi200.athena.wv.f2/README.md) | dismissed | opus / claude | 2026-08-10T10:55:35 | 0 | — |
 | [wv.f1](../../../../../../agents/bbugyi200.athena.wv.f1/README.md) | dismissed | opus / claude | 2026-08-10T08:31:47 | 0 | — |
 | [wv.f4--code](../../../../../../families/bbugyi200.athena.wv.f4.md#member-code) | active | gpt-5.5 / codex | 2026-08-10T16:00:29.742212+00:00 | 1 | — |
-| [wv.f4--plan](../../../../../../families/bbugyi200.athena.wv.f4.md#member-plan) | active | opus / claude | 2026-08-10T15:52:14.243540+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.wv.f4--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.wv.f4--plan/chat.md) |
+| [wv.f4--plan](../../../../../../families/bbugyi200.athena.wv.f4.md#member-plan) | active | opus / claude | 2026-08-10T15:52:14.243540+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.wv.f4--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.wv.f4--plan/prompt.md) |
