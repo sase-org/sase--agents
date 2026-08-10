@@ -6,7 +6,7 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-j8.4](../../../../../../agents/bbugyi200.athena.sase-j8.4/README.md) | active | sonnet / claude | 2026-08-10T22:52:58.197391+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-j8.4/prompt.md) |
+| [sase-j8.4](../../../../../../agents/bbugyi200.athena.sase-j8.4/README.md) | active | sonnet / claude | 2026-08-10T22:52:58.197391+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-j8.4/prompt.md) |
 | [sase-j8.3](../../../../../../agents/bbugyi200.athena.sase-j8.3/README.md) | completed | gpt-5.5 / codex | 2026-08-10T21:48:53.155445+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-j8.3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-j8.3/chat.md) |
 | [sase-j8.1](../../../../../../agents/bbugyi200.athena.sase-j8.1/README.md) | completed | gpt-5.5 / codex | 2026-08-10T20:23:10.504180+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-j8.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-j8.1/chat.md) |
 | [sase-j8.2](../../../../../../agents/bbugyi200.athena.sase-j8.2/README.md) | completed | sonnet / claude | 2026-08-10T20:23:20.916876+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-j8.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-j8.2/chat.md) |
