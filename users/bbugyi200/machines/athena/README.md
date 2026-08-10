@@ -954,7 +954,7 @@
 | [rc](hoods/rc/README.md) | 3 | 1 | active 2, completed 1 |
 | [rd](hoods/rd/README.md) | 1 | 0 | active 1 |
 | [refresh\_docs](hoods/refresh_docs/README.md) | 64 | 0 | active 14, completed 48, waiting 2 |
-| [research](hoods/research/README.md) | 312 | 6 | active 148, completed 140, dismissed 13, failed 1, waiting 10 |
+| [research](hoods/research/README.md) | 312 | 6 | active 149, completed 133, dismissed 17, failed 1, waiting 12 |
 | [research\_swarm](hoods/research_swarm/README.md) | 45 | 0 | completed 45 |
 | [rf](hoods/rf/README.md) | 2 | 1 | active 1, completed 1 |
 | [rg](hoods/rg/README.md) | 2 | 1 | active 1, completed 1 |
