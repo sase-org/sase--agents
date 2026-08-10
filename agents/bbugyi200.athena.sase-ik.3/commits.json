@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3f9a3f1c2593a1f5792fbf1f9a8df752"}
+{"commits":[{"committed_at":1786364234,"sha":"12af4fefe097d6c2bfea9e8f636609aad03aa612","subject":"feat(glossary): consume wrapped match segments in ACE"}],"schema_version":2,"source_run_id":"run-a27f1945a9bbb69bb6dd9c0ef347876c"}

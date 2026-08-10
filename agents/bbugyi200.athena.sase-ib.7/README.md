@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ib](../../users/bbugyi200/machines/athena/hoods/sase-ib/README.md) / sase-ib.7
 
-**Global name:** `bbugyi200.athena.sase-ib.7` · **State:** active · **Source run:** `run-4a9bbba7a55f88ab353b964264135f13`
+**Global name:** `bbugyi200.athena.sase-ib.7` · **State:** completed · **Source run:** `run-3f8f01408941ffcf2a09202649d7ba80`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ib
 
@@ -10,14 +10,20 @@
 
 - Bead: [sase-ib.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ib/sase-ib.7.md)
 - Epic: [sase-ib](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ib/README.md)
-- Model: gpt-5.5
-- Provider: codex
-- Timing: 2026-08-09T18:37:16.943900+00:00
-- Commits: 0
+- Model: sonnet
+- Provider: claude
+- Timing: 2026-08-10T11:27:37.043170+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ee9603d`](https://github.com/sase-org/sase/commit/ee9603d31e67a10f54b3a13fbf88e7cd55158572) | test: add suite cost regression budgets | 2026-08-10 07:52:38 EDT |
 
 ## Neighbors
 
@@ -29,4 +35,4 @@
 | [sase-ib.4](../bbugyi200.athena.sase-ib.4/README.md) | sase-ib hood | completed |
 | [sase-ib.5](../bbugyi200.athena.sase-ib.5/README.md) | sase-ib hood | completed |
 | [sase-ib.6](../bbugyi200.athena.sase-ib.6/README.md) | sase-ib hood | completed |
-| [sase-ib.land](../bbugyi200.athena.sase-ib.land/README.md) | sase-ib hood | waiting |
+| [sase-ib.land](../bbugyi200.athena.sase-ib.land/README.md) | sase-ib hood | active |
