@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I think that +1s are marking in-progress beads as open again. This is not correct. They should remain in-progress. Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix the issue? #plan #m_opus

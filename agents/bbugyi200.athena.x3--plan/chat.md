@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** x3--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-x3__plan-260810_094006.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-x3__code-260810_094006.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/distinct_notification_tab_icons.md
 
 
