@@ -7,4 +7,4 @@
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [sase-iw--code](../../../../../../families/bbugyi200.athena.sase-iw.md#member-code) | active | gpt-5.5 / codex | 2026-08-10T14:54:35.421235+00:00 | 1 | — |
-| [sase-iw--plan](../../../../../../families/bbugyi200.athena.sase-iw.md#member-plan) | active | gpt-5.6-sol / codex | 2026-08-10T14:48:55.316651+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-iw--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-iw--plan/chat.md) |
+| [sase-iw--plan](../../../../../../families/bbugyi200.athena.sase-iw.md#member-plan) | active | gpt-5.6-sol / codex | 2026-08-10T14:48:55.316651+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-iw--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-iw--plan/prompt.md) |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2ad1e53d1346c767431b9ef49526cf0c"}
+{"commits":[{"committed_at":1786375358,"sha":"6bf4a0c460c0b0fc61bcb297eb37524f8ea73f2f","subject":"feat(commit)!: auto-close task beads after commits"}],"schema_version":2,"source_run_id":"run-2ad1e53d1346c767431b9ef49526cf0c"}
