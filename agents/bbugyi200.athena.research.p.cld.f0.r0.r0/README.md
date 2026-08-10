@@ -77,8 +77,8 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.05.image](../bbugyi200.athena.research.05.image/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.athena.research.06.cdx/README.md) | research hood | completed |
 | [research.06.cld](../bbugyi200.athena.research.06.cld/README.md) | research hood | completed |
-| [research.06.final](../bbugyi200.athena.research.06.final/README.md) | research hood | active |
-| [research.06.image](../bbugyi200.athena.research.06.image/README.md) | research hood | waiting |
+| [research.06.final](../bbugyi200.athena.research.06.final/README.md) | research hood | completed |
+| [research.06.image](../bbugyi200.athena.research.06.image/README.md) | research hood | completed |
 | [research.07.cdx](../bbugyi200.athena.research.07.cdx/README.md) | research hood | completed |
 | [research.07.cld](../bbugyi200.athena.research.07.cld/README.md) | research hood | completed |
 | [research.07.final](../bbugyi200.athena.research.07.final/README.md) | research hood | completed |
