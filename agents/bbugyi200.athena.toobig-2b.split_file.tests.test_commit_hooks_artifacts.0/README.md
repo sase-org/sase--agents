@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-2b.split\_file.tests.test\_agent\_list\_entries.0](../bbugyi200.athena.toobig-2b.split_file.tests.test_agent_list_entries.0/README.md) | toobig-2b.split\_file.tests hood | waiting |
-| [toobig-2b.split\_file.src.sase.workflows.commit.commit\_hooks.0](../bbugyi200.athena.toobig-2b.split_file.src.sase.workflows.commit.commit_hooks.0/README.md) | toobig-2b.split\_file hood | active |
+| [toobig-2b.split\_file.tests.test\_agent\_list\_entries.0](../bbugyi200.athena.toobig-2b.split_file.tests.test_agent_list_entries.0/README.md) | toobig-2b.split\_file.tests hood | active |
+| [toobig-2b.split\_file.src.sase.workflows.commit.commit\_hooks.0](../bbugyi200.athena.toobig-2b.split_file.src.sase.workflows.commit.commit_hooks.0/README.md) | toobig-2b.split\_file hood | completed |
