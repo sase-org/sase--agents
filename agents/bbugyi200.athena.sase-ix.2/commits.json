@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8b4264afb02ca3b9ab4c7bff39af9850"}
+{"commits":[{"committed_at":1786377475,"sha":"47b2a74aa30541e82bcdfebf9111e1b5076bfb31","subject":"feat(bead): supply and override the plus-one observation window"}],"schema_version":2,"source_run_id":"run-8b4264afb02ca3b9ab4c7bff39af9850"}
