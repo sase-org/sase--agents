@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** xs--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-xs__plan-260811_061743.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-xs__code-260811_061743.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/wait_modal_bead_selection.md
 
 

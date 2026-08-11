@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `xs` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["xs--plan [active]"]
-  n1["xs--code [active]"]
+  n0["xs--plan [completed]"]
+  n1["xs--code [completed]"]
   n0 --> n1
 ```
 
@@ -17,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | xs--plan | active | opus / claude | 2026-08-11T10:17:55.838182+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.xs--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.xs--plan/chat.md) |
-| <a id="member-code"></a>code | xs--code | active | sonnet / claude | 2026-08-11T10:29:04.743891+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | xs--plan | completed | opus / claude | 2026-08-11T10:17:55.838182+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.xs--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.xs--plan/chat.md) |
+| <a id="member-code"></a>code | xs--code | completed | sonnet / claude | 2026-08-11T10:29:04.743891+00:00 | [1](../agents/bbugyi200.athena.xs--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.xs--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`ab3eebe`](https://github.com/sase-org/sase/commit/ab3eebed59aa797570912120e68ae4e309c3473f) | feat(ace): make Wait panel beads editable with completion and verification | 2026-08-11 07:47:39 EDT |

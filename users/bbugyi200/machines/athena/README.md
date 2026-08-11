@@ -1539,7 +1539,7 @@
 | [xo](hoods/xo/README.md) | 1 | 0 | failed 1 |
 | [xp](hoods/xp/README.md) | 1 | 0 | dismissed 1 |
 | [xq](hoods/xq/README.md) | 2 | 1 | completed 2 |
-| [xs](hoods/xs/README.md) | 2 | 1 | active 2 |
+| [xs](hoods/xs/README.md) | 2 | 1 | completed 2 |
 | [xt](hoods/xt/README.md) | 2 | 1 | active 2 |
 | [y](hoods/y/README.md) | 2 | 1 | active 1, completed 1 |
 | [z](hoods/z/README.md) | 1 | 0 | completed 1 |
