@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-jd.5--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_jd_5__plan-260811_060457.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_jd_5__code-260811_060457.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/external_pr_mirror_1.md
 
 
