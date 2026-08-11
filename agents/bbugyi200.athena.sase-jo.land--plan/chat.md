@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-jo.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_jo_land__plan-260811_093628.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_jo_land__code-260811_093628.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/stitch_origin_amend_footer.md
 
 

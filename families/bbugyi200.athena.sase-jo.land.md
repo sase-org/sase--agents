@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-jo` · Members: 2 · Bead: [sase-jo](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-jo.land--code [active]"]
-  n1["sase-jo.land--plan [active]"]
+  n0["sase-jo.land--code [completed]"]
+  n1["sase-jo.land--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-jo.land--code | active | sonnet / claude | 2026-08-11T14:39:36.726495+00:00 | [1](../agents/bbugyi200.athena.sase-jo.land--code/README.md#commits) | — | — |
-| <a id="member-plan"></a>plan | sase-jo.land--plan | active | opus / claude | 2026-08-11T13:40:06.592859+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-jo.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-jo.land--plan/chat.md) |
+| <a id="member-code"></a>code | sase-jo.land--code | completed | sonnet / claude | 2026-08-11T14:39:36.726495+00:00 | [1](../agents/bbugyi200.athena.sase-jo.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-jo.land--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-jo.land--plan | completed | opus / claude | 2026-08-11T13:40:06.592859+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-jo.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-jo.land--plan/chat.md) |
 
 ## Commits
 

@@ -2,22 +2,17 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-jd](../../users/bbugyi200/machines/athena/hoods/sase-jd/README.md) / [sase-jd.8](../../families/bbugyi200.athena.sase-jd.8.md) / sase-jd.8--plan
 
-**Global name:** `bbugyi200.athena.sase-jd.8--plan` · **State:** active · **Source run:** `run-a0bb4bd69ef80c85f99456029e6294c9`
+**Global name:** `bbugyi200.athena.sase-jd.8--plan` · **State:** dismissed · **Source run:** `run-a0bb4bd69ef80c85f99456029e6294c9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-jd
 
 ## Summary
 
 - Bead: [sase-jd.8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-jd/sase-jd.8.md)
-- Epic: [sase-jd](https://github.com/sase-org/sase--beads/blob/main/pages/sase-jd/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-11T12:13:53.479536+00:00
+- Timing: 2026-08-11T08:13:53.479536 → 2026-08-11T11:40:00.802617
 - Commits: 0
-
-## Files
-
-[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -32,4 +27,4 @@
 | [sase-jd.6](../../families/bbugyi200.athena.sase-jd.6.md) (family · 2) | sase-jd hood | completed 2 |
 | [sase-jd.6](../bbugyi200.athena.sase-jd.6/README.md) | sase-jd hood | active |
 | [sase-jd.7](../bbugyi200.athena.sase-jd.7/README.md) | sase-jd hood | completed |
-| [sase-jd.land](../bbugyi200.athena.sase-jd.land/README.md) | sase-jd hood | waiting |
+| [sase-jd.land](../bbugyi200.athena.sase-jd.land/README.md) | sase-jd hood | completed |

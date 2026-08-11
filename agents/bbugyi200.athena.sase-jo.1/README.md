@@ -28,5 +28,5 @@
 | [sase-jo.4](../bbugyi200.athena.sase-jo.4/README.md) | sase-jo hood | completed |
 | [sase-jo.5](../bbugyi200.athena.sase-jo.5/README.md) | sase-jo hood | completed |
 | [sase-jo.6](../bbugyi200.athena.sase-jo.6/README.md) | sase-jo hood | completed |
-| [sase-jo.land](../../families/bbugyi200.athena.sase-jo.land.md) (family · 2) | sase-jo hood | active 2 |
+| [sase-jo.land](../../families/bbugyi200.athena.sase-jo.land.md) (family · 2) | sase-jo hood | completed 2 |
 | [sase-jo.land](../bbugyi200.athena.sase-jo.land/README.md) | sase-jo hood | waiting |

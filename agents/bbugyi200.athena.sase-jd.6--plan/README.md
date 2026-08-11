@@ -30,5 +30,5 @@
 | [sase-jd.4](../bbugyi200.athena.sase-jd.4/README.md) | sase-jd hood | active |
 | [sase-jd.5](../../families/bbugyi200.athena.sase-jd.5.md) (family · 2) | sase-jd hood | completed 2 |
 | [sase-jd.7](../bbugyi200.athena.sase-jd.7/README.md) | sase-jd hood | completed |
-| [sase-jd.8](../../families/bbugyi200.athena.sase-jd.8.md) (family · 2) | sase-jd hood | active 2 |
-| [sase-jd.land](../bbugyi200.athena.sase-jd.land/README.md) | sase-jd hood | waiting |
+| [sase-jd.8](../../families/bbugyi200.athena.sase-jd.8.md) (family · 2) | sase-jd hood | active 1, dismissed 1 |
+| [sase-jd.land](../bbugyi200.athena.sase-jd.land/README.md) | sase-jd hood | completed |

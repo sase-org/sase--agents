@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-jo](../../users/bbugyi200/machines/athena/hoods/sase-jo/README.md) / [sase-jo.land](../../families/bbugyi200.athena.sase-jo.land.md) / sase-jo.land--plan
 
-**Global name:** `bbugyi200.athena.sase-jo.land--plan` · **State:** active · **Source run:** `run-beba674f9c57d2bd547377ee2e0e7de0`
+**Global name:** `bbugyi200.athena.sase-jo.land--plan` · **State:** completed · **Source run:** `run-beba674f9c57d2bd547377ee2e0e7de0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-jo
 

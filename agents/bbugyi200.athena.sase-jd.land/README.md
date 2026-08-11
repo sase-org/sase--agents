@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-jd](../../users/bbugyi200/machines/athena/hoods/sase-jd/README.md) / sase-jd.land
 
-**Global name:** `bbugyi200.athena.sase-jd.land` · **State:** waiting · **Source run:** `run-5d5accecad9f5d2ef08e630d91c5a2f1`
+**Global name:** `bbugyi200.athena.sase-jd.land` · **State:** completed · **Source run:** `run-5d5accecad9f5d2ef08e630d91c5a2f1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-jd
 
@@ -11,12 +11,18 @@
 - Bead: [sase-jd](https://github.com/sase-org/sase--beads/blob/main/pages/sase-jd/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260811060500
-- Commits: 0
+- Timing: 2026-08-11T16:42:33.864990+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`48617f3`](https://github.com/sase-org/sase/commit/48617f3eec9d9209ddba540ebcde5d8ff65345dd) | feat(external-mirror): add pr\_authors knob and drop abandoned PR-mirror draft | 2026-08-11 13:23:46 EDT |
 
 ## Neighbors
 
@@ -31,4 +37,4 @@
 | [sase-jd.6](../../families/bbugyi200.athena.sase-jd.6.md) (family · 2) | sase-jd hood | completed 2 |
 | [sase-jd.6](../bbugyi200.athena.sase-jd.6/README.md) | sase-jd hood | active |
 | [sase-jd.7](../bbugyi200.athena.sase-jd.7/README.md) | sase-jd hood | completed |
-| [sase-jd.8](../../families/bbugyi200.athena.sase-jd.8.md) (family · 2) | sase-jd hood | active 2 |
+| [sase-jd.8](../../families/bbugyi200.athena.sase-jd.8.md) (family · 2) | sase-jd hood | active 1, dismissed 1 |
