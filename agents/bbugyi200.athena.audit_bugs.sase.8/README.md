@@ -1,23 +1,21 @@
-# Agent: audit\_bugs.sase.3308b2c86f93
+# Agent: audit\_bugs.sase.8
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [audit\_bugs](../../users/bbugyi200/machines/athena/hoods/audit_bugs/README.md) / audit\_bugs.sase.3308b2c86f93
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [audit\_bugs](../../users/bbugyi200/machines/athena/hoods/audit_bugs/README.md) / audit\_bugs.sase.8
 
-**Global name:** `bbugyi200.athena.audit_bugs.sase.3308b2c86f93` · **State:** completed · **Source run:** `run-daeeabfd9ac40e7bc063b9c5c26c4a5c`
+**Global name:** `bbugyi200.athena.audit_bugs.sase.8` · **State:** active · **Source run:** `run-a4cf13515f9db592eb6c884f8ff2b770`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** audit\_bugs
 
 ## Summary
 
-- Model: —
-- Provider: —
-- Timing: 2026-06-26T16:16:08+00:00 → 2026-06-26T16:16:08+00:00
-- Commits: [1](#commits)
+- Model: gpt-5.6-sol
+- Provider: codex
+- Timing: 2026-08-11T16:41:08.521923+00:00
+- Commits: 0
 
-## Commits
+## Files
 
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`0f0cb70`](https://github.com/sase-org/sase/commit/0f0cb704c26c49a0d9ec3d4e023c6ff0166e7bd2) | fix: tolerate corrupt prompt history during directive persistence (#186) | 2026-06-26 12:16:08 EDT |
+[Prompt](prompt.md)
 
 ## Neighbors
 
@@ -34,6 +32,7 @@
 | [audit\_bugs.sase.3](../bbugyi200.athena.audit_bugs.sase.3/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.3197b9148ad0](../bbugyi200.athena.audit_bugs.sase.3197b9148ad0/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.31f8436d101f](../bbugyi200.athena.audit_bugs.sase.31f8436d101f/README.md) | audit\_bugs.sase hood | active |
+| [audit\_bugs.sase.3308b2c86f93](../bbugyi200.athena.audit_bugs.sase.3308b2c86f93/README.md) | audit\_bugs.sase hood | completed |
 | [audit\_bugs.sase.35aeb27ca689](../bbugyi200.athena.audit_bugs.sase.35aeb27ca689/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.3bd59cdda2a0](../bbugyi200.athena.audit_bugs.sase.3bd59cdda2a0/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.4](../bbugyi200.athena.audit_bugs.sase.4/README.md) | audit\_bugs.sase hood | dismissed |
@@ -46,7 +45,6 @@
 | [audit\_bugs.sase.734f67a25203](../bbugyi200.athena.audit_bugs.sase.734f67a25203/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.766469d7e5c1](../bbugyi200.athena.audit_bugs.sase.766469d7e5c1/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.7ef34829ef0a](../bbugyi200.athena.audit_bugs.sase.7ef34829ef0a/README.md) | audit\_bugs.sase hood | active |
-| [audit\_bugs.sase.8](../bbugyi200.athena.audit_bugs.sase.8/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.81b946fcc180](../bbugyi200.athena.audit_bugs.sase.81b946fcc180/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.81c5553093b7](../bbugyi200.athena.audit_bugs.sase.81c5553093b7/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.83b7e6be94fa](../bbugyi200.athena.audit_bugs.sase.83b7e6be94fa/README.md) | audit\_bugs.sase hood | active |
