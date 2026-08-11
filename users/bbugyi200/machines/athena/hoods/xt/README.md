@@ -2,9 +2,9 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / xt
 
-**Global hood:** `bbugyi200.athena.xt` · **Runs:** 2 · **Families:** 1 · **States:** active 2
+**Global hood:** `bbugyi200.athena.xt` · **Runs:** 2 · **Families:** 1 · **States:** completed 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [xt--plan](../../../../../../families/bbugyi200.athena.xt.md#member-plan) | active | opus / claude | 2026-08-11T10:32:36.982135+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.xt--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.xt--plan/prompt.md) |
-| [xt--code](../../../../../../families/bbugyi200.athena.xt.md#member-code) | active | gpt-5.5 / codex | 2026-08-11T10:40:44.373205+00:00 | 0 | — |
+| [xt--plan](../../../../../../families/bbugyi200.athena.xt.md#member-plan) | completed | opus / claude | 2026-08-11T10:32:36.982135+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.xt--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.xt--plan/prompt.md) |
+| [xt--code](../../../../../../families/bbugyi200.athena.xt.md#member-code) | completed | gpt-5.5 / codex | 2026-08-11T10:40:44.373205+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.xt--code/chat.md) |

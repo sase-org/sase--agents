@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add good support for the `*` keymap (inspired by vim), which runs a prompt search query for instances of the currently selected word, to the prompt input widget? #plan #m_opus

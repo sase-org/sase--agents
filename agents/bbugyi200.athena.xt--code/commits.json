@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ddf2e2aaa8425333128d57ef08275746"}
+{"commits":[{"committed_at":1786449093,"sha":"3306e093cb2cf866be3da097167abb85b79705a9","subject":"feat(cli)!: rename stitch log to list"}],"schema_version":2,"source_run_id":"run-ddf2e2aaa8425333128d57ef08275746"}

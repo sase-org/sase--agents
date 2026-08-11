@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e99a4e9a98a6e818a0bbbf1ed73cd829"}
+{"commits":[{"committed_at":1786450449,"sha":"2d40e929735428a5a14d7ceae4b1ddaf2e9ee839","subject":"feat(core): wire commit origin through Python VCS-log wire and golden parser"}],"schema_version":2,"source_run_id":"run-e99a4e9a98a6e818a0bbbf1ed73cd829"}

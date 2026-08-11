@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `xt` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["xt--plan [active]"]
-  n1["xt--code [active]"]
+  n0["xt--plan [completed]"]
+  n1["xt--code [completed]"]
   n0 --> n1
 ```
 
@@ -17,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | xt--plan | active | opus / claude | 2026-08-11T10:32:36.982135+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.xt--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.xt--plan/chat.md) |
-| <a id="member-code"></a>code | xt--code | active | gpt-5.5 / codex | 2026-08-11T10:40:44.373205+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | xt--plan | completed | opus / claude | 2026-08-11T10:32:36.982135+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.xt--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.xt--plan/chat.md) |
+| <a id="member-code"></a>code | xt--code | completed | gpt-5.5 / codex | 2026-08-11T10:40:44.373205+00:00 | [1](../agents/bbugyi200.athena.xt--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.xt--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`3306e09`](https://github.com/sase-org/sase/commit/3306e093cb2cf866be3da097167abb85b79705a9) | feat(cli)!: rename stitch log to list | 2026-08-11 07:51:33 EDT |
