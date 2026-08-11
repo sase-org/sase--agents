@@ -1,0 +1,35 @@
+# Family: sase-js.3
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-js](../users/bbugyi200/machines/athena/hoods/sase-js/README.md) / sase-js.3
+
+Owner: `bbugyi200.athena` · Hood: `sase-js` · Members: 2 · Bead: [sase-js.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-js/sase-js.3.md)
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["sase-js.3--plan [active]"]
+  n1["sase-js.3--code [active]"]
+  n0 --> n1
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-plan"></a>plan | sase-js.3--plan | active | opus / claude | 2026-08-11T19:36:22.431977+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-js.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-js.3--plan/chat.md) |
+| <a id="member-code"></a>code | sase-js.3--code | active | gpt-5.5 / codex | 2026-08-11T19:43:35.724015+00:00 | 0 | — | — |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-js.1](bbugyi200.athena.sase-js.1.md) (family · 2) | sase-js hood | completed 2 |
+| [sase-js.2](../agents/bbugyi200.athena.sase-js.2/README.md) | sase-js hood | completed |
+| [sase-js.4](../agents/bbugyi200.athena.sase-js.4/README.md) | sase-js hood | waiting |
+| [sase-js.5](../agents/bbugyi200.athena.sase-js.5/README.md) | sase-js hood | waiting |
+| [sase-js.6](../agents/bbugyi200.athena.sase-js.6/README.md) | sase-js hood | waiting |
+| [sase-js.7](../agents/bbugyi200.athena.sase-js.7/README.md) | sase-js hood | waiting |
+| [sase-js.8](../agents/bbugyi200.athena.sase-js.8/README.md) | sase-js hood | waiting |
+| [sase-js.9](../agents/bbugyi200.athena.sase-js.9/README.md) | sase-js hood | waiting |
+| [sase-js.land](../agents/bbugyi200.athena.sase-js.land/README.md) | sase-js hood | waiting |

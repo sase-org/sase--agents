@@ -30,8 +30,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-js.2](../agents/bbugyi200.athena.sase-js.2/README.md) | sase-js hood | active |
-| [sase-js.3](../agents/bbugyi200.athena.sase-js.3/README.md) | sase-js hood | waiting |
+| [sase-js.2](../agents/bbugyi200.athena.sase-js.2/README.md) | sase-js hood | completed |
+| [sase-js.3](bbugyi200.athena.sase-js.3.md) (family · 2) | sase-js hood | active 2 |
 | [sase-js.4](../agents/bbugyi200.athena.sase-js.4/README.md) | sase-js hood | waiting |
 | [sase-js.5](../agents/bbugyi200.athena.sase-js.5/README.md) | sase-js hood | waiting |
 | [sase-js.6](../agents/bbugyi200.athena.sase-js.6/README.md) | sase-js hood | waiting |
