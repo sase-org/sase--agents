@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-js.3--plan | active | opus / claude | 2026-08-11T19:36:22.431977+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-js.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-js.3--plan/chat.md) |
-| <a id="member-code"></a>code | sase-js.3--code | active | gpt-5.5 / codex | 2026-08-11T19:43:35.724015+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-js.3--code | active | gpt-5.5 / codex | 2026-08-11T19:43:35.724015+00:00 | [1](../agents/bbugyi200.athena.sase-js.3--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`f53e43a`](https://github.com/sase-org/sase/commit/f53e43ab139a7db2c50b75971fb7a5fc202619e5) | feat!: add artifact provider registry | 2026-08-11 16:21:40 EDT |
 
 ## Neighbors
 
