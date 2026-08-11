@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-jd.2](../agents/bbugyi200.athena.sase-jd.2/README.md) | sase-jd hood | active |
+| [sase-jd.2](../agents/bbugyi200.athena.sase-jd.2/README.md) | sase-jd hood | completed |
 | [sase-jd.3](../agents/bbugyi200.athena.sase-jd.3/README.md) | sase-jd hood | active |
 | [sase-jd.4](../agents/bbugyi200.athena.sase-jd.4/README.md) | sase-jd hood | waiting |
 | [sase-jd.5](../agents/bbugyi200.athena.sase-jd.5/README.md) | sase-jd hood | waiting |
