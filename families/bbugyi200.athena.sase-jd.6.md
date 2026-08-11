@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-jd.6--code | active | gpt-5.5 / codex | 2026-08-11T10:12:44.488924+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-jd.6--code | active | gpt-5.5 / codex | 2026-08-11T10:12:44.488924+00:00 | [1](../agents/bbugyi200.athena.sase-jd.6--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-jd.6--plan | active | gpt-5.6-sol / codex | 2026-08-11T10:05:26.533214+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-jd.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-jd.6--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`1e8b373`](https://github.com/sase-org/sase/commit/1e8b373625d4f5d87921f7f171e47f0191729289) | feat(tui): surface external issues in beads | 2026-08-11 07:19:18 EDT |
 
 ## Neighbors
 

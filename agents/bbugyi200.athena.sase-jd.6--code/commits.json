@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4fb485e5c4f4fa4c19f4f74982b022bc"}
+{"commits":[{"committed_at":1786447158,"sha":"1e8b373625d4f5d87921f7f171e47f0191729289","subject":"feat(tui): surface external issues in beads"}],"schema_version":2,"source_run_id":"run-4fb485e5c4f4fa4c19f4f74982b022bc"}
