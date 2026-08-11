@@ -24,11 +24,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-jd.1](bbugyi200.athena.sase-jd.1.md) (family · 2) | sase-jd hood | active 2 |
+| [sase-jd.1](bbugyi200.athena.sase-jd.1.md) (family · 2) | sase-jd hood | completed 2 |
 | [sase-jd.2](../agents/bbugyi200.athena.sase-jd.2/README.md) | sase-jd hood | completed |
 | [sase-jd.3](../agents/bbugyi200.athena.sase-jd.3/README.md) | sase-jd hood | completed |
-| [sase-jd.4](../agents/bbugyi200.athena.sase-jd.4/README.md) | sase-jd hood | waiting |
-| [sase-jd.6](../agents/bbugyi200.athena.sase-jd.6/README.md) | sase-jd hood | waiting |
+| [sase-jd.4](../agents/bbugyi200.athena.sase-jd.4/README.md) | sase-jd hood | active |
+| [sase-jd.6](../agents/bbugyi200.athena.sase-jd.6/README.md) | sase-jd hood | active |
 | [sase-jd.7](../agents/bbugyi200.athena.sase-jd.7/README.md) | sase-jd hood | active |
 | [sase-jd.8](../agents/bbugyi200.athena.sase-jd.8/README.md) | sase-jd hood | waiting |
 | [sase-jd.land](../agents/bbugyi200.athena.sase-jd.land/README.md) | sase-jd hood | waiting |
