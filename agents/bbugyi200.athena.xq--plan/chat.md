@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** xq--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-xq__plan-260810_190747.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-xq__code-260810_190747.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/stitch_create_migration.md
 
 

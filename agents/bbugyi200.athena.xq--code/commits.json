@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-335229f7bb0e7e9a02a949f57660f35c"}
+{"commits":[{"committed_at":1786406188,"sha":"2c06b50a9f49a9634cd108d688d4023b90677f84","subject":"feat(cli): add `sase stitch create` as canonical commit dispatch command"}],"schema_version":2,"source_run_id":"run-335229f7bb0e7e9a02a949f57660f35c"}

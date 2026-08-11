@@ -6,6 +6,6 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-j9.2](../../../../../../agents/bbugyi200.athena.sase-j9.2/README.md) | active | gpt-5.5 / codex | 2026-08-10T22:55:22.965053+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-j9.2/prompt.md) |
+| [sase-j9.2](../../../../../../agents/bbugyi200.athena.sase-j9.2/README.md) | active | gpt-5.5 / codex | 2026-08-10T22:55:22.965053+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-j9.2/prompt.md) |
 | [sase-j9.land](../../../../../../agents/bbugyi200.athena.sase-j9.land/README.md) | waiting | opus / claude | 20260810172213 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-j9.land/prompt.md) |
-| [sase-j9.1](../../../../../../agents/bbugyi200.athena.sase-j9.1/README.md) | completed | sonnet / claude | 2026-08-10T21:22:32.854309+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-j9.1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-j9.1/prompt.md) |
+| [sase-j9.1](../../../../../../agents/bbugyi200.athena.sase-j9.1/README.md) | completed | sonnet / claude | 2026-08-10T21:22:32.854309+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-j9.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-j9.1/chat.md) |
