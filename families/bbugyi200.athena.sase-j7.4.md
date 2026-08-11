@@ -20,6 +20,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | sase-j7.4--plan | completed | opus / claude | 2026-08-10T21:27:36.575461+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-j7.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-j7.4--plan/chat.md) |
 | <a id="member-code"></a>code | sase-j7.4--code | completed | gpt-5.5 / codex | 2026-08-10T21:34:09.660328+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-j7.4--code/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`6385a8e`](https://github.com/sase-org/sase/commit/6385a8ebb16d6315b2fd74fd4ef47b630f516ace) | test: gate cost lane on global-state leak detector | 2026-08-10 20:14:05 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
