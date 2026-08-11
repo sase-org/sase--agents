@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4813e3713057b449aab0d3190ba76982"}
+{"commits":[{"committed_at":1786475770,"sha":"cb453a529e483d4237afdfab66fd2be9e1caadeb","subject":"feat(artifact-ref)!: bump wire schema to 5 for stitch/patch/file-path kinds"}],"schema_version":2,"source_run_id":"run-4813e3713057b449aab0d3190ba76982"}
