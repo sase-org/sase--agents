@@ -5,6 +5,11 @@
 - **AGENT:** toobig-2f.split_file.src.sase.main.patch_handler.0--plan
 - **PROMPT:** `~/.sase/multi_prompts/202608/sase_org_sase-multiprompt-260811_110152.md`
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-toobig_2f_split_file_src_sase_main_patch_handler_0__plan-260811_110154.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-toobig_2f_split_file_src_sase_main_patch_handler_0__code-260811_110154.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/split_patch_handler.md
 
 
