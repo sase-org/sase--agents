@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7b130a4f758193d8b4a2720bf886a722"}
+{"commits":[{"committed_at":1786453774,"sha":"e1b39c72cc47309676c4bff76c8769da2a8f260f","subject":"feat(vcs-log): add origin filter key and --origin CLI flag"}],"schema_version":2,"source_run_id":"run-7b130a4f758193d8b4a2720bf886a722"}
