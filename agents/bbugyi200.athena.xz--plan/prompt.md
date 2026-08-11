@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The new `-` keymap in the agents tab allows us to reverse its operation by using it a second time. Can you help me start making it clear (in a visually appealing way) which agent clans / lanes would be expanded if the user presses `-`? See how we do this with the `=` keymap for inspiration. #beau #plan #m_opus
