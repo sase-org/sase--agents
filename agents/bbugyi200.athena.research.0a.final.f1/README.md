@@ -69,9 +69,9 @@
 | [research.08.cld](../bbugyi200.athena.research.08.cld/README.md) | research hood | dismissed |
 | [research.08.final](../bbugyi200.athena.research.08.final/README.md) | research hood | completed |
 | [research.08.image](../bbugyi200.athena.research.08.image/README.md) | research hood | completed |
-| [research.09.cdx](../bbugyi200.athena.research.09.cdx/README.md) | research hood | active |
+| [research.09.cdx](../bbugyi200.athena.research.09.cdx/README.md) | research hood | completed |
 | [research.09.cld](../bbugyi200.athena.research.09.cld/README.md) | research hood | completed |
-| [research.09.final](../bbugyi200.athena.research.09.final/README.md) | research hood | waiting |
+| [research.09.final](../bbugyi200.athena.research.09.final/README.md) | research hood | active |
 | [research.09.image](../bbugyi200.athena.research.09.image/README.md) | research hood | waiting |
 | [research.0e.cdx](../bbugyi200.athena.research.0e.cdx/README.md) | research hood | completed |
 | [research.0e.cld](../bbugyi200.athena.research.0e.cld/README.md) | research hood | completed |
