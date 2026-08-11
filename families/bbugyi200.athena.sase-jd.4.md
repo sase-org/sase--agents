@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-jd` · Members: 2 · Bead: [sase-jd.4](
 
 ```mermaid
 flowchart TD
-  n0["sase-jd.4--plan [active]"]
+  n0["sase-jd.4--plan [dismissed]"]
   n1["sase-jd.4--code [active]"]
   n0 --> n1
 ```
@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-jd.4--plan | active | gpt-5.6-sol / codex | 2026-08-11T10:05:13.244573+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-jd.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-jd.4--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-jd.4--plan | dismissed | gpt-5.6-sol / codex | 2026-08-11T06:05:13.244573 → 2026-08-11T08:11:10.716149 | 0 | — | — |
 | <a id="member-code"></a>code | sase-jd.4--code | active | sonnet / claude | 2026-08-11T10:13:47.311596+00:00 | 0 | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`265fdbe`](https://github.com/sase-org/sase/commit/265fdbed82ef1638cd55bd449dd52943c33666cf) | feat(beads): mirror external tracker issues into task beads | 2026-08-11 07:51:25 EDT |
 
 ## Neighbors
 
@@ -31,5 +37,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-jd.6](bbugyi200.athena.sase-jd.6.md) (family · 2) | sase-jd hood | completed 2 |
 | [sase-jd.6](../agents/bbugyi200.athena.sase-jd.6/README.md) | sase-jd hood | active |
 | [sase-jd.7](../agents/bbugyi200.athena.sase-jd.7/README.md) | sase-jd hood | completed |
-| [sase-jd.8](../agents/bbugyi200.athena.sase-jd.8/README.md) | sase-jd hood | waiting |
+| [sase-jd.8](bbugyi200.athena.sase-jd.8.md) (family · 2) | sase-jd hood | active 2 |
 | [sase-jd.land](../agents/bbugyi200.athena.sase-jd.land/README.md) | sase-jd hood | waiting |
