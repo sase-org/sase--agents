@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-2e](../../users/bbugyi200/machines/athena/hoods/toobig-2e/README.md) / toobig-2e.split\_file.tests.\_test\_selection\_health.0
 
-**Global name:** `bbugyi200.athena.toobig-2e.split_file.tests._test_selection_health.0` · **State:** waiting · **Source run:** `run-f3cc824bddba97a1e079afa00babf2fc`
+**Global name:** `bbugyi200.athena.toobig-2e.split_file.tests._test_selection_health.0` · **State:** active · **Source run:** `run-f3cc824bddba97a1e079afa00babf2fc`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-2e
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260811060153
-- Commits: 0
+- Timing: 2026-08-11T13:58:20.695529+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`a3ec2a0`](https://github.com/sase-org/sase/commit/a3ec2a014f79baf6416d3f1c1a24c1554c3c33af) | test: split selection health correlation helpers | 2026-08-11 10:14:04 EDT |
 
 ## Neighbors
 
