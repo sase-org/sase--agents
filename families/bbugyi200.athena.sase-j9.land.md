@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-j9` · Members: 2 · Bead: [sase-j9](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-j9.land--plan [active]"]
+  n0["sase-j9.land--plan [dismissed]"]
   n1["sase-j9.land--code [active]"]
   n0 --> n1
 ```
@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-j9.land--plan | active | opus / claude | 2026-08-11T00:05:07.620172+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-j9.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-j9.land--plan/chat.md) |
-| <a id="member-code"></a>code | sase-j9.land--code | active | sonnet / claude | 2026-08-11T00:18:38.423415+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-j9.land--plan | dismissed | opus / claude | 2026-08-10T20:05:07.620172 | 0 | — | — |
+| <a id="member-code"></a>code | sase-j9.land--code | active | sonnet / claude | 2026-08-11T00:18:38.423415+00:00 | [1](../agents/bbugyi200.athena.sase-j9.land--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`81e7b02`](https://github.com/sase-org/sase/commit/81e7b02d69066377ca0c1f019e4d5467c3471f12) | feat(ace): restrict \`-\` panel fold sweep to lanes/clans only | 2026-08-10 21:42:59 EDT |
 
 ## Neighbors
 

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me remove the current `sase stitch list` command's implementation in favor of renaming the `sase stitch log` command to `sase stitch list`? Also make sure that this is the default subcommand if no subcommands are provided to the `sase stitch` command. #plan #m_opus

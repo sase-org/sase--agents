@@ -1,0 +1,21 @@
+# Family: xs
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [xs](../users/bbugyi200/machines/athena/hoods/xs/README.md) / xs
+
+Owner: `bbugyi200.athena` · Hood: `xs` · Members: 2
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["xs--plan [active]"]
+  n1["xs--code [active]"]
+  n0 --> n1
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-plan"></a>plan | xs--plan | active | opus / claude | 2026-08-11T10:17:55.838182+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.xs--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.xs--plan/chat.md) |
+| <a id="member-code"></a>code | xs--code | active | sonnet / claude | 2026-08-11T10:29:04.743891+00:00 | 0 | — | — |

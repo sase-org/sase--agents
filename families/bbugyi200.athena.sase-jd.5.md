@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-jd` · Members: 2 · Bead: [sase-jd.5](
 
 ```mermaid
 flowchart TD
-  n0["sase-jd.5--plan [active]"]
-  n1["sase-jd.5--code [active]"]
+  n0["sase-jd.5--code [active]"]
+  n1["sase-jd.5--plan [active]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-jd.5--plan | active | opus / claude | 2026-08-11T00:09:18.429959+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-jd.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-jd.5--plan/chat.md) |
-| <a id="member-code"></a>code | sase-jd.5--code | active | gpt-5.5 / codex | 2026-08-11T00:21:17.168012+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-jd.5--code | active | gpt-5.5 / codex | 2026-08-11T10:16:40.243050+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-jd.5--plan | active | opus / claude | 2026-08-11T10:05:17.009850+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-jd.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-jd.5--plan/chat.md) |
 
 ## Neighbors
 
@@ -27,8 +27,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-jd.1](bbugyi200.athena.sase-jd.1.md) (family · 2) | sase-jd hood | completed 2 |
 | [sase-jd.2](../agents/bbugyi200.athena.sase-jd.2/README.md) | sase-jd hood | completed |
 | [sase-jd.3](../agents/bbugyi200.athena.sase-jd.3/README.md) | sase-jd hood | completed |
+| [sase-jd.4](bbugyi200.athena.sase-jd.4.md) (family · 2) | sase-jd hood | active 2 |
 | [sase-jd.4](../agents/bbugyi200.athena.sase-jd.4/README.md) | sase-jd hood | active |
+| [sase-jd.6](bbugyi200.athena.sase-jd.6.md) (family · 2) | sase-jd hood | active 2 |
 | [sase-jd.6](../agents/bbugyi200.athena.sase-jd.6/README.md) | sase-jd hood | active |
-| [sase-jd.7](../agents/bbugyi200.athena.sase-jd.7/README.md) | sase-jd hood | active |
+| [sase-jd.7](../agents/bbugyi200.athena.sase-jd.7/README.md) | sase-jd hood | completed |
 | [sase-jd.8](../agents/bbugyi200.athena.sase-jd.8/README.md) | sase-jd hood | waiting |
 | [sase-jd.land](../agents/bbugyi200.athena.sase-jd.land/README.md) | sase-jd hood | waiting |

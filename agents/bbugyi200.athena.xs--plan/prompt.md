@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add support to the `Wait` panel (triggered via the `w` keymap on the agents tab) for selecting beads that an agent should wait for (i.e. the agent shouldn't launch until all of those beads are closed)? #beau #plan #m_opus

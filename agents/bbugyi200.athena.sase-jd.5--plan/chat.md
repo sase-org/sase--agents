@@ -1,10 +1,10 @@
 # Chat History - ace-run (sase-jd.5--plan)
 
-- **TIMESTAMP:** 2026-08-10 20:21:03 EDT
+- **TIMESTAMP:** 2026-08-11 06:16:32 EDT
 - **MODEL:** claude/opus
 - **AGENT:** sase-jd.5--plan
 
-**Plan:** /home/bryan/.sase/plans/202608/external_pr_mirror.md
+**Plan:** /home/bryan/.sase/plans/202608/external_pr_mirror_1.md
 
 
 ## Prompt
@@ -13,7 +13,6 @@
 %id(5, clan=sase-jd, bead=sase-jd.5)
 %model:@large_worker
 %auto
-%w:sase-jd.2,sase-jd.3
 %w(bead=sase-jd.2)
 %w(bead=sase-jd.3)
 Can you complete the work for bead sase-jd.5? The bead is already reserved for you and assigned to your agent
@@ -34,18 +33,18 @@ before making any file changes.
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202608/external_pr_mirror.md`
+**Plan file:** `/home/bryan/.sase/plans/202608/external_pr_mirror_1.md`
 
 > - **PARENT:**
 >   [202608/external_artifact_ingestion.md](202608/external_artifact_ingestion.md)
 > - **BEAD:** sase-jd.5
-> # Plan: external_pr_mirror chop and the two-file Patch importer
-> Phase `pr_mirror` of epic `sase-jd`
-> ([plans:202608/external_artifact_ingestion.md](https://github.com/sase-org/sase--plans/blob/main/202608/external_artifact_ingestion.md)).
-> Both dependencies have landed: `pr_seam` (`498ef310f` here, `2b0d6a8` in sase-github)
-> and `pr_origin` (`295140319` here, `d0eeb48` in sase-core).
-> ## What already exists (verified)
-> - `PullRequestWire` with
+> # Plan: `external_pr_mirror` chop and the two-file Patch importer
+> Phase `pr_mirror` of epic `sase-jd` (bead `sase-jd.5`). Epic design:
+> `plans:202608/external_artifact_ingestion.md`, section "Phase `pr_mirror`:
+> external_pr_mirror chop and the two-file importer".
+> ## Goal
+> Every PR on an enabled project's remote that was **not** created by SASE's tracked PR
+> workflow gets a local Patch, created by a per-project AXE chop, with merged and closed
 
 *See full plan file for details.*
 

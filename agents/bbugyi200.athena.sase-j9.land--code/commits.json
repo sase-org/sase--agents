@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b494803f57d4fd3e31add8d507edcd64"}
+{"commits":[{"committed_at":1786412579,"sha":"81e7b02d69066377ca0c1f019e4d5467c3471f12","subject":"feat(ace): restrict `-` panel fold sweep to lanes/clans only"}],"schema_version":2,"source_run_id":"run-b494803f57d4fd3e31add8d507edcd64"}
