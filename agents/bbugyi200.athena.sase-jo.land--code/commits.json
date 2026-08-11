@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-69b88bb9b6532120228bf4b66927fee5"}
+{"commits":[{"committed_at":1786463171,"sha":"33b886150b672b85f471d0e3d1a9e9de0385cb71","subject":"fix(vcs): preserve SASE_TYPE footer across commit amend"}],"schema_version":2,"source_run_id":"run-69b88bb9b6532120228bf4b66927fee5"}

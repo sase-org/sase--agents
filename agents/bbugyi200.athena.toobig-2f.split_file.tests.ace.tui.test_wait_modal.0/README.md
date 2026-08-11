@@ -22,5 +22,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-2f.split\_file.src.sase.ace.tui.actions.\_artifacts\_beads\_work.0](../bbugyi200.athena.toobig-2f.split_file.src.sase.ace.tui.actions._artifacts_beads_work.0/README.md) | toobig-2f.split\_file hood | completed |
-| [toobig-2f.split\_file.src.sase.ace.tui.modals.wait\_modal.0](../bbugyi200.athena.toobig-2f.split_file.src.sase.ace.tui.modals.wait_modal.0/README.md) | toobig-2f.split\_file hood | active |
+| [toobig-2f.split\_file.src.sase.ace.tui.modals.wait\_modal.0](../bbugyi200.athena.toobig-2f.split_file.src.sase.ace.tui.modals.wait_modal.0/README.md) | toobig-2f.split\_file hood | completed |
 | [toobig-2f.split\_file.src.sase.main.patch\_handler.0](../bbugyi200.athena.toobig-2f.split_file.src.sase.main.patch_handler.0/README.md) | toobig-2f.split\_file hood | waiting |
