@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e72bb60169f1b5ea2f95d776cf29b63c"}
+{"commits":[{"committed_at":1786476792,"sha":"e2cacbe34ce16e3df92dc390ea11376972da5c77","subject":"refactor(xprompt)!: retire the #ref/<kind> contextual renderer adapter"}],"schema_version":2,"source_run_id":"run-e72bb60169f1b5ea2f95d776cf29b63c"}

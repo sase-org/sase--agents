@@ -1315,7 +1315,7 @@
 | [sase-j9](hoods/sase-j9/README.md) | 4 | 1 | active 1, completed 2, dismissed 1 |
 | [sase-jd](hoods/sase-jd/README.md) | 16 | 5 | active 4, completed 10, dismissed 2 |
 | [sase-jo](hoods/sase-jo/README.md) | 9 | 1 | completed 8, waiting 1 |
-| [sase-js](hoods/sase-js/README.md) | 11 | 1 | active 3, waiting 8 |
+| [sase-js](hoods/sase-js/README.md) | 11 | 1 | active 1, completed 2, waiting 8 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-0q](hoods/sase_fix_just-0q/README.md) | 1 | 0 | active 1 |
