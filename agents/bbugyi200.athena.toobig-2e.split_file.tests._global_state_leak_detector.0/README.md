@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-2e](../../users/bbugyi200/machines/athena/hoods/toobig-2e/README.md) / toobig-2e.split\_file.tests.\_global\_state\_leak\_detector.0
 
-**Global name:** `bbugyi200.athena.toobig-2e.split_file.tests._global_state_leak_detector.0` · **State:** waiting · **Source run:** `run-4e22524c774428639083db0b0d46f401`
+**Global name:** `bbugyi200.athena.toobig-2e.split_file.tests._global_state_leak_detector.0` · **State:** completed · **Source run:** `run-4e22524c774428639083db0b0d46f401`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-2e
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260811060152
-- Commits: 0
+- Timing: 2026-08-11T13:21:30.045187+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`87cffa3`](https://github.com/sase-org/sase/commit/87cffa3b8f5c246112aefd15f13405e72a38e2a4) | refactor(tests): split global state leak detector | 2026-08-11 09:38:01 EDT |
 
 ## Neighbors
 
@@ -25,4 +31,4 @@
 | [toobig-2e.split\_file.tests.ace.tui.widgets.test\_prompt\_stack.0](../bbugyi200.athena.toobig-2e.split_file.tests.ace.tui.widgets.test_prompt_stack.0/README.md) | toobig-2e.split\_file.tests hood | waiting |
 | [toobig-2e.split\_file.tests.conftest.0](../bbugyi200.athena.toobig-2e.split_file.tests.conftest.0/README.md) | toobig-2e.split\_file.tests hood | waiting |
 | [toobig-2e.split\_file.src.sase.ace.tui.widgets.prompt\_stack.0](../bbugyi200.athena.toobig-2e.split_file.src.sase.ace.tui.widgets.prompt_stack.0/README.md) | toobig-2e.split\_file hood | completed |
-| [toobig-2e.split\_file.src.sase.axe.run\_agent\_exec\_plan\_accept.0](../bbugyi200.athena.toobig-2e.split_file.src.sase.axe.run_agent_exec_plan_accept.0/README.md) | toobig-2e.split\_file hood | active |
+| [toobig-2e.split\_file.src.sase.axe.run\_agent\_exec\_plan\_accept.0](../bbugyi200.athena.toobig-2e.split_file.src.sase.axe.run_agent_exec_plan_accept.0/README.md) | toobig-2e.split\_file hood | completed |

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase `sase ace` crashes when I try to select the `research.07` agent clan with the following error: `MissingStyle: Failed to get style '@file:<file>'; unable to parse '@file:<file>' as color; '@file:<file>' is not a valid color`. Can you help me diagnose the root cause of this issue and fix it? #plan #m_opus
