@@ -11,4 +11,10 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-11T12:39:32.306620+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3e19e7c`](https://github.com/sase-org/sase/commit/3e19e7cd15c71a2eacaa95fb5bb265a0c89c7b1f) | feat(ace): show fold restore preview markers | 2026-08-11 09:19:08 EDT |
