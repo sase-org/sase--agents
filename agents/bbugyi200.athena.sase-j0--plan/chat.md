@@ -1,15 +1,10 @@
 # Chat History - ace-run (sase-j0--plan)
 
-- **TIMESTAMP:** 2026-08-10 14:05:33 EDT
+- **TIMESTAMP:** 2026-08-11 12:02:12 EDT
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-j0--plan
 
-## Linked Chats
-
-- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_j0__plan-260810_135115.md`
-- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_j0__code-260810_135115.md`
-
-**Plan:** /home/bryan/.sase/plans/202608/test_cost_budget_recalibration.md
+**Plan:** /home/bryan/.sase/plans/202608/width_invariant_worker_rss_budget.md
 
 
 ## Prompt
@@ -33,18 +28,18 @@ before making any file changes.
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202608/test_cost_budget_recalibration.md`
+**Plan file:** `/home/bryan/.sase/plans/202608/width_invariant_worker_rss_budget.md`
 
 > - **BEAD:** sase-j0
-> # Plan: Recalibrate the suite-cost budgets against real recorded history
-> ## Symptom
-> `just check-full` on clean master fails at `just test-cost` →
-> `tools/check_test_cost_budgets`, after every lint gate, SASE validation, committed-plan
-> validation and the full pytest run itself pass. Six budgets are exceeded at once:
-> ```
-> - collection_seconds: actual 272.301 exceeds budget 15.000 + 15% tolerance (17.250)
-> - idle_seconds: actual 2754.083 exceeds budget 900.000 + 15% tolerance (1035.000)
-> - peak_worker_rss_kib: actual 1028064.000 exceeds budget 716800.000 + 15% (824320.000)
+> # Plan: Make the suite-cost worker-RSS budget width-invariant
+> ## Problem
+> `tools/check_test_cost_budgets` is the last step of `just check-full`. Bead `sase-j0`
+> was closed once after commit `c8e4016c7` recalibrated
+> `tests/perf/baselines/test_cost_budgets.json`, and was reopened the same day because the
+> gate went red again. Since the recalibration, every reported failure has been the _same
+> single metric_:
+> - reopen `+1` (2026-08-10): `peak_worker_rss_kib` actual `1325528` KiB exceeded budget
+>   `1100000` + 15% tolerance (`1265000`).
 
 *See full plan file for details.*
 

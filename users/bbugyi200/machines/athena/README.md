@@ -1307,7 +1307,7 @@
 | [sase-iw](hoods/sase-iw/README.md) | 2 | 1 | completed 2 |
 | [sase-ix](hoods/sase-ix/README.md) | 9 | 0 | dismissed 9 |
 | [sase-iy](hoods/sase-iy/README.md) | 6 | 0 | completed 5, waiting 1 |
-| [sase-j0](hoods/sase-j0/README.md) | 5 | 2 | completed 4, failed 1 |
+| [sase-j0](hoods/sase-j0/README.md) | 5 | 2 | active 2, completed 1, dismissed 2 |
 | [sase-j2](hoods/sase-j2/README.md) | 4 | 1 | completed 4 |
 | [sase-j3](hoods/sase-j3/README.md) | 9 | 0 | completed 9 |
 | [sase-j7](hoods/sase-j7/README.md) | 7 | 1 | active 1, completed 5, waiting 1 |

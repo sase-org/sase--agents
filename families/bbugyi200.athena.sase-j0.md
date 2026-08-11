@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-j0` · Members: 2 · Bead: [sase-j0](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-j0--plan [completed]"]
-  n1["sase-j0--code [completed]"]
+  n0["sase-j0--plan [active]"]
+  n1["sase-j0--code [active]"]
   n0 --> n1
 ```
 
@@ -17,18 +17,18 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-j0--plan | completed | gpt-5.6-sol / codex | 2026-08-10T17:51:29.696723+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-j0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-j0--plan/chat.md) |
-| <a id="member-code"></a>code | sase-j0--code | completed | sonnet / claude | 2026-08-10T18:05:47.219908+00:00 | [1](../agents/bbugyi200.athena.sase-j0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-j0--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-j0--plan | active | gpt-5.6-sol / codex | 2026-08-11T15:46:53.002335+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-j0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-j0--plan/chat.md) |
+| <a id="member-code"></a>code | sase-j0--code | active | sonnet / claude | 2026-08-11T16:02:18.748527+00:00 | 0 | — | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`c8e4016`](https://github.com/sase-org/sase/commit/c8e4016c7c5e169b77fd4bfadd9170e71c2a1ca2) | fix(test-cost): recalibrate suite-cost budgets against real recorded history | 2026-08-10 14:58:48 EDT |
+| — | sase | [`c8e4016`](https://github.com/sase-org/sase/commit/c8e4016c7c5e169b77fd4bfadd9170e71c2a1ca2) | fix(test-cost): recalibrate suite-cost budgets against real recorded history | 2026-08-10 14:58:48 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-j0.w1](bbugyi200.athena.sase-j0.w1.md) (family · 2) | descendant | completed 2 |
-| [sase-j0.w1.f0](../agents/bbugyi200.athena.sase-j0.w1.f0/README.md) | descendant | failed |
+| [sase-j0.w1](bbugyi200.athena.sase-j0.w1.md) (family · 2) | descendant | completed 1, dismissed 1 |
+| [sase-j0.w1.f0](../agents/bbugyi200.athena.sase-j0.w1.f0/README.md) | descendant | dismissed |

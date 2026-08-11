@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | toobig-2f.split\_file.src.sase.main.patch\_handler.0--plan | active | gpt-5.6-sol / codex | 2026-08-11T15:46:49.052488+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-2f.split_file.src.sase.main.patch_handler.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-2f.split_file.src.sase.main.patch_handler.0--plan/chat.md) |
-| <a id="member-code"></a>code | toobig-2f.split\_file.src.sase.main.patch\_handler.0--code | active | gpt-5.5 / codex | 2026-08-11T15:49:09.242974+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | toobig-2f.split\_file.src.sase.main.patch\_handler.0--code | active | gpt-5.5 / codex | 2026-08-11T15:49:09.242974+00:00 | [1](../agents/bbugyi200.athena.toobig-2f.split_file.src.sase.main.patch_handler.0--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`334ff99`](https://github.com/sase-org/sase/commit/334ff99b17faf2a17ebbd9660c3805a022897c53) | refactor: split patch command handlers | 2026-08-11 12:17:36 EDT |
 
 ## Neighbors
 
