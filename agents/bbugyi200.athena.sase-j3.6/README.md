@@ -36,4 +36,4 @@
 | [sase-j3.5](../bbugyi200.athena.sase-j3.5/README.md) | sase-j3 hood | completed |
 | [sase-j3.7](../bbugyi200.athena.sase-j3.7/README.md) | sase-j3 hood | completed |
 | [sase-j3.8](../bbugyi200.athena.sase-j3.8/README.md) | sase-j3 hood | completed |
-| [sase-j3.land](../bbugyi200.athena.sase-j3.land/README.md) | sase-j3 hood | active |
+| [sase-j3.land](../bbugyi200.athena.sase-j3.land/README.md) | sase-j3 hood | completed |
