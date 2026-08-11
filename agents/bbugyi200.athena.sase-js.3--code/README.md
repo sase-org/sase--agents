@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-js](../../users/bbugyi200/machines/athena/hoods/sase-js/README.md) / [sase-js.3](../../families/bbugyi200.athena.sase-js.3.md) / sase-js.3--code
 
-**Global name:** `bbugyi200.athena.sase-js.3--code` · **State:** active · **Source run:** `run-e92f760ec7d72feeaf69208ecc883dfa`
+**Global name:** `bbugyi200.athena.sase-js.3--code` · **State:** completed · **Source run:** `run-e92f760ec7d72feeaf69208ecc883dfa`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-js
 
@@ -14,6 +14,10 @@
 - Provider: codex
 - Timing: 2026-08-11T19:43:35.724015+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
 
 ## Commits
 
@@ -27,10 +31,10 @@
 |---|---|---|
 | [sase-js.1](../../families/bbugyi200.athena.sase-js.1.md) (family · 2) | sase-js hood | completed 2 |
 | [sase-js.2](../bbugyi200.athena.sase-js.2/README.md) | sase-js hood | completed |
-| [sase-js.4](../bbugyi200.athena.sase-js.4/README.md) | sase-js hood | waiting |
-| [sase-js.5](../bbugyi200.athena.sase-js.5/README.md) | sase-js hood | waiting |
+| [sase-js.4](../../families/bbugyi200.athena.sase-js.4.md) (family · 2) | sase-js hood | active 2 |
+| [sase-js.5](../../families/bbugyi200.athena.sase-js.5.md) (family · 2) | sase-js hood | active 2 |
 | [sase-js.6](../bbugyi200.athena.sase-js.6/README.md) | sase-js hood | waiting |
 | [sase-js.7](../bbugyi200.athena.sase-js.7/README.md) | sase-js hood | waiting |
-| [sase-js.8](../bbugyi200.athena.sase-js.8/README.md) | sase-js hood | waiting |
+| [sase-js.8](../../families/bbugyi200.athena.sase-js.8.md) (family · 2) | sase-js hood | active 2 |
 | [sase-js.9](../bbugyi200.athena.sase-js.9/README.md) | sase-js hood | waiting |
 | [sase-js.land](../bbugyi200.athena.sase-js.land/README.md) | sase-js hood | waiting |
