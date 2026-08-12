@@ -30,6 +30,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-jx.1](../bbugyi200.athena.sase-jx.1/README.md) | sase-jx hood | completed |
-| [sase-jx.3](../bbugyi200.athena.sase-jx.3/README.md) | sase-jx hood | active |
-| [sase-jx.4](../bbugyi200.athena.sase-jx.4/README.md) | sase-jx hood | waiting |
+| [sase-jx.3](../bbugyi200.athena.sase-jx.3/README.md) | sase-jx hood | completed |
+| [sase-jx.4](../bbugyi200.athena.sase-jx.4/README.md) | sase-jx hood | active |
 | [sase-jx.land](../bbugyi200.athena.sase-jx.land/README.md) | sase-jx hood | waiting |
