@@ -1320,7 +1320,7 @@
 | [sase-jz](hoods/sase-jz/README.md) | 4 | 0 | active 1, completed 2, dismissed 1 |
 | [sase-k0](hoods/sase-k0/README.md) | 7 | 0 | completed 6, failed 1 |
 | [sase-k2](hoods/sase-k2/README.md) | 11 | 4 | active 2, completed 8, waiting 1 |
-| [sase-k3](hoods/sase-k3/README.md) | 7 | 0 | active 1, completed 5, waiting 1 |
+| [sase-k3](hoods/sase-k3/README.md) | 7 | 0 | active 1, completed 6 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-0q](hoods/sase_fix_just-0q/README.md) | 1 | 0 | active 1 |
