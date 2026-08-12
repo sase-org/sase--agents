@@ -6,5 +6,5 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [44](../../../../../../agents/bbugyi200.athena.44/README.md) | active | gpt-5.6-sol / codex | 2026-07-10T13:10:41.349770+00:00 | 3 | [prompt](../../../../../../agents/bbugyi200.athena.44/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.44/chat.md) |
-| [44.f-0](../../../../../../agents/bbugyi200.athena.44.f-0/README.md) | active | gpt-5.6-sol / codex | 2026-07-10T13:16:55.996355+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.44.f-0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.44.f-0/chat.md) |
+| [44](../../../../../../agents/bbugyi200.athena.44/README.md) | active | gpt-5.6-sol / codex | 2026-07-10T13:10:41.349770+00:00 | 3 | [chat](../../../../../../agents/bbugyi200.athena.44/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.44/prompt.md) |
+| [44.f-0](../../../../../../agents/bbugyi200.athena.44.f-0/README.md) | active | gpt-5.6-sol / codex | 2026-07-10T13:16:55.996355+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.44.f-0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.44.f-0/prompt.md) |

@@ -32,4 +32,4 @@
 | [sase-jx.1](../bbugyi200.athena.sase-jx.1/README.md) | sase-jx hood | completed |
 | [sase-jx.2](../bbugyi200.athena.sase-jx.2/README.md) | sase-jx hood | completed |
 | [sase-jx.3](../bbugyi200.athena.sase-jx.3/README.md) | sase-jx hood | completed |
-| [sase-jx.land](../bbugyi200.athena.sase-jx.land/README.md) | sase-jx hood | active |
+| [sase-jx.land](../bbugyi200.athena.sase-jx.land/README.md) | sase-jx hood | failed |
