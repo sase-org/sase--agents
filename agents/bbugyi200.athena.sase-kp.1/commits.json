@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-85349858cd7b13f02d92bd7cbd5ed7fb"}
+{"commits":[{"committed_at":1786572205,"sha":"3c37f8e3651bae1f0b53b759efdafffa86a5e2fd","subject":"feat(agent-scan): mirror monitor marker fields on the Python wire"}],"schema_version":2,"source_run_id":"run-85349858cd7b13f02d92bd7cbd5ed7fb"}

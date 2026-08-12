@@ -13,7 +13,7 @@
 | [sase-kp.5](../../../../../../agents/bbugyi200.athena.sase-kp.5/README.md) | waiting | sonnet / claude | 20260812173416 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-kp.5/prompt.md) |
 | [sase-kp.8](../../../../../../agents/bbugyi200.athena.sase-kp.8/README.md) | waiting | sonnet / claude | 20260812173419 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-kp.8/prompt.md) |
 | [sase-kp.land](../../../../../../agents/bbugyi200.athena.sase-kp.land/README.md) | waiting | opus / claude | 20260812173424 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-kp.land/prompt.md) |
-| [sase-kp.1](../../../../../../agents/bbugyi200.athena.sase-kp.1/README.md) | active | gpt-5.5 / codex | 2026-08-12T21:34:29.764667+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-kp.1/prompt.md) |
+| [sase-kp.1](../../../../../../agents/bbugyi200.athena.sase-kp.1/README.md) | active | gpt-5.5 / codex | 2026-08-12T21:34:29.764667+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-kp.1/prompt.md) |
 | [sase-kp.3](../../../../../../agents/bbugyi200.athena.sase-kp.3/README.md) | waiting | sonnet / claude | 20260812173414 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-kp.3/prompt.md) |
 | [sase-kp.9](../../../../../../agents/bbugyi200.athena.sase-kp.9/README.md) | waiting | gpt-5.5 / codex | 20260812173420 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-kp.9/prompt.md) |
 | [sase-kp.4](../../../../../../agents/bbugyi200.athena.sase-kp.4/README.md) | waiting | gpt-5.5 / codex | 20260812173415 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-kp.4/prompt.md) |
