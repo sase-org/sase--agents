@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase There are 27 current task bead gate notifications showing but only 10 task beads open. Is the `bead_task_triage` chop working properly? If not, can you fix it? Also let's start making the task bead gate notification dismiss faster by having the `sase bead close` command send some kind of event that the TUI can pick up automatically. Make sure this doesn't hurt the performance of the `sase bead close` command or the TUI.
+
+#plan #m_opus
