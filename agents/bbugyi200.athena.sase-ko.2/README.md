@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ko](../../users/bbugyi200/machines/athena/hoods/sase-ko/README.md) / sase-ko.2
 
-**Global name:** `bbugyi200.athena.sase-ko.2` · **State:** active · **Source run:** `run-d3b991682c873659a1f94810579c3ef4`
+**Global name:** `bbugyi200.athena.sase-ko.2` · **State:** completed · **Source run:** `run-d3b991682c873659a1f94810579c3ef4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ko
 
@@ -17,7 +17,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -25,5 +25,5 @@
 |---|---|---|
 | [sase-ko.1](../bbugyi200.athena.sase-ko.1/README.md) | sase-ko hood | completed |
 | [sase-ko.3](../bbugyi200.athena.sase-ko.3/README.md) | sase-ko hood | completed |
-| [sase-ko.4](../bbugyi200.athena.sase-ko.4/README.md) | sase-ko hood | waiting |
+| [sase-ko.4](../bbugyi200.athena.sase-ko.4/README.md) | sase-ko hood | active |
 | [sase-ko.land](../bbugyi200.athena.sase-ko.land/README.md) | sase-ko hood | waiting |
