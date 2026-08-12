@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7c8f014964bcd0289ee4d9c56245ab77"}
+{"commits":[{"committed_at":1786545322,"sha":"b12966834a29ad03fc06b587cb31c6381bcb8111","subject":"fix(workspace-provider): stop #git: refs from clobbering non-bare-git projects"}],"schema_version":2,"source_run_id":"run-7c8f014964bcd0289ee4d9c56245ab77"}
