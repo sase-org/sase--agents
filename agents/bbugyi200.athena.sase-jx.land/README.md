@@ -9,6 +9,7 @@
 ## Summary
 
 - Bead: [sase-jx](https://github.com/sase-org/sase--beads/blob/main/pages/sase-jx/README.md)
+- Epic: [sase-jx.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-jx/sase-jx.5.md)
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-08-12T15:56:35.611213+00:00
@@ -26,3 +27,8 @@
 | [sase-jx.2](../bbugyi200.athena.sase-jx.2/README.md) | sase-jx hood | completed |
 | [sase-jx.3](../bbugyi200.athena.sase-jx.3/README.md) | sase-jx hood | completed |
 | [sase-jx.4](../bbugyi200.athena.sase-jx.4/README.md) | sase-jx hood | completed |
+| [sase-jx.5.1](../bbugyi200.athena.sase-jx.5.1/README.md) | sase-jx hood | completed |
+| [sase-jx.5.2](../bbugyi200.athena.sase-jx.5.2/README.md) | sase-jx hood | active |
+| [sase-jx.5.3](../bbugyi200.athena.sase-jx.5.3/README.md) | sase-jx hood | waiting |
+| [sase-jx.5.4](../bbugyi200.athena.sase-jx.5.4/README.md) | sase-jx hood | waiting |
+| [sase-jx.5.land](../bbugyi200.athena.sase-jx.5.land/README.md) | sase-jx hood | waiting |

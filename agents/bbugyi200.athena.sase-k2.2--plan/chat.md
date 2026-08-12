@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-k2.2--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_k2_2__plan-260812_113458.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_k2_2__code-260812_113458.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/external_mirror_filters.md
 
 
