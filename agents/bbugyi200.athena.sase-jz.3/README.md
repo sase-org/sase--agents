@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-jz](../../users/bbugyi200/machines/athena/hoods/sase-jz/README.md) / sase-jz.3
 
-**Global name:** `bbugyi200.athena.sase-jz.3` · **State:** waiting · **Source run:** `run-a86d78bed66cde3bb585261a5a9751fa`
+**Global name:** `bbugyi200.athena.sase-jz.3` · **State:** active · **Source run:** `run-a86d78bed66cde3bb585261a5a9751fa`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-jz
 
@@ -12,7 +12,7 @@
 - Epic: [sase-jz](https://github.com/sase-org/sase--beads/blob/main/pages/sase-jz/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 20260812104000
+- Timing: 2026-08-12T15:20:22.457839+00:00
 - Commits: 0
 
 ## Files
@@ -24,5 +24,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-jz.1](../bbugyi200.athena.sase-jz.1/README.md) | sase-jz hood | completed |
-| [sase-jz.2](../bbugyi200.athena.sase-jz.2/README.md) | sase-jz hood | active |
+| [sase-jz.2](../bbugyi200.athena.sase-jz.2/README.md) | sase-jz hood | dismissed |
 | [sase-jz.land](../bbugyi200.athena.sase-jz.land/README.md) | sase-jz hood | waiting |
