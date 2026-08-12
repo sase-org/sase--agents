@@ -1566,6 +1566,6 @@
 | [ym](hoods/ym/README.md) | 2 | 1 | completed 2 |
 | [yn](hoods/yn/README.md) | 1 | 0 | failed 1 |
 | [yo](hoods/yo/README.md) | 1 | 0 | failed 1 |
-| [yq](hoods/yq/README.md) | 2 | 1 | active 2 |
+| [yq](hoods/yq/README.md) | 2 | 1 | completed 2 |
 | [yr](hoods/yr/README.md) | 2 | 1 | active 2 |
 | [z](hoods/z/README.md) | 1 | 0 | completed 1 |

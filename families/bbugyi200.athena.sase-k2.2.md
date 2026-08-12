@@ -20,6 +20,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | sase-k2.2--plan | completed | opus / claude | 2026-08-12T15:35:25.758896+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-k2.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-k2.2--plan/chat.md) |
 | <a id="member-code"></a>code | sase-k2.2--code | completed | sonnet / claude | 2026-08-12T15:51:03.828033+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-k2.2--code/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`6b139a0`](https://github.com/sase-org/sase/commit/6b139a0d46843de54af4ebec5d28b25925215298) | feat(external-mirror): add configurable glob filters for issues and PRs | 2026-08-12 12:41:30 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-af053fc8c73cd489e1ce94036c10c00f"}
+{"commits":[{"committed_at":1786555272,"sha":"6b8c646c66892e133c86b08a3fa76920f0ec712f","subject":"feat(commit)!: stage every change by default, replace -f/--file with -x/--exclude"}],"schema_version":2,"source_run_id":"run-af053fc8c73cd489e1ce94036c10c00f"}
