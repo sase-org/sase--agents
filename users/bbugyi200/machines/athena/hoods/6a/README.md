@@ -6,8 +6,8 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [6a.f-1](../../../../../../agents/bbugyi200.athena.6a.f-1/README.md) | active | claude-fable-5 / claude | 2026-07-11T22:16:28.897883+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.6a.f-1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.6a.f-1/prompt.md) |
-| [6a](../../../../../../agents/bbugyi200.athena.6a/README.md) | active | claude-fable-5 / claude | 2026-07-11T21:41:55.735755+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.6a/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.6a/prompt.md) |
+| [6a.f-1](../../../../../../agents/bbugyi200.athena.6a.f-1/README.md) | active | claude-fable-5 / claude | 2026-07-11T22:16:28.897883+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.6a.f-1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.6a.f-1/chat.md) |
+| [6a](../../../../../../agents/bbugyi200.athena.6a/README.md) | active | claude-fable-5 / claude | 2026-07-11T21:41:55.735755+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.6a/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.6a/chat.md) |
 | [6a.f-0](../../../../../../agents/bbugyi200.athena.6a.f-0/README.md) | waiting | claude-fable-5 / claude | 20260711180835 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.6a.f-0/prompt.md) |
 | [6a--code](../../../../../../families/bbugyi200.athena.6a.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-11T21:49:43.628425+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.6a--code/chat.md) |
 | [6a.f-1--epic](../../../../../../families/bbugyi200.athena.6a.f-1.md#member-epic) | completed | gpt-5.6-sol / codex | 2026-07-11T23:07:14.313575+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.6a.f-1--epic/chat.md) |
