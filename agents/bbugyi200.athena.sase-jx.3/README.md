@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-12T14:12:57.570810+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`2f1512c`](https://github.com/sase-org/sase/commit/2f1512c7cf527cf475ff0a618c0d96598d008238) | feat(axe): classify chop overruns in snapshots | 2026-08-12 10:38:08 EDT |
 
 ## Neighbors
 
