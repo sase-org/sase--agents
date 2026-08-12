@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-55ffbdc966503f327c7180289dcd8423"}
+{"commits":[{"committed_at":1786578257,"sha":"2aff0a03e6b7d4c6e0a5579993867da30cc327aa","subject":"feat: adopt monitor handoffs in agent runner"}],"schema_version":2,"source_run_id":"run-55ffbdc966503f327c7180289dcd8423"}
