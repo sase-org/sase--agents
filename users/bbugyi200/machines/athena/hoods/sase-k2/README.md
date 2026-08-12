@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-k2
 
-**Global hood:** `bbugyi200.athena.sase-k2` · **Runs:** 8 · **Families:** 2 · **States:** active 4, waiting 4
+**Global hood:** `bbugyi200.athena.sase-k2` · **Runs:** 9 · **Families:** 2 · **States:** active 5, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -14,3 +14,4 @@
 | [sase-k2.2--plan](../../../../../../families/bbugyi200.athena.sase-k2.2.md#member-plan) | active | opus / claude | 2026-08-12T15:35:25.758896+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-k2.2--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-k2.2--plan/prompt.md) |
 | [sase-k2.4](../../../../../../agents/bbugyi200.athena.sase-k2.4/README.md) | waiting | gpt-5.6-sol / codex | 20260812113500 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-k2.4/prompt.md) |
 | [sase-k2.1--code](../../../../../../families/bbugyi200.athena.sase-k2.1.md#member-code) | active | gpt-5.5 / codex | 2026-08-12T15:47:00.976024+00:00 | 0 | — |
+| [sase-k2.2--code](../../../../../../families/bbugyi200.athena.sase-k2.2.md#member-code) | active | sonnet / claude | 2026-08-12T15:51:03.828033+00:00 | 0 | — |

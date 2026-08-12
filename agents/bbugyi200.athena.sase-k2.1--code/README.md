@@ -19,7 +19,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-k2.2](../../families/bbugyi200.athena.sase-k2.2.md) (family · 1) | sase-k2 hood | active 1 |
+| [sase-k2.2](../../families/bbugyi200.athena.sase-k2.2.md) (family · 2) | sase-k2 hood | active 2 |
 | [sase-k2.3](../bbugyi200.athena.sase-k2.3/README.md) | sase-k2 hood | active |
 | [sase-k2.4](../bbugyi200.athena.sase-k2.4/README.md) | sase-k2 hood | waiting |
 | [sase-k2.5](../bbugyi200.athena.sase-k2.5/README.md) | sase-k2 hood | waiting |
