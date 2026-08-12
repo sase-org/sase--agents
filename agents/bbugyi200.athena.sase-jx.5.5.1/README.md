@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-jx](../../users/bbugyi200/machines/athena/hoods/sase-jx/README.md) / sase-jx.5.5.1
 
-**Global name:** `bbugyi200.athena.sase-jx.5.5.1` · **State:** active · **Source run:** `run-69492d48ac0ef695db1ee01786a12398`
+**Global name:** `bbugyi200.athena.sase-jx.5.5.1` · **State:** completed · **Source run:** `run-69492d48ac0ef695db1ee01786a12398`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-jx
 
@@ -13,17 +13,23 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-12T18:04:47.763288+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c184102`](https://github.com/sase-org/sase/commit/c18410204785d62e7017ebba119f9c59f1ef301b) | docs(ace): fix update\_chop\_display docstring for selected-run overrun | 2026-08-12 14:19:04 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-jx.5.5.2](../bbugyi200.athena.sase-jx.5.5.2/README.md) | sase-jx.5.5 hood | waiting |
+| [sase-jx.5.5.2](../bbugyi200.athena.sase-jx.5.5.2/README.md) | sase-jx.5.5 hood | active |
 | [sase-jx.5.5.land](../bbugyi200.athena.sase-jx.5.5.land/README.md) | sase-jx.5.5 hood | waiting |
 | [sase-jx.5.1](../bbugyi200.athena.sase-jx.5.1/README.md) | sase-jx.5 hood | completed |
 | [sase-jx.5.2](../bbugyi200.athena.sase-jx.5.2/README.md) | sase-jx.5 hood | completed |

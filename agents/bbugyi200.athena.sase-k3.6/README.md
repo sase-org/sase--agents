@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-k3](../../users/bbugyi200/machines/athena/hoods/sase-k3/README.md) / sase-k3.6
 
-**Global name:** `bbugyi200.athena.sase-k3.6` · **State:** waiting · **Source run:** `run-f04b3f38a49f6a0703ccc6a7af61684c`
+**Global name:** `bbugyi200.athena.sase-k3.6` · **State:** active · **Source run:** `run-05c354003c7978e94137eaff2694cb6c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-k3
 
 ## Summary
 
 - Bead: [sase-k3.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-k3/sase-k3.6.md)
-- Epic: [sase-k3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-k3/README.md)
-- Model: gpt-5.5
+- Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260812114407
+- Timing: 2026-08-12T18:27:10.884037+00:00
 - Commits: 0
 
 ## Files
