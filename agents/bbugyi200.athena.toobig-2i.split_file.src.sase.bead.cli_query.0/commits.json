@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c7dca01020881fc04e0e79eb201ffe6f"}
+{"commits":[{"committed_at":1786568137,"sha":"37a3545cd3ae448a23e5bd4c3ec456fc43f1d580","subject":"refactor(bead): split query rendering helpers"}],"schema_version":2,"source_run_id":"run-c7dca01020881fc04e0e79eb201ffe6f"}
