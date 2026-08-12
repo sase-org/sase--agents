@@ -31,8 +31,11 @@
 |---|---|---|
 | [sase-jx.5.1](../bbugyi200.athena.sase-jx.5.1/README.md) | sase-jx.5 hood | completed |
 | [sase-jx.5.2](../bbugyi200.athena.sase-jx.5.2/README.md) | sase-jx.5 hood | completed |
-| [sase-jx.5.4](../bbugyi200.athena.sase-jx.5.4/README.md) | sase-jx.5 hood | active |
-| [sase-jx.5.land](../bbugyi200.athena.sase-jx.5.land/README.md) | sase-jx.5 hood | waiting |
+| [sase-jx.5.4](../bbugyi200.athena.sase-jx.5.4/README.md) | sase-jx.5 hood | completed |
+| [sase-jx.5.5.1](../bbugyi200.athena.sase-jx.5.5.1/README.md) | sase-jx.5 hood | active |
+| [sase-jx.5.5.2](../bbugyi200.athena.sase-jx.5.5.2/README.md) | sase-jx.5 hood | waiting |
+| [sase-jx.5.5.land](../bbugyi200.athena.sase-jx.5.5.land/README.md) | sase-jx.5 hood | waiting |
+| [sase-jx.5.land](../bbugyi200.athena.sase-jx.5.land/README.md) | sase-jx.5 hood | failed |
 | [sase-jx.1](../bbugyi200.athena.sase-jx.1/README.md) | sase-jx hood | completed |
 | [sase-jx.2](../bbugyi200.athena.sase-jx.2/README.md) | sase-jx hood | completed |
 | [sase-jx.3](../bbugyi200.athena.sase-jx.3/README.md) | sase-jx hood | completed |

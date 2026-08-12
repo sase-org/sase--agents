@@ -33,6 +33,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-k2.2](bbugyi200.athena.sase-k2.2.md) (family · 2) | sase-k2 hood | completed 2 |
 | [sase-k2.3](../agents/bbugyi200.athena.sase-k2.3/README.md) | sase-k2 hood | completed |
 | [sase-k2.4](bbugyi200.athena.sase-k2.4.md) (family · 2) | sase-k2 hood | active 2 |
-| [sase-k2.5](bbugyi200.athena.sase-k2.5.md) (family · 1) | sase-k2 hood | active 1 |
-| [sase-k2.6](../agents/bbugyi200.athena.sase-k2.6/README.md) | sase-k2 hood | waiting |
+| [sase-k2.5](bbugyi200.athena.sase-k2.5.md) (family · 1) | sase-k2 hood | completed 1 |
+| [sase-k2.6](../agents/bbugyi200.athena.sase-k2.6/README.md) | sase-k2 hood | active |
 | [sase-k2.land](../agents/bbugyi200.athena.sase-k2.land/README.md) | sase-k2 hood | waiting |
