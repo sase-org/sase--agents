@@ -75,7 +75,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [chop.refresh\_docs.sase.5\_637797.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.5_637797.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.5\_991351.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.5_991351.1/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.5\_991351.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.5_991351.2/README.md) | chop.refresh\_docs.sase hood | active |
-| [chop.refresh\_docs.sase.6\_378018.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.6_378018.1/README.md) | chop.refresh\_docs.sase hood | waiting |
+| [chop.refresh\_docs.sase.6\_378018.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.6_378018.1/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.6\_378018.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.6_378018.2/README.md) | chop.refresh\_docs.sase hood | waiting |
 | [chop.refresh\_docs.sase.7\_951139.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.7_951139.1/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.7\_951139.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.7_951139.2/README.md) | chop.refresh\_docs.sase hood | active |

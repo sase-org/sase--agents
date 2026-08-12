@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [chop](../../users/bbugyi200/machines/athena/hoods/chop/README.md) / chop.refresh\_docs.sase.6\_378018.1
 
-**Global name:** `bbugyi200.athena.chop.refresh_docs.sase.6_378018.1` · **State:** waiting · **Source run:** `run-49f193ff5d5f0508fffd3e4685e1820e`
+**Global name:** `bbugyi200.athena.chop.refresh_docs.sase.6_378018.1` · **State:** active · **Source run:** `run-49f193ff5d5f0508fffd3e4685e1820e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** chop
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260812122454
-- Commits: 0
+- Timing: 2026-08-12T19:44:20.042506+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`4381a90`](https://github.com/sase-org/sase/commit/4381a90bbc7b3080b256bce9728bc8baf8175447) | docs: refresh guides for current workflows | 2026-08-12 16:13:16 EDT |
 
 ## Neighbors
 

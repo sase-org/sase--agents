@@ -66,7 +66,7 @@
 | [chop.refresh\_docs.sase.5\_637797.2](../bbugyi200.athena.chop.refresh_docs.sase.5_637797.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.5\_991351.1](../bbugyi200.athena.chop.refresh_docs.sase.5_991351.1/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.5\_991351.2](../bbugyi200.athena.chop.refresh_docs.sase.5_991351.2/README.md) | chop.refresh\_docs.sase hood | active |
-| [chop.refresh\_docs.sase.6\_378018.1](../bbugyi200.athena.chop.refresh_docs.sase.6_378018.1/README.md) | chop.refresh\_docs.sase hood | waiting |
+| [chop.refresh\_docs.sase.6\_378018.1](../bbugyi200.athena.chop.refresh_docs.sase.6_378018.1/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.6\_378018.2](../bbugyi200.athena.chop.refresh_docs.sase.6_378018.2/README.md) | chop.refresh\_docs.sase hood | waiting |
 | [chop.refresh\_docs.sase.8\_257999.1](../bbugyi200.athena.chop.refresh_docs.sase.8_257999.1/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.8\_257999.2](../bbugyi200.athena.chop.refresh_docs.sase.8_257999.2/README.md) | chop.refresh\_docs.sase hood | waiting |
