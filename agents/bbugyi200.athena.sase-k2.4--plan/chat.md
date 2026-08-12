@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-k2.4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_k2_4__plan-260812_113500.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_k2_4__code-260812_113500.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/mirrored_bead_status_sync.md
 
 

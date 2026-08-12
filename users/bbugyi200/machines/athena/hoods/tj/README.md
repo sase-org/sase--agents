@@ -7,4 +7,4 @@
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [tj--code](../../../../../../families/bbugyi200.athena.tj.md#member-code) | completed | sonnet / claude | 2026-08-05T21:56:21.794780+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.tj--code/chat.md) |
-| [tj--plan](../../../../../../families/bbugyi200.athena.tj.md#member-plan) | active | opus / claude | 2026-08-05T21:47:34.267590+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.tj--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.tj--plan/prompt.md) |
+| [tj--plan](../../../../../../families/bbugyi200.athena.tj.md#member-plan) | active | opus / claude | 2026-08-05T21:47:34.267590+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.tj--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.tj--plan/chat.md) |

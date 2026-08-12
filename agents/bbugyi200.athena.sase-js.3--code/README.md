@@ -29,13 +29,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-js.1](../../families/bbugyi200.athena.sase-js.1.md) (family · 2) | sase-js hood | completed 2 |
-| [sase-js.2](../bbugyi200.athena.sase-js.2/README.md) | sase-js hood | completed |
-| [sase-js.4](../../families/bbugyi200.athena.sase-js.4.md) (family · 2) | sase-js hood | completed 2 |
-| [sase-js.5](../../families/bbugyi200.athena.sase-js.5.md) (family · 2) | sase-js hood | completed 2 |
-| [sase-js.6](../../families/bbugyi200.athena.sase-js.6.md) (family · 2) | sase-js hood | completed 2 |
-| [sase-js.7](../../families/bbugyi200.athena.sase-js.7.md) (family · 2) | sase-js hood | completed 2 |
+| [sase-js.1](../../families/bbugyi200.athena.sase-js.1.md) (family · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.2](../bbugyi200.athena.sase-js.2/README.md) | sase-js hood | dismissed |
+| [sase-js.4](../../families/bbugyi200.athena.sase-js.4.md) (family · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.5](../../families/bbugyi200.athena.sase-js.5.md) (family · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.6](../../families/bbugyi200.athena.sase-js.6.md) (family · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.7](../../families/bbugyi200.athena.sase-js.7.md) (family · 2) | sase-js hood | completed 1, dismissed 1 |
 | [sase-js.7](../bbugyi200.athena.sase-js.7/README.md) | sase-js hood | waiting |
-| [sase-js.8](../../families/bbugyi200.athena.sase-js.8.md) (family · 2) | sase-js hood | completed 2 |
-| [sase-js.9](../bbugyi200.athena.sase-js.9/README.md) | sase-js hood | completed |
-| [sase-js.land](../../families/bbugyi200.athena.sase-js.land.md) (family · 2) | sase-js hood | active 2 |
+| [sase-js.8](../../families/bbugyi200.athena.sase-js.8.md) (family · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.9](../bbugyi200.athena.sase-js.9/README.md) | sase-js hood | dismissed |
+| [sase-js.land](../../families/bbugyi200.athena.sase-js.land.md) (family · 2) | sase-js hood | active 1, dismissed 1 |

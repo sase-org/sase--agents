@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-js` · Members: 2 · Bead: [sase-js](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-js.land--plan [active]"]
+  n0["sase-js.land--plan [dismissed]"]
   n1["sase-js.land--code [active]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-js.land--plan | active | opus / claude | 2026-08-12T14:17:24.027051+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-js.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-js.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-js.land--plan | dismissed | opus / claude | 2026-08-12T10:17:24.027051 → 2026-08-12T12:39:45.788860 | 0 | — | — |
 | <a id="member-code"></a>code | sase-js.land--code | active | sonnet / claude | 2026-08-12T14:34:26.239528+00:00 | [2](../agents/bbugyi200.athena.sase-js.land--code/README.md#commits) | — | — |
 
 ## Commits
@@ -31,13 +31,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-js.1](bbugyi200.athena.sase-js.1.md) (family · 2) | sase-js hood | completed 2 |
-| [sase-js.2](../agents/bbugyi200.athena.sase-js.2/README.md) | sase-js hood | completed |
-| [sase-js.3](bbugyi200.athena.sase-js.3.md) (family · 2) | sase-js hood | completed 2 |
-| [sase-js.4](bbugyi200.athena.sase-js.4.md) (family · 2) | sase-js hood | completed 2 |
-| [sase-js.5](bbugyi200.athena.sase-js.5.md) (family · 2) | sase-js hood | completed 2 |
-| [sase-js.6](bbugyi200.athena.sase-js.6.md) (family · 2) | sase-js hood | completed 2 |
-| [sase-js.7](bbugyi200.athena.sase-js.7.md) (family · 2) | sase-js hood | completed 2 |
+| [sase-js.1](bbugyi200.athena.sase-js.1.md) (family · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.2](../agents/bbugyi200.athena.sase-js.2/README.md) | sase-js hood | dismissed |
+| [sase-js.3](bbugyi200.athena.sase-js.3.md) (family · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.4](bbugyi200.athena.sase-js.4.md) (family · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.5](bbugyi200.athena.sase-js.5.md) (family · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.6](bbugyi200.athena.sase-js.6.md) (family · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.7](bbugyi200.athena.sase-js.7.md) (family · 2) | sase-js hood | completed 1, dismissed 1 |
 | [sase-js.7](../agents/bbugyi200.athena.sase-js.7/README.md) | sase-js hood | waiting |
-| [sase-js.8](bbugyi200.athena.sase-js.8.md) (family · 2) | sase-js hood | completed 2 |
-| [sase-js.9](../agents/bbugyi200.athena.sase-js.9/README.md) | sase-js hood | completed |
+| [sase-js.8](bbugyi200.athena.sase-js.8.md) (family · 2) | sase-js hood | completed 1, dismissed 1 |
+| [sase-js.9](../agents/bbugyi200.athena.sase-js.9/README.md) | sase-js hood | dismissed |

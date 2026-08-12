@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** ys--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-ys__plan-260812_132357.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-ys__code-260812_132357.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/glossary_long_memory.md
 
 

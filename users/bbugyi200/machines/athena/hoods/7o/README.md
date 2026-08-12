@@ -6,5 +6,5 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [7o](../../../../../../agents/bbugyi200.athena.7o/README.md) | active | gpt-5.6-sol / codex | 2026-07-13T11:37:00.056565+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.7o/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.7o/prompt.md) |
+| [7o](../../../../../../agents/bbugyi200.athena.7o/README.md) | active | gpt-5.6-sol / codex | 2026-07-13T11:37:00.056565+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.7o/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.7o/chat.md) |
 | [7o--code](../../../../../../families/bbugyi200.athena.7o.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-13T11:44:40.717457+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.7o--code/chat.md) |
