@@ -2,15 +2,15 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-jx
 
-**Global hood:** `bbugyi200.athena.sase-jx` · **Runs:** 13 · **Families:** 0 · **States:** active 1, completed 9, failed 2, waiting 1
+**Global hood:** `bbugyi200.athena.sase-jx` · **Runs:** 13 · **Families:** 0 · **States:** active 1, completed 10, failed 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [sase-jx.5.land](../../../../../../agents/bbugyi200.athena.sase-jx.5.land/README.md) | failed | opus / claude | 2026-08-12T17:51:27.173568+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-jx.5.land/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-jx.5.land/prompt.md) |
-| [sase-jx.5.5.land](../../../../../../agents/bbugyi200.athena.sase-jx.5.5.land/README.md) | waiting | opus / claude | 20260812140422 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-jx.5.5.land/prompt.md) |
+| [sase-jx.5.5.land](../../../../../../agents/bbugyi200.athena.sase-jx.5.5.land/README.md) | active | opus / claude | 2026-08-12T19:01:30.373625+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-jx.5.5.land/prompt.md) |
 | [sase-jx.3](../../../../../../agents/bbugyi200.athena.sase-jx.3/README.md) | completed | sonnet / claude | 2026-08-12T14:12:57.570810+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-jx.3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-jx.3/prompt.md) |
 | [sase-jx.4](../../../../../../agents/bbugyi200.athena.sase-jx.4/README.md) | completed | gpt-5.5 / codex | 2026-08-12T14:40:27.926930+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-jx.4/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-jx.4/prompt.md) |
-| [sase-jx.5.5.2](../../../../../../agents/bbugyi200.athena.sase-jx.5.5.2/README.md) | active | sonnet / claude | 2026-08-12T18:20:17.256556+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-jx.5.5.2/prompt.md) |
+| [sase-jx.5.5.2](../../../../../../agents/bbugyi200.athena.sase-jx.5.5.2/README.md) | completed | sonnet / claude | 2026-08-12T18:20:17.256556+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-jx.5.5.2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-jx.5.5.2/prompt.md) |
 | [sase-jx.5.5.1](../../../../../../agents/bbugyi200.athena.sase-jx.5.5.1/README.md) | completed | gpt-5.5 / codex | 2026-08-12T18:04:47.763288+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-jx.5.5.1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-jx.5.5.1/prompt.md) |
 | [sase-jx.5.2](../../../../../../agents/bbugyi200.athena.sase-jx.5.2/README.md) | completed | sonnet / claude | 2026-08-12T16:32:10.450290+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-jx.5.2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-jx.5.2/prompt.md) |
 | [sase-jx.1](../../../../../../agents/bbugyi200.athena.sase-jx.1/README.md) | completed | gpt-5.5 / codex | 2026-08-12T14:00:24.144813+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-jx.1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-jx.1/prompt.md) |
