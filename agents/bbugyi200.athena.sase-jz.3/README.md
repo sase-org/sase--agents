@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-jz](../../users/bbugyi200/machines/athena/hoods/sase-jz/README.md) / sase-jz.3
 
-**Global name:** `bbugyi200.athena.sase-jz.3` · **State:** active · **Source run:** `run-a86d78bed66cde3bb585261a5a9751fa`
+**Global name:** `bbugyi200.athena.sase-jz.3` · **State:** completed · **Source run:** `run-a86d78bed66cde3bb585261a5a9751fa`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-jz
 
@@ -17,7 +17,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -25,4 +25,4 @@
 |---|---|---|
 | [sase-jz.1](../bbugyi200.athena.sase-jz.1/README.md) | sase-jz hood | completed |
 | [sase-jz.2](../bbugyi200.athena.sase-jz.2/README.md) | sase-jz hood | dismissed |
-| [sase-jz.land](../bbugyi200.athena.sase-jz.land/README.md) | sase-jz hood | waiting |
+| [sase-jz.land](../bbugyi200.athena.sase-jz.land/README.md) | sase-jz hood | active |

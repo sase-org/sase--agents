@@ -12,7 +12,13 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-12T14:34:26.239528+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ad11756`](https://github.com/sase-org/sase/commit/ad11756e6ed919d83f30c69fdb82d3c37c59b955) | fix(ace): break artifact-provider import cycle, delete retired Chats pane, drop @chat completion | 2026-08-12 11:36:27 EDT |
 
 ## Neighbors
 

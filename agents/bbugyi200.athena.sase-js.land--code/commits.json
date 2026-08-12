@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-68435a62f71b39ebe2874e18ab40c8bb"}
+{"commits":[{"committed_at":1786548987,"sha":"ad11756e6ed919d83f30c69fdb82d3c37c59b955","subject":"fix(ace): break artifact-provider import cycle, delete retired Chats pane, drop @chat completion"}],"schema_version":2,"source_run_id":"run-68435a62f71b39ebe2874e18ab40c8bb"}
