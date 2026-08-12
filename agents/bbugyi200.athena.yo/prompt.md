@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me reduce the `sase ace` TUI's startup time? See the ace_startup_critical_path.md file in the research sidecar repo for context and inspiration. #plan #m_opus
