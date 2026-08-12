@@ -1,0 +1,8 @@
+#gh:gh_sase-org__sase
+%id(6, clan=sase-js, bead=sase-js.6)
+%model:@large_worker
+%auto
+%w(bead=sase-js.4)
+%w(bead=sase-js.5)
+#bd/work_phase_bead:sase-js.6
+#plan

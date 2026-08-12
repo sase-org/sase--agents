@@ -1,0 +1,21 @@
+# Family: yh
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [yh](../users/bbugyi200/machines/athena/hoods/yh/README.md) / yh
+
+Owner: `bbugyi200.athena` · Hood: `yh` · Members: 2
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["yh--plan [active]"]
+  n1["yh--code [active]"]
+  n0 --> n1
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-plan"></a>plan | yh--plan | active | opus / claude | 2026-08-12T13:39:34.398863+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.yh--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.yh--plan/chat.md) |
+| <a id="member-code"></a>code | yh--code | active | sonnet / claude | 2026-08-12T13:48:51.772023+00:00 | 0 | — | — |

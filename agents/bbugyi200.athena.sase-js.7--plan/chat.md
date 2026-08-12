@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-js.7--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_js_7__plan-260812_073954.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_js_7__code-260812_073954.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/dynamic_artifact_panes.md
 
 

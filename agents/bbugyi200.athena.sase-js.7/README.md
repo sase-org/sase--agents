@@ -28,7 +28,7 @@
 | [sase-js.3](../../families/bbugyi200.athena.sase-js.3.md) (family · 2) | sase-js hood | completed 2 |
 | [sase-js.4](../../families/bbugyi200.athena.sase-js.4.md) (family · 2) | sase-js hood | completed 2 |
 | [sase-js.5](../../families/bbugyi200.athena.sase-js.5.md) (family · 2) | sase-js hood | completed 2 |
-| [sase-js.6](../bbugyi200.athena.sase-js.6/README.md) | sase-js hood | active |
+| [sase-js.6](../../families/bbugyi200.athena.sase-js.6.md) (family · 2) | sase-js hood | completed 2 |
 | [sase-js.8](../../families/bbugyi200.athena.sase-js.8.md) (family · 2) | sase-js hood | completed 2 |
-| [sase-js.9](../bbugyi200.athena.sase-js.9/README.md) | sase-js hood | waiting |
+| [sase-js.9](../bbugyi200.athena.sase-js.9/README.md) | sase-js hood | active |
 | [sase-js.land](../bbugyi200.athena.sase-js.land/README.md) | sase-js hood | waiting |

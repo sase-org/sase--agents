@@ -29,8 +29,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-js.3](bbugyi200.athena.sase-js.3.md) (family · 2) | sase-js hood | completed 2 |
 | [sase-js.4](bbugyi200.athena.sase-js.4.md) (family · 2) | sase-js hood | completed 2 |
 | [sase-js.5](bbugyi200.athena.sase-js.5.md) (family · 2) | sase-js hood | completed 2 |
-| [sase-js.6](../agents/bbugyi200.athena.sase-js.6/README.md) | sase-js hood | active |
-| [sase-js.7](bbugyi200.athena.sase-js.7.md) (family · 2) | sase-js hood | active 2 |
+| [sase-js.6](bbugyi200.athena.sase-js.6.md) (family · 2) | sase-js hood | completed 2 |
+| [sase-js.7](bbugyi200.athena.sase-js.7.md) (family · 2) | sase-js hood | completed 2 |
 | [sase-js.7](../agents/bbugyi200.athena.sase-js.7/README.md) | sase-js hood | waiting |
-| [sase-js.9](../agents/bbugyi200.athena.sase-js.9/README.md) | sase-js hood | waiting |
+| [sase-js.9](../agents/bbugyi200.athena.sase-js.9/README.md) | sase-js hood | active |
 | [sase-js.land](../agents/bbugyi200.athena.sase-js.land/README.md) | sase-js hood | waiting |

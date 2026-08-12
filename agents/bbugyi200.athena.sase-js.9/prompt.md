@@ -1,5 +1,5 @@
-#gh:gh_sase-org__sase
 %id(9, clan=sase-js, bead=sase-js.9)
+#gh:gh_sase-org__sase
 %model:@medium_worker
 %auto
 %w:sase-js.6,sase-js.7
