@@ -1,0 +1,3 @@
+%clan(research.0a, tribe=research,
+summary=[[[bold]RESEARCH PROMPT:[/bold] The `sase ace` TUI's startup time has gotten progressively worse lately (it regularly takes >5s to finish starting up). Can you do some research with the goal of helping me reduce this start-up time? End your analysis with a recommended solution.]]) %id:research.0a.cdx
+%wait(priority=20) %model:@research_a #gh:gh_sase-org__sase The `sase ace` TUI's startup time has gotten progressively worse lately (it regularly takes >5s to finish starting up). Can you do some research with the goal of helping me reduce this start-up time? End your analysis with a recommended solution. #research

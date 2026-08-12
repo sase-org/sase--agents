@@ -1,0 +1,9 @@
+# Hood: yi
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / yi
+
+**Global hood:** `bbugyi200.athena.yi` · **Runs:** 1 · **Families:** 0 · **States:** failed 1
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [yi](../../../../../../agents/bbugyi200.athena.yi/README.md) | failed | opus / claude | 2026-08-12T14:20:48.657654+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.yi/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.yi/prompt.md) |
