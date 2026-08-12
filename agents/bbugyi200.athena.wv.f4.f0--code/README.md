@@ -27,7 +27,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [wv.f4](../../families/bbugyi200.athena.wv.f4.md) (family · 2) | ancestor | completed 2 |
+| [wv.f4](../../families/bbugyi200.athena.wv.f4.md) (family · 2) | ancestor | completed 1, dismissed 1 |
 | [wv](../bbugyi200.athena.wv/README.md) | ancestor | dismissed |
 | [wv.f0](../bbugyi200.athena.wv.f0/README.md) | wv hood | dismissed |
 | [wv.f1](../bbugyi200.athena.wv.f1/README.md) | wv hood | waiting |

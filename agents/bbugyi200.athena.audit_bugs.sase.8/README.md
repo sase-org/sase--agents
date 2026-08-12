@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [audit\_bugs](../../users/bbugyi200/machines/athena/hoods/audit_bugs/README.md) / audit\_bugs.sase.8
 
-**Global name:** `bbugyi200.athena.audit_bugs.sase.8` · **State:** active · **Source run:** `run-a4cf13515f9db592eb6c884f8ff2b770`
+**Global name:** `bbugyi200.athena.audit_bugs.sase.8` · **State:** dismissed · **Source run:** `run-5927fe21b567d65858a7fe1d2c13a3f0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** audit\_bugs
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-11T16:41:08.521923+00:00
+- Timing: 2026-08-11T12:41:08.521923 → 2026-08-11T13:01:19.570804
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -50,6 +50,7 @@
 | [audit\_bugs.sase.83b7e6be94fa](../bbugyi200.athena.audit_bugs.sase.83b7e6be94fa/README.md) | audit\_bugs.sase hood | active |
 | [audit\_bugs.sase.8c318e7d20cf](../bbugyi200.athena.audit_bugs.sase.8c318e7d20cf/README.md) | audit\_bugs.sase hood | completed |
 | [audit\_bugs.sase.8cfb17b22b43](../bbugyi200.athena.audit_bugs.sase.8cfb17b22b43/README.md) | audit\_bugs.sase hood | active |
+| [audit\_bugs.sase.a](../bbugyi200.athena.audit_bugs.sase.a/README.md) | audit\_bugs.sase hood | dismissed |
 | [audit\_bugs.sase.a011b4247f2d](../bbugyi200.athena.audit_bugs.sase.a011b4247f2d/README.md) | audit\_bugs.sase hood | completed |
 | [audit\_bugs.sase.a452b461cf42](../bbugyi200.athena.audit_bugs.sase.a452b461cf42/README.md) | audit\_bugs.sase hood | waiting |
 | [audit\_bugs.sase.a8f9e5802c39](../bbugyi200.athena.audit_bugs.sase.a8f9e5802c39/README.md) | audit\_bugs.sase hood | active |

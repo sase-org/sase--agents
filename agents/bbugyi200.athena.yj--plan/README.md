@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [yj](../../users/bbugyi200/machines/athena/hoods/yj/README.md) / [yj](../../families/bbugyi200.athena.yj.md) / yj--plan
 
-**Global name:** `bbugyi200.athena.yj--plan` · **State:** active · **Source run:** `run-bd179b6c226895075146aeb0d3f640f3`
+**Global name:** `bbugyi200.athena.yj--plan` · **State:** completed · **Source run:** `run-bd179b6c226895075146aeb0d3f640f3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** yj
 

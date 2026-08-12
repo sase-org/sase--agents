@@ -18,4 +18,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-j0.w1](../../families/bbugyi200.athena.sase-j0.w1.md) (family · 2) | ancestor | completed 1, dismissed 1 |
-| [sase-j0](../../families/bbugyi200.athena.sase-j0.md) (family · 2) | ancestor | active 2 |
+| [sase-j0](../../families/bbugyi200.athena.sase-j0.md) (family · 2) | ancestor | completed 1, dismissed 1 |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-il](../../users/bbugyi200/machines/athena/hoods/sase-il/README.md) / [sase-il.land.f1](../../families/bbugyi200.athena.sase-il.land.f1.md) / sase-il.land.f1--plan
 
-**Global name:** `bbugyi200.athena.sase-il.land.f1--plan` · **State:** completed · **Source run:** `run-1cda643c00c392e74790f519b9ffd30c`
+**Global name:** `bbugyi200.athena.sase-il.land.f1--plan` · **State:** dismissed · **Source run:** `run-1cda643c00c392e74790f519b9ffd30c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-il
 
@@ -10,12 +10,12 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-10T14:54:39.625777+00:00
+- Timing: 2026-08-10T10:54:39.625777 → 2026-08-10T11:28:19.719577
 - Commits: 0
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Neighbors
 

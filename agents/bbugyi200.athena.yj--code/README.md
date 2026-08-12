@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [yj](../../users/bbugyi200/machines/athena/hoods/yj/README.md) / [yj](../../families/bbugyi200.athena.yj.md) / yj--code
 
-**Global name:** `bbugyi200.athena.yj--code` · **State:** active · **Source run:** `run-fb342b68aa0ebc942ef1218034f2f3f4`
+**Global name:** `bbugyi200.athena.yj--code` · **State:** completed · **Source run:** `run-fb342b68aa0ebc942ef1218034f2f3f4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** yj
 
@@ -12,6 +12,10 @@
 - Provider: codex
 - Timing: 2026-08-12T14:49:00.200106+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
 
 ## Commits
 

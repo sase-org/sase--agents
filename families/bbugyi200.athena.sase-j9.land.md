@@ -30,5 +30,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-j9.1](../agents/bbugyi200.athena.sase-j9.1/README.md) | sase-j9 hood | completed |
-| [sase-j9.2](../agents/bbugyi200.athena.sase-j9.2/README.md) | sase-j9 hood | completed |
+| [sase-j9.1](../agents/bbugyi200.athena.sase-j9.1/README.md) | sase-j9 hood | dismissed |
+| [sase-j9.2](../agents/bbugyi200.athena.sase-j9.2/README.md) | sase-j9 hood | dismissed |

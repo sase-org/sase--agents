@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-j7` · Members: 2 · Bead: [sase-j7.4](
 
 ```mermaid
 flowchart TD
-  n0["sase-j7.4--plan [completed]"]
+  n0["sase-j7.4--plan [dismissed]"]
   n1["sase-j7.4--code [completed]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-j7.4--plan | completed | opus / claude | 2026-08-10T21:27:36.575461+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-j7.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-j7.4--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-j7.4--plan | dismissed | opus / claude | 2026-08-10T17:27:36.575461 → 2026-08-10T20:15:16.174453 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-j7.4--plan/chat.md) |
 | <a id="member-code"></a>code | sase-j7.4--code | completed | gpt-5.5 / codex | 2026-08-10T21:34:09.660328+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-j7.4--code/chat.md) |
 
 ## Commits
@@ -30,8 +30,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-j7.1](../agents/bbugyi200.athena.sase-j7.1/README.md) | sase-j7 hood | completed |
-| [sase-j7.2](../agents/bbugyi200.athena.sase-j7.2/README.md) | sase-j7 hood | completed |
-| [sase-j7.3](../agents/bbugyi200.athena.sase-j7.3/README.md) | sase-j7 hood | completed |
-| [sase-j7.5](../agents/bbugyi200.athena.sase-j7.5/README.md) | sase-j7 hood | active |
-| [sase-j7.land](../agents/bbugyi200.athena.sase-j7.land/README.md) | sase-j7 hood | waiting |
+| [sase-j7.1](../agents/bbugyi200.athena.sase-j7.1/README.md) | sase-j7 hood | dismissed |
+| [sase-j7.2](../agents/bbugyi200.athena.sase-j7.2/README.md) | sase-j7 hood | dismissed |
+| [sase-j7.3](../agents/bbugyi200.athena.sase-j7.3/README.md) | sase-j7 hood | dismissed |
+| [sase-j7.5](../agents/bbugyi200.athena.sase-j7.5/README.md) | sase-j7 hood | dismissed |
+| [sase-j7.land](../agents/bbugyi200.athena.sase-j7.land/README.md) | sase-j7 hood | dismissed |

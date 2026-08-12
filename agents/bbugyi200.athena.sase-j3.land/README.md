@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-j3](../../users/bbugyi200/machines/athena/hoods/sase-j3/README.md) / sase-j3.land
 
-**Global name:** `bbugyi200.athena.sase-j3.land` · **State:** completed · **Source run:** `run-e31e016120d02e98ee5a1dd9bb095240`
+**Global name:** `bbugyi200.athena.sase-j3.land` · **State:** dismissed · **Source run:** `run-e31e016120d02e98ee5a1dd9bb095240`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-j3
 
@@ -11,12 +11,12 @@
 - Bead: [sase-j3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-j3/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-10T22:46:35.569756+00:00
+- Timing: 2026-08-10T18:46:35.569756 → 2026-08-10T19:38:50.916023
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -28,11 +28,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-j3.1](../bbugyi200.athena.sase-j3.1/README.md) | sase-j3 hood | completed |
-| [sase-j3.2](../bbugyi200.athena.sase-j3.2/README.md) | sase-j3 hood | completed |
-| [sase-j3.3](../bbugyi200.athena.sase-j3.3/README.md) | sase-j3 hood | completed |
-| [sase-j3.4](../bbugyi200.athena.sase-j3.4/README.md) | sase-j3 hood | completed |
-| [sase-j3.5](../bbugyi200.athena.sase-j3.5/README.md) | sase-j3 hood | completed |
-| [sase-j3.6](../bbugyi200.athena.sase-j3.6/README.md) | sase-j3 hood | completed |
-| [sase-j3.7](../bbugyi200.athena.sase-j3.7/README.md) | sase-j3 hood | completed |
-| [sase-j3.8](../bbugyi200.athena.sase-j3.8/README.md) | sase-j3 hood | completed |
+| [sase-j3.1](../bbugyi200.athena.sase-j3.1/README.md) | sase-j3 hood | dismissed |
+| [sase-j3.2](../bbugyi200.athena.sase-j3.2/README.md) | sase-j3 hood | dismissed |
+| [sase-j3.3](../bbugyi200.athena.sase-j3.3/README.md) | sase-j3 hood | dismissed |
+| [sase-j3.4](../bbugyi200.athena.sase-j3.4/README.md) | sase-j3 hood | dismissed |
+| [sase-j3.5](../bbugyi200.athena.sase-j3.5/README.md) | sase-j3 hood | dismissed |
+| [sase-j3.6](../bbugyi200.athena.sase-j3.6/README.md) | sase-j3 hood | dismissed |
+| [sase-j3.7](../bbugyi200.athena.sase-j3.7/README.md) | sase-j3 hood | dismissed |
+| [sase-j3.8](../bbugyi200.athena.sase-j3.8/README.md) | sase-j3 hood | dismissed |

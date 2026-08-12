@@ -38,5 +38,5 @@
 | [sase-il.5](../../families/bbugyi200.athena.sase-il.5.md) (family · 2) | sase-il hood | completed 1, dismissed 1 |
 | [sase-il.6](../bbugyi200.athena.sase-il.6/README.md) | sase-il hood | dismissed |
 | [sase-il.land](../bbugyi200.athena.sase-il.land/README.md) | sase-il hood | dismissed |
-| [sase-il.land.f1](../../families/bbugyi200.athena.sase-il.land.f1.md) (family · 2) | sase-il hood | completed 2 |
+| [sase-il.land.f1](../../families/bbugyi200.athena.sase-il.land.f1.md) (family · 2) | sase-il hood | completed 1, dismissed 1 |
 | [sase-il.land.w1](../../families/bbugyi200.athena.sase-il.land.w1.md) (family · 3) | sase-il hood | active 3 |

@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase In the toasts that we show in the TUI when plans are proposed by sase agents (see #sshot for what these look like now), we use the generic `Plan` text to describe the plan. Can you help me start using either `Tale` or `Epic` instead, depending on the tier of the plan that was proposed? Also, let's start adding the phase count, wave count, and counts of each phase size to the toast for epic plans.
+
+#beau #plan #m_opus

@@ -28,9 +28,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-jo.1](../bbugyi200.athena.sase-jo.1/README.md) | sase-jo hood | completed |
-| [sase-jo.2](../bbugyi200.athena.sase-jo.2/README.md) | sase-jo hood | completed |
-| [sase-jo.3](../bbugyi200.athena.sase-jo.3/README.md) | sase-jo hood | completed |
-| [sase-jo.4](../bbugyi200.athena.sase-jo.4/README.md) | sase-jo hood | completed |
-| [sase-jo.5](../bbugyi200.athena.sase-jo.5/README.md) | sase-jo hood | completed |
-| [sase-jo.6](../bbugyi200.athena.sase-jo.6/README.md) | sase-jo hood | completed |
+| [sase-jo.1](../bbugyi200.athena.sase-jo.1/README.md) | sase-jo hood | dismissed |
+| [sase-jo.2](../bbugyi200.athena.sase-jo.2/README.md) | sase-jo hood | dismissed |
+| [sase-jo.3](../bbugyi200.athena.sase-jo.3/README.md) | sase-jo hood | dismissed |
+| [sase-jo.4](../bbugyi200.athena.sase-jo.4/README.md) | sase-jo hood | dismissed |
+| [sase-jo.5](../bbugyi200.athena.sase-jo.5/README.md) | sase-jo hood | dismissed |
+| [sase-jo.6](../bbugyi200.athena.sase-jo.6/README.md) | sase-jo hood | dismissed |

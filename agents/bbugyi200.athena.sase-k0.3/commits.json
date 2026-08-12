@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1dfcf51af74ccb0a347b590dfe826f5d"}
+{"commits":[{"committed_at":1786551094,"sha":"875f67b74da1e3829b9b2ec72be40df8e9be6726","subject":"feat(bead): settle pending gates immediately on task bead close"}],"schema_version":2,"source_run_id":"run-1dfcf51af74ccb0a347b590dfe826f5d"}

@@ -30,13 +30,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-jd.1](bbugyi200.athena.sase-jd.1.md) (family · 2) | sase-jd hood | completed 2 |
-| [sase-jd.2](../agents/bbugyi200.athena.sase-jd.2/README.md) | sase-jd hood | completed |
-| [sase-jd.3](../agents/bbugyi200.athena.sase-jd.3/README.md) | sase-jd hood | completed |
+| [sase-jd.1](bbugyi200.athena.sase-jd.1.md) (family · 2) | sase-jd hood | completed 1, dismissed 1 |
+| [sase-jd.2](../agents/bbugyi200.athena.sase-jd.2/README.md) | sase-jd hood | dismissed |
+| [sase-jd.3](../agents/bbugyi200.athena.sase-jd.3/README.md) | sase-jd hood | dismissed |
 | [sase-jd.4](bbugyi200.athena.sase-jd.4.md) (family · 2) | sase-jd hood | active 1, dismissed 1 |
 | [sase-jd.4](../agents/bbugyi200.athena.sase-jd.4/README.md) | sase-jd hood | active |
-| [sase-jd.5](bbugyi200.athena.sase-jd.5.md) (family · 2) | sase-jd hood | completed 2 |
-| [sase-jd.6](bbugyi200.athena.sase-jd.6.md) (family · 2) | sase-jd hood | completed 2 |
+| [sase-jd.5](bbugyi200.athena.sase-jd.5.md) (family · 2) | sase-jd hood | completed 1, dismissed 1 |
+| [sase-jd.6](bbugyi200.athena.sase-jd.6.md) (family · 2) | sase-jd hood | completed 1, dismissed 1 |
 | [sase-jd.6](../agents/bbugyi200.athena.sase-jd.6/README.md) | sase-jd hood | active |
-| [sase-jd.7](../agents/bbugyi200.athena.sase-jd.7/README.md) | sase-jd hood | completed |
-| [sase-jd.land](../agents/bbugyi200.athena.sase-jd.land/README.md) | sase-jd hood | completed |
+| [sase-jd.7](../agents/bbugyi200.athena.sase-jd.7/README.md) | sase-jd hood | dismissed |
+| [sase-jd.land](../agents/bbugyi200.athena.sase-jd.land/README.md) | sase-jd hood | dismissed |

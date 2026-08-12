@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** ym--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-ym__plan-260812_105911.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-ym__code-260812_105911.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/lazy_sidecar_ref_materialization.md
 
 

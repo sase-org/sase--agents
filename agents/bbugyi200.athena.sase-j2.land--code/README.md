@@ -28,5 +28,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-j2.1](../bbugyi200.athena.sase-j2.1/README.md) | sase-j2 hood | completed |
-| [sase-j2.2](../bbugyi200.athena.sase-j2.2/README.md) | sase-j2 hood | completed |
+| [sase-j2.1](../bbugyi200.athena.sase-j2.1/README.md) | sase-j2 hood | dismissed |
+| [sase-j2.2](../bbugyi200.athena.sase-j2.2/README.md) | sase-j2 hood | dismissed |

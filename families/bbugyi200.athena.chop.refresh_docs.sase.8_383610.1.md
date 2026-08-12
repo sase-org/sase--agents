@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `chop` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["chop.refresh_docs.sase.8_383610.1--plan [active]"]
-  n1["chop.refresh_docs.sase.8_383610.1--code [active]"]
+  n0["chop.refresh_docs.sase.8_383610.1--plan [dismissed]"]
+  n1["chop.refresh_docs.sase.8_383610.1--code [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | chop.refresh\_docs.sase.8\_383610.1--plan | active | gpt-5.6-sol / codex | 2026-08-11T10:01:51.649450+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.chop.refresh_docs.sase.8_383610.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.chop.refresh_docs.sase.8_383610.1--plan/chat.md) |
-| <a id="member-code"></a>code | chop.refresh\_docs.sase.8\_383610.1--code | active | sonnet / claude | 2026-08-11T10:04:36.410675+00:00 | [1](../agents/bbugyi200.athena.chop.refresh_docs.sase.8_383610.1--code/README.md#commits) | — | — |
+| <a id="member-plan"></a>plan | chop.refresh\_docs.sase.8\_383610.1--plan | dismissed | gpt-5.6-sol / codex | 2026-08-11T06:01:51.649450 → 2026-08-11T06:53:34.476160 | 0 | — | [Chat](../agents/bbugyi200.athena.chop.refresh_docs.sase.8_383610.1--plan/chat.md) |
+| <a id="member-code"></a>code | chop.refresh\_docs.sase.8\_383610.1--code | completed | sonnet / claude | 2026-08-11T10:04:36.410675+00:00 | [1](../agents/bbugyi200.athena.chop.refresh_docs.sase.8_383610.1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.chop.refresh_docs.sase.8_383610.1--code/chat.md) |
 
 ## Commits
 
@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [chop.refresh\_docs.sase.8\_383610.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.8_383610.2/README.md) | chop.refresh\_docs.sase.8\_383610 hood | waiting |
+| [chop.refresh\_docs.sase.8\_383610.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.8_383610.2/README.md) | chop.refresh\_docs.sase.8\_383610 hood | dismissed |
 | [chop.refresh\_docs.sase.0\_190948.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_190948.1/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.0\_190948.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_190948.2/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.0\_456044.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.0_456044.1/README.md) | chop.refresh\_docs.sase hood | active |
@@ -69,6 +69,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [chop.refresh\_docs.sase.3\_896860.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.3_896860.2/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.3\_998258.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.3_998258.1/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.3\_998258.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.3_998258.2/README.md) | chop.refresh\_docs.sase hood | active |
+| [chop.refresh\_docs.sase.4\_812596.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.4_812596.1/README.md) | chop.refresh\_docs.sase hood | completed |
+| [chop.refresh\_docs.sase.4\_812596.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.4_812596.2/README.md) | chop.refresh\_docs.sase hood | completed |
 | [chop.refresh\_docs.sase.5\_637797.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.5_637797.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.5\_637797.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.5_637797.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.5\_991351.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.5_991351.1/README.md) | chop.refresh\_docs.sase hood | active |
@@ -79,6 +81,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [chop.refresh\_docs.sase.8\_257999.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.8_257999.2/README.md) | chop.refresh\_docs.sase hood | waiting |
 | [chop.refresh\_docs.sase.8\_532679.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.8_532679.1/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.8\_532679.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.8_532679.2/README.md) | chop.refresh\_docs.sase hood | waiting |
-| [chop.refresh\_docs.sase.8\_665086.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.8_665086.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
-| [chop.refresh\_docs.sase.8\_665086.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.8_665086.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
-| … and 12 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/chop/README.md) | chop.refresh\_docs.sase hood | — |
+| … and 14 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/chop/README.md) | chop.refresh\_docs.sase hood | — |

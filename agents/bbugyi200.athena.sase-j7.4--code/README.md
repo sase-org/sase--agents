@@ -23,8 +23,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-j7.1](../bbugyi200.athena.sase-j7.1/README.md) | sase-j7 hood | completed |
-| [sase-j7.2](../bbugyi200.athena.sase-j7.2/README.md) | sase-j7 hood | completed |
-| [sase-j7.3](../bbugyi200.athena.sase-j7.3/README.md) | sase-j7 hood | completed |
-| [sase-j7.5](../bbugyi200.athena.sase-j7.5/README.md) | sase-j7 hood | active |
-| [sase-j7.land](../bbugyi200.athena.sase-j7.land/README.md) | sase-j7 hood | waiting |
+| [sase-j7.1](../bbugyi200.athena.sase-j7.1/README.md) | sase-j7 hood | dismissed |
+| [sase-j7.2](../bbugyi200.athena.sase-j7.2/README.md) | sase-j7 hood | dismissed |
+| [sase-j7.3](../bbugyi200.athena.sase-j7.3/README.md) | sase-j7 hood | dismissed |
+| [sase-j7.5](../bbugyi200.athena.sase-j7.5/README.md) | sase-j7 hood | dismissed |
+| [sase-j7.land](../bbugyi200.athena.sase-j7.land/README.md) | sase-j7 hood | dismissed |

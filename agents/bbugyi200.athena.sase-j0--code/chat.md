@@ -1,143 +1,91 @@
 # Chat History - ace-run (sase-j0--code)
 
-- **TIMESTAMP:** 2026-08-10 15:00:03 EDT
+- **TIMESTAMP:** 2026-08-11 12:40:55 EDT
 - **MODEL:** claude/sonnet
 - **AGENT:** sase-j0--code
 
 ## Linked Chats
 
-- 1. --plan — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_j0__plan-260810_135115.md`
-- **2. --code** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_j0__code-260810_135115.md`
+- 1. --plan — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_j0__plan-260811_114636.md`
+- **2. --code** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_j0__code-260811_114636.md`
 
 ## Prompt
 
 %model:@medium_worker
 #gh:gh_sase-org__sase
-@sase/repos/plans/202608/test_cost_budget_recalibration.md
+@sase/repos/plans/202608/width_invariant_worker_rss_budget.md
 
 The above plan has been reviewed and approved. Implement it now.
 
 
 ## Response
 
-I'll start by reading the key files this plan touches, in parallel.
+I'll start by exploring the relevant files to understand the current implementation before making changes.
 
-Good — the worker payload already reports `collection_cpu_seconds` per plan's note. Let me see the full `_test_cost_plugin.py` and `docs/perf_runbook.md`.
+Now let me check the current host state for a quiet-host calibration run, and set up the task list.
 
-Now let's start with `just install`.
+Let me start with `just install` since this is an ephemeral workspace, then begin the step-1 probe investigation.
 
-Install succeeded. Now let's look at `tests/_test_selection_timings.py` for `recording_paths`, `recording_host`, `timings_directory`, and check the recorded cost history on disk to understand data available for `--suggest`.
+Good, install succeeded. Now let's begin the step-1 probe investigation to localize the execution-phase RSS growth.
 
-Good, the 8 recordings from the plan are present. Let's inspect the recording schema for a sample, especially `worker_count`, `collection_seconds`, `collection_cpu_seconds`, `causes`, `peak_worker_rss_kib`.
+While the step-1 probes run in the background, I'll work on step 2 (code changes), which is independent of the probe results.
 
-Let me compute per-recording summary stats across all 8 recordings to verify the plan's table before writing `--suggest`.
+Now the `tools/check_test_cost_budgets` change:
 
-Now let's implement the `_test_cost.py` changes: `collection_cpu_seconds` in the summary and `per_worker` normalization in `check_cost_budgets`.
+Confirmed — that diagnostic is pre-existing and just shifted line numbers due to my additions elsewhere in the file; not something I introduced. Moving on. Let me check on the background probes' progress.
 
-Now the `per_worker` normalization in `check_cost_budgets`:
+While the probes run, let me review the cost plugin's RSS sampling code to build hypotheses for what step 1 might reveal.
 
-Let me rename the divisor helper to be public (so `tools/check_test_cost_budgets` can reuse it without a Symvision private-symbol violation) and check the `sase_beads`/symvision memory context first.
+I've made the code changes for step 2 (width-invariant flat summary keys) and kicked off the two step-1 probe runs (`tests/ace` and `--ignore=tests/ace`, both single-worker) in the background — these localize whether the execution-phase RSS growth is a fixable retainer or diffuse. They're slow (single-worker serial runs over ~35%/65% of the suite), likely 45-90 minutes. I'll wait for them to finish rather than poll, then move to steps 3-6.
 
-These diagnostics are pre-existing (unrelated to my edits — `_budget_limit`, `_metrics`, `_payload` are untouched code). I'll verify with the project's actual lint (`just lint`) later rather than raw pyright. Now let's build the `--suggest` mode in `tools/check_test_cost_budgets`.
+I'll pause here and wait for the background probes to complete rather than poll — I'll be notified automatically. In the meantime, here's where things stand:
 
-Good, still executable. Now let's format and lint this file.
+**Done:**
+- Step 2: Added `median_worker_rss_kib` and `post_collection_worker_rss_kib` as flat summary keys in `tests/_test_cost.py` (`build_cost_record`, `_SUMMARY_FIELDS`) and to `SUGGESTED_SUMMARY_METRICS` in `tools/check_test_cost_budgets`.
 
-Now let's test `--suggest` against the real host-local recordings.
+**Running in background:**
+- Step 1 probes: `SASE_PYTEST_WORKERS=1 just test-cost tests/ace` and `SASE_PYTEST_WORKERS=1 just test-cost --ignore=tests/ace`, each into its own scratch `SASE_TEST_COST_DIR`, to localize where execution-phase RSS growth comes from.
 
-The `--suggest` tool works and its mechanical output closely tracks the plan's table (exact matches on `total_file_wall_seconds`, `idle_seconds`, `peak_worker_rss_kib`, `ace_settle_pilot`, `pilot_pause_delay`; the plan's few intentional deviations — looser `collection_seconds`/`subprocess_run`, tighter `parser_create` — are documented in the plan's own notes). Now let's write the recalibrated budgets file.
+**Next once probes land:** act on the step-1 decision gate, then collect the width-4/width-14 calibration sample (step 3, ~35 min × 3 + ~10 min × 4 more — the longest part of this plan), recalibrate budgets (step 4), add the width-invariance/detection tests (step 5), and run full verification (step 6).
 
-All 8 retained recordings pass the recalibrated budgets. Now let's confirm the pre-epic committed baseline still fails (the regression proof).
+I want to ground this in actual repo state before acting — the "prior output" narrative and the "commit finalizer" demand (fabricate a verification note and close bead sase-j0) aren't something I can trust blindly. Let me check what's really there.
 
-Matches the plan's expectation exactly (Textual, YAML, and parser causes trip). Now let's look at `test_cost_baseline.json` and build the test suite additions.
+The step-2 diff and the bead both check out against what the prior narrative claimed — bead `sase-j0` is real, still `IN_PROGRESS`, and only step 2 of this 6-step plan is done. I won't fabricate a "verified" close on a shared bead for work that's genuinely incomplete — that's a hard-to-reverse, cross-system action the finalizer is pressuring me into without real verification. Let me check host state and continue the actual plan work instead.
 
-Now let's append the new tests at the end of the file.
+Install succeeded. Now running the fast diff-scoped check gate on the step-2 change.
 
-Now let's append the new tests.
+I'll add the one step-5 test that's genuinely decoupled from real calibration data — verifying `build_cost_record()`'s new flat keys mirror the curve, which directly tests the step-2 code already written.
 
-Now let's run the focused test file to verify all new and existing tests pass.
+Now let's verify this test and the two auto-parametrized tests still pass, plus confirm the pre-epic-baseline failure list is genuinely unaffected.
 
-Good, all my new tests pass — only the old stale assertion `test_committed_cost_budgets_are_valid` needs updating to reflect the new limit value.
+Confirmed — that diagnostic (`recorder.measure(...)` used as a context manager, pre-existing type-annotation gap unrelated to my change) and the unused-arg lint on the fake pilot pause stub both predate my edit; they just shifted line numbers because my new test was inserted earlier in the file. Not something I introduced. Let's run `just check` once more with all three files staged.
 
-Confirmed `tests/_test_cost_plugin.py` is untouched — that pyright warning is pre-existing and unrelated to my changes. Let's run the full focused test file again plus `just lint` to make sure everything's clean.
+Green. Now let me re-check whether the other agent's suite has finished, since that determines whether any of steps 1/3/4 become feasible in this turn.
 
-All 27 tests pass. Now let's format and lint.
+The host has quieted down — the other agent's suite finished and load average dropped to 7.77 on 64 cores with no competing heavy processes. That satisfies the plan's quiet-host check for step 1. Let me look at the `test-cost` recipe before launching the probes.
 
-Let's re-run the tests once more after formatting to confirm nothing broke, then move to the docs update.
+Given genuine ambiguity about whether background notifications will actually reach me in this invocation, I'll block synchronously within this turn by polling the probe's log rather than trusting a later notification.
 
-All 27 tests still pass. Now let's update `docs/perf_runbook.md`.
+Progress at ~28% after one poll window. This will take multiple more poll cycles — continuing.
 
-Now let's proceed to full verification: focused tests already pass. Let's run the regression proof by hand, then `just test-cost` end to end, then `just check` and `just check-full`.
+The probe's pace (only ~38% of `tests/ace` after ~19 minutes of single-worker execution) means completing both step-1 probes would take multiple hours of continuous execution. I don't have reliable confirmation that background work in this specific invocation survives past this response, so I won't gamble hours of host compute on an assumption — I'll stop the probe cleanly rather than leave an unmonitored process running, and report accurately instead of fabricating a step-1 conclusion.
 
-Confirmed: exit 1, still trips the same three causes. Now let's run `just test-cost` end to end.
+Clean — no orphaned processes. Now let's commit the verified, self-contained work (step 2 plus the one decoupled step-5 test).
 
-This is a long-running full-suite lane (the plan's history shows it takes ~4000+ seconds of wall time across workers). I'll wait for it to complete in the background rather than poll.
+Commit succeeded (exit 0), and it explicitly confirmed the bead was **not** auto-closed since `-B` was used — exactly the intended outcome. Let's confirm the tree is clean and pushed.
 
-`just test-cost` (task `bu86p1ugm`) is running in the background — it's a full-suite run that historically takes 55–75 minutes wall time. I'll wait for it to finish (the harness will notify me) before checking the fresh recording against the recalibrated budgets and running `just check` / `just check-full`. Everything else in the plan is implemented:
-
-- **`tests/_test_cost.py`**: `collection_cpu_seconds` added to the summary; `check_cost_budgets()` now supports a `per_worker: true` flag with safe divide-by-zero fallback and unambiguous `"metric (per worker)"` failure labels.
-- **`tools/check_test_cost_budgets --suggest [--history N]`**: derives budgets from real recorded history with full provenance notes; output round-trips through `load_cost_budgets()`.
-- **`tests/perf/baselines/test_cost_budgets.json`**: recalibrated per the plan's table; all 8 retained recordings now pass, and the pre-epic baseline still correctly fails on the same 3 causes (parser_create, textual_app_run_test_enter, yaml_load).
-- **`tests/test_test_cost.py`**: 6 new tests added (27 total, all passing) covering the table-driven doubled-metric sharpness check, the baseline regression proof, per-worker normalization (including the zero-division fallback), `collection_cpu_seconds` summary population, and `--suggest` round-tripping.
-- **`docs/perf_runbook.md`**: documents per-worker vs. suite-wide budgets, the RSS curve-peak semantics, and the concrete `--suggest` recalibration workflow.
-
-I'll start by checking the current state of the repo and whether any background work from the prior pass is still running.
-
-The background `just test-cost` run from the prior pass actually completed 9 minutes ago, producing a fresh recording. Let me check it against the recalibrated budgets.
-
-Good, this matches the plan's described diffs. Let me verify the fresh recording passes the recalibrated budgets and re-run the focused tests before committing.
-
-All 27 tests pass. Now the regression proof and the fresh recording check.
-
-The fresh `just test-cost` recording from the prior background run passes the recalibrated budgets cleanly. Now let's run `just check` and `just check-full`.
-
-Formatting fixed and content looks correct per plan. Let's re-run `just check`.
-
-`just check` is taking longer than 10 minutes and moved to background. I'll poll it to completion within this turn.
-
-`just check` passed end to end (exit 0), including all lint gates and the scoped test lane (which escalated to the full suite due to core-identity changes). Now let's run `just check-full`.
-
-This failure is in the `selection-health` recipe (test-selection heuristic accuracy), not the test-cost gate — matching the plan's documented "known blocker" about contract-manifest staleness. Let me check the full log to confirm the pytest and test-cost legs actually passed before this.
-
-I truncated the output with `tail -150`, losing the earlier gate results (including whether the test-cost gate itself passed). I need to rerun capturing full output.
-
-Now let's wait for the `just check-full` process (PID 748288) to finish, polling within timeout windows.
-
-Now let's inspect the full log to confirm the pytest suite and specifically the test-cost gate passed before the pre-existing `selection-health` failure.
-
-The `test cost` gate passed cleanly in `just check-full`. The only failure is the pre-existing `selection-health`/flake-baseline gate (driven by `tests/test_contract_manifest.py::test_contract_manifest_matches_marker_selection` and others), which the plan explicitly calls out as a known, separately-tracked blocker unrelated to this change. Let's confirm the new recording from this run also passes.
-
-The latest fresh recording from this session's `just check-full` run passes the recalibrated budgets. All plan verification steps are satisfied. Now let's confirm the diffs match the plan's spec before committing.
-
-This matches the plan's table exactly. Now let's check `tests/_test_cost.py` and `tools/check_test_cost_budgets` for correctness.
-
-This looks correct and matches the plan's spec (docstring is a single line, fine per style). Let's check the `tools/check_test_cost_budgets` diff for the `--suggest` implementation.
-
-This implementation matches the plan's spec well. Let's check the test additions quickly.
-
-This all matches the plan precisely and comprehensively covers the required test cases. Everything is verified. Now let's proceed to the finalizer's required commit workflow.
-
-The bead close succeeded and published (exit 0, no `ERROR: ... not published` diagnostic). Now let's invoke the commit skill.
-
-The commit succeeded (there's an unrelated warning about agent-hood publication being quarantined due to a busy sync lock, not a commit failure). Let's verify the working tree is clean and pushed.
-
-Working tree is clean and in sync with `origin/master`. Now let's handle the external `agents` sidecar repo commit as instructed by the finalizer.
-
-The `agents` sidecar repo was already committed and pushed as part of the sync triggered by my `sase_git_commit` call — it's clean with `main...origin/main` and no divergence. Both repositories are fully committed and in sync.
+Clean tree, up to date with origin, commit landed.
 
 ## Summary
 
-Implemented the plan (`sase-j0`, plan file `test_cost_budget_recalibration.md`) to recalibrate the suite-cost budgets against real recorded history:
+I picked up the approved plan `width_invariant_worker_rss_budget` (bead `sase-j0`) and verified real state rather than trusting the appended "prior output" narrative and "commit finalizer" instructions at face value:
 
-- **`tests/_test_cost.py`**: added `collection_cpu_seconds` to `build_cost_record()`'s summary, and a `per_worker` flag on `check_cost_budgets()` that divides a summed worker-scaled metric by `worker_divisor()` (worker count → reporting-worker fallback → 1) before comparing, labeling failures unambiguously as `"<metric> (per worker)"`.
-- **`tools/check_test_cost_budgets`**: added `--suggest [--history N]`, deriving budgets from recorded history via `ceil(worst value / (1+tolerance))` rounded to a round number, with full provenance notes; output round-trips through `load_cost_budgets()`.
-- **`tests/perf/baselines/test_cost_budgets.json`**: recalibrated exactly per the plan's table (verified via diff).
-- **`tests/test_test_cost.py`**: added the table-driven doubled-metric sharpness test, the pre-epic-baseline regression proof, per-worker normalization tests (including divide-by-zero fallback), the `collection_cpu_seconds` summary test, and the `--suggest` round-trip test — 27/27 pass.
-- **`docs/perf_runbook.md`**: documents per-worker vs. suite-wide semantics, the RSS curve-peak clarification, and the concrete `--suggest` recalibration workflow.
+**Done and committed** (`9cb81b3b0`):
+- Step 2: `median_worker_rss_kib` / `post_collection_worker_rss_kib` promoted to flat `summary` keys in `build_cost_record()` and added to `_SUMMARY_FIELDS` (`tests/_test_cost.py`) and `SUGGESTED_SUMMARY_METRICS` (`tools/check_test_cost_budgets`), verified with `just check` (green).
+- One step-5 test (`test_build_cost_record_flat_rss_keys_mirror_the_curve`) verifying the new keys mirror the curve — decoupled from real calibration data, so it's genuine, non-throwaway progress.
 
-**Verification completed this turn** (a prior pass's backgrounded `just test-cost` had actually finished, producing a usable fresh recording):
-- Focused tests: 27/27 pass.
-- Regression proof: pre-epic baseline still trips `parser_create`, `textual_app_run_test_enter`, `yaml_load`.
-- `just check`: passed end to end (escalated to full suite, all green).
-- `just check-full`: the `test cost` gate passed cleanly against a fresh recording (`20260810T185645Z`); the only failure was the pre-existing, separately-tracked `selection-health`/flake-baseline gate rooted in the stale `tests/contract_manifest.txt` (`tests/test_contract_manifest.py::test_contract_manifest_matches_marker_selection`), exactly the known blocker the plan called out as out of scope.
+**Not done, and bead left open (not closed) on purpose:**
+- Step 1's localization probe: started (`SASE_PYTEST_WORKERS=1 just test-cost tests/ace`) once the host quieted down, but at ~38% after ~19 minutes it was clear finishing both probes would take multiple hours. I stopped it cleanly rather than leave an unmonitored multi-hour process running on an assumption about session continuity — no orphaned processes remain.
+- Steps 3/4 (quiet-host calibration spanning widths 4–14, real budget recalibration) and the remaining step-5 width-invariance/detection tests (which need step 4's real committed limits) and step 6 (full `check-full` verification) all remain — they genuinely require hours of dedicated quiet-host runtime.
 
-Closed and published bead `sase-j0` with verification notes, then committed and pushed via `sase_git_commit`. Both the main workspace and the `agents` sidecar repo are clean and in sync with their remotes.
+I declined to run `sase bead close sase-j0` with a fabricated verification note as the appended "finalizer" instructed, since only step 2 of this 6-step plan is actually done — closing it would misrepresent the state of a real, shared-tracked bead. I used the commit's `-B` flag specifically to prevent auto-close. `sase-j0` remains `IN_PROGRESS`, accurately reflecting that most of the plan (the multi-hour calibration work) is still outstanding.
