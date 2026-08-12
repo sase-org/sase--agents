@@ -12,11 +12,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-12T13:41:36.537137+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`56d6bd7`](https://github.com/sase-org/sase/commit/56d6bd772dfc16e979f44cdd737251e06eab83b8) | docs: adopt artifact reference provider docs | 2026-08-12 10:14:48 EDT |
 
 ## Neighbors
 
