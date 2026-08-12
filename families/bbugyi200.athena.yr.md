@@ -17,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | yr--code | active | sonnet / claude | 2026-08-12T17:16:27.054671+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | yr--code | active | sonnet / claude | 2026-08-12T17:16:27.054671+00:00 | [1](../agents/bbugyi200.athena.yr--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | yr--plan | active | opus / claude | 2026-08-12T16:59:39.686317+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.yr--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.yr--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`42e60e5`](https://github.com/sase-org/sase/commit/42e60e5d6dd1eb91bcab6fb8d2fb8b3343b8c649) | fix(xprompts): put #sase/reads swarm agents in one reads-@ clan | 2026-08-12 13:44:58 EDT |
