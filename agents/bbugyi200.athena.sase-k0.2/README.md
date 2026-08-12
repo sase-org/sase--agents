@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-k0](../../users/bbugyi200/machines/athena/hoods/sase-k0/README.md) / sase-k0.2
 
-**Global name:** `bbugyi200.athena.sase-k0.2` · **State:** active · **Source run:** `run-65c4c2561b110022a43ed1f9cf0518aa`
+**Global name:** `bbugyi200.athena.sase-k0.2` · **State:** completed · **Source run:** `run-65c4c2561b110022a43ed1f9cf0518aa`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-k0
 
@@ -17,7 +17,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -25,4 +25,4 @@
 |---|---|---|
 | [sase-k0.1](../bbugyi200.athena.sase-k0.1/README.md) | sase-k0 hood | completed |
 | [sase-k0.3](../bbugyi200.athena.sase-k0.3/README.md) | sase-k0 hood | completed |
-| [sase-k0.land](../bbugyi200.athena.sase-k0.land/README.md) | sase-k0 hood | waiting |
+| [sase-k0.land](../bbugyi200.athena.sase-k0.land/README.md) | sase-k0 hood | failed |
