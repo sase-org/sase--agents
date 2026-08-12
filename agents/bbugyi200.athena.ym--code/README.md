@@ -11,4 +11,10 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-12T15:12:16.420137+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`d6f435c`](https://github.com/sase-org/sase/commit/d6f435c7a2a50678560e377d2604a08194408d7e) | feat: lazily materialize prompt document sidecars | 2026-08-12 11:59:23 EDT |

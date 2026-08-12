@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5659119edef88229028849f2d4ee0048"}
+{"commits":[{"committed_at":1786550363,"sha":"d6f435c7a2a50678560e377d2604a08194408d7e","subject":"feat: lazily materialize prompt document sidecars"}],"schema_version":2,"source_run_id":"run-5659119edef88229028849f2d4ee0048"}

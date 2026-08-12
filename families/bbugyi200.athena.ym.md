@@ -17,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | ym--code | active | gpt-5.5 / codex | 2026-08-12T15:12:16.420137+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | ym--code | active | gpt-5.5 / codex | 2026-08-12T15:12:16.420137+00:00 | [1](../agents/bbugyi200.athena.ym--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | ym--plan | active | opus / claude | 2026-08-12T14:59:45.531624+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ym--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ym--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`d6f435c`](https://github.com/sase-org/sase/commit/d6f435c7a2a50678560e377d2604a08194408d7e) | feat: lazily materialize prompt document sidecars | 2026-08-12 11:59:23 EDT |
