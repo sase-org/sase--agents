@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-js.4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_js_4__plan-260811_132713.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_js_4__code-260811_132713.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/builtin_refs_and_prompt_ref_context.md
 
 

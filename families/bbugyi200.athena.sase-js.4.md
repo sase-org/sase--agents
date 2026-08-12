@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-js` · Members: 2 · Bead: [sase-js.4](
 
 ```mermaid
 flowchart TD
-  n0["sase-js.4--code [active]"]
-  n1["sase-js.4--plan [active]"]
+  n0["sase-js.4--code [completed]"]
+  n1["sase-js.4--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-js.4--code | active | sonnet / claude | 2026-08-11T20:49:17.125222+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-js.4--plan | active | gpt-5.6-sol / codex | 2026-08-11T20:23:42.099948+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-js.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-js.4--plan/chat.md) |
+| <a id="member-code"></a>code | sase-js.4--code | completed | sonnet / claude | 2026-08-11T20:49:17.125222+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-js.4--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-js.4--plan | completed | gpt-5.6-sol / codex | 2026-08-11T20:23:42.099948+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-js.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-js.4--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`0f3569c`](https://github.com/sase-org/sase/commit/0f3569cb4c46a1bee1629ab64ef831a3535b64d2) | feat(artifact-ref)!: resolve @stitch/@patch/@bead/@agent through an explicit prompt ref context | 2026-08-11 18:14:02 EDT |
 
 ## Neighbors
 
@@ -27,9 +33,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-js.1](bbugyi200.athena.sase-js.1.md) (family · 2) | sase-js hood | completed 2 |
 | [sase-js.2](../agents/bbugyi200.athena.sase-js.2/README.md) | sase-js hood | completed |
 | [sase-js.3](bbugyi200.athena.sase-js.3.md) (family · 2) | sase-js hood | completed 2 |
-| [sase-js.5](bbugyi200.athena.sase-js.5.md) (family · 2) | sase-js hood | active 2 |
-| [sase-js.6](../agents/bbugyi200.athena.sase-js.6/README.md) | sase-js hood | waiting |
+| [sase-js.5](bbugyi200.athena.sase-js.5.md) (family · 2) | sase-js hood | completed 2 |
+| [sase-js.6](../agents/bbugyi200.athena.sase-js.6/README.md) | sase-js hood | active |
+| [sase-js.7](bbugyi200.athena.sase-js.7.md) (family · 2) | sase-js hood | active 2 |
 | [sase-js.7](../agents/bbugyi200.athena.sase-js.7/README.md) | sase-js hood | waiting |
-| [sase-js.8](bbugyi200.athena.sase-js.8.md) (family · 2) | sase-js hood | active 2 |
+| [sase-js.8](bbugyi200.athena.sase-js.8.md) (family · 2) | sase-js hood | completed 2 |
 | [sase-js.9](../agents/bbugyi200.athena.sase-js.9/README.md) | sase-js hood | waiting |
 | [sase-js.land](../agents/bbugyi200.athena.sase-js.land/README.md) | sase-js hood | waiting |

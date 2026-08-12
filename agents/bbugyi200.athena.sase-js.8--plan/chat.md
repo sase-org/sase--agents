@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-js.8--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_js_8__plan-260811_132715.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_js_8__code-260811_132715.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/research_plugin.md
 
 

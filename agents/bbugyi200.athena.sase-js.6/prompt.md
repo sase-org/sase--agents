@@ -2,7 +2,6 @@
 %id(6, clan=sase-js, bead=sase-js.6)
 %model:@large_worker
 %auto
-%w:sase-js.4,sase-js.5
 %w(bead=sase-js.4)
 %w(bead=sase-js.5)
 #bd/work_phase_bead:sase-js.6
