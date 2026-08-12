@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start having the `bugyi_chop_ci_watch` chop only run when there are no sase agents running? Add good support directly to sase's chop configuration for this, if it doesn't already exist. #plan #m_opus
