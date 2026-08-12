@@ -12,13 +12,14 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-12T14:34:26.239528+00:00
-- Commits: [1](#commits)
+- Commits: [2](#commits)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`ad11756`](https://github.com/sase-org/sase/commit/ad11756e6ed919d83f30c69fdb82d3c37c59b955) | fix(ace): break artifact-provider import cycle, delete retired Chats pane, drop @chat completion | 2026-08-12 11:36:27 EDT |
+| sase | [`c30bcb0`](https://github.com/sase-org/sase/commit/c30bcb012c50f36b9e6b240d146fffa2cf3d8a8c) | chore(symvision): retire epic-js whitelist, delete or wire up its five symbols | 2026-08-12 12:35:48 EDT |
 
 ## Neighbors
 

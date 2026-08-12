@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-k2.1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_k2_1__plan-260812_113457.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_k2_1__code-260812_113457.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/project_spec_blank_run_repair.md
 
 

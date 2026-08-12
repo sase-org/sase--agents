@@ -18,13 +18,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-js.land--plan | active | opus / claude | 2026-08-12T14:17:24.027051+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-js.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-js.land--plan/chat.md) |
-| <a id="member-code"></a>code | sase-js.land--code | active | sonnet / claude | 2026-08-12T14:34:26.239528+00:00 | [1](../agents/bbugyi200.athena.sase-js.land--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | sase-js.land--code | active | sonnet / claude | 2026-08-12T14:34:26.239528+00:00 | [2](../agents/bbugyi200.athena.sase-js.land--code/README.md#commits) | — | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | code | sase | [`ad11756`](https://github.com/sase-org/sase/commit/ad11756e6ed919d83f30c69fdb82d3c37c59b955) | fix(ace): break artifact-provider import cycle, delete retired Chats pane, drop @chat completion | 2026-08-12 11:36:27 EDT |
+| code | sase | [`c30bcb0`](https://github.com/sase-org/sase/commit/c30bcb012c50f36b9e6b240d146fffa2cf3d8a8c) | chore(symvision): retire epic-js whitelist, delete or wire up its five symbols | 2026-08-12 12:35:48 EDT |
 
 ## Neighbors
 
