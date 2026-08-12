@@ -1,0 +1,3 @@
+%clan(research.0c, tribe=research,
+summary=[[[bold]RESEARCH PROMPT:[/bold] I want to add an llm provider to sase that supports grok. I think that there is a grok-cli tool available, right? Can you do some research to help me decide the best way to implement this? End your analysis with a recommended solution.]]) %id:research.0c.cdx
+%wait(priority=20) %model:@research_a #gh:gh_sase-org__sase I want to add an llm provider to sase that supports grok. I think that there is a grok-cli tool available, right? Can you do some research to help me decide the best way to implement this? End your analysis with a recommended solution. #research

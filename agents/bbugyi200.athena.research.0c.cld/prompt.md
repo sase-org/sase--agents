@@ -1,0 +1,1 @@
+%id(cld, clan=research.0c) %wait(priority=20) %m:@research_b #gh:gh_sase-org__sase I want to add an llm provider to sase that supports grok. I think that there is a grok-cli tool available, right? Can you do some research to help me decide the best way to implement this? End your analysis with a recommended solution. #research
