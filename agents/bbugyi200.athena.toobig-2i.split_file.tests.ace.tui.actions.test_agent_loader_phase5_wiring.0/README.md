@@ -28,8 +28,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-2i.split\_file.tests.ace.tui.visual.\_ace\_axe\_png\_snapshot\_fixtures.0](../bbugyi200.athena.toobig-2i.split_file.tests.ace.tui.visual._ace_axe_png_snapshot_fixtures.0/README.md) | toobig-2i.split\_file.tests.ace.tui hood | completed |
-| [toobig-2i.split\_file.tests.test\_axe\_chop\_bead\_task\_triage.0](../bbugyi200.athena.toobig-2i.split_file.tests.test_axe_chop_bead_task_triage.0/README.md) | toobig-2i.split\_file.tests hood | active |
-| [toobig-2i.split\_file.tests.test\_external\_mirror\_issues.0](../bbugyi200.athena.toobig-2i.split_file.tests.test_external_mirror_issues.0/README.md) | toobig-2i.split\_file.tests hood | waiting |
+| [toobig-2i.split\_file.tests.test\_axe\_chop\_bead\_task\_triage.0](../bbugyi200.athena.toobig-2i.split_file.tests.test_axe_chop_bead_task_triage.0/README.md) | toobig-2i.split\_file.tests hood | completed |
+| [toobig-2i.split\_file.tests.test\_external\_mirror\_issues.0](../bbugyi200.athena.toobig-2i.split_file.tests.test_external_mirror_issues.0/README.md) | toobig-2i.split\_file.tests hood | completed |
 | [toobig-2i.split\_file.src.sase.ace.tui.actions.\_state\_init.0](../bbugyi200.athena.toobig-2i.split_file.src.sase.ace.tui.actions._state_init.0/README.md) | toobig-2i.split\_file hood | completed |
 | [toobig-2i.split\_file.src.sase.bead.cli\_query.0](../bbugyi200.athena.toobig-2i.split_file.src.sase.bead.cli_query.0/README.md) | toobig-2i.split\_file hood | completed |
 | [toobig-2i.split\_file.src.sase.external\_mirror.issues.0](../bbugyi200.athena.toobig-2i.split_file.src.sase.external_mirror.issues.0/README.md) | toobig-2i.split\_file hood | completed |

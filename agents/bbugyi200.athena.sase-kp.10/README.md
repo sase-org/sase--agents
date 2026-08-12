@@ -26,8 +26,8 @@
 | [sase-kp.1](../bbugyi200.athena.sase-kp.1/README.md) | sase-kp hood | completed |
 | [sase-kp.11](../bbugyi200.athena.sase-kp.11/README.md) | sase-kp hood | waiting |
 | [sase-kp.12](../bbugyi200.athena.sase-kp.12/README.md) | sase-kp hood | waiting |
-| [sase-kp.2](../bbugyi200.athena.sase-kp.2/README.md) | sase-kp hood | active |
-| [sase-kp.3](../bbugyi200.athena.sase-kp.3/README.md) | sase-kp hood | waiting |
+| [sase-kp.2](../bbugyi200.athena.sase-kp.2/README.md) | sase-kp hood | completed |
+| [sase-kp.3](../bbugyi200.athena.sase-kp.3/README.md) | sase-kp hood | active |
 | [sase-kp.4](../bbugyi200.athena.sase-kp.4/README.md) | sase-kp hood | waiting |
 | [sase-kp.5](../bbugyi200.athena.sase-kp.5/README.md) | sase-kp hood | waiting |
 | [sase-kp.6](../bbugyi200.athena.sase-kp.6/README.md) | sase-kp hood | waiting |
