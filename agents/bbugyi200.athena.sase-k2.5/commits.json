@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-78a60777fcc5877af579f2aeda42ac99"}
+{"commits":[{"committed_at":1786555765,"sha":"0567ce03be8450a991ec296494dbb8d185804d96","subject":"feat(external-mirror): refresh adopted external Patches from PR state"}],"schema_version":2,"source_run_id":"run-cc8102c7c99ae1a32d17768b0fdd1b18"}
