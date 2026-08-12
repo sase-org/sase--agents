@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-12T15:40:01.491434+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`95a9b45`](https://github.com/sase-org/sase/commit/95a9b457502c898d74c448219eec417e6800cd11) | fix(axe): sweep stale bead task gates | 2026-08-12 12:30:24 EDT |
 
 ## Neighbors
 
@@ -25,4 +31,7 @@
 |---|---|---|
 | [sase-k0.1](../bbugyi200.athena.sase-k0.1/README.md) | sase-k0 hood | completed |
 | [sase-k0.3](../bbugyi200.athena.sase-k0.3/README.md) | sase-k0 hood | completed |
+| [sase-k0.4.1](../bbugyi200.athena.sase-k0.4.1/README.md) | sase-k0 hood | completed |
+| [sase-k0.4.2](../bbugyi200.athena.sase-k0.4.2/README.md) | sase-k0 hood | active |
+| [sase-k0.4.land](../bbugyi200.athena.sase-k0.4.land/README.md) | sase-k0 hood | waiting |
 | [sase-k0.land](../bbugyi200.athena.sase-k0.land/README.md) | sase-k0 hood | failed |

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me fix the `#sase/reads` xprompt definition by removing the obsolete `%g:reads` directive and adding all of the agents in this swarm to the same agent clan (named `reads-@`) instead (they don't need a tribe assigned)? #plan #m_opus

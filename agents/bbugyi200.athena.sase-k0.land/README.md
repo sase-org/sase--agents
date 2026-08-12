@@ -9,6 +9,7 @@
 ## Summary
 
 - Bead: [sase-k0](https://github.com/sase-org/sase--beads/blob/main/pages/sase-k0/README.md)
+- Epic: [sase-k0.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-k0/sase-k0.4.md)
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-08-12T16:32:06.386501+00:00
@@ -25,3 +26,6 @@
 | [sase-k0.1](../bbugyi200.athena.sase-k0.1/README.md) | sase-k0 hood | completed |
 | [sase-k0.2](../bbugyi200.athena.sase-k0.2/README.md) | sase-k0 hood | completed |
 | [sase-k0.3](../bbugyi200.athena.sase-k0.3/README.md) | sase-k0 hood | completed |
+| [sase-k0.4.1](../bbugyi200.athena.sase-k0.4.1/README.md) | sase-k0 hood | completed |
+| [sase-k0.4.2](../bbugyi200.athena.sase-k0.4.2/README.md) | sase-k0 hood | active |
+| [sase-k0.4.land](../bbugyi200.athena.sase-k0.4.land/README.md) | sase-k0 hood | waiting |
