@@ -25,7 +25,7 @@
 |---|---|---|
 | [sase-kv.5.w0](../bbugyi200.athena.sase-kv.5.w0/README.md) | descendant | waiting |
 | [sase-kv.1](../bbugyi200.athena.sase-kv.1/README.md) | sase-kv hood | completed |
-| [sase-kv.2](../bbugyi200.athena.sase-kv.2/README.md) | sase-kv hood | active |
+| [sase-kv.2](../bbugyi200.athena.sase-kv.2/README.md) | sase-kv hood | completed |
 | [sase-kv.3](../bbugyi200.athena.sase-kv.3/README.md) | sase-kv hood | active |
-| [sase-kv.4](../bbugyi200.athena.sase-kv.4/README.md) | sase-kv hood | active |
+| [sase-kv.4](../bbugyi200.athena.sase-kv.4/README.md) | sase-kv hood | completed |
 | [sase-kv.land](../bbugyi200.athena.sase-kv.land/README.md) | sase-kv hood | waiting |
