@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-jx](../../users/bbugyi200/machines/athena/hoods/sase-jx/README.md) / [sase-jx.5.5.land](../../families/bbugyi200.athena.sase-jx.5.5.land.md) / sase-jx.5.5.land--code
 
-**Global name:** `bbugyi200.athena.sase-jx.5.5.land--code` · **State:** active · **Source run:** `run-84673dea2ab4ab54b4b32bc677181b5d`
+**Global name:** `bbugyi200.athena.sase-jx.5.5.land--code` · **State:** completed · **Source run:** `run-84673dea2ab4ab54b4b32bc677181b5d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-jx
 
@@ -14,6 +14,10 @@
 - Timing: 2026-08-12T19:29:17.835447+00:00
 - Commits: [1](#commits)
 
+## Files
+
+[Chat](chat.md)
+
 ## Commits
 
 | Repo | Commit | Subject | Committed |
@@ -24,15 +28,15 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-jx.5.5.1](../bbugyi200.athena.sase-jx.5.5.1/README.md) | sase-jx.5.5 hood | completed |
-| [sase-jx.5.5.2](../bbugyi200.athena.sase-jx.5.5.2/README.md) | sase-jx.5.5 hood | completed |
-| [sase-jx.5.1](../bbugyi200.athena.sase-jx.5.1/README.md) | sase-jx.5 hood | completed |
-| [sase-jx.5.2](../bbugyi200.athena.sase-jx.5.2/README.md) | sase-jx.5 hood | completed |
-| [sase-jx.5.3](../bbugyi200.athena.sase-jx.5.3/README.md) | sase-jx.5 hood | completed |
-| [sase-jx.5.4](../bbugyi200.athena.sase-jx.5.4/README.md) | sase-jx.5 hood | completed |
-| [sase-jx.5.land](../bbugyi200.athena.sase-jx.5.land/README.md) | sase-jx.5 hood | failed |
-| [sase-jx.1](../bbugyi200.athena.sase-jx.1/README.md) | sase-jx hood | completed |
-| [sase-jx.2](../bbugyi200.athena.sase-jx.2/README.md) | sase-jx hood | completed |
-| [sase-jx.3](../bbugyi200.athena.sase-jx.3/README.md) | sase-jx hood | completed |
-| [sase-jx.4](../bbugyi200.athena.sase-jx.4/README.md) | sase-jx hood | completed |
-| [sase-jx.land](../bbugyi200.athena.sase-jx.land/README.md) | sase-jx hood | failed |
+| [sase-jx.5.5.1](../bbugyi200.athena.sase-jx.5.5.1/README.md) | sase-jx.5.5 hood | dismissed |
+| [sase-jx.5.5.2](../bbugyi200.athena.sase-jx.5.5.2/README.md) | sase-jx.5.5 hood | dismissed |
+| [sase-jx.5.1](../bbugyi200.athena.sase-jx.5.1/README.md) | sase-jx.5 hood | dismissed |
+| [sase-jx.5.2](../bbugyi200.athena.sase-jx.5.2/README.md) | sase-jx.5 hood | dismissed |
+| [sase-jx.5.3](../bbugyi200.athena.sase-jx.5.3/README.md) | sase-jx.5 hood | dismissed |
+| [sase-jx.5.4](../bbugyi200.athena.sase-jx.5.4/README.md) | sase-jx.5 hood | dismissed |
+| [sase-jx.5.land](../bbugyi200.athena.sase-jx.5.land/README.md) | sase-jx.5 hood | dismissed |
+| [sase-jx.1](../bbugyi200.athena.sase-jx.1/README.md) | sase-jx hood | dismissed |
+| [sase-jx.2](../bbugyi200.athena.sase-jx.2/README.md) | sase-jx hood | dismissed |
+| [sase-jx.3](../bbugyi200.athena.sase-jx.3/README.md) | sase-jx hood | dismissed |
+| [sase-jx.4](../bbugyi200.athena.sase-jx.4/README.md) | sase-jx hood | dismissed |
+| [sase-jx.land](../bbugyi200.athena.sase-jx.land/README.md) | sase-jx hood | dismissed |

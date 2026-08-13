@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [yj](../../users/bbugyi200/machines/athena/hoods/yj/README.md) / [yj](../../families/bbugyi200.athena.yj.md) / yj--plan
 
-**Global name:** `bbugyi200.athena.yj--plan` · **State:** completed · **Source run:** `run-bd179b6c226895075146aeb0d3f640f3`
+**Global name:** `bbugyi200.athena.yj--plan` · **State:** dismissed · **Source run:** `run-bd179b6c226895075146aeb0d3f640f3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** yj
 
@@ -10,9 +10,9 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-12T14:38:25.812504+00:00
+- Timing: 2026-08-12T10:38:25.812504 → 2026-08-12T11:47:36.800522
 - Commits: 0
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)

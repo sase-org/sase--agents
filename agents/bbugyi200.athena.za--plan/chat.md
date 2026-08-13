@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** za--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-za__plan-260813_085551.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-za__code-260813_085551.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/fix_just_lint_gates.md
 
 

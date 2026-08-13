@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-kv](../../users/bbugyi200/machines/athena/hoods/sase-kv/README.md) / sase-kv.land
 
-**Global name:** `bbugyi200.athena.sase-kv.land` · **State:** active · **Source run:** `run-514b259218cacd3621775aafc8c16989`
+**Global name:** `bbugyi200.athena.sase-kv.land` · **State:** completed · **Source run:** `run-514b259218cacd3621775aafc8c16989`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-kv
 
@@ -16,7 +16,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -29,6 +29,6 @@
 | [sase-kv.5](../bbugyi200.athena.sase-kv.5/README.md) | sase-kv hood | completed |
 | [sase-kv.5.w0.f0](../bbugyi200.athena.sase-kv.5.w0.f0/README.md) | sase-kv hood | dismissed |
 | [sase-kv.5.w0.w0](../bbugyi200.athena.sase-kv.5.w0.w0/README.md) | sase-kv hood | dismissed |
-| [sase-kv.5.w1](../../families/bbugyi200.athena.sase-kv.5.w1.md) (family · 3) | sase-kv hood | active 1, completed 2 |
-| [sase-kv.5.w1.f0](../bbugyi200.athena.sase-kv.5.w1.f0/README.md) | sase-kv hood | waiting |
-| [sase-kv.5.w1.w0](../bbugyi200.athena.sase-kv.5.w1.w0/README.md) | sase-kv hood | waiting |
+| [sase-kv.5.w1](../../families/bbugyi200.athena.sase-kv.5.w1.md) (family · 3) | sase-kv hood | completed 1, dismissed 1, failed 1 |
+| [sase-kv.5.w1.f0](../bbugyi200.athena.sase-kv.5.w1.f0/README.md) | sase-kv hood | dismissed |
+| [sase-kv.5.w1.w0](../bbugyi200.athena.sase-kv.5.w1.w0/README.md) | sase-kv hood | dismissed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [yz](../../users/bbugyi200/machines/athena/hoods/yz/README.md) / [yz](../../families/bbugyi200.athena.yz.md) / yz--code
 
-**Global name:** `bbugyi200.athena.yz--code` · **State:** active · **Source run:** `run-2af22dc81839681d524ef17e98fcd4b6`
+**Global name:** `bbugyi200.athena.yz--code` · **State:** completed · **Source run:** `run-2af22dc81839681d524ef17e98fcd4b6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** yz
 
@@ -12,6 +12,10 @@
 - Provider: claude
 - Timing: 2026-08-12T21:28:15.615446+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
 
 ## Commits
 

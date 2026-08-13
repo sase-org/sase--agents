@@ -6,6 +6,6 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [nz](../../../../../../agents/bbugyi200.athena.nz/README.md) | active | opus / claude | 2026-07-29T12:06:35.016758+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.nz/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.nz/prompt.md) |
-| [nz.f0--plan](../../../../../../families/bbugyi200.athena.nz.f0.md#member-plan) | active | opus / claude | 2026-07-29T12:21:26.476632+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.nz.f0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.nz.f0--plan/prompt.md) |
+| [nz](../../../../../../agents/bbugyi200.athena.nz/README.md) | active | opus / claude | 2026-07-29T12:06:35.016758+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.nz/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.nz/chat.md) |
+| [nz.f0--plan](../../../../../../families/bbugyi200.athena.nz.f0.md#member-plan) | active | opus / claude | 2026-07-29T12:21:26.476632+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.nz.f0--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.nz.f0--plan/chat.md) |
 | [nz.f0--code](../../../../../../families/bbugyi200.athena.nz.f0.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-29T12:35:50.178375+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.nz.f0--code/chat.md) |

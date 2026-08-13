@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** z3--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-z3__plan-260813_073800.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-z3__code-260813_073800.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/glossary_description_bullets.md
 
 

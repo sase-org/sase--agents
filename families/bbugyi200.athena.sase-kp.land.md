@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-kp` · Members: 3 · Bead: [sase-kp](ht
 ```mermaid
 flowchart TD
   n0["sase-kp.land--code [completed]"]
-  n1["sase-kp.land--mon [active]"]
+  n1["sase-kp.land--mon [failed]"]
   n0 --> n1
   n2["sase-kp.land--plan [completed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-kp.land--code | completed | sonnet / claude | 2026-08-13T11:56:52.543596+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-kp.land--code/chat.md) |
-| <a id="member-mon"></a>mon | sase-kp.land--mon | active | sonnet / claude | 2026-08-13T12:31:12.420140+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-kp.land--mon | failed | sonnet / claude | 2026-08-13T12:31:12.420140+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-kp.land--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-kp.land--plan | completed | opus / claude | 2026-08-13T11:38:13.195673+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-kp.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-kp.land--plan/chat.md) |
 
 ## Neighbors

@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** zk--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-zk__plan-260813_104044.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-zk__code-260813_104044.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/queue_duration_timezone_fix.md
 
 

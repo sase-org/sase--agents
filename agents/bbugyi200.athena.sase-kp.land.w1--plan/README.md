@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-kp.land](../../families/bbugyi200.athena.sase-kp.land.md) (family · 3) | ancestor | active 1, completed 2 |
+| [sase-kp.land](../../families/bbugyi200.athena.sase-kp.land.md) (family · 3) | ancestor | completed 2, failed 1 |
 | [sase-kp.land.w0](../bbugyi200.athena.sase-kp.land.w0/README.md) | sase-kp.land hood | dismissed |
 | [sase-kp.land.w0.r0](../bbugyi200.athena.sase-kp.land.w0.r0/README.md) | sase-kp.land hood | dismissed |
 | [sase-kp.1](../bbugyi200.athena.sase-kp.1/README.md) | sase-kp hood | completed |

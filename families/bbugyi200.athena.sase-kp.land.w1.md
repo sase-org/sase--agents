@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-kp.land](bbugyi200.athena.sase-kp.land.md) (family · 3) | ancestor | active 1, completed 2 |
+| [sase-kp.land](bbugyi200.athena.sase-kp.land.md) (family · 3) | ancestor | completed 2, failed 1 |
 | [sase-kp.land.w0](../agents/bbugyi200.athena.sase-kp.land.w0/README.md) | sase-kp.land hood | dismissed |
 | [sase-kp.land.w0.r0](../agents/bbugyi200.athena.sase-kp.land.w0.r0/README.md) | sase-kp.land hood | dismissed |
 | [sase-kp.1](../agents/bbugyi200.athena.sase-kp.1/README.md) | sase-kp hood | completed |
