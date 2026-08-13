@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b59de70c5209e4d6ae1824b38b6ffa62"}
+{"commits":[{"committed_at":1786621495,"sha":"1928bd79866ce20998634c5707daddf86bde3aa1","subject":"fix(ace): omit missing tribe description hint"}],"schema_version":2,"source_run_id":"run-b59de70c5209e4d6ae1824b38b6ffa62"}

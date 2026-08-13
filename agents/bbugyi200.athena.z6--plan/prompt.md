@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The "Files" sub-tab of the "Artifacts" tab has the `4` keymap / index assigned to it, but is sorted after the sidecar/artifact repo sub-tabs, which have numbers assigned to them that are >4 (see #sshot). Can you help me fix this by always giving the "Files" sub-tab the highest numeric keymap / index? #plan #m_opus

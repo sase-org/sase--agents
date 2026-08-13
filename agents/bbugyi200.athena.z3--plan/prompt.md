@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We recently migrated the glossary memory from a short-term memory to a long-term memory. Can you now help me start listing each glossary term (with its corresponding aliases) in its own bullet (ex: `Sase Repo (aka repo)`) in the description that gets rendered in agent instruction files? #plan #m_opus
