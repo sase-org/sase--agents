@@ -7,4 +7,4 @@
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [z3--code](../../../../../../families/bbugyi200.athena.z3.md#member-code) | completed | gpt-5.5 / codex | 2026-08-13T11:46:27.381078+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.z3--code/chat.md) |
-| [z3--plan](../../../../../../families/bbugyi200.athena.z3.md#member-plan) | completed | opus / claude | 2026-08-13T11:38:10.283313+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.z3--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.z3--plan/chat.md) |
+| [z3--plan](../../../../../../families/bbugyi200.athena.z3.md#member-plan) | completed | opus / claude | 2026-08-13T11:38:10.283313+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.z3--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.z3--plan/prompt.md) |

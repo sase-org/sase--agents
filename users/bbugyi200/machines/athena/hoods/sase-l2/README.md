@@ -6,7 +6,7 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-l2.1](../../../../../../agents/bbugyi200.athena.sase-l2.1/README.md) | completed | sonnet / claude | 2026-08-13T18:15:31.994884+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-l2.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-l2.1/chat.md) |
+| [sase-l2.1](../../../../../../agents/bbugyi200.athena.sase-l2.1/README.md) | completed | sonnet / claude | 2026-08-13T18:15:31.994884+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-l2.1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-l2.1/prompt.md) |
 | [sase-l2.land](../../../../../../agents/bbugyi200.athena.sase-l2.land/README.md) | active | opus / claude | 2026-08-13T19:09:38.968548+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-l2.land/prompt.md) |
-| [sase-l2.3](../../../../../../agents/bbugyi200.athena.sase-l2.3/README.md) | completed | gpt-5.5 / codex | 2026-08-13T18:56:48.659404+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-l2.3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-l2.3/chat.md) |
-| [sase-l2.2](../../../../../../agents/bbugyi200.athena.sase-l2.2/README.md) | completed | sonnet / claude | 2026-08-13T18:35:52.490079+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-l2.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-l2.2/chat.md) |
+| [sase-l2.3](../../../../../../agents/bbugyi200.athena.sase-l2.3/README.md) | completed | gpt-5.5 / codex | 2026-08-13T18:56:48.659404+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-l2.3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-l2.3/prompt.md) |
+| [sase-l2.2](../../../../../../agents/bbugyi200.athena.sase-l2.2/README.md) | completed | sonnet / claude | 2026-08-13T18:35:52.490079+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-l2.2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-l2.2/prompt.md) |
