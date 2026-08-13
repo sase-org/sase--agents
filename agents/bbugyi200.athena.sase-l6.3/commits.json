@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-be5055fff4de35a09a96abb85e1bf29f"}
+{"commits":[{"committed_at":1786654501,"sha":"932277b2691a35c3f2a5dee2257b205679585d13","subject":"refactor(ace): split detail-header summary into per-lane resolution and caching"}],"schema_version":2,"source_run_id":"run-be5055fff4de35a09a96abb85e1bf29f"}
