@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-dd5841ac1da28c7a625a32e5601064e6"}
+{"commits":[{"committed_at":1786659100,"sha":"2e2facb945fb9a9461b14ff2788525b41764fbc7","subject":"fix: release monitor handoff waits after successor success"}],"schema_version":2,"source_run_id":"run-dd5841ac1da28c7a625a32e5601064e6"}

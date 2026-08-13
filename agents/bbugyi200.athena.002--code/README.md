@@ -11,4 +11,10 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-13T21:50:59.552463+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`2e2facb`](https://github.com/sase-org/sase/commit/2e2facb945fb9a9461b14ff2788525b41764fbc7) | fix: release monitor handoff waits after successor success | 2026-08-13 18:11:40 EDT |
