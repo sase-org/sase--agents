@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-kz](../../users/bbugyi200/machines/athena/hoods/sase-kz/README.md) / sase-kz.8
 
-**Global name:** `bbugyi200.athena.sase-kz.8` · **State:** waiting · **Source run:** `run-d608f0390e0717287b2562b36eec71af`
+**Global name:** `bbugyi200.athena.sase-kz.8` · **State:** active · **Source run:** `run-d608f0390e0717287b2562b36eec71af`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-kz
 
@@ -12,12 +12,18 @@
 - Epic: [sase-kz](https://github.com/sase-org/sase--beads/blob/main/pages/sase-kz/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 20260813123339
-- Commits: 0
+- Timing: 2026-08-13T19:37:21.451307+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`026de34`](https://github.com/sase-org/sase/commit/026de34f6b312a8be4244281facc74b295791faf) | build(deps): require sase-core-rs 0.26.10 | 2026-08-13 15:53:18 EDT |
 
 ## Neighbors
 
@@ -28,6 +34,6 @@
 | [sase-kz.3](../bbugyi200.athena.sase-kz.3/README.md) | sase-kz hood | completed |
 | [sase-kz.4](../bbugyi200.athena.sase-kz.4/README.md) | sase-kz hood | completed |
 | [sase-kz.5](../bbugyi200.athena.sase-kz.5/README.md) | sase-kz hood | completed |
-| [sase-kz.6](../bbugyi200.athena.sase-kz.6/README.md) | sase-kz hood | active |
-| [sase-kz.7](../bbugyi200.athena.sase-kz.7/README.md) | sase-kz hood | active |
+| [sase-kz.6](../bbugyi200.athena.sase-kz.6/README.md) | sase-kz hood | completed |
+| [sase-kz.7](../bbugyi200.athena.sase-kz.7/README.md) | sase-kz hood | dismissed |
 | [sase-kz.land](../bbugyi200.athena.sase-kz.land/README.md) | sase-kz hood | waiting |
