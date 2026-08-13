@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-kz](../../users/bbugyi200/machines/athena/hoods/sase-kz/README.md) / sase-kz.2
 
-**Global name:** `bbugyi200.athena.sase-kz.2` · **State:** active · **Source run:** `run-15b158548f46e731b11357a9ee8a7f50`
+**Global name:** `bbugyi200.athena.sase-kz.2` · **State:** completed · **Source run:** `run-15b158548f46e731b11357a9ee8a7f50`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-kz
 
@@ -17,14 +17,14 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-kz.1](../bbugyi200.athena.sase-kz.1/README.md) | sase-kz hood | completed |
-| [sase-kz.3](../bbugyi200.athena.sase-kz.3/README.md) | sase-kz hood | waiting |
+| [sase-kz.3](../bbugyi200.athena.sase-kz.3/README.md) | sase-kz hood | active |
 | [sase-kz.4](../bbugyi200.athena.sase-kz.4/README.md) | sase-kz hood | waiting |
 | [sase-kz.5](../bbugyi200.athena.sase-kz.5/README.md) | sase-kz hood | waiting |
 | [sase-kz.6](../bbugyi200.athena.sase-kz.6/README.md) | sase-kz hood | waiting |

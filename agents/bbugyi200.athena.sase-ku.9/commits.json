@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e59b16d355498251f4863a14a5a86d90"}
+{"commits":[{"committed_at":1786641391,"sha":"a7433cfe70a450efeba5bb7a056be586ef978ef4","subject":"fix(monitor): document hardened supervision behavior"}],"schema_version":2,"source_run_id":"run-e59b16d355498251f4863a14a5a86d90"}
