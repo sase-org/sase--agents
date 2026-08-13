@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [zs](../../users/bbugyi200/machines/athena/hoods/zs/README.md) / [zs](../../families/bbugyi200.athena.zs.md) / zs--plan
 
-**Global name:** `bbugyi200.athena.zs--plan` · **State:** active · **Source run:** `run-d4fcdaa2aab690d0569c918551f1fb29`
+**Global name:** `bbugyi200.athena.zs--plan` · **State:** completed · **Source run:** `run-d4fcdaa2aab690d0569c918551f1fb29`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** zs
 

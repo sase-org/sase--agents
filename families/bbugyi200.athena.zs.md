@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `zs` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["zs--code [active]"]
-  n1["zs--plan [active]"]
+  n0["zs--code [completed]"]
+  n1["zs--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | zs--code | active | gpt-5.5 / codex | 2026-08-13T17:46:00.660962+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | zs--plan | active | opus / claude | 2026-08-13T17:36:34.962487+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.zs--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.zs--plan/chat.md) |
+| <a id="member-code"></a>code | zs--code | completed | gpt-5.5 / codex | 2026-08-13T17:46:00.660962+00:00 | [1](../agents/bbugyi200.athena.zs--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.zs--code/chat.md) |
+| <a id="member-plan"></a>plan | zs--plan | completed | opus / claude | 2026-08-13T17:36:34.962487+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.zs--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.zs--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`0623414`](https://github.com/sase-org/sase/commit/0623414e3b4226b26f587d94fd6bbbd8d66df4d7) | feat(tui): add wait modal field navigation | 2026-08-13 13:57:58 EDT |

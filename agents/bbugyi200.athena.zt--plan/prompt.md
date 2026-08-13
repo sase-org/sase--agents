@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase I just uninstalled the sase-research plugin from sase and then renamed the GitHub repo to sase-research-artifacts. I'm sure there's more work to do before I can call this done. Can you do some research into this and finish this repo rename? For example, we shouldn't need to warn users/agents about the similarity between the name of this repo and the `sase--research` repo anymore.
+
+#plan
