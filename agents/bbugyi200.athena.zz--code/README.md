@@ -11,4 +11,10 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-13T20:25:34.528898+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c593585`](https://github.com/sase-org/sase/commit/c5935856a2a4898b7beb7f85c8f804da959d6c79) | fix(monitor): make monitors notification-neutral | 2026-08-13 16:43:01 EDT |

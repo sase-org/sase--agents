@@ -18,4 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | zz--plan | active | opus / claude | 2026-08-13T20:19:01.498613+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.zz--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.zz--plan/chat.md) |
-| <a id="member-code"></a>code | zz--code | active | sonnet / claude | 2026-08-13T20:25:34.528898+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | zz--code | active | sonnet / claude | 2026-08-13T20:25:34.528898+00:00 | [1](../agents/bbugyi200.athena.zz--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`c593585`](https://github.com/sase-org/sase/commit/c5935856a2a4898b7beb7f85c8f804da959d6c79) | fix(monitor): make monitors notification-neutral | 2026-08-13 16:43:01 EDT |
