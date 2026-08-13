@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-kp](../../users/bbugyi200/machines/athena/hoods/sase-kp/README.md) / sase-kp.11
 
-**Global name:** `bbugyi200.athena.sase-kp.11` · **State:** waiting · **Source run:** `run-3e6787cfd23523506868afdf72749c39`
+**Global name:** `bbugyi200.athena.sase-kp.11` · **State:** waiting · **Source run:** `run-82c628178a44f74fd29d54f0d87d8b9c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-kp
 
@@ -12,7 +12,7 @@
 - Epic: [sase-kp](https://github.com/sase-org/sase--beads/blob/main/pages/sase-kp/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 20260812173422
+- Timing: 20260813054530
 - Commits: 0
 
 ## Files
@@ -31,7 +31,7 @@
 | [sase-kp.4](../bbugyi200.athena.sase-kp.4/README.md) | sase-kp hood | completed |
 | [sase-kp.5](../bbugyi200.athena.sase-kp.5/README.md) | sase-kp hood | completed |
 | [sase-kp.6](../bbugyi200.athena.sase-kp.6/README.md) | sase-kp hood | active |
-| [sase-kp.7](../bbugyi200.athena.sase-kp.7/README.md) | sase-kp hood | active |
+| [sase-kp.7](../bbugyi200.athena.sase-kp.7/README.md) | sase-kp hood | completed |
 | [sase-kp.8](../bbugyi200.athena.sase-kp.8/README.md) | sase-kp hood | waiting |
 | [sase-kp.9](../bbugyi200.athena.sase-kp.9/README.md) | sase-kp hood | waiting |
 | [sase-kp.land](../bbugyi200.athena.sase-kp.land/README.md) | sase-kp hood | waiting |

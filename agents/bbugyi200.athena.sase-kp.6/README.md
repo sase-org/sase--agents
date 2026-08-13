@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-kp](../../users/bbugyi200/machines/athena/hoods/sase-kp/README.md) / sase-kp.6
 
-**Global name:** `bbugyi200.athena.sase-kp.6` · **State:** active · **Source run:** `run-fd5907091403060dca82154daa3e624a`
+**Global name:** `bbugyi200.athena.sase-kp.6` · **State:** active · **Source run:** `run-44d0eec521b86c239bf0598826ff8864`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-kp
 
@@ -12,12 +12,18 @@
 - Epic: [sase-kp](https://github.com/sase-org/sase--beads/blob/main/pages/sase-kp/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-12T23:59:06.663371+00:00
-- Commits: 0
+- Timing: 2026-08-13T09:45:42.747620+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8340b45`](https://github.com/sase-org/sase/commit/8340b457af2d9b6f3f8348bdf8057ab41077c9ef) | feat(monitor): add sase monitor start\|stop\|list\|show CLI | 2026-08-13 06:36:37 EDT |
 
 ## Neighbors
 
@@ -31,7 +37,7 @@
 | [sase-kp.3](../bbugyi200.athena.sase-kp.3/README.md) | sase-kp hood | completed |
 | [sase-kp.4](../bbugyi200.athena.sase-kp.4/README.md) | sase-kp hood | completed |
 | [sase-kp.5](../bbugyi200.athena.sase-kp.5/README.md) | sase-kp hood | completed |
-| [sase-kp.7](../bbugyi200.athena.sase-kp.7/README.md) | sase-kp hood | active |
+| [sase-kp.7](../bbugyi200.athena.sase-kp.7/README.md) | sase-kp hood | completed |
 | [sase-kp.8](../bbugyi200.athena.sase-kp.8/README.md) | sase-kp hood | waiting |
 | [sase-kp.9](../bbugyi200.athena.sase-kp.9/README.md) | sase-kp hood | waiting |
 | [sase-kp.land](../bbugyi200.athena.sase-kp.land/README.md) | sase-kp hood | waiting |

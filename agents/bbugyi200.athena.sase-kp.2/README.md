@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-12T21:34:33.719687+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9bfdaed`](https://github.com/sase-org/sase/commit/9bfdaedd4561b38e8522f716ac4e11c19cdf5d13) | feat(agent): honor custom status bucket overrides | 2026-08-12 18:15:00 EDT |
 
 ## Neighbors
 
@@ -31,7 +37,7 @@
 | [sase-kp.4](../bbugyi200.athena.sase-kp.4/README.md) | sase-kp hood | completed |
 | [sase-kp.5](../bbugyi200.athena.sase-kp.5/README.md) | sase-kp hood | completed |
 | [sase-kp.6](../bbugyi200.athena.sase-kp.6/README.md) | sase-kp hood | active |
-| [sase-kp.7](../bbugyi200.athena.sase-kp.7/README.md) | sase-kp hood | active |
+| [sase-kp.7](../bbugyi200.athena.sase-kp.7/README.md) | sase-kp hood | completed |
 | [sase-kp.8](../bbugyi200.athena.sase-kp.8/README.md) | sase-kp hood | waiting |
 | [sase-kp.9](../bbugyi200.athena.sase-kp.9/README.md) | sase-kp hood | waiting |
 | [sase-kp.land](../bbugyi200.athena.sase-kp.land/README.md) | sase-kp hood | waiting |
