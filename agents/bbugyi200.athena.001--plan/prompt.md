@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make the `R` keymap in the notifications panel only mark the current tab's notifications as read, instead of all notifications? #plan

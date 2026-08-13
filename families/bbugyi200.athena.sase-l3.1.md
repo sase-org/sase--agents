@@ -33,11 +33,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-l3.2](../agents/bbugyi200.athena.sase-l3.2/README.md) | sase-l3 hood | active |
-| [sase-l3.3](../agents/bbugyi200.athena.sase-l3.3/README.md) | sase-l3 hood | waiting |
-| [sase-l3.4](../agents/bbugyi200.athena.sase-l3.4/README.md) | sase-l3 hood | waiting |
-| [sase-l3.5](../agents/bbugyi200.athena.sase-l3.5/README.md) | sase-l3 hood | waiting |
-| [sase-l3.6](../agents/bbugyi200.athena.sase-l3.6/README.md) | sase-l3 hood | waiting |
+| [sase-l3.2](../agents/bbugyi200.athena.sase-l3.2/README.md) | sase-l3 hood | completed |
+| [sase-l3.3](../agents/bbugyi200.athena.sase-l3.3/README.md) | sase-l3 hood | completed |
+| [sase-l3.4](../agents/bbugyi200.athena.sase-l3.4/README.md) | sase-l3 hood | active |
+| [sase-l3.5](../agents/bbugyi200.athena.sase-l3.5/README.md) | sase-l3 hood | active |
+| [sase-l3.6](../agents/bbugyi200.athena.sase-l3.6/README.md) | sase-l3 hood | active |
 | [sase-l3.7](../agents/bbugyi200.athena.sase-l3.7/README.md) | sase-l3 hood | waiting |
 | [sase-l3.8](../agents/bbugyi200.athena.sase-l3.8/README.md) | sase-l3 hood | waiting |
 | [sase-l3.land](../agents/bbugyi200.athena.sase-l3.land/README.md) | sase-l3 hood | waiting |
