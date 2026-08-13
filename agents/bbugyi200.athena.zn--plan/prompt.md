@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start prefixing every section header title in agent instruction files with the appropriate number like we currently do for the short-term memory file sections that we generate (the numbers used for that section should be updated appropriately)? #plan #m_opus
