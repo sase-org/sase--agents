@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make sure that the recent commit I made to the sase-research-artifacts repo to add the `wait` input argument will actually work the way I think it will using the `#research_swarm(wait=research.0f.final)::` syntax? #if_not_plan

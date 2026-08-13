@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / athena
 
-**Project:** sase · **Hoods:** 1605 · **Runs:** 6488
+**Project:** sase · **Hoods:** 1606 · **Runs:** 6495
 
 | Hood | Runs | Families | States |
 |---|---:|---:|---|
@@ -11,6 +11,7 @@
 | [001](hoods/001/README.md) | 4 | 1 | completed 3, waiting 1 |
 | [002](hoods/002/README.md) | 4 | 1 | active 3, completed 1 |
 | [003](hoods/003/README.md) | 3 | 1 | active 2, completed 1 |
+| [004](hoods/004/README.md) | 3 | 1 | completed 2, failed 1 |
 | [007](hoods/007/README.md) | 1 | 0 | completed 1 |
 | [008](hoods/008/README.md) | 1 | 0 | completed 1 |
 | [00a](hoods/00a/README.md) | 1 | 0 | completed 1 |
@@ -954,7 +955,7 @@
 | [rc](hoods/rc/README.md) | 3 | 1 | active 2, completed 1 |
 | [rd](hoods/rd/README.md) | 1 | 0 | active 1 |
 | [refresh\_docs](hoods/refresh_docs/README.md) | 64 | 0 | active 14, completed 48, waiting 2 |
-| [research](hoods/research/README.md) | 324 | 6 | active 149, completed 120, dismissed 44, failed 1, waiting 10 |
+| [research](hoods/research/README.md) | 328 | 6 | active 149, completed 122, dismissed 44, failed 1, waiting 12 |
 | [research\_swarm](hoods/research_swarm/README.md) | 45 | 0 | completed 45 |
 | [rf](hoods/rf/README.md) | 2 | 1 | active 1, completed 1 |
 | [rg](hoods/rg/README.md) | 2 | 1 | active 1, completed 1 |
