@@ -39,5 +39,5 @@
 | [sase-kp.5](../bbugyi200.athena.sase-kp.5/README.md) | sase-kp hood | completed |
 | [sase-kp.6](../bbugyi200.athena.sase-kp.6/README.md) | sase-kp hood | completed |
 | [sase-kp.8](../bbugyi200.athena.sase-kp.8/README.md) | sase-kp hood | active |
-| [sase-kp.9](../bbugyi200.athena.sase-kp.9/README.md) | sase-kp hood | active |
+| [sase-kp.9](../bbugyi200.athena.sase-kp.9/README.md) | sase-kp hood | completed |
 | [sase-kp.land](../bbugyi200.athena.sase-kp.land/README.md) | sase-kp hood | waiting |
