@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-kz](../../users/bbugyi200/machines/athena/hoods/sase-kz/README.md) / sase-kz.8
 
-**Global name:** `bbugyi200.athena.sase-kz.8` · **State:** active · **Source run:** `run-d608f0390e0717287b2562b36eec71af`
+**Global name:** `bbugyi200.athena.sase-kz.8` · **State:** completed · **Source run:** `run-d608f0390e0717287b2562b36eec71af`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-kz
 
@@ -17,7 +17,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -36,4 +36,4 @@
 | [sase-kz.5](../bbugyi200.athena.sase-kz.5/README.md) | sase-kz hood | completed |
 | [sase-kz.6](../bbugyi200.athena.sase-kz.6/README.md) | sase-kz hood | completed |
 | [sase-kz.7](../bbugyi200.athena.sase-kz.7/README.md) | sase-kz hood | dismissed |
-| [sase-kz.land](../bbugyi200.athena.sase-kz.land/README.md) | sase-kz hood | waiting |
+| [sase-kz.land](../bbugyi200.athena.sase-kz.land/README.md) | sase-kz hood | active |

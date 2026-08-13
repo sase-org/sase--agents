@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-13T19:04:29.264901+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`53c87b7`](https://github.com/sase-org/sase/commit/53c87b7585ed872e05ee125b74b65bf71dd6270e) | fix: make snippet expansion session policy explicit | 2026-08-13 15:35:37 EDT |
 
 ## Neighbors
 
@@ -29,5 +35,5 @@
 | [sase-kz.4](../bbugyi200.athena.sase-kz.4/README.md) | sase-kz hood | completed |
 | [sase-kz.5](../bbugyi200.athena.sase-kz.5/README.md) | sase-kz hood | completed |
 | [sase-kz.7](../bbugyi200.athena.sase-kz.7/README.md) | sase-kz hood | dismissed |
-| [sase-kz.8](../bbugyi200.athena.sase-kz.8/README.md) | sase-kz hood | active |
-| [sase-kz.land](../bbugyi200.athena.sase-kz.land/README.md) | sase-kz hood | waiting |
+| [sase-kz.8](../bbugyi200.athena.sase-kz.8/README.md) | sase-kz hood | completed |
+| [sase-kz.land](../bbugyi200.athena.sase-kz.land/README.md) | sase-kz hood | active |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-96447f6048733c585921b30729d58d34"}
+{"commits":[{"committed_at":1786649737,"sha":"53c87b7585ed872e05ee125b74b65bf71dd6270e","subject":"fix: make snippet expansion session policy explicit"}],"schema_version":2,"source_run_id":"run-96447f6048733c585921b30729d58d34"}

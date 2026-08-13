@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5c8b334bbdc0001ece15ac3007b49569"}
+{"commits":[{"committed_at":1786652755,"sha":"36d6dc8dd86551664fc2b8411376403f5c77fdd2","subject":"test(ace): assert retreat is unavailable after a snippet session ends"}],"schema_version":2,"source_run_id":"run-5c8b334bbdc0001ece15ac3007b49569"}
