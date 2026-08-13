@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ku](../../users/bbugyi200/machines/athena/hoods/sase-ku/README.md) / sase-ku.7
 
-**Global name:** `bbugyi200.athena.sase-ku.7` · **State:** active · **Source run:** `run-d0475d01eda5a48fffe93ec846fe71aa`
+**Global name:** `bbugyi200.athena.sase-ku.7` · **State:** completed · **Source run:** `run-d0475d01eda5a48fffe93ec846fe71aa`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ku
 
@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-13T13:33:02.924014+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9566a13`](https://github.com/sase-org/sase/commit/9566a13113e3d96461a075805ca4ad4f964ec782) | feat(monitor): fence untrusted output in follow-up prompts and carry starter routing | 2026-08-13 10:05:41 EDT |
 
 ## Neighbors
 

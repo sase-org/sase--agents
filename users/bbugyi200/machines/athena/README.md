@@ -1323,7 +1323,7 @@
 | [sase-k3](hoods/sase-k3/README.md) | 7 | 0 | active 1, completed 6 |
 | [sase-ko](hoods/sase-ko/README.md) | 5 | 0 | active 1, completed 3, waiting 1 |
 | [sase-kp](hoods/sase-kp/README.md) | 19 | 2 | active 1, completed 14, dismissed 2, failed 2 |
-| [sase-ku](hoods/sase-ku/README.md) | 11 | 0 | active 2, completed 3, waiting 6 |
+| [sase-ku](hoods/sase-ku/README.md) | 11 | 0 | active 1, completed 4, waiting 6 |
 | [sase-kv](hoods/sase-kv/README.md) | 7 | 0 | active 1, completed 3, waiting 3 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |
@@ -1584,6 +1584,6 @@
 | [z3](hoods/z3/README.md) | 2 | 1 | active 2 |
 | [z6](hoods/z6/README.md) | 5 | 2 | completed 2, dismissed 1, failed 2 |
 | [z7](hoods/z7/README.md) | 2 | 1 | active 2 |
-| [z9](hoods/z9/README.md) | 2 | 1 | active 2 |
+| [z9](hoods/z9/README.md) | 2 | 1 | completed 2 |
 | [za](hoods/za/README.md) | 2 | 1 | active 2 |
 | [zd](hoods/zd/README.md) | 1 | 0 | active 1 |

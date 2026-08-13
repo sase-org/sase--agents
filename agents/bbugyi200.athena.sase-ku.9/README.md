@@ -30,6 +30,6 @@
 | [sase-ku.4](../bbugyi200.athena.sase-ku.4/README.md) | sase-ku hood | waiting |
 | [sase-ku.5](../bbugyi200.athena.sase-ku.5/README.md) | sase-ku hood | waiting |
 | [sase-ku.6](../bbugyi200.athena.sase-ku.6/README.md) | sase-ku hood | completed |
-| [sase-ku.7](../bbugyi200.athena.sase-ku.7/README.md) | sase-ku hood | active |
+| [sase-ku.7](../bbugyi200.athena.sase-ku.7/README.md) | sase-ku hood | completed |
 | [sase-ku.8](../bbugyi200.athena.sase-ku.8/README.md) | sase-ku hood | waiting |
 | [sase-ku.land](../bbugyi200.athena.sase-ku.land/README.md) | sase-ku hood | waiting |

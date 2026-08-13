@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** z9--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-z9__plan-260813_085340.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-z9__code-260813_085340.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/document_ref_expansion_format.md
 
 
