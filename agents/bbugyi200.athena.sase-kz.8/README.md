@@ -26,8 +26,8 @@
 | [sase-kz.1](../bbugyi200.athena.sase-kz.1/README.md) | sase-kz hood | completed |
 | [sase-kz.2](../bbugyi200.athena.sase-kz.2/README.md) | sase-kz hood | completed |
 | [sase-kz.3](../bbugyi200.athena.sase-kz.3/README.md) | sase-kz hood | completed |
-| [sase-kz.4](../bbugyi200.athena.sase-kz.4/README.md) | sase-kz hood | active |
-| [sase-kz.5](../bbugyi200.athena.sase-kz.5/README.md) | sase-kz hood | waiting |
+| [sase-kz.4](../bbugyi200.athena.sase-kz.4/README.md) | sase-kz hood | completed |
+| [sase-kz.5](../bbugyi200.athena.sase-kz.5/README.md) | sase-kz hood | active |
 | [sase-kz.6](../bbugyi200.athena.sase-kz.6/README.md) | sase-kz hood | waiting |
 | [sase-kz.7](../bbugyi200.athena.sase-kz.7/README.md) | sase-kz hood | waiting |
 | [sase-kz.land](../bbugyi200.athena.sase-kz.land/README.md) | sase-kz hood | waiting |
