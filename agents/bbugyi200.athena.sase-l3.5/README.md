@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-13T21:34:20.849542+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`d9c685e`](https://github.com/sase-org/sase/commit/d9c685e86b808e481bb826e24ac7f0f27e91baa0) | feat: polish Grok provider presentation | 2026-08-13 18:17:52 EDT |
 
 ## Neighbors
 
@@ -27,7 +33,7 @@
 | [sase-l3.2](../bbugyi200.athena.sase-l3.2/README.md) | sase-l3 hood | completed |
 | [sase-l3.3](../bbugyi200.athena.sase-l3.3/README.md) | sase-l3 hood | completed |
 | [sase-l3.4](../bbugyi200.athena.sase-l3.4/README.md) | sase-l3 hood | completed |
-| [sase-l3.6](../bbugyi200.athena.sase-l3.6/README.md) | sase-l3 hood | active |
+| [sase-l3.6](../bbugyi200.athena.sase-l3.6/README.md) | sase-l3 hood | completed |
 | [sase-l3.7](../bbugyi200.athena.sase-l3.7/README.md) | sase-l3 hood | waiting |
 | [sase-l3.8](../bbugyi200.athena.sase-l3.8/README.md) | sase-l3 hood | waiting |
 | [sase-l3.land](../bbugyi200.athena.sase-l3.land/README.md) | sase-l3 hood | waiting |
