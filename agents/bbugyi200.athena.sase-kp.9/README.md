@@ -40,4 +40,7 @@
 | [sase-kp.6](../bbugyi200.athena.sase-kp.6/README.md) | sase-kp hood | completed |
 | [sase-kp.7](../bbugyi200.athena.sase-kp.7/README.md) | sase-kp hood | completed |
 | [sase-kp.8](../bbugyi200.athena.sase-kp.8/README.md) | sase-kp hood | completed |
-| [sase-kp.land](../../families/bbugyi200.athena.sase-kp.land.md) (family · 2) | sase-kp hood | active 2 |
+| [sase-kp.land](../../families/bbugyi200.athena.sase-kp.land.md) (family · 3) | sase-kp hood | active 1, completed 2 |
+| [sase-kp.land.w0](../bbugyi200.athena.sase-kp.land.w0/README.md) | sase-kp hood | dismissed |
+| [sase-kp.land.w0.r0](../bbugyi200.athena.sase-kp.land.w0.r0/README.md) | sase-kp hood | dismissed |
+| [sase-kp.land.w1](../../families/bbugyi200.athena.sase-kp.land.w1.md) (family · 2) | sase-kp hood | failed 2 |

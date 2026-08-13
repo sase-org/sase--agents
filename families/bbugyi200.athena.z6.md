@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `z6` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["z6--plan [active]"]
-  n1["z6--code [active]"]
+  n0["z6--plan [completed]"]
+  n1["z6--code [completed]"]
   n0 --> n1
 ```
 
@@ -17,11 +17,18 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | z6--plan | active | opus / claude | 2026-08-13T12:08:57.352945+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.z6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.z6--plan/chat.md) |
-| <a id="member-code"></a>code | z6--code | active | sonnet / claude | 2026-08-13T12:15:48.200672+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | z6--plan | completed | opus / claude | 2026-08-13T12:08:57.352945+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.z6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.z6--plan/chat.md) |
+| <a id="member-code"></a>code | z6--code | completed | sonnet / claude | 2026-08-13T12:15:48.200672+00:00 | [1](../agents/bbugyi200.athena.z6--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.z6--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`d04e8cf`](https://github.com/sase-org/sase/commit/d04e8cfcccef858fe526b50a56eba55e7d8faecd) | feat(ace): number Artifacts sub-tabs by visual order, Files highest | 2026-08-13 09:03:54 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [z6.f0](../agents/bbugyi200.athena.z6.f0/README.md) | descendant | waiting |
+| [z6.f0](../agents/bbugyi200.athena.z6.f0/README.md) | descendant | dismissed |
+| [z6.f2](bbugyi200.athena.z6.f2.md) (family · 2) | descendant | failed 2 |

@@ -2,28 +2,34 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-kp](../users/bbugyi200/machines/athena/hoods/sase-kp/README.md) / sase-kp.land
 
-Owner: `bbugyi200.athena` · Hood: `sase-kp` · Members: 2 · Bead: [sase-kp](https://github.com/sase-org/sase--beads/blob/main/pages/sase-kp/README.md)
+Owner: `bbugyi200.athena` · Hood: `sase-kp` · Members: 3 · Bead: [sase-kp](https://github.com/sase-org/sase--beads/blob/main/pages/sase-kp/README.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-kp.land--code [active]"]
-  n1["sase-kp.land--plan [active]"]
+  n0["sase-kp.land--code [completed]"]
+  n1["sase-kp.land--mon [active]"]
   n0 --> n1
+  n2["sase-kp.land--plan [completed]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-kp.land--code | active | sonnet / claude | 2026-08-13T11:56:52.543596+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-kp.land--plan | active | opus / claude | 2026-08-13T11:38:13.195673+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-kp.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-kp.land--plan/chat.md) |
+| <a id="member-code"></a>code | sase-kp.land--code | completed | sonnet / claude | 2026-08-13T11:56:52.543596+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-kp.land--code/chat.md) |
+| <a id="member-mon"></a>mon | sase-kp.land--mon | active | sonnet / claude | 2026-08-13T12:31:12.420140+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-kp.land--plan | completed | opus / claude | 2026-08-13T11:38:13.195673+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-kp.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-kp.land--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [sase-kp.land.w0](../agents/bbugyi200.athena.sase-kp.land.w0/README.md) | descendant | dismissed |
+| [sase-kp.land.w0.r0](../agents/bbugyi200.athena.sase-kp.land.w0.r0/README.md) | descendant | dismissed |
+| [sase-kp.land.w1](bbugyi200.athena.sase-kp.land.w1.md) (family · 2) | descendant | failed 2 |
 | [sase-kp.1](../agents/bbugyi200.athena.sase-kp.1/README.md) | sase-kp hood | completed |
 | [sase-kp.10](../agents/bbugyi200.athena.sase-kp.10/README.md) | sase-kp hood | completed |
 | [sase-kp.11](../agents/bbugyi200.athena.sase-kp.11/README.md) | sase-kp hood | completed |

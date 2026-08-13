@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase The `sase-kp.land.w0.r0` sase agent (see #sshot) just failed to launch. This agent used the `@research` artifact ref in its prompt, which I think is what caused the problem. Can you help me fix this? Also, simplify the research sidecar repo's ref expansion, so `@research:202608/artifacts_pane_contract/artifacts_pane_contract.md` expands to `the 202608/artifacts_pane_contract/artifacts_pane_contract.md file in the research sidecar repo`?
+
+#plan #m_opus

@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** z6--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-z6__plan-260813_080848.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-z6__code-260813_080848.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/artifacts_files_highest_digit.md
 
 

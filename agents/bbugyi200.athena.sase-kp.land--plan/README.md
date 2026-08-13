@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-kp](../../users/bbugyi200/machines/athena/hoods/sase-kp/README.md) / [sase-kp.land](../../families/bbugyi200.athena.sase-kp.land.md) / sase-kp.land--plan
 
-**Global name:** `bbugyi200.athena.sase-kp.land--plan` · **State:** active · **Source run:** `run-7c69851b9522ae87ca8960cde2d0c89e`
+**Global name:** `bbugyi200.athena.sase-kp.land--plan` · **State:** completed · **Source run:** `run-7c69851b9522ae87ca8960cde2d0c89e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-kp
 
@@ -22,6 +22,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
+| [sase-kp.land.w0](../bbugyi200.athena.sase-kp.land.w0/README.md) | descendant | dismissed |
+| [sase-kp.land.w0.r0](../bbugyi200.athena.sase-kp.land.w0.r0/README.md) | descendant | dismissed |
+| [sase-kp.land.w1](../../families/bbugyi200.athena.sase-kp.land.w1.md) (family · 2) | descendant | failed 2 |
 | [sase-kp.1](../bbugyi200.athena.sase-kp.1/README.md) | sase-kp hood | completed |
 | [sase-kp.10](../bbugyi200.athena.sase-kp.10/README.md) | sase-kp hood | completed |
 | [sase-kp.11](../bbugyi200.athena.sase-kp.11/README.md) | sase-kp hood | completed |

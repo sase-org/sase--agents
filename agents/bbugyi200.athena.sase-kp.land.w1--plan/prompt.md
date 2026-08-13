@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me improve the recently added sase monitor functionality (see the sase-kp epic bead for more information on this feature)? Review the monitor_command_substrate.md file in the research sidecar repo for context and inspiration on what improvements should be made. #plan #m_opus

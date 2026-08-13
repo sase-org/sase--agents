@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me fix the `just lint` command? Close out any task beads that this change obsoletes once you've verified your fix (make sure the `just lint` command passes all checks). #plan #m_opus
