@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `Wait` panel that is triggered via the `w` keymap on the agents tab does not provide keymaps to allow the user to jump to the next/previous form input in that panel. Can you help me fix this by adding the new `<ctrl+j>` / `<ctrl+k>` keymaps to that panel that allow the user to jump to the next/previous form input, respectively? #plan #m_opus
