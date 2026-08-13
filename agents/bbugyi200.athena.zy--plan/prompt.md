@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase I feel like I am constantly (at least way too often) seeing `1 starting` on the agents tab (see #sshot for context). If I had to guess, I'd say that this has the same root cause as a bug that causes agent launches to take a while and for agents to jump from the `RUNNING` state to the `STARTING` state and back again repeatedly before finally launching. Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix the issue?
+
+#plan #m_opus
