@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I can't get rid of the `zx` agent (see #sshot, which was taken after I tried to dismiss/kill this agent with the `x` keymap). Can you help me diagnose the root cause of this issue and fix it? #plan
