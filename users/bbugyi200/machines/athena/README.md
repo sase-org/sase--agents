@@ -1325,7 +1325,7 @@
 | [sase-kp](hoods/sase-kp/README.md) | 19 | 2 | active 1, completed 14, dismissed 2, failed 2 |
 | [sase-ku](hoods/sase-ku/README.md) | 11 | 0 | active 1, completed 8, waiting 2 |
 | [sase-kv](hoods/sase-kv/README.md) | 13 | 1 | active 2, completed 7, dismissed 2, waiting 2 |
-| [sase-ky](hoods/sase-ky/README.md) | 6 | 0 | active 1, waiting 5 |
+| [sase-ky](hoods/sase-ky/README.md) | 6 | 0 | active 1, completed 1, waiting 4 |
 | [sase-kz](hoods/sase-kz/README.md) | 9 | 0 | active 1, completed 3, waiting 5 |
 | [sase-l1](hoods/sase-l1/README.md) | 7 | 0 | active 2, completed 1, waiting 4 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
