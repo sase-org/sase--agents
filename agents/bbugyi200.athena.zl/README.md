@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [zl](../../users/bbugyi200/machines/athena/hoods/zl/README.md) / zl
 
-**Global name:** `bbugyi200.athena.zl` · **State:** active · **Source run:** `run-eb07aa7e38f5090baa9cb5cb8fa5dcb7`
+**Global name:** `bbugyi200.athena.zl` · **State:** completed · **Source run:** `run-eb07aa7e38f5090baa9cb5cb8fa5dcb7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** zl
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,5 +27,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [zl.f0](../bbugyi200.athena.zl.f0/README.md) | descendant | waiting |
-| [zl.w0](../bbugyi200.athena.zl.w0/README.md) | descendant | waiting |
+| [zl.f1](../../families/bbugyi200.athena.zl.f1.md) (family · 2) | descendant | failed 2 |
+| [zl.w0](../../families/bbugyi200.athena.zl.w0.md) (family · 2) | descendant | active 2 |
+| [zl.w1](../bbugyi200.athena.zl.w1/README.md) | descendant | dismissed |
