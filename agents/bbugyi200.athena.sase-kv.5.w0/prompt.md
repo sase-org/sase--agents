@@ -1,0 +1,2 @@
+#gh:gh_sase-org__sase
+%w:sase-kv.5 Can you help me stop pluralizing the sub-tab names on the "Artifacts" tab (e.g. use `Plan` instead of `Plans`, `Bead` instead of `Beads`, `File` instead of `Files`, etc...)? #plan #m_opus
