@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me ensure that we always distribute which model gets selected equally across all models confiured in a sase model alias pool? We should remember which models were used last for each alias across sessions and machine restarts. #if_not_plan #m_opus
