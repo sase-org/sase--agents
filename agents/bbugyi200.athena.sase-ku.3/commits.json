@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-600b513f6fce8dd20a0448ac7ade9aa1"}
+{"commits":[{"committed_at":1786631347,"sha":"40d9a4d98cb255904a84edf493ab84f998c90cc5","subject":"feat(monitor): give the supervisor and its child a durable identity"}],"schema_version":2,"source_run_id":"run-600b513f6fce8dd20a0448ac7ade9aa1"}

@@ -2,22 +2,27 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ku](../../users/bbugyi200/machines/athena/hoods/sase-ku/README.md) / sase-ku.4
 
-**Global name:** `bbugyi200.athena.sase-ku.4` · **State:** waiting · **Source run:** `run-1e527e3ad86899e5a6863e3518f6c30e`
+**Global name:** `bbugyi200.athena.sase-ku.4` · **State:** active · **Source run:** `run-803a43335ec1bc6e844c8ce2fdca2fd1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ku
 
 ## Summary
 
 - Bead: [sase-ku.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ku/sase-ku.4.md)
-- Epic: [sase-ku](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ku/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 20260813090606
-- Commits: 0
+- Timing: 2026-08-13T14:41:38.142842+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`a54aec6`](https://github.com/sase-org/sase/commit/a54aec6ab7f43b1d874828e3c7ca54cbb06fe160) | fix(monitor): make monitor startup transactional | 2026-08-13 11:15:44 EDT |
 
 ## Neighbors
 
@@ -26,7 +31,7 @@
 | [sase-ku.1](../bbugyi200.athena.sase-ku.1/README.md) | sase-ku hood | completed |
 | [sase-ku.10](../bbugyi200.athena.sase-ku.10/README.md) | sase-ku hood | waiting |
 | [sase-ku.2](../bbugyi200.athena.sase-ku.2/README.md) | sase-ku hood | completed |
-| [sase-ku.3](../bbugyi200.athena.sase-ku.3/README.md) | sase-ku hood | active |
+| [sase-ku.3](../bbugyi200.athena.sase-ku.3/README.md) | sase-ku hood | completed |
 | [sase-ku.5](../bbugyi200.athena.sase-ku.5/README.md) | sase-ku hood | waiting |
 | [sase-ku.6](../bbugyi200.athena.sase-ku.6/README.md) | sase-ku hood | completed |
 | [sase-ku.7](../bbugyi200.athena.sase-ku.7/README.md) | sase-ku hood | completed |
