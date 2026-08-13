@@ -17,5 +17,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [z6](../../families/bbugyi200.athena.z6.md) (family · 2) | ancestor | completed 2 |
-| [z6.f2](../../families/bbugyi200.athena.z6.f2.md) (family · 2) | z6 hood | failed 2 |
+| [z6](../../families/bbugyi200.athena.z6.md) (family · 2) | ancestor | completed 1, dismissed 1 |
+| [z6.f2](../../families/bbugyi200.athena.z6.f2.md) (family · 2) | z6 hood | dismissed 1, failed 1 |

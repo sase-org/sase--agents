@@ -32,5 +32,5 @@
 | [sase-ky.1](../bbugyi200.athena.sase-ky.1/README.md) | sase-ky hood | completed |
 | [sase-ky.2](../bbugyi200.athena.sase-ky.2/README.md) | sase-ky hood | completed |
 | [sase-ky.3](../bbugyi200.athena.sase-ky.3/README.md) | sase-ky hood | completed |
-| [sase-ky.5](../bbugyi200.athena.sase-ky.5/README.md) | sase-ky hood | active |
-| [sase-ky.land](../bbugyi200.athena.sase-ky.land/README.md) | sase-ky hood | waiting |
+| [sase-ky.5](../bbugyi200.athena.sase-ky.5/README.md) | sase-ky hood | completed |
+| [sase-ky.land](../bbugyi200.athena.sase-ky.land/README.md) | sase-ky hood | active |

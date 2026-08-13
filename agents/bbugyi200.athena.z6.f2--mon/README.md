@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [z6](../../families/bbugyi200.athena.z6.md) (family · 2) | ancestor | completed 2 |
+| [z6](../../families/bbugyi200.athena.z6.md) (family · 2) | ancestor | completed 1, dismissed 1 |
 | [z6.f0](../bbugyi200.athena.z6.f0/README.md) | z6 hood | dismissed |

@@ -37,4 +37,4 @@
 | [sase-kp.land](../../families/bbugyi200.athena.sase-kp.land.md) (family · 3) | sase-kp hood | completed 2, failed 1 |
 | [sase-kp.land.w0](../bbugyi200.athena.sase-kp.land.w0/README.md) | sase-kp hood | dismissed |
 | [sase-kp.land.w0.r0](../bbugyi200.athena.sase-kp.land.w0.r0/README.md) | sase-kp hood | dismissed |
-| [sase-kp.land.w1](../../families/bbugyi200.athena.sase-kp.land.w1.md) (family · 2) | sase-kp hood | failed 2 |
+| [sase-kp.land.w1](../../families/bbugyi200.athena.sase-kp.land.w1.md) (family · 2) | sase-kp hood | dismissed 1, failed 1 |

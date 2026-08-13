@@ -1,35 +1,38 @@
-# Chat History - ace-run (z2--plan)
+# Chat History - ace-run (z2--code)
 
-- **TIMESTAMP:** 2026-08-13 07:31:53 EDT
+- **TIMESTAMP:** 2026-08-13 07:45:41 EDT
 - **MODEL:** claude/opus
-- **AGENT:** z2--plan
-
-**Plan:** /home/bryan/.sase/plans/202608/tribe_description_hint.md
-
+- **AGENT:** z2--code
 
 ## Prompt
 
-#gh:gh_sase-org__sase Can you help me stop showing the description warning in the agent metadata panel when an agent tribe panel that doesn't have a description set? For example, in #sshot, the `not set · add ace.tribes.monitor-smoke.description` text should not be shown. Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate
-tier, validate and revalidate until it passes, then submit it with `sase plan propose` (as the skill instructs)
-before making any file changes.
- %model:opus
+%model:@small_worker
+#gh:gh_sase-org__sase @sase/repos/plans/202608/tribe_description_hint.md
+
+The above plan has been reviewed and approved. Implement it now.
+
 
 ## Response
 
-*Plan submitted for review.*
+# Monitor handoff
 
-**Plan file:** `/home/bryan/.sase/plans/202608/tribe_description_hint.md`
+This agent delegated the remaining work to a monitor member.
+Monitor ID: e65tnpwx2mhx
+Inspect with: sase monitor show e65tnpwx2mhx
+Monitor member: z2--mon
+Directory: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13
 
-> # Drop the "description not set" hint from the selected tribe panel header
-> ## Problem
-> When a tribe panel is selected in the ACE Agents tab, the `TRIBE` metadata header always
-> ends with an unlabeled description row. When the tribe has no configured
-> `ace.tribes.<name>.description`, that row renders a nag instead:
-> ```
-> not set · add ace.tribes.monitor-smoke.description
-> ```
-> This fires for every ad-hoc tribe an xprompt assigns with `%tribe:` — for example the
-> `monitor-smoke` tribe in the reported screenshot — even though such tribes are never
+Command:
 
-*See full plan file for details.*
+```sh
+just check-full
+```
+
+Reason:
+
+Run required full verification for tribe description hint removal without blocking the agent turn
+
+Next action:
+
+Inspect the just check-full monitor result for the tribe-description hint removal. If it fails only at the known patch/stitch terminology audit issue tracked by task sase-kq, report that as an unrelated blocker; if it reports any additional failures, determine whether they are caused by the local diff before replying. Include the already completed verification: just install passed, .venv/bin/pytest tests/ace/tui/widgets/test_agent_display_tribe.py tests/ace/tui/models/test_tribe_display.py -q passed 19 tests, just check failed at known sase-kq terminology audit after lint gates through changelog, full just test-visual failed with broad drift recorded as an observation on closed task sase-dl, and targeted tribe-panel visual files passed 6 tests via just test-visual -- tests/ace/tui/visual/test_ace_png_snapshots_agents_tribe_panel.py tests/ace/tui/visual/test_ace_png_snapshots_agents_panels.py -q. Then provide the final concise implementation summary to the user.
 

@@ -24,7 +24,7 @@
 |---|---|---|
 | [sase-kp.land.w0](../bbugyi200.athena.sase-kp.land.w0/README.md) | descendant | dismissed |
 | [sase-kp.land.w0.r0](../bbugyi200.athena.sase-kp.land.w0.r0/README.md) | descendant | dismissed |
-| [sase-kp.land.w1](../../families/bbugyi200.athena.sase-kp.land.w1.md) (family · 2) | descendant | failed 2 |
+| [sase-kp.land.w1](../../families/bbugyi200.athena.sase-kp.land.w1.md) (family · 2) | descendant | dismissed 1, failed 1 |
 | [sase-kp.1](../bbugyi200.athena.sase-kp.1/README.md) | sase-kp hood | completed |
 | [sase-kp.10](../bbugyi200.athena.sase-kp.10/README.md) | sase-kp hood | completed |
 | [sase-kp.11](../bbugyi200.athena.sase-kp.11/README.md) | sase-kp hood | completed |

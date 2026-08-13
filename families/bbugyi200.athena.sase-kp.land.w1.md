@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-kp` · Members: 2
 ```mermaid
 flowchart TD
   n0["sase-kp.land.w1--mon [failed]"]
-  n1["sase-kp.land.w1--plan [failed]"]
+  n1["sase-kp.land.w1--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-kp.land.w1--mon | failed | opus / claude | 2026-08-13T13:02:17.260333+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-kp.land.w1--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-kp.land.w1--plan | failed | opus / claude | 2026-08-13T12:50:39.386608+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-kp.land.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-kp.land.w1--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-kp.land.w1--plan | dismissed | opus / claude | 2026-08-13T08:50:39.386608 → 2026-08-13T09:02:15.908171 | 0 | — | — |
 
 ## Neighbors
 

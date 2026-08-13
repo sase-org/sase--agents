@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-l3](../../users/bbugyi200/machines/athena/hoods/sase-l3/README.md) / sase-l3.8
 
-**Global name:** `bbugyi200.athena.sase-l3.8` · **State:** waiting · **Source run:** `run-dfc27581ca26d2d5a43992a6c28d8a22`
+**Global name:** `bbugyi200.athena.sase-l3.8` · **State:** active · **Source run:** `run-dfc27581ca26d2d5a43992a6c28d8a22`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-l3
 
@@ -12,7 +12,7 @@
 - Epic: [sase-l3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-l3/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260813145158
+- Timing: 2026-08-13T23:06:59.529531+00:00
 - Commits: 0
 
 ## Files
@@ -29,5 +29,5 @@
 | [sase-l3.4](../bbugyi200.athena.sase-l3.4/README.md) | sase-l3 hood | completed |
 | [sase-l3.5](../bbugyi200.athena.sase-l3.5/README.md) | sase-l3 hood | completed |
 | [sase-l3.6](../bbugyi200.athena.sase-l3.6/README.md) | sase-l3 hood | completed |
-| [sase-l3.7](../bbugyi200.athena.sase-l3.7/README.md) | sase-l3 hood | failed |
+| [sase-l3.7](../bbugyi200.athena.sase-l3.7/README.md) | sase-l3 hood | dismissed |
 | [sase-l3.land](../bbugyi200.athena.sase-l3.land/README.md) | sase-l3 hood | waiting |

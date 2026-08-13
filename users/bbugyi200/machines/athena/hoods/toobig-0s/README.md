@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [toobig-0s.split\_file.src.sase.sdd.plan\_display.0](../../../../../../agents/bbugyi200.athena.toobig-0s.split_file.src.sase.sdd.plan_display.0/README.md) | active | gpt-5.6-sol / codex | 2026-07-28T17:57:03.645158+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.toobig-0s.split_file.src.sase.sdd.plan_display.0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.toobig-0s.split_file.src.sase.sdd.plan_display.0/prompt.md) |
+| [toobig-0s.split\_file.src.sase.sdd.plan\_display.0](../../../../../../agents/bbugyi200.athena.toobig-0s.split_file.src.sase.sdd.plan_display.0/README.md) | active | gpt-5.6-sol / codex | 2026-07-28T17:57:03.645158+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-0s.split_file.src.sase.sdd.plan_display.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-0s.split_file.src.sase.sdd.plan_display.0/chat.md) |

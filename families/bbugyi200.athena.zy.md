@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `zy` · Members: 6
 
 ```mermaid
 flowchart TD
-  n0["zy--2 [active]"]
+  n0["zy--2 [completed]"]
   n1["zy--plan [completed]"]
   n0 --> n1
   n2["zy--1 [completed]"]
@@ -25,7 +25,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-2"></a>2 | zy--2 | active | sonnet / claude | 2026-08-13T21:06:02.904304+00:00 | [1](../agents/bbugyi200.athena.zy--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.zy--2/prompt.md) | — |
+| <a id="member-2"></a>2 | zy--2 | completed | sonnet / claude | 2026-08-13T21:06:02.904304+00:00 | [1](../agents/bbugyi200.athena.zy--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.zy--2/prompt.md) | [Chat](../agents/bbugyi200.athena.zy--2/chat.md) |
 | <a id="member-plan"></a>plan | zy--plan | completed | opus / claude | 2026-08-13T19:29:54.036789+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.zy--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.zy--plan/chat.md) |
 | <a id="member-1"></a>1 | zy--1 | completed | sonnet / claude | 2026-08-13T20:53:20.704233+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.zy--1/prompt.md) | [Chat](../agents/bbugyi200.athena.zy--1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | zy--mon-0 | failed | sonnet / claude | 2026-08-13T20:55:18.730370+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.zy--mon-0/chat.md) |

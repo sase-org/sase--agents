@@ -6,6 +6,6 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [qe--plan](../../../../../../families/bbugyi200.athena.qe.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-31T14:34:49.264314+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.qe--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.qe--plan/prompt.md) |
-| [qe.f0](../../../../../../agents/bbugyi200.athena.qe.f0/README.md) | active | sonnet / claude | 2026-07-31T14:41:43.634532+00:00 | 2 | [chat](../../../../../../agents/bbugyi200.athena.qe.f0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.qe.f0/prompt.md) |
+| [qe--plan](../../../../../../families/bbugyi200.athena.qe.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-31T14:34:49.264314+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.qe--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.qe--plan/chat.md) |
+| [qe.f0](../../../../../../agents/bbugyi200.athena.qe.f0/README.md) | active | sonnet / claude | 2026-07-31T14:41:43.634532+00:00 | 2 | [prompt](../../../../../../agents/bbugyi200.athena.qe.f0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.qe.f0/chat.md) |
 | [qe--code](../../../../../../families/bbugyi200.athena.qe.md#member-code) | completed | gpt-5.3-codex-spark / codex | 2026-07-31T14:38:24.050864+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.qe--code/chat.md) |

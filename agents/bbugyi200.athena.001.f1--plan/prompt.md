@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:001 Also, can you add a prompt to the user to confirm this keymap (it can be pretty destructive, depending on what tab you are on)? #plan

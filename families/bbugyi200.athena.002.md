@@ -2,32 +2,35 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [002](../users/bbugyi200/machines/athena/hoods/002/README.md) / 002
 
-Owner: `bbugyi200.athena` · Hood: `002` · Members: 5
+Owner: `bbugyi200.athena` · Hood: `002` · Members: 6
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["002--mon-0 [active]"]
+  n0["002--mon-0 [failed]"]
   n1["002--plan [completed]"]
   n0 --> n1
-  n2["002--mon [failed]"]
+  n2["002--2 [active]"]
   n0 --> n2
-  n3["002--code [completed]"]
+  n3["002--mon [failed]"]
   n0 --> n3
-  n4["002--1 [active]"]
+  n4["002--code [completed]"]
   n0 --> n4
+  n5["002--1 [completed]"]
+  n0 --> n5
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon-0"></a>mon-0 | 002--mon-0 | active | gpt-5.5 / codex | 2026-08-13T22:50:54.390109+00:00 | 0 | — | — |
+| <a id="member-mon-0"></a>mon-0 | 002--mon-0 | failed | gpt-5.5 / codex | 2026-08-13T22:50:54.390109+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.002--mon-0/chat.md) |
 | <a id="member-plan"></a>plan | 002--plan | completed | opus / claude | 2026-08-13T21:38:06.384113+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.002--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.002--plan/chat.md) |
+| <a id="member-2"></a>2 | 002--2 | active | gpt-5.5 / codex | 2026-08-13T23:38:34.153023+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.002--2/prompt.md) | — |
 | <a id="member-mon"></a>mon | 002--mon | failed | gpt-5.5 / codex | 2026-08-13T22:10:13.471196+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.002--mon/chat.md) |
 | <a id="member-code"></a>code | 002--code | completed | gpt-5.5 / codex | 2026-08-13T21:50:59.552463+00:00 | [1](../agents/bbugyi200.athena.002--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.002--code/chat.md) |
-| <a id="member-1"></a>1 | 002--1 | active | gpt-5.5 / codex | 2026-08-13T22:36:59.638634+00:00 | [1](../agents/bbugyi200.athena.002--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.002--1/prompt.md) | — |
+| <a id="member-1"></a>1 | 002--1 | completed | gpt-5.5 / codex | 2026-08-13T22:36:59.638634+00:00 | [1](../agents/bbugyi200.athena.002--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.002--1/prompt.md) | [Chat](../agents/bbugyi200.athena.002--1/chat.md) |
 
 ## Commits
 
