@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-62577f37b34f10fd9589e7c6fb75e9e0"}
+{"commits":[{"committed_at":1786620119,"sha":"fc77b64be0908d56adb8f0922cdea7777fb23e83","subject":"feat(tui): add monitor detail panel, live output, and stop keybinding"}],"schema_version":2,"source_run_id":"run-62577f37b34f10fd9589e7c6fb75e9e0"}

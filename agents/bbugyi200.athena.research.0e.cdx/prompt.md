@@ -1,0 +1,3 @@
+%clan(research.0e, tribe=research,
+summary=[[[bold]RESEARCH PROMPT:[/bold] I am in the middle of implementing sase monitors (see the sase-kp epic bead for context, which is still in-progress). Can you do some research with the goal of helping me improve this feature even further? End your analysis with a ranked list of recommended improvements.]]) %id:research.0e.cdx
+%wait(priority=20) %model:@research_a #gh:gh_sase-org__sase I am in the middle of implementing sase monitors (see the sase-kp epic bead for context, which is still in-progress). Can you do some research with the goal of helping me improve this feature even further? End your analysis with a ranked list of recommended improvements. #research

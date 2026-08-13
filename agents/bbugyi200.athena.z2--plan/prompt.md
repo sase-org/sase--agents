@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me stop showing the description warning in the agent metadata panel when an agent tribe panel that doesn't have a description set? For example, in #sshot, the `not set · add ace.tribes.monitor-smoke.description` text should not be shown. #plan #m_opus
