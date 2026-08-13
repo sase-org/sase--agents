@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-12T23:23:43.166535+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`1d3b20f`](https://github.com/sase-org/sase/commit/1d3b20fad227be8a6631ac58826c51caa3989969) | feat(tui): show monitor rows in agent rosters | 2026-08-12 20:01:17 EDT |
 
 ## Neighbors
 
@@ -29,9 +35,9 @@
 | [sase-kp.12](../bbugyi200.athena.sase-kp.12/README.md) | sase-kp hood | waiting |
 | [sase-kp.2](../bbugyi200.athena.sase-kp.2/README.md) | sase-kp hood | completed |
 | [sase-kp.3](../bbugyi200.athena.sase-kp.3/README.md) | sase-kp hood | completed |
-| [sase-kp.4](../bbugyi200.athena.sase-kp.4/README.md) | sase-kp hood | active |
+| [sase-kp.4](../bbugyi200.athena.sase-kp.4/README.md) | sase-kp hood | completed |
 | [sase-kp.5](../bbugyi200.athena.sase-kp.5/README.md) | sase-kp hood | completed |
-| [sase-kp.6](../bbugyi200.athena.sase-kp.6/README.md) | sase-kp hood | waiting |
+| [sase-kp.6](../bbugyi200.athena.sase-kp.6/README.md) | sase-kp hood | active |
 | [sase-kp.8](../bbugyi200.athena.sase-kp.8/README.md) | sase-kp hood | waiting |
 | [sase-kp.9](../bbugyi200.athena.sase-kp.9/README.md) | sase-kp hood | waiting |
 | [sase-kp.land](../bbugyi200.athena.sase-kp.land/README.md) | sase-kp hood | waiting |
