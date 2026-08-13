@@ -23,8 +23,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-l3.1](../../families/bbugyi200.athena.sase-l3.1.md) (family · 3) | sase-l3 hood | active 1, completed 1, failed 1 |
-| [sase-l3.2](../bbugyi200.athena.sase-l3.2/README.md) | sase-l3 hood | waiting |
+| [sase-l3.1](../../families/bbugyi200.athena.sase-l3.1.md) (family · 3) | sase-l3 hood | completed 2, failed 1 |
+| [sase-l3.2](../bbugyi200.athena.sase-l3.2/README.md) | sase-l3 hood | active |
 | [sase-l3.4](../bbugyi200.athena.sase-l3.4/README.md) | sase-l3 hood | waiting |
 | [sase-l3.5](../bbugyi200.athena.sase-l3.5/README.md) | sase-l3 hood | waiting |
 | [sase-l3.6](../bbugyi200.athena.sase-l3.6/README.md) | sase-l3 hood | waiting |
