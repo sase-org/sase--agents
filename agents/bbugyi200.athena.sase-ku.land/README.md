@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ku](../../users/bbugyi200/machines/athena/hoods/sase-ku/README.md) / sase-ku.land
 
-**Global name:** `bbugyi200.athena.sase-ku.land` · **State:** waiting · **Source run:** `run-d2f931eb862740c0f47f99cacf7487cc`
+**Global name:** `bbugyi200.athena.sase-ku.land` · **State:** active · **Source run:** `run-5851282ab36d7bb0d39b4d8df3cca35a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ku
 
@@ -11,7 +11,7 @@
 - Bead: [sase-ku](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ku/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260813090611
+- Timing: 2026-08-13T22:28:03.809147+00:00
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ku.1](../bbugyi200.athena.sase-ku.1/README.md) | sase-ku hood | completed |
-| [sase-ku.10](../../families/bbugyi200.athena.sase-ku.10.md) (family · 4) | sase-ku hood | completed 1, failed 3 |
+| [sase-ku.10](../../families/bbugyi200.athena.sase-ku.10.md) (family · 5) | sase-ku hood | completed 2, failed 3 |
 | [sase-ku.2](../bbugyi200.athena.sase-ku.2/README.md) | sase-ku hood | completed |
 | [sase-ku.3](../bbugyi200.athena.sase-ku.3/README.md) | sase-ku hood | completed |
 | [sase-ku.4](../../families/bbugyi200.athena.sase-ku.4.md) (family · 2) | sase-ku hood | completed 1, failed 1 |

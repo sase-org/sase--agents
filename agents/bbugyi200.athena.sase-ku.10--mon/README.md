@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ku](../../users/bbugyi200/machines/athena/hoods/sase-ku/README.md) / [sase-ku.10](../../families/bbugyi200.athena.sase-ku.10.md) / sase-ku.10--mon
 
-**Global name:** `bbugyi200.athena.sase-ku.10--mon` · **State:** failed · **Source run:** `run-baf87e4761f85555ba0279e8ad024d13`
+**Global name:** `bbugyi200.athena.sase-ku.10--mon` · **State:** failed · **Source run:** `run-e57b832cd7cae651a0c5775a3674e291`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ku
 
@@ -10,9 +10,9 @@
 
 - Bead: [sase-ku.10](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ku/sase-ku.10.md)
 - Epic: [sase-ku](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ku/README.md)
-- Model: sonnet
-- Provider: claude
-- Timing: 2026-08-13T17:20:19.035043+00:00
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 2026-08-13T20:15:47.084686+00:00
 - Commits: 0
 
 ## Files
@@ -38,4 +38,4 @@
 | [sase-ku.8](../bbugyi200.athena.sase-ku.8/README.md) | sase-ku hood | completed |
 | [sase-ku.9](../../families/bbugyi200.athena.sase-ku.9.md) (family · 2) | sase-ku hood | completed 1, failed 1 |
 | [sase-ku.9](../bbugyi200.athena.sase-ku.9/README.md) | sase-ku hood | completed |
-| [sase-ku.land](../bbugyi200.athena.sase-ku.land/README.md) | sase-ku hood | waiting |
+| [sase-ku.land](../bbugyi200.athena.sase-ku.land/README.md) | sase-ku hood | active |

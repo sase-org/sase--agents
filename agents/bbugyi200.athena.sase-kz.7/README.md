@@ -31,4 +31,4 @@
 | [sase-kz.5](../bbugyi200.athena.sase-kz.5/README.md) | sase-kz hood | completed |
 | [sase-kz.6](../bbugyi200.athena.sase-kz.6/README.md) | sase-kz hood | completed |
 | [sase-kz.8](../bbugyi200.athena.sase-kz.8/README.md) | sase-kz hood | completed |
-| [sase-kz.land](../bbugyi200.athena.sase-kz.land/README.md) | sase-kz hood | active |
+| [sase-kz.land](../bbugyi200.athena.sase-kz.land/README.md) | sase-kz hood | completed |

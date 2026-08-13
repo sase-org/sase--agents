@@ -28,7 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ku.1](../agents/bbugyi200.athena.sase-ku.1/README.md) | sase-ku hood | completed |
-| [sase-ku.10](bbugyi200.athena.sase-ku.10.md) (family · 4) | sase-ku hood | completed 1, failed 3 |
+| [sase-ku.10](bbugyi200.athena.sase-ku.10.md) (family · 5) | sase-ku hood | completed 2, failed 3 |
 | [sase-ku.2](../agents/bbugyi200.athena.sase-ku.2/README.md) | sase-ku hood | completed |
 | [sase-ku.3](../agents/bbugyi200.athena.sase-ku.3/README.md) | sase-ku hood | completed |
 | [sase-ku.4](bbugyi200.athena.sase-ku.4.md) (family · 2) | sase-ku hood | completed 1, failed 1 |
@@ -41,4 +41,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-ku.8](../agents/bbugyi200.athena.sase-ku.8/README.md) | sase-ku hood | completed |
 | [sase-ku.9](bbugyi200.athena.sase-ku.9.md) (family · 2) | sase-ku hood | completed 1, failed 1 |
 | [sase-ku.9](../agents/bbugyi200.athena.sase-ku.9/README.md) | sase-ku hood | completed |
-| [sase-ku.land](../agents/bbugyi200.athena.sase-ku.land/README.md) | sase-ku hood | waiting |
+| [sase-ku.land](../agents/bbugyi200.athena.sase-ku.land/README.md) | sase-ku hood | active |

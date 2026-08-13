@@ -34,4 +34,4 @@
 | [sase-ku.8](../bbugyi200.athena.sase-ku.8/README.md) | sase-ku hood | completed |
 | [sase-ku.9](../../families/bbugyi200.athena.sase-ku.9.md) (family · 2) | sase-ku hood | completed 1, failed 1 |
 | [sase-ku.9](../bbugyi200.athena.sase-ku.9/README.md) | sase-ku hood | completed |
-| [sase-ku.land](../bbugyi200.athena.sase-ku.land/README.md) | sase-ku hood | waiting |
+| [sase-ku.land](../bbugyi200.athena.sase-ku.land/README.md) | sase-ku hood | active |

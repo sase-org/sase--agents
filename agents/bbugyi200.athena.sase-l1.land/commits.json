@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0e7beda66f3710513bee34c9f17c0c7b"}
+{"commits":[{"committed_at":1786663068,"sha":"153e2a137524837bc7ac3d83a632a6afa8f61045","subject":"fix(monitor): flag a degraded follow-up as a stalled lane"}],"schema_version":2,"source_run_id":"run-0e7beda66f3710513bee34c9f17c0c7b"}
