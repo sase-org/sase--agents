@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `g-` (normal-mode) and `<ctrl+g>-` (insert-mode) keymaps in the prompt input widget currently create an empty prompt input widget. Can you help me start prepending the VCS xprompt workflow that the current prompt input widget uses (if any) to the start of the new prompt input widget? See how the `<ctrl+space>` keymap handles this for inspiration. #plan
