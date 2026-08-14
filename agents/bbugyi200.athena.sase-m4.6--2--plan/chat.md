@@ -4,6 +4,11 @@
 - **MODEL:** claude/sonnet
 - **AGENT:** sase-m4.6--2--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_m4_6__2__plan-260814_162027.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_m4_6__2__code-260814_162027.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/docs_pdf_test_pypdf_import_skip.md
 
 
