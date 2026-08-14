@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 01f--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-01f__plan-260814_123555.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-01f__code-260814_123555.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/grok_default_pools.md
 
 

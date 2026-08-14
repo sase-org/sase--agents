@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-lz](../../users/bbugyi200/machines/athena/hoods/sase-lz/README.md) / sase-lz.4
 
-**Global name:** `bbugyi200.athena.sase-lz.4` · **State:** active · **Source run:** `run-699ce45e427c4a6396c06363a347dcde`
+**Global name:** `bbugyi200.athena.sase-lz.4` · **State:** completed · **Source run:** `run-699ce45e427c4a6396c06363a347dcde`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-lz
 
@@ -17,7 +17,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -32,4 +32,4 @@
 | [sase-lz.1](../bbugyi200.athena.sase-lz.1/README.md) | sase-lz hood | completed |
 | [sase-lz.2](../bbugyi200.athena.sase-lz.2/README.md) | sase-lz hood | completed |
 | [sase-lz.3](../bbugyi200.athena.sase-lz.3/README.md) | sase-lz hood | completed |
-| [sase-lz.land](../bbugyi200.athena.sase-lz.land/README.md) | sase-lz hood | waiting |
+| [sase-lz.land](../../families/bbugyi200.athena.sase-lz.land.md) (family · 3) | sase-lz hood | active 3 |

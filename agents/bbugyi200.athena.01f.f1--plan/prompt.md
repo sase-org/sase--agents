@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:01f Can you now help me add fallbacks for the `@smartest` model alias by defining it as `claude/opus@max || codex/gpt-5.6-sol@max || grok/grok-4.6@max`? #plan

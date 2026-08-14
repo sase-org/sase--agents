@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `01f` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["01f--code [active]"]
-  n1["01f--plan [active]"]
+  n0["01f--code [completed]"]
+  n1["01f--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,11 +17,18 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 01f--code | active | sonnet / claude | 2026-08-14T16:46:15.629934+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | 01f--plan | active | opus / claude | 2026-08-14T16:36:07.574075+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.01f--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.01f--plan/chat.md) |
+| <a id="member-code"></a>code | 01f--code | completed | sonnet / claude | 2026-08-14T16:46:15.629934+00:00 | [1](../agents/bbugyi200.athena.01f--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.01f--code/chat.md) |
+| <a id="member-plan"></a>plan | 01f--plan | completed | opus / claude | 2026-08-14T16:36:07.574075+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.01f--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.01f--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`668bfc9`](https://github.com/sase-org/sase/commit/668bfc932e77a1dc57c91928aa6038cd85c14efb) | feat(llm-provider): add grok/grok-4.6 to shipped @smart, @cheap, and @cheaper pools | 2026-08-14 12:57:35 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [01f.f0](../agents/bbugyi200.athena.01f.f0/README.md) | descendant | waiting |
+| [01f.f1](bbugyi200.athena.01f.f1.md) (family · 2) | descendant | active 2 |
+| [01f.f2](bbugyi200.athena.01f.f2.md) (family · 5) | descendant | active 2, completed 2, failed 1 |

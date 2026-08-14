@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-916759b28ba22c794b5c5cb9eafd2818"}
+{"commits":[{"committed_at":1786726655,"sha":"668bfc932e77a1dc57c91928aa6038cd85c14efb","subject":"feat(llm-provider): add grok/grok-4.6 to shipped @smart, @cheap, and @cheaper pools"}],"schema_version":2,"source_run_id":"run-916759b28ba22c794b5c5cb9eafd2818"}
