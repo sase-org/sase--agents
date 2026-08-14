@@ -1,0 +1,4 @@
+%clan(research.0i, tribe=research,
+summary=[[[bold]RESEARCH PROMPT:[/bold] I'm thinking about subscribing to a Supergrok account. Can you do some research to help me understand the different price tiers available and the benefits of each one? End your analysis with a recommendation for which tier I should subscribe to.]]) %id:research.0i.cdx
+%wait(priority=20) %model:@research_a 
+#gh:gh_sase-org__sase I'm thinking about subscribing to a Supergrok account. Can you do some research to help me understand the different price tiers available and the benefits of each one? End your analysis with a recommendation for which tier I should subscribe to. #research

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.0g.image
 
-**Global name:** `bbugyi200.athena.research.0g.image` · **State:** dismissed · **Source run:** `run-c741222f9727de79d429cb34695f303a`
+**Global name:** `bbugyi200.athena.research.0g.image` · **State:** dismissed · **Source run:** `run-6142c422e681bc0e464ac7ade20f639b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
