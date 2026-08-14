@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1786722267,"sha":"a7201532bc3c67245d3331359aeaa3c934a4c2e7","subject":"fix: persist claimed workspace number in agent metadata"}],"schema_version":2,"source_run_id":"run-1d4abde5c39853d930a1b84c509ee10f"}
