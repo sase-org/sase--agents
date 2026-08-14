@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Are the models in the model pool for the `@smarter` model alias being iterated over evenly (i.e. each model in the pool is used equally) when used by not default (since `@smarter` is the default value of the special `@default` model alias). #if_not_plan

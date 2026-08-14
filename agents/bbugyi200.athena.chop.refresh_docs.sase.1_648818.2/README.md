@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [chop](../../users/bbugyi200/machines/athena/hoods/chop/README.md) / chop.refresh\_docs.sase.1\_648818.2
 
-**Global name:** `bbugyi200.athena.chop.refresh_docs.sase.1_648818.2` · **State:** waiting · **Source run:** `run-50e859eaefbd7f0f6a81f167a1cbfabd`
+**Global name:** `bbugyi200.athena.chop.refresh_docs.sase.1_648818.2` · **State:** dismissed · **Source run:** `run-50e859eaefbd7f0f6a81f167a1cbfabd`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** chop
 
@@ -10,18 +10,24 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260813200119
-- Commits: 0
+- Timing: 2026-08-13T23:22:47.519493 → 2026-08-13T23:47:20.446804
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`800033d`](https://github.com/sase-org/sase/commit/800033d55c64eb01b9b75b145762ee17ced9e14c) | docs: align workflow guides with current behavior | 2026-08-13 23:46:35 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [chop.refresh\_docs.sase.1\_648818.1](../bbugyi200.athena.chop.refresh_docs.sase.1_648818.1/README.md) | chop.refresh\_docs.sase.1\_648818 hood | active |
+| [chop.refresh\_docs.sase.1\_648818.1](../bbugyi200.athena.chop.refresh_docs.sase.1_648818.1/README.md) | chop.refresh\_docs.sase.1\_648818 hood | dismissed |
 | [chop.refresh\_docs.sase.0\_190948.1](../bbugyi200.athena.chop.refresh_docs.sase.0_190948.1/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.0\_190948.2](../bbugyi200.athena.chop.refresh_docs.sase.0_190948.2/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.0\_456044.1](../bbugyi200.athena.chop.refresh_docs.sase.0_456044.1/README.md) | chop.refresh\_docs.sase hood | active |

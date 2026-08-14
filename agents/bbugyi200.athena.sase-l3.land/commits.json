@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d45353061e0afbd3943a1509d309967b"}
+{"commits":[{"committed_at":1786708753,"sha":"d1e88155b140e793560574e480c8cc17ccdd57c6","subject":"fix(llm_provider): release Grok tool_use state when its result arrives"}],"schema_version":2,"source_run_id":"run-938ecd2767c9ba4eb3b38efcf2f9baba"}

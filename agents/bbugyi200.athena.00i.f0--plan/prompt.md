@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:00i Review the last few sase agents I've launched without the `%model` directive and verify this claim. Is it true? #if_not_plan

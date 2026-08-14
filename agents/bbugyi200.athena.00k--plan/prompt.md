@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me configure the bobs-org/bob-mac-capture GitHub repo as a linked repo for the bob-cli sase project? Make sure you review recent commits for both projects and how the two projects relate so you can give the linked repo a good description. #plan
