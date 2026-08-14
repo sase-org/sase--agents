@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase #actstat
+
+#plan In this plan, make sure to include instructions to use the /sase_monitor skill to wait for a new GitHub Actions run to complete and have the next agent verify the fix worked and that the `actstat` command shows the sase project has passed its last GitHub actions run. If not, the agent should produce a new plan using the /sase_plan skill that instructs the next agent to verify its changes by using the /sase_monitor in the same way. This should continue in a loop until GitHub Actions is stable and passing all checks. #m_codex

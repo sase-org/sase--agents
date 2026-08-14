@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1786732968,"sha":"8dd33e594b17d255d9b28e95fcadc8d64e75931a","subject":"fix: validate core lock ratchets semantically"}],"schema_version":2,"source_run_id":"run-ea85a7012c6aec834d4b660046e14769"}

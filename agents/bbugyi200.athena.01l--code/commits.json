@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1786733514,"sha":"e701dba6853f6632e6179fdc5dd17a558b69bd1e","subject":"fix(ace): stop TUI freeze when a question gate's options contain markup"}],"schema_version":2,"source_run_id":"run-43595529798beb2334f2355f1102579e"}

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I'm unable to launch the sase gate associated with this question notification (see #sshot for context). I hear a beep when I try to and then the entire TUI freezes up. Can you help me diagnose the root cause of this issue and fix it? #plan
