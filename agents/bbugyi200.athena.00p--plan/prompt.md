@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase When sase monitors are run, the agent looks like it is done/failed until the monitor comletes I think (see the sase agent named `00i.f0` in #sshot, for example). I think this might require using a new status (e.g. instead of `TALE DONE`) like `MONITOR` or something for agents that launch monitors. This way users (and sase, since unique agent statues tell us how to treat agent rows and which status the root agent row should have) can easily tell (at a glance), which agents are monitoring commands and which ones are geniunely working/thinking. Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix the issue?
+
+#plan
