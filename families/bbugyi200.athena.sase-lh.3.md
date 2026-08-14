@@ -35,9 +35,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-lh.1](../agents/bbugyi200.athena.sase-lh.1/README.md) | sase-lh hood | completed |
 | [sase-lh.2](../agents/bbugyi200.athena.sase-lh.2/README.md) | sase-lh hood | completed |
-| [sase-lh.4](../agents/bbugyi200.athena.sase-lh.4/README.md) | sase-lh hood | active |
+| [sase-lh.4](../agents/bbugyi200.athena.sase-lh.4/README.md) | sase-lh hood | completed |
 | [sase-lh.5](../agents/bbugyi200.athena.sase-lh.5/README.md) | sase-lh hood | completed |
-| [sase-lh.6](../agents/bbugyi200.athena.sase-lh.6/README.md) | sase-lh hood | waiting |
+| [sase-lh.6](../agents/bbugyi200.athena.sase-lh.6/README.md) | sase-lh hood | active |
 | [sase-lh.7](../agents/bbugyi200.athena.sase-lh.7/README.md) | sase-lh hood | waiting |
 | [sase-lh.8](../agents/bbugyi200.athena.sase-lh.8/README.md) | sase-lh hood | waiting |
 | [sase-lh.land](../agents/bbugyi200.athena.sase-lh.land/README.md) | sase-lh hood | waiting |

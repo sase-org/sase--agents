@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-2n.split\_file.tests.ace.tui.widgets.test\_agent\_display\_header\_enrichment\_async.0](../bbugyi200.athena.toobig-2n.split_file.tests.ace.tui.widgets.test_agent_display_header_enrichment_async.0/README.md) | toobig-2n.split\_file.tests.ace.tui.widgets hood | active |
-| [toobig-2n.split\_file.tests.test\_axe\_chop\_wait\_checks\_plan\_families.0](../bbugyi200.athena.toobig-2n.split_file.tests.test_axe_chop_wait_checks_plan_families.0/README.md) | toobig-2n.split\_file.tests hood | waiting |
+| [toobig-2n.split\_file.tests.ace.tui.widgets.test\_agent\_display\_header\_enrichment\_async.0](../bbugyi200.athena.toobig-2n.split_file.tests.ace.tui.widgets.test_agent_display_header_enrichment_async.0/README.md) | toobig-2n.split\_file.tests.ace.tui.widgets hood | completed |
+| [toobig-2n.split\_file.tests.test\_axe\_chop\_wait\_checks\_plan\_families.0](../bbugyi200.athena.toobig-2n.split_file.tests.test_axe_chop_wait_checks_plan_families.0/README.md) | toobig-2n.split\_file.tests hood | completed |
