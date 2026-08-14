@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `<enter>` keymap in the new panel that helps us build model pools / fallbacks does not work (nothing happens). See the sase-lz epic bead for context on this panel. Can you help me diagnose the root cause of this issue and fix it? #plan
