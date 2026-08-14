@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f591ff89c57f4bf78af20145f170527c"}
+{"commits":[{"committed_at":1786728275,"sha":"40a63e5dcc52b9d1fc8cb7f858f9b102ffbb8c6a","subject":"feat(llm-provider): ship claude/codex/grok ordered fallback for @smartest"}],"schema_version":2,"source_run_id":"run-f591ff89c57f4bf78af20145f170527c"}

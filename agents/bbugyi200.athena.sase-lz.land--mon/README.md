@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-lz](../../users/bbugyi200/machines/athena/hoods/sase-lz/README.md) / [sase-lz.land](../../families/bbugyi200.athena.sase-lz.land.md) / sase-lz.land--mon
 
-**Global name:** `bbugyi200.athena.sase-lz.land--mon` · **State:** active · **Source run:** `run-0e538ea862f3d3db7e5310c01ad08052`
+**Global name:** `bbugyi200.athena.sase-lz.land--mon` · **State:** failed · **Source run:** `run-0e538ea862f3d3db7e5310c01ad08052`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-lz
 
@@ -13,6 +13,10 @@
 - Provider: codex
 - Timing: 2026-08-14T17:08:11.437890+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
