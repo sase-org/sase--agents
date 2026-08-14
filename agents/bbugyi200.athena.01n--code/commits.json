@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c130fc5fce9bc3fdaf551c50b3c73f33"}
+{"commits":[{"committed_at":1786731118,"sha":"fa93b3ad7c31cf1bf57232db25d112643bb7b7bb","subject":"fix(ace): drop xprompt completion spacer when Tab jumps to next tabstop"}],"schema_version":2,"source_run_id":"run-c130fc5fce9bc3fdaf551c50b3c73f33"}
