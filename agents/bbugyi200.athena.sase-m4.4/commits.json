@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-984a741b013bb780c2781e892cd94c02"}
+{"commits":[{"committed_at":1786734530,"sha":"bc040fee5d4a7cb2ad98c104587fa42499d9e089","subject":"test: load bundled ACE visual fonts via font_files"}],"schema_version":2,"source_run_id":"run-984a741b013bb780c2781e892cd94c02"}

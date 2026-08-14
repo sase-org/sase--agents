@@ -24,7 +24,7 @@
 |---|---|---|
 | [sase-m4.1](../bbugyi200.athena.sase-m4.1/README.md) | sase-m4 hood | completed |
 | [sase-m4.2](../bbugyi200.athena.sase-m4.2/README.md) | sase-m4 hood | active |
-| [sase-m4.3](../bbugyi200.athena.sase-m4.3/README.md) | sase-m4 hood | active |
+| [sase-m4.3](../bbugyi200.athena.sase-m4.3/README.md) | sase-m4 hood | completed |
 | [sase-m4.4](../bbugyi200.athena.sase-m4.4/README.md) | sase-m4 hood | active |
 | [sase-m4.5](../bbugyi200.athena.sase-m4.5/README.md) | sase-m4 hood | completed |
 | [sase-m4.6](../bbugyi200.athena.sase-m4.6/README.md) | sase-m4 hood | waiting |
