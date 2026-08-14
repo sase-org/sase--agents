@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Do we currently support specifying model pools when overriding model alias definitions in the "Models" panel? We should fully suppor this use-case. #if_not_plan
