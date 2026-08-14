@@ -1,8 +1,8 @@
-# Agent: sase-lb.1.land--code
+# Agent: sase-lb.1.land--1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-lb](../../users/bbugyi200/machines/athena/hoods/sase-lb/README.md) / [sase-lb.1.land](../../families/bbugyi200.athena.sase-lb.1.land.md) / sase-lb.1.land--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-lb](../../users/bbugyi200/machines/athena/hoods/sase-lb/README.md) / [sase-lb.1.land](../../families/bbugyi200.athena.sase-lb.1.land.md) / sase-lb.1.land--1
 
-**Global name:** `bbugyi200.athena.sase-lb.1.land--code` · **State:** completed · **Source run:** `run-1656e6fc8f1379fbe60c5437fa13db5e`
+**Global name:** `bbugyi200.athena.sase-lb.1.land--1` · **State:** active · **Source run:** `run-cb2a4d948a2094fe5882e9d2b4aadf44`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-lb
 
@@ -11,12 +11,12 @@
 - Bead: [sase-lb.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-lb/sase-lb.1.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-14T17:08:36.126132+00:00
+- Timing: 2026-08-14T17:55:00.985968+00:00
 - Commits: 0
 
 ## Files
 
-[Chat](chat.md)
+[Prompt](prompt.md)
 
 ## Neighbors
 
