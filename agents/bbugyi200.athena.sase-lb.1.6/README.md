@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-14T15:15:39.232652+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`645875d`](https://github.com/sase-org/sase/commit/645875d536b9f5f92f0b9fc59eda28e0b2640aa4) | fix(llm\_provider): stop attributing pre-existing dirt to the agent | 2026-08-14 12:00:26 EDT |
 
 ## Neighbors
 
