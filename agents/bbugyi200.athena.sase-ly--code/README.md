@@ -12,4 +12,10 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-14T14:43:47.196139+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`21633ba`](https://github.com/sase-org/sase/commit/21633ba1bf044b08bd3bf8dcc4e225e8e81a6d77) | fix: protect dirty work during repo open and finalization | 2026-08-14 11:19:29 EDT |

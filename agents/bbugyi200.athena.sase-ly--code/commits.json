@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-9be6bb02722bbfd1ffe7b56904ca3f4a"}
+{"commits":[{"committed_at":1786720769,"sha":"21633ba1bf044b08bd3bf8dcc4e225e8e81a6d77","subject":"fix: protect dirty work during repo open and finalization"}],"schema_version":2,"source_run_id":"run-9be6bb02722bbfd1ffe7b56904ca3f4a"}
