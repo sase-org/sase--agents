@@ -11,7 +11,13 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-14T22:05:16.649532+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`f59e307`](https://github.com/sase-org/sase/commit/f59e30717cc06c962d5acf4406a43b65372f9184) | fix(ace): demote owning-xprompt preview inside shorthand argument text | 2026-08-14 18:34:19 EDT |
 
 ## Neighbors
 
