@@ -1,0 +1,7 @@
+- **AGENTS:**
+  - [bbugyi200.athena.research.0i.cld](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.research.0i.cld/README.md)
+
+%id(cld, clan=research.0i) %wait(priority=20) %m:@research_b #gh:gh_sase-org__sase I'm
+thinking about subscribing to a Supergrok account. Can you do some research to help me
+understand the different price tiers available and the benefits of each one? End your
+analysis with a recommendation for which tier I should subscribe to. #research
