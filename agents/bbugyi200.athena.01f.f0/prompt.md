@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:01f Can you help me remove the `explicit` note from Muse Code documentation as well? I didn't realize `explicit` meant "not included in any builtin model aliases". #plan

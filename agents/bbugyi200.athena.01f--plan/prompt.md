@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start including grok/grok-4.6 by default in the list of models used by the `@smart`, `@cheap`, and `@cheaper` model aliases? Use the same effort levels that the other models do for the given model alias. #plan
