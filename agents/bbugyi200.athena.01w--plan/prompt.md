@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Google released Gemini Flash 3.7 yesterday. Can you help me add this model to sase's model completion menus and make it the default for the antigravity provider (e.g. update the `#m_agy` xprompt (defined in my chezmoi repo)? #plan
