@@ -1333,7 +1333,7 @@
 | [sase-l1](hoods/sase-l1/README.md) | 9 | 1 | completed 8, failed 1 |
 | [sase-l2](hoods/sase-l2/README.md) | 6 | 1 | dismissed 4, failed 2 |
 | [sase-l3](hoods/sase-l3/README.md) | 11 | 1 | active 1, completed 8, dismissed 1, failed 1 |
-| [sase-l6](hoods/sase-l6/README.md) | 7 | 0 | completed 6, waiting 1 |
+| [sase-l6](hoods/sase-l6/README.md) | 7 | 0 | active 1, completed 6 |
 | [sase-ld](hoods/sase-ld/README.md) | 1 | 0 | completed 1 |
 | [sase-lh](hoods/sase-lh/README.md) | 15 | 2 | completed 3, dismissed 9, failed 3 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
