@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 001.f1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-001_f1__plan-260813_174957.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-001_f1__code-260813_174957.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/confirm_notification_read_tab.md
 
 

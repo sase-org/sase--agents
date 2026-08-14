@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [zr](../../../../../../agents/bbugyi200.athena.zr/README.md) | completed | opus / claude | 2026-08-13T17:27:12.214286+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.zr/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.zr/chat.md) |
+| [zr](../../../../../../agents/bbugyi200.athena.zr/README.md) | completed | opus / claude | 2026-08-13T17:27:12.214286+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.zr/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.zr/prompt.md) |
