@@ -25,6 +25,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [00z](bbugyi200.athena.00z.md) (family · 2) | ancestor | completed 2 |
-| [00z.f0.f0](bbugyi200.athena.00z.f0.f0.md) (family · 2) | descendant | active 2 |
+| [00z.f0.f0](bbugyi200.athena.00z.f0.f0.md) (family · 2) | descendant | completed 2 |
+| [00z.f0.f0.f0](bbugyi200.athena.00z.f0.f0.f0.md) (family · 2) | descendant | active 2 |
 | [00z.cld](../agents/bbugyi200.athena.00z.cld/README.md) | 00z hood | completed |
 | [00z.cld.f1](../agents/bbugyi200.athena.00z.cld.f1/README.md) | 00z hood | completed |

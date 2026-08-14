@@ -24,4 +24,5 @@
 | [00z.cld](../bbugyi200.athena.00z.cld/README.md) | descendant | completed |
 | [00z.cld.f1](../bbugyi200.athena.00z.cld.f1/README.md) | descendant | completed |
 | [00z.f0](../../families/bbugyi200.athena.00z.f0.md) (family · 2) | descendant | completed 2 |
-| [00z.f0.f0](../../families/bbugyi200.athena.00z.f0.f0.md) (family · 2) | descendant | active 2 |
+| [00z.f0.f0](../../families/bbugyi200.athena.00z.f0.f0.md) (family · 2) | descendant | completed 2 |
+| [00z.f0.f0.f0](../../families/bbugyi200.athena.00z.f0.f0.f0.md) (family · 2) | descendant | active 2 |
