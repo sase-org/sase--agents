@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-14T16:08:58.566504+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`95cf873`](https://github.com/sase-org/sase/commit/95cf873ede28a9df74a0424dc72129cf879dc916) | fix: release runner claims after failed monitor handoff | 2026-08-14 12:27:21 EDT |
 
 ## Neighbors
 
@@ -26,7 +32,7 @@
 | [sase-lb.1.1](../bbugyi200.athena.sase-lb.1.1/README.md) | sase-lb.1 hood | completed |
 | [sase-lb.1.2](../bbugyi200.athena.sase-lb.1.2/README.md) | sase-lb.1 hood | completed |
 | [sase-lb.1.3](../bbugyi200.athena.sase-lb.1.3/README.md) | sase-lb.1 hood | completed |
-| [sase-lb.1.5](../bbugyi200.athena.sase-lb.1.5/README.md) | sase-lb.1 hood | active |
+| [sase-lb.1.5](../bbugyi200.athena.sase-lb.1.5/README.md) | sase-lb.1 hood | completed |
 | [sase-lb.1.6](../bbugyi200.athena.sase-lb.1.6/README.md) | sase-lb.1 hood | completed |
 | [sase-lb.1.7](../bbugyi200.athena.sase-lb.1.7/README.md) | sase-lb.1 hood | waiting |
 | [sase-lb.1.land](../bbugyi200.athena.sase-lb.1.land/README.md) | sase-lb.1 hood | waiting |

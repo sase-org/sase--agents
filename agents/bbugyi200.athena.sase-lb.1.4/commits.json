@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-05f5d6e81f845b4f24c93d21c2b3dfcd"}
+{"commits":[{"committed_at":1786724841,"sha":"95cf873ede28a9df74a0424dc72129cf879dc916","subject":"fix: release runner claims after failed monitor handoff"}],"schema_version":2,"source_run_id":"run-05f5d6e81f845b4f24c93d21c2b3dfcd"}
