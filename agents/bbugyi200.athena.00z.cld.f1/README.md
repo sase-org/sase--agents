@@ -25,3 +25,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [00z.cld](../bbugyi200.athena.00z.cld/README.md) | ancestor | completed |
+| [00z](../../families/bbugyi200.athena.00z.md) (family · 2) | ancestor | completed 2 |
+| [00z.f0](../../families/bbugyi200.athena.00z.f0.md) (family · 2) | 00z hood | active 2 |

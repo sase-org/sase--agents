@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:00z Great! Can you now help me make the models/providers that are displayed in the little menu that pops up display in alphabetical order (based on the single-key that is assigned to them)? Claude should still be the default selection. #plan
