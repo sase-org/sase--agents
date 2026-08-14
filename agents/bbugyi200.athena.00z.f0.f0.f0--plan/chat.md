@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 00z.f0.f0.f0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-00z_f0_f0_f0__plan-260814_101812.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-00z_f0_f0_f0__code-260814_101812.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/tmux_ai_window_bash32.md
 
 
