@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4a8b7b78ad55c17e84e6626e754ae86d"}
+{"commits":[{"committed_at":1786723654,"sha":"631701dd44ebd60e5eb9b84b8dac56a6ce7093b9","subject":"fix(monitor): claim the command workspace on start"}],"schema_version":2,"source_run_id":"run-4a8b7b78ad55c17e84e6626e754ae86d"}
