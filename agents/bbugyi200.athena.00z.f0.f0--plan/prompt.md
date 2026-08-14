@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:00z.f0 Can you now help me make sure this script works on machines that only have some of the providers installed? Make sure we update the default appropriates if the user doesn't have claude installed. #plan
