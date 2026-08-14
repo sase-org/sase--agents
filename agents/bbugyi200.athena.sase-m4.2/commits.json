@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b54cefe0f02fd3de90fd5eccada0fd48"}
+{"commits":[{"committed_at":1786734671,"sha":"e4baf07717f5a9cb836316b8db5416d1af3f8096","subject":"fix(docs): stop strict PDF export from fetching remote Google Fonts"}],"schema_version":2,"source_run_id":"run-b54cefe0f02fd3de90fd5eccada0fd48"}
