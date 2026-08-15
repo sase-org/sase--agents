@@ -29,10 +29,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-m9.2.1.3](../agents/bbugyi200.athena.sase-m9.2.1.3/README.md) | descendant | completed |
 | [sase-m9.2.1.4](../agents/bbugyi200.athena.sase-m9.2.1.4/README.md) | descendant | completed |
 | [sase-m9.2.1.5](bbugyi200.athena.sase-m9.2.1.5.md) (family · 3) | descendant | completed 2, failed 1 |
-| [sase-m9.2.1.6.1](../agents/bbugyi200.athena.sase-m9.2.1.6.1/README.md) | descendant | active |
-| [sase-m9.2.1.6.2](../agents/bbugyi200.athena.sase-m9.2.1.6.2/README.md) | descendant | active |
-| [sase-m9.2.1.6.3](../agents/bbugyi200.athena.sase-m9.2.1.6.3/README.md) | descendant | waiting |
-| [sase-m9.2.1.6.land](../agents/bbugyi200.athena.sase-m9.2.1.6.land/README.md) | descendant | waiting |
+| [sase-m9.2.1.6.1](../agents/bbugyi200.athena.sase-m9.2.1.6.1/README.md) | descendant | completed |
+| [sase-m9.2.1.6.2](../agents/bbugyi200.athena.sase-m9.2.1.6.2/README.md) | descendant | completed |
+| [sase-m9.2.1.6.3](bbugyi200.athena.sase-m9.2.1.6.3.md) (family · 3) | descendant | completed 2, failed 1 |
+| [sase-m9.2.1.6.land](bbugyi200.athena.sase-m9.2.1.6.land.md) (family · 2) | descendant | active 2 |
 | [sase-m9.2.1.land](bbugyi200.athena.sase-m9.2.1.land.md) (family · 2) | descendant | failed 2 |
 | [sase-m9.1](bbugyi200.athena.sase-m9.1.md) (family · 2) | sase-m9 hood | failed 2 |
 | [sase-m9.1.1.1](../agents/bbugyi200.athena.sase-m9.1.1.1/README.md) | sase-m9 hood | completed |

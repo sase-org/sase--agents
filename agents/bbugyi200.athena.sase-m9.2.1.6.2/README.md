@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m9](../../users/bbugyi200/machines/athena/hoods/sase-m9/README.md) / sase-m9.2.1.6.2
 
-**Global name:** `bbugyi200.athena.sase-m9.2.1.6.2` · **State:** active · **Source run:** `run-9eededf837c115b1fb7351d9049335a9`
+**Global name:** `bbugyi200.athena.sase-m9.2.1.6.2` · **State:** completed · **Source run:** `run-9eededf837c115b1fb7351d9049335a9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m9
 
@@ -17,7 +17,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -30,9 +30,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-m9.2](../bbugyi200.athena.sase-m9.2/README.md) | ancestor | active |
-| [sase-m9.2.1.6.1](../bbugyi200.athena.sase-m9.2.1.6.1/README.md) | sase-m9.2.1.6 hood | active |
-| [sase-m9.2.1.6.3](../bbugyi200.athena.sase-m9.2.1.6.3/README.md) | sase-m9.2.1.6 hood | waiting |
-| [sase-m9.2.1.6.land](../bbugyi200.athena.sase-m9.2.1.6.land/README.md) | sase-m9.2.1.6 hood | waiting |
+| [sase-m9.2.1.6.1](../bbugyi200.athena.sase-m9.2.1.6.1/README.md) | sase-m9.2.1.6 hood | completed |
+| [sase-m9.2.1.6.3](../../families/bbugyi200.athena.sase-m9.2.1.6.3.md) (family · 3) | sase-m9.2.1.6 hood | completed 2, failed 1 |
+| [sase-m9.2.1.6.land](../../families/bbugyi200.athena.sase-m9.2.1.6.land.md) (family · 2) | sase-m9.2.1.6 hood | active 2 |
 | [sase-m9.2.1.1](../bbugyi200.athena.sase-m9.2.1.1/README.md) | sase-m9.2.1 hood | completed |
 | [sase-m9.2.1.2](../bbugyi200.athena.sase-m9.2.1.2/README.md) | sase-m9.2.1 hood | completed |
 | [sase-m9.2.1.3](../bbugyi200.athena.sase-m9.2.1.3/README.md) | sase-m9.2.1 hood | completed |
