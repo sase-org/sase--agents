@@ -1,66 +1,39 @@
-# Chat History - ace-run (sase-m9.2.1.6.land--plan)
+# Chat History - ace-run (sase-m9.2.1.6.land--code)
 
-- **TIMESTAMP:** 2026-08-15 12:44:03 EDT
+- **TIMESTAMP:** 2026-08-15 12:58:21 EDT
 - **MODEL:** codex/gpt-5.6-sol
-- **AGENT:** sase-m9.2.1.6.land--plan
-
-**Plan:** /home/bryan/.sase/plans/202608/finish_proc_shell_repair_landing.md
-
+- **AGENT:** sase-m9.2.1.6.land--code
 
 ## Prompt
 
+%model:@medium_worker
 #gh:gh_sase-org__sase
-%id(land, clan=sase-m9.2.1.6, bead=sase-m9.2.1.6)
-%model:@epic_lander
-%auto
-%w:sase-m9.2.1.6.1,sase-m9.2.1.6.2,sase-m9.2.1.6.3
-%w(bead=sase-m9.2.1.6.1)
-%w(bead=sase-m9.2.1.6.2)
-%w(bead=sase-m9.2.1.6.3)
-You are the land agent for epic bead sase-m9.2.1.6: verify the epic is truly complete, integrate it with changes
-that landed since it started, then close it out.
+@sase/repos/plans/202608/finish_proc_shell_repair_landing.md
 
-1. Verify. Run `sase bead show sase-m9.2.1.6` (children, linked plan file), review the epic bead's own notes, then
-   run `sase bead show` on every child and review every child note. Confirm each note was addressed, and read the
-   actual source code and the epic's commits (bead IDs appear in commit messages) to confirm the work previous
-   agents reported complete really is. While reviewing child beads, collect every `PROPOSED FOLLOW-UP:` note entry.
+The above plan has been reviewed and approved. Implement it now.
 
-2. Integrate. Changes committed since this epic started could not integrate with this epic's feature while it was
-   incomplete. Find them (e.g. `git log` since the first commit mentioning sase-m9.2.1.6, excluding the epic's own
-   commits; in a PR workflow also review commits on the base branch) and update anything that should now use what
-   this epic added or that duplicates or conflicts with it. This integration is part of the epic's work.
-
-3. Land. Unresolved issues caused by this epic remain epic work: plan and finish them before closing. For each
-   genuinely distinct follow-up that is not caused by the epic, use `/sase_new_task` with details identifying the
-   proposing bead; it will corroborate a duplicate, attach a causally related active-epic issue, or create a sized
-   task as appropriate. Record every outcome, including why any proposal was declined, in your close note. Close the epic with
-   `sase bead close sase-m9.2.1.6 --note "<what you verified in steps 1-2>"`. AFTER closing, run `just symvision`
-   if available (epic-symbol whitelist entries for sase-m9.2.1.6 expire at close) and remove the stale entries
-   and unused code it reports. Finally, set `status: done` in the frontmatter of the epic's plan file (the PLAN
-   path shown by `sase bead show`). If the close is rejected, the named phases were never completed: finish or
-   reopen them, or record the outcome deliberately with
-   `--force --reason ... --resolution canceled|superseded`. Never force merely to make the command succeed.
-
-If steps 1-2 uncover remaining work, use your /sase_plan skill to plan it and complete the skill's tier-aware
-validate/revalidate/propose loop. Make step 3 the plan's final phase (close, run symvision, mark the plan file done)
-so the agent that executes the plan finishes the landing. Otherwise do step 3 now.
 
 ## Response
 
-*Plan submitted for review.*
+# Monitor handoff
 
-**Plan file:** `/home/bryan/.sase/plans/202608/finish_proc_shell_repair_landing.md`
+This agent delegated the remaining work to a monitor shell.
+Monitor ID: khefp99r263c
+Inspect with: sase monitor show khefp99r263c
+Monitor shell: sase-m9.2.1.6.land--mon
+Directory: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10
 
-> - **PARENT:**
->   [202608/finish_unified_proc_shell_platform.md](202608/finish_unified_proc_shell_platform.md)
-> - **BEAD:** sase-m9.2.1.6
-> # Plan: Finish the proc-shell repair integration and land sase-m9.2.1.6
-> ## Goal
-> Integrate the only post-start core capability that the completed proc-shell repair could
-> not account for, prove the published dependency floor supports both the unified proc
-> lifecycle and the newer provider-disable facade, then close epic `sase-m9.2.1.6`, run
-> its post-close Symvision cleanup, and mark its linked plan done.
-> ## Verified starting point
+Command:
 
-*See full plan file for details.*
+```sh
+just check-full
+```
+
+Reason:
+
+Exhaustively verify the proc-shell repair dependency-floor landing after just check escalated
+
+Next action:
+
+Continue the approved plan @sase/repos/plans/202608/finish_proc_shell_repair_landing.md after the monitored `just check-full` result. Dependency-floor commit 4ba7ee812 (`build(deps): require provider-disable core floor`) is already made and the worktree was clean before starting the monitor. Prior evidence from this turn: no commits newer than 8902cb5e5 were present; `sase-core-rs` lower bound and lock were raised to 0.27.5; `just install` succeeded; `.venv/bin/python tools/check_sase_core_rs_bindings` passed with all 307 bindings; `.venv/bin/python tools/validate_sase_core_rs` passed; `.venv/bin/python tools/probe_core_floor --json` returned status ok for declared_floor 0.27.5; the static binding list included `reserve_proc`, `claim_proc_supervisor`, `request_proc_stop`, `begin_proc_settlement`, `finish_proc`, `provider_disable_clear`, `provider_disable_get`, `provider_disable_set_relative`, and `provider_disable_set_until`; focused pytest passed 102 tests across procs facade/service, provider-disable, validator/probe/binding tool tests, and monitor proc-facade; `just check` passed and reported scoped tests escalated to the full suite due contract-set-only/core-identity-changed/packaging-config. If `just check-full` passed, proceed with the final phase: use `/sase_memory_read` for `sase_beads.md`, show `sase-m9.2.1.6` and its three children and confirm no new notes/open descendants, close exactly `sase-m9.2.1.6` without force with a note naming repair commits ca93686a6 and ffce3c842, post-start integration 8902cb5e5, final core floor 0.27.5, focused/just check/check-full evidence, settlement proposal disposition, and duplicate `sase-j0` cost-budget outcome. Then read `symvision.md` with `/sase_memory_read`, run `just symvision`, remove only stale `sase-m9.2.1.6` whitelist entries or truly unused code it reports, run proportionate verification and commit cleanup through `/sase_git_commit` if files changed. Finally add `status: done` to `/home/bryan/.sase/plans/202608/finish_unified_proc_shell_platform.md` frontmatter and verify `sase bead show sase-m9.2.1.6` reports closed. Do not force-close descendants or close parent `sase-m9.2.1`. If `just check-full` failed only with the known post-pytest `sase-j0` cost-budget gate, treat it as already-corroborated duplicate evidence; otherwise fix functional failures before closing.
 

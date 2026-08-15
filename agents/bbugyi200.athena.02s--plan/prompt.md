@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make `<tab>` and `<shift+tab>` indent/dedent the current bullet if those keymaps have no current useful snippet function (e.g. expand or jump to next/prev tabstop)? This functionality already exists but it's only active when the cursor is at the beginning of the bullet line. #plan

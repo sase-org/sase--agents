@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f239c12f66fb5488764333568d348ac5"}
+{"commits":[{"committed_at":1786820145,"sha":"c62765eb7f3bca0e3a171ab923a5c25e4d6554e4","subject":"feat(ace): complete flat artifact query migration"}],"schema_version":2,"source_run_id":"run-f239c12f66fb5488764333568d348ac5"}
