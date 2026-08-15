@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-53a51d068d190d4809e2535d960dbb08"}
+{"commits":[{"committed_at":1786794695,"sha":"682cc31b37dae72dea9183c5b28d386dbb5898cf","subject":"feat(query): add profile-driven artifact query reference"}],"schema_version":2,"source_run_id":"run-53a51d068d190d4809e2535d960dbb08"}

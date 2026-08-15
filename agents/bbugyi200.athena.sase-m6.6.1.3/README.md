@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-15T11:04:13.568547+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`682cc31`](https://github.com/sase-org/sase/commit/682cc31b37dae72dea9183c5b28d386dbb5898cf) | feat(query): add profile-driven artifact query reference | 2026-08-15 07:51:35 EDT |
 
 ## Neighbors
 
@@ -25,7 +31,7 @@
 |---|---|---|
 | [sase-m6.6](../bbugyi200.athena.sase-m6.6/README.md) | ancestor | failed |
 | [sase-m6.6.1.1](../../families/bbugyi200.athena.sase-m6.6.1.1.md) (family · 5) | sase-m6.6.1 hood | completed 3, failed 2 |
-| [sase-m6.6.1.2](../../families/bbugyi200.athena.sase-m6.6.1.2.md) (family · 2) | sase-m6.6.1 hood | active 2 |
+| [sase-m6.6.1.2](../../families/bbugyi200.athena.sase-m6.6.1.2.md) (family · 2) | sase-m6.6.1 hood | completed 2 |
 | [sase-m6.6.1.4](../bbugyi200.athena.sase-m6.6.1.4/README.md) | sase-m6.6.1 hood | active |
 | [sase-m6.6.1.5](../bbugyi200.athena.sase-m6.6.1.5/README.md) | sase-m6.6.1 hood | waiting |
 | [sase-m6.6.1.6](../bbugyi200.athena.sase-m6.6.1.6/README.md) | sase-m6.6.1 hood | waiting |
