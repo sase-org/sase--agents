@@ -25,9 +25,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-m9.1.1.1](../agents/bbugyi200.athena.sase-m9.1.1.1/README.md) | descendant | completed |
-| [sase-m9.1.1.2](../agents/bbugyi200.athena.sase-m9.1.1.2/README.md) | descendant | active |
+| [sase-m9.1.1.2](../agents/bbugyi200.athena.sase-m9.1.1.2/README.md) | descendant | completed |
 | [sase-m9.1.1.3](../agents/bbugyi200.athena.sase-m9.1.1.3/README.md) | descendant | completed |
-| [sase-m9.1.1.land](../agents/bbugyi200.athena.sase-m9.1.1.land/README.md) | descendant | waiting |
+| [sase-m9.1.1.land](bbugyi200.athena.sase-m9.1.1.land.md) (family · 2) | descendant | active 2 |
 | [sase-m9.2](../agents/bbugyi200.athena.sase-m9.2/README.md) | sase-m9 hood | waiting |
 | [sase-m9.3](../agents/bbugyi200.athena.sase-m9.3/README.md) | sase-m9 hood | waiting |
 | [sase-m9.land](../agents/bbugyi200.athena.sase-m9.land/README.md) | sase-m9 hood | waiting |

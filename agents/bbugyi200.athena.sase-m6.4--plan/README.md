@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m6](../../users/bbugyi200/machines/athena/hoods/sase-m6/README.md) / [sase-m6.4](../../families/bbugyi200.athena.sase-m6.4.md) / sase-m6.4--plan
 
-**Global name:** `bbugyi200.athena.sase-m6.4--plan` · **State:** active · **Source run:** `run-0d43533f9344b01b4875ce2d2d8ee7f1`
+**Global name:** `bbugyi200.athena.sase-m6.4--plan` · **State:** completed · **Source run:** `run-0d43533f9344b01b4875ce2d2d8ee7f1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m6
 

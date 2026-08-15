@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m6](../../users/bbugyi200/machines/athena/hoods/sase-m6/README.md) / [sase-m6.4](../../families/bbugyi200.athena.sase-m6.4.md) / sase-m6.4--code
 
-**Global name:** `bbugyi200.athena.sase-m6.4--code` · **State:** active · **Source run:** `run-952af6832094e9649f2afad3b57d1060`
+**Global name:** `bbugyi200.athena.sase-m6.4--code` · **State:** completed · **Source run:** `run-952af6832094e9649f2afad3b57d1060`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m6
 
@@ -14,6 +14,10 @@
 - Provider: grok
 - Timing: 2026-08-15T00:04:24.640283+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 

@@ -1,0 +1,40 @@
+# Agent: sase-m6.4--1
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m6](../../users/bbugyi200/machines/athena/hoods/sase-m6/README.md) / [sase-m6.4](../../families/bbugyi200.athena.sase-m6.4.md) / sase-m6.4--1
+
+**Global name:** `bbugyi200.athena.sase-m6.4--1` · **State:** active · **Source run:** `run-ebc54b6aa64d6e6708c4ba97832b8d83`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m6
+
+## Summary
+
+- Bead: [sase-m6.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m6/sase-m6.4.md)
+- Model: grok-4.6
+- Provider: grok
+- Timing: 2026-08-15T01:14:23.618021+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`7060a2e`](https://github.com/sase-org/sase/commit/7060a2ec45dc8a89f6f29b72e9555259103259e7) | feat(tui): drive Artifacts panes from a derived host contract | 2026-08-14 21:17:24 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-m6.1](../bbugyi200.athena.sase-m6.1/README.md) | sase-m6 hood | completed |
+| [sase-m6.10](../bbugyi200.athena.sase-m6.10/README.md) | sase-m6 hood | waiting |
+| [sase-m6.2](../bbugyi200.athena.sase-m6.2/README.md) | sase-m6 hood | completed |
+| [sase-m6.3](../../families/bbugyi200.athena.sase-m6.3.md) (family · 2) | sase-m6 hood | completed 2 |
+| [sase-m6.5](../bbugyi200.athena.sase-m6.5/README.md) | sase-m6 hood | waiting |
+| [sase-m6.6](../bbugyi200.athena.sase-m6.6/README.md) | sase-m6 hood | waiting |
+| [sase-m6.7](../bbugyi200.athena.sase-m6.7/README.md) | sase-m6 hood | waiting |
+| [sase-m6.8](../bbugyi200.athena.sase-m6.8/README.md) | sase-m6 hood | waiting |
+| [sase-m6.9](../bbugyi200.athena.sase-m6.9/README.md) | sase-m6 hood | waiting |
+| [sase-m6.land](../bbugyi200.athena.sase-m6.land/README.md) | sase-m6 hood | waiting |
