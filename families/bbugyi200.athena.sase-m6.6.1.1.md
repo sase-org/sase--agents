@@ -2,29 +2,38 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-m6](../users/bbugyi200/machines/athena/hoods/sase-m6/README.md) / sase-m6.6.1.1
 
-Owner: `bbugyi200.athena` · Hood: `sase-m6` · Members: 4 · Bead: [sase-m6.6.1.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m6/sase-m6.6.1.1.md)
+Owner: `bbugyi200.athena` · Hood: `sase-m6` · Members: 5 · Bead: [sase-m6.6.1.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m6/sase-m6.6.1.1.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-m6.6.1.1--1 [completed]"]
-  n1["sase-m6.6.1.1--plan [completed]"]
+  n0["sase-m6.6.1.1--2 [active]"]
+  n1["sase-m6.6.1.1--1 [completed]"]
   n0 --> n1
-  n2["sase-m6.6.1.1--mon-0 [active]"]
+  n2["sase-m6.6.1.1--plan [completed]"]
   n0 --> n2
-  n3["sase-m6.6.1.1--mon [failed]"]
+  n3["sase-m6.6.1.1--mon-0 [failed]"]
   n0 --> n3
+  n4["sase-m6.6.1.1--mon [failed]"]
+  n0 --> n4
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
+| <a id="member-2"></a>2 | sase-m6.6.1.1--2 | active | sonnet / claude | 2026-08-15T11:00:54.033989+00:00 | [1](../agents/bbugyi200.athena.sase-m6.6.1.1--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-m6.6.1.1--2/prompt.md) | — |
 | <a id="member-1"></a>1 | sase-m6.6.1.1--1 | completed | sonnet / claude | 2026-08-15T10:53:33.849265+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m6.6.1.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m6.6.1.1--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-m6.6.1.1--plan | completed | sonnet / claude | 2026-08-15T10:21:05.465846+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m6.6.1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m6.6.1.1--plan/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | sase-m6.6.1.1--mon-0 | active | sonnet / claude | 2026-08-15T10:54:23.470729+00:00 | 0 | — | — |
+| <a id="member-mon-0"></a>mon-0 | sase-m6.6.1.1--mon-0 | failed | sonnet / claude | 2026-08-15T10:54:23.470729+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-m6.6.1.1--mon-0/chat.md) |
 | <a id="member-mon"></a>mon | sase-m6.6.1.1--mon | failed | sonnet / claude | 2026-08-15T10:53:05.018054+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-m6.6.1.1--mon/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 2 | sase | [`2f9b59c`](https://github.com/sase-org/sase/commit/2f9b59cadb2a25169a15a58c8ab7aa5c05c2cfc4) | feat(ace): define and compile the shared query profile | 2026-08-15 07:02:27 EDT |
 
 ## Neighbors
 
