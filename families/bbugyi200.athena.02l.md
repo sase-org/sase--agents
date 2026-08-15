@@ -17,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 02l--code | active | grok-4.6 / grok | 2026-08-15T17:52:04.440312+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 02l--code | active | grok-4.6 / grok | 2026-08-15T17:52:04.440312+00:00 | [1](../agents/bbugyi200.athena.02l--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | 02l--plan | active | gpt-5.6-sol / codex | 2026-08-15T17:45:42.953685+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.02l--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.02l--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`067ed4f`](https://github.com/sase-org/sase/commit/067ed4f2174a005e8fbbf5f062b970f94109c16c) | fix(ace): retreat selected workflow/family one H level first | 2026-08-15 14:25:24 EDT |
