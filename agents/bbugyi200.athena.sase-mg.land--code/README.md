@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-mg](../../users/bbugyi200/machines/athena/hoods/sase-mg/README.md) / [sase-mg.land](../../families/bbugyi200.athena.sase-mg.land.md) / sase-mg.land--code
 
-**Global name:** `bbugyi200.athena.sase-mg.land--code` · **State:** active · **Source run:** `run-61902a5b0960ca5d867e3fdb02d9b1f3`
+**Global name:** `bbugyi200.athena.sase-mg.land--code` · **State:** completed · **Source run:** `run-61902a5b0960ca5d867e3fdb02d9b1f3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-mg
 
@@ -14,6 +14,10 @@
 - Timing: 2026-08-15T22:41:06.636778+00:00
 - Commits: [1](#commits)
 
+## Files
+
+[Chat](chat.md)
+
 ## Commits
 
 | Repo | Commit | Subject | Committed |
@@ -24,7 +28,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-mg.land.w0](../bbugyi200.athena.sase-mg.land.w0/README.md) | descendant | waiting |
+| [sase-mg.land.w1](../../families/bbugyi200.athena.sase-mg.land.w1.md) (family · 2) | descendant | active 2 |
 | [sase-mg.1](../bbugyi200.athena.sase-mg.1/README.md) | sase-mg hood | completed |
 | [sase-mg.2](../bbugyi200.athena.sase-mg.2/README.md) | sase-mg hood | completed |
 | [sase-mg.3](../bbugyi200.athena.sase-mg.3/README.md) | sase-mg hood | completed |

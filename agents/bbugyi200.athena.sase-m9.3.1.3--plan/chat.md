@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-m9.3.1.3--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_m9_3_1_3__plan-260815_164741.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_m9_3_1_3__code-260815_164741.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/migrate_remaining_ace_producers.md
 
 

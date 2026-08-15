@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m9](../../users/bbugyi200/machines/athena/hoods/sase-m9/README.md) / sase-m9.3.1.land
 
-**Global name:** `bbugyi200.athena.sase-m9.3.1.land` · **State:** waiting · **Source run:** `run-b773cee0afaa98db151756e4c12eb29d`
+**Global name:** `bbugyi200.athena.sase-m9.3.1.land` · **State:** waiting · **Source run:** `run-475403bc4d82b55a2203ee028277f855`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m9
 
@@ -11,7 +11,7 @@
 - Bead: [sase-m9.3.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m9/sase-m9.3.1.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260815151910
+- Timing: 20260815190217
 - Commits: 0
 
 ## Files
@@ -24,9 +24,10 @@
 |---|---|---|
 | [sase-m9.3](../../families/bbugyi200.athena.sase-m9.3.md) (family · 2) | ancestor | failed 2 |
 | [sase-m9.3.1.1](../../families/bbugyi200.athena.sase-m9.3.1.1.md) (family · 2) | sase-m9.3.1 hood | completed 2 |
-| [sase-m9.3.1.2](../../families/bbugyi200.athena.sase-m9.3.1.2.md) (family · 2) | sase-m9.3.1 hood | active 2 |
-| [sase-m9.3.1.3](../../families/bbugyi200.athena.sase-m9.3.1.3.md) (family · 2) | sase-m9.3.1 hood | active 2 |
+| [sase-m9.3.1.2](../../families/bbugyi200.athena.sase-m9.3.1.2.md) (family · 2) | sase-m9.3.1 hood | active 1, dismissed 1 |
+| [sase-m9.3.1.3](../../families/bbugyi200.athena.sase-m9.3.1.3.md) (family · 2) | sase-m9.3.1 hood | completed 2 |
 | [sase-m9.3.1.3](../bbugyi200.athena.sase-m9.3.1.3/README.md) | sase-m9.3.1 hood | waiting |
+| [sase-m9.3.1.4](../../families/bbugyi200.athena.sase-m9.3.1.4.md) (family · 2) | sase-m9.3.1 hood | active 2 |
 | [sase-m9.3.1.4](../bbugyi200.athena.sase-m9.3.1.4/README.md) | sase-m9.3.1 hood | waiting |
 | [sase-m9.3.1.5](../bbugyi200.athena.sase-m9.3.1.5/README.md) | sase-m9.3.1 hood | waiting |
 | [sase-m9.1](../../families/bbugyi200.athena.sase-m9.1.md) (family · 2) | sase-m9 hood | failed 2 |

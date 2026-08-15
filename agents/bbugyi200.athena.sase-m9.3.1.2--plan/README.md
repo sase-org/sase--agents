@@ -2,22 +2,17 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m9](../../users/bbugyi200/machines/athena/hoods/sase-m9/README.md) / [sase-m9.3.1.2](../../families/bbugyi200.athena.sase-m9.3.1.2.md) / sase-m9.3.1.2--plan
 
-**Global name:** `bbugyi200.athena.sase-m9.3.1.2--plan` · **State:** active · **Source run:** `run-9f6cd317ac0e365375e64f18368f7426`
+**Global name:** `bbugyi200.athena.sase-m9.3.1.2--plan` · **State:** dismissed · **Source run:** `run-9f6cd317ac0e365375e64f18368f7426`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m9
 
 ## Summary
 
 - Bead: [sase-m9.3.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m9/sase-m9.3.1.2.md)
-- Epic: [sase-m9.3.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m9/sase-m9.3.1.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-15T20:44:24.300070+00:00
+- Timing: 2026-08-15T16:44:24.300070 → 2026-08-15T18:43:42.918789
 - Commits: 0
-
-## Files
-
-[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -25,8 +20,9 @@
 |---|---|---|
 | [sase-m9.3](../../families/bbugyi200.athena.sase-m9.3.md) (family · 2) | ancestor | failed 2 |
 | [sase-m9.3.1.1](../../families/bbugyi200.athena.sase-m9.3.1.1.md) (family · 2) | sase-m9.3.1 hood | completed 2 |
-| [sase-m9.3.1.3](../../families/bbugyi200.athena.sase-m9.3.1.3.md) (family · 2) | sase-m9.3.1 hood | active 2 |
+| [sase-m9.3.1.3](../../families/bbugyi200.athena.sase-m9.3.1.3.md) (family · 2) | sase-m9.3.1 hood | completed 2 |
 | [sase-m9.3.1.3](../bbugyi200.athena.sase-m9.3.1.3/README.md) | sase-m9.3.1 hood | waiting |
+| [sase-m9.3.1.4](../../families/bbugyi200.athena.sase-m9.3.1.4.md) (family · 2) | sase-m9.3.1 hood | active 2 |
 | [sase-m9.3.1.4](../bbugyi200.athena.sase-m9.3.1.4/README.md) | sase-m9.3.1 hood | waiting |
 | [sase-m9.3.1.5](../bbugyi200.athena.sase-m9.3.1.5/README.md) | sase-m9.3.1 hood | waiting |
 | [sase-m9.3.1.land](../bbugyi200.athena.sase-m9.3.1.land/README.md) | sase-m9.3.1 hood | waiting |
