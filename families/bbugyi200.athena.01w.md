@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `01w` · Members: 4
 
 ```mermaid
 flowchart TD
-  n0["01w--1 [active]"]
+  n0["01w--1 [completed]"]
   n1["01w--plan [completed]"]
   n0 --> n1
   n2["01w--code [completed]"]
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | 01w--1 | active | sonnet / claude | 2026-08-14T23:34:05.121384+00:00 | [1](../agents/bbugyi200.athena.01w--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.01w--1/prompt.md) | — |
+| <a id="member-1"></a>1 | 01w--1 | completed | sonnet / claude | 2026-08-14T23:34:05.121384+00:00 | [1](../agents/bbugyi200.athena.01w--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.01w--1/prompt.md) | [Chat](../agents/bbugyi200.athena.01w--1/chat.md) |
 | <a id="member-plan"></a>plan | 01w--plan | completed | gpt-5.6-sol / codex | 2026-08-14T22:49:50.541236+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.01w--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.01w--plan/chat.md) |
 | <a id="member-code"></a>code | 01w--code | completed | sonnet / claude | 2026-08-14T22:57:27.054983+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.01w--code/chat.md) |
 | <a id="member-mon"></a>mon | 01w--mon | failed | sonnet / claude | 2026-08-14T23:21:45.074237+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.01w--mon/chat.md) |
@@ -36,4 +36,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [01w.f0](../agents/bbugyi200.athena.01w.f0/README.md) | descendant | waiting |
+| [01w.f1](bbugyi200.athena.01w.f1.md) (family · 3) | descendant | active 3 |

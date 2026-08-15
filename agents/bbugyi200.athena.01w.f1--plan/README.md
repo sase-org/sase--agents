@@ -1,0 +1,24 @@
+# Agent: 01w.f1--plan
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [01w](../../users/bbugyi200/machines/athena/hoods/01w/README.md) / [01w.f1](../../families/bbugyi200.athena.01w.f1.md) / 01w.f1--plan
+
+**Global name:** `bbugyi200.athena.01w.f1--plan` · **State:** active · **Source run:** `run-53f5a22f7f5c008567e7ad1b7b9e40d5`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 01w
+
+## Summary
+
+- Model: gpt-5.6-sol
+- Provider: codex
+- Timing: 2026-08-14T23:38:48.715096+00:00
+- Commits: 0
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [01w](../../families/bbugyi200.athena.01w.md) (family · 4) | ancestor | completed 3, failed 1 |

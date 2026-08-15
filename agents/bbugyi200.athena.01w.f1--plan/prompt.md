@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:01w Can you now help me add this agy model (Gemini 3.7 Flash) to the `@cheaper` model alias pool? #plan

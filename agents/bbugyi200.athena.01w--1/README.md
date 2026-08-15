@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [01w](../../users/bbugyi200/machines/athena/hoods/01w/README.md) / [01w](../../families/bbugyi200.athena.01w.md) / 01w--1
 
-**Global name:** `bbugyi200.athena.01w--1` · **State:** active · **Source run:** `run-1d81dd47f49988f5c5082513e0ac532d`
+**Global name:** `bbugyi200.athena.01w--1` · **State:** completed · **Source run:** `run-1d81dd47f49988f5c5082513e0ac532d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 01w
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [01w.f0](../bbugyi200.athena.01w.f0/README.md) | descendant | waiting |
+| [01w.f1](../../families/bbugyi200.athena.01w.f1.md) (family · 3) | descendant | active 3 |

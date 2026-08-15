@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-m6.1](../agents/bbugyi200.athena.sase-m6.1/README.md) | sase-m6 hood | completed |
 | [sase-m6.10](../agents/bbugyi200.athena.sase-m6.10/README.md) | sase-m6 hood | waiting |
 | [sase-m6.2](../agents/bbugyi200.athena.sase-m6.2/README.md) | sase-m6 hood | completed |
-| [sase-m6.4](../agents/bbugyi200.athena.sase-m6.4/README.md) | sase-m6 hood | active |
+| [sase-m6.4](bbugyi200.athena.sase-m6.4.md) (family · 2) | sase-m6 hood | active 2 |
 | [sase-m6.5](../agents/bbugyi200.athena.sase-m6.5/README.md) | sase-m6 hood | waiting |
 | [sase-m6.6](../agents/bbugyi200.athena.sase-m6.6/README.md) | sase-m6 hood | waiting |
 | [sase-m6.7](../agents/bbugyi200.athena.sase-m6.7/README.md) | sase-m6 hood | waiting |
