@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-m9.3.1.2--plan | active | gpt-5.6-sol / codex | 2026-08-15T20:44:24.300070+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m9.3.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m9.3.1.2--plan/chat.md) |
-| <a id="member-code"></a>code | sase-m9.3.1.2--code | active | grok-4.6 / grok | 2026-08-15T20:48:15.549980+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-m9.3.1.2--code | active | grok-4.6 / grok | 2026-08-15T20:48:15.549980+00:00 | [1](../agents/bbugyi200.athena.sase-m9.3.1.2--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`0835b38`](https://github.com/sase-org/sase/commit/0835b38d24fb0316d23e664b2d3d7a0ee079c49c) | feat(ace): migrate Patch and agent producers to durable argv | 2026-08-15 18:40:26 EDT |
 
 ## Neighbors
 

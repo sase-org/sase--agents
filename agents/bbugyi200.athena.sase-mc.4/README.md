@@ -33,6 +33,6 @@
 | [sase-mc.2](../bbugyi200.athena.sase-mc.2/README.md) | sase-mc hood | completed |
 | [sase-mc.3](../bbugyi200.athena.sase-mc.3/README.md) | sase-mc hood | completed |
 | [sase-mc.5.1](../bbugyi200.athena.sase-mc.5.1/README.md) | sase-mc hood | completed |
-| [sase-mc.5.2](../../families/bbugyi200.athena.sase-mc.5.2.md) (family · 2) | sase-mc hood | active 2 |
-| [sase-mc.5.land](../bbugyi200.athena.sase-mc.5.land/README.md) | sase-mc hood | waiting |
+| [sase-mc.5.2](../../families/bbugyi200.athena.sase-mc.5.2.md) (family · 5) | sase-mc hood | completed 3, failed 2 |
+| [sase-mc.5.land](../../families/bbugyi200.athena.sase-mc.5.land.md) (family · 2) | sase-mc hood | active 2 |
 | [sase-mc.land](../../families/bbugyi200.athena.sase-mc.land.md) (family · 2) | sase-mc hood | failed 2 |
