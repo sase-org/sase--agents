@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-m9.3.1.1--plan | active | gpt-5.6-sol / codex | 2026-08-15T19:19:24.703951+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m9.3.1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m9.3.1.1--plan/chat.md) |
-| <a id="member-code"></a>code | sase-m9.3.1.1--code | active | grok-4.6 / grok | 2026-08-15T19:24:40.001949+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-m9.3.1.1--code | active | grok-4.6 / grok | 2026-08-15T19:24:40.001949+00:00 | [1](../agents/bbugyi200.athena.sase-m9.3.1.1--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`07e254a`](https://github.com/sase-org/sase/commit/07e254a42073f3367bba23b1beb893ad72f92635) | feat(ops): add durable operation contracts and producer inventory | 2026-08-15 16:39:31 EDT |
 
 ## Neighbors
 

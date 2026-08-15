@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-mc](../../users/bbugyi200/machines/athena/hoods/sase-mc/README.md) / sase-mc.4
 
-**Global name:** `bbugyi200.athena.sase-mc.4` · **State:** active · **Source run:** `run-c8d2a59e5b3251c8165c7b8cbcfa3c50`
+**Global name:** `bbugyi200.athena.sase-mc.4` · **State:** completed · **Source run:** `run-c8d2a59e5b3251c8165c7b8cbcfa3c50`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-mc
 
@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-15T18:51:08.472502+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3a31bd3`](https://github.com/sase-org/sase/commit/3a31bd3b8c4a5082edc772b50f07103436ff5764) | feat(llm): land provider disable integration | 2026-08-15 15:42:51 EDT |
 
 ## Neighbors
 
@@ -26,4 +32,7 @@
 | [sase-mc.1](../bbugyi200.athena.sase-mc.1/README.md) | sase-mc hood | completed |
 | [sase-mc.2](../bbugyi200.athena.sase-mc.2/README.md) | sase-mc hood | completed |
 | [sase-mc.3](../bbugyi200.athena.sase-mc.3/README.md) | sase-mc hood | completed |
-| [sase-mc.land](../bbugyi200.athena.sase-mc.land/README.md) | sase-mc hood | waiting |
+| [sase-mc.5.1](../bbugyi200.athena.sase-mc.5.1/README.md) | sase-mc hood | active |
+| [sase-mc.5.2](../bbugyi200.athena.sase-mc.5.2/README.md) | sase-mc hood | waiting |
+| [sase-mc.5.land](../bbugyi200.athena.sase-mc.5.land/README.md) | sase-mc hood | waiting |
+| [sase-mc.land](../../families/bbugyi200.athena.sase-mc.land.md) (family · 2) | sase-mc hood | failed 2 |
