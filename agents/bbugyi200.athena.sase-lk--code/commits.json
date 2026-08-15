@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-928739073f353788409e1fabf955af9e"}
+{"commits":[{"committed_at":1786832717,"sha":"b569cbdc2488b21320d6ca6aaffbf701fb9089d0","subject":"fix(logs): bound pipe close to the drain budget"}],"schema_version":2,"source_run_id":"run-928739073f353788409e1fabf955af9e"}

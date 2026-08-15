@@ -2,9 +2,10 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-me
 
-**Global hood:** `bbugyi200.athena.sase-me` · **Runs:** 2 · **Families:** 1 · **States:** active 2
+**Global hood:** `bbugyi200.athena.sase-me` · **Runs:** 3 · **Families:** 1 · **States:** active 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
+| [sase-me--mon](../../../../../../families/bbugyi200.athena.sase-me.md#member-mon) | active | gpt-5.6-sol / codex | 2026-08-15T22:21:04.074132+00:00 | 0 | — |
 | [sase-me--plan](../../../../../../families/bbugyi200.athena.sase-me.md#member-plan) | active | gpt-5.6-sol / codex | 2026-08-15T21:44:54.843716+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-me--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-me--plan/prompt.md) |
-| [sase-me--code](../../../../../../families/bbugyi200.athena.sase-me.md#member-code) | active | gpt-5.5 / codex | 2026-08-15T21:53:32.028442+00:00 | 0 | — |
+| [sase-me--code](../../../../../../families/bbugyi200.athena.sase-me.md#member-code) | active | gpt-5.5 / codex | 2026-08-15T21:53:32.028442+00:00 | 1 | — |
