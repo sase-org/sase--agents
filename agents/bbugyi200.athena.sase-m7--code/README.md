@@ -12,4 +12,10 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-15T20:18:18.302417+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`2c9f2b7`](https://github.com/sase-org/sase/commit/2c9f2b7fab35576642f50f0c5007494f805174db) | test: isolate tests from ambient color overrides | 2026-08-15 17:16:54 EDT |
