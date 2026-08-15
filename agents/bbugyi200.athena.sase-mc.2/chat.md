@@ -1,0 +1,421 @@
+# Chat History - ace-run (sase-mc.2)
+
+- **TIMESTAMP:** 2026-08-15 13:30:54 EDT
+- **MODEL:** codex/gpt-5.5
+- **AGENT:** sase-mc.2
+
+## Prompt
+
+#gh:gh_sase-org__sase
+%id(2, clan=sase-mc, bead=sase-mc.2)
+%model:@medium_worker
+%auto
+%w:sase-mc.1
+%w(bead=sase-mc.1)
+Can you complete the work for bead sase-mc.2? The bead is already reserved for you and assigned to your agent
+name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
+checkpoint or by the runtime promoting an ad-hoc wait-time claim. Do not set the status by hand. Read its
+description and design file, do the work, and close the bead with
+`sase bead close sase-mc.2 --note "<what you verified>"`. Closing an assigned phase bead is unaffected by the
+parent-close descendant guard. Do NOT close the parent epic. Do not create beads yourself: record discovered
+follow-up work as a `PROPOSED FOLLOW-UP:` entry via
+`sase bead note sase-mc.2 'PROPOSED FOLLOW-UP: <one-line summary — detail>'`; the epic's land agent triages
+these into task beads.
+
+## Response
+
+I’ll use the SASE memory read workflow first because this task involves querying and closing a bead. After that I’ll inspect `sase-mc.2`, read its design file, make the scoped changes, verify them, and close only that bead.
+
+I’ve loaded the bead lifecycle rules. Next I’m reading the bead itself and checking the workspace state so I can distinguish existing changes from anything I make.
+
+The workspace is clean, and the phase is the routing-semantics phase. I’m reading the epic plan now, then I’ll trace the model/provider selection paths it names.
+
+The plan defines the routing layer as an availability predicate over registration, CLI presence, and active temporary disables. I’m narrowing the search to LLM model selection, alias selectors, completion catalogs, and provider dispatch rather than touching the UI phase.
+
+The routing phase is broad enough that I’m going to map the current implementation before editing: registry dispatch, alias resolution, temporary overrides, launch selection, model rows, and `%model` completions.
+
+I’m going to read the existing Python surfaces in parallel now. The key thing I’m looking for is where a provider name becomes “executable” versus where raw registry metadata is only being displayed.
+
+The provider-disable facade and peek cache from the previous phase are already present. I’m reading the concrete files around them and the existing tests so I can extend the established seams instead of adding a parallel path.
+
+I found the existing alias resolver has a test seam for availability, and dispatch has a single `get_provider()` choke point. I’m checking the rest of each module before choosing the exact signature changes.
+
+The first bypass is already visible: default temporary overrides return directly before alias resolution. I’m checking the launch-selection wrapper and completion builders next so the disable snapshot can be captured once per operation.
+
+The tests already cover the old selector behavior heavily, so I’ll add focused provider-disable routing tests next to those instead of broad integration tests. Before editing, I’m reading the test fixtures that patch provider config and metadata.
+
+There is no global fixture suppressing provider-disable reads yet, so tests that rely on no disables will need the default empty state to stay cheap and deterministic. I’ll add the routing seam so callers can pass an explicit snapshot when they already have one, with fallback to an authoritative read only at top-level launch/default operations.
+
+For selector pools and fallbacks, the existing load-balancing helper already preserves “all unavailable” diagnostics by picking from the full pool when every availability bit is false. I’m confirming that invariant before wiring disabled providers into the availability bits.
+
+The dispatch error should surface as an LLM invocation failure, not a generic unexpected exception. I’m checking the invocation error plumbing so the new disabled-provider error records normal failure metadata without spawning a provider process.
+
+I’m going to make the file edits now. The changes are scoped to the LLM provider registry/resolution layer, the model picker and completion catalog, plus focused tests for provider-disable routing.
+
+The `%model` catalog has a static cache by design. I’m going to keep that cache free of disable state, then apply a live overlay that drops disabled concrete entries and refreshes alias metadata from the captured snapshot.
+
+I found the ACE completion entry point. I’ll wire it to the provider-disable peek so prompt completion reflects disable state without invalidating the static catalog cache.
+
+The local system `python` is too old for this repo’s syntax, so I’ll use the repo’s normal `just install`/test path for verification later. The implementation itself can still be patched directly.
+
+I’ve added the explicit disabled-provider exception type and the routing-status dataclass. Next I’m adding the central availability helpers and then routing existing resolution through them.
+
+The dispatch gate now checks the captured disable state before plugin creation. I’m applying the same availability helper to autodetection and alias/default resolution.
+
+Autodetection now skips disabled candidates while explicit configured providers remain visible as configuration. I’m adding the provider-routing snapshot requested for the next UI phase.
+
+The routing snapshot now includes raw provider state, CLI availability, active disable, hidden-picker flag, model count, and affected alias names. I’m moving the alias resolver to consume one captured disable snapshot through recursive selector resolution.
+
+The resolver now has a target-availability wrapper that keeps the old monkeypatch seam intact. I’m threading the captured disable snapshot through the recursive resolver and making stored alias overrides pause when their provider is disabled.
+
+I spotted one place where a paused `@default` override could loop back into itself if the alias has no configured target. I’m tightening that branch so a paused override resolves the underlying alias directly and carries paused metadata out.
+
+The resolver signatures now accept a captured disable snapshot. I’m adjusting round-robin’s all-unavailable case so disabled pools retain member zero for diagnostics and do not advance the cursor on failed availability.
+
+Round-robin now skips disabled members while preserving the existing cursor unless a real available member is selected. I’m updating the display view so it can show applied versus paused overrides and selector availability from the same snapshot.
+
+Alias views now preserve the stored override while marking it paused when its provider is disabled, and effective provider/model fields come from the fallback route. I’m removing the default-override shortcuts that bypassed alias resolution.
+
+The launch-default helper now pauses the stored default override when its provider is disabled and falls back through `@default`. I’m adding the submission-time guard so new alias overrides cannot be written directly to a disabled provider.
+
+Override writes now fail before storing a new target on a disabled provider. I’m updating launch selection so it captures provider disables once and passes that same snapshot to model/default resolution.
+
+Dispatch can now reuse the launch snapshot instead of re-reading state at every provider lookup. I’m wiring that through `invoke_agent()`, including execution-provider env overrides.
+
+I’m tightening one internal default-model lookup so it also uses the captured snapshot when it has to instantiate a provider only for model-name resolution.
+
+Next I’m filtering concrete model-picker rows by disabled provider while leaving alias rows visible. That keeps direct provider/model choices out of the picker without hiding aliases that can route around the disabled provider.
+
+I need to correct the picker modal wiring: the non-alias path still builds Textual options through `build_model_options()`, so it needs the same captured disable snapshot rather than rebuilding from ambient state.
+
+The picker modal now renders from its captured row list in both alias and non-alias modes. I’m applying the live provider-disable overlay to `%model` completions next.
+
+The completion catalog overlay now drops disabled concrete entries and refreshes alias metadata without contaminating the static cache. I’m wiring ACE’s directive completion to pass the same peeked disable snapshot explicitly.
+
+I’m exporting the new routing helpers through the LLM provider package so the next UI phase can consume the snapshot without reaching into private registry internals.
+
+The main code paths are patched. I’m doing a quick static scan for signature mismatches and undefined names before adding tests.
+
+The scan found a few style/typing issues and possible long lines, but no missed call sites yet. I’m making the provider-disable helper tolerate `None` and cleaning up long fallback expressions before writing tests.
+
+I’m splitting a few long expressions now; formatting will catch anything else later.
+
+I’m adding focused tests that exercise the new behavior directly: disabled providers are skipped by selectors/autodetection/completions, direct dispatch fails before provider creation, and paused alias overrides fall through then resume.
+
+The existing all-unavailable pool test now matches the required member-zero diagnostic behavior. I’m creating a new provider-disable routing test module for the rest.
+
+The new tests are in place. I’m adjusting one assertion to match the raw registry model count exposed by the routing snapshot.
+
+I’m going to run the repo setup now, then use the focused test lane for the files touched. After that I’ll run `just check` as required for SASE repo changes.
+
+`just install` is still building the Rust extension; I’m waiting for it to finish before running tests.
+
+The build is in the local `sase-core` binding step now. Once it completes, I’ll run formatting and the focused pytest matrix.
+
+No new output yet from the build; it’s still running. I’ll keep the install session open until it exits.
+
+The install is still in progress. This repo builds the local PyO3 extension as part of setup, so I’m letting it finish rather than interrupting it.
+
+The extension compilation has moved to `sase_core_py`, which is the final Python binding crate. After this I expect the Python package install step and then tests.
+
+Still building; no action needed yet. I’ll continue monitoring this session until it exits.
+
+The install has been running a while but is still producing a normal Rust build profile. I’m waiting rather than starting parallel tests against a half-built environment.
+
+Setup completed successfully. I’m running the formatter now so the new signatures/imports settle before tests.
+
+Formatting passed and only Python files were reformatted. I’m running the focused routing and catalog tests now, including the new provider-disable coverage.
+
+The core routing/catalog focused set is green. Since I changed picker and prompt-completion surfaces too, I’m running the related TUI unit tests before the full repo check.
+
+Those TUI picker/completion unit tests are green too. I’m running the remaining `%model` catalog overlay/filter/payload tests because the cache overlay changed.
+
+The completion cache/payload tests are green. I’m checking the diff now, then I’ll run the required `just check` gate.
+
+The diff is scoped to provider routing, picker/completion integration, and tests. I’m running `just check` now; if it takes long I’ll keep polling the same session until it finishes.
+
+`just check` reached mypy and found three typing issues: one reused local name in the resolver and two places where a captured mapping variable inferred as `dict`. I’m fixing those and will rerun the gate.
+
+I’m renaming the resolver’s temporary target variable and adding explicit mapping annotations where mypy inferred a concrete dict.
+
+The resolver name conflict is fixed. Now I’m adding the explicit annotations for the two captured disable mappings.
+
+Those mypy fixes are in. I’m rerunning `just check`; it will re-run formatting, linting, and the scoped test lane.
+
+The full `just check` lint phase is green now, including mypy. It has moved into the scoped test lane, so I’m waiting for that result.
+
+The remaining lint gates are passing; the scoped pytest selection is still running. I’ll keep polling until it exits.
+
+`just check` now fails only on Symvision unused-public checks. Project instructions require reading the Symvision memory before fixing those, so I’m loading that note and then I’ll make the minimal visibility/usage fixes.
+
+The Symvision guidance says to make symbols private when they only have in-file consumers. I’m applying that for the helper I introduced, and I’ll either restore a real non-test consumer for `build_model_options` or make it private based on current usage.
+
+`build_model_options` is a legitimate non-test helper, so I’ll restore the modal as a real consumer while preserving a captured disable snapshot. The other two findings are same-file helpers, so I’m making them private and updating in-file/test references.
+
+The alias-resolution provider-disable reader is now private. I’m renaming the provider CLI availability helper to private and updating its callers.
+
+I found the cache-clear/test references to the renamed helper. I’m updating those to the private name and fixing the helper’s docstring.
+
+The test runtime cache isolation now clears the renamed private cache. I’m updating the tests that directly exercise that cache.
+
+I’m restoring `build_model_options()` as the concrete-model modal’s option builder, but only after capturing provider-disable state once in the modal constructor so the initial rows and rendered options agree.
+
+The picker helper now has a non-test consumer again. I’m rescanning the Symvision findings before rerunning the gate.
+
+The exact Symvision lint is running now after the visibility fixes. I’m waiting for its result before rerunning all of `just check`.
+
+Symvision is clean. I’m rerunning `just check` now for the full required gate after the visibility fixes.
+
+`just check` stopped at formatting after my last small edit. I’m running the formatter again, then I’ll rerun the gate.
+
+Formatting is clean again. I’m rerunning `just check` from the top.
+
+The rerun is through mypy again. I’m waiting on the remaining lint and scoped test stages.
+
+The secondary lint gates are green. Symvision and the scoped tests are the remaining pieces.
+
+Symvision is now green inside `just check`; the run is in the scoped test phase.
+
+`just check` emitted the known core-floor probe warning for the new provider-disable bindings from the linked core commit, but it has continued past validation. I’m waiting for the final scoped-test result.
+
+No new output yet; the scoped test lane is still running.
+
+The `just check` session is still active with no new output. I’ll keep it open until it exits.
+
+The scoped tests are taking longer than the focused runs, but the process is still alive. Waiting for completion.
+
+Still no new output from the scoped test lane. I’m continuing to poll the running `just check` session.
+
+The check run has been quiet for several minutes, but the session has not exited. I’m giving it more time before deciding whether it is actually stuck.
+
+I’m checking the process tree in parallel to see what part of `just check` is still active.
+
+The process tree shows the active scoped pytest worker set for this workspace, so `just check` is not hung; it is still executing selected tests. Continuing to wait.
+
+Still no output, but pytest workers are active. I’ll keep the check session open.
+
+The scoped test run is still silent. I’m giving it another interval; if it remains quiet, I’ll inspect worker progress again.
+
+It has been quiet long enough that I’m checking worker activity again, without interrupting the `just check` process.
+
+The workers are active and using CPU, so this is just a long scoped test run rather than a deadlock. Continuing to wait.
+
+The check is still active. I’ll keep polling until it returns a pass or a failure.
+
+I’m continuing from the existing verification run. First I’ll recover the `just check` result so we don’t duplicate a long test lane unless that session is gone.
+
+The saved terminal session is no longer attached after compaction, so I’m checking the workspace and live processes before deciding whether to rerun the verification.
+
+No verification process is still running. I’m rerunning `just check` now so the bead can be closed against a complete, current result.
+
+The second `just check` has cleared formatting, Ruff, mypy, and the early custom lint gates. It’s still running through the remaining validation and scoped tests.
+
+The patch/stitch terminology lint passed. I’m waiting on the slower gates now, mostly Symvision, SASE validation, and the diff-scoped pytest lane.
+
+The remaining lint gates passed. The core-floor probe is reporting an actionable dependency-floor warning for `sase-core-rs` v0.27.5 capabilities, but `just check` continued into the committed-plan and test stages; I’ll let the command finish before deciding whether this bead needs an extra fix.
+
+No new output yet; the scoped pytest run is still active. I’m letting it finish rather than interrupting it.
+
+The long pole is still the diff-selected test lane. Since it’s quiet but the session is alive, I’m continuing to wait for the final status.
+
+Still no terminal output from pytest, which is normal for this lane until it finishes or fails. I’ll keep polling the same run.
+
+The check is still running without new output. I’m going to keep it attached; ending now would leave the result ambiguous.
+
+It has been quiet long enough that I’m checking the worker processes in a separate terminal while leaving `just check` attached. That will tell me whether pytest is still making progress or stuck.
+
+The pytest workers are active and consuming CPU, so this is a long-running selection rather than a dead session. I’m keeping the same `just check` run open.
+
+Still waiting on the same active pytest lane. No action needed yet beyond polling for its final result.
+
+The run remains attached and quiet. I’ll continue polling; if it reports a failure, I’ll address that before closing the bead.
+
+This is still in the expected quiet phase for parallel pytest. I’m doing one more process check to confirm it hasn’t collapsed into an idle hang.
+
+The process check shows pytest still using CPU. One worker is inside an agent-runtime test invocation, so this may take longer than the narrower focused tests but it is not idle.
+
+No final result yet. I’m continuing to keep the verification attached and will only close the bead after this run exits cleanly.
+
+The scoped lane is still quiet. I’m waiting out the same run to avoid mixing results from overlapping test attempts.
+
+`just check` failed in the full-suite escalation, not the lint gates: 10 existing invoke/temporary-override tests failed. I’m rerunning those failures directly with full failure output so I can separate implementation issues from test fixture assumptions.
+
+The failing tests are all call-shape failures from passing an empty `provider_disables={}` through mocked helpers. I’m going to tighten the invoke path so the new routing snapshot is threaded only when there is an active disable; disabled-provider cases still use the same guard, while no-disable call sites preserve the previous shape.
+
+I’ve got the relevant invoke and launch-selection code open. The edit will be small: normalize an empty disable snapshot to `None`, and branch wrapper calls so mocks and older no-disable paths don’t receive a new empty keyword.
+
+I’m applying the compatibility fix now. The routing seam remains available for active disables, but empty snapshots won’t leak into unrelated mocked call assertions.
+
+The invoke path is patched. I’m applying the same empty-snapshot branching inside launch selection, since one failure came from a patched resolver there.
+
+I need to sanity-check that patch before running tests; there’s enough branching there that a quick read is cheaper than chasing a syntax or logic regression.
+
+The review found one typo in the helper argument: the default-alias resolver should receive `model_tier`, not the current model override. I’m correcting that now.
+
+The compatibility patch is in place. I’m rerunning the 10 failures directly first, then I’ll rerun the broader checks.
+
+Those 10 failures now pass. I’m formatting after the patch, then I’ll rerun the focused provider-routing coverage before another `just check`.
+
+Formatting made no changes. I’m rerunning the focused routing and model-selection tests now.
+
+The focused provider and invoke tests are green again: 86 passed. I’m starting another `just check`; because the scoped selector escalates for this diff, this may run the full non-visual suite again.
+
+`just check` has started and passed the first formatting/Ruff gates. I’m waiting through the remaining lint and test stages.
+
+Mypy and the custom lint gates passed. The run is moving into Symvision/SASE validation and then tests.
+
+Symvision and size checks are clean. I’m waiting on SASE validation and the test lane now.
+
+SASE validation passed, but the core-floor probe is warning that the declared `sase-core-rs` floor is still `0.27.4` while the provider-disable APIs are in `0.27.5`. I’m letting the run finish, then I’ll decide whether to bump that floor as part of this bead before closing.
+
+The command is in the pytest lane now and quiet. I’m keeping it attached until it exits.
+
+Still no pytest output. This looks like the same full-suite escalation path as before.
+
+The full test lane is still running silently. I’m waiting for completion rather than starting another overlapping verification.
+
+It has been quiet for a couple of minutes, so I’ll check the process table once while leaving the verification attached.
+
+The pytest workers are active and CPU-bound, so this is still progressing. There are unrelated or older SASE test processes visible too, but I’m not touching them while the current check is running.
+
+No new output from pytest yet. I’m continuing to wait on the same `just check` run.
+
+The verification is still active. I’ll keep it attached until pytest emits its summary.
+
+Still waiting on full-suite output. The earlier focused failures are fixed, so the useful signal now is whether any unrelated full-suite issue appears.
+
+The check is still in progress and quiet. I’m not starting any more commands that would compete with it.
+
+Still no summary. I’m continuing to poll the running verification.
+
+`just check` passed; the scoped lane escalated to the full suite and completed cleanly. I’m checking the dependency floor warning now because it is actionable and directly tied to provider-disable APIs.
+
+The warning maps to `pyproject.toml` and `uv.lock`: the project still allows/locks `sase-core-rs` 0.27.4. Since this phase depends on provider-disable bindings that first ship in 0.27.5, I’m going to bump the Python dependency floor and refresh the lockfile, then rerun verification.
+
+There is an existing ratchet tool for this exact metadata update. I’ll use that instead of hand-editing the lockfile.
+
+I’m checking the tool’s apply flags so the generated pyproject and lock changes match the repo’s expected workflow.
+
+That search treated the pattern as a flag; I’m rerunning it with a safe pattern.
+
+The tool applies by default and exits `2` when it made the ratchet, so I’ll treat that exit as expected if it reports “applied.”
+
+The dependency ratchet applied cleanly. I’m checking the metadata diff, then I’ll reinstall so the environment matches the new floor before rerunning verification.
+
+The ratchet touched only `pyproject.toml` and the `sase-core-rs` lock stanza. I’m reinstalling now so the environment is consistent with the updated floor.
+
+The floor bump exposed a real local-workspace issue: the linked `sase-core` checkout is still at source version 0.27.4. Since that is a separate repo, I need to use the repo skill before touching it, then update the linked checkout and reinstall.
+
+Using `sase_repo` for the linked Rust core checkout now.
+
+The linked core path is prepared. I’m checking its branch, status, and version before pulling anything.
+
+The linked core checkout already has the provider-disable commit, but its `Cargo.toml` still reports 0.27.4. I’m fetching the remote/tags to see whether the release-version bump for 0.27.5 is available locally.
+
+Fetch found a new release-plz branch. I’m checking whether it contains the 0.27.5 version bump and how it relates to `master`.
+
+`origin/master` is the released 0.27.5 bump and the local linked checkout is one commit behind. The checkout is clean, so I’m fast-forwarding it to `origin/master`.
+
+The linked core repo is now fast-forwarded to the 0.27.5 release commit. I’m rerunning `just install`.
+
+`just install` is rebuilding the Rust extension from the updated 0.27.5 linked core. I’ll wait for the build to finish before running checks.
+
+The Rust build is still running without new output. I’m keeping it attached.
+
+The Python binding crate is compiling now. Still waiting on install completion.
+
+No new build output yet; the install session is still active.
+
+The Rust rebuild is still in progress. I’m continuing to wait for the install result.
+
+Still compiling quietly. I’m leaving the build alone; interrupting here would just make verification less reliable.
+
+`just install` completed with `sase-core-rs` 0.27.5 installed. I’m rerunning `just check` now; this should also confirm the core-floor warning is gone.
+
+The post-ratchet `just check` has cleared formatting, Ruff, mypy, and the early custom lint gates. I’m waiting on the remaining gates and tests.
+
+Changelog and terminology checks passed. Continuing through Symvision/SASE validation.
+
+The core-floor warning is gone; SASE validation and committed-plan checks are clean. The run is in the test lane now.
+
+The test lane is running silently. I’m waiting for its summary.
+
+Still quiet in pytest; same full-suite path as before.
+
+No final output yet. I’m continuing to poll the active check.
+
+It’s been quiet long enough that I’m checking the process table once while leaving `just check` attached.
+
+The pytest workers are still active, including an agent-chat subprocess from the test suite. This remains a live run, not an idle hang.
+
+Still waiting on the test summary.
+
+The check is still running quietly. I’m staying with it until it exits.
+
+No new output yet; the full-suite escalation is still active.
+
+Still waiting. Since the worker processes are CPU-active, I’m continuing to poll rather than interrupt.
+
+The post-ratchet `just check` passed, with full-suite escalation due to config/core identity changes. I’m doing final status and process checks before closing the bead.
+
+The primary repo has the expected modified files and the linked core repo is clean. The process scan shows a couple of remaining background commands, so I’m checking their working directories before I decide whether they belong to this run or another agent.
+
+Those remaining processes belong to another workspace or the global core checkout, not this bead’s terminal sessions. I’m closing `sase-mc.2` with the verification summary now.
+
+The bead is closed. I’m doing one final status check so the close note didn’t add any unexpected working-tree noise.
+
+Completed and closed `sase-mc.2`.
+
+Implemented the provider-disable routing seam across alias resolution, load-balanced and ordered fallbacks, default/temporary overrides, provider dispatch, model picker rows/options, and `%model` completions. Also bumped the `sase-core-rs` floor to `>=0.27.5,<0.28.0` and refreshed `uv.lock`; the linked `sase-core` checkout was fast-forwarded to the v0.27.5 release so `just install` works cleanly.
+
+Verified:
+- `just install`
+- focused provider/invoke pytest: `86 passed`
+- earlier focused TUI/completion pytest groups: `88 passed`, `31 passed`
+- `just check` passed, with full-suite escalation
+
+Bead close note was recorded with that verification summary. No commit was made.
+
+I’m in the finalizer path now. I’ll use the SASE memory-read workflow for the bead close requirement, then the SASE git commit workflow because the finalizer requires committing the changes made for this bead.
+
+I’m reading the bead lifecycle note before running the required close command. After that I’ll verify the dirty tree and commit exactly the bead changes.
+
+The bead rules confirm re-closing is a safe no-op and that phase workers close their phase only. I’m running the finalizer-required close command now and will treat any unpublished-close diagnostic as something to remediate before committing.
+
+The close command is still running, so I’m staying attached to it. I need its exit status before the commit workflow, because the finalizer treats that close as part of verification.
+
+The close command exited successfully and appended the verification note. I’m recording the commit-skill use now, then I’ll review the dirty tree before creating the commit message.
+
+I’m checking the working tree now. The commit skill stages everything by default, so I need to make sure there are no unrelated files that should be excluded.
+
+The dirty tree matches the finalizer list plus the new routing test file; no bead-store file appeared in the repo. The branch is behind upstream, but the SASE commit workflow handles that after committing, so I’m not syncing by hand.
+
+The diff review shows the expected dependency floor ratchet, centralized provider-disable routing helpers, launch/invoke threading, and the new regression tests. I’m reading the rest of the new test file and UI/completion diff before writing the commit message.
+
+The remaining diff is consistent with the same feature: UI completion/picker filtering, alias view paused overrides, selector fallback behavior, cache-test updates, and the new `sase-core-rs` floor. I’m preparing a conventional commit message now.
+
+There’s a stale ignored commit-message file from a different change. I’m replacing only that temporary message with this bead’s commit message.
+
+The stale message is removed. I’m writing the new conventional commit message for the provider-disable routing change.
+
+The commit message now describes only this bead’s changes. I’m doing a quick whitespace/status check, then I’ll run the SASE commit wrapper.
+
+The whitespace check is clean and the dirty file list is expected. I’m invoking `sase_git_commit` now; this will commit first, then handle any upstream rebase/push bookkeeping.
+
+The commit wrapper has completed the provider dispatch step successfully and is still finalizing. I’m staying attached until the process exits, then I’ll verify clean and not ahead.
+
+The commit exited 0. It reported deferred prompt-archive publication because the agents sync lock is busy; now I’m checking git status to confirm whether the repo is clean and whether the commit was pushed.
+
+The working tree is clean and the branch is aligned with `origin/master`; no manual push is needed. I’m grabbing the final commit identifier for the closeout.
+
+Finalizer handled.
+
+I re-ran the required bead close command for `sase-mc.2`; it was already closed and the verification note was appended. Then I committed the bead changes with the SASE commit workflow:
+
+`58b9b447f feat(llm-provider): honor disabled providers in model routing`
+
+Final checks:
+- `git diff --check` passed
+- `git status --short --branch` is clean and aligned with `origin/master`
+
+One warning from the commit wrapper: prompt archive publication was deferred because the agents sync lock is busy, with quarantined publication requests already present. The git commit itself completed successfully.
