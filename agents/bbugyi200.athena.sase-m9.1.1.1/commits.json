@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ada78e03a471fc949ea2cf9745392b7a"}
+{"commits":[{"committed_at":1786751958,"sha":"4280bc990c59dd3c2558af442673b0c037015281","subject":"refactor(agents): introduce canonical SaseAgentRef projection"}],"schema_version":2,"source_run_id":"run-ada78e03a471fc949ea2cf9745392b7a"}

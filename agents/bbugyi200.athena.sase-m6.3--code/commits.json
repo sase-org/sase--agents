@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-01998596852f7991705c4662e1cb6109"}
+{"commits":[{"committed_at":1786751813,"sha":"33180daf1e381f44a88a8825fa9e46d7c55b2228","subject":"feat(ace): give every Artifacts pane a typed, serializable row identity"}],"schema_version":2,"source_run_id":"run-01998596852f7991705c4662e1cb6109"}

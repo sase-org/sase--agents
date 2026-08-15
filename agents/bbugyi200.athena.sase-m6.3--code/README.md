@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m6](../../users/bbugyi200/machines/athena/hoods/sase-m6/README.md) / [sase-m6.3](../../families/bbugyi200.athena.sase-m6.3.md) / sase-m6.3--code
 
-**Global name:** `bbugyi200.athena.sase-m6.3--code` · **State:** active · **Source run:** `run-01998596852f7991705c4662e1cb6109`
+**Global name:** `bbugyi200.athena.sase-m6.3--code` · **State:** completed · **Source run:** `run-01998596852f7991705c4662e1cb6109`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m6
 
@@ -13,7 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-14T22:02:14.258432+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`33180da`](https://github.com/sase-org/sase/commit/33180daf1e381f44a88a8825fa9e46d7c55b2228) | feat(ace): give every Artifacts pane a typed, serializable row identity | 2026-08-14 19:56:53 EDT |
 
 ## Neighbors
 
@@ -22,7 +32,7 @@
 | [sase-m6.1](../bbugyi200.athena.sase-m6.1/README.md) | sase-m6 hood | completed |
 | [sase-m6.10](../bbugyi200.athena.sase-m6.10/README.md) | sase-m6 hood | waiting |
 | [sase-m6.2](../bbugyi200.athena.sase-m6.2/README.md) | sase-m6 hood | completed |
-| [sase-m6.4](../bbugyi200.athena.sase-m6.4/README.md) | sase-m6 hood | waiting |
+| [sase-m6.4](../bbugyi200.athena.sase-m6.4/README.md) | sase-m6 hood | active |
 | [sase-m6.5](../bbugyi200.athena.sase-m6.5/README.md) | sase-m6 hood | waiting |
 | [sase-m6.6](../bbugyi200.athena.sase-m6.6/README.md) | sase-m6 hood | waiting |
 | [sase-m6.7](../bbugyi200.athena.sase-m6.7/README.md) | sase-m6 hood | waiting |
