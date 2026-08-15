@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add support to the completion triggered by the `<ctrl+t>` keymap for common words found in previous prompts for completing words that contain dashes? For example, in #sshot, we should have triggered completion for "bob-mac-capture". #plan

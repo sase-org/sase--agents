@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:028.f0.f0 Can you now help me add a new glossary entry for the bob-cli project? Make sure this glossary entry is excellent but concise. Keep in mind that every token in context either helps or hurts us. #plan
