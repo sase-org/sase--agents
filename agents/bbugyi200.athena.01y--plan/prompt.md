@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Sase agents are failing when attempting to launch child epics (epic plans that are proposed by phase agents that are themselves working epics). The `sase-m6.6` sase agent, for example, failed for this reason (see #sshot for context). Can you help me diagnose the root cause of this issue and fix it? #plan

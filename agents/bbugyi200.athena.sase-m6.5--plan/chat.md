@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-m6.5--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_m6_5__plan-260814_170838.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_m6_5__code-260814_170838.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/artifacts_shared_shell.md
 
 

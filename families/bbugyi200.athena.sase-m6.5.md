@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-m6` · Members: 2 · Bead: [sase-m6.5](
 
 ```mermaid
 flowchart TD
-  n0["sase-m6.5--code [active]"]
-  n1["sase-m6.5--plan [active]"]
+  n0["sase-m6.5--code [completed]"]
+  n1["sase-m6.5--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-m6.5--code | active | sonnet / claude | 2026-08-15T01:24:52.572679+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-m6.5--plan | active | gpt-5.6-sol / codex | 2026-08-15T01:19:49.862825+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m6.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m6.5--plan/chat.md) |
+| <a id="member-code"></a>code | sase-m6.5--code | completed | sonnet / claude | 2026-08-15T01:24:52.572679+00:00 | [1](../agents/bbugyi200.athena.sase-m6.5--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-m6.5--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-m6.5--plan | completed | gpt-5.6-sol / codex | 2026-08-15T01:19:49.862825+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m6.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m6.5--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`d19d086`](https://github.com/sase-org/sase/commit/d19d08641246a2b0f9276fded07d93004815d640) | feat(tui): give every Artifacts pane a shared shell and visual grammar | 2026-08-14 23:17:01 EDT |
 
 ## Neighbors
 

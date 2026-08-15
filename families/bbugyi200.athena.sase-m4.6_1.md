@@ -35,4 +35,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-m4.6](bbugyi200.athena.sase-m4.6.md) (family · 4) | sase-m4 hood | completed 1, dismissed 1, failed 2 |
 | [sase-m4.6--2--code](../agents/bbugyi200.athena.sase-m4.6--2--code/README.md) | sase-m4 hood | completed |
 | [sase-m4.6--2--plan](../agents/bbugyi200.athena.sase-m4.6--2--plan/README.md) | sase-m4 hood | completed |
-| [sase-m4.land](bbugyi200.athena.sase-m4.land.md) (family · 3) | sase-m4 hood | active 3 |
+| [sase-m4.land](bbugyi200.athena.sase-m4.land.md) (family · 21) | sase-m4 hood | completed 11, failed 10 |
+| [sase-m4.land--a--code](../agents/bbugyi200.athena.sase-m4.land--a--code/README.md) | sase-m4 hood | completed |
+| [sase-m4.land--a--plan](../agents/bbugyi200.athena.sase-m4.land--a--plan/README.md) | sase-m4 hood | completed |

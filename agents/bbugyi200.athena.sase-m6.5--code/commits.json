@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-690df388b31b45fc476e5e0df0e88177"}
+{"commits":[{"committed_at":1786763821,"sha":"d19d08641246a2b0f9276fded07d93004815d640","subject":"feat(tui): give every Artifacts pane a shared shell and visual grammar"}],"schema_version":2,"source_run_id":"run-690df388b31b45fc476e5e0df0e88177"}

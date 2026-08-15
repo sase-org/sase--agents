@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m6](../../users/bbugyi200/machines/athena/hoods/sase-m6/README.md) / [sase-m6.5](../../families/bbugyi200.athena.sase-m6.5.md) / sase-m6.5--code
 
-**Global name:** `bbugyi200.athena.sase-m6.5--code` · **State:** active · **Source run:** `run-690df388b31b45fc476e5e0df0e88177`
+**Global name:** `bbugyi200.athena.sase-m6.5--code` · **State:** completed · **Source run:** `run-690df388b31b45fc476e5e0df0e88177`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m6
 
@@ -13,7 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-15T01:24:52.572679+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`d19d086`](https://github.com/sase-org/sase/commit/d19d08641246a2b0f9276fded07d93004815d640) | feat(tui): give every Artifacts pane a shared shell and visual grammar | 2026-08-14 23:17:01 EDT |
 
 ## Neighbors
 
