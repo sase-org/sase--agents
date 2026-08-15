@@ -12,4 +12,10 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-15T19:35:47.618877+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`0b465a3`](https://github.com/sase-org/sase/commit/0b465a39c31d55f64a087123b68ff33ad50a5b04) | fix(monitor): pin implicit starts to the calling agent | 2026-08-15 16:07:07 EDT |
