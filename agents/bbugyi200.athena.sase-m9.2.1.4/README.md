@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m9](../../users/bbugyi200/machines/athena/hoods/sase-m9/README.md) / sase-m9.2.1.4
 
-**Global name:** `bbugyi200.athena.sase-m9.2.1.4` · **State:** active · **Source run:** `run-58f1fa407a9196f69c1ca28ee098f1d0`
+**Global name:** `bbugyi200.athena.sase-m9.2.1.4` · **State:** completed · **Source run:** `run-58f1fa407a9196f69c1ca28ee098f1d0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m9
 
@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-15T12:13:18.800792+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8b4635a`](https://github.com/sase-org/sase/commit/8b4635ad13e8caa76a004adee92d41c4322fd43c) | feat(monitor): run monitors through the shared proc service | 2026-08-15 09:25:57 EDT |
 
 ## Neighbors
 
@@ -27,7 +33,7 @@
 | [sase-m9.2.1.1](../bbugyi200.athena.sase-m9.2.1.1/README.md) | sase-m9.2.1 hood | completed |
 | [sase-m9.2.1.2](../bbugyi200.athena.sase-m9.2.1.2/README.md) | sase-m9.2.1 hood | completed |
 | [sase-m9.2.1.3](../bbugyi200.athena.sase-m9.2.1.3/README.md) | sase-m9.2.1 hood | completed |
-| [sase-m9.2.1.5](../bbugyi200.athena.sase-m9.2.1.5/README.md) | sase-m9.2.1 hood | waiting |
+| [sase-m9.2.1.5](../../families/bbugyi200.athena.sase-m9.2.1.5.md) (family · 2) | sase-m9.2.1 hood | completed 1, failed 1 |
 | [sase-m9.2.1.land](../bbugyi200.athena.sase-m9.2.1.land/README.md) | sase-m9.2.1 hood | waiting |
 | [sase-m9.1](../../families/bbugyi200.athena.sase-m9.1.md) (family · 2) | sase-m9 hood | failed 2 |
 | [sase-m9.1.1.1](../bbugyi200.athena.sase-m9.1.1.1/README.md) | sase-m9 hood | completed |
