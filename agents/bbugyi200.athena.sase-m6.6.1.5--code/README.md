@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m6](../../users/bbugyi200/machines/athena/hoods/sase-m6/README.md) / [sase-m6.6.1.5](../../families/bbugyi200.athena.sase-m6.6.1.5.md) / sase-m6.6.1.5--code
 
-**Global name:** `bbugyi200.athena.sase-m6.6.1.5--code` · **State:** active · **Source run:** `run-2e8da5e2a93fe29eed04e2ec84e1ac79`
+**Global name:** `bbugyi200.athena.sase-m6.6.1.5--code` · **State:** active · **Source run:** `run-e80624f9435f1b95d95b7509c526bd0b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m6
 
@@ -10,16 +10,10 @@
 
 - Bead: [sase-m6.6.1.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m6/sase-m6.6.1.5.md)
 - Epic: [sase-m6.6.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m6/sase-m6.6.1.md)
-- Model: sonnet
-- Provider: claude
-- Timing: 2026-08-15T12:06:52.894806+00:00
-- Commits: [1](#commits)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`545cb8e`](https://github.com/sase-org/sase/commit/545cb8e7055c61a81773c424a94a73386aa131db) | feat(query): wire the compiled query profile into contracts, host facade, and FilterBar | 2026-08-15 09:08:39 EDT |
+- Model: grok-4.6
+- Provider: grok
+- Timing: 2026-08-15T22:46:39.304597+00:00
+- Commits: 0
 
 ## Neighbors
 

@@ -25,6 +25,6 @@
 |---|---|---|
 | [sase-mg.2](../bbugyi200.athena.sase-mg.2/README.md) | sase-mg hood | completed |
 | [sase-mg.3](../bbugyi200.athena.sase-mg.3/README.md) | sase-mg hood | completed |
-| [sase-mg.4](../bbugyi200.athena.sase-mg.4/README.md) | sase-mg hood | active |
-| [sase-mg.land](../bbugyi200.athena.sase-mg.land/README.md) | sase-mg hood | waiting |
+| [sase-mg.4](../bbugyi200.athena.sase-mg.4/README.md) | sase-mg hood | completed |
+| [sase-mg.land](../../families/bbugyi200.athena.sase-mg.land.md) (family · 2) | sase-mg hood | active 2 |
 | [sase-mg.land.w0](../bbugyi200.athena.sase-mg.land.w0/README.md) | sase-mg hood | waiting |

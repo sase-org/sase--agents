@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-60e9818bfb7820f4f579f7e12caa4498"}
+{"commits":[{"committed_at":1786834287,"sha":"5511f04ed37e0545984957e17e52247cc3fa3256","subject":"fix(tui): keep Models selection across provider snapshots"}],"schema_version":2,"source_run_id":"run-60e9818bfb7820f4f579f7e12caa4498"}

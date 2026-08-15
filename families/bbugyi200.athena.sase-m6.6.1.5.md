@@ -17,14 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-m6.6.1.5--code | active | sonnet / claude | 2026-08-15T12:06:52.894806+00:00 | [1](../agents/bbugyi200.athena.sase-m6.6.1.5--code/README.md#commits) | — | — |
-| <a id="member-plan"></a>plan | sase-m6.6.1.5--plan | active | gpt-5.6-sol / codex | 2026-08-15T11:58:54.392010+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m6.6.1.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m6.6.1.5--plan/chat.md) |
+| <a id="member-code"></a>code | sase-m6.6.1.5--code | active | grok-4.6 / grok | 2026-08-15T22:46:39.304597+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-m6.6.1.5--plan | active | gpt-5.6-sol / codex | 2026-08-15T22:42:16.981222+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m6.6.1.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m6.6.1.5--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`545cb8e`](https://github.com/sase-org/sase/commit/545cb8e7055c61a81773c424a94a73386aa131db) | feat(query): wire the compiled query profile into contracts, host facade, and FilterBar | 2026-08-15 09:08:39 EDT |
+| — | sase | [`545cb8e`](https://github.com/sase-org/sase/commit/545cb8e7055c61a81773c424a94a73386aa131db) | feat(query): wire the compiled query profile into contracts, host facade, and FilterBar | 2026-08-15 09:08:39 EDT |
 
 ## Neighbors
 

@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-mc.5.land--code | active | grok-4.6 / grok | 2026-08-15T22:32:02.662003+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-mc.5.land--code | active | grok-4.6 / grok | 2026-08-15T22:32:02.662003+00:00 | [1](../agents/bbugyi200.athena.sase-mc.5.land--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-mc.5.land--plan | active | gpt-5.6-sol / codex | 2026-08-15T22:14:33.898179+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-mc.5.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-mc.5.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`5511f04`](https://github.com/sase-org/sase/commit/5511f04ed37e0545984957e17e52247cc3fa3256) | fix(tui): keep Models selection across provider snapshots | 2026-08-15 18:51:27 EDT |
 
 ## Neighbors
 
