@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me have the `sase bead work` command start only killing agents that are waiting/failed and assigned to beads corresponding with the current launch? Currently, we seem to kill running agents as well (so we lose work and waste tokens by launching another agent to work the same bead). #plan
