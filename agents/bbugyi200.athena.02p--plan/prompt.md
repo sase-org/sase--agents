@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The sase agent named `02i` is struggling and is complaining abou a duplicate agent running in its workspace. Can you help me figure out what's going on here so that the agent can finally finish its work and rest? If there truly is another agent running in that workspace, identify what agent is running and what its purpose/prompt is. #plan

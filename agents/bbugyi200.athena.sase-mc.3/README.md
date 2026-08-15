@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-mc](../../users/bbugyi200/machines/athena/hoods/sase-mc/README.md) / sase-mc.3
 
-**Global name:** `bbugyi200.athena.sase-mc.3` · **State:** active · **Source run:** `run-0d91a15dc2b8bc22076e0865d6abe7c8`
+**Global name:** `bbugyi200.athena.sase-mc.3` · **State:** completed · **Source run:** `run-0d91a15dc2b8bc22076e0865d6abe7c8`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-mc
 
@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-15T17:31:12.645123+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`868f376`](https://github.com/sase-org/sase/commit/868f376dfa797852ba4f116df1d778e05fbb8bd8) | feat(ace): add provider routing controls to models panel | 2026-08-15 14:48:16 EDT |
 
 ## Neighbors
 
@@ -25,5 +31,5 @@
 |---|---|---|
 | [sase-mc.1](../bbugyi200.athena.sase-mc.1/README.md) | sase-mc hood | completed |
 | [sase-mc.2](../bbugyi200.athena.sase-mc.2/README.md) | sase-mc hood | completed |
-| [sase-mc.4](../bbugyi200.athena.sase-mc.4/README.md) | sase-mc hood | waiting |
+| [sase-mc.4](../bbugyi200.athena.sase-mc.4/README.md) | sase-mc hood | active |
 | [sase-mc.land](../bbugyi200.athena.sase-mc.land/README.md) | sase-mc hood | waiting |
