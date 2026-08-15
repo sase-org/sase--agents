@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-97c7507548566faef72c53e7d54bad87"}
+{"commits":[{"committed_at":1786833030,"sha":"6f3e51a137ec3b6142288eb6fa17aa855ea4b952","subject":"fix(bead): preserve active workers during relaunch"}],"schema_version":2,"source_run_id":"run-97c7507548566faef72c53e7d54bad87"}
