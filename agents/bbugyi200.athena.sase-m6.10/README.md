@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m6](../../users/bbugyi200/machines/athena/hoods/sase-m6/README.md) / sase-m6.10
 
-**Global name:** `bbugyi200.athena.sase-m6.10` · **State:** waiting · **Source run:** `run-cf2b90100eeffe70bff548e04ba51ba9`
+**Global name:** `bbugyi200.athena.sase-m6.10` · **State:** waiting · **Source run:** `run-373c1d7b17b9e8381d62dc0f8d528f04`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m6
 
@@ -10,9 +10,9 @@
 
 - Bead: [sase-m6.10](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m6/sase-m6.10.md)
 - Epic: [sase-m6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m6/README.md)
-- Model: gpt-5.5
-- Provider: codex
-- Timing: 20260814170843
+- Model: grok-4.6
+- Provider: grok
+- Timing: 20260815192155
 - Commits: 0
 
 ## Files
@@ -34,7 +34,7 @@
 | [sase-m6.6.1.2](../../families/bbugyi200.athena.sase-m6.6.1.2.md) (family · 2) | sase-m6 hood | completed 2 |
 | [sase-m6.6.1.3](../bbugyi200.athena.sase-m6.6.1.3/README.md) | sase-m6 hood | completed |
 | [sase-m6.6.1.4](../bbugyi200.athena.sase-m6.6.1.4/README.md) | sase-m6 hood | completed |
-| [sase-m6.6.1.5](../../families/bbugyi200.athena.sase-m6.6.1.5.md) (family · 2) | sase-m6 hood | active 2 |
+| [sase-m6.6.1.5](../../families/bbugyi200.athena.sase-m6.6.1.5.md) (family · 4) | sase-m6 hood | active 1, completed 2, failed 1 |
 | [sase-m6.6.1.6](../bbugyi200.athena.sase-m6.6.1.6/README.md) | sase-m6 hood | waiting |
 | [sase-m6.6.1.7](../bbugyi200.athena.sase-m6.6.1.7/README.md) | sase-m6 hood | waiting |
 | [sase-m6.6.1.land](../bbugyi200.athena.sase-m6.6.1.land/README.md) | sase-m6 hood | waiting |
