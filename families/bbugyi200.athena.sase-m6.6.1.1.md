@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-m6` · Members: 5 · Bead: [sase-m6.6.1
 
 ```mermaid
 flowchart TD
-  n0["sase-m6.6.1.1--2 [active]"]
+  n0["sase-m6.6.1.1--2 [completed]"]
   n1["sase-m6.6.1.1--1 [completed]"]
   n0 --> n1
   n2["sase-m6.6.1.1--plan [completed]"]
@@ -23,7 +23,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-2"></a>2 | sase-m6.6.1.1--2 | active | sonnet / claude | 2026-08-15T11:00:54.033989+00:00 | [1](../agents/bbugyi200.athena.sase-m6.6.1.1--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-m6.6.1.1--2/prompt.md) | — |
+| <a id="member-2"></a>2 | sase-m6.6.1.1--2 | completed | sonnet / claude | 2026-08-15T11:00:54.033989+00:00 | [1](../agents/bbugyi200.athena.sase-m6.6.1.1--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-m6.6.1.1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m6.6.1.1--2/chat.md) |
 | <a id="member-1"></a>1 | sase-m6.6.1.1--1 | completed | sonnet / claude | 2026-08-15T10:53:33.849265+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m6.6.1.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m6.6.1.1--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-m6.6.1.1--plan | completed | sonnet / claude | 2026-08-15T10:21:05.465846+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m6.6.1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m6.6.1.1--plan/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-m6.6.1.1--mon-0 | failed | sonnet / claude | 2026-08-15T10:54:23.470729+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-m6.6.1.1--mon-0/chat.md) |
@@ -40,9 +40,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-m6.6](../agents/bbugyi200.athena.sase-m6.6/README.md) | ancestor | failed |
-| [sase-m6.6.1.2](../agents/bbugyi200.athena.sase-m6.6.1.2/README.md) | sase-m6.6.1 hood | waiting |
-| [sase-m6.6.1.3](../agents/bbugyi200.athena.sase-m6.6.1.3/README.md) | sase-m6.6.1 hood | waiting |
-| [sase-m6.6.1.4](../agents/bbugyi200.athena.sase-m6.6.1.4/README.md) | sase-m6.6.1 hood | waiting |
+| [sase-m6.6.1.2](bbugyi200.athena.sase-m6.6.1.2.md) (family · 2) | sase-m6.6.1 hood | active 2 |
+| [sase-m6.6.1.3](../agents/bbugyi200.athena.sase-m6.6.1.3/README.md) | sase-m6.6.1 hood | active |
+| [sase-m6.6.1.4](../agents/bbugyi200.athena.sase-m6.6.1.4/README.md) | sase-m6.6.1 hood | active |
 | [sase-m6.6.1.5](../agents/bbugyi200.athena.sase-m6.6.1.5/README.md) | sase-m6.6.1 hood | waiting |
 | [sase-m6.6.1.6](../agents/bbugyi200.athena.sase-m6.6.1.6/README.md) | sase-m6.6.1 hood | waiting |
 | [sase-m6.6.1.7](../agents/bbugyi200.athena.sase-m6.6.1.7/README.md) | sase-m6.6.1 hood | waiting |

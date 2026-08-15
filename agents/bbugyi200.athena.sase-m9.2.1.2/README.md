@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m9](../../users/bbugyi200/machines/athena/hoods/sase-m9/README.md) / sase-m9.2.1.2
 
-**Global name:** `bbugyi200.athena.sase-m9.2.1.2` · **State:** waiting · **Source run:** `run-8a1f82d60d45095e5a6a911523bdd40c`
+**Global name:** `bbugyi200.athena.sase-m9.2.1.2` · **State:** active · **Source run:** `run-8a1f82d60d45095e5a6a911523bdd40c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m9
 
@@ -12,19 +12,25 @@
 - Epic: [sase-m9.2.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m9/sase-m9.2.1.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260815061630
-- Commits: 0
+- Timing: 2026-08-15T10:57:04.500561+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`152268b`](https://github.com/sase-org/sase/commit/152268b597d070c653fe022e88c9370352e07a08) | feat(procs): route submits through one typed supervisor service | 2026-08-15 07:37:40 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-m9.2](../bbugyi200.athena.sase-m9.2/README.md) | ancestor | active |
-| [sase-m9.2.1.1](../bbugyi200.athena.sase-m9.2.1.1/README.md) | sase-m9.2.1 hood | active |
+| [sase-m9.2.1.1](../bbugyi200.athena.sase-m9.2.1.1/README.md) | sase-m9.2.1 hood | completed |
 | [sase-m9.2.1.3](../bbugyi200.athena.sase-m9.2.1.3/README.md) | sase-m9.2.1 hood | waiting |
 | [sase-m9.2.1.4](../bbugyi200.athena.sase-m9.2.1.4/README.md) | sase-m9.2.1 hood | waiting |
 | [sase-m9.2.1.5](../bbugyi200.athena.sase-m9.2.1.5/README.md) | sase-m9.2.1 hood | waiting |

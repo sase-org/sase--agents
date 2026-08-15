@@ -29,8 +29,8 @@
 | [sase-m9.1.1.land](../../families/bbugyi200.athena.sase-m9.1.1.land.md) (family · 6) | sase-m9 hood | completed 4, failed 2 |
 | [sase-m9.2](../../families/bbugyi200.athena.sase-m9.2.md) (family · 2) | sase-m9 hood | failed 2 |
 | [sase-m9.2](../bbugyi200.athena.sase-m9.2/README.md) | sase-m9 hood | active |
-| [sase-m9.2.1.1](../bbugyi200.athena.sase-m9.2.1.1/README.md) | sase-m9 hood | active |
-| [sase-m9.2.1.2](../bbugyi200.athena.sase-m9.2.1.2/README.md) | sase-m9 hood | waiting |
+| [sase-m9.2.1.1](../bbugyi200.athena.sase-m9.2.1.1/README.md) | sase-m9 hood | completed |
+| [sase-m9.2.1.2](../bbugyi200.athena.sase-m9.2.1.2/README.md) | sase-m9 hood | active |
 | [sase-m9.2.1.3](../bbugyi200.athena.sase-m9.2.1.3/README.md) | sase-m9 hood | waiting |
 | [sase-m9.2.1.4](../bbugyi200.athena.sase-m9.2.1.4/README.md) | sase-m9 hood | waiting |
 | [sase-m9.2.1.5](../bbugyi200.athena.sase-m9.2.1.5/README.md) | sase-m9 hood | waiting |

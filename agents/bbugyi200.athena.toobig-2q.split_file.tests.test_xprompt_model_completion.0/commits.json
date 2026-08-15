@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b236305e3874f1b60878d907a9181cfc"}
+{"commits":[{"committed_at":1786792759,"sha":"a14f22809df83d21e88c04b2c8631e9932df8bdd","subject":"test: split xprompt model completion coverage"}],"schema_version":2,"source_run_id":"run-b236305e3874f1b60878d907a9181cfc"}

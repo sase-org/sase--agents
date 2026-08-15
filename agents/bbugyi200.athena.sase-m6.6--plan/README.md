@@ -23,10 +23,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-m6.6.1.1](../../families/bbugyi200.athena.sase-m6.6.1.1.md) (family · 5) | descendant | active 1, completed 2, failed 2 |
-| [sase-m6.6.1.2](../bbugyi200.athena.sase-m6.6.1.2/README.md) | descendant | waiting |
-| [sase-m6.6.1.3](../bbugyi200.athena.sase-m6.6.1.3/README.md) | descendant | waiting |
-| [sase-m6.6.1.4](../bbugyi200.athena.sase-m6.6.1.4/README.md) | descendant | waiting |
+| [sase-m6.6.1.1](../../families/bbugyi200.athena.sase-m6.6.1.1.md) (family · 5) | descendant | completed 3, failed 2 |
+| [sase-m6.6.1.2](../../families/bbugyi200.athena.sase-m6.6.1.2.md) (family · 2) | descendant | active 2 |
+| [sase-m6.6.1.3](../bbugyi200.athena.sase-m6.6.1.3/README.md) | descendant | active |
+| [sase-m6.6.1.4](../bbugyi200.athena.sase-m6.6.1.4/README.md) | descendant | active |
 | [sase-m6.6.1.5](../bbugyi200.athena.sase-m6.6.1.5/README.md) | descendant | waiting |
 | [sase-m6.6.1.6](../bbugyi200.athena.sase-m6.6.1.6/README.md) | descendant | waiting |
 | [sase-m6.6.1.7](../bbugyi200.athena.sase-m6.6.1.7/README.md) | descendant | waiting |

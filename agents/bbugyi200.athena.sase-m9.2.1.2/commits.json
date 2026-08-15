@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8a1f82d60d45095e5a6a911523bdd40c"}
+{"commits":[{"committed_at":1786793860,"sha":"152268b597d070c653fe022e88c9370352e07a08","subject":"feat(procs): route submits through one typed supervisor service"}],"schema_version":2,"source_run_id":"run-8a1f82d60d45095e5a6a911523bdd40c"}

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We recently added Gemini Flash 3.7 to the `@cheaper` model alias pool, but used the "medium" effort variant. Can you instead help me use the xhigh version or whatever the smartest version of Gemini Flash 3.7 is? Only make this change for the Antigravity provider. Leave all of the other providers in this pool using the medium effort level. #plan
