@@ -1,0 +1,22 @@
+- **PLAN:**
+  [202608/launch_control_panel.md](https://github.com/sase-org/sase--plans/blob/main/202608/launch_control_panel.md)
+- **AGENTS:**
+  - [bbugyi200.athena.02w--plan](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.02w.md)
+
+Can you help me make the "Models" panel (shown in #sshot) look a bit better and also add
+a new launch setting?
+
+- Let's get rid of the entire first column (which contains values like `role` or
+  `bucket`, for example).
+- The new launch setting we add should correspond with the sase config field that we use
+  to configure the number of phases allowed in an epic before we consider it to be a
+  "big" epic.
+- Let's start adding a single blank line between each section.
+- Let's rename this panel to something more appropriate, considering that we can do more
+  than configure models from this panel. Think hard about this.
+- I want you to lead the design on this one. Make sure you design this feature so it is
+  intuitive, reliable, and (last but not least) beautiful!
+
+Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose
+and author the appropriate tier, validate and revalidate until it passes, then submit it
+with `sase plan propose` (as the skill instructs) before making any file changes.
