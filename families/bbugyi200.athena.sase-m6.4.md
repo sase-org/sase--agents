@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-m6.4--plan [completed]"]
   n1["sase-m6.4--code [completed]"]
   n0 --> n1
-  n2["sase-m6.4--1 [active]"]
+  n2["sase-m6.4--1 [completed]"]
   n0 --> n2
   n3["sase-m6.4--mon [failed]"]
   n0 --> n3
@@ -23,7 +23,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-m6.4--plan | completed | gpt-5.6-sol / codex | 2026-08-14T23:58:00.456964+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m6.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m6.4--plan/chat.md) |
 | <a id="member-code"></a>code | sase-m6.4--code | completed | grok-4.6 / grok | 2026-08-15T00:04:24.640283+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-m6.4--code/chat.md) |
-| <a id="member-1"></a>1 | sase-m6.4--1 | active | grok-4.6 / grok | 2026-08-15T01:14:23.618021+00:00 | [1](../agents/bbugyi200.athena.sase-m6.4--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-m6.4--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-m6.4--1 | completed | grok-4.6 / grok | 2026-08-15T01:14:23.618021+00:00 | [1](../agents/bbugyi200.athena.sase-m6.4--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-m6.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m6.4--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-m6.4--mon | failed | grok-4.6 / grok | 2026-08-15T01:03:11.332182+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-m6.4--mon/chat.md) |
 
 ## Commits
@@ -40,8 +40,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-m6.10](../agents/bbugyi200.athena.sase-m6.10/README.md) | sase-m6 hood | waiting |
 | [sase-m6.2](../agents/bbugyi200.athena.sase-m6.2/README.md) | sase-m6 hood | completed |
 | [sase-m6.3](bbugyi200.athena.sase-m6.3.md) (family · 2) | sase-m6 hood | completed 2 |
-| [sase-m6.5](../agents/bbugyi200.athena.sase-m6.5/README.md) | sase-m6 hood | waiting |
-| [sase-m6.6](../agents/bbugyi200.athena.sase-m6.6/README.md) | sase-m6 hood | waiting |
+| [sase-m6.5](bbugyi200.athena.sase-m6.5.md) (family · 2) | sase-m6 hood | active 2 |
+| [sase-m6.6](../agents/bbugyi200.athena.sase-m6.6/README.md) | sase-m6 hood | failed |
 | [sase-m6.7](../agents/bbugyi200.athena.sase-m6.7/README.md) | sase-m6 hood | waiting |
 | [sase-m6.8](../agents/bbugyi200.athena.sase-m6.8/README.md) | sase-m6 hood | waiting |
 | [sase-m6.9](../agents/bbugyi200.athena.sase-m6.9/README.md) | sase-m6 hood | waiting |

@@ -12,7 +12,13 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-15T01:15:30.170625+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`76356cf`](https://github.com/sase-org/sase/commit/76356cf57d71e7574350f003f15caea0f50d9c0d) | docs: align shell taxonomy wording | 2026-08-14 21:36:53 EDT |
 
 ## Neighbors
 
@@ -22,6 +28,6 @@
 | [sase-m9.1.1.1](../bbugyi200.athena.sase-m9.1.1.1/README.md) | sase-m9.1.1 hood | completed |
 | [sase-m9.1.1.2](../bbugyi200.athena.sase-m9.1.1.2/README.md) | sase-m9.1.1 hood | completed |
 | [sase-m9.1.1.3](../bbugyi200.athena.sase-m9.1.1.3/README.md) | sase-m9.1.1 hood | completed |
-| [sase-m9.2](../bbugyi200.athena.sase-m9.2/README.md) | sase-m9 hood | waiting |
+| [sase-m9.2](../bbugyi200.athena.sase-m9.2/README.md) | sase-m9 hood | active |
 | [sase-m9.3](../bbugyi200.athena.sase-m9.3/README.md) | sase-m9 hood | waiting |
 | [sase-m9.land](../bbugyi200.athena.sase-m9.land/README.md) | sase-m9 hood | waiting |

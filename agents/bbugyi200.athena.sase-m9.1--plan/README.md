@@ -26,7 +26,7 @@
 | [sase-m9.1.1.1](../bbugyi200.athena.sase-m9.1.1.1/README.md) | descendant | completed |
 | [sase-m9.1.1.2](../bbugyi200.athena.sase-m9.1.1.2/README.md) | descendant | completed |
 | [sase-m9.1.1.3](../bbugyi200.athena.sase-m9.1.1.3/README.md) | descendant | completed |
-| [sase-m9.1.1.land](../../families/bbugyi200.athena.sase-m9.1.1.land.md) (family · 2) | descendant | active 2 |
-| [sase-m9.2](../bbugyi200.athena.sase-m9.2/README.md) | sase-m9 hood | waiting |
+| [sase-m9.1.1.land](../../families/bbugyi200.athena.sase-m9.1.1.land.md) (family · 3) | descendant | active 3 |
+| [sase-m9.2](../bbugyi200.athena.sase-m9.2/README.md) | sase-m9 hood | active |
 | [sase-m9.3](../bbugyi200.athena.sase-m9.3/README.md) | sase-m9 hood | waiting |
 | [sase-m9.land](../bbugyi200.athena.sase-m9.land/README.md) | sase-m9 hood | waiting |
