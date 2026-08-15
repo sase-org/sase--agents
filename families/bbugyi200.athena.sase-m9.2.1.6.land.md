@@ -58,8 +58,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-m9.1.1.3](../agents/bbugyi200.athena.sase-m9.1.1.3/README.md) | sase-m9 hood | dismissed |
 | [sase-m9.1.1.land](bbugyi200.athena.sase-m9.1.1.land.md) (family · 6) | sase-m9 hood | completed 3, dismissed 1, failed 2 |
 | [sase-m9.3](bbugyi200.athena.sase-m9.3.md) (family · 2) | sase-m9 hood | failed 2 |
-| [sase-m9.3.1.1](bbugyi200.athena.sase-m9.3.1.1.md) (family · 2) | sase-m9 hood | active 2 |
-| [sase-m9.3.1.2](../agents/bbugyi200.athena.sase-m9.3.1.2/README.md) | sase-m9 hood | waiting |
+| [sase-m9.3.1.1](bbugyi200.athena.sase-m9.3.1.1.md) (family · 2) | sase-m9 hood | completed 2 |
+| [sase-m9.3.1.2](bbugyi200.athena.sase-m9.3.1.2.md) (family · 2) | sase-m9 hood | active 2 |
+| [sase-m9.3.1.3](bbugyi200.athena.sase-m9.3.1.3.md) (family · 2) | sase-m9 hood | active 2 |
 | [sase-m9.3.1.3](../agents/bbugyi200.athena.sase-m9.3.1.3/README.md) | sase-m9 hood | waiting |
 | [sase-m9.3.1.4](../agents/bbugyi200.athena.sase-m9.3.1.4/README.md) | sase-m9 hood | waiting |
 | [sase-m9.3.1.5](../agents/bbugyi200.athena.sase-m9.3.1.5/README.md) | sase-m9 hood | waiting |

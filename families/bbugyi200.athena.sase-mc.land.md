@@ -28,6 +28,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-mc.2](../agents/bbugyi200.athena.sase-mc.2/README.md) | sase-mc hood | completed |
 | [sase-mc.3](../agents/bbugyi200.athena.sase-mc.3/README.md) | sase-mc hood | completed |
 | [sase-mc.4](../agents/bbugyi200.athena.sase-mc.4/README.md) | sase-mc hood | completed |
-| [sase-mc.5.1](../agents/bbugyi200.athena.sase-mc.5.1/README.md) | sase-mc hood | active |
-| [sase-mc.5.2](../agents/bbugyi200.athena.sase-mc.5.2/README.md) | sase-mc hood | waiting |
+| [sase-mc.5.1](../agents/bbugyi200.athena.sase-mc.5.1/README.md) | sase-mc hood | completed |
+| [sase-mc.5.2](../agents/bbugyi200.athena.sase-mc.5.2/README.md) | sase-mc hood | active |
 | [sase-mc.5.land](../agents/bbugyi200.athena.sase-mc.5.land/README.md) | sase-mc hood | waiting |

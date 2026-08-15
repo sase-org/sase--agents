@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-m9` · Members: 2 · Bead: [sase-m9.3.1
 
 ```mermaid
 flowchart TD
-  n0["sase-m9.3.1.1--plan [active]"]
-  n1["sase-m9.3.1.1--code [active]"]
+  n0["sase-m9.3.1.1--plan [completed]"]
+  n1["sase-m9.3.1.1--code [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-m9.3.1.1--plan | active | gpt-5.6-sol / codex | 2026-08-15T19:19:24.703951+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m9.3.1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m9.3.1.1--plan/chat.md) |
-| <a id="member-code"></a>code | sase-m9.3.1.1--code | active | grok-4.6 / grok | 2026-08-15T19:24:40.001949+00:00 | [1](../agents/bbugyi200.athena.sase-m9.3.1.1--code/README.md#commits) | — | — |
+| <a id="member-plan"></a>plan | sase-m9.3.1.1--plan | completed | gpt-5.6-sol / codex | 2026-08-15T19:19:24.703951+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m9.3.1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m9.3.1.1--plan/chat.md) |
+| <a id="member-code"></a>code | sase-m9.3.1.1--code | completed | grok-4.6 / grok | 2026-08-15T19:24:40.001949+00:00 | [1](../agents/bbugyi200.athena.sase-m9.3.1.1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-m9.3.1.1--code/chat.md) |
 
 ## Commits
 
@@ -31,7 +31,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-m9.3](bbugyi200.athena.sase-m9.3.md) (family · 2) | ancestor | failed 2 |
-| [sase-m9.3.1.2](../agents/bbugyi200.athena.sase-m9.3.1.2/README.md) | sase-m9.3.1 hood | waiting |
+| [sase-m9.3.1.2](bbugyi200.athena.sase-m9.3.1.2.md) (family · 2) | sase-m9.3.1 hood | active 2 |
+| [sase-m9.3.1.3](bbugyi200.athena.sase-m9.3.1.3.md) (family · 2) | sase-m9.3.1 hood | active 2 |
 | [sase-m9.3.1.3](../agents/bbugyi200.athena.sase-m9.3.1.3/README.md) | sase-m9.3.1 hood | waiting |
 | [sase-m9.3.1.4](../agents/bbugyi200.athena.sase-m9.3.1.4/README.md) | sase-m9.3.1 hood | waiting |
 | [sase-m9.3.1.5](../agents/bbugyi200.athena.sase-m9.3.1.5/README.md) | sase-m9.3.1 hood | waiting |
