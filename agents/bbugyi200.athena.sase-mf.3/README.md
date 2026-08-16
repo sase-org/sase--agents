@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-mf.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-mf/sase-mf.3.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-15T14:33:32
@@ -25,5 +26,5 @@
 |---|---|---|
 | [sase-mf.1](../bbugyi200.athena.sase-mf.1/README.md) | sase-mf hood | completed |
 | [sase-mf.2](../bbugyi200.athena.sase-mf.2/README.md) | sase-mf hood | completed |
-| [sase-mf.4](../bbugyi200.athena.sase-mf.4/README.md) | sase-mf hood | active |
-| [sase-mf.land](../bbugyi200.athena.sase-mf.land/README.md) | sase-mf hood | waiting |
+| [sase-mf.4](../bbugyi200.athena.sase-mf.4/README.md) | sase-mf hood | completed |
+| [sase-mf.land](../../families/bbugyi200.athena.sase-mf.land.md) (family · 2) | sase-mf hood | active 2 |

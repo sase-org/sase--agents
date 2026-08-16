@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-k2.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-k2/sase-k2.5.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-12T17:29:25+00:00 → 2026-08-12T17:29:25+00:00
