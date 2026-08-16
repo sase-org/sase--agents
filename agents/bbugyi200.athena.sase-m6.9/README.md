@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-16T17:34:58.015770+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3c9df11`](https://github.com/sase-org/sase/commit/3c9df1182ce53093c637909edef19c1297679b4e) | feat(ace-tui)!: unify the Artifacts keymap across Patch and its siblings | 2026-08-16 16:01:10 EDT |
 
 ## Neighbors
 
@@ -47,6 +53,6 @@
 | [sase-m6.7.1.5](../../families/bbugyi200.athena.sase-m6.7.1.5.md) (family · 2) | sase-m6 hood | completed 1, dismissed 1 |
 | [sase-m6.7.1.6](../../families/bbugyi200.athena.sase-m6.7.1.6.md) (family · 3) | sase-m6 hood | dismissed 2, failed 1 |
 | [sase-m6.7.1.land](../bbugyi200.athena.sase-m6.7.1.land/README.md) | sase-m6 hood | dismissed |
-| [sase-m6.8](../../families/bbugyi200.athena.sase-m6.8.md) (family · 2) | sase-m6 hood | active 2 |
+| [sase-m6.8](../../families/bbugyi200.athena.sase-m6.8.md) (family · 2) | sase-m6 hood | completed 2 |
 | [sase-m6.8](../bbugyi200.athena.sase-m6.8/README.md) | sase-m6 hood | waiting |
 | [sase-m6.land](../bbugyi200.athena.sase-m6.land/README.md) | sase-m6 hood | waiting |
