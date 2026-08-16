@@ -30,8 +30,8 @@
 | [toobig-2t.split\_file.src.sase.bead.cli\_work\_cleanup.0](../bbugyi200.athena.toobig-2t.split_file.src.sase.bead.cli_work_cleanup.0/README.md) | toobig-2t.split\_file.src.sase.bead hood | completed |
 | [toobig-2t.split\_file.src.sase.ace.tui.modals.models\_panel\_display.0](../bbugyi200.athena.toobig-2t.split_file.src.sase.ace.tui.modals.models_panel_display.0/README.md) | toobig-2t.split\_file.src.sase hood | completed |
 | [toobig-2t.split\_file.src.sase.ace.tui.modals.models\_panel\_rendering.0](../bbugyi200.athena.toobig-2t.split_file.src.sase.ace.tui.modals.models_panel_rendering.0/README.md) | toobig-2t.split\_file.src.sase hood | completed |
-| [toobig-2t.split\_file.src.sase.stats.\_perf\_view.0](../../families/bbugyi200.athena.toobig-2t.split_file.src.sase.stats._perf_view.0.md) (family · 3) | toobig-2t.split\_file.src.sase hood | active 1, completed 1, failed 1 |
-| [toobig-2t.split\_file.tests.main.test\_var\_get.0](../bbugyi200.athena.toobig-2t.split_file.tests.main.test_var_get.0/README.md) | toobig-2t.split\_file hood | waiting |
+| [toobig-2t.split\_file.src.sase.stats.\_perf\_view.0](../../families/bbugyi200.athena.toobig-2t.split_file.src.sase.stats._perf_view.0.md) (family · 3) | toobig-2t.split\_file.src.sase hood | completed 2, failed 1 |
+| [toobig-2t.split\_file.tests.main.test\_var\_get.0](../bbugyi200.athena.toobig-2t.split_file.tests.main.test_var_get.0/README.md) | toobig-2t.split\_file hood | active |
 | [toobig-2t.split\_file.tests.main.test\_var\_handler.0](../bbugyi200.athena.toobig-2t.split_file.tests.main.test_var_handler.0/README.md) | toobig-2t.split\_file hood | waiting |
 | [toobig-2t.split\_file.tests.test\_models\_panel\_navigation.0](../bbugyi200.athena.toobig-2t.split_file.tests.test_models_panel_navigation.0/README.md) | toobig-2t.split\_file hood | waiting |
 | [toobig-2t.split\_file.tests.test\_models\_panel\_provider\_routing.0](../bbugyi200.athena.toobig-2t.split_file.tests.test_models_panel_provider_routing.0/README.md) | toobig-2t.split\_file hood | waiting |
