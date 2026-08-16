@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-363ae0a5c4b1e26e7e55812e7f4e8c5b"}
+{"commits":[{"committed_at":1786856835,"sha":"3a783a411863801c7fe1fd1b908a508eb954abca","subject":"build(deps): raise the sase-core-rs floor to the published perf_logs_query release"}],"schema_version":2,"source_run_id":"run-363ae0a5c4b1e26e7e55812e7f4e8c5b"}

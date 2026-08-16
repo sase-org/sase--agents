@@ -12,11 +12,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-16T04:12:35.617424+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3a783a4`](https://github.com/sase-org/sase/commit/3a783a411863801c7fe1fd1b908a508eb954abca) | build(deps): raise the sase-core-rs floor to the published perf\_logs\_query release | 2026-08-16 01:07:15 EDT |
 
 ## Neighbors
 
