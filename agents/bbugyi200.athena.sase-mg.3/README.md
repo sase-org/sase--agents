@@ -33,4 +33,4 @@
 | [sase-mg.2](../bbugyi200.athena.sase-mg.2/README.md) | sase-mg hood | completed |
 | [sase-mg.4](../bbugyi200.athena.sase-mg.4/README.md) | sase-mg hood | completed |
 | [sase-mg.land](../../families/bbugyi200.athena.sase-mg.land.md) (family · 2) | sase-mg hood | completed 2 |
-| [sase-mg.land.w1](../../families/bbugyi200.athena.sase-mg.land.w1.md) (family · 2) | sase-mg hood | active 2 |
+| [sase-mg.land.w1](../../families/bbugyi200.athena.sase-mg.land.w1.md) (family · 4) | sase-mg hood | completed 1, dismissed 1, failed 2 |

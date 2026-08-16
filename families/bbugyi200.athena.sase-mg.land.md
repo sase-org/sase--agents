@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-mg.land.w1](bbugyi200.athena.sase-mg.land.w1.md) (family · 2) | descendant | active 2 |
+| [sase-mg.land.w1](bbugyi200.athena.sase-mg.land.w1.md) (family · 4) | descendant | completed 1, dismissed 1, failed 2 |
 | [sase-mg.1](../agents/bbugyi200.athena.sase-mg.1/README.md) | sase-mg hood | completed |
 | [sase-mg.2](../agents/bbugyi200.athena.sase-mg.2/README.md) | sase-mg hood | completed |
 | [sase-mg.3](../agents/bbugyi200.athena.sase-mg.3/README.md) | sase-mg hood | completed |

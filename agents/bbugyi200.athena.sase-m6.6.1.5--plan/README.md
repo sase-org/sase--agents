@@ -2,22 +2,21 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m6](../../users/bbugyi200/machines/athena/hoods/sase-m6/README.md) / [sase-m6.6.1.5](../../families/bbugyi200.athena.sase-m6.6.1.5.md) / sase-m6.6.1.5--plan
 
-**Global name:** `bbugyi200.athena.sase-m6.6.1.5--plan` · **State:** completed · **Source run:** `run-f8d513a9aa6478de272a02c67af14f15`
+**Global name:** `bbugyi200.athena.sase-m6.6.1.5--plan` · **State:** dismissed · **Source run:** `run-f8d513a9aa6478de272a02c67af14f15`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m6
 
 ## Summary
 
 - Bead: [sase-m6.6.1.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m6/sase-m6.6.1.5.md)
-- Epic: [sase-m6.6.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m6/sase-m6.6.1.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-15T22:42:16.981222+00:00
+- Timing: 2026-08-15T18:42:16.981222 → 2026-08-15T19:15:45.482022
 - Commits: 0
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -28,7 +27,7 @@
 | [sase-m6.6.1.2](../../families/bbugyi200.athena.sase-m6.6.1.2.md) (family · 2) | sase-m6.6.1 hood | completed 2 |
 | [sase-m6.6.1.3](../bbugyi200.athena.sase-m6.6.1.3/README.md) | sase-m6.6.1 hood | completed |
 | [sase-m6.6.1.4](../bbugyi200.athena.sase-m6.6.1.4/README.md) | sase-m6.6.1 hood | completed |
-| [sase-m6.6.1.6](../bbugyi200.athena.sase-m6.6.1.6/README.md) | sase-m6.6.1 hood | waiting |
+| [sase-m6.6.1.6](../../families/bbugyi200.athena.sase-m6.6.1.6.md) (family · 2) | sase-m6.6.1 hood | active 2 |
 | [sase-m6.6.1.7](../bbugyi200.athena.sase-m6.6.1.7/README.md) | sase-m6.6.1 hood | waiting |
 | [sase-m6.6.1.land](../bbugyi200.athena.sase-m6.6.1.land/README.md) | sase-m6.6.1 hood | waiting |
 | [sase-m6.1](../bbugyi200.athena.sase-m6.1/README.md) | sase-m6 hood | completed |

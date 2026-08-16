@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:02w Can you now help me add support to this panel for the special appostrophe keymap to make navigating to entries (i.e. settings, model aliases, or buckets) easier? #plan

@@ -2,20 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-mg](../../users/bbugyi200/machines/athena/hoods/sase-mg/README.md) / [sase-mg.land.w1](../../families/bbugyi200.athena.sase-mg.land.w1.md) / sase-mg.land.w1--plan
 
-**Global name:** `bbugyi200.athena.sase-mg.land.w1--plan` · **State:** active · **Source run:** `run-edfc2bfefff686cee4d8b26f1d2c30fc`
+**Global name:** `bbugyi200.athena.sase-mg.land.w1--plan` · **State:** dismissed · **Source run:** `run-edfc2bfefff686cee4d8b26f1d2c30fc`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-mg
 
 ## Summary
 
-- Model: gpt-5.6-sol
-- Provider: codex
-- Timing: 2026-08-15T22:58:15.494435+00:00
+- Model: —
+- Provider: —
+- Timing: 2026-08-15T16:54:57
 - Commits: 0
-
-## Files
-
-[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 

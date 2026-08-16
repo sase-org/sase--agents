@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We recently added `agy/gemini-3.7-flash-high` to the `@xsmall` model alias default model pool. Can you help me change this to `agy/gemini-3.7-flash-medium`? Also, let's add `agy/gemini-3.7-flash-high` to the default model pool used for the `@small` model alias. #plan

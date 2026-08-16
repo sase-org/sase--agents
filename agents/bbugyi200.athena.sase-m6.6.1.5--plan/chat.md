@@ -1,53 +1,58 @@
-# Chat History - ace-run (sase-m6.6.1.5--plan)
+# Chat History - ace-run (sase-m6.6.1.5--code)
 
-- **TIMESTAMP:** 2026-08-15 18:46:29 EDT
+- **TIMESTAMP:** 2026-08-15 19:15:37 EDT
 - **MODEL:** codex/gpt-5.6-sol
-- **AGENT:** sase-m6.6.1.5--plan
-
-**Plan:** /home/bryan/.sase/plans/202608/flat_pane_query_stabilization.md
-
+- **AGENT:** sase-m6.6.1.5--code
 
 ## Prompt
 
+%model:@medium
 #gh:gh_sase-org__sase
-%id(5, clan=sase-m6.6.1, bead=sase-m6.6.1.5)
-%model:@large
-%auto
-%w(bead=sase-m6.6.1.2)
-%w(bead=sase-m6.6.1.3)
-%w(bead=sase-m6.6.1.4)
-Can you complete the work for bead sase-m6.6.1.5? The bead is already reserved for you and assigned to your agent
-name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
-checkpoint or by the runtime promoting an ad-hoc wait-time claim. Do not set the status by hand. Read its
-description and design file, do the work, and close only this bead with
-`sase bead close sase-m6.6.1.5 --note "<what you verified>"`. Closing an assigned phase bead is unaffected by the
-parent-close descendant guard. Do NOT close the parent epic or any ancestor plan bead. Any instruction in a phase
-description or child plan to close an ancestor is preparation and evidence for that ancestor's land agent, not
-authorization for a phase worker. Do not create beads yourself: record discovered follow-up work as a
-`PROPOSED FOLLOW-UP:` entry via
-`sase bead note sase-m6.6.1.5 'PROPOSED FOLLOW-UP: <one-line summary — detail>'`; the epic's land agent triages
-these into task beads.
-Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate
-tier, validate and revalidate until it passes, then submit it with `sase plan propose` (as the skill instructs)
-before making any file changes.
+@sase/repos/plans/202608/flat_pane_query_stabilization.md
+
+The above plan has been reviewed and approved. Implement it now.
 
 
 ## Response
 
-*Plan submitted for review.*
+# Monitor handoff
 
-**Plan file:** `/home/bryan/.sase/plans/202608/flat_pane_query_stabilization.md`
+This agent delegated the remaining work to a monitor shell.
+Monitor ID: ar9b2p51cd4q
+Inspect with: sase monitor show ar9b2p51cd4q
+Monitor shell: sase-m6.6.1.5--mon
+Directory: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10
 
-> - **PARENT:** [202608/unified_artifacts_query_1.md](202608/unified_artifacts_query_1.md)
-> - **BEAD:** sase-m6.6.1.5
-> # Plan: Stabilize and close the flat Artifacts query migration
-> ## Current state and completion boundary
-> Phase `sase-m6.6.1.5` owns the flat-query migration for Stitches, Beads, Plans, Files,
-> and arbitrary document-provider panes. Commits `d580a55c8` and `c62765eb7` already
-> landed the remaining row adapters, generation-checked off-thread query sessions, Files
-> negation, host-predicate parity, conformance coverage, and Beads/Files navigation
-> benchmark extensions on current master. Earlier commits already supplied the compiled
-> pane profiles, Rust corpus facade, and profile-driven `FilterBar`.
+Command:
 
-*See full plan file for details.*
+```sh
+just check-full
+```
+
+Reason:
+
+Required exhaustive verification after flat-pane query stabilization
+
+Next action:
+
+Inspect the just check-full result (use `sase monitor show` / the retained log). This is the sase-m6.6.1.5 stabilization continuation in workspace 10.
+
+Already done:
+- just install; sase-core-rs 0.27.9; compiled-profile digest error is resolved.
+- Beads visual callers use ArtifactEntryTarget; Commits fixtures pin sase.ace.query.profile_reference_support.normalize_reference_time; sidecar sentinel waits for "include sidecar repositories".
+- Inspected and accepted 6 Artifacts PNG goldens (profile-driven FilterBar descriptions/order + shared-shell footer separators).
+- Focused facade/conformance/session/filter/nav tests passed. bench_artifacts_jk.py p95 all <16ms including Beads and Files (worst stitches.next 9.72ms).
+- just check passed after re-homing --epic-symbol canonicalize_artifact_query to parent sase-m6.6.1 and compare_inventory_to_source to parent sase-m9.3.1. The latter is recorded as PROPOSED FOLLOW-UP on this phase.
+
+If check-full failed:
+- Fix only migration-caused regressions. Re-run the failing subset, then just check if you edit SASE files.
+- Known unrelated flake: tests/test_procs_service.py::test_settlement_resumes_after_an_injected_crash (already noted on this epic / sase-j7). Do not treat it as this phase. Record additional unrelated failures as `sase bead note sase-m6.6.1.5 "PROPOSED FOLLOW-UP: ..."`.
+- Repeat check-full via sase_monitor if you had to change files.
+
+If check-full is clean (or only has already-noted unrelated flakes):
+- Reinspect `git status` / bead history. Do not create new beads.
+- Close ONLY sase-m6.6.1.5 with: sase bead close sase-m6.6.1.5 --note "<what was verified: digest/floor, typed Beads targets, Commits time pin, inspected PNG updates, focused parity/session tests, bench p95, just check, just check-full>".
+- Do NOT close sase-m6.6.1, sase-m6.6, or any other bead.
+- Leave the working tree for the commit finalizer; do not commit unless a finalizer explicitly requires it.
+- Reply to the user with what was stabilized, verified, and that only sase-m6.6.1.5 was closed.
 
