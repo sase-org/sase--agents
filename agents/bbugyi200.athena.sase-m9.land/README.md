@@ -2,21 +2,27 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m9](../../users/bbugyi200/machines/athena/hoods/sase-m9/README.md) / sase-m9.land
 
-**Global name:** `bbugyi200.athena.sase-m9.land` · **State:** waiting · **Source run:** `run-1a1dc8ddfbe3bf1186114245166b3c4c`
+**Global name:** `bbugyi200.athena.sase-m9.land` · **State:** active · **Source run:** `run-f4b4e22f7551cccb8c28a240e8b59464`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m9
 
 ## Summary
 
 - Bead: [sase-m9](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m9/README.md)
-- Model: gpt-5.6-sol
-- Provider: codex
-- Timing: 20260814192040
-- Commits: 0
+- Model: opus
+- Provider: claude
+- Timing: 2026-08-16T18:13:37.944216+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ccbcb35`](https://github.com/sase-org/sase/commit/ccbcb3557e48cdc2cab9c5b70bec05bebcb0652d) | perf(monitor): share one proc-store snapshot per lane scan | 2026-08-16 14:44:29 EDT |
 
 ## Neighbors
 
@@ -40,11 +46,11 @@
 | [sase-m9.2.1.6.land](../../families/bbugyi200.athena.sase-m9.2.1.6.land.md) (family · 6) | sase-m9 hood | completed 3, dismissed 1, failed 2 |
 | [sase-m9.2.1.land](../../families/bbugyi200.athena.sase-m9.2.1.land.md) (family · 2) | sase-m9 hood | dismissed 1, failed 1 |
 | [sase-m9.3](../../families/bbugyi200.athena.sase-m9.3.md) (family · 2) | sase-m9 hood | failed 2 |
-| [sase-m9.3.1.1](../../families/bbugyi200.athena.sase-m9.3.1.1.md) (family · 2) | sase-m9 hood | completed 2 |
+| [sase-m9.3.1.1](../../families/bbugyi200.athena.sase-m9.3.1.1.md) (family · 2) | sase-m9 hood | completed 1, dismissed 1 |
 | [sase-m9.3.1.2](../../families/bbugyi200.athena.sase-m9.3.1.2.md) (family · 2) | sase-m9 hood | active 1, dismissed 1 |
-| [sase-m9.3.1.3](../../families/bbugyi200.athena.sase-m9.3.1.3.md) (family · 2) | sase-m9 hood | completed 2 |
+| [sase-m9.3.1.3](../../families/bbugyi200.athena.sase-m9.3.1.3.md) (family · 2) | sase-m9 hood | completed 1, dismissed 1 |
 | [sase-m9.3.1.3](../bbugyi200.athena.sase-m9.3.1.3/README.md) | sase-m9 hood | waiting |
 | [sase-m9.3.1.4](../../families/bbugyi200.athena.sase-m9.3.1.4.md) (family · 2) | sase-m9 hood | active 1, dismissed 1 |
 | [sase-m9.3.1.4](../bbugyi200.athena.sase-m9.3.1.4/README.md) | sase-m9 hood | waiting |
-| [sase-m9.3.1.5](../../families/bbugyi200.athena.sase-m9.3.1.5.md) (family · 2) | sase-m9 hood | completed 2 |
-| [sase-m9.3.1.land](../bbugyi200.athena.sase-m9.3.1.land/README.md) | sase-m9 hood | failed |
+| [sase-m9.3.1.5](../../families/bbugyi200.athena.sase-m9.3.1.5.md) (family · 2) | sase-m9 hood | completed 1, dismissed 1 |
+| [sase-m9.3.1.land](../bbugyi200.athena.sase-m9.3.1.land/README.md) | sase-m9 hood | dismissed |
