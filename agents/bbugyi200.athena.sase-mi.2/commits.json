@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-84e85734df198f190859c955049869a4"}
+{"commits":[{"committed_at":1786843712,"sha":"b681d1bc3dda0bdab25d8866da718267d1e4942a","subject":"fix(beads): refuse append-only event-stream shrinks at commit and push"}],"schema_version":2,"source_run_id":"run-84e85734df198f190859c955049869a4"}

@@ -12,7 +12,7 @@
 - Epic: [sase-mi](https://github.com/sase-org/sase--beads/blob/main/pages/sase-mi/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260815200804
+- Timing: 2026-08-16T01:29:39.511534+00:00
 - Commits: 0
 
 ## Files
@@ -27,6 +27,6 @@
 | [sase-mi.2](../bbugyi200.athena.sase-mi.2/README.md) | sase-mi hood | active |
 | [sase-mi.3](../bbugyi200.athena.sase-mi.3/README.md) | sase-mi hood | completed |
 | [sase-mi.4](../bbugyi200.athena.sase-mi.4/README.md) | sase-mi hood | completed |
-| [sase-mi.5](../bbugyi200.athena.sase-mi.5/README.md) | sase-mi hood | active |
+| [sase-mi.5](../bbugyi200.athena.sase-mi.5/README.md) | sase-mi hood | completed |
 | [sase-mi.7](../bbugyi200.athena.sase-mi.7/README.md) | sase-mi hood | waiting |
 | [sase-mi.land](../bbugyi200.athena.sase-mi.land/README.md) | sase-mi hood | waiting |
