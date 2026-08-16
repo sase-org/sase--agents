@@ -2,11 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-m9
 
-**Global hood:** `bbugyi200.athena.sase-m9` · **Runs:** 49 · **Families:** 12 · **States:** active 4, completed 12, dismissed 15, failed 13, waiting 5
+**Global hood:** `bbugyi200.athena.sase-m9` · **Runs:** 50 · **Families:** 13 · **States:** active 5, completed 12, dismissed 16, failed 13, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [sase-m9.1.1.3](../../../../../../agents/bbugyi200.athena.sase-m9.1.1.3/README.md) | dismissed | grok-4.6 / grok | 2026-08-14T20:01:07.265984 → 2026-08-14T20:28:51.406129 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-m9.1.1.3/chat.md) |
+| [sase-m9.3.1.5--code](../../../../../../families/bbugyi200.athena.sase-m9.3.1.5.md#member-code) | active | gpt-5.5 / codex | 2026-08-16T01:17:09.429682+00:00 | 0 | — |
 | [sase-m9.2.1.1](../../../../../../agents/bbugyi200.athena.sase-m9.2.1.1/README.md) | dismissed | gpt-5.5 / codex | 2026-08-15T06:16:48.445285 → 2026-08-15T06:56:48.118383 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-m9.2.1.1/chat.md) |
 | [sase-m9.3.1.3](../../../../../../agents/bbugyi200.athena.sase-m9.3.1.3/README.md) | waiting | gpt-5.6-sol / codex | 20260815151907 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-m9.3.1.3/prompt.md) |
 | [sase-m9.2.1.6.land--mon](../../../../../../families/bbugyi200.athena.sase-m9.2.1.6.land.md#member-mon) | failed | gpt-5.5 / codex | 2026-08-15T16:58:19.460919+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-m9.2.1.6.land--mon/chat.md) |
@@ -38,8 +39,8 @@
 | [sase-m9.2.1.6.2](../../../../../../agents/bbugyi200.athena.sase-m9.2.1.6.2/README.md) | dismissed | gpt-5.5 / codex | 2026-08-15T11:05:26.884391 → 2026-08-15T11:30:49.992857 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-m9.2.1.6.2/chat.md) |
 | [sase-m9.3.1.2--plan](../../../../../../families/bbugyi200.athena.sase-m9.3.1.2.md#member-plan) | dismissed | gpt-5.6-sol / codex | 2026-08-15T16:44:24.300070 → 2026-08-15T18:43:42.918789 | 0 | — |
 | [sase-m9.2.1.6.land--code](../../../../../../families/bbugyi200.athena.sase-m9.2.1.6.land.md#member-code) | completed | gpt-5.5 / codex | 2026-08-15T16:44:11.002679+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-m9.2.1.6.land--code/chat.md) |
-| [sase-m9.3.1.4--plan](../../../../../../families/bbugyi200.athena.sase-m9.3.1.4.md#member-plan) | active | gpt-5.6-sol / codex | 2026-08-15T23:02:36.336884+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-m9.3.1.4--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-m9.3.1.4--plan/prompt.md) |
-| [sase-m9.3.1.5](../../../../../../agents/bbugyi200.athena.sase-m9.3.1.5/README.md) | waiting | gpt-5.6-sol / codex | 20260815190216 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-m9.3.1.5/prompt.md) |
+| [sase-m9.3.1.4--plan](../../../../../../families/bbugyi200.athena.sase-m9.3.1.4.md#member-plan) | dismissed | — | 2026-08-15T19:02:15 | 0 | — |
+| [sase-m9.3.1.5--plan](../../../../../../families/bbugyi200.athena.sase-m9.3.1.5.md#member-plan) | active | gpt-5.6-sol / codex | 2026-08-16T01:12:20.961801+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-m9.3.1.5--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-m9.3.1.5--plan/prompt.md) |
 | [sase-m9.1.1.1](../../../../../../agents/bbugyi200.athena.sase-m9.1.1.1/README.md) | dismissed | grok-4.6 / grok | 2026-08-14T19:28:16.086140 → 2026-08-14T20:00:52.276925 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-m9.1.1.1/chat.md) |
 | [sase-m9.1.1.land--2](../../../../../../families/bbugyi200.athena.sase-m9.1.1.land.md#member-2) | completed | gpt-5.5 / codex | 2026-08-15T01:59:58.299211+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-m9.1.1.land--2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-m9.1.1.land--2/prompt.md) |
 | [sase-m9.2.1.6.3--1](../../../../../../families/bbugyi200.athena.sase-m9.2.1.6.3.md#member-1) | completed | gpt-5.5 / codex | 2026-08-15T16:28:32.415822+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-m9.2.1.6.3--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-m9.2.1.6.3--1/prompt.md) |
