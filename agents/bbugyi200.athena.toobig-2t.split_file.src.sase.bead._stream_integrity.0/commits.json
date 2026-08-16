@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-dcbe4e6a1f23f131f7552ce8a09bfb68"}
+{"commits":[{"committed_at":1786860922,"sha":"35006a841c42d376afdeb600dfdb1923d2a091f8","subject":"refactor(bead): split _stream_integrity into focused modules"}],"schema_version":2,"source_run_id":"run-dcbe4e6a1f23f131f7552ce8a09bfb68"}
