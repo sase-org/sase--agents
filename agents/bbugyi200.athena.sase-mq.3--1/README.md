@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-mq](../../users/bbugyi200/machines/athena/hoods/sase-mq/README.md) / [sase-mq.3](../../families/bbugyi200.athena.sase-mq.3.md) / sase-mq.3--1
 
-**Global name:** `bbugyi200.athena.sase-mq.3--1` · **State:** active · **Source run:** `run-c2952cc176f68fb5ab2a9990130b2567`
+**Global name:** `bbugyi200.athena.sase-mq.3--1` · **State:** completed · **Source run:** `run-c2952cc176f68fb5ab2a9990130b2567`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-mq
 
@@ -14,6 +14,10 @@
 - Provider: grok
 - Timing: 2026-08-16T06:00:14.230465+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
 
 ## Commits
 
@@ -27,8 +31,8 @@
 |---|---|---|
 | [sase-mq.1](../bbugyi200.athena.sase-mq.1/README.md) | sase-mq hood | completed |
 | [sase-mq.2](../../families/bbugyi200.athena.sase-mq.2.md) (family · 3) | sase-mq hood | completed 2, failed 1 |
-| [sase-mq.4](../bbugyi200.athena.sase-mq.4/README.md) | sase-mq hood | waiting |
-| [sase-mq.5](../bbugyi200.athena.sase-mq.5/README.md) | sase-mq hood | waiting |
+| [sase-mq.4](../bbugyi200.athena.sase-mq.4/README.md) | sase-mq hood | active |
+| [sase-mq.5](../bbugyi200.athena.sase-mq.5/README.md) | sase-mq hood | active |
 | [sase-mq.6](../bbugyi200.athena.sase-mq.6/README.md) | sase-mq hood | completed |
 | [sase-mq.7](../bbugyi200.athena.sase-mq.7/README.md) | sase-mq hood | waiting |
 | [sase-mq.land](../bbugyi200.athena.sase-mq.land/README.md) | sase-mq hood | waiting |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e381436a63a5381bdad1071eaa5cf225"}
+{"commits":[{"committed_at":1786864133,"sha":"4b30309e0f639e44063102544f621419c5cdbb9a","subject":"feat(bead): lease workspace-local stores for background writers"}],"schema_version":2,"source_run_id":"run-e381436a63a5381bdad1071eaa5cf225"}
