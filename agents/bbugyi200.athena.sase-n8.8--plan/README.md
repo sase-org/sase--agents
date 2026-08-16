@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-n8](../../users/bbugyi200/machines/athena/hoods/sase-n8/README.md) / [sase-n8.8](../../families/bbugyi200.athena.sase-n8.8.md) / sase-n8.8--plan
 
-**Global name:** `bbugyi200.athena.sase-n8.8--plan` · **State:** active · **Source run:** `run-ab5450bb1f3197a20147644f3daa11c8`
+**Global name:** `bbugyi200.athena.sase-n8.8--plan` · **State:** completed · **Source run:** `run-ab5450bb1f3197a20147644f3daa11c8`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-n8
 
@@ -17,7 +17,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
