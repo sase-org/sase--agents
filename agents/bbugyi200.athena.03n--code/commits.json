@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ad03b4078edc48cb129d49af6bef93a2"}
+{"commits":[{"committed_at":1786893974,"sha":"3a37168ccf023d61fecd58d50e407479a511a7af","subject":"fix(finalizer): ignore hidden agents sidecar cleanup"}],"schema_version":2,"source_run_id":"run-ad03b4078edc48cb129d49af6bef93a2"}

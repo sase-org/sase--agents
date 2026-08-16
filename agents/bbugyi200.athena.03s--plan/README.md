@@ -16,3 +16,9 @@
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [03s.w0](../bbugyi200.athena.03s.w0/README.md) | descendant | waiting |
