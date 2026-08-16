@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-nb](../../users/bbugyi200/machines/athena/hoods/sase-nb/README.md) / sase-nb.9
 
-**Global name:** `bbugyi200.athena.sase-nb.9` · **State:** waiting · **Source run:** `run-4087b255d8c4735af0ec334d961de5f3`
+**Global name:** `bbugyi200.athena.sase-nb.9` · **State:** active · **Source run:** `run-4087b255d8c4735af0ec334d961de5f3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-nb
 
@@ -10,9 +10,9 @@
 
 - Bead: [sase-nb.9](https://github.com/sase-org/sase--beads/blob/main/pages/sase-nb/sase-nb.9.md)
 - Epic: [sase-nb](https://github.com/sase-org/sase--beads/blob/main/pages/sase-nb/README.md)
-- Model: gpt-5.5
-- Provider: codex
-- Timing: 20260816123644
+- Model: grok-4.6
+- Provider: grok
+- Timing: 2026-08-16T23:09:46.559644+00:00
 - Commits: 0
 
 ## Files
@@ -31,6 +31,6 @@
 | [sase-nb.4\_1](../../families/bbugyi200.athena.sase-nb.4_1.md) (family · 5) | sase-nb hood | completed 3, failed 2 |
 | [sase-nb.5](../bbugyi200.athena.sase-nb.5/README.md) | sase-nb hood | completed |
 | [sase-nb.6](../../families/bbugyi200.athena.sase-nb.6.md) (family · 2) | sase-nb hood | completed 2 |
-| [sase-nb.7](../bbugyi200.athena.sase-nb.7/README.md) | sase-nb hood | active |
+| [sase-nb.7](../bbugyi200.athena.sase-nb.7/README.md) | sase-nb hood | completed |
 | [sase-nb.8](../../families/bbugyi200.athena.sase-nb.8.md) (family · 2) | sase-nb hood | active 2 |
 | [sase-nb.land](../bbugyi200.athena.sase-nb.land/README.md) | sase-nb hood | waiting |
