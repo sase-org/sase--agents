@@ -24,4 +24,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [03c](../../families/bbugyi200.athena.03c.md) (family · 3) | ancestor | active 3 |
+| [03c](../../families/bbugyi200.athena.03c.md) (family · 4) | ancestor | active 4 |
