@@ -28,7 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-n4.2](../agents/bbugyi200.athena.sase-n4.2/README.md) | sase-n4 hood | completed |
 | [sase-n4.3](../agents/bbugyi200.athena.sase-n4.3/README.md) | sase-n4 hood | completed |
 | [sase-n4.4](../agents/bbugyi200.athena.sase-n4.4/README.md) | sase-n4 hood | dismissed |
-| [sase-n4.5.1](../agents/bbugyi200.athena.sase-n4.5.1/README.md) | sase-n4 hood | active |
-| [sase-n4.5.2](../agents/bbugyi200.athena.sase-n4.5.2/README.md) | sase-n4 hood | waiting |
+| [sase-n4.5.1](../agents/bbugyi200.athena.sase-n4.5.1/README.md) | sase-n4 hood | dismissed |
+| [sase-n4.5.2](../agents/bbugyi200.athena.sase-n4.5.2/README.md) | sase-n4 hood | active |
 | [sase-n4.5.3](../agents/bbugyi200.athena.sase-n4.5.3/README.md) | sase-n4 hood | completed |
 | [sase-n4.5.land](../agents/bbugyi200.athena.sase-n4.5.land/README.md) | sase-n4 hood | waiting |

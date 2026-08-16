@@ -20,15 +20,21 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | sase-nb.2--code | completed | gpt-5.5 / codex | 2026-08-16T16:51:20.005137+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-nb.2--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-nb.2--plan | completed | opus / claude | 2026-08-16T16:37:23.894927+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-nb.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-nb.2--plan/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`76c332b`](https://github.com/sase-org/sase/commit/76c332bd5d1e15a2753fd1a005242b9040b2d327) | feat: add feature flag registry foundation | 2026-08-16 13:53:02 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-nb.1](../agents/bbugyi200.athena.sase-nb.1/README.md) | sase-nb hood | completed |
 | [sase-nb.10](../agents/bbugyi200.athena.sase-nb.10/README.md) | sase-nb hood | waiting |
-| [sase-nb.3](../agents/bbugyi200.athena.sase-nb.3/README.md) | sase-nb hood | active |
-| [sase-nb.4](../agents/bbugyi200.athena.sase-nb.4/README.md) | sase-nb hood | waiting |
-| [sase-nb.5](../agents/bbugyi200.athena.sase-nb.5/README.md) | sase-nb hood | waiting |
+| [sase-nb.3](../agents/bbugyi200.athena.sase-nb.3/README.md) | sase-nb hood | completed |
+| [sase-nb.4](../agents/bbugyi200.athena.sase-nb.4/README.md) | sase-nb hood | active |
+| [sase-nb.5](../agents/bbugyi200.athena.sase-nb.5/README.md) | sase-nb hood | active |
 | [sase-nb.6](../agents/bbugyi200.athena.sase-nb.6/README.md) | sase-nb hood | waiting |
 | [sase-nb.7](../agents/bbugyi200.athena.sase-nb.7/README.md) | sase-nb hood | waiting |
 | [sase-nb.8](../agents/bbugyi200.athena.sase-nb.8/README.md) | sase-nb hood | waiting |

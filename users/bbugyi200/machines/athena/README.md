@@ -1382,12 +1382,12 @@
 | [sase-mj](hoods/sase-mj/README.md) | 6 | 0 | active 1, completed 5 |
 | [sase-mk](hoods/sase-mk/README.md) | 1 | 0 | completed 1 |
 | [sase-mq](hoods/sase-mq/README.md) | 21 | 5 | active 2, completed 14, failed 5 |
-| [sase-n4](hoods/sase-n4/README.md) | 10 | 1 | active 1, completed 4, dismissed 1, failed 2, waiting 2 |
+| [sase-n4](hoods/sase-n4/README.md) | 10 | 1 | active 1, completed 4, dismissed 2, failed 2, waiting 1 |
 | [sase-n7](hoods/sase-n7/README.md) | 6 | 0 | active 1, completed 5 |
-| [sase-n8](hoods/sase-n8/README.md) | 13 | 3 | active 2, completed 7, waiting 4 |
+| [sase-n8](hoods/sase-n8/README.md) | 13 | 3 | active 1, completed 9, waiting 3 |
 | [sase-n9](hoods/sase-n9/README.md) | 16 | 4 | completed 11, failed 5 |
 | [sase-na](hoods/sase-na/README.md) | 7 | 1 | active 1, completed 3, failed 1, waiting 2 |
-| [sase-nb](hoods/sase-nb/README.md) | 12 | 1 | active 1, completed 3, waiting 8 |
+| [sase-nb](hoods/sase-nb/README.md) | 12 | 1 | active 2, completed 4, waiting 6 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-0q](hoods/sase_fix_just-0q/README.md) | 1 | 0 | active 1 |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ad4c17a6a26c7407b3d300370bb1a9c2"}
+{"commits":[{"committed_at":1786904732,"sha":"556a78bcacbed60137dd69cbf33e5417e8b6acff","subject":"feat(llm-provider): add frontend-neutral alias-history adapter"}],"schema_version":2,"source_run_id":"run-ad4c17a6a26c7407b3d300370bb1a9c2"}

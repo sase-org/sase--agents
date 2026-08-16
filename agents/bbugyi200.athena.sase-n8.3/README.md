@@ -13,11 +13,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-16T16:24:55.571339+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`57c71d1`](https://github.com/sase-org/sase/commit/57c71d17a007e73b016a6cac60d14698c45c9b53) | feat(core): mirror alias-history wire contract and add skew probe | 2026-08-16 13:37:24 EDT |
 
 ## Neighbors
 
@@ -27,8 +33,8 @@
 | [sase-n8.2](../../families/bbugyi200.athena.sase-n8.2.md) (family · 2) | sase-n8 hood | completed 2 |
 | [sase-n8.4](../bbugyi200.athena.sase-n8.4/README.md) | sase-n8 hood | completed |
 | [sase-n8.5](../bbugyi200.athena.sase-n8.5/README.md) | sase-n8 hood | completed |
-| [sase-n8.6](../../families/bbugyi200.athena.sase-n8.6.md) (family · 2) | sase-n8 hood | active 2 |
-| [sase-n8.7](../bbugyi200.athena.sase-n8.7/README.md) | sase-n8 hood | waiting |
+| [sase-n8.6](../../families/bbugyi200.athena.sase-n8.6.md) (family · 2) | sase-n8 hood | completed 2 |
+| [sase-n8.7](../bbugyi200.athena.sase-n8.7/README.md) | sase-n8 hood | active |
 | [sase-n8.8](../bbugyi200.athena.sase-n8.8/README.md) | sase-n8 hood | waiting |
 | [sase-n8.9](../bbugyi200.athena.sase-n8.9/README.md) | sase-n8 hood | waiting |
 | [sase-n8.land](../bbugyi200.athena.sase-n8.land/README.md) | sase-n8 hood | waiting |

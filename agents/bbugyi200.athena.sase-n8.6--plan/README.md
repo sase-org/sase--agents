@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-n8](../../users/bbugyi200/machines/athena/hoods/sase-n8/README.md) / [sase-n8.6](../../families/bbugyi200.athena.sase-n8.6.md) / sase-n8.6--plan
 
-**Global name:** `bbugyi200.athena.sase-n8.6--plan` · **State:** active · **Source run:** `run-64ce0f25019288d00024fdd5156e2d15`
+**Global name:** `bbugyi200.athena.sase-n8.6--plan` · **State:** completed · **Source run:** `run-64ce0f25019288d00024fdd5156e2d15`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-n8
 
@@ -28,7 +28,7 @@
 | [sase-n8.3](../bbugyi200.athena.sase-n8.3/README.md) | sase-n8 hood | completed |
 | [sase-n8.4](../bbugyi200.athena.sase-n8.4/README.md) | sase-n8 hood | completed |
 | [sase-n8.5](../bbugyi200.athena.sase-n8.5/README.md) | sase-n8 hood | completed |
-| [sase-n8.7](../bbugyi200.athena.sase-n8.7/README.md) | sase-n8 hood | waiting |
+| [sase-n8.7](../bbugyi200.athena.sase-n8.7/README.md) | sase-n8 hood | active |
 | [sase-n8.8](../bbugyi200.athena.sase-n8.8/README.md) | sase-n8 hood | waiting |
 | [sase-n8.9](../bbugyi200.athena.sase-n8.9/README.md) | sase-n8 hood | waiting |
 | [sase-n8.land](../bbugyi200.athena.sase-n8.land/README.md) | sase-n8 hood | waiting |
