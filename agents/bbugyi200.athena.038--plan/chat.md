@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 038--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-038__plan-260815_221144.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-038__code-260815_221144.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/bead_event_resolution_roundtrip.md
 
 

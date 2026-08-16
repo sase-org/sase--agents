@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-683405eee37629de73351ccb61e4708f"}
+{"commits":[{"committed_at":1786849119,"sha":"f935acacee35d7261aa3b4dbe0bd57342e09d43d","subject":"fix(bead): name concrete field diff in append-only rewrite guard message"}],"schema_version":2,"source_run_id":"run-683405eee37629de73351ccb61e4708f"}
