@@ -21,7 +21,7 @@ flowchart TD
   n0 --> n5
   n6["sase-ns.2--plan [completed]"]
   n0 --> n6
-  n7["sase-ns.2--3 [active]"]
+  n7["sase-ns.2--3 [completed]"]
   n0 --> n7
 ```
 
@@ -36,7 +36,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-2"></a>2 | sase-ns.2--2 | completed | grok-4.6 / grok | 2026-08-16T22:21:52.741976+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ns.2--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ns.2--2/chat.md) |
 | <a id="member-mon"></a>mon | sase-ns.2--mon | failed | grok-4.6 / grok | 2026-08-16T21:56:49.164603+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ns.2--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-ns.2--plan | completed | gpt-5.6-sol / codex | 2026-08-16T21:15:46.012890+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ns.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ns.2--plan/chat.md) |
-| <a id="member-3"></a>3 | sase-ns.2--3 | active | grok-4.6 / grok | 2026-08-16T22:51:48.616926+00:00 | [1](../agents/bbugyi200.athena.sase-ns.2--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-ns.2--3/prompt.md) | — |
+| <a id="member-3"></a>3 | sase-ns.2--3 | completed | grok-4.6 / grok | 2026-08-16T22:51:48.616926+00:00 | [1](../agents/bbugyi200.athena.sase-ns.2--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-ns.2--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ns.2--3/chat.md) |
 
 ## Commits
 
@@ -52,4 +52,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-ns.3](bbugyi200.athena.sase-ns.3.md) (family · 2) | sase-ns hood | completed 2 |
 | [sase-ns.4](../agents/bbugyi200.athena.sase-ns.4/README.md) | sase-ns hood | completed |
 | [sase-ns.5](../agents/bbugyi200.athena.sase-ns.5/README.md) | sase-ns hood | completed |
-| [sase-ns.land](../agents/bbugyi200.athena.sase-ns.land/README.md) | sase-ns hood | waiting |
+| [sase-ns.land](../agents/bbugyi200.athena.sase-ns.land/README.md) | sase-ns hood | active |

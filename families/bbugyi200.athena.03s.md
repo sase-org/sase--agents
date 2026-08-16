@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `03s` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["03s--plan [active]"]
+  n0["03s--plan [dismissed]"]
   n1["03s--code [active]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 03s--plan | active | gpt-5.6-sol / codex | 2026-08-16T15:09:56.297222+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.03s--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.03s--plan/chat.md) |
+| <a id="member-plan"></a>plan | 03s--plan | dismissed | — | 2026-08-16T11:09:44 | 0 | — | — |
 | <a id="member-code"></a>code | 03s--code | active | sonnet / claude | 2026-08-16T15:15:09.258541+00:00 | [1](../agents/bbugyi200.athena.03s--code/README.md#commits) | — | — |
 
 ## Commits
@@ -30,4 +30,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [03s.w0](../agents/bbugyi200.athena.03s.w0/README.md) | descendant | waiting |
+| [03s.w0](bbugyi200.athena.03s.w0.md) (family · 2) | descendant | failed 2 |

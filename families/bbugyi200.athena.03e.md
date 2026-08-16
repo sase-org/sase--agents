@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `03e` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["03e--plan [active]"]
-  n1["03e--code [active]"]
+  n0["03e--plan [dismissed]"]
+  n1["03e--code [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 03e--plan | active | opus / claude | 2026-08-16T13:28:54.212248+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.03e--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.03e--plan/chat.md) |
-| <a id="member-code"></a>code | 03e--code | active | grok-4.6 / grok | 2026-08-16T13:39:02.657566+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | 03e--plan | dismissed | — | 2026-08-16T09:28:43 | 0 | — | — |
+| <a id="member-code"></a>code | 03e--code | completed | grok-4.6 / grok | 2026-08-16T13:39:02.657566+00:00 | [1](../agents/bbugyi200.athena.03e--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.03e--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`f12e241`](https://github.com/sase-org/sase/commit/f12e241a80b6e8538d95a47e6261ea969871f7ad) | fix(sdd): recover approval-time plan archive from rejected push | 2026-08-16 10:30:04 EDT |
 
 ## Neighbors
 

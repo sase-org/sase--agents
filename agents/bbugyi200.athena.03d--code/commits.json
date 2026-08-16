@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-53b69e0b3fb499540fef9ecf14c91811"}
+{"commits":[{"committed_at":1786890504,"sha":"5f84b41e7f51df80d09a32128ee4ba7045a8ed3f","subject":"fix(tui): restore prompt Agents-tab freshness without broad reloads"}],"schema_version":2,"source_run_id":"run-53b69e0b3fb499540fef9ecf14c91811"}

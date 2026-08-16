@@ -25,4 +25,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [03e.cdx](../bbugyi200.athena.03e.cdx/README.md) | ancestor | completed |
-| [03e](../../families/bbugyi200.athena.03e.md) (family · 2) | ancestor | active 2 |
+| [03e](../../families/bbugyi200.athena.03e.md) (family · 2) | ancestor | completed 1, dismissed 1 |

@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-n4` · Members: 2 · Bead: [sase-n4.5](
 ```mermaid
 flowchart TD
   n0["sase-n4.5.land--plan [failed]"]
-  n1["sase-n4.5.land--mon [active]"]
+  n1["sase-n4.5.land--mon [failed]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-n4.5.land--plan | failed | gpt-5.6-sol / codex | 2026-08-16T20:20:17.192982+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-n4.5.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n4.5.land--plan/chat.md) |
-| <a id="member-mon"></a>mon | sase-n4.5.land--mon | active | gpt-5.6-sol / codex | 2026-08-16T20:52:05.165236+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-n4.5.land--mon | failed | gpt-5.6-sol / codex | 2026-08-16T20:52:05.165236+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-n4.5.land--mon/chat.md) |
 
 ## Neighbors
 

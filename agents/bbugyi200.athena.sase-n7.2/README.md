@@ -33,4 +33,4 @@
 | [sase-n7.3](../bbugyi200.athena.sase-n7.3/README.md) | sase-n7 hood | completed |
 | [sase-n7.4](../bbugyi200.athena.sase-n7.4/README.md) | sase-n7 hood | completed |
 | [sase-n7.5](../bbugyi200.athena.sase-n7.5/README.md) | sase-n7 hood | completed |
-| [sase-n7.land](../bbugyi200.athena.sase-n7.land/README.md) | sase-n7 hood | active |
+| [sase-n7.land](../bbugyi200.athena.sase-n7.land/README.md) | sase-n7 hood | completed |

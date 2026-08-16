@@ -13,11 +13,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-16T19:26:41.295414+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`eba0eab`](https://github.com/sase-org/sase/commit/eba0eab736081b34b0d35175912d222a74d87701) | fix(llm-provider): pin usage-limit disable and retry to first writer | 2026-08-16 16:18:45 EDT |
 
 ## Neighbors
 
@@ -25,7 +31,7 @@
 |---|---|---|
 | [sase-n4.5.1](../bbugyi200.athena.sase-n4.5.1/README.md) | sase-n4.5 hood | dismissed |
 | [sase-n4.5.3](../bbugyi200.athena.sase-n4.5.3/README.md) | sase-n4.5 hood | completed |
-| [sase-n4.5.land](../../families/bbugyi200.athena.sase-n4.5.land.md) (family · 2) | sase-n4.5 hood | active 1, failed 1 |
+| [sase-n4.5.land](../../families/bbugyi200.athena.sase-n4.5.land.md) (family · 2) | sase-n4.5 hood | failed 2 |
 | [sase-n4.1](../bbugyi200.athena.sase-n4.1/README.md) | sase-n4 hood | completed |
 | [sase-n4.2](../bbugyi200.athena.sase-n4.2/README.md) | sase-n4 hood | completed |
 | [sase-n4.3](../bbugyi200.athena.sase-n4.3/README.md) | sase-n4 hood | completed |
