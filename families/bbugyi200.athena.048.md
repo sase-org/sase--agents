@@ -1,0 +1,28 @@
+# Family: 048
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [048](../users/bbugyi200/machines/athena/hoods/048/README.md) / 048
+
+Owner: `bbugyi200.athena` · Hood: `048` · Members: 2
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["048--code [active]"]
+  n1["048--plan [active]"]
+  n0 --> n1
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-code"></a>code | 048--code | active | sonnet / claude | 2026-08-16T20:05:04.865383+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | 048--plan | active | opus / claude | 2026-08-16T19:52:34.668600+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.048--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.048--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`70d4214`](https://github.com/sase-org/sase/commit/70d4214cfa1c98c850ee55ad0c303a81435f2159) | chore: Add SDD prompt and plan for zoom\_file\_reverse\_cycle | 2026-06-23 09:02:11 EDT |
+| — | sase | [`229050d`](https://github.com/sase-org/sase/commit/229050d10b4446af76af8d887b58e822d4e286f7) | test(ace): cover zoom modal file cycling in both directions | 2026-06-23 09:18:51 EDT |

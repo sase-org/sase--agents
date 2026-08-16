@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-n8](../../users/bbugyi200/machines/athena/hoods/sase-n8/README.md) / sase-n8.9
 
-**Global name:** `bbugyi200.athena.sase-n8.9` · **State:** waiting · **Source run:** `run-a232e50dd9473c29d759f573cb726df8`
+**Global name:** `bbugyi200.athena.sase-n8.9` · **State:** waiting · **Source run:** `run-45bb0c35aa816263ef50d2a596e2cc74`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-n8
 
@@ -10,9 +10,9 @@
 
 - Bead: [sase-n8.9](https://github.com/sase-org/sase--beads/blob/main/pages/sase-n8/sase-n8.9.md)
 - Epic: [sase-n8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-n8/README.md)
-- Model: grok-4.6
-- Provider: grok
-- Timing: 20260816114133
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 20260816160859
 - Commits: 0
 
 ## Files
@@ -29,6 +29,7 @@
 | [sase-n8.4](../bbugyi200.athena.sase-n8.4/README.md) | sase-n8 hood | completed |
 | [sase-n8.5](../bbugyi200.athena.sase-n8.5/README.md) | sase-n8 hood | completed |
 | [sase-n8.6](../../families/bbugyi200.athena.sase-n8.6.md) (family · 2) | sase-n8 hood | completed 2 |
-| [sase-n8.7](../bbugyi200.athena.sase-n8.7/README.md) | sase-n8 hood | active |
+| [sase-n8.7](../bbugyi200.athena.sase-n8.7/README.md) | sase-n8 hood | completed |
+| [sase-n8.8](../../families/bbugyi200.athena.sase-n8.8.md) (family · 2) | sase-n8 hood | active 2 |
 | [sase-n8.8](../bbugyi200.athena.sase-n8.8/README.md) | sase-n8 hood | waiting |
 | [sase-n8.land](../bbugyi200.athena.sase-n8.land/README.md) | sase-n8 hood | waiting |

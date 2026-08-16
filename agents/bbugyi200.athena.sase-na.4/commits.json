@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0f541411fad1629ff0f847d708f571f0"}
+{"commits":[{"committed_at":1786911164,"sha":"e7b2a30fb39858cd00cd1fb3d26e6791a7587ba3","subject":"feat(history): render ranking signals in history-word completion rows"}],"schema_version":2,"source_run_id":"run-0f541411fad1629ff0f847d708f571f0"}

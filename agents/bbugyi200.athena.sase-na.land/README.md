@@ -24,5 +24,5 @@
 |---|---|---|
 | [sase-na.1](../../families/bbugyi200.athena.sase-na.1.md) (family · 3) | sase-na hood | completed 2, failed 1 |
 | [sase-na.2](../bbugyi200.athena.sase-na.2/README.md) | sase-na hood | completed |
-| [sase-na.3](../bbugyi200.athena.sase-na.3/README.md) | sase-na hood | active |
-| [sase-na.4](../bbugyi200.athena.sase-na.4/README.md) | sase-na hood | waiting |
+| [sase-na.3](../bbugyi200.athena.sase-na.3/README.md) | sase-na hood | completed |
+| [sase-na.4](../bbugyi200.athena.sase-na.4/README.md) | sase-na hood | active |

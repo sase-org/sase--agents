@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I recently added Gemini to the small and xsmall model aliases. Find those git commits for context. Can you help me go back to only using the Gemini 3.7 high model for xsmall (and remove it from the `@small` model alias pool)? #plan
