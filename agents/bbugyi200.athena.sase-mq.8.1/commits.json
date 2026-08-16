@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e171853df960152bd214341517de3d0e"}
+{"commits":[{"committed_at":1786872716,"sha":"b57f644dbf6a48e656aaa3e708d07741d22a063b","subject":"refactor(sidecar-sync): replace bead-store-refresh chop with sync hints"}],"schema_version":2,"source_run_id":"run-e171853df960152bd214341517de3d0e"}

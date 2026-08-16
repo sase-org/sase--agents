@@ -13,17 +13,23 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-16T08:53:45.798992+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`b57f644`](https://github.com/sase-org/sase/commit/b57f644dbf6a48e656aaa3e708d07741d22a063b) | refactor(sidecar-sync): replace bead-store-refresh chop with sync hints | 2026-08-16 05:31:56 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-mq.8.2](../bbugyi200.athena.sase-mq.8.2/README.md) | sase-mq.8 hood | active |
+| [sase-mq.8.2](../bbugyi200.athena.sase-mq.8.2/README.md) | sase-mq.8 hood | completed |
 | [sase-mq.8.3](../bbugyi200.athena.sase-mq.8.3/README.md) | sase-mq.8 hood | completed |
 | [sase-mq.8.4](../bbugyi200.athena.sase-mq.8.4/README.md) | sase-mq.8 hood | waiting |
 | [sase-mq.8.land](../bbugyi200.athena.sase-mq.8.land/README.md) | sase-mq.8 hood | waiting |
