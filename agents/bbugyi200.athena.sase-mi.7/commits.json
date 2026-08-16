@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2123a8c84adab15d32cc38706c7bdaeb"}
+{"commits":[{"committed_at":1786852520,"sha":"daf933aa5aef62111343b94a1957ddc6fa605195","subject":"fix(perf): group optional resolver spans in detail benchmark"}],"schema_version":2,"source_run_id":"run-2123a8c84adab15d32cc38706c7bdaeb"}

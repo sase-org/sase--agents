@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-mi](../../users/bbugyi200/machines/athena/hoods/sase-mi/README.md) / sase-mi.7
 
-**Global name:** `bbugyi200.athena.sase-mi.7` · **State:** waiting · **Source run:** `run-2123a8c84adab15d32cc38706c7bdaeb`
+**Global name:** `bbugyi200.athena.sase-mi.7` · **State:** active · **Source run:** `run-2123a8c84adab15d32cc38706c7bdaeb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-mi
 
@@ -12,12 +12,18 @@
 - Epic: [sase-mi](https://github.com/sase-org/sase--beads/blob/main/pages/sase-mi/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260815200805
-- Commits: 0
+- Timing: 2026-08-16T03:27:17.913454+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`daf933a`](https://github.com/sase-org/sase/commit/daf933aa5aef62111343b94a1957ddc6fa605195) | fix(perf): group optional resolver spans in detail benchmark | 2026-08-15 23:55:20 EDT |
 
 ## Neighbors
 
@@ -28,5 +34,5 @@
 | [sase-mi.3](../bbugyi200.athena.sase-mi.3/README.md) | sase-mi hood | completed |
 | [sase-mi.4](../bbugyi200.athena.sase-mi.4/README.md) | sase-mi hood | completed |
 | [sase-mi.5](../bbugyi200.athena.sase-mi.5/README.md) | sase-mi hood | completed |
-| [sase-mi.6](../bbugyi200.athena.sase-mi.6/README.md) | sase-mi hood | active |
+| [sase-mi.6](../bbugyi200.athena.sase-mi.6/README.md) | sase-mi hood | completed |
 | [sase-mi.land](../bbugyi200.athena.sase-mi.land/README.md) | sase-mi hood | waiting |

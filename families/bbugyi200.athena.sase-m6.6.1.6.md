@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-m6.6.1.6--code | active | grok-4.6 / grok | 2026-08-15T23:49:33.244156+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-m6.6.1.6--plan | active | gpt-5.6-sol / codex | 2026-08-15T23:44:48.605426+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m6.6.1.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m6.6.1.6--plan/chat.md) |
+| <a id="member-code"></a>code | sase-m6.6.1.6--code | active | gpt-5.5 / codex | 2026-08-16T03:52:08.880603+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-m6.6.1.6--plan | active | opus / claude | 2026-08-16T03:36:39.409483+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m6.6.1.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m6.6.1.6--plan/chat.md) |
 
 ## Neighbors
 

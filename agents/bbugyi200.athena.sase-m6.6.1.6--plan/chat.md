@@ -1,10 +1,10 @@
 # Chat History - ace-run (sase-m6.6.1.6--plan)
 
-- **TIMESTAMP:** 2026-08-15 19:49:24 EDT
-- **MODEL:** codex/gpt-5.6-sol
+- **TIMESTAMP:** 2026-08-15 23:52:00 EDT
+- **MODEL:** claude/opus
 - **AGENT:** sase-m6.6.1.6--plan
 
-**Plan:** /home/bryan/.sase/plans/202608/patch_inline_filter_bar.md
+**Plan:** /home/bryan/.sase/plans/202608/patch_inline_filter_bar_1.md
 
 
 ## Prompt
@@ -13,7 +13,6 @@
 %id(6, clan=sase-m6.6.1, bead=sase-m6.6.1.6)
 %model:@large
 %auto
-%w:sase-m6.6.1.5
 %w(bead=sase-m6.6.1.2)
 %w(bead=sase-m6.6.1.3)
 %w(bead=sase-m6.6.1.4)
@@ -38,18 +37,18 @@ before making any file changes.
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202608/patch_inline_filter_bar.md`
+**Plan file:** `/home/bryan/.sase/plans/202608/patch_inline_filter_bar_1.md`
 
 > - **PARENT:** [202608/unified_artifacts_query_1.md](202608/unified_artifacts_query_1.md)
 > - **BEAD:** sase-m6.6.1.6
-> # Plan: Cut Patches over to the shared inline filter bar
-> ## Goal
-> Complete phase `sase-m6.6.1.6` by moving the Patches pane from its modal query editor
-> and compatibility-only Patch corpus wrapper onto the same contract-configured inline
-> filter and profile-driven Rust evaluation path already used by the other Artifacts
-> panes. Preserve the complete boolean dialect, make live editing reversible and
-> responsive, and ensure every saved-query, history, selection, and project-scope action
-> mutates only the active Patches pane.
+> # Plan: Cut Patch over to the shared inline filter bar
+> Implements phase `patch_bar` of the child epic
+> `plan:202608/unified_artifacts_query_1.md` (bead `sase-m6.6.1.6`). Phases `profile`,
+> `rust_engine`, `python_reference`, `persistence` and `flat_panes` have landed on
+> `master`; this phase is the last migration step before `conformance`.
+> ## What already exists (do not redo)
+> - `patches_query_schema()` (`src/sase/ace/query_profile/profiles.py`) already declares
+>   the Patch dialect at `boolean=True` with its sigils (`+ ^ ~ &`), `%` status macros,
 
 *See full plan file for details.*
 

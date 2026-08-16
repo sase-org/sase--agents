@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m6](../../users/bbugyi200/machines/athena/hoods/sase-m6/README.md) / [sase-m6.6.1.6](../../families/bbugyi200.athena.sase-m6.6.1.6.md) / sase-m6.6.1.6--plan
 
-**Global name:** `bbugyi200.athena.sase-m6.6.1.6--plan` · **State:** active · **Source run:** `run-dbfdcc1fb02cf831c77880adbdab170b`
+**Global name:** `bbugyi200.athena.sase-m6.6.1.6--plan` · **State:** active · **Source run:** `run-63455f30b01f8dabdaf2f8274c77ae66`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m6
 
@@ -10,9 +10,9 @@
 
 - Bead: [sase-m6.6.1.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m6/sase-m6.6.1.6.md)
 - Epic: [sase-m6.6.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m6/sase-m6.6.1.md)
-- Model: gpt-5.6-sol
-- Provider: codex
-- Timing: 2026-08-15T23:44:48.605426+00:00
+- Model: opus
+- Provider: claude
+- Timing: 2026-08-16T03:36:39.409483+00:00
 - Commits: 0
 
 ## Files

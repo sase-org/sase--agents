@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m6](../../users/bbugyi200/machines/athena/hoods/sase-m6/README.md) / [sase-m6.6.1.6](../../families/bbugyi200.athena.sase-m6.6.1.6.md) / sase-m6.6.1.6--code
 
-**Global name:** `bbugyi200.athena.sase-m6.6.1.6--code` · **State:** active · **Source run:** `run-2cc65dd012640cfae06428bf661c675c`
+**Global name:** `bbugyi200.athena.sase-m6.6.1.6--code` · **State:** active · **Source run:** `run-0f731d86ecc4c3e014c04ad570c860c3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m6
 
@@ -10,9 +10,9 @@
 
 - Bead: [sase-m6.6.1.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m6/sase-m6.6.1.6.md)
 - Epic: [sase-m6.6.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m6/sase-m6.6.1.md)
-- Model: grok-4.6
-- Provider: grok
-- Timing: 2026-08-15T23:49:33.244156+00:00
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 2026-08-16T03:52:08.880603+00:00
 - Commits: 0
 
 ## Neighbors
