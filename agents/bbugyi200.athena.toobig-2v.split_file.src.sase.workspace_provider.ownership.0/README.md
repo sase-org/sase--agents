@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-2v](../../users/bbugyi200/machines/athena/hoods/toobig-2v/README.md) / toobig-2v.split\_file.src.sase.workspace\_provider.ownership.0
 
-**Global name:** `bbugyi200.athena.toobig-2v.split_file.src.sase.workspace_provider.ownership.0` · **State:** active · **Source run:** `run-3329a8f8851c73d1209956559ec2af09`
+**Global name:** `bbugyi200.athena.toobig-2v.split_file.src.sase.workspace_provider.ownership.0` · **State:** completed · **Source run:** `run-3329a8f8851c73d1209956559ec2af09`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-2v
 
@@ -11,11 +11,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-16T14:39:07.218838+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`763cffb`](https://github.com/sase-org/sase/commit/763cffba44363ef6761dcdf5cd56792706cbc3e1) | refactor(workspace-provider): split ownership module into siblings | 2026-08-16 11:00:50 EDT |
 
 ## Neighbors
 

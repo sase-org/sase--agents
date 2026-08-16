@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `sase ace` TUI's startup time has started to creep back up again. Can you help me dig into sase's logs to figure out why this is happening and significantly decrease the TUI's start-up time? #plan #m_opus

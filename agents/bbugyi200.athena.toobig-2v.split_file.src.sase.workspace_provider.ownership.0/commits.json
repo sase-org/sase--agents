@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3329a8f8851c73d1209956559ec2af09"}
+{"commits":[{"committed_at":1786892450,"sha":"763cffba44363ef6761dcdf5cd56792706cbc3e1","subject":"refactor(workspace-provider): split ownership module into siblings"}],"schema_version":2,"source_run_id":"run-3329a8f8851c73d1209956559ec2af09"}
