@@ -13,7 +13,13 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-16T01:17:09.429682+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ac5d958`](https://github.com/sase-org/sase/commit/ac5d95810fc70758d6855d6012d828d9e73bcfb2) | feat(cli)!: retire detached proc mode | 2026-08-15 22:02:33 EDT |
 
 ## Neighbors
 

@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-m9.3.1.5--code | active | gpt-5.5 / codex | 2026-08-16T01:17:09.429682+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-m9.3.1.5--code | active | gpt-5.5 / codex | 2026-08-16T01:17:09.429682+00:00 | [1](../agents/bbugyi200.athena.sase-m9.3.1.5--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-m9.3.1.5--plan | active | gpt-5.6-sol / codex | 2026-08-16T01:12:20.961801+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m9.3.1.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m9.3.1.5--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`ac5d958`](https://github.com/sase-org/sase/commit/ac5d95810fc70758d6855d6012d828d9e73bcfb2) | feat(cli)!: retire detached proc mode | 2026-08-15 22:02:33 EDT |
 
 ## Neighbors
 
