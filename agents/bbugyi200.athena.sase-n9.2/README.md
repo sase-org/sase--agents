@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-n9](../../users/bbugyi200/machines/athena/hoods/sase-n9/README.md) / sase-n9.2
 
-**Global name:** `bbugyi200.athena.sase-n9.2` · **State:** active · **Source run:** `run-63837db624befc572a4e1e762597d712`
+**Global name:** `bbugyi200.athena.sase-n9.2` · **State:** completed · **Source run:** `run-63837db624befc572a4e1e762597d712`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-n9
 
@@ -17,13 +17,13 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-n9.1](../../families/bbugyi200.athena.sase-n9.1.md) (family · 7) | sase-n9 hood | completed 4, failed 3 |
-| [sase-n9.3](../../families/bbugyi200.athena.sase-n9.3.md) (family · 3) | sase-n9 hood | active 1, completed 1, failed 1 |
+| [sase-n9.3](../../families/bbugyi200.athena.sase-n9.3.md) (family · 3) | sase-n9 hood | completed 2, failed 1 |
 | [sase-n9.4](../../families/bbugyi200.athena.sase-n9.4.md) (family · 3) | sase-n9 hood | completed 2, failed 1 |
 | [sase-n9.land](../bbugyi200.athena.sase-n9.land/README.md) | sase-n9 hood | waiting |
