@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 02w.f0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-02w_f0__plan-260815_195551.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-02w_f0__code-260815_195551.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/launch_control_entry_jump.md
 
 

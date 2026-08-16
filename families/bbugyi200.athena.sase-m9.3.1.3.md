@@ -20,6 +20,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | sase-m9.3.1.3--code | completed | gpt-5.5 / codex | 2026-08-15T20:51:31.616737+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-m9.3.1.3--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-m9.3.1.3--plan | completed | gpt-5.6-sol / codex | 2026-08-15T20:48:35.716825+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m9.3.1.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m9.3.1.3--plan/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`7d7581a`](https://github.com/sase-org/sase/commit/7d7581a21cc7e3418979f09b2b17c8ec0daba0f6) | feat(ace): migrate remaining durable producers | 2026-08-15 18:56:54 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |

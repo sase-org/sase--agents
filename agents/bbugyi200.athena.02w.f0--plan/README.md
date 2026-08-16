@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [02w](../../users/bbugyi200/machines/athena/hoods/02w/README.md) / [02w.f0](../../families/bbugyi200.athena.02w.f0.md) / 02w.f0--plan
 
-**Global name:** `bbugyi200.athena.02w.f0--plan` · **State:** active · **Source run:** `run-f16a1167a43556f9de25ae31d30fe55f`
+**Global name:** `bbugyi200.athena.02w.f0--plan` · **State:** completed · **Source run:** `run-f16a1167a43556f9de25ae31d30fe55f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 02w
 

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-dd658a238a70489bf6345a4371e2d019"}
+{"commits":[{"committed_at":1786842365,"sha":"8c48404581cabc8b49f1534ef4e64f542363141d","subject":"feat(ace): observe durable procs read-only"}],"schema_version":2,"source_run_id":"run-dd658a238a70489bf6345a4371e2d019"}

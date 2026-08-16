@@ -13,7 +13,13 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-15T23:07:44.443261+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8c48404`](https://github.com/sase-org/sase/commit/8c48404581cabc8b49f1534ef4e64f542363141d) | feat(ace): observe durable procs read-only | 2026-08-15 21:06:05 EDT |
 
 ## Neighbors
 

@@ -80,7 +80,7 @@
 | [02t](hoods/02t/README.md) | 2 | 0 | completed 2 |
 | [02u](hoods/02u/README.md) | 1 | 1 | failed 1 |
 | [02v](hoods/02v/README.md) | 3 | 1 | active 2, completed 1 |
-| [02w](hoods/02w/README.md) | 5 | 2 | active 2, completed 3 |
+| [02w](hoods/02w/README.md) | 5 | 2 | completed 5 |
 | [02x](hoods/02x/README.md) | 2 | 0 | completed 2 |
 | [02y](hoods/02y/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
 | [02z](hoods/02z/README.md) | 5 | 1 | active 1, completed 4 |
