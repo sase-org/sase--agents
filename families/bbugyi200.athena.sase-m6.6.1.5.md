@@ -52,11 +52,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-m6.4](bbugyi200.athena.sase-m6.4.md) (family · 4) | sase-m6 hood | completed 3, failed 1 |
 | [sase-m6.5](bbugyi200.athena.sase-m6.5.md) (family · 2) | sase-m6 hood | completed 2 |
 | [sase-m6.7](bbugyi200.athena.sase-m6.7.md) (family · 2) | sase-m6 hood | failed 2 |
-| [sase-m6.7.1.1](../agents/bbugyi200.athena.sase-m6.7.1.1/README.md) | sase-m6 hood | active |
-| [sase-m6.7.1.2](../agents/bbugyi200.athena.sase-m6.7.1.2/README.md) | sase-m6 hood | waiting |
+| [sase-m6.7.1.1](../agents/bbugyi200.athena.sase-m6.7.1.1/README.md) | sase-m6 hood | completed |
+| [sase-m6.7.1.2](bbugyi200.athena.sase-m6.7.1.2.md) (family · 2) | sase-m6 hood | active 2 |
 | [sase-m6.7.1.3](../agents/bbugyi200.athena.sase-m6.7.1.3/README.md) | sase-m6 hood | waiting |
 | [sase-m6.7.1.4](../agents/bbugyi200.athena.sase-m6.7.1.4/README.md) | sase-m6 hood | waiting |
-| [sase-m6.7.1.5](../agents/bbugyi200.athena.sase-m6.7.1.5/README.md) | sase-m6 hood | waiting |
+| [sase-m6.7.1.5](bbugyi200.athena.sase-m6.7.1.5.md) (family · 2) | sase-m6 hood | active 2 |
 | [sase-m6.7.1.6](../agents/bbugyi200.athena.sase-m6.7.1.6/README.md) | sase-m6 hood | waiting |
 | [sase-m6.7.1.land](../agents/bbugyi200.athena.sase-m6.7.1.land/README.md) | sase-m6 hood | waiting |
 | [sase-m6.8](../agents/bbugyi200.athena.sase-m6.8/README.md) | sase-m6 hood | waiting |

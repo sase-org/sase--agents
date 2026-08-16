@@ -24,11 +24,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-m6.7.1.1](../agents/bbugyi200.athena.sase-m6.7.1.1/README.md) | descendant | active |
-| [sase-m6.7.1.2](../agents/bbugyi200.athena.sase-m6.7.1.2/README.md) | descendant | waiting |
+| [sase-m6.7.1.1](../agents/bbugyi200.athena.sase-m6.7.1.1/README.md) | descendant | completed |
+| [sase-m6.7.1.2](bbugyi200.athena.sase-m6.7.1.2.md) (family · 2) | descendant | active 2 |
 | [sase-m6.7.1.3](../agents/bbugyi200.athena.sase-m6.7.1.3/README.md) | descendant | waiting |
 | [sase-m6.7.1.4](../agents/bbugyi200.athena.sase-m6.7.1.4/README.md) | descendant | waiting |
-| [sase-m6.7.1.5](../agents/bbugyi200.athena.sase-m6.7.1.5/README.md) | descendant | waiting |
+| [sase-m6.7.1.5](bbugyi200.athena.sase-m6.7.1.5.md) (family · 2) | descendant | active 2 |
 | [sase-m6.7.1.6](../agents/bbugyi200.athena.sase-m6.7.1.6/README.md) | descendant | waiting |
 | [sase-m6.7.1.land](../agents/bbugyi200.athena.sase-m6.7.1.land/README.md) | descendant | waiting |
 | [sase-m6.1](../agents/bbugyi200.athena.sase-m6.1/README.md) | sase-m6 hood | completed |

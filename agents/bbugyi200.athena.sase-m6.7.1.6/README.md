@@ -24,11 +24,11 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-m6.7](../../families/bbugyi200.athena.sase-m6.7.md) (family · 2) | ancestor | failed 2 |
-| [sase-m6.7.1.1](../bbugyi200.athena.sase-m6.7.1.1/README.md) | sase-m6.7.1 hood | active |
-| [sase-m6.7.1.2](../bbugyi200.athena.sase-m6.7.1.2/README.md) | sase-m6.7.1 hood | waiting |
+| [sase-m6.7.1.1](../bbugyi200.athena.sase-m6.7.1.1/README.md) | sase-m6.7.1 hood | completed |
+| [sase-m6.7.1.2](../../families/bbugyi200.athena.sase-m6.7.1.2.md) (family · 2) | sase-m6.7.1 hood | active 2 |
 | [sase-m6.7.1.3](../bbugyi200.athena.sase-m6.7.1.3/README.md) | sase-m6.7.1 hood | waiting |
 | [sase-m6.7.1.4](../bbugyi200.athena.sase-m6.7.1.4/README.md) | sase-m6.7.1 hood | waiting |
-| [sase-m6.7.1.5](../bbugyi200.athena.sase-m6.7.1.5/README.md) | sase-m6.7.1 hood | waiting |
+| [sase-m6.7.1.5](../../families/bbugyi200.athena.sase-m6.7.1.5.md) (family · 2) | sase-m6.7.1 hood | active 2 |
 | [sase-m6.7.1.land](../bbugyi200.athena.sase-m6.7.1.land/README.md) | sase-m6.7.1 hood | waiting |
 | [sase-m6.1](../bbugyi200.athena.sase-m6.1/README.md) | sase-m6 hood | completed |
 | [sase-m6.10](../bbugyi200.athena.sase-m6.10/README.md) | sase-m6 hood | waiting |
