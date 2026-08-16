@@ -10,4 +10,4 @@
 | [03c--code-0](../../../../../../families/bbugyi200.athena.03c.md#member-code-0) | active | gpt-5.5 / codex | 2026-08-16T13:29:21.766616+00:00 | 1 | — |
 | [03c--mon](../../../../../../families/bbugyi200.athena.03c.md#member-mon) | active | opus / claude | 2026-08-16T14:05:25.113930+00:00 | 0 | — |
 | [03c--code](../../../../../../families/bbugyi200.athena.03c.md#member-code) | active | sonnet / claude | 2026-08-16T13:27:33.641983+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.03c--code/chat.md) |
-| [03c--plan](../../../../../../families/bbugyi200.athena.03c.md#member-plan) | active | opus / claude | 2026-08-16T13:14:09.597359+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.03c--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.03c--plan/chat.md) |
+| [03c--plan](../../../../../../families/bbugyi200.athena.03c.md#member-plan) | active | opus / claude | 2026-08-16T13:14:09.597359+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.03c--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.03c--plan/prompt.md) |
