@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase It feels like the TUI takes a very long time to refresh anymore. For example I often get notifications about agents completing well before I see the corresponding unread indicator show on the agents tab. Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix the issue? #plan

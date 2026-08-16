@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me confirm that all of the work has been completed for the `sase-m6.7` phase bead and `sase-m6.7.1` epic beads? If so, close those beads. #if_not_plan

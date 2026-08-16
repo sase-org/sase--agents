@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I've noticed that the `<ctrl+space>` keymap stops working randomly sometimes and then starts working again after a TUI restart. Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix the issue? #plan

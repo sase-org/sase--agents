@@ -19,3 +19,9 @@
 |---|---|---|---|
 | sase | [`f322f19`](https://github.com/sase-org/sase/commit/f322f191e89b9e3e3a0bb2aa29ae34b330bccef9) | chore: Add SDD prompt and plan for agy\_print\_no\_progress\_recovery | 2026-06-21 11:55:07 EDT |
 | sase | [`1eb26d3`](https://github.com/sase-org/sase/commit/1eb26d367668d3c32f7d53acb2f03d166a3e8e37) | fix(agy): recover from no-progress print replies | 2026-06-21 12:20:35 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [03c](../../families/bbugyi200.athena.03c.md) (family · 3) | ancestor | active 3 |
