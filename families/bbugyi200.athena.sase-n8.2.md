@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-n8` · Members: 2 · Bead: [sase-n8.2](
 
 ```mermaid
 flowchart TD
-  n0["sase-n8.2--code [active]"]
-  n1["sase-n8.2--plan [active]"]
+  n0["sase-n8.2--code [completed]"]
+  n1["sase-n8.2--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,16 +17,16 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-n8.2--code | active | grok-4.6 / grok | 2026-08-16T15:46:06.650091+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-n8.2--plan | active | gpt-5.6-sol / codex | 2026-08-16T15:41:54.636224+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-n8.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n8.2--plan/chat.md) |
+| <a id="member-code"></a>code | sase-n8.2--code | completed | grok-4.6 / grok | 2026-08-16T15:46:06.650091+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-n8.2--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-n8.2--plan | completed | gpt-5.6-sol / codex | 2026-08-16T15:41:54.636224+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-n8.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n8.2--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-n8.1](bbugyi200.athena.sase-n8.1.md) (family · 2) | sase-n8 hood | active 2 |
-| [sase-n8.3](../agents/bbugyi200.athena.sase-n8.3/README.md) | sase-n8 hood | waiting |
-| [sase-n8.4](../agents/bbugyi200.athena.sase-n8.4/README.md) | sase-n8 hood | active |
+| [sase-n8.1](bbugyi200.athena.sase-n8.1.md) (family · 2) | sase-n8 hood | completed 2 |
+| [sase-n8.3](../agents/bbugyi200.athena.sase-n8.3/README.md) | sase-n8 hood | active |
+| [sase-n8.4](../agents/bbugyi200.athena.sase-n8.4/README.md) | sase-n8 hood | completed |
 | [sase-n8.5](../agents/bbugyi200.athena.sase-n8.5/README.md) | sase-n8 hood | waiting |
 | [sase-n8.6](../agents/bbugyi200.athena.sase-n8.6/README.md) | sase-n8 hood | waiting |
 | [sase-n8.7](../agents/bbugyi200.athena.sase-n8.7/README.md) | sase-n8 hood | waiting |
