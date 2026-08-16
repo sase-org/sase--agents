@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-2s](../../users/bbugyi200/machines/athena/hoods/toobig-2s/README.md) / toobig-2s.split\_file.src.sase.llm\_provider.registry.0
 
-**Global name:** `bbugyi200.athena.toobig-2s.split_file.src.sase.llm_provider.registry.0` · **State:** waiting · **Source run:** `run-4bc9f3b04d837a1cbe8f1584bd494413`
+**Global name:** `bbugyi200.athena.toobig-2s.split_file.src.sase.llm_provider.registry.0` · **State:** active · **Source run:** `run-4bc9f3b04d837a1cbe8f1584bd494413`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-2s
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260815153630
-- Commits: 0
+- Timing: 2026-08-16T02:27:31.527677+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`4fae4e7`](https://github.com/sase-org/sase/commit/4fae4e7941dc5174bf8fd6df30de068153491f80) | refactor(llm): split provider registry into focused modules | 2026-08-15 22:51:04 EDT |
 
 ## Neighbors
 
