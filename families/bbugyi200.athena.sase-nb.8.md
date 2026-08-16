@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-nb.8--code | active | gpt-5.5 / codex | 2026-08-16T21:52:37.164186+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-nb.8--code | active | gpt-5.5 / codex | 2026-08-16T21:52:37.164186+00:00 | [1](../agents/bbugyi200.athena.sase-nb.8--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-nb.8--plan | active | gpt-5.6-sol / codex | 2026-08-16T21:48:37.016603+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-nb.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-nb.8--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`6f1286e`](https://github.com/sase-org/sase/commit/6f1286e269aeb279aa42f3e8a78466767ea8893c) | fix(ace): repair post-rebase history metadata checks | 2026-08-16 19:48:53 EDT |
 
 ## Neighbors
 
