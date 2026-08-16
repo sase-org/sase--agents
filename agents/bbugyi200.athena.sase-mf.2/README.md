@@ -30,6 +30,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-mf.1](../bbugyi200.athena.sase-mf.1/README.md) | sase-mf hood | completed |
-| [sase-mf.3](../bbugyi200.athena.sase-mf.3/README.md) | sase-mf hood | waiting |
-| [sase-mf.4](../bbugyi200.athena.sase-mf.4/README.md) | sase-mf hood | waiting |
+| [sase-mf.3](../bbugyi200.athena.sase-mf.3/README.md) | sase-mf hood | dismissed |
+| [sase-mf.4](../bbugyi200.athena.sase-mf.4/README.md) | sase-mf hood | active |
 | [sase-mf.land](../bbugyi200.athena.sase-mf.land/README.md) | sase-mf hood | waiting |

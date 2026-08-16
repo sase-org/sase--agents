@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0b70f0c901922945c22dd5b9211e0229"}
+{"commits":[{"committed_at":1786831027,"sha":"28da68d4e325d38587c9703a5db683ee8a13af76","subject":"feat(tui): redesign Models panel around launch settings"}],"schema_version":2,"source_run_id":"run-0b70f0c901922945c22dd5b9211e0229"}
