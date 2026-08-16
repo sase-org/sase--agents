@@ -36,4 +36,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-n9.1](bbugyi200.athena.sase-n9.1.md) (family · 7) | sase-n9 hood | completed 4, failed 3 |
 | [sase-n9.2](../agents/bbugyi200.athena.sase-n9.2/README.md) | sase-n9 hood | completed |
 | [sase-n9.4](bbugyi200.athena.sase-n9.4.md) (family · 3) | sase-n9 hood | completed 2, failed 1 |
-| [sase-n9.land](../agents/bbugyi200.athena.sase-n9.land/README.md) | sase-n9 hood | waiting |
+| [sase-n9.land](bbugyi200.athena.sase-n9.land.md) (family · 2) | sase-n9 hood | completed 2 |

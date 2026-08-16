@@ -29,5 +29,5 @@
 | [sase-n4.4](../bbugyi200.athena.sase-n4.4/README.md) | sase-n4 hood | dismissed |
 | [sase-n4.5.1](../bbugyi200.athena.sase-n4.5.1/README.md) | sase-n4 hood | active |
 | [sase-n4.5.2](../bbugyi200.athena.sase-n4.5.2/README.md) | sase-n4 hood | waiting |
-| [sase-n4.5.3](../bbugyi200.athena.sase-n4.5.3/README.md) | sase-n4 hood | active |
+| [sase-n4.5.3](../bbugyi200.athena.sase-n4.5.3/README.md) | sase-n4 hood | completed |
 | [sase-n4.5.land](../bbugyi200.athena.sase-n4.5.land/README.md) | sase-n4 hood | waiting |

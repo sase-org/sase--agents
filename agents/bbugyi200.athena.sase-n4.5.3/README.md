@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-n4](../../users/bbugyi200/machines/athena/hoods/sase-n4/README.md) / sase-n4.5.3
 
-**Global name:** `bbugyi200.athena.sase-n4.5.3` · **State:** active · **Source run:** `run-ae7ebba7120b4549e162004c2595fd42`
+**Global name:** `bbugyi200.athena.sase-n4.5.3` · **State:** completed · **Source run:** `run-ae7ebba7120b4549e162004c2595fd42`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-n4
 
@@ -13,11 +13,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-16T18:28:56.595417+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`2509e39`](https://github.com/sase-org/sase/commit/2509e3990c17db2a237e57f945357934f9b7ede3) | feat: show provider-disable provenance in Launch Control | 2026-08-16 15:06:05 EDT |
 
 ## Neighbors
 
