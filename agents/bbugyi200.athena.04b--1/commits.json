@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1786915246,"sha":"35d75b24e9e76b85f8952df8bf21dbc77bd7be3a","subject":"fix(bead): stop commit finalizer failing runs over staged bead state"}],"schema_version":2,"source_run_id":"run-b13e4b5ade4cb8493967ee48c68076d1"}
