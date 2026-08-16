@@ -1,15 +1,15 @@
-# Family: sase-nb.2
+# Family: sase-nb.8
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-nb](../users/bbugyi200/machines/athena/hoods/sase-nb/README.md) / sase-nb.2
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-nb](../users/bbugyi200/machines/athena/hoods/sase-nb/README.md) / sase-nb.8
 
-Owner: `bbugyi200.athena` · Hood: `sase-nb` · Members: 2 · Bead: [sase-nb.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-nb/sase-nb.2.md)
+Owner: `bbugyi200.athena` · Hood: `sase-nb` · Members: 2 · Bead: [sase-nb.8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-nb/sase-nb.8.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-nb.2--code [completed]"]
-  n1["sase-nb.2--plan [completed]"]
+  n0["sase-nb.8--code [active]"]
+  n1["sase-nb.8--plan [active]"]
   n0 --> n1
 ```
 
@@ -17,14 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-nb.2--code | completed | gpt-5.5 / codex | 2026-08-16T16:51:20.005137+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-nb.2--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-nb.2--plan | completed | opus / claude | 2026-08-16T16:37:23.894927+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-nb.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-nb.2--plan/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| — | sase | [`76c332b`](https://github.com/sase-org/sase/commit/76c332bd5d1e15a2753fd1a005242b9040b2d327) | feat: add feature flag registry foundation | 2026-08-16 13:53:02 EDT |
+| <a id="member-code"></a>code | sase-nb.8--code | active | gpt-5.5 / codex | 2026-08-16T21:52:37.164186+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-nb.8--plan | active | gpt-5.6-sol / codex | 2026-08-16T21:48:37.016603+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-nb.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-nb.8--plan/chat.md) |
 
 ## Neighbors
 
@@ -32,12 +26,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-nb.1](../agents/bbugyi200.athena.sase-nb.1/README.md) | sase-nb hood | completed |
 | [sase-nb.10](../agents/bbugyi200.athena.sase-nb.10/README.md) | sase-nb hood | waiting |
+| [sase-nb.2](bbugyi200.athena.sase-nb.2.md) (family · 2) | sase-nb hood | completed 2 |
 | [sase-nb.3](../agents/bbugyi200.athena.sase-nb.3/README.md) | sase-nb hood | completed |
 | [sase-nb.4](../agents/bbugyi200.athena.sase-nb.4/README.md) | sase-nb hood | dismissed |
 | [sase-nb.4\_1](bbugyi200.athena.sase-nb.4_1.md) (family · 5) | sase-nb hood | completed 3, failed 2 |
 | [sase-nb.5](../agents/bbugyi200.athena.sase-nb.5/README.md) | sase-nb hood | completed |
 | [sase-nb.6](../agents/bbugyi200.athena.sase-nb.6/README.md) | sase-nb hood | active |
 | [sase-nb.7](../agents/bbugyi200.athena.sase-nb.7/README.md) | sase-nb hood | active |
-| [sase-nb.8](bbugyi200.athena.sase-nb.8.md) (family · 2) | sase-nb hood | active 2 |
 | [sase-nb.9](../agents/bbugyi200.athena.sase-nb.9/README.md) | sase-nb hood | waiting |
 | [sase-nb.land](../agents/bbugyi200.athena.sase-nb.land/README.md) | sase-nb hood | waiting |
