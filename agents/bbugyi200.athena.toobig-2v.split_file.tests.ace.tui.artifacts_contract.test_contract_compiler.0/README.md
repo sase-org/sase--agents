@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-2v](../../users/bbugyi200/machines/athena/hoods/toobig-2v/README.md) / toobig-2v.split\_file.tests.ace.tui.artifacts\_contract.test\_contract\_compiler.0
 
-**Global name:** `bbugyi200.athena.toobig-2v.split_file.tests.ace.tui.artifacts_contract.test_contract_compiler.0` · **State:** waiting · **Source run:** `run-7ad88cc623509059136d45de41a4c498`
+**Global name:** `bbugyi200.athena.toobig-2v.split_file.tests.ace.tui.artifacts_contract.test_contract_compiler.0` · **State:** active · **Source run:** `run-7ad88cc623509059136d45de41a4c498`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-2v
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20260816092643
+- Timing: 2026-08-16T21:11:41.333666+00:00
 - Commits: 0
 
 ## Files
