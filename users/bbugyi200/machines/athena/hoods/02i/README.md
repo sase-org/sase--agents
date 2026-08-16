@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 02i
 
-**Global hood:** `bbugyi200.athena.02i` · **Runs:** 18 · **Families:** 1 · **States:** active 4, completed 4, failed 10
+**Global hood:** `bbugyi200.athena.02i` · **Runs:** 18 · **Families:** 1 · **States:** active 4, completed 3, dismissed 1, failed 10
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -11,7 +11,7 @@
 | [02i--mon-3](../../../../../../families/bbugyi200.athena.02i.md#member-mon-3) | failed | gpt-5.6-sol / codex | 2026-08-15T18:06:57.428942+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.02i--mon-3/chat.md) |
 | [02i--mon-1](../../../../../../families/bbugyi200.athena.02i.md#member-mon-1) | failed | gpt-5.6-sol / codex | 2026-08-15T17:58:29.570280+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.02i--mon-1/chat.md) |
 | [02i--3](../../../../../../families/bbugyi200.athena.02i.md#member-3) | completed | gpt-5.6-sol / codex | 2026-08-15T18:06:13.237295+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.02i--3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.02i--3/prompt.md) |
-| [02i--0](../../../../../../families/bbugyi200.athena.02i.md#member-0) | completed | gpt-5.6-sol / codex | 2026-08-15T16:16:50.981074+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.02i--0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.02i--0/prompt.md) |
+| [02i--0](../../../../../../families/bbugyi200.athena.02i.md#member-0) | dismissed | gpt-5.6-sol / codex | 2026-08-15T12:16:50.981074 → 2026-08-15T14:57:49.734289 | 0 | [chat](../../../../../../agents/bbugyi200.athena.02i--0/chat.md) |
 | [02i--5](../../../../../../families/bbugyi200.athena.02i.md#member-5) | active | gpt-5.6-sol / codex | 2026-08-15T18:18:51.084031+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.02i--5/prompt.md) |
 | [02i--4](../../../../../../families/bbugyi200.athena.02i.md#member-4) | active | gpt-5.6-sol / codex | 2026-08-15T18:09:16.939877+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.02i--4/prompt.md) |
 | [02i--2](../../../../../../families/bbugyi200.athena.02i.md#member-2) | active | gpt-5.6-sol / codex | 2026-08-15T18:01:48.218973+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.02i--2/prompt.md) |
