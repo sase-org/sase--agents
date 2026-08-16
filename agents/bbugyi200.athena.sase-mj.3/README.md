@@ -31,6 +31,6 @@
 |---|---|---|
 | [sase-mj.1](../bbugyi200.athena.sase-mj.1/README.md) | sase-mj hood | completed |
 | [sase-mj.2](../bbugyi200.athena.sase-mj.2/README.md) | sase-mj hood | completed |
-| [sase-mj.4](../bbugyi200.athena.sase-mj.4/README.md) | sase-mj hood | active |
-| [sase-mj.5](../bbugyi200.athena.sase-mj.5/README.md) | sase-mj hood | waiting |
-| [sase-mj.land](../bbugyi200.athena.sase-mj.land/README.md) | sase-mj hood | waiting |
+| [sase-mj.4](../bbugyi200.athena.sase-mj.4/README.md) | sase-mj hood | completed |
+| [sase-mj.5](../bbugyi200.athena.sase-mj.5/README.md) | sase-mj hood | completed |
+| [sase-mj.land](../bbugyi200.athena.sase-mj.land/README.md) | sase-mj hood | active |

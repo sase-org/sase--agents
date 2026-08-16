@@ -63,7 +63,7 @@
 | [025](hoods/025/README.md) | 1 | 0 | completed 1 |
 | [026](hoods/026/README.md) | 3 | 1 | active 2, dismissed 1 |
 | [027](hoods/027/README.md) | 2 | 1 | active 2 |
-| [028](hoods/028/README.md) | 2 | 1 | completed 2 |
+| [028](hoods/028/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [02c](hoods/02c/README.md) | 2 | 0 | completed 2 |
 | [02d](hoods/02d/README.md) | 3 | 1 | completed 3 |
 | [02e](hoods/02e/README.md) | 1 | 0 | completed 1 |
@@ -85,7 +85,7 @@
 | [02y](hoods/02y/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
 | [02z](hoods/02z/README.md) | 5 | 1 | active 1, completed 4 |
 | [03](hoods/03/README.md) | 1 | 0 | active 1 |
-| [030](hoods/030/README.md) | 3 | 1 | active 2, completed 1 |
+| [030](hoods/030/README.md) | 3 | 1 | active 1, completed 1, dismissed 1 |
 | [031](hoods/031/README.md) | 3 | 1 | active 1, completed 1, dismissed 1 |
 | [032](hoods/032/README.md) | 3 | 1 | completed 1, failed 2 |
 | [033](hoods/033/README.md) | 2 | 1 | active 2 |
@@ -1364,13 +1364,13 @@
 | [sase-m4](hoods/sase-m4/README.md) | 37 | 3 | completed 23, dismissed 1, failed 13 |
 | [sase-m6](hoods/sase-m6/README.md) | 35 | 8 | active 2, completed 17, dismissed 2, failed 7, waiting 7 |
 | [sase-m7](hoods/sase-m7/README.md) | 5 | 1 | active 3, completed 1, failed 1 |
-| [sase-m9](hoods/sase-m9/README.md) | 50 | 13 | active 4, completed 14, dismissed 16, failed 13, waiting 3 |
+| [sase-m9](hoods/sase-m9/README.md) | 50 | 13 | active 3, completed 14, dismissed 16, failed 14, waiting 3 |
 | [sase-mc](hoods/sase-mc/README.md) | 14 | 3 | active 2, completed 8, failed 4 |
 | [sase-me](hoods/sase-me/README.md) | 3 | 1 | active 3 |
 | [sase-mf](hoods/sase-mf/README.md) | 5 | 0 | completed 2, waiting 3 |
 | [sase-mg](hoods/sase-mg/README.md) | 10 | 2 | completed 7, dismissed 1, failed 2 |
-| [sase-mi](hoods/sase-mi/README.md) | 8 | 0 | active 1, completed 6, waiting 1 |
-| [sase-mj](hoods/sase-mj/README.md) | 6 | 0 | active 1, completed 3, waiting 2 |
+| [sase-mi](hoods/sase-mi/README.md) | 8 | 0 | active 1, completed 7 |
+| [sase-mj](hoods/sase-mj/README.md) | 6 | 0 | active 1, completed 5 |
 | [sase-mk](hoods/sase-mk/README.md) | 1 | 0 | completed 1 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |

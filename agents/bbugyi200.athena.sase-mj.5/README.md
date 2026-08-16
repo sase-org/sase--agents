@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-mj](../../users/bbugyi200/machines/athena/hoods/sase-mj/README.md) / sase-mj.5
 
-**Global name:** `bbugyi200.athena.sase-mj.5` · **State:** waiting · **Source run:** `run-815c1c078a6d1bc0d589ce02886bab47`
+**Global name:** `bbugyi200.athena.sase-mj.5` · **State:** completed · **Source run:** `run-815c1c078a6d1bc0d589ce02886bab47`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-mj
 
@@ -12,12 +12,18 @@
 - Epic: [sase-mj](https://github.com/sase-org/sase--beads/blob/main/pages/sase-mj/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260815202812
-- Commits: 0
+- Timing: 2026-08-16T03:51:00.433985+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3862288`](https://github.com/sase-org/sase/commit/3862288e98d737dbbe2c2a9dad20d8d16f5eeb96) | test(ace): add visual snapshots and runbook documentation for Statistics Perf view | 2026-08-16 00:06:51 EDT |
 
 ## Neighbors
 
@@ -26,5 +32,5 @@
 | [sase-mj.1](../bbugyi200.athena.sase-mj.1/README.md) | sase-mj hood | completed |
 | [sase-mj.2](../bbugyi200.athena.sase-mj.2/README.md) | sase-mj hood | completed |
 | [sase-mj.3](../bbugyi200.athena.sase-mj.3/README.md) | sase-mj hood | completed |
-| [sase-mj.4](../bbugyi200.athena.sase-mj.4/README.md) | sase-mj hood | active |
-| [sase-mj.land](../bbugyi200.athena.sase-mj.land/README.md) | sase-mj hood | waiting |
+| [sase-mj.4](../bbugyi200.athena.sase-mj.4/README.md) | sase-mj hood | completed |
+| [sase-mj.land](../bbugyi200.athena.sase-mj.land/README.md) | sase-mj hood | active |

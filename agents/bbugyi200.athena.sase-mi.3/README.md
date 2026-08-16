@@ -34,5 +34,5 @@
 | [sase-mi.4](../bbugyi200.athena.sase-mi.4/README.md) | sase-mi hood | completed |
 | [sase-mi.5](../bbugyi200.athena.sase-mi.5/README.md) | sase-mi hood | completed |
 | [sase-mi.6](../bbugyi200.athena.sase-mi.6/README.md) | sase-mi hood | completed |
-| [sase-mi.7](../bbugyi200.athena.sase-mi.7/README.md) | sase-mi hood | active |
-| [sase-mi.land](../bbugyi200.athena.sase-mi.land/README.md) | sase-mi hood | waiting |
+| [sase-mi.7](../bbugyi200.athena.sase-mi.7/README.md) | sase-mi hood | completed |
+| [sase-mi.land](../bbugyi200.athena.sase-mi.land/README.md) | sase-mi hood | active |

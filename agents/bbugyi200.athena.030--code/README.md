@@ -11,4 +11,10 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-15T23:50:07.325571+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`85c09a8`](https://github.com/sase-org/sase/commit/85c09a886472fae743be8733622b784a4263d2d5) | feat(llm): route Gemini Flash Medium via @xsmall and Flash High via @small | 2026-08-15 20:12:58 EDT |
