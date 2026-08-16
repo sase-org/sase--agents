@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8abe8b135f27ec332aa06dfe0a8b6582"}
+{"commits":[{"committed_at":1786858303,"sha":"ff3b0fa43f8175fea54af7cead671d3e863a88ca","subject":"test: add artifacts query profile conformance goldens"}],"schema_version":2,"source_run_id":"run-8abe8b135f27ec332aa06dfe0a8b6582"}

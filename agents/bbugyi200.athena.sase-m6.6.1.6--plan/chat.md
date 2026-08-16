@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-m6.6.1.6--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_m6_6_1_6__plan-260815_233620.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_m6_6_1_6__code-260815_233620.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/patch_inline_filter_bar_1.md
 
 
