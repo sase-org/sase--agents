@@ -24,8 +24,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ns.1](bbugyi200.athena.sase-ns.1.md) (family · 4) | sase-ns hood | active 1, completed 2, failed 1 |
-| [sase-ns.2](bbugyi200.athena.sase-ns.2.md) (family · 4) | sase-ns hood | active 1, completed 2, failed 1 |
+| [sase-ns.1](bbugyi200.athena.sase-ns.1.md) (family · 4) | sase-ns hood | completed 3, failed 1 |
+| [sase-ns.2](bbugyi200.athena.sase-ns.2.md) (family · 8) | sase-ns hood | active 1, completed 4, failed 3 |
 | [sase-ns.4](../agents/bbugyi200.athena.sase-ns.4/README.md) | sase-ns hood | completed |
 | [sase-ns.5](../agents/bbugyi200.athena.sase-ns.5/README.md) | sase-ns hood | completed |
 | [sase-ns.land](../agents/bbugyi200.athena.sase-ns.land/README.md) | sase-ns hood | waiting |
