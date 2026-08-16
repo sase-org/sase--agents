@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7c6a05f7927e4de899844dc64d551d5c"}
+{"commits":[{"committed_at":1786838827,"sha":"de83c802dd16878ed73773dc0031fe67821db5ee","subject":"refactor(tui): split models provider panel module"}],"schema_version":2,"source_run_id":"run-7c6a05f7927e4de899844dc64d551d5c"}

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-97f9a0bed45e33cc0f5b1e6f6cbe3d72"}
+{"commits":[{"committed_at":1786845995,"sha":"c756a7c6338af95bcba535eda8166f594ea95244","subject":"refactor(tui): split artifacts files pane into focused mixins"}],"schema_version":2,"source_run_id":"run-97f9a0bed45e33cc0f5b1e6f6cbe3d72"}

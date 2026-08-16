@@ -21,6 +21,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-2s.split\_file.src.sase.ace.tui.modals.models\_panel\_providers.0](../bbugyi200.athena.toobig-2s.split_file.src.sase.ace.tui.modals.models_panel_providers.0/README.md) | toobig-2s.split\_file hood | failed |
-| [toobig-2s.split\_file.src.sase.ace.tui.widgets.artifacts.files\_pane.0](../bbugyi200.athena.toobig-2s.split_file.src.sase.ace.tui.widgets.artifacts.files_pane.0/README.md) | toobig-2s.split\_file hood | waiting |
+| [toobig-2s.split\_file.src.sase.ace.tui.modals.models\_panel\_providers.0](../bbugyi200.athena.toobig-2s.split_file.src.sase.ace.tui.modals.models_panel_providers.0/README.md) | toobig-2s.split\_file hood | completed |
+| [toobig-2s.split\_file.src.sase.ace.tui.widgets.artifacts.files\_pane.0](../bbugyi200.athena.toobig-2s.split_file.src.sase.ace.tui.widgets.artifacts.files_pane.0/README.md) | toobig-2s.split\_file hood | completed |
 | [toobig-2s.split\_file.src.sase.llm\_provider.registry.0](../bbugyi200.athena.toobig-2s.split_file.src.sase.llm_provider.registry.0/README.md) | toobig-2s.split\_file hood | waiting |
