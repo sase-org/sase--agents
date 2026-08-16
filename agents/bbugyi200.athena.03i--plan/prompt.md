@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The "Procs" tab of the "SASE Admin Center" panel is showing 0 running procs, but the visual indicator on the top-right in the TUI shows 1 running proc (and the TUI didn't restart after an update--saying that a proc was running). See #sshot for context. Can you help me diagnose the root cause of this issue and fix it? #plan
