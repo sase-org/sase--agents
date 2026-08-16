@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-gy.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-gy/sase-gy.3.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-07T11:58:40.565234 → 2026-08-07T12:10:28.350729

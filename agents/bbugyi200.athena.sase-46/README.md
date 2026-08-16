@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-46](https://github.com/sase-org/sase--beads/blob/main/pages/sase-46/README.md)
 - Model: —
 - Provider: —
 - Timing: 2026-05-27T17:23:04+00:00 → 2026-05-27T17:23:04+00:00

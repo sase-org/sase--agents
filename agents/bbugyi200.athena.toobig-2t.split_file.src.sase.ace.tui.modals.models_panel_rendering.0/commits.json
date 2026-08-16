@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ce0f665077a67143f33de022241c2a61"}
+{"commits":[{"committed_at":1786858923,"sha":"7bf73f7855735f384663e125b53729016595ca0a","subject":"refactor(tui): split models panel rendering helpers"}],"schema_version":2,"source_run_id":"run-ce0f665077a67143f33de022241c2a61"}

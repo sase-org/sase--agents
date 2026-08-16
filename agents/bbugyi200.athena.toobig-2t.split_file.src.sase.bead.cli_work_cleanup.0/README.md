@@ -23,7 +23,7 @@
 |---|---|---|
 | [toobig-2t.split\_file.src.sase.bead.\_stream\_integrity.0](../bbugyi200.athena.toobig-2t.split_file.src.sase.bead._stream_integrity.0/README.md) | toobig-2t.split\_file.src.sase.bead hood | waiting |
 | [toobig-2t.split\_file.src.sase.ace.tui.modals.models\_panel\_display.0](../bbugyi200.athena.toobig-2t.split_file.src.sase.ace.tui.modals.models_panel_display.0/README.md) | toobig-2t.split\_file.src.sase hood | completed |
-| [toobig-2t.split\_file.src.sase.ace.tui.modals.models\_panel\_rendering.0](../bbugyi200.athena.toobig-2t.split_file.src.sase.ace.tui.modals.models_panel_rendering.0/README.md) | toobig-2t.split\_file.src.sase hood | waiting |
+| [toobig-2t.split\_file.src.sase.ace.tui.modals.models\_panel\_rendering.0](../bbugyi200.athena.toobig-2t.split_file.src.sase.ace.tui.modals.models_panel_rendering.0/README.md) | toobig-2t.split\_file.src.sase hood | completed |
 | [toobig-2t.split\_file.src.sase.stats.\_perf\_view.0](../bbugyi200.athena.toobig-2t.split_file.src.sase.stats._perf_view.0/README.md) | toobig-2t.split\_file.src.sase hood | waiting |
 | [toobig-2t.split\_file.tests.main.test\_var\_get.0](../bbugyi200.athena.toobig-2t.split_file.tests.main.test_var_get.0/README.md) | toobig-2t.split\_file hood | waiting |
 | [toobig-2t.split\_file.tests.main.test\_var\_handler.0](../bbugyi200.athena.toobig-2t.split_file.tests.main.test_var_handler.0/README.md) | toobig-2t.split\_file hood | waiting |
