@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1e47664e3bc7a2b9f9988c4d5375420c"}
+{"commits":[{"committed_at":1786923180,"sha":"563a67fb065c2eef0f710df85710e15bac023cce","subject":"fix(tui): complete the grouping-keymap migration in the visual lane"}],"schema_version":2,"source_run_id":"run-1e47664e3bc7a2b9f9988c4d5375420c"}

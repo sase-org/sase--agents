@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7ad88cc623509059136d45de41a4c498"}
+{"commits":[{"committed_at":1786915579,"sha":"8edc02d0d8fb40d3e94e07907e08853472ff266c","subject":"test: split artifact contract compiler coverage"}],"schema_version":2,"source_run_id":"run-7ad88cc623509059136d45de41a4c498"}

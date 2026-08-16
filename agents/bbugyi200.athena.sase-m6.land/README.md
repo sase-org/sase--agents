@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m6](../../users/bbugyi200/machines/athena/hoods/sase-m6/README.md) / sase-m6.land
 
-**Global name:** `bbugyi200.athena.sase-m6.land` · **State:** waiting · **Source run:** `run-1e47664e3bc7a2b9f9988c4d5375420c`
+**Global name:** `bbugyi200.athena.sase-m6.land` · **State:** active · **Source run:** `run-1e47664e3bc7a2b9f9988c4d5375420c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m6
 
@@ -11,19 +11,25 @@
 - Bead: [sase-m6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m6/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260816091518
-- Commits: 0
+- Timing: 2026-08-16T21:23:28.752955+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`563a67f`](https://github.com/sase-org/sase/commit/563a67fb065c2eef0f710df85710e15bac023cce) | fix(tui): complete the grouping-keymap migration in the visual lane | 2026-08-16 19:33:00 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-m6.1](../bbugyi200.athena.sase-m6.1/README.md) | sase-m6 hood | completed |
-| [sase-m6.10](../../families/bbugyi200.athena.sase-m6.10.md) (family · 3) | sase-m6 hood | active 1, completed 1, failed 1 |
+| [sase-m6.10](../../families/bbugyi200.athena.sase-m6.10.md) (family · 3) | sase-m6 hood | completed 2, failed 1 |
 | [sase-m6.2](../bbugyi200.athena.sase-m6.2/README.md) | sase-m6 hood | completed |
 | [sase-m6.3](../../families/bbugyi200.athena.sase-m6.3.md) (family · 2) | sase-m6 hood | completed 2 |
 | [sase-m6.4](../../families/bbugyi200.athena.sase-m6.4.md) (family · 4) | sase-m6 hood | completed 3, failed 1 |
