@@ -2,7 +2,7 @@
 %id(land, clan=sase-m6, bead=sase-m6)
 %model:@xlarge
 %auto
-%w:sase-m6.7,sase-m6.8,sase-m6.9,sase-m6.10
+%w:sase-m6.8,sase-m6.9,sase-m6.10
 %w(bead=sase-m6.1)
 %w(bead=sase-m6.2)
 %w(bead=sase-m6.3)
