@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b4a9ec3ae17abc02629dd4d9835ee75c"}
+{"commits":[{"committed_at":1786862411,"sha":"577086aae1a0dbca9daf112a219519813822254d","subject":"refactor(bead): split work cleanup responsibilities"}],"schema_version":2,"source_run_id":"run-b4a9ec3ae17abc02629dd4d9835ee75c"}
