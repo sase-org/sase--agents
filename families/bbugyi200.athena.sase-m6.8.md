@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-m6.8--code | active | gpt-5.5 / codex | 2026-08-16T17:45:31.754122+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-m6.8--code | active | gpt-5.5 / codex | 2026-08-16T17:45:31.754122+00:00 | [1](../agents/bbugyi200.athena.sase-m6.8--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-m6.8--plan | active | gpt-5.6-sol / codex | 2026-08-16T17:38:40.386710+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m6.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m6.8--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`ae3c862`](https://github.com/sase-org/sase/commit/ae3c86249e73b24d3807842ac91cc22fb81f4683) | feat(artifacts): support declarative ref pane presentation | 2026-08-16 14:44:54 EDT |
 
 ## Neighbors
 

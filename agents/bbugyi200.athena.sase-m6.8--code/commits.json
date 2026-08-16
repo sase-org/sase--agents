@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-291fd9a070bbd4926005686513b30ffe"}
+{"commits":[{"committed_at":1786905894,"sha":"ae3c86249e73b24d3807842ac91cc22fb81f4683","subject":"feat(artifacts): support declarative ref pane presentation"}],"schema_version":2,"source_run_id":"run-291fd9a070bbd4926005686513b30ffe"}
