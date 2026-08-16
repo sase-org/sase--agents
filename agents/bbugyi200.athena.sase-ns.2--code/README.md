@@ -19,8 +19,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ns.1](../bbugyi200.athena.sase-ns.1/README.md) | sase-ns hood | active |
-| [sase-ns.3](../bbugyi200.athena.sase-ns.3/README.md) | sase-ns hood | active |
+| [sase-ns.1](../../families/bbugyi200.athena.sase-ns.1.md) (family · 2) | sase-ns hood | active 2 |
+| [sase-ns.3](../../families/bbugyi200.athena.sase-ns.3.md) (family · 2) | sase-ns hood | active 2 |
 | [sase-ns.4](../bbugyi200.athena.sase-ns.4/README.md) | sase-ns hood | active |
 | [sase-ns.5](../bbugyi200.athena.sase-ns.5/README.md) | sase-ns hood | active |
 | [sase-ns.land](../bbugyi200.athena.sase-ns.land/README.md) | sase-ns hood | waiting |

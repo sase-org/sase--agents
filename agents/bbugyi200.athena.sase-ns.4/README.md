@@ -13,18 +13,24 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-16T21:16:11.056135+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c8b5e96`](https://github.com/sase-org/sase/commit/c8b5e962e4962f0819008136168d5532cbee9094) | test(file-panel): assert body renders at the \_update\_body seam | 2026-08-16 17:48:31 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ns.1](../bbugyi200.athena.sase-ns.1/README.md) | sase-ns hood | active |
+| [sase-ns.1](../../families/bbugyi200.athena.sase-ns.1.md) (family · 2) | sase-ns hood | active 2 |
 | [sase-ns.2](../../families/bbugyi200.athena.sase-ns.2.md) (family · 2) | sase-ns hood | active 2 |
-| [sase-ns.3](../bbugyi200.athena.sase-ns.3/README.md) | sase-ns hood | active |
+| [sase-ns.3](../../families/bbugyi200.athena.sase-ns.3.md) (family · 2) | sase-ns hood | active 2 |
 | [sase-ns.5](../bbugyi200.athena.sase-ns.5/README.md) | sase-ns hood | active |
 | [sase-ns.land](../bbugyi200.athena.sase-ns.land/README.md) | sase-ns hood | waiting |
