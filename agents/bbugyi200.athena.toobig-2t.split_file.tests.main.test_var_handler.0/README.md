@@ -28,9 +28,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-2t.split\_file.tests.main.test\_var\_get.0](../bbugyi200.athena.toobig-2t.split_file.tests.main.test_var_get.0/README.md) | toobig-2t.split\_file.tests.main hood | completed |
-| [toobig-2t.split\_file.tests.test\_models\_panel\_navigation.0](../bbugyi200.athena.toobig-2t.split_file.tests.test_models_panel_navigation.0/README.md) | toobig-2t.split\_file.tests hood | active |
-| [toobig-2t.split\_file.tests.test\_models\_panel\_provider\_routing.0](../bbugyi200.athena.toobig-2t.split_file.tests.test_models_panel_provider_routing.0/README.md) | toobig-2t.split\_file.tests hood | waiting |
-| [toobig-2t.split\_file.tests.test\_test\_selection\_health\_correlation.0](../bbugyi200.athena.toobig-2t.split_file.tests.test_test_selection_health_correlation.0/README.md) | toobig-2t.split\_file.tests hood | waiting |
+| [toobig-2t.split\_file.tests.test\_models\_panel\_navigation.0](../bbugyi200.athena.toobig-2t.split_file.tests.test_models_panel_navigation.0/README.md) | toobig-2t.split\_file.tests hood | completed |
+| [toobig-2t.split\_file.tests.test\_models\_panel\_provider\_routing.0](../bbugyi200.athena.toobig-2t.split_file.tests.test_models_panel_provider_routing.0/README.md) | toobig-2t.split\_file.tests hood | completed |
+| [toobig-2t.split\_file.tests.test\_test\_selection\_health\_correlation.0](../bbugyi200.athena.toobig-2t.split_file.tests.test_test_selection_health_correlation.0/README.md) | toobig-2t.split\_file.tests hood | active |
 | [toobig-2t.split\_file.src.sase.ace.tui.modals.models\_panel\_display.0](../bbugyi200.athena.toobig-2t.split_file.src.sase.ace.tui.modals.models_panel_display.0/README.md) | toobig-2t.split\_file hood | completed |
 | [toobig-2t.split\_file.src.sase.ace.tui.modals.models\_panel\_rendering.0](../bbugyi200.athena.toobig-2t.split_file.src.sase.ace.tui.modals.models_panel_rendering.0/README.md) | toobig-2t.split\_file hood | completed |
 | [toobig-2t.split\_file.src.sase.bead.\_stream\_integrity.0](../bbugyi200.athena.toobig-2t.split_file.src.sase.bead._stream_integrity.0/README.md) | toobig-2t.split\_file hood | completed |

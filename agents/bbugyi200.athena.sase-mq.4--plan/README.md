@@ -28,5 +28,5 @@
 | [sase-mq.3](../../families/bbugyi200.athena.sase-mq.3.md) (family · 2) | sase-mq hood | completed 2 |
 | [sase-mq.5](../bbugyi200.athena.sase-mq.5/README.md) | sase-mq hood | completed |
 | [sase-mq.6](../bbugyi200.athena.sase-mq.6/README.md) | sase-mq hood | completed |
-| [sase-mq.7](../bbugyi200.athena.sase-mq.7/README.md) | sase-mq hood | waiting |
-| [sase-mq.land](../bbugyi200.athena.sase-mq.land/README.md) | sase-mq hood | waiting |
+| [sase-mq.7](../bbugyi200.athena.sase-mq.7/README.md) | sase-mq hood | completed |
+| [sase-mq.land](../bbugyi200.athena.sase-mq.land/README.md) | sase-mq hood | active |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-mq](../../users/bbugyi200/machines/athena/hoods/sase-mq/README.md) / sase-mq.7
 
-**Global name:** `bbugyi200.athena.sase-mq.7` · **State:** waiting · **Source run:** `run-d79230d48a788ce3fe49be27aafc6e3d`
+**Global name:** `bbugyi200.athena.sase-mq.7` · **State:** completed · **Source run:** `run-d79230d48a788ce3fe49be27aafc6e3d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-mq
 
@@ -12,12 +12,18 @@
 - Epic: [sase-mq](https://github.com/sase-org/sase--beads/blob/main/pages/sase-mq/README.md)
 - Model: gemini-3.7-flash-high
 - Provider: agy
-- Timing: 20260815234346
-- Commits: 0
+- Timing: 2026-08-16T07:50:55.053975+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ec390cd`](https://github.com/sase-org/sase/commit/ec390cdd451f95730a1246475c7746c5c0643190) | test(workspace): add end-to-end ownership invariant audit gates | 2026-08-16 04:18:27 EDT |
 
 ## Neighbors
 
@@ -26,7 +32,7 @@
 | [sase-mq.1](../bbugyi200.athena.sase-mq.1/README.md) | sase-mq hood | completed |
 | [sase-mq.2](../../families/bbugyi200.athena.sase-mq.2.md) (family · 3) | sase-mq hood | completed 2, failed 1 |
 | [sase-mq.3](../../families/bbugyi200.athena.sase-mq.3.md) (family · 2) | sase-mq hood | completed 2 |
-| [sase-mq.4](../../families/bbugyi200.athena.sase-mq.4.md) (family · 3) | sase-mq hood | active 1, completed 1, failed 1 |
+| [sase-mq.4](../../families/bbugyi200.athena.sase-mq.4.md) (family · 3) | sase-mq hood | completed 2, failed 1 |
 | [sase-mq.5](../bbugyi200.athena.sase-mq.5/README.md) | sase-mq hood | completed |
 | [sase-mq.6](../bbugyi200.athena.sase-mq.6/README.md) | sase-mq hood | completed |
-| [sase-mq.land](../bbugyi200.athena.sase-mq.land/README.md) | sase-mq hood | waiting |
+| [sase-mq.land](../bbugyi200.athena.sase-mq.land/README.md) | sase-mq hood | active |

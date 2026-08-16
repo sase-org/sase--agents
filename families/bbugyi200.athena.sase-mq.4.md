@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-mq` · Members: 3 · Bead: [sase-mq.4](
 ```mermaid
 flowchart TD
   n0["sase-mq.4--plan [completed]"]
-  n1["sase-mq.4--1 [active]"]
+  n1["sase-mq.4--1 [completed]"]
   n0 --> n1
   n2["sase-mq.4--mon [failed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-mq.4--plan | completed | grok-4.6 / grok | 2026-08-16T06:30:40.094311+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-mq.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-mq.4--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-mq.4--1 | active | grok-4.6 / grok | 2026-08-16T07:36:16.914193+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-mq.4--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-mq.4--1 | completed | grok-4.6 / grok | 2026-08-16T07:36:16.914193+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-mq.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-mq.4--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-mq.4--mon | failed | grok-4.6 / grok | 2026-08-16T07:22:17.958893+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-mq.4--mon/chat.md) |
 
 ## Neighbors
@@ -32,5 +32,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-mq.3](bbugyi200.athena.sase-mq.3.md) (family · 2) | sase-mq hood | completed 2 |
 | [sase-mq.5](../agents/bbugyi200.athena.sase-mq.5/README.md) | sase-mq hood | completed |
 | [sase-mq.6](../agents/bbugyi200.athena.sase-mq.6/README.md) | sase-mq hood | completed |
-| [sase-mq.7](../agents/bbugyi200.athena.sase-mq.7/README.md) | sase-mq hood | waiting |
-| [sase-mq.land](../agents/bbugyi200.athena.sase-mq.land/README.md) | sase-mq hood | waiting |
+| [sase-mq.7](../agents/bbugyi200.athena.sase-mq.7/README.md) | sase-mq hood | completed |
+| [sase-mq.land](../agents/bbugyi200.athena.sase-mq.land/README.md) | sase-mq hood | active |
