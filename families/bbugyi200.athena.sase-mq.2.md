@@ -41,7 +41,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-mq.7](../agents/bbugyi200.athena.sase-mq.7/README.md) | sase-mq hood | completed |
 | [sase-mq.8.1](../agents/bbugyi200.athena.sase-mq.8.1/README.md) | sase-mq hood | active |
 | [sase-mq.8.2](../agents/bbugyi200.athena.sase-mq.8.2/README.md) | sase-mq hood | active |
-| [sase-mq.8.3](../agents/bbugyi200.athena.sase-mq.8.3/README.md) | sase-mq hood | active |
+| [sase-mq.8.3](../agents/bbugyi200.athena.sase-mq.8.3/README.md) | sase-mq hood | completed |
 | [sase-mq.8.4](../agents/bbugyi200.athena.sase-mq.8.4/README.md) | sase-mq hood | waiting |
 | [sase-mq.8.land](../agents/bbugyi200.athena.sase-mq.8.land/README.md) | sase-mq hood | waiting |
 | [sase-mq.land](bbugyi200.athena.sase-mq.land.md) (family · 2) | sase-mq hood | failed 2 |

@@ -13,18 +13,24 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-16T08:53:51.248680+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9b5bba5`](https://github.com/sase-org/sase/commit/9b5bba5df887247ec28aa50e1f14d6ddf431d513) | perf(beads): fuse claim-check snapshot and reconcile into one lease | 2026-08-16 05:14:55 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-mq.8.1](../bbugyi200.athena.sase-mq.8.1/README.md) | sase-mq.8 hood | active |
-| [sase-mq.8.3](../bbugyi200.athena.sase-mq.8.3/README.md) | sase-mq.8 hood | active |
+| [sase-mq.8.3](../bbugyi200.athena.sase-mq.8.3/README.md) | sase-mq.8 hood | completed |
 | [sase-mq.8.4](../bbugyi200.athena.sase-mq.8.4/README.md) | sase-mq.8 hood | waiting |
 | [sase-mq.8.land](../bbugyi200.athena.sase-mq.8.land/README.md) | sase-mq.8 hood | waiting |
 | [sase-mq.1](../bbugyi200.athena.sase-mq.1/README.md) | sase-mq hood | completed |
