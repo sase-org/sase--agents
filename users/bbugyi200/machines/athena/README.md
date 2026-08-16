@@ -1364,7 +1364,7 @@
 | [sase-m4](hoods/sase-m4/README.md) | 37 | 3 | completed 23, dismissed 1, failed 13 |
 | [sase-m6](hoods/sase-m6/README.md) | 35 | 8 | active 2, completed 17, dismissed 2, failed 7, waiting 7 |
 | [sase-m7](hoods/sase-m7/README.md) | 5 | 1 | active 3, completed 1, failed 1 |
-| [sase-m9](hoods/sase-m9/README.md) | 50 | 13 | active 5, completed 12, dismissed 16, failed 13, waiting 4 |
+| [sase-m9](hoods/sase-m9/README.md) | 50 | 13 | active 4, completed 14, dismissed 16, failed 13, waiting 3 |
 | [sase-mc](hoods/sase-mc/README.md) | 14 | 3 | active 2, completed 8, failed 4 |
 | [sase-me](hoods/sase-me/README.md) | 3 | 1 | active 3 |
 | [sase-mf](hoods/sase-mf/README.md) | 5 | 0 | completed 2, waiting 3 |

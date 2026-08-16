@@ -1,0 +1,389 @@
+# Chat History - ace-run (sase-m9.3.1.5--code)
+
+- **TIMESTAMP:** 2026-08-15 22:06:06 EDT
+- **MODEL:** codex/gpt-5.5
+- **AGENT:** sase-m9.3.1.5--code
+
+## Linked Chats
+
+- 1. --plan — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_m9_3_1_5__plan-260815_190216.md`
+- **2. --code** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_m9_3_1_5__code-260815_190216.md`
+
+## Prompt
+
+%model:@medium
+#gh:gh_sase-org__sase
+@sase/repos/plans/202608/detached_proc_retirement.md
+
+The above plan has been reviewed and approved. Implement it now.
+
+
+## Response
+
+I’m going to use the SASE memory-read skill first because this task is about a proc-retirement plan, and the repo instructions require glossary memory for SASE terms like `proc`. After that I’ll read the approved plan and implement it in the current checkout.
+
+The glossary confirms `detached` is now only a compatibility label for proc rows. I’m locating the approved plan and then I’ll map it to the code paths before editing.
+
+The plan isn’t in this checkout, so I’m switching to the SASE repo-opening skill before touching any sidecar or linked repository content. That keeps the artifact repo access on the project’s normal path.
+
+The plan is in the `plans` sidecar for this project. I’m opening that sidecar through `sase repo open` and then I’ll read the approved document.
+
+The plan changes CLI option surfaces, so I’m also loading the CLI rules memory before editing parser code. Then I’ll inspect the proc/task implementation and tests together.
+
+I’ve got the CLI constraints. Next I’m reading the relevant parser, proc service/runner, ACE, docs, and tests to identify every place where `detached` is still an active choice.
+
+The first broad search was too noisy, so I’m narrowing to proc/task modules and docs that mention the retired flags directly. I’ll use the file list from that pass rather than scanning the whole tree for every `kind`.
+
+The parser still exposes `--detached` directly and the handler chooses between `submit_proc` and `submit_detached_proc`. I’m reading the rest of those files plus the proc service/runner to replace that active branch while keeping legacy history readable.
+
+The current service already uses durable argv, but it forwards `request.kind` into storage. I’m checking the request facade and compatibility APIs now so new callers normalize to `command` without breaking old rows.
+
+The active writers are in three buckets: CLI run, the legacy `submit_detached_proc` facade, and bead/monitor fallbacks. I’m also locating the central argv preprocessing point, because the obsolete flag diagnostic has to happen before public argparse parsing and must ignore command argv after `--`.
+
+Parser tests currently assert the old public surface, so those need to flip to hidden legacy `--kind` and explicit obsolete-token failures. I’m checking the parser’s completion/inventory helpers to make sure suppression also keeps completions clean.
+
+The CLI behavior tests already cover `--session none` and the process-level runner path; I’m reading the remaining runner/service tests to update the expected kind normalization and add the ownership invariant.
+
+Monitors currently write `detached` kind through a low-level request. The plan wants that to be an ordinary command row with no session attribution, so I’m checking bead fallbacks with the same lens.
+
+The fallback dedupe functions currently filter only `detached` rows, which would miss newly normalized command rows. I’m reading the render and ACE observer code before editing so the user-facing labels match the new attribution model.
+
+ACE’s observer already treats unattributed rows as visible in scoped views, except some labels still privilege `detached`. I’m continuing through the observer tests to update that contract.
+
+There’s no obvious existing conformance test for proc writer invariants, so I’m searching the static/audit test pattern and will add a narrow AST check there or a new test module if that fits better.
+
+There is a dedicated ACE durable submit adapter. I’m reading it because the plan’s ACE ownership invariant belongs either there or in the service that receives its request.
+
+The low-level store still needs to accept historical `command`, `tui`, and `detached` values. I’m checking the reserve/append boundary so the prevention can be applied to new writer APIs without corrupting compatibility reads.
+
+I’m going to make a focused patch now: parser/help and obsolete-token handling, new-writer kind normalization, attribution-based scoping, fallback dedupe over command plus historical detached rows, and the corresponding tests/docs.
+
+The parser now traps obsolete detached tokens before argparse. I’m removing the public flags/help while leaving the legacy kind filter parseable but hidden.
+
+Next I’m changing the handler so `--session` is the only attribution selector and every CLI run goes through the ordinary submit path.
+
+The list scope now treats unattributed rows as visible for every session. I’m updating the render/JSON labels so the UI no longer describes a detached mode as the normal path.
+
+I’m putting the strongest writer guard at the proc service boundary now: even if a legacy caller passes `kind='detached'` or `kind='tui'`, the reserved new row is normalized to `command`.
+
+The legacy `submit_detached_proc` API remains available, but I’m changing it into a compatibility wrapper that submits an unattributed command row.
+
+The monitor writer is the remaining low-level production caller passing `DETACHED_PROC_KIND`, so I’m removing that explicit legacy kind.
+
+I’m updating task-bead launch dedupe to search both new command rows and historical detached rows, then submit new launches through `submit_proc` with no session id.
+
+The epic launch fallback gets the same treatment: reuse any active new command or historical detached launch, and submit new fallback work as an unattributed command proc.
+
+I’m updating the deferred epic-completion helper so it still detects old detached fallback rows while recognizing the new command rows.
+
+ACE observation is moving from kind-based visibility to attribution-based visibility: unattributed rows are in scope, and `detached` is only a historical label.
+
+A few remaining `detached` strings are launch-mode metadata, not proc kind writes. I’m checking those to avoid changing unrelated agent-launch semantics under the proc plan.
+
+The plan-gate `epic_launch_mode='detached'` is separate from proc row kind, but it is still a public selector name. I’m inspecting that API before deciding whether to rename it in this same patch or leave it as unrelated.
+
+The plan-gate selector is a host-launch choice, but its public value is still `detached`. I’m going to keep backward compatibility while changing the public/default value to `launch`, so existing in-flight gates that send `detached` still work.
+
+I’m broadening the epic launch API to accept the old `detached` value but advertise and use `launch` going forward. That keeps in-flight responses compatible without preserving the retired name in new schemas/defaults.
+
+I’ve changed the default. Now I’m updating the validation points so both `launch` and legacy `detached` mean “host launches the epic,” while `skip` still suppresses it.
+
+New plan gates will now expose `launch` instead of `detached`, while the response translator still accepts historical responses.
+
+I’m adjusting the notification gate adapter’s automatic input and launch branch to the new `launch` value, with a compatibility check for older `detached` responses.
+
+The adapter branch is straightforward: `skip` is the only non-launch value, and legacy `detached` goes through the same launch path.
+
+I’m replacing the remaining first-party callers that explicitly requested the old `detached` epic launch mode.
+
+I’m updating the parser tests to assert the new public surface: no detached selectors in help, hidden legacy `--kind` still parses, obsolete flags fail with the exact one-line diagnostic, and command argv after `--` is untouched.
+
+Handler tests now need to distinguish legacy detached rows from ordinary unattributed command rows. I’m updating those expectations and the JSON scope schema.
+
+The run tests need to assert `--session none` creates an unattributed command row, and that the retired flag no longer submits anything.
+
+I caught one weak assertion in that test and am tightening it to the exact exit code.
+
+I’m updating process-level runner tests so the legacy detached API now proves it creates an unattributed command row, and adding explicit evidence that ACE-origin procs record the supervisor PID, not ACE’s PID.
+
+I’m adding a direct service test for the boundary normalization, so a low-level `ProcSubmitRequest(kind='detached')` cannot create a new legacy-kind row.
+
+Monitor facade tests now need to expect a command-kind proc row instead of a detached-kind row.
+
+The bead launch tests are being updated to mock `submit_proc` and to assert dedupe scans both command and historical detached rows.
+
+The epic fallback tests are next: renamed from detached fallback to unattributed proc fallback, with `session_id=None` explicit on submission.
+
+The ACE pane tests can still cover historical detached markers, but they also need explicit coverage that unattributed command rows get the session chip instead of a detached badge. I’m checking the helper defaults before patching.
+
+I’m adding a small observer unit test so attribution scope is pinned independent of the modal rendering tests.
+
+Plan-gate tests are being updated to expect the new public `launch` selector and to keep legacy `detached` compatibility where behavior is already covered elsewhere.
+
+I’m switching plan-gate execution fixtures from the old value to `launch` and updating the expected prepare call mode.
+
+I’m checking show/kill JSON tests for schema-version or detached-field assumptions before adding the static invariant test.
+
+The proc JSON schema bump affects show/kill tests too; I’m updating those and the historical detached detail wording.
+
+I’m doing a targeted search for stale proc schema/help assertions after the test updates.
+
+I’m adding a focused static conformance test module now. It will scan production source for forbidden proc writer kinds and pin the durable ACE submit callable guard without banning historical read/display code.
+
+The static test will be narrow enough to avoid blocking compatibility constants, parsers, and historical filters; it only checks new writer call sites.
+
+The core code changes are in place. I’m scanning the source for remaining proc-mode `detached` references to separate intended compatibility from stale public behavior.
+
+The remaining stale public references are documentation. I’m editing those sections to describe unattributed command procs and mark historical kind filters/API as legacy compatibility.
+
+I’m picking up from the implementation state and checking the remaining docs and diff before finishing the verification pass. The code changes are already in place; the remaining risk is stale documentation or tests that still encode the old public detached mode.
+
+The remaining stale references are documentation-only, plus tests that deliberately exercise legacy rows and APIs. I’m updating the docs to describe command rows with optional session attribution, and keeping historical `detached` only where it names old stored rows or the compatibility wrapper.
+
+I’m making the docs match the new contract now: `sase proc run` always creates command rows, `--session none` is the explicit no-attribution path, and legacy `detached` only appears as an old row kind or compatibility concern.
+
+The documentation now uses the same public vocabulary as the code. I’m doing a stale-token sweep next so I can distinguish intentional legacy test coverage from actual old user-facing guidance.
+
+The sweep is clean for public `--detached` docs. The remaining hits are either the exact deprecation diagnostic, legacy API compatibility, or tests that seed historical rows.
+
+There’s one SDD sentence using “detached supervisor” generically in the epic approval flow. I’m tightening that wording too so this section does not blur the retired proc kind with the still-valid supervisor model.
+
+That sentence was wrapped differently than the patch context. I’m reading the local text and applying a narrower change.
+
+The docs are now aligned. Before running the suite, I’m reviewing the changed command path and proc submission path for local consistency so failures are less likely to be mechanical.
+
+The review surfaced one subtle parser question: the obsolete-token scanner only sees root-level `proc`/`task` argv. I’m checking how narrowed parsers are constructed so direct `proc` parser invocations do not bypass the diagnostic.
+
+The root parser path looks safe for normal and narrowed CLI construction. I’m now checking all production `ProcSubmitRequest`/`ProcReserve` sites to ensure the normalization does not accidentally affect mirrored TUI rows or legacy store-only readers.
+
+The new static invariant is intentionally narrow: it only guards the durable submission writers. I’m checking the small set of actual proc reservation/submission calls now, because the broad `kind=` search was noisy.
+
+The production writer set is small and now goes through command normalization. I’m checking list-scope and rendering tests next, especially JSON schema changes and hidden legacy kind behavior.
+
+The core list and JSON paths are consistent. I’m going through the proc service and runner tests now; some names still say “detached” because they exercise the compatibility wrapper, but the assertions need to prove new rows are `command`.
+
+One code comment still named the old service wording, even though the code path is updated. I’m correcting that before running tests so the source text does not keep implying detached as the execution mode.
+
+I’m also cleaning the main runner test module header to avoid keeping the old mode name as the overall subject; individual legacy tests still call out the compatibility API where that is intentional.
+
+The stale-source pass is narrow now. I’m checking the proc parser alias registration and then I’ll run the focused test set.
+
+The parser alias registration confirms `task` shares the proc parser. I’m adding bare `proc --detached` / `task --detached` coverage as default-list cases, since those were valid shorthand through the implicit list behavior.
+
+Implementation and doc updates are in place, including the static invariants. I’m moving into verification now, starting with the repo’s required install step before running focused tests.
+
+`just install` is still building the local Rust binding; it has already fast-forwarded the linked core checkout and is compiling dependencies. I’m waiting for that to finish before running tests so the Python package and binding are current.
+
+The install is still in the Rust crate build step. No failures yet; I’ll keep the process attached until it exits.
+
+The build is taking a little longer but remains active. I’m still waiting on `just install`; I won’t start tests against a partially installed environment.
+
+`just install` is still running without new output. I’m giving it another poll; if it stretches much further, I’ll decide whether to move it to the repo’s monitor flow.
+
+The core binding has moved from `sase_core` to `sase_core_py`, so the install is still making progress. I’m continuing to wait rather than interrupting the build.
+
+Still building with no new output. I’m keeping it attached for one more interval because Rust extension builds often have a quiet link phase near the end.
+
+The install is still in a quiet phase. I’m checking again; once it returns I’ll immediately run the focused proc and plan-gate tests.
+
+`just install` completed successfully. I’m running the focused tests across parser/handler behavior, proc service and runner behavior, ACE projection, task/epic launch, plan gates, and the new static invariants.
+
+The focused run is still active and has one failure so far in `test_proc_handler_list`. I’m letting the run finish to get the complete failure set before patching.
+
+Only the earlier list failure remains visible while the rest of the suite continues to pass. I’m waiting for pytest to print the traceback so I can address the exact expectation.
+
+The single failure is an outdated assertion: compact list rows show the detached glyph, not the verbose word. I’m updating that test to assert the legacy marker while keeping the visibility assertion.
+
+I’m rerunning the failed list module first to validate the expectation change before restarting the broader focused set.
+
+The list module now passes. I’m rerunning the full focused set to make sure the patch did not hide another failure later in the suite.
+
+The rerun is past the previously failing module and still green so far. I’m waiting for the remainder, mostly service and ACE-pane tests.
+
+The focused suite is at the static invariant tail with no failures reported. One more poll should give the final result.
+
+The focused pytest set is green. I’m running real CLI smoke checks next: help surfaces, obsolete flag diagnostics, and a `proc run -- ... --detached` case to prove command argv after the separator is preserved.
+
+The real CLI checks passed: help has no public detached flag, obsolete flags emit the exact diagnostic, and command arguments after `--` are preserved. I’m adding one JSON smoke check for `--session none` to confirm it writes an unattributed `command` row.
+
+The JSON smoke check confirms `--session none` produces `kind: "command"`, `session_id: null`, `detached: false`, and `unattributed: true`. I’m checking the worktree, then I’ll run the required `just check`.
+
+The only remaining stale-token hits are intentional legacy-row tests and the exact diagnostic scanner. I’m running the required repo check now; if it runs long, I’ll keep it attached or move to the SASE monitor workflow as needed.
+
+`just check` stopped at formatting only. I’m applying `ruff format` to the four touched files it named, then I’ll rerun the check.
+
+Formatting is fixed. I’m rerunning `just check` now so the full required gate gets a clean pass.
+
+The next gate is Markdown formatting on the docs I changed. I’m running Prettier on those two files only, then `just check` again.
+
+Markdown formatting is fixed. I’m rerunning the repo check; this should now get past formatting into lint and scoped tests.
+
+`just check` has passed formatting and ruff lint and is still running. I’m waiting for the remaining lint/type/scoped-test stages.
+
+The full lint set has passed through mypy and repo-specific checks. It’s now in the scoped test lane, so I’m staying attached until the result is final.
+
+`just check` failed in the Symvision gate on private-import violations in unrelated models/provider and timestamp helper files I did not touch. Per repo instructions, I need to file that as discovered follow-up work before continuing verification, so I’m reading the SASE new-task workflow first.
+
+I’m recording the skill use and reading the bead policy plus size guidance as required before filing any follow-up.
+
+I have the policy and size guidance. I’m searching existing task beads and active epics for a duplicate or causal owner before creating anything new.
+
+The duplicate search found `sase-mk`, which looks like the same Symvision private-import failure. I’m showing that bead and checking the active-epic sweep output before deciding whether to +1 instead of creating a duplicate.
+
+The active-epic sweep confirms this kind of Symvision cleanup is already tracked, and the search hit `sase-mk` as the exact duplicate. I’m waiting on the bead detail output, then I’ll add corroborating evidence to that existing task rather than creating a new one.
+
+`sase-mk` is an exact duplicate and is already ready, so I’m adding this run as independent +1 evidence instead of filing a new task.
+
+The +1 command is still settling the bead store update. I’m waiting for it to finish before continuing the verification flow.
+
+I recorded the unrelated Symvision failure on the existing ready task `sase-mk`. Since `just check` stops before the scoped test lane, I’m checking the Justfile target names and will run the scoped test lane directly if it’s available.
+
+The scoped test target is available. I’m running `just test-scoped` directly now to recover the test lane evidence that `just check` could not reach because of the tracked Symvision blocker.
+
+`just test-scoped` escalated to the governed full test lane because the diff touches core identity paths. That can take a while, so I’m keeping it attached and will report the final result.
+
+The escalated full lane is running with 14 workers and has started passing tests. I’m continuing to wait; this is the broadest test evidence available after the lint blocker.
+
+The full lane is around 14% with only a skip so far. I’ll keep polling until it completes or produces a failure.
+
+The full lane is at about 28% with no failures visible. It is moving steadily, so I’m continuing to wait inline.
+
+The run is past 37% and still clean aside from expected skips. I’m staying with it.
+
+The full lane is halfway through and still passing. I’ll continue polling until it finishes.
+
+The full lane is near 60% without failures. I’m continuing to wait; this is giving useful coverage despite the earlier lint gate block.
+
+The escalated full lane has reported two failures around 71%. I’m letting it finish so I can see whether they’re related to this change or existing full-lane flakes.
+
+The run is past 80%; only those two failures are visible so far. I’m waiting for the final traceback and summary before deciding whether a duplicate task already owns them.
+
+A third full-lane failure appeared near 84%. I’m still waiting for the final report; I’ll triage them by exact node and file after pytest exits.
+
+There are now four full-lane failures, all late in the run. I’m letting the suite complete; the traceback section will tell whether any touch the proc retirement paths.
+
+The suite is at the final percent. I’m waiting on pytest’s failure report now.
+
+Test execution reached 100%; pytest is generating summaries and failure details. I’m waiting for the process to exit.
+
+The full lane finished with four failures outside the proc-retirement code: two config identity/cache tests, one top-bar indicator ordering test, and one admin-center state atomic-save test. I’m running each exact node in isolation to see whether they are full-lane contamination or deterministic failures.
+
+Three of the four full-lane failures pass in isolation, so they look like existing full-parallel state leakage. The top-bar node still fails in isolation, so I’m searching for an existing owner before filing or noting it.
+
+There is already an exact task for the admin-center atomic-save flake (`sase-md`), and the config failures fit the active process-global leak epic. I’m waiting for the active epic details before adding the right notes; top-bar still needs a likely owning task or epic.
+
+The top-bar failure lines up with active epic `sase-mf` because the isolated failure is a deterministic model-routing/Models-panel assertion drift, not a proc change. I’m showing the admin-center flake task and then I’ll record the three routed verification failures on their existing owners.
+
+The bead note/show commands are settling. I’m waiting for those store writes/results before adding the exact +1 for the admin-center flake.
+
+`sase-md` is the exact existing task for the admin-center flake. The two epic notes are still writing, so I’m waiting before adding the +1 to avoid overlapping bead mutations.
+
+The two bead-note writes failed on a bead-store integrity guard for `sase-mk`, likely from concurrent sidecar state changing around the earlier +1. I’m pausing additional bead mutations and inspecting the bead-store status through the SASE CLI before trying to record anything else.
+
+`history sase-mk` shows my +1 was recorded as event 4, then another actor updated `sase-mk` at 01:48:51. That explains the integrity guard on later commits: the local bead store saw concurrent changes around the same event stream. I’m waiting for the current bead show/repo path so I can decide the least invasive recovery path.
+
+`show sase-mk` confirms the +1 evidence is present and that another process claimed the task afterward. I’m checking the opened plans/beads sidecar status now; I need to avoid committing or overwriting unrelated bead-store changes.
+
+The sidecar worktree is clean now, so the failed note writes did not leave dirty files. I’m retrying the required bead records sequentially to avoid another append-only race.
+
+The append-only guard is still blocking any bead mutation because the effective bead store sees `sase-mk` as rewritten, even though the opened plans sidecar path is clean. I’m locating the effective SDD/bead store that the CLI is using and inspecting that repo directly.
+
+The CLI uses a separate effective beads repo at `sase/repos/beads`, not the plans repo I inspected. I’m opening that repo through `sase repo open` before reading its status, per repo-access rules.
+
+The effective beads repo is open. I’m checking its status and the `sase-mk` event stream to see what the guard is objecting to.
+
+The failed note commands did leave local append-only changes for `sase-j7` and `sase-mf`. `sase-mk` itself has no visible diff in this repo, so I’m checking staged state and commit ancestry to understand why the guard names it.
+
+The local beads repo now contains my uncommitted `sase-j7` and `sase-mf` notes, including a duplicate `sase-j7` note from the retry. Because the append-only guard is blocking publication due to an existing `sase-mk` stream issue in HEAD, I’m going to remove only my uncommitted failed-note changes from the beads repo and keep the already-recorded `sase-mk` +1, which is committed upstream.
+
+The bead doctor command appears to be hanging without output. Since the dirty files are exactly from my failed note attempts, I’m restoring only those generated bead-store files to their pre-attempt state so I do not leave the sidecar dirty.
+
+`bead doctor` confirms the bead store has broader pre-existing append-only integrity errors, including `sase-mk`, so further bead mutations are blocked. I’m restoring only my uncommitted failed-note changes in the beads repo now.
+
+The failed-note edits have been restored. I’m checking both the beads repo and the main workspace status before deciding what can still be closed or reported.
+
+The beads repo is clean again. I’m waiting on the assigned phase and existing bead-integrity task detail; closure may be blocked by that same store integrity issue.
+
+The assigned phase is still open. Bead closure and further follow-up notes are likely blocked by the same current bead-store integrity errors, so before attempting that I’m doing a quick post-format sanity rerun of the files that Ruff reformatted.
+
+The post-format sanity tests pass. I’m attempting to close the assigned phase with an explicit verification note; if the bead-store integrity guard blocks it too, I’ll clean up any local failed close state and report that closure is blocked.
+
+Phase close is blocked by the same `sase-mk` append-only integrity error. I’m checking and cleaning only the failed close’s uncommitted bead-store changes now.
+
+The failed close left only my close-note event and generated projection dirty in the beads repo. I’m restoring those two files so the sidecar is clean again.
+
+The failed close state is restored. I’m doing the final status and diff checks now, including the sidecar, before I summarize what landed and what verification is blocked by unrelated tasks.
+
+The sidecar is clean. I’m waiting on the final bead show checks so I can report the exact bead state: `sase-mk` has my +1, while `sase-m9.3.1.5` remains open because close publication is blocked.
+
+All implementation steps are done; only the bead close remains pending because the bead store rejects publication. I’m running one last whitespace check on the main repo diff.
+
+Implemented the detached proc retirement plan.
+
+Changed the proc/task CLI so public `-d/--detached` is gone from `list` and `run`, with the exact one-release diagnostic before argparse. New proc submissions now normalize to `command`; `--session none` is the no-attribution path. List scope includes unattributed rows for explicit sessions, hidden legacy `--kind` remains for historical `detached`/`tui` rows, JSON schema is bumped, ACE proc observation follows the new scope model, and docs/tests were updated.
+
+Verification:
+- `just install` passed.
+- Focused suite passed: `212 passed`.
+- Post-format sanity passed: `38 passed`.
+- Real CLI smokes passed for help, obsolete diagnostics, command argv after `--`, and `--session none` JSON.
+- `git diff --check` passed.
+
+Blocked:
+- `just check` passed fmt/ruff/mypy/pyscripts/test-waits/changelog/terminology, then failed on unrelated Symvision private-import errors already tracked by `sase-mk`; I recorded +1 evidence there.
+- `just test-scoped` escalated to the full lane: `30615 passed, 11 skipped`, with 4 unrelated failures.
+- Closing `sase-m9.3.1.5` failed because the bead store currently rejects commits with `BeadStreamIntegrityError` on `sase-mk`. I restored the failed close’s local bead-store changes; the beads sidecar is clean.
+
+I’m going to finish the finalizer path: read the required commit and bead workflow instructions, attempt the phase close exactly as requested, then commit the implementation changes with the SASE commit workflow.
+
+The commit skill is available; the separate `sase_beads` skill path named in the environment is not present as a filesystem skill, so I’m using the SASE memory-read workflow for the bead close rules before touching the bead.
+
+I’ve recorded the required commit skill use. Now I’m loading the memory-read instructions and the bead lifecycle note so the close attempt follows the project rules instead of guessing.
+
+The memory-read skill requires audited reads through `sase memory read`; I’m reading the bead lifecycle note now because the finalizer requires closing a phase bead.
+
+I’m attempting the phase close now with a verification note. If the close can’t publish because of the existing bead-store integrity issue, I’ll use the diagnostic output to decide whether there’s a publish remediation to run before committing.
+
+The close failed at publish time with `BeadStreamIntegrityError` on `sase-mk`, not with an unpublished-close remediation command. I’m checking whether that failed close left generated bead-store files dirty, using the repo-opening workflow before touching the sidecar.
+
+I’ve loaded the repo-open instructions. Next I’m resolving the effective bead-store repo through `sase repo open`, then I’ll inspect only the failed-close dirt and clean it if necessary.
+
+The bead store path is resolved. I’m checking main-repo and bead-store status side by side so the commit only includes the implementation files and no failed close residue is left behind.
+
+The failed close did leave two bead-store files dirty: the phase stream and generated projection. I’m inspecting that diff to confirm it is only the failed close event before reverting just those sidecar changes.
+
+The sidecar diff is exactly the failed close note plus close event and regenerated projection. Since publish failed, I’m reverting only those two sidecar files and leaving the implementation repo untouched.
+
+The failed close residue is gone. I’m doing the commit-scope review now: status, changed-file list, and diff summary, then I’ll write the conventional commit message and run the SASE commit wrapper.
+
+The dirty set matches the finalizer’s implementation list, with one new static-invariant test. I’m reading that new file before committing so the untracked addition is also reviewed.
+
+The review is sufficient for commit scope. This is a breaking CLI/API behavior change, so I’m using a `feat!` conventional header with a `BREAKING CHANGE:` footer that describes the removed active detached mode.
+
+I’m writing the commit message file under `.sase/`, which is ignored by the repo and is what the SASE commit wrapper expects.
+
+The phase close could not publish because of the existing `sase-mk` append-only integrity error, and there was no remediation command in the diagnostic. I’ve cleaned the failed close residue and am running the required commit wrapper now.
+
+The commit provider reports success, and the wrapper process is still finishing its local bookkeeping. I’m polling it to completion before checking branch status.
+
+The primary commit has succeeded; the remaining output is post-commit bookkeeping. I’m keeping it attached until the wrapper exits so I can report the final state accurately.
+
+No new output yet; the commit wrapper is still running. I’m continuing to block on it rather than ending the turn with an unresolved background process.
+
+The wrapper is unusually quiet after provider success, but it has not exited. I’m giving it another poll; if it continues hanging I’ll inspect the process state without interrupting the successful commit.
+
+It is still not exiting after several polls. I’m inspecting the process tree from a separate shell to see which child is holding the wrapper open.
+
+The process tree shows `sase stitch create` is still alive in an uninterruptible wait after the provider success message. I’m going to keep polling for now; interrupting it during post-commit bookkeeping would be riskier than waiting a little longer.
+
+The commit wrapper exited successfully. I’m doing the required post-commit status check now, including whether the branch is still ahead of upstream.
+
+Committed the implementation as `ac5d95810 feat(cli)!: retire detached proc mode`.
+
+The phase close was attempted first, but it still cannot publish because the bead store raises `BeadStreamIntegrityError` on `sase-mk`. There was no remediation command in that diagnostic, so I cleaned the failed close residue from the beads sidecar. `sase-m9.3.1.5` remains unclosed for that reason.
+
+Post-commit status is clean and synced:
+- main repo: `master...origin/master`, no dirty files
+- beads sidecar: `main...origin/main`, no dirty files
+
+The commit wrapper also warned that prompt archive publication was skipped because `raw_xprompt.md` is unavailable, and that 5 quarantined agent-hood publication requests already exist.

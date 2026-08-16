@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-m9.3.1.5--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_m9_3_1_5__plan-260815_190216.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_m9_3_1_5__code-260815_190216.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/detached_proc_retirement.md
 
 
