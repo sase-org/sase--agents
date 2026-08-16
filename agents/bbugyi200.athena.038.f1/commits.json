@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c51dccf5114c8b2b4fe0bfe20aedd8b1"}
+{"commits":[{"committed_at":1786850937,"sha":"5184f5ab0ad992c56f967c39a352b4d51edc5a7c","subject":"fix(plan-gate): accept every EpicLaunchMode in the epic approve schema"}],"schema_version":2,"source_run_id":"run-c51dccf5114c8b2b4fe0bfe20aedd8b1"}

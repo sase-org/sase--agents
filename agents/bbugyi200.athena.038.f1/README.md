@@ -11,11 +11,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-16T03:05:54.483487+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`5184f5a`](https://github.com/sase-org/sase/commit/5184f5ab0ad992c56f967c39a352b4d51edc5a7c) | fix(plan-gate): accept every EpicLaunchMode in the epic approve schema | 2026-08-15 23:28:57 EDT |
 
 ## Neighbors
 
