@@ -29,6 +29,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-1"></a>1 | sase-nb.4\_1--1 | completed | grok-4.6 / grok | 2026-08-16T21:06:21.304430+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-nb.4_1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-nb.4_1--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-nb.4\_1--mon | failed | grok-4.6 / grok | 2026-08-16T20:40:01.145120+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-nb.4_1--mon/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`113382d`](https://github.com/sase-org/sase/commit/113382d8b1a7a9c8ddcbb3c0cf504caaee40607a) | feat(bead): add shared flag-bead look chips | 2026-08-16 17:45:39 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
@@ -39,7 +45,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-nb.3](../agents/bbugyi200.athena.sase-nb.3/README.md) | sase-nb hood | completed |
 | [sase-nb.4](../agents/bbugyi200.athena.sase-nb.4/README.md) | sase-nb hood | dismissed |
 | [sase-nb.5](../agents/bbugyi200.athena.sase-nb.5/README.md) | sase-nb hood | completed |
-| [sase-nb.6](../agents/bbugyi200.athena.sase-nb.6/README.md) | sase-nb hood | active |
+| [sase-nb.6](bbugyi200.athena.sase-nb.6.md) (family · 2) | sase-nb hood | active 2 |
 | [sase-nb.7](../agents/bbugyi200.athena.sase-nb.7/README.md) | sase-nb hood | active |
 | [sase-nb.8](bbugyi200.athena.sase-nb.8.md) (family · 2) | sase-nb hood | active 2 |
 | [sase-nb.9](../agents/bbugyi200.athena.sase-nb.9/README.md) | sase-nb hood | waiting |

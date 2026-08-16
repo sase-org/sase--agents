@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8dcfce49f7bf5569c689cfd11145f403"}
+{"commits":[{"committed_at":1786917432,"sha":"8a769012fde7d70ccfcfdc19dbda53e98fb05292","subject":"fix(tui): repoint stale alias-views monkeypatch in models panel jump tests"}],"schema_version":2,"source_run_id":"run-8dcfce49f7bf5569c689cfd11145f403"}

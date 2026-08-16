@@ -2,30 +2,36 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-ns](../users/bbugyi200/machines/athena/hoods/sase-ns/README.md) / sase-ns.2
 
-Owner: `bbugyi200.athena` · Hood: `sase-ns` · Members: 2 · Bead: [sase-ns.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ns/sase-ns.2.md)
+Owner: `bbugyi200.athena` · Hood: `sase-ns` · Members: 4 · Bead: [sase-ns.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ns/sase-ns.2.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-ns.2--code [active]"]
-  n1["sase-ns.2--plan [active]"]
+  n0["sase-ns.2--1 [active]"]
+  n1["sase-ns.2--code [completed]"]
   n0 --> n1
+  n2["sase-ns.2--mon [failed]"]
+  n0 --> n2
+  n3["sase-ns.2--plan [completed]"]
+  n0 --> n3
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-ns.2--code | active | grok-4.6 / grok | 2026-08-16T21:19:32.955098+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-ns.2--plan | active | gpt-5.6-sol / codex | 2026-08-16T21:15:46.012890+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ns.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ns.2--plan/chat.md) |
+| <a id="member-1"></a>1 | sase-ns.2--1 | active | grok-4.6 / grok | 2026-08-16T21:57:19.144715+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ns.2--1/prompt.md) | — |
+| <a id="member-code"></a>code | sase-ns.2--code | completed | grok-4.6 / grok | 2026-08-16T21:19:32.955098+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ns.2--code/chat.md) |
+| <a id="member-mon"></a>mon | sase-ns.2--mon | failed | grok-4.6 / grok | 2026-08-16T21:56:49.164603+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ns.2--mon/chat.md) |
+| <a id="member-plan"></a>plan | sase-ns.2--plan | completed | gpt-5.6-sol / codex | 2026-08-16T21:15:46.012890+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ns.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ns.2--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ns.1](bbugyi200.athena.sase-ns.1.md) (family · 2) | sase-ns hood | active 2 |
-| [sase-ns.3](bbugyi200.athena.sase-ns.3.md) (family · 2) | sase-ns hood | active 2 |
+| [sase-ns.1](bbugyi200.athena.sase-ns.1.md) (family · 4) | sase-ns hood | active 1, completed 2, failed 1 |
+| [sase-ns.3](bbugyi200.athena.sase-ns.3.md) (family · 2) | sase-ns hood | completed 2 |
 | [sase-ns.4](../agents/bbugyi200.athena.sase-ns.4/README.md) | sase-ns hood | completed |
-| [sase-ns.5](../agents/bbugyi200.athena.sase-ns.5/README.md) | sase-ns hood | active |
+| [sase-ns.5](../agents/bbugyi200.athena.sase-ns.5/README.md) | sase-ns hood | completed |
 | [sase-ns.land](../agents/bbugyi200.athena.sase-ns.land/README.md) | sase-ns hood | waiting |

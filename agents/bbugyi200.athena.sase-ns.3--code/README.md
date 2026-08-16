@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ns](../../users/bbugyi200/machines/athena/hoods/sase-ns/README.md) / [sase-ns.3](../../families/bbugyi200.athena.sase-ns.3.md) / sase-ns.3--code
 
-**Global name:** `bbugyi200.athena.sase-ns.3--code` · **State:** active · **Source run:** `run-3edc6ccb7b898d78172c8c891351ac3f`
+**Global name:** `bbugyi200.athena.sase-ns.3--code` · **State:** completed · **Source run:** `run-3edc6ccb7b898d78172c8c891351ac3f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ns
 
@@ -15,12 +15,16 @@
 - Timing: 2026-08-16T21:25:26.365391+00:00
 - Commits: 0
 
+## Files
+
+[Chat](chat.md)
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ns.1](../../families/bbugyi200.athena.sase-ns.1.md) (family · 2) | sase-ns hood | active 2 |
-| [sase-ns.2](../../families/bbugyi200.athena.sase-ns.2.md) (family · 2) | sase-ns hood | active 2 |
+| [sase-ns.1](../../families/bbugyi200.athena.sase-ns.1.md) (family · 4) | sase-ns hood | active 1, completed 2, failed 1 |
+| [sase-ns.2](../../families/bbugyi200.athena.sase-ns.2.md) (family · 4) | sase-ns hood | active 1, completed 2, failed 1 |
 | [sase-ns.4](../bbugyi200.athena.sase-ns.4/README.md) | sase-ns hood | completed |
-| [sase-ns.5](../bbugyi200.athena.sase-ns.5/README.md) | sase-ns hood | active |
+| [sase-ns.5](../bbugyi200.athena.sase-ns.5/README.md) | sase-ns hood | completed |
 | [sase-ns.land](../bbugyi200.athena.sase-ns.land/README.md) | sase-ns hood | waiting |
