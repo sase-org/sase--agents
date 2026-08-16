@@ -37,7 +37,7 @@
 | [sase-m6.3](../../families/bbugyi200.athena.sase-m6.3.md) (family · 2) | sase-m6 hood | completed 2 |
 | [sase-m6.4](../../families/bbugyi200.athena.sase-m6.4.md) (family · 4) | sase-m6 hood | completed 3, failed 1 |
 | [sase-m6.5](../../families/bbugyi200.athena.sase-m6.5.md) (family · 2) | sase-m6 hood | completed 2 |
-| [sase-m6.7](../bbugyi200.athena.sase-m6.7/README.md) | sase-m6 hood | waiting |
+| [sase-m6.7](../bbugyi200.athena.sase-m6.7/README.md) | sase-m6 hood | active |
 | [sase-m6.8](../bbugyi200.athena.sase-m6.8/README.md) | sase-m6 hood | waiting |
 | [sase-m6.9](../bbugyi200.athena.sase-m6.9/README.md) | sase-m6 hood | waiting |
 | [sase-m6.land](../bbugyi200.athena.sase-m6.land/README.md) | sase-m6 hood | waiting |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2b0e84a70da648cd79807b0d1b28396a"}
+{"commits":[{"committed_at":1786862552,"sha":"172b1a1a0937dcaf939cbd75d903613a797a3f3a","subject":"fix(tui): guard inline Patch filter before compose"}],"schema_version":2,"source_run_id":"run-2b0e84a70da648cd79807b0d1b28396a"}

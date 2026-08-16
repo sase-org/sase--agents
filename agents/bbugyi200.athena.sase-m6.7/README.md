@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m6](../../users/bbugyi200/machines/athena/hoods/sase-m6/README.md) / sase-m6.7
 
-**Global name:** `bbugyi200.athena.sase-m6.7` · **State:** waiting · **Source run:** `run-05058fd7749363caad36823122881a11`
+**Global name:** `bbugyi200.athena.sase-m6.7` · **State:** active · **Source run:** `run-05058fd7749363caad36823122881a11`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m6
 
@@ -10,9 +10,9 @@
 
 - Bead: [sase-m6.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m6/sase-m6.7.md)
 - Epic: [sase-m6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m6/README.md)
-- Model: gpt-5.6-sol
-- Provider: codex
-- Timing: 20260815192152
+- Model: opus
+- Provider: claude
+- Timing: 2026-08-16T06:42:37.016615+00:00
 - Commits: 0
 
 ## Files

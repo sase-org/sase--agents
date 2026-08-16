@@ -12,7 +12,13 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-16T06:11:41.997868+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`172b1a1`](https://github.com/sase-org/sase/commit/172b1a1a0937dcaf939cbd75d903613a797a3f3a) | fix(tui): guard inline Patch filter before compose | 2026-08-16 02:42:32 EDT |
 
 ## Neighbors
 
@@ -32,7 +38,7 @@
 | [sase-m6.3](../../families/bbugyi200.athena.sase-m6.3.md) (family · 2) | sase-m6 hood | completed 2 |
 | [sase-m6.4](../../families/bbugyi200.athena.sase-m6.4.md) (family · 4) | sase-m6 hood | completed 3, failed 1 |
 | [sase-m6.5](../../families/bbugyi200.athena.sase-m6.5.md) (family · 2) | sase-m6 hood | completed 2 |
-| [sase-m6.7](../bbugyi200.athena.sase-m6.7/README.md) | sase-m6 hood | waiting |
+| [sase-m6.7](../bbugyi200.athena.sase-m6.7/README.md) | sase-m6 hood | active |
 | [sase-m6.8](../bbugyi200.athena.sase-m6.8/README.md) | sase-m6 hood | waiting |
 | [sase-m6.9](../bbugyi200.athena.sase-m6.9/README.md) | sase-m6 hood | waiting |
 | [sase-m6.land](../bbugyi200.athena.sase-m6.land/README.md) | sase-m6 hood | waiting |

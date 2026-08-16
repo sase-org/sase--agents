@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-m6.6.1.land--code | active | gpt-5.5 / codex | 2026-08-16T06:11:41.997868+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-m6.6.1.land--code | active | gpt-5.5 / codex | 2026-08-16T06:11:41.997868+00:00 | [1](../agents/bbugyi200.athena.sase-m6.6.1.land--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-m6.6.1.land--plan | active | opus / claude | 2026-08-16T05:33:24.567028+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m6.6.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m6.6.1.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`172b1a1`](https://github.com/sase-org/sase/commit/172b1a1a0937dcaf939cbd75d903613a797a3f3a) | fix(tui): guard inline Patch filter before compose | 2026-08-16 02:42:32 EDT |
 
 ## Neighbors
 
@@ -38,7 +44,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-m6.3](bbugyi200.athena.sase-m6.3.md) (family · 2) | sase-m6 hood | completed 2 |
 | [sase-m6.4](bbugyi200.athena.sase-m6.4.md) (family · 4) | sase-m6 hood | completed 3, failed 1 |
 | [sase-m6.5](bbugyi200.athena.sase-m6.5.md) (family · 2) | sase-m6 hood | completed 2 |
-| [sase-m6.7](../agents/bbugyi200.athena.sase-m6.7/README.md) | sase-m6 hood | waiting |
+| [sase-m6.7](../agents/bbugyi200.athena.sase-m6.7/README.md) | sase-m6 hood | active |
 | [sase-m6.8](../agents/bbugyi200.athena.sase-m6.8/README.md) | sase-m6 hood | waiting |
 | [sase-m6.9](../agents/bbugyi200.athena.sase-m6.9/README.md) | sase-m6 hood | waiting |
 | [sase-m6.land](../agents/bbugyi200.athena.sase-m6.land/README.md) | sase-m6 hood | waiting |
