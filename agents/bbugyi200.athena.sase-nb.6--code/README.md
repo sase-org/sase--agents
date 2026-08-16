@@ -13,7 +13,13 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-16T22:00:21.861472+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`5703667`](https://github.com/sase-org/sase/commit/5703667f0e6c37909e82b01b52aee336661e5f11) | feat(bead): add the FlagTriage gate and generalize the bead gate reconciler | 2026-08-16 18:51:54 EDT |
 
 ## Neighbors
 

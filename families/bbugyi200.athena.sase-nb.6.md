@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-nb.6--plan | active | opus / claude | 2026-08-16T21:48:31.280772+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-nb.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-nb.6--plan/chat.md) |
-| <a id="member-code"></a>code | sase-nb.6--code | active | sonnet / claude | 2026-08-16T22:00:21.861472+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-nb.6--code | active | sonnet / claude | 2026-08-16T22:00:21.861472+00:00 | [1](../agents/bbugyi200.athena.sase-nb.6--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`5703667`](https://github.com/sase-org/sase/commit/5703667f0e6c37909e82b01b52aee336661e5f11) | feat(bead): add the FlagTriage gate and generalize the bead gate reconciler | 2026-08-16 18:51:54 EDT |
 
 ## Neighbors
 

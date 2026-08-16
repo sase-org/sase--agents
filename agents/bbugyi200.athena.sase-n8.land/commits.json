@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1e1edae2b9450cd917fbeb022ea5c192"}
+{"commits":[{"committed_at":1786919970,"sha":"f3bb46f292ab9927228534c13885339de5578f92","subject":"fix(ace): restore the Launch Control History footer hint"},{"committed_at":1786920359,"sha":"769a1806fe95b8818de37c666be85d07dc132591","subject":"refactor(history): retire the alias-history epic-symbol allowlist"}],"schema_version":2,"source_run_id":"run-1e1edae2b9450cd917fbeb022ea5c192"}
