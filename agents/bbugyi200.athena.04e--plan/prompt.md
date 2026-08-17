@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We recently added good sorting, using recency/frequency/relation, of common words in the prompt input widget's completion menu. Can you now help me do something very similar for placeholder tag (e.g. `<foo>`) completion? #plan #m_opus
