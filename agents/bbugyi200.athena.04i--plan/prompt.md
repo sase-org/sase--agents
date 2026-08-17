@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add the new `g` / `G` keymaps to the notifications panel? These keymaps should allow the user to jump to the top/bottom of the right pane's contents, respectively. #plan

@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase Codex just failed with a usage limit error and sase correctly detected this usage limit error and disabled the codex provider for 24h. This worked well but could work even better. Namely, the usage error contained the date that my usage limit is expected to reset (see #sshot), so we should have used that date instead of defaulting to 24h. Can you help me fix this? Make equivalent fixes for other providers if possible.
+
+#plan
