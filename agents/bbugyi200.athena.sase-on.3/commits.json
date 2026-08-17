@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-cda714ee9498cc1a31f77b2a3e799421"}
+{"commits":[{"committed_at":1786986430,"sha":"671eea0ccf6093840c99fbaf2071c14018b63c30","subject":"feat(bead): close reviewer-selected beads from the BeadStaleCleanup gate"}],"schema_version":2,"source_run_id":"run-cda714ee9498cc1a31f77b2a3e799421"}

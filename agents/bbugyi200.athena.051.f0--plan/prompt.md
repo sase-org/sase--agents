@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:051 Can you help me add a way to enable these via a `sase` CLI option too? Namely, let's add the new `-f|--enable-feature <feature>` and `-F|--disable-feature <feature>` CLI options to the `sase` command, both of which can be repeated. #plan
