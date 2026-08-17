@@ -23,10 +23,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-nb.11.1](../bbugyi200.athena.sase-nb.11.1/README.md) | sase-nb.11 hood | active |
-| [sase-nb.11.2](../bbugyi200.athena.sase-nb.11.2/README.md) | sase-nb.11 hood | active |
+| [sase-nb.11.1](../../families/bbugyi200.athena.sase-nb.11.1.md) (family · 2) | sase-nb.11 hood | active 2 |
+| [sase-nb.11.2](../bbugyi200.athena.sase-nb.11.2/README.md) | sase-nb.11 hood | completed |
 | [sase-nb.11.4](../bbugyi200.athena.sase-nb.11.4/README.md) | sase-nb.11 hood | active |
-| [sase-nb.11.5](../bbugyi200.athena.sase-nb.11.5/README.md) | sase-nb.11 hood | waiting |
+| [sase-nb.11.5](../bbugyi200.athena.sase-nb.11.5/README.md) | sase-nb.11 hood | completed |
 | [sase-nb.11.land](../bbugyi200.athena.sase-nb.11.land/README.md) | sase-nb.11 hood | waiting |
 | [sase-nb.1](../bbugyi200.athena.sase-nb.1/README.md) | sase-nb hood | completed |
 | [sase-nb.10](../bbugyi200.athena.sase-nb.10/README.md) | sase-nb hood | completed |

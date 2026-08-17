@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-nb](../../users/bbugyi200/machines/athena/hoods/sase-nb/README.md) / sase-nb.11.2
 
-**Global name:** `bbugyi200.athena.sase-nb.11.2` · **State:** active · **Source run:** `run-0a43084ca843b0ff6f318ff0b4aa97fc`
+**Global name:** `bbugyi200.athena.sase-nb.11.2` · **State:** completed · **Source run:** `run-0a43084ca843b0ff6f318ff0b4aa97fc`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-nb
 
@@ -13,20 +13,26 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-17T01:05:31.890000+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8873e64`](https://github.com/sase-org/sase/commit/8873e64c451cf24368c278f3faf9dc92c9349317) | test: restore sys.path around every check\_feature\_flags tool load | 2026-08-16 21:25:01 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-nb.11.1](../bbugyi200.athena.sase-nb.11.1/README.md) | sase-nb.11 hood | active |
+| [sase-nb.11.1](../../families/bbugyi200.athena.sase-nb.11.1.md) (family · 2) | sase-nb.11 hood | active 2 |
 | [sase-nb.11.3](../bbugyi200.athena.sase-nb.11.3/README.md) | sase-nb.11 hood | active |
 | [sase-nb.11.4](../bbugyi200.athena.sase-nb.11.4/README.md) | sase-nb.11 hood | active |
-| [sase-nb.11.5](../bbugyi200.athena.sase-nb.11.5/README.md) | sase-nb.11 hood | waiting |
+| [sase-nb.11.5](../bbugyi200.athena.sase-nb.11.5/README.md) | sase-nb.11 hood | completed |
 | [sase-nb.11.land](../bbugyi200.athena.sase-nb.11.land/README.md) | sase-nb.11 hood | waiting |
 | [sase-nb.1](../bbugyi200.athena.sase-nb.1/README.md) | sase-nb hood | completed |
 | [sase-nb.10](../bbugyi200.athena.sase-nb.10/README.md) | sase-nb hood | completed |
