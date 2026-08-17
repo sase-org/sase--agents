@@ -1,8 +1,8 @@
-# Agent: 04j--code
+# Agent: 04j--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [04j](../../users/bbugyi200/machines/athena/hoods/04j/README.md) / [04j](../../families/bbugyi200.athena.04j.md) / 04j--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [04j](../../users/bbugyi200/machines/athena/hoods/04j/README.md) / [04j](../../families/bbugyi200.athena.04j.md) / 04j--mon
 
-**Global name:** `bbugyi200.athena.04j--code` · **State:** completed · **Source run:** `run-298d8ccd7f5fa66c589751236cbddfc0`
+**Global name:** `bbugyi200.athena.04j--mon` · **State:** failed · **Source run:** `run-e26ebccabeae491130e1fb2bb54e57e4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 04j
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-17T11:33:12.857202+00:00
+- Timing: 2026-08-17T12:14:26.055205+00:00
 - Commits: 0
 
 ## Files
