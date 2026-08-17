@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-op](../../users/bbugyi200/machines/athena/hoods/sase-op/README.md) / sase-op.6
 
-**Global name:** `bbugyi200.athena.sase-op.6` · **State:** waiting · **Source run:** `run-4afb4ff32d0ba1648a539869b746d33d`
+**Global name:** `bbugyi200.athena.sase-op.6` · **State:** active · **Source run:** `run-4afb4ff32d0ba1648a539869b746d33d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-op
 
@@ -10,14 +10,20 @@
 
 - Bead: [sase-op.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-op/sase-op.6.md)
 - Epic: [sase-op](https://github.com/sase-org/sase--beads/blob/main/pages/sase-op/README.md)
-- Model: grok-4.6
-- Provider: grok
-- Timing: 20260817131900
-- Commits: 0
+- Model: sonnet
+- Provider: claude
+- Timing: 2026-08-17T19:40:16.439872+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`5d98153`](https://github.com/sase-org/sase/commit/5d98153a7b2b1cacf6b8059c0e8e935b0eab9f04) | docs(glossary): document the sase glossary command group | 2026-08-17 15:58:10 EDT |
 
 ## Neighbors
 
@@ -27,5 +33,5 @@
 | [sase-op.2](../bbugyi200.athena.sase-op.2/README.md) | sase-op hood | dismissed |
 | [sase-op.3](../bbugyi200.athena.sase-op.3/README.md) | sase-op hood | completed |
 | [sase-op.4](../bbugyi200.athena.sase-op.4/README.md) | sase-op hood | completed |
-| [sase-op.5](../../families/bbugyi200.athena.sase-op.5.md) (family · 7) | sase-op hood | active 1, completed 3, failed 3 |
+| [sase-op.5](../../families/bbugyi200.athena.sase-op.5.md) (family · 7) | sase-op hood | completed 4, failed 3 |
 | [sase-op.land](../bbugyi200.athena.sase-op.land/README.md) | sase-op hood | waiting |

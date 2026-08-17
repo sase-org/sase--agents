@@ -1412,7 +1412,7 @@
 | [sase-oc](hoods/sase-oc/README.md) | 17 | 1 | active 1, completed 11, failed 4, waiting 1 |
 | [sase-on](hoods/sase-on/README.md) | 8 | 1 | active 1, completed 5, failed 1, waiting 1 |
 | [sase-oo](hoods/sase-oo/README.md) | 7 | 1 | active 1, completed 5, failed 1 |
-| [sase-op](hoods/sase-op/README.md) | 13 | 1 | active 1, completed 6, dismissed 1, failed 3, waiting 2 |
+| [sase-op](hoods/sase-op/README.md) | 13 | 1 | active 1, completed 7, dismissed 1, failed 3, waiting 1 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-0q](hoods/sase_fix_just-0q/README.md) | 1 | 0 | active 1 |
