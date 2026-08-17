@@ -12,7 +12,7 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-17T18:09:54.108505+00:00
-- Commits: [1](#commits)
+- Commits: [2](#commits)
 
 ## Files
 
@@ -23,6 +23,7 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`8c63f5e`](https://github.com/sase-org/sase/commit/8c63f5e121069b264f75863ff57a43d1d80de153) | docs(beads): document task-triage thresholds and stale-cleanup rollout | 2026-08-17 14:17:28 EDT |
+| sase | [`4236695`](https://github.com/sase-org/sase/commit/423669549dafc56db81051a6de57c93b8d7384c0) | chore: drop resolved sase-on epic-symbol whitelist leftovers | 2026-08-17 14:45:30 EDT |
 
 ## Neighbors
 
