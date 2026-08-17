@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-17dc715e4e2a5774c2860f69e55c0a86"}
+{"commits":[{"committed_at":1786997139,"sha":"f43358dcb5444fa25696f7167bdd3ea830f77d23","subject":"refactor(agent-cleanup): retire dead worker closures and proc_callable seam"}],"schema_version":2,"source_run_id":"run-17dc715e4e2a5774c2860f69e55c0a86"}

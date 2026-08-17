@@ -13,19 +13,25 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-17T19:18:26.501659+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`f43358d`](https://github.com/sase-org/sase/commit/f43358dcb5444fa25696f7167bdd3ea830f77d23) | refactor(agent-cleanup): retire dead worker closures and proc\_callable seam | 2026-08-17 16:05:39 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ng](../../families/bbugyi200.athena.sase-ng.md) (family · 2) | ancestor | failed 2 |
-| [sase-ng.1.1](../bbugyi200.athena.sase-ng.1.1/README.md) | sase-ng.1 hood | active |
-| [sase-ng.1.2](../bbugyi200.athena.sase-ng.1.2/README.md) | sase-ng.1 hood | active |
+| [sase-ng.1.1](../../families/bbugyi200.athena.sase-ng.1.1.md) (family · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
+| [sase-ng.1.2](../bbugyi200.athena.sase-ng.1.2/README.md) | sase-ng.1 hood | completed |
 | [sase-ng.1.4](../bbugyi200.athena.sase-ng.1.4/README.md) | sase-ng.1 hood | waiting |
 | [sase-ng.1.5](../bbugyi200.athena.sase-ng.1.5/README.md) | sase-ng.1 hood | waiting |
 | [sase-ng.1.6](../bbugyi200.athena.sase-ng.1.6/README.md) | sase-ng.1 hood | waiting |
