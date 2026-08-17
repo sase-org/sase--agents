@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The prompt pre-filled in the prompt input widget when the user kills and edits a sase agent using the `,x` keymap on the agents tab appears broken (see recent sase agent launch failures for context). Can you help me diagnose the root cause of this issue and fix it? #plan
