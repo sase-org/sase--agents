@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-nb` · Members: 2 · Bead: [sase-nb](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-nb.land--plan [failed]"]
+  n0["sase-nb.land--plan [dismissed]"]
   n1["sase-nb.land--mon [failed]"]
   n0 --> n1
 ```
@@ -17,27 +17,28 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-nb.land--plan | failed | opus / claude | 2026-08-17T00:39:34.480429+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-nb.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-nb.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-nb.land--plan | dismissed | — | 2026-08-16T12:36:46 | 0 | — | — |
 | <a id="member-mon"></a>mon | sase-nb.land--mon | failed | opus / claude | 2026-08-17T01:04:16.773778+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-nb.land--mon/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-nb.1](../agents/bbugyi200.athena.sase-nb.1/README.md) | sase-nb hood | completed |
-| [sase-nb.10](../agents/bbugyi200.athena.sase-nb.10/README.md) | sase-nb hood | completed |
-| [sase-nb.11.1](bbugyi200.athena.sase-nb.11.1.md) (family · 2) | sase-nb hood | completed 2 |
-| [sase-nb.11.2](../agents/bbugyi200.athena.sase-nb.11.2/README.md) | sase-nb hood | completed |
-| [sase-nb.11.3](../agents/bbugyi200.athena.sase-nb.11.3/README.md) | sase-nb hood | completed |
-| [sase-nb.11.4](../agents/bbugyi200.athena.sase-nb.11.4/README.md) | sase-nb hood | completed |
-| [sase-nb.11.5](../agents/bbugyi200.athena.sase-nb.11.5/README.md) | sase-nb hood | completed |
-| [sase-nb.11.land](bbugyi200.athena.sase-nb.11.land.md) (family · 3) | sase-nb hood | active 1, completed 1, failed 1 |
-| [sase-nb.2](bbugyi200.athena.sase-nb.2.md) (family · 2) | sase-nb hood | completed 2 |
-| [sase-nb.3](../agents/bbugyi200.athena.sase-nb.3/README.md) | sase-nb hood | completed |
+| [sase-nb.1](../agents/bbugyi200.athena.sase-nb.1/README.md) | sase-nb hood | dismissed |
+| [sase-nb.10](../agents/bbugyi200.athena.sase-nb.10/README.md) | sase-nb hood | dismissed |
+| [sase-nb.11.1](bbugyi200.athena.sase-nb.11.1.md) (family · 2) | sase-nb hood | completed 1, dismissed 1 |
+| [sase-nb.11.2](../agents/bbugyi200.athena.sase-nb.11.2/README.md) | sase-nb hood | dismissed |
+| [sase-nb.11.3](../agents/bbugyi200.athena.sase-nb.11.3/README.md) | sase-nb hood | dismissed |
+| [sase-nb.11.4](../agents/bbugyi200.athena.sase-nb.11.4/README.md) | sase-nb hood | dismissed |
+| [sase-nb.11.5](../agents/bbugyi200.athena.sase-nb.11.5/README.md) | sase-nb hood | dismissed |
+| [sase-nb.11.land](bbugyi200.athena.sase-nb.11.land.md) (family · 3) | sase-nb hood | completed 1, dismissed 1, failed 1 |
+| [sase-nb.11.land](../agents/bbugyi200.athena.sase-nb.11.land/README.md) | sase-nb hood | completed |
+| [sase-nb.2](bbugyi200.athena.sase-nb.2.md) (family · 2) | sase-nb hood | completed 1, dismissed 1 |
+| [sase-nb.3](../agents/bbugyi200.athena.sase-nb.3/README.md) | sase-nb hood | dismissed |
 | [sase-nb.4](../agents/bbugyi200.athena.sase-nb.4/README.md) | sase-nb hood | dismissed |
-| [sase-nb.4\_1](bbugyi200.athena.sase-nb.4_1.md) (family · 5) | sase-nb hood | completed 3, failed 2 |
-| [sase-nb.5](../agents/bbugyi200.athena.sase-nb.5/README.md) | sase-nb hood | completed |
-| [sase-nb.6](bbugyi200.athena.sase-nb.6.md) (family · 2) | sase-nb hood | completed 2 |
-| [sase-nb.7](../agents/bbugyi200.athena.sase-nb.7/README.md) | sase-nb hood | completed |
-| [sase-nb.8](bbugyi200.athena.sase-nb.8.md) (family · 2) | sase-nb hood | completed 2 |
-| [sase-nb.9](../agents/bbugyi200.athena.sase-nb.9/README.md) | sase-nb hood | completed |
+| [sase-nb.4\_1](bbugyi200.athena.sase-nb.4_1.md) (family · 5) | sase-nb hood | completed 2, dismissed 1, failed 2 |
+| [sase-nb.5](../agents/bbugyi200.athena.sase-nb.5/README.md) | sase-nb hood | dismissed |
+| [sase-nb.6](bbugyi200.athena.sase-nb.6.md) (family · 2) | sase-nb hood | completed 1, dismissed 1 |
+| [sase-nb.7](../agents/bbugyi200.athena.sase-nb.7/README.md) | sase-nb hood | dismissed |
+| [sase-nb.8](bbugyi200.athena.sase-nb.8.md) (family · 2) | sase-nb hood | completed 1, dismissed 1 |
+| [sase-nb.9](../agents/bbugyi200.athena.sase-nb.9/README.md) | sase-nb hood | dismissed |

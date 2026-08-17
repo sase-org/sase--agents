@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 04f--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-04f__plan-260817_062204.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-04f__code-260817_062204.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/usage_limit_reset_timestamp.md
 
 

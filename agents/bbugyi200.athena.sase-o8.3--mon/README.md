@@ -26,5 +26,5 @@
 | [sase-o8.1](../bbugyi200.athena.sase-o8.1/README.md) | sase-o8 hood | completed |
 | [sase-o8.2](../bbugyi200.athena.sase-o8.2/README.md) | sase-o8 hood | completed |
 | [sase-o8.4](../bbugyi200.athena.sase-o8.4/README.md) | sase-o8 hood | completed |
-| [sase-o8.5](../bbugyi200.athena.sase-o8.5/README.md) | sase-o8 hood | active |
-| [sase-o8.land](../bbugyi200.athena.sase-o8.land/README.md) | sase-o8 hood | waiting |
+| [sase-o8.5](../bbugyi200.athena.sase-o8.5/README.md) | sase-o8 hood | completed |
+| [sase-o8.land](../../families/bbugyi200.athena.sase-o8.land.md) (family · 3) | sase-o8 hood | completed 2, failed 1 |
