@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-de1fbd81994c3941475ad6067cc653c2"}
+{"commits":[{"committed_at":1786985484,"sha":"aca2b7ac6a4a577bdca921c9add5ea5214a15112","subject":"feat(completion): add remaining value-kind providers"}],"schema_version":2,"source_run_id":"run-de1fbd81994c3941475ad6067cc653c2"}

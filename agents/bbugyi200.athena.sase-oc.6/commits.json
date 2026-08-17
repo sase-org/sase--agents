@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c0e769835de15bbc77d057f91cec434d"}
+{"commits":[{"committed_at":1786992792,"sha":"c0dd17213c17db643240e4e92d91b61b4c11a724","subject":"feat(completion): wire dynamic value candidates into zsh/bash/fish"}],"schema_version":2,"source_run_id":"run-c0e769835de15bbc77d057f91cec434d"}

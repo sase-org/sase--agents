@@ -1408,7 +1408,7 @@
 | [sase-o8](hoods/sase-o8/README.md) | 10 | 2 | completed 8, failed 2 |
 | [sase-o9](hoods/sase-o9/README.md) | 10 | 1 | completed 8, failed 2 |
 | [sase-ob](hoods/sase-ob/README.md) | 1 | 0 | dismissed 1 |
-| [sase-oc](hoods/sase-oc/README.md) | 9 | 0 | active 1, completed 5, waiting 3 |
+| [sase-oc](hoods/sase-oc/README.md) | 9 | 0 | active 1, completed 6, waiting 2 |
 | [sase-on](hoods/sase-on/README.md) | 8 | 1 | active 1, completed 5, failed 1, waiting 1 |
 | [sase-oo](hoods/sase-oo/README.md) | 7 | 1 | active 1, completed 5, failed 1 |
 | [sase-op](hoods/sase-op/README.md) | 7 | 0 | active 1, completed 2, dismissed 1, waiting 3 |
