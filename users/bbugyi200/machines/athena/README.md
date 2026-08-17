@@ -1403,7 +1403,7 @@
 | [sase-n9](hoods/sase-n9/README.md) | 16 | 4 | completed 11, failed 5 |
 | [sase-na](hoods/sase-na/README.md) | 7 | 1 | completed 6, failed 1 |
 | [sase-nb](hoods/sase-nb/README.md) | 30 | 7 | completed 8, dismissed 18, failed 4 |
-| [sase-ng](hoods/sase-ng/README.md) | 11 | 2 | active 1, completed 3, failed 3, waiting 4 |
+| [sase-ng](hoods/sase-ng/README.md) | 11 | 2 | active 1, completed 4, failed 3, waiting 3 |
 | [sase-ns](hoods/sase-ns/README.md) | 59 | 12 | active 2, completed 17, dismissed 26, failed 14 |
 | [sase-o7](hoods/sase-o7/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [sase-o8](hoods/sase-o8/README.md) | 10 | 2 | completed 8, failed 2 |
