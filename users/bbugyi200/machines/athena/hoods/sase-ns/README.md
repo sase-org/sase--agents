@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-ns
 
-**Global hood:** `bbugyi200.athena.sase-ns` · **Runs:** 59 · **Families:** 12 · **States:** active 3, completed 15, dismissed 26, failed 14, waiting 1
+**Global hood:** `bbugyi200.athena.sase-ns` · **Runs:** 59 · **Families:** 12 · **States:** active 2, completed 17, dismissed 26, failed 14
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -20,8 +20,8 @@
 | [sase-ns.land--1](../../../../../../families/bbugyi200.athena.sase-ns.land.md#member-1) | failed | opus / claude | 2026-08-17T00:01:10.431205+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ns.land--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-ns.land--1/chat.md) |
 | [sase-ns.1--code](../../../../../../families/bbugyi200.athena.sase-ns.1.md#member-code) | completed | sonnet / claude | 2026-08-16T21:28:04.850694+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-ns.1--code/chat.md) |
 | [sase-ns.4](../../../../../../agents/bbugyi200.athena.sase-ns.4/README.md) | dismissed | — | 2026-08-16T17:15:25 | 1 | — |
-| [sase-ns.6.6.6.1--code](../../../../../../families/bbugyi200.athena.sase-ns.6.6.6.1.md#member-code) | active | sonnet / claude | 2026-08-17T16:35:02.980830+00:00 | 2 | — |
-| [sase-ns.6.6.6.1--plan](../../../../../../families/bbugyi200.athena.sase-ns.6.6.6.1.md#member-plan) | active | opus / claude | 2026-08-17T16:14:31.662764+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ns.6.6.6.1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-ns.6.6.6.1--plan/chat.md) |
+| [sase-ns.6.6.6.1--code](../../../../../../families/bbugyi200.athena.sase-ns.6.6.6.1.md#member-code) | completed | sonnet / claude | 2026-08-17T16:35:02.980830+00:00 | 2 | [chat](../../../../../../agents/bbugyi200.athena.sase-ns.6.6.6.1--code/chat.md) |
+| [sase-ns.6.6.6.1--plan](../../../../../../families/bbugyi200.athena.sase-ns.6.6.6.1.md#member-plan) | completed | opus / claude | 2026-08-17T16:14:31.662764+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ns.6.6.6.1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-ns.6.6.6.1--plan/chat.md) |
 | [sase-ns.6.6.land--mon-0](../../../../../../families/bbugyi200.athena.sase-ns.6.6.land.md#member-mon-0) | failed | opus / claude | 2026-08-17T09:54:33.749266+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-ns.6.6.land--mon-0/chat.md) |
 | [sase-ns.6.6.6.3--code](../../../../../../families/bbugyi200.athena.sase-ns.6.6.6.3.md#member-code) | completed | sonnet / claude | 2026-08-17T10:15:47.285895+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-ns.6.6.6.3--code/chat.md) |
 | [sase-ns.6.6.land--mon](../../../../../../families/bbugyi200.athena.sase-ns.6.6.land.md#member-mon) | failed | opus / claude | 2026-08-17T09:38:21.160361+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-ns.6.6.land--mon/chat.md) |
@@ -41,7 +41,7 @@
 | [sase-ns.6.land--plan](../../../../../../families/bbugyi200.athena.sase-ns.6.land.md#member-plan) | dismissed | — | 2026-08-16T21:03:17 | 0 | — |
 | [sase-ns.6.1--plan](../../../../../../families/bbugyi200.athena.sase-ns.6.1.md#member-plan) | dismissed | — | 2026-08-16T21:03:12 | 0 | — |
 | [sase-ns.land](../../../../../../agents/bbugyi200.athena.sase-ns.land/README.md) | completed | — | 2026-08-16T23:37:10+00:00 → 2026-08-16T23:47:06+00:00 | 2 | — |
-| [sase-ns.6.6.6.land](../../../../../../agents/bbugyi200.athena.sase-ns.6.6.6.land/README.md) | waiting | opus / claude | 20260817121253 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ns.6.6.6.land/prompt.md) |
+| [sase-ns.6.6.6.land](../../../../../../agents/bbugyi200.athena.sase-ns.6.6.6.land/README.md) | active | opus / claude | 2026-08-17T17:24:26.026481+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ns.6.6.6.land/prompt.md) |
 | [sase-ns.6.land--mon](../../../../../../families/bbugyi200.athena.sase-ns.6.land.md#member-mon) | failed | opus / claude | 2026-08-17T02:20:06.319867+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-ns.6.land--mon/chat.md) |
 | [sase-ns.6.6.6.3--plan](../../../../../../families/bbugyi200.athena.sase-ns.6.6.6.3.md#member-plan) | dismissed | — | 2026-08-17T05:55:20 | 0 | — |
 | [sase-ns.6.5](../../../../../../agents/bbugyi200.athena.sase-ns.6.5/README.md) | dismissed | — | 2026-08-16T21:03:16 | 1 | — |

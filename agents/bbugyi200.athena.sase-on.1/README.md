@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-17T15:48:59.559805+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`b34d0d3`](https://github.com/sase-org/sase/commit/b34d0d3b6d85a821c7aac94e422e486eda77ae80) | feat(bead): withhold TaskTriage gates below a configurable +1 bar | 2026-08-17 12:39:35 EDT |
 
 ## Neighbors
 
@@ -25,6 +31,6 @@
 |---|---|---|
 | [sase-on.2](../bbugyi200.athena.sase-on.2/README.md) | sase-on hood | completed |
 | [sase-on.3](../bbugyi200.athena.sase-on.3/README.md) | sase-on hood | completed |
-| [sase-on.4](../bbugyi200.athena.sase-on.4/README.md) | sase-on hood | active |
-| [sase-on.5](../bbugyi200.athena.sase-on.5/README.md) | sase-on hood | waiting |
+| [sase-on.4](../bbugyi200.athena.sase-on.4/README.md) | sase-on hood | completed |
+| [sase-on.5](../../families/bbugyi200.athena.sase-on.5.md) (family · 3) | sase-on hood | active 1, completed 1, failed 1 |
 | [sase-on.land](../bbugyi200.athena.sase-on.land/README.md) | sase-on hood | waiting |

@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-ns.6.6.6.1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ns_6_6_6_1__plan-260817_121252.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ns_6_6_6_1__code-260817_121252.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/config_cache_atomic_publication.md
 
 

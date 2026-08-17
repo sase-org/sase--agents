@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b53d69491078a79e59260a401c2e650b"}
+{"commits":[{"committed_at":1786984775,"sha":"b34d0d3b6d85a821c7aac94e422e486eda77ae80","subject":"feat(bead): withhold TaskTriage gates below a configurable +1 bar"}],"schema_version":2,"source_run_id":"run-b53d69491078a79e59260a401c2e650b"}

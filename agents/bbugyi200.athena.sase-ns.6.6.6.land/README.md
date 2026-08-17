@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ns](../../users/bbugyi200/machines/athena/hoods/sase-ns/README.md) / sase-ns.6.6.6.land
 
-**Global name:** `bbugyi200.athena.sase-ns.6.6.6.land` · **State:** waiting · **Source run:** `run-b08ba2865ccd731d6d6724258dcbfa98`
+**Global name:** `bbugyi200.athena.sase-ns.6.6.6.land` · **State:** active · **Source run:** `run-b08ba2865ccd731d6d6724258dcbfa98`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ns
 
@@ -11,18 +11,24 @@
 - Bead: [sase-ns.6.6.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ns/sase-ns.6.6.6.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260817121253
-- Commits: 0
+- Timing: 2026-08-17T17:24:26.026481+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c11e1ad`](https://github.com/sase-org/sase/commit/c11e1ad882196adb00e80513e755b300a6a824cf) | test(sdd): replace forked epic-plan-launch lock holders with an in-process seam | 2026-08-17 14:20:14 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ns.6.6.6.1](../../families/bbugyi200.athena.sase-ns.6.6.6.1.md) (family · 4) | sase-ns.6.6.6 hood | active 3, failed 1 |
+| [sase-ns.6.6.6.1](../../families/bbugyi200.athena.sase-ns.6.6.6.1.md) (family · 4) | sase-ns.6.6.6 hood | active 1, completed 2, failed 1 |
 | [sase-ns.6.6.6.2](../bbugyi200.athena.sase-ns.6.6.6.2/README.md) | sase-ns.6.6.6 hood | dismissed |
 | [sase-ns.6.6.6.3](../../families/bbugyi200.athena.sase-ns.6.6.6.3.md) (family · 2) | sase-ns.6.6.6 hood | completed 1, dismissed 1 |
 | [sase-ns.6.6.6.4](../bbugyi200.athena.sase-ns.6.6.6.4/README.md) | sase-ns.6.6.6 hood | dismissed |
