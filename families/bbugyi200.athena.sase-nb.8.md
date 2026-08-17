@@ -31,7 +31,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-nb.1](../agents/bbugyi200.athena.sase-nb.1/README.md) | sase-nb hood | completed |
-| [sase-nb.10](../agents/bbugyi200.athena.sase-nb.10/README.md) | sase-nb hood | active |
+| [sase-nb.10](../agents/bbugyi200.athena.sase-nb.10/README.md) | sase-nb hood | completed |
 | [sase-nb.2](bbugyi200.athena.sase-nb.2.md) (family · 2) | sase-nb hood | completed 2 |
 | [sase-nb.3](../agents/bbugyi200.athena.sase-nb.3/README.md) | sase-nb hood | completed |
 | [sase-nb.4](../agents/bbugyi200.athena.sase-nb.4/README.md) | sase-nb hood | dismissed |
@@ -40,4 +40,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-nb.6](bbugyi200.athena.sase-nb.6.md) (family · 2) | sase-nb hood | completed 2 |
 | [sase-nb.7](../agents/bbugyi200.athena.sase-nb.7/README.md) | sase-nb hood | completed |
 | [sase-nb.9](../agents/bbugyi200.athena.sase-nb.9/README.md) | sase-nb hood | completed |
-| [sase-nb.land](../agents/bbugyi200.athena.sase-nb.land/README.md) | sase-nb hood | waiting |
+| [sase-nb.land](../agents/bbugyi200.athena.sase-nb.land/README.md) | sase-nb hood | active |
