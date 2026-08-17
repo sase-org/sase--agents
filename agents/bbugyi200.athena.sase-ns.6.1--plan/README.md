@@ -2,45 +2,40 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ns](../../users/bbugyi200/machines/athena/hoods/sase-ns/README.md) / [sase-ns.6.1](../../families/bbugyi200.athena.sase-ns.6.1.md) / sase-ns.6.1--plan
 
-**Global name:** `bbugyi200.athena.sase-ns.6.1--plan` · **State:** completed · **Source run:** `run-9c3aa0888448b5eb89b8fb8345dd7951`
+**Global name:** `bbugyi200.athena.sase-ns.6.1--plan` · **State:** dismissed · **Source run:** `run-9c3aa0888448b5eb89b8fb8345dd7951`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ns
 
 ## Summary
 
 - Bead: [sase-ns.6.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ns/sase-ns.6.1.md)
-- Epic: [sase-ns.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ns/sase-ns.6.md)
-- Model: opus
-- Provider: claude
-- Timing: 2026-08-17T01:03:29.481226+00:00
+- Model: —
+- Provider: —
+- Timing: 2026-08-16T21:03:12
 - Commits: 0
-
-## Files
-
-[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ns.6.2](../../families/bbugyi200.athena.sase-ns.6.2.md) (family · 2) | sase-ns.6 hood | completed 2 |
-| [sase-ns.6.3](../bbugyi200.athena.sase-ns.6.3/README.md) | sase-ns.6 hood | completed |
-| [sase-ns.6.4](../bbugyi200.athena.sase-ns.6.4/README.md) | sase-ns.6 hood | completed |
-| [sase-ns.6.5](../bbugyi200.athena.sase-ns.6.5/README.md) | sase-ns.6 hood | completed |
-| [sase-ns.6.6.1](../bbugyi200.athena.sase-ns.6.6.1/README.md) | sase-ns.6 hood | completed |
-| [sase-ns.6.6.2](../bbugyi200.athena.sase-ns.6.6.2/README.md) | sase-ns.6 hood | completed |
-| [sase-ns.6.6.3](../bbugyi200.athena.sase-ns.6.6.3/README.md) | sase-ns.6 hood | completed |
-| [sase-ns.6.6.4](../../families/bbugyi200.athena.sase-ns.6.6.4.md) (family · 4) | sase-ns.6 hood | completed 3, failed 1 |
-| [sase-ns.6.6.5](../../families/bbugyi200.athena.sase-ns.6.6.5.md) (family · 4) | sase-ns.6 hood | completed 3, failed 1 |
+| [sase-ns.6.2](../../families/bbugyi200.athena.sase-ns.6.2.md) (family · 2) | sase-ns.6 hood | completed 1, dismissed 1 |
+| [sase-ns.6.3](../bbugyi200.athena.sase-ns.6.3/README.md) | sase-ns.6 hood | dismissed |
+| [sase-ns.6.4](../bbugyi200.athena.sase-ns.6.4/README.md) | sase-ns.6 hood | dismissed |
+| [sase-ns.6.5](../bbugyi200.athena.sase-ns.6.5/README.md) | sase-ns.6 hood | dismissed |
+| [sase-ns.6.6.1](../bbugyi200.athena.sase-ns.6.6.1/README.md) | sase-ns.6 hood | dismissed |
+| [sase-ns.6.6.2](../bbugyi200.athena.sase-ns.6.6.2/README.md) | sase-ns.6 hood | dismissed |
+| [sase-ns.6.6.3](../bbugyi200.athena.sase-ns.6.6.3/README.md) | sase-ns.6 hood | dismissed |
+| [sase-ns.6.6.4](../../families/bbugyi200.athena.sase-ns.6.6.4.md) (family · 4) | sase-ns.6 hood | completed 1, dismissed 2, failed 1 |
+| [sase-ns.6.6.5](../../families/bbugyi200.athena.sase-ns.6.6.5.md) (family · 4) | sase-ns.6 hood | completed 1, dismissed 2, failed 1 |
 | [sase-ns.6.6.6.1](../../families/bbugyi200.athena.sase-ns.6.6.6.1.md) (family · 4) | sase-ns.6 hood | active 3, failed 1 |
 | [sase-ns.6.6.6.2](../bbugyi200.athena.sase-ns.6.6.6.2/README.md) | sase-ns.6 hood | dismissed |
 | [sase-ns.6.6.6.3](../../families/bbugyi200.athena.sase-ns.6.6.6.3.md) (family · 2) | sase-ns.6 hood | completed 1, dismissed 1 |
 | [sase-ns.6.6.6.4](../bbugyi200.athena.sase-ns.6.6.6.4/README.md) | sase-ns.6 hood | dismissed |
 | [sase-ns.6.6.6.5](../bbugyi200.athena.sase-ns.6.6.6.5/README.md) | sase-ns.6 hood | dismissed |
 | [sase-ns.6.6.6.land](../bbugyi200.athena.sase-ns.6.6.6.land/README.md) | sase-ns.6 hood | waiting |
-| [sase-ns.6.6.land](../../families/bbugyi200.athena.sase-ns.6.6.land.md) (family · 4) | sase-ns.6 hood | completed 1, failed 3 |
+| [sase-ns.6.6.land](../../families/bbugyi200.athena.sase-ns.6.6.land.md) (family · 4) | sase-ns.6 hood | dismissed 2, failed 2 |
 | [sase-ns.6.6.land](../bbugyi200.athena.sase-ns.6.6.land/README.md) | sase-ns.6 hood | completed |
-| [sase-ns.6.land](../../families/bbugyi200.athena.sase-ns.6.land.md) (family · 4) | sase-ns.6 hood | completed 1, failed 3 |
+| [sase-ns.6.land](../../families/bbugyi200.athena.sase-ns.6.land.md) (family · 4) | sase-ns.6 hood | dismissed 2, failed 2 |
 | [sase-ns.6.land](../bbugyi200.athena.sase-ns.6.land/README.md) | sase-ns.6 hood | completed |
 | [sase-ns.1](../../families/bbugyi200.athena.sase-ns.1.md) (family · 4) | sase-ns hood | completed 2, dismissed 1, failed 1 |
 | [sase-ns.2](../../families/bbugyi200.athena.sase-ns.2.md) (family · 8) | sase-ns hood | completed 4, dismissed 1, failed 3 |
