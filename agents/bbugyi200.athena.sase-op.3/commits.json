@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ceea3209def2bfe979c70fcbf945645a"}
+{"commits":[{"committed_at":1786989652,"sha":"f6d757e2c96a7865d7958ad2b6d8bcc4a0abda4f","subject":"feat(glossary): add glossary command group with list and show"}],"schema_version":2,"source_run_id":"run-ceea3209def2bfe979c70fcbf945645a"}
