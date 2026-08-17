@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ea4f759c881f51b5a409acfec33a68e9"}
+{"commits":[{"committed_at":1786954951,"sha":"99b4e43a15fc558c96896b63e8807b51e9fec878","subject":"test: add regression gate for committed memory-file drift"}],"schema_version":2,"source_run_id":"run-ea4f759c881f51b5a409acfec33a68e9"}
