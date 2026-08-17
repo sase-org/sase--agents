@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m6](../../users/bbugyi200/machines/athena/hoods/sase-m6/README.md) / sase-m6.land
 
-**Global name:** `bbugyi200.athena.sase-m6.land` · **State:** active · **Source run:** `run-1e47664e3bc7a2b9f9988c4d5375420c`
+**Global name:** `bbugyi200.athena.sase-m6.land` · **State:** completed · **Source run:** `run-1e47664e3bc7a2b9f9988c4d5375420c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-m6
 
@@ -12,17 +12,18 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-16T21:23:28.752955+00:00
-- Commits: [1](#commits)
+- Commits: [2](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`563a67f`](https://github.com/sase-org/sase/commit/563a67fb065c2eef0f710df85710e15bac023cce) | fix(tui): complete the grouping-keymap migration in the visual lane | 2026-08-16 19:33:00 EDT |
+| sase | [`6f1286e`](https://github.com/sase-org/sase/commit/6f1286e269aeb279aa42f3e8a78466767ea8893c) | fix(ace): repair post-rebase history metadata checks | 2026-08-16 19:48:53 EDT |
 
 ## Neighbors
 
