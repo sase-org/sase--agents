@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-942edaa02ee82c471ec52568c138a45f"}
+{"commits":[{"committed_at":1786985303,"sha":"24936ffee3fc5136ed10bc9226bd63f8d9c4a869","subject":"fix(core): require agent-stats schema 6 and truncation fields"}],"schema_version":2,"source_run_id":"run-942edaa02ee82c471ec52568c138a45f"}

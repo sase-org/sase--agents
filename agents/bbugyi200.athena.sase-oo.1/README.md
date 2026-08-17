@@ -13,17 +13,23 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-17T16:02:55.197409+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`24936ff`](https://github.com/sase-org/sase/commit/24936ffee3fc5136ed10bc9226bd63f8d9c4a869) | fix(core): require agent-stats schema 6 and truncation fields | 2026-08-17 12:48:23 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-oo.2](../bbugyi200.athena.sase-oo.2/README.md) | sase-oo hood | active |
+| [sase-oo.2](../bbugyi200.athena.sase-oo.2/README.md) | sase-oo hood | completed |
 | [sase-oo.3](../bbugyi200.athena.sase-oo.3/README.md) | sase-oo hood | completed |
 | [sase-oo.4](../bbugyi200.athena.sase-oo.4/README.md) | sase-oo hood | waiting |
 | [sase-oo.land](../bbugyi200.athena.sase-oo.land/README.md) | sase-oo hood | waiting |
