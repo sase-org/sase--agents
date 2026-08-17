@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-28d0736b2f7c92fdddf6ea903044db09"}
+{"commits":[{"committed_at":1786970196,"sha":"790cb61ee128b097842616881b92dfa3f91cf46c","subject":"feat(ace-tui): jump from a Procs pane monitor row to its agent with Enter"}],"schema_version":2,"source_run_id":"run-28d0736b2f7c92fdddf6ea903044db09"}

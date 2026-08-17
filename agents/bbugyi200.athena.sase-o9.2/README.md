@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-o9](../../users/bbugyi200/machines/athena/hoods/sase-o9/README.md) / sase-o9.2
 
-**Global name:** `bbugyi200.athena.sase-o9.2` · **State:** active · **Source run:** `run-fc0161f46eb7d53610561df919313615`
+**Global name:** `bbugyi200.athena.sase-o9.2` · **State:** completed · **Source run:** `run-fc0161f46eb7d53610561df919313615`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-o9
 
@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-17T11:21:04.900602+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`7202e84`](https://github.com/sase-org/sase/commit/7202e847bfc8ab5cd44260e8b71955052580f26a) | feat(ace-tui): mark monitor rows with a gear and their agent's name | 2026-08-17 08:03:53 EDT |
 
 ## Neighbors
 
@@ -25,6 +31,6 @@
 |---|---|---|
 | [sase-o9.1](../bbugyi200.athena.sase-o9.1/README.md) | sase-o9 hood | completed |
 | [sase-o9.3](../bbugyi200.athena.sase-o9.3/README.md) | sase-o9 hood | completed |
-| [sase-o9.4](../bbugyi200.athena.sase-o9.4/README.md) | sase-o9 hood | waiting |
+| [sase-o9.4](../bbugyi200.athena.sase-o9.4/README.md) | sase-o9 hood | active |
 | [sase-o9.5](../bbugyi200.athena.sase-o9.5/README.md) | sase-o9 hood | waiting |
 | [sase-o9.land](../bbugyi200.athena.sase-o9.land/README.md) | sase-o9 hood | waiting |

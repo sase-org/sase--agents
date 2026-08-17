@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-fc0161f46eb7d53610561df919313615"}
+{"commits":[{"committed_at":1786968233,"sha":"7202e847bfc8ab5cd44260e8b71955052580f26a","subject":"feat(ace-tui): mark monitor rows with a gear and their agent's name"}],"schema_version":2,"source_run_id":"run-fc0161f46eb7d53610561df919313615"}

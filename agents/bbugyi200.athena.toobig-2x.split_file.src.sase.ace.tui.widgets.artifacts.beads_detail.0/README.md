@@ -27,7 +27,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-2x.split\_file.src.sase.feature\_flags.cli.0](../bbugyi200.athena.toobig-2x.split_file.src.sase.feature_flags.cli.0/README.md) | toobig-2x.split\_file.src.sase hood | active |
-| [toobig-2x.split\_file.tests.monitor.test\_monitor\_start.0](../bbugyi200.athena.toobig-2x.split_file.tests.monitor.test_monitor_start.0/README.md) | toobig-2x.split\_file hood | waiting |
+| [toobig-2x.split\_file.src.sase.feature\_flags.cli.0](../bbugyi200.athena.toobig-2x.split_file.src.sase.feature_flags.cli.0/README.md) | toobig-2x.split\_file.src.sase hood | completed |
+| [toobig-2x.split\_file.tests.monitor.test\_monitor\_start.0](../bbugyi200.athena.toobig-2x.split_file.tests.monitor.test_monitor_start.0/README.md) | toobig-2x.split\_file hood | completed |
 | [toobig-2x.split\_file.tests.test\_bead.test\_cli\_list.0](../bbugyi200.athena.toobig-2x.split_file.tests.test_bead.test_cli_list.0/README.md) | toobig-2x.split\_file hood | waiting |
 | [toobig-2x.split\_file.tests.test\_config\_cache.0](../bbugyi200.athena.toobig-2x.split_file.tests.test_config_cache.0/README.md) | toobig-2x.split\_file hood | waiting |
