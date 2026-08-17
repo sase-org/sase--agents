@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8d339bdaa3d5acd43a3180aff2cec292"}
+{"commits":[{"committed_at":1786982370,"sha":"24d892b4de80ef1cc77849217352d91dbbcdfc39","subject":"feat(completion): add pre-argparse candidates fast path"}],"schema_version":2,"source_run_id":"run-171aa54cdb3720b619cdfd1e123d9107"}

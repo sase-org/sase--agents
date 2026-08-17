@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-9903811fe7cc33b549b38a3c13d71ca0"}
+{"commits":[{"committed_at":1786975397,"sha":"48856bc891f0a3f30dc5e3805c53f6bd2c840c18","subject":"feat(completion): add the CompletionSpec model and argparse tree walker"}],"schema_version":2,"source_run_id":"run-9903811fe7cc33b549b38a3c13d71ca0"}

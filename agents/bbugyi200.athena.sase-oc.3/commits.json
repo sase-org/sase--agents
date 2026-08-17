@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ceaf62d678691b9ab16c2c866e4aea05"}
+{"commits":[{"committed_at":1786980758,"sha":"c3da174ea12448497bafe9ace114e4bcd7e6c513","subject":"feat(completion): emit bash and fish scripts from the shared spec"}],"schema_version":2,"source_run_id":"run-ceaf62d678691b9ab16c2c866e4aea05"}

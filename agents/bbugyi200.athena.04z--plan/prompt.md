@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I think we maybe broke unread indicators on the agents tab recently. I'm getting agent completion notifications but then I go to look at the corresponding agent on the agents tab and it's not marked as unread. Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix the issue? #plan
