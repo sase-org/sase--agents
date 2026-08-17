@@ -1,17 +1,16 @@
 # Chat History - ace-run (sase-ns.6.6.6.1--plan)
 
-- **TIMESTAMP:** 2026-08-17 06:00:38 EDT
-- **MODEL:** codex/gpt-5.6-sol
+- **TIMESTAMP:** 2026-08-17 09:33:54 EDT
+- **MODEL:** claude/opus
 - **AGENT:** sase-ns.6.6.6.1--plan
 
-**Plan:** /home/bryan/.sase/plans/202608/config_cache_isolation.md
+**Plan:** /home/bryan/.sase/plans/202608/config_cache_publication_isolation.md
 
 
 ## Prompt
 
 #gh:gh_sase-org__sase
-%id(sase-ns.6.6.6.1, bead=sase-ns.6.6.6.1)
-%clan(sase-ns.6.6.6, tribe=epic, summary_script=sase_clan_summary_epic)
+%id(1, clan=sase-ns.6.6.6, bead=sase-ns.6.6.6.1)
 %model:@large
 %auto
 Can you complete the work for bead sase-ns.6.6.6.1? The bead is already reserved for you and assigned to your agent
@@ -34,18 +33,18 @@ before making any file changes.
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202608/config_cache_isolation.md`
+**Plan file:** `/home/bryan/.sase/plans/202608/config_cache_publication_isolation.md`
 
 > - **PARENT:**
 >   [202608/backlog_top_five_gates_and_flakes.md](202608/backlog_top_five_gates_and_flakes.md)
 > - **BEAD:** sase-ns.6.6.6.1
-> # Isolate merged-config cache publication from cross-test background work
-> ## Goal
-> Fix the process-global cache race behind
-> `tests/test_config_cache.py::test_selector_change_eventually_invalidates_merged_config`
-> and its sibling config-cache flakes. Preserve production stale-while-revalidate
-> semantics: an expired read returns the current merged object, one background token
-> refresh computes the new filesystem state, and a later read publishes a rebuilt
+> # Plan: Make the process-global merged-config cache publish atomically
+> ## Bead
+> This plan implements phase bead `sase-ns.6.6.6.1` (`configcache`) of epic
+> `sase-ns.6.6.6`, plan `202608/backlog_top_five_gates_and_flakes.md`, which owns task
+> bead `sase-mv`. Read the `Phase configcache — bead sase-mv` section of that epic plan
+> before starting; this plan does not restate its evidence, only what has been learned
+> since.
 
 *See full plan file for details.*
 

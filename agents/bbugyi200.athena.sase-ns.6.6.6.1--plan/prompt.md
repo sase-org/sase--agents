@@ -1,6 +1,5 @@
 #gh:gh_sase-org__sase
-%id(sase-ns.6.6.6.1, bead=sase-ns.6.6.6.1)
-%clan(sase-ns.6.6.6, tribe=epic, summary_script=sase_clan_summary_epic)
+%id(1, clan=sase-ns.6.6.6, bead=sase-ns.6.6.6.1)
 %model:@large
 %auto
 #bd/work_phase_bead:sase-ns.6.6.6.1

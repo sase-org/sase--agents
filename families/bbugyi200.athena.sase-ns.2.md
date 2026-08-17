@@ -19,7 +19,7 @@ flowchart TD
   n0 --> n4
   n5["sase-ns.2--mon [failed]"]
   n0 --> n5
-  n6["sase-ns.2--plan [completed]"]
+  n6["sase-ns.2--plan [dismissed]"]
   n0 --> n6
   n7["sase-ns.2--3 [completed]"]
   n0 --> n7
@@ -35,7 +35,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-1"></a>mon-1 | sase-ns.2--mon-1 | failed | grok-4.6 / grok | 2026-08-16T22:36:17.436106+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ns.2--mon-1/chat.md) |
 | <a id="member-2"></a>2 | sase-ns.2--2 | completed | grok-4.6 / grok | 2026-08-16T22:21:52.741976+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ns.2--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ns.2--2/chat.md) |
 | <a id="member-mon"></a>mon | sase-ns.2--mon | failed | grok-4.6 / grok | 2026-08-16T21:56:49.164603+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ns.2--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-ns.2--plan | completed | gpt-5.6-sol / codex | 2026-08-16T21:15:46.012890+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ns.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ns.2--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-ns.2--plan | dismissed | — | 2026-08-16T17:15:23 | 0 | — | — |
 | <a id="member-3"></a>3 | sase-ns.2--3 | completed | grok-4.6 / grok | 2026-08-16T22:51:48.616926+00:00 | [1](../agents/bbugyi200.athena.sase-ns.2--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-ns.2--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ns.2--3/chat.md) |
 
 ## Commits
@@ -48,10 +48,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ns.1](bbugyi200.athena.sase-ns.1.md) (family · 4) | sase-ns hood | completed 3, failed 1 |
-| [sase-ns.3](bbugyi200.athena.sase-ns.3.md) (family · 2) | sase-ns hood | completed 2 |
-| [sase-ns.4](../agents/bbugyi200.athena.sase-ns.4/README.md) | sase-ns hood | completed |
-| [sase-ns.5](../agents/bbugyi200.athena.sase-ns.5/README.md) | sase-ns hood | completed |
+| [sase-ns.1](bbugyi200.athena.sase-ns.1.md) (family · 4) | sase-ns hood | completed 2, dismissed 1, failed 1 |
+| [sase-ns.3](bbugyi200.athena.sase-ns.3.md) (family · 2) | sase-ns hood | completed 1, dismissed 1 |
+| [sase-ns.4](../agents/bbugyi200.athena.sase-ns.4/README.md) | sase-ns hood | dismissed |
+| [sase-ns.5](../agents/bbugyi200.athena.sase-ns.5/README.md) | sase-ns hood | dismissed |
 | [sase-ns.6.1](bbugyi200.athena.sase-ns.6.1.md) (family · 2) | sase-ns hood | completed 2 |
 | [sase-ns.6.2](bbugyi200.athena.sase-ns.6.2.md) (family · 2) | sase-ns hood | completed 2 |
 | [sase-ns.6.3](../agents/bbugyi200.athena.sase-ns.6.3/README.md) | sase-ns hood | completed |
@@ -62,15 +62,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-ns.6.6.3](../agents/bbugyi200.athena.sase-ns.6.6.3/README.md) | sase-ns hood | completed |
 | [sase-ns.6.6.4](bbugyi200.athena.sase-ns.6.6.4.md) (family · 4) | sase-ns hood | completed 3, failed 1 |
 | [sase-ns.6.6.5](bbugyi200.athena.sase-ns.6.6.5.md) (family · 4) | sase-ns hood | completed 3, failed 1 |
-| [sase-ns.6.6.6.1](bbugyi200.athena.sase-ns.6.6.6.1.md) (family · 4) | sase-ns hood | active 1, completed 2, failed 1 |
-| [sase-ns.6.6.6.2](../agents/bbugyi200.athena.sase-ns.6.6.6.2/README.md) | sase-ns hood | completed |
-| [sase-ns.6.6.6.3](bbugyi200.athena.sase-ns.6.6.6.3.md) (family · 2) | sase-ns hood | completed 2 |
+| [sase-ns.6.6.6.1](bbugyi200.athena.sase-ns.6.6.6.1.md) (family · 4) | sase-ns hood | active 3, failed 1 |
+| [sase-ns.6.6.6.2](../agents/bbugyi200.athena.sase-ns.6.6.6.2/README.md) | sase-ns hood | dismissed |
+| [sase-ns.6.6.6.3](bbugyi200.athena.sase-ns.6.6.6.3.md) (family · 2) | sase-ns hood | completed 1, dismissed 1 |
 | [sase-ns.6.6.6.4](../agents/bbugyi200.athena.sase-ns.6.6.6.4/README.md) | sase-ns hood | dismissed |
-| [sase-ns.6.6.6.5](../agents/bbugyi200.athena.sase-ns.6.6.6.5/README.md) | sase-ns hood | completed |
+| [sase-ns.6.6.6.5](../agents/bbugyi200.athena.sase-ns.6.6.6.5/README.md) | sase-ns hood | dismissed |
 | [sase-ns.6.6.6.land](../agents/bbugyi200.athena.sase-ns.6.6.6.land/README.md) | sase-ns hood | waiting |
 | [sase-ns.6.6.land](bbugyi200.athena.sase-ns.6.6.land.md) (family · 4) | sase-ns hood | completed 1, failed 3 |
 | [sase-ns.6.6.land](../agents/bbugyi200.athena.sase-ns.6.6.land/README.md) | sase-ns hood | completed |
 | [sase-ns.6.land](bbugyi200.athena.sase-ns.6.land.md) (family · 4) | sase-ns hood | completed 1, failed 3 |
 | [sase-ns.6.land](../agents/bbugyi200.athena.sase-ns.6.land/README.md) | sase-ns hood | completed |
-| [sase-ns.land](bbugyi200.athena.sase-ns.land.md) (family · 4) | sase-ns hood | completed 1, failed 3 |
+| [sase-ns.land](bbugyi200.athena.sase-ns.land.md) (family · 4) | sase-ns hood | dismissed 1, failed 3 |
 | [sase-ns.land](../agents/bbugyi200.athena.sase-ns.land/README.md) | sase-ns hood | completed |
