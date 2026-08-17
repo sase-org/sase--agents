@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-2z.split\_file.tests.ace.tui.test\_proc\_observer.0](../bbugyi200.athena.toobig-2z.split_file.tests.ace.tui.test_proc_observer.0/README.md) | toobig-2z.split\_file hood | active |
-| [toobig-2z.split\_file.tests.test\_axe\_chop\_bead\_task\_triage.0](../bbugyi200.athena.toobig-2z.split_file.tests.test_axe_chop_bead_task_triage.0/README.md) | toobig-2z.split\_file hood | waiting |
+| [toobig-2z.split\_file.tests.ace.tui.test\_proc\_observer.0](../bbugyi200.athena.toobig-2z.split_file.tests.ace.tui.test_proc_observer.0/README.md) | toobig-2z.split\_file hood | completed |
+| [toobig-2z.split\_file.tests.test\_axe\_chop\_bead\_task\_triage.0](../bbugyi200.athena.toobig-2z.split_file.tests.test_axe_chop_bead_task_triage.0/README.md) | toobig-2z.split\_file hood | active |

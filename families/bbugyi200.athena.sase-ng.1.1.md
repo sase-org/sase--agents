@@ -29,7 +29,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-ng](bbugyi200.athena.sase-ng.md) (family · 2) | ancestor | failed 2 |
 | [sase-ng.1.2](../agents/bbugyi200.athena.sase-ng.1.2/README.md) | sase-ng.1 hood | completed |
-| [sase-ng.1.3](../agents/bbugyi200.athena.sase-ng.1.3/README.md) | sase-ng.1 hood | active |
+| [sase-ng.1.3](../agents/bbugyi200.athena.sase-ng.1.3/README.md) | sase-ng.1 hood | completed |
 | [sase-ng.1.4](../agents/bbugyi200.athena.sase-ng.1.4/README.md) | sase-ng.1 hood | waiting |
 | [sase-ng.1.5](../agents/bbugyi200.athena.sase-ng.1.5/README.md) | sase-ng.1 hood | waiting |
 | [sase-ng.1.6](../agents/bbugyi200.athena.sase-ng.1.6/README.md) | sase-ng.1 hood | waiting |

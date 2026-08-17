@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-ng
 
-**Global hood:** `bbugyi200.athena.sase-ng` · **Runs:** 11 · **Families:** 2 · **States:** active 2, completed 2, failed 3, waiting 4
+**Global hood:** `bbugyi200.athena.sase-ng` · **Runs:** 11 · **Families:** 2 · **States:** active 1, completed 3, failed 3, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-ng.1.3](../../../../../../agents/bbugyi200.athena.sase-ng.1.3/README.md) | active | sonnet / claude | 2026-08-17T19:18:26.501659+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ng.1.3/prompt.md) |
+| [sase-ng.1.3](../../../../../../agents/bbugyi200.athena.sase-ng.1.3/README.md) | completed | sonnet / claude | 2026-08-17T19:18:26.501659+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ng.1.3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-ng.1.3/chat.md) |
 | [sase-ng.1.5](../../../../../../agents/bbugyi200.athena.sase-ng.1.5/README.md) | waiting | sonnet / claude | 20260817151744 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ng.1.5/prompt.md) |
 | [sase-ng.1.4](../../../../../../agents/bbugyi200.athena.sase-ng.1.4/README.md) | waiting | grok-4.6 / grok | 20260817151743 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ng.1.4/prompt.md) |
 | [sase-ng.1.2](../../../../../../agents/bbugyi200.athena.sase-ng.1.2/README.md) | completed | grok-4.6 / grok | 2026-08-17T19:18:12.786930+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ng.1.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-ng.1.2/chat.md) |

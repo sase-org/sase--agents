@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-fec46cc78fc30d2f8a996a3d3f0ca27c"}
+{"commits":[{"committed_at":1786997664,"sha":"0496d8bdf44cbbf37ae17dd2b30699a503f5fc5e","subject":"test(tui): split test_proc_observer into focused modules"}],"schema_version":2,"source_run_id":"run-fec46cc78fc30d2f8a996a3d3f0ca27c"}
