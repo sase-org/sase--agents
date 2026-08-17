@@ -41,7 +41,7 @@ flowchart TD
   n0 --> n15
   n16["054--9 [completed]"]
   n0 --> n16
-  n17["054--a [active]"]
+  n17["054--a [completed]"]
   n0 --> n17
   n18["054--plan [completed]"]
   n0 --> n18
@@ -74,7 +74,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | 054--code | completed | sonnet / claude | 2026-08-17T17:33:53.476118+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.054--code/chat.md) |
 | <a id="member-3"></a>3 | 054--3 | completed | sonnet / claude | 2026-08-17T18:12:21.877752+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.054--3/prompt.md) | [Chat](../agents/bbugyi200.athena.054--3/chat.md) |
 | <a id="member-9"></a>9 | 054--9 | completed | sonnet / claude | 2026-08-17T18:55:06.737897+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.054--9/prompt.md) | [Chat](../agents/bbugyi200.athena.054--9/chat.md) |
-| <a id="member-a"></a>a | 054--a | active | sonnet / claude | 2026-08-17T19:01:38.162966+00:00 | [1](../agents/bbugyi200.athena.054--a/README.md#commits) | [Prompt](../agents/bbugyi200.athena.054--a/prompt.md) | — |
+| <a id="member-a"></a>a | 054--a | completed | sonnet / claude | 2026-08-17T19:01:38.162966+00:00 | [1](../agents/bbugyi200.athena.054--a/README.md#commits) | [Prompt](../agents/bbugyi200.athena.054--a/prompt.md) | [Chat](../agents/bbugyi200.athena.054--a/chat.md) |
 | <a id="member-plan"></a>plan | 054--plan | completed | opus / claude | 2026-08-17T17:17:34.650381+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.054--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.054--plan/chat.md) |
 | <a id="member-mon-5"></a>mon-5 | 054--mon-5 | failed | sonnet / claude | 2026-08-17T18:24:55.630402+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.054--mon-5/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 054--mon-0 | failed | sonnet / claude | 2026-08-17T17:53:02.590381+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.054--mon-0/chat.md) |

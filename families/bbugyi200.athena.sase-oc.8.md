@@ -21,7 +21,7 @@ flowchart TD
   n0 --> n5
   n6["sase-oc.8--1 [completed]"]
   n0 --> n6
-  n7["sase-oc.8--4 [active]"]
+  n7["sase-oc.8--4 [completed]"]
   n0 --> n7
   n8["sase-oc.8--2 [completed]"]
   n0 --> n8
@@ -38,7 +38,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | sase-oc.8--plan | completed | sonnet / claude | 2026-08-17T18:55:45.291568+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-oc.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-oc.8--plan/chat.md) |
 | <a id="member-3"></a>3 | sase-oc.8--3 | completed | sonnet / claude | 2026-08-17T19:21:08.858284+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-oc.8--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-oc.8--3/chat.md) |
 | <a id="member-1"></a>1 | sase-oc.8--1 | completed | sonnet / claude | 2026-08-17T19:15:55.923618+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-oc.8--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-oc.8--1/chat.md) |
-| <a id="member-4"></a>4 | sase-oc.8--4 | active | sonnet / claude | 2026-08-17T19:36:29.188123+00:00 | [1](../agents/bbugyi200.athena.sase-oc.8--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-oc.8--4/prompt.md) | — |
+| <a id="member-4"></a>4 | sase-oc.8--4 | completed | sonnet / claude | 2026-08-17T19:36:29.188123+00:00 | [1](../agents/bbugyi200.athena.sase-oc.8--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-oc.8--4/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-oc.8--4/chat.md) |
 | <a id="member-2"></a>2 | sase-oc.8--2 | completed | sonnet / claude | 2026-08-17T19:17:11.550018+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-oc.8--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-oc.8--2/chat.md) |
 
 ## Commits
@@ -58,4 +58,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-oc.5](../agents/bbugyi200.athena.sase-oc.5/README.md) | sase-oc hood | completed |
 | [sase-oc.6](../agents/bbugyi200.athena.sase-oc.6/README.md) | sase-oc hood | completed |
 | [sase-oc.7](../agents/bbugyi200.athena.sase-oc.7/README.md) | sase-oc hood | completed |
-| [sase-oc.land](../agents/bbugyi200.athena.sase-oc.land/README.md) | sase-oc hood | waiting |
+| [sase-oc.land](../agents/bbugyi200.athena.sase-oc.land/README.md) | sase-oc hood | completed |

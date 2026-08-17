@@ -26,5 +26,5 @@
 | [sase-op.2](../bbugyi200.athena.sase-op.2/README.md) | sase-op hood | dismissed |
 | [sase-op.3](../bbugyi200.athena.sase-op.3/README.md) | sase-op hood | completed |
 | [sase-op.4](../bbugyi200.athena.sase-op.4/README.md) | sase-op hood | completed |
-| [sase-op.6](../bbugyi200.athena.sase-op.6/README.md) | sase-op hood | active |
-| [sase-op.land](../bbugyi200.athena.sase-op.land/README.md) | sase-op hood | waiting |
+| [sase-op.6](../bbugyi200.athena.sase-op.6/README.md) | sase-op hood | completed |
+| [sase-op.land](../../families/bbugyi200.athena.sase-op.land.md) (family · 3) | sase-op hood | active 1, completed 1, failed 1 |

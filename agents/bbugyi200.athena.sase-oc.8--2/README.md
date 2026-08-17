@@ -29,4 +29,4 @@
 | [sase-oc.5](../bbugyi200.athena.sase-oc.5/README.md) | sase-oc hood | completed |
 | [sase-oc.6](../bbugyi200.athena.sase-oc.6/README.md) | sase-oc hood | completed |
 | [sase-oc.7](../bbugyi200.athena.sase-oc.7/README.md) | sase-oc hood | completed |
-| [sase-oc.land](../bbugyi200.athena.sase-oc.land/README.md) | sase-oc hood | waiting |
+| [sase-oc.land](../bbugyi200.athena.sase-oc.land/README.md) | sase-oc hood | completed |

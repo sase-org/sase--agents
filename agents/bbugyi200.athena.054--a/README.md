@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [054](../../users/bbugyi200/machines/athena/hoods/054/README.md) / [054](../../families/bbugyi200.athena.054.md) / 054--a
 
-**Global name:** `bbugyi200.athena.054--a` · **State:** active · **Source run:** `run-dd73d0d8a5ea9ec787385c439fc5e7bb`
+**Global name:** `bbugyi200.athena.054--a` · **State:** completed · **Source run:** `run-dd73d0d8a5ea9ec787385c439fc5e7bb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 054
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 

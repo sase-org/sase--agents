@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-on.5--plan [completed]"]
   n1["sase-on.5--mon [failed]"]
   n0 --> n1
-  n2["sase-on.5--1 [active]"]
+  n2["sase-on.5--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-on.5--plan | completed | grok-4.6 / grok | 2026-08-17T17:52:39.864629+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-on.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-on.5--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-on.5--mon | failed | grok-4.6 / grok | 2026-08-17T18:06:42.810978+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-on.5--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-on.5--1 | active | grok-4.6 / grok | 2026-08-17T18:09:54.108505+00:00 | [2](../agents/bbugyi200.athena.sase-on.5--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-on.5--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-on.5--1 | completed | grok-4.6 / grok | 2026-08-17T18:09:54.108505+00:00 | [2](../agents/bbugyi200.athena.sase-on.5--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-on.5--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-on.5--1/chat.md) |
 
 ## Commits
 
@@ -38,4 +38,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-on.2](../agents/bbugyi200.athena.sase-on.2/README.md) | sase-on hood | completed |
 | [sase-on.3](../agents/bbugyi200.athena.sase-on.3/README.md) | sase-on hood | completed |
 | [sase-on.4](../agents/bbugyi200.athena.sase-on.4/README.md) | sase-on hood | completed |
-| [sase-on.land](../agents/bbugyi200.athena.sase-on.land/README.md) | sase-on hood | waiting |
+| [sase-on.land](bbugyi200.athena.sase-on.land.md) (family · 5) | sase-on hood | completed 3, failed 2 |
