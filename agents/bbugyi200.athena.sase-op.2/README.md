@@ -12,15 +12,21 @@
 - Model: —
 - Provider: —
 - Timing: 2026-08-17T12:04:16
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`eaafcbe`](https://github.com/sase-org/sase/commit/eaafcbe7253899bce21637194ba6424a5a3e4f2c) | feat(init)!: retire generated glossary note for a Tier 2 instruction block | 2026-08-17 13:06:54 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-op.1](../bbugyi200.athena.sase-op.1/README.md) | sase-op hood | completed |
-| [sase-op.3](../bbugyi200.athena.sase-op.3/README.md) | sase-op hood | active |
-| [sase-op.4](../bbugyi200.athena.sase-op.4/README.md) | sase-op hood | waiting |
+| [sase-op.3](../bbugyi200.athena.sase-op.3/README.md) | sase-op hood | completed |
+| [sase-op.4](../bbugyi200.athena.sase-op.4/README.md) | sase-op hood | active |
 | [sase-op.5](../bbugyi200.athena.sase-op.5/README.md) | sase-op hood | waiting |
 | [sase-op.6](../bbugyi200.athena.sase-op.6/README.md) | sase-op hood | waiting |
 | [sase-op.land](../bbugyi200.athena.sase-op.land/README.md) | sase-op hood | waiting |

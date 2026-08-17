@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-450e89c130caafb255dad1ce0d62e24b"}
+{"commits":[{"committed_at":1786985472,"sha":"5ccb38d7291b5a3dcc8ce864929e78765fb8f79f","subject":"feat(glossary): add shared resolver and JSONL read-log"}],"schema_version":2,"source_run_id":"run-450e89c130caafb255dad1ce0d62e24b"}
