@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:04l This worked, but keep in mind that proc shells in agent families should be collapsed under that agent family by default and shown on-demand (e.g. by selecting the parent agent family and then using the `l` keymap to expand that family). Can you help me fix this? #plan

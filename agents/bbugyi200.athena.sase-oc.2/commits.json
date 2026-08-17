@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-083847356f24f66a06eb9ac4f7b3d053"}
+{"commits":[{"committed_at":1786978433,"sha":"1482fc1dc573af7f34dfb872110d822ee3b72eb0","subject":"feat(completion): add native zsh emitter and sase completion CLI"}],"schema_version":2,"source_run_id":"run-083847356f24f66a06eb9ac4f7b3d053"}

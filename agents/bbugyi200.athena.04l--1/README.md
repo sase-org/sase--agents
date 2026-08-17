@@ -16,3 +16,9 @@
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [04l.f1](../../families/bbugyi200.athena.04l.f1.md) (family · 2) | descendant | completed 2 |
