@@ -1,15 +1,15 @@
-# Family: sase-ns.6.2
+# Family: sase-ns.6.1
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-ns](../users/bbugyi200/machines/athena/hoods/sase-ns/README.md) / sase-ns.6.2
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-ns](../users/bbugyi200/machines/athena/hoods/sase-ns/README.md) / sase-ns.6.1
 
-Owner: `bbugyi200.athena` · Hood: `sase-ns` · Members: 2 · Bead: [sase-ns.6.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ns/sase-ns.6.2.md)
+Owner: `bbugyi200.athena` · Hood: `sase-ns` · Members: 2 · Bead: [sase-ns.6.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ns/sase-ns.6.1.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-ns.6.2--code [active]"]
-  n1["sase-ns.6.2--plan [active]"]
+  n0["sase-ns.6.1--code [active]"]
+  n1["sase-ns.6.1--plan [active]"]
   n0 --> n1
 ```
 
@@ -17,20 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-ns.6.2--code | active | gpt-5.5 / codex | 2026-08-17T01:07:46.586897+00:00 | [1](../agents/bbugyi200.athena.sase-ns.6.2--code/README.md#commits) | — | — |
-| <a id="member-plan"></a>plan | sase-ns.6.2--plan | active | gpt-5.6-sol / codex | 2026-08-17T01:03:32.339095+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ns.6.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ns.6.2--plan/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| code | sase | [`d9b2984`](https://github.com/sase-org/sase/commit/d9b2984a7b54e5c0788513755a2cf165ea673919) | fix(tui): isolate config center state replacement | 2026-08-16 21:44:57 EDT |
+| <a id="member-code"></a>code | sase-ns.6.1--code | active | sonnet / claude | 2026-08-17T01:11:45.599462+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-ns.6.1--plan | active | opus / claude | 2026-08-17T01:03:29.481226+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ns.6.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ns.6.1--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ns.6.1](bbugyi200.athena.sase-ns.6.1.md) (family · 2) | sase-ns.6 hood | active 2 |
+| [sase-ns.6.2](bbugyi200.athena.sase-ns.6.2.md) (family · 2) | sase-ns.6 hood | active 2 |
 | [sase-ns.6.3](../agents/bbugyi200.athena.sase-ns.6.3/README.md) | sase-ns.6 hood | completed |
 | [sase-ns.6.4](../agents/bbugyi200.athena.sase-ns.6.4/README.md) | sase-ns.6 hood | completed |
 | [sase-ns.6.5](../agents/bbugyi200.athena.sase-ns.6.5/README.md) | sase-ns.6 hood | active |

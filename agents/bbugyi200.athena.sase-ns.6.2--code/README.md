@@ -13,15 +13,21 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-17T01:07:46.586897+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`d9b2984`](https://github.com/sase-org/sase/commit/d9b2984a7b54e5c0788513755a2cf165ea673919) | fix(tui): isolate config center state replacement | 2026-08-16 21:44:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ns.6.1](../bbugyi200.athena.sase-ns.6.1/README.md) | sase-ns.6 hood | active |
-| [sase-ns.6.3](../bbugyi200.athena.sase-ns.6.3/README.md) | sase-ns.6 hood | active |
-| [sase-ns.6.4](../bbugyi200.athena.sase-ns.6.4/README.md) | sase-ns.6 hood | active |
+| [sase-ns.6.1](../../families/bbugyi200.athena.sase-ns.6.1.md) (family · 2) | sase-ns.6 hood | active 2 |
+| [sase-ns.6.3](../bbugyi200.athena.sase-ns.6.3/README.md) | sase-ns.6 hood | completed |
+| [sase-ns.6.4](../bbugyi200.athena.sase-ns.6.4/README.md) | sase-ns.6 hood | completed |
 | [sase-ns.6.5](../bbugyi200.athena.sase-ns.6.5/README.md) | sase-ns.6 hood | active |
 | [sase-ns.6.land](../bbugyi200.athena.sase-ns.6.land/README.md) | sase-ns.6 hood | waiting |
 | [sase-ns.1](../../families/bbugyi200.athena.sase-ns.1.md) (family · 4) | sase-ns hood | completed 3, failed 1 |
