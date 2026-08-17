@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3d1f50baa5c1754cd1129c2ebba94113"}
+{"commits":[{"committed_at":1786968135,"sha":"b25f10a720e7de2866acbd135a6ee007c9a5ba50","subject":"refactor(flags): split the flag CLI into per-subcommand modules"}],"schema_version":2,"source_run_id":"run-3d1f50baa5c1754cd1129c2ebba94113"}

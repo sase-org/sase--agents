@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me change the `B` / `I` keymaps (used to change the grouping strategy of the agents / artifacts tabs) back to `o` / `O`? You'll probably need to update the existing `o` keymaps on the artifacts tab (use a different trigger key for these). #plan

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-2x](../../users/bbugyi200/machines/athena/hoods/toobig-2x/README.md) / toobig-2x.split\_file.src.sase.feature\_flags.cli.0
 
-**Global name:** `bbugyi200.athena.toobig-2x.split_file.src.sase.feature_flags.cli.0` · **State:** waiting · **Source run:** `run-3d1f50baa5c1754cd1129c2ebba94113`
+**Global name:** `bbugyi200.athena.toobig-2x.split_file.src.sase.feature_flags.cli.0` · **State:** active · **Source run:** `run-3d1f50baa5c1754cd1129c2ebba94113`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-2x
 
@@ -10,12 +10,18 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20260817061634
-- Commits: 0
+- Timing: 2026-08-17T11:45:36.257192+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`b25f10a`](https://github.com/sase-org/sase/commit/b25f10a720e7de2866acbd135a6ee007c9a5ba50) | refactor(flags): split the flag CLI into per-subcommand modules | 2026-08-17 08:02:15 EDT |
 
 ## Neighbors
 

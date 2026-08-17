@@ -6,6 +6,6 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [04f--plan](../../../../../../families/bbugyi200.athena.04f.md#member-plan) | active | opus / claude | 2026-08-17T10:22:20.939359+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.04f--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.04f--plan/chat.md) |
+| [04f--plan](../../../../../../families/bbugyi200.athena.04f.md#member-plan) | active | opus / claude | 2026-08-17T10:22:20.939359+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.04f--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.04f--plan/prompt.md) |
 | [04f.cld](../../../../../../agents/bbugyi200.athena.04f.cld/README.md) | completed | — | 2026-06-23T15:20:55+00:00 → 2026-06-23T15:37:35+00:00 | 2 | — |
 | [04f--code](../../../../../../families/bbugyi200.athena.04f.md#member-code) | active | sonnet / claude | 2026-08-17T10:40:22.687320+00:00 | 1 | — |
