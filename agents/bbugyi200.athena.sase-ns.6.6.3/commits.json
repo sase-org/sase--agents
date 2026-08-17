@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3b2996adc48c43464f6a380df4e9a495"}
+{"commits":[{"committed_at":1786954875,"sha":"2f41353b5fc05fb764b887d31dde2e936cabdebf","subject":"perf(monitor): bound settle-path artifact-index reads"}],"schema_version":2,"source_run_id":"run-3b2996adc48c43464f6a380df4e9a495"}

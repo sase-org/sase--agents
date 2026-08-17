@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ns](../../users/bbugyi200/machines/athena/hoods/sase-ns/README.md) / sase-ns.6.6.4
 
-**Global name:** `bbugyi200.athena.sase-ns.6.6.4` · **State:** waiting · **Source run:** `run-78d0546cb29bc904c81780936238e087`
+**Global name:** `bbugyi200.athena.sase-ns.6.6.4` · **State:** active · **Source run:** `run-78d0546cb29bc904c81780936238e087`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ns
 
@@ -12,7 +12,7 @@
 - Epic: [sase-ns.6.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ns/sase-ns.6.6.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260817040349
+- Timing: 2026-08-17T08:17:53.230245+00:00
 - Commits: 0
 
 ## Files
@@ -23,10 +23,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ns.6.6.1](../bbugyi200.athena.sase-ns.6.6.1/README.md) | sase-ns.6.6 hood | active |
+| [sase-ns.6.6.1](../bbugyi200.athena.sase-ns.6.6.1/README.md) | sase-ns.6.6 hood | completed |
 | [sase-ns.6.6.2](../bbugyi200.athena.sase-ns.6.6.2/README.md) | sase-ns.6.6 hood | active |
 | [sase-ns.6.6.3](../bbugyi200.athena.sase-ns.6.6.3/README.md) | sase-ns.6.6 hood | active |
-| [sase-ns.6.6.5](../bbugyi200.athena.sase-ns.6.6.5/README.md) | sase-ns.6.6 hood | waiting |
+| [sase-ns.6.6.5](../bbugyi200.athena.sase-ns.6.6.5/README.md) | sase-ns.6.6 hood | active |
 | [sase-ns.6.6.land](../bbugyi200.athena.sase-ns.6.6.land/README.md) | sase-ns.6.6 hood | waiting |
 | [sase-ns.6.1](../../families/bbugyi200.athena.sase-ns.6.1.md) (family · 2) | sase-ns.6 hood | completed 2 |
 | [sase-ns.6.2](../../families/bbugyi200.athena.sase-ns.6.2.md) (family · 2) | sase-ns.6 hood | completed 2 |
