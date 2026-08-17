@@ -31,6 +31,6 @@
 |---|---|---|
 | [sase-o9.1](../bbugyi200.athena.sase-o9.1/README.md) | sase-o9 hood | completed |
 | [sase-o9.3](../bbugyi200.athena.sase-o9.3/README.md) | sase-o9 hood | completed |
-| [sase-o9.4](../bbugyi200.athena.sase-o9.4/README.md) | sase-o9 hood | active |
-| [sase-o9.5](../bbugyi200.athena.sase-o9.5/README.md) | sase-o9 hood | waiting |
-| [sase-o9.land](../bbugyi200.athena.sase-o9.land/README.md) | sase-o9 hood | waiting |
+| [sase-o9.4](../bbugyi200.athena.sase-o9.4/README.md) | sase-o9 hood | completed |
+| [sase-o9.5](../bbugyi200.athena.sase-o9.5/README.md) | sase-o9 hood | completed |
+| [sase-o9.land](../bbugyi200.athena.sase-o9.land/README.md) | sase-o9 hood | active |

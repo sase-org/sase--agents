@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1949182ff92d227deb97f1c00fa39ab6"}
+{"commits":[{"committed_at":1786972152,"sha":"5abf9eb64e3cc85b50ccf5d91d77f78c4a83a767","subject":"feat(ace-tui): render ranking evidence on placeholder completion rows"}],"schema_version":2,"source_run_id":"run-1949182ff92d227deb97f1c00fa39ab6"}
