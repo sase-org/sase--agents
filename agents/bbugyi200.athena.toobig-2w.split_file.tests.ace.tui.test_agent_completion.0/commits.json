@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4dd67d27ab25fa8f69a7ba9fcf01ef04"}
+{"commits":[{"committed_at":1786929938,"sha":"aabbd245b03b61a3c0c4e9a676f19ece5675b16c","subject":"test: split agent completion visibility coverage"}],"schema_version":2,"source_run_id":"run-4dd67d27ab25fa8f69a7ba9fcf01ef04"}
