@@ -11,11 +11,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-17T20:17:56.653472+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`384063d`](https://github.com/sase-org/sase/commit/384063deb84e6f53d8153ef7dbe29d4b21569cf7) | test(axe): split task-triage chop tests into focused modules | 2026-08-17 16:30:25 EDT |
 
 ## Neighbors
 
