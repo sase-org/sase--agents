@@ -13,17 +13,23 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-17T01:05:37.956938+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`0a5074d`](https://github.com/sase-org/sase/commit/0a5074df7307b26aaedbea69f4f0715bf4f6af8a) | test: regenerate stale artifacts\_beads PNG goldens for flag-bead chrome | 2026-08-16 21:39:02 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-nb.11.1](../../families/bbugyi200.athena.sase-nb.11.1.md) (family · 2) | sase-nb.11 hood | active 2 |
+| [sase-nb.11.1](../../families/bbugyi200.athena.sase-nb.11.1.md) (family · 2) | sase-nb.11 hood | completed 2 |
 | [sase-nb.11.2](../bbugyi200.athena.sase-nb.11.2/README.md) | sase-nb.11 hood | completed |
 | [sase-nb.11.4](../bbugyi200.athena.sase-nb.11.4/README.md) | sase-nb.11 hood | active |
 | [sase-nb.11.5](../bbugyi200.athena.sase-nb.11.5/README.md) | sase-nb.11 hood | completed |

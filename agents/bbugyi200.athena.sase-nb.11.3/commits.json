@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-9415f3f2b63c62971de852cd554d3b2b"}
+{"commits":[{"committed_at":1786930742,"sha":"0a5074df7307b26aaedbea69f4f0715bf4f6af8a","subject":"test: regenerate stale artifacts_beads PNG goldens for flag-bead chrome"}],"schema_version":2,"source_run_id":"run-9415f3f2b63c62971de852cd554d3b2b"}

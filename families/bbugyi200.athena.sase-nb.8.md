@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-nb.1](../agents/bbugyi200.athena.sase-nb.1/README.md) | sase-nb hood | completed |
 | [sase-nb.10](../agents/bbugyi200.athena.sase-nb.10/README.md) | sase-nb hood | completed |
-| [sase-nb.11.1](bbugyi200.athena.sase-nb.11.1.md) (family · 2) | sase-nb hood | active 2 |
+| [sase-nb.11.1](bbugyi200.athena.sase-nb.11.1.md) (family · 2) | sase-nb hood | completed 2 |
 | [sase-nb.11.2](../agents/bbugyi200.athena.sase-nb.11.2/README.md) | sase-nb hood | completed |
 | [sase-nb.11.3](../agents/bbugyi200.athena.sase-nb.11.3/README.md) | sase-nb hood | active |
 | [sase-nb.11.4](../agents/bbugyi200.athena.sase-nb.11.4/README.md) | sase-nb hood | active |

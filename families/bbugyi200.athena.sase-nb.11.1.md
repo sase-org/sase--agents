@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-nb` · Members: 2 · Bead: [sase-nb.11.
 
 ```mermaid
 flowchart TD
-  n0["sase-nb.11.1--plan [active]"]
-  n1["sase-nb.11.1--1 [active]"]
+  n0["sase-nb.11.1--plan [completed]"]
+  n1["sase-nb.11.1--1 [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-nb.11.1--plan | active | grok-4.6 / grok | 2026-08-17T01:05:25.975935+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-nb.11.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-nb.11.1--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-nb.11.1--1 | active | grok-4.6 / grok | 2026-08-17T01:17:37.915174+00:00 | [1](../agents/bbugyi200.athena.sase-nb.11.1--1/README.md#commits) | — | — |
+| <a id="member-plan"></a>plan | sase-nb.11.1--plan | completed | grok-4.6 / grok | 2026-08-17T01:05:25.975935+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-nb.11.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-nb.11.1--plan/chat.md) |
+| <a id="member-1"></a>1 | sase-nb.11.1--1 | completed | grok-4.6 / grok | 2026-08-17T01:17:37.915174+00:00 | [1](../agents/bbugyi200.athena.sase-nb.11.1--1/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-nb.11.1--1/chat.md) |
 
 ## Commits
 
