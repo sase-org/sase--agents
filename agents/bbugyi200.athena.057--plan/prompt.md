@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start collapsing the ancestor panel on "Artifacts" tab sub-tabs by default? As a part of this change make it much clearer, when the ancestor panel is collapsed, how the user can expand it. #bea #plan

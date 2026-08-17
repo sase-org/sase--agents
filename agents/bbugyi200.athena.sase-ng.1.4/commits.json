@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-37c8949efe1c1cebd8b8daba1c706b63"}
+{"commits":[{"committed_at":1787000792,"sha":"0f7d86a662c4c6e66bedbe248079f96f991adf89","subject":"refactor(tui): retire in-process launch body and fan-out dispatchers"}],"schema_version":2,"source_run_id":"run-37c8949efe1c1cebd8b8daba1c706b63"}

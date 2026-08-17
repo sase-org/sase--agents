@@ -25,7 +25,7 @@
 | [sase-ng.1.1](../../families/bbugyi200.athena.sase-ng.1.1.md) (family · 3) | descendant | completed 2, failed 1 |
 | [sase-ng.1.2](../bbugyi200.athena.sase-ng.1.2/README.md) | descendant | completed |
 | [sase-ng.1.3](../bbugyi200.athena.sase-ng.1.3/README.md) | descendant | completed |
-| [sase-ng.1.4](../bbugyi200.athena.sase-ng.1.4/README.md) | descendant | active |
-| [sase-ng.1.5](../bbugyi200.athena.sase-ng.1.5/README.md) | descendant | waiting |
-| [sase-ng.1.6](../bbugyi200.athena.sase-ng.1.6/README.md) | descendant | waiting |
-| [sase-ng.1.land](../bbugyi200.athena.sase-ng.1.land/README.md) | descendant | waiting |
+| [sase-ng.1.4](../bbugyi200.athena.sase-ng.1.4/README.md) | descendant | completed |
+| [sase-ng.1.5](../../families/bbugyi200.athena.sase-ng.1.5.md) (family · 3) | descendant | completed 2, failed 1 |
+| [sase-ng.1.6](../../families/bbugyi200.athena.sase-ng.1.6.md) (family · 3) | descendant | completed 2, failed 1 |
+| [sase-ng.1.land](../bbugyi200.athena.sase-ng.1.land/README.md) | descendant | active |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ng](../../users/bbugyi200/machines/athena/hoods/sase-ng/README.md) / sase-ng.1.land
 
-**Global name:** `bbugyi200.athena.sase-ng.1.land` · **State:** waiting · **Source run:** `run-b73b221239a66429c705b02982a2a755`
+**Global name:** `bbugyi200.athena.sase-ng.1.land` · **State:** active · **Source run:** `run-b73b221239a66429c705b02982a2a755`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ng
 
@@ -11,7 +11,7 @@
 - Bead: [sase-ng.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ng/sase-ng.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260817151746
+- Timing: 2026-08-17T22:43:24.485726+00:00
 - Commits: 0
 
 ## Files
@@ -26,6 +26,6 @@
 | [sase-ng.1.1](../../families/bbugyi200.athena.sase-ng.1.1.md) (family · 3) | sase-ng.1 hood | completed 2, failed 1 |
 | [sase-ng.1.2](../bbugyi200.athena.sase-ng.1.2/README.md) | sase-ng.1 hood | completed |
 | [sase-ng.1.3](../bbugyi200.athena.sase-ng.1.3/README.md) | sase-ng.1 hood | completed |
-| [sase-ng.1.4](../bbugyi200.athena.sase-ng.1.4/README.md) | sase-ng.1 hood | active |
-| [sase-ng.1.5](../bbugyi200.athena.sase-ng.1.5/README.md) | sase-ng.1 hood | waiting |
-| [sase-ng.1.6](../bbugyi200.athena.sase-ng.1.6/README.md) | sase-ng.1 hood | waiting |
+| [sase-ng.1.4](../bbugyi200.athena.sase-ng.1.4/README.md) | sase-ng.1 hood | completed |
+| [sase-ng.1.5](../../families/bbugyi200.athena.sase-ng.1.5.md) (family · 3) | sase-ng.1 hood | completed 2, failed 1 |
+| [sase-ng.1.6](../../families/bbugyi200.athena.sase-ng.1.6.md) (family · 3) | sase-ng.1 hood | completed 2, failed 1 |
