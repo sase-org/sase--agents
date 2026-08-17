@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ns](../../users/bbugyi200/machines/athena/hoods/sase-ns/README.md) / [sase-ns.6.2](../../families/bbugyi200.athena.sase-ns.6.2.md) / sase-ns.6.2--plan
 
-**Global name:** `bbugyi200.athena.sase-ns.6.2--plan` · **State:** active · **Source run:** `run-e77552113322de28589ce9bf7fa65fd8`
+**Global name:** `bbugyi200.athena.sase-ns.6.2--plan` · **State:** completed · **Source run:** `run-e77552113322de28589ce9bf7fa65fd8`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ns
 

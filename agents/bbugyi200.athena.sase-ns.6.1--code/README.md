@@ -13,13 +13,19 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-17T01:11:45.599462+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`6000a54`](https://github.com/sase-org/sase/commit/6000a54a1894375ed21f68b3e2c44026b2dcd481) | feat(selection-health): retire a fixed node's historical flake evidence | 2026-08-16 21:47:13 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ns.6.2](../../families/bbugyi200.athena.sase-ns.6.2.md) (family · 2) | sase-ns.6 hood | active 2 |
+| [sase-ns.6.2](../../families/bbugyi200.athena.sase-ns.6.2.md) (family · 2) | sase-ns.6 hood | completed 2 |
 | [sase-ns.6.3](../bbugyi200.athena.sase-ns.6.3/README.md) | sase-ns.6 hood | completed |
 | [sase-ns.6.4](../bbugyi200.athena.sase-ns.6.4/README.md) | sase-ns.6 hood | completed |
 | [sase-ns.6.5](../bbugyi200.athena.sase-ns.6.5/README.md) | sase-ns.6 hood | active |

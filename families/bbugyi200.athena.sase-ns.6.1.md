@@ -17,14 +17,20 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-ns.6.1--code | active | sonnet / claude | 2026-08-17T01:11:45.599462+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-ns.6.1--code | active | sonnet / claude | 2026-08-17T01:11:45.599462+00:00 | [1](../agents/bbugyi200.athena.sase-ns.6.1--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-ns.6.1--plan | active | opus / claude | 2026-08-17T01:03:29.481226+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ns.6.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ns.6.1--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`6000a54`](https://github.com/sase-org/sase/commit/6000a54a1894375ed21f68b3e2c44026b2dcd481) | feat(selection-health): retire a fixed node's historical flake evidence | 2026-08-16 21:47:13 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ns.6.2](bbugyi200.athena.sase-ns.6.2.md) (family · 2) | sase-ns.6 hood | active 2 |
+| [sase-ns.6.2](bbugyi200.athena.sase-ns.6.2.md) (family · 2) | sase-ns.6 hood | completed 2 |
 | [sase-ns.6.3](../agents/bbugyi200.athena.sase-ns.6.3/README.md) | sase-ns.6 hood | completed |
 | [sase-ns.6.4](../agents/bbugyi200.athena.sase-ns.6.4/README.md) | sase-ns.6 hood | completed |
 | [sase-ns.6.5](../agents/bbugyi200.athena.sase-ns.6.5/README.md) | sase-ns.6 hood | active |
