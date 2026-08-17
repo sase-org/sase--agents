@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ns](../../users/bbugyi200/machines/athena/hoods/sase-ns/README.md) / [sase-ns.6.6.4](../../families/bbugyi200.athena.sase-ns.6.6.4.md) / sase-ns.6.6.4--1
 
-**Global name:** `bbugyi200.athena.sase-ns.6.6.4--1` · **State:** active · **Source run:** `run-ca9f128473fc44faa2b022afb5dece9b`
+**Global name:** `bbugyi200.athena.sase-ns.6.6.4--1` · **State:** completed · **Source run:** `run-ca9f128473fc44faa2b022afb5dece9b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ns
 
@@ -16,7 +16,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -25,8 +25,8 @@
 | [sase-ns.6.6.1](../bbugyi200.athena.sase-ns.6.6.1/README.md) | sase-ns.6.6 hood | completed |
 | [sase-ns.6.6.2](../bbugyi200.athena.sase-ns.6.6.2/README.md) | sase-ns.6.6 hood | completed |
 | [sase-ns.6.6.3](../bbugyi200.athena.sase-ns.6.6.3/README.md) | sase-ns.6.6 hood | completed |
-| [sase-ns.6.6.5](../../families/bbugyi200.athena.sase-ns.6.6.5.md) (family · 2) | sase-ns.6.6 hood | active 2 |
-| [sase-ns.6.6.land](../bbugyi200.athena.sase-ns.6.6.land/README.md) | sase-ns.6.6 hood | waiting |
+| [sase-ns.6.6.5](../../families/bbugyi200.athena.sase-ns.6.6.5.md) (family · 4) | sase-ns.6.6 hood | completed 3, failed 1 |
+| [sase-ns.6.6.land](../bbugyi200.athena.sase-ns.6.6.land/README.md) | sase-ns.6.6 hood | active |
 | [sase-ns.6.1](../../families/bbugyi200.athena.sase-ns.6.1.md) (family · 2) | sase-ns.6 hood | completed 2 |
 | [sase-ns.6.2](../../families/bbugyi200.athena.sase-ns.6.2.md) (family · 2) | sase-ns.6 hood | completed 2 |
 | [sase-ns.6.3](../bbugyi200.athena.sase-ns.6.3/README.md) | sase-ns.6 hood | completed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ns](../../users/bbugyi200/machines/athena/hoods/sase-ns/README.md) / sase-ns.6.6.land
 
-**Global name:** `bbugyi200.athena.sase-ns.6.6.land` · **State:** waiting · **Source run:** `run-cd17c30342634613282adc4741d59382`
+**Global name:** `bbugyi200.athena.sase-ns.6.6.land` · **State:** active · **Source run:** `run-cd17c30342634613282adc4741d59382`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ns
 
@@ -11,12 +11,18 @@
 - Bead: [sase-ns.6.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ns/sase-ns.6.6.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260817040351
-- Commits: 0
+- Timing: 2026-08-17T09:12:37.784338+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`cf7eeee`](https://github.com/sase-org/sase/commit/cf7eeee03f6c779e0ac4ba9f202a6cf5b2968dab) | test: retire the deflaked monitor and approval nodes | 2026-08-17 05:25:58 EDT |
 
 ## Neighbors
 
@@ -25,8 +31,8 @@
 | [sase-ns.6.6.1](../bbugyi200.athena.sase-ns.6.6.1/README.md) | sase-ns.6.6 hood | completed |
 | [sase-ns.6.6.2](../bbugyi200.athena.sase-ns.6.6.2/README.md) | sase-ns.6.6 hood | completed |
 | [sase-ns.6.6.3](../bbugyi200.athena.sase-ns.6.6.3/README.md) | sase-ns.6.6 hood | completed |
-| [sase-ns.6.6.4](../../families/bbugyi200.athena.sase-ns.6.6.4.md) (family · 4) | sase-ns.6.6 hood | active 1, completed 2, failed 1 |
-| [sase-ns.6.6.5](../../families/bbugyi200.athena.sase-ns.6.6.5.md) (family · 2) | sase-ns.6.6 hood | active 2 |
+| [sase-ns.6.6.4](../../families/bbugyi200.athena.sase-ns.6.6.4.md) (family · 4) | sase-ns.6.6 hood | completed 3, failed 1 |
+| [sase-ns.6.6.5](../../families/bbugyi200.athena.sase-ns.6.6.5.md) (family · 4) | sase-ns.6.6 hood | completed 3, failed 1 |
 | [sase-ns.6.1](../../families/bbugyi200.athena.sase-ns.6.1.md) (family · 2) | sase-ns.6 hood | completed 2 |
 | [sase-ns.6.2](../../families/bbugyi200.athena.sase-ns.6.2.md) (family · 2) | sase-ns.6 hood | completed 2 |
 | [sase-ns.6.3](../bbugyi200.athena.sase-ns.6.3/README.md) | sase-ns.6 hood | completed |
