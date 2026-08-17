@@ -1,0 +1,11 @@
+- **AGENTS:**
+  - [bbugyi200.athena.research.0o.cdx](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.research.0o.cdx/README.md)
+
+%clan(research.0o, tribe=research,
+summary=[[[bold]RESEARCH PROMPT:[/bold] I would like to add support to the `sase` command for excellent command-line completion. We should ideally support this for all common shells, but I want to sure we have excellent support for ZSH at the very least. Can you do some research with the goal of helping me decide the best way to implement this? End your analysis with a recommended solution.]])
+%id:research.0o.cdx %wait(priority=20) %model:@research_a #gh:gh_sase-org__sase I
+would like to add support to the `sase` command for excellent command-line completion.
+We should ideally support this for all common shells, but I want to sure we have
+excellent support for ZSH at the very least. Can you do some research with the goal of
+helping me decide the best way to implement this? End your analysis with a recommended
+solution. #research
