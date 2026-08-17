@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-nb](../../users/bbugyi200/machines/athena/hoods/sase-nb/README.md) / sase-nb.11.4
 
-**Global name:** `bbugyi200.athena.sase-nb.11.4` · **State:** active · **Source run:** `run-9e4a0931c174d4b1662d61b8e5a1e788`
+**Global name:** `bbugyi200.athena.sase-nb.11.4` · **State:** completed · **Source run:** `run-9e4a0931c174d4b1662d61b8e5a1e788`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-nb
 
@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-17T01:05:44.465954+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`dd79cf1`](https://github.com/sase-org/sase/commit/dd79cf142f405ad290f485133e087bc6cddb253a) | test: cover flag triage response translation | 2026-08-16 21:46:56 EDT |
 
 ## Neighbors
 
@@ -25,7 +31,7 @@
 |---|---|---|
 | [sase-nb.11.1](../../families/bbugyi200.athena.sase-nb.11.1.md) (family · 2) | sase-nb.11 hood | completed 2 |
 | [sase-nb.11.2](../bbugyi200.athena.sase-nb.11.2/README.md) | sase-nb.11 hood | completed |
-| [sase-nb.11.3](../bbugyi200.athena.sase-nb.11.3/README.md) | sase-nb.11 hood | active |
+| [sase-nb.11.3](../bbugyi200.athena.sase-nb.11.3/README.md) | sase-nb.11 hood | completed |
 | [sase-nb.11.5](../bbugyi200.athena.sase-nb.11.5/README.md) | sase-nb.11 hood | completed |
 | [sase-nb.11.land](../bbugyi200.athena.sase-nb.11.land/README.md) | sase-nb.11 hood | waiting |
 | [sase-nb.1](../bbugyi200.athena.sase-nb.1/README.md) | sase-nb hood | completed |
