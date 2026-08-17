@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ns](../../users/bbugyi200/machines/athena/hoods/sase-ns/README.md) / [sase-ns.6.6.6.3](../../families/bbugyi200.athena.sase-ns.6.6.6.3.md) / sase-ns.6.6.6.3--code
 
-**Global name:** `bbugyi200.athena.sase-ns.6.6.6.3--code` · **State:** active · **Source run:** `run-6b48f3e21d53bff1f8c31b4b75a59c3d`
+**Global name:** `bbugyi200.athena.sase-ns.6.6.6.3--code` · **State:** completed · **Source run:** `run-6b48f3e21d53bff1f8c31b4b75a59c3d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ns
 
@@ -13,14 +13,24 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-17T10:15:47.285895+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`44df0bf`](https://github.com/sase-org/sase/commit/44df0bfb420c3fd2b291e7ed2aace67046fd0b0b) | test(monitor): deflake the supervise no-hang bounds | 2026-08-17 06:50:23 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ns.6.6.6.1](../../families/bbugyi200.athena.sase-ns.6.6.6.1.md) (family · 2) | sase-ns.6.6.6 hood | active 2 |
-| [sase-ns.6.6.6.2](../bbugyi200.athena.sase-ns.6.6.6.2/README.md) | sase-ns.6.6.6 hood | active |
+| [sase-ns.6.6.6.1](../../families/bbugyi200.athena.sase-ns.6.6.6.1.md) (family · 4) | sase-ns.6.6.6 hood | active 1, completed 2, failed 1 |
+| [sase-ns.6.6.6.2](../bbugyi200.athena.sase-ns.6.6.6.2/README.md) | sase-ns.6.6.6 hood | completed |
 | [sase-ns.6.6.6.4](../bbugyi200.athena.sase-ns.6.6.6.4/README.md) | sase-ns.6.6.6 hood | dismissed |
 | [sase-ns.6.6.6.5](../bbugyi200.athena.sase-ns.6.6.6.5/README.md) | sase-ns.6.6.6 hood | completed |
 | [sase-ns.6.6.6.land](../bbugyi200.athena.sase-ns.6.6.6.land/README.md) | sase-ns.6.6.6 hood | waiting |

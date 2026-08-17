@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-ns` · Members: 2 · Bead: [sase-ns.6.6
 
 ```mermaid
 flowchart TD
-  n0["sase-ns.6.6.6.3--code [active]"]
-  n1["sase-ns.6.6.6.3--plan [active]"]
+  n0["sase-ns.6.6.6.3--code [completed]"]
+  n1["sase-ns.6.6.6.3--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,15 +17,21 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-ns.6.6.6.3--code | active | sonnet / claude | 2026-08-17T10:15:47.285895+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-ns.6.6.6.3--plan | active | opus / claude | 2026-08-17T09:55:54.060694+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ns.6.6.6.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ns.6.6.6.3--plan/chat.md) |
+| <a id="member-code"></a>code | sase-ns.6.6.6.3--code | completed | sonnet / claude | 2026-08-17T10:15:47.285895+00:00 | [1](../agents/bbugyi200.athena.sase-ns.6.6.6.3--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-ns.6.6.6.3--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-ns.6.6.6.3--plan | completed | opus / claude | 2026-08-17T09:55:54.060694+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ns.6.6.6.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ns.6.6.6.3--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`44df0bf`](https://github.com/sase-org/sase/commit/44df0bfb420c3fd2b291e7ed2aace67046fd0b0b) | test(monitor): deflake the supervise no-hang bounds | 2026-08-17 06:50:23 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ns.6.6.6.1](bbugyi200.athena.sase-ns.6.6.6.1.md) (family · 2) | sase-ns.6.6.6 hood | active 2 |
-| [sase-ns.6.6.6.2](../agents/bbugyi200.athena.sase-ns.6.6.6.2/README.md) | sase-ns.6.6.6 hood | active |
+| [sase-ns.6.6.6.1](bbugyi200.athena.sase-ns.6.6.6.1.md) (family · 4) | sase-ns.6.6.6 hood | active 1, completed 2, failed 1 |
+| [sase-ns.6.6.6.2](../agents/bbugyi200.athena.sase-ns.6.6.6.2/README.md) | sase-ns.6.6.6 hood | completed |
 | [sase-ns.6.6.6.4](../agents/bbugyi200.athena.sase-ns.6.6.6.4/README.md) | sase-ns.6.6.6 hood | dismissed |
 | [sase-ns.6.6.6.5](../agents/bbugyi200.athena.sase-ns.6.6.6.5/README.md) | sase-ns.6.6.6 hood | completed |
 | [sase-ns.6.6.6.land](../agents/bbugyi200.athena.sase-ns.6.6.6.land/README.md) | sase-ns.6.6.6 hood | waiting |
