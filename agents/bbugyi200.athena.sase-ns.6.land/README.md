@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ns](../../users/bbugyi200/machines/athena/hoods/sase-ns/README.md) / sase-ns.6.land
 
-**Global name:** `bbugyi200.athena.sase-ns.6.land` · **State:** waiting · **Source run:** `run-9a45993a0ef789340fc6959265078fbb`
+**Global name:** `bbugyi200.athena.sase-ns.6.land` · **State:** active · **Source run:** `run-9a45993a0ef789340fc6959265078fbb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ns
 
@@ -11,18 +11,24 @@
 - Bead: [sase-ns.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ns/sase-ns.6.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260816210317
-- Commits: 0
+- Timing: 2026-08-17T01:49:18.813946+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`5feaabc`](https://github.com/sase-org/sase/commit/5feaabc7122423aff552188be0e662cf2d538684) | fix(selection-health): retire the fixed config-center node's evidence | 2026-08-16 22:11:36 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ns.6.1](../../families/bbugyi200.athena.sase-ns.6.1.md) (family · 2) | sase-ns.6 hood | active 2 |
+| [sase-ns.6.1](../../families/bbugyi200.athena.sase-ns.6.1.md) (family · 2) | sase-ns.6 hood | completed 2 |
 | [sase-ns.6.2](../../families/bbugyi200.athena.sase-ns.6.2.md) (family · 2) | sase-ns.6 hood | completed 2 |
 | [sase-ns.6.3](../bbugyi200.athena.sase-ns.6.3/README.md) | sase-ns.6 hood | completed |
 | [sase-ns.6.4](../bbugyi200.athena.sase-ns.6.4/README.md) | sase-ns.6 hood | completed |

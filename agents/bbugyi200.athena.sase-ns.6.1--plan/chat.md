@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-ns.6.1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ns_6_1__plan-260816_210312.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ns_6_1__code-260816_210312.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/flake_evidence_retirement.md
 
 
