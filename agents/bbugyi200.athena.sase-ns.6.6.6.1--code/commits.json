@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5752b3f21254080664951bec143c08ac"}
+{"commits":[{"committed_at":1786987116,"sha":"7391a745bc42971a1f7460a4f27721756959858a","subject":"fix(stats): render schema-6 commits, patches, and xprompt truncation"},{"committed_at":1786987301,"sha":"5e58fb1c8b4a92e91056a179b9591d52beedd0d8","subject":"fix(config): publish merged-config and owner-snapshot caches atomically"}],"schema_version":2,"source_run_id":"run-5752b3f21254080664951bec143c08ac"}
