@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6c46f558e06f98b0000d1b3202c48d92"}
+{"commits":[{"committed_at":1786971251,"sha":"15c6f89129db19178ec9f3221b67fdfb2c3998c7","subject":"fix(bead): accept bead-less family members on bead work relaunch"}],"schema_version":2,"source_run_id":"run-6c46f558e06f98b0000d1b3202c48d92"}
