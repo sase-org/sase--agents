@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1787085105,"sha":"5b2d297ae1baaaa084b136fb998d8f0582719b5c","subject":"fix(beads): skip task gates while a live agent owns the bead"}],"schema_version":2,"source_run_id":"run-d4a2c15028ec605558ed14763c8515e9"}
