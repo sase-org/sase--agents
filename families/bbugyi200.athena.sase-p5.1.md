@@ -40,7 +40,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-p5.2](../agents/bbugyi200.athena.sase-p5.2/README.md) | sase-p5 hood | completed |
-| [sase-p5.3](../agents/bbugyi200.athena.sase-p5.3/README.md) | sase-p5 hood | failed |
+| [sase-p5.3](../agents/bbugyi200.athena.sase-p5.3/README.md) | sase-p5 hood | dismissed |
+| [sase-p5.4](bbugyi200.athena.sase-p5.4.md) (family · 3) | sase-p5 hood | active 1, completed 1, failed 1 |
 | [sase-p5.4](../agents/bbugyi200.athena.sase-p5.4/README.md) | sase-p5 hood | waiting |
 | [sase-p5.5](../agents/bbugyi200.athena.sase-p5.5/README.md) | sase-p5 hood | waiting |
 | [sase-p5.land](../agents/bbugyi200.athena.sase-p5.land/README.md) | sase-p5 hood | waiting |
