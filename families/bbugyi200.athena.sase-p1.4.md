@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-p1.4--mon-0 [failed]"]
   n1["sase-p1.4--mon-1 [failed]"]
   n0 --> n1
-  n2["sase-p1.4--4 [active]"]
+  n2["sase-p1.4--4 [completed]"]
   n0 --> n2
   n3["sase-p1.4--1 [completed]"]
   n0 --> n3
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon-0"></a>mon-0 | sase-p1.4--mon-0 | failed | sonnet / claude | 2026-08-18T00:44:32.279908+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-p1.4--mon-0/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-p1.4--mon-1 | failed | sonnet / claude | 2026-08-18T01:04:50.049700+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-p1.4--mon-1/chat.md) |
-| <a id="member-4"></a>4 | sase-p1.4--4 | active | sonnet / claude | 2026-08-18T01:26:51.964237+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p1.4--4/prompt.md) | — |
+| <a id="member-4"></a>4 | sase-p1.4--4 | completed | sonnet / claude | 2026-08-18T01:26:51.964237+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p1.4--4/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p1.4--4/chat.md) |
 | <a id="member-1"></a>1 | sase-p1.4--1 | completed | sonnet / claude | 2026-08-18T00:43:37.989180+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p1.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p1.4--1/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | sase-p1.4--mon-2 | failed | sonnet / claude | 2026-08-18T01:09:08.389687+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-p1.4--mon-2/chat.md) |
 | <a id="member-plan"></a>plan | sase-p1.4--plan | completed | sonnet / claude | 2026-08-18T00:12:55.362603+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p1.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p1.4--plan/chat.md) |
@@ -48,8 +48,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-p1.1](../agents/bbugyi200.athena.sase-p1.1/README.md) | sase-p1 hood | dismissed |
 | [sase-p1.2](../agents/bbugyi200.athena.sase-p1.2/README.md) | sase-p1 hood | completed |
 | [sase-p1.3](../agents/bbugyi200.athena.sase-p1.3/README.md) | sase-p1 hood | completed |
-| [sase-p1.5](../agents/bbugyi200.athena.sase-p1.5/README.md) | sase-p1 hood | waiting |
-| [sase-p1.6](../agents/bbugyi200.athena.sase-p1.6/README.md) | sase-p1 hood | waiting |
+| [sase-p1.5](../agents/bbugyi200.athena.sase-p1.5/README.md) | sase-p1 hood | active |
+| [sase-p1.6](bbugyi200.athena.sase-p1.6.md) (family · 3) | sase-p1 hood | completed 2, failed 1 |
 | [sase-p1.7](../agents/bbugyi200.athena.sase-p1.7/README.md) | sase-p1 hood | waiting |
 | [sase-p1.8](../agents/bbugyi200.athena.sase-p1.8/README.md) | sase-p1 hood | waiting |
 | [sase-p1.land](../agents/bbugyi200.athena.sase-p1.land/README.md) | sase-p1 hood | waiting |
