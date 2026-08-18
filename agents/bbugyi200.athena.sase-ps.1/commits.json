@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1787065346,"sha":"63accbfc9979f46e1ee39204f3786a269de8c624","subject":"fix(runner-slots): count monitors and post-handoff shells against max_running_agents"}],"schema_version":2,"source_run_id":"run-64edab0e2e6adf28522ec523387a7159"}
