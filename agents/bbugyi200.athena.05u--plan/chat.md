@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 05u--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-05u__plan-260818_072408.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-05u__code-260818_072408.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/grok_usage_limit_auto_disable.md
 
 
