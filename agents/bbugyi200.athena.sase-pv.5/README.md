@@ -13,11 +13,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-18T18:39:08.404279+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`65a34b9`](https://github.com/sase-org/sase/commit/65a34b9096c0ab8a301725697495d4bb340bcf64) | feat(flags): treat FlagTriage as a task-bead gate | 2026-08-18 15:32:29 EDT |
 
 ## Neighbors
 
@@ -27,8 +33,9 @@
 | [sase-pv.2](../bbugyi200.athena.sase-pv.2/README.md) | sase-pv hood | completed |
 | [sase-pv.3](../bbugyi200.athena.sase-pv.3/README.md) | sase-pv hood | completed |
 | [sase-pv.4](../bbugyi200.athena.sase-pv.4/README.md) | sase-pv hood | completed |
-| [sase-pv.6](../bbugyi200.athena.sase-pv.6/README.md) | sase-pv hood | active |
-| [sase-pv.7](../bbugyi200.athena.sase-pv.7/README.md) | sase-pv hood | waiting |
-| [sase-pv.8](../bbugyi200.athena.sase-pv.8/README.md) | sase-pv hood | waiting |
+| [sase-pv.6](../bbugyi200.athena.sase-pv.6/README.md) | sase-pv hood | completed |
+| [sase-pv.7](../bbugyi200.athena.sase-pv.7/README.md) | sase-pv hood | completed |
+| [sase-pv.7.f0](../bbugyi200.athena.sase-pv.7.f0/README.md) | sase-pv hood | active |
+| [sase-pv.8](../bbugyi200.athena.sase-pv.8/README.md) | sase-pv hood | active |
 | [sase-pv.9](../bbugyi200.athena.sase-pv.9/README.md) | sase-pv hood | waiting |
 | [sase-pv.land](../bbugyi200.athena.sase-pv.land/README.md) | sase-pv hood | waiting |

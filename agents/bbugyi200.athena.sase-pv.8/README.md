@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-pv](../../users/bbugyi200/machines/athena/hoods/sase-pv/README.md) / sase-pv.8
 
-**Global name:** `bbugyi200.athena.sase-pv.8` · **State:** waiting · **Source run:** `run-5c9476486a300531c983111ef4a6f716`
+**Global name:** `bbugyi200.athena.sase-pv.8` · **State:** active · **Source run:** `run-5c9476486a300531c983111ef4a6f716`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-pv
 
@@ -12,7 +12,7 @@
 - Epic: [sase-pv](https://github.com/sase-org/sase--beads/blob/main/pages/sase-pv/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20260818132747
+- Timing: 2026-08-18T22:30:48.023046+00:00
 - Commits: 0
 
 ## Files
@@ -28,7 +28,8 @@
 | [sase-pv.3](../bbugyi200.athena.sase-pv.3/README.md) | sase-pv hood | completed |
 | [sase-pv.4](../bbugyi200.athena.sase-pv.4/README.md) | sase-pv hood | completed |
 | [sase-pv.5](../bbugyi200.athena.sase-pv.5/README.md) | sase-pv hood | completed |
-| [sase-pv.6](../bbugyi200.athena.sase-pv.6/README.md) | sase-pv hood | active |
-| [sase-pv.7](../bbugyi200.athena.sase-pv.7/README.md) | sase-pv hood | waiting |
+| [sase-pv.6](../bbugyi200.athena.sase-pv.6/README.md) | sase-pv hood | completed |
+| [sase-pv.7](../bbugyi200.athena.sase-pv.7/README.md) | sase-pv hood | completed |
+| [sase-pv.7.f0](../bbugyi200.athena.sase-pv.7.f0/README.md) | sase-pv hood | active |
 | [sase-pv.9](../bbugyi200.athena.sase-pv.9/README.md) | sase-pv hood | waiting |
 | [sase-pv.land](../bbugyi200.athena.sase-pv.land/README.md) | sase-pv hood | waiting |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f7f1cd4d2d443a9ebe510c84e4d83841"}
+{"commits":[{"committed_at":1787081549,"sha":"65a34b9096c0ab8a301725697495d4bb340bcf64","subject":"feat(flags): treat FlagTriage as a task-bead gate"}],"schema_version":2,"source_run_id":"run-f7f1cd4d2d443a9ebe510c84e4d83841"}

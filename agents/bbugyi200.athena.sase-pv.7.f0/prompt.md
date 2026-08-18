@@ -1,0 +1,2 @@
+#gh:gh_sase-org__sase
+#fork:sase-pv.7 Instead of migrating these flag beads to flag task beads, let's just create new flag task beads that correspond with the current flag beads. The current flag beads should then be deleted because this is no longer a supported bead type. In order to get this epic rolling again, can you add some appropriate notes to the appropriate beads and then close out the sase-pv.7 bead?

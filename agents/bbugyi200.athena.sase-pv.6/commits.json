@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b88bd096776ac4434583d949dd7d6fcb"}
+{"commits":[{"committed_at":1787082919,"sha":"2b2c5edefe1b4e94b83c6e3016bb5245d92c75cf","subject":"feat(beads)!: render flags as typed tasks on every bead surface"}],"schema_version":2,"source_run_id":"run-b88bd096776ac4434583d949dd7d6fcb"}

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-pv](../../users/bbugyi200/machines/athena/hoods/sase-pv/README.md) / sase-pv.6
 
-**Global name:** `bbugyi200.athena.sase-pv.6` · **State:** active · **Source run:** `run-b88bd096776ac4434583d949dd7d6fcb`
+**Global name:** `bbugyi200.athena.sase-pv.6` · **State:** completed · **Source run:** `run-b88bd096776ac4434583d949dd7d6fcb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-pv
 
@@ -13,11 +13,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-18T19:01:54.218733+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`2b2c5ed`](https://github.com/sase-org/sase/commit/2b2c5edefe1b4e94b83c6e3016bb5245d92c75cf) | feat(beads)!: render flags as typed tasks on every bead surface | 2026-08-18 15:55:19 EDT |
 
 ## Neighbors
 
@@ -28,7 +34,8 @@
 | [sase-pv.3](../bbugyi200.athena.sase-pv.3/README.md) | sase-pv hood | completed |
 | [sase-pv.4](../bbugyi200.athena.sase-pv.4/README.md) | sase-pv hood | completed |
 | [sase-pv.5](../bbugyi200.athena.sase-pv.5/README.md) | sase-pv hood | completed |
-| [sase-pv.7](../bbugyi200.athena.sase-pv.7/README.md) | sase-pv hood | waiting |
-| [sase-pv.8](../bbugyi200.athena.sase-pv.8/README.md) | sase-pv hood | waiting |
+| [sase-pv.7](../bbugyi200.athena.sase-pv.7/README.md) | sase-pv hood | completed |
+| [sase-pv.7.f0](../bbugyi200.athena.sase-pv.7.f0/README.md) | sase-pv hood | active |
+| [sase-pv.8](../bbugyi200.athena.sase-pv.8/README.md) | sase-pv hood | active |
 | [sase-pv.9](../bbugyi200.athena.sase-pv.9/README.md) | sase-pv hood | waiting |
 | [sase-pv.land](../bbugyi200.athena.sase-pv.land/README.md) | sase-pv hood | waiting |
