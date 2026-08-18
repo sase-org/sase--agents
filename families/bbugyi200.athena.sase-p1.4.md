@@ -48,8 +48,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-p1.1](../agents/bbugyi200.athena.sase-p1.1/README.md) | sase-p1 hood | dismissed |
 | [sase-p1.2](../agents/bbugyi200.athena.sase-p1.2/README.md) | sase-p1 hood | completed |
 | [sase-p1.3](../agents/bbugyi200.athena.sase-p1.3/README.md) | sase-p1 hood | completed |
-| [sase-p1.5](../agents/bbugyi200.athena.sase-p1.5/README.md) | sase-p1 hood | active |
-| [sase-p1.6](bbugyi200.athena.sase-p1.6.md) (family · 3) | sase-p1 hood | completed 2, failed 1 |
+| [sase-p1.5](../agents/bbugyi200.athena.sase-p1.5/README.md) | sase-p1 hood | completed |
+| [sase-p1.6](bbugyi200.athena.sase-p1.6.md) (family · 7) | sase-p1 hood | active 1, completed 3, failed 3 |
 | [sase-p1.7](../agents/bbugyi200.athena.sase-p1.7/README.md) | sase-p1 hood | waiting |
 | [sase-p1.8](../agents/bbugyi200.athena.sase-p1.8/README.md) | sase-p1 hood | waiting |
 | [sase-p1.land](../agents/bbugyi200.athena.sase-p1.land/README.md) | sase-p1 hood | waiting |

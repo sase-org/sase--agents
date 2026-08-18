@@ -1,17 +1,17 @@
-# Agent: sase-p1.land
+# Agent: sase-p1.6--3
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-p1](../../users/bbugyi200/machines/athena/hoods/sase-p1/README.md) / sase-p1.land
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-p1](../../users/bbugyi200/machines/athena/hoods/sase-p1/README.md) / [sase-p1.6](../../families/bbugyi200.athena.sase-p1.6.md) / sase-p1.6--3
 
-**Global name:** `bbugyi200.athena.sase-p1.land` · **State:** waiting · **Source run:** `run-08c1cc6a52156bdb12483ac261376ce8`
+**Global name:** `bbugyi200.athena.sase-p1.6--3` · **State:** active · **Source run:** `run-d88a8b2dcd97c52502f7d145607cd87e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-p1
 
 ## Summary
 
-- Bead: [sase-p1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-p1/README.md)
-- Model: opus
-- Provider: claude
-- Timing: 20260817183443
+- Bead: [sase-p1.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-p1/sase-p1.6.md)
+- Model: grok-4.6
+- Provider: grok
+- Timing: 2026-08-18T02:37:55.819256+00:00
 - Commits: 0
 
 ## Files
@@ -27,6 +27,6 @@
 | [sase-p1.3](../bbugyi200.athena.sase-p1.3/README.md) | sase-p1 hood | completed |
 | [sase-p1.4](../../families/bbugyi200.athena.sase-p1.4.md) (family · 9) | sase-p1 hood | completed 5, failed 4 |
 | [sase-p1.5](../bbugyi200.athena.sase-p1.5/README.md) | sase-p1 hood | completed |
-| [sase-p1.6](../../families/bbugyi200.athena.sase-p1.6.md) (family · 7) | sase-p1 hood | active 1, completed 3, failed 3 |
 | [sase-p1.7](../bbugyi200.athena.sase-p1.7/README.md) | sase-p1 hood | waiting |
 | [sase-p1.8](../bbugyi200.athena.sase-p1.8/README.md) | sase-p1 hood | waiting |
+| [sase-p1.land](../bbugyi200.athena.sase-p1.land/README.md) | sase-p1 hood | waiting |
