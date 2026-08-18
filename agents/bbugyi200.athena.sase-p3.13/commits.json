@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5ad32ea5ff39fbb08d3a46f4c8ff9578"}
+{"commits":[{"committed_at":1787036919,"sha":"ab628ca7bf2c6156dcf90b6a1ac896e72e1febf3","subject":"feat(bead)!: require a catalog task type on new task creation"}],"schema_version":2,"source_run_id":"run-5ad32ea5ff39fbb08d3a46f4c8ff9578"}
