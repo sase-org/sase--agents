@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-pw](../../users/bbugyi200/machines/athena/hoods/sase-pw/README.md) / sase-pw.4
 
-**Global name:** `bbugyi200.athena.sase-pw.4` · **State:** waiting · **Source run:** `run-2d2f39b08f02efea90f39e4c87ba0712`
+**Global name:** `bbugyi200.athena.sase-pw.4` · **State:** completed · **Source run:** `run-2d2f39b08f02efea90f39e4c87ba0712`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-pw
 
@@ -12,23 +12,29 @@
 - Epic: [sase-pw](https://github.com/sase-org/sase--beads/blob/main/pages/sase-pw/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20260818131743
-- Commits: 0
+- Timing: 2026-08-18T17:58:25.437671+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`7596e4e`](https://github.com/sase-org/sase/commit/7596e4e46ed68e977072df94d0a69a93069909ee) | feat(ace): add current-project chip to the ACE top bar | 2026-08-18 14:49:32 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-pw.1](../bbugyi200.athena.sase-pw.1/README.md) | sase-pw hood | active |
+| [sase-pw.1](../bbugyi200.athena.sase-pw.1/README.md) | sase-pw hood | completed |
 | [sase-pw.2](../bbugyi200.athena.sase-pw.2/README.md) | sase-pw hood | completed |
 | [sase-pw.3](../bbugyi200.athena.sase-pw.3/README.md) | sase-pw hood | completed |
-| [sase-pw.5](../bbugyi200.athena.sase-pw.5/README.md) | sase-pw hood | waiting |
-| [sase-pw.6](../bbugyi200.athena.sase-pw.6/README.md) | sase-pw hood | waiting |
-| [sase-pw.7](../bbugyi200.athena.sase-pw.7/README.md) | sase-pw hood | waiting |
-| [sase-pw.8](../bbugyi200.athena.sase-pw.8/README.md) | sase-pw hood | waiting |
+| [sase-pw.5](../../families/bbugyi200.athena.sase-pw.5.md) (family · 2) | sase-pw hood | active 1, completed 1 |
+| [sase-pw.6](../bbugyi200.athena.sase-pw.6/README.md) | sase-pw hood | active |
+| [sase-pw.7](../bbugyi200.athena.sase-pw.7/README.md) | sase-pw hood | active |
+| [sase-pw.8](../../families/bbugyi200.athena.sase-pw.8.md) (family · 2) | sase-pw hood | active 1, completed 1 |
 | [sase-pw.9](../bbugyi200.athena.sase-pw.9/README.md) | sase-pw hood | waiting |
 | [sase-pw.land](../bbugyi200.athena.sase-pw.land/README.md) | sase-pw hood | waiting |

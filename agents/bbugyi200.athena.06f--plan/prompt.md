@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `,x` keymap appears to be broken for some agents (see #sshot for an example of the prompt that was prefilled when using this keymap on the `sase-pw.1` sase agent--note the `%id` directive has incorrect arguments). Can you help me fix this by making this keymap much more robust and reliable? #plan

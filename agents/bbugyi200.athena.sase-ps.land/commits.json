@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-feb7943ba6f9a335b2c5a3e22795640e"}
+{"commits":[{"committed_at":1787078674,"sha":"da8be0ea95115c10257fe6e4b9af6f65ba6e744b","subject":"test(visual): rebaseline the Statistics runners golden for the new legend"}],"schema_version":2,"source_run_id":"run-feb7943ba6f9a335b2c5a3e22795640e"}
