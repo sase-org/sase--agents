@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:06j Can you now help me do the same thing for the orange gear which should indicate how many monitors are running in a given agent tribe panel? #plan

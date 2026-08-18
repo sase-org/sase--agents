@@ -31,9 +31,9 @@
 |---|---|---|
 | [sase-pv.1](../../families/bbugyi200.athena.sase-pv.1.md) (family · 5) | sase-pv hood | completed 3, failed 2 |
 | [sase-pv.2](../bbugyi200.athena.sase-pv.2/README.md) | sase-pv hood | completed |
-| [sase-pv.4](../bbugyi200.athena.sase-pv.4/README.md) | sase-pv hood | active |
-| [sase-pv.5](../bbugyi200.athena.sase-pv.5/README.md) | sase-pv hood | waiting |
-| [sase-pv.6](../bbugyi200.athena.sase-pv.6/README.md) | sase-pv hood | waiting |
+| [sase-pv.4](../bbugyi200.athena.sase-pv.4/README.md) | sase-pv hood | completed |
+| [sase-pv.5](../bbugyi200.athena.sase-pv.5/README.md) | sase-pv hood | completed |
+| [sase-pv.6](../bbugyi200.athena.sase-pv.6/README.md) | sase-pv hood | active |
 | [sase-pv.7](../bbugyi200.athena.sase-pv.7/README.md) | sase-pv hood | waiting |
 | [sase-pv.8](../bbugyi200.athena.sase-pv.8/README.md) | sase-pv hood | waiting |
 | [sase-pv.9](../bbugyi200.athena.sase-pv.9/README.md) | sase-pv hood | waiting |

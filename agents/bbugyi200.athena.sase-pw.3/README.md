@@ -32,9 +32,9 @@
 | [sase-pw.1](../bbugyi200.athena.sase-pw.1/README.md) | sase-pw hood | completed |
 | [sase-pw.2](../bbugyi200.athena.sase-pw.2/README.md) | sase-pw hood | completed |
 | [sase-pw.4](../bbugyi200.athena.sase-pw.4/README.md) | sase-pw hood | completed |
-| [sase-pw.5](../../families/bbugyi200.athena.sase-pw.5.md) (family · 3) | sase-pw hood | active 1, completed 1, failed 1 |
+| [sase-pw.5](../../families/bbugyi200.athena.sase-pw.5.md) (family · 7) | sase-pw hood | active 1, completed 3, failed 3 |
 | [sase-pw.6](../bbugyi200.athena.sase-pw.6/README.md) | sase-pw hood | active |
-| [sase-pw.7](../bbugyi200.athena.sase-pw.7/README.md) | sase-pw hood | active |
-| [sase-pw.8](../../families/bbugyi200.athena.sase-pw.8.md) (family · 2) | sase-pw hood | active 1, completed 1 |
+| [sase-pw.7](../../families/bbugyi200.athena.sase-pw.7.md) (family · 4) | sase-pw hood | active 1, completed 2, failed 1 |
+| [sase-pw.8](../../families/bbugyi200.athena.sase-pw.8.md) (family · 5) | sase-pw hood | active 1, completed 2, failed 2 |
 | [sase-pw.9](../bbugyi200.athena.sase-pw.9/README.md) | sase-pw hood | waiting |
 | [sase-pw.land](../bbugyi200.athena.sase-pw.land/README.md) | sase-pw hood | waiting |
