@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 05q--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-05q__plan-260818_071122.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-05q__code-260818_071122.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/tier2_intro_under_long_memory_files.md
 
 
