@@ -26,5 +26,5 @@
 | [toobig-34.split\_file.tests.test\_running\_field\_operations.0](../bbugyi200.athena.toobig-34.split_file.tests.test_running_field_operations.0/README.md) | toobig-34.split\_file.tests hood | waiting |
 | [toobig-34.split\_file.tests.test\_vcs\_xprompt\_mru.0](../bbugyi200.athena.toobig-34.split_file.tests.test_vcs_xprompt_mru.0/README.md) | toobig-34.split\_file.tests hood | waiting |
 | [toobig-34.split\_file.src.sase.agent.restart.0](../bbugyi200.athena.toobig-34.split_file.src.sase.agent.restart.0/README.md) | toobig-34.split\_file hood | completed |
-| [toobig-34.split\_file.src.sase.bead.snooze\_gate.0](../bbugyi200.athena.toobig-34.split_file.src.sase.bead.snooze_gate.0/README.md) | toobig-34.split\_file hood | active |
-| [toobig-34.split\_file.src.sase.running\_field.\_operations.0](../bbugyi200.athena.toobig-34.split_file.src.sase.running_field._operations.0/README.md) | toobig-34.split\_file hood | waiting |
+| [toobig-34.split\_file.src.sase.bead.snooze\_gate.0](../bbugyi200.athena.toobig-34.split_file.src.sase.bead.snooze_gate.0/README.md) | toobig-34.split\_file hood | completed |
+| [toobig-34.split\_file.src.sase.running\_field.\_operations.0](../bbugyi200.athena.toobig-34.split_file.src.sase.running_field._operations.0/README.md) | toobig-34.split\_file hood | active |
