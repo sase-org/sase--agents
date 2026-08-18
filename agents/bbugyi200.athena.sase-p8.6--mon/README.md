@@ -28,4 +28,4 @@
 | [sase-p8.3](../bbugyi200.athena.sase-p8.3/README.md) | sase-p8 hood | completed |
 | [sase-p8.4](../bbugyi200.athena.sase-p8.4/README.md) | sase-p8 hood | completed |
 | [sase-p8.5](../bbugyi200.athena.sase-p8.5/README.md) | sase-p8 hood | completed |
-| [sase-p8.land](../bbugyi200.athena.sase-p8.land/README.md) | sase-p8 hood | active |
+| [sase-p8.land](../bbugyi200.athena.sase-p8.land/README.md) | sase-p8 hood | completed |

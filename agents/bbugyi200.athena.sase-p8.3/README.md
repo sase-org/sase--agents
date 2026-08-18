@@ -34,4 +34,4 @@
 | [sase-p8.4](../bbugyi200.athena.sase-p8.4/README.md) | sase-p8 hood | completed |
 | [sase-p8.5](../bbugyi200.athena.sase-p8.5/README.md) | sase-p8 hood | completed |
 | [sase-p8.6](../../families/bbugyi200.athena.sase-p8.6.md) (family · 3) | sase-p8 hood | completed 2, failed 1 |
-| [sase-p8.land](../bbugyi200.athena.sase-p8.land/README.md) | sase-p8 hood | active |
+| [sase-p8.land](../bbugyi200.athena.sase-p8.land/README.md) | sase-p8 hood | completed |

@@ -39,4 +39,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-ng.1.4](../agents/bbugyi200.athena.sase-ng.1.4/README.md) | sase-ng.1 hood | completed |
 | [sase-ng.1.5](bbugyi200.athena.sase-ng.1.5.md) (family · 3) | sase-ng.1 hood | completed 2, failed 1 |
 | [sase-ng.1.6](bbugyi200.athena.sase-ng.1.6.md) (family · 3) | sase-ng.1 hood | completed 2, failed 1 |
-| [sase-ng.1.land](../agents/bbugyi200.athena.sase-ng.1.land/README.md) | sase-ng.1 hood | active |
+| [sase-ng.1.land](bbugyi200.athena.sase-ng.1.land.md) (family · 3) | sase-ng.1 hood | completed 2, failed 1 |

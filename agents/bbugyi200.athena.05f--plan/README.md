@@ -1,0 +1,18 @@
+# Agent: 05f--plan
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [05f](../../users/bbugyi200/machines/athena/hoods/05f/README.md) / [05f](../../families/bbugyi200.athena.05f.md) / 05f--plan
+
+**Global name:** `bbugyi200.athena.05f--plan` · **State:** failed · **Source run:** `run-189b1c422babeee047fa053684ee30f5`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 05f
+
+## Summary
+
+- Model: opus
+- Provider: claude
+- Timing: 2026-08-17T22:49:38.736459+00:00
+- Commits: 0
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)

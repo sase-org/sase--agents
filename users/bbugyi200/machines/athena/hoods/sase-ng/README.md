@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-ng
 
-**Global hood:** `bbugyi200.athena.sase-ng` · **Runs:** 15 · **Families:** 4 · **States:** active 1, completed 9, failed 5
+**Global hood:** `bbugyi200.athena.sase-ng` · **Runs:** 17 · **Families:** 5 · **States:** completed 11, failed 6
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -10,14 +10,16 @@
 | [sase-ng.1.5--1](../../../../../../families/bbugyi200.athena.sase-ng.1.5.md#member-1) | completed | sonnet / claude | 2026-08-17T21:47:29.222954+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-ng.1.5--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-ng.1.5--1/prompt.md) |
 | [sase-ng.1.5--plan](../../../../../../families/bbugyi200.athena.sase-ng.1.5.md#member-plan) | completed | sonnet / claude | 2026-08-17T21:08:31.028172+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-ng.1.5--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-ng.1.5--plan/prompt.md) |
 | [sase-ng.1.4](../../../../../../agents/bbugyi200.athena.sase-ng.1.4/README.md) | completed | grok-4.6 / grok | 2026-08-17T20:25:04.438883+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-ng.1.4/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-ng.1.4/prompt.md) |
+| [sase-ng.1.land--1](../../../../../../families/bbugyi200.athena.sase-ng.1.land.md#member-1) | completed | opus / claude | 2026-08-17T23:25:23.987548+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-ng.1.land--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-ng.1.land--1/prompt.md) |
 | [sase-ng.1.6--1](../../../../../../families/bbugyi200.athena.sase-ng.1.6.md#member-1) | completed | grok-4.6 / grok | 2026-08-17T22:39:53.695465+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-ng.1.6--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-ng.1.6--1/prompt.md) |
 | [sase-ng.1.2](../../../../../../agents/bbugyi200.athena.sase-ng.1.2/README.md) | completed | grok-4.6 / grok | 2026-08-17T19:18:12.786930+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-ng.1.2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-ng.1.2/prompt.md) |
 | [sase-ng.1.1--1](../../../../../../families/bbugyi200.athena.sase-ng.1.1.md#member-1) | completed | grok-4.6 / grok | 2026-08-17T19:49:42.786423+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-ng.1.1--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-ng.1.1--1/prompt.md) |
 | [sase-ng.1.1--plan](../../../../../../families/bbugyi200.athena.sase-ng.1.1.md#member-plan) | completed | grok-4.6 / grok | 2026-08-17T19:18:01.633905+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-ng.1.1--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-ng.1.1--plan/prompt.md) |
 | [sase-ng--plan](../../../../../../families/bbugyi200.athena.sase-ng.md#member-plan) | failed | opus / claude | 2026-08-17T18:26:28.403516+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-ng--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-ng--plan/prompt.md) |
+| [sase-ng.1.land--mon](../../../../../../families/bbugyi200.athena.sase-ng.1.land.md#member-mon) | failed | opus / claude | 2026-08-17T23:01:59.371271+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-ng.1.land--mon/chat.md) |
 | [sase-ng.1.6--mon](../../../../../../families/bbugyi200.athena.sase-ng.1.6.md#member-mon) | failed | grok-4.6 / grok | 2026-08-17T22:24:33.559339+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-ng.1.6--mon/chat.md) |
 | [sase-ng.1.6--plan](../../../../../../families/bbugyi200.athena.sase-ng.1.6.md#member-plan) | completed | grok-4.6 / grok | 2026-08-17T21:52:53.223826+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-ng.1.6--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-ng.1.6--plan/prompt.md) |
 | [sase-ng.1.5--mon](../../../../../../families/bbugyi200.athena.sase-ng.1.5.md#member-mon) | failed | sonnet / claude | 2026-08-17T21:33:43.124206+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-ng.1.5--mon/chat.md) |
 | [sase-ng--mon](../../../../../../families/bbugyi200.athena.sase-ng.md#member-mon) | failed | opus / claude | 2026-08-17T19:16:45.713957+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-ng--mon/chat.md) |
-| [sase-ng.1.land](../../../../../../agents/bbugyi200.athena.sase-ng.1.land/README.md) | active | opus / claude | 2026-08-17T22:43:24.485726+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ng.1.land/prompt.md) |
+| [sase-ng.1.land--plan](../../../../../../families/bbugyi200.athena.sase-ng.1.land.md#member-plan) | completed | opus / claude | 2026-08-17T22:43:24.485726+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-ng.1.land--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-ng.1.land--plan/prompt.md) |
 | [sase-ng.1.1--mon](../../../../../../families/bbugyi200.athena.sase-ng.1.1.md#member-mon) | failed | grok-4.6 / grok | 2026-08-17T19:47:31.665696+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-ng.1.1--mon/chat.md) |
