@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase We recently broke the `,x` keymap (see #sshot for context). We should only force the reuse of an ID if the `%id` directive was used explicitly in the prompt. Can you help me fix this? Make sure you review all Git commits made related to this keymap in the last week so you've got a good understanding of the issues we've been dealing with and don't cause any other issues. Think hard about this and get it right this time.
+
+#plan
