@@ -190,7 +190,7 @@
 | [064](hoods/064/README.md) | 2 | 1 | failed 2 |
 | [065](hoods/065/README.md) | 1 | 0 | completed 1 |
 | [066](hoods/066/README.md) | 1 | 0 | completed 1 |
-| [067](hoods/067/README.md) | 2 | 1 | active 2 |
+| [067](hoods/067/README.md) | 2 | 1 | completed 2 |
 | [069](hoods/069/README.md) | 3 | 1 | active 2, completed 1 |
 | [06a](hoods/06a/README.md) | 1 | 0 | completed 1 |
 | [06c](hoods/06c/README.md) | 2 | 0 | completed 2 |

@@ -11,4 +11,10 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-18T14:51:04.703706+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`88fa6e9`](https://github.com/sase-org/sase/commit/88fa6e9491d45ff2c30f73b941d57ec44da0ddaa) | feat(glossary): fail batched reads all-or-nothing and shrink render bytes | 2026-08-18 11:51:59 EDT |

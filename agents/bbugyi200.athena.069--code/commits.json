@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-835fe40f63ca6e9c57a0d6fc756cd723"}
+{"commits":[{"committed_at":1787068319,"sha":"88fa6e9491d45ff2c30f73b941d57ec44da0ddaa","subject":"feat(glossary): fail batched reads all-or-nothing and shrink render bytes"}],"schema_version":2,"source_run_id":"run-835fe40f63ca6e9c57a0d6fc756cd723"}

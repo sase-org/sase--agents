@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 067--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-067__plan-260818_103049.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-067__code-260818_103049.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/settled_monitor_gear_chip.md
 
 
