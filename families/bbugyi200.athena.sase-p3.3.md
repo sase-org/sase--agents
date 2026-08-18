@@ -51,5 +51,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-p3.6](../agents/bbugyi200.athena.sase-p3.6/README.md) | sase-p3 hood | completed |
 | [sase-p3.7](../agents/bbugyi200.athena.sase-p3.7/README.md) | sase-p3 hood | completed |
 | [sase-p3.8](../agents/bbugyi200.athena.sase-p3.8/README.md) | sase-p3 hood | active |
-| [sase-p3.9](../agents/bbugyi200.athena.sase-p3.9/README.md) | sase-p3 hood | active |
+| [sase-p3.9](../agents/bbugyi200.athena.sase-p3.9/README.md) | sase-p3 hood | completed |
 | [sase-p3.land](../agents/bbugyi200.athena.sase-p3.land/README.md) | sase-p3 hood | waiting |

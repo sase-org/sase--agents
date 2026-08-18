@@ -41,5 +41,5 @@
 | [sase-p3.6](../bbugyi200.athena.sase-p3.6/README.md) | sase-p3 hood | completed |
 | [sase-p3.7](../bbugyi200.athena.sase-p3.7/README.md) | sase-p3 hood | completed |
 | [sase-p3.8](../bbugyi200.athena.sase-p3.8/README.md) | sase-p3 hood | active |
-| [sase-p3.9](../bbugyi200.athena.sase-p3.9/README.md) | sase-p3 hood | active |
+| [sase-p3.9](../bbugyi200.athena.sase-p3.9/README.md) | sase-p3 hood | completed |
 | [sase-p3.land](../bbugyi200.athena.sase-p3.land/README.md) | sase-p3 hood | waiting |
