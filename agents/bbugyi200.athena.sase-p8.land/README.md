@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-p8](../../users/bbugyi200/machines/athena/hoods/sase-p8/README.md) / sase-p8.land
 
-**Global name:** `bbugyi200.athena.sase-p8.land` · **State:** waiting · **Source run:** `run-4ae5b4a2f81d2bba5e39d97992bde593`
+**Global name:** `bbugyi200.athena.sase-p8.land` · **State:** active · **Source run:** `run-4ae5b4a2f81d2bba5e39d97992bde593`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-p8
 
@@ -11,7 +11,7 @@
 - Bead: [sase-p8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-p8/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260817190306
+- Timing: 2026-08-18T03:10:31.621465+00:00
 - Commits: 0
 
 ## Files
@@ -27,4 +27,4 @@
 | [sase-p8.3](../bbugyi200.athena.sase-p8.3/README.md) | sase-p8 hood | completed |
 | [sase-p8.4](../bbugyi200.athena.sase-p8.4/README.md) | sase-p8 hood | completed |
 | [sase-p8.5](../bbugyi200.athena.sase-p8.5/README.md) | sase-p8 hood | completed |
-| [sase-p8.6](../bbugyi200.athena.sase-p8.6/README.md) | sase-p8 hood | active |
+| [sase-p8.6](../../families/bbugyi200.athena.sase-p8.6.md) (family · 3) | sase-p8 hood | completed 2, failed 1 |
