@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Ok. I think I've added the `SASE_RELEASE_TOKEN` properly for the sase-research-artifacts repo. Can you help me verify this and make sure that CI publishes the first release? #plan
