@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 06f--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-06f__plan-260818_131352.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-06f__code-260818_131352.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/kill_and_edit_identity.md
 
 

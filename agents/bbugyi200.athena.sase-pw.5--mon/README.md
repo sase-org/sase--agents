@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-pw](../../users/bbugyi200/machines/athena/hoods/sase-pw/README.md) / [sase-pw.5](../../families/bbugyi200.athena.sase-pw.5.md) / sase-pw.5--mon
 
-**Global name:** `bbugyi200.athena.sase-pw.5--mon` · **State:** active · **Source run:** `run-8c1eae0fdadd6906b524171cf8c036ee`
+**Global name:** `bbugyi200.athena.sase-pw.5--mon` · **State:** failed · **Source run:** `run-8c1eae0fdadd6906b524171cf8c036ee`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-pw
 
@@ -14,6 +14,10 @@
 - Provider: grok
 - Timing: 2026-08-18T18:37:58.896492+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 

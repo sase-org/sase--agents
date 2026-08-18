@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [06f](../../users/bbugyi200/machines/athena/hoods/06f/README.md) / [06f](../../families/bbugyi200.athena.06f.md) / 06f--code
 
-**Global name:** `bbugyi200.athena.06f--code` · **State:** active · **Source run:** `run-ccfba7bb6586eb25625764f776ba4007`
+**Global name:** `bbugyi200.athena.06f--code` · **State:** completed · **Source run:** `run-ccfba7bb6586eb25625764f776ba4007`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 06f
 
@@ -12,6 +12,10 @@
 - Provider: grok
 - Timing: 2026-08-18T18:24:43.129527+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
 
 ## Commits
 
