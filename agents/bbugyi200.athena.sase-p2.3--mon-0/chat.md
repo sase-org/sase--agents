@@ -1,0 +1,29 @@
+# Chat History - ace-run (sase-p2.3--mon-0)
+
+- **TIMESTAMP:** 2026-08-17 21:17:06 EDT
+- **MODEL:** claude/sonnet
+- **AGENT:** sase-p2.3--mon-0
+
+## Prompt
+
+sase monitor start --command 'just check' --reason 'Re-run repo-wide lint gates plus diff-scoped tests after removing 6 stale sase-p1.6 --epic-symbol Justfile entries flagged by symvision as already-used, before closing phase bead sase-p2.3'
+
+## Response
+
+✓ fmt (python)
+✓ fmt (markdown)
+✓ lint (keep-sorted)
+✓ lint (ruff)
+✓ lint (mypy)
+✓ lint (feature flags)
+✓ lint (pyscripts)
+✓ lint (test waits)
+✓ lint (changelog)
+✓ lint (patch/stitch terminology)
+✗ lint (symvision)
+SASE_SYMVISION_BEAD_STATUS_ONLY=1 BD_COMMAND=tools/sase_bead .venv/bin/symvision src/sase --exclude-decorator gate_command_entrypoint --exclude-decorator builtin_chop --epic-symbol "sase-n4.5(ProviderDisableWriteOutcome)" --epic-symbol "sase-n4(UsageLimitSettings)" --epic-symbol "sase-n4(find_matching_pattern)" --epic-symbol "sase-n4(get_usage_limit_config)" --epic-symbol "sase-n4(is_usage_limit_error)" --epic-symbol "sase-n4(normalize_for_match)" --epic-symbol "sase-n4(parse_reset_hint)" --epic-symbol "sase-p1.4(GlossaryProjectRef)" --epic-symbol "sase-p1.4(GlossaryProjectSnapshot)" --epic-symbol "sase-p1.4(build_glossary_project_ring)" --epic-symbol "sase-p1.4(load_glossary_project_snapshot)" --epic-symbol "sase-p1.5(glossary_entry_relations)" --epic-symbol "sase-p1.6(invalidate_glossary_project)" --epic-symbol "sase-p4.3(active_epic_resume)" --epic-symbol "sase-p4.3(build_epic_resume_argv)" --epic-symbol "sase-p4.3(epic_resume_origin_from_gate_source)" --epic-symbol "sase-p4.3(submit_epic_resume_task)" 
+Unused public functions/classes. Make these private if they are used only within the file they are defined. If the functions/classes are completely unused, you should delete them:
+  repo_declaration_display in src/sase/ace/tui/modals/repo_preview_render.py
+error: recipe `_lint-symvision` failed on line 340 with exit code 1
+error: recipe `check` failed on line 628 with exit code 1
+
