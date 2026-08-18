@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e80900764bbadfcd47054b5a79604528"}
+{"commits":[{"committed_at":1787069493,"sha":"b87c0b176777fc72912e0aea5142e2eee3ba22fa","subject":"feat(bead): refresh pending gates when type presentation changes"}],"schema_version":2,"source_run_id":"run-e80900764bbadfcd47054b5a79604528"}

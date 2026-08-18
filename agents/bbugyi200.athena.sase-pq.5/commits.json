@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-91194067b90380b594276330dd350341"}
+{"commits":[{"committed_at":1787067727,"sha":"832e3b7e8ffaee0df0999f46949ff04846b44117","subject":"feat(bead): freeze task-type display into task and snooze gates"}],"schema_version":2,"source_run_id":"run-91194067b90380b594276330dd350341"}

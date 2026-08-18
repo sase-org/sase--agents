@@ -23,9 +23,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-pq.1](../bbugyi200.athena.sase-pq.1/README.md) | sase-pq hood | completed |
-| [sase-pq.2](../bbugyi200.athena.sase-pq.2/README.md) | sase-pq hood | active |
+| [sase-pq.2](../bbugyi200.athena.sase-pq.2/README.md) | sase-pq hood | completed |
 | [sase-pq.3](../bbugyi200.athena.sase-pq.3/README.md) | sase-pq hood | completed |
-| [sase-pq.4](../../families/bbugyi200.athena.sase-pq.4.md) (family · 1) | sase-pq hood | active 1 |
-| [sase-pq.5](../bbugyi200.athena.sase-pq.5/README.md) | sase-pq hood | waiting |
-| [sase-pq.6](../bbugyi200.athena.sase-pq.6/README.md) | sase-pq hood | waiting |
+| [sase-pq.4](../../families/bbugyi200.athena.sase-pq.4.md) (family · 3) | sase-pq hood | completed 2, failed 1 |
+| [sase-pq.5](../bbugyi200.athena.sase-pq.5/README.md) | sase-pq hood | completed |
+| [sase-pq.6](../bbugyi200.athena.sase-pq.6/README.md) | sase-pq hood | active |
 | [sase-pq.7](../bbugyi200.athena.sase-pq.7/README.md) | sase-pq hood | waiting |
