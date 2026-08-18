@@ -1,0 +1,26 @@
+# Hood: sase-p4
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-p4
+
+**Global hood:** `bbugyi200.athena.sase-p4` · **Runs:** 18 · **Families:** 2 · **States:** active 1, completed 8, failed 6, waiting 3
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [sase-p4.1--2](../../../../../../families/bbugyi200.athena.sase-p4.1.md#member-2) | completed | grok-4.6 / grok | 2026-08-18T00:47:25.459183+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.1--2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-p4.1--2/chat.md) |
+| [sase-p4.3--mon-0](../../../../../../families/bbugyi200.athena.sase-p4.3.md#member-mon-0) | failed | grok-4.6 / grok | 2026-08-18T00:58:43.758616+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p4.3--mon-0/chat.md) |
+| [sase-p4.3--2](../../../../../../families/bbugyi200.athena.sase-p4.3.md#member-2) | completed | grok-4.6 / grok | 2026-08-18T01:34:50.659321+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.3--2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-p4.3--2/chat.md) |
+| [sase-p4.1--mon-0](../../../../../../families/bbugyi200.athena.sase-p4.1.md#member-mon-0) | failed | grok-4.6 / grok | 2026-08-17T23:40:15.162066+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p4.1--mon-0/chat.md) |
+| [sase-p4.2](../../../../../../agents/bbugyi200.athena.sase-p4.2/README.md) | completed | sonnet / claude | 2026-08-17T22:55:04.347595+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-p4.2/chat.md) |
+| [sase-p4.land](../../../../../../agents/bbugyi200.athena.sase-p4.land/README.md) | waiting | opus / claude | 20260817185438 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.land/prompt.md) |
+| [sase-p4.4](../../../../../../agents/bbugyi200.athena.sase-p4.4/README.md) | waiting | grok-4.6 / grok | 20260817185436 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.4/prompt.md) |
+| [sase-p4.3--4](../../../../../../families/bbugyi200.athena.sase-p4.3.md#member-4) | active | grok-4.6 / grok | 2026-08-18T02:50:36.684954+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.3--4/prompt.md) |
+| [sase-p4.3--1](../../../../../../families/bbugyi200.athena.sase-p4.3.md#member-1) | completed | grok-4.6 / grok | 2026-08-18T00:49:00.064206+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.3--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-p4.3--1/chat.md) |
+| [sase-p4.3--mon-1](../../../../../../families/bbugyi200.athena.sase-p4.3.md#member-mon-1) | failed | grok-4.6 / grok | 2026-08-18T01:54:40.763050+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p4.3--mon-1/chat.md) |
+| [sase-p4.3--mon](../../../../../../families/bbugyi200.athena.sase-p4.3.md#member-mon) | failed | grok-4.6 / grok | 2026-08-18T00:46:22.159922+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p4.3--mon/chat.md) |
+| [sase-p4.1--mon](../../../../../../families/bbugyi200.athena.sase-p4.1.md#member-mon) | failed | grok-4.6 / grok | 2026-08-17T23:25:26.302011+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p4.1--mon/chat.md) |
+| [sase-p4.1--1](../../../../../../families/bbugyi200.athena.sase-p4.1.md#member-1) | completed | grok-4.6 / grok | 2026-08-17T23:28:07.498937+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.1--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-p4.1--1/chat.md) |
+| [sase-p4.3--3](../../../../../../families/bbugyi200.athena.sase-p4.3.md#member-3) | completed | grok-4.6 / grok | 2026-08-18T02:17:49.378001+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.3--3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-p4.3--3/chat.md) |
+| [sase-p4.3--mon-2](../../../../../../families/bbugyi200.athena.sase-p4.3.md#member-mon-2) | failed | grok-4.6 / grok | 2026-08-18T02:27:10.860991+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p4.3--mon-2/chat.md) |
+| [sase-p4.1--plan](../../../../../../families/bbugyi200.athena.sase-p4.1.md#member-plan) | completed | grok-4.6 / grok | 2026-08-17T22:54:54.773010+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-p4.1--plan/chat.md) |
+| [sase-p4.3--plan](../../../../../../families/bbugyi200.athena.sase-p4.3.md#member-plan) | completed | grok-4.6 / grok | 2026-08-18T00:26:19.832784+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.3--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-p4.3--plan/chat.md) |
+| [sase-p4.5](../../../../../../agents/bbugyi200.athena.sase-p4.5/README.md) | waiting | sonnet / claude | 20260817185437 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p4.5/prompt.md) |
