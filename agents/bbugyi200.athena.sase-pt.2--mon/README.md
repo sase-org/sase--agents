@@ -1,8 +1,8 @@
-# Agent: sase-pt.2--plan
+# Agent: sase-pt.2--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-pt](../../users/bbugyi200/machines/athena/hoods/sase-pt/README.md) / [sase-pt.2](../../families/bbugyi200.athena.sase-pt.2.md) / sase-pt.2--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-pt](../../users/bbugyi200/machines/athena/hoods/sase-pt/README.md) / [sase-pt.2](../../families/bbugyi200.athena.sase-pt.2.md) / sase-pt.2--mon
 
-**Global name:** `bbugyi200.athena.sase-pt.2--plan` · **State:** completed · **Source run:** `run-7db79a009f1bbd1260685c84708e053a`
+**Global name:** `bbugyi200.athena.sase-pt.2--mon` · **State:** failed · **Source run:** `run-41da9b45d339b4ef7d02ef189f31210f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-pt
 
@@ -12,12 +12,12 @@
 - Epic: [sase-pt](https://github.com/sase-org/sase--beads/blob/main/pages/sase-pt/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-18T15:47:46.173532+00:00
+- Timing: 2026-08-18T15:55:34.175589+00:00
 - Commits: 0
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Neighbors
 
