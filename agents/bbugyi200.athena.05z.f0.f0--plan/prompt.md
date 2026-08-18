@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:05z.f0 Monitor members should continue reading as `MONITOR`. Also, when an agent family with monitors is selected, make sure that the command that was run by the monitor is shown right below the `MONITOR` header. #beau #plan

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4341dbe0e71092e791242719d1f44e0a"}
+{"commits":[{"committed_at":1787064159,"sha":"5df9ed7600535b957e4826c1797b5c9d0dc57114","subject":"feat(tui): show task-type chips on bead-gate toasts and rows"}],"schema_version":2,"source_run_id":"run-4341dbe0e71092e791242719d1f44e0a"}
