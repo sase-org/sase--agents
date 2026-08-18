@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-p2` · Members: 11 · Bead: [sase-p2.3]
 
 ```mermaid
 flowchart TD
-  n0["sase-p2.3--5 [active]"]
+  n0["sase-p2.3--5 [completed]"]
   n1["sase-p2.3--1 [completed]"]
   n0 --> n1
   n2["sase-p2.3--3 [completed]"]
@@ -35,7 +35,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-5"></a>5 | sase-p2.3--5 | active | sonnet / claude | 2026-08-18T01:59:41.314041+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p2.3--5/prompt.md) | — |
+| <a id="member-5"></a>5 | sase-p2.3--5 | completed | sonnet / claude | 2026-08-18T01:59:41.314041+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p2.3--5/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p2.3--5/chat.md) |
 | <a id="member-1"></a>1 | sase-p2.3--1 | completed | sonnet / claude | 2026-08-18T01:13:29.391399+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p2.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p2.3--1/chat.md) |
 | <a id="member-3"></a>3 | sase-p2.3--3 | completed | sonnet / claude | 2026-08-18T01:33:39.024688+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p2.3--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p2.3--3/chat.md) |
 | <a id="member-4"></a>4 | sase-p2.3--4 | completed | sonnet / claude | 2026-08-18T01:36:58.241962+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p2.3--4/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p2.3--4/chat.md) |
@@ -53,5 +53,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-p2.1](../agents/bbugyi200.athena.sase-p2.1/README.md) | sase-p2 hood | completed |
 | [sase-p2.2](bbugyi200.athena.sase-p2.2.md) (family · 3) | sase-p2 hood | completed 2, failed 1 |
-| [sase-p2.4](../agents/bbugyi200.athena.sase-p2.4/README.md) | sase-p2 hood | waiting |
+| [sase-p2.4](bbugyi200.athena.sase-p2.4.md) (family · 5) | sase-p2 hood | active 1, completed 2, failed 2 |
 | [sase-p2.land](../agents/bbugyi200.athena.sase-p2.land/README.md) | sase-p2 hood | waiting |
