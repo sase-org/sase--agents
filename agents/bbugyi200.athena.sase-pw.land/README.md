@@ -12,11 +12,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-18T20:40:28.280985+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8437cfd`](https://github.com/sase-org/sase/commit/8437cfd9c300679304bf2bb3ffcd6e9ad6045c52) | fix(project): restore sase project CLI after accent-map privatization | 2026-08-18 17:05:55 EDT |
 
 ## Neighbors
 
