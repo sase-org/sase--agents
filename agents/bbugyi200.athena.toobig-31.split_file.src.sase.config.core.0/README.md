@@ -29,4 +29,4 @@
 |---|---|---|
 | [toobig-31.split\_file.src.sase.ace.tui.modals.glossary\_panel.0](../bbugyi200.athena.toobig-31.split_file.src.sase.ace.tui.modals.glossary_panel.0/README.md) | toobig-31.split\_file.src.sase hood | completed |
 | [toobig-31.split\_file.tests.ace.tui.visual.\_ace\_prompt\_png\_snapshot\_helpers.0](../../families/bbugyi200.athena.toobig-31.split_file.tests.ace.tui.visual._ace_prompt_png_snapshot_helpers.0.md) (family · 3) | toobig-31.split\_file hood | completed 2, failed 1 |
-| [toobig-31.split\_file.tests.ace.tui.widgets.test\_agent\_display\_bead\_section.0](../bbugyi200.athena.toobig-31.split_file.tests.ace.tui.widgets.test_agent_display_bead_section.0/README.md) | toobig-31.split\_file hood | waiting |
+| [toobig-31.split\_file.tests.ace.tui.widgets.test\_agent\_display\_bead\_section.0](../bbugyi200.athena.toobig-31.split_file.tests.ace.tui.widgets.test_agent_display_bead_section.0/README.md) | toobig-31.split\_file hood | active |
