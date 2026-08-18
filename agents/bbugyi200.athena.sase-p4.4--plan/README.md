@@ -26,5 +26,5 @@
 | [sase-p4.1](../../families/bbugyi200.athena.sase-p4.1.md) (family · 5) | sase-p4 hood | completed 3, failed 2 |
 | [sase-p4.2](../bbugyi200.athena.sase-p4.2/README.md) | sase-p4 hood | completed |
 | [sase-p4.3](../../families/bbugyi200.athena.sase-p4.3.md) (family · 9) | sase-p4 hood | completed 5, failed 4 |
-| [sase-p4.5](../bbugyi200.athena.sase-p4.5/README.md) | sase-p4 hood | waiting |
-| [sase-p4.land](../bbugyi200.athena.sase-p4.land/README.md) | sase-p4 hood | waiting |
+| [sase-p4.5](../bbugyi200.athena.sase-p4.5/README.md) | sase-p4 hood | completed |
+| [sase-p4.land](../bbugyi200.athena.sase-p4.land/README.md) | sase-p4 hood | active |

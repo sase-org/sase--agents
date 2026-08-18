@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f1d5d083c3cb3cb10c03ead2cda51a02"}
+{"commits":[{"committed_at":1787030010,"sha":"d23a269e0dad75cdd8d4c154d5744e079b651986","subject":"docs: document the EpicResume gate, epic_resume chop, and its config"}],"schema_version":2,"source_run_id":"run-f1d5d083c3cb3cb10c03ead2cda51a02"}

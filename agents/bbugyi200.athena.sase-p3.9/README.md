@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-18T04:32:17.069062+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`66b8844`](https://github.com/sase-org/sase/commit/66b8844340fcf5f519b0cadcc5373f0b5d6718bf) | feat(task-types): add per-type corroboration thresholds for task triage | 2026-08-18 01:15:18 EDT |
 
 ## Neighbors
 
@@ -26,7 +32,7 @@
 | [sase-p3.1](../bbugyi200.athena.sase-p3.1/README.md) | sase-p3 hood | completed |
 | [sase-p3.10](../bbugyi200.athena.sase-p3.10/README.md) | sase-p3 hood | completed |
 | [sase-p3.11](../bbugyi200.athena.sase-p3.11/README.md) | sase-p3 hood | completed |
-| [sase-p3.12](../bbugyi200.athena.sase-p3.12/README.md) | sase-p3 hood | active |
+| [sase-p3.12](../bbugyi200.athena.sase-p3.12/README.md) | sase-p3 hood | completed |
 | [sase-p3.13](../bbugyi200.athena.sase-p3.13/README.md) | sase-p3 hood | waiting |
 | [sase-p3.14](../bbugyi200.athena.sase-p3.14/README.md) | sase-p3 hood | waiting |
 | [sase-p3.2](../bbugyi200.athena.sase-p3.2/README.md) | sase-p3 hood | completed |
