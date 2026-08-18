@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me stop showing the "Readiness" field on the "Beads" sub-tab of the "Artifacts" tab? This is redundant since any ready bead has a task of ready. #plan

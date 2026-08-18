@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a1924f273e18bf33980913cfc39c599a"}
+{"commits":[{"committed_at":1787074850,"sha":"98b27e849c3a3b562dc9f9a1c389945a73f26d4a","subject":"feat(feature-flags)!: collapse flag kinds and rebuild flag new on typed task beads"}],"schema_version":2,"source_run_id":"run-a1924f273e18bf33980913cfc39c599a"}

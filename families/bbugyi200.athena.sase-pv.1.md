@@ -39,9 +39,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-pv.2](../agents/bbugyi200.athena.sase-pv.2/README.md) | sase-pv hood | active |
-| [sase-pv.3](../agents/bbugyi200.athena.sase-pv.3/README.md) | sase-pv hood | waiting |
-| [sase-pv.4](../agents/bbugyi200.athena.sase-pv.4/README.md) | sase-pv hood | waiting |
+| [sase-pv.2](../agents/bbugyi200.athena.sase-pv.2/README.md) | sase-pv hood | completed |
+| [sase-pv.3](../agents/bbugyi200.athena.sase-pv.3/README.md) | sase-pv hood | completed |
+| [sase-pv.4](../agents/bbugyi200.athena.sase-pv.4/README.md) | sase-pv hood | active |
 | [sase-pv.5](../agents/bbugyi200.athena.sase-pv.5/README.md) | sase-pv hood | waiting |
 | [sase-pv.6](../agents/bbugyi200.athena.sase-pv.6/README.md) | sase-pv hood | waiting |
 | [sase-pv.7](../agents/bbugyi200.athena.sase-pv.7/README.md) | sase-pv hood | waiting |
