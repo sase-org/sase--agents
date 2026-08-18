@@ -1414,7 +1414,7 @@
 | [sase-on](hoods/sase-on/README.md) | 12 | 2 | completed 9, failed 3 |
 | [sase-oo](hoods/sase-oo/README.md) | 7 | 1 | completed 6, failed 1 |
 | [sase-op](hoods/sase-op/README.md) | 15 | 2 | active 1, completed 9, dismissed 1, failed 4 |
-| [sase-p1](hoods/sase-p1/README.md) | 23 | 2 | active 1, completed 12, dismissed 1, failed 7, waiting 2 |
+| [sase-p1](hoods/sase-p1/README.md) | 23 | 2 | active 1, completed 13, dismissed 1, failed 7, waiting 1 |
 | [sase-p2](hoods/sase-p2/README.md) | 23 | 4 | active 1, completed 13, failed 9 |
 | [sase-p3](hoods/sase-p3/README.md) | 19 | 1 | active 2, completed 8, failed 1, waiting 8 |
 | [sase-p4](hoods/sase-p4/README.md) | 18 | 2 | active 1, completed 8, failed 6, waiting 3 |
