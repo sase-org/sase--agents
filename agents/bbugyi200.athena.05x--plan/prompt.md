@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me remove the `; explicit-only` from muse and grok in the `Works with your agents` section of the README.md file? #plan
