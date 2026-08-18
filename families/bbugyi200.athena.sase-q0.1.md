@@ -40,6 +40,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-q0.2](../agents/bbugyi200.athena.sase-q0.2/README.md) | sase-q0 hood | completed |
-| [sase-q0.3](../agents/bbugyi200.athena.sase-q0.3/README.md) | sase-q0 hood | active |
+| [sase-q0.3](../agents/bbugyi200.athena.sase-q0.3/README.md) | sase-q0 hood | completed |
 | [sase-q0.4](../agents/bbugyi200.athena.sase-q0.4/README.md) | sase-q0 hood | waiting |
 | [sase-q0.land](../agents/bbugyi200.athena.sase-q0.land/README.md) | sase-q0 hood | waiting |
