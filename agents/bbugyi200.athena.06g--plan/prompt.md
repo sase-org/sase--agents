@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase The `06e` sase agent, which failed twice before succeeding on the 3rd retry, used the same workspace as the running `sase-pv.4` sase agent, which caused all of that agent's work to get wiped out. No two sase agents are ever allowed to run in the same workspace. I think this maybe happened because we released the workspace (#17) after the `06e` agent failed, but I'm not sure. Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix the issue?
+
+#plan

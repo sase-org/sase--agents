@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1946d2203880fb7b6a9d404c7f87e480"}
+{"commits":[{"committed_at":1787075749,"sha":"4cf7672bdf783666a3ecacaa7d72e29d6bf40a52","subject":"feat(project): derive current project from the VCS xprompt MRU"}],"schema_version":2,"source_run_id":"run-6146791e1e472a8da01eb50d411ec333"}

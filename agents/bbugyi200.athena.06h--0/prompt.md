@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #coder:~/.sase/plans/202608/beads_detail_hide_empty_fields.md %m:grok-4.6

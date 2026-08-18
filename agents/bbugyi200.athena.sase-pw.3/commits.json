@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7dfdd5089f62433581a5f54bbe07e40e"}
+{"commits":[{"committed_at":1787069998,"sha":"54083ca47c3b1fa07ff4b435a443945da1a3a2c4","subject":"feat(ace): add typed ace.current_project config"}],"schema_version":2,"source_run_id":"run-7dfdd5089f62433581a5f54bbe07e40e"}

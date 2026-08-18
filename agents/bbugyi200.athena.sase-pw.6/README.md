@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-pw](../../users/bbugyi200/machines/athena/hoods/sase-pw/README.md) / sase-pw.6
 
-**Global name:** `bbugyi200.athena.sase-pw.6` · **State:** waiting · **Source run:** `run-22b6a4a8c7020bce0e562a278856bea4`
+**Global name:** `bbugyi200.athena.sase-pw.6` · **State:** waiting · **Source run:** `run-ee299abafecc030735f4ec6f0a24731e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-pw
 
@@ -12,7 +12,7 @@
 - Epic: [sase-pw](https://github.com/sase-org/sase--beads/blob/main/pages/sase-pw/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20260818113135
+- Timing: 20260818131745
 - Commits: 0
 
 ## Files
@@ -25,7 +25,7 @@
 |---|---|---|
 | [sase-pw.1](../bbugyi200.athena.sase-pw.1/README.md) | sase-pw hood | active |
 | [sase-pw.2](../bbugyi200.athena.sase-pw.2/README.md) | sase-pw hood | completed |
-| [sase-pw.3](../bbugyi200.athena.sase-pw.3/README.md) | sase-pw hood | active |
+| [sase-pw.3](../bbugyi200.athena.sase-pw.3/README.md) | sase-pw hood | completed |
 | [sase-pw.4](../bbugyi200.athena.sase-pw.4/README.md) | sase-pw hood | waiting |
 | [sase-pw.5](../bbugyi200.athena.sase-pw.5/README.md) | sase-pw hood | waiting |
 | [sase-pw.7](../bbugyi200.athena.sase-pw.7/README.md) | sase-pw hood | waiting |
