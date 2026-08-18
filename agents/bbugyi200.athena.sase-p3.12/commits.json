@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7e6ad62a6f507cb2fa074ead7ec43c74"}
+{"commits":[{"committed_at":1787029278,"sha":"118a60836905cf08c8f226c610b6acec2e834880","subject":"feat(external-mirror): stamp github task type on new mirrored issues"}],"schema_version":2,"source_run_id":"run-7e6ad62a6f507cb2fa074ead7ec43c74"}
