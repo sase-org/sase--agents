@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1787090701,"sha":"7563372f12e7c8b259dcd2bf9654a73d3a110c02","subject":"fix(workspace): guard prepare_opened_checkout against occupied checkouts"}],"schema_version":2,"source_run_id":"run-af8b71f04ac9ae17c53043846af299f6"}
