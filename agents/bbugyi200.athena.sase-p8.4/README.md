@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-p8](../../users/bbugyi200/machines/athena/hoods/sase-p8/README.md) / sase-p8.4
 
-**Global name:** `bbugyi200.athena.sase-p8.4` · **State:** waiting · **Source run:** `run-582dafd21e525da1680e5852e8b814f0`
+**Global name:** `bbugyi200.athena.sase-p8.4` · **State:** active · **Source run:** `run-582dafd21e525da1680e5852e8b814f0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-p8
 
@@ -12,7 +12,7 @@
 - Epic: [sase-p8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-p8/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20260817190303
+- Timing: 2026-08-18T01:01:14.125033+00:00
 - Commits: 0
 
 ## Files
@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-p8.1](../bbugyi200.athena.sase-p8.1/README.md) | sase-p8 hood | completed |
-| [sase-p8.2](../../families/bbugyi200.athena.sase-p8.2.md) (family · 5) | sase-p8 hood | active 1, completed 2, failed 2 |
+| [sase-p8.2](../../families/bbugyi200.athena.sase-p8.2.md) (family · 5) | sase-p8 hood | completed 3, failed 2 |
 | [sase-p8.3](../bbugyi200.athena.sase-p8.3/README.md) | sase-p8 hood | completed |
 | [sase-p8.5](../bbugyi200.athena.sase-p8.5/README.md) | sase-p8 hood | waiting |
 | [sase-p8.6](../bbugyi200.athena.sase-p8.6/README.md) | sase-p8 hood | waiting |
