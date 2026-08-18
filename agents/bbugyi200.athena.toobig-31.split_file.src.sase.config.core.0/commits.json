@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0df212b1e4b14b094bb8e30ef87b7e27"}
+{"commits":[{"committed_at":1787051631,"sha":"9cc56d5fca8546bf3f0c023edf3446373364fd62","subject":"refactor(config): split core.py into settings and owner modules"}],"schema_version":2,"source_run_id":"run-0df212b1e4b14b094bb8e30ef87b7e27"}

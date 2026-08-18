@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-31](../../users/bbugyi200/machines/athena/hoods/toobig-31/README.md) / toobig-31.split\_file.src.sase.ace.tui.modals.glossary\_panel.0
 
-**Global name:** `bbugyi200.athena.toobig-31.split_file.src.sase.ace.tui.modals.glossary_panel.0` · **State:** active · **Source run:** `run-b736443c32c72b8e493fb9c22df95dae`
+**Global name:** `bbugyi200.athena.toobig-31.split_file.src.sase.ace.tui.modals.glossary_panel.0` · **State:** completed · **Source run:** `run-b736443c32c72b8e493fb9c22df95dae`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-31
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,6 +27,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-31.split\_file.src.sase.config.core.0](../bbugyi200.athena.toobig-31.split_file.src.sase.config.core.0/README.md) | toobig-31.split\_file.src.sase hood | waiting |
-| [toobig-31.split\_file.tests.ace.tui.visual.\_ace\_prompt\_png\_snapshot\_helpers.0](../bbugyi200.athena.toobig-31.split_file.tests.ace.tui.visual._ace_prompt_png_snapshot_helpers.0/README.md) | toobig-31.split\_file hood | waiting |
+| [toobig-31.split\_file.src.sase.config.core.0](../bbugyi200.athena.toobig-31.split_file.src.sase.config.core.0/README.md) | toobig-31.split\_file.src.sase hood | completed |
+| [toobig-31.split\_file.tests.ace.tui.visual.\_ace\_prompt\_png\_snapshot\_helpers.0](../bbugyi200.athena.toobig-31.split_file.tests.ace.tui.visual._ace_prompt_png_snapshot_helpers.0/README.md) | toobig-31.split\_file hood | active |
 | [toobig-31.split\_file.tests.ace.tui.widgets.test\_agent\_display\_bead\_section.0](../bbugyi200.athena.toobig-31.split_file.tests.ace.tui.widgets.test_agent_display_bead_section.0/README.md) | toobig-31.split\_file hood | waiting |

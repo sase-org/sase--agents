@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make the "Glossary" panel larger so we rarely need to wrap the left pane's rows across multiple lines (see #sshot for what this panel looks like now)? #plan

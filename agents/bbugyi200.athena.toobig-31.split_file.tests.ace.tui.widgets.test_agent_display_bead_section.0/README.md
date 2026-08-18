@@ -21,6 +21,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-31.split\_file.tests.ace.tui.visual.\_ace\_prompt\_png\_snapshot\_helpers.0](../bbugyi200.athena.toobig-31.split_file.tests.ace.tui.visual._ace_prompt_png_snapshot_helpers.0/README.md) | toobig-31.split\_file.tests.ace.tui hood | waiting |
-| [toobig-31.split\_file.src.sase.ace.tui.modals.glossary\_panel.0](../bbugyi200.athena.toobig-31.split_file.src.sase.ace.tui.modals.glossary_panel.0/README.md) | toobig-31.split\_file hood | active |
-| [toobig-31.split\_file.src.sase.config.core.0](../bbugyi200.athena.toobig-31.split_file.src.sase.config.core.0/README.md) | toobig-31.split\_file hood | waiting |
+| [toobig-31.split\_file.tests.ace.tui.visual.\_ace\_prompt\_png\_snapshot\_helpers.0](../bbugyi200.athena.toobig-31.split_file.tests.ace.tui.visual._ace_prompt_png_snapshot_helpers.0/README.md) | toobig-31.split\_file.tests.ace.tui hood | active |
+| [toobig-31.split\_file.src.sase.ace.tui.modals.glossary\_panel.0](../bbugyi200.athena.toobig-31.split_file.src.sase.ace.tui.modals.glossary_panel.0/README.md) | toobig-31.split\_file hood | completed |
+| [toobig-31.split\_file.src.sase.config.core.0](../bbugyi200.athena.toobig-31.split_file.src.sase.config.core.0/README.md) | toobig-31.split\_file hood | completed |

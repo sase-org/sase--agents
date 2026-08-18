@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start making the `Y` keymap start copying the text from the cursor to the end of the line in the prompt input widget? I'm pretty sure this keymap currently copies the entire line instead. #plan

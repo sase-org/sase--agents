@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2057836a71da1b2484228ba4c2f2963f"}
+{"commits":[{"committed_at":1787051822,"sha":"af951d1f943a999c565f36fdc0301c2c576dd02e","subject":"fix(llm_provider): make the discarded-work guard's failure diagnostic actionable"}],"schema_version":2,"source_run_id":"run-2057836a71da1b2484228ba4c2f2963f"}
