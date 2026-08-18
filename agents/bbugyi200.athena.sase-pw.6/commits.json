@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ee299abafecc030735f4ec6f0a24731e"}
+{"commits":[{"committed_at":1787082801,"sha":"26c53b07e76a4b87ce06d10d1be6e34101f2add8","subject":"feat(tui): seed panes and the + picker from the current project"}],"schema_version":2,"source_run_id":"run-ee299abafecc030735f4ec6f0a24731e"}
