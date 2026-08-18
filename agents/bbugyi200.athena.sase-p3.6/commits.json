@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-214704754fc82b1c7792b51c3bb091ad"}
+{"commits":[{"committed_at":1787024705,"sha":"0c4be02152b9c66b91c29c880c74c9bb50da2410","subject":"feat(task-types): add builtin catalog and `sase bead task-type`"}],"schema_version":2,"source_run_id":"run-214704754fc82b1c7792b51c3bb091ad"}
