@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ceca54eafae833e49e3b2c6dba2354a3"}
+{"commits":[{"committed_at":1787019175,"sha":"1e59c50e777002c9f573c78da43f7f09cdccddd7","subject":"feat(plugins): add plugins.required config and fail-closed enforcement"}],"schema_version":2,"source_run_id":"run-ceca54eafae833e49e3b2c6dba2354a3"}

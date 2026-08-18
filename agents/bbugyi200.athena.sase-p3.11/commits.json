@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0760fbacb5ba6f2668f1615e5015d297"}
+{"commits":[{"committed_at":1787022254,"sha":"e4f28dd57c9f9024d4face8cd48c3c36f2827eeb","subject":"feat(plugins): offer a gate to install missing required plugins"}],"schema_version":2,"source_run_id":"run-0760fbacb5ba6f2668f1615e5015d297"}

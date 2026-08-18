@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-62f8752c02b253bcc1fefb896b726173"}
+{"commits":[{"committed_at":1787094638,"sha":"155ba102bb8638f291377d6c8f39c89a64155baf","subject":"feat(plugins): pin sase-research-artifacts>=0.2.0 and drop git fallback"}],"schema_version":2,"source_run_id":"run-6c7d2ef64093da1999dc5f1f5fe11889"}
