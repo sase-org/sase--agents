@@ -1,23 +1,28 @@
-# Agent: sase-p3.3--mon
+# Agent: sase-p3.14--1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-p3](../../users/bbugyi200/machines/athena/hoods/sase-p3/README.md) / [sase-p3.3](../../families/bbugyi200.athena.sase-p3.3.md) / sase-p3.3--mon
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-p3](../../users/bbugyi200/machines/athena/hoods/sase-p3/README.md) / [sase-p3.14](../../families/bbugyi200.athena.sase-p3.14.md) / sase-p3.14--1
 
-**Global name:** `bbugyi200.athena.sase-p3.3--mon` · **State:** failed · **Source run:** `run-c2a3dd09ca67cf3bd88e986046953d42`
+**Global name:** `bbugyi200.athena.sase-p3.14--1` · **State:** active · **Source run:** `run-fdcce6b58e6d84861788132cce6a2d4b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-p3
 
 ## Summary
 
-- Bead: [sase-p3.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-p3/sase-p3.3.md)
-- Epic: [sase-p3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-p3/README.md)
+- Bead: [sase-p3.14](https://github.com/sase-org/sase--beads/blob/main/pages/sase-p3/sase-p3.14.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-18T00:36:01.831495+00:00
-- Commits: 0
+- Timing: 2026-08-18T08:02:38.202300+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md)
+[Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`1ad14c1`](https://github.com/sase-org/sase/commit/1ad14c1d1594219d1cbf233aa4203526d0ef0a46) | feat(task-types): document catalog and pin generated notes to committed types | 2026-08-18 04:12:20 EDT |
 
 ## Neighbors
 
@@ -28,8 +33,8 @@
 | [sase-p3.11](../bbugyi200.athena.sase-p3.11/README.md) | sase-p3 hood | completed |
 | [sase-p3.12](../bbugyi200.athena.sase-p3.12/README.md) | sase-p3 hood | completed |
 | [sase-p3.13](../bbugyi200.athena.sase-p3.13/README.md) | sase-p3 hood | completed |
-| [sase-p3.14](../../families/bbugyi200.athena.sase-p3.14.md) (family · 3) | sase-p3 hood | active 1, completed 1, failed 1 |
 | [sase-p3.2](../bbugyi200.athena.sase-p3.2/README.md) | sase-p3 hood | completed |
+| [sase-p3.3](../../families/bbugyi200.athena.sase-p3.3.md) (family · 5) | sase-p3 hood | active 1, completed 3, failed 1 |
 | [sase-p3.4](../bbugyi200.athena.sase-p3.4/README.md) | sase-p3 hood | completed |
 | [sase-p3.5](../bbugyi200.athena.sase-p3.5/README.md) | sase-p3 hood | completed |
 | [sase-p3.6](../bbugyi200.athena.sase-p3.6/README.md) | sase-p3 hood | completed |

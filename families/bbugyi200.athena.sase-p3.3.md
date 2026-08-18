@@ -43,8 +43,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-p3.10](../agents/bbugyi200.athena.sase-p3.10/README.md) | sase-p3 hood | completed |
 | [sase-p3.11](../agents/bbugyi200.athena.sase-p3.11/README.md) | sase-p3 hood | completed |
 | [sase-p3.12](../agents/bbugyi200.athena.sase-p3.12/README.md) | sase-p3 hood | completed |
-| [sase-p3.13](../agents/bbugyi200.athena.sase-p3.13/README.md) | sase-p3 hood | active |
-| [sase-p3.14](../agents/bbugyi200.athena.sase-p3.14/README.md) | sase-p3 hood | waiting |
+| [sase-p3.13](../agents/bbugyi200.athena.sase-p3.13/README.md) | sase-p3 hood | completed |
+| [sase-p3.14](bbugyi200.athena.sase-p3.14.md) (family · 3) | sase-p3 hood | active 1, completed 1, failed 1 |
 | [sase-p3.2](../agents/bbugyi200.athena.sase-p3.2/README.md) | sase-p3 hood | completed |
 | [sase-p3.4](../agents/bbugyi200.athena.sase-p3.4/README.md) | sase-p3 hood | completed |
 | [sase-p3.5](../agents/bbugyi200.athena.sase-p3.5/README.md) | sase-p3 hood | completed |
