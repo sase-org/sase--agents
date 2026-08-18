@@ -1,8 +1,8 @@
-# Agent: sase-p4.4--mon-2
+# Agent: sase-p4.4--4
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-p4](../../users/bbugyi200/machines/athena/hoods/sase-p4/README.md) / [sase-p4.4](../../families/bbugyi200.athena.sase-p4.4.md) / sase-p4.4--mon-2
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-p4](../../users/bbugyi200/machines/athena/hoods/sase-p4/README.md) / [sase-p4.4](../../families/bbugyi200.athena.sase-p4.4.md) / sase-p4.4--4
 
-**Global name:** `bbugyi200.athena.sase-p4.4--mon-2` · **State:** failed · **Source run:** `run-374818d54514ef01d1c436eb590715f9`
+**Global name:** `bbugyi200.athena.sase-p4.4--4` · **State:** active · **Source run:** `run-87b4337dd38fef66e698435aa9ee8a63`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-p4
 
@@ -11,12 +11,12 @@
 - Bead: [sase-p4.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-p4/sase-p4.4.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-18T04:07:17.844703+00:00
+- Timing: 2026-08-18T04:52:51.900235+00:00
 - Commits: 0
 
 ## Files
 
-[Chat](chat.md)
+[Prompt](prompt.md)
 
 ## Neighbors
 
