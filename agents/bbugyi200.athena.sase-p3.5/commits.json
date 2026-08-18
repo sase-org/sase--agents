@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-745d45ced605b30661ee6a4d0b90d883"}
+{"commits":[{"committed_at":1787021311,"sha":"3aedb971fe6e855490b0b23ce3a563e38a6b2186","subject":"feat(task-types): add task-type discovery, catalog assembly, and diagnostics"}],"schema_version":2,"source_run_id":"run-745d45ced605b30661ee6a4d0b90d883"}
