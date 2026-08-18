@@ -23,6 +23,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | sase-pq.4--mon | failed | grok-4.6 / grok | 2026-08-18T14:54:53.448863+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-pq.4--mon/chat.md) |
 | <a id="member-1"></a>1 | sase-pq.4--1 | completed | grok-4.6 / grok | 2026-08-18T15:19:20.078612+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-pq.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-pq.4--1/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`8786a35`](https://github.com/sase-org/sase/commit/8786a35717f7e9b67641e6234bf495418885b2d9) | feat(tui): show declared gate chips on pane and review modal | 2026-08-18 11:30:05 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
@@ -31,6 +37,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-pq.2](../agents/bbugyi200.athena.sase-pq.2/README.md) | sase-pq hood | completed |
 | [sase-pq.3](../agents/bbugyi200.athena.sase-pq.3/README.md) | sase-pq hood | completed |
 | [sase-pq.5](../agents/bbugyi200.athena.sase-pq.5/README.md) | sase-pq hood | completed |
-| [sase-pq.6](../agents/bbugyi200.athena.sase-pq.6/README.md) | sase-pq hood | active |
-| [sase-pq.7](../agents/bbugyi200.athena.sase-pq.7/README.md) | sase-pq hood | waiting |
-| [sase-pq.land](../agents/bbugyi200.athena.sase-pq.land/README.md) | sase-pq hood | waiting |
+| [sase-pq.6](../agents/bbugyi200.athena.sase-pq.6/README.md) | sase-pq hood | completed |
+| [sase-pq.7](bbugyi200.athena.sase-pq.7.md) (family · 3) | sase-pq hood | completed 2, failed 1 |
+| [sase-pq.land](../agents/bbugyi200.athena.sase-pq.land/README.md) | sase-pq hood | active |

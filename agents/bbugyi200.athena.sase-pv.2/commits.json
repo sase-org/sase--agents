@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7b1a656cfa9e6bdf8840072ae08eef3d"}
+{"commits":[{"committed_at":1787072253,"sha":"88d2a1582a1d4a94f75e55fc61c230f049b75691","subject":"feat(task-types): declare the project-local flag task type"}],"schema_version":2,"source_run_id":"run-7b1a656cfa9e6bdf8840072ae08eef3d"}

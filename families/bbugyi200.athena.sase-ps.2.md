@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-ps` · Members: 7 · Bead: [sase-ps.2](
 ```mermaid
 flowchart TD
   n0["sase-ps.2--2 [completed]"]
-  n1["sase-ps.2--3 [active]"]
+  n1["sase-ps.2--3 [completed]"]
   n0 --> n1
   n2["sase-ps.2--mon-0 [failed]"]
   n0 --> n2
@@ -28,12 +28,18 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-2"></a>2 | sase-ps.2--2 | completed | sonnet / claude | 2026-08-18T15:51:33.122836+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ps.2--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ps.2--2/chat.md) |
-| <a id="member-3"></a>3 | sase-ps.2--3 | active | sonnet / claude | 2026-08-18T16:04:27.172560+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ps.2--3/prompt.md) | — |
+| <a id="member-3"></a>3 | sase-ps.2--3 | completed | sonnet / claude | 2026-08-18T16:04:27.172560+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ps.2--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ps.2--3/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-ps.2--mon-0 | failed | sonnet / claude | 2026-08-18T15:48:33.669264+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ps.2--mon-0/chat.md) |
 | <a id="member-1"></a>1 | sase-ps.2--1 | completed | sonnet / claude | 2026-08-18T15:47:22.865435+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ps.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ps.2--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-ps.2--mon | failed | sonnet / claude | 2026-08-18T15:44:57.645362+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ps.2--mon/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-ps.2--mon-1 | failed | sonnet / claude | 2026-08-18T15:54:13.503171+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ps.2--mon-1/chat.md) |
 | <a id="member-plan"></a>plan | sase-ps.2--plan | completed | sonnet / claude | 2026-08-18T15:04:38.428262+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ps.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ps.2--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`f9a1afa`](https://github.com/sase-org/sase/commit/f9a1afae747f49021ca96a203ca76a8ace3a08e9) | fix(agent): count runner-slot occupancy the same way in ACE and agent listing | 2026-08-18 12:07:08 EDT |
 
 ## Neighbors
 
@@ -41,5 +47,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-ps.1](../agents/bbugyi200.athena.sase-ps.1/README.md) | sase-ps hood | completed |
 | [sase-ps.3](../agents/bbugyi200.athena.sase-ps.3/README.md) | sase-ps hood | completed |
-| [sase-ps.4](../agents/bbugyi200.athena.sase-ps.4/README.md) | sase-ps hood | waiting |
-| [sase-ps.land](../agents/bbugyi200.athena.sase-ps.land/README.md) | sase-ps hood | waiting |
+| [sase-ps.4](../agents/bbugyi200.athena.sase-ps.4/README.md) | sase-ps hood | completed |
+| [sase-ps.land](../agents/bbugyi200.athena.sase-ps.land/README.md) | sase-ps hood | active |

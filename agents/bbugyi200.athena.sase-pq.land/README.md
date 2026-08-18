@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-pq](../../users/bbugyi200/machines/athena/hoods/sase-pq/README.md) / sase-pq.land
 
-**Global name:** `bbugyi200.athena.sase-pq.land` · **State:** waiting · **Source run:** `run-e09630e1987e05d3279279557491204f`
+**Global name:** `bbugyi200.athena.sase-pq.land` · **State:** active · **Source run:** `run-e09630e1987e05d3279279557491204f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-pq
 
@@ -11,7 +11,7 @@
 - Bead: [sase-pq](https://github.com/sase-org/sase--beads/blob/main/pages/sase-pq/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260818093857
+- Timing: 2026-08-18T16:47:53.115068+00:00
 - Commits: 0
 
 ## Files
@@ -27,5 +27,5 @@
 | [sase-pq.3](../bbugyi200.athena.sase-pq.3/README.md) | sase-pq hood | completed |
 | [sase-pq.4](../../families/bbugyi200.athena.sase-pq.4.md) (family · 3) | sase-pq hood | completed 2, failed 1 |
 | [sase-pq.5](../bbugyi200.athena.sase-pq.5/README.md) | sase-pq hood | completed |
-| [sase-pq.6](../bbugyi200.athena.sase-pq.6/README.md) | sase-pq hood | active |
-| [sase-pq.7](../bbugyi200.athena.sase-pq.7/README.md) | sase-pq hood | waiting |
+| [sase-pq.6](../bbugyi200.athena.sase-pq.6/README.md) | sase-pq hood | completed |
+| [sase-pq.7](../../families/bbugyi200.athena.sase-pq.7.md) (family · 3) | sase-pq hood | completed 2, failed 1 |
