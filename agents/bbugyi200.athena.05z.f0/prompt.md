@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:05z We didn't break `MONITOR(<role>)` headers in this section though, right? #if_so_plan Those should remain the same and should continue to show the full output of the monitor command.
