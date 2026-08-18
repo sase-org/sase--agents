@@ -18,3 +18,9 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`008972d`](https://github.com/sase-org/sase/commit/008972df48a2c59ed6c4c3d2da640303d72391c9) | feat(ace): revert agent changes across linked repos | 2026-06-25 07:54:22 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [05t.f0](../../families/bbugyi200.athena.05t.f0.md) (family · 2) | descendant | active 2 |

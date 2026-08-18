@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add excellent support for the new `task_type` task bead field to task bead sase gate notifications (e.g. the toast, the notication panel preview, the actual gate panel, all of it...)? #beau #plan

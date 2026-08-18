@@ -81,4 +81,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [chop.refresh\_docs.sase.4\_812596.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.4_812596.2/README.md) | chop.refresh\_docs.sase hood | completed |
 | [chop.refresh\_docs.sase.4\_900125.1](../agents/bbugyi200.athena.chop.refresh_docs.sase.4_900125.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.4\_900125.2](../agents/bbugyi200.athena.chop.refresh_docs.sase.4_900125.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
-| … and 26 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/chop/README.md) | chop.refresh\_docs.sase hood | — |
+| … and 28 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/chop/README.md) | chop.refresh\_docs.sase hood | — |
