@@ -1,0 +1,20 @@
+#gh:gh_sase-org__sase
+%id(land, clan=sase-p3, bead=sase-p3)
+%model:@xlarge
+%auto
+%w:sase-p3.1,sase-p3.3,sase-p3.2,sase-p3.4,sase-p3.5,sase-p3.11,sase-p3.6,sase-p3.7,sase-p3.10,sase-p3.8,sase-p3.9,sase-p3.12,sase-p3.13,sase-p3.14
+%w(bead=sase-p3.1)
+%w(bead=sase-p3.2)
+%w(bead=sase-p3.3)
+%w(bead=sase-p3.4)
+%w(bead=sase-p3.5)
+%w(bead=sase-p3.6)
+%w(bead=sase-p3.7)
+%w(bead=sase-p3.8)
+%w(bead=sase-p3.9)
+%w(bead=sase-p3.10)
+%w(bead=sase-p3.11)
+%w(bead=sase-p3.12)
+%w(bead=sase-p3.13)
+%w(bead=sase-p3.14)
+#bd/land_epic:sase-p3
