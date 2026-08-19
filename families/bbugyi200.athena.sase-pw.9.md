@@ -41,4 +41,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-pw.6](../agents/bbugyi200.athena.sase-pw.6/README.md) | sase-pw hood | completed |
 | [sase-pw.7](bbugyi200.athena.sase-pw.7.md) (family · 5) | sase-pw hood | completed 3, failed 2 |
 | [sase-pw.8](bbugyi200.athena.sase-pw.8.md) (family · 5) | sase-pw hood | completed 3, failed 2 |
-| [sase-pw.land](../agents/bbugyi200.athena.sase-pw.land/README.md) | sase-pw hood | active |
+| [sase-pw.land](../agents/bbugyi200.athena.sase-pw.land/README.md) | sase-pw hood | completed |

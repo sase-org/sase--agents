@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Did we ever fix the issue where `@/path/to/file` references in bead notes / descriptions were not being expanded (see the most recent note left on the sase-pv.7 bead for context)? #if_not_plan

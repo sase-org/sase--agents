@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / toobig-34
 
-**Global hood:** `bbugyi200.athena.toobig-34` · **Runs:** 8 · **Families:** 0 · **States:** active 1, completed 2, waiting 5
+**Global hood:** `bbugyi200.athena.toobig-34` · **Runs:** 8 · **Families:** 0 · **States:** completed 4, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -12,5 +12,5 @@
 | [toobig-34.split\_file.tests.ace.tui.test\_retry\_edit\_agent\_name.0](../../../../../../agents/bbugyi200.athena.toobig-34.split_file.tests.ace.tui.test_retry_edit_agent_name.0/README.md) | waiting | opus / claude | 20260818172327 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-34.split_file.tests.ace.tui.test_retry_edit_agent_name.0/prompt.md) |
 | [toobig-34.split\_file.src.sase.agent.restart.0](../../../../../../agents/bbugyi200.athena.toobig-34.split_file.src.sase.agent.restart.0/README.md) | completed | opus / claude | 2026-08-18T21:24:17.802852+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.toobig-34.split_file.src.sase.agent.restart.0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.toobig-34.split_file.src.sase.agent.restart.0/prompt.md) |
 | [toobig-34.split\_file.tests.test\_config\_schema.0](../../../../../../agents/bbugyi200.athena.toobig-34.split_file.tests.test_config_schema.0/README.md) | waiting | opus / claude | 20260818172328 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-34.split_file.tests.test_config_schema.0/prompt.md) |
-| [toobig-34.split\_file.src.sase.running\_field.\_operations.0](../../../../../../agents/bbugyi200.athena.toobig-34.split_file.src.sase.running_field._operations.0/README.md) | active | opus / claude | 2026-08-18T21:45:10.989825+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-34.split_file.src.sase.running_field._operations.0/prompt.md) |
-| [toobig-34.split\_file.tests.ace.tui.test\_custom\_gate\_modal.0](../../../../../../agents/bbugyi200.athena.toobig-34.split_file.tests.ace.tui.test_custom_gate_modal.0/README.md) | waiting | opus / claude | 20260818172326 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-34.split_file.tests.ace.tui.test_custom_gate_modal.0/prompt.md) |
+| [toobig-34.split\_file.src.sase.running\_field.\_operations.0](../../../../../../agents/bbugyi200.athena.toobig-34.split_file.src.sase.running_field._operations.0/README.md) | completed | opus / claude | 2026-08-18T21:45:10.989825+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.toobig-34.split_file.src.sase.running_field._operations.0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.toobig-34.split_file.src.sase.running_field._operations.0/prompt.md) |
+| [toobig-34.split\_file.tests.ace.tui.test\_custom\_gate\_modal.0](../../../../../../agents/bbugyi200.athena.toobig-34.split_file.tests.ace.tui.test_custom_gate_modal.0/README.md) | completed | opus / claude | 2026-08-18T23:57:26.055090+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.toobig-34.split_file.tests.ace.tui.test_custom_gate_modal.0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.toobig-34.split_file.tests.ace.tui.test_custom_gate_modal.0/prompt.md) |

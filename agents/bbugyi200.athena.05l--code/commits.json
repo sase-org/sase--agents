@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1ee1b41b729d262736c1b9e883808056"}
+{"commits":[{"committed_at":1787050551,"sha":"e4319dbb413845cd3bba73471dd6049ab16ddacc","subject":"fix(glossary): infer project from numbered managed workspaces"}],"schema_version":2,"source_run_id":"run-1ee1b41b729d262736c1b9e883808056"}

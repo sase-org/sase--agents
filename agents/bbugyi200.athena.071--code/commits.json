@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-870395a3d9e4468bff48b8f8ecf0cb7b"}
+{"commits":[{"committed_at":1787095090,"sha":"4c5c06278109d6665e3581ebc96ac6323163b77f","subject":"fix(agent): reuse names on ,x only when the prompt declared %id"}],"schema_version":2,"source_run_id":"run-870395a3d9e4468bff48b8f8ecf0cb7b"}

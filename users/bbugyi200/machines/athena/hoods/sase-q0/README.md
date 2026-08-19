@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-q0
 
-**Global hood:** `bbugyi200.athena.sase-q0` · **Runs:** 15 · **Families:** 3 · **States:** active 1, completed 8, failed 5, waiting 1
+**Global hood:** `bbugyi200.athena.sase-q0` · **Runs:** 15 · **Families:** 3 · **States:** completed 10, failed 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-q0.5.land](../../../../../../agents/bbugyi200.athena.sase-q0.5.land/README.md) | waiting | opus / claude | 20260818174056 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-q0.5.land/prompt.md) |
-| [sase-q0.5.2](../../../../../../agents/bbugyi200.athena.sase-q0.5.2/README.md) | active | sonnet / claude | 2026-08-18T22:07:03.989775+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-q0.5.2/prompt.md) |
+| [sase-q0.5.land](../../../../../../agents/bbugyi200.athena.sase-q0.5.land/README.md) | completed | opus / claude | 2026-08-18T22:25:42.144894+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-q0.5.land/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-q0.5.land/prompt.md) |
+| [sase-q0.5.2](../../../../../../agents/bbugyi200.athena.sase-q0.5.2/README.md) | completed | sonnet / claude | 2026-08-18T22:07:03.989775+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-q0.5.2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-q0.5.2/prompt.md) |
 | [sase-q0.1--1](../../../../../../families/bbugyi200.athena.sase-q0.1.md#member-1) | completed | sonnet / claude | 2026-08-18T18:13:37.106661+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-q0.1--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-q0.1--1/prompt.md) |
 | [sase-q0.1--2](../../../../../../families/bbugyi200.athena.sase-q0.1.md#member-2) | completed | sonnet / claude | 2026-08-18T18:22:14.407551+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-q0.1--2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-q0.1--2/prompt.md) |
 | [sase-q0.1--mon](../../../../../../families/bbugyi200.athena.sase-q0.1.md#member-mon) | failed | sonnet / claude | 2026-08-18T18:12:29.616307+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-q0.1--mon/chat.md) |

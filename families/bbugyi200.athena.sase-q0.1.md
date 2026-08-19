@@ -43,6 +43,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-q0.3](../agents/bbugyi200.athena.sase-q0.3/README.md) | sase-q0 hood | completed |
 | [sase-q0.4](bbugyi200.athena.sase-q0.4.md) (family · 3) | sase-q0 hood | completed 2, failed 1 |
 | [sase-q0.5.1](../agents/bbugyi200.athena.sase-q0.5.1/README.md) | sase-q0 hood | completed |
-| [sase-q0.5.2](../agents/bbugyi200.athena.sase-q0.5.2/README.md) | sase-q0 hood | active |
-| [sase-q0.5.land](../agents/bbugyi200.athena.sase-q0.5.land/README.md) | sase-q0 hood | waiting |
+| [sase-q0.5.2](../agents/bbugyi200.athena.sase-q0.5.2/README.md) | sase-q0 hood | completed |
+| [sase-q0.5.land](../agents/bbugyi200.athena.sase-q0.5.land/README.md) | sase-q0 hood | completed |
 | [sase-q0.land](bbugyi200.athena.sase-q0.land.md) (family · 2) | sase-q0 hood | failed 2 |

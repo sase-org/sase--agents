@@ -32,4 +32,4 @@
 | [sase-ps.1](../bbugyi200.athena.sase-ps.1/README.md) | sase-ps hood | completed |
 | [sase-ps.2](../../families/bbugyi200.athena.sase-ps.2.md) (family · 7) | sase-ps hood | completed 4, failed 3 |
 | [sase-ps.4](../bbugyi200.athena.sase-ps.4/README.md) | sase-ps hood | completed |
-| [sase-ps.land](../bbugyi200.athena.sase-ps.land/README.md) | sase-ps hood | active |
+| [sase-ps.land](../bbugyi200.athena.sase-ps.land/README.md) | sase-ps hood | completed |

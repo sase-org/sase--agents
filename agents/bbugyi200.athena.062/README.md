@@ -19,3 +19,9 @@
 |---|---|---|---|
 | sase | [`dc17a19`](https://github.com/sase-org/sase/commit/dc17a19c071a8bc024cb02ae66df57b2082e46ac) | chore: Add SDD prompt and plan for bare\_percent\_directive\_menu | 2026-06-25 13:56:54 EDT |
 | sase | [`8ebcec3`](https://github.com/sase-org/sase/commit/8ebcec3cadf40ecbd63490fbd247f1513504f3f3) | feat(ace): open directive menu on bare percent | 2026-06-25 14:06:21 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [062.f1](../../families/bbugyi200.athena.062.f1.md) (family · 2) | descendant | dismissed 1, failed 1 |

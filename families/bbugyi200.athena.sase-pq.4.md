@@ -39,4 +39,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-pq.5](../agents/bbugyi200.athena.sase-pq.5/README.md) | sase-pq hood | completed |
 | [sase-pq.6](../agents/bbugyi200.athena.sase-pq.6/README.md) | sase-pq hood | completed |
 | [sase-pq.7](bbugyi200.athena.sase-pq.7.md) (family · 3) | sase-pq hood | completed 2, failed 1 |
-| [sase-pq.land](../agents/bbugyi200.athena.sase-pq.land/README.md) | sase-pq hood | active |
+| [sase-pq.land](bbugyi200.athena.sase-pq.land.md) (family · 9) | sase-pq hood | completed 5, failed 4 |

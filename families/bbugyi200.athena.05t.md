@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["05t--mon [failed]"]
   n0 --> n2
-  n3["05t--plan [completed]"]
+  n3["05t--plan [dismissed]"]
   n0 --> n3
 ```
 
@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | 05t--code | completed | grok-4.6 / grok | 2026-08-18T11:34:43.721392+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.05t--code/chat.md) |
 | <a id="member-1"></a>1 | 05t--1 | completed | grok-4.6 / grok | 2026-08-18T12:19:13.538905+00:00 | [1](../agents/bbugyi200.athena.05t--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.05t--1/prompt.md) | [Chat](../agents/bbugyi200.athena.05t--1/chat.md) |
 | <a id="member-mon"></a>mon | 05t--mon | failed | grok-4.6 / grok | 2026-08-18T12:16:37.770596+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.05t--mon/chat.md) |
-| <a id="member-plan"></a>plan | 05t--plan | completed | opus / claude | 2026-08-18T11:20:51.547125+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.05t--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.05t--plan/chat.md) |
+| <a id="member-plan"></a>plan | 05t--plan | dismissed | — | 2026-08-18T07:20:36 | 0 | — | — |
 
 ## Commits
 
@@ -37,4 +37,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [05t.f0](bbugyi200.athena.05t.f0.md) (family · 4) | descendant | active 1, completed 2, failed 1 |
+| [05t.f0](bbugyi200.athena.05t.f0.md) (family · 4) | descendant | completed 2, dismissed 1, failed 1 |

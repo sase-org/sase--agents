@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 06x--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-06x__plan-260818_180309.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-06x__code-260818_180309.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/framed_current_project_chip.md
 
 

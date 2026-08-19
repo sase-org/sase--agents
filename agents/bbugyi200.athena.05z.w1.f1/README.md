@@ -28,5 +28,5 @@
 | [05z](../bbugyi200.athena.05z/README.md) | ancestor | completed |
 | [05z.w1.f2](../bbugyi200.athena.05z.w1.f2/README.md) | 05z.w1 hood | completed |
 | [05z.w1.f2.f1](../bbugyi200.athena.05z.w1.f2.f1/README.md) | 05z.w1 hood | completed |
-| [05z.f0](../bbugyi200.athena.05z.f0/README.md) | 05z hood | completed |
-| [05z.f0.f0](../../families/bbugyi200.athena.05z.f0.f0.md) (family · 2) | 05z hood | active 2 |
+| [05z.f0](../bbugyi200.athena.05z.f0/README.md) | 05z hood | dismissed |
+| [05z.f0.f0](../../families/bbugyi200.athena.05z.f0.f0.md) (family · 4) | 05z hood | completed 2, dismissed 1, failed 1 |

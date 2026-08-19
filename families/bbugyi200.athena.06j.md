@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `06j` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["06j--plan [completed]"]
+  n0["06j--plan [dismissed]"]
   n1["06j--code [completed]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 06j--plan | completed | opus / claude | 2026-08-18T17:39:35.853743+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.06j--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.06j--plan/chat.md) |
+| <a id="member-plan"></a>plan | 06j--plan | dismissed | — | 2026-08-18T13:30:54 | 0 | — | — |
 | <a id="member-code"></a>code | 06j--code | completed | sonnet / claude | 2026-08-18T17:59:55.491952+00:00 | [1](../agents/bbugyi200.athena.06j--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.06j--code/chat.md) |
 
 ## Commits
@@ -32,4 +32,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [06j.f0](bbugyi200.athena.06j.f0.md) (family · 2) | descendant | active 2 |
+| [06j.f0](bbugyi200.athena.06j.f0.md) (family · 2) | descendant | completed 1, dismissed 1 |

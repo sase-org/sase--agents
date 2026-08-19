@@ -47,5 +47,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-pv.7](../agents/bbugyi200.athena.sase-pv.7/README.md) | sase-pv hood | completed |
 | [sase-pv.7.f0](../agents/bbugyi200.athena.sase-pv.7.f0/README.md) | sase-pv hood | completed |
 | [sase-pv.8](bbugyi200.athena.sase-pv.8.md) (family · 3) | sase-pv hood | completed 2, failed 1 |
-| [sase-pv.9](../agents/bbugyi200.athena.sase-pv.9/README.md) | sase-pv hood | active |
-| [sase-pv.land](../agents/bbugyi200.athena.sase-pv.land/README.md) | sase-pv hood | waiting |
+| [sase-pv.9](../agents/bbugyi200.athena.sase-pv.9/README.md) | sase-pv hood | completed |
+| [sase-pv.land](bbugyi200.athena.sase-pv.land.md) (family · 2) | sase-pv hood | active 1, completed 1 |

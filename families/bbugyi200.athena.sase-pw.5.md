@@ -35,6 +35,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-3"></a>3 | sase-pw.5--3 | completed | grok-4.6 / grok | 2026-08-18T19:42:01.886112+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-pw.5--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-pw.5--3/chat.md) |
 | <a id="member-2"></a>2 | sase-pw.5--2 | completed | grok-4.6 / grok | 2026-08-18T19:15:28.388426+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-pw.5--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-pw.5--2/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`d6f88f7`](https://github.com/sase-org/sase/commit/d6f88f7b9e73d148ee15e5e01430a9b6ba4b9e0c) | feat(tui): seed Artifacts scope from the current project | 2026-08-18 15:46:22 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
@@ -47,4 +53,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-pw.7](bbugyi200.athena.sase-pw.7.md) (family · 5) | sase-pw hood | completed 3, failed 2 |
 | [sase-pw.8](bbugyi200.athena.sase-pw.8.md) (family · 5) | sase-pw hood | completed 3, failed 2 |
 | [sase-pw.9](bbugyi200.athena.sase-pw.9.md) (family · 3) | sase-pw hood | completed 2, failed 1 |
-| [sase-pw.land](../agents/bbugyi200.athena.sase-pw.land/README.md) | sase-pw hood | active |
+| [sase-pw.land](../agents/bbugyi200.athena.sase-pw.land/README.md) | sase-pw hood | completed |

@@ -29,6 +29,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-1"></a>1 | sase-pw.8--1 | completed | grok-4.6 / grok | 2026-08-18T19:23:52.097192+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-pw.8--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-pw.8--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-pw.8--mon | failed | grok-4.6 / grok | 2026-08-18T18:37:46.301845+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-pw.8--mon/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`a6e374d`](https://github.com/sase-org/sase/commit/a6e374d001efceae220525746865e3f6ac709c2f) | feat(cli): add sase project current | 2026-08-18 15:54:58 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
@@ -41,4 +47,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-pw.6](../agents/bbugyi200.athena.sase-pw.6/README.md) | sase-pw hood | completed |
 | [sase-pw.7](bbugyi200.athena.sase-pw.7.md) (family · 5) | sase-pw hood | completed 3, failed 2 |
 | [sase-pw.9](bbugyi200.athena.sase-pw.9.md) (family · 3) | sase-pw hood | completed 2, failed 1 |
-| [sase-pw.land](../agents/bbugyi200.athena.sase-pw.land/README.md) | sase-pw hood | active |
+| [sase-pw.land](../agents/bbugyi200.athena.sase-pw.land/README.md) | sase-pw hood | completed |

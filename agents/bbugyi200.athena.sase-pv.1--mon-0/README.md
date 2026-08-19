@@ -30,5 +30,5 @@
 | [sase-pv.7](../bbugyi200.athena.sase-pv.7/README.md) | sase-pv hood | completed |
 | [sase-pv.7.f0](../bbugyi200.athena.sase-pv.7.f0/README.md) | sase-pv hood | completed |
 | [sase-pv.8](../../families/bbugyi200.athena.sase-pv.8.md) (family · 3) | sase-pv hood | completed 2, failed 1 |
-| [sase-pv.9](../bbugyi200.athena.sase-pv.9/README.md) | sase-pv hood | active |
-| [sase-pv.land](../bbugyi200.athena.sase-pv.land/README.md) | sase-pv hood | waiting |
+| [sase-pv.9](../bbugyi200.athena.sase-pv.9/README.md) | sase-pv hood | completed |
+| [sase-pv.land](../../families/bbugyi200.athena.sase-pv.land.md) (family · 2) | sase-pv hood | active 1, completed 1 |

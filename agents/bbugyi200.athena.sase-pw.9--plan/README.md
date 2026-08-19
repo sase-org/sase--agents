@@ -31,4 +31,4 @@
 | [sase-pw.6](../bbugyi200.athena.sase-pw.6/README.md) | sase-pw hood | completed |
 | [sase-pw.7](../../families/bbugyi200.athena.sase-pw.7.md) (family · 5) | sase-pw hood | completed 3, failed 2 |
 | [sase-pw.8](../../families/bbugyi200.athena.sase-pw.8.md) (family · 5) | sase-pw hood | completed 3, failed 2 |
-| [sase-pw.land](../bbugyi200.athena.sase-pw.land/README.md) | sase-pw hood | active |
+| [sase-pw.land](../bbugyi200.athena.sase-pw.land/README.md) | sase-pw hood | completed |

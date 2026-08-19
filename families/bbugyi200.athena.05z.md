@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `05z` · Members: 8
 
 ```mermaid
 flowchart TD
-  n0["05z--plan [completed]"]
+  n0["05z--plan [dismissed]"]
   n1["05z--1 [completed]"]
   n0 --> n1
   n2["05z--mon-0 [failed]"]
@@ -29,7 +29,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 05z--plan | completed | opus / claude | 2026-08-18T12:37:37.102003+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.05z--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.05z--plan/chat.md) |
+| <a id="member-plan"></a>plan | 05z--plan | dismissed | — | 2026-08-18T08:37:23 | 0 | — | — |
 | <a id="member-1"></a>1 | 05z--1 | completed | sonnet / claude | 2026-08-18T13:17:40.324147+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.05z--1/prompt.md) | [Chat](../agents/bbugyi200.athena.05z--1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 05z--mon-0 | failed | sonnet / claude | 2026-08-18T13:19:21.304253+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.05z--mon-0/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | 05z--mon-1 | failed | sonnet / claude | 2026-08-18T13:45:32.689918+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.05z--mon-1/chat.md) |
@@ -50,8 +50,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [05z.f0](../agents/bbugyi200.athena.05z.f0/README.md) | descendant | completed |
-| [05z.f0.f0](bbugyi200.athena.05z.f0.f0.md) (family · 2) | descendant | active 2 |
+| [05z.f0](../agents/bbugyi200.athena.05z.f0/README.md) | descendant | dismissed |
+| [05z.f0.f0](bbugyi200.athena.05z.f0.f0.md) (family · 4) | descendant | completed 2, dismissed 1, failed 1 |
 | [05z.w1](../agents/bbugyi200.athena.05z.w1/README.md) | descendant | completed |
 | [05z.w1.f1](../agents/bbugyi200.athena.05z.w1.f1/README.md) | descendant | completed |
 | [05z.w1.f2](../agents/bbugyi200.athena.05z.w1.f2/README.md) | descendant | completed |

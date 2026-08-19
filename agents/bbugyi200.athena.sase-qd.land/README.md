@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-qd](../../users/bbugyi200/machines/athena/hoods/sase-qd/README.md) / sase-qd.land
 
-**Global name:** `bbugyi200.athena.sase-qd.land` · **State:** active · **Source run:** `run-e4799e9e502ee642f67002ebaddb87f2`
+**Global name:** `bbugyi200.athena.sase-qd.land` · **State:** completed · **Source run:** `run-e4799e9e502ee642f67002ebaddb87f2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-qd
 
@@ -16,7 +16,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
