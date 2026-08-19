@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-qt](../../users/bbugyi200/machines/athena/hoods/sase-qt/README.md) / sase-qt.land
 
-**Global name:** `bbugyi200.athena.sase-qt.land` · **State:** active · **Source run:** `run-1c537a32b23b4a97aaa1bfaeac27ce33`
+**Global name:** `bbugyi200.athena.sase-qt.land` · **State:** completed · **Source run:** `run-1c537a32b23b4a97aaa1bfaeac27ce33`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-qt
 
@@ -12,11 +12,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-19T17:13:32.700057+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`13365a9`](https://github.com/sase-org/sase/commit/13365a95b08290d0b501f4c0e330cdef1382f3d9) | fix(memory): treat the generated glossary note as read-only in the Memory panel | 2026-08-19 15:07:03 EDT |
 
 ## Neighbors
 

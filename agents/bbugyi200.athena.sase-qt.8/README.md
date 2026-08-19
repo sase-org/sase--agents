@@ -36,4 +36,4 @@
 | [sase-qt.5](../bbugyi200.athena.sase-qt.5/README.md) | sase-qt hood | completed |
 | [sase-qt.6](../bbugyi200.athena.sase-qt.6/README.md) | sase-qt hood | completed |
 | [sase-qt.7](../bbugyi200.athena.sase-qt.7/README.md) | sase-qt hood | completed |
-| [sase-qt.land](../bbugyi200.athena.sase-qt.land/README.md) | sase-qt hood | active |
+| [sase-qt.land](../bbugyi200.athena.sase-qt.land/README.md) | sase-qt hood | completed |

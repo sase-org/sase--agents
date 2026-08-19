@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1c537a32b23b4a97aaa1bfaeac27ce33"}
+{"commits":[{"committed_at":1787166423,"sha":"13365a95b08290d0b501f4c0e330cdef1382f3d9","subject":"fix(memory): treat the generated glossary note as read-only in the Memory panel"}],"schema_version":2,"source_run_id":"run-1c537a32b23b4a97aaa1bfaeac27ce33"}

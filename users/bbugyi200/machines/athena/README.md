@@ -1455,7 +1455,7 @@
 | [sase-qc](hoods/sase-qc/README.md) | 5 | 1 | completed 3, failed 2 |
 | [sase-qd](hoods/sase-qd/README.md) | 6 | 0 | completed 6 |
 | [sase-qn](hoods/sase-qn/README.md) | 8 | 1 | completed 7, failed 1 |
-| [sase-qt](hoods/sase-qt/README.md) | 9 | 0 | active 1, completed 8 |
+| [sase-qt](hoods/sase-qt/README.md) | 9 | 0 | completed 9 |
 | [sase-qv](hoods/sase-qv/README.md) | 8 | 0 | active 1, completed 7 |
 | [sase-qw](hoods/sase-qw/README.md) | 8 | 1 | active 1, completed 5, failed 2 |
 | [sase-qx](hoods/sase-qx/README.md) | 8 | 1 | active 1, completed 4, failed 1, waiting 2 |
