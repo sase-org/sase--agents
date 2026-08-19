@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ab026c3627801d7fb6d743acba2181ba"}
+{"commits":[{"committed_at":1787181657,"sha":"e85e1a7bcacda333a5d78f62e5639880902fd717","subject":"feat(ace): hide left-side titles on sase agent and proc shells"}],"schema_version":2,"source_run_id":"run-ab026c3627801d7fb6d743acba2181ba"}

@@ -11,4 +11,10 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-19T22:36:03.758804+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`e85e1a7`](https://github.com/sase-org/sase/commit/e85e1a7bcacda333a5d78f62e5639880902fd717) | feat(ace): hide left-side titles on sase agent and proc shells | 2026-08-19 19:20:57 EDT |
