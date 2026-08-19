@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e4799e9e502ee642f67002ebaddb87f2"}
+{"commits":[{"committed_at":1787102954,"sha":"b6779c4d6d0e40ed4e625298b380b137128bda41","subject":"fix(tui): keep the Projects highlight when a current-project resolve lands"}],"schema_version":2,"source_run_id":"run-e4799e9e502ee642f67002ebaddb87f2"}
