@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-22b5bdafa5df939afc602b797afac63a"}
+{"commits":[{"committed_at":1787103443,"sha":"41d9f9141b537785164d83ca665c6c30cf81d211","subject":"perf(tui): make plugins-browser render, filter, and navigation paths constant-time"}],"schema_version":2,"source_run_id":"run-22b5bdafa5df939afc602b797afac63a"}
