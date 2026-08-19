@@ -13,7 +13,7 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-19T13:14:17.738696+00:00
-- Commits: [1](#commits)
+- Commits: [2](#commits)
 
 ## Files
 
@@ -24,6 +24,7 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`4245a6d`](https://github.com/sase-org/sase/commit/4245a6dfe84c2bca1284a8a3061294313f139716) | fix(tools): match validate\_sase\_core\_rs probe to the new provider-disable mode param | 2026-08-19 10:51:55 EDT |
+| sase | [`edf64fa`](https://github.com/sase-org/sase/commit/edf64fa1cfe8ff0de58cd04657d27331bd7ef852) | feat(tui): add Memory panel shell, note rail, filter, and scope switching | 2026-08-19 10:55:24 EDT |
 
 ## Neighbors
 
