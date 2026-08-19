@@ -13,11 +13,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-19T17:12:04.058402+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`44415dd`](https://github.com/sase-org/sase/commit/44415dddd0904937d59d3c65fa6e5988bcb95bea) | feat(agent): refuse launches that can only run on a hard-disabled provider | 2026-08-19 14:47:47 EDT |
 
 ## Neighbors
 
@@ -25,6 +31,6 @@
 |---|---|---|
 | [sase-qx.1](../bbugyi200.athena.sase-qx.1/README.md) | sase-qx hood | completed |
 | [sase-qx.2](../bbugyi200.athena.sase-qx.2/README.md) | sase-qx hood | completed |
-| [sase-qx.3](../../families/bbugyi200.athena.sase-qx.3.md) (family · 3) | sase-qx hood | active 1, completed 1, failed 1 |
-| [sase-qx.5](../bbugyi200.athena.sase-qx.5/README.md) | sase-qx hood | waiting |
+| [sase-qx.3](../../families/bbugyi200.athena.sase-qx.3.md) (family · 3) | sase-qx hood | completed 2, failed 1 |
+| [sase-qx.5](../bbugyi200.athena.sase-qx.5/README.md) | sase-qx hood | active |
 | [sase-qx.land](../bbugyi200.athena.sase-qx.land/README.md) | sase-qx hood | waiting |

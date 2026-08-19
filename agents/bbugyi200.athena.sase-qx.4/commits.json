@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2614ea96f9f5499c41beb2ce23b4e534"}
+{"commits":[{"committed_at":1787165267,"sha":"44415dddd0904937d59d3c65fa6e5988bcb95bea","subject":"feat(agent): refuse launches that can only run on a hard-disabled provider"}],"schema_version":2,"source_run_id":"run-2614ea96f9f5499c41beb2ce23b4e534"}
