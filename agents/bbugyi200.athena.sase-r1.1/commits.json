@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-9213d07163fe7b1a72d8fe1d9ac96ceb"}
+{"commits":[{"committed_at":1787160473,"sha":"012948e7c749cf8f563fadef8defc236892faec6","subject":"feat(tui): cache update evidence and project Update panel rows"}],"schema_version":2,"source_run_id":"run-9213d07163fe7b1a72d8fe1d9ac96ceb"}
