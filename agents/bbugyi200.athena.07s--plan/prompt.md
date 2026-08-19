@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add a new `all` sub-command to the `sase glossary` command that displays all glossary terms? #beau #plan

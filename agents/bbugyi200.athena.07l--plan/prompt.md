@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Selecting the hint assocatied with a sase agent running the `sase glossary read` command (see #sshot for context) should show the output of that command, not the sase/sase.yml file's contents. Can you help me fix this? #plan

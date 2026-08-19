@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start always showing the query bar at the top of all sub-tabs on the "Artifacts" tab like we already do for the "Stitch" and "Patch" sub-tabs? #beau #plan

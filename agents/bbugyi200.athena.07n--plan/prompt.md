@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase Sometimes sase agent launches fail and then I receive a toast telling me to go the "Logs" tab of the "SASE Admin Center" panel to find the error messaage. The problem is that this logs tab has many sources and navigating it to find a specific error is difficult. Can you help me fix this by adding a new `,L` keymap that jumps directly to the specific log entry related to the most recently registered error ("registered errors" should always be associated with toasts that direct the user to use the `,L` keymap) on that tab?
+
+#plan
