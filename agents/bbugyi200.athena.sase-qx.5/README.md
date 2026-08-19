@@ -25,6 +25,6 @@
 |---|---|---|
 | [sase-qx.1](../bbugyi200.athena.sase-qx.1/README.md) | sase-qx hood | completed |
 | [sase-qx.2](../bbugyi200.athena.sase-qx.2/README.md) | sase-qx hood | completed |
-| [sase-qx.3](../bbugyi200.athena.sase-qx.3/README.md) | sase-qx hood | active |
-| [sase-qx.4](../bbugyi200.athena.sase-qx.4/README.md) | sase-qx hood | active |
+| [sase-qx.3](../../families/bbugyi200.athena.sase-qx.3.md) (family · 3) | sase-qx hood | active 1, completed 1, failed 1 |
+| [sase-qx.4](../bbugyi200.athena.sase-qx.4/README.md) | sase-qx hood | completed |
 | [sase-qx.land](../bbugyi200.athena.sase-qx.land/README.md) | sase-qx hood | waiting |

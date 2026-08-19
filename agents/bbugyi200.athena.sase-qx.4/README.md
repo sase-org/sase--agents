@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-qx](../../users/bbugyi200/machines/athena/hoods/sase-qx/README.md) / sase-qx.4
 
-**Global name:** `bbugyi200.athena.sase-qx.4` · **State:** active · **Source run:** `run-2614ea96f9f5499c41beb2ce23b4e534`
+**Global name:** `bbugyi200.athena.sase-qx.4` · **State:** completed · **Source run:** `run-2614ea96f9f5499c41beb2ce23b4e534`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-qx
 
@@ -17,7 +17,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -25,6 +25,6 @@
 |---|---|---|
 | [sase-qx.1](../bbugyi200.athena.sase-qx.1/README.md) | sase-qx hood | completed |
 | [sase-qx.2](../bbugyi200.athena.sase-qx.2/README.md) | sase-qx hood | completed |
-| [sase-qx.3](../bbugyi200.athena.sase-qx.3/README.md) | sase-qx hood | active |
+| [sase-qx.3](../../families/bbugyi200.athena.sase-qx.3.md) (family · 3) | sase-qx hood | active 1, completed 1, failed 1 |
 | [sase-qx.5](../bbugyi200.athena.sase-qx.5/README.md) | sase-qx hood | waiting |
 | [sase-qx.land](../bbugyi200.athena.sase-qx.land/README.md) | sase-qx hood | waiting |
