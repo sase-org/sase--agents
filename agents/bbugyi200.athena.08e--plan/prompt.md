@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase We currently show an underlined `CLAN` at the top of the agent metadata panel when an agent clan is selected. We also show `TRIBE` at the top of this panel when an agent tribe is selected. But we don't show an underlined header at the top of the agent metadata panel when an agent family or an agent shell is selected. See the #sshot:3, #sshot:2, and #sshot screenshots for examples of what some of this looks like now. Can you help me start showing the new `FAMILY` and `AGENT SHELL` headers for these?
+
+#beau #plan
