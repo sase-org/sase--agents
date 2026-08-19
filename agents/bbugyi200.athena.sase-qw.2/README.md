@@ -13,16 +13,22 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-19T15:08:16.499844+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`422c8c2`](https://github.com/sase-org/sase/commit/422c8c2c57ad248a4e12e34c3e144eeb85ffb358) | feat(logs): stamp launch failures with a session error id | 2026-08-19 12:42:26 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-qw.1](../bbugyi200.athena.sase-qw.1/README.md) | sase-qw hood | completed |
-| [sase-qw.3](../bbugyi200.athena.sase-qw.3/README.md) | sase-qw hood | active |
-| [sase-qw.land](../bbugyi200.athena.sase-qw.land/README.md) | sase-qw hood | waiting |
+| [sase-qw.3](../bbugyi200.athena.sase-qw.3/README.md) | sase-qw hood | completed |
+| [sase-qw.land](../../families/bbugyi200.athena.sase-qw.land.md) (family · 5) | sase-qw hood | active 1, completed 2, failed 2 |

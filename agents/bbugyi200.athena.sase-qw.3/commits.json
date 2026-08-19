@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-73b57901ca18607c1b13202414e1045a"}
+{"commits":[{"committed_at":1787161249,"sha":"3285244e3b1b2622a19ae76f31896e83b0f45ca6","subject":"feat(tui): jump Logs pane to the registered error entry"}],"schema_version":2,"source_run_id":"run-73b57901ca18607c1b13202414e1045a"}

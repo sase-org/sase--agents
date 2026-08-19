@@ -30,5 +30,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-qw.2](../bbugyi200.athena.sase-qw.2/README.md) | sase-qw hood | completed |
-| [sase-qw.3](../bbugyi200.athena.sase-qw.3/README.md) | sase-qw hood | active |
-| [sase-qw.land](../bbugyi200.athena.sase-qw.land/README.md) | sase-qw hood | waiting |
+| [sase-qw.3](../bbugyi200.athena.sase-qw.3/README.md) | sase-qw hood | completed |
+| [sase-qw.land](../../families/bbugyi200.athena.sase-qw.land.md) (family · 5) | sase-qw hood | active 1, completed 2, failed 2 |
