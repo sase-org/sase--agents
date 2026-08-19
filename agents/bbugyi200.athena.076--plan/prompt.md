@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We currently show an orange gear next to monitor shells in the TUI on the agents tab. Can you help me start making that icon gray when the monitor associated with a monitor shell completes?  This should match the gray gear icons we use for completed monitors elsewhere. #plan

@@ -24,6 +24,6 @@
 |---|---|---|
 | [sase-qd.1](../bbugyi200.athena.sase-qd.1/README.md) | sase-qd hood | completed |
 | [sase-qd.2](../bbugyi200.athena.sase-qd.2/README.md) | sase-qd hood | completed |
-| [sase-qd.3](../bbugyi200.athena.sase-qd.3/README.md) | sase-qd hood | active |
-| [sase-qd.4](../bbugyi200.athena.sase-qd.4/README.md) | sase-qd hood | waiting |
-| [sase-qd.5](../bbugyi200.athena.sase-qd.5/README.md) | sase-qd hood | waiting |
+| [sase-qd.3](../bbugyi200.athena.sase-qd.3/README.md) | sase-qd hood | completed |
+| [sase-qd.4](../bbugyi200.athena.sase-qd.4/README.md) | sase-qd hood | completed |
+| [sase-qd.5](../bbugyi200.athena.sase-qd.5/README.md) | sase-qd hood | active |

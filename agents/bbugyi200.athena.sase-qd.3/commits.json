@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7a71b67b3b2ba522a0947358bfa0d02e"}
+{"commits":[{"committed_at":1787096386,"sha":"3df6abe123b9497d095a2cbb966fd0b525e65311","subject":"feat(tui): make every Projects-tab key configurable"}],"schema_version":2,"source_run_id":"run-7a71b67b3b2ba522a0947358bfa0d02e"}
