@@ -76,5 +76,5 @@
 | [chop.refresh\_docs.sase.4\_812596.2](../bbugyi200.athena.chop.refresh_docs.sase.4_812596.2/README.md) | chop.refresh\_docs.sase hood | completed |
 | [chop.refresh\_docs.sase.4\_900125.1](../bbugyi200.athena.chop.refresh_docs.sase.4_900125.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.4\_900125.2](../bbugyi200.athena.chop.refresh_docs.sase.4_900125.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
-| [chop.refresh\_docs.sase.5\_036393.1](../bbugyi200.athena.chop.refresh_docs.sase.5_036393.1/README.md) | chop.refresh\_docs.sase hood | active |
+| [chop.refresh\_docs.sase.5\_036393.1](../bbugyi200.athena.chop.refresh_docs.sase.5_036393.1/README.md) | chop.refresh\_docs.sase hood | completed |
 | … and 29 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/chop/README.md) | chop.refresh\_docs.sase hood | — |
