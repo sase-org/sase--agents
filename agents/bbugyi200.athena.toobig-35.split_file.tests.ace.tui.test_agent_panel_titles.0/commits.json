@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-afac39ff91dd7f7920f898dc08ef953e"}
+{"commits":[{"committed_at":1787116398,"sha":"c75a27d9b3d3ef1f5552db288769a1aaa7e93dfc","subject":"test(tui): split agent panel title tests into focused modules"}],"schema_version":2,"source_run_id":"run-afac39ff91dd7f7920f898dc08ef953e"}
