@@ -36,5 +36,5 @@
 | [toobig-35.split\_file.tests.test\_axe\_run\_agent\_exec\_retry.0](../bbugyi200.athena.toobig-35.split_file.tests.test_axe_run_agent_exec_retry.0/README.md) | toobig-35.split\_file hood | completed |
 | [toobig-35.split\_file.tests.test\_config\_schema.0](../bbugyi200.athena.toobig-35.split_file.tests.test_config_schema.0/README.md) | toobig-35.split\_file hood | completed |
 | [toobig-35.split\_file.tests.test\_run\_agent\_runner\_lifecycle.0](../bbugyi200.athena.toobig-35.split_file.tests.test_run_agent_runner_lifecycle.0/README.md) | toobig-35.split\_file hood | completed |
-| [toobig-35.split\_file.tests.test\_running\_field\_operations.0](../bbugyi200.athena.toobig-35.split_file.tests.test_running_field_operations.0/README.md) | toobig-35.split\_file hood | active |
-| [toobig-35.split\_file.tests.test\_suite\_gate.0](../bbugyi200.athena.toobig-35.split_file.tests.test_suite_gate.0/README.md) | toobig-35.split\_file hood | waiting |
+| [toobig-35.split\_file.tests.test\_running\_field\_operations.0](../bbugyi200.athena.toobig-35.split_file.tests.test_running_field_operations.0/README.md) | toobig-35.split\_file hood | completed |
+| [toobig-35.split\_file.tests.test\_suite\_gate.0](../bbugyi200.athena.toobig-35.split_file.tests.test_suite_gate.0/README.md) | toobig-35.split\_file hood | active |
