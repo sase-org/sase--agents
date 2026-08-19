@@ -2,29 +2,32 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-qv](../users/bbugyi200/machines/athena/hoods/sase-qv/README.md) / sase-qv.8.2
 
-Owner: `bbugyi200.athena` · Hood: `sase-qv` · Members: 2 · Bead: [sase-qv.8.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-qv/sase-qv.8.2.md)
+Owner: `bbugyi200.athena` · Hood: `sase-qv` · Members: 3 · Bead: [sase-qv.8.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-qv/sase-qv.8.2.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-qv.8.2--mon [active]"]
+  n0["sase-qv.8.2--mon [failed]"]
   n1["sase-qv.8.2--plan [completed]"]
   n0 --> n1
+  n2["sase-qv.8.2--1 [completed]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | sase-qv.8.2--mon | active | grok-4.6 / grok | 2026-08-19T20:53:45.342529+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-qv.8.2--mon | failed | grok-4.6 / grok | 2026-08-19T20:53:45.342529+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-qv.8.2--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-qv.8.2--plan | completed | grok-4.6 / grok | 2026-08-19T20:12:28.261370+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-qv.8.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-qv.8.2--plan/chat.md) |
+| <a id="member-1"></a>1 | sase-qv.8.2--1 | completed | grok-4.6 / grok | 2026-08-19T22:05:24.286549+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-qv.8.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-qv.8.2--1/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-qv.8.1](../agents/bbugyi200.athena.sase-qv.8.1/README.md) | sase-qv.8 hood | active |
+| [sase-qv.8.1](../agents/bbugyi200.athena.sase-qv.8.1/README.md) | sase-qv.8 hood | completed |
 | [sase-qv.8.land](../agents/bbugyi200.athena.sase-qv.8.land/README.md) | sase-qv.8 hood | waiting |
 | [sase-qv.1](../agents/bbugyi200.athena.sase-qv.1/README.md) | sase-qv hood | completed |
 | [sase-qv.2](../agents/bbugyi200.athena.sase-qv.2/README.md) | sase-qv hood | completed |

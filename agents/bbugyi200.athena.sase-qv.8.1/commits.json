@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-83d50e462f80b32477294154bec5b3bf"}
+{"commits":[{"committed_at":1787174636,"sha":"3df34525c0113a5cb7693c1a52c55e81be914383","subject":"fix(core): honor recorded monitor stop status in dismissed-archive waits"}],"schema_version":2,"source_run_id":"run-83d50e462f80b32477294154bec5b3bf"}

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-qv](../../users/bbugyi200/machines/athena/hoods/sase-qv/README.md) / [sase-qv.8.2](../../families/bbugyi200.athena.sase-qv.8.2.md) / sase-qv.8.2--mon
 
-**Global name:** `bbugyi200.athena.sase-qv.8.2--mon` · **State:** active · **Source run:** `run-22adaac88123081cf36613661632d4c4`
+**Global name:** `bbugyi200.athena.sase-qv.8.2--mon` · **State:** failed · **Source run:** `run-22adaac88123081cf36613661632d4c4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-qv
 
@@ -15,11 +15,15 @@
 - Timing: 2026-08-19T20:53:45.342529+00:00
 - Commits: 0
 
+## Files
+
+[Chat](chat.md)
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-qv.8.1](../bbugyi200.athena.sase-qv.8.1/README.md) | sase-qv.8 hood | active |
+| [sase-qv.8.1](../bbugyi200.athena.sase-qv.8.1/README.md) | sase-qv.8 hood | completed |
 | [sase-qv.8.land](../bbugyi200.athena.sase-qv.8.land/README.md) | sase-qv.8 hood | waiting |
 | [sase-qv.1](../bbugyi200.athena.sase-qv.1/README.md) | sase-qv hood | completed |
 | [sase-qv.2](../bbugyi200.athena.sase-qv.2/README.md) | sase-qv hood | completed |
