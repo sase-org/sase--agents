@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1787175337,"sha":"ae87b1849141374e755429ca46ae9467cc936841","subject":"fix(llm): auto-disable Claude on weekly-limit errors"}],"schema_version":2,"source_run_id":"run-690aad0fa3d4a053944fcdcaf01bb05d"}

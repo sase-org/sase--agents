@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me correct the default Grok fallback for the `@xlarge` model alias? Namely, there is no `max` effort level for grok, so we should use `grok/grok-4.6@xhigh` instead of `grok/grok-4.6@max`. #plan %m:grok-4.6

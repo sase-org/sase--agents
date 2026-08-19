@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8bac228e95d9dc3dce46581d7973f536"}
+{"commits":[{"committed_at":1787171171,"sha":"4f258124327591e3b8cb6598c569192af414e238","subject":"perf(tmux-agent): cache catalog metadata for menu latency"}],"schema_version":2,"source_run_id":"run-8bac228e95d9dc3dce46581d7973f536"}
