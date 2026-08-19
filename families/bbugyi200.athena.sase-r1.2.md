@@ -23,6 +23,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | sase-r1.2--plan | completed | grok-4.6 / grok | 2026-08-19T16:23:29.859637+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-r1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-r1.2--plan/chat.md) |
 | <a id="member-1"></a>1 | sase-r1.2--1 | completed | grok-4.6 / grok | 2026-08-19T18:03:01.540917+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-r1.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-r1.2--1/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`ba03cec`](https://github.com/sase-org/sase/commit/ba03cec630e37b70d0e92da78acdbba2437f80e4) | feat(ace): scope comprehensive update preview to selected legs | 2026-08-19 14:11:14 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
