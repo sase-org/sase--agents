@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase We currently render instructions about the glossary in a Glossary terms subsection of the tier two section in agent instruction files. Can you help me start having the `sase init` command generate a sase/memory/glossary.md short-term memory file instead, which will then be rendered in agent instruction files in the tier 1 section? As a part of this change let's remove the `Long-Term Memory Files` H3 section (put its contents directly in the H2 tier 2 section).
+
+#plan
