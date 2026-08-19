@@ -1,22 +1,22 @@
-# Agent: sase-qv.land
+# Agent: sase-qv.land--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-qv](../../users/bbugyi200/machines/athena/hoods/sase-qv/README.md) / sase-qv.land
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-qv](../../users/bbugyi200/machines/athena/hoods/sase-qv/README.md) / [sase-qv.land](../../families/bbugyi200.athena.sase-qv.land.md) / sase-qv.land--mon
 
-**Global name:** `bbugyi200.athena.sase-qv.land` · **State:** active · **Source run:** `run-df599710ab0f0d0945e1395bef07c057`
+**Global name:** `bbugyi200.athena.sase-qv.land--mon` · **State:** failed · **Source run:** `run-739c5638a9c2a7736f09087ba6edd4bb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-qv
 
 ## Summary
 
 - Bead: [sase-qv](https://github.com/sase-org/sase--beads/blob/main/pages/sase-qv/README.md)
-- Model: opus
-- Provider: claude
-- Timing: 2026-08-19T18:03:57.181395+00:00
+- Model: grok-4.6
+- Provider: grok
+- Timing: 2026-08-19T20:11:05.430660+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Neighbors
 

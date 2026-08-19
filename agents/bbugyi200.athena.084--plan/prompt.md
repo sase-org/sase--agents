@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase The sase agent named `083` just failed because claude code hit my weekly usage limit. We have infrastructure in place already to detect usage limit errors and use the date in the error message to disable an LLM provider temporarily, but it doesn't look like it matched this error (see #sshot for context). Can you help me fix this so this type of error triggers the diablement of claude automatically (make sure we try our best to parse a date from the error message)?
+
+#plan %m:grok-4.6
