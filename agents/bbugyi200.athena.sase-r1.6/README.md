@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-r1](../../users/bbugyi200/machines/athena/hoods/sase-r1/README.md) / sase-r1.6
 
-**Global name:** `bbugyi200.athena.sase-r1.6` · **State:** waiting · **Source run:** `run-bba71656e87a8405ecf1878d223cdf13`
+**Global name:** `bbugyi200.athena.sase-r1.6` · **State:** completed · **Source run:** `run-bba71656e87a8405ecf1878d223cdf13`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-r1
 
@@ -13,11 +13,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-19T20:21:06.471798+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`f191496`](https://github.com/sase-org/sase/commit/f1914962c8f7a5fb4bb9facc0888b70aa070d87b) | feat(ace): retire Admin Center auto-update plumbing | 2026-08-19 17:03:49 EDT |
 
 ## Neighbors
 
@@ -28,5 +34,5 @@
 | [sase-r1.3](../bbugyi200.athena.sase-r1.3/README.md) | sase-r1 hood | completed |
 | [sase-r1.4](../bbugyi200.athena.sase-r1.4/README.md) | sase-r1 hood | completed |
 | [sase-r1.5](../bbugyi200.athena.sase-r1.5/README.md) | sase-r1 hood | completed |
-| [sase-r1.7](../bbugyi200.athena.sase-r1.7/README.md) | sase-r1 hood | waiting |
+| [sase-r1.7](../../families/bbugyi200.athena.sase-r1.7.md) (family · 2) | sase-r1 hood | active 1, completed 1 |
 | [sase-r1.land](../bbugyi200.athena.sase-r1.land/README.md) | sase-r1 hood | waiting |

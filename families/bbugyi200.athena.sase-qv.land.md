@@ -32,5 +32,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-qv.6](../agents/bbugyi200.athena.sase-qv.6/README.md) | sase-qv hood | completed |
 | [sase-qv.7](../agents/bbugyi200.athena.sase-qv.7/README.md) | sase-qv hood | completed |
 | [sase-qv.8.1](../agents/bbugyi200.athena.sase-qv.8.1/README.md) | sase-qv hood | active |
-| [sase-qv.8.2](../agents/bbugyi200.athena.sase-qv.8.2/README.md) | sase-qv hood | active |
+| [sase-qv.8.2](bbugyi200.athena.sase-qv.8.2.md) (family · 2) | sase-qv hood | active 1, completed 1 |
 | [sase-qv.8.land](../agents/bbugyi200.athena.sase-qv.8.land/README.md) | sase-qv hood | waiting |
