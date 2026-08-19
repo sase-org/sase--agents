@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1787179749,"sha":"46e9672a6b4b82b0582c6c1c3abdc611e582a226","subject":"fix(agent): refuse hard-disabled providers on sase bead work launches"}],"schema_version":2,"source_run_id":"run-65b2d6985f93f5ddf4fac985159235db"}

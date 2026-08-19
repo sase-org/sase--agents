@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f269f05a73c088ae7e6f74fd78dfa749"}
+{"commits":[{"committed_at":1787170758,"sha":"351a3308402adf5b8d882e5a4cbb0e1b75cabb0d","subject":"feat(ace): resolve hard-disabled providers before launch submit"}],"schema_version":2,"source_run_id":"run-f269f05a73c088ae7e6f74fd78dfa749"}
