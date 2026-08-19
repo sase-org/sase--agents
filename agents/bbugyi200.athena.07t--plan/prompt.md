@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase Dismissing agent clans doesn't always work. And when it does it can take a while for all of the agents in the clan to be dismissed (i.e. the agent clan shells remain visible for a while after the user uses the `x` keymap to dismiss the clans). See #sshot for context (the DONE agents in the `@epic` agent tribe panel were just dismissed but are still visible for some reason). Can you help me diagnose the root cause of this issue and fix it?
+
+#plan
