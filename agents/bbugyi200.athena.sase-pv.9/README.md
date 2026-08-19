@@ -13,11 +13,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-19T00:20:50.727691+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`281f3c1`](https://github.com/sase-org/sase/commit/281f3c1976767bf33b68dbd2fddf9e3dc44fef6b) | docs(flags): treat flag beads as task(flag), not a fourth issue type | 2026-08-18 20:59:32 EDT |
 
 ## Neighbors
 

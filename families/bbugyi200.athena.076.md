@@ -11,7 +11,7 @@ flowchart TD
   n0["076--mon [failed]"]
   n1["076--code [completed]"]
   n0 --> n1
-  n2["076--1 [active]"]
+  n2["076--1 [completed]"]
   n0 --> n2
   n3["076--plan [completed]"]
   n0 --> n3
@@ -23,7 +23,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | 076--mon | failed | grok-4.6 / grok | 2026-08-19T00:27:40.808931+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.076--mon/chat.md) |
 | <a id="member-code"></a>code | 076--code | completed | grok-4.6 / grok | 2026-08-19T00:11:35.751320+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.076--code/chat.md) |
-| <a id="member-1"></a>1 | 076--1 | active | grok-4.6 / grok | 2026-08-19T00:30:31.527159+00:00 | [1](../agents/bbugyi200.athena.076--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.076--1/prompt.md) | — |
+| <a id="member-1"></a>1 | 076--1 | completed | grok-4.6 / grok | 2026-08-19T00:30:31.527159+00:00 | [1](../agents/bbugyi200.athena.076--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.076--1/prompt.md) | [Chat](../agents/bbugyi200.athena.076--1/chat.md) |
 | <a id="member-plan"></a>plan | 076--plan | completed | opus / claude | 2026-08-19T00:05:48.315618+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.076--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.076--plan/chat.md) |
 
 ## Commits

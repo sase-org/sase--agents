@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start configuring sase's "flake" task type to use a default threshold of +3 (its current default threshold is +1)? Also, dismiss any active sase notifications correspond to flake tasks with less than +1s. #plan
