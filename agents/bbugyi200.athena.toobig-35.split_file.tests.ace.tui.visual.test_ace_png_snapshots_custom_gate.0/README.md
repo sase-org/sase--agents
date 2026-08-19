@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-35](../../users/bbugyi200/machines/athena/hoods/toobig-35/README.md) / toobig-35.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_custom\_gate.0
 
-**Global name:** `bbugyi200.athena.toobig-35.split_file.tests.ace.tui.visual.test_ace_png_snapshots_custom_gate.0` · **State:** waiting · **Source run:** `run-f58c5a84d1945b24c9ea5df2766c71ed`
+**Global name:** `bbugyi200.athena.toobig-35.split_file.tests.ace.tui.visual.test_ace_png_snapshots_custom_gate.0` · **State:** active · **Source run:** `run-f58c5a84d1945b24c9ea5df2766c71ed`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-35
 
@@ -10,19 +10,25 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20260818225909
-- Commits: 0
+- Timing: 2026-08-19T05:29:02.191664+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`63a794c`](https://github.com/sase-org/sase/commit/63a794c675b9f9d2fa6da5767c66cffa5af6bafa) | test(tui): split ACE custom gate PNG snapshots into focused modules | 2026-08-19 01:42:26 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-35.split\_file.tests.ace.tui.test\_agent\_panel\_titles.0](../bbugyi200.athena.toobig-35.split_file.tests.ace.tui.test_agent_panel_titles.0/README.md) | toobig-35.split\_file.tests.ace.tui hood | completed |
-| [toobig-35.split\_file.tests.ace.tui.test\_retry\_edit\_agent\_name.0](../bbugyi200.athena.toobig-35.split_file.tests.ace.tui.test_retry_edit_agent_name.0/README.md) | toobig-35.split\_file.tests.ace.tui hood | active |
+| [toobig-35.split\_file.tests.ace.tui.test\_retry\_edit\_agent\_name.0](../bbugyi200.athena.toobig-35.split_file.tests.ace.tui.test_retry_edit_agent_name.0/README.md) | toobig-35.split\_file.tests.ace.tui hood | completed |
 | [toobig-35.split\_file.tests.main.test\_init\_skills\_sources.0](../bbugyi200.athena.toobig-35.split_file.tests.main.test_init_skills_sources.0/README.md) | toobig-35.split\_file.tests hood | waiting |
 | [toobig-35.split\_file.tests.test\_axe\_run\_agent\_exec\_retry.0](../bbugyi200.athena.toobig-35.split_file.tests.test_axe_run_agent_exec_retry.0/README.md) | toobig-35.split\_file.tests hood | waiting |
 | [toobig-35.split\_file.tests.test\_config\_schema.0](../bbugyi200.athena.toobig-35.split_file.tests.test_config_schema.0/README.md) | toobig-35.split\_file.tests hood | waiting |
