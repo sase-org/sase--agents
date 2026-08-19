@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-21a41b4b8cd857eb7b3bcc7708b4fb31"}
+{"commits":[{"committed_at":1787154939,"sha":"b2b8415b7bd37924b74f91ecc1ecc77fa3882baa","subject":"feat(tui): add Memory panel parent/child link travel"}],"schema_version":2,"source_run_id":"run-21a41b4b8cd857eb7b3bcc7708b4fb31"}
