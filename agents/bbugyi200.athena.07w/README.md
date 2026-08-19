@@ -2,16 +2,20 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [07w](../../users/bbugyi200/machines/athena/hoods/07w/README.md) / 07w
 
-**Global name:** `bbugyi200.athena.07w` · **State:** completed · **Source run:** `run-840708c76c1de5c46cfd8a4a4d93f599`
+**Global name:** `bbugyi200.athena.07w` · **State:** completed · **Source run:** `run-6c90fcdce4cd1227597e83761b71cd34`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 07w
 
 ## Summary
 
-- Model: —
-- Provider: —
-- Timing: 2026-06-27T14:21:06+00:00 → 2026-06-27T14:26:43+00:00
-- Commits: [2](#commits)
+- Model: grok-4.6
+- Provider: grok
+- Timing: 2026-08-19T15:09:07.066610+00:00
+- Commits: [3](#commits)
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -19,3 +23,4 @@
 |---|---|---|---|
 | sase | [`2d23135`](https://github.com/sase-org/sase/commit/2d23135c60a47797f4057ff677cdc40cd715c326) | chore: Add SDD prompt and plan for admin\_center\_title\_5color\_gradient | 2026-06-27 10:21:06 EDT |
 | sase | [`005fe0d`](https://github.com/sase-org/sase/commit/005fe0de14c92301a73f85a585f020e154925a2c) | feat(tui): add five-stop Admin Center title gradient | 2026-06-27 10:26:43 EDT |
+| sase | [`97f5775`](https://github.com/sase-org/sase/commit/97f57750f6f128905b09b7f5beb9c10272cc39b3) | feat(tui): sort notification tabs by configurable priority | 2026-08-19 12:20:07 EDT |

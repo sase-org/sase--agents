@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-540a29b7fb1a09e08d172eb9a3305ef6"}
+{"commits":[{"committed_at":1787156571,"sha":"4bca0e66aabe4ac8a912cd29519f1862cf0d50af","subject":"feat(tui): render monitor status chip in Procs tab rows"}],"schema_version":2,"source_run_id":"run-540a29b7fb1a09e08d172eb9a3305ef6"}
