@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ce85a5c39be51803517582b21c7aab3e"}
+{"commits":[{"committed_at":1787158638,"sha":"88a7de4af1be4f596cca283c9f61d78350ffb212","subject":"feat(llm): add interactive CLI descriptors and vendor metadata"}],"schema_version":2,"source_run_id":"run-ce85a5c39be51803517582b21c7aab3e"}
