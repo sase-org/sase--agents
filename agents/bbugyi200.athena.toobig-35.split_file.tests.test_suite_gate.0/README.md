@@ -30,5 +30,5 @@
 | [toobig-35.split\_file.tests.test\_run\_agent\_runner\_lifecycle.0](../bbugyi200.athena.toobig-35.split_file.tests.test_run_agent_runner_lifecycle.0/README.md) | toobig-35.split\_file.tests hood | waiting |
 | [toobig-35.split\_file.tests.test\_running\_field\_operations.0](../bbugyi200.athena.toobig-35.split_file.tests.test_running_field_operations.0/README.md) | toobig-35.split\_file.tests hood | waiting |
 | [toobig-35.split\_file.src.sase.ace.tui.modals.statistics\_pane.0](../bbugyi200.athena.toobig-35.split_file.src.sase.ace.tui.modals.statistics_pane.0/README.md) | toobig-35.split\_file hood | completed |
-| [toobig-35.split\_file.src.sase.main.project\_handler.0](../bbugyi200.athena.toobig-35.split_file.src.sase.main.project_handler.0/README.md) | toobig-35.split\_file hood | active |
-| [toobig-35.split\_file.src.sase.plugins.github\_source.0](../bbugyi200.athena.toobig-35.split_file.src.sase.plugins.github_source.0/README.md) | toobig-35.split\_file hood | waiting |
+| [toobig-35.split\_file.src.sase.main.project\_handler.0](../bbugyi200.athena.toobig-35.split_file.src.sase.main.project_handler.0/README.md) | toobig-35.split\_file hood | completed |
+| [toobig-35.split\_file.src.sase.plugins.github\_source.0](../bbugyi200.athena.toobig-35.split_file.src.sase.plugins.github_source.0/README.md) | toobig-35.split\_file hood | active |

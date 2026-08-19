@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-35](../../users/bbugyi200/machines/athena/hoods/toobig-35/README.md) / toobig-35.split\_file.src.sase.main.project\_handler.0
 
-**Global name:** `bbugyi200.athena.toobig-35.split_file.src.sase.main.project_handler.0` · **State:** active · **Source run:** `run-61a44daa66525446db5de61d0f464fe3`
+**Global name:** `bbugyi200.athena.toobig-35.split_file.src.sase.main.project_handler.0` · **State:** completed · **Source run:** `run-61a44daa66525446db5de61d0f464fe3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-35
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -28,7 +28,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-35.split\_file.src.sase.ace.tui.modals.statistics\_pane.0](../bbugyi200.athena.toobig-35.split_file.src.sase.ace.tui.modals.statistics_pane.0/README.md) | toobig-35.split\_file.src.sase hood | completed |
-| [toobig-35.split\_file.src.sase.plugins.github\_source.0](../bbugyi200.athena.toobig-35.split_file.src.sase.plugins.github_source.0/README.md) | toobig-35.split\_file.src.sase hood | waiting |
+| [toobig-35.split\_file.src.sase.plugins.github\_source.0](../bbugyi200.athena.toobig-35.split_file.src.sase.plugins.github_source.0/README.md) | toobig-35.split\_file.src.sase hood | active |
 | [toobig-35.split\_file.tests.ace.tui.test\_agent\_panel\_titles.0](../bbugyi200.athena.toobig-35.split_file.tests.ace.tui.test_agent_panel_titles.0/README.md) | toobig-35.split\_file hood | waiting |
 | [toobig-35.split\_file.tests.ace.tui.test\_retry\_edit\_agent\_name.0](../bbugyi200.athena.toobig-35.split_file.tests.ace.tui.test_retry_edit_agent_name.0/README.md) | toobig-35.split\_file hood | waiting |
 | [toobig-35.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_custom\_gate.0](../bbugyi200.athena.toobig-35.split_file.tests.ace.tui.visual.test_ace_png_snapshots_custom_gate.0/README.md) | toobig-35.split\_file hood | waiting |
