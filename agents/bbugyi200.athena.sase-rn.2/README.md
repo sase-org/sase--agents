@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-20T21:09:17.208706+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8f82eb9`](https://github.com/sase-org/sase/commit/8f82eb99205cfb4f6b0db08f56d81ea0efa5bbfb) | feat(core): adopt finalizer protocol bindings | 2026-08-20 17:24:53 EDT |
 
 ## Neighbors
 

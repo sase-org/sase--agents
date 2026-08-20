@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-bd01c6e1c5be45b44942f01e993c0068"}
+{"commits":[{"committed_at":1787261093,"sha":"8f82eb99205cfb4f6b0db08f56d81ea0efa5bbfb","subject":"feat(core): adopt finalizer protocol bindings"}],"schema_version":2,"source_run_id":"run-bd01c6e1c5be45b44942f01e993c0068"}
