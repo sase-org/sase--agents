@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-qy](../../users/bbugyi200/machines/athena/hoods/sase-qy/README.md) / sase-qy.3
 
-**Global name:** `bbugyi200.athena.sase-qy.3` · **State:** active · **Source run:** `run-636b580ec1cfc6262c74cfa86e859d0c`
+**Global name:** `bbugyi200.athena.sase-qy.3` · **State:** completed · **Source run:** `run-636b580ec1cfc6262c74cfa86e859d0c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-qy
 
@@ -17,7 +17,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -31,5 +31,5 @@
 |---|---|---|
 | [sase-qy.1](../bbugyi200.athena.sase-qy.1/README.md) | sase-qy hood | completed |
 | [sase-qy.2](../bbugyi200.athena.sase-qy.2/README.md) | sase-qy hood | completed |
-| [sase-qy.4](../bbugyi200.athena.sase-qy.4/README.md) | sase-qy hood | waiting |
+| [sase-qy.4](../../families/bbugyi200.athena.sase-qy.4.md) (family · 13) | sase-qy hood | active 1, completed 6, failed 6 |
 | [sase-qy.land](../bbugyi200.athena.sase-qy.land/README.md) | sase-qy hood | waiting |
