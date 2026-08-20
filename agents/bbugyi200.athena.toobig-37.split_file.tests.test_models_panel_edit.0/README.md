@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-37](../../users/bbugyi200/machines/athena/hoods/toobig-37/README.md) / toobig-37.split\_file.tests.test\_models\_panel\_edit.0
 
-**Global name:** `bbugyi200.athena.toobig-37.split_file.tests.test_models_panel_edit.0` · **State:** waiting · **Source run:** `run-ec0402547e5d6a8f136d504425d838f2`
+**Global name:** `bbugyi200.athena.toobig-37.split_file.tests.test_models_panel_edit.0` · **State:** completed · **Source run:** `run-ec0402547e5d6a8f136d504425d838f2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-37
 
@@ -10,12 +10,18 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20260819185236
-- Commits: 0
+- Timing: 2026-08-20T06:37:12.372222+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`65a4f1f`](https://github.com/sase-org/sase/commit/65a4f1f0f8cf0f51204f4c9e3f4e47c563b6b3a9) | test: split models panel edit tests under 500-line files | 2026-08-20 02:50:46 EDT |
 
 ## Neighbors
 
@@ -27,7 +33,7 @@
 | [toobig-37.split\_file.tests.main.test\_monitor\_handler\_start.0](../bbugyi200.athena.toobig-37.split_file.tests.main.test_monitor_handler_start.0/README.md) | toobig-37.split\_file.tests hood | completed |
 | [toobig-37.split\_file.tests.memory.test\_mutation.0](../bbugyi200.athena.toobig-37.split_file.tests.memory.test_mutation.0/README.md) | toobig-37.split\_file.tests hood | completed |
 | [toobig-37.split\_file.tests.test\_check\_feature\_flags\_tool.0](../bbugyi200.athena.toobig-37.split_file.tests.test_check_feature_flags_tool.0/README.md) | toobig-37.split\_file.tests hood | completed |
-| [toobig-37.split\_file.tests.test\_keymaps\_registry\_loading.0](../bbugyi200.athena.toobig-37.split_file.tests.test_keymaps_registry_loading.0/README.md) | toobig-37.split\_file.tests hood | active |
+| [toobig-37.split\_file.tests.test\_keymaps\_registry\_loading.0](../bbugyi200.athena.toobig-37.split_file.tests.test_keymaps_registry_loading.0/README.md) | toobig-37.split\_file.tests hood | completed |
 | [toobig-37.split\_file.src.sase.ace.tui.modals.memory\_panel\_actions.0](../bbugyi200.athena.toobig-37.split_file.src.sase.ace.tui.modals.memory_panel_actions.0/README.md) | toobig-37.split\_file hood | completed |
 | [toobig-37.split\_file.src.sase.ace.tui.widgets.\_prompt\_text\_area\_key\_handling.0](../../families/bbugyi200.athena.toobig-37.split_file.src.sase.ace.tui.widgets._prompt_text_area_key_handling.0.md) (family · 11) | toobig-37.split\_file hood | completed 6, failed 5 |
 | [toobig-37.split\_file.src.sase.llm\_provider.model\_alias\_resolution.0](../bbugyi200.athena.toobig-37.split_file.src.sase.llm_provider.model_alias_resolution.0/README.md) | toobig-37.split\_file hood | completed |
