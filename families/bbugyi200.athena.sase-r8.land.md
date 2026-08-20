@@ -32,6 +32,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-r8.6](../agents/bbugyi200.athena.sase-r8.6/README.md) | sase-r8 hood | completed |
 | [sase-r8.7](../agents/bbugyi200.athena.sase-r8.7/README.md) | sase-r8 hood | completed |
 | [sase-r8.8](../agents/bbugyi200.athena.sase-r8.8/README.md) | sase-r8 hood | completed |
-| [sase-r8.9.1](../agents/bbugyi200.athena.sase-r8.9.1/README.md) | sase-r8 hood | active |
-| [sase-r8.9.2](../agents/bbugyi200.athena.sase-r8.9.2/README.md) | sase-r8 hood | waiting |
-| [sase-r8.9.land](../agents/bbugyi200.athena.sase-r8.9.land/README.md) | sase-r8 hood | waiting |
+| [sase-r8.9.1](bbugyi200.athena.sase-r8.9.1.md) (family · 3) | sase-r8 hood | completed 2, failed 1 |
+| [sase-r8.9.2](bbugyi200.athena.sase-r8.9.2.md) (family · 3) | sase-r8 hood | completed 2, failed 1 |
+| [sase-r8.9.land](../agents/bbugyi200.athena.sase-r8.9.land/README.md) | sase-r8 hood | completed |

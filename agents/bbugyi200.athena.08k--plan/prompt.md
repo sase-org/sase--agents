@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add excellent syntax highlighting to the `AGENT XPROMPT` and `AGENT PROMPT` sections in the agent metadata panel for glossary terms and linked repos? See how we do this in the prompt input widget for inspiration. #beau #plan

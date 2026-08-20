@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b3db1f9a63ec4944128282d7c1b846db"}
+{"commits":[{"committed_at":1787229095,"sha":"585e34b33d9c633e070fcc875a0403788297042a","subject":"feat(beads): persist typed links in events, pages, and migrate-notes"}],"schema_version":2,"source_run_id":"run-b3db1f9a63ec4944128282d7c1b846db"}
