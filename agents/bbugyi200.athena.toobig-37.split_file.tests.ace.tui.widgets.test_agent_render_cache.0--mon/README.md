@@ -1,8 +1,8 @@
-# Agent: toobig-37.split\_file.tests.ace.tui.modals.test\_memory\_panel\_actions.0
+# Agent: toobig-37.split\_file.tests.ace.tui.widgets.test\_agent\_render\_cache.0--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-37](../../users/bbugyi200/machines/athena/hoods/toobig-37/README.md) / toobig-37.split\_file.tests.ace.tui.modals.test\_memory\_panel\_actions.0
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-37](../../users/bbugyi200/machines/athena/hoods/toobig-37/README.md) / [toobig-37.split\_file.tests.ace.tui.widgets.test\_agent\_render\_cache.0](../../families/bbugyi200.athena.toobig-37.split_file.tests.ace.tui.widgets.test_agent_render_cache.0.md) / toobig-37.split\_file.tests.ace.tui.widgets.test\_agent\_render\_cache.0--mon
 
-**Global name:** `bbugyi200.athena.toobig-37.split_file.tests.ace.tui.modals.test_memory_panel_actions.0` · **State:** completed · **Source run:** `run-e59fdae7544e8e05859bdaa768fa66db`
+**Global name:** `bbugyi200.athena.toobig-37.split_file.tests.ace.tui.widgets.test_agent_render_cache.0--mon` · **State:** failed · **Source run:** `run-20fae356820e17cd382fc4f851522c96`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-37
 
@@ -10,25 +10,19 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-20T04:23:06.430716+00:00
-- Commits: [1](#commits)
+- Timing: 2026-08-20T05:18:53.607245+00:00
+- Commits: 0
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`3e99b40`](https://github.com/sase-org/sase/commit/3e99b4029c05ab29f2b6e05b9bf5af1d2ddd22dc) | test(ace): split Memory panel action tests under 500 lines | 2026-08-20 00:48:55 EDT |
+[Chat](chat.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-37.split\_file.tests.ace.tui.widgets.test\_agent\_list\_monitor\_rows.0](../bbugyi200.athena.toobig-37.split_file.tests.ace.tui.widgets.test_agent_list_monitor_rows.0/README.md) | toobig-37.split\_file.tests.ace.tui hood | completed |
-| [toobig-37.split\_file.tests.ace.tui.widgets.test\_agent\_render\_cache.0](../../families/bbugyi200.athena.toobig-37.split_file.tests.ace.tui.widgets.test_agent_render_cache.0.md) (family · 3) | toobig-37.split\_file.tests.ace.tui hood | active 1, completed 1, failed 1 |
+| [toobig-37.split\_file.tests.ace.tui.widgets.test\_agent\_list\_monitor\_rows.0](../bbugyi200.athena.toobig-37.split_file.tests.ace.tui.widgets.test_agent_list_monitor_rows.0/README.md) | toobig-37.split\_file.tests.ace.tui.widgets hood | completed |
+| [toobig-37.split\_file.tests.ace.tui.modals.test\_memory\_panel\_actions.0](../bbugyi200.athena.toobig-37.split_file.tests.ace.tui.modals.test_memory_panel_actions.0/README.md) | toobig-37.split\_file.tests.ace.tui hood | completed |
 | [toobig-37.split\_file.tests.main.test\_monitor\_handler\_start.0](../bbugyi200.athena.toobig-37.split_file.tests.main.test_monitor_handler_start.0/README.md) | toobig-37.split\_file.tests hood | waiting |
 | [toobig-37.split\_file.tests.memory.test\_mutation.0](../bbugyi200.athena.toobig-37.split_file.tests.memory.test_mutation.0/README.md) | toobig-37.split\_file.tests hood | waiting |
 | [toobig-37.split\_file.tests.test\_check\_feature\_flags\_tool.0](../bbugyi200.athena.toobig-37.split_file.tests.test_check_feature_flags_tool.0/README.md) | toobig-37.split\_file.tests hood | waiting |
