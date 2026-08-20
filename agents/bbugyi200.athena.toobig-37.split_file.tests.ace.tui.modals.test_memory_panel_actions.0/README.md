@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-37](../../users/bbugyi200/machines/athena/hoods/toobig-37/README.md) / toobig-37.split\_file.tests.ace.tui.modals.test\_memory\_panel\_actions.0
 
-**Global name:** `bbugyi200.athena.toobig-37.split_file.tests.ace.tui.modals.test_memory_panel_actions.0` · **State:** waiting · **Source run:** `run-e59fdae7544e8e05859bdaa768fa66db`
+**Global name:** `bbugyi200.athena.toobig-37.split_file.tests.ace.tui.modals.test_memory_panel_actions.0` · **State:** active · **Source run:** `run-e59fdae7544e8e05859bdaa768fa66db`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-37
 
@@ -10,12 +10,18 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20260819185229
-- Commits: 0
+- Timing: 2026-08-20T04:23:06.430716+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3e99b40`](https://github.com/sase-org/sase/commit/3e99b4029c05ab29f2b6e05b9bf5af1d2ddd22dc) | test(ace): split Memory panel action tests under 500 lines | 2026-08-20 00:48:55 EDT |
 
 ## Neighbors
 
@@ -34,4 +40,4 @@
 | [toobig-37.split\_file.src.sase.llm\_provider.usage\_limit\_config.0](../bbugyi200.athena.toobig-37.split_file.src.sase.llm_provider.usage_limit_config.0/README.md) | toobig-37.split\_file hood | completed |
 | [toobig-37.split\_file.src.sase.main.init\_memory.root\_planning.0](../bbugyi200.athena.toobig-37.split_file.src.sase.main.init_memory.root_planning.0/README.md) | toobig-37.split\_file hood | completed |
 | [toobig-37.split\_file.src.sase.main.init\_memory.root\_rendering.0](../bbugyi200.athena.toobig-37.split_file.src.sase.main.init_memory.root_rendering.0/README.md) | toobig-37.split\_file hood | completed |
-| [toobig-37.split\_file.src.sase.memory.mutation.0](../bbugyi200.athena.toobig-37.split_file.src.sase.memory.mutation.0/README.md) | toobig-37.split\_file hood | active |
+| [toobig-37.split\_file.src.sase.memory.mutation.0](../bbugyi200.athena.toobig-37.split_file.src.sase.memory.mutation.0/README.md) | toobig-37.split\_file hood | completed |
