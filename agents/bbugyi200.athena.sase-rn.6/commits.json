@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-997e59bf9f89e68927befc4bbaf71c2a"}
+{"commits":[{"committed_at":1787267636,"sha":"cad0e6100f1f7f310b9a568fb6521e32d97cc2ef","subject":"feat(finalizers): execute builtin commit declarations"}],"schema_version":2,"source_run_id":"run-997e59bf9f89e68927befc4bbaf71c2a"}
