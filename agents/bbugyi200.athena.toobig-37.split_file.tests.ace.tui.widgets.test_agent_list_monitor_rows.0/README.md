@@ -33,5 +33,5 @@
 | [toobig-37.split\_file.src.sase.llm\_provider.model\_alias\_resolution.0](../bbugyi200.athena.toobig-37.split_file.src.sase.llm_provider.model_alias_resolution.0/README.md) | toobig-37.split\_file hood | completed |
 | [toobig-37.split\_file.src.sase.llm\_provider.usage\_limit\_config.0](../bbugyi200.athena.toobig-37.split_file.src.sase.llm_provider.usage_limit_config.0/README.md) | toobig-37.split\_file hood | completed |
 | [toobig-37.split\_file.src.sase.main.init\_memory.root\_planning.0](../bbugyi200.athena.toobig-37.split_file.src.sase.main.init_memory.root_planning.0/README.md) | toobig-37.split\_file hood | completed |
-| [toobig-37.split\_file.src.sase.main.init\_memory.root\_rendering.0](../bbugyi200.athena.toobig-37.split_file.src.sase.main.init_memory.root_rendering.0/README.md) | toobig-37.split\_file hood | active |
-| [toobig-37.split\_file.src.sase.memory.mutation.0](../bbugyi200.athena.toobig-37.split_file.src.sase.memory.mutation.0/README.md) | toobig-37.split\_file hood | waiting |
+| [toobig-37.split\_file.src.sase.main.init\_memory.root\_rendering.0](../bbugyi200.athena.toobig-37.split_file.src.sase.main.init_memory.root_rendering.0/README.md) | toobig-37.split\_file hood | completed |
+| [toobig-37.split\_file.src.sase.memory.mutation.0](../bbugyi200.athena.toobig-37.split_file.src.sase.memory.mutation.0/README.md) | toobig-37.split\_file hood | active |
