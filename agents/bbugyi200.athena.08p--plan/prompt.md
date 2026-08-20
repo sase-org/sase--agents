@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add support to prompt stashes for remembering the users line and cursor position when they stashed the prompt? We should then restore that line/cursor position when the stash is loaded into the prompt input widget. #plan

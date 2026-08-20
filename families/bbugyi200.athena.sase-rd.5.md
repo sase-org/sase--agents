@@ -37,5 +37,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-rd.2](../agents/bbugyi200.athena.sase-rd.2/README.md) | sase-rd hood | completed |
 | [sase-rd.3](../agents/bbugyi200.athena.sase-rd.3/README.md) | sase-rd hood | completed |
 | [sase-rd.4](../agents/bbugyi200.athena.sase-rd.4/README.md) | sase-rd hood | completed |
-| [sase-rd.land](../agents/bbugyi200.athena.sase-rd.land/README.md) | sase-rd hood | active |
-| [sase-rd.land.w0](../agents/bbugyi200.athena.sase-rd.land.w0/README.md) | sase-rd hood | waiting |
+| [sase-rd.land](../agents/bbugyi200.athena.sase-rd.land/README.md) | sase-rd hood | completed |
+| [sase-rd.land.w1](bbugyi200.athena.sase-rd.land.w1.md) (family · 2) | sase-rd hood | failed 2 |
