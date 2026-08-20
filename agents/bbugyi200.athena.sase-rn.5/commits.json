@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b15c78c0a056febb79476153c329f37d"}
+{"commits":[{"committed_at":1787265481,"sha":"78550c993bedfd12be3a4338c7f5004460120605","subject":"feat: add pluggable finalizer execution runtime"}],"schema_version":2,"source_run_id":"run-b15c78c0a056febb79476153c329f37d"}

@@ -33,5 +33,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-3b.split\_file.tests.ace.tui.widgets.test\_directive\_completion\_interactions.0](../agents/bbugyi200.athena.toobig-3b.split_file.tests.ace.tui.widgets.test_directive_completion_interactions.0/README.md) | toobig-3b.split\_file hood | active |
-| [toobig-3b.split\_file.tests.test\_editor\_helper\_agent\_catalog.0](../agents/bbugyi200.athena.toobig-3b.split_file.tests.test_editor_helper_agent_catalog.0/README.md) | toobig-3b.split\_file hood | waiting |
+| [toobig-3b.split\_file.tests.ace.tui.widgets.test\_directive\_completion\_interactions.0](../agents/bbugyi200.athena.toobig-3b.split_file.tests.ace.tui.widgets.test_directive_completion_interactions.0/README.md) | toobig-3b.split\_file hood | completed |
+| [toobig-3b.split\_file.tests.test\_editor\_helper\_agent\_catalog.0](../agents/bbugyi200.athena.toobig-3b.split_file.tests.test_editor_helper_agent_catalog.0/README.md) | toobig-3b.split\_file hood | active |
