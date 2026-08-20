@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-bac61dc98be1463f90d376e74b2ab8ae"}
+{"commits":[{"committed_at":1787269016,"sha":"4afec203b8dd72ac2e56ae9c964f3a76edfcbfc3","subject":"feat(finalizers): complete beta compatibility soak"}],"schema_version":2,"source_run_id":"run-bac61dc98be1463f90d376e74b2ab8ae"}
