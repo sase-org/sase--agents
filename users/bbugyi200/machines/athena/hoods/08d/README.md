@@ -6,5 +6,5 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [08d--plan](../../../../../../families/bbugyi200.athena.08d.md#member-plan) | active | grok-4.6 / grok | 2026-08-19T22:20:55.083549+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.08d--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.08d--plan/chat.md) |
+| [08d--plan](../../../../../../families/bbugyi200.athena.08d.md#member-plan) | active | grok-4.6 / grok | 2026-08-19T22:20:55.083549+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.08d--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.08d--plan/prompt.md) |
 | [08d--code](../../../../../../families/bbugyi200.athena.08d.md#member-code) | active | grok-4.6 / grok | 2026-08-19T22:36:03.758804+00:00 | 1 | — |
