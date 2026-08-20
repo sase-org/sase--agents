@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-20T12:34:24.342987+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`4687d37`](https://github.com/sase-org/sase/commit/4687d37956ac2b995fff556319180091bf71af1b) | feat(artifacts): publish relation registry snapshot | 2026-08-20 09:17:44 EDT |
 
 ## Neighbors
 
