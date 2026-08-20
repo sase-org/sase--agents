@@ -31,7 +31,7 @@ flowchart TD
   n0 --> n10
   n11["sase-qy.4--5 [completed]"]
   n0 --> n11
-  n12["sase-qy.4--6 [active]"]
+  n12["sase-qy.4--6 [completed]"]
   n0 --> n12
 ```
 
@@ -51,7 +51,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-1"></a>1 | sase-qy.4--1 | completed | grok-4.6 / grok | 2026-08-19T19:10:47.429714+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-qy.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-qy.4--1/chat.md) |
 | <a id="member-mon-4"></a>mon-4 | sase-qy.4--mon-4 | failed | grok-4.6 / grok | 2026-08-20T00:40:54.167970+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-qy.4--mon-4/chat.md) |
 | <a id="member-5"></a>5 | sase-qy.4--5 | completed | grok-4.6 / grok | 2026-08-20T00:22:34.590452+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-qy.4--5/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-qy.4--5/chat.md) |
-| <a id="member-6"></a>6 | sase-qy.4--6 | active | grok-4.6 / grok | 2026-08-20T01:02:14.923840+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-qy.4--6/prompt.md) | — |
+| <a id="member-6"></a>6 | sase-qy.4--6 | completed | grok-4.6 / grok | 2026-08-20T01:02:14.923840+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-qy.4--6/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-qy.4--6/chat.md) |
 
 ## Neighbors
 
@@ -60,4 +60,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-qy.1](../agents/bbugyi200.athena.sase-qy.1/README.md) | sase-qy hood | completed |
 | [sase-qy.2](../agents/bbugyi200.athena.sase-qy.2/README.md) | sase-qy hood | completed |
 | [sase-qy.3](../agents/bbugyi200.athena.sase-qy.3/README.md) | sase-qy hood | completed |
-| [sase-qy.land](../agents/bbugyi200.athena.sase-qy.land/README.md) | sase-qy hood | waiting |
+| [sase-qy.land](../agents/bbugyi200.athena.sase-qy.land/README.md) | sase-qy hood | completed |

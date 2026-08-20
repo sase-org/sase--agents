@@ -26,4 +26,4 @@
 | [sase-qy.1](../bbugyi200.athena.sase-qy.1/README.md) | sase-qy hood | completed |
 | [sase-qy.2](../bbugyi200.athena.sase-qy.2/README.md) | sase-qy hood | completed |
 | [sase-qy.3](../bbugyi200.athena.sase-qy.3/README.md) | sase-qy hood | completed |
-| [sase-qy.land](../bbugyi200.athena.sase-qy.land/README.md) | sase-qy hood | waiting |
+| [sase-qy.land](../bbugyi200.athena.sase-qy.land/README.md) | sase-qy hood | completed |

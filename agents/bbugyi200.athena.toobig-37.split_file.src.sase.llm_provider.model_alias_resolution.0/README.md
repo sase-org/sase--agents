@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-37](../../users/bbugyi200/machines/athena/hoods/toobig-37/README.md) / toobig-37.split\_file.src.sase.llm\_provider.model\_alias\_resolution.0
 
-**Global name:** `bbugyi200.athena.toobig-37.split_file.src.sase.llm_provider.model_alias_resolution.0` · **State:** waiting · **Source run:** `run-c5ddc8bb6eaafbc3ea35a1f6b35abcda`
+**Global name:** `bbugyi200.athena.toobig-37.split_file.src.sase.llm_provider.model_alias_resolution.0` · **State:** active · **Source run:** `run-c5ddc8bb6eaafbc3ea35a1f6b35abcda`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-37
 
@@ -10,12 +10,18 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20260819185224
-- Commits: 0
+- Timing: 2026-08-20T02:17:10.015458+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c1881ce`](https://github.com/sase-org/sase/commit/c1881ce9e142806b41cedfe0fe50691d34e29bdb) | refactor(llm): split model alias resolution into focused modules | 2026-08-19 22:41:02 EDT |
 
 ## Neighbors
 
@@ -23,7 +29,7 @@
 |---|---|---|
 | [toobig-37.split\_file.src.sase.llm\_provider.usage\_limit\_config.0](../bbugyi200.athena.toobig-37.split_file.src.sase.llm_provider.usage_limit_config.0/README.md) | toobig-37.split\_file.src.sase.llm\_provider hood | waiting |
 | [toobig-37.split\_file.src.sase.ace.tui.modals.memory\_panel\_actions.0](../bbugyi200.athena.toobig-37.split_file.src.sase.ace.tui.modals.memory_panel_actions.0/README.md) | toobig-37.split\_file.src.sase hood | completed |
-| [toobig-37.split\_file.src.sase.ace.tui.widgets.\_prompt\_text\_area\_key\_handling.0](../bbugyi200.athena.toobig-37.split_file.src.sase.ace.tui.widgets._prompt_text_area_key_handling.0/README.md) | toobig-37.split\_file.src.sase hood | active |
+| [toobig-37.split\_file.src.sase.ace.tui.widgets.\_prompt\_text\_area\_key\_handling.0](../../families/bbugyi200.athena.toobig-37.split_file.src.sase.ace.tui.widgets._prompt_text_area_key_handling.0.md) (family · 11) | toobig-37.split\_file.src.sase hood | completed 6, failed 5 |
 | [toobig-37.split\_file.src.sase.main.init\_memory.root\_planning.0](../bbugyi200.athena.toobig-37.split_file.src.sase.main.init_memory.root_planning.0/README.md) | toobig-37.split\_file.src.sase hood | waiting |
 | [toobig-37.split\_file.src.sase.main.init\_memory.root\_rendering.0](../bbugyi200.athena.toobig-37.split_file.src.sase.main.init_memory.root_rendering.0/README.md) | toobig-37.split\_file.src.sase hood | waiting |
 | [toobig-37.split\_file.src.sase.memory.mutation.0](../bbugyi200.athena.toobig-37.split_file.src.sase.memory.mutation.0/README.md) | toobig-37.split\_file.src.sase hood | waiting |

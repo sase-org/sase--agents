@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-10c24d526ad83762ba98e09c2e1c6a72"}
+{"commits":[{"committed_at":1787191918,"sha":"056b2b65953265732ffc5f99140121177868c169","subject":"test(ace): refresh always-on query-bar PNG goldens"}],"schema_version":2,"source_run_id":"run-10c24d526ad83762ba98e09c2e1c6a72"}
