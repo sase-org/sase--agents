@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:research.0s.image Can you help me figure out why this sase agent wasn't prompted to commit by the finalizer? Diagnose the root cause of the issue and fix it. #plan
