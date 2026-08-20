@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make the `<ctrl+j>` / `<ctrl+k>` keymaps on the model alias history panel use an increment of 10 instead of 100 (which should remain the increment used for these keymaps elsewhere)? #plan
