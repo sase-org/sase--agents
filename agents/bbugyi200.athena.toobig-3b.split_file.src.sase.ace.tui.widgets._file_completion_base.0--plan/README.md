@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-3b](../../users/bbugyi200/machines/athena/hoods/toobig-3b/README.md) / [toobig-3b.split\_file.src.sase.ace.tui.widgets.\_file\_completion\_base.0](../../families/bbugyi200.athena.toobig-3b.split_file.src.sase.ace.tui.widgets._file_completion_base.0.md) / toobig-3b.split\_file.src.sase.ace.tui.widgets.\_file\_completion\_base.0--plan
 
-**Global name:** `bbugyi200.athena.toobig-3b.split_file.src.sase.ace.tui.widgets._file_completion_base.0--plan` · **State:** active · **Source run:** `run-f3df49cb35af76ffd28cce6e35937e35`
+**Global name:** `bbugyi200.athena.toobig-3b.split_file.src.sase.ace.tui.widgets._file_completion_base.0--plan` · **State:** completed · **Source run:** `run-f3df49cb35af76ffd28cce6e35937e35`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-3b
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-3b.split\_file.tests.ace.tui.widgets.test\_directive\_completion\_interactions.0](../bbugyi200.athena.toobig-3b.split_file.tests.ace.tui.widgets.test_directive_completion_interactions.0/README.md) | toobig-3b.split\_file hood | waiting |
+| [toobig-3b.split\_file.tests.ace.tui.widgets.test\_directive\_completion\_interactions.0](../bbugyi200.athena.toobig-3b.split_file.tests.ace.tui.widgets.test_directive_completion_interactions.0/README.md) | toobig-3b.split\_file hood | active |
 | [toobig-3b.split\_file.tests.test\_editor\_helper\_agent\_catalog.0](../bbugyi200.athena.toobig-3b.split_file.tests.test_editor_helper_agent_catalog.0/README.md) | toobig-3b.split\_file hood | waiting |
