@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-rm.11--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_rm_11__plan-260820_144917.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_rm_11__code-260820_144917.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/process_concurrency_closeout.md
 
 
