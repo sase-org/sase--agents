@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-p1.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-p1/sase-p1.1.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-17T17:43:29
