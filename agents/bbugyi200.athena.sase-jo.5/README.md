@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-jo.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-jo/sase-jo.5.md)
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-11T08:16:15.768993 → 2026-08-11T09:11:20.326247

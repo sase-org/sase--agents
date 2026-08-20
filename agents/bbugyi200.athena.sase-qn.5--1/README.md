@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-qn.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-qn/sase-qn.5.md)
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-19T02:49:08.569714+00:00

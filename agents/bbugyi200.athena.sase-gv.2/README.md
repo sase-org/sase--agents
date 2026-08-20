@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-gv.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-gv/sase-gv.2.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-07T10:25:20.201758 → 2026-08-07T10:54:04.325360

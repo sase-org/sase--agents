@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-qy.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-qy/sase-qy.4.md)
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-20T00:22:34.590452+00:00

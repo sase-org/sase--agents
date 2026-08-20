@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-jd.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-jd/sase-jd.1.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-10T19:17:45.633779 → 2026-08-10T21:14:55.706985

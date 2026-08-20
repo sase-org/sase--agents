@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-pq.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-pq/sase-pq.4.md)
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-18T15:19:20.078612+00:00

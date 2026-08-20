@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-ha.8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ha/sase-ha.8.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-07T22:32:03.191361 → 2026-08-07T22:57:32.297944

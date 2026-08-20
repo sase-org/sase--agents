@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-87.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-87/sase-87.6.md)
 - Model: haiku
 - Provider: claude
 - Timing: 2026-07-20T18:09:58.216845+00:00

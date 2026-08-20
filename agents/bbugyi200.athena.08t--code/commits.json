@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1a7c410dda0a7e6c4100e2866f40f3a3"}
+{"commits":[{"committed_at":1787250380,"sha":"a1da80ddb24bc1c550c08d4a19d1f96ad2259af9","subject":"feat(memory)!: migrate artifact guidance to generated memory"}],"schema_version":2,"source_run_id":"run-1a7c410dda0a7e6c4100e2866f40f3a3"}
