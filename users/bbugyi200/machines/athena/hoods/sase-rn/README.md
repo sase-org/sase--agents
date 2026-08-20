@@ -6,7 +6,7 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-rn.1](../../../../../../agents/bbugyi200.athena.sase-rn.1/README.md) | completed | gpt-5.5 / codex | 2026-08-20T20:36:27.616729+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-rn.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-rn.1/chat.md) |
+| [sase-rn.1](../../../../../../agents/bbugyi200.athena.sase-rn.1/README.md) | completed | gpt-5.5 / codex | 2026-08-20T20:36:27.616729+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-rn.1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-rn.1/prompt.md) |
 | [sase-rn.3](../../../../../../agents/bbugyi200.athena.sase-rn.3/README.md) | waiting | gpt-5.5 / codex | 20260820163605 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-rn.3/prompt.md) |
 | [sase-rn.land](../../../../../../agents/bbugyi200.athena.sase-rn.land/README.md) | waiting | gpt-5.6-sol / codex | 20260820163610 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-rn.land/prompt.md) |
 | [sase-rn.6](../../../../../../agents/bbugyi200.athena.sase-rn.6/README.md) | waiting | gpt-5.5 / codex | 20260820163608 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-rn.6/prompt.md) |
