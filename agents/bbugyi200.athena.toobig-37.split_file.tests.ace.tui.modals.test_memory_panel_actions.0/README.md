@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-37](../../users/bbugyi200/machines/athena/hoods/toobig-37/README.md) / toobig-37.split\_file.tests.ace.tui.modals.test\_memory\_panel\_actions.0
 
-**Global name:** `bbugyi200.athena.toobig-37.split_file.tests.ace.tui.modals.test_memory_panel_actions.0` · **State:** active · **Source run:** `run-e59fdae7544e8e05859bdaa768fa66db`
+**Global name:** `bbugyi200.athena.toobig-37.split_file.tests.ace.tui.modals.test_memory_panel_actions.0` · **State:** completed · **Source run:** `run-e59fdae7544e8e05859bdaa768fa66db`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-37
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,7 +27,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-37.split\_file.tests.ace.tui.widgets.test\_agent\_list\_monitor\_rows.0](../bbugyi200.athena.toobig-37.split_file.tests.ace.tui.widgets.test_agent_list_monitor_rows.0/README.md) | toobig-37.split\_file.tests.ace.tui hood | waiting |
+| [toobig-37.split\_file.tests.ace.tui.widgets.test\_agent\_list\_monitor\_rows.0](../bbugyi200.athena.toobig-37.split_file.tests.ace.tui.widgets.test_agent_list_monitor_rows.0/README.md) | toobig-37.split\_file.tests.ace.tui hood | active |
 | [toobig-37.split\_file.tests.ace.tui.widgets.test\_agent\_render\_cache.0](../bbugyi200.athena.toobig-37.split_file.tests.ace.tui.widgets.test_agent_render_cache.0/README.md) | toobig-37.split\_file.tests.ace.tui hood | waiting |
 | [toobig-37.split\_file.tests.main.test\_monitor\_handler\_start.0](../bbugyi200.athena.toobig-37.split_file.tests.main.test_monitor_handler_start.0/README.md) | toobig-37.split\_file.tests hood | waiting |
 | [toobig-37.split\_file.tests.memory.test\_mutation.0](../bbugyi200.athena.toobig-37.split_file.tests.memory.test_mutation.0/README.md) | toobig-37.split\_file.tests hood | waiting |
