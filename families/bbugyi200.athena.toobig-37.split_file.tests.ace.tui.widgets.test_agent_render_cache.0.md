@@ -11,7 +11,7 @@ flowchart TD
   n0["toobig-37.split_file.tests.ace.tui.widgets.test_agent_render_cache.0--mon [failed]"]
   n1["toobig-37.split_file.tests.ace.tui.widgets.test_agent_render_cache.0--plan [completed]"]
   n0 --> n1
-  n2["toobig-37.split_file.tests.ace.tui.widgets.test_agent_render_cache.0--1 [active]"]
+  n2["toobig-37.split_file.tests.ace.tui.widgets.test_agent_render_cache.0--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | toobig-37.split\_file.tests.ace.tui.widgets.test\_agent\_render\_cache.0--mon | failed | grok-4.6 / grok | 2026-08-20T05:18:53.607245+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-37.split_file.tests.ace.tui.widgets.test_agent_render_cache.0--mon/chat.md) |
 | <a id="member-plan"></a>plan | toobig-37.split\_file.tests.ace.tui.widgets.test\_agent\_render\_cache.0--plan | completed | grok-4.6 / grok | 2026-08-20T05:07:06.440186+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-37.split_file.tests.ace.tui.widgets.test_agent_render_cache.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-37.split_file.tests.ace.tui.widgets.test_agent_render_cache.0--plan/chat.md) |
-| <a id="member-1"></a>1 | toobig-37.split\_file.tests.ace.tui.widgets.test\_agent\_render\_cache.0--1 | active | grok-4.6 / grok | 2026-08-20T05:22:08.120122+00:00 | [1](../agents/bbugyi200.athena.toobig-37.split_file.tests.ace.tui.widgets.test_agent_render_cache.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-37.split_file.tests.ace.tui.widgets.test_agent_render_cache.0--1/prompt.md) | — |
+| <a id="member-1"></a>1 | toobig-37.split\_file.tests.ace.tui.widgets.test\_agent\_render\_cache.0--1 | completed | grok-4.6 / grok | 2026-08-20T05:22:08.120122+00:00 | [1](../agents/bbugyi200.athena.toobig-37.split_file.tests.ace.tui.widgets.test_agent_render_cache.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-37.split_file.tests.ace.tui.widgets.test_agent_render_cache.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-37.split_file.tests.ace.tui.widgets.test_agent_render_cache.0--1/chat.md) |
 
 ## Commits
 
@@ -35,7 +35,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [toobig-37.split\_file.tests.ace.tui.widgets.test\_agent\_list\_monitor\_rows.0](../agents/bbugyi200.athena.toobig-37.split_file.tests.ace.tui.widgets.test_agent_list_monitor_rows.0/README.md) | toobig-37.split\_file.tests.ace.tui.widgets hood | completed |
 | [toobig-37.split\_file.tests.ace.tui.modals.test\_memory\_panel\_actions.0](../agents/bbugyi200.athena.toobig-37.split_file.tests.ace.tui.modals.test_memory_panel_actions.0/README.md) | toobig-37.split\_file.tests.ace.tui hood | completed |
-| [toobig-37.split\_file.tests.main.test\_monitor\_handler\_start.0](../agents/bbugyi200.athena.toobig-37.split_file.tests.main.test_monitor_handler_start.0/README.md) | toobig-37.split\_file.tests hood | waiting |
+| [toobig-37.split\_file.tests.main.test\_monitor\_handler\_start.0](../agents/bbugyi200.athena.toobig-37.split_file.tests.main.test_monitor_handler_start.0/README.md) | toobig-37.split\_file.tests hood | active |
 | [toobig-37.split\_file.tests.memory.test\_mutation.0](../agents/bbugyi200.athena.toobig-37.split_file.tests.memory.test_mutation.0/README.md) | toobig-37.split\_file.tests hood | waiting |
 | [toobig-37.split\_file.tests.test\_check\_feature\_flags\_tool.0](../agents/bbugyi200.athena.toobig-37.split_file.tests.test_check_feature_flags_tool.0/README.md) | toobig-37.split\_file.tests hood | waiting |
 | [toobig-37.split\_file.tests.test\_keymaps\_registry\_loading.0](../agents/bbugyi200.athena.toobig-37.split_file.tests.test_keymaps_registry_loading.0/README.md) | toobig-37.split\_file.tests hood | waiting |
