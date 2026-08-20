@@ -13,11 +13,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-20T12:09:10.008381+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`82e6800`](https://github.com/sase-org/sase/commit/82e68005f0794e5c8621de8535d03cf00959150f) | feat(snippet): add project-aware catalog and conflict-safe mutations | 2026-08-20 09:08:03 EDT |
 
 ## Neighbors
 
