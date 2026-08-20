@@ -18,10 +18,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | 08q--plan | active | gpt-5.6-sol / codex | 2026-08-20T17:24:13.282398+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.08q--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.08q--plan/chat.md) |
-| <a id="member-code"></a>code | 08q--code | active | grok-4.6 / grok | 2026-08-20T17:29:54.425848+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 08q--code | active | grok-4.6 / grok | 2026-08-20T17:29:54.425848+00:00 | [1](../agents/bbugyi200.athena.08q--code/README.md#commits) | — | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | — | sase | [`50f9a16`](https://github.com/sase-org/sase/commit/50f9a1624fdf85c55c9c6ee68fbbd443a6999448) | fix(axe): prefer recorded daemon lock holder | 2026-06-28 08:19:27 EDT |
+| code | sase | [`b7bdd31`](https://github.com/sase-org/sase/commit/b7bdd3185a072a216f113331a31d1a053e836675) | feat(ace): add capital-letter auto-approve shortcuts on the Update panel | 2026-08-20 13:55:37 EDT |

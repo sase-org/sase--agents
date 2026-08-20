@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make sure that every single xprompt directive and every single xprompt directive keyword argument has excellent completion support in the prompt input widget and external editors (via LSP support)? #if_not_plan For example, doesn't the `%wait` directive have a `bead=` keyword argument (see #sshot for context)?
