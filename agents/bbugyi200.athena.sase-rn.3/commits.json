@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3671420ee3ce8f49c55ad92bf630109a"}
+{"commits":[{"committed_at":1787263777,"sha":"b1c6bb105fd82239c6624115ea58fa5af423657c","subject":"feat(finalizers): add beta finalizer foundation"}],"schema_version":2,"source_run_id":"run-3671420ee3ce8f49c55ad92bf630109a"}
