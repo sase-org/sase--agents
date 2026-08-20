@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-rm](../../users/bbugyi200/machines/athena/hoods/sase-rm/README.md) / [sase-rm.1](../../families/bbugyi200.athena.sase-rm.1.md) / sase-rm.1--code
 
-**Global name:** `bbugyi200.athena.sase-rm.1--code` · **State:** active · **Source run:** `run-774bfd4c36c89dc0392e27d1548a01db`
+**Global name:** `bbugyi200.athena.sase-rm.1--code` · **State:** completed · **Source run:** `run-774bfd4c36c89dc0392e27d1548a01db`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-rm
 
@@ -14,6 +14,10 @@
 - Provider: codex
 - Timing: 2026-08-20T18:59:19.888644+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 

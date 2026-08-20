@@ -18,13 +18,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-rm.4--plan | active | gpt-5.6-sol / codex | 2026-08-20T19:58:30.878270+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-rm.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-rm.4--plan/chat.md) |
-| <a id="member-code"></a>code | sase-rm.4--code | active | gpt-5.5 / codex | 2026-08-20T20:14:16.901124+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-rm.4--code | active | gpt-5.5 / codex | 2026-08-20T20:14:16.901124+00:00 | [1](../agents/bbugyi200.athena.sase-rm.4--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`982ad29`](https://github.com/sase-org/sase/commit/982ad299ee6a81eec30f496b303b4ff0a29eb15b) | fix: make successor handoffs collision-safe | 2026-08-20 17:07:14 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rm.1](bbugyi200.athena.sase-rm.1.md) (family · 2) | sase-rm hood | active 2 |
+| [sase-rm.1](bbugyi200.athena.sase-rm.1.md) (family · 2) | sase-rm hood | completed 2 |
 | [sase-rm.10](../agents/bbugyi200.athena.sase-rm.10/README.md) | sase-rm hood | waiting |
 | [sase-rm.11](bbugyi200.athena.sase-rm.11.md) (family · 2) | sase-rm hood | completed 2 |
 | [sase-rm.12](../agents/bbugyi200.athena.sase-rm.12/README.md) | sase-rm hood | failed |

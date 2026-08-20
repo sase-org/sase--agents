@@ -13,13 +13,19 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-20T20:14:16.901124+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`982ad29`](https://github.com/sase-org/sase/commit/982ad299ee6a81eec30f496b303b4ff0a29eb15b) | fix: make successor handoffs collision-safe | 2026-08-20 17:07:14 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rm.1](../../families/bbugyi200.athena.sase-rm.1.md) (family · 2) | sase-rm hood | active 2 |
+| [sase-rm.1](../../families/bbugyi200.athena.sase-rm.1.md) (family · 2) | sase-rm hood | completed 2 |
 | [sase-rm.10](../bbugyi200.athena.sase-rm.10/README.md) | sase-rm hood | waiting |
 | [sase-rm.11](../../families/bbugyi200.athena.sase-rm.11.md) (family · 2) | sase-rm hood | completed 2 |
 | [sase-rm.12](../bbugyi200.athena.sase-rm.12/README.md) | sase-rm hood | failed |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c02bbca7e4881aaaa552f72fbb48e58a"}
+{"commits":[{"committed_at":1787260034,"sha":"982ad299ee6a81eec30f496b303b4ff0a29eb15b","subject":"fix: make successor handoffs collision-safe"}],"schema_version":2,"source_run_id":"run-c02bbca7e4881aaaa552f72fbb48e58a"}
