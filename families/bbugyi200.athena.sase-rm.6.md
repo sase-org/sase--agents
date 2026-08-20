@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-rm](../users/bbugyi200/machines/athena/hoods/sase-rm/README.md) / sase-rm.6
 
-Owner: `bbugyi200.athena` · Hood: `sase-rm` · Members: 5 · Bead: [sase-rm.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-rm/sase-rm.6.md)
+Owner: `bbugyi200.athena` · Hood: `sase-rm` · Members: 6 · Bead: [sase-rm.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-rm/sase-rm.6.md)
 
 ## Lineage
 
@@ -15,8 +15,10 @@ flowchart TD
   n0 --> n2
   n3["sase-rm.6--1 [completed]"]
   n0 --> n3
-  n4["sase-rm.6--2 [active]"]
+  n4["sase-rm.6--2 [completed]"]
   n0 --> n4
+  n5["sase-rm.6--mon-1 [active]"]
+  n0 --> n5
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -27,7 +29,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | sase-rm.6--mon | failed | grok-4.6 / grok | 2026-08-20T19:14:07.618839+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-rm.6--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-rm.6--plan | completed | grok-4.6 / grok | 2026-08-20T18:50:44.047160+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-rm.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-rm.6--plan/chat.md) |
 | <a id="member-1"></a>1 | sase-rm.6--1 | completed | grok-4.6 / grok | 2026-08-20T19:17:20.872424+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-rm.6--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-rm.6--1/chat.md) |
-| <a id="member-2"></a>2 | sase-rm.6--2 | active | grok-4.6 / grok | 2026-08-20T19:31:07.608749+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-rm.6--2/prompt.md) | — |
+| <a id="member-2"></a>2 | sase-rm.6--2 | completed | grok-4.6 / grok | 2026-08-20T19:31:07.608749+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-rm.6--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-rm.6--2/chat.md) |
+| <a id="member-mon-1"></a>mon-1 | sase-rm.6--mon-1 | active | grok-4.6 / grok | 2026-08-20T19:43:02.063809+00:00 | 0 | — | — |
 
 ## Neighbors
 

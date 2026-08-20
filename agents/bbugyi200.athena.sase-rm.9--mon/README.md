@@ -32,7 +32,7 @@
 | [sase-rm.3](../../families/bbugyi200.athena.sase-rm.3.md) (family · 2) | sase-rm hood | active 2 |
 | [sase-rm.4](../bbugyi200.athena.sase-rm.4/README.md) | sase-rm hood | waiting |
 | [sase-rm.5](../bbugyi200.athena.sase-rm.5/README.md) | sase-rm hood | waiting |
-| [sase-rm.6](../../families/bbugyi200.athena.sase-rm.6.md) (family · 5) | sase-rm hood | active 1, completed 2, failed 2 |
+| [sase-rm.6](../../families/bbugyi200.athena.sase-rm.6.md) (family · 6) | sase-rm hood | active 1, completed 3, failed 2 |
 | [sase-rm.7](../bbugyi200.athena.sase-rm.7/README.md) | sase-rm hood | active |
 | [sase-rm.8](../bbugyi200.athena.sase-rm.8/README.md) | sase-rm hood | waiting |
 | [sase-rm.land](../bbugyi200.athena.sase-rm.land/README.md) | sase-rm hood | waiting |
