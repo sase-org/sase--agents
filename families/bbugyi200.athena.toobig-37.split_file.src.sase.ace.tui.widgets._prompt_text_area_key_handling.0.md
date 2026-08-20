@@ -58,8 +58,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-37.split\_file.src.sase.ace.tui.modals.memory\_panel\_actions.0](../agents/bbugyi200.athena.toobig-37.split_file.src.sase.ace.tui.modals.memory_panel_actions.0/README.md) | toobig-37.split\_file.src.sase.ace.tui hood | completed |
-| [toobig-37.split\_file.src.sase.llm\_provider.model\_alias\_resolution.0](../agents/bbugyi200.athena.toobig-37.split_file.src.sase.llm_provider.model_alias_resolution.0/README.md) | toobig-37.split\_file.src.sase hood | active |
-| [toobig-37.split\_file.src.sase.llm\_provider.usage\_limit\_config.0](../agents/bbugyi200.athena.toobig-37.split_file.src.sase.llm_provider.usage_limit_config.0/README.md) | toobig-37.split\_file.src.sase hood | waiting |
+| [toobig-37.split\_file.src.sase.llm\_provider.model\_alias\_resolution.0](../agents/bbugyi200.athena.toobig-37.split_file.src.sase.llm_provider.model_alias_resolution.0/README.md) | toobig-37.split\_file.src.sase hood | completed |
+| [toobig-37.split\_file.src.sase.llm\_provider.usage\_limit\_config.0](../agents/bbugyi200.athena.toobig-37.split_file.src.sase.llm_provider.usage_limit_config.0/README.md) | toobig-37.split\_file.src.sase hood | active |
 | [toobig-37.split\_file.src.sase.main.init\_memory.root\_planning.0](../agents/bbugyi200.athena.toobig-37.split_file.src.sase.main.init_memory.root_planning.0/README.md) | toobig-37.split\_file.src.sase hood | waiting |
 | [toobig-37.split\_file.src.sase.main.init\_memory.root\_rendering.0](../agents/bbugyi200.athena.toobig-37.split_file.src.sase.main.init_memory.root_rendering.0/README.md) | toobig-37.split\_file.src.sase hood | waiting |
 | [toobig-37.split\_file.src.sase.memory.mutation.0](../agents/bbugyi200.athena.toobig-37.split_file.src.sase.memory.mutation.0/README.md) | toobig-37.split\_file.src.sase hood | waiting |
