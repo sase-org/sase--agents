@@ -11,4 +11,10 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-20T11:40:58.962702+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`007cec1`](https://github.com/sase-org/sase/commit/007cec13cb47dd4a04b77cba2e32f018edf6ccb1) | fix(ace): step alias history by 10 runs, not ace.page\_size | 2026-08-20 08:12:06 EDT |
