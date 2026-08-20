@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-r6.2](../agents/bbugyi200.athena.sase-r6.2/README.md) | sase-r6 hood | active |
-| [sase-r6.3](../agents/bbugyi200.athena.sase-r6.3/README.md) | sase-r6 hood | active |
-| [sase-r6.4](../agents/bbugyi200.athena.sase-r6.4/README.md) | sase-r6 hood | waiting |
+| [sase-r6.2](../agents/bbugyi200.athena.sase-r6.2/README.md) | sase-r6 hood | completed |
+| [sase-r6.3](../agents/bbugyi200.athena.sase-r6.3/README.md) | sase-r6 hood | completed |
+| [sase-r6.4](../agents/bbugyi200.athena.sase-r6.4/README.md) | sase-r6 hood | active |
 | [sase-r6.land](../agents/bbugyi200.athena.sase-r6.land/README.md) | sase-r6 hood | waiting |

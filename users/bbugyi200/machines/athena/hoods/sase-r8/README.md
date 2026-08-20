@@ -7,7 +7,7 @@
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [sase-r8.4](../../../../../../agents/bbugyi200.athena.sase-r8.4/README.md) | waiting | grok-4.6 / grok | 20260819191736 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-r8.4/prompt.md) |
-| [sase-r8.2](../../../../../../agents/bbugyi200.athena.sase-r8.2/README.md) | completed | grok-4.6 / grok | 2026-08-19T23:18:06.313271+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-r8.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-r8.2/chat.md) |
+| [sase-r8.2](../../../../../../agents/bbugyi200.athena.sase-r8.2/README.md) | completed | grok-4.6 / grok | 2026-08-19T23:18:06.313271+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-r8.2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-r8.2/prompt.md) |
 | [sase-r8.6](../../../../../../agents/bbugyi200.athena.sase-r8.6/README.md) | waiting | grok-4.6 / grok | 20260819191738 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-r8.6/prompt.md) |
 | [sase-r8.3](../../../../../../agents/bbugyi200.athena.sase-r8.3/README.md) | waiting | grok-4.6 / grok | 20260819191735 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-r8.3/prompt.md) |
 | [sase-r8.land](../../../../../../agents/bbugyi200.athena.sase-r8.land/README.md) | waiting | grok-4.6 / grok | 20260819191741 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-r8.land/prompt.md) |
