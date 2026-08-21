@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add excellent syntax highlighting for refs to the `AGENT XPROMPT` section of the agent metadata panel? #beau #plan

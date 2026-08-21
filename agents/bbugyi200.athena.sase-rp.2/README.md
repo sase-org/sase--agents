@@ -13,16 +13,22 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-21T11:16:40.892856+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`4421c90`](https://github.com/sase-org/sase/commit/4421c90bf1e582270386a9d2f4c781f8fddcb32b) | feat(tui): route launch settings through admin center | 2026-08-21 07:48:23 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-rp.1](../bbugyi200.athena.sase-rp.1/README.md) | sase-rp hood | completed |
-| [sase-rp.3](../bbugyi200.athena.sase-rp.3/README.md) | sase-rp hood | active |
-| [sase-rp.land](../bbugyi200.athena.sase-rp.land/README.md) | sase-rp hood | waiting |
+| [sase-rp.3](../bbugyi200.athena.sase-rp.3/README.md) | sase-rp hood | completed |
+| [sase-rp.land](../../families/bbugyi200.athena.sase-rp.land.md) (family · 2) | sase-rp hood | active 2 |

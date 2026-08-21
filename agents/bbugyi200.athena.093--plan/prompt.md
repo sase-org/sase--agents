@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The "Runners" sub-tab of the "Statistics" tab of the "SASE Admin Center" panel is showing invalid data (31 runners at peak when my max runners/agents sase config setting is set to 10). Can you help me diagnose the root cause of this issue and fix it? #plan

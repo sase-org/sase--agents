@@ -13,16 +13,22 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-21T10:25:08.523628+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`0e18509`](https://github.com/sase-org/sase/commit/0e18509f8a664d29ee1950787a62a5c7f44a8717) | feat(tui): extract reusable launch pane | 2026-08-21 07:13:51 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-rp.2](../bbugyi200.athena.sase-rp.2/README.md) | sase-rp hood | completed |
-| [sase-rp.3](../bbugyi200.athena.sase-rp.3/README.md) | sase-rp hood | active |
-| [sase-rp.land](../bbugyi200.athena.sase-rp.land/README.md) | sase-rp hood | waiting |
+| [sase-rp.3](../bbugyi200.athena.sase-rp.3/README.md) | sase-rp hood | completed |
+| [sase-rp.land](../../families/bbugyi200.athena.sase-rp.land.md) (family · 2) | sase-rp hood | active 2 |

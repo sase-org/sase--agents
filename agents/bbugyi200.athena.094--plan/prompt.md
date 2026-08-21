@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me change the `<ctrl+g><ctrl+x>` keymap in the prompt input widget to have the same behavior as the `<ctrl+g>x` (insert) / `gx` (normal) keymaps (see the sase-rl epic bead for context)? #plan
