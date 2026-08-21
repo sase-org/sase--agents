@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8dd33e5`](https://github.com/sase-org/sase/commit/8dd33e594b17d255d9b28e95fcadc8d64e75931a) | fix: validate core lock ratchets semantically | 2026-08-14 14:42:48 EDT |
+| sase | [`8dd33e5`](https://github.com/sase-org/sase/commit/8dd33e594b17d255d9b28e95fcadc8d64e75931a) | fix: validate core lock ratchets semantically | 2026-08-14 18:42:48 UTC |
 
 ## Neighbors
 

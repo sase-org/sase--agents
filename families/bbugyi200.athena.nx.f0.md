@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`9e5eadc`](https://github.com/sase-org/sase/commit/9e5eadc6b364d218571ea1cbde82f48d72f3d082) | fix: preserve epic bead page URLs | 2026-07-29 09:15:07 EDT |
+| code | sase | [`9e5eadc`](https://github.com/sase-org/sase/commit/9e5eadc6b364d218571ea1cbde82f48d72f3d082) | fix: preserve epic bead page URLs | 2026-07-29 13:15:07 UTC |
 
 ## Neighbors
 

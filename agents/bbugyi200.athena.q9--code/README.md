@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cf2aba8`](https://github.com/sase-org/sase/commit/cf2aba89a9b641bb216c8e9f1c1493cdad316448) | fix(sdd): stop approved epic plans from losing their PROMPT link | 2026-07-31 09:21:49 EDT |
+| sase | [`cf2aba8`](https://github.com/sase-org/sase/commit/cf2aba89a9b641bb216c8e9f1c1493cdad316448) | fix(sdd): stop approved epic plans from losing their PROMPT link | 2026-07-31 13:21:49 UTC |

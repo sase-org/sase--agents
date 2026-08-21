@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`03692ad`](https://github.com/sase-org/sase/commit/03692ad7ae33ae1604a557eb65ca7af323d1e598) | chore: Add SDD prompt and plan for agents\_var\_namespace\_1 | 2026-06-03 01:31:59 EDT |
-| — | sase | [`6950b5c`](https://github.com/sase-org/sase/commit/6950b5c36bd258b19df396fb04adab598777dfc6) | feat: expose sase var output variables under single \`agents\` dict | 2026-06-03 01:49:25 EDT |
-| root | sase | [`9d72768`](https://github.com/sase-org/sase/commit/9d72768cb56c9293fda4a2a985f1afcd25360654) | chore: Add SDD prompt and plan for epic\_work\_auto\_tale | 2026-07-07 15:52:30 EDT |
-| code | sase | [`64728c4`](https://github.com/sase-org/sase/commit/64728c413a9b1083f01f8ac5f66579a28f125253) | fix(bead): use tale auto-approval for epic work | 2026-07-07 16:00:02 EDT |
+| — | sase | [`03692ad`](https://github.com/sase-org/sase/commit/03692ad7ae33ae1604a557eb65ca7af323d1e598) | chore: Add SDD prompt and plan for agents\_var\_namespace\_1 | 2026-06-03 05:31:59 UTC |
+| — | sase | [`6950b5c`](https://github.com/sase-org/sase/commit/6950b5c36bd258b19df396fb04adab598777dfc6) | feat: expose sase var output variables under single \`agents\` dict | 2026-06-03 05:49:25 UTC |
+| root | sase | [`9d72768`](https://github.com/sase-org/sase/commit/9d72768cb56c9293fda4a2a985f1afcd25360654) | chore: Add SDD prompt and plan for epic\_work\_auto\_tale | 2026-07-07 19:52:30 UTC |
+| code | sase | [`64728c4`](https://github.com/sase-org/sase/commit/64728c413a9b1083f01f8ac5f66579a28f125253) | fix(bead): use tale auto-approval for epic work | 2026-07-07 20:00:02 UTC |

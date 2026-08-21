@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e7b2a30`](https://github.com/sase-org/sase/commit/e7b2a30fb39858cd00cd1fb3d26e6791a7587ba3) | feat(history): render ranking signals in history-word completion rows | 2026-08-16 16:12:44 EDT |
+| sase | [`e7b2a30`](https://github.com/sase-org/sase/commit/e7b2a30fb39858cd00cd1fb3d26e6791a7587ba3) | feat(history): render ranking signals in history-word completion rows | 2026-08-16 20:12:44 UTC |
 
 ## Neighbors
 

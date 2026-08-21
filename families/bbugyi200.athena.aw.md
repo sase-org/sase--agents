@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`2fd3c84`](https://github.com/sase-org/sase/commit/2fd3c84a703fd55c6883105f802ecfc2343c19dd) | feat(ace): highlight xprompts in agent panels | 2026-07-16 16:57:07 EDT |
+| code | sase | [`2fd3c84`](https://github.com/sase-org/sase/commit/2fd3c84a703fd55c6883105f802ecfc2343c19dd) | feat(ace): highlight xprompts in agent panels | 2026-07-16 20:57:07 UTC |
 
 ## Neighbors
 

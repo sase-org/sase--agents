@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0f64fbe`](https://github.com/sase-org/sase/commit/0f64fbe1b19ecc47a3cb9f97654993ed1ee0ced7) | fix(repos): call the list form of repos.sidecar removed, not deprecated | 2026-08-07 11:43:17 EDT |
+| sase | [`0f64fbe`](https://github.com/sase-org/sase/commit/0f64fbe1b19ecc47a3cb9f97654993ed1ee0ced7) | fix(repos): call the list form of repos.sidecar removed, not deprecated | 2026-08-07 15:43:17 UTC |
 
 ## Neighbors
 

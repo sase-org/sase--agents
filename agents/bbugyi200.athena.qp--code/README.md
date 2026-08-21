@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6e96dea`](https://github.com/sase-org/sase/commit/6e96deaf8fdb94af4e3080a92882f0394d4ded55) | fix(beads): stop approved epic archives from dropping their PROMPT link | 2026-07-31 16:05:21 EDT |
+| sase | [`6e96dea`](https://github.com/sase-org/sase/commit/6e96deaf8fdb94af4e3080a92882f0394d4ded55) | fix(beads): stop approved epic archives from dropping their PROMPT link | 2026-07-31 20:05:21 UTC |

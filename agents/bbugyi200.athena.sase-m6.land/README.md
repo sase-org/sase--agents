@@ -22,8 +22,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`563a67f`](https://github.com/sase-org/sase/commit/563a67fb065c2eef0f710df85710e15bac023cce) | fix(tui): complete the grouping-keymap migration in the visual lane | 2026-08-16 19:33:00 EDT |
-| sase | [`6f1286e`](https://github.com/sase-org/sase/commit/6f1286e269aeb279aa42f3e8a78466767ea8893c) | fix(ace): repair post-rebase history metadata checks | 2026-08-16 19:48:53 EDT |
+| sase | [`563a67f`](https://github.com/sase-org/sase/commit/563a67fb065c2eef0f710df85710e15bac023cce) | fix(tui): complete the grouping-keymap migration in the visual lane | 2026-08-16 23:33:00 UTC |
+| sase | [`6f1286e`](https://github.com/sase-org/sase/commit/6f1286e269aeb279aa42f3e8a78466767ea8893c) | fix(ace): repair post-rebase history metadata checks | 2026-08-16 23:48:53 UTC |
 
 ## Neighbors
 

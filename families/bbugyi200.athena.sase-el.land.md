@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`cd9815f`](https://github.com/sase-org/sase/commit/cd9815ff60ca70840e1530c82394ebf8c2d4e175) | test: harden agent CLI history timezone checks | 2026-08-03 11:08:15 EDT |
+| code | sase | [`cd9815f`](https://github.com/sase-org/sase/commit/cd9815ff60ca70840e1530c82394ebf8c2d4e175) | test: harden agent CLI history timezone checks | 2026-08-03 15:08:15 UTC |
 
 ## Neighbors
 

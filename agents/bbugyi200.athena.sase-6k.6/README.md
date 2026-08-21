@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`55df5a7`](https://github.com/sase-org/sase/commit/55df5a75baa7004e4c04902b4256b3e08d4c4f2e) | feat(telemetry)!: remove bundled monitoring stack (sase-6k.6) | 2026-07-17 14:55:05 EDT |
+| sase | [`55df5a7`](https://github.com/sase-org/sase/commit/55df5a75baa7004e4c04902b4256b3e08d4c4f2e) | feat(telemetry)!: remove bundled monitoring stack (sase-6k.6) | 2026-07-17 18:55:05 UTC |
 
 ## Neighbors
 

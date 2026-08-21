@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a7b85cb`](https://github.com/sase-org/sase/commit/a7b85cbf79ec63f2cb5240f2b9ac1a2d0083f67b) | chore: Add SDD prompt and plan for fix\_models\_panel\_visual\_goldens | 2026-07-03 14:07:00 EDT |
-| sase | [`084a6a2`](https://github.com/sase-org/sase/commit/084a6a2c687f3ec9958ed1c1027e0e6945f98ace) | test(ace): adopt CI-canonical Models-panel goldens and guard font-pin | 2026-07-03 14:22:03 EDT |
+| sase | [`a7b85cb`](https://github.com/sase-org/sase/commit/a7b85cbf79ec63f2cb5240f2b9ac1a2d0083f67b) | chore: Add SDD prompt and plan for fix\_models\_panel\_visual\_goldens | 2026-07-03 18:07:00 UTC |
+| sase | [`084a6a2`](https://github.com/sase-org/sase/commit/084a6a2c687f3ec9958ed1c1027e0e6945f98ace) | test(ace): adopt CI-canonical Models-panel goldens and guard font-pin | 2026-07-03 18:22:03 UTC |
 
 ## Neighbors
 

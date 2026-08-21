@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4c3fde9`](https://github.com/sase-org/sase/commit/4c3fde93ece244e409c9514f390b18e8e166f1c9) | docs: reconcile phase-size guidance (sase-8w.7.4.1) | 2026-07-23 20:46:47 EDT |
+| sase | [`4c3fde9`](https://github.com/sase-org/sase/commit/4c3fde93ece244e409c9514f390b18e8e166f1c9) | docs: reconcile phase-size guidance (sase-8w.7.4.1) | 2026-07-24 00:46:47 UTC |
 
 ## Neighbors
 

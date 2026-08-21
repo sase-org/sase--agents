@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a7433cf`](https://github.com/sase-org/sase/commit/a7433cfe70a450efeba5bb7a056be586ef978ef4) | fix(monitor): document hardened supervision behavior | 2026-08-13 13:16:31 EDT |
+| sase | [`a7433cf`](https://github.com/sase-org/sase/commit/a7433cfe70a450efeba5bb7a056be586ef978ef4) | fix(monitor): document hardened supervision behavior | 2026-08-13 17:16:31 UTC |
 
 ## Neighbors
 

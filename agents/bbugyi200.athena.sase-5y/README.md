@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`20f7ada`](https://github.com/sase-org/sase/commit/20f7adaf9a1ade2dde7ef72fd0e7bbc7b1b630f0) | refactor: remove unused canonicalize\_external\_repo\_ref helper | 2026-07-14 07:04:15 EDT |
+| sase | [`20f7ada`](https://github.com/sase-org/sase/commit/20f7adaf9a1ade2dde7ef72fd0e7bbc7b1b630f0) | refactor: remove unused canonicalize\_external\_repo\_ref helper | 2026-07-14 11:04:15 UTC |
 
 ## Neighbors
 

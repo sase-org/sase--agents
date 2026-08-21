@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aed7fa5`](https://github.com/sase-org/sase/commit/aed7fa5efb68df509475ce1b3d1647b9b694f460) | fix(agents-sync): ignore owner-observed v1 updates (sase-92.2) | 2026-07-25 09:18:13 EDT |
+| sase | [`aed7fa5`](https://github.com/sase-org/sase/commit/aed7fa5efb68df509475ce1b3d1647b9b694f460) | fix(agents-sync): ignore owner-observed v1 updates (sase-92.2) | 2026-07-25 13:18:13 UTC |
 
 ## Neighbors
 

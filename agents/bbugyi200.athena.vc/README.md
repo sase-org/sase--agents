@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6ef7d14`](https://github.com/sase-org/sase/commit/6ef7d14d52f83cbaec170c71cb1df1b2ec0283f6) | feat(file-hooks)!: add agent\_name\_globs and rename globs to path\_globs | 2026-08-07 20:26:28 EDT |
+| sase | [`6ef7d14`](https://github.com/sase-org/sase/commit/6ef7d14d52f83cbaec170c71cb1df1b2ec0283f6) | feat(file-hooks)!: add agent\_name\_globs and rename globs to path\_globs | 2026-08-08 00:26:28 UTC |
 
 ## Neighbors
 

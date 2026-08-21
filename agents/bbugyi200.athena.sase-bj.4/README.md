@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2f565d0`](https://github.com/sase-org/sase/commit/2f565d0be3ba54489a50982aab93964990ec1df0) | docs(commit): document the conventional subject gate | 2026-07-31 09:22:37 EDT |
+| sase | [`2f565d0`](https://github.com/sase-org/sase/commit/2f565d0be3ba54489a50982aab93964990ec1df0) | docs(commit): document the conventional subject gate | 2026-07-31 13:22:37 UTC |
 
 ## Neighbors
 

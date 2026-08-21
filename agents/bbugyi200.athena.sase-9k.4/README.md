@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3a8540f`](https://github.com/sase-org/sase/commit/3a8540f321764da347f69c38eced0b96c1f0119f) | feat(ace): edit wait priority from wait modal (sase-9k.4) | 2026-07-25 12:21:34 EDT |
+| sase | [`3a8540f`](https://github.com/sase-org/sase/commit/3a8540f321764da347f69c38eced0b96c1f0119f) | feat(ace): edit wait priority from wait modal (sase-9k.4) | 2026-07-25 16:21:34 UTC |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`888453d`](https://github.com/sase-org/sase/commit/888453d3981c68e54c261e6153d1858e78a984cd) | fix: correct AXE overrun dashboard rendering | 2026-08-12 12:56:09 EDT |
+| sase | [`888453d`](https://github.com/sase-org/sase/commit/888453d3981c68e54c261e6153d1858e78a984cd) | fix: correct AXE overrun dashboard rendering | 2026-08-12 16:56:09 UTC |
 
 ## Neighbors
 

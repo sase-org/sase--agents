@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`5143cb9`](https://github.com/sase-org/sase/commit/5143cb9813d129850bbea0ec52246238bc31f696) | fix(stats): expose runner occupancy diagnostics | 2026-08-02 09:23:48 EDT |
+| code | sase | [`5143cb9`](https://github.com/sase-org/sase/commit/5143cb9813d129850bbea0ec52246238bc31f696) | fix(stats): expose runner occupancy diagnostics | 2026-08-02 13:23:48 UTC |
 
 ## Neighbors
 

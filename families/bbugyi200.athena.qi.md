@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`7765a07`](https://github.com/sase-org/sase/commit/7765a07c915d1bae5469ad2f43072136f4620ae6) | feat(beads): support shorthand bead ids | 2026-07-31 14:02:41 EDT |
+| code | sase | [`7765a07`](https://github.com/sase-org/sase/commit/7765a07c915d1bae5469ad2f43072136f4620ae6) | feat(beads): support shorthand bead ids | 2026-07-31 18:02:41 UTC |

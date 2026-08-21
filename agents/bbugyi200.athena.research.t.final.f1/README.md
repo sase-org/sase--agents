@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`edf4364`](https://github.com/sase-org/sase/commit/edf4364bb309dd17baf4c5d580009bf62411b5b6) | chore: Add SDD prompt and plan for agy\_provider\_mvp | 2026-06-19 18:55:59 EDT |
-| sase | [`71cf7f5`](https://github.com/sase-org/sase/commit/71cf7f5168f8ad31fb4dffc6957dc148654ba8e1) | chore: Add epic and phase beads for agy\_provider\_mvp | 2026-06-19 19:06:19 EDT |
+| sase | [`edf4364`](https://github.com/sase-org/sase/commit/edf4364bb309dd17baf4c5d580009bf62411b5b6) | chore: Add SDD prompt and plan for agy\_provider\_mvp | 2026-06-19 22:55:59 UTC |
+| sase | [`71cf7f5`](https://github.com/sase-org/sase/commit/71cf7f5168f8ad31fb4dffc6957dc148654ba8e1) | chore: Add epic and phase beads for agy\_provider\_mvp | 2026-06-19 23:06:19 UTC |
 
 ## Neighbors
 

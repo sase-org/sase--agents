@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`190d884`](https://github.com/sase-org/sase/commit/190d884e42b57dcd4399d201784b5e9d2828884d) | chore: Add SDD prompt and plan for live\_agent\_file\_panel\_diffs | 2026-05-31 11:35:51 EDT |
-| sase | [`fe9209f`](https://github.com/sase-org/sase/commit/fe9209fb096910463eb8d01afeda17da0616ecd5) | feat: refresh live file panel on clean watcher ticks | 2026-05-31 11:45:28 EDT |
+| sase | [`190d884`](https://github.com/sase-org/sase/commit/190d884e42b57dcd4399d201784b5e9d2828884d) | chore: Add SDD prompt and plan for live\_agent\_file\_panel\_diffs | 2026-05-31 15:35:51 UTC |
+| sase | [`fe9209f`](https://github.com/sase-org/sase/commit/fe9209fb096910463eb8d01afeda17da0616ecd5) | feat: refresh live file panel on clean watcher ticks | 2026-05-31 15:45:28 UTC |

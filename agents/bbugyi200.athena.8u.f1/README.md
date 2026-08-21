@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6066eb6`](https://github.com/sase-org/sase/commit/6066eb6ae5e63c27101e6774130a6c01529f319e) | chore: Add SDD prompt and plan for agent\_name\_unbracket\_list | 2026-06-16 10:51:46 EDT |
-| sase | [`70d906f`](https://github.com/sase-org/sase/commit/70d906f61376f3f7bde6f497473976260fe9e54e) | feat(tui): render agent names without brackets in Agents list | 2026-06-16 11:02:11 EDT |
+| sase | [`6066eb6`](https://github.com/sase-org/sase/commit/6066eb6ae5e63c27101e6774130a6c01529f319e) | chore: Add SDD prompt and plan for agent\_name\_unbracket\_list | 2026-06-16 14:51:46 UTC |
+| sase | [`70d906f`](https://github.com/sase-org/sase/commit/70d906f61376f3f7bde6f497473976260fe9e54e) | feat(tui): render agent names without brackets in Agents list | 2026-06-16 15:02:11 UTC |
 
 ## Neighbors
 

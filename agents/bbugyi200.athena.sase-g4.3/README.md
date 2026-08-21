@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d9c1354`](https://github.com/sase-org/sase/commit/d9c13549f9809f2ba8d695027dc7bf76440e7844) | feat(sdd): adopt header-invalid diagnostic and pin it at every validation surface | 2026-08-06 10:31:32 EDT |
+| sase | [`d9c1354`](https://github.com/sase-org/sase/commit/d9c13549f9809f2ba8d695027dc7bf76440e7844) | feat(sdd): adopt header-invalid diagnostic and pin it at every validation surface | 2026-08-06 14:31:32 UTC |
 
 ## Neighbors
 

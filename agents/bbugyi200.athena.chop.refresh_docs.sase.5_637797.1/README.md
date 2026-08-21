@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`57e99f9`](https://github.com/sase-org/sase/commit/57e99f9f6847496e90349a0db4effefa75b452ec) | docs: refresh user-facing guides for current behavior | 2026-08-09 00:27:11 EDT |
+| sase | [`57e99f9`](https://github.com/sase-org/sase/commit/57e99f9f6847496e90349a0db4effefa75b452ec) | docs: refresh user-facing guides for current behavior | 2026-08-09 04:27:11 UTC |
 
 ## Neighbors
 

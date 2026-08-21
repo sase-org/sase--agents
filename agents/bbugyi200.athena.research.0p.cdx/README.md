@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cfdaf30`](https://github.com/sase-org/sase/commit/cfdaf304ddc66403637c8793c1c6ce3f2d91b7e3) | docs: research admin center tab migration candidates | 2026-06-26 15:29:19 EDT |
+| sase | [`cfdaf30`](https://github.com/sase-org/sase/commit/cfdaf304ddc66403637c8793c1c6ce3f2d91b7e3) | docs: research admin center tab migration candidates | 2026-06-26 19:29:19 UTC |
 
 ## Neighbors
 

@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`d5b101a`](https://github.com/sase-org/sase/commit/d5b101ab2eaded2bde57daf572dbe0e556eb2da0) | feat(ace): browse-first Config XPrompts slash filter | 2026-08-21 10:42:35 EDT |
+| 1 | sase | [`d5b101a`](https://github.com/sase-org/sase/commit/d5b101ab2eaded2bde57daf572dbe0e556eb2da0) | feat(ace): browse-first Config XPrompts slash filter | 2026-08-21 14:42:35 UTC |
 
 ## Neighbors
 

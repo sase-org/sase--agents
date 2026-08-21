@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`7feb0b8`](https://github.com/sase-org/sase/commit/7feb0b84b69a0b3a197db2aab5e5ac37c986081c) | test(ace): rename TUI tests to Patch terminology | 2026-08-09 06:45:04 EDT |
+| code | sase | [`7feb0b8`](https://github.com/sase-org/sase/commit/7feb0b84b69a0b3a197db2aab5e5ac37c986081c) | test(ace): rename TUI tests to Patch terminology | 2026-08-09 10:45:04 UTC |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2e89322`](https://github.com/sase-org/sase/commit/2e89322953163f8e79ec14950e557b4dbf94ad2e) | test(axe): add end-to-end outage and recovery smoke tests (sase-7p.5) | 2026-07-19 18:42:19 EDT |
+| sase | [`2e89322`](https://github.com/sase-org/sase/commit/2e89322953163f8e79ec14950e557b4dbf94ad2e) | test(axe): add end-to-end outage and recovery smoke tests (sase-7p.5) | 2026-07-19 22:42:19 UTC |
 
 ## Neighbors
 

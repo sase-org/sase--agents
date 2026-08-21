@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3f7bec6`](https://github.com/sase-org/sase/commit/3f7bec6499617b210bf9c199943359177f3e455c) | chore: add blog series infographic | 2026-06-07 07:38:54 EDT |
+| sase | [`3f7bec6`](https://github.com/sase-org/sase/commit/3f7bec6499617b210bf9c199943359177f3e455c) | chore: add blog series infographic | 2026-06-07 11:38:54 UTC |
 
 ## Neighbors
 

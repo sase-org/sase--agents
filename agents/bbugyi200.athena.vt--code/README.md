@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8037b94`](https://github.com/sase-org/sase/commit/8037b94969220422b644221a23ff84abf66920ef) | fix(agents): coalesce launch artifact refreshes | 2026-08-08 13:48:33 EDT |
+| sase | [`8037b94`](https://github.com/sase-org/sase/commit/8037b94969220422b644221a23ff84abf66920ef) | fix(agents): coalesce launch artifact refreshes | 2026-08-08 17:48:33 UTC |

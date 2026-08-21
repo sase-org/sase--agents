@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c297507`](https://github.com/sase-org/sase/commit/c2975075b0626698b2fbfb038317b892f6e42b63) | chore: Add SDD prompt and plan for wait\_directive\_canonical\_duration | 2026-06-25 08:00:48 EDT |
-| sase | [`bb04443`](https://github.com/sase-org/sase/commit/bb0444316c01c8beae8365a4fb98be68e65091cf) | fix(xprompt): disambiguate leading-zero wait names | 2026-06-25 08:11:39 EDT |
+| sase | [`c297507`](https://github.com/sase-org/sase/commit/c2975075b0626698b2fbfb038317b892f6e42b63) | chore: Add SDD prompt and plan for wait\_directive\_canonical\_duration | 2026-06-25 12:00:48 UTC |
+| sase | [`bb04443`](https://github.com/sase-org/sase/commit/bb0444316c01c8beae8365a4fb98be68e65091cf) | fix(xprompt): disambiguate leading-zero wait names | 2026-06-25 12:11:39 UTC |

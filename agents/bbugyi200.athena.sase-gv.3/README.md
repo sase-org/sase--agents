@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`64922e1`](https://github.com/sase-org/sase/commit/64922e12acefbe1e202e69fa1d8146b06b7bad2e) | feat(ace): wire XPrompts browser rows onto the shared entry-jump mixin | 2026-08-07 11:13:12 EDT |
+| sase | [`64922e1`](https://github.com/sase-org/sase/commit/64922e12acefbe1e202e69fa1d8146b06b7bad2e) | feat(ace): wire XPrompts browser rows onto the shared entry-jump mixin | 2026-08-07 15:13:12 UTC |
 
 ## Neighbors
 

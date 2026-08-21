@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f6cb722`](https://github.com/sase-org/sase/commit/f6cb7227c9f261bfb3908a778b0beec65071a714) | chore: add Release Please for sase package (sase-4e.3) | 2026-06-08 13:19:05 EDT |
+| sase | [`f6cb722`](https://github.com/sase-org/sase/commit/f6cb7227c9f261bfb3908a778b0beec65071a714) | chore: add Release Please for sase package (sase-4e.3) | 2026-06-08 17:19:05 UTC |
 
 ## Neighbors
 

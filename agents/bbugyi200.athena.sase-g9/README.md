@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`368cf15`](https://github.com/sase-org/sase/commit/368cf151a445f9e0cb96a7e2c958decb91c031b3) | fix(test-selection): rank coverage-contexts baselines by breadth, not mtime | 2026-08-06 16:31:15 EDT |
+| sase | [`368cf15`](https://github.com/sase-org/sase/commit/368cf151a445f9e0cb96a7e2c958decb91c031b3) | fix(test-selection): rank coverage-contexts baselines by breadth, not mtime | 2026-08-06 20:31:15 UTC |

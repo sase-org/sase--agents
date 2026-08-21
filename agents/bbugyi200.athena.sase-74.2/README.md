@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b14df54`](https://github.com/sase-org/sase/commit/b14df5461b865919395e07ca5639c6b2e25d5fe0) | feat(agent-cleanup): add clan cleanup chooser (sase-74.2) | 2026-07-19 09:33:10 EDT |
+| sase | [`b14df54`](https://github.com/sase-org/sase/commit/b14df5461b865919395e07ca5639c6b2e25d5fe0) | feat(agent-cleanup): add clan cleanup chooser (sase-74.2) | 2026-07-19 13:33:10 UTC |
 
 ## Neighbors
 

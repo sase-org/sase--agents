@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`08b2f73`](https://github.com/sase-org/sase/commit/08b2f73ed69df95437787a046ab9465af7a88455) | fix: preserve display-prefixed ChangeSpec refs | 2026-07-11 19:24:12 EDT |
+| sase | [`08b2f73`](https://github.com/sase-org/sase/commit/08b2f73ed69df95437787a046ab9465af7a88455) | fix: preserve display-prefixed ChangeSpec refs | 2026-07-11 23:24:12 UTC |

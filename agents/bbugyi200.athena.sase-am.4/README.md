@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b5efaf7`](https://github.com/sase-org/sase/commit/b5efaf7e7929d41e94c53fc01d1e2e143cc011f9) | ci: derive sidecar checkouts from sase.yml | 2026-07-28 19:24:57 EDT |
+| sase | [`b5efaf7`](https://github.com/sase-org/sase/commit/b5efaf7e7929d41e94c53fc01d1e2e143cc011f9) | ci: derive sidecar checkouts from sase.yml | 2026-07-28 23:24:57 UTC |
 
 ## Neighbors
 

@@ -22,5 +22,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3308b2c`](https://github.com/sase-org/sase/commit/3308b2c86f93a7634c280127055045f5179a2200) | feat(tui): swap idle keymaps | 2026-06-26 11:56:34 EDT |
-| sase | [`bbd3bf2`](https://github.com/sase-org/sase/commit/bbd3bf212b4937affea9eb10130b66370a4fe81a) | refactor(tests): split \_suite\_gate.py into eight focused modules | 2026-08-18 20:02:31 EDT |
+| sase | [`3308b2c`](https://github.com/sase-org/sase/commit/3308b2c86f93a7634c280127055045f5179a2200) | feat(tui): swap idle keymaps | 2026-06-26 15:56:34 UTC |
+| sase | [`bbd3bf2`](https://github.com/sase-org/sase/commit/bbd3bf212b4937affea9eb10130b66370a4fe81a) | refactor(tests): split \_suite\_gate.py into eight focused modules | 2026-08-19 00:02:31 UTC |

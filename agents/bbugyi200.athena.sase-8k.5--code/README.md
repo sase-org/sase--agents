@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`44ccbe8`](https://github.com/sase-org/sase/commit/44ccbe84c7c23d1ad21433b428235dc37493072e) | feat(repo-init): initialize agents sidecars with explicit consent (sase-8k.5) | 2026-07-22 13:11:53 EDT |
+| sase | [`44ccbe8`](https://github.com/sase-org/sase/commit/44ccbe84c7c23d1ad21433b428235dc37493072e) | feat(repo-init): initialize agents sidecars with explicit consent (sase-8k.5) | 2026-07-22 17:11:53 UTC |
 
 ## Neighbors
 

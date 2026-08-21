@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`be31607`](https://github.com/sase-org/sase/commit/be316077685ff19ab06e92a4706b3f1b8d7d31d2) | test(running-field): split workspace claim operation tests into focused modules | 2026-08-19 02:45:43 EDT |
+| sase | [`be31607`](https://github.com/sase-org/sase/commit/be316077685ff19ab06e92a4706b3f1b8d7d31d2) | test(running-field): split workspace claim operation tests into focused modules | 2026-08-19 06:45:43 UTC |
 
 ## Neighbors
 

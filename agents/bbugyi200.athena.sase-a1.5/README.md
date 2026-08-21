@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b24e69c`](https://github.com/sase-org/sase/commit/b24e69c047a2e8428784f5992cdc734ed4b4e428) | feat(beads): restore overwritten note revisions (sase-a1.5) | 2026-07-27 14:44:15 EDT |
+| sase | [`b24e69c`](https://github.com/sase-org/sase/commit/b24e69c047a2e8428784f5992cdc734ed4b4e428) | feat(beads): restore overwritten note revisions (sase-a1.5) | 2026-07-27 18:44:15 UTC |
 
 ## Neighbors
 

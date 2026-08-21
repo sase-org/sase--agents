@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`77ef395`](https://github.com/sase-org/sase/commit/77ef3953e5c67c8be6247c4de1e2e62c474243a3) | fix(beads): repair stale project-key prefixes before minting | 2026-08-03 04:38:00 EDT |
+| sase | [`77ef395`](https://github.com/sase-org/sase/commit/77ef3953e5c67c8be6247c4de1e2e62c474243a3) | fix(beads): repair stale project-key prefixes before minting | 2026-08-03 08:38:00 UTC |

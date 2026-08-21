@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dc993cc`](https://github.com/sase-org/sase/commit/dc993ccd87657982f3f0213f8214dea2c43f26ac) | perf: prefer LibYAML C loader for trusted config YAML reads | 2026-08-05 15:53:19 EDT |
+| sase | [`dc993cc`](https://github.com/sase-org/sase/commit/dc993ccd87657982f3f0213f8214dea2c43f26ac) | perf: prefer LibYAML C loader for trusted config YAML reads | 2026-08-05 19:53:19 UTC |

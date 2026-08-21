@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fa7e7c8`](https://github.com/sase-org/sase/commit/fa7e7c8a7d58ca15e3a9e906ae90f7e4959972a3) | feat(agent)!: migrate prompts to the agents archive | 2026-08-01 15:23:14 EDT |
+| sase | [`fa7e7c8`](https://github.com/sase-org/sase/commit/fa7e7c8a7d58ca15e3a9e906ae90f7e4959972a3) | feat(agent)!: migrate prompts to the agents archive | 2026-08-01 19:23:14 UTC |
 
 ## Neighbors
 

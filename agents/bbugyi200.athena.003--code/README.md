@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`10e33da`](https://github.com/sase-org/sase/commit/10e33da429983062f59212bfb9a32ae2b7eadbe1) | fix: classify monitor starter rows as regular agents | 2026-08-13 19:07:51 EDT |
+| sase | [`10e33da`](https://github.com/sase-org/sase/commit/10e33da429983062f59212bfb9a32ae2b7eadbe1) | fix: classify monitor starter rows as regular agents | 2026-08-13 23:07:51 UTC |
 
 ## Neighbors
 

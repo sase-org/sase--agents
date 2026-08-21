@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`097a1a7`](https://github.com/sase-org/sase/commit/097a1a75145848c530bb68ea1d4588245f1a1b0c) | feat(task-types): freeze task-type presentation at gate-creation time | 2026-08-18 10:53:00 EDT |
+| sase | [`097a1a7`](https://github.com/sase-org/sase/commit/097a1a75145848c530bb68ea1d4588245f1a1b0c) | feat(task-types): freeze task-type presentation at gate-creation time | 2026-08-18 14:53:00 UTC |
 
 ## Neighbors
 

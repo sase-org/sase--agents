@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1116bcc`](https://github.com/sase-org/sase/commit/1116bccb0a4390e748a4042b9e92bbcb50d991a2) | feat(sdd)!: keep validation green while sidecar publication is pending | 2026-08-03 09:18:45 EDT |
+| sase | [`1116bcc`](https://github.com/sase-org/sase/commit/1116bccb0a4390e748a4042b9e92bbcb50d991a2) | feat(sdd)!: keep validation green while sidecar publication is pending | 2026-08-03 13:18:45 UTC |
 
 ## Neighbors
 

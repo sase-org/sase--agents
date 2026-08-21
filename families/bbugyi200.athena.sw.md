@@ -24,8 +24,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`9bf11ef`](https://github.com/sase-org/sase/commit/9bf11efdaa5ca5de8f571fc2227556a00b54089a) | feat(llm): update phase worker alias defaults | 2026-08-03 10:49:55 EDT |
-| code | sase | [`f4acb79`](https://github.com/sase-org/sase/commit/f4acb79189412ea61d2a59cd919aaf5aaca79b1c) | build(deps): require sase-core-rs 0.17.15 | 2026-08-03 11:23:53 EDT |
+| — | sase | [`9bf11ef`](https://github.com/sase-org/sase/commit/9bf11efdaa5ca5de8f571fc2227556a00b54089a) | feat(llm): update phase worker alias defaults | 2026-08-03 14:49:55 UTC |
+| code | sase | [`f4acb79`](https://github.com/sase-org/sase/commit/f4acb79189412ea61d2a59cd919aaf5aaca79b1c) | build(deps): require sase-core-rs 0.17.15 | 2026-08-03 15:23:53 UTC |
 
 ## Neighbors
 

@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`24a5fb6`](https://github.com/sase-org/sase/commit/24a5fb69cba6a31215ea88ef1a59c3af6d97357c) | fix(ace): restore contextual query shortcuts | 2026-07-19 13:42:12 EDT |
+| code | sase | [`24a5fb6`](https://github.com/sase-org/sase/commit/24a5fb69cba6a31215ea88ef1a59c3af6d97357c) | fix(ace): restore contextual query shortcuts | 2026-07-19 17:42:12 UTC |
 
 ## Neighbors
 

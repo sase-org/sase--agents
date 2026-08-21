@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5584d45`](https://github.com/sase-org/sase/commit/5584d451af9b89dfc46e57fb48ebab92a004e90f) | test: stabilize default-branch CI fixtures (#274) | 2026-08-05 11:15:51 EDT |
+| sase | [`5584d45`](https://github.com/sase-org/sase/commit/5584d451af9b89dfc46e57fb48ebab92a004e90f) | test: stabilize default-branch CI fixtures (#274) | 2026-08-05 15:15:51 UTC |
 
 ## Neighbors
 

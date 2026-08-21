@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e23c848`](https://github.com/sase-org/sase/commit/e23c848bce7997041327660ccb4a514050ec0627) | chore: Add SDD prompt and plan for research\_swarm\_workflow | 2026-05-28 16:03:28 EDT |
-| sase | [`41c6cec`](https://github.com/sase-org/sase/commit/41c6cec890d45a5ac89b1afd8d5c44a0d5419c34) | feat: split research swarm into parallel researchers | 2026-05-28 16:08:59 EDT |
+| sase | [`e23c848`](https://github.com/sase-org/sase/commit/e23c848bce7997041327660ccb4a514050ec0627) | chore: Add SDD prompt and plan for research\_swarm\_workflow | 2026-05-28 20:03:28 UTC |
+| sase | [`41c6cec`](https://github.com/sase-org/sase/commit/41c6cec890d45a5ac89b1afd8d5c44a0d5419c34) | feat: split research swarm into parallel researchers | 2026-05-28 20:08:59 UTC |

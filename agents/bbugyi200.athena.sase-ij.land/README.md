@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`90912ad`](https://github.com/sase-org/sase/commit/90912ad7d6cad2807ec86d6dbc98e60a33ec421d) | fix: stop conscripting agents into manual core-window bumps | 2026-08-10 10:08:01 EDT |
+| sase | [`90912ad`](https://github.com/sase-org/sase/commit/90912ad7d6cad2807ec86d6dbc98e60a33ec421d) | fix: stop conscripting agents into manual core-window bumps | 2026-08-10 14:08:01 UTC |
 
 ## Neighbors
 

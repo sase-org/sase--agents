@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`03a1489`](https://github.com/sase-org/sase/commit/03a1489568e521106acb20036ba95c603e5066e7) | test: split agent list entry tests by behavior | 2026-08-10 13:53:58 EDT |
+| sase | [`03a1489`](https://github.com/sase-org/sase/commit/03a1489568e521106acb20036ba95c603e5066e7) | test: split agent list entry tests by behavior | 2026-08-10 17:53:58 UTC |
 
 ## Neighbors
 

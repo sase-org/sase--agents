@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`ae536e9`](https://github.com/sase-org/sase/commit/ae536e98dcfcef2215dcc77595c4bab61240ed67) | chore: Add SDD prompt and plan for reject\_plan\_command | 2026-06-25 15:01:48 EDT |
-| — | sase | [`83f155c`](https://github.com/sase-org/sase/commit/83f155cf162dcd77ad1e530b0d1aa259f3627764) | feat(plan): add \`sase plan reject\` CLI command | 2026-06-25 15:27:15 EDT |
-| code | sase | [`88fa6e9`](https://github.com/sase-org/sase/commit/88fa6e9491d45ff2c30f73b941d57ec44da0ddaa) | feat(glossary): fail batched reads all-or-nothing and shrink render bytes | 2026-08-18 11:51:59 EDT |
+| — | sase | [`ae536e9`](https://github.com/sase-org/sase/commit/ae536e98dcfcef2215dcc77595c4bab61240ed67) | chore: Add SDD prompt and plan for reject\_plan\_command | 2026-06-25 19:01:48 UTC |
+| — | sase | [`83f155c`](https://github.com/sase-org/sase/commit/83f155cf162dcd77ad1e530b0d1aa259f3627764) | feat(plan): add \`sase plan reject\` CLI command | 2026-06-25 19:27:15 UTC |
+| code | sase | [`88fa6e9`](https://github.com/sase-org/sase/commit/88fa6e9491d45ff2c30f73b941d57ec44da0ddaa) | feat(glossary): fail batched reads all-or-nothing and shrink render bytes | 2026-08-18 15:51:59 UTC |

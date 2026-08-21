@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`21e5675`](https://github.com/sase-org/sase/commit/21e5675905ad153469be948e5e7876630762c36f) | feat(ace): show audited artifact reads in agent metadata | 2026-08-20 12:33:00 EDT |
+| sase | [`21e5675`](https://github.com/sase-org/sase/commit/21e5675905ad153469be948e5e7876630762c36f) | feat(ace): show audited artifact reads in agent metadata | 2026-08-20 16:33:00 UTC |

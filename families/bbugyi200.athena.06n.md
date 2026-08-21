@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`c772feb`](https://github.com/sase-org/sase/commit/c772feb216286526e1a1d3a4f92e3648e105cb7f) | feat(tui): add command palette position indicator | 2026-06-25 19:08:02 EDT |
-| code | sase | [`610c19c`](https://github.com/sase-org/sase/commit/610c19cd8b772dff6fe566a206c9a2459dfd5b51) | feat(ace): show model-usage strip in Alias History | 2026-08-18 16:02:16 EDT |
+| — | sase | [`c772feb`](https://github.com/sase-org/sase/commit/c772feb216286526e1a1d3a4f92e3648e105cb7f) | feat(tui): add command palette position indicator | 2026-06-25 23:08:02 UTC |
+| code | sase | [`610c19c`](https://github.com/sase-org/sase/commit/610c19cd8b772dff6fe566a206c9a2459dfd5b51) | feat(ace): show model-usage strip in Alias History | 2026-08-18 20:02:16 UTC |

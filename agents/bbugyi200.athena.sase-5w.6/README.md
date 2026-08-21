@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5ac9cae`](https://github.com/sase-org/sase/commit/5ac9cae00422448957adbe9b288eb0eedb051232) | feat(doctor): diagnose stale project and workspace state | 2026-07-13 13:37:29 EDT |
+| sase | [`5ac9cae`](https://github.com/sase-org/sase/commit/5ac9cae00422448957adbe9b288eb0eedb051232) | feat(doctor): diagnose stale project and workspace state | 2026-07-13 17:37:29 UTC |
 
 ## Neighbors
 

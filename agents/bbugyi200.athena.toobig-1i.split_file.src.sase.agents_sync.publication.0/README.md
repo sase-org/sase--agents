@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fc20ba4`](https://github.com/sase-org/sase/commit/fc20ba4336a043404b5fa1306a4cefaba8720425) | refactor(agents-sync): split publication module | 2026-08-03 14:12:08 EDT |
+| sase | [`fc20ba4`](https://github.com/sase-org/sase/commit/fc20ba4336a043404b5fa1306a4cefaba8720425) | refactor(agents-sync): split publication module | 2026-08-03 18:12:08 UTC |
 
 ## Neighbors
 

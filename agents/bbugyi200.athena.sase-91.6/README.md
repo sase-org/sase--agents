@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`447d96e`](https://github.com/sase-org/sase/commit/447d96e09d692f77b72783ca7e78c5e8bce41c3d) | fix(agents): recover historical sidecar publications (sase-91.6) | 2026-07-24 22:48:16 EDT |
+| sase | [`447d96e`](https://github.com/sase-org/sase/commit/447d96e09d692f77b72783ca7e78c5e8bce41c3d) | fix(agents): recover historical sidecar publications (sase-91.6) | 2026-07-25 02:48:16 UTC |
 
 ## Neighbors
 

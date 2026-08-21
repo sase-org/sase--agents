@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`179a039`](https://github.com/sase-org/sase/commit/179a0398a8a76c5705ab02e12782b659ce8f17fd) | refactor(agent-family): split custom definitions module | 2026-07-06 08:21:00 EDT |
+| sase | [`179a039`](https://github.com/sase-org/sase/commit/179a0398a8a76c5705ab02e12782b659ce8f17fd) | refactor(agent-family): split custom definitions module | 2026-07-06 12:21:00 UTC |
 
 ## Neighbors
 

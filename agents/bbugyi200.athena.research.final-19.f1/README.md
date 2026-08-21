@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4b1de96`](https://github.com/sase-org/sase/commit/4b1de962eac66cd1436ae95b0df54ce798ab7aba) | chore: Add SDD prompt and plan for tui\_agent\_refresh\_optimizations | 2026-06-08 14:06:02 EDT |
-| sase | [`6bba088`](https://github.com/sase-org/sase/commit/6bba088362a72cd27499c7d9e0438112f8bacc12) | chore: create TUI refresh optimization epic beads | 2026-06-08 14:11:44 EDT |
+| sase | [`4b1de96`](https://github.com/sase-org/sase/commit/4b1de962eac66cd1436ae95b0df54ce798ab7aba) | chore: Add SDD prompt and plan for tui\_agent\_refresh\_optimizations | 2026-06-08 18:06:02 UTC |
+| sase | [`6bba088`](https://github.com/sase-org/sase/commit/6bba088362a72cd27499c7d9e0438112f8bacc12) | chore: create TUI refresh optimization epic beads | 2026-06-08 18:11:44 UTC |
 
 ## Neighbors
 

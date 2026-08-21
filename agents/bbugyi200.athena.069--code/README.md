@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`88fa6e9`](https://github.com/sase-org/sase/commit/88fa6e9491d45ff2c30f73b941d57ec44da0ddaa) | feat(glossary): fail batched reads all-or-nothing and shrink render bytes | 2026-08-18 11:51:59 EDT |
+| sase | [`88fa6e9`](https://github.com/sase-org/sase/commit/88fa6e9491d45ff2c30f73b941d57ec44da0ddaa) | feat(glossary): fail batched reads all-or-nothing and shrink render bytes | 2026-08-18 15:51:59 UTC |

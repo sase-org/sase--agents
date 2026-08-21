@@ -18,8 +18,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0d2a6f8`](https://github.com/sase-org/sase/commit/0d2a6f8ed0eadbaa657a88ae115387eb5f5b56a3) | chore: Add SDD prompt and plan for sase\_4d\_pyvision\_cleanup\_2 (sase-4d) | 2026-06-06 10:21:18 EDT |
-| sase | [`34c2758`](https://github.com/sase-org/sase/commit/34c2758cae5a09e88a01cbec8b7f16fdd4722dde) | chore: finalize project alias pyvision cleanup (sase-4d) | 2026-06-06 10:28:12 EDT |
+| sase | [`0d2a6f8`](https://github.com/sase-org/sase/commit/0d2a6f8ed0eadbaa657a88ae115387eb5f5b56a3) | chore: Add SDD prompt and plan for sase\_4d\_pyvision\_cleanup\_2 (sase-4d) | 2026-06-06 14:21:18 UTC |
+| sase | [`34c2758`](https://github.com/sase-org/sase/commit/34c2758cae5a09e88a01cbec8b7f16fdd4722dde) | chore: finalize project alias pyvision cleanup (sase-4d) | 2026-06-06 14:28:12 UTC |
 
 ## Neighbors
 

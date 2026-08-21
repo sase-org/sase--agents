@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`83e60b1`](https://github.com/sase-org/sase/commit/83e60b19b795df27fd7c54ee12900055d6570022) | docs(research): analyze one-PR-per-epic bead work migration | 2026-06-25 18:57:11 EDT |
+| sase | [`83e60b1`](https://github.com/sase-org/sase/commit/83e60b19b795df27fd7c54ee12900055d6570022) | docs(research): analyze one-PR-per-epic bead work migration | 2026-06-25 22:57:11 UTC |
 
 ## Neighbors
 

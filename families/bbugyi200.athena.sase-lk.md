@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`b569cbd`](https://github.com/sase-org/sase/commit/b569cbdc2488b21320d6ca6aaffbf701fb9089d0) | fix(logs): bound pipe close to the drain budget | 2026-08-15 18:25:17 EDT |
+| code | sase | [`b569cbd`](https://github.com/sase-org/sase/commit/b569cbdc2488b21320d6ca6aaffbf701fb9089d0) | fix(logs): bound pipe close to the drain budget | 2026-08-15 22:25:17 UTC |

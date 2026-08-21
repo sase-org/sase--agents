@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`e4cdefd`](https://github.com/sase-org/sase/commit/e4cdefd621267341005fcbed6ac6cceb51bf5c49) | feat(tui): show linked plans in commit view | 2026-07-21 11:45:31 EDT |
+| — | sase | [`e4cdefd`](https://github.com/sase-org/sase/commit/e4cdefd621267341005fcbed6ac6cceb51bf5c49) | feat(tui): show linked plans in commit view | 2026-07-21 15:45:31 UTC |

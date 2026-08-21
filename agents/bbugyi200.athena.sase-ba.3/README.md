@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`be4c199`](https://github.com/sase-org/sase/commit/be4c19969fc6ce227ee4e474d9952722ea172b02) | feat(artifact): add pruning and trash lifecycle | 2026-07-30 12:43:50 EDT |
+| sase | [`be4c199`](https://github.com/sase-org/sase/commit/be4c19969fc6ce227ee4e474d9952722ea172b02) | feat(artifact): add pruning and trash lifecycle | 2026-07-30 16:43:50 UTC |
 
 ## Neighbors
 

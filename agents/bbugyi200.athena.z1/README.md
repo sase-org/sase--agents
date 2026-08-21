@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fe8ca3b`](https://github.com/sase-org/sase/commit/fe8ca3bc6f7eb3603e8c93baba29f9b467194a09) | docs: update agent identity and tribe directives | 2026-08-13 07:26:29 EDT |
+| sase | [`fe8ca3b`](https://github.com/sase-org/sase/commit/fe8ca3bc6f7eb3603e8c93baba29f9b467194a09) | docs: update agent identity and tribe directives | 2026-08-13 11:26:29 UTC |

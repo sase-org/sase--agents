@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`16b5602`](https://github.com/sase-org/sase/commit/16b56024a2ebe7d2c7c008b849c8711afacbdfbd) | chore: update SDD companion repository name | 2026-07-09 02:51:45 EDT |
+| code | sase | [`16b5602`](https://github.com/sase-org/sase/commit/16b56024a2ebe7d2c7c008b849c8711afacbdfbd) | chore: update SDD companion repository name | 2026-07-09 06:51:45 UTC |
 
 ## Neighbors
 

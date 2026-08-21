@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`97c0bf6`](https://github.com/sase-org/sase/commit/97c0bf6ad22fa5eec06705bfc9d533525d299cc8) | docs: define agent house in glossary | 2026-07-18 18:55:10 EDT |
+| sase | [`97c0bf6`](https://github.com/sase-org/sase/commit/97c0bf6ad22fa5eec06705bfc9d533525d299cc8) | docs: define agent house in glossary | 2026-07-18 22:55:10 UTC |

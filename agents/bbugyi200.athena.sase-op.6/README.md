@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5d98153`](https://github.com/sase-org/sase/commit/5d98153a7b2b1cacf6b8059c0e8e935b0eab9f04) | docs(glossary): document the sase glossary command group | 2026-08-17 15:58:10 EDT |
+| sase | [`5d98153`](https://github.com/sase-org/sase/commit/5d98153a7b2b1cacf6b8059c0e8e935b0eab9f04) | docs(glossary): document the sase glossary command group | 2026-08-17 19:58:10 UTC |
 
 ## Neighbors
 

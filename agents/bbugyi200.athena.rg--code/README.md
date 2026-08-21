@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1c29afa`](https://github.com/sase-org/sase/commit/1c29afae277b55a4bbe584c9f73193d90ef3f1a4) | fix(agent-clis): hide internal providers from CLI management | 2026-08-01 10:53:46 EDT |
+| sase | [`1c29afa`](https://github.com/sase-org/sase/commit/1c29afae277b55a4bbe584c9f73193d90ef3f1a4) | fix(agent-clis): hide internal providers from CLI management | 2026-08-01 14:53:46 UTC |

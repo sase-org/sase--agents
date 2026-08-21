@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`091d4cd`](https://github.com/sase-org/sase/commit/091d4cdd39f7bcbdd6e9f872a59727d25e732e1e) | chore: Add SDD prompt and plan for agents\_md\_headings | 2026-05-31 07:59:31 EDT |
-| sase | [`7013ddf`](https://github.com/sase-org/sase/commit/7013ddf019af60157b92bfe8cc8028446dd019ed) | chore: update AGENTS memory section headings | 2026-05-31 08:04:49 EDT |
+| sase | [`091d4cd`](https://github.com/sase-org/sase/commit/091d4cdd39f7bcbdd6e9f872a59727d25e732e1e) | chore: Add SDD prompt and plan for agents\_md\_headings | 2026-05-31 11:59:31 UTC |
+| sase | [`7013ddf`](https://github.com/sase-org/sase/commit/7013ddf019af60157b92bfe8cc8028446dd019ed) | chore: update AGENTS memory section headings | 2026-05-31 12:04:49 UTC |

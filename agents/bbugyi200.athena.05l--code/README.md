@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e4319db`](https://github.com/sase-org/sase/commit/e4319dbb413845cd3bba73471dd6049ab16ddacc) | fix(glossary): infer project from numbered managed workspaces | 2026-08-18 06:55:51 EDT |
+| sase | [`e4319db`](https://github.com/sase-org/sase/commit/e4319dbb413845cd3bba73471dd6049ab16ddacc) | fix(glossary): infer project from numbered managed workspaces | 2026-08-18 10:55:51 UTC |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`af1ff13`](https://github.com/sase-org/sase/commit/af1ff138ccb8d12add5eecb908cd2c0411b84a22) | feat: manage xprompt LSP installs during dev updates | 2026-07-07 14:21:44 EDT |
+| sase | [`af1ff13`](https://github.com/sase-org/sase/commit/af1ff138ccb8d12add5eecb908cd2c0411b84a22) | feat: manage xprompt LSP installs during dev updates | 2026-07-07 18:21:44 UTC |

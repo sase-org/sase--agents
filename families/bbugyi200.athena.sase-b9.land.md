@@ -24,8 +24,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`d6eb412`](https://github.com/sase-org/sase/commit/d6eb4127138b071e02e179b4cd8bf0c1da7c9948) | fix(artifact): protect consumed files from retention | 2026-07-30 13:09:26 EDT |
-| code | sase | [`be94f09`](https://github.com/sase-org/sase/commit/be94f098a761cee54e5e4b855374b504b92f6eb8) | fix(artifact): extend consumption protection coverage | 2026-07-30 13:52:03 EDT |
+| code | sase | [`d6eb412`](https://github.com/sase-org/sase/commit/d6eb4127138b071e02e179b4cd8bf0c1da7c9948) | fix(artifact): protect consumed files from retention | 2026-07-30 17:09:26 UTC |
+| code | sase | [`be94f09`](https://github.com/sase-org/sase/commit/be94f098a761cee54e5e4b855374b504b92f6eb8) | fix(artifact): extend consumption protection coverage | 2026-07-30 17:52:03 UTC |
 
 ## Neighbors
 

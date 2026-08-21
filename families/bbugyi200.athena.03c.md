@@ -39,8 +39,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code-0 | sase | [`78a9130`](https://github.com/sase-org/sase/commit/78a9130f753609fab8a6adb9d3245afb05574d46) | fix(tui): honor Artifacts pane contract actions | 2026-08-16 10:06:26 EDT |
-| 2 | sase | [`5d0bcf9`](https://github.com/sase-org/sase/commit/5d0bcf9e8a389fdb47d1d612c0191bd730b5dfc2) | test: expect relation-backed fields in the notes fixture query profile | 2026-08-16 11:00:59 EDT |
+| code-0 | sase | [`78a9130`](https://github.com/sase-org/sase/commit/78a9130f753609fab8a6adb9d3245afb05574d46) | fix(tui): honor Artifacts pane contract actions | 2026-08-16 14:06:26 UTC |
+| 2 | sase | [`5d0bcf9`](https://github.com/sase-org/sase/commit/5d0bcf9e8a389fdb47d1d612c0191bd730b5dfc2) | test: expect relation-backed fields in the notes fixture query profile | 2026-08-16 15:00:59 UTC |
 
 ## Neighbors
 

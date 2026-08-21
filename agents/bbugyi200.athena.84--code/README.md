@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`36b962a`](https://github.com/sase-org/sase/commit/36b962ad9f664186dfa52b372469a9318b2c0fa7) | fix(workspaces): isolate generated SASE repo metadata | 2026-07-14 06:16:37 EDT |
+| sase | [`36b962a`](https://github.com/sase-org/sase/commit/36b962ad9f664186dfa52b372469a9318b2c0fa7) | fix(workspaces): isolate generated SASE repo metadata | 2026-07-14 10:16:37 UTC |
 
 ## Neighbors
 

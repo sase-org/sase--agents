@@ -30,4 +30,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`e388740`](https://github.com/sase-org/sase/commit/e38874024bc15b39c61bec2e7c4ad776e2f923c7) | fix(proc): isolate SASE\_PROC\_\* tests, skip malformed monitors, overlay session workers | 2026-08-16 10:48:50 EDT |
+| 1 | sase | [`e388740`](https://github.com/sase-org/sase/commit/e38874024bc15b39c61bec2e7c4ad776e2f923c7) | fix(proc): isolate SASE\_PROC\_\* tests, skip malformed monitors, overlay session workers | 2026-08-16 14:48:50 UTC |

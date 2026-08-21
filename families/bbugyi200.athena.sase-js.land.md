@@ -24,8 +24,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`ad11756`](https://github.com/sase-org/sase/commit/ad11756e6ed919d83f30c69fdb82d3c37c59b955) | fix(ace): break artifact-provider import cycle, delete retired Chats pane, drop @chat completion | 2026-08-12 11:36:27 EDT |
-| code | sase | [`c30bcb0`](https://github.com/sase-org/sase/commit/c30bcb012c50f36b9e6b240d146fffa2cf3d8a8c) | chore(symvision): retire epic-js whitelist, delete or wire up its five symbols | 2026-08-12 12:35:48 EDT |
+| code | sase | [`ad11756`](https://github.com/sase-org/sase/commit/ad11756e6ed919d83f30c69fdb82d3c37c59b955) | fix(ace): break artifact-provider import cycle, delete retired Chats pane, drop @chat completion | 2026-08-12 15:36:27 UTC |
+| code | sase | [`c30bcb0`](https://github.com/sase-org/sase/commit/c30bcb012c50f36b9e6b240d146fffa2cf3d8a8c) | chore(symvision): retire epic-js whitelist, delete or wire up its five symbols | 2026-08-12 16:35:48 UTC |
 
 ## Neighbors
 

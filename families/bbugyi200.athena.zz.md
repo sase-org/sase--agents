@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`c593585`](https://github.com/sase-org/sase/commit/c5935856a2a4898b7beb7f85c8f804da959d6c79) | fix(monitor): make monitors notification-neutral | 2026-08-13 16:43:01 EDT |
+| code | sase | [`c593585`](https://github.com/sase-org/sase/commit/c5935856a2a4898b7beb7f85c8f804da959d6c79) | fix(monitor): make monitors notification-neutral | 2026-08-13 20:43:01 UTC |

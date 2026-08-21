@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`de5581d`](https://github.com/sase-org/sase/commit/de5581d8c06dd70976196544dba2b0231f97cde6) | docs: refresh user-facing behavior reference | 2026-07-24 17:06:28 EDT |
+| sase | [`de5581d`](https://github.com/sase-org/sase/commit/de5581d8c06dd70976196544dba2b0231f97cde6) | docs: refresh user-facing behavior reference | 2026-07-24 21:06:28 UTC |
 
 ## Neighbors
 

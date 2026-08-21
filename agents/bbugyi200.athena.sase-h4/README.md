@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f47fb21`](https://github.com/sase-org/sase/commit/f47fb214669398b4ea1dfe20bd3802853e12acd1) | test(visual): add a Noto Emoji fallback font so emoji goldens are not tofu | 2026-08-07 15:01:21 EDT |
+| sase | [`f47fb21`](https://github.com/sase-org/sase/commit/f47fb214669398b4ea1dfe20bd3802853e12acd1) | test(visual): add a Noto Emoji fallback font so emoji goldens are not tofu | 2026-08-07 19:01:21 UTC |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cad0e61`](https://github.com/sase-org/sase/commit/cad0e6100f1f7f310b9a568fb6521e32d97cc2ef) | feat(finalizers): execute builtin commit declarations | 2026-08-20 19:13:56 EDT |
+| sase | [`cad0e61`](https://github.com/sase-org/sase/commit/cad0e6100f1f7f310b9a568fb6521e32d97cc2ef) | feat(finalizers): execute builtin commit declarations | 2026-08-20 23:13:56 UTC |
 
 ## Neighbors
 

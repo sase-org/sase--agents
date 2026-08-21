@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`87a89f0`](https://github.com/sase-org/sase/commit/87a89f028b4054f2bda2f2765be75baef18cf112) | test: split sidecar initialization coverage | 2026-07-22 16:24:26 EDT |
+| sase | [`87a89f0`](https://github.com/sase-org/sase/commit/87a89f028b4054f2bda2f2765be75baef18cf112) | test: split sidecar initialization coverage | 2026-07-22 20:24:26 UTC |
 
 ## Neighbors
 

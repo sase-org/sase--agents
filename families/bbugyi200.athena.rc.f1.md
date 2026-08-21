@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`6e96ff1`](https://github.com/sase-org/sase/commit/6e96ff12fdb14cab6f7ff6cbb7c8074db6efc678) | feat(llm): load balance cheapest alias by default | 2026-08-01 11:06:49 EDT |
+| code | sase | [`6e96ff1`](https://github.com/sase-org/sase/commit/6e96ff12fdb14cab6f7ff6cbb7c8074db6efc678) | feat(llm): load balance cheapest alias by default | 2026-08-01 15:06:49 UTC |
 
 ## Neighbors
 

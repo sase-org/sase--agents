@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3124e7a`](https://github.com/sase-org/sase/commit/3124e7a315e02d8d7362b151ee0cb1db1ab7e45a) | refactor(agents-sync): split inventory responsibilities | 2026-07-30 12:54:13 EDT |
+| sase | [`3124e7a`](https://github.com/sase-org/sase/commit/3124e7a315e02d8d7362b151ee0cb1db1ab7e45a) | refactor(agents-sync): split inventory responsibilities | 2026-07-30 16:54:13 UTC |
 
 ## Neighbors
 

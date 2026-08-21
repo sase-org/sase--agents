@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`641229f`](https://github.com/sase-org/sase/commit/641229f896b6c59ecf1e1c596b2159e7ef7c6294) | fix(ace): surface unresolvable tribe waits | 2026-07-28 18:13:23 EDT |
+| sase | [`641229f`](https://github.com/sase-org/sase/commit/641229f896b6c59ecf1e1c596b2159e7ef7c6294) | fix(ace): surface unresolvable tribe waits | 2026-07-28 22:13:23 UTC |
 
 ## Neighbors
 

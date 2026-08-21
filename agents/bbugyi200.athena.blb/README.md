@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cfe8388`](https://github.com/sase-org/sase/commit/cfe8388cad803c8e4e8b5eda3bcfe26b3a8c7996) | chore: Add SDD prompt and plan for reads\_xprompt\_12 | 2026-05-27 16:44:16 EDT |
-| sase | [`7a226f3`](https://github.com/sase-org/sase/commit/7a226f3e8664d098bf07853f6b94a6be265b7176) | feat: add reads xprompt | 2026-05-27 16:55:35 EDT |
+| sase | [`cfe8388`](https://github.com/sase-org/sase/commit/cfe8388cad803c8e4e8b5eda3bcfe26b3a8c7996) | chore: Add SDD prompt and plan for reads\_xprompt\_12 | 2026-05-27 20:44:16 UTC |
+| sase | [`7a226f3`](https://github.com/sase-org/sase/commit/7a226f3e8664d098bf07853f6b94a6be265b7176) | feat: add reads xprompt | 2026-05-27 20:55:35 UTC |

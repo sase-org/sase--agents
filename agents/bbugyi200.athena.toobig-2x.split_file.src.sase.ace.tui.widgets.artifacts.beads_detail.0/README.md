@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7b05149`](https://github.com/sase-org/sase/commit/7b051497033e7751be11e082e88bef0c9f55a190) | refactor(ace-tui): split beads\_detail into focused modules | 2026-08-17 06:50:58 EDT |
+| sase | [`7b05149`](https://github.com/sase-org/sase/commit/7b051497033e7751be11e082e88bef0c9f55a190) | refactor(ace-tui): split beads\_detail into focused modules | 2026-08-17 10:50:58 UTC |
 
 ## Neighbors
 

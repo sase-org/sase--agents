@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`2a587ff`](https://github.com/sase-org/sase/commit/2a587fff70c2cb43035eaa340915291026028eca) | fix: reconcile phantom running procs | 2026-08-16 10:53:58 EDT |
+| — | sase | [`2a587ff`](https://github.com/sase-org/sase/commit/2a587fff70c2cb43035eaa340915291026028eca) | fix: reconcile phantom running procs | 2026-08-16 14:53:58 UTC |

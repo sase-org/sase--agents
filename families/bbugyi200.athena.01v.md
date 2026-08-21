@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f59e307`](https://github.com/sase-org/sase/commit/f59e30717cc06c962d5acf4406a43b65372f9184) | fix(ace): demote owning-xprompt preview inside shorthand argument text | 2026-08-14 18:34:19 EDT |
+| code | sase | [`f59e307`](https://github.com/sase-org/sase/commit/f59e30717cc06c962d5acf4406a43b65372f9184) | fix(ace): demote owning-xprompt preview inside shorthand argument text | 2026-08-14 22:34:19 UTC |
 
 ## Neighbors
 

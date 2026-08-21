@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`814026c`](https://github.com/sase-org/sase/commit/814026c20b015a0d63ff1e3cd0d39bc075e52e85) | feat(bead): associate proposed epics with parent beads (sase-7z.5) | 2026-07-20 08:24:56 EDT |
+| sase | [`814026c`](https://github.com/sase-org/sase/commit/814026c20b015a0d63ff1e3cd0d39bc075e52e85) | feat(bead): associate proposed epics with parent beads (sase-7z.5) | 2026-07-20 12:24:56 UTC |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`71012c5`](https://github.com/sase-org/sase/commit/71012c5c742c7ddc4cd4e5592927b0798778ff3e) | refactor(workspace): narrow operational lease internals | 2026-08-16 06:42:32 EDT |
+| sase | [`71012c5`](https://github.com/sase-org/sase/commit/71012c5c742c7ddc4cd4e5592927b0798778ff3e) | refactor(workspace): narrow operational lease internals | 2026-08-16 10:42:32 UTC |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bf6e8ec`](https://github.com/sase-org/sase/commit/bf6e8eca978fa45ccadbfa22c041fcff69ee21bd) | docs: Add research on directives vs xprompts merge architecture | 2026-06-20 09:25:53 EDT |
+| sase | [`bf6e8ec`](https://github.com/sase-org/sase/commit/bf6e8eca978fa45ccadbfa22c041fcff69ee21bd) | docs: Add research on directives vs xprompts merge architecture | 2026-06-20 13:25:53 UTC |
 
 ## Neighbors
 

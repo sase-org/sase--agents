@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dea08e6`](https://github.com/sase-org/sase/commit/dea08e6ef5d0f44ad0251c5ce7e40033b130448d) | style: compact plan approval docstring (sase-6q) | 2026-07-18 07:22:51 EDT |
+| sase | [`dea08e6`](https://github.com/sase-org/sase/commit/dea08e6ef5d0f44ad0251c5ce7e40033b130448d) | style: compact plan approval docstring (sase-6q) | 2026-07-18 11:22:51 UTC |
 
 ## Neighbors
 

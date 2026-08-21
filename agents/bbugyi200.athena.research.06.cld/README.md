@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2fe5213`](https://github.com/sase-org/sase/commit/2fe5213ca91bbe773c91fcca31457a432e7ce458) | docs: research per-model thinking-level directive for xprompts | 2026-06-22 12:33:13 EDT |
+| sase | [`2fe5213`](https://github.com/sase-org/sase/commit/2fe5213ca91bbe773c91fcca31457a432e7ce458) | docs: research per-model thinking-level directive for xprompts | 2026-06-22 16:33:13 UTC |
 
 ## Neighbors
 

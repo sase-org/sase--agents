@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`53e94ca`](https://github.com/sase-org/sase/commit/53e94ca4a5e8456316a32ffbb5af8222a0d0c385) | fix(agents-sync): allow container-named hood publication (sase-ad.2) | 2026-07-28 08:19:41 EDT |
+| sase | [`53e94ca`](https://github.com/sase-org/sase/commit/53e94ca4a5e8456316a32ffbb5af8222a0d0c385) | fix(agents-sync): allow container-named hood publication (sase-ad.2) | 2026-07-28 12:19:41 UTC |
 
 ## Neighbors
 

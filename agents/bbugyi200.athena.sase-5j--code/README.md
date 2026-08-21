@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bbbcf31`](https://github.com/sase-org/sase/commit/bbbcf31fd96f74fcd8e5328cf9b486de3960e34e) | fix(sdd): point missing companion stores at migrate | 2026-07-08 02:58:58 EDT |
+| sase | [`bbbcf31`](https://github.com/sase-org/sase/commit/bbbcf31fd96f74fcd8e5328cf9b486de3960e34e) | fix(sdd): point missing companion stores at migrate | 2026-07-08 06:58:58 UTC |
 
 ## Neighbors
 

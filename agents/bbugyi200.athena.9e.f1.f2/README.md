@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5165cb7`](https://github.com/sase-org/sase/commit/5165cb74130f7fc23c00155adfa3131aaad07284) | chore: Add SDD prompt and plan for prompt\_stack\_ctrl\_hl\_focus | 2026-06-17 10:47:03 EDT |
-| sase | [`ed4f9c7`](https://github.com/sase-org/sase/commit/ed4f9c716a6b53d91b6163beee0c329993ca8a69) | feat(tui): move prompt-stack pane focus to Ctrl+H/L | 2026-06-17 11:12:32 EDT |
+| sase | [`5165cb7`](https://github.com/sase-org/sase/commit/5165cb74130f7fc23c00155adfa3131aaad07284) | chore: Add SDD prompt and plan for prompt\_stack\_ctrl\_hl\_focus | 2026-06-17 14:47:03 UTC |
+| sase | [`ed4f9c7`](https://github.com/sase-org/sase/commit/ed4f9c716a6b53d91b6163beee0c329993ca8a69) | feat(tui): move prompt-stack pane focus to Ctrl+H/L | 2026-06-17 15:12:32 UTC |
 
 ## Neighbors
 

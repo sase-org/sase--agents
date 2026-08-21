@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`6b8c646`](https://github.com/sase-org/sase/commit/6b8c646c66892e133c86b08a3fa76920f0ec712f) | feat(commit)!: stage every change by default, replace -f/--file with -x/--exclude | 2026-08-12 13:21:12 EDT |
+| code | sase | [`6b8c646`](https://github.com/sase-org/sase/commit/6b8c646c66892e133c86b08a3fa76920f0ec712f) | feat(commit)!: stage every change by default, replace -f/--file with -x/--exclude | 2026-08-12 17:21:12 UTC |

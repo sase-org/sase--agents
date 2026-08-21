@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`10eeaf7`](https://github.com/sase-org/sase/commit/10eeaf72302a97eca47272754c1cfdd91c935b20) | fix(axe): verify and journal daemon restarts (sase-7p.3) | 2026-07-19 17:48:27 EDT |
+| sase | [`10eeaf7`](https://github.com/sase-org/sase/commit/10eeaf72302a97eca47272754c1cfdd91c935b20) | fix(axe): verify and journal daemon restarts (sase-7p.3) | 2026-07-19 21:48:27 UTC |
 
 ## Neighbors
 

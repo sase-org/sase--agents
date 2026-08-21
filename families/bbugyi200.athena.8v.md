@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`1114961`](https://github.com/sase-org/sase/commit/1114961b46c4374c6d9c291cce0a1b8aab79b638) | build: prefer workspace-local sase-core checkout | 2026-07-15 08:40:03 EDT |
+| code | sase | [`1114961`](https://github.com/sase-org/sase/commit/1114961b46c4374c6d9c291cce0a1b8aab79b638) | build: prefer workspace-local sase-core checkout | 2026-07-15 12:40:03 UTC |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cc99b7a`](https://github.com/sase-org/sase/commit/cc99b7a3bbb13ab7273abe1d44e3aed9d6852bf3) | fix(axe): resolve state paths at call time (sase-80.1) | 2026-07-20 08:06:19 EDT |
+| sase | [`cc99b7a`](https://github.com/sase-org/sase/commit/cc99b7a3bbb13ab7273abe1d44e3aed9d6852bf3) | fix(axe): resolve state paths at call time (sase-80.1) | 2026-07-20 12:06:19 UTC |
 
 ## Neighbors
 

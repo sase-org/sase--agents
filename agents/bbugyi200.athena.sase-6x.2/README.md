@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7495f70`](https://github.com/sase-org/sase/commit/7495f70331ed21ec1a8cfcca31ef228e430ad23a) | feat: add clan context to fork prompts (sase-6x.2) | 2026-07-18 18:36:04 EDT |
+| sase | [`7495f70`](https://github.com/sase-org/sase/commit/7495f70331ed21ec1a8cfcca31ef228e430ad23a) | feat: add clan context to fork prompts (sase-6x.2) | 2026-07-18 22:36:04 UTC |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`920b89b`](https://github.com/sase-org/sase/commit/920b89beb22b9e3b2bcaeb50e166a79a1f9edf80) | docs: add sase update dev infographic | 2026-06-25 21:57:53 EDT |
+| sase | [`920b89b`](https://github.com/sase-org/sase/commit/920b89beb22b9e3b2bcaeb50e166a79a1f9edf80) | docs: add sase update dev infographic | 2026-06-26 01:57:53 UTC |
 
 ## Neighbors
 

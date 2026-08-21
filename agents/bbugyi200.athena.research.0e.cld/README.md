@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bbb84c1`](https://github.com/sase-org/sase/commit/bbb84c14173b5403fb149d87e8f4072ba06bf1b3) | docs: add TUI slowdown research on artifact-index broad loads | 2026-06-25 06:40:27 EDT |
+| sase | [`bbb84c1`](https://github.com/sase-org/sase/commit/bbb84c14173b5403fb149d87e8f4072ba06bf1b3) | docs: add TUI slowdown research on artifact-index broad loads | 2026-06-25 10:40:27 UTC |
 
 ## Neighbors
 

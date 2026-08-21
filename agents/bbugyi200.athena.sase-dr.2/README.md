@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`767852a`](https://github.com/sase-org/sase/commit/767852ac977c63beae5e2e994fac7db5f15142c1) | feat(beads)!: add task promotion and size-based routing | 2026-08-01 14:30:57 EDT |
+| sase | [`767852a`](https://github.com/sase-org/sase/commit/767852ac977c63beae5e2e994fac7db5f15142c1) | feat(beads)!: add task promotion and size-based routing | 2026-08-01 18:30:57 UTC |
 
 ## Neighbors
 

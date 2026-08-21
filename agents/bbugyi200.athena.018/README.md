@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7bc665b`](https://github.com/sase-org/sase/commit/7bc665babd6c29c60159b42dc69d43daf70d66fa) | chore: Add SDD prompt and plan for init\_onboarding\_agents | 2026-06-19 10:42:52 EDT |
-| sase | [`8062e6f`](https://github.com/sase-org/sase/commit/8062e6f1c71ab74344ad2f1f56dd74a94292ff47) | feat(init): repair AGENTS.md via onboarding title fallback | 2026-06-19 11:10:49 EDT |
+| sase | [`7bc665b`](https://github.com/sase-org/sase/commit/7bc665babd6c29c60159b42dc69d43daf70d66fa) | chore: Add SDD prompt and plan for init\_onboarding\_agents | 2026-06-19 14:42:52 UTC |
+| sase | [`8062e6f`](https://github.com/sase-org/sase/commit/8062e6f1c71ab74344ad2f1f56dd74a94292ff47) | feat(init): repair AGENTS.md via onboarding title fallback | 2026-06-19 15:10:49 UTC |
 
 ## Neighbors
 

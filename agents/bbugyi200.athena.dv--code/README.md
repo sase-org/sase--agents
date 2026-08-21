@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ec9bdd0`](https://github.com/sase-org/sase/commit/ec9bdd0471ae1dfe3c4eb0d12350be962ffb909e) | fix(ace): restore agent status bucket priority | 2026-07-18 15:57:28 EDT |
+| sase | [`ec9bdd0`](https://github.com/sase-org/sase/commit/ec9bdd0471ae1dfe3c4eb0d12350be962ffb909e) | fix(ace): restore agent status bucket priority | 2026-07-18 19:57:28 UTC |
 
 ## Neighbors
 

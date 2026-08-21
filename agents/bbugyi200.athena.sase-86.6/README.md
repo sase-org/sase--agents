@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9f4b529`](https://github.com/sase-org/sase/commit/9f4b529fbb9c2ea63d461c3823ceff9d1db16034) | fix: harden suite verification under load (sase-86.6) | 2026-07-20 14:30:19 EDT |
+| sase | [`9f4b529`](https://github.com/sase-org/sase/commit/9f4b529fbb9c2ea63d461c3823ceff9d1db16034) | fix: harden suite verification under load (sase-86.6) | 2026-07-20 18:30:19 UTC |
 
 ## Neighbors
 

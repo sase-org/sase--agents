@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`72c8bed`](https://github.com/sase-org/sase/commit/72c8bed85ccc359a58f75ebc4f67e8fa75a29e39) | chore: Add SDD prompt and plan for vcs\_mru\_cycling\_anywhere | 2026-06-12 12:45:50 EDT |
-| — | sase | [`d297e00`](https://github.com/sase-org/sase/commit/d297e000d1a043028cfa08d38008f51897adf5e6) | feat(ace): cycle VCS MRU prefixes in prompt bodies | 2026-06-12 13:05:17 EDT |
-| code | sase | [`59ea6e5`](https://github.com/sase-org/sase/commit/59ea6e53ec4207741f793cd61f9547cb3ae62e2e) | feat: show alias references in Models panel | 2026-07-11 13:03:21 EDT |
+| — | sase | [`72c8bed`](https://github.com/sase-org/sase/commit/72c8bed85ccc359a58f75ebc4f67e8fa75a29e39) | chore: Add SDD prompt and plan for vcs\_mru\_cycling\_anywhere | 2026-06-12 16:45:50 UTC |
+| — | sase | [`d297e00`](https://github.com/sase-org/sase/commit/d297e000d1a043028cfa08d38008f51897adf5e6) | feat(ace): cycle VCS MRU prefixes in prompt bodies | 2026-06-12 17:05:17 UTC |
+| code | sase | [`59ea6e5`](https://github.com/sase-org/sase/commit/59ea6e53ec4207741f793cd61f9547cb3ae62e2e) | feat: show alias references in Models panel | 2026-07-11 17:03:21 UTC |

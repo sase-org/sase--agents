@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5bf430b`](https://github.com/sase-org/sase/commit/5bf430b67eb42f61e5472f689e0cba4a0d276669) | feat(agent): persist local names relative to owner (sase-8v.3) | 2026-07-23 15:56:11 EDT |
+| sase | [`5bf430b`](https://github.com/sase-org/sase/commit/5bf430b67eb42f61e5472f689e0cba4a0d276669) | feat(agent): persist local names relative to owner (sase-8v.3) | 2026-07-23 19:56:11 UTC |
 
 ## Neighbors
 

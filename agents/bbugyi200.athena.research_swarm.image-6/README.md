@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`77344c6`](https://github.com/sase-org/sase/commit/77344c6c84384478580a600e875cacc80386de84) | chore: add SASE episodes research infographic | 2026-05-29 09:47:50 EDT |
+| sase | [`77344c6`](https://github.com/sase-org/sase/commit/77344c6c84384478580a600e875cacc80386de84) | chore: add SASE episodes research infographic | 2026-05-29 13:47:50 UTC |
 
 ## Neighbors
 

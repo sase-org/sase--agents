@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4324190`](https://github.com/sase-org/sase/commit/4324190759ac374509515c78d4ef81f90a178a3a) | fix(xprompt): cap cached VCS repo completions (#213) | 2026-07-07 21:54:59 EDT |
+| sase | [`4324190`](https://github.com/sase-org/sase/commit/4324190759ac374509515c78d4ef81f90a178a3a) | fix(xprompt): cap cached VCS repo completions (#213) | 2026-07-08 01:54:59 UTC |
 
 ## Neighbors
 

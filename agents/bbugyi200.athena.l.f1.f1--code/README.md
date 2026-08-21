@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e49c4e1`](https://github.com/sase-org/sase/commit/e49c4e13698a4b703c3e2b0e56178b0a7a0b8ef6) | feat(ace): preview video artifacts with mpv | 2026-07-06 17:10:15 EDT |
+| sase | [`e49c4e1`](https://github.com/sase-org/sase/commit/e49c4e13698a4b703c3e2b0e56178b0a7a0b8ef6) | feat(ace): preview video artifacts with mpv | 2026-07-06 21:10:15 UTC |
 
 ## Neighbors
 

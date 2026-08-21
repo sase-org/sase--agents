@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0e40dec`](https://github.com/sase-org/sase/commit/0e40decdcebd063b5d136b5a8359b9a59a52bb48) | fix: tolerate forward-compatible owner manifests | 2026-08-05 13:48:22 EDT |
+| sase | [`0e40dec`](https://github.com/sase-org/sase/commit/0e40decdcebd063b5d136b5a8359b9a59a52bb48) | fix: tolerate forward-compatible owner manifests | 2026-08-05 17:48:22 UTC |

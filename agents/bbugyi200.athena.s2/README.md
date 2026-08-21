@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`186fd20`](https://github.com/sase-org/sase/commit/186fd201084fa785b3746ae133383cb2bb00286b) | fix: serialize epic approvals before store discovery | 2026-08-02 11:52:37 EDT |
+| sase | [`186fd20`](https://github.com/sase-org/sase/commit/186fd201084fa785b3746ae133383cb2bb00286b) | fix: serialize epic approvals before store discovery | 2026-08-02 15:52:37 UTC |

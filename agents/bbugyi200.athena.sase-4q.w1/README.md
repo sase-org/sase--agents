@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`61406fe`](https://github.com/sase-org/sase/commit/61406fe129ec633f75d87af01e91cd36134b689f) | chore: Add SDD prompt and plan for jinja2\_prompt\_input | 2026-06-16 12:27:46 EDT |
-| sase | [`540bbe3`](https://github.com/sase-org/sase/commit/540bbe3fd02bcb300d8f15e0234eb31b082c5ac9) | feat(ace): support Jinja prompt input | 2026-06-16 12:56:12 EDT |
+| sase | [`61406fe`](https://github.com/sase-org/sase/commit/61406fe129ec633f75d87af01e91cd36134b689f) | chore: Add SDD prompt and plan for jinja2\_prompt\_input | 2026-06-16 16:27:46 UTC |
+| sase | [`540bbe3`](https://github.com/sase-org/sase/commit/540bbe3fd02bcb300d8f15e0234eb31b082c5ac9) | feat(ace): support Jinja prompt input | 2026-06-16 16:56:12 UTC |
 
 ## Neighbors
 

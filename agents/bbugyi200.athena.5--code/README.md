@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8585d19`](https://github.com/sase-org/sase/commit/8585d194d6bd805a79dcdf08820e5df7ce48177b) | feat: move consumed plan files into archive on propose | 2026-07-06 10:59:54 EDT |
+| sase | [`8585d19`](https://github.com/sase-org/sase/commit/8585d194d6bd805a79dcdf08820e5df7ce48177b) | feat: move consumed plan files into archive on propose | 2026-07-06 14:59:54 UTC |

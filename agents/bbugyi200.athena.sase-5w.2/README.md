@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3cf8ea2`](https://github.com/sase-org/sase/commit/3cf8ea2bfb4c50022141a93af8b1f327fb1d204e) | feat(sdd)!: rename companion repositories to sidecars (sase-5w.2) | 2026-07-13 11:24:14 EDT |
+| sase | [`3cf8ea2`](https://github.com/sase-org/sase/commit/3cf8ea2bfb4c50022141a93af8b1f327fb1d204e) | feat(sdd)!: rename companion repositories to sidecars (sase-5w.2) | 2026-07-13 15:24:14 UTC |
 
 ## Neighbors
 

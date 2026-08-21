@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `sase-rr.2` sase agent failed its commit finalizer checks because some PDF and HTML file were left around I think (see #sshot for context). I'm not sure where those files came from but I'm thinking maybe a test leaves them around? Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix the issue? #plan

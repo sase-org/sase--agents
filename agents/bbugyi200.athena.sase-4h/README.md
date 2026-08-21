@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d218778`](https://github.com/sase-org/sase/commit/d218778855235a4115678f3fba9875362aa11a58) | fix(version): make verbose audit readable (sase-4h) | 2026-06-08 17:06:28 EDT |
+| sase | [`d218778`](https://github.com/sase-org/sase/commit/d218778855235a4115678f3fba9875362aa11a58) | fix(version): make verbose audit readable (sase-4h) | 2026-06-08 21:06:28 UTC |
 
 ## Neighbors
 

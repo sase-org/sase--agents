@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8fcc252`](https://github.com/sase-org/sase/commit/8fcc2520fb17e20ba0d8c17381bbde58e8145949) | feat(ace-tui): show FAMILY MEMBERS roster on family-member detail panels | 2026-08-06 14:03:29 EDT |
+| sase | [`8fcc252`](https://github.com/sase-org/sase/commit/8fcc2520fb17e20ba0d8c17381bbde58e8145949) | feat(ace-tui): show FAMILY MEMBERS roster on family-member detail panels | 2026-08-06 18:03:29 UTC |

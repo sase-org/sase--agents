@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7b53fec`](https://github.com/sase-org/sase/commit/7b53fec4b02faf76ac9cb8a285ab4f8f0ff4dc33) | fix(tui): mirror root wait status from child agents | 2026-07-06 14:25:20 EDT |
+| sase | [`7b53fec`](https://github.com/sase-org/sase/commit/7b53fec4b02faf76ac9cb8a285ab4f8f0ff4dc33) | fix(tui): mirror root wait status from child agents | 2026-07-06 18:25:20 UTC |
 
 ## Neighbors
 

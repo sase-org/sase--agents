@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ed5686f`](https://github.com/sase-org/sase/commit/ed5686f6d4d3da95aa241ffa0bb82211d98afeac) | feat(tui): add config detail scroll shortcuts | 2026-06-28 08:28:35 EDT |
+| sase | [`ed5686f`](https://github.com/sase-org/sase/commit/ed5686f6d4d3da95aa241ffa0bb82211d98afeac) | feat(tui): add config detail scroll shortcuts | 2026-06-28 12:28:35 UTC |

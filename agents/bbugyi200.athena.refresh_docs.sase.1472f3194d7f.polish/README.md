@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fe552dd`](https://github.com/sase-org/sase/commit/fe552dd5574694102729216447d1d024207d0d7a) | docs: clarify prompt stack documentation | 2026-06-17 13:05:30 EDT |
+| sase | [`fe552dd`](https://github.com/sase-org/sase/commit/fe552dd5574694102729216447d1d024207d0d7a) | docs: clarify prompt stack documentation | 2026-06-17 17:05:30 UTC |
 
 ## Neighbors
 

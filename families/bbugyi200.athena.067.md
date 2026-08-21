@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`8452535`](https://github.com/sase-org/sase/commit/8452535057142c8810648fea4ec3355dd4ece024) | feat(ace): render settled-monitor gear count on clan/family container rows | 2026-08-18 11:31:46 EDT |
+| code | sase | [`8452535`](https://github.com/sase-org/sase/commit/8452535057142c8810648fea4ec3355dd4ece024) | feat(ace): render settled-monitor gear count on clan/family container rows | 2026-08-18 15:31:46 UTC |

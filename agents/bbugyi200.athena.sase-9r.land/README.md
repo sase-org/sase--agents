@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`45edb9a`](https://github.com/sase-org/sase/commit/45edb9a268896e7fe1985504ac65dce40b1eacb9) | fix(beads): integrate epic changes with landed work (sase-9r) | 2026-07-26 09:50:24 EDT |
+| sase | [`45edb9a`](https://github.com/sase-org/sase/commit/45edb9a268896e7fe1985504ac65dce40b1eacb9) | fix(beads): integrate epic changes with landed work (sase-9r) | 2026-07-26 13:50:24 UTC |
 
 ## Neighbors
 

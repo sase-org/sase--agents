@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`996f76d`](https://github.com/sase-org/sase/commit/996f76d32da9dd7aa52e2fa23f4403a887b0025e) | fix(xprompt): restore write target export | 2026-08-08 18:19:02 EDT |
+| sase | [`996f76d`](https://github.com/sase-org/sase/commit/996f76d32da9dd7aa52e2fa23f4403a887b0025e) | fix(xprompt): restore write target export | 2026-08-08 22:19:02 UTC |

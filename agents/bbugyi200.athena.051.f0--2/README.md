@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f5565ed`](https://github.com/sase-org/sase/commit/f5565eddafb9a04be49b17c7b5dbe4182fee0bfc) | feat(cli): add root -f/--enable-feature and -F/--disable-feature options | 2026-08-17 14:39:18 EDT |
+| sase | [`f5565ed`](https://github.com/sase-org/sase/commit/f5565eddafb9a04be49b17c7b5dbe4182fee0bfc) | feat(cli): add root -f/--enable-feature and -F/--disable-feature options | 2026-08-17 18:39:18 UTC |
 
 ## Neighbors
 

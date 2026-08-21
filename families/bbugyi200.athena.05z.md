@@ -42,9 +42,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`37163d5`](https://github.com/sase-org/sase/commit/37163d50647f0f67da5831628d3bd8504b73dec1) | chore: Add SDD prompt and plan for fix\_agent\_completion\_text\_muted\_style | 2026-06-25 08:04:39 EDT |
-| — | sase | [`092d37c`](https://github.com/sase-org/sase/commit/092d37c365a80e653b5b0937fea0aa753e4ac19e) | fix(tui): use rich parseable agent status fallback | 2026-06-25 08:10:18 EDT |
-| 3 | sase | [`3df5c32`](https://github.com/sase-org/sase/commit/3df5c321b472082c699dcde83fc758d3cf708c9f) | feat(ace): render agent-family phase headers as AGENT (\<role\>) | 2026-08-18 10:01:54 EDT |
+| — | sase | [`37163d5`](https://github.com/sase-org/sase/commit/37163d50647f0f67da5831628d3bd8504b73dec1) | chore: Add SDD prompt and plan for fix\_agent\_completion\_text\_muted\_style | 2026-06-25 12:04:39 UTC |
+| — | sase | [`092d37c`](https://github.com/sase-org/sase/commit/092d37c365a80e653b5b0937fea0aa753e4ac19e) | fix(tui): use rich parseable agent status fallback | 2026-06-25 12:10:18 UTC |
+| 3 | sase | [`3df5c32`](https://github.com/sase-org/sase/commit/3df5c321b472082c699dcde83fc758d3cf708c9f) | feat(ace): render agent-family phase headers as AGENT (\<role\>) | 2026-08-18 14:01:54 UTC |
 
 ## Neighbors
 

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`87a5698`](https://github.com/sase-org/sase/commit/87a569884f80ece1aca82ee011235eeb22ae69ec) | fix: resume nested epic landing handoffs | 2026-08-15 14:12:23 EDT |
+| sase | [`87a5698`](https://github.com/sase-org/sase/commit/87a569884f80ece1aca82ee011235eeb22ae69ec) | fix: resume nested epic landing handoffs | 2026-08-15 18:12:23 UTC |

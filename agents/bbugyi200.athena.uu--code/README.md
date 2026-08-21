@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`add38d7`](https://github.com/sase-org/sase/commit/add38d73011e2bcbc08117c6d7e98cefc0f7c7d3) | fix(ace): make Logs pane source rows non-wrapping and compact | 2026-08-07 13:52:19 EDT |
+| sase | [`add38d7`](https://github.com/sase-org/sase/commit/add38d73011e2bcbc08117c6d7e98cefc0f7c7d3) | fix(ace): make Logs pane source rows non-wrapping and compact | 2026-08-07 17:52:19 UTC |

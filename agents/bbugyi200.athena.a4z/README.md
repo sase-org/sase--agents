@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6e82144`](https://github.com/sase-org/sase/commit/6e82144e4a4d3cdc6b2f75a4146a7e4fd8325947) | chore: cover sase-core sibling env precedence | 2026-06-03 01:34:26 EDT |
+| sase | [`6e82144`](https://github.com/sase-org/sase/commit/6e82144e4a4d3cdc6b2f75a4146a7e4fd8325947) | chore: cover sase-core sibling env precedence | 2026-06-03 05:34:26 UTC |

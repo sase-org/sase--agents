@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3e06256`](https://github.com/sase-org/sase/commit/3e06256aa6f65243bb424b91b8ed18ab865c5e11) | fix: preserve proposal associations from agent metadata | 2026-07-21 11:12:00 EDT |
+| sase | [`3e06256`](https://github.com/sase-org/sase/commit/3e06256aa6f65243bb424b91b8ed18ab865c5e11) | fix: preserve proposal associations from agent metadata | 2026-07-21 15:12:00 UTC |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3aedb97`](https://github.com/sase-org/sase/commit/3aedb971fe6e855490b0b23ce3a563e38a6b2186) | feat(task-types): add task-type discovery, catalog assembly, and diagnostics | 2026-08-17 22:48:31 EDT |
+| sase | [`3aedb97`](https://github.com/sase-org/sase/commit/3aedb971fe6e855490b0b23ce3a563e38a6b2186) | feat(task-types): add task-type discovery, catalog assembly, and diagnostics | 2026-08-18 02:48:31 UTC |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f4365f3`](https://github.com/sase-org/sase/commit/f4365f30968d627dd114a1e37ad8534ec5192b89) | feat: expose canonical SASE content layout (sase-6d.1) | 2026-07-16 13:05:52 EDT |
+| sase | [`f4365f3`](https://github.com/sase-org/sase/commit/f4365f30968d627dd114a1e37ad8534ec5192b89) | feat: expose canonical SASE content layout (sase-6d.1) | 2026-07-16 17:05:52 UTC |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ecb2ecc`](https://github.com/sase-org/sase/commit/ecb2ecce6e0e86cdf939ab9b4fcc811618f2c69e) | docs: refresh guides for current behavior | 2026-08-16 22:55:37 EDT |
+| sase | [`ecb2ecc`](https://github.com/sase-org/sase/commit/ecb2ecce6e0e86cdf939ab9b4fcc811618f2c69e) | docs: refresh guides for current behavior | 2026-08-17 02:55:37 UTC |
 
 ## Neighbors
 

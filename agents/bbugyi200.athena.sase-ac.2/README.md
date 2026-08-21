@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`40f2d52`](https://github.com/sase-org/sase/commit/40f2d526e6b1e0b992dbc3e80c8cee66d5750ac6) | fix(xprompt): canonicalize project catalog namespaces (sase-ac.2) | 2026-07-28 08:27:56 EDT |
+| sase | [`40f2d52`](https://github.com/sase-org/sase/commit/40f2d526e6b1e0b992dbc3e80c8cee66d5750ac6) | fix(xprompt): canonicalize project catalog namespaces (sase-ac.2) | 2026-07-28 12:27:56 UTC |
 
 ## Neighbors
 

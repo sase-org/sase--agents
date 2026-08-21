@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f0e562b`](https://github.com/sase-org/sase/commit/f0e562bda9965cf42ba6d8c9dbb152a5a4ed2fd7) | fix(tui): render panel timestamps in configured timezone | 2026-08-03 09:59:37 EDT |
+| sase | [`f0e562b`](https://github.com/sase-org/sase/commit/f0e562bda9965cf42ba6d8c9dbb152a5a4ed2fd7) | fix(tui): render panel timestamps in configured timezone | 2026-08-03 13:59:37 UTC |
 
 ## Neighbors
 

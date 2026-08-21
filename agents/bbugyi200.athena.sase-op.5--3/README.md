@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d3f77b8`](https://github.com/sase-org/sase/commit/d3f77b800772b99909f6d40e410ff776a6533b56) | feat(glossary): render per-agent glossary reads in the metadata panel | 2026-08-17 15:36:07 EDT |
+| sase | [`d3f77b8`](https://github.com/sase-org/sase/commit/d3f77b800772b99909f6d40e410ff776a6533b56) | feat(glossary): render per-agent glossary reads in the metadata panel | 2026-08-17 19:36:07 UTC |
 
 ## Neighbors
 

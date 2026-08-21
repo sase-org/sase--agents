@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7a5a40b`](https://github.com/sase-org/sase/commit/7a5a40b14a04955052275c9d3e2afd4965278dac) | test(ace): make rapid-navigation detail test drive the debouncer deterministically | 2026-08-06 12:39:03 EDT |
+| sase | [`7a5a40b`](https://github.com/sase-org/sase/commit/7a5a40b14a04955052275c9d3e2afd4965278dac) | test(ace): make rapid-navigation detail test drive the debouncer deterministically | 2026-08-06 16:39:03 UTC |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a56da1e`](https://github.com/sase-org/sase/commit/a56da1e6c340d283ae33ce6aea20639daefd8ca9) | feat(repos)!: remove the legacy list form of repos.sidecar | 2026-08-07 11:26:06 EDT |
+| sase | [`a56da1e`](https://github.com/sase-org/sase/commit/a56da1e6c340d283ae33ce6aea20639daefd8ca9) | feat(repos)!: remove the legacy list form of repos.sidecar | 2026-08-07 15:26:06 UTC |
 
 ## Neighbors
 

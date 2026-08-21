@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`996ebea`](https://github.com/sase-org/sase/commit/996ebeaa61e179d1693b5b0b991cdb8422a13fbe) | feat(ace)!: migrate prompt-local xprompt keymap | 2026-08-21 06:51:22 EDT |
+| sase | [`996ebea`](https://github.com/sase-org/sase/commit/996ebeaa61e179d1693b5b0b991cdb8422a13fbe) | feat(ace)!: migrate prompt-local xprompt keymap | 2026-08-21 10:51:22 UTC |
 
 ## Neighbors
 

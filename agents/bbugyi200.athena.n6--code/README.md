@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d4198f1`](https://github.com/sase-org/sase/commit/d4198f1cc9b1e87b361fd80b6e0f99c94c5cec27) | feat: illustrate agents sidecar lifecycle | 2026-07-28 13:17:44 EDT |
+| sase | [`d4198f1`](https://github.com/sase-org/sase/commit/d4198f1cc9b1e87b361fd80b6e0f99c94c5cec27) | feat: illustrate agents sidecar lifecycle | 2026-07-28 17:17:44 UTC |
 
 ## Neighbors
 

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`adb6337`](https://github.com/sase-org/sase/commit/adb6337fa32c126dc8fbdcad55de94d12fd5833e) | fix: handle explicit child agent cleanup | 2026-07-06 14:17:24 EDT |
+| sase | [`adb6337`](https://github.com/sase-org/sase/commit/adb6337fa32c126dc8fbdcad55de94d12fd5833e) | fix: handle explicit child agent cleanup | 2026-07-06 18:17:24 UTC |

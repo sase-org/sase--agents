@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2a40c25`](https://github.com/sase-org/sase/commit/2a40c2530ce18b4c3369d15e9cc9b0f7b53e279f) | fix(agents-sync): prevent imported history amplification (sase-9o.4) | 2026-07-26 06:31:39 EDT |
+| sase | [`2a40c25`](https://github.com/sase-org/sase/commit/2a40c2530ce18b4c3369d15e9cc9b0f7b53e279f) | fix(agents-sync): prevent imported history amplification (sase-9o.4) | 2026-07-26 10:31:39 UTC |
 
 ## Neighbors
 

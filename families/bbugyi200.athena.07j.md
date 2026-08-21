@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`ef8a638`](https://github.com/sase-org/sase/commit/ef8a638566629632170d1706f16fee4d93972dde) | chore: Add SDD prompt and plan for memory\_init\_wording | 2026-06-27 08:20:35 EDT |
-| — | sase | [`25a6b0d`](https://github.com/sase-org/sase/commit/25a6b0d3835ff50993ab1ce3e41ec96bad3f281f) | chore(memory): reword short-term memory header in managed instructions | 2026-06-27 08:25:53 EDT |
+| — | sase | [`ef8a638`](https://github.com/sase-org/sase/commit/ef8a638566629632170d1706f16fee4d93972dde) | chore: Add SDD prompt and plan for memory\_init\_wording | 2026-06-27 12:20:35 UTC |
+| — | sase | [`25a6b0d`](https://github.com/sase-org/sase/commit/25a6b0d3835ff50993ab1ce3e41ec96bad3f281f) | chore(memory): reword short-term memory header in managed instructions | 2026-06-27 12:25:53 UTC |

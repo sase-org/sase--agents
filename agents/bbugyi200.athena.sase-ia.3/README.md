@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3ec0251`](https://github.com/sase-org/sase/commit/3ec02513e7da173b4a4d095e3d415861bf89230c) | feat(memory): read glossary settings from nested config | 2026-08-09 11:05:23 EDT |
+| sase | [`3ec0251`](https://github.com/sase-org/sase/commit/3ec02513e7da173b4a4d095e3d415861bf89230c) | feat(memory): read glossary settings from nested config | 2026-08-09 15:05:23 UTC |
 
 ## Neighbors
 

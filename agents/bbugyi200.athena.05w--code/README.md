@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`69ec946`](https://github.com/sase-org/sase/commit/69ec9463e520a096066db088a5f31c2a8ed91bb1) | feat(llm\_provider): add optional weights to load-balanced model alias pools | 2026-08-18 08:28:46 EDT |
+| sase | [`69ec946`](https://github.com/sase-org/sase/commit/69ec9463e520a096066db088a5f31c2a8ed91bb1) | feat(llm\_provider): add optional weights to load-balanced model alias pools | 2026-08-18 12:28:46 UTC |

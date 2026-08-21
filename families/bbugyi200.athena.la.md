@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f429d11`](https://github.com/sase-org/sase/commit/f429d118c2433f99522be4e6a7138aa071f5ea6e) | fix: refresh bead stores for active waiters | 2026-07-26 08:35:24 EDT |
+| code | sase | [`f429d11`](https://github.com/sase-org/sase/commit/f429d118c2433f99522be4e6a7138aa071f5ea6e) | fix: refresh bead stores for active waiters | 2026-07-26 12:35:24 UTC |

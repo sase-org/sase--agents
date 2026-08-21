@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c58324d`](https://github.com/sase-org/sase/commit/c58324d551049351648e0cfe2ba83c26e0e9418a) | fix(axe): recover wedged lifecycle locks (sase-80.3) | 2026-07-20 10:10:38 EDT |
+| sase | [`c58324d`](https://github.com/sase-org/sase/commit/c58324d551049351648e0cfe2ba83c26e0e9418a) | fix(axe): recover wedged lifecycle locks (sase-80.3) | 2026-07-20 14:10:38 UTC |
 
 ## Neighbors
 

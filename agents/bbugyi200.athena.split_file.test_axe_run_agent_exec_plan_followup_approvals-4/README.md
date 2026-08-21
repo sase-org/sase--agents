@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`afd4b68`](https://github.com/sase-org/sase/commit/afd4b680bb848dd104bfd5d09e7659ad547f6275) | test: split plan follow-up approval tests | 2026-07-16 03:08:46 EDT |
+| sase | [`afd4b68`](https://github.com/sase-org/sase/commit/afd4b680bb848dd104bfd5d09e7659ad547f6275) | test: split plan follow-up approval tests | 2026-07-16 07:08:46 UTC |
 
 ## Neighbors
 

@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`35834a9`](https://github.com/sase-org/sase/commit/35834a91a9b827bc9a7a9baa7560bbc67591aed6) | chore: Add SDD prompt and plan for swap\_agents\_a\_keymaps | 2026-06-26 17:19:40 EDT |
-| sase | [`e8e17de`](https://github.com/sase-org/sase/commit/e8e17de24eea0942876645325d1c989d681f3cc7) | feat(tui)!: swap Agents-tab \`a\`/\`A\` keymap defaults | 2026-06-26 17:54:14 EDT |
+| sase | [`35834a9`](https://github.com/sase-org/sase/commit/35834a91a9b827bc9a7a9baa7560bbc67591aed6) | chore: Add SDD prompt and plan for swap\_agents\_a\_keymaps | 2026-06-26 21:19:40 UTC |
+| sase | [`e8e17de`](https://github.com/sase-org/sase/commit/e8e17de24eea0942876645325d1c989d681f3cc7) | feat(tui)!: swap Agents-tab \`a\`/\`A\` keymap defaults | 2026-06-26 21:54:14 UTC |

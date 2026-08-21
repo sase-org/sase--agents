@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| plan | sase | [`89511fb`](https://github.com/sase-org/sase/commit/89511fb744a9c992e6b1da4c7a2f0136f7ede19a) | refactor(stats): split performance view builder | 2026-08-16 03:04:53 EDT |
+| plan | sase | [`89511fb`](https://github.com/sase-org/sase/commit/89511fb744a9c992e6b1da4c7a2f0136f7ede19a) | refactor(stats): split performance view builder | 2026-08-16 07:04:53 UTC |
 
 ## Neighbors
 

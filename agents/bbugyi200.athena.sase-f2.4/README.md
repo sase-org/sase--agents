@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1a2040e`](https://github.com/sase-org/sase/commit/1a2040e73d351ec7c1c280bdc4c4d16dbda10f7e) | feat(xprompt)!: stop writing launch-time provenance JSON | 2026-08-03 16:21:16 EDT |
+| sase | [`1a2040e`](https://github.com/sase-org/sase/commit/1a2040e73d351ec7c1c280bdc4c4d16dbda10f7e) | feat(xprompt)!: stop writing launch-time provenance JSON | 2026-08-03 20:21:16 UTC |
 
 ## Neighbors
 

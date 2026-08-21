@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8b367b9`](https://github.com/sase-org/sase/commit/8b367b99b776d8966ddabe41117728a392fcec20) | refactor(agent-names): split identity migration actions | 2026-08-03 13:37:26 EDT |
+| sase | [`8b367b9`](https://github.com/sase-org/sase/commit/8b367b99b776d8966ddabe41117728a392fcec20) | refactor(agent-names): split identity migration actions | 2026-08-03 17:37:26 UTC |
 
 ## Neighbors
 

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e16df4e`](https://github.com/sase-org/sase/commit/e16df4ecd6abee53cb5469adfc382bf2f99b6438) | docs: clarify completion and finalizer behavior | 2026-06-19 19:19:25 EDT |
+| sase | [`e16df4e`](https://github.com/sase-org/sase/commit/e16df4ecd6abee53cb5469adfc382bf2f99b6438) | docs: clarify completion and finalizer behavior | 2026-06-19 23:19:25 UTC |
 
 ## Neighbors
 

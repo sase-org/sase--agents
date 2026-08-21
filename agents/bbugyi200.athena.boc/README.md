@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1db54d8`](https://github.com/sase-org/sase/commit/1db54d88fe576db6fc1d597b35247fd46ff69413) | chore: Add SDD prompt and plan for notification\_bracket\_footer | 2026-05-29 08:52:50 EDT |
-| sase | [`8be66cd`](https://github.com/sase-org/sase/commit/8be66cd6d1fecd9b17055a5890dce7bf0dd58592) | feat: advertise tag tab shortcuts in notification footer | 2026-05-29 08:57:54 EDT |
+| sase | [`1db54d8`](https://github.com/sase-org/sase/commit/1db54d88fe576db6fc1d597b35247fd46ff69413) | chore: Add SDD prompt and plan for notification\_bracket\_footer | 2026-05-29 12:52:50 UTC |
+| sase | [`8be66cd`](https://github.com/sase-org/sase/commit/8be66cd6d1fecd9b17055a5890dce7bf0dd58592) | feat: advertise tag tab shortcuts in notification footer | 2026-05-29 12:57:54 UTC |

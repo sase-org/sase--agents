@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`29fdfed`](https://github.com/sase-org/sase/commit/29fdfedfa5f0cc94108f8714811a958cba9e673e) | feat(ace): unify fold hints across Agents views (sase-6z.5) | 2026-07-19 00:54:58 EDT |
+| sase | [`29fdfed`](https://github.com/sase-org/sase/commit/29fdfedfa5f0cc94108f8714811a958cba9e673e) | feat(ace): unify fold hints across Agents views (sase-6z.5) | 2026-07-19 04:54:58 UTC |
 
 ## Neighbors
 

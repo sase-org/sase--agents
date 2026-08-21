@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`7ca08ae`](https://github.com/sase-org/sase/commit/7ca08ae0ef47d67051f3965d20e35e9b935d87d0) | fix(bead): render a bead's Notes section only when it has notes | 2026-08-07 10:25:17 EDT |
+| code | sase | [`7ca08ae`](https://github.com/sase-org/sase/commit/7ca08ae0ef47d67051f3965d20e35e9b935d87d0) | fix(bead): render a bead's Notes section only when it has notes | 2026-08-07 14:25:17 UTC |
 
 ## Neighbors
 

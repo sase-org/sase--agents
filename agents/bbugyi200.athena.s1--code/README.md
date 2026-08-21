@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f393b91`](https://github.com/sase-org/sase/commit/f393b9151dc2f8151f0901628c3c47f1015d1bbd) | fix(ace-tui): restore tasks-tab selection for durable-store rows | 2026-08-02 11:00:41 EDT |
+| sase | [`f393b91`](https://github.com/sase-org/sase/commit/f393b9151dc2f8151f0901628c3c47f1015d1bbd) | fix(ace-tui): restore tasks-tab selection for durable-store rows | 2026-08-02 15:00:41 UTC |

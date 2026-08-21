@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aaa8245`](https://github.com/sase-org/sase/commit/aaa8245df375ee96f68bbeef62c0e1d60c3e2735) | fix(notification-gates): guard streaming stdin close against broken pipe | 2026-08-07 17:34:38 EDT |
+| sase | [`aaa8245`](https://github.com/sase-org/sase/commit/aaa8245df375ee96f68bbeef62c0e1d60c3e2735) | fix(notification-gates): guard streaming stdin close against broken pipe | 2026-08-07 21:34:38 UTC |

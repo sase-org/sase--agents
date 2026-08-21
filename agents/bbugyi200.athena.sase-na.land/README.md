@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b5b7f76`](https://github.com/sase-org/sase/commit/b5b7f761b2f20e22e831abdc8a0baf450adf2a5e) | refactor(history): land the word-ranking epic's leftovers | 2026-08-16 16:48:23 EDT |
+| sase | [`b5b7f76`](https://github.com/sase-org/sase/commit/b5b7f761b2f20e22e831abdc8a0baf450adf2a5e) | refactor(history): land the word-ranking epic's leftovers | 2026-08-16 20:48:23 UTC |
 
 ## Neighbors
 

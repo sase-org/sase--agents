@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`674dd7c`](https://github.com/sase-org/sase/commit/674dd7c68f42f3234c22053495f9e5464bf34963) | feat(ace): fork agent clans and tribes | 2026-07-19 12:15:44 EDT |
+| — | sase | [`674dd7c`](https://github.com/sase-org/sase/commit/674dd7c68f42f3234c22053495f9e5464bf34963) | feat(ace): fork agent clans and tribes | 2026-07-19 16:15:44 UTC |
 
 ## Neighbors
 

@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b908a03`](https://github.com/sase-org/sase/commit/b908a03facfd9a6a42dd60bb925cce1ae4521419) | chore: Add SDD prompt and plan for nonblocking\_tui\_agent\_launch\_tasks | 2026-06-09 19:40:25 EDT |
-| sase | [`eb5db8a`](https://github.com/sase-org/sase/commit/eb5db8a27e969aab3c3b6ed07cde6887812bd28d) | feat: track TUI agent launches in task queue | 2026-06-09 20:02:07 EDT |
+| sase | [`b908a03`](https://github.com/sase-org/sase/commit/b908a03facfd9a6a42dd60bb925cce1ae4521419) | chore: Add SDD prompt and plan for nonblocking\_tui\_agent\_launch\_tasks | 2026-06-09 23:40:25 UTC |
+| sase | [`eb5db8a`](https://github.com/sase-org/sase/commit/eb5db8a27e969aab3c3b6ed07cde6887812bd28d) | feat: track TUI agent launches in task queue | 2026-06-10 00:02:07 UTC |
 
 ## Neighbors
 

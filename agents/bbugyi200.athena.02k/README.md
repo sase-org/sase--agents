@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`64a5b89`](https://github.com/sase-org/sase/commit/64a5b897f83f01a0e2a7ca747c593f630aa31dc0) | chore: Add SDD prompt and plan for memory\_init\_important\_warning | 2026-06-20 15:15:36 EDT |
-| sase | [`01f3c3b`](https://github.com/sase-org/sase/commit/01f3c3b55f3f92a52a4c6083a80f7617779ed1da) | feat(init\_memory): generate /sase\_plan warning in project memory | 2026-06-20 15:20:52 EDT |
+| sase | [`64a5b89`](https://github.com/sase-org/sase/commit/64a5b897f83f01a0e2a7ca747c593f630aa31dc0) | chore: Add SDD prompt and plan for memory\_init\_important\_warning | 2026-06-20 19:15:36 UTC |
+| sase | [`01f3c3b`](https://github.com/sase-org/sase/commit/01f3c3b55f3f92a52a4c6083a80f7617779ed1da) | feat(init\_memory): generate /sase\_plan warning in project memory | 2026-06-20 19:20:52 UTC |
 
 ## Neighbors
 

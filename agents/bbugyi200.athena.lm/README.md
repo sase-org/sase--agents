@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7ba445a`](https://github.com/sase-org/sase/commit/7ba445a4514e0562bd2535c7d8482c1fc7b34cf6) | fix(beads): publish runner claim transitions synchronously | 2026-07-26 10:52:27 EDT |
+| sase | [`7ba445a`](https://github.com/sase-org/sase/commit/7ba445a4514e0562bd2535c7d8482c1fc7b34cf6) | fix(beads): publish runner claim transitions synchronously | 2026-07-26 14:52:27 UTC |
 
 ## Neighbors
 

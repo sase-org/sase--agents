@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e83a2a2`](https://github.com/sase-org/sase/commit/e83a2a204ffd7993d492571acf63320392c73078) | chore: Add SDD prompt and plan for prompt\_history\_ctrl\_k\_load\_more | 2026-06-25 11:04:57 EDT |
-| sase | [`095f4d6`](https://github.com/sase-org/sase/commit/095f4d656a0392f8c7a084803cb9df964f486ef2) | feat(tui): rebind prompt-history load-more to Ctrl+K | 2026-06-25 11:13:31 EDT |
+| sase | [`e83a2a2`](https://github.com/sase-org/sase/commit/e83a2a204ffd7993d492571acf63320392c73078) | chore: Add SDD prompt and plan for prompt\_history\_ctrl\_k\_load\_more | 2026-06-25 15:04:57 UTC |
+| sase | [`095f4d6`](https://github.com/sase-org/sase/commit/095f4d656a0392f8c7a084803cb9df964f486ef2) | feat(tui): rebind prompt-history load-more to Ctrl+K | 2026-06-25 15:13:31 UTC |

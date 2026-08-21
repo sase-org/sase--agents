@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`7ca857a`](https://github.com/sase-org/sase/commit/7ca857a9a79d0b5e922eef4e55e91678cfa462f5) | feat(ace)!: always render a gate detail card and rename the HITL tab to Gates | 2026-08-07 10:12:33 EDT |
+| — | sase | [`7ca857a`](https://github.com/sase-org/sase/commit/7ca857a9a79d0b5e922eef4e55e91678cfa462f5) | feat(ace)!: always render a gate detail card and rename the HITL tab to Gates | 2026-08-07 14:12:33 UTC |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`48d8897`](https://github.com/sase-org/sase/commit/48d8897c30b6dab8c102b09e87de6ddcbd40322a) | fix(ace-tui): reveal family monitor rows via the family fold, not the starter's | 2026-08-17 10:35:10 EDT |
+| sase | [`48d8897`](https://github.com/sase-org/sase/commit/48d8897c30b6dab8c102b09e87de6ddcbd40322a) | fix(ace-tui): reveal family monitor rows via the family fold, not the starter's | 2026-08-17 14:35:10 UTC |
 
 ## Neighbors
 

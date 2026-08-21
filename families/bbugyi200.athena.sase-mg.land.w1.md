@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`8e06aef`](https://github.com/sase-org/sase/commit/8e06aef3f4a88b38174374faf8b60c47e263e7cf) | feat(cli)!: fold sase var show into sase var get | 2026-08-15 19:55:13 EDT |
+| 1 | sase | [`8e06aef`](https://github.com/sase-org/sase/commit/8e06aef3f4a88b38174374faf8b60c47e263e7cf) | feat(cli)!: fold sase var show into sase var get | 2026-08-15 23:55:13 UTC |
 
 ## Neighbors
 

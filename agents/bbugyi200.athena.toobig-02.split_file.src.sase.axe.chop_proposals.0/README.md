@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d074031`](https://github.com/sase-org/sase/commit/d07403171c857784c4ea33226659b322190a475f) | refactor(axe): split chop proposal handling | 2026-07-26 07:12:06 EDT |
+| sase | [`d074031`](https://github.com/sase-org/sase/commit/d07403171c857784c4ea33226659b322190a475f) | refactor(axe): split chop proposal handling | 2026-07-26 11:12:06 UTC |
 
 ## Neighbors
 

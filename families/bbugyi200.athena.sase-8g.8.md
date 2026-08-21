@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`0b9ef92`](https://github.com/sase-org/sase/commit/0b9ef92f46c33eb09c1e98fccdba1c4f78d204bf) | fix: harden fork parent resolution (sase-8g.8) | 2026-07-20 17:12:27 EDT |
+| — | sase | [`0b9ef92`](https://github.com/sase-org/sase/commit/0b9ef92f46c33eb09c1e98fccdba1c4f78d204bf) | fix: harden fork parent resolution (sase-8g.8) | 2026-07-20 21:12:27 UTC |
 
 ## Neighbors
 

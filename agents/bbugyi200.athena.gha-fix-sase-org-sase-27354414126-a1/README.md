@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6e3ab60`](https://github.com/sase-org/sase/commit/6e3ab607ddd4fd5b824a144034f366da80215465) | chore: keep sdist under PyPI's 100 MB file limit (#166) | 2026-06-11 12:31:18 EDT |
+| sase | [`6e3ab60`](https://github.com/sase-org/sase/commit/6e3ab607ddd4fd5b824a144034f366da80215465) | chore: keep sdist under PyPI's 100 MB file limit (#166) | 2026-06-11 16:31:18 UTC |

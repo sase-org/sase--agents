@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e9941fd`](https://github.com/sase-org/sase/commit/e9941fd9c2898aaf823303e925b49d31bc29829e) | docs: document durable procs terminology | 2026-08-13 22:53:09 EDT |
+| sase | [`e9941fd`](https://github.com/sase-org/sase/commit/e9941fd9c2898aaf823303e925b49d31bc29829e) | docs: document durable procs terminology | 2026-08-14 02:53:09 UTC |
 
 ## Neighbors
 

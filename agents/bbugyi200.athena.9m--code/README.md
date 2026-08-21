@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cb9deb0`](https://github.com/sase-org/sase/commit/cb9deb06929189178ba2953c13364360f7111991) | fix: guard remote SDD creation and plan routing | 2026-07-15 14:57:15 EDT |
+| sase | [`cb9deb0`](https://github.com/sase-org/sase/commit/cb9deb06929189178ba2953c13364360f7111991) | fix: guard remote SDD creation and plan routing | 2026-07-15 18:57:15 UTC |

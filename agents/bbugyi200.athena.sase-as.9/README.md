@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`880c9c8`](https://github.com/sase-org/sase/commit/880c9c891757ac2c1e3a29e6fc98f3ef2b056c31) | feat(ace): browse all document sidecars | 2026-07-29 11:47:26 EDT |
+| sase | [`880c9c8`](https://github.com/sase-org/sase/commit/880c9c891757ac2c1e3a29e6fc98f3ef2b056c31) | feat(ace): browse all document sidecars | 2026-07-29 15:47:26 UTC |
 
 ## Neighbors
 

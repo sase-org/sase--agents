@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3394455`](https://github.com/sase-org/sase/commit/3394455f9a22d955be7702e799a63eb38a50d421) | docs: document epic plan handoff workflow | 2026-07-15 12:23:31 EDT |
+| sase | [`3394455`](https://github.com/sase-org/sase/commit/3394455f9a22d955be7702e799a63eb38a50d421) | docs: document epic plan handoff workflow | 2026-07-15 16:23:31 UTC |
 
 ## Neighbors
 

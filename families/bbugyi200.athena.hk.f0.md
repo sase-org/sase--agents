@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`fe8c2e0`](https://github.com/sase-org/sase/commit/fe8c2e0277e5cd77cce6d591f135407924c0385b) | fix(ace): navigate to all agent house parents | 2026-07-22 07:03:11 EDT |
+| code | sase | [`fe8c2e0`](https://github.com/sase-org/sase/commit/fe8c2e0277e5cd77cce6d591f135407924c0385b) | fix(ace): navigate to all agent house parents | 2026-07-22 11:03:11 UTC |
 
 ## Neighbors
 

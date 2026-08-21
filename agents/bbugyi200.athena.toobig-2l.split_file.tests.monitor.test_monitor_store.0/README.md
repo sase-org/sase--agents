@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`abfcc07`](https://github.com/sase-org/sase/commit/abfcc0714041da12cd9f0482a92997818d4c0f59) | test: split monitor store tests by behavior | 2026-08-13 17:32:51 EDT |
+| sase | [`abfcc07`](https://github.com/sase-org/sase/commit/abfcc0714041da12cd9f0482a92997818d4c0f59) | test: split monitor store tests by behavior | 2026-08-13 21:32:51 UTC |
 
 ## Neighbors
 

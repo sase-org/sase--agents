@@ -24,9 +24,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`5dd91fd`](https://github.com/sase-org/sase/commit/5dd91fdd43ca920ac5a70974d20ca0bbe7a71c02) | chore: Add SDD prompt and plan for prompt\_vim\_keymaps | 2026-06-12 12:48:58 EDT |
-| — | sase | [`9415989`](https://github.com/sase-org/sase/commit/9415989d08385937336e53a32840db4057c1d905) | chore: create prompt vim keymaps epic beads | 2026-06-12 12:58:01 EDT |
-| code | sase | [`8af1d23`](https://github.com/sase-org/sase/commit/8af1d23841e8e9e6f3d9a85e4f2fdf228050e7f3) | feat: simplify custom revival search | 2026-07-11 13:14:09 EDT |
+| — | sase | [`5dd91fd`](https://github.com/sase-org/sase/commit/5dd91fdd43ca920ac5a70974d20ca0bbe7a71c02) | chore: Add SDD prompt and plan for prompt\_vim\_keymaps | 2026-06-12 16:48:58 UTC |
+| — | sase | [`9415989`](https://github.com/sase-org/sase/commit/9415989d08385937336e53a32840db4057c1d905) | chore: create prompt vim keymaps epic beads | 2026-06-12 16:58:01 UTC |
+| code | sase | [`8af1d23`](https://github.com/sase-org/sase/commit/8af1d23841e8e9e6f3d9a85e4f2fdf228050e7f3) | feat: simplify custom revival search | 2026-07-11 17:14:09 UTC |
 
 ## Neighbors
 

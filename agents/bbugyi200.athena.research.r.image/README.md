@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d77054c`](https://github.com/sase-org/sase/commit/d77054cbd9bceda595014e05160441b02fe7c415) | docs: add HN timing infographic | 2026-06-19 11:43:42 EDT |
+| sase | [`d77054c`](https://github.com/sase-org/sase/commit/d77054cbd9bceda595014e05160441b02fe7c415) | docs: add HN timing infographic | 2026-06-19 15:43:42 UTC |
 
 ## Neighbors
 

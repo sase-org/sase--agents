@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7a8f113`](https://github.com/sase-org/sase/commit/7a8f1138f311ba3be9e09fc67f4da6f6eba52b70) | fix(tui): publicize Models-panel provider-routing helpers | 2026-08-15 22:21:14 EDT |
+| sase | [`7a8f113`](https://github.com/sase-org/sase/commit/7a8f1138f311ba3be9e09fc67f4da6f6eba52b70) | fix(tui): publicize Models-panel provider-routing helpers | 2026-08-16 02:21:14 UTC |

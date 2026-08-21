@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`28de141`](https://github.com/sase-org/sase/commit/28de14134256f4c508ee2854f9b9ec00ce9e3c38) | chore: verify and clarify docs from the Fable 5 / handoff refresh | 2026-06-10 09:43:49 EDT |
+| sase | [`28de141`](https://github.com/sase-org/sase/commit/28de14134256f4c508ee2854f9b9ec00ce9e3c38) | chore: verify and clarify docs from the Fable 5 / handoff refresh | 2026-06-10 13:43:49 UTC |
 
 ## Neighbors
 

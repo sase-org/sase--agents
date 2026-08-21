@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b681d1b`](https://github.com/sase-org/sase/commit/b681d1bc3dda0bdab25d8866da718267d1e4942a) | fix(beads): refuse append-only event-stream shrinks at commit and push | 2026-08-15 21:28:32 EDT |
+| sase | [`b681d1b`](https://github.com/sase-org/sase/commit/b681d1bc3dda0bdab25d8866da718267d1e4942a) | fix(beads): refuse append-only event-stream shrinks at commit and push | 2026-08-16 01:28:32 UTC |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4895b8f`](https://github.com/sase-org/sase/commit/4895b8f32f64878321f3c4965f39b6d00c340eaa) | fix(axe): survive mid-run editable source swaps in agent runners | 2026-08-05 18:56:45 EDT |
+| sase | [`4895b8f`](https://github.com/sase-org/sase/commit/4895b8f32f64878321f3c4965f39b6d00c340eaa) | fix(axe): survive mid-run editable source swaps in agent runners | 2026-08-05 22:56:45 UTC |
 
 ## Neighbors
 

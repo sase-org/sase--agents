@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b9ac35d`](https://github.com/sase-org/sase/commit/b9ac35d9e2e36a1f148670213b089295b69b297b) | feat(llm-provider): add model advisories and a data-sharing guard | 2026-08-07 22:04:04 EDT |
+| sase | [`b9ac35d`](https://github.com/sase-org/sase/commit/b9ac35d9e2e36a1f148670213b089295b69b297b) | feat(llm-provider): add model advisories and a data-sharing guard | 2026-08-08 02:04:04 UTC |
 
 ## Neighbors
 

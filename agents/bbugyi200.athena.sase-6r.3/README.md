@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ddeaac2`](https://github.com/sase-org/sase/commit/ddeaac297dc79ba69f9bf5d3db3503c29b269f18) | test: add bead read and fetch-gating regressions (sase-6r.3) | 2026-07-18 08:01:55 EDT |
+| sase | [`ddeaac2`](https://github.com/sase-org/sase/commit/ddeaac297dc79ba69f9bf5d3db3503c29b269f18) | test: add bead read and fetch-gating regressions (sase-6r.3) | 2026-07-18 12:01:55 UTC |
 
 ## Neighbors
 

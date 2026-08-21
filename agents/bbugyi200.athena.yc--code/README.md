@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`35b469d`](https://github.com/sase-org/sase/commit/35b469d8161a6f60699169dcf6dfc9c57e50034b) | feat(ace): show xprompt properties band and full view in preview reader | 2026-08-12 08:50:12 EDT |
+| sase | [`35b469d`](https://github.com/sase-org/sase/commit/35b469d8161a6f60699169dcf6dfc9c57e50034b) | feat(ace): show xprompt properties band and full view in preview reader | 2026-08-12 12:50:12 UTC |

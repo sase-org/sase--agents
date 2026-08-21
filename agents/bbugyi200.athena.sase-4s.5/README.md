@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a6bb438`](https://github.com/sase-org/sase/commit/a6bb43850d7f8b1fb755310d6449099a9adcbd42) | docs: update prompt g-prefix help references (sase-4s.5) | 2026-06-17 15:45:42 EDT |
+| sase | [`a6bb438`](https://github.com/sase-org/sase/commit/a6bb43850d7f8b1fb755310d6449099a9adcbd42) | docs: update prompt g-prefix help references (sase-4s.5) | 2026-06-17 19:45:42 UTC |
 
 ## Neighbors
 

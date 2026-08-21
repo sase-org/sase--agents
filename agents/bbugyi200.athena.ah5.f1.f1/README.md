@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7088e25`](https://github.com/sase-org/sase/commit/7088e252b64a8129ca44effe3e5b054b5a4d205e) | chore: add alternate episodes guidance infographic | 2026-05-26 19:42:22 EDT |
+| sase | [`7088e25`](https://github.com/sase-org/sase/commit/7088e252b64a8129ca44effe3e5b054b5a4d205e) | chore: add alternate episodes guidance infographic | 2026-05-26 23:42:22 UTC |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e37315a`](https://github.com/sase-org/sase/commit/e37315ac81ae14809117fd940b44e9fe7907ee02) | feat(xprompt): support clan summary directives (sase-7r.2) | 2026-07-19 19:30:51 EDT |
+| sase | [`e37315a`](https://github.com/sase-org/sase/commit/e37315ac81ae14809117fd940b44e9fe7907ee02) | feat(xprompt): support clan summary directives (sase-7r.2) | 2026-07-19 23:30:51 UTC |
 
 ## Neighbors
 

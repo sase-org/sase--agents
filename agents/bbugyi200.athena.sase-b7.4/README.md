@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`94daa1e`](https://github.com/sase-org/sase/commit/94daa1ebdcff2d3adf11c24599d04807f8a5a03a) | feat(artifacts): wire VCS-backed default capture | 2026-07-30 10:20:33 EDT |
+| sase | [`94daa1e`](https://github.com/sase-org/sase/commit/94daa1ebdcff2d3adf11c24599d04807f8a5a03a) | feat(artifacts): wire VCS-backed default capture | 2026-07-30 14:20:33 UTC |
 
 ## Neighbors
 

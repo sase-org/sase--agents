@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a57260e`](https://github.com/sase-org/sase/commit/a57260e497045529d0e6a096016fc24db24fcdd0) | chore: Add SDD prompt and plan for models\_panel\_state\_column\_alignment | 2026-07-01 08:00:41 EDT |
-| sase | [`d297933`](https://github.com/sase-org/sase/commit/d2979336e22b6c692fa91e266c32b3a4d7fc8ee5) | fix(tui): align Models panel state column | 2026-07-01 08:13:54 EDT |
+| sase | [`a57260e`](https://github.com/sase-org/sase/commit/a57260e497045529d0e6a096016fc24db24fcdd0) | chore: Add SDD prompt and plan for models\_panel\_state\_column\_alignment | 2026-07-01 12:00:41 UTC |
+| sase | [`d297933`](https://github.com/sase-org/sase/commit/d2979336e22b6c692fa91e266c32b3a4d7fc8ee5) | fix(tui): align Models panel state column | 2026-07-01 12:13:54 UTC |
 
 ## Neighbors
 

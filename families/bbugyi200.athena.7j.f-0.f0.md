@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`8b804aa`](https://github.com/sase-org/sase/commit/8b804aa544b9ab63461645b32b4c04fd13183150) | test: distinguish workflow wrappers from leaf agents | 2026-07-13 09:09:21 EDT |
+| code | sase | [`8b804aa`](https://github.com/sase-org/sase/commit/8b804aa544b9ab63461645b32b4c04fd13183150) | test: distinguish workflow wrappers from leaf agents | 2026-07-13 13:09:21 UTC |
 
 ## Neighbors
 

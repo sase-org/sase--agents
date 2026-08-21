@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3deac7d`](https://github.com/sase-org/sase/commit/3deac7d22675315a5adbebe28fd6a2fc4c549241) | feat(bead)!: require explicit descendant close sweeps (sase-a1.4) | 2026-07-27 13:44:38 EDT |
+| sase | [`3deac7d`](https://github.com/sase-org/sase/commit/3deac7d22675315a5adbebe28fd6a2fc4c549241) | feat(bead)!: require explicit descendant close sweeps (sase-a1.4) | 2026-07-27 17:44:38 UTC |
 
 ## Neighbors
 

@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ca8f5de`](https://github.com/sase-org/sase/commit/ca8f5def1b9202af025d112baf29d25498e9a683) | feat: add plan approval CLI path | 2026-06-13 11:24:21 EDT |
+| sase | [`ca8f5de`](https://github.com/sase-org/sase/commit/ca8f5def1b9202af025d112baf29d25498e9a683) | feat: add plan approval CLI path | 2026-06-13 15:24:21 UTC |
 
 ## Neighbors
 

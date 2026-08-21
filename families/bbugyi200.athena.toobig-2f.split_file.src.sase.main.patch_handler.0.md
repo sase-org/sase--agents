@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`334ff99`](https://github.com/sase-org/sase/commit/334ff99b17faf2a17ebbd9660c3805a022897c53) | refactor: split patch command handlers | 2026-08-11 12:17:36 EDT |
+| code | sase | [`334ff99`](https://github.com/sase-org/sase/commit/334ff99b17faf2a17ebbd9660c3805a022897c53) | refactor: split patch command handlers | 2026-08-11 16:17:36 UTC |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d105287`](https://github.com/sase-org/sase/commit/d1052879babb499661ae4fd9873974cbcb44e5c2) | feat(sdd): add provider SDD materialization plumbing (sase-5j.2) | 2026-07-08 00:17:34 EDT |
+| sase | [`d105287`](https://github.com/sase-org/sase/commit/d1052879babb499661ae4fd9873974cbcb44e5c2) | feat(sdd): add provider SDD materialization plumbing (sase-5j.2) | 2026-07-08 04:17:34 UTC |
 
 ## Neighbors
 

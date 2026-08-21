@@ -23,8 +23,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6999e31`](https://github.com/sase-org/sase/commit/6999e31a3dd9b90e117ae36efe30a4a113fccdb9) | feat(artifacts): add opt-in retention policy | 2026-07-30 13:12:09 EDT |
-| sase | [`1a4e838`](https://github.com/sase-org/sase/commit/1a4e838df607139e5402596398ea666b77280389) | test(artifacts): align retention fixtures with protection ids | 2026-07-30 13:30:16 EDT |
+| sase | [`6999e31`](https://github.com/sase-org/sase/commit/6999e31a3dd9b90e117ae36efe30a4a113fccdb9) | feat(artifacts): add opt-in retention policy | 2026-07-30 17:12:09 UTC |
+| sase | [`1a4e838`](https://github.com/sase-org/sase/commit/1a4e838df607139e5402596398ea666b77280389) | test(artifacts): align retention fixtures with protection ids | 2026-07-30 17:30:16 UTC |
 
 ## Neighbors
 

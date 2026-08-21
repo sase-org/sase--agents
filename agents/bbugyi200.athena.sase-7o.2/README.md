@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3f41c7c`](https://github.com/sase-org/sase/commit/3f41c7c81a9ae5da291717e3f16994775b6a86ba) | feat!: fold tribe assignment into id kwargs (sase-7o.2) | 2026-07-19 17:31:42 EDT |
+| sase | [`3f41c7c`](https://github.com/sase-org/sase/commit/3f41c7c81a9ae5da291717e3f16994775b6a86ba) | feat!: fold tribe assignment into id kwargs (sase-7o.2) | 2026-07-19 21:31:42 UTC |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0f19ffc`](https://github.com/sase-org/sase/commit/0f19ffc66a0c3143d7010047767b64d7d49a0bf3) | refactor(agents-sync): extract commit publication transaction | 2026-08-03 11:44:35 EDT |
+| sase | [`0f19ffc`](https://github.com/sase-org/sase/commit/0f19ffc66a0c3143d7010047767b64d7d49a0bf3) | refactor(agents-sync): extract commit publication transaction | 2026-08-03 15:44:35 UTC |
 
 ## Neighbors
 

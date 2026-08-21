@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7c52152`](https://github.com/sase-org/sase/commit/7c52152832fbb4033f89d8d4cf0a690afbe1fbd1) | test(completion): sync cli\_spec.json snapshot with finalizer subcommands | 2026-08-20 19:53:57 EDT |
+| sase | [`7c52152`](https://github.com/sase-org/sase/commit/7c52152832fbb4033f89d8d4cf0a690afbe1fbd1) | test(completion): sync cli\_spec.json snapshot with finalizer subcommands | 2026-08-20 23:53:57 UTC |
 
 ## Neighbors
 

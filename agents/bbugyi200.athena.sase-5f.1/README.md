@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9caeb0d`](https://github.com/sase-org/sase/commit/9caeb0d37921f403d0a9eb3e5a95f2136ba27e94) | fix(ace): normalize family child rows (sase-5f.1) | 2026-07-05 22:15:15 EDT |
+| sase | [`9caeb0d`](https://github.com/sase-org/sase/commit/9caeb0d37921f403d0a9eb3e5a95f2136ba27e94) | fix(ace): normalize family child rows (sase-5f.1) | 2026-07-06 02:15:15 UTC |
 
 ## Neighbors
 

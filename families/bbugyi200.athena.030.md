@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`5d42565`](https://github.com/sase-org/sase/commit/5d4256583da308c61d27fbc72417c48d49ffd4ed) | chore: Add SDD prompt and plan for reverted\_agent\_indicator | 2026-06-21 09:49:44 EDT |
-| — | sase | [`c949acf`](https://github.com/sase-org/sase/commit/c949acf56bbc8d225c5020c6538f2cf53042707c) | feat(tui): indicate reverted agents | 2026-06-21 09:59:03 EDT |
-| code | sase | [`85c09a8`](https://github.com/sase-org/sase/commit/85c09a886472fae743be8733622b784a4263d2d5) | feat(llm): route Gemini Flash Medium via @xsmall and Flash High via @small | 2026-08-15 20:12:58 EDT |
+| — | sase | [`5d42565`](https://github.com/sase-org/sase/commit/5d4256583da308c61d27fbc72417c48d49ffd4ed) | chore: Add SDD prompt and plan for reverted\_agent\_indicator | 2026-06-21 13:49:44 UTC |
+| — | sase | [`c949acf`](https://github.com/sase-org/sase/commit/c949acf56bbc8d225c5020c6538f2cf53042707c) | feat(tui): indicate reverted agents | 2026-06-21 13:59:03 UTC |
+| code | sase | [`85c09a8`](https://github.com/sase-org/sase/commit/85c09a886472fae743be8733622b784a4263d2d5) | feat(llm): route Gemini Flash Medium via @xsmall and Flash High via @small | 2026-08-16 00:12:58 UTC |

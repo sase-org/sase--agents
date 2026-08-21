@@ -24,8 +24,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`84f289d`](https://github.com/sase-org/sase/commit/84f289dd3a1308294c2a21c9088d13f46800714a) | chore: Add SDD prompt and plan for project\_aliases | 2026-06-04 10:31:57 EDT |
-| — | sase | [`1a95ca1`](https://github.com/sase-org/sase/commit/1a95ca19252098a693e563d203a6f9b31327556b) | chore: create project aliases epic beads | 2026-06-04 10:37:13 EDT |
+| — | sase | [`84f289d`](https://github.com/sase-org/sase/commit/84f289dd3a1308294c2a21c9088d13f46800714a) | chore: Add SDD prompt and plan for project\_aliases | 2026-06-04 14:31:57 UTC |
+| — | sase | [`1a95ca1`](https://github.com/sase-org/sase/commit/1a95ca19252098a693e563d203a6f9b31327556b) | chore: create project aliases epic beads | 2026-06-04 14:37:13 UTC |
 
 ## Neighbors
 

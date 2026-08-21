@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`89f202f`](https://github.com/sase-org/sase/commit/89f202feaeb6ba6b2536a8276fcb5086bc8d36f1) | docs: add curl installer research infographic | 2026-06-25 18:56:05 EDT |
+| sase | [`89f202f`](https://github.com/sase-org/sase/commit/89f202feaeb6ba6b2536a8276fcb5086bc8d36f1) | docs: add curl installer research infographic | 2026-06-25 22:56:05 UTC |
 
 ## Neighbors
 

@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`50b0298`](https://github.com/sase-org/sase/commit/50b0298daf1ebe4d8305c6de8646abc120cb22aa) | chore: Add SDD prompt and plan for edit\_directive\_multi\_agent\_xprompt | 2026-06-17 07:30:50 EDT |
-| sase | [`203cbec`](https://github.com/sase-org/sase/commit/203cbec04dafa34c95279579243ca457d95f0bd2) | feat(tui): route \`%edit\` returns through xprompt markdown semantics | 2026-06-17 07:48:21 EDT |
+| sase | [`50b0298`](https://github.com/sase-org/sase/commit/50b0298daf1ebe4d8305c6de8646abc120cb22aa) | chore: Add SDD prompt and plan for edit\_directive\_multi\_agent\_xprompt | 2026-06-17 11:30:50 UTC |
+| sase | [`203cbec`](https://github.com/sase-org/sase/commit/203cbec04dafa34c95279579243ca457d95f0bd2) | feat(tui): route \`%edit\` returns through xprompt markdown semantics | 2026-06-17 11:48:21 UTC |
 
 ## Neighbors
 

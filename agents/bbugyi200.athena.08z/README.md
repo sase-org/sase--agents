@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2e7e186`](https://github.com/sase-org/sase/commit/2e7e1862da6aefe5af8c93613c40940d03a5edab) | chore: Add SDD prompt and plan for feedback\_agent\_status | 2026-06-28 10:13:59 EDT |
-| sase | [`d03d22f`](https://github.com/sase-org/sase/commit/d03d22fd26118c8e74a0b907ff94d819f16a8c9d) | fix: mark superseded planner rounds as feedback | 2026-06-28 10:28:22 EDT |
+| sase | [`2e7e186`](https://github.com/sase-org/sase/commit/2e7e1862da6aefe5af8c93613c40940d03a5edab) | chore: Add SDD prompt and plan for feedback\_agent\_status | 2026-06-28 14:13:59 UTC |
+| sase | [`d03d22f`](https://github.com/sase-org/sase/commit/d03d22fd26118c8e74a0b907ff94d819f16a8c9d) | fix: mark superseded planner rounds as feedback | 2026-06-28 14:28:22 UTC |

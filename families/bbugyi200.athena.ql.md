@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`143666b`](https://github.com/sase-org/sase/commit/143666ba5caee2ee1d9c66c7161f51bbf9e16fe0) | feat(tui): show notification send time in detail pane | 2026-07-31 13:45:31 EDT |
+| code | sase | [`143666b`](https://github.com/sase-org/sase/commit/143666ba5caee2ee1d9c66c7161f51bbf9e16fe0) | feat(tui): show notification send time in detail pane | 2026-07-31 17:45:31 UTC |

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2e11fea`](https://github.com/sase-org/sase/commit/2e11fea04fe4c4631824571670135925c2a639e0) | docs: consolidate agent revert research | 2026-06-14 10:32:46 EDT |
+| sase | [`2e11fea`](https://github.com/sase-org/sase/commit/2e11fea04fe4c4631824571670135925c2a639e0) | docs: consolidate agent revert research | 2026-06-14 14:32:46 UTC |
 
 ## Neighbors
 

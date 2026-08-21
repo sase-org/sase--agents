@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`02cf238`](https://github.com/sase-org/sase/commit/02cf2385270e088cfdc36908a0e6497c4d223414) | test(visual): split ACE prompt PNG snapshot helpers into focused modules | 2026-08-18 07:35:05 EDT |
+| 1 | sase | [`02cf238`](https://github.com/sase-org/sase/commit/02cf2385270e088cfdc36908a0e6497c4d223414) | test(visual): split ACE prompt PNG snapshot helpers into focused modules | 2026-08-18 11:35:05 UTC |
 
 ## Neighbors
 

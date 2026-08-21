@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b7711c4`](https://github.com/sase-org/sase/commit/b7711c4a4230677c98089c1a5f9a4514c9ff9ef2) | chore: Add SDD prompt and plan for update\_availability\_ux | 2026-06-29 06:54:12 EDT |
-| sase | [`6f9e54f`](https://github.com/sase-org/sase/commit/6f9e54fe6d1a6123a67a3ad553e56315d376625a) | feat(tui): show persistent updates indicator | 2026-06-29 07:12:33 EDT |
+| sase | [`b7711c4`](https://github.com/sase-org/sase/commit/b7711c4a4230677c98089c1a5f9a4514c9ff9ef2) | chore: Add SDD prompt and plan for update\_availability\_ux | 2026-06-29 10:54:12 UTC |
+| sase | [`6f9e54f`](https://github.com/sase-org/sase/commit/6f9e54fe6d1a6123a67a3ad553e56315d376625a) | feat(tui): show persistent updates indicator | 2026-06-29 11:12:33 UTC |

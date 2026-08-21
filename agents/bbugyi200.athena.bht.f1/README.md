@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`974f9d0`](https://github.com/sase-org/sase/commit/974f9d0d452a52787f8e3e1cf86455c20f8767af) | chore: Add SDD prompt and plan for commit\_finalizer\_cross\_workspace | 2026-05-26 19:11:09 EDT |
-| sase | [`b16698a`](https://github.com/sase-org/sase/commit/b16698a5c1048f81b726767572ae64e04814ad44) | feat: detect dirty observed workspaces in commit finalizer | 2026-05-26 19:26:20 EDT |
+| sase | [`974f9d0`](https://github.com/sase-org/sase/commit/974f9d0d452a52787f8e3e1cf86455c20f8767af) | chore: Add SDD prompt and plan for commit\_finalizer\_cross\_workspace | 2026-05-26 23:11:09 UTC |
+| sase | [`b16698a`](https://github.com/sase-org/sase/commit/b16698a5c1048f81b726767572ae64e04814ad44) | feat: detect dirty observed workspaces in commit finalizer | 2026-05-26 23:26:20 UTC |

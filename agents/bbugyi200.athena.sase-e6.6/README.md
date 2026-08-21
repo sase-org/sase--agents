@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e3ca2c1`](https://github.com/sase-org/sase/commit/e3ca2c11c53040a67e50010e683f270efc1c624a) | feat: expose stored prompt renderings | 2026-08-02 14:43:36 EDT |
+| sase | [`e3ca2c1`](https://github.com/sase-org/sase/commit/e3ca2c11c53040a67e50010e683f270efc1c624a) | feat: expose stored prompt renderings | 2026-08-02 18:43:36 UTC |
 
 ## Neighbors
 

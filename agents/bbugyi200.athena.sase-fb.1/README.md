@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`99eedf7`](https://github.com/sase-org/sase/commit/99eedf74912088e92a3e8b3cbf0786bf83b85633) | fix(bead): verify bead-store mutations are published before reporting success | 2026-08-05 17:17:36 EDT |
+| sase | [`99eedf7`](https://github.com/sase-org/sase/commit/99eedf74912088e92a3e8b3cbf0786bf83b85633) | fix(bead): verify bead-store mutations are published before reporting success | 2026-08-05 21:17:36 UTC |
 
 ## Neighbors
 

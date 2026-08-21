@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2de4ca6`](https://github.com/sase-org/sase/commit/2de4ca650e4f769d3806e40a42dca5a859d909f9) | chore: update docs for Fable 5 metadata and handoff provider fixes | 2026-06-10 09:29:30 EDT |
+| sase | [`2de4ca6`](https://github.com/sase-org/sase/commit/2de4ca650e4f769d3806e40a42dca5a859d909f9) | chore: update docs for Fable 5 metadata and handoff provider fixes | 2026-06-10 13:29:30 UTC |
 
 ## Neighbors
 

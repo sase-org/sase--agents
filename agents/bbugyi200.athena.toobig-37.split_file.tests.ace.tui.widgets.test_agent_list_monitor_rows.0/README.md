@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d7e6417`](https://github.com/sase-org/sase/commit/d7e64172e5116a189f062b8e53d97b3379144467) | test: split agent-list monitor-row tests under 500-line files | 2026-08-20 01:04:47 EDT |
+| sase | [`d7e6417`](https://github.com/sase-org/sase/commit/d7e64172e5116a189f062b8e53d97b3379144467) | test: split agent-list monitor-row tests under 500-line files | 2026-08-20 05:04:47 UTC |
 
 ## Neighbors
 

@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`884efc5`](https://github.com/sase-org/sase/commit/884efc51082fd904517f3ffe64063d79c91b385e) | chore: Add SDD prompt and plan for tui\_xprompt\_snippet\_auto\_reload | 2026-06-28 15:38:57 EDT |
-| sase | [`1a51990`](https://github.com/sase-org/sase/commit/1a51990c80bd18998a26bf2bf3cc47a5a786887b) | feat(tui): auto-reload xprompt completion catalog | 2026-06-28 16:23:17 EDT |
+| sase | [`884efc5`](https://github.com/sase-org/sase/commit/884efc51082fd904517f3ffe64063d79c91b385e) | chore: Add SDD prompt and plan for tui\_xprompt\_snippet\_auto\_reload | 2026-06-28 19:38:57 UTC |
+| sase | [`1a51990`](https://github.com/sase-org/sase/commit/1a51990c80bd18998a26bf2bf3cc47a5a786887b) | feat(tui): auto-reload xprompt completion catalog | 2026-06-28 20:23:17 UTC |

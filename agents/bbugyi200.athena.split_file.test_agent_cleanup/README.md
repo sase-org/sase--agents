@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`766b99d`](https://github.com/sase-org/sase/commit/766b99df28de0f15da100a4d9ae0f874d9f17928) | test: split agent cleanup facade tests | 2026-07-06 15:18:49 EDT |
+| sase | [`766b99d`](https://github.com/sase-org/sase/commit/766b99df28de0f15da100a4d9ae0f874d9f17928) | test: split agent cleanup facade tests | 2026-07-06 19:18:49 UTC |
 
 ## Neighbors
 

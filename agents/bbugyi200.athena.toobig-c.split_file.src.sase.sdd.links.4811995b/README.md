@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5ce288d`](https://github.com/sase-org/sase/commit/5ce288da5d81575e374763e4d5d6f8b9a970f2ab) | refactor(sdd): split link helpers by responsibility | 2026-07-21 13:52:32 EDT |
+| sase | [`5ce288d`](https://github.com/sase-org/sase/commit/5ce288da5d81575e374763e4d5d6f8b9a970f2ab) | refactor(sdd): split link helpers by responsibility | 2026-07-21 17:52:32 UTC |
 
 ## Neighbors
 

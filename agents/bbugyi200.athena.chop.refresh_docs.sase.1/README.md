@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`da61f9a`](https://github.com/sase-org/sase/commit/da61f9ad4922602e57537e71289e6c83396fee6b) | docs: refresh agent grouping and ACE guides (sase-6v.9) | 2026-07-18 22:14:09 EDT |
+| sase | [`da61f9a`](https://github.com/sase-org/sase/commit/da61f9ad4922602e57537e71289e6c83396fee6b) | docs: refresh agent grouping and ACE guides (sase-6v.9) | 2026-07-19 02:14:09 UTC |
 
 ## Neighbors
 

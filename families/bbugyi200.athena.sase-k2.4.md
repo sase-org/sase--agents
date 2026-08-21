@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`67d8463`](https://github.com/sase-org/sase/commit/67d84632794e9e3f1c7f1ae6fd8d1c0cc486907b) | feat(beads): sync mirrored issue status | 2026-08-12 14:39:44 EDT |
+| — | sase | [`67d8463`](https://github.com/sase-org/sase/commit/67d84632794e9e3f1c7f1ae6fd8d1c0cc486907b) | feat(beads): sync mirrored issue status | 2026-08-12 18:39:44 UTC |
 
 ## Neighbors
 

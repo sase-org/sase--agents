@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3b81003`](https://github.com/sase-org/sase/commit/3b810036f1a5b864f0e2641d8ede4d847cd01855) | feat(var): add selector language and get command | 2026-08-15 18:07:32 EDT |
+| sase | [`3b81003`](https://github.com/sase-org/sase/commit/3b810036f1a5b864f0e2641d8ede4d847cd01855) | feat(var): add selector language and get command | 2026-08-15 22:07:32 UTC |
 
 ## Neighbors
 

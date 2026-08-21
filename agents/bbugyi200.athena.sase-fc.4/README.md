@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`256da28`](https://github.com/sase-org/sase/commit/256da2887127cbe390cfd55d9ac5387b830ec25c) | feat(tui): show bead creation time in context lane | 2026-08-05 18:21:43 EDT |
+| sase | [`256da28`](https://github.com/sase-org/sase/commit/256da2887127cbe390cfd55d9ac5387b830ec25c) | feat(tui): show bead creation time in context lane | 2026-08-05 22:21:43 UTC |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f7e1fe2`](https://github.com/sase-org/sase/commit/f7e1fe2161e24e208869b1e8c64879ee3495ac94) | feat(beads): rewrite historical bead references | 2026-08-03 08:54:38 EDT |
+| sase | [`f7e1fe2`](https://github.com/sase-org/sase/commit/f7e1fe2161e24e208869b1e8c64879ee3495ac94) | feat(beads): rewrite historical bead references | 2026-08-03 12:54:38 UTC |
 
 ## Neighbors
 

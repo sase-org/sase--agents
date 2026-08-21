@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f150ed7`](https://github.com/sase-org/sase/commit/f150ed7eda9f4a57f2fdaa3167dea19ded20708a) | docs: correct docs-refresh claims that did not match current behavior | 2026-08-07 16:22:40 EDT |
+| sase | [`f150ed7`](https://github.com/sase-org/sase/commit/f150ed7eda9f4a57f2fdaa3167dea19ded20708a) | docs: correct docs-refresh claims that did not match current behavior | 2026-08-07 20:22:40 UTC |
 
 ## Neighbors
 

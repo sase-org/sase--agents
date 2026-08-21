@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ddb2a92`](https://github.com/sase-org/sase/commit/ddb2a928e60c00bcda60143b660dab6580312836) | ref: split episode component planning module | 2026-05-31 16:08:03 EDT |
+| sase | [`ddb2a92`](https://github.com/sase-org/sase/commit/ddb2a928e60c00bcda60143b660dab6580312836) | ref: split episode component planning module | 2026-05-31 20:08:03 UTC |
 
 ## Neighbors
 

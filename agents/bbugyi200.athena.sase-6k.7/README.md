@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`87d7a88`](https://github.com/sase-org/sase/commit/87d7a88e8f80c4b2b46e4effb70f845916769500) | test: cover telemetry auto-refresh responsiveness (sase-6k.7) | 2026-07-17 15:23:19 EDT |
+| sase | [`87d7a88`](https://github.com/sase-org/sase/commit/87d7a88e8f80c4b2b46e4effb70f845916769500) | test: cover telemetry auto-refresh responsiveness (sase-6k.7) | 2026-07-17 19:23:19 UTC |
 
 ## Neighbors
 

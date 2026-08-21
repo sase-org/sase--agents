@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`687a46a`](https://github.com/sase-org/sase/commit/687a46a113fdeb6fc55330f84ea6b3df2fec366e) | chore: Add SDD prompt and plan for inline\_short\_term\_memory | 2026-06-26 15:48:43 EDT |
-| — | sase | [`1a04500`](https://github.com/sase-org/sase/commit/1a04500e473b5bf83e13778558ed69a300297bbb) | chore: create inline memory epic beads | 2026-06-26 15:54:47 EDT |
+| — | sase | [`687a46a`](https://github.com/sase-org/sase/commit/687a46a113fdeb6fc55330f84ea6b3df2fec366e) | chore: Add SDD prompt and plan for inline\_short\_term\_memory | 2026-06-26 19:48:43 UTC |
+| — | sase | [`1a04500`](https://github.com/sase-org/sase/commit/1a04500e473b5bf83e13778558ed69a300297bbb) | chore: create inline memory epic beads | 2026-06-26 19:54:47 UTC |

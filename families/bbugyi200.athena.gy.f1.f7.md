@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`31e9697`](https://github.com/sase-org/sase/commit/31e9697ac65d69917929f8348810857ee8e2cdb2) | feat(llm): add ordered model alias fallbacks | 2026-07-21 11:17:45 EDT |
+| code | sase | [`31e9697`](https://github.com/sase-org/sase/commit/31e9697ac65d69917929f8348810857ee8e2cdb2) | feat(llm): add ordered model alias fallbacks | 2026-07-21 15:17:45 UTC |
 
 ## Neighbors
 

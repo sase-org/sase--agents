@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| plan | sase | [`29bbfe2`](https://github.com/sase-org/sase/commit/29bbfe2eeb94019d75ca29c5b86b3f3ffbebb3f2) | refactor(tui): split file completion base helpers | 2026-08-20 18:05:06 EDT |
+| plan | sase | [`29bbfe2`](https://github.com/sase-org/sase/commit/29bbfe2eeb94019d75ca29c5b86b3f3ffbebb3f2) | refactor(tui): split file completion base helpers | 2026-08-20 22:05:06 UTC |
 
 ## Neighbors
 

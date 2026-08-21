@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`8865cf5`](https://github.com/sase-org/sase/commit/8865cf54da8a014299f8771a2d92335b80b6c33b) | test(bead): pin the snooze note contract across CLI, gate, and lifecycle | 2026-08-07 11:08:15 EDT |
+| code | sase | [`8865cf5`](https://github.com/sase-org/sase/commit/8865cf54da8a014299f8771a2d92335b80b6c33b) | test(bead): pin the snooze note contract across CLI, gate, and lifecycle | 2026-08-07 15:08:15 UTC |
 
 ## Neighbors
 

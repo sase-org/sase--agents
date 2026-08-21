@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5a58c36`](https://github.com/sase-org/sase/commit/5a58c36b456bcaca6247946cb222f583e772e46c) | chore: Add SDD prompt and plan for minimal\_diff\_model\_alias\_edits | 2026-07-01 08:24:11 EDT |
-| sase | [`0844ec9`](https://github.com/sase-org/sase/commit/0844ec91505e99124319455d0cda0de7da8c1b5c) | fix(config): preserve YAML source around scalar edits | 2026-07-01 08:38:42 EDT |
+| sase | [`5a58c36`](https://github.com/sase-org/sase/commit/5a58c36b456bcaca6247946cb222f583e772e46c) | chore: Add SDD prompt and plan for minimal\_diff\_model\_alias\_edits | 2026-07-01 12:24:11 UTC |
+| sase | [`0844ec9`](https://github.com/sase-org/sase/commit/0844ec91505e99124319455d0cda0de7da8c1b5c) | fix(config): preserve YAML source around scalar edits | 2026-07-01 12:38:42 UTC |
 
 ## Neighbors
 

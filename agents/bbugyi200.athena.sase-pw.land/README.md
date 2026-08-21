@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8437cfd`](https://github.com/sase-org/sase/commit/8437cfd9c300679304bf2bb3ffcd6e9ad6045c52) | fix(project): restore sase project CLI after accent-map privatization | 2026-08-18 17:05:55 EDT |
+| sase | [`8437cfd`](https://github.com/sase-org/sase/commit/8437cfd9c300679304bf2bb3ffcd6e9ad6045c52) | fix(project): restore sase project CLI after accent-map privatization | 2026-08-18 21:05:55 UTC |
 
 ## Neighbors
 

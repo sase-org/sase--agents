@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b00c8a5`](https://github.com/sase-org/sase/commit/b00c8a5f2672a0ff11550af31e0c532b60809767) | fix: repair workspace 0/directory pairing in followup and family-attach launches | 2026-08-14 12:21:39 EDT |
+| sase | [`b00c8a5`](https://github.com/sase-org/sase/commit/b00c8a5f2672a0ff11550af31e0c532b60809767) | fix: repair workspace 0/directory pairing in followup and family-attach launches | 2026-08-14 16:21:39 UTC |
 
 ## Neighbors
 

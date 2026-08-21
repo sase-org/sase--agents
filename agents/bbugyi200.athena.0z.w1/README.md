@@ -21,8 +21,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9a767bb`](https://github.com/sase-org/sase/commit/9a767bbc2e9975344d42d4eea37aaa5965e2cfbc) | chore: Add SDD prompt and plan for slow\_tool\_call\_failure\_reports | 2026-07-07 17:06:02 EDT |
-| sase | [`7696aa0`](https://github.com/sase-org/sase/commit/7696aa00e157a706d02ba8956126049892b3b5a8) | feat(tui): add failed tool call report hints | 2026-07-07 17:24:01 EDT |
+| sase | [`9a767bb`](https://github.com/sase-org/sase/commit/9a767bbc2e9975344d42d4eea37aaa5965e2cfbc) | chore: Add SDD prompt and plan for slow\_tool\_call\_failure\_reports | 2026-07-07 21:06:02 UTC |
+| sase | [`7696aa0`](https://github.com/sase-org/sase/commit/7696aa00e157a706d02ba8956126049892b3b5a8) | feat(tui): add failed tool call report hints | 2026-07-07 21:24:01 UTC |
 
 ## Neighbors
 

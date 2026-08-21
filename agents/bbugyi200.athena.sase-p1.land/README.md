@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aef824c`](https://github.com/sase-org/sase/commit/aef824c5c7154b63b50ac20da46bbe6bb5bad66b) | test(ace): re-record the g-prefix hint PNG golden (sase-p1) | 2026-08-18 00:48:08 EDT |
+| sase | [`aef824c`](https://github.com/sase-org/sase/commit/aef824c5c7154b63b50ac20da46bbe6bb5bad66b) | test(ace): re-record the g-prefix hint PNG golden (sase-p1) | 2026-08-18 04:48:08 UTC |
 
 ## Neighbors
 

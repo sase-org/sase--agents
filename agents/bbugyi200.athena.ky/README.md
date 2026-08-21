@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`14bf5f1`](https://github.com/sase-org/sase/commit/14bf5f15c169579fe947609236c23f7d77ccb6f4) | feat(llm-provider)!: retire epic\_creator model alias | 2026-07-25 14:21:45 EDT |
+| sase | [`14bf5f1`](https://github.com/sase-org/sase/commit/14bf5f15c169579fe947609236c23f7d77ccb6f4) | feat(llm-provider)!: retire epic\_creator model alias | 2026-07-25 18:21:45 UTC |

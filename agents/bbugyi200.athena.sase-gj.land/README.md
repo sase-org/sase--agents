@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9e4e4ff`](https://github.com/sase-org/sase/commit/9e4e4ff54aff6ac9d37393625b4053e2bda6dbc8) | docs(justfile): correct the scoped lane's suite-gate lease claim | 2026-08-06 19:04:19 EDT |
+| sase | [`9e4e4ff`](https://github.com/sase-org/sase/commit/9e4e4ff54aff6ac9d37393625b4053e2bda6dbc8) | docs(justfile): correct the scoped lane's suite-gate lease claim | 2026-08-06 23:04:19 UTC |
 
 ## Neighbors
 

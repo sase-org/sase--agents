@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9568dd4`](https://github.com/sase-org/sase/commit/9568dd4750686f58888bf9a5f3da31ecdd76a761) | fix: preserve anonymous workflow attribution after rename | 2026-08-16 16:29:47 EDT |
+| sase | [`9568dd4`](https://github.com/sase-org/sase/commit/9568dd4750686f58888bf9a5f3da31ecdd76a761) | fix: preserve anonymous workflow attribution after rename | 2026-08-16 20:29:47 UTC |

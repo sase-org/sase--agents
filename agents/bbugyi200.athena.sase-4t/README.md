@@ -18,8 +18,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6ddc256`](https://github.com/sase-org/sase/commit/6ddc2566469a8c00e85433b962b3afdef2dc7a10) | chore: Add SDD prompt and plan for complete\_sase\_4t (sase-4t) | 2026-06-17 16:30:23 EDT |
-| sase | [`98b2dc1`](https://github.com/sase-org/sase/commit/98b2dc1640d41f7b806c828af07b276bd2f45cb2) | fix(tui): preserve launch failure log hints (sase-4t) | 2026-06-17 16:39:19 EDT |
+| sase | [`6ddc256`](https://github.com/sase-org/sase/commit/6ddc2566469a8c00e85433b962b3afdef2dc7a10) | chore: Add SDD prompt and plan for complete\_sase\_4t (sase-4t) | 2026-06-17 20:30:23 UTC |
+| sase | [`98b2dc1`](https://github.com/sase-org/sase/commit/98b2dc1640d41f7b806c828af07b276bd2f45cb2) | fix(tui): preserve launch failure log hints (sase-4t) | 2026-06-17 20:39:19 UTC |
 
 ## Neighbors
 

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0ca4631`](https://github.com/sase-org/sase/commit/0ca46315320afd5a3441a382670a3df18641e91c) | test: split agent render cache tests | 2026-06-19 11:42:25 EDT |
+| sase | [`0ca4631`](https://github.com/sase-org/sase/commit/0ca46315320afd5a3441a382670a3df18641e91c) | test: split agent render cache tests | 2026-06-19 15:42:25 UTC |
 
 ## Neighbors
 

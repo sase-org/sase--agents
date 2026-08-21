@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`73a75f9`](https://github.com/sase-org/sase/commit/73a75f94d4370b0ba582bccfa025f45839f4976f) | feat(beads): materialize split sidecar on demand (sase-a8.7) | 2026-07-27 17:31:14 EDT |
+| sase | [`73a75f9`](https://github.com/sase-org/sase/commit/73a75f94d4370b0ba582bccfa025f45839f4976f) | feat(beads): materialize split sidecar on demand (sase-a8.7) | 2026-07-27 21:31:14 UTC |
 
 ## Neighbors
 

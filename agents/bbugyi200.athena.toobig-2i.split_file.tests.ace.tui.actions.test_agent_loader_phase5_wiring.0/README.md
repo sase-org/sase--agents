@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bb60a0b`](https://github.com/sase-org/sase/commit/bb60a0bd13bcb89da95a69bf38df41dc991d1a84) | test: split phase 5 agent loader wiring tests | 2026-08-12 17:47:21 EDT |
+| sase | [`bb60a0b`](https://github.com/sase-org/sase/commit/bb60a0bd13bcb89da95a69bf38df41dc991d1a84) | test: split phase 5 agent loader wiring tests | 2026-08-12 21:47:21 UTC |
 
 ## Neighbors
 

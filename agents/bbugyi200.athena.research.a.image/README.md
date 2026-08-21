@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`20958b6`](https://github.com/sase-org/sase/commit/20958b6c7a74c0327b1bdaf971e11adc0ca3b235) | chore: add Mac screenshot sharing infographic | 2026-06-12 09:33:33 EDT |
+| sase | [`20958b6`](https://github.com/sase-org/sase/commit/20958b6c7a74c0327b1bdaf971e11adc0ca3b235) | chore: add Mac screenshot sharing infographic | 2026-06-12 13:33:33 UTC |
 
 ## Neighbors
 

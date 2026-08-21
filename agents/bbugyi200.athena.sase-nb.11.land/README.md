@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ec2cc19`](https://github.com/sase-org/sase/commit/ec2cc1912cd2fe1b14ab687dadade137b9a34f18) | refactor(flags): retire the sase-nb epic-symbol whitelist | 2026-08-16 22:36:25 EDT |
+| sase | [`ec2cc19`](https://github.com/sase-org/sase/commit/ec2cc1912cd2fe1b14ab687dadade137b9a34f18) | refactor(flags): retire the sase-nb epic-symbol whitelist | 2026-08-17 02:36:25 UTC |
 
 ## Neighbors
 

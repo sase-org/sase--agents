@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a0dda01`](https://github.com/sase-org/sase/commit/a0dda01e5d3639aefe9b3309206d14c04d35fb55) | chore: Add SASE blog launch infographic | 2026-06-03 03:36:39 EDT |
+| sase | [`a0dda01`](https://github.com/sase-org/sase/commit/a0dda01e5d3639aefe9b3309206d14c04d35fb55) | chore: Add SASE blog launch infographic | 2026-06-03 07:36:39 UTC |
 
 ## Neighbors
 

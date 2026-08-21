@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2aff0a0`](https://github.com/sase-org/sase/commit/2aff0a03e6b7d4c6e0a5579993867da30cc327aa) | feat: adopt monitor handoffs in agent runner | 2026-08-12 19:44:17 EDT |
+| sase | [`2aff0a0`](https://github.com/sase-org/sase/commit/2aff0a03e6b7d4c6e0a5579993867da30cc327aa) | feat: adopt monitor handoffs in agent runner | 2026-08-12 23:44:17 UTC |
 
 ## Neighbors
 

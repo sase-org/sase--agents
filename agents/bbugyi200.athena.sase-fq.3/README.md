@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`260ea5a`](https://github.com/sase-org/sase/commit/260ea5a0d99d536fcb38d30ea51270c5b775bfa7) | fix(tests): give the git-sync sidecar clone a committer identity | 2026-08-05 21:19:11 EDT |
+| sase | [`260ea5a`](https://github.com/sase-org/sase/commit/260ea5a0d99d536fcb38d30ea51270c5b775bfa7) | fix(tests): give the git-sync sidecar clone a committer identity | 2026-08-06 01:19:11 UTC |
 
 ## Neighbors
 

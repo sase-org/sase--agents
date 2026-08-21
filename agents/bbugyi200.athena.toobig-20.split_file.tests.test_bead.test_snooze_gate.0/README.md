@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c0e27a7`](https://github.com/sase-org/sase/commit/c0e27a7a8afa056b829213f53c3c789a46c2ed04) | test(bead): split the snooze gate suite into per-concern modules | 2026-08-08 00:23:43 EDT |
+| sase | [`c0e27a7`](https://github.com/sase-org/sase/commit/c0e27a7a8afa056b829213f53c3c789a46c2ed04) | test(bead): split the snooze gate suite into per-concern modules | 2026-08-08 04:23:43 UTC |

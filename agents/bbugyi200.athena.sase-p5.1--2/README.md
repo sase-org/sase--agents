@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`22e5444`](https://github.com/sase-org/sase/commit/22e5444bf29cdb1b964831c02678155911463689) | fix(commit): restamp dropped SASE footer tags on resumed commits | 2026-08-17 19:47:33 EDT |
+| sase | [`22e5444`](https://github.com/sase-org/sase/commit/22e5444bf29cdb1b964831c02678155911463689) | fix(commit): restamp dropped SASE footer tags on resumed commits | 2026-08-17 23:47:33 UTC |
 
 ## Neighbors
 

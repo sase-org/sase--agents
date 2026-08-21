@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`20b4b66`](https://github.com/sase-org/sase/commit/20b4b66f1f231b34caf8f75c7ed4100948c8f65d) | test: split stashed prompts modal tests | 2026-07-20 17:25:11 EDT |
+| sase | [`20b4b66`](https://github.com/sase-org/sase/commit/20b4b66f1f231b34caf8f75c7ed4100948c8f65d) | test: split stashed prompts modal tests | 2026-07-20 21:25:11 UTC |
 
 ## Neighbors
 

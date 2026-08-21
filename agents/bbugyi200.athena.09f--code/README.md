@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`88bd661`](https://github.com/sase-org/sase/commit/88bd66184e456d494e9ed8e6e7ed632ad37c85d6) | feat(tui): render soft-disabled alias members as amber glyphs | 2026-08-21 10:10:38 EDT |
+| sase | [`88bd661`](https://github.com/sase-org/sase/commit/88bd66184e456d494e9ed8e6e7ed632ad37c85d6) | feat(tui): render soft-disabled alias members as amber glyphs | 2026-08-21 14:10:38 UTC |

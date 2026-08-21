@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`921ca80`](https://github.com/sase-org/sase/commit/921ca80f7200b5e8b8fd80c35d7d427f04b741a3) | test: remove ambient-environment dependencies from two test (3.14) failures (sase-a0.4) | 2026-07-27 13:04:43 EDT |
+| sase | [`921ca80`](https://github.com/sase-org/sase/commit/921ca80f7200b5e8b8fd80c35d7d427f04b741a3) | test: remove ambient-environment dependencies from two test (3.14) failures (sase-a0.4) | 2026-07-27 17:04:43 UTC |
 
 ## Neighbors
 

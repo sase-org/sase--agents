@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`02dcea6`](https://github.com/sase-org/sase/commit/02dcea68b016131e31f6d79bde7d9511a51385c2) | docs: describe restored inline sidecar publication | 2026-08-05 17:59:47 EDT |
+| sase | [`02dcea6`](https://github.com/sase-org/sase/commit/02dcea68b016131e31f6d79bde7d9511a51385c2) | docs: describe restored inline sidecar publication | 2026-08-05 21:59:47 UTC |
 
 ## Neighbors
 

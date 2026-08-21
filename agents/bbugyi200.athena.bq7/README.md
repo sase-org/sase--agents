@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a08259b`](https://github.com/sase-org/sase/commit/a08259bac59814825caa22e1f8941bcc1fb16361) | chore: Add SDD prompt and plan for project\_delete\_keymap | 2026-06-01 16:05:45 EDT |
-| sase | [`2c1d4e3`](https://github.com/sase-org/sase/commit/2c1d4e335c8a746111fe89881c37b3dfa131a974) | feat: add project deletion from management modal | 2026-06-01 16:16:47 EDT |
+| sase | [`a08259b`](https://github.com/sase-org/sase/commit/a08259bac59814825caa22e1f8941bcc1fb16361) | chore: Add SDD prompt and plan for project\_delete\_keymap | 2026-06-01 20:05:45 UTC |
+| sase | [`2c1d4e3`](https://github.com/sase-org/sase/commit/2c1d4e335c8a746111fe89881c37b3dfa131a974) | feat: add project deletion from management modal | 2026-06-01 20:16:47 UTC |

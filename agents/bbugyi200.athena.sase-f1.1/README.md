@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5c76b3d`](https://github.com/sase-org/sase/commit/5c76b3d4b72c2626b1fd98267a1d00cb48981279) | refactor(llm): isolate model alias defaults parser | 2026-08-03 15:23:12 EDT |
+| sase | [`5c76b3d`](https://github.com/sase-org/sase/commit/5c76b3d4b72c2626b1fd98267a1d00cb48981279) | refactor(llm): isolate model alias defaults parser | 2026-08-03 19:23:12 UTC |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`228fc78`](https://github.com/sase-org/sase/commit/228fc78aff339555268d16fee134d208f0991769) | fix(tui): humanize project refs in prompt displays | 2026-07-06 13:31:55 EDT |
+| sase | [`228fc78`](https://github.com/sase-org/sase/commit/228fc78aff339555268d16fee134d208f0991769) | fix(tui): humanize project refs in prompt displays | 2026-07-06 17:31:55 UTC |
 
 ## Neighbors
 

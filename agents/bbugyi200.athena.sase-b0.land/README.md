@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8fa0f57`](https://github.com/sase-org/sase/commit/8fa0f573a6f0895d263598b7c588e9774c4aa142) | fix(ace): align Files path preview with what the copy yields | 2026-07-29 22:50:02 EDT |
+| sase | [`8fa0f57`](https://github.com/sase-org/sase/commit/8fa0f573a6f0895d263598b7c588e9774c4aa142) | fix(ace): align Files path preview with what the copy yields | 2026-07-30 02:50:02 UTC |
 
 ## Neighbors
 

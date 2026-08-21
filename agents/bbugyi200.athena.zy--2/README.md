@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0083d1e`](https://github.com/sase-org/sase/commit/0083d1e10adaa7342fca7ee65b8ac4257b2fe034) | fix(ace): stop workspace-claim placeholder STARTING rows from becoming phantoms | 2026-08-13 17:12:54 EDT |
+| sase | [`0083d1e`](https://github.com/sase-org/sase/commit/0083d1e10adaa7342fca7ee65b8ac4257b2fe034) | fix(ace): stop workspace-claim placeholder STARTING rows from becoming phantoms | 2026-08-13 21:12:54 UTC |

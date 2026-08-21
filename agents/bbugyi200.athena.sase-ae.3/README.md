@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`105d9d3`](https://github.com/sase-org/sase/commit/105d9d36930f5f6824e49face0fff277e39d4fa9) | fix: serialize skill chezmoi deploys (sase-ae.3) | 2026-07-28 09:19:42 EDT |
+| sase | [`105d9d3`](https://github.com/sase-org/sase/commit/105d9d36930f5f6824e49face0fff277e39d4fa9) | fix: serialize skill chezmoi deploys (sase-ae.3) | 2026-07-28 13:19:42 UTC |
 
 ## Neighbors
 

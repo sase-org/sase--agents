@@ -30,8 +30,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`008972d`](https://github.com/sase-org/sase/commit/008972df48a2c59ed6c4c3d2da640303d72391c9) | feat(ace): revert agent changes across linked repos | 2026-06-25 07:54:22 EDT |
-| 1 | sase | [`b582f11`](https://github.com/sase-org/sase/commit/b582f118028c79bb3229dce175f7a86aa07607cb) | feat(cli): add sase agent restart for kill-and-relaunch by name | 2026-08-18 08:21:43 EDT |
+| — | sase | [`008972d`](https://github.com/sase-org/sase/commit/008972df48a2c59ed6c4c3d2da640303d72391c9) | feat(ace): revert agent changes across linked repos | 2026-06-25 11:54:22 UTC |
+| 1 | sase | [`b582f11`](https://github.com/sase-org/sase/commit/b582f118028c79bb3229dce175f7a86aa07607cb) | feat(cli): add sase agent restart for kill-and-relaunch by name | 2026-08-18 12:21:43 UTC |
 
 ## Neighbors
 

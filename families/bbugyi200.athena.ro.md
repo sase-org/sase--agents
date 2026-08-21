@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`c081bb6`](https://github.com/sase-org/sase/commit/c081bb6e16fd45a5e5269a5dcb3fac4b3083d22b) | feat(tui): show published agent page URLs | 2026-08-02 07:38:35 EDT |
+| code | sase | [`c081bb6`](https://github.com/sase-org/sase/commit/c081bb6e16fd45a5e5269a5dcb3fac4b3083d22b) | feat(tui): show published agent page URLs | 2026-08-02 11:38:35 UTC |

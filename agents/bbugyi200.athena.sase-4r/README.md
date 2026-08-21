@@ -18,8 +18,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`10a75d9`](https://github.com/sase-org/sase/commit/10a75d9ba23fc1392e5f953f7dc5929e36e72adb) | chore: Add SDD prompt and plan for prompt\_frontmatter\_panel\_closure (sase-4r) | 2026-06-16 16:19:53 EDT |
-| sase | [`5760876`](https://github.com/sase-org/sase/commit/576087647b56ae972c1e2f612952be53429fdf56) | refactor(xprompt): close frontmatter panel epic (sase-4r) | 2026-06-16 16:37:53 EDT |
+| sase | [`10a75d9`](https://github.com/sase-org/sase/commit/10a75d9ba23fc1392e5f953f7dc5929e36e72adb) | chore: Add SDD prompt and plan for prompt\_frontmatter\_panel\_closure (sase-4r) | 2026-06-16 20:19:53 UTC |
+| sase | [`5760876`](https://github.com/sase-org/sase/commit/576087647b56ae972c1e2f612952be53429fdf56) | refactor(xprompt): close frontmatter panel epic (sase-4r) | 2026-06-16 20:37:53 UTC |
 
 ## Neighbors
 

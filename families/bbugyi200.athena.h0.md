@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`e2ba793`](https://github.com/sase-org/sase/commit/e2ba79309adfa14722851c93c13c29c8c468be83) | perf: reuse fresh roots for update previews | 2026-07-21 09:30:38 EDT |
+| code | sase | [`e2ba793`](https://github.com/sase-org/sase/commit/e2ba79309adfa14722851c93c13c29c8c468be83) | perf: reuse fresh roots for update previews | 2026-07-21 13:30:38 UTC |

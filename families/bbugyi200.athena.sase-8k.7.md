@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`a075c01`](https://github.com/sase-org/sase/commit/a075c014fd5faed7f6c7556fca7d4db51286b891) | feat(ace): surface agents repository sync status (sase-8k.7) | 2026-07-22 16:47:46 EDT |
+| code | sase | [`a075c01`](https://github.com/sase-org/sase/commit/a075c014fd5faed7f6c7556fca7d4db51286b891) | feat(ace): surface agents repository sync status (sase-8k.7) | 2026-07-22 20:47:46 UTC |
 
 ## Neighbors
 

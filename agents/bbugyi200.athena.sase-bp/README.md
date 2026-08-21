@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`14d6622`](https://github.com/sase-org/sase/commit/14d66229a4a5cb3247d01653f74064e31b55c715) | fix(agent): ignore run marker during identity discovery | 2026-07-31 09:54:43 EDT |
+| sase | [`14d6622`](https://github.com/sase-org/sase/commit/14d66229a4a5cb3247d01653f74064e31b55c715) | fix(agent): ignore run marker during identity discovery | 2026-07-31 13:54:43 UTC |

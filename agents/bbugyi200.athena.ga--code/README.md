@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0bbf415`](https://github.com/sase-org/sase/commit/0bbf41585be894812dcb2bec927bcd7f0558ff45) | fix: serialize approved epic plan launches | 2026-07-20 11:25:08 EDT |
+| sase | [`0bbf415`](https://github.com/sase-org/sase/commit/0bbf41585be894812dcb2bec927bcd7f0558ff45) | fix: serialize approved epic plan launches | 2026-07-20 15:25:08 UTC |

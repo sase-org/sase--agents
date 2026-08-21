@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`53efb1f`](https://github.com/sase-org/sase/commit/53efb1f3e97c68ce34c6e6d15753a096490ed8fc) | chore: Add SDD prompt and plan for auto\_archive\_closed\_prs | 2026-07-02 07:17:13 EDT |
-| sase | [`df54ba5`](https://github.com/sase-org/sase/commit/df54ba51bcc7400bea1d75c41ddf05032115daba) | fix: archive closed submitted checks | 2026-07-02 07:26:26 EDT |
+| sase | [`53efb1f`](https://github.com/sase-org/sase/commit/53efb1f3e97c68ce34c6e6d15753a096490ed8fc) | chore: Add SDD prompt and plan for auto\_archive\_closed\_prs | 2026-07-02 11:17:13 UTC |
+| sase | [`df54ba5`](https://github.com/sase-org/sase/commit/df54ba51bcc7400bea1d75c41ddf05032115daba) | fix: archive closed submitted checks | 2026-07-02 11:26:26 UTC |

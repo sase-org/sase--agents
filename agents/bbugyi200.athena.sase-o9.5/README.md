@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`26fefda`](https://github.com/sase-org/sase/commit/26fefdab753e6a0bfbed1dcb2aacec935e3d12da) | docs(ace): document Procs monitors and add visual goldens | 2026-08-17 09:01:30 EDT |
+| sase | [`26fefda`](https://github.com/sase-org/sase/commit/26fefdab753e6a0bfbed1dcb2aacec935e3d12da) | docs(ace): document Procs monitors and add visual goldens | 2026-08-17 13:01:30 UTC |
 
 ## Neighbors
 

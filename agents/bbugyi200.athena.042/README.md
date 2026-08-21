@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`84d8af5`](https://github.com/sase-org/sase/commit/84d8af51f6cfddcfcce499811285340ac554ecb4) | chore: Add SDD prompt and plan for clear\_agent\_tag\_meta\_revert | 2026-06-23 08:26:29 EDT |
-| sase | [`4d60ba2`](https://github.com/sase-org/sase/commit/4d60ba2260c48a56b34ec3c5ea196aa2372a2b0d) | fix(tui): clear persisted agent meta tags on unset | 2026-06-23 08:39:49 EDT |
+| sase | [`84d8af5`](https://github.com/sase-org/sase/commit/84d8af51f6cfddcfcce499811285340ac554ecb4) | chore: Add SDD prompt and plan for clear\_agent\_tag\_meta\_revert | 2026-06-23 12:26:29 UTC |
+| sase | [`4d60ba2`](https://github.com/sase-org/sase/commit/4d60ba2260c48a56b34ec3c5ea196aa2372a2b0d) | fix(tui): clear persisted agent meta tags on unset | 2026-06-23 12:39:49 UTC |

@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`9d9d499`](https://github.com/sase-org/sase/commit/9d9d49959146740f171753547ad32145fbcb0d3e) | build(deps): require powerful variable core release | 2026-08-15 18:56:15 EDT |
+| code | sase | [`9d9d499`](https://github.com/sase-org/sase/commit/9d9d49959146740f171753547ad32145fbcb0d3e) | build(deps): require powerful variable core release | 2026-08-15 22:56:15 UTC |
 
 ## Neighbors
 

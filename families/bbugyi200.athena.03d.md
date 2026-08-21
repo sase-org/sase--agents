@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`5f84b41`](https://github.com/sase-org/sase/commit/5f84b41e7f51df80d09a32128ee4ba7045a8ed3f) | fix(tui): restore prompt Agents-tab freshness without broad reloads | 2026-08-16 10:28:24 EDT |
+| code | sase | [`5f84b41`](https://github.com/sase-org/sase/commit/5f84b41e7f51df80d09a32128ee4ba7045a8ed3f) | fix(tui): restore prompt Agents-tab freshness without broad reloads | 2026-08-16 14:28:24 UTC |

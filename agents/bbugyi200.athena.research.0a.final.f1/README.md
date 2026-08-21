@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6dc9d4f`](https://github.com/sase-org/sase/commit/6dc9d4fc9158ea900d3f91b24a6a5856fb9e62b5) | chore: Add SDD prompt and plan for tui\_startup\_freeze\_layer1 | 2026-06-23 14:52:52 EDT |
-| sase | [`4998611`](https://github.com/sase-org/sase/commit/49986114d251c67b51e3774bdf4e330f466b9aae) | perf(tui): defer artifact index maintenance off the event loop | 2026-06-23 15:08:32 EDT |
+| sase | [`6dc9d4f`](https://github.com/sase-org/sase/commit/6dc9d4fc9158ea900d3f91b24a6a5856fb9e62b5) | chore: Add SDD prompt and plan for tui\_startup\_freeze\_layer1 | 2026-06-23 18:52:52 UTC |
+| sase | [`4998611`](https://github.com/sase-org/sase/commit/49986114d251c67b51e3774bdf4e330f466b9aae) | perf(tui): defer artifact index maintenance off the event loop | 2026-06-23 19:08:32 UTC |
 
 ## Neighbors
 

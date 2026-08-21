@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`95be995`](https://github.com/sase-org/sase/commit/95be995801991946cab61d03546d93c8895e6b07) | feat: revive saved agent groups (sase-47.4) | 2026-05-27 13:28:44 EDT |
+| sase | [`95be995`](https://github.com/sase-org/sase/commit/95be995801991946cab61d03546d93c8895e6b07) | feat: revive saved agent groups (sase-47.4) | 2026-05-27 17:28:44 UTC |
 
 ## Neighbors
 

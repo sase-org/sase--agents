@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`0218ce8`](https://github.com/sase-org/sase/commit/0218ce832fe25ebf5452d8dcc8210a163d12a142) | feat(ace): show runner queue position context | 2026-07-25 14:59:24 EDT |
+| code | sase | [`0218ce8`](https://github.com/sase-org/sase/commit/0218ce832fe25ebf5452d8dcc8210a163d12a142) | feat(ace): show runner queue position context | 2026-07-25 18:59:24 UTC |
 
 ## Neighbors
 

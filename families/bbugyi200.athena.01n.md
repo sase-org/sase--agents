@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`541f5b8`](https://github.com/sase-org/sase/commit/541f5b85c7f80b7d0206bc90c2a3b2bab640c6aa) | chore: Add SDD prompt and plan for completion\_panel\_excess\_height | 2026-06-19 19:06:11 EDT |
-| — | sase | [`23a3a5e`](https://github.com/sase-org/sase/commit/23a3a5e87057b5fe24a856baae81dcdbb4ef2e95) | fix(tui): clamp prompt completion height reservation | 2026-06-19 19:15:50 EDT |
-| code | sase | [`fa93b3a`](https://github.com/sase-org/sase/commit/fa93b3ad7c31cf1bf57232db25d112643bb7b7bb) | fix(ace): drop xprompt completion spacer when Tab jumps to next tabstop | 2026-08-14 14:11:58 EDT |
+| — | sase | [`541f5b8`](https://github.com/sase-org/sase/commit/541f5b85c7f80b7d0206bc90c2a3b2bab640c6aa) | chore: Add SDD prompt and plan for completion\_panel\_excess\_height | 2026-06-19 23:06:11 UTC |
+| — | sase | [`23a3a5e`](https://github.com/sase-org/sase/commit/23a3a5e87057b5fe24a856baae81dcdbb4ef2e95) | fix(tui): clamp prompt completion height reservation | 2026-06-19 23:15:50 UTC |
+| code | sase | [`fa93b3a`](https://github.com/sase-org/sase/commit/fa93b3ad7c31cf1bf57232db25d112643bb7b7bb) | fix(ace): drop xprompt completion spacer when Tab jumps to next tabstop | 2026-08-14 18:11:58 UTC |

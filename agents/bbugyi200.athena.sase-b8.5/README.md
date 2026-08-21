@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eefd432`](https://github.com/sase-org/sase/commit/eefd432bab1b6562947545e0f1c52a67ea48c5a3) | feat(agents-sync): attribute commit history to agent lanes | 2026-07-30 12:04:23 EDT |
+| sase | [`eefd432`](https://github.com/sase-org/sase/commit/eefd432bab1b6562947545e0f1c52a67ea48c5a3) | feat(agents-sync): attribute commit history to agent lanes | 2026-07-30 16:04:23 UTC |
 
 ## Neighbors
 

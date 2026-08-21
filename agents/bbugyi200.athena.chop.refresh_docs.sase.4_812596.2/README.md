@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`62951ab`](https://github.com/sase-org/sase/commit/62951abcb4a20d3c7ad5c01190433ee91f837f9c) | docs: align reference and workflow guides with runtime behavior | 2026-08-11 19:47:13 EDT |
+| sase | [`62951ab`](https://github.com/sase-org/sase/commit/62951abcb4a20d3c7ad5c01190433ee91f837f9c) | docs: align reference and workflow guides with runtime behavior | 2026-08-11 23:47:13 UTC |
 
 ## Neighbors
 

@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b2bd078`](https://github.com/sase-org/sase/commit/b2bd0783b3f0f4d01aa150945a36c99722aef2de) | chore: Add SDD prompt and plan for fix\_axe\_chop\_edit | 2026-06-01 10:42:23 EDT |
-| sase | [`adbf4ef`](https://github.com/sase-org/sase/commit/adbf4ef5b9f7dc776e770c04685329302965b789) | fix: edit AXE chop output from selected rows | 2026-06-01 10:55:59 EDT |
+| sase | [`b2bd078`](https://github.com/sase-org/sase/commit/b2bd0783b3f0f4d01aa150945a36c99722aef2de) | chore: Add SDD prompt and plan for fix\_axe\_chop\_edit | 2026-06-01 14:42:23 UTC |
+| sase | [`adbf4ef`](https://github.com/sase-org/sase/commit/adbf4ef5b9f7dc776e770c04685329302965b789) | fix: edit AXE chop output from selected rows | 2026-06-01 14:55:59 UTC |

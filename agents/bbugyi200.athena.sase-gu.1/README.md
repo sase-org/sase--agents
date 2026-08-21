@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`50bed7f`](https://github.com/sase-org/sase/commit/50bed7f99c48d78515bbc48f74c83924380982f5) | feat(config): accept role-keyed sidecar repo config alongside the legacy list | 2026-08-07 09:56:38 EDT |
+| sase | [`50bed7f`](https://github.com/sase-org/sase/commit/50bed7f99c48d78515bbc48f74c83924380982f5) | feat(config): accept role-keyed sidecar repo config alongside the legacy list | 2026-08-07 13:56:38 UTC |
 
 ## Neighbors
 

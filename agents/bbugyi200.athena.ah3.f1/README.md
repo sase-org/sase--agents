@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`90a261c`](https://github.com/sase-org/sase/commit/90a261c67ad9037ebc62a146cc934a22854fd783) | chore: expand new-user guidance research for SASE episodes | 2026-05-26 19:27:41 EDT |
+| sase | [`90a261c`](https://github.com/sase-org/sase/commit/90a261c67ad9037ebc62a146cc934a22854fd783) | chore: expand new-user guidance research for SASE episodes | 2026-05-26 23:27:41 UTC |
 
 ## Neighbors
 

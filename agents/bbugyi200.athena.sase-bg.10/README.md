@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cfeeabc`](https://github.com/sase-org/sase/commit/cfeeabc341065b96e91413238bfac374d313bfa7) | feat(beads): teach agents to file task follow-ups | 2026-07-30 22:51:32 EDT |
+| sase | [`cfeeabc`](https://github.com/sase-org/sase/commit/cfeeabc341065b96e91413238bfac374d313bfa7) | feat(beads): teach agents to file task follow-ups | 2026-07-31 02:51:32 UTC |
 
 ## Neighbors
 

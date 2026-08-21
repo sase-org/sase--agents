@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`0fa8b64`](https://github.com/sase-org/sase/commit/0fa8b643ef3bc0367091c5d56c6be301f8a75564) | feat(tui): add responsive gate review workbench | 2026-07-18 11:05:36 EDT |
+| code | sase | [`0fa8b64`](https://github.com/sase-org/sase/commit/0fa8b643ef3bc0367091c5d56c6be301f8a75564) | feat(tui): add responsive gate review workbench | 2026-07-18 15:05:36 UTC |
 
 ## Neighbors
 

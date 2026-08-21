@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2c11c4e`](https://github.com/sase-org/sase/commit/2c11c4eb85e3c421e76897c871b47c5425cb663a) | feat(cli): add \`sase plan show\` detail command | 2026-08-06 16:41:47 EDT |
+| sase | [`2c11c4e`](https://github.com/sase-org/sase/commit/2c11c4eb85e3c421e76897c871b47c5425cb663a) | feat(cli): add \`sase plan show\` detail command | 2026-08-06 20:41:47 UTC |

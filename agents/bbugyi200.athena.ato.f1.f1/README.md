@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3cd3747`](https://github.com/sase-org/sase/commit/3cd3747ac23ee4c526e2dce776b2f72d9327d73b) | chore: add episode lessons infographic | 2026-05-30 11:07:26 EDT |
+| sase | [`3cd3747`](https://github.com/sase-org/sase/commit/3cd3747ac23ee4c526e2dce776b2f72d9327d73b) | chore: add episode lessons infographic | 2026-05-30 15:07:26 UTC |
 
 ## Neighbors
 

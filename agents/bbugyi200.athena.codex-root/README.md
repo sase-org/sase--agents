@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`25be8cc`](https://github.com/sase-org/sase/commit/25be8cc683343fb4bb0e9f2132446182339c2939) | fix(agents): restore launches with core v0.21 | 2026-08-08 15:32:52 EDT |
+| sase | [`25be8cc`](https://github.com/sase-org/sase/commit/25be8cc683343fb4bb0e9f2132446182339c2939) | fix(agents): restore launches with core v0.21 | 2026-08-08 19:32:52 UTC |

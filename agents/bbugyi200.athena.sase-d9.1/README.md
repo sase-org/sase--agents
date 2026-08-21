@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dd862b7`](https://github.com/sase-org/sase/commit/dd862b7670deba99fd70f41d0a9d0cb567a22ad7) | feat(tui): add file hints to clan summaries | 2026-08-01 09:08:31 EDT |
+| sase | [`dd862b7`](https://github.com/sase-org/sase/commit/dd862b7670deba99fd70f41d0a9d0cb567a22ad7) | feat(tui): add file hints to clan summaries | 2026-08-01 13:08:31 UTC |
 
 ## Neighbors
 

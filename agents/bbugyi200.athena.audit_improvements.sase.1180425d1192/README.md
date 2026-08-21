@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6fd4f64`](https://github.com/sase-org/sase/commit/6fd4f6404461c73eeeac0e4a724f9cd07142abef) | fix(llm): prune invalid persisted override timestamps (#220) | 2026-07-11 13:53:08 EDT |
+| sase | [`6fd4f64`](https://github.com/sase-org/sase/commit/6fd4f6404461c73eeeac0e4a724f9cd07142abef) | fix(llm): prune invalid persisted override timestamps (#220) | 2026-07-11 17:53:08 UTC |
 
 ## Neighbors
 

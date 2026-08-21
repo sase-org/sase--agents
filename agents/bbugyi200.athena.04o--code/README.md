@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`15c6f89`](https://github.com/sase-org/sase/commit/15c6f89129db19178ec9f3221b67fdfb2c3998c7) | fix(bead): accept bead-less family members on bead work relaunch | 2026-08-17 08:54:11 EDT |
+| sase | [`15c6f89`](https://github.com/sase-org/sase/commit/15c6f89129db19178ec9f3221b67fdfb2c3998c7) | fix(bead): accept bead-less family members on bead work relaunch | 2026-08-17 12:54:11 UTC |

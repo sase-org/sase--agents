@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`185469e`](https://github.com/sase-org/sase/commit/185469e09dc7c42908e9b0ecd2bc4674eb0eaa65) | fix(plugins): preflight stale local install sources | 2026-07-18 23:19:24 EDT |
+| sase | [`185469e`](https://github.com/sase-org/sase/commit/185469e09dc7c42908e9b0ecd2bc4674eb0eaa65) | fix(plugins): preflight stale local install sources | 2026-07-19 03:19:24 UTC |
 
 ## Neighbors
 

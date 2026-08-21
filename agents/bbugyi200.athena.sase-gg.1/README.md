@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`08f1b28`](https://github.com/sase-org/sase/commit/08f1b28f8477b804e2565db127a41ae8985c2122) | test(core-rust): move the extension submodule with its parent in sys.modules patches | 2026-08-06 12:39:55 EDT |
+| sase | [`08f1b28`](https://github.com/sase-org/sase/commit/08f1b28f8477b804e2565db127a41ae8985c2122) | test(core-rust): move the extension submodule with its parent in sys.modules patches | 2026-08-06 16:39:55 UTC |
 
 ## Neighbors
 

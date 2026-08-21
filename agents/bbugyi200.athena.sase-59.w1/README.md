@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b9c3692`](https://github.com/sase-org/sase/commit/b9c3692ee13a35267c052435db032de2a33fe86f) | feat(tui): rename SASE Config to Admin Center | 2026-06-26 12:39:10 EDT |
+| sase | [`b9c3692`](https://github.com/sase-org/sase/commit/b9c3692ee13a35267c052435db032de2a33fe86f) | feat(tui): rename SASE Config to Admin Center | 2026-06-26 16:39:10 UTC |
 
 ## Neighbors
 

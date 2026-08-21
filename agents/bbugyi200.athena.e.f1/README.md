@@ -21,8 +21,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9690feb`](https://github.com/sase-org/sase/commit/9690feb4cb59f3827cec2d27277b930155493b13) | chore: Add SDD prompt and plan for root\_agent\_status\_mirror | 2026-07-06 14:08:46 EDT |
-| sase | [`7b53fec`](https://github.com/sase-org/sase/commit/7b53fec4b02faf76ac9cb8a285ab4f8f0ff4dc33) | fix(tui): mirror root wait status from child agents | 2026-07-06 14:25:20 EDT |
+| sase | [`9690feb`](https://github.com/sase-org/sase/commit/9690feb4cb59f3827cec2d27277b930155493b13) | chore: Add SDD prompt and plan for root\_agent\_status\_mirror | 2026-07-06 18:08:46 UTC |
+| sase | [`7b53fec`](https://github.com/sase-org/sase/commit/7b53fec4b02faf76ac9cb8a285ab4f8f0ff4dc33) | fix(tui): mirror root wait status from child agents | 2026-07-06 18:25:20 UTC |
 
 ## Neighbors
 

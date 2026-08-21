@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8a0fd07`](https://github.com/sase-org/sase/commit/8a0fd07a062b87ecce619d4779a8707631d5cf81) | feat(workspace\_provider): add directory-to-workspace-number lookup helper | 2026-08-14 11:46:39 EDT |
+| sase | [`8a0fd07`](https://github.com/sase-org/sase/commit/8a0fd07a062b87ecce619d4779a8707631d5cf81) | feat(workspace\_provider): add directory-to-workspace-number lookup helper | 2026-08-14 15:46:39 UTC |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d317ab9`](https://github.com/sase-org/sase/commit/d317ab9ce2d5c1383967f5878a2dce44386b294f) | refactor(agent-names): split registry scan responsibilities | 2026-08-03 13:53:20 EDT |
+| sase | [`d317ab9`](https://github.com/sase-org/sase/commit/d317ab9ce2d5c1383967f5878a2dce44386b294f) | refactor(agent-names): split registry scan responsibilities | 2026-08-03 17:53:20 UTC |
 
 ## Neighbors
 

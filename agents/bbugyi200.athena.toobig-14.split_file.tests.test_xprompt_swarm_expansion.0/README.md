@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`461edad`](https://github.com/sase-org/sase/commit/461edad82b1773a58e0e68dac47cb2d158ee02aa) | test: split xprompt swarm expansion tests | 2026-07-30 10:18:15 EDT |
+| sase | [`461edad`](https://github.com/sase-org/sase/commit/461edad82b1773a58e0e68dac47cb2d158ee02aa) | test: split xprompt swarm expansion tests | 2026-07-30 14:18:15 UTC |
 
 ## Neighbors
 

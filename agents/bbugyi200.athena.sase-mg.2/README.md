@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`57af5d3`](https://github.com/sase-org/sase/commit/57af5d3ed0c0ca5557ec3d2421714172d7ded28a) | feat(var): add historical list and current-agent show | 2026-08-15 17:03:00 EDT |
+| sase | [`57af5d3`](https://github.com/sase-org/sase/commit/57af5d3ed0c0ca5557ec3d2421714172d7ded28a) | feat(var): add historical list and current-agent show | 2026-08-15 21:03:00 UTC |
 
 ## Neighbors
 

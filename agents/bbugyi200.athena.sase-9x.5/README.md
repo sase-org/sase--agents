@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`87dd076`](https://github.com/sase-org/sase/commit/87dd076f28defadf254154e7c6dcb1bc23ac8d3f) | test(beads): cover deep managed sync replay (sase-9x.5) | 2026-07-27 08:03:53 EDT |
+| sase | [`87dd076`](https://github.com/sase-org/sase/commit/87dd076f28defadf254154e7c6dcb1bc23ac8d3f) | test(beads): cover deep managed sync replay (sase-9x.5) | 2026-07-27 12:03:53 UTC |
 
 ## Neighbors
 

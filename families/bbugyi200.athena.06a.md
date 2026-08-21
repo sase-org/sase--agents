@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`03110b4`](https://github.com/sase-org/sase/commit/03110b4ca6a3390fdb1ae22bdaaf689b850433b3) | chore: Add SDD prompt and plan for agent\_prompt\_wrap\_width | 2026-06-25 15:02:19 EDT |
-| — | sase | [`b09728a`](https://github.com/sase-org/sase/commit/b09728a8c211caaed28dd06ac2cfebc7f7725454) | feat(llm): wrap agent prompts at 80 columns | 2026-06-25 15:09:52 EDT |
+| — | sase | [`03110b4`](https://github.com/sase-org/sase/commit/03110b4ca6a3390fdb1ae22bdaaf689b850433b3) | chore: Add SDD prompt and plan for agent\_prompt\_wrap\_width | 2026-06-25 19:02:19 UTC |
+| — | sase | [`b09728a`](https://github.com/sase-org/sase/commit/b09728a8c211caaed28dd06ac2cfebc7f7725454) | feat(llm): wrap agent prompts at 80 columns | 2026-06-25 19:09:52 UTC |

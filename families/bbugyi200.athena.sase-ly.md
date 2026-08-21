@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`21633ba`](https://github.com/sase-org/sase/commit/21633ba1bf044b08bd3bf8dcc4e225e8e81a6d77) | fix: protect dirty work during repo open and finalization | 2026-08-14 11:19:29 EDT |
+| code | sase | [`21633ba`](https://github.com/sase-org/sase/commit/21633ba1bf044b08bd3bf8dcc4e225e8e81a6d77) | fix: protect dirty work during repo open and finalization | 2026-08-14 15:19:29 UTC |

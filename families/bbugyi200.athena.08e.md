@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`d57dfe1`](https://github.com/sase-org/sase/commit/d57dfe1d8b93feaace4da60fec42b57830b329b5) | chore: Add SDD prompt and plan for multi\_agent\_prompt\_chat\_bullet | 2026-06-27 16:01:39 EDT |
-| — | sase | [`5550be6`](https://github.com/sase-org/sase/commit/5550be6015252ef589e1ebc3a15293445b5f07ff) | feat: record source prompt for multi-agent transcripts | 2026-06-27 16:14:33 EDT |
+| — | sase | [`d57dfe1`](https://github.com/sase-org/sase/commit/d57dfe1d8b93feaace4da60fec42b57830b329b5) | chore: Add SDD prompt and plan for multi\_agent\_prompt\_chat\_bullet | 2026-06-27 20:01:39 UTC |
+| — | sase | [`5550be6`](https://github.com/sase-org/sase/commit/5550be6015252ef589e1ebc3a15293445b5f07ff) | feat: record source prompt for multi-agent transcripts | 2026-06-27 20:14:33 UTC |

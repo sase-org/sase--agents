@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2f3c79a`](https://github.com/sase-org/sase/commit/2f3c79a6c3fc698d4f7d2e97ce56fcdc576ae9b2) | docs: add TUI slowdown profiling research | 2026-06-25 06:34:56 EDT |
+| sase | [`2f3c79a`](https://github.com/sase-org/sase/commit/2f3c79a6c3fc698d4f7d2e97ce56fcdc576ae9b2) | docs: add TUI slowdown profiling research | 2026-06-25 10:34:56 UTC |
 
 ## Neighbors
 

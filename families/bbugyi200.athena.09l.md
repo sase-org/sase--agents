@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`68f82ce`](https://github.com/sase-org/sase/commit/68f82cef629779f1c32b09afc7cc68c73cbdf4de) | feat(ace): restore live output for session-local procs | 2026-08-21 12:21:43 EDT |
+| code | sase | [`68f82ce`](https://github.com/sase-org/sase/commit/68f82cef629779f1c32b09afc7cc68c73cbdf4de) | feat(ace): restore live output for session-local procs | 2026-08-21 16:21:43 UTC |

@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`012e1a8`](https://github.com/sase-org/sase/commit/012e1a88bc83cfa23e5505d791b149bc26d78765) | feat: add smarter model alias routing | 2026-08-10 13:02:12 EDT |
+| code | sase | [`012e1a8`](https://github.com/sase-org/sase/commit/012e1a88bc83cfa23e5505d791b149bc26d78765) | feat: add smarter model alias routing | 2026-08-10 17:02:12 UTC |
 
 ## Neighbors
 

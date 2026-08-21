@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4665110`](https://github.com/sase-org/sase/commit/4665110c7e86f301d45c5288039afa150b39dd32) | test(tui): cover cross-kind summary fold contracts (sase-73.3) | 2026-07-19 11:25:56 EDT |
+| sase | [`4665110`](https://github.com/sase-org/sase/commit/4665110c7e86f301d45c5288039afa150b39dd32) | test(tui): cover cross-kind summary fold contracts (sase-73.3) | 2026-07-19 15:25:56 UTC |
 
 ## Neighbors
 

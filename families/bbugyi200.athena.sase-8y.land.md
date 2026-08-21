@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`d0495f1`](https://github.com/sase-org/sase/commit/d0495f1cba07b4706cc7696a1561d9fa0a0c3343) | fix: finish claimed status landing cleanup (sase-8y) | 2026-07-24 18:58:11 EDT |
+| code | sase | [`d0495f1`](https://github.com/sase-org/sase/commit/d0495f1cba07b4706cc7696a1561d9fa0a0c3343) | fix: finish claimed status landing cleanup (sase-8y) | 2026-07-24 22:58:11 UTC |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d9ea0c3`](https://github.com/sase-org/sase/commit/d9ea0c3552e3860ce95e3c34a76b265e598b6ce4) | refactor(tui): split agent display header rendering | 2026-07-19 03:04:06 EDT |
+| sase | [`d9ea0c3`](https://github.com/sase-org/sase/commit/d9ea0c3552e3860ce95e3c34a76b265e598b6ce4) | refactor(tui): split agent display header rendering | 2026-07-19 07:04:06 UTC |
 
 ## Neighbors
 

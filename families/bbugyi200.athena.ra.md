@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`d2d8151`](https://github.com/sase-org/sase/commit/d2d8151165ac64ca67e1a4c44fe9feb1cf648ecf) | fix: dedupe notification toasts by activity cursor | 2026-08-01 10:15:57 EDT |
+| code | sase | [`d2d8151`](https://github.com/sase-org/sase/commit/d2d8151165ac64ca67e1a4c44fe9feb1cf648ecf) | fix: dedupe notification toasts by activity cursor | 2026-08-01 14:15:57 UTC |

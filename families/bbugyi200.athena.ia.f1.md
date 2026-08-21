@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`bdde10d`](https://github.com/sase-org/sase/commit/bdde10dceb45dc86cadb85be5d8400207b387b7c) | feat(ace): report agent holes in tribe panels | 2026-07-22 11:58:24 EDT |
+| code | sase | [`bdde10d`](https://github.com/sase-org/sase/commit/bdde10dceb45dc86cadb85be5d8400207b387b7c) | feat(ace): report agent holes in tribe panels | 2026-07-22 15:58:24 UTC |
 
 ## Neighbors
 
