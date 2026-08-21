@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me show a useful statistics line at the end of the `sase flag list` command's output? See how we do this for the `sase bead list` command for context and inspiration. #beau #plan %w(runners=100)

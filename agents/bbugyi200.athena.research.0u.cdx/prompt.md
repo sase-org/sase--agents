@@ -1,0 +1,4 @@
+%clan(research.0u, tribe=research,
+summary=[[[bold]RESEARCH PROMPT:[/bold] We recently made some major improvements to sase's finalizers. See the sase-rn and (ongoing) sase-rr epic beads for context. I want to start using these new generalized, configurable finalizers to their full potential. Can you do some research with the goal of helping me think of new ways that finalizers could be used? End your analysis with a ranked list of recommended use cases.]]) %id:research.0u.cdx
+%model:@research_a 
+#gh:gh_sase-org__sase We recently made some major improvements to sase's finalizers. See the sase-rn and (ongoing) sase-rr epic beads for context. I want to start using these new generalized, configurable finalizers to their full potential. Can you do some research with the goal of helping me think of new ways that finalizers could be used? End your analysis with a ranked list of recommended use cases. #research(report_target=research.0u.cdx.md)
