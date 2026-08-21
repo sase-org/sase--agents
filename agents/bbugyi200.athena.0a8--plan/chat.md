@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 0a8--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0a8__plan-260821_202050.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0a8__code-260821_202050.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/monitor_wait_handoff_race.md
 
 

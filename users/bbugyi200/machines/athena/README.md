@@ -317,7 +317,7 @@
 | [0a5](hoods/0a5/README.md) | 1 | 0 | completed 1 |
 | [0a6](hoods/0a6/README.md) | 2 | 1 | active 2 |
 | [0a7](hoods/0a7/README.md) | 2 | 1 | completed 2 |
-| [0a8](hoods/0a8/README.md) | 2 | 1 | active 2 |
+| [0a8](hoods/0a8/README.md) | 2 | 1 | completed 2 |
 | [0a9](hoods/0a9/README.md) | 2 | 0 | completed 2 |
 | [0aa](hoods/0aa/README.md) | 1 | 0 | completed 1 |
 | [0ac](hoods/0ac/README.md) | 1 | 0 | completed 1 |
