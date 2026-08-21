@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:0a2 Can you now help me do the same thing for the sub-tabs of the "Statistics" tab of the "SASE Admin Center" panel? #plan

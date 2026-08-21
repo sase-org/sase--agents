@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-068cca3e889c957639ec6e70dadecda1"}
+{"commits":[{"committed_at":1787329193,"sha":"2f9c4ae2955e680f5da2249e20cccca15e0b972c","subject":"feat(finalizers)!: make pluggable finalizers the only completion path"}],"schema_version":2,"source_run_id":"run-068cca3e889c957639ec6e70dadecda1"}

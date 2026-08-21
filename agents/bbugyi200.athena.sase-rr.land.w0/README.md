@@ -23,6 +23,6 @@
 |---|---|---|
 | [sase-rr.land](../bbugyi200.athena.sase-rr.land/README.md) | ancestor | waiting |
 | [sase-rr.1](../bbugyi200.athena.sase-rr.1/README.md) | sase-rr hood | completed |
-| [sase-rr.2](../bbugyi200.athena.sase-rr.2/README.md) | sase-rr hood | active |
-| [sase-rr.3](../bbugyi200.athena.sase-rr.3/README.md) | sase-rr hood | waiting |
-| [sase-rr.4](../bbugyi200.athena.sase-rr.4/README.md) | sase-rr hood | waiting |
+| [sase-rr.2](../bbugyi200.athena.sase-rr.2/README.md) | sase-rr hood | dismissed |
+| [sase-rr.3](../bbugyi200.athena.sase-rr.3/README.md) | sase-rr hood | completed |
+| [sase-rr.4](../bbugyi200.athena.sase-rr.4/README.md) | sase-rr hood | active |

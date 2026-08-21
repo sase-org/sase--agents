@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:09u I like this, but can we just use the colored circles and get rid of the colored bead symbol to the left of those circles (to save space)? #plan
