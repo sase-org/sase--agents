@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a3cccf4015305566fcd6e1e955fd56df"}
+{"commits":[{"committed_at":1787340497,"sha":"28009002d5da032104d57805a6df293ffeca6b3e","subject":"fix(finalizers): prove live e2e acceptance and validate external payloads"}],"schema_version":2,"source_run_id":"run-a3cccf4015305566fcd6e1e955fd56df"}
