@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-ri` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["sase-ri.land.w2.f3--code [active]"]
-  n1["sase-ri.land.w2.f3--plan [active]"]
+  n0["sase-ri.land.w2.f3--code [completed]"]
+  n1["sase-ri.land.w2.f3--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-ri.land.w2.f3--code | active | gpt-5.5 / codex | 2026-08-21T13:04:12.821921+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-ri.land.w2.f3--plan | active | gpt-5.6-sol / codex | 2026-08-21T12:54:28.799712+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ri.land.w2.f3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ri.land.w2.f3--plan/chat.md) |
+| <a id="member-code"></a>code | sase-ri.land.w2.f3--code | completed | gpt-5.5 / codex | 2026-08-21T13:04:12.821921+00:00 | [1](../agents/bbugyi200.athena.sase-ri.land.w2.f3--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-ri.land.w2.f3--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-ri.land.w2.f3--plan | completed | gpt-5.6-sol / codex | 2026-08-21T12:54:28.799712+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ri.land.w2.f3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ri.land.w2.f3--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`df1751d`](https://github.com/sase-org/sase/commit/df1751d3abca34c84174bc691d7be3f63cbb7e34) | feat(ace): add Admin Center subtab numbers | 2026-08-21 09:43:04 EDT |
 
 ## Neighbors
 
@@ -30,9 +36,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-ri.land.w2.f1](../agents/bbugyi200.athena.sase-ri.land.w2.f1/README.md) | sase-ri.land.w2 hood | dismissed |
 | [sase-ri.land.w2.f2.f0](../agents/bbugyi200.athena.sase-ri.land.w2.f2.f0/README.md) | sase-ri.land.w2 hood | dismissed |
 | [sase-ri.land.w2.f2.f1](../agents/bbugyi200.athena.sase-ri.land.w2.f2.f1/README.md) | sase-ri.land.w2 hood | dismissed |
-| [sase-ri.land.w2.f2.f2](../agents/bbugyi200.athena.sase-ri.land.w2.f2.f2/README.md) | sase-ri.land.w2 hood | waiting |
-| [sase-ri.land.w2.f2.w0](../agents/bbugyi200.athena.sase-ri.land.w2.f2.w0/README.md) | sase-ri.land.w2 hood | waiting |
-| [sase-ri.land.w2.f2.w1](../agents/bbugyi200.athena.sase-ri.land.w2.f2.w1/README.md) | sase-ri.land.w2 hood | waiting |
+| [sase-ri.land.w2.f2.f3](../agents/bbugyi200.athena.sase-ri.land.w2.f2.f3/README.md) | sase-ri.land.w2 hood | active |
+| [sase-ri.land.w2.f2.w2](../agents/bbugyi200.athena.sase-ri.land.w2.f2.w2/README.md) | sase-ri.land.w2 hood | active |
+| [sase-ri.land.w2.f2.w3](../agents/bbugyi200.athena.sase-ri.land.w2.f2.w3/README.md) | sase-ri.land.w2 hood | active |
 | [sase-ri.land.w1.f0](../agents/bbugyi200.athena.sase-ri.land.w1.f0/README.md) | sase-ri.land hood | dismissed |
 | [sase-ri.1](../agents/bbugyi200.athena.sase-ri.1/README.md) | sase-ri hood | dismissed |
 | [sase-ri.2](../agents/bbugyi200.athena.sase-ri.2/README.md) | sase-ri hood | dismissed |

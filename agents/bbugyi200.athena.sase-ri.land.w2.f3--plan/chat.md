@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-ri.land.w2.f3--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ri_land_w2_f3__plan-260821_062427.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ri_land_w2_f3__code-260821_062427.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/admin_center_subtab_numbers.md
 
 

@@ -50,7 +50,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-ri.land.w2.f1](../agents/bbugyi200.athena.sase-ri.land.w2.f1/README.md) | sase-ri hood | dismissed |
 | [sase-ri.land.w2.f2.f0](../agents/bbugyi200.athena.sase-ri.land.w2.f2.f0/README.md) | sase-ri hood | dismissed |
 | [sase-ri.land.w2.f2.f1](../agents/bbugyi200.athena.sase-ri.land.w2.f2.f1/README.md) | sase-ri hood | dismissed |
-| [sase-ri.land.w2.f2.f2](../agents/bbugyi200.athena.sase-ri.land.w2.f2.f2/README.md) | sase-ri hood | waiting |
-| [sase-ri.land.w2.f2.w0](../agents/bbugyi200.athena.sase-ri.land.w2.f2.w0/README.md) | sase-ri hood | waiting |
-| [sase-ri.land.w2.f2.w1](../agents/bbugyi200.athena.sase-ri.land.w2.f2.w1/README.md) | sase-ri hood | waiting |
-| [sase-ri.land.w2.f3](bbugyi200.athena.sase-ri.land.w2.f3.md) (family · 2) | sase-ri hood | active 2 |
+| [sase-ri.land.w2.f2.f3](../agents/bbugyi200.athena.sase-ri.land.w2.f2.f3/README.md) | sase-ri hood | active |
+| [sase-ri.land.w2.f2.w2](../agents/bbugyi200.athena.sase-ri.land.w2.f2.w2/README.md) | sase-ri hood | active |
+| [sase-ri.land.w2.f2.w3](../agents/bbugyi200.athena.sase-ri.land.w2.f2.w3/README.md) | sase-ri hood | active |
+| [sase-ri.land.w2.f3](bbugyi200.athena.sase-ri.land.w2.f3.md) (family · 2) | sase-ri hood | completed 2 |

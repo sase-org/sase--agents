@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase Can you help me stop showing "soft" to represent soft-disablement of LLM providers (see #sshot for context)? Instead, let's just make the entire provider yellow, including the checkmark icon (if we will use this model because it is the only not-disabled model provider in the model alias pool) and the X icon (if there are other models in the pool that are not soft disabled--so we will not use the soft disabled model in that model alias pool).
+
+#beau #plan

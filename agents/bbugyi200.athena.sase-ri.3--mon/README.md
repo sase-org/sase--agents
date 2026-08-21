@@ -29,7 +29,7 @@
 | [sase-ri.land.w2.f1](../bbugyi200.athena.sase-ri.land.w2.f1/README.md) | sase-ri hood | dismissed |
 | [sase-ri.land.w2.f2.f0](../bbugyi200.athena.sase-ri.land.w2.f2.f0/README.md) | sase-ri hood | dismissed |
 | [sase-ri.land.w2.f2.f1](../bbugyi200.athena.sase-ri.land.w2.f2.f1/README.md) | sase-ri hood | dismissed |
-| [sase-ri.land.w2.f2.f2](../bbugyi200.athena.sase-ri.land.w2.f2.f2/README.md) | sase-ri hood | waiting |
-| [sase-ri.land.w2.f2.w0](../bbugyi200.athena.sase-ri.land.w2.f2.w0/README.md) | sase-ri hood | waiting |
-| [sase-ri.land.w2.f2.w1](../bbugyi200.athena.sase-ri.land.w2.f2.w1/README.md) | sase-ri hood | waiting |
-| [sase-ri.land.w2.f3](../../families/bbugyi200.athena.sase-ri.land.w2.f3.md) (family · 2) | sase-ri hood | active 2 |
+| [sase-ri.land.w2.f2.f3](../bbugyi200.athena.sase-ri.land.w2.f2.f3/README.md) | sase-ri hood | active |
+| [sase-ri.land.w2.f2.w2](../bbugyi200.athena.sase-ri.land.w2.f2.w2/README.md) | sase-ri hood | active |
+| [sase-ri.land.w2.f2.w3](../bbugyi200.athena.sase-ri.land.w2.f2.w3/README.md) | sase-ri hood | active |
+| [sase-ri.land.w2.f3](../../families/bbugyi200.athena.sase-ri.land.w2.f3.md) (family · 2) | sase-ri hood | completed 2 |
