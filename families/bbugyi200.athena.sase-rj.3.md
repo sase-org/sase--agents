@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["sase-rj.3--mon-0 [failed]"]
   n0 --> n3
-  n4["sase-rj.3--2 [active]"]
+  n4["sase-rj.3--2 [completed]"]
   n0 --> n4
 ```
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-1"></a>1 | sase-rj.3--1 | completed | grok-4.6 / grok | 2026-08-20T19:25:36.042418+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-rj.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-rj.3--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-rj.3--mon | failed | grok-4.6 / grok | 2026-08-20T19:21:48.916142+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-rj.3--mon/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-rj.3--mon-0 | failed | grok-4.6 / grok | 2026-08-20T19:33:24.533373+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-rj.3--mon-0/chat.md) |
-| <a id="member-2"></a>2 | sase-rj.3--2 | active | grok-4.6 / grok | 2026-08-20T19:47:34.254606+00:00 | [1](../agents/bbugyi200.athena.sase-rj.3--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-rj.3--2/prompt.md) | — |
+| <a id="member-2"></a>2 | sase-rj.3--2 | completed | grok-4.6 / grok | 2026-08-20T19:47:34.254606+00:00 | [1](../agents/bbugyi200.athena.sase-rj.3--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-rj.3--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-rj.3--2/chat.md) |
 
 ## Commits
 
@@ -41,5 +41,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-rj.1](../agents/bbugyi200.athena.sase-rj.1/README.md) | sase-rj hood | completed |
 | [sase-rj.2](../agents/bbugyi200.athena.sase-rj.2/README.md) | sase-rj hood | completed |
-| [sase-rj.4](../agents/bbugyi200.athena.sase-rj.4/README.md) | sase-rj hood | waiting |
-| [sase-rj.land](../agents/bbugyi200.athena.sase-rj.land/README.md) | sase-rj hood | waiting |
+| [sase-rj.4](../agents/bbugyi200.athena.sase-rj.4/README.md) | sase-rj hood | completed |
+| [sase-rj.land](../agents/bbugyi200.athena.sase-rj.land/README.md) | sase-rj hood | active |

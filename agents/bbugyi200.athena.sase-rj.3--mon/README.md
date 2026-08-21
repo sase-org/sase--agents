@@ -25,5 +25,5 @@
 |---|---|---|
 | [sase-rj.1](../bbugyi200.athena.sase-rj.1/README.md) | sase-rj hood | completed |
 | [sase-rj.2](../bbugyi200.athena.sase-rj.2/README.md) | sase-rj hood | completed |
-| [sase-rj.4](../bbugyi200.athena.sase-rj.4/README.md) | sase-rj hood | waiting |
-| [sase-rj.land](../bbugyi200.athena.sase-rj.land/README.md) | sase-rj hood | waiting |
+| [sase-rj.4](../bbugyi200.athena.sase-rj.4/README.md) | sase-rj hood | completed |
+| [sase-rj.land](../bbugyi200.athena.sase-rj.land/README.md) | sase-rj hood | active |
