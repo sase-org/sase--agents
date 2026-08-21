@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-04b5fa9bb838906ddecb196974955ca8"}
+{"commits":[{"committed_at":1787331310,"sha":"b88dfc729359edaf7bda546e6bf581c7f2266b07","subject":"fix(telemetry): drop duplicate sase_finalizer catalog entries"}],"schema_version":2,"source_run_id":"run-04b5fa9bb838906ddecb196974955ca8"}
