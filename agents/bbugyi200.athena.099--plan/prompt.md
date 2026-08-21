@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me review the `artifact_links` feature flag (see @bead:sase-r8 for context), thoroughly end-to-end test the corresponding functionality, complete any remaining work, fix any discovered bugs, remove the `artifact_links` feature flag (and the old, deprecated code), and close the corresponding "feature" task bead? #plan

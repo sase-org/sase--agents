@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | 097--plan | active | gpt-5.6-sol / codex | 2026-08-21T12:41:08.808039+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.097--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.097--plan/chat.md) |
-| <a id="member-code"></a>code | 097--code | active | gpt-5.5 / codex | 2026-08-21T12:49:11.734114+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 097--code | active | gpt-5.5 / codex | 2026-08-21T12:49:11.734114+00:00 | [1](../agents/bbugyi200.athena.097--code/README.md#commits) | — | — |
 
 ## Commits
 
@@ -26,3 +26,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|
 | — | sase | [`8036732`](https://github.com/sase-org/sase/commit/8036732eb6b39fbce66a4ffd2c5098cad1f663f0) | chore: Add SDD prompt and plan for completion\_escape\_normal\_mode | 2026-06-28 14:46:25 EDT |
 | — | sase | [`58f1230`](https://github.com/sase-org/sase/commit/58f12304f8c7908723ad39029ab12a26d2a7e262) | fix(ace): enter normal mode when escaping prompt completion | 2026-06-28 14:51:56 EDT |
+| code | sase | [`4ebdd05`](https://github.com/sase-org/sase/commit/4ebdd05ad019479ec2684c4f8f879088c73f525b) | feat(ace): highlight artifact refs in agent xprompts | 2026-08-21 09:20:23 EDT |

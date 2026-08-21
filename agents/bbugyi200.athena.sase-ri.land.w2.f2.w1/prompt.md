@@ -1,0 +1,2 @@
+%wait(sase-ri.land.w2.f3)
+#gh:gh_sase-org__sase The numeric keymaps used on the "Glossary" and "Memory" sub-tabs of the "Config" tab of the "SASE Admin Center" panel conflict with the "SASE Admin Center" panel's numeric keymaps which jump to tabs. Can you help me fix this by using the `>` prefix for all of the numeric keymaps (which follow links to other terms/memories) on the "Glossary" and "Memory" sub-tabs? #plan

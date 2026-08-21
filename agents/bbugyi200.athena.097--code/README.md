@@ -11,4 +11,10 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-21T12:49:11.734114+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`4ebdd05`](https://github.com/sase-org/sase/commit/4ebdd05ad019479ec2684c4f8f879088c73f525b) | feat(ace): highlight artifact refs in agent xprompts | 2026-08-21 09:20:23 EDT |

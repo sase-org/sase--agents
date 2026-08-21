@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-632d12d8a66f34a07fb39f71a35ae61a"}
+{"commits":[{"committed_at":1787318423,"sha":"4ebdd05ad019479ec2684c4f8f879088c73f525b","subject":"feat(ace): highlight artifact refs in agent xprompts"}],"schema_version":2,"source_run_id":"run-632d12d8a66f34a07fb39f71a35ae61a"}

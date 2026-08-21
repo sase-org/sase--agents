@@ -27,7 +27,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-ri.land](../agents/bbugyi200.athena.sase-ri.land/README.md) | ancestor | dismissed |
 | [sase-ri.land.w2.f0](../agents/bbugyi200.athena.sase-ri.land.w2.f0/README.md) | descendant | dismissed |
 | [sase-ri.land.w2.f1](../agents/bbugyi200.athena.sase-ri.land.w2.f1/README.md) | descendant | dismissed |
-| [sase-ri.land.w2.f2](../agents/bbugyi200.athena.sase-ri.land.w2.f2/README.md) | descendant | waiting |
+| [sase-ri.land.w2.f2.f0](../agents/bbugyi200.athena.sase-ri.land.w2.f2.f0/README.md) | descendant | dismissed |
+| [sase-ri.land.w2.f2.f1](../agents/bbugyi200.athena.sase-ri.land.w2.f2.f1/README.md) | descendant | dismissed |
+| [sase-ri.land.w2.f2.f2](../agents/bbugyi200.athena.sase-ri.land.w2.f2.f2/README.md) | descendant | waiting |
+| [sase-ri.land.w2.f2.w0](../agents/bbugyi200.athena.sase-ri.land.w2.f2.w0/README.md) | descendant | waiting |
+| [sase-ri.land.w2.f2.w1](../agents/bbugyi200.athena.sase-ri.land.w2.f2.w1/README.md) | descendant | waiting |
+| [sase-ri.land.w2.f3](bbugyi200.athena.sase-ri.land.w2.f3.md) (family · 2) | descendant | active 2 |
 | [sase-ri.land.w1.f0](../agents/bbugyi200.athena.sase-ri.land.w1.f0/README.md) | sase-ri.land hood | dismissed |
 | [sase-ri.1](../agents/bbugyi200.athena.sase-ri.1/README.md) | sase-ri hood | dismissed |
 | [sase-ri.2](../agents/bbugyi200.athena.sase-ri.2/README.md) | sase-ri hood | dismissed |
