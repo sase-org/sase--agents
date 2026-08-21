@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ca325b51abf54520f82246878a658154"}
+{"commits":[{"committed_at":1787350288,"sha":"f618be6a809dc0f13a62a2a0e8fba8ac26adc2af","subject":"feat(completion): expose final directive completions"}],"schema_version":2,"source_run_id":"run-ca325b51abf54520f82246878a658154"}
