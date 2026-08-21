@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-21T10:17:00.974844+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`996ebea`](https://github.com/sase-org/sase/commit/996ebeaa61e179d1693b5b0b991cdb8422a13fbe) | feat(ace)!: migrate prompt-local xprompt keymap | 2026-08-21 06:51:22 EDT |
 
 ## Neighbors
 
