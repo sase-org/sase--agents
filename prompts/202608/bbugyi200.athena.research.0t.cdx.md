@@ -1,0 +1,15 @@
+- **AGENTS:**
+  - [bbugyi200.athena.research.0t.cdx](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.research.0t.cdx/README.md)
+
+%clan(research.0t, tribe=research,
+summary=[[[bold]RESEARCH PROMPT:[/bold] I want to investigate and close out all of the remaining open sase feature flags, which represent deprecations and/or new features (some of which have been enabled already and others which are off by default). I already have some agents working on the `artifact_links` and `pluggable_finalizers` feature flags, so those are being handled. Can you do some research with the goal of helping me understand what needs to be done to get rid of the rest of the feature flags? End your analysis with a list of next steps associated with each open feature flag (except for the two that are already being worked). Keep your report concise and practical.]])
+%id:research.0t.cdx %wait(priority=20) %model:@research_a #gh:gh_sase-org__sase I want
+to investigate and close out all of the remaining open sase feature flags, which
+represent deprecations and/or new features (some of which have been enabled already and
+others which are off by default). I already have some agents working on the
+`artifact_links` and `pluggable_finalizers` feature flags, so those are being handled.
+Can you do some research with the goal of helping me understand what needs to be done to
+get rid of the rest of the feature flags? End your analysis with a list of next steps
+associated with each open feature flag (except for the two that are already being
+worked). Keep your report concise and practical.
+#research(report_target=research.0t.cdx.md)
