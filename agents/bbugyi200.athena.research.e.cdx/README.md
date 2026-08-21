@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`34ec561`](https://github.com/sase-org/sase/commit/34ec5610dcc8dd12fe07183c831566ce6ef25a09) | docs: research agents tab revert workflow | 2026-06-14 14:24:08 UTC |
+| sase | [`34ec561`](https://github.com/sase-org/sase/commit/34ec5610dcc8dd12fe07183c831566ce6ef25a09) | docs: research agents tab revert workflow | 2026-06-14 10:24:08 EDT |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ec229ad`](https://github.com/sase-org/sase/commit/ec229ad32c315ccd7b0754dd1140fe9cf46610eb) | docs: document capitalized snippet alias parity across surfaces (sase-8u.3) | 2026-07-23 13:34:35 UTC |
+| sase | [`ec229ad`](https://github.com/sase-org/sase/commit/ec229ad32c315ccd7b0754dd1140fe9cf46610eb) | docs: document capitalized snippet alias parity across surfaces (sase-8u.3) | 2026-07-23 09:34:35 EDT |
 
 ## Neighbors
 

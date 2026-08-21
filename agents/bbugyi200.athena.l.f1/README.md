@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e1b2d2e`](https://github.com/sase-org/sase/commit/e1b2d2efb5a3bd955922e0b4c365ea43962727ea) | chore: Add SDD prompt and plan for generated\_media\_default\_artifacts | 2026-07-06 20:33:36 UTC |
+| sase | [`e1b2d2e`](https://github.com/sase-org/sase/commit/e1b2d2efb5a3bd955922e0b4c365ea43962727ea) | chore: Add SDD prompt and plan for generated\_media\_default\_artifacts | 2026-07-06 16:33:36 EDT |
 
 ## Neighbors
 

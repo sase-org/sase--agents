@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f22a49f`](https://github.com/sase-org/sase/commit/f22a49f0dca472f0a99992841be4e62b939a9116) | test: stabilize family relaunch async waits (sase-8w.7.4.2) | 2026-07-24 01:07:02 UTC |
+| sase | [`f22a49f`](https://github.com/sase-org/sase/commit/f22a49f0dca472f0a99992841be4e62b939a9116) | test: stabilize family relaunch async waits (sase-8w.7.4.2) | 2026-07-23 21:07:02 EDT |
 
 ## Neighbors
 

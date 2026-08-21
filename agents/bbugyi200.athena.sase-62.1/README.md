@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`776f69e`](https://github.com/sase-org/sase/commit/776f69eb4b9b0e996378968716682b070a8feb8b) | feat(memory): render lazy sidecar repositories (sase-62.1) | 2026-07-15 12:47:45 UTC |
+| sase | [`776f69e`](https://github.com/sase-org/sase/commit/776f69eb4b9b0e996378968716682b070a8feb8b) | feat(memory): render lazy sidecar repositories (sase-62.1) | 2026-07-15 08:47:45 EDT |
 
 ## Neighbors
 

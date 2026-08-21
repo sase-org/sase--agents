@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`75f5cc3`](https://github.com/sase-org/sase/commit/75f5cc34349aed1a4f64b4a7a24efdf90bede893) | chore: document remote agent control plane research | 2026-06-06 17:15:18 UTC |
+| sase | [`75f5cc3`](https://github.com/sase-org/sase/commit/75f5cc34349aed1a4f64b4a7a24efdf90bede893) | chore: document remote agent control plane research | 2026-06-06 13:15:18 EDT |
 
 ## Neighbors
 

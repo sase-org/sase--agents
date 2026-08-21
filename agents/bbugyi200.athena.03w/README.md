@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2c3e7fb`](https://github.com/sase-org/sase/commit/2c3e7fbfd71599fe48e9fa92dac9a0a1991cc203) | chore: Add SDD prompt and plan for agent\_restore\_delete\_saved\_group | 2026-06-23 11:14:23 UTC |
-| sase | [`4a47da3`](https://github.com/sase-org/sase/commit/4a47da3358291c0f9f9f0b114679a6a6a77b7a36) | feat(ace): delete saved groups from restore panel | 2026-06-23 11:33:49 UTC |
+| sase | [`2c3e7fb`](https://github.com/sase-org/sase/commit/2c3e7fbfd71599fe48e9fa92dac9a0a1991cc203) | chore: Add SDD prompt and plan for agent\_restore\_delete\_saved\_group | 2026-06-23 07:14:23 EDT |
+| sase | [`4a47da3`](https://github.com/sase-org/sase/commit/4a47da3358291c0f9f9f0b114679a6a6a77b7a36) | feat(ace): delete saved groups from restore panel | 2026-06-23 07:33:49 EDT |

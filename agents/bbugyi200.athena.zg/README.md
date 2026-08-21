@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6a0c35c`](https://github.com/sase-org/sase/commit/6a0c35c8ec28be78635601d58b5114e803e20f08) | fix(monitor): resolve waits from terminal monitor state | 2026-08-13 15:17:59 UTC |
+| sase | [`6a0c35c`](https://github.com/sase-org/sase/commit/6a0c35c8ec28be78635601d58b5114e803e20f08) | fix(monitor): resolve waits from terminal monitor state | 2026-08-13 11:17:59 EDT |

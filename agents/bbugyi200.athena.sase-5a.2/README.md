@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5a6a9bb`](https://github.com/sase-org/sase/commit/5a6a9bb286d7ed0eb55f38f27e6ce9d1b11a9d5c) | refactor(tui): cut over project management to the Projects tab (sase-5a.2) | 2026-06-26 18:27:13 UTC |
+| sase | [`5a6a9bb`](https://github.com/sase-org/sase/commit/5a6a9bb286d7ed0eb55f38f27e6ce9d1b11a9d5c) | refactor(tui): cut over project management to the Projects tab (sase-5a.2) | 2026-06-26 14:27:13 EDT |
 
 ## Neighbors
 

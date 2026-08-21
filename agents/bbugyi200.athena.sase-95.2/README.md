@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9ebae15`](https://github.com/sase-org/sase/commit/9ebae1577d22b0155eb4cc95521d50e852e5d2f6) | feat(sessions): add session registry and display identity (sase-95.2) | 2026-07-25 13:06:03 UTC |
+| sase | [`9ebae15`](https://github.com/sase-org/sase/commit/9ebae1577d22b0155eb4cc95521d50e852e5d2f6) | feat(sessions): add session registry and display identity (sase-95.2) | 2026-07-25 09:06:03 EDT |
 
 ## Neighbors
 

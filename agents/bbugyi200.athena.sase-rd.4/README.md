@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4571198`](https://github.com/sase-org/sase/commit/45711984b473e4a27f4636485d666b58f7337461) | feat(ace): add hidden Snippets panel for catalog browsing and travel | 2026-08-20 14:25:20 UTC |
+| sase | [`4571198`](https://github.com/sase-org/sase/commit/45711984b473e4a27f4636485d666b58f7337461) | feat(ace): add hidden Snippets panel for catalog browsing and travel | 2026-08-20 10:25:20 EDT |
 
 ## Neighbors
 

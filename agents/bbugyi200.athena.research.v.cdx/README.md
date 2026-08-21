@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`533008a`](https://github.com/sase-org/sase/commit/533008ade0353e0af1aaeb3c5d3083f818c8b904) | docs: research directive and xprompt architecture | 2026-06-20 13:21:21 UTC |
+| sase | [`533008a`](https://github.com/sase-org/sase/commit/533008ade0353e0af1aaeb3c5d3083f818c8b904) | docs: research directive and xprompt architecture | 2026-06-20 09:21:21 EDT |
 
 ## Neighbors
 

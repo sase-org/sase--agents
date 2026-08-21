@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e701dba`](https://github.com/sase-org/sase/commit/e701dba6853f6632e6179fdc5dd17a558b69bd1e) | fix(ace): stop TUI freeze when a question gate's options contain markup | 2026-08-14 18:51:54 UTC |
+| sase | [`e701dba`](https://github.com/sase-org/sase/commit/e701dba6853f6632e6179fdc5dd17a558b69bd1e) | fix(ace): stop TUI freeze when a question gate's options contain markup | 2026-08-14 14:51:54 EDT |

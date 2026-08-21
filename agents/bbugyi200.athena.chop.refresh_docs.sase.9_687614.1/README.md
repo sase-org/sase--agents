@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5311383`](https://github.com/sase-org/sase/commit/531138373fc480b581242fbd3cee4ebadcfc4819) | docs: refresh user-facing documentation | 2026-08-06 06:40:14 UTC |
+| sase | [`5311383`](https://github.com/sase-org/sase/commit/531138373fc480b581242fbd3cee4ebadcfc4819) | docs: refresh user-facing documentation | 2026-08-06 02:40:14 EDT |
 
 ## Neighbors
 

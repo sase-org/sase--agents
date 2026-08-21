@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`64f9383`](https://github.com/sase-org/sase/commit/64f9383f12316002974c4892912e35e0d25f87e2) | docs: align guides with current SASE behavior | 2026-08-09 07:22:34 UTC |
+| sase | [`64f9383`](https://github.com/sase-org/sase/commit/64f9383f12316002974c4892912e35e0d25f87e2) | docs: align guides with current SASE behavior | 2026-08-09 03:22:34 EDT |
 
 ## Neighbors
 

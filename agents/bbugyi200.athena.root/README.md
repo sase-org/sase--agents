@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5938b6d`](https://github.com/sase-org/sase/commit/5938b6dced61635d878c9fe1fab1a61033503476) | feat!: remove automatic EpicResume gating | 2026-08-21 18:46:05 UTC |
+| sase | [`5938b6d`](https://github.com/sase-org/sase/commit/5938b6dced61635d878c9fe1fab1a61033503476) | feat!: remove automatic EpicResume gating | 2026-08-21 14:46:05 EDT |

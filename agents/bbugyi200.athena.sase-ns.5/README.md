@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8a76901`](https://github.com/sase-org/sase/commit/8a769012fde7d70ccfcfdc19dbda53e98fb05292) | fix(tui): repoint stale alias-views monkeypatch in models panel jump tests | 2026-08-16 21:57:12 UTC |
+| sase | [`8a76901`](https://github.com/sase-org/sase/commit/8a769012fde7d70ccfcfdc19dbda53e98fb05292) | fix(tui): repoint stale alias-views monkeypatch in models panel jump tests | 2026-08-16 17:57:12 EDT |
 
 ## Neighbors
 

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`02c54c6`](https://github.com/sase-org/sase/commit/02c54c6392702035d1c28098565cc7a61d299a10) | chore: Add SDD prompt and plan for kill\_waiting\_agents\_pid\_fallback | 2026-07-07 04:32:05 UTC |
+| sase | [`02c54c6`](https://github.com/sase-org/sase/commit/02c54c6392702035d1c28098565cc7a61d299a10) | chore: Add SDD prompt and plan for kill\_waiting\_agents\_pid\_fallback | 2026-07-07 00:32:05 EDT |

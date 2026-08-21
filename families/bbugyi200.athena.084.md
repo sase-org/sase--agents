@@ -30,6 +30,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`e0644ef`](https://github.com/sase-org/sase/commit/e0644efad3b457e2a2196c89ef0c19f067e6bdfe) | chore: Add SDD prompt and plan for jinja\_diagnostics\_known\_vars | 2026-06-27 15:43:03 UTC |
-| — | sase | [`9eb77c1`](https://github.com/sase-org/sase/commit/9eb77c1dd4683024e9dffb765989ad4dcaeba080) | fix: recognize prompt jinja runtime variables | 2026-06-27 15:50:40 UTC |
-| 1 | sase | [`ae87b18`](https://github.com/sase-org/sase/commit/ae87b1849141374e755429ca46ae9467cc936841) | fix(llm): auto-disable Claude on weekly-limit errors | 2026-08-19 21:35:37 UTC |
+| — | sase | [`e0644ef`](https://github.com/sase-org/sase/commit/e0644efad3b457e2a2196c89ef0c19f067e6bdfe) | chore: Add SDD prompt and plan for jinja\_diagnostics\_known\_vars | 2026-06-27 11:43:03 EDT |
+| — | sase | [`9eb77c1`](https://github.com/sase-org/sase/commit/9eb77c1dd4683024e9dffb765989ad4dcaeba080) | fix: recognize prompt jinja runtime variables | 2026-06-27 11:50:40 EDT |
+| 1 | sase | [`ae87b18`](https://github.com/sase-org/sase/commit/ae87b1849141374e755429ca46ae9467cc936841) | fix(llm): auto-disable Claude on weekly-limit errors | 2026-08-19 17:35:37 EDT |

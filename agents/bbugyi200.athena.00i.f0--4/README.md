@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9df15db`](https://github.com/sase-org/sase/commit/9df15dbe270bcd2e8fa2912e34b61d0d12db3bbf) | fix(llm\_provider): consume pooled model aliases once per real invocation | 2026-08-14 12:11:36 UTC |
+| sase | [`9df15db`](https://github.com/sase-org/sase/commit/9df15dbe270bcd2e8fa2912e34b61d0d12db3bbf) | fix(llm\_provider): consume pooled model aliases once per real invocation | 2026-08-14 08:11:36 EDT |
 
 ## Neighbors
 

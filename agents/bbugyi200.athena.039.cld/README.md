@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`482d3d2`](https://github.com/sase-org/sase/commit/482d3d2a8309a62e8b98a61430b3f0cb488dc61e) | chore: Add SDD prompt and plan for fix\_linked\_repo\_bundle\_serialization | 2026-06-21 15:11:24 UTC |
-| sase | [`4097b43`](https://github.com/sase-org/sase/commit/4097b4338162aa725b8dd11b0a56e9597ba697fa) | fix: serialize linked repo bundle metadata | 2026-06-21 15:17:58 UTC |
+| sase | [`482d3d2`](https://github.com/sase-org/sase/commit/482d3d2a8309a62e8b98a61430b3f0cb488dc61e) | chore: Add SDD prompt and plan for fix\_linked\_repo\_bundle\_serialization | 2026-06-21 11:11:24 EDT |
+| sase | [`4097b43`](https://github.com/sase-org/sase/commit/4097b4338162aa725b8dd11b0a56e9597ba697fa) | fix: serialize linked repo bundle metadata | 2026-06-21 11:17:58 EDT |

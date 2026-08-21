@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`87cffa3`](https://github.com/sase-org/sase/commit/87cffa3b8f5c246112aefd15f13405e72a38e2a4) | refactor(tests): split global state leak detector | 2026-08-11 13:38:01 UTC |
+| sase | [`87cffa3`](https://github.com/sase-org/sase/commit/87cffa3b8f5c246112aefd15f13405e72a38e2a4) | refactor(tests): split global state leak detector | 2026-08-11 09:38:01 EDT |
 
 ## Neighbors
 

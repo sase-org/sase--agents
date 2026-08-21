@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bb49553`](https://github.com/sase-org/sase/commit/bb495538abb4ee2df7672f3043b0384df778e12a) | docs: research AMD init and memory init consolidation | 2026-06-26 15:38:59 UTC |
+| sase | [`bb49553`](https://github.com/sase-org/sase/commit/bb495538abb4ee2df7672f3043b0384df778e12a) | docs: research AMD init and memory init consolidation | 2026-06-26 11:38:59 EDT |
 
 ## Neighbors
 

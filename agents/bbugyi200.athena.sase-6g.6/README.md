@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d395776`](https://github.com/sase-org/sase/commit/d39577633017b3a19a2ade11453410a928ca8f11) | feat(tui): expose parallel agent family details (sase-6g.6) | 2026-07-17 00:43:48 UTC |
+| sase | [`d395776`](https://github.com/sase-org/sase/commit/d39577633017b3a19a2ade11453410a928ca8f11) | feat(tui): expose parallel agent family details (sase-6g.6) | 2026-07-16 20:43:48 EDT |
 
 ## Neighbors
 

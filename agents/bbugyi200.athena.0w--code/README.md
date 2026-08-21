@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`77d9330`](https://github.com/sase-org/sase/commit/77d933029cf8d4027fe4eefab6af4219f7b5c784) | fix: avoid credential prompts during ref completion | 2026-07-07 20:25:09 UTC |
+| sase | [`77d9330`](https://github.com/sase-org/sase/commit/77d933029cf8d4027fe4eefab6af4219f7b5c784) | fix: avoid credential prompts during ref completion | 2026-07-07 16:25:09 EDT |

@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`7fe068c`](https://github.com/sase-org/sase/commit/7fe068cee9708f74ff50395bbc15f6c451fc38ba) | fix: allow family conversion beside hood prefix claims | 2026-08-03 13:36:26 UTC |
+| code | sase | [`7fe068c`](https://github.com/sase-org/sase/commit/7fe068cee9708f74ff50395bbc15f6c451fc38ba) | fix: allow family conversion beside hood prefix claims | 2026-08-03 09:36:26 EDT |

@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7722d31`](https://github.com/sase-org/sase/commit/7722d31450ee10f5d1263d9a107733b159b8c3a3) | feat: resolve indexed names in single-agent runtime (sase-46.2) | 2026-05-27 15:37:24 UTC |
+| sase | [`7722d31`](https://github.com/sase-org/sase/commit/7722d31450ee10f5d1263d9a107733b159b8c3a3) | feat: resolve indexed names in single-agent runtime (sase-46.2) | 2026-05-27 11:37:24 EDT |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dac3655`](https://github.com/sase-org/sase/commit/dac3655f3af39869019f591279ddae828e81725c) | feat(tui): add mini-xprompt pane lifecycle | 2026-08-21 09:47:03 UTC |
+| sase | [`dac3655`](https://github.com/sase-org/sase/commit/dac3655f3af39869019f591279ddae828e81725c) | feat(tui): add mini-xprompt pane lifecycle | 2026-08-21 05:47:03 EDT |
 
 ## Neighbors
 

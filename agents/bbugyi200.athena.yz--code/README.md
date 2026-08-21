@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2fb4313`](https://github.com/sase-org/sase/commit/2fb4313af7385e43b2d4788a0c809d622cdcd7b0) | fix(axe): close core-capability skew that killed agent\_runners startup | 2026-08-12 21:43:04 UTC |
+| sase | [`2fb4313`](https://github.com/sase-org/sase/commit/2fb4313af7385e43b2d4788a0c809d622cdcd7b0) | fix(axe): close core-capability skew that killed agent\_runners startup | 2026-08-12 17:43:04 EDT |

@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`009a8b8`](https://github.com/sase-org/sase/commit/009a8b86113d905bc474372ef5d9eb10cc33231e) | chore: Add SDD prompt and plan for save\_marked\_agents\_background\_task | 2026-06-24 16:24:17 UTC |
-| — | sase | [`10f43ed`](https://github.com/sase-org/sase/commit/10f43ed2a2e5048227ccab8f9153a303b60e9a4a) | perf(tui): track marked-agent save persistence | 2026-06-24 16:32:28 UTC |
-| code | sase | [`e4319db`](https://github.com/sase-org/sase/commit/e4319dbb413845cd3bba73471dd6049ab16ddacc) | fix(glossary): infer project from numbered managed workspaces | 2026-08-18 10:55:51 UTC |
+| — | sase | [`009a8b8`](https://github.com/sase-org/sase/commit/009a8b86113d905bc474372ef5d9eb10cc33231e) | chore: Add SDD prompt and plan for save\_marked\_agents\_background\_task | 2026-06-24 12:24:17 EDT |
+| — | sase | [`10f43ed`](https://github.com/sase-org/sase/commit/10f43ed2a2e5048227ccab8f9153a303b60e9a4a) | perf(tui): track marked-agent save persistence | 2026-06-24 12:32:28 EDT |
+| code | sase | [`e4319db`](https://github.com/sase-org/sase/commit/e4319dbb413845cd3bba73471dd6049ab16ddacc) | fix(glossary): infer project from numbered managed workspaces | 2026-08-18 06:55:51 EDT |

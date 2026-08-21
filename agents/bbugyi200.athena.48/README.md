@@ -21,5 +21,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b5545ba`](https://github.com/sase-org/sase/commit/b5545ba2f8708029b0cd7e9c3426947601a9347f) | chore: Add SDD prompt and plan for agent\_restore\_preview\_roots\_prompts | 2026-06-09 17:07:43 UTC |
-| sase | [`2fdb10e`](https://github.com/sase-org/sase/commit/2fdb10e163479707a952530e8cff8a62d15c6df0) | feat: show prompt previews in agent restore records | 2026-06-09 17:17:24 UTC |
+| sase | [`b5545ba`](https://github.com/sase-org/sase/commit/b5545ba2f8708029b0cd7e9c3426947601a9347f) | chore: Add SDD prompt and plan for agent\_restore\_preview\_roots\_prompts | 2026-06-09 13:07:43 EDT |
+| sase | [`2fdb10e`](https://github.com/sase-org/sase/commit/2fdb10e163479707a952530e8cff8a62d15c6df0) | feat: show prompt previews in agent restore records | 2026-06-09 13:17:24 EDT |

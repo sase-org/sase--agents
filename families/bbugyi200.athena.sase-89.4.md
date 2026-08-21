@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`e917679`](https://github.com/sase-org/sase/commit/e917679d1d690aa19241fce1d755ac7dba0bce4f) | fix: prevent canonical project keys leaking into displays (sase-89.4) | 2026-07-20 18:47:14 UTC |
+| — | sase | [`e917679`](https://github.com/sase-org/sase/commit/e917679d1d690aa19241fce1d755ac7dba0bce4f) | fix: prevent canonical project keys leaking into displays (sase-89.4) | 2026-07-20 14:47:14 EDT |
 
 ## Neighbors
 

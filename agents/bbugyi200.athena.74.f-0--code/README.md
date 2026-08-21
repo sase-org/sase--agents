@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`19bcf39`](https://github.com/sase-org/sase/commit/19bcf3944fee8d6c934f8db980310b9fa08138a7) | feat: render generated markdown from packaged templates | 2026-07-12 20:31:16 UTC |
+| sase | [`19bcf39`](https://github.com/sase-org/sase/commit/19bcf3944fee8d6c934f8db980310b9fa08138a7) | feat: render generated markdown from packaged templates | 2026-07-12 16:31:16 EDT |
 
 ## Neighbors
 

@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`9162b27`](https://github.com/sase-org/sase/commit/9162b27e32fd8971a48daa1902a385f1a13f95f8) | fix(bead): wait for sync worker before launch publication | 2026-08-03 16:32:39 UTC |
+| code | sase | [`9162b27`](https://github.com/sase-org/sase/commit/9162b27e32fd8971a48daa1902a385f1a13f95f8) | fix(bead): wait for sync worker before launch publication | 2026-08-03 12:32:39 EDT |

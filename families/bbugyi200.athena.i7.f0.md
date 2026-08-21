@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`6d6cf8e`](https://github.com/sase-org/sase/commit/6d6cf8e773f6bf192af569829262d67c3b1dc96d) | fix(ace): use deep navy for TODO markers | 2026-07-22 15:27:07 UTC |
+| code | sase | [`6d6cf8e`](https://github.com/sase-org/sase/commit/6d6cf8e773f6bf192af569829262d67c3b1dc96d) | fix(ace): use deep navy for TODO markers | 2026-07-22 11:27:07 EDT |
 
 ## Neighbors
 

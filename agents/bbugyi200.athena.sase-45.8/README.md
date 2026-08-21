@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fb950c2`](https://github.com/sase-org/sase/commit/fb950c283572b3985bd66d6efa42dcb07e4a40a9) | feat: add memory episode e2e coverage and docs (sase-45.8) | 2026-05-27 01:12:06 UTC |
+| sase | [`fb950c2`](https://github.com/sase-org/sase/commit/fb950c283572b3985bd66d6efa42dcb07e4a40a9) | feat: add memory episode e2e coverage and docs (sase-45.8) | 2026-05-26 21:12:06 EDT |
 
 ## Neighbors
 

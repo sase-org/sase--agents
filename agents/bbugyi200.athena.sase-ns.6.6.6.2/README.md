@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`24481ab`](https://github.com/sase-org/sase/commit/24481abd4e5139bb379aacf488b435477b4f268a) | test: rebaseline 11 ACE PNG goldens and refresh fakey index | 2026-08-17 10:25:10 UTC |
+| sase | [`24481ab`](https://github.com/sase-org/sase/commit/24481abd4e5139bb379aacf488b435477b4f268a) | test: rebaseline 11 ACE PNG goldens and refresh fakey index | 2026-08-17 06:25:10 EDT |
 
 ## Neighbors
 

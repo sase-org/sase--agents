@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`30f3a22`](https://github.com/sase-org/sase/commit/30f3a22c86d445f7be5560bc7e9a966286c1bd60) | fix(ace): prioritize queued clan status | 2026-07-26 12:22:28 UTC |
+| sase | [`30f3a22`](https://github.com/sase-org/sase/commit/30f3a22c86d445f7be5560bc7e9a966286c1bd60) | fix(ace): prioritize queued clan status | 2026-07-26 08:22:28 EDT |

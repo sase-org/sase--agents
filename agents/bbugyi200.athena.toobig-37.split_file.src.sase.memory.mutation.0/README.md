@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7eabf07`](https://github.com/sase-org/sase/commit/7eabf07c7858198132cc8d05b1d7be0a4ff20e0f) | refactor(memory): split mutation under 500-line cap | 2026-08-20 04:20:13 UTC |
+| sase | [`7eabf07`](https://github.com/sase-org/sase/commit/7eabf07c7858198132cc8d05b1d7be0a4ff20e0f) | refactor(memory): split mutation under 500-line cap | 2026-08-20 00:20:13 EDT |
 
 ## Neighbors
 

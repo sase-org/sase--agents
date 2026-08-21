@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6d1b787`](https://github.com/sase-org/sase/commit/6d1b78797e629fa4429f38fc0f81029255929626) | chore: close epic sase-5c and mark plan done | 2026-06-27 21:27:28 UTC |
+| sase | [`6d1b787`](https://github.com/sase-org/sase/commit/6d1b78797e629fa4429f38fc0f81029255929626) | chore: close epic sase-5c and mark plan done | 2026-06-27 17:27:28 EDT |
 
 ## Neighbors
 

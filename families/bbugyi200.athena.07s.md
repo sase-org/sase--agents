@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`5057a26`](https://github.com/sase-org/sase/commit/5057a264ed6df114edabc9ee04c7476555493169) | feat(glossary): add \`sase glossary all\` catalog view | 2026-08-19 14:18:57 UTC |
+| — | sase | [`5057a26`](https://github.com/sase-org/sase/commit/5057a264ed6df114edabc9ee04c7476555493169) | feat(glossary): add \`sase glossary all\` catalog view | 2026-08-19 10:18:57 EDT |

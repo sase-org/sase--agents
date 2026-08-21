@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`46d6ce5`](https://github.com/sase-org/sase/commit/46d6ce5e38f68766e2a7fe603fbe4d07c0f89318) | refactor(tui): split vim normal mode handlers | 2026-06-16 00:12:36 UTC |
+| sase | [`46d6ce5`](https://github.com/sase-org/sase/commit/46d6ce5e38f68766e2a7fe603fbe4d07c0f89318) | refactor(tui): split vim normal mode handlers | 2026-06-15 20:12:36 EDT |
 
 ## Neighbors
 

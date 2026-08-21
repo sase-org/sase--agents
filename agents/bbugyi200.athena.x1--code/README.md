@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c8d5b3d`](https://github.com/sase-org/sase/commit/c8d5b3d0a4a7061a8e813d04e81d32f4512a7fcc) | feat(ace): show authored task plans in agent context | 2026-08-10 14:40:24 UTC |
+| sase | [`c8d5b3d`](https://github.com/sase-org/sase/commit/c8d5b3d0a4a7061a8e813d04e81d32f4512a7fcc) | feat(ace): show authored task plans in agent context | 2026-08-10 10:40:24 EDT |

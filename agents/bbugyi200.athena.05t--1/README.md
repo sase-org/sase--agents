@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b582f11`](https://github.com/sase-org/sase/commit/b582f118028c79bb3229dce175f7a86aa07607cb) | feat(cli): add sase agent restart for kill-and-relaunch by name | 2026-08-18 12:21:43 UTC |
+| sase | [`b582f11`](https://github.com/sase-org/sase/commit/b582f118028c79bb3229dce175f7a86aa07607cb) | feat(cli): add sase agent restart for kill-and-relaunch by name | 2026-08-18 08:21:43 EDT |
 
 ## Neighbors
 

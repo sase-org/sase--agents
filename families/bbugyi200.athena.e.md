@@ -24,8 +24,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`8ed98b1`](https://github.com/sase-org/sase/commit/8ed98b1207df9c697ed7ab0086e1e8c490e0671b) | chore: Add SDD prompt and plan for fix\_wait\_time\_countdown\_and\_family\_queue\_deadlock | 2026-07-06 17:36:12 UTC |
-| code | sase | [`5ca4379`](https://github.com/sase-org/sase/commit/5ca4379b7820886390dbac298e2fd366a2587804) | fix: unblock queued family waits | 2026-07-06 17:58:07 UTC |
+| root | sase | [`8ed98b1`](https://github.com/sase-org/sase/commit/8ed98b1207df9c697ed7ab0086e1e8c490e0671b) | chore: Add SDD prompt and plan for fix\_wait\_time\_countdown\_and\_family\_queue\_deadlock | 2026-07-06 13:36:12 EDT |
+| code | sase | [`5ca4379`](https://github.com/sase-org/sase/commit/5ca4379b7820886390dbac298e2fd366a2587804) | fix: unblock queued family waits | 2026-07-06 13:58:07 EDT |
 
 ## Neighbors
 

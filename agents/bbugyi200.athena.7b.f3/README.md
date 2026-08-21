@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`48803cc`](https://github.com/sase-org/sase/commit/48803cc017d00add3a9ea8a569e2f984b1a42d31) | chore: Add SDD prompt and plan for log\_skill\_use\_config | 2026-06-14 16:48:49 UTC |
-| sase | [`a4bcf9f`](https://github.com/sase-org/sase/commit/a4bcf9fc0a7ebefdaa345759853e964ed4ca4299) | feat(xprompt): add log\_skill\_use to control audit directive injection | 2026-06-14 17:01:22 UTC |
+| sase | [`48803cc`](https://github.com/sase-org/sase/commit/48803cc017d00add3a9ea8a569e2f984b1a42d31) | chore: Add SDD prompt and plan for log\_skill\_use\_config | 2026-06-14 12:48:49 EDT |
+| sase | [`a4bcf9f`](https://github.com/sase-org/sase/commit/a4bcf9fc0a7ebefdaa345759853e964ed4ca4299) | feat(xprompt): add log\_skill\_use to control audit directive injection | 2026-06-14 13:01:22 EDT |
 
 ## Neighbors
 

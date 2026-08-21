@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b997ba2`](https://github.com/sase-org/sase/commit/b997ba26467b2dc927577abc636407f42a239510) | test(tui): split retry edit tests into prompt and agent modules | 2026-08-19 05:27:07 UTC |
+| sase | [`b997ba2`](https://github.com/sase-org/sase/commit/b997ba26467b2dc927577abc636407f42a239510) | test(tui): split retry edit tests into prompt and agent modules | 2026-08-19 01:27:07 EDT |
 
 ## Neighbors
 

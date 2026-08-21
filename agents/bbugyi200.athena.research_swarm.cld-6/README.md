@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bc92ee3`](https://github.com/sase-org/sase/commit/bc92ee3fe2da4fbd83883a1e388842a642531db7) | chore: add critique of episode necessity for sdd/events | 2026-05-29 13:38:03 UTC |
+| sase | [`bc92ee3`](https://github.com/sase-org/sase/commit/bc92ee3fe2da4fbd83883a1e388842a642531db7) | chore: add critique of episode necessity for sdd/events | 2026-05-29 09:38:03 EDT |
 
 ## Neighbors
 

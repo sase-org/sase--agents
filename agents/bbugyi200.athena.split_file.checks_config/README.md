@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`15072d9`](https://github.com/sase-org/sase/commit/15072d9c77ee883b759c949e58cec701ab4d2d6e) | refactor(doctor): split config checks into modules | 2026-07-06 11:58:50 UTC |
+| sase | [`15072d9`](https://github.com/sase-org/sase/commit/15072d9c77ee883b759c949e58cec701ab4d2d6e) | refactor(doctor): split config checks into modules | 2026-07-06 07:58:50 EDT |
 
 ## Neighbors
 

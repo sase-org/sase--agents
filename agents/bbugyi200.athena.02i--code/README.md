@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c62765e`](https://github.com/sase-org/sase/commit/c62765eb7f3bca0e3a171ab923a5c25e4d6554e4) | feat(ace): complete flat artifact query migration | 2026-08-15 18:55:45 UTC |
+| sase | [`c62765e`](https://github.com/sase-org/sase/commit/c62765eb7f3bca0e3a171ab923a5c25e4d6554e4) | feat(ace): complete flat artifact query migration | 2026-08-15 14:55:45 EDT |

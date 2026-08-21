@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`be10bae`](https://github.com/sase-org/sase/commit/be10baea6338f12416db0e01f0af1b820d8a6fb6) | chore: Add SDD prompt and plan for fix\_working\_status\_invariants | 2026-06-22 12:36:22 UTC |
-| sase | [`9de865b`](https://github.com/sase-org/sase/commit/9de865bf4eec23383ef242c552f969e6aef1eee5) | fix(tui): preserve working status invariants | 2026-06-22 12:47:16 UTC |
+| sase | [`be10bae`](https://github.com/sase-org/sase/commit/be10baea6338f12416db0e01f0af1b820d8a6fb6) | chore: Add SDD prompt and plan for fix\_working\_status\_invariants | 2026-06-22 08:36:22 EDT |
+| sase | [`9de865b`](https://github.com/sase-org/sase/commit/9de865bf4eec23383ef242c552f969e6aef1eee5) | fix(tui): preserve working status invariants | 2026-06-22 08:47:16 EDT |
 
 ## Neighbors
 

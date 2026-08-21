@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1417693`](https://github.com/sase-org/sase/commit/14176932efbafac00eedb6ae1b8473b954f0e4a1) | fix: show agent name first in prompt details | 2026-05-27 14:55:14 UTC |
+| sase | [`1417693`](https://github.com/sase-org/sase/commit/14176932efbafac00eedb6ae1b8473b954f0e4a1) | fix: show agent name first in prompt details | 2026-05-27 10:55:14 EDT |
 
 ## Neighbors
 

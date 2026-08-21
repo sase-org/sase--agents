@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9765fa7`](https://github.com/sase-org/sase/commit/9765fa7d6e3ed6435d5ab01b1a1699f7d2d8cdd2) | feat: surface SDD commits in agent metadata | 2026-07-08 22:36:41 UTC |
+| sase | [`9765fa7`](https://github.com/sase-org/sase/commit/9765fa7d6e3ed6435d5ab01b1a1699f7d2d8cdd2) | feat: surface SDD commits in agent metadata | 2026-07-08 18:36:41 EDT |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c2c8e88`](https://github.com/sase-org/sase/commit/c2c8e883d21188af90675ceae3631a16a64eaae5) | feat(ace): underline glossary terms in prompt | 2026-08-09 12:28:23 UTC |
+| sase | [`c2c8e88`](https://github.com/sase-org/sase/commit/c2c8e883d21188af90675ceae3631a16a64eaae5) | feat(ace): underline glossary terms in prompt | 2026-08-09 08:28:23 EDT |
 
 ## Neighbors
 

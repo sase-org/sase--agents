@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`a565355`](https://github.com/sase-org/sase/commit/a5653558650161f551d09d341259eb857ad7f4fa) | chore: Add SDD prompt and plan for kill\_child\_agent\_entries | 2026-07-06 17:57:02 UTC |
+| root | sase | [`a565355`](https://github.com/sase-org/sase/commit/a5653558650161f551d09d341259eb857ad7f4fa) | chore: Add SDD prompt and plan for kill\_child\_agent\_entries | 2026-07-06 13:57:02 EDT |

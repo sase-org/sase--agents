@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f35fa95`](https://github.com/sase-org/sase/commit/f35fa95482c481893dae821977430acfdeab8074) | fix(ace): align BY\_DATE buckets with terminal anchors | 2026-08-09 12:18:59 UTC |
+| code | sase | [`f35fa95`](https://github.com/sase-org/sase/commit/f35fa95482c481893dae821977430acfdeab8074) | fix(ace): align BY\_DATE buckets with terminal anchors | 2026-08-09 08:18:59 EDT |

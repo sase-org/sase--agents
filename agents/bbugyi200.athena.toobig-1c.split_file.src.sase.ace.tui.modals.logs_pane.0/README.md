@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b9b3d5b`](https://github.com/sase-org/sase/commit/b9b3d5bc6394122a2963452ced6e4f3a6f64fa74) | refactor(ace): split logs pane into focused modules | 2026-08-01 16:28:16 UTC |
+| sase | [`b9b3d5b`](https://github.com/sase-org/sase/commit/b9b3d5bc6394122a2963452ced6e4f3a6f64fa74) | refactor(ace): split logs pane into focused modules | 2026-08-01 12:28:16 EDT |
 
 ## Neighbors
 

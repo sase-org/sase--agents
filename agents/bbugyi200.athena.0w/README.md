@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cd2be5d`](https://github.com/sase-org/sase/commit/cd2be5d63981331fbaaa87e864cd6fe06ab66f0d) | chore: Add SDD prompt and plan for gh\_ref\_tui\_credential\_freeze | 2026-07-07 20:04:43 UTC |
+| sase | [`cd2be5d`](https://github.com/sase-org/sase/commit/cd2be5d63981331fbaaa87e864cd6fe06ab66f0d) | chore: Add SDD prompt and plan for gh\_ref\_tui\_credential\_freeze | 2026-07-07 16:04:43 EDT |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a0a2e40`](https://github.com/sase-org/sase/commit/a0a2e4007ae03a801a00f85d79a286683dc2c515) | fix(ace): canonicalize prompt-bar VCS-tag xprompt lookup (sase-ac.6.2) | 2026-07-28 13:29:24 UTC |
+| sase | [`a0a2e40`](https://github.com/sase-org/sase/commit/a0a2e4007ae03a801a00f85d79a286683dc2c515) | fix(ace): canonicalize prompt-bar VCS-tag xprompt lookup (sase-ac.6.2) | 2026-07-28 09:29:24 EDT |
 
 ## Neighbors
 

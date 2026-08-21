@@ -21,5 +21,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9778909`](https://github.com/sase-org/sase/commit/9778909b3e95d60b267d1a53bf9152390ee7016c) | chore: Add SDD prompt and plan for remove\_leader\_x\_bulk\_kill\_edit | 2026-06-17 11:22:32 UTC |
-| sase | [`fae3c9e`](https://github.com/sase-org/sase/commit/fae3c9e11a8bbedd1833980b7aef048403fef388) | feat(tui)!: fold marked kill-and-edit into contextual leader \`,x\` | 2026-06-17 11:35:04 UTC |
+| sase | [`9778909`](https://github.com/sase-org/sase/commit/9778909b3e95d60b267d1a53bf9152390ee7016c) | chore: Add SDD prompt and plan for remove\_leader\_x\_bulk\_kill\_edit | 2026-06-17 07:22:32 EDT |
+| sase | [`fae3c9e`](https://github.com/sase-org/sase/commit/fae3c9e11a8bbedd1833980b7aef048403fef388) | feat(tui)!: fold marked kill-and-edit into contextual leader \`,x\` | 2026-06-17 07:35:04 EDT |

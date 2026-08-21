@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`766469d`](https://github.com/sase-org/sase/commit/766469d7e5c1e7f4d2db9f4bc488a390e1248f7d) | feat(tui): add kind-scaled fold levels (sase-6z.1) | 2026-07-19 02:29:23 UTC |
+| sase | [`766469d`](https://github.com/sase-org/sase/commit/766469d7e5c1e7f4d2db9f4bc488a390e1248f7d) | feat(tui): add kind-scaled fold levels (sase-6z.1) | 2026-07-18 22:29:23 EDT |
 
 ## Neighbors
 

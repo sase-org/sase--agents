@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c91a032`](https://github.com/sase-org/sase/commit/c91a032882aaf7fd6c5bd127e1c2bf98edb23bcd) | fix(uv-tool): write editable overrides for tool reinstalls | 2026-07-07 18:03:48 UTC |
+| sase | [`c91a032`](https://github.com/sase-org/sase/commit/c91a032882aaf7fd6c5bd127e1c2bf98edb23bcd) | fix(uv-tool): write editable overrides for tool reinstalls | 2026-07-07 14:03:48 EDT |

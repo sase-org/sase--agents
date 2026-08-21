@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a6c09c8`](https://github.com/sase-org/sase/commit/a6c09c88b880380d6a8b7cae83308be83d581ac8) | docs: correct and clarify recently refreshed guides | 2026-08-17 03:35:25 UTC |
+| sase | [`a6c09c8`](https://github.com/sase-org/sase/commit/a6c09c88b880380d6a8b7cae83308be83d581ac8) | docs: correct and clarify recently refreshed guides | 2026-08-16 23:35:25 EDT |
 
 ## Neighbors
 

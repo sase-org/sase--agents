@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`70d4214`](https://github.com/sase-org/sase/commit/70d4214cfa1c98c850ee55ad0c303a81435f2159) | chore: Add SDD prompt and plan for zoom\_file\_reverse\_cycle | 2026-06-23 13:02:11 UTC |
-| — | sase | [`229050d`](https://github.com/sase-org/sase/commit/229050d10b4446af76af8d887b58e822d4e286f7) | test(ace): cover zoom modal file cycling in both directions | 2026-06-23 13:18:51 UTC |
-| code | sase | [`83e2cee`](https://github.com/sase-org/sase/commit/83e2ceea6a47e3234d58a2a206a3be2f32eb8fb1) | feat(ace): unify monitor gear iconography across nodes and the top bar | 2026-08-16 21:15:13 UTC |
+| — | sase | [`70d4214`](https://github.com/sase-org/sase/commit/70d4214cfa1c98c850ee55ad0c303a81435f2159) | chore: Add SDD prompt and plan for zoom\_file\_reverse\_cycle | 2026-06-23 09:02:11 EDT |
+| — | sase | [`229050d`](https://github.com/sase-org/sase/commit/229050d10b4446af76af8d887b58e822d4e286f7) | test(ace): cover zoom modal file cycling in both directions | 2026-06-23 09:18:51 EDT |
+| code | sase | [`83e2cee`](https://github.com/sase-org/sase/commit/83e2ceea6a47e3234d58a2a206a3be2f32eb8fb1) | feat(ace): unify monitor gear iconography across nodes and the top bar | 2026-08-16 17:15:13 EDT |

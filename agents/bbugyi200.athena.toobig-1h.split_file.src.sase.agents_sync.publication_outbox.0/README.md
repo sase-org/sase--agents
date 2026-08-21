@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`028a69b`](https://github.com/sase-org/sase/commit/028a69b59d3fe492fe26dd970893f2430300504b) | refactor(agents-sync): split publication outbox module | 2026-08-03 16:01:12 UTC |
+| sase | [`028a69b`](https://github.com/sase-org/sase/commit/028a69b59d3fe492fe26dd970893f2430300504b) | refactor(agents-sync): split publication outbox module | 2026-08-03 12:01:12 EDT |
 
 ## Neighbors
 

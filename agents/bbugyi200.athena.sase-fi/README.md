@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2ac967d`](https://github.com/sase-org/sase/commit/2ac967d781bb182891932ac680e8235bbc9f92b2) | fix(agents-sync): retry deferred prompt archives on the full sync path | 2026-08-06 20:30:35 UTC |
+| sase | [`2ac967d`](https://github.com/sase-org/sase/commit/2ac967d781bb182891932ac680e8235bbc9f92b2) | fix(agents-sync): retry deferred prompt archives on the full sync path | 2026-08-06 16:30:35 EDT |

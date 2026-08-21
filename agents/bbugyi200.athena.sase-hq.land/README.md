@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4d3262f`](https://github.com/sase-org/sase/commit/4d3262f5c6b23f6e1c11f857844ffe4cc6ba82dc) | refactor(glossary): retire sase-hq epic symbols and finish landing cleanup | 2026-08-09 01:31:53 UTC |
+| sase | [`4d3262f`](https://github.com/sase-org/sase/commit/4d3262f5c6b23f6e1c11f857844ffe4cc6ba82dc) | refactor(glossary): retire sase-hq epic symbols and finish landing cleanup | 2026-08-08 21:31:53 EDT |
 
 ## Neighbors
 

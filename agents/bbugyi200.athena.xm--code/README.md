@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`37bbaa7`](https://github.com/sase-org/sase/commit/37bbaa7699d221a582ef09c5f683fad0e25d26d5) | feat: show model alias provenance in model labels | 2026-08-10 20:50:31 UTC |
+| sase | [`37bbaa7`](https://github.com/sase-org/sase/commit/37bbaa7699d221a582ef09c5f683fad0e25d26d5) | feat: show model alias provenance in model labels | 2026-08-10 16:50:31 EDT |

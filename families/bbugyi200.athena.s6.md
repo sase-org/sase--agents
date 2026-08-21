@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`a39ca1f`](https://github.com/sase-org/sase/commit/a39ca1f9d4cb3c5c2579ff7075dbc9a4007ab28e) | fix(llm): route claude coder default to gpt-5.5 | 2026-08-02 16:09:19 UTC |
+| code | sase | [`a39ca1f`](https://github.com/sase-org/sase/commit/a39ca1f9d4cb3c5c2579ff7075dbc9a4007ab28e) | fix(llm): route claude coder default to gpt-5.5 | 2026-08-02 12:09:19 EDT |

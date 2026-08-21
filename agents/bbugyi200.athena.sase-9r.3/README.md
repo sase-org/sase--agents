@@ -23,8 +23,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`87d46a6`](https://github.com/sase-org/sase/commit/87d46a659e4386136acf96e2ccb74f0eba836148) | fix(agents-sync): break the agents\_sync/ace.tui import cycle (sase-9r.3) | 2026-07-26 11:47:58 UTC |
-| sase | [`a4b9515`](https://github.com/sase-org/sase/commit/a4b9515b5b3cb8c626a291e6324fca68b86eec71) | fix(sdd): stop reporting git probe failures as "no conflicts" (sase-9r.3) | 2026-07-26 11:54:19 UTC |
+| sase | [`87d46a6`](https://github.com/sase-org/sase/commit/87d46a659e4386136acf96e2ccb74f0eba836148) | fix(agents-sync): break the agents\_sync/ace.tui import cycle (sase-9r.3) | 2026-07-26 07:47:58 EDT |
+| sase | [`a4b9515`](https://github.com/sase-org/sase/commit/a4b9515b5b3cb8c626a291e6324fca68b86eec71) | fix(sdd): stop reporting git probe failures as "no conflicts" (sase-9r.3) | 2026-07-26 07:54:19 EDT |
 
 ## Neighbors
 

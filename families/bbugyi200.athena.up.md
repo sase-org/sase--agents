@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`6399389`](https://github.com/sase-org/sase/commit/6399389e5994a9fef98dceb34f0452b350f36c5c) | feat(ace): show a cursor line/column readout for every prompt input pane | 2026-08-07 15:17:19 UTC |
+| code | sase | [`6399389`](https://github.com/sase-org/sase/commit/6399389e5994a9fef98dceb34f0452b350f36c5c) | feat(ace): show a cursor line/column readout for every prompt input pane | 2026-08-07 11:17:19 EDT |

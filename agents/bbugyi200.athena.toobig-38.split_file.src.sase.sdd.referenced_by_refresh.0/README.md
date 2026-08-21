@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b6864fd`](https://github.com/sase-org/sase/commit/b6864fdb600ffbd5bcacd770740c2788f53e64d9) | refactor(sdd): split referenced-by refresh module | 2026-08-20 13:21:48 UTC |
+| sase | [`b6864fd`](https://github.com/sase-org/sase/commit/b6864fdb600ffbd5bcacd770740c2788f53e64d9) | refactor(sdd): split referenced-by refresh module | 2026-08-20 09:21:48 EDT |

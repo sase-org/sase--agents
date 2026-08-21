@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`0f273b6`](https://github.com/sase-org/sase/commit/0f273b6083eca865bc23b6064fb37ef3d88502fa) | feat(ace): add word to aspell personal dictionary from spellcheck panel | 2026-08-01 12:27:58 UTC |
+| code | sase | [`0f273b6`](https://github.com/sase-org/sase/commit/0f273b6083eca865bc23b6064fb37ef3d88502fa) | feat(ace): add word to aspell personal dictionary from spellcheck panel | 2026-08-01 08:27:58 EDT |
 
 ## Neighbors
 

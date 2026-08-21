@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`8b8acb4`](https://github.com/sase-org/sase/commit/8b8acb4335881db4d490650461652237a405dd60) | fix(agents-sync): stop dismissed agents' owned legacy-v1 hoods from importing as unknown-user | 2026-08-06 14:30:07 UTC |
+| — | sase | [`8b8acb4`](https://github.com/sase-org/sase/commit/8b8acb4335881db4d490650461652237a405dd60) | fix(agents-sync): stop dismissed agents' owned legacy-v1 hoods from importing as unknown-user | 2026-08-06 10:30:07 EDT |

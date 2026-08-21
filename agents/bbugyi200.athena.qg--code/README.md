@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`01ace66`](https://github.com/sase-org/sase/commit/01ace663f411fc6eab8d6bbfbf2f73cb5c3fe2d7) | feat(bead): show type indicator in \`sase bead list\` compact rows | 2026-07-31 15:24:50 UTC |
+| sase | [`01ace66`](https://github.com/sase-org/sase/commit/01ace663f411fc6eab8d6bbfbf2f73cb5c3fe2d7) | feat(bead): show type indicator in \`sase bead list\` compact rows | 2026-07-31 11:24:50 EDT |
 
 ## Neighbors
 

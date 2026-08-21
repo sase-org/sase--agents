@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6f027ae`](https://github.com/sase-org/sase/commit/6f027ae6b499eeec91608ccaa9f848a93dd23248) | fix(beads): pin child-epic monitors to clanned phase lanes | 2026-08-15 09:39:08 UTC |
+| sase | [`6f027ae`](https://github.com/sase-org/sase/commit/6f027ae6b499eeec91608ccaa9f848a93dd23248) | fix(beads): pin child-epic monitors to clanned phase lanes | 2026-08-15 05:39:08 EDT |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`22d3906`](https://github.com/sase-org/sase/commit/22d3906155cf97804938ddc70beb55168009ce6b) | fix(notifications): limit completion image attachments | 2026-07-10 14:40:46 UTC |
+| sase | [`22d3906`](https://github.com/sase-org/sase/commit/22d3906155cf97804938ddc70beb55168009ce6b) | fix(notifications): limit completion image attachments | 2026-07-10 10:40:46 EDT |

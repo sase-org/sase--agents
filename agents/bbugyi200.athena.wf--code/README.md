@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e5487ce`](https://github.com/sase-org/sase/commit/e5487ce35812e88e758e7daa3638da25dd3b0fcd) | fix(tui): keep prompt glossary highlights stable while typing | 2026-08-09 13:27:19 UTC |
+| sase | [`e5487ce`](https://github.com/sase-org/sase/commit/e5487ce35812e88e758e7daa3638da25dd3b0fcd) | fix(tui): keep prompt glossary highlights stable while typing | 2026-08-09 09:27:19 EDT |

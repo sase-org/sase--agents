@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3e86001`](https://github.com/sase-org/sase/commit/3e8600168e4845566525836546e81cbadc5fbfe4) | test: normalize the contract-set budget guard against a calibration probe | 2026-08-06 06:15:26 UTC |
+| sase | [`3e86001`](https://github.com/sase-org/sase/commit/3e8600168e4845566525836546e81cbadc5fbfe4) | test: normalize the contract-set budget guard against a calibration probe | 2026-08-06 02:15:26 EDT |
 
 ## Neighbors
 

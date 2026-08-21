@@ -30,4 +30,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`b8d26eb`](https://github.com/sase-org/sase/commit/b8d26eb035a7d9ff8bc2e2d108ab1ad88b9c9b5c) | feat(ace-tui): collapse the artifacts relations rail with \`.\` | 2026-08-17 12:58:01 UTC |
+| — | sase | [`b8d26eb`](https://github.com/sase-org/sase/commit/b8d26eb035a7d9ff8bc2e2d108ab1ad88b9c9b5c) | feat(ace-tui): collapse the artifacts relations rail with \`.\` | 2026-08-17 08:58:01 EDT |

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`50e5693`](https://github.com/sase-org/sase/commit/50e5693e88ce5723c45d1dac3fbcec7ce0095fb5) | fix(bead): limit epic phase planning to large work | 2026-07-23 17:11:05 UTC |
+| sase | [`50e5693`](https://github.com/sase-org/sase/commit/50e5693e88ce5723c45d1dac3fbcec7ce0095fb5) | fix(bead): limit epic phase planning to large work | 2026-07-23 13:11:05 EDT |
 
 ## Neighbors
 

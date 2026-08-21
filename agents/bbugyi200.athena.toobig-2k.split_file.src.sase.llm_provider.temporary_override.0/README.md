@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4f22634`](https://github.com/sase-org/sase/commit/4f22634fe42d875700572355af85ef1cc174cea7) | refactor(llm-provider): split temporary\_override into layered modules | 2026-08-13 15:40:59 UTC |
+| sase | [`4f22634`](https://github.com/sase-org/sase/commit/4f22634fe42d875700572355af85ef1cc174cea7) | refactor(llm-provider): split temporary\_override into layered modules | 2026-08-13 11:40:59 EDT |
 
 ## Neighbors
 

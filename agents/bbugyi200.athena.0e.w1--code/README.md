@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`410e885`](https://github.com/sase-org/sase/commit/410e885325c8f01cf1e2394f513c60eedbcb0a44) | feat(tui): improve ACE tab guide content | 2026-07-07 15:50:27 UTC |
+| sase | [`410e885`](https://github.com/sase-org/sase/commit/410e885325c8f01cf1e2394f513c60eedbcb0a44) | feat(tui): improve ACE tab guide content | 2026-07-07 11:50:27 EDT |
 
 ## Neighbors
 

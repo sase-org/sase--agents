@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`879518e`](https://github.com/sase-org/sase/commit/879518e902c8ba8dd5d7a1cd87939a7d39ff654e) | chore: Add SDD prompt and plan for dynamic\_memory\_wipe\_root\_cause | 2026-05-27 00:35:01 UTC |
-| sase | [`b897674`](https://github.com/sase-org/sase/commit/b897674bf08e269149c48343c70294fc0b80408e) | fix(memory): prevent dynamic memory wipe via .git/info/exclude | 2026-05-27 00:48:22 UTC |
+| sase | [`879518e`](https://github.com/sase-org/sase/commit/879518e902c8ba8dd5d7a1cd87939a7d39ff654e) | chore: Add SDD prompt and plan for dynamic\_memory\_wipe\_root\_cause | 2026-05-26 20:35:01 EDT |
+| sase | [`b897674`](https://github.com/sase-org/sase/commit/b897674bf08e269149c48343c70294fc0b80408e) | fix(memory): prevent dynamic memory wipe via .git/info/exclude | 2026-05-26 20:48:22 EDT |

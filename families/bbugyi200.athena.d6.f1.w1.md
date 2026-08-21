@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`005f431`](https://github.com/sase-org/sase/commit/005f431eb8e50c8ea187145d6c9eeb612ba32b88) | feat(gates)!: add canonical primary branch submission | 2026-07-18 13:10:32 UTC |
+| code | sase | [`005f431`](https://github.com/sase-org/sase/commit/005f431eb8e50c8ea187145d6c9eeb612ba32b88) | feat(gates)!: add canonical primary branch submission | 2026-07-18 09:10:32 EDT |
 
 ## Neighbors
 

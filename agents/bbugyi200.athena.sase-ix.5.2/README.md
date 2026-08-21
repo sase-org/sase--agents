@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b67a842`](https://github.com/sase-org/sase/commit/b67a8420f22dedaf53df14d4c6035162c3b19102) | docs(beads): clarify closed-task plus-one boundary | 2026-08-10 18:05:04 UTC |
+| sase | [`b67a842`](https://github.com/sase-org/sase/commit/b67a8420f22dedaf53df14d4c6035162c3b19102) | docs(beads): clarify closed-task plus-one boundary | 2026-08-10 14:05:04 EDT |
 
 ## Neighbors
 

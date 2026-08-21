@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`130a1ed`](https://github.com/sase-org/sase/commit/130a1edd5be96a98618fa789a87857fc54823d7d) | fix(bead): show matching compact search snippets (#181) | 2026-06-18 21:56:06 UTC |
+| sase | [`130a1ed`](https://github.com/sase-org/sase/commit/130a1edd5be96a98618fa789a87857fc54823d7d) | fix(bead): show matching compact search snippets (#181) | 2026-06-18 17:56:06 EDT |
 
 ## Neighbors
 

@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`2aa8ba2`](https://github.com/sase-org/sase/commit/2aa8ba26f7efc6522a7cc28e969c688a3f870b18) | fix(tui): release stale prompt context after launch | 2026-08-16 13:46:28 UTC |
+| code | sase | [`2aa8ba2`](https://github.com/sase-org/sase/commit/2aa8ba26f7efc6522a7cc28e969c688a3f870b18) | fix(tui): release stale prompt context after launch | 2026-08-16 09:46:28 EDT |

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bae5e26`](https://github.com/sase-org/sase/commit/bae5e263576917e2c0c3a4ea2332565cf368d19d) | docs: add SASE ACE CLI demo video research | 2026-06-23 10:57:47 UTC |
+| sase | [`bae5e26`](https://github.com/sase-org/sase/commit/bae5e263576917e2c0c3a4ea2332565cf368d19d) | docs: add SASE ACE CLI demo video research | 2026-06-23 06:57:47 EDT |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d10fe53`](https://github.com/sase-org/sase/commit/d10fe53024144a0084501c349642552cccc8e033) | test: audit ownership invariant launch paths | 2026-08-16 10:05:19 UTC |
+| sase | [`d10fe53`](https://github.com/sase-org/sase/commit/d10fe53024144a0084501c349642552cccc8e033) | test: audit ownership invariant launch paths | 2026-08-16 06:05:19 EDT |
 
 ## Neighbors
 

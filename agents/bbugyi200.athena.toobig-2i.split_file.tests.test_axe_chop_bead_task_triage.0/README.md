@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9f93c3d`](https://github.com/sase-org/sase/commit/9f93c3d8c0c505bd18a48165d4b9c53861290232) | test: split bead task triage project tests | 2026-08-12 22:20:27 UTC |
+| sase | [`9f93c3d`](https://github.com/sase-org/sase/commit/9f93c3d8c0c505bd18a48165d4b9c53861290232) | test: split bead task triage project tests | 2026-08-12 18:20:27 EDT |
 
 ## Neighbors
 

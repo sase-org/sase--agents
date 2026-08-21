@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`df33735`](https://github.com/sase-org/sase/commit/df33735794b28f5d898a6cfeb21b6cc9ca3f693e) | chore: Add SDD prompt and plan for live\_agent\_pencil | 2026-06-15 23:03:37 UTC |
-| — | sase | [`9148408`](https://github.com/sase-org/sase/commit/91484084ba7d66c81b28b3e347610fcf236a0a85) | feat(ace): show pencil badge for live agent workspace edits | 2026-06-15 23:25:19 UTC |
-| code | sase | [`5bd4014`](https://github.com/sase-org/sase/commit/5bd40142d85b2071e157343a15bf7f401503085e) | fix(artifacts): attribute attachments to commit repositories | 2026-07-14 12:03:03 UTC |
+| — | sase | [`df33735`](https://github.com/sase-org/sase/commit/df33735794b28f5d898a6cfeb21b6cc9ca3f693e) | chore: Add SDD prompt and plan for live\_agent\_pencil | 2026-06-15 19:03:37 EDT |
+| — | sase | [`9148408`](https://github.com/sase-org/sase/commit/91484084ba7d66c81b28b3e347610fcf236a0a85) | feat(ace): show pencil badge for live agent workspace edits | 2026-06-15 19:25:19 EDT |
+| code | sase | [`5bd4014`](https://github.com/sase-org/sase/commit/5bd40142d85b2071e157343a15bf7f401503085e) | fix(artifacts): attribute attachments to commit repositories | 2026-07-14 08:03:03 EDT |

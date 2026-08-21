@@ -30,4 +30,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`134839e`](https://github.com/sase-org/sase/commit/134839e82d2e7c3963a7e4300bc7bdcd9b841e85) | fix(ace): fit the glossary panel's term rail to its widest row | 2026-08-18 11:21:09 UTC |
+| 1 | sase | [`134839e`](https://github.com/sase-org/sase/commit/134839e82d2e7c3963a7e4300bc7bdcd9b841e85) | fix(ace): fit the glossary panel's term rail to its widest row | 2026-08-18 07:21:09 EDT |

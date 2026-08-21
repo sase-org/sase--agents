@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eed1d9a`](https://github.com/sase-org/sase/commit/eed1d9a67d269295a69ef893cd895f4739b93d9e) | fix(plugins): install what plugins.required actually declares | 2026-08-18 09:43:49 UTC |
+| sase | [`eed1d9a`](https://github.com/sase-org/sase/commit/eed1d9a67d269295a69ef893cd895f4739b93d9e) | fix(plugins): install what plugins.required actually declares | 2026-08-18 05:43:49 EDT |
 
 ## Neighbors
 

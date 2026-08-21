@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`70410a0`](https://github.com/sase-org/sase/commit/70410a05b1a6250bbe6adb86c41a65cbef827e9b) | feat(artifact-refs): propagate repository kind into wire form and parity test | 2026-08-03 11:08:56 UTC |
+| sase | [`70410a0`](https://github.com/sase-org/sase/commit/70410a05b1a6250bbe6adb86c41a65cbef827e9b) | feat(artifact-refs): propagate repository kind into wire form and parity test | 2026-08-03 07:08:56 EDT |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7a65aeb`](https://github.com/sase-org/sase/commit/7a65aeb8cc171d83a92766fb8185752f455901e8) | fix(demos): preserve truecolor in generated media (sase-6l.1) | 2026-07-17 17:36:58 UTC |
+| sase | [`7a65aeb`](https://github.com/sase-org/sase/commit/7a65aeb8cc171d83a92766fb8185752f455901e8) | fix(demos): preserve truecolor in generated media (sase-6l.1) | 2026-07-17 13:36:58 EDT |
 
 ## Neighbors
 

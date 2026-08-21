@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`763cffb`](https://github.com/sase-org/sase/commit/763cffba44363ef6761dcdf5cd56792706cbc3e1) | refactor(workspace-provider): split ownership module into siblings | 2026-08-16 15:00:50 UTC |
+| sase | [`763cffb`](https://github.com/sase-org/sase/commit/763cffba44363ef6761dcdf5cd56792706cbc3e1) | refactor(workspace-provider): split ownership module into siblings | 2026-08-16 11:00:50 EDT |
 
 ## Neighbors
 

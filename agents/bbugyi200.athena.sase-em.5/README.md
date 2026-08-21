@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eda7c15`](https://github.com/sase-org/sase/commit/eda7c1564387abf356e601dd32d86c68b4efedd8) | fix(artifacts): mint timestamps in the configured timezone | 2026-08-03 13:48:30 UTC |
+| sase | [`eda7c15`](https://github.com/sase-org/sase/commit/eda7c1564387abf356e601dd32d86c68b4efedd8) | fix(artifacts): mint timestamps in the configured timezone | 2026-08-03 09:48:30 EDT |
 
 ## Neighbors
 

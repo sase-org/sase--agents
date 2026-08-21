@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`98764ad`](https://github.com/sase-org/sase/commit/98764ad9221eb467d2e454f0f77193f28a64b346) | test: split monitor start-handler tests under 500-line files | 2026-08-20 05:39:27 UTC |
+| sase | [`98764ad`](https://github.com/sase-org/sase/commit/98764ad9221eb467d2e454f0f77193f28a64b346) | test: split monitor start-handler tests under 500-line files | 2026-08-20 01:39:27 EDT |
 
 ## Neighbors
 

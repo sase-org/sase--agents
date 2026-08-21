@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`22c41c0`](https://github.com/sase-org/sase/commit/22c41c0a25a555015381ddb046a262ae8c99da12) | test(axe): split task-triage chop tests into focused modules | 2026-08-07 04:09:26 UTC |
+| sase | [`22c41c0`](https://github.com/sase-org/sase/commit/22c41c0a25a555015381ddb046a262ae8c99da12) | test(axe): split task-triage chop tests into focused modules | 2026-08-07 00:09:26 EDT |
 
 ## Neighbors
 

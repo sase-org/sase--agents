@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`83c5cff`](https://github.com/sase-org/sase/commit/83c5cffa972c63e8f7437a72de303cef090eaf68) | chore: Add SDD prompt and plan for remove\_model\_directive\_multi\_arg | 2026-06-23 13:18:49 UTC |
-| sase | [`231792b`](https://github.com/sase-org/sase/commit/231792b322bf5bcc3ac0c63571a452d3893c5e4b) | feat!: reject legacy multi-model directives | 2026-06-23 13:44:56 UTC |
+| sase | [`83c5cff`](https://github.com/sase-org/sase/commit/83c5cffa972c63e8f7437a72de303cef090eaf68) | chore: Add SDD prompt and plan for remove\_model\_directive\_multi\_arg | 2026-06-23 09:18:49 EDT |
+| sase | [`231792b`](https://github.com/sase-org/sase/commit/231792b322bf5bcc3ac0c63571a452d3893c5e4b) | feat!: reject legacy multi-model directives | 2026-06-23 09:44:56 EDT |
 
 ## Neighbors
 

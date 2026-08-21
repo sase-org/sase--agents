@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9ab0c0c`](https://github.com/sase-org/sase/commit/9ab0c0c58eb589ac70b7e05f2f469614b4201395) | feat(ace): support composable notification gates (sase-6i.5) | 2026-07-17 05:31:44 UTC |
+| sase | [`9ab0c0c`](https://github.com/sase-org/sase/commit/9ab0c0c58eb589ac70b7e05f2f469614b4201395) | feat(ace): support composable notification gates (sase-6i.5) | 2026-07-17 01:31:44 EDT |
 
 ## Neighbors
 

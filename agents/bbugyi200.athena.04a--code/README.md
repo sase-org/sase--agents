@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`630f4ea`](https://github.com/sase-org/sase/commit/630f4ea717691be11a6d857c0083159a2a20edc5) | fix(llm-provider): restore Gemini 3.7 Flash High to @xsmall only | 2026-08-16 20:38:21 UTC |
+| sase | [`630f4ea`](https://github.com/sase-org/sase/commit/630f4ea717691be11a6d857c0083159a2a20edc5) | fix(llm-provider): restore Gemini 3.7 Flash High to @xsmall only | 2026-08-16 16:38:21 EDT |

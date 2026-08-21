@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`20752de`](https://github.com/sase-org/sase/commit/20752def224eaa80c025ae87121a044ca0052b31) | refactor(ace): split the plan approval modal along the screen/meaning seam | 2026-08-08 03:52:07 UTC |
+| sase | [`20752de`](https://github.com/sase-org/sase/commit/20752def224eaa80c025ae87121a044ca0052b31) | refactor(ace): split the plan approval modal along the screen/meaning seam | 2026-08-07 23:52:07 EDT |
 
 ## Neighbors
 

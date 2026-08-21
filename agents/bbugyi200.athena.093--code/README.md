@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5152e09`](https://github.com/sase-org/sase/commit/5152e097e2b2b40f49ba45282c02c37f33bf87c5) | fix(stats): correct runner occupancy monitor peaks | 2026-08-21 12:50:55 UTC |
+| sase | [`5152e09`](https://github.com/sase-org/sase/commit/5152e097e2b2b40f49ba45282c02c37f33bf87c5) | fix(stats): correct runner occupancy monitor peaks | 2026-08-21 08:50:55 EDT |

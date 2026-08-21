@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`4c5c062`](https://github.com/sase-org/sase/commit/4c5c06278109d6665e3581ebc96ac6323163b77f) | fix(agent): reuse names on ,x only when the prompt declared %id | 2026-08-18 23:18:10 UTC |
+| code | sase | [`4c5c062`](https://github.com/sase-org/sase/commit/4c5c06278109d6665e3581ebc96ac6323163b77f) | fix(agent): reuse names on ,x only when the prompt declared %id | 2026-08-18 19:18:10 EDT |

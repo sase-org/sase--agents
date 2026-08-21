@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`131a669`](https://github.com/sase-org/sase/commit/131a6699887a18663f437ba1be3db59743893198) | feat!: stop auto-pairing alt braces in ACE | 2026-06-20 21:49:58 UTC |
+| sase | [`131a669`](https://github.com/sase-org/sase/commit/131a6699887a18663f437ba1be3db59743893198) | feat!: stop auto-pairing alt braces in ACE | 2026-06-20 17:49:58 EDT |
 
 ## Neighbors
 

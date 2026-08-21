@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`237c932`](https://github.com/sase-org/sase/commit/237c932f9d9fcaeab76a9da996fa76ef9aa090d7) | fix: surface missing LLM provider CLI setup (sase-4j.1) | 2026-06-09 23:05:17 UTC |
+| sase | [`237c932`](https://github.com/sase-org/sase/commit/237c932f9d9fcaeab76a9da996fa76ef9aa090d7) | fix: surface missing LLM provider CLI setup (sase-4j.1) | 2026-06-09 19:05:17 EDT |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9d16bd5`](https://github.com/sase-org/sase/commit/9d16bd5418a61eaedb257ba9fbddc8c593323cf7) | chore: Add SDD prompt and plan for expand\_help\_panel | 2026-07-07 17:46:59 UTC |
+| sase | [`9d16bd5`](https://github.com/sase-org/sase/commit/9d16bd5418a61eaedb257ba9fbddc8c593323cf7) | chore: Add SDD prompt and plan for expand\_help\_panel | 2026-07-07 13:46:59 EDT |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cf901d5`](https://github.com/sase-org/sase/commit/cf901d5312a8783763d2a5611cb50d747b7c70bd) | docs(memory): refresh generated memory README (sase-5m.4) | 2026-07-08 23:47:06 UTC |
+| sase | [`cf901d5`](https://github.com/sase-org/sase/commit/cf901d5312a8783763d2a5611cb50d747b7c70bd) | docs(memory): refresh generated memory README (sase-5m.4) | 2026-07-08 19:47:06 EDT |
 
 ## Neighbors
 

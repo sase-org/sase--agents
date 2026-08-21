@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d81a703`](https://github.com/sase-org/sase/commit/d81a70321df66da883fd57e12d90e64d2c4c8fbc) | refactor(sdd): split artifact link store | 2026-08-20 16:11:23 UTC |
+| sase | [`d81a703`](https://github.com/sase-org/sase/commit/d81a70321df66da883fd57e12d90e64d2c4c8fbc) | refactor(sdd): split artifact link store | 2026-08-20 12:11:23 EDT |

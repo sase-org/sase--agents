@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d7f34d8`](https://github.com/sase-org/sase/commit/d7f34d84dc9dd98447b57a499ea24fa02dcc2108) | feat(ace): add entry-jump mode to the Updates tab's Plugins and Agent CLIs panes | 2026-08-07 15:23:50 UTC |
+| sase | [`d7f34d8`](https://github.com/sase-org/sase/commit/d7f34d84dc9dd98447b57a499ea24fa02dcc2108) | feat(ace): add entry-jump mode to the Updates tab's Plugins and Agent CLIs panes | 2026-08-07 11:23:50 EDT |
 
 ## Neighbors
 

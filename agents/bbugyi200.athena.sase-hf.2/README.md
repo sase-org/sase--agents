@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1c45d48`](https://github.com/sase-org/sase/commit/1c45d483f83e0a0f96dfa1558b5d661e8becd25d) | feat(xprompt): load memory notes as xprompts | 2026-08-08 14:11:47 UTC |
+| sase | [`1c45d48`](https://github.com/sase-org/sase/commit/1c45d483f83e0a0f96dfa1558b5d661e8becd25d) | feat(xprompt): load memory notes as xprompts | 2026-08-08 10:11:47 EDT |
 
 ## Neighbors
 

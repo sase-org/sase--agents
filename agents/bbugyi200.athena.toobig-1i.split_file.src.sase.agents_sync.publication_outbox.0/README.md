@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e6fbb43`](https://github.com/sase-org/sase/commit/e6fbb435d1bed9c438f0ad3d49b9ddddeddcabc9) | refactor: split publication outbox responsibilities | 2026-08-03 18:27:25 UTC |
+| sase | [`e6fbb43`](https://github.com/sase-org/sase/commit/e6fbb435d1bed9c438f0ad3d49b9ddddeddcabc9) | refactor: split publication outbox responsibilities | 2026-08-03 14:27:25 EDT |
 
 ## Neighbors
 

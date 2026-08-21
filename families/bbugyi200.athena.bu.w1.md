@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`d5cf13b`](https://github.com/sase-org/sase/commit/d5cf13b23278165b87b3ed48ff8f9ba1eca27635) | feat(tui): add custom gate command keymaps | 2026-07-17 14:30:00 UTC |
+| code | sase | [`d5cf13b`](https://github.com/sase-org/sase/commit/d5cf13b23278165b87b3ed48ff8f9ba1eca27635) | feat(tui): add custom gate command keymaps | 2026-07-17 10:30:00 EDT |
 
 ## Neighbors
 

@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`364bb6f`](https://github.com/sase-org/sase/commit/364bb6f9952eed38feb0e3b0ba6c0284538ae01b) | fix(init): defer unresolvable skill deploy drift under --check to a warning | 2026-08-07 15:44:12 UTC |
+| sase | [`364bb6f`](https://github.com/sase-org/sase/commit/364bb6f9952eed38feb0e3b0ba6c0284538ae01b) | fix(init): defer unresolvable skill deploy drift under --check to a warning | 2026-08-07 11:44:12 EDT |

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b25f10a`](https://github.com/sase-org/sase/commit/b25f10a720e7de2866acbd135a6ee007c9a5ba50) | refactor(flags): split the flag CLI into per-subcommand modules | 2026-08-17 12:02:15 UTC |
+| sase | [`b25f10a`](https://github.com/sase-org/sase/commit/b25f10a720e7de2866acbd135a6ee007c9a5ba50) | refactor(flags): split the flag CLI into per-subcommand modules | 2026-08-17 08:02:15 EDT |
 
 ## Neighbors
 

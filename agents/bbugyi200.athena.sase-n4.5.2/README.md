@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eba0eab`](https://github.com/sase-org/sase/commit/eba0eab736081b34b0d35175912d222a74d87701) | fix(llm-provider): pin usage-limit disable and retry to first writer | 2026-08-16 20:18:45 UTC |
+| sase | [`eba0eab`](https://github.com/sase-org/sase/commit/eba0eab736081b34b0d35175912d222a74d87701) | fix(llm-provider): pin usage-limit disable and retry to first writer | 2026-08-16 16:18:45 EDT |
 
 ## Neighbors
 

@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2e3e85c`](https://github.com/sase-org/sase/commit/2e3e85cfe58175a1219f66cd94d20aaa242d092a) | feat(ace): submit and cancel semantics for prompt stack (sase-4p.4) | 2026-06-15 23:40:06 UTC |
+| sase | [`2e3e85c`](https://github.com/sase-org/sase/commit/2e3e85cfe58175a1219f66cd94d20aaa242d092a) | feat(ace): submit and cancel semantics for prompt stack (sase-4p.4) | 2026-06-15 19:40:06 EDT |
 
 ## Neighbors
 

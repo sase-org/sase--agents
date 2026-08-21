@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8bcabc7`](https://github.com/sase-org/sase/commit/8bcabc701de1512b0ae9fa31ab60808556b1ef79) | refactor: split agent status overrides module | 2026-06-19 17:44:19 UTC |
+| sase | [`8bcabc7`](https://github.com/sase-org/sase/commit/8bcabc701de1512b0ae9fa31ab60808556b1ef79) | refactor: split agent status overrides module | 2026-06-19 13:44:19 EDT |
 
 ## Neighbors
 

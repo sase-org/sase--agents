@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aaa61b7`](https://github.com/sase-org/sase/commit/aaa61b7a55098620c5ae9d5bed93bbb979fe49d0) | test(monitor): split test\_monitor\_start into per-contract modules | 2026-08-17 12:31:35 UTC |
+| sase | [`aaa61b7`](https://github.com/sase-org/sase/commit/aaa61b7a55098620c5ae9d5bed93bbb979fe49d0) | test(monitor): split test\_monitor\_start into per-contract modules | 2026-08-17 08:31:35 EDT |
 
 ## Neighbors
 

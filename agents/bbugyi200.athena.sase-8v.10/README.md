@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e47f240`](https://github.com/sase-org/sase/commit/e47f240e14efb6cc9c3c8112c756df4bcb09c0ae) | fix(agents): support same-user multi-machine imports (sase-8v.10) | 2026-07-24 22:13:45 UTC |
+| sase | [`e47f240`](https://github.com/sase-org/sase/commit/e47f240e14efb6cc9c3c8112c756df4bcb09c0ae) | fix(agents): support same-user multi-machine imports (sase-8v.10) | 2026-07-24 18:13:45 EDT |
 
 ## Neighbors
 

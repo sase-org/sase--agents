@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c7cb86f`](https://github.com/sase-org/sase/commit/c7cb86f07e9b4e4c689c6ef1c401723cbac225f2) | docs: refresh guides for current SASE behavior | 2026-07-17 01:58:52 UTC |
+| sase | [`c7cb86f`](https://github.com/sase-org/sase/commit/c7cb86f07e9b4e4c689c6ef1c401723cbac225f2) | docs: refresh guides for current SASE behavior | 2026-07-16 21:58:52 EDT |
 
 ## Neighbors
 

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`03663eb`](https://github.com/sase-org/sase/commit/03663eb8455b04110a43e6dcaed21389be8a34bb) | feat(artifacts): expose VCS-backed files across ACE | 2026-07-30 15:55:48 UTC |
+| sase | [`03663eb`](https://github.com/sase-org/sase/commit/03663eb8455b04110a43e6dcaed21389be8a34bb) | feat(artifacts): expose VCS-backed files across ACE | 2026-07-30 11:55:48 EDT |

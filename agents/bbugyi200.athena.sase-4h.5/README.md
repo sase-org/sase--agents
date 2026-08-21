@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9cde44b`](https://github.com/sase-org/sase/commit/9cde44be6ae5f978aa729568af016cee135f1474) | chore: document version runtime inventory (sase-4h.5) | 2026-06-08 20:54:17 UTC |
+| sase | [`9cde44b`](https://github.com/sase-org/sase/commit/9cde44be6ae5f978aa729568af016cee135f1474) | chore: document version runtime inventory (sase-4h.5) | 2026-06-08 16:54:17 EDT |
 
 ## Neighbors
 

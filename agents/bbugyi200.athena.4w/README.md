@@ -21,5 +21,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`82bcdab`](https://github.com/sase-org/sase/commit/82bcdabaf935e9386a4f2e53d691a17958731a9d) | chore: Add SDD prompt and plan for claude\_fable\_5\_model | 2026-06-10 12:37:45 UTC |
-| sase | [`7bb7914`](https://github.com/sase-org/sase/commit/7bb79141b4bc255dedd0b48991525b21237b6e81) | fix(ace): load prompt history inline instead of replacing the stack | 2026-07-10 20:50:45 UTC |
+| sase | [`82bcdab`](https://github.com/sase-org/sase/commit/82bcdabaf935e9386a4f2e53d691a17958731a9d) | chore: Add SDD prompt and plan for claude\_fable\_5\_model | 2026-06-10 08:37:45 EDT |
+| sase | [`7bb7914`](https://github.com/sase-org/sase/commit/7bb79141b4bc255dedd0b48991525b21237b6e81) | fix(ace): load prompt history inline instead of replacing the stack | 2026-07-10 16:50:45 EDT |

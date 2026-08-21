@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`011a0d8`](https://github.com/sase-org/sase/commit/011a0d8890500ef362675bd6e0f04ce3069ca704) | chore: add remote agent research infographic | 2026-06-06 17:27:04 UTC |
+| sase | [`011a0d8`](https://github.com/sase-org/sase/commit/011a0d8890500ef362675bd6e0f04ce3069ca704) | chore: add remote agent research infographic | 2026-06-06 13:27:04 EDT |
 
 ## Neighbors
 

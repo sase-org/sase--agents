@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`58bacaf`](https://github.com/sase-org/sase/commit/58bacaf668db5541554a49922203b828df9de916) | feat!: simplify phase model aliases | 2026-07-21 14:32:49 UTC |
+| code | sase | [`58bacaf`](https://github.com/sase-org/sase/commit/58bacaf668db5541554a49922203b828df9de916) | feat!: simplify phase model aliases | 2026-07-21 10:32:49 EDT |
 
 ## Neighbors
 

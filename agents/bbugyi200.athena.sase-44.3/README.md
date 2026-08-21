@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5e92e2f`](https://github.com/sase-org/sase/commit/5e92e2fc30bcaac1f3293ea8a496ba50dae8199d) | feat: sync AMD-managed instructions during memory init (sase-44.3) | 2026-05-24 22:46:33 UTC |
+| sase | [`5e92e2f`](https://github.com/sase-org/sase/commit/5e92e2fc30bcaac1f3293ea8a496ba50dae8199d) | feat: sync AMD-managed instructions during memory init (sase-44.3) | 2026-05-24 18:46:33 EDT |
 
 ## Neighbors
 

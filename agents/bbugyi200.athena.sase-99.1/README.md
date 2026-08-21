@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1d6c95e`](https://github.com/sase-org/sase/commit/1d6c95e60d6ae0f98c309de41490aa4c8738a9d9) | refactor(ace): share lane neighbor projection (sase-99.1) | 2026-07-25 13:34:08 UTC |
+| sase | [`1d6c95e`](https://github.com/sase-org/sase/commit/1d6c95e60d6ae0f98c309de41490aa4c8738a9d9) | refactor(ace): share lane neighbor projection (sase-99.1) | 2026-07-25 09:34:08 EDT |
 
 ## Neighbors
 

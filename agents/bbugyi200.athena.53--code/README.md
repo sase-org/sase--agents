@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8ee7fa5`](https://github.com/sase-org/sase/commit/8ee7fa57d2ca5e2e63c051ef50dd3e82cb8aef1a) | feat(memory)!: require explicit project opt-in | 2026-07-10 23:12:38 UTC |
+| sase | [`8ee7fa5`](https://github.com/sase-org/sase/commit/8ee7fa57d2ca5e2e63c051ef50dd3e82cb8aef1a) | feat(memory)!: require explicit project opt-in | 2026-07-10 19:12:38 EDT |
 
 ## Neighbors
 

@@ -18,9 +18,9 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fd13e85`](https://github.com/sase-org/sase/commit/fd13e85fd2b99f4f02e5f282328d076d1032130e) | chore: finish sase-5b cleanup | 2026-06-26 21:44:14 UTC |
-| sase | [`81d4f53`](https://github.com/sase-org/sase/commit/81d4f53b85b49bb85c436dd405918c09e57fdcf5) | chore: Add SDD prompt and plan for sase\_5b\_pyvision\_cleanup\_1 (sase-5b) | 2026-06-26 21:46:19 UTC |
-| sase | [`c7b2140`](https://github.com/sase-org/sase/commit/c7b2140f897c62d753cce22a72d8bbd35c186797) | chore: Mark SDD plan done | 2026-06-26 22:26:20 UTC |
+| sase | [`fd13e85`](https://github.com/sase-org/sase/commit/fd13e85fd2b99f4f02e5f282328d076d1032130e) | chore: finish sase-5b cleanup | 2026-06-26 17:44:14 EDT |
+| sase | [`81d4f53`](https://github.com/sase-org/sase/commit/81d4f53b85b49bb85c436dd405918c09e57fdcf5) | chore: Add SDD prompt and plan for sase\_5b\_pyvision\_cleanup\_1 (sase-5b) | 2026-06-26 17:46:19 EDT |
+| sase | [`c7b2140`](https://github.com/sase-org/sase/commit/c7b2140f897c62d753cce22a72d8bbd35c186797) | chore: Mark SDD plan done | 2026-06-26 18:26:20 EDT |
 
 ## Neighbors
 

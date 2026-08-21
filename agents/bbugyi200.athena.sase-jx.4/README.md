@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d4c4efd`](https://github.com/sase-org/sase/commit/d4c4efda57da358787c94801d3d8cdea038c05af) | feat(axe): render overrun indicator across AXE tab surfaces | 2026-08-12 15:49:14 UTC |
+| sase | [`d4c4efd`](https://github.com/sase-org/sase/commit/d4c4efda57da358787c94801d3d8cdea038c05af) | feat(axe): render overrun indicator across AXE tab surfaces | 2026-08-12 11:49:14 EDT |
 
 ## Neighbors
 

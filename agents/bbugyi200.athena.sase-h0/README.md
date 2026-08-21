@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7bdeee0`](https://github.com/sase-org/sase/commit/7bdeee08e25708e3775330fc59bead099e48b332) | fix(deps): raise sase-core-rs floor to 0.19.3 for snooze note contract | 2026-08-07 16:51:11 UTC |
+| sase | [`7bdeee0`](https://github.com/sase-org/sase/commit/7bdeee08e25708e3775330fc59bead099e48b332) | fix(deps): raise sase-core-rs floor to 0.19.3 for snooze note contract | 2026-08-07 12:51:11 EDT |

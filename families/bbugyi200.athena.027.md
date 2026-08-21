@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`4197762`](https://github.com/sase-org/sase/commit/41977629d7b5d15c8c5b2273dd46f4cbb04bad0a) | docs: restore agent lane glossary entry | 2026-08-15 14:04:57 UTC |
+| code | sase | [`4197762`](https://github.com/sase-org/sase/commit/41977629d7b5d15c8c5b2273dd46f4cbb04bad0a) | docs: restore agent lane glossary entry | 2026-08-15 10:04:57 EDT |

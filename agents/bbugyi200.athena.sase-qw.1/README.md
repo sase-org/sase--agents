@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d4f6535`](https://github.com/sase-org/sase/commit/d4f6535c467906818a310534670f16140a70994b) | feat(ace): register the ,L jump\_to\_last\_error leader action | 2026-08-19 13:55:53 UTC |
+| sase | [`d4f6535`](https://github.com/sase-org/sase/commit/d4f6535c467906818a310534670f16140a70994b) | feat(ace): register the ,L jump\_to\_last\_error leader action | 2026-08-19 09:55:53 EDT |
 
 ## Neighbors
 

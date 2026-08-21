@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`afb7b74`](https://github.com/sase-org/sase/commit/afb7b74147d7e80f5d3485783c05399ee4c17378) | feat(tui): move updates badge left of model indicator | 2026-06-29 14:20:30 UTC |
+| sase | [`afb7b74`](https://github.com/sase-org/sase/commit/afb7b74147d7e80f5d3485783c05399ee4c17378) | feat(tui): move updates badge left of model indicator | 2026-06-29 10:20:30 EDT |

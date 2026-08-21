@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`65f6884`](https://github.com/sase-org/sase/commit/65f68843c8885e0adeebad6ccda3d04f10e09693) | feat(tui): add clan section aggregation layer (sase-6u.2) | 2026-07-18 18:22:32 UTC |
+| sase | [`65f6884`](https://github.com/sase-org/sase/commit/65f68843c8885e0adeebad6ccda3d04f10e09693) | feat(tui): add clan section aggregation layer (sase-6u.2) | 2026-07-18 14:22:32 EDT |
 
 ## Neighbors
 

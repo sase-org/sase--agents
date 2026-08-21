@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1feff11`](https://github.com/sase-org/sase/commit/1feff110934ab6fa299d2ad87d2b2658e99ee5bc) | feat(tui): durable launch-failure logging foundation (sase-4t.1) | 2026-06-17 19:03:34 UTC |
+| sase | [`1feff11`](https://github.com/sase-org/sase/commit/1feff110934ab6fa299d2ad87d2b2658e99ee5bc) | feat(tui): durable launch-failure logging foundation (sase-4t.1) | 2026-06-17 15:03:34 EDT |
 
 ## Neighbors
 

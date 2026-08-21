@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3d103bd`](https://github.com/sase-org/sase/commit/3d103bd062af0e74e69a7b75ecceec1cfc1823dd) | feat(cli): add repository path resolution | 2026-07-14 15:22:30 UTC |
+| sase | [`3d103bd`](https://github.com/sase-org/sase/commit/3d103bd062af0e74e69a7b75ecceec1cfc1823dd) | feat(cli): add repository path resolution | 2026-07-14 11:22:30 EDT |
 
 ## Neighbors
 

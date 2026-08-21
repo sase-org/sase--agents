@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e1ac8c7`](https://github.com/sase-org/sase/commit/e1ac8c7e53b08698e56b8e11f4ddfcf665480e42) | docs: research agy migration scope | 2026-06-19 20:06:58 UTC |
+| sase | [`e1ac8c7`](https://github.com/sase-org/sase/commit/e1ac8c7e53b08698e56b8e11f4ddfcf665480e42) | docs: research agy migration scope | 2026-06-19 16:06:58 EDT |
 
 ## Neighbors
 

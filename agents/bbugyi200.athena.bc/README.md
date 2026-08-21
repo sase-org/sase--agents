@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3b263a5`](https://github.com/sase-org/sase/commit/3b263a578066048f3134735a0012f9177b1c3877) | fix: preserve canonical plan identity through approval gates | 2026-07-17 03:15:31 UTC |
+| sase | [`3b263a5`](https://github.com/sase-org/sase/commit/3b263a578066048f3134735a0012f9177b1c3877) | fix: preserve canonical plan identity through approval gates | 2026-07-16 23:15:31 EDT |

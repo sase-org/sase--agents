@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`09bedce`](https://github.com/sase-org/sase/commit/09bedcef00edfc730851c3178c06eb320b78eb77) | fix(prompt): search canonical authored prompt text | 2026-08-02 18:23:38 UTC |
+| sase | [`09bedce`](https://github.com/sase-org/sase/commit/09bedcef00edfc730851c3178c06eb320b78eb77) | fix(prompt): search canonical authored prompt text | 2026-08-02 14:23:38 EDT |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d6f435c`](https://github.com/sase-org/sase/commit/d6f435c7a2a50678560e377d2604a08194408d7e) | feat: lazily materialize prompt document sidecars | 2026-08-12 15:59:23 UTC |
+| sase | [`d6f435c`](https://github.com/sase-org/sase/commit/d6f435c7a2a50678560e377d2604a08194408d7e) | feat: lazily materialize prompt document sidecars | 2026-08-12 11:59:23 EDT |

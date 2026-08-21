@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`ac92d6a`](https://github.com/sase-org/sase/commit/ac92d6adeae089f629f7ec748bbb821730093723) | docs: redesign README landing page | 2026-07-17 12:56:46 UTC |
+| code | sase | [`ac92d6a`](https://github.com/sase-org/sase/commit/ac92d6adeae089f629f7ec748bbb821730093723) | docs: redesign README landing page | 2026-07-17 08:56:46 EDT |

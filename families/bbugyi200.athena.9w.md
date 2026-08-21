@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`98ed259`](https://github.com/sase-org/sase/commit/98ed259ec6ac16ce916fe5af55412b92c1904d74) | chore: Add SDD prompt and plan for telegram\_plan\_reject\_kill | 2026-06-17 21:49:24 UTC |
-| — | sase | [`29a6748`](https://github.com/sase-org/sase/commit/29a67484594ef39229962a502650f2c813d3fb1e) | chore: Mark SDD plan done | 2026-06-17 22:13:53 UTC |
-| code | sase | [`728595e`](https://github.com/sase-org/sase/commit/728595e54ae517b2befb140dca7d5b29e8be2934) | fix(tui): compact agent metadata sections | 2026-07-15 22:50:48 UTC |
+| — | sase | [`98ed259`](https://github.com/sase-org/sase/commit/98ed259ec6ac16ce916fe5af55412b92c1904d74) | chore: Add SDD prompt and plan for telegram\_plan\_reject\_kill | 2026-06-17 17:49:24 EDT |
+| — | sase | [`29a6748`](https://github.com/sase-org/sase/commit/29a67484594ef39229962a502650f2c813d3fb1e) | chore: Mark SDD plan done | 2026-06-17 18:13:53 EDT |
+| code | sase | [`728595e`](https://github.com/sase-org/sase/commit/728595e54ae517b2befb140dca7d5b29e8be2934) | fix(tui): compact agent metadata sections | 2026-07-15 18:50:48 EDT |

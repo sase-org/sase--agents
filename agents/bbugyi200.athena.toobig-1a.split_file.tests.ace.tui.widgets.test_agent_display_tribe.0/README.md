@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ac6bc84`](https://github.com/sase-org/sase/commit/ac6bc8453127dffca942e0417e4eb556390dfc7c) | test: split tribe display tests by behavior | 2026-07-31 16:10:32 UTC |
+| sase | [`ac6bc84`](https://github.com/sase-org/sase/commit/ac6bc8453127dffca942e0417e4eb556390dfc7c) | test: split tribe display tests by behavior | 2026-07-31 12:10:32 EDT |
 
 ## Neighbors
 

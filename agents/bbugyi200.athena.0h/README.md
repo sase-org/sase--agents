@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5ed257f`](https://github.com/sase-org/sase/commit/5ed257fd50482571c11934c29414620030c0b68a) | chore: Add SDD prompt and plan for double\_dash\_agent\_family\_separator | 2026-06-03 01:03:09 UTC |
-| sase | [`d71af00`](https://github.com/sase-org/sase/commit/d71af00c9c1fbc861b3a0a7da9bf5126575e9ef9) | feat: canonicalize plan-family suffixes with double dash | 2026-06-03 01:26:07 UTC |
+| sase | [`5ed257f`](https://github.com/sase-org/sase/commit/5ed257fd50482571c11934c29414620030c0b68a) | chore: Add SDD prompt and plan for double\_dash\_agent\_family\_separator | 2026-06-02 21:03:09 EDT |
+| sase | [`d71af00`](https://github.com/sase-org/sase/commit/d71af00c9c1fbc861b3a0a7da9bf5126575e9ef9) | feat: canonicalize plan-family suffixes with double dash | 2026-06-02 21:26:07 EDT |

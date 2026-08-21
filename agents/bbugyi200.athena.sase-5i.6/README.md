@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9f3c911`](https://github.com/sase-org/sase/commit/9f3c911e585df7b1c04b204430769fccd170f921) | docs: document VCS ref completion (sase-5i.6) | 2026-07-07 21:46:41 UTC |
+| sase | [`9f3c911`](https://github.com/sase-org/sase/commit/9f3c911e585df7b1c04b204430769fccd170f921) | docs: document VCS ref completion (sase-5i.6) | 2026-07-07 17:46:41 EDT |
 
 ## Neighbors
 

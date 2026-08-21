@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f150306`](https://github.com/sase-org/sase/commit/f150306cebf1de284548241316ef51a548877bba) | feat!: remove directory workspace xprompt | 2026-07-09 19:35:52 UTC |
+| code | sase | [`f150306`](https://github.com/sase-org/sase/commit/f150306cebf1de284548241316ef51a548877bba) | feat!: remove directory workspace xprompt | 2026-07-09 15:35:52 EDT |
 
 ## Neighbors
 

@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`92bdd6f`](https://github.com/sase-org/sase/commit/92bdd6f0c01c2b47e1a0209d71cd00b19e60b33b) | fix(ace): restore forward jump across tabs | 2026-07-19 12:33:21 UTC |
+| — | sase | [`92bdd6f`](https://github.com/sase-org/sase/commit/92bdd6f0c01c2b47e1a0209d71cd00b19e60b33b) | fix(ace): restore forward jump across tabs | 2026-07-19 08:33:21 EDT |

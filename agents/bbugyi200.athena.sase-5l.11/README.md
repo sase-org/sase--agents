@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7fbfc56`](https://github.com/sase-org/sase/commit/7fbfc5620664696b155e90ae80f32fa4d51465db) | feat(doctor): add xprompt and terminal deep checks (sase-5l.11) | 2026-07-08 20:56:15 UTC |
+| sase | [`7fbfc56`](https://github.com/sase-org/sase/commit/7fbfc5620664696b155e90ae80f32fa4d51465db) | feat(doctor): add xprompt and terminal deep checks (sase-5l.11) | 2026-07-08 16:56:15 EDT |
 
 ## Neighbors
 

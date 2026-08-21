@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`1273c78`](https://github.com/sase-org/sase/commit/1273c78a9174a94dd544bf1655826f597a8e52ac) | fix(tui): project plan-family status onto promoted family roots | 2026-07-31 11:48:13 UTC |
+| code | sase | [`1273c78`](https://github.com/sase-org/sase/commit/1273c78a9174a94dd544bf1655826f597a8e52ac) | fix(tui): project plan-family status onto promoted family roots | 2026-07-31 07:48:13 EDT |

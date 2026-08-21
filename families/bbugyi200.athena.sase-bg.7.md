@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`879af9b`](https://github.com/sase-org/sase/commit/879af9b0831fa59a0bccaf580d11f6afd26ffb2c) | feat(bead): launch standalone task workers | 2026-07-31 00:45:26 UTC |
+| — | sase | [`879af9b`](https://github.com/sase-org/sase/commit/879af9b0831fa59a0bccaf580d11f6afd26ffb2c) | feat(bead): launch standalone task workers | 2026-07-30 20:45:26 EDT |
 
 ## Neighbors
 

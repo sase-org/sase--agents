@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8715cb9`](https://github.com/sase-org/sase/commit/8715cb9ef11f1b5cecaa6163effc0293310fc040) | fix: repair pyvision lint allowlist | 2026-06-06 14:31:05 UTC |
+| sase | [`8715cb9`](https://github.com/sase-org/sase/commit/8715cb9ef11f1b5cecaa6163effc0293310fc040) | fix: repair pyvision lint allowlist | 2026-06-06 10:31:05 EDT |

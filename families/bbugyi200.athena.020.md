@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`0391b12`](https://github.com/sase-org/sase/commit/0391b12435b8c4644ced791d5f990e6a8812a30b) | chore: Add SDD prompt and plan for completion\_directives\_skills | 2026-06-20 04:01:45 UTC |
-| — | sase | [`27258f1`](https://github.com/sase-org/sase/commit/27258f105b87e5f70fc59ab5bc712ab857e23eac) | feat(ace): auto-open completion menu for directives and xprompt skills | 2026-06-20 04:18:34 UTC |
-| code | sase | [`7183571`](https://github.com/sase-org/sase/commit/71835710281e47198437589bc30588bb61f803a4) | feat(llm-provider): select Gemini 3.7 Flash High for Antigravity in @cheaper | 2026-08-15 11:21:57 UTC |
+| — | sase | [`0391b12`](https://github.com/sase-org/sase/commit/0391b12435b8c4644ced791d5f990e6a8812a30b) | chore: Add SDD prompt and plan for completion\_directives\_skills | 2026-06-20 00:01:45 EDT |
+| — | sase | [`27258f1`](https://github.com/sase-org/sase/commit/27258f105b87e5f70fc59ab5bc712ab857e23eac) | feat(ace): auto-open completion menu for directives and xprompt skills | 2026-06-20 00:18:34 EDT |
+| code | sase | [`7183571`](https://github.com/sase-org/sase/commit/71835710281e47198437589bc30588bb61f803a4) | feat(llm-provider): select Gemini 3.7 Flash High for Antigravity in @cheaper | 2026-08-15 07:21:57 EDT |

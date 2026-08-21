@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`58556f6`](https://github.com/sase-org/sase/commit/58556f6c3f89978a5a3b68ccdd9d1be473b67b86) | docs: update prompt stack documentation | 2026-06-17 16:56:31 UTC |
+| sase | [`58556f6`](https://github.com/sase-org/sase/commit/58556f6c3f89978a5a3b68ccdd9d1be473b67b86) | docs: update prompt stack documentation | 2026-06-17 12:56:31 EDT |
 
 ## Neighbors
 

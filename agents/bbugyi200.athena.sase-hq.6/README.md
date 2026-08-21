@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7b473c7`](https://github.com/sase-org/sase/commit/7b473c7893a86f9f88c4fabc7a7ca5fbc6144c44) | feat: migrate SASE glossary into project config | 2026-08-09 00:42:30 UTC |
+| sase | [`7b473c7`](https://github.com/sase-org/sase/commit/7b473c7893a86f9f88c4fabc7a7ca5fbc6144c44) | feat: migrate SASE glossary into project config | 2026-08-08 20:42:30 EDT |
 
 ## Neighbors
 

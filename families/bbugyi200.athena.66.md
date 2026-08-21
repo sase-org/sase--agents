@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`71effb3`](https://github.com/sase-org/sase/commit/71effb3204c815deb34f1bab3a4d3ac6eb3d69e2) | feat(sdd): nest prompt snapshots with monthly plans | 2026-07-11 21:55:54 UTC |
+| code | sase | [`71effb3`](https://github.com/sase-org/sase/commit/71effb3204c815deb34f1bab3a4d3ac6eb3d69e2) | feat(sdd): nest prompt snapshots with monthly plans | 2026-07-11 17:55:54 EDT |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dff269e`](https://github.com/sase-org/sase/commit/dff269e3a8642a84609ae17d7b3c4ba91595f577) | fix: recover bare git projects from partial init state | 2026-07-06 15:58:13 UTC |
+| sase | [`dff269e`](https://github.com/sase-org/sase/commit/dff269e3a8642a84609ae17d7b3c4ba91595f577) | fix: recover bare git projects from partial init state | 2026-07-06 11:58:13 EDT |

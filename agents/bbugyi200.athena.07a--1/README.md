@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0c341d6`](https://github.com/sase-org/sase/commit/0c341d6073a3ba95e4f2bd2b0d09b40ddfc3322e) | feat(ace): seed the Patches query with the current project | 2026-08-19 01:32:51 UTC |
+| sase | [`0c341d6`](https://github.com/sase-org/sase/commit/0c341d6073a3ba95e4f2bd2b0d09b40ddfc3322e) | feat(ace): seed the Patches query with the current project | 2026-08-18 21:32:51 EDT |

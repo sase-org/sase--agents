@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b87c0b1`](https://github.com/sase-org/sase/commit/b87c0b176777fc72912e0aea5142e2eee3ba22fa) | feat(bead): refresh pending gates when type presentation changes | 2026-08-18 16:11:33 UTC |
+| sase | [`b87c0b1`](https://github.com/sase-org/sase/commit/b87c0b176777fc72912e0aea5142e2eee3ba22fa) | feat(bead): refresh pending gates when type presentation changes | 2026-08-18 12:11:33 EDT |
 
 ## Neighbors
 

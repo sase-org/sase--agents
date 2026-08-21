@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5ade919`](https://github.com/sase-org/sase/commit/5ade919064221311e01a452ab31f055860588dc0) | ref: split multi-prompt launch tests | 2026-06-03 03:29:04 UTC |
+| sase | [`5ade919`](https://github.com/sase-org/sase/commit/5ade919064221311e01a452ab31f055860588dc0) | ref: split multi-prompt launch tests | 2026-06-02 23:29:04 EDT |
 
 ## Neighbors
 

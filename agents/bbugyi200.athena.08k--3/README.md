@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e455e87`](https://github.com/sase-org/sase/commit/e455e8723885999541d3351304e8f6f372c5e49a) | feat(ace): highlight glossary terms and repos in agent prompts | 2026-08-20 16:23:51 UTC |
+| sase | [`e455e87`](https://github.com/sase-org/sase/commit/e455e8723885999541d3351304e8f6f372c5e49a) | feat(ace): highlight glossary terms and repos in agent prompts | 2026-08-20 12:23:51 EDT |

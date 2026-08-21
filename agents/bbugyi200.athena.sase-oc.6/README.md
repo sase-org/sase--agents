@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c0dd172`](https://github.com/sase-org/sase/commit/c0dd17213c17db643240e4e92d91b61b4c11a724) | feat(completion): wire dynamic value candidates into zsh/bash/fish | 2026-08-17 18:53:12 UTC |
+| sase | [`c0dd172`](https://github.com/sase-org/sase/commit/c0dd17213c17db643240e4e92d91b61b4c11a724) | feat(completion): wire dynamic value candidates into zsh/bash/fish | 2026-08-17 14:53:12 EDT |
 
 ## Neighbors
 

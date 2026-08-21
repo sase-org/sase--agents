@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5daa94f`](https://github.com/sase-org/sase/commit/5daa94ff7042f62ea3c6987fb5fbb5c565a93952) | fix: drop member-role anchor fragment from agent Page URL | 2026-08-05 19:05:29 UTC |
+| sase | [`5daa94f`](https://github.com/sase-org/sase/commit/5daa94ff7042f62ea3c6987fb5fbb5c565a93952) | fix: drop member-role anchor fragment from agent Page URL | 2026-08-05 15:05:29 EDT |

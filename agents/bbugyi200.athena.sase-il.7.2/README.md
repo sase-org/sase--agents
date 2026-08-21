@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dcb243b`](https://github.com/sase-org/sase/commit/dcb243b753b1cbc61d5a4b136063792e888d87ff) | feat!: adopt core tale size contract | 2026-08-10 16:57:22 UTC |
+| sase | [`dcb243b`](https://github.com/sase-org/sase/commit/dcb243b753b1cbc61d5a4b136063792e888d87ff) | feat!: adopt core tale size contract | 2026-08-10 12:57:22 EDT |
 
 ## Neighbors
 

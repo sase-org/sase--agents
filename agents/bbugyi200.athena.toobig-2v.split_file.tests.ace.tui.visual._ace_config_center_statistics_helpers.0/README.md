@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2f62453`](https://github.com/sase-org/sase/commit/2f62453b9314ab6e8ec3a3774e5093a6d2329598) | refactor(tests): split statistics snapshot helpers | 2026-08-16 23:10:05 UTC |
+| sase | [`2f62453`](https://github.com/sase-org/sase/commit/2f62453b9314ab6e8ec3a3774e5093a6d2329598) | refactor(tests): split statistics snapshot helpers | 2026-08-16 19:10:05 EDT |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`00da398`](https://github.com/sase-org/sase/commit/00da3981fa6b60a3ce55941c8e4814572053fec9) | refactor(tests): split \_test\_selection into focused modules | 2026-08-06 10:22:15 UTC |
+| sase | [`00da398`](https://github.com/sase-org/sase/commit/00da3981fa6b60a3ce55941c8e4814572053fec9) | refactor(tests): split \_test\_selection into focused modules | 2026-08-06 06:22:15 EDT |
 
 ## Neighbors
 

@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bc359cc`](https://github.com/sase-org/sase/commit/bc359cca664cc00070ab4f9bbc2959e9668761e9) | feat(opencode): recognize ZHIPU\_API\_KEY in OpenCode auth checks | 2026-07-31 20:39:58 UTC |
+| sase | [`bc359cc`](https://github.com/sase-org/sase/commit/bc359cca664cc00070ab4f9bbc2959e9668761e9) | feat(opencode): recognize ZHIPU\_API\_KEY in OpenCode auth checks | 2026-07-31 16:39:58 EDT |

@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`953f070`](https://github.com/sase-org/sase/commit/953f0704710b7c51e8dbf4f0a17cd95e648fdff7) | feat(workspace): relocate linked repository clones | 2026-07-11 22:14:55 UTC |
+| code | sase | [`953f070`](https://github.com/sase-org/sase/commit/953f0704710b7c51e8dbf4f0a17cd95e648fdff7) | feat(workspace): relocate linked repository clones | 2026-07-11 18:14:55 EDT |
 
 ## Neighbors
 

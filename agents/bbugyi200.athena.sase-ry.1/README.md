@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c83926b`](https://github.com/sase-org/sase/commit/c83926b522afbcc305aee6f14503255fa61e192f) | ci: install just in release core floor smoke | 2026-08-21 19:10:53 UTC |
+| sase | [`c83926b`](https://github.com/sase-org/sase/commit/c83926b522afbcc305aee6f14503255fa61e192f) | ci: install just in release core floor smoke | 2026-08-21 15:10:53 EDT |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5abf9eb`](https://github.com/sase-org/sase/commit/5abf9eb64e3cc85b50ccf5d91d77f78c4a83a767) | feat(ace-tui): render ranking evidence on placeholder completion rows | 2026-08-17 13:09:12 UTC |
+| sase | [`5abf9eb`](https://github.com/sase-org/sase/commit/5abf9eb64e3cc85b50ccf5d91d77f78c4a83a767) | feat(ace-tui): render ranking evidence on placeholder completion rows | 2026-08-17 09:09:12 EDT |
 
 ## Neighbors
 

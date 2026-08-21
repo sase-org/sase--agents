@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`570d734`](https://github.com/sase-org/sase/commit/570d7347a3eb9bdaf6b874d36640e17a814cf775) | chore: Add SDD prompt and plan for github\_enterprise\_support | 2026-07-01 12:06:47 UTC |
-| sase | [`921e119`](https://github.com/sase-org/sase/commit/921e11919a337c993c192801631d24a4b16b5f47) | chore: Mark SDD plan done | 2026-07-01 12:25:59 UTC |
+| sase | [`570d734`](https://github.com/sase-org/sase/commit/570d7347a3eb9bdaf6b874d36640e17a814cf775) | chore: Add SDD prompt and plan for github\_enterprise\_support | 2026-07-01 08:06:47 EDT |
+| sase | [`921e119`](https://github.com/sase-org/sase/commit/921e11919a337c993c192801631d24a4b16b5f47) | chore: Mark SDD plan done | 2026-07-01 08:25:59 EDT |
 
 ## Neighbors
 

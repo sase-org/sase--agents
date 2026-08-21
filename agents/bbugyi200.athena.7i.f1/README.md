@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1ecb909`](https://github.com/sase-org/sase/commit/1ecb9093549eef9d4b13b308685d4b5aef1d4583) | chore: Add SDD prompt and plan for blog00\_paper\_crediting | 2026-06-14 19:27:31 UTC |
-| sase | [`ea8815d`](https://github.com/sase-org/sase/commit/ea8815dced545ecee0ab56d3b757990afe51cdc6) | docs: credit SASE paper in orchestration post | 2026-06-14 19:32:25 UTC |
+| sase | [`1ecb909`](https://github.com/sase-org/sase/commit/1ecb9093549eef9d4b13b308685d4b5aef1d4583) | chore: Add SDD prompt and plan for blog00\_paper\_crediting | 2026-06-14 15:27:31 EDT |
+| sase | [`ea8815d`](https://github.com/sase-org/sase/commit/ea8815dced545ecee0ab56d3b757990afe51cdc6) | docs: credit SASE paper in orchestration post | 2026-06-14 15:32:25 EDT |
 
 ## Neighbors
 

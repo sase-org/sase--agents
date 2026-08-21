@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f424add`](https://github.com/sase-org/sase/commit/f424add87b6a0a6005083dcbe9b3fc5842828d32) | docs: add dynamic agent families infographic | 2026-07-06 13:43:57 UTC |
+| sase | [`f424add`](https://github.com/sase-org/sase/commit/f424add87b6a0a6005083dcbe9b3fc5842828d32) | docs: add dynamic agent families infographic | 2026-07-06 09:43:57 EDT |
 
 ## Neighbors
 

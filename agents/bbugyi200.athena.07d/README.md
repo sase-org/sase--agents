@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9ac9d31`](https://github.com/sase-org/sase/commit/9ac9d31c9ed0be1b26a32466c18a07fd53083832) | feat(tui): describe Admin Center tabs | 2026-06-27 11:15:46 UTC |
+| sase | [`9ac9d31`](https://github.com/sase-org/sase/commit/9ac9d31c9ed0be1b26a32466c18a07fd53083832) | feat(tui): describe Admin Center tabs | 2026-06-27 07:15:46 EDT |

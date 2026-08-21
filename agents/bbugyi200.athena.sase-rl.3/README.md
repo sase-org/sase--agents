@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e31fef7`](https://github.com/sase-org/sase/commit/e31fef74460a9bcf58ed3c182ec81294351bbdcf) | feat(tui): persist mini-xprompt saves safely | 2026-08-21 10:15:32 UTC |
+| sase | [`e31fef7`](https://github.com/sase-org/sase/commit/e31fef74460a9bcf58ed3c182ec81294351bbdcf) | feat(tui): persist mini-xprompt saves safely | 2026-08-21 06:15:32 EDT |
 
 ## Neighbors
 

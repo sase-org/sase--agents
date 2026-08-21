@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8675b6b`](https://github.com/sase-org/sase/commit/8675b6bc17b6b067bedbfcfc2a0a4a2db6eba68d) | fix: gate runners before deferred workspace setup | 2026-07-13 13:41:10 UTC |
+| sase | [`8675b6b`](https://github.com/sase-org/sase/commit/8675b6bc17b6b067bedbfcfc2a0a4a2db6eba68d) | fix: gate runners before deferred workspace setup | 2026-07-13 09:41:10 EDT |

@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f65466f`](https://github.com/sase-org/sase/commit/f65466f22828cee27dddf449c555ba405e3f18bd) | feat: clean up agent name template references (sase-4g.5) | 2026-06-08 21:01:53 UTC |
+| sase | [`f65466f`](https://github.com/sase-org/sase/commit/f65466f22828cee27dddf449c555ba405e3f18bd) | feat: clean up agent name template references (sase-4g.5) | 2026-06-08 17:01:53 EDT |
 
 ## Neighbors
 

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0a1aef7`](https://github.com/sase-org/sase/commit/0a1aef7d80cd755b3f55ea62ee8aa4e69759daca) | feat(artifact-links): persist sidecar indexes on mutate and finalize | 2026-08-21 17:45:29 UTC |
+| sase | [`0a1aef7`](https://github.com/sase-org/sase/commit/0a1aef7d80cd755b3f55ea62ee8aa4e69759daca) | feat(artifact-links): persist sidecar indexes on mutate and finalize | 2026-08-21 13:45:29 EDT |

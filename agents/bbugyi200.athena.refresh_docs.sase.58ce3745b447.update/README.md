@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5ad6af1`](https://github.com/sase-org/sase/commit/5ad6af1d6e9ac8e0c61903ddbf8e02971d4dd6de) | docs: refresh SASE user documentation | 2026-06-23 11:20:57 UTC |
+| sase | [`5ad6af1`](https://github.com/sase-org/sase/commit/5ad6af1d6e9ac8e0c61903ddbf8e02971d4dd6de) | docs: refresh SASE user documentation | 2026-06-23 07:20:57 EDT |
 
 ## Neighbors
 

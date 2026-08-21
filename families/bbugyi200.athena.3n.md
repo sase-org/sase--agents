@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`228b496`](https://github.com/sase-org/sase/commit/228b496e0e109962d8acb42a4af6e7b335394e7d) | fix(tui): handle control-byte prompt chords | 2026-07-09 16:54:30 UTC |
+| code | sase | [`228b496`](https://github.com/sase-org/sase/commit/228b496e0e109962d8acb42a4af6e7b335394e7d) | fix(tui): handle control-byte prompt chords | 2026-07-09 12:54:30 EDT |

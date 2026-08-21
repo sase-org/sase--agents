@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`526b128`](https://github.com/sase-org/sase/commit/526b1283b9f972a94b6f3d59147e5d0cf1d4e390) | refactor: split bead task triage script | 2026-08-12 21:34:08 UTC |
+| sase | [`526b128`](https://github.com/sase-org/sase/commit/526b1283b9f972a94b6f3d59147e5d0cf1d4e390) | refactor: split bead task triage script | 2026-08-12 17:34:08 EDT |
 
 ## Neighbors
 

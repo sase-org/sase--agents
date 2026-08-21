@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c96dafe`](https://github.com/sase-org/sase/commit/c96dafe5ed5a86d6f0e072e0f5da6d1a974113c5) | test(sase-85.3): Add end-to-end epic summary smoke tests | 2026-07-20 16:12:43 UTC |
+| sase | [`c96dafe`](https://github.com/sase-org/sase/commit/c96dafe5ed5a86d6f0e072e0f5da6d1a974113c5) | test(sase-85.3): Add end-to-end epic summary smoke tests | 2026-07-20 12:12:43 EDT |
 
 ## Neighbors
 

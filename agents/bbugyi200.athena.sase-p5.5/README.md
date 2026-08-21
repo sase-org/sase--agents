@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`af951d1`](https://github.com/sase-org/sase/commit/af951d1f943a999c565f36fdc0301c2c576dd02e) | fix(llm\_provider): make the discarded-work guard's failure diagnostic actionable | 2026-08-18 11:17:02 UTC |
+| sase | [`af951d1`](https://github.com/sase-org/sase/commit/af951d1f943a999c565f36fdc0301c2c576dd02e) | fix(llm\_provider): make the discarded-work guard's failure diagnostic actionable | 2026-08-18 07:17:02 EDT |
 
 ## Neighbors
 

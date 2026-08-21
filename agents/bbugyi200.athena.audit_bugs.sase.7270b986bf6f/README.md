@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dfd3c48`](https://github.com/sase-org/sase/commit/dfd3c48ab6390e62726d40bebe91cc5b306b9b26) | fix: harden task ownership and temporary cleanup (#260) | 2026-07-29 10:17:55 UTC |
+| sase | [`dfd3c48`](https://github.com/sase-org/sase/commit/dfd3c48ab6390e62726d40bebe91cc5b306b9b26) | fix: harden task ownership and temporary cleanup (#260) | 2026-07-29 06:17:55 EDT |
 
 ## Neighbors
 

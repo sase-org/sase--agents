@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cdd9073`](https://github.com/sase-org/sase/commit/cdd907377a7ae0e111418eccfa0a5f12f87508a6) | test(ace): split artifacts plans test module | 2026-07-19 12:29:23 UTC |
+| sase | [`cdd9073`](https://github.com/sase-org/sase/commit/cdd907377a7ae0e111418eccfa0a5f12f87508a6) | test(ace): split artifacts plans test module | 2026-07-19 08:29:23 EDT |
 
 ## Neighbors
 

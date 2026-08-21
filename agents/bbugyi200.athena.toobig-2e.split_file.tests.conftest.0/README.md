@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dae1bb5`](https://github.com/sase-org/sase/commit/dae1bb5d9b4faaee8379806f39bbf25ded6eb4e2) | test: split root pytest fixtures by concern | 2026-08-11 14:55:25 UTC |
+| sase | [`dae1bb5`](https://github.com/sase-org/sase/commit/dae1bb5d9b4faaee8379806f39bbf25ded6eb4e2) | test: split root pytest fixtures by concern | 2026-08-11 10:55:25 EDT |
 
 ## Neighbors
 

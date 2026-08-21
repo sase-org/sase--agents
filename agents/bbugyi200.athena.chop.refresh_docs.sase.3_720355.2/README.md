@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7164ac9`](https://github.com/sase-org/sase/commit/7164ac9e9cb71ac17d5431d166a1f36b5b312f3c) | docs: correct artifact handoff and Rust boundary guidance | 2026-07-30 08:40:34 UTC |
+| sase | [`7164ac9`](https://github.com/sase-org/sase/commit/7164ac9e9cb71ac17d5431d166a1f36b5b312f3c) | docs: correct artifact handoff and Rust boundary guidance | 2026-07-30 04:40:34 EDT |
 
 ## Neighbors
 

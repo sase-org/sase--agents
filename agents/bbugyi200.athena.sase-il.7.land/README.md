@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7691738`](https://github.com/sase-org/sase/commit/769173869556de3c3677510703c0180ad019dee2) | docs: document the tale size contract and show its launch normalization | 2026-08-10 17:55:58 UTC |
+| sase | [`7691738`](https://github.com/sase-org/sase/commit/769173869556de3c3677510703c0180ad019dee2) | docs: document the tale size contract and show its launch normalization | 2026-08-10 13:55:58 EDT |
 
 ## Neighbors
 

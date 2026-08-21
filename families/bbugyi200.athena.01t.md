@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`d3c5254`](https://github.com/sase-org/sase/commit/d3c5254ca8cbddf7df611592793632ba3b1cb4a7) | feat(cli)!: make \`sase agent show\` take the agent name positionally | 2026-08-14 20:56:46 UTC |
+| code | sase | [`d3c5254`](https://github.com/sase-org/sase/commit/d3c5254ca8cbddf7df611592793632ba3b1cb4a7) | feat(cli)!: make \`sase agent show\` take the agent name positionally | 2026-08-14 16:56:46 EDT |

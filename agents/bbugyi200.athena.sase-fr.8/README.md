@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d7ac0da`](https://github.com/sase-org/sase/commit/d7ac0dab5cdfc4c2b00f102e588d5d8506b6196f) | docs(beads): document close history and reopen provenance | 2026-08-06 04:00:09 UTC |
+| sase | [`d7ac0da`](https://github.com/sase-org/sase/commit/d7ac0dab5cdfc4c2b00f102e588d5d8506b6196f) | docs(beads): document close history and reopen provenance | 2026-08-06 00:00:09 EDT |
 
 ## Neighbors
 

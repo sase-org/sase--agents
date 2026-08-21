@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`530c574`](https://github.com/sase-org/sase/commit/530c574d28b847b94e760c2246212fe4db236b6b) | refactor(bead): split snooze\_gate.py into focused modules | 2026-08-18 21:42:41 UTC |
+| sase | [`530c574`](https://github.com/sase-org/sase/commit/530c574d28b847b94e760c2246212fe4db236b6b) | refactor(bead): split snooze\_gate.py into focused modules | 2026-08-18 17:42:41 EDT |
 
 ## Neighbors
 

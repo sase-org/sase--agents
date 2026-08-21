@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8cc3913`](https://github.com/sase-org/sase/commit/8cc3913fcdef75cca2482f656abaac3b98e263c5) | build(deps): require sase-core-rs 0.17.14 | 2026-08-03 14:03:59 UTC |
+| sase | [`8cc3913`](https://github.com/sase-org/sase/commit/8cc3913fcdef75cca2482f656abaac3b98e263c5) | build(deps): require sase-core-rs 0.17.14 | 2026-08-03 10:03:59 EDT |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`24432d9`](https://github.com/sase-org/sase/commit/24432d9d50246e39109dcb0468816f98dbd7635c) | feat(artifacts): stage prompt references for durable capture | 2026-08-01 16:24:55 UTC |
+| sase | [`24432d9`](https://github.com/sase-org/sase/commit/24432d9d50246e39109dcb0468816f98dbd7635c) | feat(artifacts): stage prompt references for durable capture | 2026-08-01 12:24:55 EDT |
 
 ## Neighbors
 

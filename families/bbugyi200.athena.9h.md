@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`add1577`](https://github.com/sase-org/sase/commit/add1577de51e02459bdb3ba67a72ca69207210da) | fix(update): upgrade core wheel with editable sources | 2026-07-15 18:18:21 UTC |
+| code | sase | [`add1577`](https://github.com/sase-org/sase/commit/add1577de51e02459bdb3ba67a72ca69207210da) | fix(update): upgrade core wheel with editable sources | 2026-07-15 14:18:21 EDT |
 
 ## Neighbors
 

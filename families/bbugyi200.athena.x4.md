@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`7c22405`](https://github.com/sase-org/sase/commit/7c224059c562d4f45aa58f1fb5f44019be24ab5e) | feat(plan): associate proposals from task beads | 2026-08-10 14:24:31 UTC |
+| code | sase | [`7c22405`](https://github.com/sase-org/sase/commit/7c224059c562d4f45aa58f1fb5f44019be24ab5e) | feat(plan): associate proposals from task beads | 2026-08-10 10:24:31 EDT |

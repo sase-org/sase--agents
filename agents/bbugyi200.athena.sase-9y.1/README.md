@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3e0dbc7`](https://github.com/sase-org/sase/commit/3e0dbc7234ac8f6f07fe60eab5638bf3bf3dc90b) | test(bead): isolate epic-work CLI tests from the real bead store (sase-9y.1) | 2026-07-27 11:50:51 UTC |
+| sase | [`3e0dbc7`](https://github.com/sase-org/sase/commit/3e0dbc7234ac8f6f07fe60eab5638bf3bf3dc90b) | test(bead): isolate epic-work CLI tests from the real bead store (sase-9y.1) | 2026-07-27 07:50:51 EDT |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0e18509`](https://github.com/sase-org/sase/commit/0e18509f8a664d29ee1950787a62a5c7f44a8717) | feat(tui): extract reusable launch pane | 2026-08-21 11:13:51 UTC |
+| sase | [`0e18509`](https://github.com/sase-org/sase/commit/0e18509f8a664d29ee1950787a62a5c7f44a8717) | feat(tui): extract reusable launch pane | 2026-08-21 07:13:51 EDT |
 
 ## Neighbors
 

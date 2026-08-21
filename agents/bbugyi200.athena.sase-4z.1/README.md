@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1039d73`](https://github.com/sase-org/sase/commit/1039d73ed2218fdd80116ea7b1559a72c4a2a1be) | feat(xprompt): add headless project catalog + expansion helpers for \`+\` VCS completion (sase-4z.1) | 2026-06-19 14:28:44 UTC |
+| sase | [`1039d73`](https://github.com/sase-org/sase/commit/1039d73ed2218fdd80116ea7b1559a72c4a2a1be) | feat(xprompt): add headless project catalog + expansion helpers for \`+\` VCS completion (sase-4z.1) | 2026-06-19 10:28:44 EDT |
 
 ## Neighbors
 

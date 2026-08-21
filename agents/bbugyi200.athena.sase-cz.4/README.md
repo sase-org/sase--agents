@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`86a51e1`](https://github.com/sase-org/sase/commit/86a51e1d5b2825c402b3d699d3acc51d7e5e41a2) | feat(gates): title gate review modal from adapter and show filer | 2026-08-01 12:06:09 UTC |
+| sase | [`86a51e1`](https://github.com/sase-org/sase/commit/86a51e1d5b2825c402b3d699d3acc51d7e5e41a2) | feat(gates): title gate review modal from adapter and show filer | 2026-08-01 08:06:09 EDT |
 
 ## Neighbors
 

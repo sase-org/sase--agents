@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`ba0a3cd`](https://github.com/sase-org/sase/commit/ba0a3cd92f02754effe0db0f647ff21c82b8b32f) | feat: add hidden agents sidecar foundation (sase-8k.4) | 2026-07-22 15:54:46 UTC |
+| — | sase | [`ba0a3cd`](https://github.com/sase-org/sase/commit/ba0a3cd92f02754effe0db0f647ff21c82b8b32f) | feat: add hidden agents sidecar foundation (sase-8k.4) | 2026-07-22 11:54:46 EDT |
 
 ## Neighbors
 

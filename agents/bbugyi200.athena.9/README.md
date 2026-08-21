@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2dcaec5`](https://github.com/sase-org/sase/commit/2dcaec58a7282627b73e2956f4ba6b0a585046f8) | chore: Add SDD prompt and plan for provider\_coder\_alias\_fallback | 2026-07-06 16:52:44 UTC |
+| sase | [`2dcaec5`](https://github.com/sase-org/sase/commit/2dcaec58a7282627b73e2956f4ba6b0a585046f8) | chore: Add SDD prompt and plan for provider\_coder\_alias\_fallback | 2026-07-06 12:52:44 EDT |

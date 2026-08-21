@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`e5361f4`](https://github.com/sase-org/sase/commit/e5361f4dee7eec736acd8e4f32812f804cb998a1) | feat(llm-provider): hide fakey from model pickers and %model completion | 2026-07-31 11:22:44 UTC |
+| code | sase | [`e5361f4`](https://github.com/sase-org/sase/commit/e5361f4dee7eec736acd8e4f32812f804cb998a1) | feat(llm-provider): hide fakey from model pickers and %model completion | 2026-07-31 07:22:44 EDT |
 
 ## Neighbors
 

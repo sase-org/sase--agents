@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6ee3347`](https://github.com/sase-org/sase/commit/6ee334708e366715046bc7f871ca66f234794126) | fix(ace): reject typed selectors in builder members | 2026-08-14 17:09:42 UTC |
+| sase | [`6ee3347`](https://github.com/sase-org/sase/commit/6ee334708e366715046bc7f871ca66f234794126) | fix(ace): reject typed selectors in builder members | 2026-08-14 13:09:42 EDT |
 
 ## Neighbors
 

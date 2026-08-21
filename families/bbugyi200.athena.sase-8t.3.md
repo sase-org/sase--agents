@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`d0cf97a`](https://github.com/sase-org/sase/commit/d0cf97a12930b4c28e0f86097518cf05965ca306) | feat(axe): add whole-system status command (sase-8t.3) | 2026-07-23 13:05:49 UTC |
+| code | sase | [`d0cf97a`](https://github.com/sase-org/sase/commit/d0cf97a12930b4c28e0f86097518cf05965ca306) | feat(axe): add whole-system status command (sase-8t.3) | 2026-07-23 09:05:49 EDT |
 
 ## Neighbors
 

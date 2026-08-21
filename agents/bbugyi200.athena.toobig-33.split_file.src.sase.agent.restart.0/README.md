@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`daa095e`](https://github.com/sase-org/sase/commit/daa095ec3be940f398e1b1b7a8f68fb321002de3) | refactor(agent): split restart.py into focused modules | 2026-08-18 20:59:39 UTC |
+| sase | [`daa095e`](https://github.com/sase-org/sase/commit/daa095ec3be940f398e1b1b7a8f68fb321002de3) | refactor(agent): split restart.py into focused modules | 2026-08-18 16:59:39 EDT |
 
 ## Neighbors
 

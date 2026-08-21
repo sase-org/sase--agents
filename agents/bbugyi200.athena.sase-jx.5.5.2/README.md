@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b4c6038`](https://github.com/sase-org/sase/commit/b4c6038e64bfd83e39e071d05ba055057c1426c1) | build(deps): ratchet sase-core-rs floor | 2026-08-12 18:59:45 UTC |
+| sase | [`b4c6038`](https://github.com/sase-org/sase/commit/b4c6038e64bfd83e39e071d05ba055057c1426c1) | build(deps): ratchet sase-core-rs floor | 2026-08-12 14:59:45 EDT |
 
 ## Neighbors
 

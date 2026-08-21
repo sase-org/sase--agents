@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`18c681c`](https://github.com/sase-org/sase/commit/18c681ca80884c8b24b53e9311353a467a934fb6) | test(ace-tui): anchor title-refinement tests to the mount-loads barrier | 2026-08-06 16:39:08 UTC |
+| sase | [`18c681c`](https://github.com/sase-org/sase/commit/18c681ca80884c8b24b53e9311353a467a934fb6) | test(ace-tui): anchor title-refinement tests to the mount-loads barrier | 2026-08-06 12:39:08 EDT |
 
 ## Neighbors
 

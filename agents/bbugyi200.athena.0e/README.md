@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c5f48b6`](https://github.com/sase-org/sase/commit/c5f48b6d601915c4fab8b3d7b7870502c2d2f4e3) | chore: Add SDD prompt and plan for popup\_panel\_tab\_switch\_keymaps | 2026-07-07 15:13:39 UTC |
+| sase | [`c5f48b6`](https://github.com/sase-org/sase/commit/c5f48b6d601915c4fab8b3d7b7870502c2d2f4e3) | chore: Add SDD prompt and plan for popup\_panel\_tab\_switch\_keymaps | 2026-07-07 11:13:39 EDT |
 
 ## Neighbors
 

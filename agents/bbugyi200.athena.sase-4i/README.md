@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1511073`](https://github.com/sase-org/sase/commit/1511073f38e4c7e64f819c2de6e67a19a573b34f) | chore: close sase-4i doctor epic | 2026-06-09 17:50:36 UTC |
+| sase | [`1511073`](https://github.com/sase-org/sase/commit/1511073f38e4c7e64f819c2de6e67a19a573b34f) | chore: close sase-4i doctor epic | 2026-06-09 13:50:36 EDT |
 
 ## Neighbors
 

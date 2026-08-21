@@ -30,4 +30,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`35d75b2`](https://github.com/sase-org/sase/commit/35d75b24e9e76b85f8952df8bf21dbc77bd7be3a) | fix(bead): stop commit finalizer failing runs over staged bead state | 2026-08-16 21:20:46 UTC |
+| 1 | sase | [`35d75b2`](https://github.com/sase-org/sase/commit/35d75b24e9e76b85f8952df8bf21dbc77bd7be3a) | fix(bead): stop commit finalizer failing runs over staged bead state | 2026-08-16 17:20:46 EDT |

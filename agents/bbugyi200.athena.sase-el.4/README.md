@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d55db39`](https://github.com/sase-org/sase/commit/d55db39c9fb6c0b1e63d7bd838d62bb1f4df6785) | feat(ace): polish agent CLI update history | 2026-08-03 14:29:16 UTC |
+| sase | [`d55db39`](https://github.com/sase-org/sase/commit/d55db39c9fb6c0b1e63d7bd838d62bb1f4df6785) | feat(ace): polish agent CLI update history | 2026-08-03 10:29:16 EDT |
 
 ## Neighbors
 

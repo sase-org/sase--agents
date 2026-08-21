@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`fbe165b`](https://github.com/sase-org/sase/commit/fbe165baf8bd7b6492c06cf35da5d9ca1610c16e) | feat(agent): rename plan family roots | 2026-07-18 12:54:07 UTC |
+| code | sase | [`fbe165b`](https://github.com/sase-org/sase/commit/fbe165baf8bd7b6492c06cf35da5d9ca1610c16e) | feat(agent): rename plan family roots | 2026-07-18 08:54:07 EDT |
 
 ## Neighbors
 

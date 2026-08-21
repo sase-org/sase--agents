@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5868154`](https://github.com/sase-org/sase/commit/5868154f1c267fdeb05635c656394b40f12389a6) | fix(ace): descend from tribe focus on agent jumps | 2026-07-19 12:44:50 UTC |
+| sase | [`5868154`](https://github.com/sase-org/sase/commit/5868154f1c267fdeb05635c656394b40f12389a6) | fix(ace): descend from tribe focus on agent jumps | 2026-07-19 08:44:50 EDT |

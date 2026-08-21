@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7b9e68c`](https://github.com/sase-org/sase/commit/7b9e68cccb44a858f23f0108782a6622096136b8) | chore: add memory research infographic | 2026-05-31 18:56:31 UTC |
+| sase | [`7b9e68c`](https://github.com/sase-org/sase/commit/7b9e68cccb44a858f23f0108782a6622096136b8) | chore: add memory research infographic | 2026-05-31 14:56:31 EDT |
 
 ## Neighbors
 

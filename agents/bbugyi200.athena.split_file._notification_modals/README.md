@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b0cbedf`](https://github.com/sase-org/sase/commit/b0cbedf6169b18e47b6b789ce0e47c88eb500036) | refactor(ace): split launch notification modal handling | 2026-07-06 18:21:33 UTC |
+| sase | [`b0cbedf`](https://github.com/sase-org/sase/commit/b0cbedf6169b18e47b6b789ce0e47c88eb500036) | refactor(ace): split launch notification modal handling | 2026-07-06 14:21:33 EDT |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0c051a0`](https://github.com/sase-org/sase/commit/0c051a009d8ca740c801bb9d1ef9fe3281ba94c3) | fix(tui): offload legacy epic approval launch (sase-9v.8) | 2026-07-26 16:36:05 UTC |
+| sase | [`0c051a0`](https://github.com/sase-org/sase/commit/0c051a009d8ca740c801bb9d1ef9fe3281ba94c3) | fix(tui): offload legacy epic approval launch (sase-9v.8) | 2026-07-26 12:36:05 EDT |
 
 ## Neighbors
 

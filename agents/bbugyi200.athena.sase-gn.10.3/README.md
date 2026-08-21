@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`222dd1e`](https://github.com/sase-org/sase/commit/222dd1e26c9d6f579c0ceb4d97740f7e870e7dc3) | refactor(bead): merge snooze\_duration.py into snooze\_time.py as single wake-time parser | 2026-08-07 04:37:50 UTC |
+| sase | [`222dd1e`](https://github.com/sase-org/sase/commit/222dd1e26c9d6f579c0ceb4d97740f7e870e7dc3) | refactor(bead): merge snooze\_duration.py into snooze\_time.py as single wake-time parser | 2026-08-07 00:37:50 EDT |
 
 ## Neighbors
 

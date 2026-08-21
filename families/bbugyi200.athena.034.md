@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`233d624`](https://github.com/sase-org/sase/commit/233d6246332cec09b875b8c14b1c27215622c349) | fix(ace): keep launch-default indicator live as the @large pool rotates | 2026-08-16 01:09:18 UTC |
+| code | sase | [`233d624`](https://github.com/sase-org/sase/commit/233d6246332cec09b875b8c14b1c27215622c349) | fix(ace): keep launch-default indicator live as the @large pool rotates | 2026-08-15 21:09:18 EDT |
 
 ## Neighbors
 

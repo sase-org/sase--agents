@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`c9f2450`](https://github.com/sase-org/sase/commit/c9f2450ae0d1c0a183fa31f680670b281d2ae04b) | fix: defer epic completion notifications until launch settles | 2026-07-27 11:36:22 UTC |
+| code | sase | [`c9f2450`](https://github.com/sase-org/sase/commit/c9f2450ae0d1c0a183fa31f680670b281d2ae04b) | fix: defer epic completion notifications until launch settles | 2026-07-27 07:36:22 EDT |

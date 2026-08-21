@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`607b72b`](https://github.com/sase-org/sase/commit/607b72bb0d9492cc184da022a5305748360aa96a) | test: bump flake-baseline cutoff past fixed historical xprompt records | 2026-08-08 21:27:22 UTC |
+| sase | [`607b72b`](https://github.com/sase-org/sase/commit/607b72bb0d9492cc184da022a5305748360aa96a) | test: bump flake-baseline cutoff past fixed historical xprompt records | 2026-08-08 17:27:22 EDT |
 
 ## Neighbors
 

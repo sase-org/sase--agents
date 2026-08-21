@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c75a27d`](https://github.com/sase-org/sase/commit/c75a27d9b3d3ef1f5552db288769a1aaa7e93dfc) | test(tui): split agent panel title tests into focused modules | 2026-08-19 05:13:18 UTC |
+| sase | [`c75a27d`](https://github.com/sase-org/sase/commit/c75a27d9b3d3ef1f5552db288769a1aaa7e93dfc) | test(tui): split agent panel title tests into focused modules | 2026-08-19 01:13:18 EDT |
 
 ## Neighbors
 

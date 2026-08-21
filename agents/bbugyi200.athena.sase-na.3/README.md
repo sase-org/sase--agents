@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`101af72`](https://github.com/sase-org/sase/commit/101af72428a1fc4f3c3c51f8cc25c57900c0adcb) | feat(history): wire ranked word completion into the history-word menu | 2026-08-16 19:20:00 UTC |
+| sase | [`101af72`](https://github.com/sase-org/sase/commit/101af72428a1fc4f3c3c51f8cc25c57900c0adcb) | feat(history): wire ranked word completion into the history-word menu | 2026-08-16 15:20:00 EDT |
 
 ## Neighbors
 

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`522c728`](https://github.com/sase-org/sase/commit/522c728d729d9d5011fd995befb8338c913d0f1d) | fix(test-gate)!: bound the ungoverned suite-gate bypass | 2026-08-08 00:20:25 UTC |
+| sase | [`522c728`](https://github.com/sase-org/sase/commit/522c728d729d9d5011fd995befb8338c913d0f1d) | fix(test-gate)!: bound the ungoverned suite-gate bypass | 2026-08-07 20:20:25 EDT |

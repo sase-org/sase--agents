@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`e3a898b`](https://github.com/sase-org/sase/commit/e3a898b6a32609979d79ce03d31f6dbf0d7dbc16) | fix(beads): route deferred close pushes correctly | 2026-07-30 20:21:09 UTC |
+| code | sase | [`e3a898b`](https://github.com/sase-org/sase/commit/e3a898b6a32609979d79ce03d31f6dbf0d7dbc16) | fix(beads): route deferred close pushes correctly | 2026-07-30 16:21:09 EDT |

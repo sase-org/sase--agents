@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3c994a1`](https://github.com/sase-org/sase/commit/3c994a105dd471607380c62042db31c7ced1e748) | test: split timezone display consistency coverage | 2026-08-03 19:01:09 UTC |
+| sase | [`3c994a1`](https://github.com/sase-org/sase/commit/3c994a105dd471607380c62042db31c7ced1e748) | test: split timezone display consistency coverage | 2026-08-03 15:01:09 EDT |
 
 ## Neighbors
 

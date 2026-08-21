@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1fdde5f`](https://github.com/sase-org/sase/commit/1fdde5fbe05ece60ef272421a3d35546c2da3a91) | feat(ace): show runner capacity in agents header | 2026-07-20 14:19:44 UTC |
+| sase | [`1fdde5f`](https://github.com/sase-org/sase/commit/1fdde5fbe05ece60ef272421a3d35546c2da3a91) | feat(ace): show runner capacity in agents header | 2026-07-20 10:19:44 EDT |
 
 ## Neighbors
 

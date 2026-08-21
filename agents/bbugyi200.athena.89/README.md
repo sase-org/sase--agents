@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d5cf8a6`](https://github.com/sase-org/sase/commit/d5cf8a6b842f11acb81ad5c48642309652412bfc) | chore: Add SDD prompt and plan for question\_code\_prompt\_model | 2026-06-15 21:38:30 UTC |
-| sase | [`14de3b4`](https://github.com/sase-org/sase/commit/14de3b4e91030f45a36f64164a826aecb8af0cb2) | fix: rebuild question continuations from the interrupted phase prompt | 2026-06-15 22:00:22 UTC |
+| sase | [`d5cf8a6`](https://github.com/sase-org/sase/commit/d5cf8a6b842f11acb81ad5c48642309652412bfc) | chore: Add SDD prompt and plan for question\_code\_prompt\_model | 2026-06-15 17:38:30 EDT |
+| sase | [`14de3b4`](https://github.com/sase-org/sase/commit/14de3b4e91030f45a36f64164a826aecb8af0cb2) | fix: rebuild question continuations from the interrupted phase prompt | 2026-06-15 18:00:22 EDT |
 
 ## Neighbors
 

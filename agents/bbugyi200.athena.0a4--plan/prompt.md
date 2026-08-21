@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make the errors that we link to (by recommnding users use the `,L` keymap in an error toast) on the "Logs" tab of the "SASE Admin Center" panel when agents fail to launch? There's very little context to help debug errors currently (see #sshot for context). #plan

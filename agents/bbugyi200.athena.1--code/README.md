@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a4edccd`](https://github.com/sase-org/sase/commit/a4edccd46a18f6506a25d5ced975518b551cb2e8) | fix(mode-switch): fast-forward reusable dev checkouts | 2026-07-06 10:47:57 UTC |
+| sase | [`a4edccd`](https://github.com/sase-org/sase/commit/a4edccd46a18f6506a25d5ced975518b551cb2e8) | fix(mode-switch): fast-forward reusable dev checkouts | 2026-07-06 06:47:57 EDT |

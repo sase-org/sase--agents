@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4eb0c20`](https://github.com/sase-org/sase/commit/4eb0c20b31c3b9ecf149f5f061d9c37a1655b725) | fix(ace): distinguish hard and soft provider disables in tmux Agent | 2026-08-19 20:47:34 UTC |
+| sase | [`4eb0c20`](https://github.com/sase-org/sase/commit/4eb0c20b31c3b9ecf149f5f061d9c37a1655b725) | fix(ace): distinguish hard and soft provider disables in tmux Agent | 2026-08-19 16:47:34 EDT |
 
 ## Neighbors
 

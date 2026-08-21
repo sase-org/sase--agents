@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`067ed4f`](https://github.com/sase-org/sase/commit/067ed4f2174a005e8fbbf5f062b970f94109c16c) | fix(ace): retreat selected workflow/family one H level first | 2026-08-15 18:25:24 UTC |
+| code | sase | [`067ed4f`](https://github.com/sase-org/sase/commit/067ed4f2174a005e8fbbf5f062b970f94109c16c) | fix(ace): retreat selected workflow/family one H level first | 2026-08-15 14:25:24 EDT |

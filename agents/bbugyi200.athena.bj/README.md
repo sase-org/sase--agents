@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cb733da`](https://github.com/sase-org/sase/commit/cb733dacf3baa2d631ed706c7a1fb07c9b39a560) | feat(tui): compact Plans rows and state indicators | 2026-07-17 12:06:08 UTC |
+| sase | [`cb733da`](https://github.com/sase-org/sase/commit/cb733dacf3baa2d631ed706c7a1fb07c9b39a560) | feat(tui): compact Plans rows and state indicators | 2026-07-17 08:06:08 EDT |

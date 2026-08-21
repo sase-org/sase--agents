@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`e2d56df`](https://github.com/sase-org/sase/commit/e2d56dfce25e5add6a2d1630be04588f4ceed568) | feat(ace): remember misspelled words and squiggle them in every prompt | 2026-08-01 11:46:08 UTC |
+| code | sase | [`e2d56df`](https://github.com/sase-org/sase/commit/e2d56dfce25e5add6a2d1630be04588f4ceed568) | feat(ace): remember misspelled words and squiggle them in every prompt | 2026-08-01 07:46:08 EDT |
 
 ## Neighbors
 

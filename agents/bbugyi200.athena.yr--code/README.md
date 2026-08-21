@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`42e60e5`](https://github.com/sase-org/sase/commit/42e60e5d6dd1eb91bcab6fb8d2fb8b3343b8c649) | fix(xprompts): put #sase/reads swarm agents in one reads-@ clan | 2026-08-12 17:44:58 UTC |
+| sase | [`42e60e5`](https://github.com/sase-org/sase/commit/42e60e5d6dd1eb91bcab6fb8d2fb8b3343b8c649) | fix(xprompts): put #sase/reads swarm agents in one reads-@ clan | 2026-08-12 13:44:58 EDT |

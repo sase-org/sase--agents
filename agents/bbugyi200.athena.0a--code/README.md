@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9b6adb9`](https://github.com/sase-org/sase/commit/9b6adb94c3da8f0e34ba95278e3e8de07e094f19) | fix(demos): polish ace demo captures | 2026-07-07 05:07:03 UTC |
+| sase | [`9b6adb9`](https://github.com/sase-org/sase/commit/9b6adb94c3da8f0e34ba95278e3e8de07e094f19) | fix(demos): polish ace demo captures | 2026-07-07 01:07:03 EDT |

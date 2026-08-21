@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e24bfad`](https://github.com/sase-org/sase/commit/e24bfadd7b5484a2f7e3a9713d0d43f0c1be297f) | feat: add automatic memory episode builder (sase-48.8) | 2026-05-29 00:08:47 UTC |
+| sase | [`e24bfad`](https://github.com/sase-org/sase/commit/e24bfadd7b5484a2f7e3a9713d0d43f0c1be297f) | feat: add automatic memory episode builder (sase-48.8) | 2026-05-28 20:08:47 EDT |
 
 ## Neighbors
 

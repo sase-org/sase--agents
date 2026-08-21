@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dc5fd5b`](https://github.com/sase-org/sase/commit/dc5fd5b0ad2a187f375b3d95dc60d154cb58645c) | test: split axe plan follow-up prompt tests | 2026-06-15 22:10:43 UTC |
+| sase | [`dc5fd5b`](https://github.com/sase-org/sase/commit/dc5fd5b0ad2a187f375b3d95dc60d154cb58645c) | test: split axe plan follow-up prompt tests | 2026-06-15 18:10:43 EDT |
 
 ## Neighbors
 

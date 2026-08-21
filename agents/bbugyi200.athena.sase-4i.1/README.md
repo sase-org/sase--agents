@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fc2d009`](https://github.com/sase-org/sase/commit/fc2d0097d5f2306365c9f8ac2ccc26ac24e38b73) | feat: add shared diagnostics foundation (sase-4i.1) | 2026-06-09 16:17:59 UTC |
+| sase | [`fc2d009`](https://github.com/sase-org/sase/commit/fc2d0097d5f2306365c9f8ac2ccc26ac24e38b73) | feat: add shared diagnostics foundation (sase-4i.1) | 2026-06-09 12:17:59 EDT |
 
 ## Neighbors
 

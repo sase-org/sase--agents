@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`96249e4`](https://github.com/sase-org/sase/commit/96249e45d877eda756cace4a1e2de7cacb65ee1d) | chore: Add SDD prompt and plan for revert\_dynamic\_memory | 2026-05-31 14:48:59 UTC |
-| sase | [`e8c2f14`](https://github.com/sase-org/sase/commit/e8c2f14bb6f9d9d39a28ec4a93c83adb866c8dde) | feat: remove dynamic memory runtime | 2026-05-31 15:12:52 UTC |
+| sase | [`96249e4`](https://github.com/sase-org/sase/commit/96249e45d877eda756cace4a1e2de7cacb65ee1d) | chore: Add SDD prompt and plan for revert\_dynamic\_memory | 2026-05-31 10:48:59 EDT |
+| sase | [`e8c2f14`](https://github.com/sase-org/sase/commit/e8c2f14bb6f9d9d39a28ec4a93c83adb866c8dde) | feat: remove dynamic memory runtime | 2026-05-31 11:12:52 EDT |
 
 ## Neighbors
 

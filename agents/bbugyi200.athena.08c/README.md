@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`277677c`](https://github.com/sase-org/sase/commit/277677c94f668088092142826ca5b6de143d8cc2) | chore: Add SDD prompt and plan for dev\_version\_support | 2026-06-27 18:38:26 UTC |
-| sase | [`d8ad02a`](https://github.com/sase-org/sase/commit/d8ad02a9a075fb1253dffb1ebe61c4e52df5cb6d) | chore: create dev-version support epic beads | 2026-06-27 18:49:46 UTC |
+| sase | [`277677c`](https://github.com/sase-org/sase/commit/277677c94f668088092142826ca5b6de143d8cc2) | chore: Add SDD prompt and plan for dev\_version\_support | 2026-06-27 14:38:26 EDT |
+| sase | [`d8ad02a`](https://github.com/sase-org/sase/commit/d8ad02a9a075fb1253dffb1ebe61c4e52df5cb6d) | chore: create dev-version support epic beads | 2026-06-27 14:49:46 EDT |

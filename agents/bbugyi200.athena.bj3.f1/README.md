@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d77f1bd`](https://github.com/sase-org/sase/commit/d77f1bd2d5e23b1aa515568a61423cc8d74ca938) | chore: Add SDD prompt and plan for agent\_row\_file\_change\_pencil | 2026-05-27 14:12:30 UTC |
-| sase | [`beef9e0`](https://github.com/sase-org/sase/commit/beef9e07851c4ac3bcebe6bd3974f769e6583489) | feat: show file-change marker in agent rows | 2026-05-27 14:19:46 UTC |
+| sase | [`d77f1bd`](https://github.com/sase-org/sase/commit/d77f1bd2d5e23b1aa515568a61423cc8d74ca938) | chore: Add SDD prompt and plan for agent\_row\_file\_change\_pencil | 2026-05-27 10:12:30 EDT |
+| sase | [`beef9e0`](https://github.com/sase-org/sase/commit/beef9e07851c4ac3bcebe6bd3974f769e6583489) | feat: show file-change marker in agent rows | 2026-05-27 10:19:46 EDT |
 
 ## Neighbors
 

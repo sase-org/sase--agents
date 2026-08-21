@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b2706ce`](https://github.com/sase-org/sase/commit/b2706ce287e654b0b913acb7f8a0463e68d211cd) | refactor(tui): split prompt history modal helpers | 2026-06-23 23:26:09 UTC |
+| sase | [`b2706ce`](https://github.com/sase-org/sase/commit/b2706ce287e654b0b913acb7f8a0463e68d211cd) | refactor(tui): split prompt history modal helpers | 2026-06-23 19:26:09 EDT |
 
 ## Neighbors
 

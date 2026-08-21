@@ -30,6 +30,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`35834a9`](https://github.com/sase-org/sase/commit/35834a91a9b827bc9a7a9baa7560bbc67591aed6) | chore: Add SDD prompt and plan for swap\_agents\_a\_keymaps | 2026-06-26 21:19:40 UTC |
-| — | sase | [`e8e17de`](https://github.com/sase-org/sase/commit/e8e17de24eea0942876645325d1c989d681f3cc7) | feat(tui)!: swap Agents-tab \`a\`/\`A\` keymap defaults | 2026-06-26 21:54:14 UTC |
-| 1 | sase | [`0c341d6`](https://github.com/sase-org/sase/commit/0c341d6073a3ba95e4f2bd2b0d09b40ddfc3322e) | feat(ace): seed the Patches query with the current project | 2026-08-19 01:32:51 UTC |
+| — | sase | [`35834a9`](https://github.com/sase-org/sase/commit/35834a91a9b827bc9a7a9baa7560bbc67591aed6) | chore: Add SDD prompt and plan for swap\_agents\_a\_keymaps | 2026-06-26 17:19:40 EDT |
+| — | sase | [`e8e17de`](https://github.com/sase-org/sase/commit/e8e17de24eea0942876645325d1c989d681f3cc7) | feat(tui)!: swap Agents-tab \`a\`/\`A\` keymap defaults | 2026-06-26 17:54:14 EDT |
+| 1 | sase | [`0c341d6`](https://github.com/sase-org/sase/commit/0c341d6073a3ba95e4f2bd2b0d09b40ddfc3322e) | feat(ace): seed the Patches query with the current project | 2026-08-18 21:32:51 EDT |

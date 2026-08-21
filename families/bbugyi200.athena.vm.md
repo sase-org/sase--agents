@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`315a5f9`](https://github.com/sase-org/sase/commit/315a5f9ffbb4ee110c5ca5b6d0ae5a6f6c45f54a) | fix(bead): fail cleanly on SDD materialization refusal in read commands | 2026-08-08 03:49:24 UTC |
+| code | sase | [`315a5f9`](https://github.com/sase-org/sase/commit/315a5f9ffbb4ee110c5ca5b6d0ae5a6f6c45f54a) | fix(bead): fail cleanly on SDD materialization refusal in read commands | 2026-08-07 23:49:24 EDT |

@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`19a6e25`](https://github.com/sase-org/sase/commit/19a6e256e6f23172ee2870177587613e62fcd78b) | chore: Add SDD prompt and plan for model\_alias\_at\_prefix | 2026-06-30 12:50:07 UTC |
-| sase | [`5856cd7`](https://github.com/sase-org/sase/commit/5856cd7a0c6746156c865a1e605556672a68e6e7) | feat!: require @ marker for model aliases | 2026-06-30 13:14:22 UTC |
+| sase | [`19a6e25`](https://github.com/sase-org/sase/commit/19a6e256e6f23172ee2870177587613e62fcd78b) | chore: Add SDD prompt and plan for model\_alias\_at\_prefix | 2026-06-30 08:50:07 EDT |
+| sase | [`5856cd7`](https://github.com/sase-org/sase/commit/5856cd7a0c6746156c865a1e605556672a68e6e7) | feat!: require @ marker for model aliases | 2026-06-30 09:14:22 EDT |
 
 ## Neighbors
 

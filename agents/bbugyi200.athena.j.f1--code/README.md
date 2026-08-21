@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3646c82`](https://github.com/sase-org/sase/commit/3646c82849cedd3289a2fe1bcb9c7412de68b534) | fix: use fresh linked repo resolution for prep | 2026-07-06 19:02:04 UTC |
+| sase | [`3646c82`](https://github.com/sase-org/sase/commit/3646c82849cedd3289a2fe1bcb9c7412de68b534) | fix: use fresh linked repo resolution for prep | 2026-07-06 15:02:04 EDT |
 
 ## Neighbors
 

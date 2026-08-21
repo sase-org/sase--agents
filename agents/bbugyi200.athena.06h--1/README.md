@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e5a180d`](https://github.com/sase-org/sase/commit/e5a180de3a0f5260063c789518721968731b457b) | feat(tui): hide empty Beads detail property rows | 2026-08-18 17:41:28 UTC |
+| sase | [`e5a180d`](https://github.com/sase-org/sase/commit/e5a180de3a0f5260063c789518721968731b457b) | feat(tui): hide empty Beads detail property rows | 2026-08-18 13:41:28 EDT |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ebd3a91`](https://github.com/sase-org/sase/commit/ebd3a91bc16b3e1af6949177c2a475036af9f67a) | test: stabilize contention-sensitive TUI waits | 2026-08-10 16:41:54 UTC |
+| sase | [`ebd3a91`](https://github.com/sase-org/sase/commit/ebd3a91bc16b3e1af6949177c2a475036af9f67a) | test: stabilize contention-sensitive TUI waits | 2026-08-10 12:41:54 EDT |
 
 ## Neighbors
 

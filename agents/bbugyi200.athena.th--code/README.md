@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b3ac417`](https://github.com/sase-org/sase/commit/b3ac417f3a595cee7ee123a5da819a384e50cc6c) | fix(artifact-file): resolve logical plans: references when synthesizing plan rows | 2026-08-05 21:34:20 UTC |
+| sase | [`b3ac417`](https://github.com/sase-org/sase/commit/b3ac417f3a595cee7ee123a5da819a384e50cc6c) | fix(artifact-file): resolve logical plans: references when synthesizing plan rows | 2026-08-05 17:34:20 EDT |

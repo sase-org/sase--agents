@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cfacfbc`](https://github.com/sase-org/sase/commit/cfacfbc0d946bf4e4c1844d502ca6c064269ae8f) | chore: Add SDD prompt and plan for finish\_sase\_4j\_publish (sase-4j) | 2026-06-10 00:48:06 UTC |
+| sase | [`cfacfbc`](https://github.com/sase-org/sase/commit/cfacfbc0d946bf4e4c1844d502ca6c064269ae8f) | chore: Add SDD prompt and plan for finish\_sase\_4j\_publish (sase-4j) | 2026-06-09 20:48:06 EDT |
 
 ## Neighbors
 

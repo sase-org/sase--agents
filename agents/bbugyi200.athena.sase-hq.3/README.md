@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1d77fab`](https://github.com/sase-org/sase/commit/1d77fab2d9559c840d1a96b4d22fa5e1444b20f2) | feat(xprompt): expose editor glossary catalogs | 2026-08-08 23:09:20 UTC |
+| sase | [`1d77fab`](https://github.com/sase-org/sase/commit/1d77fab2d9559c840d1a96b4d22fa5e1444b20f2) | feat(xprompt): expose editor glossary catalogs | 2026-08-08 19:09:20 EDT |
 
 ## Neighbors
 

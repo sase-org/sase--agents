@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6c710ba`](https://github.com/sase-org/sase/commit/6c710bab6560d2edd0b49f71eabb499978d24888) | chore: expand episodes new-user research with determinism and tutorial guidance | 2026-05-26 23:33:39 UTC |
+| sase | [`6c710ba`](https://github.com/sase-org/sase/commit/6c710bab6560d2edd0b49f71eabb499978d24888) | chore: expand episodes new-user research with determinism and tutorial guidance | 2026-05-26 19:33:39 EDT |
 
 ## Neighbors
 

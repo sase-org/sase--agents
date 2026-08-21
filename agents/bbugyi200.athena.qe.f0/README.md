@@ -21,8 +21,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7e9527c`](https://github.com/sase-org/sase/commit/7e9527c7af8f2e969ce8f464a56ab61d566e20c4) | fix(tribe-panel): correct description wrap expectations in tests | 2026-07-31 14:50:18 UTC |
-| sase | [`a692be5`](https://github.com/sase-org/sase/commit/a692be5d7a0527bf0b53de4258c1dda10f2ce125) | test(visual): regenerate PNG goldens for unlabeled tribe description | 2026-07-31 14:58:01 UTC |
+| sase | [`7e9527c`](https://github.com/sase-org/sase/commit/7e9527c7af8f2e969ce8f464a56ab61d566e20c4) | fix(tribe-panel): correct description wrap expectations in tests | 2026-07-31 10:50:18 EDT |
+| sase | [`a692be5`](https://github.com/sase-org/sase/commit/a692be5d7a0527bf0b53de4258c1dda10f2ce125) | test(visual): regenerate PNG goldens for unlabeled tribe description | 2026-07-31 10:58:01 EDT |
 
 ## Neighbors
 

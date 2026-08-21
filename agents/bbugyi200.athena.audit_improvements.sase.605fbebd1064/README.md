@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`18cb876`](https://github.com/sase-org/sase/commit/18cb876313dca69f1c6f6c510199a4412faef536) | fix(agent): recover dismissed groups from sharded artifacts (#256) | 2026-07-20 17:58:22 UTC |
+| sase | [`18cb876`](https://github.com/sase-org/sase/commit/18cb876313dca69f1c6f6c510199a4412faef536) | fix(agent): recover dismissed groups from sharded artifacts (#256) | 2026-07-20 13:58:22 EDT |
 
 ## Neighbors
 

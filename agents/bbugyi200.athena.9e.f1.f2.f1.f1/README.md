@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`be036f1`](https://github.com/sase-org/sase/commit/be036f11bf8f4b74d3089ad43c199bfd55642066) | chore: Add SDD prompt and plan for prompt\_stack\_keymap\_rebinds | 2026-06-17 15:37:38 UTC |
-| sase | [`36de758`](https://github.com/sase-org/sase/commit/36de7588f321a5a3a8b2fc04e925e6c49064014d) | feat(tui)!: rebind prompt-stack controls to terminal-safe keys | 2026-06-17 16:17:10 UTC |
+| sase | [`be036f1`](https://github.com/sase-org/sase/commit/be036f11bf8f4b74d3089ad43c199bfd55642066) | chore: Add SDD prompt and plan for prompt\_stack\_keymap\_rebinds | 2026-06-17 11:37:38 EDT |
+| sase | [`36de758`](https://github.com/sase-org/sase/commit/36de7588f321a5a3a8b2fc04e925e6c49064014d) | feat(tui)!: rebind prompt-stack controls to terminal-safe keys | 2026-06-17 12:17:10 EDT |
 
 ## Neighbors
 

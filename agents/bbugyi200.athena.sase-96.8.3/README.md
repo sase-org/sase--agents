@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bd16432`](https://github.com/sase-org/sase/commit/bd16432c966c92dc66f4a31489eef8214f4d73a1) | fix: stop the test suite from writing into the managed temp root (sase-96.8.3) | 2026-07-25 19:37:20 UTC |
+| sase | [`bd16432`](https://github.com/sase-org/sase/commit/bd16432c966c92dc66f4a31489eef8214f4d73a1) | fix: stop the test suite from writing into the managed temp root (sase-96.8.3) | 2026-07-25 15:37:20 EDT |
 
 ## Neighbors
 

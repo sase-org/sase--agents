@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d72330a`](https://github.com/sase-org/sase/commit/d72330a7aed385e5a41ea0f9aef5c5ea2fd2f67f) | chore: Add SDD prompt and plan for project\_creation\_logging | 2026-06-19 12:58:28 UTC |
-| sase | [`63f69be`](https://github.com/sase-org/sase/commit/63f69beaf7709a1c5c69fe55ebbb7735a2a02913) | feat(logs): record project creation diagnostics | 2026-06-19 13:08:39 UTC |
+| sase | [`d72330a`](https://github.com/sase-org/sase/commit/d72330a7aed385e5a41ea0f9aef5c5ea2fd2f67f) | chore: Add SDD prompt and plan for project\_creation\_logging | 2026-06-19 08:58:28 EDT |
+| sase | [`63f69be`](https://github.com/sase-org/sase/commit/63f69beaf7709a1c5c69fe55ebbb7735a2a02913) | feat(logs): record project creation diagnostics | 2026-06-19 09:08:39 EDT |
 
 ## Neighbors
 

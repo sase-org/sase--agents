@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b694c00`](https://github.com/sase-org/sase/commit/b694c00c1a3b88cdcc09229a5872ab391b5d2b2a) | test(agents-sync): split test\_rendering.py into focused modules | 2026-08-06 16:06:47 UTC |
+| sase | [`b694c00`](https://github.com/sase-org/sase/commit/b694c00c1a3b88cdcc09229a5872ab391b5d2b2a) | test(agents-sync): split test\_rendering.py into focused modules | 2026-08-06 12:06:47 EDT |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2605324`](https://github.com/sase-org/sase/commit/2605324cb2c47e43809de822ae78db120905faa2) | fix(monitor): resolve implicit start/show/stop caller from its own artifacts | 2026-08-16 22:02:49 UTC |
+| sase | [`2605324`](https://github.com/sase-org/sase/commit/2605324cb2c47e43809de822ae78db120905faa2) | fix(monitor): resolve implicit start/show/stop caller from its own artifacts | 2026-08-16 18:02:49 EDT |
 
 ## Neighbors
 

@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6874d48`](https://github.com/sase-org/sase/commit/6874d484031e3db75e48b8aeb0e27c8b0e450d35) | fix(sdd): scope the plan PARENT check to what the workspace was given | 2026-08-08 04:49:55 UTC |
+| sase | [`6874d48`](https://github.com/sase-org/sase/commit/6874d484031e3db75e48b8aeb0e27c8b0e450d35) | fix(sdd): scope the plan PARENT check to what the workspace was given | 2026-08-08 00:49:55 EDT |

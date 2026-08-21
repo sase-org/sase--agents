@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`48edca8`](https://github.com/sase-org/sase/commit/48edca8c449d805ba9c1bc9f3df7f2301e8d4977) | fix(bead-pages): link plan BEAD bullets only to pages that exist | 2026-07-28 22:23:22 UTC |
+| sase | [`48edca8`](https://github.com/sase-org/sase/commit/48edca8c449d805ba9c1bc9f3df7f2301e8d4977) | fix(bead-pages): link plan BEAD bullets only to pages that exist | 2026-07-28 18:23:22 EDT |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fd1f865`](https://github.com/sase-org/sase/commit/fd1f865eddaf25511758e83c1893597b4e8559eb) | test(tui): cover commits filter bar visual states (sase-6s.4) | 2026-07-18 14:06:44 UTC |
+| sase | [`fd1f865`](https://github.com/sase-org/sase/commit/fd1f865eddaf25511758e83c1893597b4e8559eb) | test(tui): cover commits filter bar visual states (sase-6s.4) | 2026-07-18 10:06:44 EDT |
 
 ## Neighbors
 

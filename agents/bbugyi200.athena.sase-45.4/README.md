@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`49294ff`](https://github.com/sase-org/sase/commit/49294ff71432c54d99919e6e894f491826241297) | feat: add project episode storage (sase-45.4) | 2026-05-27 00:00:49 UTC |
+| sase | [`49294ff`](https://github.com/sase-org/sase/commit/49294ff71432c54d99919e6e894f491826241297) | feat: add project episode storage (sase-45.4) | 2026-05-26 20:00:49 EDT |
 
 ## Neighbors
 

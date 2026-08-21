@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`128b326`](https://github.com/sase-org/sase/commit/128b326ea46a11c05ece35e8ff17d9d6b81a4bc0) | test: stabilize PNG visual prompt catalog fixtures | 2026-08-10 16:50:24 UTC |
+| sase | [`128b326`](https://github.com/sase-org/sase/commit/128b326ea46a11c05ece35e8ff17d9d6b81a4bc0) | test: stabilize PNG visual prompt catalog fixtures | 2026-08-10 12:50:24 EDT |
 
 ## Neighbors
 

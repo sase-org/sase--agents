@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`73c2dc6`](https://github.com/sase-org/sase/commit/73c2dc6db11abcad2cc0402e85b9774a7c523101) | fix: preserve command output tails in tool reports | 2026-07-15 18:09:29 UTC |
+| sase | [`73c2dc6`](https://github.com/sase-org/sase/commit/73c2dc6db11abcad2cc0402e85b9774a7c523101) | fix: preserve command output tails in tool reports | 2026-07-15 14:09:29 EDT |
 
 ## Neighbors
 

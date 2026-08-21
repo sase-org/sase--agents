@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`0268357`](https://github.com/sase-org/sase/commit/0268357643563c622d70a45683817f80af47299c) | fix(tui): remove duplicate PR onboarding quickstart | 2026-08-10 14:03:14 UTC |
+| code | sase | [`0268357`](https://github.com/sase-org/sase/commit/0268357643563c622d70a45683817f80af47299c) | fix(tui): remove duplicate PR onboarding quickstart | 2026-08-10 10:03:14 EDT |

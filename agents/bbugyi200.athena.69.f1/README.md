@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d423caa`](https://github.com/sase-org/sase/commit/d423caa30f34f3e82f52908c5ff1191ccc0dc190) | chore: Add SDD prompt and plan for ace\_sqlite\_sigbus\_fix\_verification | 2026-06-13 13:46:24 UTC |
-| sase | [`d5007f6`](https://github.com/sase-org/sase/commit/d5007f63ebb653652a6da2135718418001247564) | fix: serialize artifact index metadata facade calls | 2026-06-13 13:56:14 UTC |
+| sase | [`d423caa`](https://github.com/sase-org/sase/commit/d423caa30f34f3e82f52908c5ff1191ccc0dc190) | chore: Add SDD prompt and plan for ace\_sqlite\_sigbus\_fix\_verification | 2026-06-13 09:46:24 EDT |
+| sase | [`d5007f6`](https://github.com/sase-org/sase/commit/d5007f63ebb653652a6da2135718418001247564) | fix: serialize artifact index metadata facade calls | 2026-06-13 09:56:14 EDT |
 
 ## Neighbors
 

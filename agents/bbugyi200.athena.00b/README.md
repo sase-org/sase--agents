@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b4e143e`](https://github.com/sase-org/sase/commit/b4e143ee407466dbba16aab0e084481732507535) | chore: Add SDD prompt and plan for agent\_group\_auto\_add | 2026-06-18 13:59:28 UTC |
-| sase | [`7862d83`](https://github.com/sase-org/sase/commit/7862d83745e5c213b4b8831e98f3c414481a46a9) | feat(agents): auto-add derived agent names to groups | 2026-06-18 14:13:13 UTC |
+| sase | [`b4e143e`](https://github.com/sase-org/sase/commit/b4e143ee407466dbba16aab0e084481732507535) | chore: Add SDD prompt and plan for agent\_group\_auto\_add | 2026-06-18 09:59:28 EDT |
+| sase | [`7862d83`](https://github.com/sase-org/sase/commit/7862d83745e5c213b4b8831e98f3c414481a46a9) | feat(agents): auto-add derived agent names to groups | 2026-06-18 10:13:13 EDT |

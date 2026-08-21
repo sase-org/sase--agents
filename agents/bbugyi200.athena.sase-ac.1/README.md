@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`370f260`](https://github.com/sase-org/sase/commit/370f2607f684d68272b2416a313133c8d7058e59) | feat(xprompt): add canonical project identity helpers (sase-ac.1) | 2026-07-28 12:07:40 UTC |
+| sase | [`370f260`](https://github.com/sase-org/sase/commit/370f2607f684d68272b2416a313133c8d7058e59) | feat(xprompt): add canonical project identity helpers (sase-ac.1) | 2026-07-28 08:07:40 EDT |
 
 ## Neighbors
 

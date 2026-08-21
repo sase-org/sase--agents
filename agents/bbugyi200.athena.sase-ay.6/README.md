@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9eb1f5d`](https://github.com/sase-org/sase/commit/9eb1f5d29e4182d3a41049ec67e80ca2907b7d93) | feat(tui): unify @ reference completion menu | 2026-07-29 23:43:13 UTC |
+| sase | [`9eb1f5d`](https://github.com/sase-org/sase/commit/9eb1f5d29e4182d3a41049ec67e80ca2907b7d93) | feat(tui): unify @ reference completion menu | 2026-07-29 19:43:13 EDT |
 
 ## Neighbors
 

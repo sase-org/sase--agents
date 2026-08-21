@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`610c19c`](https://github.com/sase-org/sase/commit/610c19cd8b772dff6fe566a206c9a2459dfd5b51) | feat(ace): show model-usage strip in Alias History | 2026-08-18 20:02:16 UTC |
+| sase | [`610c19c`](https://github.com/sase-org/sase/commit/610c19cd8b772dff6fe566a206c9a2459dfd5b51) | feat(ace): show model-usage strip in Alias History | 2026-08-18 16:02:16 EDT |

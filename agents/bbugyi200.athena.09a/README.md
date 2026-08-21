@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7482321`](https://github.com/sase-org/sase/commit/7482321721ce4dbcadf7d07cf87cfe58fbb846e2) | chore: Add SDD prompt and plan for persist\_admin\_center\_tab | 2026-06-28 19:27:19 UTC |
-| sase | [`ca24e3a`](https://github.com/sase-org/sase/commit/ca24e3af8a732855948dbfd102634cce1b9c8526) | feat(ace): persist Admin Center tab across TUI restarts | 2026-06-28 19:39:08 UTC |
+| sase | [`7482321`](https://github.com/sase-org/sase/commit/7482321721ce4dbcadf7d07cf87cfe58fbb846e2) | chore: Add SDD prompt and plan for persist\_admin\_center\_tab | 2026-06-28 15:27:19 EDT |
+| sase | [`ca24e3a`](https://github.com/sase-org/sase/commit/ca24e3af8a732855948dbfd102634cce1b9c8526) | feat(ace): persist Admin Center tab across TUI restarts | 2026-06-28 15:39:08 EDT |

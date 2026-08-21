@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`974c014`](https://github.com/sase-org/sase/commit/974c0149526d16b233fb72679f07041a3a8a609e) | fix(xprompt): preserve clan summaries during directive edits (sase-7r) | 2026-07-20 01:41:33 UTC |
+| code | sase | [`974c014`](https://github.com/sase-org/sase/commit/974c0149526d16b233fb72679f07041a3a8a609e) | fix(xprompt): preserve clan summaries during directive edits (sase-7r) | 2026-07-19 21:41:33 EDT |
 
 ## Neighbors
 

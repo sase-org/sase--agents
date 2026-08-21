@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dff80f1`](https://github.com/sase-org/sase/commit/dff80f129e7181036a2b70c0e0efb282bbb39961) | fix(plugin): use sase--plugin catalog topic | 2026-07-09 02:04:35 UTC |
+| sase | [`dff80f1`](https://github.com/sase-org/sase/commit/dff80f129e7181036a2b70c0e0efb282bbb39961) | fix(plugin): use sase--plugin catalog topic | 2026-07-08 22:04:35 EDT |

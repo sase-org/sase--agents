@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dc4ca20`](https://github.com/sase-org/sase/commit/dc4ca2057a629e006ec6fa8a9810a3db8de5a08a) | fix(agent): restore forced agent-name-reuse launches for Agents-tab \`,x\` kill-and-edit | 2026-08-17 19:02:43 UTC |
+| sase | [`dc4ca20`](https://github.com/sase-org/sase/commit/dc4ca2057a629e006ec6fa8a9810a3db8de5a08a) | fix(agent): restore forced agent-name-reuse launches for Agents-tab \`,x\` kill-and-edit | 2026-08-17 15:02:43 EDT |

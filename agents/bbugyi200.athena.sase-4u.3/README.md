@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b78261a`](https://github.com/sase-org/sase/commit/b78261a5870221801e127ea2075c633e09e0937b) | feat(memory): generate flat project memory notes (sase-4u.3) | 2026-06-17 23:32:52 UTC |
+| sase | [`b78261a`](https://github.com/sase-org/sase/commit/b78261a5870221801e127ea2075c633e09e0937b) | feat(memory): generate flat project memory notes (sase-4u.3) | 2026-06-17 19:32:52 EDT |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6103496`](https://github.com/sase-org/sase/commit/6103496016a9d3abea8e156113f2dc4178159859) | feat(ace): add entry-jump mode to all three Projects tab sub-tabs | 2026-08-07 15:05:59 UTC |
+| sase | [`6103496`](https://github.com/sase-org/sase/commit/6103496016a9d3abea8e156113f2dc4178159859) | feat(ace): add entry-jump mode to all three Projects tab sub-tabs | 2026-08-07 11:05:59 EDT |
 
 ## Neighbors
 

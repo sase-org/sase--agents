@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`d3da2f1`](https://github.com/sase-org/sase/commit/d3da2f1a502918e0b91c3d17f812747d02fbfe86) | feat(ace): add selected-panel collapse ladder | 2026-07-22 12:35:54 UTC |
+| code | sase | [`d3da2f1`](https://github.com/sase-org/sase/commit/d3da2f1a502918e0b91c3d17f812747d02fbfe86) | feat(ace): add selected-panel collapse ladder | 2026-07-22 08:35:54 EDT |
 
 ## Neighbors
 

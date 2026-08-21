@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`13b2768`](https://github.com/sase-org/sase/commit/13b276879e1f80dee2ad2aac31479e4ad06adc28) | ci: clone SDD companion in lint job | 2026-07-09 05:07:50 UTC |
+| sase | [`13b2768`](https://github.com/sase-org/sase/commit/13b276879e1f80dee2ad2aac31479e4ad06adc28) | ci: clone SDD companion in lint job | 2026-07-09 01:07:50 EDT |
 
 ## Neighbors
 

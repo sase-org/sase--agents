@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`32ee0ff`](https://github.com/sase-org/sase/commit/32ee0ffd2b9e7851971428ac573678a2838ed3b7) | test: split named agent dismissal tests | 2026-07-16 07:21:20 UTC |
+| sase | [`32ee0ff`](https://github.com/sase-org/sase/commit/32ee0ffd2b9e7851971428ac573678a2838ed3b7) | test: split named agent dismissal tests | 2026-07-16 03:21:20 EDT |
 
 ## Neighbors
 

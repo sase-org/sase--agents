@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`568a965`](https://github.com/sase-org/sase/commit/568a9652403973d126b3e2f16136a7c811738b0e) | docs(llms): generate model alias defaults table | 2026-08-03 19:24:07 UTC |
+| sase | [`568a965`](https://github.com/sase-org/sase/commit/568a9652403973d126b3e2f16136a7c811738b0e) | docs(llms): generate model alias defaults table | 2026-08-03 15:24:07 EDT |
 
 ## Neighbors
 

@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b0020e6`](https://github.com/sase-org/sase/commit/b0020e6d5cbcdb1f0b4cef6659398591bcc88546) | chore: Add SDD prompt and plan for workspace\_open\_reason | 2026-06-20 19:33:39 UTC |
-| sase | [`7239f02`](https://github.com/sase-org/sase/commit/7239f028e0b1a0c0f6c20b8bc746bdf8aa4211a7) | feat(workspace)!: require -r/--reason for \`sase workspace open\` | 2026-06-20 19:56:48 UTC |
+| sase | [`b0020e6`](https://github.com/sase-org/sase/commit/b0020e6d5cbcdb1f0b4cef6659398591bcc88546) | chore: Add SDD prompt and plan for workspace\_open\_reason | 2026-06-20 15:33:39 EDT |
+| sase | [`7239f02`](https://github.com/sase-org/sase/commit/7239f028e0b1a0c0f6c20b8bc746bdf8aa4211a7) | feat(workspace)!: require -r/--reason for \`sase workspace open\` | 2026-06-20 15:56:48 EDT |
 
 ## Neighbors
 

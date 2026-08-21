@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0ee67b1`](https://github.com/sase-org/sase/commit/0ee67b10a5e36519ffa93998a4b2969c8eca86a1) | fix(bead): protect root-layout stores during workspace prep (sase-ab.1) | 2026-07-28 12:00:20 UTC |
+| sase | [`0ee67b1`](https://github.com/sase-org/sase/commit/0ee67b10a5e36519ffa93998a4b2969c8eca86a1) | fix(bead): protect root-layout stores during workspace prep (sase-ab.1) | 2026-07-28 08:00:20 EDT |
 
 ## Neighbors
 

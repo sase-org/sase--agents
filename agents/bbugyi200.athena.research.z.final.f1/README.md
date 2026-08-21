@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1aeb8bf`](https://github.com/sase-org/sase/commit/1aeb8bfaed6a0aee7e774b64e4ed1ab60439e860) | chore: Add SDD prompt and plan for linked\_repos\_rename\_codex | 2026-06-20 17:50:15 UTC |
-| sase | [`3ef8663`](https://github.com/sase-org/sase/commit/3ef8663c04be3ae4a63aaf12ada410530f6f0844) | chore: Create epic + phase beads for linked\_repos\_rename\_codex | 2026-06-20 18:00:52 UTC |
+| sase | [`1aeb8bf`](https://github.com/sase-org/sase/commit/1aeb8bfaed6a0aee7e774b64e4ed1ab60439e860) | chore: Add SDD prompt and plan for linked\_repos\_rename\_codex | 2026-06-20 13:50:15 EDT |
+| sase | [`3ef8663`](https://github.com/sase-org/sase/commit/3ef8663c04be3ae4a63aaf12ada410530f6f0844) | chore: Create epic + phase beads for linked\_repos\_rename\_codex | 2026-06-20 14:00:52 EDT |
 
 ## Neighbors
 

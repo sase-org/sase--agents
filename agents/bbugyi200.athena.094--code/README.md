@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e91b9f8`](https://github.com/sase-org/sase/commit/e91b9f83acba631f36d0d74b3e8a6e19ae63d51e) | fix(ace): route ctrl-g ctrl-x to mini xprompt | 2026-08-21 12:55:53 UTC |
+| sase | [`e91b9f8`](https://github.com/sase-org/sase/commit/e91b9f83acba631f36d0d74b3e8a6e19ae63d51e) | fix(ace): route ctrl-g ctrl-x to mini xprompt | 2026-08-21 08:55:53 EDT |

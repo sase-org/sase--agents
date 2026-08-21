@@ -24,8 +24,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`bb46c64`](https://github.com/sase-org/sase/commit/bb46c640baa116f6e8732cfd7ec4718dfd45cc32) | chore: Add SDD prompt and plan for sase\_5j\_finish | 2026-07-08 06:47:11 UTC |
-| code | sase | [`bbbcf31`](https://github.com/sase-org/sase/commit/bbbcf31fd96f74fcd8e5328cf9b486de3960e34e) | fix(sdd): point missing companion stores at migrate | 2026-07-08 06:58:58 UTC |
+| root | sase | [`bb46c64`](https://github.com/sase-org/sase/commit/bb46c640baa116f6e8732cfd7ec4718dfd45cc32) | chore: Add SDD prompt and plan for sase\_5j\_finish | 2026-07-08 02:47:11 EDT |
+| code | sase | [`bbbcf31`](https://github.com/sase-org/sase/commit/bbbcf31fd96f74fcd8e5328cf9b486de3960e34e) | fix(sdd): point missing companion stores at migrate | 2026-07-08 02:58:58 EDT |
 
 ## Neighbors
 

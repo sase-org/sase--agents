@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`87e7a3a`](https://github.com/sase-org/sase/commit/87e7a3a388a1e6205906293866d219267e202923) | feat(plans): stamp bead associations during proposal (sase-88.2) | 2026-07-20 16:08:37 UTC |
+| sase | [`87e7a3a`](https://github.com/sase-org/sase/commit/87e7a3a388a1e6205906293866d219267e202923) | feat(plans): stamp bead associations during proposal (sase-88.2) | 2026-07-20 12:08:37 EDT |
 
 ## Neighbors
 

@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b03d382`](https://github.com/sase-org/sase/commit/b03d3823131d126065db805318becf925e7e1eb0) | chore: Close bead sase-52.6 (Phase 6: Neovim Editing Behavior) | 2026-06-20 20:29:50 UTC |
+| sase | [`b03d382`](https://github.com/sase-org/sase/commit/b03d3823131d126065db805318becf925e7e1eb0) | chore: Close bead sase-52.6 (Phase 6: Neovim Editing Behavior) | 2026-06-20 16:29:50 EDT |
 
 ## Neighbors
 

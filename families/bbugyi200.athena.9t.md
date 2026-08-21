@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`ede79bc`](https://github.com/sase-org/sase/commit/ede79bc989570e82fe5ed8da00f425b8e924e48d) | fix(ace): compact SASE plan heading | 2026-07-15 22:12:20 UTC |
+| code | sase | [`ede79bc`](https://github.com/sase-org/sase/commit/ede79bc989570e82fe5ed8da00f425b8e924e48d) | fix(ace): compact SASE plan heading | 2026-07-15 18:12:20 EDT |
 
 ## Neighbors
 

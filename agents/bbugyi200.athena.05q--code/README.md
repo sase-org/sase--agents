@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cbed335`](https://github.com/sase-org/sase/commit/cbed33584ee4ef71e8fc355038ffe7ef4ee3b0a5) | fix(amd): move the Tier 2 reference-material paragraph under Long-Term Memory Files | 2026-08-18 11:39:41 UTC |
+| sase | [`cbed335`](https://github.com/sase-org/sase/commit/cbed33584ee4ef71e8fc355038ffe7ef4ee3b0a5) | fix(amd): move the Tier 2 reference-material paragraph under Long-Term Memory Files | 2026-08-18 07:39:41 EDT |

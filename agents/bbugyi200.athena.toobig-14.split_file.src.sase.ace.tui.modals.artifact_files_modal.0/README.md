@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`79c59b2`](https://github.com/sase-org/sase/commit/79c59b2449a1db2197851a380c1f5676bc6d0c27) | refactor(ace): split artifact files modal | 2026-07-30 11:40:05 UTC |
+| sase | [`79c59b2`](https://github.com/sase-org/sase/commit/79c59b2449a1db2197851a380c1f5676bc6d0c27) | refactor(ace): split artifact files modal | 2026-07-30 07:40:05 EDT |
 
 ## Neighbors
 

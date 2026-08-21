@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f16a123`](https://github.com/sase-org/sase/commit/f16a123612db28ba4ac57720921b6bf1c0161ac9) | feat(ace): persist Admin Center resume tab | 2026-07-24 22:45:17 UTC |
+| code | sase | [`f16a123`](https://github.com/sase-org/sase/commit/f16a123612db28ba4ac57720921b6bf1c0161ac9) | feat(ace): persist Admin Center resume tab | 2026-07-24 18:45:17 EDT |

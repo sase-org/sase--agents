@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0ef8267`](https://github.com/sase-org/sase/commit/0ef8267a2cc1a62686406b0e3d584a667fc01b34) | chore: Add SDD prompt and plan for zoom\_panel\_search | 2026-07-07 22:06:17 UTC |
+| sase | [`0ef8267`](https://github.com/sase-org/sase/commit/0ef8267a2cc1a62686406b0e3d584a667fc01b34) | chore: Add SDD prompt and plan for zoom\_panel\_search | 2026-07-07 18:06:17 EDT |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5eb4508`](https://github.com/sase-org/sase/commit/5eb450842dd30b31777259c202e4b722e83e2339) | feat(agent-family): display custom role status labels (sase-5g.9) | 2026-07-06 11:51:25 UTC |
+| sase | [`5eb4508`](https://github.com/sase-org/sase/commit/5eb450842dd30b31777259c202e4b722e83e2339) | feat(agent-family): display custom role status labels (sase-5g.9) | 2026-07-06 07:51:25 EDT |
 
 ## Neighbors
 

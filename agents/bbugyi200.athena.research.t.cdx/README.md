@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`05a433f`](https://github.com/sase-org/sase/commit/05a433f929e84763791adecec81462fce399f34c) | docs: research Gemini CLI Antigravity transition | 2026-06-19 18:11:25 UTC |
+| sase | [`05a433f`](https://github.com/sase-org/sase/commit/05a433f929e84763791adecec81462fce399f34c) | docs: research Gemini CLI Antigravity transition | 2026-06-19 14:11:25 EDT |
 
 ## Neighbors
 

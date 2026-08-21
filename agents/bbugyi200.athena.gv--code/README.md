@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6cbb38f`](https://github.com/sase-org/sase/commit/6cbb38faf62635b8e070ec66347ff118c2d6bd3d) | fix(ace): enable view hints for agent families | 2026-07-21 12:26:34 UTC |
+| sase | [`6cbb38f`](https://github.com/sase-org/sase/commit/6cbb38faf62635b8e070ec66347ff118c2d6bd3d) | fix(ace): enable view hints for agent families | 2026-07-21 08:26:34 EDT |

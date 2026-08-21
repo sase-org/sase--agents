@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b2f8e0f`](https://github.com/sase-org/sase/commit/b2f8e0f8bf574b9836d49e858ebfa9f67c6ee180) | chore: add TUI full refresh audit infographic | 2026-06-08 17:49:05 UTC |
+| sase | [`b2f8e0f`](https://github.com/sase-org/sase/commit/b2f8e0f8bf574b9836d49e858ebfa9f67c6ee180) | chore: add TUI full refresh audit infographic | 2026-06-08 13:49:05 EDT |
 
 ## Neighbors
 

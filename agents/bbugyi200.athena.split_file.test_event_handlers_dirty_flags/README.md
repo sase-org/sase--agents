@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c4dd747`](https://github.com/sase-org/sase/commit/c4dd7476c7cfa7dfeb983b1ee667f398d405c934) | ref: split event handler dirty flag tests | 2026-06-08 20:24:29 UTC |
+| sase | [`c4dd747`](https://github.com/sase-org/sase/commit/c4dd7476c7cfa7dfeb983b1ee667f398d405c934) | ref: split event handler dirty flag tests | 2026-06-08 16:24:29 EDT |
 
 ## Neighbors
 

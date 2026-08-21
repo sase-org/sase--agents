@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`147c303`](https://github.com/sase-org/sase/commit/147c3038ba7c4fd1951a9ce5c072e346431d65ce) | chore: Add SDD prompt and plan for sase\_telegram\_mit\_license | 2026-07-06 11:04:40 UTC |
+| sase | [`147c303`](https://github.com/sase-org/sase/commit/147c3038ba7c4fd1951a9ce5c072e346431d65ce) | chore: Add SDD prompt and plan for sase\_telegram\_mit\_license | 2026-07-06 07:04:40 EDT |
 
 ## Neighbors
 

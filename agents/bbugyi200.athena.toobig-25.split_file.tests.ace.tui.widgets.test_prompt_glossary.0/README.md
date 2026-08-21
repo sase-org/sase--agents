@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8b3cc3d`](https://github.com/sase-org/sase/commit/8b3cc3d6b4e0ce6907a5e71f8ea6aea8a35cfef2) | test: split prompt glossary widget tests | 2026-08-09 15:03:45 UTC |
+| sase | [`8b3cc3d`](https://github.com/sase-org/sase/commit/8b3cc3d6b4e0ce6907a5e71f8ea6aea8a35cfef2) | test: split prompt glossary widget tests | 2026-08-09 11:03:45 EDT |

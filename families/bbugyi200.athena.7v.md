@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`d546a81`](https://github.com/sase-org/sase/commit/d546a813cb18d41484f7c8969156b5bed4aff941) | fix: correct runner launch admission ordering | 2026-07-13 14:52:20 UTC |
+| code | sase | [`d546a81`](https://github.com/sase-org/sase/commit/d546a813cb18d41484f7c8969156b5bed4aff941) | fix: correct runner launch admission ordering | 2026-07-13 10:52:20 EDT |

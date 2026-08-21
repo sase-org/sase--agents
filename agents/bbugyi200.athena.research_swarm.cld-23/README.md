@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8597115`](https://github.com/sase-org/sase/commit/859711534d4ed2317b795913239948560547b3cc) | chore: add memory system critique research | 2026-05-31 18:46:16 UTC |
+| sase | [`8597115`](https://github.com/sase-org/sase/commit/859711534d4ed2317b795913239948560547b3cc) | chore: add memory system critique research | 2026-05-31 14:46:16 EDT |
 
 ## Neighbors
 

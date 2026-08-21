@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`99b4e43`](https://github.com/sase-org/sase/commit/99b4e43a15fc558c96896b63e8807b51e9fec878) | test: add regression gate for committed memory-file drift | 2026-08-17 08:22:31 UTC |
+| sase | [`99b4e43`](https://github.com/sase-org/sase/commit/99b4e43a15fc558c96896b63e8807b51e9fec878) | test: add regression gate for committed memory-file drift | 2026-08-17 04:22:31 EDT |
 
 ## Neighbors
 

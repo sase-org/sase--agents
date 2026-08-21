@@ -36,6 +36,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`704a340`](https://github.com/sase-org/sase/commit/704a3400556a772f9707154e454f1a257125d77b) | chore: Add SDD prompt and plan for dismissed\_archive\_paging | 2026-06-25 22:49:33 UTC |
-| — | sase | [`d4bef54`](https://github.com/sase-org/sase/commit/d4bef5479d810854bae333fe642012aea3a2fe41) | perf(ace): page dismissed archive revive loads | 2026-06-25 23:04:03 UTC |
-| 2 | sase | [`a2357e2`](https://github.com/sase-org/sase/commit/a2357e2140018fbce86afc4caae82ab0b37acc24) | feat(tui): drop the redundant Readiness row from Beads detail | 2026-08-18 19:03:04 UTC |
+| — | sase | [`704a340`](https://github.com/sase-org/sase/commit/704a3400556a772f9707154e454f1a257125d77b) | chore: Add SDD prompt and plan for dismissed\_archive\_paging | 2026-06-25 18:49:33 EDT |
+| — | sase | [`d4bef54`](https://github.com/sase-org/sase/commit/d4bef5479d810854bae333fe642012aea3a2fe41) | perf(ace): page dismissed archive revive loads | 2026-06-25 19:04:03 EDT |
+| 2 | sase | [`a2357e2`](https://github.com/sase-org/sase/commit/a2357e2140018fbce86afc4caae82ab0b37acc24) | feat(tui): drop the redundant Readiness row from Beads detail | 2026-08-18 15:03:04 EDT |

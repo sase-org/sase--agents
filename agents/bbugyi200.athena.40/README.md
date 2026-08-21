@@ -21,5 +21,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`82182cf`](https://github.com/sase-org/sase/commit/82182cf78b2c75ae96fa0a05535324d5852486e4) | chore: Add SDD prompt and plan for version\_command | 2026-06-08 19:26:39 UTC |
-| sase | [`df9fea8`](https://github.com/sase-org/sase/commit/df9fea8c2f4ea7cd6b2f0f6774a84f65c8703e8a) | chore: add version command epic beads | 2026-06-08 19:36:28 UTC |
+| sase | [`82182cf`](https://github.com/sase-org/sase/commit/82182cf78b2c75ae96fa0a05535324d5852486e4) | chore: Add SDD prompt and plan for version\_command | 2026-06-08 15:26:39 EDT |
+| sase | [`df9fea8`](https://github.com/sase-org/sase/commit/df9fea8c2f4ea7cd6b2f0f6774a84f65c8703e8a) | chore: add version command epic beads | 2026-06-08 15:36:28 EDT |

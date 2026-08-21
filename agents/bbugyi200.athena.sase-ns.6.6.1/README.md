@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`72d3d5c`](https://github.com/sase-org/sase/commit/72d3d5c9f352dbc3fdfc5ee520313ef5085815ad) | test: retire fixed reproducible flake nodes | 2026-08-17 08:15:38 UTC |
+| sase | [`72d3d5c`](https://github.com/sase-org/sase/commit/72d3d5c9f352dbc3fdfc5ee520313ef5085815ad) | test: retire fixed reproducible flake nodes | 2026-08-17 04:15:38 EDT |
 
 ## Neighbors
 

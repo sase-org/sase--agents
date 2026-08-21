@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`19a0785`](https://github.com/sase-org/sase/commit/19a07856d3dd8c7be92c828f478f87ea0cc4fc21) | feat: add launch approval pending-action infrastructure (sase-5g.7) | 2026-07-06 08:04:00 UTC |
+| sase | [`19a0785`](https://github.com/sase-org/sase/commit/19a07856d3dd8c7be92c828f478f87ea0cc4fc21) | feat: add launch approval pending-action infrastructure (sase-5g.7) | 2026-07-06 04:04:00 EDT |
 
 ## Neighbors
 

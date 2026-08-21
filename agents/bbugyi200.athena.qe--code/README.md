@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`574b776`](https://github.com/sase-org/sase/commit/574b7761fa05e69eafca3956d31f57ed27ae7f5c) | feat(tribe-panel): remove description label in tribe headers | 2026-07-31 14:40:08 UTC |
+| sase | [`574b776`](https://github.com/sase-org/sase/commit/574b7761fa05e69eafca3956d31f57ed27ae7f5c) | feat(tribe-panel): remove description label in tribe headers | 2026-07-31 10:40:08 EDT |
 
 ## Neighbors
 

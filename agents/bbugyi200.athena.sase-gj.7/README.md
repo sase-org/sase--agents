@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a042950`](https://github.com/sase-org/sase/commit/a04295008fbb1e7c973ffd9ed69b848d2cea7a68) | docs(test-selection): document the tail phase's slow-run and cost-not-measured fields | 2026-08-06 22:18:54 UTC |
+| sase | [`a042950`](https://github.com/sase-org/sase/commit/a04295008fbb1e7c973ffd9ed69b848d2cea7a68) | docs(test-selection): document the tail phase's slow-run and cost-not-measured fields | 2026-08-06 18:18:54 EDT |
 
 ## Neighbors
 

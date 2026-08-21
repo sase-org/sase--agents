@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d11e66f`](https://github.com/sase-org/sase/commit/d11e66f05e324c4bc7447b93667d41375999238f) | fix: point launch failures at log panel (sase-4t.3) | 2026-06-17 20:08:17 UTC |
+| sase | [`d11e66f`](https://github.com/sase-org/sase/commit/d11e66f05e324c4bc7447b93667d41375999238f) | fix: point launch failures at log panel (sase-4t.3) | 2026-06-17 16:08:17 EDT |
 
 ## Neighbors
 

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9560818`](https://github.com/sase-org/sase/commit/9560818891754e12f4f25a9d34a692f83cf2945f) | chore: Add SDD prompt and plan for tui\_launch\_approval\_dispatch | 2026-07-06 17:32:21 UTC |
+| sase | [`9560818`](https://github.com/sase-org/sase/commit/9560818891754e12f4f25a9d34a692f83cf2945f) | chore: Add SDD prompt and plan for tui\_launch\_approval\_dispatch | 2026-07-06 13:32:21 EDT |

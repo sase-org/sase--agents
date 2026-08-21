@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e71a6fb`](https://github.com/sase-org/sase/commit/e71a6fb355c5bbe8ef834bccc28dbc69744c8a55) | refactor(doctor): split provider checks | 2026-07-08 06:37:33 UTC |
+| sase | [`e71a6fb`](https://github.com/sase-org/sase/commit/e71a6fb355c5bbe8ef834bccc28dbc69744c8a55) | refactor(doctor): split provider checks | 2026-07-08 02:37:33 EDT |
 
 ## Neighbors
 

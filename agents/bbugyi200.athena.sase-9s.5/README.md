@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6d78d49`](https://github.com/sase-org/sase/commit/6d78d490d27eec12e0b28f2f554a44dc60c46b5e) | feat(bead): launch approved epics as detached tasks (sase-9s.5) | 2026-07-26 12:59:14 UTC |
+| sase | [`6d78d49`](https://github.com/sase-org/sase/commit/6d78d490d27eec12e0b28f2f554a44dc60c46b5e) | feat(bead): launch approved epics as detached tasks (sase-9s.5) | 2026-07-26 08:59:14 EDT |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`daeb410`](https://github.com/sase-org/sase/commit/daeb4109a079c971f654ba72266e16c8a752dfae) | fix(artifact): protect artifacts referenced only by beads | 2026-07-30 21:08:44 UTC |
+| sase | [`daeb410`](https://github.com/sase-org/sase/commit/daeb4109a079c971f654ba72266e16c8a752dfae) | fix(artifact): protect artifacts referenced only by beads | 2026-07-30 17:08:44 EDT |
 
 ## Neighbors
 

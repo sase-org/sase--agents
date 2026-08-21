@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8c3a285`](https://github.com/sase-org/sase/commit/8c3a285492ab2f7b7e951cf76d9e8ef506824ced) | feat(tui): redesign Admin Center header with gradient title and helm icon | 2026-06-26 23:41:17 UTC |
+| sase | [`8c3a285`](https://github.com/sase-org/sase/commit/8c3a285492ab2f7b7e951cf76d9e8ef506824ced) | feat(tui): redesign Admin Center header with gradient title and helm icon | 2026-06-26 19:41:17 EDT |
 
 ## Neighbors
 

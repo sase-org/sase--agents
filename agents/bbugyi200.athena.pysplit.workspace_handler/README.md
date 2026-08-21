@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`63b081d`](https://github.com/sase-org/sase/commit/63b081df37b71c0670e6063b27ea34a4c89e225e) | ref: split workspace handler modules | 2026-06-02 18:34:59 UTC |
-| sase | [`e8bd5dc`](https://github.com/sase-org/sase/commit/e8bd5dcf589665329db89d4a5597b54d9b1dec35) | ref: split workspace command adapters | 2026-06-02 18:48:09 UTC |
+| sase | [`63b081d`](https://github.com/sase-org/sase/commit/63b081df37b71c0670e6063b27ea34a4c89e225e) | ref: split workspace handler modules | 2026-06-02 14:34:59 EDT |
+| sase | [`e8bd5dc`](https://github.com/sase-org/sase/commit/e8bd5dcf589665329db89d4a5597b54d9b1dec35) | ref: split workspace command adapters | 2026-06-02 14:48:09 EDT |
 
 ## Neighbors
 

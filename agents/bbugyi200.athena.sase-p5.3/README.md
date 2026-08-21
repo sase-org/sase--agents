@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0d36217`](https://github.com/sase-org/sase/commit/0d36217142f100ab232b5567d0ad5e0c6fcc2706) | feat(commit): attribute discarded commits via run-owned ledger | 2026-08-18 01:24:04 UTC |
+| sase | [`0d36217`](https://github.com/sase-org/sase/commit/0d36217142f100ab232b5567d0ad5e0c6fcc2706) | feat(commit): attribute discarded commits via run-owned ledger | 2026-08-17 21:24:04 EDT |
 
 ## Neighbors
 

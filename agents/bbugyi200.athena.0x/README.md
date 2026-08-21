@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`687eb05`](https://github.com/sase-org/sase/commit/687eb0556c74cd7ed8213809dedb3cb68b41b74d) | chore: Add SDD prompt and plan for tools\_panel\_detail\_levels | 2026-07-07 20:12:24 UTC |
+| sase | [`687eb05`](https://github.com/sase-org/sase/commit/687eb0556c74cd7ed8213809dedb3cb68b41b74d) | chore: Add SDD prompt and plan for tools\_panel\_detail\_levels | 2026-07-07 16:12:24 EDT |
 
 ## Neighbors
 

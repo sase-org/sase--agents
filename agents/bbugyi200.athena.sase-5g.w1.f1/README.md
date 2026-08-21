@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d735e80`](https://github.com/sase-org/sase/commit/d735e80509ab592f9f4bb60a298ea66edcd3f1f9) | docs: note supersession of agent families research by docs/agent\_families.md | 2026-07-06 17:02:18 UTC |
+| sase | [`d735e80`](https://github.com/sase-org/sase/commit/d735e80509ab592f9f4bb60a298ea66edcd3f1f9) | docs: note supersession of agent families research by docs/agent\_families.md | 2026-07-06 13:02:18 EDT |
 
 ## Neighbors
 

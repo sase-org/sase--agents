@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`81ef778`](https://github.com/sase-org/sase/commit/81ef778a1aba18535e8244dc6cfe091ae6efb190) | feat(linked\_repos): add canonical linked\_repos module with sibling\_repos compat (sase-51.1) | 2026-06-20 18:33:52 UTC |
+| sase | [`81ef778`](https://github.com/sase-org/sase/commit/81ef778a1aba18535e8244dc6cfe091ae6efb190) | feat(linked\_repos): add canonical linked\_repos module with sibling\_repos compat (sase-51.1) | 2026-06-20 14:33:52 EDT |
 
 ## Neighbors
 

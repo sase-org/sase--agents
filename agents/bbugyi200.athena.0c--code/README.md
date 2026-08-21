@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8aa58d6`](https://github.com/sase-org/sase/commit/8aa58d6d5fa65f9e43056b787483e451388b084e) | feat: render launch previews as highlighted PDFs | 2026-07-07 05:21:08 UTC |
+| sase | [`8aa58d6`](https://github.com/sase-org/sase/commit/8aa58d6d5fa65f9e43056b787483e451388b084e) | feat: render launch previews as highlighted PDFs | 2026-07-07 01:21:08 EDT |

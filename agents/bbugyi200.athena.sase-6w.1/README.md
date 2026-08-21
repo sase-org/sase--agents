@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`657ebce`](https://github.com/sase-org/sase/commit/657ebce13e0242f5586a00ade616bf279278e2fa) | feat(ace): add shared numbered clan roster (sase-6w.1) | 2026-07-18 22:12:33 UTC |
+| sase | [`657ebce`](https://github.com/sase-org/sase/commit/657ebce13e0242f5586a00ade616bf279278e2fa) | feat(ace): add shared numbered clan roster (sase-6w.1) | 2026-07-18 18:12:33 EDT |
 
 ## Neighbors
 

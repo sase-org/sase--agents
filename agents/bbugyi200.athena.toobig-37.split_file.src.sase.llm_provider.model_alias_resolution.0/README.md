@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c1881ce`](https://github.com/sase-org/sase/commit/c1881ce9e142806b41cedfe0fe50691d34e29bdb) | refactor(llm): split model alias resolution into focused modules | 2026-08-20 02:41:02 UTC |
+| sase | [`c1881ce`](https://github.com/sase-org/sase/commit/c1881ce9e142806b41cedfe0fe50691d34e29bdb) | refactor(llm): split model alias resolution into focused modules | 2026-08-19 22:41:02 EDT |
 
 ## Neighbors
 

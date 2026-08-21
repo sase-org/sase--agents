@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`83138f0`](https://github.com/sase-org/sase/commit/83138f0bd0baa85bd2cdbcd18c4d257d30ab0c90) | feat(ace): add repository and workspace inventory tabs | 2026-07-13 17:13:58 UTC |
+| sase | [`83138f0`](https://github.com/sase-org/sase/commit/83138f0bd0baa85bd2cdbcd18c4d257d30ab0c90) | feat(ace): add repository and workspace inventory tabs | 2026-07-13 13:13:58 EDT |
 
 ## Neighbors
 

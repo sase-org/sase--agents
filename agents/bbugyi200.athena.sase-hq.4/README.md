@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bb07bd8`](https://github.com/sase-org/sase/commit/bb07bd865bde7033bf841f973c1c0f527284c777) | feat(ace): add prompt glossary interactions | 2026-08-08 23:57:12 UTC |
+| sase | [`bb07bd8`](https://github.com/sase-org/sase/commit/bb07bd865bde7033bf841f973c1c0f527284c777) | feat(ace): add prompt glossary interactions | 2026-08-08 19:57:12 EDT |
 
 ## Neighbors
 

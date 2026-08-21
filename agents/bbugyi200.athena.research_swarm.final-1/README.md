@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e253f12`](https://github.com/sase-org/sase/commit/e253f12787891faa75a410d3b07db45285eb659b) | chore: consolidate preferred install research | 2026-05-28 20:32:22 UTC |
+| sase | [`e253f12`](https://github.com/sase-org/sase/commit/e253f12787891faa75a410d3b07db45285eb659b) | chore: consolidate preferred install research | 2026-05-28 16:32:22 EDT |
 
 ## Neighbors
 

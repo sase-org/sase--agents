@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`266eac0`](https://github.com/sase-org/sase/commit/266eac076ab2986a6153fd5f2818761d4b11d109) | feat(ace): add tribe-scoped fold hints | 2026-07-25 15:22:41 UTC |
+| code | sase | [`266eac0`](https://github.com/sase-org/sase/commit/266eac076ab2986a6153fd5f2818761d4b11d109) | feat(ace): add tribe-scoped fold hints | 2026-07-25 11:22:41 EDT |

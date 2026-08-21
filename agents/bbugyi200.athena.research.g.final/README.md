@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d31cd89`](https://github.com/sase-org/sase/commit/d31cd89f2a9e270acea8b9a3b875ab804211de7b) | docs: consolidate blog launch post research | 2026-06-14 21:35:16 UTC |
+| sase | [`d31cd89`](https://github.com/sase-org/sase/commit/d31cd89f2a9e270acea8b9a3b875ab804211de7b) | docs: consolidate blog launch post research | 2026-06-14 17:35:16 EDT |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ffc7aa8`](https://github.com/sase-org/sase/commit/ffc7aa874735fb008fa5a489fa254e36c02092ae) | docs(ace): describe lane fold behavior in help and agent docs (sase-99) | 2026-07-25 17:22:56 UTC |
+| sase | [`ffc7aa8`](https://github.com/sase-org/sase/commit/ffc7aa874735fb008fa5a489fa254e36c02092ae) | docs(ace): describe lane fold behavior in help and agent docs (sase-99) | 2026-07-25 13:22:56 EDT |
 
 ## Neighbors
 

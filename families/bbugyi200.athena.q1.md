@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`ba611aa`](https://github.com/sase-org/sase/commit/ba611aa4834ce85727808aa2738687dae16515a4) | feat(ace-tribes): require a description for configured agent tribes | 2026-07-31 11:59:03 UTC |
+| code | sase | [`ba611aa`](https://github.com/sase-org/sase/commit/ba611aa4834ce85727808aa2738687dae16515a4) | feat(ace-tribes): require a description for configured agent tribes | 2026-07-31 07:59:03 EDT |
 
 ## Neighbors
 

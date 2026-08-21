@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`732e9cc`](https://github.com/sase-org/sase/commit/732e9ccf4ab1e9852b2ac8a43ab938dc6de29552) | docs(gate): document panel-based input collection and keys | 2026-08-18 22:36:52 UTC |
+| sase | [`732e9cc`](https://github.com/sase-org/sase/commit/732e9ccf4ab1e9852b2ac8a43ab938dc6de29552) | docs(gate): document panel-based input collection and keys | 2026-08-18 18:36:52 EDT |
 
 ## Neighbors
 

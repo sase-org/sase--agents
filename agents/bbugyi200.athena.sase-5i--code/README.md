@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b596d78`](https://github.com/sase-org/sase/commit/b596d78dbbcd9d93712a11332a6078e59723efb7) | fix: align VCS ref completion parity (sase-5i) | 2026-07-07 22:23:03 UTC |
+| sase | [`b596d78`](https://github.com/sase-org/sase/commit/b596d78dbbcd9d93712a11332a6078e59723efb7) | fix: align VCS ref completion parity (sase-5i) | 2026-07-07 18:23:03 EDT |
 
 ## Neighbors
 

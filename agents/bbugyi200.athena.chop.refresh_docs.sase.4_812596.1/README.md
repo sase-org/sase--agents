@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`63bb1a2`](https://github.com/sase-org/sase/commit/63bb1a27e9de9e8f345263fee7d15c3b161c7794) | docs: refresh guides for current SASE behavior | 2026-08-11 23:23:23 UTC |
+| sase | [`63bb1a2`](https://github.com/sase-org/sase/commit/63bb1a27e9de9e8f345263fee7d15c3b161c7794) | docs: refresh guides for current SASE behavior | 2026-08-11 19:23:23 EDT |
 
 ## Neighbors
 

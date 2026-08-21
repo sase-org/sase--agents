@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6771e8a`](https://github.com/sase-org/sase/commit/6771e8a73373a48db152c8b7b3621579a8288406) | chore: Add SDD prompt and plan for fanout\_duplicate\_name\_alt\_model\_axes | 2026-06-23 14:21:33 UTC |
-| sase | [`e377aae`](https://github.com/sase-org/sase/commit/e377aae2b7ee0f382f450f2fc678189cb2494ac3) | fix(xprompt): preserve alt axes in model fanout names | 2026-06-23 14:44:34 UTC |
+| sase | [`6771e8a`](https://github.com/sase-org/sase/commit/6771e8a73373a48db152c8b7b3621579a8288406) | chore: Add SDD prompt and plan for fanout\_duplicate\_name\_alt\_model\_axes | 2026-06-23 10:21:33 EDT |
+| sase | [`e377aae`](https://github.com/sase-org/sase/commit/e377aae2b7ee0f382f450f2fc678189cb2494ac3) | fix(xprompt): preserve alt axes in model fanout names | 2026-06-23 10:44:34 EDT |
 
 ## Neighbors
 

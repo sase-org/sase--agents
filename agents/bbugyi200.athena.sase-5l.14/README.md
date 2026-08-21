@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`64e48bd`](https://github.com/sase-org/sase/commit/64e48bdaa8f23ac21f9800efbecf7c863f1f2419) | fix(doctor): strip doubled program token from tmux version summary (sase-5l.14) | 2026-07-08 21:41:31 UTC |
+| sase | [`64e48bd`](https://github.com/sase-org/sase/commit/64e48bdaa8f23ac21f9800efbecf7c863f1f2419) | fix(doctor): strip doubled program token from tmux version summary (sase-5l.14) | 2026-07-08 17:41:31 EDT |
 
 ## Neighbors
 

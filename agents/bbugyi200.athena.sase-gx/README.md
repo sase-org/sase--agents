@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d2b8cdb`](https://github.com/sase-org/sase/commit/d2b8cdb0ae58afeaf8cb606bbea8aca05d310a97) | ci(release): sync uv.lock on the pending release-please branch | 2026-08-07 15:23:42 UTC |
+| sase | [`d2b8cdb`](https://github.com/sase-org/sase/commit/d2b8cdb0ae58afeaf8cb606bbea8aca05d310a97) | ci(release): sync uv.lock on the pending release-please branch | 2026-08-07 11:23:42 EDT |

@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5d42565`](https://github.com/sase-org/sase/commit/5d4256583da308c61d27fbc72417c48d49ffd4ed) | chore: Add SDD prompt and plan for reverted\_agent\_indicator | 2026-06-21 13:49:44 UTC |
-| sase | [`c949acf`](https://github.com/sase-org/sase/commit/c949acf56bbc8d225c5020c6538f2cf53042707c) | feat(tui): indicate reverted agents | 2026-06-21 13:59:03 UTC |
+| sase | [`5d42565`](https://github.com/sase-org/sase/commit/5d4256583da308c61d27fbc72417c48d49ffd4ed) | chore: Add SDD prompt and plan for reverted\_agent\_indicator | 2026-06-21 09:49:44 EDT |
+| sase | [`c949acf`](https://github.com/sase-org/sase/commit/c949acf56bbc8d225c5020c6538f2cf53042707c) | feat(tui): indicate reverted agents | 2026-06-21 09:59:03 EDT |

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e9473ca`](https://github.com/sase-org/sase/commit/e9473ca007b578df53ca7f7f4e1d515ccaa1d34c) | feat: include VCS tags in plan approval notifications | 2026-07-09 05:21:32 UTC |
+| sase | [`e9473ca`](https://github.com/sase-org/sase/commit/e9473ca007b578df53ca7f7f4e1d515ccaa1d34c) | feat: include VCS tags in plan approval notifications | 2026-07-09 01:21:32 EDT |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`36cabc2`](https://github.com/sase-org/sase/commit/36cabc223db200ccda13aa16dd7a1ff4fb3913f1) | test(ace): split glossary panel tests into focused modules | 2026-08-18 13:23:23 UTC |
+| sase | [`36cabc2`](https://github.com/sase-org/sase/commit/36cabc223db200ccda13aa16dd7a1ff4fb3913f1) | test(ace): split glossary panel tests into focused modules | 2026-08-18 09:23:23 EDT |
 
 ## Neighbors
 

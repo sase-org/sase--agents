@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8343169`](https://github.com/sase-org/sase/commit/8343169a462a9f34b6e30f843c0703aebd2f958e) | test(suite-gate): split suite gate tests into focused modules | 2026-08-19 06:58:55 UTC |
+| sase | [`8343169`](https://github.com/sase-org/sase/commit/8343169a462a9f34b6e30f843c0703aebd2f958e) | test(suite-gate): split suite gate tests into focused modules | 2026-08-19 02:58:55 EDT |
 
 ## Neighbors
 

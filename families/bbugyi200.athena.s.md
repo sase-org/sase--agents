@@ -24,9 +24,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`c318af1`](https://github.com/sase-org/sase/commit/c318af1e724b3bfced9347f4bbb3ce1b442e7e52) | fix: Pin "local time" to the configured timezone everywhere | 2026-07-03 17:08:46 UTC |
-| root | sase | [`39e2c22`](https://github.com/sase-org/sase/commit/39e2c22c2a6675470178b3d7d1a6ea814381f4f5) | chore: Add SDD prompt and plan for demo\_video\_stamp\_and\_commit | 2026-07-06 23:14:53 UTC |
-| code | sase | [`7fb19c3`](https://github.com/sase-org/sase/commit/7fb19c3953cdb0988c831c7d67eb5da21ee61dc5) | build: update demo video regeneration workflow | 2026-07-06 23:25:14 UTC |
+| — | sase | [`c318af1`](https://github.com/sase-org/sase/commit/c318af1e724b3bfced9347f4bbb3ce1b442e7e52) | fix: Pin "local time" to the configured timezone everywhere | 2026-07-03 13:08:46 EDT |
+| root | sase | [`39e2c22`](https://github.com/sase-org/sase/commit/39e2c22c2a6675470178b3d7d1a6ea814381f4f5) | chore: Add SDD prompt and plan for demo\_video\_stamp\_and\_commit | 2026-07-06 19:14:53 EDT |
+| code | sase | [`7fb19c3`](https://github.com/sase-org/sase/commit/7fb19c3953cdb0988c831c7d67eb5da21ee61dc5) | build: update demo video regeneration workflow | 2026-07-06 19:25:14 EDT |
 
 ## Neighbors
 

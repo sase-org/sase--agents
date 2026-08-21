@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`0002a05`](https://github.com/sase-org/sase/commit/0002a0590cfe4e2b801a1244046b8311034d4fa1) | feat(ace): add alternate-section jump to Admin Center opener key | 2026-07-31 12:14:47 UTC |
+| code | sase | [`0002a05`](https://github.com/sase-org/sase/commit/0002a0590cfe4e2b801a1244046b8311034d4fa1) | feat(ace): add alternate-section jump to Admin Center opener key | 2026-07-31 08:14:47 EDT |

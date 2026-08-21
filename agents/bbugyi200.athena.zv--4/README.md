@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ab7deab`](https://github.com/sase-org/sase/commit/ab7deab66086e6c16f389439cec6222310277cc7) | fix(ace): dedupe settled-monitor rows in the Agents tab | 2026-08-13 20:01:32 UTC |
+| sase | [`ab7deab`](https://github.com/sase-org/sase/commit/ab7deab66086e6c16f389439cec6222310277cc7) | fix(ace): dedupe settled-monitor rows in the Agents tab | 2026-08-13 16:01:32 EDT |

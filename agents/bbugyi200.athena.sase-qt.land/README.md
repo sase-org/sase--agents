@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`13365a9`](https://github.com/sase-org/sase/commit/13365a95b08290d0b501f4c0e330cdef1382f3d9) | fix(memory): treat the generated glossary note as read-only in the Memory panel | 2026-08-19 19:07:03 UTC |
+| sase | [`13365a9`](https://github.com/sase-org/sase/commit/13365a95b08290d0b501f4c0e330cdef1382f3d9) | fix(memory): treat the generated glossary note as read-only in the Memory panel | 2026-08-19 15:07:03 EDT |
 
 ## Neighbors
 

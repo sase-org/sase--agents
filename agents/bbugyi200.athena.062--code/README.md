@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`73b55f0`](https://github.com/sase-org/sase/commit/73b55f0fb4764ab5338c2c3030a444e45de5e4d9) | feat(ace)!: back Ctrl+Space with the VCS xprompt MRU store | 2026-08-18 15:15:32 UTC |
+| sase | [`73b55f0`](https://github.com/sase-org/sase/commit/73b55f0fb4764ab5338c2c3030a444e45de5e4d9) | feat(ace)!: back Ctrl+Space with the VCS xprompt MRU store | 2026-08-18 11:15:32 EDT |
 
 ## Neighbors
 

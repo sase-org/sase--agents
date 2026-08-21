@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`625b5ca`](https://github.com/sase-org/sase/commit/625b5cac40fba4d0db7edf41b026fd36ac516798) | fix(axe): serialize workspace prep with agents sync on the shared sidecar clone | 2026-08-06 14:40:46 UTC |
+| sase | [`625b5ca`](https://github.com/sase-org/sase/commit/625b5cac40fba4d0db7edf41b026fd36ac516798) | fix(axe): serialize workspace prep with agents sync on the shared sidecar clone | 2026-08-06 10:40:46 EDT |

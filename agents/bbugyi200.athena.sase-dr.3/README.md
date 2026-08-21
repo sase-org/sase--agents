@@ -23,8 +23,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d63a86b`](https://github.com/sase-org/sase/commit/d63a86bfddc4558ddd91c69850f3d35b8ab86d6d) | feat(beads): present task corroboration across user surfaces | 2026-08-01 18:34:11 UTC |
-| sase | [`0f1f286`](https://github.com/sase-org/sase/commit/0f1f28699598bb86bed8de5ec2c42f2463c6ee21) | test(ace): refresh task triage presentation golden | 2026-08-01 18:37:09 UTC |
+| sase | [`d63a86b`](https://github.com/sase-org/sase/commit/d63a86bfddc4558ddd91c69850f3d35b8ab86d6d) | feat(beads): present task corroboration across user surfaces | 2026-08-01 14:34:11 EDT |
+| sase | [`0f1f286`](https://github.com/sase-org/sase/commit/0f1f28699598bb86bed8de5ec2c42f2463c6ee21) | test(ace): refresh task triage presentation golden | 2026-08-01 14:37:09 EDT |
 
 ## Neighbors
 

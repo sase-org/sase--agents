@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d4a7532`](https://github.com/sase-org/sase/commit/d4a75326dc42403305ad5e175f898f0700415383) | chore: close sase-59 plugins tab epic | 2026-06-26 16:31:26 UTC |
+| sase | [`d4a7532`](https://github.com/sase-org/sase/commit/d4a75326dc42403305ad5e175f898f0700415383) | chore: close sase-59 plugins tab epic | 2026-06-26 12:31:26 EDT |
 
 ## Neighbors
 

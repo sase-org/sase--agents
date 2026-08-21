@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2f41353`](https://github.com/sase-org/sase/commit/2f41353b5fc05fb764b887d31dde2e936cabdebf) | perf(monitor): bound settle-path artifact-index reads | 2026-08-17 08:21:15 UTC |
+| sase | [`2f41353`](https://github.com/sase-org/sase/commit/2f41353b5fc05fb764b887d31dde2e936cabdebf) | perf(monitor): bound settle-path artifact-index reads | 2026-08-17 04:21:15 EDT |
 
 ## Neighbors
 

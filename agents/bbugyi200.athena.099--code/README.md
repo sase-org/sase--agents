@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b6662f3`](https://github.com/sase-org/sase/commit/b6662f34d7022065a5895d119a7fd2e52a3f89fc) | feat(artifact-links): retire beta flag | 2026-08-21 14:16:21 UTC |
+| sase | [`b6662f3`](https://github.com/sase-org/sase/commit/b6662f34d7022065a5895d119a7fd2e52a3f89fc) | feat(artifact-links): retire beta flag | 2026-08-21 10:16:21 EDT |

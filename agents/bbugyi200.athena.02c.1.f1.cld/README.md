@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cbd373f`](https://github.com/sase-org/sase/commit/cbd373f4845b3d68573024b3bd77914021831824) | chore: Add SDD prompt and plan for finalizer\_baseline\_sibling\_attribution | 2026-06-20 18:48:57 UTC |
+| sase | [`cbd373f`](https://github.com/sase-org/sase/commit/cbd373f4845b3d68573024b3bd77914021831824) | chore: Add SDD prompt and plan for finalizer\_baseline\_sibling\_attribution | 2026-06-20 14:48:57 EDT |
 
 ## Neighbors
 

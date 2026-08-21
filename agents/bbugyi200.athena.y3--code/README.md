@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`19f8273`](https://github.com/sase-org/sase/commit/19f82733248902bffe4972afdfb2f780561d58ce) | test: stabilize CI alias availability expectation | 2026-08-11 19:03:49 UTC |
+| sase | [`19f8273`](https://github.com/sase-org/sase/commit/19f82733248902bffe4972afdfb2f780561d58ce) | test: stabilize CI alias availability expectation | 2026-08-11 15:03:49 EDT |

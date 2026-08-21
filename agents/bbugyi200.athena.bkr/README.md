@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`72389de`](https://github.com/sase-org/sase/commit/72389dea7fe7ce3d49aa6fbdcbc70f459a31d928) | chore: Add SDD prompt and plan for fix\_finalizer\_workspace\_scope | 2026-05-27 17:03:45 UTC |
-| sase | [`8aabcac`](https://github.com/sase-org/sase/commit/8aabcaca8a026191a26e27c70b7f0da06a888ba7) | fix: restrict commit finalizer sibling scope | 2026-05-27 17:23:00 UTC |
+| sase | [`72389de`](https://github.com/sase-org/sase/commit/72389dea7fe7ce3d49aa6fbdcbc70f459a31d928) | chore: Add SDD prompt and plan for fix\_finalizer\_workspace\_scope | 2026-05-27 13:03:45 EDT |
+| sase | [`8aabcac`](https://github.com/sase-org/sase/commit/8aabcaca8a026191a26e27c70b7f0da06a888ba7) | fix: restrict commit finalizer sibling scope | 2026-05-27 13:23:00 EDT |

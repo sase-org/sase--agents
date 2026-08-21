@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`95f03c9`](https://github.com/sase-org/sase/commit/95f03c96be0b98c8694d1e0281575ec0a2100ffb) | fix(tui): dispatch launch approvals in background | 2026-07-06 17:44:10 UTC |
+| sase | [`95f03c9`](https://github.com/sase-org/sase/commit/95f03c96be0b98c8694d1e0281575ec0a2100ffb) | fix(tui): dispatch launch approvals in background | 2026-07-06 13:44:10 EDT |

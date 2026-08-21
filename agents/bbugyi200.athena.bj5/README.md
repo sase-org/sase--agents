@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bcbe719`](https://github.com/sase-org/sase/commit/bcbe719489a7ed3c6bfa04453d2e7100c57866e8) | chore: Add SDD prompt and plan for agent\_panel\_cropping | 2026-05-27 13:58:44 UTC |
-| sase | [`64bd94e`](https://github.com/sase-org/sase/commit/64bd94e17d45fede5c675b56018567d61c460928) | fix: improve agent panel overflow sizing | 2026-05-27 14:08:34 UTC |
+| sase | [`bcbe719`](https://github.com/sase-org/sase/commit/bcbe719489a7ed3c6bfa04453d2e7100c57866e8) | chore: Add SDD prompt and plan for agent\_panel\_cropping | 2026-05-27 09:58:44 EDT |
+| sase | [`64bd94e`](https://github.com/sase-org/sase/commit/64bd94e17d45fede5c675b56018567d61c460928) | fix: improve agent panel overflow sizing | 2026-05-27 10:08:34 EDT |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a40aa0d`](https://github.com/sase-org/sase/commit/a40aa0ded2b04adc546c4864546c45e4e7901b48) | chore: Add SDD prompt and plan for mode\_switch\_sync\_dev\_checkouts | 2026-07-06 10:37:01 UTC |
+| sase | [`a40aa0d`](https://github.com/sase-org/sase/commit/a40aa0ded2b04adc546c4864546c45e4e7901b48) | chore: Add SDD prompt and plan for mode\_switch\_sync\_dev\_checkouts | 2026-07-06 06:37:01 EDT |

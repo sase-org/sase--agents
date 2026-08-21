@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f53674e`](https://github.com/sase-org/sase/commit/f53674e04683382a9177808c659ac5800cbb0534) | docs: document TUI freeze and xprompt LSP findings | 2026-06-27 20:14:38 UTC |
+| sase | [`f53674e`](https://github.com/sase-org/sase/commit/f53674e04683382a9177808c659ac5800cbb0534) | docs: document TUI freeze and xprompt LSP findings | 2026-06-27 16:14:38 EDT |
 
 ## Neighbors
 

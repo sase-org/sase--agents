@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f55ce07`](https://github.com/sase-org/sase/commit/f55ce07d164d57b1c05d6585b191459adcc9e5e7) | feat(llm\_provider): drive shipped model alias defaults from one YAML file | 2026-07-31 20:27:52 UTC |
+| code | sase | [`f55ce07`](https://github.com/sase-org/sase/commit/f55ce07d164d57b1c05d6585b191459adcc9e5e7) | feat(llm\_provider): drive shipped model alias defaults from one YAML file | 2026-07-31 16:27:52 EDT |

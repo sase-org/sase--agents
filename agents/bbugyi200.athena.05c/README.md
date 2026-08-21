@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e20713c`](https://github.com/sase-org/sase/commit/e20713c91c2e0fa95ad5bc15aa3e485daaeb666b) | chore: Add SDD prompt and plan for move\_pencil\_before\_runtime | 2026-06-24 13:00:31 UTC |
-| sase | [`825c70b`](https://github.com/sase-org/sase/commit/825c70b8a8edb7ae0cf9f46cff88e45e0aa1ad0c) | fix(ace): render file-change glyph before runtime suffix | 2026-06-24 13:13:05 UTC |
+| sase | [`e20713c`](https://github.com/sase-org/sase/commit/e20713c91c2e0fa95ad5bc15aa3e485daaeb666b) | chore: Add SDD prompt and plan for move\_pencil\_before\_runtime | 2026-06-24 09:00:31 EDT |
+| sase | [`825c70b`](https://github.com/sase-org/sase/commit/825c70b8a8edb7ae0cf9f46cff88e45e0aa1ad0c) | fix(ace): render file-change glyph before runtime suffix | 2026-06-24 09:13:05 EDT |

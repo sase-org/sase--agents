@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e759de9`](https://github.com/sase-org/sase/commit/e759de930ddc95774592d675e62398993f15f2ae) | chore: Add SDD prompt and plan for wait\_plan\_agents\_1 | 2026-06-25 22:49:38 UTC |
-| sase | [`53428f1`](https://github.com/sase-org/sase/commit/53428f1e76fb0e33f197d0851a4142da25893859) | feat(wait): support %wait on submitted plan agents | 2026-06-25 23:14:36 UTC |
+| sase | [`e759de9`](https://github.com/sase-org/sase/commit/e759de930ddc95774592d675e62398993f15f2ae) | chore: Add SDD prompt and plan for wait\_plan\_agents\_1 | 2026-06-25 18:49:38 EDT |
+| sase | [`53428f1`](https://github.com/sase-org/sase/commit/53428f1e76fb0e33f197d0851a4142da25893859) | feat(wait): support %wait on submitted plan agents | 2026-06-25 19:14:36 EDT |

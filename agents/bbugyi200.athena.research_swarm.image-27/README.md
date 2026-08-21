@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e1a8ef4`](https://github.com/sase-org/sase/commit/e1a8ef49aad9ef7994969903bf962fd45a6d3a0d) | chore: add agent family research infographic | 2026-06-02 20:19:37 UTC |
+| sase | [`e1a8ef4`](https://github.com/sase-org/sase/commit/e1a8ef49aad9ef7994969903bf962fd45a6d3a0d) | chore: add agent family research infographic | 2026-06-02 16:19:37 EDT |
 
 ## Neighbors
 

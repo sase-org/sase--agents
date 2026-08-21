@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f25a846`](https://github.com/sase-org/sase/commit/f25a84603f43a2048a766db83ae74a31b2a91526) | fix(ace): run post-write commands noninteractively | 2026-08-09 18:43:02 UTC |
+| sase | [`f25a846`](https://github.com/sase-org/sase/commit/f25a84603f43a2048a766db83ae74a31b2a91526) | fix(ace): run post-write commands noninteractively | 2026-08-09 14:43:02 EDT |

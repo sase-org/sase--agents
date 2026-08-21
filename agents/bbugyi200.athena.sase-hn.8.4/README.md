@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8651758`](https://github.com/sase-org/sase/commit/865175867ad8b505ed867de9e28254129ca85a8c) | test: update patch terminology audit expectations | 2026-08-09 05:58:04 UTC |
+| sase | [`8651758`](https://github.com/sase-org/sase/commit/865175867ad8b505ed867de9e28254129ca85a8c) | test: update patch terminology audit expectations | 2026-08-09 01:58:04 EDT |
 
 ## Neighbors
 

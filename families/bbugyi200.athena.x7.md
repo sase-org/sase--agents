@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`168fd20`](https://github.com/sase-org/sase/commit/168fd208bf343a7757e4b70193cc5cf43a78b612) | feat(ace): reset tribe panel folds on rebirth | 2026-08-10 15:25:34 UTC |
+| code | sase | [`168fd20`](https://github.com/sase-org/sase/commit/168fd208bf343a7757e4b70193cc5cf43a78b612) | feat(ace): reset tribe panel folds on rebirth | 2026-08-10 11:25:34 EDT |

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5a039ef`](https://github.com/sase-org/sase/commit/5a039ef149805f3d5bde7465b9c23c0050dc8bc9) | fix(deps): fail loudly when the built sase\_core\_rs is behind the pyproject floor | 2026-08-07 21:24:16 UTC |
+| sase | [`5a039ef`](https://github.com/sase-org/sase/commit/5a039ef149805f3d5bde7465b9c23c0050dc8bc9) | fix(deps): fail loudly when the built sase\_core\_rs is behind the pyproject floor | 2026-08-07 17:24:16 EDT |
 
 ## Neighbors
 

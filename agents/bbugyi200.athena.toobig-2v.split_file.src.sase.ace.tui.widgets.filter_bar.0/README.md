@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`95d66f5`](https://github.com/sase-org/sase/commit/95d66f59c0f73c601dcf93939182da35caaf4dcd) | refactor(tui): split filter bar completion logic | 2026-08-16 14:37:30 UTC |
+| sase | [`95d66f5`](https://github.com/sase-org/sase/commit/95d66f59c0f73c601dcf93939182da35caaf4dcd) | refactor(tui): split filter bar completion logic | 2026-08-16 10:37:30 EDT |
 
 ## Neighbors
 

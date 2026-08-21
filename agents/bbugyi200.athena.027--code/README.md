@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4197762`](https://github.com/sase-org/sase/commit/41977629d7b5d15c8c5b2273dd46f4cbb04bad0a) | docs: restore agent lane glossary entry | 2026-08-15 14:04:57 UTC |
+| sase | [`4197762`](https://github.com/sase-org/sase/commit/41977629d7b5d15c8c5b2273dd46f4cbb04bad0a) | docs: restore agent lane glossary entry | 2026-08-15 10:04:57 EDT |

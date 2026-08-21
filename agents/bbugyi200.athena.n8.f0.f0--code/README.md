@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8049b46`](https://github.com/sase-org/sase/commit/8049b46ccb83fa3f88ecb8aba4d70545111f19aa) | fix: label sidecar commits by repository role | 2026-07-28 17:37:31 UTC |
+| sase | [`8049b46`](https://github.com/sase-org/sase/commit/8049b46ccb83fa3f88ecb8aba4d70545111f19aa) | fix: label sidecar commits by repository role | 2026-07-28 13:37:31 EDT |
 
 ## Neighbors
 

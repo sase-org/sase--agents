@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d66101e`](https://github.com/sase-org/sase/commit/d66101e8f292cb53b48ae2287f0f5f723b3c3ff9) | feat(tests): union per-test coverage contexts into diff-scoped selection | 2026-08-06 05:13:51 UTC |
+| sase | [`d66101e`](https://github.com/sase-org/sase/commit/d66101e8f292cb53b48ae2287f0f5f723b3c3ff9) | feat(tests): union per-test coverage contexts into diff-scoped selection | 2026-08-06 01:13:51 EDT |
 
 ## Neighbors
 

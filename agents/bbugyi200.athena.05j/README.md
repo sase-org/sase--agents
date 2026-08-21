@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ec67267`](https://github.com/sase-org/sase/commit/ec67267ef4a3b16f831f6fb3c894dd59aed4b7bb) | chore: Add SDD prompt and plan for alt\_brace\_two\_space\_padding | 2026-06-24 16:46:44 UTC |
-| sase | [`36810c5`](https://github.com/sase-org/sase/commit/36810c583ab61cfaa4fc887b541668802ca5a836) | fix(tui): pad directive alt brace pairs | 2026-06-24 16:56:06 UTC |
+| sase | [`ec67267`](https://github.com/sase-org/sase/commit/ec67267ef4a3b16f831f6fb3c894dd59aed4b7bb) | chore: Add SDD prompt and plan for alt\_brace\_two\_space\_padding | 2026-06-24 12:46:44 EDT |
+| sase | [`36810c5`](https://github.com/sase-org/sase/commit/36810c583ab61cfaa4fc887b541668802ca5a836) | fix(tui): pad directive alt brace pairs | 2026-06-24 12:56:06 EDT |

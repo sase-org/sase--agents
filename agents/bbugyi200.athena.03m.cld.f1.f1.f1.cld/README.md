@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`60c086c`](https://github.com/sase-org/sase/commit/60c086c701146508ea38e960736d625c79842652) | chore: Add SDD prompt and plan for question\_continuation\_planner\_runtime | 2026-06-23 14:15:26 UTC |
-| sase | [`19e55af`](https://github.com/sase-org/sase/commit/19e55af2b40bb7d2ba47f6c661f4693da7a5cc60) | fix(tui): correct question continuation planner runtime | 2026-06-23 14:27:36 UTC |
+| sase | [`60c086c`](https://github.com/sase-org/sase/commit/60c086c701146508ea38e960736d625c79842652) | chore: Add SDD prompt and plan for question\_continuation\_planner\_runtime | 2026-06-23 10:15:26 EDT |
+| sase | [`19e55af`](https://github.com/sase-org/sase/commit/19e55af2b40bb7d2ba47f6c661f4693da7a5cc60) | fix(tui): correct question continuation planner runtime | 2026-06-23 10:27:36 EDT |
 
 ## Neighbors
 

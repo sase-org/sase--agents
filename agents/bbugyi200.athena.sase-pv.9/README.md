@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`281f3c1`](https://github.com/sase-org/sase/commit/281f3c1976767bf33b68dbd2fddf9e3dc44fef6b) | docs(flags): treat flag beads as task(flag), not a fourth issue type | 2026-08-19 00:59:32 UTC |
+| sase | [`281f3c1`](https://github.com/sase-org/sase/commit/281f3c1976767bf33b68dbd2fddf9e3dc44fef6b) | docs(flags): treat flag beads as task(flag), not a fourth issue type | 2026-08-18 20:59:32 EDT |
 
 ## Neighbors
 

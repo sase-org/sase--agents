@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`62fb941`](https://github.com/sase-org/sase/commit/62fb94129662db94663cf5156c09e87223af4068) | refactor(procs): move sase.tasks to sase.procs and migrate on-disk state | 2026-08-14 00:11:56 UTC |
+| sase | [`62fb941`](https://github.com/sase-org/sase/commit/62fb94129662db94663cf5156c09e87223af4068) | refactor(procs): move sase.tasks to sase.procs and migrate on-disk state | 2026-08-13 20:11:56 EDT |
 
 ## Neighbors
 

@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0f80153`](https://github.com/sase-org/sase/commit/0f80153d2b76ebc1962c86fde272de4a060c5292) | fix(tests): guard emoji import in emoji glyph visual test | 2026-08-07 19:39:39 UTC |
+| sase | [`0f80153`](https://github.com/sase-org/sase/commit/0f80153d2b76ebc1962c86fde272de4a060c5292) | fix(tests): guard emoji import in emoji glyph visual test | 2026-08-07 15:39:39 EDT |

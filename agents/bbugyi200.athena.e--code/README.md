@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5ca4379`](https://github.com/sase-org/sase/commit/5ca4379b7820886390dbac298e2fd366a2587804) | fix: unblock queued family waits | 2026-07-06 17:58:07 UTC |
+| sase | [`5ca4379`](https://github.com/sase-org/sase/commit/5ca4379b7820886390dbac298e2fd366a2587804) | fix: unblock queued family waits | 2026-07-06 13:58:07 EDT |
 
 ## Neighbors
 

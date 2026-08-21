@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`17acd9f`](https://github.com/sase-org/sase/commit/17acd9fec688aa5995fc9f636dc4e9ab2b43a278) | fix: manage nested agent doc provider shims | 2026-07-06 23:41:47 UTC |
+| sase | [`17acd9f`](https://github.com/sase-org/sase/commit/17acd9fec688aa5995fc9f636dc4e9ab2b43a278) | fix: manage nested agent doc provider shims | 2026-07-06 19:41:47 EDT |

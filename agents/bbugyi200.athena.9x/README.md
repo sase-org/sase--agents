@@ -21,5 +21,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cd967d3`](https://github.com/sase-org/sase/commit/cd967d3c8e8913bfe74e1634281d50243321dcff) | chore: Add SDD prompt and plan for planner\_runtime\_telegram | 2026-06-17 22:00:05 UTC |
-| sase | [`46e694a`](https://github.com/sase-org/sase/commit/46e694a49ab9cedaae7fc38a90b7fb6b980885f2) | feat: include planner runtime in plan approval notifications | 2026-06-17 22:07:47 UTC |
+| sase | [`cd967d3`](https://github.com/sase-org/sase/commit/cd967d3c8e8913bfe74e1634281d50243321dcff) | chore: Add SDD prompt and plan for planner\_runtime\_telegram | 2026-06-17 18:00:05 EDT |
+| sase | [`46e694a`](https://github.com/sase-org/sase/commit/46e694a49ab9cedaae7fc38a90b7fb6b980885f2) | feat: include planner runtime in plan approval notifications | 2026-06-17 18:07:47 EDT |

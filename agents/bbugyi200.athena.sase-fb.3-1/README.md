@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`980bdd3`](https://github.com/sase-org/sase/commit/980bdd33767edd55ce358ff9d2bd9a89b81a502c) | fix(commit-finalizer): fail the run when auto-committed bead state is never published | 2026-08-05 22:15:56 UTC |
+| sase | [`980bdd3`](https://github.com/sase-org/sase/commit/980bdd33767edd55ce358ff9d2bd9a89b81a502c) | fix(commit-finalizer): fail the run when auto-committed bead state is never published | 2026-08-05 18:15:56 EDT |
 
 ## Neighbors
 

@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`0689333`](https://github.com/sase-org/sase/commit/0689333f778ad10c96e2fe82a03076b3c3f7e752) | feat(axe): add side-effect-free status snapshots (sase-8t.2) | 2026-07-23 12:38:49 UTC |
+| code | sase | [`0689333`](https://github.com/sase-org/sase/commit/0689333f778ad10c96e2fe82a03076b3c3f7e752) | feat(axe): add side-effect-free status snapshots (sase-8t.2) | 2026-07-23 08:38:49 EDT |
 
 ## Neighbors
 

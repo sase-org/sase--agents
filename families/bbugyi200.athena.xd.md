@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`24dde37`](https://github.com/sase-org/sase/commit/24dde377599fa0bdcec8207663fdd11517e87204) | docs: drop plan authoring size paragraph | 2026-08-10 17:28:30 UTC |
+| code | sase | [`24dde37`](https://github.com/sase-org/sase/commit/24dde377599fa0bdcec8207663fdd11517e87204) | docs: drop plan authoring size paragraph | 2026-08-10 13:28:30 EDT |

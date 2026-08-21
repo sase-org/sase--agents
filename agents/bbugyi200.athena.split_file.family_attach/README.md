@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5781113`](https://github.com/sase-org/sase/commit/5781113e406ada2121e5e356118bc19115326bb8) | refactor(agent): split family attach module | 2026-07-08 19:38:32 UTC |
+| sase | [`5781113`](https://github.com/sase-org/sase/commit/5781113e406ada2121e5e356118bc19115326bb8) | refactor(agent): split family attach module | 2026-07-08 15:38:32 EDT |
 
 ## Neighbors
 

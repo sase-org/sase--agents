@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5b2780b`](https://github.com/sase-org/sase/commit/5b2780bdbc0ec749c3849143da88cf0c590f6ef9) | chore: expand episodes user guidance research | 2026-05-26 23:30:00 UTC |
+| sase | [`5b2780b`](https://github.com/sase-org/sase/commit/5b2780bdbc0ec749c3849143da88cf0c590f6ef9) | chore: expand episodes user guidance research | 2026-05-26 19:30:00 EDT |
 
 ## Neighbors
 

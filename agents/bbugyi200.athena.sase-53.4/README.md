@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5def141`](https://github.com/sase-org/sase/commit/5def141cc2539bba4ab348c13d8807a6dcb7a09c) | feat(tui): apply xprompt expansion to prompt text with undo (sase-53.4) | 2026-06-21 16:22:43 UTC |
+| sase | [`5def141`](https://github.com/sase-org/sase/commit/5def141cc2539bba4ab348c13d8807a6dcb7a09c) | feat(tui): apply xprompt expansion to prompt text with undo (sase-53.4) | 2026-06-21 12:22:43 EDT |
 
 ## Neighbors
 

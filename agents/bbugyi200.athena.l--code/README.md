@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e746e59`](https://github.com/sase-org/sase/commit/e746e59d2a517804f250077ae9eb90cddf2ff39b) | feat: attach generated videos to agent completions | 2026-07-06 20:25:42 UTC |
+| sase | [`e746e59`](https://github.com/sase-org/sase/commit/e746e59d2a517804f250077ae9eb90cddf2ff39b) | feat: attach generated videos to agent completions | 2026-07-06 16:25:42 EDT |
 
 ## Neighbors
 

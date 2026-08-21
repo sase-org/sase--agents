@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`18c103c`](https://github.com/sase-org/sase/commit/18c103ca3594d66d0455e56c8fc5031e6e7d48b6) | docs: add directives xprompts infographic | 2026-06-20 13:46:02 UTC |
+| sase | [`18c103c`](https://github.com/sase-org/sase/commit/18c103ca3594d66d0455e56c8fc5031e6e7d48b6) | docs: add directives xprompts infographic | 2026-06-20 09:46:02 EDT |
 
 ## Neighbors
 

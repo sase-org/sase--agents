@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7ccc468`](https://github.com/sase-org/sase/commit/7ccc4688c393478423072db4d7d045ed0f869b19) | feat(telemetry)!: replace Prometheus ingestion with local storage (sase-6k.3) | 2026-07-17 16:53:13 UTC |
+| sase | [`7ccc468`](https://github.com/sase-org/sase/commit/7ccc4688c393478423072db4d7d045ed0f869b19) | feat(telemetry)!: replace Prometheus ingestion with local storage (sase-6k.3) | 2026-07-17 12:53:13 EDT |
 
 ## Neighbors
 

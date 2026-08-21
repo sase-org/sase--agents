@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`397f201`](https://github.com/sase-org/sase/commit/397f201e00073babf581ed811503f76db0bd4e08) | fix: restore ACE prompt alt brace pairing | 2026-06-20 22:05:13 UTC |
+| sase | [`397f201`](https://github.com/sase-org/sase/commit/397f201e00073babf581ed811503f76db0bd4e08) | fix: restore ACE prompt alt brace pairing | 2026-06-20 18:05:13 EDT |
 
 ## Neighbors
 

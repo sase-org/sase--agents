@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`91959c1`](https://github.com/sase-org/sase/commit/91959c10cdd6241b649439b6f92912d323c35d27) | feat(ace): render clan and family identities name first | 2026-07-18 15:09:33 UTC |
+| sase | [`91959c1`](https://github.com/sase-org/sase/commit/91959c10cdd6241b649439b6f92912d323c35d27) | feat(ace): render clan and family identities name first | 2026-07-18 11:09:33 EDT |
 
 ## Neighbors
 

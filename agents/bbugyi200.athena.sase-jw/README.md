@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`41e5176`](https://github.com/sase-org/sase/commit/41e5176e8f282938feb38ba7c1f64dffe707fcfa) | fix(linked-repos): fast-forward clean stale sase-core checkouts | 2026-08-15 23:25:44 UTC |
+| sase | [`41e5176`](https://github.com/sase-org/sase/commit/41e5176e8f282938feb38ba7c1f64dffe707fcfa) | fix(linked-repos): fast-forward clean stale sase-core checkouts | 2026-08-15 19:25:44 EDT |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`11cd863`](https://github.com/sase-org/sase/commit/11cd8634d6be9acd2c0e1b6fa5ff8fe5779a08ed) | test: annotate legacy workspace hook arguments | 2026-08-09 11:48:10 UTC |
+| sase | [`11cd863`](https://github.com/sase-org/sase/commit/11cd8634d6be9acd2c0e1b6fa5ff8fe5779a08ed) | test: annotate legacy workspace hook arguments | 2026-08-09 07:48:10 EDT |
 
 ## Neighbors
 

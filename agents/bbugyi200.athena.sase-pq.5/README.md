@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`832e3b7`](https://github.com/sase-org/sase/commit/832e3b7e8ffaee0df0999f46949ff04846b44117) | feat(bead): freeze task-type display into task and snooze gates | 2026-08-18 15:42:07 UTC |
+| sase | [`832e3b7`](https://github.com/sase-org/sase/commit/832e3b7e8ffaee0df0999f46949ff04846b44117) | feat(bead): freeze task-type display into task and snooze gates | 2026-08-18 11:42:07 EDT |
 
 ## Neighbors
 

@@ -22,8 +22,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c710d96`](https://github.com/sase-org/sase/commit/c710d966cf1a09b4cdf32d7b4d20ceea37c54563) | test: guard inline prose-width literals, not just named constants | 2026-08-07 14:08:26 UTC |
-| sase | [`bfdc6ca`](https://github.com/sase-org/sase/commit/bfdc6ca25bce04bfc2193f3a1275a45a07d58566) | build: sync uv.lock to the released 0.16.0 version | 2026-08-07 14:13:43 UTC |
+| sase | [`c710d96`](https://github.com/sase-org/sase/commit/c710d966cf1a09b4cdf32d7b4d20ceea37c54563) | test: guard inline prose-width literals, not just named constants | 2026-08-07 10:08:26 EDT |
+| sase | [`bfdc6ca`](https://github.com/sase-org/sase/commit/bfdc6ca25bce04bfc2193f3a1275a45a07d58566) | build: sync uv.lock to the released 0.16.0 version | 2026-08-07 10:13:43 EDT |
 
 ## Neighbors
 

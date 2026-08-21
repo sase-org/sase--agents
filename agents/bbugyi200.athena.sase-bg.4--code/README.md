@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f592b43`](https://github.com/sase-org/sase/commit/f592b43dfe5d0c6e1e68ab1e71c2124f6d013d2a) | feat(tui): surface task beads in ACE | 2026-07-31 01:15:10 UTC |
+| sase | [`f592b43`](https://github.com/sase-org/sase/commit/f592b43dfe5d0c6e1e68ab1e71c2124f6d013d2a) | feat(tui): surface task beads in ACE | 2026-07-30 21:15:10 EDT |
 
 ## Neighbors
 

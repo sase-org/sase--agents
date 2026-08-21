@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`935cd24`](https://github.com/sase-org/sase/commit/935cd24bbdd13972c92546660d9ba4ee559123e6) | chore: Add SDD prompt and plan for plugin\_list\_packaging\_import | 2026-06-26 12:47:21 UTC |
-| sase | [`a2596a9`](https://github.com/sase-org/sase/commit/a2596a973655c1612428aecb97749a93ceea2003) | fix(plugins): lazy-import packaging in is\_newer | 2026-06-26 12:51:38 UTC |
+| sase | [`935cd24`](https://github.com/sase-org/sase/commit/935cd24bbdd13972c92546660d9ba4ee559123e6) | chore: Add SDD prompt and plan for plugin\_list\_packaging\_import | 2026-06-26 08:47:21 EDT |
+| sase | [`a2596a9`](https://github.com/sase-org/sase/commit/a2596a973655c1612428aecb97749a93ceea2003) | fix(plugins): lazy-import packaging in is\_newer | 2026-06-26 08:51:38 EDT |
 
 ## Neighbors
 

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d4ed465`](https://github.com/sase-org/sase/commit/d4ed465fda9267c014146f8f04298a77dcd9e838) | fix: include core package in dev updates | 2026-07-07 21:59:48 UTC |
+| sase | [`d4ed465`](https://github.com/sase-org/sase/commit/d4ed465fda9267c014146f8f04298a77dcd9e838) | fix: include core package in dev updates | 2026-07-07 17:59:48 EDT |

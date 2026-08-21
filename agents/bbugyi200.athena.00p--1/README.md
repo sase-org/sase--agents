@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8147915`](https://github.com/sase-org/sase/commit/8147915b76405e1e65bc0b33fb98e3585b389d34) | fix(ace): surface active monitors through their agent-family root | 2026-08-14 12:28:37 UTC |
+| sase | [`8147915`](https://github.com/sase-org/sase/commit/8147915b76405e1e65bc0b33fb98e3585b389d34) | fix(ace): surface active monitors through their agent-family root | 2026-08-14 08:28:37 EDT |

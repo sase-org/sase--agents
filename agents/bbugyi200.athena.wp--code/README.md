@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ee41f66`](https://github.com/sase-org/sase/commit/ee41f66ec4fe45fe31e66692479c697bc5be3efd) | fix(dev-update): pass complete envs to reconcile runners | 2026-08-09 19:20:01 UTC |
+| sase | [`ee41f66`](https://github.com/sase-org/sase/commit/ee41f66ec4fe45fe31e66692479c697bc5be3efd) | fix(dev-update): pass complete envs to reconcile runners | 2026-08-09 15:20:01 EDT |

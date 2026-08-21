@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`d44da5d`](https://github.com/sase-org/sase/commit/d44da5db173809d3020e37ba5ec2b69d8fcdaf53) | feat(ace): add live keymap filter bar to the Help panel | 2026-08-07 14:10:28 UTC |
+| — | sase | [`d44da5d`](https://github.com/sase-org/sase/commit/d44da5db173809d3020e37ba5ec2b69d8fcdaf53) | feat(ace): add live keymap filter bar to the Help panel | 2026-08-07 10:10:28 EDT |

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e944b61`](https://github.com/sase-org/sase/commit/e944b613a810ee7e0634a124e8a8e417d50cc997) | refactor(tui): split agent workflow entry points | 2026-06-17 12:28:37 UTC |
+| sase | [`e944b61`](https://github.com/sase-org/sase/commit/e944b613a810ee7e0634a124e8a8e417d50cc997) | refactor(tui): split agent workflow entry points | 2026-06-17 08:28:37 EDT |
 
 ## Neighbors
 

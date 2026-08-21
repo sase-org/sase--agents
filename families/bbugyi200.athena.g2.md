@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`59678a2`](https://github.com/sase-org/sase/commit/59678a281813e7b9e90525dfb824140de1dd99ed) | fix: restore epic tribe when resuming bead work | 2026-07-20 14:11:02 UTC |
+| code | sase | [`59678a2`](https://github.com/sase-org/sase/commit/59678a281813e7b9e90525dfb824140de1dd99ed) | fix: restore epic tribe when resuming bead work | 2026-07-20 10:11:02 EDT |

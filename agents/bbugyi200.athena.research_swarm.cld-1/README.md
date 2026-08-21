@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0965aed`](https://github.com/sase-org/sase/commit/0965aede2ec7be3809514fab05961ded96acb6b8) | chore: add research on easy install with preferred plugins/chops | 2026-05-28 20:22:15 UTC |
+| sase | [`0965aed`](https://github.com/sase-org/sase/commit/0965aede2ec7be3809514fab05961ded96acb6b8) | chore: add research on easy install with preferred plugins/chops | 2026-05-28 16:22:15 EDT |
 
 ## Neighbors
 

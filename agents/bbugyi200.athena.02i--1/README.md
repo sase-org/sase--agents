@@ -21,6 +21,6 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d580a55`](https://github.com/sase-org/sase/commit/d580a55c8729e893c987aa18b3c7d68a5481ce88) | feat(tui): finish flat pane query migration | 2026-08-15 18:04:56 UTC |
-| sase | [`8965656`](https://github.com/sase-org/sase/commit/8965656eacb8475457a75106030241a005ea774b) | perf(tui): debounce Stitches detail rendering | 2026-08-15 18:06:48 UTC |
-| sase | [`9005843`](https://github.com/sase-org/sase/commit/90058437ebdeb703d016ef5e6c8cb4ca24461aa9) | test(perf): isolate navigation benchmark bursts | 2026-08-15 18:12:57 UTC |
+| sase | [`d580a55`](https://github.com/sase-org/sase/commit/d580a55c8729e893c987aa18b3c7d68a5481ce88) | feat(tui): finish flat pane query migration | 2026-08-15 14:04:56 EDT |
+| sase | [`8965656`](https://github.com/sase-org/sase/commit/8965656eacb8475457a75106030241a005ea774b) | perf(tui): debounce Stitches detail rendering | 2026-08-15 14:06:48 EDT |
+| sase | [`9005843`](https://github.com/sase-org/sase/commit/90058437ebdeb703d016ef5e6c8cb4ca24461aa9) | test(perf): isolate navigation benchmark bursts | 2026-08-15 14:12:57 EDT |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9d6b40c`](https://github.com/sase-org/sase/commit/9d6b40c6c6e512799414bfc1cba098d2f4959fa5) | feat(sdd): show phase and wave counts in epic clan summary | 2026-07-31 13:52:30 UTC |
+| sase | [`9d6b40c`](https://github.com/sase-org/sase/commit/9d6b40c6c6e512799414bfc1cba098d2f4959fa5) | feat(sdd): show phase and wave counts in epic clan summary | 2026-07-31 09:52:30 EDT |

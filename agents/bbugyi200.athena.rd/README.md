@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`976d838`](https://github.com/sase-org/sase/commit/976d838db5d9b9ef8460e279f2088d18a2077ef6) | fix(tui): preserve admin center selection across rebuilds | 2026-08-01 14:48:04 UTC |
+| sase | [`976d838`](https://github.com/sase-org/sase/commit/976d838db5d9b9ef8460e279f2088d18a2077ef6) | fix(tui): preserve admin center selection across rebuilds | 2026-08-01 10:48:04 EDT |

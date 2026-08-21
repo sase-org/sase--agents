@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3c9d6cf`](https://github.com/sase-org/sase/commit/3c9d6cff939490f79c6c8f10d96ad15c06d29b37) | feat(tui): add safe inline xprompt expansion helper (sase-53.2) | 2026-06-21 15:41:45 UTC |
+| sase | [`3c9d6cf`](https://github.com/sase-org/sase/commit/3c9d6cff939490f79c6c8f10d96ad15c06d29b37) | feat(tui): add safe inline xprompt expansion helper (sase-53.2) | 2026-06-21 11:41:45 EDT |
 
 ## Neighbors
 

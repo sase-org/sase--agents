@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b25e7db`](https://github.com/sase-org/sase/commit/b25e7dbc677ef9e5653f6bef7419c827463f85cb) | feat(bead): add note append command (sase-a1.3) | 2026-07-27 18:16:15 UTC |
+| sase | [`b25e7db`](https://github.com/sase-org/sase/commit/b25e7dbc677ef9e5653f6bef7419c827463f85cb) | feat(bead): add note append command (sase-a1.3) | 2026-07-27 14:16:15 EDT |
 
 ## Neighbors
 

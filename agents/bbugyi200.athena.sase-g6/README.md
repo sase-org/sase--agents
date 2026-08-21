@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`48bd000`](https://github.com/sase-org/sase/commit/48bd0009ebdcf7ae883abfd548e1a02967c3e318) | fix(tests): allow chezmoi-deploy-locks in tmp-leak-guard allowlist | 2026-08-06 20:07:06 UTC |
+| sase | [`48bd000`](https://github.com/sase-org/sase/commit/48bd0009ebdcf7ae883abfd548e1a02967c3e318) | fix(tests): allow chezmoi-deploy-locks in tmp-leak-guard allowlist | 2026-08-06 16:07:06 EDT |

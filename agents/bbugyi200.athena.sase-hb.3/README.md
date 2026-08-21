@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c181d4c`](https://github.com/sase-org/sase/commit/c181d4c2442a47140f6465fb204decd4b7eac70d) | feat(skills)!: surface skill names across read surfaces and restrict authoring to skills/ | 2026-08-08 05:51:43 UTC |
+| sase | [`c181d4c`](https://github.com/sase-org/sase/commit/c181d4c2442a47140f6465fb204decd4b7eac70d) | feat(skills)!: surface skill names across read surfaces and restrict authoring to skills/ | 2026-08-08 01:51:43 EDT |
 
 ## Neighbors
 

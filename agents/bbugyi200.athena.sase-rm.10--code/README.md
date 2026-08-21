@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b8559f3`](https://github.com/sase-org/sase/commit/b8559f36f00a3f46c0ee0ce7343dc50735275900) | fix(ace): stabilize async teardown and interaction waits | 2026-08-21 10:47:03 UTC |
+| sase | [`b8559f3`](https://github.com/sase-org/sase/commit/b8559f36f00a3f46c0ee0ce7343dc50735275900) | fix(ace): stabilize async teardown and interaction waits | 2026-08-21 06:47:03 EDT |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6a00e72`](https://github.com/sase-org/sase/commit/6a00e7237a7e61d6afddc6f52aa8c4e42bb95789) | docs: consolidate Gemini Antigravity research | 2026-06-19 18:18:28 UTC |
+| sase | [`6a00e72`](https://github.com/sase-org/sase/commit/6a00e7237a7e61d6afddc6f52aa8c4e42bb95789) | docs: consolidate Gemini Antigravity research | 2026-06-19 14:18:28 EDT |
 
 ## Neighbors
 

@@ -17,10 +17,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3e0850d`](https://github.com/sase-org/sase/commit/3e0850da1113dd90efe609c7002270989994826a) | chore: Add SDD prompt and plan for delete\_prompt\_vcs\_xprompt | 2026-06-21 13:14:52 UTC |
-| sase | [`39e6290`](https://github.com/sase-org/sase/commit/39e62902e0dd68d41b26fbe906c8ce0cc1aaec24) | feat(tui): delete VCS xprompt tag on prompt-local Ctrl+N | 2026-06-21 13:33:34 UTC |
-| sase | [`a88d443`](https://github.com/sase-org/sase/commit/a88d443528f82a41a573c0761ff51e9816d1ba4b) | chore: Add SDD prompt and plan for ctrl\_n\_delete\_vcs\_xprompt | 2026-06-21 13:53:56 UTC |
-| sase | [`6dd7586`](https://github.com/sase-org/sase/commit/6dd7586f39cb554f23ef66ca2b9350f0d08bb4f3) | feat(tui): split VCS prompt deletion from MRU cycling | 2026-06-21 14:06:17 UTC |
+| sase | [`3e0850d`](https://github.com/sase-org/sase/commit/3e0850da1113dd90efe609c7002270989994826a) | chore: Add SDD prompt and plan for delete\_prompt\_vcs\_xprompt | 2026-06-21 09:14:52 EDT |
+| sase | [`39e6290`](https://github.com/sase-org/sase/commit/39e62902e0dd68d41b26fbe906c8ce0cc1aaec24) | feat(tui): delete VCS xprompt tag on prompt-local Ctrl+N | 2026-06-21 09:33:34 EDT |
+| sase | [`a88d443`](https://github.com/sase-org/sase/commit/a88d443528f82a41a573c0761ff51e9816d1ba4b) | chore: Add SDD prompt and plan for ctrl\_n\_delete\_vcs\_xprompt | 2026-06-21 09:53:56 EDT |
+| sase | [`6dd7586`](https://github.com/sase-org/sase/commit/6dd7586f39cb554f23ef66ca2b9350f0d08bb4f3) | feat(tui): split VCS prompt deletion from MRU cycling | 2026-06-21 10:06:17 EDT |
 
 ## Neighbors
 

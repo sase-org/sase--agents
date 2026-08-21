@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7bb87b1`](https://github.com/sase-org/sase/commit/7bb87b1f54e9ed4da661fe169e11948740dfa595) | feat(history): add provenance-aware chat catalog (sase-90.3) | 2026-07-25 00:09:15 UTC |
+| sase | [`7bb87b1`](https://github.com/sase-org/sase/commit/7bb87b1f54e9ed4da661fe169e11948740dfa595) | feat(history): add provenance-aware chat catalog (sase-90.3) | 2026-07-24 20:09:15 EDT |
 
 ## Neighbors
 

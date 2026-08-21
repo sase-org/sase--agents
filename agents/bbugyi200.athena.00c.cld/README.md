@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`02293e1`](https://github.com/sase-org/sase/commit/02293e1840dc87b74ed8c4e2b432409eb754c1dc) | chore: Add SDD prompt and plan for sase\_core\_release\_version\_suppression | 2026-06-18 14:42:53 UTC |
-| sase | [`67e57a8`](https://github.com/sase-org/sase/commit/67e57a8906f5b6e5ebb4cd41c081cf961d9fe9d3) | chore: Mark SDD plan done | 2026-06-19 13:50:43 UTC |
+| sase | [`02293e1`](https://github.com/sase-org/sase/commit/02293e1840dc87b74ed8c4e2b432409eb754c1dc) | chore: Add SDD prompt and plan for sase\_core\_release\_version\_suppression | 2026-06-18 10:42:53 EDT |
+| sase | [`67e57a8`](https://github.com/sase-org/sase/commit/67e57a8906f5b6e5ebb4cd41c081cf961d9fe9d3) | chore: Mark SDD plan done | 2026-06-19 09:50:43 EDT |

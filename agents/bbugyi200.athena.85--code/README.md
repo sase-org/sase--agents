@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b5198f7`](https://github.com/sase-org/sase/commit/b5198f7e18032c025c2a609a5fd9fbac9bbf900c) | feat(notifications): summarize agent questions in notification modal | 2026-07-14 11:10:00 UTC |
+| sase | [`b5198f7`](https://github.com/sase-org/sase/commit/b5198f7e18032c025c2a609a5fd9fbac9bbf900c) | feat(notifications): summarize agent questions in notification modal | 2026-07-14 07:10:00 EDT |

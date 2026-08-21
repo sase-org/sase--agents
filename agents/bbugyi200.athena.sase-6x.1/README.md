@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cee14d4`](https://github.com/sase-org/sase/commit/cee14d43807b0c0491a89f83d99254aebefe4fac) | feat!: support tribe wait targeting (sase-6x.1) | 2026-07-18 22:45:53 UTC |
+| sase | [`cee14d4`](https://github.com/sase-org/sase/commit/cee14d43807b0c0491a89f83d99254aebefe4fac) | feat!: support tribe wait targeting (sase-6x.1) | 2026-07-18 18:45:53 EDT |
 
 ## Neighbors
 

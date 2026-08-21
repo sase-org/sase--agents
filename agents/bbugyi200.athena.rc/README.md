@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`50c2656`](https://github.com/sase-org/sase/commit/50c265692926d8981137834a2146a9e9d9fb160d) | feat: retune cheap model alias defaults | 2026-08-01 14:33:25 UTC |
+| sase | [`50c2656`](https://github.com/sase-org/sase/commit/50c265692926d8981137834a2146a9e9d9fb160d) | feat: retune cheap model alias defaults | 2026-08-01 10:33:25 EDT |
 
 ## Neighbors
 

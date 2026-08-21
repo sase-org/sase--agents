@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`106388f`](https://github.com/sase-org/sase/commit/106388faf7fa3c97c1862d1cb7f3f2b8f01586f7) | fix(memory): render glossary title as Glossary of Terms | 2026-08-09 13:16:05 UTC |
+| sase | [`106388f`](https://github.com/sase-org/sase/commit/106388faf7fa3c97c1862d1cb7f3f2b8f01586f7) | fix(memory): render glossary title as Glossary of Terms | 2026-08-09 09:16:05 EDT |
 
 ## Neighbors
 

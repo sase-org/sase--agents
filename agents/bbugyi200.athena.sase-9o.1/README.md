@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`44c5ce3`](https://github.com/sase-org/sase/commit/44c5ce3de5cf9b29b431a1207018e275ac8f4ca2) | fix(ace): make agent dismissal tier-independent (sase-9o.1) | 2026-07-26 10:49:38 UTC |
+| sase | [`44c5ce3`](https://github.com/sase-org/sase/commit/44c5ce3de5cf9b29b431a1207018e275ac8f4ca2) | fix(ace): make agent dismissal tier-independent (sase-9o.1) | 2026-07-26 06:49:38 EDT |
 
 ## Neighbors
 

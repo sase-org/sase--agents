@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`41103b5`](https://github.com/sase-org/sase/commit/41103b594bd852f35e798961a5a7706f4f498246) | fix(ace): route ChangeSpec navigation through the Artifacts PRs sub-tab | 2026-08-07 19:21:12 UTC |
+| sase | [`41103b5`](https://github.com/sase-org/sase/commit/41103b594bd852f35e798961a5a7706f4f498246) | fix(ace): route ChangeSpec navigation through the Artifacts PRs sub-tab | 2026-08-07 15:21:12 EDT |
