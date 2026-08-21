@@ -2,21 +2,17 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-rm](../../users/bbugyi200/machines/athena/hoods/sase-rm/README.md) / sase-rm.land
 
-**Global name:** `bbugyi200.athena.sase-rm.land` · **State:** active · **Source run:** `run-576567de22a070d85402b0f9097a9435`
+**Global name:** `bbugyi200.athena.sase-rm.land` · **State:** completed · **Source run:** `run-34f9b12ca023f5982bb53a34ed9cf9d6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-rm
 
 ## Summary
 
 - Bead: [sase-rm](https://github.com/sase-org/sase--beads/blob/main/pages/sase-rm/README.md)
-- Model: gpt-5.6-sol
-- Provider: codex
-- Timing: 2026-08-21T16:49:55.849765+00:00
+- Model: —
+- Provider: —
+- Timing: 2026-08-21T17:20:36+00:00 → 2026-08-21T17:20:36+00:00
 - Commits: [1](#commits)
-
-## Files
-
-[Prompt](prompt.md)
 
 ## Commits
 

@@ -20,6 +20,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | sase-rm.13--code | completed | gpt-5.5 / codex | 2026-08-21T10:53:45.442445+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-rm.13--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-rm.13--plan | completed | gpt-5.6-sol / codex | 2026-08-21T10:49:57.878103+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-rm.13--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-rm.13--plan/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`72f93fb`](https://github.com/sase-org/sase/commit/72f93fb1fb3917c39f1859650b87ac33b6d80847) | fix: stabilize visual closeout and verification gates | 2026-08-21 12:42:29 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
@@ -37,4 +43,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-rm.7](../agents/bbugyi200.athena.sase-rm.7/README.md) | sase-rm hood | completed |
 | [sase-rm.8](../agents/bbugyi200.athena.sase-rm.8/README.md) | sase-rm hood | completed |
 | [sase-rm.9](bbugyi200.athena.sase-rm.9.md) (family · 3) | sase-rm hood | completed 2, failed 1 |
-| [sase-rm.land](../agents/bbugyi200.athena.sase-rm.land/README.md) | sase-rm hood | active |
+| [sase-rm.land](bbugyi200.athena.sase-rm.land.md) (family · 2) | sase-rm hood | active 2 |
+| [sase-rm.land](../agents/bbugyi200.athena.sase-rm.land/README.md) | sase-rm hood | completed |

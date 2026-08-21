@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-rs](../../users/bbugyi200/machines/athena/hoods/sase-rs/README.md) / sase-rs.4
 
-**Global name:** `bbugyi200.athena.sase-rs.4` · **State:** waiting · **Source run:** `run-7a147595d09fb9f4a9a3c0bd3dcf4d75`
+**Global name:** `bbugyi200.athena.sase-rs.4` · **State:** active · **Source run:** `run-7a147595d09fb9f4a9a3c0bd3dcf4d75`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-rs
 
@@ -12,12 +12,18 @@
 - Epic: [sase-rs](https://github.com/sase-org/sase--beads/blob/main/pages/sase-rs/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20260821101606
-- Commits: 0
+- Timing: 2026-08-21T16:59:54.240143+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c3679dc`](https://github.com/sase-org/sase/commit/c3679dcf1e8118e8c2d5c5f4723b34c9469f76ce) | feat(flags): add persistent sase flag enable and disable commands | 2026-08-21 13:35:03 EDT |
 
 ## Neighbors
 
@@ -25,7 +31,7 @@
 |---|---|---|
 | [sase-rs.1](../bbugyi200.athena.sase-rs.1/README.md) | sase-rs hood | completed |
 | [sase-rs.2](../../families/bbugyi200.athena.sase-rs.2.md) (family · 3) | sase-rs hood | completed 2, failed 1 |
-| [sase-rs.3](../bbugyi200.athena.sase-rs.3/README.md) | sase-rs hood | active |
-| [sase-rs.5](../bbugyi200.athena.sase-rs.5/README.md) | sase-rs hood | waiting |
+| [sase-rs.3](../bbugyi200.athena.sase-rs.3/README.md) | sase-rs hood | completed |
+| [sase-rs.5](../bbugyi200.athena.sase-rs.5/README.md) | sase-rs hood | active |
 | [sase-rs.6](../bbugyi200.athena.sase-rs.6/README.md) | sase-rs hood | waiting |
 | [sase-rs.land](../bbugyi200.athena.sase-rs.land/README.md) | sase-rs hood | waiting |
