@@ -33,8 +33,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ry.2](bbugyi200.athena.sase-ry.2.md) (family · 4) | sase-ry hood | completed 2, failed 2 |
+| [sase-ry.2](bbugyi200.athena.sase-ry.2.md) (family · 6) | sase-ry hood | completed 2, failed 4 |
 | [sase-ry.2--2--code](../agents/bbugyi200.athena.sase-ry.2--2--code/README.md) | sase-ry hood | active |
+| [sase-ry.2--2--mon](../agents/bbugyi200.athena.sase-ry.2--2--mon/README.md) | sase-ry hood | failed |
 | [sase-ry.2--2--plan](../agents/bbugyi200.athena.sase-ry.2--2--plan/README.md) | sase-ry hood | active |
 | [sase-ry.3](../agents/bbugyi200.athena.sase-ry.3/README.md) | sase-ry hood | waiting |
 | [sase-ry.4](../agents/bbugyi200.athena.sase-ry.4/README.md) | sase-ry hood | waiting |
