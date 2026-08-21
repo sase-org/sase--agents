@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4ee6283791808bbb2a7a4630945fc710"}
+{"commits":[{"committed_at":1787321438,"sha":"88bd66184e456d494e9ed8e6e7ed632ad37c85d6","subject":"feat(tui): render soft-disabled alias members as amber glyphs"}],"schema_version":2,"source_run_id":"run-4ee6283791808bbb2a7a4630945fc710"}
