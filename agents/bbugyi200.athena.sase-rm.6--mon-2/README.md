@@ -19,10 +19,10 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-rm.1](../../families/bbugyi200.athena.sase-rm.1.md) (family · 2) | sase-rm hood | completed 2 |
-| [sase-rm.10](../../families/bbugyi200.athena.sase-rm.10.md) (family · 2) | sase-rm hood | active 2 |
+| [sase-rm.10](../../families/bbugyi200.athena.sase-rm.10.md) (family · 2) | sase-rm hood | completed 2 |
 | [sase-rm.11](../../families/bbugyi200.athena.sase-rm.11.md) (family · 2) | sase-rm hood | completed 2 |
 | [sase-rm.12](../bbugyi200.athena.sase-rm.12/README.md) | sase-rm hood | completed |
-| [sase-rm.13](../bbugyi200.athena.sase-rm.13/README.md) | sase-rm hood | waiting |
+| [sase-rm.13](../../families/bbugyi200.athena.sase-rm.13.md) (family · 2) | sase-rm hood | active 2 |
 | [sase-rm.2](../../families/bbugyi200.athena.sase-rm.2.md) (family · 4) | sase-rm hood | completed 2, failed 2 |
 | [sase-rm.3](../../families/bbugyi200.athena.sase-rm.3.md) (family · 2) | sase-rm hood | completed 2 |
 | [sase-rm.4](../../families/bbugyi200.athena.sase-rm.4.md) (family · 2) | sase-rm hood | completed 2 |

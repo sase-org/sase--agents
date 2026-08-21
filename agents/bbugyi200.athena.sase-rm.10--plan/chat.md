@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-rm.10--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_rm_10__plan-260821_050217.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_rm_10__code-260821_050217.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/ace_async_stabilization.md
 
 

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f45c748b1d590a272663e7ce8790ea23"}
+{"commits":[{"committed_at":1787310887,"sha":"abb80f44ac78e3ddadb3d8708613dfa144dd74e8","subject":"feat(completion): support managed shell distribution"}],"schema_version":2,"source_run_id":"run-f45c748b1d590a272663e7ce8790ea23"}

@@ -18,17 +18,23 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-rm.5--plan | active | gpt-5.6-sol / codex | 2026-08-21T09:52:51.296760+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-rm.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-rm.5--plan/chat.md) |
-| <a id="member-code"></a>code | sase-rm.5--code | active | gpt-5.5 / codex | 2026-08-21T09:59:04.697572+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-rm.5--code | active | gpt-5.5 / codex | 2026-08-21T09:59:04.697572+00:00 | [1](../agents/bbugyi200.athena.sase-rm.5--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`abb80f4`](https://github.com/sase-org/sase/commit/abb80f44ac78e3ddadb3d8708613dfa144dd74e8) | feat(completion): support managed shell distribution | 2026-08-21 07:14:47 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-rm.1](bbugyi200.athena.sase-rm.1.md) (family · 2) | sase-rm hood | completed 2 |
-| [sase-rm.10](bbugyi200.athena.sase-rm.10.md) (family · 2) | sase-rm hood | active 2 |
+| [sase-rm.10](bbugyi200.athena.sase-rm.10.md) (family · 2) | sase-rm hood | completed 2 |
 | [sase-rm.11](bbugyi200.athena.sase-rm.11.md) (family · 2) | sase-rm hood | completed 2 |
 | [sase-rm.12](../agents/bbugyi200.athena.sase-rm.12/README.md) | sase-rm hood | completed |
-| [sase-rm.13](../agents/bbugyi200.athena.sase-rm.13/README.md) | sase-rm hood | waiting |
+| [sase-rm.13](bbugyi200.athena.sase-rm.13.md) (family · 2) | sase-rm hood | active 2 |
 | [sase-rm.2](bbugyi200.athena.sase-rm.2.md) (family · 4) | sase-rm hood | completed 2, failed 2 |
 | [sase-rm.3](bbugyi200.athena.sase-rm.3.md) (family · 2) | sase-rm hood | completed 2 |
 | [sase-rm.4](bbugyi200.athena.sase-rm.4.md) (family · 2) | sase-rm hood | completed 2 |

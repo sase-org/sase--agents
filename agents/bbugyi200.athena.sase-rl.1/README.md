@@ -31,5 +31,5 @@
 |---|---|---|
 | [sase-rl.2](../bbugyi200.athena.sase-rl.2/README.md) | sase-rl hood | completed |
 | [sase-rl.3](../bbugyi200.athena.sase-rl.3/README.md) | sase-rl hood | completed |
-| [sase-rl.4](../bbugyi200.athena.sase-rl.4/README.md) | sase-rl hood | active |
-| [sase-rl.land](../bbugyi200.athena.sase-rl.land/README.md) | sase-rl hood | waiting |
+| [sase-rl.4](../bbugyi200.athena.sase-rl.4/README.md) | sase-rl hood | completed |
+| [sase-rl.land](../../families/bbugyi200.athena.sase-rl.land.md) (family · 2) | sase-rl hood | active 2 |
