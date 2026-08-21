@@ -23,15 +23,15 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ru.10](../bbugyi200.athena.sase-ru.10/README.md) | sase-ru hood | waiting |
+| [sase-ru.10](../bbugyi200.athena.sase-ru.10/README.md) | sase-ru hood | completed |
 | [sase-ru.11](../bbugyi200.athena.sase-ru.11/README.md) | sase-ru hood | waiting |
 | [sase-ru.12](../bbugyi200.athena.sase-ru.12/README.md) | sase-ru hood | waiting |
-| [sase-ru.2](../bbugyi200.athena.sase-ru.2/README.md) | sase-ru hood | failed |
-| [sase-ru.3](../bbugyi200.athena.sase-ru.3/README.md) | sase-ru hood | active |
+| [sase-ru.2](../bbugyi200.athena.sase-ru.2/README.md) | sase-ru hood | dismissed |
+| [sase-ru.3](../bbugyi200.athena.sase-ru.3/README.md) | sase-ru hood | completed |
 | [sase-ru.4](../bbugyi200.athena.sase-ru.4/README.md) | sase-ru hood | completed |
-| [sase-ru.5](../bbugyi200.athena.sase-ru.5/README.md) | sase-ru hood | active |
-| [sase-ru.6](../bbugyi200.athena.sase-ru.6/README.md) | sase-ru hood | completed |
-| [sase-ru.7](../bbugyi200.athena.sase-ru.7/README.md) | sase-ru hood | waiting |
-| [sase-ru.8](../bbugyi200.athena.sase-ru.8/README.md) | sase-ru hood | waiting |
-| [sase-ru.9](../bbugyi200.athena.sase-ru.9/README.md) | sase-ru hood | waiting |
+| [sase-ru.5](../bbugyi200.athena.sase-ru.5/README.md) | sase-ru hood | completed |
+| [sase-ru.6](../bbugyi200.athena.sase-ru.6/README.md) | sase-ru hood | active |
+| [sase-ru.7](../bbugyi200.athena.sase-ru.7/README.md) | sase-ru hood | active |
+| [sase-ru.8](../bbugyi200.athena.sase-ru.8/README.md) | sase-ru hood | dismissed |
+| [sase-ru.9](../bbugyi200.athena.sase-ru.9/README.md) | sase-ru hood | active |
 | [sase-ru.land](../bbugyi200.athena.sase-ru.land/README.md) | sase-ru hood | waiting |

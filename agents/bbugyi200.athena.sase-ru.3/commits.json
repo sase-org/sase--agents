@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7b2c5582223a304206146f516d36dd2b"}
+{"commits":[{"committed_at":1787326489,"sha":"d194ec4457df92c50d46bf3e3168cc64de27a5a2","subject":"fix(beads): stamp stall clocks so EpicResume can soak real failures"}],"schema_version":2,"source_run_id":"run-7b2c5582223a304206146f516d36dd2b"}

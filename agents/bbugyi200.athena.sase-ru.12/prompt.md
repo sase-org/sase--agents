@@ -2,7 +2,7 @@
 %id(12, clan=sase-ru, bead=sase-ru.12)
 %model:@medium
 %auto
-%w:sase-ru.1,sase-ru.10,sase-ru.11,sase-ru.7,sase-ru.8,sase-ru.9
+%w:sase-ru.1,sase-ru.11,sase-ru.7,sase-ru.9
 %w(bead=sase-ru.1)
 %w(bead=sase-ru.10)
 %w(bead=sase-ru.11)
