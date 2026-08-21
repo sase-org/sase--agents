@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** research.0v.final.f0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-research_0v_final_f0__plan-260821_201351.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-research_0v_final_f0__code-260821_201351.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/reliable_file_hook_dispatch.md
 
 

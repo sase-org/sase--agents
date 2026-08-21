@@ -24,7 +24,7 @@
 | [research.0v.cdx](../bbugyi200.athena.research.0v.cdx/README.md) | research.0v hood | completed |
 | [research.0v.cld](../bbugyi200.athena.research.0v.cld/README.md) | research.0v hood | completed |
 | [research.0v.final](../bbugyi200.athena.research.0v.final/README.md) | research.0v hood | completed |
-| [research.0v.final.f0](../../families/bbugyi200.athena.research.0v.final.f0.md) (family · 2) | research.0v hood | active 2 |
+| [research.0v.final.f0](../../families/bbugyi200.athena.research.0v.final.f0.md) (family · 2) | research.0v hood | completed 2 |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |

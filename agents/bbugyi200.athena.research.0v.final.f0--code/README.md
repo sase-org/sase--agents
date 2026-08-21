@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / [research.0v.final.f0](../../families/bbugyi200.athena.research.0v.final.f0.md) / research.0v.final.f0--code
 
-**Global name:** `bbugyi200.athena.research.0v.final.f0--code` · **State:** active · **Source run:** `run-8ea0530fce2deaedbc65ed3bd4a92735`
+**Global name:** `bbugyi200.athena.research.0v.final.f0--code` · **State:** completed · **Source run:** `run-8ea0530fce2deaedbc65ed3bd4a92735`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,8 +10,18 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-21T20:28:28.000551+00:00
-- Commits: 0
+- Timing: 2026-08-21T20:28:28.000551+00:00 → 2026-08-21T21:35:56.803219+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`4dde458`](https://github.com/sase-org/sase/commit/4dde458f593687ee4e8fb6734c1dbd1b0fef1215) | fix(file-hooks): record dispatch outcomes and repair missed commit batches | 2026-08-21 21:35:14 UTC |
 
 ## Neighbors
 
