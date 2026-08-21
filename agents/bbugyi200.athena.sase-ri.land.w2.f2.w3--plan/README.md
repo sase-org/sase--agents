@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ri](../../users/bbugyi200/machines/athena/hoods/sase-ri/README.md) / [sase-ri.land.w2.f2.w3](../../families/bbugyi200.athena.sase-ri.land.w2.f2.w3.md) / sase-ri.land.w2.f2.w3--plan
 
-**Global name:** `bbugyi200.athena.sase-ri.land.w2.f2.w3--plan` · **State:** active · **Source run:** `run-f3033d5dda1cd72b0ce194d89097f59d`
+**Global name:** `bbugyi200.athena.sase-ri.land.w2.f2.w3--plan` · **State:** completed · **Source run:** `run-f3033d5dda1cd72b0ce194d89097f59d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ri
 
@@ -26,8 +26,8 @@
 | [sase-ri.land.w2.f2.f0](../bbugyi200.athena.sase-ri.land.w2.f2.f0/README.md) | sase-ri.land.w2.f2 hood | dismissed |
 | [sase-ri.land.w2.f2.f1](../bbugyi200.athena.sase-ri.land.w2.f2.f1/README.md) | sase-ri.land.w2.f2 hood | dismissed |
 | [sase-ri.land.w2.f2.f3](../bbugyi200.athena.sase-ri.land.w2.f2.f3/README.md) | sase-ri.land.w2.f2 hood | active |
-| [sase-ri.land.w2.f2.w2](../../families/bbugyi200.athena.sase-ri.land.w2.f2.w2.md) (family · 2) | sase-ri.land.w2.f2 hood | active 2 |
-| [sase-ri.land.w2.f2.w2.f0](../bbugyi200.athena.sase-ri.land.w2.f2.w2.f0/README.md) | sase-ri.land.w2.f2 hood | waiting |
+| [sase-ri.land.w2.f2.w2](../../families/bbugyi200.athena.sase-ri.land.w2.f2.w2.md) (family · 4) | sase-ri.land.w2.f2 hood | completed 3, failed 1 |
+| [sase-ri.land.w2.f2.w2.f1](../../families/bbugyi200.athena.sase-ri.land.w2.f2.w2.f1.md) (family · 2) | sase-ri.land.w2.f2 hood | active 2 |
 | [sase-ri.land.w2.f0](../bbugyi200.athena.sase-ri.land.w2.f0/README.md) | sase-ri.land.w2 hood | dismissed |
 | [sase-ri.land.w2.f1](../bbugyi200.athena.sase-ri.land.w2.f1/README.md) | sase-ri.land.w2 hood | dismissed |
 | [sase-ri.land.w2.f3](../../families/bbugyi200.athena.sase-ri.land.w2.f3.md) (family · 2) | sase-ri.land.w2 hood | completed 2 |

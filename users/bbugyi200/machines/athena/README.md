@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / athena
 
-**Project:** sase · **Hoods:** 1777 · **Runs:** 8192
+**Project:** sase · **Hoods:** 1778 · **Runs:** 8204
 
 | Hood | Runs | Families | States |
 |---|---:|---:|---|
@@ -1475,12 +1475,13 @@
 | [sase-r6](hoods/sase-r6/README.md) | 9 | 2 | active 1, completed 6, failed 2 |
 | [sase-r8](hoods/sase-r8/README.md) | 17 | 3 | completed 12, dismissed 1, failed 4 |
 | [sase-rd](hoods/sase-rd/README.md) | 10 | 2 | completed 7, failed 3 |
-| [sase-ri](hoods/sase-ri/README.md) | 25 | 5 | active 5, completed 2, dismissed 15, failed 2, waiting 1 |
+| [sase-ri](hoods/sase-ri/README.md) | 30 | 6 | active 4, completed 7, dismissed 15, failed 4 |
 | [sase-rj](hoods/sase-rj/README.md) | 10 | 2 | active 2, completed 6, failed 2 |
 | [sase-rl](hoods/sase-rl/README.md) | 6 | 1 | active 2, completed 4 |
 | [sase-rm](hoods/sase-rm/README.md) | 34 | 10 | active 5, completed 22, failed 6, waiting 1 |
 | [sase-rn](hoods/sase-rn/README.md) | 9 | 1 | active 2, completed 7 |
 | [sase-rp](hoods/sase-rp/README.md) | 5 | 1 | active 2, completed 3 |
+| [sase-rs](hoods/sase-rs/README.md) | 7 | 0 | active 1, completed 1, waiting 5 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-0q](hoods/sase_fix_just-0q/README.md) | 1 | 0 | active 1 |
