@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7335b637caec68a28dc29c2acfc87e7d"}
+{"commits":[{"committed_at":1787347284,"sha":"9af9e1c3fc6e85abd2b361f121721e35f9676160","subject":"feat(finalizers): seal and authenticate the host-owned execution plan"}],"schema_version":2,"source_run_id":"run-7335b637caec68a28dc29c2acfc87e7d"}
