@@ -12,7 +12,13 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-21T12:41:34.955977+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3e0bebe`](https://github.com/sase-org/sase/commit/3e0bebedd26e1be97ce3b07f0ac89f1ffd3fa4eb) | fix: dedupe embedded launch refresh callbacks | 2026-08-21 08:54:48 EDT |
 
 ## Neighbors
 

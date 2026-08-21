@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-rp.land--plan | active | gpt-5.6-sol / codex | 2026-08-21T12:22:02.120792+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-rp.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-rp.land--plan/chat.md) |
-| <a id="member-code"></a>code | sase-rp.land--code | active | gpt-5.5 / codex | 2026-08-21T12:41:34.955977+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-rp.land--code | active | gpt-5.5 / codex | 2026-08-21T12:41:34.955977+00:00 | [1](../agents/bbugyi200.athena.sase-rp.land--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`3e0bebe`](https://github.com/sase-org/sase/commit/3e0bebedd26e1be97ce3b07f0ac89f1ffd3fa4eb) | fix: dedupe embedded launch refresh callbacks | 2026-08-21 08:54:48 EDT |
 
 ## Neighbors
 
