@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a41f0b52001ff33c0928f022415da1f2"}
+{"commits":[{"committed_at":1787353651,"sha":"47830f9dedcf9e44601499d6e901a979970213e9","subject":"test(finalizer): align final directive completion expectation"}],"schema_version":2,"source_run_id":"run-a41f0b52001ff33c0928f022415da1f2"}
