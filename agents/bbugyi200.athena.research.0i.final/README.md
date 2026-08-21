@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`70d34ce`](https://github.com/sase-org/sase/commit/70d34cea6a495231664379083f89462c98a03621) | docs: consolidate sase-dev install research | 2026-06-25 16:13:44 EDT |
+| sase | [`70d34ce`](https://github.com/sase-org/sase/commit/70d34cea6a495231664379083f89462c98a03621) | docs: consolidate sase-dev install research | 2026-06-25 20:13:44 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

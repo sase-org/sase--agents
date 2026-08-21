@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cc5894a`](https://github.com/sase-org/sase/commit/cc5894a06d78979f91f9311d1c49b4b566f079e8) | feat!: remove deprecated top-level amd\_h1\_title and glossary config aliases | 2026-08-09 13:27:28 EDT |
+| sase | [`cc5894a`](https://github.com/sase-org/sase/commit/cc5894a06d78979f91f9311d1c49b4b566f079e8) | feat!: remove deprecated top-level amd\_h1\_title and glossary config aliases | 2026-08-09 17:27:28 UTC |

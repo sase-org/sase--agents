@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3a783a4`](https://github.com/sase-org/sase/commit/3a783a411863801c7fe1fd1b908a508eb954abca) | build(deps): raise the sase-core-rs floor to the published perf\_logs\_query release | 2026-08-16 01:07:15 EDT |
+| sase | [`3a783a4`](https://github.com/sase-org/sase/commit/3a783a411863801c7fe1fd1b908a508eb954abca) | build(deps): raise the sase-core-rs floor to the published perf\_logs\_query release | 2026-08-16 05:07:15 UTC |
 
 ## Neighbors
 

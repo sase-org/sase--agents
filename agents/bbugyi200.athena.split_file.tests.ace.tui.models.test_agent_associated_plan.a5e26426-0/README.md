@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`98abf03`](https://github.com/sase-org/sase/commit/98abf033fc78b7f39e8beae2acc8bde0bd1651f1) | test: split associated plan model tests | 2026-07-19 07:40:01 EDT |
+| sase | [`98abf03`](https://github.com/sase-org/sase/commit/98abf033fc78b7f39e8beae2acc8bde0bd1651f1) | test: split associated plan model tests | 2026-07-19 11:40:01 UTC |
 
 ## Neighbors
 

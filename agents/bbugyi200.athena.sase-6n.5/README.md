@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d1e772f`](https://github.com/sase-org/sase/commit/d1e772f646e2d421ba087569b330252d9edfabb5) | feat(bead)!: migrate epic launches to clans (sase-6n.5) | 2026-07-17 19:19:35 EDT |
+| sase | [`d1e772f`](https://github.com/sase-org/sase/commit/d1e772f646e2d421ba087569b330252d9edfabb5) | feat(bead)!: migrate epic launches to clans (sase-6n.5) | 2026-07-17 23:19:35 UTC |
 
 ## Neighbors
 

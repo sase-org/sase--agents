@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f3531a7`](https://github.com/sase-org/sase/commit/f3531a7ab877f8bda57f550e0548207552fadde5) | chore: Add SDD prompt and plan for agents\_tab\_revert\_agent\_commits | 2026-06-14 10:46:44 EDT |
-| sase | [`bf81671`](https://github.com/sase-org/sase/commit/bf816714784875ee326cfdc4f6adc3219edd95af) | feat(ace): add Agents-tab leader \`,r\` revert for done agents | 2026-06-14 11:14:59 EDT |
+| sase | [`f3531a7`](https://github.com/sase-org/sase/commit/f3531a7ab877f8bda57f550e0548207552fadde5) | chore: Add SDD prompt and plan for agents\_tab\_revert\_agent\_commits | 2026-06-14 14:46:44 UTC |
+| sase | [`bf81671`](https://github.com/sase-org/sase/commit/bf816714784875ee326cfdc4f6adc3219edd95af) | feat(ace): add Agents-tab leader \`,r\` revert for done agents | 2026-06-14 15:14:59 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 285 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 286 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

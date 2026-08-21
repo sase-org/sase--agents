@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`577086a`](https://github.com/sase-org/sase/commit/577086aae1a0dbca9daf112a219519813822254d) | refactor(bead): split work cleanup responsibilities | 2026-08-16 02:40:11 EDT |
+| sase | [`577086a`](https://github.com/sase-org/sase/commit/577086aae1a0dbca9daf112a219519813822254d) | refactor(bead): split work cleanup responsibilities | 2026-08-16 06:40:11 UTC |
 
 ## Neighbors
 

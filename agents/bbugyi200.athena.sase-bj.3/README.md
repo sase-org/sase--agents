@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8472192`](https://github.com/sase-org/sase/commit/84721922edb8209904588698dc3068b09e6a3109) | feat(commit)!: reject invalid conventional subjects | 2026-07-31 08:42:45 EDT |
+| sase | [`8472192`](https://github.com/sase-org/sase/commit/84721922edb8209904588698dc3068b09e6a3109) | feat(commit)!: reject invalid conventional subjects | 2026-07-31 12:42:45 UTC |
 
 ## Neighbors
 

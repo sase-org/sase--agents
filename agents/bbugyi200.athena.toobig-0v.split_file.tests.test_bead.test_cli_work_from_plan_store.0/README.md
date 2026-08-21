@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f1ac162`](https://github.com/sase-org/sase/commit/f1ac162bcdf6445cd8efe251840144a531b60038) | test: split plan work store tests by behavior | 2026-07-29 06:26:01 EDT |
+| sase | [`f1ac162`](https://github.com/sase-org/sase/commit/f1ac162bcdf6445cd8efe251840144a531b60038) | test: split plan work store tests by behavior | 2026-07-29 10:26:01 UTC |
 
 ## Neighbors
 

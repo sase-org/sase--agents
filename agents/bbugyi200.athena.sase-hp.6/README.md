@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`65f82cc`](https://github.com/sase-org/sase/commit/65f82ccd9f52946f2633b7aa0d986cefc7732858) | docs(ace): document xprompt targeting/save-flow entry points and fix stale help text | 2026-08-08 19:32:01 EDT |
+| sase | [`65f82cc`](https://github.com/sase-org/sase/commit/65f82ccd9f52946f2633b7aa0d986cefc7732858) | docs(ace): document xprompt targeting/save-flow entry points and fix stale help text | 2026-08-08 23:32:01 UTC |
 
 ## Neighbors
 

@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`a87a52b`](https://github.com/sase-org/sase/commit/a87a52bf08e2bf3fce533e2ef603a906b6751a99) | chore: Add SDD prompt and plan for xprompt\_lsp\_default\_xprompts | 2026-06-10 09:25:31 EDT |
-| code | sase | [`7776f7a`](https://github.com/sase-org/sase/commit/7776f7a85726f3e05ea6b0fd135ee9b65cd1b1cb) | feat(ace): add inline xprompt property editing | 2026-07-10 20:16:46 EDT |
+| — | sase | [`a87a52b`](https://github.com/sase-org/sase/commit/a87a52bf08e2bf3fce533e2ef603a906b6751a99) | chore: Add SDD prompt and plan for xprompt\_lsp\_default\_xprompts | 2026-06-10 13:25:31 UTC |
+| code | sase | [`7776f7a`](https://github.com/sase-org/sase/commit/7776f7a85726f3e05ea6b0fd135ee9b65cd1b1cb) | feat(ace): add inline xprompt property editing | 2026-07-11 00:16:46 UTC |

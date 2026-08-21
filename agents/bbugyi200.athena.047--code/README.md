@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`26c9f9a`](https://github.com/sase-org/sase/commit/26c9f9a924f701f86b3cb2ddba99e0986d65ac7e) | docs: define sase monitor glossary term | 2026-08-16 16:10:59 EDT |
+| sase | [`26c9f9a`](https://github.com/sase-org/sase/commit/26c9f9a924f701f86b3cb2ddba99e0986d65ac7e) | docs: define sase monitor glossary term | 2026-08-16 20:10:59 UTC |

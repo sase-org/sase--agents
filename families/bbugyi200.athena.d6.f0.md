@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`60d2960`](https://github.com/sase-org/sase/commit/60d29600174e9dbe5e7c101efd7800bf1f7bca0a) | fix(plan-gate): label epic approval action as Epic | 2026-07-18 07:54:34 EDT |
+| code | sase | [`60d2960`](https://github.com/sase-org/sase/commit/60d29600174e9dbe5e7c101efd7800bf1f7bca0a) | fix(plan-gate): label epic approval action as Epic | 2026-07-18 11:54:34 UTC |
 
 ## Neighbors
 

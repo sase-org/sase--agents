@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c7d1e39`](https://github.com/sase-org/sase/commit/c7d1e393fdc40238619af433cb1939623be90e8e) | feat(vcs): hide sidecar commits by default | 2026-07-20 13:49:02 EDT |
+| sase | [`c7d1e39`](https://github.com/sase-org/sase/commit/c7d1e393fdc40238619af433cb1939623be90e8e) | feat(vcs): hide sidecar commits by default | 2026-07-20 17:49:02 UTC |

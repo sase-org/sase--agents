@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2ec8613`](https://github.com/sase-org/sase/commit/2ec86131dcb38e9b6213723d08a7898b2165f1b5) | feat(beads): add disciplined task creation skill | 2026-08-01 14:58:41 EDT |
+| sase | [`2ec8613`](https://github.com/sase-org/sase/commit/2ec86131dcb38e9b6213723d08a7898b2165f1b5) | feat(beads): add disciplined task creation skill | 2026-08-01 18:58:41 UTC |
 
 ## Neighbors
 

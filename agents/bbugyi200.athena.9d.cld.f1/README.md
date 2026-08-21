@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`87a8494`](https://github.com/sase-org/sase/commit/87a84948f5eb4d195091d54d9060aaa14cc804cc) | chore: Add SDD prompt and plan for multi\_agent\_xprompt\_marker | 2026-06-17 09:24:51 EDT |
-| sase | [`a2771d3`](https://github.com/sase-org/sase/commit/a2771d3bc8b0bfbae462587290d3eb23f9999c1a) | feat(xprompt): update multi-agent prompt references | 2026-06-17 09:42:44 EDT |
+| sase | [`87a8494`](https://github.com/sase-org/sase/commit/87a84948f5eb4d195091d54d9060aaa14cc804cc) | chore: Add SDD prompt and plan for multi\_agent\_xprompt\_marker | 2026-06-17 13:24:51 UTC |
+| sase | [`a2771d3`](https://github.com/sase-org/sase/commit/a2771d3bc8b0bfbae462587290d3eb23f9999c1a) | feat(xprompt): update multi-agent prompt references | 2026-06-17 13:42:44 UTC |
 
 ## Neighbors
 

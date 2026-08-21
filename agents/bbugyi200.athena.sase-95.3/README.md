@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b262933`](https://github.com/sase-org/sase/commit/b26293395587b056bf4cf340a8038a4e4e968b30) | feat(tasks): add durable task store facade (sase-95.3) | 2026-07-25 10:14:58 EDT |
+| sase | [`b262933`](https://github.com/sase-org/sase/commit/b26293395587b056bf4cf340a8038a4e4e968b30) | feat(tasks): add durable task store facade (sase-95.3) | 2026-07-25 14:14:58 UTC |
 
 ## Neighbors
 

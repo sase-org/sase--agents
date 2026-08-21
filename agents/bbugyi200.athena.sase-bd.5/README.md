@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9fdae1e`](https://github.com/sase-org/sase/commit/9fdae1e1e1349d255f0800d3a4cc481d48159c00) | feat(beads): repair stale event projections | 2026-07-30 14:59:54 EDT |
+| sase | [`9fdae1e`](https://github.com/sase-org/sase/commit/9fdae1e1e1349d255f0800d3a4cc481d48159c00) | feat(beads): repair stale event projections | 2026-07-30 18:59:54 UTC |
 
 ## Neighbors
 

@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`28e8ed1`](https://github.com/sase-org/sase/commit/28e8ed1cebc384f1a283cf7b010c27d981b7f49d) | fix(ace): materialize byte-free artifact rows before opening from Agents tab | 2026-08-07 14:52:30 EDT |
+| code | sase | [`28e8ed1`](https://github.com/sase-org/sase/commit/28e8ed1cebc384f1a283cf7b010c27d981b7f49d) | fix(ace): materialize byte-free artifact rows before opening from Agents tab | 2026-08-07 18:52:30 UTC |

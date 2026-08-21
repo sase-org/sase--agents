@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5df9ed7`](https://github.com/sase-org/sase/commit/5df9ed7600535b957e4826c1797b5c9d0dc57114) | feat(tui): show task-type chips on bead-gate toasts and rows | 2026-08-18 10:42:39 EDT |
+| sase | [`5df9ed7`](https://github.com/sase-org/sase/commit/5df9ed7600535b957e4826c1797b5c9d0dc57114) | feat(tui): show task-type chips on bead-gate toasts and rows | 2026-08-18 14:42:39 UTC |
 
 ## Neighbors
 

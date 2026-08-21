@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`88c3d68`](https://github.com/sase-org/sase/commit/88c3d68c6a7f1804e424d9dc83a3a81bd6517ffc) | docs(research): evaluate curl install.sh bootstrap script | 2026-06-25 18:34:41 EDT |
+| sase | [`88c3d68`](https://github.com/sase-org/sase/commit/88c3d68c6a7f1804e424d9dc83a3a81bd6517ffc) | docs(research): evaluate curl install.sh bootstrap script | 2026-06-25 22:34:41 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

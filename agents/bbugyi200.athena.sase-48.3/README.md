@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`15395ac`](https://github.com/sase-org/sase/commit/15395acd7f755f23386d148b9820066bf43a8cd4) | feat: add stable episode identity aliases (sase-48.3) | 2026-05-28 18:25:13 EDT |
+| sase | [`15395ac`](https://github.com/sase-org/sase/commit/15395acd7f755f23386d148b9820066bf43a8cd4) | feat: add stable episode identity aliases (sase-48.3) | 2026-05-28 22:25:13 UTC |
 
 ## Neighbors
 

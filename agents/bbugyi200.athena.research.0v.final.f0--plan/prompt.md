@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:research.0v.final Why didn't the sase-research-artifacts repo's file hook (configured in my chezmoi repo) fire for this last agent? Can you help me diagnose the root cause of this issue and fix it? #plan

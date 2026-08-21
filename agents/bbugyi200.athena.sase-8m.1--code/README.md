@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5a9cef8`](https://github.com/sase-org/sase/commit/5a9cef88329bc5f3323603300bc86040509530a0) | feat(axe): apply exact conflict-safe config edits (sase-8m.1) | 2026-07-22 13:23:39 EDT |
+| sase | [`5a9cef8`](https://github.com/sase-org/sase/commit/5a9cef88329bc5f3323603300bc86040509530a0) | feat(axe): apply exact conflict-safe config edits (sase-8m.1) | 2026-07-22 17:23:39 UTC |
 
 ## Neighbors
 

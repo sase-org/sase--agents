@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ef30e98`](https://github.com/sase-org/sase/commit/ef30e98f29f1df3110bb30792f4d13f1de157fbb) | feat(ace): render settled-monitor gear badge on tribe panel titles | 2026-08-18 15:10:50 EDT |
+| sase | [`ef30e98`](https://github.com/sase-org/sase/commit/ef30e98f29f1df3110bb30792f4d13f1de157fbb) | feat(ace): render settled-monitor gear badge on tribe panel titles | 2026-08-18 19:10:50 UTC |
 
 ## Neighbors
 

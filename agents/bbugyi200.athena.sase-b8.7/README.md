@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c407b3f`](https://github.com/sase-org/sase/commit/c407b3f39e21af5c906eac128752474087d601e8) | fix(agents): match SASE\_AGENT commit tags by lane | 2026-07-30 11:49:56 EDT |
+| sase | [`c407b3f`](https://github.com/sase-org/sase/commit/c407b3f39e21af5c906eac128752474087d601e8) | fix(agents): match SASE\_AGENT commit tags by lane | 2026-07-30 15:49:56 UTC |
 
 ## Neighbors
 

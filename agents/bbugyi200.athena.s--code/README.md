@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7fb19c3`](https://github.com/sase-org/sase/commit/7fb19c3953cdb0988c831c7d67eb5da21ee61dc5) | build: update demo video regeneration workflow | 2026-07-06 19:25:14 EDT |
+| sase | [`7fb19c3`](https://github.com/sase-org/sase/commit/7fb19c3953cdb0988c831c7d67eb5da21ee61dc5) | build: update demo video regeneration workflow | 2026-07-06 23:25:14 UTC |
 
 ## Neighbors
 

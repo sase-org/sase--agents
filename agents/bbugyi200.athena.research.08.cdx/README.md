@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bae5e26`](https://github.com/sase-org/sase/commit/bae5e263576917e2c0c3a4ea2332565cf368d19d) | docs: add SASE ACE CLI demo video research | 2026-06-23 06:57:47 EDT |
+| sase | [`bae5e26`](https://github.com/sase-org/sase/commit/bae5e263576917e2c0c3a4ea2332565cf368d19d) | docs: add SASE ACE CLI demo video research | 2026-06-23 10:57:47 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0b.cld](../bbugyi200.athena.research.0b.cld/README.md) | research hood | active |
 | [research.0b.final](../bbugyi200.athena.research.0b.final/README.md) | research hood | active |
 | [research.0b.image](../bbugyi200.athena.research.0b.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

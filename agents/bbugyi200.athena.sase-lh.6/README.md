@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eca7753`](https://github.com/sase-org/sase/commit/eca7753b556946c758223cade217d09a5d9b3bcb) | feat(tui): label durable background work as procs | 2026-08-13 22:27:34 EDT |
+| sase | [`eca7753`](https://github.com/sase-org/sase/commit/eca7753b556946c758223cade217d09a5d9b3bcb) | feat(tui): label durable background work as procs | 2026-08-14 02:27:34 UTC |
 
 ## Neighbors
 

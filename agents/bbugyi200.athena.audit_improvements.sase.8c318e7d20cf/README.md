@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`844427a`](https://github.com/sase-org/sase/commit/844427a91b0e99aeb059407348e5f72fdcf482fe) | fix: bound cancellation and cache freshness edge cases (#190) | 2026-06-29 06:44:12 EDT |
+| sase | [`844427a`](https://github.com/sase-org/sase/commit/844427a91b0e99aeb059407348e5f72fdcf482fe) | fix: bound cancellation and cache freshness edge cases (#190) | 2026-06-29 10:44:12 UTC |
 
 ## Neighbors
 

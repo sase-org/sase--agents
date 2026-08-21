@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cffd22b`](https://github.com/sase-org/sase/commit/cffd22be5fdb6da60f0306798e259a1f3f8fdac8) | feat(tui): add structured clan context hints | 2026-08-01 09:57:32 EDT |
+| sase | [`cffd22b`](https://github.com/sase-org/sase/commit/cffd22be5fdb6da60f0306798e259a1f3f8fdac8) | feat(tui): add structured clan context hints | 2026-08-01 13:57:32 UTC |
 
 ## Neighbors
 

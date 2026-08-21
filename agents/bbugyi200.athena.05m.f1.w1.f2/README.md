@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e62cbc8`](https://github.com/sase-org/sase/commit/e62cbc825f302859998b56f9d7fffea8fbd93cbb) | chore: Add SDD prompt and plan for ctrl\_s\_empty\_opens\_stash\_panel | 2026-06-24 15:01:29 EDT |
-| sase | [`c1afd14`](https://github.com/sase-org/sase/commit/c1afd14a547d953418b74cb9ff0525e4b4a47b82) | fix(ace): open prompt stash panel on empty ctrl-s | 2026-06-24 15:08:16 EDT |
+| sase | [`e62cbc8`](https://github.com/sase-org/sase/commit/e62cbc825f302859998b56f9d7fffea8fbd93cbb) | chore: Add SDD prompt and plan for ctrl\_s\_empty\_opens\_stash\_panel | 2026-06-24 19:01:29 UTC |
+| sase | [`c1afd14`](https://github.com/sase-org/sase/commit/c1afd14a547d953418b74cb9ff0525e4b4a47b82) | fix(ace): open prompt stash panel on empty ctrl-s | 2026-06-24 19:08:16 UTC |
 
 ## Neighbors
 

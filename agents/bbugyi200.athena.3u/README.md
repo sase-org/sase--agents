@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0a47d61`](https://github.com/sase-org/sase/commit/0a47d61a4462bad9b48897826ee2dd1e4ed0288c) | chore: Add SDD prompt and plan for pyvision\_external\_repo\_resolution | 2026-06-08 10:57:07 EDT |
+| sase | [`0a47d61`](https://github.com/sase-org/sase/commit/0a47d61a4462bad9b48897826ee2dd1e4ed0288c) | chore: Add SDD prompt and plan for pyvision\_external\_repo\_resolution | 2026-06-08 14:57:07 UTC |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a24874d`](https://github.com/sase-org/sase/commit/a24874d2df2db84c542eadf5a547c6304e87c478) | feat(axe): surface descriptions in the AXE CLI listings (sase-9t.5) | 2026-07-26 10:03:00 EDT |
+| sase | [`a24874d`](https://github.com/sase-org/sase/commit/a24874d2df2db84c542eadf5a547c6304e87c478) | feat(axe): surface descriptions in the AXE CLI listings (sase-9t.5) | 2026-07-26 14:03:00 UTC |
 
 ## Neighbors
 

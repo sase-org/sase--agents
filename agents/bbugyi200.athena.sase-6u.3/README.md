@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`958569b`](https://github.com/sase-org/sase/commit/958569b92c4e637d440468b2aad434dafc36f6ed) | feat(tui): render fold-aware clan summary sections (sase-6u.3) | 2026-07-18 15:03:40 EDT |
+| sase | [`958569b`](https://github.com/sase-org/sase/commit/958569b92c4e637d440468b2aad434dafc36f6ed) | feat(tui): render fold-aware clan summary sections (sase-6u.3) | 2026-07-18 19:03:40 UTC |
 
 ## Neighbors
 

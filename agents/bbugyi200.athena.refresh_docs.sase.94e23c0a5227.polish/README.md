@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`52b51d6`](https://github.com/sase-org/sase/commit/52b51d65d1243e9b8a9bfd6f0a27766e7380d36f) | chore: correct docs for current xprompt behavior | 2026-05-28 08:13:29 EDT |
+| sase | [`52b51d6`](https://github.com/sase-org/sase/commit/52b51d65d1243e9b8a9bfd6f0a27766e7380d36f) | chore: correct docs for current xprompt behavior | 2026-05-28 12:13:29 UTC |
 
 ## Neighbors
 

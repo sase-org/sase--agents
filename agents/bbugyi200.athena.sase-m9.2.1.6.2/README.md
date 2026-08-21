@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ca93686`](https://github.com/sase-org/sase/commit/ca93686a65d1ad53ecf1c94d024658750f05bb27) | build(deps): require proc lifecycle core bindings | 2026-08-15 11:28:02 EDT |
+| sase | [`ca93686`](https://github.com/sase-org/sase/commit/ca93686a65d1ad53ecf1c94d024658750f05bb27) | build(deps): require proc lifecycle core bindings | 2026-08-15 15:28:02 UTC |
 
 ## Neighbors
 

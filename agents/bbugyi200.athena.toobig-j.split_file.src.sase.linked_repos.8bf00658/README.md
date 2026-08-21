@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`442cf83`](https://github.com/sase-org/sase/commit/442cf8322abb3f1e77614335c85b79650f85c556) | refactor: split linked repository helpers | 2026-07-22 13:22:23 EDT |
+| sase | [`442cf83`](https://github.com/sase-org/sase/commit/442cf8322abb3f1e77614335c85b79650f85c556) | refactor: split linked repository helpers | 2026-07-22 17:22:23 UTC |
 
 ## Neighbors
 

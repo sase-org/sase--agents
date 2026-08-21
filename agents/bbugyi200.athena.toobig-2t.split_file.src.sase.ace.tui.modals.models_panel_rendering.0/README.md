@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7bf73f7`](https://github.com/sase-org/sase/commit/7bf73f7855735f384663e125b53729016595ca0a) | refactor(tui): split models panel rendering helpers | 2026-08-16 01:42:03 EDT |
+| sase | [`7bf73f7`](https://github.com/sase-org/sase/commit/7bf73f7855735f384663e125b53729016595ca0a) | refactor(tui): split models panel rendering helpers | 2026-08-16 05:42:03 UTC |
 
 ## Neighbors
 

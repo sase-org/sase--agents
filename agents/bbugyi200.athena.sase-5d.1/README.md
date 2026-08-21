@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4d1a4b7`](https://github.com/sase-org/sase/commit/4d1a4b71ff832c07364f242848371a85dfa7a0e9) | feat(llm\_provider): add core alias resolver and @default launch semantics (sase-5d.1) | 2026-06-30 10:13:58 EDT |
+| sase | [`4d1a4b7`](https://github.com/sase-org/sase/commit/4d1a4b71ff832c07364f242848371a85dfa7a0e9) | feat(llm\_provider): add core alias resolver and @default launch semantics (sase-5d.1) | 2026-06-30 14:13:58 UTC |
 
 ## Neighbors
 

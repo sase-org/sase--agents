@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3b0c4ad`](https://github.com/sase-org/sase/commit/3b0c4adc6fb2a1ee139e5dc91825e86390111038) | feat: generalize user questions into command gates (sase-6e.5) | 2026-07-16 18:16:59 EDT |
+| sase | [`3b0c4ad`](https://github.com/sase-org/sase/commit/3b0c4adc6fb2a1ee139e5dc91825e86390111038) | feat: generalize user questions into command gates (sase-6e.5) | 2026-07-16 22:16:59 UTC |
 
 ## Neighbors
 

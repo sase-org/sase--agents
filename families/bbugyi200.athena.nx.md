@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f36f37d`](https://github.com/sase-org/sase/commit/f36f37d3ceb5154e1b23602f5ce50ed44eebb52d) | feat(ace): link epic summaries to hosted bead pages | 2026-07-29 08:35:18 EDT |
+| code | sase | [`f36f37d`](https://github.com/sase-org/sase/commit/f36f37d3ceb5154e1b23602f5ce50ed44eebb52d) | feat(ace): link epic summaries to hosted bead pages | 2026-07-29 12:35:18 UTC |
 
 ## Neighbors
 

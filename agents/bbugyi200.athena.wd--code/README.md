@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7c7de9c`](https://github.com/sase-org/sase/commit/7c7de9c9feda339f38cb9d03512757bcb65a4b07) | fix(config): restore legacy changespec schema provider | 2026-08-09 08:19:58 EDT |
+| sase | [`7c7de9c`](https://github.com/sase-org/sase/commit/7c7de9c9feda339f38cb9d03512757bcb65a4b07) | fix(config): restore legacy changespec schema provider | 2026-08-09 12:19:58 UTC |

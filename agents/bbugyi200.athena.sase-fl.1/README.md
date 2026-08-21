@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`75a1ffc`](https://github.com/sase-org/sase/commit/75a1ffc10692d24c8016ee6574ad901197d1752a) | fix(axe): keep host-owned epic launches alive after an SDD store failure | 2026-08-05 18:51:04 EDT |
+| sase | [`75a1ffc`](https://github.com/sase-org/sase/commit/75a1ffc10692d24c8016ee6574ad901197d1752a) | fix(axe): keep host-owned epic launches alive after an SDD store failure | 2026-08-05 22:51:04 UTC |
 
 ## Neighbors
 

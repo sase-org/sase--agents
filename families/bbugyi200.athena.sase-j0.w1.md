@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`83bb8a6`](https://github.com/sase-org/sase/commit/83bb8a6f775b6e762de4a3fd2ad9e4e577b5a786) | test: bump flake-baseline cutoff past sase-iy mechanism fixes | 2026-08-10 15:12:44 EDT |
+| code | sase | [`83bb8a6`](https://github.com/sase-org/sase/commit/83bb8a6f775b6e762de4a3fd2ad9e4e577b5a786) | test: bump flake-baseline cutoff past sase-iy mechanism fixes | 2026-08-10 19:12:44 UTC |
 
 ## Neighbors
 

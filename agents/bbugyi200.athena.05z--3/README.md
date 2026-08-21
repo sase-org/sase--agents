@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3df5c32`](https://github.com/sase-org/sase/commit/3df5c321b472082c699dcde83fc758d3cf708c9f) | feat(ace): render agent-family phase headers as AGENT (\<role\>) | 2026-08-18 10:01:54 EDT |
+| sase | [`3df5c32`](https://github.com/sase-org/sase/commit/3df5c321b472082c699dcde83fc758d3cf708c9f) | feat(ace): render agent-family phase headers as AGENT (\<role\>) | 2026-08-18 14:01:54 UTC |
 
 ## Neighbors
 

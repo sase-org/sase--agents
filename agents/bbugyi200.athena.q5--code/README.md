@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`22e78f7`](https://github.com/sase-org/sase/commit/22e78f792c3a5f251d70cf69a991770be1dcb27c) | fix(bead): derive issue prefixes from PROJECT\_NAME, not ProjectSpec key | 2026-07-31 09:03:50 EDT |
+| sase | [`22e78f7`](https://github.com/sase-org/sase/commit/22e78f792c3a5f251d70cf69a991770be1dcb27c) | fix(bead): derive issue prefixes from PROJECT\_NAME, not ProjectSpec key | 2026-07-31 13:03:50 UTC |

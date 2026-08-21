@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`a460fd6`](https://github.com/sase-org/sase/commit/a460fd6ed3e1d36ea6c2e8c1ad6f278a5cc70c5a) | chore: Add SDD prompt and plan for alt\_brace\_syntax | 2026-06-20 14:25:40 EDT |
-| — | sase | [`ebf931b`](https://github.com/sase-org/sase/commit/ebf931b3024c0bf179256f465166124bfb0c96d6) | chore: Create epic + phase beads for alt\_brace\_syntax | 2026-06-20 14:53:12 EDT |
-| code | sase | [`435cb34`](https://github.com/sase-org/sase/commit/435cb34df1e5c0fb82475d8f1efa8e1e92385845) | fix: complete hyphenated prompt words | 2026-08-15 11:11:32 EDT |
+| — | sase | [`a460fd6`](https://github.com/sase-org/sase/commit/a460fd6ed3e1d36ea6c2e8c1ad6f278a5cc70c5a) | chore: Add SDD prompt and plan for alt\_brace\_syntax | 2026-06-20 18:25:40 UTC |
+| — | sase | [`ebf931b`](https://github.com/sase-org/sase/commit/ebf931b3024c0bf179256f465166124bfb0c96d6) | chore: Create epic + phase beads for alt\_brace\_syntax | 2026-06-20 18:53:12 UTC |
+| code | sase | [`435cb34`](https://github.com/sase-org/sase/commit/435cb34df1e5c0fb82475d8f1efa8e1e92385845) | fix: complete hyphenated prompt words | 2026-08-15 15:11:32 UTC |

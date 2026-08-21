@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`08d0e04`](https://github.com/sase-org/sase/commit/08d0e04762d6bbd9f3002a971026186917828839) | test(contract-budget): reshape CPU probe and restore budget headroom under xdist contention | 2026-08-07 17:37:43 EDT |
+| sase | [`08d0e04`](https://github.com/sase-org/sase/commit/08d0e04762d6bbd9f3002a971026186917828839) | test(contract-budget): reshape CPU probe and restore budget headroom under xdist contention | 2026-08-07 21:37:43 UTC |

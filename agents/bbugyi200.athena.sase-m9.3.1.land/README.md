@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`05b497c`](https://github.com/sase-org/sase/commit/05b497c3022690161640ecfce2e495fb10db93c8) | docs: describe task-triage launches as unattributed procs | 2026-08-15 22:35:17 EDT |
+| sase | [`05b497c`](https://github.com/sase-org/sase/commit/05b497c3022690161640ecfce2e495fb10db93c8) | docs: describe task-triage launches as unattributed procs | 2026-08-16 02:35:17 UTC |
 
 ## Neighbors
 

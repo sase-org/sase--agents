@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ac7a3b4`](https://github.com/sase-org/sase/commit/ac7a3b4c4a25133b21dd8f6b27caaf60c774a05f) | feat(tui): add file hints to clan member bodies | 2026-08-01 09:49:08 EDT |
+| sase | [`ac7a3b4`](https://github.com/sase-org/sase/commit/ac7a3b4c4a25133b21dd8f6b27caaf60c774a05f) | feat(tui): add file hints to clan member bodies | 2026-08-01 13:49:08 UTC |
 
 ## Neighbors
 

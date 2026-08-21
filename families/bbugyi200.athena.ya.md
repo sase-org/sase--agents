@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`09e5fc4`](https://github.com/sase-org/sase/commit/09e5fc43e7dc2209c25145aa239d89519bfe63eb) | feat(ace): show plan tier and epic phase/wave/size counts in approval toasts | 2026-08-12 08:26:18 EDT |
+| code | sase | [`09e5fc4`](https://github.com/sase-org/sase/commit/09e5fc43e7dc2209c25145aa239d89519bfe63eb) | feat(ace): show plan tier and epic phase/wave/size counts in approval toasts | 2026-08-12 12:26:18 UTC |

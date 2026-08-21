@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a892dce`](https://github.com/sase-org/sase/commit/a892dce3a9db82b03822d00b76b8879f9992285a) | ci: run the agents disk-load ops floor in the perf-floors job | 2026-08-16 14:33:04 EDT |
+| sase | [`a892dce`](https://github.com/sase-org/sase/commit/a892dce3a9db82b03822d00b76b8879f9992285a) | ci: run the agents disk-load ops floor in the perf-floors job | 2026-08-16 18:33:04 UTC |
 
 ## Neighbors
 

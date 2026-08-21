@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b5c78f9`](https://github.com/sase-org/sase/commit/b5c78f972a3e21f897eadf959a2343fddec8bd74) | feat(dev-update): warn when a code swap could tear a live agent runner | 2026-08-05 19:24:42 EDT |
+| sase | [`b5c78f9`](https://github.com/sase-org/sase/commit/b5c78f972a3e21f897eadf959a2343fddec8bd74) | feat(dev-update): warn when a code swap could tear a live agent runner | 2026-08-05 23:24:42 UTC |
 
 ## Neighbors
 

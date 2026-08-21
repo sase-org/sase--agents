@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`6904833`](https://github.com/sase-org/sase/commit/6904833b43a7f2a4d44e222be3449d11c296fc85) | chore: Add SDD prompt and plan for rename\_skill\_command | 2026-06-15 17:01:54 EDT |
-| — | sase | [`66d6c68`](https://github.com/sase-org/sase/commit/66d6c688c555319377ecd407ceecdadc2a135fbc) | feat(cli)!: rename \`sase skills\` command to \`sase skill\` | 2026-06-15 17:39:45 EDT |
-| code | sase | [`b5198f7`](https://github.com/sase-org/sase/commit/b5198f7e18032c025c2a609a5fd9fbac9bbf900c) | feat(notifications): summarize agent questions in notification modal | 2026-07-14 07:10:00 EDT |
+| — | sase | [`6904833`](https://github.com/sase-org/sase/commit/6904833b43a7f2a4d44e222be3449d11c296fc85) | chore: Add SDD prompt and plan for rename\_skill\_command | 2026-06-15 21:01:54 UTC |
+| — | sase | [`66d6c68`](https://github.com/sase-org/sase/commit/66d6c688c555319377ecd407ceecdadc2a135fbc) | feat(cli)!: rename \`sase skills\` command to \`sase skill\` | 2026-06-15 21:39:45 UTC |
+| code | sase | [`b5198f7`](https://github.com/sase-org/sase/commit/b5198f7e18032c025c2a609a5fd9fbac9bbf900c) | feat(notifications): summarize agent questions in notification modal | 2026-07-14 11:10:00 UTC |

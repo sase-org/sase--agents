@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4cce6a4`](https://github.com/sase-org/sase/commit/4cce6a46b099256a59048bae1539a13efc988063) | fix: humanize project-prefixed ChangeSpec names | 2026-07-06 15:21:44 EDT |
+| sase | [`4cce6a4`](https://github.com/sase-org/sase/commit/4cce6a46b099256a59048bae1539a13efc988063) | fix: humanize project-prefixed ChangeSpec names | 2026-07-06 19:21:44 UTC |
 
 ## Neighbors
 

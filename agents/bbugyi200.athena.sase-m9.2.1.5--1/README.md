@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6683d4b`](https://github.com/sase-org/sase/commit/6683d4bcc25c173a5a5903e1884271f0acb3f937) | docs: document named proc shell addressing | 2026-08-15 10:09:31 EDT |
+| sase | [`6683d4b`](https://github.com/sase-org/sase/commit/6683d4bcc25c173a5a5903e1884271f0acb3f937) | docs: document named proc shell addressing | 2026-08-15 14:09:31 UTC |
 
 ## Neighbors
 

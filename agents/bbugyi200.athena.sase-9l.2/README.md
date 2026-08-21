@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`289222b`](https://github.com/sase-org/sase/commit/289222b19ca37c8fdf34a86112aa3997807abf96) | fix(tests): deny unsandboxed pytest bead-store writes (sase-9l.2) | 2026-07-25 13:12:33 EDT |
+| sase | [`289222b`](https://github.com/sase-org/sase/commit/289222b19ca37c8fdf34a86112aa3997807abf96) | fix(tests): deny unsandboxed pytest bead-store writes (sase-9l.2) | 2026-07-25 17:12:33 UTC |
 
 ## Neighbors
 

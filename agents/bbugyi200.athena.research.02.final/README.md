@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e74784f`](https://github.com/sase-org/sase/commit/e74784f3edd76059fe8a3d2a3e76613c6ca37378) | docs: consolidate TUI performance research | 2026-06-20 17:43:27 EDT |
+| sase | [`e74784f`](https://github.com/sase-org/sase/commit/e74784f3edd76059fe8a3d2a3e76613c6ca37378) | docs: consolidate TUI performance research | 2026-06-20 21:43:27 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0b.cld](../bbugyi200.athena.research.0b.cld/README.md) | research hood | active |
 | [research.0b.final](../bbugyi200.athena.research.0b.final/README.md) | research hood | active |
 | [research.0b.image](../bbugyi200.athena.research.0b.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

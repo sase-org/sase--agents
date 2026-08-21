@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`22654f8`](https://github.com/sase-org/sase/commit/22654f82b69b9e7b3d8f099303e2d10c509c7e3e) | feat!: remove bundled toobig split workflow | 2026-07-15 12:31:16 EDT |
+| sase | [`22654f8`](https://github.com/sase-org/sase/commit/22654f82b69b9e7b3d8f099303e2d10c509c7e3e) | feat!: remove bundled toobig split workflow | 2026-07-15 16:31:16 UTC |

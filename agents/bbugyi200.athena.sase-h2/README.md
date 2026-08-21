@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1a43f49`](https://github.com/sase-org/sase/commit/1a43f494535e2b21af388775b5278703a975a3f7) | test(visual): add a symbol fallback font so tab-icon goldens are not tofu | 2026-08-07 14:12:18 EDT |
+| sase | [`1a43f49`](https://github.com/sase-org/sase/commit/1a43f494535e2b21af388775b5278703a975a3f7) | test(visual): add a symbol fallback font so tab-icon goldens are not tofu | 2026-08-07 18:12:18 UTC |

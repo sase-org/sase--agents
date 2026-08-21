@@ -21,5 +21,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6b31c90`](https://github.com/sase-org/sase/commit/6b31c90333c3d14329de8499c9cfb9e7d3fd8ce6) | chore: Add SDD prompt and plan for flatten\_memory\_nested\_long | 2026-06-17 17:53:30 EDT |
-| sase | [`6d193e9`](https://github.com/sase-org/sase/commit/6d193e91a1260dbff5b08be1fc62aff3435da22c) | chore: create flatten memory epic beads | 2026-06-17 18:06:15 EDT |
+| sase | [`6b31c90`](https://github.com/sase-org/sase/commit/6b31c90333c3d14329de8499c9cfb9e7d3fd8ce6) | chore: Add SDD prompt and plan for flatten\_memory\_nested\_long | 2026-06-17 21:53:30 UTC |
+| sase | [`6d193e9`](https://github.com/sase-org/sase/commit/6d193e91a1260dbff5b08be1fc62aff3435da22c) | chore: create flatten memory epic beads | 2026-06-17 22:06:15 UTC |

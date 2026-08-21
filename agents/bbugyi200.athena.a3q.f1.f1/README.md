@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`992aec0`](https://github.com/sase-org/sase/commit/992aec0d369fd8ce6451cdab631ef6e6c461d4df) | chore: add configurable agent families infographic | 2026-06-02 16:04:33 EDT |
+| sase | [`992aec0`](https://github.com/sase-org/sase/commit/992aec0d369fd8ce6451cdab631ef6e6c461d4df) | chore: add configurable agent families infographic | 2026-06-02 20:04:33 UTC |
 
 ## Neighbors
 

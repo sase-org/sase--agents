@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`799b5f3`](https://github.com/sase-org/sase/commit/799b5f37e1004a47bab275e2017eeae47aef75b4) | fix: confirm before marking notification tabs read | 2026-08-13 19:56:03 EDT |
+| sase | [`799b5f3`](https://github.com/sase-org/sase/commit/799b5f37e1004a47bab275e2017eeae47aef75b4) | fix: confirm before marking notification tabs read | 2026-08-13 23:56:03 UTC |
 
 ## Neighbors
 

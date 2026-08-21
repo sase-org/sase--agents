@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`c0f1c6e`](https://github.com/sase-org/sase/commit/c0f1c6e5a3c775ee314a6ca14c16ca5913b83d05) | fix(ace): prevent quit hangs on in-flight workers | 2026-07-25 11:46:39 EDT |
+| code | sase | [`c0f1c6e`](https://github.com/sase-org/sase/commit/c0f1c6e5a3c775ee314a6ca14c16ca5913b83d05) | fix(ace): prevent quit hangs on in-flight workers | 2026-07-25 15:46:39 UTC |

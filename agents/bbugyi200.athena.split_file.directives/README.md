@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6eff439`](https://github.com/sase-org/sase/commit/6eff439687d166c321e319f6407722ed25866a2b) | refactor(xprompt): split directive extraction modules | 2026-07-06 08:16:18 EDT |
+| sase | [`6eff439`](https://github.com/sase-org/sase/commit/6eff439687d166c321e319f6407722ed25866a2b) | refactor(xprompt): split directive extraction modules | 2026-07-06 12:16:18 UTC |
 
 ## Neighbors
 

@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`43446c0`](https://github.com/sase-org/sase/commit/43446c02fa60efcc59968cf4bd6896475d93fa81) | chore: Add SDD prompt and plan for fork\_colon\_trailing\_text\_completion | 2026-06-25 09:52:37 EDT |
-| sase | [`2d007df`](https://github.com/sase-org/sase/commit/2d007dfef6ac3399655f2c58f4a05fedb73d8c01) | fix(tui): complete fork args after colon | 2026-06-25 10:00:56 EDT |
+| sase | [`43446c0`](https://github.com/sase-org/sase/commit/43446c02fa60efcc59968cf4bd6896475d93fa81) | chore: Add SDD prompt and plan for fork\_colon\_trailing\_text\_completion | 2026-06-25 13:52:37 UTC |
+| sase | [`2d007df`](https://github.com/sase-org/sase/commit/2d007dfef6ac3399655f2c58f4a05fedb73d8c01) | fix(tui): complete fork args after colon | 2026-06-25 14:00:56 UTC |
 
 ## Neighbors
 

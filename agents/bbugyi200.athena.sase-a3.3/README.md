@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`793887c`](https://github.com/sase-org/sase/commit/793887cf80f9e5491e4cd227682a344c4aece8ae) | feat(bead): add dependency tree command (sase-a3.3) | 2026-07-27 15:06:22 EDT |
+| sase | [`793887c`](https://github.com/sase-org/sase/commit/793887cf80f9e5491e4cd227682a344c4aece8ae) | feat(bead): add dependency tree command (sase-a3.3) | 2026-07-27 19:06:22 UTC |
 
 ## Neighbors
 

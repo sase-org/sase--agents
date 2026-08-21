@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8bc5e9f`](https://github.com/sase-org/sase/commit/8bc5e9f225795d7995e2e807de7bf5a535956c93) | docs: research GitHub companion SDD repositories | 2026-07-07 22:23:58 EDT |
+| sase | [`8bc5e9f`](https://github.com/sase-org/sase/commit/8bc5e9f225795d7995e2e807de7bf5a535956c93) | docs: research GitHub companion SDD repositories | 2026-07-08 02:23:58 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0b.cld](../bbugyi200.athena.research.0b.cld/README.md) | research hood | active |
 | [research.0b.final](../bbugyi200.athena.research.0b.final/README.md) | research hood | active |
 | [research.0b.image](../bbugyi200.athena.research.0b.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

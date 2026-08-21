@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b4c4c18`](https://github.com/sase-org/sase/commit/b4c4c182e1a68037fed639215c4d35ebbeab7e15) | feat(test-selection): walk one hop deeper when no contexts baseline is usable | 2026-08-06 10:26:47 EDT |
+| sase | [`b4c4c18`](https://github.com/sase-org/sase/commit/b4c4c182e1a68037fed639215c4d35ebbeab7e15) | feat(test-selection): walk one hop deeper when no contexts baseline is usable | 2026-08-06 14:26:47 UTC |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bcf58b2`](https://github.com/sase-org/sase/commit/bcf58b2318ed43229e9c238dde0b684183ef1a8a) | refactor(axe): split accepted-plan execution helpers | 2026-08-11 08:31:03 EDT |
+| sase | [`bcf58b2`](https://github.com/sase-org/sase/commit/bcf58b2318ed43229e9c238dde0b684183ef1a8a) | refactor(axe): split accepted-plan execution helpers | 2026-08-11 12:31:03 UTC |
 
 ## Neighbors
 

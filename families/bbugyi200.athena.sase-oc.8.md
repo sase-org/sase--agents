@@ -45,7 +45,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 4 | sase | [`017b488`](https://github.com/sase-org/sase/commit/017b488e6471eee0f8bea2acde8af686d567b087) | docs(completion): document shell completion end to end and close polish items | 2026-08-17 15:38:54 EDT |
+| 4 | sase | [`017b488`](https://github.com/sase-org/sase/commit/017b488e6471eee0f8bea2acde8af686d567b087) | docs(completion): document shell completion end to end and close polish items | 2026-08-17 19:38:54 UTC |
 
 ## Neighbors
 

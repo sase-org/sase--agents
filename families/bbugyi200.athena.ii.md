@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`c05db01`](https://github.com/sase-org/sase/commit/c05db016318c53f7394ad4a3f54fcd66221189e3) | fix(ace): preserve clan member name during kill and edit | 2026-07-22 13:00:22 EDT |
+| code | sase | [`c05db01`](https://github.com/sase-org/sase/commit/c05db016318c53f7394ad4a3f54fcd66221189e3) | fix(ace): preserve clan member name during kill and edit | 2026-07-22 17:00:22 UTC |

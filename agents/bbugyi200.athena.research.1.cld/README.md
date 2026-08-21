@@ -21,8 +21,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`86be3ff`](https://github.com/sase-org/sase/commit/86be3ffd201eff463be87517104fb65519c6fda3) | chore: Add research on a unified \`sase doctor\` command | 2026-06-09 11:16:01 EDT |
-| sase | [`858a21b`](https://github.com/sase-org/sase/commit/858a21bd21d8ff30b49d99dd9034025039f1c2ee) | docs: add research on sase doctor diagnostic improvements | 2026-07-08 00:46:44 EDT |
+| sase | [`86be3ff`](https://github.com/sase-org/sase/commit/86be3ffd201eff463be87517104fb65519c6fda3) | chore: Add research on a unified \`sase doctor\` command | 2026-06-09 15:16:01 UTC |
+| sase | [`858a21b`](https://github.com/sase-org/sase/commit/858a21bd21d8ff30b49d99dd9034025039f1c2ee) | docs: add research on sase doctor diagnostic improvements | 2026-07-08 04:46:44 UTC |
 
 ## Neighbors
 
@@ -82,4 +82,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 287 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

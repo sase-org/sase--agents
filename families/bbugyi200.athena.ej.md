@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`04a7254`](https://github.com/sase-org/sase/commit/04a725461b302838c641abfe759083c4a0b9d468) | feat(ace): isolate selected tribe panel with capital H | 2026-07-19 08:42:05 EDT |
+| — | sase | [`04a7254`](https://github.com/sase-org/sase/commit/04a725461b302838c641abfe759083c4a0b9d468) | feat(ace): isolate selected tribe panel with capital H | 2026-07-19 12:42:05 UTC |

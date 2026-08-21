@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7394b81`](https://github.com/sase-org/sase/commit/7394b8157a77cc75356d6c81eb0aa26e662b8a3b) | feat(bead): expand @path values on close, +1, and snooze | 2026-08-18 19:38:13 EDT |
+| sase | [`7394b81`](https://github.com/sase-org/sase/commit/7394b8157a77cc75356d6c81eb0aa26e662b8a3b) | feat(bead): expand @path values on close, +1, and snooze | 2026-08-18 23:38:13 UTC |
 
 ## Neighbors
 

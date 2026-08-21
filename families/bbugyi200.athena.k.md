@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`f56df2e`](https://github.com/sase-org/sase/commit/f56df2e8c8d08bb7ceb8f7cee1a1d1ffcfed1046) | chore: Add SDD prompt and plan for telegram\_update\_workspace\_resolution | 2026-07-06 15:03:52 EDT |
-| code | sase | [`60a7b5f`](https://github.com/sase-org/sase/commit/60a7b5fbd9189258d224b1aa3082dde44795cc9f) | fix: resolve chat install workspace through project aliases | 2026-07-06 15:14:24 EDT |
+| root | sase | [`f56df2e`](https://github.com/sase-org/sase/commit/f56df2e8c8d08bb7ceb8f7cee1a1d1ffcfed1046) | chore: Add SDD prompt and plan for telegram\_update\_workspace\_resolution | 2026-07-06 19:03:52 UTC |
+| code | sase | [`60a7b5f`](https://github.com/sase-org/sase/commit/60a7b5fbd9189258d224b1aa3082dde44795cc9f) | fix: resolve chat install workspace through project aliases | 2026-07-06 19:14:24 UTC |

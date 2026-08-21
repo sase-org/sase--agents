@@ -21,6 +21,6 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f1d326c`](https://github.com/sase-org/sase/commit/f1d326c90e43747e2c1252e7bf9e6cd55e5b5083) | chore: Add SDD prompt and plan for agy\_workspace\_dir\_leak | 2026-06-23 08:47:06 EDT |
-| sase | [`86a71ec`](https://github.com/sase-org/sase/commit/86a71ecda860f43a344a15d26be29d7ce5277fb4) | fix(agy): ignore stale workspace pins | 2026-06-23 08:55:44 EDT |
-| sase | [`e93da1e`](https://github.com/sase-org/sase/commit/e93da1e9164e4e83ed593d8ec221fd54370de1d1) | fix(ace): hide machine operational-lease claims from the Agents tab | 2026-08-16 14:31:18 EDT |
+| sase | [`f1d326c`](https://github.com/sase-org/sase/commit/f1d326c90e43747e2c1252e7bf9e6cd55e5b5083) | chore: Add SDD prompt and plan for agy\_workspace\_dir\_leak | 2026-06-23 12:47:06 UTC |
+| sase | [`86a71ec`](https://github.com/sase-org/sase/commit/86a71ecda860f43a344a15d26be29d7ce5277fb4) | fix(agy): ignore stale workspace pins | 2026-06-23 12:55:44 UTC |
+| sase | [`e93da1e`](https://github.com/sase-org/sase/commit/e93da1e9164e4e83ed593d8ec221fd54370de1d1) | fix(ace): hide machine operational-lease claims from the Agents tab | 2026-08-16 18:31:18 UTC |

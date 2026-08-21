@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3f7bec6`](https://github.com/sase-org/sase/commit/3f7bec6499617b210bf9c199943359177f3e455c) | chore: add blog series infographic | 2026-06-07 07:38:54 EDT |
+| sase | [`3f7bec6`](https://github.com/sase-org/sase/commit/3f7bec6499617b210bf9c199943359177f3e455c) | chore: add blog series infographic | 2026-06-07 11:38:54 UTC |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 291 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 292 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

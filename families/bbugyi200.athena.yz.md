@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`2fb4313`](https://github.com/sase-org/sase/commit/2fb4313af7385e43b2d4788a0c809d622cdcd7b0) | fix(axe): close core-capability skew that killed agent\_runners startup | 2026-08-12 17:43:04 EDT |
+| code | sase | [`2fb4313`](https://github.com/sase-org/sase/commit/2fb4313af7385e43b2d4788a0c809d622cdcd7b0) | fix(axe): close core-capability skew that killed agent\_runners startup | 2026-08-12 21:43:04 UTC |

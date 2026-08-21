@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`653d41e`](https://github.com/sase-org/sase/commit/653d41e302cecf7321f12e631a16b87a71610628) | chore: Add SDD prompt and plan for agents\_refresh\_gating | 2026-05-28 18:15:57 EDT |
-| sase | [`2fb5dd2`](https://github.com/sase-org/sase/commit/2fb5dd22159ae28a90f74981f07c5057970206f7) | fix: gate agents refresh from watcher events | 2026-05-28 18:23:28 EDT |
+| sase | [`653d41e`](https://github.com/sase-org/sase/commit/653d41e302cecf7321f12e631a16b87a71610628) | chore: Add SDD prompt and plan for agents\_refresh\_gating | 2026-05-28 22:15:57 UTC |
+| sase | [`2fb5dd2`](https://github.com/sase-org/sase/commit/2fb5dd22159ae28a90f74981f07c5057970206f7) | fix: gate agents refresh from watcher events | 2026-05-28 22:23:28 UTC |

@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`9a3327a`](https://github.com/sase-org/sase/commit/9a3327a3b5053fea8c43e1feef6cd2963000d793) | test(ace): expect the repo-aware Ctrl+\] help label | 2026-08-17 23:38:48 EDT |
+| 1 | sase | [`9a3327a`](https://github.com/sase-org/sase/commit/9a3327a3b5053fea8c43e1feef6cd2963000d793) | test(ace): expect the repo-aware Ctrl+\] help label | 2026-08-18 03:38:48 UTC |
 
 ## Neighbors
 

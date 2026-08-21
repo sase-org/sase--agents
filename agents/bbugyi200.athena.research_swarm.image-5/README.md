@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`686faa9`](https://github.com/sase-org/sase/commit/686faa955eee43e53b256cee3277eeba2d41a258) | chore: add consolidated episodes events infographic | 2026-05-29 09:49:39 EDT |
+| sase | [`686faa9`](https://github.com/sase-org/sase/commit/686faa955eee43e53b256cee3277eeba2d41a258) | chore: add consolidated episodes events infographic | 2026-05-29 13:49:39 UTC |
 
 ## Neighbors
 

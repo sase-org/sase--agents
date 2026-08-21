@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7ffd547`](https://github.com/sase-org/sase/commit/7ffd5471ae0ad436a3607ea1a60dc144621ec263) | build(deps): raise sase-core-rs floor to 0.18.2 and pin the parity test's commit budget | 2026-08-05 23:08:00 EDT |
+| sase | [`7ffd547`](https://github.com/sase-org/sase/commit/7ffd5471ae0ad436a3607ea1a60dc144621ec263) | build(deps): raise sase-core-rs floor to 0.18.2 and pin the parity test's commit budget | 2026-08-06 03:08:00 UTC |
 
 ## Neighbors
 

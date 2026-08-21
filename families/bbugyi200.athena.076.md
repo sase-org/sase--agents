@@ -30,6 +30,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`8442d08`](https://github.com/sase-org/sase/commit/8442d08e8b13082505d6f7b921f9a41a1228efa6) | chore: Add SDD prompt and plan for plugin\_uninstall | 2026-06-26 15:49:03 EDT |
-| — | sase | [`2834fe4`](https://github.com/sase-org/sase/commit/2834fe4158137388c8cd70b8c5258d9f3493d4a3) | feat(plugins): add \`sase plugin uninstall \<plugin\>\` | 2026-06-26 16:09:59 EDT |
-| 1 | sase | [`3fb0bbb`](https://github.com/sase-org/sase/commit/3fb0bbbd62287a7033eb7a28a5d1e7f10a72bed7) | fix(tui): grey the monitor-shell gear once its monitor settles | 2026-08-18 20:31:49 EDT |
+| — | sase | [`8442d08`](https://github.com/sase-org/sase/commit/8442d08e8b13082505d6f7b921f9a41a1228efa6) | chore: Add SDD prompt and plan for plugin\_uninstall | 2026-06-26 19:49:03 UTC |
+| — | sase | [`2834fe4`](https://github.com/sase-org/sase/commit/2834fe4158137388c8cd70b8c5258d9f3493d4a3) | feat(plugins): add \`sase plugin uninstall \<plugin\>\` | 2026-06-26 20:09:59 UTC |
+| 1 | sase | [`3fb0bbb`](https://github.com/sase-org/sase/commit/3fb0bbbd62287a7033eb7a28a5d1e7f10a72bed7) | fix(tui): grey the monitor-shell gear once its monitor settles | 2026-08-19 00:31:49 UTC |

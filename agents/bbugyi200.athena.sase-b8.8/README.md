@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b030a3b`](https://github.com/sase-org/sase/commit/b030a3b91085af677d76799b1d112185e6a5b692) | docs: describe lane-scoped commit provenance | 2026-07-30 12:24:46 EDT |
+| sase | [`b030a3b`](https://github.com/sase-org/sase/commit/b030a3b91085af677d76799b1d112185e6a5b692) | docs: describe lane-scoped commit provenance | 2026-07-30 16:24:46 UTC |
 
 ## Neighbors
 

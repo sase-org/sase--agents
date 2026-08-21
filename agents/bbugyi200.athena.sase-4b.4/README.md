@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`826c2b7`](https://github.com/sase-org/sase/commit/826c2b7bcf3b581186a59cf338e44259444cfbb1) | chore: document Dataview reads phase 4 closeout (sase-4b.4) | 2026-06-03 16:47:33 EDT |
+| sase | [`826c2b7`](https://github.com/sase-org/sase/commit/826c2b7bcf3b581186a59cf338e44259444cfbb1) | chore: document Dataview reads phase 4 closeout (sase-4b.4) | 2026-06-03 20:47:33 UTC |
 
 ## Neighbors
 

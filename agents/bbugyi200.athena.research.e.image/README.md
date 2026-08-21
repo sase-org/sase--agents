@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`513b3ae`](https://github.com/sase-org/sase/commit/513b3ae0150f336651e5918e8bd423c5eda384d6) | docs: add agent revert research infographic | 2026-06-14 10:39:23 EDT |
+| sase | [`513b3ae`](https://github.com/sase-org/sase/commit/513b3ae0150f336651e5918e8bd423c5eda384d6) | docs: add agent revert research infographic | 2026-06-14 14:39:23 UTC |
 
 ## Neighbors
 
@@ -83,4 +83,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 285 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 286 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

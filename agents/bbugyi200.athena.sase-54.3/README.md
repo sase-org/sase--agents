@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9a32303`](https://github.com/sase-org/sase/commit/9a32303963d0b5052395e2cac0fe3942d07d6028) | feat(tui): add Config Center modal and migrate XPrompt Browser (sase-54.3) | 2026-06-23 09:24:53 EDT |
+| sase | [`9a32303`](https://github.com/sase-org/sase/commit/9a32303963d0b5052395e2cac0fe3942d07d6028) | feat(tui): add Config Center modal and migrate XPrompt Browser (sase-54.3) | 2026-06-23 13:24:53 UTC |
 
 ## Neighbors
 

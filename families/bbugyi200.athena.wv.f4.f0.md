@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`3420d12`](https://github.com/sase-org/sase/commit/3420d12113c623dbb517a1ae0917dcb2165383c1) | fix(ace): show shipped @smarter reference on default row's provenance tag | 2026-08-10 13:32:37 EDT |
+| code | sase | [`3420d12`](https://github.com/sase-org/sase/commit/3420d12113c623dbb517a1ae0917dcb2165383c1) | fix(ace): show shipped @smarter reference on default row's provenance tag | 2026-08-10 17:32:37 UTC |
 
 ## Neighbors
 

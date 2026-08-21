@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`cf8832b`](https://github.com/sase-org/sase/commit/cf8832b7e8bf6a99183e9de9535945ceb3ce3c5d) | fix(config): make machine identity optional per document | 2026-07-23 10:06:01 EDT |
+| code | sase | [`cf8832b`](https://github.com/sase-org/sase/commit/cf8832b7e8bf6a99183e9de9535945ceb3ce3c5d) | fix(config): make machine identity optional per document | 2026-07-23 14:06:01 UTC |

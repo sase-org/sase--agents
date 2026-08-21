@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`ad98a7e`](https://github.com/sase-org/sase/commit/ad98a7e9a5175a3d753d48ae82310694889d9753) | chore: Add SDD prompt and plan for updates\_tab\_keymap\_rework | 2026-06-29 11:39:05 EDT |
-| — | sase | [`c095d43`](https://github.com/sase-org/sase/commit/c095d438d9ce42eaf10f800e5ed9defe69ee47d4) | feat!: rework plugin update keybindings | 2026-06-29 11:54:15 EDT |
-| code | sase | [`f1c3555`](https://github.com/sase-org/sase/commit/f1c3555636475866b3c357f2accc5207f3a7c37b) | test(feature-flags): prevent host config writes | 2026-08-21 16:06:16 EDT |
+| — | sase | [`ad98a7e`](https://github.com/sase-org/sase/commit/ad98a7e9a5175a3d753d48ae82310694889d9753) | chore: Add SDD prompt and plan for updates\_tab\_keymap\_rework | 2026-06-29 15:39:05 UTC |
+| — | sase | [`c095d43`](https://github.com/sase-org/sase/commit/c095d438d9ce42eaf10f800e5ed9defe69ee47d4) | feat!: rework plugin update keybindings | 2026-06-29 15:54:15 UTC |
+| code | sase | [`f1c3555`](https://github.com/sase-org/sase/commit/f1c3555636475866b3c357f2accc5207f3a7c37b) | test(feature-flags): prevent host config writes | 2026-08-21 20:06:16 UTC |

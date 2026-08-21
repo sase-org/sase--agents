@@ -30,5 +30,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`f5b2729`](https://github.com/sase-org/sase/commit/f5b272914a8c20f13ac9f884d113a52c57e84330) | chore: Add SDD prompt and plan for prompt\_search\_command | 2026-06-18 21:25:10 EDT |
-| 1 | sase | [`8147915`](https://github.com/sase-org/sase/commit/8147915b76405e1e65bc0b33fb98e3585b389d34) | fix(ace): surface active monitors through their agent-family root | 2026-08-14 08:28:37 EDT |
+| — | sase | [`f5b2729`](https://github.com/sase-org/sase/commit/f5b272914a8c20f13ac9f884d113a52c57e84330) | chore: Add SDD prompt and plan for prompt\_search\_command | 2026-06-19 01:25:10 UTC |
+| 1 | sase | [`8147915`](https://github.com/sase-org/sase/commit/8147915b76405e1e65bc0b33fb98e3585b389d34) | fix(ace): surface active monitors through their agent-family root | 2026-08-14 12:28:37 UTC |

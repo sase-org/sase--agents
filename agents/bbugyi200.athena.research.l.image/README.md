@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`440b907`](https://github.com/sase-org/sase/commit/440b9075684f9fc49fa45299084b5315f08a930d) | docs: add model purpose config infographic | 2026-06-17 15:39:10 EDT |
+| sase | [`440b907`](https://github.com/sase-org/sase/commit/440b9075684f9fc49fa45299084b5315f08a930d) | docs: add model purpose config infographic | 2026-06-17 19:39:10 UTC |
 
 ## Neighbors
 
@@ -81,4 +81,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 287 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

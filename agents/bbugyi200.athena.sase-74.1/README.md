@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dc0fa09`](https://github.com/sase-org/sase/commit/dc0fa09f9bb986d88ad22c67f91ab020ce1a63fd) | feat(agent-cleanup): mirror clan planning scope (sase-74.1) | 2026-07-19 08:45:17 EDT |
+| sase | [`dc0fa09`](https://github.com/sase-org/sase/commit/dc0fa09f9bb986d88ad22c67f91ab020ce1a63fd) | feat(agent-cleanup): mirror clan planning scope (sase-74.1) | 2026-07-19 12:45:17 UTC |
 
 ## Neighbors
 

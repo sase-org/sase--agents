@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f943218`](https://github.com/sase-org/sase/commit/f943218ef38a0eb9a42f7630ddec8ff3f4624394) | fix(tui): highlight agent runner limit | 2026-07-24 18:51:18 EDT |
+| code | sase | [`f943218`](https://github.com/sase-org/sase/commit/f943218ef38a0eb9a42f7630ddec8ff3f4624394) | fix(tui): highlight agent runner limit | 2026-07-24 22:51:18 UTC |
 
 ## Neighbors
 

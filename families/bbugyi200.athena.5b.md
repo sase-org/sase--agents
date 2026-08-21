@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`7657ed4`](https://github.com/sase-org/sase/commit/7657ed44435ac830f41728e0f9244538440743bc) | feat!: require explicit SASE project management authorization | 2026-07-11 08:29:32 EDT |
+| code | sase | [`7657ed4`](https://github.com/sase-org/sase/commit/7657ed44435ac830f41728e0f9244538440743bc) | feat!: require explicit SASE project management authorization | 2026-07-11 12:29:32 UTC |
 
 ## Neighbors
 

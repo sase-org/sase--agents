@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f9064d7`](https://github.com/sase-org/sase/commit/f9064d7630ca8b542f2d01323cc81ba3e3a380d6) | feat(agents-sync): add lane neighbor sections (sase-a9.4) | 2026-07-27 17:23:00 EDT |
+| sase | [`f9064d7`](https://github.com/sase-org/sase/commit/f9064d7630ca8b542f2d01323cc81ba3e3a380d6) | feat(agents-sync): add lane neighbor sections (sase-a9.4) | 2026-07-27 21:23:00 UTC |
 
 ## Neighbors
 

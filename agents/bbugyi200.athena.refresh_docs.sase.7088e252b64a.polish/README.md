@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`942a205`](https://github.com/sase-org/sase/commit/942a20549829b3fbcc9dd4f899e3393e7f909a28) | chore: clarify generated skills docs | 2026-05-26 20:14:06 EDT |
+| sase | [`942a205`](https://github.com/sase-org/sase/commit/942a20549829b3fbcc9dd4f899e3393e7f909a28) | chore: clarify generated skills docs | 2026-05-27 00:14:06 UTC |
 
 ## Neighbors
 

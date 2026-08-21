@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1678873`](https://github.com/sase-org/sase/commit/1678873b6a1354305a8a237db6392b3a51a29d23) | test: split plan-family wait-check tests | 2026-08-13 21:57:47 EDT |
+| sase | [`1678873`](https://github.com/sase-org/sase/commit/1678873b6a1354305a8a237db6392b3a51a29d23) | test: split plan-family wait-check tests | 2026-08-14 01:57:47 UTC |
 
 ## Neighbors
 

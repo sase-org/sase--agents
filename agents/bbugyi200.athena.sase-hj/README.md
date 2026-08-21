@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f11fbbb`](https://github.com/sase-org/sase/commit/f11fbbb338e6526843ae7fcd24ff0545789fc991) | fix(xprompt): honor discovery precedence in tag lookup | 2026-08-08 18:12:53 EDT |
+| sase | [`f11fbbb`](https://github.com/sase-org/sase/commit/f11fbbb338e6526843ae7fcd24ff0545789fc991) | fix(xprompt): honor discovery precedence in tag lookup | 2026-08-08 22:12:53 UTC |

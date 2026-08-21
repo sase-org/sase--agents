@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6e6aa3b`](https://github.com/sase-org/sase/commit/6e6aa3bc41673368a2bc9a4df8b797d86cb33621) | fix: keep queued clan members in wait barriers | 2026-07-20 09:53:39 EDT |
+| sase | [`6e6aa3b`](https://github.com/sase-org/sase/commit/6e6aa3bc41673368a2bc9a4df8b797d86cb33621) | fix: keep queued clan members in wait barriers | 2026-07-20 13:53:39 UTC |

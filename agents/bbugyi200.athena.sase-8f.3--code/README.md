@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9d8b7e2`](https://github.com/sase-org/sase/commit/9d8b7e28054ef02f3bece5813fd337627144b0b2) | feat(beads): claim epic work just in time (sase-8f.3) | 2026-07-20 17:34:51 EDT |
+| sase | [`9d8b7e2`](https://github.com/sase-org/sase/commit/9d8b7e28054ef02f3bece5813fd337627144b0b2) | feat(beads): claim epic work just in time (sase-8f.3) | 2026-07-20 21:34:51 UTC |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ad18bc3`](https://github.com/sase-org/sase/commit/ad18bc319aa516474667b9cf718850a498128690) | docs: correct and clarify descriptions from the docs refresh | 2026-08-18 02:31:31 EDT |
+| sase | [`ad18bc3`](https://github.com/sase-org/sase/commit/ad18bc319aa516474667b9cf718850a498128690) | docs: correct and clarify descriptions from the docs refresh | 2026-08-18 06:31:31 UTC |
 
 ## Neighbors
 

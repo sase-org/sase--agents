@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`a0b40ef`](https://github.com/sase-org/sase/commit/a0b40ef37c1ec7afd8581fb31dd38ff0ca372937) | fix: propagate default overrides through alias resolution | 2026-07-25 11:46:36 EDT |
+| code | sase | [`a0b40ef`](https://github.com/sase-org/sase/commit/a0b40ef37c1ec7afd8581fb31dd38ff0ca372937) | fix: propagate default overrides through alias resolution | 2026-07-25 15:46:36 UTC |
 
 ## Neighbors
 

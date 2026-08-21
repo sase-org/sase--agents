@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0692ce7`](https://github.com/sase-org/sase/commit/0692ce76c6f3e487c42640bc0327482f199f52f9) | fix: resolve GitHub project refs by workspace (sase-4d.3) | 2026-06-06 09:58:19 EDT |
+| sase | [`0692ce7`](https://github.com/sase-org/sase/commit/0692ce76c6f3e487c42640bc0327482f199f52f9) | fix: resolve GitHub project refs by workspace (sase-4d.3) | 2026-06-06 13:58:19 UTC |
 
 ## Neighbors
 

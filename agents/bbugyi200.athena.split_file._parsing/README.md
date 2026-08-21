@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`15ff011`](https://github.com/sase-org/sase/commit/15ff01115bf02e3d83da79bebb1e72f6913913e4) | ref: split xprompt VCS parsing helpers | 2026-06-06 10:34:39 EDT |
+| sase | [`15ff011`](https://github.com/sase-org/sase/commit/15ff01115bf02e3d83da79bebb1e72f6913913e4) | ref: split xprompt VCS parsing helpers | 2026-06-06 14:34:39 UTC |
 
 ## Neighbors
 

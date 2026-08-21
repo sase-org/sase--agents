@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2ff2381`](https://github.com/sase-org/sase/commit/2ff238114b384cc1ee5b1e9d755cc037c922eb0e) | chore: Add SDD prompt and plan for move\_consumed\_plan | 2026-07-06 10:46:11 EDT |
+| sase | [`2ff2381`](https://github.com/sase-org/sase/commit/2ff238114b384cc1ee5b1e9d755cc037c922eb0e) | chore: Add SDD prompt and plan for move\_consumed\_plan | 2026-07-06 14:46:11 UTC |

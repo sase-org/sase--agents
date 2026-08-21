@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`50f9a16`](https://github.com/sase-org/sase/commit/50f9a1624fdf85c55c9c6ee68fbbd443a6999448) | fix(axe): prefer recorded daemon lock holder | 2026-06-28 08:19:27 EDT |
-| code | sase | [`b7bdd31`](https://github.com/sase-org/sase/commit/b7bdd3185a072a216f113331a31d1a053e836675) | feat(ace): add capital-letter auto-approve shortcuts on the Update panel | 2026-08-20 13:55:37 EDT |
+| — | sase | [`50f9a16`](https://github.com/sase-org/sase/commit/50f9a1624fdf85c55c9c6ee68fbbd443a6999448) | fix(axe): prefer recorded daemon lock holder | 2026-06-28 12:19:27 UTC |
+| code | sase | [`b7bdd31`](https://github.com/sase-org/sase/commit/b7bdd3185a072a216f113331a31d1a053e836675) | feat(ace): add capital-letter auto-approve shortcuts on the Update panel | 2026-08-20 17:55:37 UTC |

@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`7d4afb3`](https://github.com/sase-org/sase/commit/7d4afb3948a3236ea393aeaeb46976ba9e458f67) | feat(cli)!: render compact bead rows with glyph-only type cells | 2026-07-31 13:13:49 EDT |
+| code | sase | [`7d4afb3`](https://github.com/sase-org/sase/commit/7d4afb3948a3236ea393aeaeb46976ba9e458f67) | feat(cli)!: render compact bead rows with glyph-only type cells | 2026-07-31 17:13:49 UTC |
 
 ## Neighbors
 

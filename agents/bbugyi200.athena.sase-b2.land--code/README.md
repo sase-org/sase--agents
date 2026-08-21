@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a78894e`](https://github.com/sase-org/sase/commit/a78894e7c409ce576b873af1526570b71d367cce) | fix: resolve artifact entities for workspace projects | 2026-07-30 00:12:07 EDT |
+| sase | [`a78894e`](https://github.com/sase-org/sase/commit/a78894e7c409ce576b873af1526570b71d367cce) | fix: resolve artifact entities for workspace projects | 2026-07-30 04:12:07 UTC |
 
 ## Neighbors
 

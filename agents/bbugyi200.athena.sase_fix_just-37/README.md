@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`01d2a53`](https://github.com/sase-org/sase/commit/01d2a53d20419db4d02ce788576dc703c31802b2) | fix: detect stale core bindings with aliases | 2026-06-04 11:14:05 EDT |
+| sase | [`01d2a53`](https://github.com/sase-org/sase/commit/01d2a53d20419db4d02ce788576dc703c31802b2) | fix: detect stale core bindings with aliases | 2026-06-04 15:14:05 UTC |

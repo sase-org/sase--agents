@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`e68ff17`](https://github.com/sase-org/sase/commit/e68ff172ddd53906806432e3f886ece2a203c7e3) | fix: clone launch sidecars from authoritative remotes | 2026-07-15 11:27:02 EDT |
+| code | sase | [`e68ff17`](https://github.com/sase-org/sase/commit/e68ff172ddd53906806432e3f886ece2a203c7e3) | fix: clone launch sidecars from authoritative remotes | 2026-07-15 15:27:02 UTC |
 
 ## Neighbors
 

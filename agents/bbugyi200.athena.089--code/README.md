@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9ca7fe1`](https://github.com/sase-org/sase/commit/9ca7fe19c1d042a2cf8a6c91a545a588e4375dcf) | feat(llm): add last-resort tails for model-alias pools | 2026-08-19 18:21:28 EDT |
+| sase | [`9ca7fe1`](https://github.com/sase-org/sase/commit/9ca7fe19c1d042a2cf8a6c91a545a588e4375dcf) | feat(llm): add last-resort tails for model-alias pools | 2026-08-19 22:21:28 UTC |

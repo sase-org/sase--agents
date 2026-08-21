@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`069d09c`](https://github.com/sase-org/sase/commit/069d09c90380d477a9a5bab6b84faadfcfa1815f) | feat(config): add memory.h1\_title and memory.glossary, deprecate legacy top-level keys | 2026-08-09 10:55:27 EDT |
+| sase | [`069d09c`](https://github.com/sase-org/sase/commit/069d09c90380d477a9a5bab6b84faadfcfa1815f) | feat(config): add memory.h1\_title and memory.glossary, deprecate legacy top-level keys | 2026-08-09 14:55:27 UTC |
 
 ## Neighbors
 

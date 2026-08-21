@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`945c92b`](https://github.com/sase-org/sase/commit/945c92b4cf79bca1c8ff5c0e8a4504eacc2e6240) | chore: Add SDD prompt and plan for skills\_log | 2026-06-15 16:40:57 EDT |
-| sase | [`32617fc`](https://github.com/sase-org/sase/commit/32617fc101cf575168d3810b0559c320e2246020) | feat: add skills log command | 2026-06-15 16:56:15 EDT |
+| sase | [`945c92b`](https://github.com/sase-org/sase/commit/945c92b4cf79bca1c8ff5c0e8a4504eacc2e6240) | chore: Add SDD prompt and plan for skills\_log | 2026-06-15 20:40:57 UTC |
+| sase | [`32617fc`](https://github.com/sase-org/sase/commit/32617fc101cf575168d3810b0559c320e2246020) | feat: add skills log command | 2026-06-15 20:56:15 UTC |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d1b6f01`](https://github.com/sase-org/sase/commit/d1b6f01a9e1ae04bb912cb17f360aaafd6b9df25) | fix(axe): refuse to evict workspace sidecar clones holding unpublished bead commits | 2026-08-05 16:25:27 EDT |
+| sase | [`d1b6f01`](https://github.com/sase-org/sase/commit/d1b6f01a9e1ae04bb912cb17f360aaafd6b9df25) | fix(axe): refuse to evict workspace sidecar clones holding unpublished bead commits | 2026-08-05 20:25:27 UTC |
 
 ## Neighbors
 

@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a7e1fa4`](https://github.com/sase-org/sase/commit/a7e1fa475034946218c05705160cac41678348b5) | chore: Add SDD prompt and plan for answered\_question\_status | 2026-05-29 13:55:06 EDT |
-| sase | [`83eabc5`](https://github.com/sase-org/sase/commit/83eabc5cc5f0f5d447414a6f636e5731240a45f5) | fix: mark answered planner followups done | 2026-05-29 13:59:51 EDT |
+| sase | [`a7e1fa4`](https://github.com/sase-org/sase/commit/a7e1fa475034946218c05705160cac41678348b5) | chore: Add SDD prompt and plan for answered\_question\_status | 2026-05-29 17:55:06 UTC |
+| sase | [`83eabc5`](https://github.com/sase-org/sase/commit/83eabc5cc5f0f5d447414a6f636e5731240a45f5) | fix: mark answered planner followups done | 2026-05-29 17:59:51 UTC |

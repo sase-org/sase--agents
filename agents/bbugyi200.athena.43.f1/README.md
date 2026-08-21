@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`00627c6`](https://github.com/sase-org/sase/commit/00627c68b14e56450374cf8d7773826c8e38cc9e) | chore: Add SDD prompt and plan for sase\_core\_rs\_011\_release\_pr | 2026-06-09 08:21:28 EDT |
-| sase | [`e5c3453`](https://github.com/sase-org/sase/commit/e5c3453da23c23896157913d73e2345a336e3fea) | chore: Add SDD prompt and plan for sase\_core\_rs\_0\_1\_1\_release\_pr | 2026-06-09 08:33:16 EDT |
+| sase | [`00627c6`](https://github.com/sase-org/sase/commit/00627c68b14e56450374cf8d7773826c8e38cc9e) | chore: Add SDD prompt and plan for sase\_core\_rs\_011\_release\_pr | 2026-06-09 12:21:28 UTC |
+| sase | [`e5c3453`](https://github.com/sase-org/sase/commit/e5c3453da23c23896157913d73e2345a336e3fea) | chore: Add SDD prompt and plan for sase\_core\_rs\_0\_1\_1\_release\_pr | 2026-06-09 12:33:16 UTC |
 
 ## Neighbors
 

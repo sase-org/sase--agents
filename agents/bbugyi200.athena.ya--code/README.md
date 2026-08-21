@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`09e5fc4`](https://github.com/sase-org/sase/commit/09e5fc43e7dc2209c25145aa239d89519bfe63eb) | feat(ace): show plan tier and epic phase/wave/size counts in approval toasts | 2026-08-12 08:26:18 EDT |
+| sase | [`09e5fc4`](https://github.com/sase-org/sase/commit/09e5fc43e7dc2209c25145aa239d89519bfe63eb) | feat(ace): show plan tier and epic phase/wave/size counts in approval toasts | 2026-08-12 12:26:18 UTC |

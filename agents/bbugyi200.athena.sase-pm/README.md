@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d6bade4`](https://github.com/sase-org/sase/commit/d6bade4f71da011a5b393185703516ef0ebdbe62) | fix(amd): privatize unused public long-memory helpers | 2026-08-18 08:27:38 EDT |
+| sase | [`d6bade4`](https://github.com/sase-org/sase/commit/d6bade4f71da011a5b393185703516ef0ebdbe62) | fix(amd): privatize unused public long-memory helpers | 2026-08-18 12:27:38 UTC |

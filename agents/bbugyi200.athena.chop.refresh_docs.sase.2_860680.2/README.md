@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c14e8a4`](https://github.com/sase-org/sase/commit/c14e8a4484577cfea934cb7069192cf4f220aa11) | docs(llms): fix source-layout table misattribution for alias name constants | 2026-07-31 19:07:14 EDT |
+| sase | [`c14e8a4`](https://github.com/sase-org/sase/commit/c14e8a4484577cfea934cb7069192cf4f220aa11) | docs(llms): fix source-layout table misattribution for alias name constants | 2026-07-31 23:07:14 UTC |
 
 ## Neighbors
 

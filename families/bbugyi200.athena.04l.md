@@ -36,9 +36,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`3c0761f`](https://github.com/sase-org/sase/commit/3c0761f2e1c978ed48e2b2c105ac6de4c76e5044) | chore: Add SDD prompt and plan for directive\_value\_fanout | 2026-06-23 14:44:25 EDT |
-| — | sase | [`6d26305`](https://github.com/sase-org/sase/commit/6d263059944d092943b17224dff6a14419104f8a) | feat: support directive value fanout | 2026-06-23 15:00:16 EDT |
-| 2 | sase | [`eefc449`](https://github.com/sase-org/sase/commit/eefc44983918c15a3f5ca6f20e86178e3748a377) | fix(ace-tui): nest each family monitor under the agent that started it | 2026-08-17 09:32:14 EDT |
+| — | sase | [`3c0761f`](https://github.com/sase-org/sase/commit/3c0761f2e1c978ed48e2b2c105ac6de4c76e5044) | chore: Add SDD prompt and plan for directive\_value\_fanout | 2026-06-23 18:44:25 UTC |
+| — | sase | [`6d26305`](https://github.com/sase-org/sase/commit/6d263059944d092943b17224dff6a14419104f8a) | feat: support directive value fanout | 2026-06-23 19:00:16 UTC |
+| 2 | sase | [`eefc449`](https://github.com/sase-org/sase/commit/eefc44983918c15a3f5ca6f20e86178e3748a377) | fix(ace-tui): nest each family monitor under the agent that started it | 2026-08-17 13:32:14 UTC |
 
 ## Neighbors
 

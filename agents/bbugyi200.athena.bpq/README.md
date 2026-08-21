@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9d0eecf`](https://github.com/sase-org/sase/commit/9d0eecf406650e3aa9780411fdaf35ea124d6bb1) | chore: Add SDD prompt and plan for obsidian\_sibling\_repo | 2026-05-30 15:44:29 EDT |
+| sase | [`9d0eecf`](https://github.com/sase-org/sase/commit/9d0eecf406650e3aa9780411fdaf35ea124d6bb1) | chore: Add SDD prompt and plan for obsidian\_sibling\_repo | 2026-05-30 19:44:29 UTC |
 
 ## Neighbors
 

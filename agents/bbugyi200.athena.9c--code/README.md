@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0a124f7`](https://github.com/sase-org/sase/commit/0a124f74492e310a7abea7a8828f2d4e0d01864e) | fix: release runner slots while awaiting answers | 2026-07-15 13:32:49 EDT |
+| sase | [`0a124f7`](https://github.com/sase-org/sase/commit/0a124f74492e310a7abea7a8828f2d4e0d01864e) | fix: release runner slots while awaiting answers | 2026-07-15 17:32:49 UTC |
 
 ## Neighbors
 

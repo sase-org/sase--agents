@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`df4777e`](https://github.com/sase-org/sase/commit/df4777eaa8943267bcf75c54f3282783ed8d3344) | refactor(tui): split clan display implementation | 2026-07-19 02:51:48 EDT |
+| sase | [`df4777e`](https://github.com/sase-org/sase/commit/df4777eaa8943267bcf75c54f3282783ed8d3344) | refactor(tui): split clan display implementation | 2026-07-19 06:51:48 UTC |
 
 ## Neighbors
 

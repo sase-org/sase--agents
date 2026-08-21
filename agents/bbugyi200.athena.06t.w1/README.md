@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`804c6d7`](https://github.com/sase-org/sase/commit/804c6d72f8a7dbbf55506a6e7c40daf33adf5278) | chore: Add SDD prompt and plan for update\_dedup\_plugin\_rows | 2026-06-26 07:45:28 EDT |
-| sase | [`5ab6374`](https://github.com/sase-org/sase/commit/5ab6374a57897567b762cb14cc1b48baddc4a791) | fix(uv\_tool): dedupe plugin rows in update surfaces | 2026-06-26 07:51:30 EDT |
+| sase | [`804c6d7`](https://github.com/sase-org/sase/commit/804c6d72f8a7dbbf55506a6e7c40daf33adf5278) | chore: Add SDD prompt and plan for update\_dedup\_plugin\_rows | 2026-06-26 11:45:28 UTC |
+| sase | [`5ab6374`](https://github.com/sase-org/sase/commit/5ab6374a57897567b762cb14cc1b48baddc4a791) | fix(uv\_tool): dedupe plugin rows in update surfaces | 2026-06-26 11:51:30 UTC |
 
 ## Neighbors
 

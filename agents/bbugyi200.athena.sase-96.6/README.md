@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`396c9a9`](https://github.com/sase-org/sase/commit/396c9a908196141725d1bf12bf8ae33f793fd217) | test: guard against system-temp leakage (sase-96.6) | 2026-07-25 13:35:48 EDT |
+| sase | [`396c9a9`](https://github.com/sase-org/sase/commit/396c9a908196141725d1bf12bf8ae33f793fd217) | test: guard against system-temp leakage (sase-96.6) | 2026-07-25 17:35:48 UTC |
 
 ## Neighbors
 

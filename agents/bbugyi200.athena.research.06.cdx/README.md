@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`38c886f`](https://github.com/sase-org/sase/commit/38c886f18eeaba38b0dcfaec3f4966deec8635ad) | docs: research xprompt reasoning effort | 2026-06-22 12:36:12 EDT |
+| sase | [`38c886f`](https://github.com/sase-org/sase/commit/38c886f18eeaba38b0dcfaec3f4966deec8635ad) | docs: research xprompt reasoning effort | 2026-06-22 16:36:12 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0b.cld](../bbugyi200.athena.research.0b.cld/README.md) | research hood | active |
 | [research.0b.final](../bbugyi200.athena.research.0b.final/README.md) | research hood | active |
 | [research.0b.image](../bbugyi200.athena.research.0b.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

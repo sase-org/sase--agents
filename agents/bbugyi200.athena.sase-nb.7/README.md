@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`497d383`](https://github.com/sase-org/sase/commit/497d383aa16a9bbfb24bc001ed9f99fd9e03e2b7) | feat(cli): add sase flag group and flags.\* doctor checks | 2026-08-16 19:07:38 EDT |
+| sase | [`497d383`](https://github.com/sase-org/sase/commit/497d383aa16a9bbfb24bc001ed9f99fd9e03e2b7) | feat(cli): add sase flag group and flags.\* doctor checks | 2026-08-16 23:07:38 UTC |
 
 ## Neighbors
 

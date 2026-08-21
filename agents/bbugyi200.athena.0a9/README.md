@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e0addf7`](https://github.com/sase-org/sase/commit/e0addf7f223d96b3a15f21dc1de40b9e046a3e82) | chore: Add SDD prompt and plan for fix\_axe\_daemon\_sigterm\_handler\_race | 2026-06-29 12:46:33 EDT |
-| sase | [`98d5df8`](https://github.com/sase-org/sase/commit/98d5df888895bc94346c63b9c068861eb54503f6) | test: install axe SIGTERM handler before readiness | 2026-06-29 12:51:20 EDT |
+| sase | [`e0addf7`](https://github.com/sase-org/sase/commit/e0addf7f223d96b3a15f21dc1de40b9e046a3e82) | chore: Add SDD prompt and plan for fix\_axe\_daemon\_sigterm\_handler\_race | 2026-06-29 16:46:33 UTC |
+| sase | [`98d5df8`](https://github.com/sase-org/sase/commit/98d5df888895bc94346c63b9c068861eb54503f6) | test: install axe SIGTERM handler before readiness | 2026-06-29 16:51:20 UTC |
 
 ## Neighbors
 

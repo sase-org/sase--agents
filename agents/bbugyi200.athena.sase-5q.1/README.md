@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c13664d`](https://github.com/sase-org/sase/commit/c13664dc6b1ce83bd6f4ea9f4755d71dad78cf61) | feat!: make linked repository materialization opt-in (sase-5q.1) | 2026-07-11 19:28:55 EDT |
+| sase | [`c13664d`](https://github.com/sase-org/sase/commit/c13664dc6b1ce83bd6f4ea9f4755d71dad78cf61) | feat!: make linked repository materialization opt-in (sase-5q.1) | 2026-07-11 23:28:55 UTC |
 
 ## Neighbors
 

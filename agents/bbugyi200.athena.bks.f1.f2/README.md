@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f0510b7`](https://github.com/sase-org/sase/commit/f0510b7e6eaed1bc32571e9214bad522d775fa24) | chore: Add SDD prompt and plan for sase\_home\_path\_isolation | 2026-05-27 13:54:53 EDT |
-| sase | [`27a450b`](https://github.com/sase-org/sase/commit/27a450be5a4159d3b72deff9408d6f823c17f74f) | fix: isolate SASE home path resolution | 2026-05-27 14:35:52 EDT |
+| sase | [`f0510b7`](https://github.com/sase-org/sase/commit/f0510b7e6eaed1bc32571e9214bad522d775fa24) | chore: Add SDD prompt and plan for sase\_home\_path\_isolation | 2026-05-27 17:54:53 UTC |
+| sase | [`27a450b`](https://github.com/sase-org/sase/commit/27a450be5a4159d3b72deff9408d6f823c17f74f) | fix: isolate SASE home path resolution | 2026-05-27 18:35:52 UTC |
 
 ## Neighbors
 

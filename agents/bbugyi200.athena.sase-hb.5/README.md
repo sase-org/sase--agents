@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4915790`](https://github.com/sase-org/sase/commit/4915790830164da6fe12de0acf13508e79419772) | build(deps): raise sase-core-rs floor to 0.20.0 | 2026-08-08 02:21:32 EDT |
+| sase | [`4915790`](https://github.com/sase-org/sase/commit/4915790830164da6fe12de0acf13508e79419772) | build(deps): raise sase-core-rs floor to 0.20.0 | 2026-08-08 06:21:32 UTC |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`87961cd`](https://github.com/sase-org/sase/commit/87961cd0e17a2d5a137b327325bb68b28156cc28) | fix(test-selection): stop charging known flakes to the false-negative metric | 2026-08-06 16:31:38 EDT |
+| sase | [`87961cd`](https://github.com/sase-org/sase/commit/87961cd0e17a2d5a137b327325bb68b28156cc28) | fix(test-selection): stop charging known flakes to the false-negative metric | 2026-08-06 20:31:38 UTC |
 
 ## Neighbors
 

@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c3da9d5`](https://github.com/sase-org/sase/commit/c3da9d5b193e15d5271b471e088587fa617b4296) | chore: Add SDD prompt and plan for prompt\_g\_enter\_submit | 2026-06-17 16:11:59 EDT |
-| sase | [`a505b16`](https://github.com/sase-org/sase/commit/a505b16a9988dd50c2124a29e26f752377821413) | feat(ace)!: move current-pane submit to g-enter | 2026-06-17 16:29:25 EDT |
+| sase | [`c3da9d5`](https://github.com/sase-org/sase/commit/c3da9d5b193e15d5271b471e088587fa617b4296) | chore: Add SDD prompt and plan for prompt\_g\_enter\_submit | 2026-06-17 20:11:59 UTC |
+| sase | [`a505b16`](https://github.com/sase-org/sase/commit/a505b16a9988dd50c2124a29e26f752377821413) | feat(ace)!: move current-pane submit to g-enter | 2026-06-17 20:29:25 UTC |
 
 ## Neighbors
 

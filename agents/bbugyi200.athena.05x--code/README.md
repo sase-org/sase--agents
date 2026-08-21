@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`27033f3`](https://github.com/sase-org/sase/commit/27033f367a371a4d6b6003d01f8b4b0c6c9025ce) | docs(readme): drop explicit-only qualifier from agent status cells | 2026-08-18 08:12:48 EDT |
+| sase | [`27033f3`](https://github.com/sase-org/sase/commit/27033f367a371a4d6b6003d01f8b4b0c6c9025ce) | docs(readme): drop explicit-only qualifier from agent status cells | 2026-08-18 12:12:48 UTC |
 
 ## Neighbors
 

@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`286a809`](https://github.com/sase-org/sase/commit/286a8090666bc2587736e1f143d0ba631741bde6) | feat(ace): show phase bead and authored plan context | 2026-07-20 11:29:20 EDT |
+| code | sase | [`286a809`](https://github.com/sase-org/sase/commit/286a8090666bc2587736e1f143d0ba631741bde6) | feat(ace): show phase bead and authored plan context | 2026-07-20 15:29:20 UTC |

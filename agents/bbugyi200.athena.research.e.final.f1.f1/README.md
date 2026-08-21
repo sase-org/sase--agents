@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`95b1d49`](https://github.com/sase-org/sase/commit/95b1d49559d54f4fe4ad13f237c959188c9856e5) | chore: Add SDD prompt and plan for runners\_uppercase\_r | 2026-06-14 11:22:14 EDT |
-| sase | [`1c4e039`](https://github.com/sase-org/sase/commit/1c4e0394fdaf8811887ae330e5d7f1111563b3ac) | feat(ace): move runners panel to leader \`,R\` | 2026-06-14 11:31:00 EDT |
+| sase | [`95b1d49`](https://github.com/sase-org/sase/commit/95b1d49559d54f4fe4ad13f237c959188c9856e5) | chore: Add SDD prompt and plan for runners\_uppercase\_r | 2026-06-14 15:22:14 UTC |
+| sase | [`1c4e039`](https://github.com/sase-org/sase/commit/1c4e0394fdaf8811887ae330e5d7f1111563b3ac) | feat(ace): move runners panel to leader \`,R\` | 2026-06-14 15:31:00 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 285 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 286 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

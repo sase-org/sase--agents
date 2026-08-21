@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`46308f9`](https://github.com/sase-org/sase/commit/46308f980737652aebeb98336ac7ab34c6edd9d3) | fix(grok): auto-disable grok on Grok Build's paid usage-balance failure | 2026-08-18 08:57:40 EDT |
+| sase | [`46308f9`](https://github.com/sase-org/sase/commit/46308f980737652aebeb98336ac7ab34c6edd9d3) | fix(grok): auto-disable grok on Grok Build's paid usage-balance failure | 2026-08-18 12:57:40 UTC |

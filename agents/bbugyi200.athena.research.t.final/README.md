@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6a00e72`](https://github.com/sase-org/sase/commit/6a00e7237a7e61d6afddc6f52aa8c4e42bb95789) | docs: consolidate Gemini Antigravity research | 2026-06-19 14:18:28 EDT |
+| sase | [`6a00e72`](https://github.com/sase-org/sase/commit/6a00e7237a7e61d6afddc6f52aa8c4e42bb95789) | docs: consolidate Gemini Antigravity research | 2026-06-19 18:18:28 UTC |
 
 ## Neighbors
 
@@ -81,4 +81,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 287 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

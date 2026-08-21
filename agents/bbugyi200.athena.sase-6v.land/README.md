@@ -22,8 +22,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`de315ca`](https://github.com/sase-org/sase/commit/de315ca0f4263f4cefe50d1d66aa281addc6c9f5) | docs: fix stale chop reference in AXE daemon post (sase-6v) | 2026-07-18 23:02:10 EDT |
-| sase | [`f6dc6d7`](https://github.com/sase-org/sase/commit/f6dc6d7c3469de29bf0acb7baa3b74b1211e7a1d) | refactor: drop unused chop symbols after epic close (sase-6v) | 2026-07-18 23:11:33 EDT |
+| sase | [`de315ca`](https://github.com/sase-org/sase/commit/de315ca0f4263f4cefe50d1d66aa281addc6c9f5) | docs: fix stale chop reference in AXE daemon post (sase-6v) | 2026-07-19 03:02:10 UTC |
+| sase | [`f6dc6d7`](https://github.com/sase-org/sase/commit/f6dc6d7c3469de29bf0acb7baa3b74b1211e7a1d) | refactor: drop unused chop symbols after epic close (sase-6v) | 2026-07-19 03:11:33 UTC |
 
 ## Neighbors
 

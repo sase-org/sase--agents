@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ef2cc16`](https://github.com/sase-org/sase/commit/ef2cc164e8ed6269775605c0ce2269b3c7120c91) | fix(plugins): detect receipt-owned installations | 2026-07-23 12:01:17 EDT |
+| sase | [`ef2cc16`](https://github.com/sase-org/sase/commit/ef2cc164e8ed6269775605c0ce2269b3c7120c91) | fix(plugins): detect receipt-owned installations | 2026-07-23 16:01:17 UTC |

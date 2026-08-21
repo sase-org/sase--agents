@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`773a1b5`](https://github.com/sase-org/sase/commit/773a1b598705626e3d1161734f46e6ab2bca64e5) | chore: Add SDD prompt and plan for sase\_config\_panel\_redesign | 2026-06-26 09:07:45 EDT |
-| sase | [`df3f47d`](https://github.com/sase-org/sase/commit/df3f47dd3605645b44ba1c6cd5dc145c8e4cce4c) | feat(tui): redesign SASE Config panel | 2026-06-26 09:23:07 EDT |
+| sase | [`773a1b5`](https://github.com/sase-org/sase/commit/773a1b598705626e3d1161734f46e6ab2bca64e5) | chore: Add SDD prompt and plan for sase\_config\_panel\_redesign | 2026-06-26 13:07:45 UTC |
+| sase | [`df3f47d`](https://github.com/sase-org/sase/commit/df3f47dd3605645b44ba1c6cd5dc145c8e4cce4c) | feat(tui): redesign SASE Config panel | 2026-06-26 13:23:07 UTC |
 
 ## Neighbors
 

@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`86d820f`](https://github.com/sase-org/sase/commit/86d820f0b89700c4befb975aacc753032d7051a3) | build(deps): raise sase-core-rs floor to 0.17.3 | 2026-07-31 15:04:20 EDT |
+| sase | [`86d820f`](https://github.com/sase-org/sase/commit/86d820f0b89700c4befb975aacc753032d7051a3) | build(deps): raise sase-core-rs floor to 0.17.3 | 2026-07-31 19:04:20 UTC |

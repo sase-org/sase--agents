@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f965273`](https://github.com/sase-org/sase/commit/f965273f0a223d4afc015d7090499c63c55d5513) | chore: Add SDD prompt and plan for agent\_detail\_header\_offthread\_diff | 2026-06-25 07:01:39 EDT |
-| sase | [`abe91de`](https://github.com/sase-org/sase/commit/abe91de7f22ed5773672b3e2eb94795de76a5b3a) | perf(tui): async enrich agent detail headers | 2026-06-25 07:21:13 EDT |
+| sase | [`f965273`](https://github.com/sase-org/sase/commit/f965273f0a223d4afc015d7090499c63c55d5513) | chore: Add SDD prompt and plan for agent\_detail\_header\_offthread\_diff | 2026-06-25 11:01:39 UTC |
+| sase | [`abe91de`](https://github.com/sase-org/sase/commit/abe91de7f22ed5773672b3e2eb94795de76a5b3a) | perf(tui): async enrich agent detail headers | 2026-06-25 11:21:13 UTC |
 
 ## Neighbors
 
@@ -78,4 +78,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 287 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

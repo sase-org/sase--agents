@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`84e09d5`](https://github.com/sase-org/sase/commit/84e09d5daf448aeb2235daee2d3f6aa28bdd1dbe) | feat(ace): rebind load-more panels to Ctrl+J / Ctrl+K | 2026-08-19 19:15:16 EDT |
+| sase | [`84e09d5`](https://github.com/sase-org/sase/commit/84e09d5daf448aeb2235daee2d3f6aa28bdd1dbe) | feat(ace): rebind load-more panels to Ctrl+J / Ctrl+K | 2026-08-19 23:15:16 UTC |
 
 ## Neighbors
 

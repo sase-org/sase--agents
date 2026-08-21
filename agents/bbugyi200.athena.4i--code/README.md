@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8d2179c`](https://github.com/sase-org/sase/commit/8d2179ced988a670782773751ec7c6c0858c6f5f) | fix(xprompt): preserve time-shaped wait dependency names | 2026-07-10 11:28:11 EDT |
+| sase | [`8d2179c`](https://github.com/sase-org/sase/commit/8d2179ced988a670782773751ec7c6c0858c6f5f) | fix(xprompt): preserve time-shaped wait dependency names | 2026-07-10 15:28:11 UTC |

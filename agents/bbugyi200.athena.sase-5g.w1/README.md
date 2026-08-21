@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b9d91d6`](https://github.com/sase-org/sase/commit/b9d91d6161335356e4013d77950df00e12b42e6a) | docs: add dynamic agent families user manual research | 2026-07-06 09:40:04 EDT |
+| sase | [`b9d91d6`](https://github.com/sase-org/sase/commit/b9d91d6161335356e4013d77950df00e12b42e6a) | docs: add dynamic agent families user manual research | 2026-07-06 13:40:04 UTC |
 
 ## Neighbors
 

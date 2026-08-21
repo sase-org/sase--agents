@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`d27422f`](https://github.com/sase-org/sase/commit/d27422fd7e8007c5b3073f4ce9bc0d083d17b571) | fix(tui): flag missing agent wait targets | 2026-07-21 12:06:25 EDT |
+| code | sase | [`d27422f`](https://github.com/sase-org/sase/commit/d27422fd7e8007c5b3073f4ce9bc0d083d17b571) | fix(tui): flag missing agent wait targets | 2026-07-21 16:06:25 UTC |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b0a77ac`](https://github.com/sase-org/sase/commit/b0a77aca283fa5708fb9f68c5f46d9fb16b73b1e) | chore(memory): migrate project config to nested memory keys | 2026-08-09 11:29:51 EDT |
+| sase | [`b0a77ac`](https://github.com/sase-org/sase/commit/b0a77aca283fa5708fb9f68c5f46d9fb16b73b1e) | chore(memory): migrate project config to nested memory keys | 2026-08-09 15:29:51 UTC |
 
 ## Neighbors
 

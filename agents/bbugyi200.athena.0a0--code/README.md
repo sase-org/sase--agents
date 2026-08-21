@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1cc5a23`](https://github.com/sase-org/sase/commit/1cc5a239af8693ca16c8899686bb3f9556b68d40) | fix(attachments): isolate Pandoc scratch from Git worktrees | 2026-08-21 14:47:10 EDT |
+| sase | [`1cc5a23`](https://github.com/sase-org/sase/commit/1cc5a239af8693ca16c8899686bb3f9556b68d40) | fix(attachments): isolate Pandoc scratch from Git worktrees | 2026-08-21 18:47:10 UTC |

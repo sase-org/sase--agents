@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5f554c3`](https://github.com/sase-org/sase/commit/5f554c3ea4112ef6e472ef5eced04978776298d5) | feat(plan-search): support generic document sidecar roles | 2026-07-29 11:25:44 EDT |
+| sase | [`5f554c3`](https://github.com/sase-org/sase/commit/5f554c3ea4112ef6e472ef5eced04978776298d5) | feat(plan-search): support generic document sidecar roles | 2026-07-29 15:25:44 UTC |
 
 ## Neighbors
 

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`027565e`](https://github.com/sase-org/sase/commit/027565e95ee9a3ff133865ea4338159c67482721) | docs: add config TUI research infographic | 2026-06-22 13:01:35 EDT |
+| sase | [`027565e`](https://github.com/sase-org/sase/commit/027565e95ee9a3ff133865ea4338159c67482721) | docs: add config TUI research infographic | 2026-06-22 17:01:35 UTC |
 
 ## Neighbors
 
@@ -77,4 +77,4 @@
 | [research.0b.final](../bbugyi200.athena.research.0b.final/README.md) | research hood | active |
 | [research.0b.image](../bbugyi200.athena.research.0b.image/README.md) | research hood | active |
 | [research.0c.cdx](../bbugyi200.athena.research.0c.cdx/README.md) | research hood | active |
-| … and 287 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

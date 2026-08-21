@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`204537c`](https://github.com/sase-org/sase/commit/204537c977cf825e2deaeb20baff0f2d8d06e002) | test: make CI-failing tests independent of host timezone and PATH (#285) | 2026-08-08 09:37:57 EDT |
+| sase | [`204537c`](https://github.com/sase-org/sase/commit/204537c977cf825e2deaeb20baff0f2d8d06e002) | test: make CI-failing tests independent of host timezone and PATH (#285) | 2026-08-08 13:37:57 UTC |
 
 ## Neighbors
 

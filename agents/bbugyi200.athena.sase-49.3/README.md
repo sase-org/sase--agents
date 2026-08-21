@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`de1dc17`](https://github.com/sase-org/sase/commit/de1dc1796f85f29eeeb4e142d6bdc6194bcd70fb) | feat: enforce lifecycle launch defaults (sase-49.3) | 2026-06-01 13:42:46 EDT |
+| sase | [`de1dc17`](https://github.com/sase-org/sase/commit/de1dc1796f85f29eeeb4e142d6bdc6194bcd70fb) | feat: enforce lifecycle launch defaults (sase-49.3) | 2026-06-01 17:42:46 UTC |
 
 ## Neighbors
 

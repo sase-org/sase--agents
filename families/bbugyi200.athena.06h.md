@@ -27,5 +27,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`d309209`](https://github.com/sase-org/sase/commit/d3092097634024e4d000201137a1aedfd918d742) | feat(tui): persist agent directive edits in background | 2026-06-25 17:00:03 EDT |
-| 1 | sase | [`e5a180d`](https://github.com/sase-org/sase/commit/e5a180de3a0f5260063c789518721968731b457b) | feat(tui): hide empty Beads detail property rows | 2026-08-18 13:41:28 EDT |
+| — | sase | [`d309209`](https://github.com/sase-org/sase/commit/d3092097634024e4d000201137a1aedfd918d742) | feat(tui): persist agent directive edits in background | 2026-06-25 21:00:03 UTC |
+| 1 | sase | [`e5a180d`](https://github.com/sase-org/sase/commit/e5a180de3a0f5260063c789518721968731b457b) | feat(tui): hide empty Beads detail property rows | 2026-08-18 17:41:28 UTC |

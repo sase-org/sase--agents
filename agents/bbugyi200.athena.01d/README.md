@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fde8b89`](https://github.com/sase-org/sase/commit/fde8b89c673efb83e7c5c70dc912e16df2b9f5fd) | chore: Add SDD prompt and plan for skip\_waiting\_for\_resolved\_dependencies | 2026-06-19 13:41:45 EDT |
-| sase | [`7debc17`](https://github.com/sase-org/sase/commit/7debc17587be50a51cd0cb906096fea31583b892) | fix: skip waits for resolved dependencies | 2026-06-19 13:56:30 EDT |
+| sase | [`fde8b89`](https://github.com/sase-org/sase/commit/fde8b89c673efb83e7c5c70dc912e16df2b9f5fd) | chore: Add SDD prompt and plan for skip\_waiting\_for\_resolved\_dependencies | 2026-06-19 17:41:45 UTC |
+| sase | [`7debc17`](https://github.com/sase-org/sase/commit/7debc17587be50a51cd0cb906096fea31583b892) | fix: skip waits for resolved dependencies | 2026-06-19 17:56:30 UTC |

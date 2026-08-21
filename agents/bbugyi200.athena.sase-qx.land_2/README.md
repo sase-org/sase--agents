@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`46e9672`](https://github.com/sase-org/sase/commit/46e9672a6b4b82b0582c6c1c3abdc611e582a226) | fix(agent): refuse hard-disabled providers on sase bead work launches | 2026-08-19 18:49:09 EDT |
+| sase | [`46e9672`](https://github.com/sase-org/sase/commit/46e9672a6b4b82b0582c6c1c3abdc611e582a226) | fix(agent): refuse hard-disabled providers on sase bead work launches | 2026-08-19 22:49:09 UTC |
 
 ## Neighbors
 

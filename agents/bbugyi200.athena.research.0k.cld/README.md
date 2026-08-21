@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`83e60b1`](https://github.com/sase-org/sase/commit/83e60b19b795df27fd7c54ee12900055d6570022) | docs(research): analyze one-PR-per-epic bead work migration | 2026-06-25 18:57:11 EDT |
+| sase | [`83e60b1`](https://github.com/sase-org/sase/commit/83e60b19b795df27fd7c54ee12900055d6570022) | docs(research): analyze one-PR-per-epic bead work migration | 2026-06-25 22:57:11 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`52c5ab2`](https://github.com/sase-org/sase/commit/52c5ab2748bc1e02e5a292b155fdf50f75c854f9) | chore: Add SDD prompt and plan for xprompts\_enabled\_skips\_embedded\_validation | 2026-06-19 14:39:47 EDT |
-| — | sase | [`86f89d4`](https://github.com/sase-org/sase/commit/86f89d40fe060d3d809f25b3024e2ab1e36323d1) | fix: ignore embedded prompts in disabled regions | 2026-06-19 14:47:20 EDT |
-| code | sase | [`ecb5c93`](https://github.com/sase-org/sase/commit/ecb5c939df060286609a659680b42ef494ebba41) | fix(ace): confirm selector builder on Enter when list is focused | 2026-08-14 13:27:05 EDT |
+| — | sase | [`52c5ab2`](https://github.com/sase-org/sase/commit/52c5ab2748bc1e02e5a292b155fdf50f75c854f9) | chore: Add SDD prompt and plan for xprompts\_enabled\_skips\_embedded\_validation | 2026-06-19 18:39:47 UTC |
+| — | sase | [`86f89d4`](https://github.com/sase-org/sase/commit/86f89d40fe060d3d809f25b3024e2ab1e36323d1) | fix: ignore embedded prompts in disabled regions | 2026-06-19 18:47:20 UTC |
+| code | sase | [`ecb5c93`](https://github.com/sase-org/sase/commit/ecb5c939df060286609a659680b42ef494ebba41) | fix(ace): confirm selector builder on Enter when list is focused | 2026-08-14 17:27:05 UTC |

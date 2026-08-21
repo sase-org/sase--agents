@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`71e6879`](https://github.com/sase-org/sase/commit/71e6879545310cfaf3aee3ec88d28bf76193f71d) | chore: Add SDD prompt and plan for jinja\_variable\_delete\_pairs | 2026-06-21 09:14:15 EDT |
-| sase | [`9720160`](https://github.com/sase-org/sase/commit/9720160f43fc2e81e618532832e4305940779b0d) | feat(tui): add Jinja variable paired deletion | 2026-06-21 09:23:36 EDT |
+| sase | [`71e6879`](https://github.com/sase-org/sase/commit/71e6879545310cfaf3aee3ec88d28bf76193f71d) | chore: Add SDD prompt and plan for jinja\_variable\_delete\_pairs | 2026-06-21 13:14:15 UTC |
+| sase | [`9720160`](https://github.com/sase-org/sase/commit/9720160f43fc2e81e618532832e4305940779b0d) | feat(tui): add Jinja variable paired deletion | 2026-06-21 13:23:36 UTC |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`da6105b`](https://github.com/sase-org/sase/commit/da6105b51edf8141b979478882ba6c0aa4b0a81a) | feat(test-selection): surface the scoped lane's summary on the success path | 2026-08-06 09:39:55 EDT |
+| sase | [`da6105b`](https://github.com/sase-org/sase/commit/da6105b51edf8141b979478882ba6c0aa4b0a81a) | feat(test-selection): surface the scoped lane's summary on the success path | 2026-08-06 13:39:55 UTC |
 
 ## Neighbors
 

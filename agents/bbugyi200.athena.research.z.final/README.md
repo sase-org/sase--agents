@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fbac771`](https://github.com/sase-org/sase/commit/fbac77176d04194bda0cb7041317a75131b9d1d9) | docs: consolidate sibling repo removal research | 2026-06-20 12:18:21 EDT |
+| sase | [`fbac771`](https://github.com/sase-org/sase/commit/fbac77176d04194bda0cb7041317a75131b9d1d9) | docs: consolidate sibling repo removal research | 2026-06-20 16:18:21 UTC |
 
 ## Neighbors
 
@@ -81,4 +81,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 287 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

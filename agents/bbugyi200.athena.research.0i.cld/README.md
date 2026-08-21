@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a939e51`](https://github.com/sase-org/sase/commit/a939e51f1f7c1a0943403fe1d90417850dcadf12) | docs: add research on parallel sase/sase-dev installs | 2026-06-25 16:05:44 EDT |
+| sase | [`a939e51`](https://github.com/sase-org/sase/commit/a939e51f1f7c1a0943403fe1d90417850dcadf12) | docs: add research on parallel sase/sase-dev installs | 2026-06-25 20:05:44 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

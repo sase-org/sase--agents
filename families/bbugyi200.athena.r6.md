@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`6e8029b`](https://github.com/sase-org/sase/commit/6e8029b7b460bf1c38e857bc0f605b0381a6f2cb) | feat(bead): colorize and syntax-highlight \`sase bead show\` | 2026-08-01 09:48:41 EDT |
+| code | sase | [`6e8029b`](https://github.com/sase-org/sase/commit/6e8029b7b460bf1c38e857bc0f605b0381a6f2cb) | feat(bead): colorize and syntax-highlight \`sase bead show\` | 2026-08-01 13:48:41 UTC |

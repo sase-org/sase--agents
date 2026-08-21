@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8692478`](https://github.com/sase-org/sase/commit/8692478c94f52ba34117cca2fa75fde74bea8a87) | fix(ace): route every jump-mode key to the pane that painted the hints | 2026-08-07 12:49:19 EDT |
+| sase | [`8692478`](https://github.com/sase-org/sase/commit/8692478c94f52ba34117cca2fa75fde74bea8a87) | fix(ace): route every jump-mode key to the pane that painted the hints | 2026-08-07 16:49:19 UTC |
 
 ## Neighbors
 

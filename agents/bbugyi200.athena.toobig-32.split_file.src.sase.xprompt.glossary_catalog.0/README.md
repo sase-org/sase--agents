@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2c6050e`](https://github.com/sase-org/sase/commit/2c6050e247f545ab0a0069def678216ca2c66607) | refactor(xprompt): split glossary\_catalog into focused modules | 2026-08-18 09:00:49 EDT |
+| sase | [`2c6050e`](https://github.com/sase-org/sase/commit/2c6050e247f545ab0a0069def678216ca2c66607) | refactor(xprompt): split glossary\_catalog into focused modules | 2026-08-18 13:00:49 UTC |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6136c45`](https://github.com/sase-org/sase/commit/6136c452923dbcac9de867a0e932aaeca9c2ea0c) | feat(agent-scan): expose runner slot waiting fields (sase-5u.3) | 2026-07-12 18:29:18 EDT |
+| sase | [`6136c45`](https://github.com/sase-org/sase/commit/6136c452923dbcac9de867a0e932aaeca9c2ea0c) | feat(agent-scan): expose runner slot waiting fields (sase-5u.3) | 2026-07-12 22:29:18 UTC |
 
 ## Neighbors
 

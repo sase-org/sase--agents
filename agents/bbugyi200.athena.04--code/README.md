@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a7953c4`](https://github.com/sase-org/sase/commit/a7953c42dd1d35c94f8a032d6cc2b9e7c8354a7d) | docs(skills): document literal prompt directives | 2026-07-07 00:51:11 EDT |
+| sase | [`a7953c4`](https://github.com/sase-org/sase/commit/a7953c42dd1d35c94f8a032d6cc2b9e7c8354a7d) | docs(skills): document literal prompt directives | 2026-07-07 04:51:11 UTC |

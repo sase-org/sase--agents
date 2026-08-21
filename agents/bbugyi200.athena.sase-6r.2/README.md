@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0c1c875`](https://github.com/sase-org/sase/commit/0c1c875d4179c9d1a4dd5293336c8561b81677ea) | perf: gate sidecar integration with freshness TTL (sase-6r.2) | 2026-07-18 07:48:58 EDT |
+| sase | [`0c1c875`](https://github.com/sase-org/sase/commit/0c1c875d4179c9d1a4dd5293336c8561b81677ea) | perf: gate sidecar integration with freshness TTL (sase-6r.2) | 2026-07-18 11:48:58 UTC |
 
 ## Neighbors
 

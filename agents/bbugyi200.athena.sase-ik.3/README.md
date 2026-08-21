@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`12af4fe`](https://github.com/sase-org/sase/commit/12af4fefe097d6c2bfea9e8f636609aad03aa612) | feat(glossary): consume wrapped match segments in ACE | 2026-08-10 08:17:14 EDT |
+| sase | [`12af4fe`](https://github.com/sase-org/sase/commit/12af4fefe097d6c2bfea9e8f636609aad03aa612) | feat(glossary): consume wrapped match segments in ACE | 2026-08-10 12:17:14 UTC |
 
 ## Neighbors
 

@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`a9770ee`](https://github.com/sase-org/sase/commit/a9770ee1937e2bab0f9c02fc1b40dd9fa9fdb3f3) | feat(tui): fold verbose BEAD detail rows | 2026-08-10 11:02:32 EDT |
+| code | sase | [`a9770ee`](https://github.com/sase-org/sase/commit/a9770ee1937e2bab0f9c02fc1b40dd9fa9fdb3f3) | feat(tui): fold verbose BEAD detail rows | 2026-08-10 15:02:32 UTC |

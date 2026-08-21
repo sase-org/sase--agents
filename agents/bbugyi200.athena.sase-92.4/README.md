@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5965216`](https://github.com/sase-org/sase/commit/596521653e220b29c3155b53aa464226b99a99ba) | fix(agents): prevent owner duplicate legacy imports (sase-92.4) | 2026-07-25 09:34:58 EDT |
+| sase | [`5965216`](https://github.com/sase-org/sase/commit/596521653e220b29c3155b53aa464226b99a99ba) | fix(agents): prevent owner duplicate legacy imports (sase-92.4) | 2026-07-25 13:34:58 UTC |
 
 ## Neighbors
 

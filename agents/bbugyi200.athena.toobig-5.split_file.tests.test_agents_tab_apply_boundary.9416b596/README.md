@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b050350`](https://github.com/sase-org/sase/commit/b05035080f3bf50ef26dca1aa7267498344a8c47) | test: split agents tab apply boundary coverage | 2026-07-20 11:48:26 EDT |
+| sase | [`b050350`](https://github.com/sase-org/sase/commit/b05035080f3bf50ef26dca1aa7267498344a8c47) | test: split agents tab apply boundary coverage | 2026-07-20 15:48:26 UTC |
 
 ## Neighbors
 

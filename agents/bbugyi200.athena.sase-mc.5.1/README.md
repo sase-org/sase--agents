@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`56c0df1`](https://github.com/sase-org/sase/commit/56c0df12b659e28acb29a5a9d8fae16aa9fe2d91) | fix(tui): respect provider disables in Models panel routing | 2026-08-15 16:52:47 EDT |
+| sase | [`56c0df1`](https://github.com/sase-org/sase/commit/56c0df12b659e28acb29a5a9d8fae16aa9fe2d91) | fix(tui): respect provider disables in Models panel routing | 2026-08-15 20:52:47 UTC |
 
 ## Neighbors
 

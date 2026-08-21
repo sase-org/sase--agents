@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`15d19ed`](https://github.com/sase-org/sase/commit/15d19ed9e2874d604699b5ed145e1e2115878d4f) | ref: split xprompt parsing tests | 2026-06-06 10:42:01 EDT |
+| sase | [`15d19ed`](https://github.com/sase-org/sase/commit/15d19ed9e2874d604699b5ed145e1e2115878d4f) | ref: split xprompt parsing tests | 2026-06-06 14:42:01 UTC |
 
 ## Neighbors
 

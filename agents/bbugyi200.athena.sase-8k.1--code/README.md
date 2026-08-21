@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`770ad01`](https://github.com/sase-org/sase/commit/770ad01ab111e5454d375ec786a1e60cb64c775d) | feat(config)!: add machine identity initialization (sase-8k.1) | 2026-07-22 11:51:28 EDT |
+| sase | [`770ad01`](https://github.com/sase-org/sase/commit/770ad01ab111e5454d375ec786a1e60cb64c775d) | feat(config)!: add machine identity initialization (sase-8k.1) | 2026-07-22 15:51:28 UTC |
 
 ## Neighbors
 

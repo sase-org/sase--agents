@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`80c8ec9`](https://github.com/sase-org/sase/commit/80c8ec952f874713c8c7ea03562e116279bf10bb) | chore: audit agents TUI full refreshes | 2026-06-08 13:22:12 EDT |
-| sase | [`eedee20`](https://github.com/sase-org/sase/commit/eedee20702f0a67b047a541bf38a97499bc6655f) | chore: add agents tui refresh research | 2026-06-08 13:33:27 EDT |
+| sase | [`80c8ec9`](https://github.com/sase-org/sase/commit/80c8ec952f874713c8c7ea03562e116279bf10bb) | chore: audit agents TUI full refreshes | 2026-06-08 17:22:12 UTC |
+| sase | [`eedee20`](https://github.com/sase-org/sase/commit/eedee20702f0a67b047a541bf38a97499bc6655f) | chore: add agents tui refresh research | 2026-06-08 17:33:27 UTC |
 
 ## Neighbors
 
@@ -74,4 +74,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 291 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 292 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

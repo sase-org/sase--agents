@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`95cf873`](https://github.com/sase-org/sase/commit/95cf873ede28a9df74a0424dc72129cf879dc916) | fix: release runner claims after failed monitor handoff | 2026-08-14 12:27:21 EDT |
+| sase | [`95cf873`](https://github.com/sase-org/sase/commit/95cf873ede28a9df74a0424dc72129cf879dc916) | fix: release runner claims after failed monitor handoff | 2026-08-14 16:27:21 UTC |
 
 ## Neighbors
 

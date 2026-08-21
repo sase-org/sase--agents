@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`443566f`](https://github.com/sase-org/sase/commit/443566f7d058562d01111f63c904aa084059c2a4) | test(ace): pin the mid-stream SASE CONTEXT frame with a PNG snapshot | 2026-08-14 08:42:13 EDT |
+| sase | [`443566f`](https://github.com/sase-org/sase/commit/443566f7d058562d01111f63c904aa084059c2a4) | test(ace): pin the mid-stream SASE CONTEXT frame with a PNG snapshot | 2026-08-14 12:42:13 UTC |
 
 ## Neighbors
 

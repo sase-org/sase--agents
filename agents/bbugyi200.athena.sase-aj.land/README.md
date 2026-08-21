@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4f08f4f`](https://github.com/sase-org/sase/commit/4f08f4f1b1cbbc9221017ac14f67cad5bf938446) | fix(beads): land the sidecar commit-consolidation epic | 2026-07-28 19:33:38 EDT |
+| sase | [`4f08f4f`](https://github.com/sase-org/sase/commit/4f08f4f1b1cbbc9221017ac14f67cad5bf938446) | fix(beads): land the sidecar commit-consolidation epic | 2026-07-28 23:33:38 UTC |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3ffa4c7`](https://github.com/sase-org/sase/commit/3ffa4c7ac54ba663df67515baddee9f49569dcb3) | fix(ace): give bare family root the --0 display slot | 2026-07-08 14:31:34 EDT |
+| sase | [`3ffa4c7`](https://github.com/sase-org/sase/commit/3ffa4c7ac54ba663df67515baddee9f49569dcb3) | fix(ace): give bare family root the --0 display slot | 2026-07-08 18:31:34 UTC |
 
 ## Neighbors
 

@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aec67f3`](https://github.com/sase-org/sase/commit/aec67f31c975e754392542a07a738c40bc180d26) | fix(tests): give cached\_baselines a deterministic mtime tie-break | 2026-08-07 10:33:59 EDT |
+| sase | [`aec67f3`](https://github.com/sase-org/sase/commit/aec67f31c975e754392542a07a738c40bc180d26) | fix(tests): give cached\_baselines a deterministic mtime tie-break | 2026-08-07 14:33:59 UTC |

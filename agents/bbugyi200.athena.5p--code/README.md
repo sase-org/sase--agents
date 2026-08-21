@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`028ecae`](https://github.com/sase-org/sase/commit/028ecaea069c24c89dd2156106df60555d2cd2ec) | fix(tui): invalidate stale detail work before hint rendering | 2026-07-11 12:49:30 EDT |
+| sase | [`028ecae`](https://github.com/sase-org/sase/commit/028ecaea069c24c89dd2156106df60555d2cd2ec) | fix(tui): invalidate stale detail work before hint rendering | 2026-07-11 16:49:30 UTC |

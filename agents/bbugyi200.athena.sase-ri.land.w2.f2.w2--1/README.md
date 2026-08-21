@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`abf598b`](https://github.com/sase-org/sase/commit/abf598be5c09495625fd58c3355c26ac605262da) | feat(ace): prefix Glossary and Memory numbered-link shortcuts | 2026-08-21 10:30:33 EDT |
+| sase | [`abf598b`](https://github.com/sase-org/sase/commit/abf598be5c09495625fd58c3355c26ac605262da) | feat(ace): prefix Glossary and Memory numbered-link shortcuts | 2026-08-21 14:30:33 UTC |
 
 ## Neighbors
 

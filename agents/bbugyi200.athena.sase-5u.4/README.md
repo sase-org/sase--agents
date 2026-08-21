@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`82abd47`](https://github.com/sase-org/sase/commit/82abd478e5c4a6a29d2cfa101aca6d79441836b6) | feat(tui): expose runner slot wait state (sase-5u.4) | 2026-07-12 19:18:14 EDT |
+| sase | [`82abd47`](https://github.com/sase-org/sase/commit/82abd478e5c4a6a29d2cfa101aca6d79441836b6) | feat(tui): expose runner slot wait state (sase-5u.4) | 2026-07-12 23:18:14 UTC |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`27d04a6`](https://github.com/sase-org/sase/commit/27d04a679981f65c9efb655df8518da1731f2bf6) | feat(notification-gates)!: retire free-text smuggling from snooze, triage, and launch | 2026-08-07 22:29:07 EDT |
+| sase | [`27d04a6`](https://github.com/sase-org/sase/commit/27d04a679981f65c9efb655df8518da1731f2bf6) | feat(notification-gates)!: retire free-text smuggling from snooze, triage, and launch | 2026-08-08 02:29:07 UTC |
 
 ## Neighbors
 

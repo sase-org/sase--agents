@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`41bed16`](https://github.com/sase-org/sase/commit/41bed160a1fd26512650df835fd4f4f4d7db0165) | docs: update flat memory guidance (sase-4u.4) | 2026-06-17 19:55:56 EDT |
+| sase | [`41bed16`](https://github.com/sase-org/sase/commit/41bed160a1fd26512650df835fd4f4f4d7db0165) | docs: update flat memory guidance (sase-4u.4) | 2026-06-17 23:55:56 UTC |
 
 ## Neighbors
 

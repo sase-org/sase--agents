@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`605fbeb`](https://github.com/sase-org/sase/commit/605fbebd1064af07a5f92320393fa5efddfd687f) | feat(ace): add lazy Admin Center landing page | 2026-07-20 12:47:42 EDT |
+| — | sase | [`605fbeb`](https://github.com/sase-org/sase/commit/605fbebd1064af07a5f92320393fa5efddfd687f) | feat(ace): add lazy Admin Center landing page | 2026-07-20 16:47:42 UTC |
 
 ## Neighbors
 

@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`cb30d6f`](https://github.com/sase-org/sase/commit/cb30d6ff56ab0757c5a21771c132a069260db7aa) | chore: Add SDD prompt and plan for worker\_model | 2026-06-09 20:36:50 EDT |
-| code | sase | [`887f689`](https://github.com/sase-org/sase/commit/887f6890ce0323ec5608c940196ba2b76270b520) | fix: retry model capacity failures | 2026-07-10 16:25:53 EDT |
+| — | sase | [`cb30d6f`](https://github.com/sase-org/sase/commit/cb30d6ff56ab0757c5a21771c132a069260db7aa) | chore: Add SDD prompt and plan for worker\_model | 2026-06-10 00:36:50 UTC |
+| code | sase | [`887f689`](https://github.com/sase-org/sase/commit/887f6890ce0323ec5608c940196ba2b76270b520) | fix: retry model capacity failures | 2026-07-10 20:25:53 UTC |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2318047`](https://github.com/sase-org/sase/commit/23180476f1172081a947de96e76947767780755c) | feat(completion): complete glossary terms and harden install target choice | 2026-08-17 16:33:48 EDT |
+| sase | [`2318047`](https://github.com/sase-org/sase/commit/23180476f1172081a947de96e76947767780755c) | feat(completion): complete glossary terms and harden install target choice | 2026-08-17 20:33:48 UTC |
 
 ## Neighbors
 

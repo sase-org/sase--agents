@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`724be6a`](https://github.com/sase-org/sase/commit/724be6afcdec56cc0b4a4188406e425c7998f962) | chore: Add SDD prompt and plan for sase\_commit\_first\_try\_reliability | 2026-07-07 17:00:58 EDT |
-| code | sase | [`74d0820`](https://github.com/sase-org/sase/commit/74d0820afe34208f2151bc0ea19c457c9cd7631c) | feat(commit): commit before syncing changes | 2026-07-07 17:36:06 EDT |
+| root | sase | [`724be6a`](https://github.com/sase-org/sase/commit/724be6afcdec56cc0b4a4188406e425c7998f962) | chore: Add SDD prompt and plan for sase\_commit\_first\_try\_reliability | 2026-07-07 21:00:58 UTC |
+| code | sase | [`74d0820`](https://github.com/sase-org/sase/commit/74d0820afe34208f2151bc0ea19c457c9cd7631c) | feat(commit): commit before syncing changes | 2026-07-07 21:36:06 UTC |

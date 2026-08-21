@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d5eb58f`](https://github.com/sase-org/sase/commit/d5eb58fbf7e2f0bad25afc724911be3ec55cb921) | chore: consolidate remote agent research | 2026-06-06 13:21:24 EDT |
+| sase | [`d5eb58f`](https://github.com/sase-org/sase/commit/d5eb58fbf7e2f0bad25afc724911be3ec55cb921) | chore: consolidate remote agent research | 2026-06-06 17:21:24 UTC |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 291 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 292 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

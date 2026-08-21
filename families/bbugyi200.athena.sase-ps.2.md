@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`f9a1afa`](https://github.com/sase-org/sase/commit/f9a1afae747f49021ca96a203ca76a8ace3a08e9) | fix(agent): count runner-slot occupancy the same way in ACE and agent listing | 2026-08-18 12:07:08 EDT |
+| — | sase | [`f9a1afa`](https://github.com/sase-org/sase/commit/f9a1afae747f49021ca96a203ca76a8ace3a08e9) | fix(agent): count runner-slot occupancy the same way in ACE and agent listing | 2026-08-18 16:07:08 UTC |
 
 ## Neighbors
 

@@ -36,4 +36,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`2959d39`](https://github.com/sase-org/sase/commit/2959d3992cc03570bf45db718c1bdaa65a2e51d1) | fix(ace-tui): stop leaked proc-observer threads between tests | 2026-08-17 11:32:01 EDT |
+| — | sase | [`2959d39`](https://github.com/sase-org/sase/commit/2959d3992cc03570bf45db718c1bdaa65a2e51d1) | fix(ace-tui): stop leaked proc-observer threads between tests | 2026-08-17 15:32:01 UTC |

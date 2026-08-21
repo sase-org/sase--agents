@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9b175cd`](https://github.com/sase-org/sase/commit/9b175cd9e5c2e500b88697d40700992bab8d10dc) | chore: research plan to eliminate full agent refreshes | 2026-06-08 13:19:02 EDT |
+| sase | [`9b175cd`](https://github.com/sase-org/sase/commit/9b175cd9e5c2e500b88697d40700992bab8d10dc) | chore: research plan to eliminate full agent refreshes | 2026-06-08 17:19:02 UTC |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 291 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 292 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`89f202f`](https://github.com/sase-org/sase/commit/89f202feaeb6ba6b2536a8276fcb5086bc8d36f1) | docs: add curl installer research infographic | 2026-06-25 18:56:05 EDT |
+| sase | [`89f202f`](https://github.com/sase-org/sase/commit/89f202feaeb6ba6b2536a8276fcb5086bc8d36f1) | docs: add curl installer research infographic | 2026-06-25 22:56:05 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

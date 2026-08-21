@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`751f469`](https://github.com/sase-org/sase/commit/751f4695712a5cc7d6e68d6c30b930157e6cda84) | feat(ace): copy bead and agent references | 2026-07-29 23:02:05 EDT |
+| sase | [`751f469`](https://github.com/sase-org/sase/commit/751f4695712a5cc7d6e68d6c30b930157e6cda84) | feat(ace): copy bead and agent references | 2026-07-30 03:02:05 UTC |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0ec2018`](https://github.com/sase-org/sase/commit/0ec2018f1f191fdafe3d7e8416eb06263e6abec1) | test: add agents disk-load operation regression gate | 2026-08-16 13:24:08 EDT |
+| sase | [`0ec2018`](https://github.com/sase-org/sase/commit/0ec2018f1f191fdafe3d7e8416eb06263e6abec1) | test: add agents disk-load operation regression gate | 2026-08-16 17:24:08 UTC |
 
 ## Neighbors
 

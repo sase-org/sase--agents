@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`829b43d`](https://github.com/sase-org/sase/commit/829b43d25ddf4a164cd0a44e88c9bf034a2c7805) | feat(llm\_provider)!: migrate alias parser, completion, doctor, and schema (sase-5d.2) | 2026-06-30 10:40:05 EDT |
+| sase | [`829b43d`](https://github.com/sase-org/sase/commit/829b43d25ddf4a164cd0a44e88c9bf034a2c7805) | feat(llm\_provider)!: migrate alias parser, completion, doctor, and schema (sase-5d.2) | 2026-06-30 14:40:05 UTC |
 
 ## Neighbors
 

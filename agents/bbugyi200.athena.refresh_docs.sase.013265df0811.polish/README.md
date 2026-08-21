@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`06e08a1`](https://github.com/sase-org/sase/commit/06e08a1a96419350f0b33ced2156e873a130e9b1) | chore: clarify refreshed documentation workflows | 2026-05-29 11:29:08 EDT |
+| sase | [`06e08a1`](https://github.com/sase-org/sase/commit/06e08a1a96419350f0b33ced2156e873a130e9b1) | chore: clarify refreshed documentation workflows | 2026-05-29 15:29:08 UTC |
 
 ## Neighbors
 

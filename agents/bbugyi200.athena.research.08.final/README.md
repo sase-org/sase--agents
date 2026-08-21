@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`67fb149`](https://github.com/sase-org/sase/commit/67fb149a1679909b4ff75162160e1c2c247a5262) | docs: consolidate ACE demo video research | 2026-06-23 07:12:47 EDT |
+| sase | [`67fb149`](https://github.com/sase-org/sase/commit/67fb149a1679909b4ff75162160e1c2c247a5262) | docs: consolidate ACE demo video research | 2026-06-23 11:12:47 UTC |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.0b.cld](../bbugyi200.athena.research.0b.cld/README.md) | research hood | active |
 | [research.0b.final](../bbugyi200.athena.research.0b.final/README.md) | research hood | active |
 | [research.0b.image](../bbugyi200.athena.research.0b.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

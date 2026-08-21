@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d2f20c8`](https://github.com/sase-org/sase/commit/d2f20c824c2a401913acab6e728a1c44125642ed) | docs: refresh SASE operational documentation | 2026-06-20 19:15:15 EDT |
+| sase | [`d2f20c8`](https://github.com/sase-org/sase/commit/d2f20c824c2a401913acab6e728a1c44125642ed) | docs: refresh SASE operational documentation | 2026-06-20 23:15:15 UTC |
 
 ## Neighbors
 

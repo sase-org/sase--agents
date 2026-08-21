@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a469015`](https://github.com/sase-org/sase/commit/a469015dc5b690a6034cbc5953ddf156abb667ef) | refactor(feature-flags): repoint flag definitions at new flag task beads | 2026-08-18 18:30:32 EDT |
+| sase | [`a469015`](https://github.com/sase-org/sase/commit/a469015dc5b690a6034cbc5953ddf156abb667ef) | refactor(feature-flags): repoint flag definitions at new flag task beads | 2026-08-18 22:30:32 UTC |
 
 ## Neighbors
 

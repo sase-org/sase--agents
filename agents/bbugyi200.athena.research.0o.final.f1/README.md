@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4c5ab83`](https://github.com/sase-org/sase/commit/4c5ab83c9897e1104a389c17430c9460709c4317) | chore: Add SDD prompt and plan for tui\_suspend\_watchdog | 2026-06-26 12:38:45 EDT |
-| sase | [`a4afcdf`](https://github.com/sase-org/sase/commit/a4afcdfecb7720a4d39e7fa7e753b942449cbf41) | feat(tui): make ACE suspend handoffs watchdog-aware | 2026-06-26 12:56:33 EDT |
+| sase | [`4c5ab83`](https://github.com/sase-org/sase/commit/4c5ab83c9897e1104a389c17430c9460709c4317) | chore: Add SDD prompt and plan for tui\_suspend\_watchdog | 2026-06-26 16:38:45 UTC |
+| sase | [`a4afcdf`](https://github.com/sase-org/sase/commit/a4afcdfecb7720a4d39e7fa7e753b942449cbf41) | feat(tui): make ACE suspend handoffs watchdog-aware | 2026-06-26 16:56:33 UTC |
 
 ## Neighbors
 
@@ -79,4 +79,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 286 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 287 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

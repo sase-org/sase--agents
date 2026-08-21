@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`88cb087`](https://github.com/sase-org/sase/commit/88cb0876d1990363dae046381a6ce22eab5de516) | fix: reap stale pytest scratch entries (sase-96.8.4) | 2026-07-25 14:54:50 EDT |
+| sase | [`88cb087`](https://github.com/sase-org/sase/commit/88cb0876d1990363dae046381a6ce22eab5de516) | fix: reap stale pytest scratch entries (sase-96.8.4) | 2026-07-25 18:54:50 UTC |
 
 ## Neighbors
 

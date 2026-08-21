@@ -22,8 +22,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f3bb46f`](https://github.com/sase-org/sase/commit/f3bb46f292ab9927228534c13885339de5578f92) | fix(ace): restore the Launch Control History footer hint | 2026-08-16 18:39:30 EDT |
-| sase | [`769a180`](https://github.com/sase-org/sase/commit/769a1806fe95b8818de37c666be85d07dc132591) | refactor(history): retire the alias-history epic-symbol allowlist | 2026-08-16 18:45:59 EDT |
+| sase | [`f3bb46f`](https://github.com/sase-org/sase/commit/f3bb46f292ab9927228534c13885339de5578f92) | fix(ace): restore the Launch Control History footer hint | 2026-08-16 22:39:30 UTC |
+| sase | [`769a180`](https://github.com/sase-org/sase/commit/769a1806fe95b8818de37c666be85d07dc132591) | refactor(history): retire the alias-history epic-symbol allowlist | 2026-08-16 22:45:59 UTC |
 
 ## Neighbors
 

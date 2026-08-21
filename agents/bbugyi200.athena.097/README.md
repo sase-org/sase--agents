@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8036732`](https://github.com/sase-org/sase/commit/8036732eb6b39fbce66a4ffd2c5098cad1f663f0) | chore: Add SDD prompt and plan for completion\_escape\_normal\_mode | 2026-06-28 14:46:25 EDT |
-| sase | [`58f1230`](https://github.com/sase-org/sase/commit/58f12304f8c7908723ad39029ab12a26d2a7e262) | fix(ace): enter normal mode when escaping prompt completion | 2026-06-28 14:51:56 EDT |
+| sase | [`8036732`](https://github.com/sase-org/sase/commit/8036732eb6b39fbce66a4ffd2c5098cad1f663f0) | chore: Add SDD prompt and plan for completion\_escape\_normal\_mode | 2026-06-28 18:46:25 UTC |
+| sase | [`58f1230`](https://github.com/sase-org/sase/commit/58f12304f8c7908723ad39029ab12a26d2a7e262) | fix(ace): enter normal mode when escaping prompt completion | 2026-06-28 18:51:56 UTC |

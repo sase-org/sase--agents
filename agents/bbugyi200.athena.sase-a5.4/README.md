@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`57c5b8c`](https://github.com/sase-org/sase/commit/57c5b8c6a9007fae7c6b18ba4ea56b9e038be88a) | perf(tui): cache annotated hint documents (sase-a5.4) | 2026-07-27 16:41:17 EDT |
+| sase | [`57c5b8c`](https://github.com/sase-org/sase/commit/57c5b8c6a9007fae7c6b18ba4ea56b9e038be88a) | perf(tui): cache annotated hint documents (sase-a5.4) | 2026-07-27 20:41:17 UTC |
 
 ## Neighbors
 

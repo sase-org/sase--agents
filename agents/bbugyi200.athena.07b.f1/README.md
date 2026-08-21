@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f4c1acf`](https://github.com/sase-org/sase/commit/f4c1acf36ae74b9bea7594daafd11284b7a08870) | feat(tui): show waiting dependency status badges | 2026-06-26 18:27:17 EDT |
+| sase | [`f4c1acf`](https://github.com/sase-org/sase/commit/f4c1acf36ae74b9bea7594daafd11284b7a08870) | feat(tui): show waiting dependency status badges | 2026-06-26 22:27:17 UTC |
 
 ## Neighbors
 

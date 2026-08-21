@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`56d6bd7`](https://github.com/sase-org/sase/commit/56d6bd772dfc16e979f44cdd737251e06eab83b8) | docs: adopt artifact reference provider docs | 2026-08-12 10:14:48 EDT |
+| sase | [`56d6bd7`](https://github.com/sase-org/sase/commit/56d6bd772dfc16e979f44cdd737251e06eab83b8) | docs: adopt artifact reference provider docs | 2026-08-12 14:14:48 UTC |
 
 ## Neighbors
 

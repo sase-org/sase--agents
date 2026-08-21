@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0dc9679`](https://github.com/sase-org/sase/commit/0dc9679949750bcd6d4affda3f8e8c192472d336) | fix(llm): route default launches through alias pools | 2026-08-13 08:58:14 EDT |
+| sase | [`0dc9679`](https://github.com/sase-org/sase/commit/0dc9679949750bcd6d4affda3f8e8c192472d336) | fix(llm): route default launches through alias pools | 2026-08-13 12:58:14 UTC |

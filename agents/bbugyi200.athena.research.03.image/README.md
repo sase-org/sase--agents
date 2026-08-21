@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6f273cc`](https://github.com/sase-org/sase/commit/6f273ccfefd9cc6e248503286f3e50155401dfe1) | docs: add agent QoL research infographic | 2026-06-20 18:03:28 EDT |
+| sase | [`6f273cc`](https://github.com/sase-org/sase/commit/6f273ccfefd9cc6e248503286f3e50155401dfe1) | docs: add agent QoL research infographic | 2026-06-20 22:03:28 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0b.cld](../bbugyi200.athena.research.0b.cld/README.md) | research hood | active |
 | [research.0b.final](../bbugyi200.athena.research.0b.final/README.md) | research hood | active |
 | [research.0b.image](../bbugyi200.athena.research.0b.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

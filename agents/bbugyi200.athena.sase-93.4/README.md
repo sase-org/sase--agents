@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d58f7b0`](https://github.com/sase-org/sase/commit/d58f7b062094e42d4cf580626050cf74fcf39097) | test(visual): drop host home paths from visual fixtures (sase-93.4) | 2026-07-25 09:08:24 EDT |
+| sase | [`d58f7b0`](https://github.com/sase-org/sase/commit/d58f7b062094e42d4cf580626050cf74fcf39097) | test(visual): drop host home paths from visual fixtures (sase-93.4) | 2026-07-25 13:08:24 UTC |
 
 ## Neighbors
 

@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a05523a`](https://github.com/sase-org/sase/commit/a05523ac014ce1ac285432c5e36a91430440558c) | feat(tui): polish Plugins tab help, docs, and hints (sase-59.6) | 2026-06-26 12:17:04 EDT |
+| sase | [`a05523a`](https://github.com/sase-org/sase/commit/a05523ac014ce1ac285432c5e36a91430440558c) | feat(tui): polish Plugins tab help, docs, and hints (sase-59.6) | 2026-06-26 16:17:04 UTC |
 
 ## Neighbors
 

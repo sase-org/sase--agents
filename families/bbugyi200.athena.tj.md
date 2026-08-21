@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`840cdff`](https://github.com/sase-org/sase/commit/840cdff10664d2629ddc38f2677ec80e7dcaaca8) | fix(commit-finalizer): break async-wait deadlock in finalizer passes | 2026-08-05 18:03:40 EDT |
+| code | sase | [`840cdff`](https://github.com/sase-org/sase/commit/840cdff10664d2629ddc38f2677ec80e7dcaaca8) | fix(commit-finalizer): break async-wait deadlock in finalizer passes | 2026-08-05 22:03:40 UTC |

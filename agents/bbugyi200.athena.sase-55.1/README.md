@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9b5a715`](https://github.com/sase-org/sase/commit/9b5a715f21995ffdd6b455aaa6e59756a5eafb0c) | feat(xprompt): parse reasoning-effort levels in directives (sase-55.1) | 2026-06-23 12:23:00 EDT |
+| sase | [`9b5a715`](https://github.com/sase-org/sase/commit/9b5a715f21995ffdd6b455aaa6e59756a5eafb0c) | feat(xprompt): parse reasoning-effort levels in directives (sase-55.1) | 2026-06-23 16:23:00 UTC |
 
 ## Neighbors
 

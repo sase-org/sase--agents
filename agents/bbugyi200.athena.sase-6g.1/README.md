@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e24fd65`](https://github.com/sase-org/sase/commit/e24fd654f3f227999c3b0005ce06e5d0c2783c5c) | feat(xprompt): parse family directives (sase-6g.1) | 2026-07-16 19:19:34 EDT |
+| sase | [`e24fd65`](https://github.com/sase-org/sase/commit/e24fd654f3f227999c3b0005ce06e5d0c2783c5c) | feat(xprompt): parse family directives (sase-6g.1) | 2026-07-16 23:19:34 UTC |
 
 ## Neighbors
 

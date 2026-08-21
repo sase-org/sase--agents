@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5184f5a`](https://github.com/sase-org/sase/commit/5184f5ab0ad992c56f967c39a352b4d51edc5a7c) | fix(plan-gate): accept every EpicLaunchMode in the epic approve schema | 2026-08-15 23:28:57 EDT |
+| sase | [`5184f5a`](https://github.com/sase-org/sase/commit/5184f5ab0ad992c56f967c39a352b4d51edc5a7c) | fix(plan-gate): accept every EpicLaunchMode in the epic approve schema | 2026-08-16 03:28:57 UTC |
 
 ## Neighbors
 

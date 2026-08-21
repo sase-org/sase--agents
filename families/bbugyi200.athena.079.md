@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`2156918`](https://github.com/sase-org/sase/commit/215691847a56a3bd78680855acf18064bc1a6156) | chore: Add SDD prompt and plan for swap\_a\_big\_a\_keymaps | 2026-06-26 17:07:41 EDT |
-| code | sase | [`de06c55`](https://github.com/sase-org/sase/commit/de06c55caeba25772574329103f72c355aa618ad) | docs: define Current Project glossary term | 2026-08-18 21:00:20 EDT |
+| — | sase | [`2156918`](https://github.com/sase-org/sase/commit/215691847a56a3bd78680855acf18064bc1a6156) | chore: Add SDD prompt and plan for swap\_a\_big\_a\_keymaps | 2026-06-26 21:07:41 UTC |
+| code | sase | [`de06c55`](https://github.com/sase-org/sase/commit/de06c55caeba25772574329103f72c355aa618ad) | docs: define Current Project glossary term | 2026-08-19 01:00:20 UTC |

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ce2103b`](https://github.com/sase-org/sase/commit/ce2103b375f177c92f2244d570d8068db7dca919) | docs: research bead work latency | 2026-06-23 12:03:52 EDT |
+| sase | [`ce2103b`](https://github.com/sase-org/sase/commit/ce2103b375f177c92f2244d570d8068db7dca919) | docs: research bead work latency | 2026-06-23 16:03:52 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0b.cld](../bbugyi200.athena.research.0b.cld/README.md) | research hood | active |
 | [research.0b.final](../bbugyi200.athena.research.0b.final/README.md) | research hood | active |
 | [research.0b.image](../bbugyi200.athena.research.0b.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

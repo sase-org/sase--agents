@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`18d438b`](https://github.com/sase-org/sase/commit/18d438bc066a15569c2f2faa393ffa4e1aa94f11) | test(bead): guard the show speedup's end-to-end budget | 2026-08-03 10:11:46 EDT |
+| sase | [`18d438b`](https://github.com/sase-org/sase/commit/18d438bc066a15569c2f2faa393ffa4e1aa94f11) | test(bead): guard the show speedup's end-to-end budget | 2026-08-03 14:11:46 UTC |
 
 ## Neighbors
 

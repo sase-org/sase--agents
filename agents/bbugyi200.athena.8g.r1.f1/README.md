@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bed33e1`](https://github.com/sase-org/sase/commit/bed33e1f5e97b31f6db119325180bd3f46097f20) | chore: Add SDD prompt and plan for ace\_startup\_active\_index\_bloat | 2026-06-15 21:45:39 EDT |
-| sase | [`c029ba2`](https://github.com/sase-org/sase/commit/c029ba2da5f7388dc7c750c58bc4cda331272249) | perf: reduce ACE startup active index work | 2026-06-15 22:08:24 EDT |
+| sase | [`bed33e1`](https://github.com/sase-org/sase/commit/bed33e1f5e97b31f6db119325180bd3f46097f20) | chore: Add SDD prompt and plan for ace\_startup\_active\_index\_bloat | 2026-06-16 01:45:39 UTC |
+| sase | [`c029ba2`](https://github.com/sase-org/sase/commit/c029ba2da5f7388dc7c750c58bc4cda331272249) | perf: reduce ACE startup active index work | 2026-06-16 02:08:24 UTC |
 
 ## Neighbors
 

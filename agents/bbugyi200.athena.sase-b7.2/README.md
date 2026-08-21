@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d309f95`](https://github.com/sase-org/sase/commit/d309f95370d8ecd8bda05e89b3e80057d3d6ca94) | feat: add authorship-aware artifact capture policy | 2026-07-30 09:18:52 EDT |
+| sase | [`d309f95`](https://github.com/sase-org/sase/commit/d309f95370d8ecd8bda05e89b3e80057d3d6ca94) | feat: add authorship-aware artifact capture policy | 2026-07-30 13:18:52 UTC |
 
 ## Neighbors
 

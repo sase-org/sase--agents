@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c35848f`](https://github.com/sase-org/sase/commit/c35848f73669c7c4c08ceb214e4ac6e9e4bb0340) | chore: consolidate Mac screenshot sharing research into one memo | 2026-06-12 09:29:42 EDT |
+| sase | [`c35848f`](https://github.com/sase-org/sase/commit/c35848f73669c7c4c08ceb214e4ac6e9e4bb0340) | chore: consolidate Mac screenshot sharing research into one memo | 2026-06-12 13:29:42 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

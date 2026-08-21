@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0089626`](https://github.com/sase-org/sase/commit/008962676a48224d9093f0cec644a5a5ac8f6584) | docs: add AMD memory init infographic | 2026-06-26 11:52:20 EDT |
+| sase | [`0089626`](https://github.com/sase-org/sase/commit/008962676a48224d9093f0cec644a5a5ac8f6584) | docs: add AMD memory init infographic | 2026-06-26 15:52:20 UTC |
 
 ## Neighbors
 
@@ -81,4 +81,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 287 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

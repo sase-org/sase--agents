@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5738682`](https://github.com/sase-org/sase/commit/5738682d2a6ab486cdabadf0d5016910c57b3e45) | chore: Add SDD prompt and plan for prompt\_stack\_keymap\_cycling | 2026-06-17 11:22:22 EDT |
-| sase | [`f3448bc`](https://github.com/sase-org/sase/commit/f3448bcc53eddbc54c5ccb8f0597e69f5813e552) | feat(tui): cycle prompt-stack pane focus and reorder at edges | 2026-06-17 11:29:55 EDT |
+| sase | [`5738682`](https://github.com/sase-org/sase/commit/5738682d2a6ab486cdabadf0d5016910c57b3e45) | chore: Add SDD prompt and plan for prompt\_stack\_keymap\_cycling | 2026-06-17 15:22:22 UTC |
+| sase | [`f3448bc`](https://github.com/sase-org/sase/commit/f3448bcc53eddbc54c5ccb8f0597e69f5813e552) | feat(tui): cycle prompt-stack pane focus and reorder at edges | 2026-06-17 15:29:55 UTC |
 
 ## Neighbors
 

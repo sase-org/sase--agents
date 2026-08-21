@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`52af3b1`](https://github.com/sase-org/sase/commit/52af3b1a64afd73b3e3e31e354521919701d86ee) | docs: add coral subcommand naming research | 2026-06-22 11:31:13 EDT |
+| sase | [`52af3b1`](https://github.com/sase-org/sase/commit/52af3b1a64afd73b3e3e31e354521919701d86ee) | docs: add coral subcommand naming research | 2026-06-22 15:31:13 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0b.cld](../bbugyi200.athena.research.0b.cld/README.md) | research hood | active |
 | [research.0b.final](../bbugyi200.athena.research.0b.final/README.md) | research hood | active |
 | [research.0b.image](../bbugyi200.athena.research.0b.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

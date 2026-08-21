@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2a68cbb`](https://github.com/sase-org/sase/commit/2a68cbb13e5e9ed19c8be568320624594ad48c7a) | refactor: remove expired sase-6p symvision whitelist entries (sase-6p) | 2026-07-18 07:13:36 EDT |
+| sase | [`2a68cbb`](https://github.com/sase-org/sase/commit/2a68cbb13e5e9ed19c8be568320624594ad48c7a) | refactor: remove expired sase-6p symvision whitelist entries (sase-6p) | 2026-07-18 11:13:36 UTC |

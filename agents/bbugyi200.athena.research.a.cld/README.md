@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4416671`](https://github.com/sase-org/sase/commit/4416671d46511b0fce15db32692579ceed79e922) | chore: add research on sharing MacBook screenshots with remote agents | 2026-06-12 09:25:24 EDT |
+| sase | [`4416671`](https://github.com/sase-org/sase/commit/4416671d46511b0fce15db32692579ceed79e922) | chore: add research on sharing MacBook screenshots with remote agents | 2026-06-12 13:25:24 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

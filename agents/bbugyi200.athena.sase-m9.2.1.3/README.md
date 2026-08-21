@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1e242aa`](https://github.com/sase-org/sase/commit/1e242aa8b9e8c6c4bc4213fa84526378ec3512a2) | feat(procs): address named proc shells from the CLI | 2026-08-15 08:12:12 EDT |
+| sase | [`1e242aa`](https://github.com/sase-org/sase/commit/1e242aa8b9e8c6c4bc4213fa84526378ec3512a2) | feat(procs): address named proc shells from the CLI | 2026-08-15 12:12:12 UTC |
 
 ## Neighbors
 

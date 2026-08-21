@@ -21,6 +21,6 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`494a12b`](https://github.com/sase-org/sase/commit/494a12b766b3b54f203146c5eb73d8cf2eb59207) | chore: Add SDD prompt and plan for updates\_tab\_plugin\_detail\_space\_and\_scroll | 2026-06-29 09:24:09 EDT |
-| sase | [`ec82208`](https://github.com/sase-org/sase/commit/ec82208ef438c5bb4d51d345807451a137f4a124) | fix(ace): improve plugin detail scrolling | 2026-06-29 09:43:34 EDT |
-| sase | [`a17a63d`](https://github.com/sase-org/sase/commit/a17a63d041c40fd530109888e694b1b8464c71b1) | fix(ace): emit SASE-leg result sections on comprehensive updates | 2026-08-21 14:05:33 EDT |
+| sase | [`494a12b`](https://github.com/sase-org/sase/commit/494a12b766b3b54f203146c5eb73d8cf2eb59207) | chore: Add SDD prompt and plan for updates\_tab\_plugin\_detail\_space\_and\_scroll | 2026-06-29 13:24:09 UTC |
+| sase | [`ec82208`](https://github.com/sase-org/sase/commit/ec82208ef438c5bb4d51d345807451a137f4a124) | fix(ace): improve plugin detail scrolling | 2026-06-29 13:43:34 UTC |
+| sase | [`a17a63d`](https://github.com/sase-org/sase/commit/a17a63d041c40fd530109888e694b1b8464c71b1) | fix(ace): emit SASE-leg result sections on comprehensive updates | 2026-08-21 18:05:33 UTC |

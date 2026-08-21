@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e2e277b`](https://github.com/sase-org/sase/commit/e2e277bd359c1d4e6f3a52f488b858d7011d8fc4) | docs: consolidate dynamic agent family research | 2026-06-17 18:36:13 EDT |
+| sase | [`e2e277b`](https://github.com/sase-org/sase/commit/e2e277bd359c1d4e6f3a52f488b858d7011d8fc4) | docs: consolidate dynamic agent family research | 2026-06-17 22:36:13 UTC |
 
 ## Variables
 
@@ -96,4 +96,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

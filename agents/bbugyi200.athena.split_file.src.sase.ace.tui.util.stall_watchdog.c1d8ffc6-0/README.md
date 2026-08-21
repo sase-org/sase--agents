@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`360b691`](https://github.com/sase-org/sase/commit/360b6918247f45d51697f09534929bd02b7594de) | refactor(tui): split stall watchdog internals | 2026-07-19 01:07:54 EDT |
+| sase | [`360b691`](https://github.com/sase-org/sase/commit/360b6918247f45d51697f09534929bd02b7594de) | refactor(tui): split stall watchdog internals | 2026-07-19 05:07:54 UTC |
 
 ## Neighbors
 

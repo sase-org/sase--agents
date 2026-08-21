@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`60c5526`](https://github.com/sase-org/sase/commit/60c5526e77e3b6e74f0fe493c7e703eb9bdb8b94) | chore: consolidate new-user onboarding research | 2026-06-09 18:16:06 EDT |
+| sase | [`60c5526`](https://github.com/sase-org/sase/commit/60c5526e77e3b6e74f0fe493c7e703eb9bdb8b94) | chore: consolidate new-user onboarding research | 2026-06-09 22:16:06 UTC |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

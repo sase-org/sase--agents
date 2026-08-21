@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`571fdbb`](https://github.com/sase-org/sase/commit/571fdbbe7a080643dbd3f05c74bceda7caf8b479) | feat(tui): support editable dev updates in admin center (sase-5c.4) | 2026-06-27 16:46:01 EDT |
+| sase | [`571fdbb`](https://github.com/sase-org/sase/commit/571fdbbe7a080643dbd3f05c74bceda7caf8b479) | feat(tui): support editable dev updates in admin center (sase-5c.4) | 2026-06-27 20:46:01 UTC |
 
 ## Neighbors
 

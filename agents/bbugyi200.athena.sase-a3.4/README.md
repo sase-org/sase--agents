@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`830245c`](https://github.com/sase-org/sase/commit/830245c8cdf01ef0f60c3b86346fba02a0b6d68a) | fix(bead): require core dependency removal support (sase-a3.4) | 2026-07-27 15:56:57 EDT |
+| sase | [`830245c`](https://github.com/sase-org/sase/commit/830245c8cdf01ef0f60c3b86346fba02a0b6d68a) | fix(bead): require core dependency removal support (sase-a3.4) | 2026-07-27 19:56:57 UTC |
 
 ## Neighbors
 

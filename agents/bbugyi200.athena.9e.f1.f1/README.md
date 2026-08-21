@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7d11887`](https://github.com/sase-org/sase/commit/7d1188750776db44ada6c8356e4f6d92519b823f) | chore: Add SDD prompt and plan for prompt\_stack\_ctrl\_minus\_add\_pane | 2026-06-17 10:15:50 EDT |
-| sase | [`cdc5027`](https://github.com/sase-org/sase/commit/cdc5027b285899d782ae6c09c5385cd56394fc3a) | feat(tui)!: migrate prompt stack add-pane to Ctrl+- | 2026-06-17 10:22:42 EDT |
+| sase | [`7d11887`](https://github.com/sase-org/sase/commit/7d1188750776db44ada6c8356e4f6d92519b823f) | chore: Add SDD prompt and plan for prompt\_stack\_ctrl\_minus\_add\_pane | 2026-06-17 14:15:50 UTC |
+| sase | [`cdc5027`](https://github.com/sase-org/sase/commit/cdc5027b285899d782ae6c09c5385cd56394fc3a) | feat(tui)!: migrate prompt stack add-pane to Ctrl+- | 2026-06-17 14:22:42 UTC |
 
 ## Neighbors
 

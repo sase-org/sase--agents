@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`792b019`](https://github.com/sase-org/sase/commit/792b019473512d0acff042c1c8fcfc0caa3b24b7) | feat(doctor): add unclaimed-live-agent advisory and claim race coverage (sase-94.4) | 2026-07-25 11:14:58 EDT |
+| sase | [`792b019`](https://github.com/sase-org/sase/commit/792b019473512d0acff042c1c8fcfc0caa3b24b7) | feat(doctor): add unclaimed-live-agent advisory and claim race coverage (sase-94.4) | 2026-07-25 15:14:58 UTC |
 
 ## Neighbors
 

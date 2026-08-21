@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bf6e8ec`](https://github.com/sase-org/sase/commit/bf6e8eca978fa45ccadbfa22c041fcff69ee21bd) | docs: Add research on directives vs xprompts merge architecture | 2026-06-20 09:25:53 EDT |
+| sase | [`bf6e8ec`](https://github.com/sase-org/sase/commit/bf6e8eca978fa45ccadbfa22c041fcff69ee21bd) | docs: Add research on directives vs xprompts merge architecture | 2026-06-20 13:25:53 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

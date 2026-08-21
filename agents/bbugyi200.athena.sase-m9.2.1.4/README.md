@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8b4635a`](https://github.com/sase-org/sase/commit/8b4635ad13e8caa76a004adee92d41c4322fd43c) | feat(monitor): run monitors through the shared proc service | 2026-08-15 09:25:57 EDT |
+| sase | [`8b4635a`](https://github.com/sase-org/sase/commit/8b4635ad13e8caa76a004adee92d41c4322fd43c) | feat(monitor): run monitors through the shared proc service | 2026-08-15 13:25:57 UTC |
 
 ## Neighbors
 

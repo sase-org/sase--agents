@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4934094`](https://github.com/sase-org/sase/commit/49340948a4f6d4077af86f7e8b0c36a244784d6f) | fix(plan-approval): resolve the project key when archiving an approved plan | 2026-08-06 16:11:17 EDT |
+| sase | [`4934094`](https://github.com/sase-org/sase/commit/49340948a4f6d4077af86f7e8b0c36a244784d6f) | fix(plan-approval): resolve the project key when archiving an approved plan | 2026-08-06 20:11:17 UTC |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8a6fe16`](https://github.com/sase-org/sase/commit/8a6fe16267b2f34d58d64c2572eef96a300a4ee3) | feat(ace)!: rename agent tags to tribes | 2026-07-19 17:09:04 EDT |
+| sase | [`8a6fe16`](https://github.com/sase-org/sase/commit/8a6fe16267b2f34d58d64c2572eef96a300a4ee3) | feat(ace)!: rename agent tags to tribes | 2026-07-19 21:09:04 UTC |
 
 ## Neighbors
 

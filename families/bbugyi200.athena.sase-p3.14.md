@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`1ad14c1`](https://github.com/sase-org/sase/commit/1ad14c1d1594219d1cbf233aa4203526d0ef0a46) | feat(task-types): document catalog and pin generated notes to committed types | 2026-08-18 04:12:20 EDT |
+| 1 | sase | [`1ad14c1`](https://github.com/sase-org/sase/commit/1ad14c1d1594219d1cbf233aa4203526d0ef0a46) | feat(task-types): document catalog and pin generated notes to committed types | 2026-08-18 08:12:20 UTC |
 
 ## Neighbors
 

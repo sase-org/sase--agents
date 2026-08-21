@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6bf4a0c`](https://github.com/sase-org/sase/commit/6bf4a0c460c0b0fc61bcb297eb37524f8ea73f2f) | feat(commit)!: auto-close task beads after commits | 2026-08-10 11:22:38 EDT |
+| sase | [`6bf4a0c`](https://github.com/sase-org/sase/commit/6bf4a0c460c0b0fc61bcb297eb37524f8ea73f2f) | feat(commit)!: auto-close task beads after commits | 2026-08-10 15:22:38 UTC |

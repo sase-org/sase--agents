@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`244f2f2`](https://github.com/sase-org/sase/commit/244f2f2387c1e457ff865997d33e349901e99864) | chore: close sase-4e release epic | 2026-06-08 13:54:31 EDT |
+| sase | [`244f2f2`](https://github.com/sase-org/sase/commit/244f2f2387c1e457ff865997d33e349901e99864) | chore: close sase-4e release epic | 2026-06-08 17:54:31 UTC |
 
 ## Neighbors
 

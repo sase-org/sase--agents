@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9a680e3`](https://github.com/sase-org/sase/commit/9a680e36bfac433f052d8a322d90f624fc09eb6c) | chore: Add SDD prompt and plan for fix\_pencil\_badge\_flicker | 2026-07-06 04:06:45 EDT |
-| sase | [`c363142`](https://github.com/sase-org/sase/commit/c3631420d355e99fe66658a8a3e0002380f93c83) | fix(tui): preserve live file hints across reloads | 2026-07-06 04:51:51 EDT |
+| sase | [`9a680e3`](https://github.com/sase-org/sase/commit/9a680e36bfac433f052d8a322d90f624fc09eb6c) | chore: Add SDD prompt and plan for fix\_pencil\_badge\_flicker | 2026-07-06 08:06:45 UTC |
+| sase | [`c363142`](https://github.com/sase-org/sase/commit/c3631420d355e99fe66658a8a3e0002380f93c83) | fix(tui): preserve live file hints across reloads | 2026-07-06 08:51:51 UTC |
 
 ## Neighbors
 

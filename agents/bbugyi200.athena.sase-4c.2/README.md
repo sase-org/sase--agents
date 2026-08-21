@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e9bbd29`](https://github.com/sase-org/sase/commit/e9bbd290e112e54b4807eb87ff5c30b572e6bed9) | feat: canonicalize project alias refs early (sase-4c.2) | 2026-06-04 11:24:34 EDT |
+| sase | [`e9bbd29`](https://github.com/sase-org/sase/commit/e9bbd290e112e54b4807eb87ff5c30b572e6bed9) | feat: canonicalize project alias refs early (sase-4c.2) | 2026-06-04 15:24:34 UTC |
 
 ## Neighbors
 

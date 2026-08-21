@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a929e50`](https://github.com/sase-org/sase/commit/a929e50b9a2e772aea562aaee48448a82d91b460) | refactor(attachments): split markdown PDF helpers | 2026-07-23 13:42:36 EDT |
+| sase | [`a929e50`](https://github.com/sase-org/sase/commit/a929e50b9a2e772aea562aaee48448a82d91b460) | refactor(attachments): split markdown PDF helpers | 2026-07-23 17:42:36 UTC |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8b6f8fd`](https://github.com/sase-org/sase/commit/8b6f8fdfe2d3019706f416da0fe886f78b1e7ad4) | fix: keep epic bead agents at default priority | 2026-08-01 08:18:17 EDT |
+| sase | [`8b6f8fd`](https://github.com/sase-org/sase/commit/8b6f8fdfe2d3019706f416da0fe886f78b1e7ad4) | fix: keep epic bead agents at default priority | 2026-08-01 12:18:17 UTC |
 
 ## Neighbors
 

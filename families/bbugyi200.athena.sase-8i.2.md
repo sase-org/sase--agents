@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`b825a0d`](https://github.com/sase-org/sase/commit/b825a0db49967ac243be2721eef722b5612c10a9) | fix: snapshot epic plans before clan launch (sase-8i.2) | 2026-07-21 11:38:14 EDT |
+| code | sase | [`b825a0d`](https://github.com/sase-org/sase/commit/b825a0db49967ac243be2721eef722b5612c10a9) | fix: snapshot epic plans before clan launch (sase-8i.2) | 2026-07-21 15:38:14 UTC |
 
 ## Neighbors
 

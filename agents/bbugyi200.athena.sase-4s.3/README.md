@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e29bd38`](https://github.com/sase-org/sase/commit/e29bd388f10b153b79fef1130f3a7b19aa85664e) | feat(tui): migrate add-pane and xprompt properties panel to \`g-\` / \`g=\` (sase-4s.3) | 2026-06-17 15:12:47 EDT |
+| sase | [`e29bd38`](https://github.com/sase-org/sase/commit/e29bd388f10b153b79fef1130f3a7b19aa85664e) | feat(tui): migrate add-pane and xprompt properties panel to \`g-\` / \`g=\` (sase-4s.3) | 2026-06-17 19:12:47 UTC |
 
 ## Neighbors
 

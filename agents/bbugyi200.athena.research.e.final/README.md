@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2e11fea`](https://github.com/sase-org/sase/commit/2e11fea04fe4c4631824571670135925c2a639e0) | docs: consolidate agent revert research | 2026-06-14 10:32:46 EDT |
+| sase | [`2e11fea`](https://github.com/sase-org/sase/commit/2e11fea04fe4c4631824571670135925c2a639e0) | docs: consolidate agent revert research | 2026-06-14 14:32:46 UTC |
 
 ## Neighbors
 
@@ -83,4 +83,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 285 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 286 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

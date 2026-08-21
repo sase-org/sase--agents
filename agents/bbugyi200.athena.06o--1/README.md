@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5b2d297`](https://github.com/sase-org/sase/commit/5b2d297ae1baaaa084b136fb998d8f0582719b5c) | fix(beads): skip task gates while a live agent owns the bead | 2026-08-18 16:31:45 EDT |
+| sase | [`5b2d297`](https://github.com/sase-org/sase/commit/5b2d297ae1baaaa084b136fb998d8f0582719b5c) | fix(beads): skip task gates while a live agent owns the bead | 2026-08-18 20:31:45 UTC |

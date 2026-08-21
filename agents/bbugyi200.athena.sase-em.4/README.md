@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c449ce2`](https://github.com/sase-org/sase/commit/c449ce27cf0cd18b0f5a78f80f8742963a7c97f3) | fix: render timestamps in configured timezone | 2026-08-03 09:50:08 EDT |
+| sase | [`c449ce2`](https://github.com/sase-org/sase/commit/c449ce27cf0cd18b0f5a78f80f8742963a7c97f3) | fix: render timestamps in configured timezone | 2026-08-03 13:50:08 UTC |
 
 ## Neighbors
 

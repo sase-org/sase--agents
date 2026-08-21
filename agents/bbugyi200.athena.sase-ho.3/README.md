@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`be6277b`](https://github.com/sase-org/sase/commit/be6277b6722e7d393eb21c97150ddd4b47e117b4) | feat: render artifact refs through ref xprompts | 2026-08-08 18:03:01 EDT |
+| sase | [`be6277b`](https://github.com/sase-org/sase/commit/be6277b6722e7d393eb21c97150ddd4b47e117b4) | feat: render artifact refs through ref xprompts | 2026-08-08 22:03:01 UTC |
 
 ## Neighbors
 

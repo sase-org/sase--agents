@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`668bfc9`](https://github.com/sase-org/sase/commit/668bfc932e77a1dc57c91928aa6038cd85c14efb) | feat(llm-provider): add grok/grok-4.6 to shipped @smart, @cheap, and @cheaper pools | 2026-08-14 12:57:35 EDT |
+| sase | [`668bfc9`](https://github.com/sase-org/sase/commit/668bfc932e77a1dc57c91928aa6038cd85c14efb) | feat(llm-provider): add grok/grok-4.6 to shipped @smart, @cheap, and @cheaper pools | 2026-08-14 16:57:35 UTC |
 
 ## Neighbors
 

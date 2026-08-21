@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b657fce`](https://github.com/sase-org/sase/commit/b657fce17e86ef9a15e596866f9203e8e73edbdf) | docs(test-selection): document the implemented false-negative rule | 2026-08-06 07:03:01 EDT |
+| sase | [`b657fce`](https://github.com/sase-org/sase/commit/b657fce17e86ef9a15e596866f9203e8e73edbdf) | docs(test-selection): document the implemented false-negative rule | 2026-08-06 11:03:01 UTC |
 
 ## Neighbors
 

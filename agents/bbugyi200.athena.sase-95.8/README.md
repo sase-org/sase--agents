@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`54e0978`](https://github.com/sase-org/sase/commit/54e097800228f0779af2d98db6717a55efaccec8) | fix(tui): avoid terminal task mirror races (sase-95.8) | 2026-07-25 15:12:07 EDT |
+| sase | [`54e0978`](https://github.com/sase-org/sase/commit/54e097800228f0779af2d98db6717a55efaccec8) | fix(tui): avoid terminal task mirror races (sase-95.8) | 2026-07-25 19:12:07 UTC |
 
 ## Neighbors
 

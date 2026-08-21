@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`4b89140`](https://github.com/sase-org/sase/commit/4b891406b86f7d7fdb4536cc89b131955da9ffeb) | feat(bead): show task sizes in compact listings | 2026-08-10 10:21:23 EDT |
+| code | sase | [`4b89140`](https://github.com/sase-org/sase/commit/4b891406b86f7d7fdb4536cc89b131955da9ffeb) | feat(bead): show task sizes in compact listings | 2026-08-10 14:21:23 UTC |

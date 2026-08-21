@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6424082`](https://github.com/sase-org/sase/commit/6424082f968b220212dd3656413d076fd1ce9fb0) | fix: guard configured-timezone timestamp display | 2026-08-03 10:43:39 EDT |
+| sase | [`6424082`](https://github.com/sase-org/sase/commit/6424082f968b220212dd3656413d076fd1ce9fb0) | fix: guard configured-timezone timestamp display | 2026-08-03 14:43:39 UTC |
 
 ## Neighbors
 

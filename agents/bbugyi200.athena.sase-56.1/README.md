@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4b22421`](https://github.com/sase-org/sase/commit/4b224219c1e52b68e163409b91f7b2c16b870361) | feat(directives)!: add %tale directive and repurpose %plan for plan auto-approval (sase-56.1) | 2026-06-23 19:22:07 EDT |
+| sase | [`4b22421`](https://github.com/sase-org/sase/commit/4b224219c1e52b68e163409b91f7b2c16b870361) | feat(directives)!: add %tale directive and repurpose %plan for plan auto-approval (sase-56.1) | 2026-06-23 23:22:07 UTC |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0f7d86a`](https://github.com/sase-org/sase/commit/0f7d86a662c4c6e66bedbe248079f96f991adf89) | refactor(tui): retire in-process launch body and fan-out dispatchers | 2026-08-17 17:06:32 EDT |
+| sase | [`0f7d86a`](https://github.com/sase-org/sase/commit/0f7d86a662c4c6e66bedbe248079f96f991adf89) | refactor(tui): retire in-process launch body and fan-out dispatchers | 2026-08-17 21:06:32 UTC |
 
 ## Neighbors
 

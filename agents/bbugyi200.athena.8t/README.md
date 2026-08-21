@@ -21,5 +21,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`76cadf0`](https://github.com/sase-org/sase/commit/76cadf08980e2d4f1d8eaf5a11bafa6f3396f12a) | chore: Add SDD prompt and plan for bead\_work\_force\_reuse\_relaunch\_1 | 2026-06-16 09:42:12 EDT |
-| sase | [`be748b6`](https://github.com/sase-org/sase/commit/be748b627aa1824edfffab70e7ab6b0ed5753323) | fix(bead): force-reuse deterministic owners on bead work relaunch | 2026-06-16 10:02:21 EDT |
+| sase | [`76cadf0`](https://github.com/sase-org/sase/commit/76cadf08980e2d4f1d8eaf5a11bafa6f3396f12a) | chore: Add SDD prompt and plan for bead\_work\_force\_reuse\_relaunch\_1 | 2026-06-16 13:42:12 UTC |
+| sase | [`be748b6`](https://github.com/sase-org/sase/commit/be748b627aa1824edfffab70e7ab6b0ed5753323) | fix(bead): force-reuse deterministic owners on bead work relaunch | 2026-06-16 14:02:21 UTC |

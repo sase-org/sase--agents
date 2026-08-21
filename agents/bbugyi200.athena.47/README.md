@@ -21,8 +21,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`425cba3`](https://github.com/sase-org/sase/commit/425cba35a314bb9a63bec638b24884cf18d3b17a) | chore: Add SDD prompt and plan for agent\_name\_namespace\_templates | 2026-06-09 11:20:28 EDT |
-| sase | [`75f999e`](https://github.com/sase-org/sase/commit/75f999ecd223802b9fdf55fd4b13214978eea970) | fix: reserve agent template namespaces | 2026-06-09 11:45:27 EDT |
+| sase | [`425cba3`](https://github.com/sase-org/sase/commit/425cba35a314bb9a63bec638b24884cf18d3b17a) | chore: Add SDD prompt and plan for agent\_name\_namespace\_templates | 2026-06-09 15:20:28 UTC |
+| sase | [`75f999e`](https://github.com/sase-org/sase/commit/75f999ecd223802b9fdf55fd4b13214978eea970) | fix: reserve agent template namespaces | 2026-06-09 15:45:27 UTC |
 
 ## Neighbors
 

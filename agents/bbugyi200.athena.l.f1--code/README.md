@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0047ef8`](https://github.com/sase-org/sase/commit/0047ef832725c6d8b33abf89d0173e98a3b0cf18) | fix: persist prompt-referenced videos as artifacts | 2026-07-06 16:43:38 EDT |
+| sase | [`0047ef8`](https://github.com/sase-org/sase/commit/0047ef832725c6d8b33abf89d0173e98a3b0cf18) | fix: persist prompt-referenced videos as artifacts | 2026-07-06 20:43:38 UTC |
 
 ## Neighbors
 

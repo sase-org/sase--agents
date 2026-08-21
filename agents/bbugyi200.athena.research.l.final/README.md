@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`15557e8`](https://github.com/sase-org/sase/commit/15557e87cdd5ce4f882cca835a01cd8a8f844577) | docs: consolidate model purpose config research | 2026-06-17 15:18:00 EDT |
+| sase | [`15557e8`](https://github.com/sase-org/sase/commit/15557e87cdd5ce4f882cca835a01cd8a8f844577) | docs: consolidate model purpose config research | 2026-06-17 19:18:00 UTC |
 
 ## Neighbors
 
@@ -81,4 +81,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 287 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

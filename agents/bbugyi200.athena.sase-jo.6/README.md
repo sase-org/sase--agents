@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`295f4e9`](https://github.com/sase-org/sase/commit/295f4e994102cc5ac3c61cfd7a127d6af1177e1f) | fix(stitch): align origin filters with canonical values | 2026-08-11 09:32:09 EDT |
+| sase | [`295f4e9`](https://github.com/sase-org/sase/commit/295f4e994102cc5ac3c61cfd7a127d6af1177e1f) | fix(stitch): align origin filters with canonical values | 2026-08-11 13:32:09 UTC |
 
 ## Neighbors
 

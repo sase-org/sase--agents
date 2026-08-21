@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f628154`](https://github.com/sase-org/sase/commit/f628154527eac7e14d48f1732a00f61176f16843) | feat!: rename the agent directive to %id (sase-7g.1) | 2026-07-19 12:52:22 EDT |
+| sase | [`f628154`](https://github.com/sase-org/sase/commit/f628154527eac7e14d48f1732a00f61176f16843) | feat!: rename the agent directive to %id (sase-7g.1) | 2026-07-19 16:52:22 UTC |
 
 ## Neighbors
 

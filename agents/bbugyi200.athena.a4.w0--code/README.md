@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8ab0936`](https://github.com/sase-org/sase/commit/8ab0936f13cfa11e96e70385aeb587f12dbe12bf) | fix(ace): preserve explicit plan approval tiers | 2026-07-16 07:36:06 EDT |
+| sase | [`8ab0936`](https://github.com/sase-org/sase/commit/8ab0936f13cfa11e96e70385aeb587f12dbe12bf) | fix(ace): preserve explicit plan approval tiers | 2026-07-16 11:36:06 UTC |
 
 ## Neighbors
 

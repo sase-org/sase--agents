@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`96a53e7`](https://github.com/sase-org/sase/commit/96a53e7ab0d06116fd9adb8a3b18565d00cac75e) | docs(ace-tui): document ordered-list numbering, run, and nesting rules | 2026-08-06 18:51:07 EDT |
+| sase | [`96a53e7`](https://github.com/sase-org/sase/commit/96a53e7ab0d06116fd9adb8a3b18565d00cac75e) | docs(ace-tui): document ordered-list numbering, run, and nesting rules | 2026-08-06 22:51:07 UTC |
 
 ## Neighbors
 

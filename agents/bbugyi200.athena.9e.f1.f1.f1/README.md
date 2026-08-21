@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ae13899`](https://github.com/sase-org/sase/commit/ae138993aeb5f50102de95ac945ae056598189a5) | chore: Add SDD prompt and plan for ctrl\_shift\_minus\_xprompt\_properties\_panel | 2026-06-17 10:28:54 EDT |
-| sase | [`f07fe19`](https://github.com/sase-org/sase/commit/f07fe193af72427424f312e8acf43214fa25abae) | feat(tui): add Ctrl+Shift+- toggle for xprompt properties panel | 2026-06-17 10:40:33 EDT |
+| sase | [`ae13899`](https://github.com/sase-org/sase/commit/ae138993aeb5f50102de95ac945ae056598189a5) | chore: Add SDD prompt and plan for ctrl\_shift\_minus\_xprompt\_properties\_panel | 2026-06-17 14:28:54 UTC |
+| sase | [`f07fe19`](https://github.com/sase-org/sase/commit/f07fe193af72427424f312e8acf43214fa25abae) | feat(tui): add Ctrl+Shift+- toggle for xprompt properties panel | 2026-06-17 14:40:33 UTC |
 
 ## Neighbors
 

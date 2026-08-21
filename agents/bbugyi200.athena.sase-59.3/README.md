@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d0a020f`](https://github.com/sase-org/sase/commit/d0a020fe67ba14c01850f7dbfa1533771afb2338) | feat(tui): add Plugins detail panel, refresh, offline and verbose toggles (sase-59.3) | 2026-06-26 10:53:04 EDT |
+| sase | [`d0a020f`](https://github.com/sase-org/sase/commit/d0a020fe67ba14c01850f7dbfa1533771afb2338) | feat(tui): add Plugins detail panel, refresh, offline and verbose toggles (sase-59.3) | 2026-06-26 14:53:04 UTC |
 
 ## Neighbors
 

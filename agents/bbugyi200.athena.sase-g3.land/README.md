@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`559d4c2`](https://github.com/sase-org/sase/commit/559d4c2443b78ae495f25842bd94a42ad05ceb78) | fix(test-selection): stop reporting an escalated run as one with no baseline | 2026-08-06 11:30:50 EDT |
+| sase | [`559d4c2`](https://github.com/sase-org/sase/commit/559d4c2443b78ae495f25842bd94a42ad05ceb78) | fix(test-selection): stop reporting an escalated run as one with no baseline | 2026-08-06 15:30:50 UTC |
 
 ## Neighbors
 

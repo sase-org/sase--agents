@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`98cd34e`](https://github.com/sase-org/sase/commit/98cd34eaf037318f246d747abf1e15c4ffb17c3d) | chore: Add SDD prompt and plan for fix\_agents\_project\_grouping | 2026-06-19 09:27:55 EDT |
-| sase | [`c63271e`](https://github.com/sase-org/sase/commit/c63271e9485734aa80aa42d17e62c88354a04541) | fix(ace): rebuild Agents list when cycling back to project grouping | 2026-06-19 09:38:45 EDT |
+| sase | [`98cd34e`](https://github.com/sase-org/sase/commit/98cd34eaf037318f246d747abf1e15c4ffb17c3d) | chore: Add SDD prompt and plan for fix\_agents\_project\_grouping | 2026-06-19 13:27:55 UTC |
+| sase | [`c63271e`](https://github.com/sase-org/sase/commit/c63271e9485734aa80aa42d17e62c88354a04541) | fix(ace): rebuild Agents list when cycling back to project grouping | 2026-06-19 13:38:45 UTC |

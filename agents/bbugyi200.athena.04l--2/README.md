@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eefc449`](https://github.com/sase-org/sase/commit/eefc44983918c15a3f5ca6f20e86178e3748a377) | fix(ace-tui): nest each family monitor under the agent that started it | 2026-08-17 09:32:14 EDT |
+| sase | [`eefc449`](https://github.com/sase-org/sase/commit/eefc44983918c15a3f5ca6f20e86178e3748a377) | fix(ace-tui): nest each family monitor under the agent that started it | 2026-08-17 13:32:14 UTC |
 
 ## Neighbors
 

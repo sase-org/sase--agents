@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e973b98`](https://github.com/sase-org/sase/commit/e973b9856c6d5d57226b3e1e19d94e5196486b1f) | chore: Add SDD prompt and plan for indexed\_agent\_names | 2026-05-27 10:54:04 EDT |
-| sase | [`5cf9052`](https://github.com/sase-org/sase/commit/5cf90525b141a1f6fea09eaf0549c1ed682bc7b1) | chore: create indexed agent names epic beads | 2026-05-27 10:58:40 EDT |
+| sase | [`e973b98`](https://github.com/sase-org/sase/commit/e973b9856c6d5d57226b3e1e19d94e5196486b1f) | chore: Add SDD prompt and plan for indexed\_agent\_names | 2026-05-27 14:54:04 UTC |
+| sase | [`5cf9052`](https://github.com/sase-org/sase/commit/5cf90525b141a1f6fea09eaf0549c1ed682bc7b1) | chore: create indexed agent names epic beads | 2026-05-27 14:58:40 UTC |

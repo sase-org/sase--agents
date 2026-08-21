@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`db2d600`](https://github.com/sase-org/sase/commit/db2d600cae97282b00bef034028745024fe9a9a2) | ref: split AMD init implementation | 2026-05-29 18:39:04 EDT |
+| sase | [`db2d600`](https://github.com/sase-org/sase/commit/db2d600cae97282b00bef034028745024fe9a9a2) | ref: split AMD init implementation | 2026-05-29 22:39:04 UTC |
 
 ## Neighbors
 

@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`32cd557`](https://github.com/sase-org/sase/commit/32cd5575b3a9cd349431c0bbeae6ee1d0fd9bc31) | chore: Add SDD prompt and plan for models\_panel\_coder\_kind\_label | 2026-07-01 07:46:24 EDT |
-| sase | [`c8b9321`](https://github.com/sase-org/sase/commit/c8b93210fb722bebcba1bacbf363b531f3549ed9) | fix(tui): show provider coder model kind as coder | 2026-07-01 07:56:10 EDT |
+| sase | [`32cd557`](https://github.com/sase-org/sase/commit/32cd5575b3a9cd349431c0bbeae6ee1d0fd9bc31) | chore: Add SDD prompt and plan for models\_panel\_coder\_kind\_label | 2026-07-01 11:46:24 UTC |
+| sase | [`c8b9321`](https://github.com/sase-org/sase/commit/c8b93210fb722bebcba1bacbf363b531f3549ed9) | fix(tui): show provider coder model kind as coder | 2026-07-01 11:56:10 UTC |
 
 ## Neighbors
 

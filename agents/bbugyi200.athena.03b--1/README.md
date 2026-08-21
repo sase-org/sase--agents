@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e388740`](https://github.com/sase-org/sase/commit/e38874024bc15b39c61bec2e7c4ad776e2f923c7) | fix(proc): isolate SASE\_PROC\_\* tests, skip malformed monitors, overlay session workers | 2026-08-16 10:48:50 EDT |
+| sase | [`e388740`](https://github.com/sase-org/sase/commit/e38874024bc15b39c61bec2e7c4ad776e2f923c7) | fix(proc): isolate SASE\_PROC\_\* tests, skip malformed monitors, overlay session workers | 2026-08-16 14:48:50 UTC |

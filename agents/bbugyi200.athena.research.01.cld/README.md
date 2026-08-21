@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1645c2f`](https://github.com/sase-org/sase/commit/1645c2f0b4f433d2dcfa6c31cb6a270929effa8f) | docs: research open-tracking alternative to sibling\_repos | 2026-06-20 13:18:44 EDT |
+| sase | [`1645c2f`](https://github.com/sase-org/sase/commit/1645c2f0b4f433d2dcfa6c31cb6a270929effa8f) | docs: research open-tracking alternative to sibling\_repos | 2026-06-20 17:18:44 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0b.cld](../bbugyi200.athena.research.0b.cld/README.md) | research hood | active |
 | [research.0b.final](../bbugyi200.athena.research.0b.final/README.md) | research hood | active |
 | [research.0b.image](../bbugyi200.athena.research.0b.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

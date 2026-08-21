@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`72f93fb`](https://github.com/sase-org/sase/commit/72f93fb1fb3917c39f1859650b87ac33b6d80847) | fix: stabilize visual closeout and verification gates | 2026-08-21 12:42:29 EDT |
+| — | sase | [`72f93fb`](https://github.com/sase-org/sase/commit/72f93fb1fb3917c39f1859650b87ac33b6d80847) | fix: stabilize visual closeout and verification gates | 2026-08-21 16:42:29 UTC |
 
 ## Neighbors
 

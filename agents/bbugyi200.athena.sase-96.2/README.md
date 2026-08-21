@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7340235`](https://github.com/sase-org/sase/commit/7340235b22b94173d94dc752127932895552f749) | perf(test): avoid copying large directory map assets (sase-96.2) | 2026-07-25 09:26:44 EDT |
+| sase | [`7340235`](https://github.com/sase-org/sase/commit/7340235b22b94173d94dc752127932895552f749) | perf(test): avoid copying large directory map assets (sase-96.2) | 2026-07-25 13:26:44 UTC |
 
 ## Neighbors
 

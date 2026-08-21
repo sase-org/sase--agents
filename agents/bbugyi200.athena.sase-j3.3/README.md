@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`64ddea9`](https://github.com/sase-org/sase/commit/64ddea98a879ef774c41fc2bc10b7ccc6c101a55) | feat(tui): add snippet trigger name modal | 2026-08-10 16:20:08 EDT |
+| sase | [`64ddea9`](https://github.com/sase-org/sase/commit/64ddea98a879ef774c41fc2bc10b7ccc6c101a55) | feat(tui): add snippet trigger name modal | 2026-08-10 20:20:08 UTC |
 
 ## Neighbors
 

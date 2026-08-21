@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5f94aae`](https://github.com/sase-org/sase/commit/5f94aae4009ad5f260446a26d0f4d8e0c3f47e4e) | fix: tag family agent commits by lane | 2026-07-30 11:28:42 EDT |
+| sase | [`5f94aae`](https://github.com/sase-org/sase/commit/5f94aae4009ad5f260446a26d0f4d8e0c3f47e4e) | fix: tag family agent commits by lane | 2026-07-30 15:28:42 UTC |
 
 ## Neighbors
 

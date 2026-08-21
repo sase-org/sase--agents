@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0d5a1e6`](https://github.com/sase-org/sase/commit/0d5a1e6f2277e61c35dfb3294ea11b3b5704d7c4) | test: split agents panel fold-mode tests | 2026-07-28 10:11:42 EDT |
+| sase | [`0d5a1e6`](https://github.com/sase-org/sase/commit/0d5a1e6f2277e61c35dfb3294ea11b3b5704d7c4) | test: split agents panel fold-mode tests | 2026-07-28 14:11:42 UTC |
 
 ## Neighbors
 

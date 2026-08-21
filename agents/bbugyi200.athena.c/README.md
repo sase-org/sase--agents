@@ -21,8 +21,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c5cb304`](https://github.com/sase-org/sase/commit/c5cb3044011e045216dfe08f3f72c8bd27a38444) | chore: Add SDD prompt and plan for prs\_tab\_onboarding | 2026-07-03 13:37:30 EDT |
-| sase | [`5ab9907`](https://github.com/sase-org/sase/commit/5ab9907f2b45b34300c36e29c2a4a65a87427258) | feat(tui): add PRs onboarding empty state | 2026-07-03 15:17:50 EDT |
+| sase | [`c5cb304`](https://github.com/sase-org/sase/commit/c5cb3044011e045216dfe08f3f72c8bd27a38444) | chore: Add SDD prompt and plan for prs\_tab\_onboarding | 2026-07-03 17:37:30 UTC |
+| sase | [`5ab9907`](https://github.com/sase-org/sase/commit/5ab9907f2b45b34300c36e29c2a4a65a87427258) | feat(tui): add PRs onboarding empty state | 2026-07-03 19:17:50 UTC |
 
 ## Neighbors
 

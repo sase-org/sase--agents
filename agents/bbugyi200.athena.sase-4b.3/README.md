@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b8695c9`](https://github.com/sase-org/sase/commit/b8695c980a0137552c331b85b3d5fef246cd11ec) | feat: use Dataview references in reads xprompt (sase-4b.3) | 2026-06-03 16:35:07 EDT |
+| sase | [`b8695c9`](https://github.com/sase-org/sase/commit/b8695c980a0137552c331b85b3d5fef246cd11ec) | feat: use Dataview references in reads xprompt (sase-4b.3) | 2026-06-03 20:35:07 UTC |
 
 ## Neighbors
 

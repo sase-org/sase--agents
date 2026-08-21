@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b4b802a`](https://github.com/sase-org/sase/commit/b4b802a37ae1af5fa5dd96cda5bf6e028071ad5c) | chore: Add SDD prompt and plan for fix\_release\_please\_bad\_credentials | 2026-06-24 07:25:20 EDT |
-| sase | [`8b6ceb1`](https://github.com/sase-org/sase/commit/8b6ceb1b3d5186025c7dce9bd1a16fa01c43c3ea) | ci: retry release-please publish workflow | 2026-06-24 07:30:28 EDT |
+| sase | [`b4b802a`](https://github.com/sase-org/sase/commit/b4b802a37ae1af5fa5dd96cda5bf6e028071ad5c) | chore: Add SDD prompt and plan for fix\_release\_please\_bad\_credentials | 2026-06-24 11:25:20 UTC |
+| sase | [`8b6ceb1`](https://github.com/sase-org/sase/commit/8b6ceb1b3d5186025c7dce9bd1a16fa01c43c3ea) | ci: retry release-please publish workflow | 2026-06-24 11:30:28 UTC |

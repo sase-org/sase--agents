@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9866e20`](https://github.com/sase-org/sase/commit/9866e207f8b94efdb6b677dc660dda957335e30e) | chore: Add SDD prompt and plan for onboarding\_pick\_line\_gate | 2026-06-30 07:21:46 EDT |
-| sase | [`1b9395b`](https://github.com/sase-org/sase/commit/1b9395b059364c4c3f04934d3c079a4dfedcc29f) | fix(ace): hide onboarding launch hint without targets | 2026-06-30 07:36:39 EDT |
+| sase | [`9866e20`](https://github.com/sase-org/sase/commit/9866e207f8b94efdb6b677dc660dda957335e30e) | chore: Add SDD prompt and plan for onboarding\_pick\_line\_gate | 2026-06-30 11:21:46 UTC |
+| sase | [`1b9395b`](https://github.com/sase-org/sase/commit/1b9395b059364c4c3f04934d3c079a4dfedcc29f) | fix(ace): hide onboarding launch hint without targets | 2026-06-30 11:36:39 UTC |

@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`925c723`](https://github.com/sase-org/sase/commit/925c723a8729ef33c478186e2582520f99ce0eb7) | chore: Add SDD prompt and plan for agy\_model\_alias\_routing | 2026-06-28 12:52:26 EDT |
-| — | sase | [`a708cd4`](https://github.com/sase-org/sase/commit/a708cd44b81bb8dadfebea0bda2eceb0894af90a) | feat(doctor): guard model xprompt presets against provider fallback | 2026-06-28 13:14:51 EDT |
-| code | sase | [`e91b9f8`](https://github.com/sase-org/sase/commit/e91b9f83acba631f36d0d74b3e8a6e19ae63d51e) | fix(ace): route ctrl-g ctrl-x to mini xprompt | 2026-08-21 08:55:53 EDT |
+| — | sase | [`925c723`](https://github.com/sase-org/sase/commit/925c723a8729ef33c478186e2582520f99ce0eb7) | chore: Add SDD prompt and plan for agy\_model\_alias\_routing | 2026-06-28 16:52:26 UTC |
+| — | sase | [`a708cd4`](https://github.com/sase-org/sase/commit/a708cd44b81bb8dadfebea0bda2eceb0894af90a) | feat(doctor): guard model xprompt presets against provider fallback | 2026-06-28 17:14:51 UTC |
+| code | sase | [`e91b9f8`](https://github.com/sase-org/sase/commit/e91b9f83acba631f36d0d74b3e8a6e19ae63d51e) | fix(ace): route ctrl-g ctrl-x to mini xprompt | 2026-08-21 12:55:53 UTC |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`43337c3`](https://github.com/sase-org/sase/commit/43337c3f7a255bf0798689fcd83388eaabf09f0e) | test(bead): reproduce the plus-one post-close reopen race end to end | 2026-08-10 12:56:38 EDT |
+| sase | [`43337c3`](https://github.com/sase-org/sase/commit/43337c3f7a255bf0798689fcd83388eaabf09f0e) | test(bead): reproduce the plus-one post-close reopen race end to end | 2026-08-10 16:56:38 UTC |
 
 ## Neighbors
 

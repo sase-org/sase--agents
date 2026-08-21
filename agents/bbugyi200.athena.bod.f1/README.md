@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cecabe1`](https://github.com/sase-org/sase/commit/cecabe157dbb3d748e53fcb3f23c5963ee544774) | chore: Add SDD prompt and plan for episodes\_next\_steps | 2026-05-29 09:20:57 EDT |
-| sase | [`4623010`](https://github.com/sase-org/sase/commit/4623010edd2fe45a70494ab04ecc3e3e43c9ff05) | fix: improve episode visualization grouping | 2026-05-29 09:28:14 EDT |
+| sase | [`cecabe1`](https://github.com/sase-org/sase/commit/cecabe157dbb3d748e53fcb3f23c5963ee544774) | chore: Add SDD prompt and plan for episodes\_next\_steps | 2026-05-29 13:20:57 UTC |
+| sase | [`4623010`](https://github.com/sase-org/sase/commit/4623010edd2fe45a70494ab04ecc3e3e43c9ff05) | fix: improve episode visualization grouping | 2026-05-29 13:28:14 UTC |

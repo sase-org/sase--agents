@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`20958b6`](https://github.com/sase-org/sase/commit/20958b6c7a74c0327b1bdaf971e11adc0ca3b235) | chore: add Mac screenshot sharing infographic | 2026-06-12 09:33:33 EDT |
+| sase | [`20958b6`](https://github.com/sase-org/sase/commit/20958b6c7a74c0327b1bdaf971e11adc0ca3b235) | chore: add Mac screenshot sharing infographic | 2026-06-12 13:33:33 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dbddc16`](https://github.com/sase-org/sase/commit/dbddc16c12396524ab7dec8c81a1fa1e33019d53) | feat(agents): add page breadcrumbs and golden refresh (sase-a9.1) | 2026-07-27 17:00:26 EDT |
+| sase | [`dbddc16`](https://github.com/sase-org/sase/commit/dbddc16c12396524ab7dec8c81a1fa1e33019d53) | feat(agents): add page breadcrumbs and golden refresh (sase-a9.1) | 2026-07-27 21:00:26 UTC |
 
 ## Neighbors
 

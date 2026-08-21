@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8252cdb`](https://github.com/sase-org/sase/commit/8252cdba5cb782a15eafec65c8dde46a5e2be6e4) | test: split alias view tests by concern | 2026-07-31 12:24:18 EDT |
+| sase | [`8252cdb`](https://github.com/sase-org/sase/commit/8252cdba5cb782a15eafec65c8dde46a5e2be6e4) | test: split alias view tests by concern | 2026-07-31 16:24:18 UTC |
 
 ## Neighbors
 

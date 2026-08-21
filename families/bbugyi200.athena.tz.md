@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`9a366e0`](https://github.com/sase-org/sase/commit/9a366e0d6c5a0357a25044feb485357ad7ee2121) | fix(ace): resolve Artifacts project scope through project refs | 2026-08-06 10:00:04 EDT |
+| code | sase | [`9a366e0`](https://github.com/sase-org/sase/commit/9a366e0d6c5a0357a25044feb485357ad7ee2121) | fix(ace): resolve Artifacts project scope through project refs | 2026-08-06 14:00:04 UTC |

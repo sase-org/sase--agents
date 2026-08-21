@@ -21,8 +21,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`acd1f2e`](https://github.com/sase-org/sase/commit/acd1f2e31e84b2c8ed2e32d109d8e8a2ec09e3ee) | refactor(vcs-log): split render.py into focused renderer modules | 2026-08-06 10:58:10 EDT |
-| sase | [`be25ef5`](https://github.com/sase-org/sase/commit/be25ef5b4076a17f85900a498d8b467a7d15e912) | test(artifact-ref): probe the scratch-file resource state on an empty commit inventory (#278) | 2026-08-06 11:00:45 EDT |
+| sase | [`acd1f2e`](https://github.com/sase-org/sase/commit/acd1f2e31e84b2c8ed2e32d109d8e8a2ec09e3ee) | refactor(vcs-log): split render.py into focused renderer modules | 2026-08-06 14:58:10 UTC |
+| sase | [`be25ef5`](https://github.com/sase-org/sase/commit/be25ef5b4076a17f85900a498d8b467a7d15e912) | test(artifact-ref): probe the scratch-file resource state on an empty commit inventory (#278) | 2026-08-06 15:00:45 UTC |
 
 ## Neighbors
 

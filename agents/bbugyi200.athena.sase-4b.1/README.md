@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c133cc7`](https://github.com/sase-org/sase/commit/c133cc7b8cd6da5fa72a361766b1c279b56484b4) | chore: close sase-4b.1 bead | 2026-06-03 16:14:32 EDT |
+| sase | [`c133cc7`](https://github.com/sase-org/sase/commit/c133cc7b8cd6da5fa72a361766b1c279b56484b4) | chore: close sase-4b.1 bead | 2026-06-03 20:14:32 UTC |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`01f9912`](https://github.com/sase-org/sase/commit/01f9912ce6ef3042d2761de1d40aba7d602c29b4) | feat(xprompts): capture swarm launch provenance | 2026-07-29 22:14:48 EDT |
+| sase | [`01f9912`](https://github.com/sase-org/sase/commit/01f9912ce6ef3042d2761de1d40aba7d602c29b4) | feat(xprompts): capture swarm launch provenance | 2026-07-30 02:14:48 UTC |
 
 ## Neighbors
 

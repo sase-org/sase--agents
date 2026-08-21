@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6d563ea`](https://github.com/sase-org/sase/commit/6d563ea481a0669b5cf247594852849b696a5daf) | docs: consolidate directives and xprompts research | 2026-06-20 09:32:41 EDT |
+| sase | [`6d563ea`](https://github.com/sase-org/sase/commit/6d563ea481a0669b5cf247594852849b696a5daf) | docs: consolidate directives and xprompts research | 2026-06-20 13:32:41 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

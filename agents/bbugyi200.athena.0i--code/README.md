@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9a30501`](https://github.com/sase-org/sase/commit/9a30501c34416b316c79b2449a90ffc20028c512) | fix: use canonical workspace refs in launches | 2026-07-07 12:07:46 EDT |
+| sase | [`9a30501`](https://github.com/sase-org/sase/commit/9a30501c34416b316c79b2449a90ffc20028c512) | fix: use canonical workspace refs in launches | 2026-07-07 16:07:46 UTC |

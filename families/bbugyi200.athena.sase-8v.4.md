@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`2464be5`](https://github.com/sase-org/sase/commit/2464be5462bd99580d0a91b2802abea3560e9064) | feat(agents): publish owner-sharded v2 hood snapshots (sase-8v.4) | 2026-07-23 17:54:50 EDT |
+| code | sase | [`2464be5`](https://github.com/sase-org/sase/commit/2464be5462bd99580d0a91b2802abea3560e9064) | feat(agents): publish owner-sharded v2 hood snapshots (sase-8v.4) | 2026-07-23 21:54:50 UTC |
 
 ## Neighbors
 

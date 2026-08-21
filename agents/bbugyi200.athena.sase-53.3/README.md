@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f8b80df`](https://github.com/sase-org/sase/commit/f8b80df762ef9192c0a003dda0e098999bcdec8e) | feat(tui): add Ctrl+I expand action to xprompt select modal (sase-53.3) | 2026-06-21 12:02:54 EDT |
+| sase | [`f8b80df`](https://github.com/sase-org/sase/commit/f8b80df762ef9192c0a003dda0e098999bcdec8e) | feat(tui): add Ctrl+I expand action to xprompt select modal (sase-53.3) | 2026-06-21 16:02:54 UTC |
 
 ## Neighbors
 

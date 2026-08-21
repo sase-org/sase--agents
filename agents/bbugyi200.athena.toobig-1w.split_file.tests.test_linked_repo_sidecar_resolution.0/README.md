@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`46a8b09`](https://github.com/sase-org/sase/commit/46a8b091449c3727d6d778f41662a2601f8b90d7) | test(sidecar): split test\_linked\_repo\_sidecar\_resolution.py by concern | 2026-08-07 12:23:04 EDT |
+| sase | [`46a8b09`](https://github.com/sase-org/sase/commit/46a8b091449c3727d6d778f41662a2601f8b90d7) | test(sidecar): split test\_linked\_repo\_sidecar\_resolution.py by concern | 2026-08-07 16:23:04 UTC |
 
 ## Neighbors
 

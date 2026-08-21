@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`ba445aa`](https://github.com/sase-org/sase/commit/ba445aaf98c45d1091f82d36819390d84342a479) | chore: Add SDD prompt and plan for bare\_git\_first\_use\_init | 2026-07-06 11:46:01 EDT |
-| code | sase | [`dff269e`](https://github.com/sase-org/sase/commit/dff269e3a8642a84609ae17d7b3c4ba91595f577) | fix: recover bare git projects from partial init state | 2026-07-06 11:58:13 EDT |
+| root | sase | [`ba445aa`](https://github.com/sase-org/sase/commit/ba445aaf98c45d1091f82d36819390d84342a479) | chore: Add SDD prompt and plan for bare\_git\_first\_use\_init | 2026-07-06 15:46:01 UTC |
+| code | sase | [`dff269e`](https://github.com/sase-org/sase/commit/dff269e3a8642a84609ae17d7b3c4ba91595f577) | fix: recover bare git projects from partial init state | 2026-07-06 15:58:13 UTC |

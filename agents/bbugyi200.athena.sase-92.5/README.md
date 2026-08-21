@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`712a6b1`](https://github.com/sase-org/sase/commit/712a6b1f3bb1c209e07919f4794acd4f4a0fc211) | feat(agents)!: retire legacy v1 sync payloads (sase-92.5) | 2026-07-25 10:08:03 EDT |
+| sase | [`712a6b1`](https://github.com/sase-org/sase/commit/712a6b1f3bb1c209e07919f4794acd4f4a0fc211) | feat(agents)!: retire legacy v1 sync payloads (sase-92.5) | 2026-07-25 14:08:03 UTC |
 
 ## Neighbors
 

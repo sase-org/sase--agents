@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d07c86eec396b7c9f3557b1607aa92ac"}
+{"commits":[{"committed_at":1787343175,"sha":"b8b3a69a74cf6acf2efae8ff5f2c75139a961097","subject":"fix(agent-launch): preserve rich failure diagnostics"}],"schema_version":2,"source_run_id":"run-d07c86eec396b7c9f3557b1607aa92ac"}

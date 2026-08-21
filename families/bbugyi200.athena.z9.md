@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`c1c996d`](https://github.com/sase-org/sase/commit/c1c996d90bc5f54f52cd69082b0de5fb9c8a4abf) | feat(artifact-refs): expand document refs through their declared expansion format | 2026-08-13 10:20:06 EDT |
+| — | sase | [`c1c996d`](https://github.com/sase-org/sase/commit/c1c996d90bc5f54f52cd69082b0de5fb9c8a4abf) | feat(artifact-refs): expand document refs through their declared expansion format | 2026-08-13 14:20:06 UTC |

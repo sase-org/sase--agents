@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1482fc1`](https://github.com/sase-org/sase/commit/1482fc1dc573af7f34dfb872110d822ee3b72eb0) | feat(completion): add native zsh emitter and sase completion CLI | 2026-08-17 10:53:53 EDT |
+| sase | [`1482fc1`](https://github.com/sase-org/sase/commit/1482fc1dc573af7f34dfb872110d822ee3b72eb0) | feat(completion): add native zsh emitter and sase completion CLI | 2026-08-17 14:53:53 UTC |
 
 ## Neighbors
 

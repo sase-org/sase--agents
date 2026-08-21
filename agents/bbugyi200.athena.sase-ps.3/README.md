@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`746c807`](https://github.com/sase-org/sase/commit/746c807051fc11b107bec62c475cd738d8716296) | test(stats): assert Rust historical occupancy matches Python slot count | 2026-08-18 12:03:38 EDT |
+| sase | [`746c807`](https://github.com/sase-org/sase/commit/746c807051fc11b107bec62c475cd738d8716296) | test(stats): assert Rust historical occupancy matches Python slot count | 2026-08-18 16:03:38 UTC |
 
 ## Neighbors
 

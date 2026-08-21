@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c3316b7`](https://github.com/sase-org/sase/commit/c3316b71948506cebdb15da499b171f02d1ce584) | fix: clean up production temp artifacts (sase-96.4) | 2026-07-25 09:45:48 EDT |
+| sase | [`c3316b7`](https://github.com/sase-org/sase/commit/c3316b71948506cebdb15da499b171f02d1ce584) | fix: clean up production temp artifacts (sase-96.4) | 2026-07-25 13:45:48 UTC |
 
 ## Neighbors
 

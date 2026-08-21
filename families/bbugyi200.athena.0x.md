@@ -24,8 +24,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`687eb05`](https://github.com/sase-org/sase/commit/687eb0556c74cd7ed8213809dedb3cb68b41b74d) | chore: Add SDD prompt and plan for tools\_panel\_detail\_levels | 2026-07-07 16:12:24 EDT |
-| code | sase | [`9aface2`](https://github.com/sase-org/sase/commit/9aface2c9ce9caca5e3a178bcd8b340442c606a9) | feat(tui): add tools panel detail levels | 2026-07-07 16:32:12 EDT |
+| root | sase | [`687eb05`](https://github.com/sase-org/sase/commit/687eb0556c74cd7ed8213809dedb3cb68b41b74d) | chore: Add SDD prompt and plan for tools\_panel\_detail\_levels | 2026-07-07 20:12:24 UTC |
+| code | sase | [`9aface2`](https://github.com/sase-org/sase/commit/9aface2c9ce9caca5e3a178bcd8b340442c606a9) | feat(tui): add tools panel detail levels | 2026-07-07 20:32:12 UTC |
 
 ## Neighbors
 

@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d1831d6`](https://github.com/sase-org/sase/commit/d1831d695a39cd5140c344687367ad175c6d2e4d) | chore: Close bead sase-52.5 (Phase 5: LSP And Neovim Highlighting) | 2026-06-20 16:00:19 EDT |
+| sase | [`d1831d6`](https://github.com/sase-org/sase/commit/d1831d695a39cd5140c344687367ad175c6d2e4d) | chore: Close bead sase-52.5 (Phase 5: LSP And Neovim Highlighting) | 2026-06-20 20:00:19 UTC |
 
 ## Neighbors
 

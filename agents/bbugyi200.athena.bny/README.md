@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`92e49f3`](https://github.com/sase-org/sase/commit/92e49f3946751cfb642d93f150a8db6b1b3ac73d) | chore: Add SDD prompt and plan for episode\_v2\_explorer | 2026-05-28 17:16:25 EDT |
-| sase | [`c19d58e`](https://github.com/sase-org/sase/commit/c19d58ec821fcd1cb78e4a3a311825737a1154b3) | chore: create episode v2 explorer bead plan | 2026-05-28 17:25:10 EDT |
+| sase | [`92e49f3`](https://github.com/sase-org/sase/commit/92e49f3946751cfb642d93f150a8db6b1b3ac73d) | chore: Add SDD prompt and plan for episode\_v2\_explorer | 2026-05-28 21:16:25 UTC |
+| sase | [`c19d58e`](https://github.com/sase-org/sase/commit/c19d58ec821fcd1cb78e4a3a311825737a1154b3) | chore: create episode v2 explorer bead plan | 2026-05-28 21:25:10 UTC |

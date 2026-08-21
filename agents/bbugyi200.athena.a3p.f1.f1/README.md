@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`af49a20`](https://github.com/sase-org/sase/commit/af49a20b8449da4b18136ca08b11d2da3124df33) | chore: add configurable agent families infographic | 2026-06-02 16:14:24 EDT |
+| sase | [`af49a20`](https://github.com/sase-org/sase/commit/af49a20b8449da4b18136ca08b11d2da3124df33) | chore: add configurable agent families infographic | 2026-06-02 20:14:24 UTC |
 
 ## Neighbors
 

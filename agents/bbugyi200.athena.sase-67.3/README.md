@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`35edd9b`](https://github.com/sase-org/sase/commit/35edd9bafe9f119f9b6cac2ec10d9b1899cf904a) | fix(beads): defer epic launch store pushes (sase-67.3) | 2026-07-15 19:11:34 EDT |
+| sase | [`35edd9b`](https://github.com/sase-org/sase/commit/35edd9bafe9f119f9b6cac2ec10d9b1899cf904a) | fix(beads): defer epic launch store pushes (sase-67.3) | 2026-07-15 23:11:34 UTC |
 
 ## Neighbors
 

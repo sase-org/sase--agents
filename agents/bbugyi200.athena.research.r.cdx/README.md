@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1dd3ffc`](https://github.com/sase-org/sase/commit/1dd3ffc69ccdb190a53512569f02d2648129fb15) | docs: add Hacker News timing research | 2026-06-19 11:21:27 EDT |
+| sase | [`1dd3ffc`](https://github.com/sase-org/sase/commit/1dd3ffc69ccdb190a53512569f02d2648129fb15) | docs: add Hacker News timing research | 2026-06-19 15:21:27 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

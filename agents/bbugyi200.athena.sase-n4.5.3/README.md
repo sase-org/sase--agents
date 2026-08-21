@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2509e39`](https://github.com/sase-org/sase/commit/2509e3990c17db2a237e57f945357934f9b7ede3) | feat: show provider-disable provenance in Launch Control | 2026-08-16 15:06:05 EDT |
+| sase | [`2509e39`](https://github.com/sase-org/sase/commit/2509e3990c17db2a237e57f945357934f9b7ede3) | feat: show provider-disable provenance in Launch Control | 2026-08-16 19:06:05 UTC |
 
 ## Neighbors
 

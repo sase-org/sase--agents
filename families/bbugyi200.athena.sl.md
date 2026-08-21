@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`e257d6b`](https://github.com/sase-org/sase/commit/e257d6b1b2da21d1b59414fe7fc1214b37aa5659) | feat(cli)!: wrap bead show prose | 2026-08-03 08:08:30 EDT |
+| code | sase | [`e257d6b`](https://github.com/sase-org/sase/commit/e257d6b1b2da21d1b59414fe7fc1214b37aa5659) | feat(cli)!: wrap bead show prose | 2026-08-03 12:08:30 UTC |
 
 ## Neighbors
 

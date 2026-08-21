@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0a299d7`](https://github.com/sase-org/sase/commit/0a299d7af0283f2d4095df4370c25159a769c8e5) | docs(beads): document search command (sase-4w.4) | 2026-06-18 09:36:44 EDT |
+| sase | [`0a299d7`](https://github.com/sase-org/sase/commit/0a299d7af0283f2d4095df4370c25159a769c8e5) | docs(beads): document search command (sase-4w.4) | 2026-06-18 13:36:44 UTC |
 
 ## Neighbors
 

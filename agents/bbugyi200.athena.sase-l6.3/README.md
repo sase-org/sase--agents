@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`932277b`](https://github.com/sase-org/sase/commit/932277b2691a35c3f2a5dee2257b205679585d13) | refactor(ace): split detail-header summary into per-lane resolution and caching | 2026-08-13 16:55:01 EDT |
+| sase | [`932277b`](https://github.com/sase-org/sase/commit/932277b2691a35c3f2a5dee2257b205679585d13) | refactor(ace): split detail-header summary into per-lane resolution and caching | 2026-08-13 20:55:01 UTC |
 
 ## Neighbors
 

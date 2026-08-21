@@ -30,6 +30,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`dc22c41`](https://github.com/sase-org/sase/commit/dc22c41118edcd0f0aeb226e1802092d8eaa9fe3) | chore: Add SDD prompt and plan for fix\_flaky\_input\_modal\_error\_snapshot | 2026-06-23 12:26:38 EDT |
-| — | sase | [`ca3c15b`](https://github.com/sase-org/sase/commit/ca3c15bf67d297377db9a228b5d5b550f28c75e0) | test: stabilize input modal error snapshot | 2026-06-23 12:35:47 EDT |
-| 1 | sase | [`5be0268`](https://github.com/sase-org/sase/commit/5be0268643a4bba0c1136d6dc49711388013b59e) | feat(ace-tui): add g/G top/bottom jumps to notifications detail pane | 2026-08-17 07:27:39 EDT |
+| — | sase | [`dc22c41`](https://github.com/sase-org/sase/commit/dc22c41118edcd0f0aeb226e1802092d8eaa9fe3) | chore: Add SDD prompt and plan for fix\_flaky\_input\_modal\_error\_snapshot | 2026-06-23 16:26:38 UTC |
+| — | sase | [`ca3c15b`](https://github.com/sase-org/sase/commit/ca3c15bf67d297377db9a228b5d5b550f28c75e0) | test: stabilize input modal error snapshot | 2026-06-23 16:35:47 UTC |
+| 1 | sase | [`5be0268`](https://github.com/sase-org/sase/commit/5be0268643a4bba0c1136d6dc49711388013b59e) | feat(ace-tui): add g/G top/bottom jumps to notifications detail pane | 2026-08-17 11:27:39 UTC |

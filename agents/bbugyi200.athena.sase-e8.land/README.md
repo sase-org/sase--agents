@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aab4899`](https://github.com/sase-org/sase/commit/aab489997eb1c745d34cfda0978089696aed1135) | fix(ace-tui): repair prompt commit inventory binding and worker lifecycle | 2026-08-02 13:34:28 EDT |
+| sase | [`aab4899`](https://github.com/sase-org/sase/commit/aab489997eb1c745d34cfda0978089696aed1135) | fix(ace-tui): repair prompt commit inventory binding and worker lifecycle | 2026-08-02 17:34:28 UTC |
 
 ## Neighbors
 

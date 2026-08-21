@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`920f256`](https://github.com/sase-org/sase/commit/920f25643f0cf033564c5bf14f81e3e9be2c61b2) | chore: Add SDD prompt and plan for xprompt\_stash\_properties | 2026-06-18 12:04:04 EDT |
-| sase | [`e7aaede`](https://github.com/sase-org/sase/commit/e7aaedeee249de5db54e3d5a0bf1a5eab93b24be) | fix(tui): restore stashed prompt properties | 2026-06-18 12:14:18 EDT |
+| sase | [`920f256`](https://github.com/sase-org/sase/commit/920f25643f0cf033564c5bf14f81e3e9be2c61b2) | chore: Add SDD prompt and plan for xprompt\_stash\_properties | 2026-06-18 16:04:04 UTC |
+| sase | [`e7aaede`](https://github.com/sase-org/sase/commit/e7aaedeee249de5db54e3d5a0bf1a5eab93b24be) | fix(tui): restore stashed prompt properties | 2026-06-18 16:14:18 UTC |

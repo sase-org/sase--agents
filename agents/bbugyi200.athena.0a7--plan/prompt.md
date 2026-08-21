@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me fix the `@research_lead` model alias defined in the sase-research-artifacts repo? It should use the `@xlarge` model alias as its default value (the `@smartest` model alias no longer exists). #plan

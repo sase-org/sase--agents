@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7086092`](https://github.com/sase-org/sase/commit/70860928327f2fd6bd2cf6672b271c3b742898c1) | chore: Add SDD prompt and plan for sdd\_init\_config | 2026-06-01 10:04:28 EDT |
-| sase | [`1430839`](https://github.com/sase-org/sase/commit/14308392182bb868f7fc898e2ac4c0ee50bc1e12) | feat: enable SDD init config opt-in | 2026-06-01 10:22:09 EDT |
+| sase | [`7086092`](https://github.com/sase-org/sase/commit/70860928327f2fd6bd2cf6672b271c3b742898c1) | chore: Add SDD prompt and plan for sdd\_init\_config | 2026-06-01 14:04:28 UTC |
+| sase | [`1430839`](https://github.com/sase-org/sase/commit/14308392182bb868f7fc898e2ac4c0ee50bc1e12) | feat: enable SDD init config opt-in | 2026-06-01 14:22:09 UTC |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`28c5c86`](https://github.com/sase-org/sase/commit/28c5c86d274f1fbdfb47f3b001384f419f5ab027) | feat(tui): preserve effort in model picker flows (sase-8z.2) | 2026-07-24 17:52:38 EDT |
+| sase | [`28c5c86`](https://github.com/sase-org/sase/commit/28c5c86d274f1fbdfb47f3b001384f419f5ab027) | feat(tui): preserve effort in model picker flows (sase-8z.2) | 2026-07-24 21:52:38 UTC |
 
 ## Neighbors
 

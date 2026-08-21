@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7aebbe6`](https://github.com/sase-org/sase/commit/7aebbe6ff5ac3be77449dd4a547450ccffb86024) | feat: show tale size in plan displays | 2026-08-10 11:26:19 EDT |
+| sase | [`7aebbe6`](https://github.com/sase-org/sase/commit/7aebbe6ff5ac3be77449dd4a547450ccffb86024) | feat: show tale size in plan displays | 2026-08-10 15:26:19 UTC |
 
 ## Neighbors
 

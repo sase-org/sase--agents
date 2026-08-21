@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2cb2239`](https://github.com/sase-org/sase/commit/2cb2239e4018902d9b4c5ba2921f011ccec2c371) | feat(xprompt): wire %{...} brace alt shorthand through Python fan-out (sase-52.2) | 2026-06-20 15:24:01 EDT |
+| sase | [`2cb2239`](https://github.com/sase-org/sase/commit/2cb2239e4018902d9b4c5ba2921f011ccec2c371) | feat(xprompt): wire %{...} brace alt shorthand through Python fan-out (sase-52.2) | 2026-06-20 19:24:01 UTC |
 
 ## Neighbors
 

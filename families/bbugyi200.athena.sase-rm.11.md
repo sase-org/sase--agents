@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`569d425`](https://github.com/sase-org/sase/commit/569d4257b747902476422cd7b30ad7824e6b876e) | fix: stabilize process concurrency closeout | 2026-08-20 16:30:23 EDT |
+| code | sase | [`569d425`](https://github.com/sase-org/sase/commit/569d4257b747902476422cd7b30ad7824e6b876e) | fix: stabilize process concurrency closeout | 2026-08-20 20:30:23 UTC |
 
 ## Neighbors
 

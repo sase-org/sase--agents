@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `0a4` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["0a4--plan [active]"]
-  n1["0a4--code [active]"]
+  n0["0a4--plan [completed]"]
+  n1["0a4--code [completed]"]
   n0 --> n1
 ```
 
@@ -17,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0a4--plan | active | gpt-5.6-sol / codex | 2026-08-21T19:37:06.909887+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0a4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0a4--plan/chat.md) |
-| <a id="member-code"></a>code | 0a4--code | active | gpt-5.5 / codex | 2026-08-21T19:46:02.123395+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | 0a4--plan | completed | gpt-5.6-sol / codex | 2026-08-21T19:37:06.909887+00:00 → 2026-08-21T20:13:25.355860+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0a4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0a4--plan/chat.md) |
+| <a id="member-code"></a>code | 0a4--code | completed | gpt-5.5 / codex | 2026-08-21T19:46:02.123395+00:00 → 2026-08-21T20:13:25.355860+00:00 | [1](../agents/bbugyi200.athena.0a4--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.0a4--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`b8b3a69`](https://github.com/sase-org/sase/commit/b8b3a69a74cf6acf2efae8ff5f2c75139a961097) | fix(agent-launch): preserve rich failure diagnostics | 2026-08-21 20:12:55 UTC |

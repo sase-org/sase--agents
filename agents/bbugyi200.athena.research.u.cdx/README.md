@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e1ac8c7`](https://github.com/sase-org/sase/commit/e1ac8c7e53b08698e56b8e11f4ddfcf665480e42) | docs: research agy migration scope | 2026-06-19 16:06:58 EDT |
+| sase | [`e1ac8c7`](https://github.com/sase-org/sase/commit/e1ac8c7e53b08698e56b8e11f4ddfcf665480e42) | docs: research agy migration scope | 2026-06-19 20:06:58 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

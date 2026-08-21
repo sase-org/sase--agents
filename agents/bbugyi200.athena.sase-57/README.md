@@ -18,8 +18,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`12d5323`](https://github.com/sase-org/sase/commit/12d5323259e228fee58d956cd9fba9dcabf1e2d9) | chore: Add SDD prompt and plan for plugin\_catalog\_verification (sase-57) | 2026-06-25 19:59:52 EDT |
-| sase | [`ecfa971`](https://github.com/sase-org/sase/commit/ecfa971a5e6d51322b4a81f1872c01c8f5d0532d) | refactor(plugins): privatize internal catalog exceptions and correct cache-fallback docs (sase-57) | 2026-06-25 20:17:16 EDT |
+| sase | [`12d5323`](https://github.com/sase-org/sase/commit/12d5323259e228fee58d956cd9fba9dcabf1e2d9) | chore: Add SDD prompt and plan for plugin\_catalog\_verification (sase-57) | 2026-06-25 23:59:52 UTC |
+| sase | [`ecfa971`](https://github.com/sase-org/sase/commit/ecfa971a5e6d51322b4a81f1872c01c8f5d0532d) | refactor(plugins): privatize internal catalog exceptions and correct cache-fallback docs (sase-57) | 2026-06-26 00:17:16 UTC |
 
 ## Neighbors
 

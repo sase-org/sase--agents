@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b2f8e0f`](https://github.com/sase-org/sase/commit/b2f8e0f8bf574b9836d49e858ebfa9f67c6ee180) | chore: add TUI full refresh audit infographic | 2026-06-08 13:49:05 EDT |
+| sase | [`b2f8e0f`](https://github.com/sase-org/sase/commit/b2f8e0f8bf574b9836d49e858ebfa9f67c6ee180) | chore: add TUI full refresh audit infographic | 2026-06-08 17:49:05 UTC |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 291 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 292 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

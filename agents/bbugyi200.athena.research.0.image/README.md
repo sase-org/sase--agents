@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3c5e639`](https://github.com/sase-org/sase/commit/3c5e6399a306f31a7d9afe6ee82d2ed7fefd1cac) | docs: add SDD repo research infographic | 2026-07-07 22:43:56 EDT |
+| sase | [`3c5e639`](https://github.com/sase-org/sase/commit/3c5e6399a306f31a7d9afe6ee82d2ed7fefd1cac) | docs: add SDD repo research infographic | 2026-07-08 02:43:56 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0b.cld](../bbugyi200.athena.research.0b.cld/README.md) | research hood | active |
 | [research.0b.final](../bbugyi200.athena.research.0b.final/README.md) | research hood | active |
 | [research.0b.image](../bbugyi200.athena.research.0b.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`702b82f`](https://github.com/sase-org/sase/commit/702b82f3d5c3a0e5d05ce3420b6a620042b4dddb) | chore: Add SDD prompt and plan for log\_panel\_g\_scroll | 2026-06-20 19:00:09 EDT |
-| — | sase | [`de38910`](https://github.com/sase-org/sase/commit/de389106dfc2b89519b96431532a39b474785b22) | feat(tui): add g/G top-bottom scrolling to ACE Logs panel | 2026-06-20 19:07:06 EDT |
-| code | sase | [`6f3e51a`](https://github.com/sase-org/sase/commit/6f3e51a137ec3b6142288eb6fa17aa855ea4b952) | fix(bead): preserve active workers during relaunch | 2026-08-15 18:30:30 EDT |
+| — | sase | [`702b82f`](https://github.com/sase-org/sase/commit/702b82f3d5c3a0e5d05ce3420b6a620042b4dddb) | chore: Add SDD prompt and plan for log\_panel\_g\_scroll | 2026-06-20 23:00:09 UTC |
+| — | sase | [`de38910`](https://github.com/sase-org/sase/commit/de389106dfc2b89519b96431532a39b474785b22) | feat(tui): add g/G top-bottom scrolling to ACE Logs panel | 2026-06-20 23:07:06 UTC |
+| code | sase | [`6f3e51a`](https://github.com/sase-org/sase/commit/6f3e51a137ec3b6142288eb6fa17aa855ea4b952) | fix(bead): preserve active workers during relaunch | 2026-08-15 22:30:30 UTC |

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`13b8aab`](https://github.com/sase-org/sase/commit/13b8aab3687aefc453a9cdf7681572a24ed91844) | fix: keep epic page labels inline with URLs | 2026-07-29 10:26:44 EDT |
+| sase | [`13b8aab`](https://github.com/sase-org/sase/commit/13b8aab3687aefc453a9cdf7681572a24ed91844) | fix: keep epic page labels inline with URLs | 2026-07-29 14:26:44 UTC |
 
 ## Neighbors
 

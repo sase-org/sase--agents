@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8f82eb9`](https://github.com/sase-org/sase/commit/8f82eb99205cfb4f6b0db08f56d81ea0efa5bbfb) | feat(core): adopt finalizer protocol bindings | 2026-08-20 17:24:53 EDT |
+| sase | [`8f82eb9`](https://github.com/sase-org/sase/commit/8f82eb99205cfb4f6b0db08f56d81ea0efa5bbfb) | feat(core): adopt finalizer protocol bindings | 2026-08-20 21:24:53 UTC |
 
 ## Neighbors
 

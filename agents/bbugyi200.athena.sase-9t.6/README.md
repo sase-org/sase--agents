@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`98a3d9c`](https://github.com/sase-org/sase/commit/98a3d9c4e30fbf12ba21bcb0e4931d2089711038) | feat(axe)!: require configuration descriptions (sase-9t.6) | 2026-07-26 10:48:55 EDT |
+| sase | [`98a3d9c`](https://github.com/sase-org/sase/commit/98a3d9c4e30fbf12ba21bcb0e4931d2089711038) | feat(axe)!: require configuration descriptions (sase-9t.6) | 2026-07-26 14:48:55 UTC |
 
 ## Neighbors
 

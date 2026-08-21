@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`891cf60`](https://github.com/sase-org/sase/commit/891cf604f38cd4b308245210df6443dd46d60160) | fix: propagate core storage repair outcomes | 2026-08-20 16:49:36 EDT |
+| — | sase | [`891cf60`](https://github.com/sase-org/sase/commit/891cf604f38cd4b308245210df6443dd46d60160) | fix: propagate core storage repair outcomes | 2026-08-20 20:49:36 UTC |
 
 ## Neighbors
 

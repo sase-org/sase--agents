@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c3de387`](https://github.com/sase-org/sase/commit/c3de3870ef61231e4ca2b3dd90075f63ad860b34) | fix: materialize linked repos as sibling projects | 2026-07-06 18:24:42 EDT |
+| sase | [`c3de387`](https://github.com/sase-org/sase/commit/c3de3870ef61231e4ca2b3dd90075f63ad860b34) | fix: materialize linked repos as sibling projects | 2026-07-06 22:24:42 UTC |
 
 ## Neighbors
 

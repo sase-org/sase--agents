@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`650aad0`](https://github.com/sase-org/sase/commit/650aad06483e3cac454a29cb34d7ff4743291993) | fix(deps): bump sase-core-rs floor to 0.17.4 for bead\_update\_many binding (#269) | 2026-08-01 06:16:43 EDT |
+| sase | [`650aad0`](https://github.com/sase-org/sase/commit/650aad06483e3cac454a29cb34d7ff4743291993) | fix(deps): bump sase-core-rs floor to 0.17.4 for bead\_update\_many binding (#269) | 2026-08-01 10:16:43 UTC |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7bd3c07`](https://github.com/sase-org/sase/commit/7bd3c07bbce8011b5ae24ea2d04ad2c2a18e88a1) | fix: catch dirty linked repos without open markers | 2026-07-06 17:42:17 EDT |
+| sase | [`7bd3c07`](https://github.com/sase-org/sase/commit/7bd3c07bbce8011b5ae24ea2d04ad2c2a18e88a1) | fix: catch dirty linked repos without open markers | 2026-07-06 21:42:17 UTC |
 
 ## Neighbors
 

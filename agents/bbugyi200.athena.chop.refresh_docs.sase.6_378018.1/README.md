@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4381a90`](https://github.com/sase-org/sase/commit/4381a90bbc7b3080b256bce9728bc8baf8175447) | docs: refresh guides for current workflows | 2026-08-12 16:13:16 EDT |
+| sase | [`4381a90`](https://github.com/sase-org/sase/commit/4381a90bbc7b3080b256bce9728bc8baf8175447) | docs: refresh guides for current workflows | 2026-08-12 20:13:16 UTC |
 
 ## Neighbors
 

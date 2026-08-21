@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | sase | [`2b64c55`](https://github.com/sase-org/sase/commit/2b64c5582926243545bfa4187c0ed10f1885285f) | fix(procs): merge legacy logs into an existing procs/logs directory | 2026-08-14 00:06:26 EDT |
+| 2 | sase | [`2b64c55`](https://github.com/sase-org/sase/commit/2b64c5582926243545bfa4187c0ed10f1885285f) | fix(procs): merge legacy logs into an existing procs/logs directory | 2026-08-14 04:06:26 UTC |
 
 ## Neighbors
 

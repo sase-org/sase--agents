@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cfdaf30`](https://github.com/sase-org/sase/commit/cfdaf304ddc66403637c8793c1c6ce3f2d91b7e3) | docs: research admin center tab migration candidates | 2026-06-26 15:29:19 EDT |
+| sase | [`cfdaf30`](https://github.com/sase-org/sase/commit/cfdaf304ddc66403637c8793c1c6ce3f2d91b7e3) | docs: research admin center tab migration candidates | 2026-06-26 19:29:19 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

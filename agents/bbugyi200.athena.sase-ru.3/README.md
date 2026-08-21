@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d194ec4`](https://github.com/sase-org/sase/commit/d194ec4457df92c50d46bf3e3168cc64de27a5a2) | fix(beads): stamp stall clocks so EpicResume can soak real failures | 2026-08-21 11:34:49 EDT |
+| sase | [`d194ec4`](https://github.com/sase-org/sase/commit/d194ec4457df92c50d46bf3e3168cc64de27a5a2) | fix(beads): stamp stall clocks so EpicResume can soak real failures | 2026-08-21 15:34:49 UTC |
 
 ## Neighbors
 

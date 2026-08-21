@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`10a3af6`](https://github.com/sase-org/sase/commit/10a3af60984bf637dcb000460db7e1443b117059) | refactor: split artifact provider registry | 2026-08-13 11:04:14 EDT |
+| sase | [`10a3af6`](https://github.com/sase-org/sase/commit/10a3af60984bf637dcb000460db7e1443b117059) | refactor: split artifact provider registry | 2026-08-13 15:04:14 UTC |
 
 ## Neighbors
 

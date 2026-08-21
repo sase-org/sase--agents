@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`fb7b836`](https://github.com/sase-org/sase/commit/fb7b8366e4960081593235d66a7e73886f50d9fc) | fix(runner-slots): order queue display by capacity | 2026-08-10 10:34:19 EDT |
+| code | sase | [`fb7b836`](https://github.com/sase-org/sase/commit/fb7b8366e4960081593235d66a7e73886f50d9fc) | fix(runner-slots): order queue display by capacity | 2026-08-10 14:34:19 UTC |

@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`010b01a`](https://github.com/sase-org/sase/commit/010b01a4143e7e5fac5fb2efe26182245c86cc0c) | fix: focus invalid gate inputs before warning | 2026-08-08 10:41:24 EDT |
+| code | sase | [`010b01a`](https://github.com/sase-org/sase/commit/010b01a4143e7e5fac5fb2efe26182245c86cc0c) | fix: focus invalid gate inputs before warning | 2026-08-08 14:41:24 UTC |
 
 ## Neighbors
 

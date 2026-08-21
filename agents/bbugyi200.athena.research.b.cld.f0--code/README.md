@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d6771fe`](https://github.com/sase-org/sase/commit/d6771fe404545914ee60bef9026294b83d3276ec) | fix: require repo skill for repository web fetches | 2026-07-14 07:57:35 EDT |
+| sase | [`d6771fe`](https://github.com/sase-org/sase/commit/d6771fe404545914ee60bef9026294b83d3276ec) | fix: require repo skill for repository web fetches | 2026-07-14 11:57:35 UTC |
 
 ## Neighbors
 
@@ -81,4 +81,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 287 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`d32b2d4`](https://github.com/sase-org/sase/commit/d32b2d4a0ed321c310943e2de5347f1cab021f38) | feat(ace): collapse clans from selected agent panel | 2026-07-22 09:23:52 EDT |
+| — | sase | [`d32b2d4`](https://github.com/sase-org/sase/commit/d32b2d4a0ed321c310943e2de5347f1cab021f38) | feat(ace): collapse clans from selected agent panel | 2026-07-22 13:23:52 UTC |
 
 ## Neighbors
 

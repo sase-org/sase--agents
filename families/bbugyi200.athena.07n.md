@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`87d86bd`](https://github.com/sase-org/sase/commit/87d86bd255172394570d7fd6f9e36563797116b6) | chore: Add SDD prompt and plan for commit\_tag\_prefix | 2026-06-27 08:55:46 EDT |
-| — | sase | [`d671181`](https://github.com/sase-org/sase/commit/d6711811f24a03542095fa5e085416d1bfa4cfb2) | feat(commit)!: prefix SASE commit footer tags with SASE\_ | 2026-06-27 09:16:49 EDT |
+| — | sase | [`87d86bd`](https://github.com/sase-org/sase/commit/87d86bd255172394570d7fd6f9e36563797116b6) | chore: Add SDD prompt and plan for commit\_tag\_prefix | 2026-06-27 12:55:46 UTC |
+| — | sase | [`d671181`](https://github.com/sase-org/sase/commit/d6711811f24a03542095fa5e085416d1bfa4cfb2) | feat(commit)!: prefix SASE commit footer tags with SASE\_ | 2026-06-27 13:16:49 UTC |

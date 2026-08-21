@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2ce2820`](https://github.com/sase-org/sase/commit/2ce282049b0b44114743b0a739ca2e1e5f999d11) | test: split bead show CLI tests by output format | 2026-07-31 13:49:06 EDT |
+| sase | [`2ce2820`](https://github.com/sase-org/sase/commit/2ce282049b0b44114743b0a739ca2e1e5f999d11) | test: split bead show CLI tests by output format | 2026-07-31 17:49:06 UTC |

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`72dd097`](https://github.com/sase-org/sase/commit/72dd097dea91f57a001e171904fa28cb31edf369) | refactor(axe): split agent finalization helpers | 2026-08-02 15:13:29 EDT |
+| sase | [`72dd097`](https://github.com/sase-org/sase/commit/72dd097dea91f57a001e171904fa28cb31edf369) | refactor(axe): split agent finalization helpers | 2026-08-02 19:13:29 UTC |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f5338b8`](https://github.com/sase-org/sase/commit/f5338b812004b469631077e13a9852c37f480f7d) | docs: consolidate bead work latency research | 2026-06-23 12:12:14 EDT |
+| sase | [`f5338b8`](https://github.com/sase-org/sase/commit/f5338b812004b469631077e13a9852c37f480f7d) | docs: consolidate bead work latency research | 2026-06-23 16:12:14 UTC |
 
 ## Neighbors
 
@@ -80,4 +80,4 @@
 | [research.0b.cld](../bbugyi200.athena.research.0b.cld/README.md) | research hood | active |
 | [research.0b.final](../bbugyi200.athena.research.0b.final/README.md) | research hood | active |
 | [research.0b.image](../bbugyi200.athena.research.0b.image/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 289 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`56dbeb2`](https://github.com/sase-org/sase/commit/56dbeb2f6d9715dc6710eb4ba0e78c9dc408fd0b) | fix(stats): make All time window and empty-window states honest | 2026-08-17 12:31:12 EDT |
+| sase | [`56dbeb2`](https://github.com/sase-org/sase/commit/56dbeb2f6d9715dc6710eb4ba0e78c9dc408fd0b) | fix(stats): make All time window and empty-window states honest | 2026-08-17 16:31:12 UTC |
 
 ## Neighbors
 

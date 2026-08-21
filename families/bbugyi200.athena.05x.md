@@ -24,8 +24,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`8428b79`](https://github.com/sase-org/sase/commit/8428b7962fe6346ab31a7712c391025641a1ee9e) | feat: save prompt drafts as xprompts | 2026-06-25 08:27:46 EDT |
-| code | sase | [`27033f3`](https://github.com/sase-org/sase/commit/27033f367a371a4d6b6003d01f8b4b0c6c9025ce) | docs(readme): drop explicit-only qualifier from agent status cells | 2026-08-18 08:12:48 EDT |
+| — | sase | [`8428b79`](https://github.com/sase-org/sase/commit/8428b7962fe6346ab31a7712c391025641a1ee9e) | feat: save prompt drafts as xprompts | 2026-06-25 12:27:46 UTC |
+| code | sase | [`27033f3`](https://github.com/sase-org/sase/commit/27033f367a371a4d6b6003d01f8b4b0c6c9025ce) | docs(readme): drop explicit-only qualifier from agent status cells | 2026-08-18 12:12:48 UTC |
 
 ## Neighbors
 

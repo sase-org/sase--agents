@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`146982d`](https://github.com/sase-org/sase/commit/146982d144c3c4c68cba7d65afae5646808dd793) | feat(ace): render tribe description as a labeled block below the header | 2026-07-31 09:44:40 EDT |
+| — | sase | [`146982d`](https://github.com/sase-org/sase/commit/146982d144c3c4c68cba7d65afae5646808dd793) | feat(ace): render tribe description as a labeled block below the header | 2026-07-31 13:44:40 UTC |

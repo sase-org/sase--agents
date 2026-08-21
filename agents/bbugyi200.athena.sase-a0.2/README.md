@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f90108a`](https://github.com/sase-org/sase/commit/f90108a46beb4305672921509275ed43337bc692) | chore(sdd): land sase-9z epic cleanup and sase-core-rs 0.11.3 floor (sase-9z) | 2026-07-27 12:27:40 EDT |
+| sase | [`f90108a`](https://github.com/sase-org/sase/commit/f90108a46beb4305672921509275ed43337bc692) | chore(sdd): land sase-9z epic cleanup and sase-core-rs 0.11.3 floor (sase-9z) | 2026-07-27 16:27:40 UTC |
 
 ## Neighbors
 
