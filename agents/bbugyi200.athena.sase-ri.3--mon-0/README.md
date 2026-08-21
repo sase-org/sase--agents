@@ -1,29 +1,22 @@
-# Agent: sase-ri.3--plan
+# Agent: sase-ri.3--mon-0
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ri](../../users/bbugyi200/machines/athena/hoods/sase-ri/README.md) / [sase-ri.3](../../families/bbugyi200.athena.sase-ri.3.md) / sase-ri.3--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ri](../../users/bbugyi200/machines/athena/hoods/sase-ri/README.md) / [sase-ri.3](../../families/bbugyi200.athena.sase-ri.3.md) / sase-ri.3--mon-0
 
-**Global name:** `bbugyi200.athena.sase-ri.3--plan` · **State:** completed · **Source run:** `run-f7b95b7aeae67242ae98ff56f8c6a9ae`
+**Global name:** `bbugyi200.athena.sase-ri.3--mon-0` · **State:** failed · **Source run:** `run-8208a82e900d36a669083efdc638de75`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ri
 
 ## Summary
 
 - Bead: [sase-ri.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ri/sase-ri.3.md)
-- Epic: [sase-ri](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ri/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-20T16:44:27.870863+00:00
-- Commits: [1](#commits)
+- Timing: 2026-08-20T17:43:59.771437+00:00
+- Commits: 0
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`4c304ad`](https://github.com/sase-org/sase/commit/4c304ad1fb78a611f7caa23ed9b6c9b3a1c0103c) | refactor(tui): extract reusable snippets pane | 2026-08-20 13:39:06 EDT |
+[Chat](chat.md)
 
 ## Neighbors
 
