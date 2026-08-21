@@ -12,7 +12,13 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-21T23:28:16.027258+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`959a547`](https://github.com/sase-org/sase/commit/959a547709e7ed6a400494ed57a2009749ad4cdb) | test(release): keep ledger invariants off the core-floor contract set | 2026-08-21 23:44:58 UTC |
 
 ## Neighbors
 

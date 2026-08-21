@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-rr.5.land--code | active | grok-4.6 / grok | 2026-08-21T23:28:16.027258+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-rr.5.land--code | active | grok-4.6 / grok | 2026-08-21T23:28:16.027258+00:00 | [1](../agents/bbugyi200.athena.sase-rr.5.land--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-rr.5.land--plan | active | gpt-5.6-sol / codex | 2026-08-21T23:11:34.654560+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-rr.5.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-rr.5.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`959a547`](https://github.com/sase-org/sase/commit/959a547709e7ed6a400494ed57a2009749ad4cdb) | test(release): keep ledger invariants off the core-floor contract set | 2026-08-21 23:44:58 UTC |
 
 ## Neighbors
 

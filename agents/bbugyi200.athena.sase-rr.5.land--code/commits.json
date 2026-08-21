@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-07e8e91cb55ca3762df09bddcb2bdf85"}
+{"commits":[{"committed_at":1787355898,"sha":"959a547709e7ed6a400494ed57a2009749ad4cdb","subject":"test(release): keep ledger invariants off the core-floor contract set"}],"schema_version":2,"source_run_id":"run-07e8e91cb55ca3762df09bddcb2bdf85"}
