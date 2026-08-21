@@ -32,4 +32,4 @@
 | [sase-rj.1](../bbugyi200.athena.sase-rj.1/README.md) | sase-rj hood | completed |
 | [sase-rj.2](../bbugyi200.athena.sase-rj.2/README.md) | sase-rj hood | completed |
 | [sase-rj.3](../../families/bbugyi200.athena.sase-rj.3.md) (family · 5) | sase-rj hood | completed 3, failed 2 |
-| [sase-rj.land](../bbugyi200.athena.sase-rj.land/README.md) | sase-rj hood | active |
+| [sase-rj.land](../../families/bbugyi200.athena.sase-rj.land.md) (family · 2) | sase-rj hood | active 2 |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0e01f93134a9014ae211c644c158c3a5"}
+{"commits":[{"committed_at":1787305720,"sha":"4a3e691964b6715a8698cce29fd5a16d55d50acc","subject":"feat(completion): add inventory and snippet candidate providers"}],"schema_version":2,"source_run_id":"run-0e01f93134a9014ae211c644c158c3a5"}

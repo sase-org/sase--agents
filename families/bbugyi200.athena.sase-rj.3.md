@@ -42,4 +42,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-rj.1](../agents/bbugyi200.athena.sase-rj.1/README.md) | sase-rj hood | completed |
 | [sase-rj.2](../agents/bbugyi200.athena.sase-rj.2/README.md) | sase-rj hood | completed |
 | [sase-rj.4](../agents/bbugyi200.athena.sase-rj.4/README.md) | sase-rj hood | completed |
-| [sase-rj.land](../agents/bbugyi200.athena.sase-rj.land/README.md) | sase-rj hood | active |
+| [sase-rj.land](bbugyi200.athena.sase-rj.land.md) (family · 2) | sase-rj hood | active 2 |
