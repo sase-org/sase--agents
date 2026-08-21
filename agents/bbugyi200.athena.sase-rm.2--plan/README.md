@@ -26,13 +26,13 @@
 | [sase-rm.1](../../families/bbugyi200.athena.sase-rm.1.md) (family · 2) | sase-rm hood | completed 2 |
 | [sase-rm.10](../bbugyi200.athena.sase-rm.10/README.md) | sase-rm hood | waiting |
 | [sase-rm.11](../../families/bbugyi200.athena.sase-rm.11.md) (family · 2) | sase-rm hood | completed 2 |
-| [sase-rm.12](../bbugyi200.athena.sase-rm.12/README.md) | sase-rm hood | active |
+| [sase-rm.12](../bbugyi200.athena.sase-rm.12/README.md) | sase-rm hood | completed |
 | [sase-rm.13](../bbugyi200.athena.sase-rm.13/README.md) | sase-rm hood | waiting |
 | [sase-rm.3](../../families/bbugyi200.athena.sase-rm.3.md) (family · 2) | sase-rm hood | completed 2 |
 | [sase-rm.4](../../families/bbugyi200.athena.sase-rm.4.md) (family · 2) | sase-rm hood | completed 2 |
 | [sase-rm.5](../bbugyi200.athena.sase-rm.5/README.md) | sase-rm hood | waiting |
 | [sase-rm.6](../../families/bbugyi200.athena.sase-rm.6.md) (family · 8) | sase-rm hood | active 1, completed 4, failed 3 |
-| [sase-rm.6](../bbugyi200.athena.sase-rm.6/README.md) | sase-rm hood | active |
+| [sase-rm.6](../bbugyi200.athena.sase-rm.6/README.md) | sase-rm hood | completed |
 | [sase-rm.7](../bbugyi200.athena.sase-rm.7/README.md) | sase-rm hood | completed |
 | [sase-rm.8](../bbugyi200.athena.sase-rm.8/README.md) | sase-rm hood | active |
 | [sase-rm.9](../../families/bbugyi200.athena.sase-rm.9.md) (family · 3) | sase-rm hood | completed 2, failed 1 |
