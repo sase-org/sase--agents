@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | 0a3--plan | active | gpt-5.6-sol / codex | 2026-08-21T19:10:51.932233+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0a3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0a3--plan/chat.md) |
-| <a id="member-code"></a>code | 0a3--code | active | gpt-5.5 / codex | 2026-08-21T19:30:39.220441+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 0a3--code | active | gpt-5.5 / codex | 2026-08-21T19:30:39.220441+00:00 | [1](../agents/bbugyi200.athena.0a3--code/README.md#commits) | — | — |
 
 ## Commits
 
@@ -26,3 +26,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|
 | — | sase | [`ad98a7e`](https://github.com/sase-org/sase/commit/ad98a7e9a5175a3d753d48ae82310694889d9753) | chore: Add SDD prompt and plan for updates\_tab\_keymap\_rework | 2026-06-29 11:39:05 EDT |
 | — | sase | [`c095d43`](https://github.com/sase-org/sase/commit/c095d438d9ce42eaf10f800e5ed9defe69ee47d4) | feat!: rework plugin update keybindings | 2026-06-29 11:54:15 EDT |
+| code | sase | [`f1c3555`](https://github.com/sase-org/sase/commit/f1c3555636475866b3c357f2accc5207f3a7c37b) | test(feature-flags): prevent host config writes | 2026-08-21 16:06:16 EDT |

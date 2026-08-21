@@ -84,4 +84,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.0a.final](../agents/bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../agents/bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../agents/bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 282 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 286 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
