@@ -303,7 +303,7 @@
 | [09q](hoods/09q/README.md) | 2 | 1 | active 2 |
 | [09r](hoods/09r/README.md) | 3 | 1 | active 2, completed 1 |
 | [09s](hoods/09s/README.md) | 3 | 1 | completed 3 |
-| [09t](hoods/09t/README.md) | 1 | 0 | completed 1 |
+| [09t](hoods/09t/README.md) | 1 | 0 | active 1 |
 | [09u](hoods/09u/README.md) | 1 | 0 | completed 1 |
 | [09v](hoods/09v/README.md) | 1 | 0 | completed 1 |
 | [09w](hoods/09w/README.md) | 1 | 0 | completed 1 |
