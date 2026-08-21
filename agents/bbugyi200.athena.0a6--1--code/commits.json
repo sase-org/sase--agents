@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1787348108,"sha":"028d4c8715002c42e1c6b4ae9c3d3a77a3145ce9","subject":"fix(release): allow transitive lock refresh in release metadata"}],"schema_version":2,"source_run_id":"run-9e6b837961829c3af8aaf9d1ccc6b5b9"}
