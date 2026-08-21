@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 09s--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-09s__plan-260821_123845.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-09s__code-260821_123845.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/auto_commit_artifact_links.md
 
 

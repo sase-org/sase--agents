@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-rm` · Members: 2 · Bead: [sase-rm](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-rm.land--code [active]"]
-  n1["sase-rm.land--plan [active]"]
+  n0["sase-rm.land--code [completed]"]
+  n1["sase-rm.land--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-rm.land--code | active | grok-4.6 / grok | 2026-08-21T17:27:26.303383+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-rm.land--plan | active | gpt-5.6-sol / codex | 2026-08-21T16:49:55.849765+00:00 | [2](../agents/bbugyi200.athena.sase-rm.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-rm.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-rm.land--plan/chat.md) |
+| <a id="member-code"></a>code | sase-rm.land--code | completed | grok-4.6 / grok | 2026-08-21T17:27:26.303383+00:00 → 2026-08-21T17:44:45.275024+00:00 | [1](../agents/bbugyi200.athena.sase-rm.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-rm.land--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-rm.land--plan | completed | gpt-5.6-sol / codex | 2026-08-21T16:49:55.849765+00:00 → 2026-08-21T17:44:45.275024+00:00 | [2](../agents/bbugyi200.athena.sase-rm.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-rm.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-rm.land--plan/chat.md) |
 
 ## Commits
 
@@ -26,6 +26,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|
 | plan | sase | [`bcb7411`](https://github.com/sase-org/sase/commit/bcb7411aca13ba9a607762f290430dd7df005108) | fix(finalizers): complete public API cleanup | 2026-08-21 13:20:36 EDT |
 | plan | sase | [`5fe0587`](https://github.com/sase-org/sase/commit/5fe0587b0134d5196ab07872ff1006e504e64b04) | fix(flags): integrate saved-state facade with retired flags | 2026-08-21 13:25:40 EDT |
+| code | sase | [`a1ee712`](https://github.com/sase-org/sase/commit/a1ee712381d7e5c038f576329970450a10c2c91d) | refactor(finalizers): export declaration helpers as a public API | 2026-08-21 13:43:40 EDT |
 
 ## Neighbors
 

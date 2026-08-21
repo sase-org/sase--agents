@@ -13,11 +13,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-21T16:59:47.488538+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`b8a827b`](https://github.com/sase-org/sase/commit/b8a827bea3807b40ab11d9f61056a77c31227376) | feat(tui): add Config Flags pane with sunset rollout and ACE+AXE restart | 2026-08-21 13:54:05 EDT |
 
 ## Neighbors
 
@@ -26,6 +32,6 @@
 | [sase-rs.1](../bbugyi200.athena.sase-rs.1/README.md) | sase-rs hood | completed |
 | [sase-rs.2](../../families/bbugyi200.athena.sase-rs.2.md) (family · 3) | sase-rs hood | completed 2, failed 1 |
 | [sase-rs.3](../bbugyi200.athena.sase-rs.3/README.md) | sase-rs hood | completed |
-| [sase-rs.4](../bbugyi200.athena.sase-rs.4/README.md) | sase-rs hood | active |
+| [sase-rs.4](../bbugyi200.athena.sase-rs.4/README.md) | sase-rs hood | completed |
 | [sase-rs.6](../bbugyi200.athena.sase-rs.6/README.md) | sase-rs hood | waiting |
 | [sase-rs.land](../bbugyi200.athena.sase-rs.land/README.md) | sase-rs hood | waiting |

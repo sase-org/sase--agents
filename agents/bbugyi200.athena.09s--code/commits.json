@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4ab96ae68a67ade78f2e4737ef16531b"}
+{"commits":[{"committed_at":1787334329,"sha":"0a1aef7d80cd755b3f55ea62ee8aa4e69759daca","subject":"feat(artifact-links): persist sidecar indexes on mutate and finalize"}],"schema_version":2,"source_run_id":"run-4ab96ae68a67ade78f2e4737ef16531b"}

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-33ebae35c844d99b6da247689c681989"}
+{"commits":[{"committed_at":1787334220,"sha":"a1ee712381d7e5c038f576329970450a10c2c91d","subject":"refactor(finalizers): export declaration helpers as a public API"}],"schema_version":2,"source_run_id":"run-33ebae35c844d99b6da247689c681989"}

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-rm](../../users/bbugyi200/machines/athena/hoods/sase-rm/README.md) / [sase-rm.land](../../families/bbugyi200.athena.sase-rm.land.md) / sase-rm.land--code
 
-**Global name:** `bbugyi200.athena.sase-rm.land--code` · **State:** active · **Source run:** `run-33ebae35c844d99b6da247689c681989`
+**Global name:** `bbugyi200.athena.sase-rm.land--code` · **State:** completed · **Source run:** `run-33ebae35c844d99b6da247689c681989`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-rm
 
@@ -11,8 +11,18 @@
 - Bead: [sase-rm](https://github.com/sase-org/sase--beads/blob/main/pages/sase-rm/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-21T17:27:26.303383+00:00
-- Commits: 0
+- Timing: 2026-08-21T17:27:26.303383+00:00 → 2026-08-21T17:44:45.275024+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`a1ee712`](https://github.com/sase-org/sase/commit/a1ee712381d7e5c038f576329970450a10c2c91d) | refactor(finalizers): export declaration helpers as a public API | 2026-08-21 13:43:40 EDT |
 
 ## Neighbors
 
