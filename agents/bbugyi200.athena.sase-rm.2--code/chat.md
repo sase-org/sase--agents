@@ -1,45 +1,289 @@
 # Chat History - ace-run (sase-rm.2--code)
 
-- **TIMESTAMP:** 2026-08-20 16:33:13 EDT
-- **MODEL:** codex/gpt-5.6-sol
+- **TIMESTAMP:** 2026-08-21 05:52:30 EDT
+- **MODEL:** codex/gpt-5.5
 - **AGENT:** sase-rm.2--code
+
+## Linked Chats
+
+- 1. --plan — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_rm_2__plan-260821_050212.md`
+- **2. --code** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_rm_2__code-260821_050212.md`
 
 ## Prompt
 
 %model:@medium
 #gh:gh_sase-org__sase
-@sase/repos/plans/202608/completion_architecture.md
+@/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_20/sase/repos/plans/202608/completion_architecture_recovery.md
 
 The above plan has been reviewed and approved. Implement it now.
 
 
 ## Response
 
-# Monitor handoff
+I’ll resolve and read the approved plan through the SASE artifact workflow first, then map it onto the current checkout before editing.
 
-This agent delegated the remaining work to a monitor shell.
-Monitor ID: m99nd68a0ebr
-Inspect with: sase monitor show m99nd68a0ebr
-Monitor shell: sase-rm.2--mon
-Directory: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_19
+The plan was provided as a staged prompt file path rather than a canonical `file:`/`plan:` ref, so the artifact reader can’t consume it directly. I’ll read the staged copy and keep it as the source of truth for the implementation.
 
-Command:
+This is a cross-repo phase: primary Python/TUI code plus the linked Rust core. I’m loading the repo and bead workflow instructions now so the edits and closure happen through the project’s expected paths.
 
-```sh
-just check
-```
+I’m checking the long-memory notes for bead handling and xprompt-specific behavior before touching completion paths or phase evidence.
 
-Reason:
+The linked Rust checkout is at `sase/repos/linked/sase-core`. I’m inspecting both trees now to see what current master already has and where the completion code lives.
 
-Primary just check after completion-architecture implementation; scoped lane escalates because core identity and Justfile changed
+The core instructions are straightforward: use `just check` there before finishing and don’t hand-edit release versions. I’m now reading the existing completion model, candidate providers, facade modules, and Rust LSP/binding surfaces.
 
-Next action:
+The Python catalog already has a rich entry dataclass and local filter; the core work is to move only the filter contract to Rust while keeping Python as the catalog source. I’m checking the supporting tests and provider registry before editing.
 
-Primary just check finished after implementing plan 202608/completion_architecture.md (phase sase-rm.2). sase-core just check already passed. Evidence notes for sase-m1, sase-ou, sase-ov, and sase-re are already on sase-rm.2.
+Some pieces are already close to the desired shape: Rust has native snippet catalog loading and the LSP has the same model filter duplicated locally. I’m going to add a shared core model-completion module, bind it to Python, then swap both Python and LSP callers onto it.
 
-If just check failed: fix real regressions from this work. Ignore tests/test_suite_gate_reclaim.py::test_fresh_heartbeat_is_not_reclaimed if it is only a worker-token timeout (already recorded as PROPOSED FOLLOW-UP). Re-run the failing tests, then just check if needed.
+Repository candidates currently only expose primaries and workspace basenames. The existing `collect_repo_inventory()` already has the linked/sidecar/external data we need, so this part can be a narrow provider swap once the import path is safe.
 
-If just check passed (or the only failure is that heartbeat flake): run `sase bead epic-symbols sase-rm.2` and resolve any symbols, then close ONLY sase-rm.2 with `sase bead close sase-rm.2 --note "..."` naming sase-core just check plus primary just check. Do not close sase-m1, sase-ou, sase-ov, sase-re, or the parent epic.
+Next I’m checking the facade modules targeted by the plan. The goal there is mechanical: keep their public API but avoid importing the leaf modules until a symbol is actually requested.
 
-Then reply to the user with what was implemented, where, and the verification outcome. Uncommitted work is in this workspace (sase) and the linked sase-core checkout.
+The facade test directory is broad, so I’m switching to targeted searches rather than dumping it wholesale. The current facades eagerly import enough leaf modules to trip fast-path imports; I’ll add a small helper and focused subprocess import tests.
 
+The fast-path contract is explicit and measured in `tests/main/test_completion_candidates_contract.py`. I’ll update that only after measuring the new provider mix, keeping the forbidden import assertions intact.
+
+I’ll make the first edit batch in the Rust core: new shared model-completion wire/filter module, public exports, PyO3 bindings, and LSP call-site replacement.
+
+I found the Rust snippet loader already composes xprompt-derived and `ace.snippets` entries, including aliases and precedence. The PyO3 change will just expose that loader; the Python fast-path provider can stay small.
+
+I’m picking up from the approved recovery plan and the prior repo scan. First I’m re-reading the small completion/provider surfaces that drive the edits, then I’ll patch core, Python adapters, and the candidate tests together so the behavior stays aligned.
+
+The repo candidate path is currently built from lifecycle project rows, so it can’t see sidecars/linked/external inventory. I’ll switch that provider to the repo inventory API and keep the completion fast path lazy by importing the inventory only inside the fetcher.
+
+For snippets, the parser currently treats `TRIGGER` as plain text everywhere. I’ll add a new `snippet` completion kind only to `show` and `delete`, then back it with the Rust snippet catalog binding so shell completion doesn’t import the Python xprompt stack.
+
+The Rust core already owns the snippet catalog loader, but it is not exposed over PyO3. I’m going to add two PyO3 bridges in the core repo: one for the snippet catalog loader, and one for the new `%model` filter once the pure Rust filter module is in place.
+
+The LSP still has its own `%model` filtering copy. I’ll replace that with core-filter calls while leaving the LSP-only rendering code in place, which keeps completion labels/details unchanged but removes duplicate matching logic.
+
+I’m narrowing the PyO3 file to the import/registration/test regions. It’s large, so I’m avoiding broad dumps and patching only the wrapper points that matter.
+
+I found the module registration points. The next edit batch will add the Rust model filter module, re-export it, register its PyO3 wrapper, and add focused Rust tests before I wire the Python callers to it.
+
+For the model filter I’m preserving the existing matching rules exactly: catalog order, alias-only `@`, provider scope only when a provider row exists, and the nested slash fallback where a model value like `anthropic/...` still matches normally.
+
+I’m ready to patch the linked Rust core now. This will be a contained change: one new core module, a couple of exports/bindings, and the LSP call-site swap.
+
+I’m applying the Rust-side edits now. After this batch I’ll run targeted Rust tests for the new pure filter and bindings before moving back to Python.
+
+The first patch was rejected because it split edits to the same large PyO3 file into separate hunks. I’ll reapply in smaller file-scoped patches so the patcher can verify each change cleanly.
+
+The core filter module is in place. Next I’m exporting it from `sase_core` and wiring the PyO3 wrappers around that API plus the existing Rust snippet loader.
+
+I’m patching the PyO3 file in small hunks: imports first, then wrapper functions, then registration and focused tests.
+
+The PyO3 imports now point at the new core model filter and existing snippet loader. I’m adding the actual exported wrapper functions next.
+
+The wrapper functions are in. I’m adding the strict list-of-dicts validator so Python callers fail loudly on schema drift instead of silently passing malformed rows into Rust.
+
+The validator is in. I’m registering the new bindings on the `sase_core_rs` module now.
+
+I’m adding focused PyO3 tests for the snippet loader bridge and the strict model filter bridge. These tests are small and keep to plain JSON-shaped payloads, matching the Python boundary.
+
+The LSP still has duplicate filter helpers. I’m replacing that entire branch with `filter_model_completion_candidates`, while keeping the detail/documentation renderer unchanged except for the shared wire type name.
+
+The LSP call path now uses core filtering. I’m cleaning up the catalog loader so it deserializes into the shared wire struct and still tolerates old or malformed catalog rows.
+
+The Rust side is staged. I’m moving to the Python `%model` adapter now: one canonical field list, payload serialization through that list, and live filtering through `sase_core_rs.filter_model_completion_entries`.
+
+The Python `%model` payload and live filtering now share one field list and call into Rust. I’ll expose that field list in the module exports so tests and adjacent adapters can assert the exact wire shape.
+
+I’m adding the new constant to the module’s public surface; the existing tests already assert the actual payload values, and this lets the field-list contract be checked directly.
+
+The export block is slightly longer than the snippet showed, so I’m checking the surrounding lines before patching it.
+
+Found the existing export block. I’ll add the field-list constant alongside the schema version.
+
+I’m tightening the Python payload test to assert that catalog row ordering follows the shared field-list constant, not a hand-maintained dict shape.
+
+The `%model` Python side is wired. I’m switching to the import-latency piece now: introduce one deterministic lazy-export helper and convert the eager package facades to explicit symbol maps.
+
+I’m adding a small reusable lazy-export helper first, then I’ll replace each eager facade with an explicit symbol map plus `TYPE_CHECKING` imports. This keeps runtime imports cheap without changing static import affordances.
+
+The helper is in. I’m converting `sase.core` next, preserving its old public names and the legacy direct attribute for `get_workspace_directory_for_changespec`.
+
+`sase.core` is now lazy. I’m converting `sase.sdd` using the same helper and explicit maps for bead/file/store exports.
+
+`sase.sdd` is lazy now. I’m converting `sase.workspace_provider`, which has the largest export set; the important part is keeping plugin hook types and registry helpers addressable without importing the plugin registry at package import time.
+
+The lazy facades are converted. I’m adding subprocess import-contract tests now so each package is checked in a fresh interpreter for lazy import behavior, `dir()`, `from package import symbol`, and cached attributes.
+
+Next I’m fixing repo candidates to use the repo inventory API. That will surface primary, linked, sidecar, and external repos with deterministic dedupe and project-scoped filtering, without resolving or materializing anything.
+
+I’m checking `RepoRecord` construction so the repo provider test can patch the inventory cleanly instead of mocking lifecycle project records.
+
+The inventory display helper prefers `slug`, as expected. I’m updating the repo completion test to cover primary, linked, sidecar, dedupe, and project scoping through the new provider.
+
+I’m adding the snippet completion kind and provider now. The provider will call only `sase_core_rs.load_editor_snippet_catalog`, return no candidates on malformed/native failures, and use the existing completion cache TTL plus a local config/source path mtime.
+
+The snippet provider can stay very small; it only needs to normalize the Rust JSON rows into `Candidate` objects and keep source descriptions short. I’m adding that provider and registering `ValueKind.SNIPPET`.
+
+`snippet` is registered as a provider-backed value kind. I’m updating the contracts and provider tests so the new kind is shipped, and only `snippet show/delete TRIGGER` resolves to it.
+
+The snapshot still shows `snippet show/delete` trigger kinds as `null`; that will be regenerated after formatting. I’m updating the unit contracts first.
+
+I’m adding provider tests for snippet candidates, including native loader errors and malformed payloads degrading to no candidates.
+
+The provider tests are in. I’m updating the completion docs so the shipped kind list includes `snippet`, and documenting that repo/snippet values now come from inventory/Rust catalog loaders.
+
+Before regenerating completion specs, I’m checking the prompt/skill providers. I don’t want to add a blanket “no `sase.xprompt` import” assertion if existing xprompt completions legitimately import that package; for snippets I’ll keep the fast path provider isolated.
+
+The snippet-specific import path doesn’t touch the Python `sase.xprompt` or `sase.snippet` stack. I’m doing a quick static check of the edited facades/provider files before formatting and spec regeneration.
+
+The static Python compile passed. Rust formatting found only mechanical changes; I’m applying `cargo fmt` in the linked core repo now.
+
+The Rust tree is formatted. Since this workspace can have stale editable installs, I’m running `just install` before Python-side generation/tests so the new `sase_core_rs` bindings are available to the primary repo.
+
+`just install` is still building the editable Rust/Python extension. I’m waiting for it to finish before regenerating completion specs or running Python tests that need the new bindings.
+
+The build is in the `sase_core` crate now. I’m continuing to wait; no tests are running yet.
+
+`just install` is still compiling; this is expected because it is rebuilding the local PyO3 wheel after the core API changes.
+
+The install is still active without new output. I’m waiting for completion rather than starting dependent commands against a half-built extension.
+
+The wheel build has reached `sase_core_py`, so the new Python bindings are being compiled now.
+
+Still building the PyO3 extension. I’m keeping this command in the foreground until it exits.
+
+No new output yet; the extension compile is still running.
+
+The install is still active. Once it finishes I’ll immediately run the focused Rust/Python tests and regenerate the completion snapshot.
+
+`just install` completed and installed the rebuilt `sase_core_rs`. I’m running focused Rust tests now: the new core model filter, the PyO3 model/snippet bridges, and the LSP model completion path.
+
+Rust formatting passed. The focused `sase_core` test run is compiling the test profile now, so I’m waiting for that result before starting the PyO3/LSP test runs.
+
+The core model filter tests passed. I’m running the focused PyO3 binding tests and the LSP model-completion regression next.
+
+The parallel cargo tests are contending on Cargo’s build lock; that’s harmless but slower. I’m waiting for the active build to finish and will read each result.
+
+The PyO3 test compile exposed a test helper issue: serde in this toolchain does not serialize const-generic arrays beyond fixed impls. I’m changing that helper to serialize `aliases.to_vec()` and then I’ll rerun the two binding tests.
+
+The helper is fixed. I’m polling the LSP test that was already compiling; then I’ll format and rerun the PyO3 binding tests.
+
+The LSP regression passed. I’m formatting the small PyO3 test-helper change and rerunning the focused binding tests.
+
+The focused Rust/PyO3/LSP tests are green. I’m running the repo formatter next, then I’ll regenerate the completion snapshot so `snippet` kinds appear in the spec.
+
+Formatting passed and updated one Python file. I’m regenerating the completion spec snapshot now so the parser/kind changes are reflected in `cli_spec.json`.
+
+The completion spec snapshot regenerated. I’m locating the snapshot test name and then I’ll run the focused Python suite covering model filtering, candidates, lazy facades, kind resolution, and the generated spec.
+
+The snapshot changed exactly where expected: shipped kinds plus `snippet show/delete` trigger positions. I’m running the focused Python tests now.
+
+That pytest invocation picked up the ambient Python 3.13 instead of the workspace `.venv`, so it lacked project dev dependencies like `rich`. I’m rerunning the same focused suite through `.venv/bin/pytest`.
+
+The focused Python suite passed in the venv. The wall-clock contract now shows individual candidate probes well under the existing 150 ms budget; I’m updating the stale budget comment that still referenced eager `sase.core` imports.
+
+The budget comment is now current. I’m checking the diff and then I’ll run the required repo checks: first targeted spot checks for the new command outputs, then `just check` in the linked core repo and primary repo.
+
+The snippet candidate CLI is returning real Rust-loaded snippets. The unscoped repo probe is empty in this isolated workspace, so I’m checking a project-scoped repo probe as well; the provider behavior itself is covered by the patched inventory test.
+
+The scoped CLI printed no rows because my direct inventory probe had the wrong return-shape assumption: `collect_repo_inventory` returns an inventory object, not a bare list. I’m correcting the probe and the provider code if needed.
+
+The repo provider did need a correction: it was iterating the inventory object instead of `inventory.records`, which the fast path swallowed as an empty result. I’m fixing that and tightening the test fake to match the real return type.
+
+The repo provider now uses `inventory.records`, and the test mock matches the real `RepoInventory` shape. I’m rerunning the relevant focused tests and repo/snippet probes.
+
+The repo and snippet probes now both return the expected real data. I changed Python after the formatter, so I’m running `just fmt` once more before the final checks.
+
+Formatting is clean. I’m rerunning the full focused Python suite after the repo-provider fix, then I’ll start the required `just check` gates.
+
+The focused Python suite passed again. I’m running `just check` in the linked `sase-core` repo now, as required for Rust core changes.
+
+`just check` in `sase-core` is still running through the Rust check/test pipeline. I’m waiting for the final result before starting the primary repo check.
+
+The linked core check has finished `cargo check` and is compiling tests. Still waiting on the same `just check` session.
+
+`just check` is still compiling the linked core test binaries. I’m continuing to wait for completion.
+
+`just check` passed in the linked `sase-core` repo. I’m running the primary repo’s required `just check` now.
+
+The primary `just check` has passed formatting, keep-sorted, and ruff. It’s still running the remaining gates.
+
+Mypy passed. The primary check is continuing into the scoped test selection/run.
+
+The primary `just check` failed before tests on an existing feature-flag lifecycle rule: closed flag bead `sase-rk` still has `admin_center_config_hub` defined. I didn’t touch flags, so I’m checking whether this is an unrelated baseline failure or a small stale definition that must be removed to let the required gate pass.
+
+The linked core check passed. The remaining blocker is the primary feature-flag lint failure. I’m reading the flag registry/check logic to see whether passing the gate requires removing only the stale registry definition or a broader unrelated cleanup.
+
+The stale flag is broader than a single registry row: consumers still branch on it and tests still override it. Removing the flag correctly would be a separate cleanup of Admin Center behavior, not a safe incidental edit to this completion phase. I’ll keep it out of this implementation and report the primary `just check` blocker.
+
+I’m checking the phase bead before making any bead updates. Because the primary gate failed on an unrelated stale flag, I need to decide carefully whether to only add evidence/blocker notes or also close the phase.
+
+The phase already has earlier evidence notes, but some are now stale relative to the recovered implementation. I’m going to append a concise correction note with the actual files, checks, and the unrelated primary-check blocker; I won’t close the phase while `just check` is red.
+
+I’m appending one correction note to `sase-rm.2` rather than editing prior notes. It records the actual recovered implementation and clearly marks why I’m leaving the phase open.
+
+The correction note is appended. I’m running `sase bead epic-symbols sase-rm.2` to inspect closure blockers, but I’m not closing the phase because the primary check is still red.
+
+`epic-symbols` reports no blockers for `sase-rm.2`. I’m doing a final status/diff check now so the final report can distinguish implemented work, passed checks, and the one unrelated blocked gate.
+
+Implemented the approved recovery work across the primary repo and linked `sase-core`.
+
+What changed:
+- Moved `%model` filtering into Rust core with PyO3 and LSP callers wired through it.
+- Added lazy package facades for `sase.core`, `sase.sdd`, and `sase.workspace_provider`.
+- Switched repo completion to `collect_repo_inventory().records`, including sidecar/linked/external repos.
+- Added live `snippet` completion for `sase snippet show/delete` via Rust snippet catalog loading.
+- Updated completion docs, generated CLI completion snapshot, and focused tests.
+- Appended a recovery evidence note to `sase-rm.2`; `tools/sase_bead epic-symbols sase-rm.2` reports no entries.
+
+Verification:
+- `just install` passed.
+- Linked `sase-core`: focused Rust/PyO3/LSP tests passed, and full `just check` passed.
+- Primary focused Python suite passed: 71 tests.
+- Primary `just check` did not pass. It fails on an unrelated existing feature-flag lifecycle rule: closed flag bead `sase-rk` still has surviving definition `admin_center_config_hub`.
+
+I left `sase-rm.2` open because the approved closure checklist includes a clean primary `just check`, and that gate is currently red for the stale flag cleanup.
+
+I’ll finish the finalizer work in this turn: close the phase bead as requested, then commit the main repo and linked `sase-core` changes through the SASE commit workflow.
+
+I’m using `sase_git_commit` because the post-completion finalizer explicitly requires SASE commits, and `sase_memory_read` because closing the phase bead is a bead lifecycle operation.
+
+The bead rules confirm `sase bead close ... --note` is the right lifecycle command. I’m resolving the linked core checkout through `sase repo open` before touching its git state.
+
+Before committing I’m checking both worktrees for exactly what is dirty, then I’ll close `sase-rm.2` with the verification evidence from the completed checks.
+
+The dirty files match the finalizer’s list: Python completion/facade work in the main repo and Rust core/LSP/bindings work in `sase-core`. I’m closing the phase bead now with the verification note the finalizer asked for.
+
+The bead close command is still running. I’m waiting for its exit status because the finalizer treats a failed or unpublished close differently from a normal close.
+
+The phase bead close published cleanly. I’m preparing separate conventional commit messages for the main repo and linked core repo, then I’ll run the SASE commit wrapper in each repository.
+
+The temporary `.sase` directories exist and are ignored by git. I’m writing the commit message files now so failed commit attempts can be retried with the same messages.
+
+I’m committing the main workspace first. The SASE wrapper will stage all changed and untracked files in that repo, create the commit, and handle the normal push/rebase path.
+
+The main commit command is active. I’m waiting for its final exit code and any stitch output before touching the linked core repo.
+
+The main commit is running its configured pre-commit hook (`just fix`). I’m letting that finish inside this turn so any hook edits are included by the wrapper.
+
+The primary commit has been created and dispatched successfully; the wrapper is still doing post-commit bookkeeping. I’m continuing to wait for the command to exit before checking status.
+
+The wrapper has not exited after reporting success, so I’m checking the local process tree rather than assuming it is done. If it is waiting on a child process, I’ll block on that here.
+
+The main repo commit finished successfully, with only a prompt archive/outbox warning from the SASE wrapper. I’m checking the main worktree is clean and not ahead before moving on.
+
+The main repo is clean and aligned with `origin/master`. I’m committing the linked `sase-core` repo now, using the commit message already written in that checkout.
+
+The linked core commit command is active. I’m waiting for it to complete and will immediately check `git status --short --branch` afterward, as the finalizer requires.
+
+The linked core commit has been created and dispatched; like the main repo, the wrapper is still finishing its post-commit bookkeeping. I’m waiting for the actual process exit. 
+
+
+The linked core commit exited successfully with the same prompt archive/outbox warning. I’m checking the linked repo status now, then I’ll do a final clean-status pass over both repos.
+
+Both repositories are clean and aligned with `origin/master`. I’m reading the final commit IDs so the close-out can identify exactly what landed.
+
+Finalizer completed.
+
+- Closed phase bead `sase-rm.2` with the verification note.
+- Committed main workspace: `4a3e69196 feat(completion): add inventory and snippet candidate providers`
+- Committed linked `sase-core`: `427d57e feat(completion): share model filtering with bindings and LSP`
+- Confirmed both repos are clean and aligned with `origin/master`.
+
+The SASE commit wrapper exited successfully in both repos. It did emit non-blocking prompt archive/quarantined outbox warnings. The previously noted unrelated primary `just check` blocker for stale flag `admin_center_config_hub` remains.

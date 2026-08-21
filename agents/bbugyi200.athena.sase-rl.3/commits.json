@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d0c242a4a831a0e70a2e0392851111a4"}
+{"commits":[{"committed_at":1787307332,"sha":"e31fef74460a9bcf58ed3c182ec81294351bbdcf","subject":"feat(tui): persist mini-xprompt saves safely"}],"schema_version":2,"source_run_id":"run-d0c242a4a831a0e70a2e0392851111a4"}

@@ -8,14 +8,14 @@ Owner: `bbugyi200.athena` · Hood: `sase-ri` · Members: 5 · Bead: [sase-ri.3](
 
 ```mermaid
 flowchart TD
-  n0["sase-ri.3--2 [completed]"]
-  n1["sase-ri.3--mon [failed]"]
+  n0["sase-ri.3--2 [dismissed]"]
+  n1["sase-ri.3--mon [dismissed]"]
   n0 --> n1
-  n2["sase-ri.3--mon-0 [failed]"]
+  n2["sase-ri.3--mon-0 [dismissed]"]
   n0 --> n2
-  n3["sase-ri.3--1 [completed]"]
+  n3["sase-ri.3--1 [dismissed]"]
   n0 --> n3
-  n4["sase-ri.3--plan [completed]"]
+  n4["sase-ri.3--plan [dismissed]"]
   n0 --> n4
 ```
 
@@ -23,26 +23,29 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-2"></a>2 | sase-ri.3--2 | completed | gpt-5.5 / codex | 2026-08-20T18:02:02.373120+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ri.3--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ri.3--2/chat.md) |
-| <a id="member-mon"></a>mon | sase-ri.3--mon | failed | gpt-5.5 / codex | 2026-08-20T17:17:51.344214+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ri.3--mon/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | sase-ri.3--mon-0 | failed | gpt-5.5 / codex | 2026-08-20T17:43:59.771437+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ri.3--mon-0/chat.md) |
-| <a id="member-1"></a>1 | sase-ri.3--1 | completed | gpt-5.5 / codex | 2026-08-20T17:37:08.251733+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ri.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ri.3--1/chat.md) |
-| <a id="member-plan"></a>plan | sase-ri.3--plan | completed | gpt-5.5 / codex | 2026-08-20T16:44:27.870863+00:00 | [1](../agents/bbugyi200.athena.sase-ri.3--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-ri.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ri.3--plan/chat.md) |
+| <a id="member-2"></a>2 | sase-ri.3--2 | dismissed | — | 2026-08-20T14:01:45 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-ri.3--mon | dismissed | — | 2026-08-20T13:17:51 | 0 | — | — |
+| <a id="member-mon-0"></a>mon-0 | sase-ri.3--mon-0 | dismissed | — | 2026-08-20T13:43:59 | 0 | — | — |
+| <a id="member-1"></a>1 | sase-ri.3--1 | dismissed | — | 2026-08-20T13:37:01 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-ri.3--plan | dismissed | — | 2026-08-20T12:43:51 | 0 | — | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| plan | sase | [`4c304ad`](https://github.com/sase-org/sase/commit/4c304ad1fb78a611f7caa23ed9b6c9b3a1c0103c) | refactor(tui): extract reusable snippets pane | 2026-08-20 13:39:06 EDT |
+| — | sase | [`4c304ad`](https://github.com/sase-org/sase/commit/4c304ad1fb78a611f7caa23ed9b6c9b3a1c0103c) | refactor(tui): extract reusable snippets pane | 2026-08-20 13:39:06 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ri.1](../agents/bbugyi200.athena.sase-ri.1/README.md) | sase-ri hood | completed |
-| [sase-ri.2](../agents/bbugyi200.athena.sase-ri.2/README.md) | sase-ri hood | completed |
-| [sase-ri.4](../agents/bbugyi200.athena.sase-ri.4/README.md) | sase-ri hood | completed |
-| [sase-ri.5](../agents/bbugyi200.athena.sase-ri.5/README.md) | sase-ri hood | active |
-| [sase-ri.land](../agents/bbugyi200.athena.sase-ri.land/README.md) | sase-ri hood | waiting |
-| [sase-ri.land.w1](../agents/bbugyi200.athena.sase-ri.land.w1/README.md) | sase-ri hood | waiting |
-| [sase-ri.land.w1.f0](../agents/bbugyi200.athena.sase-ri.land.w1.f0/README.md) | sase-ri hood | waiting |
+| [sase-ri.1](../agents/bbugyi200.athena.sase-ri.1/README.md) | sase-ri hood | dismissed |
+| [sase-ri.2](../agents/bbugyi200.athena.sase-ri.2/README.md) | sase-ri hood | dismissed |
+| [sase-ri.4](../agents/bbugyi200.athena.sase-ri.4/README.md) | sase-ri hood | dismissed |
+| [sase-ri.5](../agents/bbugyi200.athena.sase-ri.5/README.md) | sase-ri hood | dismissed |
+| [sase-ri.land](../agents/bbugyi200.athena.sase-ri.land/README.md) | sase-ri hood | dismissed |
+| [sase-ri.land.w1.f0](../agents/bbugyi200.athena.sase-ri.land.w1.f0/README.md) | sase-ri hood | dismissed |
+| [sase-ri.land.w2](bbugyi200.athena.sase-ri.land.w2.md) (family · 2) | sase-ri hood | failed 2 |
+| [sase-ri.land.w2.f0](../agents/bbugyi200.athena.sase-ri.land.w2.f0/README.md) | sase-ri hood | dismissed |
+| [sase-ri.land.w2.f1](../agents/bbugyi200.athena.sase-ri.land.w2.f1/README.md) | sase-ri hood | dismissed |
+| [sase-ri.land.w2.f2](../agents/bbugyi200.athena.sase-ri.land.w2.f2/README.md) | sase-ri hood | waiting |

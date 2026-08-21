@@ -13,7 +13,13 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-21T09:46:03.485954+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`b8559f3`](https://github.com/sase-org/sase/commit/b8559f36f00a3f46c0ee0ce7343dc50735275900) | fix(ace): stabilize async teardown and interaction waits | 2026-08-21 06:47:03 EDT |
 
 ## Neighbors
 
@@ -23,10 +29,10 @@
 | [sase-rm.11](../../families/bbugyi200.athena.sase-rm.11.md) (family · 2) | sase-rm hood | completed 2 |
 | [sase-rm.12](../bbugyi200.athena.sase-rm.12/README.md) | sase-rm hood | completed |
 | [sase-rm.13](../bbugyi200.athena.sase-rm.13/README.md) | sase-rm hood | waiting |
-| [sase-rm.2](../../families/bbugyi200.athena.sase-rm.2.md) (family · 4) | sase-rm hood | active 2, failed 2 |
+| [sase-rm.2](../../families/bbugyi200.athena.sase-rm.2.md) (family · 4) | sase-rm hood | completed 2, failed 2 |
 | [sase-rm.3](../../families/bbugyi200.athena.sase-rm.3.md) (family · 2) | sase-rm hood | completed 2 |
 | [sase-rm.4](../../families/bbugyi200.athena.sase-rm.4.md) (family · 2) | sase-rm hood | completed 2 |
-| [sase-rm.5](../bbugyi200.athena.sase-rm.5/README.md) | sase-rm hood | waiting |
+| [sase-rm.5](../../families/bbugyi200.athena.sase-rm.5.md) (family · 2) | sase-rm hood | active 2 |
 | [sase-rm.6](../../families/bbugyi200.athena.sase-rm.6.md) (family · 8) | sase-rm hood | active 1, completed 4, failed 3 |
 | [sase-rm.6](../bbugyi200.athena.sase-rm.6/README.md) | sase-rm hood | completed |
 | [sase-rm.7](../bbugyi200.athena.sase-rm.7/README.md) | sase-rm hood | completed |
