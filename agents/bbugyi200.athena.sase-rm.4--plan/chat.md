@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-rm.4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_rm_4__plan-260820_144919.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_rm_4__code-260820_144919.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/successor_publication.md
 
 

@@ -1,0 +1,359 @@
+# Chat History - ace-run (sase-rm.4--code)
+
+- **TIMESTAMP:** 2026-08-20 17:12:05 EDT
+- **MODEL:** codex/gpt-5.5
+- **AGENT:** sase-rm.4--code
+
+## Linked Chats
+
+- 1. --plan — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_rm_4__plan-260820_144919.md`
+- **2. --code** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_rm_4__code-260820_144919.md`
+
+## Prompt
+
+%model:@medium
+#gh:gh_sase-org__sase
+@sase/repos/plans/202608/successor_publication.md
+
+The above plan has been reviewed and approved. Implement it now.
+
+
+## Response
+
+I’ll read the approved plan and the surrounding repo state first, then implement against the existing code and run the required checks for any changes.
+
+The plan spans this repo and the linked `sase-research-artifacts` plugin, and it also requires bead updates at the end. I’m loading the required SASE repo and memory-read procedures before touching those areas.
+
+I’m also reading the xprompt and bead lifecycle memories because the implementation changes prompt expansion and the handoff asks for phase-bead evidence/closure.
+
+The linked repo is opened through `sase repo open`; I’m checking its own agent instructions and locating the research prompt/test files now.
+
+I’ve confirmed both worktrees are clean. Next I’m tracing the exact helpers named in the plan so the edits stay inside the existing successor/publication paths.
+
+The plugin prompt is currently unparameterized exactly as the plan describes. In the primary repo, I’m opening the successor engine, artifact helper, plan feedback branch, and publication outbox code side by side to map the smallest implementation path.
+
+The feedback branch currently duplicates successor setup; the existing successor helper is close but lacks a hook for pre-create metadata. I’m checking the current tests around plan feedback so I can migrate it without breaking the established suffix and artifact expectations.
+
+There are already focused tests for the successor engine and follow-up artifact helper. I’m reading those next because they’re the best place to add the collision regression and callback ordering coverage.
+
+The artifact helper still creates timestamp directories from wall clock time. I’m going to change only the follow-up path to reserve a launch timestamp first, matching detached launches, and leave other artifact directory callers alone.
+
+For the publication bug, I’m looking at the outbox lifecycle and current doctor behavior before changing the retry/retire rule. The plan calls for retiring only on a repeated identical format error, so I’m preserving that guard.
+
+The exact retirement special case lives in `commit_publication_transaction`; I’m opening that transaction layer and the doctor fixture so the new terminal behavior is covered end to end rather than only at the lower outbox primitive.
+
+For deterministic research targets, the keyed marker resolution happens during multi-prompt launch planning, not plain xprompt expansion. I’m reading those tests/helpers so the plugin regression can exercise the same real dispatch path.
+
+One important test-side effect: reserving timestamps writes SASE state. I’m checking the test harness before wiring that in so the new helper behavior can be patched or sandboxed cleanly.
+
+The outbox primitive already has the “same error twice” guard. The implementation change is just to nominate every `AgentsSyncFormatError` from hood preparation as terminal-capable, then cover that through the real drain and doctor rendering.
+
+I found a clean way to make the publication regression start with an aged `attempts=0` request: enqueue it under a patched outbox clock, then run the real queued drain twice. That covers the lifecycle without relying on wall-clock sleeps.
+
+The pipe E2E path already runs real fakey subprocesses. I’m checking the harness boundaries before adding a frozen-clock repeated pipe case, because the timestamp patch must affect the process that creates the successor artifacts.
+
+I have enough context to start editing. The changes will be scoped to the research xprompt targets, the shared successor artifact reservation/callback path, the plan-feedback caller, the publication terminal-candidate rule, and focused regressions.
+
+The plugin now gives each researcher an explicit keyed target and keeps bare `#research` compatible. I’m moving to the primary repo changes: reserved timestamps for follow-ups and the successor callback needed by plan feedback.
+
+The plan-feedback migration uses the shared successor engine now; I caught one import cleanup issue while reviewing the patch and am fixing that before running tests.
+
+I’m adding regressions at the helper and successor-engine levels now: one for unique real follow-up directories under a frozen launch clock, and one for the new pre-create callback ordering.
+
+The regression tests are in place. Next I’m changing the publication transaction rule and adding the requested lifecycle/doctor coverage for repeated `AgentsSyncFormatError` failures.
+
+I’m inserting the new publication regression beside the existing queue-drain tests so it exercises the same code path that handles the older “no publishable runs” terminal case.
+
+The new doctor assertion should be isolated from any ambient owner-manifest configuration, so I’m adding a small patch to keep that check focused only on the retired outbox item.
+
+I’m adding the repeated real pipe transition case now. It uses one frozen launch timestamp source and verifies the reservation layer, not sleeps or longer timeouts, creates distinct successor directories.
+
+The pipe regression is added. I’m doing a quick static pass over the edited Python now, then I’ll run the focused tests and adjust any failing expectations.
+
+The quick `python -m py_compile` used the host `python`, which is older than this repo’s target, so I’m switching to the repo’s normal `just`/pytest environment. First I’m refreshing installs in both repos as required.
+
+Both installs are still running Rust extension builds; I’m waiting for them to finish before test execution so the focused runs use the refreshed editable packages.
+
+The builds are still holding the cargo build lock. I’m continuing to wait; no code changes are happening while this is in progress.
+
+The install processes are still active and quiet, likely still blocked on/inside the shared Rust build. I’ll keep them attached until they exit rather than leaving background sessions behind.
+
+This is taking longer than expected, but both sessions are still running. I’m giving the Rust build more time; if it stalls out, I’ll switch to the focused test runs with the existing environment and report the install issue.
+
+The plugin install completed. The primary repo install has started compiling after the lock released; I’m waiting for that one to finish.
+
+Primary install is still in the Rust build. No new action yet; I’m keeping the session attached.
+
+Still building quietly. I’ll continue waiting so the repo is left in a known installed state before tests.
+
+The primary install is still running past the usual duration. I’m giving it another interval; if it exits cleanly, I’ll immediately run the focused test set.
+
+The Rust build completed and the primary install is now running the required plugin setup step. I’m waiting for that final install phase.
+
+Both installs are complete. I’m running the plugin xprompt test first, then the primary focused regressions.
+
+The focused primary tests have started; the plugin test target is rebuilding its local Rust binding again as part of its test recipe. I’m waiting on both.
+
+The primary focused pytest run is queued behind the suite-gate worker-token lease, so it is waiting rather than executing tests yet. I’m keeping it attached; the plugin run is still building.
+
+No failures yet. The primary run remains queued by the suite gate; I’m continuing to wait on the existing sessions.
+
+The primary focused tests are now running and have started passing. Plugin test setup is still in its Rust build step.
+
+The plugin test failed at collection because I imported a helper name that is not exported in the installed SASE version. I’m switching the plugin regression to the exported metadata-expansion helper it already provides.
+
+The helper I copied from core tests is local to the core test suite. I’m using the production `expand_xprompt_swarms_with_metadata()` API directly in the plugin test instead.
+
+I’m checking that patched plugin test block for clean syntax, then I’ll rerun it.
+
+The primary focused run reached a failure at the end. I’m pulling the failure details now.
+
+The failure summary has not printed yet; the pytest process is still unwinding. I’m waiting for the full traceback.
+
+The new pipe E2E failed because the default successor uses the test Claude stub and finishes immediately, so it cannot be piped a second time. I’m moving the repeated frozen-clock pipe coverage to the pipe handler with real artifact creation, while keeping the existing default E2E node for verification/repetition.
+
+I removed the unsuitable repeated E2E case. Now I’m adding the repeated default pipe regression at the handler boundary using the production successor/artifact functions.
+
+I’m rerunning the plugin xprompt test directly in its venv, and the new pipe handler regression directly in the primary venv, to iterate without repeating the full install recipes.
+
+The plugin regression failed only because SASE qualifies xprompt names by normalizing `_` to `.`, so the deterministic marker prefix is `research.swarm`. I’m updating the expected marker and the dependency assertions to match the production normalizer.
+
+The pipe handler regression passes. I’m rerunning the plugin xprompt test with the corrected marker expectations.
+
+The plugin focused test passes now. I’m rerunning the primary focused set with the new pipe handler regression and the existing default pipe E2E node.
+
+The focused primary set passes. I’m repeating the exact default pipe E2E node a few times now to exercise the contention-sensitive path without adding a flake baseline entry.
+
+The repeated default pipe E2E node passed three consecutive runs. I’m adding two narrow plan-feedback assertions now for the unnamed fallback and metadata-before-create ordering, since the plan explicitly called out that migration surface.
+
+The extra plan-feedback assertions are added. I’m running that test module directly to catch any mock-order issues.
+
+The added plan-feedback tests pass. I’m checking the two worktrees before the full `just check` runs.
+
+The diffs are limited to the planned files. I’m starting the required `just check` in `sase-research-artifacts` first, then I’ll run it in the primary repo.
+
+`sase-research-artifacts` `just check` passed. I’m running the required primary `just check` now.
+
+Primary `just check` found only formatting issues in two edited test files. I’m applying ruff formatting to those files and will rerun the check.
+
+Formatting is fixed. I’m rerunning primary `just check`.
+
+Primary `just check` has passed formatting and early lint gates and is still running the remaining checks/tests.
+
+No failure output yet; the primary check is still running.
+
+Mypy passed; `just check` is now in the test-selection portion.
+
+The remaining lint gates are passing; I’m waiting on the scoped test lane now.
+
+The check is still progressing through project lint gates. No failures so far.
+
+Symvision and size checks passed. I’m waiting for the final scoped tests.
+
+No new output in this interval; the scoped test command is still attached.
+
+`just check` emitted the existing core-floor probe warning/status but continued past it and marked committed-plan validation passed. I’m waiting for the final test result.
+
+Still running, likely in scoped pytest selection.
+
+No final status yet; I’m keeping the check attached.
+
+The primary check is still running quietly. No action needed unless it reports a failure.
+
+Still attached and waiting on the final scoped test lane.
+
+The check has been quiet for a few minutes, which is normal for the scoped test phase under suite gating. I’m still waiting on the existing process.
+
+This inline `just check` is taking long, but it is already running and I won’t leave it detached. I’m continuing to wait for completion.
+
+I’m checking the process state in a separate read-only command to see whether the quiet phase is active pytest or waiting on a gate.
+
+The check is actively running pytest in this workspace (`tools/run_pytest scoped`), with some nested pytest/PDF tests active. I’m continuing to wait.
+
+Still waiting on scoped pytest.
+
+No new output yet; I’m keeping the check attached until it finishes.
+
+The scoped test lane is still quiet but running. I’m waiting another interval.
+
+This is long enough that I’m checking the active pytest children again to see what remains.
+
+The scoped pytest has its 7 xdist workers still alive, so the check has not deadlocked at the shell level. I’m continuing to wait for pytest’s own timeout/result.
+
+Still no completion output. I’m keeping it attached.
+
+The scoped run is still quiet; no failure has surfaced.
+
+I’m going to inspect worker CPU/elapsed time to distinguish active work from an idle hang, while leaving `just check` running.
+
+Workers are CPU-active, so this is a long active scoped run rather than an idle wait. I’ll continue waiting.
+
+Still active, no result yet.
+
+The primary scoped run is still underway.
+
+No completion yet; I’m continuing to monitor.
+
+Still waiting on pytest workers.
+
+The check is now well into the scoped pytest phase but still consuming CPU. I’m not interrupting it because this is the required gate for file changes.
+
+Still running; no failures reported.
+
+The scoped run continues. I’ll report final status once it exits.
+
+No output in this interval; still attached.
+
+I’m checking worker status again; the run has been long enough that I want to make sure it remains active.
+
+The xdist worker processes have exited; the pytest controller is still finalizing. I’m waiting for the summary.
+
+Primary `just check` escalated to the full suite because of core identity rules. It ran 35,415 tests and found one failing directive-completion test, which looks adjacent to the existing core-floor capability warning rather than to my touched paths. I’m rerunning that node directly to get the full failure.
+
+The failing node reproduces alone and is tied to the directive-completion Rust capability that the check itself reported as missing before pytest. I’m verifying whether the local Rust binding actually lacks that API or whether the editable install was overwritten.
+
+The binding does expose the directive functions, so the failing test is likely a semantic mismatch in the linked Rust core’s candidate data, not a missing Python install. I’m checking the candidate payload quickly.
+
+I used the wrong internal helper name in that probe. I’m opening the test helper and the production wrapper to inspect the shape.
+
+I’ve got the implementation and most verification in place. I’m going to finish by checking the remaining failed verification path, then I’ll update the phase bead evidence according to the approved handoff plan instead of creating separate task beads.
+
+The code changes are still scoped to the intended files. The only remaining verification problem is the full-suite directive completion failure, so I’m checking whether that is a consequence of this tree before I decide how to record it on the phase bead.
+
+The failing test is in a directive-completion area untouched by this plan. I’m checking the classifier and core candidate boundary now; if it’s a pre-existing core/test mismatch, I’ll record it as follow-up evidence rather than broadening this implementation into another component.
+
+The directive helper behaves correctly once `%id` already has a positional identity, but it still doesn’t offer identity keywords as the first parenthesized token. I’m going to rerun that node once to make sure the failure signature is stable before I decide whether to patch it or treat it as out of scope.
+
+The rerun confirms a stable failure in first-token `%id(...)` keyword completion, not in the successor/publication changes. Since that behavior lives on the Rust completion contract boundary, I’ll only inspect the linked core after opening it through the repo tool, then I’ll decide whether there is a tight fix or whether to record it as a follow-up.
+
+The repo opener requires an audited reason. I’m reopening it with that context so any linked-core inspection stays inside the project workflow.
+
+Opening the linked core fast-forwarded it to `origin/master`. That may be exactly why the full suite saw a core-identity escalation, so I’m rerunning the failing node against the updated binding before making any code decision.
+
+The fast-forward didn’t change the failing behavior by itself. I’m checking whether the Python binding is still using a built artifact from before the linked-core update; if so, reinstalling may be enough, otherwise it’s a separate core behavior gap.
+
+The linked core source already has tests for `%id` keyword candidates, but the installed Python module may not be rebuilt from that source. I’m checking the wrapper and the Rust candidate path before deciding whether to rerun install.
+
+The core source intentionally treats first `%id(...)` tokens as free-form positional text right now, so fixing that would mean changing directive grammar/completion semantics outside this approved phase. I’m moving back to the phase handoff work and will record this as a verification follow-up instead of altering unrelated behavior.
+
+`epic-symbols` is already clean for `sase-rm.4`. The task list output is large, so I’m narrowing it through JSON filtering to find the five task beads assigned to this phase.
+
+The parent plan names the five assigned tasks explicitly: `sase-m0`, `sase-p0`, `sase-pb`, `sase-pz`, and `sase-r2`. I’m re-reading those live bead records now so the phase note can tie each implementation slice to its close condition.
+
+The dependency tree has no blocker and `epic-symbols` is clean. I’m collecting the five task records and history next, then I’ll append a single close-ready phase note rather than touching those task beads directly.
+
+The fifth task is `sase-pc` for the feedback replan path. I’ve got the assigned set now: `sase-m0`, `sase-p0`, `sase-pb`, `sase-pc`, and `sase-r2`.
+
+I’m waiting on the bead reads. Once those return, I’ll write the close-ready note with exact changed files and the verification commands/results already collected.
+
+Three of the task records are in; they match the plan’s expected failure shapes. I’m waiting on the remaining two, then I’ll compose the phase note in one command to keep the bead history clean.
+
+The bead history is clean and the five tasks are still ready, so I won’t close or mutate them. Before appending the phase note, I’m doing one final diff review for obvious mistakes in the new implementation and tests.
+
+The main diff looks as expected. I noticed one subtle compatibility question in the feedback metadata path, so I’m checking the old helper contract to avoid changing unnamed-agent metadata accidentally.
+
+`agent_name_for_suffix` returns `None` for unnamed contexts, so the new metadata callback preserves that part. I’m checking the test fixture patching now because it determines whether the new callback order test is proving the real write path or only the `update_meta_field` side effects.
+
+The fallback token and metadata callback match the old named/unnamed behavior. I’m now checking formatting/status after the linked-core fast-forward and then I’ll add the phase note.
+
+One mismatch surfaced in the final review: the feedback branch has always passed `followup_agent_name` into `record_workflow_metadata`, but the helper’s retained-field list drops it. The approved plan explicitly calls out preserving that resolved follow-up name before artifact creation, so I’m going to add that field to the retained list and tighten the order test to prove it.
+
+I’m making a small metadata allow-list edit now and adjusting the feedback order test so it proves `followup_agent_name` is written before artifacts are created.
+
+The metadata allow-list now includes `followup_agent_name`, and the focused feedback test asserts it happens before artifact creation. I’m rerunning the focused primary and plugin tests after that last edit.
+
+The plugin xprompt suite is green after the final edit. The primary focused suite is still running but has completed the early tests cleanly so far.
+
+Focused primary tests are green: 53 passed. I’m rerunning the required primary `just check` now after the metadata tweak; based on the previous run, it may escalate to the full lane and hit the same directive-completion failure.
+
+`just check` is through setup and formatting/keep-sorted. It is now moving through lint/type gates before the test-selection lane.
+
+Ruff passed. I’m still waiting on the remaining static gates and the scoped/full test lane.
+
+Mypy passed. The check is continuing through project-specific validation gates now.
+
+The rerun failed before tests at the feature-flag gate: closed flag bead `sase-rk` still has an `admin_center_config_hub` definition in this workspace. That is unrelated to the successor/publication files and appears to be concurrent backlog work landing out of sync with this workspace, so I’m checking the flag location before recording it as a phase follow-up.
+
+The flag definition is still in this checkout, while `sase-rk` is already closed in the live bead store. That explains the new `just check` blocker and it is outside this phase’s touched area.
+
+I’m going to append the phase handoff note now. It will include one close-ready evidence block for each assigned task plus two proposed follow-ups for unrelated verification blockers observed during this phase.
+
+The phase handoff note is recorded. I’m rerunning `epic-symbols` now, then I’ll close only `sase-rm.4` with a verification summary, leaving the five task beads for the land agent.
+
+`epic-symbols` is clean for `sase-rm.4`. Closing the phase bead now with the verified scope and the two unrelated check blockers called out in the phase note.
+
+`sase-rm.4` is closed. I’m doing a final status check across the primary repo, the linked plugin, and the bead sidecar so the final answer accurately distinguishes code changes from bead metadata changes.
+
+The working tree has only the expected primary and plugin source/test changes. Linked `sase-core` is clean at `279f0e0` after the audited repo open fast-forward.
+
+Implemented the approved `successor_publication` plan and closed `sase-rm.4`.
+
+Changed:
+- Research plugin xprompts now support deterministic `report_target` paths and no-overwrite collision behavior.
+- In-process successor artifact creation now reserves unique timestamps.
+- Feedback replans now go through `continue_as_successor`, with pre-create metadata preservation.
+- Repeated `AgentsSyncFormatError` publication failures now retire with `terminal_reason`.
+- Added regressions for repeated pipe/family transitions under a frozen clock.
+
+Verified:
+- Plugin: `tests/test_xprompt_loading.py` passed, and plugin `just check` passed.
+- Primary focused suite: 53 passed.
+- `sase bead epic-symbols sase-rm.4`: clean.
+- Appended close-ready evidence for `sase-m0`, `sase-p0`, `sase-pb`, `sase-pc`, and `sase-r2`; did not close those task beads or the parent epic.
+
+Primary `just check` is not green due unrelated blockers, both recorded as `PROPOSED FOLLOW-UP` notes on `sase-rm.4`:
+- Latest run failed at feature flags: closed flag bead `sase-rk` while this checkout still contains `admin_center_config_hub`.
+- Earlier full-lane escalation failed unrelated directive completion node `test_id_parenthesized_completion_advertises_identity_keywords`.
+
+Linked `sase-core` was opened through `sase repo open` and fast-forwarded cleanly to `279f0e0`; no dirty changes there.
+
+I’m in the finalizer path now: I’ll publish/verify the phase close as instructed, then commit the primary repo and the linked research-artifacts repo using the SASE commit workflow.
+
+I’m using the required SASE skills for this finalizer: `sase_git_commit` for commits, `sase_memory_read` for the bead close rule, and `sase_repo` before touching the linked repo path.
+
+The bead lifecycle memory confirms re-closing the phase is a safe no-op when already closed, which matches the finalizer’s verification step. I’m waiting on the linked-repo open command before checking the dirty trees.
+
+The linked repo path is resolved through `sase repo open`. I’m checking both dirty trees now to confirm the finalizer-listed changes are exactly what will be swept into each commit.
+
+The dirty files match the finalizer list. The primary branch is behind upstream, but the commit workflow is supposed to handle upstream movement after it creates the local commit, so I’m not syncing it manually.
+
+The required phase close command completed and recorded the finalizer note. I’m preparing commit messages next, one for each repository, with the research plugin change split from the main SASE engine/test changes.
+
+I’m writing the commit message files in each repo’s ignored `.sase/` directory, then I’ll invoke `sase_git_commit` from each repository.
+
+The phase close note may have updated bead-store files in addition to the code changes, so I’m checking the main status once more before the commit sweep.
+
+The commit sweep is cleanly scoped to the intended source and test files. I’m committing the main workspace first; the workflow may rebase because this branch is behind upstream.
+
+The main commit workflow has created the commit and is still finishing its post-commit bookkeeping. I’m keeping the session attached until it exits.
+
+The primary commit succeeded; only prompt archive publication was skipped because the raw prompt archive is unavailable in this finalizer context. I’m waiting for the command’s final exit so I can verify branch cleanliness.
+
+The commit process is quiet but still attached; I’m not starting the linked repo commit until this one exits cleanly.
+
+This post-commit phase is taking longer than usual, so I’m checking the live process state in a separate read-only command while leaving the commit session attached.
+
+The `sase stitch create` subprocess is CPU-active, so it has not deadlocked. I’m continuing to wait for its final status.
+
+The main commit command exited successfully, with a warning about existing quarantined publication requests. I’m checking branch status now before moving to the linked repo commit.
+
+The main workspace is clean and aligned with `origin/master`. I’m committing the linked `sase-research-artifacts` changes next.
+
+The linked repo commit has been created and is finishing the same post-commit bookkeeping. I’ll keep it attached and then verify the linked repo status.
+
+The linked commit command is still running quietly after commit creation; I’m checking whether the underlying stitch process remains active.
+
+The stitch process is still active, so I’m waiting for it to finish rather than leaving a background operation behind.
+
+No new output yet from the linked repo commit finalization. I’m still attached to the running command.
+
+The linked commit command exited successfully with the same existing outbox warning. I’m verifying both repositories are clean before the final response.
+
+Committed the implemented changes in both repositories:
+
+- Main workspace: `982ad299e fix: make successor handoffs collision-safe`
+- `sase-research-artifacts`: `83f4c01 fix: make research report targets deterministic`
+
+I also ran the required `sase bead close sase-rm.4 --note ...`; the phase was already closed, so it appended the finalizer verification note.
+
+Both repositories now report clean and aligned with `origin/master`. The commit workflow succeeded, with the existing warning that prompt archive publication was skipped because `agent raw_xprompt.md` is unavailable and there are 57 quarantined agent-hood publication requests.

@@ -1,10 +1,10 @@
 # Chat History - ace-run (sase-rm.2--plan)
 
-- **TIMESTAMP:** 2026-08-20 15:01:30 EDT
+- **TIMESTAMP:** 2026-08-21 05:07:55 EDT
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-rm.2--plan
 
-**Plan:** /home/bryan/.sase/plans/202608/completion_architecture.md
+**Plan:** /home/bryan/.sase/plans/202608/completion_architecture_recovery.md
 
 
 ## Prompt
@@ -36,18 +36,18 @@ before making any file changes.
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202608/completion_architecture.md`
+**Plan file:** `/home/bryan/.sase/plans/202608/completion_architecture_recovery.md`
 
 > - **PARENT:** [202608/task_backlog_closeout.md](202608/task_backlog_closeout.md)
 > - **BEAD:** sase-rm.2
-> # Unify completion filtering and expose complete live catalogs
-> ## Outcome
-> Complete phase `sase-rm.2` and provide close-ready evidence for its four assigned task
-> beads without closing those tasks or the parent epic:
-> - `sase-m1`: one `sase-core` implementation filters `%model` catalog entries for both
->   the Python/ACE binding and the Rust xprompt LSP.
-> - `sase-ou`: importing a `sase.core.*` leaf no longer eagerly imports unrelated facade
->   modules, and compatibility exports remain available lazily.
+> # Recover and land the completion architecture phase
+> ## Context and outcome
+> Phase `sase-rm.2` owns four ready task contracts: `sase-m1`, `sase-ou`, `sase-ov`, and
+> `sase-re`. Its bead notes describe an implementation and passing checks from a prior
+> workspace, but the current primary and linked `sase-core` checkouts are clean and do not
+> contain those changes. Treat those notes as design evidence, not proof about the current
+> tree. Reapply the accepted phase design to current `master`, account for intervening
+> changes, and leave close-ready evidence for the epic land agent.
 
 *See full plan file for details.*
 
