@@ -37,7 +37,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-rm.10](bbugyi200.athena.sase-rm.10.md) (family · 2) | sase-rm hood | completed 2 |
 | [sase-rm.11](bbugyi200.athena.sase-rm.11.md) (family · 2) | sase-rm hood | completed 2 |
 | [sase-rm.12](../agents/bbugyi200.athena.sase-rm.12/README.md) | sase-rm hood | completed |
-| [sase-rm.13](bbugyi200.athena.sase-rm.13.md) (family · 2) | sase-rm hood | active 2 |
+| [sase-rm.13](bbugyi200.athena.sase-rm.13.md) (family · 2) | sase-rm hood | completed 2 |
 | [sase-rm.2](bbugyi200.athena.sase-rm.2.md) (family · 4) | sase-rm hood | completed 2, failed 2 |
 | [sase-rm.3](bbugyi200.athena.sase-rm.3.md) (family · 2) | sase-rm hood | completed 2 |
 | [sase-rm.4](bbugyi200.athena.sase-rm.4.md) (family · 2) | sase-rm hood | completed 2 |
@@ -46,4 +46,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-rm.6](../agents/bbugyi200.athena.sase-rm.6/README.md) | sase-rm hood | completed |
 | [sase-rm.7](../agents/bbugyi200.athena.sase-rm.7/README.md) | sase-rm hood | completed |
 | [sase-rm.8](../agents/bbugyi200.athena.sase-rm.8/README.md) | sase-rm hood | completed |
-| [sase-rm.land](../agents/bbugyi200.athena.sase-rm.land/README.md) | sase-rm hood | waiting |
+| [sase-rm.land](../agents/bbugyi200.athena.sase-rm.land/README.md) | sase-rm hood | active |

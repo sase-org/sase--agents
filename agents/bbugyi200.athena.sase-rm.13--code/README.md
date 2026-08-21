@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-rm](../../users/bbugyi200/machines/athena/hoods/sase-rm/README.md) / [sase-rm.13](../../families/bbugyi200.athena.sase-rm.13.md) / sase-rm.13--code
 
-**Global name:** `bbugyi200.athena.sase-rm.13--code` · **State:** active · **Source run:** `run-0b43acf827640ea2841735b11194fa5e`
+**Global name:** `bbugyi200.athena.sase-rm.13--code` · **State:** completed · **Source run:** `run-0b43acf827640ea2841735b11194fa5e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-rm
 
@@ -14,6 +14,10 @@
 - Provider: codex
 - Timing: 2026-08-21T10:53:45.442445+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -32,4 +36,4 @@
 | [sase-rm.7](../bbugyi200.athena.sase-rm.7/README.md) | sase-rm hood | completed |
 | [sase-rm.8](../bbugyi200.athena.sase-rm.8/README.md) | sase-rm hood | completed |
 | [sase-rm.9](../../families/bbugyi200.athena.sase-rm.9.md) (family · 3) | sase-rm hood | completed 2, failed 1 |
-| [sase-rm.land](../bbugyi200.athena.sase-rm.land/README.md) | sase-rm hood | waiting |
+| [sase-rm.land](../bbugyi200.athena.sase-rm.land/README.md) | sase-rm hood | active |
