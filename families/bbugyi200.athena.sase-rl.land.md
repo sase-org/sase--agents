@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-rl.land--code | active | gpt-5.5 / codex | 2026-08-21T11:00:25.891694+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-rl.land--code | active | gpt-5.5 / codex | 2026-08-21T11:00:25.891694+00:00 | [1](../agents/bbugyi200.athena.sase-rl.land--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-rl.land--plan | active | gpt-5.6-sol / codex | 2026-08-21T10:53:48.370362+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-rl.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-rl.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`c1dabb1`](https://github.com/sase-org/sase/commit/c1dabb1b5154109bff5ca3c8397a6685b6886656) | fix(ace): harden mini-xprompt save targets | 2026-08-21 07:26:45 EDT |
 
 ## Neighbors
 
