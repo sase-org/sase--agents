@@ -27,6 +27,6 @@
 | [sase-ru.4](../bbugyi200.athena.sase-ru.4/README.md) | sase-ru hood | completed |
 | [sase-ru.5](../bbugyi200.athena.sase-ru.5/README.md) | sase-ru hood | completed |
 | [sase-ru.6](../../families/bbugyi200.athena.sase-ru.6.md) (family · 2) | sase-ru hood | active 1, completed 1 |
-| [sase-ru.7](../bbugyi200.athena.sase-ru.7/README.md) | sase-ru hood | active |
+| [sase-ru.7](../bbugyi200.athena.sase-ru.7/README.md) | sase-ru hood | completed |
 | [sase-ru.9](../bbugyi200.athena.sase-ru.9/README.md) | sase-ru hood | active |
 | [sase-ru.land](../bbugyi200.athena.sase-ru.land/README.md) | sase-ru hood | waiting |

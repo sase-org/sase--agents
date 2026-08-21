@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-ru.3](../agents/bbugyi200.athena.sase-ru.3/README.md) | sase-ru hood | completed |
 | [sase-ru.4](../agents/bbugyi200.athena.sase-ru.4/README.md) | sase-ru hood | completed |
 | [sase-ru.5](../agents/bbugyi200.athena.sase-ru.5/README.md) | sase-ru hood | completed |
-| [sase-ru.7](../agents/bbugyi200.athena.sase-ru.7/README.md) | sase-ru hood | active |
+| [sase-ru.7](../agents/bbugyi200.athena.sase-ru.7/README.md) | sase-ru hood | completed |
 | [sase-ru.8](../agents/bbugyi200.athena.sase-ru.8/README.md) | sase-ru hood | dismissed |
 | [sase-ru.9](../agents/bbugyi200.athena.sase-ru.9/README.md) | sase-ru hood | active |
 | [sase-ru.land](../agents/bbugyi200.athena.sase-ru.land/README.md) | sase-ru hood | waiting |

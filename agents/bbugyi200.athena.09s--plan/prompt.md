@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase The `09l` sase agent just failed after rejecting a finalizer commit for plans-sidecar link lock files. I'm not 100% sure what these are, but if we need them (I think we do) can you help me start commiting them automatically when the links are created? Try your best to make sure that the minimal amount of commits is made but all link changes do probably (look into this and decide what files, if any, are temporary) need to be committed.
+
+#plan
