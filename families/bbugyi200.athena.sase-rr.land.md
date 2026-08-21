@@ -41,9 +41,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-rr.2](../agents/bbugyi200.athena.sase-rr.2/README.md) | sase-rr hood | dismissed |
 | [sase-rr.3](../agents/bbugyi200.athena.sase-rr.3/README.md) | sase-rr hood | completed |
 | [sase-rr.4](../agents/bbugyi200.athena.sase-rr.4/README.md) | sase-rr hood | completed |
-| [sase-rr.5.1](../agents/bbugyi200.athena.sase-rr.5.1/README.md) | sase-rr hood | active |
+| [sase-rr.5.1](../agents/bbugyi200.athena.sase-rr.5.1/README.md) | sase-rr hood | completed |
 | [sase-rr.5.2](../agents/bbugyi200.athena.sase-rr.5.2/README.md) | sase-rr hood | completed |
-| [sase-rr.5.3](../agents/bbugyi200.athena.sase-rr.5.3/README.md) | sase-rr hood | waiting |
-| [sase-rr.5.4](../agents/bbugyi200.athena.sase-rr.5.4/README.md) | sase-rr hood | waiting |
+| [sase-rr.5.3](../agents/bbugyi200.athena.sase-rr.5.3/README.md) | sase-rr hood | active |
+| [sase-rr.5.4](../agents/bbugyi200.athena.sase-rr.5.4/README.md) | sase-rr hood | completed |
 | [sase-rr.5.5](../agents/bbugyi200.athena.sase-rr.5.5/README.md) | sase-rr hood | waiting |
 | [sase-rr.5.land](../agents/bbugyi200.athena.sase-rr.5.land/README.md) | sase-rr hood | waiting |
