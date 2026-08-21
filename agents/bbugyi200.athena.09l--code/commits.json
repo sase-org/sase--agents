@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-296f46992fe21bb6eb0e5736173a5015"}
+{"commits":[{"committed_at":1787329303,"sha":"68f82cef629779f1c32b09afc7cc68c73cbdf4de","subject":"feat(ace): restore live output for session-local procs"}],"schema_version":2,"source_run_id":"run-296f46992fe21bb6eb0e5736173a5015"}
