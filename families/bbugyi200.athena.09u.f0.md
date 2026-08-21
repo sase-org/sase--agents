@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 09u.f0--code | active | gpt-5.5 / codex | 2026-08-21T18:59:28.521203+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 09u.f0--code | active | gpt-5.5 / codex | 2026-08-21T18:59:28.521203+00:00 | [1](../agents/bbugyi200.athena.09u.f0--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | 09u.f0--plan | active | gpt-5.6-sol / codex | 2026-08-21T18:54:13.474986+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.09u.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.09u.f0--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`d864fa9`](https://github.com/sase-org/sase/commit/d864fa9493731f4c88338142c1fae0b9674e1c53) | fix(ace): compact bead wait status tokens | 2026-08-21 19:32:15 UTC |
 
 ## Neighbors
 
