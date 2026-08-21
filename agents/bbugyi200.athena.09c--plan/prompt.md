@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `toobig_split` chop seems to be failing (see #sshot for context). Can you help me diagnose the root cause of this issue and fix it? #plan
