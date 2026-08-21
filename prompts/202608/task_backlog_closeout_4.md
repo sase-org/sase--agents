@@ -1,0 +1,11 @@
+- **PLAN:**
+  [202608/task_backlog_closeout.md](https://github.com/sase-org/sase--plans/blob/main/202608/task_backlog_closeout.md)
+- **AGENTS:**
+  - [bbugyi200.athena.sase-rm.land](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.sase-rm.land/README.md)
+
+#gh:gh_sase-org__sase %id(land, clan=sase-rm, bead=sase-rm) %model:@xlarge %auto
+%w:sase-rm.2,sase-rm.6,sase-rm.8,sase-rm.12,sase-rm.5,sase-rm.10,sase-rm.13
+%w(bead=sase-rm.1) %w(bead=sase-rm.2) %w(bead=sase-rm.3) %w(bead=sase-rm.4)
+%w(bead=sase-rm.5) %w(bead=sase-rm.6) %w(bead=sase-rm.7) %w(bead=sase-rm.8)
+%w(bead=sase-rm.9) %w(bead=sase-rm.10) %w(bead=sase-rm.11) %w(bead=sase-rm.12)
+%w(bead=sase-rm.13) #bd/land_epic:sase-rm
