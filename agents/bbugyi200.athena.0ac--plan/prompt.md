@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase When competion shows in the prompt input widget but the prompt input widget is currently only 1 line in height, that one line is hidden by the completion menu (see #sshot for context). Can you help me diagnose the root cause of this issue and fix it? #plan

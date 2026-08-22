@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make sure that sase agents are able to specify a model for the next agent that runs when using the /sase_monitor xprompt skill (which instructs the agent to use the `sase monitor` command to create the monitor)? #if_not_plan
