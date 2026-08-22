@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-3i](../../users/bbugyi200/machines/athena/hoods/toobig-3i/README.md) / toobig-3i.split\_file.tests.ace.tui.models.test\_agent\_family\_members.0
 
-**Global name:** `bbugyi200.athena.toobig-3i.split_file.tests.ace.tui.models.test_agent_family_members.0` · **State:** waiting · **Source run:** `run-9d8cc5620ab213360692ca08a82552bf`
+**Global name:** `bbugyi200.athena.toobig-3i.split_file.tests.ace.tui.models.test_agent_family_members.0` · **State:** active · **Source run:** `run-9d8cc5620ab213360692ca08a82552bf`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-3i
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260822174255
-- Commits: 0
+- Timing: 2026-08-22T19:03:24.798193+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`bd4b92e`](https://github.com/sase-org/sase/commit/bd4b92ed9b72e61bef13f9c533933f6ef7f9722d) | test(tui): split agent family member tests | 2026-08-22 19:20:05 UTC |
 
 ## Neighbors
 
@@ -32,4 +38,4 @@
 | [toobig-3i.split\_file.tests.test\_ratchet\_core\_window\_tool.0](../bbugyi200.athena.toobig-3i.split_file.tests.test_ratchet_core_window_tool.0/README.md) | toobig-3i.split\_file.tests hood | waiting |
 | [toobig-3i.split\_file.src.sase.finalizers.commit.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.commit.0/README.md) | toobig-3i.split\_file hood | completed |
 | [toobig-3i.split\_file.src.sase.finalizers.controller.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.controller.0/README.md) | toobig-3i.split\_file hood | completed |
-| [toobig-3i.split\_file.src.sase.finalizers.executor.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.executor.0/README.md) | toobig-3i.split\_file hood | active |
+| [toobig-3i.split\_file.src.sase.finalizers.executor.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.executor.0/README.md) | toobig-3i.split\_file hood | completed |

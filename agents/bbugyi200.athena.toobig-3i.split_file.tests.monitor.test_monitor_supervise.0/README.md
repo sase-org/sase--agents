@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-3i.split\_file.tests.ace.tui.models.test\_agent\_family\_members.0](../bbugyi200.athena.toobig-3i.split_file.tests.ace.tui.models.test_agent_family_members.0/README.md) | toobig-3i.split\_file.tests hood | waiting |
+| [toobig-3i.split\_file.tests.ace.tui.models.test\_agent\_family\_members.0](../bbugyi200.athena.toobig-3i.split_file.tests.ace.tui.models.test_agent_family_members.0/README.md) | toobig-3i.split\_file.tests hood | active |
 | [toobig-3i.split\_file.tests.ace.tui.test\_config\_hub\_pane.0](../bbugyi200.athena.toobig-3i.split_file.tests.ace.tui.test_config_hub_pane.0/README.md) | toobig-3i.split\_file.tests hood | waiting |
 | [toobig-3i.split\_file.tests.ace.tui.test\_statistics\_pane\_interactions.0](../bbugyi200.athena.toobig-3i.split_file.tests.ace.tui.test_statistics_pane_interactions.0/README.md) | toobig-3i.split\_file.tests hood | waiting |
 | [toobig-3i.split\_file.tests.test\_axe\_run\_agent\_exec\_plan\_followup\_approvals.0](../bbugyi200.athena.toobig-3i.split_file.tests.test_axe_run_agent_exec_plan_followup_approvals.0/README.md) | toobig-3i.split\_file.tests hood | waiting |
@@ -32,4 +32,4 @@
 | [toobig-3i.split\_file.tests.test\_ratchet\_core\_window\_tool.0](../bbugyi200.athena.toobig-3i.split_file.tests.test_ratchet_core_window_tool.0/README.md) | toobig-3i.split\_file.tests hood | waiting |
 | [toobig-3i.split\_file.src.sase.finalizers.commit.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.commit.0/README.md) | toobig-3i.split\_file hood | completed |
 | [toobig-3i.split\_file.src.sase.finalizers.controller.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.controller.0/README.md) | toobig-3i.split\_file hood | completed |
-| [toobig-3i.split\_file.src.sase.finalizers.executor.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.executor.0/README.md) | toobig-3i.split\_file hood | active |
+| [toobig-3i.split\_file.src.sase.finalizers.executor.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.executor.0/README.md) | toobig-3i.split\_file hood | completed |
