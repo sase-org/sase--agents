@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b7cd29d1f74e2b3c98efe33963043089"}
+{"commits":[{"committed_at":1787377695,"sha":"3ab0c52dea382d76c76321ba6510ab0833f1a88a","subject":"refactor(tests): split xprompt directive parity suite"}],"schema_version":2,"source_run_id":"run-b7cd29d1f74e2b3c98efe33963043089"}

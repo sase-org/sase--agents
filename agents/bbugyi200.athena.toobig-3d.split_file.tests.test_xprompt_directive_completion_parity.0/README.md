@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-3d](../../users/bbugyi200/machines/athena/hoods/toobig-3d/README.md) / toobig-3d.split\_file.tests.test\_xprompt\_directive\_completion\_parity.0
 
-**Global name:** `bbugyi200.athena.toobig-3d.split_file.tests.test_xprompt_directive_completion_parity.0` · **State:** waiting · **Source run:** `run-b7cd29d1f74e2b3c98efe33963043089`
+**Global name:** `bbugyi200.athena.toobig-3d.split_file.tests.test_xprompt_directive_completion_parity.0` · **State:** active · **Source run:** `run-b7cd29d1f74e2b3c98efe33963043089`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-3d
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260821185315
-- Commits: 0
+- Timing: 2026-08-22T05:23:36.484306+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3ab0c52`](https://github.com/sase-org/sase/commit/3ab0c52dea382d76c76321ba6510ab0833f1a88a) | refactor(tests): split xprompt directive parity suite | 2026-08-22 05:48:15 UTC |
 
 ## Neighbors
 
@@ -30,7 +36,7 @@
 | [toobig-3d.split\_file.tests.feature\_flags.test\_cli.0](../bbugyi200.athena.toobig-3d.split_file.tests.feature_flags.test_cli.0/README.md) | toobig-3d.split\_file.tests hood | completed |
 | [toobig-3d.split\_file.tests.test\_commit\_workflow\_resume.0](../bbugyi200.athena.toobig-3d.split_file.tests.test_commit_workflow_resume.0/README.md) | toobig-3d.split\_file.tests hood | completed |
 | [toobig-3d.split\_file.tests.test\_markdown\_pdf.0](../bbugyi200.athena.toobig-3d.split_file.tests.test_markdown_pdf.0/README.md) | toobig-3d.split\_file.tests hood | completed |
-| [toobig-3d.split\_file.tests.test\_models\_panel\_alias\_rendering.0](../bbugyi200.athena.toobig-3d.split_file.tests.test_models_panel_alias_rendering.0/README.md) | toobig-3d.split\_file.tests hood | active |
+| [toobig-3d.split\_file.tests.test\_models\_panel\_alias\_rendering.0](../bbugyi200.athena.toobig-3d.split_file.tests.test_models_panel_alias_rendering.0/README.md) | toobig-3d.split\_file.tests hood | completed |
 | [toobig-3d.split\_file.src.sase.ace.tui.actions.agent\_workflow.\_prompt\_bar\_save\_xprompt.0](../bbugyi200.athena.toobig-3d.split_file.src.sase.ace.tui.actions.agent_workflow._prompt_bar_save_xprompt.0/README.md) | toobig-3d.split\_file hood | completed |
 | [toobig-3d.split\_file.src.sase.ace.tui.widgets.\_prompt\_input\_bar\_actions.0](../bbugyi200.athena.toobig-3d.split_file.src.sase.ace.tui.widgets._prompt_input_bar_actions.0/README.md) | toobig-3d.split\_file hood | completed |
 | [toobig-3d.split\_file.src.sase.ace.tui.widgets.\_prompt\_input\_bar\_stack\_rendering.0](../bbugyi200.athena.toobig-3d.split_file.src.sase.ace.tui.widgets._prompt_input_bar_stack_rendering.0/README.md) | toobig-3d.split\_file hood | completed |

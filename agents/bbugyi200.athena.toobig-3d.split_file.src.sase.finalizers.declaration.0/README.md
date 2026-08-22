@@ -42,5 +42,5 @@
 | [toobig-3d.split\_file.tests.feature\_flags.test\_cli.0](../bbugyi200.athena.toobig-3d.split_file.tests.feature_flags.test_cli.0/README.md) | toobig-3d.split\_file hood | completed |
 | [toobig-3d.split\_file.tests.test\_commit\_workflow\_resume.0](../bbugyi200.athena.toobig-3d.split_file.tests.test_commit_workflow_resume.0/README.md) | toobig-3d.split\_file hood | completed |
 | [toobig-3d.split\_file.tests.test\_markdown\_pdf.0](../bbugyi200.athena.toobig-3d.split_file.tests.test_markdown_pdf.0/README.md) | toobig-3d.split\_file hood | completed |
-| [toobig-3d.split\_file.tests.test\_models\_panel\_alias\_rendering.0](../bbugyi200.athena.toobig-3d.split_file.tests.test_models_panel_alias_rendering.0/README.md) | toobig-3d.split\_file hood | active |
-| [toobig-3d.split\_file.tests.test\_xprompt\_directive\_completion\_parity.0](../bbugyi200.athena.toobig-3d.split_file.tests.test_xprompt_directive_completion_parity.0/README.md) | toobig-3d.split\_file hood | waiting |
+| [toobig-3d.split\_file.tests.test\_models\_panel\_alias\_rendering.0](../bbugyi200.athena.toobig-3d.split_file.tests.test_models_panel_alias_rendering.0/README.md) | toobig-3d.split\_file hood | completed |
+| [toobig-3d.split\_file.tests.test\_xprompt\_directive\_completion\_parity.0](../bbugyi200.athena.toobig-3d.split_file.tests.test_xprompt_directive_completion_parity.0/README.md) | toobig-3d.split\_file hood | active |
