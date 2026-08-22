@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-464fb9470b7b932b2b0c1cc8b2283676"}
+{"commits":[{"committed_at":1787366529,"sha":"f4a2e6fc2387fc732b2c7e778d82fdd4dd4dc906","subject":"refactor(sidecars): split ref config module"}],"schema_version":2,"source_run_id":"run-464fb9470b7b932b2b0c1cc8b2283676"}

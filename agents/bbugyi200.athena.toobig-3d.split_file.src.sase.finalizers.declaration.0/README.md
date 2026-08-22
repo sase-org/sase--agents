@@ -31,8 +31,8 @@
 | [toobig-3d.split\_file.src.sase.ace.tui.widgets.\_prompt\_input\_bar\_actions.0](../bbugyi200.athena.toobig-3d.split_file.src.sase.ace.tui.widgets._prompt_input_bar_actions.0/README.md) | toobig-3d.split\_file.src.sase hood | completed |
 | [toobig-3d.split\_file.src.sase.ace.tui.widgets.\_prompt\_input\_bar\_stack\_rendering.0](../bbugyi200.athena.toobig-3d.split_file.src.sase.ace.tui.widgets._prompt_input_bar_stack_rendering.0/README.md) | toobig-3d.split\_file.src.sase hood | completed |
 | [toobig-3d.split\_file.src.sase.ace.tui.widgets.directive\_completion.0](../bbugyi200.athena.toobig-3d.split_file.src.sase.ace.tui.widgets.directive_completion.0/README.md) | toobig-3d.split\_file.src.sase hood | completed |
-| [toobig-3d.split\_file.src.sase.main.init\_skills\_handler.0](../bbugyi200.athena.toobig-3d.split_file.src.sase.main.init_skills_handler.0/README.md) | toobig-3d.split\_file.src.sase hood | active |
-| [toobig-3d.split\_file.src.sase.sidecar\_ref\_config.0](../bbugyi200.athena.toobig-3d.split_file.src.sase.sidecar_ref_config.0/README.md) | toobig-3d.split\_file.src.sase hood | waiting |
+| [toobig-3d.split\_file.src.sase.main.init\_skills\_handler.0](../bbugyi200.athena.toobig-3d.split_file.src.sase.main.init_skills_handler.0/README.md) | toobig-3d.split\_file.src.sase hood | completed |
+| [toobig-3d.split\_file.src.sase.sidecar\_ref\_config.0](../bbugyi200.athena.toobig-3d.split_file.src.sase.sidecar_ref_config.0/README.md) | toobig-3d.split\_file.src.sase hood | active |
 | [toobig-3d.split\_file.tests.ace.tui.actions.test\_prompt\_save\_xprompt\_targets.0](../bbugyi200.athena.toobig-3d.split_file.tests.ace.tui.actions.test_prompt_save_xprompt_targets.0/README.md) | toobig-3d.split\_file hood | waiting |
 | [toobig-3d.split\_file.tests.ace.tui.test\_procs\_pane.0](../bbugyi200.athena.toobig-3d.split_file.tests.ace.tui.test_procs_pane.0/README.md) | toobig-3d.split\_file hood | waiting |
 | [toobig-3d.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_models\_panel.0](../bbugyi200.athena.toobig-3d.split_file.tests.ace.tui.visual.test_ace_png_snapshots_models_panel.0/README.md) | toobig-3d.split\_file hood | waiting |
