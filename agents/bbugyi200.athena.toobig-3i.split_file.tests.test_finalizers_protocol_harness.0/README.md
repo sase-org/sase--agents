@@ -30,6 +30,6 @@
 | [toobig-3i.split\_file.tests.test\_file\_hook\_engine.0](../bbugyi200.athena.toobig-3i.split_file.tests.test_file_hook_engine.0/README.md) | toobig-3i.split\_file.tests hood | waiting |
 | [toobig-3i.split\_file.tests.test\_plan\_approval\_launch\_reliability\_integration.0](../bbugyi200.athena.toobig-3i.split_file.tests.test_plan_approval_launch_reliability_integration.0/README.md) | toobig-3i.split\_file.tests hood | waiting |
 | [toobig-3i.split\_file.tests.test\_ratchet\_core\_window\_tool.0](../bbugyi200.athena.toobig-3i.split_file.tests.test_ratchet_core_window_tool.0/README.md) | toobig-3i.split\_file.tests hood | waiting |
-| [toobig-3i.split\_file.src.sase.finalizers.commit.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.commit.0/README.md) | toobig-3i.split\_file hood | active |
-| [toobig-3i.split\_file.src.sase.finalizers.controller.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.controller.0/README.md) | toobig-3i.split\_file hood | waiting |
+| [toobig-3i.split\_file.src.sase.finalizers.commit.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.commit.0/README.md) | toobig-3i.split\_file hood | completed |
+| [toobig-3i.split\_file.src.sase.finalizers.controller.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.controller.0/README.md) | toobig-3i.split\_file hood | active |
 | [toobig-3i.split\_file.src.sase.finalizers.executor.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.executor.0/README.md) | toobig-3i.split\_file hood | waiting |

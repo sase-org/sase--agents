@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start using the `@medium` model alias pool (by using the `%model` directive) for the sase agents launched by the `toobig_split` chop? #plan

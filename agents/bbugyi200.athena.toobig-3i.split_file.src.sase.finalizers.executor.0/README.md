@@ -21,8 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-3i.split\_file.src.sase.finalizers.commit.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.commit.0/README.md) | toobig-3i.split\_file.src.sase.finalizers hood | active |
-| [toobig-3i.split\_file.src.sase.finalizers.controller.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.controller.0/README.md) | toobig-3i.split\_file.src.sase.finalizers hood | waiting |
+| [toobig-3i.split\_file.src.sase.finalizers.commit.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.commit.0/README.md) | toobig-3i.split\_file.src.sase.finalizers hood | completed |
+| [toobig-3i.split\_file.src.sase.finalizers.controller.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.controller.0/README.md) | toobig-3i.split\_file.src.sase.finalizers hood | active |
 | [toobig-3i.split\_file.tests.ace.tui.models.test\_agent\_family\_members.0](../bbugyi200.athena.toobig-3i.split_file.tests.ace.tui.models.test_agent_family_members.0/README.md) | toobig-3i.split\_file hood | waiting |
 | [toobig-3i.split\_file.tests.ace.tui.test\_config\_hub\_pane.0](../bbugyi200.athena.toobig-3i.split_file.tests.ace.tui.test_config_hub_pane.0/README.md) | toobig-3i.split\_file hood | waiting |
 | [toobig-3i.split\_file.tests.ace.tui.test\_statistics\_pane\_interactions.0](../bbugyi200.athena.toobig-3i.split_file.tests.ace.tui.test_statistics_pane_interactions.0/README.md) | toobig-3i.split\_file hood | waiting |
