@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase The `0ak` sase agent just failed (see #sshot for context). I think it has something to with the fact that the inspectable_monitor_indicator.md plan is showing in the `PLAN` sub-section of the `SASE CONTEXT` section in the agent metadata panel (when, really, the monitor_kill_lifecycle.md plan was implemented--I also got the commit message wrong when I manually committed). Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix the issue?
+
+#plan
