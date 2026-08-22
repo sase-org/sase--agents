@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8a00d858966a8f2535eda4f5e4e9aea5"}
+{"commits":[{"committed_at":1787363151,"sha":"f07e42680e7181ad50193dd1d3ff2fa1645dd202","subject":"refactor(finalizers): split declaration module"}],"schema_version":2,"source_run_id":"run-8a00d858966a8f2535eda4f5e4e9aea5"}

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-3d](../../users/bbugyi200/machines/athena/hoods/toobig-3d/README.md) / toobig-3d.split\_file.src.sase.finalizers.declaration.0
 
-**Global name:** `bbugyi200.athena.toobig-3d.split_file.src.sase.finalizers.declaration.0` · **State:** waiting · **Source run:** `run-8a00d858966a8f2535eda4f5e4e9aea5`
+**Global name:** `bbugyi200.athena.toobig-3d.split_file.src.sase.finalizers.declaration.0` · **State:** active · **Source run:** `run-8a00d858966a8f2535eda4f5e4e9aea5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-3d
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260821185302
-- Commits: 0
+- Timing: 2026-08-22T01:19:10.426544+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`f07e426`](https://github.com/sase-org/sase/commit/f07e42680e7181ad50193dd1d3ff2fa1645dd202) | refactor(finalizers): split declaration module | 2026-08-22 01:45:51 UTC |
 
 ## Neighbors
 
@@ -24,7 +30,7 @@
 | [toobig-3d.split\_file.src.sase.ace.tui.actions.agent\_workflow.\_prompt\_bar\_save\_xprompt.0](../bbugyi200.athena.toobig-3d.split_file.src.sase.ace.tui.actions.agent_workflow._prompt_bar_save_xprompt.0/README.md) | toobig-3d.split\_file.src.sase hood | completed |
 | [toobig-3d.split\_file.src.sase.ace.tui.widgets.\_prompt\_input\_bar\_actions.0](../bbugyi200.athena.toobig-3d.split_file.src.sase.ace.tui.widgets._prompt_input_bar_actions.0/README.md) | toobig-3d.split\_file.src.sase hood | completed |
 | [toobig-3d.split\_file.src.sase.ace.tui.widgets.\_prompt\_input\_bar\_stack\_rendering.0](../bbugyi200.athena.toobig-3d.split_file.src.sase.ace.tui.widgets._prompt_input_bar_stack_rendering.0/README.md) | toobig-3d.split\_file.src.sase hood | completed |
-| [toobig-3d.split\_file.src.sase.ace.tui.widgets.directive\_completion.0](../bbugyi200.athena.toobig-3d.split_file.src.sase.ace.tui.widgets.directive_completion.0/README.md) | toobig-3d.split\_file.src.sase hood | active |
+| [toobig-3d.split\_file.src.sase.ace.tui.widgets.directive\_completion.0](../bbugyi200.athena.toobig-3d.split_file.src.sase.ace.tui.widgets.directive_completion.0/README.md) | toobig-3d.split\_file.src.sase hood | completed |
 | [toobig-3d.split\_file.src.sase.main.init\_skills\_handler.0](../bbugyi200.athena.toobig-3d.split_file.src.sase.main.init_skills_handler.0/README.md) | toobig-3d.split\_file.src.sase hood | waiting |
 | [toobig-3d.split\_file.src.sase.sidecar\_ref\_config.0](../bbugyi200.athena.toobig-3d.split_file.src.sase.sidecar_ref_config.0/README.md) | toobig-3d.split\_file.src.sase hood | waiting |
 | [toobig-3d.split\_file.tests.ace.tui.actions.test\_prompt\_save\_xprompt\_targets.0](../bbugyi200.athena.toobig-3d.split_file.tests.ace.tui.actions.test_prompt_save_xprompt_targets.0/README.md) | toobig-3d.split\_file hood | waiting |
