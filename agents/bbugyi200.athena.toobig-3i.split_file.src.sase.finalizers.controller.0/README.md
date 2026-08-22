@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-08-22T18:12:26.533830+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`573b8df`](https://github.com/sase-org/sase/commit/573b8df738e8926189877bcd5d255eb9c45e4a4e) | refactor(finalizers): split controller responsibilities | 2026-08-22 18:31:54 UTC |
 
 ## Neighbors
 

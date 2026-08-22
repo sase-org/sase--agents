@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0de4d53f0c33d8644bd616a1c6e2bdef"}
+{"commits":[{"committed_at":1787423514,"sha":"573b8df738e8926189877bcd5d255eb9c45e4a4e","subject":"refactor(finalizers): split controller responsibilities"}],"schema_version":2,"source_run_id":"run-0de4d53f0c33d8644bd616a1c6e2bdef"}
