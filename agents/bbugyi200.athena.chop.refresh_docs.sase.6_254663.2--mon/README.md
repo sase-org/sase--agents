@@ -1,8 +1,8 @@
-# Agent: chop.refresh\_docs.sase.6\_254663.1
+# Agent: chop.refresh\_docs.sase.6\_254663.2--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [chop](../../users/bbugyi200/machines/athena/hoods/chop/README.md) / chop.refresh\_docs.sase.6\_254663.1
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [chop](../../users/bbugyi200/machines/athena/hoods/chop/README.md) / [chop.refresh\_docs.sase.6\_254663.2](../../families/bbugyi200.athena.chop.refresh_docs.sase.6_254663.2.md) / chop.refresh\_docs.sase.6\_254663.2--mon
 
-**Global name:** `bbugyi200.athena.chop.refresh_docs.sase.6_254663.1` · **State:** completed · **Source run:** `run-fd8d5a2af627ab80eccb4b13e0334f80`
+**Global name:** `bbugyi200.athena.chop.refresh_docs.sase.6_254663.2--mon` · **State:** failed · **Source run:** `run-dd02506b4f7ad473b99754e9a5457e27`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** chop
 
@@ -10,24 +10,18 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-22T20:48:57.135797+00:00 → 2026-08-22T21:42:43.614872+00:00
-- Commits: [1](#commits)
+- Timing: 2026-08-22T23:18:00.885056+00:00
+- Commits: 0
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`8a26be5`](https://github.com/sase-org/sase/commit/8a26be5fb0d9d694e6a1090f6a94869895aec083) | docs: refresh user-facing documentation | 2026-08-22 21:41:38 UTC |
+[Chat](chat.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [chop.refresh\_docs.sase.6\_254663.2](../../families/bbugyi200.athena.chop.refresh_docs.sase.6_254663.2.md) (family · 3) | chop.refresh\_docs.sase.6\_254663 hood | active 1, completed 1, failed 1 |
+| [chop.refresh\_docs.sase.6\_254663.1](../bbugyi200.athena.chop.refresh_docs.sase.6_254663.1/README.md) | chop.refresh\_docs.sase.6\_254663 hood | completed |
 | [chop.refresh\_docs.sase.0\_190948.1](../bbugyi200.athena.chop.refresh_docs.sase.0_190948.1/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.0\_190948.2](../bbugyi200.athena.chop.refresh_docs.sase.0_190948.2/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.0\_303436.1](../bbugyi200.athena.chop.refresh_docs.sase.0_303436.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
