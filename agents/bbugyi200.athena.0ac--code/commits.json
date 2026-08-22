@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-cb199ba37048a75d95baa31f00a4a7ea"}
+{"commits":[{"committed_at":1787399041,"sha":"45be84b24e19e2dd9dbe86fb9139434445e1e6ae","subject":"fix(ace): keep the prompt editor visible under long completions"}],"schema_version":2,"source_run_id":"run-cb199ba37048a75d95baa31f00a4a7ea"}

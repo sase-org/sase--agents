@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 0ac--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0ac__plan-260822_103654.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0ac__code-260822_103654.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/prompt_completion_visible_editor.md
 
 
