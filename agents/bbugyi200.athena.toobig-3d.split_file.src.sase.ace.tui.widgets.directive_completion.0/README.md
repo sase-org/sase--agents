@@ -40,7 +40,7 @@
 | [toobig-3d.split\_file.tests.ace.tui.widgets.test\_agent\_render\_key\_core.0](../bbugyi200.athena.toobig-3d.split_file.tests.ace.tui.widgets.test_agent_render_key_core.0/README.md) | toobig-3d.split\_file hood | completed |
 | [toobig-3d.split\_file.tests.completion.test\_candidates\_providers.0](../bbugyi200.athena.toobig-3d.split_file.tests.completion.test_candidates_providers.0/README.md) | toobig-3d.split\_file hood | completed |
 | [toobig-3d.split\_file.tests.feature\_flags.test\_cli.0](../bbugyi200.athena.toobig-3d.split_file.tests.feature_flags.test_cli.0/README.md) | toobig-3d.split\_file hood | completed |
-| [toobig-3d.split\_file.tests.test\_commit\_workflow\_resume.0](../bbugyi200.athena.toobig-3d.split_file.tests.test_commit_workflow_resume.0/README.md) | toobig-3d.split\_file hood | active |
-| [toobig-3d.split\_file.tests.test\_markdown\_pdf.0](../bbugyi200.athena.toobig-3d.split_file.tests.test_markdown_pdf.0/README.md) | toobig-3d.split\_file hood | waiting |
+| [toobig-3d.split\_file.tests.test\_commit\_workflow\_resume.0](../bbugyi200.athena.toobig-3d.split_file.tests.test_commit_workflow_resume.0/README.md) | toobig-3d.split\_file hood | completed |
+| [toobig-3d.split\_file.tests.test\_markdown\_pdf.0](../bbugyi200.athena.toobig-3d.split_file.tests.test_markdown_pdf.0/README.md) | toobig-3d.split\_file hood | active |
 | [toobig-3d.split\_file.tests.test\_models\_panel\_alias\_rendering.0](../bbugyi200.athena.toobig-3d.split_file.tests.test_models_panel_alias_rendering.0/README.md) | toobig-3d.split\_file hood | waiting |
 | [toobig-3d.split\_file.tests.test\_xprompt\_directive\_completion\_parity.0](../bbugyi200.athena.toobig-3d.split_file.tests.test_xprompt_directive_completion_parity.0/README.md) | toobig-3d.split\_file hood | waiting |
