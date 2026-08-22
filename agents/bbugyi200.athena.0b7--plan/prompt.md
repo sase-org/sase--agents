@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase Why does the `bob create highlights` command (defined in the bob-cli sase project), which is used by a sase file hook configured in my chezmoi repo, seem to create multiple files (the one it is supposed to create and one with a weird suffix--a file path like ~/bob/lib/chat/conditional_launch_admission-ad048d84997e.pdf, for example)? Can you help me diagnose the root cause of this issue and fix it?
+
+#plan

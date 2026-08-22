@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2a97dd77e749b0d4a57a9bb7ad06f3a7"}
+{"commits":[{"committed_at":1787421960,"sha":"d8c4085524087b768949f2468c0a57376c56f78c","subject":"fix(finalizers): reject stale final declarations"}],"schema_version":2,"source_run_id":"run-2a97dd77e749b0d4a57a9bb7ad06f3a7"}

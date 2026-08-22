@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 0b6--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0b6__plan-260822_163746.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0b6__code-260822_163746.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/stale_final_declaration_after_manual_commit.md
 
 
