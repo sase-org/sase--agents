@@ -28,8 +28,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-3d.split\_file.tests.ace.tui.actions.test\_prompt\_save\_xprompt\_targets.0](../bbugyi200.athena.toobig-3d.split_file.tests.ace.tui.actions.test_prompt_save_xprompt_targets.0/README.md) | toobig-3d.split\_file.tests.ace.tui hood | completed |
-| [toobig-3d.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_models\_panel.0](../bbugyi200.athena.toobig-3d.split_file.tests.ace.tui.visual.test_ace_png_snapshots_models_panel.0/README.md) | toobig-3d.split\_file.tests.ace.tui hood | active |
-| [toobig-3d.split\_file.tests.ace.tui.widgets.test\_agent\_list\_status\_indicators.0](../bbugyi200.athena.toobig-3d.split_file.tests.ace.tui.widgets.test_agent_list_status_indicators.0/README.md) | toobig-3d.split\_file.tests.ace.tui hood | waiting |
+| [toobig-3d.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_models\_panel.0](../bbugyi200.athena.toobig-3d.split_file.tests.ace.tui.visual.test_ace_png_snapshots_models_panel.0/README.md) | toobig-3d.split\_file.tests.ace.tui hood | completed |
+| [toobig-3d.split\_file.tests.ace.tui.widgets.test\_agent\_list\_status\_indicators.0](../bbugyi200.athena.toobig-3d.split_file.tests.ace.tui.widgets.test_agent_list_status_indicators.0/README.md) | toobig-3d.split\_file.tests.ace.tui hood | active |
 | [toobig-3d.split\_file.tests.ace.tui.widgets.test\_agent\_render\_key\_core.0](../bbugyi200.athena.toobig-3d.split_file.tests.ace.tui.widgets.test_agent_render_key_core.0/README.md) | toobig-3d.split\_file.tests.ace.tui hood | waiting |
 | [toobig-3d.split\_file.tests.completion.test\_candidates\_providers.0](../bbugyi200.athena.toobig-3d.split_file.tests.completion.test_candidates_providers.0/README.md) | toobig-3d.split\_file.tests hood | waiting |
 | [toobig-3d.split\_file.tests.feature\_flags.test\_cli.0](../bbugyi200.athena.toobig-3d.split_file.tests.feature_flags.test_cli.0/README.md) | toobig-3d.split\_file.tests hood | waiting |
