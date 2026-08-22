@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f389ca8fc44dc9bdae2029acf09570af"}
+{"commits":[{"committed_at":1787417388,"sha":"02c0f781c71cef839f1c20bdec7d710fd5f0de6f","subject":"refactor(finalizers): split commit execution helpers"}],"schema_version":2,"source_run_id":"run-f389ca8fc44dc9bdae2029acf09570af"}
