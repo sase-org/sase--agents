@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e031bb4352d085d620e65446a5b6415c"}
+{"commits":[{"committed_at":1787425258,"sha":"fb94b5a488ed8267a4c4d1ca50e0e2c650b51386","subject":"refactor(finalizers): split executor into focused modules"}],"schema_version":2,"source_run_id":"run-e031bb4352d085d620e65446a5b6415c"}

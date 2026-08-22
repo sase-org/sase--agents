@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 0bb--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0bb__plan-260822_183437.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0bb__code-260822_183437.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/lumberjack_chop_glossary.md
 
 

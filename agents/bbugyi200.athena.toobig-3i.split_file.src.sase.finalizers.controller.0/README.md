@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-3i](../../users/bbugyi200/machines/athena/hoods/toobig-3i/README.md) / toobig-3i.split\_file.src.sase.finalizers.controller.0
 
-**Global name:** `bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.controller.0` · **State:** active · **Source run:** `run-0de4d53f0c33d8644bd616a1c6e2bdef`
+**Global name:** `bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.controller.0` · **State:** completed · **Source run:** `run-0de4d53f0c33d8644bd616a1c6e2bdef`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-3i
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-22T18:12:26.533830+00:00
+- Timing: 2026-08-22T18:12:26.533830+00:00 → 2026-08-22T18:33:42.399560+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -28,7 +28,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-3i.split\_file.src.sase.finalizers.commit.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.commit.0/README.md) | toobig-3i.split\_file.src.sase.finalizers hood | completed |
-| [toobig-3i.split\_file.src.sase.finalizers.executor.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.executor.0/README.md) | toobig-3i.split\_file.src.sase.finalizers hood | waiting |
+| [toobig-3i.split\_file.src.sase.finalizers.executor.0](../bbugyi200.athena.toobig-3i.split_file.src.sase.finalizers.executor.0/README.md) | toobig-3i.split\_file.src.sase.finalizers hood | active |
 | [toobig-3i.split\_file.tests.ace.tui.models.test\_agent\_family\_members.0](../bbugyi200.athena.toobig-3i.split_file.tests.ace.tui.models.test_agent_family_members.0/README.md) | toobig-3i.split\_file hood | waiting |
 | [toobig-3i.split\_file.tests.ace.tui.test\_config\_hub\_pane.0](../bbugyi200.athena.toobig-3i.split_file.tests.ace.tui.test_config_hub_pane.0/README.md) | toobig-3i.split\_file hood | waiting |
 | [toobig-3i.split\_file.tests.ace.tui.test\_statistics\_pane\_interactions.0](../bbugyi200.athena.toobig-3i.split_file.tests.ace.tui.test_statistics_pane_interactions.0/README.md) | toobig-3i.split\_file hood | waiting |
