@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a3c3cbf9afc4ba460adcbb0d383c1096"}
+{"commits":[{"committed_at":1787438393,"sha":"13266fdcaea9f420917478ced04a12d072036246","subject":"feat(agent-launch): evaluate sandboxed %if admission predicates"}],"schema_version":2,"source_run_id":"run-a3c3cbf9afc4ba460adcbb0d383c1096"}
