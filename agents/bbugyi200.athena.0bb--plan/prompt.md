@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me do some deep researh on sase's "lumberjacks" and "chops" and then add those terms to the glossary configuration for this project? Make sure these new glossary terms are excellent but concise. Remember that every token in context either helps or hurts us. #plan

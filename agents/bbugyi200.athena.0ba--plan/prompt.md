@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I seem unable to update sase even though I don't think there is any process (there shouldn't be at least) that is performing work in the main sase project directory. Can you help me diagnose the root cause of this issue and fix it? See #sshot for context. #plan

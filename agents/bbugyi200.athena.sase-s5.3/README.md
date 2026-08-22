@@ -13,11 +13,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-22T18:29:50.222578+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`176247a`](https://github.com/sase-org/sase/commit/176247aa0d9aee43fb1b3b7b8e9c3db988437806) | test(file-hooks): prove research-highlights runs once on the canonical path | 2026-08-22 18:50:53 UTC |
 
 ## Neighbors
 
