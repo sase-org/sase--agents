@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2c28866ba766aefdd42c2834a077baaa"}
+{"commits":[{"committed_at":1787435111,"sha":"383f34956a3f3f0f462429bce7cbffad4d17ff82","subject":"feat(agent-launch): persist typed launch admission after approval"}],"schema_version":2,"source_run_id":"run-2c28866ba766aefdd42c2834a077baaa"}
