@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4997ff275d1aba769eb1a531521a0568"}
+{"commits":[{"committed_at":1787364785,"sha":"e1a03db1fbd4160fa34b8214aff999ac03880449","subject":"refactor(skills): split init skills handler"}],"schema_version":2,"source_run_id":"run-4997ff275d1aba769eb1a531521a0568"}
