@@ -26,4 +26,4 @@
 | [sase-s3.1](../bbugyi200.athena.sase-s3.1/README.md) | sase-s3 hood | completed |
 | [sase-s3.3](../bbugyi200.athena.sase-s3.3/README.md) | sase-s3 hood | completed |
 | [sase-s3.4](../bbugyi200.athena.sase-s3.4/README.md) | sase-s3 hood | completed |
-| [sase-s3.land](../bbugyi200.athena.sase-s3.land/README.md) | sase-s3 hood | waiting |
+| [sase-s3.land](../bbugyi200.athena.sase-s3.land/README.md) | sase-s3 hood | active |
