@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8758a200143bb4694673fbf9efe6a314"}
+{"commits":[{"committed_at":1787431541,"sha":"5c9fb7d07b43c0a72d2f2a74e0adfbe241989cfd","subject":"feat(agent-launch): add typed launch plan facade"}],"schema_version":2,"source_run_id":"run-8758a200143bb4694673fbf9efe6a314"}

@@ -2,22 +2,17 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-s6](../../users/bbugyi200/machines/athena/hoods/sase-s6/README.md) / sase-s6.1
 
-**Global name:** `bbugyi200.athena.sase-s6.1` · **State:** active · **Source run:** `run-8b2d7be314e4d32b3e3e36f38e9063aa`
+**Global name:** `bbugyi200.athena.sase-s6.1` · **State:** dismissed · **Source run:** `run-8b2d7be314e4d32b3e3e36f38e9063aa`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-s6
 
 ## Summary
 
 - Bead: [sase-s6.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-s6/sase-s6.1.md)
-- Epic: [sase-s6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-s6/README.md)
-- Model: grok-4.6
-- Provider: grok
-- Timing: 2026-08-22T18:16:24.072629+00:00
+- Model: —
+- Provider: —
+- Timing: 2026-08-22T18:15:59
 - Commits: [1](#commits)
-
-## Files
-
-[Prompt](prompt.md)
 
 ## Commits
 
@@ -29,7 +24,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-s6.2](../bbugyi200.athena.sase-s6.2/README.md) | sase-s6 hood | waiting |
+| [sase-s6.2](../bbugyi200.athena.sase-s6.2/README.md) | sase-s6 hood | active |
 | [sase-s6.3](../bbugyi200.athena.sase-s6.3/README.md) | sase-s6 hood | waiting |
 | [sase-s6.4](../bbugyi200.athena.sase-s6.4/README.md) | sase-s6 hood | waiting |
 | [sase-s6.5](../bbugyi200.athena.sase-s6.5/README.md) | sase-s6 hood | waiting |
