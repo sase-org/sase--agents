@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `toobig-3l` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["toobig-3l.split_file.tests.ace.tui.test_statistics_pane_interactions.0--1 [active]"]
+  n0["toobig-3l.split_file.tests.ace.tui.test_statistics_pane_interactions.0--1 [completed]"]
   n1["toobig-3l.split_file.tests.ace.tui.test_statistics_pane_interactions.0--mon [failed]"]
   n0 --> n1
   n2["toobig-3l.split_file.tests.ace.tui.test_statistics_pane_interactions.0--plan [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | toobig-3l.split\_file.tests.ace.tui.test\_statistics\_pane\_interactions.0--1 | active | grok-4.6 / grok | 2026-08-23T15:50:59.692942+00:00 | [1](../agents/bbugyi200.athena.toobig-3l.split_file.tests.ace.tui.test_statistics_pane_interactions.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-3l.split_file.tests.ace.tui.test_statistics_pane_interactions.0--1/prompt.md) | — |
+| <a id="member-1"></a>1 | toobig-3l.split\_file.tests.ace.tui.test\_statistics\_pane\_interactions.0--1 | completed | grok-4.6 / grok | 2026-08-23T15:50:59.692942+00:00 → 2026-08-23T16:05:27.151756+00:00 | [1](../agents/bbugyi200.athena.toobig-3l.split_file.tests.ace.tui.test_statistics_pane_interactions.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-3l.split_file.tests.ace.tui.test_statistics_pane_interactions.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-3l.split_file.tests.ace.tui.test_statistics_pane_interactions.0--1/chat.md) |
 | <a id="member-mon"></a>mon | toobig-3l.split\_file.tests.ace.tui.test\_statistics\_pane\_interactions.0--mon | failed | grok-4.6 / grok | 2026-08-23T15:48:36.761752+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-3l.split_file.tests.ace.tui.test_statistics_pane_interactions.0--mon/chat.md) |
 | <a id="member-plan"></a>plan | toobig-3l.split\_file.tests.ace.tui.test\_statistics\_pane\_interactions.0--plan | completed | grok-4.6 / grok | 2026-08-23T15:34:06.715627+00:00 → 2026-08-23T15:48:44.167573+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-3l.split_file.tests.ace.tui.test_statistics_pane_interactions.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-3l.split_file.tests.ace.tui.test_statistics_pane_interactions.0--plan/chat.md) |
 
@@ -34,8 +34,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-3l.split\_file.tests.ace.tui.test\_config\_hub\_pane.0](../agents/bbugyi200.athena.toobig-3l.split_file.tests.ace.tui.test_config_hub_pane.0/README.md) | toobig-3l.split\_file.tests.ace.tui hood | completed |
-| [toobig-3l.split\_file.tests.monitor.test\_monitor\_supervise.0](../agents/bbugyi200.athena.toobig-3l.split_file.tests.monitor.test_monitor_supervise.0/README.md) | toobig-3l.split\_file.tests hood | waiting |
-| [toobig-3l.split\_file.tests.test\_axe\_run\_agent\_exec\_plan\_followup\_approvals.0](../agents/bbugyi200.athena.toobig-3l.split_file.tests.test_axe_run_agent_exec_plan_followup_approvals.0/README.md) | toobig-3l.split\_file.tests hood | waiting |
+| [toobig-3l.split\_file.tests.monitor.test\_monitor\_supervise.0](../agents/bbugyi200.athena.toobig-3l.split_file.tests.monitor.test_monitor_supervise.0/README.md) | toobig-3l.split\_file.tests hood | completed |
+| [toobig-3l.split\_file.tests.test\_axe\_run\_agent\_exec\_plan\_followup\_approvals.0](../agents/bbugyi200.athena.toobig-3l.split_file.tests.test_axe_run_agent_exec_plan_followup_approvals.0/README.md) | toobig-3l.split\_file.tests hood | active |
 | [toobig-3l.split\_file.tests.test\_bead.test\_epic\_launch.0](../agents/bbugyi200.athena.toobig-3l.split_file.tests.test_bead.test_epic_launch.0/README.md) | toobig-3l.split\_file.tests hood | waiting |
 | [toobig-3l.split\_file.tests.test\_file\_hook\_engine.0](../agents/bbugyi200.athena.toobig-3l.split_file.tests.test_file_hook_engine.0/README.md) | toobig-3l.split\_file.tests hood | waiting |
 | [toobig-3l.split\_file.tests.test\_file\_hooks.0](../agents/bbugyi200.athena.toobig-3l.split_file.tests.test_file_hooks.0/README.md) | toobig-3l.split\_file.tests hood | waiting |

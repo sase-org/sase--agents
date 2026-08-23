@@ -2,15 +2,15 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-3l](../../users/bbugyi200/machines/athena/hoods/toobig-3l/README.md) / toobig-3l.split\_file.tests.test\_axe\_run\_agent\_exec\_plan\_followup\_approvals.0
 
-**Global name:** `bbugyi200.athena.toobig-3l.split_file.tests.test_axe_run_agent_exec_plan_followup_approvals.0` · **State:** waiting · **Source run:** `run-81b6e63ead1edc2cdace0197382db57a`
+**Global name:** `bbugyi200.athena.toobig-3l.split_file.tests.test_axe_run_agent_exec_plan_followup_approvals.0` · **State:** active · **Source run:** `run-81b6e63ead1edc2cdace0197382db57a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-3l
 
 ## Summary
 
-- Model: grok-4.6
-- Provider: grok
-- Timing: 20260823120202
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 2026-08-23T16:32:31.034405+00:00
 - Commits: 0
 
 ## Files
@@ -22,8 +22,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-3l.split\_file.tests.ace.tui.test\_config\_hub\_pane.0](../bbugyi200.athena.toobig-3l.split_file.tests.ace.tui.test_config_hub_pane.0/README.md) | toobig-3l.split\_file.tests hood | completed |
-| [toobig-3l.split\_file.tests.ace.tui.test\_statistics\_pane\_interactions.0](../../families/bbugyi200.athena.toobig-3l.split_file.tests.ace.tui.test_statistics_pane_interactions.0.md) (family · 3) | toobig-3l.split\_file.tests hood | active 1, completed 1, failed 1 |
-| [toobig-3l.split\_file.tests.monitor.test\_monitor\_supervise.0](../bbugyi200.athena.toobig-3l.split_file.tests.monitor.test_monitor_supervise.0/README.md) | toobig-3l.split\_file.tests hood | waiting |
+| [toobig-3l.split\_file.tests.ace.tui.test\_statistics\_pane\_interactions.0](../../families/bbugyi200.athena.toobig-3l.split_file.tests.ace.tui.test_statistics_pane_interactions.0.md) (family · 3) | toobig-3l.split\_file.tests hood | completed 2, failed 1 |
+| [toobig-3l.split\_file.tests.monitor.test\_monitor\_supervise.0](../bbugyi200.athena.toobig-3l.split_file.tests.monitor.test_monitor_supervise.0/README.md) | toobig-3l.split\_file.tests hood | completed |
 | [toobig-3l.split\_file.tests.test\_bead.test\_epic\_launch.0](../bbugyi200.athena.toobig-3l.split_file.tests.test_bead.test_epic_launch.0/README.md) | toobig-3l.split\_file.tests hood | waiting |
 | [toobig-3l.split\_file.tests.test\_file\_hook\_engine.0](../bbugyi200.athena.toobig-3l.split_file.tests.test_file_hook_engine.0/README.md) | toobig-3l.split\_file.tests hood | waiting |
 | [toobig-3l.split\_file.tests.test\_file\_hooks.0](../bbugyi200.athena.toobig-3l.split_file.tests.test_file_hooks.0/README.md) | toobig-3l.split\_file.tests hood | waiting |
