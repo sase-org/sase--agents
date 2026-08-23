@@ -11,7 +11,7 @@ flowchart TD
   n0["toobig-3l.split_file.tests.test_bead.test_epic_launch.0--plan [completed]"]
   n1["toobig-3l.split_file.tests.test_bead.test_epic_launch.0--mon [failed]"]
   n0 --> n1
-  n2["toobig-3l.split_file.tests.test_bead.test_epic_launch.0--1 [active]"]
+  n2["toobig-3l.split_file.tests.test_bead.test_epic_launch.0--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | toobig-3l.split\_file.tests.test\_bead.test\_epic\_launch.0--plan | completed | sonnet / claude | 2026-08-23T16:50:01.632595+00:00 → 2026-08-23T16:59:15.289234+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-3l.split_file.tests.test_bead.test_epic_launch.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-3l.split_file.tests.test_bead.test_epic_launch.0--plan/chat.md) |
 | <a id="member-mon"></a>mon | toobig-3l.split\_file.tests.test\_bead.test\_epic\_launch.0--mon | failed | sonnet / claude | 2026-08-23T16:59:06.750291+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-3l.split_file.tests.test_bead.test_epic_launch.0--mon/chat.md) |
-| <a id="member-1"></a>1 | toobig-3l.split\_file.tests.test\_bead.test\_epic\_launch.0--1 | active | sonnet / claude | 2026-08-23T17:07:07.796322+00:00 | [1](../agents/bbugyi200.athena.toobig-3l.split_file.tests.test_bead.test_epic_launch.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-3l.split_file.tests.test_bead.test_epic_launch.0--1/prompt.md) | — |
+| <a id="member-1"></a>1 | toobig-3l.split\_file.tests.test\_bead.test\_epic\_launch.0--1 | completed | sonnet / claude | 2026-08-23T17:07:07.796322+00:00 → 2026-08-23T17:09:39.057946+00:00 | [1](../agents/bbugyi200.athena.toobig-3l.split_file.tests.test_bead.test_epic_launch.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-3l.split_file.tests.test_bead.test_epic_launch.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-3l.split_file.tests.test_bead.test_epic_launch.0--1/chat.md) |
 
 ## Commits
 
@@ -37,7 +37,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [toobig-3l.split\_file.tests.ace.tui.test\_statistics\_pane\_interactions.0](bbugyi200.athena.toobig-3l.split_file.tests.ace.tui.test_statistics_pane_interactions.0.md) (family · 3) | toobig-3l.split\_file.tests hood | completed 2, failed 1 |
 | [toobig-3l.split\_file.tests.monitor.test\_monitor\_supervise.0](../agents/bbugyi200.athena.toobig-3l.split_file.tests.monitor.test_monitor_supervise.0/README.md) | toobig-3l.split\_file.tests hood | completed |
 | [toobig-3l.split\_file.tests.test\_axe\_run\_agent\_exec\_plan\_followup\_approvals.0](../agents/bbugyi200.athena.toobig-3l.split_file.tests.test_axe_run_agent_exec_plan_followup_approvals.0/README.md) | toobig-3l.split\_file.tests hood | completed |
-| [toobig-3l.split\_file.tests.test\_file\_hook\_engine.0](../agents/bbugyi200.athena.toobig-3l.split_file.tests.test_file_hook_engine.0/README.md) | toobig-3l.split\_file.tests hood | waiting |
+| [toobig-3l.split\_file.tests.test\_file\_hook\_engine.0](../agents/bbugyi200.athena.toobig-3l.split_file.tests.test_file_hook_engine.0/README.md) | toobig-3l.split\_file.tests hood | active |
 | [toobig-3l.split\_file.tests.test\_file\_hooks.0](../agents/bbugyi200.athena.toobig-3l.split_file.tests.test_file_hooks.0/README.md) | toobig-3l.split\_file.tests hood | waiting |
 | [toobig-3l.split\_file.tests.test\_finalizers\_commit\_reconciliation.0](../agents/bbugyi200.athena.toobig-3l.split_file.tests.test_finalizers_commit_reconciliation.0/README.md) | toobig-3l.split\_file.tests hood | waiting |
 | [toobig-3l.split\_file.tests.test\_finalizers\_live\_e2e.0](../agents/bbugyi200.athena.toobig-3l.split_file.tests.test_finalizers_live_e2e.0/README.md) | toobig-3l.split\_file.tests hood | waiting |
