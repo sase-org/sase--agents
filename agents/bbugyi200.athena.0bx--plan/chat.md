@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 0bx--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0bx__plan-260823_133418.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0bx__code-260823_133418.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/proc_shell_selection_jump.md
 
 

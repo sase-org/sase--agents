@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-45c747563fb742600628f95f0d0797a4"}
+{"commits":[{"committed_at":1787510571,"sha":"1e40ed159bff60336a2145153a145a34be30756b","subject":"test(finalizers): split protocol harness into topic files"}],"schema_version":2,"source_run_id":"run-45c747563fb742600628f95f0d0797a4"}
