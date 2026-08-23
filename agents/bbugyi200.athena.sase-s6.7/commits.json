@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-42bf6c112dde420a984ea0a5b13c25fe"}
+{"commits":[{"committed_at":1787447002,"sha":"a6a184fad0845f0a79e88aeff029a61432443002","subject":"feat(ace): surface proc shells in agents tab"}],"schema_version":2,"source_run_id":"run-42bf6c112dde420a984ea0a5b13c25fe"}

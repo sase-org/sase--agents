@@ -10,11 +10,12 @@
 
 - Model: —
 - Provider: —
-- Timing: 2026-08-21T18:46:05+00:00 → 2026-08-21T18:46:05+00:00
-- Commits: [1](#commits)
+- Timing: 2026-08-21T18:46:05+00:00 → 2026-08-23T08:21:09+00:00
+- Commits: [2](#commits)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`5938b6d`](https://github.com/sase-org/sase/commit/5938b6dced61635d878c9fe1fab1a61033503476) | feat!: remove automatic EpicResume gating | 2026-08-21 18:46:05 UTC |
+| sase | [`a519327`](https://github.com/sase-org/sase/commit/a5193276bc71e9e432d30853e817cab971b9cb55) | fix(dev-update): migrate past leaked source swap locks | 2026-08-23 08:21:09 UTC |
