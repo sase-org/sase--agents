@@ -18,5 +18,5 @@
 | [sase-s6.1](../../../../../../agents/bbugyi200.athena.sase-s6.1/README.md) | dismissed | — | 2026-08-22T18:15:59 | 1 | — |
 | [sase-s6.4](../../../../../../agents/bbugyi200.athena.sase-s6.4/README.md) | dismissed | — | 2026-08-22T18:16:03 | 1 | — |
 | [sase-s6.5](../../../../../../agents/bbugyi200.athena.sase-s6.5/README.md) | dismissed | — | 2026-08-22T18:16:04 | 1 | — |
-| [sase-s6.land](../../../../../../agents/bbugyi200.athena.sase-s6.land/README.md) | completed | opus / claude | 2026-08-23T11:59:10.763427+00:00 → 2026-08-23T13:30:51.880699+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-s6.land/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-s6.land/chat.md) |
+| [sase-s6.land](../../../../../../agents/bbugyi200.athena.sase-s6.land/README.md) | completed | opus / claude | 2026-08-23T11:59:10.763427+00:00 → 2026-08-23T13:30:51.880699+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-s6.land/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-s6.land/prompt.md) |
 | [sase-s6.8--mon-1](../../../../../../families/bbugyi200.athena.sase-s6.8.md#member-mon-1) | failed | grok-4.6 / grok | 2026-08-23T11:02:06.609992+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-s6.8--mon-1/chat.md) |

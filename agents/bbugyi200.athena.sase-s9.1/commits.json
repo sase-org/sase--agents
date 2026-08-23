@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f918834c36016fb06512051293e921ab"}
+{"commits":[{"committed_at":1787489748,"sha":"dcbf570d53a3b8e705955b9729df84672f1abb7c","subject":"feat(query): add flat boolean flags and bounds"}],"schema_version":2,"source_run_id":"run-f918834c36016fb06512051293e921ab"}

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e493cfe9f4aff4010ed18872a2522cfa"}
+{"commits":[{"committed_at":1787492487,"sha":"f0b932c9d5ce3880cc793f9252a7b4eb56f22c30","subject":"test(query): cover Rust parity for bare flags and bound keys"}],"schema_version":2,"source_run_id":"run-e493cfe9f4aff4010ed18872a2522cfa"}

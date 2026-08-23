@@ -13,17 +13,23 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-23T12:03:19.616330+00:00 → 2026-08-23T12:59:05.663493+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`dcbf570`](https://github.com/sase-org/sase/commit/dcbf570d53a3b8e705955b9729df84672f1abb7c) | feat(query): add flat boolean flags and bounds | 2026-08-23 08:55:48 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-s9.2](../bbugyi200.athena.sase-s9.2/README.md) | sase-s9 hood | active |
+| [sase-s9.2](../bbugyi200.athena.sase-s9.2/README.md) | sase-s9 hood | dismissed |
 | [sase-s9.3](../bbugyi200.athena.sase-s9.3/README.md) | sase-s9 hood | waiting |
 | [sase-s9.4](../bbugyi200.athena.sase-s9.4/README.md) | sase-s9 hood | waiting |
 | [sase-s9.5](../bbugyi200.athena.sase-s9.5/README.md) | sase-s9 hood | waiting |
