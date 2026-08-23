@@ -2,20 +2,26 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-3l](../../users/bbugyi200/machines/athena/hoods/toobig-3l/README.md) / toobig-3l.split\_file.tests.test\_plan\_approval\_launch\_reliability\_integration.0
 
-**Global name:** `bbugyi200.athena.toobig-3l.split_file.tests.test_plan_approval_launch_reliability_integration.0` · **State:** waiting · **Source run:** `run-9e03f4f01bad9a225c736c81d058f25e`
+**Global name:** `bbugyi200.athena.toobig-3l.split_file.tests.test_plan_approval_launch_reliability_integration.0` · **State:** active · **Source run:** `run-9e03f4f01bad9a225c736c81d058f25e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-3l
 
 ## Summary
 
-- Model: grok-4.6
-- Provider: grok
-- Timing: 20260823120209
-- Commits: 0
+- Model: sonnet
+- Provider: claude
+- Timing: 2026-08-23T18:45:11.601838+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9615cd6`](https://github.com/sase-org/sase/commit/9615cd6394317eec05d3a3033758daf9893f9d02) | test: split plan-approval launch reliability suite under 500 lines | 2026-08-23 15:01:52 EDT |
 
 ## Neighbors
 
@@ -30,5 +36,5 @@
 | [toobig-3l.split\_file.tests.test\_file\_hooks.0](../../families/bbugyi200.athena.toobig-3l.split_file.tests.test_file_hooks.0.md) (family · 3) | toobig-3l.split\_file.tests hood | completed 2, failed 1 |
 | [toobig-3l.split\_file.tests.test\_finalizers\_commit\_reconciliation.0](../bbugyi200.athena.toobig-3l.split_file.tests.test_finalizers_commit_reconciliation.0/README.md) | toobig-3l.split\_file.tests hood | completed |
 | [toobig-3l.split\_file.tests.test\_finalizers\_live\_e2e.0](../bbugyi200.athena.toobig-3l.split_file.tests.test_finalizers_live_e2e.0/README.md) | toobig-3l.split\_file.tests hood | completed |
-| [toobig-3l.split\_file.tests.test\_finalizers\_protocol\_harness.0](../bbugyi200.athena.toobig-3l.split_file.tests.test_finalizers_protocol_harness.0/README.md) | toobig-3l.split\_file.tests hood | active |
+| [toobig-3l.split\_file.tests.test\_finalizers\_protocol\_harness.0](../bbugyi200.athena.toobig-3l.split_file.tests.test_finalizers_protocol_harness.0/README.md) | toobig-3l.split\_file.tests hood | completed |
 | [toobig-3l.split\_file.tests.test\_ratchet\_core\_window\_tool.0](../bbugyi200.athena.toobig-3l.split_file.tests.test_ratchet_core_window_tool.0/README.md) | toobig-3l.split\_file.tests hood | waiting |
