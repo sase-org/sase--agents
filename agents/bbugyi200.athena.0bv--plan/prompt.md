@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Some `test-cost` test is failing when the `just check-full` command is run for some reason (see the `0bm` sase agent for context). Can you help me diagnose the root cause of this issue and fix it? #plan
