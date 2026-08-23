@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3ddda8f5a6c9cbc26443825ce1799d51"}
+{"commits":[{"committed_at":1787519745,"sha":"5dc202dfd130bbe1dbabe9ade462451438f9b94f","subject":"refactor(tests): split agents PNG snapshot family fixtures"}],"schema_version":2,"source_run_id":"run-3ddda8f5a6c9cbc26443825ce1799d51"}
