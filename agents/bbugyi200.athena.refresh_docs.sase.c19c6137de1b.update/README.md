@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`53dd55b`](https://github.com/sase-org/sase/commit/53dd55b89fffa73e583be53c302fe4983b775665) | docs: update CLI and ACE references | 2026-06-26 17:36:44 UTC |
+| sase | [`53dd55b`](https://github.com/sase-org/sase/commit/53dd55b89fffa73e583be53c302fe4983b775665) | docs: update CLI and ACE references | 2026-06-26 13:36:44 EDT |
 
 ## Neighbors
 

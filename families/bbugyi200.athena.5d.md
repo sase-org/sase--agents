@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`5605178`](https://github.com/sase-org/sase/commit/56051782c1ac46bf44720f6ee27f47bc685443a2) | fix: attribute nested linked repository commits correctly | 2026-07-11 12:39:04 UTC |
+| code | sase | [`5605178`](https://github.com/sase-org/sase/commit/56051782c1ac46bf44720f6ee27f47bc685443a2) | fix: attribute nested linked repository commits correctly | 2026-07-11 08:39:04 EDT |

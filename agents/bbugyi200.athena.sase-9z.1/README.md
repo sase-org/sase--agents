@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6065356`](https://github.com/sase-org/sase/commit/6065356e7beacd1dfd452b081ad093a0894afe99) | feat(sdd): add shared plan reference facade (sase-9z.1) | 2026-07-27 13:17:41 UTC |
+| sase | [`6065356`](https://github.com/sase-org/sase/commit/6065356e7beacd1dfd452b081ad093a0894afe99) | feat(sdd): add shared plan reference facade (sase-9z.1) | 2026-07-27 09:17:41 EDT |
 
 ## Neighbors
 

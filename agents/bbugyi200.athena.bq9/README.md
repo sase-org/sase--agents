@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`74f654b`](https://github.com/sase-org/sase/commit/74f654b4f46dafc2f19c998ef8ae332c41de8a5d) | chore: Add SDD prompt and plan for project\_keymap\_lowercase\_p | 2026-06-02 10:10:33 UTC |
-| sase | [`e361dee`](https://github.com/sase-org/sase/commit/e361dee304dacffd9268209517a947c47f674472) | feat: default project management leader key to p | 2026-06-02 10:18:57 UTC |
+| sase | [`74f654b`](https://github.com/sase-org/sase/commit/74f654b4f46dafc2f19c998ef8ae332c41de8a5d) | chore: Add SDD prompt and plan for project\_keymap\_lowercase\_p | 2026-06-02 06:10:33 EDT |
+| sase | [`e361dee`](https://github.com/sase-org/sase/commit/e361dee304dacffd9268209517a947c47f674472) | feat: default project management leader key to p | 2026-06-02 06:18:57 EDT |

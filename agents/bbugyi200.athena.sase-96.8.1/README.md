@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0417b41`](https://github.com/sase-org/sase/commit/0417b415d8c7b30c9e1c94e2c5cebe3e2a3aa31c) | build: route terminal smoke through pytest runner (sase-96.8.1) | 2026-07-26 10:36:18 UTC |
+| sase | [`0417b41`](https://github.com/sase-org/sase/commit/0417b415d8c7b30c9e1c94e2c5cebe3e2a3aa31c) | build: route terminal smoke through pytest runner (sase-96.8.1) | 2026-07-26 06:36:18 EDT |
 
 ## Neighbors
 

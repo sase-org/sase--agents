@@ -23,11 +23,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f2cd75b`](https://github.com/sase-org/sase/commit/f2cd75bc55a1c6c786961572f4703605ae6d91a5) | revert(agent-names): remove historical identity migration | 2026-08-03 18:52:59 UTC |
-| sase | [`850cb91`](https://github.com/sase-org/sase/commit/850cb910ee9f944e6c5871187581758cdba9c9d3) | revert(beads): remove historical reference rewriting | 2026-08-03 18:54:41 UTC |
-| sase | [`e433d38`](https://github.com/sase-org/sase/commit/e433d388575fa71423dd6c15b3264e8a9572636b) | revert(beads): remove prefix migration facade | 2026-08-03 18:56:34 UTC |
-| sase | [`234e817`](https://github.com/sase-org/sase/commit/234e8175cd28e7a3f040510f0c68a0f5fba1494b) | fix(lint): remove stale symvision state | 2026-08-03 19:03:28 UTC |
-| sase | [`a35846f`](https://github.com/sase-org/sase/commit/a35846f4cf60ac0da274370698d16340a6c61791) | fix(beads): restore pre-alias resolution tests | 2026-08-03 19:15:18 UTC |
+| sase | [`f2cd75b`](https://github.com/sase-org/sase/commit/f2cd75bc55a1c6c786961572f4703605ae6d91a5) | revert(agent-names): remove historical identity migration | 2026-08-03 14:52:59 EDT |
+| sase | [`850cb91`](https://github.com/sase-org/sase/commit/850cb910ee9f944e6c5871187581758cdba9c9d3) | revert(beads): remove historical reference rewriting | 2026-08-03 14:54:41 EDT |
+| sase | [`e433d38`](https://github.com/sase-org/sase/commit/e433d388575fa71423dd6c15b3264e8a9572636b) | revert(beads): remove prefix migration facade | 2026-08-03 14:56:34 EDT |
+| sase | [`234e817`](https://github.com/sase-org/sase/commit/234e8175cd28e7a3f040510f0c68a0f5fba1494b) | fix(lint): remove stale symvision state | 2026-08-03 15:03:28 EDT |
+| sase | [`a35846f`](https://github.com/sase-org/sase/commit/a35846f4cf60ac0da274370698d16340a6c61791) | fix(beads): restore pre-alias resolution tests | 2026-08-03 15:15:18 EDT |
 
 ## Neighbors
 

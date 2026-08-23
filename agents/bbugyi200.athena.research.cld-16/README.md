@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`52aeb13`](https://github.com/sase-org/sase/commit/52aeb1301fb7d1ebaff23937c68addabd868700e) | chore: add blog series count and structure research | 2026-06-07 11:24:09 UTC |
+| sase | [`52aeb13`](https://github.com/sase-org/sase/commit/52aeb1301fb7d1ebaff23937c68addabd868700e) | chore: add blog series count and structure research | 2026-06-07 07:24:09 EDT |
 
 ## Neighbors
 

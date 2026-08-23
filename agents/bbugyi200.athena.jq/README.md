@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`86dc5a0`](https://github.com/sase-org/sase/commit/86dc5a04895671ef29fe61ba695eff1bf6ec7eaa) | feat(ace): consolidate Agents header status counts | 2026-07-24 22:20:05 UTC |
+| sase | [`86dc5a0`](https://github.com/sase-org/sase/commit/86dc5a04895671ef29fe61ba695eff1bf6ec7eaa) | feat(ace): consolidate Agents header status counts | 2026-07-24 18:20:05 EDT |
 
 ## Neighbors
 

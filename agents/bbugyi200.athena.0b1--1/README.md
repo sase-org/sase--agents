@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`22a2937`](https://github.com/sase-org/sase/commit/22a2937e4a235dab358adb8885f1551114453dad) | fix(bead): relaunch lander after closed epic phases | 2026-08-22 16:51:14 UTC |
+| sase | [`22a2937`](https://github.com/sase-org/sase/commit/22a2937e4a235dab358adb8885f1551114453dad) | fix(bead): relaunch lander after closed epic phases | 2026-08-22 12:51:14 EDT |
 
 ## Neighbors
 

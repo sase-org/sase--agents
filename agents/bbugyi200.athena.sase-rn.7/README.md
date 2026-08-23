@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4afec20`](https://github.com/sase-org/sase/commit/4afec203b8dd72ac2e56ae9c964f3a76edfcbfc3) | feat(finalizers): complete beta compatibility soak | 2026-08-20 23:36:56 UTC |
+| sase | [`4afec20`](https://github.com/sase-org/sase/commit/4afec203b8dd72ac2e56ae9c964f3a76edfcbfc3) | feat(finalizers): complete beta compatibility soak | 2026-08-20 19:36:56 EDT |
 
 ## Neighbors
 

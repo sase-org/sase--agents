@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`fe397e3`](https://github.com/sase-org/sase/commit/fe397e3630186dd79d8167f87b6f94e732a79cef) | fix(llm): refresh Antigravity model catalog | 2026-07-31 17:37:06 UTC |
+| code | sase | [`fe397e3`](https://github.com/sase-org/sase/commit/fe397e3630186dd79d8167f87b6f94e732a79cef) | fix(llm): refresh Antigravity model catalog | 2026-07-31 13:37:06 EDT |

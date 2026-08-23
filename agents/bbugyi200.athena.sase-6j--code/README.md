@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`be5967a`](https://github.com/sase-org/sase/commit/be5967a70a49b63bef291b03b8ea2927c76dc265) | test(tui): stabilize residual freeze soak (sase-6j.5) (sase-6j) | 2026-07-17 13:46:57 UTC |
+| sase | [`be5967a`](https://github.com/sase-org/sase/commit/be5967a70a49b63bef291b03b8ea2927c76dc265) | test(tui): stabilize residual freeze soak (sase-6j.5) (sase-6j) | 2026-07-17 09:46:57 EDT |
 
 ## Neighbors
 

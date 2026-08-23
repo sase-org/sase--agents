@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`007d085`](https://github.com/sase-org/sase/commit/007d08580c815c1f9f5ca4010e87a0a6cb213aef) | test(markdown-pdf): split oversized test module | 2026-08-22 05:05:10 UTC |
+| sase | [`007d085`](https://github.com/sase-org/sase/commit/007d08580c815c1f9f5ca4010e87a0a6cb213aef) | test(markdown-pdf): split oversized test module | 2026-08-22 01:05:10 EDT |
 
 ## Neighbors
 

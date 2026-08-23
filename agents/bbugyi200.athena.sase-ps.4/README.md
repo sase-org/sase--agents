@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5bb381f`](https://github.com/sase-org/sase/commit/5bb381f4a22eb2943a13e4eefcaaae5c34cfd86e) | docs(runner-slots): document serial-family occupancy including monitors | 2026-08-18 16:44:05 UTC |
+| sase | [`5bb381f`](https://github.com/sase-org/sase/commit/5bb381f4a22eb2943a13e4eefcaaae5c34cfd86e) | docs(runner-slots): document serial-family occupancy including monitors | 2026-08-18 12:44:05 EDT |
 
 ## Neighbors
 

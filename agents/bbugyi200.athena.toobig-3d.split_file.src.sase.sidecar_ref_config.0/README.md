@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f4a2e6f`](https://github.com/sase-org/sase/commit/f4a2e6fc2387fc732b2c7e778d82fdd4dd4dc906) | refactor(sidecars): split ref config module | 2026-08-22 02:42:09 UTC |
+| sase | [`f4a2e6f`](https://github.com/sase-org/sase/commit/f4a2e6fc2387fc732b2c7e778d82fdd4dd4dc906) | refactor(sidecars): split ref config module | 2026-08-21 22:42:09 EDT |
 
 ## Neighbors
 

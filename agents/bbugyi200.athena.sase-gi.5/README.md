@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ecce0c3`](https://github.com/sase-org/sase/commit/ecce0c3888b8381dce9fb0881a2927090d05b2e0) | feat(ace-tui): drop and renumber ordered markers on NORMAL-mode J | 2026-08-06 22:33:20 UTC |
+| sase | [`ecce0c3`](https://github.com/sase-org/sase/commit/ecce0c3888b8381dce9fb0881a2927090d05b2e0) | feat(ace-tui): drop and renumber ordered markers on NORMAL-mode J | 2026-08-06 18:33:20 EDT |
 
 ## Neighbors
 

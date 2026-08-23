@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`a9813bf`](https://github.com/sase-org/sase/commit/a9813bf2c4014b6ac467476c2dcd7870436917e7) | feat: highlight literal code in prompts | 2026-07-14 14:23:19 UTC |
+| code | sase | [`a9813bf`](https://github.com/sase-org/sase/commit/a9813bf2c4014b6ac467476c2dcd7870436917e7) | feat: highlight literal code in prompts | 2026-07-14 10:23:19 EDT |
 
 ## Neighbors
 

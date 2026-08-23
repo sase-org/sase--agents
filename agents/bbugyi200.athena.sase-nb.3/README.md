@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e38d7b8`](https://github.com/sase-org/sase/commit/e38d7b80f7845abc53ff8c8b5e364248834ad1b5) | feat(bead): add flag issue type to the Python bead layer | 2026-08-16 18:50:45 UTC |
+| sase | [`e38d7b8`](https://github.com/sase-org/sase/commit/e38d7b80f7845abc53ff8c8b5e364248834ad1b5) | feat(bead): add flag issue type to the Python bead layer | 2026-08-16 14:50:45 EDT |
 
 ## Neighbors
 

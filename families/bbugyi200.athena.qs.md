@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`fcaf211`](https://github.com/sase-org/sase/commit/fcaf211326a42faf7337996c4cc3d621afb617a5) | fix(axe): normalize handoff interruptions structurally, not by provider error text | 2026-07-31 20:45:24 UTC |
+| code | sase | [`fcaf211`](https://github.com/sase-org/sase/commit/fcaf211326a42faf7337996c4cc3d621afb617a5) | fix(axe): normalize handoff interruptions structurally, not by provider error text | 2026-07-31 16:45:24 EDT |

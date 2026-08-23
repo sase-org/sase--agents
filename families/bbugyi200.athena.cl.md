@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f18fcfa`](https://github.com/sase-org/sase/commit/f18fcfae17f30b07c5d9dae46b3192ceff42f028) | feat(ace): compact phase bead identity header | 2026-07-17 21:57:40 UTC |
+| code | sase | [`f18fcfa`](https://github.com/sase-org/sase/commit/f18fcfae17f30b07c5d9dae46b3192ceff42f028) | feat(ace): compact phase bead identity header | 2026-07-17 17:57:40 EDT |

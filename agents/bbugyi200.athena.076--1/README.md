@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3fb0bbb`](https://github.com/sase-org/sase/commit/3fb0bbbd62287a7033eb7a28a5d1e7f10a72bed7) | fix(tui): grey the monitor-shell gear once its monitor settles | 2026-08-19 00:31:49 UTC |
+| sase | [`3fb0bbb`](https://github.com/sase-org/sase/commit/3fb0bbbd62287a7033eb7a28a5d1e7f10a72bed7) | fix(tui): grey the monitor-shell gear once its monitor settles | 2026-08-18 20:31:49 EDT |

@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f163194`](https://github.com/sase-org/sase/commit/f1631941eb9ff715a60ecb7facb88299e58e7373) | feat(prompt): polish, document, and integration-test the command group (sase-4o.5) | 2026-06-13 20:03:52 UTC |
+| sase | [`f163194`](https://github.com/sase-org/sase/commit/f1631941eb9ff715a60ecb7facb88299e58e7373) | feat(prompt): polish, document, and integration-test the command group (sase-4o.5) | 2026-06-13 16:03:52 EDT |
 
 ## Neighbors
 

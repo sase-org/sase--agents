@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3c9df11`](https://github.com/sase-org/sase/commit/3c9df1182ce53093c637909edef19c1297679b4e) | feat(ace-tui)!: unify the Artifacts keymap across Patch and its siblings | 2026-08-16 20:01:10 UTC |
+| sase | [`3c9df11`](https://github.com/sase-org/sase/commit/3c9df1182ce53093c637909edef19c1297679b4e) | feat(ace-tui)!: unify the Artifacts keymap across Patch and its siblings | 2026-08-16 16:01:10 EDT |
 
 ## Neighbors
 

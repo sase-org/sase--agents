@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`14204d6`](https://github.com/sase-org/sase/commit/14204d6a48a7188c4c12f66a4c2f55cfea21b093) | feat(config): add tmux\_agent configuration section | 2026-08-19 17:29:27 UTC |
+| sase | [`14204d6`](https://github.com/sase-org/sase/commit/14204d6a48a7188c4c12f66a4c2f55cfea21b093) | feat(config): add tmux\_agent configuration section | 2026-08-19 13:29:27 EDT |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d5ac426`](https://github.com/sase-org/sase/commit/d5ac4269303f6b098aa6e242b8a3185e334a4b71) | refactor(glossary): retire the epic-symbol exemptions for sase-op | 2026-08-17 20:55:47 UTC |
+| sase | [`d5ac426`](https://github.com/sase-org/sase/commit/d5ac4269303f6b098aa6e242b8a3185e334a4b71) | refactor(glossary): retire the epic-symbol exemptions for sase-op | 2026-08-17 16:55:47 EDT |
 
 ## Neighbors
 

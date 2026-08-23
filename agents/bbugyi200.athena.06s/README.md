@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e7d1e8d`](https://github.com/sase-org/sase/commit/e7d1e8de9f25653c274ae5608d8c3411c949826c) | chore: Add SDD prompt and plan for plan\_agent\_pencil\_consistency | 2026-06-26 02:23:02 UTC |
-| sase | [`c98a35e`](https://github.com/sase-org/sase/commit/c98a35e0c5135e557a0e4e28f493e7438d748ead) | fix(ace): show pencil badge on redirected Plan agent rows | 2026-06-26 02:46:22 UTC |
+| sase | [`e7d1e8d`](https://github.com/sase-org/sase/commit/e7d1e8de9f25653c274ae5608d8c3411c949826c) | chore: Add SDD prompt and plan for plan\_agent\_pencil\_consistency | 2026-06-25 22:23:02 EDT |
+| sase | [`c98a35e`](https://github.com/sase-org/sase/commit/c98a35e0c5135e557a0e4e28f493e7438d748ead) | fix(ace): show pencil badge on redirected Plan agent rows | 2026-06-25 22:46:22 EDT |

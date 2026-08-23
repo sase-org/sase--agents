@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9aface2`](https://github.com/sase-org/sase/commit/9aface2c9ce9caca5e3a178bcd8b340442c606a9) | feat(tui): add tools panel detail levels | 2026-07-07 20:32:12 UTC |
+| sase | [`9aface2`](https://github.com/sase-org/sase/commit/9aface2c9ce9caca5e3a178bcd8b340442c606a9) | feat(tui): add tools panel detail levels | 2026-07-07 16:32:12 EDT |
 
 ## Neighbors
 

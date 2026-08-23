@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ff0b765`](https://github.com/sase-org/sase/commit/ff0b765a4d395ef91f9b89aeabd5d3e7d831aed1) | feat(notification-gates)!: fail closed at creation for unanswerable gates | 2026-08-07 23:24:06 UTC |
+| sase | [`ff0b765`](https://github.com/sase-org/sase/commit/ff0b765a4d395ef91f9b89aeabd5d3e7d831aed1) | feat(notification-gates)!: fail closed at creation for unanswerable gates | 2026-08-07 19:24:06 EDT |
 
 ## Neighbors
 

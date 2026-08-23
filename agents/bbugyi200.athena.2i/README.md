@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5fa1ccc`](https://github.com/sase-org/sase/commit/5fa1ccc9c7a8969e5bbc054f9210d76662001ffb) | docs: tighten agent providers page for concision & consistency | 2026-07-08 18:33:14 UTC |
+| sase | [`5fa1ccc`](https://github.com/sase-org/sase/commit/5fa1ccc9c7a8969e5bbc054f9210d76662001ffb) | docs: tighten agent providers page for concision & consistency | 2026-07-08 14:33:14 EDT |

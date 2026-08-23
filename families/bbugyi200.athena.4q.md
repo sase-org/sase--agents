@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`c224c98`](https://github.com/sase-org/sase/commit/c224c98bdc679e6894defe0a2a1c40d2754ca06f) | fix(query): propagate project names to ChangeSpec search | 2026-07-10 20:04:04 UTC |
+| code | sase | [`c224c98`](https://github.com/sase-org/sase/commit/c224c98bdc679e6894defe0a2a1c40d2754ca06f) | fix(query): propagate project names to ChangeSpec search | 2026-07-10 16:04:04 EDT |

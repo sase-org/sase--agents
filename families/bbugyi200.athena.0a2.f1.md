@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`5205d99`](https://github.com/sase-org/sase/commit/5205d99f89b4c32b93659a7803d75d21a9f259f8) | feat(ace): add Statistics sub-tab description rail | 2026-08-21 20:43:24 UTC |
+| code | sase | [`5205d99`](https://github.com/sase-org/sase/commit/5205d99f89b4c32b93659a7803d75d21a9f259f8) | feat(ace): add Statistics sub-tab description rail | 2026-08-21 16:43:24 EDT |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8b2baa8`](https://github.com/sase-org/sase/commit/8b2baa881e24ab30dadfe527da1bba514a99d817) | feat(sdd): add typed plan header block adapter (sase-ag.1) | 2026-07-28 14:33:32 UTC |
+| sase | [`8b2baa8`](https://github.com/sase-org/sase/commit/8b2baa881e24ab30dadfe527da1bba514a99d817) | feat(sdd): add typed plan header block adapter (sase-ag.1) | 2026-07-28 10:33:32 EDT |
 
 ## Neighbors
 

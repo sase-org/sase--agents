@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6d131aa`](https://github.com/sase-org/sase/commit/6d131aa7b4df28d10211d4a6ee6df84ac173e9fc) | fix(vcs): forward optional VCS hook arguments | 2026-08-10 12:49:32 UTC |
+| sase | [`6d131aa`](https://github.com/sase-org/sase/commit/6d131aa7b4df28d10211d4a6ee6df84ac173e9fc) | fix(vcs): forward optional VCS hook arguments | 2026-08-10 08:49:32 EDT |
 
 ## Neighbors
 

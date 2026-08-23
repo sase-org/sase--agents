@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2d054ed`](https://github.com/sase-org/sase/commit/2d054ed199038578a9395def0e4e4d917e0f7a43) | docs: refresh user-facing docs for behavior landed since the last pass | 2026-08-07 20:04:02 UTC |
+| sase | [`2d054ed`](https://github.com/sase-org/sase/commit/2d054ed199038578a9395def0e4e4d917e0f7a43) | docs: refresh user-facing docs for behavior landed since the last pass | 2026-08-07 16:04:02 EDT |
 
 ## Neighbors
 

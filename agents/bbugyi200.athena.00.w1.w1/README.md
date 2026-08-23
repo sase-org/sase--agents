@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8abfb41`](https://github.com/sase-org/sase/commit/8abfb4139aada9f67810e5bbc948a54b753d5765) | chore: Add SDD prompt and plan for install\_mode\_switch | 2026-07-04 11:42:32 UTC |
-| sase | [`5131ec8`](https://github.com/sase-org/sase/commit/5131ec849b03b3a00232d1ea5c4e04edc56ad0ab) | feat(update): add install mode switching | 2026-07-04 16:37:06 UTC |
+| sase | [`8abfb41`](https://github.com/sase-org/sase/commit/8abfb4139aada9f67810e5bbc948a54b753d5765) | chore: Add SDD prompt and plan for install\_mode\_switch | 2026-07-04 07:42:32 EDT |
+| sase | [`5131ec8`](https://github.com/sase-org/sase/commit/5131ec849b03b3a00232d1ea5c4e04edc56ad0ab) | feat(update): add install mode switching | 2026-07-04 12:37:06 EDT |
 
 ## Neighbors
 

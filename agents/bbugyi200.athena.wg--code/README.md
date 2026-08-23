@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8847140`](https://github.com/sase-org/sase/commit/8847140e9eeeff4b56e213c71b670bdd3a1b8d71) | fix(tui): normalize glossary preview field labels | 2026-08-09 13:35:42 UTC |
+| sase | [`8847140`](https://github.com/sase-org/sase/commit/8847140e9eeeff4b56e213c71b670bdd3a1b8d71) | fix(tui): normalize glossary preview field labels | 2026-08-09 09:35:42 EDT |

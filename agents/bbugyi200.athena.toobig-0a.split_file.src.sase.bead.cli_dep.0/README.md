@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`daeb6b0`](https://github.com/sase-org/sase/commit/daeb6b0e8b48776dd759b451b74659366ee34ca9) | refactor(bead): split dependency CLI implementation (sase-a4.4.1) | 2026-07-27 20:06:20 UTC |
+| sase | [`daeb6b0`](https://github.com/sase-org/sase/commit/daeb6b0e8b48776dd759b451b74659366ee34ca9) | refactor(bead): split dependency CLI implementation (sase-a4.4.1) | 2026-07-27 16:06:20 EDT |
 
 ## Neighbors
 

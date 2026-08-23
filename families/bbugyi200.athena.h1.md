@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`ff8af79`](https://github.com/sase-org/sase/commit/ff8af79b91e305d55e89f2f98d6c70d64e75f048) | feat(ace): warn on custom builtin alias shadows | 2026-07-21 13:36:55 UTC |
+| code | sase | [`ff8af79`](https://github.com/sase-org/sase/commit/ff8af79b91e305d55e89f2f98d6c70d64e75f048) | feat(ace): warn on custom builtin alias shadows | 2026-07-21 09:36:55 EDT |

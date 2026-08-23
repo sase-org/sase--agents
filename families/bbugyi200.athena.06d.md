@@ -30,6 +30,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`3d7728a`](https://github.com/sase-org/sase/commit/3d7728a5e5d0feef26e8fc459b9130f13335e02b) | chore: Add SDD prompt and plan for telegram\_auto\_plan\_button\_dismissal | 2026-06-25 19:40:35 UTC |
-| — | sase | [`02fb83e`](https://github.com/sase-org/sase/commit/02fb83e8928441bef861fdfc40cbde7d35b5388a) | feat(notifications): record handled plan actions in shared store | 2026-06-25 20:11:23 UTC |
-| — | sase | [`7714541`](https://github.com/sase-org/sase/commit/771454166ccf429023e15a1351849d6996c23b66) | feat(bead): expand @\<path\> on free-text CLI values | 2026-08-18 17:51:06 UTC |
+| — | sase | [`3d7728a`](https://github.com/sase-org/sase/commit/3d7728a5e5d0feef26e8fc459b9130f13335e02b) | chore: Add SDD prompt and plan for telegram\_auto\_plan\_button\_dismissal | 2026-06-25 15:40:35 EDT |
+| — | sase | [`02fb83e`](https://github.com/sase-org/sase/commit/02fb83e8928441bef861fdfc40cbde7d35b5388a) | feat(notifications): record handled plan actions in shared store | 2026-06-25 16:11:23 EDT |
+| — | sase | [`7714541`](https://github.com/sase-org/sase/commit/771454166ccf429023e15a1351849d6996c23b66) | feat(bead): expand @\<path\> on free-text CLI values | 2026-08-18 13:51:06 EDT |

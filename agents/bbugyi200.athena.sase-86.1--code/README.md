@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8599baa`](https://github.com/sase-org/sase/commit/8599baa3a93e6c1c4a8c1f05b6f0c014b64aa322) | feat(test): add host-global pytest worker budget (sase-86.1) | 2026-07-20 16:07:28 UTC |
+| sase | [`8599baa`](https://github.com/sase-org/sase/commit/8599baa3a93e6c1c4a8c1f05b6f0c014b64aa322) | feat(test): add host-global pytest worker budget (sase-86.1) | 2026-07-20 12:07:28 EDT |
 
 ## Neighbors
 

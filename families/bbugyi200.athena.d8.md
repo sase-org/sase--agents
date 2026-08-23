@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`a27479e`](https://github.com/sase-org/sase/commit/a27479e795300e33aff8d1d5cd94ffe437e36334) | feat(ace): add alias options to model picker | 2026-07-18 12:06:59 UTC |
+| code | sase | [`a27479e`](https://github.com/sase-org/sase/commit/a27479e795300e33aff8d1d5cd94ffe437e36334) | feat(ace): add alias options to model picker | 2026-07-18 08:06:59 EDT |

@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5ac4c61`](https://github.com/sase-org/sase/commit/5ac4c61d7778d622a57dfdfdac5ff65fac0f3f3b) | refactor(ace): extract reusable GlossaryPane from GlossaryPanel | 2026-08-20 17:20:52 UTC |
+| sase | [`5ac4c61`](https://github.com/sase-org/sase/commit/5ac4c61d7778d622a57dfdfdac5ff65fac0f3f3b) | refactor(ace): extract reusable GlossaryPane from GlossaryPanel | 2026-08-20 13:20:52 EDT |
 
 ## Neighbors
 

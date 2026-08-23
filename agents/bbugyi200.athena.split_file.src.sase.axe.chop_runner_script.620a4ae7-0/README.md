@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b78b34b`](https://github.com/sase-org/sase/commit/b78b34b3643933289e22364eec49009879c2198a) | refactor(axe): split chop runner script responsibilities | 2026-07-19 08:01:11 UTC |
+| sase | [`b78b34b`](https://github.com/sase-org/sase/commit/b78b34b3643933289e22364eec49009879c2198a) | refactor(axe): split chop runner script responsibilities | 2026-07-19 04:01:11 EDT |
 
 ## Neighbors
 

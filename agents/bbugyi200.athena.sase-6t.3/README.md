@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bef0744`](https://github.com/sase-org/sase/commit/bef07444d52a2263ebc050f5136cf8df37a2b7aa) | feat(tui): add live Plans filtering (sase-6t.3) | 2026-07-18 18:04:03 UTC |
+| sase | [`bef0744`](https://github.com/sase-org/sase/commit/bef07444d52a2263ebc050f5136cf8df37a2b7aa) | feat(tui): add live Plans filtering (sase-6t.3) | 2026-07-18 14:04:03 EDT |
 
 ## Neighbors
 

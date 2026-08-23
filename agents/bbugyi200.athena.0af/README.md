@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5474f44`](https://github.com/sase-org/sase/commit/5474f4491032de750e1f1ee2a524cf7dd0deb066) | fix: require sase-core-rs 0.3 | 2026-06-30 01:36:56 UTC |
+| sase | [`5474f44`](https://github.com/sase-org/sase/commit/5474f4491032de750e1f1ee2a524cf7dd0deb066) | fix: require sase-core-rs 0.3 | 2026-06-29 21:36:56 EDT |

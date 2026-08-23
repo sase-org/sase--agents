@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`a2ebe06`](https://github.com/sase-org/sase/commit/a2ebe065a927529da472f95b127e52959f0ed75a) | docs: refine new task duplicate search guidance | 2026-08-09 13:19:37 UTC |
+| code | sase | [`a2ebe06`](https://github.com/sase-org/sase/commit/a2ebe065a927529da472f95b127e52959f0ed75a) | docs: refine new task duplicate search guidance | 2026-08-09 09:19:37 EDT |
 
 ## Neighbors
 

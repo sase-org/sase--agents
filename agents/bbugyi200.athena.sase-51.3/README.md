@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b0f316a`](https://github.com/sase-org/sase/commit/b0f316ab71ef2d7371c22d92f406755fd7169a0d) | feat(config): surface linked\_repos as the public configured-repo key (sase-51.3) | 2026-06-20 20:10:27 UTC |
+| sase | [`b0f316a`](https://github.com/sase-org/sase/commit/b0f316ab71ef2d7371c22d92f406755fd7169a0d) | feat(config): surface linked\_repos as the public configured-repo key (sase-51.3) | 2026-06-20 16:10:27 EDT |
 
 ## Neighbors
 

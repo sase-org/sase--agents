@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ccc2636`](https://github.com/sase-org/sase/commit/ccc263641630dc57c084575893cf0432f58052e7) | chore: Add SDD prompt and plan for agents\_starting\_total | 2026-07-02 09:54:07 UTC |
-| sase | [`97f34fa`](https://github.com/sase-org/sase/commit/97f34fa983c53adfe1e5ddee4753c7bf3d234ae9) | fix(ace): include STARTING agents in Agents tab headline total | 2026-07-02 10:03:21 UTC |
+| sase | [`ccc2636`](https://github.com/sase-org/sase/commit/ccc263641630dc57c084575893cf0432f58052e7) | chore: Add SDD prompt and plan for agents\_starting\_total | 2026-07-02 05:54:07 EDT |
+| sase | [`97f34fa`](https://github.com/sase-org/sase/commit/97f34fa983c53adfe1e5ddee4753c7bf3d234ae9) | fix(ace): include STARTING agents in Agents tab headline total | 2026-07-02 06:03:21 EDT |

@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fa93b3a`](https://github.com/sase-org/sase/commit/fa93b3ad7c31cf1bf57232db25d112643bb7b7bb) | fix(ace): drop xprompt completion spacer when Tab jumps to next tabstop | 2026-08-14 18:11:58 UTC |
+| sase | [`fa93b3a`](https://github.com/sase-org/sase/commit/fa93b3ad7c31cf1bf57232db25d112643bb7b7bb) | fix(ace): drop xprompt completion spacer when Tab jumps to next tabstop | 2026-08-14 14:11:58 EDT |

@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3121237`](https://github.com/sase-org/sase/commit/31212377883aa877409ed6612e19b06f8f4f9f6f) | chore: Add SDD prompt and plan for tasks\_tab\_live\_output | 2026-06-28 18:46:11 UTC |
-| sase | [`2b2cd38`](https://github.com/sase-org/sase/commit/2b2cd389eb916149de61fb102ea9365a3bd11da6) | feat(tui): stream live task output in tasks tab | 2026-06-28 19:13:04 UTC |
+| sase | [`3121237`](https://github.com/sase-org/sase/commit/31212377883aa877409ed6612e19b06f8f4f9f6f) | chore: Add SDD prompt and plan for tasks\_tab\_live\_output | 2026-06-28 14:46:11 EDT |
+| sase | [`2b2cd38`](https://github.com/sase-org/sase/commit/2b2cd389eb916149de61fb102ea9365a3bd11da6) | feat(tui): stream live task output in tasks tab | 2026-06-28 15:13:04 EDT |

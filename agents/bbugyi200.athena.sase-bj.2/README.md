@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`748b617`](https://github.com/sase-org/sase/commit/748b617c0b060a20861331e8b65b6d3725fbcf44) | feat(commit): add commit subject validation policy | 2026-07-31 12:05:48 UTC |
+| sase | [`748b617`](https://github.com/sase-org/sase/commit/748b617c0b060a20861331e8b65b6d3725fbcf44) | feat(commit): add commit subject validation policy | 2026-07-31 08:05:48 EDT |
 
 ## Neighbors
 

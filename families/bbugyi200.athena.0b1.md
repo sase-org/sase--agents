@@ -27,9 +27,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`32cd557`](https://github.com/sase-org/sase/commit/32cd5575b3a9cd349431c0bbeae6ee1d0fd9bc31) | chore: Add SDD prompt and plan for models\_panel\_coder\_kind\_label | 2026-07-01 11:46:24 UTC |
-| — | sase | [`c8b9321`](https://github.com/sase-org/sase/commit/c8b93210fb722bebcba1bacbf363b531f3549ed9) | fix(tui): show provider coder model kind as coder | 2026-07-01 11:56:10 UTC |
-| 1 | sase | [`22a2937`](https://github.com/sase-org/sase/commit/22a2937e4a235dab358adb8885f1551114453dad) | fix(bead): relaunch lander after closed epic phases | 2026-08-22 16:51:14 UTC |
+| — | sase | [`32cd557`](https://github.com/sase-org/sase/commit/32cd5575b3a9cd349431c0bbeae6ee1d0fd9bc31) | chore: Add SDD prompt and plan for models\_panel\_coder\_kind\_label | 2026-07-01 07:46:24 EDT |
+| — | sase | [`c8b9321`](https://github.com/sase-org/sase/commit/c8b93210fb722bebcba1bacbf363b531f3549ed9) | fix(tui): show provider coder model kind as coder | 2026-07-01 07:56:10 EDT |
+| 1 | sase | [`22a2937`](https://github.com/sase-org/sase/commit/22a2937e4a235dab358adb8885f1551114453dad) | fix(bead): relaunch lander after closed epic phases | 2026-08-22 12:51:14 EDT |
 
 ## Neighbors
 

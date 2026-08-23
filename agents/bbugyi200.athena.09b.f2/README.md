@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a71cda4`](https://github.com/sase-org/sase/commit/a71cda4f8d584aea1f72d7d1fc32d051ca4e58f0) | chore: Add SDD prompt and plan for agent\_descendants\_neighborhood | 2026-06-28 20:28:57 UTC |
-| sase | [`8c318e7`](https://github.com/sase-org/sase/commit/8c318e7d20cf0e754f6b3478c82bbf3734a5588c) | feat(tui): include descendants in agent neighbor navigation | 2026-06-28 20:52:13 UTC |
+| sase | [`a71cda4`](https://github.com/sase-org/sase/commit/a71cda4f8d584aea1f72d7d1fc32d051ca4e58f0) | chore: Add SDD prompt and plan for agent\_descendants\_neighborhood | 2026-06-28 16:28:57 EDT |
+| sase | [`8c318e7`](https://github.com/sase-org/sase/commit/8c318e7d20cf0e754f6b3478c82bbf3734a5588c) | feat(tui): include descendants in agent neighbor navigation | 2026-06-28 16:52:13 EDT |
 
 ## Neighbors
 

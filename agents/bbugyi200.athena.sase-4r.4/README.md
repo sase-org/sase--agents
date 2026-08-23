@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b3d8240`](https://github.com/sase-org/sase/commit/b3d8240bd9624433c97b3d98c39bec5394818e71) | feat(tui): add structured input/xprompts editors + local-xprompt completion parity (sase-4r.4) | 2026-06-16 20:11:49 UTC |
+| sase | [`b3d8240`](https://github.com/sase-org/sase/commit/b3d8240bd9624433c97b3d98c39bec5394818e71) | feat(tui): add structured input/xprompts editors + local-xprompt completion parity (sase-4r.4) | 2026-06-16 16:11:49 EDT |
 
 ## Neighbors
 

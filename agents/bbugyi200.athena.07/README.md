@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`da5324d`](https://github.com/sase-org/sase/commit/da5324ddaa0cd525c5089436566b7f3153072749) | chore: Add SDD prompt and plan for plugins\_marked\_batch\_install | 2026-07-07 04:04:43 UTC |
+| sase | [`da5324d`](https://github.com/sase-org/sase/commit/da5324ddaa0cd525c5089436566b7f3153072749) | chore: Add SDD prompt and plan for plugins\_marked\_batch\_install | 2026-07-07 00:04:43 EDT |

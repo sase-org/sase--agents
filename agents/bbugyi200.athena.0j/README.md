@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eeb6f73`](https://github.com/sase-org/sase/commit/eeb6f73957807882f31956933f9dbdc7be4c92a5) | chore: Add SDD prompt and plan for update\_confirm\_incoming\_commits | 2026-07-07 16:16:48 UTC |
+| sase | [`eeb6f73`](https://github.com/sase-org/sase/commit/eeb6f73957807882f31956933f9dbdc7be4c92a5) | chore: Add SDD prompt and plan for update\_confirm\_incoming\_commits | 2026-07-07 12:16:48 EDT |
 
 ## Neighbors
 

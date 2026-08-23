@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`444ed94`](https://github.com/sase-org/sase/commit/444ed94753c222cf78a0a9c2fc7dd85af1870ecc) | docs: consolidate TUI slowdown research | 2026-06-25 10:47:07 UTC |
+| sase | [`444ed94`](https://github.com/sase-org/sase/commit/444ed94753c222cf78a0a9c2fc7dd85af1870ecc) | docs: consolidate TUI slowdown research | 2026-06-25 06:47:07 EDT |
 
 ## Neighbors
 

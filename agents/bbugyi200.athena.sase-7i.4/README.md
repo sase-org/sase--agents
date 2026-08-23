@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`807ece1`](https://github.com/sase-org/sase/commit/807ece1d0eef6401290a4d1c7108d44a13285885) | fix(axe): recover dismissed chop completions (sase-7i.4) | 2026-07-19 17:39:38 UTC |
+| sase | [`807ece1`](https://github.com/sase-org/sase/commit/807ece1d0eef6401290a4d1c7108d44a13285885) | fix(axe): recover dismissed chop completions (sase-7i.4) | 2026-07-19 13:39:38 EDT |
 
 ## Neighbors
 

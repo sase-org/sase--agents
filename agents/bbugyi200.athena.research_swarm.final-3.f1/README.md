@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`67f7029`](https://github.com/sase-org/sase/commit/67f702955069597918cb66f6496b95ae6c100886) | chore: Add SDD prompt and plan for tui\_prompt\_live\_completion | 2026-05-29 02:19:59 UTC |
-| sase | [`ecbc44b`](https://github.com/sase-org/sase/commit/ecbc44b0499b6e9ad83b5dc7ea1a0daa25612f6c) | feat: add live ACE prompt completion | 2026-05-29 02:41:52 UTC |
+| sase | [`67f7029`](https://github.com/sase-org/sase/commit/67f702955069597918cb66f6496b95ae6c100886) | chore: Add SDD prompt and plan for tui\_prompt\_live\_completion | 2026-05-28 22:19:59 EDT |
+| sase | [`ecbc44b`](https://github.com/sase-org/sase/commit/ecbc44b0499b6e9ad83b5dc7ea1a0daa25612f6c) | feat: add live ACE prompt completion | 2026-05-28 22:41:52 EDT |
 
 ## Neighbors
 

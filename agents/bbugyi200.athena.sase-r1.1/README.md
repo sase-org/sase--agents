@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`012948e`](https://github.com/sase-org/sase/commit/012948e7c749cf8f563fadef8defc236892faec6) | feat(tui): cache update evidence and project Update panel rows | 2026-08-19 17:27:53 UTC |
+| sase | [`012948e`](https://github.com/sase-org/sase/commit/012948e7c749cf8f563fadef8defc236892faec6) | feat(tui): cache update evidence and project Update panel rows | 2026-08-19 13:27:53 EDT |
 
 ## Neighbors
 

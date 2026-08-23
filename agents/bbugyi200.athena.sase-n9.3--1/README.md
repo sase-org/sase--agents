@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`15e1fda`](https://github.com/sase-org/sase/commit/15e1fda0c153e9024073a13cad131c73509afdf1) | feat(editor): enrich family entries in the agent-catalog helper | 2026-08-16 18:00:22 UTC |
+| sase | [`15e1fda`](https://github.com/sase-org/sase/commit/15e1fda0c153e9024073a13cad131c73509afdf1) | feat(editor): enrich family entries in the agent-catalog helper | 2026-08-16 14:00:22 EDT |
 
 ## Neighbors
 

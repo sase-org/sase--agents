@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`df1751d`](https://github.com/sase-org/sase/commit/df1751d3abca34c84174bc691d7be3f63cbb7e34) | feat(ace): add Admin Center subtab numbers | 2026-08-21 13:43:04 UTC |
+| sase | [`df1751d`](https://github.com/sase-org/sase/commit/df1751d3abca34c84174bc691d7be3f63cbb7e34) | feat(ace): add Admin Center subtab numbers | 2026-08-21 09:43:04 EDT |
 
 ## Neighbors
 

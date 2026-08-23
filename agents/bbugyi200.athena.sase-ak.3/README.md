@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ed04c42`](https://github.com/sase-org/sase/commit/ed04c42f239002a2f682ca9dc0761442a140cf4c) | feat(ace): display tribe wait bindings | 2026-07-28 21:48:54 UTC |
+| sase | [`ed04c42`](https://github.com/sase-org/sase/commit/ed04c42f239002a2f682ca9dc0761442a140cf4c) | feat(ace): display tribe wait bindings | 2026-07-28 17:48:54 EDT |
 
 ## Neighbors
 

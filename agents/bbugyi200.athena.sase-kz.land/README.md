@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`36d6dc8`](https://github.com/sase-org/sase/commit/36d6dc8dd86551664fc2b8411376403f5c77fdd2) | test(ace): assert retreat is unavailable after a snippet session ends | 2026-08-13 20:25:55 UTC |
+| sase | [`36d6dc8`](https://github.com/sase-org/sase/commit/36d6dc8dd86551664fc2b8411376403f5c77fdd2) | test(ace): assert retreat is unavailable after a snippet session ends | 2026-08-13 16:25:55 EDT |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`176247a`](https://github.com/sase-org/sase/commit/176247aa0d9aee43fb1b3b7b8e9c3db988437806) | test(file-hooks): prove research-highlights runs once on the canonical path | 2026-08-22 18:50:53 UTC |
+| sase | [`176247a`](https://github.com/sase-org/sase/commit/176247aa0d9aee43fb1b3b7b8e9c3db988437806) | test(file-hooks): prove research-highlights runs once on the canonical path | 2026-08-22 14:50:53 EDT |
 
 ## Neighbors
 

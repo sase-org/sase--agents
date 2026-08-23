@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`02a9d4d`](https://github.com/sase-org/sase/commit/02a9d4db9496a6a821f05234e547fdb79edcd19d) | feat(axe)!: route plan coder follow-ups through provider coder alias (sase-5d.3) | 2026-06-30 15:11:52 UTC |
+| sase | [`02a9d4d`](https://github.com/sase-org/sase/commit/02a9d4db9496a6a821f05234e547fdb79edcd19d) | feat(axe)!: route plan coder follow-ups through provider coder alias (sase-5d.3) | 2026-06-30 11:11:52 EDT |
 
 ## Neighbors
 

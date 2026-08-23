@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4b2154d`](https://github.com/sase-org/sase/commit/4b2154dcae9be2c088e916054371b4c7fb8e923a) | test: split reasoning effort metadata coverage | 2026-08-13 15:55:09 UTC |
+| sase | [`4b2154d`](https://github.com/sase-org/sase/commit/4b2154dcae9be2c088e916054371b4c7fb8e923a) | test: split reasoning effort metadata coverage | 2026-08-13 11:55:09 EDT |
 
 ## Neighbors
 

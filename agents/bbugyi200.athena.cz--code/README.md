@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`64f5608`](https://github.com/sase-org/sase/commit/64f560802da4f19a7acf916d3107f1cdc08e89c6) | feat(ace): view prompt jump images in terminal | 2026-07-18 11:03:55 UTC |
+| sase | [`64f5608`](https://github.com/sase-org/sase/commit/64f560802da4f19a7acf916d3107f1cdc08e89c6) | feat(ace): view prompt jump images in terminal | 2026-07-18 07:03:55 EDT |

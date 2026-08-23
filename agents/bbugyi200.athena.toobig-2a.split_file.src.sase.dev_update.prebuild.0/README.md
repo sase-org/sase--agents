@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eb66c3f`](https://github.com/sase-org/sase/commit/eb66c3f279ae0aeba0b3ed4a766d820e4e18c2fa) | refactor(dev-update): split Rust prebuild module | 2026-08-10 12:04:15 UTC |
+| sase | [`eb66c3f`](https://github.com/sase-org/sase/commit/eb66c3f279ae0aeba0b3ed4a766d820e4e18c2fa) | refactor(dev-update): split Rust prebuild module | 2026-08-10 08:04:15 EDT |

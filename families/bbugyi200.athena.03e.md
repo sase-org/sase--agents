@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f12e241`](https://github.com/sase-org/sase/commit/f12e241a80b6e8538d95a47e6261ea969871f7ad) | fix(sdd): recover approval-time plan archive from rejected push | 2026-08-16 14:30:04 UTC |
+| code | sase | [`f12e241`](https://github.com/sase-org/sase/commit/f12e241a80b6e8538d95a47e6261ea969871f7ad) | fix(sdd): recover approval-time plan archive from rejected push | 2026-08-16 10:30:04 EDT |
 
 ## Neighbors
 

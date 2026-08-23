@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5e5a5bc`](https://github.com/sase-org/sase/commit/5e5a5bca53d3a1766272b38c69c47d2eafd4567a) | chore: Add SDD prompt and plan for model\_above\_xprompts | 2026-06-28 14:01:00 UTC |
-| sase | [`db1eba5`](https://github.com/sase-org/sase/commit/db1eba5eb7acf96be5ee90d35f6f6c06bbbd2ded) | feat(tui): render Model metadata between Auto and Xprompts | 2026-06-28 14:09:42 UTC |
+| sase | [`5e5a5bc`](https://github.com/sase-org/sase/commit/5e5a5bca53d3a1766272b38c69c47d2eafd4567a) | chore: Add SDD prompt and plan for model\_above\_xprompts | 2026-06-28 10:01:00 EDT |
+| sase | [`db1eba5`](https://github.com/sase-org/sase/commit/db1eba5eb7acf96be5ee90d35f6f6c06bbbd2ded) | feat(tui): render Model metadata between Auto and Xprompts | 2026-06-28 10:09:42 EDT |
 
 ## Neighbors
 

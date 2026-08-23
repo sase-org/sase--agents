@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1ffa21a`](https://github.com/sase-org/sase/commit/1ffa21a6b6c0d50612f5ea2255e1d99df7c3af2a) | chore: Add SDD prompt and plan for persist\_prompt\_stash\_pin | 2026-06-24 18:05:37 UTC |
-| sase | [`8326560`](https://github.com/sase-org/sase/commit/832656055139ccd92dfdaf412081aab1e3c26796) | feat: add persistent prompt stash pins | 2026-06-24 18:23:52 UTC |
+| sase | [`1ffa21a`](https://github.com/sase-org/sase/commit/1ffa21a6b6c0d50612f5ea2255e1d99df7c3af2a) | chore: Add SDD prompt and plan for persist\_prompt\_stash\_pin | 2026-06-24 14:05:37 EDT |
+| sase | [`8326560`](https://github.com/sase-org/sase/commit/832656055139ccd92dfdaf412081aab1e3c26796) | feat: add persistent prompt stash pins | 2026-06-24 14:23:52 EDT |
 
 ## Neighbors
 

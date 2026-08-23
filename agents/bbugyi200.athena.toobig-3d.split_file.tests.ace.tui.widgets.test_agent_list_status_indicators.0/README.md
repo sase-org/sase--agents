@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6256197`](https://github.com/sase-org/sase/commit/625619778d01a39fcc7e848d3faf7390b45a867a) | test(ace): split agent list status tests | 2026-08-22 03:50:20 UTC |
+| sase | [`6256197`](https://github.com/sase-org/sase/commit/625619778d01a39fcc7e848d3faf7390b45a867a) | test(ace): split agent list status tests | 2026-08-21 23:50:20 EDT |
 
 ## Neighbors
 

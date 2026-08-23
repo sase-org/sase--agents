@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4dde458`](https://github.com/sase-org/sase/commit/4dde458f593687ee4e8fb6734c1dbd1b0fef1215) | fix(file-hooks): record dispatch outcomes and repair missed commit batches | 2026-08-21 21:35:14 UTC |
+| sase | [`4dde458`](https://github.com/sase-org/sase/commit/4dde458f593687ee4e8fb6734c1dbd1b0fef1215) | fix(file-hooks): record dispatch outcomes and repair missed commit batches | 2026-08-21 17:35:14 EDT |
 
 ## Neighbors
 

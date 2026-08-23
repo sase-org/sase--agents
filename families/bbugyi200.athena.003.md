@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`10e33da`](https://github.com/sase-org/sase/commit/10e33da429983062f59212bfb9a32ae2b7eadbe1) | fix: classify monitor starter rows as regular agents | 2026-08-13 23:07:51 UTC |
+| code | sase | [`10e33da`](https://github.com/sase-org/sase/commit/10e33da429983062f59212bfb9a32ae2b7eadbe1) | fix: classify monitor starter rows as regular agents | 2026-08-13 19:07:51 EDT |
 
 ## Neighbors
 

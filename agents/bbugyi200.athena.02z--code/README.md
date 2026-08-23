@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ca60019`](https://github.com/sase-org/sase/commit/ca600192c528f43faf59cecec8fdac0c777f38df) | fix: avoid artifact lock for tribe-only updates | 2026-08-15 23:59:09 UTC |
+| sase | [`ca60019`](https://github.com/sase-org/sase/commit/ca600192c528f43faf59cecec8fdac0c777f38df) | fix: avoid artifact lock for tribe-only updates | 2026-08-15 19:59:09 EDT |
 
 ## Neighbors
 

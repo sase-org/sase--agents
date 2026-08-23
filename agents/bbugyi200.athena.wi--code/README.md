@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`957219e`](https://github.com/sase-org/sase/commit/957219ef24f2816db159d23a7517e83c9ab51592) | fix: honor terminal wait resolution outcomes | 2026-08-09 13:56:39 UTC |
+| sase | [`957219e`](https://github.com/sase-org/sase/commit/957219ef24f2816db159d23a7517e83c9ab51592) | fix: honor terminal wait resolution outcomes | 2026-08-09 09:56:39 EDT |

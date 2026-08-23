@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cd12442`](https://github.com/sase-org/sase/commit/cd124420f4115892a1f569a7ba19df7abefe26a1) | feat(tui): show bead notes in agent headers | 2026-08-01 15:18:18 UTC |
+| sase | [`cd12442`](https://github.com/sase-org/sase/commit/cd124420f4115892a1f569a7ba19df7abefe26a1) | feat(tui): show bead notes in agent headers | 2026-08-01 11:18:18 EDT |

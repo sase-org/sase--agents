@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ccbcb35`](https://github.com/sase-org/sase/commit/ccbcb3557e48cdc2cab9c5b70bec05bebcb0652d) | perf(monitor): share one proc-store snapshot per lane scan | 2026-08-16 18:44:29 UTC |
+| sase | [`ccbcb35`](https://github.com/sase-org/sase/commit/ccbcb3557e48cdc2cab9c5b70bec05bebcb0652d) | perf(monitor): share one proc-store snapshot per lane scan | 2026-08-16 14:44:29 EDT |
 
 ## Neighbors
 

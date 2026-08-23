@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| plan | sase | [`f452c6b`](https://github.com/sase-org/sase/commit/f452c6ba36870f87f8b74f9c218b3c6450c57e94) | test: isolate non-lock retry assertion (sase-7n) | 2026-07-19 20:27:59 UTC |
-| — | sase | [`c8d39dc`](https://github.com/sase-org/sase/commit/c8d39dcd9be6197c9868e4b56191d6bb7b558efd) | feat(ace): restore panel layout after isolation | 2026-07-19 20:42:34 UTC |
+| plan | sase | [`f452c6b`](https://github.com/sase-org/sase/commit/f452c6ba36870f87f8b74f9c218b3c6450c57e94) | test: isolate non-lock retry assertion (sase-7n) | 2026-07-19 16:27:59 EDT |
+| — | sase | [`c8d39dc`](https://github.com/sase-org/sase/commit/c8d39dcd9be6197c9868e4b56191d6bb7b558efd) | feat(ace): restore panel layout after isolation | 2026-07-19 16:42:34 EDT |

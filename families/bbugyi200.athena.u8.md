@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`baebfcd`](https://github.com/sase-org/sase/commit/baebfcd216319315e169d4c189666fe3db148048) | fix(sdd-store): degrade unresolvable agents sidecar instead of aborting store resolution | 2026-08-06 17:22:44 UTC |
+| code | sase | [`baebfcd`](https://github.com/sase-org/sase/commit/baebfcd216319315e169d4c189666fe3db148048) | fix(sdd-store): degrade unresolvable agents sidecar instead of aborting store resolution | 2026-08-06 13:22:44 EDT |

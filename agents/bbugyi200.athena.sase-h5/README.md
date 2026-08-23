@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`98114b0`](https://github.com/sase-org/sase/commit/98114b0e20c757c52ec43c96d7dff616cbfdc38a) | fix(tests): guard fontTools import in tab-icon glyph visual test | 2026-08-07 19:12:19 UTC |
+| sase | [`98114b0`](https://github.com/sase-org/sase/commit/98114b0e20c757c52ec43c96d7dff616cbfdc38a) | fix(tests): guard fontTools import in tab-icon glyph visual test | 2026-08-07 15:12:19 EDT |

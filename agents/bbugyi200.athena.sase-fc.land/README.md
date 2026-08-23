@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`01398f5`](https://github.com/sase-org/sase/commit/01398f5afc1061812388696daf82c78441665987) | fix(ace): stop the beads detail pane from oscillating between two layouts | 2026-08-05 23:48:06 UTC |
+| sase | [`01398f5`](https://github.com/sase-org/sase/commit/01398f5afc1061812388696daf82c78441665987) | fix(ace): stop the beads detail pane from oscillating between two layouts | 2026-08-05 19:48:06 EDT |
 
 ## Neighbors
 

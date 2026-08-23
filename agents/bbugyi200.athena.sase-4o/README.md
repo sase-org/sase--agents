@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`41a20b4`](https://github.com/sase-org/sase/commit/41a20b4590c32dda1edf31094ff4cb6cd0509501) | chore: Add SDD prompt and plan for prompt\_command\_completion (sase-4o) | 2026-06-13 20:12:03 UTC |
+| sase | [`41a20b4`](https://github.com/sase-org/sase/commit/41a20b4590c32dda1edf31094ff4cb6cd0509501) | chore: Add SDD prompt and plan for prompt\_command\_completion (sase-4o) | 2026-06-13 16:12:03 EDT |
 
 ## Neighbors
 

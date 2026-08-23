@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`c717162`](https://github.com/sase-org/sase/commit/c7171621956131316efa9836c752cd0f94f10de2) | chore: Add SDD prompt and plan for bulk\_agent\_revert | 2026-06-14 15:46:42 UTC |
-| — | sase | [`7babf67`](https://github.com/sase-org/sase/commit/7babf670a8caab72e9d4ae928f20c8084fbc3c71) | feat(ace): bulk-revert all marked agents with leader \`,r\` | 2026-06-14 16:04:53 UTC |
+| — | sase | [`c717162`](https://github.com/sase-org/sase/commit/c7171621956131316efa9836c752cd0f94f10de2) | chore: Add SDD prompt and plan for bulk\_agent\_revert | 2026-06-14 11:46:42 EDT |
+| — | sase | [`7babf67`](https://github.com/sase-org/sase/commit/7babf670a8caab72e9d4ae928f20c8084fbc3c71) | feat(ace): bulk-revert all marked agents with leader \`,r\` | 2026-06-14 12:04:53 EDT |

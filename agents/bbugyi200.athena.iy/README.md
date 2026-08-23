@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0d3955e`](https://github.com/sase-org/sase/commit/0d3955e6c2e5e6493cd1c42c12da5f4ed92f4673) | fix(tui): normalize clan references across machine hoods | 2026-07-23 12:32:23 UTC |
+| sase | [`0d3955e`](https://github.com/sase-org/sase/commit/0d3955e6c2e5e6493cd1c42c12da5f4ed92f4673) | fix(tui): normalize clan references across machine hoods | 2026-07-23 08:32:23 EDT |

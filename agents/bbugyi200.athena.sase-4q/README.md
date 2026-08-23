@@ -18,8 +18,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ebc535e`](https://github.com/sase-org/sase/commit/ebc535eec2667cab6fe67b13050964ebbed3c939) | chore: Add SDD prompt and plan for verify\_sase\_4q\_completion (sase-4q) | 2026-06-16 16:07:42 UTC |
-| sase | [`862dd7e`](https://github.com/sase-org/sase/commit/862dd7e18a8c5249fccc70c3b5bebb9a925ab2d0) | chore(prompt-stash): remove epic-open scaffolding and close sase-4q | 2026-06-16 16:16:47 UTC |
+| sase | [`ebc535e`](https://github.com/sase-org/sase/commit/ebc535eec2667cab6fe67b13050964ebbed3c939) | chore: Add SDD prompt and plan for verify\_sase\_4q\_completion (sase-4q) | 2026-06-16 12:07:42 EDT |
+| sase | [`862dd7e`](https://github.com/sase-org/sase/commit/862dd7e18a8c5249fccc70c3b5bebb9a925ab2d0) | chore(prompt-stash): remove epic-open scaffolding and close sase-4q | 2026-06-16 12:16:47 EDT |
 
 ## Neighbors
 

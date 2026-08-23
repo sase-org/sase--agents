@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0ddd484`](https://github.com/sase-org/sase/commit/0ddd4845e9c4451d39a7e369b41b532eb27e3521) | chore: Add SDD prompt and plan for update\_toast\_line\_stats | 2026-06-30 17:50:02 UTC |
-| sase | [`c78d5c2`](https://github.com/sase-org/sase/commit/c78d5c250064809639ac4cb1ba8257d638ca9222) | feat(ace): show dev update diff stats in restart toast | 2026-06-30 18:07:04 UTC |
+| sase | [`0ddd484`](https://github.com/sase-org/sase/commit/0ddd4845e9c4451d39a7e369b41b532eb27e3521) | chore: Add SDD prompt and plan for update\_toast\_line\_stats | 2026-06-30 13:50:02 EDT |
+| sase | [`c78d5c2`](https://github.com/sase-org/sase/commit/c78d5c250064809639ac4cb1ba8257d638ca9222) | feat(ace): show dev update diff stats in restart toast | 2026-06-30 14:07:04 EDT |

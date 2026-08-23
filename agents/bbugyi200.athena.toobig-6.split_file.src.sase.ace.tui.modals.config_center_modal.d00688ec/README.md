@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5c83f7f`](https://github.com/sase-org/sase/commit/5c83f7f2cf39074a5b1650fee76693fd4bdfee16) | refactor(tui): split config center modal | 2026-07-20 19:58:43 UTC |
+| sase | [`5c83f7f`](https://github.com/sase-org/sase/commit/5c83f7f2cf39074a5b1650fee76693fd4bdfee16) | refactor(tui): split config center modal | 2026-07-20 15:58:43 EDT |
 
 ## Neighbors
 

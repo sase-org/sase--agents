@@ -30,5 +30,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`d941409`](https://github.com/sase-org/sase/commit/d941409de4307f4bafc2964fd8c07fdecd3410dd) | chore: Add SDD prompt and plan for disable\_prompt\_keymap\_leak | 2026-06-23 13:47:41 UTC |
-| code | sase | [`9568dd4`](https://github.com/sase-org/sase/commit/9568dd4750686f58888bf9a5f3da31ecdd76a761) | fix: preserve anonymous workflow attribution after rename | 2026-08-16 20:29:47 UTC |
+| — | sase | [`d941409`](https://github.com/sase-org/sase/commit/d941409de4307f4bafc2964fd8c07fdecd3410dd) | chore: Add SDD prompt and plan for disable\_prompt\_keymap\_leak | 2026-06-23 09:47:41 EDT |
+| code | sase | [`9568dd4`](https://github.com/sase-org/sase/commit/9568dd4750686f58888bf9a5f3da31ecdd76a761) | fix: preserve anonymous workflow attribution after rename | 2026-08-16 16:29:47 EDT |

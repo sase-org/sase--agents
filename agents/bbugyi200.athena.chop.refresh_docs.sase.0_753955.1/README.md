@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`39ef28e`](https://github.com/sase-org/sase/commit/39ef28e0186afbd437cace47a433d279d24c6472) | docs: refresh guidance for current prompt and ACE behavior | 2026-08-02 22:57:51 UTC |
+| sase | [`39ef28e`](https://github.com/sase-org/sase/commit/39ef28e0186afbd437cace47a433d279d24c6472) | docs: refresh guidance for current prompt and ACE behavior | 2026-08-02 18:57:51 EDT |
 
 ## Neighbors
 

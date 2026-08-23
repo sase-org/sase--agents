@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`517d09b`](https://github.com/sase-org/sase/commit/517d09b7107277354852b907f5b85ddcd11cb732) | perf(tui): cache agent page registry snapshots | 2026-08-16 00:59:21 UTC |
+| sase | [`517d09b`](https://github.com/sase-org/sase/commit/517d09b7107277354852b907f5b85ddcd11cb732) | perf(tui): cache agent page registry snapshots | 2026-08-15 20:59:21 EDT |
 
 ## Neighbors
 

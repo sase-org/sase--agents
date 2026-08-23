@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`33a2a71`](https://github.com/sase-org/sase/commit/33a2a71b195a9050ec6d46f5fd19bb2f81bd5928) | chore: expand sase amd research with handler and test details | 2026-05-26 21:17:22 UTC |
+| sase | [`33a2a71`](https://github.com/sase-org/sase/commit/33a2a71b195a9050ec6d46f5fd19bb2f81bd5928) | chore: expand sase amd research with handler and test details | 2026-05-26 17:17:22 EDT |
 
 ## Neighbors
 

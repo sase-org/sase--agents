@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`efed1d5`](https://github.com/sase-org/sase/commit/efed1d59eea5f7071fa2f87ed323c8dfd8ea6f53) | feat(tui): highlight selected tribe panel title | 2026-07-19 20:30:04 UTC |
+| sase | [`efed1d5`](https://github.com/sase-org/sase/commit/efed1d59eea5f7071fa2f87ed323c8dfd8ea6f53) | feat(tui): highlight selected tribe panel title | 2026-07-19 16:30:04 EDT |

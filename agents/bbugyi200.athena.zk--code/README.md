@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bce09f8`](https://github.com/sase-org/sase/commit/bce09f8bf57fb88410089c961da83850415bb1c3) | fix(tui): normalize queue duration timestamps | 2026-08-13 15:07:49 UTC |
+| sase | [`bce09f8`](https://github.com/sase-org/sase/commit/bce09f8bf57fb88410089c961da83850415bb1c3) | fix(tui): normalize queue duration timestamps | 2026-08-13 11:07:49 EDT |

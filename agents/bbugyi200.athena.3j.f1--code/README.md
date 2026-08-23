@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1514023`](https://github.com/sase-org/sase/commit/151402345dc3dcec1145d0e070a5d2b9ca9e65ae) | docs: tighten pyvision memory guidance | 2026-07-09 16:10:36 UTC |
+| sase | [`1514023`](https://github.com/sase-org/sase/commit/151402345dc3dcec1145d0e070a5d2b9ca9e65ae) | docs: tighten pyvision memory guidance | 2026-07-09 12:10:36 EDT |
 
 ## Neighbors
 

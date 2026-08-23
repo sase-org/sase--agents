@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3ab0c52`](https://github.com/sase-org/sase/commit/3ab0c52dea382d76c76321ba6510ab0833f1a88a) | refactor(tests): split xprompt directive parity suite | 2026-08-22 05:48:15 UTC |
+| sase | [`3ab0c52`](https://github.com/sase-org/sase/commit/3ab0c52dea382d76c76321ba6510ab0833f1a88a) | refactor(tests): split xprompt directive parity suite | 2026-08-22 01:48:15 EDT |
 
 ## Neighbors
 

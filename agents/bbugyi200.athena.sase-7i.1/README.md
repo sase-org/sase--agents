@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`05c9c1c`](https://github.com/sase-org/sase/commit/05c9c1ccab5c9e8cf4769a09d8a1398aad718626) | feat(axe): persist released chop once-per keys (sase-7i.1) | 2026-07-19 17:46:42 UTC |
+| sase | [`05c9c1c`](https://github.com/sase-org/sase/commit/05c9c1ccab5c9e8cf4769a09d8a1398aad718626) | feat(axe): persist released chop once-per keys (sase-7i.1) | 2026-07-19 13:46:42 EDT |
 
 ## Neighbors
 

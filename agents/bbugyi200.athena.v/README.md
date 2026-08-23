@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f48e881`](https://github.com/sase-org/sase/commit/f48e8818e340a6404b9d8c7c2f381b1072c67c4f) | chore: Add SDD prompt and plan for nested\_agent\_docs\_provider\_shims | 2026-07-06 23:31:49 UTC |
+| sase | [`f48e881`](https://github.com/sase-org/sase/commit/f48e8818e340a6404b9d8c7c2f381b1072c67c4f) | chore: Add SDD prompt and plan for nested\_agent\_docs\_provider\_shims | 2026-07-06 19:31:49 EDT |

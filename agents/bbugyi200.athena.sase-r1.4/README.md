@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8cd80f1`](https://github.com/sase-org/sase/commit/8cd80f1e1a310ff6014cbd377b8232eac76a0cd2) | feat(tui): add keyboard-first Update panel modal | 2026-08-19 18:52:54 UTC |
+| sase | [`8cd80f1`](https://github.com/sase-org/sase/commit/8cd80f1e1a310ff6014cbd377b8232eac76a0cd2) | feat(tui): add keyboard-first Update panel modal | 2026-08-19 14:52:54 EDT |
 
 ## Neighbors
 

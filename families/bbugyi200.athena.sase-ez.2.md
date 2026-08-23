@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`a33aaa1`](https://github.com/sase-org/sase/commit/a33aaa1c22940db6db74d51049d4046f10ad4a9e) | test(beads): align dep rm missing-edge expectation | 2026-08-03 20:02:43 UTC |
+| code | sase | [`a33aaa1`](https://github.com/sase-org/sase/commit/a33aaa1c22940db6db74d51049d4046f10ad4a9e) | test(beads): align dep rm missing-edge expectation | 2026-08-03 16:02:43 EDT |
 
 ## Neighbors
 

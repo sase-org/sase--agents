@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d118883`](https://github.com/sase-org/sase/commit/d118883ad010ff226817fecd846dcb289d5bc9cf) | refactor(tests): split bead page rendering tests into focused modules | 2026-08-06 10:44:50 UTC |
+| sase | [`d118883`](https://github.com/sase-org/sase/commit/d118883ad010ff226817fecd846dcb289d5bc9cf) | refactor(tests): split bead page rendering tests into focused modules | 2026-08-06 06:44:50 EDT |
 
 ## Neighbors
 

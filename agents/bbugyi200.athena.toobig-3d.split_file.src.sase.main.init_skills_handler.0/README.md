@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e1a03db`](https://github.com/sase-org/sase/commit/e1a03db1fbd4160fa34b8214aff999ac03880449) | refactor(skills): split init skills handler | 2026-08-22 02:13:05 UTC |
+| sase | [`e1a03db`](https://github.com/sase-org/sase/commit/e1a03db1fbd4160fa34b8214aff999ac03880449) | refactor(skills): split init skills handler | 2026-08-21 22:13:05 EDT |
 
 ## Neighbors
 

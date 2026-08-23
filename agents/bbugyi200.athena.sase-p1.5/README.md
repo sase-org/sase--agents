@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fc882a1`](https://github.com/sase-org/sase/commit/fc882a1cce449ef40ee625a6669bbd8cbdc1b8aa) | feat(glossary): add relation-chip travel and the back trail | 2026-08-18 02:19:12 UTC |
+| sase | [`fc882a1`](https://github.com/sase-org/sase/commit/fc882a1cce449ef40ee625a6669bbd8cbdc1b8aa) | feat(glossary): add relation-chip travel and the back trail | 2026-08-17 22:19:12 EDT |
 
 ## Neighbors
 

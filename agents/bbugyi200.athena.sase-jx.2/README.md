@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`46773f6`](https://github.com/sase-org/sase/commit/46773f606446985acdc9ca2ca0112fbca2802d78) | feat(axe): preserve script wall-clock through chop run finalization | 2026-08-12 14:10:57 UTC |
+| sase | [`46773f6`](https://github.com/sase-org/sase/commit/46773f606446985acdc9ca2ca0112fbca2802d78) | feat(axe): preserve script wall-clock through chop run finalization | 2026-08-12 10:10:57 EDT |
 
 ## Neighbors
 

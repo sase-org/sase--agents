@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a78726f`](https://github.com/sase-org/sase/commit/a78726f2413ed6d8e7c3810825f2ce0dd09137f5) | fix: honor no-commit mode for sidecar init | 2026-08-08 22:12:22 UTC |
+| sase | [`a78726f`](https://github.com/sase-org/sase/commit/a78726f2413ed6d8e7c3810825f2ce0dd09137f5) | fix: honor no-commit mode for sidecar init | 2026-08-08 18:12:22 EDT |

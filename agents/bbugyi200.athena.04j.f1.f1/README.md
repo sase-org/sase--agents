@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bc60994`](https://github.com/sase-org/sase/commit/bc60994d42ac8d1e13a533b92789f7a8a7006e79) | chore: Add SDD prompt and plan for agent\_commit\_messages\_panel | 2026-06-23 21:23:58 UTC |
-| sase | [`1f8c86d`](https://github.com/sase-org/sase/commit/1f8c86dcea01018f181425112d7c7433a67da448) | feat(tui): show agent commit messages | 2026-06-23 21:41:44 UTC |
+| sase | [`bc60994`](https://github.com/sase-org/sase/commit/bc60994d42ac8d1e13a533b92789f7a8a7006e79) | chore: Add SDD prompt and plan for agent\_commit\_messages\_panel | 2026-06-23 17:23:58 EDT |
+| sase | [`1f8c86d`](https://github.com/sase-org/sase/commit/1f8c86dcea01018f181425112d7c7433a67da448) | feat(tui): show agent commit messages | 2026-06-23 17:41:44 EDT |
 
 ## Neighbors
 

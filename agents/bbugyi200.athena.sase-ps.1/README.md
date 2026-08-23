@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`63accbf`](https://github.com/sase-org/sase/commit/63accbfc9979f46e1ee39204f3786a269de8c624) | fix(runner-slots): count monitors and post-handoff shells against max\_running\_agents | 2026-08-18 15:02:26 UTC |
+| sase | [`63accbf`](https://github.com/sase-org/sase/commit/63accbfc9979f46e1ee39204f3786a269de8c624) | fix(runner-slots): count monitors and post-handoff shells against max\_running\_agents | 2026-08-18 11:02:26 EDT |
 
 ## Neighbors
 

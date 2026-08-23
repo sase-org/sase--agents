@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3d66071`](https://github.com/sase-org/sase/commit/3d66071d37ce85b736bbf9561f1be0a3dd872478) | fix(finalizers): canonicalize provider identity and dispatch | 2026-08-21 21:07:40 UTC |
+| sase | [`3d66071`](https://github.com/sase-org/sase/commit/3d66071d37ce85b736bbf9561f1be0a3dd872478) | fix(finalizers): canonicalize provider identity and dispatch | 2026-08-21 17:07:40 EDT |
 
 ## Neighbors
 

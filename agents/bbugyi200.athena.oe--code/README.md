@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1f0296a`](https://github.com/sase-org/sase/commit/1f0296ade1a22ac55dbd93d410f0247e6befba3a) | feat(bead): close selected epic phases | 2026-07-29 16:34:01 UTC |
+| sase | [`1f0296a`](https://github.com/sase-org/sase/commit/1f0296ade1a22ac55dbd93d410f0247e6befba3a) | feat(bead): close selected epic phases | 2026-07-29 12:34:01 EDT |

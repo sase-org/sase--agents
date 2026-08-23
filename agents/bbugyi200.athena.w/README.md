@@ -21,5 +21,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9113215`](https://github.com/sase-org/sase/commit/91132159a6953beda2ccdcbcbbca9fddf8f14d54) | chore: Add SDD prompt and plan for fix\_models\_panel\_description\_strip | 2026-07-03 18:20:32 UTC |
-| sase | [`5151906`](https://github.com/sase-org/sase/commit/51519066ac93c7bd77467a917f1ca2e4d6f277d4) | fix(tui): make Models-panel alias description strip visible | 2026-07-03 18:46:28 UTC |
+| sase | [`9113215`](https://github.com/sase-org/sase/commit/91132159a6953beda2ccdcbcbbca9fddf8f14d54) | chore: Add SDD prompt and plan for fix\_models\_panel\_description\_strip | 2026-07-03 14:20:32 EDT |
+| sase | [`5151906`](https://github.com/sase-org/sase/commit/51519066ac93c7bd77467a917f1ca2e4d6f277d4) | fix(tui): make Models-panel alias description strip visible | 2026-07-03 14:46:28 EDT |

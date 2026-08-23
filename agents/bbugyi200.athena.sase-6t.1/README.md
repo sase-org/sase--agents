@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ef982d8`](https://github.com/sase-org/sase/commit/ef982d84ac1450ae9132eb8cd38567ca778261bd) | feat(plans): add filter query and search index (sase-6t.1) | 2026-07-18 14:32:45 UTC |
+| sase | [`ef982d8`](https://github.com/sase-org/sase/commit/ef982d84ac1450ae9132eb8cd38567ca778261bd) | feat(plans): add filter query and search index (sase-6t.1) | 2026-07-18 10:32:45 EDT |
 
 ## Neighbors
 

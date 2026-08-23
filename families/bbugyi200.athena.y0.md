@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f579dee`](https://github.com/sase-org/sase/commit/f579dee09d1eba09a8ed40828857ec780f8a456a) | fix(ace): stop clan summary panel crashing on unrenderable markup tags | 2026-08-11 13:50:05 UTC |
+| code | sase | [`f579dee`](https://github.com/sase-org/sase/commit/f579dee09d1eba09a8ed40828857ec780f8a456a) | fix(ace): stop clan summary panel crashing on unrenderable markup tags | 2026-08-11 09:50:05 EDT |

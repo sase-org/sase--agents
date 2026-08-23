@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c58a0df`](https://github.com/sase-org/sase/commit/c58a0dfb6cf32188b5fb1ae166661f4abcda7dea) | feat(vcs): add merge visibility to provider logs | 2026-08-09 16:16:13 UTC |
+| sase | [`c58a0df`](https://github.com/sase-org/sase/commit/c58a0dfb6cf32188b5fb1ae166661f4abcda7dea) | feat(vcs): add merge visibility to provider logs | 2026-08-09 12:16:13 EDT |
 
 ## Neighbors
 

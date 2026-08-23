@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a7756df`](https://github.com/sase-org/sase/commit/a7756df13807247f427e565805bb2c8925e1c1bb) | refactor(bead): split bead work cli helpers | 2026-06-16 19:40:05 UTC |
+| sase | [`a7756df`](https://github.com/sase-org/sase/commit/a7756df13807247f427e565805bb2c8925e1c1bb) | refactor(bead): split bead work cli helpers | 2026-06-16 15:40:05 EDT |
 
 ## Neighbors
 

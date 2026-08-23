@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b0d8eae`](https://github.com/sase-org/sase/commit/b0d8eaeb8df43e37f9d008b4e648dfdc478911a4) | chore: Add SDD prompt and plan for logs\_tab\_jump\_hints | 2026-07-08 07:01:45 UTC |
+| sase | [`b0d8eae`](https://github.com/sase-org/sase/commit/b0d8eaeb8df43e37f9d008b4e648dfdc478911a4) | chore: Add SDD prompt and plan for logs\_tab\_jump\_hints | 2026-07-08 03:01:45 EDT |

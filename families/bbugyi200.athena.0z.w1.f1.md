@@ -24,8 +24,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`a85b283`](https://github.com/sase-org/sase/commit/a85b28328b9fb67a9dc72de827b869c4dec2cafd) | chore: Add SDD prompt and plan for successful\_slow\_tool\_call\_hints | 2026-07-08 00:40:38 UTC |
-| code | sase | [`2d13be9`](https://github.com/sase-org/sase/commit/2d13be9ce05a93715436a755e8dcf168c98a041b) | feat(tui): add slow-tool reports for successful calls | 2026-07-08 00:51:47 UTC |
+| root | sase | [`a85b283`](https://github.com/sase-org/sase/commit/a85b28328b9fb67a9dc72de827b869c4dec2cafd) | chore: Add SDD prompt and plan for successful\_slow\_tool\_call\_hints | 2026-07-07 20:40:38 EDT |
+| code | sase | [`2d13be9`](https://github.com/sase-org/sase/commit/2d13be9ce05a93715436a755e8dcf168c98a041b) | feat(tui): add slow-tool reports for successful calls | 2026-07-07 20:51:47 EDT |
 
 ## Neighbors
 

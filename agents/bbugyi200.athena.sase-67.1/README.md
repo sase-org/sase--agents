@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`63d3b01`](https://github.com/sase-org/sase/commit/63d3b01de476ca79ab8d7c0d9156fb1b52b6a519) | fix(sdd): retry git writes on lock contention (sase-67.1) | 2026-07-15 23:07:02 UTC |
+| sase | [`63d3b01`](https://github.com/sase-org/sase/commit/63d3b01de476ca79ab8d7c0d9156fb1b52b6a519) | fix(sdd): retry git writes on lock contention (sase-67.1) | 2026-07-15 19:07:02 EDT |
 
 ## Neighbors
 

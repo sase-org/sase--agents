@@ -27,6 +27,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`0e8cb67`](https://github.com/sase-org/sase/commit/0e8cb67659e70fd237224f50257b210bfe6a5d41) | chore: Add SDD prompt and plan for chezmoi\_apply\_target\_path\_and\_force | 2026-07-01 13:13:58 UTC |
-| — | sase | [`09d0c44`](https://github.com/sase-org/sase/commit/09d0c44ddb955a7503e61169efee1b21c6dafd62) | fix(chezmoi): apply target path on config edits and always use --force | 2026-07-01 13:25:22 UTC |
-| 1 | sase | [`d61f3bb`](https://github.com/sase-org/sase/commit/d61f3bbc60be5d249ea1474f81bc923bd20afd6d) | feat: raise sase-core-rs floor to 0.31.0 | 2026-08-22 17:25:56 UTC |
+| — | sase | [`0e8cb67`](https://github.com/sase-org/sase/commit/0e8cb67659e70fd237224f50257b210bfe6a5d41) | chore: Add SDD prompt and plan for chezmoi\_apply\_target\_path\_and\_force | 2026-07-01 09:13:58 EDT |
+| — | sase | [`09d0c44`](https://github.com/sase-org/sase/commit/09d0c44ddb955a7503e61169efee1b21c6dafd62) | fix(chezmoi): apply target path on config edits and always use --force | 2026-07-01 09:25:22 EDT |
+| 1 | sase | [`d61f3bb`](https://github.com/sase-org/sase/commit/d61f3bbc60be5d249ea1474f81bc923bd20afd6d) | feat: raise sase-core-rs floor to 0.31.0 | 2026-08-22 13:25:56 EDT |

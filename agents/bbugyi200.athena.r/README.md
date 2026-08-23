@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2d0aef2`](https://github.com/sase-org/sase/commit/2d0aef25ee83307e1660397a72beae9fa507a649) | chore: Add SDD prompt and plan for linked\_repo\_finalizer\_blindness | 2026-07-06 21:29:37 UTC |
+| sase | [`2d0aef2`](https://github.com/sase-org/sase/commit/2d0aef25ee83307e1660397a72beae9fa507a649) | chore: Add SDD prompt and plan for linked\_repo\_finalizer\_blindness | 2026-07-06 17:29:37 EDT |
 
 ## Neighbors
 

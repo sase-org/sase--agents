@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f935aca`](https://github.com/sase-org/sase/commit/f935acacee35d7261aa3b4dbe0bd57342e09d43d) | fix(bead): name concrete field diff in append-only rewrite guard message | 2026-08-16 02:58:39 UTC |
+| code | sase | [`f935aca`](https://github.com/sase-org/sase/commit/f935acacee35d7261aa3b4dbe0bd57342e09d43d) | fix(bead): name concrete field diff in append-only rewrite guard message | 2026-08-15 22:58:39 EDT |
 
 ## Neighbors
 

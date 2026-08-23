@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c1475be`](https://github.com/sase-org/sase/commit/c1475bee0af886f4ca31cb53e60582df09bdd9d5) | fix(tui): make config preview scrolling deterministic | 2026-07-06 17:04:57 UTC |
+| sase | [`c1475be`](https://github.com/sase-org/sase/commit/c1475bee0af886f4ca31cb53e60582df09bdd9d5) | fix(tui): make config preview scrolling deterministic | 2026-07-06 13:04:57 EDT |

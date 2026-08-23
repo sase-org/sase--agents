@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f07e426`](https://github.com/sase-org/sase/commit/f07e42680e7181ad50193dd1d3ff2fa1645dd202) | refactor(finalizers): split declaration module | 2026-08-22 01:45:51 UTC |
+| sase | [`f07e426`](https://github.com/sase-org/sase/commit/f07e42680e7181ad50193dd1d3ff2fa1645dd202) | refactor(finalizers): split declaration module | 2026-08-21 21:45:51 EDT |
 
 ## Neighbors
 

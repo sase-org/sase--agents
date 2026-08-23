@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`11cdd78`](https://github.com/sase-org/sase/commit/11cdd7807bc30b10cbb073f1af7bb17060c0bfab) | build(deps): require sase-core-rs 0.12.19 | 2026-07-30 12:32:56 UTC |
+| sase | [`11cdd78`](https://github.com/sase-org/sase/commit/11cdd7807bc30b10cbb073f1af7bb17060c0bfab) | build(deps): require sase-core-rs 0.12.19 | 2026-07-30 08:32:56 EDT |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`39c9405`](https://github.com/sase-org/sase/commit/39c9405ff95cea1e6de44342117cdeaa3734e51d) | test(ace): split agent display bead section tests into focused modules | 2026-08-18 12:37:38 UTC |
+| sase | [`39c9405`](https://github.com/sase-org/sase/commit/39c9405ff95cea1e6de44342117cdeaa3734e51d) | test(ace): split agent display bead section tests into focused modules | 2026-08-18 08:37:38 EDT |
 
 ## Neighbors
 

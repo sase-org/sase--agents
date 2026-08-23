@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8a26be5`](https://github.com/sase-org/sase/commit/8a26be5fb0d9d694e6a1090f6a94869895aec083) | docs: refresh user-facing documentation | 2026-08-22 21:41:38 UTC |
+| sase | [`8a26be5`](https://github.com/sase-org/sase/commit/8a26be5fb0d9d694e6a1090f6a94869895aec083) | docs: refresh user-facing documentation | 2026-08-22 17:41:38 EDT |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e4ad421`](https://github.com/sase-org/sase/commit/e4ad4218c4feabe51795463870cf0048775075ce) | refactor(tui): split prompt stack separator rendering | 2026-08-22 00:52:36 UTC |
+| sase | [`e4ad421`](https://github.com/sase-org/sase/commit/e4ad4218c4feabe51795463870cf0048775075ce) | refactor(tui): split prompt stack separator rendering | 2026-08-21 20:52:36 EDT |
 
 ## Neighbors
 

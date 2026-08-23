@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code-0 | sase | [`d6b6ab7`](https://github.com/sase-org/sase/commit/d6b6ab73f53bb19b6f4f46b4bf275a1abacab753) | docs: document basher vendoring workflow (sase-5v) | 2026-07-13 11:16:11 UTC |
+| code-0 | sase | [`d6b6ab7`](https://github.com/sase-org/sase/commit/d6b6ab73f53bb19b6f4f46b4bf275a1abacab753) | docs: document basher vendoring workflow (sase-5v) | 2026-07-13 07:16:11 EDT |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b3c7582`](https://github.com/sase-org/sase/commit/b3c75827571fde1b6027e3f7d2f0bac40d3d9530) | feat(sdd): unify tale and epic plan storage | 2026-07-11 18:14:26 UTC |
+| sase | [`b3c7582`](https://github.com/sase-org/sase/commit/b3c75827571fde1b6027e3f7d2f0bac40d3d9530) | feat(sdd): unify tale and epic plan storage | 2026-07-11 14:14:26 EDT |
 
 ## Neighbors
 

@@ -45,7 +45,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 4 | sase | [`3485cb3`](https://github.com/sase-org/sase/commit/3485cb37d9705c4a687b410e1a91df795456d82c) | test: isolate plugin sase\_config from the default fixture | 2026-08-18 10:02:29 UTC |
+| 4 | sase | [`3485cb3`](https://github.com/sase-org/sase/commit/3485cb37d9705c4a687b410e1a91df795456d82c) | test: isolate plugin sase\_config from the default fixture | 2026-08-18 06:02:29 EDT |
 
 ## Neighbors
 

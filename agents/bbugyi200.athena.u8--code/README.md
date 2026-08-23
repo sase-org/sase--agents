@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`baebfcd`](https://github.com/sase-org/sase/commit/baebfcd216319315e169d4c189666fe3db148048) | fix(sdd-store): degrade unresolvable agents sidecar instead of aborting store resolution | 2026-08-06 17:22:44 UTC |
+| sase | [`baebfcd`](https://github.com/sase-org/sase/commit/baebfcd216319315e169d4c189666fe3db148048) | fix(sdd-store): degrade unresolvable agents sidecar instead of aborting store resolution | 2026-08-06 13:22:44 EDT |

@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a57001b`](https://github.com/sase-org/sase/commit/a57001bc24b88392193fd89d9d7218d032ded315) | feat(tui): add Plugins update and update-all actions with confirm-preview (sase-59.5) | 2026-06-26 15:46:20 UTC |
+| sase | [`a57001b`](https://github.com/sase-org/sase/commit/a57001bc24b88392193fd89d9d7218d032ded315) | feat(tui): add Plugins update and update-all actions with confirm-preview (sase-59.5) | 2026-06-26 11:46:20 EDT |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6b0976b`](https://github.com/sase-org/sase/commit/6b0976bcb6e534d871ee1e653ab3e0c0f8b8f6c6) | build(deps): raise sase-core-rs floor to 0.18.3 and adopt the close-history reducer | 2026-08-06 11:19:40 UTC |
+| sase | [`6b0976b`](https://github.com/sase-org/sase/commit/6b0976bcb6e534d871ee1e653ab3e0c0f8b8f6c6) | build(deps): raise sase-core-rs floor to 0.18.3 and adopt the close-history reducer | 2026-08-06 07:19:40 EDT |
 
 ## Neighbors
 

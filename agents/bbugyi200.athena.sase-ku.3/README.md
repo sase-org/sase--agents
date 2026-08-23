@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`40d9a4d`](https://github.com/sase-org/sase/commit/40d9a4d98cb255904a84edf493ab84f998c90cc5) | feat(monitor): give the supervisor and its child a durable identity | 2026-08-13 14:29:07 UTC |
+| sase | [`40d9a4d`](https://github.com/sase-org/sase/commit/40d9a4d98cb255904a84edf493ab84f998c90cc5) | feat(monitor): give the supervisor and its child a durable identity | 2026-08-13 10:29:07 EDT |
 
 ## Neighbors
 

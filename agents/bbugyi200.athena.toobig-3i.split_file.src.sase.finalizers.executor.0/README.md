@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fb94b5a`](https://github.com/sase-org/sase/commit/fb94b5a488ed8267a4c4d1ca50e0e2c650b51386) | refactor(finalizers): split executor into focused modules | 2026-08-22 19:00:58 UTC |
+| sase | [`fb94b5a`](https://github.com/sase-org/sase/commit/fb94b5a488ed8267a4c4d1ca50e0e2c650b51386) | refactor(finalizers): split executor into focused modules | 2026-08-22 15:00:58 EDT |
 
 ## Neighbors
 

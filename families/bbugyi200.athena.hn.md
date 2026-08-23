@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`2b875db`](https://github.com/sase-org/sase/commit/2b875dbcc6a5ad959f9da4a1fdd010ca328a2e9d) | feat(statistics): add configurable half-page scrolling | 2026-07-22 11:18:58 UTC |
+| code | sase | [`2b875db`](https://github.com/sase-org/sase/commit/2b875dbcc6a5ad959f9da4a1fdd010ca328a2e9d) | feat(statistics): add configurable half-page scrolling | 2026-07-22 07:18:58 EDT |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3938c4c`](https://github.com/sase-org/sase/commit/3938c4cf0b1b1a51ce0fa28a21e2dded1c842ca7) | fix(commit): attribute resumed markers to the checkpointed repository | 2026-08-21 16:35:23 UTC |
+| sase | [`3938c4c`](https://github.com/sase-org/sase/commit/3938c4cf0b1b1a51ce0fa28a21e2dded1c842ca7) | fix(commit): attribute resumed markers to the checkpointed repository | 2026-08-21 12:35:23 EDT |

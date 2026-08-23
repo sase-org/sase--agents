@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`209375b`](https://github.com/sase-org/sase/commit/209375b22e8a90f5fa46e2d5e5e4ea5deec7f170) | fix(plan): publish archives before approval responses | 2026-08-22 13:22:44 UTC |
+| sase | [`209375b`](https://github.com/sase-org/sase/commit/209375b22e8a90f5fa46e2d5e5e4ea5deec7f170) | fix(plan): publish archives before approval responses | 2026-08-22 09:22:44 EDT |
 
 ## Neighbors
 

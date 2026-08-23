@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`32ca211`](https://github.com/sase-org/sase/commit/32ca21158dadaafdac5f0febbbf354bc4c98c649) | feat: add episode drill-down renderers (sase-48.6) | 2026-05-28 23:15:26 UTC |
+| sase | [`32ca211`](https://github.com/sase-org/sase/commit/32ca21158dadaafdac5f0febbbf354bc4c98c649) | feat: add episode drill-down renderers (sase-48.6) | 2026-05-28 19:15:26 EDT |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3197b91`](https://github.com/sase-org/sase/commit/3197b9148ad0800e6700b33f3b92fde4ac401471) | feat(axe): add self-healing ensure command (sase-7p.4) | 2026-07-19 22:31:19 UTC |
+| sase | [`3197b91`](https://github.com/sase-org/sase/commit/3197b9148ad0800e6700b33f3b92fde4ac401471) | feat(axe): add self-healing ensure command (sase-7p.4) | 2026-07-19 18:31:19 EDT |
 
 ## Neighbors
 

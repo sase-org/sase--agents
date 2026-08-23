@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`68aaa68`](https://github.com/sase-org/sase/commit/68aaa68634d2462af15fea43c10c9e8dc62a549c) | feat(ace-tui): rank saved placeholder tags from the warm cache | 2026-08-17 12:27:25 UTC |
+| sase | [`68aaa68`](https://github.com/sase-org/sase/commit/68aaa68634d2462af15fea43c10c9e8dc62a549c) | feat(ace-tui): rank saved placeholder tags from the warm cache | 2026-08-17 08:27:25 EDT |
 
 ## Neighbors
 

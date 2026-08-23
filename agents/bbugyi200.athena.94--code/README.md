@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d2157eb`](https://github.com/sase-org/sase/commit/d2157eb0e53bcf6363055a294ed15a11696665ac) | fix(init): filter batch inventory to projects | 2026-07-15 15:01:06 UTC |
+| sase | [`d2157eb`](https://github.com/sase-org/sase/commit/d2157eb0e53bcf6363055a294ed15a11696665ac) | fix(init): filter batch inventory to projects | 2026-07-15 11:01:06 EDT |

@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4747f25`](https://github.com/sase-org/sase/commit/4747f254d59a8ef77e0a94a4ec721b8ffe60ed8d) | chore: Add SDD prompt and plan for running\_agent\_file\_change\_pencil | 2026-05-27 17:00:54 UTC |
-| sase | [`0a82dbf`](https://github.com/sase-org/sase/commit/0a82dbf798b424c90505f68bd4a4a2e14cedb783) | fix: persist commit diff path in agent metadata | 2026-05-27 17:20:12 UTC |
+| sase | [`4747f25`](https://github.com/sase-org/sase/commit/4747f254d59a8ef77e0a94a4ec721b8ffe60ed8d) | chore: Add SDD prompt and plan for running\_agent\_file\_change\_pencil | 2026-05-27 13:00:54 EDT |
+| sase | [`0a82dbf`](https://github.com/sase-org/sase/commit/0a82dbf798b424c90505f68bd4a4a2e14cedb783) | fix: persist commit diff path in agent metadata | 2026-05-27 13:20:12 EDT |

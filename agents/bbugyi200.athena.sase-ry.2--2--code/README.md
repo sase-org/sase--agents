@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2647b71`](https://github.com/sase-org/sase/commit/2647b717a48d387d45092b3fe27172f598f76aa8) | fix(release): let Publish ratchet the 0.29.9 core floor | 2026-08-21 23:29:04 UTC |
-| sase | [`959a547`](https://github.com/sase-org/sase/commit/959a547709e7ed6a400494ed57a2009749ad4cdb) | test(release): keep ledger invariants off the core-floor contract set | 2026-08-21 23:44:58 UTC |
+| sase | [`2647b71`](https://github.com/sase-org/sase/commit/2647b717a48d387d45092b3fe27172f598f76aa8) | fix(release): let Publish ratchet the 0.29.9 core floor | 2026-08-21 19:29:04 EDT |
+| sase | [`959a547`](https://github.com/sase-org/sase/commit/959a547709e7ed6a400494ed57a2009749ad4cdb) | test(release): keep ledger invariants off the core-floor contract set | 2026-08-21 19:44:58 EDT |
 
 ## Neighbors
 

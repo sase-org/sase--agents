@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1928bd7`](https://github.com/sase-org/sase/commit/1928bd79866ce20998634c5707daddf86bde3aa1) | fix(ace): omit missing tribe description hint | 2026-08-13 11:44:55 UTC |
+| sase | [`1928bd7`](https://github.com/sase-org/sase/commit/1928bd79866ce20998634c5707daddf86bde3aa1) | fix(ace): omit missing tribe description hint | 2026-08-13 07:44:55 EDT |

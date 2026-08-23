@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4b89140`](https://github.com/sase-org/sase/commit/4b891406b86f7d7fdb4536cc89b131955da9ffeb) | feat(bead): show task sizes in compact listings | 2026-08-10 14:21:23 UTC |
+| sase | [`4b89140`](https://github.com/sase-org/sase/commit/4b891406b86f7d7fdb4536cc89b131955da9ffeb) | feat(bead): show task sizes in compact listings | 2026-08-10 10:21:23 EDT |

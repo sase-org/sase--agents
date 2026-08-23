@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`39bdd67`](https://github.com/sase-org/sase/commit/39bdd6772ed2cdd0f3b6b822449e687542cfe1b5) | perf(ace): take monitor reconcile off the agents disk load | 2026-08-16 16:45:19 UTC |
+| sase | [`39bdd67`](https://github.com/sase-org/sase/commit/39bdd6772ed2cdd0f3b6b822449e687542cfe1b5) | perf(ace): take monitor reconcile off the agents disk load | 2026-08-16 12:45:19 EDT |
 
 ## Neighbors
 

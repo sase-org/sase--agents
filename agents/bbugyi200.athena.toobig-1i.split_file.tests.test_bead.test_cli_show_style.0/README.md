@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3f03b0a`](https://github.com/sase-org/sase/commit/3f03b0a8f3b40db18af385988378753b06eb5710) | test(bead): split CLI show style tests | 2026-08-03 18:43:10 UTC |
+| sase | [`3f03b0a`](https://github.com/sase-org/sase/commit/3f03b0a8f3b40db18af385988378753b06eb5710) | test(bead): split CLI show style tests | 2026-08-03 14:43:10 EDT |
 
 ## Neighbors
 

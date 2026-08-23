@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e52cc27`](https://github.com/sase-org/sase/commit/e52cc27d8a3db54fb5340f25e475f40f2665ad09) | test(ace): clear stale TextArea caret cache in visual snapshots | 2026-08-22 13:33:00 UTC |
+| sase | [`e52cc27`](https://github.com/sase-org/sase/commit/e52cc27d8a3db54fb5340f25e475f40f2665ad09) | test(ace): clear stale TextArea caret cache in visual snapshots | 2026-08-22 09:33:00 EDT |
 
 ## Neighbors
 

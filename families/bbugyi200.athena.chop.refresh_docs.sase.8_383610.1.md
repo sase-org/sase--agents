@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`b3057a6`](https://github.com/sase-org/sase/commit/b3057a618e7fed72d229230ceac7fceaf39fe0e4) | docs: refresh user-facing guides for post-64f9383f1 behavior | 2026-08-11 10:46:12 UTC |
+| code | sase | [`b3057a6`](https://github.com/sase-org/sase/commit/b3057a618e7fed72d229230ceac7fceaf39fe0e4) | docs: refresh user-facing guides for post-64f9383f1 behavior | 2026-08-11 06:46:12 EDT |
 
 ## Neighbors
 

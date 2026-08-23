@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8c0d967`](https://github.com/sase-org/sase/commit/8c0d967102909627e6551d4c78b0a9e9a626b5d7) | fix: harden runner args and terminal live hints (#177) | 2026-06-16 14:37:55 UTC |
+| sase | [`8c0d967`](https://github.com/sase-org/sase/commit/8c0d967102909627e6551d4c78b0a9e9a626b5d7) | fix: harden runner args and terminal live hints (#177) | 2026-06-16 10:37:55 EDT |
 
 ## Neighbors
 

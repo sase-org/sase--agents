@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bb02d8f`](https://github.com/sase-org/sase/commit/bb02d8f9a310282bec6b2a67c73197830c5c6b79) | feat: route epic phase agents through worker model lane (sase-4k.2) | 2026-06-10 01:17:44 UTC |
+| sase | [`bb02d8f`](https://github.com/sase-org/sase/commit/bb02d8f9a310282bec6b2a67c73197830c5c6b79) | feat: route epic phase agents through worker model lane (sase-4k.2) | 2026-06-09 21:17:44 EDT |
 
 ## Neighbors
 

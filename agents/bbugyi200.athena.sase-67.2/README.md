@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7fb6078`](https://github.com/sase-org/sase/commit/7fb607857e9745c04a550a1be46386e2a028cac6) | fix: serialize SDD store git write transactions | 2026-07-15 23:25:32 UTC |
+| sase | [`7fb6078`](https://github.com/sase-org/sase/commit/7fb607857e9745c04a550a1be46386e2a028cac6) | fix: serialize SDD store git write transactions | 2026-07-15 19:25:32 EDT |
 
 ## Neighbors
 

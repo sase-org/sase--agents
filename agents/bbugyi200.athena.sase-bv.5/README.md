@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3b08766`](https://github.com/sase-org/sase/commit/3b087669e066c5552adf0154d2d202be45565045) | feat(bead-pages): render bead creators | 2026-07-31 13:26:22 UTC |
+| sase | [`3b08766`](https://github.com/sase-org/sase/commit/3b087669e066c5552adf0154d2d202be45565045) | feat(bead-pages): render bead creators | 2026-07-31 09:26:22 EDT |
 
 ## Neighbors
 

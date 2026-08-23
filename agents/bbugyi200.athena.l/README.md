@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0497e9b`](https://github.com/sase-org/sase/commit/0497e9b0c85b242b8263adfc2018fae19cabd1d7) | chore: Add SDD prompt and plan for telegram\_completion\_media\_attachments | 2026-07-06 19:50:05 UTC |
+| sase | [`0497e9b`](https://github.com/sase-org/sase/commit/0497e9b0c85b242b8263adfc2018fae19cabd1d7) | chore: Add SDD prompt and plan for telegram\_completion\_media\_attachments | 2026-07-06 15:50:05 EDT |
 
 ## Neighbors
 

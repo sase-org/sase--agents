@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3a0a92d`](https://github.com/sase-org/sase/commit/3a0a92d84cffe20b3f1a9e7f57f4eb57ecb190f9) | feat: record artifact consumption during prompt expansion | 2026-07-30 15:30:03 UTC |
+| sase | [`3a0a92d`](https://github.com/sase-org/sase/commit/3a0a92d84cffe20b3f1a9e7f57f4eb57ecb190f9) | feat: record artifact consumption during prompt expansion | 2026-07-30 11:30:03 EDT |
 
 ## Neighbors
 

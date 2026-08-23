@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4103e91`](https://github.com/sase-org/sase/commit/4103e9154d3f239a7652da06a30764a957aefe10) | fix(axe): damp restart storms (sase-8g.6) | 2026-07-20 21:15:48 UTC |
+| sase | [`4103e91`](https://github.com/sase-org/sase/commit/4103e9154d3f239a7652da06a30764a957aefe10) | fix(axe): damp restart storms (sase-8g.6) | 2026-07-20 17:15:48 EDT |
 
 ## Neighbors
 

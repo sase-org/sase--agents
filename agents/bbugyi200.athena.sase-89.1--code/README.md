@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2efe42a`](https://github.com/sase-org/sase/commit/2efe42a1583d70bd3f8c9ca56efd6c048fbb8957) | feat(projects): add immutable display snapshots (sase-89.1) | 2026-07-20 17:08:03 UTC |
+| sase | [`2efe42a`](https://github.com/sase-org/sase/commit/2efe42a1583d70bd3f8c9ca56efd6c048fbb8957) | feat(projects): add immutable display snapshots (sase-89.1) | 2026-07-20 13:08:03 EDT |
 
 ## Neighbors
 

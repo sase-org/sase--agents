@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`81e7b02`](https://github.com/sase-org/sase/commit/81e7b02d69066377ca0c1f019e4d5467c3471f12) | feat(ace): restrict \`-\` panel fold sweep to lanes/clans only | 2026-08-11 01:42:59 UTC |
+| code | sase | [`81e7b02`](https://github.com/sase-org/sase/commit/81e7b02d69066377ca0c1f019e4d5467c3471f12) | feat(ace): restrict \`-\` panel fold sweep to lanes/clans only | 2026-08-10 21:42:59 EDT |
 
 ## Neighbors
 

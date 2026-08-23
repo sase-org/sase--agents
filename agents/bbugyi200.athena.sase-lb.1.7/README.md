@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`afcad43`](https://github.com/sase-org/sase/commit/afcad43f868c331e9a6e23f97f05f93b2faa19d4) | feat: add workspace occupancy diagnostics | 2026-08-14 16:49:27 UTC |
+| sase | [`afcad43`](https://github.com/sase-org/sase/commit/afcad43f868c331e9a6e23f97f05f93b2faa19d4) | feat: add workspace occupancy diagnostics | 2026-08-14 12:49:27 EDT |
 
 ## Neighbors
 

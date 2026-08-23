@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`53d25b3`](https://github.com/sase-org/sase/commit/53d25b3173ae0df30909d3f4e256c9d4d52d08f6) | fix(init): warn instead of blocking when the agents sidecar has no project key (sase-93.1) | 2026-07-25 12:32:18 UTC |
+| sase | [`53d25b3`](https://github.com/sase-org/sase/commit/53d25b3173ae0df30909d3f4e256c9d4d52d08f6) | fix(init): warn instead of blocking when the agents sidecar has no project key (sase-93.1) | 2026-07-25 08:32:18 EDT |
 
 ## Neighbors
 

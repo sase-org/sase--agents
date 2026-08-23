@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c52a842`](https://github.com/sase-org/sase/commit/c52a842d0a510c94f181a5eaa3553c12227caac7) | chore: Add SDD prompt and plan for at\_project\_picker\_home | 2026-06-02 10:25:19 UTC |
-| sase | [`6234646`](https://github.com/sase-org/sase/commit/6234646de5d0456959acf5f951dde52f010b9d55) | fix: treat home as a launchable project | 2026-06-02 10:32:31 UTC |
+| sase | [`c52a842`](https://github.com/sase-org/sase/commit/c52a842d0a510c94f181a5eaa3553c12227caac7) | chore: Add SDD prompt and plan for at\_project\_picker\_home | 2026-06-02 06:25:19 EDT |
+| sase | [`6234646`](https://github.com/sase-org/sase/commit/6234646de5d0456959acf5f951dde52f010b9d55) | fix: treat home as a launchable project | 2026-06-02 06:32:31 EDT |

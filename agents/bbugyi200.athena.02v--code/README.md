@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6f3e51a`](https://github.com/sase-org/sase/commit/6f3e51a137ec3b6142288eb6fa17aa855ea4b952) | fix(bead): preserve active workers during relaunch | 2026-08-15 22:30:30 UTC |
+| sase | [`6f3e51a`](https://github.com/sase-org/sase/commit/6f3e51a137ec3b6142288eb6fa17aa855ea4b952) | fix(bead): preserve active workers during relaunch | 2026-08-15 18:30:30 EDT |

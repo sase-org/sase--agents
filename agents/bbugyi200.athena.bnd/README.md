@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`50a9839`](https://github.com/sase-org/sase/commit/50a9839cc49c76069e941ddd035f704798aadba5) | chore: Add SDD prompt and plan for xprompt\_lsp\_install | 2026-05-28 14:03:32 UTC |
+| sase | [`50a9839`](https://github.com/sase-org/sase/commit/50a9839cc49c76069e941ddd035f704798aadba5) | chore: Add SDD prompt and plan for xprompt\_lsp\_install | 2026-05-28 10:03:32 EDT |

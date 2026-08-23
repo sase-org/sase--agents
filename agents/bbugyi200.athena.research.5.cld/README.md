@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1c6e59d`](https://github.com/sase-org/sase/commit/1c6e59deae9a19d414c279edffd8ab57787bd004) | chore: add new-user onboarding improvements research | 2026-06-09 22:09:48 UTC |
+| sase | [`1c6e59d`](https://github.com/sase-org/sase/commit/1c6e59deae9a19d414c279edffd8ab57787bd004) | chore: add new-user onboarding improvements research | 2026-06-09 18:09:48 EDT |
 
 ## Neighbors
 

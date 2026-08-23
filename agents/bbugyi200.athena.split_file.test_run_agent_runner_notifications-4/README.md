@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`83b7e6b`](https://github.com/sase-org/sase/commit/83b7e6be94fab92eb4b520f543169069de7aa157) | test: split agent runner notification tests | 2026-07-16 08:09:20 UTC |
+| sase | [`83b7e6b`](https://github.com/sase-org/sase/commit/83b7e6be94fab92eb4b520f543169069de7aa157) | test: split agent runner notification tests | 2026-07-16 04:09:20 EDT |
 
 ## Neighbors
 

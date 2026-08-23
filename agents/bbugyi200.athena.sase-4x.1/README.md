@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1d1f55f`](https://github.com/sase-org/sase/commit/1d1f55fc2f3457dcefc459b3ecfd92a375f870cb) | chore(beads): close sase-4x.1 (plan search Phase 1) | 2026-06-19 02:00:28 UTC |
+| sase | [`1d1f55f`](https://github.com/sase-org/sase/commit/1d1f55fc2f3457dcefc459b3ecfd92a375f870cb) | chore(beads): close sase-4x.1 (plan search Phase 1) | 2026-06-18 22:00:28 EDT |
 
 ## Neighbors
 

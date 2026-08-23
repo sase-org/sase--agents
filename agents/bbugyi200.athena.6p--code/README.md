@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6df95bb`](https://github.com/sase-org/sase/commit/6df95bbecc640071a22a768af6c5718242227d1d) | fix(sdd): preserve unknown store records | 2026-07-12 15:08:13 UTC |
+| sase | [`6df95bb`](https://github.com/sase-org/sase/commit/6df95bbecc640071a22a768af6c5718242227d1d) | fix(sdd): preserve unknown store records | 2026-07-12 11:08:13 EDT |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fd1e42e`](https://github.com/sase-org/sase/commit/fd1e42e972918b3b64329083bf9484f921f560f5) | ci: ship xprompt lsp core artifact | 2026-08-22 13:19:09 UTC |
+| sase | [`fd1e42e`](https://github.com/sase-org/sase/commit/fd1e42e972918b3b64329083bf9484f921f560f5) | ci: ship xprompt lsp core artifact | 2026-08-22 09:19:09 EDT |
 
 ## Neighbors
 

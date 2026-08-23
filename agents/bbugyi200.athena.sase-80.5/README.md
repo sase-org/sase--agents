@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dae1b3e`](https://github.com/sase-org/sase/commit/dae1b3ebe6e427684b416bf10a99fc8deb3df2e0) | test: cover axe outage recovery across layers (sase-80.5) | 2026-07-20 14:25:14 UTC |
+| sase | [`dae1b3e`](https://github.com/sase-org/sase/commit/dae1b3ebe6e427684b416bf10a99fc8deb3df2e0) | test: cover axe outage recovery across layers (sase-80.5) | 2026-07-20 10:25:14 EDT |
 
 ## Neighbors
 

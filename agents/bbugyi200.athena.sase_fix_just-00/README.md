@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`508f9e4`](https://github.com/sase-org/sase/commit/508f9e40e576d203b0f8d4d20ff74f9d2f588b83) | chore: Fix stale research\_swarm xprompt assertions (#165) | 2026-06-10 14:37:43 UTC |
+| sase | [`508f9e4`](https://github.com/sase-org/sase/commit/508f9e40e576d203b0f8d4d20ff74f9d2f588b83) | chore: Fix stale research\_swarm xprompt assertions (#165) | 2026-06-10 10:37:43 EDT |

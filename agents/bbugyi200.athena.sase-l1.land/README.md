@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`153e2a1`](https://github.com/sase-org/sase/commit/153e2a137524837bc7ac3d83a632a6afa8f61045) | fix(monitor): flag a degraded follow-up as a stalled lane | 2026-08-13 23:17:48 UTC |
+| sase | [`153e2a1`](https://github.com/sase-org/sase/commit/153e2a137524837bc7ac3d83a632a6afa8f61045) | fix(monitor): flag a degraded follow-up as a stalled lane | 2026-08-13 19:17:48 EDT |
 
 ## Neighbors
 

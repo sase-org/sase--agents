@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5360b08`](https://github.com/sase-org/sase/commit/5360b083ea1034067c2043d135ba8abedd571d1a) | fix(axe): honor clan guards before action dedupe (sase-7q.4) | 2026-07-20 00:06:32 UTC |
+| sase | [`5360b08`](https://github.com/sase-org/sase/commit/5360b083ea1034067c2043d135ba8abedd571d1a) | fix(axe): honor clan guards before action dedupe (sase-7q.4) | 2026-07-19 20:06:32 EDT |
 
 ## Neighbors
 

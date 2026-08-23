@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`c5ded4a`](https://github.com/sase-org/sase/commit/c5ded4a86e5ad590b3f421615052b7284daf8a83) | feat(tui): highlight known slash skills in prompts | 2026-07-14 12:16:10 UTC |
+| code | sase | [`c5ded4a`](https://github.com/sase-org/sase/commit/c5ded4a86e5ad590b3f421615052b7284daf8a83) | feat(tui): highlight known slash skills in prompts | 2026-07-14 08:16:10 EDT |
 
 ## Neighbors
 

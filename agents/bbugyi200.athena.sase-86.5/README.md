@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4c46711`](https://github.com/sase-org/sase/commit/4c46711115fa8de5c9098798f3c9f1b26e862b61) | perf(test): cache setup environment validation (sase-86.5) | 2026-07-20 15:33:11 UTC |
+| sase | [`4c46711`](https://github.com/sase-org/sase/commit/4c46711115fa8de5c9098798f3c9f1b26e862b61) | perf(test): cache setup environment validation (sase-86.5) | 2026-07-20 11:33:11 EDT |
 
 ## Neighbors
 

@@ -27,9 +27,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`1f4c5a7`](https://github.com/sase-org/sase/commit/1f4c5a7aabacac7083ebbf971160fa33ba2e6cb6) | chore: Add SDD prompt and plan for exclude\_default\_vcs\_mru | 2026-06-21 13:00:38 UTC |
-| — | sase | [`c2b53bc`](https://github.com/sase-org/sase/commit/c2b53bc35bd592360159f543a676f1959b45a987) | feat(tui): exclude default VCS xprompt from prompt cycling | 2026-06-21 13:08:34 UTC |
-| code | sase | [`ca60019`](https://github.com/sase-org/sase/commit/ca600192c528f43faf59cecec8fdac0c777f38df) | fix: avoid artifact lock for tribe-only updates | 2026-08-15 23:59:09 UTC |
+| — | sase | [`1f4c5a7`](https://github.com/sase-org/sase/commit/1f4c5a7aabacac7083ebbf971160fa33ba2e6cb6) | chore: Add SDD prompt and plan for exclude\_default\_vcs\_mru | 2026-06-21 09:00:38 EDT |
+| — | sase | [`c2b53bc`](https://github.com/sase-org/sase/commit/c2b53bc35bd592360159f543a676f1959b45a987) | feat(tui): exclude default VCS xprompt from prompt cycling | 2026-06-21 09:08:34 EDT |
+| code | sase | [`ca60019`](https://github.com/sase-org/sase/commit/ca600192c528f43faf59cecec8fdac0c777f38df) | fix: avoid artifact lock for tribe-only updates | 2026-08-15 19:59:09 EDT |
 
 ## Neighbors
 

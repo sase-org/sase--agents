@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6a1de15`](https://github.com/sase-org/sase/commit/6a1de15fcbc02458a79c881abb0bd44af52e02bc) | feat(tui): add prompt change surround keymap | 2026-06-16 17:22:21 UTC |
+| sase | [`6a1de15`](https://github.com/sase-org/sase/commit/6a1de15fcbc02458a79c881abb0bd44af52e02bc) | feat(tui): add prompt change surround keymap | 2026-06-16 13:22:21 EDT |
 
 ## Neighbors
 

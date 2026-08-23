@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0dc635e`](https://github.com/sase-org/sase/commit/0dc635ea737218c1e777f6d06b4a7e176ebeb7fb) | refactor(ace): split associated plan model | 2026-07-20 20:30:05 UTC |
+| sase | [`0dc635e`](https://github.com/sase-org/sase/commit/0dc635ea737218c1e777f6d06b4a7e176ebeb7fb) | refactor(ace): split associated plan model | 2026-07-20 16:30:05 EDT |
 
 ## Neighbors
 

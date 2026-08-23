@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`63f9f15`](https://github.com/sase-org/sase/commit/63f9f15d69433c602b974757673de47ef5cff7bf) | feat(tui): zoom tribe metadata panels | 2026-08-10 19:26:09 UTC |
+| sase | [`63f9f15`](https://github.com/sase-org/sase/commit/63f9f15d69433c602b974757673de47ef5cff7bf) | feat(tui): zoom tribe metadata panels | 2026-08-10 15:26:09 EDT |
 
 ## Neighbors
 

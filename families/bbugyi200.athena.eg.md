@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`415704d`](https://github.com/sase-org/sase/commit/415704d977268315d286f368640f58fd0af0e127) | feat(ace)!: move fold selector to direct L shortcut | 2026-07-19 12:35:00 UTC |
+| code | sase | [`415704d`](https://github.com/sase-org/sase/commit/415704d977268315d286f368640f58fd0af0e127) | feat(ace)!: move fold selector to direct L shortcut | 2026-07-19 08:35:00 EDT |

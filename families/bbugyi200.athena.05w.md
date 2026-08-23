@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`c297507`](https://github.com/sase-org/sase/commit/c2975075b0626698b2fbfb038317b892f6e42b63) | chore: Add SDD prompt and plan for wait\_directive\_canonical\_duration | 2026-06-25 12:00:48 UTC |
-| — | sase | [`bb04443`](https://github.com/sase-org/sase/commit/bb0444316c01c8beae8365a4fb98be68e65091cf) | fix(xprompt): disambiguate leading-zero wait names | 2026-06-25 12:11:39 UTC |
-| code | sase | [`69ec946`](https://github.com/sase-org/sase/commit/69ec9463e520a096066db088a5f31c2a8ed91bb1) | feat(llm\_provider): add optional weights to load-balanced model alias pools | 2026-08-18 12:28:46 UTC |
+| — | sase | [`c297507`](https://github.com/sase-org/sase/commit/c2975075b0626698b2fbfb038317b892f6e42b63) | chore: Add SDD prompt and plan for wait\_directive\_canonical\_duration | 2026-06-25 08:00:48 EDT |
+| — | sase | [`bb04443`](https://github.com/sase-org/sase/commit/bb0444316c01c8beae8365a4fb98be68e65091cf) | fix(xprompt): disambiguate leading-zero wait names | 2026-06-25 08:11:39 EDT |
+| code | sase | [`69ec946`](https://github.com/sase-org/sase/commit/69ec9463e520a096066db088a5f31c2a8ed91bb1) | feat(llm\_provider): add optional weights to load-balanced model alias pools | 2026-08-18 08:28:46 EDT |

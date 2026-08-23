@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`d6f435c`](https://github.com/sase-org/sase/commit/d6f435c7a2a50678560e377d2604a08194408d7e) | feat: lazily materialize prompt document sidecars | 2026-08-12 15:59:23 UTC |
+| code | sase | [`d6f435c`](https://github.com/sase-org/sase/commit/d6f435c7a2a50678560e377d2604a08194408d7e) | feat: lazily materialize prompt document sidecars | 2026-08-12 11:59:23 EDT |

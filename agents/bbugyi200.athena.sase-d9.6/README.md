@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d1f55ce`](https://github.com/sase-org/sase/commit/d1f55cec31a7ce1a97ec0030c8e7c9853cfe4be6) | feat(tui): resolve clan hint paths off-thread | 2026-08-01 14:20:59 UTC |
+| sase | [`d1f55ce`](https://github.com/sase-org/sase/commit/d1f55cec31a7ce1a97ec0030c8e7c9853cfe4be6) | feat(tui): resolve clan hint paths off-thread | 2026-08-01 10:20:59 EDT |
 
 ## Neighbors
 

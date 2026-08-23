@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`9202845`](https://github.com/sase-org/sase/commit/9202845c12c3799c57ff868efbc305df57197754) | chore: Add SDD prompt and plan for wait\_time\_concise\_live\_countdown | 2026-06-29 14:31:55 UTC |
-| — | sase | [`1261bfe`](https://github.com/sase-org/sase/commit/1261bfeaefa67d5ee806422a69a71a8e40afea53) | feat(tui): show concise wait countdown rows | 2026-06-29 14:45:19 UTC |
-| code | sase | [`1cc5a23`](https://github.com/sase-org/sase/commit/1cc5a239af8693ca16c8899686bb3f9556b68d40) | fix(attachments): isolate Pandoc scratch from Git worktrees | 2026-08-21 18:47:10 UTC |
+| — | sase | [`9202845`](https://github.com/sase-org/sase/commit/9202845c12c3799c57ff868efbc305df57197754) | chore: Add SDD prompt and plan for wait\_time\_concise\_live\_countdown | 2026-06-29 10:31:55 EDT |
+| — | sase | [`1261bfe`](https://github.com/sase-org/sase/commit/1261bfeaefa67d5ee806422a69a71a8e40afea53) | feat(tui): show concise wait countdown rows | 2026-06-29 10:45:19 EDT |
+| code | sase | [`1cc5a23`](https://github.com/sase-org/sase/commit/1cc5a239af8693ca16c8899686bb3f9556b68d40) | fix(attachments): isolate Pandoc scratch from Git worktrees | 2026-08-21 14:47:10 EDT |

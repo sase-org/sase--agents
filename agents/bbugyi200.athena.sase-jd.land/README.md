@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`48617f3`](https://github.com/sase-org/sase/commit/48617f3eec9d9209ddba540ebcde5d8ff65345dd) | feat(external-mirror): add pr\_authors knob and drop abandoned PR-mirror draft | 2026-08-11 17:23:46 UTC |
+| sase | [`48617f3`](https://github.com/sase-org/sase/commit/48617f3eec9d9209ddba540ebcde5d8ff65345dd) | feat(external-mirror): add pr\_authors knob and drop abandoned PR-mirror draft | 2026-08-11 13:23:46 EDT |
 
 ## Neighbors
 

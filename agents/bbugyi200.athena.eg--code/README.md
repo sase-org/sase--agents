@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`415704d`](https://github.com/sase-org/sase/commit/415704d977268315d286f368640f58fd0af0e127) | feat(ace)!: move fold selector to direct L shortcut | 2026-07-19 12:35:00 UTC |
+| sase | [`415704d`](https://github.com/sase-org/sase/commit/415704d977268315d286f368640f58fd0af0e127) | feat(ace)!: move fold selector to direct L shortcut | 2026-07-19 08:35:00 EDT |

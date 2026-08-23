@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`7aebbe6`](https://github.com/sase-org/sase/commit/7aebbe6ff5ac3be77449dd4a547450ccffb86024) | feat: show tale size in plan displays | 2026-08-10 15:26:19 UTC |
+| code | sase | [`7aebbe6`](https://github.com/sase-org/sase/commit/7aebbe6ff5ac3be77449dd4a547450ccffb86024) | feat: show tale size in plan displays | 2026-08-10 11:26:19 EDT |
 
 ## Neighbors
 

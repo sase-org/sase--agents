@@ -21,5 +21,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f13b4c6`](https://github.com/sase-org/sase/commit/f13b4c6cb443bf602b7d949bb45c7fea94ac87d5) | fix(agent-index): use Rust facade for index metadata | 2026-06-13 13:34:44 UTC |
-| sase | [`8a6d661`](https://github.com/sase-org/sase/commit/8a6d6619e9fcee150d538b9cd846476e4d610b5c) | chore: Add SDD prompt and plan for timezone\_runtime\_consistency | 2026-07-03 10:54:06 UTC |
+| sase | [`f13b4c6`](https://github.com/sase-org/sase/commit/f13b4c6cb443bf602b7d949bb45c7fea94ac87d5) | fix(agent-index): use Rust facade for index metadata | 2026-06-13 09:34:44 EDT |
+| sase | [`8a6d661`](https://github.com/sase-org/sase/commit/8a6d6619e9fcee150d538b9cd846476e4d610b5c) | chore: Add SDD prompt and plan for timezone\_runtime\_consistency | 2026-07-03 06:54:06 EDT |

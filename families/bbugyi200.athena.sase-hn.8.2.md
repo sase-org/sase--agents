@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`50f8961`](https://github.com/sase-org/sase/commit/50f8961ac7cb1b2ba654ed4bcb06804db433d42e) | feat(ace): rename ACE ChangeSpecs to Patches | 2026-08-09 06:48:05 UTC |
+| — | sase | [`50f8961`](https://github.com/sase-org/sase/commit/50f8961ac7cb1b2ba654ed4bcb06804db433d42e) | feat(ace): rename ACE ChangeSpecs to Patches | 2026-08-09 02:48:05 EDT |
 
 ## Neighbors
 

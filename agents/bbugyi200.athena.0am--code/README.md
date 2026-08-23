@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`250c012`](https://github.com/sase-org/sase/commit/250c0121d4a552f742b938453717e53d6774ad60) | feat(memory): move final-declaration guidance into generated sase.md | 2026-08-22 13:09:26 UTC |
+| sase | [`250c012`](https://github.com/sase-org/sase/commit/250c0121d4a552f742b938453717e53d6774ad60) | feat(memory): move final-declaration guidance into generated sase.md | 2026-08-22 09:09:26 EDT |
 
 ## Neighbors
 

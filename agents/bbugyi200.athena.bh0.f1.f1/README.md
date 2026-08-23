@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fcf248e`](https://github.com/sase-org/sase/commit/fcf248ec1d66d0116f782164096d815165bf04d2) | chore: add tagged agent revival infographic | 2026-05-26 23:59:29 UTC |
+| sase | [`fcf248e`](https://github.com/sase-org/sase/commit/fcf248ec1d66d0116f782164096d815165bf04d2) | chore: add tagged agent revival infographic | 2026-05-26 19:59:29 EDT |
 
 ## Neighbors
 

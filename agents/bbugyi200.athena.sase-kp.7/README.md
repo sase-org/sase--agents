@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1d3b20f`](https://github.com/sase-org/sase/commit/1d3b20fad227be8a6631ac58826c51caa3989969) | feat(tui): show monitor rows in agent rosters | 2026-08-13 00:01:17 UTC |
+| sase | [`1d3b20f`](https://github.com/sase-org/sase/commit/1d3b20fad227be8a6631ac58826c51caa3989969) | feat(tui): show monitor rows in agent rosters | 2026-08-12 20:01:17 EDT |
 
 ## Neighbors
 

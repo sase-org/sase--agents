@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ddff98d`](https://github.com/sase-org/sase/commit/ddff98d70bd792db3529238bc228451d56481c67) | feat(xprompt): add \`+\` project completion menu in the TUI prompt (sase-4z.2) | 2026-06-19 14:57:34 UTC |
+| sase | [`ddff98d`](https://github.com/sase-org/sase/commit/ddff98d70bd792db3529238bc228451d56481c67) | feat(xprompt): add \`+\` project completion menu in the TUI prompt (sase-4z.2) | 2026-06-19 10:57:34 EDT |
 
 ## Neighbors
 

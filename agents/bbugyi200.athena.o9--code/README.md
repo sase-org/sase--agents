@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9180a1f`](https://github.com/sase-org/sase/commit/9180a1fd67ae9b32231153fe65a2378fb179733c) | fix(config): initialize chezmoi machine overlays safely | 2026-07-29 14:59:21 UTC |
+| sase | [`9180a1f`](https://github.com/sase-org/sase/commit/9180a1fd67ae9b32231153fe65a2378fb179733c) | fix(config): initialize chezmoi machine overlays safely | 2026-07-29 10:59:21 EDT |

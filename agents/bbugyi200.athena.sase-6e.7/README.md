@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5e234c0`](https://github.com/sase-org/sase/commit/5e234c07d7d3fc1b53e146cb2d4710be5df62fbc) | feat: complete notification gate compatibility rollout (sase-6e.7) | 2026-07-16 23:40:15 UTC |
+| sase | [`5e234c0`](https://github.com/sase-org/sase/commit/5e234c07d7d3fc1b53e146cb2d4710be5df62fbc) | feat: complete notification gate compatibility rollout (sase-6e.7) | 2026-07-16 19:40:15 EDT |
 
 ## Neighbors
 

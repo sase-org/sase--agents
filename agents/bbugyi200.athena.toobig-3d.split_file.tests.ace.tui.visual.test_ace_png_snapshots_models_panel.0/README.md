@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f2942ee`](https://github.com/sase-org/sase/commit/f2942eeaf5bcb40c5987da1876f55b44268216a0) | test(tui): split models panel PNG snapshots | 2026-08-22 03:33:58 UTC |
+| sase | [`f2942ee`](https://github.com/sase-org/sase/commit/f2942eeaf5bcb40c5987da1876f55b44268216a0) | test(tui): split models panel PNG snapshots | 2026-08-21 23:33:58 EDT |
 
 ## Neighbors
 

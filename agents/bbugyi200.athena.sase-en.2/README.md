@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e5208ec`](https://github.com/sase-org/sase/commit/e5208ec977cbe6974ccfa32526f4197b697caf1e) | perf(cli): build only the invoked command parser | 2026-08-03 13:40:20 UTC |
+| sase | [`e5208ec`](https://github.com/sase-org/sase/commit/e5208ec977cbe6974ccfa32526f4197b697caf1e) | perf(cli): build only the invoked command parser | 2026-08-03 09:40:20 EDT |
 
 ## Neighbors
 

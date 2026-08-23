@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4fcf72f`](https://github.com/sase-org/sase/commit/4fcf72f16116ac29bfe75e68ecc894ebc9ebabe2) | test: split external mirror issue tests | 2026-08-12 22:40:09 UTC |
+| sase | [`4fcf72f`](https://github.com/sase-org/sase/commit/4fcf72f16116ac29bfe75e68ecc894ebc9ebabe2) | test: split external mirror issue tests | 2026-08-12 18:40:09 EDT |
 
 ## Neighbors
 

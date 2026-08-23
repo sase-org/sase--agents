@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`92b31a1`](https://github.com/sase-org/sase/commit/92b31a1b444277ab1a8cb488a1ad4fd28ee0c09e) | fix(prompt-archive)!: publish archived prompt bodies verbatim | 2026-08-03 19:16:36 UTC |
+| sase | [`92b31a1`](https://github.com/sase-org/sase/commit/92b31a1b444277ab1a8cb488a1ad4fd28ee0c09e) | fix(prompt-archive)!: publish archived prompt bodies verbatim | 2026-08-03 15:16:36 EDT |
 
 ## Neighbors
 

@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b44dda1`](https://github.com/sase-org/sase/commit/b44dda18dec4b6e07b577c73ba9b8aab0b53f1be) | feat(ace): add Auto-Approve menu modal and rewire approve keymap (sase-56.2) | 2026-06-23 23:38:22 UTC |
+| sase | [`b44dda1`](https://github.com/sase-org/sase/commit/b44dda18dec4b6e07b577c73ba9b8aab0b53f1be) | feat(ace): add Auto-Approve menu modal and rewire approve keymap (sase-56.2) | 2026-06-23 19:38:22 EDT |
 
 ## Neighbors
 

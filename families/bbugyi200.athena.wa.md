@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`9591b4e`](https://github.com/sase-org/sase/commit/9591b4e378cf2107b78784a77b006d838a86a36e) | fix: render glossary alias labels uppercase | 2026-08-09 11:47:49 UTC |
+| code | sase | [`9591b4e`](https://github.com/sase-org/sase/commit/9591b4e378cf2107b78784a77b006d838a86a36e) | fix: render glossary alias labels uppercase | 2026-08-09 07:47:49 EDT |
 
 ## Neighbors
 

@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`058cd64`](https://github.com/sase-org/sase/commit/058cd646fb1d3113fe28186473f252dc4f488d13) | feat(axe): add config management workflows (sase-8m.3) | 2026-07-22 18:39:16 UTC |
+| code | sase | [`058cd64`](https://github.com/sase-org/sase/commit/058cd646fb1d3113fe28186473f252dc4f488d13) | feat(axe): add config management workflows (sase-8m.3) | 2026-07-22 14:39:16 EDT |
 
 ## Neighbors
 

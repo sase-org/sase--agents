@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f929b5e`](https://github.com/sase-org/sase/commit/f929b5e2c803431399cf0372ab8d50ced906ef6c) | fix(monitor): keep waiters blocked during handoff | 2026-08-21 20:45:21 UTC |
+| sase | [`f929b5e`](https://github.com/sase-org/sase/commit/f929b5e2c803431399cf0372ab8d50ced906ef6c) | fix(monitor): keep waiters blocked during handoff | 2026-08-21 16:45:21 EDT |

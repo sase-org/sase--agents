@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9176e23`](https://github.com/sase-org/sase/commit/9176e2396ef8e4516e38c0221c5b9513bc65647b) | feat(tasks): expose detached work across CLI and TUI (sase-9s.7) | 2026-07-26 13:00:08 UTC |
+| sase | [`9176e23`](https://github.com/sase-org/sase/commit/9176e2396ef8e4516e38c0221c5b9513bc65647b) | feat(tasks): expose detached work across CLI and TUI (sase-9s.7) | 2026-07-26 09:00:08 EDT |
 
 ## Neighbors
 

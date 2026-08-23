@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b644bab`](https://github.com/sase-org/sase/commit/b644bab27cef696e4c112b27dd791b7adc2f19f7) | feat: finalize commits in external repositories (sase-5y.3) | 2026-07-13 22:27:03 UTC |
+| sase | [`b644bab`](https://github.com/sase-org/sase/commit/b644bab27cef696e4c112b27dd791b7adc2f19f7) | feat: finalize commits in external repositories (sase-5y.3) | 2026-07-13 18:27:03 EDT |
 
 ## Neighbors
 

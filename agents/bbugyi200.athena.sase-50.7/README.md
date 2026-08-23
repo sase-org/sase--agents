@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9b90ef0`](https://github.com/sase-org/sase/commit/9b90ef0815e6fad4bfab5eaa59b311a2c3cc872b) | test(llm): harden agy provider end-to-end (sase-50.7) | 2026-06-20 01:41:07 UTC |
+| sase | [`9b90ef0`](https://github.com/sase-org/sase/commit/9b90ef0815e6fad4bfab5eaa59b311a2c3cc872b) | test(llm): harden agy provider end-to-end (sase-50.7) | 2026-06-19 21:41:07 EDT |
 
 ## Neighbors
 

@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d0ce985`](https://github.com/sase-org/sase/commit/d0ce9857cbeea657ae3fea229663f0c35fd83eb8) | chore: Add SDD prompt and plan for agent\_metadata\_section\_dividers | 2026-05-27 14:14:33 UTC |
-| sase | [`b62fe23`](https://github.com/sase-org/sase/commit/b62fe2345095f295a7825b095a2a274fb902bbc8) | fix: separate prompt metadata sections | 2026-05-27 14:22:39 UTC |
+| sase | [`d0ce985`](https://github.com/sase-org/sase/commit/d0ce9857cbeea657ae3fea229663f0c35fd83eb8) | chore: Add SDD prompt and plan for agent\_metadata\_section\_dividers | 2026-05-27 10:14:33 EDT |
+| sase | [`b62fe23`](https://github.com/sase-org/sase/commit/b62fe2345095f295a7825b095a2a274fb902bbc8) | fix: separate prompt metadata sections | 2026-05-27 10:22:39 EDT |
 
 ## Neighbors
 

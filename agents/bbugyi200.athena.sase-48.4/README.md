@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`73094ca`](https://github.com/sase-org/sase/commit/73094ca3ccdaa9ecd13b7d653bd03367601cf88f) | feat: add v2 episode importance and safety records (sase-48.4) | 2026-05-28 22:39:24 UTC |
+| sase | [`73094ca`](https://github.com/sase-org/sase/commit/73094ca3ccdaa9ecd13b7d653bd03367601cf88f) | feat: add v2 episode importance and safety records (sase-48.4) | 2026-05-28 18:39:24 EDT |
 
 ## Neighbors
 

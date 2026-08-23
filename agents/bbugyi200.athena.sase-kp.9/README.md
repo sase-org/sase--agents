@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4479603`](https://github.com/sase-org/sase/commit/44796037a560316e1945b8a5e6d0482d61f15191) | feat(epic-launch): launch approved epics through monitors | 2026-08-13 11:05:01 UTC |
+| sase | [`4479603`](https://github.com/sase-org/sase/commit/44796037a560316e1945b8a5e6d0482d61f15191) | feat(epic-launch): launch approved epics through monitors | 2026-08-13 07:05:01 EDT |
 
 ## Neighbors
 

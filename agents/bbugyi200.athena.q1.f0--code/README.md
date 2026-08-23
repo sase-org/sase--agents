@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e023e68`](https://github.com/sase-org/sase/commit/e023e68a9d8e363a92e2504e881d92d00f26c39d) | feat(ace-tribes): drop bundled research tribe display config | 2026-07-31 13:01:44 UTC |
+| sase | [`e023e68`](https://github.com/sase-org/sase/commit/e023e68a9d8e363a92e2504e881d92d00f26c39d) | feat(ace-tribes): drop bundled research tribe display config | 2026-07-31 09:01:44 EDT |
 
 ## Neighbors
 

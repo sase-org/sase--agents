@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aabcbf2`](https://github.com/sase-org/sase/commit/aabcbf2eb7a11f6deae25d5fa894deceaa42f654) | test: stabilize marked install snapshot | 2026-07-07 15:22:41 UTC |
+| sase | [`aabcbf2`](https://github.com/sase-org/sase/commit/aabcbf2eb7a11f6deae25d5fa894deceaa42f654) | test: stabilize marked install snapshot | 2026-07-07 11:22:41 EDT |

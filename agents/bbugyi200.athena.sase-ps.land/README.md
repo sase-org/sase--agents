@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`da8be0e`](https://github.com/sase-org/sase/commit/da8be0ea95115c10257fe6e4b9af6f65ba6e744b) | test(visual): rebaseline the Statistics runners golden for the new legend | 2026-08-18 18:44:34 UTC |
+| sase | [`da8be0e`](https://github.com/sase-org/sase/commit/da8be0ea95115c10257fe6e4b9af6f65ba6e744b) | test(visual): rebaseline the Statistics runners golden for the new legend | 2026-08-18 14:44:34 EDT |
 
 ## Neighbors
 

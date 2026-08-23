@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4060a0a`](https://github.com/sase-org/sase/commit/4060a0a2f76cf79f66eec68222ed69d6657f8494) | ref: split agent launch body implementation | 2026-07-03 09:57:26 UTC |
+| sase | [`4060a0a`](https://github.com/sase-org/sase/commit/4060a0a2f76cf79f66eec68222ed69d6657f8494) | ref: split agent launch body implementation | 2026-07-03 05:57:26 EDT |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`64bbbca`](https://github.com/sase-org/sase/commit/64bbbcaf6734d99bac329f88397569058188da2e) | chore: Add SDD prompt and plan for video\_artifact\_preview | 2026-07-06 20:51:46 UTC |
+| sase | [`64bbbca`](https://github.com/sase-org/sase/commit/64bbbcaf6734d99bac329f88397569058188da2e) | chore: Add SDD prompt and plan for video\_artifact\_preview | 2026-07-06 16:51:46 EDT |
 
 ## Neighbors
 

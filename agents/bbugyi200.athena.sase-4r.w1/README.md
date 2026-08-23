@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`abdba9a`](https://github.com/sase-org/sase/commit/abdba9a5df9fa6ccc67ff4b5a72836d973d75c88) | chore: Add SDD prompt and plan for agents\_bulk\_kill\_edit | 2026-06-16 21:25:29 UTC |
-| sase | [`b129002`](https://github.com/sase-org/sase/commit/b129002382fdc67a08a6e653a73ca14d3bb13383) | feat(tui): add Agents-tab bulk kill-and-edit (sase-4r) | 2026-06-16 21:51:00 UTC |
+| sase | [`abdba9a`](https://github.com/sase-org/sase/commit/abdba9a5df9fa6ccc67ff4b5a72836d973d75c88) | chore: Add SDD prompt and plan for agents\_bulk\_kill\_edit | 2026-06-16 17:25:29 EDT |
+| sase | [`b129002`](https://github.com/sase-org/sase/commit/b129002382fdc67a08a6e653a73ca14d3bb13383) | feat(tui): add Agents-tab bulk kill-and-edit (sase-4r) | 2026-06-16 17:51:00 EDT |
 
 ## Neighbors
 

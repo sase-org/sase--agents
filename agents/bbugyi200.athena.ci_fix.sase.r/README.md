@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`466a24c`](https://github.com/sase-org/sase/commit/466a24c3814838d3cf0d9ed7a87c370181106b3d) | fix(ci): repair published core compatibility checks (#290) | 2026-08-09 11:21:58 UTC |
+| sase | [`466a24c`](https://github.com/sase-org/sase/commit/466a24c3814838d3cf0d9ed7a87c370181106b3d) | fix(ci): repair published core compatibility checks (#290) | 2026-08-09 07:21:58 EDT |
 
 ## Neighbors
 

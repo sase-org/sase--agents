@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`e0f310d`](https://github.com/sase-org/sase/commit/e0f310d8da7a01c7e67aac9e030582ab746b9b22) | feat(models): make medium phase worker follow default | 2026-07-25 15:00:21 UTC |
+| code | sase | [`e0f310d`](https://github.com/sase-org/sase/commit/e0f310d8da7a01c7e67aac9e030582ab746b9b22) | feat(models): make medium phase worker follow default | 2026-07-25 11:00:21 EDT |
 
 ## Neighbors
 

@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`9a6b203`](https://github.com/sase-org/sase/commit/9a6b20390e44b2b2dec6c546d2bf241b174021f4) | fix(commit): apply conventional subject gate updates | 2026-07-31 14:19:48 UTC |
+| code | sase | [`9a6b203`](https://github.com/sase-org/sase/commit/9a6b20390e44b2b2dec6c546d2bf241b174021f4) | fix(commit): apply conventional subject gate updates | 2026-07-31 10:19:48 EDT |
 
 ## Neighbors
 

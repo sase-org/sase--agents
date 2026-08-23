@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`03813d9`](https://github.com/sase-org/sase/commit/03813d90971cab622bd95c13ef3feb6804c10208) | docs: add TUI performance infographic | 2026-06-20 21:55:27 UTC |
+| sase | [`03813d9`](https://github.com/sase-org/sase/commit/03813d90971cab622bd95c13ef3feb6804c10208) | docs: add TUI performance infographic | 2026-06-20 17:55:27 EDT |
 
 ## Neighbors
 

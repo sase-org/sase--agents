@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`c4a29f2`](https://github.com/sase-org/sase/commit/c4a29f213ff24ee5766f7d0198c614143cb957c8) | fix(ace-tui): restore unread markers for plan-family agent nodes | 2026-08-17 16:08:54 UTC |
+| code | sase | [`c4a29f2`](https://github.com/sase-org/sase/commit/c4a29f213ff24ee5766f7d0198c614143cb957c8) | fix(ace-tui): restore unread markers for plan-family agent nodes | 2026-08-17 12:08:54 EDT |

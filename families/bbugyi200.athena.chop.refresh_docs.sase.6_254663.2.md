@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`ab3233d`](https://github.com/sase-org/sase/commit/ab3233d8dc1f0ca3fa88e89248bc84764b633835) | docs: correct provider and typed launch guidance | 2026-08-22 23:34:46 UTC |
+| 1 | sase | [`ab3233d`](https://github.com/sase-org/sase/commit/ab3233d8dc1f0ca3fa88e89248bc84764b633835) | docs: correct provider and typed launch guidance | 2026-08-22 19:34:46 EDT |
 
 ## Neighbors
 

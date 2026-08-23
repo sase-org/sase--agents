@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d2ef8de`](https://github.com/sase-org/sase/commit/d2ef8de416fec84cd2e3c2adcd4db40a86f55ff2) | docs: add sibling repo tracking infographic | 2026-06-20 17:37:26 UTC |
+| sase | [`d2ef8de`](https://github.com/sase-org/sase/commit/d2ef8de416fec84cd2e3c2adcd4db40a86f55ff2) | docs: add sibling repo tracking infographic | 2026-06-20 13:37:26 EDT |
 
 ## Neighbors
 

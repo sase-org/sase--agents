@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aa66d3f`](https://github.com/sase-org/sase/commit/aa66d3f5c307b5ac398ba59bd6f670d9b1f9d4f7) | feat: add episode trace hints for agent artifacts (sase-45.6) | 2026-05-26 23:57:51 UTC |
+| sase | [`aa66d3f`](https://github.com/sase-org/sase/commit/aa66d3f5c307b5ac398ba59bd6f670d9b1f9d4f7) | feat: add episode trace hints for agent artifacts (sase-45.6) | 2026-05-26 19:57:51 EDT |
 
 ## Neighbors
 

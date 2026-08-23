@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5d41fb9`](https://github.com/sase-org/sase/commit/5d41fb99f64e2d55230a07a42335525b79460887) | test: split artifact reference tests by concern | 2026-07-30 13:56:18 UTC |
+| sase | [`5d41fb9`](https://github.com/sase-org/sase/commit/5d41fb99f64e2d55230a07a42335525b79460887) | test: split artifact reference tests by concern | 2026-07-30 09:56:18 EDT |
 
 ## Neighbors
 

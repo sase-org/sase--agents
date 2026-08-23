@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`29c5372`](https://github.com/sase-org/sase/commit/29c5372062808403edcf14f87cfd9093699122d9) | feat!: make Admin Center ConfigHub unconditional | 2026-08-21 09:54:26 UTC |
+| sase | [`29c5372`](https://github.com/sase-org/sase/commit/29c5372062808403edcf14f87cfd9093699122d9) | feat!: make Admin Center ConfigHub unconditional | 2026-08-21 05:54:26 EDT |
 
 ## Neighbors
 

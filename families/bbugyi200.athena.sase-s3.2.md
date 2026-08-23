@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`959d559`](https://github.com/sase-org/sase/commit/959d55926de21dc2106a65d943fb3e8e268d1f3b) | feat: raise sase-core-rs floor to 0.30.0 | 2026-08-22 16:03:33 UTC |
+| 1 | sase | [`959d559`](https://github.com/sase-org/sase/commit/959d55926de21dc2106a65d943fb3e8e268d1f3b) | feat: raise sase-core-rs floor to 0.30.0 | 2026-08-22 12:03:33 EDT |
 
 ## Neighbors
 

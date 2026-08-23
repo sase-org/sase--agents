@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`334ff99`](https://github.com/sase-org/sase/commit/334ff99b17faf2a17ebbd9660c3805a022897c53) | refactor: split patch command handlers | 2026-08-11 16:17:36 UTC |
+| sase | [`334ff99`](https://github.com/sase-org/sase/commit/334ff99b17faf2a17ebbd9660c3805a022897c53) | refactor: split patch command handlers | 2026-08-11 12:17:36 EDT |
 
 ## Neighbors
 

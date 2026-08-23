@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cf72b00`](https://github.com/sase-org/sase/commit/cf72b00d1885113147072a501473d3ab0eb3829d) | fix(finalizers): prove auto-commits with pre-reconciliation ledger | 2026-08-22 14:54:26 UTC |
+| sase | [`cf72b00`](https://github.com/sase-org/sase/commit/cf72b00d1885113147072a501473d3ab0eb3829d) | fix(finalizers): prove auto-commits with pre-reconciliation ledger | 2026-08-22 10:54:26 EDT |
 
 ## Neighbors
 

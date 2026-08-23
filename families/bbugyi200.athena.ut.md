@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`4c7c635`](https://github.com/sase-org/sase/commit/4c7c635d2db3b6b882a8f1844c4153771d73dc91) | fix(agent): stop swarm expansion splicing VCS refs into multi-line %clan(...) directives | 2026-08-07 17:31:35 UTC |
+| code | sase | [`4c7c635`](https://github.com/sase-org/sase/commit/4c7c635d2db3b6b882a8f1844c4153771d73dc91) | fix(agent): stop swarm expansion splicing VCS refs into multi-line %clan(...) directives | 2026-08-07 13:31:35 EDT |

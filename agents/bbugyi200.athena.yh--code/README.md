@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b129668`](https://github.com/sase-org/sase/commit/b12966834a29ad03fc06b587cb31c6381bcb8111) | fix(workspace-provider): stop #git: refs from clobbering non-bare-git projects | 2026-08-12 14:35:22 UTC |
+| sase | [`b129668`](https://github.com/sase-org/sase/commit/b12966834a29ad03fc06b587cb31c6381bcb8111) | fix(workspace-provider): stop #git: refs from clobbering non-bare-git projects | 2026-08-12 10:35:22 EDT |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`47830f9`](https://github.com/sase-org/sase/commit/47830f9dedcf9e44601499d6e901a979970213e9) | test(finalizer): align final directive completion expectation | 2026-08-21 23:07:31 UTC |
+| sase | [`47830f9`](https://github.com/sase-org/sase/commit/47830f9dedcf9e44601499d6e901a979970213e9) | test(finalizer): align final directive completion expectation | 2026-08-21 19:07:31 EDT |
 
 ## Neighbors
 

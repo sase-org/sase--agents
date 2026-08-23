@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b466a69`](https://github.com/sase-org/sase/commit/b466a6996bfbdfc3fd95d45e941eded9e3cf76ba) | chore: update project lifecycle docs | 2026-06-02 11:34:11 UTC |
+| sase | [`b466a69`](https://github.com/sase-org/sase/commit/b466a6996bfbdfc3fd95d45e941eded9e3cf76ba) | chore: update project lifecycle docs | 2026-06-02 07:34:11 EDT |
 
 ## Neighbors
 

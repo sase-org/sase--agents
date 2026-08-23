@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2464be5`](https://github.com/sase-org/sase/commit/2464be5462bd99580d0a91b2802abea3560e9064) | feat(agents): publish owner-sharded v2 hood snapshots (sase-8v.4) | 2026-07-23 21:54:50 UTC |
+| sase | [`2464be5`](https://github.com/sase-org/sase/commit/2464be5462bd99580d0a91b2802abea3560e9064) | feat(agents): publish owner-sharded v2 hood snapshots (sase-8v.4) | 2026-07-23 17:54:50 EDT |
 
 ## Neighbors
 

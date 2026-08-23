@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ef467af`](https://github.com/sase-org/sase/commit/ef467af583d4d2c3a7ea41a78999cb3a02656030) | build(deps): require sase-core-rs 0.17.11 | 2026-08-02 14:56:51 UTC |
+| sase | [`ef467af`](https://github.com/sase-org/sase/commit/ef467af583d4d2c3a7ea41a78999cb3a02656030) | build(deps): require sase-core-rs 0.17.11 | 2026-08-02 10:56:51 EDT |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2d87ba5`](https://github.com/sase-org/sase/commit/2d87ba54442343070b2b84087f50c017b87699a0) | fix(doctor): de-hardcode shipped model default in phase\_worker migration warning | 2026-08-03 19:09:51 UTC |
+| sase | [`2d87ba5`](https://github.com/sase-org/sase/commit/2d87ba54442343070b2b84087f50c017b87699a0) | fix(doctor): de-hardcode shipped model default in phase\_worker migration warning | 2026-08-03 15:09:51 EDT |
 
 ## Neighbors
 

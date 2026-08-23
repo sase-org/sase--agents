@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`47237dc`](https://github.com/sase-org/sase/commit/47237dcc1874e8849ae12a857f9f6d073a119bc8) | chore: Add SDD prompt and plan for complete\_sase\_52\_alt\_directive\_predicate (sase-52) | 2026-06-20 21:08:11 UTC |
+| sase | [`47237dc`](https://github.com/sase-org/sase/commit/47237dcc1874e8849ae12a857f9f6d073a119bc8) | chore: Add SDD prompt and plan for complete\_sase\_52\_alt\_directive\_predicate (sase-52) | 2026-06-20 17:08:11 EDT |
 
 ## Neighbors
 

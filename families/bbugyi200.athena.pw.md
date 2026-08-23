@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`e0d2476`](https://github.com/sase-org/sase/commit/e0d2476f1d3bbe665b52f80858f138c4485494c0) | Update built-in model aliases for Claude and Codex catalog | 2026-07-31 11:01:24 UTC |
+| code | sase | [`e0d2476`](https://github.com/sase-org/sase/commit/e0d2476f1d3bbe665b52f80858f138c4485494c0) | Update built-in model aliases for Claude and Codex catalog | 2026-07-31 07:01:24 EDT |
 
 ## Neighbors
 

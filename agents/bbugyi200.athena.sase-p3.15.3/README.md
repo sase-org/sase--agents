@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`155ba10`](https://github.com/sase-org/sase/commit/155ba102bb8638f291377d6c8f39c89a64155baf) | feat(plugins): pin sase-research-artifacts\>=0.2.0 and drop git fallback | 2026-08-18 23:10:38 UTC |
+| sase | [`155ba10`](https://github.com/sase-org/sase/commit/155ba102bb8638f291377d6c8f39c89a64155baf) | feat(plugins): pin sase-research-artifacts\>=0.2.0 and drop git fallback | 2026-08-18 19:10:38 EDT |
 
 ## Neighbors
 

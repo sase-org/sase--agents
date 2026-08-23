@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`4866ece`](https://github.com/sase-org/sase/commit/4866ece4a6dca7bc148f10323b5ce418f145729d) | fix(sdd): project canonical plan header links | 2026-07-30 14:10:49 UTC |
+| code | sase | [`4866ece`](https://github.com/sase-org/sase/commit/4866ece4a6dca7bc148f10323b5ce418f145729d) | fix(sdd): project canonical plan header links | 2026-07-30 10:10:49 EDT |

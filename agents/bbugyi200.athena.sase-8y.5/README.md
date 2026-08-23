@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bd7ad46`](https://github.com/sase-org/sase/commit/bd7ad46a43a2c894aec15d319ec069a1ae25c451) | feat(beads): reconcile stale pre-launch claims (sase-8y.5) | 2026-07-24 21:40:57 UTC |
+| sase | [`bd7ad46`](https://github.com/sase-org/sase/commit/bd7ad46a43a2c894aec15d319ec069a1ae25c451) | feat(beads): reconcile stale pre-launch claims (sase-8y.5) | 2026-07-24 17:40:57 EDT |
 
 ## Neighbors
 

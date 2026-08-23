@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2e856f4`](https://github.com/sase-org/sase/commit/2e856f413866047ec53a09e931cafab3f2b4eeb7) | chore: Add SDD prompt and plan for plan\_search | 2026-06-19 01:29:54 UTC |
-| sase | [`0526242`](https://github.com/sase-org/sase/commit/05262429d2c90259234968edf9a19d1763783b30) | chore: create plan search epic beads | 2026-06-19 01:38:41 UTC |
+| sase | [`2e856f4`](https://github.com/sase-org/sase/commit/2e856f413866047ec53a09e931cafab3f2b4eeb7) | chore: Add SDD prompt and plan for plan\_search | 2026-06-18 21:29:54 EDT |
+| sase | [`0526242`](https://github.com/sase-org/sase/commit/05262429d2c90259234968edf9a19d1763783b30) | chore: create plan search epic beads | 2026-06-18 21:38:41 EDT |
 
 ## Neighbors
 

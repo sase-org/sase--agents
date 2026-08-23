@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2ce7483`](https://github.com/sase-org/sase/commit/2ce7483f2581011148f3d9717a492e55dcec2a31) | refactor(ace): split directive completion helpers | 2026-08-22 01:16:57 UTC |
+| sase | [`2ce7483`](https://github.com/sase-org/sase/commit/2ce7483f2581011148f3d9717a492e55dcec2a31) | refactor(ace): split directive completion helpers | 2026-08-21 21:16:57 EDT |
 
 ## Neighbors
 

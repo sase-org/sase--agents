@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4950f06`](https://github.com/sase-org/sase/commit/4950f060c8d2919ab9b21499adbba0e6e0570ea1) | test(tui): refresh footer and help goldens for the ,L leader row | 2026-08-19 18:46:59 UTC |
+| sase | [`4950f06`](https://github.com/sase-org/sase/commit/4950f060c8d2919ab9b21499adbba0e6e0570ea1) | test(tui): refresh footer and help goldens for the ,L leader row | 2026-08-19 14:46:59 EDT |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`317b83e`](https://github.com/sase-org/sase/commit/317b83e72b1d5780ac9474218af9bfea60c30f39) | feat(ace): arm numbered-view selection via apostrophe on the Statistics tab | 2026-08-07 15:11:26 UTC |
+| sase | [`317b83e`](https://github.com/sase-org/sase/commit/317b83e72b1d5780ac9474218af9bfea60c30f39) | feat(ace): arm numbered-view selection via apostrophe on the Statistics tab | 2026-08-07 11:11:26 EDT |
 
 ## Neighbors
 

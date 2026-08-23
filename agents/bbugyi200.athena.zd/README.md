@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`18f7e22`](https://github.com/sase-org/sase/commit/18f7e22de0d11f22fa9994d97b45aed11ca5e0c8) | fix(ace): drop the monitor command from agent tree rows | 2026-08-13 13:40:41 UTC |
+| sase | [`18f7e22`](https://github.com/sase-org/sase/commit/18f7e22de0d11f22fa9994d97b45aed11ca5e0c8) | fix(ace): drop the monitor command from agent tree rows | 2026-08-13 09:40:41 EDT |

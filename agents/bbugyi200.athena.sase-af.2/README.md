@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bd630ec`](https://github.com/sase-org/sase/commit/bd630ec7316770881d33fb16b8b822e9a2a25948) | feat(axe): gate lumberjack launches by runner capacity (sase-af.2) | 2026-07-28 13:36:16 UTC |
+| sase | [`bd630ec`](https://github.com/sase-org/sase/commit/bd630ec7316770881d33fb16b8b822e9a2a25948) | feat(axe): gate lumberjack launches by runner capacity (sase-af.2) | 2026-07-28 09:36:16 EDT |
 
 ## Neighbors
 

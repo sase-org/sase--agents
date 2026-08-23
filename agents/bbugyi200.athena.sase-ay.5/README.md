@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dc3462d`](https://github.com/sase-org/sase/commit/dc3462d484a7cccabe4173a9182cf12779f2afdd) | perf(tui): warm prompt path inventory off keystrokes | 2026-07-29 22:56:09 UTC |
+| sase | [`dc3462d`](https://github.com/sase-org/sase/commit/dc3462d484a7cccabe4173a9182cf12779f2afdd) | perf(tui): warm prompt path inventory off keystrokes | 2026-07-29 18:56:09 EDT |
 
 ## Neighbors
 

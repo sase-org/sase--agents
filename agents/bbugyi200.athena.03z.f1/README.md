@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`af5cc94`](https://github.com/sase-org/sase/commit/af5cc94c9ae02846f4c388e16c86362ab8f5cb97) | chore: Add SDD prompt and plan for zoom\_file\_panel\_access\_when\_collapsed | 2026-06-23 12:29:24 UTC |
-| sase | [`a6bfd13`](https://github.com/sase-org/sase/commit/a6bfd1322521e094e5d307802ee5bf4e37b7879b) | fix(tui): reveal zoom file panel from collapsed state | 2026-06-23 12:37:33 UTC |
+| sase | [`af5cc94`](https://github.com/sase-org/sase/commit/af5cc94c9ae02846f4c388e16c86362ab8f5cb97) | chore: Add SDD prompt and plan for zoom\_file\_panel\_access\_when\_collapsed | 2026-06-23 08:29:24 EDT |
+| sase | [`a6bfd13`](https://github.com/sase-org/sase/commit/a6bfd1322521e094e5d307802ee5bf4e37b7879b) | fix(tui): reveal zoom file panel from collapsed state | 2026-06-23 08:37:33 EDT |
 
 ## Neighbors
 

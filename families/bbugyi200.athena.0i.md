@@ -24,9 +24,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`54e5c19`](https://github.com/sase-org/sase/commit/54e5c19b245a0d54608363ba743ec3a849fb56f4) | chore: Add SDD prompt and plan for jump\_all\_scroll | 2026-06-03 01:19:04 UTC |
-| — | sase | [`9437080`](https://github.com/sase-org/sase/commit/94370802ffcb6025047069b1ed16adcc2bc1dea8) | fix: keep jump-all scroll keys from dismissing | 2026-06-03 01:25:47 UTC |
-| — | sase | [`12243a7`](https://github.com/sase-org/sase/commit/12243a78d1b7f811f952a7d08eea0b1efe297916) | chore: Add SDD prompt and plan for atomic\_rust\_dev\_update | 2026-07-06 04:04:12 UTC |
-| — | sase | [`44c9096`](https://github.com/sase-org/sase/commit/44c90960ceb99fe30e82bc16fffd690dc2a24b12) | fix: harden dev update rust repair flow | 2026-07-06 04:49:12 UTC |
-| root | sase | [`21ce93d`](https://github.com/sase-org/sase/commit/21ce93d0b29c3d92e070b74563b35dd69398788b) | chore: Add SDD prompt and plan for gh\_first\_use\_project\_display | 2026-07-07 15:57:21 UTC |
-| code | sase | [`9a30501`](https://github.com/sase-org/sase/commit/9a30501c34416b316c79b2449a90ffc20028c512) | fix: use canonical workspace refs in launches | 2026-07-07 16:07:46 UTC |
+| — | sase | [`54e5c19`](https://github.com/sase-org/sase/commit/54e5c19b245a0d54608363ba743ec3a849fb56f4) | chore: Add SDD prompt and plan for jump\_all\_scroll | 2026-06-02 21:19:04 EDT |
+| — | sase | [`9437080`](https://github.com/sase-org/sase/commit/94370802ffcb6025047069b1ed16adcc2bc1dea8) | fix: keep jump-all scroll keys from dismissing | 2026-06-02 21:25:47 EDT |
+| — | sase | [`12243a7`](https://github.com/sase-org/sase/commit/12243a78d1b7f811f952a7d08eea0b1efe297916) | chore: Add SDD prompt and plan for atomic\_rust\_dev\_update | 2026-07-06 00:04:12 EDT |
+| — | sase | [`44c9096`](https://github.com/sase-org/sase/commit/44c90960ceb99fe30e82bc16fffd690dc2a24b12) | fix: harden dev update rust repair flow | 2026-07-06 00:49:12 EDT |
+| root | sase | [`21ce93d`](https://github.com/sase-org/sase/commit/21ce93d0b29c3d92e070b74563b35dd69398788b) | chore: Add SDD prompt and plan for gh\_first\_use\_project\_display | 2026-07-07 11:57:21 EDT |
+| code | sase | [`9a30501`](https://github.com/sase-org/sase/commit/9a30501c34416b316c79b2449a90ffc20028c512) | fix: use canonical workspace refs in launches | 2026-07-07 12:07:46 EDT |

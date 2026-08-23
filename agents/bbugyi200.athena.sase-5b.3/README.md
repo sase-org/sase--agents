@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`394f41b`](https://github.com/sase-org/sase/commit/394f41b878b8010ee69b68b8f2caf37ee6d198c2) | feat(memory): provider files become full copies of \`AGENTS.md\` (sase-5b.3) | 2026-06-26 21:09:42 UTC |
+| sase | [`394f41b`](https://github.com/sase-org/sase/commit/394f41b878b8010ee69b68b8f2caf37ee6d198c2) | feat(memory): provider files become full copies of \`AGENTS.md\` (sase-5b.3) | 2026-06-26 17:09:42 EDT |
 
 ## Neighbors
 

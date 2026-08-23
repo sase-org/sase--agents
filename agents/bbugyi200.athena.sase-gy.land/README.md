@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d364936`](https://github.com/sase-org/sase/commit/d364936e2464e454273a625175a5be453755850b) | docs(config): correct markdown.print\_width default to 88 in configuration.md | 2026-08-07 16:26:56 UTC |
+| sase | [`d364936`](https://github.com/sase-org/sase/commit/d364936e2464e454273a625175a5be453755850b) | docs(config): correct markdown.print\_width default to 88 in configuration.md | 2026-08-07 12:26:56 EDT |
 
 ## Neighbors
 

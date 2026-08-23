@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6b756d3`](https://github.com/sase-org/sase/commit/6b756d36aed7a94dd162658b5a92a0a215ff9af0) | chore: Add SDD prompt and plan for models\_panel | 2026-06-30 17:59:48 UTC |
-| sase | [`da9cff6`](https://github.com/sase-org/sase/commit/da9cff6d454e5b82b9ca969775a8caaa489f70c2) | chore(sdd): create models panel epic beads | 2026-06-30 18:09:55 UTC |
+| sase | [`6b756d3`](https://github.com/sase-org/sase/commit/6b756d36aed7a94dd162658b5a92a0a215ff9af0) | chore: Add SDD prompt and plan for models\_panel | 2026-06-30 13:59:48 EDT |
+| sase | [`da9cff6`](https://github.com/sase-org/sase/commit/da9cff6d454e5b82b9ca969775a8caaa489f70c2) | chore(sdd): create models panel epic beads | 2026-06-30 14:09:55 EDT |

@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`5839250`](https://github.com/sase-org/sase/commit/58392509657b46b69db09190290438e8b50bdab0) | feat(ace): highlight TODO annotations in prompts | 2026-07-22 12:07:11 UTC |
+| code | sase | [`5839250`](https://github.com/sase-org/sase/commit/58392509657b46b69db09190290438e8b50bdab0) | feat(ace): highlight TODO annotations in prompts | 2026-07-22 08:07:11 EDT |

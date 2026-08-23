@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0ccd7f8`](https://github.com/sase-org/sase/commit/0ccd7f84473191551aba0091b8ca9c401053d579) | feat(ace): give the snippet pane its own theme-safe visual language | 2026-08-10 21:53:29 UTC |
+| sase | [`0ccd7f8`](https://github.com/sase-org/sase/commit/0ccd7f84473191551aba0091b8ca9c401053d579) | feat(ace): give the snippet pane its own theme-safe visual language | 2026-08-10 17:53:29 EDT |
 
 ## Neighbors
 

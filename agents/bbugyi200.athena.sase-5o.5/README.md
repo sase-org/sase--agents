@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`46e7869`](https://github.com/sase-org/sase/commit/46e7869e69fabb412a093f0a2c7c27461131d105) | fix(ace): preserve retry state during workflow dedup (sase-5o.5) | 2026-07-10 22:34:20 UTC |
+| sase | [`46e7869`](https://github.com/sase-org/sase/commit/46e7869e69fabb412a093f0a2c7c27461131d105) | fix(ace): preserve retry state during workflow dedup (sase-5o.5) | 2026-07-10 18:34:20 EDT |
 
 ## Neighbors
 

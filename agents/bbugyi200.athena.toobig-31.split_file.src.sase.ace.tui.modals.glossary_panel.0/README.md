@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bf7e2bc`](https://github.com/sase-org/sase/commit/bf7e2bca20faeeaa7df2a5d69dd53e143a2148e0) | refactor(ace): split the glossary panel modal into focused modules | 2026-08-18 10:37:58 UTC |
+| sase | [`bf7e2bc`](https://github.com/sase-org/sase/commit/bf7e2bca20faeeaa7df2a5d69dd53e143a2148e0) | refactor(ace): split the glossary panel modal into focused modules | 2026-08-18 06:37:58 EDT |
 
 ## Neighbors
 

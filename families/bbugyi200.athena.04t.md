@@ -24,9 +24,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`f2f80b2`](https://github.com/sase-org/sase/commit/f2f80b29312ec04c1e76ee1991fecd170ff35ec3) | chore: Add SDD prompt and plan for prompt\_number\_increment | 2026-06-23 22:25:22 UTC |
-| — | sase | [`9e19bdb`](https://github.com/sase-org/sase/commit/9e19bdb286296530d46d51563eb4942a6b9aded1) | feat(ace): support vim number increment commands | 2026-06-23 22:37:20 UTC |
-| code | sase | [`0229e38`](https://github.com/sase-org/sase/commit/0229e3881d4edf1b678832796f99cdfb966126c6) | fix(ace-tui): correct inaccurate Statistics tab data and metric definitions | 2026-08-17 15:29:32 UTC |
+| — | sase | [`f2f80b2`](https://github.com/sase-org/sase/commit/f2f80b29312ec04c1e76ee1991fecd170ff35ec3) | chore: Add SDD prompt and plan for prompt\_number\_increment | 2026-06-23 18:25:22 EDT |
+| — | sase | [`9e19bdb`](https://github.com/sase-org/sase/commit/9e19bdb286296530d46d51563eb4942a6b9aded1) | feat(ace): support vim number increment commands | 2026-06-23 18:37:20 EDT |
+| code | sase | [`0229e38`](https://github.com/sase-org/sase/commit/0229e3881d4edf1b678832796f99cdfb966126c6) | fix(ace-tui): correct inaccurate Statistics tab data and metric definitions | 2026-08-17 11:29:32 EDT |
 
 ## Neighbors
 

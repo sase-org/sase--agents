@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`88a7de4`](https://github.com/sase-org/sase/commit/88a7de4af1be4f596cca283c9f61d78350ffb212) | feat(llm): add interactive CLI descriptors and vendor metadata | 2026-08-19 16:57:18 UTC |
+| sase | [`88a7de4`](https://github.com/sase-org/sase/commit/88a7de4af1be4f596cca283c9f61d78350ffb212) | feat(llm): add interactive CLI descriptors and vendor metadata | 2026-08-19 12:57:18 EDT |
 
 ## Neighbors
 

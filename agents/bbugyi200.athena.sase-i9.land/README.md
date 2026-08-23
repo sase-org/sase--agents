@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8658abe`](https://github.com/sase-org/sase/commit/8658abee6a733ddadd7b4b5bb01225ec66c8300d) | fix(dev-update): bound prebuild commands so a wedged build cannot pin the lock | 2026-08-09 22:11:08 UTC |
+| sase | [`8658abe`](https://github.com/sase-org/sase/commit/8658abee6a733ddadd7b4b5bb01225ec66c8300d) | fix(dev-update): bound prebuild commands so a wedged build cannot pin the lock | 2026-08-09 18:11:08 EDT |
 
 ## Neighbors
 

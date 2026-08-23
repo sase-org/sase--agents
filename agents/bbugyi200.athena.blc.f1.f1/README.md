@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`471a885`](https://github.com/sase-org/sase/commit/471a88507a2a7832f4428f053595e56edf53000d) | chore: add memory system infographic | 2026-05-27 21:04:35 UTC |
+| sase | [`471a885`](https://github.com/sase-org/sase/commit/471a88507a2a7832f4428f053595e56edf53000d) | chore: add memory system infographic | 2026-05-27 17:04:35 EDT |
 
 ## Neighbors
 

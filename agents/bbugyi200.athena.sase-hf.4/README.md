@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5f0da4b`](https://github.com/sase-org/sase/commit/5f0da4b331d7b72587fa8090954899a11fb5acff) | docs(xprompt): document explicit #memory/\<stem\> inclusion and regenerate memory outputs | 2026-08-08 14:30:58 UTC |
+| sase | [`5f0da4b`](https://github.com/sase-org/sase/commit/5f0da4b331d7b72587fa8090954899a11fb5acff) | docs(xprompt): document explicit #memory/\<stem\> inclusion and regenerate memory outputs | 2026-08-08 10:30:58 EDT |
 
 ## Neighbors
 

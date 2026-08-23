@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a2cbd98`](https://github.com/sase-org/sase/commit/a2cbd9823967a1c5b5ecdf5e41aebb7ee9a8dc2c) | refactor(ace): split prompt input bar actions | 2026-08-22 00:31:44 UTC |
+| sase | [`a2cbd98`](https://github.com/sase-org/sase/commit/a2cbd9823967a1c5b5ecdf5e41aebb7ee9a8dc2c) | refactor(ace): split prompt input bar actions | 2026-08-21 20:31:44 EDT |
 
 ## Neighbors
 

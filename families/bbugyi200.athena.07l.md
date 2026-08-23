@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`cdf58ac`](https://github.com/sase-org/sase/commit/cdf58ac00bf2d7eb469b91ba5ed620f991c20597) | feat(ace): page glossary-read reports from GLOSSARY hints | 2026-08-19 14:13:22 UTC |
+| code | sase | [`cdf58ac`](https://github.com/sase-org/sase/commit/cdf58ac00bf2d7eb469b91ba5ed620f991c20597) | feat(ace): page glossary-read reports from GLOSSARY hints | 2026-08-19 10:13:22 EDT |

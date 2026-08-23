@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9af9e1c`](https://github.com/sase-org/sase/commit/9af9e1c3fc6e85abd2b361f121721e35f9676160) | feat(finalizers): seal and authenticate the host-owned execution plan | 2026-08-21 21:21:24 UTC |
+| sase | [`9af9e1c`](https://github.com/sase-org/sase/commit/9af9e1c3fc6e85abd2b361f121721e35f9676160) | feat(finalizers): seal and authenticate the host-owned execution plan | 2026-08-21 17:21:24 EDT |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eadc738`](https://github.com/sase-org/sase/commit/eadc7389ccee0b7ab73cb803bf6644216ecdaa57) | feat(editor): include bounded bead rows in helper-bridge agent-catalog | 2026-08-20 19:22:36 UTC |
+| sase | [`eadc738`](https://github.com/sase-org/sase/commit/eadc7389ccee0b7ab73cb803bf6644216ecdaa57) | feat(editor): include bounded bead rows in helper-bridge agent-catalog | 2026-08-20 15:22:36 EDT |
 
 ## Neighbors
 

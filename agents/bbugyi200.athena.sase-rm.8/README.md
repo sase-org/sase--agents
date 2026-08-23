@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`671d27c`](https://github.com/sase-org/sase/commit/671d27c899d75bb610b0eae5648e2faf2db1b312) | fix(ace): stabilize responsive pane layout | 2026-08-21 09:35:06 UTC |
+| sase | [`671d27c`](https://github.com/sase-org/sase/commit/671d27c899d75bb610b0eae5648e2faf2db1b312) | fix(ace): stabilize responsive pane layout | 2026-08-21 05:35:06 EDT |
 
 ## Neighbors
 

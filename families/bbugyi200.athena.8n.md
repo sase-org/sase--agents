@@ -27,4 +27,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`05ef506`](https://github.com/sase-org/sase/commit/05ef5069984b6a42023bb565411e58cb677c4934) | fix(tui): preserve agent names in bulk kill-and-edit | 2026-07-14 15:38:51 UTC |
+| code | sase | [`05ef506`](https://github.com/sase-org/sase/commit/05ef5069984b6a42023bb565411e58cb677c4934) | fix(tui): preserve agent names in bulk kill-and-edit | 2026-07-14 11:38:51 EDT |

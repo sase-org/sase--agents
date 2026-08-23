@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a2357e2`](https://github.com/sase-org/sase/commit/a2357e2140018fbce86afc4caae82ab0b37acc24) | feat(tui): drop the redundant Readiness row from Beads detail | 2026-08-18 19:03:04 UTC |
+| sase | [`a2357e2`](https://github.com/sase-org/sase/commit/a2357e2140018fbce86afc4caae82ab0b37acc24) | feat(tui): drop the redundant Readiness row from Beads detail | 2026-08-18 15:03:04 EDT |

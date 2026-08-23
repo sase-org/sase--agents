@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0e80b9f`](https://github.com/sase-org/sase/commit/0e80b9f96a6b4c599be747818e39894ff4319ef5) | fix(ace): omit model alias self references from completion | 2026-08-21 09:39:34 UTC |
+| sase | [`0e80b9f`](https://github.com/sase-org/sase/commit/0e80b9f96a6b4c599be747818e39894ff4319ef5) | fix(ace): omit model alias self references from completion | 2026-08-21 05:39:34 EDT |
 
 ## Neighbors
 

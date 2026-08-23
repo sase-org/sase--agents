@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b8b3a69`](https://github.com/sase-org/sase/commit/b8b3a69a74cf6acf2efae8ff5f2c75139a961097) | fix(agent-launch): preserve rich failure diagnostics | 2026-08-21 20:12:55 UTC |
+| sase | [`b8b3a69`](https://github.com/sase-org/sase/commit/b8b3a69a74cf6acf2efae8ff5f2c75139a961097) | fix(agent-launch): preserve rich failure diagnostics | 2026-08-21 16:12:55 EDT |

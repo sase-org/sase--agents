@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`152268b`](https://github.com/sase-org/sase/commit/152268b597d070c653fe022e88c9370352e07a08) | feat(procs): route submits through one typed supervisor service | 2026-08-15 11:37:40 UTC |
+| sase | [`152268b`](https://github.com/sase-org/sase/commit/152268b597d070c653fe022e88c9370352e07a08) | feat(procs): route submits through one typed supervisor service | 2026-08-15 07:37:40 EDT |
 
 ## Neighbors
 

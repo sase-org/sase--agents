@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`37a3545`](https://github.com/sase-org/sase/commit/37a3545cd3ae448a23e5bd4c3ec456fc43f1d580) | refactor(bead): split query rendering helpers | 2026-08-12 20:55:37 UTC |
+| sase | [`37a3545`](https://github.com/sase-org/sase/commit/37a3545cd3ae448a23e5bd4c3ec456fc43f1d580) | refactor(bead): split query rendering helpers | 2026-08-12 16:55:37 EDT |
 
 ## Neighbors
 

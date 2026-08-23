@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2c1b875`](https://github.com/sase-org/sase/commit/2c1b8750a9e84bc0296075e8075cde4112fa57a4) | perf(ace): count all global runners from one cached snapshot (sase-k3) | 2026-08-12 19:21:02 UTC |
+| sase | [`2c1b875`](https://github.com/sase-org/sase/commit/2c1b8750a9e84bc0296075e8075cde4112fa57a4) | perf(ace): count all global runners from one cached snapshot (sase-k3) | 2026-08-12 15:21:02 EDT |
 
 ## Neighbors
 

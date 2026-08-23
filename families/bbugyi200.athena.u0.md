@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`48a34b4`](https://github.com/sase-org/sase/commit/48a34b4a11b9dd3553a3e0bd0fa4545ccddb10f6) | feat(agents-sync): link published agent pages back to their bead pages | 2026-08-06 13:58:44 UTC |
+| code | sase | [`48a34b4`](https://github.com/sase-org/sase/commit/48a34b4a11b9dd3553a3e0bd0fa4545ccddb10f6) | feat(agents-sync): link published agent pages back to their bead pages | 2026-08-06 09:58:44 EDT |

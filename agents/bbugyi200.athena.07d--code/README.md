@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5091704`](https://github.com/sase-org/sase/commit/509170484e2c8b4ff2ea84595a55e769127ba552) | feat(bead): raise flake task type's triage bar to +3 | 2026-08-19 00:59:52 UTC |
+| sase | [`5091704`](https://github.com/sase-org/sase/commit/509170484e2c8b4ff2ea84595a55e769127ba552) | feat(bead): raise flake task type's triage bar to +3 | 2026-08-18 20:59:52 EDT |

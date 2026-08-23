@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7ae8298`](https://github.com/sase-org/sase/commit/7ae829839047fe2c0c603358e818268656ca1240) | refactor(integrations): split agent list entry module | 2026-07-19 10:16:49 UTC |
+| sase | [`7ae8298`](https://github.com/sase-org/sase/commit/7ae829839047fe2c0c603358e818268656ca1240) | refactor(integrations): split agent list entry module | 2026-07-19 06:16:49 EDT |
 
 ## Neighbors
 

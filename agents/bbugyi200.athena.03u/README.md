@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bcbcc4c`](https://github.com/sase-org/sase/commit/bcbcc4ce98577611e29d92074afc9658a208245b) | chore: Add SDD prompt and plan for agy\_provider\_test\_isolation | 2026-06-23 10:53:05 UTC |
-| sase | [`58ce374`](https://github.com/sase-org/sase/commit/58ce3745b447fd2fd1534ffc70ba311c53c8a90c) | test(agy): isolate command-construction test from workspace env vars | 2026-06-23 11:00:10 UTC |
+| sase | [`bcbcc4c`](https://github.com/sase-org/sase/commit/bcbcc4ce98577611e29d92074afc9658a208245b) | chore: Add SDD prompt and plan for agy\_provider\_test\_isolation | 2026-06-23 06:53:05 EDT |
+| sase | [`58ce374`](https://github.com/sase-org/sase/commit/58ce3745b447fd2fd1534ffc70ba311c53c8a90c) | test(agy): isolate command-construction test from workspace env vars | 2026-06-23 07:00:10 EDT |

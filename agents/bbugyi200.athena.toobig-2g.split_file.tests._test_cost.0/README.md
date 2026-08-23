@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`802842e`](https://github.com/sase-org/sase/commit/802842edbed3c8392ca1eef42b413787ac16b8e2) | test: split cost attribution helpers by responsibility | 2026-08-11 17:16:00 UTC |
+| sase | [`802842e`](https://github.com/sase-org/sase/commit/802842edbed3c8392ca1eef42b413787ac16b8e2) | test: split cost attribution helpers by responsibility | 2026-08-11 13:16:00 EDT |

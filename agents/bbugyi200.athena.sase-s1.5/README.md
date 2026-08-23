@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c718da9`](https://github.com/sase-org/sase/commit/c718da9119cf8dccf4a2719a8ce6717991f1ebd1) | fix(release): normalize canonical PyPI lock sources | 2026-08-22 13:22:48 UTC |
+| sase | [`c718da9`](https://github.com/sase-org/sase/commit/c718da9119cf8dccf4a2719a8ce6717991f1ebd1) | fix(release): normalize canonical PyPI lock sources | 2026-08-22 09:22:48 EDT |
 
 ## Neighbors
 

@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`40a63e5`](https://github.com/sase-org/sase/commit/40a63e5dcc52b9d1fc8cb7f858f9b102ffbb8c6a) | feat(llm-provider): ship claude/codex/grok ordered fallback for @smartest | 2026-08-14 17:24:35 UTC |
+| code | sase | [`40a63e5`](https://github.com/sase-org/sase/commit/40a63e5dcc52b9d1fc8cb7f858f9b102ffbb8c6a) | feat(llm-provider): ship claude/codex/grok ordered fallback for @smartest | 2026-08-14 13:24:35 EDT |
 
 ## Neighbors
 

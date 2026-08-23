@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`02bd008`](https://github.com/sase-org/sase/commit/02bd00833f240fad7b887c7146e9d5de9458cc8e) | test(var): split test\_var\_get into focused modules | 2026-08-16 07:22:05 UTC |
+| sase | [`02bd008`](https://github.com/sase-org/sase/commit/02bd00833f240fad7b887c7146e9d5de9458cc8e) | test(var): split test\_var\_get into focused modules | 2026-08-16 03:22:05 EDT |
 
 ## Neighbors
 

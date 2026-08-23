@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`3c3909c`](https://github.com/sase-org/sase/commit/3c3909c314d2c501ba58fe14ebf1765f70195460) | feat(tui): add inline Patch filter bar | 2026-08-16 04:54:18 UTC |
+| — | sase | [`3c3909c`](https://github.com/sase-org/sase/commit/3c3909c314d2c501ba58fe14ebf1765f70195460) | feat(tui): add inline Patch filter bar | 2026-08-16 00:54:18 EDT |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`75e4470`](https://github.com/sase-org/sase/commit/75e4470f2eea6e0d38e64987d9f977c7bee9e33d) | fix: refresh upstream refs before fast-forward merges (#205) | 2026-07-06 14:31:52 UTC |
+| sase | [`75e4470`](https://github.com/sase-org/sase/commit/75e4470f2eea6e0d38e64987d9f977c7bee9e33d) | fix: refresh upstream refs before fast-forward merges (#205) | 2026-07-06 10:31:52 EDT |
 
 ## Neighbors
 

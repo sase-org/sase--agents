@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3345cba`](https://github.com/sase-org/sase/commit/3345cba4747c224994ec4ac1f19dfd337c98a990) | test(axe): split runner lifecycle tests into focused modules | 2026-08-19 06:34:43 UTC |
+| sase | [`3345cba`](https://github.com/sase-org/sase/commit/3345cba4747c224994ec4ac1f19dfd337c98a990) | test(axe): split runner lifecycle tests into focused modules | 2026-08-19 02:34:43 EDT |
 
 ## Neighbors
 

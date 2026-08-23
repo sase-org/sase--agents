@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ac2d5b2`](https://github.com/sase-org/sase/commit/ac2d5b22cf2d4cc0c0c25f5accb039d9118cee79) | feat(artifact): reclaim stored bytes from durable VCS | 2026-07-30 17:46:01 UTC |
+| sase | [`ac2d5b2`](https://github.com/sase-org/sase/commit/ac2d5b22cf2d4cc0c0c25f5accb039d9118cee79) | feat(artifact): reclaim stored bytes from durable VCS | 2026-07-30 13:46:01 EDT |
 
 ## Neighbors
 

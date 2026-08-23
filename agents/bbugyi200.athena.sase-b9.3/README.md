@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a4880ce`](https://github.com/sase-org/sase/commit/a4880ce321df4a9afdf1a2be5ce86eed8a5860fe) | feat(artifact): expose consumption read surfaces | 2026-07-30 16:01:51 UTC |
+| sase | [`a4880ce`](https://github.com/sase-org/sase/commit/a4880ce321df4a9afdf1a2be5ce86eed8a5860fe) | feat(artifact): expose consumption read surfaces | 2026-07-30 12:01:51 EDT |
 
 ## Neighbors
 

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1013e1c`](https://github.com/sase-org/sase/commit/1013e1cf144c6ab8a6f9205ac540cea31c4d252f) | ref: split chop runner implementation | 2026-05-28 18:45:42 UTC |
+| sase | [`1013e1c`](https://github.com/sase-org/sase/commit/1013e1cf144c6ab8a6f9205ac540cea31c4d252f) | ref: split chop runner implementation | 2026-05-28 14:45:42 EDT |
 
 ## Neighbors
 

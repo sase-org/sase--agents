@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`292c741`](https://github.com/sase-org/sase/commit/292c7416ca280ddcc1dfd1ff972f4a74e6ad506d) | chore: Add SDD prompt and plan for amd\_init\_git\_commit | 2026-06-19 15:28:57 UTC |
-| sase | [`8aa4017`](https://github.com/sase-org/sase/commit/8aa401739292cc569e9cb211d97b4f755dba3230) | feat(amd): commit AMD-managed changes during init by default | 2026-06-19 15:46:22 UTC |
+| sase | [`292c741`](https://github.com/sase-org/sase/commit/292c7416ca280ddcc1dfd1ff972f4a74e6ad506d) | chore: Add SDD prompt and plan for amd\_init\_git\_commit | 2026-06-19 11:28:57 EDT |
+| sase | [`8aa4017`](https://github.com/sase-org/sase/commit/8aa401739292cc569e9cb211d97b4f755dba3230) | feat(amd): commit AMD-managed changes during init by default | 2026-06-19 11:46:22 EDT |
 
 ## Neighbors
 

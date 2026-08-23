@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`408b789`](https://github.com/sase-org/sase/commit/408b7894952c7c8504915df22e6f1ac68cae1048) | feat(beads): manage claims across runner lifecycle (sase-8y.4) | 2026-07-24 21:13:20 UTC |
+| sase | [`408b789`](https://github.com/sase-org/sase/commit/408b7894952c7c8504915df22e6f1ac68cae1048) | feat(beads): manage claims across runner lifecycle (sase-8y.4) | 2026-07-24 17:13:20 EDT |
 
 ## Neighbors
 

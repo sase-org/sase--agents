@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7b7caa7`](https://github.com/sase-org/sase/commit/7b7caa77e8f95e0161ec3eef580c499244b4a509) | test: split agent grouping mode tree tests | 2026-07-19 11:49:36 UTC |
+| sase | [`7b7caa7`](https://github.com/sase-org/sase/commit/7b7caa77e8f95e0161ec3eef580c499244b4a509) | test: split agent grouping mode tree tests | 2026-07-19 07:49:36 EDT |
 
 ## Neighbors
 

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ae87b18`](https://github.com/sase-org/sase/commit/ae87b1849141374e755429ca46ae9467cc936841) | fix(llm): auto-disable Claude on weekly-limit errors | 2026-08-19 21:35:37 UTC |
+| sase | [`ae87b18`](https://github.com/sase-org/sase/commit/ae87b1849141374e755429ca46ae9467cc936841) | fix(llm): auto-disable Claude on weekly-limit errors | 2026-08-19 17:35:37 EDT |

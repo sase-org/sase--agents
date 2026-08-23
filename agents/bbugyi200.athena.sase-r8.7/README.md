@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`69802b3`](https://github.com/sase-org/sase/commit/69802b3267b50bb761c36d752af30fb2296eb879) | feat(ace): expose artifact link relations in panes | 2026-08-20 11:46:33 UTC |
+| sase | [`69802b3`](https://github.com/sase-org/sase/commit/69802b3267b50bb761c36d752af30fb2296eb879) | feat(ace): expose artifact link relations in panes | 2026-08-20 07:46:33 EDT |
 
 ## Neighbors
 

@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`cca9d50`](https://github.com/sase-org/sase/commit/cca9d500cd88751180efd0d6f47c0ab9b73e7902) | feat(tui): add commit hint viewer | 2026-07-09 17:22:24 UTC |
+| code | sase | [`cca9d50`](https://github.com/sase-org/sase/commit/cca9d500cd88751180efd0d6f47c0ab9b73e7902) | feat(tui): add commit hint viewer | 2026-07-09 13:22:24 EDT |
 
 ## Neighbors
 

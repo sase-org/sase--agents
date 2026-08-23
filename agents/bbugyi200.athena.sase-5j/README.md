@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bb46c64`](https://github.com/sase-org/sase/commit/bb46c640baa116f6e8732cfd7ec4718dfd45cc32) | chore: Add SDD prompt and plan for sase\_5j\_finish | 2026-07-08 06:47:11 UTC |
+| sase | [`bb46c64`](https://github.com/sase-org/sase/commit/bb46c640baa116f6e8732cfd7ec4718dfd45cc32) | chore: Add SDD prompt and plan for sase\_5j\_finish | 2026-07-08 02:47:11 EDT |
 
 ## Neighbors
 

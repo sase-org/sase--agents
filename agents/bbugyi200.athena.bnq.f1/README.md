@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5c26336`](https://github.com/sase-org/sase/commit/5c26336e891f2bb7dce165ce1d8ec988f11738d5) | chore: Add SDD prompt and plan for tui\_diff\_workspace\_resolution | 2026-05-28 19:02:22 UTC |
-| sase | [`b795954`](https://github.com/sase-org/sase/commit/b79595415ab23e326ef7ce9ef2283af3e81ac5ab) | fix: avoid materializing workspaces for live diffs | 2026-05-28 19:11:46 UTC |
+| sase | [`5c26336`](https://github.com/sase-org/sase/commit/5c26336e891f2bb7dce165ce1d8ec988f11738d5) | chore: Add SDD prompt and plan for tui\_diff\_workspace\_resolution | 2026-05-28 15:02:22 EDT |
+| sase | [`b795954`](https://github.com/sase-org/sase/commit/b79595415ab23e326ef7ce9ef2283af3e81ac5ab) | fix: avoid materializing workspaces for live diffs | 2026-05-28 15:11:46 EDT |

@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`da5e28f`](https://github.com/sase-org/sase/commit/da5e28f38430db3026033eb8db27f97d0af2b2c4) | chore: close sase-48 epic | 2026-05-29 00:39:58 UTC |
+| sase | [`da5e28f`](https://github.com/sase-org/sase/commit/da5e28f38430db3026033eb8db27f97d0af2b2c4) | chore: close sase-48 epic | 2026-05-28 20:39:58 EDT |
 
 ## Neighbors
 

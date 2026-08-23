@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`97230f1`](https://github.com/sase-org/sase/commit/97230f1a2901308ea2c28d1079d561ab00670847) | feat(identity)!: require nested owner configuration (sase-8v.2) | 2026-07-23 18:56:53 UTC |
+| code | sase | [`97230f1`](https://github.com/sase-org/sase/commit/97230f1a2901308ea2c28d1079d561ab00670847) | feat(identity)!: require nested owner configuration (sase-8v.2) | 2026-07-23 14:56:53 EDT |
 
 ## Neighbors
 

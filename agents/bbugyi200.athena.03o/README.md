@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ab989e5`](https://github.com/sase-org/sase/commit/ab989e50bf1e46d36a98974c7aac5506c54832d3) | chore: Add SDD prompt and plan for at\_keymap\_to\_plus | 2026-06-22 13:23:26 UTC |
-| sase | [`6a8a9ee`](https://github.com/sase-org/sase/commit/6a8a9ee85079653179b0d7d1a1db5c207b2bf3d2) | feat(ace)!: change custom-agent launcher keymap from @ to + | 2026-06-22 13:34:31 UTC |
+| sase | [`ab989e5`](https://github.com/sase-org/sase/commit/ab989e50bf1e46d36a98974c7aac5506c54832d3) | chore: Add SDD prompt and plan for at\_keymap\_to\_plus | 2026-06-22 09:23:26 EDT |
+| sase | [`6a8a9ee`](https://github.com/sase-org/sase/commit/6a8a9ee85079653179b0d7d1a1db5c207b2bf3d2) | feat(ace)!: change custom-agent launcher keymap from @ to + | 2026-06-22 09:34:31 EDT |
 
 ## Neighbors
 

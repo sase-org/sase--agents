@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5ec9262`](https://github.com/sase-org/sase/commit/5ec9262274d8d7a4e8793117d91807598963004e) | refactor(tui): rename tracked task runtime to procs | 2026-08-14 01:24:42 UTC |
+| sase | [`5ec9262`](https://github.com/sase-org/sase/commit/5ec9262274d8d7a4e8793117d91807598963004e) | refactor(tui): rename tracked task runtime to procs | 2026-08-13 21:24:42 EDT |
 
 ## Neighbors
 

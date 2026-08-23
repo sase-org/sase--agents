@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a30415a`](https://github.com/sase-org/sase/commit/a30415a7255b2a8ba5bad5458f3968e216e05ff4) | chore: Add SDD prompt and plan for fix\_chop\_linked\_repo\_skew | 2026-07-06 18:22:11 UTC |
+| sase | [`a30415a`](https://github.com/sase-org/sase/commit/a30415a7255b2a8ba5bad5458f3968e216e05ff4) | chore: Add SDD prompt and plan for fix\_chop\_linked\_repo\_skew | 2026-07-06 14:22:11 EDT |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d17ab16`](https://github.com/sase-org/sase/commit/d17ab16bc84d9fa035599bc0669a9e4e62cc05a8) | refactor(ace): split associated plan model | 2026-07-17 11:40:40 UTC |
+| sase | [`d17ab16`](https://github.com/sase-org/sase/commit/d17ab16bc84d9fa035599bc0669a9e4e62cc05a8) | refactor(ace): split associated plan model | 2026-07-17 07:40:40 EDT |
 
 ## Neighbors
 

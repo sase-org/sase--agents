@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2f0ff80`](https://github.com/sase-org/sase/commit/2f0ff80924960263c3a9a58777f685b40c5ac8a9) | chore: Add SDD prompt and plan for tui\_freeze\_telemetry\_1 | 2026-06-20 18:39:36 UTC |
-| sase | [`37631ae`](https://github.com/sase-org/sase/commit/37631ae8f2412b333dd6112d0b048d31ce937f2d) | fix(tui): add freeze telemetry watchdog | 2026-06-20 18:58:31 UTC |
+| sase | [`2f0ff80`](https://github.com/sase-org/sase/commit/2f0ff80924960263c3a9a58777f685b40c5ac8a9) | chore: Add SDD prompt and plan for tui\_freeze\_telemetry\_1 | 2026-06-20 14:39:36 EDT |
+| sase | [`37631ae`](https://github.com/sase-org/sase/commit/37631ae8f2412b333dd6112d0b048d31ce937f2d) | fix(tui): add freeze telemetry watchdog | 2026-06-20 14:58:31 EDT |

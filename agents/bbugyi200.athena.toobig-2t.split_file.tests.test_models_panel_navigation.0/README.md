@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`495f10b`](https://github.com/sase-org/sase/commit/495f10b71e5772bc1845697ba3c2406fe384692c) | test: split models panel navigation tests by concern | 2026-08-16 07:55:12 UTC |
+| sase | [`495f10b`](https://github.com/sase-org/sase/commit/495f10b71e5772bc1845697ba3c2406fe384692c) | test: split models panel navigation tests by concern | 2026-08-16 03:55:12 EDT |
 
 ## Neighbors
 

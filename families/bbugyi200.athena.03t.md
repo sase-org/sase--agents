@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`69cf307`](https://github.com/sase-org/sase/commit/69cf307d15205dbd9cec27c3d3f402f47a8c525f) | chore: Add SDD prompt and plan for mark\_collapsed\_agent\_groups | 2026-06-23 10:04:06 UTC |
-| — | sase | [`9a86edf`](https://github.com/sase-org/sase/commit/9a86edf1875ea0ed734cce2d114366baf5c69b4b) | feat(ace): mark collapsed agent groups | 2026-06-23 10:17:45 UTC |
+| — | sase | [`69cf307`](https://github.com/sase-org/sase/commit/69cf307d15205dbd9cec27c3d3f402f47a8c525f) | chore: Add SDD prompt and plan for mark\_collapsed\_agent\_groups | 2026-06-23 06:04:06 EDT |
+| — | sase | [`9a86edf`](https://github.com/sase-org/sase/commit/9a86edf1875ea0ed734cce2d114366baf5c69b4b) | feat(ace): mark collapsed agent groups | 2026-06-23 06:17:45 EDT |

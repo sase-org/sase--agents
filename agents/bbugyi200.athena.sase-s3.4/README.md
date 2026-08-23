@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e674ffc`](https://github.com/sase-org/sase/commit/e674ffc6f2cbced56e60088eaf51c1a08619999c) | fix(ace): prefer latest family plan previews | 2026-08-22 14:41:23 UTC |
+| sase | [`e674ffc`](https://github.com/sase-org/sase/commit/e674ffc6f2cbced56e60088eaf51c1a08619999c) | fix(ace): prefer latest family plan previews | 2026-08-22 10:41:23 EDT |
 
 ## Neighbors
 

@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`ccc2636`](https://github.com/sase-org/sase/commit/ccc263641630dc57c084575893cf0432f58052e7) | chore: Add SDD prompt and plan for agents\_starting\_total | 2026-07-02 09:54:07 UTC |
-| — | sase | [`97f34fa`](https://github.com/sase-org/sase/commit/97f34fa983c53adfe1e5ddee4753c7bf3d234ae9) | fix(ace): include STARTING agents in Agents tab headline total | 2026-07-02 10:03:21 UTC |
-| code | sase | [`2e7a723`](https://github.com/sase-org/sase/commit/2e7a72354028de5d29d61a68d0a790b0c9d352d8) | docs(memory): add AXE glossary terms | 2026-08-22 18:54:34 UTC |
+| — | sase | [`ccc2636`](https://github.com/sase-org/sase/commit/ccc263641630dc57c084575893cf0432f58052e7) | chore: Add SDD prompt and plan for agents\_starting\_total | 2026-07-02 05:54:07 EDT |
+| — | sase | [`97f34fa`](https://github.com/sase-org/sase/commit/97f34fa983c53adfe1e5ddee4753c7bf3d234ae9) | fix(ace): include STARTING agents in Agents tab headline total | 2026-07-02 06:03:21 EDT |
+| code | sase | [`2e7a723`](https://github.com/sase-org/sase/commit/2e7a72354028de5d29d61a68d0a790b0c9d352d8) | docs(memory): add AXE glossary terms | 2026-08-22 14:54:34 EDT |

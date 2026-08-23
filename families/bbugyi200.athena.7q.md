@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`33c02ed`](https://github.com/sase-org/sase/commit/33c02ed90a44096ffbf8559ad648d3ca3e9e7de1) | fix(workspace): reset repository clones before launch | 2026-07-13 13:00:41 UTC |
+| code | sase | [`33c02ed`](https://github.com/sase-org/sase/commit/33c02ed90a44096ffbf8559ad648d3ca3e9e7de1) | fix(workspace): reset repository clones before launch | 2026-07-13 09:00:41 EDT |
 
 ## Neighbors
 

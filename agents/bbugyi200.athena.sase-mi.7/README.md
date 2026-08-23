@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`daf933a`](https://github.com/sase-org/sase/commit/daf933aa5aef62111343b94a1957ddc6fa605195) | fix(perf): group optional resolver spans in detail benchmark | 2026-08-16 03:55:20 UTC |
+| sase | [`daf933a`](https://github.com/sase-org/sase/commit/daf933aa5aef62111343b94a1957ddc6fa605195) | fix(perf): group optional resolver spans in detail benchmark | 2026-08-15 23:55:20 EDT |
 
 ## Neighbors
 

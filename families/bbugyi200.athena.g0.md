@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`88c1a7b`](https://github.com/sase-org/sase/commit/88c1a7b9eced3c45ab36a5673257714b6fe2c4ba) | feat(test): gate parallel suites by host capacity | 2026-07-20 13:44:14 UTC |
+| code | sase | [`88c1a7b`](https://github.com/sase-org/sase/commit/88c1a7b9eced3c45ab36a5673257714b6fe2c4ba) | feat(test): gate parallel suites by host capacity | 2026-07-20 09:44:14 EDT |
 
 ## Neighbors
 

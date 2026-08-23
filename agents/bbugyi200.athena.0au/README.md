@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`282fc6c`](https://github.com/sase-org/sase/commit/282fc6ccf29c72e3ff003d878afccfaff4714153) | fix(ace): order agents-onboarding tabs to match the tab bar | 2026-07-01 09:56:03 UTC |
+| sase | [`282fc6c`](https://github.com/sase-org/sase/commit/282fc6ccf29c72e3ff003d878afccfaff4714153) | fix(ace): order agents-onboarding tabs to match the tab bar | 2026-07-01 05:56:03 EDT |

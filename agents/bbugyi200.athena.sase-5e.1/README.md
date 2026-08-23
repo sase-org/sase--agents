@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9f93305`](https://github.com/sase-org/sase/commit/9f933053e8b9e9b75c200d1ae72d82f9d2fc98f7) | feat(llm\_provider): per-alias temporary model overrides (sase-5e.1) | 2026-06-30 18:36:12 UTC |
+| sase | [`9f93305`](https://github.com/sase-org/sase/commit/9f933053e8b9e9b75c200d1ae72d82f9d2fc98f7) | feat(llm\_provider): per-alias temporary model overrides (sase-5e.1) | 2026-06-30 14:36:12 EDT |
 
 ## Neighbors
 

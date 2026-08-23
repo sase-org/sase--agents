@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bec37b5`](https://github.com/sase-org/sase/commit/bec37b564563dab50b3ef7917f99d6ef64facf57) | feat(ace): support exact-time model overrides | 2026-07-10 22:11:15 UTC |
+| sase | [`bec37b5`](https://github.com/sase-org/sase/commit/bec37b564563dab50b3ef7917f99d6ef64facf57) | feat(ace): support exact-time model overrides | 2026-07-10 18:11:15 EDT |

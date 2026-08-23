@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`97c9996`](https://github.com/sase-org/sase/commit/97c9996dc40f0905f6d2b7dcfa74379b9a0c631a) | chore: Add SDD prompt and plan for agent\_panel\_gold\_highlight | 2026-05-27 16:56:41 UTC |
-| sase | [`cf69b93`](https://github.com/sase-org/sase/commit/cf69b9307658b5ba52d0253b8a19753be9028693) | feat: highlight focused agent panel in gold | 2026-05-27 17:22:07 UTC |
+| sase | [`97c9996`](https://github.com/sase-org/sase/commit/97c9996dc40f0905f6d2b7dcfa74379b9a0c631a) | chore: Add SDD prompt and plan for agent\_panel\_gold\_highlight | 2026-05-27 12:56:41 EDT |
+| sase | [`cf69b93`](https://github.com/sase-org/sase/commit/cf69b9307658b5ba52d0253b8a19753be9028693) | feat: highlight focused agent panel in gold | 2026-05-27 13:22:07 EDT |

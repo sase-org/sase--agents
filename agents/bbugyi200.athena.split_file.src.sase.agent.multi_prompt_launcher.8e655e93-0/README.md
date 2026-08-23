@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`689f39b`](https://github.com/sase-org/sase/commit/689f39b2ad91b3353f253a4de930719cd7ae5eca) | refactor(agent): split multi-prompt launcher | 2026-07-19 07:32:43 UTC |
+| sase | [`689f39b`](https://github.com/sase-org/sase/commit/689f39b2ad91b3353f253a4de930719cd7ae5eca) | refactor(agent): split multi-prompt launcher | 2026-07-19 03:32:43 EDT |
 
 ## Neighbors
 

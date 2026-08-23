@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cebc837`](https://github.com/sase-org/sase/commit/cebc837720036c1dae660bcacf3f7f4f37006378) | feat(vcs)!: add all-project commit log scope | 2026-07-10 15:08:33 UTC |
+| sase | [`cebc837`](https://github.com/sase-org/sase/commit/cebc837720036c1dae660bcacf3f7f4f37006378) | feat(vcs)!: add all-project commit log scope | 2026-07-10 11:08:33 EDT |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9ea0828`](https://github.com/sase-org/sase/commit/9ea0828c35d0a409737c107a152ac060b8b39465) | feat(doctor): add conditional node runtime check (sase-5l.7) | 2026-07-08 07:19:36 UTC |
+| sase | [`9ea0828`](https://github.com/sase-org/sase/commit/9ea0828c35d0a409737c107a152ac060b8b39465) | feat(doctor): add conditional node runtime check (sase-5l.7) | 2026-07-08 03:19:36 EDT |
 
 ## Neighbors
 

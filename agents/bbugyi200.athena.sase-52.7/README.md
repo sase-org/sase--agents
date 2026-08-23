@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f338e8a`](https://github.com/sase-org/sase/commit/f338e8a5eb51eb209e87a03334afdcf17214cd43) | docs(xprompt): document %{} alt brace shorthand (sase-52.7) | 2026-06-20 21:01:30 UTC |
+| sase | [`f338e8a`](https://github.com/sase-org/sase/commit/f338e8a5eb51eb209e87a03334afdcf17214cd43) | docs(xprompt): document %{} alt brace shorthand (sase-52.7) | 2026-06-20 17:01:30 EDT |
 
 ## Neighbors
 

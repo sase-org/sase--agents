@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`8036732`](https://github.com/sase-org/sase/commit/8036732eb6b39fbce66a4ffd2c5098cad1f663f0) | chore: Add SDD prompt and plan for completion\_escape\_normal\_mode | 2026-06-28 18:46:25 UTC |
-| — | sase | [`58f1230`](https://github.com/sase-org/sase/commit/58f12304f8c7908723ad39029ab12a26d2a7e262) | fix(ace): enter normal mode when escaping prompt completion | 2026-06-28 18:51:56 UTC |
-| code | sase | [`4ebdd05`](https://github.com/sase-org/sase/commit/4ebdd05ad019479ec2684c4f8f879088c73f525b) | feat(ace): highlight artifact refs in agent xprompts | 2026-08-21 13:20:23 UTC |
+| — | sase | [`8036732`](https://github.com/sase-org/sase/commit/8036732eb6b39fbce66a4ffd2c5098cad1f663f0) | chore: Add SDD prompt and plan for completion\_escape\_normal\_mode | 2026-06-28 14:46:25 EDT |
+| — | sase | [`58f1230`](https://github.com/sase-org/sase/commit/58f12304f8c7908723ad39029ab12a26d2a7e262) | fix(ace): enter normal mode when escaping prompt completion | 2026-06-28 14:51:56 EDT |
+| code | sase | [`4ebdd05`](https://github.com/sase-org/sase/commit/4ebdd05ad019479ec2684c4f8f879088c73f525b) | feat(ace): highlight artifact refs in agent xprompts | 2026-08-21 09:20:23 EDT |

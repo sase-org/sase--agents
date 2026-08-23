@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`3ad2e62`](https://github.com/sase-org/sase/commit/3ad2e624cea555e1cfac75b7c31a0d0a4b2d3152) | feat(memory): number inlined short-memory subsections | 2026-08-09 14:00:11 UTC |
+| code | sase | [`3ad2e62`](https://github.com/sase-org/sase/commit/3ad2e624cea555e1cfac75b7c31a0d0a4b2d3152) | feat(memory): number inlined short-memory subsections | 2026-08-09 10:00:11 EDT |
 
 ## Neighbors
 

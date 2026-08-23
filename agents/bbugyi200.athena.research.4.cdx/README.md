@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f0d6f19`](https://github.com/sase-org/sase/commit/f0d6f19376e4ac2826b85ccbae80f8af3e9c9bac) | chore: research direct master PyPI release options | 2026-06-09 20:14:35 UTC |
+| sase | [`f0d6f19`](https://github.com/sase-org/sase/commit/f0d6f19376e4ac2826b85ccbae80f8af3e9c9bac) | chore: research direct master PyPI release options | 2026-06-09 16:14:35 EDT |
 
 ## Neighbors
 

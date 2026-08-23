@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ffaa6f4`](https://github.com/sase-org/sase/commit/ffaa6f46081fdd8472e4fa4cdfdcadc7eb9c328a) | test: split clan display tests by responsibility | 2026-07-20 02:00:26 UTC |
+| sase | [`ffaa6f4`](https://github.com/sase-org/sase/commit/ffaa6f46081fdd8472e4fa4cdfdcadc7eb9c328a) | test: split clan display tests by responsibility | 2026-07-19 22:00:26 EDT |
 
 ## Neighbors
 

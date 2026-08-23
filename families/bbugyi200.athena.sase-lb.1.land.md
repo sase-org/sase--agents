@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`ee6f3c7`](https://github.com/sase-org/sase/commit/ee6f3c7d302e37504d7c4fd951bc7d846dfd7f1d) | fix(axe): inherit a family-attach parent's commit finalizer baseline | 2026-08-14 18:13:02 UTC |
+| 1 | sase | [`ee6f3c7`](https://github.com/sase-org/sase/commit/ee6f3c7d302e37504d7c4fd951bc7d846dfd7f1d) | fix(axe): inherit a family-attach parent's commit finalizer baseline | 2026-08-14 14:13:02 EDT |
 
 ## Neighbors
 

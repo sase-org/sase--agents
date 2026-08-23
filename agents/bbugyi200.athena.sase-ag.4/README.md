@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9701511`](https://github.com/sase-org/sase/commit/97015111b388e663506d996a2d9c6a7511af0eda) | feat(sdd)!: write plan provenance headers (sase-ag.4) | 2026-07-28 15:36:40 UTC |
+| sase | [`9701511`](https://github.com/sase-org/sase/commit/97015111b388e663506d996a2d9c6a7511af0eda) | feat(sdd)!: write plan provenance headers (sase-ag.4) | 2026-07-28 11:36:40 EDT |
 
 ## Neighbors
 

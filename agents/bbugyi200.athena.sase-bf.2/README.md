@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2b95bd3`](https://github.com/sase-org/sase/commit/2b95bd329fb0a8fa1b666b1019fed154b6870b7f) | feat(agent-scan): preserve structured output variables | 2026-07-30 21:46:05 UTC |
+| sase | [`2b95bd3`](https://github.com/sase-org/sase/commit/2b95bd329fb0a8fa1b666b1019fed154b6870b7f) | feat(agent-scan): preserve structured output variables | 2026-07-30 17:46:05 EDT |
 
 ## Neighbors
 

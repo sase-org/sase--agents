@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8e3aa1c`](https://github.com/sase-org/sase/commit/8e3aa1c61101e5b1f5ad7e2b8b053c6ea6b5eee4) | chore: Add SDD prompt and plan for local\_xprompt\_keymaps | 2026-06-27 11:39:46 UTC |
-| sase | [`5b9e38f`](https://github.com/sase-org/sase/commit/5b9e38fd0b0d603ba7ee7355968da5e197d551fd) | feat(tui): add gX / Ctrl+G X to convert prompt pane to local xprompt | 2026-06-27 12:01:31 UTC |
+| sase | [`8e3aa1c`](https://github.com/sase-org/sase/commit/8e3aa1c61101e5b1f5ad7e2b8b053c6ea6b5eee4) | chore: Add SDD prompt and plan for local\_xprompt\_keymaps | 2026-06-27 07:39:46 EDT |
+| sase | [`5b9e38f`](https://github.com/sase-org/sase/commit/5b9e38fd0b0d603ba7ee7355968da5e197d551fd) | feat(tui): add gX / Ctrl+G X to convert prompt pane to local xprompt | 2026-06-27 08:01:31 EDT |

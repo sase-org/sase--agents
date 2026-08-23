@@ -24,9 +24,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`9d0d238`](https://github.com/sase-org/sase/commit/9d0d238aa86f036c3590c5a9e038282e5cb4edec) | chore: Add SDD prompt and plan for remove\_origin\_story\_reindex\_blog | 2026-06-06 20:00:01 UTC |
-| — | sase | [`8674c13`](https://github.com/sase-org/sase/commit/8674c1303719ec86db863e7644836340d743ac39) | chore: reindex SASE blog series | 2026-06-06 20:09:14 UTC |
-| code | sase | [`e9473ca`](https://github.com/sase-org/sase/commit/e9473ca007b578df53ca7f7f4e1d515ccaa1d34c) | feat: include VCS tags in plan approval notifications | 2026-07-09 05:21:32 UTC |
+| — | sase | [`9d0d238`](https://github.com/sase-org/sase/commit/9d0d238aa86f036c3590c5a9e038282e5cb4edec) | chore: Add SDD prompt and plan for remove\_origin\_story\_reindex\_blog | 2026-06-06 16:00:01 EDT |
+| — | sase | [`8674c13`](https://github.com/sase-org/sase/commit/8674c1303719ec86db863e7644836340d743ac39) | chore: reindex SASE blog series | 2026-06-06 16:09:14 EDT |
+| code | sase | [`e9473ca`](https://github.com/sase-org/sase/commit/e9473ca007b578df53ca7f7f4e1d515ccaa1d34c) | feat: include VCS tags in plan approval notifications | 2026-07-09 01:21:32 EDT |
 
 ## Neighbors
 

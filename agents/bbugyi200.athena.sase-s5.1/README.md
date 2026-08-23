@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`740df45`](https://github.com/sase-org/sase/commit/740df4518679807b4e8667b71f85d72cbdd0245d) | feat(file-hooks): add producer-aware file-hook filtering | 2026-08-22 18:15:09 UTC |
+| sase | [`740df45`](https://github.com/sase-org/sase/commit/740df4518679807b4e8667b71f85d72cbdd0245d) | feat(file-hooks): add producer-aware file-hook filtering | 2026-08-22 14:15:09 EDT |
 
 ## Neighbors
 

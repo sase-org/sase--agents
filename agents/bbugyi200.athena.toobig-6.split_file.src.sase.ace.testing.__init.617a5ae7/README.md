@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`77c0c66`](https://github.com/sase-org/sase/commit/77c0c66a6c7c8248a6af6435c3a0432d2a122458) | refactor(ace): split TUI testing harness into focused modules | 2026-07-20 19:44:11 UTC |
+| sase | [`77c0c66`](https://github.com/sase-org/sase/commit/77c0c66a6c7c8248a6af6435c3a0432d2a122458) | refactor(ace): split TUI testing harness into focused modules | 2026-07-20 15:44:11 EDT |
 
 ## Neighbors
 

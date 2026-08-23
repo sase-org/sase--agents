@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ba6d2a1`](https://github.com/sase-org/sase/commit/ba6d2a1e57fd5e6bd93cf444555d58c04b839988) | feat: use PR terminology for ChangeSpec reviews | 2026-07-07 16:54:38 UTC |
+| sase | [`ba6d2a1`](https://github.com/sase-org/sase/commit/ba6d2a1e57fd5e6bd93cf444555d58c04b839988) | feat: use PR terminology for ChangeSpec reviews | 2026-07-07 12:54:38 EDT |
 
 ## Neighbors
 

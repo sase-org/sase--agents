@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5fb55a5`](https://github.com/sase-org/sase/commit/5fb55a5a98e91fbc807d3e008f3af55d3d3863a1) | fix: recover interrupted agent families during forced reuse | 2026-07-22 19:03:36 UTC |
+| sase | [`5fb55a5`](https://github.com/sase-org/sase/commit/5fb55a5a98e91fbc807d3e008f3af55d3d3863a1) | fix: recover interrupted agent families during forced reuse | 2026-07-22 15:03:36 EDT |
 
 ## Neighbors
 

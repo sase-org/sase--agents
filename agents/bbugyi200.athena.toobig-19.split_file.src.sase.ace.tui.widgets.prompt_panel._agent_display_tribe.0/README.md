@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`34ec429`](https://github.com/sase-org/sase/commit/34ec429b944c5601351e7842ec27a3dfefe017b7) | refactor(tui): split tribe display rendering | 2026-07-31 14:24:42 UTC |
+| sase | [`34ec429`](https://github.com/sase-org/sase/commit/34ec429b944c5601351e7842ec27a3dfefe017b7) | refactor(tui): split tribe display rendering | 2026-07-31 10:24:42 EDT |
 
 ## Neighbors
 

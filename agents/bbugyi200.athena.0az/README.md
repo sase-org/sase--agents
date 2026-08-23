@@ -21,5 +21,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dbaf6ad`](https://github.com/sase-org/sase/commit/dbaf6adcf11571e7eb07d30f0bac71c7a2226ed1) | fix(ace): improve post-update toast layout | 2026-07-01 11:25:23 UTC |
-| sase | [`eae9cf7`](https://github.com/sase-org/sase/commit/eae9cf76bedc8d3248a8fb7f1c5d09b0851b1f49) | fix(plan): make approved archive handoff workspace-independent | 2026-08-22 16:09:22 UTC |
+| sase | [`dbaf6ad`](https://github.com/sase-org/sase/commit/dbaf6adcf11571e7eb07d30f0bac71c7a2226ed1) | fix(ace): improve post-update toast layout | 2026-07-01 07:25:23 EDT |
+| sase | [`eae9cf7`](https://github.com/sase-org/sase/commit/eae9cf76bedc8d3248a8fb7f1c5d09b0851b1f49) | fix(plan): make approved archive handoff workspace-independent | 2026-08-22 12:09:22 EDT |

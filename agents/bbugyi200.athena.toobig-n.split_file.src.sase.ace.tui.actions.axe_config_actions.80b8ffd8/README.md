@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`418ebff`](https://github.com/sase-org/sase/commit/418ebff324232812c70dd70e4d32452db1757a71) | refactor(ace): split AXE config actions | 2026-07-23 12:11:21 UTC |
+| sase | [`418ebff`](https://github.com/sase-org/sase/commit/418ebff324232812c70dd70e4d32452db1757a71) | refactor(ace): split AXE config actions | 2026-07-23 08:11:21 EDT |
 
 ## Neighbors
 

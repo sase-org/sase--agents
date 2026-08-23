@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a5c5d03`](https://github.com/sase-org/sase/commit/a5c5d0398e31032622ca93624fddc95d8a1bcc58) | feat(bead): support extended phase sizes (sase-8w.3) | 2026-07-23 22:18:40 UTC |
+| sase | [`a5c5d03`](https://github.com/sase-org/sase/commit/a5c5d0398e31032622ca93624fddc95d8a1bcc58) | feat(bead): support extended phase sizes (sase-8w.3) | 2026-07-23 18:18:40 EDT |
 
 ## Neighbors
 

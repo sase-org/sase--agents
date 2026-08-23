@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`11ddd27`](https://github.com/sase-org/sase/commit/11ddd277631aa24521c24e4d8d484d904a704e54) | feat(agents-sync): publish linked commit artifacts (sase-a9.2) | 2026-07-27 21:29:38 UTC |
+| sase | [`11ddd27`](https://github.com/sase-org/sase/commit/11ddd277631aa24521c24e4d8d484d904a704e54) | feat(agents-sync): publish linked commit artifacts (sase-a9.2) | 2026-07-27 17:29:38 EDT |
 
 ## Neighbors
 

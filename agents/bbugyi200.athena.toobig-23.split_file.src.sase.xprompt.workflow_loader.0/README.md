@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`34597d1`](https://github.com/sase-org/sase/commit/34597d1c046d2db4eb7eff03292331be4a023c53) | refactor(xprompt): split workflow loader responsibilities | 2026-08-09 02:47:32 UTC |
+| sase | [`34597d1`](https://github.com/sase-org/sase/commit/34597d1c046d2db4eb7eff03292331be4a023c53) | refactor(xprompt): split workflow loader responsibilities | 2026-08-08 22:47:32 EDT |
 
 ## Neighbors
 

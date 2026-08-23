@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5faf1c4`](https://github.com/sase-org/sase/commit/5faf1c47c9af65a93cb8a960dfbb9fb9ad2972c4) | test: split finalize attachment tests by concern | 2026-07-11 00:00:51 UTC |
+| sase | [`5faf1c4`](https://github.com/sase-org/sase/commit/5faf1c47c9af65a93cb8a960dfbb9fb9ad2972c4) | test: split finalize attachment tests by concern | 2026-07-10 20:00:51 EDT |
 
 ## Neighbors
 

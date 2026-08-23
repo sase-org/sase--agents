@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5bf8d69`](https://github.com/sase-org/sase/commit/5bf8d696b94ae19ea2fb5f8973dbcd2d1af4769c) | test: split artifacts copy-mode tests | 2026-07-30 00:42:40 UTC |
+| sase | [`5bf8d69`](https://github.com/sase-org/sase/commit/5bf8d696b94ae19ea2fb5f8973dbcd2d1af4769c) | test: split artifacts copy-mode tests | 2026-07-29 20:42:40 EDT |
 
 ## Neighbors
 

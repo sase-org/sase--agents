@@ -42,7 +42,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 3 | sase | [`6ee4e1d`](https://github.com/sase-org/sase/commit/6ee4e1d3d26c35d3641de2e267f9297d94b236e1) | test(completion): cover ACE and LSP %final completion parity | 2026-08-21 23:36:51 UTC |
+| 3 | sase | [`6ee4e1d`](https://github.com/sase-org/sase/commit/6ee4e1d3d26c35d3641de2e267f9297d94b236e1) | test(completion): cover ACE and LSP %final completion parity | 2026-08-21 19:36:51 EDT |
 
 ## Neighbors
 

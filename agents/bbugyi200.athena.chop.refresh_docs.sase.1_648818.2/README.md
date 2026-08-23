@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`800033d`](https://github.com/sase-org/sase/commit/800033d55c64eb01b9b75b145762ee17ced9e14c) | docs: align workflow guides with current behavior | 2026-08-14 03:46:35 UTC |
+| sase | [`800033d`](https://github.com/sase-org/sase/commit/800033d55c64eb01b9b75b145762ee17ced9e14c) | docs: align workflow guides with current behavior | 2026-08-13 23:46:35 EDT |
 
 ## Neighbors
 

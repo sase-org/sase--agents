@@ -30,4 +30,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`3a37168`](https://github.com/sase-org/sase/commit/3a37168ccf023d61fecd58d50e407479a511a7af) | fix(finalizer): ignore hidden agents sidecar cleanup | 2026-08-16 15:26:14 UTC |
+| code | sase | [`3a37168`](https://github.com/sase-org/sase/commit/3a37168ccf023d61fecd58d50e407479a511a7af) | fix(finalizer): ignore hidden agents sidecar cleanup | 2026-08-16 11:26:14 EDT |

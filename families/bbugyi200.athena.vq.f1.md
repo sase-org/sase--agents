@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`4bf7805`](https://github.com/sase-org/sase/commit/4bf78056c0bf22fe487fd2d402ff8a8a5b9d382a) | feat(config)!: nest file hook filters | 2026-08-08 16:28:49 UTC |
+| code | sase | [`4bf7805`](https://github.com/sase-org/sase/commit/4bf78056c0bf22fe487fd2d402ff8a8a5b9d382a) | feat(config)!: nest file hook filters | 2026-08-08 12:28:49 EDT |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4692e35`](https://github.com/sase-org/sase/commit/4692e35152db11ddc79f55d14ccc7ab288c57b76) | docs: consolidate HN timing research | 2026-06-19 15:35:05 UTC |
+| sase | [`4692e35`](https://github.com/sase-org/sase/commit/4692e35152db11ddc79f55d14ccc7ab288c57b76) | docs: consolidate HN timing research | 2026-06-19 11:35:05 EDT |
 
 ## Neighbors
 

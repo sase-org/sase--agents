@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b638df3`](https://github.com/sase-org/sase/commit/b638df32f1709b59c8c3bed44f6d37abe9b227d3) | fix(bead): relax legacy phase size constraints (sase-8w.7.1) | 2026-07-23 23:35:57 UTC |
+| sase | [`b638df3`](https://github.com/sase-org/sase/commit/b638df32f1709b59c8c3bed44f6d37abe9b227d3) | fix(bead): relax legacy phase size constraints (sase-8w.7.1) | 2026-07-23 19:35:57 EDT |
 
 ## Neighbors
 

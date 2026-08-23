@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`96d2c9b`](https://github.com/sase-org/sase/commit/96d2c9b8b9c241d26149e3f4bbfdfb67522b7d2d) | chore: Add SDD prompt and plan for amd\_home\_agents | 2026-05-29 20:37:04 UTC |
-| sase | [`9d56edf`](https://github.com/sase-org/sase/commit/9d56edf896c7aa8fdec282a19171a650262a75d0) | feat: support AMD home title overlays | 2026-05-29 20:48:20 UTC |
+| sase | [`96d2c9b`](https://github.com/sase-org/sase/commit/96d2c9b8b9c241d26149e3f4bbfdfb67522b7d2d) | chore: Add SDD prompt and plan for amd\_home\_agents | 2026-05-29 16:37:04 EDT |
+| sase | [`9d56edf`](https://github.com/sase-org/sase/commit/9d56edf896c7aa8fdec282a19171a650262a75d0) | feat: support AMD home title overlays | 2026-05-29 16:48:20 EDT |

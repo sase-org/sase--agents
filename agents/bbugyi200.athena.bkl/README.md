@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6137475`](https://github.com/sase-org/sase/commit/6137475cc2988ad56b0b0ea7d257fe7d4bd03404) | chore: Add SDD prompt and plan for bare\_git\_sdd\_version\_controlled | 2026-05-27 16:18:27 UTC |
-| sase | [`37d69c7`](https://github.com/sase-org/sase/commit/37d69c75862a37dbbf91dbfa9ab0aa8e4d2af08f) | fix: treat bare-git SDD as version-controlled | 2026-05-27 16:31:24 UTC |
+| sase | [`6137475`](https://github.com/sase-org/sase/commit/6137475cc2988ad56b0b0ea7d257fe7d4bd03404) | chore: Add SDD prompt and plan for bare\_git\_sdd\_version\_controlled | 2026-05-27 12:18:27 EDT |
+| sase | [`37d69c7`](https://github.com/sase-org/sase/commit/37d69c75862a37dbbf91dbfa9ab0aa8e4d2af08f) | fix: treat bare-git SDD as version-controlled | 2026-05-27 12:31:24 EDT |
 
 ## Neighbors
 

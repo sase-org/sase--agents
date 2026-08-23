@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`60c504a`](https://github.com/sase-org/sase/commit/60c504a678e741157ae9b22c63601c52d563b88b) | feat(tui): expand local xprompts in #@ selector with parity (sase-53.5) | 2026-06-21 16:36:45 UTC |
+| sase | [`60c504a`](https://github.com/sase-org/sase/commit/60c504a678e741157ae9b22c63601c52d563b88b) | feat(tui): expand local xprompts in #@ selector with parity (sase-53.5) | 2026-06-21 12:36:45 EDT |
 
 ## Neighbors
 

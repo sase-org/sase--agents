@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bfc0d46`](https://github.com/sase-org/sase/commit/bfc0d46c200d3008b7c6418614742612d3f4ce15) | test: split plan inventory tests by behavior | 2026-07-16 07:46:06 UTC |
+| sase | [`bfc0d46`](https://github.com/sase-org/sase/commit/bfc0d46c200d3008b7c6418614742612d3f4ce15) | test: split plan inventory tests by behavior | 2026-07-16 03:46:06 EDT |
 
 ## Neighbors
 

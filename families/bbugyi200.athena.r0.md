@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`8b6f8fd`](https://github.com/sase-org/sase/commit/8b6f8fdfe2d3019706f416da0fe886f78b1e7ad4) | fix: keep epic bead agents at default priority | 2026-08-01 12:18:17 UTC |
+| code | sase | [`8b6f8fd`](https://github.com/sase-org/sase/commit/8b6f8fdfe2d3019706f416da0fe886f78b1e7ad4) | fix: keep epic bead agents at default priority | 2026-08-01 08:18:17 EDT |
 
 ## Neighbors
 

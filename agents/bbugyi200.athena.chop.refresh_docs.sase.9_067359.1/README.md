@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3078146`](https://github.com/sase-org/sase/commit/3078146fe1433ccfa034fda6f169d4643097a0a6) | docs: refresh user-facing docs to match current CLI and ACE behavior | 2026-08-20 03:22:26 UTC |
+| sase | [`3078146`](https://github.com/sase-org/sase/commit/3078146fe1433ccfa034fda6f169d4643097a0a6) | docs: refresh user-facing docs to match current CLI and ACE behavior | 2026-08-19 23:22:26 EDT |
 
 ## Neighbors
 

@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`224b632`](https://github.com/sase-org/sase/commit/224b6324e0d5b2638b80637ec0bf7a14cac6c7a5) | feat: make prompt history recency-only (sase-4m.1) | 2026-06-13 13:38:44 UTC |
+| sase | [`224b632`](https://github.com/sase-org/sase/commit/224b6324e0d5b2638b80637ec0bf7a14cac6c7a5) | feat: make prompt history recency-only (sase-4m.1) | 2026-06-13 09:38:44 EDT |
 
 ## Neighbors
 

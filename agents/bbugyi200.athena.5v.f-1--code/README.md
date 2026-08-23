@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`546a115`](https://github.com/sase-org/sase/commit/546a1155f210569ae093e3dc0ffa3bd05f36e47f) | feat(sdd)!: retire legacy plan layout | 2026-07-11 20:35:05 UTC |
+| sase | [`546a115`](https://github.com/sase-org/sase/commit/546a1155f210569ae093e3dc0ffa3bd05f36e47f) | feat(sdd)!: retire legacy plan layout | 2026-07-11 16:35:05 EDT |
 
 ## Neighbors
 

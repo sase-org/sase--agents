@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`925c723`](https://github.com/sase-org/sase/commit/925c723a8729ef33c478186e2582520f99ce0eb7) | chore: Add SDD prompt and plan for agy\_model\_alias\_routing | 2026-06-28 16:52:26 UTC |
-| sase | [`a708cd4`](https://github.com/sase-org/sase/commit/a708cd44b81bb8dadfebea0bda2eceb0894af90a) | feat(doctor): guard model xprompt presets against provider fallback | 2026-06-28 17:14:51 UTC |
+| sase | [`925c723`](https://github.com/sase-org/sase/commit/925c723a8729ef33c478186e2582520f99ce0eb7) | chore: Add SDD prompt and plan for agy\_model\_alias\_routing | 2026-06-28 12:52:26 EDT |
+| sase | [`a708cd4`](https://github.com/sase-org/sase/commit/a708cd44b81bb8dadfebea0bda2eceb0894af90a) | feat(doctor): guard model xprompt presets against provider fallback | 2026-06-28 13:14:51 EDT |

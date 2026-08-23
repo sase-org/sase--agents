@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ffe9211`](https://github.com/sase-org/sase/commit/ffe92110621b7f6347a5ad22ba8a67d2dce134b5) | ref: Split run\_agent\_exec\_plan.py into three modules | 2026-06-10 14:46:05 UTC |
+| sase | [`ffe9211`](https://github.com/sase-org/sase/commit/ffe92110621b7f6347a5ad22ba8a67d2dce134b5) | ref: Split run\_agent\_exec\_plan.py into three modules | 2026-06-10 10:46:05 EDT |
 
 ## Neighbors
 

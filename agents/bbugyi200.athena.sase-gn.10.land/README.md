@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8be11ae`](https://github.com/sase-org/sase/commit/8be11ae2998ccb46954d1c596111d607a3146136) | fix(bead): include snoozed beads in the mobile beads-list bridge default | 2026-08-07 17:59:58 UTC |
+| sase | [`8be11ae`](https://github.com/sase-org/sase/commit/8be11ae2998ccb46954d1c596111d607a3146136) | fix(bead): include snoozed beads in the mobile beads-list bridge default | 2026-08-07 13:59:58 EDT |
 
 ## Neighbors
 

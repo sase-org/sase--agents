@@ -23,8 +23,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7391a74`](https://github.com/sase-org/sase/commit/7391a745bc42971a1f7460a4f27721756959858a) | fix(stats): render schema-6 commits, patches, and xprompt truncation | 2026-08-17 17:18:36 UTC |
-| sase | [`5e58fb1`](https://github.com/sase-org/sase/commit/5e58fb1c8b4a92e91056a179b9591d52beedd0d8) | fix(config): publish merged-config and owner-snapshot caches atomically | 2026-08-17 17:21:41 UTC |
+| sase | [`7391a74`](https://github.com/sase-org/sase/commit/7391a745bc42971a1f7460a4f27721756959858a) | fix(stats): render schema-6 commits, patches, and xprompt truncation | 2026-08-17 13:18:36 EDT |
+| sase | [`5e58fb1`](https://github.com/sase-org/sase/commit/5e58fb1c8b4a92e91056a179b9591d52beedd0d8) | fix(config): publish merged-config and owner-snapshot caches atomically | 2026-08-17 13:21:41 EDT |
 
 ## Neighbors
 

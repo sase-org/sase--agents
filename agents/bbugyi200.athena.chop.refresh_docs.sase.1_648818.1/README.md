@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9396cc8`](https://github.com/sase-org/sase/commit/9396cc86c614185b06375b22b94554e2e14a6388) | docs: refresh user-facing docs against current behavior | 2026-08-14 03:20:55 UTC |
+| sase | [`9396cc8`](https://github.com/sase-org/sase/commit/9396cc86c614185b06375b22b94554e2e14a6388) | docs: refresh user-facing docs against current behavior | 2026-08-13 23:20:55 EDT |
 
 ## Neighbors
 

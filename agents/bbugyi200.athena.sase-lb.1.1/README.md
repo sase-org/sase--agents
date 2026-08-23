@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a720153`](https://github.com/sase-org/sase/commit/a7201532bc3c67245d3331359aeaa3c934a4c2e7) | fix: persist claimed workspace number in agent metadata | 2026-08-14 15:44:27 UTC |
+| sase | [`a720153`](https://github.com/sase-org/sase/commit/a7201532bc3c67245d3331359aeaa3c934a4c2e7) | fix: persist claimed workspace number in agent metadata | 2026-08-14 11:44:27 EDT |
 
 ## Neighbors
 

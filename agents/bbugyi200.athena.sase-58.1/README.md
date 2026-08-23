@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5357c14`](https://github.com/sase-org/sase/commit/5357c14c7dd16c38c8cbc390050ec77411761616) | feat(uv\_tool): add shared uv tool engine (sase-58.1) | 2026-06-26 01:52:40 UTC |
+| sase | [`5357c14`](https://github.com/sase-org/sase/commit/5357c14c7dd16c38c8cbc390050ec77411761616) | feat(uv\_tool): add shared uv tool engine (sase-58.1) | 2026-06-25 21:52:40 EDT |
 
 ## Neighbors
 

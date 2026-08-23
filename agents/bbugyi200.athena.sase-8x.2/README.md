@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fed1886`](https://github.com/sase-org/sase/commit/fed18866e1738bee92fbdb9587ca261bfa895e26) | feat(beads): support atomic multi-bead removal (sase-8x.2) | 2026-07-24 19:06:33 UTC |
+| sase | [`fed1886`](https://github.com/sase-org/sase/commit/fed18866e1738bee92fbdb9587ca261bfa895e26) | feat(beads): support atomic multi-bead removal (sase-8x.2) | 2026-07-24 15:06:33 EDT |
 
 ## Neighbors
 

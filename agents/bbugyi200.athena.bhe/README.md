@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ed17857`](https://github.com/sase-org/sase/commit/ed1785785f2a035cf94ad9b4c9597f20dfd4a08a) | chore: expand memory read agent research | 2026-05-26 21:32:04 UTC |
+| sase | [`ed17857`](https://github.com/sase-org/sase/commit/ed1785785f2a035cf94ad9b4c9597f20dfd4a08a) | chore: expand memory read agent research | 2026-05-26 17:32:04 EDT |
 
 ## Neighbors
 

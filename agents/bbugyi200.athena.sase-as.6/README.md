@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`107904b`](https://github.com/sase-org/sase/commit/107904b6bea97c5d036921b2fbbc7ee92e7ceb0e) | feat(sdd): route document sidecars through role registry | 2026-07-29 15:32:05 UTC |
+| sase | [`107904b`](https://github.com/sase-org/sase/commit/107904b6bea97c5d036921b2fbbc7ee92e7ceb0e) | feat(sdd): route document sidecars through role registry | 2026-07-29 11:32:05 EDT |
 
 ## Neighbors
 

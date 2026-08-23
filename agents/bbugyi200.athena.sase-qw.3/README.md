@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3285244`](https://github.com/sase-org/sase/commit/3285244e3b1b2622a19ae76f31896e83b0f45ca6) | feat(tui): jump Logs pane to the registered error entry | 2026-08-19 17:40:49 UTC |
+| sase | [`3285244`](https://github.com/sase-org/sase/commit/3285244e3b1b2622a19ae76f31896e83b0f45ca6) | feat(tui): jump Logs pane to the registered error entry | 2026-08-19 13:40:49 EDT |
 
 ## Neighbors
 

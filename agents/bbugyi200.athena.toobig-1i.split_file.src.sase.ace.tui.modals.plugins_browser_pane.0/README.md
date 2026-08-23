@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fac88ef`](https://github.com/sase-org/sase/commit/fac88efb319279e1de09a9b72b171e4d3f910fa9) | refactor: split plugin browser pane responsibilities | 2026-08-03 17:22:17 UTC |
+| sase | [`fac88ef`](https://github.com/sase-org/sase/commit/fac88efb319279e1de09a9b72b171e4d3f910fa9) | refactor: split plugin browser pane responsibilities | 2026-08-03 13:22:17 EDT |
 
 ## Neighbors
 

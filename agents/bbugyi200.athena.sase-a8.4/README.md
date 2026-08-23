@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c113156`](https://github.com/sase-org/sase/commit/c113156466bd746064212cfe48e80fc74073ffe3) | feat: register beads as a managed sidecar (sase-a8.4) | 2026-07-27 20:43:42 UTC |
+| sase | [`c113156`](https://github.com/sase-org/sase/commit/c113156466bd746064212cfe48e80fc74073ffe3) | feat: register beads as a managed sidecar (sase-a8.4) | 2026-07-27 16:43:42 EDT |
 
 ## Neighbors
 

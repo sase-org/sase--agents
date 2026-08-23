@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`298cea9`](https://github.com/sase-org/sase/commit/298cea9665ed67dac6810e6cdbe40c80274f8782) | test(selection-health): register the proc-submission audit as a source-tree audit | 2026-08-16 04:24:01 UTC |
+| sase | [`298cea9`](https://github.com/sase-org/sase/commit/298cea9665ed67dac6810e6cdbe40c80274f8782) | test(selection-health): register the proc-submission audit as a source-tree audit | 2026-08-16 00:24:01 EDT |
 
 ## Neighbors
 

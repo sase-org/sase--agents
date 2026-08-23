@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`376a3b1`](https://github.com/sase-org/sase/commit/376a3b1bbcb0dad5cccab0650611c7898aa49f3a) | feat(history)!: restore single-prompt chat markdown | 2026-08-03 19:30:11 UTC |
+| sase | [`376a3b1`](https://github.com/sase-org/sase/commit/376a3b1bbcb0dad5cccab0650611c7898aa49f3a) | feat(history)!: restore single-prompt chat markdown | 2026-08-03 15:30:11 EDT |
 
 ## Neighbors
 

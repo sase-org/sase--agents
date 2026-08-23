@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6de6ee3`](https://github.com/sase-org/sase/commit/6de6ee32b03b4c5151df146f97302ce3a03f712c) | feat(ace): reserve the default agent tribe panel | 2026-07-19 23:03:17 UTC |
+| sase | [`6de6ee3`](https://github.com/sase-org/sase/commit/6de6ee32b03b4c5151df146f97302ce3a03f712c) | feat(ace): reserve the default agent tribe panel | 2026-07-19 19:03:17 EDT |
 
 ## Neighbors
 

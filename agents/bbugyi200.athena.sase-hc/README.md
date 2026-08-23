@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`04e4a33`](https://github.com/sase-org/sase/commit/04e4a33b3a7e0e0e1c51596cdeca7ffbb4bfdfb8) | fix(commit): stop closing the assigned bead on commit | 2026-08-08 04:47:28 UTC |
+| sase | [`04e4a33`](https://github.com/sase-org/sase/commit/04e4a33b3a7e0e0e1c51596cdeca7ffbb4bfdfb8) | fix(commit): stop closing the assigned bead on commit | 2026-08-08 00:47:28 EDT |

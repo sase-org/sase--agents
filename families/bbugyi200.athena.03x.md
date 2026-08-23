@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`353e536`](https://github.com/sase-org/sase/commit/353e536c0b2e30cd657700c5814c0efe9e97cf71) | chore: Add SDD prompt and plan for rust\_clippy\_196\_fix | 2026-06-23 11:20:06 UTC |
-| — | sase | [`ec78b05`](https://github.com/sase-org/sase/commit/ec78b0539195e876ad2ce2f9b7c003b7c6dd5f0f) | chore: Mark SDD plan done | 2026-06-23 12:38:26 UTC |
-| code | sase | [`ce1ad41`](https://github.com/sase-org/sase/commit/ce1ad41a1c874bca1d05158477a80ab8d8a612c9) | fix(ace): stop the file panel from losing the reader's scroll position | 2026-08-16 17:54:02 UTC |
+| — | sase | [`353e536`](https://github.com/sase-org/sase/commit/353e536c0b2e30cd657700c5814c0efe9e97cf71) | chore: Add SDD prompt and plan for rust\_clippy\_196\_fix | 2026-06-23 07:20:06 EDT |
+| — | sase | [`ec78b05`](https://github.com/sase-org/sase/commit/ec78b0539195e876ad2ce2f9b7c003b7c6dd5f0f) | chore: Mark SDD plan done | 2026-06-23 08:38:26 EDT |
+| code | sase | [`ce1ad41`](https://github.com/sase-org/sase/commit/ce1ad41a1c874bca1d05158477a80ab8d8a612c9) | fix(ace): stop the file panel from losing the reader's scroll position | 2026-08-16 13:54:02 EDT |

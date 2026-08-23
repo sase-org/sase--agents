@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a6c5c69`](https://github.com/sase-org/sase/commit/a6c5c69a649387b820fbdb52c02478c6ea05aaf6) | feat(cli): launch epic work from plan files (sase-64.1) | 2026-07-15 15:05:12 UTC |
+| sase | [`a6c5c69`](https://github.com/sase-org/sase/commit/a6c5c69a649387b820fbdb52c02478c6ea05aaf6) | feat(cli): launch epic work from plan files (sase-64.1) | 2026-07-15 11:05:12 EDT |
 
 ## Neighbors
 

@@ -48,7 +48,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`d5d2dfa`](https://github.com/sase-org/sase/commit/d5d2dfaf0d6a2ad9d6c6c29c775aaa0c4373c99c) | chore: Add SDD prompt and plan for bead\_search\_command | 2026-06-18 12:12:52 UTC |
-| — | sase | [`5254b39`](https://github.com/sase-org/sase/commit/5254b3905b992a090714af3cbbf7efa5ede9f737) | chore(beads): add bead search epic plan beads | 2026-06-18 12:18:13 UTC |
-| code | sase | [`2e2facb`](https://github.com/sase-org/sase/commit/2e2facb945fb9a9461b14ff2788525b41764fbc7) | fix: release monitor handoff waits after successor success | 2026-08-13 22:11:40 UTC |
-| 1 | sase | [`a9642c6`](https://github.com/sase-org/sase/commit/a9642c63c17a79b52f5848d005a54672079d468e) | fix(tui): avoid disabled trace cache mutation | 2026-08-13 22:52:07 UTC |
+| — | sase | [`d5d2dfa`](https://github.com/sase-org/sase/commit/d5d2dfaf0d6a2ad9d6c6c29c775aaa0c4373c99c) | chore: Add SDD prompt and plan for bead\_search\_command | 2026-06-18 08:12:52 EDT |
+| — | sase | [`5254b39`](https://github.com/sase-org/sase/commit/5254b3905b992a090714af3cbbf7efa5ede9f737) | chore(beads): add bead search epic plan beads | 2026-06-18 08:18:13 EDT |
+| code | sase | [`2e2facb`](https://github.com/sase-org/sase/commit/2e2facb945fb9a9461b14ff2788525b41764fbc7) | fix: release monitor handoff waits after successor success | 2026-08-13 18:11:40 EDT |
+| 1 | sase | [`a9642c6`](https://github.com/sase-org/sase/commit/a9642c63c17a79b52f5848d005a54672079d468e) | fix(tui): avoid disabled trace cache mutation | 2026-08-13 18:52:07 EDT |

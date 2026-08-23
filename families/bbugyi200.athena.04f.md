@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`92934cb`](https://github.com/sase-org/sase/commit/92934cb04c9b9817151106360a953f4faa82ed96) | fix(llm-provider): honor absolute provider reset timestamps in usage-limit disables | 2026-08-17 11:06:05 UTC |
+| code | sase | [`92934cb`](https://github.com/sase-org/sase/commit/92934cb04c9b9817151106360a953f4faa82ed96) | fix(llm-provider): honor absolute provider reset timestamps in usage-limit disables | 2026-08-17 07:06:05 EDT |
 
 ## Neighbors
 

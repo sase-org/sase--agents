@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a788d8c`](https://github.com/sase-org/sase/commit/a788d8cbe44da8be000748943a1914e4c320942b) | feat(doctor): add editor command diagnostic (sase-5l.4) | 2026-07-08 06:38:26 UTC |
+| sase | [`a788d8c`](https://github.com/sase-org/sase/commit/a788d8cbe44da8be000748943a1914e4c320942b) | feat(doctor): add editor command diagnostic (sase-5l.4) | 2026-07-08 02:38:26 EDT |
 
 ## Neighbors
 

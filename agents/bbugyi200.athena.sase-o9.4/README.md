@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`790cb61`](https://github.com/sase-org/sase/commit/790cb61ee128b097842616881b92dfa3f91cf46c) | feat(ace-tui): jump from a Procs pane monitor row to its agent with Enter | 2026-08-17 12:36:36 UTC |
+| sase | [`790cb61`](https://github.com/sase-org/sase/commit/790cb61ee128b097842616881b92dfa3f91cf46c) | feat(ace-tui): jump from a Procs pane monitor row to its agent with Enter | 2026-08-17 08:36:36 EDT |
 
 ## Neighbors
 

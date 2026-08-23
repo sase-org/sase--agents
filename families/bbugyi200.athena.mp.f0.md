@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`4fb5980`](https://github.com/sase-org/sase/commit/4fb5980600a819238d77e4add6bc3487378d5d94) | fix(ace): show configured project names in commits UI | 2026-07-28 13:13:56 UTC |
+| code | sase | [`4fb5980`](https://github.com/sase-org/sase/commit/4fb5980600a819238d77e4add6bc3487378d5d94) | fix(ace): show configured project names in commits UI | 2026-07-28 09:13:56 EDT |
 
 ## Neighbors
 

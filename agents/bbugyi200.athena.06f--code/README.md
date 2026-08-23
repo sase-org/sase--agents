@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ea31a2b`](https://github.com/sase-org/sase/commit/ea31a2b5bf9cd1a092d55bb90fde6891711be152) | fix(agent): rebuild real identity on kill-and-edit | 2026-08-18 18:59:21 UTC |
+| sase | [`ea31a2b`](https://github.com/sase-org/sase/commit/ea31a2b5bf9cd1a092d55bb90fde6891711be152) | fix(agent): rebuild real identity on kill-and-edit | 2026-08-18 14:59:21 EDT |

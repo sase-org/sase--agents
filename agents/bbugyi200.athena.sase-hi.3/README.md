@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`54c1436`](https://github.com/sase-org/sase/commit/54c1436cd27fdcd8015ea33faa745bf42c2e5883) | feat!: cut over skill xprompt references | 2026-08-08 18:37:32 UTC |
+| sase | [`54c1436`](https://github.com/sase-org/sase/commit/54c1436cd27fdcd8015ea33faa745bf42c2e5883) | feat!: cut over skill xprompt references | 2026-08-08 14:37:32 EDT |
 
 ## Neighbors
 

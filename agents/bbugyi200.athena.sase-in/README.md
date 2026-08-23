@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9fddbbe`](https://github.com/sase-org/sase/commit/9fddbbe7705bbd13775f477e13998a5780e07e13) | fix: ignore stale sase-core workspace env vars | 2026-08-10 13:53:04 UTC |
+| sase | [`9fddbbe`](https://github.com/sase-org/sase/commit/9fddbbe7705bbd13775f477e13998a5780e07e13) | fix: ignore stale sase-core workspace env vars | 2026-08-10 09:53:04 EDT |

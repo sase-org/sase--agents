@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4e40764`](https://github.com/sase-org/sase/commit/4e40764920a28e1ee243ca753c74e43695b6e67a) | feat(ace): add prompt-input history trigger (sase-4m.3) | 2026-06-13 14:12:22 UTC |
+| sase | [`4e40764`](https://github.com/sase-org/sase/commit/4e40764920a28e1ee243ca753c74e43695b6e67a) | feat(ace): add prompt-input history trigger (sase-4m.3) | 2026-06-13 10:12:22 EDT |
 
 ## Neighbors
 

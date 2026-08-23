@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8259a12`](https://github.com/sase-org/sase/commit/8259a12d3ba79c5d1492a6436b9e28a2bc4a0cb7) | refactor(file-hooks): split engine into focused modules | 2026-08-22 13:05:50 UTC |
+| sase | [`8259a12`](https://github.com/sase-org/sase/commit/8259a12d3ba79c5d1492a6436b9e28a2bc4a0cb7) | refactor(file-hooks): split engine into focused modules | 2026-08-22 09:05:50 EDT |
 
 ## Neighbors
 

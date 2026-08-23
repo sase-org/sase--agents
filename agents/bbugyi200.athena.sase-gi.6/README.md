@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f7f479a`](https://github.com/sase-org/sase/commit/f7f479a55ba1a6f7bfb5130e6ab8314f831b9b17) | feat(ace-tui): highlight ordered-list markers like bullet dashes | 2026-08-06 20:43:17 UTC |
+| sase | [`f7f479a`](https://github.com/sase-org/sase/commit/f7f479a55ba1a6f7bfb5130e6ab8314f831b9b17) | feat(ace-tui): highlight ordered-list markers like bullet dashes | 2026-08-06 16:43:17 EDT |
 
 ## Neighbors
 

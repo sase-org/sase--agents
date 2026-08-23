@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ab5099e`](https://github.com/sase-org/sase/commit/ab5099e203990f12cd2c4d44d48394d40fad9349) | feat(monitor): let follow-up agents select a model | 2026-08-22 12:02:28 UTC |
+| sase | [`ab5099e`](https://github.com/sase-org/sase/commit/ab5099e203990f12cd2c4d44d48394d40fad9349) | feat(monitor): let follow-up agents select a model | 2026-08-22 08:02:28 EDT |

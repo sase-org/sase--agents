@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b3382f5`](https://github.com/sase-org/sase/commit/b3382f54476cbef7faae1133f945b34986eb15b8) | refactor(tui): split xprompt browser pane helpers | 2026-06-27 12:55:01 UTC |
+| sase | [`b3382f5`](https://github.com/sase-org/sase/commit/b3382f54476cbef7faae1133f945b34986eb15b8) | refactor(tui): split xprompt browser pane helpers | 2026-06-27 08:55:01 EDT |
 
 ## Neighbors
 

@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f4dfc26`](https://github.com/sase-org/sase/commit/f4dfc2626ba425bb9b24e55f65518a317ed172e4) | feat(beads): simplify snooze gate duration input | 2026-08-08 15:54:01 UTC |
+| code | sase | [`f4dfc26`](https://github.com/sase-org/sase/commit/f4dfc2626ba425bb9b24e55f65518a317ed172e4) | feat(beads): simplify snooze gate duration input | 2026-08-08 11:54:01 EDT |
 
 ## Neighbors
 

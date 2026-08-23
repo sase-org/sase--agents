@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fe7c5a5`](https://github.com/sase-org/sase/commit/fe7c5a529cc7d3d14675381a21895deae574cc0e) | build(deps): require sase-core-rs 0.17 | 2026-07-31 10:40:58 UTC |
+| sase | [`fe7c5a5`](https://github.com/sase-org/sase/commit/fe7c5a529cc7d3d14675381a21895deae574cc0e) | build(deps): require sase-core-rs 0.17 | 2026-07-31 06:40:58 EDT |

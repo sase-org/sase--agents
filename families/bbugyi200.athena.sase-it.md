@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`b64ed20`](https://github.com/sase-org/sase/commit/b64ed20a11efaf45ce5082b6c85ffbbbe8d0f71c) | fix: retry symvision bead status lookups | 2026-08-10 14:58:38 UTC |
+| code | sase | [`b64ed20`](https://github.com/sase-org/sase/commit/b64ed20a11efaf45ce5082b6c85ffbbbe8d0f71c) | fix: retry symvision bead status lookups | 2026-08-10 10:58:38 EDT |

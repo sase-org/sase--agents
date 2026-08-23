@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`90d8c3a`](https://github.com/sase-org/sase/commit/90d8c3ac62dcd0951503f0f5e34032cac8a13700) | test: isolate model alias state between tests | 2026-07-31 13:12:40 UTC |
+| sase | [`90d8c3a`](https://github.com/sase-org/sase/commit/90d8c3ac62dcd0951503f0f5e34032cac8a13700) | test: isolate model alias state between tests | 2026-07-31 09:12:40 EDT |

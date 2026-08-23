@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e667241`](https://github.com/sase-org/sase/commit/e6672413fa1f561b7621a881537c8545ec8d923b) | docs: correct inspect-agent findings in SASE user docs | 2026-08-20 04:21:25 UTC |
+| sase | [`e667241`](https://github.com/sase-org/sase/commit/e6672413fa1f561b7621a881537c8545ec8d923b) | docs: correct inspect-agent findings in SASE user docs | 2026-08-20 00:21:25 EDT |
 
 ## Neighbors
 

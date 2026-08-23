@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d5653ff`](https://github.com/sase-org/sase/commit/d5653ff666ee7e77468b6ec6da25e126807137ec) | refactor(ace): split the inventory panes module into focused files | 2026-08-07 19:08:09 UTC |
+| sase | [`d5653ff`](https://github.com/sase-org/sase/commit/d5653ff666ee7e77468b6ec6da25e126807137ec) | refactor(ace): split the inventory panes module into focused files | 2026-08-07 15:08:09 EDT |
 
 ## Neighbors
 

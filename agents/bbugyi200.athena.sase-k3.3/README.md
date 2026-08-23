@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`14fcbc2`](https://github.com/sase-org/sase/commit/14fcbc21a104c2252270ea0be97324231a221b50) | perf(ace): defer persisted diff-badge classification off the loader (sase-k3.3) | 2026-08-12 18:12:11 UTC |
+| sase | [`14fcbc2`](https://github.com/sase-org/sase/commit/14fcbc21a104c2252270ea0be97324231a221b50) | perf(ace): defer persisted diff-badge classification off the loader (sase-k3.3) | 2026-08-12 14:12:11 EDT |
 
 ## Neighbors
 

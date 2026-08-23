@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`4ee5cd0`](https://github.com/sase-org/sase/commit/4ee5cd092b45fe813c6e359f04f9248f8ff71c6a) | feat(ace): raise history word completion default | 2026-07-29 12:19:15 UTC |
+| code | sase | [`4ee5cd0`](https://github.com/sase-org/sase/commit/4ee5cd092b45fe813c6e359f04f9248f8ff71c6a) | feat(ace): raise history word completion default | 2026-07-29 08:19:15 EDT |
 
 ## Neighbors
 

@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`0c08406`](https://github.com/sase-org/sase/commit/0c084068cfa7247123d4a9bc96d372ef620ac6bd) | revert(memory): drop stale-core sentence from build\_and\_run.md | 2026-08-07 21:49:36 UTC |
+| code | sase | [`0c08406`](https://github.com/sase-org/sase/commit/0c084068cfa7247123d4a9bc96d372ef620ac6bd) | revert(memory): drop stale-core sentence from build\_and\_run.md | 2026-08-07 17:49:36 EDT |
 
 ## Neighbors
 

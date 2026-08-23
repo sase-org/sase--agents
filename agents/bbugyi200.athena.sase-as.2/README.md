@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d867a44`](https://github.com/sase-org/sase/commit/d867a44ff21343d9a193f9480c46435f881ef5fd) | feat(ace): support marks across artifact panes | 2026-07-29 15:40:10 UTC |
+| sase | [`d867a44`](https://github.com/sase-org/sase/commit/d867a44ff21343d9a193f9480c46435f881ef5fd) | feat(ace): support marks across artifact panes | 2026-07-29 11:40:10 EDT |
 
 ## Neighbors
 

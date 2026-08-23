@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6a4bb9d`](https://github.com/sase-org/sase/commit/6a4bb9d5bbe242603e6c5cdf6b53cdd3aab0e1d5) | test: add bead notification PNG snapshots | 2026-08-01 12:49:04 UTC |
+| sase | [`6a4bb9d`](https://github.com/sase-org/sase/commit/6a4bb9d5bbe242603e6c5cdf6b53cdd3aab0e1d5) | test: add bead notification PNG snapshots | 2026-08-01 08:49:04 EDT |
 
 ## Neighbors
 

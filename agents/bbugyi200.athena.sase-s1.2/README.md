@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b05d2d5`](https://github.com/sase-org/sase/commit/b05d2d5bfd33209dea439a79cd68ccd99a83fc38) | test(cli): make help and skills assertions environment-independent | 2026-08-22 13:25:33 UTC |
+| sase | [`b05d2d5`](https://github.com/sase-org/sase/commit/b05d2d5bfd33209dea439a79cd68ccd99a83fc38) | test(cli): make help and skills assertions environment-independent | 2026-08-22 09:25:33 EDT |
 
 ## Neighbors
 

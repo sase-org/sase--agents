@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ab77edb`](https://github.com/sase-org/sase/commit/ab77edb2e8870e0fe966922ff41692bf7f611be5) | refactor(tui): split prompt bar xprompt saves | 2026-08-22 00:11:12 UTC |
+| sase | [`ab77edb`](https://github.com/sase-org/sase/commit/ab77edb2e8870e0fe966922ff41692bf7f611be5) | refactor(tui): split prompt bar xprompt saves | 2026-08-21 20:11:12 EDT |
 
 ## Neighbors
 

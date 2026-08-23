@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`63a24a0`](https://github.com/sase-org/sase/commit/63a24a025223680adeceac91397ab58313e0fb10) | feat: improve task triage gate presentation | 2026-08-01 12:05:51 UTC |
+| sase | [`63a24a0`](https://github.com/sase-org/sase/commit/63a24a025223680adeceac91397ab58313e0fb10) | feat: improve task triage gate presentation | 2026-08-01 08:05:51 EDT |
 
 ## Neighbors
 

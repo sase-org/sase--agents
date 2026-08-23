@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8a0ae27`](https://github.com/sase-org/sase/commit/8a0ae2730091422830390c8385b59df993e753e7) | feat(tui): link chats to local agents (sase-90.7) | 2026-07-25 01:18:40 UTC |
+| sase | [`8a0ae27`](https://github.com/sase-org/sase/commit/8a0ae2730091422830390c8385b59df993e753e7) | feat(tui): link chats to local agents (sase-90.7) | 2026-07-24 21:18:40 EDT |
 
 ## Neighbors
 

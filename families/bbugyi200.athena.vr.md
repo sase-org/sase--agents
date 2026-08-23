@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`125b5c3`](https://github.com/sase-org/sase/commit/125b5c31b23a147d1e65445a7c8a1ff862b4f543) | docs: document Muse Code provider support | 2026-08-08 16:21:49 UTC |
+| code | sase | [`125b5c3`](https://github.com/sase-org/sase/commit/125b5c31b23a147d1e65445a7c8a1ff862b4f543) | docs: document Muse Code provider support | 2026-08-08 12:21:49 EDT |

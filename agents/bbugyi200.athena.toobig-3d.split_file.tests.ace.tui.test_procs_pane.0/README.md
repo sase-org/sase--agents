@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`17d560a`](https://github.com/sase-org/sase/commit/17d560a83cc404619d026e4138f942a39ed69bcd) | test(ace): split procs pane tests | 2026-08-22 03:14:36 UTC |
+| sase | [`17d560a`](https://github.com/sase-org/sase/commit/17d560a83cc404619d026e4138f942a39ed69bcd) | test(ace): split procs pane tests | 2026-08-21 23:14:36 EDT |
 
 ## Neighbors
 

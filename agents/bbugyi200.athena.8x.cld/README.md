@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`82d5d80`](https://github.com/sase-org/sase/commit/82d5d80c8d5983452360fe94bc0cf7a45c8f17f4) | chore: Add SDD prompt and plan for bead\_agent\_selection\_freeze | 2026-06-16 15:23:03 UTC |
-| sase | [`d01a652`](https://github.com/sase-org/sase/commit/d01a6522d861f835800a0ad946e17fc0e6117b55) | perf(tui): resolve agent bead details asynchronously | 2026-06-16 15:38:39 UTC |
+| sase | [`82d5d80`](https://github.com/sase-org/sase/commit/82d5d80c8d5983452360fe94bc0cf7a45c8f17f4) | chore: Add SDD prompt and plan for bead\_agent\_selection\_freeze | 2026-06-16 11:23:03 EDT |
+| sase | [`d01a652`](https://github.com/sase-org/sase/commit/d01a6522d861f835800a0ad946e17fc0e6117b55) | perf(tui): resolve agent bead details asynchronously | 2026-06-16 11:38:39 EDT |
 
 ## Neighbors
 

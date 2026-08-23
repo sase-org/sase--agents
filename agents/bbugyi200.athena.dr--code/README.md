@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bfdf0e8`](https://github.com/sase-org/sase/commit/bfdf0e87be08d27ad8e5ea5a9258328be4634756) | feat!: support clan-level tribe directives | 2026-07-18 19:32:45 UTC |
+| sase | [`bfdf0e8`](https://github.com/sase-org/sase/commit/bfdf0e87be08d27ad8e5ea5a9258328be4634756) | feat!: support clan-level tribe directives | 2026-07-18 15:32:45 EDT |

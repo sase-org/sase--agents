@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9624746`](https://github.com/sase-org/sase/commit/9624746a4948f0935eebe8778c89cb33ea6a660f) | feat(ace): auto-expand panels for agent jumps | 2026-07-16 21:01:00 UTC |
+| sase | [`9624746`](https://github.com/sase-org/sase/commit/9624746a4948f0935eebe8778c89cb33ea6a660f) | feat(ace): auto-expand panels for agent jumps | 2026-07-16 17:01:00 EDT |
 
 ## Neighbors
 

@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`619de09`](https://github.com/sase-org/sase/commit/619de093a7e9f9cb86a05042fb402f2710039996) | fix(changelog): enforce release-please ownership | 2026-07-29 16:26:20 UTC |
+| code | sase | [`619de09`](https://github.com/sase-org/sase/commit/619de093a7e9f9cb86a05042fb402f2710039996) | fix(changelog): enforce release-please ownership | 2026-07-29 12:26:20 EDT |

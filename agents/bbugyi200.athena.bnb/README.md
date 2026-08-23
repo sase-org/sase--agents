@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`61229b4`](https://github.com/sase-org/sase/commit/61229b4308a4654b293e67c97afaf3d0403a1ffb) | chore: Add SDD prompt and plan for static\_sibling\_finalizer\_1 | 2026-05-28 13:38:03 UTC |
-| sase | [`421e99e`](https://github.com/sase-org/sase/commit/421e99ebafb6194cbec3c6abb335ddbf4c68a0c9) | fix: report dirty static sibling repos as advisory | 2026-05-28 13:48:09 UTC |
+| sase | [`61229b4`](https://github.com/sase-org/sase/commit/61229b4308a4654b293e67c97afaf3d0403a1ffb) | chore: Add SDD prompt and plan for static\_sibling\_finalizer\_1 | 2026-05-28 09:38:03 EDT |
+| sase | [`421e99e`](https://github.com/sase-org/sase/commit/421e99ebafb6194cbec3c6abb335ddbf4c68a0c9) | fix: report dirty static sibling repos as advisory | 2026-05-28 09:48:09 EDT |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eb2338f`](https://github.com/sase-org/sase/commit/eb2338f83093f917f9ae4e01b107580b412ccf4e) | feat!: remove stale agent status grouping helper | 2026-07-09 14:58:56 UTC |
+| sase | [`eb2338f`](https://github.com/sase-org/sase/commit/eb2338f83093f917f9ae4e01b107580b412ccf4e) | feat!: remove stale agent status grouping helper | 2026-07-09 10:58:56 EDT |

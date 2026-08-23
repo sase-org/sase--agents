@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`887f689`](https://github.com/sase-org/sase/commit/887f6890ce0323ec5608c940196ba2b76270b520) | fix: retry model capacity failures | 2026-07-10 20:25:53 UTC |
+| sase | [`887f689`](https://github.com/sase-org/sase/commit/887f6890ce0323ec5608c940196ba2b76270b520) | fix: retry model capacity failures | 2026-07-10 16:25:53 EDT |

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bd4b92e`](https://github.com/sase-org/sase/commit/bd4b92ed9b72e61bef13f9c533933f6ef7f9722d) | test(tui): split agent family member tests | 2026-08-22 19:20:05 UTC |
+| sase | [`bd4b92e`](https://github.com/sase-org/sase/commit/bd4b92ed9b72e61bef13f9c533933f6ef7f9722d) | test(tui): split agent family member tests | 2026-08-22 15:20:05 EDT |
 
 ## Neighbors
 

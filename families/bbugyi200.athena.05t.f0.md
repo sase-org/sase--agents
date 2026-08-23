@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`cfdaa65`](https://github.com/sase-org/sase/commit/cfdaa657769f84c66408d49c60d8e8b6ee8840b5) | feat(agent): make restart reuse names it used to refuse | 2026-08-18 15:01:10 UTC |
+| 1 | sase | [`cfdaa65`](https://github.com/sase-org/sase/commit/cfdaa657769f84c66408d49c60d8e8b6ee8840b5) | feat(agent): make restart reuse names it used to refuse | 2026-08-18 11:01:10 EDT |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fc3fc55`](https://github.com/sase-org/sase/commit/fc3fc552c09b3b78c30fdb0765eaf02ea70af32d) | fix: normalize GitHub sidecar origins to SSH | 2026-07-15 14:28:06 UTC |
+| sase | [`fc3fc55`](https://github.com/sase-org/sase/commit/fc3fc552c09b3b78c30fdb0765eaf02ea70af32d) | fix: normalize GitHub sidecar origins to SSH | 2026-07-15 10:28:06 EDT |
 
 ## Neighbors
 

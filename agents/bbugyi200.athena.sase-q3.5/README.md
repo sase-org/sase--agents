@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`11f7865`](https://github.com/sase-org/sase/commit/11f78656d780ddd4f546f9f044e13bf275517047) | feat(tui): style gate input panel and badge options that take input | 2026-08-18 23:13:28 UTC |
+| sase | [`11f7865`](https://github.com/sase-org/sase/commit/11f78656d780ddd4f546f9f044e13bf275517047) | feat(tui): style gate input panel and badge options that take input | 2026-08-18 19:13:28 EDT |
 
 ## Neighbors
 

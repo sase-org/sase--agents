@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6047ada`](https://github.com/sase-org/sase/commit/6047ada2e930aaaba56a5b93b09d9cd94747f087) | fix: dismiss notifications after named-agent kills (sase-63.2) | 2026-07-15 14:27:03 UTC |
+| sase | [`6047ada`](https://github.com/sase-org/sase/commit/6047ada2e930aaaba56a5b93b09d9cd94747f087) | fix: dismiss notifications after named-agent kills (sase-63.2) | 2026-07-15 10:27:03 EDT |
 
 ## Neighbors
 

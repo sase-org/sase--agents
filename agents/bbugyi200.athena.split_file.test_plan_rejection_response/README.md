@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`af81dd7`](https://github.com/sase-org/sase/commit/af81dd7de1fe34f9f07ddb989301529b38fd561b) | test: split plan rejection response tests | 2026-06-15 23:27:55 UTC |
+| sase | [`af81dd7`](https://github.com/sase-org/sase/commit/af81dd7de1fe34f9f07ddb989301529b38fd561b) | test: split plan rejection response tests | 2026-06-15 19:27:55 EDT |
 
 ## Neighbors
 

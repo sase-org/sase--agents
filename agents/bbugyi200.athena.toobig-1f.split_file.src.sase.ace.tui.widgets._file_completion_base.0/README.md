@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b7bea59`](https://github.com/sase-org/sase/commit/b7bea59ad0c90bce5e5307df47cdd76d4cfc5b09) | refactor(tui): split file completion worker logic | 2026-08-02 18:51:27 UTC |
+| sase | [`b7bea59`](https://github.com/sase-org/sase/commit/b7bea59ad0c90bce5e5307df47cdd76d4cfc5b09) | refactor(tui): split file completion worker logic | 2026-08-02 14:51:27 EDT |
 
 ## Neighbors
 

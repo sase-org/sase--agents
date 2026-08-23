@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`330c258`](https://github.com/sase-org/sase/commit/330c25856f83465adfefe190495f6ddbc3369867) | fix: restart exact agent family members | 2026-07-23 15:03:00 UTC |
+| code | sase | [`330c258`](https://github.com/sase-org/sase/commit/330c25856f83465adfefe190495f6ddbc3369867) | fix: restart exact agent family members | 2026-07-23 11:03:00 EDT |

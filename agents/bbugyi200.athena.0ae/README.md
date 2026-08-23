@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`11deaa0`](https://github.com/sase-org/sase/commit/11deaa052816777ee25b1cc4eb3923cb77f8d3bd) | fix(notify): dispatch tab reads through apply-state-many | 2026-08-22 10:54:55 UTC |
+| sase | [`11deaa0`](https://github.com/sase-org/sase/commit/11deaa052816777ee25b1cc4eb3923cb77f8d3bd) | fix(notify): dispatch tab reads through apply-state-many | 2026-08-22 06:54:55 EDT |

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`10cb34c`](https://github.com/sase-org/sase/commit/10cb34c86258c71da4e0544af992f6c337b4cb08) | fix(sdd): link managed workspaces to SDD store | 2026-07-08 17:23:55 UTC |
+| sase | [`10cb34c`](https://github.com/sase-org/sase/commit/10cb34c86258c71da4e0544af992f6c337b4cb08) | fix(sdd): link managed workspaces to SDD store | 2026-07-08 13:23:55 EDT |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1d3f377`](https://github.com/sase-org/sase/commit/1d3f3777ae69792d24619f6712aece1013860041) | fix(ace): keep Update panel Everything key visible | 2026-08-19 22:47:49 UTC |
+| sase | [`1d3f377`](https://github.com/sase-org/sase/commit/1d3f3777ae69792d24619f6712aece1013860041) | fix(ace): keep Update panel Everything key visible | 2026-08-19 18:47:49 EDT |
 
 ## Neighbors
 

@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a67cd98`](https://github.com/sase-org/sase/commit/a67cd989afc5f552669305c535b18076b93d533b) | fix: require pass evidence for reproducible flakes | 2026-08-08 20:57:40 UTC |
+| sase | [`a67cd98`](https://github.com/sase-org/sase/commit/a67cd989afc5f552669305c535b18076b93d533b) | fix: require pass evidence for reproducible flakes | 2026-08-08 16:57:40 EDT |

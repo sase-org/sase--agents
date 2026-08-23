@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`13e3b1d`](https://github.com/sase-org/sase/commit/13e3b1ddc93a77b1fdc1aece5c26aecad554eae1) | fix: settle stopped family predecessors | 2026-07-28 15:05:19 UTC |
+| code | sase | [`13e3b1d`](https://github.com/sase-org/sase/commit/13e3b1ddc93a77b1fdc1aece5c26aecad554eae1) | fix: settle stopped family predecessors | 2026-07-28 11:05:19 EDT |

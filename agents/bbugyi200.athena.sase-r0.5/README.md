@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6339525`](https://github.com/sase-org/sase/commit/63395254ea88fa80ebb5adaa08692420d434ee08) | feat(cli): add sase tmux-agent command | 2026-08-19 19:21:15 UTC |
+| sase | [`6339525`](https://github.com/sase-org/sase/commit/63395254ea88fa80ebb5adaa08692420d434ee08) | feat(cli): add sase tmux-agent command | 2026-08-19 15:21:15 EDT |
 
 ## Neighbors
 

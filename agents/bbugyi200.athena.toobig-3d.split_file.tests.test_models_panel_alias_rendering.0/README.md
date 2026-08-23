@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`57e3115`](https://github.com/sase-org/sase/commit/57e311569dbfadeb575c3784eb7fdd35cfa2c7da) | test(models-panel): split alias rendering tests | 2026-08-22 05:21:02 UTC |
+| sase | [`57e3115`](https://github.com/sase-org/sase/commit/57e311569dbfadeb575c3784eb7fdd35cfa2c7da) | test(models-panel): split alias rendering tests | 2026-08-22 01:21:02 EDT |
 
 ## Neighbors
 

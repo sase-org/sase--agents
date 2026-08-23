@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`573b8df`](https://github.com/sase-org/sase/commit/573b8df738e8926189877bcd5d255eb9c45e4a4e) | refactor(finalizers): split controller responsibilities | 2026-08-22 18:31:54 UTC |
+| sase | [`573b8df`](https://github.com/sase-org/sase/commit/573b8df738e8926189877bcd5d255eb9c45e4a4e) | refactor(finalizers): split controller responsibilities | 2026-08-22 14:31:54 EDT |
 
 ## Neighbors
 

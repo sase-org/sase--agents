@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`203d21d`](https://github.com/sase-org/sase/commit/203d21d2344ed178bc124919a2680e15ccf3ac50) | test(completion): split candidate provider tests | 2026-08-22 04:18:52 UTC |
+| sase | [`203d21d`](https://github.com/sase-org/sase/commit/203d21d2344ed178bc124919a2680e15ccf3ac50) | test(completion): split candidate provider tests | 2026-08-22 00:18:52 EDT |
 
 ## Neighbors
 

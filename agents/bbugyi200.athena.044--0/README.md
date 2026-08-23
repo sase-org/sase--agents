@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`71061ce`](https://github.com/sase-org/sase/commit/71061ceada7d4153bead25d4d12a0fe8820ef2ea) | fix(monitor): publish supervisor pid before startup ack | 2026-08-16 18:16:01 UTC |
+| sase | [`71061ce`](https://github.com/sase-org/sase/commit/71061ceada7d4153bead25d4d12a0fe8820ef2ea) | fix(monitor): publish supervisor pid before startup ack | 2026-08-16 14:16:01 EDT |

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`03a52fe`](https://github.com/sase-org/sase/commit/03a52fe838468a0b067faf2a393251f54907c1fe) | docs: add research on TUI + xprompt LSP shared-index freeze | 2026-06-27 20:10:10 UTC |
+| sase | [`03a52fe`](https://github.com/sase-org/sase/commit/03a52fe838468a0b067faf2a393251f54907c1fe) | docs: add research on TUI + xprompt LSP shared-index freeze | 2026-06-27 16:10:10 EDT |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eb3433e`](https://github.com/sase-org/sase/commit/eb3433ec94119a9765beae732e8b562f0ff0aee7) | feat(tui): add Beads mutation workflows | 2026-08-01 16:25:01 UTC |
+| sase | [`eb3433e`](https://github.com/sase-org/sase/commit/eb3433ec94119a9765beae732e8b562f0ff0aee7) | feat(tui): add Beads mutation workflows | 2026-08-01 12:25:01 EDT |
 
 ## Neighbors
 

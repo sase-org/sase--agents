@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d61f3bb`](https://github.com/sase-org/sase/commit/d61f3bbc60be5d249ea1474f81bc923bd20afd6d) | feat: raise sase-core-rs floor to 0.31.0 | 2026-08-22 17:25:56 UTC |
+| sase | [`d61f3bb`](https://github.com/sase-org/sase/commit/d61f3bbc60be5d249ea1474f81bc923bd20afd6d) | feat: raise sase-core-rs floor to 0.31.0 | 2026-08-22 13:25:56 EDT |

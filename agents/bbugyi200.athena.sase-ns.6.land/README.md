@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5feaabc`](https://github.com/sase-org/sase/commit/5feaabc7122423aff552188be0e662cf2d538684) | fix(selection-health): retire the fixed config-center node's evidence | 2026-08-17 02:11:36 UTC |
+| sase | [`5feaabc`](https://github.com/sase-org/sase/commit/5feaabc7122423aff552188be0e662cf2d538684) | fix(selection-health): retire the fixed config-center node's evidence | 2026-08-16 22:11:36 EDT |
 
 ## Neighbors
 

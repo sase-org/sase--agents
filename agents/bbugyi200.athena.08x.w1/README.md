@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6455b9d`](https://github.com/sase-org/sase/commit/6455b9d0d311d214c0f22fc2a39d872209a57933) | chore: Add SDD prompt and plan for jump\_to\_definition\_keymap | 2026-06-28 14:41:39 UTC |
+| sase | [`6455b9d`](https://github.com/sase-org/sase/commit/6455b9d0d311d214c0f22fc2a39d872209a57933) | chore: Add SDD prompt and plan for jump\_to\_definition\_keymap | 2026-06-28 10:41:39 EDT |
 
 ## Neighbors
 

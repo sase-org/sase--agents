@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`856087f`](https://github.com/sase-org/sase/commit/856087f1e13ee9e3c4fc63d55b156478149a08e9) | test(commit): split resume workflow tests | 2026-08-22 04:49:36 UTC |
+| sase | [`856087f`](https://github.com/sase-org/sase/commit/856087f1e13ee9e3c4fc63d55b156478149a08e9) | test(commit): split resume workflow tests | 2026-08-22 00:49:36 EDT |
 
 ## Neighbors
 

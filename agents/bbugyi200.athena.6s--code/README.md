@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`df60999`](https://github.com/sase-org/sase/commit/df60999b5b38ef1c94dcb247b66a52e744d6e4ad) | feat!: isolate linked repository clones from companions | 2026-07-12 16:11:41 UTC |
+| sase | [`df60999`](https://github.com/sase-org/sase/commit/df60999b5b38ef1c94dcb247b66a52e744d6e4ad) | feat!: isolate linked repository clones from companions | 2026-07-12 12:11:41 EDT |
 
 ## Neighbors
 

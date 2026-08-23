@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`35c44d8`](https://github.com/sase-org/sase/commit/35c44d8221717b7c70c9e1552402f2d51901f33c) | feat(runtime): expose clan wall-clock aggregation (sase-6n.1) | 2026-07-17 22:02:23 UTC |
+| sase | [`35c44d8`](https://github.com/sase-org/sase/commit/35c44d8221717b7c70c9e1552402f2d51901f33c) | feat(runtime): expose clan wall-clock aggregation (sase-6n.1) | 2026-07-17 18:02:23 EDT |
 
 ## Neighbors
 

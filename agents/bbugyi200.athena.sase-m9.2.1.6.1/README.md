@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ffce3c8`](https://github.com/sase-org/sase/commit/ffce3c842846352f6b39e66066fdd30aaf9cd193) | fix(procs): recover proc-shell settlement while waiting | 2026-08-15 15:28:41 UTC |
+| sase | [`ffce3c8`](https://github.com/sase-org/sase/commit/ffce3c842846352f6b39e66066fdd30aaf9cd193) | fix(procs): recover proc-shell settlement while waiting | 2026-08-15 11:28:41 EDT |
 
 ## Neighbors
 

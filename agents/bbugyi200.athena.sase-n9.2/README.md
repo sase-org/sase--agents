@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`233657d`](https://github.com/sase-org/sase/commit/233657db3cab758939f6f5c6c5c69efef57d9fae) | feat(tui): preview family plans in target completions | 2026-08-16 18:31:30 UTC |
+| sase | [`233657d`](https://github.com/sase-org/sase/commit/233657db3cab758939f6f5c6c5c69efef57d9fae) | feat(tui): preview family plans in target completions | 2026-08-16 14:31:30 EDT |
 
 ## Neighbors
 

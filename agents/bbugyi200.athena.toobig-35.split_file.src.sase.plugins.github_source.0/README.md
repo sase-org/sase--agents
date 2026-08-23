@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f6e37e0`](https://github.com/sase-org/sase/commit/f6e37e01bd36dacd0aa87ab88bfa6d1304a634a4) | refactor(plugins): split github\_source.py into focused modules | 2026-08-19 04:56:30 UTC |
+| sase | [`f6e37e0`](https://github.com/sase-org/sase/commit/f6e37e01bd36dacd0aa87ab88bfa6d1304a634a4) | refactor(plugins): split github\_source.py into focused modules | 2026-08-19 00:56:30 EDT |
 
 ## Neighbors
 

@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f0e1a25`](https://github.com/sase-org/sase/commit/f0e1a25e6ee5be14ba7e94439610d64e261d2500) | fix(memory): scope generated bead memory note to project repos only | 2026-07-31 22:21:56 UTC |
+| code | sase | [`f0e1a25`](https://github.com/sase-org/sase/commit/f0e1a25e6ee5be14ba7e94439610d64e261d2500) | fix(memory): scope generated bead memory note to project repos only | 2026-07-31 18:21:56 EDT |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`12da108`](https://github.com/sase-org/sase/commit/12da1082b580551396f1d28f5b1d822404ea78d2) | feat(bead): route phase work by size (sase-7z.4) | 2026-07-20 12:27:42 UTC |
+| sase | [`12da108`](https://github.com/sase-org/sase/commit/12da1082b580551396f1d28f5b1d822404ea78d2) | feat(bead): route phase work by size (sase-7z.4) | 2026-07-20 08:27:42 EDT |
 
 ## Neighbors
 

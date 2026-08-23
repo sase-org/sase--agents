@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`ddd0b63`](https://github.com/sase-org/sase/commit/ddd0b63f22dce1e5e5d2c8d35af96b9fd2967a3f) | feat: support launch-scoped model alias overrides | 2026-07-12 00:11:16 UTC |
+| code | sase | [`ddd0b63`](https://github.com/sase-org/sase/commit/ddd0b63f22dce1e5e5d2c8d35af96b9fd2967a3f) | feat: support launch-scoped model alias overrides | 2026-07-11 20:11:16 EDT |

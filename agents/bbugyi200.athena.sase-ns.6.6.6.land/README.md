@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c11e1ad`](https://github.com/sase-org/sase/commit/c11e1ad882196adb00e80513e755b300a6a824cf) | test(sdd): replace forked epic-plan-launch lock holders with an in-process seam | 2026-08-17 18:20:14 UTC |
+| sase | [`c11e1ad`](https://github.com/sase-org/sase/commit/c11e1ad882196adb00e80513e755b300a6a824cf) | test(sdd): replace forked epic-plan-launch lock holders with an in-process seam | 2026-08-17 14:20:14 EDT |
 
 ## Neighbors
 

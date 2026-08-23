@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fdc318c`](https://github.com/sase-org/sase/commit/fdc318c8c024eddbf69d0c1cc871867dcaec32c8) | chore: Add SDD prompt and plan for saved\_group\_revival\_tmux | 2026-05-27 19:52:02 UTC |
-| sase | [`e6f5985`](https://github.com/sase-org/sase/commit/e6f5985423969d1798bcacbeab25a685c0784b99) | fix: preserve revived saved group roots | 2026-05-27 20:02:05 UTC |
+| sase | [`fdc318c`](https://github.com/sase-org/sase/commit/fdc318c8c024eddbf69d0c1cc871867dcaec32c8) | chore: Add SDD prompt and plan for saved\_group\_revival\_tmux | 2026-05-27 15:52:02 EDT |
+| sase | [`e6f5985`](https://github.com/sase-org/sase/commit/e6f5985423969d1798bcacbeab25a685c0784b99) | fix: preserve revived saved group roots | 2026-05-27 16:02:05 EDT |
 
 ## Neighbors
 

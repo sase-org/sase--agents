@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`675c712`](https://github.com/sase-org/sase/commit/675c71279fe1c4b1695bc037d4ccefb3bcf14e76) | docs: describe the external PR mirror refresh path | 2026-08-12 19:24:27 UTC |
+| sase | [`675c712`](https://github.com/sase-org/sase/commit/675c71279fe1c4b1695bc037d4ccefb3bcf14e76) | docs: describe the external PR mirror refresh path | 2026-08-12 15:24:27 EDT |
 
 ## Neighbors
 

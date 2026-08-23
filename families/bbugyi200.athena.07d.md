@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`9ac9d31`](https://github.com/sase-org/sase/commit/9ac9d31c9ed0be1b26a32466c18a07fd53083832) | feat(tui): describe Admin Center tabs | 2026-06-27 11:15:46 UTC |
-| code | sase | [`5091704`](https://github.com/sase-org/sase/commit/509170484e2c8b4ff2ea84595a55e769127ba552) | feat(bead): raise flake task type's triage bar to +3 | 2026-08-19 00:59:52 UTC |
+| — | sase | [`9ac9d31`](https://github.com/sase-org/sase/commit/9ac9d31c9ed0be1b26a32466c18a07fd53083832) | feat(tui): describe Admin Center tabs | 2026-06-27 07:15:46 EDT |
+| code | sase | [`5091704`](https://github.com/sase-org/sase/commit/509170484e2c8b4ff2ea84595a55e769127ba552) | feat(bead): raise flake task type's triage bar to +3 | 2026-08-18 20:59:52 EDT |

@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`3f5378a`](https://github.com/sase-org/sase/commit/3f5378aebe2490cfc6c88aa266e30c8f1755a212) | feat(artifacts): conform pane contract capabilities | 2026-08-16 21:20:39 UTC |
+| 1 | sase | [`3f5378a`](https://github.com/sase-org/sase/commit/3f5378aebe2490cfc6c88aa266e30c8f1755a212) | feat(artifacts): conform pane contract capabilities | 2026-08-16 17:20:39 EDT |
 
 ## Neighbors
 

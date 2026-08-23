@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a3a536a`](https://github.com/sase-org/sase/commit/a3a536a033daebf647439bde081d7e609a8dc99e) | feat(bead): add regex mode to bead search | 2026-08-09 12:46:44 UTC |
+| sase | [`a3a536a`](https://github.com/sase-org/sase/commit/a3a536a033daebf647439bde081d7e609a8dc99e) | feat(bead): add regex mode to bead search | 2026-08-09 08:46:44 EDT |
 
 ## Neighbors
 

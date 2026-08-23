@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5b3f349`](https://github.com/sase-org/sase/commit/5b3f3494b9488719acacfa067d570fdef4d05f61) | build(deps): raise sase-core-rs floor to 0.19.0 and cover the snooze close path against a real store | 2026-08-07 05:20:07 UTC |
+| sase | [`5b3f349`](https://github.com/sase-org/sase/commit/5b3f3494b9488719acacfa067d570fdef4d05f61) | build(deps): raise sase-core-rs floor to 0.19.0 and cover the snooze close path against a real store | 2026-08-07 01:20:07 EDT |
 
 ## Neighbors
 

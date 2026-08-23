@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d8b67d6`](https://github.com/sase-org/sase/commit/d8b67d602c0df6f4c2c7d26f845ec85dad3bc10e) | feat: support agent families as fork sources (sase-7i.5) | 2026-07-19 19:34:17 UTC |
+| sase | [`d8b67d6`](https://github.com/sase-org/sase/commit/d8b67d602c0df6f4c2c7d26f845ec85dad3bc10e) | feat: support agent families as fork sources (sase-7i.5) | 2026-07-19 15:34:17 EDT |

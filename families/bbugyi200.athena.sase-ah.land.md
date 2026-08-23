@@ -24,8 +24,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`8d34bc9`](https://github.com/sase-org/sase/commit/8d34bc9ae0f093f4170229cf78a7dafe8007a26f) | test: keep suite gate socket paths below Linux limits | 2026-07-28 20:38:40 UTC |
-| code | sase | [`7ba8b1c`](https://github.com/sase-org/sase/commit/7ba8b1ceab7d6652e011ac4461c1745e69f91997) | test: preserve suite-gate holder status at timeout | 2026-07-28 21:01:02 UTC |
+| code | sase | [`8d34bc9`](https://github.com/sase-org/sase/commit/8d34bc9ae0f093f4170229cf78a7dafe8007a26f) | test: keep suite gate socket paths below Linux limits | 2026-07-28 16:38:40 EDT |
+| code | sase | [`7ba8b1c`](https://github.com/sase-org/sase/commit/7ba8b1ceab7d6652e011ac4461c1745e69f91997) | test: preserve suite-gate holder status at timeout | 2026-07-28 17:01:02 EDT |
 
 ## Neighbors
 

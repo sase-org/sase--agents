@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e9d02f3`](https://github.com/sase-org/sase/commit/e9d02f3627caa5a761d779342118fb45a7dce263) | chore: Add SDD prompt and plan for agents\_onboarding\_full\_tab | 2026-06-25 19:53:08 UTC |
-| sase | [`4b89b1b`](https://github.com/sase-org/sase/commit/4b89b1b17bad35d0fccebc239c19496c89011f5b) | fix(tui): let agent onboarding use full tab | 2026-06-25 19:59:51 UTC |
+| sase | [`e9d02f3`](https://github.com/sase-org/sase/commit/e9d02f3627caa5a761d779342118fb45a7dce263) | chore: Add SDD prompt and plan for agents\_onboarding\_full\_tab | 2026-06-25 15:53:08 EDT |
+| sase | [`4b89b1b`](https://github.com/sase-org/sase/commit/4b89b1b17bad35d0fccebc239c19496c89011f5b) | fix(tui): let agent onboarding use full tab | 2026-06-25 15:59:51 EDT |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5022003`](https://github.com/sase-org/sase/commit/502200368dd7d2f4762ee8bb5d8fd18b33e2ae88) | fix(beads): use default priority for task workers | 2026-08-01 12:58:16 UTC |
+| sase | [`5022003`](https://github.com/sase-org/sase/commit/502200368dd7d2f4762ee8bb5d8fd18b33e2ae88) | fix(beads): use default priority for task workers | 2026-08-01 08:58:16 EDT |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`86a54a6`](https://github.com/sase-org/sase/commit/86a54a674ca14ae3313602b26af3bc9e2022bc39) | test(gate): assert the mobile leg the gate-input epic shipped | 2026-08-08 03:48:29 UTC |
+| sase | [`86a54a6`](https://github.com/sase-org/sase/commit/86a54a674ca14ae3313602b26af3bc9e2022bc39) | test(gate): assert the mobile leg the gate-input epic shipped | 2026-08-07 23:48:29 EDT |
 
 ## Neighbors
 

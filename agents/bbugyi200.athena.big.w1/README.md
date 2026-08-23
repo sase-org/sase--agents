@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c329397`](https://github.com/sase-org/sase/commit/c329397025a242364dcbab8fd151a8f65edfd4bb) | chore: Add SDD prompt and plan for episodes\_build\_progress | 2026-05-27 01:51:30 UTC |
-| sase | [`d00a156`](https://github.com/sase-org/sase/commit/d00a156537aacc5d17f81a0388c517a320a030c5) | feat(memory): show phase progress in episodes build | 2026-05-27 01:59:09 UTC |
+| sase | [`c329397`](https://github.com/sase-org/sase/commit/c329397025a242364dcbab8fd151a8f65edfd4bb) | chore: Add SDD prompt and plan for episodes\_build\_progress | 2026-05-26 21:51:30 EDT |
+| sase | [`d00a156`](https://github.com/sase-org/sase/commit/d00a156537aacc5d17f81a0388c517a320a030c5) | feat(memory): show phase progress in episodes build | 2026-05-26 21:59:09 EDT |
 
 ## Neighbors
 

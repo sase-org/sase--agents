@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f4fde13`](https://github.com/sase-org/sase/commit/f4fde13df67b8c7df4cafc00839eab669799de30) | feat(llm\_provider): emit attributable shared-clone classification events | 2026-08-21 15:34:14 UTC |
+| sase | [`f4fde13`](https://github.com/sase-org/sase/commit/f4fde13df67b8c7df4cafc00839eab669799de30) | feat(llm\_provider): emit attributable shared-clone classification events | 2026-08-21 11:34:14 EDT |
 
 ## Neighbors
 

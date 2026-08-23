@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f3531a7`](https://github.com/sase-org/sase/commit/f3531a7ab877f8bda57f550e0548207552fadde5) | chore: Add SDD prompt and plan for agents\_tab\_revert\_agent\_commits | 2026-06-14 14:46:44 UTC |
-| sase | [`bf81671`](https://github.com/sase-org/sase/commit/bf816714784875ee326cfdc4f6adc3219edd95af) | feat(ace): add Agents-tab leader \`,r\` revert for done agents | 2026-06-14 15:14:59 UTC |
+| sase | [`f3531a7`](https://github.com/sase-org/sase/commit/f3531a7ab877f8bda57f550e0548207552fadde5) | chore: Add SDD prompt and plan for agents\_tab\_revert\_agent\_commits | 2026-06-14 10:46:44 EDT |
+| sase | [`bf81671`](https://github.com/sase-org/sase/commit/bf816714784875ee326cfdc4f6adc3219edd95af) | feat(ace): add Agents-tab leader \`,r\` revert for done agents | 2026-06-14 11:14:59 EDT |
 
 ## Neighbors
 

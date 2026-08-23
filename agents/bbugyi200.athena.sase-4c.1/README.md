@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b9b08c2`](https://github.com/sase-org/sase/commit/b9b08c23e4e38936ccae320bfde1a5da14e80f7d) | feat: expose project aliases in lifecycle facade (sase-4c.1) | 2026-06-04 15:03:22 UTC |
+| sase | [`b9b08c2`](https://github.com/sase-org/sase/commit/b9b08c23e4e38936ccae320bfde1a5da14e80f7d) | feat: expose project aliases in lifecycle facade (sase-4c.1) | 2026-06-04 11:03:22 EDT |
 
 ## Neighbors
 

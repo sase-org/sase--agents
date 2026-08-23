@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`877465a`](https://github.com/sase-org/sase/commit/877465a5ad4478e9fdc068c3668be928f72daf66) | feat(ace): add guided selector builder modal for model pools | 2026-08-14 16:27:54 UTC |
+| sase | [`877465a`](https://github.com/sase-org/sase/commit/877465a5ad4478e9fdc068c3668be928f72daf66) | feat(ace): add guided selector builder modal for model pools | 2026-08-14 12:27:54 EDT |
 
 ## Neighbors
 

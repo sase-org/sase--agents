@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`64ac40d`](https://github.com/sase-org/sase/commit/64ac40d38983ea26c6ed2d983813495e74058809) | fix(wait): persist wait priority explicitness (sase-9k.2) | 2026-07-25 15:34:11 UTC |
+| sase | [`64ac40d`](https://github.com/sase-org/sase/commit/64ac40d38983ea26c6ed2d983813495e74058809) | fix(wait): persist wait priority explicitness (sase-9k.2) | 2026-07-25 11:34:11 EDT |
 
 ## Neighbors
 

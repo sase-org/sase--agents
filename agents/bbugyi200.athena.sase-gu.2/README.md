@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f77bc98`](https://github.com/sase-org/sase/commit/f77bc9891e801c5003896aff76bbe471668f4c67) | feat(repos): write and document repos.sidecar as the builtin/custom mapping | 2026-08-07 14:33:42 UTC |
+| sase | [`f77bc98`](https://github.com/sase-org/sase/commit/f77bc9891e801c5003896aff76bbe471668f4c67) | feat(repos): write and document repos.sidecar as the builtin/custom mapping | 2026-08-07 10:33:42 EDT |
 
 ## Neighbors
 

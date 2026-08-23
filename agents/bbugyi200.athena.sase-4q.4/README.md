@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9f1f088`](https://github.com/sase-org/sase/commit/9f1f088bfc68816c29fdbd9880cb694b41031e87) | feat(prompt-stash): polish — concurrent refresh, preview fit, snapshots (sase-4q.4) | 2026-06-16 16:00:34 UTC |
+| sase | [`9f1f088`](https://github.com/sase-org/sase/commit/9f1f088bfc68816c29fdbd9880cb694b41031e87) | feat(prompt-stash): polish — concurrent refresh, preview fit, snapshots (sase-4q.4) | 2026-06-16 12:00:34 EDT |
 
 ## Neighbors
 

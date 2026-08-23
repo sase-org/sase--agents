@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8501a19`](https://github.com/sase-org/sase/commit/8501a19acfcf7863aa9d7c6e4a322a48c09c0bdf) | fix(skills): route retired umbrella duplicates to new tasks | 2026-08-10 17:38:13 UTC |
+| sase | [`8501a19`](https://github.com/sase-org/sase/commit/8501a19acfcf7863aa9d7c6e4a322a48c09c0bdf) | fix(skills): route retired umbrella duplicates to new tasks | 2026-08-10 13:38:13 EDT |
 
 ## Neighbors
 

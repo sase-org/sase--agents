@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`efbc51b`](https://github.com/sase-org/sase/commit/efbc51be3d5e931de27c4bdfa232a852ba2426f2) | chore: clarify output variable docs | 2026-06-03 03:35:48 UTC |
+| sase | [`efbc51b`](https://github.com/sase-org/sase/commit/efbc51be3d5e931de27c4bdfa232a852ba2426f2) | chore: clarify output variable docs | 2026-06-02 23:35:48 EDT |
 
 ## Neighbors
 

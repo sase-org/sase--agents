@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c3040b9`](https://github.com/sase-org/sase/commit/c3040b945696965a2c3c35ab9ac3afcd0c6fcf23) | feat(agents): cascade cleanup across parallel families (sase-6g.4) | 2026-07-17 00:10:34 UTC |
+| sase | [`c3040b9`](https://github.com/sase-org/sase/commit/c3040b945696965a2c3c35ab9ac3afcd0c6fcf23) | feat(agents): cascade cleanup across parallel families (sase-6g.4) | 2026-07-16 20:10:34 EDT |
 
 ## Neighbors
 

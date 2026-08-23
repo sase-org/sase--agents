@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6de3ff7`](https://github.com/sase-org/sase/commit/6de3ff745ba2e13534526b8c202a8380441a7ddf) | test: split xprompt argument assist tests | 2026-08-08 18:37:23 UTC |
+| sase | [`6de3ff7`](https://github.com/sase-org/sase/commit/6de3ff745ba2e13534526b8c202a8380441a7ddf) | test: split xprompt argument assist tests | 2026-08-08 14:37:23 EDT |

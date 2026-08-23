@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7270b98`](https://github.com/sase-org/sase/commit/7270b986bf6fbcd9055315469c631d2c586c2b5a) | feat(sdd): derive plan provenance associations (sase-ag.3) | 2026-07-28 14:42:04 UTC |
+| sase | [`7270b98`](https://github.com/sase-org/sase/commit/7270b986bf6fbcd9055315469c631d2c586c2b5a) | feat(sdd): derive plan provenance associations (sase-ag.3) | 2026-07-28 10:42:04 EDT |
 
 ## Neighbors
 

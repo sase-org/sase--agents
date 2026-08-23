@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`31f8436`](https://github.com/sase-org/sase/commit/31f8436d101f62c344dc4f30376dd9dd5569731d) | chore: Add SDD prompt and plan for configurable\_slow\_tool\_threshold | 2026-07-08 01:12:38 UTC |
-| code | sase | [`2f3a04c`](https://github.com/sase-org/sase/commit/2f3a04c0508143c3ab29a6bfa07b757742582ae0) | feat(ace): make slow tool threshold configurable | 2026-07-08 01:38:57 UTC |
+| root | sase | [`31f8436`](https://github.com/sase-org/sase/commit/31f8436d101f62c344dc4f30376dd9dd5569731d) | chore: Add SDD prompt and plan for configurable\_slow\_tool\_threshold | 2026-07-07 21:12:38 EDT |
+| code | sase | [`2f3a04c`](https://github.com/sase-org/sase/commit/2f3a04c0508143c3ab29a6bfa07b757742582ae0) | feat(ace): make slow tool threshold configurable | 2026-07-07 21:38:57 EDT |

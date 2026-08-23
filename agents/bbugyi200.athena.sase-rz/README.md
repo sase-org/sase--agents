@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b351ceb`](https://github.com/sase-org/sase/commit/b351ceb33e3b06f294fec1ecea5fd370d8087fc9) | docs(memory): document the unconditional %final directive | 2026-08-22 16:45:38 UTC |
+| sase | [`b351ceb`](https://github.com/sase-org/sase/commit/b351ceb33e3b06f294fec1ecea5fd370d8087fc9) | docs(memory): document the unconditional %final directive | 2026-08-22 12:45:38 EDT |

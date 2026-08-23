@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ea3fcc7`](https://github.com/sase-org/sase/commit/ea3fcc7e4d8ffcecb8029c330e385c83b5da3fd4) | test: split check\_feature\_flags tool tests into focused modules | 2026-08-20 06:18:33 UTC |
+| sase | [`ea3fcc7`](https://github.com/sase-org/sase/commit/ea3fcc7e4d8ffcecb8029c330e385c83b5da3fd4) | test: split check\_feature\_flags tool tests into focused modules | 2026-08-20 02:18:33 EDT |
 
 ## Neighbors
 

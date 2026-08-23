@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4a85503`](https://github.com/sase-org/sase/commit/4a855032ff96612934d810a9ac0fed463d2f7448) | fix: keep Patch terminology lint unblocked by missing repos | 2026-08-09 08:45:47 UTC |
+| sase | [`4a85503`](https://github.com/sase-org/sase/commit/4a855032ff96612934d810a9ac0fed463d2f7448) | fix: keep Patch terminology lint unblocked by missing repos | 2026-08-09 04:45:47 EDT |
 
 ## Neighbors
 

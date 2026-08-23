@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`939794c`](https://github.com/sase-org/sase/commit/939794c398018b01d735de247a01e03c29d9b5e1) | perf: simplify agent prefix matching (#272) | 2026-08-05 16:44:34 UTC |
+| sase | [`939794c`](https://github.com/sase-org/sase/commit/939794c398018b01d735de247a01e03c29d9b5e1) | perf: simplify agent prefix matching (#272) | 2026-08-05 12:44:34 EDT |
 
 ## Neighbors
 

@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`e85e1a7`](https://github.com/sase-org/sase/commit/e85e1a7bcacda333a5d78f62e5639880902fd717) | feat(ace): hide left-side titles on sase agent and proc shells | 2026-08-19 23:20:57 UTC |
+| code | sase | [`e85e1a7`](https://github.com/sase-org/sase/commit/e85e1a7bcacda333a5d78f62e5639880902fd717) | feat(ace): hide left-side titles on sase agent and proc shells | 2026-08-19 19:20:57 EDT |

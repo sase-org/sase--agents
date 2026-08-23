@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aca2b7a`](https://github.com/sase-org/sase/commit/aca2b7ac6a4a577bdca921c9add5ea5214a15112) | feat(completion): add remaining value-kind providers | 2026-08-17 16:51:24 UTC |
+| sase | [`aca2b7a`](https://github.com/sase-org/sase/commit/aca2b7ac6a4a577bdca921c9add5ea5214a15112) | feat(completion): add remaining value-kind providers | 2026-08-17 12:51:24 EDT |
 
 ## Neighbors
 

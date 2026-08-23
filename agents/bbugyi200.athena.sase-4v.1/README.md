@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5e1a766`](https://github.com/sase-org/sase/commit/5e1a7667962fdd2554a329883c5d1fe439d3e83d) | feat(tui): add prompt search highlight foundation (sase-4v.1) | 2026-06-17 22:57:04 UTC |
+| sase | [`5e1a766`](https://github.com/sase-org/sase/commit/5e1a7667962fdd2554a329883c5d1fe439d3e83d) | feat(tui): add prompt search highlight foundation (sase-4v.1) | 2026-06-17 18:57:04 EDT |
 
 ## Neighbors
 

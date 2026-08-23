@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d2454df`](https://github.com/sase-org/sase/commit/d2454df51508049ea50c494d550800b01e6aa9ef) | chore: Add SDD prompt and plan for targeted\_commit\_staging | 2026-05-24 21:04:20 UTC |
-| sase | [`aedacf0`](https://github.com/sase-org/sase/commit/aedacf00d2276c16b555417b22d5db6598bb9591) | fix: target SDD auto-commit staging | 2026-05-24 21:14:30 UTC |
+| sase | [`d2454df`](https://github.com/sase-org/sase/commit/d2454df51508049ea50c494d550800b01e6aa9ef) | chore: Add SDD prompt and plan for targeted\_commit\_staging | 2026-05-24 17:04:20 EDT |
+| sase | [`aedacf0`](https://github.com/sase-org/sase/commit/aedacf00d2276c16b555417b22d5db6598bb9591) | fix: target SDD auto-commit staging | 2026-05-24 17:14:30 EDT |

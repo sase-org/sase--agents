@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6ac274b`](https://github.com/sase-org/sase/commit/6ac274be5b4ace3969cb721ddb1be72df32d11a8) | refactor(tui): split proc\_observer into focused modules | 2026-08-17 19:59:12 UTC |
+| sase | [`6ac274b`](https://github.com/sase-org/sase/commit/6ac274be5b4ace3969cb721ddb1be72df32d11a8) | refactor(tui): split proc\_observer into focused modules | 2026-08-17 15:59:12 EDT |
 
 ## Neighbors
 

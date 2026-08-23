@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`d849d62`](https://github.com/sase-org/sase/commit/d849d628bf0ac28c000e489fcd6e5074c860fbc0) | fix(ace): keep agent subtrees in outer grouping | 2026-07-18 12:19:44 UTC |
+| code | sase | [`d849d62`](https://github.com/sase-org/sase/commit/d849d628bf0ac28c000e489fcd6e5074c860fbc0) | fix(ace): keep agent subtrees in outer grouping | 2026-07-18 08:19:44 EDT |
 
 ## Neighbors
 

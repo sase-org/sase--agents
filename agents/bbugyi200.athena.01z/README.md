@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`48c8da1`](https://github.com/sase-org/sase/commit/48c8da1591d8cc35900fcbbded595270f7aca08e) | chore: Add SDD prompt and plan for pyscripts\_skip\_nested\_repos | 2026-06-20 03:49:29 UTC |
-| sase | [`92cbdd1`](https://github.com/sase-org/sase/commit/92cbdd150acff2a0c52513bb6a7a464d52c588a0) | fix: skip nested repos in pyscripts lint | 2026-06-20 03:58:46 UTC |
+| sase | [`48c8da1`](https://github.com/sase-org/sase/commit/48c8da1591d8cc35900fcbbded595270f7aca08e) | chore: Add SDD prompt and plan for pyscripts\_skip\_nested\_repos | 2026-06-19 23:49:29 EDT |
+| sase | [`92cbdd1`](https://github.com/sase-org/sase/commit/92cbdd150acff2a0c52513bb6a7a464d52c588a0) | fix: skip nested repos in pyscripts lint | 2026-06-19 23:58:46 EDT |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f19e031`](https://github.com/sase-org/sase/commit/f19e031dd1aebbb6ebb1b86fd4385f02d91c5901) | feat(tui): present all five phase sizes (sase-8w.4) | 2026-07-23 22:33:32 UTC |
+| sase | [`f19e031`](https://github.com/sase-org/sase/commit/f19e031dd1aebbb6ebb1b86fd4385f02d91c5901) | feat(tui): present all five phase sizes (sase-8w.4) | 2026-07-23 18:33:32 EDT |
 
 ## Neighbors
 

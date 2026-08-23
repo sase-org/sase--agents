@@ -24,9 +24,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| plan | sase | [`bcb7411`](https://github.com/sase-org/sase/commit/bcb7411aca13ba9a607762f290430dd7df005108) | fix(finalizers): complete public API cleanup | 2026-08-21 17:20:36 UTC |
-| plan | sase | [`5fe0587`](https://github.com/sase-org/sase/commit/5fe0587b0134d5196ab07872ff1006e504e64b04) | fix(flags): integrate saved-state facade with retired flags | 2026-08-21 17:25:40 UTC |
-| code | sase | [`a1ee712`](https://github.com/sase-org/sase/commit/a1ee712381d7e5c038f576329970450a10c2c91d) | refactor(finalizers): export declaration helpers as a public API | 2026-08-21 17:43:40 UTC |
+| plan | sase | [`bcb7411`](https://github.com/sase-org/sase/commit/bcb7411aca13ba9a607762f290430dd7df005108) | fix(finalizers): complete public API cleanup | 2026-08-21 13:20:36 EDT |
+| plan | sase | [`5fe0587`](https://github.com/sase-org/sase/commit/5fe0587b0134d5196ab07872ff1006e504e64b04) | fix(flags): integrate saved-state facade with retired flags | 2026-08-21 13:25:40 EDT |
+| code | sase | [`a1ee712`](https://github.com/sase-org/sase/commit/a1ee712381d7e5c038f576329970450a10c2c91d) | refactor(finalizers): export declaration helpers as a public API | 2026-08-21 13:43:40 EDT |
 
 ## Neighbors
 

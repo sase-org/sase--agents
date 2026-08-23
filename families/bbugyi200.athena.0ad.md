@@ -30,6 +30,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`ecf50f6`](https://github.com/sase-org/sase/commit/ecf50f6975b72e94469198920f01d52c4bd10b3c) | chore: Add SDD prompt and plan for xprompt\_completion\_skip\_space\_before\_punctuation | 2026-06-29 17:17:17 UTC |
-| — | sase | [`d1bc30f`](https://github.com/sase-org/sase/commit/d1bc30f9c2eeb371dcfb3073775ef794826894b6) | fix: skip xprompt completion space before punctuation | 2026-06-29 17:26:23 UTC |
-| 1 | sase | [`ab5099e`](https://github.com/sase-org/sase/commit/ab5099e203990f12cd2c4d44d48394d40fad9349) | feat(monitor): let follow-up agents select a model | 2026-08-22 12:02:28 UTC |
+| — | sase | [`ecf50f6`](https://github.com/sase-org/sase/commit/ecf50f6975b72e94469198920f01d52c4bd10b3c) | chore: Add SDD prompt and plan for xprompt\_completion\_skip\_space\_before\_punctuation | 2026-06-29 13:17:17 EDT |
+| — | sase | [`d1bc30f`](https://github.com/sase-org/sase/commit/d1bc30f9c2eeb371dcfb3073775ef794826894b6) | fix: skip xprompt completion space before punctuation | 2026-06-29 13:26:23 EDT |
+| 1 | sase | [`ab5099e`](https://github.com/sase-org/sase/commit/ab5099e203990f12cd2c4d44d48394d40fad9349) | feat(monitor): let follow-up agents select a model | 2026-08-22 08:02:28 EDT |

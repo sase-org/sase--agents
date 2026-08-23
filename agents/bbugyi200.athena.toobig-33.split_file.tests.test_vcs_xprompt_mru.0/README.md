@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2b883ef`](https://github.com/sase-org/sase/commit/2b883ef0117b62f4af21324139dd874a8471b330) | test(vcs-mru): split test\_vcs\_xprompt\_mru.py into focused modules | 2026-08-18 21:22:33 UTC |
+| sase | [`2b883ef`](https://github.com/sase-org/sase/commit/2b883ef0117b62f4af21324139dd874a8471b330) | test(vcs-mru): split test\_vcs\_xprompt\_mru.py into focused modules | 2026-08-18 17:22:33 EDT |
 
 ## Neighbors
 

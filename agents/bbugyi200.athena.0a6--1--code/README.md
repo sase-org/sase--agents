@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`028d4c8`](https://github.com/sase-org/sase/commit/028d4c8715002c42e1c6b4ae9c3d3a77a3145ce9) | fix(release): allow transitive lock refresh in release metadata | 2026-08-21 21:35:08 UTC |
+| sase | [`028d4c8`](https://github.com/sase-org/sase/commit/028d4c8715002c42e1c6b4ae9c3d3a77a3145ce9) | fix(release): allow transitive lock refresh in release metadata | 2026-08-21 17:35:08 EDT |
 
 ## Neighbors
 

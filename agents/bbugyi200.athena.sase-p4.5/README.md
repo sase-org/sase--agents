@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d23a269`](https://github.com/sase-org/sase/commit/d23a269e0dad75cdd8d4c154d5744e079b651986) | docs: document the EpicResume gate, epic\_resume chop, and its config | 2026-08-18 05:13:30 UTC |
+| sase | [`d23a269`](https://github.com/sase-org/sase/commit/d23a269e0dad75cdd8d4c154d5744e079b651986) | docs: document the EpicResume gate, epic\_resume chop, and its config | 2026-08-18 01:13:30 EDT |
 
 ## Neighbors
 

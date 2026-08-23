@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d8c4085`](https://github.com/sase-org/sase/commit/d8c4085524087b768949f2468c0a57376c56f78c) | fix(finalizers): reject stale final declarations | 2026-08-22 18:06:00 UTC |
+| sase | [`d8c4085`](https://github.com/sase-org/sase/commit/d8c4085524087b768949f2468c0a57376c56f78c) | fix(finalizers): reject stale final declarations | 2026-08-22 14:06:00 EDT |

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6766f30`](https://github.com/sase-org/sase/commit/6766f30fdb5848dd9506a8bddb3b04d7d4986d3e) | refactor(finalizers): extract commit dispatch | 2026-08-22 18:09:14 UTC |
+| sase | [`6766f30`](https://github.com/sase-org/sase/commit/6766f30fdb5848dd9506a8bddb3b04d7d4986d3e) | refactor(finalizers): extract commit dispatch | 2026-08-22 14:09:14 EDT |
 
 ## Neighbors
 

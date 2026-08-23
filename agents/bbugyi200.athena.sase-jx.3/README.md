@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2f1512c`](https://github.com/sase-org/sase/commit/2f1512c7cf527cf475ff0a618c0d96598d008238) | feat(axe): classify chop overruns in snapshots | 2026-08-12 14:38:08 UTC |
+| sase | [`2f1512c`](https://github.com/sase-org/sase/commit/2f1512c7cf527cf475ff0a618c0d96598d008238) | feat(axe): classify chop overruns in snapshots | 2026-08-12 10:38:08 EDT |
 
 ## Neighbors
 

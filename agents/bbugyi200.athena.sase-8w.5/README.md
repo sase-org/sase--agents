@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`39f90d3`](https://github.com/sase-org/sase/commit/39f90d3764eb050ae869f711a62e36f467874d64) | feat(plan): document five phase sizes in --explain text (sase-8w.5) | 2026-07-23 22:26:05 UTC |
+| sase | [`39f90d3`](https://github.com/sase-org/sase/commit/39f90d3764eb050ae869f711a62e36f467874d64) | feat(plan): document five phase sizes in --explain text (sase-8w.5) | 2026-07-23 18:26:05 EDT |
 
 ## Neighbors
 

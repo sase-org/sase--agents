@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`15ea05a`](https://github.com/sase-org/sase/commit/15ea05af681131a2266531414b69cf823d574520) | fix(test): move pytest scratch off tmpfs (sase-96.1) | 2026-07-25 15:25:23 UTC |
+| sase | [`15ea05a`](https://github.com/sase-org/sase/commit/15ea05af681131a2266531414b69cf823d574520) | fix(test): move pytest scratch off tmpfs (sase-96.1) | 2026-07-25 11:25:23 EDT |
 
 ## Neighbors
 

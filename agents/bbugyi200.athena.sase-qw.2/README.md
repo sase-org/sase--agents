@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`422c8c2`](https://github.com/sase-org/sase/commit/422c8c2c57ad248a4e12e34c3e144eeb85ffb358) | feat(logs): stamp launch failures with a session error id | 2026-08-19 16:42:26 UTC |
+| sase | [`422c8c2`](https://github.com/sase-org/sase/commit/422c8c2c57ad248a4e12e34c3e144eeb85ffb358) | feat(logs): stamp launch failures with a session error id | 2026-08-19 12:42:26 EDT |
 
 ## Neighbors
 

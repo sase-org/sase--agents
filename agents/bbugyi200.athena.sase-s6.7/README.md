@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a6a184f`](https://github.com/sase-org/sase/commit/a6a184fad0845f0a79e88aeff029a61432443002) | feat(ace): surface proc shells in agents tab | 2026-08-23 01:03:22 UTC |
+| sase | [`a6a184f`](https://github.com/sase-org/sase/commit/a6a184fad0845f0a79e88aeff029a61432443002) | feat(ace): surface proc shells in agents tab | 2026-08-22 21:03:22 EDT |
 
 ## Neighbors
 

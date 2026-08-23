@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d7e9ae8`](https://github.com/sase-org/sase/commit/d7e9ae8ae5ebcc9b55d68bfa8cc739c4a550a977) | fix(search): require corrected core matcher release | 2026-08-09 14:16:12 UTC |
+| sase | [`d7e9ae8`](https://github.com/sase-org/sase/commit/d7e9ae8ae5ebcc9b55d68bfa8cc739c4a550a977) | fix(search): require corrected core matcher release | 2026-08-09 10:16:12 EDT |
 
 ## Neighbors
 

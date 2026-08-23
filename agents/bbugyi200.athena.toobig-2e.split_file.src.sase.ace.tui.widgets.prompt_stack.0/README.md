@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`07c8763`](https://github.com/sase-org/sase/commit/07c87635ada8f36c3c708991d4f34feeff967d86) | refactor(ace): split prompt stack model | 2026-08-11 11:32:33 UTC |
+| sase | [`07c8763`](https://github.com/sase-org/sase/commit/07c87635ada8f36c3c708991d4f34feeff967d86) | refactor(ace): split prompt stack model | 2026-08-11 07:32:33 EDT |
 
 ## Neighbors
 

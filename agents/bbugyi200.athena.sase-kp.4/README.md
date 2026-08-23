@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`10d3527`](https://github.com/sase-org/sase/commit/10d3527dd5c0fb103a2a49594f51a19bf0a5d771) | feat(monitor): launch follow-up agent after monitor completion | 2026-08-12 23:57:30 UTC |
+| sase | [`10d3527`](https://github.com/sase-org/sase/commit/10d3527dd5c0fb103a2a49594f51a19bf0a5d771) | feat(monitor): launch follow-up agent after monitor completion | 2026-08-12 19:57:30 EDT |
 
 ## Neighbors
 

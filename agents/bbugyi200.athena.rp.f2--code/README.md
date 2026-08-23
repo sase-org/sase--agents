@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e4c13b3`](https://github.com/sase-org/sase/commit/e4c13b3e837b8d8464013cf52194a596a1c4ac9b) | feat(llm): add provider-specific coder defaults | 2026-08-02 12:16:50 UTC |
+| sase | [`e4c13b3`](https://github.com/sase-org/sase/commit/e4c13b3e837b8d8464013cf52194a596a1c4ac9b) | feat(llm): add provider-specific coder defaults | 2026-08-02 08:16:50 EDT |
 
 ## Neighbors
 

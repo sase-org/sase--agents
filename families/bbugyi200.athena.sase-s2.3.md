@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`62538c4`](https://github.com/sase-org/sase/commit/62538c4b0c5fbe8bafb786e0e51e52b3f086975e) | test(plan): prove combined approval-to-launch lifecycle (sase-s2.3) | 2026-08-22 15:10:43 UTC |
+| 1 | sase | [`62538c4`](https://github.com/sase-org/sase/commit/62538c4b0c5fbe8bafb786e0e51e52b3f086975e) | test(plan): prove combined approval-to-launch lifecycle (sase-s2.3) | 2026-08-22 11:10:43 EDT |
 
 ## Neighbors
 

@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`b091695`](https://github.com/sase-org/sase/commit/b091695f7bf9515ce096364a786e685b2e4e501d) | feat(memory): number inlined short memory headers | 2026-06-28 12:19:20 UTC |
-| code | sase | [`a1da80d`](https://github.com/sase-org/sase/commit/a1da80ddb24bc1c550c08d4a19d1f96ad2259af9) | feat(memory)!: migrate artifact guidance to generated memory | 2026-08-20 18:26:20 UTC |
+| — | sase | [`b091695`](https://github.com/sase-org/sase/commit/b091695f7bf9515ce096364a786e685b2e4e501d) | feat(memory): number inlined short memory headers | 2026-06-28 08:19:20 EDT |
+| code | sase | [`a1da80d`](https://github.com/sase-org/sase/commit/a1da80ddb24bc1c550c08d4a19d1f96ad2259af9) | feat(memory)!: migrate artifact guidance to generated memory | 2026-08-20 14:26:20 EDT |

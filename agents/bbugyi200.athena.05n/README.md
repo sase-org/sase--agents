@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`256c299`](https://github.com/sase-org/sase/commit/256c299d473a8a0adb27da3ee2c8139514b4accd) | chore: Add SDD prompt and plan for unify\_auto\_directive | 2026-06-24 19:10:34 UTC |
-| sase | [`36559c4`](https://github.com/sase-org/sase/commit/36559c4b7051ef1bdb42956bdfc2d9b36acd16b2) | feat!: unify auto approval directive | 2026-06-24 19:35:19 UTC |
+| sase | [`256c299`](https://github.com/sase-org/sase/commit/256c299d473a8a0adb27da3ee2c8139514b4accd) | chore: Add SDD prompt and plan for unify\_auto\_directive | 2026-06-24 15:10:34 EDT |
+| sase | [`36559c4`](https://github.com/sase-org/sase/commit/36559c4b7051ef1bdb42956bdfc2d9b36acd16b2) | feat!: unify auto approval directive | 2026-06-24 15:35:19 EDT |
 
 ## Neighbors
 

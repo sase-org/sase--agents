@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9729e80`](https://github.com/sase-org/sase/commit/9729e80474da713554095df0d545b84ab8f25362) | feat(prompt-stash): restore picker modal, pop semantics, load into bar (sase-4q.3) | 2026-06-16 15:39:27 UTC |
+| sase | [`9729e80`](https://github.com/sase-org/sase/commit/9729e80474da713554095df0d545b84ab8f25362) | feat(prompt-stash): restore picker modal, pop semantics, load into bar (sase-4q.3) | 2026-06-16 11:39:27 EDT |
 
 ## Neighbors
 

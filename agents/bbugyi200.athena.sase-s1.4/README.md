@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0438e70`](https://github.com/sase-org/sase/commit/0438e70e702480279e4a9b40b309e695cc65f009) | test(perf): recalibrate persistent-query absolute floor | 2026-08-22 13:06:45 UTC |
+| sase | [`0438e70`](https://github.com/sase-org/sase/commit/0438e70e702480279e4a9b40b309e695cc65f009) | test(perf): recalibrate persistent-query absolute floor | 2026-08-22 09:06:45 EDT |
 
 ## Neighbors
 

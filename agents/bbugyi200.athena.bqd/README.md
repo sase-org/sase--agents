@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a9af3fb`](https://github.com/sase-org/sase/commit/a9af3fb451103f952cd36c670c7e20bc0ccf4223) | chore: Add SDD prompt and plan for killed\_agents\_terminate | 2026-05-31 16:09:54 UTC |
-| sase | [`d988464`](https://github.com/sase-org/sase/commit/d9884642d9c2b002e36f69b2da7914a839241abf) | fix: honor explicit agent kill intent | 2026-05-31 16:24:58 UTC |
+| sase | [`a9af3fb`](https://github.com/sase-org/sase/commit/a9af3fb451103f952cd36c670c7e20bc0ccf4223) | chore: Add SDD prompt and plan for killed\_agents\_terminate | 2026-05-31 12:09:54 EDT |
+| sase | [`d988464`](https://github.com/sase-org/sase/commit/d9884642d9c2b002e36f69b2da7914a839241abf) | fix: honor explicit agent kill intent | 2026-05-31 12:24:58 EDT |

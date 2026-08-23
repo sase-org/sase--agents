@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d8afeb7`](https://github.com/sase-org/sase/commit/d8afeb7b0c0331c24d9bdcf7a4c78679020c9548) | fix(agents-sync): retire terminal publication requests (sase-ah.2) | 2026-07-28 18:47:14 UTC |
+| sase | [`d8afeb7`](https://github.com/sase-org/sase/commit/d8afeb7b0c0331c24d9bdcf7a4c78679020c9548) | fix(agents-sync): retire terminal publication requests (sase-ah.2) | 2026-07-28 14:47:14 EDT |
 
 ## Neighbors
 

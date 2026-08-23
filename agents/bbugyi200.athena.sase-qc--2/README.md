@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7563372`](https://github.com/sase-org/sase/commit/7563372f12e7c8b259dcd2bf9654a73d3a110c02) | fix(workspace): guard prepare\_opened\_checkout against occupied checkouts | 2026-08-18 22:05:01 UTC |
+| sase | [`7563372`](https://github.com/sase-org/sase/commit/7563372f12e7c8b259dcd2bf9654a73d3a110c02) | fix(workspace): guard prepare\_opened\_checkout against occupied checkouts | 2026-08-18 18:05:01 EDT |

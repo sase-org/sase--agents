@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d6b6ab7`](https://github.com/sase-org/sase/commit/d6b6ab73f53bb19b6f4f46b4bf275a1abacab753) | docs: document basher vendoring workflow (sase-5v) | 2026-07-13 11:16:11 UTC |
+| sase | [`d6b6ab7`](https://github.com/sase-org/sase/commit/d6b6ab73f53bb19b6f4f46b4bf275a1abacab753) | docs: document basher vendoring workflow (sase-5v) | 2026-07-13 07:16:11 EDT |
 
 ## Neighbors
 

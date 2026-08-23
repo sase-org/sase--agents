@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4ba3fb4`](https://github.com/sase-org/sase/commit/4ba3fb4e5d9780e7c8309c35f395038370451997) | fix(bead): restore sase bead ref add/rm dispatch | 2026-07-31 14:37:37 UTC |
+| sase | [`4ba3fb4`](https://github.com/sase-org/sase/commit/4ba3fb4e5d9780e7c8309c35f395038370451997) | fix(bead): restore sase bead ref add/rm dispatch | 2026-07-31 10:37:37 EDT |

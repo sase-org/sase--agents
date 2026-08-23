@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`17ac4ae`](https://github.com/sase-org/sase/commit/17ac4ae63fa13e39f9154aef49813be5dd149200) | chore: consolidate launch readiness research | 2026-06-07 10:32:56 UTC |
+| sase | [`17ac4ae`](https://github.com/sase-org/sase/commit/17ac4ae63fa13e39f9154aef49813be5dd149200) | chore: consolidate launch readiness research | 2026-06-07 06:32:56 EDT |
 
 ## Neighbors
 

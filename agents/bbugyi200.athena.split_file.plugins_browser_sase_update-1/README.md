@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`59b11cd`](https://github.com/sase-org/sase/commit/59b11cd136e746bdb6f129a0c92915e243536c32) | refactor(ace): split SASE update modal helpers | 2026-07-15 21:39:21 UTC |
+| sase | [`59b11cd`](https://github.com/sase-org/sase/commit/59b11cd136e746bdb6f129a0c92915e243536c32) | refactor(ace): split SASE update modal helpers | 2026-07-15 17:39:21 EDT |
 
 ## Neighbors
 

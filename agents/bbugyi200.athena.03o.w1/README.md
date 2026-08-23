@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`62d67e8`](https://github.com/sase-org/sase/commit/62d67e8e281ec734e36dc42fdbf796047ab8419f) | chore: Add SDD prompt and plan for global\_prompt\_stash\_restore | 2026-06-22 13:38:57 UTC |
-| sase | [`53db425`](https://github.com/sase-org/sase/commit/53db42597fdbd014d6967eaf62dfb908274933d6) | feat(ace): add global @ keymap to restore stashed prompts | 2026-06-22 13:51:01 UTC |
+| sase | [`62d67e8`](https://github.com/sase-org/sase/commit/62d67e8e281ec734e36dc42fdbf796047ab8419f) | chore: Add SDD prompt and plan for global\_prompt\_stash\_restore | 2026-06-22 09:38:57 EDT |
+| sase | [`53db425`](https://github.com/sase-org/sase/commit/53db42597fdbd014d6967eaf62dfb908274933d6) | feat(ace): add global @ keymap to restore stashed prompts | 2026-06-22 09:51:01 EDT |
 
 ## Neighbors
 

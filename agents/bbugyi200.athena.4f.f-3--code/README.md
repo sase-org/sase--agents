@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d0c4f88`](https://github.com/sase-org/sase/commit/d0c4f8838b3e7a1cbdfde32230d5c04170dd3e71) | fix(vcs): exclude phantom repositories from global inventory | 2026-07-10 17:09:28 UTC |
+| sase | [`d0c4f88`](https://github.com/sase-org/sase/commit/d0c4f8838b3e7a1cbdfde32230d5c04170dd3e71) | fix(vcs): exclude phantom repositories from global inventory | 2026-07-10 13:09:28 EDT |
 
 ## Neighbors
 

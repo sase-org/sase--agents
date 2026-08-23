@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9a784e2`](https://github.com/sase-org/sase/commit/9a784e2cabc182c3d7c436bde01f939afcfa10f5) | docs: correct verified inaccuracies in agent families and ACE docs | 2026-07-06 15:16:15 UTC |
+| sase | [`9a784e2`](https://github.com/sase-org/sase/commit/9a784e2cabc182c3d7c436bde01f939afcfa10f5) | docs: correct verified inaccuracies in agent families and ACE docs | 2026-07-06 11:16:15 EDT |
 
 ## Neighbors
 

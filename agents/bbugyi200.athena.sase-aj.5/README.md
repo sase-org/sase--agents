@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c1272d1`](https://github.com/sase-org/sase/commit/c1272d19d702892d26240b50e8b518a3c142a300) | feat(beads): close with verification notes | 2026-07-28 21:09:40 UTC |
+| sase | [`c1272d1`](https://github.com/sase-org/sase/commit/c1272d19d702892d26240b50e8b518a3c142a300) | feat(beads): close with verification notes | 2026-07-28 17:09:40 EDT |
 
 ## Neighbors
 

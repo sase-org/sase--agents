@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fcc9be4`](https://github.com/sase-org/sase/commit/fcc9be44f2cf5ea8b5a23ab505d50f94a508f970) | fix: scope task duplicate detection to bead search | 2026-08-09 11:51:33 UTC |
+| sase | [`fcc9be4`](https://github.com/sase-org/sase/commit/fcc9be44f2cf5ea8b5a23ab505d50f94a508f970) | fix: scope task duplicate detection to bead search | 2026-08-09 07:51:33 EDT |
 
 ## Neighbors
 

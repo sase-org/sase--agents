@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5fb481a`](https://github.com/sase-org/sase/commit/5fb481a044a4d9b98718d74dcd9d71a994f10cde) | refactor(notification\_gates): split kind\_validation into a package | 2026-08-06 10:08:33 UTC |
+| sase | [`5fb481a`](https://github.com/sase-org/sase/commit/5fb481a044a4d9b98718d74dcd9d71a994f10cde) | refactor(notification\_gates): split kind\_validation into a package | 2026-08-06 06:08:33 EDT |
 
 ## Neighbors
 

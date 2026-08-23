@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b38c1b2`](https://github.com/sase-org/sase/commit/b38c1b262cb3da46385d3a8590463413406a5d6c) | fix: avoid stale agents tab diff fallback | 2026-07-09 02:55:57 UTC |
+| sase | [`b38c1b2`](https://github.com/sase-org/sase/commit/b38c1b262cb3da46385d3a8590463413406a5d6c) | fix: avoid stale agents tab diff fallback | 2026-07-08 22:55:57 EDT |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d03f6dc`](https://github.com/sase-org/sase/commit/d03f6dc0b9598ed87024e250e8dde770780b8d40) | refactor(tests): split feature flag CLI suite | 2026-08-22 04:33:28 UTC |
+| sase | [`d03f6dc`](https://github.com/sase-org/sase/commit/d03f6dc0b9598ed87024e250e8dde770780b8d40) | refactor(tests): split feature flag CLI suite | 2026-08-22 00:33:28 EDT |
 
 ## Neighbors
 

@@ -33,4 +33,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`87a5698`](https://github.com/sase-org/sase/commit/87a569884f80ece1aca82ee011235eeb22ae69ec) | fix: resume nested epic landing handoffs | 2026-08-15 18:12:23 UTC |
+| 1 | sase | [`87a5698`](https://github.com/sase-org/sase/commit/87a569884f80ece1aca82ee011235eeb22ae69ec) | fix: resume nested epic landing handoffs | 2026-08-15 14:12:23 EDT |

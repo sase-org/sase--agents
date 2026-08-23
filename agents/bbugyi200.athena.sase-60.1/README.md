@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e7411b8`](https://github.com/sase-org/sase/commit/e7411b8a89e895931c1606f7c84fada9724623c4) | feat(config): generalize linked and sidecar repositories (sase-60.1) | 2026-07-14 14:51:46 UTC |
+| sase | [`e7411b8`](https://github.com/sase-org/sase/commit/e7411b8a89e895931c1606f7c84fada9724623c4) | feat(config): generalize linked and sidecar repositories (sase-60.1) | 2026-07-14 10:51:46 EDT |
 
 ## Neighbors
 

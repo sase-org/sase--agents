@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`d3da6c9`](https://github.com/sase-org/sase/commit/d3da6c93b789a6e9f443ca7986a26969be4261fb) | fix(sdd): handle legacy stores during companion init | 2026-07-09 07:31:45 UTC |
+| code | sase | [`d3da6c9`](https://github.com/sase-org/sase/commit/d3da6c93b789a6e9f443ca7986a26969be4261fb) | fix(sdd): handle legacy stores during companion init | 2026-07-09 03:31:45 EDT |
 
 ## Neighbors
 

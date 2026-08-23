@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`38c4737`](https://github.com/sase-org/sase/commit/38c4737594f3e8ac530e4bb98e4f27fb0d82ea93) | chore: Add SDD prompt and plan for remove\_dash\_live\_prompt\_shortcuts | 2026-06-17 14:46:32 UTC |
-| sase | [`95e3d36`](https://github.com/sase-org/sase/commit/95e3d366555658789f72d9eb3e63424e04a1c68c) | feat(tui)!: remove implicit \`---\` live prompt shortcuts | 2026-06-17 14:58:50 UTC |
+| sase | [`38c4737`](https://github.com/sase-org/sase/commit/38c4737594f3e8ac530e4bb98e4f27fb0d82ea93) | chore: Add SDD prompt and plan for remove\_dash\_live\_prompt\_shortcuts | 2026-06-17 10:46:32 EDT |
+| sase | [`95e3d36`](https://github.com/sase-org/sase/commit/95e3d366555658789f72d9eb3e63424e04a1c68c) | feat(tui)!: remove implicit \`---\` live prompt shortcuts | 2026-06-17 10:58:50 EDT |
 
 ## Neighbors
 

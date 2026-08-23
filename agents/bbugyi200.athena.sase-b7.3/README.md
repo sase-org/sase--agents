@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c9edec5`](https://github.com/sase-org/sase/commit/c9edec56145a050d89ed18911c27f90831e7a9dc) | feat(artifacts): materialize VCS-backed files on demand | 2026-07-30 13:48:54 UTC |
+| sase | [`c9edec5`](https://github.com/sase-org/sase/commit/c9edec56145a050d89ed18911c27f90831e7a9dc) | feat(artifacts): materialize VCS-backed files on demand | 2026-07-30 09:48:54 EDT |
 
 ## Neighbors
 

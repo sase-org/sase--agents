@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5fcdf98`](https://github.com/sase-org/sase/commit/5fcdf98019f10a78f5284807b0f0729bc9d801ef) | chore: Add SDD prompt and plan for revive\_custom\_search\_initial\_page | 2026-06-26 14:28:53 UTC |
-| sase | [`3f5b1ad`](https://github.com/sase-org/sase/commit/3f5b1adf73b1698c268529ff76632829e393647d) | fix(tui): render custom revival search first page without typing | 2026-06-26 14:36:05 UTC |
+| sase | [`5fcdf98`](https://github.com/sase-org/sase/commit/5fcdf98019f10a78f5284807b0f0729bc9d801ef) | chore: Add SDD prompt and plan for revive\_custom\_search\_initial\_page | 2026-06-26 10:28:53 EDT |
+| sase | [`3f5b1ad`](https://github.com/sase-org/sase/commit/3f5b1adf73b1698c268529ff76632829e393647d) | fix(tui): render custom revival search first page without typing | 2026-06-26 10:36:05 EDT |

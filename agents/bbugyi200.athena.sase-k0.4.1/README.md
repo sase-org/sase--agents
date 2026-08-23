@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9960d74`](https://github.com/sase-org/sase/commit/9960d7444062db28ce0bf8ee08011ace31272407) | test: cover task triage project-state convergence | 2026-08-12 17:11:21 UTC |
+| sase | [`9960d74`](https://github.com/sase-org/sase/commit/9960d7444062db28ce0bf8ee08011ace31272407) | test: cover task triage project-state convergence | 2026-08-12 13:11:21 EDT |
 
 ## Neighbors
 

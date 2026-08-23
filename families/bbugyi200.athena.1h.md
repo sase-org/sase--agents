@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`1f75a19`](https://github.com/sase-org/sase/commit/1f75a191ed847ea91e42bebddad831103fe63a86) | chore: Add SDD prompt and plan for subagent\_tool\_output | 2026-07-08 01:09:39 UTC |
-| code | sase | [`1b33529`](https://github.com/sase-org/sase/commit/1b33529649deeabcd53adf0896507e53ad0a7cd1) | fix: surface subagent final output | 2026-07-08 01:22:40 UTC |
+| root | sase | [`1f75a19`](https://github.com/sase-org/sase/commit/1f75a191ed847ea91e42bebddad831103fe63a86) | chore: Add SDD prompt and plan for subagent\_tool\_output | 2026-07-07 21:09:39 EDT |
+| code | sase | [`1b33529`](https://github.com/sase-org/sase/commit/1b33529649deeabcd53adf0896507e53ad0a7cd1) | fix: surface subagent final output | 2026-07-07 21:22:40 EDT |

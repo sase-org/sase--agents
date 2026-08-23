@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`1aa37dc`](https://github.com/sase-org/sase/commit/1aa37dc35d9ad2bd5c165c118363b45db0b0a21c) | feat: add runner limit controls | 2026-07-22 12:30:17 UTC |
+| — | sase | [`1aa37dc`](https://github.com/sase-org/sase/commit/1aa37dc35d9ad2bd5c165c118363b45db0b0a21c) | feat: add runner limit controls | 2026-07-22 08:30:17 EDT |

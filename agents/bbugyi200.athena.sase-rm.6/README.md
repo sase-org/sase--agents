@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b76f53b`](https://github.com/sase-org/sase/commit/b76f53b998e3f208d339253a9ca7538469cb987a) | fix: repair guardrails for provider docs and proc imports | 2026-08-21 09:28:24 UTC |
+| sase | [`b76f53b`](https://github.com/sase-org/sase/commit/b76f53b998e3f208d339253a9ca7538469cb987a) | fix: repair guardrails for provider docs and proc imports | 2026-08-21 05:28:24 EDT |
 
 ## Neighbors
 

@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1e35b52`](https://github.com/sase-org/sase/commit/1e35b52081b790a091b0d48254168e881e564060) | chore: close plan search epic (sase-4x) | 2026-06-19 04:23:37 UTC |
+| sase | [`1e35b52`](https://github.com/sase-org/sase/commit/1e35b52081b790a091b0d48254168e881e564060) | chore: close plan search epic (sase-4x) | 2026-06-19 00:23:37 EDT |
 
 ## Neighbors
 

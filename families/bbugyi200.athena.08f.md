@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`c5060e2`](https://github.com/sase-org/sase/commit/c5060e2e0377c3ff2ba442cc6a912cb02b4d3aab) | chore: Add SDD prompt and plan for epic\_approved\_status\_reconstruction | 2026-06-27 20:04:03 UTC |
-| — | sase | [`073c330`](https://github.com/sase-org/sase/commit/073c330f510416fc704af5c8eb0c8e347343acb9) | fix: reconstruct approved follow-up statuses | 2026-06-27 20:14:12 UTC |
+| — | sase | [`c5060e2`](https://github.com/sase-org/sase/commit/c5060e2e0377c3ff2ba442cc6a912cb02b4d3aab) | chore: Add SDD prompt and plan for epic\_approved\_status\_reconstruction | 2026-06-27 16:04:03 EDT |
+| — | sase | [`073c330`](https://github.com/sase-org/sase/commit/073c330f510416fc704af5c8eb0c8e347343acb9) | fix: reconstruct approved follow-up statuses | 2026-06-27 16:14:12 EDT |

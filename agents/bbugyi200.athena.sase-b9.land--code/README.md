@@ -22,8 +22,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d6eb412`](https://github.com/sase-org/sase/commit/d6eb4127138b071e02e179b4cd8bf0c1da7c9948) | fix(artifact): protect consumed files from retention | 2026-07-30 17:09:26 UTC |
-| sase | [`be94f09`](https://github.com/sase-org/sase/commit/be94f098a761cee54e5e4b855374b504b92f6eb8) | fix(artifact): extend consumption protection coverage | 2026-07-30 17:52:03 UTC |
+| sase | [`d6eb412`](https://github.com/sase-org/sase/commit/d6eb4127138b071e02e179b4cd8bf0c1da7c9948) | fix(artifact): protect consumed files from retention | 2026-07-30 13:09:26 EDT |
+| sase | [`be94f09`](https://github.com/sase-org/sase/commit/be94f098a761cee54e5e4b855374b504b92f6eb8) | fix(artifact): extend consumption protection coverage | 2026-07-30 13:52:03 EDT |
 
 ## Neighbors
 

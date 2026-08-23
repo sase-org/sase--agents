@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6f9213b`](https://github.com/sase-org/sase/commit/6f9213b5b0a866398151b4830f3c74c015494daf) | feat(beads): show phase sizes and nested lineage (sase-7z.6) | 2026-07-20 02:08:37 UTC |
+| sase | [`6f9213b`](https://github.com/sase-org/sase/commit/6f9213b5b0a866398151b4830f3c74c015494daf) | feat(beads): show phase sizes and nested lineage (sase-7z.6) | 2026-07-19 22:08:37 EDT |
 
 ## Neighbors
 

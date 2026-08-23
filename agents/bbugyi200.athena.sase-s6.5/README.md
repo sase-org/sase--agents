@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0f00bec`](https://github.com/sase-org/sase/commit/0f00becd749b533f850bf4a81d1cccbefe35b792) | feat(agent-launch): dispatch stand-alone %proc units natively | 2026-08-22 23:44:30 UTC |
+| sase | [`0f00bec`](https://github.com/sase-org/sase/commit/0f00becd749b533f850bf4a81d1cccbefe35b792) | feat(agent-launch): dispatch stand-alone %proc units natively | 2026-08-22 19:44:30 EDT |
 
 ## Neighbors
 

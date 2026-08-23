@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`95a9b45`](https://github.com/sase-org/sase/commit/95a9b457502c898d74c448219eec417e6800cd11) | fix(axe): sweep stale bead task gates | 2026-08-12 16:30:24 UTC |
+| sase | [`95a9b45`](https://github.com/sase-org/sase/commit/95a9b457502c898d74c448219eec417e6800cd11) | fix(axe): sweep stale bead task gates | 2026-08-12 12:30:24 EDT |
 
 ## Neighbors
 

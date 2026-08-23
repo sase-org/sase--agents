@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`64ffecf`](https://github.com/sase-org/sase/commit/64ffecf887426a28d64bb635c6b93ddae709a614) | fix(ace): acknowledge unread agents on panel entry | 2026-07-29 19:46:26 UTC |
+| code | sase | [`64ffecf`](https://github.com/sase-org/sase/commit/64ffecf887426a28d64bb635c6b93ddae709a614) | fix(ace): acknowledge unread agents on panel entry | 2026-07-29 15:46:26 EDT |

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8c2a7d2`](https://github.com/sase-org/sase/commit/8c2a7d2ed5006e58b1d6c16b62eadbe1de15d0ea) | test: split VCS agent launch tests | 2026-06-29 15:18:03 UTC |
+| sase | [`8c2a7d2`](https://github.com/sase-org/sase/commit/8c2a7d2ed5006e58b1d6c16b62eadbe1de15d0ea) | test: split VCS agent launch tests | 2026-06-29 11:18:03 EDT |
 
 ## Neighbors
 

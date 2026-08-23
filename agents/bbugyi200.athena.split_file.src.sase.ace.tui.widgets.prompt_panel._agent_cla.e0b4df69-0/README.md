@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fcafb33`](https://github.com/sase-org/sase/commit/fcafb33b1645cd3e813a4dcb7e07f4f5f6a5a4ea) | refactor(tui): split agent clan aggregation helpers | 2026-07-19 06:40:10 UTC |
+| sase | [`fcafb33`](https://github.com/sase-org/sase/commit/fcafb33b1645cd3e813a4dcb7e07f4f5f6a5a4ea) | refactor(tui): split agent clan aggregation helpers | 2026-07-19 02:40:10 EDT |
 
 ## Neighbors
 

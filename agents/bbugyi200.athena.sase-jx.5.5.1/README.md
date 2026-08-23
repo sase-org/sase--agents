@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c184102`](https://github.com/sase-org/sase/commit/c18410204785d62e7017ebba119f9c59f1ef301b) | docs(ace): fix update\_chop\_display docstring for selected-run overrun | 2026-08-12 18:19:04 UTC |
+| sase | [`c184102`](https://github.com/sase-org/sase/commit/c18410204785d62e7017ebba119f9c59f1ef301b) | docs(ace): fix update\_chop\_display docstring for selected-run overrun | 2026-08-12 14:19:04 EDT |
 
 ## Neighbors
 

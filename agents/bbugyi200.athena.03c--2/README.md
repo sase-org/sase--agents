@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5d0bcf9`](https://github.com/sase-org/sase/commit/5d0bcf9e8a389fdb47d1d612c0191bd730b5dfc2) | test: expect relation-backed fields in the notes fixture query profile | 2026-08-16 15:00:59 UTC |
+| sase | [`5d0bcf9`](https://github.com/sase-org/sase/commit/5d0bcf9e8a389fdb47d1d612c0191bd730b5dfc2) | test: expect relation-backed fields in the notes fixture query profile | 2026-08-16 11:00:59 EDT |
 
 ## Neighbors
 

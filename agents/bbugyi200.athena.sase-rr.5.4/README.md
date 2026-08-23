@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c2f46e8`](https://github.com/sase-org/sase/commit/c2f46e84e87edcd9994b4b8bde494099652b1941) | fix(finalizers): serialize declaration accept and host-order commits | 2026-08-21 22:15:21 UTC |
+| sase | [`c2f46e8`](https://github.com/sase-org/sase/commit/c2f46e84e87edcd9994b4b8bde494099652b1941) | fix(finalizers): serialize declaration accept and host-order commits | 2026-08-21 18:15:21 EDT |
 
 ## Neighbors
 

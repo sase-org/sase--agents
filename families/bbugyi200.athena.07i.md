@@ -48,8 +48,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`764ed39`](https://github.com/sase-org/sase/commit/764ed39d94b604c692bf42d4081241f324dba410) | chore: Add SDD prompt and plan for create\_prompt\_snippet\_option | 2026-06-27 12:10:25 UTC |
-| — | sase | [`0311120`](https://github.com/sase-org/sase/commit/0311120d48b97deae8b0ba88a76c0607d5f02083) | feat(tui): add "Create a new snippet" option to prompt save menu | 2026-06-27 12:35:06 UTC |
+| — | sase | [`764ed39`](https://github.com/sase-org/sase/commit/764ed39d94b604c692bf42d4081241f324dba410) | chore: Add SDD prompt and plan for create\_prompt\_snippet\_option | 2026-06-27 08:10:25 EDT |
+| — | sase | [`0311120`](https://github.com/sase-org/sase/commit/0311120d48b97deae8b0ba88a76c0607d5f02083) | feat(tui): add "Create a new snippet" option to prompt save menu | 2026-06-27 08:35:06 EDT |
 
 ## Neighbors
 

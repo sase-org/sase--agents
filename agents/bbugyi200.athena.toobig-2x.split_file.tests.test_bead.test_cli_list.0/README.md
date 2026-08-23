@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0fa04a7`](https://github.com/sase-org/sase/commit/0fa04a7cb57281e226d8f16f5c9574a592008814) | test(bead): split test\_cli\_list.py into four focused files | 2026-08-17 13:53:36 UTC |
+| sase | [`0fa04a7`](https://github.com/sase-org/sase/commit/0fa04a7cb57281e226d8f16f5c9574a592008814) | test(bead): split test\_cli\_list.py into four focused files | 2026-08-17 09:53:36 EDT |
 
 ## Neighbors
 

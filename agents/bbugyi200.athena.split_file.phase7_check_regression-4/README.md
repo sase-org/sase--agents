@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`00b50f6`](https://github.com/sase-org/sase/commit/00b50f646b0dbd140b79837dc15e19aba167ea8e) | refactor(perf): split phase 7 regression checker | 2026-07-16 05:54:55 UTC |
+| sase | [`00b50f6`](https://github.com/sase-org/sase/commit/00b50f646b0dbd140b79837dc15e19aba167ea8e) | refactor(perf): split phase 7 regression checker | 2026-07-16 01:54:55 EDT |
 
 ## Neighbors
 
