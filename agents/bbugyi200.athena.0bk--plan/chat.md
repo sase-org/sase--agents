@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 0bk--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0bk__plan-260823_114946.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0bk__code-260823_114946.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/agents_tree_depth_colors.md
 
 

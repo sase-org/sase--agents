@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Sase monitors seem to be shown before the agents that ran before them in the agent metadata panel for some reason (see #sshot for context). Can you help me diagnose the root cause of this issue and fix it? #plan

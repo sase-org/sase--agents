@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-929bc2d209f8f3f18d0bbc4320ec3d36"}
+{"commits":[{"committed_at":1787488798,"sha":"9422a5f37df8dcfc8092e25fee05602db19059f9","subject":"feat(tui): color Agents tree guides by hierarchy depth"}],"schema_version":2,"source_run_id":"run-929bc2d209f8f3f18d0bbc4320ec3d36"}
