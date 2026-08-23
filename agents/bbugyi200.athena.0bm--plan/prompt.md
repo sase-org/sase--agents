@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase It doesn't seem like `%proc` directives are working correctly (see #sshot). See the sase-s6 epic bead for context on the `%proc` directive. Can you help me diagnose the root cause of this issue and fix it? Leave notes on the sase-s6 epic bead if appropriate (the epic lander is running now). #plan
