@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 0bj--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0bj__plan-260823_114921.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0bj__code-260823_114921.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/toobig_split_revision_scoped_dedupe.md
 
 
