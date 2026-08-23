@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-sk](../../users/bbugyi200/machines/athena/hoods/sase-sk/README.md) / sase-sk.1
 
-**Global name:** `bbugyi200.athena.sase-sk.1` · **State:** active · **Source run:** `run-bed54c0d30e222cae059438665a06ac7`
+**Global name:** `bbugyi200.athena.sase-sk.1` · **State:** completed · **Source run:** `run-bed54c0d30e222cae059438665a06ac7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-sk
 
@@ -12,12 +12,12 @@
 - Epic: [sase-sk](https://github.com/sase-org/sase--beads/blob/main/pages/sase-sk/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-23T20:22:23.648622+00:00
+- Timing: 2026-08-23T20:22:23.648622+00:00 → 2026-08-23T21:26:43.417718+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,6 +29,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-sk.2](../bbugyi200.athena.sase-sk.2/README.md) | sase-sk hood | waiting |
+| [sase-sk.2](../bbugyi200.athena.sase-sk.2/README.md) | sase-sk hood | active |
 | [sase-sk.3](../bbugyi200.athena.sase-sk.3/README.md) | sase-sk hood | waiting |
 | [sase-sk.land](../bbugyi200.athena.sase-sk.land/README.md) | sase-sk hood | waiting |

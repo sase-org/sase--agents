@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-3m](../../users/bbugyi200/machines/athena/hoods/toobig-3m/README.md) / toobig-3m.split\_file.tests.ace.tui.widgets.test\_agent\_list\_runtime\_rendering.0
 
-**Global name:** `bbugyi200.athena.toobig-3m.split_file.tests.ace.tui.widgets.test_agent_list_runtime_rendering.0` · **State:** waiting · **Source run:** `run-e111e536073266fe3fd4da8605c4fa26`
+**Global name:** `bbugyi200.athena.toobig-3m.split_file.tests.ace.tui.widgets.test_agent_list_runtime_rendering.0` · **State:** completed · **Source run:** `run-e111e536073266fe3fd4da8605c4fa26`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-3m
 
@@ -10,19 +10,25 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20260823160132
-- Commits: 0
+- Timing: 2026-08-23T21:18:01.166147+00:00 → 2026-08-23T21:35:56.194376+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`f2f0bd9`](https://github.com/sase-org/sase/commit/f2f0bd977458cb5e48041a1b9a5a2841e7322ace) | test: split agent-list runtime rendering tests under 500-line files | 2026-08-23 17:35:26 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-3m.split\_file.tests.ace.tui.visual.\_ace\_agents\_png\_snapshot\_fixtures.0](../bbugyi200.athena.toobig-3m.split_file.tests.ace.tui.visual._ace_agents_png_snapshot_fixtures.0/README.md) | toobig-3m.split\_file.tests.ace.tui hood | active |
-| [toobig-3m.split\_file.tests.test\_core\_vcs\_log.0](../bbugyi200.athena.toobig-3m.split_file.tests.test_core_vcs_log.0/README.md) | toobig-3m.split\_file.tests hood | waiting |
+| [toobig-3m.split\_file.tests.ace.tui.visual.\_ace\_agents\_png\_snapshot\_fixtures.0](../bbugyi200.athena.toobig-3m.split_file.tests.ace.tui.visual._ace_agents_png_snapshot_fixtures.0/README.md) | toobig-3m.split\_file.tests.ace.tui hood | completed |
+| [toobig-3m.split\_file.tests.test\_core\_vcs\_log.0](../bbugyi200.athena.toobig-3m.split_file.tests.test_core_vcs_log.0/README.md) | toobig-3m.split\_file.tests hood | completed |
 | [toobig-3m.split\_file.tests.test\_finalizer\_declaration\_channel.0](../bbugyi200.athena.toobig-3m.split_file.tests.test_finalizer_declaration_channel.0/README.md) | toobig-3m.split\_file.tests hood | waiting |
 | [toobig-3m.split\_file.tests.test\_query\_profile.0](../bbugyi200.athena.toobig-3m.split_file.tests.test_query_profile.0/README.md) | toobig-3m.split\_file.tests hood | waiting |
 | [toobig-3m.split\_file.tests.test\_ratchet\_core\_window\_tool.0](../bbugyi200.athena.toobig-3m.split_file.tests.test_ratchet_core_window_tool.0/README.md) | toobig-3m.split\_file.tests hood | waiting |
