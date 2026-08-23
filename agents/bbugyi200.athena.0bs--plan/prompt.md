@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me stop rendering the ~/sase/memory/task_types.md file (which gets automatically created by the `sase init` command currently)? This memory file should only be generated in sase-managed project agent instruction files. #plan

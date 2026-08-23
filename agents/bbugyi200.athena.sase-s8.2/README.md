@@ -31,5 +31,5 @@
 |---|---|---|
 | [sase-s8.1](../bbugyi200.athena.sase-s8.1/README.md) | sase-s8 hood | completed |
 | [sase-s8.3](../bbugyi200.athena.sase-s8.3/README.md) | sase-s8 hood | completed |
-| [sase-s8.4](../bbugyi200.athena.sase-s8.4/README.md) | sase-s8 hood | active |
-| [sase-s8.land](../bbugyi200.athena.sase-s8.land/README.md) | sase-s8 hood | waiting |
+| [sase-s8.4](../../families/bbugyi200.athena.sase-s8.4.md) (family · 3) | sase-s8 hood | completed 2, failed 1 |
+| [sase-s8.land](../bbugyi200.athena.sase-s8.land/README.md) | sase-s8 hood | completed |

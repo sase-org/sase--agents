@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5cfc39b8e2658ffd864c03505d350019"}
+{"commits":[{"committed_at":1787498452,"sha":"42b900fa19de41fcee3bd8473385e46a567352ed","subject":"fix(agent): restore public is_terminal_state in wait_watch"}],"schema_version":2,"source_run_id":"run-5cfc39b8e2658ffd864c03505d350019"}
