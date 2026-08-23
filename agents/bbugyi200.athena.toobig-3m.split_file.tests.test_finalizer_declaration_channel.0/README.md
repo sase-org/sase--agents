@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-3m](../../users/bbugyi200/machines/athena/hoods/toobig-3m/README.md) / toobig-3m.split\_file.tests.test\_finalizer\_declaration\_channel.0
 
-**Global name:** `bbugyi200.athena.toobig-3m.split_file.tests.test_finalizer_declaration_channel.0` · **State:** waiting · **Source run:** `run-964b05b1c3104302158043851970a9d0`
+**Global name:** `bbugyi200.athena.toobig-3m.split_file.tests.test_finalizer_declaration_channel.0` · **State:** active · **Source run:** `run-964b05b1c3104302158043851970a9d0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-3m
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20260823160134
+- Timing: 2026-08-23T21:52:48.809312+00:00
 - Commits: 0
 
 ## Files

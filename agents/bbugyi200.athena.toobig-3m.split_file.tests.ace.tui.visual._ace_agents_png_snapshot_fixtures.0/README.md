@@ -29,7 +29,7 @@
 |---|---|---|
 | [toobig-3m.split\_file.tests.ace.tui.widgets.test\_agent\_list\_runtime\_rendering.0](../bbugyi200.athena.toobig-3m.split_file.tests.ace.tui.widgets.test_agent_list_runtime_rendering.0/README.md) | toobig-3m.split\_file.tests.ace.tui hood | completed |
 | [toobig-3m.split\_file.tests.test\_core\_vcs\_log.0](../bbugyi200.athena.toobig-3m.split_file.tests.test_core_vcs_log.0/README.md) | toobig-3m.split\_file.tests hood | completed |
-| [toobig-3m.split\_file.tests.test\_finalizer\_declaration\_channel.0](../bbugyi200.athena.toobig-3m.split_file.tests.test_finalizer_declaration_channel.0/README.md) | toobig-3m.split\_file.tests hood | waiting |
+| [toobig-3m.split\_file.tests.test\_finalizer\_declaration\_channel.0](../bbugyi200.athena.toobig-3m.split_file.tests.test_finalizer_declaration_channel.0/README.md) | toobig-3m.split\_file.tests hood | active |
 | [toobig-3m.split\_file.tests.test\_query\_profile.0](../bbugyi200.athena.toobig-3m.split_file.tests.test_query_profile.0/README.md) | toobig-3m.split\_file.tests hood | waiting |
 | [toobig-3m.split\_file.tests.test\_ratchet\_core\_window\_tool.0](../bbugyi200.athena.toobig-3m.split_file.tests.test_ratchet_core_window_tool.0/README.md) | toobig-3m.split\_file.tests hood | waiting |
 | [toobig-3m.split\_file.tests.test\_test\_cost.0](../bbugyi200.athena.toobig-3m.split_file.tests.test_test_cost.0/README.md) | toobig-3m.split\_file.tests hood | waiting |
