@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase There seems to be some kind of bug with stand-alone procs (launched with the `%proc` directive). Namely when I have one focused in the agents tab and the TUI is auto-refreshed, the selected node is changed (I think its the `0bh` or `0bd` sase agent node that gets selected). Can you help me diagnose the root cause of this issue and fix it? #plan
