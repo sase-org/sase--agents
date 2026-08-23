@@ -1,0 +1,6 @@
+#gh:sase-org/sase
+%id(split_file.tests.test_test_cost.0, clan=toobig-3m)
+%model:@medium
+%wait:toobig-3m.split_file.tests.test_ratchet_core_window_tool.0
+%wait(runners=3)
+%auto %wait(priority=20) #split_file:tests/test_test_cost.py

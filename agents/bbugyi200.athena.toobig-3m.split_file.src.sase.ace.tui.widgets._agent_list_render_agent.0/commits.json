@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1787517444,"sha":"84279395d260630c3cdffa0b56dca965376ac5f3","subject":"refactor(tui): split agent-list row renderer into prefix and status modules"}],"schema_version":2,"source_run_id":"run-204f85734186df5ae95ce806aa2de5bb"}
