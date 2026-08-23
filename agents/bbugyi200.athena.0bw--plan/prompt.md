@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add a new `type:<type>` filter to the "Stitch" sub-tab of the "Artifacts" tab to allow the user to filter for the type of the stitch (e.g. manual, automatic, stitch, merge/patch, etc...)? #plan
