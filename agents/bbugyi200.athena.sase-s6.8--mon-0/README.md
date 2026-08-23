@@ -1,8 +1,8 @@
-# Agent: sase-s6.8--plan
+# Agent: sase-s6.8--mon-0
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-s6](../../users/bbugyi200/machines/athena/hoods/sase-s6/README.md) / [sase-s6.8](../../families/bbugyi200.athena.sase-s6.8.md) / sase-s6.8--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-s6](../../users/bbugyi200/machines/athena/hoods/sase-s6/README.md) / [sase-s6.8](../../families/bbugyi200.athena.sase-s6.8.md) / sase-s6.8--mon-0
 
-**Global name:** `bbugyi200.athena.sase-s6.8--plan` · **State:** dismissed · **Source run:** `run-4882bbc030d38f7f6f1287371de0ffc7`
+**Global name:** `bbugyi200.athena.sase-s6.8--mon-0` · **State:** dismissed · **Source run:** `run-2ebf2aa6ac46c009f55b7fcf6eb3237d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-s6
 
@@ -11,7 +11,7 @@
 - Bead: [sase-s6.8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-s6/sase-s6.8.md)
 - Model: —
 - Provider: —
-- Timing: 2026-08-23T09:02:53
+- Timing: 2026-08-23T10:24:13
 - Commits: 0
 
 ## Neighbors
