@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me fully remove the `sase commit` command, which should just be a thin wrapper around the `sase stitch create` command? #plan
