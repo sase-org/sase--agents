@@ -1,0 +1,29 @@
+# Agent: sase-sq.2--code
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-sq](../../users/bbugyi200/machines/athena/hoods/sase-sq/README.md) / [sase-sq.2](../../families/bbugyi200.athena.sase-sq.2.md) / sase-sq.2--code
+
+**Global name:** `bbugyi200.athena.sase-sq.2--code` · **State:** active · **Source run:** `run-0ec17ab5527b5e6e661a7a195506b178`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-sq
+
+## Summary
+
+- Bead: [sase-sq.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-sq/sase-sq.2.md)
+- Epic: [sase-sq](https://github.com/sase-org/sase--beads/blob/main/pages/sase-sq/README.md)
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 2026-08-24T16:55:57.889864+00:00
+- Commits: 0
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-sq.1](../../families/bbugyi200.athena.sase-sq.1.md) (family · 2) | sase-sq hood | completed 2 |
+| [sase-sq.3](../bbugyi200.athena.sase-sq.3/README.md) | sase-sq hood | active |
+| [sase-sq.4](../bbugyi200.athena.sase-sq.4/README.md) | sase-sq hood | waiting |
+| [sase-sq.5](../bbugyi200.athena.sase-sq.5/README.md) | sase-sq hood | waiting |
+| [sase-sq.6](../bbugyi200.athena.sase-sq.6/README.md) | sase-sq hood | waiting |
+| [sase-sq.7](../bbugyi200.athena.sase-sq.7/README.md) | sase-sq hood | waiting |
+| [sase-sq.8](../bbugyi200.athena.sase-sq.8/README.md) | sase-sq hood | waiting |
+| [sase-sq.land](../bbugyi200.athena.sase-sq.land/README.md) | sase-sq hood | waiting |

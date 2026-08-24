@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1787596564,"sha":"43f4538f885e982a082119f5597a63b21b0e98da","subject":"feat(finalizers): seal config snapshot into authority artifact and report live drift as diagnostics"}],"schema_version":2,"source_run_id":"run-8ce2665b6c2f03d1a98677b2af5fc72a"}
