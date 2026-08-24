@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d941e5e37c8048a44bb4e68e044382df"}
+{"commits":[{"committed_at":1787572183,"sha":"5dc8973956dbd2b82635cfb836be712ae9fa8439","subject":"feat(tui): render agent header proc count as gear badge"}],"schema_version":2,"source_run_id":"run-d941e5e37c8048a44bb4e68e044382df"}

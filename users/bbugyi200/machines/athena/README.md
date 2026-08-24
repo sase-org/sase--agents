@@ -382,7 +382,7 @@
 | [0c5](hoods/0c5/README.md) | 2 | 1 | failed 2 |
 | [0c6](hoods/0c6/README.md) | 2 | 1 | failed 2 |
 | [0c7](hoods/0c7/README.md) | 2 | 1 | active 2 |
-| [0c8](hoods/0c8/README.md) | 2 | 1 | active 2 |
+| [0c8](hoods/0c8/README.md) | 2 | 1 | completed 2 |
 | [0d](hoods/0d/README.md) | 2 | 1 | active 1, completed 1 |
 | [0e](hoods/0e/README.md) | 10 | 5 | active 5, completed 5 |
 | [0f](hoods/0f/README.md) | 2 | 1 | active 1, completed 1 |
@@ -1533,7 +1533,7 @@
 | [sase-s9](hoods/sase-s9/README.md) | 8 | 0 | active 1, completed 6, dismissed 1 |
 | [sase-sk](hoods/sase-sk/README.md) | 4 | 0 | active 1, completed 2, waiting 1 |
 | [sase-sn](hoods/sase-sn/README.md) | 9 | 1 | active 1, completed 3, failed 1, waiting 4 |
-| [sase-so](hoods/sase-so/README.md) | 5 | 0 | active 2, waiting 3 |
+| [sase-so](hoods/sase-so/README.md) | 5 | 0 | active 1, completed 1, waiting 3 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-0q](hoods/sase_fix_just-0q/README.md) | 1 | 0 | active 1 |
