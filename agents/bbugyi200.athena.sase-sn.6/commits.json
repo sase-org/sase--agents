@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a26e27f5a1465bd488ccad76e7be1216"}
+{"commits":[{"committed_at":1787578085,"sha":"1907346f8e4170ee31f639db9fe452930bff9ce5","subject":"test(xprompt): add text-block launch regression and shared corpus"}],"schema_version":2,"source_run_id":"run-a26e27f5a1465bd488ccad76e7be1216"}
