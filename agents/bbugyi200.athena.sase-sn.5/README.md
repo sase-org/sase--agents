@@ -27,5 +27,5 @@
 | [sase-sn.2](../../families/bbugyi200.athena.sase-sn.2.md) (family · 3) | sase-sn hood | completed 2, failed 1 |
 | [sase-sn.3](../bbugyi200.athena.sase-sn.3/README.md) | sase-sn hood | completed |
 | [sase-sn.4](../bbugyi200.athena.sase-sn.4/README.md) | sase-sn hood | completed |
-| [sase-sn.6](../bbugyi200.athena.sase-sn.6/README.md) | sase-sn hood | active |
-| [sase-sn.land](../bbugyi200.athena.sase-sn.land/README.md) | sase-sn hood | waiting |
+| [sase-sn.6](../bbugyi200.athena.sase-sn.6/README.md) | sase-sn hood | completed |
+| [sase-sn.land](../bbugyi200.athena.sase-sn.land/README.md) | sase-sn hood | active |
