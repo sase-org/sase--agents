@@ -31,8 +31,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-sq.2](bbugyi200.athena.sase-sq.2.md) (family · 2) | sase-sq hood | active 1, dismissed 1 |
-| [sase-sq.3](../agents/bbugyi200.athena.sase-sq.3/README.md) | sase-sq hood | active |
-| [sase-sq.4](../agents/bbugyi200.athena.sase-sq.4/README.md) | sase-sq hood | waiting |
+| [sase-sq.3](../agents/bbugyi200.athena.sase-sq.3/README.md) | sase-sq hood | completed |
+| [sase-sq.4](../agents/bbugyi200.athena.sase-sq.4/README.md) | sase-sq hood | active |
 | [sase-sq.5](../agents/bbugyi200.athena.sase-sq.5/README.md) | sase-sq hood | waiting |
 | [sase-sq.6](../agents/bbugyi200.athena.sase-sq.6/README.md) | sase-sq hood | waiting |
 | [sase-sq.7](../agents/bbugyi200.athena.sase-sq.7/README.md) | sase-sq hood | waiting |

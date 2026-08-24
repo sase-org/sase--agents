@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-sq](../../users/bbugyi200/machines/athena/hoods/sase-sq/README.md) / sase-sq.3
 
-**Global name:** `bbugyi200.athena.sase-sq.3` · **State:** active · **Source run:** `run-cd5556d880d3d0715964f96e325f6a3a`
+**Global name:** `bbugyi200.athena.sase-sq.3` · **State:** completed · **Source run:** `run-cd5556d880d3d0715964f96e325f6a3a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-sq
 
@@ -12,12 +12,18 @@
 - Epic: [sase-sq](https://github.com/sase-org/sase--beads/blob/main/pages/sase-sq/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-24T18:00:54.707864+00:00
-- Commits: 0
+- Timing: 2026-08-24T18:00:54.707864+00:00 → 2026-08-24T19:13:27.380739+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`cbda792`](https://github.com/sase-org/sase/commit/cbda7926f05ffc09eb1c3aaa4693f4fe6a1fbda7) | feat(memory): make memory read/show variadic over note/web/strand selectors and add the web command group | 2026-08-24 15:12:12 EDT |
 
 ## Neighbors
 
@@ -25,7 +31,7 @@
 |---|---|---|
 | [sase-sq.1](../../families/bbugyi200.athena.sase-sq.1.md) (family · 2) | sase-sq hood | completed 2 |
 | [sase-sq.2](../../families/bbugyi200.athena.sase-sq.2.md) (family · 2) | sase-sq hood | active 1, dismissed 1 |
-| [sase-sq.4](../bbugyi200.athena.sase-sq.4/README.md) | sase-sq hood | waiting |
+| [sase-sq.4](../bbugyi200.athena.sase-sq.4/README.md) | sase-sq hood | active |
 | [sase-sq.5](../bbugyi200.athena.sase-sq.5/README.md) | sase-sq hood | waiting |
 | [sase-sq.6](../bbugyi200.athena.sase-sq.6/README.md) | sase-sq hood | waiting |
 | [sase-sq.7](../bbugyi200.athena.sase-sq.7/README.md) | sase-sq hood | waiting |
