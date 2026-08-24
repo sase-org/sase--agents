@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4d700843024ab91c3fe16b8fe830f569"}
+{"commits":[{"committed_at":1787591869,"sha":"d06d268ea6a49822adbe4bebd81518690c667431","subject":"feat(llm): auto-drain a hard-disabled provider on a usage-limit trip"}],"schema_version":2,"source_run_id":"run-4d700843024ab91c3fe16b8fe830f569"}
