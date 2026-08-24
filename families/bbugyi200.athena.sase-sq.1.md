@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-sq.1--plan | active | opus / claude | 2026-08-24T13:34:46.900544+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-sq.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-sq.1--plan/chat.md) |
-| <a id="member-code"></a>code | sase-sq.1--code | active | sonnet / claude | 2026-08-24T13:45:56.452320+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-sq.1--plan | active | opus / claude | 2026-08-24T14:34:55.986220+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-sq.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-sq.1--plan/chat.md) |
+| <a id="member-code"></a>code | sase-sq.1--code | active | gpt-5.5 / codex | 2026-08-24T14:49:12.154544+00:00 | 0 | — | — |
 
 ## Neighbors
 

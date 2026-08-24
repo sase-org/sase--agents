@@ -22,9 +22,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-sp.1](../bbugyi200.athena.sase-sp.1/README.md) | sase-sp hood | active |
-| [sase-sp.2](../bbugyi200.athena.sase-sp.2/README.md) | sase-sp hood | waiting |
-| [sase-sp.3](../bbugyi200.athena.sase-sp.3/README.md) | sase-sp hood | waiting |
+| [sase-sp.1](../bbugyi200.athena.sase-sp.1/README.md) | sase-sp hood | completed |
+| [sase-sp.2](../../families/bbugyi200.athena.sase-sp.2.md) (family · 7) | sase-sp hood | completed 4, failed 3 |
+| [sase-sp.3](../bbugyi200.athena.sase-sp.3/README.md) | sase-sp hood | active |
 | [sase-sp.4](../bbugyi200.athena.sase-sp.4/README.md) | sase-sp hood | waiting |
 | [sase-sp.5](../bbugyi200.athena.sase-sp.5/README.md) | sase-sp hood | waiting |
 | [sase-sp.6](../bbugyi200.athena.sase-sp.6/README.md) | sase-sp hood | waiting |

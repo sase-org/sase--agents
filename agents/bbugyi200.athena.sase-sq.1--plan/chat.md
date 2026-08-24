@@ -1,17 +1,16 @@
 # Chat History - ace-run (sase-sq.1--plan)
 
-- **TIMESTAMP:** 2026-08-24 09:45:42 EDT
+- **TIMESTAMP:** 2026-08-24 10:48:43 EDT
 - **MODEL:** claude/opus
 - **AGENT:** sase-sq.1--plan
 
-**Plan:** /home/bryan/.sase/plans/202608/core_reference_memory.md
+**Plan:** /home/bryan/.sase/plans/202608/core_reference_memory_vocabulary.md
 
 
 ## Prompt
 
 #gh:gh_sase-org__sase
-%id(sase-sq.1, bead=sase-sq.1)
-%clan(sase-sq, tribe=epic, summary_script=sase_clan_summary_epic)
+%id(1, clan=sase-sq, bead=sase-sq.1)
 %model:@large
 %auto
 Can you complete the work for bead sase-sq.1? The bead is already reserved for you and assigned to your agent
@@ -37,18 +36,18 @@ before making any file changes.
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202608/core_reference_memory.md`
+**Plan file:** `/home/bryan/.sase/plans/202608/core_reference_memory_vocabulary.md`
 
 > - **PARENT:** [202608/memory_webs.md](202608/memory_webs.md)
 > - **BEAD:** sase-sq.1
 > # Plan: Core and reference memory vocabulary
-> Implements phase `tiers` of epic bead `sase-sq` (phase bead `sase-sq.1`,
-> `plan:202608/memory_webs.md`). This is the first phase and has no dependencies.
+> Implements phase `tiers` (bead `sase-sq.1`) of epic `sase-sq` · Memory webs and strands
+> (`plan:202608/memory_webs.md`). Read that epic plan's **Vocabulary**, **Rust boundary**,
+> and **tiers** sections before starting; this plan is the executable expansion of them.
 > ## Goal
-> "Short-term memory" becomes **core memory** and "long-term memory" becomes **reference
-> memory** everywhere: the Rust tier wire, `type:` frontmatter, the `AGENTS.md` H2
-> anchors, templates, the `/sase_memory_read` skill, CLI help, docstrings, and docs.
-> Two properties are non-negotiable:
+> Rename "short-term memory" to **core memory** and "long-term memory" to **reference
+> memory** across the whole product surface, and rename the frontmatter values `short` →
+> `core` and `long` → `reference`. Old spellings keep parsing **forever**; old `AGENTS.md`
 
 *See full plan file for details.*
 
