@@ -1,0 +1,4 @@
+%clan(research.10, tribe=research,
+summary=[[[bold]RESEARCH PROMPT:[/bold] Can you do some research to help me decide what architectural decision records would be most useful to add to this project? See the glossary_to_memory_webs.md file in the research sidecar repo for context. End your analysis with a ranked list of recommended decisions I should add to the decision web proposed by the glossary_to_memory_webs.md research file.]]) %id:research.10.cdx
+%model:@research_a 
+#gh:gh_sase-org__sase Can you do some research to help me decide what architectural decision records would be most useful to add to this project? See the glossary_to_memory_webs.md file in the research sidecar repo for context. End your analysis with a ranked list of recommended decisions I should add to the decision web proposed by the glossary_to_memory_webs.md research file. #research(report_target=research.10.cdx.md)
