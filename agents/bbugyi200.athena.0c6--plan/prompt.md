@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase Yesterday, I made some improvements to the `toobig_split` chop. Namely, we were supposed to start using a name like `toobig-3j.<basename>.0` (using the special `{@<id>}` syntax that should be supported in sase agent names). I'm not sure that change was ever applied however. Moreover I'm seeing the agents created by this chop are no longer being added to the `@chop` tribe (see #sshot for context). Can you help me diagnose the root cause of this issue and fix it?
+
+#plan

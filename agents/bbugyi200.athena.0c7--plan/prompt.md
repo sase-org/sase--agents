@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I seem unable to dismiss a stand-alone proc shell (see #sshot for context). Can you help me diagnose the root cause of this issue and fix it? #plan
