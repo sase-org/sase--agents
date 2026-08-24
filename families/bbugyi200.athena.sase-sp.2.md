@@ -46,8 +46,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-sp.1](../agents/bbugyi200.athena.sase-sp.1/README.md) | sase-sp hood | completed |
-| [sase-sp.3](../agents/bbugyi200.athena.sase-sp.3/README.md) | sase-sp hood | active |
-| [sase-sp.4](../agents/bbugyi200.athena.sase-sp.4/README.md) | sase-sp hood | waiting |
-| [sase-sp.5](../agents/bbugyi200.athena.sase-sp.5/README.md) | sase-sp hood | waiting |
+| [sase-sp.3](../agents/bbugyi200.athena.sase-sp.3/README.md) | sase-sp hood | completed |
+| [sase-sp.4](../agents/bbugyi200.athena.sase-sp.4/README.md) | sase-sp hood | active |
+| [sase-sp.5](../agents/bbugyi200.athena.sase-sp.5/README.md) | sase-sp hood | active |
 | [sase-sp.6](../agents/bbugyi200.athena.sase-sp.6/README.md) | sase-sp hood | waiting |
 | [sase-sp.land](../agents/bbugyi200.athena.sase-sp.land/README.md) | sase-sp hood | waiting |

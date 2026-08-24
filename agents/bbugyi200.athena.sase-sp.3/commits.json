@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2ffa74731d852be3938a4320a0d0da4e"}
+{"commits":[{"committed_at":1787587934,"sha":"524d8f26f2b3ff619132248135ef2322349463c5","subject":"feat(finalizers): adjudicate typed deferrals at submit time"}],"schema_version":2,"source_run_id":"run-2ffa74731d852be3938a4320a0d0da4e"}
