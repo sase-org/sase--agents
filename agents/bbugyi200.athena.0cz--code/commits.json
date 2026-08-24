@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ebbf07667bd813f72c556537a85b208d"}
+{"commits":[{"committed_at":1787609576,"sha":"e4534d2651783989fddf66e29a0dc3d562cf0e89","subject":"fix(agent): allow forking failed agents"}],"schema_version":2,"source_run_id":"run-ebbf07667bd813f72c556537a85b208d"}
