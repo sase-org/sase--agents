@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I'm unable to use the `just` command in a stand-alone proc (see #sshot for context). Can you help me diagnose the root cause of this issue and fix it? #plan

@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 0cf--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0cf__plan-260824_103107.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0cf__code-260824_103107.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/family_root_force_reuse.md
 
 
