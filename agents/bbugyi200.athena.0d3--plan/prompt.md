@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase We recently attempted to add support to the xprompt for forking failed agents. We also have ongoing work dedicated to making this xprompt even more powerful (see the sase-t8 epic bead for context). It seems like our initial attempt to add support for failed sase agents was not successful however (see the failed `sase-sq.7.1.2.f0` and `sase-sq.7.1.2.f0.f0` sase agents for context). Can you help me diagnose the root cause of this issue and fix it? Make sure to leave notes on the sase-t8 epic bead, if appropriate / if this work conflicts in any way / if this work interacts in a risky way with that epic.
+
+#plan

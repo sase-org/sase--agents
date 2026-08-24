@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0f699ab065eb791d7f8939a6a53ad22f"}
+{"commits":[{"committed_at":1787613585,"sha":"af27e67e06f1e9e185bc08e1581832e4cdd4f743","subject":"feat(glossary): emit v2 source wire fields"}],"schema_version":2,"source_run_id":"run-0f699ab065eb791d7f8939a6a53ad22f"}
