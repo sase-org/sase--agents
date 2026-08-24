@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I think there's a problem with the way that we are handling argument parsing for xprompts. See #sshot for context (no `wait` input was provided to the `#research_swarm` xprompt). Can you help me diagnose the root cause of this issue and fix it? #plan

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1787567732,"sha":"4d0da0d4be1c0ab5284946c3a6393c3d758a6302","subject":"fix(xprompt): bind shorthand text directly from source, not re-lexed"}],"schema_version":2,"source_run_id":"run-12ce432dfd72c2c093349db133356b7e"}
