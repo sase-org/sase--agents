@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7a11122d22c1f2dc679aeada00f23066"}
+{"commits":[{"committed_at":1787602487,"sha":"6a91ae88e2d1381105bf86d48c46924701a13e81","subject":"fix(finalizers): accept refusal defer in the public config schema and privatize unused finalizer symbols"}],"schema_version":2,"source_run_id":"run-7a11122d22c1f2dc679aeada00f23066"}
