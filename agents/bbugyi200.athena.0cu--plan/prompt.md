@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me rename the "Misc" sub-tab of the "Config" tab of the "SASE Admin Center" panel to "All"? Make sure you correct the (sorted alphabetically) subtab order. #plan
