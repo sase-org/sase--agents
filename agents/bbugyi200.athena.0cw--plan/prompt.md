@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase When the `m` keymap is used on the "Agents" tab to mark a node, the next node is selected. This is normally the correct behavior, but when a folded agent group is below the current node but before the next node, we should select that folded group instead of selecting the next node. For example, in ~/tmp/screenshots/20260824_144528.png, we should be selecting the `09:00` group instead of the `0c7` sase agent. Can you help me fix this?
+
+#plan
