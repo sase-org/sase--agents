@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We've done some work on the `toobig_split` chop recently and everything is working almost perfectly now but there is one problem. Namely we seem to no longer be running the agents launched by these chops in a chain by having each one wait for the previous. Can you help me fix this? #plan
