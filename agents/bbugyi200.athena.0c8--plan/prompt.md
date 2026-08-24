@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase Can you help me improve the way proc counts are shown at the top of the agents tab? Namely, let's start using a little blue gear next to the count instead of "procs", putting the count to the right of the gear, and putting the gear to the right of the first `]` character (i.e. after the agent counts in square brackets). See #sshot for an example of what this looks like now (see the "1 procs" text at the top).
+
+#plan
