@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-47a2876e53e826930309ab4957195639"}
+{"commits":[{"committed_at":1787625642,"sha":"b2d6235a057d07918ea21138ba96eec6536f8c54","subject":"test: split query profile reference compatibility tests"}],"schema_version":2,"source_run_id":"run-47a2876e53e826930309ab4957195639"}
