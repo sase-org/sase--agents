@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-sq
 
-**Global hood:** `bbugyi200.athena.sase-sq` · **Runs:** 42 · **Families:** 7 · **States:** active 2, completed 22, dismissed 3, failed 12, waiting 3
+**Global hood:** `bbugyi200.athena.sase-sq` · **Runs:** 42 · **Families:** 7 · **States:** active 2, completed 23, dismissed 3, failed 12, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -20,7 +20,7 @@
 | [sase-sq.5--mon](../../../../../../families/bbugyi200.athena.sase-sq.5.md#member-mon) | failed | sonnet / claude | 2026-08-24T20:46:02.455915+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-sq.5--mon/chat.md) |
 | [sase-sq.5--3](../../../../../../families/bbugyi200.athena.sase-sq.5.md#member-3) | completed | sonnet / claude | 2026-08-24T21:34:07.578926+00:00 → 2026-08-24T22:00:13.105186+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.5--3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-sq.5--3/chat.md) |
 | [sase-sq.7.1.3--plan](../../../../../../families/bbugyi200.athena.sase-sq.7.1.3.md#member-plan) | completed | sonnet / claude | 2026-08-24T23:23:19.476905+00:00 → 2026-08-24T23:54:36.834611+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.3--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.3--plan/chat.md) |
-| [sase-sq.8.1.2](../../../../../../agents/bbugyi200.athena.sase-sq.8.1.2/README.md) | active | sonnet / claude | 2026-08-25T03:59:08.333147+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.8.1.2/prompt.md) |
+| [sase-sq.8.1.2](../../../../../../agents/bbugyi200.athena.sase-sq.8.1.2/README.md) | completed | sonnet / claude | 2026-08-25T03:59:08.333147+00:00 → 2026-08-25T04:57:50.487661+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.8.1.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-sq.8.1.2/chat.md) |
 | [sase-sq.7.1.3--mon](../../../../../../families/bbugyi200.athena.sase-sq.7.1.3.md#member-mon) | failed | sonnet / claude | 2026-08-24T23:54:25.998422+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.3--mon/chat.md) |
 | [sase-sq.7.1.3--2](../../../../../../families/bbugyi200.athena.sase-sq.7.1.3.md#member-2) | completed | sonnet / claude | 2026-08-25T00:18:35.249801+00:00 → 2026-08-25T00:23:44.475083+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.3--2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.3--2/chat.md) |
 | [sase-sq.1--code](../../../../../../families/bbugyi200.athena.sase-sq.1.md#member-code) | completed | gpt-5.5 / codex | 2026-08-24T14:49:12.154544+00:00 → 2026-08-24T16:51:10.892760+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-sq.1--code/chat.md) |
@@ -47,4 +47,4 @@
 | [sase-sq.8.1.land](../../../../../../agents/bbugyi200.athena.sase-sq.8.1.land/README.md) | waiting | opus / claude | 20260824231147 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.8.1.land/prompt.md) |
 | [sase-sq.7.1.6--mon](../../../../../../families/bbugyi200.athena.sase-sq.7.1.6.md#member-mon) | failed | gpt-5.5 / codex | 2026-08-25T01:41:22.895045+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.6--mon/chat.md) |
 | [sase-sq.7--mon](../../../../../../families/bbugyi200.athena.sase-sq.7.md#member-mon) | failed | opus / claude | 2026-08-24T22:13:54.039714+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-sq.7--mon/chat.md) |
-| [sase-sq.8.1.3](../../../../../../agents/bbugyi200.athena.sase-sq.8.1.3/README.md) | waiting | sonnet / claude | 20260824231146 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.8.1.3/prompt.md) |
+| [sase-sq.8.1.3](../../../../../../agents/bbugyi200.athena.sase-sq.8.1.3/README.md) | active | sonnet / claude | 2026-08-25T04:59:24.351389+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.8.1.3/prompt.md) |

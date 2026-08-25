@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-sq](../../users/bbugyi200/machines/athena/hoods/sase-sq/README.md) / sase-sq.8.1.3
 
-**Global name:** `bbugyi200.athena.sase-sq.8.1.3` · **State:** waiting · **Source run:** `run-fe30094bec5d143dc9e9798d2ffc987b`
+**Global name:** `bbugyi200.athena.sase-sq.8.1.3` · **State:** active · **Source run:** `run-fe30094bec5d143dc9e9798d2ffc987b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-sq
 
@@ -12,12 +12,18 @@
 - Epic: [sase-sq.8.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-sq/sase-sq.8.1.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 20260824231146
-- Commits: 0
+- Timing: 2026-08-25T04:59:24.351389+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`882ba36`](https://github.com/sase-org/sase/commit/882ba36f5ae84d3a82230ea2b7ee30f6e8a7d29d) | docs(memory): retire glossary strand references across docs and skills | 2026-08-25 01:32:09 EDT |
 
 ## Neighbors
 
@@ -25,7 +31,7 @@
 |---|---|---|
 | [sase-sq.8](../../families/bbugyi200.athena.sase-sq.8.md) (family · 2) | ancestor | failed 2 |
 | [sase-sq.8.1.1](../bbugyi200.athena.sase-sq.8.1.1/README.md) | sase-sq.8.1 hood | completed |
-| [sase-sq.8.1.2](../bbugyi200.athena.sase-sq.8.1.2/README.md) | sase-sq.8.1 hood | active |
+| [sase-sq.8.1.2](../bbugyi200.athena.sase-sq.8.1.2/README.md) | sase-sq.8.1 hood | completed |
 | [sase-sq.8.1.land](../bbugyi200.athena.sase-sq.8.1.land/README.md) | sase-sq.8.1 hood | waiting |
 | [sase-sq.1](../../families/bbugyi200.athena.sase-sq.1.md) (family · 2) | sase-sq hood | completed 2 |
 | [sase-sq.2](../../families/bbugyi200.athena.sase-sq.2.md) (family · 2) | sase-sq hood | active 1, dismissed 1 |
