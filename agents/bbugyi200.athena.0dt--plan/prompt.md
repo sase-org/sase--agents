@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase The `<ctrl+j/k>` keymaps on the "Agents" tab treat each of the entries/lines under the `FAMILY SHELLS` section as section headers (i.e. it jumps to them and redraws/scrolls the panel so that line is shown at the top). Can you help me fix this and any other violations of this rule (that only section headers, which are shown in all caps and underlined in the agent metadata panel, should be jumped to by the `<ctrl+j/k>` keymaps)?
+
+#plan #m_opus
