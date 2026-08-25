@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1787690429,"sha":"446e9a43c359fc8ed943f29ab4eb24c91601dd21","subject":"perf(plans): defer plan metadata reads past the inventory slice"}],"schema_version":2,"source_run_id":"run-286f8de1a1fb80419a058a45efe0cc28"}
