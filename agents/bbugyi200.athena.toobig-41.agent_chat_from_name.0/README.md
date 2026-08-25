@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-41.chat\_fork.0](../bbugyi200.athena.toobig-41.chat_fork.0/README.md) | toobig-41 hood | active |
+| [toobig-41.chat\_fork.0](../bbugyi200.athena.toobig-41.chat_fork.0/README.md) | toobig-41 hood | completed |
 | [toobig-41.project\_mutations.0](../bbugyi200.athena.toobig-41.project_mutations.0/README.md) | toobig-41 hood | active |
 | [toobig-41.test\_agent\_marking.0](../bbugyi200.athena.toobig-41.test_agent_marking.0/README.md) | toobig-41 hood | waiting |
 | [toobig-41.test\_finalizer\_declaration\_channel.0](../bbugyi200.athena.toobig-41.test_finalizer_declaration_channel.0/README.md) | toobig-41 hood | waiting |
