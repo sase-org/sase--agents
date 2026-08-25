@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-25T00:24:50.502182+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`f7aa438`](https://github.com/sase-org/sase/commit/f7aa438ba77c65f3055eb469905d24ba1b29a449) | feat(memory): add glossary web migration command | 2026-08-24 21:22:16 EDT |
 
 ## Neighbors
 

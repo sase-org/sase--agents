@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-bc1a1a280c1aab52eb275c157d5e36b3"}
+{"commits":[{"committed_at":1787620936,"sha":"f7aa438ba77c65f3055eb469905d24ba1b29a449","subject":"feat(memory): add glossary web migration command"}],"schema_version":2,"source_run_id":"run-bc1a1a280c1aab52eb275c157d5e36b3"}
