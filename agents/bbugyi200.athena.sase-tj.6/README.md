@@ -25,10 +25,11 @@
 |---|---|---|
 | [sase-tj.1](../bbugyi200.athena.sase-tj.1/README.md) | sase-tj hood | completed |
 | [sase-tj.2](../bbugyi200.athena.sase-tj.2/README.md) | sase-tj hood | dismissed |
-| [sase-tj.3](../bbugyi200.athena.sase-tj.3/README.md) | sase-tj hood | active |
-| [sase-tj.4](../bbugyi200.athena.sase-tj.4/README.md) | sase-tj hood | waiting |
+| [sase-tj.3](../bbugyi200.athena.sase-tj.3/README.md) | sase-tj hood | completed |
+| [sase-tj.4](../bbugyi200.athena.sase-tj.4/README.md) | sase-tj hood | active |
 | [sase-tj.5](../bbugyi200.athena.sase-tj.5/README.md) | sase-tj hood | waiting |
 | [sase-tj.7](../bbugyi200.athena.sase-tj.7/README.md) | sase-tj hood | waiting |
-| [sase-tj.8](../bbugyi200.athena.sase-tj.8/README.md) | sase-tj hood | waiting |
+| [sase-tj.8](../../families/bbugyi200.athena.sase-tj.8.md) (family · 3) | sase-tj hood | active 1, completed 1, failed 1 |
 | [sase-tj.9](../bbugyi200.athena.sase-tj.9/README.md) | sase-tj hood | waiting |
 | [sase-tj.land](../bbugyi200.athena.sase-tj.land/README.md) | sase-tj hood | waiting |
+| [sase-tj.land.w0](../bbugyi200.athena.sase-tj.land.w0/README.md) | sase-tj hood | waiting |
