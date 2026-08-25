@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-41](../../users/bbugyi200/machines/athena/hoods/toobig-41/README.md) / toobig-41.test\_query\_profile.0
 
-**Global name:** `bbugyi200.athena.toobig-41.test_query_profile.0` · **State:** active · **Source run:** `run-47a2876e53e826930309ab4957195639`
+**Global name:** `bbugyi200.athena.toobig-41.test_query_profile.0` · **State:** completed · **Source run:** `run-47a2876e53e826930309ab4957195639`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-41
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-25T02:24:03.202274+00:00
+- Timing: 2026-08-25T02:24:03.202274+00:00 → 2026-08-25T02:42:15.569154+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
