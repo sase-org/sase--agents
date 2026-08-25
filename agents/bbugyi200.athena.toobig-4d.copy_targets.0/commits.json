@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e14fac63b63204b598719ae7eb953e82"}
+{"commits":[{"committed_at":1787682470,"sha":"a1343b97be6c35dc7cea16ef18a7497d62cead87","subject":"refactor(tui): split copy target registry"}],"schema_version":2,"source_run_id":"run-e14fac63b63204b598719ae7eb953e82"}

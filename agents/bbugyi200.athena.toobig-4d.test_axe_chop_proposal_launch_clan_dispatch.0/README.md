@@ -21,8 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-4d.commit\_finalizer\_state.0](../bbugyi200.athena.toobig-4d.commit_finalizer_state.0/README.md) | toobig-4d hood | waiting |
-| [toobig-4d.copy\_targets.0](../bbugyi200.athena.toobig-4d.copy_targets.0/README.md) | toobig-4d hood | waiting |
+| [toobig-4d.commit\_finalizer\_state.0](../bbugyi200.athena.toobig-4d.commit_finalizer_state.0/README.md) | toobig-4d hood | active |
+| [toobig-4d.copy\_targets.0](../bbugyi200.athena.toobig-4d.copy_targets.0/README.md) | toobig-4d hood | completed |
 | [toobig-4d.lease.0](../bbugyi200.athena.toobig-4d.lease.0/README.md) | toobig-4d hood | waiting |
-| [toobig-4d.profiles.0](../bbugyi200.athena.toobig-4d.profiles.0/README.md) | toobig-4d hood | active |
+| [toobig-4d.profiles.0](../bbugyi200.athena.toobig-4d.profiles.0/README.md) | toobig-4d hood | completed |
 | [toobig-4d.test\_launch\_condition\_workspace.0](../bbugyi200.athena.toobig-4d.test_launch_condition_workspace.0/README.md) | toobig-4d hood | waiting |
