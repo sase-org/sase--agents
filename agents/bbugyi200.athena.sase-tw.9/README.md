@@ -13,18 +13,24 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-25T21:23:46.042343+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`012a66a`](https://github.com/sase-org/sase/commit/012a66a659853bae9bd27e0c47b0f75178794a80) | fix(artifact-links): make related note migration safe | 2026-08-25 18:30:46 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-tw.1](../bbugyi200.athena.sase-tw.1/README.md) | sase-tw hood | completed |
-| [sase-tw.10](../bbugyi200.athena.sase-tw.10/README.md) | sase-tw hood | waiting |
+| [sase-tw.10](../bbugyi200.athena.sase-tw.10/README.md) | sase-tw hood | active |
 | [sase-tw.11](../bbugyi200.athena.sase-tw.11/README.md) | sase-tw hood | completed |
 | [sase-tw.12](../bbugyi200.athena.sase-tw.12/README.md) | sase-tw hood | completed |
 | [sase-tw.13](../bbugyi200.athena.sase-tw.13/README.md) | sase-tw hood | active |
@@ -33,7 +39,7 @@
 | [sase-tw.3](../bbugyi200.athena.sase-tw.3/README.md) | sase-tw hood | completed |
 | [sase-tw.4](../bbugyi200.athena.sase-tw.4/README.md) | sase-tw hood | active |
 | [sase-tw.5](../bbugyi200.athena.sase-tw.5/README.md) | sase-tw hood | completed |
-| [sase-tw.6](../bbugyi200.athena.sase-tw.6/README.md) | sase-tw hood | active |
+| [sase-tw.6](../bbugyi200.athena.sase-tw.6/README.md) | sase-tw hood | completed |
 | [sase-tw.7](../bbugyi200.athena.sase-tw.7/README.md) | sase-tw hood | waiting |
 | [sase-tw.8](../bbugyi200.athena.sase-tw.8/README.md) | sase-tw hood | waiting |
 | [sase-tw.land](../bbugyi200.athena.sase-tw.land/README.md) | sase-tw hood | waiting |
