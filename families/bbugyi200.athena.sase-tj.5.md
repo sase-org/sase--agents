@@ -49,4 +49,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-tj.land](bbugyi200.athena.sase-tj.land.md) (family · 2) | sase-tj hood | failed 2 |
 | [sase-tj.land.w0](../agents/bbugyi200.athena.sase-tj.land.w0/README.md) | sase-tj hood | dismissed |
 | [sase-tj.land.w1](../agents/bbugyi200.athena.sase-tj.land.w1/README.md) | sase-tj hood | dismissed |
-| [sase-tj.land.w3](../agents/bbugyi200.athena.sase-tj.land.w3/README.md) | sase-tj hood | active |
+| [sase-tj.land.w3](bbugyi200.athena.sase-tj.land.w3.md) (family · 2) | sase-tj hood | active 1, failed 1 |

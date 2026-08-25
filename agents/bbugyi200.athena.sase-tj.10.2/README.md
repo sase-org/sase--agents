@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-25T19:04:16.055645+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9b4f7d4`](https://github.com/sase-org/sase/commit/9b4f7d41a6d4de19454f1972d1e8f54391723205) | feat(artifacts-agents): bind j/k navigation on the Agent pane and guard capability reachability | 2026-08-25 15:35:02 EDT |
 
 ## Neighbors
 
@@ -39,4 +45,4 @@
 | [sase-tj.land](../../families/bbugyi200.athena.sase-tj.land.md) (family · 2) | sase-tj hood | failed 2 |
 | [sase-tj.land.w0](../bbugyi200.athena.sase-tj.land.w0/README.md) | sase-tj hood | dismissed |
 | [sase-tj.land.w1](../bbugyi200.athena.sase-tj.land.w1/README.md) | sase-tj hood | dismissed |
-| [sase-tj.land.w3](../bbugyi200.athena.sase-tj.land.w3/README.md) | sase-tj hood | active |
+| [sase-tj.land.w3](../../families/bbugyi200.athena.sase-tj.land.w3.md) (family · 2) | sase-tj hood | active 1, failed 1 |

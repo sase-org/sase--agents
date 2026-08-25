@@ -26,7 +26,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-tj.land.w0](../agents/bbugyi200.athena.sase-tj.land.w0/README.md) | descendant | dismissed |
 | [sase-tj.land.w1](../agents/bbugyi200.athena.sase-tj.land.w1/README.md) | descendant | dismissed |
-| [sase-tj.land.w3](../agents/bbugyi200.athena.sase-tj.land.w3/README.md) | descendant | active |
+| [sase-tj.land.w3](bbugyi200.athena.sase-tj.land.w3.md) (family · 2) | descendant | active 1, failed 1 |
 | [sase-tj.1](../agents/bbugyi200.athena.sase-tj.1/README.md) | sase-tj hood | completed |
 | [sase-tj.10.1](../agents/bbugyi200.athena.sase-tj.10.1/README.md) | sase-tj hood | completed |
 | [sase-tj.10.2](../agents/bbugyi200.athena.sase-tj.10.2/README.md) | sase-tj hood | active |

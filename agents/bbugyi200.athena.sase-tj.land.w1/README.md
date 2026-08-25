@@ -19,7 +19,7 @@
 |---|---|---|
 | [sase-tj.land](../../families/bbugyi200.athena.sase-tj.land.md) (family · 2) | ancestor | failed 2 |
 | [sase-tj.land.w0](../bbugyi200.athena.sase-tj.land.w0/README.md) | sase-tj.land hood | dismissed |
-| [sase-tj.land.w3](../bbugyi200.athena.sase-tj.land.w3/README.md) | sase-tj.land hood | active |
+| [sase-tj.land.w3](../../families/bbugyi200.athena.sase-tj.land.w3.md) (family · 2) | sase-tj.land hood | active 1, failed 1 |
 | [sase-tj.1](../bbugyi200.athena.sase-tj.1/README.md) | sase-tj hood | completed |
 | [sase-tj.10.1](../bbugyi200.athena.sase-tj.10.1/README.md) | sase-tj hood | completed |
 | [sase-tj.10.2](../bbugyi200.athena.sase-tj.10.2/README.md) | sase-tj hood | active |

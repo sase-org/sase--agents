@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-dea8d8da8d866edae2eea815fe86c558"}
+{"commits":[{"committed_at":1787686502,"sha":"9b4f7d41a6d4de19454f1972d1e8f54391723205","subject":"feat(artifacts-agents): bind j/k navigation on the Agent pane and guard capability reachability"}],"schema_version":2,"source_run_id":"run-dea8d8da8d866edae2eea815fe86c558"}

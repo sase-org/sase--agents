@@ -34,4 +34,4 @@
 | [sase-tj.land](../../families/bbugyi200.athena.sase-tj.land.md) (family · 2) | sase-tj hood | failed 2 |
 | [sase-tj.land.w0](../bbugyi200.athena.sase-tj.land.w0/README.md) | sase-tj hood | dismissed |
 | [sase-tj.land.w1](../bbugyi200.athena.sase-tj.land.w1/README.md) | sase-tj hood | dismissed |
-| [sase-tj.land.w3](../bbugyi200.athena.sase-tj.land.w3/README.md) | sase-tj hood | active |
+| [sase-tj.land.w3](../../families/bbugyi200.athena.sase-tj.land.w3.md) (family · 2) | sase-tj hood | active 1, failed 1 |
