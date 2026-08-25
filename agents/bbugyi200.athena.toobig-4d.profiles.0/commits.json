@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1787680714,"sha":"c258d6bb68ae65007af31e31b409c4f3bd8d3b74","subject":"refactor(query_profile): split profiles.py into a per-pane package"}],"schema_version":2,"source_run_id":"run-34a6f365334af6a163f5715abf34ccef"}
