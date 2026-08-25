@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d47830dd7d3547e47c479e78c76f3f77"}
+{"commits":[{"committed_at":1787661239,"sha":"fab5f731eb32478b32edd4d91f39f2272e541207","subject":"feat(finalizers): refuse a stitch dispatch protection has already emptied"}],"schema_version":2,"source_run_id":"run-d47830dd7d3547e47c479e78c76f3f77"}
