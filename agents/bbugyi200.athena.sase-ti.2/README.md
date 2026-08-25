@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ti](../../users/bbugyi200/machines/athena/hoods/sase-ti/README.md) / sase-ti.2
 
-**Global name:** `bbugyi200.athena.sase-ti.2` · **State:** active · **Source run:** `run-468dabc7ca11ee53764765b531ba38d5`
+**Global name:** `bbugyi200.athena.sase-ti.2` · **State:** completed · **Source run:** `run-468dabc7ca11ee53764765b531ba38d5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ti
 
@@ -12,12 +12,12 @@
 - Epic: [sase-ti](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ti/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-25T12:12:15.451411+00:00
+- Timing: 2026-08-25T12:12:15.451411+00:00 → 2026-08-25T12:44:58.414557+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 

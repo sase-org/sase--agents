@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ti.1](../bbugyi200.athena.sase-ti.1/README.md) | sase-ti hood | completed |
-| [sase-ti.2](../bbugyi200.athena.sase-ti.2/README.md) | sase-ti hood | active |
+| [sase-ti.2](../bbugyi200.athena.sase-ti.2/README.md) | sase-ti hood | completed |
 | [sase-ti.3](../bbugyi200.athena.sase-ti.3/README.md) | sase-ti hood | completed |
 | [sase-ti.4](../bbugyi200.athena.sase-ti.4/README.md) | sase-ti hood | completed |
 | [sase-ti.5](../../families/bbugyi200.athena.sase-ti.5.md) (family · 7) | sase-ti hood | active 1, completed 3, failed 3 |
