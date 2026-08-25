@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-790e706647b3e5502de40ecb71ef909c"}
+{"commits":[{"committed_at":1787618233,"sha":"6c664e45281ec051761dc827d03e10183c1ad0af","subject":"test: split test_finalizer_declaration_channel.py into focused files"}],"schema_version":2,"source_run_id":"run-790e706647b3e5502de40ecb71ef909c"}

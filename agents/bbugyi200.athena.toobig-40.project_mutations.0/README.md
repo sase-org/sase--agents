@@ -27,8 +27,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-40.test\_agent\_marking.0](../bbugyi200.athena.toobig-40.test_agent_marking.0/README.md) | toobig-40 hood | active |
-| [toobig-40.test\_finalizer\_declaration\_channel.0](../bbugyi200.athena.toobig-40.test_finalizer_declaration_channel.0/README.md) | toobig-40 hood | waiting |
+| [toobig-40.test\_agent\_marking.0](../bbugyi200.athena.toobig-40.test_agent_marking.0/README.md) | toobig-40 hood | completed |
+| [toobig-40.test\_finalizer\_declaration\_channel.0](../bbugyi200.athena.toobig-40.test_finalizer_declaration_channel.0/README.md) | toobig-40 hood | active |
 | [toobig-40.test\_launch\_admission.0](../bbugyi200.athena.toobig-40.test_launch_admission.0/README.md) | toobig-40 hood | waiting |
 | [toobig-40.test\_models\_panel\_provider\_modal.0](../bbugyi200.athena.toobig-40.test_models_panel_provider_modal.0/README.md) | toobig-40 hood | waiting |
 | [toobig-40.test\_query\_profile.0](../bbugyi200.athena.toobig-40.test_query_profile.0/README.md) | toobig-40 hood | waiting |
