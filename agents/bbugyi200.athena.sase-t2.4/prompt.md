@@ -2,6 +2,5 @@
 %id(4, clan=sase-t2, bead=sase-t2.4)
 %model:@small
 %auto
-%w:sase-t2.2
 %w(bead=sase-t2.2)
 #bd/work_phase_bead:sase-t2.4
