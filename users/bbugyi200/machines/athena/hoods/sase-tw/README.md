@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-tw
 
-**Global hood:** `bbugyi200.athena.sase-tw` · **Runs:** 15 · **Families:** 0 · **States:** active 4, completed 7, waiting 4
+**Global hood:** `bbugyi200.athena.sase-tw` · **Runs:** 15 · **Families:** 0 · **States:** active 3, completed 8, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -11,7 +11,7 @@
 | [sase-tw.3](../../../../../../agents/bbugyi200.athena.sase-tw.3/README.md) | completed | sonnet / claude | 2026-08-25T20:09:35.488527+00:00 → 2026-08-25T21:23:07.045987+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-tw.3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-tw.3/chat.md) |
 | [sase-tw.4](../../../../../../agents/bbugyi200.athena.sase-tw.4/README.md) | active | gpt-5.5 / codex | 2026-08-25T20:13:13.280692+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-tw.4/prompt.md) |
 | [sase-tw.2](../../../../../../agents/bbugyi200.athena.sase-tw.2/README.md) | completed | gpt-5.5 / codex | 2026-08-25T20:14:25.117894+00:00 → 2026-08-25T21:20:02.593446+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-tw.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-tw.2/chat.md) |
-| [sase-tw.9](../../../../../../agents/bbugyi200.athena.sase-tw.9/README.md) | active | gpt-5.5 / codex | 2026-08-25T21:23:46.042343+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-tw.9/prompt.md) |
+| [sase-tw.9](../../../../../../agents/bbugyi200.athena.sase-tw.9/README.md) | completed | gpt-5.5 / codex | 2026-08-25T21:23:46.042343+00:00 → 2026-08-25T22:33:05.886817+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-tw.9/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-tw.9/chat.md) |
 | [sase-tw.6](../../../../../../agents/bbugyi200.athena.sase-tw.6/README.md) | completed | sonnet / claude | 2026-08-25T21:23:50.965768+00:00 → 2026-08-25T22:30:24.420777+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-tw.6/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-tw.6/chat.md) |
 | [sase-tw.14](../../../../../../agents/bbugyi200.athena.sase-tw.14/README.md) | waiting | gpt-5.5 / codex | 20260825153637 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-tw.14/prompt.md) |
 | [sase-tw.8](../../../../../../agents/bbugyi200.athena.sase-tw.8/README.md) | waiting | sonnet / claude | 20260825153636 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-tw.8/prompt.md) |
