@@ -23,8 +23,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-sq.8.1.1](../bbugyi200.athena.sase-sq.8.1.1/README.md) | descendant | active |
-| [sase-sq.8.1.2](../bbugyi200.athena.sase-sq.8.1.2/README.md) | descendant | waiting |
+| [sase-sq.8.1.1](../bbugyi200.athena.sase-sq.8.1.1/README.md) | descendant | completed |
+| [sase-sq.8.1.2](../bbugyi200.athena.sase-sq.8.1.2/README.md) | descendant | active |
 | [sase-sq.8.1.3](../bbugyi200.athena.sase-sq.8.1.3/README.md) | descendant | waiting |
 | [sase-sq.8.1.land](../bbugyi200.athena.sase-sq.8.1.land/README.md) | descendant | waiting |
 | [sase-sq.1](../../families/bbugyi200.athena.sase-sq.1.md) (family · 2) | sase-sq hood | completed 2 |

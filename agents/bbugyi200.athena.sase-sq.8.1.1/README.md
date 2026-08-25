@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-sq](../../users/bbugyi200/machines/athena/hoods/sase-sq/README.md) / sase-sq.8.1.1
 
-**Global name:** `bbugyi200.athena.sase-sq.8.1.1` · **State:** active · **Source run:** `run-50cefe9e095e479d41eafd1f567f9468`
+**Global name:** `bbugyi200.athena.sase-sq.8.1.1` · **State:** completed · **Source run:** `run-50cefe9e095e479d41eafd1f567f9468`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-sq
 
@@ -12,12 +12,12 @@
 - Epic: [sase-sq.8.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-sq/sase-sq.8.1.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-25T03:12:07.948039+00:00
+- Timing: 2026-08-25T03:12:07.948039+00:00 → 2026-08-25T03:57:49.482158+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -30,7 +30,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-sq.8](../../families/bbugyi200.athena.sase-sq.8.md) (family · 2) | ancestor | failed 2 |
-| [sase-sq.8.1.2](../bbugyi200.athena.sase-sq.8.1.2/README.md) | sase-sq.8.1 hood | waiting |
+| [sase-sq.8.1.2](../bbugyi200.athena.sase-sq.8.1.2/README.md) | sase-sq.8.1 hood | active |
 | [sase-sq.8.1.3](../bbugyi200.athena.sase-sq.8.1.3/README.md) | sase-sq.8.1 hood | waiting |
 | [sase-sq.8.1.land](../bbugyi200.athena.sase-sq.8.1.land/README.md) | sase-sq.8.1 hood | waiting |
 | [sase-sq.1](../../families/bbugyi200.athena.sase-sq.1.md) (family · 2) | sase-sq hood | completed 2 |
