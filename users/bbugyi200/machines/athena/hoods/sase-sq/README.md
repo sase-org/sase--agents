@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-sq
 
-**Global hood:** `bbugyi200.athena.sase-sq` · **Runs:** 31 · **Families:** 5 · **States:** active 2, completed 13, dismissed 3, failed 7, waiting 6
+**Global hood:** `bbugyi200.athena.sase-sq` · **Runs:** 31 · **Families:** 5 · **States:** active 2, completed 15, dismissed 3, failed 7, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -19,16 +19,16 @@
 | [sase-sq.5--3](../../../../../../families/bbugyi200.athena.sase-sq.5.md#member-3) | completed | sonnet / claude | 2026-08-24T21:34:07.578926+00:00 → 2026-08-24T22:00:13.105186+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-sq.5--3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.5--3/prompt.md) |
 | [sase-sq.7.1.3--plan](../../../../../../families/bbugyi200.athena.sase-sq.7.1.3.md#member-plan) | completed | sonnet / claude | 2026-08-24T23:23:19.476905+00:00 → 2026-08-24T23:54:36.834611+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.3--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.3--plan/prompt.md) |
 | [sase-sq.7.1.3--mon](../../../../../../families/bbugyi200.athena.sase-sq.7.1.3.md#member-mon) | failed | sonnet / claude | 2026-08-24T23:54:25.998422+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.3--mon/chat.md) |
-| [sase-sq.7.1.3--2](../../../../../../families/bbugyi200.athena.sase-sq.7.1.3.md#member-2) | active | sonnet / claude | 2026-08-25T00:18:35.249801+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.3--2/prompt.md) |
+| [sase-sq.7.1.3--2](../../../../../../families/bbugyi200.athena.sase-sq.7.1.3.md#member-2) | completed | sonnet / claude | 2026-08-25T00:18:35.249801+00:00 → 2026-08-25T00:23:44.475083+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.3--2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.3--2/prompt.md) |
 | [sase-sq.1--code](../../../../../../families/bbugyi200.athena.sase-sq.1.md#member-code) | completed | gpt-5.5 / codex | 2026-08-24T14:49:12.154544+00:00 → 2026-08-24T16:51:10.892760+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-sq.1--code/chat.md) |
 | [sase-sq.5--mon-0](../../../../../../families/bbugyi200.athena.sase-sq.5.md#member-mon-0) | failed | sonnet / claude | 2026-08-24T21:10:40.069567+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-sq.5--mon-0/chat.md) |
 | [sase-sq.6](../../../../../../agents/bbugyi200.athena.sase-sq.6/README.md) | completed | sonnet / claude | 2026-08-24T22:00:57.142568+00:00 → 2026-08-24T23:06:35.765356+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-sq.6/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.6/prompt.md) |
 | [sase-sq.7.1.2.f0](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.2.f0/README.md) | dismissed | — | 2026-08-24T18:35:02 | 0 | — |
 | [sase-sq.2--plan](../../../../../../families/bbugyi200.athena.sase-sq.2.md#member-plan) | dismissed | — | 2026-08-24T10:34:22 | 0 | — |
 | [sase-sq.5--mon-1](../../../../../../families/bbugyi200.athena.sase-sq.5.md#member-mon-1) | failed | sonnet / claude | 2026-08-24T21:23:50.147303+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-sq.5--mon-1/chat.md) |
-| [sase-sq.7.1.5](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.5/README.md) | waiting | sonnet / claude | 20260824181641 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.5/prompt.md) |
+| [sase-sq.7.1.5](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.5/README.md) | completed | sonnet / claude | 2026-08-25T00:24:46.060234+00:00 → 2026-08-25T01:02:06.622186+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.5/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.5/prompt.md) |
 | [sase-sq.5--1](../../../../../../families/bbugyi200.athena.sase-sq.5.md#member-1) | completed | sonnet / claude | 2026-08-24T20:53:48.033811+00:00 → 2026-08-24T21:10:48.957787+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-sq.5--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.5--1/prompt.md) |
-| [sase-sq.7.1.4](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.4/README.md) | waiting | gpt-5.5 / codex | 20260824181640 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.4/prompt.md) |
+| [sase-sq.7.1.4](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.4/README.md) | active | gpt-5.5 / codex | 2026-08-25T00:24:50.502182+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.4/prompt.md) |
 | [sase-sq.7.1.land](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.land/README.md) | waiting | opus / claude | 20260824181643 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.7.1.land/prompt.md) |
 | [sase-sq.land](../../../../../../agents/bbugyi200.athena.sase-sq.land/README.md) | waiting | opus / claude | 20260824103429 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.land/prompt.md) |
 | [sase-sq.7--plan](../../../../../../families/bbugyi200.athena.sase-sq.7.md#member-plan) | failed | opus / claude | 2026-08-24T22:01:06.396170+00:00 → 2026-08-24T22:14:06.929199+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-sq.7--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-sq.7--plan/prompt.md) |

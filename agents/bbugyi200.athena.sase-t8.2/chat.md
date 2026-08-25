@@ -1,0 +1,354 @@
+# Chat History - ace-run (sase-t8.2)
+
+- **TIMESTAMP:** 2026-08-24 20:27:38 EDT
+- **MODEL:** codex/gpt-5.5
+- **AGENT:** sase-t8.2
+
+## Prompt
+
+#gh:gh_sase-org__sase
+%id(2, clan=sase-t8, bead=sase-t8.2)
+%model:@medium
+%auto
+%w:sase-t8.1
+%w(bead=sase-t8.1)
+Can you complete the work for bead sase-t8.2? The bead is already reserved for you and assigned to your agent
+name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
+checkpoint or by the runtime promoting an ad-hoc wait-time claim. Do not set the status by hand. Read its
+description and design file, do the work, and close only this bead with
+`sase bead close sase-t8.2 --note "<what you verified>"`. Before closing, run
+`sase bead epic-symbols sase-t8.2`. If this phase still has `--epic-symbol` entries, resolve each symbol or
+re-key the Justfile line to a still-open bead (the parent epic or a later phase). `sase bead close` refuses while
+leftovers remain; they go stale the instant this phase closes and turn unrelated agents' `just check` red. Closing
+an assigned phase bead is unaffected by the parent-close descendant guard. Do NOT close the parent epic or any ancestor plan bead. Any instruction in a phase
+description or child plan to close an ancestor is preparation and evidence for that ancestor's land agent, not
+authorization for a phase worker. Do not create beads yourself: record discovered follow-up work as a
+`PROPOSED FOLLOW-UP:` entry via
+`sase bead note sase-t8.2 'PROPOSED FOLLOW-UP: <one-line summary — detail>'`; the epic's land agent triages
+these into task beads.
+
+## Response
+
+I’ll use the SASE bead/memory workflow first so the closeout and any notes follow the project rules, then I’ll inspect `sase-t8.2` and its design before editing.
+
+I’m reading the bead reference memory now because this turn needs bead inspection, notes, and closure. After that I’ll pull the phase description and follow its design file.
+
+The bead rules confirm phase workers should only close their own phase and record follow-ups as `PROPOSED FOLLOW-UP:` notes. I’m checking the bead metadata, current tree state, and plan references next.
+
+The phase is scoped to shell-aware implicit fork waits, with a dependency already closed. There’s also a launch-boundary note I need to preserve around deferred workspace admission when a fork wait disappears because the source is already terminal.
+
+I found the parent plan at `sase/repos/plans/202608/fork_every_shell.md`. I’m reading that now and then I’ll trace the existing fork source and wait-dependency code before making a narrow change.
+
+The plan path reported by the bead store is not present at the first literal location, so I’m resolving the plans checkout layout instead of guessing. The implementation code already shows the old path only appends agent names from `#fork`; this phase will need to generalize that to typed fork dependencies.
+
+The first path probe was too broad and missed the exact file among many plans. I’ll search for the specific plan basename and the fork helper definitions directly.
+
+The local plans mirror does not currently contain `fork_every_shell.md`. I’ll use the bead’s embedded phase description plus the parent plan metadata, and I’m searching the repo for the exact helper exports and tests that define the current behavior.
+
+The parent design file appears absent from the local plans directory rather than just misplaced. I’ll continue from the bead’s description and parent notes, but I’m checking whether the plans area is stale before I make edits.
+
+Current `fork_parent_wait_is_unreachable()` only handles a terminal single agent and deliberately leaves families/clans live. The requested phase is to bind the exact fork source and let terminal family, clan, or proc sources release the implicit wait too.
+
+The parent plan file still is not present and the plans checkout is behind origin, but I’m avoiding repository synchronization because this phase can be implemented from the bead’s stored description and the existing tests. I’ll mention that gap in the closeout note.
+
+The wait index already tracks richer candidates: named agents, families, clans, tribes, artifact identities, and monitor follow-up state. I’m going to reuse that instead of adding a parallel resolver.
+
+The wait resolver already can report failed aggregate candidates but `#fork` waits are still reduced to plain names before entering it. I’m tracing the `#fork` history resolver so the implicit wait can use the same resolved source identity.
+
+`#fork` history resolution already emits typed source objects, so I’ll inspect the xprompt workflow and its helper script before introducing wait-dependency metadata.
+
+The typed history resolver is the right source of truth for what `#fork:<target>` means: it resolves exact agents first, then standalone proc shells, and it handles families/clans as aggregates. I’m checking the launch-admission wait model because proc waits may already have a wire shape I can reuse.
+
+There are two wait systems: launch admission has typed waits including proc waits, while the runner’s `waiting.json` still carries name/artifact/bead lists. This phase is about the runner’s implicit `#fork` wait, so I’m adding a small typed fork dependency layer where the runner writes and resolves `#fork` source identities.
+
+I’m going to extend metadata and `waiting.json` with a `wait_for_fork_sources` list while keeping legacy `wait_for` names for display and existing wait behavior. The new list will carry exact source kind/identity so terminal failed aggregates and proc shells can unblock conservatively.
+
+One important nuance: explicit `%wait` still has success-only semantics. I’m keeping that unchanged; only the wait implied by `#fork` should release on terminal failure because the fork history can pass the failed parent as context.
+
+The runner deliberately expands `#fork` only after the dependency barrier, before runner slot admission and real workspace preparation. That means the wait logic must be terminal-aware before `expand_deferred_launch_xprompts()` runs.
+
+Before editing I’m also checking the phase’s epic-symbol obligations so I know which provisional Justfile markers must be resolved or moved before closeout.
+
+I’ve got the shape now. I’ll make the scoped changes in the runner directive metadata, wait marker writer, wait resolver, and tests that cover directive extraction plus wait-check/fallback behavior.
+
+I’m about to edit. The key invariant is: a `#fork` dependency blocks while its bound source is live, and releases once that same source is successful or failed; ordinary `%wait` dependencies still require success.
+
+The edit will add one new helper module for deriving fork wait identities, then wire that through the existing runner metadata and wait-check paths. After that I’ll add focused regressions for proc, family, clan, and explicit `%wait` precedence.
+
+The tests use a shared `AgentInfo` fixture, so adding a field means updating that fixture too. I’m checking those call sites before patching so the constructor changes stay mechanical.
+
+I’m applying the code changes now. They’re additive on the marker schema, so older wait markers without the new key continue to resolve through the existing path.
+
+The first patch hit a context mismatch in the wait index file, so I’m splitting it into smaller patches with exact local context. No repository files were changed by that failed patch.
+
+I’ve confirmed the failed patch left the tree untouched. I’ll now apply the same change in smaller chunks.
+
+The directive extraction now records which wait names came from `#fork` and derives typed source identities for them after name normalization. I’m wiring that through the persisted metadata and wait marker next.
+
+The runner now carries the new fork-source list into `waiting.json`; I’m adding resolver support in both the inline fallback and the wait-check chop.
+
+The top-level dependency status now skips normal success-only name resolution for names that are covered by fork-source metadata. I’m adding the fork-source resolver on the wait index now.
+
+The production wiring is in place. I’m scanning constructor call sites and then I’ll add/update regressions so the new metadata field is covered instead of silently defaulting.
+
+There is one direct `AgentMetadataInputs` construction in tests; I’m adding the new empty field there so the fixture keeps matching production.
+
+I’m adding tests at two layers: directive extraction proves the typed metadata is emitted only for implicit fork waits, and wait-dependency tests prove terminal failed agents/families/clans/procs release only those implicit waits.
+
+I’m writing focused assertions in the existing directive extraction test file so the new field’s behavior is documented alongside the legacy `wait_for` expectations.
+
+That test patch also hit drift in the exact assertion block. I’m applying it in smaller sections around the current file contents.
+
+The current assertions are a little simpler than the patch expected. I’ll add the helper/import first, then insert the new assertions and test cases into that class.
+
+I’ll make those assertion insertions one block at a time to avoid matching the wrong repeated `wait_for` assertions.
+
+I’m adding the metadata assertions now at the exact lines from the current file.
+
+I’m adding the new proc/family/clan extraction cases after the duplicate wait test, since that keeps all implicit fork wait behavior together.
+
+I’m adding resolver-level tests for failed agents, exact-name binding, failed family generation, terminal clan generation, and proc shell status. These exercise the same helper used by both the runner fallback and the wait-check chop.
+
+The resolver tests are in place. I’m adding one chop-level regression so `sase_chop_wait_checks` proves it reads `wait_for_fork_sources` from `waiting.json`.
+
+The tests are added. Per project instructions I’m refreshing the editable install before running targeted tests, since this workspace may be stale.
+
+`just install` is still building the local Rust/Python editable install. I’m waiting for it to finish before running the targeted Python tests.
+
+The install is still in the Rust compile step. No failures so far; I’ll continue once it exits.
+
+The install is still running without new output, likely linking/building the extension. I’m keeping the session open until it completes. 
+
+
+Still waiting on `just install`; it has not produced more output yet. I’ll let it finish rather than interrupting the required setup.
+
+`just install` is taking a while in the build/link phase. I’m going to wait a bit longer and then proceed with the targeted test lane once the shell returns.
+
+The build has moved to the Python extension crate, so it’s still making progress. Next step is targeted pytest once this exits.
+
+The install is still running quietly. I’ll keep polling until it returns so we don’t leave the environment half-set up.
+
+No new output yet from the extension build. It’s still the active command; I’ll wait for completion before moving on. 
+
+
+`just install` is still in progress after several minutes. I’m not starting any parallel verification while the editable install owns the build environment.
+
+Still waiting on the same build process. If it finishes cleanly, I’ll immediately run the focused tests for the changed files.
+
+The editable Python extension finished; `just install` is now building the companion LSP binary from the same core checkout. I’ll continue after that final build step.
+
+The LSP crate is compiling now. This should be the last substantial part of `just install`.
+
+Still waiting on the LSP build. I’ll keep the same install session running until it exits.
+
+No new output from the build yet. I’m still waiting on `just install`; no verification has started.
+
+The install session remains active in the LSP build. I’ll let it complete and then run the targeted tests.
+
+`just install` completed. I’m running the focused pytest set covering directive extraction, runner wait fallback, wait-check chop parsing, and the existing failed-fork admission regressions.
+
+I’m picking up from the current workspace state: first I’ll verify the focused test lane around the new fork-wait behavior, then I’ll run the project check gate and handle any failures before closing `sase-t8.2`.
+
+The worktree has the expected code and test edits, and the bead currently has no `--epic-symbol` entries. I’m going to run the focused tests quietly now so failures, if any, are readable.
+
+The focused tests pass: 86 tests around directive extraction, wait resolution, chop checks, and deferred workspace admission. I’m doing a quick diff/style pass before the repo gate, because the next failure mode is usually formatting or type drift.
+
+The diff is scoped to the wait path and tests, with no whitespace issues. I’m going to run the formatter now so the final check is testing the canonical layout.
+
+`just fmt` is rebuilding the linked Rust extension because the linked `sase-core` checkout moved during setup. I’ll let that finish, then rerun the focused tests if formatting touched anything and continue to `just check`.
+
+The formatter is still inside the extension rebuild. There’s no new diagnostic output yet, so I’m just waiting for the build step to return rather than interrupting it.
+
+The Rust build has moved from the core crate to the Python binding crate, so progress is still normal. After this completes, I’ll check whether any formatter edits landed before running the verification gate.
+
+There’s still no failure output from `just fmt`; it remains in the build phase. I’m continuing to wait because killing it now would leave the environment half-updated.
+
+`just fmt` is taking longer than usual because the local extension rebuild is still active. I’ll keep polling it; if it finishes cleanly, the next step is still the required `just check`.
+
+The Python binding is rebuilt and installed now; the formatter setup is compiling the matching xprompt LSP binary. That’s the last setup piece before the actual Python formatting commands.
+
+No new diagnostics from the LSP build yet. I’m continuing to wait for the command to finish instead of starting parallel verification against a moving environment.
+
+The setup portion is still running and quiet. Once it returns I’ll inspect exactly what changed, since setup fast-forwarded the linked core checkout before the formatter ran.
+
+Formatting completed; ruff reformatted four Python files and passed its fix pass. I’m rerunning the focused tests now because the formatter changed code, then I’ll run the required `just check`.
+
+The focused tests still pass after formatting. I’m starting `just check` now; this is the required repo gate for file changes in this project.
+
+`just check` has cleared formatting, keep-sorted, and ruff so far. It is still running the remaining gates.
+
+Mypy also passed. The check command is now past the expensive static gates and continuing into repository-specific validation and scoped tests.
+
+The feature flag and Python script lint gates passed too. I’m waiting on the later gates and the diff-scoped test selection now.
+
+More lint gates are green, including test-wait checks and terminology. No failures have appeared yet.
+
+Symvision and the size gate passed. The check is still running; I’ll keep it inline unless it stalls long enough to justify handing it to a monitor.
+
+`just check` failed only at SASE validation: `init memory --check` says `sase/memory/README.md` is out of sync. The code gates that ran before it passed, and I’m going to run the diff-scoped tests directly now since the check recipe stopped before it reached them.
+
+`just test-scoped` escalated to the governed full test lane because the diff touches core wait identity behavior. I’m letting it run; this gives better coverage for this change than the narrow focused test set.
+
+The escalated suite is running with 14 workers and has reached about 18%. I’ll keep polling; if a failure appears I’ll stop and address it before closeout.
+
+The full lane has a few failures around 21%, and the runner is continuing to collect the rest. I’m waiting for the final failure report so I can distinguish real regressions from pre-existing or flaky cases.
+
+More failures appeared later in the suite, so I won’t treat this as green yet. I need the final traceback list before making any code changes or deciding what’s unrelated.
+
+The full lane is near halfway through. I’m continuing to collect the complete failure set; acting on partial `F` markers would be guesswork.
+
+The lane is past 56% with the same accumulated failures. I’m waiting for the final report rather than starting a second run in parallel.
+
+Still running; it’s now above 62%. I have enough confidence in the narrow path, but the full lane failure details are needed before I close the phase.
+
+The test lane is roughly two-thirds complete and still has only the earlier failure markers. I’ll keep it running to completion and use the report to decide the next edit.
+
+The suite is over 77%. No new categories are visible yet, but final traceback grouping is what matters here.
+
+Now at 85%. I’ll wait through the tail and then either fix the reported failures or record them as unrelated if the traces prove that.
+
+The full lane is close to the end, around 89%. I’m holding off on any bead close action until the failures are fully identified.
+
+Additional failures appeared near 92%, so this is no longer just the early cluster. I need the failure names and traces before deciding whether this implementation is involved.
+
+The run is at the final few percent and has one more failure marker. I’m waiting for teardown and the grouped failure output now.
+
+The test execution reached 100%; pytest is now producing summaries and failure details. I’m waiting for that final output before touching the code.
+
+The workers have finished; pytest is still in final collection/teardown with no output yet. I’ll continue polling for the report.
+
+No final report yet; this looks like slow pytest teardown rather than active test execution. I’m keeping the session alive so we can capture the actual failure list.
+
+The full lane exposed four real failures from this change: a runner wait-queue test helper still builds `AgentInfo` without `wait_fork_sources`. The other failures are project-state golden/memory drift checks; I’ll fix the helper first and rerun the affected tests.
+
+I’m editing the stale test fixture now by adding an empty `wait_fork_sources` field, matching the new `AgentInfo` shape for ordinary identity waits.
+
+The fixture is updated. I’m rerunning the wait-queue tests that failed in the escalated lane.
+
+The corrected wait-queue tests pass. I’m rerunning `just check` after that last edit; I expect the same unrelated memory README validation failure unless the workspace state changed.
+
+The rerun has already passed formatting, keep-sorted, ruff, and mypy. I’m waiting through the remaining gates to capture the final status cleanly.
+
+Feature flag and script lint passed again. The check is continuing toward the validation step.
+
+The later lint gates are green again, including test-wait lint. I’m waiting for validation, which is where the earlier unrelated failure occurred.
+
+Symvision and size checks passed again. This run is now at the same point that previously entered SASE validation.
+
+The second `just check` rerun failed at the same unrelated `init memory --check` drift after all earlier lint gates passed. I’m going to run the complete set of directly touched test files once more so the bead close note is precise.
+
+All directly touched test files pass now: 100 tests. I’m checking the final diff and worktree state before recording the unrelated validation drift and closing the bead.
+
+The diff is clean and still limited to fork-wait plumbing plus tests. I’m reviewing the key source changes once more for edge cases before the bead close command.
+
+The source review found one edge case worth tightening: if an explicit `%wait` and an implicit `#fork` normalize to the same name, the explicit wait should stay success-only. I’m adjusting the fork-source capture to skip those normalized duplicates.
+
+The call-site search confirms the public resolution API keeps a default for callers that do not know about fork sources, and the only stale mock has been fixed. I’m adding the normalized-duplicate test while tightening extraction.
+
+The extraction change is in place. I’m opening the implicit-fork test block and adding a case for explicit waits that only duplicate after owner-name normalization.
+
+The existing duplicate test covers exact text duplicates. I’m adding the normalized variant next to it, using the same local-home isolation as the rest of this block.
+
+I’m going to dedupe the normalized wait list while preserving order. That matches the existing directive comment more closely and prevents a normalized fork target from writing a second copy of an explicit wait.
+
+The extraction code now preserves first occurrence order while removing normalized duplicates. I’m adding a regression test for that exact case.
+
+The new test is in. I’m running the extraction test file first, then I’ll rerun the combined touched-test set.
+
+The extraction tests pass with the normalized duplicate regression included. I’m rerunning the full touched-test set now.
+
+The touched-test set is green: 101 tests. Because I made one more source edit after the previous gate run, I’m running `just check` one final time to capture the current lint/validation status.
+
+The final `just check` rerun has passed Python and Markdown formatting, keep-sorted, ruff, and mypy. I’m waiting through the remaining gates.
+
+Feature flag and script lint are green again. The command is still headed toward SASE validation.
+
+The test-wait lint and related static checks passed. I’m continuing to the final validation result.
+
+Symvision and size checks are green. The validation step should report next; I expect it to hit the same memory README drift.
+
+The final `just check` failed exactly at the unrelated memory README drift; all preceding lint gates passed. I’m recording that as a proposed follow-up on `sase-t8.2`, per the phase instruction, then I’ll run the required epic-symbol check immediately before closing.
+
+The proposed follow-up note was added. I’m running `sase bead epic-symbols sase-t8.2` now as the required pre-close guard.
+
+The pre-close symbol guard is clean: no `--epic-symbol` entries remain. I’m closing only `sase-t8.2` with the verification note now.
+
+` s ase-t8.2` is closed. I’m doing one final status read, then I’ll submit the required SASE final declaration and return the concise summary.
+
+` s ase bead show` now resolves the parent epic plan under the project plan store, so I’m reading that design file once before the final declaration to verify the implementation still matches the documented phase intent.
+
+The design file confirms one thing I need to align before finalizing: Phase 2 explicitly says to remove the old `fork_parent_wait_is_unreachable()` shortcut once typed terminal-aware dependencies exist. I’m going to adjust that now so already-terminal fork parents still get typed metadata and resolve immediately through the shared predicate.
+
+The old shortcut is still imported and used in extraction, and a couple of comments/tests describe the old suppression path. I’m removing the import/use and updating the affected expectations to typed, immediately-resolved fork metadata.
+
+The regression tests currently assert the old behavior by name, so I’m updating them to assert the new contract: preflight still defers, extraction records a typed fork dependency, and the wait predicate resolves it immediately when the parent is terminal.
+
+I’m removing the extraction-time skip first, then I’ll update the admission tests so they exercise the typed dependency instead of the old “no extracted wait” shape.
+
+The skip is gone from directive extraction. I’m updating the bootstrap comment so it describes the remaining invariant without tying it to the removed helper.
+
+Next I’m updating the extraction regression for an already-failed fork parent: it should now keep the implicit wait metadata, plus the exact artifact identity for terminal-aware release.
+
+I’m updating the failed-parent admission tests to prove the new metadata resolves immediately and the runner still claims a real deferred workspace after the wait barrier.
+
+Those assertions now cover the terminal-aware path directly. I’m updating the separate deferred-workspace regression comment so it remains a compatibility invariant, not tied to the removed fork shortcut.
+
+The compatibility regression now describes the generic deferred/no-wait invariant. I’m checking whether the old helper is now fully unused so I can remove it cleanly instead of leaving dead API surface behind.
+
+The helper is now only re-exported and no longer called. I’m removing the dead helper and exports so the old failure-suppression path is actually gone.
+
+The helper body is removed. I’m removing its compatibility exports next so imports fail loudly if any stale caller is reintroduced.
+
+The lookup shim export is cleaned up. I’m removing the top-level package export as well.
+
+The top-level export block has slightly different ordering than the lookup shim, so I’m opening the exact section before patching it.
+
+I found the exact import and `__all__` entries. I’m removing those two lines now.
+
+The removed helper may have left stale imports behind, so I’m checking that module before running tests.
+
+`FAILURE_OUTCOMES` is now stale in the lookup-resolution module, so I’m removing that import.
+
+The stale import is gone. I’m checking the fixture path helper before running the failed-parent tests so the new artifact-identity assertion matches the actual layout.
+
+The helper writes under `.sase/projects/.../artifacts/ace-run/...`, so I’m updating the assertion to use the returned artifact path directly.
+
+The immediate-resolution assertion needs the same local-home isolation as extraction, so I’m keeping it inside the `Path.home` patch.
+
+The test isolation is fixed. I’m running the old failed-parent regression file and the extraction tests now, since those changed semantics most directly.
+
+The semantic tests pass after removing the old skip. I’m checking for any remaining references to the deleted helper before the full touched-test rerun.
+
+There are no remaining references to the removed helper. I’m rerunning the full touched-test set.
+
+The touched-test set is still green after aligning with the design file. I’m running `just check` again for the final code state.
+
+The final check has passed formatting, keep-sorted, and ruff so far. I’m waiting on mypy and the remaining gates.
+
+Mypy passed. The command is moving through the remaining static validation gates now.
+
+Feature flags, scripts, test waits, changelog, and terminology checks are green. I’m waiting for the final validation result.
+
+Symvision and the size gate passed as well. The only remaining known blocker is the memory README validation drift.
+
+`just check` still fails only at the unrelated generated memory README drift after every earlier gate passes. Since I made design-alignment edits after the close command, I’m adding a final note to the same closed bead with the updated verification rather than touching any ancestor.
+
+The symbol guard is still clean after the design-alignment edits. I’m appending the final verification note to `sase-t8.2`.
+
+The closed bead now has an updated note covering the post-close design alignment. I’m doing one last read-only status/diff check, then I’ll submit the SASE final declaration.
+
+I’ve finished the read-only status check. I’m now switching to the required SASE finalizer flow; after the final submit I won’t make further repo or bead changes in this turn.
+
+The finalizer instructions are loaded. I’m getting the host final context and will submit the commit declaration it asks for.
+
+The host requires one commit declaration for the main repo. I’m submitting that manifest now with a Conventional Commit message for the shell-aware fork wait work.
+
+Completed and closed `sase-t8.2`.
+
+Implemented shell-aware implicit `#fork` waits by adding typed fork-source dependency metadata for agents, families, clans, and procs; threaded it through runner metadata, `agent_meta.json`, `waiting.json`, direct fallback resolution, and `sase_chop_wait_checks.py`. Removed the old `fork_parent_wait_is_unreachable()` shortcut so already-terminal fork parents now resolve through the shared terminal-aware predicate.
+
+Verification:
+- `sase bead epic-symbols sase-t8.2`: no entries.
+- Touched test set: `101 passed`.
+- `just check`: all lint/static gates passed through `symvision`/`toobig`, then failed on unrelated `init memory --check` drift for `sase/memory/README.md` (`+2 -2`). I recorded that as a `PROPOSED FOLLOW-UP` note on the bead.
+- Final declaration accepted for commit.
