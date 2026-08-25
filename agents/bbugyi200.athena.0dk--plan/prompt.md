@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `builtin@feature` task bead type should NOT be disabled for projects by default (see the sase/sase.yml file for context). Can you help me fix this? #plan #m_opus

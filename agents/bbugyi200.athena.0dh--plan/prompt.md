@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase We recently added support to agent clans for showing the lowest runtime associated with a running agent node on that clan node (to the left of the clan's total runtime). This mostly worked, but there is a bug when the lowest runtime is associated with an agent family in that agent clan. Namely, we should only consider runtimes of agent nodes, NOT agent shell nodes that live inside of one of the agent families in the clan. In other words, it is the agent family's total runtime that should be shown, NOT the runtime of its currently running shell member. Can you help me fix this?
+
+#plan
