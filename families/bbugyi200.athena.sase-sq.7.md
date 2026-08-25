@@ -28,7 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-sq.7.1.2](../agents/bbugyi200.athena.sase-sq.7.1.2/README.md) | descendant | completed |
 | [sase-sq.7.1.2.f0](../agents/bbugyi200.athena.sase-sq.7.1.2.f0/README.md) | descendant | dismissed |
 | [sase-sq.7.1.2.f0.f0](../agents/bbugyi200.athena.sase-sq.7.1.2.f0.f0/README.md) | descendant | dismissed |
-| [sase-sq.7.1.3](../agents/bbugyi200.athena.sase-sq.7.1.3/README.md) | descendant | active |
+| [sase-sq.7.1.3](bbugyi200.athena.sase-sq.7.1.3.md) (family · 5) | descendant | active 1, completed 2, failed 2 |
 | [sase-sq.7.1.4](../agents/bbugyi200.athena.sase-sq.7.1.4/README.md) | descendant | waiting |
 | [sase-sq.7.1.5](../agents/bbugyi200.athena.sase-sq.7.1.5/README.md) | descendant | waiting |
 | [sase-sq.7.1.6](../agents/bbugyi200.athena.sase-sq.7.1.6/README.md) | descendant | waiting |
