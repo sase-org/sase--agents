@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1d155d0328aba95391e5a6cbc2d70c1f"}
+{"commits":[{"committed_at":1787700787,"sha":"960694738960861c480229edcbd7087767d6f827","subject":"feat(artifact-links): derive links from commits and backfill existing artifacts"}],"schema_version":2,"source_run_id":"run-1d155d0328aba95391e5a6cbc2d70c1f"}

@@ -13,18 +13,24 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-25T23:00:52.632708+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9606947`](https://github.com/sase-org/sase/commit/960694738960861c480229edcbd7087767d6f827) | feat(artifact-links): derive links from commits and backfill existing artifacts | 2026-08-25 19:33:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-tw.1](../bbugyi200.athena.sase-tw.1/README.md) | sase-tw hood | completed |
-| [sase-tw.10](../bbugyi200.athena.sase-tw.10/README.md) | sase-tw hood | active |
+| [sase-tw.10](../bbugyi200.athena.sase-tw.10/README.md) | sase-tw hood | completed |
 | [sase-tw.11](../bbugyi200.athena.sase-tw.11/README.md) | sase-tw hood | completed |
 | [sase-tw.12](../bbugyi200.athena.sase-tw.12/README.md) | sase-tw hood | completed |
 | [sase-tw.13](../bbugyi200.athena.sase-tw.13/README.md) | sase-tw hood | completed |

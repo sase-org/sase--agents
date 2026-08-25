@@ -1586,7 +1586,7 @@
 | [sase-tn](hoods/sase-tn/README.md) | 3 | 0 | active 1, waiting 2 |
 | [sase-to](hoods/sase-to/README.md) | 6 | 1 | active 2, completed 4 |
 | [sase-tt](hoods/sase-tt/README.md) | 13 | 1 | active 1, completed 10, failed 2 |
-| [sase-tw](hoods/sase-tw/README.md) | 15 | 0 | active 2, completed 9, dismissed 1, waiting 3 |
+| [sase-tw](hoods/sase-tw/README.md) | 15 | 0 | active 1, completed 10, dismissed 1, waiting 3 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-0q](hoods/sase_fix_just-0q/README.md) | 1 | 0 | active 1 |
