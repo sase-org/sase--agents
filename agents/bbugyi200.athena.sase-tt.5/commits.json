@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f6d75250852b94e9f4c56d1b713fa21b"}
+{"commits":[{"committed_at":1787691327,"sha":"e394b9d9c062ee9b4e226442b201b0c598042890","subject":"perf(query): reduce artifact row marshalling"}],"schema_version":2,"source_run_id":"run-f6d75250852b94e9f4c56d1b713fa21b"}

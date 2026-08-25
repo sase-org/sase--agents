@@ -42,8 +42,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-tt.1](../agents/bbugyi200.athena.sase-tt.1/README.md) | sase-tt hood | completed |
 | [sase-tt.3](../agents/bbugyi200.athena.sase-tt.3/README.md) | sase-tt hood | completed |
 | [sase-tt.4](../agents/bbugyi200.athena.sase-tt.4/README.md) | sase-tt hood | completed |
-| [sase-tt.5](../agents/bbugyi200.athena.sase-tt.5/README.md) | sase-tt hood | active |
+| [sase-tt.5](../agents/bbugyi200.athena.sase-tt.5/README.md) | sase-tt hood | completed |
 | [sase-tt.6](../agents/bbugyi200.athena.sase-tt.6/README.md) | sase-tt hood | completed |
 | [sase-tt.7](../agents/bbugyi200.athena.sase-tt.7/README.md) | sase-tt hood | completed |
-| [sase-tt.8](../agents/bbugyi200.athena.sase-tt.8/README.md) | sase-tt hood | waiting |
-| [sase-tt.land](../agents/bbugyi200.athena.sase-tt.land/README.md) | sase-tt hood | waiting |
+| [sase-tt.8](../agents/bbugyi200.athena.sase-tt.8/README.md) | sase-tt hood | completed |
+| [sase-tt.land](../agents/bbugyi200.athena.sase-tt.land/README.md) | sase-tt hood | active |
