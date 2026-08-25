@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1787616985,"sha":"37c8e303a0b20b140ba7f3a963babd1cc2f59295","subject":"refactor(bead): split _project_mutations.py into per-concern submixins"}],"schema_version":2,"source_run_id":"run-f0015900dae5537fc67c21694104715b"}
