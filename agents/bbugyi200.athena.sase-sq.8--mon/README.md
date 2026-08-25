@@ -25,8 +25,8 @@
 |---|---|---|
 | [sase-sq.8.1.1](../bbugyi200.athena.sase-sq.8.1.1/README.md) | descendant | completed |
 | [sase-sq.8.1.2](../bbugyi200.athena.sase-sq.8.1.2/README.md) | descendant | completed |
-| [sase-sq.8.1.3](../bbugyi200.athena.sase-sq.8.1.3/README.md) | descendant | active |
-| [sase-sq.8.1.land](../bbugyi200.athena.sase-sq.8.1.land/README.md) | descendant | waiting |
+| [sase-sq.8.1.3](../bbugyi200.athena.sase-sq.8.1.3/README.md) | descendant | completed |
+| [sase-sq.8.1.land](../bbugyi200.athena.sase-sq.8.1.land/README.md) | descendant | completed |
 | [sase-sq.1](../../families/bbugyi200.athena.sase-sq.1.md) (family · 2) | sase-sq hood | completed 2 |
 | [sase-sq.2](../../families/bbugyi200.athena.sase-sq.2.md) (family · 2) | sase-sq hood | active 1, dismissed 1 |
 | [sase-sq.3](../bbugyi200.athena.sase-sq.3/README.md) | sase-sq hood | completed |
@@ -43,4 +43,4 @@
 | [sase-sq.7.1.5](../bbugyi200.athena.sase-sq.7.1.5/README.md) | sase-sq hood | completed |
 | [sase-sq.7.1.6](../../families/bbugyi200.athena.sase-sq.7.1.6.md) (family · 7) | sase-sq hood | completed 4, failed 3 |
 | [sase-sq.7.1.land](../bbugyi200.athena.sase-sq.7.1.land/README.md) | sase-sq hood | completed |
-| [sase-sq.land](../bbugyi200.athena.sase-sq.land/README.md) | sase-sq hood | waiting |
+| [sase-sq.land](../../families/bbugyi200.athena.sase-sq.land.md) (family · 3) | sase-sq hood | active 1, completed 1, failed 1 |
