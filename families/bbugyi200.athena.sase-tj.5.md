@@ -1,0 +1,39 @@
+# Family: sase-tj.5
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-tj](../users/bbugyi200/machines/athena/hoods/sase-tj/README.md) / sase-tj.5
+
+Owner: `bbugyi200.athena` · Hood: `sase-tj` · Members: 2 · Bead: [sase-tj.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-tj/sase-tj.5.md)
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["sase-tj.5--mon [active]"]
+  n1["sase-tj.5--plan [completed]"]
+  n0 --> n1
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-mon"></a>mon | sase-tj.5--mon | active | gpt-5.5 / codex | 2026-08-25T15:38:33.020942+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-tj.5--plan | completed | gpt-5.5 / codex | 2026-08-25T14:54:26.019626+00:00 → 2026-08-25T15:38:48.382424+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-tj.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-tj.5--plan/chat.md) |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-tj.1](../agents/bbugyi200.athena.sase-tj.1/README.md) | sase-tj hood | completed |
+| [sase-tj.2](../agents/bbugyi200.athena.sase-tj.2/README.md) | sase-tj hood | dismissed |
+| [sase-tj.3](../agents/bbugyi200.athena.sase-tj.3/README.md) | sase-tj hood | completed |
+| [sase-tj.4](../agents/bbugyi200.athena.sase-tj.4/README.md) | sase-tj hood | dismissed |
+| [sase-tj.6](../agents/bbugyi200.athena.sase-tj.6/README.md) | sase-tj hood | completed |
+| [sase-tj.7](bbugyi200.athena.sase-tj.7.md) (family · 3) | sase-tj hood | active 1, completed 1, failed 1 |
+| [sase-tj.8](bbugyi200.athena.sase-tj.8.md) (family · 4) | sase-tj hood | active 1, completed 1, dismissed 1, failed 1 |
+| [sase-tj.8](../agents/bbugyi200.athena.sase-tj.8/README.md) | sase-tj hood | completed |
+| [sase-tj.9](../agents/bbugyi200.athena.sase-tj.9/README.md) | sase-tj hood | waiting |
+| [sase-tj.land](../agents/bbugyi200.athena.sase-tj.land/README.md) | sase-tj hood | waiting |
+| [sase-tj.land.w0](../agents/bbugyi200.athena.sase-tj.land.w0/README.md) | sase-tj hood | dismissed |
+| [sase-tj.land.w1](../agents/bbugyi200.athena.sase-tj.land.w1/README.md) | sase-tj hood | dismissed |
+| [sase-tj.land.w2](../agents/bbugyi200.athena.sase-tj.land.w2/README.md) | sase-tj hood | waiting |

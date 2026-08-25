@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase I just did a quick proofread of the agent instruction files that get generated for this project and I left some notes using the highlights app on my Mac book. Those notes were then used to construct the ~/bob/ref/docs/sase_AGENTS.md file. The proofread I performed was on an older agent instruction file but I'm pretty sure all of these notes are still relevant. Can you review these notes and help me improve agent instruction files for this project by making the necessary changes?
+
+#plan #m_opus

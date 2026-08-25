@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3eb102a87fc2d095716a318506ac76a6"}
+{"commits":[{"committed_at":1787672911,"sha":"2fa772b93d3e28c1ffaab259a7b946eac897203f","subject":"feat(ace-tui): add agents pane with detail view and artifact relations"}],"schema_version":2,"source_run_id":"run-3eb102a87fc2d095716a318506ac76a6"}
