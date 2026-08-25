@@ -1,6 +1,6 @@
-#gh:gh_sase-org__sase
 %id(4, clan=sase-to, bead=sase-to.4)
-%model:@small
+#gh:gh_sase-org__sase
+%model:@medium
 %auto
 %w:sase-to.3
 %w(bead=sase-to.3)
