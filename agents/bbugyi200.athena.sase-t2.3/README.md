@@ -28,5 +28,5 @@
 | [sase-t2.2](../bbugyi200.athena.sase-t2.2/README.md) | sase-t2 hood | dismissed |
 | [sase-t2.4](../bbugyi200.athena.sase-t2.4/README.md) | sase-t2 hood | completed |
 | [sase-t2.5](../bbugyi200.athena.sase-t2.5/README.md) | sase-t2 hood | completed |
-| [sase-t2.6](../bbugyi200.athena.sase-t2.6/README.md) | sase-t2 hood | waiting |
-| [sase-t2.land](../bbugyi200.athena.sase-t2.land/README.md) | sase-t2 hood | waiting |
+| [sase-t2.6](../bbugyi200.athena.sase-t2.6/README.md) | sase-t2 hood | completed |
+| [sase-t2.land](../bbugyi200.athena.sase-t2.land/README.md) | sase-t2 hood | active |

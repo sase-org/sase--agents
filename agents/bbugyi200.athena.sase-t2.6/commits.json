@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-06a5f5f9b1121760998cd645fafbca0a"}
+{"commits":[{"committed_at":1787662481,"sha":"f73b56e01dc43492e4b7c651c699caad3caec1df","subject":"docs(beads): document note --edit/--remove and update --note vs --notes"}],"schema_version":2,"source_run_id":"run-06a5f5f9b1121760998cd645fafbca0a"}

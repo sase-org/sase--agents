@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-247e4cbb6881e24995d4b02bf102d96b"}
+{"commits":[{"committed_at":1787662801,"sha":"2a0c7d6fa8593ab1758117a8ed59cb0a13b5f3b2","subject":"feat(agents): add Textual-free agent catalog row model"}],"schema_version":2,"source_run_id":"run-247e4cbb6881e24995d4b02bf102d96b"}
