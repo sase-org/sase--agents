@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start always showing the GitHub organization for community plugins shown on the "Plugins" sub-tab of the "Updates" tab of the "SASE Admin Center" panel? For example, in #sshot, we should show `bbugyi200/bugyi-chops` instead of just `bugyi-chops`. #plan

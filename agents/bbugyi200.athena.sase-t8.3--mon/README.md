@@ -25,4 +25,4 @@
 |---|---|---|
 | [sase-t8.1](../../families/bbugyi200.athena.sase-t8.1.md) (family · 3) | sase-t8 hood | dismissed 1, failed 2 |
 | [sase-t8.2](../bbugyi200.athena.sase-t8.2/README.md) | sase-t8 hood | completed |
-| [sase-t8.land](../bbugyi200.athena.sase-t8.land/README.md) | sase-t8 hood | waiting |
+| [sase-t8.land](../bbugyi200.athena.sase-t8.land/README.md) | sase-t8 hood | completed |
