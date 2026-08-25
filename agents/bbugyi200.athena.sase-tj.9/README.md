@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-tj](../../users/bbugyi200/machines/athena/hoods/sase-tj/README.md) / sase-tj.9
 
-**Global name:** `bbugyi200.athena.sase-tj.9` · **State:** waiting · **Source run:** `run-fa757b38a7de1c4288e2e4f459acc6bd`
+**Global name:** `bbugyi200.athena.sase-tj.9` · **State:** active · **Source run:** `run-fa757b38a7de1c4288e2e4f459acc6bd`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-tj
 
@@ -12,7 +12,7 @@
 - Epic: [sase-tj](https://github.com/sase-org/sase--beads/blob/main/pages/sase-tj/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 20260825081101
+- Timing: 2026-08-25T17:31:06.940631+00:00
 - Commits: 0
 
 ## Files
@@ -27,9 +27,9 @@
 | [sase-tj.2](../bbugyi200.athena.sase-tj.2/README.md) | sase-tj hood | dismissed |
 | [sase-tj.3](../bbugyi200.athena.sase-tj.3/README.md) | sase-tj hood | completed |
 | [sase-tj.4](../bbugyi200.athena.sase-tj.4/README.md) | sase-tj hood | dismissed |
-| [sase-tj.5](../../families/bbugyi200.athena.sase-tj.5.md) (family · 2) | sase-tj hood | active 1, completed 1 |
+| [sase-tj.5](../../families/bbugyi200.athena.sase-tj.5.md) (family · 3) | sase-tj hood | completed 2, failed 1 |
 | [sase-tj.6](../bbugyi200.athena.sase-tj.6/README.md) | sase-tj hood | completed |
-| [sase-tj.7](../../families/bbugyi200.athena.sase-tj.7.md) (family · 3) | sase-tj hood | active 1, completed 1, failed 1 |
+| [sase-tj.7](../../families/bbugyi200.athena.sase-tj.7.md) (family · 3) | sase-tj hood | dismissed 1, failed 2 |
 | [sase-tj.8](../../families/bbugyi200.athena.sase-tj.8.md) (family · 4) | sase-tj hood | active 1, completed 1, dismissed 1, failed 1 |
 | [sase-tj.8](../bbugyi200.athena.sase-tj.8/README.md) | sase-tj hood | completed |
 | [sase-tj.land](../bbugyi200.athena.sase-tj.land/README.md) | sase-tj hood | waiting |

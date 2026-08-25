@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-62dff3dba484de1dc36faa46b0f1ba9a"}
+{"commits":[{"committed_at":1787677072,"sha":"50d9c3bc219120a7a6ee8dc4fb060d6053f8cbf0","subject":"chore(memory): trim generated agent instructions"}],"schema_version":2,"source_run_id":"run-62dff3dba484de1dc36faa46b0f1ba9a"}

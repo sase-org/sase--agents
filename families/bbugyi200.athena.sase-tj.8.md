@@ -34,10 +34,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-tj.2](../agents/bbugyi200.athena.sase-tj.2/README.md) | sase-tj hood | dismissed |
 | [sase-tj.3](../agents/bbugyi200.athena.sase-tj.3/README.md) | sase-tj hood | completed |
 | [sase-tj.4](../agents/bbugyi200.athena.sase-tj.4/README.md) | sase-tj hood | dismissed |
-| [sase-tj.5](bbugyi200.athena.sase-tj.5.md) (family · 2) | sase-tj hood | active 1, completed 1 |
+| [sase-tj.5](bbugyi200.athena.sase-tj.5.md) (family · 3) | sase-tj hood | completed 2, failed 1 |
 | [sase-tj.6](../agents/bbugyi200.athena.sase-tj.6/README.md) | sase-tj hood | completed |
-| [sase-tj.7](bbugyi200.athena.sase-tj.7.md) (family · 3) | sase-tj hood | active 1, completed 1, failed 1 |
-| [sase-tj.9](../agents/bbugyi200.athena.sase-tj.9/README.md) | sase-tj hood | waiting |
+| [sase-tj.7](bbugyi200.athena.sase-tj.7.md) (family · 3) | sase-tj hood | dismissed 1, failed 2 |
+| [sase-tj.9](../agents/bbugyi200.athena.sase-tj.9/README.md) | sase-tj hood | active |
 | [sase-tj.land](../agents/bbugyi200.athena.sase-tj.land/README.md) | sase-tj hood | waiting |
 | [sase-tj.land.w0](../agents/bbugyi200.athena.sase-tj.land.w0/README.md) | sase-tj hood | dismissed |
 | [sase-tj.land.w1](../agents/bbugyi200.athena.sase-tj.land.w1/README.md) | sase-tj hood | dismissed |

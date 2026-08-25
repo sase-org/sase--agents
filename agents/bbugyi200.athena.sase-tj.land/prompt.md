@@ -1,4 +1,4 @@
-%wait(sase-tj.1, sase-tj.3, sase-tj.8, sase-tj.5, sase-tj.6, sase-tj.7, sase-tj.9)
+%wait(sase-tj.1, sase-tj.3, sase-tj.8, sase-tj.5, sase-tj.6, sase-tj.9, 0dj)
 %wait(bead=sase-tj.1)
 %wait(bead=sase-tj.2)
 %wait(bead=sase-tj.3)
