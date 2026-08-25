@@ -58,7 +58,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-sq.7.1.3](bbugyi200.athena.sase-sq.7.1.3.md) (family · 5) | sase-sq hood | completed 3, failed 2 |
 | [sase-sq.7.1.4](../agents/bbugyi200.athena.sase-sq.7.1.4/README.md) | sase-sq hood | completed |
 | [sase-sq.7.1.5](../agents/bbugyi200.athena.sase-sq.7.1.5/README.md) | sase-sq hood | completed |
-| [sase-sq.7.1.6](bbugyi200.athena.sase-sq.7.1.6.md) (family · 7) | sase-sq hood | active 1, completed 3, failed 3 |
-| [sase-sq.7.1.land](../agents/bbugyi200.athena.sase-sq.7.1.land/README.md) | sase-sq hood | waiting |
-| [sase-sq.8](../agents/bbugyi200.athena.sase-sq.8/README.md) | sase-sq hood | waiting |
+| [sase-sq.7.1.6](bbugyi200.athena.sase-sq.7.1.6.md) (family · 7) | sase-sq hood | completed 4, failed 3 |
+| [sase-sq.7.1.land](../agents/bbugyi200.athena.sase-sq.7.1.land/README.md) | sase-sq hood | active |
+| [sase-sq.8](../agents/bbugyi200.athena.sase-sq.8/README.md) | sase-sq hood | active |
 | [sase-sq.land](../agents/bbugyi200.athena.sase-sq.land/README.md) | sase-sq hood | waiting |

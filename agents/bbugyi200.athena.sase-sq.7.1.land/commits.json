@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-bcacf0064f8a9dd3ebf943df454106ce"}
+{"commits":[{"committed_at":1787627135,"sha":"d9341f2366a7b1cc16db3a9212aed97c772bf793","subject":"fix(memory): wrap the migrated glossary descriptor preamble"}],"schema_version":2,"source_run_id":"run-bcacf0064f8a9dd3ebf943df454106ce"}
