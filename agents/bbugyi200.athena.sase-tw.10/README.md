@@ -23,17 +23,17 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-tw.1](../bbugyi200.athena.sase-tw.1/README.md) | sase-tw hood | active |
-| [sase-tw.11](../bbugyi200.athena.sase-tw.11/README.md) | sase-tw hood | waiting |
-| [sase-tw.12](../bbugyi200.athena.sase-tw.12/README.md) | sase-tw hood | waiting |
-| [sase-tw.13](../bbugyi200.athena.sase-tw.13/README.md) | sase-tw hood | waiting |
+| [sase-tw.1](../bbugyi200.athena.sase-tw.1/README.md) | sase-tw hood | completed |
+| [sase-tw.11](../bbugyi200.athena.sase-tw.11/README.md) | sase-tw hood | completed |
+| [sase-tw.12](../bbugyi200.athena.sase-tw.12/README.md) | sase-tw hood | completed |
+| [sase-tw.13](../bbugyi200.athena.sase-tw.13/README.md) | sase-tw hood | active |
 | [sase-tw.14](../bbugyi200.athena.sase-tw.14/README.md) | sase-tw hood | waiting |
-| [sase-tw.2](../bbugyi200.athena.sase-tw.2/README.md) | sase-tw hood | waiting |
-| [sase-tw.3](../bbugyi200.athena.sase-tw.3/README.md) | sase-tw hood | waiting |
-| [sase-tw.4](../bbugyi200.athena.sase-tw.4/README.md) | sase-tw hood | waiting |
-| [sase-tw.5](../bbugyi200.athena.sase-tw.5/README.md) | sase-tw hood | active |
-| [sase-tw.6](../bbugyi200.athena.sase-tw.6/README.md) | sase-tw hood | waiting |
+| [sase-tw.2](../bbugyi200.athena.sase-tw.2/README.md) | sase-tw hood | completed |
+| [sase-tw.3](../bbugyi200.athena.sase-tw.3/README.md) | sase-tw hood | completed |
+| [sase-tw.4](../bbugyi200.athena.sase-tw.4/README.md) | sase-tw hood | active |
+| [sase-tw.5](../bbugyi200.athena.sase-tw.5/README.md) | sase-tw hood | completed |
+| [sase-tw.6](../bbugyi200.athena.sase-tw.6/README.md) | sase-tw hood | active |
 | [sase-tw.7](../bbugyi200.athena.sase-tw.7/README.md) | sase-tw hood | waiting |
 | [sase-tw.8](../bbugyi200.athena.sase-tw.8/README.md) | sase-tw hood | waiting |
-| [sase-tw.9](../bbugyi200.athena.sase-tw.9/README.md) | sase-tw hood | waiting |
+| [sase-tw.9](../bbugyi200.athena.sase-tw.9/README.md) | sase-tw hood | active |
 | [sase-tw.land](../bbugyi200.athena.sase-tw.land/README.md) | sase-tw hood | waiting |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5806d6d9a5fad6a19e1c9f608b29d906"}
+{"commits":[{"committed_at":1787692452,"sha":"5d36fef263c6f44f7421487056ed5a12db6cc0d3","subject":"feat(artifacts): add durable read-link outbox"}],"schema_version":2,"source_run_id":"run-5806d6d9a5fad6a19e1c9f608b29d906"}

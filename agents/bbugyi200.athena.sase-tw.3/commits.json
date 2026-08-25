@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-204e601b4502a8605188aef88c8cda40"}
+{"commits":[{"committed_at":1787692630,"sha":"79e51b564ec987540a8a9954603fbd0a5ca2a5ec","subject":"feat(bead-links): thread link direction and uses count through Python bead link facade"}],"schema_version":2,"source_run_id":"run-204e601b4502a8605188aef88c8cda40"}

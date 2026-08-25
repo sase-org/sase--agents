@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f3d5a2dfa3afa3727f28207df0e24ab7"}
+{"commits":[{"committed_at":1787690868,"sha":"b2a0c68a3ff0e497b007f6455e225fb80ccdb6fd","subject":"feat(artifact-refs): expand artifact link neighborhoods in prompt rendering"}],"schema_version":2,"source_run_id":"run-f3d5a2dfa3afa3727f28207df0e24ab7"}

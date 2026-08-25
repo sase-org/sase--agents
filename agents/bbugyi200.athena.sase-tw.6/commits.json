@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7834480f39a045f6ccf204979b7d9c74"}
+{"commits":[{"committed_at":1787696887,"sha":"7015c7938d984037447ed7de29ff952b5aab0650","subject":"feat(artifact-links): add Textual-free derivation module behind a beta flag"}],"schema_version":2,"source_run_id":"run-7834480f39a045f6ccf204979b7d9c74"}

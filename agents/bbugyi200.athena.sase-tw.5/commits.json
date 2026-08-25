@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-bc8cfaf46e46bfb80e25d6ff4e3a4ac0"}
+{"commits":[{"committed_at":1787688253,"sha":"1282c7a8c7ff02b328b87bdbe33e28616f9e2020","subject":"feat(artifact-cli): add artifact link relation subcommand"}],"schema_version":2,"source_run_id":"run-bc8cfaf46e46bfb80e25d6ff4e3a4ac0"}
