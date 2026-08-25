@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-25T17:31:06.940631+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`e5989fd`](https://github.com/sase-org/sase/commit/e5989fd286ed5f2e328e8928c7894028d697285a) | feat(artifacts): remove agents-pane feature flag and fix stale test fixtures | 2026-08-25 14:20:23 EDT |
 
 ## Neighbors
 
