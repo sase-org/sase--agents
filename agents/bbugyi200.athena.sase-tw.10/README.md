@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-25T22:30:52.444599+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`b250011`](https://github.com/sase-org/sase/commit/b25001124a8bf49f2f0011cecdb417350a720436) | feat(artifact-links): consume plan links frontmatter | 2026-08-25 19:22:22 EDT |
 
 ## Neighbors
 
@@ -30,10 +36,10 @@
 | [sase-tw.14](../bbugyi200.athena.sase-tw.14/README.md) | sase-tw hood | waiting |
 | [sase-tw.2](../bbugyi200.athena.sase-tw.2/README.md) | sase-tw hood | completed |
 | [sase-tw.3](../bbugyi200.athena.sase-tw.3/README.md) | sase-tw hood | completed |
-| [sase-tw.4](../bbugyi200.athena.sase-tw.4/README.md) | sase-tw hood | active |
+| [sase-tw.4](../bbugyi200.athena.sase-tw.4/README.md) | sase-tw hood | dismissed |
 | [sase-tw.5](../bbugyi200.athena.sase-tw.5/README.md) | sase-tw hood | completed |
 | [sase-tw.6](../bbugyi200.athena.sase-tw.6/README.md) | sase-tw hood | completed |
-| [sase-tw.7](../bbugyi200.athena.sase-tw.7/README.md) | sase-tw hood | waiting |
+| [sase-tw.7](../bbugyi200.athena.sase-tw.7/README.md) | sase-tw hood | active |
 | [sase-tw.8](../bbugyi200.athena.sase-tw.8/README.md) | sase-tw hood | waiting |
 | [sase-tw.9](../bbugyi200.athena.sase-tw.9/README.md) | sase-tw hood | completed |
 | [sase-tw.land](../bbugyi200.athena.sase-tw.land/README.md) | sase-tw hood | waiting |

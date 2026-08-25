@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-20b18d034b3ff42e91b963d3a37becaa"}
+{"commits":[{"committed_at":1787697215,"sha":"678988da73439c5c552fcf26a4007f6fcd6a27f6","subject":"fix(artifact-links): follow sidecar renames"}],"schema_version":2,"source_run_id":"run-20b18d034b3ff42e91b963d3a37becaa"}

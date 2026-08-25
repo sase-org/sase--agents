@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-fae0994aef625576540a87aa23647d9e"}
+{"commits":[{"committed_at":1787700142,"sha":"b25001124a8bf49f2f0011cecdb417350a720436","subject":"feat(artifact-links): consume plan links frontmatter"}],"schema_version":2,"source_run_id":"run-fae0994aef625576540a87aa23647d9e"}
