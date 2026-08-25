@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase We currently auto-clone the beads sidecar repo by default. This is no longer necessary, however, since we should now do this automatically when a `sase bead` command is run that requires the beads repo (which is likely most of them), right? Can you help me verify my claims and then make sase workspace initialization faster by (if I'm right and this won't break anything) no longer auto-cloning the beads sidecar repo?
+
+#plan #m_opus
