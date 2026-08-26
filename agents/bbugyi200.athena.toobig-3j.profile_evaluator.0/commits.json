@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1787705965,"sha":"e1171e3298fd1e35169d886fb126803dcfdcec4e","subject":"refactor(ace-query): split profile_evaluator into facade plus focused modules"}],"schema_version":2,"source_run_id":"run-9aeb8d36c010025cc5a675f52abc6527"}
