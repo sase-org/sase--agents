@@ -18,4 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | 0ed--plan | active | opus / claude | 2026-08-26T15:11:39.226233+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0ed--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0ed--plan/chat.md) |
-| <a id="member-code"></a>code | 0ed--code | active | gpt-5.5 / codex | 2026-08-26T15:28:13.655160+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 0ed--code | active | gpt-5.5 / codex | 2026-08-26T15:28:13.655160+00:00 | [1](../agents/bbugyi200.athena.0ed--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`e6eccc5`](https://github.com/sase-org/sase/commit/e6eccc5fea6bb4c9b8561267824fbc50753b100b) | feat(tui): group notification modal beads by type | 2026-08-26 12:09:14 EDT |
