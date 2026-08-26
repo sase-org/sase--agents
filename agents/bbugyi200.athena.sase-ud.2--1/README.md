@@ -28,7 +28,7 @@
 | [sase-ud.12](../bbugyi200.athena.sase-ud.12/README.md) | sase-ud hood | waiting |
 | [sase-ud.13](../bbugyi200.athena.sase-ud.13/README.md) | sase-ud hood | waiting |
 | [sase-ud.14](../bbugyi200.athena.sase-ud.14/README.md) | sase-ud hood | waiting |
-| [sase-ud.3](../bbugyi200.athena.sase-ud.3/README.md) | sase-ud hood | waiting |
+| [sase-ud.3](../../families/bbugyi200.athena.sase-ud.3.md) (family · 2) | sase-ud hood | active 2 |
 | [sase-ud.4](../bbugyi200.athena.sase-ud.4/README.md) | sase-ud hood | waiting |
 | [sase-ud.5](../bbugyi200.athena.sase-ud.5/README.md) | sase-ud hood | waiting |
 | [sase-ud.6](../bbugyi200.athena.sase-ud.6/README.md) | sase-ud hood | waiting |
