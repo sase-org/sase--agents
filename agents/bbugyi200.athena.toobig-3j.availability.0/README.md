@@ -11,11 +11,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-26T01:02:37.065151+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`b6f321a`](https://github.com/sase-org/sase/commit/b6f321a1ac531d2671f22920ebb99dde913bec90) | refactor(tui): split command availability predicates | 2026-08-25 21:22:31 EDT |
 
 ## Neighbors
 

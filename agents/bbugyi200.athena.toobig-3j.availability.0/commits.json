@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-fed197ec9b28bc255496d4d9f92859de"}
+{"commits":[{"committed_at":1787707351,"sha":"b6f321a1ac531d2671f22920ebb99dde913bec90","subject":"refactor(tui): split command availability predicates"}],"schema_version":2,"source_run_id":"run-fed197ec9b28bc255496d4d9f92859de"}
