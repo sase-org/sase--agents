@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.18.cld
 
-**Global name:** `bbugyi200.athena.research.18.cld` · **State:** active · **Source run:** `run-b04c17af102d347407999a9047d41e08`
+**Global name:** `bbugyi200.athena.research.18.cld` · **State:** completed · **Source run:** `run-b04c17af102d347407999a9047d41e08`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,12 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-26T16:51:33.907469+00:00
+- Timing: 2026-08-26T16:51:33.907469+00:00 → 2026-08-26T17:08:16.226185+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 

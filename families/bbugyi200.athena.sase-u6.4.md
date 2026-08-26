@@ -42,4 +42,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-u6.1](../agents/bbugyi200.athena.sase-u6.1/README.md) | sase-u6 hood | completed |
 | [sase-u6.2](../agents/bbugyi200.athena.sase-u6.2/README.md) | sase-u6 hood | completed |
 | [sase-u6.3](../agents/bbugyi200.athena.sase-u6.3/README.md) | sase-u6 hood | completed |
-| [sase-u6.land](../agents/bbugyi200.athena.sase-u6.land/README.md) | sase-u6 hood | active |
+| [sase-u6.5.1](../agents/bbugyi200.athena.sase-u6.5.1/README.md) | sase-u6 hood | active |
+| [sase-u6.5.2](../agents/bbugyi200.athena.sase-u6.5.2/README.md) | sase-u6 hood | waiting |
+| [sase-u6.5.land](../agents/bbugyi200.athena.sase-u6.5.land/README.md) | sase-u6 hood | waiting |
+| [sase-u6.land](bbugyi200.athena.sase-u6.land.md) (family · 2) | sase-u6 hood | failed 2 |
