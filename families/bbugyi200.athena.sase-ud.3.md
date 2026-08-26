@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-ud.3--code | active | gpt-5.5 / codex | 2026-08-26T20:06:57.914329+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-ud.3--code | active | gpt-5.5 / codex | 2026-08-26T20:06:57.914329+00:00 | [1](../agents/bbugyi200.athena.sase-ud.3--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-ud.3--plan | active | opus / claude | 2026-08-26T19:56:51.137974+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.3--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`1cb772d`](https://github.com/sase-org/sase/commit/1cb772d9c38e648f432460e0a097e78e4ef06df6) | feat(gate): add gate shell lifecycle | 2026-08-26 16:52:30 EDT |
 
 ## Neighbors
 
