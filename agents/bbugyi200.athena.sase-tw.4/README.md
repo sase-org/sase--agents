@@ -24,17 +24,17 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-tw.1](../bbugyi200.athena.sase-tw.1/README.md) | sase-tw hood | completed |
-| [sase-tw.10](../bbugyi200.athena.sase-tw.10/README.md) | sase-tw hood | completed |
-| [sase-tw.11](../bbugyi200.athena.sase-tw.11/README.md) | sase-tw hood | completed |
-| [sase-tw.12](../bbugyi200.athena.sase-tw.12/README.md) | sase-tw hood | completed |
-| [sase-tw.13](../bbugyi200.athena.sase-tw.13/README.md) | sase-tw hood | completed |
-| [sase-tw.14](../bbugyi200.athena.sase-tw.14/README.md) | sase-tw hood | completed |
-| [sase-tw.2](../bbugyi200.athena.sase-tw.2/README.md) | sase-tw hood | completed |
-| [sase-tw.3](../bbugyi200.athena.sase-tw.3/README.md) | sase-tw hood | completed |
-| [sase-tw.5](../bbugyi200.athena.sase-tw.5/README.md) | sase-tw hood | completed |
-| [sase-tw.6](../bbugyi200.athena.sase-tw.6/README.md) | sase-tw hood | completed |
-| [sase-tw.7](../bbugyi200.athena.sase-tw.7/README.md) | sase-tw hood | completed |
-| [sase-tw.8](../bbugyi200.athena.sase-tw.8/README.md) | sase-tw hood | completed |
-| [sase-tw.9](../bbugyi200.athena.sase-tw.9/README.md) | sase-tw hood | completed |
-| [sase-tw.land](../../families/bbugyi200.athena.sase-tw.land.md) (family · 2) | sase-tw hood | active 2 |
+| [sase-tw.1](../bbugyi200.athena.sase-tw.1/README.md) | sase-tw hood | dismissed |
+| [sase-tw.10](../bbugyi200.athena.sase-tw.10/README.md) | sase-tw hood | dismissed |
+| [sase-tw.11](../bbugyi200.athena.sase-tw.11/README.md) | sase-tw hood | dismissed |
+| [sase-tw.12](../bbugyi200.athena.sase-tw.12/README.md) | sase-tw hood | dismissed |
+| [sase-tw.13](../bbugyi200.athena.sase-tw.13/README.md) | sase-tw hood | dismissed |
+| [sase-tw.14](../bbugyi200.athena.sase-tw.14/README.md) | sase-tw hood | dismissed |
+| [sase-tw.2](../bbugyi200.athena.sase-tw.2/README.md) | sase-tw hood | dismissed |
+| [sase-tw.3](../bbugyi200.athena.sase-tw.3/README.md) | sase-tw hood | dismissed |
+| [sase-tw.5](../bbugyi200.athena.sase-tw.5/README.md) | sase-tw hood | dismissed |
+| [sase-tw.6](../bbugyi200.athena.sase-tw.6/README.md) | sase-tw hood | dismissed |
+| [sase-tw.7](../bbugyi200.athena.sase-tw.7/README.md) | sase-tw hood | dismissed |
+| [sase-tw.8](../bbugyi200.athena.sase-tw.8/README.md) | sase-tw hood | dismissed |
+| [sase-tw.9](../bbugyi200.athena.sase-tw.9/README.md) | sase-tw hood | dismissed |
+| [sase-tw.land](../../families/bbugyi200.athena.sase-tw.land.md) (family · 8) | sase-tw hood | completed 1, dismissed 4, failed 3 |

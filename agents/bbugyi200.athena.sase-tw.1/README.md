@@ -2,22 +2,17 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-tw](../../users/bbugyi200/machines/athena/hoods/sase-tw/README.md) / sase-tw.1
 
-**Global name:** `bbugyi200.athena.sase-tw.1` · **State:** completed · **Source run:** `run-d41d3fe96188e818ab493d7ad9121492`
+**Global name:** `bbugyi200.athena.sase-tw.1` · **State:** dismissed · **Source run:** `run-d41d3fe96188e818ab493d7ad9121492`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-tw
 
 ## Summary
 
 - Bead: [sase-tw.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-tw/sase-tw.1.md)
-- Epic: [sase-tw](https://github.com/sase-org/sase--beads/blob/main/pages/sase-tw/README.md)
-- Model: gpt-5.5
-- Provider: codex
-- Timing: 2026-08-25T19:36:56.699936+00:00 → 2026-08-25T20:05:34.479152+00:00
+- Model: —
+- Provider: —
+- Timing: 2026-08-25T15:36:24
 - Commits: [1](#commits)
-
-## Files
-
-[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,17 +24,17 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-tw.10](../bbugyi200.athena.sase-tw.10/README.md) | sase-tw hood | completed |
-| [sase-tw.11](../bbugyi200.athena.sase-tw.11/README.md) | sase-tw hood | completed |
-| [sase-tw.12](../bbugyi200.athena.sase-tw.12/README.md) | sase-tw hood | completed |
-| [sase-tw.13](../bbugyi200.athena.sase-tw.13/README.md) | sase-tw hood | completed |
-| [sase-tw.14](../bbugyi200.athena.sase-tw.14/README.md) | sase-tw hood | completed |
-| [sase-tw.2](../bbugyi200.athena.sase-tw.2/README.md) | sase-tw hood | completed |
-| [sase-tw.3](../bbugyi200.athena.sase-tw.3/README.md) | sase-tw hood | completed |
+| [sase-tw.10](../bbugyi200.athena.sase-tw.10/README.md) | sase-tw hood | dismissed |
+| [sase-tw.11](../bbugyi200.athena.sase-tw.11/README.md) | sase-tw hood | dismissed |
+| [sase-tw.12](../bbugyi200.athena.sase-tw.12/README.md) | sase-tw hood | dismissed |
+| [sase-tw.13](../bbugyi200.athena.sase-tw.13/README.md) | sase-tw hood | dismissed |
+| [sase-tw.14](../bbugyi200.athena.sase-tw.14/README.md) | sase-tw hood | dismissed |
+| [sase-tw.2](../bbugyi200.athena.sase-tw.2/README.md) | sase-tw hood | dismissed |
+| [sase-tw.3](../bbugyi200.athena.sase-tw.3/README.md) | sase-tw hood | dismissed |
 | [sase-tw.4](../bbugyi200.athena.sase-tw.4/README.md) | sase-tw hood | dismissed |
-| [sase-tw.5](../bbugyi200.athena.sase-tw.5/README.md) | sase-tw hood | completed |
-| [sase-tw.6](../bbugyi200.athena.sase-tw.6/README.md) | sase-tw hood | completed |
-| [sase-tw.7](../bbugyi200.athena.sase-tw.7/README.md) | sase-tw hood | completed |
-| [sase-tw.8](../bbugyi200.athena.sase-tw.8/README.md) | sase-tw hood | completed |
-| [sase-tw.9](../bbugyi200.athena.sase-tw.9/README.md) | sase-tw hood | completed |
-| [sase-tw.land](../../families/bbugyi200.athena.sase-tw.land.md) (family · 2) | sase-tw hood | active 2 |
+| [sase-tw.5](../bbugyi200.athena.sase-tw.5/README.md) | sase-tw hood | dismissed |
+| [sase-tw.6](../bbugyi200.athena.sase-tw.6/README.md) | sase-tw hood | dismissed |
+| [sase-tw.7](../bbugyi200.athena.sase-tw.7/README.md) | sase-tw hood | dismissed |
+| [sase-tw.8](../bbugyi200.athena.sase-tw.8/README.md) | sase-tw hood | dismissed |
+| [sase-tw.9](../bbugyi200.athena.sase-tw.9/README.md) | sase-tw hood | dismissed |
+| [sase-tw.land](../../families/bbugyi200.athena.sase-tw.land.md) (family · 8) | sase-tw hood | completed 1, dismissed 4, failed 3 |

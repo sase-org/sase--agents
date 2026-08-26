@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make the "Agent" sub-tab of the "Artifacts" tab the first sub-tab in the list of sub-tabs? Make sure you update the numeric keymap that is associated with that sub-tab. #plan %w:sase-tw.land,sase-tt.land
