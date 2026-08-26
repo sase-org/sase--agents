@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-45d3dc9bcd84c1448a610da89f40a7d9"}
+{"commits":[{"committed_at":1787773259,"sha":"9a477bfd1cf8f3aa1fec9e1eae900c9f3cb3970a","subject":"fix(artifact-links): require fresh deletion authority"}],"schema_version":2,"source_run_id":"run-45d3dc9bcd84c1448a610da89f40a7d9"}
