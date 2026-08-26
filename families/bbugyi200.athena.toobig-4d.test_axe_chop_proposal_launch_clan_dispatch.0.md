@@ -11,7 +11,7 @@ flowchart TD
   n0["toobig-4d.test_axe_chop_proposal_launch_clan_dispatch.0--plan [completed]"]
   n1["toobig-4d.test_axe_chop_proposal_launch_clan_dispatch.0--mon [failed]"]
   n0 --> n1
-  n2["toobig-4d.test_axe_chop_proposal_launch_clan_dispatch.0--1 [active]"]
+  n2["toobig-4d.test_axe_chop_proposal_launch_clan_dispatch.0--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | toobig-4d.test\_axe\_chop\_proposal\_launch\_clan\_dispatch.0--plan | completed | sonnet / claude | 2026-08-25T23:59:04.743413+00:00 → 2026-08-26T00:06:45.035062+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-4d.test_axe_chop_proposal_launch_clan_dispatch.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-4d.test_axe_chop_proposal_launch_clan_dispatch.0--plan/chat.md) |
 | <a id="member-mon"></a>mon | toobig-4d.test\_axe\_chop\_proposal\_launch\_clan\_dispatch.0--mon | failed | sonnet / claude | 2026-08-26T00:06:24.781823+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-4d.test_axe_chop_proposal_launch_clan_dispatch.0--mon/chat.md) |
-| <a id="member-1"></a>1 | toobig-4d.test\_axe\_chop\_proposal\_launch\_clan\_dispatch.0--1 | active | sonnet / claude | 2026-08-26T00:15:01.884867+00:00 | [1](../agents/bbugyi200.athena.toobig-4d.test_axe_chop_proposal_launch_clan_dispatch.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-4d.test_axe_chop_proposal_launch_clan_dispatch.0--1/prompt.md) | — |
+| <a id="member-1"></a>1 | toobig-4d.test\_axe\_chop\_proposal\_launch\_clan\_dispatch.0--1 | completed | sonnet / claude | 2026-08-26T00:15:01.884867+00:00 → 2026-08-26T00:19:18.623169+00:00 | [1](../agents/bbugyi200.athena.toobig-4d.test_axe_chop_proposal_launch_clan_dispatch.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-4d.test_axe_chop_proposal_launch_clan_dispatch.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-4d.test_axe_chop_proposal_launch_clan_dispatch.0--1/chat.md) |
 
 ## Commits
 
@@ -37,4 +37,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [toobig-4d.copy\_targets.0](../agents/bbugyi200.athena.toobig-4d.copy_targets.0/README.md) | toobig-4d hood | completed |
 | [toobig-4d.lease.0](../agents/bbugyi200.athena.toobig-4d.lease.0/README.md) | toobig-4d hood | completed |
 | [toobig-4d.profiles.0](../agents/bbugyi200.athena.toobig-4d.profiles.0/README.md) | toobig-4d hood | completed |
-| [toobig-4d.test\_launch\_condition\_workspace.0](../agents/bbugyi200.athena.toobig-4d.test_launch_condition_workspace.0/README.md) | toobig-4d hood | waiting |
+| [toobig-4d.test\_launch\_condition\_workspace.0](../agents/bbugyi200.athena.toobig-4d.test_launch_condition_workspace.0/README.md) | toobig-4d hood | active |
