@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase We recently added paging support for the `sase bead show` command. Do we make sure that this is both fast and disabled by default when a sase agent is detected (e.g. if the `SASE_AGENT` environment variable is set--figue out the best way to detect if a sase agent is running or not)? #if_not_plan

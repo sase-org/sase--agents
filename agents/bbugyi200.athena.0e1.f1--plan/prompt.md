@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase #fork:0e1 Excellent. Can you now help me add support for a new `<epic_bead_id>..` syntax to the `sase bead show` command's bead ID argument(s) that allows the user to concisely express that the epic bead `<epic_bead_id>` should be shown as well as all of that epic's child phase beads? For example, the `sase bead show tt..` command should be equivalent to the `sase bead show sase-tt sase-tt.1 sase-tt.2 sase-tt.3 sase-tt.4 sase-tt.5 sase-tt.6 sase-tt.7 sase-tt.8` command.
+
+#plan

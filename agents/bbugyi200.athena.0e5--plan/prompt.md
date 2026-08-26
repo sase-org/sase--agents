@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase Can you help me start making the expansion for the `@file` ref use the correct filename extension for the local file that is added to the .sase/artifacts/pool/ directory? Also, let's start rendering the local file path in the prompt. For example, the `#sshot` xprompt currently renders file paths like /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_24/.sase/artifacts/pool/5713d120c7da-file-ref. We should start rendering file paths like .sase/artifacts/pool/5713d120c7da-file-ref.png instead.
+
+#plan #m_opus
