@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.18.final
 
-**Global name:** `bbugyi200.athena.research.18.final` · **State:** waiting · **Source run:** `run-ccce682498afe51b96839e12484d3de5`
+**Global name:** `bbugyi200.athena.research.18.final` · **State:** active · **Source run:** `run-ccce682498afe51b96839e12484d3de5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20260826125056
+- Timing: 2026-08-26T17:20:57.094182+00:00
 - Commits: 0
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.18.cdx](../bbugyi200.athena.research.18.cdx/README.md) | research.18 hood | active |
+| [research.18.cdx](../bbugyi200.athena.research.18.cdx/README.md) | research.18 hood | completed |
 | [research.18.cld](../bbugyi200.athena.research.18.cld/README.md) | research.18 hood | completed |
 | [research.18.image](../bbugyi200.athena.research.18.image/README.md) | research.18 hood | waiting |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
