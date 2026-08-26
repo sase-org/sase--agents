@@ -2,17 +2,13 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0ej](../../users/bbugyi200/machines/athena/hoods/0ej/README.md) / [0ej](../../families/bbugyi200.athena.0ej.md) / 0ej--plan
 
-**Global name:** `bbugyi200.athena.0ej--plan` · **State:** failed · **Source run:** `run-b1441279405b3a5a2e3ddc3425b5c2e9`
+**Global name:** `bbugyi200.athena.0ej--plan` · **State:** dismissed · **Source run:** `run-b1441279405b3a5a2e3ddc3425b5c2e9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0ej
 
 ## Summary
 
-- Model: opus
-- Provider: claude
-- Timing: 2026-08-26T21:29:23.956980+00:00 → 2026-08-26T21:44:22.317440+00:00
+- Model: —
+- Provider: —
+- Timing: 2026-08-26T17:29:08
 - Commits: 0
-
-## Files
-
-[Chat](chat.md) · [Prompt](prompt.md)

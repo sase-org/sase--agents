@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-uk](../../users/bbugyi200/machines/athena/hoods/sase-uk/README.md) / sase-uk.2
 
-**Global name:** `bbugyi200.athena.sase-uk.2` · **State:** waiting · **Source run:** `run-0431013b54f1708ca26cd401100c3cd2`
+**Global name:** `bbugyi200.athena.sase-uk.2` · **State:** active · **Source run:** `run-0431013b54f1708ca26cd401100c3cd2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-uk
 
@@ -12,7 +12,7 @@
 - Epic: [sase-uk](https://github.com/sase-org/sase--beads/blob/main/pages/sase-uk/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260826174616
+- Timing: 2026-08-26T22:33:41.534045+00:00
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-uk.1](../bbugyi200.athena.sase-uk.1/README.md) | sase-uk hood | active |
+| [sase-uk.1](../bbugyi200.athena.sase-uk.1/README.md) | sase-uk hood | completed |
 | [sase-uk.10](../bbugyi200.athena.sase-uk.10/README.md) | sase-uk hood | waiting |
 | [sase-uk.3](../bbugyi200.athena.sase-uk.3/README.md) | sase-uk hood | waiting |
 | [sase-uk.4](../bbugyi200.athena.sase-uk.4/README.md) | sase-uk hood | waiting |
