@@ -35,11 +35,11 @@
 | [sase-ud.13](../bbugyi200.athena.sase-ud.13/README.md) | sase-ud hood | waiting |
 | [sase-ud.14](../bbugyi200.athena.sase-ud.14/README.md) | sase-ud hood | waiting |
 | [sase-ud.2](../../families/bbugyi200.athena.sase-ud.2.md) (family · 6) | sase-ud hood | completed 4, failed 2 |
-| [sase-ud.3](../../families/bbugyi200.athena.sase-ud.3.md) (family · 2) | sase-ud hood | active 2 |
-| [sase-ud.4](../bbugyi200.athena.sase-ud.4/README.md) | sase-ud hood | waiting |
-| [sase-ud.5](../bbugyi200.athena.sase-ud.5/README.md) | sase-ud hood | waiting |
-| [sase-ud.6](../bbugyi200.athena.sase-ud.6/README.md) | sase-ud hood | waiting |
-| [sase-ud.7](../bbugyi200.athena.sase-ud.7/README.md) | sase-ud hood | waiting |
+| [sase-ud.3](../../families/bbugyi200.athena.sase-ud.3.md) (family · 2) | sase-ud hood | completed 2 |
+| [sase-ud.4](../bbugyi200.athena.sase-ud.4/README.md) | sase-ud hood | completed |
+| [sase-ud.5](../bbugyi200.athena.sase-ud.5/README.md) | sase-ud hood | completed |
+| [sase-ud.6](../../families/bbugyi200.athena.sase-ud.6.md) (family · 2) | sase-ud hood | active 2 |
+| [sase-ud.7](../../families/bbugyi200.athena.sase-ud.7.md) (family · 2) | sase-ud hood | active 2 |
 | [sase-ud.8](../bbugyi200.athena.sase-ud.8/README.md) | sase-ud hood | waiting |
 | [sase-ud.9](../bbugyi200.athena.sase-ud.9/README.md) | sase-ud hood | waiting |
 | [sase-ud.land](../bbugyi200.athena.sase-ud.land/README.md) | sase-ud hood | waiting |
