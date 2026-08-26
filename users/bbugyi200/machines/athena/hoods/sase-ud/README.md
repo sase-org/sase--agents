@@ -8,7 +8,7 @@
 |---|---|---|---|---:|---|
 | [sase-ud.8](../../../../../../agents/bbugyi200.athena.sase-ud.8/README.md) | waiting | gpt-5.5 / codex | 20260826140451 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ud.8/prompt.md) |
 | [sase-ud.9](../../../../../../agents/bbugyi200.athena.sase-ud.9/README.md) | waiting | sonnet / claude | 20260826140452 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ud.9/prompt.md) |
-| [sase-ud.2--plan](../../../../../../families/bbugyi200.athena.sase-ud.2.md#member-plan) | active | gpt-5.6-sol / codex | 2026-08-26T18:05:14.540945+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ud.2--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-ud.2--plan/chat.md) |
+| [sase-ud.2--plan](../../../../../../families/bbugyi200.athena.sase-ud.2.md#member-plan) | active | gpt-5.6-sol / codex | 2026-08-26T18:05:14.540945+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-ud.2--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-ud.2--plan/prompt.md) |
 | [sase-ud.13](../../../../../../agents/bbugyi200.athena.sase-ud.13/README.md) | waiting | opus / claude | 20260826140456 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ud.13/prompt.md) |
 | [sase-ud.1](../../../../../../agents/bbugyi200.athena.sase-ud.1/README.md) | active | sonnet / claude | 2026-08-26T18:05:09.906060+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ud.1/prompt.md) |
 | [sase-ud.10](../../../../../../agents/bbugyi200.athena.sase-ud.10/README.md) | waiting | gpt-5.6-sol / codex | 20260826140453 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-ud.10/prompt.md) |
