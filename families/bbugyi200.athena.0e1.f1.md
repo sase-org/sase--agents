@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `0e1` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["0e1.f1--code [active]"]
-  n1["0e1.f1--plan [active]"]
+  n0["0e1.f1--code [completed]"]
+  n1["0e1.f1--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 0e1.f1--code | active | sonnet / claude | 2026-08-26T12:15:34.079439+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | 0e1.f1--plan | active | opus / claude | 2026-08-26T11:52:46.130548+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0e1.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0e1.f1--plan/chat.md) |
+| <a id="member-code"></a>code | 0e1.f1--code | completed | sonnet / claude | 2026-08-26T12:15:34.079439+00:00 → 2026-08-26T12:49:07.484931+00:00 | [1](../agents/bbugyi200.athena.0e1.f1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.0e1.f1--code/chat.md) |
+| <a id="member-plan"></a>plan | 0e1.f1--plan | completed | opus / claude | 2026-08-26T11:52:46.130548+00:00 → 2026-08-26T12:49:07.484931+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0e1.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0e1.f1--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`9351d79`](https://github.com/sase-org/sase/commit/9351d7953cb41250f639a9f32c061627ff0c94a9) | feat(bead): add show epic expansion for \`\<epic-id\>..\` batch queries | 2026-08-26 08:48:11 EDT |
 
 ## Neighbors
 

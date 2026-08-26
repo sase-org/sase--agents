@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-158c4ee952a6f431de2f728240c1323e"}
+{"commits":[{"committed_at":1787748491,"sha":"9351d7953cb41250f639a9f32c061627ff0c94a9","subject":"feat(bead): add show epic expansion for `<epic-id>..` batch queries"}],"schema_version":2,"source_run_id":"run-158c4ee952a6f431de2f728240c1323e"}

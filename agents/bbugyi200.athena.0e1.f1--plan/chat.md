@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 0e1.f1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0e1_f1__plan-260826_075154.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0e1_f1__code-260826_075154.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/bead_show_epic_expansion.md
 
 
