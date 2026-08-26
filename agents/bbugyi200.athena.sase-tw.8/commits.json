@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8048734916ecca522f06e160166bb396"}
+{"commits":[{"committed_at":1787702976,"sha":"c7e0a29e50e6914d68b859c9caf25608cb1ec762","subject":"feat(artifact-links): derive links from agent-cited plans in prompt archives"}],"schema_version":2,"source_run_id":"run-8048734916ecca522f06e160166bb396"}

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-tw](../../users/bbugyi200/machines/athena/hoods/sase-tw/README.md) / sase-tw.8
 
-**Global name:** `bbugyi200.athena.sase-tw.8` · **State:** waiting · **Source run:** `run-8048734916ecca522f06e160166bb396`
+**Global name:** `bbugyi200.athena.sase-tw.8` · **State:** active · **Source run:** `run-8048734916ecca522f06e160166bb396`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-tw
 
@@ -12,12 +12,18 @@
 - Epic: [sase-tw](https://github.com/sase-org/sase--beads/blob/main/pages/sase-tw/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 20260825153636
-- Commits: 0
+- Timing: 2026-08-25T23:35:54.826544+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c7e0a29`](https://github.com/sase-org/sase/commit/c7e0a29e50e6914d68b859c9caf25608cb1ec762) | feat(artifact-links): derive links from agent-cited plans in prompt archives | 2026-08-25 20:09:36 EDT |
 
 ## Neighbors
 
@@ -34,6 +40,6 @@
 | [sase-tw.4](../bbugyi200.athena.sase-tw.4/README.md) | sase-tw hood | dismissed |
 | [sase-tw.5](../bbugyi200.athena.sase-tw.5/README.md) | sase-tw hood | completed |
 | [sase-tw.6](../bbugyi200.athena.sase-tw.6/README.md) | sase-tw hood | completed |
-| [sase-tw.7](../bbugyi200.athena.sase-tw.7/README.md) | sase-tw hood | active |
+| [sase-tw.7](../bbugyi200.athena.sase-tw.7/README.md) | sase-tw hood | completed |
 | [sase-tw.9](../bbugyi200.athena.sase-tw.9/README.md) | sase-tw hood | completed |
 | [sase-tw.land](../bbugyi200.athena.sase-tw.land/README.md) | sase-tw hood | waiting |
