@@ -13,7 +13,7 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-27T13:17:11.291666+00:00
-- Commits: [6](#commits)
+- Commits: [7](#commits)
 
 ## Files
 
@@ -29,6 +29,7 @@
 | sase | [`5f06c64`](https://github.com/sase-org/sase/commit/5f06c647359cd3362f913d1e9fac3164ad99fc58) | chore(core): ratchet pinned core to v0.32.10 | 2026-08-27 15:27:30 EDT |
 | sase | [`4d31563`](https://github.com/sase-org/sase/commit/4d315636322392d692e737651c6d10174ed7d81c) | fix(agent): restore logical planner projection rows | 2026-08-27 17:13:56 EDT |
 | sase | [`ebdc9dd`](https://github.com/sase-org/sase/commit/ebdc9dda0c316fb8403d77e42efbbfdef7ada8de) | test(perf): isolate view-hints trace harness | 2026-08-27 18:38:42 EDT |
+| sase | [`69527b8`](https://github.com/sase-org/sase/commit/69527b84a5d139087ff7ae997625ce529812b22c) | fix(agents): preserve planner projection status | 2026-08-27 19:50:12 EDT |
 
 ## Neighbors
 
