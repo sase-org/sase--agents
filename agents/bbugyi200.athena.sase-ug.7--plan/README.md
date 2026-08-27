@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ug](../../users/bbugyi200/machines/athena/hoods/sase-ug/README.md) / [sase-ug.7](../../families/bbugyi200.athena.sase-ug.7.md) / sase-ug.7--plan
 
-**Global name:** `bbugyi200.athena.sase-ug.7--plan` · **State:** active · **Source run:** `run-b83c414c287a0937c25ef9df172f3ccf`
+**Global name:** `bbugyi200.athena.sase-ug.7--plan` · **State:** completed · **Source run:** `run-b83c414c287a0937c25ef9df172f3ccf`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ug
 
@@ -12,7 +12,7 @@
 - Epic: [sase-ug](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ug/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-27T02:27:13.894206+00:00
+- Timing: 2026-08-27T02:27:13.894206+00:00 → 2026-08-27T03:47:51.953220+00:00
 - Commits: 0
 
 ## Files
@@ -30,6 +30,6 @@
 | [sase-ug.4](../bbugyi200.athena.sase-ug.4/README.md) | sase-ug hood | completed |
 | [sase-ug.5](../bbugyi200.athena.sase-ug.5/README.md) | sase-ug hood | completed |
 | [sase-ug.6](../bbugyi200.athena.sase-ug.6/README.md) | sase-ug hood | completed |
-| [sase-ug.8](../bbugyi200.athena.sase-ug.8/README.md) | sase-ug hood | waiting |
-| [sase-ug.9](../bbugyi200.athena.sase-ug.9/README.md) | sase-ug hood | waiting |
+| [sase-ug.8](../../families/bbugyi200.athena.sase-ug.8.md) (family · 3) | sase-ug hood | active 1, completed 1, failed 1 |
+| [sase-ug.9](../bbugyi200.athena.sase-ug.9/README.md) | sase-ug hood | completed |
 | [sase-ug.land](../bbugyi200.athena.sase-ug.land/README.md) | sase-ug hood | waiting |

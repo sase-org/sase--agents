@@ -48,7 +48,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-ug.4](../agents/bbugyi200.athena.sase-ug.4/README.md) | sase-ug hood | completed |
 | [sase-ug.5](../agents/bbugyi200.athena.sase-ug.5/README.md) | sase-ug hood | completed |
 | [sase-ug.6](../agents/bbugyi200.athena.sase-ug.6/README.md) | sase-ug hood | completed |
-| [sase-ug.7](bbugyi200.athena.sase-ug.7.md) (family · 2) | sase-ug hood | active 2 |
-| [sase-ug.8](../agents/bbugyi200.athena.sase-ug.8/README.md) | sase-ug hood | waiting |
-| [sase-ug.9](../agents/bbugyi200.athena.sase-ug.9/README.md) | sase-ug hood | waiting |
+| [sase-ug.7](bbugyi200.athena.sase-ug.7.md) (family · 2) | sase-ug hood | completed 2 |
+| [sase-ug.8](bbugyi200.athena.sase-ug.8.md) (family · 3) | sase-ug hood | active 1, completed 1, failed 1 |
+| [sase-ug.9](../agents/bbugyi200.athena.sase-ug.9/README.md) | sase-ug hood | completed |
 | [sase-ug.land](../agents/bbugyi200.athena.sase-ug.land/README.md) | sase-ug hood | waiting |

@@ -35,7 +35,7 @@
 | [sase-ug.3](../../families/bbugyi200.athena.sase-ug.3.md) (family · 6) | sase-ug hood | completed 4, failed 2 |
 | [sase-ug.4](../bbugyi200.athena.sase-ug.4/README.md) | sase-ug hood | completed |
 | [sase-ug.6](../bbugyi200.athena.sase-ug.6/README.md) | sase-ug hood | completed |
-| [sase-ug.7](../../families/bbugyi200.athena.sase-ug.7.md) (family · 2) | sase-ug hood | active 2 |
-| [sase-ug.8](../bbugyi200.athena.sase-ug.8/README.md) | sase-ug hood | waiting |
-| [sase-ug.9](../bbugyi200.athena.sase-ug.9/README.md) | sase-ug hood | waiting |
+| [sase-ug.7](../../families/bbugyi200.athena.sase-ug.7.md) (family · 2) | sase-ug hood | completed 2 |
+| [sase-ug.8](../../families/bbugyi200.athena.sase-ug.8.md) (family · 3) | sase-ug hood | active 1, completed 1, failed 1 |
+| [sase-ug.9](../bbugyi200.athena.sase-ug.9/README.md) | sase-ug hood | completed |
 | [sase-ug.land](../bbugyi200.athena.sase-ug.land/README.md) | sase-ug hood | waiting |

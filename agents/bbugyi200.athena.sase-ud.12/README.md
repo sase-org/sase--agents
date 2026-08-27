@@ -24,8 +24,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ud.1](../bbugyi200.athena.sase-ud.1/README.md) | sase-ud hood | completed |
-| [sase-ud.10](../../families/bbugyi200.athena.sase-ud.10.md) (family · 2) | sase-ud hood | active 2 |
-| [sase-ud.11](../bbugyi200.athena.sase-ud.11/README.md) | sase-ud hood | waiting |
+| [sase-ud.10](../../families/bbugyi200.athena.sase-ud.10.md) (family · 2) | sase-ud hood | completed 2 |
+| [sase-ud.11](../../families/bbugyi200.athena.sase-ud.11.md) (family · 2) | sase-ud hood | active 2 |
 | [sase-ud.13](../bbugyi200.athena.sase-ud.13/README.md) | sase-ud hood | waiting |
 | [sase-ud.14](../bbugyi200.athena.sase-ud.14/README.md) | sase-ud hood | waiting |
 | [sase-ud.2](../../families/bbugyi200.athena.sase-ud.2.md) (family · 6) | sase-ud hood | completed 4, failed 2 |

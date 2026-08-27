@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-ug.7--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ug_7__plan-260826_194810.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ug_7__code-260826_194810.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/link_follow_grammar.md
 
 
