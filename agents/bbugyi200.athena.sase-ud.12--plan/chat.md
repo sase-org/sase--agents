@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-ud.12--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ud_12__plan-260827_071646.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ud_12__code-260827_071646.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/retire_q_asker_suffix.md
 
 
