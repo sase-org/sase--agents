@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `research` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["research.0v.final.f0--plan [dismissed]"]
+  n0["research.0v.final.f0--plan [active]"]
   n1["research.0v.final.f0--code [completed]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | research.0v.final.f0--plan | dismissed | — | 2026-08-21T20:13:51 | 0 | — | — |
+| <a id="member-plan"></a>plan | research.0v.final.f0--plan | active | gpt-5.6-sol / codex | 2026-08-21T20:14:20.983995+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.0v.final.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.0v.final.f0--plan/chat.md) |
 | <a id="member-code"></a>code | research.0v.final.f0--code | completed | grok-4.6 / grok | 2026-08-21T20:28:28.000551+00:00 → 2026-08-21T21:35:56.803219+00:00 | [1](../agents/bbugyi200.athena.research.0v.final.f0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.research.0v.final.f0--code/chat.md) |
 
 ## Commits
@@ -30,10 +30,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.0v.final](../agents/bbugyi200.athena.research.0v.final/README.md) | ancestor | dismissed |
-| [research.0v.cdx](../agents/bbugyi200.athena.research.0v.cdx/README.md) | research.0v hood | dismissed |
-| [research.0v.cld](../agents/bbugyi200.athena.research.0v.cld/README.md) | research.0v hood | dismissed |
-| [research.0v.image](../agents/bbugyi200.athena.research.0v.image/README.md) | research.0v hood | dismissed |
+| [research.0v.final](../agents/bbugyi200.athena.research.0v.final/README.md) | ancestor | active |
+| [research.0v.cdx](../agents/bbugyi200.athena.research.0v.cdx/README.md) | research.0v hood | active |
+| [research.0v.cld](../agents/bbugyi200.athena.research.0v.cld/README.md) | research.0v hood | active |
+| [research.0v.image](../agents/bbugyi200.athena.research.0v.image/README.md) | research.0v hood | active |
 | [research.0.cdx](../agents/bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../agents/bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../agents/bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
@@ -84,4 +84,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.0a.final](../agents/bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../agents/bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../agents/bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 344 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 348 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

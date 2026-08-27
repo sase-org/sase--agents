@@ -1,0 +1,4 @@
+%clan(research.1b, tribe=research,
+summary=[[[bold]RESEARCH PROMPT:[/bold] The TUI is incredibly slow recently. Can you help me do some research by digging into sase's logs to figure out where these performance problems are coming from and what we could do to significantly improve the `sase ace` TUI's performance? End your analysis with a recommended solution.]]) %id:research.1b.cdx
+%model:@research_a 
+#gh:gh_sase-org__sase The TUI is incredibly slow recently. Can you help me do some research by digging into sase's logs to figure out where these performance problems are coming from and what we could do to significantly improve the `sase ace` TUI's performance? End your analysis with a recommended solution. #research(report_target=research.1b.cdx.md)
