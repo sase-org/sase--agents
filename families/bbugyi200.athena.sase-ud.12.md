@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-ud.12--code | active | sonnet / claude | 2026-08-27T05:49:15.365425+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-ud.12--plan | active | opus / claude | 2026-08-27T05:36:34.282253+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.12--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.12--plan/chat.md) |
+| <a id="member-code"></a>code | sase-ud.12--code | active | gpt-5.5 / codex | 2026-08-27T11:21:22.707901+00:00 | [1](../agents/bbugyi200.athena.sase-ud.12--code/README.md#commits) | — | — |
+| <a id="member-plan"></a>plan | sase-ud.12--plan | active | gpt-5.6-sol / codex | 2026-08-27T11:17:10.517355+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.12--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.12--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`777e51e`](https://github.com/sase-org/sase/commit/777e51e734a6770e232e039ecfa159a199247295) | feat(agents): retire q asker suffix | 2026-08-27 08:31:56 EDT |
 
 ## Neighbors
 

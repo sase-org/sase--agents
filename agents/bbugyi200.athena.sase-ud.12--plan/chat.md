@@ -1,10 +1,10 @@
 # Chat History - ace-run (sase-ud.12--plan)
 
-- **TIMESTAMP:** 2026-08-27 01:49:09 EDT
-- **MODEL:** claude/opus
+- **TIMESTAMP:** 2026-08-27 07:21:11 EDT
+- **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-ud.12--plan
 
-**Plan:** /home/bryan/.sase/plans/202608/q_suffix_cleanup.md
+**Plan:** /home/bryan/.sase/plans/202608/retire_q_asker_suffix.md
 
 
 ## Prompt
@@ -13,7 +13,6 @@
 %id(12, clan=sase-ud, bead=sase-ud.12)
 %model:@large
 %auto
-%w:sase-ud.11
 %w(bead=sase-ud.11)
 Can you complete the work for bead sase-ud.12? The bead is already reserved for you and assigned to your agent
 name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
@@ -38,18 +37,18 @@ before making any file changes.
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202608/q_suffix_cleanup.md`
+**Plan file:** `/home/bryan/.sase/plans/202608/retire_q_asker_suffix.md`
 
 > - **PARENT:** [202608/gate_shells.md](202608/gate_shells.md)
 > - **BEAD:** sase-ud.12
-> # Goal
-> Delete `PLAN_CHAIN_QUESTION_SUFFIX` and the root/phase-question suffix taxonomy from
-> `sase.plan_chain` and every consumer, so that an agent that asks a question is just an
-> ordinary agent shell. The question gate shell (`<family>--gate-N`) already owns the
-> question, its `QUESTION`/`ANSWERED` statuses, and its follow-up launch; the `--q`
-> suffix, the `q` family role, and the `root_question`/`phase_question` suffix kinds are
-> what is left over from naming the _asking_ agent, and they are now vestigial.
-> This is the `q-suffix-cleanup` phase of the `gate_shells` epic (bead `sase-ud.12`). It
+> # Plan
+> Bead: **sase-ud.12** (`q-suffix-cleanup`) in the approved gate-shell epic.
+> The preceding question and plan migrations moved human-question ownership out of the
+> asking agent and into a durable gate shell. Live question continuations therefore use
+> the same ordinary family-member allocation as every other gate-shell follow-up; the
+> special `q` role and root/phase-question suffix grammar are no longer valid runtime
+> concepts. This phase removes that taxonomy without breaking read-side rendering of
+> historical artifact directories named with canonical `--q`.
 
 *See full plan file for details.*
 

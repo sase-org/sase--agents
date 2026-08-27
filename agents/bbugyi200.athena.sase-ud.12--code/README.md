@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ud](../../users/bbugyi200/machines/athena/hoods/sase-ud/README.md) / [sase-ud.12](../../families/bbugyi200.athena.sase-ud.12.md) / sase-ud.12--code
 
-**Global name:** `bbugyi200.athena.sase-ud.12--code` · **State:** active · **Source run:** `run-6bbdeed88851d69c4702da1e1865fe14`
+**Global name:** `bbugyi200.athena.sase-ud.12--code` · **State:** active · **Source run:** `run-5e748b9cdb46d2849d91417517f8def3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ud
 
@@ -10,10 +10,16 @@
 
 - Bead: [sase-ud.12](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ud/sase-ud.12.md)
 - Epic: [sase-ud](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ud/README.md)
-- Model: sonnet
-- Provider: claude
-- Timing: 2026-08-27T05:49:15.365425+00:00
-- Commits: 0
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 2026-08-27T11:21:22.707901+00:00
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`777e51e`](https://github.com/sase-org/sase/commit/777e51e734a6770e232e039ecfa159a199247295) | feat(agents): retire q asker suffix | 2026-08-27 08:31:56 EDT |
 
 ## Neighbors
 

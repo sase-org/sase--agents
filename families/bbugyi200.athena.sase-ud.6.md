@@ -20,6 +20,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | sase-ud.6--code | completed | gpt-5.5 / codex | 2026-08-26T22:12:21.815381+00:00 → 2026-08-27T01:21:34.024012+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ud.6--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-ud.6--plan | completed | gpt-5.6-sol / codex | 2026-08-26T22:08:19.860649+00:00 → 2026-08-27T01:21:34.024012+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.6--plan/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`10d2c17`](https://github.com/sase-org/sase/commit/10d2c17a171ffff1fcf700edadc46be1e4405f2e) | feat(ace): render gate shell rows in agents tui | 2026-08-26 21:19:23 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
