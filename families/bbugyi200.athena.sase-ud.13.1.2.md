@@ -38,13 +38,24 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | sase-ud.13.1.2--mon-0 | failed | sonnet / claude | 2026-08-27T14:47:58.558349+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.2--mon-0/chat.md) |
 | <a id="member-2"></a>2 | sase-ud.13.1.2--2 | completed | sonnet / claude | 2026-08-27T15:00:25.856078+00:00 → 2026-08-27T15:03:00.624481+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.13.1.2--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.2--2/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`a646bda`](https://github.com/sase-org/sase/commit/a646bdaf6b75838326f8c9d16f42fb935393e5c1) | refactor(plan-gate): remove the gate\_shell\_handoff flag and blocking Off branch | 2026-08-27 11:14:29 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ud.13](bbugyi200.athena.sase-ud.13.md) (family · 2) | ancestor | failed 2 |
 | [sase-ud.13.1.1](../agents/bbugyi200.athena.sase-ud.13.1.1/README.md) | sase-ud.13.1 hood | completed |
-| [sase-ud.13.1.3](../agents/bbugyi200.athena.sase-ud.13.1.3/README.md) | sase-ud.13.1 hood | active |
+| [sase-ud.13.1.3](bbugyi200.athena.sase-ud.13.1.3.md) (family · 2) | sase-ud.13.1 hood | failed 2 |
+| [sase-ud.13.1.3.1.1](bbugyi200.athena.sase-ud.13.1.3.1.1.md) (family · 5) | sase-ud.13.1 hood | active 1, completed 2, failed 2 |
+| [sase-ud.13.1.3.1.2](../agents/bbugyi200.athena.sase-ud.13.1.3.1.2/README.md) | sase-ud.13.1 hood | waiting |
+| [sase-ud.13.1.3.1.3](../agents/bbugyi200.athena.sase-ud.13.1.3.1.3/README.md) | sase-ud.13.1 hood | waiting |
+| [sase-ud.13.1.3.1.4](../agents/bbugyi200.athena.sase-ud.13.1.3.1.4/README.md) | sase-ud.13.1 hood | waiting |
+| [sase-ud.13.1.3.1.land](../agents/bbugyi200.athena.sase-ud.13.1.3.1.land/README.md) | sase-ud.13.1 hood | waiting |
 | [sase-ud.13.1.4](../agents/bbugyi200.athena.sase-ud.13.1.4/README.md) | sase-ud.13.1 hood | waiting |
 | [sase-ud.13.1.5](../agents/bbugyi200.athena.sase-ud.13.1.5/README.md) | sase-ud.13.1 hood | completed |
 | [sase-ud.13.1.land](../agents/bbugyi200.athena.sase-ud.13.1.land/README.md) | sase-ud.13.1 hood | waiting |
