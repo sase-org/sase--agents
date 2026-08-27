@@ -11,11 +11,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-27T19:47:20.168039+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9c37645`](https://github.com/sase-org/sase/commit/9c37645394bf58b6bb17e44d901f2116ab409d83) | fix(tui): align planner projection tests after resume | 2026-08-27 17:29:17 EDT |
 
 ## Neighbors
 

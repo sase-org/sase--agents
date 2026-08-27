@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-uv.7--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_uv_7__plan-260827_122841.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_uv_7__code-260827_122841.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/projection_record_json_list_shape.md
 
 
