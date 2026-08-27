@@ -33,6 +33,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-um.3](../agents/bbugyi200.athena.sase-um.3/README.md) | sase-um hood | completed |
 | [sase-um.4](../agents/bbugyi200.athena.sase-um.4/README.md) | sase-um hood | completed |
 | [sase-um.6](../agents/bbugyi200.athena.sase-um.6/README.md) | sase-um hood | active |
-| [sase-um.7](../agents/bbugyi200.athena.sase-um.7/README.md) | sase-um hood | active |
+| [sase-um.7](../agents/bbugyi200.athena.sase-um.7/README.md) | sase-um hood | completed |
 | [sase-um.8](../agents/bbugyi200.athena.sase-um.8/README.md) | sase-um hood | waiting |
 | [sase-um.land](../agents/bbugyi200.athena.sase-um.land/README.md) | sase-um hood | waiting |
