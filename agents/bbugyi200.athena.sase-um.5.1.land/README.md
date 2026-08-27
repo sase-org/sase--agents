@@ -23,14 +23,14 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-um.5](../../families/bbugyi200.athena.sase-um.5.md) (family · 2) | ancestor | failed 2 |
-| [sase-um.5.1.1](../bbugyi200.athena.sase-um.5.1.1/README.md) | sase-um.5.1 hood | active |
-| [sase-um.5.1.2](../bbugyi200.athena.sase-um.5.1.2/README.md) | sase-um.5.1 hood | active |
-| [sase-um.5.1.3](../bbugyi200.athena.sase-um.5.1.3/README.md) | sase-um.5.1 hood | waiting |
+| [sase-um.5.1.1](../bbugyi200.athena.sase-um.5.1.1/README.md) | sase-um.5.1 hood | completed |
+| [sase-um.5.1.2](../bbugyi200.athena.sase-um.5.1.2/README.md) | sase-um.5.1 hood | completed |
+| [sase-um.5.1.3](../bbugyi200.athena.sase-um.5.1.3/README.md) | sase-um.5.1 hood | active |
 | [sase-um.1](../../families/bbugyi200.athena.sase-um.1.md) (family · 2) | sase-um hood | completed 2 |
 | [sase-um.2](../../families/bbugyi200.athena.sase-um.2.md) (family · 2) | sase-um hood | completed 2 |
 | [sase-um.3](../bbugyi200.athena.sase-um.3/README.md) | sase-um hood | completed |
 | [sase-um.4](../bbugyi200.athena.sase-um.4/README.md) | sase-um hood | completed |
-| [sase-um.6](../bbugyi200.athena.sase-um.6/README.md) | sase-um hood | active |
+| [sase-um.6](../bbugyi200.athena.sase-um.6/README.md) | sase-um hood | completed |
 | [sase-um.7](../bbugyi200.athena.sase-um.7/README.md) | sase-um hood | completed |
 | [sase-um.8](../bbugyi200.athena.sase-um.8/README.md) | sase-um hood | waiting |
 | [sase-um.land](../bbugyi200.athena.sase-um.land/README.md) | sase-um hood | waiting |

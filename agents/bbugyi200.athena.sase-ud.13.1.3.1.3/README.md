@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ud](../../users/bbugyi200/machines/athena/hoods/sase-ud/README.md) / sase-ud.13.1.3.1.3
 
-**Global name:** `bbugyi200.athena.sase-ud.13.1.3.1.3` · **State:** waiting · **Source run:** `run-3090a49a938d13757427caa8fca958eb`
+**Global name:** `bbugyi200.athena.sase-ud.13.1.3.1.3` · **State:** active · **Source run:** `run-3090a49a938d13757427caa8fca958eb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ud
 
@@ -12,7 +12,7 @@
 - Epic: [sase-ud.13.1.3.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ud/sase-ud.13.1.3.1.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 20260827115401
+- Timing: 2026-08-27T17:35:46.737050+00:00
 - Commits: 0
 
 ## Files
@@ -25,8 +25,8 @@
 |---|---|---|
 | [sase-ud.13.1.3](../../families/bbugyi200.athena.sase-ud.13.1.3.md) (family · 2) | ancestor | failed 2 |
 | [sase-ud.13](../../families/bbugyi200.athena.sase-ud.13.md) (family · 2) | ancestor | failed 2 |
-| [sase-ud.13.1.3.1.1](../../families/bbugyi200.athena.sase-ud.13.1.3.1.1.md) (family · 5) | sase-ud.13.1.3.1 hood | active 1, completed 2, failed 2 |
-| [sase-ud.13.1.3.1.2](../bbugyi200.athena.sase-ud.13.1.3.1.2/README.md) | sase-ud.13.1.3.1 hood | waiting |
+| [sase-ud.13.1.3.1.1](../../families/bbugyi200.athena.sase-ud.13.1.3.1.1.md) (family · 5) | sase-ud.13.1.3.1 hood | completed 3, failed 2 |
+| [sase-ud.13.1.3.1.2](../bbugyi200.athena.sase-ud.13.1.3.1.2/README.md) | sase-ud.13.1.3.1 hood | completed |
 | [sase-ud.13.1.3.1.4](../bbugyi200.athena.sase-ud.13.1.3.1.4/README.md) | sase-ud.13.1.3.1 hood | waiting |
 | [sase-ud.13.1.3.1.land](../bbugyi200.athena.sase-ud.13.1.3.1.land/README.md) | sase-ud.13.1.3.1 hood | waiting |
 | [sase-ud.13.1.1](../bbugyi200.athena.sase-ud.13.1.1/README.md) | sase-ud.13.1 hood | completed |

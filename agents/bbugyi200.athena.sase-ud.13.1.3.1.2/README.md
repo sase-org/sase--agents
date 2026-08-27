@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ud](../../users/bbugyi200/machines/athena/hoods/sase-ud/README.md) / sase-ud.13.1.3.1.2
 
-**Global name:** `bbugyi200.athena.sase-ud.13.1.3.1.2` · **State:** waiting · **Source run:** `run-5020c9b63bdc85ae1d31c5ac31aaa9c3`
+**Global name:** `bbugyi200.athena.sase-ud.13.1.3.1.2` · **State:** completed · **Source run:** `run-5020c9b63bdc85ae1d31c5ac31aaa9c3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ud
 
@@ -12,12 +12,18 @@
 - Epic: [sase-ud.13.1.3.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ud/sase-ud.13.1.3.1.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260827115400
-- Commits: 0
+- Timing: 2026-08-27T16:34:38.294409+00:00 → 2026-08-27T17:35:18.036849+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`a771258`](https://github.com/sase-org/sase/commit/a771258edf6e815bb05995918c070b6f3da19c55) | refactor(tui): retire notification status overrides | 2026-08-27 13:32:21 EDT |
 
 ## Neighbors
 
@@ -25,8 +31,8 @@
 |---|---|---|
 | [sase-ud.13.1.3](../../families/bbugyi200.athena.sase-ud.13.1.3.md) (family · 2) | ancestor | failed 2 |
 | [sase-ud.13](../../families/bbugyi200.athena.sase-ud.13.md) (family · 2) | ancestor | failed 2 |
-| [sase-ud.13.1.3.1.1](../../families/bbugyi200.athena.sase-ud.13.1.3.1.1.md) (family · 5) | sase-ud.13.1.3.1 hood | active 1, completed 2, failed 2 |
-| [sase-ud.13.1.3.1.3](../bbugyi200.athena.sase-ud.13.1.3.1.3/README.md) | sase-ud.13.1.3.1 hood | waiting |
+| [sase-ud.13.1.3.1.1](../../families/bbugyi200.athena.sase-ud.13.1.3.1.1.md) (family · 5) | sase-ud.13.1.3.1 hood | completed 3, failed 2 |
+| [sase-ud.13.1.3.1.3](../bbugyi200.athena.sase-ud.13.1.3.1.3/README.md) | sase-ud.13.1.3.1 hood | active |
 | [sase-ud.13.1.3.1.4](../bbugyi200.athena.sase-ud.13.1.3.1.4/README.md) | sase-ud.13.1.3.1 hood | waiting |
 | [sase-ud.13.1.3.1.land](../bbugyi200.athena.sase-ud.13.1.3.1.land/README.md) | sase-ud.13.1.3.1 hood | waiting |
 | [sase-ud.13.1.1](../bbugyi200.athena.sase-ud.13.1.1/README.md) | sase-ud.13.1 hood | completed |

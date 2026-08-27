@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-um](../../users/bbugyi200/machines/athena/hoods/sase-um/README.md) / sase-um.6
 
-**Global name:** `bbugyi200.athena.sase-um.6` · **State:** active · **Source run:** `run-3d97c60760c9f441ef9174149a590afe`
+**Global name:** `bbugyi200.athena.sase-um.6` · **State:** completed · **Source run:** `run-3d97c60760c9f441ef9174149a590afe`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-um
 
@@ -12,12 +12,18 @@
 - Epic: [sase-um](https://github.com/sase-org/sase--beads/blob/main/pages/sase-um/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-27T12:32:59.134065+00:00
-- Commits: 0
+- Timing: 2026-08-27T12:32:59.134065+00:00 → 2026-08-27T13:43:03.084195+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`a8e72ce`](https://github.com/sase-org/sase/commit/a8e72cebeb234ff9a7c69483bc4ee800fd6e5ec8) | feat(ci): pin the sase-core revision CI builds from | 2026-08-27 09:41:48 EDT |
 
 ## Neighbors
 
@@ -28,9 +34,9 @@
 | [sase-um.3](../bbugyi200.athena.sase-um.3/README.md) | sase-um hood | completed |
 | [sase-um.4](../bbugyi200.athena.sase-um.4/README.md) | sase-um hood | completed |
 | [sase-um.5](../../families/bbugyi200.athena.sase-um.5.md) (family · 2) | sase-um hood | failed 2 |
-| [sase-um.5.1.1](../bbugyi200.athena.sase-um.5.1.1/README.md) | sase-um hood | active |
-| [sase-um.5.1.2](../bbugyi200.athena.sase-um.5.1.2/README.md) | sase-um hood | active |
-| [sase-um.5.1.3](../bbugyi200.athena.sase-um.5.1.3/README.md) | sase-um hood | waiting |
+| [sase-um.5.1.1](../bbugyi200.athena.sase-um.5.1.1/README.md) | sase-um hood | completed |
+| [sase-um.5.1.2](../bbugyi200.athena.sase-um.5.1.2/README.md) | sase-um hood | completed |
+| [sase-um.5.1.3](../bbugyi200.athena.sase-um.5.1.3/README.md) | sase-um hood | active |
 | [sase-um.5.1.land](../bbugyi200.athena.sase-um.5.1.land/README.md) | sase-um hood | waiting |
 | [sase-um.7](../bbugyi200.athena.sase-um.7/README.md) | sase-um hood | completed |
 | [sase-um.8](../bbugyi200.athena.sase-um.8/README.md) | sase-um hood | waiting |

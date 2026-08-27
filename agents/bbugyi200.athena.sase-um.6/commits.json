@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3d97c60760c9f441ef9174149a590afe"}
+{"commits":[{"committed_at":1787838108,"sha":"a8e72cebeb234ff9a7c69483bc4ee800fd6e5ec8","subject":"feat(ci): pin the sase-core revision CI builds from"}],"schema_version":2,"source_run_id":"run-3d97c60760c9f441ef9174149a590afe"}

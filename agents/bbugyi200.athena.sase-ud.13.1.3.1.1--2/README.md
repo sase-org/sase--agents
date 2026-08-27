@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ud](../../users/bbugyi200/machines/athena/hoods/sase-ud/README.md) / [sase-ud.13.1.3.1.1](../../families/bbugyi200.athena.sase-ud.13.1.3.1.1.md) / sase-ud.13.1.3.1.1--2
 
-**Global name:** `bbugyi200.athena.sase-ud.13.1.3.1.1--2` · **State:** active · **Source run:** `run-7084dbef1aa8cf4437ee2f3062dd79fd`
+**Global name:** `bbugyi200.athena.sase-ud.13.1.3.1.1--2` · **State:** completed · **Source run:** `run-7084dbef1aa8cf4437ee2f3062dd79fd`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ud
 
@@ -11,12 +11,12 @@
 - Bead: [sase-ud.13.1.3.1.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ud/sase-ud.13.1.3.1.1.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-27T16:24:41.463074+00:00
+- Timing: 2026-08-27T16:24:41.463074+00:00 → 2026-08-27T16:34:27.946562+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -30,8 +30,8 @@
 |---|---|---|
 | [sase-ud.13.1.3](../../families/bbugyi200.athena.sase-ud.13.1.3.md) (family · 2) | ancestor | failed 2 |
 | [sase-ud.13](../../families/bbugyi200.athena.sase-ud.13.md) (family · 2) | ancestor | failed 2 |
-| [sase-ud.13.1.3.1.2](../bbugyi200.athena.sase-ud.13.1.3.1.2/README.md) | sase-ud.13.1.3.1 hood | waiting |
-| [sase-ud.13.1.3.1.3](../bbugyi200.athena.sase-ud.13.1.3.1.3/README.md) | sase-ud.13.1.3.1 hood | waiting |
+| [sase-ud.13.1.3.1.2](../bbugyi200.athena.sase-ud.13.1.3.1.2/README.md) | sase-ud.13.1.3.1 hood | completed |
+| [sase-ud.13.1.3.1.3](../bbugyi200.athena.sase-ud.13.1.3.1.3/README.md) | sase-ud.13.1.3.1 hood | active |
 | [sase-ud.13.1.3.1.4](../bbugyi200.athena.sase-ud.13.1.3.1.4/README.md) | sase-ud.13.1.3.1 hood | waiting |
 | [sase-ud.13.1.3.1.land](../bbugyi200.athena.sase-ud.13.1.3.1.land/README.md) | sase-ud.13.1.3.1 hood | waiting |
 | [sase-ud.13.1.1](../bbugyi200.athena.sase-ud.13.1.1/README.md) | sase-ud.13.1 hood | completed |

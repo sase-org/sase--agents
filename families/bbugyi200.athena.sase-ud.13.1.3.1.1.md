@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-ud` · Members: 5 · Bead: [sase-ud.13.
 ```mermaid
 flowchart TD
   n0["sase-ud.13.1.3.1.1--mon [failed]"]
-  n1["sase-ud.13.1.3.1.1--2 [active]"]
+  n1["sase-ud.13.1.3.1.1--2 [completed]"]
   n0 --> n1
   n2["sase-ud.13.1.3.1.1--1 [completed]"]
   n0 --> n2
@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-ud.13.1.3.1.1--mon | failed | sonnet / claude | 2026-08-27T16:07:38.779111+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--mon/chat.md) |
-| <a id="member-2"></a>2 | sase-ud.13.1.3.1.1--2 | active | sonnet / claude | 2026-08-27T16:24:41.463074+00:00 | [1](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--2/prompt.md) | — |
+| <a id="member-2"></a>2 | sase-ud.13.1.3.1.1--2 | completed | sonnet / claude | 2026-08-27T16:24:41.463074+00:00 → 2026-08-27T16:34:27.946562+00:00 | [1](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--2/chat.md) |
 | <a id="member-1"></a>1 | sase-ud.13.1.3.1.1--1 | completed | sonnet / claude | 2026-08-27T16:13:13.758153+00:00 → 2026-08-27T16:14:18.782008+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-ud.13.1.3.1.1--mon-0 | failed | sonnet / claude | 2026-08-27T16:14:10.114301+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--mon-0/chat.md) |
 | <a id="member-plan"></a>plan | sase-ud.13.1.3.1.1--plan | completed | sonnet / claude | 2026-08-27T15:54:23.820332+00:00 → 2026-08-27T16:07:48.731910+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--plan/chat.md) |
@@ -41,8 +41,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-ud.13.1.3](bbugyi200.athena.sase-ud.13.1.3.md) (family · 2) | ancestor | failed 2 |
 | [sase-ud.13](bbugyi200.athena.sase-ud.13.md) (family · 2) | ancestor | failed 2 |
-| [sase-ud.13.1.3.1.2](../agents/bbugyi200.athena.sase-ud.13.1.3.1.2/README.md) | sase-ud.13.1.3.1 hood | waiting |
-| [sase-ud.13.1.3.1.3](../agents/bbugyi200.athena.sase-ud.13.1.3.1.3/README.md) | sase-ud.13.1.3.1 hood | waiting |
+| [sase-ud.13.1.3.1.2](../agents/bbugyi200.athena.sase-ud.13.1.3.1.2/README.md) | sase-ud.13.1.3.1 hood | completed |
+| [sase-ud.13.1.3.1.3](../agents/bbugyi200.athena.sase-ud.13.1.3.1.3/README.md) | sase-ud.13.1.3.1 hood | active |
 | [sase-ud.13.1.3.1.4](../agents/bbugyi200.athena.sase-ud.13.1.3.1.4/README.md) | sase-ud.13.1.3.1 hood | waiting |
 | [sase-ud.13.1.3.1.land](../agents/bbugyi200.athena.sase-ud.13.1.3.1.land/README.md) | sase-ud.13.1.3.1 hood | waiting |
 | [sase-ud.13.1.1](../agents/bbugyi200.athena.sase-ud.13.1.1/README.md) | sase-ud.13.1 hood | completed |
