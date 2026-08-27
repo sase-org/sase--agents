@@ -1,23 +1,19 @@
-# Agent: sase-uv.8
+# Agent: sase-uv.7--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-uv](../../users/bbugyi200/machines/athena/hoods/sase-uv/README.md) / sase-uv.8
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-uv](../../users/bbugyi200/machines/athena/hoods/sase-uv/README.md) / [sase-uv.7](../../families/bbugyi200.athena.sase-uv.7.md) / sase-uv.7--code
 
-**Global name:** `bbugyi200.athena.sase-uv.8` · **State:** waiting · **Source run:** `run-62da479e46db8115adbb558c16ebb9be`
+**Global name:** `bbugyi200.athena.sase-uv.7--code` · **State:** active · **Source run:** `run-bab024c54b9032b5a50a1cc58ff1bb0f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-uv
 
 ## Summary
 
-- Bead: [sase-uv.8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-uv/sase-uv.8.md)
+- Bead: [sase-uv.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-uv/sase-uv.7.md)
 - Epic: [sase-uv](https://github.com/sase-org/sase--beads/blob/main/pages/sase-uv/README.md)
-- Model: gpt-5.6-sol
+- Model: gpt-5.5
 - Provider: codex
-- Timing: 20260827122842
+- Timing: 2026-08-27T18:51:37.511311+00:00
 - Commits: 0
-
-## Files
-
-[Prompt](prompt.md)
 
 ## Neighbors
 
@@ -29,6 +25,6 @@
 | [sase-uv.4](../bbugyi200.athena.sase-uv.4/README.md) | sase-uv hood | failed |
 | [sase-uv.5](../bbugyi200.athena.sase-uv.5/README.md) | sase-uv hood | completed |
 | [sase-uv.6](../bbugyi200.athena.sase-uv.6/README.md) | sase-uv hood | completed |
-| [sase-uv.7](../../families/bbugyi200.athena.sase-uv.7.md) (family · 3) | sase-uv hood | active 2, failed 1 |
+| [sase-uv.8](../bbugyi200.athena.sase-uv.8/README.md) | sase-uv hood | waiting |
 | [sase-uv.9](../bbugyi200.athena.sase-uv.9/README.md) | sase-uv hood | completed |
 | [sase-uv.land](../bbugyi200.athena.sase-uv.land/README.md) | sase-uv hood | waiting |

@@ -13,7 +13,7 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-27T13:17:11.291666+00:00
-- Commits: [3](#commits)
+- Commits: [4](#commits)
 
 ## Files
 
@@ -26,6 +26,7 @@
 | sase | [`95444f8`](https://github.com/sase-org/sase/commit/95444f8685283a0635310688a7fa0906d5f4b709) | test(suite-gate): clear parent shard for scaled children | 2026-08-27 11:03:54 EDT |
 | sase | [`612cabf`](https://github.com/sase-org/sase/commit/612cabf85a786d9bd2beedbb6556788f6869e70e) | fix(agent): carry process identity through scan liveness | 2026-08-27 12:52:13 EDT |
 | sase | [`8690fe2`](https://github.com/sase-org/sase/commit/8690fe23a096538bd8c40115028b70a038d95771) | test(sdd): restore checkout marker facade after project-key tests | 2026-08-27 13:38:31 EDT |
+| sase | [`5f06c64`](https://github.com/sase-org/sase/commit/5f06c647359cd3362f913d1e9fac3164ad99fc58) | chore(core): ratchet pinned core to v0.32.10 | 2026-08-27 15:27:30 EDT |
 
 ## Neighbors
 

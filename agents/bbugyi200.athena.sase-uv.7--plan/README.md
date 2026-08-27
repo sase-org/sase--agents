@@ -1,23 +1,23 @@
-# Agent: sase-uv.8
+# Agent: sase-uv.7--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-uv](../../users/bbugyi200/machines/athena/hoods/sase-uv/README.md) / sase-uv.8
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-uv](../../users/bbugyi200/machines/athena/hoods/sase-uv/README.md) / [sase-uv.7](../../families/bbugyi200.athena.sase-uv.7.md) / sase-uv.7--plan
 
-**Global name:** `bbugyi200.athena.sase-uv.8` · **State:** waiting · **Source run:** `run-62da479e46db8115adbb558c16ebb9be`
+**Global name:** `bbugyi200.athena.sase-uv.7--plan` · **State:** active · **Source run:** `run-1d471960d8e59648217a449dc83669cb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-uv
 
 ## Summary
 
-- Bead: [sase-uv.8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-uv/sase-uv.8.md)
+- Bead: [sase-uv.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-uv/sase-uv.7.md)
 - Epic: [sase-uv](https://github.com/sase-org/sase--beads/blob/main/pages/sase-uv/README.md)
-- Model: gpt-5.6-sol
-- Provider: codex
-- Timing: 20260827122842
+- Model: opus
+- Provider: claude
+- Timing: 2026-08-27T18:37:06.625811+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -29,6 +29,6 @@
 | [sase-uv.4](../bbugyi200.athena.sase-uv.4/README.md) | sase-uv hood | failed |
 | [sase-uv.5](../bbugyi200.athena.sase-uv.5/README.md) | sase-uv hood | completed |
 | [sase-uv.6](../bbugyi200.athena.sase-uv.6/README.md) | sase-uv hood | completed |
-| [sase-uv.7](../../families/bbugyi200.athena.sase-uv.7.md) (family · 3) | sase-uv hood | active 2, failed 1 |
+| [sase-uv.8](../bbugyi200.athena.sase-uv.8/README.md) | sase-uv hood | waiting |
 | [sase-uv.9](../bbugyi200.athena.sase-uv.9/README.md) | sase-uv hood | completed |
 | [sase-uv.land](../bbugyi200.athena.sase-uv.land/README.md) | sase-uv hood | waiting |

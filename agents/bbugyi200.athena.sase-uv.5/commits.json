@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1896dfede2ecb062b93a8aa545f6158e"}
+{"commits":[{"committed_at":1787856575,"sha":"6687426783e2db699ba3fd2ffc8882cc8f435e8f","subject":"perf(ace-tui): reuse parent record markers for workflow step enrichment"}],"schema_version":2,"source_run_id":"run-1896dfede2ecb062b93a8aa545f6158e"}
