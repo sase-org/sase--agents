@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-85e2a364c835ffb5e64fed07466f07b9"}
+{"commits":[{"committed_at":1787798615,"sha":"d4c3bb4083fe11d0b74d3e9ab3fa7ebe0b19e6e1","subject":"feat(gate-shell): add fork classification, CLI list/show/cancel, and shell conformance"}],"schema_version":2,"source_run_id":"run-85e2a364c835ffb5e64fed07466f07b9"}
