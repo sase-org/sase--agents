@@ -28,8 +28,8 @@
 | [sase-ud.13.1.3](../../families/bbugyi200.athena.sase-ud.13.1.3.md) (family · 2) | descendant | failed 2 |
 | [sase-ud.13.1.3.1.1](../../families/bbugyi200.athena.sase-ud.13.1.3.1.1.md) (family · 5) | descendant | completed 3, failed 2 |
 | [sase-ud.13.1.3.1.2](../bbugyi200.athena.sase-ud.13.1.3.1.2/README.md) | descendant | completed |
-| [sase-ud.13.1.3.1.3](../bbugyi200.athena.sase-ud.13.1.3.1.3/README.md) | descendant | active |
-| [sase-ud.13.1.3.1.4](../bbugyi200.athena.sase-ud.13.1.3.1.4/README.md) | descendant | waiting |
+| [sase-ud.13.1.3.1.3](../bbugyi200.athena.sase-ud.13.1.3.1.3/README.md) | descendant | completed |
+| [sase-ud.13.1.3.1.4](../bbugyi200.athena.sase-ud.13.1.3.1.4/README.md) | descendant | active |
 | [sase-ud.13.1.3.1.land](../bbugyi200.athena.sase-ud.13.1.3.1.land/README.md) | descendant | waiting |
 | [sase-ud.13.1.4](../bbugyi200.athena.sase-ud.13.1.4/README.md) | descendant | waiting |
 | [sase-ud.13.1.5](../bbugyi200.athena.sase-ud.13.1.5/README.md) | descendant | completed |
