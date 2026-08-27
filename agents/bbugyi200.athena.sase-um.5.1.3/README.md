@@ -13,7 +13,7 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-27T13:17:11.291666+00:00
-- Commits: [5](#commits)
+- Commits: [6](#commits)
 
 ## Files
 
@@ -28,6 +28,7 @@
 | sase | [`8690fe2`](https://github.com/sase-org/sase/commit/8690fe23a096538bd8c40115028b70a038d95771) | test(sdd): restore checkout marker facade after project-key tests | 2026-08-27 13:38:31 EDT |
 | sase | [`5f06c64`](https://github.com/sase-org/sase/commit/5f06c647359cd3362f913d1e9fac3164ad99fc58) | chore(core): ratchet pinned core to v0.32.10 | 2026-08-27 15:27:30 EDT |
 | sase | [`4d31563`](https://github.com/sase-org/sase/commit/4d315636322392d692e737651c6d10174ed7d81c) | fix(agent): restore logical planner projection rows | 2026-08-27 17:13:56 EDT |
+| sase | [`ebdc9dd`](https://github.com/sase-org/sase/commit/ebdc9dda0c316fb8403d77e42efbbfdef7ada8de) | test(perf): isolate view-hints trace harness | 2026-08-27 18:38:42 EDT |
 
 ## Neighbors
 

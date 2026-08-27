@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-uv.8--code | active | gpt-5.5 / codex | 2026-08-27T21:20:25.785240+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-uv.8--code | active | gpt-5.5 / codex | 2026-08-27T21:20:25.785240+00:00 | [1](../agents/bbugyi200.athena.sase-uv.8--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-uv.8--plan | active | gpt-5.6-sol / codex | 2026-08-27T21:09:27.453711+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-uv.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-uv.8--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-uv.8--gate | failed | gpt-5.6-sol / codex | 2026-08-27T21:20:01.706921+00:00 → 2026-08-27T21:20:08.935136+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-uv.8--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`a805b0d`](https://github.com/sase-org/sase/commit/a805b0da2f23de59d628c9c16ff4855fb68d8a02) | feat(agents): add bounded viewport loading | 2026-08-27 18:49:33 EDT |
 
 ## Neighbors
 
