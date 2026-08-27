@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ug](../../users/bbugyi200/machines/athena/hoods/sase-ug/README.md) / sase-ug.6
 
-**Global name:** `bbugyi200.athena.sase-ug.6` · **State:** waiting · **Source run:** `run-34beba7295d3b23f10520887482c4501`
+**Global name:** `bbugyi200.athena.sase-ug.6` · **State:** active · **Source run:** `run-f11e83a114f737e1caad2d4e2dc80f05`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ug
 
@@ -10,14 +10,20 @@
 
 - Bead: [sase-ug.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ug/sase-ug.6.md)
 - Epic: [sase-ug](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ug/README.md)
-- Model: sonnet
-- Provider: claude
-- Timing: 20260826145007
-- Commits: 0
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 2026-08-27T01:28:25.165977+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`48e019a`](https://github.com/sase-org/sase/commit/48e019af82f279fc51d53d0e1f1ec51123bebd80) | feat(ace): add read-only link rail | 2026-08-26 22:22:44 EDT |
 
 ## Neighbors
 
@@ -26,9 +32,9 @@
 | [sase-ug.1](../bbugyi200.athena.sase-ug.1/README.md) | sase-ug hood | completed |
 | [sase-ug.10](../bbugyi200.athena.sase-ug.10/README.md) | sase-ug hood | waiting |
 | [sase-ug.2](../bbugyi200.athena.sase-ug.2/README.md) | sase-ug hood | completed |
-| [sase-ug.3](../../families/bbugyi200.athena.sase-ug.3.md) (family · 6) | sase-ug hood | active 1, completed 3, failed 2 |
-| [sase-ug.4](../bbugyi200.athena.sase-ug.4/README.md) | sase-ug hood | waiting |
-| [sase-ug.5](../bbugyi200.athena.sase-ug.5/README.md) | sase-ug hood | waiting |
+| [sase-ug.3](../../families/bbugyi200.athena.sase-ug.3.md) (family · 6) | sase-ug hood | completed 4, failed 2 |
+| [sase-ug.4](../bbugyi200.athena.sase-ug.4/README.md) | sase-ug hood | completed |
+| [sase-ug.5](../bbugyi200.athena.sase-ug.5/README.md) | sase-ug hood | completed |
 | [sase-ug.7](../bbugyi200.athena.sase-ug.7/README.md) | sase-ug hood | waiting |
 | [sase-ug.8](../bbugyi200.athena.sase-ug.8/README.md) | sase-ug hood | waiting |
 | [sase-ug.9](../bbugyi200.athena.sase-ug.9/README.md) | sase-ug hood | waiting |

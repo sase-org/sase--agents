@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-69eaa959af3bd1a165a683a9f6dad9de"}
+{"commits":[{"committed_at":1787794016,"sha":"38c15881ed3047ff976883b56f7e3e17c10f0af5","subject":"feat(artifact-links): add link subject resolution and follow-link action wiring"}],"schema_version":2,"source_run_id":"run-cb3ac94591438d91f01bc1ae152cc10c"}
