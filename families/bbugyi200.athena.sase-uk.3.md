@@ -38,8 +38,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-uk.2](../agents/bbugyi200.athena.sase-uk.2/README.md) | sase-uk hood | completed |
 | [sase-uk.4](../agents/bbugyi200.athena.sase-uk.4/README.md) | sase-uk hood | completed |
 | [sase-uk.5](../agents/bbugyi200.athena.sase-uk.5/README.md) | sase-uk hood | completed |
-| [sase-uk.6](../agents/bbugyi200.athena.sase-uk.6/README.md) | sase-uk hood | failed |
-| [sase-uk.7](../agents/bbugyi200.athena.sase-uk.7/README.md) | sase-uk hood | waiting |
-| [sase-uk.8](../agents/bbugyi200.athena.sase-uk.8/README.md) | sase-uk hood | waiting |
-| [sase-uk.9](../agents/bbugyi200.athena.sase-uk.9/README.md) | sase-uk hood | waiting |
+| [sase-uk.6](../agents/bbugyi200.athena.sase-uk.6/README.md) | sase-uk hood | dismissed |
+| [sase-uk.7](../agents/bbugyi200.athena.sase-uk.7/README.md) | sase-uk hood | completed |
+| [sase-uk.8](../agents/bbugyi200.athena.sase-uk.8/README.md) | sase-uk hood | completed |
+| [sase-uk.9](../agents/bbugyi200.athena.sase-uk.9/README.md) | sase-uk hood | active |
 | [sase-uk.land](../agents/bbugyi200.athena.sase-uk.land/README.md) | sase-uk hood | waiting |

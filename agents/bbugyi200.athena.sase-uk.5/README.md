@@ -34,8 +34,8 @@
 | [sase-uk.2](../bbugyi200.athena.sase-uk.2/README.md) | sase-uk hood | completed |
 | [sase-uk.3](../../families/bbugyi200.athena.sase-uk.3.md) (family · 3) | sase-uk hood | completed 2, failed 1 |
 | [sase-uk.4](../bbugyi200.athena.sase-uk.4/README.md) | sase-uk hood | completed |
-| [sase-uk.6](../bbugyi200.athena.sase-uk.6/README.md) | sase-uk hood | failed |
-| [sase-uk.7](../bbugyi200.athena.sase-uk.7/README.md) | sase-uk hood | waiting |
-| [sase-uk.8](../bbugyi200.athena.sase-uk.8/README.md) | sase-uk hood | waiting |
-| [sase-uk.9](../bbugyi200.athena.sase-uk.9/README.md) | sase-uk hood | waiting |
+| [sase-uk.6](../bbugyi200.athena.sase-uk.6/README.md) | sase-uk hood | dismissed |
+| [sase-uk.7](../bbugyi200.athena.sase-uk.7/README.md) | sase-uk hood | completed |
+| [sase-uk.8](../bbugyi200.athena.sase-uk.8/README.md) | sase-uk hood | completed |
+| [sase-uk.9](../bbugyi200.athena.sase-uk.9/README.md) | sase-uk hood | active |
 | [sase-uk.land](../bbugyi200.athena.sase-uk.land/README.md) | sase-uk hood | waiting |
