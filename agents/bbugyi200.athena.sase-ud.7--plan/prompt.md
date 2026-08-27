@@ -2,7 +2,6 @@
 %id(7, clan=sase-ud, bead=sase-ud.7)
 %model:@large
 %auto
-%w:sase-ud.5
 %w(bead=sase-ud.5)
 #bd/work_phase_bead:sase-ud.7
 #plan

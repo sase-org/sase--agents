@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ud](../../users/bbugyi200/machines/athena/hoods/sase-ud/README.md) / sase-ud.12
 
-**Global name:** `bbugyi200.athena.sase-ud.12` · **State:** waiting · **Source run:** `run-f97adfa2ee961b48590ca11f1917e4d9`
+**Global name:** `bbugyi200.athena.sase-ud.12` · **State:** waiting · **Source run:** `run-8fb243dd3691c0f715a0196a06cb68a7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ud
 
@@ -10,9 +10,9 @@
 
 - Bead: [sase-ud.12](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ud/sase-ud.12.md)
 - Epic: [sase-ud](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ud/README.md)
-- Model: gpt-5.6-sol
-- Provider: codex
-- Timing: 20260826140455
+- Model: opus
+- Provider: claude
+- Timing: 20260826194338
 - Commits: 0
 
 ## Files
@@ -32,8 +32,8 @@
 | [sase-ud.3](../../families/bbugyi200.athena.sase-ud.3.md) (family · 2) | sase-ud hood | completed 2 |
 | [sase-ud.4](../bbugyi200.athena.sase-ud.4/README.md) | sase-ud hood | completed |
 | [sase-ud.5](../bbugyi200.athena.sase-ud.5/README.md) | sase-ud hood | completed |
-| [sase-ud.6](../../families/bbugyi200.athena.sase-ud.6.md) (family · 2) | sase-ud hood | active 2 |
-| [sase-ud.7](../../families/bbugyi200.athena.sase-ud.7.md) (family · 2) | sase-ud hood | active 2 |
-| [sase-ud.8](../bbugyi200.athena.sase-ud.8/README.md) | sase-ud hood | waiting |
-| [sase-ud.9](../bbugyi200.athena.sase-ud.9/README.md) | sase-ud hood | waiting |
+| [sase-ud.6](../../families/bbugyi200.athena.sase-ud.6.md) (family · 2) | sase-ud hood | completed 2 |
+| [sase-ud.7](../../families/bbugyi200.athena.sase-ud.7.md) (family · 4) | sase-ud hood | completed 3, failed 1 |
+| [sase-ud.8](../bbugyi200.athena.sase-ud.8/README.md) | sase-ud hood | active |
+| [sase-ud.9](../bbugyi200.athena.sase-ud.9/README.md) | sase-ud hood | active |
 | [sase-ud.land](../bbugyi200.athena.sase-ud.land/README.md) | sase-ud hood | waiting |

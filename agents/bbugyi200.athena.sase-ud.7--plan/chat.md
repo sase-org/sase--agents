@@ -1,10 +1,10 @@
 # Chat History - ace-run (sase-ud.7--plan)
 
-- **TIMESTAMP:** 2026-08-26 18:19:22 EDT
-- **MODEL:** claude/opus
+- **TIMESTAMP:** 2026-08-26 19:47:56 EDT
+- **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-ud.7--plan
 
-**Plan:** /home/bryan/.sase/plans/202608/gate_followup.md
+**Plan:** /home/bryan/.sase/plans/202608/gate_followup_1.md
 
 
 ## Prompt
@@ -13,7 +13,6 @@
 %id(7, clan=sase-ud, bead=sase-ud.7)
 %model:@large
 %auto
-%w:sase-ud.5
 %w(bead=sase-ud.5)
 Can you complete the work for bead sase-ud.7? The bead is already reserved for you and assigned to your agent
 name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
@@ -38,18 +37,18 @@ before making any file changes.
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202608/gate_followup.md`
+**Plan file:** `/home/bryan/.sase/plans/202608/gate_followup_1.md`
 
 > - **PARENT:** [202608/gate_shells.md](202608/gate_shells.md)
 > - **BEAD:** sase-ud.7
-> # Plan: gate-followup — the branch-keyed gate shell follow-up
-> Phase `gate-followup` of epic `sase-ud` (bead `sase-ud.7`), plan
-> `plan:202608/gate_shells.md` §5, §6, §7 and the `## gate-followup` phase section.
-> ## What already exists (verified at `460aa8786`, clean)
-> - `notification_gates/model_shell.py` already parses and validates the whole `shell`
->   block: `GateShellSpec` (`suffix`, `pending_status`, `settled_status`, `accent`,
->   `workspace`, `next`, `branches`), `GateShellNext` (`prompt`, `output`, `fork`,
->   `model`), `GateShellBranchSpec` (`status`, `accent`, `next`), the
+> # Configurable per-branch gate-shell follow-up
+> ## Objective
+> Complete phase `sase-ud.7` by making a settled gate shell choose its successor policy
+> from the compiled terminal branch, compose a directive-safe decision prompt, and launch
+> that successor through the shared family-shell substrate. Preserve the gate-shell
+> contract that an unmapped branch launches nothing, `results` is the default output, and
+> the shell's terminal artifact is visible before a successor can resolve `#fork`.
+> ## Implementation
 
 *See full plan file for details.*
 

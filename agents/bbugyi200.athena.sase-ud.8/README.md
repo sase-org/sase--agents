@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ud](../../users/bbugyi200/machines/athena/hoods/sase-ud/README.md) / sase-ud.8
 
-**Global name:** `bbugyi200.athena.sase-ud.8` · **State:** waiting · **Source run:** `run-125d63b5dfc1446d58ee446a3a19d749`
+**Global name:** `bbugyi200.athena.sase-ud.8` · **State:** active · **Source run:** `run-85e2a364c835ffb5e64fed07466f07b9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ud
 
@@ -10,9 +10,9 @@
 
 - Bead: [sase-ud.8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ud/sase-ud.8.md)
 - Epic: [sase-ud](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ud/README.md)
-- Model: gpt-5.5
-- Provider: codex
-- Timing: 20260826140451
+- Model: sonnet
+- Provider: claude
+- Timing: 2026-08-27T01:29:42.027974+00:00
 - Commits: 0
 
 ## Files
@@ -33,7 +33,7 @@
 | [sase-ud.3](../../families/bbugyi200.athena.sase-ud.3.md) (family · 2) | sase-ud hood | completed 2 |
 | [sase-ud.4](../bbugyi200.athena.sase-ud.4/README.md) | sase-ud hood | completed |
 | [sase-ud.5](../bbugyi200.athena.sase-ud.5/README.md) | sase-ud hood | completed |
-| [sase-ud.6](../../families/bbugyi200.athena.sase-ud.6.md) (family · 2) | sase-ud hood | active 2 |
-| [sase-ud.7](../../families/bbugyi200.athena.sase-ud.7.md) (family · 2) | sase-ud hood | active 2 |
-| [sase-ud.9](../bbugyi200.athena.sase-ud.9/README.md) | sase-ud hood | waiting |
+| [sase-ud.6](../../families/bbugyi200.athena.sase-ud.6.md) (family · 2) | sase-ud hood | completed 2 |
+| [sase-ud.7](../../families/bbugyi200.athena.sase-ud.7.md) (family · 4) | sase-ud hood | completed 3, failed 1 |
+| [sase-ud.9](../bbugyi200.athena.sase-ud.9/README.md) | sase-ud hood | active |
 | [sase-ud.land](../bbugyi200.athena.sase-ud.land/README.md) | sase-ud hood | waiting |

@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-ud` · Members: 2 · Bead: [sase-ud.6](
 
 ```mermaid
 flowchart TD
-  n0["sase-ud.6--code [active]"]
-  n1["sase-ud.6--plan [active]"]
+  n0["sase-ud.6--code [completed]"]
+  n1["sase-ud.6--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-ud.6--code | active | gpt-5.5 / codex | 2026-08-26T22:12:21.815381+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-ud.6--plan | active | gpt-5.6-sol / codex | 2026-08-26T22:08:19.860649+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.6--plan/chat.md) |
+| <a id="member-code"></a>code | sase-ud.6--code | completed | gpt-5.5 / codex | 2026-08-26T22:12:21.815381+00:00 → 2026-08-27T01:21:34.024012+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ud.6--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-ud.6--plan | completed | gpt-5.6-sol / codex | 2026-08-26T22:08:19.860649+00:00 → 2026-08-27T01:21:34.024012+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.6--plan/chat.md) |
 
 ## Neighbors
 
@@ -34,7 +34,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-ud.3](bbugyi200.athena.sase-ud.3.md) (family · 2) | sase-ud hood | completed 2 |
 | [sase-ud.4](../agents/bbugyi200.athena.sase-ud.4/README.md) | sase-ud hood | completed |
 | [sase-ud.5](../agents/bbugyi200.athena.sase-ud.5/README.md) | sase-ud hood | completed |
-| [sase-ud.7](bbugyi200.athena.sase-ud.7.md) (family · 2) | sase-ud hood | active 2 |
-| [sase-ud.8](../agents/bbugyi200.athena.sase-ud.8/README.md) | sase-ud hood | waiting |
-| [sase-ud.9](../agents/bbugyi200.athena.sase-ud.9/README.md) | sase-ud hood | waiting |
+| [sase-ud.7](bbugyi200.athena.sase-ud.7.md) (family · 4) | sase-ud hood | completed 3, failed 1 |
+| [sase-ud.8](../agents/bbugyi200.athena.sase-ud.8/README.md) | sase-ud hood | active |
+| [sase-ud.9](../agents/bbugyi200.athena.sase-ud.9/README.md) | sase-ud hood | active |
 | [sase-ud.land](../agents/bbugyi200.athena.sase-ud.land/README.md) | sase-ud hood | waiting |
