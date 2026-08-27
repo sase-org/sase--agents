@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #coder:~/.sase/plans/202608/tale_gate_followup_subset_branches.md %m:@medium
