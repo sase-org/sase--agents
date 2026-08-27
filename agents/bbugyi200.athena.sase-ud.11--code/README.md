@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ud](../../users/bbugyi200/machines/athena/hoods/sase-ud/README.md) / [sase-ud.11](../../families/bbugyi200.athena.sase-ud.11.md) / sase-ud.11--code
 
-**Global name:** `bbugyi200.athena.sase-ud.11--code` · **State:** active · **Source run:** `run-6c02a44530cc02c8931d1b0a1f018809`
+**Global name:** `bbugyi200.athena.sase-ud.11--code` · **State:** completed · **Source run:** `run-6c02a44530cc02c8931d1b0a1f018809`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ud
 
@@ -12,8 +12,18 @@
 - Epic: [sase-ud](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ud/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-27T04:21:11.348452+00:00
-- Commits: 0
+- Timing: 2026-08-27T04:21:11.348452+00:00 → 2026-08-27T05:35:55.136473+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`32da1f3`](https://github.com/sase-org/sase/commit/32da1f3d2d76878f61dec184514b7e8620e0b461) | feat(plan): add shell-backed approval handoff | 2026-08-27 01:34:36 EDT |
 
 ## Neighbors
 
@@ -21,7 +31,7 @@
 |---|---|---|
 | [sase-ud.1](../bbugyi200.athena.sase-ud.1/README.md) | sase-ud hood | completed |
 | [sase-ud.10](../../families/bbugyi200.athena.sase-ud.10.md) (family · 2) | sase-ud hood | completed 2 |
-| [sase-ud.12](../bbugyi200.athena.sase-ud.12/README.md) | sase-ud hood | waiting |
+| [sase-ud.12](../../families/bbugyi200.athena.sase-ud.12.md) (family · 2) | sase-ud hood | active 2 |
 | [sase-ud.13](../bbugyi200.athena.sase-ud.13/README.md) | sase-ud hood | waiting |
 | [sase-ud.14](../bbugyi200.athena.sase-ud.14/README.md) | sase-ud hood | waiting |
 | [sase-ud.2](../../families/bbugyi200.athena.sase-ud.2.md) (family · 6) | sase-ud hood | completed 4, failed 2 |

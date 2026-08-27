@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6c02a44530cc02c8931d1b0a1f018809"}
+{"commits":[{"committed_at":1787808876,"sha":"32da1f3d2d76878f61dec184514b7e8620e0b461","subject":"feat(plan): add shell-backed approval handoff"}],"schema_version":2,"source_run_id":"run-6c02a44530cc02c8931d1b0a1f018809"}

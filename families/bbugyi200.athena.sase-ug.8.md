@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-ug` · Members: 3 · Bead: [sase-ug.8](
 ```mermaid
 flowchart TD
   n0["sase-ug.8--plan [completed]"]
-  n1["sase-ug.8--1 [active]"]
+  n1["sase-ug.8--1 [completed]"]
   n0 --> n1
   n2["sase-ug.8--mon [failed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-ug.8--plan | completed | sonnet / claude | 2026-08-27T03:48:16.819586+00:00 → 2026-08-27T04:47:25.683212+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ug.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ug.8--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-ug.8--1 | active | sonnet / claude | 2026-08-27T05:02:12.770943+00:00 | [1](../agents/bbugyi200.athena.sase-ug.8--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-ug.8--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-ug.8--1 | completed | sonnet / claude | 2026-08-27T05:02:12.770943+00:00 → 2026-08-27T05:06:38.881154+00:00 | [1](../agents/bbugyi200.athena.sase-ug.8--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-ug.8--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ug.8--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-ug.8--mon | failed | sonnet / claude | 2026-08-27T04:47:15.634220+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ug.8--mon/chat.md) |
 
 ## Commits
@@ -34,7 +34,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ug.1](../agents/bbugyi200.athena.sase-ug.1/README.md) | sase-ug hood | completed |
-| [sase-ug.10](../agents/bbugyi200.athena.sase-ug.10/README.md) | sase-ug hood | waiting |
+| [sase-ug.10](../agents/bbugyi200.athena.sase-ug.10/README.md) | sase-ug hood | active |
 | [sase-ug.2](../agents/bbugyi200.athena.sase-ug.2/README.md) | sase-ug hood | completed |
 | [sase-ug.3](bbugyi200.athena.sase-ug.3.md) (family · 6) | sase-ug hood | completed 4, failed 2 |
 | [sase-ug.4](../agents/bbugyi200.athena.sase-ug.4/README.md) | sase-ug hood | completed |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3b7cc0a63ff8348189b3b2e5330f380c"}
+{"commits":[{"committed_at":1787809831,"sha":"a7b702863fe57552d09ae9cae31f0cbe894959ea","subject":"feat(tui): move links to app-level rail, drop link_rail flag and L bindings"}],"schema_version":2,"source_run_id":"run-3b7cc0a63ff8348189b3b2e5330f380c"}

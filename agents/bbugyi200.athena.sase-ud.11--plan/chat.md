@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-ud.11--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ud_11__plan-260826_194337.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ud_11__code-260826_194337.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/plan_gate_shell_migration.md
 
 
