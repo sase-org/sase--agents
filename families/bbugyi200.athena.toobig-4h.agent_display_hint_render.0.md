@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `toobig-4h` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["toobig-4h.agent_display_hint_render.0--1 [completed]"]
-  n1["toobig-4h.agent_display_hint_render.0--plan [completed]"]
+  n0["toobig-4h.agent_display_hint_render.0--1 [dismissed]"]
+  n1["toobig-4h.agent_display_hint_render.0--plan [dismissed]"]
   n0 --> n1
   n2["toobig-4h.agent_display_hint_render.0--mon [failed]"]
   n0 --> n2
@@ -19,15 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | toobig-4h.agent\_display\_hint\_render.0--1 | completed | sonnet / claude | 2026-08-27T22:00:42.162060+00:00 → 2026-08-27T22:12:26.326638+00:00 | [1](../agents/bbugyi200.athena.toobig-4h.agent_display_hint_render.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-4h.agent_display_hint_render.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-4h.agent_display_hint_render.0--1/chat.md) |
-| <a id="member-plan"></a>plan | toobig-4h.agent\_display\_hint\_render.0--plan | completed | sonnet / claude | 2026-08-27T21:44:49.737183+00:00 → 2026-08-27T21:57:31.943944+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-4h.agent_display_hint_render.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-4h.agent_display_hint_render.0--plan/chat.md) |
+| <a id="member-1"></a>1 | toobig-4h.agent\_display\_hint\_render.0--1 | dismissed | — | 2026-08-27T18:00:26 | 0 | — | — |
+| <a id="member-plan"></a>plan | toobig-4h.agent\_display\_hint\_render.0--plan | dismissed | — | 2026-08-27T11:11:23 | 0 | — | — |
 | <a id="member-mon"></a>mon | toobig-4h.agent\_display\_hint\_render.0--mon | failed | sonnet / claude | 2026-08-27T21:57:19.657064+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-4h.agent_display_hint_render.0--mon/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| 1 | sase | [`d78f5cf`](https://github.com/sase-org/sase/commit/d78f5cf516478c7d9dbdeb6fe9ab9d15e53e18a8) | refactor(tui): split \_agent\_display\_hint\_render.py into four files | 2026-08-27 18:11:54 EDT |
 
 ## Neighbors
 
@@ -36,8 +30,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [toobig-4h.app.0](../agents/bbugyi200.athena.toobig-4h.app.0/README.md) | toobig-4h hood | completed |
 | [toobig-4h.done\_loaders.0](../agents/bbugyi200.athena.toobig-4h.done_loaders.0/README.md) | toobig-4h hood | completed |
 | [toobig-4h.init.0](bbugyi200.athena.toobig-4h.init.0.md) (family · 9) | toobig-4h hood | completed 5, failed 4 |
-| [toobig-4h.plan\_gate.0](../agents/bbugyi200.athena.toobig-4h.plan_gate.0/README.md) | toobig-4h hood | active |
+| [toobig-4h.plan\_gate.0](../agents/bbugyi200.athena.toobig-4h.plan_gate.0/README.md) | toobig-4h hood | completed |
 | [toobig-4h.test\_ace\_png\_snapshots\_agents\_family\_panel.0](../agents/bbugyi200.athena.toobig-4h.test_ace_png_snapshots_agents_family_panel.0/README.md) | toobig-4h hood | waiting |
-| [toobig-4h.test\_artifacts\_relation\_collapse.0](../agents/bbugyi200.athena.toobig-4h.test_artifacts_relation_collapse.0/README.md) | toobig-4h hood | waiting |
+| [toobig-4h.test\_artifacts\_relation\_collapse.0](../agents/bbugyi200.athena.toobig-4h.test_artifacts_relation_collapse.0/README.md) | toobig-4h hood | active |
 | [toobig-4h.test\_github\_actions\_ci.0](../agents/bbugyi200.athena.toobig-4h.test_github_actions_ci.0/README.md) | toobig-4h hood | waiting |
 | [toobig-4h.test\_suite\_gate\_integration.0](../agents/bbugyi200.athena.toobig-4h.test_suite_gate_integration.0/README.md) | toobig-4h hood | waiting |

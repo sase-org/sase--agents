@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ac40ee6b9f59ef2246b705e756c9a951"}
+{"commits":[{"committed_at":1787874330,"sha":"9ec2a7f5218f8aa897c9c870db6c1fd44593b4cf","subject":"test(ace): split artifact relation collapse tests"}],"schema_version":2,"source_run_id":"run-ac40ee6b9f59ef2246b705e756c9a951"}
