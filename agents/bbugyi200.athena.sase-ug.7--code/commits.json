@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-be9056688de79617aef4b43f149eba15"}
+{"commits":[{"committed_at":1787802335,"sha":"d07028050cb831849d1e666ab267a39223779f9b","subject":"feat(tui): add link-follow key grammar"}],"schema_version":2,"source_run_id":"run-be9056688de79617aef4b43f149eba15"}

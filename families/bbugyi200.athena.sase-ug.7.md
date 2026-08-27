@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-ug.7--plan | active | opus / claude | 2026-08-27T02:27:13.894206+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ug.7--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ug.7--plan/chat.md) |
-| <a id="member-code"></a>code | sase-ug.7--code | active | gpt-5.5 / codex | 2026-08-27T02:39:55.096565+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-ug.7--code | active | gpt-5.5 / codex | 2026-08-27T02:39:55.096565+00:00 | [1](../agents/bbugyi200.athena.sase-ug.7--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`d070280`](https://github.com/sase-org/sase/commit/d07028050cb831849d1e666ab267a39223779f9b) | feat(tui): add link-follow key grammar | 2026-08-26 23:45:35 EDT |
 
 ## Neighbors
 

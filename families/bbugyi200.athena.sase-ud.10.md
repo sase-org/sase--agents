@@ -1,15 +1,15 @@
-# Family: sase-ud.3
+# Family: sase-ud.10
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-ud](../users/bbugyi200/machines/athena/hoods/sase-ud/README.md) / sase-ud.3
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-ud](../users/bbugyi200/machines/athena/hoods/sase-ud/README.md) / sase-ud.10
 
-Owner: `bbugyi200.athena` · Hood: `sase-ud` · Members: 2 · Bead: [sase-ud.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ud/sase-ud.3.md)
+Owner: `bbugyi200.athena` · Hood: `sase-ud` · Members: 2 · Bead: [sase-ud.10](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ud/sase-ud.10.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-ud.3--code [completed]"]
-  n1["sase-ud.3--plan [completed]"]
+  n0["sase-ud.10--code [active]"]
+  n1["sase-ud.10--plan [active]"]
   n0 --> n1
 ```
 
@@ -17,26 +17,20 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-ud.3--code | completed | gpt-5.5 / codex | 2026-08-26T20:06:57.914329+00:00 → 2026-08-26T20:54:55.691960+00:00 | [1](../agents/bbugyi200.athena.sase-ud.3--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-ud.3--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-ud.3--plan | completed | opus / claude | 2026-08-26T19:56:51.137974+00:00 → 2026-08-26T20:54:55.691960+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.3--plan/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| code | sase | [`1cb772d`](https://github.com/sase-org/sase/commit/1cb772d9c38e648f432460e0a097e78e4ef06df6) | feat(gate): add gate shell lifecycle | 2026-08-26 16:52:30 EDT |
+| <a id="member-code"></a>code | sase-ud.10--code | active | sonnet / claude | 2026-08-27T03:03:12.654275+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-ud.10--plan | active | opus / claude | 2026-08-27T02:48:28.442125+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.10--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.10--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ud.1](../agents/bbugyi200.athena.sase-ud.1/README.md) | sase-ud hood | completed |
-| [sase-ud.10](bbugyi200.athena.sase-ud.10.md) (family · 2) | sase-ud hood | active 2 |
 | [sase-ud.11](../agents/bbugyi200.athena.sase-ud.11/README.md) | sase-ud hood | waiting |
 | [sase-ud.12](../agents/bbugyi200.athena.sase-ud.12/README.md) | sase-ud hood | waiting |
 | [sase-ud.13](../agents/bbugyi200.athena.sase-ud.13/README.md) | sase-ud hood | waiting |
 | [sase-ud.14](../agents/bbugyi200.athena.sase-ud.14/README.md) | sase-ud hood | waiting |
 | [sase-ud.2](bbugyi200.athena.sase-ud.2.md) (family · 6) | sase-ud hood | completed 4, failed 2 |
+| [sase-ud.3](bbugyi200.athena.sase-ud.3.md) (family · 2) | sase-ud hood | completed 2 |
 | [sase-ud.4](../agents/bbugyi200.athena.sase-ud.4/README.md) | sase-ud hood | completed |
 | [sase-ud.5](../agents/bbugyi200.athena.sase-ud.5/README.md) | sase-ud hood | completed |
 | [sase-ud.6](bbugyi200.athena.sase-ud.6.md) (family · 2) | sase-ud hood | completed 2 |

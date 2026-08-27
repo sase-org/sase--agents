@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ud](../../users/bbugyi200/machines/athena/hoods/sase-ud/README.md) / sase-ud.8
 
-**Global name:** `bbugyi200.athena.sase-ud.8` · **State:** active · **Source run:** `run-85e2a364c835ffb5e64fed07466f07b9`
+**Global name:** `bbugyi200.athena.sase-ud.8` · **State:** completed · **Source run:** `run-85e2a364c835ffb5e64fed07466f07b9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ud
 
@@ -12,12 +12,12 @@
 - Epic: [sase-ud](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ud/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-27T01:29:42.027974+00:00
+- Timing: 2026-08-27T01:29:42.027974+00:00 → 2026-08-27T02:48:02.401261+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -30,7 +30,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ud.1](../bbugyi200.athena.sase-ud.1/README.md) | sase-ud hood | completed |
-| [sase-ud.10](../bbugyi200.athena.sase-ud.10/README.md) | sase-ud hood | waiting |
+| [sase-ud.10](../../families/bbugyi200.athena.sase-ud.10.md) (family · 2) | sase-ud hood | active 2 |
 | [sase-ud.11](../bbugyi200.athena.sase-ud.11/README.md) | sase-ud hood | waiting |
 | [sase-ud.12](../bbugyi200.athena.sase-ud.12/README.md) | sase-ud hood | waiting |
 | [sase-ud.13](../bbugyi200.athena.sase-ud.13/README.md) | sase-ud hood | waiting |

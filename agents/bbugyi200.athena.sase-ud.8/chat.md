@@ -1,0 +1,290 @@
+# Chat History - ace-run (sase-ud.8)
+
+- **TIMESTAMP:** 2026-08-26 22:47:51 EDT
+- **MODEL:** claude/sonnet
+- **AGENT:** sase-ud.8
+
+## Prompt
+
+#gh:gh_sase-org__sase
+%id(8, clan=sase-ud, bead=sase-ud.8)
+%model:@medium
+%auto
+%w:sase-ud.7
+%w(bead=sase-ud.7)
+Can you complete the work for bead sase-ud.8? The bead is already reserved for you and assigned to your agent
+name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
+checkpoint or by the runtime promoting an ad-hoc wait-time claim. Do not set the status by hand. Read its
+description and design file, do the work, and close only this bead with
+`sase bead close sase-ud.8 --note "<what you verified>"`. Before closing, run
+`sase bead epic-symbols sase-ud.8`. If this phase still has `--epic-symbol` entries, resolve each symbol or
+re-key the Justfile line to a still-open bead (the parent epic or a later phase). `sase bead close` refuses while
+leftovers remain; they go stale the instant this phase closes and turn unrelated agents' `just check` red. Closing
+an assigned phase bead is unaffected by the parent-close descendant guard. Do NOT close the parent epic or any ancestor plan bead. Any instruction in a phase
+description or child plan to close an ancestor is preparation and evidence for that ancestor's land agent, not
+authorization for a phase worker. Do not create beads yourself: record discovered follow-up work as a
+`PROPOSED FOLLOW-UP:` entry via
+`sase bead note sase-ud.8 'PROPOSED FOLLOW-UP: <one-line summary — detail>'`; the epic's land agent triages
+these into task beads.
+
+## Response
+
+I'll start by reading the bead details for sase-ud.8.
+
+Let me continue reading the plan file to find the specific section for phase `gate-fork-cli` (sase-ud.8).
+
+Good, no epic-symbol leftovers to worry about for closing. Now let's explore the current state of the codebase relevant to this phase.
+
+Now let's look at the analogous monitor CLI for list/show/stop to mirror it.
+
+Now let's look at `family.py` where individual family members get rendered, since that's where the "AGENT" vs "PROC" (monitor) header per member is likely built.
+
+Now let's check the `settlement.py` to see exactly what metadata fields get written on settle (especially `chat_path`, `gate_state`, `agent_family_role`).
+
+Now I'll implement the `#fork` classification for gate shells. Let's check the `is_success_outcome`/status text used for pending vs the design's "excluded as running" rule once more, then edit.
+
+Now let's update `family.py` to render gate-shell members with a distinct label.
+
+I need to fix the call to pass `visited`/`load_resume_history`, and define the helper.
+
+No `__all__` lists in these modules, so no export list to update. Now let's write tests mirroring the monitor family test file.
+
+Now let's write the test file for gate-shell family members.
+
+Let's fix the test to use `build_fork_injected_history` from `sase.history.chat`.
+
+I'll continue reading other files while `just install` runs in the background.
+
+Let's look at `_surfaces.py` and `_cases.py` to understand the "capabilities" and "surfaces" model, since we need to add a "shell" dimension.
+
+Good, `Any` already imported and the type error is resolved; only the benign pre-existing-style `_adapter` unused-var hint remains. Now let's check `just install` progress.
+
+Now let's add `resolve_gate_shell_ref` to `store.py`.
+
+Now let's write `cancel.py`.
+
+Now let's check on the `just install` background progress before continuing to write more code.
+
+Still running (likely a cargo build). Let's continue with the CLI parser and handler additions.
+
+Now let's add the `_register_list_parser` and `_register_cancel_parser` functions, plus update `_register_show_parser` to accept an optional positional ref alongside the existing `--id`/`--kind` contract.
+
+Now let's view the rest of the show parser to update the `-k`/`--kind` required flag.
+
+Now let's insert `_register_cancel_parser` right before `_register_answer_parser` (to keep alphabetical: act, answer, cancel, create...). Actually alphabetically cancel comes after answer, so insert after answer's function ends (line 238, before `_register_create_parser`).
+
+`just install` finished. Let me continue wiring up the handler, then run tests.
+
+Now let's fix `cli_show.py`'s imports to use the new projection function.
+
+Now let's add the `_print_gate_shell_runtime` function, placed near `_print_shell`.
+
+Now let's replace `_gate_shell_json` entirely with the shared projection, and fix the other call sites.
+
+Let me fix the remaining references using sed for consistency and precision.
+
+Now fix the `__all__` entry and remove the unused `_effective_label`/`short_gate_shell_id` if now unused. Let's check.
+
+Good, both still used. Now let's fix `__all__`.
+
+Now let's write `src/sase/main/gate_shell_handler.py`.
+
+Now let's actually run the test suite to validate everything compiles and works.
+
+All modules import cleanly. Now let's run the fork classification tests and the mobile action tests.
+
+Also clean up the now-redundant write in the second test for consistency (harmless but let's simplify).
+
+All 36 tests pass. Now let's run the mobile notification action tests and gate_shell tests.
+
+All existing mobile gate tests still pass with the fix. Now let's run the existing gate_shell and gate_conformance test suites.
+
+All existing tests still pass. Now let's build the shell dimension for the conformance matrix. Let's check `make_starter_agent`/`write_project_file` in `tests/monitor/_fixtures.py`.
+
+Now let's run the full existing conformance matrix to make sure this change doesn't break anything.
+
+Let's run this new test.
+
+Good, that exists. Let's fix the `bundle_path` type issue too.
+
+Also fix the unused `_kwargs` lint hint by using `**_kwargs` properly (it's fine as a throwaway, but let's check the convention used elsewhere — `test_followup_launch.py` uses `**kwargs: Any` without underscore). Let's match that style.
+
+This new test genuinely catches the exact mobile bug I fixed, and passes with the fix in place. Now let's write the remaining `sase gate list`/`show`/`cancel` CLI tests, then move to R6 checks and the skill rewrite.
+
+All pass. Now let's write the cancel handler test.
+
+All 5 pass. Now let's write the `sase gate show` extension tests.
+
+There's already a `tests/test_gate_cli_show.py`. Let's read it to extend it consistently.
+
+All existing tests pass unchanged. Now let's append new tests for the shell-ref extension.
+
+Now let's run the full file to check everything, including my new additions.
+
+All 9 pass. Now let's run the broader test suite for everything touched so far to catch regressions, then move to R6 and the skill rewrite.
+
+All 203 pass. Now let's tackle R6: checking `sase-telegram`, mobile bridge rendering, and `sase agent search`'s `shell:gate` token.
+
+While that research runs in the background, let's start on the `/sase_gate` skill rewrite. Let's read the generated_skills.md reference memory and the current skill template.
+
+Now let me research each of the three items in parallel.
+
+Now let's write the rewritten skill sections. First, let's check the CLI create flags once more precisely for accuracy (already read earlier), and then edit the file.
+
+Ruff is clean. Let's run mypy on the same set.
+
+Excellent, both clean. Let's check on the R6 research agent.
+
+Still running. Let's use this time to run the scoped test suite (`just check`) to validate the broader change set while we wait.
+
+Let's auto-format with `just fmt`.
+
+`just fmt` reformatted the files as expected. Let's re-run `just check`.
+
+Now let's examine the mobile bridge's rendering of gates.
+
+Both are still running in the background. I'll wait for notifications rather than poll.
+
+`just check` completed successfully. Let's view the output.
+
+Let's delete the dead functions and fix imports.
+
+Now let's remove `gate_shell_detail` and fix `__all__`.
+
+Now let's verify no other stale references and re-run ruff/mypy plus the affected test files.
+
+Clean. Now let's re-run the full `just check` to confirm symvision and everything else passes.
+
+All still passing. Let's re-run `just check` in the background to confirm the symvision fix resolves the failure.
+
+Let's check on the R6 research agent while that runs.
+
+This all looks correct and consistent. Now let's check on the R6 research agent again.
+
+This all looks solid. Let's check the background `just check` progress.
+
+Good — this confirms phases through `gate-followup` (sase-ud.7) have landed, and I'm now on `sase-ud.8` (gate-fork-cli). This matches everything I found. Now let me do one final check on the `role:` field's static_values and confirm the `sase agent search` finding is complete, plus check `find_gate_shell_by_gate_id`'s scope note in mobile actions about "best-effort" to round out item 2.
+
+I have enough to write a complete, well-evidenced report now.
+
+Good, confirmed accurate. Let's check the background `just check` progress now.
+
+I'll wait for the background test run and research agent to complete before proceeding further.
+
+This is clean and well-scoped. Let's check on both async tasks again.
+
+Let's continue reviewing while waiting — checking the `main/gate_shell_render.py` final state end-to-end for consistency.
+
+This is clean and complete. Now let's check background progress once more.
+
+## Summary of Findings — R6 research for `gate-fork-cli` (sase-ud.8)
+
+### 1. `sase agent search`'s shell/kind filter tokens — **no `shell:` token exists for ANY shell kind; adding one is real, moderate new code**
+
+**What I found:**
+
+- `sase agent search`'s query dialect is defined in `src/sase/ace/query_profile/profiles/_agents.py:41-195` (`agents_query_schema()`). Its complete field list is: `kind`, `tribe`, `state`, `status`, `provider`, `relation`, `name`, `family`, `clan`, `project`, `artifact`, `role`, `workflow`, `parent`, `model`, `hidden`, `dismissed`, `revivable`, `attention`, `retry`, `linked`, `since`, `until`, `after`, `before`, `min`, `max`, `attempt`, `label`, `text`. **There is no `shell` field at all**, and no existing token distinguishes proc/monitor/gate shells.
+- `kind:` (`_AGENT_KIND_VALUES` at `_agents.py:10-17`) is a *different* classification — `agent`, `member`, `family`, `clan`, `workflow`, `workflow-child` — structural, not shell-kind related.
+- The nearest existing proxy is `role:` (`_agents.py:112-116`, hint `static_values=("code", "plan", "mon")`). This field is populated purely structurally by `family_and_role()` in `src/sase/agents/catalog/_family.py:18-30`: it takes the alphabetic prefix of a member's `--`-suffix (e.g. `acme--mon-0` → `role="mon"`). It has **zero awareness of `shell_kind`/`is_monitor`/`agent_family_role`** — it's just string parsing of the name. Because of that, `role:mon` already incidentally filters monitor shells today with no shell-specific code, and once gate shells land with the `--gate` suffix (already true — `gate-shell` phase, landed as `sase-ud.5`/`sase-ud.6`, allocates `--gate`, `--gate-0`, …), `role:gate` will **already work with zero additional code**, the same way. (Cosmetic-only fix, if wanted: add `"gate"` to the hint tuple at `_agents.py:114`.)
+- A literal `shell:` token (e.g. `shell:gate`, `shell:proc`) does **not** exist and is **not** free. `AgentCatalogRow` (`src/sase/agents/catalog/_models.py:13-48`) has no `shell_kind` field, and the SQLite projection in `src/sase/agents/catalog/_sources.py` (`_ARTIFACT_INDEX_COLUMNS`, lines 22-42) deliberately does **not** select `shell_kind`/`agent_family_role`/`monitor_id`/`gate_id` from the artifact index (comment: "Only the columns the catalog's kind/attribute derivation actually needs... never SELECT *"). Those columns exist elsewhere in the wire schema (`AgentMetaWire.shell_kind`/`agent_family_role`/`gate_id` at `src/sase/core/agent_scan_wire_markers.py:188,234,288`, already used by ACE's `agent_family_members.py` and the new `gate_shell/` package) but are simply not projected into this particular catalog.
+
+**Concrete cost to add a real `shell:` token:** touch ~4 files, each a small addition:
+1. `src/sase/agents/catalog/_sources.py` — add `shell_kind` (and maybe `agent_family_role`) to `_ARTIFACT_INDEX_COLUMNS` and `ArtifactIndexRecord`.
+2. `src/sase/agents/catalog/_models.py` — add `shell_kind: str | None` to `AgentCatalogRow`.
+3. `src/sase/agents/catalog/_build.py` — populate it in `_build_row` (`_first(index_record.shell_kind if index_record else None, ...)`, mirroring the existing `workflow`/`model` pattern at lines 200-218).
+4. `src/sase/agents/catalog/_query.py` — add `_add_if_present(fields, "shell", row.shell_kind)` in `agent_catalog_query_entry` (near line 106-114).
+5. `src/sase/ace/query_profile/profiles/_agents.py` — add a `QueryFieldSpec(key="shell", value_kind="enum", static_values=("proc", "gate"), ...)`.
+
+Note also: monitors have `shell_kind: "proc"` (not `"monitor"` — per the epic's own "Verified against the tree" note), so `shell:proc` would match plain proc shells *and* monitor shells together; `shell:gate` is the only genuinely new distinguishing value.
+
+**Verdict:** real gap, not free, but cheap (~20-30 lines across 4-5 files, no new concepts, following established patterns in the same files). This is the kind of thing `gate-fork-cli` could plausibly just do, or file as a small follow-up task bead — your call, but it is *not* already implemented anywhere, contrary to a "maybe `role:` already covers it" hope (it only covers it informally/coincidentally, not under the `shell:` name the epic text specifically asks about).
+
+### 2. Mobile bridge rendering of gate-shell pending status — **confirmed: nothing missing, and the answer/settle path is already gate-shell aware**
+
+**What I found:**
+
+- `MobileNotificationBridgeRow` (`src/sase/integrations/_mobile_notification_models.py:17-36`) and its builder `_bridge_row()` (`src/sase/integrations/_mobile_notification_snapshot.py:77-105`) are a **generic** projection of `Notification` (id, timestamp, sender, priority, icon, notes, files, action, action_state, action_data, read/dismissed/silent/muted/snooze_until). Nothing gate-shell-specific is or could be surfaced here without new code.
+- Crucially, the underlying `Notification` a gate produces is built by `_build_notification()` in `src/sase/notification_gates/service.py:321-392`, entirely from `spec.presentation` (title, notes, chip, panel, icon, action_data). **There is no branch on `spec.shell is not None` anywhere in that function** — a shell-backed gate's notification is byte-for-byte the same shape as a plain gate's. This confirms your hypothesis directly: title/notes/options are unaffected by shell-ness, so mobile renders a pending shell gate exactly like any other pending gate, because the "shell" bookkeeping (creator handoff, workspace-claim transfer) is agent-side plumbing that happens *before* the notification is even published (per the epic's own ordering rule: publish notification at step 4, kill creator at step 5) — there is no separate lifecycle state for the human to see.
+- The mobile **answering** path is already gate-shell aware: `execute_mobile_gate_action()` in `src/sase/integrations/_mobile_notification_actions.py:47-125` explicitly checks `envelope.get("shell")` (line 81), resolves the `GateShellRecord` via `find_gate_shell_by_gate_id` (line 82-86), binds `bind_gate_shell_execution_callbacks` (line 87-91) so live output streams to `gate.log` the same as any other surface, and calls `settle_gate_shell(gate_shell, gate_state="answered", ...)` after execution (line 114-115). This mirrors the CLI's own `notification_gates/cli_answer.py:142-177` implementation nearly line for line — this glue already landed (git log shows it as part of `sase-ud.7`/earlier phases already merged).
+
+**Verdict:** confirmed non-gap. Nothing to add. The notification's title/description already convey the gate's purpose and status, and gate-shell runtime state (workspace claim, creator-kill ordering, follow-up policy) is agent-facing operational detail with no mobile-actionable use — and the one place mobile *does* act (answering), it already fully participates in gate-shell settlement. Worth a one-line note in whatever `gate-fork-cli` writes up: this was already handled by earlier phases, no new code and no follow-up bead needed for mobile.
+
+### 3. `sase-telegram` plugin — **architecturally: same shared bundles/executor as everyone else; answering almost certainly already works; recommend a cheap verification-only follow-up bead rather than assuming**
+
+**What I found (from within this repo only, no `/sase_repo`):**
+
+- `sase-telegram` is described generically in `sase/memory/sase.md:51-52` as "Telegram integration plugin for chat-driven SASE workflows and notifications" — no architectural detail there.
+- This repo marks exactly 3 Python symbols as cross-repo-consumed by `sase-telegram` via Symvision URI pragmas (`# symvision: https://github.com/sase-org/sase-telegram.git`, found via `grep -rl "sase-telegram.git" src/sase`):
+  - `status_bucket_header()` — `src/sase/integrations/agent_status_groups.py:19` (shared status-label text formatting)
+  - `humanize_safe_stem()` — `src/sase/project_display_names.py:449` (display-name formatting)
+  - `merge_transport_record()` — `src/sase/notifications/pending_actions.py:131` (lets Telegram persist its own `chat_id`/`message_id` per notification for later message edits)
+  
+  None of these touch gate answering/settlement — consistent with Telegram going through the CLI for that (see below), not importing gate-execution internals directly.
+- `docs/notifications.md:1061-1064` states plainly: "ACE, Telegram, and mobile derive gate-kind capabilities from the shared adapter registry and render branches in query order from the same normalized envelope structure" — i.e. Telegram is **not** a bespoke rendering system; it consumes the same v2 gate bundle/envelope (`request.json`) as ACE. `docs/notifications.md:1231-1233` reiterates: "The same rule runs inside the shared executor for every caller — ACE, mobile, Telegram, and `sase gate answer` alike."
+- The historical `sase/repos/plans/202607/telegram_generic_gate_support.md` (status: done) confirms Telegram reads the exact same envelope/`action_data` shape ACE does (it quotes a live `TaskTriage` envelope verbatim) and is driven by the same `GateAdapter` registry (`sase.notification_gates.adapters`) — this landed epic already eliminated Telegram's hardcoded per-kind allowlists in favor of registry lookups, which is direct evidence of tight architectural coupling to this repo's gate model, not an independent implementation.
+- **How does ACE itself answer gates?** I checked, expecting it might call `execute_gate_selection()` directly (in which case Telegram doing the same would bypass the new gate-shell settlement glue). It does **not**: `src/sase/ace/tui/actions/agents/_notification_gate_execution.py:82-85` shells out to `sase_argv("gate", "answer", "--id", request_id, "--kind", request_kind, "--json")` — i.e. even ACE, a first-party surface in this same repo, answers gates by invoking the `sase gate answer` CLI as a subprocess, not by calling the executor Python API directly. Only the mobile bridge (`_mobile_notification_actions.py`) reimplements the settlement glue in Python, presumably because it's itself a subprocess bridge already speaking JSON over stdio and can't easily shell out to another CLI from there.
+- The epic plan's own text (`/home/bryan/.sase/plans/202608/gate_shells.md`, `gate-exec` phase) says twice that the *CLI's* `--json` contract staying unchanged is "what keeps `tests/gate_conformance/` and `sase-telegram` green" — `--json` is specifically an argparse flag on `sase gate answer`, which only makes sense if Telegram invokes that CLI (a raw Python `execute_gate_selection()` call has no `--json` flag). This is strong circumstantial evidence (from the epic author's own verified-against-the-tree diligence) that Telegram shells out to `sase gate answer` the same way ACE does.
+
+**Putting it together:** the CLI (`notification_gates/cli_answer.py:142-177`) already has the full shell-check-then-settle glue. If Telegram answers gates via that CLI (as the evidence above strongly suggests), then **answering a shell gate from Telegram already settles it correctly and launches its follow-up, with zero code changes needed anywhere**. Telegram's rendering is also unaffected, per the same `_build_notification()` finding as item 2 (the `shell` block is additive-only and invisible to existing formatters).
+
+**Verdict — cannot fully verify without opening `sase-telegram`, which this research task was told not to do.** My confidence that "no code change is needed" is high but not certain — it rests on an inference about *how* Telegram's `gate_flow.py`/`inbound.py` call into gate execution, not a direct read of that code. **Recommendation for `gate-fork-cli`:** file one small, cheap task bead (via `/sase_new_task`) scoped to *just* opening `sase-telegram` and confirming whether `inbound.py`/`gate_flow.py`/`sase_tg_inbound.py` invoke `sase gate answer` as a subprocess (in which case: close with no action) versus call `execute_gate_selection`/the executor Python API directly (in which case: it needs the same `shell_backed` → `bind_gate_shell_execution_callbacks` → `settle_gate_shell` glue added there, mirroring `_mobile_notification_actions.execute_mobile_gate_action`, a change in the sidecar repo, not this one). This is a 10-minute grep-and-confirm task, not a research-heavy one — appropriately sized as a follow-up rather than something to "handle" speculatively in `gate-fork-cli` itself.
+
+Excellent research. Let's implement the cheap `shell:` search token first. Let's look at the exact files.
+
+The main `sase` repo's `just check` finished. Let's check that first, then continue with sase-telegram setup.
+
+Now let's update the test's expected phrases for `sase_gate` to reflect the intentional content change.
+
+Now let's fix the second failure: `test_notify_handler.py::test_parser_registers_gate_create_wait_options_and_help`.
+
+Only the subcommand-list assertion needs updating. Let's fix it.
+
+Both fixed. Now let's finish the sase-telegram fix — set up its environment and add/run tests.
+
+Installed successfully with the local `sase` checkout. Now let's run the existing gate tests to make sure my fix doesn't break anything.
+
+Now let's re-run the test suite.
+
+Confirmed: the test genuinely catches the pre-fix bug. Let's now run ruff/mypy in the sase-telegram repo for the changed files.
+
+Now let's run mypy and the full test suite for this repo.
+
+All 582 tests pass (excluding the 2 pre-existing environmental failures unrelated to my change). The sase-telegram fix is complete and verified. Let's check `just check` there too since it's the repo's own gate.
+
+Now let's return to the main sase repo and file the confirmed non-cheap `shell:` search token gap as a follow-up task.
+
+While that runs, let's file the follow-up task bead for the `shell:` search token gap.
+
+I'm a phase worker for this epic — the correct path is a `PROPOSED FOLLOW-UP:` note on my own phase bead, not a new task bead via `/sase_new_task`. Let me do that instead.
+
+Good, still running (typo in my first path). Let's wait for the notification.
+
+Confirmed: sase-core is clean (read-only), sase-telegram has real changes needing a commit decision at final declaration. Let's go back to the main repo and check on the background check run.
+
+Let's wait for the check to complete rather than keep polling.
+
+This all looks solid. Let's check on the check run.
+
+Good, still clean. Let's wait for the check results notification now.
+
+I'll stop polling and wait for the background task notification to arrive.
+
+I've completed the core implementation for sase-ud.8 (gate-fork-cli) and am now waiting on a full `just check` run to finish before closing the bead. Summary so far:
+
+- Added `#fork` classification for gate shells (`kind="gate"` label, family fork tests)
+- Added `sase gate list`/`sase gate cancel`, extended `sase gate show` with runtime fields and ref resolution
+- Added a shell dimension to `tests/gate_conformance/`, which caught a **real bug**: the mobile bridge never settled shell-backed gates — fixed in `_mobile_notification_actions.py`
+- R6 checks: confirmed the same bug existed in the linked `sase-telegram` repo and fixed it there too (with regression tests); confirmed mobile notification rendering needs no changes; filed a `PROPOSED FOLLOW-UP` note on the phase bead for the `shell:` search token (needs a sase-core schema change, out of scope for this phase)
+- Rewrote the `/sase_gate` skill template for the gate-shell contract
+
+Let me wait for the final verification run to complete.
+
+I'll stop actively polling now and wait for the background task notification.
+
+I'll pause here and wait for the `just check` background run to finish before proceeding to close the bead.
+
+Final declaration submitted for both repos. I'm pausing now to wait for the `just check` verification run to complete — I'll close the bead once I've confirmed it's clean.
+
+I've committed the work in both repos and am now waiting for the `just check` background run to finish. I'll close bead sase-ud.8 once verification passes.
+
+Work for this turn is committed and the final declaration is submitted. I'll pick back up once the `just check` background run notifies me, then close bead sase-ud.8.
