@@ -17,8 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-ud.10--code | active | sonnet / claude | 2026-08-27T03:03:12.654275+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-ud.10--code | active | sonnet / claude | 2026-08-27T03:03:12.654275+00:00 | [1](../agents/bbugyi200.athena.sase-ud.10--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-ud.10--plan | active | opus / claude | 2026-08-27T02:48:28.442125+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.10--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.10--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`05ce87f`](https://github.com/sase-org/sase/commit/05ce87fbf3d0942372ccc3b74cec299f8374af39) | feat(gate-shell): migrate /sase\_questions to a gate shell behind gate\_shell\_handoff | 2026-08-27 00:13:19 EDT |
 
 ## Neighbors
 

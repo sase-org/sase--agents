@@ -13,7 +13,13 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-27T03:03:12.654275+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`05ce87f`](https://github.com/sase-org/sase/commit/05ce87fbf3d0942372ccc3b74cec299f8374af39) | feat(gate-shell): migrate /sase\_questions to a gate shell behind gate\_shell\_handoff | 2026-08-27 00:13:19 EDT |
 
 ## Neighbors
 
