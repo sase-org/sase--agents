@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-bab024c54b9032b5a50a1cc58ff1bb0f"}
+{"commits":[{"committed_at":1787861801,"sha":"a615273b13a5e0615ddbbc6a6c3747c58c19f8f8","subject":"feat(tui): hydrate list-shaped artifact records"}],"schema_version":2,"source_run_id":"run-bab024c54b9032b5a50a1cc58ff1bb0f"}

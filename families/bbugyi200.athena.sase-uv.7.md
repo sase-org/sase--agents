@@ -21,7 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-uv.7--plan | active | opus / claude | 2026-08-27T18:37:06.625811+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-uv.7--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-uv.7--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-uv.7--gate | failed | opus / claude | 2026-08-27T18:49:52.293726+00:00 → 2026-08-27T18:50:04.002144+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-uv.7--gate/chat.md) |
-| <a id="member-code"></a>code | sase-uv.7--code | active | gpt-5.5 / codex | 2026-08-27T18:51:37.511311+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-uv.7--code | active | gpt-5.5 / codex | 2026-08-27T18:51:37.511311+00:00 | [1](../agents/bbugyi200.athena.sase-uv.7--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`a615273`](https://github.com/sase-org/sase/commit/a615273b13a5e0615ddbbc6a6c3747c58c19f8f8) | feat(tui): hydrate list-shaped artifact records | 2026-08-27 16:16:41 EDT |
 
 ## Neighbors
 
