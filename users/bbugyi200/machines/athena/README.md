@@ -857,7 +857,7 @@
 | [ce](hoods/ce/README.md) | 2 | 1 | active 1, completed 1 |
 | [cf](hoods/cf/README.md) | 2 | 1 | active 1, completed 1 |
 | [cg](hoods/cg/README.md) | 2 | 1 | active 1, completed 1 |
-| [chop](hoods/chop/README.md) | 115 | 2 | active 74, completed 4, dismissed 10, failed 1, waiting 26 |
+| [chop](hoods/chop/README.md) | 115 | 2 | active 74, completed 5, dismissed 10, failed 1, waiting 25 |
 | [ci\_fix](hoods/ci_fix/README.md) | 35 | 0 | active 17, dismissed 15, waiting 3 |
 | [cj](hoods/cj/README.md) | 2 | 1 | active 1, completed 1 |
 | [cl](hoods/cl/README.md) | 2 | 1 | active 1, completed 1 |
