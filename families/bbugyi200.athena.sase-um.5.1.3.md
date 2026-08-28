@@ -121,7 +121,7 @@ flowchart TD
   n0 --> n55
   n56["sase-um.5.1.3--mon-4 [failed]"]
   n0 --> n56
-  n57["sase-um.5.1.3--x [active]"]
+  n57["sase-um.5.1.3--x [completed]"]
   n0 --> n57
   n58["sase-um.5.1.3--mon-l [failed]"]
   n0 --> n58
@@ -204,7 +204,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-3"></a>3 | sase-um.5.1.3--3 | completed | gpt-5.5 / codex | 2026-08-28T00:43:15.798639+00:00 → 2026-08-28T00:45:10.351852+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--3/chat.md) |
 | <a id="member-mon-9"></a>mon-9 | sase-um.5.1.3--mon-9 | failed | gpt-5.5 / codex | 2026-08-28T02:14:18.611622+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--mon-9/chat.md) |
 | <a id="member-mon-4"></a>mon-4 | sase-um.5.1.3--mon-4 | failed | gpt-5.5 / codex | 2026-08-28T01:10:29.078911+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--mon-4/chat.md) |
-| <a id="member-x"></a>x | sase-um.5.1.3--x | active | gpt-5.5 / codex | 2026-08-28T07:13:14.074375+00:00 | [1](../agents/bbugyi200.athena.sase-um.5.1.3--x/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--x/prompt.md) | — |
+| <a id="member-x"></a>x | sase-um.5.1.3--x | completed | gpt-5.5 / codex | 2026-08-28T07:13:14.074375+00:00 → 2026-08-28T07:17:41.999328+00:00 | [1](../agents/bbugyi200.athena.sase-um.5.1.3--x/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--x/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--x/chat.md) |
 | <a id="member-mon-l"></a>mon-l | sase-um.5.1.3--mon-l | failed | gpt-5.5 / codex | 2026-08-28T04:45:54.823858+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--mon-l/chat.md) |
 | <a id="member-9"></a>9 | sase-um.5.1.3--9 | completed | gpt-5.5 / codex | 2026-08-28T01:59:26.159162+00:00 → 2026-08-28T02:01:28.047628+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-um.5.1.3--9/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--9/chat.md) |
 | <a id="member-mon-f"></a>mon-f | sase-um.5.1.3--mon-f | failed | gpt-5.5 / codex | 2026-08-28T03:30:06.404449+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-um.5.1.3--mon-f/chat.md) |
@@ -235,7 +235,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-um.5](bbugyi200.athena.sase-um.5.md) (family · 2) | ancestor | failed 2 |
 | [sase-um.5.1.1](../agents/bbugyi200.athena.sase-um.5.1.1/README.md) | sase-um.5.1 hood | completed |
 | [sase-um.5.1.2](../agents/bbugyi200.athena.sase-um.5.1.2/README.md) | sase-um.5.1 hood | completed |
-| [sase-um.5.1.land](../agents/bbugyi200.athena.sase-um.5.1.land/README.md) | sase-um.5.1 hood | waiting |
+| [sase-um.5.1.land](bbugyi200.athena.sase-um.5.1.land.md) (family · 7) | sase-um.5.1 hood | active 1, completed 2, failed 3, waiting 1 |
 | [sase-um.1](bbugyi200.athena.sase-um.1.md) (family · 2) | sase-um hood | completed 2 |
 | [sase-um.2](bbugyi200.athena.sase-um.2.md) (family · 2) | sase-um hood | completed 2 |
 | [sase-um.3](../agents/bbugyi200.athena.sase-um.3/README.md) | sase-um hood | completed |
