@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase Can you help me add support to the `sase bead show` command for the ability to read beads from any enabled sase project, regardless of what directory that that command is run from? For example, running `sase bead show bob-cli-1e` from the `~/projects/github/sase-org/sase` directory should work just fine (i.e. should display the bob-cli-1e bead from the bob-cli project).
+
+#plan #m_opus
