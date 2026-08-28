@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase Something appears to be going on with sase node statuses (they take way too long to update). The `sase-ud.13.1.4` sase agent shown in #sshot, for example, is already done, but is still showing as `RUNNING` (note that the `sase-ud.13.1.land` sase agent, that waits for the `sase-ud.13.1.4` sase agent, has already started, which is appropriate since the `sase-ud.13.1.4` sase agent is done). Can you help me diagnose the root cause of this issue and fix it?
+
+#plan #m_opus
