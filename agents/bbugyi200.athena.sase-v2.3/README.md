@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-28T13:03:11.631632+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9415b82`](https://github.com/sase-org/sase/commit/9415b82af119de673bcc47c9ee19e8464c098d61) | fix(config): reduce config token refresh churn | 2026-08-28 10:07:44 EDT |
 
 ## Neighbors
 
@@ -25,7 +31,7 @@
 |---|---|---|
 | [sase-v2.1](../bbugyi200.athena.sase-v2.1/README.md) | sase-v2 hood | completed |
 | [sase-v2.2](../bbugyi200.athena.sase-v2.2/README.md) | sase-v2 hood | completed |
-| [sase-v2.4](../bbugyi200.athena.sase-v2.4/README.md) | sase-v2 hood | active |
-| [sase-v2.5](../bbugyi200.athena.sase-v2.5/README.md) | sase-v2 hood | active |
+| [sase-v2.4](../bbugyi200.athena.sase-v2.4/README.md) | sase-v2 hood | completed |
+| [sase-v2.5](../bbugyi200.athena.sase-v2.5/README.md) | sase-v2 hood | completed |
 | [sase-v2.6](../bbugyi200.athena.sase-v2.6/README.md) | sase-v2 hood | waiting |
 | [sase-v2.land](../bbugyi200.athena.sase-v2.land/README.md) | sase-v2 hood | waiting |
