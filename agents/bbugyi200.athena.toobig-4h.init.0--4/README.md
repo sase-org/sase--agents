@@ -33,5 +33,5 @@
 | [toobig-4h.plan\_gate.0](../bbugyi200.athena.toobig-4h.plan_gate.0/README.md) | toobig-4h hood | completed |
 | [toobig-4h.test\_ace\_png\_snapshots\_agents\_family\_panel.0](../bbugyi200.athena.toobig-4h.test_ace_png_snapshots_agents_family_panel.0/README.md) | toobig-4h hood | completed |
 | [toobig-4h.test\_artifacts\_relation\_collapse.0](../bbugyi200.athena.toobig-4h.test_artifacts_relation_collapse.0/README.md) | toobig-4h hood | completed |
-| [toobig-4h.test\_github\_actions\_ci.0](../bbugyi200.athena.toobig-4h.test_github_actions_ci.0/README.md) | toobig-4h hood | active |
-| [toobig-4h.test\_suite\_gate\_integration.0](../bbugyi200.athena.toobig-4h.test_suite_gate_integration.0/README.md) | toobig-4h hood | waiting |
+| [toobig-4h.test\_github\_actions\_ci.0](../bbugyi200.athena.toobig-4h.test_github_actions_ci.0/README.md) | toobig-4h hood | completed |
+| [toobig-4h.test\_suite\_gate\_integration.0](../../families/bbugyi200.athena.toobig-4h.test_suite_gate_integration.0.md) (family · 3) | toobig-4h hood | completed 2, failed 1 |

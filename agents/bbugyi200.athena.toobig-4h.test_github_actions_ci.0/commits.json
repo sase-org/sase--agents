@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e6268904f7cd313473bd2a8c5932166b"}
+{"commits":[{"committed_at":1787878255,"sha":"d4d627dbc7dddb95e570596a87046590d63ba284","subject":"test: split github actions ci contracts"}],"schema_version":2,"source_run_id":"run-e6268904f7cd313473bd2a8c5932166b"}
