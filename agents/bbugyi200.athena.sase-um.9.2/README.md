@@ -13,18 +13,24 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-28T19:50:34.759396+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ed74b9f`](https://github.com/sase-org/sase/commit/ed74b9f7b742e4e252ef6693cdd9096711cb2958) | test: stabilize full ci release gate | 2026-08-28 17:18:10 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-um.9.1](../../families/bbugyi200.athena.sase-um.9.1.md) (family · 3) | sase-um.9 hood | active 2, failed 1 |
-| [sase-um.9.3](../bbugyi200.athena.sase-um.9.3/README.md) | sase-um.9 hood | active |
+| [sase-um.9.1](../../families/bbugyi200.athena.sase-um.9.1.md) (family · 3) | sase-um.9 hood | completed 2, failed 1 |
+| [sase-um.9.3](../bbugyi200.athena.sase-um.9.3/README.md) | sase-um.9 hood | completed |
 | [sase-um.9.4](../bbugyi200.athena.sase-um.9.4/README.md) | sase-um.9 hood | waiting |
 | [sase-um.9.land](../bbugyi200.athena.sase-um.9.land/README.md) | sase-um.9 hood | waiting |
 | [sase-um.1](../../families/bbugyi200.athena.sase-um.1.md) (family · 2) | sase-um hood | completed 2 |

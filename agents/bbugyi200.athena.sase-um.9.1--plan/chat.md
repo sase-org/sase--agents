@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-um.9.1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_um_9_1__plan-260828_155006.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_um_9_1__code-260828_155006.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/scope_ci_watch_per_repository.md
 
 
