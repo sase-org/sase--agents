@@ -2,22 +2,17 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-um](../../users/bbugyi200/machines/athena/hoods/sase-um/README.md) / sase-um.5.1.3
 
-**Global name:** `bbugyi200.athena.sase-um.5.1.3` · **State:** active · **Source run:** `run-69345bcd696e7c9b3d1b651f0acecb51`
+**Global name:** `bbugyi200.athena.sase-um.5.1.3` · **State:** completed · **Source run:** `run-818c2afd7d76fdd0274a4c47f92b37e2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-um
 
 ## Summary
 
 - Bead: [sase-um.5.1.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-um/sase-um.5.1.3.md)
-- Epic: [sase-um.5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-um/sase-um.5.1.md)
-- Model: gpt-5.5
-- Provider: codex
-- Timing: 2026-08-27T13:17:11.291666+00:00
-- Commits: [7](#commits)
-
-## Files
-
-[Prompt](prompt.md)
+- Model: —
+- Provider: —
+- Timing: 2026-08-27T15:03:54+00:00 → 2026-08-27T19:27:30+00:00
+- Commits: [4](#commits)
 
 ## Commits
 
@@ -27,9 +22,6 @@
 | sase | [`612cabf`](https://github.com/sase-org/sase/commit/612cabf85a786d9bd2beedbb6556788f6869e70e) | fix(agent): carry process identity through scan liveness | 2026-08-27 12:52:13 EDT |
 | sase | [`8690fe2`](https://github.com/sase-org/sase/commit/8690fe23a096538bd8c40115028b70a038d95771) | test(sdd): restore checkout marker facade after project-key tests | 2026-08-27 13:38:31 EDT |
 | sase | [`5f06c64`](https://github.com/sase-org/sase/commit/5f06c647359cd3362f913d1e9fac3164ad99fc58) | chore(core): ratchet pinned core to v0.32.10 | 2026-08-27 15:27:30 EDT |
-| sase | [`4d31563`](https://github.com/sase-org/sase/commit/4d315636322392d692e737651c6d10174ed7d81c) | fix(agent): restore logical planner projection rows | 2026-08-27 17:13:56 EDT |
-| sase | [`ebdc9dd`](https://github.com/sase-org/sase/commit/ebdc9dda0c316fb8403d77e42efbbfdef7ada8de) | test(perf): isolate view-hints trace harness | 2026-08-27 18:38:42 EDT |
-| sase | [`69527b8`](https://github.com/sase-org/sase/commit/69527b84a5d139087ff7ae997625ce529812b22c) | fix(agents): preserve planner projection status | 2026-08-27 19:50:12 EDT |
 
 ## Neighbors
 

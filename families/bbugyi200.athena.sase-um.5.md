@@ -26,7 +26,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-um.5.1.1](../agents/bbugyi200.athena.sase-um.5.1.1/README.md) | descendant | completed |
 | [sase-um.5.1.2](../agents/bbugyi200.athena.sase-um.5.1.2/README.md) | descendant | completed |
-| [sase-um.5.1.3](../agents/bbugyi200.athena.sase-um.5.1.3/README.md) | descendant | active |
+| [sase-um.5.1.3](bbugyi200.athena.sase-um.5.1.3.md) (family · 67) | descendant | active 1, completed 33, failed 33 |
+| [sase-um.5.1.3](../agents/bbugyi200.athena.sase-um.5.1.3/README.md) | descendant | completed |
 | [sase-um.5.1.land](../agents/bbugyi200.athena.sase-um.5.1.land/README.md) | descendant | waiting |
 | [sase-um.1](bbugyi200.athena.sase-um.1.md) (family · 2) | sase-um hood | completed 2 |
 | [sase-um.2](bbugyi200.athena.sase-um.2.md) (family · 2) | sase-um hood | completed 2 |
