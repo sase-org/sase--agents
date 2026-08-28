@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0fn](../../users/bbugyi200/machines/athena/hoods/0fn/README.md) / [0fn](../../families/bbugyi200.athena.0fn.md) / 0fn--code
 
-**Global name:** `bbugyi200.athena.0fn--code` · **State:** active · **Source run:** `run-7214b5a1a54142a08aa8fe8401d7bb9f`
+**Global name:** `bbugyi200.athena.0fn--code` · **State:** completed · **Source run:** `run-7214b5a1a54142a08aa8fe8401d7bb9f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0fn
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-28T18:04:10.418956+00:00
+- Timing: 2026-08-28T18:04:10.418956+00:00 → 2026-08-28T18:25:10.218658+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0fn.f0](../bbugyi200.athena.0fn.f0/README.md) | descendant | dismissed |
-| [0fn.f1](../bbugyi200.athena.0fn.f1/README.md) | descendant | waiting |
+| [0fn.f0](../bbugyi200.athena.0fn.f0/README.md) | descendant | active |
+| [0fn.f2](../../families/bbugyi200.athena.0fn.f2.md) (family · 5) | descendant | completed 3, failed 2 |

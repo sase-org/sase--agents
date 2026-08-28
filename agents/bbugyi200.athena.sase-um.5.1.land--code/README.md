@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-um](../../users/bbugyi200/machines/athena/hoods/sase-um/README.md) / [sase-um.5.1.land](../../families/bbugyi200.athena.sase-um.5.1.land.md) / sase-um.5.1.land--code
 
-**Global name:** `bbugyi200.athena.sase-um.5.1.land--code` · **State:** active · **Source run:** `run-c59994d08d1605ece6701580fcea1d82`
+**Global name:** `bbugyi200.athena.sase-um.5.1.land--code` · **State:** completed · **Source run:** `run-c59994d08d1605ece6701580fcea1d82`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-um
 
@@ -11,12 +11,12 @@
 - Bead: [sase-um.5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-um/sase-um.5.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-28T18:46:19.273973+00:00
+- Timing: 2026-08-28T18:46:19.273973+00:00 → 2026-08-28T19:02:44.941934+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -39,5 +39,10 @@
 | [sase-um.4](../bbugyi200.athena.sase-um.4/README.md) | sase-um hood | completed |
 | [sase-um.6](../bbugyi200.athena.sase-um.6/README.md) | sase-um hood | completed |
 | [sase-um.7](../bbugyi200.athena.sase-um.7/README.md) | sase-um hood | completed |
-| [sase-um.8](../bbugyi200.athena.sase-um.8/README.md) | sase-um hood | waiting |
-| [sase-um.land](../bbugyi200.athena.sase-um.land/README.md) | sase-um hood | waiting |
+| [sase-um.8](../bbugyi200.athena.sase-um.8/README.md) | sase-um hood | completed |
+| [sase-um.9.1](../../families/bbugyi200.athena.sase-um.9.1.md) (family · 3) | sase-um hood | active 2, failed 1 |
+| [sase-um.9.2](../bbugyi200.athena.sase-um.9.2/README.md) | sase-um hood | active |
+| [sase-um.9.3](../bbugyi200.athena.sase-um.9.3/README.md) | sase-um hood | active |
+| [sase-um.9.4](../bbugyi200.athena.sase-um.9.4/README.md) | sase-um hood | waiting |
+| [sase-um.9.land](../bbugyi200.athena.sase-um.9.land/README.md) | sase-um hood | waiting |
+| [sase-um.land](../../families/bbugyi200.athena.sase-um.land.md) (family · 3) | sase-um hood | failed 3 |
