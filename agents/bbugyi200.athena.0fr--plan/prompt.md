@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase I just restarted the TUI and now I'm only seeing two nodes on the agents tab. One is an agent and another is an agent clan. I know I had other agent clans that were visible in the epic tribe and other done agents that should have been visible in the default tribe as well I think (see #sshot for context). As I was typing this all of the agents reappeared. This has been happening a lot recently when I start up the TUI. Can you help me diagnose the root cause of this issue and fix it?
+
+#plan #m_opus
