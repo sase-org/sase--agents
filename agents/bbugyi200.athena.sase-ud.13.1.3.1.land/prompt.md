@@ -2,7 +2,6 @@
 %id(land, clan=sase-ud.13.1.3.1, bead=sase-ud.13.1.3.1)
 %model:@large
 %auto
-%w:sase-ud.13.1.3.1.1,sase-ud.13.1.3.1.2,sase-ud.13.1.3.1.3,sase-ud.13.1.3.1.4
 %w(bead=sase-ud.13.1.3.1.1)
 %w(bead=sase-ud.13.1.3.1.2)
 %w(bead=sase-ud.13.1.3.1.3)
