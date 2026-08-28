@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-ud` · Members: 3 · Bead: [sase-ud.13.
 
 ```mermaid
 flowchart TD
-  n0["sase-ud.13.1.3.1.5.1--1 [active]"]
-  n1["sase-ud.13.1.3.1.5.1--mon [failed]"]
+  n0["sase-ud.13.1.3.1.5.1--1 [dismissed]"]
+  n1["sase-ud.13.1.3.1.5.1--mon [dismissed]"]
   n0 --> n1
-  n2["sase-ud.13.1.3.1.5.1--plan [completed]"]
+  n2["sase-ud.13.1.3.1.5.1--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -19,15 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-ud.13.1.3.1.5.1--1 | active | gpt-5.5 / codex | 2026-08-28T12:20:50.504011+00:00 | [1](../agents/bbugyi200.athena.sase-ud.13.1.3.1.5.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-ud.13.1.3.1.5.1--1/prompt.md) | — |
-| <a id="member-mon"></a>mon | sase-ud.13.1.3.1.5.1--mon | failed | gpt-5.5 / codex | 2026-08-28T12:02:19.080042+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.5.1--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-ud.13.1.3.1.5.1--plan | completed | gpt-5.5 / codex | 2026-08-28T11:10:52.674829+00:00 → 2026-08-28T12:02:30.654307+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.13.1.3.1.5.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.5.1--plan/chat.md) |
+| <a id="member-1"></a>1 | sase-ud.13.1.3.1.5.1--1 | dismissed | — | 2026-08-28T08:20:35 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-ud.13.1.3.1.5.1--mon | dismissed | — | 2026-08-28T08:02:19 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-ud.13.1.3.1.5.1--plan | dismissed | — | 2026-08-28T07:10:28 | 0 | — | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`de491c7`](https://github.com/sase-org/sase/commit/de491c710dda33645f6cdfe7c976e1784d7a5200) | feat(ace): remove synthetic planner status reconciliation | 2026-08-28 08:42:07 EDT |
+| — | sase | [`de491c7`](https://github.com/sase-org/sase/commit/de491c710dda33645f6cdfe7c976e1784d7a5200) | feat(ace): remove synthetic planner status reconciliation | 2026-08-28 08:42:07 EDT |
 
 ## Neighbors
 
@@ -35,17 +35,16 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-ud.13.1.3](bbugyi200.athena.sase-ud.13.1.3.md) (family · 2) | ancestor | failed 2 |
 | [sase-ud.13](bbugyi200.athena.sase-ud.13.md) (family · 2) | ancestor | failed 2 |
-| [sase-ud.13.1.3.1.5.land](../agents/bbugyi200.athena.sase-ud.13.1.3.1.5.land/README.md) | sase-ud.13.1.3.1.5 hood | waiting |
-| [sase-ud.13.1.3.1.1](bbugyi200.athena.sase-ud.13.1.3.1.1.md) (family · 5) | sase-ud.13.1.3.1 hood | completed 3, failed 2 |
-| [sase-ud.13.1.3.1.2](../agents/bbugyi200.athena.sase-ud.13.1.3.1.2/README.md) | sase-ud.13.1.3.1 hood | completed |
-| [sase-ud.13.1.3.1.3](../agents/bbugyi200.athena.sase-ud.13.1.3.1.3/README.md) | sase-ud.13.1.3.1 hood | completed |
-| [sase-ud.13.1.3.1.4](bbugyi200.athena.sase-ud.13.1.3.1.4.md) (family · 21) | sase-ud.13.1.3.1 hood | active 1, completed 9, failed 11 |
+| [sase-ud.13.1.3.1.5.land](../agents/bbugyi200.athena.sase-ud.13.1.3.1.5.land/README.md) | sase-ud.13.1.3.1.5 hood | dismissed |
+| [sase-ud.13.1.3.1.1](bbugyi200.athena.sase-ud.13.1.3.1.1.md) (family · 5) | sase-ud.13.1.3.1 hood | dismissed 5 |
+| [sase-ud.13.1.3.1.2](../agents/bbugyi200.athena.sase-ud.13.1.3.1.2/README.md) | sase-ud.13.1.3.1 hood | dismissed |
+| [sase-ud.13.1.3.1.3](../agents/bbugyi200.athena.sase-ud.13.1.3.1.3/README.md) | sase-ud.13.1.3.1 hood | dismissed |
+| [sase-ud.13.1.3.1.4](bbugyi200.athena.sase-ud.13.1.3.1.4.md) (family · 21) | sase-ud.13.1.3.1 hood | active 2, completed 8, failed 11 |
 | [sase-ud.13.1.3.1.4](../agents/bbugyi200.athena.sase-ud.13.1.3.1.4/README.md) | sase-ud.13.1.3.1 hood | active |
-| [sase-ud.13.1.3.1.land](bbugyi200.athena.sase-ud.13.1.3.1.land.md) (family · 3) | sase-ud.13.1.3.1 hood | failed 3 |
-| [sase-ud.13.1.3.1.land](../agents/bbugyi200.athena.sase-ud.13.1.3.1.land/README.md) | sase-ud.13.1.3.1 hood | active |
+| [sase-ud.13.1.3.1.land](bbugyi200.athena.sase-ud.13.1.3.1.land.md) (family · 4) | sase-ud.13.1.3.1 hood | dismissed 3, failed 1 |
 | [sase-ud.13.1.1](../agents/bbugyi200.athena.sase-ud.13.1.1/README.md) | sase-ud.13.1 hood | completed |
 | [sase-ud.13.1.2](bbugyi200.athena.sase-ud.13.1.2.md) (family · 8) | sase-ud.13.1 hood | completed 5, failed 3 |
-| [sase-ud.13.1.4](../agents/bbugyi200.athena.sase-ud.13.1.4/README.md) | sase-ud.13.1 hood | waiting |
+| [sase-ud.13.1.4](bbugyi200.athena.sase-ud.13.1.4.md) (family · 11) | sase-ud.13.1 hood | active 1, completed 5, failed 5 |
 | [sase-ud.13.1.5](../agents/bbugyi200.athena.sase-ud.13.1.5/README.md) | sase-ud.13.1 hood | completed |
 | [sase-ud.13.1.land](../agents/bbugyi200.athena.sase-ud.13.1.land/README.md) | sase-ud.13.1 hood | waiting |
 | [sase-ud.1](../agents/bbugyi200.athena.sase-ud.1/README.md) | sase-ud hood | completed |

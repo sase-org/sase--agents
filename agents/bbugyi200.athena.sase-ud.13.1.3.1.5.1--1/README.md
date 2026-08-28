@@ -2,27 +2,17 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ud](../../users/bbugyi200/machines/athena/hoods/sase-ud/README.md) / [sase-ud.13.1.3.1.5.1](../../families/bbugyi200.athena.sase-ud.13.1.3.1.5.1.md) / sase-ud.13.1.3.1.5.1--1
 
-**Global name:** `bbugyi200.athena.sase-ud.13.1.3.1.5.1--1` · **State:** active · **Source run:** `run-2f89ec53df9ffde598c2a3b8a65206b4`
+**Global name:** `bbugyi200.athena.sase-ud.13.1.3.1.5.1--1` · **State:** dismissed · **Source run:** `run-2f89ec53df9ffde598c2a3b8a65206b4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ud
 
 ## Summary
 
 - Bead: [sase-ud.13.1.3.1.5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ud/sase-ud.13.1.3.1.5.1.md)
-- Model: gpt-5.5
-- Provider: codex
-- Timing: 2026-08-28T12:20:50.504011+00:00
-- Commits: [1](#commits)
-
-## Files
-
-[Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`de491c7`](https://github.com/sase-org/sase/commit/de491c710dda33645f6cdfe7c976e1784d7a5200) | feat(ace): remove synthetic planner status reconciliation | 2026-08-28 08:42:07 EDT |
+- Model: —
+- Provider: —
+- Timing: 2026-08-28T08:20:35
+- Commits: 0
 
 ## Neighbors
 
@@ -30,17 +20,16 @@
 |---|---|---|
 | [sase-ud.13.1.3](../../families/bbugyi200.athena.sase-ud.13.1.3.md) (family · 2) | ancestor | failed 2 |
 | [sase-ud.13](../../families/bbugyi200.athena.sase-ud.13.md) (family · 2) | ancestor | failed 2 |
-| [sase-ud.13.1.3.1.5.land](../bbugyi200.athena.sase-ud.13.1.3.1.5.land/README.md) | sase-ud.13.1.3.1.5 hood | waiting |
-| [sase-ud.13.1.3.1.1](../../families/bbugyi200.athena.sase-ud.13.1.3.1.1.md) (family · 5) | sase-ud.13.1.3.1 hood | completed 3, failed 2 |
-| [sase-ud.13.1.3.1.2](../bbugyi200.athena.sase-ud.13.1.3.1.2/README.md) | sase-ud.13.1.3.1 hood | completed |
-| [sase-ud.13.1.3.1.3](../bbugyi200.athena.sase-ud.13.1.3.1.3/README.md) | sase-ud.13.1.3.1 hood | completed |
-| [sase-ud.13.1.3.1.4](../../families/bbugyi200.athena.sase-ud.13.1.3.1.4.md) (family · 21) | sase-ud.13.1.3.1 hood | active 1, completed 9, failed 11 |
+| [sase-ud.13.1.3.1.5.land](../bbugyi200.athena.sase-ud.13.1.3.1.5.land/README.md) | sase-ud.13.1.3.1.5 hood | dismissed |
+| [sase-ud.13.1.3.1.1](../../families/bbugyi200.athena.sase-ud.13.1.3.1.1.md) (family · 5) | sase-ud.13.1.3.1 hood | dismissed 5 |
+| [sase-ud.13.1.3.1.2](../bbugyi200.athena.sase-ud.13.1.3.1.2/README.md) | sase-ud.13.1.3.1 hood | dismissed |
+| [sase-ud.13.1.3.1.3](../bbugyi200.athena.sase-ud.13.1.3.1.3/README.md) | sase-ud.13.1.3.1 hood | dismissed |
+| [sase-ud.13.1.3.1.4](../../families/bbugyi200.athena.sase-ud.13.1.3.1.4.md) (family · 21) | sase-ud.13.1.3.1 hood | active 2, completed 8, failed 11 |
 | [sase-ud.13.1.3.1.4](../bbugyi200.athena.sase-ud.13.1.3.1.4/README.md) | sase-ud.13.1.3.1 hood | active |
-| [sase-ud.13.1.3.1.land](../../families/bbugyi200.athena.sase-ud.13.1.3.1.land.md) (family · 3) | sase-ud.13.1.3.1 hood | failed 3 |
-| [sase-ud.13.1.3.1.land](../bbugyi200.athena.sase-ud.13.1.3.1.land/README.md) | sase-ud.13.1.3.1 hood | active |
+| [sase-ud.13.1.3.1.land](../../families/bbugyi200.athena.sase-ud.13.1.3.1.land.md) (family · 4) | sase-ud.13.1.3.1 hood | dismissed 3, failed 1 |
 | [sase-ud.13.1.1](../bbugyi200.athena.sase-ud.13.1.1/README.md) | sase-ud.13.1 hood | completed |
 | [sase-ud.13.1.2](../../families/bbugyi200.athena.sase-ud.13.1.2.md) (family · 8) | sase-ud.13.1 hood | completed 5, failed 3 |
-| [sase-ud.13.1.4](../bbugyi200.athena.sase-ud.13.1.4/README.md) | sase-ud.13.1 hood | waiting |
+| [sase-ud.13.1.4](../../families/bbugyi200.athena.sase-ud.13.1.4.md) (family · 11) | sase-ud.13.1 hood | active 1, completed 5, failed 5 |
 | [sase-ud.13.1.5](../bbugyi200.athena.sase-ud.13.1.5/README.md) | sase-ud.13.1 hood | completed |
 | [sase-ud.13.1.land](../bbugyi200.athena.sase-ud.13.1.land/README.md) | sase-ud.13.1 hood | waiting |
 | [sase-ud.1](../bbugyi200.athena.sase-ud.1/README.md) | sase-ud hood | completed |

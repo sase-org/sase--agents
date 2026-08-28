@@ -8,14 +8,14 @@ Owner: `bbugyi200.athena` · Hood: `sase-ud` · Members: 5 · Bead: [sase-ud.13.
 
 ```mermaid
 flowchart TD
-  n0["sase-ud.13.1.3.1.1--mon [failed]"]
-  n1["sase-ud.13.1.3.1.1--2 [completed]"]
+  n0["sase-ud.13.1.3.1.1--mon [dismissed]"]
+  n1["sase-ud.13.1.3.1.1--2 [dismissed]"]
   n0 --> n1
-  n2["sase-ud.13.1.3.1.1--1 [completed]"]
+  n2["sase-ud.13.1.3.1.1--1 [dismissed]"]
   n0 --> n2
-  n3["sase-ud.13.1.3.1.1--mon-0 [failed]"]
+  n3["sase-ud.13.1.3.1.1--mon-0 [dismissed]"]
   n0 --> n3
-  n4["sase-ud.13.1.3.1.1--plan [completed]"]
+  n4["sase-ud.13.1.3.1.1--plan [dismissed]"]
   n0 --> n4
 ```
 
@@ -23,17 +23,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | sase-ud.13.1.3.1.1--mon | failed | sonnet / claude | 2026-08-27T16:07:38.779111+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--mon/chat.md) |
-| <a id="member-2"></a>2 | sase-ud.13.1.3.1.1--2 | completed | sonnet / claude | 2026-08-27T16:24:41.463074+00:00 → 2026-08-27T16:34:27.946562+00:00 | [1](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--2/chat.md) |
-| <a id="member-1"></a>1 | sase-ud.13.1.3.1.1--1 | completed | sonnet / claude | 2026-08-27T16:13:13.758153+00:00 → 2026-08-27T16:14:18.782008+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--1/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | sase-ud.13.1.3.1.1--mon-0 | failed | sonnet / claude | 2026-08-27T16:14:10.114301+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--mon-0/chat.md) |
-| <a id="member-plan"></a>plan | sase-ud.13.1.3.1.1--plan | completed | sonnet / claude | 2026-08-27T15:54:23.820332+00:00 → 2026-08-27T16:07:48.731910+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.1--plan/chat.md) |
+| <a id="member-mon"></a>mon | sase-ud.13.1.3.1.1--mon | dismissed | — | 2026-08-27T12:07:38 | 0 | — | — |
+| <a id="member-2"></a>2 | sase-ud.13.1.3.1.1--2 | dismissed | — | 2026-08-27T12:24:24 | 0 | — | — |
+| <a id="member-1"></a>1 | sase-ud.13.1.3.1.1--1 | dismissed | — | 2026-08-27T12:12:58 | 0 | — | — |
+| <a id="member-mon-0"></a>mon-0 | sase-ud.13.1.3.1.1--mon-0 | dismissed | — | 2026-08-27T12:14:10 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-ud.13.1.3.1.1--plan | dismissed | — | 2026-08-27T11:53:59 | 0 | — | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | sase | [`2f8bc9a`](https://github.com/sase-org/sase/commit/2f8bc9abb4e90d23f5e1dd1c171da61d5639b1b8) | test(status-strip): pin gate-shell family projection contract for \_apply\_status\_overrides | 2026-08-27 12:27:38 EDT |
+| — | sase | [`2f8bc9a`](https://github.com/sase-org/sase/commit/2f8bc9abb4e90d23f5e1dd1c171da61d5639b1b8) | test(status-strip): pin gate-shell family projection contract for \_apply\_status\_overrides | 2026-08-27 12:27:38 EDT |
 
 ## Neighbors
 
@@ -41,17 +41,16 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-ud.13.1.3](bbugyi200.athena.sase-ud.13.1.3.md) (family · 2) | ancestor | failed 2 |
 | [sase-ud.13](bbugyi200.athena.sase-ud.13.md) (family · 2) | ancestor | failed 2 |
-| [sase-ud.13.1.3.1.2](../agents/bbugyi200.athena.sase-ud.13.1.3.1.2/README.md) | sase-ud.13.1.3.1 hood | completed |
-| [sase-ud.13.1.3.1.3](../agents/bbugyi200.athena.sase-ud.13.1.3.1.3/README.md) | sase-ud.13.1.3.1 hood | completed |
-| [sase-ud.13.1.3.1.4](bbugyi200.athena.sase-ud.13.1.3.1.4.md) (family · 21) | sase-ud.13.1.3.1 hood | active 1, completed 9, failed 11 |
+| [sase-ud.13.1.3.1.2](../agents/bbugyi200.athena.sase-ud.13.1.3.1.2/README.md) | sase-ud.13.1.3.1 hood | dismissed |
+| [sase-ud.13.1.3.1.3](../agents/bbugyi200.athena.sase-ud.13.1.3.1.3/README.md) | sase-ud.13.1.3.1 hood | dismissed |
+| [sase-ud.13.1.3.1.4](bbugyi200.athena.sase-ud.13.1.3.1.4.md) (family · 21) | sase-ud.13.1.3.1 hood | active 2, completed 8, failed 11 |
 | [sase-ud.13.1.3.1.4](../agents/bbugyi200.athena.sase-ud.13.1.3.1.4/README.md) | sase-ud.13.1.3.1 hood | active |
-| [sase-ud.13.1.3.1.5.1](bbugyi200.athena.sase-ud.13.1.3.1.5.1.md) (family · 3) | sase-ud.13.1.3.1 hood | active 1, completed 1, failed 1 |
-| [sase-ud.13.1.3.1.5.land](../agents/bbugyi200.athena.sase-ud.13.1.3.1.5.land/README.md) | sase-ud.13.1.3.1 hood | waiting |
-| [sase-ud.13.1.3.1.land](bbugyi200.athena.sase-ud.13.1.3.1.land.md) (family · 3) | sase-ud.13.1.3.1 hood | failed 3 |
-| [sase-ud.13.1.3.1.land](../agents/bbugyi200.athena.sase-ud.13.1.3.1.land/README.md) | sase-ud.13.1.3.1 hood | active |
+| [sase-ud.13.1.3.1.5.1](bbugyi200.athena.sase-ud.13.1.3.1.5.1.md) (family · 3) | sase-ud.13.1.3.1 hood | dismissed 3 |
+| [sase-ud.13.1.3.1.5.land](../agents/bbugyi200.athena.sase-ud.13.1.3.1.5.land/README.md) | sase-ud.13.1.3.1 hood | dismissed |
+| [sase-ud.13.1.3.1.land](bbugyi200.athena.sase-ud.13.1.3.1.land.md) (family · 4) | sase-ud.13.1.3.1 hood | dismissed 3, failed 1 |
 | [sase-ud.13.1.1](../agents/bbugyi200.athena.sase-ud.13.1.1/README.md) | sase-ud.13.1 hood | completed |
 | [sase-ud.13.1.2](bbugyi200.athena.sase-ud.13.1.2.md) (family · 8) | sase-ud.13.1 hood | completed 5, failed 3 |
-| [sase-ud.13.1.4](../agents/bbugyi200.athena.sase-ud.13.1.4/README.md) | sase-ud.13.1 hood | waiting |
+| [sase-ud.13.1.4](bbugyi200.athena.sase-ud.13.1.4.md) (family · 11) | sase-ud.13.1 hood | active 1, completed 5, failed 5 |
 | [sase-ud.13.1.5](../agents/bbugyi200.athena.sase-ud.13.1.5/README.md) | sase-ud.13.1 hood | completed |
 | [sase-ud.13.1.land](../agents/bbugyi200.athena.sase-ud.13.1.land/README.md) | sase-ud.13.1 hood | waiting |
 | [sase-ud.1](../agents/bbugyi200.athena.sase-ud.1/README.md) | sase-ud hood | completed |
