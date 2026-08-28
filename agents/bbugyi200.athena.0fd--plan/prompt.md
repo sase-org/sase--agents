@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me start only highlighting the `[<N>]` part of the hints shown in sase's pager (see #sshot for what this looks like now--we currently highlight the icon that is rendered after the hint as well)? #plan

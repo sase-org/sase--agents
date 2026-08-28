@@ -9,13 +9,13 @@ Owner: `bbugyi200.athena` · Hood: `sase-ud` · Members: 21 · Bead: [sase-ud.13
 ```mermaid
 flowchart TD
   n0["sase-ud.13.1.3.1.4--mon-2 [failed]"]
-  n1["sase-ud.13.1.3.1.4--1 [dismissed]"]
+  n1["sase-ud.13.1.3.1.4--1 [active]"]
   n0 --> n1
   n2["sase-ud.13.1.3.1.4--mon [failed]"]
   n0 --> n2
   n3["sase-ud.13.1.3.1.4--9 [completed]"]
   n0 --> n3
-  n4["sase-ud.13.1.3.1.4--a [active]"]
+  n4["sase-ud.13.1.3.1.4--a [failed]"]
   n0 --> n4
   n5["sase-ud.13.1.3.1.4--5 [completed]"]
   n0 --> n5
@@ -56,10 +56,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon-2"></a>mon-2 | sase-ud.13.1.3.1.4--mon-2 | failed | gpt-5.5 / codex | 2026-08-27T23:49:54.474795+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.4--mon-2/chat.md) |
-| <a id="member-1"></a>1 | sase-ud.13.1.3.1.4--1 | dismissed | — | 2026-08-27T18:23:53 | 0 | — | — |
+| <a id="member-1"></a>1 | sase-ud.13.1.3.1.4--1 | active | gpt-5.5 / codex | 2026-08-27T22:24:33.029406+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.13.1.3.1.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.4--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-ud.13.1.3.1.4--mon | failed | gpt-5.5 / codex | 2026-08-27T21:59:56.141239+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.4--mon/chat.md) |
 | <a id="member-9"></a>9 | sase-ud.13.1.3.1.4--9 | completed | gpt-5.5 / codex | 2026-08-28T04:15:20.625021+00:00 → 2026-08-28T05:33:33.785274+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.13.1.3.1.4--9/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.4--9/chat.md) |
-| <a id="member-a"></a>a | sase-ud.13.1.3.1.4--a | active | gpt-5.5 / codex | 2026-08-28T05:56:52.029658+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.13.1.3.1.4--a/prompt.md) | — |
+| <a id="member-a"></a>a | sase-ud.13.1.3.1.4--a | failed | gpt-5.5 / codex | 2026-08-28T05:56:52.029658+00:00 → 2026-08-28T06:38:37.039563+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.13.1.3.1.4--a/prompt.md) | — |
 | <a id="member-5"></a>5 | sase-ud.13.1.3.1.4--5 | completed | gpt-5.5 / codex | 2026-08-28T01:46:00.444157+00:00 → 2026-08-28T01:55:03.358909+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.13.1.3.1.4--5/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.4--5/chat.md) |
 | <a id="member-mon-6"></a>mon-6 | sase-ud.13.1.3.1.4--mon-6 | failed | gpt-5.5 / codex | 2026-08-28T03:30:29.620566+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.4--mon-6/chat.md) |
 | <a id="member-3"></a>3 | sase-ud.13.1.3.1.4--3 | completed | gpt-5.5 / codex | 2026-08-27T23:16:57.454239+00:00 → 2026-08-27T23:50:26.205446+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ud.13.1.3.1.4--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.4--3/chat.md) |
@@ -77,6 +77,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-8"></a>mon-8 | sase-ud.13.1.3.1.4--mon-8 | failed | gpt-5.5 / codex | 2026-08-28T05:33:10.062497+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.4--mon-8/chat.md) |
 | <a id="member-mon-5"></a>mon-5 | sase-ud.13.1.3.1.4--mon-5 | failed | gpt-5.5 / codex | 2026-08-28T02:37:28.974665+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ud.13.1.3.1.4--mon-5/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`8efce6d`](https://github.com/sase-org/sase/commit/8efce6de9d31fa63384767d58606a83f9274ec9e) | fix(ace): retire timestamp reconstruction statuses | 2026-08-28 02:34:37 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
@@ -86,6 +92,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-ud.13.1.3.1.1](bbugyi200.athena.sase-ud.13.1.3.1.1.md) (family · 5) | sase-ud.13.1.3.1 hood | completed 3, failed 2 |
 | [sase-ud.13.1.3.1.2](../agents/bbugyi200.athena.sase-ud.13.1.3.1.2/README.md) | sase-ud.13.1.3.1 hood | completed |
 | [sase-ud.13.1.3.1.3](../agents/bbugyi200.athena.sase-ud.13.1.3.1.3/README.md) | sase-ud.13.1.3.1 hood | completed |
+| [sase-ud.13.1.3.1.5.1](../agents/bbugyi200.athena.sase-ud.13.1.3.1.5.1/README.md) | sase-ud.13.1.3.1 hood | active |
+| [sase-ud.13.1.3.1.5.land](../agents/bbugyi200.athena.sase-ud.13.1.3.1.5.land/README.md) | sase-ud.13.1.3.1 hood | waiting |
+| [sase-ud.13.1.3.1.land](bbugyi200.athena.sase-ud.13.1.3.1.land.md) (family · 3) | sase-ud.13.1.3.1 hood | failed 3 |
 | [sase-ud.13.1.3.1.land](../agents/bbugyi200.athena.sase-ud.13.1.3.1.land/README.md) | sase-ud.13.1.3.1 hood | waiting |
 | [sase-ud.13.1.1](../agents/bbugyi200.athena.sase-ud.13.1.1/README.md) | sase-ud.13.1 hood | completed |
 | [sase-ud.13.1.2](bbugyi200.athena.sase-ud.13.1.2.md) (family · 8) | sase-ud.13.1 hood | completed 5, failed 3 |

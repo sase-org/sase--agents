@@ -2,17 +2,21 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ud](../../users/bbugyi200/machines/athena/hoods/sase-ud/README.md) / [sase-ud.13.1.3.1.4](../../families/bbugyi200.athena.sase-ud.13.1.3.1.4.md) / sase-ud.13.1.3.1.4--1
 
-**Global name:** `bbugyi200.athena.sase-ud.13.1.3.1.4--1` · **State:** dismissed · **Source run:** `run-09cbb66c850ef034976edb88b5377999`
+**Global name:** `bbugyi200.athena.sase-ud.13.1.3.1.4--1` · **State:** active · **Source run:** `run-09cbb66c850ef034976edb88b5377999`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ud
 
 ## Summary
 
 - Bead: [sase-ud.13.1.3.1.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ud/sase-ud.13.1.3.1.4.md)
-- Model: —
-- Provider: —
-- Timing: 2026-08-27T18:23:53
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 2026-08-27T22:24:33.029406+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -23,6 +27,9 @@
 | [sase-ud.13.1.3.1.1](../../families/bbugyi200.athena.sase-ud.13.1.3.1.1.md) (family · 5) | sase-ud.13.1.3.1 hood | completed 3, failed 2 |
 | [sase-ud.13.1.3.1.2](../bbugyi200.athena.sase-ud.13.1.3.1.2/README.md) | sase-ud.13.1.3.1 hood | completed |
 | [sase-ud.13.1.3.1.3](../bbugyi200.athena.sase-ud.13.1.3.1.3/README.md) | sase-ud.13.1.3.1 hood | completed |
+| [sase-ud.13.1.3.1.5.1](../bbugyi200.athena.sase-ud.13.1.3.1.5.1/README.md) | sase-ud.13.1.3.1 hood | active |
+| [sase-ud.13.1.3.1.5.land](../bbugyi200.athena.sase-ud.13.1.3.1.5.land/README.md) | sase-ud.13.1.3.1 hood | waiting |
+| [sase-ud.13.1.3.1.land](../../families/bbugyi200.athena.sase-ud.13.1.3.1.land.md) (family · 3) | sase-ud.13.1.3.1 hood | failed 3 |
 | [sase-ud.13.1.3.1.land](../bbugyi200.athena.sase-ud.13.1.3.1.land/README.md) | sase-ud.13.1.3.1 hood | waiting |
 | [sase-ud.13.1.1](../bbugyi200.athena.sase-ud.13.1.1/README.md) | sase-ud.13.1 hood | completed |
 | [sase-ud.13.1.2](../../families/bbugyi200.athena.sase-ud.13.1.2.md) (family · 8) | sase-ud.13.1 hood | completed 5, failed 3 |
