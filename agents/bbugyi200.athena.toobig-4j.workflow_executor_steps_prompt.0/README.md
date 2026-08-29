@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-4j.test\_lazy\_tier2\_reconcile.0](../bbugyi200.athena.toobig-4j.test_lazy_tier2_reconcile.0/README.md) | toobig-4j hood | active |
-| [toobig-4j.test\_workflow\_executor.0](../bbugyi200.athena.toobig-4j.test_workflow_executor.0/README.md) | toobig-4j hood | waiting |
+| [toobig-4j.test\_lazy\_tier2\_reconcile.0](../bbugyi200.athena.toobig-4j.test_lazy_tier2_reconcile.0/README.md) | toobig-4j hood | completed |
+| [toobig-4j.test\_workflow\_executor.0](../../families/bbugyi200.athena.toobig-4j.test_workflow_executor.0.md) (family · 3) | toobig-4j hood | completed 2, failed 1 |
