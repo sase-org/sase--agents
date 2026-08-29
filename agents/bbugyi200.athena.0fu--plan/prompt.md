@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase The `0ft` sase agent proposed an epic plan file and then its node was given a status of `DONE` on the "Agents" tab (see #sshot for context). This is NOT correct. The problem is that we are not showing gate shells until the user selects a gate option (e.g. approves or rejects a plan, for example). This was maybe a problem with the initial design of gate shells (see the sase-ud epic bead for context). Can you help me diagnose the root cause of this issue and fix it?
+
+#plan #m_opus
