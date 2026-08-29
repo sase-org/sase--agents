@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-um
 
-**Global hood:** `bbugyi200.athena.sase-um` · **Runs:** 112 · **Families:** 10 · **States:** active 1, completed 59, failed 48, waiting 4
+**Global hood:** `bbugyi200.athena.sase-um` · **Runs:** 112 · **Families:** 10 · **States:** active 1, completed 60, failed 48, waiting 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -98,7 +98,7 @@
 | [sase-um.5.1.3--mon-t](../../../../../../families/bbugyi200.athena.sase-um.5.1.3.md#member-mon-t) | failed | gpt-5.5 / codex | 2026-08-28T06:28:07.595452+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-um.5.1.3--mon-t/chat.md) |
 | [sase-um.5.1.land--mon](../../../../../../families/bbugyi200.athena.sase-um.5.1.land.md#member-mon) | failed | gpt-5.6-sol / codex | 2026-08-28T07:30:50.143684+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-um.5.1.land--mon/chat.md) |
 | [sase-um.5.1.3--mon-2](../../../../../../families/bbugyi200.athena.sase-um.5.1.3.md#member-mon-2) | failed | gpt-5.5 / codex | 2026-08-28T00:44:57.301599+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-um.5.1.3--mon-2/chat.md) |
-| [sase-um.9.5.3--1](../../../../../../families/bbugyi200.athena.sase-um.9.5.3.md#member-1) | active | grok-4.6 / grok | 2026-08-29T02:33:11.262056+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-um.9.5.3--1/prompt.md) |
+| [sase-um.9.5.3--1](../../../../../../families/bbugyi200.athena.sase-um.9.5.3.md#member-1) | completed | grok-4.6 / grok | 2026-08-29T02:33:11.262056+00:00 → 2026-08-29T03:06:46.066869+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-um.9.5.3--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-um.9.5.3--1/chat.md) |
 | [sase-um.5.1.3--mon-g](../../../../../../families/bbugyi200.athena.sase-um.5.1.3.md#member-mon-g) | failed | gpt-5.5 / codex | 2026-08-28T03:42:38.584391+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-um.5.1.3--mon-g/chat.md) |
 | [sase-um.land--mon](../../../../../../families/bbugyi200.athena.sase-um.land.md#member-mon) | failed | opus / claude | 2026-08-28T19:48:49.790986+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-um.land--mon/chat.md) |
 | [sase-um.5.1.3--3](../../../../../../families/bbugyi200.athena.sase-um.5.1.3.md#member-3) | completed | gpt-5.5 / codex | 2026-08-28T00:43:15.798639+00:00 → 2026-08-28T00:45:10.351852+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-um.5.1.3--3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-um.5.1.3--3/chat.md) |
@@ -117,4 +117,4 @@
 | [sase-um.5.1.3--h](../../../../../../families/bbugyi200.athena.sase-um.5.1.3.md#member-h) | completed | gpt-5.5 / codex | 2026-08-28T03:40:50.228553+00:00 → 2026-08-28T03:42:45.936646+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-um.5.1.3--h/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-um.5.1.3--h/chat.md) |
 | [sase-um.5.1.3--mon-a](../../../../../../families/bbugyi200.athena.sase-um.5.1.3.md#member-mon-a) | failed | gpt-5.5 / codex | 2026-08-28T02:26:59.684296+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-um.5.1.3--mon-a/chat.md) |
 | [sase-um.5.1.3--a](../../../../../../families/bbugyi200.athena.sase-um.5.1.3.md#member-a) | completed | gpt-5.5 / codex | 2026-08-28T02:12:08.692126+00:00 → 2026-08-28T02:14:26.747764+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-um.5.1.3--a/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-um.5.1.3--a/chat.md) |
-| [sase-um.9.5.4](../../../../../../agents/bbugyi200.athena.sase-um.9.5.4/README.md) | waiting | grok-4.6 / grok | 20260828201905 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-um.9.5.4/prompt.md) |
+| [sase-um.9.5.4](../../../../../../agents/bbugyi200.athena.sase-um.9.5.4/README.md) | active | grok-4.6 / grok | 2026-08-29T03:07:43.812837+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-um.9.5.4/prompt.md) |
