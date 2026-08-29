@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-um](../../users/bbugyi200/machines/athena/hoods/sase-um/README.md) / [sase-um.9.5.4](../../families/bbugyi200.athena.sase-um.9.5.4.md) / sase-um.9.5.4--6
 
-**Global name:** `bbugyi200.athena.sase-um.9.5.4--6` · **State:** active · **Source run:** `run-29c9001571a32b8e3eee188114d527f5`
+**Global name:** `bbugyi200.athena.sase-um.9.5.4--6` · **State:** completed · **Source run:** `run-29c9001571a32b8e3eee188114d527f5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-um
 
@@ -11,12 +11,12 @@
 - Bead: [sase-um.9.5.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-um/sase-um.9.5.4.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-29T12:56:30.196751+00:00
+- Timing: 2026-08-29T12:56:30.196751+00:00 → 2026-08-29T13:20:12.178061+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
