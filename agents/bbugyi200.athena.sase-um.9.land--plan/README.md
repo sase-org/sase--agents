@@ -25,8 +25,8 @@
 | [sase-um.9.5.1](../bbugyi200.athena.sase-um.9.5.1/README.md) | sase-um.9 hood | completed |
 | [sase-um.9.5.2](../bbugyi200.athena.sase-um.9.5.2/README.md) | sase-um.9 hood | completed |
 | [sase-um.9.5.3](../../families/bbugyi200.athena.sase-um.9.5.3.md) (family · 3) | sase-um.9 hood | completed 2, failed 1 |
-| [sase-um.9.5.4](../../families/bbugyi200.athena.sase-um.9.5.4.md) (family · 15) | sase-um.9 hood | active 1, completed 7, failed 7 |
-| [sase-um.9.5.5](../bbugyi200.athena.sase-um.9.5.5/README.md) | sase-um.9 hood | waiting |
+| [sase-um.9.5.4](../../families/bbugyi200.athena.sase-um.9.5.4.md) (family · 17) | sase-um.9 hood | completed 9, failed 8 |
+| [sase-um.9.5.5](../bbugyi200.athena.sase-um.9.5.5/README.md) | sase-um.9 hood | active |
 | [sase-um.9.5.land](../bbugyi200.athena.sase-um.9.5.land/README.md) | sase-um.9 hood | waiting |
 | [sase-um.1](../../families/bbugyi200.athena.sase-um.1.md) (family · 2) | sase-um hood | completed 2 |
 | [sase-um.2](../../families/bbugyi200.athena.sase-um.2.md) (family · 2) | sase-um hood | completed 2 |

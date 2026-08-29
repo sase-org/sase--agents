@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-um](../../users/bbugyi200/machines/athena/hoods/sase-um/README.md) / sase-um.9.5.5
 
-**Global name:** `bbugyi200.athena.sase-um.9.5.5` · **State:** waiting · **Source run:** `run-b56e86ca50e3b386a0afe6e56c40b7de`
+**Global name:** `bbugyi200.athena.sase-um.9.5.5` · **State:** active · **Source run:** `run-b56e86ca50e3b386a0afe6e56c40b7de`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-um
 
@@ -12,7 +12,7 @@
 - Epic: [sase-um.9.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-um/sase-um.9.5.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260828201906
+- Timing: 2026-08-29T17:40:37.446507+00:00
 - Commits: 0
 
 ## Files
@@ -26,7 +26,7 @@
 | [sase-um.9.5.1](../bbugyi200.athena.sase-um.9.5.1/README.md) | sase-um.9.5 hood | completed |
 | [sase-um.9.5.2](../bbugyi200.athena.sase-um.9.5.2/README.md) | sase-um.9.5 hood | completed |
 | [sase-um.9.5.3](../../families/bbugyi200.athena.sase-um.9.5.3.md) (family · 3) | sase-um.9.5 hood | completed 2, failed 1 |
-| [sase-um.9.5.4](../../families/bbugyi200.athena.sase-um.9.5.4.md) (family · 15) | sase-um.9.5 hood | active 1, completed 7, failed 7 |
+| [sase-um.9.5.4](../../families/bbugyi200.athena.sase-um.9.5.4.md) (family · 17) | sase-um.9.5 hood | completed 9, failed 8 |
 | [sase-um.9.5.land](../bbugyi200.athena.sase-um.9.5.land/README.md) | sase-um.9.5 hood | waiting |
 | [sase-um.9.1](../../families/bbugyi200.athena.sase-um.9.1.md) (family · 3) | sase-um.9 hood | completed 1, dismissed 2 |
 | [sase-um.9.2](../bbugyi200.athena.sase-um.9.2/README.md) | sase-um.9 hood | dismissed |
