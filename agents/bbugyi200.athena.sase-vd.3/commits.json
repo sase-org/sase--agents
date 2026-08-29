@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a14cb16dfa0b306425dac66e210150b4"}
+{"commits":[{"committed_at":1787962742,"sha":"b7fcee9db595cebb6b5fcbc474898fab8c6595e8","subject":"feat(agent): rebind runner workspace identity"}],"schema_version":2,"source_run_id":"run-a14cb16dfa0b306425dac66e210150b4"}
