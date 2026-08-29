@@ -32,8 +32,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-um.9.3](../agents/bbugyi200.athena.sase-um.9.3/README.md) | sase-um.9 hood | completed |
 | [sase-um.9.4](bbugyi200.athena.sase-um.9.4.md) (family · 5) | sase-um.9 hood | completed 3, failed 2 |
 | [sase-um.9.5.1](../agents/bbugyi200.athena.sase-um.9.5.1/README.md) | sase-um.9 hood | completed |
-| [sase-um.9.5.2](../agents/bbugyi200.athena.sase-um.9.5.2/README.md) | sase-um.9 hood | active |
-| [sase-um.9.5.3](../agents/bbugyi200.athena.sase-um.9.5.3/README.md) | sase-um.9 hood | waiting |
+| [sase-um.9.5.2](../agents/bbugyi200.athena.sase-um.9.5.2/README.md) | sase-um.9 hood | completed |
+| [sase-um.9.5.3](bbugyi200.athena.sase-um.9.5.3.md) (family · 3) | sase-um.9 hood | active 1, completed 1, failed 1 |
 | [sase-um.9.5.4](../agents/bbugyi200.athena.sase-um.9.5.4/README.md) | sase-um.9 hood | waiting |
 | [sase-um.9.5.5](../agents/bbugyi200.athena.sase-um.9.5.5/README.md) | sase-um.9 hood | waiting |
 | [sase-um.9.5.land](../agents/bbugyi200.athena.sase-um.9.5.land/README.md) | sase-um.9 hood | waiting |
