@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2adbdd37fecc0245c50766e9bc668865"}
+{"commits":[{"committed_at":1787965269,"sha":"a97cabe3a2f4dd2186ee3775b85b57244efe3ef6","subject":"perf(ci): trim Master Gate fast setup"}],"schema_version":2,"source_run_id":"run-2adbdd37fecc0245c50766e9bc668865"}
