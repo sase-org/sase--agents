@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1788013256,"sha":"fbd37ca3da3b262fa310daec15a0fed45489e017","subject":"fix(tui): exclude gate-shell windows from family and clan runtime"}],"schema_version":2,"source_run_id":"run-b178a95001812af464979c34c9f1bbea"}
