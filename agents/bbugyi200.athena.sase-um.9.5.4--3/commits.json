@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1787987060,"sha":"c1a5b36f5faf6f014d9d0bddea435a4e9fc4b0ee","subject":"fix(pipe): inherit the parent model when a successor has no %model"}],"schema_version":2,"source_run_id":"run-c3aef971fad838da14ac06f17828df22"}
