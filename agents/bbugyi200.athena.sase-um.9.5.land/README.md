@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-um](../../users/bbugyi200/machines/athena/hoods/sase-um/README.md) / sase-um.9.5.land
 
-**Global name:** `bbugyi200.athena.sase-um.9.5.land` · **State:** waiting · **Source run:** `run-6622fc9c313b4b35b3100260405c6c44`
+**Global name:** `bbugyi200.athena.sase-um.9.5.land` · **State:** completed · **Source run:** `run-6622fc9c313b4b35b3100260405c6c44`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-um
 
@@ -11,12 +11,18 @@
 - Bead: [sase-um.9.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-um/sase-um.9.5.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260828201907
-- Commits: 0
+- Timing: 2026-08-29T18:00:20.505434+00:00 → 2026-08-29T18:37:21.886806+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`e9d1a97`](https://github.com/sase-org/sase/commit/e9d1a973a0779c71425b24944d4065feaed230a5) | fix(memory): drop the installed version from generated task-type strands | 2026-08-29 14:36:35 EDT |
 
 ## Neighbors
 
@@ -26,7 +32,7 @@
 | [sase-um.9.5.2](../bbugyi200.athena.sase-um.9.5.2/README.md) | sase-um.9.5 hood | completed |
 | [sase-um.9.5.3](../../families/bbugyi200.athena.sase-um.9.5.3.md) (family · 3) | sase-um.9.5 hood | completed 2, failed 1 |
 | [sase-um.9.5.4](../../families/bbugyi200.athena.sase-um.9.5.4.md) (family · 17) | sase-um.9.5 hood | completed 9, failed 8 |
-| [sase-um.9.5.5](../bbugyi200.athena.sase-um.9.5.5/README.md) | sase-um.9.5 hood | active |
+| [sase-um.9.5.5](../../families/bbugyi200.athena.sase-um.9.5.5.md) (family · 3) | sase-um.9.5 hood | completed 2, failed 1 |
 | [sase-um.9.1](../../families/bbugyi200.athena.sase-um.9.1.md) (family · 3) | sase-um.9 hood | completed 1, dismissed 2 |
 | [sase-um.9.2](../bbugyi200.athena.sase-um.9.2/README.md) | sase-um.9 hood | dismissed |
 | [sase-um.9.3](../bbugyi200.athena.sase-um.9.3/README.md) | sase-um.9 hood | dismissed |

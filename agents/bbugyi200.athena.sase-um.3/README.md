@@ -49,7 +49,7 @@
 | [sase-um.9.5.2](../bbugyi200.athena.sase-um.9.5.2/README.md) | sase-um hood | completed |
 | [sase-um.9.5.3](../../families/bbugyi200.athena.sase-um.9.5.3.md) (family · 3) | sase-um hood | completed 2, failed 1 |
 | [sase-um.9.5.4](../../families/bbugyi200.athena.sase-um.9.5.4.md) (family · 17) | sase-um hood | completed 9, failed 8 |
-| [sase-um.9.5.5](../bbugyi200.athena.sase-um.9.5.5/README.md) | sase-um hood | active |
-| [sase-um.9.5.land](../bbugyi200.athena.sase-um.9.5.land/README.md) | sase-um hood | waiting |
+| [sase-um.9.5.5](../../families/bbugyi200.athena.sase-um.9.5.5.md) (family · 3) | sase-um hood | completed 2, failed 1 |
+| [sase-um.9.5.land](../bbugyi200.athena.sase-um.9.5.land/README.md) | sase-um hood | completed |
 | [sase-um.9.land](../../families/bbugyi200.athena.sase-um.9.land.md) (family · 3) | sase-um hood | dismissed 3 |
 | [sase-um.land](../../families/bbugyi200.athena.sase-um.land.md) (family · 3) | sase-um hood | dismissed 3 |

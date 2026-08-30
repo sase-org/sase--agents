@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6622fc9c313b4b35b3100260405c6c44"}
+{"commits":[{"committed_at":1788028595,"sha":"e9d1a973a0779c71425b24944d4065feaed230a5","subject":"fix(memory): drop the installed version from generated task-type strands"}],"schema_version":2,"source_run_id":"run-6622fc9c313b4b35b3100260405c6c44"}

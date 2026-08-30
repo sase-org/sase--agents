@@ -2,16 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-vk](../../users/bbugyi200/machines/athena/hoods/sase-vk/README.md) / sase-vk.land
 
-**Global name:** `bbugyi200.athena.sase-vk.land` · **State:** waiting · **Source run:** `run-f19bd32e34f6a059a6c71a2b863557a2`
+**Global name:** `bbugyi200.athena.sase-vk.land` · **State:** waiting · **Source run:** `run-2a846d18e34fb16b4c85493daf487e0c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-vk
 
 ## Summary
 
 - Bead: [sase-vk](https://github.com/sase-org/sase--beads/blob/main/pages/sase-vk/README.md)
-- Model: gpt-5.6-sol
-- Provider: codex
-- Timing: 20260829113041
+- Model: opus
+- Provider: claude
+- Timing: 20260830055504
 - Commits: 0
 
 ## Files
@@ -23,6 +23,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-vk.land.w0](../bbugyi200.athena.sase-vk.land.w0/README.md) | descendant | waiting |
-| [sase-vk.1](../bbugyi200.athena.sase-vk.1/README.md) | sase-vk hood | completed |
+| [sase-vk.land.w1](../bbugyi200.athena.sase-vk.land.w1/README.md) | descendant | waiting |
+| [sase-vk.1](../bbugyi200.athena.sase-vk.1/README.md) | sase-vk hood | dismissed |
 | [sase-vk.2](../bbugyi200.athena.sase-vk.2/README.md) | sase-vk hood | active |
+| [sase-vk.3](../../families/bbugyi200.athena.sase-vk.3.md) (family · 3) | sase-vk hood | active 1, completed 1, failed 1 |
 | [sase-vk.3](../bbugyi200.athena.sase-vk.3/README.md) | sase-vk hood | waiting |
