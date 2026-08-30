@@ -1154,7 +1154,7 @@
 | [rc](hoods/rc/README.md) | 3 | 1 | active 2, completed 1 |
 | [rd](hoods/rd/README.md) | 1 | 0 | active 1 |
 | [refresh\_docs](hoods/refresh_docs/README.md) | 64 | 0 | active 14, completed 48, waiting 2 |
-| [research](hoods/research/README.md) | 420 | 7 | active 250, completed 71, dismissed 74, failed 1, waiting 24 |
+| [research](hoods/research/README.md) | 420 | 7 | active 249, completed 74, dismissed 74, failed 1, waiting 22 |
 | [research\_swarm](hoods/research_swarm/README.md) | 45 | 0 | completed 45 |
 | [rf](hoods/rf/README.md) | 2 | 1 | active 1, completed 1 |
 | [rg](hoods/rg/README.md) | 2 | 1 | active 1, completed 1 |
@@ -1643,7 +1643,7 @@
 | [sase-vd](hoods/sase-vd/README.md) | 8 | 1 | active 1, completed 6, failed 1 |
 | [sase-vk](hoods/sase-vk/README.md) | 17 | 4 | active 3, completed 4, dismissed 5, failed 4, waiting 1 |
 | [sase-vs](hoods/sase-vs/README.md) | 7 | 0 | active 1, completed 5, waiting 1 |
-| [sase-vw](hoods/sase-vw/README.md) | 9 | 0 | active 1, completed 3, waiting 5 |
+| [sase-vw](hoods/sase-vw/README.md) | 9 | 0 | active 1, completed 7, waiting 1 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-0q](hoods/sase_fix_just-0q/README.md) | 1 | 0 | active 1 |
