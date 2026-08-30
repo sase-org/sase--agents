@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-vk.3--plan [completed]"]
   n1["sase-vk.3--mon [failed]"]
   n0 --> n1
-  n2["sase-vk.3--1 [active]"]
+  n2["sase-vk.3--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-vk.3--plan | completed | sonnet / claude | 2026-08-30T09:55:29.028699+00:00 → 2026-08-30T10:32:31.565041+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-vk.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-vk.3--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-vk.3--mon | failed | sonnet / claude | 2026-08-30T10:32:22.140612+00:00 → 2026-08-30T10:50:19.278031+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-vk.3--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-vk.3--1 | active | sonnet / claude | 2026-08-30T10:50:54.641313+00:00 | [1](../agents/bbugyi200.athena.sase-vk.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-vk.3--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-vk.3--1 | completed | sonnet / claude | 2026-08-30T10:50:54.641313+00:00 → 2026-08-30T10:54:38.346084+00:00 | [1](../agents/bbugyi200.athena.sase-vk.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-vk.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-vk.3--1/chat.md) |
 
 ## Commits
 
@@ -35,6 +35,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-vk.1](../agents/bbugyi200.athena.sase-vk.1/README.md) | sase-vk hood | dismissed |
 | [sase-vk.2](../agents/bbugyi200.athena.sase-vk.2/README.md) | sase-vk hood | active |
-| [sase-vk.land](../agents/bbugyi200.athena.sase-vk.land/README.md) | sase-vk hood | waiting |
-| [sase-vk.land.w0](../agents/bbugyi200.athena.sase-vk.land.w0/README.md) | sase-vk hood | waiting |
+| [sase-vk.land](../agents/bbugyi200.athena.sase-vk.land/README.md) | sase-vk hood | active |
+| [sase-vk.land.w0](../agents/bbugyi200.athena.sase-vk.land.w0/README.md) | sase-vk hood | dismissed |
 | [sase-vk.land.w1](../agents/bbugyi200.athena.sase-vk.land.w1/README.md) | sase-vk hood | waiting |
