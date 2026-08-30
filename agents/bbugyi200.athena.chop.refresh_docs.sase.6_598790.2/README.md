@@ -27,7 +27,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [chop.refresh\_docs.sase.6\_598790.1](../bbugyi200.athena.chop.refresh_docs.sase.6_598790.1/README.md) | chop.refresh\_docs.sase.6\_598790 hood | completed |
+| [chop.refresh\_docs.sase.6\_598790.1](../bbugyi200.athena.chop.refresh_docs.sase.6_598790.1/README.md) | chop.refresh\_docs.sase.6\_598790 hood | active |
 | [chop.refresh\_docs.sase.0\_190948.1](../bbugyi200.athena.chop.refresh_docs.sase.0_190948.1/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.0\_190948.2](../bbugyi200.athena.chop.refresh_docs.sase.0_190948.2/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.0\_303436.1](../bbugyi200.athena.chop.refresh_docs.sase.0_303436.1/README.md) | chop.refresh\_docs.sase hood | waiting |
@@ -78,4 +78,4 @@
 | [chop.refresh\_docs.sase.3\_998258.2](../bbugyi200.athena.chop.refresh_docs.sase.3_998258.2/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.4\_042620.1](../bbugyi200.athena.chop.refresh_docs.sase.4_042620.1/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.4\_042620.2](../bbugyi200.athena.chop.refresh_docs.sase.4_042620.2/README.md) | chop.refresh\_docs.sase hood | waiting |
-| … and 60 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/chop/README.md) | chop.refresh\_docs.sase hood | — |
+| … and 62 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/chop/README.md) | chop.refresh\_docs.sase hood | — |

@@ -34,6 +34,6 @@
 | [sase-vw.3](../bbugyi200.athena.sase-vw.3/README.md) | sase-vw hood | completed |
 | [sase-vw.4](../bbugyi200.athena.sase-vw.4/README.md) | sase-vw hood | completed |
 | [sase-vw.6](../bbugyi200.athena.sase-vw.6/README.md) | sase-vw hood | completed |
-| [sase-vw.7](../bbugyi200.athena.sase-vw.7/README.md) | sase-vw hood | active |
+| [sase-vw.7](../bbugyi200.athena.sase-vw.7/README.md) | sase-vw hood | completed |
 | [sase-vw.8](../bbugyi200.athena.sase-vw.8/README.md) | sase-vw hood | completed |
-| [sase-vw.land](../bbugyi200.athena.sase-vw.land/README.md) | sase-vw hood | waiting |
+| [sase-vw.land](../../families/bbugyi200.athena.sase-vw.land.md) (family · 3) | sase-vw hood | completed 2, failed 1 |
