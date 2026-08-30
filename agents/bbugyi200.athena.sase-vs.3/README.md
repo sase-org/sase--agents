@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-vs](../../users/bbugyi200/machines/athena/hoods/sase-vs/README.md) / sase-vs.3
 
-**Global name:** `bbugyi200.athena.sase-vs.3` · **State:** active · **Source run:** `run-49caf73b2093bf910dff37bbb3d6bc90`
+**Global name:** `bbugyi200.athena.sase-vs.3` · **State:** completed · **Source run:** `run-49caf73b2093bf910dff37bbb3d6bc90`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-vs
 
@@ -12,12 +12,12 @@
 - Epic: [sase-vs](https://github.com/sase-org/sase--beads/blob/main/pages/sase-vs/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-30T12:09:14.933917+00:00
+- Timing: 2026-08-30T12:09:14.933917+00:00 → 2026-08-30T12:42:45.751777+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -31,7 +31,7 @@
 |---|---|---|
 | [sase-vs.1](../bbugyi200.athena.sase-vs.1/README.md) | sase-vs hood | completed |
 | [sase-vs.2](../bbugyi200.athena.sase-vs.2/README.md) | sase-vs hood | completed |
-| [sase-vs.4](../bbugyi200.athena.sase-vs.4/README.md) | sase-vs hood | waiting |
+| [sase-vs.4](../bbugyi200.athena.sase-vs.4/README.md) | sase-vs hood | active |
 | [sase-vs.5](../bbugyi200.athena.sase-vs.5/README.md) | sase-vs hood | waiting |
 | [sase-vs.6](../bbugyi200.athena.sase-vs.6/README.md) | sase-vs hood | waiting |
 | [sase-vs.land](../bbugyi200.athena.sase-vs.land/README.md) | sase-vs hood | waiting |
