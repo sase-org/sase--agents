@@ -18,8 +18,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-vk.land](../bbugyi200.athena.sase-vk.land/README.md) | ancestor | active |
-| [sase-vk.land.w1.w0](../bbugyi200.athena.sase-vk.land.w1.w0/README.md) | sase-vk.land hood | waiting |
-| [sase-vk.land.w2](../../families/bbugyi200.athena.sase-vk.land.w2.md) (family · 3) | sase-vk.land hood | active 1, completed 1, failed 1 |
+| [sase-vk.land.w1.w0](../../families/bbugyi200.athena.sase-vk.land.w1.w0.md) (family · 3) | sase-vk.land hood | completed 1, failed 2 |
+| [sase-vk.land.w2](../../families/bbugyi200.athena.sase-vk.land.w2.md) (family · 3) | sase-vk.land hood | completed 2, failed 1 |
+| [sase-vk.land.w2.f0](../../families/bbugyi200.athena.sase-vk.land.w2.f0.md) (family · 3) | sase-vk.land hood | active 1, completed 1, failed 1 |
 | [sase-vk.1](../bbugyi200.athena.sase-vk.1/README.md) | sase-vk hood | dismissed |
 | [sase-vk.2](../bbugyi200.athena.sase-vk.2/README.md) | sase-vk hood | active |
 | [sase-vk.3](../../families/bbugyi200.athena.sase-vk.3.md) (family · 3) | sase-vk hood | dismissed 3 |
