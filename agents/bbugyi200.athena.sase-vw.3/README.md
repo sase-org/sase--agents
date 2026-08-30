@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-30T14:51:41.526087+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`90e3a38`](https://github.com/sase-org/sase/commit/90e3a385c526e7659b93b29a5ce599d1e6deade6) | feat(memory): fold authored links into the closure walk | 2026-08-30 11:32:44 EDT |
 
 ## Neighbors
 

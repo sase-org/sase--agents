@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-185252fa80151817eae5594efab4f8ab"}
+{"commits":[{"committed_at":1788103964,"sha":"90e3a385c526e7659b93b29a5ce599d1e6deade6","subject":"feat(memory): fold authored links into the closure walk"}],"schema_version":2,"source_run_id":"run-185252fa80151817eae5594efab4f8ab"}
