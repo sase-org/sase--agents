@@ -70,6 +70,6 @@
 | [chop.refresh\_docs.sase.3\_896860.2](../bbugyi200.athena.chop.refresh_docs.sase.3_896860.2/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.3\_998258.1](../bbugyi200.athena.chop.refresh_docs.sase.3_998258.1/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.3\_998258.2](../bbugyi200.athena.chop.refresh_docs.sase.3_998258.2/README.md) | chop.refresh\_docs.sase hood | active |
-| [chop.refresh\_docs.sase.4\_310058.1](../bbugyi200.athena.chop.refresh_docs.sase.4_310058.1/README.md) | chop.refresh\_docs.sase hood | active |
-| [chop.refresh\_docs.sase.4\_310058.2](../bbugyi200.athena.chop.refresh_docs.sase.4_310058.2/README.md) | chop.refresh\_docs.sase hood | waiting |
+| [chop.refresh\_docs.sase.4\_310058.1](../bbugyi200.athena.chop.refresh_docs.sase.4_310058.1/README.md) | chop.refresh\_docs.sase hood | completed |
+| [chop.refresh\_docs.sase.4\_310058.2](../bbugyi200.athena.chop.refresh_docs.sase.4_310058.2/README.md) | chop.refresh\_docs.sase hood | active |
 | … and 62 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/chop/README.md) | chop.refresh\_docs.sase hood | — |
