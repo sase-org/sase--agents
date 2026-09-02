@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781964237,"sha":"697002d642b2b0d7f109e4233b0dfe19f38bb474","subject":"chore: Add SDD prompt and plan for agy_tools_panel"},{"committed_at":1781965448,"sha":"6c661bbdbae36b100fed2fa4cfe6bb57a4093f4e","subject":"feat(agy): extract trajectory tool calls"}],"schema_version":2,"source_run_id":"run-387fefe426695e582b6f6d4f246d9d8e"}
