@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [research](../../users/bbugyi200/machines/kellys_mbp/hoods/research/README.md) / research.1.cdx
 
-**Global name:** `bbugyi200.kellys_mbp.research.1.cdx` · **State:** active · **Source run:** `run-0c351edef002fdefdc2cc984d0f106ec`
+**Global name:** `bbugyi200.kellys_mbp.research.1.cdx` · **State:** completed · **Source run:** `run-0c351edef002fdefdc2cc984d0f106ec`
 
 **Owner:** `bbugyi200.kellys_mbp` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-09-02T18:15:47.033709+00:00
+- Timing: 2026-09-02T18:15:47.033709+00:00 → 2026-09-02T18:41:45.805937+00:00
 - Commits: [2](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,13 +29,13 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.1.cld](../bbugyi200.kellys_mbp.research.1.cld/README.md) | research.1 hood | completed |
-| [research.1.final](../bbugyi200.kellys_mbp.research.1.final/README.md) | research.1 hood | waiting |
+| [research.1.final](../bbugyi200.kellys_mbp.research.1.final/README.md) | research.1 hood | completed |
 | [research.1.final.f1](../bbugyi200.kellys_mbp.research.1.final.f1/README.md) | research.1 hood | completed |
-| [research.1.image](../bbugyi200.kellys_mbp.research.1.image/README.md) | research.1 hood | waiting |
+| [research.1.image](../bbugyi200.kellys_mbp.research.1.image/README.md) | research.1 hood | active |
 | [research.0.cdx](../bbugyi200.kellys_mbp.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.kellys_mbp.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.kellys_mbp.research.0.final/README.md) | research hood | completed |
-| [research.0.image](../bbugyi200.kellys_mbp.research.0.image/README.md) | research hood | active |
+| [research.0.image](../bbugyi200.kellys_mbp.research.0.image/README.md) | research hood | dismissed |
 | [research.01.cdx](../bbugyi200.kellys_mbp.research.01.cdx/README.md) | research hood | completed |
 | [research.01.cld](../bbugyi200.kellys_mbp.research.01.cld/README.md) | research hood | completed |
 | [research.01.final](../bbugyi200.kellys_mbp.research.01.final/README.md) | research hood | completed |

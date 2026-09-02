@@ -2,20 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [research](../../users/bbugyi200/machines/kellys_mbp/hoods/research/README.md) / research.0.image
 
-**Global name:** `bbugyi200.kellys_mbp.research.0.image` · **State:** active · **Source run:** `run-247e4c420de000e38926020625201280`
+**Global name:** `bbugyi200.kellys_mbp.research.0.image` · **State:** dismissed · **Source run:** `run-8af492ac4b660b021fac5123cf9a5022`
 
 **Owner:** `bbugyi200.kellys_mbp` · **Project:** sase · **Hood:** research
 
 ## Summary
 
-- Model: gpt-5.6-sol
-- Provider: codex
-- Timing: 2026-09-02T18:40:20.635601+00:00
+- Model: —
+- Provider: —
+- Timing: 2026-09-02T14:07:36
 - Commits: [1](#commits)
-
-## Files
-
-[Prompt](prompt.md)
 
 ## Commits
 
