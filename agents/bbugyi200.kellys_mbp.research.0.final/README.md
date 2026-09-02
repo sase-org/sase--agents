@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [research](../../users/bbugyi200/machines/kellys_mbp/hoods/research/README.md) / research.0.final
 
-**Global name:** `bbugyi200.kellys_mbp.research.0.final` · **State:** waiting · **Source run:** `run-0c59b1f9b82c775985832141342455fb`
+**Global name:** `bbugyi200.kellys_mbp.research.0.final` · **State:** completed · **Source run:** `run-0c59b1f9b82c775985832141342455fb`
 
 **Owner:** `bbugyi200.kellys_mbp` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,12 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20260902140905
+- Timing: 2026-09-02T18:32:12.326832+00:00 → 2026-09-02T18:40:12.111585+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,9 +27,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.0.cdx](../bbugyi200.kellys_mbp.research.0.cdx/README.md) | research.0 hood | active |
-| [research.0.cld](../bbugyi200.kellys_mbp.research.0.cld/README.md) | research.0 hood | active |
-| [research.0.image](../bbugyi200.kellys_mbp.research.0.image/README.md) | research.0 hood | waiting |
+| [research.0.cdx](../bbugyi200.kellys_mbp.research.0.cdx/README.md) | research.0 hood | completed |
+| [research.0.cld](../bbugyi200.kellys_mbp.research.0.cld/README.md) | research.0 hood | completed |
+| [research.0.image](../bbugyi200.kellys_mbp.research.0.image/README.md) | research.0 hood | active |
 | [research.01.cdx](../bbugyi200.kellys_mbp.research.01.cdx/README.md) | research hood | completed |
 | [research.01.cld](../bbugyi200.kellys_mbp.research.01.cld/README.md) | research hood | completed |
 | [research.01.final](../bbugyi200.kellys_mbp.research.01.final/README.md) | research hood | completed |

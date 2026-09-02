@@ -7,4 +7,4 @@
 | Hood | Runs | Families | States |
 |---|---:|---:|---|
 | [5](hoods/5/README.md) | 1 | 0 | dismissed 1 |
-| [research](hoods/research/README.md) | 242 | 0 | active 5, completed 231, waiting 6 |
+| [research](hoods/research/README.md) | 242 | 0 | active 4, completed 234, waiting 4 |

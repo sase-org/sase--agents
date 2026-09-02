@@ -28,10 +28,10 @@
 | [research.w.cdx](../bbugyi200.kellys_mbp.research.w.cdx/README.md) | research.w hood | completed |
 | [research.w.cld](../bbugyi200.kellys_mbp.research.w.cld/README.md) | research.w hood | completed |
 | [research.w.image](../bbugyi200.kellys_mbp.research.w.image/README.md) | research.w hood | completed |
-| [research.0.cdx](../bbugyi200.kellys_mbp.research.0.cdx/README.md) | research hood | active |
-| [research.0.cld](../bbugyi200.kellys_mbp.research.0.cld/README.md) | research hood | active |
-| [research.0.final](../bbugyi200.kellys_mbp.research.0.final/README.md) | research hood | waiting |
-| [research.0.image](../bbugyi200.kellys_mbp.research.0.image/README.md) | research hood | waiting |
+| [research.0.cdx](../bbugyi200.kellys_mbp.research.0.cdx/README.md) | research hood | completed |
+| [research.0.cld](../bbugyi200.kellys_mbp.research.0.cld/README.md) | research hood | completed |
+| [research.0.final](../bbugyi200.kellys_mbp.research.0.final/README.md) | research hood | completed |
+| [research.0.image](../bbugyi200.kellys_mbp.research.0.image/README.md) | research hood | active |
 | [research.01.cdx](../bbugyi200.kellys_mbp.research.01.cdx/README.md) | research hood | completed |
 | [research.01.cld](../bbugyi200.kellys_mbp.research.01.cld/README.md) | research hood | completed |
 | [research.01.final](../bbugyi200.kellys_mbp.research.01.final/README.md) | research hood | completed |
