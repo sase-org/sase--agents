@@ -31,7 +31,7 @@
 | [research.1.cld](../bbugyi200.kellys_mbp.research.1.cld/README.md) | research.1 hood | completed |
 | [research.1.final](../bbugyi200.kellys_mbp.research.1.final/README.md) | research.1 hood | completed |
 | [research.1.final.f1](../bbugyi200.kellys_mbp.research.1.final.f1/README.md) | research.1 hood | completed |
-| [research.1.image](../bbugyi200.kellys_mbp.research.1.image/README.md) | research.1 hood | active |
+| [research.1.image](../bbugyi200.kellys_mbp.research.1.image/README.md) | research.1 hood | completed |
 | [research.0.cdx](../bbugyi200.kellys_mbp.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.kellys_mbp.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.kellys_mbp.research.0.final/README.md) | research hood | completed |
