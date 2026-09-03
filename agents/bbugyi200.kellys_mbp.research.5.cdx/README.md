@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [research](../../users/bbugyi200/machines/kellys_mbp/hoods/research/README.md) / research.5.cdx
 
-**Global name:** `bbugyi200.kellys_mbp.research.5.cdx` · **State:** active · **Source run:** `run-921c5214dc40fcad2a9ce8cb0d666ba5`
+**Global name:** `bbugyi200.kellys_mbp.research.5.cdx` · **State:** completed · **Source run:** `run-921c5214dc40fcad2a9ce8cb0d666ba5`
 
 **Owner:** `bbugyi200.kellys_mbp` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-09-03T21:12:20.546477+00:00
+- Timing: 2026-09-03T21:12:20.546477+00:00 → 2026-09-03T21:31:46.852460+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -28,7 +28,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.5.cld](../bbugyi200.kellys_mbp.research.5.cld/README.md) | research.5 hood | completed |
-| [research.5.final](../bbugyi200.kellys_mbp.research.5.final/README.md) | research.5 hood | waiting |
+| [research.5.final](../bbugyi200.kellys_mbp.research.5.final/README.md) | research.5 hood | active |
 | [research.5.final.f1](../bbugyi200.kellys_mbp.research.5.final.f1/README.md) | research.5 hood | completed |
 | [research.5.image](../bbugyi200.kellys_mbp.research.5.image/README.md) | research.5 hood | waiting |
 | [research.0.cdx](../bbugyi200.kellys_mbp.research.0.cdx/README.md) | research hood | dismissed |

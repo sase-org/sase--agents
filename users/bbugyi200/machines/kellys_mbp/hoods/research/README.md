@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [kellys\_mbp](../../README.md) / research
 
-**Global hood:** `bbugyi200.kellys_mbp.research` · **Runs:** 244 · **Families:** 0 · **States:** active 1, completed 227, dismissed 14, waiting 2
+**Global hood:** `bbugyi200.kellys_mbp.research` · **Runs:** 244 · **Families:** 0 · **States:** active 1, completed 228, dismissed 14, waiting 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -116,7 +116,7 @@
 | [research.final-8](../../../../../../agents/bbugyi200.kellys_mbp.research.final-8/README.md) | completed | — | 2026-06-04T23:49:31+00:00 → 2026-06-04T23:49:31+00:00 | 1 | — |
 | [research.3.cld](../../../../../../agents/bbugyi200.kellys_mbp.research.3.cld/README.md) | completed | opus / claude | 2026-09-03T20:24:22.030241+00:00 → 2026-09-03T20:37:45.944798+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.kellys_mbp.research.3.cld/prompt.md), [chat](../../../../../../agents/bbugyi200.kellys_mbp.research.3.cld/chat.md) |
 | [research.u.final](../../../../../../agents/bbugyi200.kellys_mbp.research.u.final/README.md) | completed | — | 2026-06-19T20:16:24+00:00 → 2026-06-19T20:16:24+00:00 | 1 | — |
-| [research.5.final](../../../../../../agents/bbugyi200.kellys_mbp.research.5.final/README.md) | waiting | claude-fable-5 / claude | 20260903171142 | 1 | [prompt](../../../../../../agents/bbugyi200.kellys_mbp.research.5.final/prompt.md) |
+| [research.5.final](../../../../../../agents/bbugyi200.kellys_mbp.research.5.final/README.md) | active | claude-fable-5 / claude | 2026-09-03T21:32:32.497176+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.kellys_mbp.research.5.final/prompt.md) |
 | [research.w.final](../../../../../../agents/bbugyi200.kellys_mbp.research.w.final/README.md) | completed | — | 2026-06-20T13:39:45+00:00 → 2026-06-20T13:39:45+00:00 | 1 | — |
 | [research.0p.image](../../../../../../agents/bbugyi200.kellys_mbp.research.0p.image/README.md) | completed | — | 2026-06-26T19:41:45+00:00 → 2026-06-26T19:41:45+00:00 | 1 | — |
 | [research.7.final](../../../../../../agents/bbugyi200.kellys_mbp.research.7.final/README.md) | completed | — | 2026-06-11T22:26:58+00:00 → 2026-06-11T22:26:58+00:00 | 1 | — |
@@ -145,7 +145,7 @@
 | [research.06.cdx](../../../../../../agents/bbugyi200.kellys_mbp.research.06.cdx/README.md) | completed | — | 2026-06-22T16:36:12+00:00 → 2026-06-22T16:36:12+00:00 | 1 | — |
 | [research.3.final](../../../../../../agents/bbugyi200.kellys_mbp.research.3.final/README.md) | completed | claude-fable-5 / claude | 2026-09-03T20:38:10.160419+00:00 → 2026-09-03T20:47:28.105203+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.kellys_mbp.research.3.final/prompt.md), [chat](../../../../../../agents/bbugyi200.kellys_mbp.research.3.final/chat.md) |
 | [research.m.cld](../../../../../../agents/bbugyi200.kellys_mbp.research.m.cld/README.md) | completed | — | 2026-06-17T22:27:56+00:00 → 2026-06-17T22:27:56+00:00 | 1 | — |
-| [research.5.cdx](../../../../../../agents/bbugyi200.kellys_mbp.research.5.cdx/README.md) | active | gpt-5.6-sol / codex | 2026-09-03T21:12:20.546477+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.kellys_mbp.research.5.cdx/prompt.md) |
+| [research.5.cdx](../../../../../../agents/bbugyi200.kellys_mbp.research.5.cdx/README.md) | completed | gpt-5.6-sol / codex | 2026-09-03T21:12:20.546477+00:00 → 2026-09-03T21:31:46.852460+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.kellys_mbp.research.5.cdx/prompt.md), [chat](../../../../../../agents/bbugyi200.kellys_mbp.research.5.cdx/chat.md) |
 | [research.e.final](../../../../../../agents/bbugyi200.kellys_mbp.research.e.final/README.md) | completed | — | 2026-06-14T14:32:46+00:00 → 2026-06-14T14:32:46+00:00 | 1 | — |
 | [research.5.cld](../../../../../../agents/bbugyi200.kellys_mbp.research.5.cld/README.md) | completed | opus / claude | 2026-09-03T21:12:52.530335+00:00 → 2026-09-03T21:30:15.205545+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.kellys_mbp.research.5.cld/prompt.md), [chat](../../../../../../agents/bbugyi200.kellys_mbp.research.5.cld/chat.md) |
 | [research.cld-1](../../../../../../agents/bbugyi200.kellys_mbp.research.cld-1/README.md) | completed | — | 2026-06-03T07:15:40+00:00 → 2026-06-03T07:15:40+00:00 | 1 | — |
