@@ -27,9 +27,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4.cdx](../bbugyi200.kellys_mbp.research.4.cdx/README.md) | research.4 hood | active |
+| [research.4.cdx](../bbugyi200.kellys_mbp.research.4.cdx/README.md) | research.4 hood | completed |
 | [research.4.cld](../bbugyi200.kellys_mbp.research.4.cld/README.md) | research.4 hood | active |
-| [research.4.image](../bbugyi200.kellys_mbp.research.4.image/README.md) | research.4 hood | waiting |
+| [research.4.image](../bbugyi200.kellys_mbp.research.4.image/README.md) | research.4 hood | dismissed |
 | [research.0.cdx](../bbugyi200.kellys_mbp.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.kellys_mbp.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.kellys_mbp.research.0.final/README.md) | research hood | dismissed |
