@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [research](../../users/bbugyi200/machines/kellys_mbp/hoods/research/README.md) / research.4.final
 
-**Global name:** `bbugyi200.kellys_mbp.research.4.final` · **State:** active · **Source run:** `run-978a20987515c3e953a41e2db89c86a9`
+**Global name:** `bbugyi200.kellys_mbp.research.4.final` · **State:** completed · **Source run:** `run-978a20987515c3e953a41e2db89c86a9`
 
 **Owner:** `bbugyi200.kellys_mbp` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,12 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 2026-09-03T20:56:42.781843+00:00
+- Timing: 2026-09-03T20:56:42.781843+00:00 → 2026-09-03T21:08:03.346842+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 

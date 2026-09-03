@@ -2,16 +2,20 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [research](../../users/bbugyi200/machines/kellys_mbp/hoods/research/README.md) / research.5.cld
 
-**Global name:** `bbugyi200.kellys_mbp.research.5.cld` · **State:** completed · **Source run:** `run-ea86660a0cc4ad0a6c157c0e6aec35e8`
+**Global name:** `bbugyi200.kellys_mbp.research.5.cld` · **State:** completed · **Source run:** `run-93212673e609534d66957a4a6d46f181`
 
 **Owner:** `bbugyi200.kellys_mbp` · **Project:** sase · **Hood:** research
 
 ## Summary
 
-- Model: —
-- Provider: —
-- Timing: 2026-06-09T22:09:48+00:00 → 2026-06-09T22:09:48+00:00
+- Model: opus
+- Provider: claude
+- Timing: 2026-09-03T21:12:52.530335+00:00 → 2026-09-03T21:30:15.205545+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -23,10 +27,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5.cdx](../bbugyi200.kellys_mbp.research.5.cdx/README.md) | research.5 hood | completed |
-| [research.5.final](../bbugyi200.kellys_mbp.research.5.final/README.md) | research.5 hood | completed |
+| [research.5.cdx](../bbugyi200.kellys_mbp.research.5.cdx/README.md) | research.5 hood | active |
+| [research.5.final](../bbugyi200.kellys_mbp.research.5.final/README.md) | research.5 hood | waiting |
 | [research.5.final.f1](../bbugyi200.kellys_mbp.research.5.final.f1/README.md) | research.5 hood | completed |
-| [research.5.image](../bbugyi200.kellys_mbp.research.5.image/README.md) | research.5 hood | completed |
+| [research.5.image](../bbugyi200.kellys_mbp.research.5.image/README.md) | research.5 hood | waiting |
 | [research.0.cdx](../bbugyi200.kellys_mbp.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.kellys_mbp.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.kellys_mbp.research.0.final/README.md) | research hood | dismissed |

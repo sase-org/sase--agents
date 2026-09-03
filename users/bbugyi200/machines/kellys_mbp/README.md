@@ -8,4 +8,4 @@
 |---|---:|---:|---|
 | [5](hoods/5/README.md) | 1 | 0 | dismissed 1 |
 | [j](hoods/j/README.md) | 5 | 1 | active 1, completed 2, dismissed 1, failed 1 |
-| [research](hoods/research/README.md) | 244 | 0 | active 1, completed 229, dismissed 14 |
+| [research](hoods/research/README.md) | 244 | 0 | active 1, completed 227, dismissed 14, waiting 2 |
