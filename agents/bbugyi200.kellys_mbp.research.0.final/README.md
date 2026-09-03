@@ -2,20 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [research](../../users/bbugyi200/machines/kellys_mbp/hoods/research/README.md) / research.0.final
 
-**Global name:** `bbugyi200.kellys_mbp.research.0.final` · **State:** completed · **Source run:** `run-0c59b1f9b82c775985832141342455fb`
+**Global name:** `bbugyi200.kellys_mbp.research.0.final` · **State:** dismissed · **Source run:** `run-0c59b1f9b82c775985832141342455fb`
 
 **Owner:** `bbugyi200.kellys_mbp` · **Project:** sase · **Hood:** research
 
 ## Summary
 
-- Model: claude-fable-5
-- Provider: claude
-- Timing: 2026-09-02T18:32:12.326832+00:00 → 2026-09-02T18:40:12.111585+00:00
+- Model: —
+- Provider: —
+- Timing: 2026-09-02T14:09:05
 - Commits: [1](#commits)
-
-## Files
-
-[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,8 +23,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.0.cdx](../bbugyi200.kellys_mbp.research.0.cdx/README.md) | research.0 hood | completed |
-| [research.0.cld](../bbugyi200.kellys_mbp.research.0.cld/README.md) | research.0 hood | completed |
+| [research.0.cdx](../bbugyi200.kellys_mbp.research.0.cdx/README.md) | research.0 hood | dismissed |
+| [research.0.cld](../bbugyi200.kellys_mbp.research.0.cld/README.md) | research.0 hood | dismissed |
 | [research.0.image](../bbugyi200.kellys_mbp.research.0.image/README.md) | research.0 hood | dismissed |
 | [research.01.cdx](../bbugyi200.kellys_mbp.research.01.cdx/README.md) | research hood | completed |
 | [research.01.cld](../bbugyi200.kellys_mbp.research.01.cld/README.md) | research hood | completed |
@@ -80,4 +76,4 @@
 | [research.0i.cdx](../bbugyi200.kellys_mbp.research.0i.cdx/README.md) | research hood | completed |
 | [research.0i.cld](../bbugyi200.kellys_mbp.research.0i.cld/README.md) | research hood | completed |
 | [research.0i.final](../bbugyi200.kellys_mbp.research.0i.final/README.md) | research hood | completed |
-| … and 188 more in the [hood roster](../../users/bbugyi200/machines/kellys_mbp/hoods/research/README.md) | research hood | — |
+| … and 190 more in the [hood roster](../../users/bbugyi200/machines/kellys_mbp/hoods/research/README.md) | research hood | — |

@@ -2,16 +2,20 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [research](../../users/bbugyi200/machines/kellys_mbp/hoods/research/README.md) / research.3.cdx
 
-**Global name:** `bbugyi200.kellys_mbp.research.3.cdx` · **State:** completed · **Source run:** `run-630b61abf42536e4d5c94ebcad708ebc`
+**Global name:** `bbugyi200.kellys_mbp.research.3.cdx` · **State:** completed · **Source run:** `run-4ddd3e0aeb3aa6573913d9de9c6c390b`
 
 **Owner:** `bbugyi200.kellys_mbp` · **Project:** sase · **Hood:** research
 
 ## Summary
 
-- Model: —
-- Provider: —
-- Timing: 2026-07-08T21:36:04+00:00 → 2026-07-08T21:36:04+00:00
+- Model: gpt-5.6-sol
+- Provider: codex
+- Timing: 2026-09-03T20:22:30.614667+00:00 → 2026-09-03T20:38:06.596155+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -24,11 +28,11 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.3.cld](../bbugyi200.kellys_mbp.research.3.cld/README.md) | research.3 hood | completed |
-| [research.3.final](../bbugyi200.kellys_mbp.research.3.final/README.md) | research.3 hood | completed |
-| [research.3.image](../bbugyi200.kellys_mbp.research.3.image/README.md) | research.3 hood | completed |
-| [research.0.cdx](../bbugyi200.kellys_mbp.research.0.cdx/README.md) | research hood | completed |
-| [research.0.cld](../bbugyi200.kellys_mbp.research.0.cld/README.md) | research hood | completed |
-| [research.0.final](../bbugyi200.kellys_mbp.research.0.final/README.md) | research hood | completed |
+| [research.3.final](../bbugyi200.kellys_mbp.research.3.final/README.md) | research.3 hood | active |
+| [research.3.image](../bbugyi200.kellys_mbp.research.3.image/README.md) | research.3 hood | waiting |
+| [research.0.cdx](../bbugyi200.kellys_mbp.research.0.cdx/README.md) | research hood | dismissed |
+| [research.0.cld](../bbugyi200.kellys_mbp.research.0.cld/README.md) | research hood | dismissed |
+| [research.0.final](../bbugyi200.kellys_mbp.research.0.final/README.md) | research hood | dismissed |
 | [research.0.image](../bbugyi200.kellys_mbp.research.0.image/README.md) | research hood | dismissed |
 | [research.01.cdx](../bbugyi200.kellys_mbp.research.01.cdx/README.md) | research hood | completed |
 | [research.01.cld](../bbugyi200.kellys_mbp.research.01.cld/README.md) | research hood | completed |
@@ -76,4 +80,4 @@
 | [research.0e.cld](../bbugyi200.kellys_mbp.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.kellys_mbp.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.kellys_mbp.research.0e.final.f1/README.md) | research hood | completed |
-| … and 188 more in the [hood roster](../../users/bbugyi200/machines/kellys_mbp/hoods/research/README.md) | research hood | — |
+| … and 190 more in the [hood roster](../../users/bbugyi200/machines/kellys_mbp/hoods/research/README.md) | research hood | — |
