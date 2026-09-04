@@ -22,6 +22,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-w8.2](../bbugyi200.kellys_mbp.sase-w8.2/README.md) | sase-w8 hood | active |
-| [sase-w8.3](../bbugyi200.kellys_mbp.sase-w8.3/README.md) | sase-w8 hood | waiting |
-| [sase-w8.land](../bbugyi200.kellys_mbp.sase-w8.land/README.md) | sase-w8 hood | waiting |
+| [sase-w8.2](../bbugyi200.kellys_mbp.sase-w8.2/README.md) | sase-w8 hood | dismissed |
+| [sase-w8.3](../bbugyi200.kellys_mbp.sase-w8.3/README.md) | sase-w8 hood | dismissed |
+| [sase-w8.land](../bbugyi200.kellys_mbp.sase-w8.land/README.md) | sase-w8 hood | active |
