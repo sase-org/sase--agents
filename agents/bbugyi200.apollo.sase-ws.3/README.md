@@ -30,7 +30,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ws.3.f0](../../families/bbugyi200.apollo.sase-ws.3.f0.md) (family · 2) | descendant | active 1, dismissed 1 |
-| [sase-ws.4](../../families/bbugyi200.apollo.sase-ws.4.md) (family · 3) | sase-ws hood | active 2, failed 1 |
-| [sase-ws.5](../bbugyi200.apollo.sase-ws.5/README.md) | sase-ws hood | waiting |
+| [sase-ws.4](../../families/bbugyi200.apollo.sase-ws.4.md) (family · 3) | sase-ws hood | completed 2, failed 1 |
+| [sase-ws.5](../bbugyi200.apollo.sase-ws.5/README.md) | sase-ws hood | active |
 | [sase-ws.6](../bbugyi200.apollo.sase-ws.6/README.md) | sase-ws hood | waiting |
 | [sase-ws.land](../bbugyi200.apollo.sase-ws.land/README.md) | sase-ws hood | waiting |

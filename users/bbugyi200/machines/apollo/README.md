@@ -15,4 +15,4 @@
 | [sase-w8](hoods/sase-w8/README.md) | 8 | 1 | completed 5, failed 3 |
 | [sase-wm](hoods/sase-wm/README.md) | 8 | 2 | completed 7, failed 1 |
 | [sase-wn](hoods/sase-wn/README.md) | 15 | 1 | active 1, completed 9, dismissed 1, failed 2, waiting 2 |
-| [sase-ws](hoods/sase-ws/README.md) | 10 | 2 | active 3, completed 2, dismissed 1, failed 1, waiting 3 |
+| [sase-ws](hoods/sase-ws/README.md) | 10 | 2 | active 2, completed 4, dismissed 1, failed 1, waiting 2 |

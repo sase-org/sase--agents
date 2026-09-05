@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-ws.4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_ws_4__plan-260905_105049.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_ws_4__code-260905_105049.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/delete_import_engine.md
 
 
