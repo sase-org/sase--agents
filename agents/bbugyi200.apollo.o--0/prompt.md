@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #coder:~/.sase/plans/202609/pending_tale_status_pregate_window.md %m:@medium
