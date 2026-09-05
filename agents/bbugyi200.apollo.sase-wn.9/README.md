@@ -30,7 +30,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-wn.1](../bbugyi200.apollo.sase-wn.1/README.md) | sase-wn hood | completed |
-| [sase-wn.10](../../families/bbugyi200.apollo.sase-wn.10.md) (family · 9) | sase-wn hood | active 1, completed 4, failed 4 |
+| [sase-wn.10](../../families/bbugyi200.apollo.sase-wn.10.md) (family · 9) | sase-wn hood | completed 5, failed 4 |
 | [sase-wn.2](../bbugyi200.apollo.sase-wn.2/README.md) | sase-wn hood | completed |
 | [sase-wn.3](../bbugyi200.apollo.sase-wn.3/README.md) | sase-wn hood | completed |
 | [sase-wn.4](../bbugyi200.apollo.sase-wn.4/README.md) | sase-wn hood | dismissed |
@@ -38,4 +38,4 @@
 | [sase-wn.6](../bbugyi200.apollo.sase-wn.6/README.md) | sase-wn hood | completed |
 | [sase-wn.7](../bbugyi200.apollo.sase-wn.7/README.md) | sase-wn hood | completed |
 | [sase-wn.8](../bbugyi200.apollo.sase-wn.8/README.md) | sase-wn hood | completed |
-| [sase-wn.land](../bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | waiting |
+| [sase-wn.land](../bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | active |

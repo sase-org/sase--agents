@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["sase-wn.10--plan [completed]"]
   n0 --> n4
-  n5["sase-wn.10--4 [active]"]
+  n5["sase-wn.10--4 [completed]"]
   n0 --> n5
   n6["sase-wn.10--mon-1 [failed]"]
   n0 --> n6
@@ -36,7 +36,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-3"></a>3 | sase-wn.10--3 | completed | grok-4.6 / grok | 2026-09-05T20:40:43.024875+00:00 → 2026-09-05T20:54:38.519850+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-wn.10--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-wn.10--3/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | sase-wn.10--mon-2 | failed | grok-4.6 / grok | 2026-09-05T20:54:19.027095+00:00 → 2026-09-05T21:25:57.618780+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-wn.10--mon-2/chat.md) |
 | <a id="member-plan"></a>plan | sase-wn.10--plan | completed | grok-4.6 / grok | 2026-09-05T10:54:24.230364+00:00 → 2026-09-05T12:29:04.275355+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-wn.10--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-wn.10--plan/chat.md) |
-| <a id="member-4"></a>4 | sase-wn.10--4 | active | grok-4.6 / grok | 2026-09-05T21:31:53.609273+00:00 | [1](../agents/bbugyi200.apollo.sase-wn.10--4/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-wn.10--4/prompt.md) | — |
+| <a id="member-4"></a>4 | sase-wn.10--4 | completed | grok-4.6 / grok | 2026-09-05T21:31:53.609273+00:00 → 2026-09-05T21:39:02.437381+00:00 | [1](../agents/bbugyi200.apollo.sase-wn.10--4/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-wn.10--4/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-wn.10--4/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-wn.10--mon-1 | failed | grok-4.6 / grok | 2026-09-05T20:25:39.940448+00:00 → 2026-09-05T20:35:44.333476+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-wn.10--mon-1/chat.md) |
 | <a id="member-2"></a>2 | sase-wn.10--2 | completed | grok-4.6 / grok | 2026-09-05T20:13:54.163457+00:00 → 2026-09-05T20:25:58.217524+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-wn.10--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-wn.10--2/chat.md) |
 | <a id="member-1"></a>1 | sase-wn.10--1 | completed | grok-4.6 / grok | 2026-09-05T14:40:32.071536+00:00 → 2026-09-05T15:07:17.866653+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-wn.10--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-wn.10--1/chat.md) |
@@ -60,4 +60,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-wn.7](../agents/bbugyi200.apollo.sase-wn.7/README.md) | sase-wn hood | completed |
 | [sase-wn.8](../agents/bbugyi200.apollo.sase-wn.8/README.md) | sase-wn hood | completed |
 | [sase-wn.9](../agents/bbugyi200.apollo.sase-wn.9/README.md) | sase-wn hood | completed |
-| [sase-wn.land](../agents/bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | waiting |
+| [sase-wn.land](../agents/bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | active |

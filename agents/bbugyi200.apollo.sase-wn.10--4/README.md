@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-wn](../../users/bbugyi200/machines/apollo/hoods/sase-wn/README.md) / [sase-wn.10](../../families/bbugyi200.apollo.sase-wn.10.md) / sase-wn.10--4
 
-**Global name:** `bbugyi200.apollo.sase-wn.10--4` · **State:** active · **Source run:** `run-61b8ee4b9603b95821c30cd151eecea3`
+**Global name:** `bbugyi200.apollo.sase-wn.10--4` · **State:** completed · **Source run:** `run-61b8ee4b9603b95821c30cd151eecea3`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-wn
 
@@ -11,12 +11,12 @@
 - Bead: [sase-wn.10](https://github.com/sase-org/sase--beads/blob/main/pages/sase-wn/sase-wn.10.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-05T21:31:53.609273+00:00
+- Timing: 2026-09-05T21:31:53.609273+00:00 → 2026-09-05T21:39:02.437381+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -37,4 +37,4 @@
 | [sase-wn.7](../bbugyi200.apollo.sase-wn.7/README.md) | sase-wn hood | completed |
 | [sase-wn.8](../bbugyi200.apollo.sase-wn.8/README.md) | sase-wn hood | completed |
 | [sase-wn.9](../bbugyi200.apollo.sase-wn.9/README.md) | sase-wn hood | completed |
-| [sase-wn.land](../bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | waiting |
+| [sase-wn.land](../bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | active |
