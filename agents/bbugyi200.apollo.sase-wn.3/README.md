@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-wn](../../users/bbugyi200/machines/apollo/hoods/sase-wn/README.md) / sase-wn.3
 
-**Global name:** `bbugyi200.apollo.sase-wn.3` · **State:** waiting · **Source run:** `run-613c202e0cb740fae054a1a66e608adb`
+**Global name:** `bbugyi200.apollo.sase-wn.3` · **State:** active · **Source run:** `run-613c202e0cb740fae054a1a66e608adb`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-wn
 
@@ -12,12 +12,18 @@
 - Epic: [sase-wn](https://github.com/sase-org/sase--beads/blob/main/pages/sase-wn/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 20260904121416
-- Commits: 0
+- Timing: 2026-09-05T10:08:06.988875+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ad5bcc9`](https://github.com/sase-org/sase/commit/ad5bcc914b84c5ef3696bf43805038ba354e1800) | feat(ace): wire fs change-token guards into shipped hooks/waits chops | 2026-09-05 06:51:02 EDT |
 
 ## Neighbors
 
@@ -26,8 +32,9 @@
 | [sase-wn.1](../bbugyi200.apollo.sase-wn.1/README.md) | sase-wn hood | completed |
 | [sase-wn.10](../bbugyi200.apollo.sase-wn.10/README.md) | sase-wn hood | waiting |
 | [sase-wn.2](../bbugyi200.apollo.sase-wn.2/README.md) | sase-wn hood | completed |
+| [sase-wn.4](../bbugyi200.apollo.sase-wn.4/README.md) | sase-wn hood | dismissed |
 | [sase-wn.5](../../families/bbugyi200.apollo.sase-wn.5.md) (family · 5) | sase-wn hood | completed 3, failed 2 |
-| [sase-wn.6](../bbugyi200.apollo.sase-wn.6/README.md) | sase-wn hood | active |
+| [sase-wn.6](../bbugyi200.apollo.sase-wn.6/README.md) | sase-wn hood | completed |
 | [sase-wn.7](../bbugyi200.apollo.sase-wn.7/README.md) | sase-wn hood | completed |
 | [sase-wn.8](../bbugyi200.apollo.sase-wn.8/README.md) | sase-wn hood | completed |
 | [sase-wn.9](../bbugyi200.apollo.sase-wn.9/README.md) | sase-wn hood | completed |

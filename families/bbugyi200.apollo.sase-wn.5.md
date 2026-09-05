@@ -29,6 +29,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | sase-wn.5--mon | failed | grok-4.6 / grok | 2026-09-04T18:55:08.158498+00:00 → 2026-09-04T19:42:51.159183+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-wn.5--mon/chat.md) |
 | <a id="member-code"></a>code | sase-wn.5--code | completed | grok-4.6 / grok | 2026-09-04T16:59:05.452234+00:00 → 2026-09-04T18:56:00.584594+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-wn.5--code/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`2eb1335`](https://github.com/sase-org/sase/commit/2eb13350f991a84b340f4d6619334b9311bd7f9c) | feat(ace): gate auto-refresh on per-surface change tokens | 2026-09-04 20:53:28 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
@@ -36,8 +42,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-wn.1](../agents/bbugyi200.apollo.sase-wn.1/README.md) | sase-wn hood | completed |
 | [sase-wn.10](../agents/bbugyi200.apollo.sase-wn.10/README.md) | sase-wn hood | waiting |
 | [sase-wn.2](../agents/bbugyi200.apollo.sase-wn.2/README.md) | sase-wn hood | completed |
-| [sase-wn.3](../agents/bbugyi200.apollo.sase-wn.3/README.md) | sase-wn hood | waiting |
-| [sase-wn.6](../agents/bbugyi200.apollo.sase-wn.6/README.md) | sase-wn hood | active |
+| [sase-wn.3](../agents/bbugyi200.apollo.sase-wn.3/README.md) | sase-wn hood | active |
+| [sase-wn.4](../agents/bbugyi200.apollo.sase-wn.4/README.md) | sase-wn hood | dismissed |
+| [sase-wn.6](../agents/bbugyi200.apollo.sase-wn.6/README.md) | sase-wn hood | completed |
 | [sase-wn.7](../agents/bbugyi200.apollo.sase-wn.7/README.md) | sase-wn hood | completed |
 | [sase-wn.8](../agents/bbugyi200.apollo.sase-wn.8/README.md) | sase-wn hood | completed |
 | [sase-wn.9](../agents/bbugyi200.apollo.sase-wn.9/README.md) | sase-wn hood | completed |

@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-wm.2--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_wm_2__plan-260904_120142.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_wm_2__code-260904_120142.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/projects_tab_init_flow.md
 
 
