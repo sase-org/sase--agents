@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:0gj Also, can we let these two researchers know about the other and instruct them to NOT attempt to read the other agent's research file (these agents are meant to do independent research). #plan %m:@xlarge

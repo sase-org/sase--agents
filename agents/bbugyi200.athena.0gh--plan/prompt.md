@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make the `sase prompt search` command MUCH faster? It is very slow currently. #plan %m:@xlarge
