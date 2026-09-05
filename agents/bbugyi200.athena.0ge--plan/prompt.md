@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase Can you help me remove the `Choose clan` option on the "Agent Cleanup" panel? Instead, we should treat agent shells / agent families contained in agent clans just like we do agent shells / agent families not contained in agent clans (for example, done agents in agent clans should be dismissed by the `Dismiss completed in panel` option on the "Agent Cleanup" panel).
+
+#plan %m:@xlarge
