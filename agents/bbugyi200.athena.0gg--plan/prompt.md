@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me remove the `@research_lead` model alias used by the research lead in the `#research_swarm` xprompt workflow and have it use the `@xlarge` model alias instead? #plan %m:@xlarge
