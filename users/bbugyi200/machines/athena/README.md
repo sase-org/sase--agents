@@ -472,7 +472,7 @@
 | [0gd](hoods/0gd/README.md) | 5 | 1 | active 1, completed 2, failed 2 |
 | [0ge](hoods/0ge/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0gf](hoods/0gf/README.md) | 5 | 1 | active 1, completed 2, failed 2 |
-| [0gg](hoods/0gg/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [0gg](hoods/0gg/README.md) | 3 | 1 | completed 2, failed 1 |
 | [0h](hoods/0h/README.md) | 1 | 0 | completed 1 |
 | [0i](hoods/0i/README.md) | 2 | 1 | active 1, completed 1 |
 | [0j](hoods/0j/README.md) | 3 | 1 | active 1, completed 2 |
