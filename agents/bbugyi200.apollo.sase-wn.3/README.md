@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-wn](../../users/bbugyi200/machines/apollo/hoods/sase-wn/README.md) / sase-wn.3
 
-**Global name:** `bbugyi200.apollo.sase-wn.3` · **State:** active · **Source run:** `run-613c202e0cb740fae054a1a66e608adb`
+**Global name:** `bbugyi200.apollo.sase-wn.3` · **State:** completed · **Source run:** `run-613c202e0cb740fae054a1a66e608adb`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-wn
 
@@ -12,12 +12,12 @@
 - Epic: [sase-wn](https://github.com/sase-org/sase--beads/blob/main/pages/sase-wn/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-05T10:08:06.988875+00:00
+- Timing: 2026-09-05T10:08:06.988875+00:00 → 2026-09-05T10:53:41.917830+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -30,7 +30,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-wn.1](../bbugyi200.apollo.sase-wn.1/README.md) | sase-wn hood | completed |
-| [sase-wn.10](../bbugyi200.apollo.sase-wn.10/README.md) | sase-wn hood | waiting |
+| [sase-wn.10](../../families/bbugyi200.apollo.sase-wn.10.md) (family · 9) | sase-wn hood | active 1, completed 4, failed 4 |
 | [sase-wn.2](../bbugyi200.apollo.sase-wn.2/README.md) | sase-wn hood | completed |
 | [sase-wn.4](../bbugyi200.apollo.sase-wn.4/README.md) | sase-wn hood | dismissed |
 | [sase-wn.5](../../families/bbugyi200.apollo.sase-wn.5.md) (family · 5) | sase-wn hood | completed 3, failed 2 |
