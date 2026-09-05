@@ -1,0 +1,18 @@
+# Agent: 0gj--gate
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0gj](../../users/bbugyi200/machines/athena/hoods/0gj/README.md) / [0gj](../../families/bbugyi200.athena.0gj.md) / 0gj--gate
+
+**Global name:** `bbugyi200.athena.0gj--gate` · **State:** failed · **Source run:** `run-8305cdbe559af4477a61980b66e4ed84`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0gj
+
+## Summary
+
+- Model: claude-fable-5
+- Provider: claude
+- Timing: 2026-09-05T22:38:23.876139+00:00 → 2026-09-05T22:39:37.260414+00:00
+- Commits: 0
+
+## Files
+
+[Chat](chat.md)
