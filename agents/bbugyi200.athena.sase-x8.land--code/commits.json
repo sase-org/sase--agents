@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1788663177,"sha":"18b3cf0fae9238517aefc963fac6387cca660c67","subject":"fix(deps): raise sase-core-rs floor to 0.32.25 for wait.artifacts"}],"schema_version":2,"source_run_id":"run-76479335271447f75788550ecbc653bb"}
