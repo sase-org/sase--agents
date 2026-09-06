@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-x7` · Members: 3 · Bead: [sase-x7.2.1
 ```mermaid
 flowchart TD
   n0["sase-x7.2.1.3--mon [failed]"]
-  n1["sase-x7.2.1.3--1 [active]"]
+  n1["sase-x7.2.1.3--1 [completed]"]
   n0 --> n1
   n2["sase-x7.2.1.3--plan [completed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-x7.2.1.3--mon | failed | gpt-5.5 / codex | 2026-09-06T02:41:03.949732+00:00 → 2026-09-06T03:02:16.489213+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-x7.2.1.3--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-x7.2.1.3--1 | active | gpt-5.5 / codex | 2026-09-06T03:02:56.239663+00:00 | [1](../agents/bbugyi200.athena.sase-x7.2.1.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-x7.2.1.3--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-x7.2.1.3--1 | completed | gpt-5.5 / codex | 2026-09-06T03:02:56.239663+00:00 → 2026-09-06T03:08:19.920249+00:00 | [1](../agents/bbugyi200.athena.sase-x7.2.1.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-x7.2.1.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-x7.2.1.3--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-x7.2.1.3--plan | completed | gpt-5.5 / codex | 2026-09-06T01:42:30.698658+00:00 → 2026-09-06T02:41:13.969185+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-x7.2.1.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-x7.2.1.3--plan/chat.md) |
 
 ## Commits
@@ -36,7 +36,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-x7.2](bbugyi200.athena.sase-x7.2.md) (family · 3) | ancestor | failed 3 |
 | [sase-x7.2.1.1](../agents/bbugyi200.athena.sase-x7.2.1.1/README.md) | sase-x7.2.1 hood | completed |
 | [sase-x7.2.1.2](../agents/bbugyi200.athena.sase-x7.2.1.2/README.md) | sase-x7.2.1 hood | completed |
-| [sase-x7.2.1.4](../agents/bbugyi200.athena.sase-x7.2.1.4/README.md) | sase-x7.2.1 hood | waiting |
+| [sase-x7.2.1.4](../agents/bbugyi200.athena.sase-x7.2.1.4/README.md) | sase-x7.2.1 hood | active |
 | [sase-x7.2.1.land](../agents/bbugyi200.athena.sase-x7.2.1.land/README.md) | sase-x7.2.1 hood | waiting |
 | [sase-x7.1](../agents/bbugyi200.athena.sase-x7.1/README.md) | sase-x7 hood | completed |
 | [sase-x7.10](../agents/bbugyi200.athena.sase-x7.10/README.md) | sase-x7 hood | waiting |
