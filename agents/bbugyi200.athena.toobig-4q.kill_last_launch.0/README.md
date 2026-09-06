@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-4q](../../users/bbugyi200/machines/athena/hoods/toobig-4q/README.md) / toobig-4q.kill\_last\_launch.0
 
-**Global name:** `bbugyi200.athena.toobig-4q.kill_last_launch.0` · **State:** active · **Source run:** `run-ae4413881358a55b87ad7c03f3c3c00a`
+**Global name:** `bbugyi200.athena.toobig-4q.kill_last_launch.0` · **State:** completed · **Source run:** `run-ae4413881358a55b87ad7c03f3c3c00a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-4q
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-06T16:43:23.886533+00:00
+- Timing: 2026-09-06T16:43:23.886533+00:00 → 2026-09-06T17:15:44.096249+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-4q.launch\_start.0](../bbugyi200.athena.toobig-4q.launch_start.0/README.md) | toobig-4q hood | waiting |
+| [toobig-4q.launch\_start.0](../bbugyi200.athena.toobig-4q.launch_start.0/README.md) | toobig-4q hood | active |
