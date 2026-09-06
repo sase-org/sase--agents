@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-585e9fa99c14c9bde639353b75746835"}
+{"commits":[{"committed_at":1788726323,"sha":"8efecdd7390a0103f66ce7a3f4b54376a2079a63","subject":"feat(agent-listing): use bounded index snapshots"}],"schema_version":2,"source_run_id":"run-585e9fa99c14c9bde639353b75746835"}
