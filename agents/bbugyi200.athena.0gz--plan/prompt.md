@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase I'm pretty sure that when sase agents run monitors, we run the risk of unqueuing agents that shouldn't be started yet because the configured (either globally or via the `%wait` directive's `runners` kwarg) max running agents limit would be exceeded. To be clear, if a successor agent is specified by a monitor, that slot should be guaranteed since that agent should be considered already running. When that monitor completes we should not unqueue any other agents in response to that since we know we're going to launch the successor. Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix the issue?
+
+#plan %w(runners=100) %m:claude-fable-5
