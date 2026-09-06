@@ -32,5 +32,5 @@
 | [sase-ws.3](../bbugyi200.apollo.sase-ws.3/README.md) | sase-ws hood | completed |
 | [sase-ws.3.f0](../../families/bbugyi200.apollo.sase-ws.3.f0.md) (family · 2) | sase-ws hood | active 1, dismissed 1 |
 | [sase-ws.5](../bbugyi200.apollo.sase-ws.5/README.md) | sase-ws hood | completed |
-| [sase-ws.6](../bbugyi200.apollo.sase-ws.6/README.md) | sase-ws hood | active |
-| [sase-ws.land](../bbugyi200.apollo.sase-ws.land/README.md) | sase-ws hood | waiting |
+| [sase-ws.6](../bbugyi200.apollo.sase-ws.6/README.md) | sase-ws hood | completed |
+| [sase-ws.land](../../families/bbugyi200.apollo.sase-ws.land.md) (family · 9) | sase-ws hood | active 1, completed 4, failed 4 |
