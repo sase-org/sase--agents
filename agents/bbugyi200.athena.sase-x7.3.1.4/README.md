@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-x7](../../users/bbugyi200/machines/athena/hoods/sase-x7/README.md) / sase-x7.3.1.4
 
-**Global name:** `bbugyi200.athena.sase-x7.3.1.4` · **State:** waiting · **Source run:** `run-f1eb74afb11f84cd69fc7e42f564f4bb`
+**Global name:** `bbugyi200.athena.sase-x7.3.1.4` · **State:** active · **Source run:** `run-f1eb74afb11f84cd69fc7e42f564f4bb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-x7
 
@@ -12,7 +12,7 @@
 - Epic: [sase-x7.3.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-x7/sase-x7.3.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20260906091614
+- Timing: 2026-09-06T14:26:17.245664+00:00
 - Commits: 0
 
 ## Files
@@ -26,7 +26,7 @@
 | [sase-x7.3](../../families/bbugyi200.athena.sase-x7.3.md) (family · 3) | ancestor | failed 3 |
 | [sase-x7.3.1.1](../bbugyi200.athena.sase-x7.3.1.1/README.md) | sase-x7.3.1 hood | completed |
 | [sase-x7.3.1.2](../bbugyi200.athena.sase-x7.3.1.2/README.md) | sase-x7.3.1 hood | completed |
-| [sase-x7.3.1.3](../bbugyi200.athena.sase-x7.3.1.3/README.md) | sase-x7.3.1 hood | active |
+| [sase-x7.3.1.3](../bbugyi200.athena.sase-x7.3.1.3/README.md) | sase-x7.3.1 hood | completed |
 | [sase-x7.3.1.5](../bbugyi200.athena.sase-x7.3.1.5/README.md) | sase-x7.3.1 hood | waiting |
 | [sase-x7.3.1.land](../bbugyi200.athena.sase-x7.3.1.land/README.md) | sase-x7.3.1 hood | waiting |
 | [sase-x7.1](../bbugyi200.athena.sase-x7.1/README.md) | sase-x7 hood | completed |
