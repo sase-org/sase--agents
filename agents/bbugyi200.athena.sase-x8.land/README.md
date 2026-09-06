@@ -24,4 +24,4 @@
 |---|---|---|
 | [sase-x8.1](../bbugyi200.athena.sase-x8.1/README.md) | sase-x8 hood | completed |
 | [sase-x8.2](../bbugyi200.athena.sase-x8.2/README.md) | sase-x8 hood | completed |
-| [sase-x8.3](../bbugyi200.athena.sase-x8.3/README.md) | sase-x8 hood | waiting |
+| [sase-x8.3](../bbugyi200.athena.sase-x8.3/README.md) | sase-x8 hood | active |
