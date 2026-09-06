@@ -1806,7 +1806,7 @@
 | [toobig-4l](hoods/toobig-4l/README.md) | 1 | 0 | active 1 |
 | [toobig-4m](hoods/toobig-4m/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [toobig-4n](hoods/toobig-4n/README.md) | 11 | 0 | active 1, waiting 10 |
-| [toobig-4o](hoods/toobig-4o/README.md) | 9 | 0 | active 1, completed 7, waiting 1 |
+| [toobig-4o](hoods/toobig-4o/README.md) | 9 | 0 | active 1, completed 8 |
 | [toobig-5](hoods/toobig-5/README.md) | 13 | 0 | active 13 |
 | [toobig-6](hoods/toobig-6/README.md) | 11 | 0 | active 11 |
 | [toobig-7](hoods/toobig-7/README.md) | 6 | 0 | active 6 |

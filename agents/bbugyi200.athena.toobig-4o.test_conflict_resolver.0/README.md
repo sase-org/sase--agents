@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-4o](../../users/bbugyi200/machines/athena/hoods/toobig-4o/README.md) / toobig-4o.test\_conflict\_resolver.0
 
-**Global name:** `bbugyi200.athena.toobig-4o.test_conflict_resolver.0` · **State:** waiting · **Source run:** `run-c5d3b07cfb3baf721f24f453b7fb2c8e`
+**Global name:** `bbugyi200.athena.toobig-4o.test_conflict_resolver.0` · **State:** active · **Source run:** `run-c5d3b07cfb3baf721f24f453b7fb2c8e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-4o
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260905190428
-- Commits: 0
+- Timing: 2026-09-06T03:19:45.914965+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`b297f23`](https://github.com/sase-org/sase/commit/b297f234eb579538193afda176cde500b4066c68) | test(bead): split conflict resolver tests | 2026-09-05 23:34:13 EDT |
 
 ## Neighbors
 
@@ -28,4 +34,4 @@
 | [toobig-4o.parser.0](../bbugyi200.athena.toobig-4o.parser.0/README.md) | toobig-4o hood | completed |
 | [toobig-4o.test\_artifacts\_relation\_sources.0](../bbugyi200.athena.toobig-4o.test_artifacts_relation_sources.0/README.md) | toobig-4o hood | completed |
 | [toobig-4o.test\_kill\_and\_edit\_last\_launch.0](../bbugyi200.athena.toobig-4o.test_kill_and_edit_last_launch.0/README.md) | toobig-4o hood | completed |
-| [toobig-4o.test\_projects\_pane\_init\_flow.0](../bbugyi200.athena.toobig-4o.test_projects_pane_init_flow.0/README.md) | toobig-4o hood | active |
+| [toobig-4o.test\_projects\_pane\_init\_flow.0](../bbugyi200.athena.toobig-4o.test_projects_pane_init_flow.0/README.md) | toobig-4o hood | completed |
