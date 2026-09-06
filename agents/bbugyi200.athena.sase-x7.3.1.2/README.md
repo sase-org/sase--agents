@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-x7](../../users/bbugyi200/machines/athena/hoods/sase-x7/README.md) / sase-x7.3.1.2
 
-**Global name:** `bbugyi200.athena.sase-x7.3.1.2` · **State:** waiting · **Source run:** `run-107377cae3fd17c87fc8fec9bbb4562c`
+**Global name:** `bbugyi200.athena.sase-x7.3.1.2` · **State:** active · **Source run:** `run-107377cae3fd17c87fc8fec9bbb4562c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-x7
 
@@ -12,7 +12,7 @@
 - Epic: [sase-x7.3.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-x7/sase-x7.3.1.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260906091612
+- Timing: 2026-09-06T13:57:54.647887+00:00
 - Commits: 0
 
 ## Files
@@ -24,8 +24,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-x7.3](../../families/bbugyi200.athena.sase-x7.3.md) (family · 3) | ancestor | failed 3 |
-| [sase-x7.3.1.1](../bbugyi200.athena.sase-x7.3.1.1/README.md) | sase-x7.3.1 hood | active |
-| [sase-x7.3.1.3](../bbugyi200.athena.sase-x7.3.1.3/README.md) | sase-x7.3.1 hood | waiting |
+| [sase-x7.3.1.1](../bbugyi200.athena.sase-x7.3.1.1/README.md) | sase-x7.3.1 hood | completed |
+| [sase-x7.3.1.3](../bbugyi200.athena.sase-x7.3.1.3/README.md) | sase-x7.3.1 hood | active |
 | [sase-x7.3.1.4](../bbugyi200.athena.sase-x7.3.1.4/README.md) | sase-x7.3.1 hood | waiting |
 | [sase-x7.3.1.5](../bbugyi200.athena.sase-x7.3.1.5/README.md) | sase-x7.3.1 hood | waiting |
 | [sase-x7.3.1.land](../bbugyi200.athena.sase-x7.3.1.land/README.md) | sase-x7.3.1 hood | waiting |
