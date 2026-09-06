@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase It doesn't seem like the `,X` keymap always kills the agent that it was run on. Also, I canceled the prompt input widget, which contained the prompt of the agent we were supposed to kill, using the `<ctrl+c>` keymap, and then the next prompt I tried to use to launch a sase agent resulted in a toast saying we will wait for the preivous agent to be killed first (or something like that). Can you help me diagnose the root cause of this issue and fix it?
+
+#plan %m:gpt-6-astra
