@@ -9,6 +9,7 @@
 | [0gj.md](0gj.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/research_suffix_input.md][1] | - | [bbugyi200.athena.0gj--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0gj.md) | 1 |
 | [0gm.md](0gm.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/tailnet_ssh_repair.md][1] | - | [bbugyi200.athena.0gm--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0gm.md) | 1 |
 | [0go.md](0go.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/kill_and_edit_lifecycle.md][1] | - | [bbugyi200.athena.0go--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0go.md) | 1 |
+| [0gr.f0.md](0gr.f0.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0gr.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0gr.f0.md) | 1 |
 | [0gr.md](0gr.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/fix_telegram_ci_plan_gate_api.md][1] | - | [bbugyi200.athena.0gr--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0gr.md) | 1 |
 | [0gt.md](0gt.md) | fork:0gt %model:@small | - | [bbugyi200.athena.0gt--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0gt.md) | 0 |
 | [0gv.md](0gv.md) | fork:0gv %model:gpt-5.5 %effort:high | - | [bbugyi200.athena.0gv--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0gv.md) | 0 |
