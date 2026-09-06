@@ -1,0 +1,2 @@
+#gh:gh_sase-org__sase
+#fork:sase-x7.3.1.5 It looks like this agent maybe failed because of a transient issue with the OpenAI provider. If so we should have caught this with sase's retry logic and then retried the failed agent shell (after a delay). Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix the issue? #plan %m:@xlarge
