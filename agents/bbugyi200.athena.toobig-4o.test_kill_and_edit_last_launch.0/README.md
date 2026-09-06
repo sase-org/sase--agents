@@ -22,9 +22,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-4o.chop\_policy.0](../bbugyi200.athena.toobig-4o.chop_policy.0/README.md) | toobig-4o hood | completed |
-| [toobig-4o.commit\_dispatch.0](../bbugyi200.athena.toobig-4o.commit_dispatch.0/README.md) | toobig-4o hood | active |
+| [toobig-4o.commit\_dispatch.0](../bbugyi200.athena.toobig-4o.commit_dispatch.0/README.md) | toobig-4o hood | completed |
 | [toobig-4o.conflict\_resolver.0](../bbugyi200.athena.toobig-4o.conflict_resolver.0/README.md) | toobig-4o hood | completed |
-| [toobig-4o.init\_onboarding.0](../bbugyi200.athena.toobig-4o.init_onboarding.0/README.md) | toobig-4o hood | waiting |
+| [toobig-4o.init\_onboarding.0](../bbugyi200.athena.toobig-4o.init_onboarding.0/README.md) | toobig-4o hood | active |
 | [toobig-4o.parser.0](../bbugyi200.athena.toobig-4o.parser.0/README.md) | toobig-4o hood | waiting |
 | [toobig-4o.test\_artifacts\_relation\_sources.0](../bbugyi200.athena.toobig-4o.test_artifacts_relation_sources.0/README.md) | toobig-4o hood | waiting |
 | [toobig-4o.test\_conflict\_resolver.0](../bbugyi200.athena.toobig-4o.test_conflict_resolver.0/README.md) | toobig-4o hood | waiting |
