@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-x7](../../users/bbugyi200/machines/athena/hoods/sase-x7/README.md) / sase-x7.2.1.2
 
-**Global name:** `bbugyi200.athena.sase-x7.2.1.2` · **State:** active · **Source run:** `run-85ea704d36620bfbabfdb4ddb15a5e5c`
+**Global name:** `bbugyi200.athena.sase-x7.2.1.2` · **State:** completed · **Source run:** `run-85ea704d36620bfbabfdb4ddb15a5e5c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-x7
 
@@ -12,12 +12,12 @@
 - Epic: [sase-x7.2.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-x7/sase-x7.2.1.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-06T00:40:55.287204+00:00
+- Timing: 2026-09-06T00:40:55.287204+00:00 → 2026-09-06T01:42:13.269417+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -31,7 +31,7 @@
 |---|---|---|
 | [sase-x7.2](../../families/bbugyi200.athena.sase-x7.2.md) (family · 3) | ancestor | failed 3 |
 | [sase-x7.2.1.1](../bbugyi200.athena.sase-x7.2.1.1/README.md) | sase-x7.2.1 hood | completed |
-| [sase-x7.2.1.3](../bbugyi200.athena.sase-x7.2.1.3/README.md) | sase-x7.2.1 hood | waiting |
+| [sase-x7.2.1.3](../../families/bbugyi200.athena.sase-x7.2.1.3.md) (family · 3) | sase-x7.2.1 hood | active 1, completed 1, failed 1 |
 | [sase-x7.2.1.4](../bbugyi200.athena.sase-x7.2.1.4/README.md) | sase-x7.2.1 hood | waiting |
 | [sase-x7.2.1.land](../bbugyi200.athena.sase-x7.2.1.land/README.md) | sase-x7.2.1 hood | waiting |
 | [sase-x7.1](../bbugyi200.athena.sase-x7.1/README.md) | sase-x7 hood | completed |
