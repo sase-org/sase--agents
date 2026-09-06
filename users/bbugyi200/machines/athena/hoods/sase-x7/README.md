@@ -2,13 +2,13 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-x7
 
-**Global hood:** `bbugyi200.athena.sase-x7` · **Runs:** 42 · **Families:** 6 · **States:** active 2, completed 12, failed 12, waiting 16
+**Global hood:** `bbugyi200.athena.sase-x7` · **Runs:** 42 · **Families:** 6 · **States:** active 1, completed 13, failed 12, waiting 16
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [sase-x7.13](../../../../../../agents/bbugyi200.athena.sase-x7.13/README.md) | waiting | gpt-5.5 / codex | 20260905185807 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-x7.13/prompt.md) |
 | [sase-x7.2.1.5.land--1](../../../../../../families/bbugyi200.athena.sase-x7.2.1.5.land.md#member-1) | completed | gpt-5.6-sol / codex | 2026-09-06T12:45:28.884380+00:00 → 2026-09-06T12:52:23.747223+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-x7.2.1.5.land--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-x7.2.1.5.land--1/chat.md) |
-| [sase-x7.3.1.2](../../../../../../agents/bbugyi200.athena.sase-x7.3.1.2/README.md) | active | gpt-5.5 / codex | 2026-09-06T13:57:54.647887+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-x7.3.1.2/prompt.md) |
+| [sase-x7.3.1.2](../../../../../../agents/bbugyi200.athena.sase-x7.3.1.2/README.md) | completed | gpt-5.5 / codex | 2026-09-06T13:57:54.647887+00:00 → 2026-09-06T14:18:02.078436+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-x7.3.1.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-x7.3.1.2/chat.md) |
 | [sase-x7.11](../../../../../../agents/bbugyi200.athena.sase-x7.11/README.md) | waiting | sonnet / claude | 20260905185805 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-x7.11/prompt.md) |
 | [sase-x7.3.1.5](../../../../../../agents/bbugyi200.athena.sase-x7.3.1.5/README.md) | waiting | grok-4.6 / grok | 20260906091615 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-x7.3.1.5/prompt.md) |
 | [sase-x7.7](../../../../../../agents/bbugyi200.athena.sase-x7.7/README.md) | waiting | gpt-5.5 / codex | 20260905185801 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-x7.7/prompt.md) |
