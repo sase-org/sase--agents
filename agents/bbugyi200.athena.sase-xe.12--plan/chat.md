@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-xe.12--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_xe_12__plan-260906_183315.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_xe_12__code-260906_183315.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/dispatch_launch.md
 
 
