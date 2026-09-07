@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:research.1m.cdx Did this agent run the `just check` command for the sase repo? Why would it do that when all it made changes to were sidecar repo files?
