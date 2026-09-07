@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2d130ab7dd7d7319bc89ea9fa924aaa4"}
+{"commits":[{"committed_at":1788740433,"sha":"4c3dace967966f1ef544a539f4922fc7236bd6a5","subject":"fix(build): require fixed core and install lsp from isolated target"}],"schema_version":2,"source_run_id":"run-2d130ab7dd7d7319bc89ea9fa924aaa4"}

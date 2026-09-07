@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-xq](../../users/bbugyi200/machines/athena/hoods/sase-xq/README.md) / sase-xq.2
 
-**Global name:** `bbugyi200.athena.sase-xq.2` · **State:** active · **Source run:** `run-64b0689828aa13441f904afca4bc08cb`
+**Global name:** `bbugyi200.athena.sase-xq.2` · **State:** completed · **Source run:** `run-64b0689828aa13441f904afca4bc08cb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-xq
 
@@ -12,12 +12,12 @@
 - Epic: [sase-xq](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xq/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-06T22:39:29.062358+00:00
+- Timing: 2026-09-06T22:39:29.062358+00:00 → 2026-09-06T23:19:18.531584+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -30,5 +30,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-xq.1](../bbugyi200.athena.sase-xq.1/README.md) | sase-xq hood | completed |
-| [sase-xq.3](../bbugyi200.athena.sase-xq.3/README.md) | sase-xq hood | active |
+| [sase-xq.3](../bbugyi200.athena.sase-xq.3/README.md) | sase-xq hood | completed |
+| [sase-xq.land](../../families/bbugyi200.athena.sase-xq.land.md) (family · 1) | sase-xq hood | completed 1 |
 | [sase-xq.land](../bbugyi200.athena.sase-xq.land/README.md) | sase-xq hood | waiting |
