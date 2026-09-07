@@ -13,7 +13,13 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-09-07T13:44:23.205105+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`287048d`](https://github.com/sase-org/sase/commit/287048d601b6a2003aa01e12743c2ed053c7c982) | feat(dispatch): surface and answer remote question/gate attention in Focus | 2026-09-07 11:24:08 EDT |
 
 ## Neighbors
 

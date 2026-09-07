@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-xe.14--gate | failed | opus / claude | 2026-09-07T13:44:05.172772+00:00 → 2026-09-07T13:44:11.979499+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.14--gate/chat.md) |
-| <a id="member-code"></a>code | sase-xe.14--code | active | sonnet / claude | 2026-09-07T13:44:23.205105+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-xe.14--code | active | sonnet / claude | 2026-09-07T13:44:23.205105+00:00 | [1](../agents/bbugyi200.athena.sase-xe.14--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-xe.14--plan | active | opus / claude | 2026-09-07T13:32:59.143798+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.14--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.14--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`287048d`](https://github.com/sase-org/sase/commit/287048d601b6a2003aa01e12743c2ed053c7c982) | feat(dispatch): surface and answer remote question/gate attention in Focus | 2026-09-07 11:24:08 EDT |
 
 ## Neighbors
 
