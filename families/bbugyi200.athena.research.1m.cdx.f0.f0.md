@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `research` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["research.1m.cdx.f0.f0--plan [completed]"]
-  n1["research.1m.cdx.f0.f0--code [active]"]
+  n0["research.1m.cdx.f0.f0--plan [dismissed]"]
+  n1["research.1m.cdx.f0.f0--code [completed]"]
   n0 --> n1
   n2["research.1m.cdx.f0.f0--gate [failed]"]
   n0 --> n2
@@ -19,8 +19,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | research.1m.cdx.f0.f0--plan | completed | gpt-6-astra / codex | 2026-09-07T19:35:04.039641+00:00 → 2026-09-07T19:42:11.611670+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.1m.cdx.f0.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.1m.cdx.f0.f0--plan/chat.md) |
-| <a id="member-code"></a>code | research.1m.cdx.f0.f0--code | active | gpt-5.5 / codex | 2026-09-07T19:43:59.030073+00:00 | [1](../agents/bbugyi200.athena.research.1m.cdx.f0.f0--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.research.1m.cdx.f0.f0--code/prompt.md) | — |
+| <a id="member-plan"></a>plan | research.1m.cdx.f0.f0--plan | dismissed | gpt-6-astra / codex | 2026-09-07T15:35:04.039641 → 2026-09-07T15:42:11.924718 | 0 | [Prompt](../agents/bbugyi200.athena.research.1m.cdx.f0.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.1m.cdx.f0.f0--plan/chat.md) |
+| <a id="member-code"></a>code | research.1m.cdx.f0.f0--code | completed | gpt-5.5 / codex | 2026-09-07T19:43:59.030073+00:00 → 2026-09-07T19:57:11.806004+00:00 | [1](../agents/bbugyi200.athena.research.1m.cdx.f0.f0--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.research.1m.cdx.f0.f0--code/prompt.md) | [Chat](../agents/bbugyi200.athena.research.1m.cdx.f0.f0--code/chat.md) |
 | <a id="member-gate"></a>gate | research.1m.cdx.f0.f0--gate | failed | gpt-6-astra / codex | 2026-09-07T19:41:48.643006+00:00 → 2026-09-07T19:43:51.684916+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.1m.cdx.f0.f0--gate/chat.md) |
 
 ## Commits
@@ -33,11 +33,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.1m.cdx.f0](../agents/bbugyi200.athena.research.1m.cdx.f0/README.md) | ancestor | completed |
-| [research.1m.cdx](../agents/bbugyi200.athena.research.1m.cdx/README.md) | ancestor | completed |
-| [research.1m.cld](../agents/bbugyi200.athena.research.1m.cld/README.md) | research.1m hood | completed |
-| [research.1m.final](../agents/bbugyi200.athena.research.1m.final/README.md) | research.1m hood | completed |
-| [research.1m.image](../agents/bbugyi200.athena.research.1m.image/README.md) | research.1m hood | active |
+| [research.1m.cdx.f0](../agents/bbugyi200.athena.research.1m.cdx.f0/README.md) | ancestor | dismissed |
+| [research.1m.cdx](../agents/bbugyi200.athena.research.1m.cdx/README.md) | ancestor | dismissed |
+| [research.1m.cld](../agents/bbugyi200.athena.research.1m.cld/README.md) | research.1m hood | dismissed |
+| [research.1m.final](../agents/bbugyi200.athena.research.1m.final/README.md) | research.1m hood | dismissed |
+| [research.1m.image](../agents/bbugyi200.athena.research.1m.image/README.md) | research.1m hood | dismissed |
 | [research.0.cdx](../agents/bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../agents/bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../agents/bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |

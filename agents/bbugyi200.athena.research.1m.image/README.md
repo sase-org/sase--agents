@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.1m.image
 
-**Global name:** `bbugyi200.athena.research.1m.image` · **State:** active · **Source run:** `run-bec78516bff9653917e6e9b660bec041`
+**Global name:** `bbugyi200.athena.research.1m.image` · **State:** dismissed · **Source run:** `run-bec78516bff9653917e6e9b660bec041`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,22 +10,22 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-07T19:52:20.907267+00:00
+- Timing: 2026-09-07T15:52:20.907267 → 2026-09-07T16:09:31.858238
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.1m.cdx](../bbugyi200.athena.research.1m.cdx/README.md) | research.1m hood | completed |
-| [research.1m.cdx.f0](../bbugyi200.athena.research.1m.cdx.f0/README.md) | research.1m hood | completed |
-| [research.1m.cdx.f0.f0](../../families/bbugyi200.athena.research.1m.cdx.f0.f0.md) (family · 3) | research.1m hood | active 1, completed 1, failed 1 |
-| [research.1m.cld](../bbugyi200.athena.research.1m.cld/README.md) | research.1m hood | completed |
-| [research.1m.final](../bbugyi200.athena.research.1m.final/README.md) | research.1m hood | completed |
+| [research.1m.cdx](../bbugyi200.athena.research.1m.cdx/README.md) | research.1m hood | dismissed |
+| [research.1m.cdx.f0](../bbugyi200.athena.research.1m.cdx.f0/README.md) | research.1m hood | dismissed |
+| [research.1m.cdx.f0.f0](../../families/bbugyi200.athena.research.1m.cdx.f0.f0.md) (family · 3) | research.1m hood | completed 1, dismissed 1, failed 1 |
+| [research.1m.cld](../bbugyi200.athena.research.1m.cld/README.md) | research.1m hood | dismissed |
+| [research.1m.final](../bbugyi200.athena.research.1m.final/README.md) | research.1m hood | dismissed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
