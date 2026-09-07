@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a6502caf7d0aa6ce40fcaeae236613d2"}
+{"commits":[{"committed_at":1788818162,"sha":"d8a299c2c3e401d9a08f5802849c15afb3eceb7b","subject":"feat(pager-refs): add Python adapter for document-owned source-path resolution"}],"schema_version":2,"source_run_id":"run-a6502caf7d0aa6ce40fcaeae236613d2"}
