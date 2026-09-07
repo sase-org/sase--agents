@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-xe.13--code | active | grok-4.6 / grok | 2026-09-07T11:40:25.439640+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-xe.13--code | active | grok-4.6 / grok | 2026-09-07T11:40:25.439640+00:00 | [1](../agents/bbugyi200.athena.sase-xe.13--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-xe.13--plan | active | opus / claude | 2026-09-07T11:24:03.566214+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.13--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.13--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-xe.13--gate | failed | opus / claude | 2026-09-07T11:40:00.507896+00:00 → 2026-09-07T11:40:07.910800+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.13--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`1a3a12a`](https://github.com/sase-org/sase/commit/1a3a12a7eff807fa93da4d788242a3adbfba5b6d) | feat(dispatch): add remote fleet stop, retry, fork, and bounded content | 2026-09-07 09:27:01 EDT |
 
 ## Neighbors
 
