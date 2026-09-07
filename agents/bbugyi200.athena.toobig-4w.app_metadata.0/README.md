@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-4w.provider\_priority.0](../bbugyi200.athena.toobig-4w.provider_priority.0/README.md) | toobig-4w hood | waiting |
-| [toobig-4w.wipe.0](../bbugyi200.athena.toobig-4w.wipe.0/README.md) | toobig-4w hood | active |
+| [toobig-4w.provider\_priority.0](../bbugyi200.athena.toobig-4w.provider_priority.0/README.md) | toobig-4w hood | active |
+| [toobig-4w.wipe.0](../bbugyi200.athena.toobig-4w.wipe.0/README.md) | toobig-4w hood | completed |
