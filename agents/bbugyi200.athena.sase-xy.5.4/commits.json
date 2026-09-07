@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3e7604bba791ac8ab733d43ff84ac40d"}
+{"commits":[{"committed_at":1788825090,"sha":"2ba228da326eedba37e66c5b8eb73ed4525b2967","subject":"test(pager): enforce rendered-link contract through real navigation"}],"schema_version":2,"source_run_id":"run-3e7604bba791ac8ab733d43ff84ac40d"}
