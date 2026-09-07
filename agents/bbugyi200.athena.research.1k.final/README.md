@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.1k.final
 
-**Global name:** `bbugyi200.athena.research.1k.final` · **State:** waiting · **Source run:** `run-a968aef4127b2bfc936824525276a18e`
+**Global name:** `bbugyi200.athena.research.1k.final` · **State:** active · **Source run:** `run-a968aef4127b2bfc936824525276a18e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20260907095039
+- Timing: 2026-09-07T14:18:59.244091+00:00
 - Commits: 0
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.1k.cdx](../bbugyi200.athena.research.1k.cdx/README.md) | research.1k hood | active |
+| [research.1k.cdx](../bbugyi200.athena.research.1k.cdx/README.md) | research.1k hood | completed |
 | [research.1k.cld](../bbugyi200.athena.research.1k.cld/README.md) | research.1k hood | completed |
 | [research.1k.image](../bbugyi200.athena.research.1k.image/README.md) | research.1k hood | waiting |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
