@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-sq.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-sq/sase-sq.2.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-24T10:34:22

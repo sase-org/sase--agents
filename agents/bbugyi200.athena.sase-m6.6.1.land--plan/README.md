@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-m6.6.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-m6/sase-m6.6.1.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-15T23:36:22

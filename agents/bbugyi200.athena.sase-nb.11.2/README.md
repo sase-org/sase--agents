@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-nb.11.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-nb/sase-nb.11.2.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-16T21:05:09

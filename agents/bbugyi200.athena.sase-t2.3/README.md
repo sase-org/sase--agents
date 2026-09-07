@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-t2.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-t2/sase-t2.3.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-24T14:39:11
