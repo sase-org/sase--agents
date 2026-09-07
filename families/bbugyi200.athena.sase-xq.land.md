@@ -21,6 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
+| [sase-xq.land.r0](bbugyi200.athena.sase-xq.land.r0.md) (family · 11) | descendant | active 1, completed 5, failed 5 |
 | [sase-xq.1](../agents/bbugyi200.athena.sase-xq.1/README.md) | sase-xq hood | completed |
 | [sase-xq.2](../agents/bbugyi200.athena.sase-xq.2/README.md) | sase-xq hood | completed |
 | [sase-xq.3](../agents/bbugyi200.athena.sase-xq.3/README.md) | sase-xq hood | completed |
