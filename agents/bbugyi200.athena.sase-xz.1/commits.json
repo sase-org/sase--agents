@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0c686da52983cddc214c05bfe3a23464"}
+{"commits":[{"committed_at":1788799042,"sha":"7ca1654a2175b3e042b862f9bacb20f04535d2bc","subject":"feat(pager): add source-language facade over the rust contract"}],"schema_version":2,"source_run_id":"run-0c686da52983cddc214c05bfe3a23464"}

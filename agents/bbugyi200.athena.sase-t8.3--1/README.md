@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-t8.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-t8/sase-t8.3.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-25T01:13:50.239610+00:00 → 2026-08-25T01:18:50.674498+00:00

@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-ry.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ry/sase-ry.1.md)
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-21T19:16:35.401581+00:00 → 2026-08-21T19:20:53.869704+00:00

@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-rr.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-rr/sase-rr.2.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-21T10:14:31

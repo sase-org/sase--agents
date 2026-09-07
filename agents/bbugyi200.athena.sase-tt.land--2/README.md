@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-tt](https://github.com/sase-org/sase--beads/blob/main/pages/sase-tt/README.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-25T23:42:34.403017+00:00 → 2026-08-26T00:00:42.015598+00:00

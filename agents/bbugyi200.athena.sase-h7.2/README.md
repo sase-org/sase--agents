@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-h7.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-h7/sase-h7.2.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-07T17:13:16.639434 → 2026-08-07T17:48:43.518679
