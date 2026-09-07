@@ -1663,7 +1663,7 @@
 | [sase-xe](hoods/sase-xe/README.md) | 35 | 8 | active 6, completed 10, dismissed 2, failed 10, waiting 7 |
 | [sase-xf](hoods/sase-xf/README.md) | 4 | 0 | active 1, waiting 3 |
 | [sase-xq](hoods/sase-xq/README.md) | 5 | 1 | completed 4, waiting 1 |
-| [sase-xr](hoods/sase-xr/README.md) | 7 | 0 | active 1, completed 1, waiting 5 |
+| [sase-xr](hoods/sase-xr/README.md) | 7 | 0 | active 1, completed 3, waiting 3 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-0q](hoods/sase_fix_just-0q/README.md) | 1 | 0 | active 1 |
