@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-4v](../../users/bbugyi200/machines/athena/hoods/toobig-4v/README.md) / toobig-4v.test\_agent\_loader.0
 
-**Global name:** `bbugyi200.athena.toobig-4v.test_agent_loader.0` · **State:** active · **Source run:** `run-6c2f4bc7d086f10a5875b82d62508007`
+**Global name:** `bbugyi200.athena.toobig-4v.test_agent_loader.0` · **State:** completed · **Source run:** `run-6c2f4bc7d086f10a5875b82d62508007`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-4v
 
@@ -10,12 +10,12 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-07T07:11:31.541246+00:00
+- Timing: 2026-09-07T07:11:31.541246+00:00 → 2026-09-07T07:32:28.230604+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -28,6 +28,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-4v.federation.0](../bbugyi200.athena.toobig-4v.federation.0/README.md) | toobig-4v hood | completed |
-| [toobig-4v.test\_fleet\_contract\_sase\_core\_rs.0](../bbugyi200.athena.toobig-4v.test_fleet_contract_sase_core_rs.0/README.md) | toobig-4v hood | waiting |
+| [toobig-4v.test\_fleet\_contract\_sase\_core\_rs.0](../bbugyi200.athena.toobig-4v.test_fleet_contract_sase_core_rs.0/README.md) | toobig-4v hood | active |
 | [toobig-4v.test\_runner\_slots.0](../bbugyi200.athena.toobig-4v.test_runner_slots.0/README.md) | toobig-4v hood | waiting |
 | [toobig-4v.test\_running\_agents\_snapshot.0](../bbugyi200.athena.toobig-4v.test_running_agents_snapshot.0/README.md) | toobig-4v hood | waiting |

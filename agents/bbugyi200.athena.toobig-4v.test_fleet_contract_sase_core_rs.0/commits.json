@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-105f0c4d9ddb9286349da26d76004370"}
+{"commits":[{"committed_at":1788767090,"sha":"47fc247d799d159cb8ab0ca665d3fe463fe920ba","subject":"test(fleet): split sase_core_rs contract tests by domain"}],"schema_version":2,"source_run_id":"run-105f0c4d9ddb9286349da26d76004370"}
