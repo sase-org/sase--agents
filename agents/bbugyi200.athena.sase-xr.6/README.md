@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-xr](../../users/bbugyi200/machines/athena/hoods/sase-xr/README.md) / sase-xr.6
 
-**Global name:** `bbugyi200.athena.sase-xr.6` · **State:** active · **Source run:** `run-63e82de18a4c40864a49464e61fd6638`
+**Global name:** `bbugyi200.athena.sase-xr.6` · **State:** active · **Source run:** `run-bf23ea0f0cf37990c0c8e9667404b248`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-xr
 
@@ -10,14 +10,20 @@
 
 - Bead: [sase-xr.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xr/sase-xr.6.md)
 - Epic: [sase-xr](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xr/README.md)
-- Model: gpt-5.5
-- Provider: codex
-- Timing: 2026-09-07T06:10:51.347354+00:00
-- Commits: 0
+- Model: grok-4.6
+- Provider: grok
+- Timing: 2026-09-07T11:19:22.227759+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`fd2ceba`](https://github.com/sase-org/sase/commit/fd2cebac49e96876c2ffa39a0fa6aa474330fd66) | perf(beads): bound epic-launch history work and prove scale | 2026-09-07 08:38:51 EDT |
 
 ## Neighbors
 
