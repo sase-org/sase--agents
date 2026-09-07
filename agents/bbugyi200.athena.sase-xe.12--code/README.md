@@ -27,9 +27,9 @@
 | [sase-xe.10](../../families/bbugyi200.athena.sase-xe.10.md) (family · 3) | sase-xe hood | completed 2, failed 1 |
 | [sase-xe.10](../bbugyi200.athena.sase-xe.10/README.md) | sase-xe hood | waiting |
 | [sase-xe.11](../../families/bbugyi200.athena.sase-xe.11.md) (family · 3) | sase-xe hood | completed 2, failed 1 |
-| [sase-xe.13](../../families/bbugyi200.athena.sase-xe.13.md) (family · 3) | sase-xe hood | active 2, failed 1 |
+| [sase-xe.13](../../families/bbugyi200.athena.sase-xe.13.md) (family · 3) | sase-xe hood | completed 2, failed 1 |
 | [sase-xe.13](../bbugyi200.athena.sase-xe.13/README.md) | sase-xe hood | waiting |
-| [sase-xe.14](../bbugyi200.athena.sase-xe.14/README.md) | sase-xe hood | waiting |
+| [sase-xe.14](../../families/bbugyi200.athena.sase-xe.14.md) (family · 3) | sase-xe hood | active 2, failed 1 |
 | [sase-xe.15](../bbugyi200.athena.sase-xe.15/README.md) | sase-xe hood | waiting |
 | [sase-xe.2](../../families/bbugyi200.athena.sase-xe.2.md) (family · 3) | sase-xe hood | active 1, dismissed 1, failed 1 |
 | [sase-xe.3](../bbugyi200.athena.sase-xe.3/README.md) | sase-xe hood | completed |

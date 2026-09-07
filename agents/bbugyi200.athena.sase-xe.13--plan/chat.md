@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-xe.13--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_xe_13__plan-260907_072310.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_xe_13__code-260907_072310.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/remote_action_parity.md
 
 
