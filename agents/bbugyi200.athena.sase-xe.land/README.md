@@ -2,16 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-xe](../../users/bbugyi200/machines/athena/hoods/sase-xe/README.md) / sase-xe.land
 
-**Global name:** `bbugyi200.athena.sase-xe.land` · **State:** waiting · **Source run:** `run-cafa4bdd59b5bff9b320815992a600c5`
+**Global name:** `bbugyi200.athena.sase-xe.land` · **State:** waiting · **Source run:** `run-b6cf6c04c3d2053f2fd9c4f3ffdddb62`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-xe
 
 ## Summary
 
 - Bead: [sase-xe](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/README.md)
-- Model: gpt-6-astra
-- Provider: codex
-- Timing: 20260906183319
+- Model: claude-fable-5
+- Provider: claude
+- Timing: 20260907072313
 - Commits: 0
 
 ## Files
@@ -27,6 +27,7 @@
 | [sase-xe.10](../bbugyi200.athena.sase-xe.10/README.md) | sase-xe hood | waiting |
 | [sase-xe.11](../../families/bbugyi200.athena.sase-xe.11.md) (family · 3) | sase-xe hood | completed 2, failed 1 |
 | [sase-xe.12](../../families/bbugyi200.athena.sase-xe.12.md) (family · 3) | sase-xe hood | completed 2, failed 1 |
+| [sase-xe.13](../../families/bbugyi200.athena.sase-xe.13.md) (family · 3) | sase-xe hood | active 2, failed 1 |
 | [sase-xe.13](../bbugyi200.athena.sase-xe.13/README.md) | sase-xe hood | waiting |
 | [sase-xe.14](../bbugyi200.athena.sase-xe.14/README.md) | sase-xe hood | waiting |
 | [sase-xe.15](../bbugyi200.athena.sase-xe.15/README.md) | sase-xe hood | waiting |

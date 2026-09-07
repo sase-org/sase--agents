@@ -23,6 +23,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-gate"></a>gate | sase-xe.11--gate | failed | gpt-5.6-sol / codex | 2026-09-07T01:18:02.186529+00:00 → 2026-09-07T01:18:09.584347+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.11--gate/chat.md) |
 | <a id="member-code"></a>code | sase-xe.11--code | completed | gpt-5.5 / codex | 2026-09-07T01:18:39.291328+00:00 → 2026-09-07T04:35:41.037924+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.11--code/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`e2fc10c`](https://github.com/sase-org/sase/commit/e2fc10c3c70d1ac1b778dbb267689e10e39fc264) | feat(tui): add focus and fleet agents views | 2026-09-07 00:30:29 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
@@ -31,6 +37,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-xe.10](bbugyi200.athena.sase-xe.10.md) (family · 3) | sase-xe hood | completed 2, failed 1 |
 | [sase-xe.10](../agents/bbugyi200.athena.sase-xe.10/README.md) | sase-xe hood | waiting |
 | [sase-xe.12](bbugyi200.athena.sase-xe.12.md) (family · 3) | sase-xe hood | completed 2, failed 1 |
+| [sase-xe.13](bbugyi200.athena.sase-xe.13.md) (family · 3) | sase-xe hood | active 2, failed 1 |
 | [sase-xe.13](../agents/bbugyi200.athena.sase-xe.13/README.md) | sase-xe hood | waiting |
 | [sase-xe.14](../agents/bbugyi200.athena.sase-xe.14/README.md) | sase-xe hood | waiting |
 | [sase-xe.15](../agents/bbugyi200.athena.sase-xe.15/README.md) | sase-xe hood | waiting |

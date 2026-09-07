@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-4w](../../users/bbugyi200/machines/athena/hoods/toobig-4w/README.md) / toobig-4w.app\_metadata.0
 
-**Global name:** `bbugyi200.athena.toobig-4w.app_metadata.0` · **State:** active · **Source run:** `run-9670a18b7e4646d1584dc046eef18965`
+**Global name:** `bbugyi200.athena.toobig-4w.app_metadata.0` · **State:** completed · **Source run:** `run-9670a18b7e4646d1584dc046eef18965`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-4w
 
@@ -10,12 +10,12 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-07T11:15:53.378697+00:00
+- Timing: 2026-09-07T11:15:53.378697+00:00 → 2026-09-07T11:41:11.246497+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -28,4 +28,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-4w.provider\_priority.0](../bbugyi200.athena.toobig-4w.provider_priority.0/README.md) | toobig-4w hood | waiting |
-| [toobig-4w.wipe.0](../bbugyi200.athena.toobig-4w.wipe.0/README.md) | toobig-4w hood | waiting |
+| [toobig-4w.wipe.0](../bbugyi200.athena.toobig-4w.wipe.0/README.md) | toobig-4w hood | active |
