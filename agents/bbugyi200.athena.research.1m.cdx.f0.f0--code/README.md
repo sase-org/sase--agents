@@ -11,11 +11,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-07T19:43:59.030073+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`e5106d4`](https://github.com/sase-org/sase/commit/e5106d490f89ae28682a3264555f2d8722a4bacc) | fix(commit): scope conflict-repair verification to target repo | 2026-09-07 15:55:09 EDT |
 
 ## Neighbors
 
@@ -24,8 +30,8 @@
 | [research.1m.cdx.f0](../bbugyi200.athena.research.1m.cdx.f0/README.md) | ancestor | completed |
 | [research.1m.cdx](../bbugyi200.athena.research.1m.cdx/README.md) | ancestor | completed |
 | [research.1m.cld](../bbugyi200.athena.research.1m.cld/README.md) | research.1m hood | completed |
-| [research.1m.final](../bbugyi200.athena.research.1m.final/README.md) | research.1m hood | active |
-| [research.1m.image](../bbugyi200.athena.research.1m.image/README.md) | research.1m hood | waiting |
+| [research.1m.final](../bbugyi200.athena.research.1m.final/README.md) | research.1m hood | completed |
+| [research.1m.image](../bbugyi200.athena.research.1m.image/README.md) | research.1m hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
