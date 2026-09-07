@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.1l.image
 
-**Global name:** `bbugyi200.athena.research.1l.image` · **State:** waiting · **Source run:** `run-bd6f2ae1addb0672b4d059f4aea6a64b`
+**Global name:** `bbugyi200.athena.research.1l.image` · **State:** active · **Source run:** `run-bd6f2ae1addb0672b4d059f4aea6a64b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260907134144
+- Timing: 2026-09-07T18:21:17.283306+00:00
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 |---|---|---|
 | [research.1l.cdx](../bbugyi200.athena.research.1l.cdx/README.md) | research.1l hood | completed |
 | [research.1l.cld](../bbugyi200.athena.research.1l.cld/README.md) | research.1l hood | completed |
-| [research.1l.final](../bbugyi200.athena.research.1l.final/README.md) | research.1l hood | active |
+| [research.1l.final](../bbugyi200.athena.research.1l.final/README.md) | research.1l hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
@@ -74,4 +74,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 390 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 394 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
