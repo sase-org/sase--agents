@@ -3,6 +3,7 @@
 | Prompt | Title | Plan | Agent | Artifacts |
 | --- | --- | --- | --- | ---: |
 | [00h.md](00h.md) | %model:@medium [@plan:202609/axe_subprocess_error_diagnostics.md][1] | - | [bbugyi200.athena.00h--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.00h.md) | 1 |
+| [01d.f2.md](01d.f2.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.01d.f2--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.01d.f2.md) | 1 |
 | [01d.md](01d.md) | fork:01d %model:grok-4.6 %effort:xhigh | - | [bbugyi200.athena.01d--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.01d.md) | 0 |
 | [0ge.md](0ge.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0ge--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0ge.md) | 1 |
 | [0gf.md](0gf.md) | fork:0gf %model:sonnet %effort:high | - | [bbugyi200.athena.0gf--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0gf.md) | 0 |
