@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-xy](../../users/bbugyi200/machines/athena/hoods/sase-xy/README.md) / sase-xy.5.5.4.2
 
-**Global name:** `bbugyi200.athena.sase-xy.5.5.4.2` · **State:** active · **Source run:** `run-f182d9a13eb95635d577e4ea4411a321`
+**Global name:** `bbugyi200.athena.sase-xy.5.5.4.2` · **State:** completed · **Source run:** `run-f182d9a13eb95635d577e4ea4411a321`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-xy
 
@@ -12,12 +12,12 @@
 - Epic: [sase-xy.5.5.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xy/sase-xy.5.5.4.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-08T03:19:03.853140+00:00
+- Timing: 2026-09-08T03:19:03.853140+00:00 → 2026-09-08T03:50:52.467779+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,8 +29,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-xy.5.5.4.1](../bbugyi200.athena.sase-xy.5.5.4.1/README.md) | sase-xy.5.5.4 hood | active |
-| [sase-xy.5.5.4.3](../bbugyi200.athena.sase-xy.5.5.4.3/README.md) | sase-xy.5.5.4 hood | waiting |
+| [sase-xy.5.5.4.1](../bbugyi200.athena.sase-xy.5.5.4.1/README.md) | sase-xy.5.5.4 hood | completed |
+| [sase-xy.5.5.4.3](../../families/bbugyi200.athena.sase-xy.5.5.4.3.md) (family · 7) | sase-xy.5.5.4 hood | active 1, completed 3, failed 3 |
 | [sase-xy.5.5.4.land](../bbugyi200.athena.sase-xy.5.5.4.land/README.md) | sase-xy.5.5.4 hood | waiting |
 | [sase-xy.5.5.1](../bbugyi200.athena.sase-xy.5.5.1/README.md) | sase-xy.5.5 hood | completed |
 | [sase-xy.5.5.2](../bbugyi200.athena.sase-xy.5.5.2/README.md) | sase-xy.5.5 hood | completed |
