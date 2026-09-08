@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-xe](../users/bbugyi200/machines/athena/hoods/sase-xe/README.md) / sase-xe.16.8.f0
 
-Owner: `bbugyi200.athena` · Hood: `sase-xe` · Members: 5
+Owner: `bbugyi200.athena` · Hood: `sase-xe` · Members: 8
 
 ## Lineage
 
@@ -11,12 +11,18 @@ flowchart TD
   n0["sase-xe.16.8.f0--mon [failed]"]
   n1["sase-xe.16.8.f0--code [completed]"]
   n0 --> n1
-  n2["sase-xe.16.8.f0--1 [active]"]
+  n2["sase-xe.16.8.f0--1 [completed]"]
   n0 --> n2
-  n3["sase-xe.16.8.f0--plan [completed]"]
+  n3["sase-xe.16.8.f0--mon-0 [failed]"]
   n0 --> n3
-  n4["sase-xe.16.8.f0--gate [failed]"]
+  n4["sase-xe.16.8.f0--2 [completed]"]
   n0 --> n4
+  n5["sase-xe.16.8.f0--plan [completed]"]
+  n0 --> n5
+  n6["sase-xe.16.8.f0--mon-1 [active]"]
+  n0 --> n6
+  n7["sase-xe.16.8.f0--gate [failed]"]
+  n0 --> n7
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -25,8 +31,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-xe.16.8.f0--mon | failed | gpt-5.5 / codex | 2026-09-08T16:34:26.635594+00:00 → 2026-09-08T17:52:49.334852+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.8.f0--mon/chat.md) |
 | <a id="member-code"></a>code | sase-xe.16.8.f0--code | completed | gpt-5.5 / codex | 2026-09-08T15:28:41.569700+00:00 → 2026-09-08T16:35:55.934095+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.16.8.f0--code/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.8.f0--code/chat.md) |
-| <a id="member-1"></a>1 | sase-xe.16.8.f0--1 | active | gpt-5.5 / codex | 2026-09-08T17:53:34.446055+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.16.8.f0--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-xe.16.8.f0--1 | completed | gpt-5.5 / codex | 2026-09-08T17:53:34.446055+00:00 → 2026-09-08T18:18:42.783814+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.16.8.f0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.8.f0--1/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | sase-xe.16.8.f0--mon-0 | failed | gpt-5.5 / codex | 2026-09-08T18:17:35.701242+00:00 → 2026-09-08T18:54:56.502023+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.8.f0--mon-0/chat.md) |
+| <a id="member-2"></a>2 | sase-xe.16.8.f0--2 | completed | gpt-5.5 / codex | 2026-09-08T18:55:34.316631+00:00 → 2026-09-08T19:26:00.705096+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.16.8.f0--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.8.f0--2/chat.md) |
 | <a id="member-plan"></a>plan | sase-xe.16.8.f0--plan | completed | claude-fable-5 / claude | 2026-09-08T15:12:47.754711+00:00 → 2026-09-08T15:24:17.551888+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.16.8.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.8.f0--plan/chat.md) |
+| <a id="member-mon-1"></a>mon-1 | sase-xe.16.8.f0--mon-1 | active | gpt-5.5 / codex | 2026-09-08T19:25:38.451880+00:00 | 0 | — | — |
 | <a id="member-gate"></a>gate | sase-xe.16.8.f0--gate | failed | claude-fable-5 / claude | 2026-09-08T15:23:35.994094+00:00 → 2026-09-08T15:28:14.443250+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.8.f0--gate/chat.md) |
 
 ## Neighbors

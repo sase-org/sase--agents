@@ -48,7 +48,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-xe.16.6](../agents/bbugyi200.athena.sase-xe.16.6/README.md) | sase-xe hood | waiting |
 | [sase-xe.16.7](../agents/bbugyi200.athena.sase-xe.16.7/README.md) | sase-xe hood | completed |
 | [sase-xe.16.8](../agents/bbugyi200.athena.sase-xe.16.8/README.md) | sase-xe hood | completed |
-| [sase-xe.16.8.f0](bbugyi200.athena.sase-xe.16.8.f0.md) (family · 5) | sase-xe hood | active 1, completed 2, failed 2 |
+| [sase-xe.16.8.f0](bbugyi200.athena.sase-xe.16.8.f0.md) (family · 8) | sase-xe hood | active 1, completed 4, failed 3 |
 | [sase-xe.16.9](bbugyi200.athena.sase-xe.16.9.md) (family · 3) | sase-xe hood | completed 2, failed 1 |
 | [sase-xe.16.land](../agents/bbugyi200.athena.sase-xe.16.land/README.md) | sase-xe hood | waiting |
 | [sase-xe.2](bbugyi200.athena.sase-xe.2.md) (family · 3) | sase-xe hood | active 1, dismissed 1, failed 1 |
