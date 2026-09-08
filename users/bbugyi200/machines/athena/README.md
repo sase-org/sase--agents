@@ -217,7 +217,7 @@
 | [07](hoods/07/README.md) | 2 | 1 | active 1, completed 1 |
 | [070](hoods/070/README.md) | 7 | 1 | completed 6, failed 1 |
 | [071](hoods/071/README.md) | 2 | 1 | completed 2 |
-| [072](hoods/072/README.md) | 1 | 0 | completed 1 |
+| [072](hoods/072/README.md) | 1 | 0 | active 1 |
 | [073](hoods/073/README.md) | 1 | 0 | completed 1 |
 | [074](hoods/074/README.md) | 1 | 0 | active 1 |
 | [075](hoods/075/README.md) | 3 | 1 | completed 1, failed 2 |

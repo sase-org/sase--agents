@@ -2,16 +2,20 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [072](../../users/bbugyi200/machines/athena/hoods/072/README.md) / 072
 
-**Global name:** `bbugyi200.athena.072` · **State:** completed · **Source run:** `run-1bd8d5f629a3508962ef1aed8ef79aec`
+**Global name:** `bbugyi200.athena.072` · **State:** active · **Source run:** `run-258874576d273ca5adc4e7b08bf4e50e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 072
 
 ## Summary
 
-- Model: —
-- Provider: —
-- Timing: 2026-06-26T14:28:53+00:00 → 2026-06-26T14:36:05+00:00
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 2026-09-08T12:26:20.760606+00:00
 - Commits: [2](#commits)
+
+## Files
+
+[Prompt](prompt.md)
 
 ## Commits
 
