@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-y3` · Members: 3 · Bead: [sase-y3.4](
 ```mermaid
 flowchart TD
   n0["sase-y3.4--plan [completed]"]
-  n1["sase-y3.4--1 [active]"]
+  n1["sase-y3.4--1 [completed]"]
   n0 --> n1
   n2["sase-y3.4--gate [failed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-y3.4--plan | completed | grok-4.6 / grok | 2026-09-07T23:54:56.464166+00:00 → 2026-09-08T00:29:59.884814+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-y3.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-y3.4--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-y3.4--1 | active | grok-4.6 / grok | 2026-09-08T11:04:12.186343+00:00 | [1](../agents/bbugyi200.athena.sase-y3.4--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-y3.4--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-y3.4--1 | completed | grok-4.6 / grok | 2026-09-08T11:04:12.186343+00:00 → 2026-09-08T11:51:19.150879+00:00 | [1](../agents/bbugyi200.athena.sase-y3.4--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-y3.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-y3.4--1/chat.md) |
 | <a id="member-gate"></a>gate | sase-y3.4--gate | failed | grok-4.6 / grok | 2026-09-08T00:28:53.425145+00:00 → 2026-09-08T11:03:53.102202+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-y3.4--gate/chat.md) |
 
 ## Commits
@@ -36,4 +36,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-y3.1](../agents/bbugyi200.athena.sase-y3.1/README.md) | sase-y3 hood | completed |
 | [sase-y3.2](../agents/bbugyi200.athena.sase-y3.2/README.md) | sase-y3 hood | completed |
 | [sase-y3.3](bbugyi200.athena.sase-y3.3.md) (family · 2) | sase-y3 hood | dismissed 1, failed 1 |
-| [sase-y3.land](../agents/bbugyi200.athena.sase-y3.land/README.md) | sase-y3 hood | waiting |
+| [sase-y3.land](bbugyi200.athena.sase-y3.land.md) (family · 3) | sase-y3 hood | active 1, completed 1, failed 1 |

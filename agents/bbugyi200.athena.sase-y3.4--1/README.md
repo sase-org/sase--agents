@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-y3](../../users/bbugyi200/machines/athena/hoods/sase-y3/README.md) / [sase-y3.4](../../families/bbugyi200.athena.sase-y3.4.md) / sase-y3.4--1
 
-**Global name:** `bbugyi200.athena.sase-y3.4--1` · **State:** active · **Source run:** `run-18742c6101bebdaa4d45c16aa1f37fc1`
+**Global name:** `bbugyi200.athena.sase-y3.4--1` · **State:** completed · **Source run:** `run-18742c6101bebdaa4d45c16aa1f37fc1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-y3
 
@@ -11,12 +11,12 @@
 - Bead: [sase-y3.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-y3/sase-y3.4.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-08T11:04:12.186343+00:00
+- Timing: 2026-09-08T11:04:12.186343+00:00 → 2026-09-08T11:51:19.150879+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -31,4 +31,4 @@
 | [sase-y3.1](../bbugyi200.athena.sase-y3.1/README.md) | sase-y3 hood | completed |
 | [sase-y3.2](../bbugyi200.athena.sase-y3.2/README.md) | sase-y3 hood | completed |
 | [sase-y3.3](../../families/bbugyi200.athena.sase-y3.3.md) (family · 2) | sase-y3 hood | dismissed 1, failed 1 |
-| [sase-y3.land](../bbugyi200.athena.sase-y3.land/README.md) | sase-y3 hood | waiting |
+| [sase-y3.land](../../families/bbugyi200.athena.sase-y3.land.md) (family · 3) | sase-y3 hood | active 1, completed 1, failed 1 |
