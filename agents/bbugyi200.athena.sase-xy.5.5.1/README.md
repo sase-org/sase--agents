@@ -13,11 +13,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-09-08T00:25:34.295345+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`d101fbd`](https://github.com/sase-org/sase/commit/d101fbd08657694233523cca298a526ada3b2609) | feat(artifact-ref): transport optional source path\_globs on document owner | 2026-09-07 21:20:08 EDT |
 
 ## Neighbors
 

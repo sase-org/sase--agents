@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8f9989e2afe486afcc23b7f06866aa57"}
+{"commits":[{"committed_at":1788830408,"sha":"d101fbd08657694233523cca298a526ada3b2609","subject":"feat(artifact-ref): transport optional source path_globs on document owner"}],"schema_version":2,"source_run_id":"run-8f9989e2afe486afcc23b7f06866aa57"}
