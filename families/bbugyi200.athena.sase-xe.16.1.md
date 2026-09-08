@@ -30,9 +30,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-xe.16.10](../agents/bbugyi200.athena.sase-xe.16.10/README.md) | sase-xe.16 hood | waiting |
 | [sase-xe.16.2](../agents/bbugyi200.athena.sase-xe.16.2/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.3](../agents/bbugyi200.athena.sase-xe.16.3/README.md) | sase-xe.16 hood | completed |
-| [sase-xe.16.4](../agents/bbugyi200.athena.sase-xe.16.4/README.md) | sase-xe.16 hood | active |
+| [sase-xe.16.4](../agents/bbugyi200.athena.sase-xe.16.4/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.5](../agents/bbugyi200.athena.sase-xe.16.5/README.md) | sase-xe.16 hood | completed |
-| [sase-xe.16.6](../agents/bbugyi200.athena.sase-xe.16.6/README.md) | sase-xe.16 hood | waiting |
+| [sase-xe.16.6](bbugyi200.athena.sase-xe.16.6.md) (family · 3) | sase-xe.16 hood | active 2, failed 1 |
 | [sase-xe.16.7](../agents/bbugyi200.athena.sase-xe.16.7/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.8](../agents/bbugyi200.athena.sase-xe.16.8/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.8.f0](bbugyi200.athena.sase-xe.16.8.f0.md) (family · 8) | sase-xe.16 hood | active 1, completed 4, failed 3 |

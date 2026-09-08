@@ -37,9 +37,9 @@
 | [sase-xe.16.10](../bbugyi200.athena.sase-xe.16.10/README.md) | sase-xe hood | waiting |
 | [sase-xe.16.2](../bbugyi200.athena.sase-xe.16.2/README.md) | sase-xe hood | completed |
 | [sase-xe.16.3](../bbugyi200.athena.sase-xe.16.3/README.md) | sase-xe hood | completed |
-| [sase-xe.16.4](../bbugyi200.athena.sase-xe.16.4/README.md) | sase-xe hood | active |
+| [sase-xe.16.4](../bbugyi200.athena.sase-xe.16.4/README.md) | sase-xe hood | completed |
 | [sase-xe.16.5](../bbugyi200.athena.sase-xe.16.5/README.md) | sase-xe hood | completed |
-| [sase-xe.16.6](../bbugyi200.athena.sase-xe.16.6/README.md) | sase-xe hood | waiting |
+| [sase-xe.16.6](../../families/bbugyi200.athena.sase-xe.16.6.md) (family · 3) | sase-xe hood | active 2, failed 1 |
 | [sase-xe.16.7](../bbugyi200.athena.sase-xe.16.7/README.md) | sase-xe hood | completed |
 | [sase-xe.16.8](../bbugyi200.athena.sase-xe.16.8/README.md) | sase-xe hood | completed |
 | [sase-xe.16.8.f0](../../families/bbugyi200.athena.sase-xe.16.8.f0.md) (family · 8) | sase-xe hood | active 1, completed 4, failed 3 |

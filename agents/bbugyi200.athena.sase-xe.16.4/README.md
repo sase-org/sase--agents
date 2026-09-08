@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-xe](../../users/bbugyi200/machines/athena/hoods/sase-xe/README.md) / sase-xe.16.4
 
-**Global name:** `bbugyi200.athena.sase-xe.16.4` · **State:** active · **Source run:** `run-685696cc0c75f2f5745c137ab3d60ea4`
+**Global name:** `bbugyi200.athena.sase-xe.16.4` · **State:** completed · **Source run:** `run-685696cc0c75f2f5745c137ab3d60ea4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-xe
 
@@ -12,12 +12,12 @@
 - Epic: [sase-xe.16](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-08T14:24:14.143801+00:00
+- Timing: 2026-09-08T14:24:14.143801+00:00 → 2026-09-08T20:49:11.467440+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -28,7 +28,7 @@
 | [sase-xe.16.2](../bbugyi200.athena.sase-xe.16.2/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.3](../bbugyi200.athena.sase-xe.16.3/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.5](../bbugyi200.athena.sase-xe.16.5/README.md) | sase-xe.16 hood | completed |
-| [sase-xe.16.6](../bbugyi200.athena.sase-xe.16.6/README.md) | sase-xe.16 hood | waiting |
+| [sase-xe.16.6](../../families/bbugyi200.athena.sase-xe.16.6.md) (family · 3) | sase-xe.16 hood | active 2, failed 1 |
 | [sase-xe.16.7](../bbugyi200.athena.sase-xe.16.7/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.8](../bbugyi200.athena.sase-xe.16.8/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.8.f0](../../families/bbugyi200.athena.sase-xe.16.8.f0.md) (family · 8) | sase-xe.16 hood | active 1, completed 4, failed 3 |
