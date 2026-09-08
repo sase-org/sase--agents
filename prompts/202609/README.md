@@ -10,6 +10,7 @@
 | [06c.md](06c.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/x74_telegram_finalization_repair.md | - | [bbugyi200.athena.06c--0](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.06c.md) | 0 |
 | [072.md](072.md) | gh:gh_sase-org__sase | - | [bbugyi200.athena.072](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.072/README.md) | 0 |
 | [08z.md](08z.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/pager_bead_links.md][1] | - | [bbugyi200.athena.08z--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.08z.md) | 1 |
+| [092.md](092.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/update_everything_keymap.md][1] | - | [bbugyi200.athena.092--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.092.md) | 1 |
 | [09m.md](09m.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.09m--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.09m.md) | 1 |
 | [0ai.md](0ai.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/fix_new_snippet_prefix.md][1] | - | [bbugyi200.athena.0ai--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0ai.md) | 1 |
 | [0ge.md](0ge.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0ge--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0ge.md) | 1 |
