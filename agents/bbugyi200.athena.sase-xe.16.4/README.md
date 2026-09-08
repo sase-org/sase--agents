@@ -13,25 +13,31 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-08T14:24:14.143801+00:00 → 2026-09-08T20:49:11.467440+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ace9e2c`](https://github.com/sase-org/sase/commit/ace9e2cd468ff998b1a3b849ea3f7adf12820231) | feat(dispatch): discover tailnet machines | 2026-09-08 16:44:35 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-xe.16.1](../../families/bbugyi200.athena.sase-xe.16.1.md) (family · 3) | sase-xe.16 hood | completed 2, failed 1 |
-| [sase-xe.16.10](../bbugyi200.athena.sase-xe.16.10/README.md) | sase-xe.16 hood | waiting |
+| [sase-xe.16.10](../../families/bbugyi200.athena.sase-xe.16.10.md) (family · 3) | sase-xe.16 hood | active 2, failed 1 |
 | [sase-xe.16.2](../bbugyi200.athena.sase-xe.16.2/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.3](../bbugyi200.athena.sase-xe.16.3/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.5](../bbugyi200.athena.sase-xe.16.5/README.md) | sase-xe.16 hood | completed |
-| [sase-xe.16.6](../../families/bbugyi200.athena.sase-xe.16.6.md) (family · 3) | sase-xe.16 hood | active 2, failed 1 |
+| [sase-xe.16.6](../../families/bbugyi200.athena.sase-xe.16.6.md) (family · 3) | sase-xe.16 hood | completed 2, failed 1 |
 | [sase-xe.16.7](../bbugyi200.athena.sase-xe.16.7/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.8](../bbugyi200.athena.sase-xe.16.8/README.md) | sase-xe.16 hood | completed |
-| [sase-xe.16.8.f0](../../families/bbugyi200.athena.sase-xe.16.8.f0.md) (family · 8) | sase-xe.16 hood | active 1, completed 4, failed 3 |
+| [sase-xe.16.8.f0](../../families/bbugyi200.athena.sase-xe.16.8.f0.md) (family · 11) | sase-xe.16 hood | active 1, completed 5, failed 5 |
 | [sase-xe.16.9](../../families/bbugyi200.athena.sase-xe.16.9.md) (family · 3) | sase-xe.16 hood | completed 2, failed 1 |
 | [sase-xe.16.land](../bbugyi200.athena.sase-xe.16.land/README.md) | sase-xe.16 hood | waiting |
 | [sase-xe.1](../bbugyi200.athena.sase-xe.1/README.md) | sase-xe hood | active |

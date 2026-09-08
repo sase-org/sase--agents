@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-xe.16.6--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_xe_16_6__plan-260908_102325.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_xe_16_6__code-260908_102325.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/machine_init_activation.md
 
 
