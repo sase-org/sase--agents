@@ -228,7 +228,7 @@
 | [07b](hoods/07b/README.md) | 2 | 0 | completed 2 |
 | [07c](hoods/07c/README.md) | 1 | 0 | completed 1 |
 | [07d](hoods/07d/README.md) | 3 | 1 | completed 3 |
-| [07e](hoods/07e/README.md) | 2 | 0 | completed 2 |
+| [07e](hoods/07e/README.md) | 2 | 0 | active 1, completed 1 |
 | [07f](hoods/07f/README.md) | 1 | 0 | completed 1 |
 | [07g](hoods/07g/README.md) | 2 | 1 | active 2 |
 | [07h](hoods/07h/README.md) | 8 | 1 | active 1, completed 4, failed 3 |

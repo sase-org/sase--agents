@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Why don't I see the new focus and fleet sub-tabs that should be added to the agents tab in the TUI (see the sase-xe epic bead for context)? Can you do some research on this and provide me with a concise set of steps that need to be taken in order to use sase's new remote machine management functionality? #research %m:opus
