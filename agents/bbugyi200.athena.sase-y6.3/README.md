@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-y6](../../users/bbugyi200/machines/athena/hoods/sase-y6/README.md) / sase-y6.3
 
-**Global name:** `bbugyi200.athena.sase-y6.3` · **State:** waiting · **Source run:** `run-2d8a87ccfb7b0fac1db250035cdc5a14`
+**Global name:** `bbugyi200.athena.sase-y6.3` · **State:** active · **Source run:** `run-990a0779e2d3cf893f768d50f99884cb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-y6
 
@@ -10,9 +10,9 @@
 
 - Bead: [sase-y6.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-y6/sase-y6.3.md)
 - Epic: [sase-y6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-y6/README.md)
-- Model: sonnet
-- Provider: claude
-- Timing: 20260907170841
+- Model: grok-4.6
+- Provider: grok
+- Timing: 2026-09-08T09:42:23.678462+00:00
 - Commits: 0
 
 ## Files
@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-y6.1](../bbugyi200.athena.sase-y6.1/README.md) | sase-y6 hood | completed |
-| [sase-y6.2](../bbugyi200.athena.sase-y6.2/README.md) | sase-y6 hood | active |
-| [sase-y6.4](../bbugyi200.athena.sase-y6.4/README.md) | sase-y6 hood | waiting |
+| [sase-y6.2](../bbugyi200.athena.sase-y6.2/README.md) | sase-y6 hood | failed |
+| [sase-y6.4](../bbugyi200.athena.sase-y6.4/README.md) | sase-y6 hood | active |
 | [sase-y6.5](../bbugyi200.athena.sase-y6.5/README.md) | sase-y6 hood | waiting |
 | [sase-y6.land](../bbugyi200.athena.sase-y6.land/README.md) | sase-y6 hood | waiting |
