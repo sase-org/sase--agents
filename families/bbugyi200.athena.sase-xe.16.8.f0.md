@@ -44,7 +44,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | sase-xe.16.8.f0--plan | completed | claude-fable-5 / claude | 2026-09-08T15:12:47.754711+00:00 → 2026-09-08T15:24:17.551888+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.16.8.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.8.f0--plan/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | sase-xe.16.8.f0--mon-2 | failed | gpt-5.5 / codex | 2026-09-08T21:41:23.462427+00:00 → 2026-09-08T22:07:30.510064+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.8.f0--mon-2/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-xe.16.8.f0--mon-1 | failed | gpt-5.5 / codex | 2026-09-08T19:25:38.451880+00:00 → 2026-09-08T21:26:51.470932+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.8.f0--mon-1/chat.md) |
-| <a id="member-4"></a>4 | sase-xe.16.8.f0--4 | active | gpt-5.5 / codex | 2026-09-08T22:07:53.037341+00:00 | [1](../agents/bbugyi200.athena.sase-xe.16.8.f0--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-xe.16.8.f0--4/prompt.md) | — |
+| <a id="member-4"></a>4 | sase-xe.16.8.f0--4 | active | gpt-5.5 / codex | 2026-09-08T22:07:53.037341+00:00 | [2](../agents/bbugyi200.athena.sase-xe.16.8.f0--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-xe.16.8.f0--4/prompt.md) | — |
 | <a id="member-gate"></a>gate | sase-xe.16.8.f0--gate | failed | claude-fable-5 / claude | 2026-09-08T15:23:35.994094+00:00 → 2026-09-08T15:28:14.443250+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.8.f0--gate/chat.md) |
 
 ## Commits
@@ -52,6 +52,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | 4 | sase | [`a5e642c`](https://github.com/sase-org/sase/commit/a5e642c929a07fde7fd76b3be34439ce42c897bf) | fix(sdd): harden sidecar clone materialization | 2026-09-08 18:24:06 EDT |
+| 4 | sase | [`5b8ee98`](https://github.com/sase-org/sase/commit/5b8ee98ce19a11e2d6f96abe7bf73eecf022318f) | fix(core): keep eligibility schema helper private | 2026-09-08 19:30:24 EDT |
 
 ## Neighbors
 
@@ -59,7 +60,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-xe.16.8](../agents/bbugyi200.athena.sase-xe.16.8/README.md) | ancestor | completed |
 | [sase-xe.16.1](bbugyi200.athena.sase-xe.16.1.md) (family · 3) | sase-xe.16 hood | completed 2, failed 1 |
-| [sase-xe.16.10](bbugyi200.athena.sase-xe.16.10.md) (family · 3) | sase-xe.16 hood | active 2, failed 1 |
+| [sase-xe.16.10](bbugyi200.athena.sase-xe.16.10.md) (family · 5) | sase-xe.16 hood | active 3, failed 2 |
 | [sase-xe.16.2](../agents/bbugyi200.athena.sase-xe.16.2/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.3](../agents/bbugyi200.athena.sase-xe.16.3/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.4](../agents/bbugyi200.athena.sase-xe.16.4/README.md) | sase-xe.16 hood | completed |

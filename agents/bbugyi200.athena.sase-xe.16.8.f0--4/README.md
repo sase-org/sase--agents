@@ -11,7 +11,7 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-08T22:07:53.037341+00:00
-- Commits: [1](#commits)
+- Commits: [2](#commits)
 
 ## Files
 
@@ -22,6 +22,7 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`a5e642c`](https://github.com/sase-org/sase/commit/a5e642c929a07fde7fd76b3be34439ce42c897bf) | fix(sdd): harden sidecar clone materialization | 2026-09-08 18:24:06 EDT |
+| sase | [`5b8ee98`](https://github.com/sase-org/sase/commit/5b8ee98ce19a11e2d6f96abe7bf73eecf022318f) | fix(core): keep eligibility schema helper private | 2026-09-08 19:30:24 EDT |
 
 ## Neighbors
 
@@ -29,7 +30,7 @@
 |---|---|---|
 | [sase-xe.16.8](../bbugyi200.athena.sase-xe.16.8/README.md) | ancestor | completed |
 | [sase-xe.16.1](../../families/bbugyi200.athena.sase-xe.16.1.md) (family · 3) | sase-xe.16 hood | completed 2, failed 1 |
-| [sase-xe.16.10](../../families/bbugyi200.athena.sase-xe.16.10.md) (family · 3) | sase-xe.16 hood | active 2, failed 1 |
+| [sase-xe.16.10](../../families/bbugyi200.athena.sase-xe.16.10.md) (family · 5) | sase-xe.16 hood | active 3, failed 2 |
 | [sase-xe.16.2](../bbugyi200.athena.sase-xe.16.2/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.3](../bbugyi200.athena.sase-xe.16.3/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.4](../bbugyi200.athena.sase-xe.16.4/README.md) | sase-xe.16 hood | completed |

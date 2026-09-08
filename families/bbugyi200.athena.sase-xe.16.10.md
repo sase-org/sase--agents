@@ -2,25 +2,31 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-xe](../users/bbugyi200/machines/athena/hoods/sase-xe/README.md) / sase-xe.16.10
 
-Owner: `bbugyi200.athena` · Hood: `sase-xe` · Members: 3 · Bead: [sase-xe.16.10](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.10.md)
+Owner: `bbugyi200.athena` · Hood: `sase-xe` · Members: 5 · Bead: [sase-xe.16.10](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.10.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-xe.16.10--plan [active]"]
-  n1["sase-xe.16.10--1 [active]"]
+  n0["sase-xe.16.10--2 [active]"]
+  n1["sase-xe.16.10--plan [active]"]
   n0 --> n1
-  n2["sase-xe.16.10--gate [failed]"]
+  n2["sase-xe.16.10--1 [active]"]
   n0 --> n2
+  n3["sase-xe.16.10--gate-0 [failed]"]
+  n0 --> n3
+  n4["sase-xe.16.10--gate [failed]"]
+  n0 --> n4
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
+| <a id="member-2"></a>2 | sase-xe.16.10--2 | active | gpt-5.5 / codex | 2026-09-08T22:37:27.307050+00:00 | 0 | — | — |
 | <a id="member-plan"></a>plan | sase-xe.16.10--plan | active | gpt-5.5 / codex | 2026-09-08T21:52:55.099554+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.16.10--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.10--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-xe.16.10--1 | active | grok-4.6 / grok | 2026-09-08T22:13:35.563984+00:00 | 0 | — | — |
+| <a id="member-1"></a>1 | sase-xe.16.10--1 | active | grok-4.6 / grok | 2026-09-08T22:13:35.563984+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.10--1/chat.md) |
+| <a id="member-gate-0"></a>gate-0 | sase-xe.16.10--gate-0 | failed | grok-4.6 / grok | 2026-09-08T22:37:18.780770+00:00 → 2026-09-08T22:37:20.620256+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.10--gate-0/chat.md) |
 | <a id="member-gate"></a>gate | sase-xe.16.10--gate | failed | gpt-5.5 / codex | 2026-09-08T22:13:25.781905+00:00 → 2026-09-08T22:13:27.495028+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.10--gate/chat.md) |
 
 ## Neighbors
