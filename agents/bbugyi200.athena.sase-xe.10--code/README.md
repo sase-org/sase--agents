@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-06T23:53:38.862643+00:00 → 2026-09-07T01:07:59.094614+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`e48d28c`](https://github.com/sase-org/sase/commit/e48d28c9517396c4818392c68a49ff1747bc6eda) | feat(dispatch): add federation worker facade | 2026-09-06 21:01:45 EDT |
 
 ## Neighbors
 
@@ -32,6 +38,18 @@
 | [sase-xe.14.f0](../../families/bbugyi200.athena.sase-xe.14.f0.md) (family · 5) | sase-xe hood | completed 1, dismissed 1, failed 3 |
 | [sase-xe.15](../../families/bbugyi200.athena.sase-xe.15.md) (family · 6) | sase-xe hood | active 1, completed 2, dismissed 1, failed 2 |
 | [sase-xe.15](../bbugyi200.athena.sase-xe.15/README.md) | sase-xe hood | waiting |
+| [sase-xe.16.1](../../families/bbugyi200.athena.sase-xe.16.1.md) (family · 3) | sase-xe hood | completed 2, failed 1 |
+| [sase-xe.16.10](../bbugyi200.athena.sase-xe.16.10/README.md) | sase-xe hood | waiting |
+| [sase-xe.16.2](../bbugyi200.athena.sase-xe.16.2/README.md) | sase-xe hood | completed |
+| [sase-xe.16.3](../bbugyi200.athena.sase-xe.16.3/README.md) | sase-xe hood | completed |
+| [sase-xe.16.4](../bbugyi200.athena.sase-xe.16.4/README.md) | sase-xe hood | active |
+| [sase-xe.16.5](../bbugyi200.athena.sase-xe.16.5/README.md) | sase-xe hood | completed |
+| [sase-xe.16.6](../bbugyi200.athena.sase-xe.16.6/README.md) | sase-xe hood | waiting |
+| [sase-xe.16.7](../bbugyi200.athena.sase-xe.16.7/README.md) | sase-xe hood | completed |
+| [sase-xe.16.8](../bbugyi200.athena.sase-xe.16.8/README.md) | sase-xe hood | completed |
+| [sase-xe.16.8.f0](../../families/bbugyi200.athena.sase-xe.16.8.f0.md) (family · 5) | sase-xe hood | active 1, completed 2, failed 2 |
+| [sase-xe.16.9](../../families/bbugyi200.athena.sase-xe.16.9.md) (family · 3) | sase-xe hood | completed 2, failed 1 |
+| [sase-xe.16.land](../bbugyi200.athena.sase-xe.16.land/README.md) | sase-xe hood | waiting |
 | [sase-xe.2](../../families/bbugyi200.athena.sase-xe.2.md) (family · 3) | sase-xe hood | active 1, dismissed 1, failed 1 |
 | [sase-xe.3](../bbugyi200.athena.sase-xe.3/README.md) | sase-xe hood | completed |
 | [sase-xe.4](../../families/bbugyi200.athena.sase-xe.4.md) (family · 3) | sase-xe hood | completed 2, failed 1 |
@@ -43,5 +61,5 @@
 | [sase-xe.8](../../families/bbugyi200.athena.sase-xe.8.md) (family · 3) | sase-xe hood | completed 2, failed 1 |
 | [sase-xe.8](../bbugyi200.athena.sase-xe.8/README.md) | sase-xe hood | waiting |
 | [sase-xe.9](../bbugyi200.athena.sase-xe.9/README.md) | sase-xe hood | completed |
-| [sase-xe.land](../../families/bbugyi200.athena.sase-xe.land.md) (family · 3) | sase-xe hood | active 1, completed 1, failed 1 |
+| [sase-xe.land](../../families/bbugyi200.athena.sase-xe.land.md) (family · 3) | sase-xe hood | completed 2, failed 1 |
 | [sase-xe.land](../bbugyi200.athena.sase-xe.land/README.md) | sase-xe hood | waiting |
