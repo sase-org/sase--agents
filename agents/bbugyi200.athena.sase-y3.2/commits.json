@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-334af4c16b437ba407d6fe2266a0359f"}
+{"commits":[{"committed_at":1788818968,"sha":"87f4cf1416da9963e599e4e3fc0e04eeef64b6b5","subject":"fix(sdd): gate background artifact-link writers on machine writability"}],"schema_version":2,"source_run_id":"run-334af4c16b437ba407d6fe2266a0359f"}
