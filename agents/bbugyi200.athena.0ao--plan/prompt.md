@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase I'm concerned that just reading a plan file (or any artifact file) alone triggers a finalizer commit because the finalizer detects a new artifact link. This is not correct. Only agents that make real file changes should have their artifact links committed. Any other artifact links can be cleared / stashed. Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix the issue?
+
+#plan It's entirely possible that I'm wrong about this. If so don't create a plan. Just provide justification for why there's nothing to be done. %m:@xlarge %w(runners=7)
