@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-y6](../../users/bbugyi200/machines/athena/hoods/sase-y6/README.md) / sase-y6.4
 
-**Global name:** `bbugyi200.athena.sase-y6.4` · **State:** active · **Source run:** `run-0644833a7099a9a7e99f773835201259`
+**Global name:** `bbugyi200.athena.sase-y6.4` · **State:** completed · **Source run:** `run-0644833a7099a9a7e99f773835201259`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-y6
 
@@ -12,12 +12,12 @@
 - Epic: [sase-y6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-y6/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-08T09:42:18.646386+00:00
+- Timing: 2026-09-08T09:42:18.646386+00:00 → 2026-09-08T10:05:59.224298+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
