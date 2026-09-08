@@ -13,6 +13,7 @@
 | [092.md](092.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/update_everything_keymap.md][1] | - | [bbugyi200.athena.092--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.092.md) | 1 |
 | [09m.md](09m.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.09m--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.09m.md) | 1 |
 | [0ai.md](0ai.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/fix_new_snippet_prefix.md][1] | - | [bbugyi200.athena.0ai--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0ai.md) | 1 |
+| [0ao.md](0ao.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0ao--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0ao.md) | 1 |
 | [0ge.md](0ge.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0ge--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0ge.md) | 1 |
 | [0gf.md](0gf.md) | fork:0gf %model:sonnet %effort:high | - | [bbugyi200.athena.0gf--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0gf.md) | 0 |
 | [0gh.md](0gh.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/prompt_search_performance.md][1] | - | [bbugyi200.athena.0gh--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0gh.md) | 1 |
