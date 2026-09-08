@@ -37,8 +37,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-xy.5.5.2](../agents/bbugyi200.athena.sase-xy.5.5.2/README.md) | sase-xy.5.5 hood | completed |
 | [sase-xy.5.5.4.1](../agents/bbugyi200.athena.sase-xy.5.5.4.1/README.md) | sase-xy.5.5 hood | completed |
 | [sase-xy.5.5.4.2](../agents/bbugyi200.athena.sase-xy.5.5.4.2/README.md) | sase-xy.5.5 hood | completed |
-| [sase-xy.5.5.4.3](bbugyi200.athena.sase-xy.5.5.4.3.md) (family · 7) | sase-xy.5.5 hood | active 1, completed 3, failed 3 |
-| [sase-xy.5.5.4.land](../agents/bbugyi200.athena.sase-xy.5.5.4.land/README.md) | sase-xy.5.5 hood | waiting |
+| [sase-xy.5.5.4.3](bbugyi200.athena.sase-xy.5.5.4.3.md) (family · 7) | sase-xy.5.5 hood | completed 4, failed 3 |
+| [sase-xy.5.5.4.land](bbugyi200.athena.sase-xy.5.5.4.land.md) (family · 3) | sase-xy.5.5 hood | active 1, completed 1, failed 1 |
 | [sase-xy.5.5.land](bbugyi200.athena.sase-xy.5.5.land.md) (family · 3) | sase-xy.5.5 hood | failed 3 |
 | [sase-xy.5.1](../agents/bbugyi200.athena.sase-xy.5.1/README.md) | sase-xy.5 hood | dismissed |
 | [sase-xy.5.2](../agents/bbugyi200.athena.sase-xy.5.2/README.md) | sase-xy.5 hood | completed |

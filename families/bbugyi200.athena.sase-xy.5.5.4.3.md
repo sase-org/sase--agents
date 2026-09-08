@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-xy.5.5.4.3--plan [completed]"]
   n1["sase-xy.5.5.4.3--mon-0 [failed]"]
   n0 --> n1
-  n2["sase-xy.5.5.4.3--3 [active]"]
+  n2["sase-xy.5.5.4.3--3 [completed]"]
   n0 --> n2
   n3["sase-xy.5.5.4.3--mon-1 [failed]"]
   n0 --> n3
@@ -29,7 +29,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-xy.5.5.4.3--plan | completed | gpt-5.5 / codex | 2026-09-08T03:52:09.280743+00:00 → 2026-09-08T03:58:29.686514+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xy.5.5.4.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xy.5.5.4.3--plan/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-xy.5.5.4.3--mon-0 | failed | gpt-5.5 / codex | 2026-09-08T04:06:19.209703+00:00 → 2026-09-08T04:19:33.308882+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xy.5.5.4.3--mon-0/chat.md) |
-| <a id="member-3"></a>3 | sase-xy.5.5.4.3--3 | active | gpt-5.5 / codex | 2026-09-08T05:08:50.678131+00:00 | [1](../agents/bbugyi200.athena.sase-xy.5.5.4.3--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-xy.5.5.4.3--3/prompt.md) | — |
+| <a id="member-3"></a>3 | sase-xy.5.5.4.3--3 | completed | gpt-5.5 / codex | 2026-09-08T05:08:50.678131+00:00 → 2026-09-08T05:13:48.444796+00:00 | [1](../agents/bbugyi200.athena.sase-xy.5.5.4.3--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-xy.5.5.4.3--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xy.5.5.4.3--3/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-xy.5.5.4.3--mon-1 | failed | gpt-5.5 / codex | 2026-09-08T04:46:13.462456+00:00 → 2026-09-08T05:08:25.698557+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xy.5.5.4.3--mon-1/chat.md) |
 | <a id="member-1"></a>1 | sase-xy.5.5.4.3--1 | completed | gpt-5.5 / codex | 2026-09-08T04:03:02.053142+00:00 → 2026-09-08T04:06:27.498433+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xy.5.5.4.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xy.5.5.4.3--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-xy.5.5.4.3--mon | failed | gpt-5.5 / codex | 2026-09-08T03:58:21.979911+00:00 → 2026-09-08T04:02:39.838509+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xy.5.5.4.3--mon/chat.md) |
@@ -47,7 +47,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-xy.5.5.4.1](../agents/bbugyi200.athena.sase-xy.5.5.4.1/README.md) | sase-xy.5.5.4 hood | completed |
 | [sase-xy.5.5.4.2](../agents/bbugyi200.athena.sase-xy.5.5.4.2/README.md) | sase-xy.5.5.4 hood | completed |
-| [sase-xy.5.5.4.land](../agents/bbugyi200.athena.sase-xy.5.5.4.land/README.md) | sase-xy.5.5.4 hood | waiting |
+| [sase-xy.5.5.4.land](bbugyi200.athena.sase-xy.5.5.4.land.md) (family · 3) | sase-xy.5.5.4 hood | active 1, completed 1, failed 1 |
 | [sase-xy.5.5.1](../agents/bbugyi200.athena.sase-xy.5.5.1/README.md) | sase-xy.5.5 hood | completed |
 | [sase-xy.5.5.2](../agents/bbugyi200.athena.sase-xy.5.5.2/README.md) | sase-xy.5.5 hood | completed |
 | [sase-xy.5.5.3](bbugyi200.athena.sase-xy.5.5.3.md) (family · 3) | sase-xy.5.5 hood | completed 2, failed 1 |
