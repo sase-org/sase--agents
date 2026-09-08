@@ -1,36 +1,35 @@
-# Agent: sase-xy.5.5.1
+# Agent: sase-xy.5.5.3--1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-xy](../../users/bbugyi200/machines/athena/hoods/sase-xy/README.md) / sase-xy.5.5.1
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-xy](../../users/bbugyi200/machines/athena/hoods/sase-xy/README.md) / [sase-xy.5.5.3](../../families/bbugyi200.athena.sase-xy.5.5.3.md) / sase-xy.5.5.3--1
 
-**Global name:** `bbugyi200.athena.sase-xy.5.5.1` · **State:** completed · **Source run:** `run-8f9989e2afe486afcc23b7f06866aa57`
+**Global name:** `bbugyi200.athena.sase-xy.5.5.3--1` · **State:** active · **Source run:** `run-9aba677aa75d3861c43e67a0a4744d06`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-xy
 
 ## Summary
 
-- Bead: [sase-xy.5.5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xy/sase-xy.5.5.1.md)
-- Epic: [sase-xy.5.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xy/sase-xy.5.5.md)
-- Model: grok-4.6
-- Provider: grok
-- Timing: 2026-09-08T00:25:34.295345+00:00 → 2026-09-08T01:24:14.416987+00:00
+- Bead: [sase-xy.5.5.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xy/sase-xy.5.5.3.md)
+- Model: sonnet
+- Provider: claude
+- Timing: 2026-09-08T02:54:39.226436+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Prompt](prompt.md)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d101fbd`](https://github.com/sase-org/sase/commit/d101fbd08657694233523cca298a526ada3b2609) | feat(artifact-ref): transport optional source path\_globs on document owner | 2026-09-07 21:20:08 EDT |
+| sase | [`b67c74c`](https://github.com/sase-org/sase/commit/b67c74ce7ecf2268a3abba0d61e0fdbabf7f56e1) | feat(artifact-ref): ratchet sase-core-rs floor to 0.32.41 and extend contract validation | 2026-09-07 22:58:04 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [sase-xy.5.5.1](../bbugyi200.athena.sase-xy.5.5.1/README.md) | sase-xy.5.5 hood | completed |
 | [sase-xy.5.5.2](../bbugyi200.athena.sase-xy.5.5.2/README.md) | sase-xy.5.5 hood | completed |
-| [sase-xy.5.5.3](../../families/bbugyi200.athena.sase-xy.5.5.3.md) (family · 3) | sase-xy.5.5 hood | active 1, completed 1, failed 1 |
 | [sase-xy.5.5.land](../bbugyi200.athena.sase-xy.5.5.land/README.md) | sase-xy.5.5 hood | waiting |
 | [sase-xy.5.1](../bbugyi200.athena.sase-xy.5.1/README.md) | sase-xy.5 hood | dismissed |
 | [sase-xy.5.2](../bbugyi200.athena.sase-xy.5.2/README.md) | sase-xy.5 hood | completed |
