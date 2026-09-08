@@ -1667,7 +1667,7 @@
 | [sase-xy](hoods/sase-xy/README.md) | 38 | 7 | active 1, completed 21, dismissed 1, failed 15 |
 | [sase-xz](hoods/sase-xz/README.md) | 11 | 1 | active 1, completed 7, failed 3 |
 | [sase-y3](hoods/sase-y3/README.md) | 8 | 2 | active 1, completed 3, dismissed 1, failed 2, waiting 1 |
-| [sase-y5](hoods/sase-y5/README.md) | 18 | 1 | active 1, completed 4, failed 4, waiting 9 |
+| [sase-y5](hoods/sase-y5/README.md) | 18 | 1 | active 3, completed 1, dismissed 9, waiting 5 |
 | [sase-y6](hoods/sase-y6/README.md) | 6 | 0 | active 1, completed 3, failed 1, waiting 1 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |
