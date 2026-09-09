@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-888b5f8abb60a0ae0ba16c2c4c59ec69"}
+{"commits":[{"committed_at":1788917871,"sha":"3f23a53745761c38d0c25a268f634d98b5720bdf","subject":"refactor(xprompt): retire wait_queue flag, make %queue directive unconditional"}],"schema_version":2,"source_run_id":"run-888b5f8abb60a0ae0ba16c2c4c59ec69"}

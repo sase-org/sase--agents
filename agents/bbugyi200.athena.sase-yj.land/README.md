@@ -24,5 +24,5 @@
 |---|---|---|
 | [sase-yj.1](../../families/bbugyi200.athena.sase-yj.1.md) (family · 3) | sase-yj hood | completed 2, failed 1 |
 | [sase-yj.2](../bbugyi200.athena.sase-yj.2/README.md) | sase-yj hood | completed |
-| [sase-yj.3](../bbugyi200.athena.sase-yj.3/README.md) | sase-yj hood | waiting |
+| [sase-yj.3](../bbugyi200.athena.sase-yj.3/README.md) | sase-yj hood | active |
 | [sase-yj.4](../bbugyi200.athena.sase-yj.4/README.md) | sase-yj hood | waiting |
