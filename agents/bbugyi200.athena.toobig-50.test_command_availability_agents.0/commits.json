@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8bebeb5720bcefb5db7017a8d410eee8"}
+{"commits":[{"committed_at":1788924514,"sha":"1473c0c130cb3d6d3cd53d94cfdac53fa952e4b2","subject":"test: split agent command availability tests"}],"schema_version":2,"source_run_id":"run-8bebeb5720bcefb5db7017a8d410eee8"}
