@@ -13,17 +13,24 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-08T16:54:01.169180+00:00 → 2026-09-08T20:52:27.770619+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`46f7f54`](https://github.com/sase-org/sase/commit/46f7f549ef2edc9d4e7f9136d810786cb9792b48) | fix(sdd): retry unpublished artifact-link sidecars | 2026-09-08 16:48:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-yh.1](../bbugyi200.athena.sase-yh.1/README.md) | sase-yh hood | completed |
-| [sase-yh.2](../bbugyi200.athena.sase-yh.2/README.md) | sase-yh hood | active |
+| [sase-yh.2](../bbugyi200.athena.sase-yh.2/README.md) | sase-yh hood | failed |
+| [sase-yh.4](../../families/bbugyi200.athena.sase-yh.4.md) (family · 3) | sase-yh hood | active 1, completed 1, failed 1 |
 | [sase-yh.4](../bbugyi200.athena.sase-yh.4/README.md) | sase-yh hood | waiting |
 | [sase-yh.land](../bbugyi200.athena.sase-yh.land/README.md) | sase-yh hood | waiting |

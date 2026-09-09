@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0775c97157bbae8e5de9b37d6127ac72"}
+{"commits":[{"committed_at":1788949420,"sha":"ff6271e53ad2a0f87a961e9c05c4a2b4da549a68","subject":"chore(xprompt): require queue directive core support"}],"schema_version":2,"source_run_id":"run-a76531ab08c78695414b206882baa52c"}

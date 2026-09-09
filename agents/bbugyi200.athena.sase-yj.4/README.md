@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-yj](../../users/bbugyi200/machines/athena/hoods/sase-yj/README.md) / sase-yj.4
 
-**Global name:** `bbugyi200.athena.sase-yj.4` · **State:** waiting · **Source run:** `run-0775c97157bbae8e5de9b37d6127ac72`
+**Global name:** `bbugyi200.athena.sase-yj.4` · **State:** completed · **Source run:** `run-a76531ab08c78695414b206882baa52c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-yj
 
@@ -10,14 +10,20 @@
 
 - Bead: [sase-yj.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-yj/sase-yj.4.md)
 - Epic: [sase-yj](https://github.com/sase-org/sase--beads/blob/main/pages/sase-yj/README.md)
-- Model: grok-4.6
-- Provider: grok
-- Timing: 20260908175758
-- Commits: 0
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 2026-09-09T08:41:49.131263+00:00 → 2026-09-09T10:37:19.534926+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ff6271e`](https://github.com/sase-org/sase/commit/ff6271e53ad2a0f87a961e9c05c4a2b4da549a68) | chore(xprompt): require queue directive core support | 2026-09-09 06:23:40 EDT |
 
 ## Neighbors
 
@@ -25,5 +31,5 @@
 |---|---|---|
 | [sase-yj.1](../../families/bbugyi200.athena.sase-yj.1.md) (family · 3) | sase-yj hood | completed 2, failed 1 |
 | [sase-yj.2](../bbugyi200.athena.sase-yj.2/README.md) | sase-yj hood | completed |
-| [sase-yj.3](../bbugyi200.athena.sase-yj.3/README.md) | sase-yj hood | active |
-| [sase-yj.land](../bbugyi200.athena.sase-yj.land/README.md) | sase-yj hood | waiting |
+| [sase-yj.3](../bbugyi200.athena.sase-yj.3/README.md) | sase-yj hood | failed |
+| [sase-yj.land](../bbugyi200.athena.sase-yj.land/README.md) | sase-yj hood | active |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-53f611c23a0dd8665da74ab714ca0152"}
+{"commits":[{"committed_at":1788902191,"sha":"3ec9b78b2e128554f281409e80043f77888418db","subject":"fix(workspace): reconcile managed clone origins before stitch"}],"schema_version":2,"source_run_id":"run-53f611c23a0dd8665da74ab714ca0152"}
