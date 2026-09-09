@@ -24,6 +24,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-yj.2](../bbugyi200.athena.sase-yj.2/README.md) | sase-yj hood | completed |
-| [sase-yj.3](../bbugyi200.athena.sase-yj.3/README.md) | sase-yj hood | failed |
+| [sase-yj.3](../bbugyi200.athena.sase-yj.3/README.md) | sase-yj hood | dismissed |
 | [sase-yj.4](../bbugyi200.athena.sase-yj.4/README.md) | sase-yj hood | completed |
-| [sase-yj.land](../bbugyi200.athena.sase-yj.land/README.md) | sase-yj hood | active |
+| [sase-yj.land](../../families/bbugyi200.athena.sase-yj.land.md) (family · 3) | sase-yj hood | active 2, failed 1 |

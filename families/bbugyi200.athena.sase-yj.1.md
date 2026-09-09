@@ -34,6 +34,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-yj.2](../agents/bbugyi200.athena.sase-yj.2/README.md) | sase-yj hood | completed |
-| [sase-yj.3](../agents/bbugyi200.athena.sase-yj.3/README.md) | sase-yj hood | failed |
+| [sase-yj.3](../agents/bbugyi200.athena.sase-yj.3/README.md) | sase-yj hood | dismissed |
 | [sase-yj.4](../agents/bbugyi200.athena.sase-yj.4/README.md) | sase-yj hood | completed |
-| [sase-yj.land](../agents/bbugyi200.athena.sase-yj.land/README.md) | sase-yj hood | active |
+| [sase-yj.land](bbugyi200.athena.sase-yj.land.md) (family · 3) | sase-yj hood | active 2, failed 1 |
