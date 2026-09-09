@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a0666102a1f4db7fb2f554c9aee4bea7"}
+{"commits":[{"committed_at":1788946122,"sha":"1cad7ed16e4af8de850cf2f35cfe35164706fc2c","subject":"feat(usage): make provider usage tracking default-on and drop the beta flag"}],"schema_version":2,"source_run_id":"run-92c614fc78ab6a8dca893bbdbc167fd1"}

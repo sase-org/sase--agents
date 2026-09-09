@@ -40,13 +40,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-y5.1](../agents/bbugyi200.athena.sase-y5.1/README.md) | sase-y5 hood | dismissed |
-| [sase-y5.10](../agents/bbugyi200.athena.sase-y5.10/README.md) | sase-y5 hood | waiting |
-| [sase-y5.11](../agents/bbugyi200.athena.sase-y5.11/README.md) | sase-y5 hood | waiting |
+| [sase-y5.10](../agents/bbugyi200.athena.sase-y5.10/README.md) | sase-y5 hood | dismissed |
+| [sase-y5.11](../agents/bbugyi200.athena.sase-y5.11/README.md) | sase-y5 hood | active |
 | [sase-y5.3](../agents/bbugyi200.athena.sase-y5.3/README.md) | sase-y5 hood | dismissed |
 | [sase-y5.4](../agents/bbugyi200.athena.sase-y5.4/README.md) | sase-y5 hood | completed |
 | [sase-y5.5](../agents/bbugyi200.athena.sase-y5.5/README.md) | sase-y5 hood | completed |
 | [sase-y5.6](../agents/bbugyi200.athena.sase-y5.6/README.md) | sase-y5 hood | completed |
 | [sase-y5.7](../agents/bbugyi200.athena.sase-y5.7/README.md) | sase-y5 hood | completed |
 | [sase-y5.8](../agents/bbugyi200.athena.sase-y5.8/README.md) | sase-y5 hood | completed |
-| [sase-y5.9](../agents/bbugyi200.athena.sase-y5.9/README.md) | sase-y5 hood | active |
+| [sase-y5.9](../agents/bbugyi200.athena.sase-y5.9/README.md) | sase-y5 hood | completed |
 | [sase-y5.land](../agents/bbugyi200.athena.sase-y5.land/README.md) | sase-y5 hood | waiting |
