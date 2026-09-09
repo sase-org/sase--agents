@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-bc4b9b6ffd28756b71d9bbaf30a37534"}
+{"commits":[{"committed_at":1788978328,"sha":"fb89440a55d1971bb0bb17934ef0ebace24ddeee","subject":"feat(artifact-links): add operation-aware link outbox"}],"schema_version":2,"source_run_id":"run-bc4b9b6ffd28756b71d9bbaf30a37534"}

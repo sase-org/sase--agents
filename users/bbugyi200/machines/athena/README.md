@@ -1679,7 +1679,7 @@
 | [sase-yj](hoods/sase-yj/README.md) | 9 | 2 | active 2, completed 4, dismissed 1, failed 2 |
 | [sase-ys](hoods/sase-ys/README.md) | 9 | 1 | active 1, completed 5, failed 3 |
 | [sase-yw](hoods/sase-yw/README.md) | 8 | 1 | active 1, completed 3, failed 3, waiting 1 |
-| [sase-yy](hoods/sase-yy/README.md) | 12 | 2 | active 3, completed 2, failed 2, waiting 5 |
+| [sase-yy](hoods/sase-yy/README.md) | 12 | 2 | active 1, completed 5, failed 2, waiting 4 |
 | [sase\_fix\_just-00](hoods/sase_fix_just-00/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-07](hoods/sase_fix_just-07/README.md) | 1 | 0 | active 1 |
 | [sase\_fix\_just-0q](hoods/sase_fix_just-0q/README.md) | 1 | 0 | active 1 |
