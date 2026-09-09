@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a7692c49f3beb95a3061e56909003e34"}
+{"commits":[{"committed_at":1788955067,"sha":"cef06cdcad1c34723d9f1ce1d9c9bce013624fed","subject":"feat(usage): restore scoped capacity hints and usage attention (sase-y5.12.1)"}],"schema_version":2,"source_run_id":"run-a7692c49f3beb95a3061e56909003e34"}
