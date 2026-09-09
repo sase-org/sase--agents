@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-yj` · Members: 3 · Bead: [sase-yj.1](
 
 ```mermaid
 flowchart TD
-  n0["sase-yj.1--1 [active]"]
+  n0["sase-yj.1--1 [completed]"]
   n1["sase-yj.1--mon [failed]"]
   n0 --> n1
   n2["sase-yj.1--plan [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-yj.1--1 | active | grok-4.6 / grok | 2026-09-08T23:31:16.594797+00:00 | [1](../agents/bbugyi200.athena.sase-yj.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-yj.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-yj.1--1 | completed | grok-4.6 / grok | 2026-09-08T23:31:16.594797+00:00 → 2026-09-08T23:57:54.193049+00:00 | [1](../agents/bbugyi200.athena.sase-yj.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-yj.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-yj.1--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-yj.1--mon | failed | grok-4.6 / grok | 2026-09-08T23:17:55.813401+00:00 → 2026-09-08T23:30:53.239668+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-yj.1--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-yj.1--plan | completed | grok-4.6 / grok | 2026-09-08T21:58:36.782612+00:00 → 2026-09-08T23:18:20.115308+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-yj.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-yj.1--plan/chat.md) |
 
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-yj.2](../agents/bbugyi200.athena.sase-yj.2/README.md) | sase-yj hood | waiting |
+| [sase-yj.2](../agents/bbugyi200.athena.sase-yj.2/README.md) | sase-yj hood | completed |
 | [sase-yj.3](../agents/bbugyi200.athena.sase-yj.3/README.md) | sase-yj hood | waiting |
 | [sase-yj.4](../agents/bbugyi200.athena.sase-yj.4/README.md) | sase-yj hood | waiting |
 | [sase-yj.land](../agents/bbugyi200.athena.sase-yj.land/README.md) | sase-yj hood | waiting |

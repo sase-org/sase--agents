@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-50.artifact\_ref\_models.0](../bbugyi200.athena.toobig-50.artifact_ref_models.0/README.md) | toobig-50 hood | waiting |
+| [toobig-50.artifact\_ref\_models.0](../../families/bbugyi200.athena.toobig-50.artifact_ref_models.0.md) (family · 3) | toobig-50 hood | active 1, completed 1, failed 1 |
 | [toobig-50.processing.0](../bbugyi200.athena.toobig-50.processing.0/README.md) | toobig-50 hood | completed |
 | [toobig-50.resolve.0](../bbugyi200.athena.toobig-50.resolve.0/README.md) | toobig-50 hood | waiting |
 | [toobig-50.test\_app.0](../bbugyi200.athena.toobig-50.test_app.0/README.md) | toobig-50 hood | waiting |
