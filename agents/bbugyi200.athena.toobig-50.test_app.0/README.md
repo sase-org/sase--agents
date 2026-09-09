@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-50](../../users/bbugyi200/machines/athena/hoods/toobig-50/README.md) / toobig-50.test\_app.0
 
-**Global name:** `bbugyi200.athena.toobig-50.test_app.0` · **State:** waiting · **Source run:** `run-008e787c49d0ecdd5d7aa2ab7d542d22`
+**Global name:** `bbugyi200.athena.toobig-50.test_app.0` · **State:** active · **Source run:** `run-008e787c49d0ecdd5d7aa2ab7d542d22`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-50
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260908094942
-- Commits: 0
+- Timing: 2026-09-09T02:45:15.420382+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c5e8d4e`](https://github.com/sase-org/sase/commit/c5e8d4e96e06efe771aaa161ce34931c463a1528) | test(pager): split app tests by behavior | 2026-09-08 22:57:50 EDT |
 
 ## Neighbors
 
@@ -26,6 +32,6 @@
 | [toobig-50.resolve.0](../bbugyi200.athena.toobig-50.resolve.0/README.md) | toobig-50 hood | completed |
 | [toobig-50.store.0](../bbugyi200.athena.toobig-50.store.0/README.md) | toobig-50 hood | completed |
 | [toobig-50.test\_command\_availability\_agents.0](../bbugyi200.athena.toobig-50.test_command_availability_agents.0/README.md) | toobig-50 hood | waiting |
-| [toobig-50.test\_notify\_handler.0](../bbugyi200.athena.toobig-50.test_notify_handler.0/README.md) | toobig-50 hood | active |
+| [toobig-50.test\_notify\_handler.0](../bbugyi200.athena.toobig-50.test_notify_handler.0/README.md) | toobig-50 hood | completed |
 | [toobig-50.test\_resolve.0](../bbugyi200.athena.toobig-50.test_resolve.0/README.md) | toobig-50 hood | waiting |
 | [toobig-50.test\_view\_files\_pager.0](../bbugyi200.athena.toobig-50.test_view_files_pager.0/README.md) | toobig-50 hood | completed |
