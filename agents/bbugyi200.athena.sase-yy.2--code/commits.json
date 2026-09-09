@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0da6e486f247d3247338452f81431478"}
+{"commits":[{"committed_at":1788973765,"sha":"232ffbba3fdd9011f4c35d4a392c59d699df7709","subject":"test: validate artifact link event bindings"}],"schema_version":2,"source_run_id":"run-0da6e486f247d3247338452f81431478"}

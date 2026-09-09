@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-yy.2--code | active | gpt-5.5 / codex | 2026-09-09T15:56:41.688205+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-yy.2--code | active | gpt-5.5 / codex | 2026-09-09T15:56:41.688205+00:00 | [1](../agents/bbugyi200.athena.sase-yy.2--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | sase-yy.2--gate | failed | gpt-5.6-sol / codex | 2026-09-09T15:56:20.716666+00:00 → 2026-09-09T15:56:28.997657+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-yy.2--gate/chat.md) |
 | <a id="member-plan"></a>plan | sase-yy.2--plan | active | gpt-5.6-sol / codex | 2026-09-09T15:50:01.216148+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-yy.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-yy.2--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`232ffbb`](https://github.com/sase-org/sase/commit/232ffbba3fdd9011f4c35d4a392c59d699df7709) | test: validate artifact link event bindings | 2026-09-09 13:09:25 EDT |
 
 ## Neighbors
 
