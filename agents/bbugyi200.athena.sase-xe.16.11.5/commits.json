@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b2d2cc92866a34f078de07aa4ffbe72c"}
+{"commits":[{"committed_at":1788969581,"sha":"b7c6bc0067032b53f30e841b54a6f179d4ff52e1","subject":"fix(ace): decode live Fleet worker envelopes for Apollo catalog rows"}],"schema_version":2,"source_run_id":"run-b2d2cc92866a34f078de07aa4ffbe72c"}
