@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me stop using the `priority=20` kwarg with the `%queue` directive in the prompts used to launch sase agents from the `toobig` chop? This is redundant since we already set the `runners=3` kwarg and I rarely run on machines configured to allow less than 3 agents to run. #plan %q:3
