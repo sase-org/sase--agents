@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-09T11:15:41.387340+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`27bbd2f`](https://github.com/sase-org/sase/commit/27bbd2f4e4bcab9c364b175ad44c3fa24e13250d) | fix(commit): authenticate checkpoint recovery evidence | 2026-09-09 08:20:06 EDT |
 
 ## Neighbors
 
