@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-70bfb4d659a0940da4f852c6770b6057"}
+{"commits":[{"committed_at":1788928958,"sha":"2771ba29553808f2d218d08000aeee1055fa405e","subject":"refactor(dispatch): split providers.py into hook, inventory, and discovery modules"}],"schema_version":2,"source_run_id":"run-70bfb4d659a0940da4f852c6770b6057"}
