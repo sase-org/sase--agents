@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f57906e86d19e5a9c908b29b02a68501"}
+{"commits":[{"committed_at":1788956815,"sha":"1852f091ac3a4ebe8ac0cc25c6298d87d7edd3ee","subject":"feat(xprompt): pin core and share ACE/LSP star-alias completion"}],"schema_version":2,"source_run_id":"run-f57906e86d19e5a9c908b29b02a68501"}
