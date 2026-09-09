@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d99125afeef907d34b9053e6f74b7901"}
+{"commits":[{"committed_at":1788901822,"sha":"5620ac028d1a56439705849330f5937946b1fb7b","subject":"fix(model-alias): harden shortcut completion behavior"}],"schema_version":2,"source_run_id":"run-d99125afeef907d34b9053e6f74b7901"}

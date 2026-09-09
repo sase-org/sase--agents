@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-y5](../../users/bbugyi200/machines/athena/hoods/sase-y5/README.md) / sase-y5.11
 
-**Global name:** `bbugyi200.athena.sase-y5.11` · **State:** active · **Source run:** `run-92c614fc78ab6a8dca893bbdbc167fd1`
+**Global name:** `bbugyi200.athena.sase-y5.11` · **State:** completed · **Source run:** `run-92c614fc78ab6a8dca893bbdbc167fd1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-y5
 
@@ -12,12 +12,12 @@
 - Epic: [sase-y5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-y5/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-09T08:45:10.734910+00:00
+- Timing: 2026-09-09T08:45:10.734910+00:00 → 2026-09-09T09:32:10.308447+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -31,6 +31,9 @@
 |---|---|---|
 | [sase-y5.1](../bbugyi200.athena.sase-y5.1/README.md) | sase-y5 hood | dismissed |
 | [sase-y5.10](../bbugyi200.athena.sase-y5.10/README.md) | sase-y5 hood | dismissed |
+| [sase-y5.12.1](../bbugyi200.athena.sase-y5.12.1/README.md) | sase-y5 hood | active |
+| [sase-y5.12.2](../bbugyi200.athena.sase-y5.12.2/README.md) | sase-y5 hood | active |
+| [sase-y5.12.land](../bbugyi200.athena.sase-y5.12.land/README.md) | sase-y5 hood | waiting |
 | [sase-y5.2](../../families/bbugyi200.athena.sase-y5.2.md) (family · 7) | sase-y5 hood | dismissed 7 |
 | [sase-y5.3](../bbugyi200.athena.sase-y5.3/README.md) | sase-y5 hood | dismissed |
 | [sase-y5.4](../bbugyi200.athena.sase-y5.4/README.md) | sase-y5 hood | completed |
@@ -39,4 +42,4 @@
 | [sase-y5.7](../bbugyi200.athena.sase-y5.7/README.md) | sase-y5 hood | completed |
 | [sase-y5.8](../bbugyi200.athena.sase-y5.8/README.md) | sase-y5 hood | completed |
 | [sase-y5.9](../bbugyi200.athena.sase-y5.9/README.md) | sase-y5 hood | completed |
-| [sase-y5.land](../bbugyi200.athena.sase-y5.land/README.md) | sase-y5 hood | waiting |
+| [sase-y5.land](../../families/bbugyi200.athena.sase-y5.land.md) (family · 3) | sase-y5 hood | failed 3 |

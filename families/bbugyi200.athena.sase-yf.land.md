@@ -30,10 +30,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-yf.land.w0.w0](../agents/bbugyi200.athena.sase-yf.land.w0.w0/README.md) | descendant | dismissed |
 | [sase-yf.land.w0.w1](../agents/bbugyi200.athena.sase-yf.land.w0.w1/README.md) | descendant | dismissed |
 | [sase-yf.land.w1](../agents/bbugyi200.athena.sase-yf.land.w1/README.md) | descendant | dismissed |
-| [sase-yf.land.w2](../agents/bbugyi200.athena.sase-yf.land.w2/README.md) | descendant | waiting |
 | [sase-yf.land.w2.w0](../agents/bbugyi200.athena.sase-yf.land.w2.w0/README.md) | descendant | waiting |
+| [sase-yf.land.w3](../agents/bbugyi200.athena.sase-yf.land.w3/README.md) | descendant | active |
 | [sase-yf.1](../agents/bbugyi200.athena.sase-yf.1/README.md) | sase-yf hood | completed |
 | [sase-yf.2](../agents/bbugyi200.athena.sase-yf.2/README.md) | sase-yf hood | completed |
-| [sase-yf.3.1](../agents/bbugyi200.athena.sase-yf.3.1/README.md) | sase-yf hood | active |
-| [sase-yf.3.2](../agents/bbugyi200.athena.sase-yf.3.2/README.md) | sase-yf hood | waiting |
+| [sase-yf.3.1](../agents/bbugyi200.athena.sase-yf.3.1/README.md) | sase-yf hood | completed |
+| [sase-yf.3.2](../agents/bbugyi200.athena.sase-yf.3.2/README.md) | sase-yf hood | failed |
+| [sase-yf.3.land](bbugyi200.athena.sase-yf.3.land.md) (family · 3) | sase-yf hood | active 1, completed 1, failed 1 |
 | [sase-yf.3.land](../agents/bbugyi200.athena.sase-yf.3.land/README.md) | sase-yf hood | waiting |
