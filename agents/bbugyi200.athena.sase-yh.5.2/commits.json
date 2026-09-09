@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3fa42332a0e716db4efd8dc27579ce70"}
+{"commits":[{"committed_at":1788957430,"sha":"a1b08d06c9b0419c96d91b76f8dc77a78bee82a0","subject":"fix(sdd): preserve unpublished artifact sidecars"}],"schema_version":2,"source_run_id":"run-3fa42332a0e716db4efd8dc27579ce70"}
