@@ -3,6 +3,12 @@
 - **TIMESTAMP:** 2026-09-08 18:37:20 EDT
 - **AGENT:** sase-xe.16.10--1
 
+## Linked Chats
+
+- 1. --0 — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_xe_16_10__0-260908_102328.md`
+- **2. --1** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_xe_16_10__1-260908_102328.md`
+- 3. --2 — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_xe_16_10__2-260908_102328.md`
+
 ## Prompt
 
 #gh:gh_sase-org__sase

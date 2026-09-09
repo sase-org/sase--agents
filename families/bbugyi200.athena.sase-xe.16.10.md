@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-xe` · Members: 5 · Bead: [sase-xe.16.
 
 ```mermaid
 flowchart TD
-  n0["sase-xe.16.10--2 [active]"]
-  n1["sase-xe.16.10--plan [active]"]
+  n0["sase-xe.16.10--2 [completed]"]
+  n1["sase-xe.16.10--plan [completed]"]
   n0 --> n1
   n2["sase-xe.16.10--1 [active]"]
   n0 --> n2
@@ -23,8 +23,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-2"></a>2 | sase-xe.16.10--2 | active | gpt-5.5 / codex | 2026-09-08T22:37:27.307050+00:00 | [1](../agents/bbugyi200.athena.sase-xe.16.10--2/README.md#commits) | — | — |
-| <a id="member-plan"></a>plan | sase-xe.16.10--plan | active | gpt-5.5 / codex | 2026-09-08T21:52:55.099554+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.16.10--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.10--plan/chat.md) |
+| <a id="member-2"></a>2 | sase-xe.16.10--2 | completed | gpt-5.5 / codex | 2026-09-08T22:37:27.307050+00:00 → 2026-09-09T00:53:20.941535+00:00 | [1](../agents/bbugyi200.athena.sase-xe.16.10--2/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.10--2/chat.md) |
+| <a id="member-plan"></a>plan | sase-xe.16.10--plan | completed | gpt-5.5 / codex | 2026-09-08T21:52:55.099554+00:00 → 2026-09-09T00:53:20.941535+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.16.10--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.10--plan/chat.md) |
 | <a id="member-1"></a>1 | sase-xe.16.10--1 | active | grok-4.6 / grok | 2026-09-08T22:13:35.563984+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.10--1/chat.md) |
 | <a id="member-gate-0"></a>gate-0 | sase-xe.16.10--gate-0 | failed | grok-4.6 / grok | 2026-09-08T22:37:18.780770+00:00 → 2026-09-08T22:37:20.620256+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.10--gate-0/chat.md) |
 | <a id="member-gate"></a>gate | sase-xe.16.10--gate | failed | gpt-5.5 / codex | 2026-09-08T22:13:25.781905+00:00 → 2026-09-08T22:13:27.495028+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.10--gate/chat.md) |
@@ -40,6 +40,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-xe.16.1](bbugyi200.athena.sase-xe.16.1.md) (family · 3) | sase-xe.16 hood | completed 2, failed 1 |
+| [sase-xe.16.11.1](../agents/bbugyi200.athena.sase-xe.16.11.1/README.md) | sase-xe.16 hood | completed |
+| [sase-xe.16.11.2](../agents/bbugyi200.athena.sase-xe.16.11.2/README.md) | sase-xe.16 hood | active |
+| [sase-xe.16.11.3](../agents/bbugyi200.athena.sase-xe.16.11.3/README.md) | sase-xe.16 hood | waiting |
+| [sase-xe.16.11.4](../agents/bbugyi200.athena.sase-xe.16.11.4/README.md) | sase-xe.16 hood | waiting |
+| [sase-xe.16.11.5](../agents/bbugyi200.athena.sase-xe.16.11.5/README.md) | sase-xe.16 hood | waiting |
+| [sase-xe.16.11.land](../agents/bbugyi200.athena.sase-xe.16.11.land/README.md) | sase-xe.16 hood | waiting |
 | [sase-xe.16.2](../agents/bbugyi200.athena.sase-xe.16.2/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.3](../agents/bbugyi200.athena.sase-xe.16.3/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.4](../agents/bbugyi200.athena.sase-xe.16.4/README.md) | sase-xe.16 hood | completed |
@@ -49,7 +55,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-xe.16.8](../agents/bbugyi200.athena.sase-xe.16.8/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.8.f0](bbugyi200.athena.sase-xe.16.8.f0.md) (family · 11) | sase-xe.16 hood | completed 6, failed 5 |
 | [sase-xe.16.9](bbugyi200.athena.sase-xe.16.9.md) (family · 3) | sase-xe.16 hood | completed 2, failed 1 |
-| [sase-xe.16.land](../agents/bbugyi200.athena.sase-xe.16.land/README.md) | sase-xe.16 hood | waiting |
+| [sase-xe.16.land](bbugyi200.athena.sase-xe.16.land.md) (family · 5) | sase-xe.16 hood | completed 2, failed 3 |
 | [sase-xe.1](../agents/bbugyi200.athena.sase-xe.1/README.md) | sase-xe hood | active |
 | [sase-xe.10](bbugyi200.athena.sase-xe.10.md) (family · 3) | sase-xe hood | completed 2, failed 1 |
 | [sase-xe.10](../agents/bbugyi200.athena.sase-xe.10/README.md) | sase-xe hood | waiting |

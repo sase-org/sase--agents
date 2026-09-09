@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-xe](../../users/bbugyi200/machines/athena/hoods/sase-xe/README.md) / [sase-xe.16.10](../../families/bbugyi200.athena.sase-xe.16.10.md) / sase-xe.16.10--plan
 
-**Global name:** `bbugyi200.athena.sase-xe.16.10--plan` · **State:** active · **Source run:** `run-8d6c46d4b5c10ff56606d3861e0bef4d`
+**Global name:** `bbugyi200.athena.sase-xe.16.10--plan` · **State:** completed · **Source run:** `run-8d6c46d4b5c10ff56606d3861e0bef4d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-xe
 
@@ -12,7 +12,7 @@
 - Epic: [sase-xe.16](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-08T21:52:55.099554+00:00
+- Timing: 2026-09-08T21:52:55.099554+00:00 → 2026-09-09T00:53:20.941535+00:00
 - Commits: 0
 
 ## Files
@@ -24,6 +24,12 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-xe.16.1](../../families/bbugyi200.athena.sase-xe.16.1.md) (family · 3) | sase-xe.16 hood | completed 2, failed 1 |
+| [sase-xe.16.11.1](../bbugyi200.athena.sase-xe.16.11.1/README.md) | sase-xe.16 hood | completed |
+| [sase-xe.16.11.2](../bbugyi200.athena.sase-xe.16.11.2/README.md) | sase-xe.16 hood | active |
+| [sase-xe.16.11.3](../bbugyi200.athena.sase-xe.16.11.3/README.md) | sase-xe.16 hood | waiting |
+| [sase-xe.16.11.4](../bbugyi200.athena.sase-xe.16.11.4/README.md) | sase-xe.16 hood | waiting |
+| [sase-xe.16.11.5](../bbugyi200.athena.sase-xe.16.11.5/README.md) | sase-xe.16 hood | waiting |
+| [sase-xe.16.11.land](../bbugyi200.athena.sase-xe.16.11.land/README.md) | sase-xe.16 hood | waiting |
 | [sase-xe.16.2](../bbugyi200.athena.sase-xe.16.2/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.3](../bbugyi200.athena.sase-xe.16.3/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.4](../bbugyi200.athena.sase-xe.16.4/README.md) | sase-xe.16 hood | completed |
@@ -33,7 +39,7 @@
 | [sase-xe.16.8](../bbugyi200.athena.sase-xe.16.8/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.8.f0](../../families/bbugyi200.athena.sase-xe.16.8.f0.md) (family · 11) | sase-xe.16 hood | completed 6, failed 5 |
 | [sase-xe.16.9](../../families/bbugyi200.athena.sase-xe.16.9.md) (family · 3) | sase-xe.16 hood | completed 2, failed 1 |
-| [sase-xe.16.land](../bbugyi200.athena.sase-xe.16.land/README.md) | sase-xe.16 hood | waiting |
+| [sase-xe.16.land](../../families/bbugyi200.athena.sase-xe.16.land.md) (family · 5) | sase-xe.16 hood | completed 2, failed 3 |
 | [sase-xe.1](../bbugyi200.athena.sase-xe.1/README.md) | sase-xe hood | active |
 | [sase-xe.10](../../families/bbugyi200.athena.sase-xe.10.md) (family · 3) | sase-xe hood | completed 2, failed 1 |
 | [sase-xe.10](../bbugyi200.athena.sase-xe.10/README.md) | sase-xe hood | waiting |
