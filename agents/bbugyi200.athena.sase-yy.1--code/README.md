@@ -13,14 +13,20 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-09T16:01:44.296208+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9e52abc`](https://github.com/sase-org/sase/commit/9e52abc5a3c998c1d86c673e6f5754580de23f09) | feat(sdd): resolve semantic artifact-link conflicts | 2026-09-09 13:33:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-yy.2](../../families/bbugyi200.athena.sase-yy.2.md) (family · 3) | sase-yy hood | active 2, failed 1 |
-| [sase-yy.3](../bbugyi200.athena.sase-yy.3/README.md) | sase-yy hood | waiting |
+| [sase-yy.2](../../families/bbugyi200.athena.sase-yy.2.md) (family · 3) | sase-yy hood | completed 2, failed 1 |
+| [sase-yy.3](../bbugyi200.athena.sase-yy.3/README.md) | sase-yy hood | active |
 | [sase-yy.4](../bbugyi200.athena.sase-yy.4/README.md) | sase-yy hood | waiting |
 | [sase-yy.5](../bbugyi200.athena.sase-yy.5/README.md) | sase-yy hood | waiting |
 | [sase-yy.6](../bbugyi200.athena.sase-yy.6/README.md) | sase-yy hood | waiting |

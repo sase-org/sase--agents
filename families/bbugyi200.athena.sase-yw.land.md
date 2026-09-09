@@ -29,6 +29,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-yw.1](../agents/bbugyi200.athena.sase-yw.1/README.md) | sase-yw hood | completed |
 | [sase-yw.2](../agents/bbugyi200.athena.sase-yw.2/README.md) | sase-yw hood | completed |
-| [sase-yw.3.1](../agents/bbugyi200.athena.sase-yw.3.1/README.md) | sase-yw hood | active |
-| [sase-yw.3.2](../agents/bbugyi200.athena.sase-yw.3.2/README.md) | sase-yw hood | waiting |
+| [sase-yw.3.1](../agents/bbugyi200.athena.sase-yw.3.1/README.md) | sase-yw hood | completed |
+| [sase-yw.3.2](../agents/bbugyi200.athena.sase-yw.3.2/README.md) | sase-yw hood | active |
 | [sase-yw.3.land](../agents/bbugyi200.athena.sase-yw.3.land/README.md) | sase-yw hood | waiting |

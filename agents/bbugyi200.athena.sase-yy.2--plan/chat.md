@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-yy.2--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_yy_2__plan-260909_114935.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_yy_2__code-260909_114935.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/artifact_link_event_contract.md
 
 
