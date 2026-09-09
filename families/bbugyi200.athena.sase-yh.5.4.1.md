@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-yh.5.4.1--mon | failed | gpt-5.5 / codex | 2026-09-09T14:13:56.719252+00:00 → 2026-09-09T14:40:00.554394+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-yh.5.4.1--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-yh.5.4.1--1 | active | gpt-5.5 / codex | 2026-09-09T14:40:24.423266+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-yh.5.4.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-yh.5.4.1--1 | active | gpt-5.5 / codex | 2026-09-09T14:40:24.423266+00:00 | [1](../agents/bbugyi200.athena.sase-yh.5.4.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-yh.5.4.1--1/prompt.md) | — |
 | <a id="member-plan"></a>plan | sase-yh.5.4.1--plan | completed | gpt-5.5 / codex | 2026-09-09T13:29:06.634200+00:00 → 2026-09-09T14:14:09.603917+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-yh.5.4.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-yh.5.4.1--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`1a32558`](https://github.com/sase-org/sase/commit/1a32558a20bc832c930b87089cf1a59f80eaaac9) | fix(sdd): propagate hidden sidecar clone deadline | 2026-09-09 10:55:57 EDT |
 
 ## Neighbors
 

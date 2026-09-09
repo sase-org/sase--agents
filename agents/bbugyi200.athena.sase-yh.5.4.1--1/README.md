@@ -12,11 +12,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-09T14:40:24.423266+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`1a32558`](https://github.com/sase-org/sase/commit/1a32558a20bc832c930b87089cf1a59f80eaaac9) | fix(sdd): propagate hidden sidecar clone deadline | 2026-09-09 10:55:57 EDT |
 
 ## Neighbors
 
