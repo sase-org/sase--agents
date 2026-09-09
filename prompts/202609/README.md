@@ -186,6 +186,7 @@
 | [sase-xz.land.md](sase-xz.land.md) | fork:sase-xz.land %model:opus %effort:xhigh | - | [bbugyi200.athena.sase-xz.land--3](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.sase-xz.land.md) | 0 |
 | [sase-y3.4.md](sase-y3.4.md) | fork:sase-y3.4 %model:grok-4.6 %effort:high | - | [bbugyi200.athena.sase-y3.4--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.sase-y3.4.md) | 0 |
 | [sase-y3.land.md](sase-y3.land.md) | fork:sase-y3.land %model:opus %effort:xhigh | - | [bbugyi200.athena.sase-y3.land--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.sase-y3.land.md) | 0 |
+| [sase-y5.12.land.md](sase-y5.12.land.md) | fork:sase-y5.12.land %model:opus %effort:xhigh | - | [bbugyi200.athena.sase-y5.12.land--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.sase-y5.12.land.md) | 0 |
 | [sase-yf.3.land.md](sase-yf.3.land.md) | fork:sase-yf.3.land %model:opus %effort:xhigh | - | [bbugyi200.athena.sase-yf.3.land--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.sase-yf.3.land.md) | 0 |
 | [sase-yh.4.md](sase-yh.4.md) | fork:sase-yh.4 %model:grok-4.6 %effort:xhigh | - | [bbugyi200.athena.sase-yh.4--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.sase-yh.4.md) | 0 |
 | [sase-yj.1.md](sase-yj.1.md) | fork:sase-yj.1 %model:grok-4.6 %effort:xhigh | - | [bbugyi200.athena.sase-yj.1--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.sase-yj.1.md) | 0 |
