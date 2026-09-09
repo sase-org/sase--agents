@@ -25,7 +25,7 @@ flowchart TD
   n0 --> n7
   n8["sase-xe.16.8.f0--mon-1 [failed]"]
   n0 --> n8
-  n9["sase-xe.16.8.f0--4 [active]"]
+  n9["sase-xe.16.8.f0--4 [completed]"]
   n0 --> n9
   n10["sase-xe.16.8.f0--gate [failed]"]
   n0 --> n10
@@ -44,7 +44,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | sase-xe.16.8.f0--plan | completed | claude-fable-5 / claude | 2026-09-08T15:12:47.754711+00:00 → 2026-09-08T15:24:17.551888+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.16.8.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.8.f0--plan/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | sase-xe.16.8.f0--mon-2 | failed | gpt-5.5 / codex | 2026-09-08T21:41:23.462427+00:00 → 2026-09-08T22:07:30.510064+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.8.f0--mon-2/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-xe.16.8.f0--mon-1 | failed | gpt-5.5 / codex | 2026-09-08T19:25:38.451880+00:00 → 2026-09-08T21:26:51.470932+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.8.f0--mon-1/chat.md) |
-| <a id="member-4"></a>4 | sase-xe.16.8.f0--4 | active | gpt-5.5 / codex | 2026-09-08T22:07:53.037341+00:00 | [2](../agents/bbugyi200.athena.sase-xe.16.8.f0--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-xe.16.8.f0--4/prompt.md) | — |
+| <a id="member-4"></a>4 | sase-xe.16.8.f0--4 | completed | gpt-5.5 / codex | 2026-09-08T22:07:53.037341+00:00 → 2026-09-08T23:34:21.846139+00:00 | [2](../agents/bbugyi200.athena.sase-xe.16.8.f0--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-xe.16.8.f0--4/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.8.f0--4/chat.md) |
 | <a id="member-gate"></a>gate | sase-xe.16.8.f0--gate | failed | claude-fable-5 / claude | 2026-09-08T15:23:35.994094+00:00 → 2026-09-08T15:28:14.443250+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.8.f0--gate/chat.md) |
 
 ## Commits

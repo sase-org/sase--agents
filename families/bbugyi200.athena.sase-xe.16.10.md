@@ -23,11 +23,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-2"></a>2 | sase-xe.16.10--2 | active | gpt-5.5 / codex | 2026-09-08T22:37:27.307050+00:00 | 0 | — | — |
+| <a id="member-2"></a>2 | sase-xe.16.10--2 | active | gpt-5.5 / codex | 2026-09-08T22:37:27.307050+00:00 | [1](../agents/bbugyi200.athena.sase-xe.16.10--2/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-xe.16.10--plan | active | gpt-5.5 / codex | 2026-09-08T21:52:55.099554+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.16.10--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.10--plan/chat.md) |
 | <a id="member-1"></a>1 | sase-xe.16.10--1 | active | grok-4.6 / grok | 2026-09-08T22:13:35.563984+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.10--1/chat.md) |
 | <a id="member-gate-0"></a>gate-0 | sase-xe.16.10--gate-0 | failed | grok-4.6 / grok | 2026-09-08T22:37:18.780770+00:00 → 2026-09-08T22:37:20.620256+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.10--gate-0/chat.md) |
 | <a id="member-gate"></a>gate | sase-xe.16.10--gate | failed | gpt-5.5 / codex | 2026-09-08T22:13:25.781905+00:00 → 2026-09-08T22:13:27.495028+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.10--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 2 | sase | [`890660e`](https://github.com/sase-org/sase/commit/890660e257526d3c8fd1d78ec3e0ab53a062321c) | docs(dispatch): add remote setup runbook | 2026-09-08 20:49:56 EDT |
 
 ## Neighbors
 
@@ -41,7 +47,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-xe.16.6](bbugyi200.athena.sase-xe.16.6.md) (family · 3) | sase-xe.16 hood | completed 2, failed 1 |
 | [sase-xe.16.7](../agents/bbugyi200.athena.sase-xe.16.7/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.8](../agents/bbugyi200.athena.sase-xe.16.8/README.md) | sase-xe.16 hood | completed |
-| [sase-xe.16.8.f0](bbugyi200.athena.sase-xe.16.8.f0.md) (family · 11) | sase-xe.16 hood | active 1, completed 5, failed 5 |
+| [sase-xe.16.8.f0](bbugyi200.athena.sase-xe.16.8.f0.md) (family · 11) | sase-xe.16 hood | completed 6, failed 5 |
 | [sase-xe.16.9](bbugyi200.athena.sase-xe.16.9.md) (family · 3) | sase-xe.16 hood | completed 2, failed 1 |
 | [sase-xe.16.land](../agents/bbugyi200.athena.sase-xe.16.land/README.md) | sase-xe.16 hood | waiting |
 | [sase-xe.1](../agents/bbugyi200.athena.sase-xe.1/README.md) | sase-xe hood | active |

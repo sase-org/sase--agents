@@ -1660,7 +1660,7 @@
 | [sase-x7](hoods/sase-x7/README.md) | 48 | 8 | active 2, completed 18, failed 14, waiting 14 |
 | [sase-x8](hoods/sase-x8/README.md) | 6 | 1 | active 2, completed 3, failed 1 |
 | [sase-x9](hoods/sase-x9/README.md) | 1 | 0 | failed 1 |
-| [sase-xe](hoods/sase-xe/README.md) | 87 | 18 | active 7, completed 40, dismissed 5, failed 28, waiting 7 |
+| [sase-xe](hoods/sase-xe/README.md) | 87 | 18 | active 6, completed 41, dismissed 5, failed 28, waiting 7 |
 | [sase-xf](hoods/sase-xf/README.md) | 7 | 1 | active 2, completed 3, failed 1, waiting 1 |
 | [sase-xq](hoods/sase-xq/README.md) | 16 | 2 | active 1, completed 9, failed 5, waiting 1 |
 | [sase-xr](hoods/sase-xr/README.md) | 7 | 0 | active 1, completed 5, waiting 1 |

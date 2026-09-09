@@ -13,7 +13,13 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-08T22:37:27.307050+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`890660e`](https://github.com/sase-org/sase/commit/890660e257526d3c8fd1d78ec3e0ab53a062321c) | docs(dispatch): add remote setup runbook | 2026-09-08 20:49:56 EDT |
 
 ## Neighbors
 
@@ -27,7 +33,7 @@
 | [sase-xe.16.6](../../families/bbugyi200.athena.sase-xe.16.6.md) (family · 3) | sase-xe.16 hood | completed 2, failed 1 |
 | [sase-xe.16.7](../bbugyi200.athena.sase-xe.16.7/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.8](../bbugyi200.athena.sase-xe.16.8/README.md) | sase-xe.16 hood | completed |
-| [sase-xe.16.8.f0](../../families/bbugyi200.athena.sase-xe.16.8.f0.md) (family · 11) | sase-xe.16 hood | active 1, completed 5, failed 5 |
+| [sase-xe.16.8.f0](../../families/bbugyi200.athena.sase-xe.16.8.f0.md) (family · 11) | sase-xe.16 hood | completed 6, failed 5 |
 | [sase-xe.16.9](../../families/bbugyi200.athena.sase-xe.16.9.md) (family · 3) | sase-xe.16 hood | completed 2, failed 1 |
 | [sase-xe.16.land](../bbugyi200.athena.sase-xe.16.land/README.md) | sase-xe.16 hood | waiting |
 | [sase-xe.1](../bbugyi200.athena.sase-xe.1/README.md) | sase-xe hood | active |
