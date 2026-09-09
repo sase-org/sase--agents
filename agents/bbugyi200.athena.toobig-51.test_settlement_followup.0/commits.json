@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-18420625ac3ca97a69a9c90cffd69e43"}
+{"commits":[{"committed_at":1788940393,"sha":"6f748808def80dd06c62c7cd9b9183bcbf60d232","subject":"test(gate-shell): split settlement follow-up tests under 500 lines"}],"schema_version":2,"source_run_id":"run-18420625ac3ca97a69a9c90cffd69e43"}
