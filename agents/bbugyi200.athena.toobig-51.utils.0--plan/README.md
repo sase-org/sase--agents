@@ -1,8 +1,8 @@
-# Agent: toobig-51.test\_settlement\_followup.0
+# Agent: toobig-51.utils.0--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-51](../../users/bbugyi200/machines/athena/hoods/toobig-51/README.md) / toobig-51.test\_settlement\_followup.0
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-51](../../users/bbugyi200/machines/athena/hoods/toobig-51/README.md) / [toobig-51.utils.0](../../families/bbugyi200.athena.toobig-51.utils.0.md) / toobig-51.utils.0--plan
 
-**Global name:** `bbugyi200.athena.toobig-51.test_settlement_followup.0` · **State:** waiting · **Source run:** `run-18420625ac3ca97a69a9c90cffd69e43`
+**Global name:** `bbugyi200.athena.toobig-51.utils.0--plan` · **State:** completed · **Source run:** `run-df3d39e6106763ffeb384141c865d562`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-51
 
@@ -10,12 +10,12 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20260908233327
+- Timing: 2026-09-09T05:56:51.752570+00:00 → 2026-09-09T06:15:52.011023+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -29,5 +29,5 @@
 | [toobig-51.providers.0](../bbugyi200.athena.toobig-51.providers.0/README.md) | toobig-51 hood | completed |
 | [toobig-51.tailnet\_discovery.0](../bbugyi200.athena.toobig-51.tailnet_discovery.0/README.md) | toobig-51 hood | completed |
 | [toobig-51.test\_dispatch.0](../bbugyi200.athena.toobig-51.test_dispatch.0/README.md) | toobig-51 hood | waiting |
+| [toobig-51.test\_settlement\_followup.0](../bbugyi200.athena.toobig-51.test_settlement_followup.0/README.md) | toobig-51 hood | waiting |
 | [toobig-51.test\_utils.0](../bbugyi200.athena.toobig-51.test_utils.0/README.md) | toobig-51 hood | waiting |
-| [toobig-51.utils.0](../../families/bbugyi200.athena.toobig-51.utils.0.md) (family · 3) | toobig-51 hood | active 1, completed 1, failed 1 |
