@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["sase-xe.16.11.3--plan [completed]"]
   n0 --> n2
-  n3["sase-xe.16.11.3--3 [active]"]
+  n3["sase-xe.16.11.3--3 [completed]"]
   n0 --> n3
   n4["sase-xe.16.11.3--mon-1 [failed]"]
   n0 --> n4
@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-2"></a>2 | sase-xe.16.11.3--2 | completed | sonnet / claude | 2026-09-09T12:16:55.943666+00:00 → 2026-09-09T12:29:05.774377+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.16.11.3--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.11.3--2/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-xe.16.11.3--mon-0 | failed | sonnet / claude | 2026-09-09T11:54:41.146916+00:00 → 2026-09-09T12:16:30.394683+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.11.3--mon-0/chat.md) |
 | <a id="member-plan"></a>plan | sase-xe.16.11.3--plan | completed | sonnet / claude | 2026-09-09T09:37:11.306095+00:00 → 2026-09-09T11:03:39.954529+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.16.11.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.11.3--plan/chat.md) |
-| <a id="member-3"></a>3 | sase-xe.16.11.3--3 | active | sonnet / claude | 2026-09-09T12:49:39.118652+00:00 | [1](../agents/bbugyi200.athena.sase-xe.16.11.3--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-xe.16.11.3--3/prompt.md) | — |
+| <a id="member-3"></a>3 | sase-xe.16.11.3--3 | completed | sonnet / claude | 2026-09-09T12:49:39.118652+00:00 → 2026-09-09T13:25:47.774669+00:00 | [1](../agents/bbugyi200.athena.sase-xe.16.11.3--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-xe.16.11.3--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.11.3--3/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-xe.16.11.3--mon-1 | failed | sonnet / claude | 2026-09-09T12:28:45.242696+00:00 → 2026-09-09T12:49:16.721666+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.11.3--mon-1/chat.md) |
 | <a id="member-1"></a>1 | sase-xe.16.11.3--1 | completed | sonnet / claude | 2026-09-09T11:08:46.131371+00:00 → 2026-09-09T11:54:57.382014+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.16.11.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.11.3--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-xe.16.11.3--mon | failed | sonnet / claude | 2026-09-09T11:02:14.843341+00:00 → 2026-09-09T11:08:23.094443+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.11.3--mon/chat.md) |
@@ -47,10 +47,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-xe.16.11.1](../agents/bbugyi200.athena.sase-xe.16.11.1/README.md) | sase-xe.16.11 hood | completed |
 | [sase-xe.16.11.2](../agents/bbugyi200.athena.sase-xe.16.11.2/README.md) | sase-xe.16.11 hood | completed |
-| [sase-xe.16.11.4](../agents/bbugyi200.athena.sase-xe.16.11.4/README.md) | sase-xe.16.11 hood | waiting |
+| [sase-xe.16.11.4](../agents/bbugyi200.athena.sase-xe.16.11.4/README.md) | sase-xe.16.11 hood | active |
 | [sase-xe.16.11.5](../agents/bbugyi200.athena.sase-xe.16.11.5/README.md) | sase-xe.16.11 hood | waiting |
 | [sase-xe.16.11.land](../agents/bbugyi200.athena.sase-xe.16.11.land/README.md) | sase-xe.16.11 hood | waiting |
-| [sase-xe.16.11.land.w0](../agents/bbugyi200.athena.sase-xe.16.11.land.w0/README.md) | sase-xe.16.11 hood | waiting |
+| [sase-xe.16.11.land.w0](../agents/bbugyi200.athena.sase-xe.16.11.land.w0/README.md) | sase-xe.16.11 hood | dismissed |
 | [sase-xe.16.1](bbugyi200.athena.sase-xe.16.1.md) (family · 3) | sase-xe.16 hood | completed 2, failed 1 |
 | [sase-xe.16.10](bbugyi200.athena.sase-xe.16.10.md) (family · 5) | sase-xe.16 hood | active 1, completed 2, failed 2 |
 | [sase-xe.16.2](../agents/bbugyi200.athena.sase-xe.16.2/README.md) | sase-xe.16 hood | completed |

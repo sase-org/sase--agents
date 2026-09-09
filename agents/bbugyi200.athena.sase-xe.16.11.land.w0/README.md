@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-xe](../../users/bbugyi200/machines/athena/hoods/sase-xe/README.md) / sase-xe.16.11.land.w0
 
-**Global name:** `bbugyi200.athena.sase-xe.16.11.land.w0` · **State:** waiting · **Source run:** `run-259e62d30b05ba4912ad37065cdd47ad`
+**Global name:** `bbugyi200.athena.sase-xe.16.11.land.w0` · **State:** dismissed · **Source run:** `run-259e62d30b05ba4912ad37065cdd47ad`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-xe
 
@@ -10,7 +10,7 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20260909083925
+- Timing: 2026-09-09T08:39:25
 - Commits: 0
 
 ## Files
@@ -24,8 +24,8 @@
 | [sase-xe.16.11.land](../bbugyi200.athena.sase-xe.16.11.land/README.md) | ancestor | waiting |
 | [sase-xe.16.11.1](../bbugyi200.athena.sase-xe.16.11.1/README.md) | sase-xe.16.11 hood | completed |
 | [sase-xe.16.11.2](../bbugyi200.athena.sase-xe.16.11.2/README.md) | sase-xe.16.11 hood | completed |
-| [sase-xe.16.11.3](../../families/bbugyi200.athena.sase-xe.16.11.3.md) (family · 7) | sase-xe.16.11 hood | active 1, completed 3, failed 3 |
-| [sase-xe.16.11.4](../bbugyi200.athena.sase-xe.16.11.4/README.md) | sase-xe.16.11 hood | waiting |
+| [sase-xe.16.11.3](../../families/bbugyi200.athena.sase-xe.16.11.3.md) (family · 7) | sase-xe.16.11 hood | completed 4, failed 3 |
+| [sase-xe.16.11.4](../bbugyi200.athena.sase-xe.16.11.4/README.md) | sase-xe.16.11 hood | active |
 | [sase-xe.16.11.5](../bbugyi200.athena.sase-xe.16.11.5/README.md) | sase-xe.16.11 hood | waiting |
 | [sase-xe.16.1](../../families/bbugyi200.athena.sase-xe.16.1.md) (family · 3) | sase-xe.16 hood | completed 2, failed 1 |
 | [sase-xe.16.10](../../families/bbugyi200.athena.sase-xe.16.10.md) (family · 5) | sase-xe.16 hood | active 1, completed 2, failed 2 |
