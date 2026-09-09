@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-09T15:29:42.184455+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`4b1e5f8`](https://github.com/sase-org/sase/commit/4b1e5f8eb40e5e9deeae9e129f40860367fefd6e) | feat(ace): add explicit model shortcut completion | 2026-09-09 12:45:20 EDT |
 
 ## Neighbors
 
