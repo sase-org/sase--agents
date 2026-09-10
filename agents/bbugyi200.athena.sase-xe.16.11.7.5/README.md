@@ -36,8 +36,8 @@
 | [sase-xe.16.11.7.12](../bbugyi200.athena.sase-xe.16.11.7.12/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.13](../bbugyi200.athena.sase-xe.16.11.7.13/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.14.1](../../families/bbugyi200.athena.sase-xe.16.11.7.14.1.md) (family · 3) | sase-xe.16.11.7 hood | completed 2, failed 1 |
-| [sase-xe.16.11.7.14.2](../bbugyi200.athena.sase-xe.16.11.7.14.2/README.md) | sase-xe.16.11.7 hood | active |
-| [sase-xe.16.11.7.14.3](../bbugyi200.athena.sase-xe.16.11.7.14.3/README.md) | sase-xe.16.11.7 hood | waiting |
+| [sase-xe.16.11.7.14.2](../bbugyi200.athena.sase-xe.16.11.7.14.2/README.md) | sase-xe.16.11.7 hood | completed |
+| [sase-xe.16.11.7.14.3](../bbugyi200.athena.sase-xe.16.11.7.14.3/README.md) | sase-xe.16.11.7 hood | active |
 | [sase-xe.16.11.7.14.4](../bbugyi200.athena.sase-xe.16.11.7.14.4/README.md) | sase-xe.16.11.7 hood | waiting |
 | [sase-xe.16.11.7.14.5](../bbugyi200.athena.sase-xe.16.11.7.14.5/README.md) | sase-xe.16.11.7 hood | waiting |
 | [sase-xe.16.11.7.14.land](../bbugyi200.athena.sase-xe.16.11.7.14.land/README.md) | sase-xe.16.11.7 hood | waiting |
