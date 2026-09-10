@@ -45,7 +45,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-gate"></a>gate | 0ix.f0--gate | failed | claude-fable-5 / claude | 2026-09-10T20:53:42.274626+00:00 → 2026-09-10T20:54:52.188174+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0ix.f0--gate/chat.md) |
 | <a id="member-code"></a>code | 0ix.f0--code | completed | sonnet / claude | 2026-09-10T20:55:34.862887+00:00 → 2026-09-10T21:10:04.197656+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0ix.f0--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0ix.f0--code/chat.md) |
 | <a id="member-3"></a>3 | 0ix.f0--3 | completed | sonnet / claude | 2026-09-10T21:21:03.166076+00:00 → 2026-09-10T21:38:17.863088+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0ix.f0--3/prompt.md) | [Chat](../agents/bbugyi200.athena.0ix.f0--3/chat.md) |
-| <a id="member-4"></a>4 | 0ix.f0--4 | active | sonnet / claude | 2026-09-10T21:49:54.946506+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0ix.f0--4/prompt.md) | — |
+| <a id="member-4"></a>4 | 0ix.f0--4 | active | sonnet / claude | 2026-09-10T21:49:54.946506+00:00 | [1](../agents/bbugyi200.athena.0ix.f0--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0ix.f0--4/prompt.md) | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 4 | sase | [`12f01fb`](https://github.com/sase-org/sase/commit/12f01fbc1c7ad45b520391f35df963554f8f94f0) | feat(llm-provider): fall back to collected usage-window data for disable duration | 2026-09-10 18:00:38 EDT |
 
 ## Neighbors
 

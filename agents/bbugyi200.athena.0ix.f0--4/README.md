@@ -11,11 +11,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-09-10T21:49:54.946506+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`12f01fb`](https://github.com/sase-org/sase/commit/12f01fbc1c7ad45b520391f35df963554f8f94f0) | feat(llm-provider): fall back to collected usage-window data for disable duration | 2026-09-10 18:00:38 EDT |
 
 ## Neighbors
 
