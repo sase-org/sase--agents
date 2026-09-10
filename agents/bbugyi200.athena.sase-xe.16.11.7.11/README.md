@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-xe](../../users/bbugyi200/machines/athena/hoods/sase-xe/README.md) / sase-xe.16.11.7.11
 
-**Global name:** `bbugyi200.athena.sase-xe.16.11.7.11` · **State:** waiting · **Source run:** `run-57e1eaadc4031b988831fdf7f0d971a3`
+**Global name:** `bbugyi200.athena.sase-xe.16.11.7.11` · **State:** active · **Source run:** `run-57e1eaadc4031b988831fdf7f0d971a3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-xe
 
@@ -12,12 +12,18 @@
 - Epic: [sase-xe.16.11.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260910062850
-- Commits: 0
+- Timing: 2026-09-10T12:54:47.410240+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ea4685b`](https://github.com/sase-org/sase/commit/ea4685b2e1cea95aa55c4e9d6b4df481338e805b) | fix(ace): keep Fleet refresh off j/k hot path | 2026-09-10 09:41:28 EDT |
 
 ## Neighbors
 
@@ -34,7 +40,7 @@
 | [sase-xe.16.11.7.6](../bbugyi200.athena.sase-xe.16.11.7.6/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.7](../bbugyi200.athena.sase-xe.16.11.7.7/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.8](../bbugyi200.athena.sase-xe.16.11.7.8/README.md) | sase-xe.16.11.7 hood | completed |
-| [sase-xe.16.11.7.9](../bbugyi200.athena.sase-xe.16.11.7.9/README.md) | sase-xe.16.11.7 hood | active |
+| [sase-xe.16.11.7.9](../bbugyi200.athena.sase-xe.16.11.7.9/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.land](../bbugyi200.athena.sase-xe.16.11.7.land/README.md) | sase-xe.16.11.7 hood | waiting |
 | [sase-xe.16.11.1](../bbugyi200.athena.sase-xe.16.11.1/README.md) | sase-xe.16.11 hood | completed |
 | [sase-xe.16.11.2](../bbugyi200.athena.sase-xe.16.11.2/README.md) | sase-xe.16.11 hood | completed |
