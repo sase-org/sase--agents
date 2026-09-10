@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-72e66ee589da29626484b672eefe5823"}
+{"commits":[{"committed_at":1788983227,"sha":"0879bfe5fddb08db00fb7ce1b117979286909ee9","subject":"feat(usage): show collector health in CLI and doctor"}],"schema_version":2,"source_run_id":"run-72e66ee589da29626484b672eefe5823"}
