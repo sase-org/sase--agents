@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-08e5b38d47b99c1440afbfc06a55e568"}
+{"commits":[{"committed_at":1789054827,"sha":"cceed09a993f4395f045310f72ca6f25b14174c9","subject":"fix(ace): display weighted runner capacity from source rows"}],"schema_version":2,"source_run_id":"run-08e5b38d47b99c1440afbfc06a55e568"}
