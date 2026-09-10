@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e5296a8df49ba73aa9ca0292d34daba4"}
+{"commits":[{"committed_at":1789081648,"sha":"3e39ebdce2c297430b17da09760bf23ceb2cce4a","subject":"test(tui): refresh capacity-strip PNG goldens"}],"schema_version":2,"source_run_id":"run-e5296a8df49ba73aa9ca0292d34daba4"}
