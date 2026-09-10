@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `sase-yy` · Members: 3 · Bead: [sase-yy.8.2
 ```mermaid
 flowchart TD
   n0["sase-yy.8.2--gate [failed]"]
-  n1["sase-yy.8.2--plan [active]"]
+  n1["sase-yy.8.2--plan [completed]"]
   n0 --> n1
-  n2["sase-yy.8.2--code [active]"]
+  n2["sase-yy.8.2--code [completed]"]
   n0 --> n2
 ```
 
@@ -20,15 +20,21 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-yy.8.2--gate | failed | opus / claude | 2026-09-10T19:36:47.561159+00:00 → 2026-09-10T19:37:10.091654+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-yy.8.2--gate/chat.md) |
-| <a id="member-plan"></a>plan | sase-yy.8.2--plan | active | opus / claude | 2026-09-10T19:14:35.924973+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-yy.8.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-yy.8.2--plan/chat.md) |
-| <a id="member-code"></a>code | sase-yy.8.2--code | active | gpt-5.5 / codex | 2026-09-10T19:37:19.619023+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-yy.8.2--plan | completed | opus / claude | 2026-09-10T19:14:35.924973+00:00 → 2026-09-10T20:49:17.305386+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-yy.8.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-yy.8.2--plan/chat.md) |
+| <a id="member-code"></a>code | sase-yy.8.2--code | completed | gpt-5.5 / codex | 2026-09-10T19:37:19.619023+00:00 → 2026-09-10T20:49:17.305386+00:00 | [1](../agents/bbugyi200.athena.sase-yy.8.2--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-yy.8.2--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`811700b`](https://github.com/sase-org/sase/commit/811700bc3830558df0db9ff7eaefecb2b6e7614b) | fix(artifact-links): require durable publication receipts | 2026-09-10 16:42:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-yy.8.1](../agents/bbugyi200.athena.sase-yy.8.1/README.md) | sase-yy.8 hood | completed |
-| [sase-yy.8.3](../agents/bbugyi200.athena.sase-yy.8.3/README.md) | sase-yy.8 hood | waiting |
+| [sase-yy.8.3](bbugyi200.athena.sase-yy.8.3.md) (family · 3) | sase-yy.8 hood | active 2, failed 1 |
 | [sase-yy.8.4](../agents/bbugyi200.athena.sase-yy.8.4/README.md) | sase-yy.8 hood | waiting |
 | [sase-yy.8.5](../agents/bbugyi200.athena.sase-yy.8.5/README.md) | sase-yy.8 hood | waiting |
 | [sase-yy.8.land](../agents/bbugyi200.athena.sase-yy.8.land/README.md) | sase-yy.8 hood | waiting |

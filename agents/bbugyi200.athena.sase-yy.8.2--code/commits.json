@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ca591fccbc17e4f784289529b6a52b32"}
+{"commits":[{"committed_at":1789072927,"sha":"811700bc3830558df0db9ff7eaefecb2b6e7614b","subject":"fix(artifact-links): require durable publication receipts"}],"schema_version":2,"source_run_id":"run-ca591fccbc17e4f784289529b6a52b32"}

@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-yy.8.2--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_yy_8_2__plan-260910_142836.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_yy_8_2__code-260910_142836.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/artifact_link_publication_durability.md
 
 
