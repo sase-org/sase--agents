@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-yz](../../users/bbugyi200/machines/athena/hoods/sase-yz/README.md) / sase-yz.4
 
-**Global name:** `bbugyi200.athena.sase-yz.4` · **State:** active · **Source run:** `run-0fcb0fa06b3605690a17261a998d90f0`
+**Global name:** `bbugyi200.athena.sase-yz.4` · **State:** completed · **Source run:** `run-0fcb0fa06b3605690a17261a998d90f0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-yz
 
@@ -12,12 +12,12 @@
 - Epic: [sase-yz](https://github.com/sase-org/sase--beads/blob/main/pages/sase-yz/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-09T19:52:04.711745+00:00
+- Timing: 2026-09-09T19:52:04.711745+00:00 → 2026-09-10T02:57:28.962047+00:00
 - Commits: [3](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -34,5 +34,5 @@
 | [sase-yz.1](../bbugyi200.athena.sase-yz.1/README.md) | sase-yz hood | completed |
 | [sase-yz.2](../../families/bbugyi200.athena.sase-yz.2.md) (family · 11) | sase-yz hood | completed 6, failed 5 |
 | [sase-yz.3](../bbugyi200.athena.sase-yz.3/README.md) | sase-yz hood | completed |
-| [sase-yz.5](../bbugyi200.athena.sase-yz.5/README.md) | sase-yz hood | waiting |
+| [sase-yz.5](../../families/bbugyi200.athena.sase-yz.5.md) (family · 11) | sase-yz hood | active 1, completed 5, failed 5 |
 | [sase-yz.land](../bbugyi200.athena.sase-yz.land/README.md) | sase-yz hood | waiting |
