@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I don't think the `<ctrl+i>` keymap to jump forward in sase's pager breadcrumb/history stack is working right. Can you help me fix this and show `<tab>` instead of `<ctrl+i>` (since `<ctrl+i>` maps to `<tab>` anyway)? #plan %m:@xlarge
