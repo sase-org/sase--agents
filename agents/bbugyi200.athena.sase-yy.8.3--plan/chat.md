@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-yy.8.3--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_yy_8_3__plan-260910_142837.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_yy_8_3__code-260910_142837.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/event_reconciliation.md
 
 

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-db5ca2aeedcbfaa135092149e9aab3d8"}
+{"commits":[{"committed_at":1789079777,"sha":"74a4e4282f7dbf29a4e258de2dad8687da01d6ae","subject":"test(capacity-snapshot): add cross-view weighted-capacity parity tests"}],"schema_version":2,"source_run_id":"run-db5ca2aeedcbfaa135092149e9aab3d8"}

@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-yy` · Members: 3 · Bead: [sase-yy.8.3
 
 ```mermaid
 flowchart TD
-  n0["sase-yy.8.3--code [active]"]
+  n0["sase-yy.8.3--code [completed]"]
   n1["sase-yy.8.3--gate [failed]"]
   n0 --> n1
-  n2["sase-yy.8.3--plan [active]"]
+  n2["sase-yy.8.3--plan [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-yy.8.3--code | active | gpt-5.5 / codex | 2026-09-10T20:56:34.925815+00:00 | [1](../agents/bbugyi200.athena.sase-yy.8.3--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | sase-yy.8.3--code | completed | gpt-5.5 / codex | 2026-09-10T20:56:34.925815+00:00 → 2026-09-10T21:58:53.018756+00:00 | [1](../agents/bbugyi200.athena.sase-yy.8.3--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-yy.8.3--code/chat.md) |
 | <a id="member-gate"></a>gate | sase-yy.8.3--gate | failed | gpt-5.6-sol / codex | 2026-09-10T20:56:04.218597+00:00 → 2026-09-10T20:56:15.116569+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-yy.8.3--gate/chat.md) |
-| <a id="member-plan"></a>plan | sase-yy.8.3--plan | active | gpt-5.6-sol / codex | 2026-09-10T20:49:28.006829+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-yy.8.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-yy.8.3--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-yy.8.3--plan | completed | gpt-5.6-sol / codex | 2026-09-10T20:49:28.006829+00:00 → 2026-09-10T21:58:53.018756+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-yy.8.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-yy.8.3--plan/chat.md) |
 
 ## Commits
 
@@ -35,7 +35,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-yy.8.1](../agents/bbugyi200.athena.sase-yy.8.1/README.md) | sase-yy.8 hood | completed |
 | [sase-yy.8.2](bbugyi200.athena.sase-yy.8.2.md) (family · 3) | sase-yy.8 hood | completed 2, failed 1 |
-| [sase-yy.8.4](../agents/bbugyi200.athena.sase-yy.8.4/README.md) | sase-yy.8 hood | waiting |
+| [sase-yy.8.4](bbugyi200.athena.sase-yy.8.4.md) (family · 3) | sase-yy.8 hood | active 2, failed 1 |
 | [sase-yy.8.5](../agents/bbugyi200.athena.sase-yy.8.5/README.md) | sase-yy.8 hood | waiting |
 | [sase-yy.8.land](../agents/bbugyi200.athena.sase-yy.8.land/README.md) | sase-yy.8 hood | waiting |
 | [sase-yy.1](bbugyi200.athena.sase-yy.1.md) (family · 3) | sase-yy hood | completed 2, failed 1 |
