@@ -56,7 +56,7 @@
 | [sase-xe.16.11.7.4](../bbugyi200.athena.sase-xe.16.11.7.4/README.md) | sase-xe hood | completed |
 | [sase-xe.16.11.7.5](../bbugyi200.athena.sase-xe.16.11.7.5/README.md) | sase-xe hood | completed |
 | [sase-xe.16.11.7.6](../bbugyi200.athena.sase-xe.16.11.7.6/README.md) | sase-xe hood | completed |
-| [sase-xe.16.11.7.7](../bbugyi200.athena.sase-xe.16.11.7.7/README.md) | sase-xe hood | active |
+| [sase-xe.16.11.7.7](../bbugyi200.athena.sase-xe.16.11.7.7/README.md) | sase-xe hood | completed |
 | [sase-xe.16.11.7.8](../bbugyi200.athena.sase-xe.16.11.7.8/README.md) | sase-xe hood | completed |
 | [sase-xe.16.11.7.9](../bbugyi200.athena.sase-xe.16.11.7.9/README.md) | sase-xe hood | active |
 | [sase-xe.16.11.7.land](../bbugyi200.athena.sase-xe.16.11.7.land/README.md) | sase-xe hood | waiting |
