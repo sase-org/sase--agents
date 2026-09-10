@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2d3823be495d8c0f39a4c24ffdc733c2"}
+{"commits":[{"committed_at":1789067290,"sha":"f5a3f5c99ec7c55a44ff0517c7eea820f0b46c3c","subject":"fix(artifact-links): freeze replayable producer identity"}],"schema_version":2,"source_run_id":"run-2d3823be495d8c0f39a4c24ffdc733c2"}

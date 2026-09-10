@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-10T18:30:36.903063+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`f5a3f5c`](https://github.com/sase-org/sase/commit/f5a3f5c99ec7c55a44ff0517c7eea820f0b46c3c) | fix(artifact-links): freeze replayable producer identity | 2026-09-10 15:08:10 EDT |
 
 ## Neighbors
 
