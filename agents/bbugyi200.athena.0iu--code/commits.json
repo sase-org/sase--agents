@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789064699,"sha":"140c8e42f268e8b67728be1a2f93cf16b85af776","subject":"fix(ace): derive capacity paths from the sharded artifact layout parser"}],"schema_version":2,"source_run_id":"run-fa080139d29d194054889e383878866d"}

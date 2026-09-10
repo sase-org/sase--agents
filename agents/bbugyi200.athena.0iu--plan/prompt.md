@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase All of the sase agents that are queued have agent nodes with the `WAITING` status still. Is this something that the sase-z4.6.5 epic bead intends to fix? #if_not_plan %m:@xlarge

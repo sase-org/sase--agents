@@ -46,5 +46,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-yy.4](bbugyi200.athena.sase-yy.4.md) (family · 3) | sase-yy hood | completed 2, failed 1 |
 | [sase-yy.6](bbugyi200.athena.sase-yy.6.md) (family · 3) | sase-yy hood | completed 2, failed 1 |
 | [sase-yy.6](../agents/bbugyi200.athena.sase-yy.6/README.md) | sase-yy hood | waiting |
-| [sase-yy.7](../agents/bbugyi200.athena.sase-yy.7/README.md) | sase-yy hood | active |
-| [sase-yy.land](../agents/bbugyi200.athena.sase-yy.land/README.md) | sase-yy hood | waiting |
+| [sase-yy.7](../agents/bbugyi200.athena.sase-yy.7/README.md) | sase-yy hood | completed |
+| [sase-yy.8.1](../agents/bbugyi200.athena.sase-yy.8.1/README.md) | sase-yy hood | active |
+| [sase-yy.8.2](../agents/bbugyi200.athena.sase-yy.8.2/README.md) | sase-yy hood | waiting |
+| [sase-yy.8.3](../agents/bbugyi200.athena.sase-yy.8.3/README.md) | sase-yy hood | waiting |
+| [sase-yy.8.4](../agents/bbugyi200.athena.sase-yy.8.4/README.md) | sase-yy hood | waiting |
+| [sase-yy.8.5](../agents/bbugyi200.athena.sase-yy.8.5/README.md) | sase-yy hood | waiting |
+| [sase-yy.8.land](../agents/bbugyi200.athena.sase-yy.8.land/README.md) | sase-yy hood | waiting |
+| [sase-yy.land](bbugyi200.athena.sase-yy.land.md) (family · 3) | sase-yy hood | failed 3 |
