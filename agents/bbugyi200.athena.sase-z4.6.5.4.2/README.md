@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-09-10T21:54:42.400666+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`25b5d4c`](https://github.com/sase-org/sase/commit/25b5d4cf7007610448a72754cf4445c379eb9fe4) | test(fakey): add real monitor/gate weighted-capacity lifecycle e2e tests | 2026-09-10 19:03:20 EDT |
 
 ## Neighbors
 
