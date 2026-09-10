@@ -33,7 +33,7 @@
 | [sase-z4.6.3](../bbugyi200.athena.sase-z4.6.3/README.md) | sase-z4 hood | completed |
 | [sase-z4.6.4](../bbugyi200.athena.sase-z4.6.4/README.md) | sase-z4 hood | completed |
 | [sase-z4.6.5.1](../../families/bbugyi200.athena.sase-z4.6.5.1.md) (family · 7) | sase-z4 hood | completed 4, failed 3 |
-| [sase-z4.6.5.2](../bbugyi200.athena.sase-z4.6.5.2/README.md) | sase-z4 hood | active |
-| [sase-z4.6.5.3](../bbugyi200.athena.sase-z4.6.5.3/README.md) | sase-z4 hood | waiting |
+| [sase-z4.6.5.2](../bbugyi200.athena.sase-z4.6.5.2/README.md) | sase-z4 hood | completed |
+| [sase-z4.6.5.3](../bbugyi200.athena.sase-z4.6.5.3/README.md) | sase-z4 hood | active |
 | [sase-z4.6.5.land](../bbugyi200.athena.sase-z4.6.5.land/README.md) | sase-z4 hood | waiting |
 | [sase-z4.6.land](../../families/bbugyi200.athena.sase-z4.6.land.md) (family · 3) | sase-z4 hood | failed 3 |
