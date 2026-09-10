@@ -1,0 +1,30 @@
+# Agent: sase-z4.3
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-z4](../../users/bbugyi200/machines/athena/hoods/sase-z4/README.md) / sase-z4.3
+
+**Global name:** `bbugyi200.athena.sase-z4.3` · **State:** waiting · **Source run:** `run-fc5523a12d42c382287a61ac26ad359c`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-z4
+
+## Summary
+
+- Bead: [sase-z4.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-z4/sase-z4.3.md)
+- Epic: [sase-z4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-z4/README.md)
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 20260909205318
+- Commits: 0
+
+## Files
+
+[Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-z4.1](../bbugyi200.athena.sase-z4.1/README.md) | sase-z4 hood | completed |
+| [sase-z4.2](../bbugyi200.athena.sase-z4.2/README.md) | sase-z4 hood | active |
+| [sase-z4.4](../bbugyi200.athena.sase-z4.4/README.md) | sase-z4 hood | waiting |
+| [sase-z4.5](../bbugyi200.athena.sase-z4.5/README.md) | sase-z4 hood | waiting |
+| [sase-z4.land](../bbugyi200.athena.sase-z4.land/README.md) | sase-z4 hood | waiting |
