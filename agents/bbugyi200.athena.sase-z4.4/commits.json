@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3a4ef73a3197198e751b4b16e44f6ac9"}
+{"commits":[{"committed_at":1789017948,"sha":"81064c144a7ef289d0c9080a7565a6f62ecae0f7","subject":"feat(tui): show weighted runner capacity"}],"schema_version":2,"source_run_id":"run-3a4ef73a3197198e751b4b16e44f6ac9"}

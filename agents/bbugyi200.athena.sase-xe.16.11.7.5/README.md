@@ -13,7 +13,7 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-10T00:19:36.416612+00:00 → 2026-09-10T05:47:55.287020+00:00
-- Commits: [1](#commits)
+- Commits: [2](#commits)
 
 ## Files
 
@@ -24,13 +24,14 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`71c3df7`](https://github.com/sase-org/sase/commit/71c3df748fac1ccf09c3c885474ddbc1f935befe) | feat(runner-slots): enforce weighted admission lifecycle | 2026-09-10 00:00:43 EDT |
+| sase | [`5b330b2`](https://github.com/sase-org/sase/commit/5b330b242759f5393170cd334d19669b1236c9f1) | feat(ace): use published fleet projection contracts | 2026-09-10 01:42:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-xe.16.11.7.1](../bbugyi200.athena.sase-xe.16.11.7.1/README.md) | sase-xe.16.11.7 hood | completed |
-| [sase-xe.16.11.7.10](../bbugyi200.athena.sase-xe.16.11.7.10/README.md) | sase-xe.16.11.7 hood | failed |
+| [sase-xe.16.11.7.10](../bbugyi200.athena.sase-xe.16.11.7.10/README.md) | sase-xe.16.11.7 hood | dismissed |
 | [sase-xe.16.11.7.11](../bbugyi200.athena.sase-xe.16.11.7.11/README.md) | sase-xe.16.11.7 hood | waiting |
 | [sase-xe.16.11.7.12](../bbugyi200.athena.sase-xe.16.11.7.12/README.md) | sase-xe.16.11.7 hood | waiting |
 | [sase-xe.16.11.7.13](../bbugyi200.athena.sase-xe.16.11.7.13/README.md) | sase-xe.16.11.7 hood | waiting |
@@ -38,9 +39,9 @@
 | [sase-xe.16.11.7.3](../bbugyi200.athena.sase-xe.16.11.7.3/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.4](../bbugyi200.athena.sase-xe.16.11.7.4/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.6](../bbugyi200.athena.sase-xe.16.11.7.6/README.md) | sase-xe.16.11.7 hood | completed |
-| [sase-xe.16.11.7.7](../bbugyi200.athena.sase-xe.16.11.7.7/README.md) | sase-xe.16.11.7 hood | failed |
-| [sase-xe.16.11.7.8](../bbugyi200.athena.sase-xe.16.11.7.8/README.md) | sase-xe.16.11.7 hood | waiting |
-| [sase-xe.16.11.7.9](../bbugyi200.athena.sase-xe.16.11.7.9/README.md) | sase-xe.16.11.7 hood | failed |
+| [sase-xe.16.11.7.7](../bbugyi200.athena.sase-xe.16.11.7.7/README.md) | sase-xe.16.11.7 hood | active |
+| [sase-xe.16.11.7.8](../bbugyi200.athena.sase-xe.16.11.7.8/README.md) | sase-xe.16.11.7 hood | completed |
+| [sase-xe.16.11.7.9](../bbugyi200.athena.sase-xe.16.11.7.9/README.md) | sase-xe.16.11.7 hood | active |
 | [sase-xe.16.11.7.land](../bbugyi200.athena.sase-xe.16.11.7.land/README.md) | sase-xe.16.11.7 hood | waiting |
 | [sase-xe.16.11.1](../bbugyi200.athena.sase-xe.16.11.1/README.md) | sase-xe.16.11 hood | completed |
 | [sase-xe.16.11.2](../bbugyi200.athena.sase-xe.16.11.2/README.md) | sase-xe.16.11 hood | completed |

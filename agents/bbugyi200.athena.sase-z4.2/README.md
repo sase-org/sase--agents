@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-z4](../../users/bbugyi200/machines/athena/hoods/sase-z4/README.md) / sase-z4.2
 
-**Global name:** `bbugyi200.athena.sase-z4.2` · **State:** active · **Source run:** `run-b8140b66bb44ea5afbf67c03aa122bb6`
+**Global name:** `bbugyi200.athena.sase-z4.2` · **State:** completed · **Source run:** `run-b8140b66bb44ea5afbf67c03aa122bb6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-z4
 
@@ -12,19 +12,25 @@
 - Epic: [sase-z4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-z4/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-10T01:38:29.411935+00:00
-- Commits: 0
+- Timing: 2026-09-10T01:38:29.411935+00:00 → 2026-09-10T03:11:48.362351+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`7c31d9a`](https://github.com/sase-org/sase/commit/7c31d9abac15e0c772d4d9f2bacbd3536417cfe9) | feat(agent-launch): preserve weighted queue metadata | 2026-09-09 23:08:03 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-z4.1](../bbugyi200.athena.sase-z4.1/README.md) | sase-z4 hood | completed |
-| [sase-z4.3](../bbugyi200.athena.sase-z4.3/README.md) | sase-z4 hood | waiting |
-| [sase-z4.4](../bbugyi200.athena.sase-z4.4/README.md) | sase-z4 hood | waiting |
-| [sase-z4.5](../bbugyi200.athena.sase-z4.5/README.md) | sase-z4 hood | waiting |
+| [sase-z4.3](../bbugyi200.athena.sase-z4.3/README.md) | sase-z4 hood | completed |
+| [sase-z4.4](../bbugyi200.athena.sase-z4.4/README.md) | sase-z4 hood | completed |
+| [sase-z4.5](../bbugyi200.athena.sase-z4.5/README.md) | sase-z4 hood | active |
 | [sase-z4.land](../bbugyi200.athena.sase-z4.land/README.md) | sase-z4 hood | waiting |

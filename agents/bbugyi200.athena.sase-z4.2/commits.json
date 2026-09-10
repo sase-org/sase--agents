@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b8140b66bb44ea5afbf67c03aa122bb6"}
+{"commits":[{"committed_at":1789009683,"sha":"7c31d9abac15e0c772d4d9f2bacbd3536417cfe9","subject":"feat(agent-launch): preserve weighted queue metadata"}],"schema_version":2,"source_run_id":"run-b8140b66bb44ea5afbf67c03aa122bb6"}
