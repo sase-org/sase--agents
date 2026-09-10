@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789069746,"sha":"3260f6a42b5f6ae22a5cab4473aacd7c6e2ebac1","subject":"feat(runner-slots): make Rust candidate lineage authoritative at admission"}],"schema_version":2,"source_run_id":"run-eb3d1f6dcbd3db0b2da60bc541aa4281"}
