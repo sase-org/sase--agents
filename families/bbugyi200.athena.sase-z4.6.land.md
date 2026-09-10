@@ -31,8 +31,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-z4.6.2](../agents/bbugyi200.athena.sase-z4.6.2/README.md) | sase-z4.6 hood | completed |
 | [sase-z4.6.3](../agents/bbugyi200.athena.sase-z4.6.3/README.md) | sase-z4.6 hood | completed |
 | [sase-z4.6.4](../agents/bbugyi200.athena.sase-z4.6.4/README.md) | sase-z4.6 hood | completed |
-| [sase-z4.6.5.1](bbugyi200.athena.sase-z4.6.5.1.md) (family · 7) | sase-z4.6 hood | active 1, completed 3, failed 3 |
-| [sase-z4.6.5.2](../agents/bbugyi200.athena.sase-z4.6.5.2/README.md) | sase-z4.6 hood | waiting |
+| [sase-z4.6.5.1](bbugyi200.athena.sase-z4.6.5.1.md) (family · 7) | sase-z4.6 hood | completed 4, failed 3 |
+| [sase-z4.6.5.2](../agents/bbugyi200.athena.sase-z4.6.5.2/README.md) | sase-z4.6 hood | active |
 | [sase-z4.6.5.3](../agents/bbugyi200.athena.sase-z4.6.5.3/README.md) | sase-z4.6 hood | waiting |
 | [sase-z4.6.5.land](../agents/bbugyi200.athena.sase-z4.6.5.land/README.md) | sase-z4.6 hood | waiting |
 | [sase-z4.1](../agents/bbugyi200.athena.sase-z4.1/README.md) | sase-z4 hood | completed |

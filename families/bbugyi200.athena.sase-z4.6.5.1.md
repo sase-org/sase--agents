@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["sase-z4.6.5.1--mon [failed]"]
   n0 --> n4
-  n5["sase-z4.6.5.1--3 [active]"]
+  n5["sase-z4.6.5.1--3 [completed]"]
   n0 --> n5
   n6["sase-z4.6.5.1--1 [completed]"]
   n0 --> n6
@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | sase-z4.6.5.1--plan | completed | sonnet / claude | 2026-09-10T17:27:24.556858+00:00 → 2026-09-10T18:43:53.593903+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-z4.6.5.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-z4.6.5.1--plan/chat.md) |
 | <a id="member-2"></a>2 | sase-z4.6.5.1--2 | completed | sonnet / claude | 2026-09-10T19:23:49.867789+00:00 → 2026-09-10T19:31:55.039494+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-z4.6.5.1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-z4.6.5.1--2/chat.md) |
 | <a id="member-mon"></a>mon | sase-z4.6.5.1--mon | failed | sonnet / claude | 2026-09-10T18:43:40.322818+00:00 → 2026-09-10T18:54:26.163241+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-z4.6.5.1--mon/chat.md) |
-| <a id="member-3"></a>3 | sase-z4.6.5.1--3 | active | sonnet / claude | 2026-09-10T19:45:12.052130+00:00 | [1](../agents/bbugyi200.athena.sase-z4.6.5.1--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-z4.6.5.1--3/prompt.md) | — |
+| <a id="member-3"></a>3 | sase-z4.6.5.1--3 | completed | sonnet / claude | 2026-09-10T19:45:12.052130+00:00 → 2026-09-10T19:54:00.490645+00:00 | [1](../agents/bbugyi200.athena.sase-z4.6.5.1--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-z4.6.5.1--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-z4.6.5.1--3/chat.md) |
 | <a id="member-1"></a>1 | sase-z4.6.5.1--1 | completed | sonnet / claude | 2026-09-10T18:55:58.774781+00:00 → 2026-09-10T19:20:18.919701+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-z4.6.5.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-z4.6.5.1--1/chat.md) |
 
 ## Commits
@@ -45,7 +45,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-z4.6.5.2](../agents/bbugyi200.athena.sase-z4.6.5.2/README.md) | sase-z4.6.5 hood | waiting |
+| [sase-z4.6.5.2](../agents/bbugyi200.athena.sase-z4.6.5.2/README.md) | sase-z4.6.5 hood | active |
 | [sase-z4.6.5.3](../agents/bbugyi200.athena.sase-z4.6.5.3/README.md) | sase-z4.6.5 hood | waiting |
 | [sase-z4.6.5.land](../agents/bbugyi200.athena.sase-z4.6.5.land/README.md) | sase-z4.6.5 hood | waiting |
 | [sase-z4.6.1](../agents/bbugyi200.athena.sase-z4.6.1/README.md) | sase-z4.6 hood | completed |
