@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8d537db522ae32da185ce699b588c016"}
+{"commits":[{"committed_at":1789035821,"sha":"eb7560fd5e3c6258eb1c9392c914341173f07f7e","subject":"test(ace): split model completion PNG snapshots by completion kind"}],"schema_version":2,"source_run_id":"run-8d537db522ae32da185ce699b588c016"}
