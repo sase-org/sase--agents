@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-eae7c6377579c14546e3cfc003570d9a"}
+{"commits":[{"committed_at":1789069350,"sha":"1bfd9f0a1c181392a3fa9e7d9d40875a61c928b3","subject":"fix(logs): read archived notifications when packing logs"}],"schema_version":2,"source_run_id":"run-eae7c6377579c14546e3cfc003570d9a"}

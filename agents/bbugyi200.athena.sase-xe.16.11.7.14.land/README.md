@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-xe](../../users/bbugyi200/machines/athena/hoods/sase-xe/README.md) / sase-xe.16.11.7.14.land
 
-**Global name:** `bbugyi200.athena.sase-xe.16.11.7.14.land` · **State:** waiting · **Source run:** `run-a5e4afd522d55ae3fcd9f4537caacd6c`
+**Global name:** `bbugyi200.athena.sase-xe.16.11.7.14.land` · **State:** waiting · **Source run:** `run-61cc873612b3b53b4827492e34da30e6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-xe
 
@@ -11,7 +11,7 @@
 - Bead: [sase-xe.16.11.7.14](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.14.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20260910134012
+- Timing: 20260910145304
 - Commits: 0
 
 ## Files
@@ -22,9 +22,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-xe.16.11.7.14.1](../../families/bbugyi200.athena.sase-xe.16.11.7.14.1.md) (family · 3) | sase-xe.16.11.7.14 hood | active 2, failed 1 |
+| [sase-xe.16.11.7.14.1](../../families/bbugyi200.athena.sase-xe.16.11.7.14.1.md) (family · 3) | sase-xe.16.11.7.14 hood | completed 2, failed 1 |
+| [sase-xe.16.11.7.14.2](../bbugyi200.athena.sase-xe.16.11.7.14.2/README.md) | sase-xe.16.11.7.14 hood | active |
 | [sase-xe.16.11.7.14.3](../bbugyi200.athena.sase-xe.16.11.7.14.3/README.md) | sase-xe.16.11.7.14 hood | waiting |
 | [sase-xe.16.11.7.14.4](../bbugyi200.athena.sase-xe.16.11.7.14.4/README.md) | sase-xe.16.11.7.14 hood | waiting |
+| [sase-xe.16.11.7.14.5](../bbugyi200.athena.sase-xe.16.11.7.14.5/README.md) | sase-xe.16.11.7.14 hood | waiting |
 | [sase-xe.16.11.7.1](../bbugyi200.athena.sase-xe.16.11.7.1/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.10](../bbugyi200.athena.sase-xe.16.11.7.10/README.md) | sase-xe.16.11.7 hood | dismissed |
 | [sase-xe.16.11.7.11](../bbugyi200.athena.sase-xe.16.11.7.11/README.md) | sase-xe.16.11.7 hood | completed |

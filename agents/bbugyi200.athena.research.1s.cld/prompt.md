@@ -1,0 +1,28 @@
+%id(cld, clan=research.1s) %m:@opus_or_grok %q(w=0.25)
+#gh:gh_sase-org__sase You are researcher B in a two-researcher swarm. The other researcher,
+`research.1s.cdx`, is independently investigating the same request and will write its
+own self-named report ending in `__a.md`. Your report will end in `__b.md`.
+
+Conduct your research independently and form your own conclusions. Do NOT attempt to
+locate, open, read, or otherwise consult the other researcher's report from this swarm,
+even if it becomes available before you finish. Do not obtain that peer's findings
+indirectly through its chat transcript, summaries, or requests to the peer. You may
+independently use the same external sources, shared input material, and unrelated prior
+research. You may check filenames or file existence to avoid overwriting your own
+output, but do not inspect the peer's report contents. If you encounter its filename,
+leave the report alone. The lead researcher will read both reports and synthesize their
+findings after you have both finished.
+
+I want to start displaying useful information about an
+agent's finalizers when that agent is selected in the "Agents" tab. For example, I want
+to make it easy for users to answer questions like:
+
+- What finalizers are enabled?
+- Which are currently running? Can we show their live outputs somehow without
+  overwhelming the TUI?
+- When finalizers complete, what was their status and final output?
+- #beau
+
+Can you do some research with the goal of helping me decide the best way to implement
+this? Think hard about what the best possible user experience looks like for this
+feature. End your analysis with a recommended solution. #research(suffix=b)

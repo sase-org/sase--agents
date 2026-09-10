@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-xe](../../users/bbugyi200/machines/athena/hoods/sase-xe/README.md) / sase-xe.16.11.7.14.4
 
-**Global name:** `bbugyi200.athena.sase-xe.16.11.7.14.4` · **State:** waiting · **Source run:** `run-bb955be757f33a10cca448f294a58dca`
+**Global name:** `bbugyi200.athena.sase-xe.16.11.7.14.4` · **State:** waiting · **Source run:** `run-40f34d447455a97dd30b992699183284`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-xe
 
@@ -10,9 +10,9 @@
 
 - Bead: [sase-xe.16.11.7.14.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.14.4.md)
 - Epic: [sase-xe.16.11.7.14](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.14.md)
-- Model: gpt-5.5
-- Provider: codex
-- Timing: 20260910134010
+- Model: sonnet
+- Provider: claude
+- Timing: 20260910145302
 - Commits: 0
 
 ## Files
@@ -23,8 +23,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-xe.16.11.7.14.1](../../families/bbugyi200.athena.sase-xe.16.11.7.14.1.md) (family · 3) | sase-xe.16.11.7.14 hood | active 2, failed 1 |
+| [sase-xe.16.11.7.14.1](../../families/bbugyi200.athena.sase-xe.16.11.7.14.1.md) (family · 3) | sase-xe.16.11.7.14 hood | completed 2, failed 1 |
+| [sase-xe.16.11.7.14.2](../bbugyi200.athena.sase-xe.16.11.7.14.2/README.md) | sase-xe.16.11.7.14 hood | active |
 | [sase-xe.16.11.7.14.3](../bbugyi200.athena.sase-xe.16.11.7.14.3/README.md) | sase-xe.16.11.7.14 hood | waiting |
+| [sase-xe.16.11.7.14.5](../bbugyi200.athena.sase-xe.16.11.7.14.5/README.md) | sase-xe.16.11.7.14 hood | waiting |
 | [sase-xe.16.11.7.14.land](../bbugyi200.athena.sase-xe.16.11.7.14.land/README.md) | sase-xe.16.11.7.14 hood | waiting |
 | [sase-xe.16.11.7.1](../bbugyi200.athena.sase-xe.16.11.7.1/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.10](../bbugyi200.athena.sase-xe.16.11.7.10/README.md) | sase-xe.16.11.7 hood | dismissed |
