@@ -28,8 +28,8 @@
 | [sase-z4.6.5.3](../bbugyi200.athena.sase-z4.6.5.3/README.md) | sase-z4.6.5 hood | completed |
 | [sase-z4.6.5.4.1](../bbugyi200.athena.sase-z4.6.5.4.1/README.md) | sase-z4.6.5 hood | completed |
 | [sase-z4.6.5.4.2](../bbugyi200.athena.sase-z4.6.5.4.2/README.md) | sase-z4.6.5 hood | active |
-| [sase-z4.6.5.4.3](../bbugyi200.athena.sase-z4.6.5.4.3/README.md) | sase-z4.6.5 hood | active |
-| [sase-z4.6.5.4.4](../bbugyi200.athena.sase-z4.6.5.4.4/README.md) | sase-z4.6.5 hood | waiting |
+| [sase-z4.6.5.4.3](../bbugyi200.athena.sase-z4.6.5.4.3/README.md) | sase-z4.6.5 hood | completed |
+| [sase-z4.6.5.4.4](../bbugyi200.athena.sase-z4.6.5.4.4/README.md) | sase-z4.6.5 hood | active |
 | [sase-z4.6.5.4.5](../bbugyi200.athena.sase-z4.6.5.4.5/README.md) | sase-z4.6.5 hood | waiting |
 | [sase-z4.6.5.4.land](../bbugyi200.athena.sase-z4.6.5.4.land/README.md) | sase-z4.6.5 hood | waiting |
 | [sase-z4.6.1](../bbugyi200.athena.sase-z4.6.1/README.md) | sase-z4.6 hood | completed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-z4
 
-**Global hood:** `bbugyi200.athena.sase-z4` · **Runs:** 33 · **Families:** 4 · **States:** active 2, completed 16, failed 12, waiting 3
+**Global hood:** `bbugyi200.athena.sase-z4` · **Runs:** 33 · **Families:** 4 · **States:** active 2, completed 17, failed 12, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -30,9 +30,9 @@
 | [sase-z4.6.5.land--gate](../../../../../../families/bbugyi200.athena.sase-z4.6.5.land.md#member-gate) | failed | opus / claude | 2026-09-10T21:41:53.240676+00:00 → 2026-09-10T21:42:09.518708+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-z4.6.5.land--gate/chat.md) |
 | [sase-z4.6.5.land--plan](../../../../../../families/bbugyi200.athena.sase-z4.6.5.land.md#member-plan) | failed | opus / claude | 2026-09-10T21:20:05.857570+00:00 → 2026-09-10T21:42:17.298409+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-z4.6.5.land--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-z4.6.5.land--plan/prompt.md) |
 | [sase-z4.6.5.4.land](../../../../../../agents/bbugyi200.athena.sase-z4.6.5.4.land/README.md) | waiting | gpt-6-astra / codex | 20260910174349 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-z4.6.5.4.land/prompt.md) |
-| [sase-z4.6.5.4.3](../../../../../../agents/bbugyi200.athena.sase-z4.6.5.4.3/README.md) | active | sonnet / claude | 2026-09-10T21:54:06.952175+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-z4.6.5.4.3/prompt.md) |
+| [sase-z4.6.5.4.3](../../../../../../agents/bbugyi200.athena.sase-z4.6.5.4.3/README.md) | completed | sonnet / claude | 2026-09-10T21:54:06.952175+00:00 → 2026-09-10T22:40:19.652357+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-z4.6.5.4.3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-z4.6.5.4.3/prompt.md) |
 | [sase-z4.6.3](../../../../../../agents/bbugyi200.athena.sase-z4.6.3/README.md) | completed | gpt-5.5 / codex | 2026-09-10T13:48:39.060382+00:00 → 2026-09-10T15:46:18.297667+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-z4.6.3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-z4.6.3/prompt.md) |
-| [sase-z4.6.5.4.4](../../../../../../agents/bbugyi200.athena.sase-z4.6.5.4.4/README.md) | waiting | gpt-5.5 / codex | 20260910174347 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-z4.6.5.4.4/prompt.md) |
+| [sase-z4.6.5.4.4](../../../../../../agents/bbugyi200.athena.sase-z4.6.5.4.4/README.md) | active | gpt-5.5 / codex | 2026-09-10T22:41:37.052144+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-z4.6.5.4.4/prompt.md) |
 | [sase-z4.1](../../../../../../agents/bbugyi200.athena.sase-z4.1/README.md) | completed | gpt-5.5 / codex | 2026-09-10T00:54:30.649301+00:00 → 2026-09-10T01:37:27.672502+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-z4.1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-z4.1/prompt.md) |
 | [sase-z4.6.5.1--3](../../../../../../families/bbugyi200.athena.sase-z4.6.5.1.md#member-3) | completed | sonnet / claude | 2026-09-10T19:45:12.052130+00:00 → 2026-09-10T19:54:00.490645+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-z4.6.5.1--3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-z4.6.5.1--3/prompt.md) |
 | [sase-z4.land--mon](../../../../../../families/bbugyi200.athena.sase-z4.land.md#member-mon) | failed | gpt-6-astra / codex | 2026-09-10T12:15:25.617647+00:00 → 2026-09-10T12:17:30.282464+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-z4.land--mon/chat.md) |
