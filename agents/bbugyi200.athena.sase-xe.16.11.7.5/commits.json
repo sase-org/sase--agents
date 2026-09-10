@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b27f0a7ea2fc48fa8c249af1bc346f43"}
+{"commits":[{"committed_at":1789012843,"sha":"71c3df748fac1ccf09c3c885474ddbc1f935befe","subject":"feat(runner-slots): enforce weighted admission lifecycle"}],"schema_version":2,"source_run_id":"run-b27f0a7ea2fc48fa8c249af1bc346f43"}

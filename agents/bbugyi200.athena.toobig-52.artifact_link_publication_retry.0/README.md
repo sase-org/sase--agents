@@ -2,20 +2,26 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-52](../../users/bbugyi200/machines/athena/hoods/toobig-52/README.md) / toobig-52.artifact\_link\_publication\_retry.0
 
-**Global name:** `bbugyi200.athena.toobig-52.artifact_link_publication_retry.0` · **State:** waiting · **Source run:** `run-f9838c7289166f79de7ca536d837c4ec`
+**Global name:** `bbugyi200.athena.toobig-52.artifact_link_publication_retry.0` · **State:** active · **Source run:** `run-f9838c7289166f79de7ca536d837c4ec`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-52
 
 ## Summary
 
-- Model: gpt-5.5
-- Provider: codex
-- Timing: 20260909111608
-- Commits: 0
+- Model: grok-4.6
+- Provider: grok
+- Timing: 2026-09-10T07:49:34.440092+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9c738c2`](https://github.com/sase-org/sase/commit/9c738c25f62ebc0962898e83d222b4c960afd7ae) | refactor(sdd): split artifact-link publication retry into sibling modules | 2026-09-10 04:16:15 EDT |
 
 ## Neighbors
 
