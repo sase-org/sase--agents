@@ -23,7 +23,7 @@
 |---|---|---|
 | [research.1r.cdx](../bbugyi200.athena.research.1r.cdx/README.md) | research.1r hood | completed |
 | [research.1r.final](../bbugyi200.athena.research.1r.final/README.md) | research.1r hood | completed |
-| [research.1r.image](../bbugyi200.athena.research.1r.image/README.md) | research.1r hood | active |
+| [research.1r.image](../bbugyi200.athena.research.1r.image/README.md) | research.1r hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |

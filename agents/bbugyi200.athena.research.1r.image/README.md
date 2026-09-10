@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.1r.image
 
-**Global name:** `bbugyi200.athena.research.1r.image` · **State:** active · **Source run:** `run-8bf78e73ea122641be6410b2398ba26b`
+**Global name:** `bbugyi200.athena.research.1r.image` · **State:** completed · **Source run:** `run-8bf78e73ea122641be6410b2398ba26b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-09-10T20:05:33.763173+00:00
+- Timing: 2026-09-10T20:05:33.763173+00:00 → 2026-09-10T20:11:58.448106+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
