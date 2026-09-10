@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-yy.8.4--plan | active | opus / claude | 2026-09-10T21:59:49.717326+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-yy.8.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-yy.8.4--plan/chat.md) |
-| <a id="member-code"></a>code | sase-yy.8.4--code | active | gpt-5.5 / codex | 2026-09-10T22:14:31.050309+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-yy.8.4--code | active | gpt-5.5 / codex | 2026-09-10T22:14:31.050309+00:00 | [1](../agents/bbugyi200.athena.sase-yy.8.4--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | sase-yy.8.4--gate | failed | opus / claude | 2026-09-10T22:14:12.526432+00:00 → 2026-09-10T22:14:19.406795+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-yy.8.4--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`2dcd6a1`](https://github.com/sase-org/sase/commit/2dcd6a136c715427c3916581a4e942822dc47155) | feat(artifact-links): make cutover import resumable | 2026-09-10 19:37:26 EDT |
 
 ## Neighbors
 
@@ -36,7 +42,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-yy.2](bbugyi200.athena.sase-yy.2.md) (family · 3) | sase-yy hood | completed 2, failed 1 |
 | [sase-yy.3](../agents/bbugyi200.athena.sase-yy.3/README.md) | sase-yy hood | completed |
 | [sase-yy.4](bbugyi200.athena.sase-yy.4.md) (family · 3) | sase-yy hood | completed 2, failed 1 |
-| [sase-yy.5](bbugyi200.athena.sase-yy.5.md) (family · 5) | sase-yy hood | completed 1, dismissed 1, failed 3 |
+| [sase-yy.5](bbugyi200.athena.sase-yy.5.md) (family · 5) | sase-yy hood | active 1, completed 1, failed 3 |
 | [sase-yy.6](bbugyi200.athena.sase-yy.6.md) (family · 3) | sase-yy hood | completed 2, failed 1 |
 | [sase-yy.6](../agents/bbugyi200.athena.sase-yy.6/README.md) | sase-yy hood | waiting |
 | [sase-yy.7](../agents/bbugyi200.athena.sase-yy.7/README.md) | sase-yy hood | completed |

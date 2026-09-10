@@ -13,7 +13,13 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-10T22:14:31.050309+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`2dcd6a1`](https://github.com/sase-org/sase/commit/2dcd6a136c715427c3916581a4e942822dc47155) | feat(artifact-links): make cutover import resumable | 2026-09-10 19:37:26 EDT |
 
 ## Neighbors
 
@@ -28,7 +34,7 @@
 | [sase-yy.2](../../families/bbugyi200.athena.sase-yy.2.md) (family · 3) | sase-yy hood | completed 2, failed 1 |
 | [sase-yy.3](../bbugyi200.athena.sase-yy.3/README.md) | sase-yy hood | completed |
 | [sase-yy.4](../../families/bbugyi200.athena.sase-yy.4.md) (family · 3) | sase-yy hood | completed 2, failed 1 |
-| [sase-yy.5](../../families/bbugyi200.athena.sase-yy.5.md) (family · 5) | sase-yy hood | completed 1, dismissed 1, failed 3 |
+| [sase-yy.5](../../families/bbugyi200.athena.sase-yy.5.md) (family · 5) | sase-yy hood | active 1, completed 1, failed 3 |
 | [sase-yy.6](../../families/bbugyi200.athena.sase-yy.6.md) (family · 3) | sase-yy hood | completed 2, failed 1 |
 | [sase-yy.6](../bbugyi200.athena.sase-yy.6/README.md) | sase-yy hood | waiting |
 | [sase-yy.7](../bbugyi200.athena.sase-yy.7/README.md) | sase-yy hood | completed |
