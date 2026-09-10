@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase Can you help me make sure that launching an xprompt swarm from the TUI by submitting multiple prompt input widgets at once is treated the same as an actual xprompt swarm (i.e. one defined in a file and invoked via `#<name>`)? For example, the `%wait` directive, when used with no arguments in an xprompt swarm should wait for the previous agent in the stack, but I don't think that is working (verify this)? The problem might be that the prompt input widget stack is reversed (i.e. we are running agents on the bottom before the ones on the top), but I'm not sure. Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix the issue?
+
+#plan %m:@xlarge %q:5

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789000474,"sha":"ea096dbfcb3198cac511181c2270d44d478b5b17","subject":"feat(agent): bind prompt stack waits to predecessors"}],"schema_version":2,"source_run_id":"run-eac0d2dedde896091124f5e1478ac36a"}
