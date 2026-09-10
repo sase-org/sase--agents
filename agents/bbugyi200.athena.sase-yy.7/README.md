@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-10T17:41:36.247128+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`abdcb86`](https://github.com/sase-org/sase/commit/abdcb86d6af27acbadc809013dfd968648ae9a1f) | fix(sdd): harden artifact link event publication | 2026-09-10 14:07:25 EDT |
 
 ## Neighbors
 

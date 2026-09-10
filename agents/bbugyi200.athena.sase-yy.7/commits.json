@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1c282ff5244d7d6ae3c47d55b8c7694d"}
+{"commits":[{"committed_at":1789063645,"sha":"abdcb86d6af27acbadc809013dfd968648ae9a1f","subject":"fix(sdd): harden artifact link event publication"}],"schema_version":2,"source_run_id":"run-1c282ff5244d7d6ae3c47d55b8c7694d"}
