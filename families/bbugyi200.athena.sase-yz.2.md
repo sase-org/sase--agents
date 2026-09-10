@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-yz.2--mon-0 [failed]"]
   n1["sase-yz.2--mon [failed]"]
   n0 --> n1
-  n2["sase-yz.2--5 [active]"]
+  n2["sase-yz.2--5 [completed]"]
   n0 --> n2
   n3["sase-yz.2--plan [completed]"]
   n0 --> n3
@@ -37,7 +37,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon-0"></a>mon-0 | sase-yz.2--mon-0 | failed | gpt-5.5 / codex | 2026-09-09T20:36:29.549617+00:00 → 2026-09-09T20:39:38.504912+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-yz.2--mon-0/chat.md) |
 | <a id="member-mon"></a>mon | sase-yz.2--mon | failed | gpt-5.5 / codex | 2026-09-09T19:32:09.377653+00:00 → 2026-09-09T20:33:32.006459+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-yz.2--mon/chat.md) |
-| <a id="member-5"></a>5 | sase-yz.2--5 | active | gpt-5.5 / codex | 2026-09-09T23:55:48.141698+00:00 | [1](../agents/bbugyi200.athena.sase-yz.2--5/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-yz.2--5/prompt.md) | — |
+| <a id="member-5"></a>5 | sase-yz.2--5 | completed | gpt-5.5 / codex | 2026-09-09T23:55:48.141698+00:00 → 2026-09-10T00:36:18.462418+00:00 | [1](../agents/bbugyi200.athena.sase-yz.2--5/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-yz.2--5/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-yz.2--5/chat.md) |
 | <a id="member-plan"></a>plan | sase-yz.2--plan | completed | gpt-5.5 / codex | 2026-09-09T18:46:10.308349+00:00 → 2026-09-09T19:32:19.336316+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-yz.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-yz.2--plan/chat.md) |
 | <a id="member-3"></a>3 | sase-yz.2--3 | completed | gpt-5.5 / codex | 2026-09-09T21:06:35.348818+00:00 → 2026-09-09T21:09:50.172835+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-yz.2--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-yz.2--3/chat.md) |
 | <a id="member-2"></a>2 | sase-yz.2--2 | completed | gpt-5.5 / codex | 2026-09-09T20:40:01.176812+00:00 → 2026-09-09T21:02:37.087127+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-yz.2--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-yz.2--2/chat.md) |
