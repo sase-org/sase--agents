@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-10T12:51:53.956155+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`7da379e`](https://github.com/sase-org/sase/commit/7da379ea28e86cede528d1e58c8a0f7075aba5f1) | fix(agent-runner): make weighted shell admission atomic | 2026-09-10 09:45:23 EDT |
 
 ## Neighbors
 

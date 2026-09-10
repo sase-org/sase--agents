@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4b5e445f2096ef426a92612e1e81eba3"}
+{"commits":[{"committed_at":1789047923,"sha":"7da379ea28e86cede528d1e58c8a0f7075aba5f1","subject":"fix(agent-runner): make weighted shell admission atomic"}],"schema_version":2,"source_run_id":"run-4b5e445f2096ef426a92612e1e81eba3"}
