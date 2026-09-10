@@ -33,8 +33,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-x7.3.1.4](../agents/bbugyi200.athena.sase-x7.3.1.4/README.md) | descendant | completed |
 | [sase-x7.3.1.5](bbugyi200.athena.sase-x7.3.1.5.md) (family · 3) | descendant | completed 2, failed 1 |
 | [sase-x7.3.1.5](../agents/bbugyi200.athena.sase-x7.3.1.5/README.md) | descendant | waiting |
-| [sase-x7.3.1.5.f0](bbugyi200.athena.sase-x7.3.1.5.f0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |
-| [sase-x7.3.1.land](../agents/bbugyi200.athena.sase-x7.3.1.land/README.md) | descendant | active |
+| [sase-x7.3.1.5.f0](bbugyi200.athena.sase-x7.3.1.5.f0.md) (family · 3) | descendant | completed 1, dismissed 1, failed 1 |
+| [sase-x7.3.1.land](bbugyi200.athena.sase-x7.3.1.land.md) (family · 5) | descendant | completed 3, failed 2 |
 | [sase-x7.1](../agents/bbugyi200.athena.sase-x7.1/README.md) | sase-x7 hood | completed |
 | [sase-x7.10](../agents/bbugyi200.athena.sase-x7.10/README.md) | sase-x7 hood | waiting |
 | [sase-x7.11](../agents/bbugyi200.athena.sase-x7.11/README.md) | sase-x7 hood | waiting |
@@ -52,9 +52,20 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-x7.2.1.5.land](bbugyi200.athena.sase-x7.2.1.5.land.md) (family · 3) | sase-x7 hood | completed 2, failed 1 |
 | [sase-x7.2.1.land](bbugyi200.athena.sase-x7.2.1.land.md) (family · 3) | sase-x7 hood | failed 3 |
 | [sase-x7.4](../agents/bbugyi200.athena.sase-x7.4/README.md) | sase-x7 hood | waiting |
+| [sase-x7.4.r0](bbugyi200.athena.sase-x7.4.r0.md) (family · 13) | sase-x7 hood | completed 5, dismissed 1, failed 7 |
+| [sase-x7.4.r0.r0](bbugyi200.athena.sase-x7.4.r0.r0.md) (family · 3) | sase-x7 hood | dismissed 2, failed 1 |
+| [sase-x7.5](bbugyi200.athena.sase-x7.5.md) (family · 3) | sase-x7 hood | failed 3 |
 | [sase-x7.5](../agents/bbugyi200.athena.sase-x7.5/README.md) | sase-x7 hood | waiting |
-| [sase-x7.6](../agents/bbugyi200.athena.sase-x7.6/README.md) | sase-x7 hood | waiting |
-| [sase-x7.7](../agents/bbugyi200.athena.sase-x7.7/README.md) | sase-x7 hood | waiting |
+| [sase-x7.5.1.1](../agents/bbugyi200.athena.sase-x7.5.1.1/README.md) | sase-x7 hood | active |
+| [sase-x7.5.1.2](../agents/bbugyi200.athena.sase-x7.5.1.2/README.md) | sase-x7 hood | waiting |
+| [sase-x7.5.1.3](../agents/bbugyi200.athena.sase-x7.5.1.3/README.md) | sase-x7 hood | waiting |
+| [sase-x7.5.1.4](../agents/bbugyi200.athena.sase-x7.5.1.4/README.md) | sase-x7 hood | waiting |
+| [sase-x7.5.1.5](../agents/bbugyi200.athena.sase-x7.5.1.5/README.md) | sase-x7 hood | waiting |
+| [sase-x7.5.1.6](../agents/bbugyi200.athena.sase-x7.5.1.6/README.md) | sase-x7 hood | waiting |
+| [sase-x7.5.1.7](../agents/bbugyi200.athena.sase-x7.5.1.7/README.md) | sase-x7 hood | waiting |
+| [sase-x7.5.1.land](../agents/bbugyi200.athena.sase-x7.5.1.land/README.md) | sase-x7 hood | waiting |
+| [sase-x7.6](../agents/bbugyi200.athena.sase-x7.6/README.md) | sase-x7 hood | completed |
+| [sase-x7.7](../agents/bbugyi200.athena.sase-x7.7/README.md) | sase-x7 hood | completed |
 | [sase-x7.8](../agents/bbugyi200.athena.sase-x7.8/README.md) | sase-x7 hood | waiting |
 | [sase-x7.9](../agents/bbugyi200.athena.sase-x7.9/README.md) | sase-x7 hood | waiting |
 | [sase-x7.land](../agents/bbugyi200.athena.sase-x7.land/README.md) | sase-x7 hood | waiting |

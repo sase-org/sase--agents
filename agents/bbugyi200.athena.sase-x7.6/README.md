@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-x7](../../users/bbugyi200/machines/athena/hoods/sase-x7/README.md) / sase-x7.6
 
-**Global name:** `bbugyi200.athena.sase-x7.6` · **State:** waiting · **Source run:** `run-70536f1d246b2b0776717b408ba43afa`
+**Global name:** `bbugyi200.athena.sase-x7.6` · **State:** completed · **Source run:** `run-8fb5a707e765e8b36952a63120d1607a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-x7
 
@@ -10,14 +10,14 @@
 
 - Bead: [sase-x7.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-x7/sase-x7.6.md)
 - Epic: [sase-x7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-x7/README.md)
-- Model: sonnet
-- Provider: claude
-- Timing: 20260905185759
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 2026-09-06T22:46:21.723618+00:00 → 2026-09-06T23:22:13.366880+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -46,11 +46,22 @@
 | [sase-x7.3.1.4](../bbugyi200.athena.sase-x7.3.1.4/README.md) | sase-x7 hood | completed |
 | [sase-x7.3.1.5](../../families/bbugyi200.athena.sase-x7.3.1.5.md) (family · 3) | sase-x7 hood | completed 2, failed 1 |
 | [sase-x7.3.1.5](../bbugyi200.athena.sase-x7.3.1.5/README.md) | sase-x7 hood | waiting |
-| [sase-x7.3.1.5.f0](../../families/bbugyi200.athena.sase-x7.3.1.5.f0.md) (family · 3) | sase-x7 hood | active 1, completed 1, failed 1 |
-| [sase-x7.3.1.land](../bbugyi200.athena.sase-x7.3.1.land/README.md) | sase-x7 hood | active |
+| [sase-x7.3.1.5.f0](../../families/bbugyi200.athena.sase-x7.3.1.5.f0.md) (family · 3) | sase-x7 hood | completed 1, dismissed 1, failed 1 |
+| [sase-x7.3.1.land](../../families/bbugyi200.athena.sase-x7.3.1.land.md) (family · 5) | sase-x7 hood | completed 3, failed 2 |
 | [sase-x7.4](../bbugyi200.athena.sase-x7.4/README.md) | sase-x7 hood | waiting |
+| [sase-x7.4.r0](../../families/bbugyi200.athena.sase-x7.4.r0.md) (family · 13) | sase-x7 hood | completed 5, dismissed 1, failed 7 |
+| [sase-x7.4.r0.r0](../../families/bbugyi200.athena.sase-x7.4.r0.r0.md) (family · 3) | sase-x7 hood | dismissed 2, failed 1 |
+| [sase-x7.5](../../families/bbugyi200.athena.sase-x7.5.md) (family · 3) | sase-x7 hood | failed 3 |
 | [sase-x7.5](../bbugyi200.athena.sase-x7.5/README.md) | sase-x7 hood | waiting |
-| [sase-x7.7](../bbugyi200.athena.sase-x7.7/README.md) | sase-x7 hood | waiting |
+| [sase-x7.5.1.1](../bbugyi200.athena.sase-x7.5.1.1/README.md) | sase-x7 hood | active |
+| [sase-x7.5.1.2](../bbugyi200.athena.sase-x7.5.1.2/README.md) | sase-x7 hood | waiting |
+| [sase-x7.5.1.3](../bbugyi200.athena.sase-x7.5.1.3/README.md) | sase-x7 hood | waiting |
+| [sase-x7.5.1.4](../bbugyi200.athena.sase-x7.5.1.4/README.md) | sase-x7 hood | waiting |
+| [sase-x7.5.1.5](../bbugyi200.athena.sase-x7.5.1.5/README.md) | sase-x7 hood | waiting |
+| [sase-x7.5.1.6](../bbugyi200.athena.sase-x7.5.1.6/README.md) | sase-x7 hood | waiting |
+| [sase-x7.5.1.7](../bbugyi200.athena.sase-x7.5.1.7/README.md) | sase-x7 hood | waiting |
+| [sase-x7.5.1.land](../bbugyi200.athena.sase-x7.5.1.land/README.md) | sase-x7 hood | waiting |
+| [sase-x7.7](../bbugyi200.athena.sase-x7.7/README.md) | sase-x7 hood | completed |
 | [sase-x7.8](../bbugyi200.athena.sase-x7.8/README.md) | sase-x7 hood | waiting |
 | [sase-x7.9](../bbugyi200.athena.sase-x7.9/README.md) | sase-x7 hood | waiting |
 | [sase-x7.land](../bbugyi200.athena.sase-x7.land/README.md) | sase-x7 hood | waiting |

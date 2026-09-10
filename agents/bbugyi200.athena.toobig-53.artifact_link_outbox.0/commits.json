@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ddb8e4cd696e45cd7d163560a8155ee5"}
+{"commits":[{"committed_at":1789034780,"sha":"81033f4de95179ef646f17d902d293eea67f9d1a","subject":"refactor(sdd): split artifact-link outbox into sibling modules"}],"schema_version":2,"source_run_id":"run-ddb8e4cd696e45cd7d163560a8155ee5"}
