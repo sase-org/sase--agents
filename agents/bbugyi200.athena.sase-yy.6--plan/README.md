@@ -1,0 +1,32 @@
+# Agent: sase-yy.6--plan
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-yy](../../users/bbugyi200/machines/athena/hoods/sase-yy/README.md) / [sase-yy.6](../../families/bbugyi200.athena.sase-yy.6.md) / sase-yy.6--plan
+
+**Global name:** `bbugyi200.athena.sase-yy.6--plan` · **State:** completed · **Source run:** `run-8b1aa1f3a77fbc6c6d99d5b37066b651`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-yy
+
+## Summary
+
+- Bead: [sase-yy.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-yy/sase-yy.6.md)
+- Epic: [sase-yy](https://github.com/sase-org/sase--beads/blob/main/pages/sase-yy/README.md)
+- Model: gpt-5.6-sol
+- Provider: codex
+- Timing: 2026-09-10T14:07:12.147492+00:00 → 2026-09-10T17:37:56.175079+00:00
+- Commits: 0
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-yy.1](../../families/bbugyi200.athena.sase-yy.1.md) (family · 3) | sase-yy hood | completed 2, failed 1 |
+| [sase-yy.2](../../families/bbugyi200.athena.sase-yy.2.md) (family · 3) | sase-yy hood | completed 2, failed 1 |
+| [sase-yy.3](../bbugyi200.athena.sase-yy.3/README.md) | sase-yy hood | completed |
+| [sase-yy.4](../../families/bbugyi200.athena.sase-yy.4.md) (family · 3) | sase-yy hood | completed 2, failed 1 |
+| [sase-yy.5](../../families/bbugyi200.athena.sase-yy.5.md) (family · 5) | sase-yy hood | completed 1, dismissed 1, failed 3 |
+| [sase-yy.7](../bbugyi200.athena.sase-yy.7/README.md) | sase-yy hood | active |
+| [sase-yy.land](../bbugyi200.athena.sase-yy.land/README.md) | sase-yy hood | waiting |
