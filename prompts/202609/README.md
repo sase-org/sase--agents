@@ -32,6 +32,7 @@
 | [0he.md](0he.md) | fork:0he %model:gpt-5.5 %effort:xhigh | - | [bbugyi200.athena.0he--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0he.md) | 0 |
 | [0hf.md](0hf.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/remove_toobig_queue_priority.md][1] | - | [bbugyi200.athena.0hf--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0hf.md) | 1 |
 | [0hh.f0.md](0hh.f0.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/unknown_feature_flag_cleanup.md][1] | - | [bbugyi200.athena.0hh.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0hh.f0.md) | 1 |
+| [0hl.md](0hl.md) | fork:0hl %model:gpt-5.5 %effort:high | - | [bbugyi200.athena.0hl--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0hl.md) | 0 |
 | [0ht.md](0ht.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0ht--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0ht.md) | 1 |
 | [0hz.md](0hz.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/research_swarm_runners.md][1] | - | [bbugyi200.athena.0hz--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0hz.md) | 1 |
 | [0i1.md](0i1.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/prompt_stack_swarm_wait.md][1] | - | [bbugyi200.athena.0i1--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0i1.md) | 1 |
