@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-54](../../users/bbugyi200/machines/athena/hoods/toobig-54/README.md) / toobig-54.machines\_pane.0
 
-**Global name:** `bbugyi200.athena.toobig-54.machines_pane.0` · **State:** waiting · **Source run:** `run-b6cf25f0a6a58e648a5d36e0c94b7a29`
+**Global name:** `bbugyi200.athena.toobig-54.machines_pane.0` · **State:** completed · **Source run:** `run-b6cf25f0a6a58e648a5d36e0c94b7a29`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-54
 
@@ -10,19 +10,25 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260910080553
-- Commits: 0
+- Timing: 2026-09-10T18:11:31.132489+00:00 → 2026-09-10T18:47:18.286543+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9378903`](https://github.com/sase-org/sase/commit/93789035bbff78e168c06ee9bdfa089e9cf87411) | refactor(tui): split machines pane helpers | 2026-09-10 14:44:42 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-54.agent\_list\_build.0](../bbugyi200.athena.toobig-54.agent_list_build.0/README.md) | toobig-54 hood | waiting |
-| [toobig-54.fleet.0](../bbugyi200.athena.toobig-54.fleet.0/README.md) | toobig-54 hood | active |
+| [toobig-54.agent\_list\_build.0](../bbugyi200.athena.toobig-54.agent_list_build.0/README.md) | toobig-54 hood | active |
+| [toobig-54.fleet.0](../bbugyi200.athena.toobig-54.fleet.0/README.md) | toobig-54 hood | completed |
 | [toobig-54.fleet\_fixture.0](../bbugyi200.athena.toobig-54.fleet_fixture.0/README.md) | toobig-54 hood | waiting |
 | [toobig-54.test\_agent\_display\_diff.0](../bbugyi200.athena.toobig-54.test_agent_display_diff.0/README.md) | toobig-54 hood | waiting |
 | [toobig-54.test\_cli\_work\_from\_plan\_publication.0](../bbugyi200.athena.toobig-54.test_cli_work_from_plan_publication.0/README.md) | toobig-54 hood | waiting |

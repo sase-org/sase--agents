@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-cbe566d33b77a9d432401a613187c5df"}
+{"commits":[{"committed_at":1789073601,"sha":"16001bb368d7a24de1ac0ee4743b6d511eef7b62","subject":"refactor(tui): split agent list build helpers"}],"schema_version":2,"source_run_id":"run-cbe566d33b77a9d432401a613187c5df"}

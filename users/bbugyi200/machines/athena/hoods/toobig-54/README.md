@@ -2,15 +2,15 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / toobig-54
 
-**Global hood:** `bbugyi200.athena.toobig-54` · **Runs:** 8 · **Families:** 0 · **States:** active 1, waiting 7
+**Global hood:** `bbugyi200.athena.toobig-54` · **Runs:** 8 · **Families:** 0 · **States:** active 1, completed 2, waiting 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [toobig-54.fleet.0](../../../../../../agents/bbugyi200.athena.toobig-54.fleet.0/README.md) | active | gpt-5.5 / codex | 2026-09-10T13:45:20.075330+00:00 | 2 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-54.fleet.0/prompt.md) |
+| [toobig-54.fleet.0](../../../../../../agents/bbugyi200.athena.toobig-54.fleet.0/README.md) | completed | gpt-5.5 / codex | 2026-09-10T13:45:20.075330+00:00 → 2026-09-10T14:43:08.734530+00:00 | 2 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-54.fleet.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-54.fleet.0/chat.md) |
 | [toobig-54.fleet\_fixture.0](../../../../../../agents/bbugyi200.athena.toobig-54.fleet_fixture.0/README.md) | waiting | gpt-5.5 / codex | 20260910080720 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-54.fleet_fixture.0/prompt.md) |
 | [toobig-54.test\_core\_agent\_launch\_wire.0](../../../../../../agents/bbugyi200.athena.toobig-54.test_core_agent_launch_wire.0/README.md) | waiting | gpt-5.5 / codex | 20260910080808 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-54.test_core_agent_launch_wire.0/prompt.md) |
 | [toobig-54.test\_cli\_work\_from\_plan\_publication.0](../../../../../../agents/bbugyi200.athena.toobig-54.test_cli_work_from_plan_publication.0/README.md) | waiting | gpt-5.5 / codex | 20260910080753 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-54.test_cli_work_from_plan_publication.0/prompt.md) |
 | [toobig-54.test\_agent\_display\_diff.0](../../../../../../agents/bbugyi200.athena.toobig-54.test_agent_display_diff.0/README.md) | waiting | gpt-5.5 / codex | 20260910080736 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-54.test_agent_display_diff.0/prompt.md) |
 | [toobig-54.test\_run\_agent\_runner\_slot\_capacity.0](../../../../../../agents/bbugyi200.athena.toobig-54.test_run_agent_runner_slot_capacity.0/README.md) | waiting | gpt-5.5 / codex | 20260910080823 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-54.test_run_agent_runner_slot_capacity.0/prompt.md) |
-| [toobig-54.machines\_pane.0](../../../../../../agents/bbugyi200.athena.toobig-54.machines_pane.0/README.md) | waiting | gpt-5.5 / codex | 20260910080553 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-54.machines_pane.0/prompt.md) |
-| [toobig-54.agent\_list\_build.0](../../../../../../agents/bbugyi200.athena.toobig-54.agent_list_build.0/README.md) | waiting | gpt-5.5 / codex | 20260910080704 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-54.agent_list_build.0/prompt.md) |
+| [toobig-54.machines\_pane.0](../../../../../../agents/bbugyi200.athena.toobig-54.machines_pane.0/README.md) | completed | gpt-5.5 / codex | 2026-09-10T18:11:31.132489+00:00 → 2026-09-10T18:47:18.286543+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-54.machines_pane.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-54.machines_pane.0/chat.md) |
+| [toobig-54.agent\_list\_build.0](../../../../../../agents/bbugyi200.athena.toobig-54.agent_list_build.0/README.md) | active | gpt-5.5 / codex | 2026-09-10T20:29:47.679079+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-54.agent_list_build.0/prompt.md) |

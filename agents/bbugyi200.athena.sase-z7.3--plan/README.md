@@ -25,4 +25,4 @@
 |---|---|---|
 | [sase-z7.1](../bbugyi200.athena.sase-z7.1/README.md) | sase-z7 hood | completed |
 | [sase-z7.2](../bbugyi200.athena.sase-z7.2/README.md) | sase-z7 hood | completed |
-| [sase-z7.land](../bbugyi200.athena.sase-z7.land/README.md) | sase-z7 hood | waiting |
+| [sase-z7.land](../bbugyi200.athena.sase-z7.land/README.md) | sase-z7 hood | completed |
