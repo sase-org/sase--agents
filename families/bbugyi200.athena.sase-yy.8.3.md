@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-yy.8.3--code | active | gpt-5.5 / codex | 2026-09-10T20:56:34.925815+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-yy.8.3--code | active | gpt-5.5 / codex | 2026-09-10T20:56:34.925815+00:00 | [1](../agents/bbugyi200.athena.sase-yy.8.3--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | sase-yy.8.3--gate | failed | gpt-5.6-sol / codex | 2026-09-10T20:56:04.218597+00:00 → 2026-09-10T20:56:15.116569+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-yy.8.3--gate/chat.md) |
 | <a id="member-plan"></a>plan | sase-yy.8.3--plan | active | gpt-5.6-sol / codex | 2026-09-10T20:49:28.006829+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-yy.8.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-yy.8.3--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`840824c`](https://github.com/sase-org/sase/commit/840824c5bb71a9d78e46ee446625f47cdea0b7d4) | feat(sdd): reconcile artifact link event unions | 2026-09-10 17:53:38 EDT |
 
 ## Neighbors
 
