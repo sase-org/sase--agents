@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1e5bb9c1d9a99e01fc9be992c3d4f45f"}
+{"commits":[{"committed_at":1789059456,"sha":"4f6eb2b173aacb3f4aeb954753fb57aefcb01f10","subject":"deps(core): ratchet weighted capacity floor"}],"schema_version":2,"source_run_id":"run-1e5bb9c1d9a99e01fc9be992c3d4f45f"}
