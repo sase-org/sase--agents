@@ -26,4 +26,4 @@
 | [toobig-53.test\_ace\_png\_snapshots\_model\_completion.0](../bbugyi200.athena.toobig-53.test_ace_png_snapshots_model_completion.0/README.md) | toobig-53 hood | waiting |
 | [toobig-53.test\_checks\_providers.0](../bbugyi200.athena.toobig-53.test_checks_providers.0/README.md) | toobig-53 hood | waiting |
 | [toobig-53.test\_machine\_init.0](../bbugyi200.athena.toobig-53.test_machine_init.0/README.md) | toobig-53 hood | waiting |
-| [toobig-53.trail\_chrome.0](../bbugyi200.athena.toobig-53.trail_chrome.0/README.md) | toobig-53 hood | waiting |
+| [toobig-53.trail\_chrome.0](../bbugyi200.athena.toobig-53.trail_chrome.0/README.md) | toobig-53 hood | active |

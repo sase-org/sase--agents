@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `toobig-53` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["toobig-53.file_completion_accept.0--1 [active]"]
+  n0["toobig-53.file_completion_accept.0--1 [completed]"]
   n1["toobig-53.file_completion_accept.0--mon [failed]"]
   n0 --> n1
   n2["toobig-53.file_completion_accept.0--plan [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | toobig-53.file\_completion\_accept.0--1 | active | grok-4.6 / grok | 2026-09-10T08:36:24.290271+00:00 | [1](../agents/bbugyi200.athena.toobig-53.file_completion_accept.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-53.file_completion_accept.0--1/prompt.md) | — |
+| <a id="member-1"></a>1 | toobig-53.file\_completion\_accept.0--1 | completed | grok-4.6 / grok | 2026-09-10T08:36:24.290271+00:00 → 2026-09-10T08:40:03.308341+00:00 | [1](../agents/bbugyi200.athena.toobig-53.file_completion_accept.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-53.file_completion_accept.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-53.file_completion_accept.0--1/chat.md) |
 | <a id="member-mon"></a>mon | toobig-53.file\_completion\_accept.0--mon | failed | grok-4.6 / grok | 2026-09-10T08:29:01.943471+00:00 → 2026-09-10T08:36:00.577340+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-53.file_completion_accept.0--mon/chat.md) |
 | <a id="member-plan"></a>plan | toobig-53.file\_completion\_accept.0--plan | completed | grok-4.6 / grok | 2026-09-10T08:20:44.276709+00:00 → 2026-09-10T08:29:12.316195+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-53.file_completion_accept.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-53.file_completion_accept.0--plan/chat.md) |
 
@@ -38,4 +38,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [toobig-53.test\_ace\_png\_snapshots\_model\_completion.0](../agents/bbugyi200.athena.toobig-53.test_ace_png_snapshots_model_completion.0/README.md) | toobig-53 hood | waiting |
 | [toobig-53.test\_checks\_providers.0](../agents/bbugyi200.athena.toobig-53.test_checks_providers.0/README.md) | toobig-53 hood | waiting |
 | [toobig-53.test\_machine\_init.0](../agents/bbugyi200.athena.toobig-53.test_machine_init.0/README.md) | toobig-53 hood | waiting |
-| [toobig-53.trail\_chrome.0](../agents/bbugyi200.athena.toobig-53.trail_chrome.0/README.md) | toobig-53 hood | waiting |
+| [toobig-53.trail\_chrome.0](../agents/bbugyi200.athena.toobig-53.trail_chrome.0/README.md) | toobig-53 hood | active |
