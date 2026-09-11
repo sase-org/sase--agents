@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-55](../../users/bbugyi200/machines/athena/hoods/toobig-55/README.md) / toobig-55.update\_handler.0
 
-**Global name:** `bbugyi200.athena.toobig-55.update_handler.0` · **State:** waiting · **Source run:** `run-c0b0e9291e614f3a2a1844fb9f08a3e3`
+**Global name:** `bbugyi200.athena.toobig-55.update_handler.0` · **State:** active · **Source run:** `run-c0b0e9291e614f3a2a1844fb9f08a3e3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-55
 
@@ -10,18 +10,24 @@
 
 - Model: sonnet
 - Provider: claude
-- Timing: 20260910205804
-- Commits: 0
+- Timing: 2026-09-11T01:57:34.902182+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`843e4b8`](https://github.com/sase-org/sase/commit/843e4b8b84424c0c2bd004ef87b2281a020c6c5d) | refactor(update): split update\_handler.py into focused modules | 2026-09-10 22:11:49 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-55.install.0](../bbugyi200.athena.toobig-55.install.0/README.md) | toobig-55 hood | active |
+| [toobig-55.install.0](../bbugyi200.athena.toobig-55.install.0/README.md) | toobig-55 hood | completed |
 | [toobig-55.link\_health.0](../bbugyi200.athena.toobig-55.link_health.0/README.md) | toobig-55 hood | completed |
 | [toobig-55.prompt\_input\_bar.0](../bbugyi200.athena.toobig-55.prompt_input_bar.0/README.md) | toobig-55 hood | completed |
 | [toobig-55.test\_agent\_groups\_grouping\_mode\_tree\_status.0](../bbugyi200.athena.toobig-55.test_agent_groups_grouping_mode_tree_status.0/README.md) | toobig-55 hood | waiting |
