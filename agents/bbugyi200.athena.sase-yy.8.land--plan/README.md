@@ -28,8 +28,8 @@
 | [sase-yy.8.4](../../families/bbugyi200.athena.sase-yy.8.4.md) (family · 3) | sase-yy.8 hood | completed 2, failed 1 |
 | [sase-yy.8.5](../../families/bbugyi200.athena.sase-yy.8.5.md) (family · 3) | sase-yy.8 hood | completed 2, failed 1 |
 | [sase-yy.8.6.1](../bbugyi200.athena.sase-yy.8.6.1/README.md) | sase-yy.8 hood | completed |
-| [sase-yy.8.6.2](../bbugyi200.athena.sase-yy.8.6.2/README.md) | sase-yy.8 hood | active |
-| [sase-yy.8.6.3](../bbugyi200.athena.sase-yy.8.6.3/README.md) | sase-yy.8 hood | waiting |
+| [sase-yy.8.6.2](../bbugyi200.athena.sase-yy.8.6.2/README.md) | sase-yy.8 hood | completed |
+| [sase-yy.8.6.3](../bbugyi200.athena.sase-yy.8.6.3/README.md) | sase-yy.8 hood | active |
 | [sase-yy.8.6.4](../bbugyi200.athena.sase-yy.8.6.4/README.md) | sase-yy.8 hood | waiting |
 | [sase-yy.8.6.5](../bbugyi200.athena.sase-yy.8.6.5/README.md) | sase-yy.8 hood | completed |
 | [sase-yy.8.6.6](../bbugyi200.athena.sase-yy.8.6.6/README.md) | sase-yy.8 hood | waiting |

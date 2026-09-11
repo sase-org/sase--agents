@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-yy](../../users/bbugyi200/machines/athena/hoods/sase-yy/README.md) / sase-yy.8.6.3
 
-**Global name:** `bbugyi200.athena.sase-yy.8.6.3` · **State:** waiting · **Source run:** `run-236dd1dbb2d73b21d0683ea6a6ba67c9`
+**Global name:** `bbugyi200.athena.sase-yy.8.6.3` · **State:** active · **Source run:** `run-236dd1dbb2d73b21d0683ea6a6ba67c9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-yy
 
@@ -11,19 +11,25 @@
 - Bead: [sase-yy.8.6.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-yy/sase-yy.8.6.3.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260911071031
-- Commits: 0
+- Timing: 2026-09-11T12:17:48.883337+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8f6e653`](https://github.com/sase-org/sase/commit/8f6e65361d1803160446bb3bdff16c061c7fa050) | test(sdd): cover bead projection convergence | 2026-09-11 08:56:55 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-yy.8.6.1](../bbugyi200.athena.sase-yy.8.6.1/README.md) | sase-yy.8.6 hood | completed |
-| [sase-yy.8.6.2](../bbugyi200.athena.sase-yy.8.6.2/README.md) | sase-yy.8.6 hood | active |
+| [sase-yy.8.6.2](../bbugyi200.athena.sase-yy.8.6.2/README.md) | sase-yy.8.6 hood | completed |
 | [sase-yy.8.6.4](../bbugyi200.athena.sase-yy.8.6.4/README.md) | sase-yy.8.6 hood | waiting |
 | [sase-yy.8.6.5](../bbugyi200.athena.sase-yy.8.6.5/README.md) | sase-yy.8.6 hood | completed |
 | [sase-yy.8.6.6](../bbugyi200.athena.sase-yy.8.6.6/README.md) | sase-yy.8.6 hood | waiting |
