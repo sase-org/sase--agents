@@ -23,6 +23,6 @@
 |---|---|---|
 | [toobig-58.agent\_launch\_wire.0](../bbugyi200.athena.toobig-58.agent_launch_wire.0/README.md) | toobig-58 hood | waiting |
 | [toobig-58.continuation.0](../bbugyi200.athena.toobig-58.continuation.0/README.md) | toobig-58 hood | waiting |
-| [toobig-58.continuation\_capture.0](../bbugyi200.athena.toobig-58.continuation_capture.0/README.md) | toobig-58 hood | waiting |
+| [toobig-58.continuation\_capture.0](../bbugyi200.athena.toobig-58.continuation_capture.0/README.md) | toobig-58 hood | active |
 | [toobig-58.test\_llm\_provider\_invoke.0](../bbugyi200.athena.toobig-58.test_llm_provider_invoke.0/README.md) | toobig-58 hood | waiting |
 | [toobig-58.test\_repo\_handler\_open.0](../bbugyi200.athena.toobig-58.test_repo_handler_open.0/README.md) | toobig-58 hood | waiting |

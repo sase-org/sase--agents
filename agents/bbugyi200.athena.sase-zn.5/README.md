@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-zn](../../users/bbugyi200/machines/athena/hoods/sase-zn/README.md) / sase-zn.5
 
-**Global name:** `bbugyi200.athena.sase-zn.5` · **State:** active · **Source run:** `run-3c91b19e14465a65031e4f6abf20e34e`
+**Global name:** `bbugyi200.athena.sase-zn.5` · **State:** completed · **Source run:** `run-3c91b19e14465a65031e4f6abf20e34e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-zn
 
@@ -12,12 +12,18 @@
 - Epic: [sase-zn](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zn/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-11T21:41:26.208493+00:00
-- Commits: 0
+- Timing: 2026-09-11T21:41:26.208493+00:00 → 2026-09-11T22:42:00.200783+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`62ad9b6`](https://github.com/sase-org/sase/commit/62ad9b657ccdb418033a5aa3b8b56b31a819a187) | fix(tui): bound artifact index reads | 2026-09-11 18:40:57 EDT |
 
 ## Neighbors
 

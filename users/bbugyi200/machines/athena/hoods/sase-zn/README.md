@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-zn
 
-**Global hood:** `bbugyi200.athena.sase-zn` · **Runs:** 9 · **Families:** 0 · **States:** active 1, completed 2, failed 2, waiting 4
+**Global hood:** `bbugyi200.athena.sase-zn` · **Runs:** 9 · **Families:** 0 · **States:** completed 3, failed 2, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-zn.5](../../../../../../agents/bbugyi200.athena.sase-zn.5/README.md) | active | gpt-5.5 / codex | 2026-09-11T21:41:26.208493+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-zn.5/prompt.md) |
+| [sase-zn.5](../../../../../../agents/bbugyi200.athena.sase-zn.5/README.md) | completed | gpt-5.5 / codex | 2026-09-11T21:41:26.208493+00:00 → 2026-09-11T22:42:00.200783+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-zn.5/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-zn.5/prompt.md) |
 | [sase-zn.1](../../../../../../agents/bbugyi200.athena.sase-zn.1/README.md) | failed | gpt-5.5 / codex | 2026-09-11T19:37:06.685423+00:00 → 2026-09-11T20:27:36.576036+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-zn.1/prompt.md) |
 | [sase-zn.6](../../../../../../agents/bbugyi200.athena.sase-zn.6/README.md) | waiting | grok-4.6 / grok | 20260911153614 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-zn.6/prompt.md) |
 | [sase-zn.7](../../../../../../agents/bbugyi200.athena.sase-zn.7/README.md) | waiting | grok-4.6 / grok | 20260911153615 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-zn.7/prompt.md) |
