@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-417acb9f3353fd09dee346e755593a69"}
+{"commits":[{"committed_at":1789136308,"sha":"e2c5c284a59f457d88def510d93ccdd7838500fc","subject":"test(artifact-links): cover acceptance recovery paths"}],"schema_version":2,"source_run_id":"run-417acb9f3353fd09dee346e755593a69"}
