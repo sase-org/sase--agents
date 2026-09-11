@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-55](../../users/bbugyi200/machines/athena/hoods/toobig-55/README.md) / toobig-55.test\_agent\_runner\_slots.0
 
-**Global name:** `bbugyi200.athena.toobig-55.test_agent_runner_slots.0` · **State:** waiting · **Source run:** `run-0e474be198e1a073c0e7645a256c3881`
+**Global name:** `bbugyi200.athena.toobig-55.test_agent_runner_slots.0` · **State:** active · **Source run:** `run-0e474be198e1a073c0e7645a256c3881`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-55
 
@@ -10,12 +10,18 @@
 
 - Model: sonnet
 - Provider: claude
-- Timing: 20260910205837
-- Commits: 0
+- Timing: 2026-09-11T02:38:36.170664+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`b10a94c`](https://github.com/sase-org/sase/commit/b10a94cc203dc5adf38db9f9e2ef899f403571c5) | test(ace): split test\_agent\_runner\_slots.py into topic files | 2026-09-10 22:53:16 EDT |
 
 ## Neighbors
 
@@ -24,7 +30,7 @@
 | [toobig-55.install.0](../bbugyi200.athena.toobig-55.install.0/README.md) | toobig-55 hood | completed |
 | [toobig-55.link\_health.0](../bbugyi200.athena.toobig-55.link_health.0/README.md) | toobig-55 hood | completed |
 | [toobig-55.prompt\_input\_bar.0](../bbugyi200.athena.toobig-55.prompt_input_bar.0/README.md) | toobig-55 hood | completed |
-| [toobig-55.test\_agent\_groups\_grouping\_mode\_tree\_status.0](../bbugyi200.athena.toobig-55.test_agent_groups_grouping_mode_tree_status.0/README.md) | toobig-55 hood | active |
+| [toobig-55.test\_agent\_groups\_grouping\_mode\_tree\_status.0](../bbugyi200.athena.toobig-55.test_agent_groups_grouping_mode_tree_status.0/README.md) | toobig-55 hood | completed |
 | [toobig-55.test\_agents\_tab\_incomplete\_merge.0](../bbugyi200.athena.toobig-55.test_agents_tab_incomplete_merge.0/README.md) | toobig-55 hood | waiting |
 | [toobig-55.test\_artifact\_link\_event\_acceptance.0](../bbugyi200.athena.toobig-55.test_artifact_link_event_acceptance.0/README.md) | toobig-55 hood | waiting |
 | [toobig-55.test\_fleet\_agents.0](../bbugyi200.athena.toobig-55.test_fleet_agents.0/README.md) | toobig-55 hood | waiting |
