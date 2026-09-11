@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-54](../../users/bbugyi200/machines/athena/hoods/toobig-54/README.md) / toobig-54.test\_agent\_display\_diff.0
 
-**Global name:** `bbugyi200.athena.toobig-54.test_agent_display_diff.0` · **State:** active · **Source run:** `run-72d22e7aadfd474a3fe5551555e1ef72`
+**Global name:** `bbugyi200.athena.toobig-54.test_agent_display_diff.0` · **State:** completed · **Source run:** `run-72d22e7aadfd474a3fe5551555e1ef72`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-54
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-10T23:40:29.229027+00:00
+- Timing: 2026-09-10T23:40:29.229027+00:00 → 2026-09-11T00:05:06.508551+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -31,6 +31,6 @@
 | [toobig-54.fleet.0](../bbugyi200.athena.toobig-54.fleet.0/README.md) | toobig-54 hood | completed |
 | [toobig-54.fleet\_fixture.0](../bbugyi200.athena.toobig-54.fleet_fixture.0/README.md) | toobig-54 hood | completed |
 | [toobig-54.machines\_pane.0](../bbugyi200.athena.toobig-54.machines_pane.0/README.md) | toobig-54 hood | completed |
-| [toobig-54.test\_cli\_work\_from\_plan\_publication.0](../bbugyi200.athena.toobig-54.test_cli_work_from_plan_publication.0/README.md) | toobig-54 hood | waiting |
-| [toobig-54.test\_core\_agent\_launch\_wire.0](../bbugyi200.athena.toobig-54.test_core_agent_launch_wire.0/README.md) | toobig-54 hood | waiting |
-| [toobig-54.test\_run\_agent\_runner\_slot\_capacity.0](../bbugyi200.athena.toobig-54.test_run_agent_runner_slot_capacity.0/README.md) | toobig-54 hood | waiting |
+| [toobig-54.test\_cli\_work\_from\_plan\_publication.0](../bbugyi200.athena.toobig-54.test_cli_work_from_plan_publication.0/README.md) | toobig-54 hood | completed |
+| [toobig-54.test\_core\_agent\_launch\_wire.0](../bbugyi200.athena.toobig-54.test_core_agent_launch_wire.0/README.md) | toobig-54 hood | completed |
+| [toobig-54.test\_run\_agent\_runner\_slot\_capacity.0](../bbugyi200.athena.toobig-54.test_run_agent_runner_slot_capacity.0/README.md) | toobig-54 hood | active |

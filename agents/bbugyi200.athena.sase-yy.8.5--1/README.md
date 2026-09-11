@@ -1,0 +1,44 @@
+# Agent: sase-yy.8.5--1
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-yy](../../users/bbugyi200/machines/athena/hoods/sase-yy/README.md) / [sase-yy.8.5](../../families/bbugyi200.athena.sase-yy.8.5.md) / sase-yy.8.5--1
+
+**Global name:** `bbugyi200.athena.sase-yy.8.5--1` · **State:** completed · **Source run:** `run-5c578c2e437f5cfeec5eb873fe5bba48`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-yy
+
+## Summary
+
+- Bead: [sase-yy.8.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-yy/sase-yy.8.5.md)
+- Model: sonnet
+- Provider: claude
+- Timing: 2026-09-11T00:26:17.185684+00:00 → 2026-09-11T00:32:09.166411+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8eabf9e`](https://github.com/sase-org/sase/commit/8eabf9ecf82518d960cadb41f9cc17318e6d6558) | test(artifact-links): cover process death, mutation isolation, and cutover resume | 2026-09-10 20:28:17 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-yy.8.1](../bbugyi200.athena.sase-yy.8.1/README.md) | sase-yy.8 hood | completed |
+| [sase-yy.8.2](../../families/bbugyi200.athena.sase-yy.8.2.md) (family · 3) | sase-yy.8 hood | completed 2, failed 1 |
+| [sase-yy.8.3](../../families/bbugyi200.athena.sase-yy.8.3.md) (family · 3) | sase-yy.8 hood | completed 2, failed 1 |
+| [sase-yy.8.4](../../families/bbugyi200.athena.sase-yy.8.4.md) (family · 3) | sase-yy.8 hood | completed 2, failed 1 |
+| [sase-yy.8.land](../../families/bbugyi200.athena.sase-yy.8.land.md) (family · 3) | sase-yy.8 hood | active 1, completed 1, failed 1 |
+| [sase-yy.1](../../families/bbugyi200.athena.sase-yy.1.md) (family · 3) | sase-yy hood | completed 2, failed 1 |
+| [sase-yy.2](../../families/bbugyi200.athena.sase-yy.2.md) (family · 3) | sase-yy hood | completed 2, failed 1 |
+| [sase-yy.3](../bbugyi200.athena.sase-yy.3/README.md) | sase-yy hood | completed |
+| [sase-yy.4](../../families/bbugyi200.athena.sase-yy.4.md) (family · 3) | sase-yy hood | completed 2, failed 1 |
+| [sase-yy.5](../../families/bbugyi200.athena.sase-yy.5.md) (family · 5) | sase-yy hood | active 1, completed 1, failed 3 |
+| [sase-yy.6](../../families/bbugyi200.athena.sase-yy.6.md) (family · 3) | sase-yy hood | completed 2, failed 1 |
+| [sase-yy.6](../bbugyi200.athena.sase-yy.6/README.md) | sase-yy hood | waiting |
+| [sase-yy.7](../bbugyi200.athena.sase-yy.7/README.md) | sase-yy hood | completed |
+| [sase-yy.land](../../families/bbugyi200.athena.sase-yy.land.md) (family · 3) | sase-yy hood | failed 3 |

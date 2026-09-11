@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-yy.8.4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_yy_8_4__plan-260910_142838.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_yy_8_4__code-260910_142838.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/cutover_recovery.md
 
 

@@ -31,9 +31,9 @@
 |---|---|---|
 | [sase-yy.8.1](../bbugyi200.athena.sase-yy.8.1/README.md) | sase-yy.8 hood | completed |
 | [sase-yy.8.3](../../families/bbugyi200.athena.sase-yy.8.3.md) (family · 3) | sase-yy.8 hood | completed 2, failed 1 |
-| [sase-yy.8.4](../../families/bbugyi200.athena.sase-yy.8.4.md) (family · 3) | sase-yy.8 hood | active 2, failed 1 |
-| [sase-yy.8.5](../bbugyi200.athena.sase-yy.8.5/README.md) | sase-yy.8 hood | waiting |
-| [sase-yy.8.land](../bbugyi200.athena.sase-yy.8.land/README.md) | sase-yy.8 hood | waiting |
+| [sase-yy.8.4](../../families/bbugyi200.athena.sase-yy.8.4.md) (family · 3) | sase-yy.8 hood | completed 2, failed 1 |
+| [sase-yy.8.5](../../families/bbugyi200.athena.sase-yy.8.5.md) (family · 3) | sase-yy.8 hood | completed 2, failed 1 |
+| [sase-yy.8.land](../../families/bbugyi200.athena.sase-yy.8.land.md) (family · 3) | sase-yy.8 hood | active 1, completed 1, failed 1 |
 | [sase-yy.1](../../families/bbugyi200.athena.sase-yy.1.md) (family · 3) | sase-yy hood | completed 2, failed 1 |
 | [sase-yy.2](../../families/bbugyi200.athena.sase-yy.2.md) (family · 3) | sase-yy hood | completed 2, failed 1 |
 | [sase-yy.3](../bbugyi200.athena.sase-yy.3/README.md) | sase-yy hood | completed |
