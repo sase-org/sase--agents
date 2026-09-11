@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-xe` · Members: 3 · Bead: [sase-xe.16.
 
 ```mermaid
 flowchart TD
-  n0["sase-xe.16.11.7.14.5--plan [active]"]
-  n1["sase-xe.16.11.7.14.5--1 [active]"]
+  n0["sase-xe.16.11.7.14.5--plan [completed]"]
+  n1["sase-xe.16.11.7.14.5--1 [completed]"]
   n0 --> n1
   n2["sase-xe.16.11.7.14.5--gate [failed]"]
   n0 --> n2
@@ -19,8 +19,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-xe.16.11.7.14.5--plan | active | sonnet / claude | 2026-09-10T23:10:47.817523+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.16.11.7.14.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.11.7.14.5--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-xe.16.11.7.14.5--1 | active | sonnet / claude | 2026-09-10T23:14:34.580127+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-xe.16.11.7.14.5--plan | completed | sonnet / claude | 2026-09-10T23:10:47.817523+00:00 → 2026-09-10T23:40:56.378247+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.16.11.7.14.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.11.7.14.5--plan/chat.md) |
+| <a id="member-1"></a>1 | sase-xe.16.11.7.14.5--1 | completed | sonnet / claude | 2026-09-10T23:14:34.580127+00:00 → 2026-09-10T23:40:56.378247+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.11.7.14.5--1/chat.md) |
 | <a id="member-gate"></a>gate | sase-xe.16.11.7.14.5--gate | failed | sonnet / claude | 2026-09-10T23:14:23.735910+00:00 → 2026-09-10T23:14:25.397228+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.11.7.14.5--gate/chat.md) |
 
 ## Neighbors
@@ -31,7 +31,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-xe.16.11.7.14.2](../agents/bbugyi200.athena.sase-xe.16.11.7.14.2/README.md) | sase-xe.16.11.7.14 hood | completed |
 | [sase-xe.16.11.7.14.3](../agents/bbugyi200.athena.sase-xe.16.11.7.14.3/README.md) | sase-xe.16.11.7.14 hood | completed |
 | [sase-xe.16.11.7.14.4](../agents/bbugyi200.athena.sase-xe.16.11.7.14.4/README.md) | sase-xe.16.11.7.14 hood | completed |
-| [sase-xe.16.11.7.14.land](../agents/bbugyi200.athena.sase-xe.16.11.7.14.land/README.md) | sase-xe.16.11.7.14 hood | waiting |
+| [sase-xe.16.11.7.14.6.1](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.1/README.md) | sase-xe.16.11.7.14 hood | active |
+| [sase-xe.16.11.7.14.6.2](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.2/README.md) | sase-xe.16.11.7.14 hood | waiting |
+| [sase-xe.16.11.7.14.6.3](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.3/README.md) | sase-xe.16.11.7.14 hood | waiting |
+| [sase-xe.16.11.7.14.6.4](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.4/README.md) | sase-xe.16.11.7.14 hood | waiting |
+| [sase-xe.16.11.7.14.6.5](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.5/README.md) | sase-xe.16.11.7.14 hood | waiting |
+| [sase-xe.16.11.7.14.6.6](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.6/README.md) | sase-xe.16.11.7.14 hood | waiting |
+| [sase-xe.16.11.7.14.6.land](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.land/README.md) | sase-xe.16.11.7.14 hood | waiting |
+| [sase-xe.16.11.7.14.land](bbugyi200.athena.sase-xe.16.11.7.14.land.md) (family · 3) | sase-xe.16.11.7.14 hood | failed 3 |
 | [sase-xe.16.11.7.1](../agents/bbugyi200.athena.sase-xe.16.11.7.1/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.10](../agents/bbugyi200.athena.sase-xe.16.11.7.10/README.md) | sase-xe.16.11.7 hood | active |
 | [sase-xe.16.11.7.11](../agents/bbugyi200.athena.sase-xe.16.11.7.11/README.md) | sase-xe.16.11.7 hood | completed |

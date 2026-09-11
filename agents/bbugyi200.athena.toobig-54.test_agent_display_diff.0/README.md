@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-54](../../users/bbugyi200/machines/athena/hoods/toobig-54/README.md) / toobig-54.test\_agent\_display\_diff.0
 
-**Global name:** `bbugyi200.athena.toobig-54.test_agent_display_diff.0` · **State:** waiting · **Source run:** `run-72d22e7aadfd474a3fe5551555e1ef72`
+**Global name:** `bbugyi200.athena.toobig-54.test_agent_display_diff.0` · **State:** active · **Source run:** `run-72d22e7aadfd474a3fe5551555e1ef72`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-54
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260910080736
-- Commits: 0
+- Timing: 2026-09-10T23:40:29.229027+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`eb48ee9`](https://github.com/sase-org/sase/commit/eb48ee95a7237ac431a83a07709bef33d96aeef2) | test(ace): split agent display diff tests | 2026-09-10 20:02:44 EDT |
 
 ## Neighbors
 
