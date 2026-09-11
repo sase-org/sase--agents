@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-ud.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ud/sase-ud.2.md)
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-26T19:51:13.791819+00:00 → 2026-08-26T19:56:19.140825+00:00

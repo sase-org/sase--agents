@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-op.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-op/sase-op.2.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-17T12:04:16

@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-y5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-y5/sase-y5.1.md)
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-09-07T16:11:16.870314 → 2026-09-07T16:58:22.516102

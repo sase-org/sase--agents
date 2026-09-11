@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-il.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-il/sase-il.3.md)
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-09T16:49:40.225079 → 2026-08-09T17:45:15.528610
