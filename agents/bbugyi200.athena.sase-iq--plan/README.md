@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-iq](https://github.com/sase-org/sase--beads/blob/main/pages/sase-iq/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-08-10T10:11:44.697024 → 2026-08-10T10:28:58.099604

@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-ud.13.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ud/sase-ud.13.1.2.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-27T15:02:40.310574+00:00
