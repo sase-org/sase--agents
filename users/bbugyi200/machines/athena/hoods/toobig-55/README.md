@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / toobig-55
 
-**Global hood:** `bbugyi200.athena.toobig-55` · **Runs:** 14 · **Families:** 0 · **States:** active 1, completed 1, waiting 12
+**Global hood:** `bbugyi200.athena.toobig-55` · **Runs:** 14 · **Families:** 0 · **States:** active 1, completed 2, waiting 11
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [toobig-55.install.0](../../../../../../agents/bbugyi200.athena.toobig-55.install.0/README.md) | waiting | gpt-5.5 / codex | 20260910205749 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-55.install.0/prompt.md) |
+| [toobig-55.install.0](../../../../../../agents/bbugyi200.athena.toobig-55.install.0/README.md) | active | gpt-5.5 / codex | 2026-09-11T01:33:20.719900+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-55.install.0/prompt.md) |
 | [toobig-55.test\_agent\_runner\_slots.0](../../../../../../agents/bbugyi200.athena.toobig-55.test_agent_runner_slots.0/README.md) | waiting | sonnet / claude | 20260910205837 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-55.test_agent_runner_slots.0/prompt.md) |
 | [toobig-55.test\_fleet\_agents.0](../../../../../../agents/bbugyi200.athena.toobig-55.test_fleet_agents.0/README.md) | waiting | gpt-5.5 / codex | 20260910205852 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-55.test_fleet_agents.0/prompt.md) |
 | [toobig-55.test\_monitor\_gate\_capacity\_e2e.0](../../../../../../agents/bbugyi200.athena.toobig-55.test_monitor_gate_capacity_e2e.0/README.md) | waiting | sonnet / claude | 20260910205907 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-55.test_monitor_gate_capacity_e2e.0/prompt.md) |
@@ -19,4 +19,4 @@
 | [toobig-55.test\_agents\_tab\_incomplete\_merge.0](../../../../../../agents/bbugyi200.athena.toobig-55.test_agents_tab_incomplete_merge.0/README.md) | waiting | gpt-5.5 / codex | 20260910205952 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-55.test_agents_tab_incomplete_merge.0/prompt.md) |
 | [toobig-55.test\_llm\_provider\_usage\_limit\_disable.0](../../../../../../agents/bbugyi200.athena.toobig-55.test_llm_provider_usage_limit_disable.0/README.md) | waiting | sonnet / claude | 20260910210011 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-55.test_llm_provider_usage_limit_disable.0/prompt.md) |
 | [toobig-55.update\_handler.0](../../../../../../agents/bbugyi200.athena.toobig-55.update_handler.0/README.md) | waiting | sonnet / claude | 20260910205804 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-55.update_handler.0/prompt.md) |
-| [toobig-55.link\_health.0](../../../../../../agents/bbugyi200.athena.toobig-55.link_health.0/README.md) | active | sonnet / claude | 2026-09-11T01:15:49.467790+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-55.link_health.0/prompt.md) |
+| [toobig-55.link\_health.0](../../../../../../agents/bbugyi200.athena.toobig-55.link_health.0/README.md) | completed | sonnet / claude | 2026-09-11T01:15:49.467790+00:00 → 2026-09-11T01:32:38.539431+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-55.link_health.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-55.link_health.0/chat.md) |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-04883ea004cf9839e6c9711fc9019938"}
+{"commits":[{"committed_at":1789091558,"sha":"3c2bd38cb55fa7b06ffa6244ea0119371028f573","subject":"refactor(completion): split install helpers"}],"schema_version":2,"source_run_id":"run-04883ea004cf9839e6c9711fc9019938"}

@@ -21,8 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-55.install.0](../bbugyi200.athena.toobig-55.install.0/README.md) | toobig-55 hood | waiting |
-| [toobig-55.link\_health.0](../bbugyi200.athena.toobig-55.link_health.0/README.md) | toobig-55 hood | active |
+| [toobig-55.install.0](../bbugyi200.athena.toobig-55.install.0/README.md) | toobig-55 hood | active |
+| [toobig-55.link\_health.0](../bbugyi200.athena.toobig-55.link_health.0/README.md) | toobig-55 hood | completed |
 | [toobig-55.prompt\_input\_bar.0](../bbugyi200.athena.toobig-55.prompt_input_bar.0/README.md) | toobig-55 hood | completed |
 | [toobig-55.test\_agent\_groups\_grouping\_mode\_tree\_status.0](../bbugyi200.athena.toobig-55.test_agent_groups_grouping_mode_tree_status.0/README.md) | toobig-55 hood | waiting |
 | [toobig-55.test\_agent\_runner\_slots.0](../bbugyi200.athena.toobig-55.test_agent_runner_slots.0/README.md) | toobig-55 hood | waiting |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-55](../../users/bbugyi200/machines/athena/hoods/toobig-55/README.md) / toobig-55.install.0
 
-**Global name:** `bbugyi200.athena.toobig-55.install.0` · **State:** waiting · **Source run:** `run-04883ea004cf9839e6c9711fc9019938`
+**Global name:** `bbugyi200.athena.toobig-55.install.0` · **State:** active · **Source run:** `run-04883ea004cf9839e6c9711fc9019938`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-55
 
@@ -10,18 +10,24 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260910205749
-- Commits: 0
+- Timing: 2026-09-11T01:33:20.719900+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3c2bd38`](https://github.com/sase-org/sase/commit/3c2bd38cb55fa7b06ffa6244ea0119371028f573) | refactor(completion): split install helpers | 2026-09-10 21:52:38 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-55.link\_health.0](../bbugyi200.athena.toobig-55.link_health.0/README.md) | toobig-55 hood | active |
+| [toobig-55.link\_health.0](../bbugyi200.athena.toobig-55.link_health.0/README.md) | toobig-55 hood | completed |
 | [toobig-55.prompt\_input\_bar.0](../bbugyi200.athena.toobig-55.prompt_input_bar.0/README.md) | toobig-55 hood | completed |
 | [toobig-55.test\_agent\_groups\_grouping\_mode\_tree\_status.0](../bbugyi200.athena.toobig-55.test_agent_groups_grouping_mode_tree_status.0/README.md) | toobig-55 hood | waiting |
 | [toobig-55.test\_agent\_runner\_slots.0](../bbugyi200.athena.toobig-55.test_agent_runner_slots.0/README.md) | toobig-55 hood | waiting |
