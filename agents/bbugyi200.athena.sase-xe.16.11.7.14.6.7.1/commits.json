@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7a3aac0ac3a89f92c044ee8cce0fd773"}
+{"commits":[{"committed_at":1789139645,"sha":"5428b994392987a7155d9661112ae6fba7aac67e","subject":"fix(agent-launch): preserve workspace and remote targeting through approved admission"}],"schema_version":2,"source_run_id":"run-7a3aac0ac3a89f92c044ee8cce0fd773"}
