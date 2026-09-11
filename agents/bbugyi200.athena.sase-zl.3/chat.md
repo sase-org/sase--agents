@@ -1,0 +1,279 @@
+# Chat History - ace-run (sase-zl.3)
+
+- **TIMESTAMP:** 2026-09-11 09:45:55 EDT
+- **MODEL:** codex/gpt-5.5
+- **AGENT:** sase-zl.3
+
+## Prompt
+
+%id(3, clan=sase-zl, bead=sase-zl.3)
+#gh:gh_sase-org__sase
+%model:@medium
+%auto
+%w(bead=sase-zl.2)
+Can you complete the work for bead sase-zl.3? The bead is already reserved for you and assigned to your agent
+name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
+checkpoint or by the runtime promoting an ad-hoc wait-time claim. Do not set the status by hand. Read its
+description and design file, do the work, and close only this bead with
+`sase bead close sase-zl.3 --note "<what you verified>"`. Before closing, run
+`sase bead epic-symbols sase-zl.3`. If this phase still has `--epic-symbol` entries, resolve each symbol or
+re-key the Justfile line to a still-open bead (the parent epic or a later phase). `sase bead close` refuses while
+leftovers remain; they go stale the instant this phase closes and turn unrelated agents' `just check` red. Closing
+an assigned phase bead is unaffected by the parent-close descendant guard. Do NOT close the parent epic or any ancestor plan bead. Any instruction in a phase
+description or child plan to close an ancestor is preparation and evidence for that ancestor's land agent, not
+authorization for a phase worker. Do not create beads yourself: record discovered follow-up work as a
+`PROPOSED FOLLOW-UP:` entry via
+`sase bead note sase-zl.3 'PROPOSED FOLLOW-UP: <one-line summary — detail>'`; the epic's land agent triages
+these into task beads.
+
+## Response
+
+I’ll start by loading the SASE bead/finalizer instructions, then I’ll inspect `sase-zl.3` and its design context before touching code.
+
+The finalizer instructions loaded cleanly; the bead skill path from the skill index appears to be stale, so I’m locating the installed skill copy and will use it before bead commands.
+
+`/sase_beads` itself isn’t installed in this runtime, so I’m following the project’s fallback path: using the SASE memory-read skill for the bead rules before I query or close anything.
+
+Using `/sase_memory_read` now for `sase_beads.md`, since this turn will query/update/close a bead.
+
+The bead rules are clear: I’ll only work this phase bead, record any out-of-scope discoveries back on it, and close it through `sase bead close` after the epic-symbol check.
+
+The working tree starts clean. The bead commands are taking a moment, so I’m polling those before I read the linked design file.
+
+`sase-zl.3` is the capture/persistence phase for monitor continuations, and it currently has no `--epic-symbol` entries. I’m checking whether the plan path is part of this checkout or a side repo before reading it.
+
+The plan file lives in a separate nested repo (`sase/repos/plans`), so I need to go through `/sase_repo` before reading it.
+
+Using `/sase_repo` for the plans repository now; after that I’ll read only the phase’s design file from the audited path it returns.
+
+`plans` is listed as the current workspace’s sidecar plan repository; the audited open is still completing.
+
+The design repo is opened and synced. I’ll read `202609/monitor_continuations.md` next, then map the phase requirements onto the current Rust/Python code.
+
+Phase `capture` wants provenance captured before prompts collapse into plain text, then persisted through normal endings, monitor handoffs, failure/retry paths, and interrupted settlement. I’m going to inspect the current continuation APIs and the Python expansion/persistence path before deciding the smallest coherent slice.
+
+The initial search was far too broad, so I’m narrowing around the new `continuation_*` adapters and the agent execution/monitor persistence files. The core checkout open is still running.
+
+The core repo is opened through SASE at `sase/repos/external/gh/sase-org/sase-core`. I’ll inspect its continuation wire/facade alongside the Python state objects that need to carry capture metadata.
+
+There’s already a thin Python facade for the Rust continuation contracts, so this phase can stay mostly in Python: capture provenance, validate through core, and persist immutable local records without activating replay yet.
+
+The expansion mixin is the right capture point for embedded workflow prompt parts; the finalizer/monitor handlers are the right persistence points. I’m reading the tail of that mixin and the current tests now.
+
+Current state only carries plain `current_prompt`; there’s no durable local delta object yet. I’m checking how anonymous workflows preprocess their prompt so capture metadata follows every run path instead of just one callsite.
+
+The anonymous workflow result does not currently expose capture data upward. I’m reading the workflow runner return shape and the prompt preparation mixin so I can thread metadata without disrupting existing callers.
+
+I found the narrow seam: `_PreparedPromptStep` can carry capture provenance from early xprompt expansion and embedded workflow expansion, and `WorkflowResult` can hand the accumulated capture list back to the runner. Next I’m checking the Rust schema expectations so persisted JSON is validation-clean.
+
+The Rust validator allows the agent-delta record to omit parents for now, but it rejects injected-parent segments in local materialized content. That’s good for this phase: we can make explicit local/materialized/host-fact segments and keep replay routing for the next bead.
+
+The phase can be implemented as an internal capture journal under each agent artifacts directory: content-addressed text blobs first, validated Rust wire records second, then a manifest pointer last. I’m checking nearby tests to preserve patch compatibility and monkeypatch surfaces.
+
+I’ll add focused tests rather than trying to exercise the whole runner. The interesting guarantees here are file publication order/idempotence, delimiter-hostile content staying ordinary text, capture through monitor handoff, and retry failure snapshots retaining the captured state.
+
+I’m going to thread capture as passive metadata only. It will write files under `artifacts/continuation/` and `attempts/<N>/continuation/`; no live replay behavior changes, so later phases can consume it without exposing a half-built route.
+
+Monitor start currently only writes a small pending marker, and the marker handler then synthesizes the starter’s handoff chat. I’ll persist the starter’s interrupted delta during that handler and copy capture data into retry attempts when snapshots are made.
+
+There are two local records to capture for this phase: the agent delta in the starter artifacts, and the monitor continuation intent/checkpoint facts in the monitor member artifacts. I’m keeping the monitor record passive and tied to existing teardown, so a failed start doesn’t leave an armed continuation.
+
+There’s also a standalone embedded-workflow path used before the workflow executor in some CLI flows. I’m checking it so provenance capture covers both expansion paths, not just anonymous agent workflows.
+
+One design tradeoff: this phase should produce enough canonical, validated records for replay to consume later, but it should not force artifact-reference retention work that the diagnostics/results phases own. I’m using local immutable refs now and leaving portable artifact pinning to those later phases.
+
+I’m about to edit: add the passive capture module, thread capture metadata through preprocessing and workflow execution, persist deltas at finalization/monitor handoff/retry snapshot, and add focused regression tests around those behaviors.
+
+I’ve got the bead context and the phase acceptance criteria loaded. I’m going to inspect the current tree and the relevant capture/execution paths, then I’ll make the minimal threaded changes and verify them against the bead’s close conditions.
+
+The tree is clean, so the edits I make from here should be easy to isolate. I’m reading the execution loop and monitor paths now because this phase is about recording facts before handoff/termination, not just adding a serializer off to the side.
+
+The hook points line up with the design: prompt preparation can carry provenance, the runner can write workspace facts before invocation, and monitor handoff can publish the interrupted starter’s checkpoint before the process state is reset. Next I’m checking the provider call boundary so capture gets written with the exact materialized prompt the model saw.
+
+I found the provider orchestrator. Capture needs to happen after early/late preprocessing and before `save_prompt_to_file`, so the stored “materialized” prompt matches the visible prompt artifact and cannot be reconstructed from transcript headings later.
+
+For retries, the current snapshotter only preserves streamed replies. I’m going to extend that transaction to include continuation state as a sibling artifact so a failed attempt’s capture moves atomically with its reply bytes.
+
+The Rust contract is intentionally strict about identifiers and references, so I’m shaping the local records around content hashes and `local:...` refs. That gives us stable, delimiter-proof storage without making Python own any graph semantics.
+
+The source refs only need to be machine-stable enough for provenance; the contract validation owns the hard checks. I’m going to add one focused capture module and thread small typed objects through preprocessing/workflows rather than making each caller invent its own JSON.
+
+One local wrinkle: the installed Rust wheel in this workspace is stale and does not expose the new continuation validators yet. I’ll still wire capture through the facade, but the runtime hooks will be best-effort so a stale editable environment records a diagnostic instead of breaking agent execution.
+
+I’m also going to make the manifest write last and content-address child blobs first. That gives retry/interrupt paths a recoverable state even if the runner dies between intermediate writes.
+
+There’s one important ordering detail around monitor handoff: `start_monitor()` can create the monitor member before the starter is killed, while the runner handler records the starter’s interrupted turn after adopting the marker. I’m going to persist a small handoff checkpoint before that kill path and then reuse its ref when the handler publishes the interrupted delta.
+
+The pending marker format is plain JSON and already tolerates extra keys, so I can add the checkpoint ref there without disturbing existing monitor adoption. I’ll keep the marker’s established fields intact.
+
+I have the shape now. I’m applying the capture module first, then I’ll thread it through preprocessing, workflow invocation, retries, finalization, and monitor handoff/start in small patches so any failure is easy to pin down.
+
+The core capture helper is in place. I’m patching preprocessing next so xprompt trace records become explicit local-materialized segments and the full preprocessing path appends the final prompt segment.
+
+Prompt preprocessing now carries local provenance. I’m threading that through workflow preparation and embedded workflow expansion so rendered `prompt_part` text is captured where it is produced, before late formatting changes the final prompt.
+
+The executor has a small in-memory staging list for embedded segments now. Next I’m filling it during embedded expansion and consuming it during prompt preparation.
+
+Embedded prompt parts are now recorded as they render. I’m updating the prepared prompt object so the provider invocation receives both the raw authored request and the accumulated provenance list.
+
+The workflow prep path is almost wired. I’m passing those prepared capture fields across the invocation boundary now, so anonymous runs and workflow prompt steps share the same artifacts format.
+
+Now I’m adding the provider-bound capture call. It will run for both fully preprocessed prompts and workflow-preprocessed prompts, and failures stay diagnostic-only so stale local Rust wheels do not break an agent run.
+
+The provider call now records `continuation/prepared_prompt.json` and text blobs before saving the ordinary prompt artifact. I’m adding the tiny result propagation so the execution loop can remember which prepared prompt was last active.
+
+That result field is in place. I’m extending loop state now so normal completion, monitor handoff, and retry error paths all publish against the same captured prompt/workspace facts.
+
+Loop state has continuation pointers. I’m now recording workspace facts immediately after loop state creation and refreshing them after a retry workspace reset.
+
+The execution loop now writes workspace facts before the first provider call. I’m patching retry handling so a failed attempt gets its own failed delta before the attempt directory snapshot moves the continuation folder aside.
+
+Failed deltas are now published before retry classification snapshots. I’m extending the snapshotter’s transaction to carry the continuation directory with the failed attempt, then the next attempt can build fresh capture state.
+
+Retry snapshots now preserve continuation state. I’m adding normal-completion publication next, and I’ll attach the compact continuation projection to the done marker after the marker is built.
+
+Completed runs now publish validated agent-delta records and expose them on done markers. I’m applying the monitor handler side so interrupted starters get a checkpointed delta and the monitor member inherits the exact parent node id.
+
+Monitor adoption now writes the interrupted starter node and hands its ID to the monitor member. I’m adding the pre-kill checkpoint to the monitor handoff marker so the creator has durable handoff facts before termination is requested.
+
+The handoff marker now carries a checkpoint ref when it can. I’m adding passive monitor-start intent capture after the proc start acknowledgement, which keeps failed start rollback free of any armed continuation intent.
+
+The monitor-start intent hook is after successful ack now. I noticed two small cleanup points while threading it: the prepared-ref reader should not invent a ref when no capture file exists, and embedded staging should be cleared before each expansion attempt.
+
+Those cleanup points are fixed. I’m adding the type declaration on the workflow preparation mixin so static checks understand the embedded provenance staging field.
+
+While looking at tests, I saw existing marker tests assert exact marker payloads. I’ll update those to check the existing fields plus the new checkpoint ref, then add direct capture coverage for delimiter-heavy prompts and retry/monitor paths.
+
+The main capture plumbing is in place. I’m going to run a quick syntax/static pass before writing tests, because a wide thread like this can hide a small type or import slip.
+
+Syntax is clean. Ruff caught one quoted annotation in a file that already uses postponed annotations; I’m fixing that and then I’ll add the behavior tests.
+
+The lint nit is fixed. I’m adding focused tests that assert capture stays JSON/blob based even when user text contains transcript headings, fences, and directive-looking lines.
+
+I noticed the new capture test path math was missing the `continuation/` directory. I’m correcting that now and keeping the xprompt provenance test independent of any global prompt catalog.
+
+The direct capture tests are cleaned up. I’m updating monitor handoff expectations for the new checkpoint ref and adding assertions that the checkpoint file is actually present.
+
+Handoff marker coverage is updated. I’m adding a monitor-adoption test now: it simulates an interrupted starter with delimiter-heavy prompt text and checks that the monitor member gets the starter continuation node as its parent.
+
+Monitor adoption coverage is in place. I’m extending the retry snapshot test so it proves failed-attempt continuation records move into `attempts/01/` while the root is ready for the next attempt.
+
+Retry tests now cover continuation preservation. I’m going to add one monitor-start test for the “acknowledged starts only” side: a monitor with `next_action` should get an intent manifest after successful proc acknowledgement.
+
+The monitor start tests already use real short-lived proc launches, so I’m adding the intent assertion alongside that harness instead of inventing a fake start stack. It should stay quick with `true`.
+
+I found the fixture supports arbitrary starter metadata, so I can seed a `continuation_node_id` and verify the new monitor intent carries that parent through.
+
+The focused tests are added. I’m running ruff on the touched files and then the new/adjacent tests; after that I’ll chase any failures from the real runtime assumptions.
+
+Ruff is clean and the focused pytest run is through 10 of 11 tests. The remaining monitor-start test is waiting on the real short-lived supervisor settlement; I’m polling it now.
+
+That monitor test is still waiting, so I’m letting it finish rather than guessing. If it times out, I’ll tighten the test or fix the settlement path it exposed.
+
+The new monitor-start assertions passed, but the cleanup waited for a `next_action` monitor to settle and hit the harness timeout. I’m changing that test to use a sleep command and explicitly terminate the supervisor after asserting the intent, matching the pattern in nearby monitor tests.
+
+Cleanup is adjusted to stop the monitor explicitly. I’m rerunning the focused tests now; this should tell us whether the behavioral plumbing is stable before I widen verification.
+
+Focused tests pass. I’m running mypy over the touched source files next, because this change added a new typed adapter and a few cross-module annotations.
+
+Mypy found the expected TypedDict edges: owner, route, and the compact projection need explicit shapes. I’m tightening those annotations with casts and a plain string projection.
+
+The type fixes are clear. I’m adding explicit wire casts for validated TypedDict payloads and expanding the manifest projection guard so mypy can narrow the values properly.
+
+The TypedDict narrowing is fixed. I’m rerunning the source mypy slice.
+
+Mypy is clean for the touched source slice. I’m running a broader adjacent set now, including shell-handoff parity and preprocessing/provider tests that sit near this plumbing.
+
+The broader adjacent pytest set passed: 66 tests green, with existing cwd-restoration warnings from retry tests. I’m inspecting the diff now for any accidental overreach or fragile details before the required full repo verification.
+
+The diff looks scoped, but I spotted a docstring indentation slip in `PreprocessResult` while reviewing it. I’m fixing that now, then I’ll do one more static pass.
+
+The docstring is fixed. I’m scanning the new module and running ruff/mypy again before broad verification.
+
+One parent-link detail is worth tightening: retry attempts leave the failed attempt’s node id in metadata after snapshot. I’m making the next published node treat that as a parent while filtering out accidental self-parenting on idempotent rewrites.
+
+That parent filter needs a small helper for identifier-safe de-duplication, separate from refs because parent IDs have the stricter identifier size. I’m adding that helper now.
+
+The parent-id helper is added. I’m rerunning the narrow ruff/mypy slice after that tweak.
+
+Static checks still pass. I’m removing one unused local type alias from the new module to keep the adapter tidy before the full check.
+
+The main behavior is covered, but the bead specifically calls out rollback on failed acknowledgement. I’m checking the existing monitor-start teardown tests to add a precise assertion that failed starts do not leave an intent manifest.
+
+The ack-failure tests are already shaped around rollback. I’m adding `next_action` to one failing start and asserting the half-created member has no monitor intent manifest, which nails the transaction boundary directly.
+
+The failed-ack rollback test now proves no intent is armed. I’m rerunning that ack test and the monitor-start/handoff slice.
+
+That ack test is still inside its supervisor-startup timeout path. I’m waiting for it to complete so we can see whether the new no-intent assertion is clean.
+
+The ack test did fail, while the rest of the monitor slice passed. I’m collecting the failure details now; likely the request change altered the fake-supervisor timing path.
+
+That was the wrong failure harness to modify: adding `next_action` made the test wander into follow-up launch code before the intended assertion. I’m reverting that tweak and adding a more direct submit-ack failure test where `submit_proc_request` raises before the post-ack intent hook can run.
+
+The wandering ack test is back to its original shape. I’m adding the direct failed-submit rollback test in the teardown suite now.
+
+The rollback test now isolates the failed-submit transaction. I’m rerunning the affected monitor tests.
+
+The monitor rollback/start/handoff slice passes now. I’m rerunning the broader focused suite with the new teardown coverage included.
+
+The focused suite is green. Because this repo requires verification guidance after tracked edits, I’m reading the lint/test memory note now before the full `just check` pass.
+
+The verification note requires `just check` for tracked changes, with monitor only if it gets long. I’m starting `just check` inline now; if it stretches, I’ll keep you posted rather than leaving it vague.
+
+`just check` is rebuilding the linked Rust extension/LSP from the workspace-matched `sase-core` checkout, then it’ll run the repo gates. I’m letting it continue.
+
+The Rust compile is still moving, currently in `sase_core`. No action needed yet; I’m continuing to wait for the check output.
+
+No new output yet, which is normal during the release build/link step. I’m still monitoring the same `just check` session.
+
+Still building quietly. I’ll keep polling rather than spawning another verification path on top of it.
+
+`just check` got through setup and then failed only on Python formatting. Ruff also wants to reflow one existing continuation wire mirror file under the current formatter, so I’m formatting the exact files it named and then rerunning the check.
+
+Formatting is applied to exactly those files. I’m checking the status and then rerunning `just check`; it may refresh the Rust wheel again if `uv run` synced the environment back to the locked package.
+
+As suspected, `uv run` restored the locked core wheel, so `just check` will do its setup repair again. I’m rerunning it now; the prior failure was only formatter output.
+
+`just check` repaired the core wheel from cache this time and has passed formatting plus ruff. It’s moving through the remaining lint gates now.
+
+No new output yet; that’s usually mypy or symvision doing a quiet pass. I’m continuing to monitor the same check session.
+
+Still quiet, still running. I’m giving the lint gate more time; no parallel check spam.
+
+Mypy passed in the full check. The remaining gates are symvision/toobig and the diff-scoped tests.
+
+`just check` got through formatter, Markdown fmt, keep-sorted, ruff, and mypy, then stopped on an unrelated feature-flag gate: live flag bead `sase-z6` is missing the `ace_unified_agents` registry definition. I’m recording that as a proposed follow-up on this phase, per your “do not create beads” instruction, then I’ll rerun the focused tests using the repaired `.venv` directly.
+
+The follow-up note is on the phase bead. I’m rerunning the focused test set with `.venv/bin/python` so it uses the repaired `sase-core-rs` wheel from `just check` instead of letting `uv run` resync it.
+
+The focused tests pass against the repaired `.venv`. A tiny version-probe command reported “no space left on device,” so I’m checking disk pressure before continuing; if the build cache filled the workspace, that can make later gates flaky.
+
+Disk has space on `/`, and the repaired core binding is available in `.venv`; `/tmp` is tight but not blocking the focused tests. Since I added one rollback assertion after the last `just check`, I’m rerunning `just check` once more to capture the current-tree result, expecting the same unrelated feature-flag gate unless that external bead changed.
+
+The current-tree `just check` has passed format, Markdown format, keep-sorted, ruff, and mypy. It’s now at the later gates again.
+
+The rerun confirmed the same unrelated feature-flag blocker after the earlier gates passed. I’m doing the bead’s required `epic-symbols` check now, then I’ll close only `sase-zl.3` with a note that distinguishes focused verification from the unrelated `just check` failure.
+
+`epic-symbols` is clean for `sase-zl.3`. I’m closing only this phase bead now, with the verification note including the focused green suites and the unrelated feature-flag gate that stopped `just check`.
+
+The close command is still running, likely doing bead/project bookkeeping. I’m waiting on that single close; I won’t touch parent beads.
+
+The phase bead closed successfully. I’m doing one final status check so the completion manifest can accurately report the repo state and changed files.
+
+The bead is closed and status confirms it. I’m preparing the required SASE final declaration now; after that declaration I won’t run further commands before my final response.
+
+I’ve re-read the finalizer rules. I’m fetching the host-issued final context now and will submit the declaration immediately after building it.
+
+The final context requires one repository commit decision for the main repo; all dirty paths are new since this run, with no protected paths. I’m submitting that commit declaration now as the final tool action.
+
+Completed and closed `sase-zl.3`.
+
+Implemented local continuation capture for prepared prompts, workspace facts, agent-delta nodes, monitor handoff checkpoints, retry-attempt snapshots, and monitor next-action intents. The main new adapter is [continuation_capture.py](/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_22/src/sase/continuation_capture.py), threaded through preprocessing, workflow execution, provider invocation, retry/finalize, and monitor start/handoff paths.
+
+Verified:
+- `sase bead epic-symbols sase-zl.3` reported no leftovers.
+- Focused pytest suite: `67 passed`.
+- Ruff/mypy slices passed.
+- `just check` passed fmt, Markdown fmt, keep-sorted, ruff, and mypy, then failed on an unrelated existing feature-flag lint: live bead `sase-z6` missing `ace_unified_agents`. I recorded that as a `PROPOSED FOLLOW-UP` note on `sase-zl.3`.
+
+Final commit declaration was accepted for the main repo.

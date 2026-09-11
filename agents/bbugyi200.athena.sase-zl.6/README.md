@@ -2,16 +2,17 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-zl](../../users/bbugyi200/machines/athena/hoods/sase-zl/README.md) / sase-zl.6
 
-**Global name:** `bbugyi200.athena.sase-zl.6` · **State:** waiting · **Source run:** `run-687584d93ad54c2219762cc1ae9890d9`
+**Global name:** `bbugyi200.athena.sase-zl.6` · **State:** waiting · **Source run:** `run-dd7d20fdd5029c78706856a6431b3f9e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-zl
 
 ## Summary
 
 - Bead: [sase-zl.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zl/sase-zl.6.md)
+- Epic: [sase-zl](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zl/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260911072116
+- Timing: 20260911085042
 - Commits: 0
 
 ## Files
@@ -26,10 +27,10 @@
 | [sase-zl.10](../bbugyi200.athena.sase-zl.10/README.md) | sase-zl hood | waiting |
 | [sase-zl.11](../bbugyi200.athena.sase-zl.11/README.md) | sase-zl hood | waiting |
 | [sase-zl.12](../bbugyi200.athena.sase-zl.12/README.md) | sase-zl hood | waiting |
-| [sase-zl.2](../bbugyi200.athena.sase-zl.2/README.md) | sase-zl hood | active |
-| [sase-zl.3](../bbugyi200.athena.sase-zl.3/README.md) | sase-zl hood | waiting |
-| [sase-zl.4](../bbugyi200.athena.sase-zl.4/README.md) | sase-zl hood | waiting |
-| [sase-zl.5](../bbugyi200.athena.sase-zl.5/README.md) | sase-zl hood | waiting |
+| [sase-zl.2](../bbugyi200.athena.sase-zl.2/README.md) | sase-zl hood | dismissed |
+| [sase-zl.3](../bbugyi200.athena.sase-zl.3/README.md) | sase-zl hood | completed |
+| [sase-zl.4](../bbugyi200.athena.sase-zl.4/README.md) | sase-zl hood | active |
+| [sase-zl.5](../bbugyi200.athena.sase-zl.5/README.md) | sase-zl hood | completed |
 | [sase-zl.7](../bbugyi200.athena.sase-zl.7/README.md) | sase-zl hood | waiting |
 | [sase-zl.8](../bbugyi200.athena.sase-zl.8/README.md) | sase-zl hood | waiting |
 | [sase-zl.9](../bbugyi200.athena.sase-zl.9/README.md) | sase-zl hood | waiting |

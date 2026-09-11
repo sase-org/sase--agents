@@ -1,5 +1,5 @@
-%id(12, clan=sase-zl, bead=sase-zl.12)
 #gh:gh_sase-org__sase
+%id(12, clan=sase-zl, bead=sase-zl.12)
 %model:@medium
 %auto
 %w:sase-zl.11

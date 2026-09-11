@@ -2,7 +2,7 @@
 %id(land, clan=sase-zl, bead=sase-zl)
 %model:@xlarge
 %auto
-%w:sase-zl.1,sase-zl.2,sase-zl.3,sase-zl.5,sase-zl.4,sase-zl.6,sase-zl.7,sase-zl.10,sase-zl.8,sase-zl.9,sase-zl.11,sase-zl.12
+%w:sase-zl.3,sase-zl.5,sase-zl.4,sase-zl.6,sase-zl.7,sase-zl.10,sase-zl.8,sase-zl.9,sase-zl.11,sase-zl.12
 %w(bead=sase-zl.1)
 %w(bead=sase-zl.2)
 %w(bead=sase-zl.3)

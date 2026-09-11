@@ -32,10 +32,10 @@
 | [sase-zl.10](../bbugyi200.athena.sase-zl.10/README.md) | sase-zl hood | waiting |
 | [sase-zl.11](../bbugyi200.athena.sase-zl.11/README.md) | sase-zl hood | waiting |
 | [sase-zl.12](../bbugyi200.athena.sase-zl.12/README.md) | sase-zl hood | waiting |
-| [sase-zl.2](../bbugyi200.athena.sase-zl.2/README.md) | sase-zl hood | active |
-| [sase-zl.3](../bbugyi200.athena.sase-zl.3/README.md) | sase-zl hood | waiting |
-| [sase-zl.4](../bbugyi200.athena.sase-zl.4/README.md) | sase-zl hood | waiting |
-| [sase-zl.5](../bbugyi200.athena.sase-zl.5/README.md) | sase-zl hood | waiting |
+| [sase-zl.2](../bbugyi200.athena.sase-zl.2/README.md) | sase-zl hood | dismissed |
+| [sase-zl.3](../bbugyi200.athena.sase-zl.3/README.md) | sase-zl hood | completed |
+| [sase-zl.4](../bbugyi200.athena.sase-zl.4/README.md) | sase-zl hood | active |
+| [sase-zl.5](../bbugyi200.athena.sase-zl.5/README.md) | sase-zl hood | completed |
 | [sase-zl.6](../bbugyi200.athena.sase-zl.6/README.md) | sase-zl hood | waiting |
 | [sase-zl.7](../bbugyi200.athena.sase-zl.7/README.md) | sase-zl hood | waiting |
 | [sase-zl.8](../bbugyi200.athena.sase-zl.8/README.md) | sase-zl hood | waiting |
