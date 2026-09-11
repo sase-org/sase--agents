@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-xe.15](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.15.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-09-07T21:15:33.229512+00:00
@@ -52,8 +51,8 @@
 | [sase-xe.16.11.7.14.4](../bbugyi200.athena.sase-xe.16.11.7.14.4/README.md) | sase-xe hood | completed |
 | [sase-xe.16.11.7.14.5](../../families/bbugyi200.athena.sase-xe.16.11.7.14.5.md) (family · 3) | sase-xe hood | completed 2, failed 1 |
 | [sase-xe.16.11.7.14.6.1](../../families/bbugyi200.athena.sase-xe.16.11.7.14.6.1.md) (family · 7) | sase-xe hood | completed 4, failed 3 |
-| [sase-xe.16.11.7.14.6.2](../bbugyi200.athena.sase-xe.16.11.7.14.6.2/README.md) | sase-xe hood | active |
-| [sase-xe.16.11.7.14.6.3](../bbugyi200.athena.sase-xe.16.11.7.14.6.3/README.md) | sase-xe hood | waiting |
+| [sase-xe.16.11.7.14.6.2](../bbugyi200.athena.sase-xe.16.11.7.14.6.2/README.md) | sase-xe hood | completed |
+| [sase-xe.16.11.7.14.6.3](../../families/bbugyi200.athena.sase-xe.16.11.7.14.6.3.md) (family · 3) | sase-xe hood | active 2, failed 1 |
 | [sase-xe.16.11.7.14.6.4](../bbugyi200.athena.sase-xe.16.11.7.14.6.4/README.md) | sase-xe hood | waiting |
 | [sase-xe.16.11.7.14.6.5](../bbugyi200.athena.sase-xe.16.11.7.14.6.5/README.md) | sase-xe hood | waiting |
 | [sase-xe.16.11.7.14.6.6](../bbugyi200.athena.sase-xe.16.11.7.14.6.6/README.md) | sase-xe hood | waiting |

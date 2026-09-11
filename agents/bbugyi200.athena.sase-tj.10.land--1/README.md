@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-tj.10](https://github.com/sase-org/sase--beads/blob/main/pages/sase-tj/sase-tj.10.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-26T11:52:27.706739+00:00

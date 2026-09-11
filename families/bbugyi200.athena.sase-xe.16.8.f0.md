@@ -84,8 +84,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-xe.16.11.7.14.4](../agents/bbugyi200.athena.sase-xe.16.11.7.14.4/README.md) | sase-xe.16 hood | completed |
 | [sase-xe.16.11.7.14.5](bbugyi200.athena.sase-xe.16.11.7.14.5.md) (family · 3) | sase-xe.16 hood | completed 2, failed 1 |
 | [sase-xe.16.11.7.14.6.1](bbugyi200.athena.sase-xe.16.11.7.14.6.1.md) (family · 7) | sase-xe.16 hood | completed 4, failed 3 |
-| [sase-xe.16.11.7.14.6.2](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.2/README.md) | sase-xe.16 hood | active |
-| [sase-xe.16.11.7.14.6.3](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.3/README.md) | sase-xe.16 hood | waiting |
+| [sase-xe.16.11.7.14.6.2](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.2/README.md) | sase-xe.16 hood | completed |
+| [sase-xe.16.11.7.14.6.3](bbugyi200.athena.sase-xe.16.11.7.14.6.3.md) (family · 3) | sase-xe.16 hood | active 2, failed 1 |
 | [sase-xe.16.11.7.14.6.4](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.4/README.md) | sase-xe.16 hood | waiting |
 | [sase-xe.16.11.7.14.6.5](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.5/README.md) | sase-xe.16 hood | waiting |
 | [sase-xe.16.11.7.14.6.6](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.6/README.md) | sase-xe.16 hood | waiting |
