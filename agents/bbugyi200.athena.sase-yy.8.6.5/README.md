@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-yy](../../users/bbugyi200/machines/athena/hoods/sase-yy/README.md) / sase-yy.8.6.5
 
-**Global name:** `bbugyi200.athena.sase-yy.8.6.5` · **State:** active · **Source run:** `run-497c3a2c19b865c9075f0fa62304b932`
+**Global name:** `bbugyi200.athena.sase-yy.8.6.5` · **State:** completed · **Source run:** `run-497c3a2c19b865c9075f0fa62304b932`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-yy
 
@@ -12,12 +12,18 @@
 - Epic: [sase-yy.8.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-yy/sase-yy.8.6.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-11T11:29:40.472510+00:00
-- Commits: 0
+- Timing: 2026-09-11T11:29:40.472510+00:00 → 2026-09-11T12:13:30.674958+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`49f4a5f`](https://github.com/sase-org/sase/commit/49f4a5f9fd1e62d737e9591ac0ca857ccaa55b08) | fix(artifact-links): verify publication on no-op retries | 2026-09-11 08:12:09 EDT |
 
 ## Neighbors
 

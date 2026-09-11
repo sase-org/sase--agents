@@ -12,11 +12,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-11T11:29:31.846626+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`2f9bef1`](https://github.com/sase-org/sase/commit/2f9bef14cbce4405e0c7c2a83812215125dd6492) | fix(artifact-links): persist bead-owned event history | 2026-09-11 08:11:48 EDT |
 
 ## Neighbors
 
@@ -25,7 +31,7 @@
 | [sase-yy.8.6.1](../bbugyi200.athena.sase-yy.8.6.1/README.md) | sase-yy.8.6 hood | completed |
 | [sase-yy.8.6.3](../bbugyi200.athena.sase-yy.8.6.3/README.md) | sase-yy.8.6 hood | waiting |
 | [sase-yy.8.6.4](../bbugyi200.athena.sase-yy.8.6.4/README.md) | sase-yy.8.6 hood | waiting |
-| [sase-yy.8.6.5](../bbugyi200.athena.sase-yy.8.6.5/README.md) | sase-yy.8.6 hood | active |
+| [sase-yy.8.6.5](../bbugyi200.athena.sase-yy.8.6.5/README.md) | sase-yy.8.6 hood | completed |
 | [sase-yy.8.6.6](../bbugyi200.athena.sase-yy.8.6.6/README.md) | sase-yy.8.6 hood | waiting |
 | [sase-yy.8.6.land](../bbugyi200.athena.sase-yy.8.6.land/README.md) | sase-yy.8.6 hood | waiting |
 | [sase-yy.8.1](../bbugyi200.athena.sase-yy.8.1/README.md) | sase-yy.8 hood | completed |
