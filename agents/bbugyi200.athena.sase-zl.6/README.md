@@ -38,6 +38,6 @@
 | [sase-zl.4](../bbugyi200.athena.sase-zl.4/README.md) | sase-zl hood | completed |
 | [sase-zl.5](../bbugyi200.athena.sase-zl.5/README.md) | sase-zl hood | completed |
 | [sase-zl.7](../bbugyi200.athena.sase-zl.7/README.md) | sase-zl hood | failed |
-| [sase-zl.8](../bbugyi200.athena.sase-zl.8/README.md) | sase-zl hood | active |
-| [sase-zl.9](../bbugyi200.athena.sase-zl.9/README.md) | sase-zl hood | waiting |
+| [sase-zl.8](../bbugyi200.athena.sase-zl.8/README.md) | sase-zl hood | completed |
+| [sase-zl.9](../bbugyi200.athena.sase-zl.9/README.md) | sase-zl hood | active |
 | [sase-zl.land](../bbugyi200.athena.sase-zl.land/README.md) | sase-zl hood | waiting |

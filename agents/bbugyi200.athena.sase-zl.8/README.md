@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-zl](../../users/bbugyi200/machines/athena/hoods/sase-zl/README.md) / sase-zl.8
 
-**Global name:** `bbugyi200.athena.sase-zl.8` · **State:** active · **Source run:** `run-0c2a5079402d22386f8a184bd28dfce4`
+**Global name:** `bbugyi200.athena.sase-zl.8` · **State:** completed · **Source run:** `run-0c2a5079402d22386f8a184bd28dfce4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-zl
 
@@ -12,12 +12,12 @@
 - Epic: [sase-zl](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zl/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-11T18:25:18.579167+00:00
+- Timing: 2026-09-11T18:25:18.579167+00:00 → 2026-09-11T19:22:21.204433+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -39,5 +39,5 @@
 | [sase-zl.5](../bbugyi200.athena.sase-zl.5/README.md) | sase-zl hood | completed |
 | [sase-zl.6](../bbugyi200.athena.sase-zl.6/README.md) | sase-zl hood | completed |
 | [sase-zl.7](../bbugyi200.athena.sase-zl.7/README.md) | sase-zl hood | failed |
-| [sase-zl.9](../bbugyi200.athena.sase-zl.9/README.md) | sase-zl hood | waiting |
+| [sase-zl.9](../bbugyi200.athena.sase-zl.9/README.md) | sase-zl hood | active |
 | [sase-zl.land](../bbugyi200.athena.sase-zl.land/README.md) | sase-zl hood | waiting |
