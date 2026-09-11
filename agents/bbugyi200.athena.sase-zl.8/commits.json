@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-303ba1bffe4d2ffe84e61242a1f8d987"}
+{"commits":[{"committed_at":1789154165,"sha":"d70fa0ace8f3f02d73db172337e28ec0ec339953","subject":"feat(monitor): prepare host-sealed conditional completion intents"}],"schema_version":2,"source_run_id":"run-0c2a5079402d22386f8a184bd28dfce4"}

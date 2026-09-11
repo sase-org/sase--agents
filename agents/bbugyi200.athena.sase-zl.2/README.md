@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-zl](../../users/bbugyi200/machines/athena/hoods/sase-zl/README.md) / sase-zl.2
 
-**Global name:** `bbugyi200.athena.sase-zl.2` · **State:** dismissed · **Source run:** `run-693a01cbbb41a7d0aa9bebe4ad1a08d9`
+**Global name:** `bbugyi200.athena.sase-zl.2` · **State:** active · **Source run:** `run-693a01cbbb41a7d0aa9bebe4ad1a08d9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-zl
 
@@ -11,7 +11,7 @@
 - Bead: [sase-zl.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zl/sase-zl.2.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-11T07:26:10.215845 → 2026-09-11T08:43:24.156129
+- Timing: 2026-09-11T11:26:10.215845+00:00
 - Commits: 0
 
 ## Files
@@ -23,14 +23,14 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-zl.1](../bbugyi200.athena.sase-zl.1/README.md) | sase-zl hood | completed |
-| [sase-zl.10](../bbugyi200.athena.sase-zl.10/README.md) | sase-zl hood | active |
+| [sase-zl.10](../bbugyi200.athena.sase-zl.10/README.md) | sase-zl hood | failed |
 | [sase-zl.11](../bbugyi200.athena.sase-zl.11/README.md) | sase-zl hood | waiting |
 | [sase-zl.12](../bbugyi200.athena.sase-zl.12/README.md) | sase-zl hood | waiting |
 | [sase-zl.3](../bbugyi200.athena.sase-zl.3/README.md) | sase-zl hood | completed |
 | [sase-zl.4](../bbugyi200.athena.sase-zl.4/README.md) | sase-zl hood | completed |
 | [sase-zl.5](../bbugyi200.athena.sase-zl.5/README.md) | sase-zl hood | completed |
 | [sase-zl.6](../bbugyi200.athena.sase-zl.6/README.md) | sase-zl hood | completed |
-| [sase-zl.7](../bbugyi200.athena.sase-zl.7/README.md) | sase-zl hood | active |
-| [sase-zl.8](../bbugyi200.athena.sase-zl.8/README.md) | sase-zl hood | waiting |
+| [sase-zl.7](../bbugyi200.athena.sase-zl.7/README.md) | sase-zl hood | failed |
+| [sase-zl.8](../bbugyi200.athena.sase-zl.8/README.md) | sase-zl hood | active |
 | [sase-zl.9](../bbugyi200.athena.sase-zl.9/README.md) | sase-zl hood | waiting |
 | [sase-zl.land](../bbugyi200.athena.sase-zl.land/README.md) | sase-zl hood | waiting |

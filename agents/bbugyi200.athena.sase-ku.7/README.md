@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-ku.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ku/sase-ku.7.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-13T14:05:41+00:00 → 2026-08-13T14:05:41+00:00

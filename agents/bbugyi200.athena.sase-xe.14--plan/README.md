@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-xe.14](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.14.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-09-07T09:32:59.143798 → 2026-09-07T11:30:33.934978

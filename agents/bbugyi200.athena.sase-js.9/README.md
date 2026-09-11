@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-js.9](https://github.com/sase-org/sase--beads/blob/main/pages/sase-js/sase-js.9.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-12T09:41:36.537137 → 2026-08-12T10:17:09.738212

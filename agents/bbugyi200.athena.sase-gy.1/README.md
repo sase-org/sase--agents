@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-gy.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-gy/sase-gy.1.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-07T10:34:46.929031 → 2026-08-07T11:00:18.400701
