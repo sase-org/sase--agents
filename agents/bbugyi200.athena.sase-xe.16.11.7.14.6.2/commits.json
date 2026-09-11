@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a790e2193d191491e8fd8289fc91914c"}
+{"commits":[{"committed_at":1789092494,"sha":"49cddaba38ddfe32bb56bf00d13e77828e4c4764","subject":"fix(fleet): surface dismissed index sync failures"}],"schema_version":2,"source_run_id":"run-a790e2193d191491e8fd8289fc91914c"}

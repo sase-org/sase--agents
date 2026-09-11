@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-xe](../../users/bbugyi200/machines/athena/hoods/sase-xe/README.md) / sase-xe.16.11.7.14.6.2
 
-**Global name:** `bbugyi200.athena.sase-xe.16.11.7.14.6.2` · **State:** waiting · **Source run:** `run-a790e2193d191491e8fd8289fc91914c`
+**Global name:** `bbugyi200.athena.sase-xe.16.11.7.14.6.2` · **State:** active · **Source run:** `run-a790e2193d191491e8fd8289fc91914c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-xe
 
@@ -12,18 +12,24 @@
 - Epic: [sase-xe.16.11.7.14.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.14.6.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260910195910
-- Commits: 0
+- Timing: 2026-09-11T01:21:59.156999+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`49cddab`](https://github.com/sase-org/sase/commit/49cddaba38ddfe32bb56bf00d13e77828e4c4764) | fix(fleet): surface dismissed index sync failures | 2026-09-10 22:08:14 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-xe.16.11.7.14.6.1](../../families/bbugyi200.athena.sase-xe.16.11.7.14.6.1.md) (family · 7) | sase-xe.16.11.7.14.6 hood | active 1, completed 3, failed 3 |
+| [sase-xe.16.11.7.14.6.1](../../families/bbugyi200.athena.sase-xe.16.11.7.14.6.1.md) (family · 7) | sase-xe.16.11.7.14.6 hood | completed 4, failed 3 |
 | [sase-xe.16.11.7.14.6.3](../bbugyi200.athena.sase-xe.16.11.7.14.6.3/README.md) | sase-xe.16.11.7.14.6 hood | waiting |
 | [sase-xe.16.11.7.14.6.4](../bbugyi200.athena.sase-xe.16.11.7.14.6.4/README.md) | sase-xe.16.11.7.14.6 hood | waiting |
 | [sase-xe.16.11.7.14.6.5](../bbugyi200.athena.sase-xe.16.11.7.14.6.5/README.md) | sase-xe.16.11.7.14.6 hood | waiting |

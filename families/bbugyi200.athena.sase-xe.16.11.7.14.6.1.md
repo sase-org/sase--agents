@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-xe` · Members: 7 · Bead: [sase-xe.16.
 
 ```mermaid
 flowchart TD
-  n0["sase-xe.16.11.7.14.6.1--3 [active]"]
+  n0["sase-xe.16.11.7.14.6.1--3 [completed]"]
   n1["sase-xe.16.11.7.14.6.1--2 [completed]"]
   n0 --> n1
   n2["sase-xe.16.11.7.14.6.1--plan [completed]"]
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-3"></a>3 | sase-xe.16.11.7.14.6.1--3 | active | opus / claude | 2026-09-11T00:48:38.922701+00:00 | [1](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.1--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.1--3/prompt.md) | — |
+| <a id="member-3"></a>3 | sase-xe.16.11.7.14.6.1--3 | completed | opus / claude | 2026-09-11T00:48:38.922701+00:00 → 2026-09-11T01:20:47.938103+00:00 | [1](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.1--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.1--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.1--3/chat.md) |
 | <a id="member-2"></a>2 | sase-xe.16.11.7.14.6.1--2 | completed | opus / claude | 2026-09-11T00:27:30.690594+00:00 → 2026-09-11T00:37:42.137485+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.1--2/chat.md) |
 | <a id="member-plan"></a>plan | sase-xe.16.11.7.14.6.1--plan | completed | sonnet / claude | 2026-09-10T23:59:58.365324+00:00 → 2026-09-11T00:16:07.815470+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.1--plan/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-xe.16.11.7.14.6.1--mon-0 | failed | opus / claude | 2026-09-11T00:21:28.870337+00:00 → 2026-09-11T00:26:43.398934+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.1--mon-0/chat.md) |
@@ -45,7 +45,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-xe.16.11.7.14.6.2](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.2/README.md) | sase-xe.16.11.7.14.6 hood | waiting |
+| [sase-xe.16.11.7.14.6.2](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.2/README.md) | sase-xe.16.11.7.14.6 hood | active |
 | [sase-xe.16.11.7.14.6.3](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.3/README.md) | sase-xe.16.11.7.14.6 hood | waiting |
 | [sase-xe.16.11.7.14.6.4](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.4/README.md) | sase-xe.16.11.7.14.6 hood | waiting |
 | [sase-xe.16.11.7.14.6.5](../agents/bbugyi200.athena.sase-xe.16.11.7.14.6.5/README.md) | sase-xe.16.11.7.14.6 hood | waiting |
