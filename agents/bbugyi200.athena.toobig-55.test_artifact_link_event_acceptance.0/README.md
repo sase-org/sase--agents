@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-55](../../users/bbugyi200/machines/athena/hoods/toobig-55/README.md) / toobig-55.test\_artifact\_link\_event\_acceptance.0
 
-**Global name:** `bbugyi200.athena.toobig-55.test_artifact_link_event_acceptance.0` · **State:** active · **Source run:** `run-65fb98cab0c48c7ecec14b9a4599fefb`
+**Global name:** `bbugyi200.athena.toobig-55.test_artifact_link_event_acceptance.0` · **State:** completed · **Source run:** `run-65fb98cab0c48c7ecec14b9a4599fefb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-55
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-11T03:29:36.329301+00:00
+- Timing: 2026-09-11T03:29:36.329301+00:00 → 2026-09-11T03:44:15.464281+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -37,6 +37,6 @@
 | [toobig-55.test\_llm\_provider\_usage\_limit\_disable.0](../bbugyi200.athena.toobig-55.test_llm_provider_usage_limit_disable.0/README.md) | toobig-55 hood | waiting |
 | [toobig-55.test\_monitor\_gate\_capacity\_e2e.0](../bbugyi200.athena.toobig-55.test_monitor_gate_capacity_e2e.0/README.md) | toobig-55 hood | completed |
 | [toobig-55.test\_provider\_disables\_indicator.0](../bbugyi200.athena.toobig-55.test_provider_disables_indicator.0/README.md) | toobig-55 hood | waiting |
-| [toobig-55.test\_sidecar\_clone.0](../bbugyi200.athena.toobig-55.test_sidecar_clone.0/README.md) | toobig-55 hood | waiting |
+| [toobig-55.test\_sidecar\_clone.0](../bbugyi200.athena.toobig-55.test_sidecar_clone.0/README.md) | toobig-55 hood | active |
 | [toobig-55.test\_validate\_sase\_core\_rs\_contracts\_tool.0](../bbugyi200.athena.toobig-55.test_validate_sase_core_rs_contracts_tool.0/README.md) | toobig-55 hood | waiting |
 | [toobig-55.update\_handler.0](../bbugyi200.athena.toobig-55.update_handler.0/README.md) | toobig-55 hood | completed |
