@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-xe](../../users/bbugyi200/machines/athena/hoods/sase-xe/README.md) / sase-xe.16.11.7.14.6.6
 
-**Global name:** `bbugyi200.athena.sase-xe.16.11.7.14.6.6` · **State:** waiting · **Source run:** `run-2e38a9874c19b062afbb791b39bbd308`
+**Global name:** `bbugyi200.athena.sase-xe.16.11.7.14.6.6` · **State:** waiting · **Source run:** `run-cdeda57e8f96d8865b5174e4d25dd988`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-xe
 
 ## Summary
 
 - Bead: [sase-xe.16.11.7.14.6.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.14.6.6.md)
-- Epic: [sase-xe.16.11.7.14.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.14.6.md)
-- Model: sonnet
-- Provider: claude
-- Timing: 20260910195914
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 20260911072717
 - Commits: 0
 
 ## Files
@@ -27,8 +26,8 @@
 | [sase-xe.16.11.7.14.6.2](../bbugyi200.athena.sase-xe.16.11.7.14.6.2/README.md) | sase-xe.16.11.7.14.6 hood | completed |
 | [sase-xe.16.11.7.14.6.3](../../families/bbugyi200.athena.sase-xe.16.11.7.14.6.3.md) (family · 3) | sase-xe.16.11.7.14.6 hood | completed 2, failed 1 |
 | [sase-xe.16.11.7.14.6.4](../bbugyi200.athena.sase-xe.16.11.7.14.6.4/README.md) | sase-xe.16.11.7.14.6 hood | completed |
-| [sase-xe.16.11.7.14.6.4.f0](../bbugyi200.athena.sase-xe.16.11.7.14.6.4.f0/README.md) | sase-xe.16.11.7.14.6 hood | active |
-| [sase-xe.16.11.7.14.6.5](../bbugyi200.athena.sase-xe.16.11.7.14.6.5/README.md) | sase-xe.16.11.7.14.6 hood | waiting |
+| [sase-xe.16.11.7.14.6.4.f0](../../families/bbugyi200.athena.sase-xe.16.11.7.14.6.4.f0.md) (family · 9) | sase-xe.16.11.7.14.6 hood | completed 5, failed 4 |
+| [sase-xe.16.11.7.14.6.5](../bbugyi200.athena.sase-xe.16.11.7.14.6.5/README.md) | sase-xe.16.11.7.14.6 hood | active |
 | [sase-xe.16.11.7.14.6.land](../bbugyi200.athena.sase-xe.16.11.7.14.6.land/README.md) | sase-xe.16.11.7.14.6 hood | waiting |
 | [sase-xe.16.11.7.14.1](../../families/bbugyi200.athena.sase-xe.16.11.7.14.1.md) (family · 3) | sase-xe.16.11.7.14 hood | completed 2, failed 1 |
 | [sase-xe.16.11.7.14.2](../bbugyi200.athena.sase-xe.16.11.7.14.2/README.md) | sase-xe.16.11.7.14 hood | completed |
