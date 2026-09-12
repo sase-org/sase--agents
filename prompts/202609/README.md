@@ -45,6 +45,7 @@
 | [0j0.md](0j0.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/usage_window_legibility.md][1] | - | [bbugyi200.athena.0j0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0j0.md) | 1 |
 | [0j3.md](0j3.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0j3--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0j3.md) | 1 |
 | [0j4.md](0j4.md) | fork:0j4 %model:sonnet %effort:xhigh | - | [bbugyi200.athena.0j4--5](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0j4.md) | 0 |
+| [0j9.md](0j9.md) | gh:gh_sase-org__sase Can you help me review all open task beads on this machine (for | - | [bbugyi200.athena.0j9--0](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0j9.md) | 0 |
 | [0jb.md](0jb.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/sidecar_publication_recovery.md][1] | - | [bbugyi200.athena.0jb--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0jb.md) | 1 |
 | [0je.md](0je.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/grok_usage_zero_reset.md][1] | - | [bbugyi200.athena.0je--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0je.md) | 1 |
 | [0jg.md](0jg.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/tale_coder_handoff_recovery.md][1] | - | [bbugyi200.athena.0jg--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0jg.md) | 1 |
