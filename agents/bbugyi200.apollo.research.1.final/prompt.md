@@ -1,4 +1,5 @@
-%id(final, clan=research.1) %m:@xlarge
+%id(final, clan=research.1)
+%m:@xlarge
 %wait:research.1.cdx %wait:research.1.cld %q(w=0.25)
 #gh:gh_sase-org__sase 
 You are the lead researcher: two independent researchers have reported on the request
