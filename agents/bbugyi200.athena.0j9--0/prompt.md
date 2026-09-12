@@ -1,0 +1,22 @@
+#gh:gh_sase-org__sase Can you help me review all open task beads on this machine (for all enabled
+sase projects) associated with sase notifications (there are 53 of these at the moment,
+but you will not launch for a while now so that may have gone up a bit by then) and
+close any that are obsolete/undesirable with a strong justification? For any of these
+that are still relevant, you should write a strong justification for why the bead is
+still relevant in a new research markdown file in the research sidecar repo.
+
+- This research file should end with a ranked analysis of what you believe to be the
+  most important/impactful of these beads that you recommend be worked soon.
+- There are too many beads for you to do this all at once. Instead, use the /sase_pipe
+  skill to create a chain of agents (each one will create the next) to work this
+  problem.
+- Each agent should be given 4-5 beads (until we are out of beads) to either close with
+  strong justification or leave open with strong justification (which should be written
+  in the research file).
+- Each of the agents that is assigned beads should be launched using the `gpt-5.6-sol`
+  model. The last agent to review its beads should escalate (using the /sase_pipe skill
+  one last time) to the `gpt-6-astra` model to improve the research file by making it
+  more concise and adding the final analysis to the bottom. (I would then expect the
+  finalizer to commit the research file).
+
+%q:0 %m:@xlarge
