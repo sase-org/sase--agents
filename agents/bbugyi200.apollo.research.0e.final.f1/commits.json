@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782385299,"sha":"f965273f0a223d4afc015d7090499c63c55d5513","subject":"chore: Add SDD prompt and plan for agent_detail_header_offthread_diff"},{"committed_at":1782386473,"sha":"abe91de7f22ed5773672b3e2eb94795de76a5b3a","subject":"perf(tui): async enrich agent detail headers"}],"schema_version":2,"source_run_id":"run-547cc02933f8576b04415b8b0ac5388b"}

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782491925,"sha":"4c5ab83c9897e1104a389c17430c9460709c4317","subject":"chore: Add SDD prompt and plan for tui_suspend_watchdog"},{"committed_at":1782492993,"sha":"a4afcdfecb7720a4d39e7fa7e753b942449cbf41","subject":"feat(tui): make ACE suspend handoffs watchdog-aware"}],"schema_version":2,"source_run_id":"run-15fc6031537bd594e7bef83128e662d6"}
