@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.1.image
 
-**Global name:** `bbugyi200.apollo.research.1.image` · **State:** waiting · **Source run:** `run-7f11093ddf54dc4822467d476e9528fd`
+**Global name:** `bbugyi200.apollo.research.1.image` · **State:** active · **Source run:** `run-7f11093ddf54dc4822467d476e9528fd`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20260912160416
+- Timing: 2026-09-12T20:36:37.167313+00:00
 - Commits: [2](#commits)
 
 ## Files
@@ -30,7 +30,7 @@
 |---|---|---|
 | [research.1.cdx](../bbugyi200.apollo.research.1.cdx/README.md) | research.1 hood | completed |
 | [research.1.cld](../bbugyi200.apollo.research.1.cld/README.md) | research.1 hood | completed |
-| [research.1.final](../bbugyi200.apollo.research.1.final/README.md) | research.1 hood | active |
+| [research.1.final](../bbugyi200.apollo.research.1.final/README.md) | research.1 hood | completed |
 | [research.1.final.f1](../bbugyi200.apollo.research.1.final.f1/README.md) | research.1 hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
