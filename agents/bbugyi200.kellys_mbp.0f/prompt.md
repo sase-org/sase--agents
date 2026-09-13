@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Do you see any high-level architecture/design issues with the sase-zm epic bead? I'm not looking for you to calculate the proper weights of the different `just` commands. Instead, I would like you to critique this idea in general. What, if anything, would you change? #research %m:claude-fable-5
