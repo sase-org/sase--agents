@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-100.4--7 [completed]"]
   n1["sase-100.4--mon-3 [failed]"]
   n0 --> n1
-  n2["sase-100.4--8 [active]"]
+  n2["sase-100.4--8 [completed]"]
   n0 --> n2
   n3["sase-100.4--mon-0 [failed]"]
   n0 --> n3
@@ -49,7 +49,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-7"></a>7 | sase-100.4--7 | completed | grok-4.6 / grok | 2026-09-13T18:01:01.914980+00:00 → 2026-09-13T18:27:54.765269+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-100.4--7/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-100.4--7/chat.md) |
 | <a id="member-mon-3"></a>mon-3 | sase-100.4--mon-3 | failed | grok-4.6 / grok | 2026-09-13T16:58:40.216974+00:00 → 2026-09-13T17:09:38.892472+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-100.4--mon-3/chat.md) |
-| <a id="member-8"></a>8 | sase-100.4--8 | active | grok-4.6 / grok | 2026-09-13T18:31:08.940982+00:00 | [1](../agents/bbugyi200.apollo.sase-100.4--8/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-100.4--8/prompt.md) | — |
+| <a id="member-8"></a>8 | sase-100.4--8 | completed | grok-4.6 / grok | 2026-09-13T18:31:08.940982+00:00 → 2026-09-13T19:32:54.637859+00:00 | [1](../agents/bbugyi200.apollo.sase-100.4--8/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-100.4--8/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-100.4--8/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-100.4--mon-0 | failed | grok-4.6 / grok | 2026-09-13T12:41:07.922840+00:00 → 2026-09-13T14:24:57.645566+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-100.4--mon-0/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-100.4--mon-1 | failed | grok-4.6 / grok | 2026-09-13T14:32:14.255662+00:00 → 2026-09-13T16:19:04.729027+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-100.4--mon-1/chat.md) |
 | <a id="member-1"></a>1 | sase-100.4--1 | completed | grok-4.6 / grok | 2026-09-13T12:33:35.545198+00:00 → 2026-09-13T12:41:25.679008+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-100.4--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-100.4--1/chat.md) |
@@ -78,4 +78,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-100.1](../agents/bbugyi200.apollo.sase-100.1/README.md) | sase-100 hood | completed |
 | [sase-100.2](../agents/bbugyi200.apollo.sase-100.2/README.md) | sase-100 hood | completed |
 | [sase-100.3](bbugyi200.apollo.sase-100.3.md) (family · 3) | sase-100 hood | completed 2, failed 1 |
-| [sase-100.land](../agents/bbugyi200.apollo.sase-100.land/README.md) | sase-100 hood | waiting |
+| [sase-100.land](../agents/bbugyi200.apollo.sase-100.land/README.md) | sase-100 hood | active |

@@ -32,5 +32,5 @@
 |---|---|---|
 | [sase-100.2](../bbugyi200.apollo.sase-100.2/README.md) | sase-100 hood | completed |
 | [sase-100.3](../../families/bbugyi200.apollo.sase-100.3.md) (family · 3) | sase-100 hood | completed 2, failed 1 |
-| [sase-100.4](../../families/bbugyi200.apollo.sase-100.4.md) (family · 17) | sase-100 hood | active 1, completed 8, failed 8 |
-| [sase-100.land](../bbugyi200.apollo.sase-100.land/README.md) | sase-100 hood | waiting |
+| [sase-100.4](../../families/bbugyi200.apollo.sase-100.4.md) (family · 17) | sase-100 hood | completed 9, failed 8 |
+| [sase-100.land](../bbugyi200.apollo.sase-100.land/README.md) | sase-100 hood | active |
