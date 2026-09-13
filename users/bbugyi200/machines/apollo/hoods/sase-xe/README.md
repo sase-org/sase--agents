@@ -1,0 +1,49 @@
+# Hood: sase-xe
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / sase-xe
+
+**Global hood:** `bbugyi200.apollo.sase-xe` · **Runs:** 41 · **Families:** 2 · **States:** active 5, completed 29, failed 2, waiting 5
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [bbugyi200.athena.sase-xe.16.11.7.3](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.7.3/README.md) | completed | — | 2026-09-10T00:07:44+00:00 → 2026-09-10T00:07:44+00:00 | 1 | — |
+| [sase-xe.16.11.7.15.3--gate](../../../../../../families/bbugyi200.apollo.sase-xe.16.11.7.15.3.md#member-gate) | failed | opus / claude | 2026-09-13T22:53:46.933046+00:00 → 2026-09-13T22:53:57.863894+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-xe.16.11.7.15.3--gate/chat.md) |
+| [bbugyi200.athena.sase-xe.16.11.7.8](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.7.8/README.md) | completed | — | 2026-09-10T11:10:45+00:00 → 2026-09-10T11:10:45+00:00 | 1 | — |
+| [bbugyi200.athena.sase-xe.16.11.6.1](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.6.1/README.md) | completed | — | 2026-09-09T19:02:16+00:00 → 2026-09-09T19:02:16+00:00 | 1 | — |
+| [bbugyi200.athena.sase-xe.16.11.7.12](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.7.12/README.md) | completed | — | 2026-09-10T16:43:22+00:00 → 2026-09-10T16:43:22+00:00 | 1 | — |
+| [sase-xe.16.11.7.15.2--plan](../../../../../../families/bbugyi200.apollo.sase-xe.16.11.7.15.2.md#member-plan) | active | gpt-5.6-sol / codex | 2026-09-13T22:39:42.267819+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-xe.16.11.7.15.2--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-xe.16.11.7.15.2--plan/prompt.md) |
+| [bbugyi200.athena.sase-xe.16.11.7.6](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.7.6/README.md) | completed | — | 2026-09-10T07:00:36+00:00 → 2026-09-10T07:00:36+00:00 | 1 | — |
+| [bbugyi200.athena.sase-xe.16.11.7.14.6.5](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.7.14.6.5/README.md) | completed | — | 2026-09-11T12:17:30+00:00 → 2026-09-11T12:17:30+00:00 | 1 | — |
+| [sase-xe.16.11.7.15.3--code](../../../../../../families/bbugyi200.apollo.sase-xe.16.11.7.15.3.md#member-code) | active | gpt-5.5 / codex | 2026-09-13T22:54:06.076900+00:00 | 0 | — |
+| [bbugyi200.athena.sase-xe.16.11.7.14.4](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.7.14.4/README.md) | completed | — | 2026-09-10T23:07:21+00:00 → 2026-09-10T23:07:21+00:00 | 1 | — |
+| [bbugyi200.athena.sase-xe.16.11.7.14.6.7.2](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.7.14.6.7.2/README.md) | completed | — | 2026-09-11T14:48:05+00:00 → 2026-09-11T14:48:05+00:00 | 1 | — |
+| [sase-xe.16.11.7.15.2--code](../../../../../../families/bbugyi200.apollo.sase-xe.16.11.7.15.2.md#member-code) | active | grok-4.6 / grok | 2026-09-13T22:46:34.316288+00:00 | 0 | — |
+| [sase-xe.16.11.7.15.1](../../../../../../agents/bbugyi200.apollo.sase-xe.16.11.7.15.1/README.md) | active | grok-4.6 / grok | 2026-09-13T22:39:31.942632+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-xe.16.11.7.15.1/prompt.md) |
+| [bbugyi200.athena.sase-xe.16.8](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.8/README.md) | completed | — | 2026-09-08T17:21:01+00:00 → 2026-09-08T17:21:01+00:00 | 1 | — |
+| [bbugyi200.athena.sase-xe.9](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.9/README.md) | completed | — | 2026-09-06T21:59:43+00:00 → 2026-09-06T21:59:43+00:00 | 1 | — |
+| [bbugyi200.athena.sase-xe.16.11.7.5](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.7.5/README.md) | completed | — | 2026-09-10T05:42:38+00:00 → 2026-09-10T05:42:38+00:00 | 1 | — |
+| [bbugyi200.athena.sase-xe.16.4](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.4/README.md) | completed | — | 2026-09-08T20:44:35+00:00 → 2026-09-08T20:44:35+00:00 | 1 | — |
+| [bbugyi200.athena.sase-xe.1](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.1/README.md) | completed | — | 2026-09-06T20:25:23+00:00 → 2026-09-06T20:25:23+00:00 | 1 | — |
+| [bbugyi200.athena.sase-xe.16.11.7.14.6.2](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.7.14.6.2/README.md) | completed | — | 2026-09-11T02:08:14+00:00 → 2026-09-11T02:08:14+00:00 | 1 | — |
+| [bbugyi200.athena.sase-xe.16.5](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.5/README.md) | completed | — | 2026-09-08T15:29:47+00:00 → 2026-09-08T15:29:47+00:00 | 1 | — |
+| [sase-xe.16.11.7.15.2--gate](../../../../../../families/bbugyi200.apollo.sase-xe.16.11.7.15.2.md#member-gate) | failed | gpt-5.6-sol / codex | 2026-09-13T22:46:13.208867+00:00 → 2026-09-13T22:46:24.355267+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-xe.16.11.7.15.2--gate/chat.md) |
+| [bbugyi200.athena.sase-xe.16.11.7.9](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.7.9/README.md) | completed | — | 2026-09-10T12:49:03+00:00 → 2026-09-10T12:49:03+00:00 | 1 | — |
+| [sase-xe.16.11.7.15.7](../../../../../../agents/bbugyi200.apollo.sase-xe.16.11.7.15.7/README.md) | waiting | grok-4.6 / grok | 20260913183930 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-xe.16.11.7.15.7/prompt.md) |
+| [bbugyi200.athena.sase-xe.16.2](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.2/README.md) | completed | — | 2026-09-08T17:33:48+00:00 → 2026-09-08T17:33:48+00:00 | 1 | — |
+| [bbugyi200.athena.sase-xe.16.11.7.11](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.7.11/README.md) | completed | — | 2026-09-10T13:41:28+00:00 → 2026-09-10T13:41:28+00:00 | 1 | — |
+| [sase-xe.16.11.7.15.land](../../../../../../agents/bbugyi200.apollo.sase-xe.16.11.7.15.land/README.md) | waiting | gpt-6-astra / codex | 20260913183931 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-xe.16.11.7.15.land/prompt.md) |
+| [bbugyi200.athena.sase-xe.16.11.7.14.6.7.1](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.7.14.6.7.1/README.md) | completed | — | 2026-09-11T15:14:05+00:00 → 2026-09-11T15:14:05+00:00 | 1 | — |
+| [sase-xe.16.11.7.15.3--plan](../../../../../../families/bbugyi200.apollo.sase-xe.16.11.7.15.3.md#member-plan) | active | opus / claude | 2026-09-13T22:40:25.652229+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-xe.16.11.7.15.3--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-xe.16.11.7.15.3--plan/prompt.md) |
+| [bbugyi200.athena.sase-xe.16.11.7.10](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.7.10/README.md) | completed | — | 2026-09-10T10:52:33+00:00 → 2026-09-10T10:52:33+00:00 | 1 | — |
+| [bbugyi200.athena.sase-xe.16.11.7.7](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.7.7/README.md) | completed | — | 2026-09-10T12:10:06+00:00 → 2026-09-10T12:10:06+00:00 | 1 | — |
+| [sase-xe.16.11.7.15.5](../../../../../../agents/bbugyi200.apollo.sase-xe.16.11.7.15.5/README.md) | waiting | gpt-5.5 / codex | 20260913183928 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-xe.16.11.7.15.5/prompt.md) |
+| [sase-xe.16.11.7.15.4](../../../../../../agents/bbugyi200.apollo.sase-xe.16.11.7.15.4/README.md) | waiting | sonnet / claude | 20260913183927 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-xe.16.11.7.15.4/prompt.md) |
+| [bbugyi200.athena.sase-xe.16.11.7.2](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.7.2/README.md) | completed | — | 2026-09-09T20:51:12+00:00 → 2026-09-09T20:51:12+00:00 | 1 | — |
+| [bbugyi200.athena.sase-xe.16.3](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.3/README.md) | completed | — | 2026-09-08T16:39:32+00:00 → 2026-09-08T16:39:32+00:00 | 1 | — |
+| [bbugyi200.athena.sase-xe.16.7](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.7/README.md) | completed | — | 2026-09-08T14:49:43+00:00 → 2026-09-08T14:49:43+00:00 | 1 | — |
+| [bbugyi200.athena.sase-xe.16.11.7.4](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.7.4/README.md) | completed | — | 2026-09-09T21:47:28+00:00 → 2026-09-09T21:47:28+00:00 | 1 | — |
+| [bbugyi200.athena.sase-xe.16.11.7.14.2](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.7.14.2/README.md) | completed | — | 2026-09-10T19:40:21+00:00 → 2026-09-10T19:40:21+00:00 | 1 | — |
+| [bbugyi200.athena.sase-xe.16.11.5](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.5/README.md) | completed | — | 2026-09-09T15:59:41+00:00 → 2026-09-09T15:59:41+00:00 | 1 | — |
+| [bbugyi200.athena.sase-xe.3](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.3/README.md) | completed | — | 2026-09-06T23:07:58+00:00 → 2026-09-06T23:07:58+00:00 | 1 | — |
+| [bbugyi200.athena.sase-xe.16.11.4](../../../../../../agents/bbugyi200.apollo.bbugyi200.athena.sase-xe.16.11.4/README.md) | completed | — | 2026-09-09T14:13:15+00:00 → 2026-09-09T14:13:15+00:00 | 1 | — |
+| [sase-xe.16.11.7.15.6](../../../../../../agents/bbugyi200.apollo.sase-xe.16.11.7.15.6/README.md) | waiting | sonnet / claude | 20260913183929 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-xe.16.11.7.15.6/prompt.md) |
