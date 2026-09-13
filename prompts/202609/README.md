@@ -17,6 +17,7 @@
 | [0ao.md](0ao.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0ao--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0ao.md) | 1 |
 | [0b.md](0b.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.kellys_mbp.0b--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.kellys_mbp.0b.md) | 1 |
 | [0f.md](0f.md) | gh:gh_sase-org__sase Do you see any high-level architecture/design issues with the | - | [bbugyi200.kellys_mbp.0f](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.0f/README.md) | 0 |
+| [0g.md](0g.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.kellys_mbp.0g--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.kellys_mbp.0g.md) | 1 |
 | [0ge.md](0ge.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0ge--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0ge.md) | 1 |
 | [0gf.md](0gf.md) | fork:0gf %model:sonnet %effort:high | - | [bbugyi200.athena.0gf--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0gf.md) | 0 |
 | [0gh.md](0gh.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/prompt_search_performance.md][1] | - | [bbugyi200.athena.0gh--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0gh.md) | 1 |
