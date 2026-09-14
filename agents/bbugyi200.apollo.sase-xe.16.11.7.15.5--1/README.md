@@ -1,39 +1,38 @@
-# Agent: sase-xe.16.11.7.15.1
+# Agent: sase-xe.16.11.7.15.5--1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-xe](../../users/bbugyi200/machines/apollo/hoods/sase-xe/README.md) / sase-xe.16.11.7.15.1
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-xe](../../users/bbugyi200/machines/apollo/hoods/sase-xe/README.md) / [sase-xe.16.11.7.15.5](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.5.md) / sase-xe.16.11.7.15.5--1
 
-**Global name:** `bbugyi200.apollo.sase-xe.16.11.7.15.1` · **State:** completed · **Source run:** `run-4af850f0aadee2a40a2d4a3da4d403ae`
+**Global name:** `bbugyi200.apollo.sase-xe.16.11.7.15.5--1` · **State:** active · **Source run:** `run-dd10d1b3dbbb29fb4644a4375e05c57b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-xe
 
 ## Summary
 
-- Bead: [sase-xe.16.11.7.15.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.15.1.md)
-- Epic: [sase-xe.16.11.7.15](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.15.md)
-- Model: grok-4.6
-- Provider: grok
-- Timing: 2026-09-13T22:39:31.942632+00:00 → 2026-09-14T00:08:50.353560+00:00
+- Bead: [sase-xe.16.11.7.15.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.15.5.md)
+- Model: sonnet
+- Provider: claude
+- Timing: 2026-09-14T13:51:45.495409+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Prompt](prompt.md)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f0fb9c8`](https://github.com/sase-org/sase/commit/f0fb9c8843c5ad509960c6ff58cb05fd6cade972) | fix(ace-tui): drop here chips and show host chips on remote nodes | 2026-09-13 20:04:05 EDT |
+| sase | [`8ed00c4`](https://github.com/sase-org/sase/commit/8ed00c4ed67dc85abded7ea31ce8fce49b3cf865) | fix(ace-tui): map remote fleet-row identity fields and suppress stale online chrome | 2026-09-14 09:56:01 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [sase-xe.16.11.7.15.1](../bbugyi200.apollo.sase-xe.16.11.7.15.1/README.md) | sase-xe.16.11.7.15 hood | completed |
 | [sase-xe.16.11.7.15.2](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.2.md) (family · 3) | sase-xe.16.11.7.15 hood | completed 2, failed 1 |
 | [sase-xe.16.11.7.15.3](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.3.md) (family · 5) | sase-xe.16.11.7.15 hood | completed 3, failed 2 |
 | [sase-xe.16.11.7.15.4](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.4.md) (family · 9) | sase-xe.16.11.7.15 hood | completed 5, failed 4 |
 | [sase-xe.16.11.7.15.4](../bbugyi200.apollo.sase-xe.16.11.7.15.4/README.md) | sase-xe.16.11.7.15 hood | completed |
-| [sase-xe.16.11.7.15.5](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.5.md) (family · 3) | sase-xe.16.11.7.15 hood | active 1, completed 1, failed 1 |
 | [sase-xe.16.11.7.15.6](../bbugyi200.apollo.sase-xe.16.11.7.15.6/README.md) | sase-xe.16.11.7.15 hood | waiting |
 | [sase-xe.16.11.7.15.7](../bbugyi200.apollo.sase-xe.16.11.7.15.7/README.md) | sase-xe.16.11.7.15 hood | waiting |
 | [sase-xe.16.11.7.15.land](../bbugyi200.apollo.sase-xe.16.11.7.15.land/README.md) | sase-xe.16.11.7.15 hood | waiting |
