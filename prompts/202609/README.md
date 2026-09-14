@@ -62,6 +62,7 @@
 | [0kd.md](0kd.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0kd--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0kd.md) | 1 |
 | [0ke.md](0ke.md) | %queue(weight=1) #fork:0ke--code %model:grok-4.6@xhigh | - | [bbugyi200.athena.0ke--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0ke.md) | 0 |
 | [0kf.md](0kf.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/agents_metadata_pager.md][1] | - | [bbugyi200.athena.0kf--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0kf.md) | 1 |
+| [0kg.md](0kg.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/colon_to_parentheses.md][1] | - | [bbugyi200.athena.0kg--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0kg.md) | 1 |
 | [1m.md](1m.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.1m--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.1m.md) | 1 |
 | [30.md](30.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/memory_batch_read_file_counts.md | - | [bbugyi200.athena.30](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.30/README.md) | 0 |
 | [3u.md](3u.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/poseidon_cargo_retention.md][1] | - | [bbugyi200.athena.3u--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.3u.md) | 1 |
