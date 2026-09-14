@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-zr](../../users/bbugyi200/machines/apollo/hoods/sase-zr/README.md) / [sase-zr.5](../../families/bbugyi200.apollo.sase-zr.5.md) / sase-zr.5--gate
 
-**Global name:** `bbugyi200.apollo.sase-zr.5--gate` · **State:** active · **Source run:** `run-8092215bfb4d4f0494aedfe37784b055`
+**Global name:** `bbugyi200.apollo.sase-zr.5--gate` · **State:** failed · **Source run:** `run-8092215bfb4d4f0494aedfe37784b055`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-zr
 
@@ -12,8 +12,12 @@
 - Epic: [sase-zr](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zr/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-14T14:22:30.342229+00:00
+- Timing: 2026-09-14T14:22:30.342229+00:00 → 2026-09-14T15:20:38.041335+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 

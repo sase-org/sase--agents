@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f4a52bd5d62fe26a3cadb7a6756625c6"}
+{"commits":[{"committed_at":1789405055,"sha":"04005a222c6648aeccd2200ecbc035ac222c5f12","subject":"fix(bead): verify worker stops before forced reuse"}],"schema_version":2,"source_run_id":"run-f4a52bd5d62fe26a3cadb7a6756625c6"}

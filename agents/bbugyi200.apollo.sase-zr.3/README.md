@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-14T13:01:21.699028+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`04005a2`](https://github.com/sase-org/sase/commit/04005a222c6648aeccd2200ecbc035ac222c5f12) | fix(bead): verify worker stops before forced reuse | 2026-09-14 12:57:35 EDT |
 
 ## Neighbors
 
@@ -28,6 +34,6 @@
 | [sase-zr.2](../../families/bbugyi200.apollo.sase-zr.2.md) (family · 3) | sase-zr hood | completed 2, failed 1 |
 | [sase-zr.2](../bbugyi200.apollo.sase-zr.2/README.md) | sase-zr hood | completed |
 | [sase-zr.4](../bbugyi200.apollo.sase-zr.4/README.md) | sase-zr hood | completed |
-| [sase-zr.5](../../families/bbugyi200.apollo.sase-zr.5.md) (family · 3) | sase-zr hood | active 3 |
+| [sase-zr.5](../../families/bbugyi200.apollo.sase-zr.5.md) (family · 3) | sase-zr hood | active 1, failed 2 |
 | [sase-zr.6](../bbugyi200.apollo.sase-zr.6/README.md) | sase-zr hood | waiting |
 | [sase-zr.land](../bbugyi200.apollo.sase-zr.land/README.md) | sase-zr hood | waiting |

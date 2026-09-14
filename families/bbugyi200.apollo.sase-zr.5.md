@@ -8,8 +8,8 @@ Owner: `bbugyi200.apollo` · Hood: `sase-zr` · Members: 3 · Bead: [sase-zr.5](
 
 ```mermaid
 flowchart TD
-  n0["sase-zr.5--gate-0 [active]"]
-  n1["sase-zr.5--gate [active]"]
+  n0["sase-zr.5--gate-0 [failed]"]
+  n1["sase-zr.5--gate [failed]"]
   n0 --> n1
   n2["sase-zr.5--plan [active]"]
   n0 --> n2
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-gate-0"></a>gate-0 | sase-zr.5--gate-0 | active | sonnet / claude | 2026-09-14T14:24:41.113549+00:00 | 0 | — | — |
-| <a id="member-gate"></a>gate | sase-zr.5--gate | active | sonnet / claude | 2026-09-14T14:22:30.342229+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-zr.5--plan | active | sonnet / claude | 2026-09-14T13:44:34.530905+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-zr.5--plan/prompt.md) | — |
+| <a id="member-gate-0"></a>gate-0 | sase-zr.5--gate-0 | failed | sonnet / claude | 2026-09-14T14:24:41.113549+00:00 → 2026-09-14T15:20:36.709973+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-zr.5--gate-0/chat.md) |
+| <a id="member-gate"></a>gate | sase-zr.5--gate | failed | sonnet / claude | 2026-09-14T14:22:30.342229+00:00 → 2026-09-14T15:20:38.041335+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-zr.5--gate/chat.md) |
+| <a id="member-plan"></a>plan | sase-zr.5--plan | active | sonnet / claude | 2026-09-14T13:44:34.530905+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-zr.5--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-zr.5--plan/chat.md) |
 
 ## Neighbors
 
