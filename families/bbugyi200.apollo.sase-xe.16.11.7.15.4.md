@@ -45,6 +45,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
+| — | sase | [`631e0b5`](https://github.com/sase-org/sase/commit/631e0b510d89ce4fdaa224e9cad3b601c8b3b0ee) | chore(core): ratchet sase-core revision pin to published v0.34.25 | 2026-09-13 22:01:58 EDT |
 | 4 | sase | [`7e922da`](https://github.com/sase-org/sase/commit/7e922da66631b2283ae2d31626abf3acaf4d4c59) | chore(core): ratchet sase-core-revision.txt to a35b18220fb3 | 2026-09-14 08:26:43 EDT |
 | 4 | sase | [`d699f27`](https://github.com/sase-org/sase/commit/d699f2761a4da7ec0387ff1a10ee5e3cea0563f5) | fix(monitor): use absolute import for store module in store\_lane.py | 2026-09-14 08:32:09 EDT |
 
@@ -55,7 +56,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-xe.16.11.7.15.1](../agents/bbugyi200.apollo.sase-xe.16.11.7.15.1/README.md) | sase-xe.16.11.7.15 hood | completed |
 | [sase-xe.16.11.7.15.2](bbugyi200.apollo.sase-xe.16.11.7.15.2.md) (family · 3) | sase-xe.16.11.7.15 hood | completed 2, failed 1 |
 | [sase-xe.16.11.7.15.3](bbugyi200.apollo.sase-xe.16.11.7.15.3.md) (family · 5) | sase-xe.16.11.7.15 hood | completed 3, failed 2 |
-| [sase-xe.16.11.7.15.5](bbugyi200.apollo.sase-xe.16.11.7.15.5.md) (family · 3) | sase-xe.16.11.7.15 hood | active 1, completed 1, failed 1 |
-| [sase-xe.16.11.7.15.6](../agents/bbugyi200.apollo.sase-xe.16.11.7.15.6/README.md) | sase-xe.16.11.7.15 hood | waiting |
+| [sase-xe.16.11.7.15.5](bbugyi200.apollo.sase-xe.16.11.7.15.5.md) (family · 3) | sase-xe.16.11.7.15 hood | completed 2, failed 1 |
+| [sase-xe.16.11.7.15.6](../agents/bbugyi200.apollo.sase-xe.16.11.7.15.6/README.md) | sase-xe.16.11.7.15 hood | active |
 | [sase-xe.16.11.7.15.7](../agents/bbugyi200.apollo.sase-xe.16.11.7.15.7/README.md) | sase-xe.16.11.7.15 hood | waiting |
 | [sase-xe.16.11.7.15.land](../agents/bbugyi200.apollo.sase-xe.16.11.7.15.land/README.md) | sase-xe.16.11.7.15 hood | waiting |

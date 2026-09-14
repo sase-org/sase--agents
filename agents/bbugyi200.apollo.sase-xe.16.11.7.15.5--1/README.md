@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-xe](../../users/bbugyi200/machines/apollo/hoods/sase-xe/README.md) / [sase-xe.16.11.7.15.5](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.5.md) / sase-xe.16.11.7.15.5--1
 
-**Global name:** `bbugyi200.apollo.sase-xe.16.11.7.15.5--1` · **State:** active · **Source run:** `run-dd10d1b3dbbb29fb4644a4375e05c57b`
+**Global name:** `bbugyi200.apollo.sase-xe.16.11.7.15.5--1` · **State:** completed · **Source run:** `run-dd10d1b3dbbb29fb4644a4375e05c57b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-xe
 
@@ -11,12 +11,12 @@
 - Bead: [sase-xe.16.11.7.15.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.15.5.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-14T13:51:45.495409+00:00
+- Timing: 2026-09-14T13:51:45.495409+00:00 → 2026-09-14T14:01:09.634221+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -33,6 +33,6 @@
 | [sase-xe.16.11.7.15.3](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.3.md) (family · 5) | sase-xe.16.11.7.15 hood | completed 3, failed 2 |
 | [sase-xe.16.11.7.15.4](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.4.md) (family · 9) | sase-xe.16.11.7.15 hood | completed 5, failed 4 |
 | [sase-xe.16.11.7.15.4](../bbugyi200.apollo.sase-xe.16.11.7.15.4/README.md) | sase-xe.16.11.7.15 hood | completed |
-| [sase-xe.16.11.7.15.6](../bbugyi200.apollo.sase-xe.16.11.7.15.6/README.md) | sase-xe.16.11.7.15 hood | waiting |
+| [sase-xe.16.11.7.15.6](../bbugyi200.apollo.sase-xe.16.11.7.15.6/README.md) | sase-xe.16.11.7.15 hood | active |
 | [sase-xe.16.11.7.15.7](../bbugyi200.apollo.sase-xe.16.11.7.15.7/README.md) | sase-xe.16.11.7.15 hood | waiting |
 | [sase-xe.16.11.7.15.land](../bbugyi200.apollo.sase-xe.16.11.7.15.land/README.md) | sase-xe.16.11.7.15 hood | waiting |
