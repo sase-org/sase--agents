@@ -21,6 +21,6 @@
 | [sase-wn](hoods/sase-wn/README.md) | 23 | 2 | active 1, completed 15, dismissed 1, failed 6 |
 | [sase-ws](hoods/sase-ws/README.md) | 18 | 3 | active 2, completed 10, dismissed 1, failed 5 |
 | [sase-xe](hoods/sase-xe/README.md) | 52 | 3 | active 1, completed 40, failed 7, waiting 4 |
-| [sase-zr](hoods/sase-zr/README.md) | 15 | 2 | active 1, completed 6, failed 3, waiting 5 |
+| [sase-zr](hoods/sase-zr/README.md) | 15 | 2 | active 2, completed 7, failed 3, waiting 3 |
 | [t](hoods/t/README.md) | 1 | 0 | active 1 |
 | [u](hoods/u/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
