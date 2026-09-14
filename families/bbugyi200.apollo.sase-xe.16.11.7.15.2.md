@@ -8,8 +8,8 @@ Owner: `bbugyi200.apollo` · Hood: `sase-xe` · Members: 3 · Bead: [sase-xe.16.
 
 ```mermaid
 flowchart TD
-  n0["sase-xe.16.11.7.15.2--plan [active]"]
-  n1["sase-xe.16.11.7.15.2--code [active]"]
+  n0["sase-xe.16.11.7.15.2--plan [completed]"]
+  n1["sase-xe.16.11.7.15.2--code [completed]"]
   n0 --> n1
   n2["sase-xe.16.11.7.15.2--gate [failed]"]
   n0 --> n2
@@ -19,8 +19,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-xe.16.11.7.15.2--plan | active | gpt-5.6-sol / codex | 2026-09-13T22:39:42.267819+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-xe.16.11.7.15.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-xe.16.11.7.15.2--plan/chat.md) |
-| <a id="member-code"></a>code | sase-xe.16.11.7.15.2--code | active | grok-4.6 / grok | 2026-09-13T22:46:34.316288+00:00 | [1](../agents/bbugyi200.apollo.sase-xe.16.11.7.15.2--code/README.md#commits) | — | — |
+| <a id="member-plan"></a>plan | sase-xe.16.11.7.15.2--plan | completed | gpt-5.6-sol / codex | 2026-09-13T22:39:42.267819+00:00 → 2026-09-14T00:14:46.386736+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-xe.16.11.7.15.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-xe.16.11.7.15.2--plan/chat.md) |
+| <a id="member-code"></a>code | sase-xe.16.11.7.15.2--code | completed | grok-4.6 / grok | 2026-09-13T22:46:34.316288+00:00 → 2026-09-14T00:14:46.386736+00:00 | [1](../agents/bbugyi200.apollo.sase-xe.16.11.7.15.2--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.sase-xe.16.11.7.15.2--code/chat.md) |
 | <a id="member-gate"></a>gate | sase-xe.16.11.7.15.2--gate | failed | gpt-5.6-sol / codex | 2026-09-13T22:46:13.208867+00:00 → 2026-09-13T22:46:24.355267+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-xe.16.11.7.15.2--gate/chat.md) |
 
 ## Commits
