@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3e9efa63dff102c609b86b4defc976d7"}
+{"commits":[{"committed_at":1789344646,"sha":"65f876aafcedd8512eaf900497d1363939a656f4","subject":"feat(ace): synthesize remote fleet rows into family and clan nodes"}],"schema_version":2,"source_run_id":"run-3e9efa63dff102c609b86b4defc976d7"}
