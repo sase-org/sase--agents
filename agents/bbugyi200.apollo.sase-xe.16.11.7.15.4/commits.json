@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c99d5204bf3a48794271813610730cd3"}
+{"commits":[{"committed_at":1789351318,"sha":"631e0b510d89ce4fdaa224e9cad3b601c8b3b0ee","subject":"chore(core): ratchet sase-core revision pin to published v0.34.25"}],"schema_version":2,"source_run_id":"run-dc8784c9a5c9e84672ad18c330211b90"}

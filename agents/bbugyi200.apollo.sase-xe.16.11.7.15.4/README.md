@@ -2,22 +2,27 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-xe](../../users/bbugyi200/machines/apollo/hoods/sase-xe/README.md) / sase-xe.16.11.7.15.4
 
-**Global name:** `bbugyi200.apollo.sase-xe.16.11.7.15.4` · **State:** waiting · **Source run:** `run-c99d5204bf3a48794271813610730cd3`
+**Global name:** `bbugyi200.apollo.sase-xe.16.11.7.15.4` · **State:** active · **Source run:** `run-dc8784c9a5c9e84672ad18c330211b90`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-xe
 
 ## Summary
 
 - Bead: [sase-xe.16.11.7.15.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.15.4.md)
-- Epic: [sase-xe.16.11.7.15](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.15.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 20260913183927
-- Commits: 0
+- Timing: 2026-09-14T01:43:15.025500+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`631e0b5`](https://github.com/sase-org/sase/commit/631e0b510d89ce4fdaa224e9cad3b601c8b3b0ee) | chore(core): ratchet sase-core revision pin to published v0.34.25 | 2026-09-13 22:01:58 EDT |
 
 ## Neighbors
 
@@ -25,7 +30,7 @@
 |---|---|---|
 | [sase-xe.16.11.7.15.1](../bbugyi200.apollo.sase-xe.16.11.7.15.1/README.md) | sase-xe.16.11.7.15 hood | completed |
 | [sase-xe.16.11.7.15.2](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.2.md) (family · 3) | sase-xe.16.11.7.15 hood | completed 2, failed 1 |
-| [sase-xe.16.11.7.15.3](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.3.md) (family · 5) | sase-xe.16.11.7.15 hood | active 1, completed 2, failed 2 |
+| [sase-xe.16.11.7.15.3](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.3.md) (family · 5) | sase-xe.16.11.7.15 hood | completed 3, failed 2 |
 | [sase-xe.16.11.7.15.5](../bbugyi200.apollo.sase-xe.16.11.7.15.5/README.md) | sase-xe.16.11.7.15 hood | waiting |
 | [sase-xe.16.11.7.15.6](../bbugyi200.apollo.sase-xe.16.11.7.15.6/README.md) | sase-xe.16.11.7.15 hood | waiting |
 | [sase-xe.16.11.7.15.7](../bbugyi200.apollo.sase-xe.16.11.7.15.7/README.md) | sase-xe.16.11.7.15 hood | waiting |
