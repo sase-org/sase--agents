@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-zr.2](../bbugyi200.apollo.sase-zr.2/README.md) | sase-zr hood | waiting |
+| [sase-zr.2](../bbugyi200.apollo.sase-zr.2/README.md) | sase-zr hood | active |
 | [sase-zr.3](../bbugyi200.apollo.sase-zr.3/README.md) | sase-zr hood | waiting |
 | [sase-zr.4](../bbugyi200.apollo.sase-zr.4/README.md) | sase-zr hood | waiting |
 | [sase-zr.5](../bbugyi200.apollo.sase-zr.5/README.md) | sase-zr hood | waiting |

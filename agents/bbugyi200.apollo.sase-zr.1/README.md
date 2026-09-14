@@ -1,23 +1,18 @@
-# Agent: sase-zr.1--plan
+# Agent: sase-zr.1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-zr](../../users/bbugyi200/machines/apollo/hoods/sase-zr/README.md) / [sase-zr.1](../../families/bbugyi200.apollo.sase-zr.1.md) / sase-zr.1--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-zr](../../users/bbugyi200/machines/apollo/hoods/sase-zr/README.md) / sase-zr.1
 
-**Global name:** `bbugyi200.apollo.sase-zr.1--plan` · **State:** completed · **Source run:** `run-882f47088d48d3552dd47b8c249f060c`
+**Global name:** `bbugyi200.apollo.sase-zr.1` · **State:** completed · **Source run:** `run-fe64d2a954db015814715a1c871dffda`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-zr
 
 ## Summary
 
 - Bead: [sase-zr.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zr/sase-zr.1.md)
-- Epic: [sase-zr](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zr/README.md)
-- Model: sonnet
-- Provider: claude
-- Timing: 2026-09-13T21:13:00.350340+00:00 → 2026-09-13T22:21:13.827380+00:00
+- Model: —
+- Provider: —
+- Timing: 2026-09-13T23:12:59+00:00 → 2026-09-13T23:12:59+00:00
 - Commits: [1](#commits)
-
-## Files
-
-[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
