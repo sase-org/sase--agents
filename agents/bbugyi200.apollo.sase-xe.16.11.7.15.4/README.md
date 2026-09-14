@@ -2,21 +2,17 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-xe](../../users/bbugyi200/machines/apollo/hoods/sase-xe/README.md) / sase-xe.16.11.7.15.4
 
-**Global name:** `bbugyi200.apollo.sase-xe.16.11.7.15.4` · **State:** active · **Source run:** `run-dc8784c9a5c9e84672ad18c330211b90`
+**Global name:** `bbugyi200.apollo.sase-xe.16.11.7.15.4` · **State:** completed · **Source run:** `run-4fd3d7e7225fd69aceca363151bd5993`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-xe
 
 ## Summary
 
 - Bead: [sase-xe.16.11.7.15.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.15.4.md)
-- Model: sonnet
-- Provider: claude
-- Timing: 2026-09-14T01:43:15.025500+00:00
+- Model: —
+- Provider: —
+- Timing: 2026-09-14T02:01:58+00:00 → 2026-09-14T02:01:58+00:00
 - Commits: [1](#commits)
-
-## Files
-
-[Prompt](prompt.md)
 
 ## Commits
 
