@@ -23,4 +23,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-10j.2](../bbugyi200.apollo.sase-10j.2/README.md) | sase-10j hood | active |
-| [sase-10j.3](../bbugyi200.apollo.sase-10j.3/README.md) | sase-10j hood | active |
+| [sase-10j.3](../bbugyi200.apollo.sase-10j.3/README.md) | sase-10j hood | completed |
