@@ -1,8 +1,8 @@
-# Agent: sase-xe.16.11.7.15.3--code
+# Agent: sase-xe.16.11.7.15.3--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-xe](../../users/bbugyi200/machines/apollo/hoods/sase-xe/README.md) / [sase-xe.16.11.7.15.3](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.3.md) / sase-xe.16.11.7.15.3--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-xe](../../users/bbugyi200/machines/apollo/hoods/sase-xe/README.md) / [sase-xe.16.11.7.15.3](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.3.md) / sase-xe.16.11.7.15.3--mon
 
-**Global name:** `bbugyi200.apollo.sase-xe.16.11.7.15.3--code` · **State:** completed · **Source run:** `run-2724e797fb175de116f757576a01295e`
+**Global name:** `bbugyi200.apollo.sase-xe.16.11.7.15.3--mon` · **State:** failed · **Source run:** `run-976293e9aed6060cf1d0948368cbb479`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-xe
 
@@ -12,7 +12,7 @@
 - Epic: [sase-xe.16.11.7.15](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.15.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-13T22:54:06.076900+00:00 → 2026-09-13T23:24:00.021173+00:00
+- Timing: 2026-09-13T23:23:41.171650+00:00 → 2026-09-13T23:24:14.022153+00:00
 - Commits: 0
 
 ## Files
