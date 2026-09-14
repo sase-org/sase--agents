@@ -1,24 +1,28 @@
-# Agent: sase-zr.2
+# Agent: sase-zr.2--1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-zr](../../users/bbugyi200/machines/apollo/hoods/sase-zr/README.md) / sase-zr.2
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-zr](../../users/bbugyi200/machines/apollo/hoods/sase-zr/README.md) / [sase-zr.2](../../families/bbugyi200.apollo.sase-zr.2.md) / sase-zr.2--1
 
-**Global name:** `bbugyi200.apollo.sase-zr.2` · **State:** completed · **Source run:** `run-135b471e604ddddfab924ba583949aa5`
+**Global name:** `bbugyi200.apollo.sase-zr.2--1` · **State:** active · **Source run:** `run-275a75513e6f3425258813ce2e93215f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-zr
 
 ## Summary
 
 - Bead: [sase-zr.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zr/sase-zr.2.md)
-- Model: —
-- Provider: —
-- Timing: 2026-09-14T01:51:48+00:00 → 2026-09-14T01:51:48+00:00
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 2026-09-14T11:23:01.551000+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Prompt](prompt.md)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c8152f4`](https://github.com/sase-org/sase/commit/c8152f4978272b6c6cce30ec9f23470926fff144) | feat(gate-shell): accept gate decisions durably before slow execution | 2026-09-13 21:51:48 EDT |
+| sase | [`d2ba89c`](https://github.com/sase-org/sase/commit/d2ba89cb420aea18ac27b4192e6bb49731729cbd) | fix(monitor): keep lookup helpers private | 2026-09-14 08:59:17 EDT |
 
 ## Neighbors
 
