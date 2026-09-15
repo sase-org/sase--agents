@@ -75,6 +75,7 @@
 | [0l3.f0.md](0l3.f0.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/sbd_completion_repair.md][1] | - | [bbugyi200.athena.0l3.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0l3.f0.md) | 1 |
 | [0l5.md](0l5.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/pager_xprompt_skills.md %m:@medium | - | [bbugyi200.athena.0l5](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0l5/README.md) | 0 |
 | [0l9.md](0l9.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/sudo_handoff_stale_flag_pin.md][1] | - | [bbugyi200.athena.0l9--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0l9.md) | 1 |
+| [0ld.md](0ld.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/chezmoi_headless_sudo_guards.md | - | [bbugyi200.athena.0ld](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0ld/README.md) | 0 |
 | [0q.f0.md](0q.f0.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/fix_portable_zsh_paths.md][1] | - | [bbugyi200.kellys_mbp.0q.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.kellys_mbp.0q.f0.md) | 1 |
 | [1m.md](1m.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.1m--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.1m.md) | 1 |
 | [30.md](30.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/memory_batch_read_file_counts.md | - | [bbugyi200.athena.30](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.30/README.md) | 0 |
