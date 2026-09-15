@@ -13,18 +13,24 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-15T11:39:12.490420+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`801e985`](https://github.com/sase-org/sase/commit/801e98578b5c954150726f8f84946007a80ba468) | fix(dispatch): surface gateway version skew | 2026-09-15 08:05:23 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-xe.16.11.7.16.1](../bbugyi200.apollo.sase-xe.16.11.7.16.1/README.md) | sase-xe.16.11.7.16 hood | completed |
-| [sase-xe.16.11.7.16.2](../../families/bbugyi200.apollo.sase-xe.16.11.7.16.2.md) (family · 3) | sase-xe.16.11.7.16 hood | active 1, completed 1, failed 1 |
+| [sase-xe.16.11.7.16.2](../../families/bbugyi200.apollo.sase-xe.16.11.7.16.2.md) (family · 3) | sase-xe.16.11.7.16 hood | completed 2, failed 1 |
 | [sase-xe.16.11.7.16.3](../../families/bbugyi200.apollo.sase-xe.16.11.7.16.3.md) (family · 5) | sase-xe.16.11.7.16 hood | completed 3, failed 2 |
 | [sase-xe.16.11.7.16.land](../bbugyi200.apollo.sase-xe.16.11.7.16.land/README.md) | sase-xe.16.11.7.16 hood | waiting |
 | [sase-xe.16.11.7.15.1](../bbugyi200.apollo.sase-xe.16.11.7.15.1/README.md) | sase-xe.16.11.7 hood | completed |

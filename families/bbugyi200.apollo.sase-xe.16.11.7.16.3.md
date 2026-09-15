@@ -40,7 +40,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-xe.16.11.7.16.1](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.1/README.md) | sase-xe.16.11.7.16 hood | completed |
-| [sase-xe.16.11.7.16.2](bbugyi200.apollo.sase-xe.16.11.7.16.2.md) (family · 3) | sase-xe.16.11.7.16 hood | active 1, completed 1, failed 1 |
+| [sase-xe.16.11.7.16.2](bbugyi200.apollo.sase-xe.16.11.7.16.2.md) (family · 3) | sase-xe.16.11.7.16 hood | completed 2, failed 1 |
 | [sase-xe.16.11.7.16.4](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.4/README.md) | sase-xe.16.11.7.16 hood | active |
 | [sase-xe.16.11.7.16.land](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.land/README.md) | sase-xe.16.11.7.16 hood | waiting |
 | [sase-xe.16.11.7.15.1](../agents/bbugyi200.apollo.sase-xe.16.11.7.15.1/README.md) | sase-xe.16.11.7 hood | completed |

@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-xe.16.11.7.16.2--plan [completed]"]
   n1["sase-xe.16.11.7.16.2--mon [failed]"]
   n0 --> n1
-  n2["sase-xe.16.11.7.16.2--1 [active]"]
+  n2["sase-xe.16.11.7.16.2--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-xe.16.11.7.16.2--plan | completed | gpt-5.5 / codex | 2026-09-15T11:39:11.063543+00:00 → 2026-09-15T11:49:16.304016+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.2--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-xe.16.11.7.16.2--mon | failed | gpt-5.5 / codex | 2026-09-15T11:48:53.870589+00:00 → 2026-09-15T11:54:47.887977+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.2--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-xe.16.11.7.16.2--1 | active | gpt-5.5 / codex | 2026-09-15T11:54:47.717729+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-xe.16.11.7.16.2--1 | completed | gpt-5.5 / codex | 2026-09-15T11:54:47.717729+00:00 → 2026-09-15T12:02:30.613061+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.2--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.2--1/chat.md) |
 
 ## Neighbors
 
