@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d339a1d2b93ecb393ea96ae8a6ff5f34"}
+{"commits":[{"committed_at":1789495193,"sha":"d0975c7198d098a3f9b4abbe0f4f5124b7625972","subject":"fix: consume gateway version in fleet status"}],"schema_version":2,"source_run_id":"run-d339a1d2b93ecb393ea96ae8a6ff5f34"}
