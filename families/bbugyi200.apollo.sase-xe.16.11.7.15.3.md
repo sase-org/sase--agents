@@ -48,6 +48,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-xe.16.11.7.16.5.1](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.5.1/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.16.5.2](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.5.2/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.16.5.3](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.5.3/README.md) | sase-xe.16.11.7 hood | completed |
-| [sase-xe.16.11.7.16.5.4](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.5.4/README.md) | sase-xe.16.11.7 hood | active |
-| [sase-xe.16.11.7.16.5.land](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.5.land/README.md) | sase-xe.16.11.7 hood | waiting |
+| [sase-xe.16.11.7.16.5.4](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.5.4/README.md) | sase-xe.16.11.7 hood | completed |
+| [sase-xe.16.11.7.16.5.5.1](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.5.5.1/README.md) | sase-xe.16.11.7 hood | completed |
+| [sase-xe.16.11.7.16.5.5.land](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.5.5.land/README.md) | sase-xe.16.11.7 hood | active |
+| [sase-xe.16.11.7.16.5.land](bbugyi200.apollo.sase-xe.16.11.7.16.5.land.md) (family · 3) | sase-xe.16.11.7 hood | failed 3 |
 | [sase-xe.16.11.7.16.land](bbugyi200.apollo.sase-xe.16.11.7.16.land.md) (family · 3) | sase-xe.16.11.7 hood | failed 3 |
