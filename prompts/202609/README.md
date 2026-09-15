@@ -70,6 +70,7 @@
 | [0kw.md](0kw.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/telegram_hermetic_test_env.md][1] | - | [bbugyi200.athena.0kw--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0kw.md) | 1 |
 | [0ky.md](0ky.md) | %queue(weight=1) #fork:0ky--1 %model:gpt-6-astra@xhigh | - | [bbugyi200.athena.0ky--2](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0ky.md) | 0 |
 | [0l0.md](0l0.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/family_row_queued_status.md][1] | - | [bbugyi200.athena.0l0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0l0.md) | 1 |
+| [0l2.md](0l2.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/pager_home_path_resolution.md][1] | - | [bbugyi200.athena.0l2--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0l2.md) | 1 |
 | [1m.md](1m.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.1m--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.1m.md) | 1 |
 | [30.md](30.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/memory_batch_read_file_counts.md | - | [bbugyi200.athena.30](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.30/README.md) | 0 |
 | [3u.md](3u.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/poseidon_cargo_retention.md][1] | - | [bbugyi200.athena.3u--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.3u.md) | 1 |
