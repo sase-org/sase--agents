@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-xe](../../users/bbugyi200/machines/apollo/hoods/sase-xe/README.md) / sase-xe.16.11.7.16.5.4
 
-**Global name:** `bbugyi200.apollo.sase-xe.16.11.7.16.5.4` · **State:** waiting · **Source run:** `run-6a791937fad4031b93bab9153b355baf`
+**Global name:** `bbugyi200.apollo.sase-xe.16.11.7.16.5.4` · **State:** active · **Source run:** `run-6a791937fad4031b93bab9153b355baf`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-xe
 
@@ -12,12 +12,18 @@
 - Epic: [sase-xe.16.11.7.16.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.16.5.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260915083630
-- Commits: 0
+- Timing: 2026-09-15T18:07:13.444865+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`5ca8a60`](https://github.com/sase-org/sase/commit/5ca8a60d2d732e2c2087019b34e93025312ac181) | fix(tui): hide fleet exact attempt fallback | 2026-09-15 15:42:57 EDT |
 
 ## Neighbors
 
@@ -25,7 +31,7 @@
 |---|---|---|
 | [sase-xe.16.11.7.16.5.1](../bbugyi200.apollo.sase-xe.16.11.7.16.5.1/README.md) | sase-xe.16.11.7.16.5 hood | completed |
 | [sase-xe.16.11.7.16.5.2](../bbugyi200.apollo.sase-xe.16.11.7.16.5.2/README.md) | sase-xe.16.11.7.16.5 hood | completed |
-| [sase-xe.16.11.7.16.5.3](../bbugyi200.apollo.sase-xe.16.11.7.16.5.3/README.md) | sase-xe.16.11.7.16.5 hood | active |
+| [sase-xe.16.11.7.16.5.3](../bbugyi200.apollo.sase-xe.16.11.7.16.5.3/README.md) | sase-xe.16.11.7.16.5 hood | completed |
 | [sase-xe.16.11.7.16.5.land](../bbugyi200.apollo.sase-xe.16.11.7.16.5.land/README.md) | sase-xe.16.11.7.16.5 hood | waiting |
 | [sase-xe.16.11.7.16.1](../bbugyi200.apollo.sase-xe.16.11.7.16.1/README.md) | sase-xe.16.11.7.16 hood | completed |
 | [sase-xe.16.11.7.16.2](../../families/bbugyi200.apollo.sase-xe.16.11.7.16.2.md) (family · 3) | sase-xe.16.11.7.16 hood | completed 2, failed 1 |
