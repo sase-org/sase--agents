@@ -5,6 +5,7 @@
 | [00h.md](00h.md) | %model:@medium [@plan:202609/axe_subprocess_error_diagnostics.md][1] | - | [bbugyi200.athena.00h--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.00h.md) | 1 |
 | [01d.f2.md](01d.f2.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.01d.f2--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.01d.f2.md) | 1 |
 | [01d.md](01d.md) | fork:01d %model:grok-4.6 %effort:xhigh | - | [bbugyi200.athena.01d--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.01d.md) | 0 |
+| [03.md](03.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.apollo.03--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.03.md) | 1 |
 | [03r.md](03r.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/rename_research_model_aliases.md | - | [bbugyi200.athena.03r](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.03r/README.md) | 0 |
 | [043.md](043.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/agents_all_panel_fold_sweep.md][1] | - | [bbugyi200.athena.043--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.043.md) | 1 |
 | [06c.md](06c.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/x74_telegram_finalization_repair.md | - | [bbugyi200.athena.06c--0](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.06c.md) | 0 |
