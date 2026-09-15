@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:0q Can you help me fix the `$PATH` issue by updating the appropriate files (in my chezmoi repo if I'm understanding correctly)? #plan
