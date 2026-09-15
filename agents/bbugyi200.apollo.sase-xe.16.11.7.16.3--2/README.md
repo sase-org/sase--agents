@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-xe](../../users/bbugyi200/machines/apollo/hoods/sase-xe/README.md) / [sase-xe.16.11.7.16.3](../../families/bbugyi200.apollo.sase-xe.16.11.7.16.3.md) / sase-xe.16.11.7.16.3--2
 
-**Global name:** `bbugyi200.apollo.sase-xe.16.11.7.16.3--2` · **State:** active · **Source run:** `run-6421a8d121de4647b452c4efad6dd3e2`
+**Global name:** `bbugyi200.apollo.sase-xe.16.11.7.16.3--2` · **State:** completed · **Source run:** `run-6421a8d121de4647b452c4efad6dd3e2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-xe
 
@@ -11,12 +11,12 @@
 - Bead: [sase-xe.16.11.7.16.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.16.3.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-14T22:01:47.192328+00:00
+- Timing: 2026-09-14T22:01:47.192328+00:00 → 2026-09-14T22:08:43.770182+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,6 +29,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-xe.16.11.7.16.1](../bbugyi200.apollo.sase-xe.16.11.7.16.1/README.md) | sase-xe.16.11.7.16 hood | completed |
+| [sase-xe.16.11.7.16.2](../../families/bbugyi200.apollo.sase-xe.16.11.7.16.2.md) (family · 3) | sase-xe.16.11.7.16 hood | active 1, completed 1, failed 1 |
+| [sase-xe.16.11.7.16.4](../bbugyi200.apollo.sase-xe.16.11.7.16.4/README.md) | sase-xe.16.11.7.16 hood | active |
+| [sase-xe.16.11.7.16.land](../bbugyi200.apollo.sase-xe.16.11.7.16.land/README.md) | sase-xe.16.11.7.16 hood | waiting |
 | [sase-xe.16.11.7.15.1](../bbugyi200.apollo.sase-xe.16.11.7.15.1/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.15.2](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.2.md) (family · 3) | sase-xe.16.11.7 hood | completed 2, failed 1 |
 | [sase-xe.16.11.7.15.3](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.3.md) (family · 5) | sase-xe.16.11.7 hood | completed 3, failed 2 |

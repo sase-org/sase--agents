@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-xe](../../users/bbugyi200/machines/apollo/hoods/sase-xe/README.md) / sase-xe.16.11.7.16.1
 
-**Global name:** `bbugyi200.apollo.sase-xe.16.11.7.16.1` · **State:** completed · **Source run:** `run-c1d436c4718480bb1f9d95f7735fda0e`
+**Global name:** `bbugyi200.apollo.sase-xe.16.11.7.16.1` · **State:** completed · **Source run:** `run-9f720a74cea2a6204420054eb89db4ea`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-xe
 
 ## Summary
 
 - Bead: [sase-xe.16.11.7.16.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.16.1.md)
-- Epic: [sase-xe.16.11.7.16](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.16.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-14T20:26:56.608725+00:00 → 2026-09-14T20:39:47.046087+00:00
+- Timing: 2026-09-15T11:40:36.368739+00:00 → 2026-09-15T11:51:23.643481+00:00
 - Commits: 0
 
 ## Files
@@ -23,7 +22,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-xe.16.11.7.16.3](../../families/bbugyi200.apollo.sase-xe.16.11.7.16.3.md) (family · 5) | sase-xe.16.11.7.16 hood | active 1, completed 2, failed 2 |
+| [sase-xe.16.11.7.16.2](../../families/bbugyi200.apollo.sase-xe.16.11.7.16.2.md) (family · 3) | sase-xe.16.11.7.16 hood | active 1, completed 1, failed 1 |
+| [sase-xe.16.11.7.16.3](../../families/bbugyi200.apollo.sase-xe.16.11.7.16.3.md) (family · 5) | sase-xe.16.11.7.16 hood | completed 3, failed 2 |
+| [sase-xe.16.11.7.16.4](../bbugyi200.apollo.sase-xe.16.11.7.16.4/README.md) | sase-xe.16.11.7.16 hood | active |
+| [sase-xe.16.11.7.16.land](../bbugyi200.apollo.sase-xe.16.11.7.16.land/README.md) | sase-xe.16.11.7.16 hood | waiting |
 | [sase-xe.16.11.7.15.1](../bbugyi200.apollo.sase-xe.16.11.7.15.1/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.15.2](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.2.md) (family · 3) | sase-xe.16.11.7 hood | completed 2, failed 1 |
 | [sase-xe.16.11.7.15.3](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.3.md) (family · 5) | sase-xe.16.11.7 hood | completed 3, failed 2 |
