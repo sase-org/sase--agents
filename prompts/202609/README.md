@@ -79,6 +79,7 @@
 | [0lb.md](0lb.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0lb--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0lb.md) | 1 |
 | [0ld.md](0ld.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/chezmoi_headless_sudo_guards.md | - | [bbugyi200.athena.0ld](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0ld/README.md) | 0 |
 | [0le.md](0le.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.0le--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0le.md) | 1 |
+| [0lf.md](0lf.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/telegram_receiver_restart.md][1] | - | [bbugyi200.athena.0lf--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0lf.md) | 1 |
 | [0q.f0.md](0q.f0.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/fix_portable_zsh_paths.md][1] | - | [bbugyi200.kellys_mbp.0q.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.kellys_mbp.0q.f0.md) | 1 |
 | [1m.md](1m.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.1m--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.1m.md) | 1 |
 | [30.md](30.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/memory_batch_read_file_counts.md | - | [bbugyi200.athena.30](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.30/README.md) | 0 |
