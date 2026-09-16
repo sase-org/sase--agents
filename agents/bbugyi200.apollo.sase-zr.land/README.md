@@ -22,11 +22,17 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-zr.1](../../families/bbugyi200.apollo.sase-zr.1.md) (family · 5) | sase-zr hood | completed 3, failed 2 |
+| [sase-zr.1](../../families/bbugyi200.apollo.sase-zr.1.md) (family · 5) | sase-zr hood | active 5 |
 | [sase-zr.1](../bbugyi200.apollo.sase-zr.1/README.md) | sase-zr hood | completed |
-| [sase-zr.2](../../families/bbugyi200.apollo.sase-zr.2.md) (family · 3) | sase-zr hood | completed 2, failed 1 |
+| [sase-zr.2](../../families/bbugyi200.apollo.sase-zr.2.md) (family · 3) | sase-zr hood | active 3 |
 | [sase-zr.2](../bbugyi200.apollo.sase-zr.2/README.md) | sase-zr hood | completed |
-| [sase-zr.3](../bbugyi200.apollo.sase-zr.3/README.md) | sase-zr hood | completed |
-| [sase-zr.4](../bbugyi200.apollo.sase-zr.4/README.md) | sase-zr hood | completed |
+| [sase-zr.3](../bbugyi200.apollo.sase-zr.3/README.md) | sase-zr hood | active |
+| [sase-zr.4](../bbugyi200.apollo.sase-zr.4/README.md) | sase-zr hood | active |
 | [sase-zr.5](../../families/bbugyi200.apollo.sase-zr.5.md) (family · 3) | sase-zr hood | active 1, failed 2 |
-| [sase-zr.6](../../families/bbugyi200.apollo.sase-zr.6.md) (family · 6) | sase-zr hood | active 1, completed 2, failed 3 |
+| [sase-zr.6](../../families/bbugyi200.apollo.sase-zr.6.md) (family · 6) | sase-zr hood | active 6 |
+| [sase-zr.7.1](../../families/bbugyi200.apollo.sase-zr.7.1.md) (family · 3) | sase-zr hood | active 2, failed 1 |
+| [sase-zr.7.2](../bbugyi200.apollo.sase-zr.7.2/README.md) | sase-zr hood | waiting |
+| [sase-zr.7.3](../bbugyi200.apollo.sase-zr.7.3/README.md) | sase-zr hood | waiting |
+| [sase-zr.7.4](../bbugyi200.apollo.sase-zr.7.4/README.md) | sase-zr hood | active |
+| [sase-zr.7.5](../bbugyi200.apollo.sase-zr.7.5/README.md) | sase-zr hood | waiting |
+| [sase-zr.7.land](../bbugyi200.apollo.sase-zr.7.land/README.md) | sase-zr hood | waiting |
