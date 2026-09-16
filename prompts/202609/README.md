@@ -89,6 +89,7 @@
 | [0lv.md](0lv.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.0lv--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0lv.md) | 1 |
 | [0lw.md](0lw.md) | gh:gh_sase-org__sase Can you help me test the recently added /sase_sudo by removing | - | [bbugyi200.athena.0lw](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0lw/README.md) | 0 |
 | [0lz.md](0lz.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/prompt_search_match_count.md][1] | - | [bbugyi200.athena.0lz--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0lz.md) | 1 |
+| [0m0.md](0m0.md) | %queue(weight=1) #fork:0m0--code %model:sonnet@xhigh | - | [bbugyi200.athena.0m0--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0m0.md) | 0 |
 | [0m2.md](0m2.md) | gh:gh_sase-org__sase Does the ~/tmp/astra_sase_service_research.md file (research | - | [bbugyi200.athena.0m2](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0m2/README.md) | 0 |
 | [0q.f0.md](0q.f0.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/fix_portable_zsh_paths.md][1] | - | [bbugyi200.kellys_mbp.0q.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.kellys_mbp.0q.f0.md) | 1 |
 | [0r.md](0r.md) | gh:gh_sase-org__sase Can you explain to me why the sase-11e.8.6.5 epic bead's | - | [bbugyi200.kellys_mbp.0r](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.0r/README.md) | 0 |
