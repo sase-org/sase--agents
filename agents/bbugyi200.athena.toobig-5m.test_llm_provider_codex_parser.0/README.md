@@ -21,8 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-5m.agent\_hold\_facade.0](../bbugyi200.athena.toobig-5m.agent_hold_facade.0/README.md) | toobig-5m hood | waiting |
+| [toobig-5m.agent\_hold\_facade.0](../bbugyi200.athena.toobig-5m.agent_hold_facade.0/README.md) | toobig-5m hood | active |
 | [toobig-5m.launch\_admission\_engine.0](../bbugyi200.athena.toobig-5m.launch_admission_engine.0/README.md) | toobig-5m hood | completed |
-| [toobig-5m.monitor.0](../bbugyi200.athena.toobig-5m.monitor.0/README.md) | toobig-5m hood | active |
+| [toobig-5m.monitor.0](../bbugyi200.athena.toobig-5m.monitor.0/README.md) | toobig-5m hood | completed |
 | [toobig-5m.test\_capture.0](../bbugyi200.athena.toobig-5m.test_capture.0/README.md) | toobig-5m hood | waiting |
 | [toobig-5m.test\_publication.0](../bbugyi200.athena.toobig-5m.test_publication.0/README.md) | toobig-5m hood | waiting |

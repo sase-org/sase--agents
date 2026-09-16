@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8fba8eee61786bb34b01543730e41b6c"}
+{"commits":[{"committed_at":1789603073,"sha":"75c0f76ab44b6b870a414a35d101ee7965fc30ce","subject":"refactor(core): split agent hold facade"}],"schema_version":2,"source_run_id":"run-8fba8eee61786bb34b01543730e41b6c"}
