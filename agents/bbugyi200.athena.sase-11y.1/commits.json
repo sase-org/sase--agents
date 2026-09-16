@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-89be55377246a9998baacfe25ab6c100"}
+{"commits":[{"committed_at":1789595827,"sha":"86458d2607813e23d3004415579d209bec0fc529","subject":"feat(scope): escape detached work from service cgroups"}],"schema_version":2,"source_run_id":"run-89be55377246a9998baacfe25ab6c100"}

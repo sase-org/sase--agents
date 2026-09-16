@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["sase-11y.3--mon-1 [failed]"]
   n0 --> n4
-  n5["sase-11y.3--3 [active]"]
+  n5["sase-11y.3--3 [completed]"]
   n0 --> n5
   n6["sase-11y.3--1 [completed]"]
   n0 --> n6
@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | sase-11y.3--plan | completed | sonnet / claude | 2026-09-16T19:01:28.696214+00:00 → 2026-09-16T19:14:10.144672+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11y.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11y.3--plan/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-11y.3--mon-0 | failed | sonnet / claude | 2026-09-16T20:04:13.835486+00:00 → 2026-09-16T21:20:44.616628+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11y.3--mon-0/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-11y.3--mon-1 | failed | gpt-5.5 / codex | 2026-09-16T21:36:51.651168+00:00 → 2026-09-16T21:47:10.390044+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11y.3--mon-1/chat.md) |
-| <a id="member-3"></a>3 | sase-11y.3--3 | active | sonnet / claude | 2026-09-16T21:47:21.744214+00:00 | [1](../agents/bbugyi200.athena.sase-11y.3--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-11y.3--3/prompt.md) | — |
+| <a id="member-3"></a>3 | sase-11y.3--3 | completed | sonnet / claude | 2026-09-16T21:47:21.744214+00:00 → 2026-09-16T21:52:23.135155+00:00 | [1](../agents/bbugyi200.athena.sase-11y.3--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-11y.3--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11y.3--3/chat.md) |
 | <a id="member-1"></a>1 | sase-11y.3--1 | completed | sonnet / claude | 2026-09-16T19:45:33.617823+00:00 → 2026-09-16T20:04:38.368034+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11y.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11y.3--1/chat.md) |
 
 ## Commits

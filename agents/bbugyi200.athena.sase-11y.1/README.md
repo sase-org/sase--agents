@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-16T18:50:36.917541+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`86458d2`](https://github.com/sase-org/sase/commit/86458d2607813e23d3004415579d209bec0fc529) | feat(scope): escape detached work from service cgroups | 2026-09-16 17:57:07 EDT |
 
 ## Neighbors
 
@@ -30,7 +36,7 @@
 | [sase-11y.2.1.3](../bbugyi200.athena.sase-11y.2.1.3/README.md) | sase-11y hood | waiting |
 | [sase-11y.2.1.4](../bbugyi200.athena.sase-11y.2.1.4/README.md) | sase-11y hood | waiting |
 | [sase-11y.2.1.land](../bbugyi200.athena.sase-11y.2.1.land/README.md) | sase-11y hood | waiting |
-| [sase-11y.3](../../families/bbugyi200.athena.sase-11y.3.md) (family · 7) | sase-11y hood | active 1, completed 3, failed 3 |
+| [sase-11y.3](../../families/bbugyi200.athena.sase-11y.3.md) (family · 7) | sase-11y hood | completed 4, failed 3 |
 | [sase-11y.4](../bbugyi200.athena.sase-11y.4/README.md) | sase-11y hood | waiting |
 | [sase-11y.5](../bbugyi200.athena.sase-11y.5/README.md) | sase-11y hood | waiting |
 | [sase-11y.6](../bbugyi200.athena.sase-11y.6/README.md) | sase-11y hood | waiting |
