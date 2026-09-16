@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you explain to me why the sase-11e.8.6.5 epic bead's creation was necessary? Should I be worried that the sase-11e epic bead is just going to go on forever? If so, what can I do to get this epic on the right track and prevent/mitigate this issue in the future? #research %m:opus
