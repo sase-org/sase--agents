@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-t8.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-t8/sase-t8.1.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-24T18:29:23

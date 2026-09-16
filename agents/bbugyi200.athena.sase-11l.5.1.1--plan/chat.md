@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-11l.5.1.1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_11l_5_1_1__plan-260916_134615.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_11l_5_1_1__code-260916_134615.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/hold_directive_surface_1.md
 
 

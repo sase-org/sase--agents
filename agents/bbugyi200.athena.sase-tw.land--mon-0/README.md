@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-tw](https://github.com/sase-org/sase--beads/blob/main/pages/sase-tw/README.md)
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-26T05:50:58.937795+00:00

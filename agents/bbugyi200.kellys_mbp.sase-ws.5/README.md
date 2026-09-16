@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-ws.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ws/sase-ws.5.md)
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-09-04T13:57:18

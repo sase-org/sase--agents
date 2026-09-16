@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-so](https://github.com/sase-org/sase--beads/blob/main/pages/sase-so/README.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-24T07:03:22

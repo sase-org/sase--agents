@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-eh](https://github.com/sase-org/sase--beads/blob/main/pages/sase-eh/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-08-03T04:37:11.218508 → 2026-08-03T04:48:00.131117
