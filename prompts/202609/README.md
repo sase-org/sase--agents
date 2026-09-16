@@ -85,6 +85,7 @@
 | [0lk.md](0lk.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.0lk--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0lk.md) | 1 |
 | [0ll.md](0ll.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/double_colon_parentheses.md][1] | - | [bbugyi200.athena.0ll--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0ll.md) | 1 |
 | [0lm.md](0lm.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/if_should_run.md][1] | - | [bbugyi200.athena.0lm--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0lm.md) | 1 |
+| [0lr.md](0lr.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0lr--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0lr.md) | 1 |
 | [0q.f0.md](0q.f0.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/fix_portable_zsh_paths.md][1] | - | [bbugyi200.kellys_mbp.0q.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.kellys_mbp.0q.f0.md) | 1 |
 | [1m.md](1m.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.1m--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.1m.md) | 1 |
 | [30.md](30.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/memory_batch_read_file_counts.md | - | [bbugyi200.athena.30](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.30/README.md) | 0 |
