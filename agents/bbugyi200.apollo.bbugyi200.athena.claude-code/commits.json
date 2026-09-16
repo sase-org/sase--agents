@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1788869040,"sha":"0b292e49ffe5062c6a4bd9cf6d1d307ac67125b3","subject":"test: guard against a package shadowing a same-named sibling module"}],"schema_version":2,"source_run_id":"run-a2c7b0764dd40fddba8c7ad471bb015a"}
