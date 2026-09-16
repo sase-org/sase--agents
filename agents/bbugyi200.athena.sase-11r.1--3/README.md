@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-11r.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-11r/sase-11r.1.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-09-16T16:56:39.664250+00:00 → 2026-09-16T17:08:11.589988+00:00
@@ -27,6 +28,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-11r.2](../bbugyi200.athena.sase-11r.2/README.md) | sase-11r hood | active |
+| [sase-11r.2](../bbugyi200.athena.sase-11r.2/README.md) | sase-11r hood | completed |
 | [sase-11r.3](../bbugyi200.athena.sase-11r.3/README.md) | sase-11r hood | completed |
-| [sase-11r.land](../bbugyi200.athena.sase-11r.land/README.md) | sase-11r hood | waiting |
+| [sase-11r.land](../bbugyi200.athena.sase-11r.land/README.md) | sase-11r hood | active |

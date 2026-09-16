@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-ws.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ws/sase-ws.3.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-09-04T13:57:16

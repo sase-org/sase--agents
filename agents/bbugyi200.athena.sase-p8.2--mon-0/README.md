@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-p8.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-p8/sase-p8.2.md)
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-18T00:48:34.597146+00:00

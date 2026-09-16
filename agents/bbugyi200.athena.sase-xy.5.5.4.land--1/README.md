@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-xy.5.5.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xy/sase-xy.5.5.4.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-09-08T05:58:05.173806+00:00

@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-fp.8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-fp/sase-fp.8.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-06T10:56:14.309542+00:00

@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-vk.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-vk/sase-vk.1.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-29T11:30:38

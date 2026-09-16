@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-ha.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ha/sase-ha.4.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-07T21:27:00.037134 → 2026-08-07T21:48:15.367221

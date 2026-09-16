@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-ix.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ix/sase-ix.2.md)
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-10T11:27:24.924187 → 2026-08-10T11:59:24.383714

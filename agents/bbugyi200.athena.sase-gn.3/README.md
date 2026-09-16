@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-gn.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-gn/sase-gn.3.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-06T21:05:17.932162 → 2026-08-06T21:49:27.459792

@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-ud.13.1.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ud/sase-ud.13.1.4.md)
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-28T16:19:56.715654+00:00 → 2026-08-28T16:26:29.274513+00:00

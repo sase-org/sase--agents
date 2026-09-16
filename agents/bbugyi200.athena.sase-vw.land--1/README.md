@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-vw](https://github.com/sase-org/sase--beads/blob/main/pages/sase-vw/README.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-30T18:03:50.606438+00:00 → 2026-08-30T18:07:50.803183+00:00

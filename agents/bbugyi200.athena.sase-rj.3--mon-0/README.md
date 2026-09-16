@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-rj.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-rj/sase-rj.3.md)
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-20T19:33:24.533373+00:00
