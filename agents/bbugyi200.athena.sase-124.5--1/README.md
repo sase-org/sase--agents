@@ -1,23 +1,28 @@
-# Agent: sase-124.5--plan
+# Agent: sase-124.5--1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-124](../../users/bbugyi200/machines/athena/hoods/sase-124/README.md) / [sase-124.5](../../families/bbugyi200.athena.sase-124.5.md) / sase-124.5--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-124](../../users/bbugyi200/machines/athena/hoods/sase-124/README.md) / [sase-124.5](../../families/bbugyi200.athena.sase-124.5.md) / sase-124.5--1
 
-**Global name:** `bbugyi200.athena.sase-124.5--plan` · **State:** completed · **Source run:** `run-63db24d8eb27f15cf419e35e610a406f`
+**Global name:** `bbugyi200.athena.sase-124.5--1` · **State:** completed · **Source run:** `run-4c002297e892cf7990b33e23ed62422a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-124
 
 ## Summary
 
 - Bead: [sase-124.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-124/sase-124.5.md)
-- Epic: [sase-124](https://github.com/sase-org/sase--beads/blob/main/pages/sase-124/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-17T17:18:29.758295+00:00 → 2026-09-17T17:55:40.603166+00:00
-- Commits: 0
+- Timing: 2026-09-17T18:15:55.069554+00:00 → 2026-09-17T18:22:26.571403+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`980de14`](https://github.com/sase-org/sase/commit/980de1487a7d6a38cf360155327d664011081cbf) | fix(tui): remove agents tab read ack hitches | 2026-09-17 14:19:26 EDT |
 
 ## Neighbors
 

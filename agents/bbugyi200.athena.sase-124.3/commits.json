@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-190db33cb987b663b3d7a53752a9e3fa"}
+{"commits":[{"committed_at":1789670795,"sha":"0af5b08151ac275b81cc1d2e790b29d1d43df53d","subject":"perf(tui): cache fleet attention auto-refresh"}],"schema_version":2,"source_run_id":"run-190db33cb987b663b3d7a53752a9e3fa"}

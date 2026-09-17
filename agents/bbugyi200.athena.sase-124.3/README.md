@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-17T17:18:08.832785+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`0af5b08`](https://github.com/sase-org/sase/commit/0af5b08151ac275b81cc1d2e790b29d1d43df53d) | perf(tui): cache fleet attention auto-refresh | 2026-09-17 14:46:35 EDT |
 
 ## Neighbors
 
@@ -25,8 +31,8 @@
 |---|---|---|
 | [sase-124.1](../bbugyi200.athena.sase-124.1/README.md) | sase-124 hood | active |
 | [sase-124.2](../bbugyi200.athena.sase-124.2/README.md) | sase-124 hood | active |
-| [sase-124.4](../../families/bbugyi200.athena.sase-124.4.md) (family · 3) | sase-124 hood | active 2, failed 1 |
-| [sase-124.5](../../families/bbugyi200.athena.sase-124.5.md) (family · 2) | sase-124 hood | active 1, completed 1 |
-| [sase-124.6](../bbugyi200.athena.sase-124.6/README.md) | sase-124 hood | active |
+| [sase-124.4](../../families/bbugyi200.athena.sase-124.4.md) (family · 4) | sase-124 hood | active 1, completed 2, failed 1 |
+| [sase-124.5](../../families/bbugyi200.athena.sase-124.5.md) (family · 3) | sase-124 hood | completed 2, failed 1 |
+| [sase-124.6](../bbugyi200.athena.sase-124.6/README.md) | sase-124 hood | completed |
 | [sase-124.7](../bbugyi200.athena.sase-124.7/README.md) | sase-124 hood | waiting |
 | [sase-124.land](../bbugyi200.athena.sase-124.land/README.md) | sase-124 hood | waiting |
