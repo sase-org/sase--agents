@@ -1,18 +1,17 @@
-# Agent: sase-124.4--code
+# Agent: sase-124.4--mon-0
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-124](../../users/bbugyi200/machines/athena/hoods/sase-124/README.md) / [sase-124.4](../../families/bbugyi200.athena.sase-124.4.md) / sase-124.4--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-124](../../users/bbugyi200/machines/athena/hoods/sase-124/README.md) / [sase-124.4](../../families/bbugyi200.athena.sase-124.4.md) / sase-124.4--mon-0
 
-**Global name:** `bbugyi200.athena.sase-124.4--code` · **State:** completed · **Source run:** `run-de9592fb567dcaeea199f30c18160b62`
+**Global name:** `bbugyi200.athena.sase-124.4--mon-0` · **State:** failed · **Source run:** `run-8f9ce2e1651492b68802f31e5ddfedfd`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-124
 
 ## Summary
 
 - Bead: [sase-124.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-124/sase-124.4.md)
-- Epic: [sase-124](https://github.com/sase-org/sase--beads/blob/main/pages/sase-124/README.md)
-- Model: gpt-5.5
-- Provider: codex
-- Timing: 2026-09-17T17:32:05.643050+00:00 → 2026-09-17T18:25:03.040619+00:00
+- Model: sonnet
+- Provider: claude
+- Timing: 2026-09-17T18:58:56.030743+00:00 → 2026-09-17T19:21:42.334183+00:00
 - Commits: 0
 
 ## Files

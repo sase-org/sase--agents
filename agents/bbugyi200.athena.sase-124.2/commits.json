@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-619ea72eed464bf049c0d4c3c4c33766"}
+{"commits":[{"committed_at":1789673819,"sha":"739caf01ffd491cf3bac5589e72c221d8e1f8e56","subject":"feat(agents): refresh runner capacity from cached roster"}],"schema_version":2,"source_run_id":"run-619ea72eed464bf049c0d4c3c4c33766"}

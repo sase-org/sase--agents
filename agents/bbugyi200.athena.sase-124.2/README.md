@@ -13,19 +13,25 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-17T17:17:59.052210+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`739caf0`](https://github.com/sase-org/sase/commit/739caf01ffd491cf3bac5589e72c221d8e1f8e56) | feat(agents): refresh runner capacity from cached roster | 2026-09-17 15:36:59 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-124.1](../bbugyi200.athena.sase-124.1/README.md) | sase-124 hood | active |
-| [sase-124.3](../bbugyi200.athena.sase-124.3/README.md) | sase-124 hood | active |
-| [sase-124.4](../../families/bbugyi200.athena.sase-124.4.md) (family · 4) | sase-124 hood | active 1, completed 2, failed 1 |
+| [sase-124.3](../bbugyi200.athena.sase-124.3/README.md) | sase-124 hood | completed |
+| [sase-124.4](../../families/bbugyi200.athena.sase-124.4.md) (family · 7) | sase-124 hood | completed 4, failed 3 |
 | [sase-124.5](../../families/bbugyi200.athena.sase-124.5.md) (family · 3) | sase-124 hood | completed 2, failed 1 |
 | [sase-124.6](../bbugyi200.athena.sase-124.6/README.md) | sase-124 hood | completed |
 | [sase-124.7](../bbugyi200.athena.sase-124.7/README.md) | sase-124 hood | waiting |
