@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-958c989ec82fb99b82e8655eecb17cd1"}
+{"commits":[{"committed_at":1789688158,"sha":"9a1d5d67a2ba99549dbd5ae5fbbc6cf533abf64a","subject":"fix(tui): detach attention inventory polling"}],"schema_version":2,"source_run_id":"run-958c989ec82fb99b82e8655eecb17cd1"}

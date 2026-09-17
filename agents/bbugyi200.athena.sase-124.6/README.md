@@ -35,8 +35,8 @@
 | [sase-124.4](../../families/bbugyi200.athena.sase-124.4.md) (family · 7) | sase-124 hood | completed 4, failed 3 |
 | [sase-124.5](../../families/bbugyi200.athena.sase-124.5.md) (family · 3) | sase-124 hood | completed 2, failed 1 |
 | [sase-124.7](../bbugyi200.athena.sase-124.7/README.md) | sase-124 hood | completed |
-| [sase-124.8.1](../bbugyi200.athena.sase-124.8.1/README.md) | sase-124 hood | active |
-| [sase-124.8.2](../bbugyi200.athena.sase-124.8.2/README.md) | sase-124 hood | waiting |
+| [sase-124.8.1](../bbugyi200.athena.sase-124.8.1/README.md) | sase-124 hood | completed |
+| [sase-124.8.2](../bbugyi200.athena.sase-124.8.2/README.md) | sase-124 hood | active |
 | [sase-124.8.3](../bbugyi200.athena.sase-124.8.3/README.md) | sase-124 hood | waiting |
 | [sase-124.8.land](../bbugyi200.athena.sase-124.8.land/README.md) | sase-124 hood | waiting |
 | [sase-124.land](../../families/bbugyi200.athena.sase-124.land.md) (family · 3) | sase-124 hood | failed 3 |
