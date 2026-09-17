@@ -77,4 +77,4 @@
 | [research.0i.cld](../bbugyi200.apollo.research.0i.cld/README.md) | research hood | completed |
 | [research.0i.final](../bbugyi200.apollo.research.0i.final/README.md) | research hood | completed |
 | [research.0i.image](../bbugyi200.apollo.research.0i.image/README.md) | research hood | completed |
-| … and 188 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 189 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

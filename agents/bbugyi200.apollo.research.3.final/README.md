@@ -2,16 +2,20 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3.final
 
-**Global name:** `bbugyi200.apollo.research.3.final` · **State:** completed · **Source run:** `run-cdb7bc2e1bbbf16a8901a0841cde3255`
+**Global name:** `bbugyi200.apollo.research.3.final` · **State:** waiting · **Source run:** `run-f1149e9c4a0b57e4a14e4b442cd28adb`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
 ## Summary
 
-- Model: —
-- Provider: —
-- Timing: 2026-07-08T21:43:11+00:00 → 2026-07-08T21:43:11+00:00
+- Model: claude-fable-5
+- Provider: claude
+- Timing: 20260917141127
 - Commits: [1](#commits)
+
+## Files
+
+[Prompt](prompt.md)
 
 ## Commits
 
@@ -23,8 +27,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.3.cdx](../bbugyi200.apollo.research.3.cdx/README.md) | research.3 hood | completed |
-| [research.3.cld](../bbugyi200.apollo.research.3.cld/README.md) | research.3 hood | completed |
+| [research.3.cdx](../bbugyi200.apollo.research.3.cdx/README.md) | research.3 hood | active |
+| [research.3.cld](../bbugyi200.apollo.research.3.cld/README.md) | research.3 hood | active |
 | [research.3.image](../bbugyi200.apollo.research.3.image/README.md) | research.3 hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
@@ -76,4 +80,4 @@
 | [research.0e.cld](../bbugyi200.apollo.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.apollo.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.apollo.research.0e.final.f1/README.md) | research hood | completed |
-| … and 189 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 190 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

@@ -1,0 +1,31 @@
+%id(cld, clan=research.3) %m:@opus_or_grok %q(w=0.25)
+#gh:gh_sase-org__sase You are researcher B in a two-researcher swarm. The other researcher,
+`research.3.cdx`, is independently investigating the same request and will write its
+own self-named report ending in `__a.md`. Your report will end in `__b.md`.
+
+Conduct your research independently and form your own conclusions. Do NOT attempt to
+locate, open, read, or otherwise consult the other researcher's report from this swarm,
+even if it becomes available before you finish. Do not obtain that peer's findings
+indirectly through its chat transcript, summaries, or requests to the peer. You may
+independently use the same external sources, shared input material, and unrelated prior
+research. You may check filenames or file existence to avoid overwriting your own
+output, but do not inspect the peer's report contents. If you encounter its filename,
+leave the report alone. The lead researcher will read both reports and synthesize their
+findings after you have both finished.
+
+I want to plan the work required
+to add a new `sase tool` command soon, but am not sure where to start.
+
+- Review the sase_tool_control_plane.md file in the research sidecar repo for context
+  and inspiration before performing your own research.
+- This is a large piece of work that seems like it should probably be split up into
+  multiple epics.
+- I'm also concerned that ongoing work with other epics may conflict / complement this
+  work in some ways that we should be aware of before planning this work (the sase-11y
+  epic bead, for example, is in-progress and works with procs just like I would expect
+  the `sase tool` command will).
+
+Can you do some research with the goal of helping me decide the best way to split this
+work up? Is this work really large enough that we can split it up into multiple epics,
+each with verifiable (from a normal user) results? If so, end your analysis with a
+recommended solution / set of epics. #research(suffix=b)
