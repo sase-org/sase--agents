@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-17T17:18:41.666386+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`14403c1`](https://github.com/sase-org/sase/commit/14403c1594b63deac2d9dceec2adbb6c3d7eb79a) | feat(agents): poll in-flight markers for status deltas | 2026-09-17 14:06:19 EDT |
 
 ## Neighbors
 
