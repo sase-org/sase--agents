@@ -21,7 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-11l.5.1.2.1.land--plan | active | gpt-5.6-sol / codex | 2026-09-17T18:09:12.194788+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11l.5.1.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11l.5.1.2.1.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-11l.5.1.2.1.land--gate | failed | gpt-5.6-sol / codex | 2026-09-17T18:19:17.560996+00:00 → 2026-09-17T18:19:48.581371+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11l.5.1.2.1.land--gate/chat.md) |
-| <a id="member-code"></a>code | sase-11l.5.1.2.1.land--code | active | gpt-5.5 / codex | 2026-09-17T18:20:01.658812+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-11l.5.1.2.1.land--code | active | gpt-5.5 / codex | 2026-09-17T18:20:01.658812+00:00 | [1](../agents/bbugyi200.athena.sase-11l.5.1.2.1.land--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`ff08843`](https://github.com/sase-org/sase/commit/ff088437985ffa0f679ae59406280202f58b9279) | feat(agent): pre-arm typed launch holds | 2026-09-17 14:53:35 EDT |
 
 ## Neighbors
 

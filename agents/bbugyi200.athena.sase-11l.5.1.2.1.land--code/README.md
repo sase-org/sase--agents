@@ -12,7 +12,13 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-17T18:20:01.658812+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ff08843`](https://github.com/sase-org/sase/commit/ff088437985ffa0f679ae59406280202f58b9279) | feat(agent): pre-arm typed launch holds | 2026-09-17 14:53:35 EDT |
 
 ## Neighbors
 
