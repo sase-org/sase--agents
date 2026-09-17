@@ -1236,7 +1236,7 @@
 | [s6](hoods/s6/README.md) | 2 | 1 | active 1, completed 1 |
 | [s7](hoods/s7/README.md) | 1 | 0 | active 1 |
 | [sase-11e](hoods/sase-11e/README.md) | 41 | 6 | active 29, completed 6, failed 4, waiting 2 |
-| [sase-11l](hoods/sase-11l/README.md) | 35 | 7 | active 1, completed 13, dismissed 1, failed 11, waiting 9 |
+| [sase-11l](hoods/sase-11l/README.md) | 35 | 7 | active 2, completed 15, dismissed 1, failed 11, waiting 6 |
 | [sase-11r](hoods/sase-11r/README.md) | 10 | 1 | active 1, completed 6, failed 3 |
 | [sase-11y](hoods/sase-11y/README.md) | 24 | 2 | active 1, completed 5, failed 6, waiting 12 |
 | [sase-44](hoods/sase-44/README.md) | 7 | 0 | completed 7 |

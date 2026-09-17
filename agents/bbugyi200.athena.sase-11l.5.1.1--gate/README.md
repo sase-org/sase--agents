@@ -26,11 +26,11 @@
 | [sase-11l.5](../bbugyi200.athena.sase-11l.5/README.md) | ancestor | dismissed |
 | [sase-11l.5.1.2](../../families/bbugyi200.athena.sase-11l.5.1.2.md) (family · 3) | sase-11l.5.1 hood | failed 3 |
 | [sase-11l.5.1.2.1.1](../bbugyi200.athena.sase-11l.5.1.2.1.1/README.md) | sase-11l.5.1 hood | completed |
-| [sase-11l.5.1.2.1.2](../bbugyi200.athena.sase-11l.5.1.2.1.2/README.md) | sase-11l.5.1 hood | waiting |
-| [sase-11l.5.1.2.1.3](../bbugyi200.athena.sase-11l.5.1.2.1.3/README.md) | sase-11l.5.1 hood | waiting |
-| [sase-11l.5.1.2.1.4](../bbugyi200.athena.sase-11l.5.1.2.1.4/README.md) | sase-11l.5.1 hood | waiting |
+| [sase-11l.5.1.2.1.2](../bbugyi200.athena.sase-11l.5.1.2.1.2/README.md) | sase-11l.5.1 hood | completed |
+| [sase-11l.5.1.2.1.3](../bbugyi200.athena.sase-11l.5.1.2.1.3/README.md) | sase-11l.5.1 hood | active |
+| [sase-11l.5.1.2.1.4](../bbugyi200.athena.sase-11l.5.1.2.1.4/README.md) | sase-11l.5.1 hood | active |
 | [sase-11l.5.1.2.1.land](../bbugyi200.athena.sase-11l.5.1.2.1.land/README.md) | sase-11l.5.1 hood | waiting |
-| [sase-11l.5.1.3](../../families/bbugyi200.athena.sase-11l.5.1.3.md) (family · 3) | sase-11l.5.1 hood | active 1, completed 1, failed 1 |
+| [sase-11l.5.1.3](../../families/bbugyi200.athena.sase-11l.5.1.3.md) (family · 3) | sase-11l.5.1 hood | completed 2, failed 1 |
 | [sase-11l.5.1.land](../bbugyi200.athena.sase-11l.5.1.land/README.md) | sase-11l.5.1 hood | waiting |
 | [sase-11l.1](../../families/bbugyi200.athena.sase-11l.1.md) (family · 3) | sase-11l hood | completed 2, failed 1 |
 | [sase-11l.10](../bbugyi200.athena.sase-11l.10/README.md) | sase-11l hood | waiting |
