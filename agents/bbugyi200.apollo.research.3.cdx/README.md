@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3.cdx
 
-**Global name:** `bbugyi200.apollo.research.3.cdx` · **State:** active · **Source run:** `run-50cced5c075c576d4268711608a84f4c`
+**Global name:** `bbugyi200.apollo.research.3.cdx` · **State:** completed · **Source run:** `run-50cced5c075c576d4268711608a84f4c`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-09-17T18:11:33.658879+00:00
+- Timing: 2026-09-17T18:11:33.658879+00:00 → 2026-09-17T18:30:01.326657+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
