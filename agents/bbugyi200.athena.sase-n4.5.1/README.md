@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-n4.5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-n4/sase-n4.5.1.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-16T14:22:32

@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-ry.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ry/sase-ry.1.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-21T19:10:53+00:00 → 2026-08-21T19:10:53+00:00

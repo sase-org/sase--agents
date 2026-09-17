@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-h7.13.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-h7/sase-h7.13.2.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-07T23:15:07.930025 → 2026-08-07T23:24:33.398052

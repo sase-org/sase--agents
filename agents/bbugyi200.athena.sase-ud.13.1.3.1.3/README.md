@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-ud.13.1.3.1.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ud/sase-ud.13.1.3.1.3.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-27T11:54:01

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f64d773e4d1b457bbc9143fa35aa82a6"}
+{"commits":[{"committed_at":1789678540,"sha":"1f2d2ff99aee759199493d423992d88041941899","subject":"perf: reduce scan and notification hydration overhead"}],"schema_version":2,"source_run_id":"run-f64d773e4d1b457bbc9143fa35aa82a6"}
