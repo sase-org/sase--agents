@@ -1,0 +1,11 @@
+#gh:gh_sase-org__sase I need a way for sase agents to spin up a real instance of sase's TUI (i.e. the
+`sase tui` command) on the machine they are running on (ideally, if you can figure out
+how to do it, I'd like for an agent to be able to spin up the TUI on any machine in my
+tailnet), emulate some user actions (e.g. keypresses), and then take a screenshot
+(producing a PNG file, for example) of what the TUI looks like. This screenshot needs to
+look identical to what the user would see on their machine. The goal of this change is
+to make it much easier for sase agents to see the impacts of their changes on the TUI.
+Can you do some research with the goal of helping me decide the best way to implement
+this? End your analysis with a recommended solution.
+
+#research %m:claude-fable-5 %q(10, w=0.25)
