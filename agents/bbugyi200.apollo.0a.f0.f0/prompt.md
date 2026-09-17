@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:0a.f0 We should also never show `@default` in nodes (the `default` agent tribe is implied), but seem to do so when grouping all nodes in one panel (see the ~/tmp/screenshots/20260917_144234.png screenshot for context). Can you help me fix this? #plan

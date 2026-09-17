@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:0a Can you now help me migrate the `,g` keymap on that tab (which has a related functionality) to the `o` key for that new panel so user's can toggle that functionality by pressing `oo`? #plan %m:gpt-6-astra
