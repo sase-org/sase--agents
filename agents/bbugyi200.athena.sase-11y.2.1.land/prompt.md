@@ -2,7 +2,7 @@
 %id(land, clan=sase-11y.2.1, bead=sase-11y.2.1)
 %model:@large
 %auto
-%w:sase-11y.2.1.1,sase-11y.2.1.2,sase-11y.2.1.3,sase-11y.2.1.4
+%w:sase-11y.2.1.4
 %w(bead=sase-11y.2.1.1)
 %w(bead=sase-11y.2.1.2)
 %w(bead=sase-11y.2.1.3)
