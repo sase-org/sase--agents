@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2b0ce112c1f151b594dbdb2a5639975d"}
+{"commits":[{"committed_at":1789657009,"sha":"44e697c7145dcff1085ebd58c96504ff3c67e952","subject":"feat(agents-sync): publish agent payloads in bounded batches"}],"schema_version":2,"source_run_id":"run-2b0ce112c1f151b594dbdb2a5639975d"}

@@ -13,11 +13,17 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-17T11:32:51.858416+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`44e697c`](https://github.com/sase-org/sase/commit/44e697c7145dcff1085ebd58c96504ff3c67e952) | feat(agents-sync): publish agent payloads in bounded batches | 2026-09-17 10:56:49 EDT |
 
 ## Neighbors
 
@@ -25,9 +31,10 @@
 |---|---|---|
 | [sase-11l.5.1.2](../../families/bbugyi200.athena.sase-11l.5.1.2.md) (family · 3) | ancestor | failed 3 |
 | [sase-11l.5](../bbugyi200.athena.sase-11l.5/README.md) | ancestor | dismissed |
-| [sase-11l.5.1.2.1.1](../bbugyi200.athena.sase-11l.5.1.2.1.1/README.md) | sase-11l.5.1.2.1 hood | completed |
-| [sase-11l.5.1.2.1.2](../bbugyi200.athena.sase-11l.5.1.2.1.2/README.md) | sase-11l.5.1.2.1 hood | completed |
+| [sase-11l.5.1.2.1.1](../bbugyi200.athena.sase-11l.5.1.2.1.1/README.md) | sase-11l.5.1.2.1 hood | active |
+| [sase-11l.5.1.2.1.2](../bbugyi200.athena.sase-11l.5.1.2.1.2/README.md) | sase-11l.5.1.2.1 hood | active |
 | [sase-11l.5.1.2.1.4](../bbugyi200.athena.sase-11l.5.1.2.1.4/README.md) | sase-11l.5.1.2.1 hood | active |
+| [sase-11l.5.1.2.1.land](../../families/bbugyi200.athena.sase-11l.5.1.2.1.land.md) (family · 3) | sase-11l.5.1.2.1 hood | active 2, failed 1 |
 | [sase-11l.5.1.2.1.land](../bbugyi200.athena.sase-11l.5.1.2.1.land/README.md) | sase-11l.5.1.2.1 hood | waiting |
 | [sase-11l.5.1.1](../../families/bbugyi200.athena.sase-11l.5.1.1.md) (family · 3) | sase-11l.5.1 hood | completed 2, failed 1 |
 | [sase-11l.5.1.3](../../families/bbugyi200.athena.sase-11l.5.1.3.md) (family · 3) | sase-11l.5.1 hood | completed 2, failed 1 |
