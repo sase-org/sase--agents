@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-lb.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-lb/sase-lb.1.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-14T17:55:00.985968+00:00

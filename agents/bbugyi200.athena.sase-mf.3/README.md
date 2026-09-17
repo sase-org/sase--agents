@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-mf.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-mf/sase-mf.3.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-15T14:33:32

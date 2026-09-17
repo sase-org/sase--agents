@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-yy.8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-yy/sase-yy.8.md)
 - Model: gpt-6-astra
 - Provider: codex
 - Timing: 2026-09-11T10:54:31.473439+00:00 → 2026-09-11T10:57:08.908628+00:00

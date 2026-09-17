@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-yf.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-yf/sase-yf.3.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-09-09T09:54:09.479559+00:00

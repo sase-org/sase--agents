@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-ns.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ns/sase-ns.6.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-17T02:11:36+00:00 → 2026-08-17T02:11:36+00:00

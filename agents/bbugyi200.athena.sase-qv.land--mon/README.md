@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-qv](https://github.com/sase-org/sase--beads/blob/main/pages/sase-qv/README.md)
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-19T20:11:05.430660+00:00

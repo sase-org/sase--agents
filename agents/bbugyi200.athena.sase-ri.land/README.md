@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-ri](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ri/README.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-21T05:09:01

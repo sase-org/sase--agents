@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-uk.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-uk/sase-uk.6.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-26T17:46:20

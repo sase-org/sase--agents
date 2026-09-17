@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-4m](https://github.com/sase-org/sase--beads/blob/main/pages/sase-4m/README.md)
 - Model: —
 - Provider: —
 - Timing: 2026-06-13T15:12:43+00:00 → 2026-06-13T15:12:43+00:00
