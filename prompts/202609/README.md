@@ -95,6 +95,7 @@
 | [0m4.md](0m4.md) | gh:gh_sase-org__sase I need a way for sase agents to spin up a real instance of | - | [bbugyi200.athena.0m4](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0m4/README.md) | 0 |
 | [0m8.md](0m8.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/claude_fable_usage_identity.md][1] | - | [bbugyi200.athena.0m8--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0m8.md) | 1 |
 | [0ma.md](0ma.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/linked_repo_redirect.md][1] | - | [bbugyi200.athena.0ma--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0ma.md) | 1 |
+| [0mg.md](0mg.md) | %queue(weight=1) #fork:0mg--0 %model:@small | - | [bbugyi200.athena.0mg--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0mg.md) | 0 |
 | [0q.f0.md](0q.f0.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/fix_portable_zsh_paths.md][1] | - | [bbugyi200.kellys_mbp.0q.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.kellys_mbp.0q.f0.md) | 1 |
 | [0r.md](0r.md) | gh:gh_sase-org__sase Can you explain to me why the sase-11e.8.6.5 epic bead's | - | [bbugyi200.kellys_mbp.0r](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.0r/README.md) | 0 |
 | [0u.md](0u.md) | gh:gh_sase-org__sase Can you explain to me why the sase-11e.8.6.5.4 epic bead's | - | [bbugyi200.kellys_mbp.0u](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.0u/README.md) | 0 |
