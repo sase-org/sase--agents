@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-zr](../../users/bbugyi200/machines/apollo/hoods/sase-zr/README.md) / sase-zr.7.1.1.4
 
-**Global name:** `bbugyi200.apollo.sase-zr.7.1.1.4` · **State:** waiting · **Source run:** `run-d5102b5c31ecb85341b1fd097f51d209`
+**Global name:** `bbugyi200.apollo.sase-zr.7.1.1.4` · **State:** active · **Source run:** `run-d5102b5c31ecb85341b1fd097f51d209`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-zr
 
@@ -10,14 +10,20 @@
 
 - Bead: [sase-zr.7.1.1.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zr/sase-zr.7.1.1.4.md)
 - Epic: [sase-zr.7.1.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zr/sase-zr.7.1.1.md)
-- Model: sonnet
-- Provider: claude
-- Timing: 20260917064837
-- Commits: 0
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 2026-09-17T22:28:55.181368+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`1d14218`](https://github.com/sase-org/sase/commit/1d14218a3c29238ee99fcb2d2a970979d0afeba6) | feat(gate): surface execution failures to requesters | 2026-09-17 19:37:07 EDT |
 
 ## Neighbors
 
@@ -26,7 +32,7 @@
 | [sase-zr.7.1](../../families/bbugyi200.apollo.sase-zr.7.1.md) (family · 4) | ancestor | active 1, failed 3 |
 | [sase-zr.7.1.1.1](../bbugyi200.apollo.sase-zr.7.1.1.1/README.md) | sase-zr.7.1.1 hood | completed |
 | [sase-zr.7.1.1.2](../bbugyi200.apollo.sase-zr.7.1.1.2/README.md) | sase-zr.7.1.1 hood | completed |
-| [sase-zr.7.1.1.3](../bbugyi200.apollo.sase-zr.7.1.1.3/README.md) | sase-zr.7.1.1 hood | active |
+| [sase-zr.7.1.1.3](../bbugyi200.apollo.sase-zr.7.1.1.3/README.md) | sase-zr.7.1.1 hood | completed |
 | [sase-zr.7.1.1.land](../bbugyi200.apollo.sase-zr.7.1.1.land/README.md) | sase-zr.7.1.1 hood | waiting |
 | [sase-zr.7.2](../bbugyi200.apollo.sase-zr.7.2/README.md) | sase-zr.7 hood | waiting |
 | [sase-zr.7.3](../bbugyi200.apollo.sase-zr.7.3/README.md) | sase-zr.7 hood | waiting |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d5102b5c31ecb85341b1fd097f51d209"}
+{"commits":[{"committed_at":1789688227,"sha":"1d14218a3c29238ee99fcb2d2a970979d0afeba6","subject":"feat(gate): surface execution failures to requesters"}],"schema_version":2,"source_run_id":"run-d5102b5c31ecb85341b1fd097f51d209"}

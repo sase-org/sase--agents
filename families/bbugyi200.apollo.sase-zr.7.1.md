@@ -32,8 +32,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-zr.7.1.1.1](../agents/bbugyi200.apollo.sase-zr.7.1.1.1/README.md) | descendant | completed |
 | [sase-zr.7.1.1.2](../agents/bbugyi200.apollo.sase-zr.7.1.1.2/README.md) | descendant | completed |
-| [sase-zr.7.1.1.3](../agents/bbugyi200.apollo.sase-zr.7.1.1.3/README.md) | descendant | active |
-| [sase-zr.7.1.1.4](../agents/bbugyi200.apollo.sase-zr.7.1.1.4/README.md) | descendant | waiting |
+| [sase-zr.7.1.1.3](../agents/bbugyi200.apollo.sase-zr.7.1.1.3/README.md) | descendant | completed |
+| [sase-zr.7.1.1.4](../agents/bbugyi200.apollo.sase-zr.7.1.1.4/README.md) | descendant | active |
 | [sase-zr.7.1.1.land](../agents/bbugyi200.apollo.sase-zr.7.1.1.land/README.md) | descendant | waiting |
 | [sase-zr.7.2](../agents/bbugyi200.apollo.sase-zr.7.2/README.md) | sase-zr.7 hood | waiting |
 | [sase-zr.7.3](../agents/bbugyi200.apollo.sase-zr.7.3/README.md) | sase-zr.7 hood | waiting |
