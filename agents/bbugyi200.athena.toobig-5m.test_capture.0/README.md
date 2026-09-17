@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5m](../../users/bbugyi200/machines/athena/hoods/toobig-5m/README.md) / toobig-5m.test\_capture.0
 
-**Global name:** `bbugyi200.athena.toobig-5m.test_capture.0` · **State:** waiting · **Source run:** `run-84e88025126eacec70ef1e270e626d84`
+**Global name:** `bbugyi200.athena.toobig-5m.test_capture.0` · **State:** active · **Source run:** `run-84e88025126eacec70ef1e270e626d84`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5m
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260916183553
-- Commits: 0
+- Timing: 2026-09-17T00:18:08.026764+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`86716ae`](https://github.com/sase-org/sase/commit/86716ae9054d86d82abe84d3f7131fa5e74346dc) | test(continuation): split capture tests by concern | 2026-09-16 20:28:43 EDT |
 
 ## Neighbors
 
@@ -25,4 +31,4 @@
 | [toobig-5m.launch\_admission\_engine.0](../bbugyi200.athena.toobig-5m.launch_admission_engine.0/README.md) | toobig-5m hood | completed |
 | [toobig-5m.monitor.0](../bbugyi200.athena.toobig-5m.monitor.0/README.md) | toobig-5m hood | completed |
 | [toobig-5m.test\_llm\_provider\_codex\_parser.0](../bbugyi200.athena.toobig-5m.test_llm_provider_codex_parser.0/README.md) | toobig-5m hood | waiting |
-| [toobig-5m.test\_publication.0](../bbugyi200.athena.toobig-5m.test_publication.0/README.md) | toobig-5m hood | active |
+| [toobig-5m.test\_publication.0](../bbugyi200.athena.toobig-5m.test_publication.0/README.md) | toobig-5m hood | completed |
