@@ -1,17 +1,16 @@
 # Chat History - ace-run (sase-zr.7.1--plan)
 
-- **TIMESTAMP:** 2026-09-16 14:33:45 EDT
-- **MODEL:** codex/gpt-5.6-sol
+- **TIMESTAMP:** 2026-09-17 06:47:14 EDT
+- **MODEL:** claude/opus
 - **AGENT:** sase-zr.7.1--plan
 
-**Plan:** /home/bryan/.sase/plans/202609/gate_decision_integrity.md
+**Plan:** /home/bryan/.sase/plans/202609/gate_decision_integrity_1.md
 
 
 ## Prompt
 
+%id(1, clan=sase-zr.7, bead=sase-zr.7.1)
 #gh:gh_sase-org__sase
-%id(sase-zr.7.1, bead=sase-zr.7.1)
-%clan(sase-zr.7, tribe=epic, summary_script=sase_clan_summary_epic)
 %model:@large
 %auto
 Can you complete the work for bead sase-zr.7.1? The bead is already reserved for you and assigned to your agent
@@ -37,18 +36,18 @@ before making any file changes.
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202609/gate_decision_integrity.md`
+**Plan file:** `/home/bryan/.sase/plans/202609/gate_decision_integrity_1.md`
 
-> - **PARENT:** [202609/sase_zr_close_out.md](202609/sase_zr_close_out.md)
-> - **BEAD:** sase-zr.7.1
-> # Gate decision integrity and failure recovery
+> # Gate decision integrity: owned execution, durable failure outcomes, truthful completion
 > ## Context
-> The accepted epic design requires one coherent change across `sase-core` and `sase`.
-> Today the Rust acceptance policy treats every differing receipt as a conflict, while
-> Python bypasses that conflict whenever any journal attempt is merely incomplete. That
-> makes a still-running command supersedable. At the same time, failures after acceptance
-> are written only as diagnostic error files: polling stays pending, cancellation remains
-> blocked by the receipt, archive failure is misclassified as a completed attempt, and no
+> This epic implements phase `decision-integrity` (bead `sase-zr.7.1`) of epic `sase-zr.7`
+> (plan `plan:202609/sase_zr_close_out.md`). That phase is too large for one agent: it
+> changes a shared sase-core contract that has to be released before Python can use it,
+> then changes the gate executor, the acceptance policy and every requester. Before
+> starting any phase, read the close-out plan section "Phase decision-integrity" and the
+> original contract with `sase artifact read plan:202609/prompt_gate_approval.md "<why>"`.
+> Their constraints still apply:
+> - Shared policy belongs in sase-core, with no Python fallback.
 
 *See full plan file for details.*
 
