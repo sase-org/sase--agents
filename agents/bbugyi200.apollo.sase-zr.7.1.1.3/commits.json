@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d2dc721a09d33303b597219a1762e1b7"}
+{"commits":[{"committed_at":1789680000,"sha":"155aeee2efe67b653c4c715888716a116401fdaa","subject":"fix(tui): allow incremental agent refresh under stable search"}],"schema_version":2,"source_run_id":"run-d2dc721a09d33303b597219a1762e1b7"}
