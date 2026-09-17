@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7080fbe48874508e8d21e619c1274195"}
+{"commits":[{"committed_at":1789663050,"sha":"43ddcf15f5a72a8bdbcb708692b8d9fe2ab106d1","subject":"fix(tui): keep refresh pulses out of broad fallback"}],"schema_version":2,"source_run_id":"run-7080fbe48874508e8d21e619c1274195"}
