@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e89caeb51ef3d6041247f1e8a145dcf6"}
+{"commits":[{"committed_at":1789656140,"sha":"863892b3491e85378cf5c13a080be5f0243ec744","subject":"feat(memory): inline flat note memory links"}],"schema_version":2,"source_run_id":"run-e89caeb51ef3d6041247f1e8a145dcf6"}

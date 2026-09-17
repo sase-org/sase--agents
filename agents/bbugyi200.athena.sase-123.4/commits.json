@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-faf4b33e8086d784822bd715c2894c0c"}
+{"commits":[{"committed_at":1789687363,"sha":"139f6aa2631bcd5d71387bc1b57dea68ec9b9abd","subject":"feat(screenshot): add remote capture over ssh"}],"schema_version":2,"source_run_id":"run-272867a657deadb7f1a74de944850600"}

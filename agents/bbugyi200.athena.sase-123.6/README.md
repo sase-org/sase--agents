@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-123](../../users/bbugyi200/machines/athena/hoods/sase-123/README.md) / sase-123.6
 
-**Global name:** `bbugyi200.athena.sase-123.6` · **State:** waiting · **Source run:** `run-f9745ee3324a3f52696cf14534c2d8bd`
+**Global name:** `bbugyi200.athena.sase-123.6` · **State:** waiting · **Source run:** `run-727ab7c042390e36c5b54932aec5c6d3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-123
 
@@ -12,7 +12,7 @@
 - Epic: [sase-123](https://github.com/sase-org/sase--beads/blob/main/pages/sase-123/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260917084501
+- Timing: 20260917131627
 - Commits: 0
 
 ## Files
@@ -23,9 +23,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-123.1](../bbugyi200.athena.sase-123.1/README.md) | sase-123 hood | completed |
-| [sase-123.2](../bbugyi200.athena.sase-123.2/README.md) | sase-123 hood | completed |
-| [sase-123.3](../bbugyi200.athena.sase-123.3/README.md) | sase-123 hood | waiting |
-| [sase-123.4](../bbugyi200.athena.sase-123.4/README.md) | sase-123 hood | waiting |
+| [sase-123.1](../bbugyi200.athena.sase-123.1/README.md) | sase-123 hood | active |
+| [sase-123.2](../bbugyi200.athena.sase-123.2/README.md) | sase-123 hood | active |
+| [sase-123.3](../bbugyi200.athena.sase-123.3/README.md) | sase-123 hood | completed |
+| [sase-123.4](../bbugyi200.athena.sase-123.4/README.md) | sase-123 hood | completed |
 | [sase-123.5](../bbugyi200.athena.sase-123.5/README.md) | sase-123 hood | active |
 | [sase-123.land](../bbugyi200.athena.sase-123.land/README.md) | sase-123 hood | waiting |
