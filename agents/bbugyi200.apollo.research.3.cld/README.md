@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3.cld
 
-**Global name:** `bbugyi200.apollo.research.3.cld` · **State:** active · **Source run:** `run-40b43263f7687b94e18858027560f694`
+**Global name:** `bbugyi200.apollo.research.3.cld` · **State:** completed · **Source run:** `run-40b43263f7687b94e18858027560f694`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,12 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-09-17T18:11:34.379192+00:00
+- Timing: 2026-09-17T18:11:34.379192+00:00 → 2026-09-17T18:34:56.708373+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -28,7 +28,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.3.cdx](../bbugyi200.apollo.research.3.cdx/README.md) | research.3 hood | completed |
-| [research.3.final](../bbugyi200.apollo.research.3.final/README.md) | research.3 hood | waiting |
+| [research.3.final](../bbugyi200.apollo.research.3.final/README.md) | research.3 hood | active |
 | [research.3.image](../bbugyi200.apollo.research.3.image/README.md) | research.3 hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
