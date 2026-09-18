@@ -23,6 +23,7 @@
 | [0b.md](0b.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.kellys_mbp.0b--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.kellys_mbp.0b.md) | 1 |
 | [0d.md](0d.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/sudo_working_directory.md][1] | - | [bbugyi200.apollo.0d--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.0d.md) | 1 |
 | [0e.md](0e.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/agents_view_picker.md][1] | - | [bbugyi200.apollo.0e--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.0e.md) | 1 |
+| [0e.w0.md](0e.w0.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/llm_calls_rename.md][1] | - | [bbugyi200.apollo.0e.w0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.0e.w0.md) | 1 |
 | [0f.md](0f.md) | gh:gh_sase-org__sase Do you see any high-level architecture/design issues with the | - | [bbugyi200.kellys_mbp.0f](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.0f/README.md) | 0 |
 | [0g.md](0g.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.kellys_mbp.0g--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.kellys_mbp.0g.md) | 1 |
 | [0ge.md](0ge.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0ge--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0ge.md) | 1 |
