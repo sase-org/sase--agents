@@ -13,7 +13,13 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-18T09:43:41.449704+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`e92e6c9`](https://github.com/sase-org/sase/commit/e92e6c91c1ed4f8ff8d8f83250674d7dd46dbf61) | feat(mobile): move gateway to service host | 2026-09-18 07:49:43 EDT |
 
 ## Neighbors
 
@@ -33,7 +39,7 @@
 | [sase-11y.3](../../families/bbugyi200.athena.sase-11y.3.md) (family · 7) | sase-11y hood | completed 4, failed 3 |
 | [sase-11y.4](../../families/bbugyi200.athena.sase-11y.4.md) (family · 3) | sase-11y hood | completed 2, failed 1 |
 | [sase-11y.5](../../families/bbugyi200.athena.sase-11y.5.md) (family · 3) | sase-11y hood | active 2, failed 1 |
-| [sase-11y.7](../../families/bbugyi200.athena.sase-11y.7.md) (family · 3) | sase-11y hood | active 2, failed 1 |
+| [sase-11y.7](../../families/bbugyi200.athena.sase-11y.7.md) (family · 3) | sase-11y hood | completed 2, failed 1 |
 | [sase-11y.8](../bbugyi200.athena.sase-11y.8/README.md) | sase-11y hood | waiting |
 | [sase-11y.9](../bbugyi200.athena.sase-11y.9/README.md) | sase-11y hood | waiting |
 | [sase-11y.land](../bbugyi200.athena.sase-11y.land/README.md) | sase-11y hood | waiting |

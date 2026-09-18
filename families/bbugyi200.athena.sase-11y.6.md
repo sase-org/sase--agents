@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-11y.6--gate | failed | gpt-5.6-sol / codex | 2026-09-18T09:42:56.184018+00:00 → 2026-09-18T09:43:30.766954+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11y.6--gate/chat.md) |
-| <a id="member-code"></a>code | sase-11y.6--code | active | gpt-5.5 / codex | 2026-09-18T09:43:41.449704+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-11y.6--code | active | gpt-5.5 / codex | 2026-09-18T09:43:41.449704+00:00 | [1](../agents/bbugyi200.athena.sase-11y.6--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-11y.6--plan | active | gpt-5.6-sol / codex | 2026-09-18T09:35:21.943782+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11y.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11y.6--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`e92e6c9`](https://github.com/sase-org/sase/commit/e92e6c91c1ed4f8ff8d8f83250674d7dd46dbf61) | feat(mobile): move gateway to service host | 2026-09-18 07:49:43 EDT |
 
 ## Neighbors
 
@@ -41,7 +47,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-11y.3](bbugyi200.athena.sase-11y.3.md) (family · 7) | sase-11y hood | completed 4, failed 3 |
 | [sase-11y.4](bbugyi200.athena.sase-11y.4.md) (family · 3) | sase-11y hood | completed 2, failed 1 |
 | [sase-11y.5](bbugyi200.athena.sase-11y.5.md) (family · 3) | sase-11y hood | active 2, failed 1 |
-| [sase-11y.7](bbugyi200.athena.sase-11y.7.md) (family · 3) | sase-11y hood | active 2, failed 1 |
+| [sase-11y.7](bbugyi200.athena.sase-11y.7.md) (family · 3) | sase-11y hood | completed 2, failed 1 |
 | [sase-11y.8](../agents/bbugyi200.athena.sase-11y.8/README.md) | sase-11y hood | waiting |
 | [sase-11y.9](../agents/bbugyi200.athena.sase-11y.9/README.md) | sase-11y hood | waiting |
 | [sase-11y.land](../agents/bbugyi200.athena.sase-11y.land/README.md) | sase-11y hood | waiting |

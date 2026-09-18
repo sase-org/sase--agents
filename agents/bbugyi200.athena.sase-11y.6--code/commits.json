@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3d72c95422afb410f6caf8b80dfa13e2"}
+{"commits":[{"committed_at":1789732183,"sha":"e92e6c91c1ed4f8ff8d8f83250674d7dd46dbf61","subject":"feat(mobile): move gateway to service host"}],"schema_version":2,"source_run_id":"run-3d72c95422afb410f6caf8b80dfa13e2"}

@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-11l.5.1.2.1.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_11l_5_1_2_1_land__plan-260917_131931.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_11l_5_1_2_1_land__code-260917_131931.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/recover_typed_launch_hold_arming.md
 
 
