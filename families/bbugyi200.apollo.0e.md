@@ -11,7 +11,7 @@ flowchart TD
   n0["0e--gate [failed]"]
   n1["0e--plan [completed]"]
   n0 --> n1
-  n2["0e--code [active]"]
+  n2["0e--code [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 0e--gate | failed | gpt-6-astra / codex | 2026-09-17T19:30:11.247814+00:00 → 2026-09-17T19:30:25.211234+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.0e--gate/chat.md) |
 | <a id="member-plan"></a>plan | 0e--plan | completed | gpt-6-astra / codex | 2026-09-17T19:23:23.528515+00:00 → 2026-09-17T19:29:46.948519+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.0e--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.0e--plan/chat.md) |
-| <a id="member-code"></a>code | 0e--code | active | gpt-5.5 / codex | 2026-09-17T19:30:29.233838+00:00 | [1](../agents/bbugyi200.apollo.0e--code/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.0e--code/prompt.md) | — |
+| <a id="member-code"></a>code | 0e--code | completed | gpt-5.5 / codex | 2026-09-17T19:30:29.233838+00:00 → 2026-09-17T22:13:13.208443+00:00 | [1](../agents/bbugyi200.apollo.0e--code/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.0e--code/prompt.md) | [Chat](../agents/bbugyi200.apollo.0e--code/chat.md) |
 
 ## Commits
 
@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [0e.w0](../agents/bbugyi200.apollo.0e.w0/README.md) | descendant | waiting |
+| [0e.w0](bbugyi200.apollo.0e.w0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |
 | [0e.w1](../agents/bbugyi200.apollo.0e.w1/README.md) | descendant | completed |
 | [0e.w1.w1](../agents/bbugyi200.apollo.0e.w1.w1/README.md) | descendant | completed |
 | [0e.w1.w1.w1](../agents/bbugyi200.apollo.0e.w1.w1.w1/README.md) | descendant | completed |
