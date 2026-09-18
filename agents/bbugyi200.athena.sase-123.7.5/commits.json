@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2185b3b4f478adac4fe792a4c4a04db1"}
+{"commits":[{"committed_at":1789702899,"sha":"80336097ad93770b2f45b37ba69160a9bb805eba","subject":"fix(tui): settle live screenshots with background workers"}],"schema_version":2,"source_run_id":"run-2185b3b4f478adac4fe792a4c4a04db1"}
