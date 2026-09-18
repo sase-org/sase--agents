@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-123](../../users/bbugyi200/machines/athena/hoods/sase-123/README.md) / sase-123.7.6.4
 
-**Global name:** `bbugyi200.athena.sase-123.7.6.4` · **State:** waiting · **Source run:** `run-d0f6d74940c36f7923d9f28d332630a0`
+**Global name:** `bbugyi200.athena.sase-123.7.6.4` · **State:** active · **Source run:** `run-d0f6d74940c36f7923d9f28d332630a0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-123
 
@@ -12,20 +12,26 @@
 - Epic: [sase-123.7.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-123/sase-123.7.6.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260918000507
-- Commits: 0
+- Timing: 2026-09-18T05:27:59.428596+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`80ba6ce`](https://github.com/sase-org/sase/commit/80ba6ce0efb35adc746a74b0880d11c481e07446) | fix(tui): bound screenshot visual settling | 2026-09-18 01:51:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-123.7.6.1](../bbugyi200.athena.sase-123.7.6.1/README.md) | sase-123.7.6 hood | completed |
-| [sase-123.7.6.2](../bbugyi200.athena.sase-123.7.6.2/README.md) | sase-123.7.6 hood | active |
-| [sase-123.7.6.3](../bbugyi200.athena.sase-123.7.6.3/README.md) | sase-123.7.6 hood | active |
+| [sase-123.7.6.2](../bbugyi200.athena.sase-123.7.6.2/README.md) | sase-123.7.6 hood | completed |
+| [sase-123.7.6.3](../bbugyi200.athena.sase-123.7.6.3/README.md) | sase-123.7.6 hood | completed |
 | [sase-123.7.6.land](../bbugyi200.athena.sase-123.7.6.land/README.md) | sase-123.7.6 hood | waiting |
 | [sase-123.7.1](../bbugyi200.athena.sase-123.7.1/README.md) | sase-123.7 hood | completed |
 | [sase-123.7.2](../bbugyi200.athena.sase-123.7.2/README.md) | sase-123.7 hood | completed |

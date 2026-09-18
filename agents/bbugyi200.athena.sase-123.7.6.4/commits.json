@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d0f6d74940c36f7923d9f28d332630a0"}
+{"commits":[{"committed_at":1789710687,"sha":"80ba6ce0efb35adc746a74b0880d11c481e07446","subject":"fix(tui): bound screenshot visual settling"}],"schema_version":2,"source_run_id":"run-d0f6d74940c36f7923d9f28d332630a0"}

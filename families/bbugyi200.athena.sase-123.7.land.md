@@ -33,9 +33,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-123.7.4](../agents/bbugyi200.athena.sase-123.7.4/README.md) | sase-123.7 hood | completed |
 | [sase-123.7.5](../agents/bbugyi200.athena.sase-123.7.5/README.md) | sase-123.7 hood | completed |
 | [sase-123.7.6.1](../agents/bbugyi200.athena.sase-123.7.6.1/README.md) | sase-123.7 hood | completed |
-| [sase-123.7.6.2](../agents/bbugyi200.athena.sase-123.7.6.2/README.md) | sase-123.7 hood | active |
-| [sase-123.7.6.3](../agents/bbugyi200.athena.sase-123.7.6.3/README.md) | sase-123.7 hood | active |
-| [sase-123.7.6.4](../agents/bbugyi200.athena.sase-123.7.6.4/README.md) | sase-123.7 hood | waiting |
+| [sase-123.7.6.2](../agents/bbugyi200.athena.sase-123.7.6.2/README.md) | sase-123.7 hood | completed |
+| [sase-123.7.6.3](../agents/bbugyi200.athena.sase-123.7.6.3/README.md) | sase-123.7 hood | completed |
+| [sase-123.7.6.4](../agents/bbugyi200.athena.sase-123.7.6.4/README.md) | sase-123.7 hood | active |
 | [sase-123.7.6.land](../agents/bbugyi200.athena.sase-123.7.6.land/README.md) | sase-123.7 hood | waiting |
 | [sase-123.1](../agents/bbugyi200.athena.sase-123.1/README.md) | sase-123 hood | active |
 | [sase-123.2](../agents/bbugyi200.athena.sase-123.2/README.md) | sase-123 hood | active |

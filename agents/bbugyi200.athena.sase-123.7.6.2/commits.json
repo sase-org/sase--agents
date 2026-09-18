@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f2292496e36d6d728af3c0c35d528f8b"}
+{"commits":[{"committed_at":1789709064,"sha":"7e38873aa5e96599d1dc482f6474ca88f511b57f","subject":"fix(screenshot): retain remote tmux target identity"}],"schema_version":2,"source_run_id":"run-f2292496e36d6d728af3c0c35d528f8b"}
