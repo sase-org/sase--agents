@@ -1,34 +1,34 @@
-# Agent: sase-11y.2.1.2--1
+# Agent: sase-11y.2.1.5.land--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-11y](../../users/bbugyi200/machines/athena/hoods/sase-11y/README.md) / [sase-11y.2.1.2](../../families/bbugyi200.athena.sase-11y.2.1.2.md) / sase-11y.2.1.2--1
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-11y](../../users/bbugyi200/machines/athena/hoods/sase-11y/README.md) / [sase-11y.2.1.5.land](../../families/bbugyi200.athena.sase-11y.2.1.5.land.md) / sase-11y.2.1.5.land--plan
 
-**Global name:** `bbugyi200.athena.sase-11y.2.1.2--1` · **State:** active · **Source run:** `run-2a37edcc28793ab1e5a2e5c59b768936`
+**Global name:** `bbugyi200.athena.sase-11y.2.1.5.land--plan` · **State:** active · **Source run:** `run-3b73e03c978ac56fd58bd0d945943a9e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-11y
 
 ## Summary
 
-- Bead: [sase-11y.2.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-11y/sase-11y.2.1.2.md)
-- Model: sonnet
-- Provider: claude
-- Timing: 2026-09-17T11:41:45.538208+00:00
+- Bead: [sase-11y.2.1.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-11y/sase-11y.2.1.5.md)
+- Model: gpt-5.6-sol
+- Provider: codex
+- Timing: 2026-09-18T02:53:33.048457+00:00
 - Commits: 0
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-11y.2](../../families/bbugyi200.athena.sase-11y.2.md) (family · 3) | ancestor | failed 3 |
+| [sase-11y.2.1.5.1](../bbugyi200.athena.sase-11y.2.1.5.1/README.md) | sase-11y.2.1.5 hood | completed |
+| [sase-11y.2.1.5.2](../bbugyi200.athena.sase-11y.2.1.5.2/README.md) | sase-11y.2.1.5 hood | completed |
 | [sase-11y.2.1.1](../bbugyi200.athena.sase-11y.2.1.1/README.md) | sase-11y.2.1 hood | active |
+| [sase-11y.2.1.2](../../families/bbugyi200.athena.sase-11y.2.1.2.md) (family · 5) | sase-11y.2.1 hood | active 5 |
 | [sase-11y.2.1.3](../bbugyi200.athena.sase-11y.2.1.3/README.md) | sase-11y.2.1 hood | active |
 | [sase-11y.2.1.4](../bbugyi200.athena.sase-11y.2.1.4/README.md) | sase-11y.2.1 hood | completed |
-| [sase-11y.2.1.5.1](../bbugyi200.athena.sase-11y.2.1.5.1/README.md) | sase-11y.2.1 hood | completed |
-| [sase-11y.2.1.5.2](../bbugyi200.athena.sase-11y.2.1.5.2/README.md) | sase-11y.2.1 hood | completed |
-| [sase-11y.2.1.5.land](../../families/bbugyi200.athena.sase-11y.2.1.5.land.md) (family · 1) | sase-11y.2.1 hood | active 1 |
 | [sase-11y.2.1.land](../../families/bbugyi200.athena.sase-11y.2.1.land.md) (family · 3) | sase-11y.2.1 hood | failed 3 |
 | [sase-11y.1](../bbugyi200.athena.sase-11y.1/README.md) | sase-11y hood | completed |
 | [sase-11y.10](../bbugyi200.athena.sase-11y.10/README.md) | sase-11y hood | waiting |
