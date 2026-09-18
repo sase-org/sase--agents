@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5.final
 
-**Global name:** `bbugyi200.apollo.research.5.final` · **State:** waiting · **Source run:** `run-871e8ff666bcdf92b9d82352f753128e`
+**Global name:** `bbugyi200.apollo.research.5.final` · **State:** active · **Source run:** `run-87a0cb4cfb6fe38e87f29074886c2af5`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20260918073703
+- Timing: 2026-09-18T12:09:31.291661+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -29,7 +29,7 @@
 |---|---|---|
 | [research.5.final.f1](../bbugyi200.apollo.research.5.final.f1/README.md) | descendant | completed |
 | [research.5.cdx](../bbugyi200.apollo.research.5.cdx/README.md) | research.5 hood | completed |
-| [research.5.cld](../bbugyi200.apollo.research.5.cld/README.md) | research.5 hood | active |
+| [research.5.cld](../bbugyi200.apollo.research.5.cld/README.md) | research.5 hood | completed |
 | [research.5.image](../bbugyi200.apollo.research.5.image/README.md) | research.5 hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
