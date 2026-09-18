@@ -23,8 +23,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-124.8.1](../bbugyi200.athena.sase-124.8.1/README.md) | sase-124.8 hood | completed |
-| [sase-124.8.2](../bbugyi200.athena.sase-124.8.2/README.md) | sase-124.8 hood | active |
-| [sase-124.8.3](../bbugyi200.athena.sase-124.8.3/README.md) | sase-124.8 hood | waiting |
+| [sase-124.8.2](../bbugyi200.athena.sase-124.8.2/README.md) | sase-124.8 hood | completed |
+| [sase-124.8.3](../../families/bbugyi200.athena.sase-124.8.3.md) (family · 7) | sase-124.8 hood | completed 4, failed 3 |
 | [sase-124.1](../bbugyi200.athena.sase-124.1/README.md) | sase-124 hood | active |
 | [sase-124.2](../bbugyi200.athena.sase-124.2/README.md) | sase-124 hood | completed |
 | [sase-124.3](../bbugyi200.athena.sase-124.3/README.md) | sase-124 hood | completed |
