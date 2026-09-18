@@ -21,7 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-12w.2--plan | active | gpt-5.6-sol / codex | 2026-09-18T13:37:46.731189+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-12w.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-12w.2--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-12w.2--gate | failed | gpt-5.6-sol / codex | 2026-09-18T13:42:32.389872+00:00 → 2026-09-18T13:43:18.981019+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-12w.2--gate/chat.md) |
-| <a id="member-code"></a>code | sase-12w.2--code | active | grok-4.6 / grok | 2026-09-18T13:43:38.047333+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-12w.2--code | active | grok-4.6 / grok | 2026-09-18T13:43:38.047333+00:00 | [1](../agents/bbugyi200.athena.sase-12w.2--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`af8b7ec`](https://github.com/sase-org/sase/commit/af8b7ec14009c34ccac57c7879ec52329d53f4fa) | feat(sudo): add local detached answer path and finalize proc | 2026-09-18 11:35:39 EDT |
 
 ## Neighbors
 
