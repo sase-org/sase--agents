@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-11y.6--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_11y_6__plan-260916_144503.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_11y_6__code-260916_144503.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/gateway_telegram_migration.md
 
 
