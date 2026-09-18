@@ -42,7 +42,9 @@
 | [sase-123.7.6.1](../bbugyi200.athena.sase-123.7.6.1/README.md) | sase-123 hood | completed |
 | [sase-123.7.6.2](../bbugyi200.athena.sase-123.7.6.2/README.md) | sase-123 hood | completed |
 | [sase-123.7.6.3](../bbugyi200.athena.sase-123.7.6.3/README.md) | sase-123 hood | completed |
-| [sase-123.7.6.4](../bbugyi200.athena.sase-123.7.6.4/README.md) | sase-123 hood | active |
-| [sase-123.7.6.land](../bbugyi200.athena.sase-123.7.6.land/README.md) | sase-123 hood | waiting |
+| [sase-123.7.6.4](../bbugyi200.athena.sase-123.7.6.4/README.md) | sase-123 hood | completed |
+| [sase-123.7.6.5.1](../bbugyi200.athena.sase-123.7.6.5.1/README.md) | sase-123 hood | completed |
+| [sase-123.7.6.5.land](../../families/bbugyi200.athena.sase-123.7.6.5.land.md) (family · 3) | sase-123 hood | active 1, completed 1, failed 1 |
+| [sase-123.7.6.land](../../families/bbugyi200.athena.sase-123.7.6.land.md) (family · 3) | sase-123 hood | failed 3 |
 | [sase-123.7.land](../../families/bbugyi200.athena.sase-123.7.land.md) (family · 3) | sase-123 hood | failed 3 |
 | [sase-123.land](../../families/bbugyi200.athena.sase-123.land.md) (family · 3) | sase-123 hood | failed 3 |
