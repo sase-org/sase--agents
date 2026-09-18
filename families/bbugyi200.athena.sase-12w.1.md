@@ -31,8 +31,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-12w.3](../agents/bbugyi200.athena.sase-12w.3/README.md) | sase-12w hood | completed |
 | [sase-12w.4](../agents/bbugyi200.athena.sase-12w.4/README.md) | sase-12w hood | completed |
 | [sase-12w.5](../agents/bbugyi200.athena.sase-12w.5/README.md) | sase-12w hood | completed |
-| [sase-12w.6.1](../agents/bbugyi200.athena.sase-12w.6.1/README.md) | sase-12w hood | active |
-| [sase-12w.6.2](../agents/bbugyi200.athena.sase-12w.6.2/README.md) | sase-12w hood | waiting |
+| [sase-12w.6.1](bbugyi200.athena.sase-12w.6.1.md) (family · 7) | sase-12w hood | completed 4, failed 3 |
+| [sase-12w.6.2](bbugyi200.athena.sase-12w.6.2.md) (family · 3) | sase-12w hood | active 2, failed 1 |
 | [sase-12w.6.3](../agents/bbugyi200.athena.sase-12w.6.3/README.md) | sase-12w hood | waiting |
 | [sase-12w.6.land](../agents/bbugyi200.athena.sase-12w.6.land/README.md) | sase-12w hood | waiting |
 | [sase-12w.land](bbugyi200.athena.sase-12w.land.md) (family · 3) | sase-12w hood | failed 3 |
