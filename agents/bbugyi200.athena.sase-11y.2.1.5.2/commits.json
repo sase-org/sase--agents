@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-99901b71cbcbb5a566df0a2b9d30409e"}
+{"commits":[{"committed_at":1789699782,"sha":"6e06a3e24c691c87afaf53b43cefd89d24d6e97f","subject":"fix(supervision): align restart and gate decisions with core"}],"schema_version":2,"source_run_id":"run-99901b71cbcbb5a566df0a2b9d30409e"}

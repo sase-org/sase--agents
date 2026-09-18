@@ -47,7 +47,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-124.8.1](../agents/bbugyi200.athena.sase-124.8.1/README.md) | sase-124.8 hood | completed |
 | [sase-124.8.2](../agents/bbugyi200.athena.sase-124.8.2/README.md) | sase-124.8 hood | completed |
-| [sase-124.8.land](../agents/bbugyi200.athena.sase-124.8.land/README.md) | sase-124.8 hood | waiting |
+| [sase-124.8.4.1](bbugyi200.athena.sase-124.8.4.1.md) (family · 3) | sase-124.8 hood | active 1, completed 1, failed 1 |
+| [sase-124.8.4.2](../agents/bbugyi200.athena.sase-124.8.4.2/README.md) | sase-124.8 hood | waiting |
+| [sase-124.8.4.land](../agents/bbugyi200.athena.sase-124.8.4.land/README.md) | sase-124.8 hood | waiting |
+| [sase-124.8.land](bbugyi200.athena.sase-124.8.land.md) (family · 3) | sase-124.8 hood | failed 3 |
 | [sase-124.1](../agents/bbugyi200.athena.sase-124.1/README.md) | sase-124 hood | active |
 | [sase-124.2](../agents/bbugyi200.athena.sase-124.2/README.md) | sase-124 hood | completed |
 | [sase-124.3](../agents/bbugyi200.athena.sase-124.3/README.md) | sase-124 hood | completed |

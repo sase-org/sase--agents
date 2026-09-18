@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-11y](../../users/bbugyi200/machines/athena/hoods/sase-11y/README.md) / sase-11y.2.1.5.2
 
-**Global name:** `bbugyi200.athena.sase-11y.2.1.5.2` · **State:** waiting · **Source run:** `run-99901b71cbcbb5a566df0a2b9d30409e`
+**Global name:** `bbugyi200.athena.sase-11y.2.1.5.2` · **State:** active · **Source run:** `run-99901b71cbcbb5a566df0a2b9d30409e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-11y
 
@@ -12,19 +12,25 @@
 - Epic: [sase-11y.2.1.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-11y/sase-11y.2.1.5.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260917193959
-- Commits: 0
+- Timing: 2026-09-17T23:57:19.673618+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`6e06a3e`](https://github.com/sase-org/sase/commit/6e06a3e24c691c87afaf53b43cefd89d24d6e97f) | fix(supervision): align restart and gate decisions with core | 2026-09-17 22:49:42 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-11y.2](../../families/bbugyi200.athena.sase-11y.2.md) (family · 3) | ancestor | failed 3 |
-| [sase-11y.2.1.5.1](../bbugyi200.athena.sase-11y.2.1.5.1/README.md) | sase-11y.2.1.5 hood | active |
+| [sase-11y.2.1.5.1](../bbugyi200.athena.sase-11y.2.1.5.1/README.md) | sase-11y.2.1.5 hood | completed |
 | [sase-11y.2.1.5.land](../bbugyi200.athena.sase-11y.2.1.5.land/README.md) | sase-11y.2.1.5 hood | waiting |
 | [sase-11y.2.1.1](../bbugyi200.athena.sase-11y.2.1.1/README.md) | sase-11y.2.1 hood | active |
 | [sase-11y.2.1.2](../../families/bbugyi200.athena.sase-11y.2.1.2.md) (family · 5) | sase-11y.2.1 hood | active 5 |
