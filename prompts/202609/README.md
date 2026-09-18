@@ -38,6 +38,7 @@
 | [0gt.md](0gt.md) | fork:0gt %model:@small | - | [bbugyi200.athena.0gt--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0gt.md) | 0 |
 | [0gv.md](0gv.md) | fork:0gv %model:gpt-5.5 %effort:high | - | [bbugyi200.athena.0gv--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0gv.md) | 0 |
 | [0gz.md](0gz.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0gz--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0gz.md) | 1 |
+| [0h.md](0h.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/prompt_search_pill_contrast_1.md][1] | - | [bbugyi200.apollo.0h--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.0h.md) | 1 |
 | [0hb.md](0hb.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/compact_usage_indicator.md][1] | - | [bbugyi200.athena.0hb--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0hb.md) | 1 |
 | [0hd.md](0hd.md) | fork:0hd %model:@small | - | [bbugyi200.athena.0hd--2](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0hd.md) | 0 |
 | [0he.md](0he.md) | fork:0he %model:gpt-5.5 %effort:xhigh | - | [bbugyi200.athena.0he--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0he.md) | 0 |
