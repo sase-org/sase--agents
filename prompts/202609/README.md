@@ -105,6 +105,7 @@
 | [0mi.md](0mi.md) | %queue(weight=1) #fork:0mi--7 %model:gpt-5.5@xhigh | - | [bbugyi200.athena.0mi--8](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0mi.md) | 0 |
 | [0mk.md](0mk.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/record_before_admit_decision.md][1] | - | [bbugyi200.athena.0mk--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0mk.md) | 1 |
 | [0mm.md](0mm.md) | %queue(weight=1) #fork:0mm--code %model:@small | - | [bbugyi200.athena.0mm--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0mm.md) | 0 |
+| [0mn.f0.md](0mn.f0.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.0mn.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0mn.f0.md) | 1 |
 | [0mn.md](0mn.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/reference_tui_child_memories.md][1] | - | [bbugyi200.athena.0mn--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0mn.md) | 1 |
 | [0mo.md](0mo.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0mo--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0mo.md) | 1 |
 | [0mp.md](0mp.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/notification_backlog_access.md][1] | - | [bbugyi200.athena.0mp--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0mp.md) | 1 |
