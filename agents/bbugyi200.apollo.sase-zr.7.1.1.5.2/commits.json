@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-075a5a4313b0730ad9f9000accb979bf"}
+{"commits":[{"committed_at":1789698089,"sha":"df0090f040f29ffe0579bf83d1a61350c7a357fd","subject":"fix(gates): serialize terminal decision transitions"}],"schema_version":2,"source_run_id":"run-075a5a4313b0730ad9f9000accb979bf"}

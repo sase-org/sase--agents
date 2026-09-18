@@ -42,8 +42,8 @@
 | [sase-zr.7.1.1.2](../bbugyi200.apollo.sase-zr.7.1.1.2/README.md) | sase-zr hood | completed |
 | [sase-zr.7.1.1.3](../bbugyi200.apollo.sase-zr.7.1.1.3/README.md) | sase-zr hood | completed |
 | [sase-zr.7.1.1.4](../bbugyi200.apollo.sase-zr.7.1.1.4/README.md) | sase-zr hood | completed |
-| [sase-zr.7.1.1.5.1](../bbugyi200.apollo.sase-zr.7.1.1.5.1/README.md) | sase-zr hood | active |
-| [sase-zr.7.1.1.5.2](../bbugyi200.apollo.sase-zr.7.1.1.5.2/README.md) | sase-zr hood | waiting |
+| [sase-zr.7.1.1.5.1](../bbugyi200.apollo.sase-zr.7.1.1.5.1/README.md) | sase-zr hood | completed |
+| [sase-zr.7.1.1.5.2](../bbugyi200.apollo.sase-zr.7.1.1.5.2/README.md) | sase-zr hood | active |
 | [sase-zr.7.1.1.5.3](../bbugyi200.apollo.sase-zr.7.1.1.5.3/README.md) | sase-zr hood | waiting |
 | [sase-zr.7.1.1.5.land](../bbugyi200.apollo.sase-zr.7.1.1.5.land/README.md) | sase-zr hood | waiting |
 | [sase-zr.7.1.1.land](../../families/bbugyi200.apollo.sase-zr.7.1.1.land.md) (family · 3) | sase-zr hood | failed 3 |
