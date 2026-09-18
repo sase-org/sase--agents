@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-12w.1](../../families/bbugyi200.athena.sase-12w.1.md) (family · 3) | sase-12w hood | completed 2, failed 1 |
-| [sase-12w.2](../../families/bbugyi200.athena.sase-12w.2.md) (family · 3) | sase-12w hood | active 2, failed 1 |
-| [sase-12w.3](../bbugyi200.athena.sase-12w.3/README.md) | sase-12w hood | waiting |
-| [sase-12w.4](../bbugyi200.athena.sase-12w.4/README.md) | sase-12w hood | waiting |
+| [sase-12w.2](../../families/bbugyi200.athena.sase-12w.2.md) (family · 3) | sase-12w hood | completed 2, failed 1 |
+| [sase-12w.3](../bbugyi200.athena.sase-12w.3/README.md) | sase-12w hood | completed |
+| [sase-12w.4](../bbugyi200.athena.sase-12w.4/README.md) | sase-12w hood | active |
 | [sase-12w.land](../bbugyi200.athena.sase-12w.land/README.md) | sase-12w hood | waiting |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-12w](../../users/bbugyi200/machines/athena/hoods/sase-12w/README.md) / [sase-12w.2](../../families/bbugyi200.athena.sase-12w.2.md) / sase-12w.2--plan
 
-**Global name:** `bbugyi200.athena.sase-12w.2--plan` · **State:** active · **Source run:** `run-3ad0869d7e72b5dfcc71c3135e08366c`
+**Global name:** `bbugyi200.athena.sase-12w.2--plan` · **State:** completed · **Source run:** `run-3ad0869d7e72b5dfcc71c3135e08366c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-12w
 
@@ -12,7 +12,7 @@
 - Epic: [sase-12w](https://github.com/sase-org/sase--beads/blob/main/pages/sase-12w/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-09-18T13:37:46.731189+00:00
+- Timing: 2026-09-18T13:37:46.731189+00:00 → 2026-09-18T15:40:08.472143+00:00
 - Commits: 0
 
 ## Files
@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-12w.1](../../families/bbugyi200.athena.sase-12w.1.md) (family · 3) | sase-12w hood | completed 2, failed 1 |
-| [sase-12w.3](../bbugyi200.athena.sase-12w.3/README.md) | sase-12w hood | waiting |
-| [sase-12w.4](../bbugyi200.athena.sase-12w.4/README.md) | sase-12w hood | waiting |
+| [sase-12w.3](../bbugyi200.athena.sase-12w.3/README.md) | sase-12w hood | completed |
+| [sase-12w.4](../bbugyi200.athena.sase-12w.4/README.md) | sase-12w hood | active |
 | [sase-12w.5](../bbugyi200.athena.sase-12w.5/README.md) | sase-12w hood | waiting |
 | [sase-12w.land](../bbugyi200.athena.sase-12w.land/README.md) | sase-12w hood | waiting |

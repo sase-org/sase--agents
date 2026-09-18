@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-12w.2--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_12w_2__plan-260918_085157.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_12w_2__code-260918_085157.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/sudo_detached_finalize.md
 
 

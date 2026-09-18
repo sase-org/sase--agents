@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-294a9a6a93cef1764b47c6509e35672e"}
+{"commits":[{"committed_at":1789749160,"sha":"e98ef5b1ce3c5fdb70db2890fa1ec0dd79b77478","subject":"feat(tui): detach sudo handoff execution"}],"schema_version":2,"source_run_id":"run-294a9a6a93cef1764b47c6509e35672e"}

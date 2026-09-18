@@ -1256,7 +1256,7 @@
 | [sase-124](hoods/sase-124/README.md) | 43 | 8 | active 2, completed 21, failed 18, waiting 2 |
 | [sase-127](hoods/sase-127/README.md) | 11 | 2 | completed 8, failed 3 |
 | [sase-12p](hoods/sase-12p/README.md) | 8 | 2 | active 1, completed 5, failed 2 |
-| [sase-12w](hoods/sase-12w/README.md) | 10 | 2 | active 2, completed 2, failed 2, waiting 4 |
+| [sase-12w](hoods/sase-12w/README.md) | 10 | 2 | active 1, completed 5, failed 2, waiting 2 |
 | [sase-12z](hoods/sase-12z/README.md) | 5 | 0 | active 1, waiting 4 |
 | [sase-44](hoods/sase-44/README.md) | 7 | 0 | completed 7 |
 | [sase-45](hoods/sase-45/README.md) | 9 | 0 | completed 9 |

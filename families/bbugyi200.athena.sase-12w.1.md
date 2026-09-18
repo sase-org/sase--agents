@@ -27,8 +27,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-12w.2](bbugyi200.athena.sase-12w.2.md) (family · 3) | sase-12w hood | active 2, failed 1 |
-| [sase-12w.3](../agents/bbugyi200.athena.sase-12w.3/README.md) | sase-12w hood | waiting |
-| [sase-12w.4](../agents/bbugyi200.athena.sase-12w.4/README.md) | sase-12w hood | waiting |
+| [sase-12w.2](bbugyi200.athena.sase-12w.2.md) (family · 3) | sase-12w hood | completed 2, failed 1 |
+| [sase-12w.3](../agents/bbugyi200.athena.sase-12w.3/README.md) | sase-12w hood | completed |
+| [sase-12w.4](../agents/bbugyi200.athena.sase-12w.4/README.md) | sase-12w hood | active |
 | [sase-12w.5](../agents/bbugyi200.athena.sase-12w.5/README.md) | sase-12w hood | waiting |
 | [sase-12w.land](../agents/bbugyi200.athena.sase-12w.land/README.md) | sase-12w hood | waiting |
