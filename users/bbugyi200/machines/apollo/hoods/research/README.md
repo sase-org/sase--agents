@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / research
 
-**Global hood:** `bbugyi200.apollo.research` · **Runs:** 244 · **Families:** 0 · **States:** active 15, completed 226, waiting 3
+**Global hood:** `bbugyi200.apollo.research` · **Runs:** 244 · **Families:** 0 · **States:** active 14, completed 227, waiting 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -143,7 +143,7 @@
 | [research.06.cdx](../../../../../../agents/bbugyi200.apollo.research.06.cdx/README.md) | completed | — | 2026-06-22T16:36:12+00:00 → 2026-06-22T16:36:12+00:00 | 1 | — |
 | [research.5.cld](../../../../../../agents/bbugyi200.apollo.research.5.cld/README.md) | active | opus / claude | 2026-09-18T11:34:19.937830+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.research.5.cld/prompt.md) |
 | [research.m.cld](../../../../../../agents/bbugyi200.apollo.research.m.cld/README.md) | completed | — | 2026-06-17T22:27:56+00:00 → 2026-06-17T22:27:56+00:00 | 1 | — |
-| [research.4.final](../../../../../../agents/bbugyi200.apollo.research.4.final/README.md) | active | claude-fable-5 / claude | 2026-09-18T11:25:54.749426+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.research.4.final/prompt.md) |
+| [research.4.final](../../../../../../agents/bbugyi200.apollo.research.4.final/README.md) | completed | claude-fable-5 / claude | 2026-09-18T11:25:54.749426+00:00 → 2026-09-18T11:39:27.262908+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.research.4.final/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.4.final/chat.md) |
 | [research.e.final](../../../../../../agents/bbugyi200.apollo.research.e.final/README.md) | completed | — | 2026-06-14T14:32:46+00:00 → 2026-06-14T14:32:46+00:00 | 1 | — |
 | [research.cld-1](../../../../../../agents/bbugyi200.apollo.research.cld-1/README.md) | completed | — | 2026-06-03T07:15:40+00:00 → 2026-06-03T07:15:40+00:00 | 1 | — |
 | [research.f.cdx](../../../../../../agents/bbugyi200.apollo.research.f.cdx/README.md) | completed | — | 2026-06-14T19:07:32+00:00 → 2026-06-14T19:07:32+00:00 | 1 | — |
