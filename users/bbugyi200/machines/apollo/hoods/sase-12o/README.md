@@ -8,5 +8,5 @@
 |---|---|---|---|---:|---|
 | [sase-12o.land](../../../../../../agents/bbugyi200.apollo.sase-12o.land/README.md) | waiting | gpt-5.6-sol / codex | 20260918060630 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-12o.land/prompt.md) |
 | [sase-12o.2](../../../../../../agents/bbugyi200.apollo.sase-12o.2/README.md) | active | gpt-5.5 / codex | 2026-09-18T13:02:56.943646+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-12o.2/prompt.md) |
-| [sase-12o.1](../../../../../../agents/bbugyi200.apollo.sase-12o.1/README.md) | completed | gpt-5.5 / codex | 2026-09-18T10:06:36.138831+00:00 → 2026-09-18T13:02:25.779971+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-12o.1/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.sase-12o.1/chat.md) |
+| [sase-12o.1](../../../../../../agents/bbugyi200.apollo.sase-12o.1/README.md) | completed | gpt-5.5 / codex | 2026-09-18T10:06:36.138831+00:00 → 2026-09-18T13:02:25.779971+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.sase-12o.1/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-12o.1/prompt.md) |
 | [sase-12o.3](../../../../../../agents/bbugyi200.apollo.sase-12o.3/README.md) | waiting | gpt-5.5 / codex | 20260918060629 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-12o.3/prompt.md) |

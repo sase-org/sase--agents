@@ -39,7 +39,7 @@
 | [sase-11l.5.1.2.1.land](../bbugyi200.athena.sase-11l.5.1.2.1.land/README.md) | sase-11l hood | waiting |
 | [sase-11l.5.1.3](../../families/bbugyi200.athena.sase-11l.5.1.3.md) (family · 3) | sase-11l hood | active 3 |
 | [sase-11l.5.1.land](../../families/bbugyi200.athena.sase-11l.5.1.land.md) (family · 3) | sase-11l hood | active 3 |
-| [sase-11l.6](../bbugyi200.athena.sase-11l.6/README.md) | sase-11l hood | active |
+| [sase-11l.6](../bbugyi200.athena.sase-11l.6/README.md) | sase-11l hood | completed |
 | [sase-11l.7](../bbugyi200.athena.sase-11l.7/README.md) | sase-11l hood | completed |
 | [sase-11l.8](../bbugyi200.athena.sase-11l.8/README.md) | sase-11l hood | completed |
-| [sase-11l.9](../bbugyi200.athena.sase-11l.9/README.md) | sase-11l hood | waiting |
+| [sase-11l.9](../bbugyi200.athena.sase-11l.9/README.md) | sase-11l hood | active |

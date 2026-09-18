@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-11l](../../users/bbugyi200/machines/athena/hoods/sase-11l/README.md) / sase-11l.6
 
-**Global name:** `bbugyi200.athena.sase-11l.6` · **State:** active · **Source run:** `run-fa21a9941084bd18d3c3b64a28f22817`
+**Global name:** `bbugyi200.athena.sase-11l.6` · **State:** completed · **Source run:** `run-fa21a9941084bd18d3c3b64a28f22817`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-11l
 
@@ -12,12 +12,12 @@
 - Epic: [sase-11l](https://github.com/sase-org/sase--beads/blob/main/pages/sase-11l/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-18T10:22:32.321188+00:00
+- Timing: 2026-09-18T10:22:32.321188+00:00 → 2026-09-18T12:16:44.510229+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -48,5 +48,5 @@
 | [sase-11l.5.1.land](../../families/bbugyi200.athena.sase-11l.5.1.land.md) (family · 3) | sase-11l hood | active 3 |
 | [sase-11l.7](../bbugyi200.athena.sase-11l.7/README.md) | sase-11l hood | completed |
 | [sase-11l.8](../bbugyi200.athena.sase-11l.8/README.md) | sase-11l hood | completed |
-| [sase-11l.9](../bbugyi200.athena.sase-11l.9/README.md) | sase-11l hood | waiting |
+| [sase-11l.9](../bbugyi200.athena.sase-11l.9/README.md) | sase-11l hood | active |
 | [sase-11l.land](../bbugyi200.athena.sase-11l.land/README.md) | sase-11l hood | waiting |
