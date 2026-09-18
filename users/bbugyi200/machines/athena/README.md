@@ -1242,7 +1242,7 @@
 | [sase-11l](hoods/sase-11l/README.md) | 38 | 8 | active 6, completed 13, dismissed 1, failed 12, waiting 6 |
 | [sase-11r](hoods/sase-11r/README.md) | 10 | 1 | active 1, completed 6, failed 3 |
 | [sase-11y](hoods/sase-11y/README.md) | 33 | 5 | active 8, completed 8, failed 9, waiting 8 |
-| [sase-123](hoods/sase-123/README.md) | 22 | 2 | active 5, completed 8, failed 6, waiting 3 |
+| [sase-123](hoods/sase-123/README.md) | 22 | 2 | active 5, completed 9, failed 6, waiting 2 |
 | [sase-124](hoods/sase-124/README.md) | 35 | 6 | active 2, completed 17, failed 14, waiting 2 |
 | [sase-127](hoods/sase-127/README.md) | 11 | 2 | completed 8, failed 3 |
 | [sase-44](hoods/sase-44/README.md) | 7 | 0 | completed 7 |
