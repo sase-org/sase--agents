@@ -27,4 +27,4 @@
 | [sase-123.3](../bbugyi200.athena.sase-123.3/README.md) | sase-123 hood | completed |
 | [sase-123.4](../bbugyi200.athena.sase-123.4/README.md) | sase-123 hood | completed |
 | [sase-123.5](../bbugyi200.athena.sase-123.5/README.md) | sase-123 hood | active |
-| [sase-123.6](../bbugyi200.athena.sase-123.6/README.md) | sase-123 hood | waiting |
+| [sase-123.6](../bbugyi200.athena.sase-123.6/README.md) | sase-123 hood | active |

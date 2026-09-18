@@ -30,6 +30,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-127.1](../../families/bbugyi200.athena.sase-127.1.md) (family · 3) | sase-127 hood | completed 2, failed 1 |
-| [sase-127.3](../bbugyi200.athena.sase-127.3/README.md) | sase-127 hood | active |
-| [sase-127.4](../bbugyi200.athena.sase-127.4/README.md) | sase-127 hood | waiting |
-| [sase-127.land](../bbugyi200.athena.sase-127.land/README.md) | sase-127 hood | waiting |
+| [sase-127.3](../bbugyi200.athena.sase-127.3/README.md) | sase-127 hood | completed |
+| [sase-127.4](../bbugyi200.athena.sase-127.4/README.md) | sase-127 hood | completed |
+| [sase-127.land](../bbugyi200.athena.sase-127.land/README.md) | sase-127 hood | active |
