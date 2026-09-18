@@ -34,9 +34,9 @@
 | [sase-123.3](../bbugyi200.athena.sase-123.3/README.md) | sase-123 hood | completed |
 | [sase-123.5](../bbugyi200.athena.sase-123.5/README.md) | sase-123 hood | active |
 | [sase-123.6](../bbugyi200.athena.sase-123.6/README.md) | sase-123 hood | completed |
-| [sase-123.7.1](../bbugyi200.athena.sase-123.7.1/README.md) | sase-123 hood | active |
-| [sase-123.7.2](../bbugyi200.athena.sase-123.7.2/README.md) | sase-123 hood | active |
-| [sase-123.7.3](../bbugyi200.athena.sase-123.7.3/README.md) | sase-123 hood | waiting |
+| [sase-123.7.1](../bbugyi200.athena.sase-123.7.1/README.md) | sase-123 hood | completed |
+| [sase-123.7.2](../bbugyi200.athena.sase-123.7.2/README.md) | sase-123 hood | completed |
+| [sase-123.7.3](../bbugyi200.athena.sase-123.7.3/README.md) | sase-123 hood | active |
 | [sase-123.7.4](../bbugyi200.athena.sase-123.7.4/README.md) | sase-123 hood | active |
 | [sase-123.7.5](../bbugyi200.athena.sase-123.7.5/README.md) | sase-123 hood | waiting |
 | [sase-123.7.land](../bbugyi200.athena.sase-123.7.land/README.md) | sase-123 hood | waiting |

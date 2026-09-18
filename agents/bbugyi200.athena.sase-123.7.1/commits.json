@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-969150c161b9034a3333b48c3bb7838c"}
+{"commits":[{"committed_at":1789698058,"sha":"d22e8202157062623de6f7ce4930528bd3475521","subject":"fix(tui): use canonical visual renderer"}],"schema_version":2,"source_run_id":"run-969150c161b9034a3333b48c3bb7838c"}
