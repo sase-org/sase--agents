@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-11y.4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_11y_4__plan-260916_144501.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_11y_4__code-260916_144501.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/service_host_runtime_cli.md
 
 
