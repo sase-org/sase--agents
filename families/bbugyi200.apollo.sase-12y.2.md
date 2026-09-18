@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-12y.2--plan [completed]"]
   n1["sase-12y.2--mon [failed]"]
   n0 --> n1
-  n2["sase-12y.2--1 [active]"]
+  n2["sase-12y.2--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-12y.2--plan | completed | grok-4.6 / grok | 2026-09-18T14:33:15.832588+00:00 → 2026-09-18T17:20:25.909565+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-12y.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-12y.2--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-12y.2--mon | failed | grok-4.6 / grok | 2026-09-18T17:19:50.231225+00:00 → 2026-09-18T18:27:28.541551+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-12y.2--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-12y.2--1 | active | grok-4.6 / grok | 2026-09-18T18:27:28.075287+00:00 | [1](../agents/bbugyi200.apollo.sase-12y.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-12y.2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-12y.2--1 | completed | grok-4.6 / grok | 2026-09-18T18:27:28.075287+00:00 → 2026-09-18T18:38:07.888362+00:00 | [1](../agents/bbugyi200.apollo.sase-12y.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-12y.2--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-12y.2--1/chat.md) |
 
 ## Commits
 
@@ -34,5 +34,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-12y.1](../agents/bbugyi200.apollo.sase-12y.1/README.md) | sase-12y hood | completed |
-| [sase-12y.3](../agents/bbugyi200.apollo.sase-12y.3/README.md) | sase-12y hood | waiting |
+| [sase-12y.3](bbugyi200.apollo.sase-12y.3.md) (family · 9) | sase-12y hood | active 1, completed 4, failed 4 |
 | [sase-12y.land](../agents/bbugyi200.apollo.sase-12y.land/README.md) | sase-12y hood | waiting |
