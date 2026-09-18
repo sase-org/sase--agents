@@ -1,0 +1,18 @@
+# Agent: 0mi--mon-3
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0mi](../../users/bbugyi200/machines/athena/hoods/0mi/README.md) / [0mi](../../families/bbugyi200.athena.0mi.md) / 0mi--mon-3
+
+**Global name:** `bbugyi200.athena.0mi--mon-3` · **State:** failed · **Source run:** `run-0f5b17460f15799852ed0041fd340758`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0mi
+
+## Summary
+
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 2026-09-18T04:15:45.729447+00:00 → 2026-09-18T04:33:33.137155+00:00
+- Commits: 0
+
+## Files
+
+[Chat](chat.md)
