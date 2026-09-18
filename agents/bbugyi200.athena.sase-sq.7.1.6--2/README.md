@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-sq.7.1.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-sq/sase-sq.7.1.6.md)
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-25T01:49:03.739607+00:00 → 2026-08-25T01:55:23.999626+00:00
