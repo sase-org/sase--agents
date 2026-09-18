@@ -111,6 +111,7 @@
 | [0mo.md](0mo.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0mo--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0mo.md) | 1 |
 | [0mp.md](0mp.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/notification_backlog_access.md][1] | - | [bbugyi200.athena.0mp--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0mp.md) | 1 |
 | [0mr.md](0mr.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0mr--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0mr.md) | 1 |
+| [0mw.md](0mw.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0mw--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0mw.md) | 1 |
 | [0q.f0.md](0q.f0.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/fix_portable_zsh_paths.md][1] | - | [bbugyi200.kellys_mbp.0q.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.kellys_mbp.0q.f0.md) | 1 |
 | [0r.md](0r.md) | gh:gh_sase-org__sase Can you explain to me why the sase-11e.8.6.5 epic bead's | - | [bbugyi200.kellys_mbp.0r](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.0r/README.md) | 0 |
 | [0u.md](0u.md) | gh:gh_sase-org__sase Can you explain to me why the sase-11e.8.6.5.4 epic bead's | - | [bbugyi200.kellys_mbp.0u](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.0u/README.md) | 0 |
