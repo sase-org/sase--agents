@@ -14,6 +14,7 @@
 | [08z.md](08z.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/pager_bead_links.md][1] | - | [bbugyi200.athena.08z--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.08z.md) | 1 |
 | [092.md](092.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/update_everything_keymap.md][1] | - | [bbugyi200.athena.092--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.092.md) | 1 |
 | [09m.md](09m.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.09m--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.09m.md) | 1 |
+| [0a.f0.f0.md](0a.f0.f0.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.apollo.0a.f0.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.0a.f0.f0.md) | 1 |
 | [0a.f0.md](0a.f0.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/agents_panel_layout_picker.md][1] | - | [bbugyi200.apollo.0a.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.0a.f0.md) | 1 |
 | [0a.md](0a.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/agents_grouping_picker.md %m:@medium | - | [bbugyi200.apollo.0a](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.apollo.0a/README.md) | 0 |
 | [0a9.md](0a9.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/wait_checks_perf.md][1] | - | [bbugyi200.athena.0a9--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0a9.md) | 1 |
