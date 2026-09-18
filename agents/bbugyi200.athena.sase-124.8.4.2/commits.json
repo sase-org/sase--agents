@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-bbadfb490ac69e736fabc8f6f5e3c44a"}
+{"commits":[{"committed_at":1789707492,"sha":"43d66775935583c3ea525bf9bf750a357438830d","subject":"fix(tui): defer trace file writes off event loop"}],"schema_version":2,"source_run_id":"run-bbadfb490ac69e736fabc8f6f5e3c44a"}
