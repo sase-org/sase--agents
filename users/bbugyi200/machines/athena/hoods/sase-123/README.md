@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-123
 
-**Global hood:** `bbugyi200.athena.sase-123` · **Runs:** 15 · **Families:** 1 · **States:** active 5, completed 5, failed 3, waiting 2
+**Global hood:** `bbugyi200.athena.sase-123` · **Runs:** 15 · **Families:** 1 · **States:** active 4, completed 6, failed 3, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -13,11 +13,11 @@
 | [sase-123.4](../../../../../../agents/bbugyi200.athena.sase-123.4/README.md) | completed | gpt-5.5 / codex | 2026-09-17T22:52:29.286471+00:00 → 2026-09-17T23:26:29.883823+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-123.4/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-123.4/chat.md) |
 | [sase-123.land--plan](../../../../../../families/bbugyi200.athena.sase-123.land.md#member-plan) | failed | gpt-6-astra / codex | 2026-09-18T00:57:56.468158+00:00 → 2026-09-18T01:14:01.173416+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-123.land--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-123.land--plan/chat.md) |
 | [sase-123.6](../../../../../../agents/bbugyi200.athena.sase-123.6/README.md) | completed | gpt-5.5 / codex | 2026-09-17T23:27:31.212509+00:00 → 2026-09-18T00:56:53.491539+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-123.6/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-123.6/chat.md) |
-| [sase-123.7.3](../../../../../../agents/bbugyi200.athena.sase-123.7.3/README.md) | active | gpt-5.5 / codex | 2026-09-18T02:17:02.270038+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-123.7.3/prompt.md) |
+| [sase-123.7.3](../../../../../../agents/bbugyi200.athena.sase-123.7.3/README.md) | active | gpt-5.5 / codex | 2026-09-18T02:17:02.270038+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-123.7.3/prompt.md) |
 | [sase-123.land--gate](../../../../../../families/bbugyi200.athena.sase-123.land.md#member-gate) | failed | gpt-6-astra / codex | 2026-09-18T01:13:06.933248+00:00 → 2026-09-18T01:13:53.791460+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-123.land--gate/chat.md) |
 | [sase-123.2](../../../../../../agents/bbugyi200.athena.sase-123.2/README.md) | active | gpt-5.5 / codex | 2026-09-17T13:11:45.908193+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-123.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-123.2/chat.md) |
 | [sase-123.7.1](../../../../../../agents/bbugyi200.athena.sase-123.7.1/README.md) | completed | gpt-5.5 / codex | 2026-09-18T01:15:49.589715+00:00 → 2026-09-18T02:24:23.076262+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-123.7.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-123.7.1/chat.md) |
 | [sase-123.7.2](../../../../../../agents/bbugyi200.athena.sase-123.7.2/README.md) | completed | gpt-5.5 / codex | 2026-09-18T01:15:35.283454+00:00 → 2026-09-18T02:15:57.326604+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-123.7.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-123.7.2/chat.md) |
 | [sase-123.1](../../../../../../agents/bbugyi200.athena.sase-123.1/README.md) | active | gpt-5.5 / codex | 2026-09-17T12:46:05.373528+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-123.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-123.1/chat.md) |
-| [sase-123.7.4](../../../../../../agents/bbugyi200.athena.sase-123.7.4/README.md) | active | gpt-5.5 / codex | 2026-09-18T01:22:30.281881+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-123.7.4/prompt.md) |
+| [sase-123.7.4](../../../../../../agents/bbugyi200.athena.sase-123.7.4/README.md) | completed | gpt-5.5 / codex | 2026-09-18T01:22:30.281881+00:00 → 2026-09-18T02:26:51.101680+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-123.7.4/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-123.7.4/chat.md) |
 | [sase-123.5](../../../../../../agents/bbugyi200.athena.sase-123.5/README.md) | active | gpt-5.5 / codex | 2026-09-17T13:42:33.679792+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-123.5/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-123.5/chat.md) |
