@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-11y` · Members: 3 · Bead: [sase-11y.2
 
 ```mermaid
 flowchart TD
-  n0["sase-11y.2.1.land--plan [failed]"]
-  n1["sase-11y.2.1.land--gate [failed]"]
+  n0["sase-11y.2.1.land--plan [active]"]
+  n1["sase-11y.2.1.land--gate [active]"]
   n0 --> n1
-  n2["sase-11y.2.1.land--mon [failed]"]
+  n2["sase-11y.2.1.land--mon [active]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-11y.2.1.land--plan | failed | gpt-5.6-sol / codex | 2026-09-17T23:28:44.405961+00:00 → 2026-09-17T23:38:54.653792+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11y.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11y.2.1.land--plan/chat.md) |
-| <a id="member-gate"></a>gate | sase-11y.2.1.land--gate | failed | gpt-5.6-sol / codex | 2026-09-17T23:38:00.492970+00:00 → 2026-09-17T23:38:50.223435+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11y.2.1.land--gate/chat.md) |
-| <a id="member-mon"></a>mon | sase-11y.2.1.land--mon | failed | gpt-5.6-sol / codex | 2026-09-17T23:38:40.609925+00:00 → 2026-09-17T23:40:28.660772+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11y.2.1.land--mon/chat.md) |
+| <a id="member-plan"></a>plan | sase-11y.2.1.land--plan | active | gpt-5.6-sol / codex | 2026-09-17T23:28:44.405961+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11y.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11y.2.1.land--plan/chat.md) |
+| <a id="member-gate"></a>gate | sase-11y.2.1.land--gate | active | gpt-5.6-sol / codex | 2026-09-17T23:38:00.492970+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11y.2.1.land--gate/chat.md) |
+| <a id="member-mon"></a>mon | sase-11y.2.1.land--mon | active | gpt-5.6-sol / codex | 2026-09-17T23:38:40.609925+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11y.2.1.land--mon/chat.md) |
 
 ## Neighbors
 
@@ -31,14 +31,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-11y.2.1.1](../agents/bbugyi200.athena.sase-11y.2.1.1/README.md) | sase-11y.2.1 hood | active |
 | [sase-11y.2.1.2](bbugyi200.athena.sase-11y.2.1.2.md) (family · 5) | sase-11y.2.1 hood | active 5 |
 | [sase-11y.2.1.3](../agents/bbugyi200.athena.sase-11y.2.1.3/README.md) | sase-11y.2.1 hood | active |
-| [sase-11y.2.1.4](../agents/bbugyi200.athena.sase-11y.2.1.4/README.md) | sase-11y.2.1 hood | completed |
-| [sase-11y.2.1.5.1](../agents/bbugyi200.athena.sase-11y.2.1.5.1/README.md) | sase-11y.2.1 hood | completed |
-| [sase-11y.2.1.5.2](../agents/bbugyi200.athena.sase-11y.2.1.5.2/README.md) | sase-11y.2.1 hood | completed |
+| [sase-11y.2.1.4](../agents/bbugyi200.athena.sase-11y.2.1.4/README.md) | sase-11y.2.1 hood | active |
+| [sase-11y.2.1.5.1](../agents/bbugyi200.athena.sase-11y.2.1.5.1/README.md) | sase-11y.2.1 hood | active |
+| [sase-11y.2.1.5.2](../agents/bbugyi200.athena.sase-11y.2.1.5.2/README.md) | sase-11y.2.1 hood | active |
 | [sase-11y.2.1.5.land](bbugyi200.athena.sase-11y.2.1.5.land.md) (family · 1) | sase-11y.2.1 hood | active 1 |
 | [sase-11y.1](../agents/bbugyi200.athena.sase-11y.1/README.md) | sase-11y hood | completed |
 | [sase-11y.10](../agents/bbugyi200.athena.sase-11y.10/README.md) | sase-11y hood | waiting |
 | [sase-11y.3](bbugyi200.athena.sase-11y.3.md) (family · 7) | sase-11y hood | completed 4, failed 3 |
-| [sase-11y.4](../agents/bbugyi200.athena.sase-11y.4/README.md) | sase-11y hood | waiting |
+| [sase-11y.4](bbugyi200.athena.sase-11y.4.md) (family · 3) | sase-11y hood | active 2, failed 1 |
 | [sase-11y.5](../agents/bbugyi200.athena.sase-11y.5/README.md) | sase-11y hood | waiting |
 | [sase-11y.6](../agents/bbugyi200.athena.sase-11y.6/README.md) | sase-11y hood | waiting |
 | [sase-11y.7](../agents/bbugyi200.athena.sase-11y.7/README.md) | sase-11y hood | waiting |
