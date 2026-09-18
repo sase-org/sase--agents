@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b3b77b4906f3286d5ddf1c0d7d541da1"}
+{"commits":[{"committed_at":1789758255,"sha":"0320daed701fe0b6b8b23a35667d56ca557190c4","subject":"feat(completion): migrate chezmoi to portable loaders"}],"schema_version":2,"source_run_id":"run-b3b77b4906f3286d5ddf1c0d7d541da1"}
