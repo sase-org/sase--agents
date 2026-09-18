@@ -22,6 +22,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-12y.1](../bbugyi200.apollo.sase-12y.1/README.md) | sase-12y hood | active |
-| [sase-12y.2](../bbugyi200.apollo.sase-12y.2/README.md) | sase-12y hood | waiting |
+| [sase-12y.1](../bbugyi200.apollo.sase-12y.1/README.md) | sase-12y hood | completed |
+| [sase-12y.2](../../families/bbugyi200.apollo.sase-12y.2.md) (family · 3) | sase-12y hood | active 1, completed 1, failed 1 |
 | [sase-12y.3](../bbugyi200.apollo.sase-12y.3/README.md) | sase-12y hood | waiting |
