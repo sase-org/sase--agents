@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [0a](../../users/bbugyi200/machines/apollo/hoods/0a/README.md) / [0a.f0](../../families/bbugyi200.apollo.0a.f0.md) / 0a.f0--code
 
-**Global name:** `bbugyi200.apollo.0a.f0--code` · **State:** active · **Source run:** `run-92d12aa909ea6deadb065d98df6374e2`
+**Global name:** `bbugyi200.apollo.0a.f0--code` · **State:** completed · **Source run:** `run-92d12aa909ea6deadb065d98df6374e2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 0a
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-17T18:43:07.860106+00:00
+- Timing: 2026-09-17T18:43:07.860106+00:00 → 2026-09-17T21:03:51.390270+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -28,4 +28,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [0a](../bbugyi200.apollo.0a/README.md) | ancestor | completed |
-| [0a.f0.f0](../bbugyi200.apollo.0a.f0.f0/README.md) | descendant | waiting |
+| [0a.f0.f0](../../families/bbugyi200.apollo.0a.f0.f0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |
