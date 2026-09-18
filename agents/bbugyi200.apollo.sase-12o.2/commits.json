@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-789c0eb8d7078bbc8d1bae9b7fd7ef3b"}
+{"commits":[{"committed_at":1789739611,"sha":"f28c666bdbcad3d9c7f86f85b82c5370cfad620a","subject":"feat(completion): refresh stamped installs as loaders"}],"schema_version":2,"source_run_id":"run-789c0eb8d7078bbc8d1bae9b7fd7ef3b"}
