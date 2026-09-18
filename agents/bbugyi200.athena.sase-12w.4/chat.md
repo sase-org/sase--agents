@@ -1,0 +1,319 @@
+# Chat History - ace-run (sase-12w.4)
+
+- **TIMESTAMP:** 2026-09-18 12:51:32 EDT
+- **MODEL:** codex/gpt-5.5
+- **AGENT:** sase-12w.4
+
+## Prompt
+
+#gh:gh_sase-org__sase
+%id(4, clan=sase-12w, bead=sase-12w.4)
+%model:@medium
+%auto
+%w:sase-12w.2
+%w(bead=sase-12w.2)
+Can you complete the work for bead sase-12w.4? The bead is already reserved for you and assigned to your agent
+name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
+checkpoint or by the runtime promoting an ad-hoc wait-time claim. Do not set the status by hand. Read its
+description and design file, do the work, and close only this bead with
+`sase bead close sase-12w.4 --note "<what you verified>"`. Before closing, run
+`sase bead epic-symbols sase-12w.4`. If this phase still has `--epic-symbol` entries, resolve each symbol or
+re-key the Justfile line to a still-open bead (the parent epic or a later phase). `sase bead close` refuses while
+leftovers remain; they go stale the instant this phase closes and turn unrelated agents' `just check` red. Closing
+an assigned phase bead is unaffected by the parent-close descendant guard. Do NOT close the parent epic or any ancestor plan bead. Any instruction in a phase
+description or child plan to close an ancestor is preparation and evidence for that ancestor's land agent, not
+authorization for a phase worker. Do not create beads yourself: record discovered follow-up work as a
+`PROPOSED FOLLOW-UP:` entry via
+`sase bead note sase-12w.4 'PROPOSED FOLLOW-UP: <one-line summary — detail>'`; the epic's land agent triages
+these into task beads.
+
+## Response
+
+I’ll use the SASE bead/memory workflow first so I’m operating inside the project’s rules, then I’ll inspect the phase bead and its design context before touching code.
+
+I’ve got the finalizer and memory-read rules loaded. Next I’m reading the bead lifecycle notes, because this turn includes querying and closing a phase bead.
+
+Now I’m pulling the actual bead record and nearby repo state, so I can see the phase scope, linked design file, and whether there’s already work in the tree I need to preserve.
+
+The file listing is very broad, so I’m narrowing from the bead metadata now instead of wandering the whole repository. The tree started clean, which is nice: any later diff should be mine unless the environment changes underneath us.
+
+The phase points at `plan:202609/sudo_proc_execution.md`, so I’m switching to the audited artifact path for that design document and loading the artifact-reference rules first.
+
+I’m opening the plan through `sase artifact read` now; that should give us the phase-by-phase design without bypassing the sidecar audit trail.
+
+The remote phase is squarely in this repo: target-side `sudo exec`, SSH relay, and finalize polling. I’m reading the sudo CLI/SSH code and the existing tests around the fake SSH runner so I can fit the change into the current implementation instead of guessing at the previous phases.
+
+The local detach path is already present from the dependency bead. I’m checking its execution-state helpers now, because the remote implementation should reuse that machinery instead of inventing a second state model.
+
+The previous phase left a clean local finalize path. The missing bit is the remote side: contract capability, handshake file, polling/fallback, and stop propagation over SSH. I’m pulling the focused test fixtures now.
+
+There’s already a test file dedicated to SSH sudo handoff, and it’s small enough to extend directly. I’m also checking the helper APIs for operation sidecars and proc submissions so the remote detached flow can submit the same finalize operation as local detach.
+
+One subtle part: the in-flight execution record is local, while the executor PID is remote. I’m going to keep the existing record shape for compatibility, but carry remote metadata in the finalize sidecar and teach finalize to check/poll over SSH for that case.
+
+I have the shape now. I’m going to make the remote path additive: old targets keep the synchronous SSH relay, new targets advertise `detached_execution`, and the local finalize proc owns the polling/cleanup once the remote handshake is fetched.
+
+The SSH helper now has the remote contract and polling primitives. I’m checking the patch for type or call-shape mistakes before wiring it into the CLI/finalizer.
+
+I spotted one call-site mismatch from the refactor: the synchronous path still passed a string where the staging helper now wants the path bundle. I’m fixing that and continuing the CLI integration.
+
+The target-side `exec` now understands `--detach` and the contract can advertise it. I’m wiring the source-side approval/finalize path next, including the operation sidecar payload that tells finalize which remote files to poll.
+
+The finalizer branch is in place. I’m updating the focused tests now: the old remote refusal expectation becomes fallback/start behavior, and the SSH helper tests cover the new handshake and polling contract.
+
+I’m adding two target-side tests too: one for the advertised capability, and one for writing the handshake file in detached `sudo exec`. That gives coverage on both sides of the SSH boundary.
+
+One cleanup helper is meant to be best-effort, so I’m tightening that before running tests. A successful gate shouldn’t turn into a failure just because the final `rm -rf` SSH cleanup hiccuped.
+
+The integration is wired. I’m running the focused sudo tests first; they should shake out parser, SSH relay, local/remote detach, and target-side exec behavior before I run the broader project check.
+
+The system Python is missing project test dependencies (`rich`, pytest-asyncio config support), so I’m rerunning through the project environment with `uv run`.
+
+The first focused run is mostly green; one test stub used the local-runner signature for the remote runner. I’m correcting the stub and rerunning the same set.
+
+The fallback path now reaches the normal gate executor, which has its own TTY guard. I’m patching the test to mirror the existing synchronous sudo tests and then I’ll rerun.
+
+The previous run had 43 of 44 passing; I’m rerunning the same focused suite after the TTY-guard fixture fix.
+
+Focused sudo coverage is green. Since this repo requires its lint/test memory note after tracked changes, I’m reading that before choosing the final verification commands.
+
+The repo guidance says to run `just fix` or at least formatting before `just check`. I’m doing that now, then I’ll run the default verification gate.
+
+Formatting completed and reformatted three Python files. I’m checking the diff shape before the full `just check`, because formatting can sometimes reveal accidental churn.
+
+The diff is scoped to sudo CLI/SSH/finalize plus tests. I’m running `just check` now, which is the repo’s default lint plus scoped-test gate.
+
+`just check` had to refresh the Rust binding/LSP bits first because this workspace had an older installed `sase_core_rs`; it’s still running through the rebuild and gate.
+
+The check is still in the Rust compile stage. I’ll keep polling it; no action needed yet unless it surfaces a failure.
+
+Still no failure output; this is just a long build/check path after the dependency refresh. Continuing to wait for the gate result.
+
+The gate is still running quietly. I’m letting it finish so we have the repo-required verification rather than stopping at the focused pytest pass.
+
+The Rust rebuild finished and the check has moved through formatting/ruff. It’s now in the remaining lint and scoped test lanes.
+
+No new output yet from the gate; still waiting on the remaining checks.
+
+Mypy passed. The gate is continuing into the later lint/test steps now.
+
+Feature-flag lint passed too. I’m waiting on the last checks and scoped tests.
+
+The lint lanes are clearing one by one: pyscripts, test-wait checks, and changelog all passed.
+
+Patch/stitch terminology passed. Still waiting on the tail of `just check`.
+
+No new output from the gate yet; I’m keeping the session open until it exits.
+
+Still quiet. This is the slower part of the default gate, likely scoped test selection or execution.
+
+Symvision and size checks passed. The remaining piece should be test selection/scoped pytest.
+
+No failure so far; still waiting for the scoped test lane to report.
+
+The check is still running without new output. I’m continuing to poll rather than spawning anything else against the same gate.
+
+The SASE validation surfaced a stale core floor warning in its probe output, but the gate has not exited yet and it marked validation/committed-plans as passed. I’m waiting for the final status so I don’t misreport a transient subcheck message.
+
+Still running after the validation output. I’ll keep watching for the actual `just check` exit.
+
+No new output yet; the command is still active.
+
+Still waiting on the tail of the check. It’s taking a while, but it has not failed or returned yet.
+
+The gate remains quiet. I’m going to give it another interval; if it eventually fails, I’ll use the failure output to fix rather than guessing.
+
+Still no output. The process is alive, so I’m continuing to wait rather than interrupting the required check.
+
+This is unusually quiet for `just check`, but it is still running. I’m checking once more before deciding whether to inspect the live process tree.
+
+The gate has been silent for several minutes, so I’m taking a quick process snapshot in parallel to see which subcommand is consuming the time.
+
+The live snapshot shows our `just check` is in `test-scoped` with four pytest workers, about four minutes into that lane. So it’s not stuck in a shell wrapper; it’s still executing tests.
+
+Scoped pytest is still running. I’ll continue to wait for the result.
+
+No output yet from the scoped run. The process snapshot showed active workers, so I’m giving it more time.
+
+Still quiet. This particular scoped selection is longer than the focused sudo suite, but I’m keeping it alive to get the required gate result.
+
+No new output yet; continuing to wait.
+
+It’s been long enough that I’m checking the active pytest worker states again, just to see whether they’re running or blocked.
+
+The pytest workers are active and using CPU, so this is a long-running scoped selection rather than a dead hang. I’m going back to waiting on the `just check` session.
+
+Still waiting.
+
+No result yet. The workers were active on the last check, so I’m letting the required gate finish.
+
+Still quiet; continuing to poll.
+
+The scoped lane is still running without output. I’m staying on it.
+
+Still no new output; the required check remains active.
+
+Still waiting on `just check`.
+
+No change yet; I’m continuing to wait for the gate’s final output.
+
+This is now well into “long check” territory, but since it’s already running inline I’m keeping the session open until it returns rather than losing the result.
+
+Still active, no output.
+
+I’m taking another quick worker snapshot because the scoped lane has been quiet for a long stretch.
+
+The pytest workers are still consuming CPU, so the lane is genuinely running. Back to polling the gate.
+
+Still waiting.
+
+No output yet; continuing.
+
+Still quiet from the gate. I’m staying with it.
+
+No result yet.
+
+The scoped test process is still running. I’ll keep polling until it exits.
+
+Still no output.
+
+Still waiting on the gate.
+
+No visible progress yet; the process remains alive.
+
+Still polling.
+
+No output yet. The workers were active when checked; I’m letting it run.
+
+Still waiting; this scoped lane is simply heavy today.
+
+No new output.
+
+Still active. I’m continuing to wait for the final gate status.
+
+Still waiting.
+
+No output yet; the required check is still running.
+
+Still active, still quiet.
+
+No final status yet. I’m still monitoring.
+
+I’m checking worker state once more since the scoped test lane has stayed silent.
+
+Workers are still CPU-active after ~23 minutes, so this is not a sleeping wrapper. I’m going to keep waiting; if it exceeds a sensible bound and never returns, I’ll report the gate as still-running rather than kill it.
+
+Still waiting on `just check`.
+
+No output yet; continuing.
+
+Still active.
+
+No final status yet.
+
+Still waiting; scoped pytest remains active.
+
+No output yet. I’m still watching the running gate.
+
+Still active, still quiet.
+
+The check is taking long enough that I’m going to inspect selected tests/fail output indirectly if possible, but I won’t kill the gate while it is active.
+
+The pytest cache exists; I’m checking the selection manifest to understand how broad the scoped run is.
+
+The selection manifest says this scoped lane escalated because the core binding identity changed during setup, so it is effectively broad rather than the tiny sudo slice. That explains the long runtime.
+
+Still running the escalated test lane.
+
+No output yet; continuing.
+
+Still waiting on the broad test lane.
+
+No final output yet.
+
+Still active.
+
+I’m checking the silent-runner helper quickly to see whether it leaves a live log file for long test lanes.
+
+`tools/run_silent` captures to a temp file it deletes at exit, so there isn’t a stable log to tail unless the command fails. I’m back to waiting on the session.
+
+Still active.
+
+`just check` completed but failed in the escalated full-suite lane: 16 failures, all in linked-repo/sidecar/completion snapshot areas rather than the sudo tests. I need to inspect the actual failure details to decide whether this is fallout from the environment refresh or something my changes touched indirectly.
+
+Two things are clear from the failure details: the completion snapshot drift is caused by the new hidden `sudo exec --detach/--handshake` args and needs regeneration; the sidecar failures reproduce independently and are outside the sudo path. I’m fixing the snapshot drift first.
+
+`just sync-completion-spec` is rebuilding the Rust binding again before generating the snapshot. This is noisy but expected after the core checkout moved during setup.
+
+Still compiling the core extension for the completion spec generation.
+
+No new output yet; still building.
+
+Still waiting on the completion-spec command.
+
+No change yet; continuing to wait.
+
+Still active.
+
+Still compiling/generating; no output yet.
+
+Still running.
+
+The build has moved on to `sase_gateway`; still progressing.
+
+Still running.
+
+Now it’s building the Python binding crate.
+
+Still active.
+
+No new output; waiting.
+
+Still waiting on the build/generation command.
+
+Still active.
+
+Still running; no failure output.
+
+Still waiting.
+
+No output yet; continuing to wait for `sync-completion-spec` to finish.
+
+Still active.
+
+The extension build finished and installed; it’s now building the LSP side of the same core checkout.
+
+Still building the LSP/check setup.
+
+No new output yet.
+
+Completion spec regeneration finished. I’m checking what it changed and rerunning the affected completion tests.
+
+The completion snapshot is now fixed and the sudo/completion focused suite is green. The remaining `just check` failures reproduce in sidecar/linking tests that don’t touch this phase’s files; I’m going to record that as a proposed follow-up on this phase bead before closing, then handle the epic-symbol check.
+
+The bead note command is still returning; I’m waiting for its result before touching epic symbols.
+
+The bead note write is taking longer than expected, likely doing sidecar sync under the hood. Still waiting.
+
+The follow-up note is recorded. Now I’m running the required epic-symbol check before closing the phase.
+
+No epic-symbol leftovers for this phase, so it’s safe to close without re-keying Justfile entries. I’m closing only `sase-12w.4` with the verification summary now.
+
+The phase bead is closed. I’m doing the final status check and then I’ll submit the SASE finalizer declaration so the host can preserve the work.
+
+The repo diff is still just the intended sudo/completion files. The bead show command is still returning; I’m waiting for that confirmation.
+
+The bead is confirmed closed with the follow-up note and verification note. I’m submitting the required final declaration now.
+
+The finalizer context requires one main-repo commit decision. Since the assigned bead is closed and verified for its scope, I’m marking the repository decision as `close`.
+
+The finalizer refused `bead_action: close` because the assigned bead status was unreadable from its side, even though the bead is already closed in the bead CLI. I’m resubmitting with `keep` so the host commits the repository changes without trying to perform a second bead close.
+
+Completed `sase-12w.4` and closed the bead.
+
+Implemented the remote detached sudo flow: target-side `sase sudo exec --detach`, additive remote contract capability probing, SSH handshake fetch, local finalize polling for remote ledgers, remote stop-file handling, synchronous fallback for older targets, and updated completion snapshots/tests.
+
+Verified:
+`uv run pytest -q tests/completion/test_snapshot.py tests/test_sudo_parser.py tests/test_sudo_ssh.py tests/test_sudo_detach.py tests/test_sudo_execution.py tests/test_sudo_runner.py` passed.
+
+Also ran `just check`; it escalated to the full suite after the core binding refresh and failed in unrelated linked-repo/sidecar materialization tests. I recorded that as a `PROPOSED FOLLOW-UP` note on `sase-12w.4`. `sase bead epic-symbols sase-12w.4` reported no leftover symbols, and the final declaration was accepted.

@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-i3.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-i3/sase-i3.1.md)
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-09T08:20:10.736123 → 2026-08-09T08:35:34.667901

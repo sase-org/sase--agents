@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-27c054cd18a3b9b53636b4b947b38e8a"}
+{"commits":[{"committed_at":1789752799,"sha":"a26bfc839d51664baaa629522483234d60aa3d33","subject":"feat(sudo): default approvals to detached execution"}],"schema_version":2,"source_run_id":"run-27c054cd18a3b9b53636b4b947b38e8a"}
