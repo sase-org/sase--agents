@@ -30,5 +30,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-12o.1](../bbugyi200.apollo.sase-12o.1/README.md) | sase-12o hood | completed |
-| [sase-12o.3](../bbugyi200.apollo.sase-12o.3/README.md) | sase-12o hood | active |
-| [sase-12o.land](../bbugyi200.apollo.sase-12o.land/README.md) | sase-12o hood | waiting |
+| [sase-12o.3](../bbugyi200.apollo.sase-12o.3/README.md) | sase-12o hood | completed |
+| [sase-12o.land](../../families/bbugyi200.apollo.sase-12o.land.md) (family · 5) | sase-12o hood | active 1, completed 2, failed 2 |
