@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `0ng.f1` sase agent just tried to run a `sudo` command on the apollo machine but that failed (the terminal just hung and I was not prompted for a password). Can you help me diagnose the root cause of this issue and fix it? #plan %m:grok-4.6 %q:10

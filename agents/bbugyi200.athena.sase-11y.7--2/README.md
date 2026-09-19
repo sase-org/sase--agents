@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-11y](../../users/bbugyi200/machines/athena/hoods/sase-11y/README.md) / [sase-11y.7](../../families/bbugyi200.athena.sase-11y.7.md) / sase-11y.7--2
 
-**Global name:** `bbugyi200.athena.sase-11y.7--2` · **State:** waiting · **Source run:** `run-4a771da5980136bce889b833a1c95f37`
+**Global name:** `bbugyi200.athena.sase-11y.7--2` · **State:** completed · **Source run:** `run-4a771da5980136bce889b833a1c95f37`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-11y
 
@@ -11,12 +11,12 @@
 - Bead: [sase-11y.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-11y/sase-11y.7.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20260919073829
+- Timing: 2026-09-19T11:49:11.114217+00:00 → 2026-09-19T11:55:09.653922+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -35,8 +35,8 @@
 | [sase-11y.2.1.land](../../families/bbugyi200.athena.sase-11y.2.1.land.md) (family · 3) | sase-11y hood | active 3 |
 | [sase-11y.3](../../families/bbugyi200.athena.sase-11y.3.md) (family · 7) | sase-11y hood | completed 4, failed 3 |
 | [sase-11y.4](../../families/bbugyi200.athena.sase-11y.4.md) (family · 3) | sase-11y hood | completed 2, failed 1 |
-| [sase-11y.5](../../families/bbugyi200.athena.sase-11y.5.md) (family · 4) | sase-11y hood | active 1, completed 2, failed 1 |
+| [sase-11y.5](../../families/bbugyi200.athena.sase-11y.5.md) (family · 7) | sase-11y hood | completed 4, failed 3 |
 | [sase-11y.6](../../families/bbugyi200.athena.sase-11y.6.md) (family · 3) | sase-11y hood | completed 2, failed 1 |
 | [sase-11y.8](../bbugyi200.athena.sase-11y.8/README.md) | sase-11y hood | waiting |
-| [sase-11y.9](../bbugyi200.athena.sase-11y.9/README.md) | sase-11y hood | waiting |
+| [sase-11y.9](../bbugyi200.athena.sase-11y.9/README.md) | sase-11y hood | active |
 | [sase-11y.land](../bbugyi200.athena.sase-11y.land/README.md) | sase-11y hood | waiting |
