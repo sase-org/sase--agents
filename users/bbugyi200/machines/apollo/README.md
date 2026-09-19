@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / apollo
 
-**Project:** sase · **Hoods:** 32 · **Runs:** 592
+**Project:** sase · **Hoods:** 33 · **Runs:** 595
 
 | Hood | Runs | Families | States |
 |---|---:|---:|---|
@@ -16,6 +16,7 @@
 | [0n](hoods/0n/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0s](hoods/0s/README.md) | 4 | 1 | active 1, completed 1, failed 1, waiting 1 |
 | [0u](hoods/0u/README.md) | 1 | 0 | active 1 |
+| [0w](hoods/0w/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [claude-code](hoods/claude-code/README.md) | 3 | 0 | completed 3 |
 | [l](hoods/l/README.md) | 3 | 0 | active 1, completed 2 |
 | [m](hoods/m/README.md) | 1 | 0 | active 1 |
