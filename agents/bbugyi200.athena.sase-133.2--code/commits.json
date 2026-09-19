@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ab4c9c1ed17bb353d24b7a23186d47ad"}
+{"commits":[{"committed_at":1789776487,"sha":"67614ee2b01e6f2e6e2b8c6fe9fd21e4394b0956","subject":"feat(fleet): consume owner presentation facts"}],"schema_version":2,"source_run_id":"run-ab4c9c1ed17bb353d24b7a23186d47ad"}

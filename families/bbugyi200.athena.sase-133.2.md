@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-133.2--gate | failed | gpt-5.6-sol / codex | 2026-09-18T21:58:28.208787+00:00 → 2026-09-18T21:59:18.586938+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-133.2--gate/chat.md) |
-| <a id="member-code"></a>code | sase-133.2--code | active | gpt-5.5 / codex | 2026-09-18T21:59:50.292637+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-133.2--code | active | gpt-5.5 / codex | 2026-09-18T21:59:50.292637+00:00 | [1](../agents/bbugyi200.athena.sase-133.2--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-133.2--plan | active | gpt-5.6-sol / codex | 2026-09-18T21:54:29.456714+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-133.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-133.2--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`67614ee`](https://github.com/sase-org/sase/commit/67614ee2b01e6f2e6e2b8c6fe9fd21e4394b0956) | feat(fleet): consume owner presentation facts | 2026-09-18 20:08:07 EDT |
 
 ## Neighbors
 
