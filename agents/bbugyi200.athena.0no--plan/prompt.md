@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `sase-133` agent clan should have a status of `QUEUED #3/4` just like its only active agent member (the `sase-133.land` sase agent). See the ~/tmp/screenshots/20260919_073619.png screenshot for context. Can you help me fix this? #plan

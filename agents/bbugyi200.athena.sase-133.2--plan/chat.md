@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-133.2--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_133_2__plan-260918_163910.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_133_2__code-260918_163910.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/wire_presentation_facts.md
 
 

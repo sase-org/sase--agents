@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-133` · Members: 3 · Bead: [sase-133.1
 
 ```mermaid
 flowchart TD
-  n0["sase-133.1--plan [completed]"]
+  n0["sase-133.1--plan [active]"]
   n1["sase-133.1--code [completed]"]
   n0 --> n1
-  n2["sase-133.1--gate [failed]"]
+  n2["sase-133.1--gate [active]"]
   n0 --> n2
 ```
 
@@ -19,15 +19,21 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-133.1--plan | completed | gpt-5.6-sol / codex | 2026-09-18T21:00:42.732356+00:00 → 2026-09-18T21:44:07.594465+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-133.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-133.1--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-133.1--plan | active | gpt-5.6-sol / codex | 2026-09-18T21:00:42.732356+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-133.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-133.1--plan/chat.md) |
 | <a id="member-code"></a>code | sase-133.1--code | completed | grok-4.6 / grok | 2026-09-18T21:08:05.696756+00:00 → 2026-09-18T21:44:07.594465+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-133.1--code/chat.md) |
-| <a id="member-gate"></a>gate | sase-133.1--gate | failed | gpt-5.6-sol / codex | 2026-09-18T21:06:48.240426+00:00 → 2026-09-18T21:07:47.331504+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-133.1--gate/chat.md) |
+| <a id="member-gate"></a>gate | sase-133.1--gate | active | gpt-5.6-sol / codex | 2026-09-18T21:06:48.240426+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-133.1--gate/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-133.2](bbugyi200.athena.sase-133.2.md) (family · 3) | sase-133 hood | active 2, failed 1 |
-| [sase-133.3](../agents/bbugyi200.athena.sase-133.3/README.md) | sase-133 hood | waiting |
-| [sase-133.4](../agents/bbugyi200.athena.sase-133.4/README.md) | sase-133 hood | completed |
+| [sase-133.2](bbugyi200.athena.sase-133.2.md) (family · 3) | sase-133 hood | active 2, completed 1 |
+| [sase-133.3](bbugyi200.athena.sase-133.3.md) (family · 3) | sase-133 hood | active 2, completed 1 |
+| [sase-133.4](../agents/bbugyi200.athena.sase-133.4/README.md) | sase-133 hood | active |
+| [sase-133.5.1](bbugyi200.athena.sase-133.5.1.md) (family · 3) | sase-133 hood | active 2, failed 1 |
+| [sase-133.5.2](../agents/bbugyi200.athena.sase-133.5.2/README.md) | sase-133 hood | waiting |
+| [sase-133.5.3](bbugyi200.athena.sase-133.5.3.md) (family · 3) | sase-133 hood | completed 1, failed 1, waiting 1 |
+| [sase-133.5.4](../agents/bbugyi200.athena.sase-133.5.4/README.md) | sase-133 hood | waiting |
+| [sase-133.5.land](../agents/bbugyi200.athena.sase-133.5.land/README.md) | sase-133 hood | waiting |
+| [sase-133.land](bbugyi200.athena.sase-133.land.md) (family · 3) | sase-133 hood | active 3 |
 | [sase-133.land](../agents/bbugyi200.athena.sase-133.land/README.md) | sase-133 hood | waiting |
