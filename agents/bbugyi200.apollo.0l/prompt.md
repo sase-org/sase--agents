@@ -1,0 +1,4 @@
+#gh:gh_sase-org__sase I would like to connect my apollo and athena machines as remote machines that I
+can dispatch to (using the `%dispatch` directive) from my macbook. Can you do some
+research with the goal of helping me figure out how to do this? Keep your report concise
+and practical (e.g. a numbered list of steps I need to take). #research
