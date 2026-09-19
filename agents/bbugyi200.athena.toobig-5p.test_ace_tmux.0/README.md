@@ -27,11 +27,11 @@
 | [toobig-5p.commit\_dispatch\_followup.0](../../families/bbugyi200.athena.toobig-5p.commit_dispatch_followup.0.md) (family · 3) | toobig-5p hood | completed 2, failed 1 |
 | [toobig-5p.detach.0](../bbugyi200.athena.toobig-5p.detach.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.execution.0](../bbugyi200.athena.toobig-5p.execution.0/README.md) | toobig-5p hood | waiting |
-| [toobig-5p.executor.0](../bbugyi200.athena.toobig-5p.executor.0/README.md) | toobig-5p hood | waiting |
+| [toobig-5p.executor.0](../../families/bbugyi200.athena.toobig-5p.executor.0.md) (family · 3) | toobig-5p hood | active 1, completed 1, failed 1 |
 | [toobig-5p.host.0](../bbugyi200.athena.toobig-5p.host.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.platform.0](../bbugyi200.athena.toobig-5p.platform.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.runtime\_cache.0](../bbugyi200.athena.toobig-5p.runtime_cache.0/README.md) | toobig-5p hood | completed |
-| [toobig-5p.selector.0](../bbugyi200.athena.toobig-5p.selector.0/README.md) | toobig-5p hood | active |
+| [toobig-5p.selector.0](../bbugyi200.athena.toobig-5p.selector.0/README.md) | toobig-5p hood | completed |
 | [toobig-5p.ssh.0](../bbugyi200.athena.toobig-5p.ssh.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.store\_clone\_ops.0](../bbugyi200.athena.toobig-5p.store_clone_ops.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.test\_agent\_hold\_service.0](../bbugyi200.athena.toobig-5p.test_agent_hold_service.0/README.md) | toobig-5p hood | waiting |
