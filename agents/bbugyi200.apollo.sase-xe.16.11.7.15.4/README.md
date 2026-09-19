@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-xe.16.11.7.15.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xe/sase-xe.16.11.7.15.4.md)
 - Model: —
 - Provider: —
 - Timing: 2026-09-14T02:01:58+00:00 → 2026-09-14T02:01:58+00:00

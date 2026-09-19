@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-j3.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-j3/sase-j3.5.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-10T17:04:09.560286 → 2026-08-10T17:47:57.976740

@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-zr.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zr/sase-zr.6.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-09-14T21:35:45.615247+00:00

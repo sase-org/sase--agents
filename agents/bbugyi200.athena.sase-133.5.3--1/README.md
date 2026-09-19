@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-133.5.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-133/sase-133.5.3.md)
 - Model: grok-4.6
 - Provider: grok
 - Timing: 20260919093053

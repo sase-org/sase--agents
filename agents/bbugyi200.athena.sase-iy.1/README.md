@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-iy.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-iy/sase-iy.1.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-10T11:13:40.498326 → 2026-08-10T11:21:49.496593
