@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / toobig-5p
 
-**Global hood:** `bbugyi200.athena.toobig-5p` · **Runs:** 34 · **Families:** 0 · **States:** active 1, waiting 33
+**Global hood:** `bbugyi200.athena.toobig-5p` · **Runs:** 34 · **Families:** 0 · **States:** active 1, completed 1, waiting 32
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -26,7 +26,7 @@
 | [toobig-5p.visual\_capture\_store.0](../../../../../../agents/bbugyi200.athena.toobig-5p.visual_capture_store.0/README.md) | waiting | grok-4.6 / grok | 20260919072240 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5p.visual_capture_store.0/prompt.md) |
 | [toobig-5p.test\_event\_handlers\_auto\_refresh\_dirty\_flags.0](../../../../../../agents/bbugyi200.athena.toobig-5p.test_event_handlers_auto_refresh_dirty_flags.0/README.md) | waiting | grok-4.6 / grok | 20260919071922 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5p.test_event_handlers_auto_refresh_dirty_flags.0/prompt.md) |
 | [toobig-5p.test\_sudo\_gate.0](../../../../../../agents/bbugyi200.athena.toobig-5p.test_sudo_gate.0/README.md) | waiting | gpt-5.6-terra / codex | 20260919133220 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5p.test_sudo_gate.0/prompt.md) |
-| [toobig-5p.runtime\_cache.0](../../../../../../agents/bbugyi200.athena.toobig-5p.runtime_cache.0/README.md) | waiting | grok-4.6 / grok | 20260919071437 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5p.runtime_cache.0/prompt.md) |
+| [toobig-5p.runtime\_cache.0](../../../../../../agents/bbugyi200.athena.toobig-5p.runtime_cache.0/README.md) | active | gpt-5.6-terra / codex | 2026-09-19T17:45:00.577845+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5p.runtime_cache.0/prompt.md) |
 | [toobig-5p.visual\_maintenance\_run.0](../../../../../../agents/bbugyi200.athena.toobig-5p.visual_maintenance_run.0/README.md) | waiting | grok-4.6 / grok | 20260919072316 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5p.visual_maintenance_run.0/prompt.md) |
 | [toobig-5p.platform.0](../../../../../../agents/bbugyi200.athena.toobig-5p.platform.0/README.md) | waiting | grok-4.6 / grok | 20260919071708 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5p.platform.0/prompt.md) |
 | [toobig-5p.test\_agent\_hold\_service.0](../../../../../../agents/bbugyi200.athena.toobig-5p.test_agent_hold_service.0/README.md) | waiting | grok-4.6 / grok | 20260919072724 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5p.test_agent_hold_service.0/prompt.md) |
@@ -35,7 +35,7 @@
 | [toobig-5p.test\_run\_agent\_wait.0](../../../../../../agents/bbugyi200.athena.toobig-5p.test_run_agent_wait.0/README.md) | waiting | sonnet / claude | 20260919133445 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5p.test_run_agent_wait.0/prompt.md) |
 | [toobig-5p.commit\_dispatch\_followup.0](../../../../../../agents/bbugyi200.athena.toobig-5p.commit_dispatch_followup.0/README.md) | waiting | grok-4.6 / grok | 20260919071516 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5p.commit_dispatch_followup.0/prompt.md) |
 | [toobig-5p.ssh.0](../../../../../../agents/bbugyi200.athena.toobig-5p.ssh.0/README.md) | waiting | grok-4.6 / grok | 20260919071837 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5p.ssh.0/prompt.md) |
-| [toobig-5p.agent\_runner\_slots.0](../../../../../../agents/bbugyi200.athena.toobig-5p.agent_runner_slots.0/README.md) | active | gpt-5.6-terra / codex | 2026-09-19T17:34:03.113211+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5p.agent_runner_slots.0/prompt.md) |
+| [toobig-5p.agent\_runner\_slots.0](../../../../../../agents/bbugyi200.athena.toobig-5p.agent_runner_slots.0/README.md) | completed | gpt-5.6-terra / codex | 2026-09-19T17:34:03.113211+00:00 → 2026-09-19T17:43:45.442145+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5p.agent_runner_slots.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-5p.agent_runner_slots.0/chat.md) |
 | [toobig-5p.test\_launch\_admission\_dispatch.0](../../../../../../agents/bbugyi200.athena.toobig-5p.test_launch_admission_dispatch.0/README.md) | waiting | sonnet / claude | 20260919133650 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5p.test_launch_admission_dispatch.0/prompt.md) |
 | [toobig-5p.test\_ace\_tmux.0](../../../../../../agents/bbugyi200.athena.toobig-5p.test_ace_tmux.0/README.md) | waiting | grok-4.6 / grok | 20260919072356 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5p.test_ace_tmux.0/prompt.md) |
 | [toobig-5p.test\_sidecar\_clone\_retry.0](../../../../../../agents/bbugyi200.athena.toobig-5p.test_sidecar_clone_retry.0/README.md) | waiting | grok-4.6 / grok | 20260919072654 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5p.test_sidecar_clone_retry.0/prompt.md) |

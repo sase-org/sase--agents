@@ -2,27 +2,33 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5p](../../users/bbugyi200/machines/athena/hoods/toobig-5p/README.md) / toobig-5p.runtime\_cache.0
 
-**Global name:** `bbugyi200.athena.toobig-5p.runtime_cache.0` · **State:** waiting · **Source run:** `run-94c825b70c916e0643742ab3c4606cfc`
+**Global name:** `bbugyi200.athena.toobig-5p.runtime_cache.0` · **State:** active · **Source run:** `run-94c825b70c916e0643742ab3c4606cfc`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5p
 
 ## Summary
 
-- Model: grok-4.6
-- Provider: grok
-- Timing: 20260919071437
-- Commits: 0
+- Model: gpt-5.6-terra
+- Provider: codex
+- Timing: 2026-09-19T17:45:00.577845+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c18991b`](https://github.com/sase-org/sase/commit/c18991b23ec706836f5faf337096f3b2a4b32d6b) | refactor(completion): split runtime cache modules | 2026-09-19 13:54:34 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-5p.ace\_tmux.0](../bbugyi200.athena.toobig-5p.ace_tmux.0/README.md) | toobig-5p hood | waiting |
-| [toobig-5p.agent\_runner\_slots.0](../bbugyi200.athena.toobig-5p.agent_runner_slots.0/README.md) | toobig-5p hood | active |
+| [toobig-5p.agent\_runner\_slots.0](../bbugyi200.athena.toobig-5p.agent_runner_slots.0/README.md) | toobig-5p hood | completed |
 | [toobig-5p.commit\_dispatch.0](../bbugyi200.athena.toobig-5p.commit_dispatch.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.commit\_dispatch\_followup.0](../bbugyi200.athena.toobig-5p.commit_dispatch_followup.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.detach.0](../bbugyi200.athena.toobig-5p.detach.0/README.md) | toobig-5p hood | waiting |

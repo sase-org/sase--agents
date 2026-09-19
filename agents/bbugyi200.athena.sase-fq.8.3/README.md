@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-fq.8.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-fq/sase-fq.8.3.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-06T15:34:54.456932+00:00

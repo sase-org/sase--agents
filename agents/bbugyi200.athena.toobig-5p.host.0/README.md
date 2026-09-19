@@ -22,14 +22,14 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-5p.ace\_tmux.0](../bbugyi200.athena.toobig-5p.ace_tmux.0/README.md) | toobig-5p hood | waiting |
-| [toobig-5p.agent\_runner\_slots.0](../bbugyi200.athena.toobig-5p.agent_runner_slots.0/README.md) | toobig-5p hood | active |
+| [toobig-5p.agent\_runner\_slots.0](../bbugyi200.athena.toobig-5p.agent_runner_slots.0/README.md) | toobig-5p hood | completed |
 | [toobig-5p.commit\_dispatch.0](../bbugyi200.athena.toobig-5p.commit_dispatch.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.commit\_dispatch\_followup.0](../bbugyi200.athena.toobig-5p.commit_dispatch_followup.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.detach.0](../bbugyi200.athena.toobig-5p.detach.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.execution.0](../bbugyi200.athena.toobig-5p.execution.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.executor.0](../bbugyi200.athena.toobig-5p.executor.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.platform.0](../bbugyi200.athena.toobig-5p.platform.0/README.md) | toobig-5p hood | waiting |
-| [toobig-5p.runtime\_cache.0](../bbugyi200.athena.toobig-5p.runtime_cache.0/README.md) | toobig-5p hood | waiting |
+| [toobig-5p.runtime\_cache.0](../bbugyi200.athena.toobig-5p.runtime_cache.0/README.md) | toobig-5p hood | active |
 | [toobig-5p.selector.0](../bbugyi200.athena.toobig-5p.selector.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.ssh.0](../bbugyi200.athena.toobig-5p.ssh.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.store\_clone\_ops.0](../bbugyi200.athena.toobig-5p.store_clone_ops.0/README.md) | toobig-5p hood | waiting |
