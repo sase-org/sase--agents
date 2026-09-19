@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-135` · Members: 9 · Bead: [sase-135.1
 
 ```mermaid
 flowchart TD
-  n0["sase-135.1--4 [active]"]
+  n0["sase-135.1--4 [completed]"]
   n1["sase-135.1--2 [completed]"]
   n0 --> n1
   n2["sase-135.1--1 [completed]"]
@@ -31,7 +31,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-4"></a>4 | sase-135.1--4 | active | grok-4.6 / grok | 2026-09-19T07:00:45.650745+00:00 | [1](../agents/bbugyi200.athena.sase-135.1--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-135.1--4/prompt.md) | — |
+| <a id="member-4"></a>4 | sase-135.1--4 | completed | grok-4.6 / grok | 2026-09-19T07:00:45.650745+00:00 → 2026-09-19T08:59:35.072830+00:00 | [1](../agents/bbugyi200.athena.sase-135.1--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-135.1--4/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-135.1--4/chat.md) |
 | <a id="member-2"></a>2 | sase-135.1--2 | completed | grok-4.6 / grok | 2026-09-19T05:25:10.758177+00:00 → 2026-09-19T05:41:29.672809+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-135.1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-135.1--2/chat.md) |
 | <a id="member-1"></a>1 | sase-135.1--1 | completed | grok-4.6 / grok | 2026-09-19T04:36:50.226016+00:00 → 2026-09-19T04:48:44.976377+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-135.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-135.1--1/chat.md) |
 | <a id="member-3"></a>3 | sase-135.1--3 | completed | grok-4.6 / grok | 2026-09-19T06:18:05.090712+00:00 → 2026-09-19T06:25:25.933459+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-135.1--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-135.1--3/chat.md) |
@@ -51,9 +51,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-135.2](../agents/bbugyi200.athena.sase-135.2/README.md) | sase-135 hood | waiting |
-| [sase-135.3](../agents/bbugyi200.athena.sase-135.3/README.md) | sase-135 hood | waiting |
-| [sase-135.4](../agents/bbugyi200.athena.sase-135.4/README.md) | sase-135 hood | waiting |
+| [sase-135.2](../agents/bbugyi200.athena.sase-135.2/README.md) | sase-135 hood | completed |
+| [sase-135.3](../agents/bbugyi200.athena.sase-135.3/README.md) | sase-135 hood | completed |
+| [sase-135.4](../agents/bbugyi200.athena.sase-135.4/README.md) | sase-135 hood | completed |
 | [sase-135.5](../agents/bbugyi200.athena.sase-135.5/README.md) | sase-135 hood | waiting |
 | [sase-135.6](../agents/bbugyi200.athena.sase-135.6/README.md) | sase-135 hood | waiting |
 | [sase-135.7](../agents/bbugyi200.athena.sase-135.7/README.md) | sase-135 hood | waiting |

@@ -22,9 +22,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-135.2](../bbugyi200.athena.sase-135.2/README.md) | sase-135 hood | waiting |
-| [sase-135.3](../bbugyi200.athena.sase-135.3/README.md) | sase-135 hood | waiting |
-| [sase-135.4](../bbugyi200.athena.sase-135.4/README.md) | sase-135 hood | waiting |
+| [sase-135.2](../bbugyi200.athena.sase-135.2/README.md) | sase-135 hood | completed |
+| [sase-135.3](../bbugyi200.athena.sase-135.3/README.md) | sase-135 hood | completed |
+| [sase-135.4](../bbugyi200.athena.sase-135.4/README.md) | sase-135 hood | completed |
 | [sase-135.5](../bbugyi200.athena.sase-135.5/README.md) | sase-135 hood | waiting |
 | [sase-135.6](../bbugyi200.athena.sase-135.6/README.md) | sase-135 hood | waiting |
 | [sase-135.7](../bbugyi200.athena.sase-135.7/README.md) | sase-135 hood | waiting |

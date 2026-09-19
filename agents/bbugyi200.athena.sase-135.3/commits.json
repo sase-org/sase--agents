@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f43ec7b2e0f9733790e2bc0756fc02cf"}
+{"commits":[{"committed_at":1789820584,"sha":"91b67672b4f23dfb4f8eae10394de46195edd24f","subject":"feat(cli): add foreground ToolRun execution and run/runs/show"}],"schema_version":2,"source_run_id":"run-f43ec7b2e0f9733790e2bc0756fc02cf"}
