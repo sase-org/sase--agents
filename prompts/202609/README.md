@@ -134,6 +134,7 @@
 | [0s.md](0s.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/tui_default_effort_indicator.md][1] | - | [bbugyi200.apollo.0s--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.0s.md) | 1 |
 | [0u.md](0u.md) | gh:gh_sase-org__sase Can you explain to me why the sase-11e.8.6.5.4 epic bead's | - | [bbugyi200.kellys_mbp.0u](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.0u/README.md) | 0 |
 | [0u_1.md](0u_1.md) | gh:gh_sase-org__sase Can you give me some concise and numbered steps that help me | - | [bbugyi200.apollo.0u](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.apollo.0u/README.md) | 0 |
+| [0w.md](0w.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/check_full_explicit_only.md][1] | - | [bbugyi200.apollo.0w--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.0w.md) | 1 |
 | [1m.md](1m.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.1m--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.1m.md) | 1 |
 | [30.md](30.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/memory_batch_read_file_counts.md | - | [bbugyi200.athena.30](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.30/README.md) | 0 |
 | [3u.md](3u.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/poseidon_cargo_retention.md][1] | - | [bbugyi200.athena.3u--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.3u.md) | 1 |
