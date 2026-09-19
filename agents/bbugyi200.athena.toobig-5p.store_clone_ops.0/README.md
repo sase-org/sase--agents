@@ -2,20 +2,26 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5p](../../users/bbugyi200/machines/athena/hoods/toobig-5p/README.md) / toobig-5p.store\_clone\_ops.0
 
-**Global name:** `bbugyi200.athena.toobig-5p.store_clone_ops.0` · **State:** waiting · **Source run:** `run-d887d2d1482d481883836dcdaea9bead`
+**Global name:** `bbugyi200.athena.toobig-5p.store_clone_ops.0` · **State:** active · **Source run:** `run-d887d2d1482d481883836dcdaea9bead`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5p
 
 ## Summary
 
-- Model: grok-4.6
-- Provider: grok
-- Timing: 20260919071631
-- Commits: 0
+- Model: gpt-5.6-terra
+- Provider: codex
+- Timing: 2026-09-19T19:02:18.107107+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3bfec5f`](https://github.com/sase-org/sase/commit/3bfec5f704395a1b77df19a627940e1b3d0c4110) | refactor(sdd): split store clone operations | 2026-09-19 15:09:13 EDT |
 
 ## Neighbors
 
@@ -27,7 +33,7 @@
 | [toobig-5p.commit\_dispatch\_followup.0](../../families/bbugyi200.athena.toobig-5p.commit_dispatch_followup.0.md) (family · 3) | toobig-5p hood | completed 2, failed 1 |
 | [toobig-5p.detach.0](../bbugyi200.athena.toobig-5p.detach.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.execution.0](../bbugyi200.athena.toobig-5p.execution.0/README.md) | toobig-5p hood | waiting |
-| [toobig-5p.executor.0](../../families/bbugyi200.athena.toobig-5p.executor.0.md) (family · 3) | toobig-5p hood | active 1, completed 1, failed 1 |
+| [toobig-5p.executor.0](../../families/bbugyi200.athena.toobig-5p.executor.0.md) (family · 3) | toobig-5p hood | completed 2, failed 1 |
 | [toobig-5p.host.0](../bbugyi200.athena.toobig-5p.host.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.platform.0](../bbugyi200.athena.toobig-5p.platform.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.runtime\_cache.0](../bbugyi200.athena.toobig-5p.runtime_cache.0/README.md) | toobig-5p hood | completed |

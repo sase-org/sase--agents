@@ -11,7 +11,7 @@ flowchart TD
   n0["toobig-5p.executor.0--mon [failed]"]
   n1["toobig-5p.executor.0--plan [completed]"]
   n0 --> n1
-  n2["toobig-5p.executor.0--1 [active]"]
+  n2["toobig-5p.executor.0--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | toobig-5p.executor.0--mon | failed | gpt-5.6-terra / codex | 2026-09-19T18:54:09.912178+00:00 → 2026-09-19T18:55:43.238502+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-5p.executor.0--mon/chat.md) |
 | <a id="member-plan"></a>plan | toobig-5p.executor.0--plan | completed | gpt-5.6-terra / codex | 2026-09-19T18:48:39.784199+00:00 → 2026-09-19T18:54:29.111272+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-5p.executor.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-5p.executor.0--plan/chat.md) |
-| <a id="member-1"></a>1 | toobig-5p.executor.0--1 | active | gpt-5.6-terra / codex | 2026-09-19T18:55:42.806371+00:00 | [1](../agents/bbugyi200.athena.toobig-5p.executor.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-5p.executor.0--1/prompt.md) | — |
+| <a id="member-1"></a>1 | toobig-5p.executor.0--1 | completed | gpt-5.6-terra / codex | 2026-09-19T18:55:42.806371+00:00 → 2026-09-19T19:02:10.292313+00:00 | [1](../agents/bbugyi200.athena.toobig-5p.executor.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-5p.executor.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-5p.executor.0--1/chat.md) |
 
 ## Commits
 
@@ -44,7 +44,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [toobig-5p.runtime\_cache.0](../agents/bbugyi200.athena.toobig-5p.runtime_cache.0/README.md) | toobig-5p hood | completed |
 | [toobig-5p.selector.0](../agents/bbugyi200.athena.toobig-5p.selector.0/README.md) | toobig-5p hood | completed |
 | [toobig-5p.ssh.0](../agents/bbugyi200.athena.toobig-5p.ssh.0/README.md) | toobig-5p hood | waiting |
-| [toobig-5p.store\_clone\_ops.0](../agents/bbugyi200.athena.toobig-5p.store_clone_ops.0/README.md) | toobig-5p hood | waiting |
+| [toobig-5p.store\_clone\_ops.0](../agents/bbugyi200.athena.toobig-5p.store_clone_ops.0/README.md) | toobig-5p hood | active |
 | [toobig-5p.test\_ace\_tmux.0](../agents/bbugyi200.athena.toobig-5p.test_ace_tmux.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.test\_agent\_hold\_service.0](../agents/bbugyi200.athena.toobig-5p.test_agent_hold_service.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.test\_agent\_loader\_query\_window.0](../agents/bbugyi200.athena.toobig-5p.test_agent_loader_query_window.0/README.md) | toobig-5p hood | waiting |
