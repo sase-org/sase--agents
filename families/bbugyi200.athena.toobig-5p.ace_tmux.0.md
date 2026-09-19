@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `toobig-5p` · Members: 5
 ```mermaid
 flowchart TD
   n0["toobig-5p.ace_tmux.0--code [completed]"]
-  n1["toobig-5p.ace_tmux.0--1 [active]"]
+  n1["toobig-5p.ace_tmux.0--1 [completed]"]
   n0 --> n1
   n2["toobig-5p.ace_tmux.0--plan [completed]"]
   n0 --> n2
@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | toobig-5p.ace\_tmux.0--code | completed | gpt-5.6-terra / codex | 2026-09-19T18:25:59.813538+00:00 → 2026-09-19T18:31:30.740664+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-5p.ace_tmux.0--code/chat.md) |
-| <a id="member-1"></a>1 | toobig-5p.ace\_tmux.0--1 | active | gpt-5.6-terra / codex | 2026-09-19T18:32:47.552758+00:00 | [1](../agents/bbugyi200.athena.toobig-5p.ace_tmux.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-5p.ace_tmux.0--1/prompt.md) | — |
+| <a id="member-1"></a>1 | toobig-5p.ace\_tmux.0--1 | completed | gpt-5.6-terra / codex | 2026-09-19T18:32:47.552758+00:00 → 2026-09-19T18:37:28.861909+00:00 | [1](../agents/bbugyi200.athena.toobig-5p.ace_tmux.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-5p.ace_tmux.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-5p.ace_tmux.0--1/chat.md) |
 | <a id="member-plan"></a>plan | toobig-5p.ace\_tmux.0--plan | completed | gpt-5.6-terra / codex | 2026-09-19T18:23:47.862033+00:00 → 2026-09-19T18:31:30.740664+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-5p.ace_tmux.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-5p.ace_tmux.0--plan/chat.md) |
 | <a id="member-gate"></a>gate | toobig-5p.ace\_tmux.0--gate | failed | gpt-5.6-terra / codex | 2026-09-19T18:25:23.649302+00:00 → 2026-09-19T18:25:42.828698+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-5p.ace_tmux.0--gate/chat.md) |
 | <a id="member-mon"></a>mon | toobig-5p.ace\_tmux.0--mon | failed | gpt-5.6-terra / codex | 2026-09-19T18:30:58.320427+00:00 → 2026-09-19T18:32:47.763032+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-5p.ace_tmux.0--mon/chat.md) |
@@ -48,7 +48,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [toobig-5p.host.0](../agents/bbugyi200.athena.toobig-5p.host.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.platform.0](../agents/bbugyi200.athena.toobig-5p.platform.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.runtime\_cache.0](../agents/bbugyi200.athena.toobig-5p.runtime_cache.0/README.md) | toobig-5p hood | completed |
-| [toobig-5p.selector.0](../agents/bbugyi200.athena.toobig-5p.selector.0/README.md) | toobig-5p hood | waiting |
+| [toobig-5p.selector.0](../agents/bbugyi200.athena.toobig-5p.selector.0/README.md) | toobig-5p hood | active |
 | [toobig-5p.ssh.0](../agents/bbugyi200.athena.toobig-5p.ssh.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.store\_clone\_ops.0](../agents/bbugyi200.athena.toobig-5p.store_clone_ops.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.test\_ace\_tmux.0](../agents/bbugyi200.athena.toobig-5p.test_ace_tmux.0/README.md) | toobig-5p hood | waiting |

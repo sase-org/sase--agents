@@ -2,26 +2,32 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5p](../../users/bbugyi200/machines/athena/hoods/toobig-5p/README.md) / toobig-5p.selector.0
 
-**Global name:** `bbugyi200.athena.toobig-5p.selector.0` · **State:** waiting · **Source run:** `run-1d337a46d21ee27aac8c6915b5047753`
+**Global name:** `bbugyi200.athena.toobig-5p.selector.0` · **State:** active · **Source run:** `run-1d337a46d21ee27aac8c6915b5047753`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5p
 
 ## Summary
 
-- Model: grok-4.6
-- Provider: grok
-- Timing: 20260919071553
-- Commits: 0
+- Model: gpt-5.6-terra
+- Provider: codex
+- Timing: 2026-09-19T18:37:52.409788+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`47f3a31`](https://github.com/sase-org/sase/commit/47f3a31b4105b38d05f2ea77d7181f109b6efa6c) | refactor(memory): split selector resolution modules | 2026-09-19 14:45:32 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-5p.ace\_tmux.0](../../families/bbugyi200.athena.toobig-5p.ace_tmux.0.md) (family · 5) | toobig-5p hood | active 1, completed 2, failed 2 |
+| [toobig-5p.ace\_tmux.0](../../families/bbugyi200.athena.toobig-5p.ace_tmux.0.md) (family · 5) | toobig-5p hood | completed 3, failed 2 |
 | [toobig-5p.agent\_runner\_slots.0](../bbugyi200.athena.toobig-5p.agent_runner_slots.0/README.md) | toobig-5p hood | completed |
 | [toobig-5p.commit\_dispatch.0](../bbugyi200.athena.toobig-5p.commit_dispatch.0/README.md) | toobig-5p hood | completed |
 | [toobig-5p.commit\_dispatch\_followup.0](../../families/bbugyi200.athena.toobig-5p.commit_dispatch_followup.0.md) (family · 3) | toobig-5p hood | completed 2, failed 1 |
