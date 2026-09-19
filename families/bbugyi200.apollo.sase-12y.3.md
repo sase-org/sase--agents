@@ -19,7 +19,7 @@ flowchart TD
   n0 --> n4
   n5["sase-12y.3--3 [completed]"]
   n0 --> n5
-  n6["sase-12y.3--4 [active]"]
+  n6["sase-12y.3--4 [completed]"]
   n0 --> n6
   n7["sase-12y.3--mon-2 [failed]"]
   n0 --> n7
@@ -37,7 +37,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | sase-12y.3--plan | completed | grok-4.6 / grok | 2026-09-18T18:37:52.023727+00:00 → 2026-09-18T19:17:52.147880+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-12y.3--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-12y.3--plan/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-12y.3--mon-1 | failed | grok-4.6 / grok | 2026-09-18T20:31:14.838032+00:00 → 2026-09-18T21:16:32.909498+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-12y.3--mon-1/chat.md) |
 | <a id="member-3"></a>3 | sase-12y.3--3 | completed | grok-4.6 / grok | 2026-09-18T21:16:32.636575+00:00 → 2026-09-18T21:27:12.375729+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-12y.3--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-12y.3--3/chat.md) |
-| <a id="member-4"></a>4 | sase-12y.3--4 | active | grok-4.6 / grok | 2026-09-18T22:06:31.033633+00:00 | [1](../agents/bbugyi200.apollo.sase-12y.3--4/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-12y.3--4/prompt.md) | — |
+| <a id="member-4"></a>4 | sase-12y.3--4 | completed | grok-4.6 / grok | 2026-09-18T22:06:31.033633+00:00 → 2026-09-18T22:13:01.338031+00:00 | [1](../agents/bbugyi200.apollo.sase-12y.3--4/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-12y.3--4/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-12y.3--4/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | sase-12y.3--mon-2 | failed | grok-4.6 / grok | 2026-09-18T21:26:40.338247+00:00 → 2026-09-18T22:06:31.484026+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-12y.3--mon-2/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-12y.3--mon-0 | failed | grok-4.6 / grok | 2026-09-18T19:46:30.315473+00:00 → 2026-09-18T20:21:27.785141+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-12y.3--mon-0/chat.md) |
 
@@ -53,4 +53,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-12y.1](../agents/bbugyi200.apollo.sase-12y.1/README.md) | sase-12y hood | completed |
 | [sase-12y.2](bbugyi200.apollo.sase-12y.2.md) (family · 3) | sase-12y hood | completed 2, failed 1 |
-| [sase-12y.land](../agents/bbugyi200.apollo.sase-12y.land/README.md) | sase-12y hood | waiting |
+| [sase-12y.4.1](../agents/bbugyi200.apollo.sase-12y.4.1/README.md) | sase-12y hood | active |
+| [sase-12y.4.land](../agents/bbugyi200.apollo.sase-12y.4.land/README.md) | sase-12y hood | waiting |
+| [sase-12y.land](bbugyi200.apollo.sase-12y.land.md) (family · 3) | sase-12y hood | failed 3 |
