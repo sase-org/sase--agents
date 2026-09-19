@@ -40,9 +40,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-11l.11.1](bbugyi200.athena.sase-11l.11.1.md) (family · 7) | sase-11l.11 hood | completed 4, failed 3 |
-| [sase-11l.11.3](bbugyi200.athena.sase-11l.11.3.md) (family · 3) | sase-11l.11 hood | active 1, completed 1, failed 1 |
-| [sase-11l.11.4](../agents/bbugyi200.athena.sase-11l.11.4/README.md) | sase-11l.11 hood | waiting |
-| [sase-11l.11.land](../agents/bbugyi200.athena.sase-11l.11.land/README.md) | sase-11l.11 hood | waiting |
+| [sase-11l.11.3](bbugyi200.athena.sase-11l.11.3.md) (family · 3) | sase-11l.11 hood | completed 2, failed 1 |
+| [sase-11l.11.4](bbugyi200.athena.sase-11l.11.4.md) (family · 5) | sase-11l.11 hood | completed 3, failed 2 |
+| [sase-11l.11.5.1](bbugyi200.athena.sase-11l.11.5.1.md) (family · 7) | sase-11l.11 hood | completed 4, failed 3 |
+| [sase-11l.11.5.land](../agents/bbugyi200.athena.sase-11l.11.5.land/README.md) | sase-11l.11 hood | active |
+| [sase-11l.11.land](bbugyi200.athena.sase-11l.11.land.md) (family · 3) | sase-11l.11 hood | failed 3 |
 | [sase-11l.1](bbugyi200.athena.sase-11l.1.md) (family · 3) | sase-11l hood | completed 2, failed 1 |
 | [sase-11l.10](bbugyi200.athena.sase-11l.10.md) (family · 11) | sase-11l hood | active 1, completed 4, failed 6 |
 | [sase-11l.2](../agents/bbugyi200.athena.sase-11l.2/README.md) | sase-11l hood | completed |

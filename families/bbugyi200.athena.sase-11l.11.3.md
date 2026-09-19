@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-11l.11.3--mon [failed]"]
   n1["sase-11l.11.3--plan [completed]"]
   n0 --> n1
-  n2["sase-11l.11.3--1 [active]"]
+  n2["sase-11l.11.3--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-11l.11.3--mon | failed | grok-4.6 / grok | 2026-09-19T05:29:11.214421+00:00 → 2026-09-19T06:13:37.911642+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11l.11.3--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-11l.11.3--plan | completed | grok-4.6 / grok | 2026-09-19T04:44:04.223520+00:00 → 2026-09-19T05:29:40.781479+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11l.11.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11l.11.3--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-11l.11.3--1 | active | grok-4.6 / grok | 2026-09-19T06:13:45.775917+00:00 | [1](../agents/bbugyi200.athena.sase-11l.11.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-11l.11.3--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-11l.11.3--1 | completed | grok-4.6 / grok | 2026-09-19T06:13:45.775917+00:00 → 2026-09-19T06:29:05.164846+00:00 | [1](../agents/bbugyi200.athena.sase-11l.11.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-11l.11.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11l.11.3--1/chat.md) |
 
 ## Commits
 
@@ -35,8 +35,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-11l.11.1](bbugyi200.athena.sase-11l.11.1.md) (family · 7) | sase-11l.11 hood | completed 4, failed 3 |
 | [sase-11l.11.2](bbugyi200.athena.sase-11l.11.2.md) (family · 5) | sase-11l.11 hood | completed 3, failed 2 |
-| [sase-11l.11.4](../agents/bbugyi200.athena.sase-11l.11.4/README.md) | sase-11l.11 hood | waiting |
-| [sase-11l.11.land](../agents/bbugyi200.athena.sase-11l.11.land/README.md) | sase-11l.11 hood | waiting |
+| [sase-11l.11.4](bbugyi200.athena.sase-11l.11.4.md) (family · 5) | sase-11l.11 hood | completed 3, failed 2 |
+| [sase-11l.11.5.1](bbugyi200.athena.sase-11l.11.5.1.md) (family · 7) | sase-11l.11 hood | completed 4, failed 3 |
+| [sase-11l.11.5.land](../agents/bbugyi200.athena.sase-11l.11.5.land/README.md) | sase-11l.11 hood | active |
+| [sase-11l.11.land](bbugyi200.athena.sase-11l.11.land.md) (family · 3) | sase-11l.11 hood | failed 3 |
 | [sase-11l.1](bbugyi200.athena.sase-11l.1.md) (family · 3) | sase-11l hood | completed 2, failed 1 |
 | [sase-11l.10](bbugyi200.athena.sase-11l.10.md) (family · 11) | sase-11l hood | active 1, completed 4, failed 6 |
 | [sase-11l.2](../agents/bbugyi200.athena.sase-11l.2/README.md) | sase-11l hood | completed |
