@@ -39,12 +39,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [toobig-5p.detach.0](../agents/bbugyi200.athena.toobig-5p.detach.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.execution.0](../agents/bbugyi200.athena.toobig-5p.execution.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.executor.0](bbugyi200.athena.toobig-5p.executor.0.md) (family · 3) | toobig-5p hood | completed 2, failed 1 |
-| [toobig-5p.host.0](../agents/bbugyi200.athena.toobig-5p.host.0/README.md) | toobig-5p hood | waiting |
+| [toobig-5p.host.0](../agents/bbugyi200.athena.toobig-5p.host.0/README.md) | toobig-5p hood | active |
 | [toobig-5p.platform.0](../agents/bbugyi200.athena.toobig-5p.platform.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.runtime\_cache.0](../agents/bbugyi200.athena.toobig-5p.runtime_cache.0/README.md) | toobig-5p hood | completed |
 | [toobig-5p.selector.0](../agents/bbugyi200.athena.toobig-5p.selector.0/README.md) | toobig-5p hood | completed |
 | [toobig-5p.ssh.0](../agents/bbugyi200.athena.toobig-5p.ssh.0/README.md) | toobig-5p hood | waiting |
-| [toobig-5p.store\_clone\_ops.0](../agents/bbugyi200.athena.toobig-5p.store_clone_ops.0/README.md) | toobig-5p hood | active |
+| [toobig-5p.store\_clone\_ops.0](../agents/bbugyi200.athena.toobig-5p.store_clone_ops.0/README.md) | toobig-5p hood | completed |
 | [toobig-5p.test\_ace\_tmux.0](../agents/bbugyi200.athena.toobig-5p.test_ace_tmux.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.test\_agent\_hold\_service.0](../agents/bbugyi200.athena.toobig-5p.test_agent_hold_service.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.test\_agent\_loader\_query\_window.0](../agents/bbugyi200.athena.toobig-5p.test_agent_loader_query_window.0/README.md) | toobig-5p hood | waiting |

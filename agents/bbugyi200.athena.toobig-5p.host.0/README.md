@@ -2,20 +2,26 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5p](../../users/bbugyi200/machines/athena/hoods/toobig-5p/README.md) / toobig-5p.host.0
 
-**Global name:** `bbugyi200.athena.toobig-5p.host.0` · **State:** waiting · **Source run:** `run-24942f83f96c8a47acb91cb07bd9061f`
+**Global name:** `bbugyi200.athena.toobig-5p.host.0` · **State:** active · **Source run:** `run-24942f83f96c8a47acb91cb07bd9061f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5p
 
 ## Summary
 
-- Model: grok-4.6
-- Provider: grok
-- Timing: 20260919071650
-- Commits: 0
+- Model: gpt-5.6-terra
+- Provider: codex
+- Timing: 2026-09-19T19:12:07.102607+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`5082ca8`](https://github.com/sase-org/sase/commit/5082ca8cf38366f23bb1b1e648547b1732c667f2) | refactor(service): split host runtime modules | 2026-09-19 15:18:46 EDT |
 
 ## Neighbors
 
@@ -32,7 +38,7 @@
 | [toobig-5p.runtime\_cache.0](../bbugyi200.athena.toobig-5p.runtime_cache.0/README.md) | toobig-5p hood | completed |
 | [toobig-5p.selector.0](../bbugyi200.athena.toobig-5p.selector.0/README.md) | toobig-5p hood | completed |
 | [toobig-5p.ssh.0](../bbugyi200.athena.toobig-5p.ssh.0/README.md) | toobig-5p hood | waiting |
-| [toobig-5p.store\_clone\_ops.0](../bbugyi200.athena.toobig-5p.store_clone_ops.0/README.md) | toobig-5p hood | active |
+| [toobig-5p.store\_clone\_ops.0](../bbugyi200.athena.toobig-5p.store_clone_ops.0/README.md) | toobig-5p hood | completed |
 | [toobig-5p.test\_ace\_tmux.0](../bbugyi200.athena.toobig-5p.test_ace_tmux.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.test\_agent\_hold\_service.0](../bbugyi200.athena.toobig-5p.test_agent_hold_service.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.test\_agent\_loader\_query\_window.0](../bbugyi200.athena.toobig-5p.test_agent_loader_query_window.0/README.md) | toobig-5p hood | waiting |

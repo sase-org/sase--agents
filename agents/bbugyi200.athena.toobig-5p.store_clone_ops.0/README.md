@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5p](../../users/bbugyi200/machines/athena/hoods/toobig-5p/README.md) / toobig-5p.store\_clone\_ops.0
 
-**Global name:** `bbugyi200.athena.toobig-5p.store_clone_ops.0` · **State:** active · **Source run:** `run-d887d2d1482d481883836dcdaea9bead`
+**Global name:** `bbugyi200.athena.toobig-5p.store_clone_ops.0` · **State:** completed · **Source run:** `run-d887d2d1482d481883836dcdaea9bead`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5p
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.6-terra
 - Provider: codex
-- Timing: 2026-09-19T19:02:18.107107+00:00
+- Timing: 2026-09-19T19:02:18.107107+00:00 → 2026-09-19T19:11:28.321175+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -34,7 +34,7 @@
 | [toobig-5p.detach.0](../bbugyi200.athena.toobig-5p.detach.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.execution.0](../bbugyi200.athena.toobig-5p.execution.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.executor.0](../../families/bbugyi200.athena.toobig-5p.executor.0.md) (family · 3) | toobig-5p hood | completed 2, failed 1 |
-| [toobig-5p.host.0](../bbugyi200.athena.toobig-5p.host.0/README.md) | toobig-5p hood | waiting |
+| [toobig-5p.host.0](../bbugyi200.athena.toobig-5p.host.0/README.md) | toobig-5p hood | active |
 | [toobig-5p.platform.0](../bbugyi200.athena.toobig-5p.platform.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.runtime\_cache.0](../bbugyi200.athena.toobig-5p.runtime_cache.0/README.md) | toobig-5p hood | completed |
 | [toobig-5p.selector.0](../bbugyi200.athena.toobig-5p.selector.0/README.md) | toobig-5p hood | completed |
