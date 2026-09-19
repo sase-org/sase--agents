@@ -1,15 +1,10 @@
 # Chat History - ace-run (sase-11y.7--plan)
 
-- **TIMESTAMP:** 2026-09-18 05:48:35 EDT
-- **MODEL:** claude/opus
+- **TIMESTAMP:** 2026-09-19 06:25:53 EDT
+- **MODEL:** grok/grok-4.6
 - **AGENT:** sase-11y.7--plan
 
-## Linked Chats
-
-- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_11y_7__plan-260916_144504.md`
-- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_11y_7__code-260916_144504.md`
-
-**Plan:** /home/bryan/.sase/plans/202609/services_tab.md
+**Plan:** /home/bryan/.sase/plans/202609/services_tab_closure.md
 
 
 ## Prompt
@@ -18,7 +13,6 @@
 %id(7, clan=sase-11y, bead=sase-11y.7)
 %model:@large
 %auto
-%w:sase-11y.2,sase-11y.4
 %w(bead=sase-11y.2)
 %w(bead=sase-11y.4)
 Can you complete the work for bead sase-11y.7? The bead is already reserved for you and assigned to your agent
@@ -44,18 +38,18 @@ before making any file changes.
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202609/services_tab.md`
+**Plan file:** `/home/bryan/.sase/plans/202609/services_tab_closure.md`
 
 > - **PARENT:** [202609/service_host_1.md](202609/service_host_1.md)
 > - **BEAD:** sase-11y.7
-> # Complete `sase-11y.7`: Services tab in the TUI
+> # Plan: Close the remaining Services tab contract
 > ## Outcome
-> Turn the user-facing AXE tab into the Services tab while retaining `axe` as its internal
-> tab id until the sunset phase. When the existing `service_host` beta flag is enabled,
-> the tab must present the service host and every configured service proc, nest the
-> existing routine/job tree beneath the Scheduler proc, and route host/proc controls
-> through the service control plane. When the flag is disabled, preserve the legacy AXE
-> runtime and controls so the later sunset phase has one explicit Off branch to delete.
+> `sase-11y.7` already has a landed first pass (`plan:202609/services_tab.md`, commit
+> `c2befdb`): the tab label is Services, `--tab services` aliases canonical `axe`,
+> `--no-service`/`--restart-service` exist, configured daemon procs render with the
+> scheduler's routine/job tree nested under it, and CLI/TUI share
+> `src/sase/service/actions.py`. This tale does **not** rebuild that surface. It closes
+> the phase by finishing the remaining user-visible contract, the idle-refresh probe, the
 
 *See full plan file for details.*
 

@@ -1,10 +1,10 @@
 # Chat History - ace-run (sase-11y.5--plan)
 
-- **TIMESTAMP:** 2026-09-18 05:44:17 EDT
-- **MODEL:** claude/opus
+- **TIMESTAMP:** 2026-09-19 06:24:19 EDT
+- **MODEL:** grok/grok-4.6
 - **AGENT:** sase-11y.5--plan
 
-**Plan:** /home/bryan/.sase/plans/202609/service_platform_units.md
+**Plan:** /home/bryan/.sase/plans/202609/finish_platform_units.md
 
 
 ## Prompt
@@ -13,7 +13,6 @@
 %id(5, clan=sase-11y, bead=sase-11y.5)
 %model:@large
 %auto
-%w:sase-11y.4
 %w(bead=sase-11y.4)
 Can you complete the work for bead sase-11y.5? The bead is already reserved for you and assigned to your agent
 name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
@@ -38,18 +37,18 @@ before making any file changes.
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202609/service_platform_units.md`
+**Plan file:** `/home/bryan/.sase/plans/202609/finish_platform_units.md`
 
 > - **PARENT:** [202609/service_host_1.md](202609/service_host_1.md)
 > - **BEAD:** sase-11y.5
-> # Plan: Platform units and init integration
-> Complete phase `sase-11y.5` against the service-host runtime already present in
-> `src/sase/service/`. Keep the work behind the existing `service_host` beta flag and
-> preserve the detached fallback when no platform unit is installed. The installed unit
-> must run a stable, non-ephemeral `sase` executable and own exactly one foreground
-> `sase service run`; do not add one native unit per service proc.
-> ## 1. Add a deterministic platform-installation model
-> - Add focused service modules for the shared environment contract and native platform
+> # Plan: Finish platform units and init integration
+> Phase `sase-11y.5` already has a first implementation (`3fb42fa`, plan
+> `202609/service_platform_units.md`). The bead is still open because the landed tree
+> misses several phase invariants and the verification the original tale required. Do
+> **not** rewrite `src/sase/service/platform.py` or the init/onboarding wiring. Patch the
+> holes below, add the missing tests, verify, then close only `sase-11y.5`.
+> Parent decisions that still bind this work:
+> - One platform unit owns one foreground `sase service run`. Never one unit per proc.
 
 *See full plan file for details.*
 
