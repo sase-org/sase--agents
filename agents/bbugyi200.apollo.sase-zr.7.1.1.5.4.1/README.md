@@ -2,22 +2,21 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-zr](../../users/bbugyi200/machines/apollo/hoods/sase-zr/README.md) / sase-zr.7.1.1.5.4.1
 
-**Global name:** `bbugyi200.apollo.sase-zr.7.1.1.5.4.1` · **State:** active · **Source run:** `run-a35cb9795d0c73444f62ebc58d038ddc`
+**Global name:** `bbugyi200.apollo.sase-zr.7.1.1.5.4.1` · **State:** completed · **Source run:** `run-289d1be4e02ba5b878c7c0458fbb6ed6`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-zr
 
 ## Summary
 
 - Bead: [sase-zr.7.1.1.5.4.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zr/sase-zr.7.1.1.5.4.1.md)
-- Epic: [sase-zr.7.1.1.5.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zr/sase-zr.7.1.1.5.4.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-18T03:22:37.968103+00:00
+- Timing: 2026-09-18T09:42:48.408816+00:00 → 2026-09-18T09:52:31.653530+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -30,7 +29,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-zr.7.1](../../families/bbugyi200.apollo.sase-zr.7.1.md) (family · 4) | ancestor | active 1, failed 3 |
-| [sase-zr.7.1.1.5.4.2](../bbugyi200.apollo.sase-zr.7.1.1.5.4.2/README.md) | sase-zr.7.1.1.5.4 hood | waiting |
+| [sase-zr.7.1.1.5.4.2](../../families/bbugyi200.apollo.sase-zr.7.1.1.5.4.2.md) (family · 21) | sase-zr.7.1.1.5.4 hood | active 1, completed 10, failed 10 |
 | [sase-zr.7.1.1.5.4.land](../bbugyi200.apollo.sase-zr.7.1.1.5.4.land/README.md) | sase-zr.7.1.1.5.4 hood | waiting |
 | [sase-zr.7.1.1.5.1](../bbugyi200.apollo.sase-zr.7.1.1.5.1/README.md) | sase-zr.7.1.1.5 hood | completed |
 | [sase-zr.7.1.1.5.2](../bbugyi200.apollo.sase-zr.7.1.1.5.2/README.md) | sase-zr.7.1.1.5 hood | completed |

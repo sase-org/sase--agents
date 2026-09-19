@@ -37,8 +37,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-zr.7.1.1.5.1](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.1/README.md) | descendant | completed |
 | [sase-zr.7.1.1.5.2](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.2/README.md) | descendant | completed |
 | [sase-zr.7.1.1.5.3](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.3/README.md) | descendant | completed |
-| [sase-zr.7.1.1.5.4.1](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.1/README.md) | descendant | active |
-| [sase-zr.7.1.1.5.4.2](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.2/README.md) | descendant | waiting |
+| [sase-zr.7.1.1.5.4.1](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.1/README.md) | descendant | completed |
+| [sase-zr.7.1.1.5.4.2](bbugyi200.apollo.sase-zr.7.1.1.5.4.2.md) (family · 21) | descendant | active 1, completed 10, failed 10 |
 | [sase-zr.7.1.1.5.4.land](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.land/README.md) | descendant | waiting |
 | [sase-zr.7.1.1.5.land](bbugyi200.apollo.sase-zr.7.1.1.5.land.md) (family · 3) | descendant | failed 3 |
 | [sase-zr.7.1.1.land](bbugyi200.apollo.sase-zr.7.1.1.land.md) (family · 3) | descendant | failed 3 |

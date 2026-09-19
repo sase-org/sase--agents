@@ -12,7 +12,7 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-17T18:02:28.791132+00:00 → 2026-09-17T22:28:10.246822+00:00
-- Commits: [1](#commits)
+- Commits: [2](#commits)
 
 ## Files
 
@@ -23,6 +23,7 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`155aeee`](https://github.com/sase-org/sase/commit/155aeee2efe67b653c4c715888716a116401fdaa) | fix(tui): allow incremental agent refresh under stable search | 2026-09-17 17:20:00 EDT |
+| sase | [`26797a9`](https://github.com/sase-org/sase/commit/26797a95acef0dc653405b8b917b5e82676133ac) | fix(gates): enforce live owner decision integrity | 2026-09-17 18:26:10 EDT |
 
 ## Neighbors
 
@@ -35,8 +36,8 @@
 | [sase-zr.7.1.1.5.1](../bbugyi200.apollo.sase-zr.7.1.1.5.1/README.md) | sase-zr.7.1.1 hood | completed |
 | [sase-zr.7.1.1.5.2](../bbugyi200.apollo.sase-zr.7.1.1.5.2/README.md) | sase-zr.7.1.1 hood | completed |
 | [sase-zr.7.1.1.5.3](../bbugyi200.apollo.sase-zr.7.1.1.5.3/README.md) | sase-zr.7.1.1 hood | completed |
-| [sase-zr.7.1.1.5.4.1](../bbugyi200.apollo.sase-zr.7.1.1.5.4.1/README.md) | sase-zr.7.1.1 hood | active |
-| [sase-zr.7.1.1.5.4.2](../bbugyi200.apollo.sase-zr.7.1.1.5.4.2/README.md) | sase-zr.7.1.1 hood | waiting |
+| [sase-zr.7.1.1.5.4.1](../bbugyi200.apollo.sase-zr.7.1.1.5.4.1/README.md) | sase-zr.7.1.1 hood | completed |
+| [sase-zr.7.1.1.5.4.2](../../families/bbugyi200.apollo.sase-zr.7.1.1.5.4.2.md) (family · 21) | sase-zr.7.1.1 hood | active 1, completed 10, failed 10 |
 | [sase-zr.7.1.1.5.4.land](../bbugyi200.apollo.sase-zr.7.1.1.5.4.land/README.md) | sase-zr.7.1.1 hood | waiting |
 | [sase-zr.7.1.1.5.land](../../families/bbugyi200.apollo.sase-zr.7.1.1.5.land.md) (family · 3) | sase-zr.7.1.1 hood | failed 3 |
 | [sase-zr.7.1.1.land](../../families/bbugyi200.apollo.sase-zr.7.1.1.land.md) (family · 3) | sase-zr.7.1.1 hood | failed 3 |
