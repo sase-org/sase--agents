@@ -45,7 +45,7 @@ flowchart TD
   n0 --> n17
   n18["sase-zr.7.1.1.5.4.2--6 [completed]"]
   n0 --> n18
-  n19["sase-zr.7.1.1.5.4.2--a [active]"]
+  n19["sase-zr.7.1.1.5.4.2--a [completed]"]
   n0 --> n19
   n20["sase-zr.7.1.1.5.4.2--mon-2 [failed]"]
   n0 --> n20
@@ -74,7 +74,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-5"></a>5 | sase-zr.7.1.1.5.4.2--5 | completed | gpt-5.5 / codex | 2026-09-18T20:18:42.250912+00:00 → 2026-09-18T21:45:59.619309+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.2--5/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.2--5/chat.md) |
 | <a id="member-2"></a>2 | sase-zr.7.1.1.5.4.2--2 | completed | gpt-5.5 / codex | 2026-09-18T19:24:01.177499+00:00 → 2026-09-18T19:47:44.090182+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.2--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.2--2/chat.md) |
 | <a id="member-6"></a>6 | sase-zr.7.1.1.5.4.2--6 | completed | grok-4.6 / grok | 2026-09-19T00:45:04.028040+00:00 → 2026-09-19T01:37:38.060171+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.2--6/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.2--6/chat.md) |
-| <a id="member-a"></a>a | sase-zr.7.1.1.5.4.2--a | active | grok-4.6 / grok | 2026-09-19T11:17:27.385807+00:00 | [1](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.2--a/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.2--a/prompt.md) | — |
+| <a id="member-a"></a>a | sase-zr.7.1.1.5.4.2--a | completed | grok-4.6 / grok | 2026-09-19T11:17:27.385807+00:00 → 2026-09-19T11:37:05.242057+00:00 | [1](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.2--a/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.2--a/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.2--a/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | sase-zr.7.1.1.5.4.2--mon-2 | failed | grok-4.6 / grok | 2026-09-18T19:58:17.084244+00:00 → 2026-09-18T20:03:07.529368+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.2--mon-2/chat.md) |
 
 ## Commits
@@ -89,7 +89,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-zr.7.1](bbugyi200.apollo.sase-zr.7.1.md) (family · 4) | ancestor | active 1, failed 3 |
 | [sase-zr.7.1.1.5.4.1](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.1/README.md) | sase-zr.7.1.1.5.4 hood | completed |
-| [sase-zr.7.1.1.5.4.land](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.land/README.md) | sase-zr.7.1.1.5.4 hood | waiting |
+| [sase-zr.7.1.1.5.4.land](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.land/README.md) | sase-zr.7.1.1.5.4 hood | active |
 | [sase-zr.7.1.1.5.1](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.1/README.md) | sase-zr.7.1.1.5 hood | completed |
 | [sase-zr.7.1.1.5.2](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.2/README.md) | sase-zr.7.1.1.5 hood | completed |
 | [sase-zr.7.1.1.5.3](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.3/README.md) | sase-zr.7.1.1.5 hood | completed |
@@ -99,7 +99,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-zr.7.1.1.3](../agents/bbugyi200.apollo.sase-zr.7.1.1.3/README.md) | sase-zr.7.1.1 hood | completed |
 | [sase-zr.7.1.1.4](../agents/bbugyi200.apollo.sase-zr.7.1.1.4/README.md) | sase-zr.7.1.1 hood | completed |
 | [sase-zr.7.1.1.land](bbugyi200.apollo.sase-zr.7.1.1.land.md) (family · 3) | sase-zr.7.1.1 hood | failed 3 |
-| [sase-zr.7.2](../agents/bbugyi200.apollo.sase-zr.7.2/README.md) | sase-zr.7 hood | waiting |
+| [sase-zr.7.2](../agents/bbugyi200.apollo.sase-zr.7.2/README.md) | sase-zr.7 hood | active |
 | [sase-zr.7.3](../agents/bbugyi200.apollo.sase-zr.7.3/README.md) | sase-zr.7 hood | waiting |
 | [sase-zr.7.4](../agents/bbugyi200.apollo.sase-zr.7.4/README.md) | sase-zr.7 hood | completed |
 | [sase-zr.7.5](../agents/bbugyi200.apollo.sase-zr.7.5/README.md) | sase-zr.7 hood | waiting |
