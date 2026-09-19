@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you give me some concise and numbered steps that help me delete the appropriate PyPI packages manually? See the ~/.sase/plans/202609/sase_core_pypi_size_limit.md file for context. #research
