@@ -1,0 +1,24 @@
+# Agent: 0s--plan
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [0s](../../users/bbugyi200/machines/apollo/hoods/0s/README.md) / [0s](../../families/bbugyi200.apollo.0s.md) / 0s--plan
+
+**Global name:** `bbugyi200.apollo.0s--plan` · **State:** completed · **Source run:** `run-477906c6420a1dda23a031c301188104`
+
+**Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 0s
+
+## Summary
+
+- Model: grok-4.6
+- Provider: grok
+- Timing: 2026-09-19T13:31:42.106692+00:00 → 2026-09-19T13:47:27.728982+00:00
+- Commits: 0
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [0s.f0](../bbugyi200.apollo.0s.f0/README.md) | descendant | waiting |
