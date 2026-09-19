@@ -2,34 +2,40 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5p](../../users/bbugyi200/machines/athena/hoods/toobig-5p/README.md) / toobig-5p.commit\_dispatch.0
 
-**Global name:** `bbugyi200.athena.toobig-5p.commit_dispatch.0` · **State:** waiting · **Source run:** `run-159fa016e22d243c518315982dac8362`
+**Global name:** `bbugyi200.athena.toobig-5p.commit_dispatch.0` · **State:** completed · **Source run:** `run-159fa016e22d243c518315982dac8362`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5p
 
 ## Summary
 
-- Model: grok-4.6
-- Provider: grok
-- Timing: 20260919071458
-- Commits: 0
+- Model: gpt-5.6-terra
+- Provider: codex
+- Timing: 2026-09-19T17:58:40.052759+00:00 → 2026-09-19T18:09:14.889824+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`932dead`](https://github.com/sase-org/sase/commit/932dead6f7c3ad8aa0b5205e4cee2694aa5d999f) | refactor(finalizers): split commit dispatch helpers | 2026-09-19 14:06:21 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-5p.ace\_tmux.0](../bbugyi200.athena.toobig-5p.ace_tmux.0/README.md) | toobig-5p hood | waiting |
+| [toobig-5p.ace\_tmux.0](../../families/bbugyi200.athena.toobig-5p.ace_tmux.0.md) (family · 5) | toobig-5p hood | active 1, completed 2, failed 2 |
 | [toobig-5p.agent\_runner\_slots.0](../bbugyi200.athena.toobig-5p.agent_runner_slots.0/README.md) | toobig-5p hood | completed |
-| [toobig-5p.commit\_dispatch\_followup.0](../bbugyi200.athena.toobig-5p.commit_dispatch_followup.0/README.md) | toobig-5p hood | waiting |
+| [toobig-5p.commit\_dispatch\_followup.0](../../families/bbugyi200.athena.toobig-5p.commit_dispatch_followup.0.md) (family · 3) | toobig-5p hood | completed 2, failed 1 |
 | [toobig-5p.detach.0](../bbugyi200.athena.toobig-5p.detach.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.execution.0](../bbugyi200.athena.toobig-5p.execution.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.executor.0](../bbugyi200.athena.toobig-5p.executor.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.host.0](../bbugyi200.athena.toobig-5p.host.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.platform.0](../bbugyi200.athena.toobig-5p.platform.0/README.md) | toobig-5p hood | waiting |
-| [toobig-5p.runtime\_cache.0](../bbugyi200.athena.toobig-5p.runtime_cache.0/README.md) | toobig-5p hood | active |
+| [toobig-5p.runtime\_cache.0](../bbugyi200.athena.toobig-5p.runtime_cache.0/README.md) | toobig-5p hood | completed |
 | [toobig-5p.selector.0](../bbugyi200.athena.toobig-5p.selector.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.ssh.0](../bbugyi200.athena.toobig-5p.ssh.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.store\_clone\_ops.0](../bbugyi200.athena.toobig-5p.store_clone_ops.0/README.md) | toobig-5p hood | waiting |
