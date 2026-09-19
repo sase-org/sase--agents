@@ -124,6 +124,7 @@
 | [0n8.f0.md](0n8.f0.md) | gh:gh_sase-org__sase #fork:0n8 Can you help me change this keymap from `<ctrl+g>` to | - | [bbugyi200.athena.0n8.f0](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0n8.f0/README.md) | 0 |
 | [0n8.md](0n8.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/ctrl_g_completion_selection.md][1] | - | [bbugyi200.athena.0n8--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0n8.md) | 1 |
 | [0nc.md](0nc.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0nc--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0nc.md) | 1 |
+| [0nd.md](0nd.md) | %queue(weight=1) #fork:0nd--4 %model:grok-4.6@xhigh | - | [bbugyi200.athena.0nd--5](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0nd.md) | 0 |
 | [0nf.f0.md](0nf.f0.md) | %queue(weight=1) #fork:0nf.f0--code %model:grok-4.6@xhigh | - | [bbugyi200.athena.0nf.f0--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0nf.f0.md) | 0 |
 | [0nj.md](0nj.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/remote_sudo_login_shell.md][1] | - | [bbugyi200.athena.0nj--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0nj.md) | 1 |
 | [0nk.md](0nk.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0nk--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0nk.md) | 1 |
