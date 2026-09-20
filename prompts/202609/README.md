@@ -130,6 +130,7 @@
 | [0nk.md](0nk.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0nk--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0nk.md) | 1 |
 | [0no.md](0no.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.0no--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0no.md) | 1 |
 | [0nr.md](0nr.md) | %queue(weight=1) #fork:0nr--2 %model:grok-4.6@medium | - | [bbugyi200.athena.0nr--3](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0nr.md) | 0 |
+| [0nv.f0.md](0nv.f0.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/service_git_credentials.md][1] | - | [bbugyi200.athena.0nv.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0nv.f0.md) | 1 |
 | [0nv.md](0nv.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0nv--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0nv.md) | 1 |
 | [0nx.md](0nx.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/finish_numbered_notification_tabs.md | - | [bbugyi200.athena.0nx](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0nx/README.md) | 0 |
 | [0ny.md](0ny.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0ny--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0ny.md) | 1 |
