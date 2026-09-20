@@ -24,9 +24,9 @@
 |---|---|---|
 | [sase-13t.1](../bbugyi200.apollo.sase-13t.1/README.md) | sase-13t hood | completed |
 | [sase-13t.1.f0](../bbugyi200.apollo.sase-13t.1.f0/README.md) | sase-13t hood | active |
-| [sase-13t.1.f1](../bbugyi200.apollo.sase-13t.1.f1/README.md) | sase-13t hood | active |
+| [sase-13t.1.f1](../bbugyi200.apollo.sase-13t.1.f1/README.md) | sase-13t hood | completed |
 | [sase-13t.2](../bbugyi200.apollo.sase-13t.2/README.md) | sase-13t hood | completed |
-| [sase-13t.3](../bbugyi200.apollo.sase-13t.3/README.md) | sase-13t hood | waiting |
+| [sase-13t.3](../bbugyi200.apollo.sase-13t.3/README.md) | sase-13t hood | active |
 | [sase-13t.4](../bbugyi200.apollo.sase-13t.4/README.md) | sase-13t hood | waiting |
 | [sase-13t.5](../bbugyi200.apollo.sase-13t.5/README.md) | sase-13t hood | waiting |
 | [sase-13t.6](../bbugyi200.apollo.sase-13t.6/README.md) | sase-13t hood | waiting |
