@@ -2,22 +2,17 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-11y](../../users/bbugyi200/machines/athena/hoods/sase-11y/README.md) / [sase-11y.7](../../families/bbugyi200.athena.sase-11y.7.md) / sase-11y.7--code
 
-**Global name:** `bbugyi200.athena.sase-11y.7--code` · **State:** completed · **Source run:** `run-b9554b73cfbcd029d254b97bbd0a91e0`
+**Global name:** `bbugyi200.athena.sase-11y.7--code` · **State:** active · **Source run:** `run-1cf5b651f50fe8cf32cf052f1cdb50e5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-11y
 
 ## Summary
 
 - Bead: [sase-11y.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-11y/sase-11y.7.md)
-- Epic: [sase-11y](https://github.com/sase-org/sase--beads/blob/main/pages/sase-11y/README.md)
-- Model: grok-4.6
-- Provider: grok
-- Timing: 2026-09-19T10:26:11.307934+00:00 → 2026-09-19T10:57:26.615875+00:00
+- Model: sonnet
+- Provider: claude
+- Timing: 2026-09-20T10:46:47.036865+00:00
 - Commits: 0
-
-## Files
-
-[Chat](chat.md)
 
 ## Neighbors
 
@@ -39,5 +34,5 @@
 | [sase-11y.5](../../families/bbugyi200.athena.sase-11y.5.md) (family · 7) | sase-11y hood | completed 4, failed 3 |
 | [sase-11y.6](../../families/bbugyi200.athena.sase-11y.6.md) (family · 3) | sase-11y hood | completed 2, failed 1 |
 | [sase-11y.8](../bbugyi200.athena.sase-11y.8/README.md) | sase-11y hood | waiting |
-| [sase-11y.9](../bbugyi200.athena.sase-11y.9/README.md) | sase-11y hood | active |
+| [sase-11y.9](../bbugyi200.athena.sase-11y.9/README.md) | sase-11y hood | completed |
 | [sase-11y.land](../bbugyi200.athena.sase-11y.land/README.md) | sase-11y hood | waiting |

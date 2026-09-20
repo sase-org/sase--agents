@@ -1,16 +1,16 @@
 # Chat History - ace-run (sase-11y.7--plan)
 
-- **TIMESTAMP:** 2026-09-19 06:25:53 EDT
-- **MODEL:** grok/grok-4.6
+- **TIMESTAMP:** 2026-09-20 06:46:30 EDT
+- **MODEL:** claude/opus
 - **AGENT:** sase-11y.7--plan
 
-**Plan:** /home/bryan/.sase/plans/202609/services_tab_closure.md
+**Plan:** /home/bryan/.sase/plans/202609/services_tab_phase_closure.md
 
 
 ## Prompt
 
-#gh:gh_sase-org__sase
 %id(7, clan=sase-11y, bead=sase-11y.7)
+#gh:gh_sase-org__sase
 %model:@large
 %auto
 %w(bead=sase-11y.2)
@@ -38,18 +38,18 @@ before making any file changes.
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202609/services_tab_closure.md`
+**Plan file:** `/home/bryan/.sase/plans/202609/services_tab_phase_closure.md`
 
-> - **PARENT:** [202609/service_host_1.md](202609/service_host_1.md)
 > - **BEAD:** sase-11y.7
-> # Plan: Close the remaining Services tab contract
+> # Plan: Finish and close the Services tab phase
 > ## Outcome
-> `sase-11y.7` already has a landed first pass (`plan:202609/services_tab.md`, commit
-> `c2befdb`): the tab label is Services, `--tab services` aliases canonical `axe`,
-> `--no-service`/`--restart-service` exist, configured daemon procs render with the
-> scheduler's routine/job tree nested under it, and CLI/TUI share
-> `src/sase/service/actions.py`. This tale does **not** rebuild that surface. It closes
-> the phase by finishing the remaining user-visible contract, the idle-refresh probe, the
+> `sase-11y.7` ("Services tab in the TUI") has a landed first pass from
+> `plan:202609/services_tab.md` (commit `c2befdb`) and a landing-gate key-routing repair
+> from `plan:202609/landing_gate_test_failures_1.md` (commit `7b4cd80f`). A follow-up
+> tale, `plan:202609/services_tab_closure.md`, was approved but never implemented — its
+> worker did not land any of its seven steps. This tale re-states that remaining work
+> against the tree as it actually stands today, corrects the parts of that plan that went
+> stale, finishes the phase contract, and closes `sase-11y.7`.
 
 *See full plan file for details.*
 
