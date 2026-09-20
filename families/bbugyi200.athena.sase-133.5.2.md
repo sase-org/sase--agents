@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-133.5.2--gate | failed | opus / claude | 2026-09-20T10:41:50.177820+00:00 → 2026-09-20T10:42:05.364365+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-133.5.2--gate/chat.md) |
-| <a id="member-code"></a>code | sase-133.5.2--code | active | sonnet / claude | 2026-09-20T10:42:22.933700+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-133.5.2--code | active | sonnet / claude | 2026-09-20T10:42:22.933700+00:00 | [1](../agents/bbugyi200.athena.sase-133.5.2--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-133.5.2--plan | active | opus / claude | 2026-09-20T10:34:12.397001+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-133.5.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-133.5.2--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`2631449`](https://github.com/sase-org/sase/commit/263144991496900af018d7470257dc841555d873) | feat(fleet): carry owner presentation facts through the viewer catalog adapter | 2026-09-20 08:17:33 EDT |
 
 ## Neighbors
 

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-66747c57265b2d7f7905762839fb90e0"}
+{"commits":[{"committed_at":1789906653,"sha":"263144991496900af018d7470257dc841555d873","subject":"feat(fleet): carry owner presentation facts through the viewer catalog adapter"}],"schema_version":2,"source_run_id":"run-66747c57265b2d7f7905762839fb90e0"}

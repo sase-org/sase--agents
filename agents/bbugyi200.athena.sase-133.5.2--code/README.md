@@ -12,7 +12,13 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-09-20T10:42:22.933700+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`2631449`](https://github.com/sase-org/sase/commit/263144991496900af018d7470257dc841555d873) | feat(fleet): carry owner presentation facts through the viewer catalog adapter | 2026-09-20 08:17:33 EDT |
 
 ## Neighbors
 
