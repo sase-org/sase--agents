@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-14l](../../users/bbugyi200/machines/apollo/hoods/sase-14l/README.md) / sase-14l.2
 
-**Global name:** `bbugyi200.apollo.sase-14l.2` · **State:** active · **Source run:** `run-7d7ebb205d39a876eea16030f675c76b`
+**Global name:** `bbugyi200.apollo.sase-14l.2` · **State:** completed · **Source run:** `run-7d7ebb205d39a876eea16030f675c76b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-14l
 
@@ -12,12 +12,12 @@
 - Epic: [sase-14l](https://github.com/sase-org/sase--beads/blob/main/pages/sase-14l/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-20T21:17:38.326676+00:00
+- Timing: 2026-09-20T21:17:38.326676+00:00 → 2026-09-20T22:45:31.758726+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -30,5 +30,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-14l.1](../bbugyi200.apollo.sase-14l.1/README.md) | sase-14l hood | completed |
-| [sase-14l.3](../bbugyi200.apollo.sase-14l.3/README.md) | sase-14l hood | waiting |
+| [sase-14l.3](../bbugyi200.apollo.sase-14l.3/README.md) | sase-14l hood | active |
 | [sase-14l.land](../bbugyi200.apollo.sase-14l.land/README.md) | sase-14l hood | waiting |

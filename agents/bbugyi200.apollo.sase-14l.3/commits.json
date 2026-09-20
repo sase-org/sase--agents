@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7c241658c610e6a960a15c3533354ed3"}
+{"commits":[{"committed_at":1789948156,"sha":"383f2c282791436ddcdf08d7ce9cb57604a7fd58","subject":"feat(agents): add unread projection for settlement notifications"}],"schema_version":2,"source_run_id":"run-7c241658c610e6a960a15c3533354ed3"}
