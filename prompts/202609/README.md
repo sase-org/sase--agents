@@ -137,6 +137,7 @@
 | [0o.f0.md](0o.f0.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/size_alias_effort_ladder.md][1] | - | [bbugyi200.apollo.0o.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.0o.f0.md) | 1 |
 | [0o1.md](0o1.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0o1--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0o1.md) | 1 |
 | [0o3.md](0o3.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/agents_jump_hint_rows.md][1] | - | [bbugyi200.athena.0o3--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0o3.md) | 1 |
+| [0o4.md](0o4.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0o4--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0o4.md) | 1 |
 | [0q.f0.md](0q.f0.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/fix_portable_zsh_paths.md][1] | - | [bbugyi200.kellys_mbp.0q.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.kellys_mbp.0q.f0.md) | 1 |
 | [0r.md](0r.md) | gh:gh_sase-org__sase Can you explain to me why the sase-11e.8.6.5 epic bead's | - | [bbugyi200.kellys_mbp.0r](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.0r/README.md) | 0 |
 | [0s.md](0s.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/tui_default_effort_indicator.md][1] | - | [bbugyi200.apollo.0s--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.0s.md) | 1 |
