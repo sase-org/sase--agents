@@ -154,6 +154,7 @@
 | [15.md](15.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/muse_reply_delta_chunking.md][1] | - | [bbugyi200.apollo.15--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.15.md) | 1 |
 | [15.w0.md](15.w0.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.apollo.15.w0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.15.w0.md) | 1 |
 | [16.md](16.md) | gh:gh_sase-org__sase Can you do some research to help me determine what caused / is | - | [bbugyi200.kellys_mbp.16](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.16/README.md) | 0 |
+| [1b.md](1b.md) | %queue(weight=1) #fork:1b--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.1b--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.1b.md) | 0 |
 | [1m.md](1m.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.1m--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.1m.md) | 1 |
 | [30.md](30.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/memory_batch_read_file_counts.md | - | [bbugyi200.athena.30](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.30/README.md) | 0 |
 | [3u.md](3u.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/poseidon_cargo_retention.md][1] | - | [bbugyi200.athena.3u--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.3u.md) | 1 |
