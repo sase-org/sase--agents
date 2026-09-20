@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789922495,"sha":"686851c9e3db8c489e4e4259c7411bed07e6a5f4","subject":"fix(tui): record grouping mode on collapsed panels so applies stay incremental"}],"schema_version":2,"source_run_id":"run-448c54689de4798d11abb38651c47a52"}
