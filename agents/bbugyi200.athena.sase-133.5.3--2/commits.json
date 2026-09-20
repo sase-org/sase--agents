@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789828907,"sha":"ad0670d959f0379f2ce948030a5e21ce1f6950e2","subject":"fix(dispatch): compare fleet-data versions instead of capability schema"}],"schema_version":2,"source_run_id":"run-55dfecf29ca4fd1497cd88fa6f47491a"}

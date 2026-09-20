@@ -12,7 +12,7 @@
 - Epic: [sase-133.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-133/sase-133.5.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-19T12:45:31.802876+00:00 → 2026-09-19T13:31:53.367321+00:00
+- Timing: 2026-09-19T12:45:31.802876+00:00 → 2026-09-19T13:50:39.235194+00:00
 - Commits: 0
 
 ## Files
@@ -23,7 +23,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-133.5.1](../../families/bbugyi200.athena.sase-133.5.1.md) (family · 3) | sase-133.5 hood | active 2, failed 1 |
+| [sase-133.5.1](../../families/bbugyi200.athena.sase-133.5.1.md) (family · 7) | sase-133.5 hood | completed 4, failed 3 |
+| [sase-133.5.2](../../families/bbugyi200.athena.sase-133.5.2.md) (family · 3) | sase-133.5 hood | active 2, failed 1 |
 | [sase-133.5.2](../bbugyi200.athena.sase-133.5.2/README.md) | sase-133.5 hood | waiting |
 | [sase-133.5.4](../bbugyi200.athena.sase-133.5.4/README.md) | sase-133.5 hood | waiting |
 | [sase-133.5.land](../bbugyi200.athena.sase-133.5.land/README.md) | sase-133.5 hood | waiting |
