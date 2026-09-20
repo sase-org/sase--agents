@@ -54,7 +54,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-135.2](../agents/bbugyi200.athena.sase-135.2/README.md) | sase-135 hood | completed |
 | [sase-135.3](../agents/bbugyi200.athena.sase-135.3/README.md) | sase-135 hood | completed |
 | [sase-135.4](../agents/bbugyi200.athena.sase-135.4/README.md) | sase-135 hood | completed |
-| [sase-135.5](../agents/bbugyi200.athena.sase-135.5/README.md) | sase-135 hood | waiting |
-| [sase-135.6](../agents/bbugyi200.athena.sase-135.6/README.md) | sase-135 hood | waiting |
-| [sase-135.7](../agents/bbugyi200.athena.sase-135.7/README.md) | sase-135 hood | waiting |
-| [sase-135.land](../agents/bbugyi200.athena.sase-135.land/README.md) | sase-135 hood | waiting |
+| [sase-135.5](../agents/bbugyi200.athena.sase-135.5/README.md) | sase-135 hood | completed |
+| [sase-135.6](../agents/bbugyi200.athena.sase-135.6/README.md) | sase-135 hood | completed |
+| [sase-135.7](bbugyi200.athena.sase-135.7.md) (family · 3) | sase-135 hood | completed 2, failed 1 |
+| [sase-135.land](../agents/bbugyi200.athena.sase-135.land/README.md) | sase-135 hood | active |

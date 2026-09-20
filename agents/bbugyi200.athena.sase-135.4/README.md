@@ -32,7 +32,7 @@
 | [sase-135.1](../../families/bbugyi200.athena.sase-135.1.md) (family · 9) | sase-135 hood | completed 5, failed 4 |
 | [sase-135.2](../bbugyi200.athena.sase-135.2/README.md) | sase-135 hood | completed |
 | [sase-135.3](../bbugyi200.athena.sase-135.3/README.md) | sase-135 hood | completed |
-| [sase-135.5](../bbugyi200.athena.sase-135.5/README.md) | sase-135 hood | waiting |
-| [sase-135.6](../bbugyi200.athena.sase-135.6/README.md) | sase-135 hood | waiting |
-| [sase-135.7](../bbugyi200.athena.sase-135.7/README.md) | sase-135 hood | waiting |
-| [sase-135.land](../bbugyi200.athena.sase-135.land/README.md) | sase-135 hood | waiting |
+| [sase-135.5](../bbugyi200.athena.sase-135.5/README.md) | sase-135 hood | completed |
+| [sase-135.6](../bbugyi200.athena.sase-135.6/README.md) | sase-135 hood | completed |
+| [sase-135.7](../../families/bbugyi200.athena.sase-135.7.md) (family · 3) | sase-135 hood | completed 2, failed 1 |
+| [sase-135.land](../bbugyi200.athena.sase-135.land/README.md) | sase-135 hood | active |
