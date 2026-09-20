@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `15` · Members: 3
 ```mermaid
 flowchart TD
   n0["15--plan [completed]"]
-  n1["15--code [active]"]
+  n1["15--code [completed]"]
   n0 --> n1
   n2["15--gate [failed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | 15--plan | completed | opus / claude | 2026-09-20T15:28:05.846499+00:00 → 2026-09-20T15:33:38.598436+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.15--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.15--plan/chat.md) |
-| <a id="member-code"></a>code | 15--code | active | sonnet / claude | 2026-09-20T15:34:29.763680+00:00 | [1](../agents/bbugyi200.apollo.15--code/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.15--code/prompt.md) | — |
+| <a id="member-code"></a>code | 15--code | completed | sonnet / claude | 2026-09-20T15:34:29.763680+00:00 → 2026-09-20T17:27:29.198174+00:00 | [1](../agents/bbugyi200.apollo.15--code/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.15--code/prompt.md) | [Chat](../agents/bbugyi200.apollo.15--code/chat.md) |
 | <a id="member-gate"></a>gate | 15--gate | failed | opus / claude | 2026-09-20T15:34:00.131496+00:00 → 2026-09-20T15:34:24.580440+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.15--gate/chat.md) |
 
 ## Commits
@@ -35,4 +35,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [15.cdx.f1](../agents/bbugyi200.apollo.15.cdx.f1/README.md) | descendant | completed |
 | [15.cdx.f1.w1](../agents/bbugyi200.apollo.15.cdx.f1.w1/README.md) | descendant | completed |
-| [15.w0](../agents/bbugyi200.apollo.15.w0/README.md) | descendant | waiting |
+| [15.w0](bbugyi200.apollo.15.w0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |

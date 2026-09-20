@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [15](../../users/bbugyi200/machines/apollo/hoods/15/README.md) / [15](../../families/bbugyi200.apollo.15.md) / 15--code
 
-**Global name:** `bbugyi200.apollo.15--code` · **State:** active · **Source run:** `run-5097b032166d421da33b6d183288cfbd`
+**Global name:** `bbugyi200.apollo.15--code` · **State:** completed · **Source run:** `run-5097b032166d421da33b6d183288cfbd`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 15
 
@@ -10,12 +10,12 @@
 
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-20T15:34:29.763680+00:00
+- Timing: 2026-09-20T15:34:29.763680+00:00 → 2026-09-20T17:27:29.198174+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,4 +29,4 @@
 |---|---|---|
 | [15.cdx.f1](../bbugyi200.apollo.15.cdx.f1/README.md) | descendant | completed |
 | [15.cdx.f1.w1](../bbugyi200.apollo.15.cdx.f1.w1/README.md) | descendant | completed |
-| [15.w0](../bbugyi200.apollo.15.w0/README.md) | descendant | waiting |
+| [15.w0](../../families/bbugyi200.apollo.15.w0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |

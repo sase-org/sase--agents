@@ -25,5 +25,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [15.cdx.f1](../bbugyi200.apollo.15.cdx.f1/README.md) | ancestor | completed |
-| [15](../../families/bbugyi200.apollo.15.md) (family · 3) | ancestor | active 1, completed 1, failed 1 |
-| [15.w0](../bbugyi200.apollo.15.w0/README.md) | 15 hood | waiting |
+| [15](../../families/bbugyi200.apollo.15.md) (family · 3) | ancestor | completed 2, failed 1 |
+| [15.w0](../../families/bbugyi200.apollo.15.w0.md) (family · 3) | 15 hood | active 1, completed 1, failed 1 |
