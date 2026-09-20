@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789925892,"sha":"8ae9ac1eab989fdb28e88d1bd09769cc5fb4ab56","subject":"fix(tui): retire Agents-tab tribe panels when their last node is dismissed"}],"schema_version":2,"source_run_id":"run-94c0ef62d0092c8300fbcc2c58932819"}
