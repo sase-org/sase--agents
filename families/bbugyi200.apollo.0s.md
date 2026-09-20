@@ -8,8 +8,8 @@ Owner: `bbugyi200.apollo` · Hood: `0s` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["0s--code [active]"]
-  n1["0s--plan [completed]"]
+  n0["0s--code [completed]"]
+  n1["0s--plan [active]"]
   n0 --> n1
   n2["0s--gate [failed]"]
   n0 --> n2
@@ -19,8 +19,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 0s--code | active | grok-4.6 / grok | 2026-09-19T13:48:06.577808+00:00 | [1](../agents/bbugyi200.apollo.0s--code/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.0s--code/prompt.md) | — |
-| <a id="member-plan"></a>plan | 0s--plan | completed | grok-4.6 / grok | 2026-09-19T13:31:42.106692+00:00 → 2026-09-19T13:47:27.728982+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.0s--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.0s--plan/chat.md) |
+| <a id="member-code"></a>code | 0s--code | completed | grok-4.6 / grok | 2026-09-19T13:48:06.577808+00:00 → 2026-09-19T15:15:42.697826+00:00 | [1](../agents/bbugyi200.apollo.0s--code/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.0s--code/prompt.md) | [Chat](../agents/bbugyi200.apollo.0s--code/chat.md) |
+| <a id="member-plan"></a>plan | 0s--plan | active | grok-4.6 / grok | 2026-09-19T13:31:42.106692+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.0s--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.0s--plan/chat.md) |
 | <a id="member-gate"></a>gate | 0s--gate | failed | grok-4.6 / grok | 2026-09-19T13:47:45.062389+00:00 → 2026-09-19T13:48:01.425507+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.0s--gate/chat.md) |
 
 ## Commits
@@ -36,4 +36,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
+| [0s.f0](bbugyi200.apollo.0s.f0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |
 | [0s.f0](../agents/bbugyi200.apollo.0s.f0/README.md) | descendant | waiting |
+| [0s.f0.f0](../agents/bbugyi200.apollo.0s.f0.f0/README.md) | descendant | waiting |

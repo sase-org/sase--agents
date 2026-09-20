@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [0s](../../users/bbugyi200/machines/apollo/hoods/0s/README.md) / [0s](../../families/bbugyi200.apollo.0s.md) / 0s--code
 
-**Global name:** `bbugyi200.apollo.0s--code` · **State:** active · **Source run:** `run-331c9e735102fb6ebabfbde2a007e933`
+**Global name:** `bbugyi200.apollo.0s--code` · **State:** completed · **Source run:** `run-331c9e735102fb6ebabfbde2a007e933`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 0s
 
@@ -10,12 +10,12 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-19T13:48:06.577808+00:00
+- Timing: 2026-09-19T13:48:06.577808+00:00 → 2026-09-19T15:15:42.697826+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,4 +27,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
+| [0s.f0](../../families/bbugyi200.apollo.0s.f0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |
 | [0s.f0](../bbugyi200.apollo.0s.f0/README.md) | descendant | waiting |
+| [0s.f0.f0](../bbugyi200.apollo.0s.f0.f0/README.md) | descendant | waiting |
