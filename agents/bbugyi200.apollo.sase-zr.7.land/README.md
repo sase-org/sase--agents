@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-zr](../../users/bbugyi200/machines/apollo/hoods/sase-zr/README.md) / sase-zr.7.land
 
-**Global name:** `bbugyi200.apollo.sase-zr.7.land` · **State:** waiting · **Source run:** `run-8983020605591a6b0bfcd1c1f8dc3ba8`
+**Global name:** `bbugyi200.apollo.sase-zr.7.land` · **State:** waiting · **Source run:** `run-18a2dd6f7305f1948145880f71aabd60`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-zr
 
@@ -11,7 +11,7 @@
 - Bead: [sase-zr.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zr/sase-zr.7.md)
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20260916142642
+- Timing: 20260920062342
 - Commits: 0
 
 ## Files
@@ -35,8 +35,8 @@
 | [sase-zr.7.1.1.5.4.land](../bbugyi200.apollo.sase-zr.7.1.1.5.4.land/README.md) | sase-zr.7 hood | completed |
 | [sase-zr.7.1.1.5.land](../../families/bbugyi200.apollo.sase-zr.7.1.1.5.land.md) (family · 3) | sase-zr.7 hood | failed 3 |
 | [sase-zr.7.1.1.land](../../families/bbugyi200.apollo.sase-zr.7.1.1.land.md) (family · 3) | sase-zr.7 hood | failed 3 |
-| [sase-zr.7.2](../../families/bbugyi200.apollo.sase-zr.7.2.md) (family · 3) | sase-zr.7 hood | active 1, completed 1, failed 1 |
-| [sase-zr.7.3](../bbugyi200.apollo.sase-zr.7.3/README.md) | sase-zr.7 hood | waiting |
+| [sase-zr.7.2](../../families/bbugyi200.apollo.sase-zr.7.2.md) (family · 3) | sase-zr.7 hood | completed 2, failed 1 |
+| [sase-zr.7.3](../bbugyi200.apollo.sase-zr.7.3/README.md) | sase-zr.7 hood | active |
 | [sase-zr.7.4](../bbugyi200.apollo.sase-zr.7.4/README.md) | sase-zr.7 hood | completed |
 | [sase-zr.7.5](../bbugyi200.apollo.sase-zr.7.5/README.md) | sase-zr.7 hood | waiting |
 | [sase-zr.1](../../families/bbugyi200.apollo.sase-zr.1.md) (family · 5) | sase-zr hood | active 5 |

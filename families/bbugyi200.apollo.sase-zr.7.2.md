@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `sase-zr` · Members: 3 · Bead: [sase-zr.7.2
 
 ```mermaid
 flowchart TD
-  n0["sase-zr.7.2--1 [active]"]
+  n0["sase-zr.7.2--1 [completed]"]
   n1["sase-zr.7.2--mon [failed]"]
   n0 --> n1
   n2["sase-zr.7.2--plan [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-zr.7.2--1 | active | grok-4.6 / grok | 2026-09-19T15:35:09.558759+00:00 | [1](../agents/bbugyi200.apollo.sase-zr.7.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-zr.7.2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-zr.7.2--1 | completed | grok-4.6 / grok | 2026-09-19T15:35:09.558759+00:00 → 2026-09-19T16:58:16.609808+00:00 | [1](../agents/bbugyi200.apollo.sase-zr.7.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-zr.7.2--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-zr.7.2--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-zr.7.2--mon | failed | grok-4.6 / grok | 2026-09-19T15:02:14.956673+00:00 → 2026-09-19T15:35:09.610737+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-zr.7.2--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-zr.7.2--plan | completed | grok-4.6 / grok | 2026-09-19T12:03:24.089175+00:00 → 2026-09-19T15:02:49.672208+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-zr.7.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-zr.7.2--plan/chat.md) |
 
@@ -46,7 +46,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-zr.7.1.1.5.4.land](../agents/bbugyi200.apollo.sase-zr.7.1.1.5.4.land/README.md) | sase-zr.7 hood | completed |
 | [sase-zr.7.1.1.5.land](bbugyi200.apollo.sase-zr.7.1.1.5.land.md) (family · 3) | sase-zr.7 hood | failed 3 |
 | [sase-zr.7.1.1.land](bbugyi200.apollo.sase-zr.7.1.1.land.md) (family · 3) | sase-zr.7 hood | failed 3 |
-| [sase-zr.7.3](../agents/bbugyi200.apollo.sase-zr.7.3/README.md) | sase-zr.7 hood | waiting |
+| [sase-zr.7.3](../agents/bbugyi200.apollo.sase-zr.7.3/README.md) | sase-zr.7 hood | active |
 | [sase-zr.7.4](../agents/bbugyi200.apollo.sase-zr.7.4/README.md) | sase-zr.7 hood | completed |
 | [sase-zr.7.5](../agents/bbugyi200.apollo.sase-zr.7.5/README.md) | sase-zr.7 hood | waiting |
 | [sase-zr.7.land](../agents/bbugyi200.apollo.sase-zr.7.land/README.md) | sase-zr.7 hood | waiting |

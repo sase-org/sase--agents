@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-zr](../../users/bbugyi200/machines/apollo/hoods/sase-zr/README.md) / sase-zr.7.3
 
-**Global name:** `bbugyi200.apollo.sase-zr.7.3` · **State:** waiting · **Source run:** `run-e91feaa75882b7f8d1cdf7bc53f62a69`
+**Global name:** `bbugyi200.apollo.sase-zr.7.3` · **State:** active · **Source run:** `run-34803997b5740a4bca452e7d7f565aad`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-zr
 
@@ -12,12 +12,18 @@
 - Epic: [sase-zr.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zr/sase-zr.7.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 20260916142640
-- Commits: 0
+- Timing: 2026-09-20T10:23:56.693785+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`244442e`](https://github.com/sase-org/sase/commit/244442ee8160fe0bf059518a910cf87a58872a1c) | feat(ace): exact off-loop gate refresh and failure recovery actions | 2026-09-20 07:05:12 EDT |
 
 ## Neighbors
 
@@ -36,7 +42,7 @@
 | [sase-zr.7.1.1.5.4.land](../bbugyi200.apollo.sase-zr.7.1.1.5.4.land/README.md) | sase-zr.7 hood | completed |
 | [sase-zr.7.1.1.5.land](../../families/bbugyi200.apollo.sase-zr.7.1.1.5.land.md) (family · 3) | sase-zr.7 hood | failed 3 |
 | [sase-zr.7.1.1.land](../../families/bbugyi200.apollo.sase-zr.7.1.1.land.md) (family · 3) | sase-zr.7 hood | failed 3 |
-| [sase-zr.7.2](../../families/bbugyi200.apollo.sase-zr.7.2.md) (family · 3) | sase-zr.7 hood | active 1, completed 1, failed 1 |
+| [sase-zr.7.2](../../families/bbugyi200.apollo.sase-zr.7.2.md) (family · 3) | sase-zr.7 hood | completed 2, failed 1 |
 | [sase-zr.7.4](../bbugyi200.apollo.sase-zr.7.4/README.md) | sase-zr.7 hood | completed |
 | [sase-zr.7.5](../bbugyi200.apollo.sase-zr.7.5/README.md) | sase-zr.7 hood | waiting |
 | [sase-zr.7.land](../bbugyi200.apollo.sase-zr.7.land/README.md) | sase-zr.7 hood | waiting |
