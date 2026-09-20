@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-391d6970546139b78c6f6501a81c498b"}
+{"commits":[{"committed_at":1789933670,"sha":"7442af7afc8be0f547f6337c756cb296fabf833c","subject":"feat(tui): insert arriving agent rows in place and settle the column in one frame"}],"schema_version":2,"source_run_id":"run-391d6970546139b78c6f6501a81c498b"}
