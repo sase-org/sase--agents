@@ -139,6 +139,7 @@
 | [0o3.md](0o3.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/agents_jump_hint_rows.md][1] | - | [bbugyi200.athena.0o3--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0o3.md) | 1 |
 | [0o4.md](0o4.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0o4--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0o4.md) | 1 |
 | [0o5.md](0o5.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/provider_teardown_stall_watchdog.md | - | [bbugyi200.athena.0o5](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0o5/README.md) | 0 |
+| [0o9.md](0o9.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/service_proc_gear.md][1] | - | [bbugyi200.athena.0o9--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0o9.md) | 1 |
 | [0og.md](0og.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.0og--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0og.md) | 1 |
 | [0q.f0.md](0q.f0.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/fix_portable_zsh_paths.md][1] | - | [bbugyi200.kellys_mbp.0q.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.kellys_mbp.0q.f0.md) | 1 |
 | [0r.md](0r.md) | gh:gh_sase-org__sase Can you explain to me why the sase-11e.8.6.5 epic bead's | - | [bbugyi200.kellys_mbp.0r](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.0r/README.md) | 0 |
