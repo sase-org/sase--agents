@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e43ec8abaa979312a77fbc9e425d1408"}
+{"commits":[{"committed_at":1789925766,"sha":"9316a24e5b05016e0819c9f3a5e687a84f878d99","subject":"feat(service): run ! background commands as transient oneshot service procs"}],"schema_version":2,"source_run_id":"run-e43ec8abaa979312a77fbc9e425d1408"}

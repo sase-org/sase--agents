@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c73d8091bf89ec0c1aa2c1794d57c85b"}
+{"commits":[{"committed_at":1789929633,"sha":"9a99238cdf0e9e415575f5b11559cdb2f29c59c2","subject":"feat(notifications): add ace.notification_rules config and Python delivery facade"}],"schema_version":2,"source_run_id":"run-c73d8091bf89ec0c1aa2c1794d57c85b"}
