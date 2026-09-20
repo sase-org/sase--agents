@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789919812,"sha":"307872298758714d7882bbc3f05c91167818e35e","subject":"fix(tui): keep the JUMP footer through footer-only refreshes and cover hint painting"}],"schema_version":2,"source_run_id":"run-a7cc2bd9841e114642979a82350fb2d9"}
