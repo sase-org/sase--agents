@@ -1279,7 +1279,7 @@
 | [sase-13l](hoods/sase-13l/README.md) | 1 | 0 | active 1 |
 | [sase-142](hoods/sase-142/README.md) | 5 | 0 | active 1, completed 3, waiting 1 |
 | [sase-14c](hoods/sase-14c/README.md) | 4 | 0 | active 1, completed 2, waiting 1 |
-| [sase-14d](hoods/sase-14d/README.md) | 7 | 0 | active 1, completed 4, waiting 2 |
+| [sase-14d](hoods/sase-14d/README.md) | 7 | 0 | active 1, completed 6 |
 | [sase-44](hoods/sase-44/README.md) | 7 | 0 | completed 7 |
 | [sase-45](hoods/sase-45/README.md) | 9 | 0 | completed 9 |
 | [sase-46](hoods/sase-46/README.md) | 6 | 0 | completed 6 |

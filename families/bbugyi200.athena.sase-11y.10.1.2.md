@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-11y.10.1.2--gate | failed | opus / claude | 2026-09-20T18:37:55.763620+00:00 → 2026-09-20T18:38:27.985076+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11y.10.1.2--gate/chat.md) |
-| <a id="member-code"></a>code | sase-11y.10.1.2--code | active | sonnet / claude | 2026-09-20T18:38:49.242096+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-11y.10.1.2--code | active | sonnet / claude | 2026-09-20T18:38:49.242096+00:00 | [1](../agents/bbugyi200.athena.sase-11y.10.1.2--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-11y.10.1.2--plan | active | opus / claude | 2026-09-20T18:26:05.139539+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11y.10.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11y.10.1.2--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`ef99009`](https://github.com/sase-org/sase/commit/ef990099089ba524972140bd4268631e11c74b29) | refactor(service): remove the service\_host beta flag and its Off branches | 2026-09-20 17:08:43 EDT |
 
 ## Neighbors
 

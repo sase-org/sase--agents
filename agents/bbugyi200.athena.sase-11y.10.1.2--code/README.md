@@ -13,7 +13,13 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-09-20T18:38:49.242096+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ef99009`](https://github.com/sase-org/sase/commit/ef990099089ba524972140bd4268631e11c74b29) | refactor(service): remove the service\_host beta flag and its Off branches | 2026-09-20 17:08:43 EDT |
 
 ## Neighbors
 
