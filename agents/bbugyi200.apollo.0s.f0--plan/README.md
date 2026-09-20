@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [0s](../../families/bbugyi200.apollo.0s.md) (family · 3) | ancestor | active 1, completed 1, failed 1 |
-| [0s.f0.f0](../bbugyi200.apollo.0s.f0.f0/README.md) | descendant | waiting |
+| [0s.f0.f0](../bbugyi200.apollo.0s.f0.f0/README.md) | descendant | active |

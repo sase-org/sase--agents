@@ -15,7 +15,7 @@
 | [0l](hoods/0l/README.md) | 1 | 0 | active 1 |
 | [0n](hoods/0n/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0o](hoods/0o/README.md) | 16 | 2 | active 2, completed 6, failed 8 |
-| [0s](hoods/0s/README.md) | 8 | 2 | active 2, completed 2, failed 2, waiting 2 |
+| [0s](hoods/0s/README.md) | 8 | 2 | active 3, completed 2, failed 2, waiting 1 |
 | [0u](hoods/0u/README.md) | 1 | 0 | active 1 |
 | [0w](hoods/0w/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0y](hoods/0y/README.md) | 1 | 0 | active 1 |
@@ -34,7 +34,7 @@
 | [sase-10j](hoods/sase-10j/README.md) | 4 | 0 | active 1, completed 2, waiting 1 |
 | [sase-12o](hoods/sase-12o/README.md) | 8 | 1 | active 1, completed 5, failed 2 |
 | [sase-12y](hoods/sase-12y/README.md) | 18 | 3 | active 1, completed 8, failed 8, waiting 1 |
-| [sase-13t](hoods/sase-13t/README.md) | 9 | 0 | active 2, completed 5, waiting 2 |
+| [sase-13t](hoods/sase-13t/README.md) | 9 | 0 | active 2, completed 7 |
 | [sase-w3](hoods/sase-w3/README.md) | 15 | 5 | active 2, completed 8, failed 4, waiting 1 |
 | [sase-w8](hoods/sase-w8/README.md) | 8 | 1 | completed 5, failed 3 |
 | [sase-wm](hoods/sase-wm/README.md) | 8 | 2 | completed 7, failed 1 |

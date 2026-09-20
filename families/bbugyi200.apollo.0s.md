@@ -38,4 +38,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [0s.f0](bbugyi200.apollo.0s.f0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |
 | [0s.f0](../agents/bbugyi200.apollo.0s.f0/README.md) | descendant | waiting |
-| [0s.f0.f0](../agents/bbugyi200.apollo.0s.f0.f0/README.md) | descendant | waiting |
+| [0s.f0.f0](../agents/bbugyi200.apollo.0s.f0.f0/README.md) | descendant | active |

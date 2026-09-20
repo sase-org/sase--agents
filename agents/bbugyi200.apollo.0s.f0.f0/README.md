@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [0s](../../users/bbugyi200/machines/apollo/hoods/0s/README.md) / 0s.f0.f0
 
-**Global name:** `bbugyi200.apollo.0s.f0.f0` · **State:** waiting · **Source run:** `run-4eb7a515276ecea2e40d8df66446dcf2`
+**Global name:** `bbugyi200.apollo.0s.f0.f0` · **State:** active · **Source run:** `run-4eb7a515276ecea2e40d8df66446dcf2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 0s
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20260920084923
+- Timing: 2026-09-20T19:41:41.281494+00:00
 - Commits: 0
 
 ## Files
