@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-18a2dd6f7305f1948145880f71aabd60"}
+{"commits":[{"committed_at":1789923414,"sha":"24cbeb8826eadbd4227e1f7c61314c04f4dfd907","subject":"docs(notifications): record before/after latency evidence for the two gate-refresh paths"}],"schema_version":2,"source_run_id":"run-ad6ee7574f0d853f23a9d4530cbed85b"}

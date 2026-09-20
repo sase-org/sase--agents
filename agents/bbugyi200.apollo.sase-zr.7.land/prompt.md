@@ -1,5 +1,5 @@
-#gh:gh_sase-org__sase
 %id(land, clan=sase-zr.7, bead=sase-zr.7)
+#gh:gh_sase-org__sase
 %model:@xlarge
 %auto
 %w:sase-zr.7.3,sase-zr.7.5

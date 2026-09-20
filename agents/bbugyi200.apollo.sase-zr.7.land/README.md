@@ -2,21 +2,27 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-zr](../../users/bbugyi200/machines/apollo/hoods/sase-zr/README.md) / sase-zr.7.land
 
-**Global name:** `bbugyi200.apollo.sase-zr.7.land` · **State:** waiting · **Source run:** `run-18a2dd6f7305f1948145880f71aabd60`
+**Global name:** `bbugyi200.apollo.sase-zr.7.land` · **State:** active · **Source run:** `run-ad6ee7574f0d853f23a9d4530cbed85b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-zr
 
 ## Summary
 
 - Bead: [sase-zr.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zr/sase-zr.7.md)
-- Model: claude-fable-5
+- Model: opus
 - Provider: claude
-- Timing: 20260920062342
-- Commits: 0
+- Timing: 2026-09-20T13:42:37.385056+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`24cbeb8`](https://github.com/sase-org/sase/commit/24cbeb8826eadbd4227e1f7c61314c04f4dfd907) | docs(notifications): record before/after latency evidence for the two gate-refresh paths | 2026-09-20 12:56:54 EDT |
 
 ## Neighbors
 
@@ -38,7 +44,7 @@
 | [sase-zr.7.2](../../families/bbugyi200.apollo.sase-zr.7.2.md) (family · 3) | sase-zr.7 hood | completed 2, failed 1 |
 | [sase-zr.7.3](../bbugyi200.apollo.sase-zr.7.3/README.md) | sase-zr.7 hood | completed |
 | [sase-zr.7.4](../bbugyi200.apollo.sase-zr.7.4/README.md) | sase-zr.7 hood | completed |
-| [sase-zr.7.5](../bbugyi200.apollo.sase-zr.7.5/README.md) | sase-zr.7 hood | active |
+| [sase-zr.7.5](../bbugyi200.apollo.sase-zr.7.5/README.md) | sase-zr.7 hood | completed |
 | [sase-zr.1](../../families/bbugyi200.apollo.sase-zr.1.md) (family · 5) | sase-zr hood | active 5 |
 | [sase-zr.1](../bbugyi200.apollo.sase-zr.1/README.md) | sase-zr hood | completed |
 | [sase-zr.2](../../families/bbugyi200.apollo.sase-zr.2.md) (family · 3) | sase-zr hood | active 3 |

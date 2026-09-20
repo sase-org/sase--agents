@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-zr](../../users/bbugyi200/machines/apollo/hoods/sase-zr/README.md) / sase-zr.7.5
 
-**Global name:** `bbugyi200.apollo.sase-zr.7.5` · **State:** active · **Source run:** `run-3610d41455a0974e3f76ca4c95a9e51e`
+**Global name:** `bbugyi200.apollo.sase-zr.7.5` · **State:** completed · **Source run:** `run-3610d41455a0974e3f76ca4c95a9e51e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-zr
 
@@ -12,12 +12,12 @@
 - Epic: [sase-zr.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zr/sase-zr.7.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-20T11:07:42.764077+00:00
+- Timing: 2026-09-20T11:07:42.764077+00:00 → 2026-09-20T13:40:53.025479+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -45,7 +45,7 @@
 | [sase-zr.7.2](../../families/bbugyi200.apollo.sase-zr.7.2.md) (family · 3) | sase-zr.7 hood | completed 2, failed 1 |
 | [sase-zr.7.3](../bbugyi200.apollo.sase-zr.7.3/README.md) | sase-zr.7 hood | completed |
 | [sase-zr.7.4](../bbugyi200.apollo.sase-zr.7.4/README.md) | sase-zr.7 hood | completed |
-| [sase-zr.7.land](../bbugyi200.apollo.sase-zr.7.land/README.md) | sase-zr.7 hood | waiting |
+| [sase-zr.7.land](../bbugyi200.apollo.sase-zr.7.land/README.md) | sase-zr.7 hood | active |
 | [sase-zr.1](../../families/bbugyi200.apollo.sase-zr.1.md) (family · 5) | sase-zr hood | active 5 |
 | [sase-zr.1](../bbugyi200.apollo.sase-zr.1/README.md) | sase-zr hood | completed |
 | [sase-zr.2](../../families/bbugyi200.apollo.sase-zr.2.md) (family · 3) | sase-zr hood | active 3 |
