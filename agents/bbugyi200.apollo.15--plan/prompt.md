@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The muse code LLM provider's reply seems to get split when rendered in the agent metadata panel. See the ~/tmp/screenshots/20260920_112710.png screenshot for context. Can you help me diagnose the root cause of this issue and fix it? #plan
