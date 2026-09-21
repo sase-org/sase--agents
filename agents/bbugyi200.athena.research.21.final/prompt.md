@@ -1,5 +1,6 @@
-%id(final, clan=research.21) %m:@xlarge
-%wait:research.21.cdx %wait:research.21.cld %q(w=0.25)
+%id(final, clan=research.21)
+%m:@xlarge
+%wait:research.21.cdx %wait:research.21.cld %q(10, w=0.25)
 #gh:gh_sase-org__sase 
 You are the lead researcher: two independent researchers have reported on the request
 below, and you will add your own research and merge all three perspectives into one

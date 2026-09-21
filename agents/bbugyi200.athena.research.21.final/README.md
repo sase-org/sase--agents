@@ -2,20 +2,20 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.21.final
 
-**Global name:** `bbugyi200.athena.research.21.final` · **State:** waiting · **Source run:** `run-5017218fab01b4920c6b7747042c6393`
+**Global name:** `bbugyi200.athena.research.21.final` · **State:** active · **Source run:** `run-51e1f7cabeb3736288b80ce1e7965bf2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
 ## Summary
 
-- Model: gpt-6-astra
-- Provider: codex
-- Timing: 20260919071919
+- Model: claude-fable-5
+- Provider: claude
+- Timing: 2026-09-19T12:10:05.239471+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 457 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 463 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
