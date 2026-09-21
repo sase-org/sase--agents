@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-11y.10.1.2--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_11y_10_1_2__plan-260920_135734.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_11y_10_1_2__code-260920_135734.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/service_host_flag_removal.md
 
 

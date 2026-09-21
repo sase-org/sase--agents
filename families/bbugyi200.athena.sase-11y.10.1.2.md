@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `sase-11y` · Members: 3 · Bead: [sase-11y.1
 ```mermaid
 flowchart TD
   n0["sase-11y.10.1.2--gate [failed]"]
-  n1["sase-11y.10.1.2--code [active]"]
+  n1["sase-11y.10.1.2--code [completed]"]
   n0 --> n1
-  n2["sase-11y.10.1.2--plan [active]"]
+  n2["sase-11y.10.1.2--plan [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-11y.10.1.2--gate | failed | opus / claude | 2026-09-20T18:37:55.763620+00:00 → 2026-09-20T18:38:27.985076+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11y.10.1.2--gate/chat.md) |
-| <a id="member-code"></a>code | sase-11y.10.1.2--code | active | sonnet / claude | 2026-09-20T18:38:49.242096+00:00 | [1](../agents/bbugyi200.athena.sase-11y.10.1.2--code/README.md#commits) | — | — |
-| <a id="member-plan"></a>plan | sase-11y.10.1.2--plan | active | opus / claude | 2026-09-20T18:26:05.139539+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11y.10.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11y.10.1.2--plan/chat.md) |
+| <a id="member-code"></a>code | sase-11y.10.1.2--code | completed | sonnet / claude | 2026-09-20T18:38:49.242096+00:00 → 2026-09-20T21:31:47.919201+00:00 | [1](../agents/bbugyi200.athena.sase-11y.10.1.2--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-11y.10.1.2--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-11y.10.1.2--plan | completed | opus / claude | 2026-09-20T18:26:05.139539+00:00 → 2026-09-20T21:31:47.919201+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11y.10.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11y.10.1.2--plan/chat.md) |
 
 ## Commits
 
@@ -35,11 +35,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-11y.10](bbugyi200.athena.sase-11y.10.md) (family · 3) | ancestor | failed 3 |
 | [sase-11y.10.1.1](../agents/bbugyi200.athena.sase-11y.10.1.1/README.md) | sase-11y.10.1 hood | completed |
-| [sase-11y.10.1.3](../agents/bbugyi200.athena.sase-11y.10.1.3/README.md) | sase-11y.10.1 hood | waiting |
-| [sase-11y.10.1.4](../agents/bbugyi200.athena.sase-11y.10.1.4/README.md) | sase-11y.10.1 hood | waiting |
-| [sase-11y.10.1.5](../agents/bbugyi200.athena.sase-11y.10.1.5/README.md) | sase-11y.10.1 hood | waiting |
-| [sase-11y.10.1.6](../agents/bbugyi200.athena.sase-11y.10.1.6/README.md) | sase-11y.10.1 hood | waiting |
-| [sase-11y.10.1.land](../agents/bbugyi200.athena.sase-11y.10.1.land/README.md) | sase-11y.10.1 hood | waiting |
+| [sase-11y.10.1.3](bbugyi200.athena.sase-11y.10.1.3.md) (family · 3) | sase-11y.10.1 hood | failed 3 |
+| [sase-11y.10.1.3.1.1](../agents/bbugyi200.athena.sase-11y.10.1.3.1.1/README.md) | sase-11y.10.1 hood | completed |
+| [sase-11y.10.1.3.1.2](bbugyi200.athena.sase-11y.10.1.3.1.2.md) (family · 3) | sase-11y.10.1 hood | completed 2, failed 1 |
+| [sase-11y.10.1.3.1.3](../agents/bbugyi200.athena.sase-11y.10.1.3.1.3/README.md) | sase-11y.10.1 hood | completed |
+| [sase-11y.10.1.3.1.4](../agents/bbugyi200.athena.sase-11y.10.1.3.1.4/README.md) | sase-11y.10.1 hood | completed |
+| [sase-11y.10.1.3.1.5](../agents/bbugyi200.athena.sase-11y.10.1.3.1.5/README.md) | sase-11y.10.1 hood | completed |
+| [sase-11y.10.1.3.1.land](../agents/bbugyi200.athena.sase-11y.10.1.3.1.land/README.md) | sase-11y.10.1 hood | completed |
+| [sase-11y.10.1.4](bbugyi200.athena.sase-11y.10.1.4.md) (family · 9) | sase-11y.10.1 hood | completed 5, failed 4 |
+| [sase-11y.10.1.5](../agents/bbugyi200.athena.sase-11y.10.1.5/README.md) | sase-11y.10.1 hood | completed |
+| [sase-11y.10.1.6](../agents/bbugyi200.athena.sase-11y.10.1.6/README.md) | sase-11y.10.1 hood | completed |
+| [sase-11y.10.1.land](../agents/bbugyi200.athena.sase-11y.10.1.land/README.md) | sase-11y.10.1 hood | active |
 | [sase-11y.1](../agents/bbugyi200.athena.sase-11y.1/README.md) | sase-11y hood | completed |
 | [sase-11y.2](bbugyi200.athena.sase-11y.2.md) (family · 3) | sase-11y hood | failed 3 |
 | [sase-11y.2.1.1](../agents/bbugyi200.athena.sase-11y.2.1.1/README.md) | sase-11y hood | active |

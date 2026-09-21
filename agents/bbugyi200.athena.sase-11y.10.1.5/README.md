@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-11y](../../users/bbugyi200/machines/athena/hoods/sase-11y/README.md) / sase-11y.10.1.5
 
-**Global name:** `bbugyi200.athena.sase-11y.10.1.5` · **State:** waiting · **Source run:** `run-8d809714a14228187bb0f26a8ef0c1f3`
+**Global name:** `bbugyi200.athena.sase-11y.10.1.5` · **State:** completed · **Source run:** `run-8d809714a14228187bb0f26a8ef0c1f3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-11y
 
@@ -10,14 +10,20 @@
 
 - Bead: [sase-11y.10.1.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-11y/sase-11y.10.1.5.md)
 - Epic: [sase-11y.10.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-11y/sase-11y.10.1.md)
-- Model: sonnet
-- Provider: claude
-- Timing: 20260920135737
-- Commits: 0
+- Model: muse-spark-1.3-contributor
+- Provider: muse
+- Timing: 2026-09-21T06:59:35.269253+00:00 → 2026-09-21T07:32:34.375592+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`0ea0f5a`](https://github.com/sase-org/sase/commit/0ea0f5a7b3102b717228d32bdd974f870e57b19b) | docs(service-host): rewrite docs around the scheduler/host split | 2026-09-21 03:28:21 EDT |
 
 ## Neighbors
 
@@ -25,11 +31,17 @@
 |---|---|---|
 | [sase-11y.10](../../families/bbugyi200.athena.sase-11y.10.md) (family · 3) | ancestor | failed 3 |
 | [sase-11y.10.1.1](../bbugyi200.athena.sase-11y.10.1.1/README.md) | sase-11y.10.1 hood | completed |
-| [sase-11y.10.1.2](../../families/bbugyi200.athena.sase-11y.10.1.2.md) (family · 3) | sase-11y.10.1 hood | active 2, failed 1 |
-| [sase-11y.10.1.3](../bbugyi200.athena.sase-11y.10.1.3/README.md) | sase-11y.10.1 hood | waiting |
-| [sase-11y.10.1.4](../bbugyi200.athena.sase-11y.10.1.4/README.md) | sase-11y.10.1 hood | waiting |
-| [sase-11y.10.1.6](../bbugyi200.athena.sase-11y.10.1.6/README.md) | sase-11y.10.1 hood | waiting |
-| [sase-11y.10.1.land](../bbugyi200.athena.sase-11y.10.1.land/README.md) | sase-11y.10.1 hood | waiting |
+| [sase-11y.10.1.2](../../families/bbugyi200.athena.sase-11y.10.1.2.md) (family · 3) | sase-11y.10.1 hood | completed 2, failed 1 |
+| [sase-11y.10.1.3](../../families/bbugyi200.athena.sase-11y.10.1.3.md) (family · 3) | sase-11y.10.1 hood | failed 3 |
+| [sase-11y.10.1.3.1.1](../bbugyi200.athena.sase-11y.10.1.3.1.1/README.md) | sase-11y.10.1 hood | completed |
+| [sase-11y.10.1.3.1.2](../../families/bbugyi200.athena.sase-11y.10.1.3.1.2.md) (family · 3) | sase-11y.10.1 hood | completed 2, failed 1 |
+| [sase-11y.10.1.3.1.3](../bbugyi200.athena.sase-11y.10.1.3.1.3/README.md) | sase-11y.10.1 hood | completed |
+| [sase-11y.10.1.3.1.4](../bbugyi200.athena.sase-11y.10.1.3.1.4/README.md) | sase-11y.10.1 hood | completed |
+| [sase-11y.10.1.3.1.5](../bbugyi200.athena.sase-11y.10.1.3.1.5/README.md) | sase-11y.10.1 hood | completed |
+| [sase-11y.10.1.3.1.land](../bbugyi200.athena.sase-11y.10.1.3.1.land/README.md) | sase-11y.10.1 hood | completed |
+| [sase-11y.10.1.4](../../families/bbugyi200.athena.sase-11y.10.1.4.md) (family · 9) | sase-11y.10.1 hood | completed 5, failed 4 |
+| [sase-11y.10.1.6](../bbugyi200.athena.sase-11y.10.1.6/README.md) | sase-11y.10.1 hood | completed |
+| [sase-11y.10.1.land](../bbugyi200.athena.sase-11y.10.1.land/README.md) | sase-11y.10.1 hood | active |
 | [sase-11y.1](../bbugyi200.athena.sase-11y.1/README.md) | sase-11y hood | completed |
 | [sase-11y.2](../../families/bbugyi200.athena.sase-11y.2.md) (family · 3) | sase-11y hood | failed 3 |
 | [sase-11y.2.1.1](../bbugyi200.athena.sase-11y.2.1.1/README.md) | sase-11y hood | active |
