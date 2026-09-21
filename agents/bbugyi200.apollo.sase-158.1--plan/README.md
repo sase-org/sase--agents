@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-158.2](../bbugyi200.apollo.sase-158.2/README.md) | sase-158 hood | completed |
-| [sase-158.3](../bbugyi200.apollo.sase-158.3/README.md) | sase-158 hood | active |
-| [sase-158.4](../bbugyi200.apollo.sase-158.4/README.md) | sase-158 hood | waiting |
+| [sase-158.3](../bbugyi200.apollo.sase-158.3/README.md) | sase-158 hood | completed |
+| [sase-158.4](../bbugyi200.apollo.sase-158.4/README.md) | sase-158 hood | active |
 | [sase-158.5](../bbugyi200.apollo.sase-158.5/README.md) | sase-158 hood | waiting |
 | [sase-158.land](../bbugyi200.apollo.sase-158.land/README.md) | sase-158 hood | waiting |
