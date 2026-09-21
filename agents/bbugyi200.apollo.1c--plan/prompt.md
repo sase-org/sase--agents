@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me completely remove the `~` keymap and the corresponding `[neighbors: <N> (~)]` indicator shown at the top of the TUI? We have migrated this functionality to the numeric keymaps associated with the `NEIGHBORS` section in the agent metadata panel. #plan %q:1 %auto
