@@ -21,9 +21,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0s.f0.f0](../../families/bbugyi200.apollo.0s.f0.f0.md) (family · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0s.f0.f0](../../families/bbugyi200.apollo.0s.f0.f0.md) (family · 3) | ancestor | completed 2, failed 1 |
 | [0s.f0](../bbugyi200.apollo.0s.f0/README.md) | ancestor | waiting |
 | [0s](../../families/bbugyi200.apollo.0s.md) (family · 3) | ancestor | active 1, completed 1, failed 1 |
 | [0s.f0.f0.w0](../bbugyi200.apollo.0s.f0.f0.w0/README.md) | 0s.f0.f0 hood | waiting |
-| [0s.f0.f0.w2](../bbugyi200.apollo.0s.f0.f0.w2/README.md) | 0s.f0.f0 hood | waiting |
-| [0s.f0.f0.w2.w0](../bbugyi200.apollo.0s.f0.f0.w2.w0/README.md) | 0s.f0.f0 hood | waiting |
+| [0s.f0.f0.w2](../../families/bbugyi200.apollo.0s.f0.f0.w2.md) (family · 3) | 0s.f0.f0 hood | failed 3 |
+| [0s.f0.f0.w2.w0](../../families/bbugyi200.apollo.0s.f0.f0.w2.w0.md) (family · 7) | 0s.f0.f0 hood | active 1, completed 3, failed 3 |
