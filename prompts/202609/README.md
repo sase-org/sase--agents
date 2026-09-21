@@ -143,6 +143,7 @@
 | [0og.md](0og.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.0og--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0og.md) | 1 |
 | [0om.md](0om.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/clan_unknown_wait_indicator.md][1] | - | [bbugyi200.athena.0om--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0om.md) | 1 |
 | [0on.md](0on.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/bead_read_audited_command.md][1] | - | [bbugyi200.athena.0on--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0on.md) | 1 |
+| [0oo.md](0oo.md) | %queue(weight=1) #fork:0oo--code %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.0oo--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0oo.md) | 0 |
 | [0q.f0.md](0q.f0.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/fix_portable_zsh_paths.md][1] | - | [bbugyi200.kellys_mbp.0q.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.kellys_mbp.0q.f0.md) | 1 |
 | [0r.md](0r.md) | gh:gh_sase-org__sase Can you explain to me why the sase-11e.8.6.5 epic bead's | - | [bbugyi200.kellys_mbp.0r](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.0r/README.md) | 0 |
 | [0s.f0.f0.md](0s.f0.f0.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.apollo.0s.f0.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.0s.f0.f0.md) | 1 |
