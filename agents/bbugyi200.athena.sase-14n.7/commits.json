@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1790007670,"sha":"b3550b56ea3dd109249609dde848040a8a09369d","subject":"fix(agents-view): dispatch zoom LLM Calls visibility message and repaint header hint on every picker exit"}],"schema_version":2,"source_run_id":"run-91e5afdaeb322eea87a13355bc41d665"}

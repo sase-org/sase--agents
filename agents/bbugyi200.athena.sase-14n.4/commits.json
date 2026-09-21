@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789940800,"sha":"5963c52e8261f191531009b029ffa3ccf7afe97e","subject":"fix(tui): defer heap and perf imports out of the app startup closure"}],"schema_version":2,"source_run_id":"run-eaffb6e44c10d5befa3ead6e7fb84d4a"}

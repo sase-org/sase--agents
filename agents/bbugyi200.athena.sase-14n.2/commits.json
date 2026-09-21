@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789939772,"sha":"54fff48206f82a4328c41edd4859a2aa65d95b75","subject":"fix(tui): restore complete-history latch reset on a changed query key"}],"schema_version":2,"source_run_id":"run-864fc928e540d717c8b5e39be6582f85"}
