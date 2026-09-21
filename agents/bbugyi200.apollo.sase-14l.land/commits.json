@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c52520c283f00281394506816a6801f1"}
+{"commits":[{"committed_at":1789954956,"sha":"d79525c557b2935436f0aed8a986a611d68fceae","subject":"refactor(notify): privatize the settlement row predicate and retire its epic whitelist"}],"schema_version":2,"source_run_id":"run-c52520c283f00281394506816a6801f1"}
