@@ -42,7 +42,7 @@
 | [sase-13t](hoods/sase-13t/README.md) | 9 | 0 | active 2, completed 7 |
 | [sase-14l](hoods/sase-14l/README.md) | 4 | 0 | active 1, completed 3 |
 | [sase-14y](hoods/sase-14y/README.md) | 3 | 0 | active 1, waiting 2 |
-| [sase-158](hoods/sase-158/README.md) | 14 | 2 | active 2, completed 6, failed 4, waiting 2 |
+| [sase-158](hoods/sase-158/README.md) | 14 | 2 | active 1, completed 7, failed 4, waiting 2 |
 | [sase-w3](hoods/sase-w3/README.md) | 15 | 5 | active 2, completed 8, failed 4, waiting 1 |
 | [sase-w8](hoods/sase-w8/README.md) | 8 | 1 | completed 5, failed 3 |
 | [sase-wm](hoods/sase-wm/README.md) | 8 | 2 | completed 7, failed 1 |

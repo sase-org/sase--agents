@@ -38,7 +38,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-158.4](../agents/bbugyi200.apollo.sase-158.4/README.md) | sase-158 hood | completed |
 | [sase-158.5](../agents/bbugyi200.apollo.sase-158.5/README.md) | sase-158 hood | completed |
 | [sase-158.6.1](../agents/bbugyi200.apollo.sase-158.6.1/README.md) | sase-158 hood | active |
-| [sase-158.6.2](../agents/bbugyi200.apollo.sase-158.6.2/README.md) | sase-158 hood | active |
+| [sase-158.6.2](../agents/bbugyi200.apollo.sase-158.6.2/README.md) | sase-158 hood | completed |
 | [sase-158.6.3](../agents/bbugyi200.apollo.sase-158.6.3/README.md) | sase-158 hood | waiting |
 | [sase-158.6.land](../agents/bbugyi200.apollo.sase-158.6.land/README.md) | sase-158 hood | waiting |
 | [sase-158.land](bbugyi200.apollo.sase-158.land.md) (family · 3) | sase-158 hood | failed 3 |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-158](../../users/bbugyi200/machines/apollo/hoods/sase-158/README.md) / sase-158.6.2
 
-**Global name:** `bbugyi200.apollo.sase-158.6.2` · **State:** active · **Source run:** `run-c5ba3d665c3777c15f5c0b526e816621`
+**Global name:** `bbugyi200.apollo.sase-158.6.2` · **State:** completed · **Source run:** `run-c5ba3d665c3777c15f5c0b526e816621`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-158
 
@@ -12,12 +12,12 @@
 - Epic: [sase-158.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-158/sase-158.6.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-21T20:20:12.031299+00:00
+- Timing: 2026-09-21T20:20:12.031299+00:00 → 2026-09-21T20:44:09.079565+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
