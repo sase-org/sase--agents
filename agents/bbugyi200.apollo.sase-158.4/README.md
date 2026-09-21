@@ -33,8 +33,8 @@
 | [sase-158.2](../bbugyi200.apollo.sase-158.2/README.md) | sase-158 hood | completed |
 | [sase-158.3](../bbugyi200.apollo.sase-158.3/README.md) | sase-158 hood | completed |
 | [sase-158.5](../bbugyi200.apollo.sase-158.5/README.md) | sase-158 hood | completed |
-| [sase-158.6.1](../bbugyi200.apollo.sase-158.6.1/README.md) | sase-158 hood | active |
+| [sase-158.6.1](../bbugyi200.apollo.sase-158.6.1/README.md) | sase-158 hood | completed |
 | [sase-158.6.2](../bbugyi200.apollo.sase-158.6.2/README.md) | sase-158 hood | completed |
-| [sase-158.6.3](../bbugyi200.apollo.sase-158.6.3/README.md) | sase-158 hood | waiting |
+| [sase-158.6.3](../bbugyi200.apollo.sase-158.6.3/README.md) | sase-158 hood | active |
 | [sase-158.6.land](../bbugyi200.apollo.sase-158.6.land/README.md) | sase-158 hood | waiting |
 | [sase-158.land](../../families/bbugyi200.apollo.sase-158.land.md) (family · 3) | sase-158 hood | failed 3 |
