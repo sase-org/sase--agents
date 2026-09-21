@@ -1,0 +1,81 @@
+%queue(weight=1)
+#fork:1e.w0--code
+%model:muse-spark-1.3-contributor@high
+
+%xprompts_enabled:false
+# Monitored command finished
+
+**Command:**
+
+```text
+just install && just fmt && .venv/bin/pytest tests/test_xprompt_jinja_provider_filters.py -q && just check && cd sase/repos/linked/sase-research-artifacts && just install && just check && ! grep -n 'provider_enabled)' src/sase_research_artifacts/xprompts/research_swarm.md
+```
+
+**Directory:**
+
+```text
+/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_17
+```
+
+| | |
+| --- | --- |
+| **Outcome** | FAILED — exit 1 |
+| **Started** | 2026-09-21T12:59:16.944047+00:00 |
+| **Finished** | 2026-09-21T13:43:57.258648+00:00 |
+| **Elapsed** | 44m 39s of a 1h 0m 0s budget |
+| **Output** | 23 KiB · evidence refs: `file:monitor-diagnostic-manifest:jy4f69043rch`, `file:monitor-retained-log:jy4f69043rch`, `file:monitor-stage:lint-symvision-2414456-1789998234394981932-eca0ba39` · raw output omitted: `failed_diagnostics` · full log: `sase monitor show jy4f69043rch --all-lines` |
+
+**Why this was monitored:** Install workspace envs then verify research-swarm hard-disable gating changes in sase and sase-research-artifacts
+
+## Selected diagnostics
+
+<!--sase:budget-span:open:kind=newest_diagnostics;id=1-->
+**Diagnostics (untrusted program output):**
+
+```text
+== lint (symvision) (failed exit 1) ==
+[counts: output_bytes=1000, output_lines=8, retained_bytes=1000]
+.venv/bin/python tools/setup_required_plugins
+[setup] Installing required plugin sase-github>=0.2.5.
+[setup] Installing required plugin sase-research-artifacts from /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_17/sase/repos/linked/sase-research-artifacts.
+SASE_SYMVISION_BEAD_STATUS_ONLY=1 BD_COMMAND=tools/sase_bead .venv/bin/symvision src/sase --exclude-decorator gate_command_entrypoint --exclude-decorator builtin_chop --epic-symbol "sase-14j(BeadTouchIndexStatus)" --epic-symbol "sase-14j(BeadTouchRefresh)" --epic-symbol "sase-14j(query_touches_for_agent)" 
+Unused public functions/classes. Make these private if they are used only within the file they are defined. If the functions/classes are completely unused, you should delete them:
+  bead_touch_glyph in src/sase/ace/tui/widgets/prompt_panel/_agent_bead_touches.py
+  ordered_bead_verb_chips in src/sase/ace/tui/widgets/prompt_panel/_agent_bead_touches.py
+error: Recipe `_lint-symvision` failed on line 366 with exit code 1
+
+```
+
+<!--sase:budget-span:close:1-->
+
+## Continuation checkpoint
+
+- **Ref:** `local:continuation/checkpoints/monitor_start-0311a6031bf130e5.json`
+
+**Checkpoint (JSON):**
+
+```text
+{
+  "kind": "monitor_start",
+  "payload": {
+    "command": "just install && just fmt && .venv/bin/pytest tests/test_xprompt_jinja_provider_filters.py -q && just check && cd sase/repos/linked/sase-research-artifacts && just install && just check && ! grep -n 'provider_enabled)' src/sase_research_artifacts/xprompts/research_swarm.md",
+    "cwd": "/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_17",
+    "member_agent_name": "1e.w0--mon",
+    "monitor_id": "jy4f69043rch",
+    "next_output": "auto",
+    "parent_node_ids": [],
+    "project_name": "gh_sase-org__sase",
+    "request_fingerprint": "sha256:18b361453b66ea872f501325a317fb4385c6efc8048f6e8595b78494f915e06e",
+    "starter_agent": "1e.w0--code",
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_sase-org__sase/artifacts/ace-run/202609/21/20260921084558"
+  },
+  "recorded_at_epoch": 1789995558.3696125,
+  "schema_version": 1
+}
+```
+
+
+## Your next action
+
+Finish implementing the approved plan 202609/research_swarm_hard_disable_gating.md (plans sidecar). All source edits are already done; only verification remains. Context: (1) sase repo (this workspace): tests/test_xprompt_jinja_provider_filters.py gained hard-gated swarm-filter tests; docs/xprompt.md gained a provider_enabled-hard guidance paragraph. (2) Linked repo sase/repos/linked/sase-research-artifacts (opened via sase repo open): research_swarm.md gates switched to provider_enabled-hard (10 sites); tests/test_xprompt_loading.py hard-disable tests renamed with explicit hard mode plus two new soft-keeps tests; README.md, docs/xprompts.md, AGENTS.md reworded to hard-disabled versus soft-disabled. Steps: the monitor command runs sase install, fmt, targeted pytest, just check, then the research-artifacts install and check. If green: confirm via grep that no bare mode-less gate remains in research_swarm.md, then reply to the user summarizing changed files and passing checks (both repos are part of the final declaration: use the sase_final skill, with a commit decision for each repo; do NOT commit unless the user asks). If red: fix the source (never weaken tests to fit), re-run the failing check, and report. Do not run just check-full (not authorized).
+%xprompts_enabled:true
