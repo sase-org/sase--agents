@@ -28,9 +28,9 @@
 | [sase-14n.11](../bbugyi200.athena.sase-14n.11/README.md) | sase-14n hood | completed |
 | [sase-14n.12](../bbugyi200.athena.sase-14n.12/README.md) | sase-14n hood | completed |
 | [sase-14n.14](../../families/bbugyi200.athena.sase-14n.14.md) (family · 5) | sase-14n hood | completed 3, failed 2 |
-| [sase-14n.15.1](../bbugyi200.athena.sase-14n.15.1/README.md) | sase-14n hood | active |
-| [sase-14n.15.2](../bbugyi200.athena.sase-14n.15.2/README.md) | sase-14n hood | waiting |
-| [sase-14n.15.3](../bbugyi200.athena.sase-14n.15.3/README.md) | sase-14n hood | waiting |
+| [sase-14n.15.1](../bbugyi200.athena.sase-14n.15.1/README.md) | sase-14n hood | completed |
+| [sase-14n.15.2](../bbugyi200.athena.sase-14n.15.2/README.md) | sase-14n hood | active |
+| [sase-14n.15.3](../bbugyi200.athena.sase-14n.15.3/README.md) | sase-14n hood | completed |
 | [sase-14n.15.land](../bbugyi200.athena.sase-14n.15.land/README.md) | sase-14n hood | waiting |
 | [sase-14n.2](../bbugyi200.athena.sase-14n.2/README.md) | sase-14n hood | completed |
 | [sase-14n.3](../../families/bbugyi200.athena.sase-14n.3.md) (family · 3) | sase-14n hood | completed 2, failed 1 |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ac636f9668a6c1027b6a9a87f0767b78"}
+{"commits":[{"committed_at":1790029669,"sha":"c6807d24cb3847ced1af4487637448fa35858f19","subject":"fix(gate): refuse rowless shell-block custom gates and prove the row end to end"}],"schema_version":2,"source_run_id":"run-ac636f9668a6c1027b6a9a87f0767b78"}

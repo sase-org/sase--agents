@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-84e49a49d1cc3e7c772124219dcde407"}
+{"commits":[{"committed_at":1790026798,"sha":"dd22887a1774fa1a6beeebd4f372d74f10b5ff1c","subject":"perf(tui): defer update/toast/dev-detect imports to cut startup closure to 3246 modules"}],"schema_version":2,"source_run_id":"run-84e49a49d1cc3e7c772124219dcde407"}

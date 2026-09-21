@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-14n](../../users/bbugyi200/machines/athena/hoods/sase-14n/README.md) / sase-14n.15.3
 
-**Global name:** `bbugyi200.athena.sase-14n.15.3` · **State:** waiting · **Source run:** `run-ac636f9668a6c1027b6a9a87f0767b78`
+**Global name:** `bbugyi200.athena.sase-14n.15.3` · **State:** completed · **Source run:** `run-ac636f9668a6c1027b6a9a87f0767b78`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-14n
 
@@ -12,19 +12,25 @@
 - Epic: [sase-14n.15](https://github.com/sase-org/sase--beads/blob/main/pages/sase-14n/sase-14n.15.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20260921151245
-- Commits: 0
+- Timing: 2026-09-21T21:48:03.960876+00:00 → 2026-09-21T22:32:55.972583+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c6807d2`](https://github.com/sase-org/sase/commit/c6807d24cb3847ced1af4487637448fa35858f19) | fix(gate): refuse rowless shell-block custom gates and prove the row end to end | 2026-09-21 18:27:49 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-14n.15.1](../bbugyi200.athena.sase-14n.15.1/README.md) | sase-14n.15 hood | active |
-| [sase-14n.15.2](../bbugyi200.athena.sase-14n.15.2/README.md) | sase-14n.15 hood | waiting |
+| [sase-14n.15.1](../bbugyi200.athena.sase-14n.15.1/README.md) | sase-14n.15 hood | completed |
+| [sase-14n.15.2](../bbugyi200.athena.sase-14n.15.2/README.md) | sase-14n.15 hood | active |
 | [sase-14n.15.land](../bbugyi200.athena.sase-14n.15.land/README.md) | sase-14n.15 hood | waiting |
 | [sase-14n.1](../bbugyi200.athena.sase-14n.1/README.md) | sase-14n hood | completed |
 | [sase-14n.10](../bbugyi200.athena.sase-14n.10/README.md) | sase-14n hood | completed |
