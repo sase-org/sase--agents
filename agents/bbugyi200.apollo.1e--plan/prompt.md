@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add an optional (disabled by default) Gemini Flash 3.8 researcher to the `#research_swarm` xprompt swarm? #plan

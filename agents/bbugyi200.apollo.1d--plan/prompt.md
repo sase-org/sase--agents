@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make the `sase update` command display much better, realtime output? #beau #plan %auto
