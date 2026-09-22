@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5r](../../users/bbugyi200/machines/athena/hoods/toobig-5r/README.md) / toobig-5r.test\_launch\_admission\_dispatch.0
 
-**Global name:** `bbugyi200.athena.toobig-5r.test_launch_admission_dispatch.0` · **State:** waiting · **Source run:** `run-9a1139e45fc413b000c0b8a949476a03`
+**Global name:** `bbugyi200.athena.toobig-5r.test_launch_admission_dispatch.0` · **State:** completed · **Source run:** `run-9a1139e45fc413b000c0b8a949476a03`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5r
 
@@ -10,12 +10,18 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20260921080212
-- Commits: 0
+- Timing: 2026-09-22T05:52:08.502453+00:00 → 2026-09-22T06:02:56.977000+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`dbebe9f`](https://github.com/sase-org/sase/commit/dbebe9f7a3fd9b1baf293f291a04ceaf6dcd2475) | test(launch-admission): split dispatch tests into three files | 2026-09-22 02:00:17 EDT |
 
 ## Neighbors
 
@@ -36,12 +42,12 @@
 | [toobig-5r.test\_bgcmd\_list\_formatters.0](../bbugyi200.athena.toobig-5r.test_bgcmd_list_formatters.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_commit\_dispatch\_conflict\_repair\_followup.0](../bbugyi200.athena.toobig-5r.test_commit_dispatch_conflict_repair_followup.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_event\_handlers\_auto\_refresh\_dirty\_flags.0](../bbugyi200.athena.toobig-5r.test_event_handlers_auto_refresh_dirty_flags.0/README.md) | toobig-5r hood | completed |
-| [toobig-5r.test\_finalizers\_protocol\_harness\_multi\_repo.0](../bbugyi200.athena.toobig-5r.test_finalizers_protocol_harness_multi_repo.0/README.md) | toobig-5r hood | active |
+| [toobig-5r.test\_finalizers\_protocol\_harness\_multi\_repo.0](../bbugyi200.athena.toobig-5r.test_finalizers_protocol_harness_multi_repo.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_fleet\_agents\_display\_parity.0](../bbugyi200.athena.toobig-5r.test_fleet_agents_display_parity.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_init\_onboarding\_all.0](../bbugyi200.athena.toobig-5r.test_init_onboarding_all.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_memory\_selector\_render.0](../bbugyi200.athena.toobig-5r.test_memory_selector_render.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_muse\_provider\_core.0](../bbugyi200.athena.toobig-5r.test_muse_provider_core.0/README.md) | toobig-5r hood | completed |
-| [toobig-5r.test\_notification\_toast\_polling\_agent\_refresh.0](../bbugyi200.athena.toobig-5r.test_notification_toast_polling_agent_refresh.0/README.md) | toobig-5r hood | waiting |
+| [toobig-5r.test\_notification\_toast\_polling\_agent\_refresh.0](../bbugyi200.athena.toobig-5r.test_notification_toast_polling_agent_refresh.0/README.md) | toobig-5r hood | active |
 | [toobig-5r.test\_prompt\_history\_modal.0](../bbugyi200.athena.toobig-5r.test_prompt_history_modal.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_repo\_handler\_open\_configured.0](../bbugyi200.athena.toobig-5r.test_repo_handler_open_configured.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_run\_agent\_runner\_slot\_capacity.0](../bbugyi200.athena.toobig-5r.test_run_agent_runner_slot_capacity.0/README.md) | toobig-5r hood | waiting |
