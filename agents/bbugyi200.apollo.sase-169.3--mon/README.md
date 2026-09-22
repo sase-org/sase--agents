@@ -25,6 +25,6 @@
 |---|---|---|
 | [sase-169.1](../../families/bbugyi200.apollo.sase-169.1.md) (family · 3) | sase-169 hood | completed 2, failed 1 |
 | [sase-169.2](../bbugyi200.apollo.sase-169.2/README.md) | sase-169 hood | completed |
-| [sase-169.4](../bbugyi200.apollo.sase-169.4/README.md) | sase-169 hood | active |
+| [sase-169.4](../bbugyi200.apollo.sase-169.4/README.md) | sase-169 hood | completed |
 | [sase-169.5](../bbugyi200.apollo.sase-169.5/README.md) | sase-169 hood | waiting |
 | [sase-169.land](../bbugyi200.apollo.sase-169.land/README.md) | sase-169 hood | waiting |
