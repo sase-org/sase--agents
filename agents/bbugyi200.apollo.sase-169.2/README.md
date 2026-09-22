@@ -13,17 +13,23 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-09-22T14:19:40.044248+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`7f01925`](https://github.com/sase-org/sase/commit/7f019258b1bfa1523786632d0f85d2b4bab12cf6) | feat(screenshots): salvage per-node captures with recovery retries and partial apply | 2026-09-22 11:32:01 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-169.1](../../families/bbugyi200.apollo.sase-169.1.md) (family · 3) | sase-169 hood | active 1, completed 1, failed 1 |
+| [sase-169.1](../../families/bbugyi200.apollo.sase-169.1.md) (family · 3) | sase-169 hood | completed 2, failed 1 |
 | [sase-169.3](../bbugyi200.apollo.sase-169.3/README.md) | sase-169 hood | waiting |
 | [sase-169.4](../bbugyi200.apollo.sase-169.4/README.md) | sase-169 hood | waiting |
 | [sase-169.5](../bbugyi200.apollo.sase-169.5/README.md) | sase-169 hood | waiting |
