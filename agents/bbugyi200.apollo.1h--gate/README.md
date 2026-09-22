@@ -16,3 +16,9 @@
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [1h.f0](../../families/bbugyi200.apollo.1h.f0.md) (family · 5) | descendant | active 1, completed 2, failed 2 |

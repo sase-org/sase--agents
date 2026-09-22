@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:1h Can you now help me replace the `default` text with `MODEL:` and the `current` text with `PROJECT:`? #plan %auto
