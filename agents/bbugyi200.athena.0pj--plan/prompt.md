@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me rename the `#research_swarm` xprompt swarm's `should_generate_image` input to just `image`? #plan  %auto
