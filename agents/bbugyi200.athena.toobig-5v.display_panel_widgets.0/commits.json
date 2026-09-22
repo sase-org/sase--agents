@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ce1e06757dd78a8f8a33277e3c8f9ccc"}
+{"commits":[{"committed_at":1790116846,"sha":"b5e112a2b5dc125840ef9b0cb3081f1d2f62db58","subject":"refactor(ace-tui): split panel-widget refresh mixin into focused modules"}],"schema_version":2,"source_run_id":"run-ce1e06757dd78a8f8a33277e3c8f9ccc"}
