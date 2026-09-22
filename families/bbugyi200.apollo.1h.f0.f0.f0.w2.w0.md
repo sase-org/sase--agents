@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | 1h.f0.f0.f0.w2.w0--plan | active | opus / claude | 2026-09-22T18:49:48.375650+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2.w0--plan/chat.md) |
-| <a id="member-code"></a>code | 1h.f0.f0.f0.w2.w0--code | active | muse-spark-1.3-contributor / muse | 2026-09-22T19:16:10.949490+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2.w0--code/prompt.md) | — |
+| <a id="member-code"></a>code | 1h.f0.f0.f0.w2.w0--code | active | muse-spark-1.3-contributor / muse | 2026-09-22T19:16:10.949490+00:00 | [1](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2.w0--code/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2.w0--code/prompt.md) | — |
 | <a id="member-gate"></a>gate | 1h.f0.f0.f0.w2.w0--gate | failed | opus / claude | 2026-09-22T19:15:51.020956+00:00 → 2026-09-22T19:16:06.057834+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2.w0--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`ecf795f`](https://github.com/sase-org/sase/commit/ecf795f5a37a41f17178a152120f4b039b5791be) | feat(ace): give the top-bar updates badge its own visual language | 2026-09-22 16:41:50 EDT |
 
 ## Neighbors
 
