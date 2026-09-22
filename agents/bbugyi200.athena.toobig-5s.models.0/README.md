@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-5s.test\_preview\_panel\_modal.0](../bbugyi200.athena.toobig-5s.test_preview_panel_modal.0/README.md) | toobig-5s hood | active |
-| [toobig-5s.test\_update\_command\_live\_timeline.0](../bbugyi200.athena.toobig-5s.test_update_command_live_timeline.0/README.md) | toobig-5s hood | waiting |
+| [toobig-5s.test\_preview\_panel\_modal.0](../bbugyi200.athena.toobig-5s.test_preview_panel_modal.0/README.md) | toobig-5s hood | completed |
+| [toobig-5s.test\_update\_command\_live\_timeline.0](../bbugyi200.athena.toobig-5s.test_update_command_live_timeline.0/README.md) | toobig-5s hood | active |
