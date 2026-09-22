@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8e748f1a16fa7bb9d73c683384323f0d"}
+{"commits":[{"committed_at":1790096722,"sha":"1a96a22f171c845da339870d6cf054828dbf655f","subject":"fix(ace-runner): recorded errors beat synthetic fallback; truthful runner output ordering"}],"schema_version":2,"source_run_id":"run-8e748f1a16fa7bb9d73c683384323f0d"}

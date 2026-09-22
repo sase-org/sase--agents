@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a8f9b13efda44e565a25826f2446c746"}
+{"commits":[{"committed_at":1790102643,"sha":"f42a6f964af6ab0cfaf22dca5115585b92d966c4","subject":"feat(workspace): durable rescue store and non-refusing sidecar eviction"}],"schema_version":2,"source_run_id":"run-a8f9b13efda44e565a25826f2446c746"}
