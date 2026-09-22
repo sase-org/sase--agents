@@ -30,5 +30,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-16k.1](../bbugyi200.athena.sase-16k.1/README.md) | sase-16k hood | completed |
-| [sase-16k.3](../bbugyi200.athena.sase-16k.3/README.md) | sase-16k hood | active |
-| [sase-16k.land](../bbugyi200.athena.sase-16k.land/README.md) | sase-16k hood | waiting |
+| [sase-16k.3](../bbugyi200.athena.sase-16k.3/README.md) | sase-16k hood | completed |
+| [sase-16k.land](../bbugyi200.athena.sase-16k.land/README.md) | sase-16k hood | active |
