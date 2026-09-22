@@ -173,6 +173,7 @@
 | [1e.md](1e.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.apollo.1e--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.1e.md) | 1 |
 | [1e.w0.md](1e.w0.md) | %queue(weight=1) #fork:1e.w0--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.1e.w0--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.1e.w0.md) | 0 |
 | [1h.f0.f0.f0.md](1h.f0.f0.f0.md) | %queue(weight=1) %auto #fork:1h.f0.f0.f0--1 %model:@small | - | [bbugyi200.apollo.1h.f0.f0.f0--2](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.1h.f0.f0.f0.md) | 0 |
+| [1h.f0.f0.f0.w2.md](1h.f0.f0.f0.w2.md) | %queue(weight=1) %auto #fork:1h.f0.f0.f0.w2--code | - | [bbugyi200.apollo.1h.f0.f0.f0.w2--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.1h.f0.f0.f0.w2.md) | 0 |
 | [1h.f0.md](1h.f0.md) | %queue(weight=1) %auto #fork:1h.f0--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.1h.f0--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.1h.f0.md) | 0 |
 | [1h.md](1h.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/sase_14y_2_takeover.md][1] | - | [bbugyi200.apollo.1h--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.1h.md) | 1 |
 | [1m.md](1m.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.1m--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.1m.md) | 1 |
