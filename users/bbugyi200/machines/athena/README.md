@@ -1981,7 +1981,7 @@
 | [toobig-5o](hoods/toobig-5o/README.md) | 13 | 0 | completed 1, waiting 12 |
 | [toobig-5p](hoods/toobig-5p/README.md) | 42 | 3 | active 1, completed 12, failed 4, waiting 25 |
 | [toobig-5q](hoods/toobig-5q/README.md) | 37 | 1 | active 1, completed 5, failed 1, waiting 30 |
-| [toobig-5r](hoods/toobig-5r/README.md) | 35 | 0 | active 1, completed 16, waiting 18 |
+| [toobig-5r](hoods/toobig-5r/README.md) | 35 | 0 | active 1, completed 17, waiting 17 |
 | [toobig-6](hoods/toobig-6/README.md) | 11 | 0 | active 11 |
 | [toobig-7](hoods/toobig-7/README.md) | 6 | 0 | active 6 |
 | [toobig-8](hoods/toobig-8/README.md) | 1 | 0 | active 1 |
