@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make the new sticky agent metadata panel header (see the sase-16k epic bead for context) always visible, even if only the tools/LLM calls panel is shown? #plan
