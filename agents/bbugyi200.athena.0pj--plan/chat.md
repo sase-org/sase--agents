@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 0pj--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-0pj__plan-260922_154615.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-0pj__code-260922_154615.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/rename_research_swarm_image_input.md
 
 
