@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-oc.8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-oc/sase-oc.8.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-17T19:15:55.923618+00:00

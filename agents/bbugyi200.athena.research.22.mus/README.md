@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.22.mus
 
-**Global name:** `bbugyi200.athena.research.22.mus` · **State:** completed · **Source run:** `run-e3df7ee0e47794203e4beb6317fabe1f`
+**Global name:** `bbugyi200.athena.research.22.mus` · **State:** active · **Source run:** `run-e3df7ee0e47794203e4beb6317fabe1f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-21T17:22:51.110249+00:00 → 2026-09-21T19:03:06.055060+00:00
+- Timing: 2026-09-21T17:22:51.110249+00:00
 - Commits: 0
 
 ## Files
@@ -21,8 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.22.cld](../bbugyi200.athena.research.22.cld/README.md) | research.22 hood | completed |
-| [research.22.final](../bbugyi200.athena.research.22.final/README.md) | research.22 hood | completed |
+| [research.22.cld](../bbugyi200.athena.research.22.cld/README.md) | research.22 hood | active |
+| [research.22.final](../bbugyi200.athena.research.22.final/README.md) | research.22 hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
@@ -73,4 +73,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 463 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 476 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

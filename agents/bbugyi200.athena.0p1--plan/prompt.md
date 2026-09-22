@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I don't understand why the query shown in the ~/tmp/screenshots/20260922_065620.png screenshot doesn't work on the "Research" sub-tab of the "Artifacts" tab. Can you help me diagnose the root cause of this issue and fix it? #plan

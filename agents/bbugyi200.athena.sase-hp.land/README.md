@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-hp](https://github.com/sase-org/sase--beads/blob/main/pages/sase-hp/README.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-08T20:02:31.736705 → 2026-08-08T20:26:13.807645
