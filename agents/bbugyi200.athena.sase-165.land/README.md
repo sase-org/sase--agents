@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-165](../../users/bbugyi200/machines/athena/hoods/sase-165/README.md) / sase-165.land
 
-**Global name:** `bbugyi200.athena.sase-165.land` · **State:** waiting · **Source run:** `run-08f69823eab15ab1322a67565ff13c98`
+**Global name:** `bbugyi200.athena.sase-165.land` · **State:** active · **Source run:** `run-08f69823eab15ab1322a67565ff13c98`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-165
 
@@ -11,7 +11,7 @@
 - Bead: [sase-165](https://github.com/sase-org/sase--beads/blob/main/pages/sase-165/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260922091211
+- Timing: 2026-09-22T16:10:31.985447+00:00
 - Commits: 0
 
 ## Files
@@ -29,4 +29,4 @@
 | [sase-165.5](../bbugyi200.athena.sase-165.5/README.md) | sase-165 hood | completed |
 | [sase-165.6](../../families/bbugyi200.athena.sase-165.6.md) (family · 3) | sase-165 hood | completed 2, failed 1 |
 | [sase-165.6.f0](../../families/bbugyi200.athena.sase-165.6.f0.md) (family · 3) | sase-165 hood | active 2, failed 1 |
-| [sase-165.7](../../families/bbugyi200.athena.sase-165.7.md) (family · 3) | sase-165 hood | active 1, completed 1, failed 1 |
+| [sase-165.7](../../families/bbugyi200.athena.sase-165.7.md) (family · 3) | sase-165 hood | completed 2, failed 1 |
