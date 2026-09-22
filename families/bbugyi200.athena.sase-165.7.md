@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-165.7--1 | active | muse-spark-1.3-contributor / muse | 2026-09-22T15:21:11.869068+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-165.7--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-165.7--1 | active | muse-spark-1.3-contributor / muse | 2026-09-22T15:21:11.869068+00:00 | [1](../agents/bbugyi200.athena.sase-165.7--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-165.7--1/prompt.md) | — |
 | <a id="member-mon"></a>mon | sase-165.7--mon | failed | muse-spark-1.3-contributor / muse | 2026-09-22T15:17:55.451609+00:00 → 2026-09-22T15:21:12.602661+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-165.7--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-165.7--plan | completed | muse-spark-1.3-contributor / muse | 2026-09-22T15:02:25.171099+00:00 → 2026-09-22T15:20:32.004870+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-165.7--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-165.7--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`e081abe`](https://github.com/sase-org/sase/commit/e081abe1cb9168a20b9ff5a989956d0beb1d96c8) | feat(config): add managed\_tmp.agent\_cargo\_incremental opt-in for agent cargo incremental | 2026-09-22 11:36:45 EDT |
 
 ## Neighbors
 

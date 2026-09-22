@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-53.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-53/sase-53.3.md)
 - Model: —
 - Provider: —
 - Timing: 2026-06-21T16:02:54+00:00 → 2026-06-21T16:02:54+00:00

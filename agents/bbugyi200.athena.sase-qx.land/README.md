@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-qx](https://github.com/sase-org/sase--beads/blob/main/pages/sase-qx/README.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-19T20:47:34+00:00 → 2026-08-19T20:47:34+00:00

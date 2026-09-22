@@ -8,15 +8,20 @@
 
 ## Summary
 
-- Bead: [sase-165.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-165/sase-165.7.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-09-22T15:21:11.869068+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`e081abe`](https://github.com/sase-org/sase/commit/e081abe1cb9168a20b9ff5a989956d0beb1d96c8) | feat(config): add managed\_tmp.agent\_cargo\_incremental opt-in for agent cargo incremental | 2026-09-22 11:36:45 EDT |
 
 ## Neighbors
 
