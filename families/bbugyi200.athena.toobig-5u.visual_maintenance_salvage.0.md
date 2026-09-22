@@ -33,5 +33,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-5u.test\_fix\_tui\_screenshots\_apply.0](../agents/bbugyi200.athena.toobig-5u.test_fix_tui_screenshots_apply.0/README.md) | toobig-5u hood | active |
-| [toobig-5u.test\_render\_visual\_snapshot\_failure\_report.0](../agents/bbugyi200.athena.toobig-5u.test_render_visual_snapshot_failure_report.0/README.md) | toobig-5u hood | waiting |
+| [toobig-5u.test\_fix\_tui\_screenshots\_apply.0](../agents/bbugyi200.athena.toobig-5u.test_fix_tui_screenshots_apply.0/README.md) | toobig-5u hood | completed |
+| [toobig-5u.test\_render\_visual\_snapshot\_failure\_report.0](../agents/bbugyi200.athena.toobig-5u.test_render_visual_snapshot_failure_report.0/README.md) | toobig-5u hood | completed |
