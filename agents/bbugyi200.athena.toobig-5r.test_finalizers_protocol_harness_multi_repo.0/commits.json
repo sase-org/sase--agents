@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-20609ad6e8dc735018c65aa06c30131b"}
+{"commits":[{"committed_at":1790056134,"sha":"8d6b2e758c2eb50bec1330192fd1b345036a355d","subject":"test(finalizers): split multi-repo protocol harness into dispatch, handoff, and edge files"}],"schema_version":2,"source_run_id":"run-20609ad6e8dc735018c65aa06c30131b"}
