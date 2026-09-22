@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ecdb3c84f4cd7a621939365575b43c49"}
+{"commits":[{"committed_at":1790107968,"sha":"b27029e894a0176f213c3915ddfc8b003acfed9a","subject":"feat(ace): make Agents Enter context-aware via act_on_agent"}],"schema_version":2,"source_run_id":"run-ecdb3c84f4cd7a621939365575b43c49"}
