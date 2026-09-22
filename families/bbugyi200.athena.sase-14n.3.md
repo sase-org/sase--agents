@@ -40,9 +40,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-14n.13](bbugyi200.athena.sase-14n.13.md) (family · 3) | sase-14n hood | completed 2, failed 1 |
 | [sase-14n.14](bbugyi200.athena.sase-14n.14.md) (family · 5) | sase-14n hood | completed 3, failed 2 |
 | [sase-14n.15.1](../agents/bbugyi200.athena.sase-14n.15.1/README.md) | sase-14n hood | completed |
-| [sase-14n.15.2](../agents/bbugyi200.athena.sase-14n.15.2/README.md) | sase-14n hood | active |
+| [sase-14n.15.2](../agents/bbugyi200.athena.sase-14n.15.2/README.md) | sase-14n hood | completed |
 | [sase-14n.15.3](../agents/bbugyi200.athena.sase-14n.15.3/README.md) | sase-14n hood | completed |
-| [sase-14n.15.land](../agents/bbugyi200.athena.sase-14n.15.land/README.md) | sase-14n hood | waiting |
+| [sase-14n.15.land](../agents/bbugyi200.athena.sase-14n.15.land/README.md) | sase-14n hood | active |
 | [sase-14n.2](../agents/bbugyi200.athena.sase-14n.2/README.md) | sase-14n hood | completed |
 | [sase-14n.4](../agents/bbugyi200.athena.sase-14n.4/README.md) | sase-14n hood | completed |
 | [sase-14n.5](../agents/bbugyi200.athena.sase-14n.5/README.md) | sase-14n hood | completed |
