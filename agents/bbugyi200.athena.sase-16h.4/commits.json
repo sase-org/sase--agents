@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ad5b4af87581ebf811314b2462b39307"}
+{"commits":[{"committed_at":1790110960,"sha":"7fad3394ca04d16d0331755ffd70b64c3fc362b8","subject":"feat(tool): refuse raw agent runs of guarded check recipes"}],"schema_version":2,"source_run_id":"run-ad5b4af87581ebf811314b2462b39307"}
