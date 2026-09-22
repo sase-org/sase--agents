@@ -41,7 +41,7 @@
 | [toobig-5r.test\_init\_onboarding\_all.0](../bbugyi200.athena.toobig-5r.test_init_onboarding_all.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_launch\_admission\_dispatch.0](../bbugyi200.athena.toobig-5r.test_launch_admission_dispatch.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_memory\_selector\_render.0](../bbugyi200.athena.toobig-5r.test_memory_selector_render.0/README.md) | toobig-5r hood | waiting |
-| [toobig-5r.test\_muse\_provider\_core.0](../bbugyi200.athena.toobig-5r.test_muse_provider_core.0/README.md) | toobig-5r hood | waiting |
+| [toobig-5r.test\_muse\_provider\_core.0](../bbugyi200.athena.toobig-5r.test_muse_provider_core.0/README.md) | toobig-5r hood | active |
 | [toobig-5r.test\_notification\_toast\_polling\_agent\_refresh.0](../bbugyi200.athena.toobig-5r.test_notification_toast_polling_agent_refresh.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_prompt\_history\_modal.0](../bbugyi200.athena.toobig-5r.test_prompt_history_modal.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_repo\_handler\_open\_configured.0](../bbugyi200.athena.toobig-5r.test_repo_handler_open_configured.0/README.md) | toobig-5r hood | waiting |
@@ -51,7 +51,7 @@
 | [toobig-5r.test\_sidecar\_clone\_retry.0](../bbugyi200.athena.toobig-5r.test_sidecar_clone_retry.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_sudo\_acceptance.0](../bbugyi200.athena.toobig-5r.test_sudo_acceptance.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_sudo\_gate.0](../bbugyi200.athena.toobig-5r.test_sudo_gate.0/README.md) | toobig-5r hood | waiting |
-| [toobig-5r.test\_v2\_io.0](../bbugyi200.athena.toobig-5r.test_v2_io.0/README.md) | toobig-5r hood | active |
+| [toobig-5r.test\_v2\_io.0](../bbugyi200.athena.toobig-5r.test_v2_io.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_workspace\_lease.0](../bbugyi200.athena.toobig-5r.test_workspace_lease.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.visual\_capture\_store.0](../bbugyi200.athena.toobig-5r.visual_capture_store.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.visual\_maintenance\_run.0](../bbugyi200.athena.toobig-5r.visual_maintenance_run.0/README.md) | toobig-5r hood | completed |

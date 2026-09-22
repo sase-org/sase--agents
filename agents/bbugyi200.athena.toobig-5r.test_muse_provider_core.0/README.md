@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5r](../../users/bbugyi200/machines/athena/hoods/toobig-5r/README.md) / toobig-5r.test\_muse\_provider\_core.0
 
-**Global name:** `bbugyi200.athena.toobig-5r.test_muse_provider_core.0` · **State:** waiting · **Source run:** `run-d3d1de5956187097f56021ede08a6773`
+**Global name:** `bbugyi200.athena.toobig-5r.test_muse_provider_core.0` · **State:** active · **Source run:** `run-d3d1de5956187097f56021ede08a6773`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5r
 
@@ -10,12 +10,18 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20260921075728
-- Commits: 0
+- Timing: 2026-09-22T03:01:52.518172+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`1108890`](https://github.com/sase-org/sase/commit/1108890de797b060b3d972b0d4d584a61b319fdf) | test(muse): split test\_muse\_provider\_core into identity, invocation, and stream files | 2026-09-21 23:11:40 EDT |
 
 ## Neighbors
 
@@ -50,7 +56,7 @@
 | [toobig-5r.test\_sidecar\_clone\_retry.0](../bbugyi200.athena.toobig-5r.test_sidecar_clone_retry.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_sudo\_acceptance.0](../bbugyi200.athena.toobig-5r.test_sudo_acceptance.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_sudo\_gate.0](../bbugyi200.athena.toobig-5r.test_sudo_gate.0/README.md) | toobig-5r hood | waiting |
-| [toobig-5r.test\_v2\_io.0](../bbugyi200.athena.toobig-5r.test_v2_io.0/README.md) | toobig-5r hood | active |
+| [toobig-5r.test\_v2\_io.0](../bbugyi200.athena.toobig-5r.test_v2_io.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_visual\_capture.0](../bbugyi200.athena.toobig-5r.test_visual_capture.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_workspace\_lease.0](../bbugyi200.athena.toobig-5r.test_workspace_lease.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.visual\_capture\_store.0](../bbugyi200.athena.toobig-5r.visual_capture_store.0/README.md) | toobig-5r hood | completed |
