@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / research
 
-**Global hood:** `bbugyi200.athena.research` · **Runs:** 540 · **Families:** 8 · **States:** active 364, completed 72, dismissed 74, failed 2, waiting 28
+**Global hood:** `bbugyi200.athena.research` · **Runs:** 540 · **Families:** 8 · **States:** active 363, completed 73, dismissed 74, failed 2, waiting 28
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -545,4 +545,4 @@
 | [research.00.cld](../../../../../../agents/bbugyi200.athena.research.00.cld/README.md) | active | opus / claude | 2026-08-07T17:47:39.305203+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.00.cld/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.00.cld/chat.md) |
 | [research.y.cld](../../../../../../agents/bbugyi200.athena.research.y.cld/README.md) | active | opus / claude | 2026-08-05T21:37:48.944996+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.y.cld/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.y.cld/chat.md) |
 | [research.x.final](../../../../../../agents/bbugyi200.athena.research.x.final/README.md) | active | claude-fable-5 / claude | 2026-08-02T11:35:13.561334+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.x.final/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.x.final/chat.md) |
-| [research.27.gem](../../../../../../agents/bbugyi200.athena.research.27.gem/README.md) | active | gemini-3.8-flash-high / agy | 2026-09-22T12:18:56.019098+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.27.gem/prompt.md) |
+| [research.27.gem](../../../../../../agents/bbugyi200.athena.research.27.gem/README.md) | completed | gemini-3.8-flash-high / agy | 2026-09-22T12:18:56.019098+00:00 → 2026-09-22T12:32:17.967014+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.27.gem/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.27.gem/chat.md) |
