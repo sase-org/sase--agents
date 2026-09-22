@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0cb0cd0a484418bdfdee0b7b7ac1f556"}
+{"commits":[{"committed_at":1790043553,"sha":"6124030e8b36611eadbc24396d8acc2cac695eba","subject":"refactor(visual): split visual capture store into records, session, inventory modules"}],"schema_version":2,"source_run_id":"run-0cb0cd0a484418bdfdee0b7b7ac1f556"}
