@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [1h](../../users/bbugyi200/machines/apollo/hoods/1h/README.md) / [1h.f0.f0.f0.w2](../../families/bbugyi200.apollo.1h.f0.f0.f0.w2.md) / 1h.f0.f0.f0.w2--1
 
-**Global name:** `bbugyi200.apollo.1h.f0.f0.f0.w2--1` · **State:** active · **Source run:** `run-be74570861e8e22be851d1772e46e444`
+**Global name:** `bbugyi200.apollo.1h.f0.f0.f0.w2--1` · **State:** completed · **Source run:** `run-be74570861e8e22be851d1772e46e444`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 1h
 
@@ -10,12 +10,12 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-22T14:46:56.666888+00:00
+- Timing: 2026-09-22T14:46:56.666888+00:00 → 2026-09-22T18:51:41.097642+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -31,7 +31,9 @@
 | [1h.f0.f0](../../families/bbugyi200.apollo.1h.f0.f0.md) (family · 3) | ancestor | active 1, completed 1, failed 1 |
 | [1h.f0](../../families/bbugyi200.apollo.1h.f0.md) (family · 5) | ancestor | active 1, completed 2, failed 2 |
 | [1h](../../families/bbugyi200.apollo.1h.md) (family · 3) | ancestor | active 1, completed 1, failed 1 |
+| [1h.f0.f0.f0.w2.w0](../../families/bbugyi200.apollo.1h.f0.f0.f0.w2.w0.md) (family · 3) | descendant | active 2, failed 1 |
 | [1h.f0.f0.f0.w2.w0](../bbugyi200.apollo.1h.f0.f0.f0.w2.w0/README.md) | descendant | waiting |
-| [1h.f0.f0.f0.w2.w0.w0](../bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0/README.md) | descendant | waiting |
+| [1h.f0.f0.f0.w2.w0.w0](../../families/bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.md) (family · 3) | descendant | active 2, failed 1 |
+| [1h.f0.f0.f0.w2.w0.w0.w0](../bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.w0/README.md) | descendant | waiting |
 | [1h.f0.f0.f0.w0](../bbugyi200.apollo.1h.f0.f0.f0.w0/README.md) | 1h.f0.f0.f0 hood | waiting |
 | [1h.f0.f0.f0.w1](../bbugyi200.apollo.1h.f0.f0.f0.w1/README.md) | 1h.f0.f0.f0 hood | waiting |

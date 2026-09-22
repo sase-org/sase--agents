@@ -21,11 +21,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [1h.f0.f0.f0.w2](../../families/bbugyi200.apollo.1h.f0.f0.f0.w2.md) (family · 5) | ancestor | active 1, completed 2, failed 2 |
+| [1h.f0.f0.f0.w2](../../families/bbugyi200.apollo.1h.f0.f0.f0.w2.md) (family · 5) | ancestor | completed 3, failed 2 |
 | [1h.f0.f0.f0](../../families/bbugyi200.apollo.1h.f0.f0.f0.md) (family · 7) | ancestor | active 1, completed 3, failed 3 |
 | [1h.f0.f0](../../families/bbugyi200.apollo.1h.f0.f0.md) (family · 3) | ancestor | active 1, completed 1, failed 1 |
 | [1h.f0](../../families/bbugyi200.apollo.1h.f0.md) (family · 5) | ancestor | active 1, completed 2, failed 2 |
 | [1h](../../families/bbugyi200.apollo.1h.md) (family · 3) | ancestor | active 1, completed 1, failed 1 |
-| [1h.f0.f0.f0.w2.w0.w0](../bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0/README.md) | descendant | waiting |
+| [1h.f0.f0.f0.w2.w0.w0](../../families/bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.md) (family · 3) | descendant | active 2, failed 1 |
+| [1h.f0.f0.f0.w2.w0.w0.w0](../bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.w0/README.md) | descendant | waiting |
 | [1h.f0.f0.f0.w0](../bbugyi200.apollo.1h.f0.f0.f0.w0/README.md) | 1h.f0.f0.f0 hood | waiting |
 | [1h.f0.f0.f0.w1](../bbugyi200.apollo.1h.f0.f0.f0.w1/README.md) | 1h.f0.f0.f0 hood | waiting |
