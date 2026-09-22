@@ -33,8 +33,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-169.2](../agents/bbugyi200.apollo.sase-169.2/README.md) | sase-169 hood | active |
-| [sase-169.3](../agents/bbugyi200.apollo.sase-169.3/README.md) | sase-169 hood | waiting |
-| [sase-169.4](../agents/bbugyi200.apollo.sase-169.4/README.md) | sase-169 hood | waiting |
+| [sase-169.2](../agents/bbugyi200.apollo.sase-169.2/README.md) | sase-169 hood | completed |
+| [sase-169.3](bbugyi200.apollo.sase-169.3.md) (family · 8) | sase-169 hood | active 1, completed 4, failed 3 |
+| [sase-169.4](../agents/bbugyi200.apollo.sase-169.4/README.md) | sase-169 hood | active |
 | [sase-169.5](../agents/bbugyi200.apollo.sase-169.5/README.md) | sase-169 hood | waiting |
 | [sase-169.land](../agents/bbugyi200.apollo.sase-169.land/README.md) | sase-169 hood | waiting |

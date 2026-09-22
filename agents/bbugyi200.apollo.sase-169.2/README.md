@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-169](../../users/bbugyi200/machines/apollo/hoods/sase-169/README.md) / sase-169.2
 
-**Global name:** `bbugyi200.apollo.sase-169.2` · **State:** active · **Source run:** `run-5311b7b8fcb23593fbacffbf89c96483`
+**Global name:** `bbugyi200.apollo.sase-169.2` · **State:** completed · **Source run:** `run-5311b7b8fcb23593fbacffbf89c96483`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-169
 
@@ -12,12 +12,12 @@
 - Epic: [sase-169](https://github.com/sase-org/sase--beads/blob/main/pages/sase-169/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-22T14:19:40.044248+00:00
+- Timing: 2026-09-22T14:19:40.044248+00:00 → 2026-09-22T15:34:07.511627+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -30,7 +30,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-169.1](../../families/bbugyi200.apollo.sase-169.1.md) (family · 3) | sase-169 hood | completed 2, failed 1 |
-| [sase-169.3](../bbugyi200.apollo.sase-169.3/README.md) | sase-169 hood | waiting |
-| [sase-169.4](../bbugyi200.apollo.sase-169.4/README.md) | sase-169 hood | waiting |
+| [sase-169.3](../../families/bbugyi200.apollo.sase-169.3.md) (family · 8) | sase-169 hood | active 1, completed 4, failed 3 |
+| [sase-169.4](../bbugyi200.apollo.sase-169.4/README.md) | sase-169 hood | active |
 | [sase-169.5](../bbugyi200.apollo.sase-169.5/README.md) | sase-169 hood | waiting |
 | [sase-169.land](../bbugyi200.apollo.sase-169.land/README.md) | sase-169 hood | waiting |
