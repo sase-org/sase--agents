@@ -58,6 +58,6 @@
 | [toobig-5r.test\_sudo\_acceptance.0](../bbugyi200.athena.toobig-5r.test_sudo_acceptance.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_sudo\_gate.0](../bbugyi200.athena.toobig-5r.test_sudo_gate.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_v2\_io.0](../bbugyi200.athena.toobig-5r.test_v2_io.0/README.md) | toobig-5r hood | completed |
-| [toobig-5r.test\_visual\_capture.0](../bbugyi200.athena.toobig-5r.test_visual_capture.0/README.md) | toobig-5r hood | active |
-| [toobig-5r.test\_workspace\_lease.0](../bbugyi200.athena.toobig-5r.test_workspace_lease.0/README.md) | toobig-5r hood | waiting |
+| [toobig-5r.test\_visual\_capture.0](../bbugyi200.athena.toobig-5r.test_visual_capture.0/README.md) | toobig-5r hood | completed |
+| [toobig-5r.test\_workspace\_lease.0](../bbugyi200.athena.toobig-5r.test_workspace_lease.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.visual\_maintenance\_run.0](../bbugyi200.athena.toobig-5r.visual_maintenance_run.0/README.md) | toobig-5r hood | completed |
