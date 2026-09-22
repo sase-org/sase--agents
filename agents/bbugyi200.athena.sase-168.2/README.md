@@ -23,6 +23,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-168.1](../../families/bbugyi200.athena.sase-168.1.md) (family · 2) | sase-168 hood | active 1, completed 1 |
+| [sase-168.1](../../families/bbugyi200.athena.sase-168.1.md) (family · 3) | sase-168 hood | active 1, completed 1, failed 1 |
 | [sase-168.3](../bbugyi200.athena.sase-168.3/README.md) | sase-168 hood | waiting |
 | [sase-168.land](../bbugyi200.athena.sase-168.land/README.md) | sase-168 hood | waiting |

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1790085410,"sha":"1404010b1e255bdc42711b34202c6f0c2d83a27c","subject":"fix(core-pin): tolerate ratchet apply exit 2 so the bot reaches push and PR"}],"schema_version":2,"source_run_id":"run-ddcc2b04e6be02956d814b38e6d48c6d"}
