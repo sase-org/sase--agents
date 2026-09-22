@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["1h.f0--gate [failed]"]
   n0 --> n2
-  n3["1h.f0--1 [active]"]
+  n3["1h.f0--1 [completed]"]
   n0 --> n3
   n4["1h.f0--code [completed]"]
   n0 --> n4
@@ -26,7 +26,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | 1h.f0--mon | failed | muse-spark-1.3-contributor / muse | 2026-09-22T10:54:48.098353+00:00 → 2026-09-22T11:20:50.782554+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.1h.f0--mon/chat.md) |
 | <a id="member-plan"></a>plan | 1h.f0--plan | completed | opus / claude | 2026-09-22T10:34:37.863289+00:00 → 2026-09-22T10:55:11.218567+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.1h.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.1h.f0--plan/chat.md) |
 | <a id="member-gate"></a>gate | 1h.f0--gate | failed | opus / claude | 2026-09-22T10:36:06.458348+00:00 → 2026-09-22T10:36:22.293752+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.1h.f0--gate/chat.md) |
-| <a id="member-1"></a>1 | 1h.f0--1 | active | muse-spark-1.3-contributor / muse | 2026-09-22T11:20:50.371096+00:00 | [1](../agents/bbugyi200.apollo.1h.f0--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.1h.f0--1/prompt.md) | — |
+| <a id="member-1"></a>1 | 1h.f0--1 | completed | muse-spark-1.3-contributor / muse | 2026-09-22T11:20:50.371096+00:00 → 2026-09-22T11:41:50.452383+00:00 | [1](../agents/bbugyi200.apollo.1h.f0--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.1h.f0--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.1h.f0--1/chat.md) |
 | <a id="member-code"></a>code | 1h.f0--code | completed | muse-spark-1.3-contributor / muse | 2026-09-22T10:36:39.481090+00:00 → 2026-09-22T10:55:11.218567+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.1h.f0--code/chat.md) |
 
 ## Commits
@@ -40,3 +40,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [1h](bbugyi200.apollo.1h.md) (family · 3) | ancestor | completed 2, failed 1 |
+| [1h.f0.f0](bbugyi200.apollo.1h.f0.f0.md) (family · 3) | descendant | active 2, failed 1 |
+| [1h.f0.f0.f0](../agents/bbugyi200.apollo.1h.f0.f0.f0/README.md) | descendant | waiting |

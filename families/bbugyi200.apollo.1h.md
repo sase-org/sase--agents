@@ -35,4 +35,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [1h.f0](bbugyi200.apollo.1h.f0.md) (family · 5) | descendant | active 1, completed 2, failed 2 |
+| [1h.f0](bbugyi200.apollo.1h.f0.md) (family · 5) | descendant | completed 3, failed 2 |
+| [1h.f0.f0](bbugyi200.apollo.1h.f0.f0.md) (family · 3) | descendant | active 2, failed 1 |
+| [1h.f0.f0.f0](../agents/bbugyi200.apollo.1h.f0.f0.f0/README.md) | descendant | waiting |

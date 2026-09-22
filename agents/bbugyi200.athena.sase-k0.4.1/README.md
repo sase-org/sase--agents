@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-k0.4.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-k0/sase-k0.4.1.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-12T12:47:33.047051 → 2026-08-12T13:13:19.527436

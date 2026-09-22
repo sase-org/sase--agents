@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-mv](https://github.com/sase-org/sase--beads/blob/main/pages/sase-mv/README.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-17T08:55:46

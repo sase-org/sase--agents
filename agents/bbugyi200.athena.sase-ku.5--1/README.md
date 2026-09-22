@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-ku.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ku/sase-ku.5.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-13T17:25:20.774789+00:00

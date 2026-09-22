@@ -22,3 +22,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [1h](../../families/bbugyi200.apollo.1h.md) (family · 3) | ancestor | completed 2, failed 1 |
+| [1h.f0.f0](../../families/bbugyi200.apollo.1h.f0.f0.md) (family · 3) | descendant | active 2, failed 1 |
+| [1h.f0.f0.f0](../bbugyi200.apollo.1h.f0.f0.f0/README.md) | descendant | waiting |
