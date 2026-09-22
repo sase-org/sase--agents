@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5r](../../users/bbugyi200/machines/athena/hoods/toobig-5r/README.md) / toobig-5r.test\_sudo\_acceptance.0
 
-**Global name:** `bbugyi200.athena.toobig-5r.test_sudo_acceptance.0` · **State:** waiting · **Source run:** `run-8bba851d9e184e66a69ace5d094826df`
+**Global name:** `bbugyi200.athena.toobig-5r.test_sudo_acceptance.0` · **State:** active · **Source run:** `run-8bba851d9e184e66a69ace5d094826df`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5r
 
@@ -10,12 +10,18 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20260921080336
-- Commits: 0
+- Timing: 2026-09-22T06:38:57.781394+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3cb8583`](https://github.com/sase-org/sase/commit/3cb8583f29fbb181ff4b04dea2ce134bd3a0ad0d) | test(sudo): split test\_sudo\_acceptance.py into focused modules | 2026-09-22 02:47:47 EDT |
 
 ## Neighbors
 
@@ -45,8 +51,8 @@
 | [toobig-5r.test\_notification\_toast\_polling\_agent\_refresh.0](../bbugyi200.athena.toobig-5r.test_notification_toast_polling_agent_refresh.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_prompt\_history\_modal.0](../bbugyi200.athena.toobig-5r.test_prompt_history_modal.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_repo\_handler\_open\_configured.0](../bbugyi200.athena.toobig-5r.test_repo_handler_open_configured.0/README.md) | toobig-5r hood | completed |
-| [toobig-5r.test\_run\_agent\_runner\_slot\_capacity.0](../bbugyi200.athena.toobig-5r.test_run_agent_runner_slot_capacity.0/README.md) | toobig-5r hood | active |
-| [toobig-5r.test\_run\_agent\_wait.0](../bbugyi200.athena.toobig-5r.test_run_agent_wait.0/README.md) | toobig-5r hood | waiting |
+| [toobig-5r.test\_run\_agent\_runner\_slot\_capacity.0](../bbugyi200.athena.toobig-5r.test_run_agent_runner_slot_capacity.0/README.md) | toobig-5r hood | completed |
+| [toobig-5r.test\_run\_agent\_wait.0](../bbugyi200.athena.toobig-5r.test_run_agent_wait.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_service\_platform.0](../bbugyi200.athena.toobig-5r.test_service_platform.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_sidecar\_clone\_retry.0](../bbugyi200.athena.toobig-5r.test_sidecar_clone_retry.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_sudo\_gate.0](../bbugyi200.athena.toobig-5r.test_sudo_gate.0/README.md) | toobig-5r hood | waiting |

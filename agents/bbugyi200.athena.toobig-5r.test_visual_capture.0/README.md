@@ -45,11 +45,11 @@
 | [toobig-5r.test\_notification\_toast\_polling\_agent\_refresh.0](../bbugyi200.athena.toobig-5r.test_notification_toast_polling_agent_refresh.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_prompt\_history\_modal.0](../bbugyi200.athena.toobig-5r.test_prompt_history_modal.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_repo\_handler\_open\_configured.0](../bbugyi200.athena.toobig-5r.test_repo_handler_open_configured.0/README.md) | toobig-5r hood | completed |
-| [toobig-5r.test\_run\_agent\_runner\_slot\_capacity.0](../bbugyi200.athena.toobig-5r.test_run_agent_runner_slot_capacity.0/README.md) | toobig-5r hood | active |
-| [toobig-5r.test\_run\_agent\_wait.0](../bbugyi200.athena.toobig-5r.test_run_agent_wait.0/README.md) | toobig-5r hood | waiting |
+| [toobig-5r.test\_run\_agent\_runner\_slot\_capacity.0](../bbugyi200.athena.toobig-5r.test_run_agent_runner_slot_capacity.0/README.md) | toobig-5r hood | completed |
+| [toobig-5r.test\_run\_agent\_wait.0](../bbugyi200.athena.toobig-5r.test_run_agent_wait.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_service\_platform.0](../bbugyi200.athena.toobig-5r.test_service_platform.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_sidecar\_clone\_retry.0](../bbugyi200.athena.toobig-5r.test_sidecar_clone_retry.0/README.md) | toobig-5r hood | completed |
-| [toobig-5r.test\_sudo\_acceptance.0](../bbugyi200.athena.toobig-5r.test_sudo_acceptance.0/README.md) | toobig-5r hood | waiting |
+| [toobig-5r.test\_sudo\_acceptance.0](../bbugyi200.athena.toobig-5r.test_sudo_acceptance.0/README.md) | toobig-5r hood | active |
 | [toobig-5r.test\_sudo\_gate.0](../bbugyi200.athena.toobig-5r.test_sudo_gate.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_v2\_io.0](../bbugyi200.athena.toobig-5r.test_v2_io.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_workspace\_lease.0](../bbugyi200.athena.toobig-5r.test_workspace_lease.0/README.md) | toobig-5r hood | waiting |
