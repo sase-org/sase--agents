@@ -1,0 +1,19 @@
+# Hood: toobig-5v
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / toobig-5v
+
+**Global hood:** `bbugyi200.athena.toobig-5v` · **Runs:** 11 · **Families:** 0 · **States:** active 1, completed 1, waiting 9
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [toobig-5v.test\_agent\_loader\_dedup\_merge.0](../../../../../../agents/bbugyi200.athena.toobig-5v.test_agent_loader_dedup_merge.0/README.md) | waiting | muse-spark-1.3-contributor / muse | 20260922174029 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5v.test_agent_loader_dedup_merge.0/prompt.md) |
+| [toobig-5v.test\_workspace\_sidecar\_bead\_eviction.0](../../../../../../agents/bbugyi200.athena.toobig-5v.test_workspace_sidecar_bead_eviction.0/README.md) | waiting | muse-spark-1.3-contributor / muse | 20260922174045 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5v.test_workspace_sidecar_bead_eviction.0/prompt.md) |
+| [toobig-5v.host.0](../../../../../../agents/bbugyi200.athena.toobig-5v.host.0/README.md) | waiting | muse-spark-1.3-contributor / muse | 20260922173940 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5v.host.0/prompt.md) |
+| [toobig-5v.test\_agent\_enter\_targets.0](../../../../../../agents/bbugyi200.athena.toobig-5v.test_agent_enter_targets.0/README.md) | waiting | muse-spark-1.3-contributor / muse | 20260922173956 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5v.test_agent_enter_targets.0/prompt.md) |
+| [toobig-5v.runner\_workspace\_prepare.0](../../../../../../agents/bbugyi200.athena.toobig-5v.runner_workspace_prepare.0/README.md) | waiting | muse-spark-1.3-contributor / muse | 20260922173908 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5v.runner_workspace_prepare.0/prompt.md) |
+| [toobig-5v.run\_agent\_runner\_setup.0](../../../../../../agents/bbugyi200.athena.toobig-5v.run_agent_runner_setup.0/README.md) | waiting | muse-spark-1.3-contributor / muse | 20260922173851 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5v.run_agent_runner_setup.0/prompt.md) |
+| [toobig-5v.keybinding\_bindings.0](../../../../../../agents/bbugyi200.athena.toobig-5v.keybinding_bindings.0/README.md) | waiting | muse-spark-1.3-contributor / muse | 20260922173834 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5v.keybinding_bindings.0/prompt.md) |
+| [toobig-5v.agent\_enter\_targets.0](../../../../../../agents/bbugyi200.athena.toobig-5v.agent_enter_targets.0/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-09-22T21:38:40.670400+00:00 → 2026-09-22T22:10:44.121322+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.toobig-5v.agent_enter_targets.0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.toobig-5v.agent_enter_targets.0/prompt.md) |
+| [toobig-5v.test\_service\_host\_scenarios.0](../../../../../../agents/bbugyi200.athena.toobig-5v.test_service_host_scenarios.0/README.md) | waiting | muse-spark-1.3-contributor / muse | 20260922174013 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5v.test_service_host_scenarios.0/prompt.md) |
+| [toobig-5v.display\_panel\_widgets.0](../../../../../../agents/bbugyi200.athena.toobig-5v.display_panel_widgets.0/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-22T22:12:09.730265+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5v.display_panel_widgets.0/prompt.md) |
+| [toobig-5v.runner\_workspace\_sidecar.0](../../../../../../agents/bbugyi200.athena.toobig-5v.runner_workspace_sidecar.0/README.md) | waiting | muse-spark-1.3-contributor / muse | 20260922173924 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5v.runner_workspace_sidecar.0/prompt.md) |
