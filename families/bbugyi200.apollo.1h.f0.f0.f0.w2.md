@@ -26,8 +26,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | 1h.f0.f0.f0.w2--code | completed | muse-spark-1.3-contributor / muse | 2026-09-22T14:00:50.685514+00:00 → 2026-09-22T14:23:59.437783+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2--code/chat.md) |
 | <a id="member-plan"></a>plan | 1h.f0.f0.f0.w2--plan | completed | opus / claude | 2026-09-22T13:51:06.518357+00:00 → 2026-09-22T14:23:59.437783+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2--plan/chat.md) |
 | <a id="member-gate"></a>gate | 1h.f0.f0.f0.w2--gate | failed | opus / claude | 2026-09-22T14:00:27.893292+00:00 → 2026-09-22T14:00:38.701256+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2--gate/chat.md) |
-| <a id="member-1"></a>1 | 1h.f0.f0.f0.w2--1 | active | muse-spark-1.3-contributor / muse | 2026-09-22T14:46:56.666888+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | 1h.f0.f0.f0.w2--1 | active | muse-spark-1.3-contributor / muse | 2026-09-22T14:46:56.666888+00:00 | [1](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2--1/prompt.md) | — |
 | <a id="member-mon"></a>mon | 1h.f0.f0.f0.w2--mon | failed | muse-spark-1.3-contributor / muse | 2026-09-22T14:23:24.317248+00:00 → 2026-09-22T14:46:56.954201+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2--mon/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`d60464c`](https://github.com/sase-org/sase/commit/d60464c61359fd9ccd6ea97b22f39ba03ae68bf2) | feat(ace): polish Agents status row with dot grammar, refresh countdown, and load gauge | 2026-09-22 14:47:37 EDT |
 
 ## Neighbors
 
