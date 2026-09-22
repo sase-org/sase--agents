@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase %w:1j Why is this `! ` before the `0%` for the codex provider's usage window indicator (see the ~/tmp/screenshots/20260922_153418.png screenshot for context)? Can you help me fix this so the `0%` for the codex provider looks like the `0%` for the grok provider (no exclamation point)? #plan %m:@xlarge

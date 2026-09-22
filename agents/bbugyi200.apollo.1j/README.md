@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [1j](../../users/bbugyi200/machines/apollo/hoods/1j/README.md) / 1j
 
-**Global name:** `bbugyi200.apollo.1j` · **State:** active · **Source run:** `run-cd0793ce2cea9e5e3570e298efd8c616`
+**Global name:** `bbugyi200.apollo.1j` · **State:** completed · **Source run:** `run-cd0793ce2cea9e5e3570e298efd8c616`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 1j
 
@@ -10,12 +10,12 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-22T19:30:21.729662+00:00
+- Timing: 2026-09-22T19:30:21.729662+00:00 → 2026-09-22T19:49:29.182010+00:00
 - Commits: [3](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,4 +29,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [1j.w0](../bbugyi200.apollo.1j.w0/README.md) | descendant | waiting |
+| [1j.w0](../../families/bbugyi200.apollo.1j.w0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |
