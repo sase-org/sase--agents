@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.25.final
 
-**Global name:** `bbugyi200.athena.research.25.final` · **State:** completed · **Source run:** `run-1dfd29c30257006c29658699ad03caa1`
+**Global name:** `bbugyi200.athena.research.25.final` · **State:** active · **Source run:** `run-1dfd29c30257006c29658699ad03caa1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-09-21T22:55:18.058906+00:00 → 2026-09-21T23:13:59.088001+00:00
+- Timing: 2026-09-21T22:55:18.058906+00:00
 - Commits: 0
 
 ## Files
@@ -21,9 +21,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.25.cld](../bbugyi200.athena.research.25.cld/README.md) | research.25 hood | completed |
-| [research.25.gem](../bbugyi200.athena.research.25.gem/README.md) | research.25 hood | completed |
-| [research.25.mus](../bbugyi200.athena.research.25.mus/README.md) | research.25 hood | completed |
+| [research.25.cld](../bbugyi200.athena.research.25.cld/README.md) | research.25 hood | active |
+| [research.25.gem](../bbugyi200.athena.research.25.gem/README.md) | research.25 hood | active |
+| [research.25.mus](../bbugyi200.athena.research.25.mus/README.md) | research.25 hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
@@ -74,4 +74,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 475 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 479 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
