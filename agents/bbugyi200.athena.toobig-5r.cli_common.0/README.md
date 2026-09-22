@@ -32,10 +32,10 @@
 | [toobig-5r.loader\_refresh.0](../bbugyi200.athena.toobig-5r.loader_refresh.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.ssh.0](../bbugyi200.athena.toobig-5r.ssh.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_ace\_tmux.0](../bbugyi200.athena.toobig-5r.test_ace_tmux.0/README.md) | toobig-5r hood | completed |
-| [toobig-5r.test\_agent\_hold\_service.0](../bbugyi200.athena.toobig-5r.test_agent_hold_service.0/README.md) | toobig-5r hood | active |
-| [toobig-5r.test\_agent\_loader\_query\_window.0](../bbugyi200.athena.toobig-5r.test_agent_loader_query_window.0/README.md) | toobig-5r hood | waiting |
+| [toobig-5r.test\_agent\_hold\_service.0](../bbugyi200.athena.toobig-5r.test_agent_hold_service.0/README.md) | toobig-5r hood | completed |
+| [toobig-5r.test\_agent\_loader\_query\_window.0](../bbugyi200.athena.toobig-5r.test_agent_loader_query_window.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_agent\_panels\_display.0](../bbugyi200.athena.toobig-5r.test_agent_panels_display.0/README.md) | toobig-5r hood | completed |
-| [toobig-5r.test\_agents\_tab\_apply\_boundary.0](../bbugyi200.athena.toobig-5r.test_agents_tab_apply_boundary.0/README.md) | toobig-5r hood | waiting |
+| [toobig-5r.test\_agents\_tab\_apply\_boundary.0](../bbugyi200.athena.toobig-5r.test_agents_tab_apply_boundary.0/README.md) | toobig-5r hood | active |
 | [toobig-5r.test\_artifact\_link\_store\_reconcile.0](../bbugyi200.athena.toobig-5r.test_artifact_link_store_reconcile.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_axe\_chop\_artifact\_link\_backfill.0](../bbugyi200.athena.toobig-5r.test_axe_chop_artifact_link_backfill.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_bgcmd\_list\_formatters.0](../bbugyi200.athena.toobig-5r.test_bgcmd_list_formatters.0/README.md) | toobig-5r hood | completed |
