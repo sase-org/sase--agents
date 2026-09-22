@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-5t.test\_query\_profile\_corpus\_facade.0](../bbugyi200.athena.toobig-5t.test_query_profile_corpus_facade.0/README.md) | toobig-5t hood | waiting |
+| [toobig-5t.test\_query\_profile\_corpus\_facade.0](../bbugyi200.athena.toobig-5t.test_query_profile_corpus_facade.0/README.md) | toobig-5t hood | completed |
