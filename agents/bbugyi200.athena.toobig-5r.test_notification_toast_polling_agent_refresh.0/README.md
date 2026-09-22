@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5r](../../users/bbugyi200/machines/athena/hoods/toobig-5r/README.md) / toobig-5r.test\_notification\_toast\_polling\_agent\_refresh.0
 
-**Global name:** `bbugyi200.athena.toobig-5r.test_notification_toast_polling_agent_refresh.0` · **State:** active · **Source run:** `run-1f75de96e249abbf35be3ed1995865f6`
+**Global name:** `bbugyi200.athena.toobig-5r.test_notification_toast_polling_agent_refresh.0` · **State:** completed · **Source run:** `run-1f75de96e249abbf35be3ed1995865f6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5r
 
@@ -10,12 +10,12 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-22T06:03:51.327407+00:00
+- Timing: 2026-09-22T06:03:51.327407+00:00 → 2026-09-22T06:15:12.638162+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -50,7 +50,7 @@
 | [toobig-5r.test\_muse\_provider\_core.0](../bbugyi200.athena.toobig-5r.test_muse_provider_core.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_prompt\_history\_modal.0](../bbugyi200.athena.toobig-5r.test_prompt_history_modal.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_repo\_handler\_open\_configured.0](../bbugyi200.athena.toobig-5r.test_repo_handler_open_configured.0/README.md) | toobig-5r hood | completed |
-| [toobig-5r.test\_run\_agent\_runner\_slot\_capacity.0](../bbugyi200.athena.toobig-5r.test_run_agent_runner_slot_capacity.0/README.md) | toobig-5r hood | waiting |
+| [toobig-5r.test\_run\_agent\_runner\_slot\_capacity.0](../bbugyi200.athena.toobig-5r.test_run_agent_runner_slot_capacity.0/README.md) | toobig-5r hood | active |
 | [toobig-5r.test\_run\_agent\_wait.0](../bbugyi200.athena.toobig-5r.test_run_agent_wait.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_service\_platform.0](../bbugyi200.athena.toobig-5r.test_service_platform.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_sidecar\_clone\_retry.0](../bbugyi200.athena.toobig-5r.test_sidecar_clone_retry.0/README.md) | toobig-5r hood | completed |
