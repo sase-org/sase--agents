@@ -23,4 +23,7 @@
 |---|---|---|
 | [1h.f0](../../families/bbugyi200.apollo.1h.f0.md) (family · 5) | ancestor | completed 3, failed 2 |
 | [1h](../../families/bbugyi200.apollo.1h.md) (family · 3) | ancestor | completed 2, failed 1 |
-| [1h.f0.f0.f0](../bbugyi200.apollo.1h.f0.f0.f0/README.md) | descendant | waiting |
+| [1h.f0.f0.f0](../../families/bbugyi200.apollo.1h.f0.f0.f0.md) (family · 7) | descendant | active 1, completed 3, failed 3 |
+| [1h.f0.f0.f0.w0](../bbugyi200.apollo.1h.f0.f0.f0.w0/README.md) | descendant | waiting |
+| [1h.f0.f0.f0.w1](../bbugyi200.apollo.1h.f0.f0.f0.w1/README.md) | descendant | waiting |
+| [1h.f0.f0.f0.w2](../bbugyi200.apollo.1h.f0.f0.f0.w2/README.md) | descendant | waiting |

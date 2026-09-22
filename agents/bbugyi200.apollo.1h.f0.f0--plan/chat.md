@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 1h.f0.f0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-1h_f0_f0__plan-260922_074715.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-1h_f0_f0__code-260922_074715.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/launch_context_lowercase_labels.md
 
 
