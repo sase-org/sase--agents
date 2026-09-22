@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-15b.1](../bbugyi200.athena.sase-15b.1/README.md) | sase-15b hood | completed |
-| [sase-15b.10](../bbugyi200.athena.sase-15b.10/README.md) | sase-15b hood | active |
+| [sase-15b.10](../bbugyi200.athena.sase-15b.10/README.md) | sase-15b hood | completed |
 | [sase-15b.2](../bbugyi200.athena.sase-15b.2/README.md) | sase-15b hood | completed |
 | [sase-15b.4](../bbugyi200.athena.sase-15b.4/README.md) | sase-15b hood | completed |
 | [sase-15b.5](../bbugyi200.athena.sase-15b.5/README.md) | sase-15b hood | completed |
@@ -32,4 +32,4 @@
 | [sase-15b.7](../bbugyi200.athena.sase-15b.7/README.md) | sase-15b hood | completed |
 | [sase-15b.8](../bbugyi200.athena.sase-15b.8/README.md) | sase-15b hood | completed |
 | [sase-15b.9](../bbugyi200.athena.sase-15b.9/README.md) | sase-15b hood | completed |
-| [sase-15b.land](../bbugyi200.athena.sase-15b.land/README.md) | sase-15b hood | waiting |
+| [sase-15b.land](../bbugyi200.athena.sase-15b.land/README.md) | sase-15b hood | completed |
