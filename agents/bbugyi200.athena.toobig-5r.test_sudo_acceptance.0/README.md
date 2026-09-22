@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5r](../../users/bbugyi200/machines/athena/hoods/toobig-5r/README.md) / toobig-5r.test\_sudo\_acceptance.0
 
-**Global name:** `bbugyi200.athena.toobig-5r.test_sudo_acceptance.0` · **State:** active · **Source run:** `run-8bba851d9e184e66a69ace5d094826df`
+**Global name:** `bbugyi200.athena.toobig-5r.test_sudo_acceptance.0` · **State:** completed · **Source run:** `run-8bba851d9e184e66a69ace5d094826df`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5r
 
@@ -10,12 +10,12 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-22T06:38:57.781394+00:00
+- Timing: 2026-09-22T06:38:57.781394+00:00 → 2026-09-22T06:50:24.160163+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -55,7 +55,7 @@
 | [toobig-5r.test\_run\_agent\_wait.0](../bbugyi200.athena.toobig-5r.test_run_agent_wait.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_service\_platform.0](../bbugyi200.athena.toobig-5r.test_service_platform.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_sidecar\_clone\_retry.0](../bbugyi200.athena.toobig-5r.test_sidecar_clone_retry.0/README.md) | toobig-5r hood | completed |
-| [toobig-5r.test\_sudo\_gate.0](../bbugyi200.athena.toobig-5r.test_sudo_gate.0/README.md) | toobig-5r hood | waiting |
+| [toobig-5r.test\_sudo\_gate.0](../bbugyi200.athena.toobig-5r.test_sudo_gate.0/README.md) | toobig-5r hood | active |
 | [toobig-5r.test\_v2\_io.0](../bbugyi200.athena.toobig-5r.test_v2_io.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_visual\_capture.0](../bbugyi200.athena.toobig-5r.test_visual_capture.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_workspace\_lease.0](../bbugyi200.athena.toobig-5r.test_workspace_lease.0/README.md) | toobig-5r hood | waiting |

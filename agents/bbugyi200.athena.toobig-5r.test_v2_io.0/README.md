@@ -55,8 +55,8 @@
 | [toobig-5r.test\_run\_agent\_wait.0](../bbugyi200.athena.toobig-5r.test_run_agent_wait.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_service\_platform.0](../bbugyi200.athena.toobig-5r.test_service_platform.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_sidecar\_clone\_retry.0](../bbugyi200.athena.toobig-5r.test_sidecar_clone_retry.0/README.md) | toobig-5r hood | completed |
-| [toobig-5r.test\_sudo\_acceptance.0](../bbugyi200.athena.toobig-5r.test_sudo_acceptance.0/README.md) | toobig-5r hood | active |
-| [toobig-5r.test\_sudo\_gate.0](../bbugyi200.athena.toobig-5r.test_sudo_gate.0/README.md) | toobig-5r hood | waiting |
+| [toobig-5r.test\_sudo\_acceptance.0](../bbugyi200.athena.toobig-5r.test_sudo_acceptance.0/README.md) | toobig-5r hood | completed |
+| [toobig-5r.test\_sudo\_gate.0](../bbugyi200.athena.toobig-5r.test_sudo_gate.0/README.md) | toobig-5r hood | active |
 | [toobig-5r.test\_visual\_capture.0](../bbugyi200.athena.toobig-5r.test_visual_capture.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_workspace\_lease.0](../bbugyi200.athena.toobig-5r.test_workspace_lease.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.visual\_capture\_store.0](../bbugyi200.athena.toobig-5r.visual_capture_store.0/README.md) | toobig-5r hood | completed |
