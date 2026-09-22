@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-16h](../../users/bbugyi200/machines/athena/hoods/sase-16h/README.md) / sase-16h.6
 
-**Global name:** `bbugyi200.athena.sase-16h.6` · **State:** waiting · **Source run:** `run-2a51af2cdd472014549b1f91974ae061`
+**Global name:** `bbugyi200.athena.sase-16h.6` · **State:** active · **Source run:** `run-2a51af2cdd472014549b1f91974ae061`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-16h
 
@@ -12,12 +12,18 @@
 - Epic: [sase-16h](https://github.com/sase-org/sase--beads/blob/main/pages/sase-16h/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20260922130704
-- Commits: 0
+- Timing: 2026-09-22T22:01:44.573914+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`49bf158`](https://github.com/sase-org/sase/commit/49bf158ce6b99362e31ea58d07812fc0cc8d3bf5) | docs(memory): linked repos use sase tool run check too | 2026-09-22 18:31:08 EDT |
 
 ## Neighbors
 
@@ -27,5 +33,5 @@
 | [sase-16h.2](../bbugyi200.athena.sase-16h.2/README.md) | sase-16h hood | completed |
 | [sase-16h.3](../bbugyi200.athena.sase-16h.3/README.md) | sase-16h hood | completed |
 | [sase-16h.4](../bbugyi200.athena.sase-16h.4/README.md) | sase-16h hood | completed |
-| [sase-16h.5](../bbugyi200.athena.sase-16h.5/README.md) | sase-16h hood | active |
+| [sase-16h.5](../bbugyi200.athena.sase-16h.5/README.md) | sase-16h hood | completed |
 | [sase-16h.land](../bbugyi200.athena.sase-16h.land/README.md) | sase-16h hood | waiting |
