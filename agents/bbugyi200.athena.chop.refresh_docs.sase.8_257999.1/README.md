@@ -41,6 +41,8 @@
 | [chop.refresh\_docs.sase.1\_023120.2](../bbugyi200.athena.chop.refresh_docs.sase.1_023120.2/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.1\_036535.1](../bbugyi200.athena.chop.refresh_docs.sase.1_036535.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.1\_036535.2](../bbugyi200.athena.chop.refresh_docs.sase.1_036535.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
+| [chop.refresh\_docs.sase.1\_212090.1](../bbugyi200.athena.chop.refresh_docs.sase.1_212090.1/README.md) | chop.refresh\_docs.sase hood | active |
+| [chop.refresh\_docs.sase.1\_212090.2](../bbugyi200.athena.chop.refresh_docs.sase.1_212090.2/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.1\_232033.1](../bbugyi200.athena.chop.refresh_docs.sase.1_232033.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.1\_232033.2](../bbugyi200.athena.chop.refresh_docs.sase.1_232033.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.1\_363178.1](../bbugyi200.athena.chop.refresh_docs.sase.1_363178.1/README.md) | chop.refresh\_docs.sase hood | active |
@@ -66,6 +68,4 @@
 | [chop.refresh\_docs.sase.2\_860680.2](../bbugyi200.athena.chop.refresh_docs.sase.2_860680.2/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.2\_895086.1](../bbugyi200.athena.chop.refresh_docs.sase.2_895086.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.2\_895086.2](../bbugyi200.athena.chop.refresh_docs.sase.2_895086.2/README.md) | chop.refresh\_docs.sase hood | waiting |
-| [chop.refresh\_docs.sase.3\_676380.1](../bbugyi200.athena.chop.refresh_docs.sase.3_676380.1/README.md) | chop.refresh\_docs.sase hood | active |
-| [chop.refresh\_docs.sase.3\_676380.2](../bbugyi200.athena.chop.refresh_docs.sase.3_676380.2/README.md) | chop.refresh\_docs.sase hood | waiting |
-| … and 82 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/chop/README.md) | chop.refresh\_docs.sase hood | — |
+| … and 90 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/chop/README.md) | chop.refresh\_docs.sase hood | — |

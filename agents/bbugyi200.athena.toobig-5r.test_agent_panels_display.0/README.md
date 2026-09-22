@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5r](../../users/bbugyi200/machines/athena/hoods/toobig-5r/README.md) / toobig-5r.test\_agent\_panels\_display.0
 
-**Global name:** `bbugyi200.athena.toobig-5r.test_agent_panels_display.0` · **State:** waiting · **Source run:** `run-596fd273669f105a0591d9f1e11e257b`
+**Global name:** `bbugyi200.athena.toobig-5r.test_agent_panels_display.0` · **State:** active · **Source run:** `run-596fd273669f105a0591d9f1e11e257b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5r
 
@@ -10,7 +10,7 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20260921075500
+- Timing: 2026-09-22T01:28:12.466487+00:00
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 |---|---|---|
 | [toobig-5r.cli\_common.0](../bbugyi200.athena.toobig-5r.cli_common.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.execution.0](../bbugyi200.athena.toobig-5r.execution.0/README.md) | toobig-5r hood | completed |
-| [toobig-5r.executor.0](../bbugyi200.athena.toobig-5r.executor.0/README.md) | toobig-5r hood | active |
+| [toobig-5r.executor.0](../bbugyi200.athena.toobig-5r.executor.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.loader\_refresh.0](../bbugyi200.athena.toobig-5r.loader_refresh.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.ssh.0](../bbugyi200.athena.toobig-5r.ssh.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_ace\_tmux.0](../bbugyi200.athena.toobig-5r.test_ace_tmux.0/README.md) | toobig-5r hood | waiting |
@@ -42,7 +42,7 @@
 | [toobig-5r.test\_memory\_selector\_render.0](../bbugyi200.athena.toobig-5r.test_memory_selector_render.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_muse\_provider\_core.0](../bbugyi200.athena.toobig-5r.test_muse_provider_core.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_notification\_toast\_polling\_agent\_refresh.0](../bbugyi200.athena.toobig-5r.test_notification_toast_polling_agent_refresh.0/README.md) | toobig-5r hood | waiting |
-| [toobig-5r.test\_prompt\_history\_modal.0](../bbugyi200.athena.toobig-5r.test_prompt_history_modal.0/README.md) | toobig-5r hood | waiting |
+| [toobig-5r.test\_prompt\_history\_modal.0](../bbugyi200.athena.toobig-5r.test_prompt_history_modal.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_repo\_handler\_open\_configured.0](../bbugyi200.athena.toobig-5r.test_repo_handler_open_configured.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_run\_agent\_runner\_slot\_capacity.0](../bbugyi200.athena.toobig-5r.test_run_agent_runner_slot_capacity.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_run\_agent\_wait.0](../bbugyi200.athena.toobig-5r.test_run_agent_wait.0/README.md) | toobig-5r hood | waiting |
