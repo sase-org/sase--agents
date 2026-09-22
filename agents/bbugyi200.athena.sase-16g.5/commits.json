@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1c611963649fd2778ab25ff4f759a3ba"}
+{"commits":[{"committed_at":1790108393,"sha":"c1af4a828178f0c820fe5ffa537e10b51184ca29","subject":"feat(service): CLI and Services tab show real failure states"}],"schema_version":2,"source_run_id":"run-1c611963649fd2778ab25ff4f759a3ba"}

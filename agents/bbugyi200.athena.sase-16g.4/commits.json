@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-69756e182da7770664014f82e4bf82b2"}
+{"commits":[{"committed_at":1790105836,"sha":"716c77dce324cb2ef6f36990efaf8a0a416c397b","subject":"feat(service): honor give_up with parked records and loud failure notifications"}],"schema_version":2,"source_run_id":"run-69756e182da7770664014f82e4bf82b2"}
