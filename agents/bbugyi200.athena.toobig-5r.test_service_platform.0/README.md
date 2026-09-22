@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5r](../../users/bbugyi200/machines/athena/hoods/toobig-5r/README.md) / toobig-5r.test\_service\_platform.0
 
-**Global name:** `bbugyi200.athena.toobig-5r.test_service_platform.0` · **State:** waiting · **Source run:** `run-9af9e5b2342c6c31e8d861ee47805c44`
+**Global name:** `bbugyi200.athena.toobig-5r.test_service_platform.0` · **State:** completed · **Source run:** `run-9af9e5b2342c6c31e8d861ee47805c44`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5r
 
@@ -10,12 +10,18 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20260921075955
-- Commits: 0
+- Timing: 2026-09-22T04:27:41.238240+00:00 → 2026-09-22T04:38:09.677071+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ab2544c`](https://github.com/sase-org/sase/commit/ab2544ca968320c72eeec3dcd1851a8364d7f433) | test(service): split test\_service\_platform.py into focused modules | 2026-09-22 00:35:32 EDT |
 
 ## Neighbors
 
@@ -27,7 +33,7 @@
 | [toobig-5r.loader\_refresh.0](../bbugyi200.athena.toobig-5r.loader_refresh.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.ssh.0](../bbugyi200.athena.toobig-5r.ssh.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_ace\_tmux.0](../bbugyi200.athena.toobig-5r.test_ace_tmux.0/README.md) | toobig-5r hood | completed |
-| [toobig-5r.test\_agent\_hold\_service.0](../bbugyi200.athena.toobig-5r.test_agent_hold_service.0/README.md) | toobig-5r hood | waiting |
+| [toobig-5r.test\_agent\_hold\_service.0](../bbugyi200.athena.toobig-5r.test_agent_hold_service.0/README.md) | toobig-5r hood | active |
 | [toobig-5r.test\_agent\_loader\_query\_window.0](../bbugyi200.athena.toobig-5r.test_agent_loader_query_window.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_agent\_panels\_display.0](../bbugyi200.athena.toobig-5r.test_agent_panels_display.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_agents\_tab\_apply\_boundary.0](../bbugyi200.athena.toobig-5r.test_agents_tab_apply_boundary.0/README.md) | toobig-5r hood | waiting |
@@ -47,7 +53,7 @@
 | [toobig-5r.test\_repo\_handler\_open\_configured.0](../bbugyi200.athena.toobig-5r.test_repo_handler_open_configured.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_run\_agent\_runner\_slot\_capacity.0](../bbugyi200.athena.toobig-5r.test_run_agent_runner_slot_capacity.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_run\_agent\_wait.0](../bbugyi200.athena.toobig-5r.test_run_agent_wait.0/README.md) | toobig-5r hood | waiting |
-| [toobig-5r.test\_sidecar\_clone\_retry.0](../bbugyi200.athena.toobig-5r.test_sidecar_clone_retry.0/README.md) | toobig-5r hood | active |
+| [toobig-5r.test\_sidecar\_clone\_retry.0](../bbugyi200.athena.toobig-5r.test_sidecar_clone_retry.0/README.md) | toobig-5r hood | completed |
 | [toobig-5r.test\_sudo\_acceptance.0](../bbugyi200.athena.toobig-5r.test_sudo_acceptance.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_sudo\_gate.0](../bbugyi200.athena.toobig-5r.test_sudo_gate.0/README.md) | toobig-5r hood | waiting |
 | [toobig-5r.test\_v2\_io.0](../bbugyi200.athena.toobig-5r.test_v2_io.0/README.md) | toobig-5r hood | completed |
