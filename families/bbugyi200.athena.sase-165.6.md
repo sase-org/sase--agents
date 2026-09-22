@@ -33,11 +33,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-165.6.f0](../agents/bbugyi200.athena.sase-165.6.f0/README.md) | descendant | active |
+| [sase-165.6.f0](bbugyi200.athena.sase-165.6.f0.md) (family · 3) | descendant | active 2, failed 1 |
 | [sase-165.1](../agents/bbugyi200.athena.sase-165.1/README.md) | sase-165 hood | completed |
-| [sase-165.2](../agents/bbugyi200.athena.sase-165.2/README.md) | sase-165 hood | active |
+| [sase-165.2](../agents/bbugyi200.athena.sase-165.2/README.md) | sase-165 hood | completed |
 | [sase-165.3](../agents/bbugyi200.athena.sase-165.3/README.md) | sase-165 hood | completed |
 | [sase-165.4](../agents/bbugyi200.athena.sase-165.4/README.md) | sase-165 hood | completed |
 | [sase-165.5](../agents/bbugyi200.athena.sase-165.5/README.md) | sase-165 hood | completed |
-| [sase-165.7](../agents/bbugyi200.athena.sase-165.7/README.md) | sase-165 hood | active |
+| [sase-165.7](bbugyi200.athena.sase-165.7.md) (family · 3) | sase-165 hood | active 1, completed 1, failed 1 |
 | [sase-165.land](../agents/bbugyi200.athena.sase-165.land/README.md) | sase-165 hood | waiting |
