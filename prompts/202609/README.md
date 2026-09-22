@@ -146,6 +146,7 @@
 | [0oo.md](0oo.md) | %queue(weight=1) #fork:0oo--code %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.0oo--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0oo.md) | 0 |
 | [0oq.md](0oq.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0oq--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0oq.md) | 1 |
 | [0ot.md](0ot.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/research_swarm_critique.md][1] | - | [bbugyi200.athena.0ot--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0ot.md) | 1 |
+| [0oz.f0.md](0oz.f0.md) | gh:gh_sase-org__sase #fork:0oz I want this plan implemented anyway! | - | [bbugyi200.athena.0oz.f0](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0oz.f0/README.md) | 0 |
 | [0q.f0.md](0q.f0.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/fix_portable_zsh_paths.md][1] | - | [bbugyi200.kellys_mbp.0q.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.kellys_mbp.0q.f0.md) | 1 |
 | [0r.md](0r.md) | gh:gh_sase-org__sase Can you explain to me why the sase-11e.8.6.5 epic bead's | - | [bbugyi200.kellys_mbp.0r](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.0r/README.md) | 0 |
 | [0s.f0.f0.md](0s.f0.f0.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.apollo.0s.f0.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.0s.f0.f0.md) | 1 |
