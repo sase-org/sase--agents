@@ -1,0 +1,13 @@
+# Hood: sase-168
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-168
+
+**Global hood:** `bbugyi200.athena.sase-168` · **Runs:** 5 · **Families:** 1 · **States:** active 1, completed 2, waiting 2
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [sase-168.3](../../../../../../agents/bbugyi200.athena.sase-168.3/README.md) | waiting | muse-spark-1.3-contributor / muse | 20260922100712 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-168.3/prompt.md) |
+| [sase-168.2](../../../../../../agents/bbugyi200.athena.sase-168.2/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-09-22T14:08:06.755060+00:00 → 2026-09-22T14:22:02.744577+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-168.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-168.2/chat.md) |
+| [sase-168.land](../../../../../../agents/bbugyi200.athena.sase-168.land/README.md) | waiting | opus / claude | 20260922100713 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-168.land/prompt.md) |
+| [sase-168.1--plan](../../../../../../families/bbugyi200.athena.sase-168.1.md#member-plan) | completed | muse-spark-1.3-contributor / muse | 2026-09-22T14:08:19.415324+00:00 → 2026-09-22T14:31:47.564739+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-168.1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-168.1--plan/chat.md) |
+| [sase-168.1--mon](../../../../../../families/bbugyi200.athena.sase-168.1.md#member-mon) | active | muse-spark-1.3-contributor / muse | 2026-09-22T14:31:26.458264+00:00 | 0 | — |
