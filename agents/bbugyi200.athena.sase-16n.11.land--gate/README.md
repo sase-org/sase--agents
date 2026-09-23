@@ -31,8 +31,8 @@
 | [sase-16n.11.7.1](../bbugyi200.athena.sase-16n.11.7.1/README.md) | sase-16n.11 hood | completed |
 | [sase-16n.11.7.2](../bbugyi200.athena.sase-16n.11.7.2/README.md) | sase-16n.11 hood | completed |
 | [sase-16n.11.7.3](../bbugyi200.athena.sase-16n.11.7.3/README.md) | sase-16n.11 hood | completed |
-| [sase-16n.11.7.4](../bbugyi200.athena.sase-16n.11.7.4/README.md) | sase-16n.11 hood | active |
-| [sase-16n.11.7.land](../bbugyi200.athena.sase-16n.11.7.land/README.md) | sase-16n.11 hood | waiting |
+| [sase-16n.11.7.4](../bbugyi200.athena.sase-16n.11.7.4/README.md) | sase-16n.11 hood | completed |
+| [sase-16n.11.7.land](../bbugyi200.athena.sase-16n.11.7.land/README.md) | sase-16n.11 hood | active |
 | [sase-16n.1](../bbugyi200.athena.sase-16n.1/README.md) | sase-16n hood | completed |
 | [sase-16n.10](../bbugyi200.athena.sase-16n.10/README.md) | sase-16n hood | completed |
 | [sase-16n.2](../bbugyi200.athena.sase-16n.2/README.md) | sase-16n hood | completed |
