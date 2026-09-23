@@ -1,37 +1,30 @@
-# Agent: sase-16n.11.2
+# Agent: sase-16n.11.4--mon-0
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-16n](../../users/bbugyi200/machines/athena/hoods/sase-16n/README.md) / sase-16n.11.2
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-16n](../../users/bbugyi200/machines/athena/hoods/sase-16n/README.md) / [sase-16n.11.4](../../families/bbugyi200.athena.sase-16n.11.4.md) / sase-16n.11.4--mon-0
 
-**Global name:** `bbugyi200.athena.sase-16n.11.2` · **State:** completed · **Source run:** `run-eedd57ca9140a23bf6d449b5383ddb82`
+**Global name:** `bbugyi200.athena.sase-16n.11.4--mon-0` · **State:** failed · **Source run:** `run-2a625f802cb78f1de93cee7a10ceeba4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-16n
 
 ## Summary
 
-- Bead: [sase-16n.11.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-16n/sase-16n.11.2.md)
-- Epic: [sase-16n.11](https://github.com/sase-org/sase--beads/blob/main/pages/sase-16n/sase-16n.11.md)
+- Bead: [sase-16n.11.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-16n/sase-16n.11.4.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-23T13:25:59.767073+00:00 → 2026-09-23T14:29:48.826031+00:00
-- Commits: [1](#commits)
+- Timing: 2026-09-23T16:34:08.722454+00:00 → 2026-09-23T16:53:12.827791+00:00
+- Commits: 0
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| sase | [`394a53b`](https://github.com/sase-org/sase/commit/394a53b6dfc5ee436073203fe71cb958d6b039e4) | feat(project-tags): Python tag backend fixes and step-8 launch tests | 2026-09-23 10:25:14 EDT |
+[Chat](chat.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-16n.11.1](../bbugyi200.athena.sase-16n.11.1/README.md) | sase-16n.11 hood | completed |
+| [sase-16n.11.2](../bbugyi200.athena.sase-16n.11.2/README.md) | sase-16n.11 hood | completed |
 | [sase-16n.11.3](../bbugyi200.athena.sase-16n.11.3/README.md) | sase-16n.11 hood | completed |
-| [sase-16n.11.4](../../families/bbugyi200.athena.sase-16n.11.4.md) (family · 5) | sase-16n.11 hood | completed 3, failed 2 |
 | [sase-16n.11.5](../bbugyi200.athena.sase-16n.11.5/README.md) | sase-16n.11 hood | completed |
 | [sase-16n.11.6](../bbugyi200.athena.sase-16n.11.6/README.md) | sase-16n.11 hood | completed |
 | [sase-16n.11.land](../bbugyi200.athena.sase-16n.11.land/README.md) | sase-16n.11 hood | active |
