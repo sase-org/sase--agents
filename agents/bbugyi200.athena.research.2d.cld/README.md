@@ -23,7 +23,7 @@
 |---|---|---|
 | [research.2d.final](../bbugyi200.athena.research.2d.final/README.md) | research.2d hood | waiting |
 | [research.2d.gem](../bbugyi200.athena.research.2d.gem/README.md) | research.2d hood | active |
-| [research.2d.mus](../bbugyi200.athena.research.2d.mus/README.md) | research.2d hood | active |
+| [research.2d.mus](../bbugyi200.athena.research.2d.mus/README.md) | research.2d hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
