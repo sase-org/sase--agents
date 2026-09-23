@@ -28,7 +28,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-5y.claude.0](../bbugyi200.athena.toobig-5y.claude.0/README.md) | toobig-5y hood | waiting |
-| [toobig-5y.panes.0](../bbugyi200.athena.toobig-5y.panes.0/README.md) | toobig-5y hood | waiting |
+| [toobig-5y.panes.0](../bbugyi200.athena.toobig-5y.panes.0/README.md) | toobig-5y hood | completed |
 | [toobig-5y.plugins\_browser\_install.0](../bbugyi200.athena.toobig-5y.plugins_browser_install.0/README.md) | toobig-5y hood | completed |
 | [toobig-5y.presentation.0](../bbugyi200.athena.toobig-5y.presentation.0/README.md) | toobig-5y hood | waiting |
 | [toobig-5y.refresh.0](../bbugyi200.athena.toobig-5y.refresh.0/README.md) | toobig-5y hood | waiting |
