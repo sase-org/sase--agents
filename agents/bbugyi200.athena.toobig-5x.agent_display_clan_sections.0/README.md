@@ -28,6 +28,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-5x.launch\_cwd\_agents.0](../bbugyi200.athena.toobig-5x.launch_cwd_agents.0/README.md) | toobig-5x hood | completed |
-| [toobig-5x.test\_agent\_display\_xprompt.0](../bbugyi200.athena.toobig-5x.test_agent_display_xprompt.0/README.md) | toobig-5x hood | waiting |
+| [toobig-5x.test\_agent\_display\_xprompt.0](../bbugyi200.athena.toobig-5x.test_agent_display_xprompt.0/README.md) | toobig-5x hood | completed |
 | [toobig-5x.test\_project\_alias\_services.0](../bbugyi200.athena.toobig-5x.test_project_alias_services.0/README.md) | toobig-5x hood | waiting |
 | [toobig-5x.work.0](../bbugyi200.athena.toobig-5x.work.0/README.md) | toobig-5x hood | completed |

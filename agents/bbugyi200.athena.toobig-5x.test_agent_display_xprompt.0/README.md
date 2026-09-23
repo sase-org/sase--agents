@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5x](../../users/bbugyi200/machines/athena/hoods/toobig-5x/README.md) / toobig-5x.test\_agent\_display\_xprompt.0
 
-**Global name:** `bbugyi200.athena.toobig-5x.test_agent_display_xprompt.0` · **State:** waiting · **Source run:** `run-91dbae5bb32c0f7b35cf69902d1beea3`
+**Global name:** `bbugyi200.athena.toobig-5x.test_agent_display_xprompt.0` · **State:** completed · **Source run:** `run-91dbae5bb32c0f7b35cf69902d1beea3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5x
 
@@ -10,12 +10,18 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20260923071710
-- Commits: 0
+- Timing: 2026-09-23T12:46:48.995844+00:00 → 2026-09-23T13:14:21.255930+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`26f676f`](https://github.com/sase-org/sase/commit/26f676fb0cb12b3b9f3a3a68d861300b8a5aa906) | test(ace): split agent xprompt display tests into focused modules | 2026-09-23 09:10:32 EDT |
 
 ## Neighbors
 
