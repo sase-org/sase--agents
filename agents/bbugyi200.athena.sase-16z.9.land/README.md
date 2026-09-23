@@ -22,9 +22,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-16z.9.1](../bbugyi200.athena.sase-16z.9.1/README.md) | sase-16z.9 hood | active |
+| [sase-16z.9.1](../bbugyi200.athena.sase-16z.9.1/README.md) | sase-16z.9 hood | completed |
 | [sase-16z.9.2](../bbugyi200.athena.sase-16z.9.2/README.md) | sase-16z.9 hood | completed |
-| [sase-16z.9.3](../bbugyi200.athena.sase-16z.9.3/README.md) | sase-16z.9 hood | waiting |
+| [sase-16z.9.3](../bbugyi200.athena.sase-16z.9.3/README.md) | sase-16z.9 hood | active |
 | [sase-16z.1](../bbugyi200.athena.sase-16z.1/README.md) | sase-16z hood | completed |
 | [sase-16z.2](../bbugyi200.athena.sase-16z.2/README.md) | sase-16z hood | completed |
 | [sase-16z.3](../../families/bbugyi200.athena.sase-16z.3.md) (family · 9) | sase-16z hood | completed 5, failed 4 |
