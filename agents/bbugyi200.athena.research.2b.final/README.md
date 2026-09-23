@@ -15,15 +15,15 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.2b.cld](../bbugyi200.athena.research.2b.cld/README.md) | research.2b hood | completed |
-| [research.2b.gem](../bbugyi200.athena.research.2b.gem/README.md) | research.2b hood | completed |
-| [research.2b.mus](../bbugyi200.athena.research.2b.mus/README.md) | research.2b hood | completed |
+| [research.2b.cld](../bbugyi200.athena.research.2b.cld/README.md) | research.2b hood | active |
+| [research.2b.gem](../bbugyi200.athena.research.2b.gem/README.md) | research.2b hood | active |
+| [research.2b.mus](../bbugyi200.athena.research.2b.mus/README.md) | research.2b hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
@@ -74,4 +74,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 495 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 503 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
