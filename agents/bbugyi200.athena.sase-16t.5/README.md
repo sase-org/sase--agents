@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-16t](../../users/bbugyi200/machines/athena/hoods/sase-16t/README.md) / sase-16t.5
 
-**Global name:** `bbugyi200.athena.sase-16t.5` · **State:** waiting · **Source run:** `run-cc66f1a63cdfe28c93d521d42a20072b`
+**Global name:** `bbugyi200.athena.sase-16t.5` · **State:** active · **Source run:** `run-cc66f1a63cdfe28c93d521d42a20072b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-16t
 
@@ -12,7 +12,7 @@
 - Epic: [sase-16t](https://github.com/sase-org/sase--beads/blob/main/pages/sase-16t/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20260923082513
+- Timing: 2026-09-23T15:36:01.184438+00:00
 - Commits: 0
 
 ## Files
@@ -25,9 +25,9 @@
 |---|---|---|
 | [sase-16t.1](../bbugyi200.athena.sase-16t.1/README.md) | sase-16t hood | completed |
 | [sase-16t.2](../bbugyi200.athena.sase-16t.2/README.md) | sase-16t hood | completed |
-| [sase-16t.3](../bbugyi200.athena.sase-16t.3/README.md) | sase-16t hood | active |
-| [sase-16t.4](../bbugyi200.athena.sase-16t.4/README.md) | sase-16t hood | waiting |
-| [sase-16t.6](../bbugyi200.athena.sase-16t.6/README.md) | sase-16t hood | waiting |
-| [sase-16t.7](../bbugyi200.athena.sase-16t.7/README.md) | sase-16t hood | waiting |
+| [sase-16t.3](../bbugyi200.athena.sase-16t.3/README.md) | sase-16t hood | completed |
+| [sase-16t.4](../bbugyi200.athena.sase-16t.4/README.md) | sase-16t hood | completed |
+| [sase-16t.6](../bbugyi200.athena.sase-16t.6/README.md) | sase-16t hood | active |
+| [sase-16t.7](../bbugyi200.athena.sase-16t.7/README.md) | sase-16t hood | active |
 | [sase-16t.8](../bbugyi200.athena.sase-16t.8/README.md) | sase-16t hood | waiting |
 | [sase-16t.land](../bbugyi200.athena.sase-16t.land/README.md) | sase-16t hood | waiting |
