@@ -159,6 +159,7 @@
 | [0pp.md](0pp.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/always_visible_agent_header.md][1] | - | [bbugyi200.athena.0pp--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0pp.md) | 1 |
 | [0pt.md](0pt.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.0pt--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0pt.md) | 1 |
 | [0pv.md](0pv.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/enter_tale_gate_single_target.md][1] | - | [bbugyi200.athena.0pv--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0pv.md) | 1 |
+| [0pw.md](0pw.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/tribe_panel_prompts.md][1] | - | [bbugyi200.athena.0pw--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0pw.md) | 1 |
 | [0px.md](0px.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.0px--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0px.md) | 1 |
 | [0py.md](0py.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/lease_fetch_transient_retry.md][1] | - | [bbugyi200.athena.0py--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0py.md) | 1 |
 | [0q.f0.md](0q.f0.md) | %model:@small #gh:gh_sase-org__sase [@plan:202609/fix_portable_zsh_paths.md][1] | - | [bbugyi200.kellys_mbp.0q.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.kellys_mbp.0q.f0.md) | 1 |
