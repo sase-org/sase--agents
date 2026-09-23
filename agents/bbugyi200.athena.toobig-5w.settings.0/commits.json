@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4f6020b78147c5f01570b1e11058d325"}
+{"commits":[{"committed_at":1790136556,"sha":"d4d36adcba25294811c16b0cab171667c8d94846","subject":"refactor(config): split _settings.py into section modules behind the facade"}],"schema_version":2,"source_run_id":"run-4f6020b78147c5f01570b1e11058d325"}

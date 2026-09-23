@@ -965,7 +965,7 @@
 | [ce](hoods/ce/README.md) | 2 | 1 | active 1, completed 1 |
 | [cf](hoods/cf/README.md) | 2 | 1 | active 1, completed 1 |
 | [cg](hoods/cg/README.md) | 2 | 1 | active 1, completed 1 |
-| [chop](hoods/chop/README.md) | 157 | 6 | active 79, completed 9, dismissed 29, failed 6, waiting 34 |
+| [chop](hoods/chop/README.md) | 157 | 6 | active 79, completed 10, dismissed 29, failed 6, waiting 33 |
 | [ci\_fix](hoods/ci_fix/README.md) | 35 | 0 | active 17, dismissed 15, waiting 3 |
 | [cj](hoods/cj/README.md) | 2 | 1 | active 1, completed 1 |
 | [cl](hoods/cl/README.md) | 2 | 1 | active 1, completed 1 |
@@ -2005,7 +2005,7 @@
 | [toobig-5t](hoods/toobig-5t/README.md) | 2 | 0 | completed 2 |
 | [toobig-5u](hoods/toobig-5u/README.md) | 5 | 1 | completed 4, failed 1 |
 | [toobig-5v](hoods/toobig-5v/README.md) | 13 | 1 | active 1, completed 11, failed 1 |
-| [toobig-5w](hoods/toobig-5w/README.md) | 2 | 0 | active 1, waiting 1 |
+| [toobig-5w](hoods/toobig-5w/README.md) | 2 | 0 | completed 2 |
 | [toobig-6](hoods/toobig-6/README.md) | 11 | 0 | active 11 |
 | [toobig-7](hoods/toobig-7/README.md) | 6 | 0 | active 6 |
 | [toobig-8](hoods/toobig-8/README.md) | 1 | 0 | active 1 |
