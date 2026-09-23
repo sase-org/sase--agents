@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me remove the `Target here local  Source home` text from above the prompt input widget? This text provides little value and is distracting. #plan
