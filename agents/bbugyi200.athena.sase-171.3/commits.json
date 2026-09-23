@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-60d404df894ce101bbb6587624c14391"}
+{"commits":[{"committed_at":1790191250,"sha":"2f892663858debbb0bc0b6befd62ddc11f6cb918","subject":"feat(plugins-browser): add Available scope, mark-all toggle, and cross-scope filter hint"}],"schema_version":2,"source_run_id":"run-60d404df894ce101bbb6587624c14391"}

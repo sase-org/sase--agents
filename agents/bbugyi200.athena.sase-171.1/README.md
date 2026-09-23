@@ -29,6 +29,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-171.2](../bbugyi200.athena.sase-171.2/README.md) | sase-171 hood | active |
-| [sase-171.3](../bbugyi200.athena.sase-171.3/README.md) | sase-171 hood | waiting |
-| [sase-171.land](../bbugyi200.athena.sase-171.land/README.md) | sase-171 hood | waiting |
+| [sase-171.2](../bbugyi200.athena.sase-171.2/README.md) | sase-171 hood | completed |
+| [sase-171.3](../bbugyi200.athena.sase-171.3/README.md) | sase-171 hood | completed |
+| [sase-171.land](../bbugyi200.athena.sase-171.land/README.md) | sase-171 hood | active |
