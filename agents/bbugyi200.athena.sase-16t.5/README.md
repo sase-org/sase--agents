@@ -35,5 +35,5 @@
 | [sase-16t.4](../bbugyi200.athena.sase-16t.4/README.md) | sase-16t hood | completed |
 | [sase-16t.6](../bbugyi200.athena.sase-16t.6/README.md) | sase-16t hood | completed |
 | [sase-16t.7](../bbugyi200.athena.sase-16t.7/README.md) | sase-16t hood | completed |
-| [sase-16t.8](../bbugyi200.athena.sase-16t.8/README.md) | sase-16t hood | active |
-| [sase-16t.land](../bbugyi200.athena.sase-16t.land/README.md) | sase-16t hood | waiting |
+| [sase-16t.8](../bbugyi200.athena.sase-16t.8/README.md) | sase-16t hood | completed |
+| [sase-16t.land](../bbugyi200.athena.sase-16t.land/README.md) | sase-16t hood | active |
