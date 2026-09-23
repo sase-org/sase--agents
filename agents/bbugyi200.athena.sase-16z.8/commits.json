@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b2b22476c959fb3a76e3fa2225ad29aa"}
+{"commits":[{"committed_at":1790189816,"sha":"5e50d27f599b8b5e5e63376bbcf216825ae32331","subject":"feat(llm-provider): add CLI capability cache for usage probes"}],"schema_version":2,"source_run_id":"run-b2b22476c959fb3a76e3fa2225ad29aa"}

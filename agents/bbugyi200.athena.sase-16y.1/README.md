@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-16y.2](../bbugyi200.athena.sase-16y.2/README.md) | sase-16y hood | completed |
 | [sase-16y.3](../bbugyi200.athena.sase-16y.3/README.md) | sase-16y hood | completed |
-| [sase-16y.land](../bbugyi200.athena.sase-16y.land/README.md) | sase-16y hood | active |
+| [sase-16y.land](../bbugyi200.athena.sase-16y.land/README.md) | sase-16y hood | completed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-16z](../../users/bbugyi200/machines/athena/hoods/sase-16z/README.md) / sase-16z.5
 
-**Global name:** `bbugyi200.athena.sase-16z.5` · **State:** waiting · **Source run:** `run-650ef5f468a06dae92b4830094597b93`
+**Global name:** `bbugyi200.athena.sase-16z.5` · **State:** completed · **Source run:** `run-650ef5f468a06dae92b4830094597b93`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-16z
 
@@ -12,12 +12,18 @@
 - Epic: [sase-16z](https://github.com/sase-org/sase--beads/blob/main/pages/sase-16z/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20260923110819
-- Commits: 0
+- Timing: 2026-09-23T18:05:16.354192+00:00 → 2026-09-23T18:28:30.270746+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`fcce8f2`](https://github.com/sase-org/sase/commit/fcce8f2f336199f4db80088c7a02531c34f66128) | feat(llm-provider): plugin polling floors, CLI fingerprints, and mark-only limit events | 2026-09-23 14:25:40 EDT |
 
 ## Neighbors
 
@@ -25,9 +31,9 @@
 |---|---|---|
 | [sase-16z.1](../bbugyi200.athena.sase-16z.1/README.md) | sase-16z hood | completed |
 | [sase-16z.2](../bbugyi200.athena.sase-16z.2/README.md) | sase-16z hood | completed |
-| [sase-16z.3](../../families/bbugyi200.athena.sase-16z.3.md) (family · 7) | sase-16z hood | active 1, completed 3, failed 3 |
-| [sase-16z.4](../bbugyi200.athena.sase-16z.4/README.md) | sase-16z hood | waiting |
-| [sase-16z.6](../bbugyi200.athena.sase-16z.6/README.md) | sase-16z hood | waiting |
+| [sase-16z.3](../../families/bbugyi200.athena.sase-16z.3.md) (family · 9) | sase-16z hood | completed 5, failed 4 |
+| [sase-16z.4](../bbugyi200.athena.sase-16z.4/README.md) | sase-16z hood | completed |
+| [sase-16z.6](../bbugyi200.athena.sase-16z.6/README.md) | sase-16z hood | active |
 | [sase-16z.7](../bbugyi200.athena.sase-16z.7/README.md) | sase-16z hood | waiting |
-| [sase-16z.8](../bbugyi200.athena.sase-16z.8/README.md) | sase-16z hood | waiting |
+| [sase-16z.8](../bbugyi200.athena.sase-16z.8/README.md) | sase-16z hood | completed |
 | [sase-16z.land](../bbugyi200.athena.sase-16z.land/README.md) | sase-16z hood | waiting |
