@@ -13,18 +13,24 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-09-23T15:59:06.181704+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`e1c4208`](https://github.com/sase-org/sase/commit/e1c4208cd23f8b5561d5ac96386e23d6d6ef5afd) | feat(ace): add tribe CLAN SUMMARIES section with worker-side digests | 2026-09-23 13:01:39 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-170.2](../bbugyi200.athena.sase-170.2/README.md) | sase-170 hood | completed |
-| [sase-170.3](../bbugyi200.athena.sase-170.3/README.md) | sase-170 hood | waiting |
+| [sase-170.3](../bbugyi200.athena.sase-170.3/README.md) | sase-170 hood | active |
 | [sase-170.4](../bbugyi200.athena.sase-170.4/README.md) | sase-170 hood | waiting |
 | [sase-170.5](../bbugyi200.athena.sase-170.5/README.md) | sase-170 hood | waiting |
 | [sase-170.land](../bbugyi200.athena.sase-170.land/README.md) | sase-170 hood | waiting |
