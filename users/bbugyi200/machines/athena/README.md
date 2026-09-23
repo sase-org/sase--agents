@@ -2007,7 +2007,7 @@
 | [toobig-5u](hoods/toobig-5u/README.md) | 5 | 1 | completed 4, failed 1 |
 | [toobig-5v](hoods/toobig-5v/README.md) | 13 | 1 | active 1, completed 11, failed 1 |
 | [toobig-5w](hoods/toobig-5w/README.md) | 2 | 0 | completed 2 |
-| [toobig-5x](hoods/toobig-5x/README.md) | 5 | 0 | active 1, waiting 4 |
+| [toobig-5x](hoods/toobig-5x/README.md) | 5 | 0 | active 1, completed 1, waiting 3 |
 | [toobig-6](hoods/toobig-6/README.md) | 11 | 0 | active 11 |
 | [toobig-7](hoods/toobig-7/README.md) | 6 | 0 | active 6 |
 | [toobig-8](hoods/toobig-8/README.md) | 1 | 0 | active 1 |
