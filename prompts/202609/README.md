@@ -168,6 +168,7 @@
 | [0q4.md](0q4.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.0q4--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0q4.md) | 1 |
 | [0q8.md](0q8.md) | gh:gh_sase-org__sase The Muse LLM provider is using its own harness to wait for | - | [bbugyi200.athena.0q8](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0q8/README.md) | 0 |
 | [0q9.md](0q9.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/labeled_top_bar_indicators.md][1] | - | [bbugyi200.athena.0q9--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0q9.md) | 1 |
+| [0qa.f0.md](0qa.f0.md) | %model:@small [@plan:202609/agent_relation_jump_target_glossary.md][1] | - | [bbugyi200.athena.0qa.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0qa.f0.md) | 1 |
 | [0qb.md](0qb.md) | gh:gh_sase-org__sase Can you help me review and critique the | - | [bbugyi200.athena.0qb](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0qb/README.md) | 0 |
 | [0r.md](0r.md) | gh:gh_sase-org__sase Can you explain to me why the sase-11e.8.6.5 epic bead's | - | [bbugyi200.kellys_mbp.0r](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.0r/README.md) | 0 |
 | [0s.f0.f0.md](0s.f0.f0.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.apollo.0s.f0.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.0s.f0.f0.md) | 1 |
