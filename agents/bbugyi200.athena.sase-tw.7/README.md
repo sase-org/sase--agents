@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-tw.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-tw/sase-tw.7.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-25T15:36:34

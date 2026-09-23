@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-tj.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-tj/sase-tj.3.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-25T08:10:55

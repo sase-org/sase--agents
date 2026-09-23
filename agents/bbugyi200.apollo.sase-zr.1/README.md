@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-zr.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zr/sase-zr.1.md)
 - Model: —
 - Provider: —
 - Timing: 2026-09-13T23:12:59+00:00 → 2026-09-13T23:12:59+00:00
