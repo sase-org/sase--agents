@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-09-23T20:34:30.528167+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`4b9da7a`](https://github.com/sase-org/sase/commit/4b9da7a334065f6fb1bb138056890c407a9c5f1e) | fix(sase-16z.9.1): land nine review fixes for usage probes and models panel | 2026-09-23 17:11:28 EDT |
 
 ## Neighbors
 
