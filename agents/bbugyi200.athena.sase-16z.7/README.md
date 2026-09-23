@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-16z](../../users/bbugyi200/machines/athena/hoods/sase-16z/README.md) / sase-16z.7
 
-**Global name:** `bbugyi200.athena.sase-16z.7` · **State:** waiting · **Source run:** `run-3a75b088f7998d954184e3f1a0baf5d6`
+**Global name:** `bbugyi200.athena.sase-16z.7` · **State:** completed · **Source run:** `run-3a75b088f7998d954184e3f1a0baf5d6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-16z
 
@@ -12,12 +12,18 @@
 - Epic: [sase-16z](https://github.com/sase-org/sase--beads/blob/main/pages/sase-16z/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20260923110822
-- Commits: 0
+- Timing: 2026-09-23T19:23:45.899219+00:00 → 2026-09-23T19:49:47.899806+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`1f75302`](https://github.com/sase-org/sase/commit/1f753027252a7ed5332871f8430d86693c30f5e8) | feat(llm-provider): hot cadence for providers in active use | 2026-09-23 15:47:27 EDT |
 
 ## Neighbors
 
@@ -28,6 +34,6 @@
 | [sase-16z.3](../../families/bbugyi200.athena.sase-16z.3.md) (family · 9) | sase-16z hood | completed 5, failed 4 |
 | [sase-16z.4](../bbugyi200.athena.sase-16z.4/README.md) | sase-16z hood | completed |
 | [sase-16z.5](../bbugyi200.athena.sase-16z.5/README.md) | sase-16z hood | completed |
-| [sase-16z.6](../bbugyi200.athena.sase-16z.6/README.md) | sase-16z hood | active |
+| [sase-16z.6](../bbugyi200.athena.sase-16z.6/README.md) | sase-16z hood | completed |
 | [sase-16z.8](../bbugyi200.athena.sase-16z.8/README.md) | sase-16z hood | completed |
-| [sase-16z.land](../bbugyi200.athena.sase-16z.land/README.md) | sase-16z hood | waiting |
+| [sase-16z.land](../bbugyi200.athena.sase-16z.land/README.md) | sase-16z hood | active |

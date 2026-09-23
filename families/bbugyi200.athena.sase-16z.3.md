@@ -55,7 +55,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-16z.2](../agents/bbugyi200.athena.sase-16z.2/README.md) | sase-16z hood | completed |
 | [sase-16z.4](../agents/bbugyi200.athena.sase-16z.4/README.md) | sase-16z hood | completed |
 | [sase-16z.5](../agents/bbugyi200.athena.sase-16z.5/README.md) | sase-16z hood | completed |
-| [sase-16z.6](../agents/bbugyi200.athena.sase-16z.6/README.md) | sase-16z hood | active |
-| [sase-16z.7](../agents/bbugyi200.athena.sase-16z.7/README.md) | sase-16z hood | waiting |
+| [sase-16z.6](../agents/bbugyi200.athena.sase-16z.6/README.md) | sase-16z hood | completed |
+| [sase-16z.7](../agents/bbugyi200.athena.sase-16z.7/README.md) | sase-16z hood | completed |
 | [sase-16z.8](../agents/bbugyi200.athena.sase-16z.8/README.md) | sase-16z hood | completed |
-| [sase-16z.land](../agents/bbugyi200.athena.sase-16z.land/README.md) | sase-16z hood | waiting |
+| [sase-16z.land](../agents/bbugyi200.athena.sase-16z.land/README.md) | sase-16z hood | active |
