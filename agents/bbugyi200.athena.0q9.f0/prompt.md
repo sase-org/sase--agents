@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:0q9 On second thought can you add the little gear icon back to the procs indicator? #plan %auto

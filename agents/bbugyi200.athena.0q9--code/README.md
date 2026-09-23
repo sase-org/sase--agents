@@ -22,3 +22,12 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`f4d70c4`](https://github.com/sase-org/sase/commit/f4d70c452b5cd668cb637b73422f7a0dfa4999d8) | feat(ace): labeled dot-separated top-bar indicator cluster | 2026-09-23 15:51:50 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [0q9.f0](../bbugyi200.athena.0q9.f0/README.md) | descendant | active |
+| [0q9.f1](../bbugyi200.athena.0q9.f1/README.md) | descendant | active |
+| [0q9.f2](../../families/bbugyi200.athena.0q9.f2.md) (family · 5) | descendant | completed 3, failed 2 |
+| [0q9.f2.f0](../../families/bbugyi200.athena.0q9.f2.f0.md) (family · 3) | descendant | active 2, failed 1 |
