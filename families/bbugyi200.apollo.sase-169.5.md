@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `sase-169` · Members: 3 · Bead: [sase-169.5
 ```mermaid
 flowchart TD
   n0["sase-169.5--plan [completed]"]
-  n1["sase-169.5--1 [active]"]
+  n1["sase-169.5--1 [completed]"]
   n0 --> n1
   n2["sase-169.5--mon [failed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-169.5--plan | completed | muse-spark-1.3-contributor / muse | 2026-09-22T22:56:58.470486+00:00 → 2026-09-23T00:06:36.840813+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-169.5--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-169.5--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-169.5--1 | active | muse-spark-1.3-contributor / muse | 2026-09-23T00:39:56.521023+00:00 | [1](../agents/bbugyi200.apollo.sase-169.5--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-169.5--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-169.5--1 | completed | muse-spark-1.3-contributor / muse | 2026-09-23T00:39:56.521023+00:00 → 2026-09-23T00:47:06.665144+00:00 | [1](../agents/bbugyi200.apollo.sase-169.5--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-169.5--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-169.5--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-169.5--mon | failed | muse-spark-1.3-contributor / muse | 2026-09-23T00:06:10.108863+00:00 → 2026-09-23T00:39:56.554253+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-169.5--mon/chat.md) |
 
 ## Commits
@@ -37,4 +37,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-169.2](../agents/bbugyi200.apollo.sase-169.2/README.md) | sase-169 hood | completed |
 | [sase-169.3](bbugyi200.apollo.sase-169.3.md) (family · 9) | sase-169 hood | completed 5, failed 4 |
 | [sase-169.4](../agents/bbugyi200.apollo.sase-169.4/README.md) | sase-169 hood | completed |
-| [sase-169.land](../agents/bbugyi200.apollo.sase-169.land/README.md) | sase-169 hood | waiting |
+| [sase-169.land](bbugyi200.apollo.sase-169.land.md) (family · 3) | sase-169 hood | active 2, failed 1 |
