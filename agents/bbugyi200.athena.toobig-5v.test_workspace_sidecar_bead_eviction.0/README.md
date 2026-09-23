@@ -11,11 +11,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-09-23T02:43:22.752387+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`5e4937a`](https://github.com/sase-org/sase/commit/5e4937a97a24655a81e66432d45ad6f3d5050c4d) | test(bead): split workspace sidecar bead eviction tests by sidecar kind | 2026-09-22 22:55:23 EDT |
 
 ## Neighbors
 

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1c9e0a6a02a52dfc6b235b824f93d5d8"}
+{"commits":[{"committed_at":1790132123,"sha":"5e4937a97a24655a81e66432d45ad6f3d5050c4d","subject":"test(bead): split workspace sidecar bead eviction tests by sidecar kind"}],"schema_version":2,"source_run_id":"run-1c9e0a6a02a52dfc6b235b824f93d5d8"}

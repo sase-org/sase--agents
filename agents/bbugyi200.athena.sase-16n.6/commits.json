@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1754eae828b59654d7aaa1b91d5a2c64"}
+{"commits":[{"committed_at":1790131425,"sha":"eea59a65147a1dcd2d3ae7d91e818e3c463227ec","subject":"feat(xprompt): render project tags in agent panel and prompt editor"}],"schema_version":2,"source_run_id":"run-1754eae828b59654d7aaa1b91d5a2c64"}
