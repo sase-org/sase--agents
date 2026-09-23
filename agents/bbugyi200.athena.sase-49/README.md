@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-49](https://github.com/sase-org/sase--beads/blob/main/pages/sase-49/README.md)
 - Model: —
 - Provider: —
 - Timing: 2026-06-01T18:48:19+00:00 → 2026-06-01T18:59:05+00:00
