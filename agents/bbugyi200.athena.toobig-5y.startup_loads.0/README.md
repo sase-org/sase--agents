@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5y](../../users/bbugyi200/machines/athena/hoods/toobig-5y/README.md) / toobig-5y.startup\_loads.0
 
-**Global name:** `bbugyi200.athena.toobig-5y.startup_loads.0` · **State:** active · **Source run:** `run-09506531f7069d26b7cce390b9ef02b7`
+**Global name:** `bbugyi200.athena.toobig-5y.startup_loads.0` · **State:** completed · **Source run:** `run-09506531f7069d26b7cce390b9ef02b7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5y
 
@@ -10,12 +10,12 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-23T21:45:32.561519+00:00
+- Timing: 2026-09-23T21:45:32.561519+00:00 → 2026-09-23T22:15:59.742325+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -30,7 +30,7 @@
 | [toobig-5y.beads\_navigation.0](../bbugyi200.athena.toobig-5y.beads_navigation.0/README.md) | toobig-5y hood | waiting |
 | [toobig-5y.claude.0](../bbugyi200.athena.toobig-5y.claude.0/README.md) | toobig-5y hood | waiting |
 | [toobig-5y.panes.0](../bbugyi200.athena.toobig-5y.panes.0/README.md) | toobig-5y hood | waiting |
-| [toobig-5y.plugins\_browser\_install.0](../bbugyi200.athena.toobig-5y.plugins_browser_install.0/README.md) | toobig-5y hood | waiting |
+| [toobig-5y.plugins\_browser\_install.0](../bbugyi200.athena.toobig-5y.plugins_browser_install.0/README.md) | toobig-5y hood | active |
 | [toobig-5y.presentation.0](../bbugyi200.athena.toobig-5y.presentation.0/README.md) | toobig-5y hood | waiting |
 | [toobig-5y.refresh.0](../bbugyi200.athena.toobig-5y.refresh.0/README.md) | toobig-5y hood | waiting |
 | [toobig-5y.test\_ace\_png\_snapshots\_prompt\_highlighting.0](../bbugyi200.athena.toobig-5y.test_ace_png_snapshots_prompt_highlighting.0/README.md) | toobig-5y hood | waiting |

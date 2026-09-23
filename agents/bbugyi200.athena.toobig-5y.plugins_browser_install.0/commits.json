@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8083d2da616a76c562c61cecc76bfa02"}
+{"commits":[{"committed_at":1790203147,"sha":"ebbfbc91b1989f6bdb0c28843533c337d0b44c3d","subject":"refactor(tui): split plugins_browser_install into focused modules under 500 lines"}],"schema_version":2,"source_run_id":"run-8083d2da616a76c562c61cecc76bfa02"}
