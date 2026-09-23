@@ -553,7 +553,7 @@
 | [0pn](hoods/0pn/README.md) | 5 | 1 | active 1, completed 2, failed 2 |
 | [0po](hoods/0po/README.md) | 3 | 1 | completed 2, failed 1 |
 | [0pp](hoods/0pp/README.md) | 3 | 1 | completed 2, failed 1 |
-| [0pr](hoods/0pr/README.md) | 3 | 1 | active 2, failed 1 |
+| [0pr](hoods/0pr/README.md) | 3 | 1 | completed 2, failed 1 |
 | [0q](hoods/0q/README.md) | 2 | 1 | active 1, completed 1 |
 | [0r](hoods/0r/README.md) | 1 | 0 | active 1 |
 | [0s](hoods/0s/README.md) | 2 | 1 | active 1, completed 1 |
