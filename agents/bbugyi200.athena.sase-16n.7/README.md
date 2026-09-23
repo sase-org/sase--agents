@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-16n](../../users/bbugyi200/machines/athena/hoods/sase-16n/README.md) / sase-16n.7
 
-**Global name:** `bbugyi200.athena.sase-16n.7` · **State:** waiting · **Source run:** `run-a0cf8614b102140e97dc281beaefaa4f`
+**Global name:** `bbugyi200.athena.sase-16n.7` · **State:** active · **Source run:** `run-a0cf8614b102140e97dc281beaefaa4f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-16n
 
@@ -12,12 +12,18 @@
 - Epic: [sase-16n](https://github.com/sase-org/sase--beads/blob/main/pages/sase-16n/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20260922185049
-- Commits: 0
+- Timing: 2026-09-23T11:05:18.609687+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3bf3b99`](https://github.com/sase-org/sase/commit/3bf3b998abad35250e7a71de91e44780f2a517b5) | feat(project-tags): accent-colored project tags on raw-prompt surfaces | 2026-09-23 07:31:56 EDT |
 
 ## Neighbors
 
@@ -31,5 +37,5 @@
 | [sase-16n.5](../bbugyi200.athena.sase-16n.5/README.md) | sase-16n hood | completed |
 | [sase-16n.6](../bbugyi200.athena.sase-16n.6/README.md) | sase-16n hood | completed |
 | [sase-16n.8](../bbugyi200.athena.sase-16n.8/README.md) | sase-16n hood | completed |
-| [sase-16n.9](../bbugyi200.athena.sase-16n.9/README.md) | sase-16n hood | waiting |
+| [sase-16n.9](../bbugyi200.athena.sase-16n.9/README.md) | sase-16n hood | active |
 | [sase-16n.land](../bbugyi200.athena.sase-16n.land/README.md) | sase-16n hood | waiting |
