@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-84c51b56e044066ca27ed5881a0bb89b"}
+{"commits":[{"committed_at":1790186914,"sha":"1fb9d01385cbe420eaed7e3c341eb921ca178ba4","subject":"feat(clans): inherit remembered tribe and summary for new clan generations"},{"committed_at":1790187605,"sha":"372135af742b8ec04e08ce47781a94de289ae3eb","subject":"feat(clans): clan-level tribe edits from the Agents tab"}],"schema_version":2,"source_run_id":"run-84c51b56e044066ca27ed5881a0bb89b"}

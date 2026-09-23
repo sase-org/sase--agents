@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e2ff3e1deaf466699288afe2f55693b2"}
+{"commits":[{"committed_at":1790186914,"sha":"1fb9d01385cbe420eaed7e3c341eb921ca178ba4","subject":"feat(clans): inherit remembered tribe and summary for new clan generations"}],"schema_version":2,"source_run_id":"run-e2ff3e1deaf466699288afe2f55693b2"}

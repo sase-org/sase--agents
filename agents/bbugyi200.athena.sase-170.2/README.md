@@ -25,6 +25,6 @@
 |---|---|---|
 | [sase-170.1](../bbugyi200.athena.sase-170.1/README.md) | sase-170 hood | completed |
 | [sase-170.3](../bbugyi200.athena.sase-170.3/README.md) | sase-170 hood | completed |
-| [sase-170.4](../bbugyi200.athena.sase-170.4/README.md) | sase-170 hood | active |
-| [sase-170.5](../bbugyi200.athena.sase-170.5/README.md) | sase-170 hood | active |
-| [sase-170.land](../bbugyi200.athena.sase-170.land/README.md) | sase-170 hood | waiting |
+| [sase-170.4](../bbugyi200.athena.sase-170.4/README.md) | sase-170 hood | completed |
+| [sase-170.5](../bbugyi200.athena.sase-170.5/README.md) | sase-170 hood | completed |
+| [sase-170.land](../bbugyi200.athena.sase-170.land/README.md) | sase-170 hood | active |
