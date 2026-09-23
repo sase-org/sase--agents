@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b4a7016f8dde0dc8732d361abea11930"}
+{"commits":[{"committed_at":1790184514,"sha":"a74e98cfb769e215d32ee5ed915d2683e5b59228","subject":"feat(ace): bounded-panes acquire-then-reveal for Stitch, Plan/provider, and Patch jumps"}],"schema_version":2,"source_run_id":"run-b4a7016f8dde0dc8732d361abea11930"}
