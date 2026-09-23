@@ -12,11 +12,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-09-23T19:24:36.107226+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`f456a8b`](https://github.com/sase-org/sase/commit/f456a8b3b11758abe409287c39dd7c6a6bc22362) | test(project-tags): pin tag catalog for bead launch tests and sync completion spec | 2026-09-23 15:42:39 EDT |
 
 ## Neighbors
 

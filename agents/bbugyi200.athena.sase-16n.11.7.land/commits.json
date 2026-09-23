@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5dc960f1a99767742f72b81bbed682aa"}
+{"commits":[{"committed_at":1790192559,"sha":"f456a8b3b11758abe409287c39dd7c6a6bc22362","subject":"test(project-tags): pin tag catalog for bead launch tests and sync completion spec"}],"schema_version":2,"source_run_id":"run-5dc960f1a99767742f72b81bbed682aa"}
