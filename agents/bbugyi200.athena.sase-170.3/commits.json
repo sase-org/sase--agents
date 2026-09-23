@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-935ab60b68756779e95ba213afc19062"}
+{"commits":[{"committed_at":1790185454,"sha":"69a5ca5e1d0d059f7a0c613526d6990629c045ae","subject":"feat(clans): record, capture, and read clan attributes from sase"}],"schema_version":2,"source_run_id":"run-935ab60b68756779e95ba213afc19062"}
