@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5y](../../users/bbugyi200/machines/athena/hoods/toobig-5y/README.md) / toobig-5y.test\_install.0
 
-**Global name:** `bbugyi200.athena.toobig-5y.test_install.0` · **State:** waiting · **Source run:** `run-6a2db3749976dcfdd8b39aa2b543d59d`
+**Global name:** `bbugyi200.athena.toobig-5y.test_install.0` · **State:** active · **Source run:** `run-6a2db3749976dcfdd8b39aa2b543d59d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5y
 
@@ -10,12 +10,18 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20260923174612
-- Commits: 0
+- Timing: 2026-09-24T01:39:36.378184+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`d977de8`](https://github.com/sase-org/sase/commit/d977de8b9445209a6f6245062d456d5a3a86ee0a) | test(agent-clis): split test\_install.py into fetch/plan/execute files | 2026-09-23 21:45:14 EDT |
 
 ## Neighbors
 
@@ -29,7 +35,7 @@
 | [toobig-5y.refresh.0](../bbugyi200.athena.toobig-5y.refresh.0/README.md) | toobig-5y hood | completed |
 | [toobig-5y.startup\_loads.0](../bbugyi200.athena.toobig-5y.startup_loads.0/README.md) | toobig-5y hood | completed |
 | [toobig-5y.test\_ace\_png\_snapshots\_prompt\_highlighting.0](../bbugyi200.athena.toobig-5y.test_ace_png_snapshots_prompt_highlighting.0/README.md) | toobig-5y hood | completed |
-| [toobig-5y.test\_agent\_jump\_panel.0](../bbugyi200.athena.toobig-5y.test_agent_jump_panel.0/README.md) | toobig-5y hood | active |
+| [toobig-5y.test\_agent\_jump\_panel.0](../bbugyi200.athena.toobig-5y.test_agent_jump_panel.0/README.md) | toobig-5y hood | completed |
 | [toobig-5y.test\_agent\_tribe\_assignment.0](../bbugyi200.athena.toobig-5y.test_agent_tribe_assignment.0/README.md) | toobig-5y hood | completed |
 | [toobig-5y.test\_keymaps\_defaults.0](../bbugyi200.athena.toobig-5y.test_keymaps_defaults.0/README.md) | toobig-5y hood | waiting |
 | [toobig-5y.test\_plugins\_browser\_rows.0](../bbugyi200.athena.toobig-5y.test_plugins_browser_rows.0/README.md) | toobig-5y hood | completed |

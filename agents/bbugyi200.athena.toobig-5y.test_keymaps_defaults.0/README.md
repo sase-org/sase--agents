@@ -29,8 +29,8 @@
 | [toobig-5y.refresh.0](../bbugyi200.athena.toobig-5y.refresh.0/README.md) | toobig-5y hood | completed |
 | [toobig-5y.startup\_loads.0](../bbugyi200.athena.toobig-5y.startup_loads.0/README.md) | toobig-5y hood | completed |
 | [toobig-5y.test\_ace\_png\_snapshots\_prompt\_highlighting.0](../bbugyi200.athena.toobig-5y.test_ace_png_snapshots_prompt_highlighting.0/README.md) | toobig-5y hood | completed |
-| [toobig-5y.test\_agent\_jump\_panel.0](../bbugyi200.athena.toobig-5y.test_agent_jump_panel.0/README.md) | toobig-5y hood | active |
+| [toobig-5y.test\_agent\_jump\_panel.0](../bbugyi200.athena.toobig-5y.test_agent_jump_panel.0/README.md) | toobig-5y hood | completed |
 | [toobig-5y.test\_agent\_tribe\_assignment.0](../bbugyi200.athena.toobig-5y.test_agent_tribe_assignment.0/README.md) | toobig-5y hood | completed |
-| [toobig-5y.test\_install.0](../bbugyi200.athena.toobig-5y.test_install.0/README.md) | toobig-5y hood | waiting |
+| [toobig-5y.test\_install.0](../bbugyi200.athena.toobig-5y.test_install.0/README.md) | toobig-5y hood | active |
 | [toobig-5y.test\_plugins\_browser\_rows.0](../bbugyi200.athena.toobig-5y.test_plugins_browser_rows.0/README.md) | toobig-5y hood | completed |
 | [toobig-5y.test\_xprompt\_vcs\_project\_completion.0](../bbugyi200.athena.toobig-5y.test_xprompt_vcs_project_completion.0/README.md) | toobig-5y hood | waiting |
