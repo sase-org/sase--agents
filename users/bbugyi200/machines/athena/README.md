@@ -1327,7 +1327,7 @@
 | [sase-177](hoods/sase-177/README.md) | 5 | 0 | completed 5 |
 | [sase-17a](hoods/sase-17a/README.md) | 5 | 1 | active 1, completed 2, failed 1, waiting 1 |
 | [sase-17d](hoods/sase-17d/README.md) | 16 | 2 | active 2, completed 3, failed 2, waiting 9 |
-| [sase-17m](hoods/sase-17m/README.md) | 28 | 2 | active 1, completed 6, failed 6, waiting 15 |
+| [sase-17m](hoods/sase-17m/README.md) | 28 | 2 | active 1, completed 7, failed 6, waiting 14 |
 | [sase-44](hoods/sase-44/README.md) | 7 | 0 | completed 7 |
 | [sase-45](hoods/sase-45/README.md) | 9 | 0 | completed 9 |
 | [sase-46](hoods/sase-46/README.md) | 6 | 0 | completed 6 |

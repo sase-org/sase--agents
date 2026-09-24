@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-17m](../../users/bbugyi200/machines/athena/hoods/sase-17m/README.md) / sase-17m.3.1.1
 
-**Global name:** `bbugyi200.athena.sase-17m.3.1.1` · **State:** active · **Source run:** `run-b42a76a63bc315e71b3b64163956021d`
+**Global name:** `bbugyi200.athena.sase-17m.3.1.1` · **State:** completed · **Source run:** `run-b42a76a63bc315e71b3b64163956021d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-17m
 
@@ -12,12 +12,12 @@
 - Epic: [sase-17m.3.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-17m/sase-17m.3.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-24T06:58:59.581627+00:00
+- Timing: 2026-09-24T06:58:59.581627+00:00 → 2026-09-24T08:04:42.349972+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -30,7 +30,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-17m.3](../../families/bbugyi200.athena.sase-17m.3.md) (family · 3) | ancestor | failed 3 |
-| [sase-17m.3.1.2](../bbugyi200.athena.sase-17m.3.1.2/README.md) | sase-17m.3.1 hood | waiting |
+| [sase-17m.3.1.2](../bbugyi200.athena.sase-17m.3.1.2/README.md) | sase-17m.3.1 hood | active |
 | [sase-17m.3.1.3](../bbugyi200.athena.sase-17m.3.1.3/README.md) | sase-17m.3.1 hood | waiting |
 | [sase-17m.3.1.4](../bbugyi200.athena.sase-17m.3.1.4/README.md) | sase-17m.3.1 hood | waiting |
 | [sase-17m.3.1.5](../bbugyi200.athena.sase-17m.3.1.5/README.md) | sase-17m.3.1 hood | waiting |
