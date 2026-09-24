@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Why was the `close` bead action refused for the `sase-17d.1` and `sase-17d.2` sase agents? %m:@xlarge
