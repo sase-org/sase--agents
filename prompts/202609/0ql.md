@@ -1,0 +1,6 @@
+- **AGENTS:**
+  - [bbugyi200.athena.0ql](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0ql/README.md)
+
+#gh:gh_sase-org__sase %m:gemini-3.8-flash-high Can you generate an infographic that
+visually illustrates the sase-17d epic bead's work? Save this infographic as a new image
+file in the research sidecar repo.
