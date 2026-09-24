@@ -189,6 +189,7 @@
 | [0r4.md](0r4.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0r4--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0r4.md) | 1 |
 | [0r7.md](0r7.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.0r7--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0r7.md) | 1 |
 | [0rd.md](0rd.md) | gh:gh_sase-org__sase Can you help me implement the plan described in the | - | [bbugyi200.athena.0rd](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0rd/README.md) | 0 |
+| [0rs.md](0rs.md) | %queue(weight=1) #fork:0rs--0 %model:gpt-5.6-terra@xhigh | - | [bbugyi200.athena.0rs--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.0rs.md) | 0 |
 | [0s.f0.f0.md](0s.f0.f0.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.apollo.0s.f0.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.0s.f0.f0.md) | 1 |
 | [0s.f0.f0.w2.w0.md](0s.f0.f0.w2.w0.md) | %queue(weight=1) %auto #fork:0s.f0.f0.w2.w0--1 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.0s.f0.f0.w2.w0--2](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.0s.f0.f0.w2.w0.md) | 0 |
 | [0s.f0.md](0s.f0.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.apollo.0s.f0--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.0s.f0.md) | 1 |
