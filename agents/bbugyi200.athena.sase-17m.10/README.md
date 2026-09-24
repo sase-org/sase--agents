@@ -32,8 +32,8 @@
 | [sase-17m.2.1.land](../bbugyi200.athena.sase-17m.2.1.land/README.md) | sase-17m hood | completed |
 | [sase-17m.3](../../families/bbugyi200.athena.sase-17m.3.md) (family · 3) | sase-17m hood | failed 3 |
 | [sase-17m.3.1.1](../bbugyi200.athena.sase-17m.3.1.1/README.md) | sase-17m hood | completed |
-| [sase-17m.3.1.2](../bbugyi200.athena.sase-17m.3.1.2/README.md) | sase-17m hood | active |
-| [sase-17m.3.1.3](../bbugyi200.athena.sase-17m.3.1.3/README.md) | sase-17m hood | waiting |
+| [sase-17m.3.1.2](../bbugyi200.athena.sase-17m.3.1.2/README.md) | sase-17m hood | completed |
+| [sase-17m.3.1.3](../bbugyi200.athena.sase-17m.3.1.3/README.md) | sase-17m hood | active |
 | [sase-17m.3.1.4](../bbugyi200.athena.sase-17m.3.1.4/README.md) | sase-17m hood | waiting |
 | [sase-17m.3.1.5](../bbugyi200.athena.sase-17m.3.1.5/README.md) | sase-17m hood | waiting |
 | [sase-17m.3.1.6](../bbugyi200.athena.sase-17m.3.1.6/README.md) | sase-17m hood | waiting |
