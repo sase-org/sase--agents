@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-64aa12dac1d68dcd07720670de171746"}
+{"commits":[{"committed_at":1790257672,"sha":"43888178618aa31fb531a3d02e0ffb4fe6839dc7","subject":"feat(agents): persist deck layout across restarts"}],"schema_version":2,"source_run_id":"run-b26df4c6b9983a4409edd1c8a197fa8e"}

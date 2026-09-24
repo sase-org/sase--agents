@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-17d` · Members: 3 · Bead: [sase-17d.3
 
 ```mermaid
 flowchart TD
-  n0["sase-17d.3--code [active]"]
-  n1["sase-17d.3--plan [active]"]
+  n0["sase-17d.3--code [completed]"]
+  n1["sase-17d.3--plan [completed]"]
   n0 --> n1
   n2["sase-17d.3--gate [failed]"]
   n0 --> n2
@@ -19,8 +19,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-17d.3--code | active | muse-spark-1.3-contributor / muse | 2026-09-24T00:52:49.295448+00:00 | [1](../agents/bbugyi200.athena.sase-17d.3--code/README.md#commits) | — | — |
-| <a id="member-plan"></a>plan | sase-17d.3--plan | active | opus / claude | 2026-09-24T00:38:50.911385+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-17d.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-17d.3--plan/chat.md) |
+| <a id="member-code"></a>code | sase-17d.3--code | completed | muse-spark-1.3-contributor / muse | 2026-09-24T00:52:49.295448+00:00 → 2026-09-24T01:33:59.703979+00:00 | [1](../agents/bbugyi200.athena.sase-17d.3--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-17d.3--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-17d.3--plan | completed | opus / claude | 2026-09-24T00:38:50.911385+00:00 → 2026-09-24T01:33:59.703979+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-17d.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-17d.3--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-17d.3--gate | failed | opus / claude | 2026-09-24T00:52:05.563873+00:00 → 2026-09-24T00:52:28.607798+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-17d.3--gate/chat.md) |
 
 ## Commits
@@ -38,9 +38,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-17d.11](../agents/bbugyi200.athena.sase-17d.11/README.md) | sase-17d hood | waiting |
 | [sase-17d.2](bbugyi200.athena.sase-17d.2.md) (family · 3) | sase-17d hood | completed 2, failed 1 |
 | [sase-17d.4](../agents/bbugyi200.athena.sase-17d.4/README.md) | sase-17d hood | waiting |
+| [sase-17d.5](bbugyi200.athena.sase-17d.5.md) (family · 5) | sase-17d hood | completed 3, failed 2 |
 | [sase-17d.5](../agents/bbugyi200.athena.sase-17d.5/README.md) | sase-17d hood | waiting |
+| [sase-17d.6](bbugyi200.athena.sase-17d.6.md) (family · 5) | sase-17d hood | completed 3, failed 2 |
 | [sase-17d.6](../agents/bbugyi200.athena.sase-17d.6/README.md) | sase-17d hood | waiting |
-| [sase-17d.7](../agents/bbugyi200.athena.sase-17d.7/README.md) | sase-17d hood | waiting |
+| [sase-17d.7](../agents/bbugyi200.athena.sase-17d.7/README.md) | sase-17d hood | completed |
+| [sase-17d.8](bbugyi200.athena.sase-17d.8.md) (family · 3) | sase-17d hood | active 2, failed 1 |
 | [sase-17d.8](../agents/bbugyi200.athena.sase-17d.8/README.md) | sase-17d hood | waiting |
-| [sase-17d.9](../agents/bbugyi200.athena.sase-17d.9/README.md) | sase-17d hood | waiting |
+| [sase-17d.9](../agents/bbugyi200.athena.sase-17d.9/README.md) | sase-17d hood | active |
 | [sase-17d.land](../agents/bbugyi200.athena.sase-17d.land/README.md) | sase-17d hood | waiting |

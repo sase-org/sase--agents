@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-17d.3--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_17d_3__plan-260923_191833.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_17d_3__code-260923_191833.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/deck_panel_core.md
 
 
