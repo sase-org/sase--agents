@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-47b9e3455338180449dc075559bc6546"}
+{"commits":[{"committed_at":1790222704,"sha":"a764a76d41fbcacfe08ecbf93a351d3c53d732ad","subject":"feat(ace): tolerate new agent-session spelling in directive contract and completion"}],"schema_version":2,"source_run_id":"run-47b9e3455338180449dc075559bc6546"}

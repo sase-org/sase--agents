@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-09-24T02:56:43.889540+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`a764a76`](https://github.com/sase-org/sase/commit/a764a76d41fbcacfe08ecbf93a351d3c53d732ad) | feat(ace): tolerate new agent-session spelling in directive contract and completion | 2026-09-24 00:05:04 EDT |
 
 ## Neighbors
 
@@ -28,7 +34,7 @@
 | [sase-17m.2.1.3](../bbugyi200.athena.sase-17m.2.1.3/README.md) | sase-17m.2.1 hood | waiting |
 | [sase-17m.2.1.4](../bbugyi200.athena.sase-17m.2.1.4/README.md) | sase-17m.2.1 hood | waiting |
 | [sase-17m.2.1.land](../bbugyi200.athena.sase-17m.2.1.land/README.md) | sase-17m.2.1 hood | waiting |
-| [sase-17m.1](../bbugyi200.athena.sase-17m.1/README.md) | sase-17m hood | active |
+| [sase-17m.1](../bbugyi200.athena.sase-17m.1/README.md) | sase-17m hood | completed |
 | [sase-17m.10](../bbugyi200.athena.sase-17m.10/README.md) | sase-17m hood | waiting |
 | [sase-17m.3](../bbugyi200.athena.sase-17m.3/README.md) | sase-17m hood | waiting |
 | [sase-17m.4](../bbugyi200.athena.sase-17m.4/README.md) | sase-17m hood | waiting |
