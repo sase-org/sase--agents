@@ -2032,7 +2032,7 @@
 | [toobig-5w](hoods/toobig-5w/README.md) | 2 | 0 | completed 2 |
 | [toobig-5x](hoods/toobig-5x/README.md) | 5 | 0 | active 1, completed 4 |
 | [toobig-5y](hoods/toobig-5y/README.md) | 16 | 1 | active 1, completed 14, failed 1 |
-| [toobig-5z](hoods/toobig-5z/README.md) | 2 | 0 | active 1, waiting 1 |
+| [toobig-5z](hoods/toobig-5z/README.md) | 2 | 0 | active 1, completed 1 |
 | [toobig-6](hoods/toobig-6/README.md) | 11 | 0 | active 11 |
 | [toobig-7](hoods/toobig-7/README.md) | 6 | 0 | active 6 |
 | [toobig-8](hoods/toobig-8/README.md) | 1 | 0 | active 1 |
