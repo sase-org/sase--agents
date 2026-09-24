@@ -24,8 +24,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-17m.2](../../families/bbugyi200.athena.sase-17m.2.md) (family · 3) | ancestor | failed 3 |
-| [sase-17m.2.1.1](../bbugyi200.athena.sase-17m.2.1.1/README.md) | sase-17m.2.1 hood | active |
-| [sase-17m.2.1.2](../bbugyi200.athena.sase-17m.2.1.2/README.md) | sase-17m.2.1 hood | waiting |
+| [sase-17m.2.1.1](../bbugyi200.athena.sase-17m.2.1.1/README.md) | sase-17m.2.1 hood | completed |
+| [sase-17m.2.1.2](../bbugyi200.athena.sase-17m.2.1.2/README.md) | sase-17m.2.1 hood | active |
 | [sase-17m.2.1.4](../bbugyi200.athena.sase-17m.2.1.4/README.md) | sase-17m.2.1 hood | waiting |
 | [sase-17m.2.1.land](../bbugyi200.athena.sase-17m.2.1.land/README.md) | sase-17m.2.1 hood | waiting |
 | [sase-17m.1](../bbugyi200.athena.sase-17m.1/README.md) | sase-17m hood | completed |
