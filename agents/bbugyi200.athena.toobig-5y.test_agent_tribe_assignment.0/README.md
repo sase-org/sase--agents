@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5y](../../users/bbugyi200/machines/athena/hoods/toobig-5y/README.md) / toobig-5y.test\_agent\_tribe\_assignment.0
 
-**Global name:** `bbugyi200.athena.toobig-5y.test_agent_tribe_assignment.0` · **State:** active · **Source run:** `run-ed4385d3de32f8a3c890128ef3462324`
+**Global name:** `bbugyi200.athena.toobig-5y.test_agent_tribe_assignment.0` · **State:** completed · **Source run:** `run-ed4385d3de32f8a3c890128ef3462324`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5y
 
@@ -10,12 +10,18 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-24T00:33:54.581164+00:00
-- Commits: 0
+- Timing: 2026-09-24T00:33:54.581164+00:00 → 2026-09-24T00:46:40.383356+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`a0c83b2`](https://github.com/sase-org/sase/commit/a0c83b229a703e399788036aa0eaae30c3fae318) | test(ace): split agent tribe assignment tests into focused files | 2026-09-23 20:44:03 EDT |
 
 ## Neighbors
 
@@ -32,5 +38,5 @@
 | [toobig-5y.test\_agent\_jump\_panel.0](../bbugyi200.athena.toobig-5y.test_agent_jump_panel.0/README.md) | toobig-5y hood | waiting |
 | [toobig-5y.test\_install.0](../bbugyi200.athena.toobig-5y.test_install.0/README.md) | toobig-5y hood | waiting |
 | [toobig-5y.test\_keymaps\_defaults.0](../bbugyi200.athena.toobig-5y.test_keymaps_defaults.0/README.md) | toobig-5y hood | waiting |
-| [toobig-5y.test\_plugins\_browser\_rows.0](../bbugyi200.athena.toobig-5y.test_plugins_browser_rows.0/README.md) | toobig-5y hood | waiting |
+| [toobig-5y.test\_plugins\_browser\_rows.0](../bbugyi200.athena.toobig-5y.test_plugins_browser_rows.0/README.md) | toobig-5y hood | active |
 | [toobig-5y.test\_xprompt\_vcs\_project\_completion.0](../bbugyi200.athena.toobig-5y.test_xprompt_vcs_project_completion.0/README.md) | toobig-5y hood | waiting |
