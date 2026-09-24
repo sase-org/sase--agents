@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-um.9.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-um/sase-um.9.4.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-28T19:09:13

@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-16j.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-16j/sase-16j.2.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-09-22T18:46:39.694118+00:00 → 2026-09-22T19:28:38.520780+00:00
