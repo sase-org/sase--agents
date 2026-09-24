@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-17d](../../users/bbugyi200/machines/athena/hoods/sase-17d/README.md) / [sase-17d.2](../../families/bbugyi200.athena.sase-17d.2.md) / sase-17d.2--code
 
-**Global name:** `bbugyi200.athena.sase-17d.2--code` · **State:** active · **Source run:** `run-0ba9253f07730710697d46f1732a35c3`
+**Global name:** `bbugyi200.athena.sase-17d.2--code` · **State:** completed · **Source run:** `run-0ba9253f07730710697d46f1732a35c3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-17d
 
@@ -12,8 +12,18 @@
 - Epic: [sase-17d](https://github.com/sase-org/sase--beads/blob/main/pages/sase-17d/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-23T23:30:02.164773+00:00
-- Commits: 0
+- Timing: 2026-09-23T23:30:02.164773+00:00 → 2026-09-24T00:12:50.953126+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9abf08b`](https://github.com/sase-org/sase/commit/9abf08b5df74ebc17f5e293e4909702867105880) | feat(agents-tab): card-partitioned Main documents | 2026-09-23 20:09:06 EDT |
 
 ## Neighbors
 

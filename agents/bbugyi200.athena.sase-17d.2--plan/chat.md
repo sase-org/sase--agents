@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-17d.2--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_17d_2__plan-260923_191832.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_17d_2__code-260923_191832.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/main_card_partition.md
 
 

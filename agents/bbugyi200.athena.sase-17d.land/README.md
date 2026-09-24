@@ -25,7 +25,7 @@
 | [sase-17d.1](../bbugyi200.athena.sase-17d.1/README.md) | sase-17d hood | completed |
 | [sase-17d.10](../bbugyi200.athena.sase-17d.10/README.md) | sase-17d hood | waiting |
 | [sase-17d.11](../bbugyi200.athena.sase-17d.11/README.md) | sase-17d hood | waiting |
-| [sase-17d.2](../../families/bbugyi200.athena.sase-17d.2.md) (family · 3) | sase-17d hood | active 2, failed 1 |
+| [sase-17d.2](../../families/bbugyi200.athena.sase-17d.2.md) (family · 3) | sase-17d hood | completed 2, failed 1 |
 | [sase-17d.3](../bbugyi200.athena.sase-17d.3/README.md) | sase-17d hood | waiting |
 | [sase-17d.4](../bbugyi200.athena.sase-17d.4/README.md) | sase-17d hood | waiting |
 | [sase-17d.5](../bbugyi200.athena.sase-17d.5/README.md) | sase-17d hood | waiting |

@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-17d` · Members: 3 · Bead: [sase-17d.2
 
 ```mermaid
 flowchart TD
-  n0["sase-17d.2--code [active]"]
+  n0["sase-17d.2--code [completed]"]
   n1["sase-17d.2--gate [failed]"]
   n0 --> n1
-  n2["sase-17d.2--plan [active]"]
+  n2["sase-17d.2--plan [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-17d.2--code | active | muse-spark-1.3-contributor / muse | 2026-09-23T23:30:02.164773+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-17d.2--code | completed | muse-spark-1.3-contributor / muse | 2026-09-23T23:30:02.164773+00:00 → 2026-09-24T00:12:50.953126+00:00 | [1](../agents/bbugyi200.athena.sase-17d.2--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-17d.2--code/chat.md) |
 | <a id="member-gate"></a>gate | sase-17d.2--gate | failed | opus / claude | 2026-09-23T23:28:16.225690+00:00 → 2026-09-23T23:28:44.057604+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-17d.2--gate/chat.md) |
-| <a id="member-plan"></a>plan | sase-17d.2--plan | active | opus / claude | 2026-09-23T23:19:27.887484+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-17d.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-17d.2--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-17d.2--plan | completed | opus / claude | 2026-09-23T23:19:27.887484+00:00 → 2026-09-24T00:12:50.953126+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-17d.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-17d.2--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`9abf08b`](https://github.com/sase-org/sase/commit/9abf08b5df74ebc17f5e293e4909702867105880) | feat(agents-tab): card-partitioned Main documents | 2026-09-23 20:09:06 EDT |
 
 ## Neighbors
 
