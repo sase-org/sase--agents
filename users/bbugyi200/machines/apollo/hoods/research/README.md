@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / research
 
-**Global hood:** `bbugyi200.apollo.research` · **Runs:** 251 · **Families:** 0 · **States:** active 34, completed 214, waiting 3
+**Global hood:** `bbugyi200.apollo.research` · **Runs:** 251 · **Families:** 0 · **States:** active 33, completed 215, waiting 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -218,7 +218,7 @@
 | [research.p.cld](../../../../../../agents/bbugyi200.apollo.research.p.cld/README.md) | completed | — | 2026-06-18T20:36:19+00:00 → 2026-06-18T20:36:19+00:00 | 1 | — |
 | [research.7.image](../../../../../../agents/bbugyi200.apollo.research.7.image/README.md) | completed | — | 2026-06-11T22:30:53+00:00 → 2026-06-11T22:30:53+00:00 | 1 | — |
 | [research.0n.final](../../../../../../agents/bbugyi200.apollo.research.0n.final/README.md) | completed | — | 2026-06-26T15:47:22+00:00 → 2026-06-26T15:47:22+00:00 | 1 | — |
-| [research.9.mus](../../../../../../agents/bbugyi200.apollo.research.9.mus/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-25T17:53:43.604875+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.9.mus/prompt.md) |
+| [research.9.mus](../../../../../../agents/bbugyi200.apollo.research.9.mus/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-09-25T17:53:43.604875+00:00 → 2026-09-25T18:01:18.500754+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.9.mus/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.9.mus/chat.md) |
 | [research.r.final](../../../../../../agents/bbugyi200.apollo.research.r.final/README.md) | completed | — | 2026-06-19T15:35:05+00:00 → 2026-06-19T15:35:05+00:00 | 1 | — |
 | [research.05.image](../../../../../../agents/bbugyi200.apollo.research.05.image/README.md) | completed | — | 2026-06-22T15:46:17+00:00 → 2026-06-22T15:46:17+00:00 | 1 | — |
 | [research.t.final.f1](../../../../../../agents/bbugyi200.apollo.research.t.final.f1/README.md) | completed | — | 2026-06-19T22:55:59+00:00 → 2026-06-19T23:06:19+00:00 | 2 | — |
