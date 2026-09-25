@@ -1,0 +1,5 @@
+- **AGENTS:**
+  - [bbugyi200.apollo.research.a.image](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.apollo.research.a.image/README.md)
+
+%id(image, clan=research.a) %model:@image %wait:research.a.final %q(w=0.25)
+#gh:gh_sase-org__sase #fork:research.a.final #research/image
