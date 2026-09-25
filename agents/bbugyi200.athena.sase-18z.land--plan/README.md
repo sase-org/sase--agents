@@ -27,4 +27,4 @@
 | [sase-18z.2](../bbugyi200.athena.sase-18z.2/README.md) | sase-18z hood | completed |
 | [sase-18z.3.1](../../families/bbugyi200.athena.sase-18z.3.1.md) (family · 3) | sase-18z hood | completed 2, failed 1 |
 | [sase-18z.3.2](../bbugyi200.athena.sase-18z.3.2/README.md) | sase-18z hood | completed |
-| [sase-18z.3.land](../bbugyi200.athena.sase-18z.3.land/README.md) | sase-18z hood | active |
+| [sase-18z.3.land](../bbugyi200.athena.sase-18z.3.land/README.md) | sase-18z hood | completed |

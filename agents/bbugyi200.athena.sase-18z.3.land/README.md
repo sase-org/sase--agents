@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-18z](../../users/bbugyi200/machines/athena/hoods/sase-18z/README.md) / sase-18z.3.land
 
-**Global name:** `bbugyi200.athena.sase-18z.3.land` · **State:** active · **Source run:** `run-97a4950755603f4245ae4ee920ae7e18`
+**Global name:** `bbugyi200.athena.sase-18z.3.land` · **State:** completed · **Source run:** `run-97a4950755603f4245ae4ee920ae7e18`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-18z
 
@@ -11,12 +11,18 @@
 - Bead: [sase-18z.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-18z/sase-18z.3.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-09-25T16:14:47.699016+00:00
-- Commits: 0
+- Timing: 2026-09-25T16:14:47.699016+00:00 → 2026-09-25T18:02:57.187711+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`982209d`](https://github.com/sase-org/sase/commit/982209db994c2c9b9c45025e0e1c0b9ac3275b49) | fix(ace-tui): keep bead read reasons readable in narrow Context cards | 2026-09-25 13:53:22 EDT |
 
 ## Neighbors
 

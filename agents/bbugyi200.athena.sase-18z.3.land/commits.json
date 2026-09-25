@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-97a4950755603f4245ae4ee920ae7e18"}
+{"commits":[{"committed_at":1790358802,"sha":"982209db994c2c9b9c45025e0e1c0b9ac3275b49","subject":"fix(ace-tui): keep bead read reasons readable in narrow Context cards"}],"schema_version":2,"source_run_id":"run-97a4950755603f4245ae4ee920ae7e18"}

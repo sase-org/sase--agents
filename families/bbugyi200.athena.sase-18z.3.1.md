@@ -34,7 +34,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-18z.3.2](../agents/bbugyi200.athena.sase-18z.3.2/README.md) | sase-18z.3 hood | completed |
-| [sase-18z.3.land](../agents/bbugyi200.athena.sase-18z.3.land/README.md) | sase-18z.3 hood | active |
+| [sase-18z.3.land](../agents/bbugyi200.athena.sase-18z.3.land/README.md) | sase-18z.3 hood | completed |
 | [sase-18z.1](../agents/bbugyi200.athena.sase-18z.1/README.md) | sase-18z hood | completed |
 | [sase-18z.2](../agents/bbugyi200.athena.sase-18z.2/README.md) | sase-18z hood | completed |
 | [sase-18z.land](bbugyi200.athena.sase-18z.land.md) (family · 3) | sase-18z hood | failed 3 |

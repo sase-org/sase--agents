@@ -34,7 +34,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-17m.5](bbugyi200.athena.sase-17m.5.md) (family · 3) | ancestor | failed 3 |
-| [sase-17m.5.1.6.5.land](../agents/bbugyi200.athena.sase-17m.5.1.6.5.land/README.md) | sase-17m.5.1.6.5 hood | active |
+| [sase-17m.5.1.6.5.land](bbugyi200.athena.sase-17m.5.1.6.5.land.md) (family · 3) | sase-17m.5.1.6.5 hood | completed 2, failed 1 |
 | [sase-17m.5.1.6.1](bbugyi200.athena.sase-17m.5.1.6.1.md) (family · 5) | sase-17m.5.1.6 hood | completed 3, failed 2 |
 | [sase-17m.5.1.6.2](../agents/bbugyi200.athena.sase-17m.5.1.6.2/README.md) | sase-17m.5.1.6 hood | completed |
 | [sase-17m.5.1.6.3](../agents/bbugyi200.athena.sase-17m.5.1.6.3/README.md) | sase-17m.5.1.6 hood | completed |
@@ -75,6 +75,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-17m.4.1.land](../agents/bbugyi200.athena.sase-17m.4.1.land/README.md) | sase-17m hood | active |
 | [sase-17m.6](../agents/bbugyi200.athena.sase-17m.6/README.md) | sase-17m hood | completed |
 | [sase-17m.7](bbugyi200.athena.sase-17m.7.md) (family · 3) | sase-17m hood | completed 2, failed 1 |
-| [sase-17m.8](../agents/bbugyi200.athena.sase-17m.8/README.md) | sase-17m hood | waiting |
-| [sase-17m.9](../agents/bbugyi200.athena.sase-17m.9/README.md) | sase-17m hood | waiting |
+| [sase-17m.8](../agents/bbugyi200.athena.sase-17m.8/README.md) | sase-17m hood | completed |
+| [sase-17m.9](../agents/bbugyi200.athena.sase-17m.9/README.md) | sase-17m hood | active |
 | [sase-17m.land](../agents/bbugyi200.athena.sase-17m.land/README.md) | sase-17m hood | waiting |

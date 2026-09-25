@@ -2,16 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-17m](../../users/bbugyi200/machines/athena/hoods/sase-17m/README.md) / sase-17m.land
 
-**Global name:** `bbugyi200.athena.sase-17m.land` · **State:** waiting · **Source run:** `run-5e1b16565655dd0e5f4183dd89261026`
+**Global name:** `bbugyi200.athena.sase-17m.land` · **State:** waiting · **Source run:** `run-5422f0732dc5b9f06e67987c7854b141`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-17m
 
 ## Summary
 
 - Bead: [sase-17m](https://github.com/sase-org/sase--beads/blob/main/pages/sase-17m/README.md)
-- Model: opus
-- Provider: claude
-- Timing: 20260923224818
+- Model: gpt-6-sol
+- Provider: codex
+- Timing: 20260925134124
 - Commits: 0
 
 ## Files
@@ -60,10 +60,10 @@
 | [sase-17m.5.1.6.3](../bbugyi200.athena.sase-17m.5.1.6.3/README.md) | sase-17m hood | completed |
 | [sase-17m.5.1.6.4](../bbugyi200.athena.sase-17m.5.1.6.4/README.md) | sase-17m hood | completed |
 | [sase-17m.5.1.6.5.1](../../families/bbugyi200.athena.sase-17m.5.1.6.5.1.md) (family · 3) | sase-17m hood | completed 2, failed 1 |
-| [sase-17m.5.1.6.5.land](../bbugyi200.athena.sase-17m.5.1.6.5.land/README.md) | sase-17m hood | active |
+| [sase-17m.5.1.6.5.land](../../families/bbugyi200.athena.sase-17m.5.1.6.5.land.md) (family · 3) | sase-17m hood | completed 2, failed 1 |
 | [sase-17m.5.1.6.land](../../families/bbugyi200.athena.sase-17m.5.1.6.land.md) (family · 3) | sase-17m hood | failed 3 |
 | [sase-17m.5.1.land](../../families/bbugyi200.athena.sase-17m.5.1.land.md) (family · 3) | sase-17m hood | active 3 |
 | [sase-17m.6](../bbugyi200.athena.sase-17m.6/README.md) | sase-17m hood | completed |
 | [sase-17m.7](../../families/bbugyi200.athena.sase-17m.7.md) (family · 3) | sase-17m hood | completed 2, failed 1 |
-| [sase-17m.8](../bbugyi200.athena.sase-17m.8/README.md) | sase-17m hood | waiting |
-| [sase-17m.9](../bbugyi200.athena.sase-17m.9/README.md) | sase-17m hood | waiting |
+| [sase-17m.8](../bbugyi200.athena.sase-17m.8/README.md) | sase-17m hood | completed |
+| [sase-17m.9](../bbugyi200.athena.sase-17m.9/README.md) | sase-17m hood | active |

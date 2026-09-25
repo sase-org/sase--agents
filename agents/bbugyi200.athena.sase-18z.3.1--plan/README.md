@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-18z.3.2](../bbugyi200.athena.sase-18z.3.2/README.md) | sase-18z.3 hood | completed |
-| [sase-18z.3.land](../bbugyi200.athena.sase-18z.3.land/README.md) | sase-18z.3 hood | active |
+| [sase-18z.3.land](../bbugyi200.athena.sase-18z.3.land/README.md) | sase-18z.3 hood | completed |
 | [sase-18z.1](../bbugyi200.athena.sase-18z.1/README.md) | sase-18z hood | completed |
 | [sase-18z.2](../bbugyi200.athena.sase-18z.2/README.md) | sase-18z hood | completed |
 | [sase-18z.land](../../families/bbugyi200.athena.sase-18z.land.md) (family · 3) | sase-18z hood | failed 3 |

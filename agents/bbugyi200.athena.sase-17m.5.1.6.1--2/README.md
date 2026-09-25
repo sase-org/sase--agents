@@ -33,7 +33,7 @@
 | [sase-17m.5.1.6.3](../bbugyi200.athena.sase-17m.5.1.6.3/README.md) | sase-17m.5.1.6 hood | completed |
 | [sase-17m.5.1.6.4](../bbugyi200.athena.sase-17m.5.1.6.4/README.md) | sase-17m.5.1.6 hood | completed |
 | [sase-17m.5.1.6.5.1](../../families/bbugyi200.athena.sase-17m.5.1.6.5.1.md) (family · 3) | sase-17m.5.1.6 hood | completed 2, failed 1 |
-| [sase-17m.5.1.6.5.land](../bbugyi200.athena.sase-17m.5.1.6.5.land/README.md) | sase-17m.5.1.6 hood | active |
+| [sase-17m.5.1.6.5.land](../../families/bbugyi200.athena.sase-17m.5.1.6.5.land.md) (family · 3) | sase-17m.5.1.6 hood | completed 2, failed 1 |
 | [sase-17m.5.1.6.land](../../families/bbugyi200.athena.sase-17m.5.1.6.land.md) (family · 3) | sase-17m.5.1.6 hood | failed 3 |
 | [sase-17m.5.1.1](../bbugyi200.athena.sase-17m.5.1.1/README.md) | sase-17m.5.1 hood | active |
 | [sase-17m.5.1.2](../bbugyi200.athena.sase-17m.5.1.2/README.md) | sase-17m.5.1 hood | active |
@@ -70,6 +70,6 @@
 | [sase-17m.4.1.land](../bbugyi200.athena.sase-17m.4.1.land/README.md) | sase-17m hood | active |
 | [sase-17m.6](../bbugyi200.athena.sase-17m.6/README.md) | sase-17m hood | completed |
 | [sase-17m.7](../../families/bbugyi200.athena.sase-17m.7.md) (family · 3) | sase-17m hood | completed 2, failed 1 |
-| [sase-17m.8](../bbugyi200.athena.sase-17m.8/README.md) | sase-17m hood | waiting |
-| [sase-17m.9](../bbugyi200.athena.sase-17m.9/README.md) | sase-17m hood | waiting |
+| [sase-17m.8](../bbugyi200.athena.sase-17m.8/README.md) | sase-17m hood | completed |
+| [sase-17m.9](../bbugyi200.athena.sase-17m.9/README.md) | sase-17m hood | active |
 | [sase-17m.land](../bbugyi200.athena.sase-17m.land/README.md) | sase-17m hood | waiting |
