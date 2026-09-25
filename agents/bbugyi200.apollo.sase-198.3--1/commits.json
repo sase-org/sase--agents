@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1790356341,"sha":"0607f7a083d80a96d3b1e9e0b5d6174417a6ce4e","subject":"feat(queue): allow zero-load agents with %queue(weight=0) (sase-198.3)"}],"schema_version":2,"source_run_id":"run-f04a75c299420635248a084fb6b38d5e"}
