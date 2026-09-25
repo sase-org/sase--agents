@@ -6,5 +6,5 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [7k](../../../../../../agents/bbugyi200.athena.7k/README.md) | active | grok-4.6 / grok | 2026-09-13T21:11:23.869060+00:00 | 3 | [prompt](../../../../../../agents/bbugyi200.athena.7k/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.7k/chat.md) |
+| [7k](../../../../../../agents/bbugyi200.athena.7k/README.md) | active | grok-4.6 / grok | 2026-09-13T21:11:23.869060+00:00 | 3 | [chat](../../../../../../agents/bbugyi200.athena.7k/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.7k/prompt.md) |
 | [7k.f1](../../../../../../agents/bbugyi200.athena.7k.f1/README.md) | completed | — | 2026-06-14T22:36:42+00:00 → 2026-06-14T23:01:07+00:00 | 2 | — |

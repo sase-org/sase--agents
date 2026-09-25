@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-109](../../../../../../agents/bbugyi200.athena.sase-109/README.md) | active | grok-4.6 / grok | 2026-09-18T15:04:36.298870+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-109/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-109/chat.md) |
+| [sase-109](../../../../../../agents/bbugyi200.athena.sase-109/README.md) | active | grok-4.6 / grok | 2026-09-18T15:04:36.298870+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-109/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-109/prompt.md) |

@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [01z](../../../../../../agents/bbugyi200.athena.01z/README.md) | active | grok-4.6 / grok | 2026-08-15T11:10:40.296380+00:00 | 2 | [prompt](../../../../../../agents/bbugyi200.athena.01z/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.01z/chat.md) |
+| [01z](../../../../../../agents/bbugyi200.athena.01z/README.md) | active | grok-4.6 / grok | 2026-08-15T11:10:40.296380+00:00 | 2 | [chat](../../../../../../agents/bbugyi200.athena.01z/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.01z/prompt.md) |

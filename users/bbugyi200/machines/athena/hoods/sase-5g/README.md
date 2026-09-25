@@ -13,7 +13,7 @@
 | [sase-5g](../../../../../../agents/bbugyi200.athena.sase-5g/README.md) | completed | — | 2026-07-06T13:26:55+00:00 → 2026-07-06T13:26:55+00:00 | 1 | — |
 | [sase-5g.5](../../../../../../agents/bbugyi200.athena.sase-5g.5/README.md) | completed | — | 2026-07-06T11:18:16+00:00 → 2026-07-06T11:18:16+00:00 | 1 | — |
 | [sase-5g.6](../../../../../../agents/bbugyi200.athena.sase-5g.6/README.md) | completed | — | 2026-07-06T11:45:44+00:00 → 2026-07-06T11:45:44+00:00 | 1 | — |
-| [sase-5g.w1](../../../../../../agents/bbugyi200.athena.sase-5g.w1/README.md) | active | claude-fable-5 / claude | 2026-07-06T09:27:20.731312 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-5g.w1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-5g.w1/chat.md) |
+| [sase-5g.w1](../../../../../../agents/bbugyi200.athena.sase-5g.w1/README.md) | active | claude-fable-5 / claude | 2026-07-06T09:27:20.731312 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-5g.w1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-5g.w1/prompt.md) |
 | [sase-5g.1](../../../../../../agents/bbugyi200.athena.sase-5g.1/README.md) | completed | — | 2026-07-06T07:46:27+00:00 → 2026-07-06T07:46:27+00:00 | 1 | — |
 | [sase-5g.w1.w1](../../../../../../agents/bbugyi200.athena.sase-5g.w1.w1/README.md) | completed | — | 2026-07-06T13:43:57+00:00 → 2026-07-06T13:43:57+00:00 | 1 | — |
 | [sase-5g.8](../../../../../../agents/bbugyi200.athena.sase-5g.8/README.md) | completed | — | 2026-07-06T11:40:49+00:00 → 2026-07-06T11:40:49+00:00 | 1 | — |

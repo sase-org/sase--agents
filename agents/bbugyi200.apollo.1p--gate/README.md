@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [1p.f0](../bbugyi200.apollo.1p.f0/README.md) | descendant | waiting |
+| [1p.f0](../../families/bbugyi200.apollo.1p.f0.md) (family · 3) | descendant | active 2, failed 1 |

@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `1p` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["1p--code [active]"]
+  n0["1p--code [completed]"]
   n1["1p--gate [failed]"]
   n0 --> n1
   n2["1p--plan [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 1p--code | active | muse-spark-1.3-contributor / muse | 2026-09-25T14:12:54.929489+00:00 | [1](../agents/bbugyi200.apollo.1p--code/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.1p--code/prompt.md) | — |
+| <a id="member-code"></a>code | 1p--code | completed | muse-spark-1.3-contributor / muse | 2026-09-25T14:12:54.929489+00:00 → 2026-09-25T15:39:18.329862+00:00 | [1](../agents/bbugyi200.apollo.1p--code/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.1p--code/prompt.md) | [Chat](../agents/bbugyi200.apollo.1p--code/chat.md) |
 | <a id="member-gate"></a>gate | 1p--gate | failed | opus / claude | 2026-09-25T14:12:34.813389+00:00 → 2026-09-25T14:12:50.297919+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.1p--gate/chat.md) |
 | <a id="member-plan"></a>plan | 1p--plan | completed | opus / claude | 2026-09-25T14:00:52.300367+00:00 → 2026-09-25T14:11:08.205629+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.1p--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.1p--plan/chat.md) |
 
@@ -35,4 +35,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [1p.f0](../agents/bbugyi200.apollo.1p.f0/README.md) | descendant | waiting |
+| [1p.f0](bbugyi200.apollo.1p.f0.md) (family · 3) | descendant | active 2, failed 1 |

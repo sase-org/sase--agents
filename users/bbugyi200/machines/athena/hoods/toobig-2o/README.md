@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [toobig-2o.split\_file.src.sase.llm\_provider.commit\_finalizer\_git.0](../../../../../../agents/bbugyi200.athena.toobig-2o.split_file.src.sase.llm_provider.commit_finalizer_git.0/README.md) | active | opus / claude | 2026-08-14T16:49:55.074281+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-2o.split_file.src.sase.llm_provider.commit_finalizer_git.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-2o.split_file.src.sase.llm_provider.commit_finalizer_git.0/chat.md) |
+| [toobig-2o.split\_file.src.sase.llm\_provider.commit\_finalizer\_git.0](../../../../../../agents/bbugyi200.athena.toobig-2o.split_file.src.sase.llm_provider.commit_finalizer_git.0/README.md) | active | opus / claude | 2026-08-14T16:49:55.074281+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.toobig-2o.split_file.src.sase.llm_provider.commit_finalizer_git.0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.toobig-2o.split_file.src.sase.llm_provider.commit_finalizer_git.0/prompt.md) |

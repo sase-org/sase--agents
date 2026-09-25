@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [toobig-0y.split\_file.src.sase.agent.xprompt\_swarm.0](../../../../../../agents/bbugyi200.athena.toobig-0y.split_file.src.sase.agent.xprompt_swarm.0/README.md) | active | gpt-5.6-sol / codex | 2026-07-29T16:04:25.566140+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-0y.split_file.src.sase.agent.xprompt_swarm.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-0y.split_file.src.sase.agent.xprompt_swarm.0/chat.md) |
+| [toobig-0y.split\_file.src.sase.agent.xprompt\_swarm.0](../../../../../../agents/bbugyi200.athena.toobig-0y.split_file.src.sase.agent.xprompt_swarm.0/README.md) | active | gpt-5.6-sol / codex | 2026-07-29T16:04:25.566140+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.toobig-0y.split_file.src.sase.agent.xprompt_swarm.0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.toobig-0y.split_file.src.sase.agent.xprompt_swarm.0/prompt.md) |

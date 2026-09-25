@@ -8,4 +8,4 @@
 |---|---|---|---|---:|---|
 | [048](../../../../../../agents/bbugyi200.athena.048/README.md) | completed | — | 2026-06-23T13:02:11+00:00 → 2026-06-23T13:18:51+00:00 | 2 | — |
 | [048--code](../../../../../../families/bbugyi200.athena.048.md#member-code) | completed | sonnet / claude | 2026-08-16T20:05:04.865383+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.048--code/chat.md) |
-| [048--plan](../../../../../../families/bbugyi200.athena.048.md#member-plan) | active | opus / claude | 2026-08-16T19:52:34.668600+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.048--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.048--plan/chat.md) |
+| [048--plan](../../../../../../families/bbugyi200.athena.048.md#member-plan) | active | opus / claude | 2026-08-16T19:52:34.668600+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.048--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.048--plan/prompt.md) |

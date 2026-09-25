@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [toobig-20.split\_file.tests.test\_bead.test\_snooze\_gate.0](../../../../../../agents/bbugyi200.athena.toobig-20.split_file.tests.test_bead.test_snooze_gate.0/README.md) | active | opus / claude | 2026-08-08T04:13:51.221065+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-20.split_file.tests.test_bead.test_snooze_gate.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-20.split_file.tests.test_bead.test_snooze_gate.0/chat.md) |
+| [toobig-20.split\_file.tests.test\_bead.test\_snooze\_gate.0](../../../../../../agents/bbugyi200.athena.toobig-20.split_file.tests.test_bead.test_snooze_gate.0/README.md) | active | opus / claude | 2026-08-08T04:13:51.221065+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.toobig-20.split_file.tests.test_bead.test_snooze_gate.0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.toobig-20.split_file.tests.test_bead.test_snooze_gate.0/prompt.md) |

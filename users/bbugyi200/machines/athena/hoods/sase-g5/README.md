@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-g5](../../../../../../agents/bbugyi200.athena.sase-g5/README.md) | active | opus / claude | 2026-08-06T14:22:15.040891+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-g5/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-g5/chat.md) |
+| [sase-g5](../../../../../../agents/bbugyi200.athena.sase-g5/README.md) | active | opus / claude | 2026-08-06T14:22:15.040891+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-g5/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-g5/prompt.md) |

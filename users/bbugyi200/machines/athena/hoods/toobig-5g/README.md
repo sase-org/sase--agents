@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [toobig-5g.cli\_work\_from\_plan.0](../../../../../../agents/bbugyi200.athena.toobig-5g.cli_work_from_plan.0/README.md) | active | gpt-5.5 / codex | 2026-09-15T20:05:01.179509+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-5g.cli_work_from_plan.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-5g.cli_work_from_plan.0/chat.md) |
+| [toobig-5g.cli\_work\_from\_plan.0](../../../../../../agents/bbugyi200.athena.toobig-5g.cli_work_from_plan.0/README.md) | active | gpt-5.5 / codex | 2026-09-15T20:05:01.179509+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.toobig-5g.cli_work_from_plan.0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.toobig-5g.cli_work_from_plan.0/prompt.md) |

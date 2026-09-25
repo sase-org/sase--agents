@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-17q](../../../../../../agents/bbugyi200.athena.sase-17q/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-24T13:20:12.544107+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-17q/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-17q/chat.md) |
+| [sase-17q](../../../../../../agents/bbugyi200.athena.sase-17q/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-24T13:20:12.544107+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-17q/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-17q/prompt.md) |

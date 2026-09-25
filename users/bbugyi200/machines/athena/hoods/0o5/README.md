@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [0o5](../../../../../../agents/bbugyi200.athena.0o5/README.md) | active | sonnet / claude | 2026-09-20T16:09:12.205124+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.0o5/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.0o5/chat.md) |
+| [0o5](../../../../../../agents/bbugyi200.athena.0o5/README.md) | active | sonnet / claude | 2026-09-20T16:09:12.205124+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.0o5/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0o5/prompt.md) |

@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [toobig-4y.registry.0](../../../../../../agents/bbugyi200.athena.toobig-4y.registry.0/README.md) | active | gpt-5.5 / codex | 2026-09-07T17:07:19.649311+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-4y.registry.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-4y.registry.0/chat.md) |
+| [toobig-4y.registry.0](../../../../../../agents/bbugyi200.athena.toobig-4y.registry.0/README.md) | active | gpt-5.5 / codex | 2026-09-07T17:07:19.649311+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.toobig-4y.registry.0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.toobig-4y.registry.0/prompt.md) |

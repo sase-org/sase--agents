@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-bn](../../../../../../agents/bbugyi200.athena.sase-bn/README.md) | active | gpt-5.6-sol / codex | 2026-07-31T12:48:53.792296+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-bn/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-bn/chat.md) |
+| [sase-bn](../../../../../../agents/bbugyi200.athena.sase-bn/README.md) | active | gpt-5.6-sol / codex | 2026-07-31T12:48:53.792296+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-bn/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-bn/prompt.md) |
