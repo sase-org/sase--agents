@@ -16,7 +16,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -28,8 +28,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ky.1](../bbugyi200.athena.sase-ky.1/README.md) | sase-ky hood | completed |
-| [sase-ky.2](../bbugyi200.athena.sase-ky.2/README.md) | sase-ky hood | completed |
-| [sase-ky.3](../bbugyi200.athena.sase-ky.3/README.md) | sase-ky hood | completed |
-| [sase-ky.4](../bbugyi200.athena.sase-ky.4/README.md) | sase-ky hood | completed |
-| [sase-ky.5](../bbugyi200.athena.sase-ky.5/README.md) | sase-ky hood | completed |
+| [sase-ky.1](../bbugyi200.athena.sase-ky.1/README.md) | sase-ky hood | active |
+| [sase-ky.2](../bbugyi200.athena.sase-ky.2/README.md) | sase-ky hood | active |
+| [sase-ky.3](../bbugyi200.athena.sase-ky.3/README.md) | sase-ky hood | active |
+| [sase-ky.4](../bbugyi200.athena.sase-ky.4/README.md) | sase-ky hood | active |
+| [sase-ky.5](../bbugyi200.athena.sase-ky.5/README.md) | sase-ky hood | active |

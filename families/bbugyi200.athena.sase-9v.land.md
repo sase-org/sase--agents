@@ -37,7 +37,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-9v.11](../agents/bbugyi200.athena.sase-9v.11/README.md) | sase-9v hood | active |
 | [sase-9v.2](../agents/bbugyi200.athena.sase-9v.2/README.md) | sase-9v hood | active |
 | [sase-9v.3](../agents/bbugyi200.athena.sase-9v.3/README.md) | sase-9v hood | active |
-| [sase-9v.4](../agents/bbugyi200.athena.sase-9v.4/README.md) | sase-9v hood | active |
+| [sase-9v.4](../agents/bbugyi200.athena.sase-9v.4/README.md) | sase-9v hood | dismissed |
 | [sase-9v.5](../agents/bbugyi200.athena.sase-9v.5/README.md) | sase-9v hood | active |
 | [sase-9v.6](../agents/bbugyi200.athena.sase-9v.6/README.md) | sase-9v hood | active |
 | [sase-9v.7](../agents/bbugyi200.athena.sase-9v.7/README.md) | sase-9v hood | active |

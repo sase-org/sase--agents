@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789916752,"sha":"624a29ea72d443a257a4326ef5209baa73bb5e03","subject":"fix(service): decide git readiness from remote auth and preflight plan approvals"}],"schema_version":2,"source_run_id":"run-1488ece5b292b7877ae9309df6e5b234"}

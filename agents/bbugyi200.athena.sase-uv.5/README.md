@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-uv](../../users/bbugyi200/machines/athena/hoods/sase-uv/README.md) / sase-uv.5
 
-**Global name:** `bbugyi200.athena.sase-uv.5` · **State:** completed · **Source run:** `run-1896dfede2ecb062b93a8aa545f6158e`
+**Global name:** `bbugyi200.athena.sase-uv.5` · **State:** active · **Source run:** `run-1896dfede2ecb062b93a8aa545f6158e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-uv
 
@@ -12,12 +12,12 @@
 - Epic: [sase-uv](https://github.com/sase-org/sase--beads/blob/main/pages/sase-uv/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-27T18:18:16.557025+00:00 → 2026-08-27T18:52:52.672647+00:00
+- Timing: 2026-08-27T18:18:16.557025+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Prompt](prompt.md)
 
 ## Commits
 
@@ -29,13 +29,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-uv.1](../bbugyi200.athena.sase-uv.1/README.md) | sase-uv hood | completed |
-| [sase-uv.2](../bbugyi200.athena.sase-uv.2/README.md) | sase-uv hood | completed |
-| [sase-uv.3](../bbugyi200.athena.sase-uv.3/README.md) | sase-uv hood | completed |
-| [sase-uv.4](../bbugyi200.athena.sase-uv.4/README.md) | sase-uv hood | dismissed |
-| [sase-uv.6](../bbugyi200.athena.sase-uv.6/README.md) | sase-uv hood | completed |
-| [sase-uv.7](../../families/bbugyi200.athena.sase-uv.7.md) (family · 3) | sase-uv hood | completed 2, failed 1 |
-| [sase-uv.8](../../families/bbugyi200.athena.sase-uv.8.md) (family · 3) | sase-uv hood | completed 2, failed 1 |
+| [sase-uv.1](../bbugyi200.athena.sase-uv.1/README.md) | sase-uv hood | active |
+| [sase-uv.2](../bbugyi200.athena.sase-uv.2/README.md) | sase-uv hood | active |
+| [sase-uv.3](../bbugyi200.athena.sase-uv.3/README.md) | sase-uv hood | active |
+| [sase-uv.4](../bbugyi200.athena.sase-uv.4/README.md) | sase-uv hood | active |
+| [sase-uv.6](../bbugyi200.athena.sase-uv.6/README.md) | sase-uv hood | active |
+| [sase-uv.7](../../families/bbugyi200.athena.sase-uv.7.md) (family · 3) | sase-uv hood | active 2, completed 1 |
+| [sase-uv.8](../../families/bbugyi200.athena.sase-uv.8.md) (family · 3) | sase-uv hood | active 2, completed 1 |
 | [sase-uv.8](../bbugyi200.athena.sase-uv.8/README.md) | sase-uv hood | waiting |
-| [sase-uv.9](../bbugyi200.athena.sase-uv.9/README.md) | sase-uv hood | completed |
-| [sase-uv.land](../../families/bbugyi200.athena.sase-uv.land.md) (family · 3) | sase-uv hood | active 1, completed 1, failed 1 |
+| [sase-uv.9](../bbugyi200.athena.sase-uv.9/README.md) | sase-uv hood | active |
+| [sase-uv.land](../../families/bbugyi200.athena.sase-uv.land.md) (family · 3) | sase-uv hood | active 2, failed 1 |

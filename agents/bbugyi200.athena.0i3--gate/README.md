@@ -16,3 +16,9 @@
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [0i3.f0](../bbugyi200.athena.0i3.f0/README.md) | descendant | waiting |

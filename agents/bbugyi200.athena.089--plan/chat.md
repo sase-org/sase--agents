@@ -4,6 +4,11 @@
 - **MODEL:** grok/grok-4.6
 - **AGENT:** 089--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-089__plan-260819_164634.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-089__code-260819_164634.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/alias_pool_fallbacks.md
 
 

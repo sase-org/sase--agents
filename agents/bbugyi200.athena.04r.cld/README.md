@@ -19,3 +19,9 @@
 |---|---|---|---|
 | sase | [`e0a430d`](https://github.com/sase-org/sase/commit/e0a430df7c939194910aac8da299d7d0aab9814a) | chore: Add SDD prompt and plan for sharded\_prompt\_history | 2026-06-23 18:10:29 EDT |
 | sase | [`f23698c`](https://github.com/sase-org/sase/commit/f23698c872209b12731334e1f741c823ba290ac0) | feat(prompt-history): shard prompt history storage | 2026-06-23 18:36:32 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [04r](../../families/bbugyi200.athena.04r.md) (family · 3) | ancestor | active 1, failed 2 |

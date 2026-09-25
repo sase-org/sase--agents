@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-n9` · Members: 3 · Bead: [sase-n9.3](
 
 ```mermaid
 flowchart TD
-  n0["sase-n9.3--plan [completed]"]
+  n0["sase-n9.3--plan [active]"]
   n1["sase-n9.3--1 [completed]"]
   n0 --> n1
   n2["sase-n9.3--mon [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-n9.3--plan | completed | sonnet / claude | 2026-08-16T17:10:07.989252+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-n9.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n9.3--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-n9.3--plan | active | sonnet / claude | 2026-08-16T17:10:07.989252+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-n9.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n9.3--plan/chat.md) |
 | <a id="member-1"></a>1 | sase-n9.3--1 | completed | sonnet / claude | 2026-08-16T17:50:47.307604+00:00 | [1](../agents/bbugyi200.athena.sase-n9.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-n9.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n9.3--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-n9.3--mon | failed | sonnet / claude | 2026-08-16T17:32:37.218331+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-n9.3--mon/chat.md) |
 
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-n9.1](bbugyi200.athena.sase-n9.1.md) (family · 7) | sase-n9 hood | completed 4, failed 3 |
-| [sase-n9.2](../agents/bbugyi200.athena.sase-n9.2/README.md) | sase-n9 hood | completed |
-| [sase-n9.4](bbugyi200.athena.sase-n9.4.md) (family · 3) | sase-n9 hood | completed 2, failed 1 |
-| [sase-n9.land](bbugyi200.athena.sase-n9.land.md) (family · 2) | sase-n9 hood | completed 2 |
+| [sase-n9.1](bbugyi200.athena.sase-n9.1.md) (family · 7) | sase-n9 hood | active 1, completed 3, failed 3 |
+| [sase-n9.2](../agents/bbugyi200.athena.sase-n9.2/README.md) | sase-n9 hood | active |
+| [sase-n9.4](bbugyi200.athena.sase-n9.4.md) (family · 3) | sase-n9 hood | active 1, completed 1, failed 1 |
+| [sase-n9.land](bbugyi200.athena.sase-n9.land.md) (family · 2) | sase-n9 hood | active 1, completed 1 |

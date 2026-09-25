@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase %w:sase-kp.land Can you help me improve the recently added sase monitor functionality (see the sase-kp epic bead for more information on this feature)? Review @research:202608/monitor_command_substrate.md for context and inspiration on what improvements should be made. #plan #m_opus

@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [z6.f0](../bbugyi200.athena.z6.f0/README.md) | descendant | dismissed |
-| [z6.f2](../../families/bbugyi200.athena.z6.f2.md) (family · 2) | descendant | dismissed 1, failed 1 |
+| [z6.f0](../bbugyi200.athena.z6.f0/README.md) | descendant | waiting |
+| [z6.f2](../../families/bbugyi200.athena.z6.f2.md) (family · 2) | descendant | active 1, failed 1 |

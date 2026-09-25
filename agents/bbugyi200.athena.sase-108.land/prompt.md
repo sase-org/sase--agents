@@ -1,0 +1,9 @@
+#gh:gh_sase-org__sase
+%id(land, clan=sase-108, bead=sase-108)
+%model:@large
+%auto
+%w:sase-108.1,sase-108.2,sase-108.3
+%w(bead=sase-108.1)
+%w(bead=sase-108.2)
+%w(bead=sase-108.3)
+#bd/land_epic:sase-108

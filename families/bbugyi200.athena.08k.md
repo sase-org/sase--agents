@@ -8,12 +8,12 @@ Owner: `bbugyi200.athena` · Hood: `08k` · Members: 8
 
 ```mermaid
 flowchart TD
-  n0["08k--plan [completed]"]
+  n0["08k--plan [active]"]
   n1["08k--code [completed]"]
   n0 --> n1
   n2["08k--2 [completed]"]
   n0 --> n2
-  n3["08k--3 [active]"]
+  n3["08k--3 [completed]"]
   n0 --> n3
   n4["08k--1 [completed]"]
   n0 --> n4
@@ -29,10 +29,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 08k--plan | completed | gpt-5.6-sol / codex | 2026-08-20T14:39:57.989564+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.08k--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.08k--plan/chat.md) |
+| <a id="member-plan"></a>plan | 08k--plan | active | gpt-5.6-sol / codex | 2026-08-20T14:39:57.989564+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.08k--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.08k--plan/chat.md) |
 | <a id="member-code"></a>code | 08k--code | completed | grok-4.6 / grok | 2026-08-20T14:48:47.305162+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.08k--code/chat.md) |
 | <a id="member-2"></a>2 | 08k--2 | completed | grok-4.6 / grok | 2026-08-20T15:53:37.623536+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.08k--2/prompt.md) | [Chat](../agents/bbugyi200.athena.08k--2/chat.md) |
-| <a id="member-3"></a>3 | 08k--3 | active | grok-4.6 / grok | 2026-08-20T16:18:10.235807+00:00 | [1](../agents/bbugyi200.athena.08k--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.08k--3/prompt.md) | — |
+| <a id="member-3"></a>3 | 08k--3 | completed | grok-4.6 / grok | 2026-08-20T16:18:10.235807+00:00 | [1](../agents/bbugyi200.athena.08k--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.08k--3/prompt.md) | [Chat](../agents/bbugyi200.athena.08k--3/chat.md) |
 | <a id="member-1"></a>1 | 08k--1 | completed | grok-4.6 / grok | 2026-08-20T15:32:53.938823+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.08k--1/prompt.md) | [Chat](../agents/bbugyi200.athena.08k--1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 08k--mon-0 | failed | grok-4.6 / grok | 2026-08-20T15:35:31.551821+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.08k--mon-0/chat.md) |
 | <a id="member-mon"></a>mon | 08k--mon | failed | grok-4.6 / grok | 2026-08-20T15:31:33.813734+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.08k--mon/chat.md) |

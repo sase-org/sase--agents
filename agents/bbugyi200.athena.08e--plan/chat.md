@@ -4,6 +4,11 @@
 - **MODEL:** grok/grok-4.6
 - **AGENT:** 08e--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-08e__plan-260819_184405.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-08e__code-260819_184405.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/family_agent_shell_headers.md
 
 

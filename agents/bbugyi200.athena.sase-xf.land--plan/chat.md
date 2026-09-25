@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-xf.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_xf_land__plan-260906_183655.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_xf_land__code-260906_183655.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/provider_priority_unavailable_indicator.md
 
 

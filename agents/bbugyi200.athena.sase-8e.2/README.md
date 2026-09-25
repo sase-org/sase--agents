@@ -22,5 +22,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8e.1](../bbugyi200.athena.sase-8e.1/README.md) | sase-8e hood | active |
+| [sase-8e.1](../bbugyi200.athena.sase-8e.1/README.md) | sase-8e hood | dismissed |
 | [sase-8e.land](../bbugyi200.athena.sase-8e.land/README.md) | sase-8e hood | active |

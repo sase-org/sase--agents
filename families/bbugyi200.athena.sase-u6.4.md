@@ -9,13 +9,13 @@ Owner: `bbugyi200.athena` · Hood: `sase-u6` · Members: 5 · Bead: [sase-u6.4](
 ```mermaid
 flowchart TD
   n0["sase-u6.4--mon [failed]"]
-  n1["sase-u6.4--2 [completed]"]
+  n1["sase-u6.4--2 [active]"]
   n0 --> n1
   n2["sase-u6.4--mon-0 [failed]"]
   n0 --> n2
-  n3["sase-u6.4--plan [completed]"]
+  n3["sase-u6.4--plan [active]"]
   n0 --> n3
-  n4["sase-u6.4--1 [completed]"]
+  n4["sase-u6.4--1 [active]"]
   n0 --> n4
 ```
 
@@ -24,10 +24,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-u6.4--mon | failed | gpt-5.5 / codex | 2026-08-26T16:08:24.197881+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-u6.4--mon/chat.md) |
-| <a id="member-2"></a>2 | sase-u6.4--2 | completed | sonnet / claude | 2026-08-26T16:51:30.505280+00:00 → 2026-08-26T16:56:26.572895+00:00 | [1](../agents/bbugyi200.athena.sase-u6.4--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-u6.4--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-u6.4--2/chat.md) |
+| <a id="member-2"></a>2 | sase-u6.4--2 | active | sonnet / claude | 2026-08-26T16:51:30.505280+00:00 | [1](../agents/bbugyi200.athena.sase-u6.4--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-u6.4--2/prompt.md) | — |
 | <a id="member-mon-0"></a>mon-0 | sase-u6.4--mon-0 | failed | gpt-5.5 / codex | 2026-08-26T16:33:24.347545+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-u6.4--mon-0/chat.md) |
-| <a id="member-plan"></a>plan | sase-u6.4--plan | completed | gpt-5.5 / codex | 2026-08-26T15:44:56.506674+00:00 → 2026-08-26T16:08:54.231112+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-u6.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-u6.4--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-u6.4--1 | completed | gpt-5.5 / codex | 2026-08-26T16:26:07.701959+00:00 → 2026-08-26T16:33:58.248013+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-u6.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-u6.4--1/chat.md) |
+| <a id="member-plan"></a>plan | sase-u6.4--plan | active | gpt-5.5 / codex | 2026-08-26T15:44:56.506674+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-u6.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-u6.4--plan/chat.md) |
+| <a id="member-1"></a>1 | sase-u6.4--1 | active | gpt-5.5 / codex | 2026-08-26T16:26:07.701959+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-u6.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-u6.4--1/chat.md) |
 
 ## Commits
 
@@ -39,10 +39,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-u6.1](../agents/bbugyi200.athena.sase-u6.1/README.md) | sase-u6 hood | completed |
-| [sase-u6.2](../agents/bbugyi200.athena.sase-u6.2/README.md) | sase-u6 hood | completed |
-| [sase-u6.3](../agents/bbugyi200.athena.sase-u6.3/README.md) | sase-u6 hood | completed |
+| [sase-u6.1](../agents/bbugyi200.athena.sase-u6.1/README.md) | sase-u6 hood | active |
+| [sase-u6.2](../agents/bbugyi200.athena.sase-u6.2/README.md) | sase-u6 hood | active |
+| [sase-u6.3](../agents/bbugyi200.athena.sase-u6.3/README.md) | sase-u6 hood | active |
 | [sase-u6.5.1](../agents/bbugyi200.athena.sase-u6.5.1/README.md) | sase-u6 hood | active |
-| [sase-u6.5.2](../agents/bbugyi200.athena.sase-u6.5.2/README.md) | sase-u6 hood | waiting |
-| [sase-u6.5.land](../agents/bbugyi200.athena.sase-u6.5.land/README.md) | sase-u6 hood | waiting |
-| [sase-u6.land](bbugyi200.athena.sase-u6.land.md) (family · 2) | sase-u6 hood | failed 2 |
+| [sase-u6.5.2](bbugyi200.athena.sase-u6.5.2.md) (family · 3) | sase-u6 hood | active 2, failed 1 |
+| [sase-u6.5.land](../agents/bbugyi200.athena.sase-u6.5.land/README.md) | sase-u6 hood | active |
+| [sase-u6.land](bbugyi200.athena.sase-u6.land.md) (family · 2) | sase-u6 hood | active 1, failed 1 |

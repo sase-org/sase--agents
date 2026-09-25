@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `toobig-4h` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["toobig-4h.test_suite_gate_integration.0--1 [completed]"]
+  n0["toobig-4h.test_suite_gate_integration.0--1 [active]"]
   n1["toobig-4h.test_suite_gate_integration.0--mon [failed]"]
   n0 --> n1
-  n2["toobig-4h.test_suite_gate_integration.0--plan [completed]"]
+  n2["toobig-4h.test_suite_gate_integration.0--plan [active]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | toobig-4h.test\_suite\_gate\_integration.0--1 | completed | sonnet / claude | 2026-08-28T01:06:12.540307+00:00 → 2026-08-28T01:15:13.857578+00:00 | [1](../agents/bbugyi200.athena.toobig-4h.test_suite_gate_integration.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-4h.test_suite_gate_integration.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-4h.test_suite_gate_integration.0--1/chat.md) |
+| <a id="member-1"></a>1 | toobig-4h.test\_suite\_gate\_integration.0--1 | active | sonnet / claude | 2026-08-28T01:06:12.540307+00:00 | [1](../agents/bbugyi200.athena.toobig-4h.test_suite_gate_integration.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-4h.test_suite_gate_integration.0--1/prompt.md) | — |
 | <a id="member-mon"></a>mon | toobig-4h.test\_suite\_gate\_integration.0--mon | failed | sonnet / claude | 2026-08-28T01:01:11.332017+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-4h.test_suite_gate_integration.0--mon/chat.md) |
-| <a id="member-plan"></a>plan | toobig-4h.test\_suite\_gate\_integration.0--plan | completed | sonnet / claude | 2026-08-28T00:54:23.632793+00:00 → 2026-08-28T01:01:22.363118+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-4h.test_suite_gate_integration.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-4h.test_suite_gate_integration.0--plan/chat.md) |
+| <a id="member-plan"></a>plan | toobig-4h.test\_suite\_gate\_integration.0--plan | active | sonnet / claude | 2026-08-28T00:54:23.632793+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-4h.test_suite_gate_integration.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-4h.test_suite_gate_integration.0--plan/chat.md) |
 
 ## Commits
 
@@ -33,11 +33,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-4h.agent\_display\_hint\_render.0](bbugyi200.athena.toobig-4h.agent_display_hint_render.0.md) (family · 3) | toobig-4h hood | dismissed 2, failed 1 |
-| [toobig-4h.app.0](../agents/bbugyi200.athena.toobig-4h.app.0/README.md) | toobig-4h hood | completed |
-| [toobig-4h.done\_loaders.0](../agents/bbugyi200.athena.toobig-4h.done_loaders.0/README.md) | toobig-4h hood | completed |
-| [toobig-4h.init.0](bbugyi200.athena.toobig-4h.init.0.md) (family · 9) | toobig-4h hood | completed 5, failed 4 |
-| [toobig-4h.plan\_gate.0](../agents/bbugyi200.athena.toobig-4h.plan_gate.0/README.md) | toobig-4h hood | completed |
-| [toobig-4h.test\_ace\_png\_snapshots\_agents\_family\_panel.0](../agents/bbugyi200.athena.toobig-4h.test_ace_png_snapshots_agents_family_panel.0/README.md) | toobig-4h hood | completed |
-| [toobig-4h.test\_artifacts\_relation\_collapse.0](../agents/bbugyi200.athena.toobig-4h.test_artifacts_relation_collapse.0/README.md) | toobig-4h hood | completed |
-| [toobig-4h.test\_github\_actions\_ci.0](../agents/bbugyi200.athena.toobig-4h.test_github_actions_ci.0/README.md) | toobig-4h hood | completed |
+| [toobig-4h.agent\_display\_hint\_render.0](bbugyi200.athena.toobig-4h.agent_display_hint_render.0.md) (family · 3) | toobig-4h hood | active 2, failed 1 |
+| [toobig-4h.app.0](../agents/bbugyi200.athena.toobig-4h.app.0/README.md) | toobig-4h hood | active |
+| [toobig-4h.done\_loaders.0](../agents/bbugyi200.athena.toobig-4h.done_loaders.0/README.md) | toobig-4h hood | active |
+| [toobig-4h.init.0](bbugyi200.athena.toobig-4h.init.0.md) (family · 9) | toobig-4h hood | active 5, failed 4 |
+| [toobig-4h.plan\_gate.0](../agents/bbugyi200.athena.toobig-4h.plan_gate.0/README.md) | toobig-4h hood | active |
+| [toobig-4h.test\_ace\_png\_snapshots\_agents\_family\_panel.0](../agents/bbugyi200.athena.toobig-4h.test_ace_png_snapshots_agents_family_panel.0/README.md) | toobig-4h hood | active |
+| [toobig-4h.test\_artifacts\_relation\_collapse.0](../agents/bbugyi200.athena.toobig-4h.test_artifacts_relation_collapse.0/README.md) | toobig-4h hood | active |
+| [toobig-4h.test\_github\_actions\_ci.0](../agents/bbugyi200.athena.toobig-4h.test_github_actions_ci.0/README.md) | toobig-4h hood | active |

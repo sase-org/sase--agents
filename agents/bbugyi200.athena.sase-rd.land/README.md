@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-rd](../../users/bbugyi200/machines/athena/hoods/sase-rd/README.md) / sase-rd.land
 
-**Global name:** `bbugyi200.athena.sase-rd.land` · **State:** completed · **Source run:** `run-08428ff6227065655287c034136ba99d`
+**Global name:** `bbugyi200.athena.sase-rd.land` · **State:** active · **Source run:** `run-08428ff6227065655287c034136ba99d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-rd
 
@@ -16,15 +16,15 @@
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rd.land.w1](../../families/bbugyi200.athena.sase-rd.land.w1.md) (family · 2) | descendant | failed 2 |
-| [sase-rd.1](../bbugyi200.athena.sase-rd.1/README.md) | sase-rd hood | completed |
-| [sase-rd.2](../bbugyi200.athena.sase-rd.2/README.md) | sase-rd hood | completed |
-| [sase-rd.3](../bbugyi200.athena.sase-rd.3/README.md) | sase-rd hood | completed |
-| [sase-rd.4](../bbugyi200.athena.sase-rd.4/README.md) | sase-rd hood | completed |
-| [sase-rd.5](../../families/bbugyi200.athena.sase-rd.5.md) (family · 3) | sase-rd hood | completed 2, failed 1 |
+| [sase-rd.land.w1](../../families/bbugyi200.athena.sase-rd.land.w1.md) (family · 2) | descendant | active 1, failed 1 |
+| [sase-rd.1](../bbugyi200.athena.sase-rd.1/README.md) | sase-rd hood | active |
+| [sase-rd.2](../bbugyi200.athena.sase-rd.2/README.md) | sase-rd hood | active |
+| [sase-rd.3](../bbugyi200.athena.sase-rd.3/README.md) | sase-rd hood | active |
+| [sase-rd.4](../bbugyi200.athena.sase-rd.4/README.md) | sase-rd hood | active |
+| [sase-rd.5](../../families/bbugyi200.athena.sase-rd.5.md) (family · 3) | sase-rd hood | active 3 |

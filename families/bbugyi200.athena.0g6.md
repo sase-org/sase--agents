@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `0g6` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["0g6--code [active]"]
-  n1["0g6--plan [completed]"]
+  n0["0g6--code [completed]"]
+  n1["0g6--plan [active]"]
   n0 --> n1
   n2["0g6--gate [failed]"]
   n0 --> n2
@@ -19,8 +19,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 0g6--code | active | grok-4.6 / grok | 2026-08-29T14:51:44.649166+00:00 | [1](../agents/bbugyi200.athena.0g6--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0g6--code/prompt.md) | — |
-| <a id="member-plan"></a>plan | 0g6--plan | completed | opus / claude | 2026-08-29T14:37:04.311123+00:00 → 2026-08-29T14:43:00.181807+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0g6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0g6--plan/chat.md) |
+| <a id="member-code"></a>code | 0g6--code | completed | grok-4.6 / grok | 2026-08-29T14:51:44.649166+00:00 → 2026-08-29T15:12:51.811271+00:00 | [1](../agents/bbugyi200.athena.0g6--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0g6--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0g6--code/chat.md) |
+| <a id="member-plan"></a>plan | 0g6--plan | active | opus / claude | 2026-08-29T14:37:04.311123+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0g6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0g6--plan/chat.md) |
 | <a id="member-gate"></a>gate | 0g6--gate | failed | opus / claude | 2026-08-29T14:42:53.326070+00:00 → 2026-08-29T14:51:38.344777+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0g6--gate/chat.md) |
 
 ## Commits
@@ -33,4 +33,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [0g6.w0](../agents/bbugyi200.athena.0g6.w0/README.md) | descendant | waiting |
+| [0g6.w0](bbugyi200.athena.0g6.w0.md) (family · 3) | descendant | active 1, failed 2 |

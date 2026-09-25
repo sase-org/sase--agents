@@ -24,9 +24,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-62.3](../agents/bbugyi200.athena.sase-62.3/README.md) | ancestor | active |
-| [sase-62](../agents/bbugyi200.athena.sase-62/README.md) | ancestor | active |
-| [sase-62.3.f0](../agents/bbugyi200.athena.sase-62.3.f0/README.md) | sase-62.3 hood | active |
-| [sase-62.3.f1](../agents/bbugyi200.athena.sase-62.3.f1/README.md) | sase-62.3 hood | active |
-| [sase-62.1](../agents/bbugyi200.athena.sase-62.1/README.md) | sase-62 hood | active |
-| [sase-62.2](../agents/bbugyi200.athena.sase-62.2/README.md) | sase-62 hood | active |
+| [sase-62.3](../agents/bbugyi200.athena.sase-62.3/README.md) | ancestor | dismissed |
+| [sase-62](../agents/bbugyi200.athena.sase-62/README.md) | ancestor | dismissed |
+| [sase-62.3.f0](../agents/bbugyi200.athena.sase-62.3.f0/README.md) | sase-62.3 hood | dismissed |
+| [sase-62.3.f1](../agents/bbugyi200.athena.sase-62.3.f1/README.md) | sase-62.3 hood | dismissed |
+| [sase-62.1](../agents/bbugyi200.athena.sase-62.1/README.md) | sase-62 hood | dismissed |
+| [sase-62.2](../agents/bbugyi200.athena.sase-62.2/README.md) | sase-62 hood | dismissed |

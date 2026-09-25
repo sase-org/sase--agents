@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 01n--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-01n__plan-260814_134555.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-01n__code-260814_134555.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/xprompt_spacer_tabstop_jump.md
 
 

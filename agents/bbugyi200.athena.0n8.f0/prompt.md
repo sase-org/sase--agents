@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:0n8 Can you help me change this keymap from `<ctrl+g>` to `<ctrl+e>`? Make sure it doesn't conlict  with the end-of-line functionality for the `<ctrl+e>` keymap. %m:@medium

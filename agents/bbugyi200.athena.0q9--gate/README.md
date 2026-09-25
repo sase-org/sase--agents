@@ -23,5 +23,5 @@
 |---|---|---|
 | [0q9.f0](../bbugyi200.athena.0q9.f0/README.md) | descendant | active |
 | [0q9.f1](../bbugyi200.athena.0q9.f1/README.md) | descendant | active |
-| [0q9.f2](../../families/bbugyi200.athena.0q9.f2.md) (family · 5) | descendant | completed 3, failed 2 |
-| [0q9.f2.f0](../../families/bbugyi200.athena.0q9.f2.f0.md) (family · 3) | descendant | active 2, failed 1 |
+| [0q9.f2](../../families/bbugyi200.athena.0q9.f2.md) (family · 5) | descendant | active 1, completed 2, failed 2 |
+| [0q9.f2.f0](../../families/bbugyi200.athena.0q9.f2.f0.md) (family · 5) | descendant | active 1, completed 2, failed 2 |

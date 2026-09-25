@@ -13,25 +13,31 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-21T16:24:16.327332+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`fc7808e`](https://github.com/sase-org/sase/commit/fc7808ed71a1a8fde0ac87ca95afd8c58bc85231) | feat: retire coder\_inherits\_planner\_chat (sase-ru.9) | 2026-08-21 12:51:31 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ru.1](../../families/bbugyi200.athena.sase-ru.1.md) (family · 5) | sase-ru hood | completed 3, failed 2 |
-| [sase-ru.10](../bbugyi200.athena.sase-ru.10/README.md) | sase-ru hood | completed |
+| [sase-ru.1](../../families/bbugyi200.athena.sase-ru.1.md) (family · 5) | sase-ru hood | active 5 |
+| [sase-ru.10](../bbugyi200.athena.sase-ru.10/README.md) | sase-ru hood | active |
 | [sase-ru.11](../bbugyi200.athena.sase-ru.11/README.md) | sase-ru hood | waiting |
 | [sase-ru.12](../bbugyi200.athena.sase-ru.12/README.md) | sase-ru hood | waiting |
-| [sase-ru.2](../bbugyi200.athena.sase-ru.2/README.md) | sase-ru hood | dismissed |
-| [sase-ru.3](../bbugyi200.athena.sase-ru.3/README.md) | sase-ru hood | completed |
-| [sase-ru.4](../bbugyi200.athena.sase-ru.4/README.md) | sase-ru hood | completed |
-| [sase-ru.5](../bbugyi200.athena.sase-ru.5/README.md) | sase-ru hood | completed |
-| [sase-ru.6](../../families/bbugyi200.athena.sase-ru.6.md) (family · 2) | sase-ru hood | active 1, completed 1 |
-| [sase-ru.7](../bbugyi200.athena.sase-ru.7/README.md) | sase-ru hood | completed |
-| [sase-ru.8](../bbugyi200.athena.sase-ru.8/README.md) | sase-ru hood | dismissed |
+| [sase-ru.2](../bbugyi200.athena.sase-ru.2/README.md) | sase-ru hood | active |
+| [sase-ru.3](../bbugyi200.athena.sase-ru.3/README.md) | sase-ru hood | active |
+| [sase-ru.4](../bbugyi200.athena.sase-ru.4/README.md) | sase-ru hood | active |
+| [sase-ru.5](../bbugyi200.athena.sase-ru.5/README.md) | sase-ru hood | active |
+| [sase-ru.6](../../families/bbugyi200.athena.sase-ru.6.md) (family · 6) | sase-ru hood | active 5, failed 1 |
+| [sase-ru.7](../bbugyi200.athena.sase-ru.7/README.md) | sase-ru hood | active |
+| [sase-ru.8](../bbugyi200.athena.sase-ru.8/README.md) | sase-ru hood | active |
 | [sase-ru.land](../bbugyi200.athena.sase-ru.land/README.md) | sase-ru hood | waiting |

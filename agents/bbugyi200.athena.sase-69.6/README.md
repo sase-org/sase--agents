@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-69](../../users/bbugyi200/machines/athena/hoods/sase-69/README.md) / sase-69.6
 
-**Global name:** `bbugyi200.athena.sase-69.6` · **State:** active · **Source run:** `run-d88858de9ae162d021617fb1ad555918`
+**Global name:** `bbugyi200.athena.sase-69.6` · **State:** dismissed · **Source run:** `run-d88858de9ae162d021617fb1ad555918`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-69
 
@@ -11,12 +11,12 @@
 - Bead: [sase-69.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-69/sase-69.6.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-16T01:21:19.019813+00:00
+- Timing: 2026-07-15T21:21:19.019813 → 2026-07-15T22:06:28.754575
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -29,9 +29,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-69](../../families/bbugyi200.athena.sase-69.md) (family · 2) | ancestor | active 1, completed 1 |
-| [sase-69.1](../bbugyi200.athena.sase-69.1/README.md) | sase-69 hood | active |
-| [sase-69.2](../bbugyi200.athena.sase-69.2/README.md) | sase-69 hood | active |
-| [sase-69.3](../bbugyi200.athena.sase-69.3/README.md) | sase-69 hood | active |
-| [sase-69.4](../bbugyi200.athena.sase-69.4/README.md) | sase-69 hood | active |
-| [sase-69.5](../bbugyi200.athena.sase-69.5/README.md) | sase-69 hood | active |
-| [sase-69.7](../bbugyi200.athena.sase-69.7/README.md) | sase-69 hood | active |
+| [sase-69.1](../bbugyi200.athena.sase-69.1/README.md) | sase-69 hood | dismissed |
+| [sase-69.2](../bbugyi200.athena.sase-69.2/README.md) | sase-69 hood | dismissed |
+| [sase-69.3](../bbugyi200.athena.sase-69.3/README.md) | sase-69 hood | dismissed |
+| [sase-69.4](../bbugyi200.athena.sase-69.4/README.md) | sase-69 hood | dismissed |
+| [sase-69.5](../bbugyi200.athena.sase-69.5/README.md) | sase-69 hood | dismissed |
+| [sase-69.7](../bbugyi200.athena.sase-69.7/README.md) | sase-69 hood | dismissed |

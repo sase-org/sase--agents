@@ -29,5 +29,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-75.1](../bbugyi200.athena.sase-75.1/README.md) | sase-75 hood | active |
-| [sase-75.f0](../bbugyi200.athena.sase-75.f0/README.md) | sase-75 hood | active |
+| [sase-75.f0](../bbugyi200.athena.sase-75.f0/README.md) | sase-75 hood | dismissed |
 | [sase-75.land](../bbugyi200.athena.sase-75.land/README.md) | sase-75 hood | active |

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase When I run `sase machine init`, I am asked to paste an "enrollment bundle" for each machine. What is an enrollment bundle? %m:gpt-5.6-sol

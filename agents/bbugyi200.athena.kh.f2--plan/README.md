@@ -23,4 +23,4 @@
 |---|---|---|
 | [kh](../bbugyi200.athena.kh/README.md) | ancestor | completed |
 | [kh.f0](../bbugyi200.athena.kh.f0/README.md) | kh hood | waiting |
-| [kh.f1](../bbugyi200.athena.kh.f1/README.md) | kh hood | active |
+| [kh.f1](../bbugyi200.athena.kh.f1/README.md) | kh hood | dismissed |

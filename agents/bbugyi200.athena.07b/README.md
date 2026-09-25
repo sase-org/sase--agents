@@ -11,7 +11,7 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-08T12:32:48.097169+00:00
-- Commits: [2](#commits)
+- Commits: [3](#commits)
 
 ## Files
 
@@ -23,6 +23,7 @@
 |---|---|---|---|
 | sase | [`dc455c5`](https://github.com/sase-org/sase/commit/dc455c5d2bc469cabcffab2863f4c61707d5a252) | chore: Add SDD prompt and plan for unknown\_wait\_agent\_warning | 2026-06-26 17:41:30 EDT |
 | sase | [`f9b635d`](https://github.com/sase-org/sase/commit/f9b635df2f79017f5415b50b4253bbbbca0a415f) | feat(tui): flag unknown waited-for agents | 2026-06-26 17:58:41 EDT |
+| sase | [`0c6b59b`](https://github.com/sase-org/sase/commit/0c6b59b12cb548c85b2fc9cfd008ae1de111b446) | fix(commit): preserve local stitch work after push failures | 2026-09-08 16:12:31 EDT |
 
 ## Neighbors
 

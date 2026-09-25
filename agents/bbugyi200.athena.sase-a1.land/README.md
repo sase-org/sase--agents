@@ -27,4 +27,4 @@
 | [sase-a1.3](../bbugyi200.athena.sase-a1.3/README.md) | sase-a1 hood | active |
 | [sase-a1.4](../bbugyi200.athena.sase-a1.4/README.md) | sase-a1 hood | active |
 | [sase-a1.5](../bbugyi200.athena.sase-a1.5/README.md) | sase-a1 hood | active |
-| [sase-a1.6](../bbugyi200.athena.sase-a1.6/README.md) | sase-a1 hood | active |
+| [sase-a1.6](../bbugyi200.athena.sase-a1.6/README.md) | sase-a1 hood | dismissed |

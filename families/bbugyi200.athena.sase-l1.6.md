@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-l1` · Members: 3 · Bead: [sase-l1.6](
 
 ```mermaid
 flowchart TD
-  n0["sase-l1.6--plan [completed]"]
+  n0["sase-l1.6--plan [active]"]
   n1["sase-l1.6--1 [completed]"]
   n0 --> n1
   n2["sase-l1.6--mon [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-l1.6--plan | completed | sonnet / claude | 2026-08-13T19:42:51.969428+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-l1.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-l1.6--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-l1.6--plan | active | sonnet / claude | 2026-08-13T19:42:51.969428+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-l1.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-l1.6--plan/chat.md) |
 | <a id="member-1"></a>1 | sase-l1.6--1 | completed | sonnet / claude | 2026-08-13T19:59:37.913926+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-l1.6--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-l1.6--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-l1.6--mon | failed | sonnet / claude | 2026-08-13T19:53:16.251386+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-l1.6--mon/chat.md) |
 
@@ -27,9 +27,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-l1.1](../agents/bbugyi200.athena.sase-l1.1/README.md) | sase-l1 hood | completed |
-| [sase-l1.2](../agents/bbugyi200.athena.sase-l1.2/README.md) | sase-l1 hood | completed |
-| [sase-l1.3](../agents/bbugyi200.athena.sase-l1.3/README.md) | sase-l1 hood | completed |
-| [sase-l1.4](../agents/bbugyi200.athena.sase-l1.4/README.md) | sase-l1 hood | completed |
-| [sase-l1.5](../agents/bbugyi200.athena.sase-l1.5/README.md) | sase-l1 hood | completed |
-| [sase-l1.land](../agents/bbugyi200.athena.sase-l1.land/README.md) | sase-l1 hood | completed |
+| [sase-l1.1](../agents/bbugyi200.athena.sase-l1.1/README.md) | sase-l1 hood | active |
+| [sase-l1.2](../agents/bbugyi200.athena.sase-l1.2/README.md) | sase-l1 hood | active |
+| [sase-l1.3](../agents/bbugyi200.athena.sase-l1.3/README.md) | sase-l1 hood | active |
+| [sase-l1.4](../agents/bbugyi200.athena.sase-l1.4/README.md) | sase-l1 hood | active |
+| [sase-l1.5](../agents/bbugyi200.athena.sase-l1.5/README.md) | sase-l1 hood | active |
+| [sase-l1.land](../agents/bbugyi200.athena.sase-l1.land/README.md) | sase-l1 hood | active |

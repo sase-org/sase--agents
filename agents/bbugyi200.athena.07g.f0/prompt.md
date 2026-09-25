@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:07g Is something broken with the way sase is making commits? The commit created by the previous agent seems to have been completely lost. Can you help me diagnose the root cause of this issue and fix it? #plan

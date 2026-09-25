@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `0j8` · Members: 3
 ```mermaid
 flowchart TD
   n0["0j8--gate [failed]"]
-  n1["0j8--plan [completed]"]
+  n1["0j8--plan [active]"]
   n0 --> n1
   n2["0j8--code [completed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 0j8--gate | failed | gpt-6-astra / codex | 2026-09-11T11:50:35.524702+00:00 → 2026-09-11T11:51:35.662659+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0j8--gate/chat.md) |
-| <a id="member-plan"></a>plan | 0j8--plan | completed | gpt-6-astra / codex | 2026-09-11T11:07:55.874850+00:00 → 2026-09-11T11:15:10.899368+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0j8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0j8--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0j8--plan | active | gpt-6-astra / codex | 2026-09-11T11:07:55.874850+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0j8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0j8--plan/chat.md) |
 | <a id="member-code"></a>code | 0j8--code | completed | gpt-5.5 / codex | 2026-09-11T11:51:55.743430+00:00 → 2026-09-11T12:44:15.037529+00:00 | [1](../agents/bbugyi200.athena.0j8--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0j8--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0j8--code/chat.md) |
 
 ## Commits
@@ -33,7 +33,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [0j8.f0](bbugyi200.athena.0j8.f0.md) (family · 3) | descendant | completed 2, failed 1 |
-| [0j8.f0.f0](../agents/bbugyi200.athena.0j8.f0.f0/README.md) | descendant | dismissed |
-| [0j8.f0.f1](../agents/bbugyi200.athena.0j8.f0.f1/README.md) | descendant | dismissed |
-| [0j8.f0.f2](../agents/bbugyi200.athena.0j8.f0.f2/README.md) | descendant | waiting |
+| [0j8.f0](bbugyi200.athena.0j8.f0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |
+| [0j8.f0.f0](../agents/bbugyi200.athena.0j8.f0.f0/README.md) | descendant | waiting |
+| [0j8.f0.f1](../agents/bbugyi200.athena.0j8.f0.f1/README.md) | descendant | waiting |
+| [0j8.f0.f2](bbugyi200.athena.0j8.f0.f2.md) (family · 2) | descendant | active 1, failed 1 |
+| [0j8.f0.f2.f0](bbugyi200.athena.0j8.f0.f2.f0.md) (family · 3) | descendant | active 1, failed 2 |

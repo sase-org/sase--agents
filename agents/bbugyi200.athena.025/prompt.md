@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you investigate why the `sase-m6.6.1.5` epic phase agent (which created a plan) did not close the sase-m6.6.1.5 bead and then help me fix this so it doesn't happen with future epic phase agents? It seems like it completed all of its work, right? #plan

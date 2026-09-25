@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 062--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-062__plan-260818_095018.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-062__code-260818_095018.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/ctrl_space_vcs_mru.md
 
 

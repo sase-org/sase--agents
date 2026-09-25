@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `03w` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["03w--plan [dismissed]"]
+  n0["03w--plan [active]"]
   n1["03w--mon [failed]"]
   n0 --> n1
   n2["03w--code [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 03w--plan | dismissed | — | 2026-08-16T12:11:20 | 0 | — | — |
+| <a id="member-plan"></a>plan | 03w--plan | active | opus / claude | 2026-08-16T16:11:34.841752+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.03w--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.03w--plan/chat.md) |
 | <a id="member-mon"></a>mon | 03w--mon | failed | grok-4.6 / grok | 2026-08-16T17:07:57.829883+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.03w--mon/chat.md) |
 | <a id="member-code"></a>code | 03w--code | completed | grok-4.6 / grok | 2026-08-16T16:20:59.107449+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.03w--code/chat.md) |
 

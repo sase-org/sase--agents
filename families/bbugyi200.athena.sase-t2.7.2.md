@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-t2` · Members: 2 · Bead: [sase-t2.7.2
 
 ```mermaid
 flowchart TD
-  n0["sase-t2.7.2--1 [active]"]
+  n0["sase-t2.7.2--1 [completed]"]
   n1["sase-t2.7.2--plan [active]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-t2.7.2--1 | active | sonnet / claude | 2026-08-25T13:48:00.050984+00:00 | [1](../agents/bbugyi200.athena.sase-t2.7.2--1/README.md#commits) | — | — |
+| <a id="member-1"></a>1 | sase-t2.7.2--1 | completed | sonnet / claude | 2026-08-25T13:48:00.050984+00:00 → 2026-08-25T14:21:25.579436+00:00 | [1](../agents/bbugyi200.athena.sase-t2.7.2--1/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-t2.7.2--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-t2.7.2--plan | active | gpt-5.5 / codex | 2026-08-25T13:45:51.315328+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-t2.7.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-t2.7.2--plan/chat.md) |
 
 ## Commits
@@ -30,12 +30,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-t2.7.1](../agents/bbugyi200.athena.sase-t2.7.1/README.md) | sase-t2.7 hood | completed |
-| [sase-t2.7.land](../agents/bbugyi200.athena.sase-t2.7.land/README.md) | sase-t2.7 hood | waiting |
-| [sase-t2.1](../agents/bbugyi200.athena.sase-t2.1/README.md) | sase-t2 hood | dismissed |
-| [sase-t2.2](../agents/bbugyi200.athena.sase-t2.2/README.md) | sase-t2 hood | dismissed |
-| [sase-t2.3](../agents/bbugyi200.athena.sase-t2.3/README.md) | sase-t2 hood | dismissed |
-| [sase-t2.4](../agents/bbugyi200.athena.sase-t2.4/README.md) | sase-t2 hood | completed |
-| [sase-t2.5](../agents/bbugyi200.athena.sase-t2.5/README.md) | sase-t2 hood | completed |
-| [sase-t2.6](../agents/bbugyi200.athena.sase-t2.6/README.md) | sase-t2 hood | completed |
-| [sase-t2.land](bbugyi200.athena.sase-t2.land.md) (family · 2) | sase-t2 hood | failed 2 |
+| [sase-t2.7.1](../agents/bbugyi200.athena.sase-t2.7.1/README.md) | sase-t2.7 hood | active |
+| [sase-t2.7.land](../agents/bbugyi200.athena.sase-t2.7.land/README.md) | sase-t2.7 hood | active |
+| [sase-t2.1](../agents/bbugyi200.athena.sase-t2.1/README.md) | sase-t2 hood | active |
+| [sase-t2.2](../agents/bbugyi200.athena.sase-t2.2/README.md) | sase-t2 hood | active |
+| [sase-t2.3](../agents/bbugyi200.athena.sase-t2.3/README.md) | sase-t2 hood | active |
+| [sase-t2.4](../agents/bbugyi200.athena.sase-t2.4/README.md) | sase-t2 hood | active |
+| [sase-t2.5](../agents/bbugyi200.athena.sase-t2.5/README.md) | sase-t2 hood | active |
+| [sase-t2.6](../agents/bbugyi200.athena.sase-t2.6/README.md) | sase-t2 hood | active |
+| [sase-t2.land](bbugyi200.athena.sase-t2.land.md) (family · 2) | sase-t2 hood | active 1, failed 1 |

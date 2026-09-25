@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `sase-tk` · Members: 3 · Bead: [sase-tk.4](
 ```mermaid
 flowchart TD
   n0["sase-tk.4--mon [failed]"]
-  n1["sase-tk.4--1 [completed]"]
+  n1["sase-tk.4--1 [active]"]
   n0 --> n1
-  n2["sase-tk.4--plan [completed]"]
+  n2["sase-tk.4--plan [active]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-tk.4--mon | failed | gpt-5.5 / codex | 2026-08-25T15:21:14.879067+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-tk.4--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-tk.4--1 | completed | gpt-5.5 / codex | 2026-08-25T16:33:22.366814+00:00 → 2026-08-25T16:40:22.937565+00:00 | [1](../agents/bbugyi200.athena.sase-tk.4--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-tk.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-tk.4--1/chat.md) |
-| <a id="member-plan"></a>plan | sase-tk.4--plan | completed | gpt-5.5 / codex | 2026-08-25T14:54:21.334181+00:00 → 2026-08-25T15:21:55.401557+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-tk.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-tk.4--plan/chat.md) |
+| <a id="member-1"></a>1 | sase-tk.4--1 | active | gpt-5.5 / codex | 2026-08-25T16:33:22.366814+00:00 | [1](../agents/bbugyi200.athena.sase-tk.4--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-tk.4--1/prompt.md) | — |
+| <a id="member-plan"></a>plan | sase-tk.4--plan | active | gpt-5.5 / codex | 2026-08-25T14:54:21.334181+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-tk.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-tk.4--plan/chat.md) |
 
 ## Commits
 
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-tk.1](../agents/bbugyi200.athena.sase-tk.1/README.md) | sase-tk hood | completed |
-| [sase-tk.2](../agents/bbugyi200.athena.sase-tk.2/README.md) | sase-tk hood | dismissed |
-| [sase-tk.3](../agents/bbugyi200.athena.sase-tk.3/README.md) | sase-tk hood | completed |
-| [sase-tk.land](../agents/bbugyi200.athena.sase-tk.land/README.md) | sase-tk hood | active |
+| [sase-tk.1](../agents/bbugyi200.athena.sase-tk.1/README.md) | sase-tk hood | active |
+| [sase-tk.2](../agents/bbugyi200.athena.sase-tk.2/README.md) | sase-tk hood | active |
+| [sase-tk.3](../agents/bbugyi200.athena.sase-tk.3/README.md) | sase-tk hood | active |
+| [sase-tk.land](bbugyi200.athena.sase-tk.land.md) (family · 2) | sase-tk hood | active 1, completed 1 |

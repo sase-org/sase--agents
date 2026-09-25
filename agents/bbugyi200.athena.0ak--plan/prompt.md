@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The TUI is showing that two monitors are running (see the `2` next to the orange gear at the top of #sshot for context). I think this is maybe because I killed an agent that was running a monitor. Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix the issue? #plan

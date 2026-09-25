@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 0cq--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0cq__plan-260824_134356.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0cq__code-260824_134356.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/artifacts_query_history.md
 
 

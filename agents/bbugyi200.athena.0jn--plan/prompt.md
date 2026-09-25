@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me have the "Agents" tab start remembering its last query (if any) in-between sessions and even machine restarts? #plan %m:@xlarge

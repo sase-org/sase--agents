@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `0gr` · Members: 7
 ```mermaid
 flowchart TD
   n0["0gr--gate-1 [failed]"]
-  n1["0gr--0 [completed]"]
+  n1["0gr--0 [active]"]
   n0 --> n1
   n2["0gr--code [failed]"]
   n0 --> n2
@@ -28,7 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate-1"></a>gate-1 | 0gr--gate-1 | failed | gpt-5.5 / codex | 2026-09-06T18:28:54.616670+00:00 → 2026-09-06T18:29:00.824357+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0gr--gate-1/chat.md) |
-| <a id="member-0"></a>0 | 0gr--0 | completed | gpt-5.6-sol / codex | 2026-09-06T18:01:24.263029+00:00 → 2026-09-06T18:13:55.509568+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0gr--0/prompt.md) | [Chat](../agents/bbugyi200.athena.0gr--0/chat.md) |
+| <a id="member-0"></a>0 | 0gr--0 | active | gpt-5.6-sol / codex | 2026-09-06T18:01:24.263029+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0gr--0/prompt.md) | [Chat](../agents/bbugyi200.athena.0gr--0/chat.md) |
 | <a id="member-code"></a>code | 0gr--code | failed | gpt-5.5 / codex | 2026-09-06T18:20:25.151411+00:00 → 2026-09-06T18:54:02.526195+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0gr--code/prompt.md) | — |
 | <a id="member-gate-2"></a>gate-2 | 0gr--gate-2 | failed | gpt-5.5 / codex | 2026-09-06T18:31:37.387511+00:00 → 2026-09-06T18:31:44.672139+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0gr--gate-2/chat.md) |
 | <a id="member-gate-0"></a>gate-0 | 0gr--gate-0 | failed | gpt-5.6-sol / codex | 2026-09-06T18:13:38.805954+00:00 → 2026-09-06T18:20:17.790701+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0gr--gate-0/chat.md) |
@@ -39,4 +39,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [0gr.f0](bbugyi200.athena.0gr.f0.md) (family · 3) | descendant | completed 2, failed 1 |
+| [0gr.f0](bbugyi200.athena.0gr.f0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |

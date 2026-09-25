@@ -28,9 +28,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-op.1](../bbugyi200.athena.sase-op.1/README.md) | sase-op hood | completed |
-| [sase-op.2](../bbugyi200.athena.sase-op.2/README.md) | sase-op hood | dismissed |
-| [sase-op.3](../bbugyi200.athena.sase-op.3/README.md) | sase-op hood | completed |
-| [sase-op.4](../bbugyi200.athena.sase-op.4/README.md) | sase-op hood | completed |
-| [sase-op.5](../../families/bbugyi200.athena.sase-op.5.md) (family · 7) | sase-op hood | completed 4, failed 3 |
-| [sase-op.6](../bbugyi200.athena.sase-op.6/README.md) | sase-op hood | completed |
+| [sase-op.1](../bbugyi200.athena.sase-op.1/README.md) | sase-op hood | active |
+| [sase-op.2](../bbugyi200.athena.sase-op.2/README.md) | sase-op hood | active |
+| [sase-op.3](../bbugyi200.athena.sase-op.3/README.md) | sase-op hood | active |
+| [sase-op.4](../bbugyi200.athena.sase-op.4/README.md) | sase-op hood | active |
+| [sase-op.5](../../families/bbugyi200.athena.sase-op.5.md) (family · 7) | sase-op hood | active 7 |
+| [sase-op.6](../bbugyi200.athena.sase-op.6/README.md) | sase-op hood | active |

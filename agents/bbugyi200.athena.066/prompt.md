@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Is the `05a` sase agent working properly? In particular are all of its file changes in the appropriate ephemeral workspace directory or did the agent make those changes in the primary workspace directory? If there's something wrong here, concisely describe the root cause of the issue.

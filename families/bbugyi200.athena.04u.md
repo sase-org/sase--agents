@@ -2,17 +2,21 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [04u](../users/bbugyi200/machines/athena/hoods/04u/README.md) / 04u
 
-Owner: `bbugyi200.athena` · Hood: `04u` · Members: 3
+Owner: `bbugyi200.athena` · Hood: `04u` · Members: 5
 
 ## Lineage
 
 ```mermaid
 flowchart TD
   n0["04u--code [completed]"]
-  n1["04u--plan [completed]"]
+  n1["04u--plan [active]"]
   n0 --> n1
-  n2["04u--mon [active]"]
+  n2["04u--1 [completed]"]
   n0 --> n2
+  n3["04u--mon-0 [failed]"]
+  n0 --> n3
+  n4["04u--mon [failed]"]
+  n0 --> n4
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -20,8 +24,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 04u--code | completed | grok-4.6 / grok | 2026-08-17T15:01:45.460617+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.04u--code/chat.md) |
-| <a id="member-plan"></a>plan | 04u--plan | completed | opus / claude | 2026-08-17T14:38:58.349757+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.04u--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.04u--plan/chat.md) |
-| <a id="member-mon"></a>mon | 04u--mon | active | grok-4.6 / grok | 2026-08-17T15:24:57.016801+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | 04u--plan | active | opus / claude | 2026-08-17T14:38:58.349757+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.04u--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.04u--plan/chat.md) |
+| <a id="member-1"></a>1 | 04u--1 | completed | grok-4.6 / grok | 2026-08-17T15:40:41.743827+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.04u--1/prompt.md) | [Chat](../agents/bbugyi200.athena.04u--1/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | 04u--mon-0 | failed | grok-4.6 / grok | 2026-08-17T15:51:26.927456+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.04u--mon-0/chat.md) |
+| <a id="member-mon"></a>mon | 04u--mon | failed | grok-4.6 / grok | 2026-08-17T15:24:57.016801+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.04u--mon/chat.md) |
 
 ## Commits
 

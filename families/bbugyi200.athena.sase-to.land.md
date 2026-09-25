@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-to` · Members: 2 · Bead: [sase-to](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-to.land--code [active]"]
+  n0["sase-to.land--code [completed]"]
   n1["sase-to.land--plan [active]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-to.land--code | active | gpt-5.5 / codex | 2026-08-25T18:48:23.105877+00:00 | [1](../agents/bbugyi200.athena.sase-to.land--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | sase-to.land--code | completed | gpt-5.5 / codex | 2026-08-25T18:48:23.105877+00:00 → 2026-08-25T19:34:41.197542+00:00 | [1](../agents/bbugyi200.athena.sase-to.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-to.land--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-to.land--plan | active | gpt-5.6-sol / codex | 2026-08-25T18:38:46.774198+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-to.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-to.land--plan/chat.md) |
 
 ## Commits
@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-to.1](../agents/bbugyi200.athena.sase-to.1/README.md) | sase-to hood | completed |
-| [sase-to.2](../agents/bbugyi200.athena.sase-to.2/README.md) | sase-to hood | completed |
-| [sase-to.3](../agents/bbugyi200.athena.sase-to.3/README.md) | sase-to hood | completed |
-| [sase-to.4](../agents/bbugyi200.athena.sase-to.4/README.md) | sase-to hood | completed |
+| [sase-to.1](../agents/bbugyi200.athena.sase-to.1/README.md) | sase-to hood | active |
+| [sase-to.2](../agents/bbugyi200.athena.sase-to.2/README.md) | sase-to hood | active |
+| [sase-to.3](../agents/bbugyi200.athena.sase-to.3/README.md) | sase-to hood | active |
+| [sase-to.4](../agents/bbugyi200.athena.sase-to.4/README.md) | sase-to hood | active |

@@ -23,8 +23,8 @@
 |---|---|---|
 | [00z.cld](../bbugyi200.athena.00z.cld/README.md) | descendant | completed |
 | [00z.cld.f1](../bbugyi200.athena.00z.cld.f1/README.md) | descendant | completed |
-| [00z.f0](../../families/bbugyi200.athena.00z.f0.md) (family · 2) | descendant | completed 2 |
-| [00z.f0.f0](../../families/bbugyi200.athena.00z.f0.f0.md) (family · 2) | descendant | completed 2 |
-| [00z.f0.f0.f0](../../families/bbugyi200.athena.00z.f0.f0.f0.md) (family · 2) | descendant | completed 2 |
-| [00z.f0.f0.f1](../bbugyi200.athena.00z.f0.f0.f1/README.md) | descendant | dismissed |
-| [00z.f0.f0.f2](../../families/bbugyi200.athena.00z.f0.f0.f2.md) (family · 2) | descendant | active 2 |
+| [00z.f0](../../families/bbugyi200.athena.00z.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [00z.f0.f0](../../families/bbugyi200.athena.00z.f0.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [00z.f0.f0.f0](../../families/bbugyi200.athena.00z.f0.f0.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [00z.f0.f0.f1](../bbugyi200.athena.00z.f0.f0.f1/README.md) | descendant | active |
+| [00z.f0.f0.f2](../../families/bbugyi200.athena.00z.f0.f0.f2.md) (family · 2) | descendant | active 1, completed 1 |

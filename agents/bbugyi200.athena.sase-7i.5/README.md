@@ -26,4 +26,4 @@
 | [sase-7i.2](../bbugyi200.athena.sase-7i.2/README.md) | sase-7i hood | active |
 | [sase-7i.3](../bbugyi200.athena.sase-7i.3/README.md) | sase-7i hood | active |
 | [sase-7i.4](../bbugyi200.athena.sase-7i.4/README.md) | sase-7i hood | active |
-| [sase-7i.land](../bbugyi200.athena.sase-7i.land/README.md) | sase-7i hood | active |
+| [sase-7i.land](../bbugyi200.athena.sase-7i.land/README.md) | sase-7i hood | dismissed |

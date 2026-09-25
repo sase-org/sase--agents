@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-2b](../../users/bbugyi200/machines/athena/hoods/toobig-2b/README.md) / toobig-2b.split\_file.tests.test\_commit\_hooks\_artifacts.0
 
-**Global name:** `bbugyi200.athena.toobig-2b.split_file.tests.test_commit_hooks_artifacts.0` · **State:** dismissed · **Source run:** `run-76936700663f17e37b2b416e4fd5d387`
+**Global name:** `bbugyi200.athena.toobig-2b.split_file.tests.test_commit_hooks_artifacts.0` · **State:** active · **Source run:** `run-76936700663f17e37b2b416e4fd5d387`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-2b
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-10T14:00:08.886950 → 2026-08-10T14:12:29.841355
+- Timing: 2026-08-10T18:00:08.886950+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-2b.split\_file.tests.test\_agent\_list\_entries.0](../bbugyi200.athena.toobig-2b.split_file.tests.test_agent_list_entries.0/README.md) | toobig-2b.split\_file.tests hood | dismissed |
-| [toobig-2b.split\_file.src.sase.workflows.commit.commit\_hooks.0](../bbugyi200.athena.toobig-2b.split_file.src.sase.workflows.commit.commit_hooks.0/README.md) | toobig-2b.split\_file hood | dismissed |
+| [toobig-2b.split\_file.tests.test\_agent\_list\_entries.0](../bbugyi200.athena.toobig-2b.split_file.tests.test_agent_list_entries.0/README.md) | toobig-2b.split\_file.tests hood | active |
+| [toobig-2b.split\_file.src.sase.workflows.commit.commit\_hooks.0](../bbugyi200.athena.toobig-2b.split_file.src.sase.workflows.commit.commit_hooks.0/README.md) | toobig-2b.split\_file hood | active |

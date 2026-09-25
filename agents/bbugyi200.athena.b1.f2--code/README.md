@@ -30,5 +30,5 @@
 | [b1](../../families/bbugyi200.athena.b1.md) (family · 2) | ancestor | active 1, completed 1 |
 | [b1.f2.f0](../bbugyi200.athena.b1.f2.f0/README.md) | descendant | active |
 | [b1.f2.f1](../../families/bbugyi200.athena.b1.f2.f1.md) (family · 2) | descendant | active 1, completed 1 |
-| [b1.f0](../bbugyi200.athena.b1.f0/README.md) | b1 hood | active |
-| [b1.f1](../bbugyi200.athena.b1.f1/README.md) | b1 hood | active |
+| [b1.f0](../bbugyi200.athena.b1.f0/README.md) | b1 hood | dismissed |
+| [b1.f1](../bbugyi200.athena.b1.f1/README.md) | b1 hood | dismissed |

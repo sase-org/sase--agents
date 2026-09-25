@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-5n.prompt\_history\_modal.0](../bbugyi200.athena.toobig-5n.prompt_history_modal.0/README.md) | toobig-5n hood | completed |
-| [toobig-5n.test\_run\_agent\_runner\_slot\_capacity.0](../bbugyi200.athena.toobig-5n.test_run_agent_runner_slot_capacity.0/README.md) | toobig-5n hood | waiting |
+| [toobig-5n.prompt\_history\_modal.0](../bbugyi200.athena.toobig-5n.prompt_history_modal.0/README.md) | toobig-5n hood | active |
+| [toobig-5n.test\_run\_agent\_runner\_slot\_capacity.0](../bbugyi200.athena.toobig-5n.test_run_agent_runner_slot_capacity.0/README.md) | toobig-5n hood | active |

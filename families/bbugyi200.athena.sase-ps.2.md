@@ -19,7 +19,7 @@ flowchart TD
   n0 --> n4
   n5["sase-ps.2--mon-1 [failed]"]
   n0 --> n5
-  n6["sase-ps.2--plan [completed]"]
+  n6["sase-ps.2--plan [active]"]
   n0 --> n6
 ```
 
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-1"></a>1 | sase-ps.2--1 | completed | sonnet / claude | 2026-08-18T15:47:22.865435+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ps.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ps.2--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-ps.2--mon | failed | sonnet / claude | 2026-08-18T15:44:57.645362+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ps.2--mon/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-ps.2--mon-1 | failed | sonnet / claude | 2026-08-18T15:54:13.503171+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ps.2--mon-1/chat.md) |
-| <a id="member-plan"></a>plan | sase-ps.2--plan | completed | sonnet / claude | 2026-08-18T15:04:38.428262+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ps.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ps.2--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-ps.2--plan | active | sonnet / claude | 2026-08-18T15:04:38.428262+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ps.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ps.2--plan/chat.md) |
 
 ## Commits
 
@@ -45,7 +45,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ps.1](../agents/bbugyi200.athena.sase-ps.1/README.md) | sase-ps hood | completed |
-| [sase-ps.3](../agents/bbugyi200.athena.sase-ps.3/README.md) | sase-ps hood | completed |
-| [sase-ps.4](../agents/bbugyi200.athena.sase-ps.4/README.md) | sase-ps hood | completed |
-| [sase-ps.land](../agents/bbugyi200.athena.sase-ps.land/README.md) | sase-ps hood | completed |
+| [sase-ps.1](../agents/bbugyi200.athena.sase-ps.1/README.md) | sase-ps hood | active |
+| [sase-ps.3](../agents/bbugyi200.athena.sase-ps.3/README.md) | sase-ps hood | active |
+| [sase-ps.4](../agents/bbugyi200.athena.sase-ps.4/README.md) | sase-ps hood | active |
+| [sase-ps.land](../agents/bbugyi200.athena.sase-ps.land/README.md) | sase-ps hood | active |

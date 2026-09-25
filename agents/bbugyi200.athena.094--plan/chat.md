@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 094--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-094__plan-260821_083535.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-094__code-260821_083535.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/ctrl_g_ctrl_x_mini_xprompt.md
 
 

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789350085,"sha":"1690400b2fe8e3f6afd421cc16f896ad6ef79198","subject":"fix(capacity): ratchet published core floor and fix stale zero-capacity fakey assertion"}],"schema_version":2,"source_run_id":"run-bf39c08aa5655b6aaa795893eb77448b"}

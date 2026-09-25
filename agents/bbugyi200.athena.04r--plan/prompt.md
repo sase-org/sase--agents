@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase An agent just failed with the `RuntimeError: Failed to claim bead 'sase-y1.1' for agent 'sase-y1.1': bead 'sase-y1.1' is already in_progress and assigned to 'sase-y0.1'` error message. Can you help me fix this by allowing the bead assignee field to be a list that serves as a stack to show which agents were assigned to the bead? Think hard about how to make this reliable, robust, and intuitive.
+
+#plan %m:@xlarge

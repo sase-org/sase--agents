@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-00](../../users/bbugyi200/machines/athena/hoods/toobig-00/README.md) / toobig-00.split\_file.tests.test\_run\_agent\_runner\_slots.28a2150d
 
-**Global name:** `bbugyi200.athena.toobig-00.split_file.tests.test_run_agent_runner_slots.28a2150d` · **State:** active · **Source run:** `run-f6bed65067c3f5b89ad032b827c6f733`
+**Global name:** `bbugyi200.athena.toobig-00.split_file.tests.test_run_agent_runner_slots.28a2150d` · **State:** dismissed · **Source run:** `run-f6bed65067c3f5b89ad032b827c6f733`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-00
 
@@ -10,12 +10,12 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-07-25T17:17:46.520306+00:00
+- Timing: 2026-07-25T13:17:46.520306 → 2026-07-25T13:40:13.806146
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 

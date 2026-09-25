@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 0dj.w0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0dj_w0__plan-260825_123536.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0dj_w0__code-260825_123536.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/task_type_strand_parity.md
 
 

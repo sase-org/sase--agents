@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f223c4913f442569bd2f9bb318d660c5"}
+{"commits":[{"committed_at":1787836915,"sha":"259f399012febb6778e7ca1bfb94e7251d642b94","subject":"feat(pager): retire legacy text paging paths"}],"schema_version":2,"source_run_id":"run-f223c4913f442569bd2f9bb318d660c5"}

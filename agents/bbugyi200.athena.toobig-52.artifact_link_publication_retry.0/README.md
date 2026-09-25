@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-52.machine\_init.0](../../families/bbugyi200.athena.toobig-52.machine_init.0.md) (family · 3) | toobig-52 hood | completed 2, failed 1 |
+| [toobig-52.machine\_init.0](../../families/bbugyi200.athena.toobig-52.machine_init.0.md) (family · 3) | toobig-52 hood | active 3 |
 | [toobig-52.test\_machine\_init.0](../bbugyi200.athena.toobig-52.test_machine_init.0/README.md) | toobig-52 hood | waiting |

@@ -11,7 +11,7 @@ flowchart TD
   n0["0a2--mon [failed]"]
   n1["0a2--1 [completed]"]
   n0 --> n1
-  n2["0a2--plan [completed]"]
+  n2["0a2--plan [active]"]
   n0 --> n2
   n3["0a2--code [completed]"]
   n0 --> n3
@@ -23,7 +23,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | 0a2--mon | failed | grok-4.6 / grok | 2026-08-21T19:47:28.951283+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0a2--mon/chat.md) |
 | <a id="member-1"></a>1 | 0a2--1 | completed | grok-4.6 / grok | 2026-08-21T19:49:54.478736+00:00 → 2026-08-21T19:58:39.072743+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0a2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0a2--1/chat.md) |
-| <a id="member-plan"></a>plan | 0a2--plan | completed | gpt-5.6-sol / codex | 2026-08-21T19:03:44.564392+00:00 → 2026-08-21T19:48:08.800761+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0a2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0a2--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0a2--plan | active | gpt-5.6-sol / codex | 2026-08-21T19:03:44.564392+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0a2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0a2--plan/chat.md) |
 | <a id="member-code"></a>code | 0a2--code | completed | grok-4.6 / grok | 2026-08-21T19:10:56.497213+00:00 → 2026-08-21T19:48:08.800761+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0a2--code/chat.md) |
 
 ## Commits
@@ -38,4 +38,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [0a2.f1](bbugyi200.athena.0a2.f1.md) (family · 2) | descendant | active 2 |
+| [0a2.f1](bbugyi200.athena.0a2.f1.md) (family · 2) | descendant | active 1, completed 1 |

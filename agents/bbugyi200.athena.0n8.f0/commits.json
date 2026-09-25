@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789776436,"sha":"b7b3cd7cd3fa8954b8f9b9eabd334c30dcf1a23d","subject":"feat(tui): accept prompt completions with Ctrl+E instead of Ctrl+G"}],"schema_version":2,"source_run_id":"run-9347de1b7f82a407d5ca565265f470fc"}

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-12z](../../users/bbugyi200/machines/athena/hoods/sase-12z/README.md) / sase-12z.5.1
 
-**Global name:** `bbugyi200.athena.sase-12z.5.1` · **State:** completed · **Source run:** `run-fe001b37039a823e4b10ad0521af0f28`
+**Global name:** `bbugyi200.athena.sase-12z.5.1` · **State:** active · **Source run:** `run-fe001b37039a823e4b10ad0521af0f28`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-12z
 
@@ -11,7 +11,7 @@
 - Bead: [sase-12z.5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-12z/sase-12z.5.1.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-19T00:36:29.992658+00:00 → 2026-09-19T01:22:35.231804+00:00
+- Timing: 2026-09-19T00:36:29.992658+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -28,7 +28,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-12z.5.2](../bbugyi200.athena.sase-12z.5.2/README.md) | sase-12z.5 hood | completed |
+| [sase-12z.5.2](../bbugyi200.athena.sase-12z.5.2/README.md) | sase-12z.5 hood | active |
 | [sase-12z.5.land](../bbugyi200.athena.sase-12z.5.land/README.md) | sase-12z.5 hood | active |
 | [sase-12z.1](../bbugyi200.athena.sase-12z.1/README.md) | sase-12z hood | active |
 | [sase-12z.2](../../families/bbugyi200.athena.sase-12z.2.md) (family · 9) | sase-12z hood | active 9 |

@@ -23,9 +23,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-17p.1](../../families/bbugyi200.athena.sase-17p.1.md) (family · 9) | sase-17p hood | completed 5, failed 4 |
-| [sase-17p.3](../bbugyi200.athena.sase-17p.3/README.md) | sase-17p hood | waiting |
-| [sase-17p.4](../bbugyi200.athena.sase-17p.4/README.md) | sase-17p hood | waiting |
-| [sase-17p.5](../bbugyi200.athena.sase-17p.5/README.md) | sase-17p hood | waiting |
-| [sase-17p.6](../bbugyi200.athena.sase-17p.6/README.md) | sase-17p hood | waiting |
-| [sase-17p.land](../bbugyi200.athena.sase-17p.land/README.md) | sase-17p hood | waiting |
+| [sase-17p.1](../../families/bbugyi200.athena.sase-17p.1.md) (family · 9) | sase-17p hood | active 7, completed 1, failed 1 |
+| [sase-17p.3](../bbugyi200.athena.sase-17p.3/README.md) | sase-17p hood | active |
+| [sase-17p.4](../bbugyi200.athena.sase-17p.4/README.md) | sase-17p hood | active |
+| [sase-17p.5](../../families/bbugyi200.athena.sase-17p.5.md) (family · 3) | sase-17p hood | active 2, failed 1 |
+| [sase-17p.6](../bbugyi200.athena.sase-17p.6/README.md) | sase-17p hood | active |
+| [sase-17p.land](../bbugyi200.athena.sase-17p.land/README.md) | sase-17p hood | active |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [vc](../../users/bbugyi200/machines/athena/hoods/vc/README.md) / vc
 
-**Global name:** `bbugyi200.athena.vc` · **State:** dismissed · **Source run:** `run-e287b4b13a85b1dbe027416b9c81c39f`
+**Global name:** `bbugyi200.athena.vc` · **State:** active · **Source run:** `run-e287b4b13a85b1dbe027416b9c81c39f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** vc
 
@@ -10,12 +10,12 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-07T20:09:13.754413 → 2026-08-07T20:29:44.543863
+- Timing: 2026-08-08T00:09:13.754413+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [vc.f0](../bbugyi200.athena.vc.f0/README.md) | descendant | dismissed |
-| [vc.f1](../../families/bbugyi200.athena.vc.f1.md) (family · 3) | descendant | active 1, completed 1, dismissed 1 |
+| [vc.f0](../bbugyi200.athena.vc.f0/README.md) | descendant | active |
+| [vc.f1](../../families/bbugyi200.athena.vc.f1.md) (family · 3) | descendant | active 2, completed 1 |

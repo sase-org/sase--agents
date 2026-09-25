@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 0cp--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0cp__plan-260824_130710.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0cp__code-260824_130710.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/suppress_proc_launch_admission_notifications.md
 
 

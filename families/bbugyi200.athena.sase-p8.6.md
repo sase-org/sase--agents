@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-p8` · Members: 3 · Bead: [sase-p8.6](
 
 ```mermaid
 flowchart TD
-  n0["sase-p8.6--plan [completed]"]
-  n1["sase-p8.6--1 [completed]"]
+  n0["sase-p8.6--plan [active]"]
+  n1["sase-p8.6--1 [active]"]
   n0 --> n1
-  n2["sase-p8.6--mon [failed]"]
+  n2["sase-p8.6--mon [active]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-p8.6--plan | completed | grok-4.6 / grok | 2026-08-18T02:35:26.798231+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p8.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p8.6--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-p8.6--1 | completed | grok-4.6 / grok | 2026-08-18T03:05:56.695070+00:00 | [1](../agents/bbugyi200.athena.sase-p8.6--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-p8.6--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p8.6--1/chat.md) |
-| <a id="member-mon"></a>mon | sase-p8.6--mon | failed | grok-4.6 / grok | 2026-08-18T03:03:28.625617+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-p8.6--mon/chat.md) |
+| <a id="member-plan"></a>plan | sase-p8.6--plan | active | grok-4.6 / grok | 2026-08-18T02:35:26.798231+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p8.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p8.6--plan/chat.md) |
+| <a id="member-1"></a>1 | sase-p8.6--1 | active | grok-4.6 / grok | 2026-08-18T03:05:56.695070+00:00 | [1](../agents/bbugyi200.athena.sase-p8.6--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-p8.6--1/prompt.md) | — |
+| <a id="member-mon"></a>mon | sase-p8.6--mon | active | grok-4.6 / grok | 2026-08-18T03:03:28.625617+00:00 | 0 | — | — |
 
 ## Commits
 
@@ -33,9 +33,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-p8.1](../agents/bbugyi200.athena.sase-p8.1/README.md) | sase-p8 hood | completed |
-| [sase-p8.2](bbugyi200.athena.sase-p8.2.md) (family · 5) | sase-p8 hood | completed 3, failed 2 |
-| [sase-p8.3](../agents/bbugyi200.athena.sase-p8.3/README.md) | sase-p8 hood | completed |
-| [sase-p8.4](../agents/bbugyi200.athena.sase-p8.4/README.md) | sase-p8 hood | completed |
-| [sase-p8.5](../agents/bbugyi200.athena.sase-p8.5/README.md) | sase-p8 hood | completed |
-| [sase-p8.land](../agents/bbugyi200.athena.sase-p8.land/README.md) | sase-p8 hood | completed |
+| [sase-p8.1](../agents/bbugyi200.athena.sase-p8.1/README.md) | sase-p8 hood | active |
+| [sase-p8.2](bbugyi200.athena.sase-p8.2.md) (family · 5) | sase-p8 hood | active 5 |
+| [sase-p8.3](../agents/bbugyi200.athena.sase-p8.3/README.md) | sase-p8 hood | active |
+| [sase-p8.4](../agents/bbugyi200.athena.sase-p8.4/README.md) | sase-p8 hood | active |
+| [sase-p8.5](../agents/bbugyi200.athena.sase-p8.5/README.md) | sase-p8 hood | active |
+| [sase-p8.land](../agents/bbugyi200.athena.sase-p8.land/README.md) | sase-p8 hood | active |

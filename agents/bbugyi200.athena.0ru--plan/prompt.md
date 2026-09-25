@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me finish the sase-17d.10.1.4 epic bead and then close it (use a plan not an epic)? #plan %auto %m:opus@xhigh

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7110858f989fe33ef49a84273592dfb3"}
+{"commits":[{"committed_at":1789912151,"sha":"52b0283947e67c25ac4b155c2ba138e5575f38e1","subject":"test(fleet): add rendered-row parity oracle and fix screenshot slash key examples"},{"committed_at":1789918027,"sha":"e99bd48ac4f8bbff3c7bfea89df34dd16d847df0","subject":"test(fleet): run the parity oracle on the production family shape and add a fixed-clock production-derived visual"}],"schema_version":2,"source_run_id":"run-7110858f989fe33ef49a84273592dfb3"}

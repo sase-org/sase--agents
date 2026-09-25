@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 027--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-027__plan-260815_093426.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-027__code-260815_093426.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/restore_agent_lane_glossary.md
 
 

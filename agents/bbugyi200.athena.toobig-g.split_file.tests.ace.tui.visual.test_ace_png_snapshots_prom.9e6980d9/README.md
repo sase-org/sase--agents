@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-g](../../users/bbugyi200/machines/athena/hoods/toobig-g/README.md) / toobig-g.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_prom.9e6980d9
 
-**Global name:** `bbugyi200.athena.toobig-g.split_file.tests.ace.tui.visual.test_ace_png_snapshots_prom.9e6980d9` · **State:** active · **Source run:** `run-54851683804f0bda768d720d69ea11f7`
+**Global name:** `bbugyi200.athena.toobig-g.split_file.tests.ace.tui.visual.test_ace_png_snapshots_prom.9e6980d9` · **State:** dismissed · **Source run:** `run-54851683804f0bda768d720d69ea11f7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-g
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-22T12:56:23.822549+00:00
+- Timing: 2026-07-22T08:56:23.822549 → 2026-07-22T09:17:26.741938
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 

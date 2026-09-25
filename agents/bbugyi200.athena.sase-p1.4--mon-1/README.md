@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-p1](../../users/bbugyi200/machines/athena/hoods/sase-p1/README.md) / [sase-p1.4](../../families/bbugyi200.athena.sase-p1.4.md) / sase-p1.4--mon-1
 
-**Global name:** `bbugyi200.athena.sase-p1.4--mon-1` · **State:** failed · **Source run:** `run-1dea6ccf68ee80084b3f4d30027ec825`
+**Global name:** `bbugyi200.athena.sase-p1.4--mon-1` · **State:** active · **Source run:** `run-1dea6ccf68ee80084b3f4d30027ec825`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-p1
 
@@ -14,19 +14,15 @@
 - Timing: 2026-08-18T01:04:50.049700+00:00
 - Commits: 0
 
-## Files
-
-[Chat](chat.md)
-
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-p1.1](../bbugyi200.athena.sase-p1.1/README.md) | sase-p1 hood | dismissed |
-| [sase-p1.2](../bbugyi200.athena.sase-p1.2/README.md) | sase-p1 hood | completed |
-| [sase-p1.3](../bbugyi200.athena.sase-p1.3/README.md) | sase-p1 hood | completed |
-| [sase-p1.5](../bbugyi200.athena.sase-p1.5/README.md) | sase-p1 hood | completed |
-| [sase-p1.6](../../families/bbugyi200.athena.sase-p1.6.md) (family · 7) | sase-p1 hood | completed 4, failed 3 |
-| [sase-p1.7](../bbugyi200.athena.sase-p1.7/README.md) | sase-p1 hood | completed |
-| [sase-p1.8](../bbugyi200.athena.sase-p1.8/README.md) | sase-p1 hood | completed |
+| [sase-p1.1](../bbugyi200.athena.sase-p1.1/README.md) | sase-p1 hood | active |
+| [sase-p1.2](../bbugyi200.athena.sase-p1.2/README.md) | sase-p1 hood | active |
+| [sase-p1.3](../bbugyi200.athena.sase-p1.3/README.md) | sase-p1 hood | active |
+| [sase-p1.5](../bbugyi200.athena.sase-p1.5/README.md) | sase-p1 hood | active |
+| [sase-p1.6](../../families/bbugyi200.athena.sase-p1.6.md) (family · 7) | sase-p1 hood | active 7 |
+| [sase-p1.7](../bbugyi200.athena.sase-p1.7/README.md) | sase-p1 hood | active |
+| [sase-p1.8](../bbugyi200.athena.sase-p1.8/README.md) | sase-p1 hood | active |
 | [sase-p1.land](../bbugyi200.athena.sase-p1.land/README.md) | sase-p1 hood | active |

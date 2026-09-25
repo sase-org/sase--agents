@@ -28,12 +28,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8v.land.f0](../bbugyi200.athena.sase-8v.land.f0/README.md) | descendant | active |
-| [sase-8v.land.f1](../bbugyi200.athena.sase-8v.land.f1/README.md) | descendant | active |
+| [sase-8v.land.f0](../bbugyi200.athena.sase-8v.land.f0/README.md) | descendant | dismissed |
+| [sase-8v.land.f1](../bbugyi200.athena.sase-8v.land.f1/README.md) | descendant | dismissed |
 | [sase-8v.land.f2](../bbugyi200.athena.sase-8v.land.f2/README.md) | descendant | waiting |
 | [sase-8v.land.f3](../bbugyi200.athena.sase-8v.land.f3/README.md) | descendant | waiting |
-| [sase-8v.land.w0](../bbugyi200.athena.sase-8v.land.w0/README.md) | descendant | active |
-| [sase-8v.land.w2](../bbugyi200.athena.sase-8v.land.w2/README.md) | descendant | active |
+| [sase-8v.land.w0](../bbugyi200.athena.sase-8v.land.w0/README.md) | descendant | dismissed |
+| [sase-8v.land.w2](../bbugyi200.athena.sase-8v.land.w2/README.md) | descendant | dismissed |
 | [sase-8v.1](../../families/bbugyi200.athena.sase-8v.1.md) (family · 2) | sase-8v hood | active 1, completed 1 |
 | [sase-8v.1](../bbugyi200.athena.sase-8v.1/README.md) | sase-8v hood | completed |
 | [sase-8v.10](../bbugyi200.athena.sase-8v.10/README.md) | sase-8v hood | active |

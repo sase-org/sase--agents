@@ -16,3 +16,9 @@
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [0pw.w0](../../families/bbugyi200.athena.0pw.w0.md) (family · 3) | descendant | active 1, failed 2 |

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:05w Can you now help me make sure we have excellent support for this new syntax in the TUI's model pool builder panel (used when editing model aliases from the "Launch Control" panel)? #beau #plan

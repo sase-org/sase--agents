@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-rs](../../users/bbugyi200/machines/athena/hoods/sase-rs/README.md) / sase-rs.land
 
-**Global name:** `bbugyi200.athena.sase-rs.land` · **State:** waiting · **Source run:** `run-15ffdd91a9559a1d9df1e7e69d3d8698`
+**Global name:** `bbugyi200.athena.sase-rs.land` · **State:** active · **Source run:** `run-15ffdd91a9559a1d9df1e7e69d3d8698`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-rs
 
@@ -11,7 +11,7 @@
 - Bead: [sase-rs](https://github.com/sase-org/sase--beads/blob/main/pages/sase-rs/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 20260821101609
+- Timing: 2026-08-21T19:28:04.135545+00:00
 - Commits: 0
 
 ## Files
@@ -22,9 +22,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rs.1](../bbugyi200.athena.sase-rs.1/README.md) | sase-rs hood | completed |
-| [sase-rs.2](../../families/bbugyi200.athena.sase-rs.2.md) (family · 3) | sase-rs hood | completed 2, failed 1 |
-| [sase-rs.3](../bbugyi200.athena.sase-rs.3/README.md) | sase-rs hood | completed |
-| [sase-rs.4](../bbugyi200.athena.sase-rs.4/README.md) | sase-rs hood | completed |
-| [sase-rs.5](../bbugyi200.athena.sase-rs.5/README.md) | sase-rs hood | completed |
-| [sase-rs.6](../../families/bbugyi200.athena.sase-rs.6.md) (family · 7) | sase-rs hood | active 1, completed 3, failed 3 |
+| [sase-rs.1](../bbugyi200.athena.sase-rs.1/README.md) | sase-rs hood | active |
+| [sase-rs.2](../../families/bbugyi200.athena.sase-rs.2.md) (family · 3) | sase-rs hood | active 3 |
+| [sase-rs.3](../bbugyi200.athena.sase-rs.3/README.md) | sase-rs hood | active |
+| [sase-rs.4](../bbugyi200.athena.sase-rs.4/README.md) | sase-rs hood | active |
+| [sase-rs.5](../bbugyi200.athena.sase-rs.5/README.md) | sase-rs hood | active |
+| [sase-rs.6](../../families/bbugyi200.athena.sase-rs.6.md) (family · 7) | sase-rs hood | active 7 |

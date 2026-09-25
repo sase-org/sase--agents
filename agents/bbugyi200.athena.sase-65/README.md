@@ -22,7 +22,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-65.1](../bbugyi200.athena.sase-65.1/README.md) | descendant | active |
-| [sase-65.2](../bbugyi200.athena.sase-65.2/README.md) | descendant | active |
-| [sase-65.3](../bbugyi200.athena.sase-65.3/README.md) | descendant | active |
-| [sase-65.4](../bbugyi200.athena.sase-65.4/README.md) | descendant | active |
+| [sase-65.1](../bbugyi200.athena.sase-65.1/README.md) | descendant | dismissed |
+| [sase-65.2](../bbugyi200.athena.sase-65.2/README.md) | descendant | dismissed |
+| [sase-65.3](../bbugyi200.athena.sase-65.3/README.md) | descendant | dismissed |
+| [sase-65.4](../bbugyi200.athena.sase-65.4/README.md) | descendant | dismissed |

@@ -2,6 +2,7 @@
 %id(7, clan=sase-x7, bead=sase-x7.7)
 %model:@medium
 %auto
+%queue(capacity=1)
 %w(bead=sase-x7.4)
 %w(bead=sase-x7.6)
 #bd/work_phase_bead:sase-x7.7

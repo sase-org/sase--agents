@@ -17,7 +17,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,9 +29,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-vs.1](../bbugyi200.athena.sase-vs.1/README.md) | sase-vs hood | completed |
-| [sase-vs.2](../bbugyi200.athena.sase-vs.2/README.md) | sase-vs hood | completed |
-| [sase-vs.3](../bbugyi200.athena.sase-vs.3/README.md) | sase-vs hood | completed |
-| [sase-vs.4](../bbugyi200.athena.sase-vs.4/README.md) | sase-vs hood | completed |
-| [sase-vs.5](../bbugyi200.athena.sase-vs.5/README.md) | sase-vs hood | completed |
-| [sase-vs.land](../bbugyi200.athena.sase-vs.land/README.md) | sase-vs hood | waiting |
+| [sase-vs.1](../bbugyi200.athena.sase-vs.1/README.md) | sase-vs hood | active |
+| [sase-vs.2](../bbugyi200.athena.sase-vs.2/README.md) | sase-vs hood | active |
+| [sase-vs.3](../bbugyi200.athena.sase-vs.3/README.md) | sase-vs hood | active |
+| [sase-vs.4](../bbugyi200.athena.sase-vs.4/README.md) | sase-vs hood | active |
+| [sase-vs.5](../bbugyi200.athena.sase-vs.5/README.md) | sase-vs hood | active |
+| [sase-vs.land](../../families/bbugyi200.athena.sase-vs.land.md) (family · 3) | sase-vs hood | active 3 |

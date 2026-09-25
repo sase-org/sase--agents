@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-52.artifact\_link\_publication\_retry.0](../bbugyi200.athena.toobig-52.artifact_link_publication_retry.0/README.md) | toobig-52 hood | active |
-| [toobig-52.machine\_init.0](../../families/bbugyi200.athena.toobig-52.machine_init.0.md) (family · 3) | toobig-52 hood | completed 2, failed 1 |
+| [toobig-52.machine\_init.0](../../families/bbugyi200.athena.toobig-52.machine_init.0.md) (family · 3) | toobig-52 hood | active 3 |

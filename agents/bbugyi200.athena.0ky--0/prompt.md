@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The sase pager doesn't seem to load the agent xprompt, prompt, or reply in the agent metadata panel. Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix the issue? #beau %m:gpt-6-astra

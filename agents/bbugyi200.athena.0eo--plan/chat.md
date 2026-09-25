@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 0eo--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0eo__plan-260827_082950.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0eo__code-260827_082950.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/fix_telegram_ci.md
 
 

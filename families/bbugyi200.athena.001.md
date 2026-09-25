@@ -19,7 +19,7 @@ flowchart TD
   n0 --> n4
   n5["001--3 [completed]"]
   n0 --> n5
-  n6["001--plan [completed]"]
+  n6["001--plan [active]"]
   n0 --> n6
   n7["001--code [completed]"]
   n0 --> n7
@@ -35,7 +35,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | 001--mon-0 | failed | sonnet / claude | 2026-08-13T21:58:57.627361+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.001--mon-0/chat.md) |
 | <a id="member-1"></a>1 | 001--1 | completed | sonnet / claude | 2026-08-13T21:57:52.997525+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.001--1/prompt.md) | [Chat](../agents/bbugyi200.athena.001--1/chat.md) |
 | <a id="member-3"></a>3 | 001--3 | completed | sonnet / claude | 2026-08-13T23:18:23.632525+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.001--3/prompt.md) | [Chat](../agents/bbugyi200.athena.001--3/chat.md) |
-| <a id="member-plan"></a>plan | 001--plan | completed | opus / claude | 2026-08-13T21:33:15.913825+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.001--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.001--plan/chat.md) |
+| <a id="member-plan"></a>plan | 001--plan | active | opus / claude | 2026-08-13T21:33:15.913825+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.001--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.001--plan/chat.md) |
 | <a id="member-code"></a>code | 001--code | completed | sonnet / claude | 2026-08-13T21:49:36.650051+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.001--code/chat.md) |
 
 ## Commits
@@ -49,4 +49,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [001.f1](bbugyi200.athena.001.f1.md) (family · 2) | descendant | completed 2 |
+| [001.f1](bbugyi200.athena.001.f1.md) (family · 2) | descendant | active 1, completed 1 |

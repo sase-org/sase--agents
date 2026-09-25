@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 0ck--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0ck__plan-260824_121131.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0ck__code-260824_121131.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/symvision_stale_epic_symbols.md
 
 

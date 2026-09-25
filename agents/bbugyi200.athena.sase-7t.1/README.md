@@ -28,9 +28,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-7t.2](../bbugyi200.athena.sase-7t.2/README.md) | sase-7t hood | active |
-| [sase-7t.3](../bbugyi200.athena.sase-7t.3/README.md) | sase-7t hood | active |
-| [sase-7t.4](../bbugyi200.athena.sase-7t.4/README.md) | sase-7t hood | active |
-| [sase-7t.5](../bbugyi200.athena.sase-7t.5/README.md) | sase-7t hood | active |
-| [sase-7t.6](../bbugyi200.athena.sase-7t.6/README.md) | sase-7t hood | active |
-| [sase-7t.land](../bbugyi200.athena.sase-7t.land/README.md) | sase-7t hood | active |
+| [sase-7t.2](../bbugyi200.athena.sase-7t.2/README.md) | sase-7t hood | dismissed |
+| [sase-7t.3](../bbugyi200.athena.sase-7t.3/README.md) | sase-7t hood | dismissed |
+| [sase-7t.4](../bbugyi200.athena.sase-7t.4/README.md) | sase-7t hood | dismissed |
+| [sase-7t.5](../bbugyi200.athena.sase-7t.5/README.md) | sase-7t hood | dismissed |
+| [sase-7t.6](../bbugyi200.athena.sase-7t.6/README.md) | sase-7t hood | dismissed |
+| [sase-7t.land](../bbugyi200.athena.sase-7t.land/README.md) | sase-7t hood | dismissed |

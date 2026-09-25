@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 02v--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-02v__plan-260815_170229.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-02v__code-260815_170229.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/safe_bead_work_relaunch_2.md
 
 

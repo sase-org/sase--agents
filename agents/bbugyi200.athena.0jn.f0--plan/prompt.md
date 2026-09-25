@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:0jn Can you now help me start triggering the search query bar on the "Agents" tab via the `/` keymap by swapping the functionalities of the `/` keymap and the `,/` keymap on that tab? #plan

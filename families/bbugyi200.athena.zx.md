@@ -11,7 +11,7 @@ flowchart TD
   n0["zx--mon [failed]"]
   n1["zx--2 [completed]"]
   n0 --> n1
-  n2["zx--0 [completed]"]
+  n2["zx--0 [active]"]
   n0 --> n2
   n3["zx--1 [completed]"]
   n0 --> n3
@@ -25,7 +25,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | zx--mon | failed | opus / claude | 2026-08-13T19:42:31.203678+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.zx--mon/chat.md) |
 | <a id="member-2"></a>2 | zx--2 | completed | opus / claude | 2026-08-13T20:03:37.997220+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.zx--2/prompt.md) | [Chat](../agents/bbugyi200.athena.zx--2/chat.md) |
-| <a id="member-0"></a>0 | zx--0 | completed | opus / claude | 2026-08-13T19:12:09.032135+00:00 | [1](../agents/bbugyi200.athena.zx--0/README.md#commits) | [Prompt](../agents/bbugyi200.athena.zx--0/prompt.md) | [Chat](../agents/bbugyi200.athena.zx--0/chat.md) |
+| <a id="member-0"></a>0 | zx--0 | active | opus / claude | 2026-08-13T19:12:09.032135+00:00 | [1](../agents/bbugyi200.athena.zx--0/README.md#commits) | [Prompt](../agents/bbugyi200.athena.zx--0/prompt.md) | [Chat](../agents/bbugyi200.athena.zx--0/chat.md) |
 | <a id="member-1"></a>1 | zx--1 | completed | opus / claude | 2026-08-13T19:44:41.112940+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.zx--1/prompt.md) | [Chat](../agents/bbugyi200.athena.zx--1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | zx--mon-0 | failed | opus / claude | 2026-08-13T19:50:10.072163+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.zx--mon-0/chat.md) |
 

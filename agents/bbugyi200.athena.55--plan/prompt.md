@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me swap the functionality of the `r` (retry) and `R` (refresh panel) on the "Agents" tab of the TUI? #plan

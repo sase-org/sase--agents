@@ -11,7 +11,7 @@ flowchart TD
   n0["0g0--code [completed]"]
   n1["0g0--gate [failed]"]
   n0 --> n1
-  n2["0g0--plan [completed]"]
+  n2["0g0--plan [active]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 0g0--code | completed | grok-4.6 / grok | 2026-08-29T12:38:17.556174+00:00 → 2026-08-29T13:03:08.352665+00:00 | [1](../agents/bbugyi200.athena.0g0--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0g0--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0g0--code/chat.md) |
 | <a id="member-gate"></a>gate | 0g0--gate | failed | opus / claude | 2026-08-29T12:35:48.347474+00:00 → 2026-08-29T12:38:11.085349+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0g0--gate/chat.md) |
-| <a id="member-plan"></a>plan | 0g0--plan | completed | opus / claude | 2026-08-29T12:28:53.294966+00:00 → 2026-08-29T12:35:55.438195+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0g0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0g0--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0g0--plan | active | opus / claude | 2026-08-29T12:28:53.294966+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0g0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0g0--plan/chat.md) |
 
 ## Commits
 

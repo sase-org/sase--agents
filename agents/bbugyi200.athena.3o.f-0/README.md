@@ -22,7 +22,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [3o](../../families/bbugyi200.athena.3o.md) (family · 2) | ancestor | active 1, completed 1 |
-| [3o.f-0.f-0](../bbugyi200.athena.3o.f-0.f-0/README.md) | descendant | active |
-| [3o.f-0.f-1](../bbugyi200.athena.3o.f-0.f-1/README.md) | descendant | active |
+| [3o.f-0.f-0](../bbugyi200.athena.3o.f-0.f-0/README.md) | descendant | dismissed |
+| [3o.f-0.f-1](../bbugyi200.athena.3o.f-0.f-1/README.md) | descendant | dismissed |
 | [3o.w1](../../families/bbugyi200.athena.3o.w1.md) (family · 2) | 3o hood | active 1, completed 1 |
 | [3o.w2](../../families/bbugyi200.athena.3o.w2.md) (family · 2) | 3o hood | active 1, completed 1 |

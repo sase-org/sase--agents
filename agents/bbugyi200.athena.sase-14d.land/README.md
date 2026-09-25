@@ -12,19 +12,25 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-09-20T21:10:37.645586+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`2322fe5`](https://github.com/sase-org/sase/commit/2322fe5f9cc5affb97aeef8fdfc13b249bcf5230) | fix(tui): play notification sound files detached from the poll tick | 2026-09-20 18:17:20 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-14d.1](../bbugyi200.athena.sase-14d.1/README.md) | sase-14d hood | completed |
-| [sase-14d.2](../bbugyi200.athena.sase-14d.2/README.md) | sase-14d hood | completed |
-| [sase-14d.3](../bbugyi200.athena.sase-14d.3/README.md) | sase-14d hood | completed |
-| [sase-14d.4](../bbugyi200.athena.sase-14d.4/README.md) | sase-14d hood | completed |
-| [sase-14d.5](../bbugyi200.athena.sase-14d.5/README.md) | sase-14d hood | completed |
-| [sase-14d.6](../bbugyi200.athena.sase-14d.6/README.md) | sase-14d hood | completed |
+| [sase-14d.1](../bbugyi200.athena.sase-14d.1/README.md) | sase-14d hood | active |
+| [sase-14d.2](../bbugyi200.athena.sase-14d.2/README.md) | sase-14d hood | active |
+| [sase-14d.3](../bbugyi200.athena.sase-14d.3/README.md) | sase-14d hood | active |
+| [sase-14d.4](../bbugyi200.athena.sase-14d.4/README.md) | sase-14d hood | active |
+| [sase-14d.5](../bbugyi200.athena.sase-14d.5/README.md) | sase-14d hood | active |
+| [sase-14d.6](../bbugyi200.athena.sase-14d.6/README.md) | sase-14d hood | active |

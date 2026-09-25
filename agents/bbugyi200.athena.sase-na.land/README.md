@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-na](../../users/bbugyi200/machines/athena/hoods/sase-na/README.md) / sase-na.land
 
-**Global name:** `bbugyi200.athena.sase-na.land` · **State:** completed · **Source run:** `run-c79b03be51db668061ea0453338bae45`
+**Global name:** `bbugyi200.athena.sase-na.land` · **State:** active · **Source run:** `run-c79b03be51db668061ea0453338bae45`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-na
 
@@ -16,7 +16,7 @@
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Prompt](prompt.md)
 
 ## Commits
 
@@ -28,7 +28,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-na.1](../../families/bbugyi200.athena.sase-na.1.md) (family · 3) | sase-na hood | completed 2, failed 1 |
-| [sase-na.2](../bbugyi200.athena.sase-na.2/README.md) | sase-na hood | completed |
-| [sase-na.3](../bbugyi200.athena.sase-na.3/README.md) | sase-na hood | completed |
-| [sase-na.4](../bbugyi200.athena.sase-na.4/README.md) | sase-na hood | completed |
+| [sase-na.1](../../families/bbugyi200.athena.sase-na.1.md) (family · 3) | sase-na hood | active 1, completed 1, failed 1 |
+| [sase-na.2](../bbugyi200.athena.sase-na.2/README.md) | sase-na hood | active |
+| [sase-na.3](../bbugyi200.athena.sase-na.3/README.md) | sase-na hood | active |
+| [sase-na.4](../bbugyi200.athena.sase-na.4/README.md) | sase-na hood | active |

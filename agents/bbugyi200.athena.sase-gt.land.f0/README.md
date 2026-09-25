@@ -21,8 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-gt.land](../bbugyi200.athena.sase-gt.land/README.md) | ancestor | dismissed |
+| [sase-gt.land](../bbugyi200.athena.sase-gt.land/README.md) | ancestor | active |
 | [sase-gt.land.f1](../bbugyi200.athena.sase-gt.land.f1/README.md) | sase-gt.land hood | active |
-| [sase-gt.1](../bbugyi200.athena.sase-gt.1/README.md) | sase-gt hood | dismissed |
-| [sase-gt.2](../bbugyi200.athena.sase-gt.2/README.md) | sase-gt hood | dismissed |
-| [sase-gt.3](../bbugyi200.athena.sase-gt.3/README.md) | sase-gt hood | dismissed |
+| [sase-gt.1](../bbugyi200.athena.sase-gt.1/README.md) | sase-gt hood | active |
+| [sase-gt.2](../bbugyi200.athena.sase-gt.2/README.md) | sase-gt hood | active |
+| [sase-gt.3](../bbugyi200.athena.sase-gt.3/README.md) | sase-gt hood | active |

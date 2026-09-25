@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `06h` · Members: 3
 ```mermaid
 flowchart TD
   n0["06h--1 [completed]"]
-  n1["06h--0 [completed]"]
+  n1["06h--0 [active]"]
   n0 --> n1
   n2["06h--mon [failed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | 06h--1 | completed | grok-4.6 / grok | 2026-08-18T17:39:47.679976+00:00 | [1](../agents/bbugyi200.athena.06h--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.06h--1/prompt.md) | [Chat](../agents/bbugyi200.athena.06h--1/chat.md) |
-| <a id="member-0"></a>0 | 06h--0 | completed | grok-4.6 / grok | 2026-08-18T17:24:30.966741+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.06h--0/prompt.md) | [Chat](../agents/bbugyi200.athena.06h--0/chat.md) |
+| <a id="member-0"></a>0 | 06h--0 | active | grok-4.6 / grok | 2026-08-18T17:24:30.966741+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.06h--0/prompt.md) | [Chat](../agents/bbugyi200.athena.06h--0/chat.md) |
 | <a id="member-mon"></a>mon | 06h--mon | failed | grok-4.6 / grok | 2026-08-18T17:39:14.978179+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.06h--mon/chat.md) |
 
 ## Commits

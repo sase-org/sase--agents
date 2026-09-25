@@ -1,258 +1,228 @@
-# Chat History - ace-run (we.f0--code)
+# Chat History - ace-run (we.f0--plan)
 
-- **TIMESTAMP:** 2026-08-09 10:04:39 EDT
-- **MODEL:** codex/gpt-5.5
-- **AGENT:** we.f0--code
+- **TIMESTAMP:** 2026-08-09 09:28:52 EDT
+- **MODEL:** claude/opus
+- **AGENT:** we.f0--plan
 
 ## Linked Chats
 
-- 1. --plan — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-we_f0__plan-260809_085741.md`
-- **2. --code** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-we_f0__code-260809_085741.md`
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-we_f0__plan-260809_085741.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-we_f0__code-260809_085741.md`
+
+**Plan:** /home/bryan/.sase/plans/202608/numbered_memory_subsections.md
+
 
 ## Prompt
 
-%model:@claude_coder
-#gh:gh_sase-org__sase @/home/bryan/.sase/plans/202608/numbered_memory_subsections.md
+#gh:gh_sase-org__sase 
+%xprompts_enabled:false
+# Previous Conversation
 
-The above plan has been reviewed and approved. Implement it now.
+**User:**
 
+Can you help me start rendering the H1 section title in the sase/memory/glossary.md file, which is generaated by the `sase memory init` command, as "Glossary of Terms" instead of just "Glossary"?
+
+**Assistant:**
+
+I’ll trace where `sase memory init` builds `sase/memory/glossary.md`, then make the generator produce the new H1 and verify the regenerated output.
+
+The generator appears to be in `src/sase/main/init_memory/glossary.py`; there are focused tests under `tests/main/test_init_memory_glossary.py` that assert the old title, so I’ll update both the rendering and the expectation.
+
+The existing generator emits a normal short memory note, so changing its H1 will also change the section title when that note is inlined into `AGENTS.md` and provider shims. I’m checking the surrounding docs/tests for intentional old-title assumptions before editing.
+
+I’m going to keep the code change small: introduce the new generated glossary title in the glossary renderer, update the focused test assertions, then use `sase memory init --no-commit` to refresh the managed memory outputs.
+
+The renderer now has an explicit `GLOSSARY_MEMORY_TITLE` constant set to `Glossary of Terms`; next I’m updating only the tests that validate generated glossary output and inline section naming.
+
+There’s one negative assertion that should track the new rendered section title too, so the removal path keeps checking the same user-visible text.
+
+The focused assertions now match the new generated title. I’m scanning again for any remaining generator/test references to the old generated heading before refreshing outputs.
+
+Only generated files still show the old title, plus unrelated xprompt-loader fixtures for generic short notes. I’ll refresh the workspace environment before invoking the project command and tests.
+
+The editable install is current. Now I’m running memory initialization without the commit path so the managed glossary note and provider instruction files are regenerated in place for review.
+
+The project memory init completed. I’m checking the worktree now; if the command also touched non-project managed home files, I’ll keep that clearly separated from this repo’s change set.
+
+The plain `sase` command ran, but it didn’t change the managed project files, which suggests the shell may be resolving a different executable than the editable environment. I’m checking that before rerunning with the explicit local binary.
+
+The shell resolves `sase` to the global binary, while `.venv/bin/python` sees the updated title. I’ll rerun the initializer through `.venv/bin/sase` so it uses this checkout’s edited source.
+
+The local initializer completed. I’m checking the generated files now to make sure the managed glossary and inline agent sections actually changed this time.
+
+The regenerated project files now reflect `Glossary of Terms` in `sase/memory/glossary.md` and the inline agent docs. I’m reviewing the diff, then I’ll run the focused test and the repo’s standard check.
+
+The diff is as expected: one generator constant, focused test expectations, and regenerated managed memory/agent docs. I’m running the glossary test file first so any behavior regression is isolated.
+
+The focused glossary tests pass. Because this repo requires it after file changes, I’m running `just check` for the standard lint plus diff-scoped test lane.
+
+`just check` stopped at formatting on the updated test file. I’ll let Ruff format that file, then rerun the check.
+
+The formatting issue is fixed. I’m rerunning the standard check now.
+
+The check is still running; formatting and Ruff lint have passed so far, and it’s continuing through the remaining gates.
+
+`just check` has cleared mypy and the project-specific lint gates that have reported so far; I’m waiting on the diff-scoped test selection and test run.
+
+The repo validation gates have passed too. The command is still active, so I’m continuing to wait for the scoped tests to finish.
+
+No new output from `just check` in the last poll; it is still running, likely inside the scoped pytest lane.
+
+Still waiting on the same `just check` run. I’m leaving it active until it exits so we have a complete verification result.
+
+The check has been quiet for a couple of polls but remains active. I’m continuing to wait rather than starting a competing test run.
+
+`just check` is still running without additional output. If it stays silent much longer I’ll inspect the process tree, but for now it is still making progress or waiting inside its own test harness.
+
+The check has been silent for several minutes. I’m going to inspect the process tree from another shell so I can tell whether it is running tests, blocked on a lock, or stuck elsewhere.
+
+The process tree shows `just check` is alive inside the diff-scoped pytest run (`pytest -n 4`), not stuck before tests. There is also an unrelated `just check-full` process in the workspace; I’m not touching it.
+
+The scoped pytest run is still active and quiet. I’ll keep polling; no additional commands are needed unless the process stops or reports a failure.
+
+Still no test output, but the `just check` session has not exited. I’m going to inspect the pytest child processes once more to make sure they are still consuming work.
+
+The pytest workers are actively using CPU, so the scoped lane is still working rather than hung. I’ll continue waiting for the final result.
+
+`just check` remains in the active pytest phase. I’m keeping the session open and will report the exact result when it exits.
+
+Still waiting on the same scoped test run. The command has not returned yet, so I’m not treating verification as complete.
+
+The check is still quiet but active. I’m going to keep waiting; interrupting would leave us without the required repo-level result.
+
+No change yet. The pytest workers were active on the previous inspection, so I’m continuing to wait for completion.
+
+`just check` is still running with no new output. I’ll do one more process check if it remains quiet after this interval.
+
+The run is still active after another quiet interval. I’m checking process state again to distinguish a long test from a stalled worker.
+
+The scoped pytest workers are still present; several are in disk-wait state, so this looks like a slow I/O-heavy test phase rather than a completed command. I’ll keep waiting for the actual exit status.
+
+No new output yet; the check remains active. I’m continuing to wait.
+
+The run is still in the same state. I’ll keep it open and poll again; starting over would only add load.
+
+Still no additional output from `just check`; the session is active. I’m waiting for completion.
+
+This has been quiet long enough that I’m checking worker wait channels. That should tell me whether they are blocked on filesystem I/O or doing Python-level work.
+
+The workers are still active, including one actively running and others waiting on normal poll/journal/pipe operations. I’m leaving the check alone and waiting for it to finish.
+
+No output yet; `just check` remains in progress.
+
+Still waiting on the same active check run. I’ll report any failure or pass as soon as it exits.
+
+The test lane is taking longer than usual, but it is still active. I’m not ending the turn while the verification session is running.
+
+No new output from the check. Continuing to wait.
+
+The `just check` process is still active and silent. I’ll continue polling; there’s no completed result to summarize yet.
+
+The check has been in scoped pytest for a while. I’m checking the process tree one more time to see whether a specific child command is responsible for the delay.
+
+The tree still shows the scoped pytest workers under this `just check`; no separate child command is hanging outside pytest. I’m continuing to wait for pytest to finish or fail.
+
+No completion yet. I’m still waiting on the active check session.
+
+Still active and quiet. I’ll keep polling until there is a concrete result.
+
+`just check` completed but failed in the full-suite escalation, not in the glossary tests. The failures are clustered in bead search/snooze/core facade tests, which are outside this change; I’m rerunning the failed area in isolation to see whether this was suite contention or a reproducible existing failure.
+
+The isolated rerun confirms the failure is reproducible and unrelated to the glossary change: `src/sase/core/bead_read_facade.py` passes `regex=` to the Rust `bead_search` binding, but the built binding does not accept that keyword. Since repo instructions require filing reproducible unrelated test failures as task beads, I’m opening the SASE task workflow now.
+
+I’m using the `sase_new_task` skill because this is a reproducible unrelated test failure discovered during verification. First I’m following its required audit steps, including the bead policy read.
+
+The skill use is logged. I’m reading the task-bead policy before searching for duplicates or creating anything.
+
+The bead policy says to use `sase bead` directly for bead operations. I’m going to try the required duplicate searches first; because the discovered failure is in `bead search`, I expect these may also reproduce the same binding error.
+
+The duplicate searches worked under `sase bead`. One plausible existing task mentions the `sase-core-rs` floor, so I’m inspecting it and running a couple of narrower searches around the regex binding symptom before deciding whether this is duplicate or new.
+
+There are two plausible existing beads: one about unreleased 0.21.1 bindings and one about bead-search regex/snippet work. I’m inspecting those before creating anything, because this may be another instance of an existing core-binding floor problem.
+
+This is not a new task: active epic `sase-i1.4` already owns restoring the published binding floor for regex bead search. I’m adding my independent reproduction as a `DISCOVERED ISSUE` note there, per the task-routing policy, instead of creating a duplicate bead.
+
+I have the current commit (`a3a536a03`) for the evidence note. I’m recording the reproducible failure on the active corrective epic now.
+
+The evidence note was recorded on `sase-i1.4`; no duplicate task was created. I’m checking the final diff/status now, including any generated bead-store changes from that note.
+
+The final worktree diff is only the glossary generator, its tests, and regenerated memory/agent docs; the bead note was recorded through SASE without adding local worktree files. I’m doing one last diff review and a check-mode memory init to confirm generated files are current.
+
+`memory init --check` is clean, so the generated files are in sync with the new renderer. I’m rerunning the focused glossary test file after formatting as the final local behavior check.
+
+The focused tests pass again. Since memory init also reports a managed home target, I’m going to use the required `sase_repo` workflow before checking the linked `chezmoi` repo for accidental local changes.
+
+I’m opening the linked `chezmoi` repo through `sase repo open` with an audit reason, then I’ll only inspect the path it returns.
+
+The linked repo path is prepared. I’m checking only its git status to confirm memory init didn’t leave stray changes there.
+
+The linked `chezmoi` repo is clean, so the memory init run did not leave stray home-source changes. I’m gathering final status now.
+
+Done. The glossary generator now renders the managed note title as `Glossary of Terms` via [glossary.py](/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13/src/sase/main/init_memory/glossary.py:27), and I regenerated the managed outputs, including [sase/memory/glossary.md](/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13/sase/memory/glossary.md:8) and the inlined agent-doc section in [AGENTS.md](/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13/AGENTS.md:69). The focused init-memory glossary tests were updated accordingly.
+
+Verification:
+- `just install` passed.
+- `.venv/bin/sase memory init --no-commit` regenerated the files.
+- `.venv/bin/sase memory init --check` passed.
+- `.venv/bin/pytest tests/main/test_init_memory_glossary.py` passed: 6 passed.
+- `just check` failed after escalating to the full suite because of an unrelated active `bead_search` Rust binding mismatch around `regex=`. I confirmed it separately and recorded the evidence on active epic `sase-i1.4`; no duplicate task bead was created.
+
+I’m using the `sase_git_commit` skill because the finalizer explicitly requires committing the listed changes through the SASE commit workflow. I’ll verify the current diff shape, then commit only the named files.
+
+The skill invocation is recorded. I’m checking the worktree and the substantive diff now so the commit only contains the intended generator/test/regenerated-output changes.
+
+The diff is tightly scoped to the new generated H1, matching test expectations, and regenerated memory/provider files. I’m writing the SASE commit message file next, then I’ll commit those exact paths with repeated `-f` flags.
+
+There is already a temporary `.sase/commit_message.md` from an earlier attempt, so I’m checking it before reusing or replacing it.
+
+The existing message describes a different change, so I’m replacing it with a message specific to this glossary title update.
+
+I’m running the SASE commit wrapper now with one `-f` per finalizer-listed file, so unrelated local state stays out of the commit.
+
+The primary commit succeeded and the wrapper is still finishing its bookkeeping. It also reported a deferred prompt archive publication because the agents sync lock is busy; I’m polling until the wrapper exits.
+
+The SASE commit wrapper exited successfully. I’m checking branch status now to confirm the working tree is clean and the commit is not left ahead of upstream.
+
+The repo is clean and not reporting any ahead state against `origin/master`. I’m grabbing the commit id for the final summary.
+
+Committed the glossary title change.
+
+Commit: `106388faf fix(memory): render glossary title as Glossary of Terms`
+
+The repo is clean against `origin/master`. The commit includes the generator update, focused test updates, and regenerated memory/provider docs. The SASE commit wrapper exited successfully, though it reported prompt archive publication was deferred because the agents sync lock was busy.
+
+---
+
+%xprompts_enabled:true
+# New Query
+
+ Can you now help me make it so that, for all short-term memories that
+are rendered in agent instruction files (not just glossary entry sections), we start
+prepending a numeric subsection prefix (ex: `1.2` for the 2nd section under the 1st
+short-term memory section or `3.1` for the first section under the 3rd short-term memory
+section) to the section's title?
+
+Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate
+tier, validate and revalidate until it passes, then submit it with `sase plan propose` (as the skill instructs)
+before making any file changes.
+ %model:opus
 
 ## Response
 
-I’ll use the SASE artifact skill first to resolve and read the approved plan, then I’ll map it onto the current code before editing.
+*Plan submitted for review.*
+
+**Plan file:** `/home/bryan/.sase/plans/202608/numbered_memory_subsections.md`
+
+> # Plan: Number short-term memory subsections in agent instruction files
+> ## Context
+> `sase memory init` inlines every `type: short` memory note into the
+> `## Tier 1 (short-term) Memory` block of the managed `AGENTS.md`, then copies that file
+> byte-for-byte to each provider shim (`CLAUDE.md`, `GEMINI.md`, `QWEN.md`,
+> `OPENCODE.md`).
+> The single seam that performs the inlining is `inline_memory_section()` in
+> `src/sase/amd/inline_memory.py:145`. It:
+> 1. consumes the note's H1 into a section header, already numbered —
+>    `### {number}. {title} ({basename})`;
+
+*See full plan file for details.*
 
-The artifact skill confirms this `@...` path is launch staging, not the durable artifact index. I’m resolving the exact file now and then I’ll inspect the implementation points.
-
-The plan is scoped to the Python inliner, tests, docs, and regenerated instruction files. I’ll first check the current worktree so I don’t collide with existing changes, then I’ll patch the inliner and focused tests.
-
-The worktree is clean. The current inliner already has the single fence-aware loop the plan targets, so the implementation is a small extension rather than a rewrite.
-
-I’m going to update the inliner in place, add the helper/counters, then add the unit and handler assertions from the approved plan.
-
-Before editing, I verified the two production callers already forward the note number. The change can stay inside `inline_memory.py` plus tests and docs, with no caller API churn beyond the helper’s optional parameter.
-
-I’m adding focused coverage now: pure numbering behavior, fence preservation under numbering, skipped H2 fallback, and one managed-generation assertion so the caller path is pinned.
-
-I’m applying the handler-level test by giving the temporary short note one H2; that keeps the existing fixture shape but proves managed rendering receives numbered body headings.
-
-Next I’m updating the three docs passages that currently imply short memory is inserted verbatim, keeping the prose narrow so the docs don’t become a second spec.
-
-The main memory guide now describes generated note and subsection numbers, including examples of both heading levels. I’m applying the same clarification to init/config reference text.
-
-The init reference is updated. I’m making the matching configuration reference change, then I’ll run the focused tests before regenerating managed files.
-
-That patch missed because the line wrapping in `docs/configuration.md` differs slightly from the plan excerpt. I’m reading the exact paragraph and will patch against the current text.
-
-I found the exact wrapping. The configuration paragraph has the same content, just split differently, so I’m replacing only that clause.
-
-The code and docs edits are in place. I’m installing the workspace dependencies now before running tests and regeneration, per this repo’s instructions for ephemeral workspaces.
-
-`just install` is rebuilding the local Rust/Python binding, which is expected here. I’ll wait for it to finish before running the focused pytest lane.
-
-The install is still running without new output. I’m continuing to wait rather than starting dependent commands against a half-built environment.
-
-The Rust extension has moved from core compilation to the Python binding crate. After this completes I’ll run the targeted tests first, then regenerate `AGENTS.md` and shims.
-
-No failure output so far; it’s still building. I’m keeping the session open until `just install` returns.
-
-The build is taking a few minutes, but it is still the required first step for this workspace. I’ll continue once it exits.
-
-`just install` completed. I’m running the focused inliner and managed-agent tests now to catch local contract issues before regenerating files.
-
-Focused tests pass. The next step (`sase memory init --no-commit`) intentionally writes the home/chezmoi root too, so I need to use the SASE repo skill before inspecting that linked repo’s state.
-
-I’ve read the repo-access instructions. I’m opening the configured `chezmoi` linked repo through `sase repo open` so any later status check uses the audited path.
-
-The linked `chezmoi` repo is opened at the audited path. I’m regenerating with the workspace CLI and `--no-commit`, which should update generated instruction files only.
-
-Regeneration completed, but the output shows an unexpected `chore: initialize sase memory` commit despite `--no-commit`. I’m going to inspect both the project worktree and the audited `chezmoi` linked repo state before deciding what needs to be reported or corrected.
-
-The project diff is the expected implementation/docs/generated-file set. The audited linked `chezmoi` checkout did not move, so the commit message came from the live chezmoi source tree that `memory init` targets; I’m checking the repo inventory before touching that path directly.
-
-The repo inventory output is large and didn’t clarify the live chezmoi source target. The project-side regeneration is clean; I’m checking the generated instruction diffs next, then I’ll handle the home-root side effect explicitly in the final report.
-
-The project-side generated diff matches the plan: numbered H2/H3 headings in `AGENTS.md` and copied shims, no canonical `sase/memory/` files in the project status. I’m verifying shim identity and the memory-init check next.
-
-Provider shims are byte-identical to `AGENTS.md`, and the generated project diff is limited to those five instruction files. I’m running `memory init --check` to make sure the generator is now stable.
-
-`memory init --check` passes. I’m moving to the repo verification gates now: `just check` first, then the full suite because this changes generated instruction output.
-
-`just check` stopped at Python formatting; ruff wants one test fixture collapsed to a single string. I’m applying the formatter, then I’ll rerun the gate.
-
-The formatter made the expected mechanical test change. I’m rerunning `just check` from a clean formatting baseline.
-
-The next failure is Markdown formatting on the three docs I edited. I’m running Prettier on only those files, then I’ll rerun `just check`.
-
-Prettier touched only the docs I changed. I’m rerunning `just check` now.
-
-`just check` has cleared formatting, keep-sorted, ruff, and mypy. It’s continuing into the remaining validation/test lane.
-
-The static lint gates are still passing, including symvision and size checks. I’m waiting for the scoped test selection lane to finish.
-
-`SASE validation` and committed-plan checks have passed. The gate is now in the test phase.
-
-No new output from `just check` yet; it’s still running. I’m keeping the session open until the gate returns.
-
-The check session is still active without errors. I’m waiting for the final result before starting the full suite.
-
-The scoped test lane is taking longer than the earlier focused pytest run, which is normal for `just check`. I’ll continue polling rather than interrupting it.
-
-Still running and still no failure output. I’m waiting for completion.
-
-`just check` remains active. Since there’s no failure output, I’m letting the repo’s test runner finish rather than launching overlapping gates.
-
-The gate has been quiet for several minutes, but the process is still alive. I’m continuing to wait; interrupting would leave us without the required verification result.
-
-`just check` escalated to the full suite and found five failures, all in glossary-related tests. I need the full failure bodies now; the gate output was truncated, so I’m rerunning just those tests with normal verbosity.
-
-The rerun shows one expected assertion drift from the new `#### 1.1 Agent Clan` heading, plus four stale test-helper constructions missing `display_aliases` on `GlossaryEntry`. I’m checking the dataclass contract and will keep the fixes minimal so the full gate can run cleanly.
-
-`display_aliases` is already used in the same test file by another helper, so I’ll mirror that field in the stale helper. The generated-agent assertion needs to expect the new numbered subsection heading.
-
-The dataclass makes `display_aliases` required, with no default. I’m patching the test helper and the expected numbered glossary heading.
-
-The contract is clear: `display_aliases` is a rendered subset, distinct from effective aliases. I’m using the same display aliases as the configured non-plural aliases in the helper.
-
-The helper now matches `GlossaryEntry`. I’m updating the managed glossary assertion to check the numbered inlined heading.
-
-The glossary test fixes are in. I’m rerunning the previously failing tests before restarting `just check`.
-
-The previously failing glossary tests now pass. I’m rerunning `just check`; it will likely escalate to the full lane again, but now the known failures are addressed.
-
-The rerun has cleared formatting, ruff, mypy, and the custom lint gates through terminology. I’m waiting on the remaining validation and test phases.
-
-`SASE validation` and committed-plan checks have passed again. The test lane is running.
-
-The test phase is quiet but still active. I’m waiting for its final result.
-
-`just check` passes now, with a scoped selection of 55 files. I’m running `just check-full` next as requested by the approved plan for generated instruction output changes.
-
-`check-full` has cleared the same formatting and static lint gates so far. I’m waiting on the remaining validation and full pytest run.
-
-Validation has passed in `check-full`; the exhaustive test suite is now running.
-
-The full suite is still running without new output. I’ll continue monitoring until it completes.
-
-No result yet from `check-full`; the process remains active.
-
-The exhaustive suite is still in progress. I’m letting it run to completion.
-
-Still no failure output; `check-full` is continuing through pytest.
-
-The full test lane is still active and quiet. I’m continuing to poll.
-
-`check-full` passed the exhaustive tests but failed the flake-baseline gate: it reports seven reproducible flakes over baseline and explicitly says a bead is required before landing. I’m going through the SASE bead/new-task workflow now, then I’ll rerun the relevant gate.
-
-I’m following the required new-task workflow for this flake-baseline failure: audited bead policy read first, then duplicate searches and active-epic checks before creating anything.
-
-The bead policy confirms this should be either corroborated on an existing task/epic or filed as a new ready task. I’m searching for duplicates using the distinctive failing gate and nodeid terms.
-
-Duplicate search found existing candidates: a specific xprompt-selector flake task, a broad ACE TUI flake task, and an older snooze-test task. I’m opening the plausible records and checking active epics before deciding whether this is a duplicate, corroboration, or a new baseline task.
-
-The xprompt and plan-approval nodes are already covered by active/in-progress flake tasks. The snooze node search hit an older deterministic core-version task, so I’m doing a narrower search for the current snooze flake-baseline node names before adding evidence.
-
-The current snooze failures are covered by active task `sase-i5`, not the older closed core-floor task. The flake class itself is also owned by active epic `sase-h8`/umbrella task `sase-ct`, so I’m recording this as corroborating evidence instead of creating duplicate tasks.
-
-The snooze task already has the exact four snooze nodes from this date. Since `check-full` still failed with those tasks present, I’m checking the flake-baseline tool contract to see whether the committed baseline file also has to be updated after corroborating the beads.
-
-The tool only compares current reproducible flakes against `tests/reproducible_flake_baseline.txt`; it does not query beads. So the required flow is: ensure beads exist, then add the nodeids to the committed baseline. I’m recording fresh corroboration on the existing beads before touching that baseline file.
-
-I’m adding evidence to the existing task records: `sase-ct` for the xprompt/plan-approval flake-baseline recurrence and `sase-i5` for the snooze expired-wake-time nodes. Then I’ll update the committed baseline with exactly those nodeids.
-
-The bead commands are running; they may be committing to the bead sidecar. I’m waiting for all three to return before editing the baseline.
-
-The `sase-ct` corroboration was recorded successfully. I’m waiting for the snooze task and active-epic note commands as well.
-
-The `sase-i5` corroboration is recorded too. I’m waiting on the active epic note before updating the baseline.
-
-Corroboration is recorded on `sase-ct`, `sase-i5`, and active epic `sase-h8.10`. I’m adding the seven filed nodeids to `tests/reproducible_flake_baseline.txt` so the flake-baseline gate reflects the filed debt.
-
-The baseline now includes the filed nodeids. I’m running the flake-baseline gate directly first; if that passes, I’ll rerun the repo gates with the expanded file set.
-
-The flake-baseline gate now passes: seven current reproducible flakes, seven allowed, all filed. I’m rerunning `just check` and then `just check-full` so the final state is verified with the baseline change included.
-
-`just check` has cleared formatting and static lint gates again. I’m waiting for validation and the scoped test lane.
-
-Validation passed; the test lane is running.
-
-No new output yet from the scoped lane; I’m waiting for the final result.
-
-`just check` passes. I’m running `just check-full` one more time so the final verification includes the updated flake baseline.
-
-`check-full` has passed formatting and the early lint gates. I’m waiting through validation and the exhaustive lane again.
-
-Validation passed in `check-full`; the full pytest lane is running now.
-
-The full suite is still active with no failure output.
-
-Still waiting on `check-full`; it’s in the long pytest section.
-
-No failure output so far; the full lane continues.
-
-`check-full` is still running quietly. I’m continuing to monitor.
-
-The exhaustive test run is still active. No action needed yet.
-
-`just check-full` now passes, including the flake baseline. I’m doing final status/diff inspection next, including the generated files and the home-root side effect from `memory init`.
-
-The project worktree has the expected implementation, docs, generated instruction files, test updates, and the flake baseline entries. I’m checking the live chezmoi source repo now because `memory init --no-commit` emitted a commit there unexpectedly and the plan asks that home-root effect be surfaced.
-
-The live chezmoi source is clean, but it has a new `chore: run sase init` commit with home instruction files and generated skill files. The earlier command output also showed `chore: initialize sase memory`, so I’m checking the last two commits to report the full side effect accurately.
-
-The home-source side effect is two clean commits: `cb035eb9` for home instruction files and `770708d9` from `sase init`, which also refreshed generated skill files. I’m running one final memory drift check, then I’ll summarize the project diff and verification.
-
-The final memory check caught home-root drift: the later `sase init` chezmoi commit rewrote the home instruction files back by two-line diffs. I’m regenerating with the workspace CLI again after all bead/skill activity, then I’ll re-check.
-
-Regeneration again created a live chezmoi commit despite `--no-commit` (`ecfb6bb3`). I’m checking whether that leaves the home root stable now.
-
-Home memory drift is resolved now: `.venv/bin/sase memory init --check` passes and the chezmoi source is clean. I’m doing a final project status check to confirm the last regeneration didn’t alter the already-verified project diff.
-
-The final project diff is unchanged from the verified state, and provider shims still match `AGENTS.md`. I’m collecting the key file/line references for the close-out.
-
-The approved plan’s final step is to commit the project-side generator, tests, docs, regenerated instruction files, and the baseline update together through the SASE commit workflow. I’m reading that workflow now before committing.
-
-I’m committing the verified project diff through `sase_git_commit`, with one `-f` per changed project file as required. The live chezmoi commits are separate side effects from `sase memory init`, not part of this project commit.
-
-The commit skill use is logged. I’m creating the temporary commit message file now, then I’ll run the SASE commit wrapper.
-
-The `.sase` scratch directory exists. I’m writing the conventional commit message file.
-
-The commit message is ready. I’m running `sase_git_commit` with explicit file flags for every project file in the verified diff.
-
-The primary commit succeeded; the wrapper is still finishing post-commit bookkeeping and reported prompt archive publication was skipped because `raw_xprompt.md` is unavailable. I’m waiting for the final exit status.
-
-No additional output yet; the commit wrapper is still running.
-
-The commit process remains active after the primary commit; I’m continuing to wait for completion.
-
-Still waiting on post-commit finalization. I won’t start other git operations until this exits.
-
-The wrapper is still running quietly. I’m keeping the session open.
-
-Post-commit finalization is taking longer than usual, but it has not failed. I’m continuing to wait.
-
-`sase_git_commit` exited successfully. I’m verifying the branch status and commit hash now.
-
-The project commit landed as `3ad2e624c` and the branch is clean/in sync. One earlier glossary helper fix was apparently already present upstream during commit/rebase, so it is not in the final commit stat. I’m doing quick post-commit drift checks for project memory and the live home source.
-
-Post-commit memory check passes, and the live chezmoi source is clean with the latest home-memory commit `ecfb6bb3`. I’m doing one final branch status check, then I’ll close out.
-
-Implemented and committed as `3ad2e624c feat(memory): number inlined short-memory subsections`.
-
-Changed:
-- Added hierarchical numbering in [inline_memory.py](/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13/src/sase/amd/inline_memory.py:109) for inlined H2/H3 short-memory headings.
-- Regenerated project `AGENTS.md` plus provider shims, verified shims match byte-for-byte.
-- Updated docs and tests, including managed-generation coverage.
-- Filed/corroborated the flake-baseline debt on existing SASE beads and updated `tests/reproducible_flake_baseline.txt`.
-
-Verified:
-- `just install`
-- focused pytest for inliner/glossary/managed memory tests
-- `.venv/bin/sase memory init --check`
-- `just selection-health --fail-on-new-flake`
-- `just check`
-- `just check-full`
-
-Notes:
-- `sase_git_commit` succeeded; prompt archive publication was skipped because `raw_xprompt.md` is unavailable.
-- `sase memory init --no-commit` unexpectedly created live chezmoi commits. Final home source is clean; latest relevant commit is `ecfb6bb3 chore: initialize sase memory` touching `home/AGENTS.md` and the four provider shims.

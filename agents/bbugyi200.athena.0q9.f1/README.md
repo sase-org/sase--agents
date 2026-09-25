@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0q9](../../families/bbugyi200.athena.0q9.md) (family · 3) | ancestor | completed 2, failed 1 |
+| [0q9](../../families/bbugyi200.athena.0q9.md) (family · 3) | ancestor | active 1, completed 1, failed 1 |
 | [0q9.f0](../bbugyi200.athena.0q9.f0/README.md) | 0q9 hood | active |
-| [0q9.f2](../../families/bbugyi200.athena.0q9.f2.md) (family · 5) | 0q9 hood | completed 3, failed 2 |
-| [0q9.f2.f0](../../families/bbugyi200.athena.0q9.f2.f0.md) (family · 3) | 0q9 hood | active 2, failed 1 |
+| [0q9.f2](../../families/bbugyi200.athena.0q9.f2.md) (family · 5) | 0q9 hood | active 1, completed 2, failed 2 |
+| [0q9.f2.f0](../../families/bbugyi200.athena.0q9.f2.f0.md) (family · 5) | 0q9 hood | active 1, completed 2, failed 2 |

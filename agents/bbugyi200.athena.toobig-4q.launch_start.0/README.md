@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-4q.kill\_last\_launch.0](../bbugyi200.athena.toobig-4q.kill_last_launch.0/README.md) | toobig-4q hood | completed |
+| [toobig-4q.kill\_last\_launch.0](../bbugyi200.athena.toobig-4q.kill_last_launch.0/README.md) | toobig-4q hood | active |

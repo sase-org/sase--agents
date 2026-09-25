@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 01y--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-01y__plan-260815_052431.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-01y__code-260815_052431.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/fix_child_epic_clan_lane.md
 
 

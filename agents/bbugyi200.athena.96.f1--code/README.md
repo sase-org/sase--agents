@@ -28,4 +28,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [96](../../families/bbugyi200.athena.96.md) (family · 2) | ancestor | active 1, completed 1 |
-| [96.f0](../bbugyi200.athena.96.f0/README.md) | 96 hood | active |
+| [96.f0](../bbugyi200.athena.96.f0/README.md) | 96 hood | dismissed |

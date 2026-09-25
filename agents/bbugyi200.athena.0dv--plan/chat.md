@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 0dv--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0dv__plan-260825_174938.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0dv__code-260825_174938.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/bead_show_paging_and_multi_id.md
 
 

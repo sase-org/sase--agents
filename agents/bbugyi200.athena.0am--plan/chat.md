@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 0am--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0am__plan-260822_120315.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0am__code-260822_120315.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/move_final_declaration_to_memory.md
 
 

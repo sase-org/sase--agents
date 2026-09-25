@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `02i` sase agent just had a very hard time working with sase monitors. Can you do some research into this to determine whether we should take action and fix this and, if so, what the fix should look like? Review running sase agents and open sase beats before deciding if we should act on this to make sure that we are not duplicating work. #if_not_plan

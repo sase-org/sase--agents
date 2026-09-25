@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789397344,"sha":"16ee9c2336456f25e1f1cb4f6650bdd58dd9ff92","subject":"fix(workspace): preserve shared object dependencies"},{"committed_at":1789399089,"sha":"cc91c0aa435c225402a4598dc6adf998ef257510","subject":"test: make git identity hermetic in tests"}],"schema_version":2,"source_run_id":"run-7a340616edfa8124bbe1d8a96489806d"}

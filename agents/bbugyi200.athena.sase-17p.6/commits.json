@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-09e5d1520d762ac112c55654d44b3124"}
+{"commits":[{"committed_at":1790278152,"sha":"c91690efcbae1179773f70a2823e77fabac4b203","subject":"feat(tool): prove hand-off contract end to end and remove tool_handoff flag (sase-17p.6)"}],"schema_version":2,"source_run_id":"run-09e5d1520d762ac112c55654d44b3124"}

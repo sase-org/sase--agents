@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [2f](../bbugyi200.athena.2f/README.md) | ancestor | active |
+| [2f](../bbugyi200.athena.2f/README.md) | ancestor | dismissed |

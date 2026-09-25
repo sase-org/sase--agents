@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-vw](../../users/bbugyi200/machines/athena/hoods/sase-vw/README.md) / sase-vw.1
 
-**Global name:** `bbugyi200.athena.sase-vw.1` · **State:** completed · **Source run:** `run-7bdedebe0f650790c316187ab9795155`
+**Global name:** `bbugyi200.athena.sase-vw.1` · **State:** active · **Source run:** `run-7bdedebe0f650790c316187ab9795155`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-vw
 
@@ -12,7 +12,7 @@
 - Epic: [sase-vw](https://github.com/sase-org/sase--beads/blob/main/pages/sase-vw/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-30T14:04:06.162023+00:00 → 2026-08-30T14:51:33.079499+00:00
+- Timing: 2026-08-30T14:04:06.162023+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -29,11 +29,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-vw.2](../bbugyi200.athena.sase-vw.2/README.md) | sase-vw hood | completed |
-| [sase-vw.3](../bbugyi200.athena.sase-vw.3/README.md) | sase-vw hood | completed |
-| [sase-vw.4](../bbugyi200.athena.sase-vw.4/README.md) | sase-vw hood | completed |
-| [sase-vw.5](../bbugyi200.athena.sase-vw.5/README.md) | sase-vw hood | completed |
-| [sase-vw.6](../bbugyi200.athena.sase-vw.6/README.md) | sase-vw hood | completed |
-| [sase-vw.7](../bbugyi200.athena.sase-vw.7/README.md) | sase-vw hood | completed |
-| [sase-vw.8](../bbugyi200.athena.sase-vw.8/README.md) | sase-vw hood | completed |
-| [sase-vw.land](../../families/bbugyi200.athena.sase-vw.land.md) (family · 3) | sase-vw hood | completed 2, failed 1 |
+| [sase-vw.2](../bbugyi200.athena.sase-vw.2/README.md) | sase-vw hood | active |
+| [sase-vw.3](../bbugyi200.athena.sase-vw.3/README.md) | sase-vw hood | active |
+| [sase-vw.4](../bbugyi200.athena.sase-vw.4/README.md) | sase-vw hood | active |
+| [sase-vw.5](../bbugyi200.athena.sase-vw.5/README.md) | sase-vw hood | active |
+| [sase-vw.6](../bbugyi200.athena.sase-vw.6/README.md) | sase-vw hood | active |
+| [sase-vw.7](../bbugyi200.athena.sase-vw.7/README.md) | sase-vw hood | active |
+| [sase-vw.8](../bbugyi200.athena.sase-vw.8/README.md) | sase-vw hood | active |
+| [sase-vw.land](../../families/bbugyi200.athena.sase-vw.land.md) (family · 3) | sase-vw hood | active 3 |

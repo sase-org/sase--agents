@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789944071,"sha":"630220713d23e94bb839787922c44b06982ec8fb","subject":"refactor(tui): decide Agents-tab rebuild scope per panel instead of per roster"}],"schema_version":2,"source_run_id":"run-15925967136c56f5659f7ef5fe9b1811"}

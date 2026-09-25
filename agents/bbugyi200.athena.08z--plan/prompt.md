@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Sase pager bead links/hints never seem to work (see ~/tmp/screenshots/20260908_121439.png for context). Can you help me diagnose the root cause of this issue and fix it? #plan %m:@xlarge %w(runners=100)

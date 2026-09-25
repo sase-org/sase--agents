@@ -33,8 +33,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-6w.land.w0](../agents/bbugyi200.athena.sase-6w.land.w0/README.md) | descendant | waiting |
 | [sase-6w.land.w1](../agents/bbugyi200.athena.sase-6w.land.w1/README.md) | descendant | waiting |
 | [sase-6w.land.w2](../agents/bbugyi200.athena.sase-6w.land.w2/README.md) | descendant | waiting |
-| [sase-6w.land.w3](../agents/bbugyi200.athena.sase-6w.land.w3/README.md) | descendant | active |
-| [sase-6w.land.w4](../agents/bbugyi200.athena.sase-6w.land.w4/README.md) | descendant | active |
+| [sase-6w.land.w3](../agents/bbugyi200.athena.sase-6w.land.w3/README.md) | descendant | dismissed |
+| [sase-6w.land.w4](../agents/bbugyi200.athena.sase-6w.land.w4/README.md) | descendant | dismissed |
 | [sase-6w.1](../agents/bbugyi200.athena.sase-6w.1/README.md) | sase-6w hood | active |
 | [sase-6w.2](../agents/bbugyi200.athena.sase-6w.2/README.md) | sase-6w hood | active |
 | [sase-6w.3](../agents/bbugyi200.athena.sase-6w.3/README.md) | sase-6w hood | active |

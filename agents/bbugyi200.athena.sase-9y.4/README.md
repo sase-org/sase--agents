@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-9y](../../users/bbugyi200/machines/athena/hoods/sase-9y/README.md) / sase-9y.4
 
-**Global name:** `bbugyi200.athena.sase-9y.4` · **State:** active · **Source run:** `run-ef173098b64e80300029a6656c79084c`
+**Global name:** `bbugyi200.athena.sase-9y.4` · **State:** dismissed · **Source run:** `run-ef173098b64e80300029a6656c79084c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-9y
 
@@ -11,12 +11,12 @@
 - Bead: [sase-9y.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-9y/sase-9y.4.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-27T14:28:18.349986+00:00
+- Timing: 2026-07-27T10:28:18.349986 → 2026-07-27T11:41:06.336563
 - Commits: 0
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Neighbors
 

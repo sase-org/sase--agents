@@ -1,7 +1,7 @@
 # Chat History - ace-run (sase-s6.8--plan)
 
-- **TIMESTAMP:** 2026-08-23 01:28:10 UTC
-- **MODEL:** codex/gpt-5.5
+- **TIMESTAMP:** 2026-08-23 09:50:10 UTC
+- **MODEL:** grok/grok-4.6
 - **AGENT:** sase-s6.8--plan
 
 ## Prompt
@@ -10,7 +10,6 @@
 %id(8, clan=sase-s6, bead=sase-s6.8)
 %model:@medium
 %auto
-%w:sase-s6.4,sase-s6.5,sase-s6.6,sase-s6.7
 %w(bead=sase-s6.4)
 %w(bead=sase-s6.5)
 %w(bead=sase-s6.6)
@@ -35,10 +34,10 @@ these into task beads.
 # Monitor handoff
 
 This agent delegated the remaining work to a monitor shell.
-Monitor ID: mw67yj9ssygw
-Inspect with: sase monitor show mw67yj9ssygw
+Monitor ID: ra9mjgtfbnwx
+Inspect with: sase monitor show ra9mjgtfbnwx
 Monitor shell: sase-s6.8--mon
-Directory: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12
+Directory: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_15
 
 Command:
 
@@ -48,9 +47,20 @@ just check-full
 
 Reason:
 
-sase-s6.8 (typed_launch_units Phase 8) full verification: touches the Rust binding, launch broadening set, TUI, and stable wires per the plan
+sase-s6.8 mixed-launch verification: just check escalated (core-identity-changed / Rust binding)
 
 Next action:
 
-This is sase-s6.8 (Integrated rollout, documentation, and verification — the final phase of the typed_launch_units epic sase-s6). Report just check-full results. If it passed: (1) run `just test-visual` (inline if fast, else another monitor with the same TESTING/TESTED labels) and confirm it passes; (2) open the linked sase-core repo via /sase_repo and run its full check command (see its justfile/CONTRIBUTING for the exact recipe name), fixing anything it flags; (3) confirm `sase bead epic-symbols sase-s6.8` still reports no leftover --epic-symbol entries; (4) close the bead with `sase bead close sase-s6.8 --note "<summary of what was verified>"` — do NOT close the parent epic sase-s6 or any ancestor, that is the s6.land agents job. Two PROPOSED FOLLOW-UP notes are already recorded on sase-s6.8 (a glossary/memory staleness item and an unconfirmed dormant proc-fingerprint concern) — leave those for the epics land agent to triage, do not act on them yourself. If just check-full failed: diagnose and fix the failure (likely candidates: the new tests/test_launch_admission_mixed_matrix.py, or the docs/*.md edits to xprompt.md, ace.md, configuration.md documenting %if/%proc native dispatch and Agents-tab proc shells), then rerun verification before closing.
+This is sase-s6.8 (typed_launch_units Phase 8: integrated rollout, documentation, and verification). Do not close parent epic sase-s6 or any ancestor.
+
+If just check-full FAILED: diagnose and fix, then re-verify (monitor another just check-full if needed). A prior full run failed test-cost causes.parser_create just over the 52s+15% local budget; do not hand-raise that budget. Use tools/check_test_cost_budgets --suggest on a fresh recording if that is the failure. Do not put live typed-launch directive percent-tokens in later --next prose; a previous follow-up died because those tokens are rejected while the beta flag is off.
+
+If just check-full PASSED:
+1. Run just test-visual (inline if fast; else another monitor with TESTING/TESTED).
+2. In the already-opened linked sase-core checkout, run just check from that repo root (fmt-check, clippy -D warnings, cargo test --workspace including sase_core_py and the xprompt LSP crate). That checkout contains a planner fix so owned if-directive fences are not re-parsed as invalid-if-form, while fenced proc-directive options still parse. Fix anything it flags.
+3. Confirm `sase bead epic-symbols sase-s6.8` reports no leftover --epic-symbol entries.
+4. Close only this bead with `sase bead close sase-s6.8 --note "<what you verified>"`. Do not close sase-s6.
+5. Leave existing PROPOSED FOLLOW-UP notes (glossary Proc Shell memory, unconfirmed proc fingerprint, PNG snapshots) for the land agent. Do not create beads.
+
+Already done here: mixed-matrix tests in tests/test_launch_admission_mixed_matrix.py; plan-digest mismatch rejection; public docs for native stand-alone proc dispatch and Agents-tab proc shells; sase-core planner skip for captured if-directive owned spans; just check passed after escalation to the full suite.
 

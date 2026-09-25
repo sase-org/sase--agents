@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 033--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-033__plan-260815_201957.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-033__code-260815_201957.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/adaptive_models_panel_description_height.md
 
 

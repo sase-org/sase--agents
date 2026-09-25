@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0e5` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["0e5--code [active]"]
+  n0["0e5--code [completed]"]
   n1["0e5--plan [active]"]
   n0 --> n1
 ```
@@ -17,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 0e5--code | active | gpt-5.5 / codex | 2026-08-26T12:15:23.980005+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 0e5--code | completed | gpt-5.5 / codex | 2026-08-26T12:15:23.980005+00:00 → 2026-08-26T12:55:11.373025+00:00 | [1](../agents/bbugyi200.athena.0e5--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.0e5--code/chat.md) |
 | <a id="member-plan"></a>plan | 0e5--plan | active | opus / claude | 2026-08-26T11:58:38.756050+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0e5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0e5--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`a2e9f2e`](https://github.com/sase-org/sase/commit/a2e9f2e145b71eecba8f7a39ef1527e8c3ba6cda) | fix(artifacts): preserve captured file-ref suffixes | 2026-08-26 08:54:10 EDT |

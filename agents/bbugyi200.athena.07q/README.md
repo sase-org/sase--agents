@@ -2,16 +2,20 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [07q](../../users/bbugyi200/machines/athena/hoods/07q/README.md) / 07q
 
-**Global name:** `bbugyi200.athena.07q` · **State:** completed · **Source run:** `run-b2d13de8cb6e0b9351ac02da8432cadf`
+**Global name:** `bbugyi200.athena.07q` · **State:** active · **Source run:** `run-8593b3847cc6220859047942c7c9b510`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 07q
 
 ## Summary
 
-- Model: —
-- Provider: —
-- Timing: 2026-06-27T13:49:49+00:00 → 2026-06-27T13:57:29+00:00
+- Model: opus
+- Provider: claude
+- Timing: 2026-08-19T13:42:09.799450+00:00
 - Commits: [2](#commits)
+
+## Files
+
+[Prompt](prompt.md)
 
 ## Commits
 

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1790017223,"sha":"562d52db043d678e6b53e24609b46659d016d4e7","subject":"fix(service): refuse detached service host spawns under pytest"}],"schema_version":2,"source_run_id":"run-883be8624e61d14c6db1e157d72d7f0f"}

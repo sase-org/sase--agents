@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789918677,"sha":"598f1e820526b1bf332ed5010b7894e67eb8c90d","subject":"fix(service): resolve plugin console scripts at the service-host spawn seam"}],"schema_version":2,"source_run_id":"run-c7bc16cd2b3575279298980931307552"}

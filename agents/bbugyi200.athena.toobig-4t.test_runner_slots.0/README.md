@@ -21,6 +21,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-4t.running\_listing.0](../bbugyi200.athena.toobig-4t.running_listing.0/README.md) | toobig-4t hood | completed |
-| [toobig-4t.test\_fleet\_contract\_sase\_core\_rs.0](../bbugyi200.athena.toobig-4t.test_fleet_contract_sase_core_rs.0/README.md) | toobig-4t hood | waiting |
-| [toobig-4t.test\_running\_agents\_snapshot.0](../bbugyi200.athena.toobig-4t.test_running_agents_snapshot.0/README.md) | toobig-4t hood | waiting |
+| [toobig-4t.running\_listing.0](../bbugyi200.athena.toobig-4t.running_listing.0/README.md) | toobig-4t hood | active |
+| [toobig-4t.test\_fleet\_contract\_sase\_core\_rs.0](../bbugyi200.athena.toobig-4t.test_fleet_contract_sase_core_rs.0/README.md) | toobig-4t hood | active |
+| [toobig-4t.test\_running\_agents\_snapshot.0](../bbugyi200.athena.toobig-4t.test_running_agents_snapshot.0/README.md) | toobig-4t hood | active |

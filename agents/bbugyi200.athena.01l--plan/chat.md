@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 01l--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-01l__plan-260814_134037.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-01l__code-260814_134037.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/question_gate_markup_freeze.md
 
 

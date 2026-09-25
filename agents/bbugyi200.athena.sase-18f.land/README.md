@@ -16,7 +16,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -28,12 +28,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-18f.1](../bbugyi200.athena.sase-18f.1/README.md) | sase-18f hood | completed |
-| [sase-18f.2](../bbugyi200.athena.sase-18f.2/README.md) | sase-18f hood | completed |
-| [sase-18f.3](../bbugyi200.athena.sase-18f.3/README.md) | sase-18f hood | completed |
-| [sase-18f.4](../bbugyi200.athena.sase-18f.4/README.md) | sase-18f hood | completed |
-| [sase-18f.5](../bbugyi200.athena.sase-18f.5/README.md) | sase-18f hood | completed |
-| [sase-18f.6](../bbugyi200.athena.sase-18f.6/README.md) | sase-18f hood | completed |
-| [sase-18f.7](../bbugyi200.athena.sase-18f.7/README.md) | sase-18f hood | completed |
-| [sase-18f.8](../../families/bbugyi200.athena.sase-18f.8.md) (family · 5) | sase-18f hood | completed 3, failed 2 |
-| [sase-18f.9](../bbugyi200.athena.sase-18f.9/README.md) | sase-18f hood | completed |
+| [sase-18f.1](../bbugyi200.athena.sase-18f.1/README.md) | sase-18f hood | active |
+| [sase-18f.2](../bbugyi200.athena.sase-18f.2/README.md) | sase-18f hood | active |
+| [sase-18f.3](../bbugyi200.athena.sase-18f.3/README.md) | sase-18f hood | active |
+| [sase-18f.4](../bbugyi200.athena.sase-18f.4/README.md) | sase-18f hood | active |
+| [sase-18f.5](../bbugyi200.athena.sase-18f.5/README.md) | sase-18f hood | active |
+| [sase-18f.6](../bbugyi200.athena.sase-18f.6/README.md) | sase-18f hood | active |
+| [sase-18f.7](../bbugyi200.athena.sase-18f.7/README.md) | sase-18f hood | active |
+| [sase-18f.8](../../families/bbugyi200.athena.sase-18f.8.md) (family · 5) | sase-18f hood | active 5 |
+| [sase-18f.9](../bbugyi200.athena.sase-18f.9/README.md) | sase-18f hood | active |

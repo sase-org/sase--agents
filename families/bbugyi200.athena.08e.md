@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `08e` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["08e--code [active]"]
+  n0["08e--code [completed]"]
   n1["08e--plan [active]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 08e--code | active | grok-4.6 / grok | 2026-08-19T22:51:20.927611+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 08e--code | completed | grok-4.6 / grok | 2026-08-19T22:51:20.927611+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.08e--code/chat.md) |
 | <a id="member-plan"></a>plan | 08e--plan | active | grok-4.6 / grok | 2026-08-19T22:44:17.675863+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.08e--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.08e--plan/chat.md) |
 
 ## Commits
@@ -26,3 +26,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|
 | — | sase | [`d57dfe1`](https://github.com/sase-org/sase/commit/d57dfe1d8b93feaace4da60fec42b57830b329b5) | chore: Add SDD prompt and plan for multi\_agent\_prompt\_chat\_bullet | 2026-06-27 16:01:39 EDT |
 | — | sase | [`5550be6`](https://github.com/sase-org/sase/commit/5550be6015252ef589e1ebc3a15293445b5f07ff) | feat: record source prompt for multi-agent transcripts | 2026-06-27 16:14:33 EDT |
+| — | sase | [`1d5616e`](https://github.com/sase-org/sase/commit/1d5616e986745ce91614df33659c078061b42448) | feat(ace): add FAMILY and AGENT SHELL metadata kind headers | 2026-08-19 20:05:50 EDT |

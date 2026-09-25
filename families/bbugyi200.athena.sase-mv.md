@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["sase-mv--mon [failed]"]
   n0 --> n2
-  n3["sase-mv--plan [dismissed]"]
+  n3["sase-mv--plan [active]"]
   n0 --> n3
   n4["sase-mv--2 [completed]"]
   n0 --> n4
@@ -28,7 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | sase-mv--code | completed | grok-4.6 / grok | 2026-08-17T13:13:17.143527+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-mv--code/chat.md) |
 | <a id="member-1"></a>1 | sase-mv--1 | completed | grok-4.6 / grok | 2026-08-17T14:06:55.544835+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-mv--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-mv--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-mv--mon | failed | grok-4.6 / grok | 2026-08-17T13:43:54.432401+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-mv--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-mv--plan | dismissed | — | 2026-08-17T08:55:46 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-mv--plan | active | opus / claude | 2026-08-17T12:56:43.197113+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-mv--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-mv--plan/chat.md) |
 | <a id="member-2"></a>2 | sase-mv--2 | completed | grok-4.6 / grok | 2026-08-17T15:11:24.848755+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-mv--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-mv--2/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-mv--mon-0 | failed | grok-4.6 / grok | 2026-08-17T14:43:42.598021+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-mv--mon-0/chat.md) |
 

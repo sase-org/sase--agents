@@ -28,8 +28,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-mg.land.w1](../../families/bbugyi200.athena.sase-mg.land.w1.md) (family · 4) | descendant | completed 1, dismissed 1, failed 2 |
-| [sase-mg.1](../bbugyi200.athena.sase-mg.1/README.md) | sase-mg hood | completed |
-| [sase-mg.2](../bbugyi200.athena.sase-mg.2/README.md) | sase-mg hood | completed |
-| [sase-mg.3](../bbugyi200.athena.sase-mg.3/README.md) | sase-mg hood | completed |
-| [sase-mg.4](../bbugyi200.athena.sase-mg.4/README.md) | sase-mg hood | completed |
+| [sase-mg.land.w1](../../families/bbugyi200.athena.sase-mg.land.w1.md) (family · 4) | descendant | active 1, completed 1, failed 2 |
+| [sase-mg.1](../bbugyi200.athena.sase-mg.1/README.md) | sase-mg hood | active |
+| [sase-mg.2](../bbugyi200.athena.sase-mg.2/README.md) | sase-mg hood | active |
+| [sase-mg.3](../bbugyi200.athena.sase-mg.3/README.md) | sase-mg hood | active |
+| [sase-mg.4](../bbugyi200.athena.sase-mg.4/README.md) | sase-mg hood | active |

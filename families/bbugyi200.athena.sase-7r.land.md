@@ -31,9 +31,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-7r.1](../agents/bbugyi200.athena.sase-7r.1/README.md) | sase-7r hood | active |
-| [sase-7r.2](../agents/bbugyi200.athena.sase-7r.2/README.md) | sase-7r hood | active |
-| [sase-7r.3](../agents/bbugyi200.athena.sase-7r.3/README.md) | sase-7r hood | active |
-| [sase-7r.4](../agents/bbugyi200.athena.sase-7r.4/README.md) | sase-7r hood | active |
-| [sase-7r.5](../agents/bbugyi200.athena.sase-7r.5/README.md) | sase-7r hood | active |
-| [sase-7r.6](../agents/bbugyi200.athena.sase-7r.6/README.md) | sase-7r hood | active |
-| [sase-7r.7](../agents/bbugyi200.athena.sase-7r.7/README.md) | sase-7r hood | active |
+| [sase-7r.2](../agents/bbugyi200.athena.sase-7r.2/README.md) | sase-7r hood | dismissed |
+| [sase-7r.3](../agents/bbugyi200.athena.sase-7r.3/README.md) | sase-7r hood | dismissed |
+| [sase-7r.4](../agents/bbugyi200.athena.sase-7r.4/README.md) | sase-7r hood | dismissed |
+| [sase-7r.5](../agents/bbugyi200.athena.sase-7r.5/README.md) | sase-7r hood | dismissed |
+| [sase-7r.6](../agents/bbugyi200.athena.sase-7r.6/README.md) | sase-7r hood | dismissed |
+| [sase-7r.7](../agents/bbugyi200.athena.sase-7r.7/README.md) | sase-7r hood | dismissed |

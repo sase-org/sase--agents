@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-s9](../../users/bbugyi200/machines/athena/hoods/sase-s9/README.md) / sase-s9.4
 
-**Global name:** `bbugyi200.athena.sase-s9.4` · **State:** completed · **Source run:** `run-c1b08fe9bcf9d804db9c0c4e5cf84607`
+**Global name:** `bbugyi200.athena.sase-s9.4` · **State:** active · **Source run:** `run-c1b08fe9bcf9d804db9c0c4e5cf84607`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-s9
 
@@ -12,12 +12,12 @@
 - Epic: [sase-s9](https://github.com/sase-org/sase--beads/blob/main/pages/sase-s9/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-23T14:06:24.068170+00:00 → 2026-08-23T14:42:22.558366+00:00
+- Timing: 2026-08-23T14:06:24.068170+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Prompt](prompt.md)
 
 ## Commits
 
@@ -29,10 +29,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-s9.1](../bbugyi200.athena.sase-s9.1/README.md) | sase-s9 hood | completed |
-| [sase-s9.2](../bbugyi200.athena.sase-s9.2/README.md) | sase-s9 hood | dismissed |
-| [sase-s9.3](../bbugyi200.athena.sase-s9.3/README.md) | sase-s9 hood | completed |
-| [sase-s9.5](../bbugyi200.athena.sase-s9.5/README.md) | sase-s9 hood | completed |
-| [sase-s9.6](../bbugyi200.athena.sase-s9.6/README.md) | sase-s9 hood | completed |
-| [sase-s9.7](../bbugyi200.athena.sase-s9.7/README.md) | sase-s9 hood | completed |
+| [sase-s9.1](../bbugyi200.athena.sase-s9.1/README.md) | sase-s9 hood | active |
+| [sase-s9.2](../bbugyi200.athena.sase-s9.2/README.md) | sase-s9 hood | active |
+| [sase-s9.3](../bbugyi200.athena.sase-s9.3/README.md) | sase-s9 hood | active |
+| [sase-s9.5](../bbugyi200.athena.sase-s9.5/README.md) | sase-s9 hood | active |
+| [sase-s9.6](../bbugyi200.athena.sase-s9.6/README.md) | sase-s9 hood | active |
+| [sase-s9.7](../bbugyi200.athena.sase-s9.7/README.md) | sase-s9 hood | active |
 | [sase-s9.land](../bbugyi200.athena.sase-s9.land/README.md) | sase-s9 hood | active |

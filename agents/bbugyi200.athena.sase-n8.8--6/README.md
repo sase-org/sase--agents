@@ -28,12 +28,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-n8.1](../../families/bbugyi200.athena.sase-n8.1.md) (family · 2) | sase-n8 hood | completed 2 |
-| [sase-n8.2](../../families/bbugyi200.athena.sase-n8.2.md) (family · 2) | sase-n8 hood | completed 2 |
-| [sase-n8.3](../bbugyi200.athena.sase-n8.3/README.md) | sase-n8 hood | completed |
-| [sase-n8.4](../bbugyi200.athena.sase-n8.4/README.md) | sase-n8 hood | completed |
-| [sase-n8.5](../bbugyi200.athena.sase-n8.5/README.md) | sase-n8 hood | completed |
-| [sase-n8.6](../../families/bbugyi200.athena.sase-n8.6.md) (family · 2) | sase-n8 hood | completed 2 |
-| [sase-n8.7](../bbugyi200.athena.sase-n8.7/README.md) | sase-n8 hood | completed |
-| [sase-n8.9](../bbugyi200.athena.sase-n8.9/README.md) | sase-n8 hood | completed |
-| [sase-n8.land](../bbugyi200.athena.sase-n8.land/README.md) | sase-n8 hood | completed |
+| [sase-n8.1](../../families/bbugyi200.athena.sase-n8.1.md) (family · 2) | sase-n8 hood | active 1, completed 1 |
+| [sase-n8.2](../../families/bbugyi200.athena.sase-n8.2.md) (family · 2) | sase-n8 hood | active 1, completed 1 |
+| [sase-n8.3](../bbugyi200.athena.sase-n8.3/README.md) | sase-n8 hood | active |
+| [sase-n8.4](../bbugyi200.athena.sase-n8.4/README.md) | sase-n8 hood | active |
+| [sase-n8.5](../bbugyi200.athena.sase-n8.5/README.md) | sase-n8 hood | active |
+| [sase-n8.6](../../families/bbugyi200.athena.sase-n8.6.md) (family · 2) | sase-n8 hood | active 1, completed 1 |
+| [sase-n8.7](../bbugyi200.athena.sase-n8.7/README.md) | sase-n8 hood | active |
+| [sase-n8.9](../bbugyi200.athena.sase-n8.9/README.md) | sase-n8 hood | active |
+| [sase-n8.land](../bbugyi200.athena.sase-n8.land/README.md) | sase-n8 hood | active |

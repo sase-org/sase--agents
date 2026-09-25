@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase I'm pretty sure the sase-telegram plugin's proc is being treated as a proc that we should wait for before restarting the TUI (after updating via the `,E` keymap, for example). This is not correct since the Telegram inbound receiver proc keeps running forever (I think). Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix the issue?
+
+#plan %m:gpt-6-astra

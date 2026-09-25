@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-1](../../users/bbugyi200/machines/athena/hoods/toobig-1/README.md) / toobig-1.split\_file.tests.test\_axe\_chop\_result\_protocol.dbb69c9d
 
-**Global name:** `bbugyi200.athena.toobig-1.split_file.tests.test_axe_chop_result_protocol.dbb69c9d` · **State:** active · **Source run:** `run-c68254ebb32a0bf5765c914fcf2229e4`
+**Global name:** `bbugyi200.athena.toobig-1.split_file.tests.test_axe_chop_result_protocol.dbb69c9d` · **State:** dismissed · **Source run:** `run-c68254ebb32a0bf5765c914fcf2229e4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-1
 
@@ -10,21 +10,17 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-20T11:54:27.847665+00:00
+- Timing: 2026-07-20T07:54:27.847665
 - Commits: 0
-
-## Files
-
-[Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-1.split\_file.tests.ace.tui.widgets.test\_agent\_display\_plan\_se.6ebef075](../bbugyi200.athena.toobig-1.split_file.tests.ace.tui.widgets.test_agent_display_plan_se.6ebef075/README.md) | toobig-1.split\_file.tests hood | active |
-| [toobig-1.split\_file.tests.ace.tui.widgets.test\_prompt\_g\_prefix\_hints.3cbe82cd](../bbugyi200.athena.toobig-1.split_file.tests.ace.tui.widgets.test_prompt_g_prefix_hints.3cbe82cd/README.md) | toobig-1.split\_file.tests hood | active |
-| [toobig-1.split\_file.tests.test\_agent\_chat\_from\_name.aa772bc8](../bbugyi200.athena.toobig-1.split_file.tests.test_agent_chat_from_name.aa772bc8/README.md) | toobig-1.split\_file.tests hood | active |
-| [toobig-1.split\_file.tests.test\_axe\_chop\_policy.16045fdb](../bbugyi200.athena.toobig-1.split_file.tests.test_axe_chop_policy.16045fdb/README.md) | toobig-1.split\_file.tests hood | active |
+| [toobig-1.split\_file.tests.ace.tui.widgets.test\_prompt\_g\_prefix\_hints.3cbe82cd](../bbugyi200.athena.toobig-1.split_file.tests.ace.tui.widgets.test_prompt_g_prefix_hints.3cbe82cd/README.md) | toobig-1.split\_file.tests hood | dismissed |
+| [toobig-1.split\_file.tests.test\_agent\_chat\_from\_name.aa772bc8](../bbugyi200.athena.toobig-1.split_file.tests.test_agent_chat_from_name.aa772bc8/README.md) | toobig-1.split\_file.tests hood | dismissed |
+| [toobig-1.split\_file.tests.test\_axe\_chop\_policy.16045fdb](../bbugyi200.athena.toobig-1.split_file.tests.test_axe_chop_policy.16045fdb/README.md) | toobig-1.split\_file.tests hood | dismissed |
 | [toobig-1.split\_file.tests.test\_axe\_process.6b98a22e](../bbugyi200.athena.toobig-1.split_file.tests.test_axe_process.6b98a22e/README.md) | toobig-1.split\_file.tests hood | waiting |
 | [toobig-1.split\_file.tests.test\_bead.test\_cli\_work\_from\_plan.21301fd5](../bbugyi200.athena.toobig-1.split_file.tests.test_bead.test_cli_work_from_plan.21301fd5/README.md) | toobig-1.split\_file.tests hood | waiting |
 | [toobig-1.split\_file.tests.test\_command\_availability.58f49cd5](../bbugyi200.athena.toobig-1.split_file.tests.test_command_availability.58f49cd5/README.md) | toobig-1.split\_file.tests hood | waiting |

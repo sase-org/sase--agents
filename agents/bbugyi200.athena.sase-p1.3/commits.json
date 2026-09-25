@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b29cf8723f6b098ae360d7e278d4d940"}
+{"commits":[{"committed_at":1787011786,"sha":"7275ec15a93979fdf651e39628caee54df92c65f","subject":"feat(glossary): add TUI catalog service for the glossary panel"}],"schema_version":2,"source_run_id":"run-b29cf8723f6b098ae360d7e278d4d940"}

@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-5s.models.0](../bbugyi200.athena.toobig-5s.models.0/README.md) | toobig-5s hood | completed |
-| [toobig-5s.test\_preview\_panel\_modal.0](../bbugyi200.athena.toobig-5s.test_preview_panel_modal.0/README.md) | toobig-5s hood | completed |
+| [toobig-5s.models.0](../bbugyi200.athena.toobig-5s.models.0/README.md) | toobig-5s hood | active |
+| [toobig-5s.test\_preview\_panel\_modal.0](../bbugyi200.athena.toobig-5s.test_preview_panel_modal.0/README.md) | toobig-5s hood | active |

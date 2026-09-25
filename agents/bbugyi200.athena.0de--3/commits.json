@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1787669522,"sha":"1a96ea92bf4dd066e20d51f024fb79001867232d","subject":"fix(ace-tui): mount prompt bar immediately and gate relaunch on a cleanup barrier"}],"schema_version":2,"source_run_id":"run-11d95c0d07a1f7d7bed52c1ea9bc6464"}

@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [is.cld](../bbugyi200.athena.is.cld/README.md) | is hood | active |
+| [is.cld](../bbugyi200.athena.is.cld/README.md) | is hood | dismissed |

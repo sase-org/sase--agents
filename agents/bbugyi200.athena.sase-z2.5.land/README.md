@@ -16,15 +16,15 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-z2.5.1](../bbugyi200.athena.sase-z2.5.1/README.md) | sase-z2.5 hood | completed |
-| [sase-z2.1](../bbugyi200.athena.sase-z2.1/README.md) | sase-z2 hood | completed |
-| [sase-z2.2](../bbugyi200.athena.sase-z2.2/README.md) | sase-z2 hood | completed |
-| [sase-z2.3](../bbugyi200.athena.sase-z2.3/README.md) | sase-z2 hood | completed |
-| [sase-z2.4](../bbugyi200.athena.sase-z2.4/README.md) | sase-z2 hood | completed |
-| [sase-z2.land](../../families/bbugyi200.athena.sase-z2.land.md) (family · 3) | sase-z2 hood | failed 3 |
+| [sase-z2.5.1](../bbugyi200.athena.sase-z2.5.1/README.md) | sase-z2.5 hood | active |
+| [sase-z2.1](../bbugyi200.athena.sase-z2.1/README.md) | sase-z2 hood | active |
+| [sase-z2.2](../bbugyi200.athena.sase-z2.2/README.md) | sase-z2 hood | active |
+| [sase-z2.3](../bbugyi200.athena.sase-z2.3/README.md) | sase-z2 hood | active |
+| [sase-z2.4](../bbugyi200.athena.sase-z2.4/README.md) | sase-z2 hood | active |
+| [sase-z2.land](../../families/bbugyi200.athena.sase-z2.land.md) (family · 3) | sase-z2 hood | active 3 |

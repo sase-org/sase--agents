@@ -37,9 +37,9 @@
 | [sase-8v.8](../bbugyi200.athena.sase-8v.8/README.md) | sase-8v hood | active |
 | [sase-8v.9](../bbugyi200.athena.sase-8v.9/README.md) | sase-8v hood | active |
 | [sase-8v.land](../bbugyi200.athena.sase-8v.land/README.md) | sase-8v hood | active |
-| [sase-8v.land.f0](../bbugyi200.athena.sase-8v.land.f0/README.md) | sase-8v hood | active |
-| [sase-8v.land.f1](../bbugyi200.athena.sase-8v.land.f1/README.md) | sase-8v hood | active |
+| [sase-8v.land.f0](../bbugyi200.athena.sase-8v.land.f0/README.md) | sase-8v hood | dismissed |
+| [sase-8v.land.f1](../bbugyi200.athena.sase-8v.land.f1/README.md) | sase-8v hood | dismissed |
 | [sase-8v.land.f2](../bbugyi200.athena.sase-8v.land.f2/README.md) | sase-8v hood | waiting |
 | [sase-8v.land.f3](../bbugyi200.athena.sase-8v.land.f3/README.md) | sase-8v hood | waiting |
-| [sase-8v.land.w0](../bbugyi200.athena.sase-8v.land.w0/README.md) | sase-8v hood | active |
-| [sase-8v.land.w2](../bbugyi200.athena.sase-8v.land.w2/README.md) | sase-8v hood | active |
+| [sase-8v.land.w0](../bbugyi200.athena.sase-8v.land.w0/README.md) | sase-8v hood | dismissed |
+| [sase-8v.land.w2](../bbugyi200.athena.sase-8v.land.w2/README.md) | sase-8v hood | dismissed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-7p](../../users/bbugyi200/machines/athena/hoods/sase-7p/README.md) / sase-7p.land
 
-**Global name:** `bbugyi200.athena.sase-7p.land` · **State:** active · **Source run:** `run-60025bd2ab1ec00ebf7404933cbf9165`
+**Global name:** `bbugyi200.athena.sase-7p.land` · **State:** dismissed · **Source run:** `run-60025bd2ab1ec00ebf7404933cbf9165`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-7p
 
@@ -11,12 +11,12 @@
 - Bead: [sase-7p](https://github.com/sase-org/sase--beads/blob/main/pages/sase-7p/README.md)
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 2026-07-19T22:42:54.912614+00:00
+- Timing: 2026-07-19T18:42:54.912614 → 2026-07-19T19:03:49.312396
 - Commits: [2](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -30,7 +30,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-7p.1](../bbugyi200.athena.sase-7p.1/README.md) | sase-7p hood | active |
-| [sase-7p.2](../bbugyi200.athena.sase-7p.2/README.md) | sase-7p hood | active |
-| [sase-7p.3](../bbugyi200.athena.sase-7p.3/README.md) | sase-7p hood | active |
-| [sase-7p.4](../bbugyi200.athena.sase-7p.4/README.md) | sase-7p hood | active |
-| [sase-7p.5](../bbugyi200.athena.sase-7p.5/README.md) | sase-7p hood | active |
+| [sase-7p.2](../bbugyi200.athena.sase-7p.2/README.md) | sase-7p hood | dismissed |
+| [sase-7p.3](../bbugyi200.athena.sase-7p.3/README.md) | sase-7p hood | dismissed |
+| [sase-7p.4](../bbugyi200.athena.sase-7p.4/README.md) | sase-7p hood | dismissed |
+| [sase-7p.5](../bbugyi200.athena.sase-7p.5/README.md) | sase-7p hood | dismissed |

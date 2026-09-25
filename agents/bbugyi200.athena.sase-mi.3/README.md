@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-mi](../../users/bbugyi200/machines/athena/hoods/sase-mi/README.md) / sase-mi.3
 
-**Global name:** `bbugyi200.athena.sase-mi.3` · **State:** completed · **Source run:** `run-05a66aac0aa9c2bdfd24b364ccca5c79`
+**Global name:** `bbugyi200.athena.sase-mi.3` · **State:** active · **Source run:** `run-05a66aac0aa9c2bdfd24b364ccca5c79`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-mi
 
@@ -17,7 +17,7 @@
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Prompt](prompt.md)
 
 ## Commits
 
@@ -29,10 +29,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-mi.1](../bbugyi200.athena.sase-mi.1/README.md) | sase-mi hood | completed |
-| [sase-mi.2](../bbugyi200.athena.sase-mi.2/README.md) | sase-mi hood | completed |
-| [sase-mi.4](../bbugyi200.athena.sase-mi.4/README.md) | sase-mi hood | completed |
-| [sase-mi.5](../bbugyi200.athena.sase-mi.5/README.md) | sase-mi hood | completed |
-| [sase-mi.6](../bbugyi200.athena.sase-mi.6/README.md) | sase-mi hood | completed |
-| [sase-mi.7](../bbugyi200.athena.sase-mi.7/README.md) | sase-mi hood | completed |
+| [sase-mi.1](../bbugyi200.athena.sase-mi.1/README.md) | sase-mi hood | active |
+| [sase-mi.2](../bbugyi200.athena.sase-mi.2/README.md) | sase-mi hood | active |
+| [sase-mi.4](../bbugyi200.athena.sase-mi.4/README.md) | sase-mi hood | active |
+| [sase-mi.5](../bbugyi200.athena.sase-mi.5/README.md) | sase-mi hood | active |
+| [sase-mi.6](../bbugyi200.athena.sase-mi.6/README.md) | sase-mi hood | active |
+| [sase-mi.7](../bbugyi200.athena.sase-mi.7/README.md) | sase-mi hood | active |
 | [sase-mi.land](../bbugyi200.athena.sase-mi.land/README.md) | sase-mi hood | active |

@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [g0.f0](../bbugyi200.athena.g0.f0/README.md) | descendant | active |
+| [g0.f0](../bbugyi200.athena.g0.f0/README.md) | descendant | dismissed |

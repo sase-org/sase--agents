@@ -21,8 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5x](../bbugyi200.athena.sase-5x/README.md) | ancestor | active |
-| [sase-5x.1](../bbugyi200.athena.sase-5x.1/README.md) | sase-5x hood | active |
-| [sase-5x.2](../bbugyi200.athena.sase-5x.2/README.md) | sase-5x hood | active |
-| [sase-5x.3](../bbugyi200.athena.sase-5x.3/README.md) | sase-5x hood | active |
-| [sase-5x.4](../bbugyi200.athena.sase-5x.4/README.md) | sase-5x hood | active |
+| [sase-5x](../bbugyi200.athena.sase-5x/README.md) | ancestor | dismissed |
+| [sase-5x.1](../bbugyi200.athena.sase-5x.1/README.md) | sase-5x hood | dismissed |
+| [sase-5x.2](../bbugyi200.athena.sase-5x.2/README.md) | sase-5x hood | dismissed |
+| [sase-5x.3](../bbugyi200.athena.sase-5x.3/README.md) | sase-5x hood | dismissed |
+| [sase-5x.4](../bbugyi200.athena.sase-5x.4/README.md) | sase-5x hood | dismissed |

@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 0cr--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0cr__plan-260824_135429.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0cr__code-260824_135429.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/finalizer_sealed_config.md
 
 

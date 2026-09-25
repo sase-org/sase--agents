@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-9t](../../users/bbugyi200/machines/athena/hoods/sase-9t/README.md) / sase-9t.land.w0
 
-**Global name:** `bbugyi200.athena.sase-9t.land.w0` · **State:** active · **Source run:** `run-043bdf539336412c4a48ea56234f720b`
+**Global name:** `bbugyi200.athena.sase-9t.land.w0` · **State:** dismissed · **Source run:** `run-043bdf539336412c4a48ea56234f720b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-9t
 
@@ -10,12 +10,8 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-07-26T17:37:08.829649+00:00
+- Timing: 2026-07-26T13:37:08.829649 → 2026-07-26T13:59:54.898349
 - Commits: 0
-
-## Files
-
-[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 

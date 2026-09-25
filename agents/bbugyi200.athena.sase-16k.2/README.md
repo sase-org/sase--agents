@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-16k](../../users/bbugyi200/machines/athena/hoods/sase-16k/README.md) / sase-16k.2
 
-**Global name:** `bbugyi200.athena.sase-16k.2` · **State:** completed · **Source run:** `run-0aeb928f796fbea4e6bfa7dd8daad2b5`
+**Global name:** `bbugyi200.athena.sase-16k.2` · **State:** active · **Source run:** `run-0aeb928f796fbea4e6bfa7dd8daad2b5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-16k
 
@@ -12,7 +12,7 @@
 - Epic: [sase-16k](https://github.com/sase-org/sase--beads/blob/main/pages/sase-16k/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-22T17:55:38.760066+00:00 → 2026-09-22T18:44:01.520697+00:00
+- Timing: 2026-09-22T17:55:38.760066+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -29,6 +29,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-16k.1](../bbugyi200.athena.sase-16k.1/README.md) | sase-16k hood | completed |
-| [sase-16k.3](../bbugyi200.athena.sase-16k.3/README.md) | sase-16k hood | completed |
+| [sase-16k.1](../bbugyi200.athena.sase-16k.1/README.md) | sase-16k hood | active |
+| [sase-16k.3](../bbugyi200.athena.sase-16k.3/README.md) | sase-16k hood | active |
 | [sase-16k.land](../bbugyi200.athena.sase-16k.land/README.md) | sase-16k hood | active |

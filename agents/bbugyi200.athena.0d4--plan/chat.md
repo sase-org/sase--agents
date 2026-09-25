@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 0d4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0d4__plan-260824_185415.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0d4__code-260824_185415.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/clan_lowest_lane_runtime.md
 
 

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #coder:~/.sase/plans/202608/provider_qualified_model_completion.md %m:@smart

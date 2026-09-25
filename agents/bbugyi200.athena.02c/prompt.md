@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me rename the `research_a`/`research_b` model aliases (defined in the sase-research-artifacts repo) to `codex`/`claude` respectively? #plan

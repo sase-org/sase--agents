@@ -19,9 +19,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-5q.1](../../families/bbugyi200.athena.sase-5q.1.md) (family · 2) | descendant | active 1, completed 1 |
-| [sase-5q.2](../bbugyi200.athena.sase-5q.2/README.md) | descendant | active |
-| [sase-5q.3](../bbugyi200.athena.sase-5q.3/README.md) | descendant | active |
-| [sase-5q.4](../bbugyi200.athena.sase-5q.4/README.md) | descendant | active |
-| [sase-5q.5](../bbugyi200.athena.sase-5q.5/README.md) | descendant | active |
+| [sase-5q.2](../bbugyi200.athena.sase-5q.2/README.md) | descendant | dismissed |
+| [sase-5q.3](../bbugyi200.athena.sase-5q.3/README.md) | descendant | dismissed |
+| [sase-5q.4](../bbugyi200.athena.sase-5q.4/README.md) | descendant | dismissed |
+| [sase-5q.5](../bbugyi200.athena.sase-5q.5/README.md) | descendant | dismissed |
 | [sase-5q.6](../../families/bbugyi200.athena.sase-5q.6.md) (family · 2) | descendant | active 1, completed 1 |
-| [sase-5q.7](../bbugyi200.athena.sase-5q.7/README.md) | descendant | active |
+| [sase-5q.7](../bbugyi200.athena.sase-5q.7/README.md) | descendant | dismissed |

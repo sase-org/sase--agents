@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [vq.f0](../../families/bbugyi200.athena.vq.f0.md) (family · 2) | descendant | completed 1, dismissed 1 |
-| [vq.f1](../../families/bbugyi200.athena.vq.f1.md) (family · 2) | descendant | completed 1, dismissed 1 |
+| [vq.f0](../../families/bbugyi200.athena.vq.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [vq.f1](../../families/bbugyi200.athena.vq.f1.md) (family · 2) | descendant | active 1, completed 1 |

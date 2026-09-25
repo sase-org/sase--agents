@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789336458,"sha":"52c80c9528020841304775584757d7b6d73d034e","subject":"fix(retention): degrade to continuation_unavailable instead of crashing when continuation retention planning fails"}],"schema_version":2,"source_run_id":"run-08d12114edecd74846b19c5febe7f5ae"}

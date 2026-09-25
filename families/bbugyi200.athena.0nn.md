@@ -11,7 +11,7 @@ flowchart TD
   n0["0nn--mon [failed]"]
   n1["0nn--mon-1 [failed]"]
   n0 --> n1
-  n2["0nn--plan [completed]"]
+  n2["0nn--plan [active]"]
   n0 --> n2
   n3["0nn--1 [completed]"]
   n0 --> n3
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | 0nn--mon | failed | grok-4.6 / grok | 2026-09-19T12:20:22.009476+00:00 → 2026-09-19T12:30:08.945594+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0nn--mon/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | 0nn--mon-1 | failed | grok-4.6 / grok | 2026-09-19T13:52:27.518865+00:00 → 2026-09-19T14:17:47.690987+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0nn--mon-1/chat.md) |
-| <a id="member-plan"></a>plan | 0nn--plan | completed | grok-4.6 / grok | 2026-09-19T11:30:57.599257+00:00 → 2026-09-19T11:45:51.987618+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0nn--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0nn--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0nn--plan | active | grok-4.6 / grok | 2026-09-19T11:30:57.599257+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0nn--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0nn--plan/chat.md) |
 | <a id="member-1"></a>1 | 0nn--1 | completed | grok-4.6 / grok | 2026-09-19T12:41:31.106443+00:00 → 2026-09-19T12:51:30.292744+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0nn--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0nn--1/chat.md) |
 | <a id="member-3"></a>3 | 0nn--3 | completed | grok-4.6 / grok | 2026-09-19T14:29:39.249544+00:00 → 2026-09-19T14:47:29.392669+00:00 | [1](../agents/bbugyi200.athena.0nn--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0nn--3/prompt.md) | [Chat](../agents/bbugyi200.athena.0nn--3/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 0nn--mon-0 | failed | grok-4.6 / grok | 2026-09-19T12:50:55.267497+00:00 → 2026-09-19T13:30:48.373777+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0nn--mon-0/chat.md) |

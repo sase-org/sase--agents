@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Is the plan described by the glossary_nav_terms.md file in the plans sidecar repo done? If not, can you make the necessary changes? %m:@medium %q(10, w=0.1)

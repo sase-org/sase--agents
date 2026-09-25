@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-4p.driver.0](../bbugyi200.athena.toobig-4p.driver.0/README.md) | toobig-4p hood | completed |
+| [toobig-4p.driver.0](../bbugyi200.athena.toobig-4p.driver.0/README.md) | toobig-4p hood | active |

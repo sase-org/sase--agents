@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase We recently fixed the ability to kill and edit a sase agent from the agents tab using the `,x` keymap. This fix worked and needs to be preserved but as an effect we've seemed to have added a noticable delay between when the agent is dismissed/killed and when thet agent's prompt is loaded in the prompt input widget. Can you help me fix this (the prompt should load into the prompt input widget as quickly as possible while maintaining reliability)?
+
+#plan

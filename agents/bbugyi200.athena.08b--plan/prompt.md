@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add a new optional `priority` input arg to the `#research_swarm` xprompt swarm that controls the value that is passed to the `%wait` directive's priority kwarg (this input arg should default to a 20 and should replace the hard-coded `20` that currently exists)? #plan %m:grok-4.6

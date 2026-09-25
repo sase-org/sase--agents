@@ -27,6 +27,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-t.split\_file.src.sase.agents\_sync.inventory.a0dcb781](../bbugyi200.athena.toobig-t.split_file.src.sase.agents_sync.inventory.a0dcb781/README.md) | toobig-t.split\_file.src.sase.agents\_sync hood | active |
-| [toobig-t.split\_file.src.sase.agents\_sync.v2\_importer.97f622fe](../bbugyi200.athena.toobig-t.split_file.src.sase.agents_sync.v2_importer.97f622fe/README.md) | toobig-t.split\_file.src.sase.agents\_sync hood | active |
-| [toobig-t.split\_file.tests.test\_models\_panel\_edit.b323a358](../bbugyi200.athena.toobig-t.split_file.tests.test_models_panel_edit.b323a358/README.md) | toobig-t.split\_file hood | active |
+| [toobig-t.split\_file.src.sase.agents\_sync.inventory.a0dcb781](../bbugyi200.athena.toobig-t.split_file.src.sase.agents_sync.inventory.a0dcb781/README.md) | toobig-t.split\_file.src.sase.agents\_sync hood | dismissed |
+| [toobig-t.split\_file.src.sase.agents\_sync.v2\_importer.97f622fe](../bbugyi200.athena.toobig-t.split_file.src.sase.agents_sync.v2_importer.97f622fe/README.md) | toobig-t.split\_file.src.sase.agents\_sync hood | dismissed |
+| [toobig-t.split\_file.tests.test\_models\_panel\_edit.b323a358](../bbugyi200.athena.toobig-t.split_file.tests.test_models_panel_edit.b323a358/README.md) | toobig-t.split\_file hood | dismissed |

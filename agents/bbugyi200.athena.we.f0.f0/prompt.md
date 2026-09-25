@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:we.f0 Can you now help me move the `glossary` sase config field under a new `memory` field (i.e. move the field to `memory.glossary`)? Also, let's move the `amd_h1_title` field to `memory.h1_title`. #plan #m_opus

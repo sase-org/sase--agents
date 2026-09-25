@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Something is wrong with the `sase bead work` command's `-c|--capacity` option (see the command output below for context). Can you help me diagnose the root cause of this issue and fix it? #plan %m:opus

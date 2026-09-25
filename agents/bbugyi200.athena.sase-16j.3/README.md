@@ -17,7 +17,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,6 +29,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-16j.1](../bbugyi200.athena.sase-16j.1/README.md) | sase-16j hood | completed |
-| [sase-16j.2](../../families/bbugyi200.athena.sase-16j.2.md) (family · 3) | sase-16j hood | completed 2, failed 1 |
-| [sase-16j.land](../bbugyi200.athena.sase-16j.land/README.md) | sase-16j hood | waiting |
+| [sase-16j.1](../bbugyi200.athena.sase-16j.1/README.md) | sase-16j hood | active |
+| [sase-16j.2](../../families/bbugyi200.athena.sase-16j.2.md) (family · 3) | sase-16j hood | active 3 |
+| [sase-16j.land](../bbugyi200.athena.sase-16j.land/README.md) | sase-16j hood | active |

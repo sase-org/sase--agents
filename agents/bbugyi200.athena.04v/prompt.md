@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Does the `sase bead update` command's `-a|--assignee` option allow the user to specify no argument or some sentinal value to indicate that the assignee field (if set currently) should be cleared? #if_not_plan

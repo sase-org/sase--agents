@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Is the `bob-cli-1h.f0` sase agent hanging (i.e. not making progress anymore)? #if_so_plan %m:claude-fable-5

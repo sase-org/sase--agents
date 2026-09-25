@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1733a41e79814020fde807477008c423"}
+{"commits":[{"committed_at":1787022945,"sha":"ad01e3c60647c962db7a4f1f4df8dd2453cbd5e1","subject":"feat(tui): open glossary panel from prompt gG and Ctrl+G G"}],"schema_version":2,"source_run_id":"run-1733a41e79814020fde807477008c423"}

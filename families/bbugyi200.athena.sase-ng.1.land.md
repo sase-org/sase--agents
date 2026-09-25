@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-ng.1.land--1 [completed]"]
   n1["sase-ng.1.land--mon [failed]"]
   n0 --> n1
-  n2["sase-ng.1.land--plan [completed]"]
+  n2["sase-ng.1.land--plan [active]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | sase-ng.1.land--1 | completed | opus / claude | 2026-08-17T23:25:23.987548+00:00 | [1](../agents/bbugyi200.athena.sase-ng.1.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-ng.1.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ng.1.land--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-ng.1.land--mon | failed | opus / claude | 2026-08-17T23:01:59.371271+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ng.1.land--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-ng.1.land--plan | completed | opus / claude | 2026-08-17T22:43:24.485726+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ng.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ng.1.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-ng.1.land--plan | active | opus / claude | 2026-08-17T22:43:24.485726+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ng.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ng.1.land--plan/chat.md) |
 
 ## Commits
 
@@ -33,10 +33,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ng](bbugyi200.athena.sase-ng.md) (family · 2) | ancestor | failed 2 |
-| [sase-ng.1.1](bbugyi200.athena.sase-ng.1.1.md) (family · 3) | sase-ng.1 hood | completed 2, failed 1 |
-| [sase-ng.1.2](../agents/bbugyi200.athena.sase-ng.1.2/README.md) | sase-ng.1 hood | completed |
-| [sase-ng.1.3](../agents/bbugyi200.athena.sase-ng.1.3/README.md) | sase-ng.1 hood | completed |
-| [sase-ng.1.4](../agents/bbugyi200.athena.sase-ng.1.4/README.md) | sase-ng.1 hood | completed |
-| [sase-ng.1.5](bbugyi200.athena.sase-ng.1.5.md) (family · 3) | sase-ng.1 hood | completed 2, failed 1 |
-| [sase-ng.1.6](bbugyi200.athena.sase-ng.1.6.md) (family · 3) | sase-ng.1 hood | completed 2, failed 1 |
+| [sase-ng](bbugyi200.athena.sase-ng.md) (family · 2) | ancestor | active 1, failed 1 |
+| [sase-ng.1.1](bbugyi200.athena.sase-ng.1.1.md) (family · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
+| [sase-ng.1.2](../agents/bbugyi200.athena.sase-ng.1.2/README.md) | sase-ng.1 hood | active |
+| [sase-ng.1.3](../agents/bbugyi200.athena.sase-ng.1.3/README.md) | sase-ng.1 hood | active |
+| [sase-ng.1.4](../agents/bbugyi200.athena.sase-ng.1.4/README.md) | sase-ng.1 hood | active |
+| [sase-ng.1.5](bbugyi200.athena.sase-ng.1.5.md) (family · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
+| [sase-ng.1.6](bbugyi200.athena.sase-ng.1.6.md) (family · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |

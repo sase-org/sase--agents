@@ -2,16 +2,20 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [09a](../../users/bbugyi200/machines/athena/hoods/09a/README.md) / 09a
 
-**Global name:** `bbugyi200.athena.09a` · **State:** completed · **Source run:** `run-812b4eed43ff33b07d5764e960827ece`
+**Global name:** `bbugyi200.athena.09a` · **State:** waiting · **Source run:** `run-27ba26954ef5c5553186f3052fc2a20d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 09a
 
 ## Summary
 
-- Model: —
-- Provider: —
-- Timing: 2026-06-28T19:27:19+00:00 → 2026-06-28T19:39:08+00:00
+- Model: opus
+- Provider: claude
+- Timing: 20260908124958
 - Commits: [2](#commits)
+
+## Files
+
+[Prompt](prompt.md)
 
 ## Commits
 

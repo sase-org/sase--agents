@@ -22,9 +22,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ti.1](../bbugyi200.athena.sase-ti.1/README.md) | sase-ti hood | completed |
-| [sase-ti.2](../bbugyi200.athena.sase-ti.2/README.md) | sase-ti hood | completed |
-| [sase-ti.3](../bbugyi200.athena.sase-ti.3/README.md) | sase-ti hood | completed |
-| [sase-ti.4](../bbugyi200.athena.sase-ti.4/README.md) | sase-ti hood | completed |
-| [sase-ti.6](../bbugyi200.athena.sase-ti.6/README.md) | sase-ti hood | waiting |
-| [sase-ti.land](../bbugyi200.athena.sase-ti.land/README.md) | sase-ti hood | waiting |
+| [sase-ti.1](../bbugyi200.athena.sase-ti.1/README.md) | sase-ti hood | active |
+| [sase-ti.2](../bbugyi200.athena.sase-ti.2/README.md) | sase-ti hood | active |
+| [sase-ti.3](../bbugyi200.athena.sase-ti.3/README.md) | sase-ti hood | active |
+| [sase-ti.4](../bbugyi200.athena.sase-ti.4/README.md) | sase-ti hood | active |
+| [sase-ti.6](../../families/bbugyi200.athena.sase-ti.6.md) (family · 1) | sase-ti hood | dismissed 1 |
+| [sase-ti.6](../bbugyi200.athena.sase-ti.6/README.md) | sase-ti hood | active |
+| [sase-ti.land](../bbugyi200.athena.sase-ti.land/README.md) | sase-ti hood | active |

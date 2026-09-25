@@ -11,7 +11,7 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-06T18:23:14.447796+00:00
-- Commits: [2](#commits)
+- Commits: [1](#commits)
 
 ## Files
 
@@ -22,7 +22,6 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`1468728`](https://github.com/sase-org/sase/commit/1468728b44435d4c401c1f25cf8fabc1dfb56da2) | chore: Add SDD prompt and plan for eradicate\_raw\_project\_keys | 2026-07-06 14:44:17 EDT |
-| sase | [`4cce6a4`](https://github.com/sase-org/sase/commit/4cce6a46b099256a59048bae1539a13efc988063) | fix: humanize project-prefixed ChangeSpec names | 2026-07-06 15:21:44 EDT |
 
 ## Neighbors
 

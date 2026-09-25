@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-ll` · Members: 2 · Bead: [sase-ll](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-ll--code [active]"]
+  n0["sase-ll--code [completed]"]
   n1["sase-ll--plan [active]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-ll--code | active | grok-4.6 / grok | 2026-08-15T19:35:47.618877+00:00 | [1](../agents/bbugyi200.athena.sase-ll--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | sase-ll--code | completed | grok-4.6 / grok | 2026-08-15T19:35:47.618877+00:00 | [1](../agents/bbugyi200.athena.sase-ll--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-ll--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-ll--plan | active | gpt-5.6-sol / codex | 2026-08-15T19:30:41.522148+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ll--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ll--plan/chat.md) |
 
 ## Commits

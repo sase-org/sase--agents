@@ -8,12 +8,12 @@ Owner: `bbugyi200.athena` · Hood: `0dr` · Members: 4
 
 ```mermaid
 flowchart TD
-  n0["0dr.w0--plan [completed]"]
+  n0["0dr.w0--plan [active]"]
   n1["0dr.w0--mon [failed]"]
   n0 --> n1
   n2["0dr.w0--code [completed]"]
   n0 --> n2
-  n3["0dr.w0--1 [active]"]
+  n3["0dr.w0--1 [completed]"]
   n0 --> n3
 ```
 
@@ -21,10 +21,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0dr.w0--plan | completed | gpt-5.6-sol / codex | 2026-08-25T19:19:47.256247+00:00 → 2026-08-25T19:36:10.337633+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0dr.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0dr.w0--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0dr.w0--plan | active | gpt-5.6-sol / codex | 2026-08-25T19:19:47.256247+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0dr.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0dr.w0--plan/chat.md) |
 | <a id="member-mon"></a>mon | 0dr.w0--mon | failed | sonnet / claude | 2026-08-25T19:35:55.205009+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0dr.w0--mon/chat.md) |
 | <a id="member-code"></a>code | 0dr.w0--code | completed | sonnet / claude | 2026-08-25T19:24:12.592211+00:00 → 2026-08-25T19:36:10.337633+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0dr.w0--code/chat.md) |
-| <a id="member-1"></a>1 | 0dr.w0--1 | active | sonnet / claude | 2026-08-25T19:39:13.681449+00:00 | [1](../agents/bbugyi200.athena.0dr.w0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0dr.w0--1/prompt.md) | — |
+| <a id="member-1"></a>1 | 0dr.w0--1 | completed | sonnet / claude | 2026-08-25T19:39:13.681449+00:00 → 2026-08-25T19:44:42.836427+00:00 | [1](../agents/bbugyi200.athena.0dr.w0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0dr.w0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0dr.w0--1/chat.md) |
 
 ## Commits
 
@@ -36,4 +36,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [0dr](bbugyi200.athena.0dr.md) (family · 2) | ancestor | completed 2 |
+| [0dr](bbugyi200.athena.0dr.md) (family · 2) | ancestor | active 1, completed 1 |

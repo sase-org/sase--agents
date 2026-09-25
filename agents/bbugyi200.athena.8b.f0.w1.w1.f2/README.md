@@ -27,6 +27,6 @@
 | [8b](../../families/bbugyi200.athena.8b.md) (family · 2) | ancestor | active 1, completed 1 |
 | [8b.f0.w1.w1.f0](../bbugyi200.athena.8b.f0.w1.w1.f0/README.md) | 8b.f0.w1.w1 hood | active |
 | [8b.f0.w1.w1.f1](../bbugyi200.athena.8b.f0.w1.w1.f1/README.md) | 8b.f0.w1.w1 hood | active |
-| [8b.f0.w1.w0](../bbugyi200.athena.8b.f0.w1.w0/README.md) | 8b.f0.w1 hood | active |
-| [8b.f0.w0](../bbugyi200.athena.8b.f0.w0/README.md) | 8b.f0 hood | active |
+| [8b.f0.w1.w0](../bbugyi200.athena.8b.f0.w1.w0/README.md) | 8b.f0.w1 hood | dismissed |
+| [8b.f0.w0](../bbugyi200.athena.8b.f0.w0/README.md) | 8b.f0 hood | dismissed |
 | [8b.cld](../bbugyi200.athena.8b.cld/README.md) | 8b hood | completed |

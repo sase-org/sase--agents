@@ -13,25 +13,31 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-16T19:15:41.476851+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c05aa3a`](https://github.com/sase-org/sase/commit/c05aa3a94aff0944984756619e1a4c3846e271e6) | feat(tribes): resolve job alias before persistence | 2026-09-16 16:52:25 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-11e.8.6.5.4.2](../../families/bbugyi200.athena.sase-11e.8.6.5.4.2.md) (family · 3) | sase-11e.8.6.5.4 hood | completed 2, failed 1 |
+| [sase-11e.8.6.5.4.2](../../families/bbugyi200.athena.sase-11e.8.6.5.4.2.md) (family · 3) | sase-11e.8.6.5.4 hood | active 3 |
 | [sase-11e.8.6.5.4.3](../bbugyi200.athena.sase-11e.8.6.5.4.3/README.md) | sase-11e.8.6.5.4 hood | active |
-| [sase-11e.8.6.5.4.4](../bbugyi200.athena.sase-11e.8.6.5.4.4/README.md) | sase-11e.8.6.5.4 hood | completed |
-| [sase-11e.8.6.5.4.5](../bbugyi200.athena.sase-11e.8.6.5.4.5/README.md) | sase-11e.8.6.5.4 hood | waiting |
-| [sase-11e.8.6.5.4.land](../bbugyi200.athena.sase-11e.8.6.5.4.land/README.md) | sase-11e.8.6.5.4 hood | waiting |
-| [sase-11e.8.6.5.1](../bbugyi200.athena.sase-11e.8.6.5.1/README.md) | sase-11e.8.6.5 hood | completed |
-| [sase-11e.8.6.5.2](../bbugyi200.athena.sase-11e.8.6.5.2/README.md) | sase-11e.8.6.5 hood | completed |
-| [sase-11e.8.6.5.3](../bbugyi200.athena.sase-11e.8.6.5.3/README.md) | sase-11e.8.6.5 hood | completed |
-| [sase-11e.8.6.5.land](../../families/bbugyi200.athena.sase-11e.8.6.5.land.md) (family · 3) | sase-11e.8.6.5 hood | failed 3 |
+| [sase-11e.8.6.5.4.4](../bbugyi200.athena.sase-11e.8.6.5.4.4/README.md) | sase-11e.8.6.5.4 hood | active |
+| [sase-11e.8.6.5.4.5](../../families/bbugyi200.athena.sase-11e.8.6.5.4.5.md) (family · 3) | sase-11e.8.6.5.4 hood | active 3 |
+| [sase-11e.8.6.5.4.land](../../families/bbugyi200.athena.sase-11e.8.6.5.4.land.md) (family · 3) | sase-11e.8.6.5.4 hood | active 2, completed 1 |
+| [sase-11e.8.6.5.1](../bbugyi200.athena.sase-11e.8.6.5.1/README.md) | sase-11e.8.6.5 hood | active |
+| [sase-11e.8.6.5.2](../bbugyi200.athena.sase-11e.8.6.5.2/README.md) | sase-11e.8.6.5 hood | active |
+| [sase-11e.8.6.5.3](../bbugyi200.athena.sase-11e.8.6.5.3/README.md) | sase-11e.8.6.5 hood | active |
+| [sase-11e.8.6.5.land](../../families/bbugyi200.athena.sase-11e.8.6.5.land.md) (family · 3) | sase-11e.8.6.5 hood | active 3 |
 | [sase-11e.8.6.1](../bbugyi200.athena.sase-11e.8.6.1/README.md) | sase-11e.8.6 hood | active |
 | [sase-11e.8.6.2](../bbugyi200.athena.sase-11e.8.6.2/README.md) | sase-11e.8.6 hood | active |
 | [sase-11e.8.6.3](../bbugyi200.athena.sase-11e.8.6.3/README.md) | sase-11e.8.6 hood | active |

@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `04c` · Members: 2
 ```mermaid
 flowchart TD
   n0["04c--mon [failed]"]
-  n1["04c--plan [failed]"]
+  n1["04c--plan [active]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | 04c--mon | failed | opus / claude | 2026-08-16T21:11:04.787918+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.04c--mon/chat.md) |
-| <a id="member-plan"></a>plan | 04c--plan | failed | opus / claude | 2026-08-16T20:40:46.310754+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.04c--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.04c--plan/chat.md) |
+| <a id="member-plan"></a>plan | 04c--plan | active | opus / claude | 2026-08-16T20:40:46.310754+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.04c--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.04c--plan/chat.md) |
 
 ## Commits
 

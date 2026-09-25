@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `0dq` · Members: 2
 ```mermaid
 flowchart TD
   n0["0dq--code [completed]"]
-  n1["0dq--plan [completed]"]
+  n1["0dq--plan [active]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 0dq--code | completed | sonnet / claude | 2026-08-25T19:07:18.006953+00:00 → 2026-08-25T19:37:12.704869+00:00 | [1](../agents/bbugyi200.athena.0dq--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.0dq--code/chat.md) |
-| <a id="member-plan"></a>plan | 0dq--plan | completed | opus / claude | 2026-08-25T18:48:26.918214+00:00 → 2026-08-25T19:37:12.704869+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0dq--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0dq--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0dq--plan | active | opus / claude | 2026-08-25T18:48:26.918214+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0dq--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0dq--plan/chat.md) |
 
 ## Commits
 

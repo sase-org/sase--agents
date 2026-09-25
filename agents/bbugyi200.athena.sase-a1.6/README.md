@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-a1](../../users/bbugyi200/machines/athena/hoods/sase-a1/README.md) / sase-a1.6
 
-**Global name:** `bbugyi200.athena.sase-a1.6` · **State:** active · **Source run:** `run-19bf93b7fed80aaccef46c03454ee7d7`
+**Global name:** `bbugyi200.athena.sase-a1.6` · **State:** dismissed · **Source run:** `run-19bf93b7fed80aaccef46c03454ee7d7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-a1
 
@@ -11,12 +11,12 @@
 - Bead: [sase-a1.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-a1/sase-a1.6.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-07-27T19:19:07.762241+00:00
+- Timing: 2026-07-27T15:19:07.762241 → 2026-07-27T17:19:07.946686
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 

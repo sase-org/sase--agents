@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-yj](../../users/bbugyi200/machines/athena/hoods/sase-yj/README.md) / [sase-yj.land](../../families/bbugyi200.athena.sase-yj.land.md) / sase-yj.land--code
 
-**Global name:** `bbugyi200.athena.sase-yj.land--code` · **State:** active · **Source run:** `run-c202f90495fbdd9f713be720e337616a`
+**Global name:** `bbugyi200.athena.sase-yj.land--code` · **State:** completed · **Source run:** `run-c202f90495fbdd9f713be720e337616a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-yj
 
@@ -11,8 +11,12 @@
 - Bead: [sase-yj](https://github.com/sase-org/sase--beads/blob/main/pages/sase-yj/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-09T10:58:13.006242+00:00
+- Timing: 2026-09-09T10:58:13.006242+00:00 → 2026-09-09T12:56:00.105489+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
 
 ## Commits
 
@@ -24,7 +28,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-yj.1](../../families/bbugyi200.athena.sase-yj.1.md) (family · 3) | sase-yj hood | completed 2, failed 1 |
-| [sase-yj.2](../bbugyi200.athena.sase-yj.2/README.md) | sase-yj hood | completed |
-| [sase-yj.3](../bbugyi200.athena.sase-yj.3/README.md) | sase-yj hood | dismissed |
-| [sase-yj.4](../bbugyi200.athena.sase-yj.4/README.md) | sase-yj hood | completed |
+| [sase-yj.1](../../families/bbugyi200.athena.sase-yj.1.md) (family · 3) | sase-yj hood | active 3 |
+| [sase-yj.2](../bbugyi200.athena.sase-yj.2/README.md) | sase-yj hood | active |
+| [sase-yj.3](../bbugyi200.athena.sase-yj.3/README.md) | sase-yj hood | active |
+| [sase-yj.4](../bbugyi200.athena.sase-yj.4/README.md) | sase-yj hood | active |

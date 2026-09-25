@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0k](../../users/bbugyi200/machines/athena/hoods/0k/README.md) / 0k.f1
 
-**Global name:** `bbugyi200.athena.0k.f1` · **State:** active · **Source run:** `run-f0a6b7cfcd0a0fc7bd093c35d84d6c5a`
+**Global name:** `bbugyi200.athena.0k.f1` · **State:** dismissed · **Source run:** `run-f0a6b7cfcd0a0fc7bd093c35d84d6c5a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0k
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-07-07T16:22:31.410066+00:00
+- Timing: 2026-07-07T12:22:31.410066 → 2026-07-07T12:25:22.844653
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0k](../bbugyi200.athena.0k/README.md) | ancestor | active |
+| [0k](../bbugyi200.athena.0k/README.md) | ancestor | dismissed |

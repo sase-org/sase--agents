@@ -23,7 +23,7 @@ flowchart TD
   n0 --> n6
   n7["zv--2 [completed]"]
   n0 --> n7
-  n8["zv--plan [completed]"]
+  n8["zv--plan [active]"]
   n0 --> n8
   n9["zv--mon-2 [failed]"]
   n0 --> n9
@@ -41,7 +41,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-1"></a>1 | zv--1 | completed | sonnet / claude | 2026-08-13T19:37:19.027729+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.zv--1/prompt.md) | [Chat](../agents/bbugyi200.athena.zv--1/chat.md) |
 | <a id="member-code"></a>code | zv--code | completed | sonnet / claude | 2026-08-13T19:22:42.066247+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.zv--code/chat.md) |
 | <a id="member-2"></a>2 | zv--2 | completed | sonnet / claude | 2026-08-13T19:39:29.747971+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.zv--2/prompt.md) | [Chat](../agents/bbugyi200.athena.zv--2/chat.md) |
-| <a id="member-plan"></a>plan | zv--plan | completed | gpt-5.6-sol / codex | 2026-08-13T19:07:06.778290+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.zv--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.zv--plan/chat.md) |
+| <a id="member-plan"></a>plan | zv--plan | active | gpt-5.6-sol / codex | 2026-08-13T19:07:06.778290+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.zv--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.zv--plan/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | zv--mon-2 | failed | sonnet / claude | 2026-08-13T19:55:46.301519+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.zv--mon-2/chat.md) |
 
 ## Commits

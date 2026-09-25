@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [02z](../../users/bbugyi200/machines/athena/hoods/02z/README.md) / [02z](../../families/bbugyi200.athena.02z.md) / 02z--mon
 
-**Global name:** `bbugyi200.athena.02z--mon` · **State:** active · **Source run:** `run-7ba929cbc5f14b1e37de83646bca71c2`
+**Global name:** `bbugyi200.athena.02z--mon` · **State:** failed · **Source run:** `run-7ba929cbc5f14b1e37de83646bca71c2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 02z
 
@@ -12,6 +12,10 @@
 - Provider: codex
 - Timing: 2026-08-15T23:58:02.248567+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 

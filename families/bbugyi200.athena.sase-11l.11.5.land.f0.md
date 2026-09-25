@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-11l` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["sase-11l.11.5.land.f0--plan [completed]"]
-  n1["sase-11l.11.5.land.f0--code [active]"]
+  n0["sase-11l.11.5.land.f0--plan [active]"]
+  n1["sase-11l.11.5.land.f0--code [completed]"]
   n0 --> n1
   n2["sase-11l.11.5.land.f0--gate [failed]"]
   n0 --> n2
@@ -19,8 +19,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-11l.11.5.land.f0--plan | completed | grok-4.6 / grok | 2026-09-19T13:30:33.264965+00:00 → 2026-09-19T13:50:05.018755+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11l.11.5.land.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11l.11.5.land.f0--plan/chat.md) |
-| <a id="member-code"></a>code | sase-11l.11.5.land.f0--code | active | grok-4.6 / grok | 2026-09-19T14:02:47.030217+00:00 | [1](../agents/bbugyi200.athena.sase-11l.11.5.land.f0--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-11l.11.5.land.f0--code/prompt.md) | — |
+| <a id="member-plan"></a>plan | sase-11l.11.5.land.f0--plan | active | grok-4.6 / grok | 2026-09-19T13:30:33.264965+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11l.11.5.land.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11l.11.5.land.f0--plan/chat.md) |
+| <a id="member-code"></a>code | sase-11l.11.5.land.f0--code | completed | grok-4.6 / grok | 2026-09-19T14:02:47.030217+00:00 → 2026-09-19T14:26:37.514322+00:00 | [1](../agents/bbugyi200.athena.sase-11l.11.5.land.f0--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-11l.11.5.land.f0--code/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11l.11.5.land.f0--code/chat.md) |
 | <a id="member-gate"></a>gate | sase-11l.11.5.land.f0--gate | failed | grok-4.6 / grok | 2026-09-19T13:49:36.541559+00:00 → 2026-09-19T13:53:43.427424+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11l.11.5.land.f0--gate/chat.md) |
 
 ## Commits

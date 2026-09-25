@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0cz.f0](../bbugyi200.athena.0cz.f0/README.md) | descendant | waiting |
+| [0cz.f1](../../families/bbugyi200.athena.0cz.f1.md) (family · 2) | descendant | active 1, failed 1 |

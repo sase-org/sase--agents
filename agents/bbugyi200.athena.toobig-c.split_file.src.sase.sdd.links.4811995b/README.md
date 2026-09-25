@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-c.split\_file.src.sase.vcs\_log.resolve.0139a127](../bbugyi200.athena.toobig-c.split_file.src.sase.vcs_log.resolve.0139a127/README.md) | toobig-c.split\_file.src.sase hood | active |
-| [toobig-c.split\_file.tests.ace.tui.widgets.test\_agent\_display\_step\_me.19ac8a32](../bbugyi200.athena.toobig-c.split_file.tests.ace.tui.widgets.test_agent_display_step_me.19ac8a32/README.md) | toobig-c.split\_file hood | active |
+| [toobig-c.split\_file.src.sase.vcs\_log.resolve.0139a127](../bbugyi200.athena.toobig-c.split_file.src.sase.vcs_log.resolve.0139a127/README.md) | toobig-c.split\_file.src.sase hood | dismissed |
+| [toobig-c.split\_file.tests.ace.tui.widgets.test\_agent\_display\_step\_me.19ac8a32](../bbugyi200.athena.toobig-c.split_file.tests.ace.tui.widgets.test_agent_display_step_me.19ac8a32/README.md) | toobig-c.split\_file hood | dismissed |

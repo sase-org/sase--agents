@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-yj.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_yj_land__plan-260909_044129.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_yj_land__code-260909_044129.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/finish_queue_directive_landing.md
 
 

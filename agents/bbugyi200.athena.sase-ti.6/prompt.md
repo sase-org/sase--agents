@@ -1,5 +1,5 @@
-#gh:gh_sase-org__sase
 %id(6, clan=sase-ti, bead=sase-ti.6)
+#gh:gh_sase-org__sase
 %model:@medium
 %auto
 %w:sase-ti.2,sase-ti.3,sase-ti.4,sase-ti.5

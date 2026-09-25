@@ -25,7 +25,7 @@ flowchart TD
   n0 --> n7
   n8["sase-17x.13.9--plan [completed]"]
   n0 --> n8
-  n9["sase-17x.13.9--7 [active]"]
+  n9["sase-17x.13.9--7 [completed]"]
   n0 --> n9
   n10["sase-17x.13.9--mon-1 [failed]"]
   n0 --> n10
@@ -52,7 +52,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-4"></a>mon-4 | sase-17x.13.9--mon-4 | failed | gpt-5.6-terra / codex | 2026-09-25T07:49:01.365902+00:00 → 2026-09-25T07:50:47.528816+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-17x.13.9--mon-4/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-17x.13.9--mon-0 | failed | gpt-5.6-terra / codex | 2026-09-25T07:15:50.141403+00:00 → 2026-09-25T07:18:34.101805+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-17x.13.9--mon-0/chat.md) |
 | <a id="member-plan"></a>plan | sase-17x.13.9--plan | completed | gpt-5.6-terra / codex | 2026-09-25T06:37:07.937590+00:00 → 2026-09-25T07:05:37.255576+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-17x.13.9--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-17x.13.9--plan/chat.md) |
-| <a id="member-7"></a>7 | sase-17x.13.9--7 | active | gpt-5.6-terra / codex | 2026-09-25T07:59:45.062979+00:00 | [1](../agents/bbugyi200.athena.sase-17x.13.9--7/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-17x.13.9--7/prompt.md) | — |
+| <a id="member-7"></a>7 | sase-17x.13.9--7 | completed | gpt-5.6-terra / codex | 2026-09-25T07:59:45.062979+00:00 → 2026-09-25T08:07:16.397802+00:00 | [1](../agents/bbugyi200.athena.sase-17x.13.9--7/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-17x.13.9--7/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-17x.13.9--7/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-17x.13.9--mon-1 | failed | gpt-5.6-terra / codex | 2026-09-25T07:20:58.561975+00:00 → 2026-09-25T07:23:42.803540+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-17x.13.9--mon-1/chat.md) |
 | <a id="member-mon-5"></a>mon-5 | sase-17x.13.9--mon-5 | failed | gpt-5.6-terra / codex | 2026-09-25T07:54:07.860402+00:00 → 2026-09-25T07:59:38.514905+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-17x.13.9--mon-5/chat.md) |
 | <a id="member-5"></a>5 | sase-17x.13.9--5 | completed | gpt-5.6-terra / codex | 2026-09-25T07:47:17.284754+00:00 → 2026-09-25T07:49:25.248181+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-17x.13.9--5/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-17x.13.9--5/chat.md) |
@@ -69,7 +69,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-17x.13.1](../agents/bbugyi200.athena.sase-17x.13.1/README.md) | sase-17x.13 hood | failed |
+| [sase-17x.13.1](../agents/bbugyi200.athena.sase-17x.13.1/README.md) | sase-17x.13 hood | active |
+| [sase-17x.13.10.1](bbugyi200.athena.sase-17x.13.10.1.md) (family · 3) | sase-17x.13 hood | completed 2, failed 1 |
+| [sase-17x.13.10.2](bbugyi200.athena.sase-17x.13.10.2.md) (family · 3) | sase-17x.13 hood | completed 2, failed 1 |
+| [sase-17x.13.10.3](../agents/bbugyi200.athena.sase-17x.13.10.3/README.md) | sase-17x.13 hood | completed |
+| [sase-17x.13.10.4](../agents/bbugyi200.athena.sase-17x.13.10.4/README.md) | sase-17x.13 hood | active |
+| [sase-17x.13.10.5](bbugyi200.athena.sase-17x.13.10.5.md) (family · 3) | sase-17x.13 hood | completed 2, failed 1 |
+| [sase-17x.13.10.6](../agents/bbugyi200.athena.sase-17x.13.10.6/README.md) | sase-17x.13 hood | waiting |
+| [sase-17x.13.10.land](../agents/bbugyi200.athena.sase-17x.13.10.land/README.md) | sase-17x.13 hood | waiting |
 | [sase-17x.13.2](../agents/bbugyi200.athena.sase-17x.13.2/README.md) | sase-17x.13 hood | completed |
 | [sase-17x.13.3](bbugyi200.athena.sase-17x.13.3.md) (family · 5) | sase-17x.13 hood | completed 3, failed 2 |
 | [sase-17x.13.4](../agents/bbugyi200.athena.sase-17x.13.4/README.md) | sase-17x.13 hood | completed |
@@ -77,17 +84,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-17x.13.6](bbugyi200.athena.sase-17x.13.6.md) (family · 5) | sase-17x.13 hood | completed 3, failed 2 |
 | [sase-17x.13.7](../agents/bbugyi200.athena.sase-17x.13.7/README.md) | sase-17x.13 hood | completed |
 | [sase-17x.13.8](../agents/bbugyi200.athena.sase-17x.13.8/README.md) | sase-17x.13 hood | completed |
-| [sase-17x.13.land](../agents/bbugyi200.athena.sase-17x.13.land/README.md) | sase-17x.13 hood | waiting |
-| [sase-17x.1](../agents/bbugyi200.athena.sase-17x.1/README.md) | sase-17x hood | completed |
-| [sase-17x.10](bbugyi200.athena.sase-17x.10.md) (family · 3) | sase-17x hood | completed 2, failed 1 |
-| [sase-17x.11](../agents/bbugyi200.athena.sase-17x.11/README.md) | sase-17x hood | completed |
-| [sase-17x.12](../agents/bbugyi200.athena.sase-17x.12/README.md) | sase-17x hood | completed |
-| [sase-17x.2](../agents/bbugyi200.athena.sase-17x.2/README.md) | sase-17x hood | completed |
-| [sase-17x.3](../agents/bbugyi200.athena.sase-17x.3/README.md) | sase-17x hood | completed |
-| [sase-17x.4](../agents/bbugyi200.athena.sase-17x.4/README.md) | sase-17x hood | completed |
-| [sase-17x.5](bbugyi200.athena.sase-17x.5.md) (family · 3) | sase-17x hood | completed 2, failed 1 |
-| [sase-17x.6](../agents/bbugyi200.athena.sase-17x.6/README.md) | sase-17x hood | completed |
-| [sase-17x.7](../agents/bbugyi200.athena.sase-17x.7/README.md) | sase-17x hood | completed |
-| [sase-17x.8](../agents/bbugyi200.athena.sase-17x.8/README.md) | sase-17x hood | completed |
-| [sase-17x.9](../agents/bbugyi200.athena.sase-17x.9/README.md) | sase-17x hood | completed |
-| [sase-17x.land](bbugyi200.athena.sase-17x.land.md) (family · 3) | sase-17x hood | failed 3 |
+| [sase-17x.13.land](bbugyi200.athena.sase-17x.13.land.md) (family · 3) | sase-17x.13 hood | failed 3 |
+| [sase-17x.1](../agents/bbugyi200.athena.sase-17x.1/README.md) | sase-17x hood | active |
+| [sase-17x.10](bbugyi200.athena.sase-17x.10.md) (family · 3) | sase-17x hood | active 3 |
+| [sase-17x.11](../agents/bbugyi200.athena.sase-17x.11/README.md) | sase-17x hood | active |
+| [sase-17x.12](../agents/bbugyi200.athena.sase-17x.12/README.md) | sase-17x hood | active |
+| [sase-17x.2](../agents/bbugyi200.athena.sase-17x.2/README.md) | sase-17x hood | active |
+| [sase-17x.3](../agents/bbugyi200.athena.sase-17x.3/README.md) | sase-17x hood | active |
+| [sase-17x.4](../agents/bbugyi200.athena.sase-17x.4/README.md) | sase-17x hood | active |
+| [sase-17x.5](bbugyi200.athena.sase-17x.5.md) (family · 3) | sase-17x hood | active 2, completed 1 |
+| [sase-17x.6](../agents/bbugyi200.athena.sase-17x.6/README.md) | sase-17x hood | active |
+| [sase-17x.7](../agents/bbugyi200.athena.sase-17x.7/README.md) | sase-17x hood | active |
+| [sase-17x.8](../agents/bbugyi200.athena.sase-17x.8/README.md) | sase-17x hood | active |
+| [sase-17x.9](../agents/bbugyi200.athena.sase-17x.9/README.md) | sase-17x hood | active |
+| [sase-17x.land](bbugyi200.athena.sase-17x.land.md) (family · 3) | sase-17x hood | active 3 |

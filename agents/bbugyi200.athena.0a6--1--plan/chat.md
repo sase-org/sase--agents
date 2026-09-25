@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.5
 - **AGENT:** 0a6--1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0a6__1__plan-260821_210703.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0a6__1__code-260821_210703.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/fix_publish_release_metadata.md
 
 

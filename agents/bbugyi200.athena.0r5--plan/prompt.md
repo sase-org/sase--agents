@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me migrate the `<ctrl+e>` keymap's completion selection behavior in the prompt input widget to `<ctrl+f>` (so it doesn't conflict with the `<ctrl+e>` keymap's other behavior)? #plan %auto

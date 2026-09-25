@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-fa262e19a85a2330089568a172244343"}
+{"commits":[{"committed_at":1787747946,"sha":"3837e92201d02f9e002cacc3a35a5b7345571732","subject":"feat(tui): make word completion case-aware"}],"schema_version":2,"source_run_id":"run-fa262e19a85a2330089568a172244343"}

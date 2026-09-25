@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-135](../../users/bbugyi200/machines/athena/hoods/sase-135/README.md) / [sase-135.7](../../families/bbugyi200.athena.sase-135.7.md) / sase-135.7--1
 
-**Global name:** `bbugyi200.athena.sase-135.7--1` · **State:** completed · **Source run:** `run-d3d5fb9f6227e1b5d92144644406f6f2`
+**Global name:** `bbugyi200.athena.sase-135.7--1` · **State:** active · **Source run:** `run-d3d5fb9f6227e1b5d92144644406f6f2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-135
 
@@ -11,7 +11,7 @@
 - Bead: [sase-135.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-135/sase-135.7.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-20T14:25:20.016949+00:00 → 2026-09-20T14:42:07.527142+00:00
+- Timing: 2026-09-20T14:25:20.016949+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -28,10 +28,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-135.1](../../families/bbugyi200.athena.sase-135.1.md) (family · 9) | sase-135 hood | completed 5, failed 4 |
-| [sase-135.2](../bbugyi200.athena.sase-135.2/README.md) | sase-135 hood | completed |
-| [sase-135.3](../bbugyi200.athena.sase-135.3/README.md) | sase-135 hood | completed |
-| [sase-135.4](../bbugyi200.athena.sase-135.4/README.md) | sase-135 hood | completed |
-| [sase-135.5](../bbugyi200.athena.sase-135.5/README.md) | sase-135 hood | completed |
-| [sase-135.6](../bbugyi200.athena.sase-135.6/README.md) | sase-135 hood | completed |
+| [sase-135.1](../../families/bbugyi200.athena.sase-135.1.md) (family · 9) | sase-135 hood | active 5, failed 4 |
+| [sase-135.2](../bbugyi200.athena.sase-135.2/README.md) | sase-135 hood | active |
+| [sase-135.3](../bbugyi200.athena.sase-135.3/README.md) | sase-135 hood | active |
+| [sase-135.4](../bbugyi200.athena.sase-135.4/README.md) | sase-135 hood | active |
+| [sase-135.5](../bbugyi200.athena.sase-135.5/README.md) | sase-135 hood | active |
+| [sase-135.6](../bbugyi200.athena.sase-135.6/README.md) | sase-135 hood | active |
 | [sase-135.land](../bbugyi200.athena.sase-135.land/README.md) | sase-135 hood | active |

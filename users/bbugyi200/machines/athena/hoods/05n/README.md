@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 05n
 
-**Global hood:** `bbugyi200.athena.05n` · **Runs:** 6 · **Families:** 0 · **States:** completed 6
+**Global hood:** `bbugyi200.athena.05n` · **Runs:** 8 · **Families:** 1 · **States:** active 1, completed 6, failed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -10,5 +10,7 @@
 | [05n](../../../../../../agents/bbugyi200.athena.05n/README.md) | completed | — | 2026-06-24T19:10:34+00:00 → 2026-06-24T19:35:19+00:00 | 2 | — |
 | [05n.w1.w1.f1](../../../../../../agents/bbugyi200.athena.05n.w1.w1.f1/README.md) | completed | — | 2026-06-24T20:58:22+00:00 → 2026-06-24T21:25:38+00:00 | 2 | — |
 | [05n.w1](../../../../../../agents/bbugyi200.athena.05n.w1/README.md) | completed | — | 2026-06-24T19:49:45+00:00 → 2026-06-24T20:10:40+00:00 | 2 | — |
+| [05n--plan](../../../../../../families/bbugyi200.athena.05n.md#member-plan) | active | claude-fable-5 / claude | 2026-09-07T21:06:43.411540+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.05n--plan/prompt.md) |
 | [05n.w1.f1](../../../../../../agents/bbugyi200.athena.05n.w1.f1/README.md) | completed | — | 2026-06-24T20:27:32+00:00 → 2026-06-24T20:48:03+00:00 | 2 | — |
+| [05n--gate](../../../../../../families/bbugyi200.athena.05n.md#member-gate) | failed | claude-fable-5 / claude | 2026-09-07T21:27:53.298161+00:00 → 2026-09-07T21:27:55.007928+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.05n--gate/chat.md) |
 | [05n.w1.w1](../../../../../../agents/bbugyi200.athena.05n.w1.w1/README.md) | completed | — | 2026-06-24T20:21:44+00:00 → 2026-06-24T20:45:49+00:00 | 2 | — |

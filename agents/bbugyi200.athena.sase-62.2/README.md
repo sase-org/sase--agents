@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-62](../../users/bbugyi200/machines/athena/hoods/sase-62/README.md) / sase-62.2
 
-**Global name:** `bbugyi200.athena.sase-62.2` · **State:** active · **Source run:** `run-d383246b09e82161e35b7fb1375cf568`
+**Global name:** `bbugyi200.athena.sase-62.2` · **State:** dismissed · **Source run:** `run-d383246b09e82161e35b7fb1375cf568`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-62
 
@@ -11,12 +11,12 @@
 - Bead: [sase-62.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-62/sase-62.2.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-15T12:28:53.021347+00:00
+- Timing: 2026-07-15T08:28:53.021347 → 2026-07-15T08:53:18.812897
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -28,9 +28,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-62](../bbugyi200.athena.sase-62/README.md) | ancestor | active |
-| [sase-62.1](../bbugyi200.athena.sase-62.1/README.md) | sase-62 hood | active |
-| [sase-62.3](../bbugyi200.athena.sase-62.3/README.md) | sase-62 hood | active |
-| [sase-62.3.f0](../bbugyi200.athena.sase-62.3.f0/README.md) | sase-62 hood | active |
-| [sase-62.3.f1](../bbugyi200.athena.sase-62.3.f1/README.md) | sase-62 hood | active |
+| [sase-62](../bbugyi200.athena.sase-62/README.md) | ancestor | dismissed |
+| [sase-62.1](../bbugyi200.athena.sase-62.1/README.md) | sase-62 hood | dismissed |
+| [sase-62.3](../bbugyi200.athena.sase-62.3/README.md) | sase-62 hood | dismissed |
+| [sase-62.3.f0](../bbugyi200.athena.sase-62.3.f0/README.md) | sase-62 hood | dismissed |
+| [sase-62.3.f1](../bbugyi200.athena.sase-62.3.f1/README.md) | sase-62 hood | dismissed |
 | [sase-62.3.f2](../../families/bbugyi200.athena.sase-62.3.f2.md) (family · 2) | sase-62 hood | active 2 |

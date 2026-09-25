@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 099--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-099__plan-260821_090624.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-099__code-260821_090624.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/retire_artifact_links.md
 
 

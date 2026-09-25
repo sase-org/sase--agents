@@ -9,11 +9,11 @@ Owner: `bbugyi200.athena` · Hood: `0pn` · Members: 5
 ```mermaid
 flowchart TD
   n0["0pn--gate [failed]"]
-  n1["0pn--plan [completed]"]
+  n1["0pn--plan [active]"]
   n0 --> n1
   n2["0pn--mon [failed]"]
   n0 --> n2
-  n3["0pn--1 [active]"]
+  n3["0pn--1 [completed]"]
   n0 --> n3
   n4["0pn--code [completed]"]
   n0 --> n4
@@ -24,9 +24,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 0pn--gate | failed | opus / claude | 2026-09-23T11:00:11.887111+00:00 → 2026-09-23T11:00:54.758784+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0pn--gate/chat.md) |
-| <a id="member-plan"></a>plan | 0pn--plan | completed | opus / claude | 2026-09-23T03:52:52.316275+00:00 → 2026-09-23T06:10:56.563068+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0pn--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0pn--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0pn--plan | active | opus / claude | 2026-09-23T03:52:52.316275+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0pn--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0pn--plan/chat.md) |
 | <a id="member-mon"></a>mon | 0pn--mon | failed | muse-spark-1.3-contributor / muse | 2026-09-23T11:22:04.401547+00:00 → 2026-09-23T11:42:08.458523+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0pn--mon/chat.md) |
-| <a id="member-1"></a>1 | 0pn--1 | active | muse-spark-1.3-contributor / muse | 2026-09-23T11:42:32.659718+00:00 | [1](../agents/bbugyi200.athena.0pn--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0pn--1/prompt.md) | — |
+| <a id="member-1"></a>1 | 0pn--1 | completed | muse-spark-1.3-contributor / muse | 2026-09-23T11:42:32.659718+00:00 → 2026-09-23T11:47:32.318779+00:00 | [1](../agents/bbugyi200.athena.0pn--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0pn--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0pn--1/chat.md) |
 | <a id="member-code"></a>code | 0pn--code | completed | muse-spark-1.3-contributor / muse | 2026-09-23T11:01:17.983463+00:00 → 2026-09-23T11:22:31.001518+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0pn--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0pn--code/chat.md) |
 
 ## Commits

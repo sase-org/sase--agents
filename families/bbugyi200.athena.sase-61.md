@@ -30,9 +30,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-61.1](../agents/bbugyi200.athena.sase-61.1/README.md) | descendant | active |
-| [sase-61.2](../agents/bbugyi200.athena.sase-61.2/README.md) | descendant | active |
-| [sase-61.3](../agents/bbugyi200.athena.sase-61.3/README.md) | descendant | active |
-| [sase-61.4](../agents/bbugyi200.athena.sase-61.4/README.md) | descendant | active |
-| [sase-61.5](../agents/bbugyi200.athena.sase-61.5/README.md) | descendant | active |
-| [sase-61.6](../agents/bbugyi200.athena.sase-61.6/README.md) | descendant | active |
+| [sase-61.1](../agents/bbugyi200.athena.sase-61.1/README.md) | descendant | dismissed |
+| [sase-61.2](../agents/bbugyi200.athena.sase-61.2/README.md) | descendant | dismissed |
+| [sase-61.3](../agents/bbugyi200.athena.sase-61.3/README.md) | descendant | dismissed |
+| [sase-61.4](../agents/bbugyi200.athena.sase-61.4/README.md) | descendant | dismissed |
+| [sase-61.5](../agents/bbugyi200.athena.sase-61.5/README.md) | descendant | dismissed |
+| [sase-61.6](../agents/bbugyi200.athena.sase-61.6/README.md) | descendant | dismissed |

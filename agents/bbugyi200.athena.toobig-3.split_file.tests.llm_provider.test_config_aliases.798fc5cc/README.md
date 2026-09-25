@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-3](../../users/bbugyi200/machines/athena/hoods/toobig-3/README.md) / toobig-3.split\_file.tests.llm\_provider.test\_config\_aliases.798fc5cc
 
-**Global name:** `bbugyi200.athena.toobig-3.split_file.tests.llm_provider.test_config_aliases.798fc5cc` · **State:** active · **Source run:** `run-975eb261ecc2fe07f3dd6b6fe96e5475`
+**Global name:** `bbugyi200.athena.toobig-3.split_file.tests.llm_provider.test_config_aliases.798fc5cc` · **State:** dismissed · **Source run:** `run-975eb261ecc2fe07f3dd6b6fe96e5475`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-3
 
@@ -10,12 +10,8 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-20T13:44:44.586023+00:00
+- Timing: 2026-07-20T09:44:44.586023
 - Commits: 0
-
-## Files
-
-[Prompt](prompt.md)
 
 ## Neighbors
 
@@ -29,7 +25,7 @@
 | [toobig-3.split\_file.tests.test\_command\_availability.58f49cd5](../bbugyi200.athena.toobig-3.split_file.tests.test_command_availability.58f49cd5/README.md) | toobig-3.split\_file.tests hood | waiting |
 | [toobig-3.split\_file.tests.test\_command\_palette\_wiring.88b9a203](../bbugyi200.athena.toobig-3.split_file.tests.test_command_palette_wiring.88b9a203/README.md) | toobig-3.split\_file.tests hood | waiting |
 | [toobig-3.split\_file.tests.test\_config\_schema.494c6606](../bbugyi200.athena.toobig-3.split_file.tests.test_config_schema.494c6606/README.md) | toobig-3.split\_file.tests hood | waiting |
-| [toobig-3.split\_file.tests.test\_launch\_approval.82ce37dd](../bbugyi200.athena.toobig-3.split_file.tests.test_launch_approval.82ce37dd/README.md) | toobig-3.split\_file.tests hood | active |
-| [toobig-3.split\_file.tests.test\_model\_picker\_modal.47b40919](../bbugyi200.athena.toobig-3.split_file.tests.test_model_picker_modal.47b40919/README.md) | toobig-3.split\_file.tests hood | active |
+| [toobig-3.split\_file.tests.test\_launch\_approval.82ce37dd](../bbugyi200.athena.toobig-3.split_file.tests.test_launch_approval.82ce37dd/README.md) | toobig-3.split\_file.tests hood | dismissed |
+| [toobig-3.split\_file.tests.test\_model\_picker\_modal.47b40919](../bbugyi200.athena.toobig-3.split_file.tests.test_model_picker_modal.47b40919/README.md) | toobig-3.split\_file.tests hood | dismissed |
 | [toobig-3.split\_file.tests.test\_notification\_gates.c0c16a4c](../bbugyi200.athena.toobig-3.split_file.tests.test_notification_gates.c0c16a4c/README.md) | toobig-3.split\_file.tests hood | waiting |
 | [toobig-3.split\_file.tests.test\_vcs\_log\_resolve.a9029207](../bbugyi200.athena.toobig-3.split_file.tests.test_vcs_log_resolve.a9029207/README.md) | toobig-3.split\_file.tests hood | waiting |

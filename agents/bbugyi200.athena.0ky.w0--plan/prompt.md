@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase %w:0ky Can you help me add support to sase's pager for xprompt skills? We seem to render hints for these currently but are unable to follow them (an error is shown when we try). #plan %m:gpt-6-astra

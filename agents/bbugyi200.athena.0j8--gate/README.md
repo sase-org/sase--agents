@@ -21,7 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0j8.f0](../../families/bbugyi200.athena.0j8.f0.md) (family · 3) | descendant | completed 2, failed 1 |
-| [0j8.f0.f0](../bbugyi200.athena.0j8.f0.f0/README.md) | descendant | dismissed |
-| [0j8.f0.f1](../bbugyi200.athena.0j8.f0.f1/README.md) | descendant | dismissed |
-| [0j8.f0.f2](../bbugyi200.athena.0j8.f0.f2/README.md) | descendant | waiting |
+| [0j8.f0](../../families/bbugyi200.athena.0j8.f0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |
+| [0j8.f0.f0](../bbugyi200.athena.0j8.f0.f0/README.md) | descendant | waiting |
+| [0j8.f0.f1](../bbugyi200.athena.0j8.f0.f1/README.md) | descendant | waiting |
+| [0j8.f0.f2](../../families/bbugyi200.athena.0j8.f0.f2.md) (family · 2) | descendant | active 1, failed 1 |
+| [0j8.f0.f2.f0](../../families/bbugyi200.athena.0j8.f0.f2.f0.md) (family · 3) | descendant | active 1, failed 2 |

@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-rl` · Members: 2 · Bead: [sase-rl](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-rl.land--code [active]"]
+  n0["sase-rl.land--code [completed]"]
   n1["sase-rl.land--plan [active]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-rl.land--code | active | gpt-5.5 / codex | 2026-08-21T11:00:25.891694+00:00 | [1](../agents/bbugyi200.athena.sase-rl.land--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | sase-rl.land--code | completed | gpt-5.5 / codex | 2026-08-21T11:00:25.891694+00:00 | [1](../agents/bbugyi200.athena.sase-rl.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-rl.land--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-rl.land--plan | active | gpt-5.6-sol / codex | 2026-08-21T10:53:48.370362+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-rl.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-rl.land--plan/chat.md) |
 
 ## Commits
@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rl.1](../agents/bbugyi200.athena.sase-rl.1/README.md) | sase-rl hood | completed |
-| [sase-rl.2](../agents/bbugyi200.athena.sase-rl.2/README.md) | sase-rl hood | completed |
-| [sase-rl.3](../agents/bbugyi200.athena.sase-rl.3/README.md) | sase-rl hood | completed |
-| [sase-rl.4](../agents/bbugyi200.athena.sase-rl.4/README.md) | sase-rl hood | completed |
+| [sase-rl.1](../agents/bbugyi200.athena.sase-rl.1/README.md) | sase-rl hood | active |
+| [sase-rl.2](../agents/bbugyi200.athena.sase-rl.2/README.md) | sase-rl hood | active |
+| [sase-rl.3](../agents/bbugyi200.athena.sase-rl.3/README.md) | sase-rl hood | active |
+| [sase-rl.4](../agents/bbugyi200.athena.sase-rl.4/README.md) | sase-rl hood | active |

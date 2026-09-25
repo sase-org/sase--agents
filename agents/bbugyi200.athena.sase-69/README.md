@@ -22,10 +22,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-69.1](../bbugyi200.athena.sase-69.1/README.md) | descendant | active |
-| [sase-69.2](../bbugyi200.athena.sase-69.2/README.md) | descendant | active |
-| [sase-69.3](../bbugyi200.athena.sase-69.3/README.md) | descendant | active |
-| [sase-69.4](../bbugyi200.athena.sase-69.4/README.md) | descendant | active |
-| [sase-69.5](../bbugyi200.athena.sase-69.5/README.md) | descendant | active |
-| [sase-69.6](../bbugyi200.athena.sase-69.6/README.md) | descendant | active |
-| [sase-69.7](../bbugyi200.athena.sase-69.7/README.md) | descendant | active |
+| [sase-69.1](../bbugyi200.athena.sase-69.1/README.md) | descendant | dismissed |
+| [sase-69.2](../bbugyi200.athena.sase-69.2/README.md) | descendant | dismissed |
+| [sase-69.3](../bbugyi200.athena.sase-69.3/README.md) | descendant | dismissed |
+| [sase-69.4](../bbugyi200.athena.sase-69.4/README.md) | descendant | dismissed |
+| [sase-69.5](../bbugyi200.athena.sase-69.5/README.md) | descendant | dismissed |
+| [sase-69.6](../bbugyi200.athena.sase-69.6/README.md) | descendant | dismissed |
+| [sase-69.7](../bbugyi200.athena.sase-69.7/README.md) | descendant | dismissed |

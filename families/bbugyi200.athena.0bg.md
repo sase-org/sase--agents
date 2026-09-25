@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `0bg` · Members: 6
 ```mermaid
 flowchart TD
   n0["0bg--1 [completed]"]
-  n1["0bg--plan [dismissed]"]
+  n1["0bg--plan [active]"]
   n0 --> n1
   n2["0bg--2 [failed]"]
   n0 --> n2
@@ -26,7 +26,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | 0bg--1 | completed | grok-4.6 / grok | 2026-08-23T11:49:55.014094+00:00 → 2026-08-23T11:53:51.090801+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0bg--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0bg--1/chat.md) |
-| <a id="member-plan"></a>plan | 0bg--plan | dismissed | — | 2026-08-23T11:41:13 | 0 | — | — |
+| <a id="member-plan"></a>plan | 0bg--plan | active | gpt-5.6-sol / codex | 2026-08-23T11:41:23.600213+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0bg--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0bg--plan/chat.md) |
 | <a id="member-2"></a>2 | 0bg--2 | failed | grok-4.6 / grok | 2026-08-23T11:56:12.842772+00:00 → 2026-08-23T11:58:59.682294+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0bg--2/prompt.md) | — |
 | <a id="member-mon-0"></a>mon-0 | 0bg--mon-0 | failed | grok-4.6 / grok | 2026-08-23T11:53:44.770992+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0bg--mon-0/chat.md) |
 | <a id="member-mon"></a>mon | 0bg--mon | failed | grok-4.6 / grok | 2026-08-23T11:48:50.029342+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0bg--mon/chat.md) |

@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 08p--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-08p__plan-260820_132242.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-08p__code-260820_132242.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/prompt_stash_cursor_restore.md
 
 

@@ -16,13 +16,13 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-s3.1](../bbugyi200.athena.sase-s3.1/README.md) | sase-s3 hood | completed |
-| [sase-s3.2](../../families/bbugyi200.athena.sase-s3.2.md) (family · 3) | sase-s3 hood | completed 2, failed 1 |
-| [sase-s3.3](../bbugyi200.athena.sase-s3.3/README.md) | sase-s3 hood | completed |
-| [sase-s3.4](../bbugyi200.athena.sase-s3.4/README.md) | sase-s3 hood | completed |
+| [sase-s3.1](../bbugyi200.athena.sase-s3.1/README.md) | sase-s3 hood | active |
+| [sase-s3.2](../../families/bbugyi200.athena.sase-s3.2.md) (family · 3) | sase-s3 hood | active 3 |
+| [sase-s3.3](../bbugyi200.athena.sase-s3.3/README.md) | sase-s3 hood | active |
+| [sase-s3.4](../bbugyi200.athena.sase-s3.4/README.md) | sase-s3 hood | active |

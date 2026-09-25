@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `toobig-5u` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["toobig-5u.visual_maintenance_salvage.0--plan [completed]"]
-  n1["toobig-5u.visual_maintenance_salvage.0--1 [completed]"]
+  n0["toobig-5u.visual_maintenance_salvage.0--plan [active]"]
+  n1["toobig-5u.visual_maintenance_salvage.0--1 [active]"]
   n0 --> n1
-  n2["toobig-5u.visual_maintenance_salvage.0--mon [failed]"]
+  n2["toobig-5u.visual_maintenance_salvage.0--mon [active]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | toobig-5u.visual\_maintenance\_salvage.0--plan | completed | muse-spark-1.3-contributor / muse | 2026-09-22T17:28:55.510595+00:00 → 2026-09-22T17:58:43.194393+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-5u.visual_maintenance_salvage.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-5u.visual_maintenance_salvage.0--plan/chat.md) |
-| <a id="member-1"></a>1 | toobig-5u.visual\_maintenance\_salvage.0--1 | completed | muse-spark-1.3-contributor / muse | 2026-09-22T18:00:17.651300+00:00 → 2026-09-22T18:24:09.503155+00:00 | [1](../agents/bbugyi200.athena.toobig-5u.visual_maintenance_salvage.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-5u.visual_maintenance_salvage.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-5u.visual_maintenance_salvage.0--1/chat.md) |
-| <a id="member-mon"></a>mon | toobig-5u.visual\_maintenance\_salvage.0--mon | failed | muse-spark-1.3-contributor / muse | 2026-09-22T17:56:15.680689+00:00 → 2026-09-22T18:00:18.446256+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-5u.visual_maintenance_salvage.0--mon/chat.md) |
+| <a id="member-plan"></a>plan | toobig-5u.visual\_maintenance\_salvage.0--plan | active | muse-spark-1.3-contributor / muse | 2026-09-22T17:28:55.510595+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-5u.visual_maintenance_salvage.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-5u.visual_maintenance_salvage.0--plan/chat.md) |
+| <a id="member-1"></a>1 | toobig-5u.visual\_maintenance\_salvage.0--1 | active | muse-spark-1.3-contributor / muse | 2026-09-22T18:00:17.651300+00:00 | [1](../agents/bbugyi200.athena.toobig-5u.visual_maintenance_salvage.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-5u.visual_maintenance_salvage.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-5u.visual_maintenance_salvage.0--1/chat.md) |
+| <a id="member-mon"></a>mon | toobig-5u.visual\_maintenance\_salvage.0--mon | active | muse-spark-1.3-contributor / muse | 2026-09-22T17:56:15.680689+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-5u.visual_maintenance_salvage.0--mon/chat.md) |
 
 ## Commits
 
@@ -33,5 +33,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-5u.test\_fix\_tui\_screenshots\_apply.0](../agents/bbugyi200.athena.toobig-5u.test_fix_tui_screenshots_apply.0/README.md) | toobig-5u hood | completed |
-| [toobig-5u.test\_render\_visual\_snapshot\_failure\_report.0](../agents/bbugyi200.athena.toobig-5u.test_render_visual_snapshot_failure_report.0/README.md) | toobig-5u hood | completed |
+| [toobig-5u.test\_fix\_tui\_screenshots\_apply.0](../agents/bbugyi200.athena.toobig-5u.test_fix_tui_screenshots_apply.0/README.md) | toobig-5u hood | active |
+| [toobig-5u.test\_render\_visual\_snapshot\_failure\_report.0](../agents/bbugyi200.athena.toobig-5u.test_render_visual_snapshot_failure_report.0/README.md) | toobig-5u hood | active |

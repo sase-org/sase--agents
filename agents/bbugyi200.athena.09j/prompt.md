@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The disabled provider check is super slow when launching sase agent from the prompt input widget. Can you help me fix this by migrating that slow check to a proc (I think we already launch a proc when launching sase agents so consider using the same one)? #plan

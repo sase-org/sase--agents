@@ -22,3 +22,9 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`bbca06d`](https://github.com/sase-org/sase/commit/bbca06d9efcd943057db4ce31ba65f353832fae1) | fix(service): capture the SSH agent in the service host environment | 2026-09-20 08:10:41 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [0nv.f0](../../families/bbugyi200.athena.0nv.f0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |

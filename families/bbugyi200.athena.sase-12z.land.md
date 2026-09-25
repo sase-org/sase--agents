@@ -37,6 +37,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-12z.2](bbugyi200.athena.sase-12z.2.md) (family · 9) | sase-12z hood | active 9 |
 | [sase-12z.3](../agents/bbugyi200.athena.sase-12z.3/README.md) | sase-12z hood | active |
 | [sase-12z.4](bbugyi200.athena.sase-12z.4.md) (family · 13) | sase-12z hood | active 13 |
-| [sase-12z.5.1](../agents/bbugyi200.athena.sase-12z.5.1/README.md) | sase-12z hood | completed |
-| [sase-12z.5.2](../agents/bbugyi200.athena.sase-12z.5.2/README.md) | sase-12z hood | completed |
+| [sase-12z.5.1](../agents/bbugyi200.athena.sase-12z.5.1/README.md) | sase-12z hood | active |
+| [sase-12z.5.2](../agents/bbugyi200.athena.sase-12z.5.2/README.md) | sase-12z hood | active |
 | [sase-12z.5.land](../agents/bbugyi200.athena.sase-12z.5.land/README.md) | sase-12z hood | active |

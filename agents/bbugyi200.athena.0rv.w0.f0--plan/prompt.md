@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:0rv.w0 Also, can you limit the size of the prompt shown when this sticky panel is collapsed to just 3 lines (truncate after that). #beau #plan %m:opus@xhigh

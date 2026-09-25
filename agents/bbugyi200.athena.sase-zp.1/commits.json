@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789155588,"sha":"e48aa7db0fdcb39c35895b0bff82171c56e452c1","subject":"feat(queue): rename runners to weighted capacity in Python adapters and TUI"}],"schema_version":2,"source_run_id":"run-f24fa8bd8e8368be415fd0a94cdd26eb"}

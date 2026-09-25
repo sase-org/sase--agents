@@ -25,4 +25,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [0b.f1](../bbugyi200.athena.0b.f1/README.md) | ancestor | completed |
-| [0b](../bbugyi200.athena.0b/README.md) | ancestor | active |
+| [0b](../bbugyi200.athena.0b/README.md) | ancestor | waiting |

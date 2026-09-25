@@ -33,10 +33,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5v.1](../agents/bbugyi200.athena.sase-5v.1/README.md) | descendant | active |
-| [sase-5v.2](../agents/bbugyi200.athena.sase-5v.2/README.md) | descendant | active |
-| [sase-5v.3](../agents/bbugyi200.athena.sase-5v.3/README.md) | descendant | active |
-| [sase-5v.4](../agents/bbugyi200.athena.sase-5v.4/README.md) | descendant | active |
+| [sase-5v.1](../agents/bbugyi200.athena.sase-5v.1/README.md) | descendant | dismissed |
+| [sase-5v.2](../agents/bbugyi200.athena.sase-5v.2/README.md) | descendant | dismissed |
+| [sase-5v.3](../agents/bbugyi200.athena.sase-5v.3/README.md) | descendant | dismissed |
+| [sase-5v.4](../agents/bbugyi200.athena.sase-5v.4/README.md) | descendant | dismissed |
 | [sase-5v.5](bbugyi200.athena.sase-5v.5.md) (family · 2) | descendant | active 1, completed 1 |
-| [sase-5v.6](../agents/bbugyi200.athena.sase-5v.6/README.md) | descendant | active |
-| [sase-5v.7](../agents/bbugyi200.athena.sase-5v.7/README.md) | descendant | active |
+| [sase-5v.6](../agents/bbugyi200.athena.sase-5v.6/README.md) | descendant | dismissed |
+| [sase-5v.7](../agents/bbugyi200.athena.sase-5v.7/README.md) | descendant | dismissed |

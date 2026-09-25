@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-rn](../../users/bbugyi200/machines/athena/hoods/sase-rn/README.md) / [sase-rn.land](../../families/bbugyi200.athena.sase-rn.land.md) / sase-rn.land--code
 
-**Global name:** `bbugyi200.athena.sase-rn.land--code` · **State:** active · **Source run:** `run-b6687ddb8b79c8d56154e756a4246c55`
+**Global name:** `bbugyi200.athena.sase-rn.land--code` · **State:** completed · **Source run:** `run-b6687ddb8b79c8d56154e756a4246c55`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-rn
 
@@ -14,6 +14,10 @@
 - Timing: 2026-08-20T23:49:40.919697+00:00
 - Commits: [1](#commits)
 
+## Files
+
+[Chat](chat.md)
+
 ## Commits
 
 | Repo | Commit | Subject | Committed |
@@ -24,10 +28,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rn.1](../bbugyi200.athena.sase-rn.1/README.md) | sase-rn hood | completed |
-| [sase-rn.2](../bbugyi200.athena.sase-rn.2/README.md) | sase-rn hood | completed |
-| [sase-rn.3](../bbugyi200.athena.sase-rn.3/README.md) | sase-rn hood | completed |
-| [sase-rn.4](../bbugyi200.athena.sase-rn.4/README.md) | sase-rn hood | completed |
-| [sase-rn.5](../bbugyi200.athena.sase-rn.5/README.md) | sase-rn hood | completed |
-| [sase-rn.6](../bbugyi200.athena.sase-rn.6/README.md) | sase-rn hood | completed |
-| [sase-rn.7](../bbugyi200.athena.sase-rn.7/README.md) | sase-rn hood | completed |
+| [sase-rn.1](../bbugyi200.athena.sase-rn.1/README.md) | sase-rn hood | active |
+| [sase-rn.2](../bbugyi200.athena.sase-rn.2/README.md) | sase-rn hood | active |
+| [sase-rn.3](../bbugyi200.athena.sase-rn.3/README.md) | sase-rn hood | active |
+| [sase-rn.4](../bbugyi200.athena.sase-rn.4/README.md) | sase-rn hood | active |
+| [sase-rn.5](../bbugyi200.athena.sase-rn.5/README.md) | sase-rn hood | active |
+| [sase-rn.6](../bbugyi200.athena.sase-rn.6/README.md) | sase-rn hood | active |
+| [sase-rn.7](../bbugyi200.athena.sase-rn.7/README.md) | sase-rn hood | active |

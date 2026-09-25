@@ -26,5 +26,5 @@
 |---|---|---|
 | [077.w1.w2](../bbugyi200.athena.077.w1.w2/README.md) | ancestor | completed |
 | [077.w1](../bbugyi200.athena.077.w1/README.md) | ancestor | completed |
-| [077](../bbugyi200.athena.077/README.md) | ancestor | completed |
+| [077](../bbugyi200.athena.077/README.md) | ancestor | active |
 | [077.w1.w1.f1.w2](../bbugyi200.athena.077.w1.w1.f1.w2/README.md) | 077.w1 hood | completed |

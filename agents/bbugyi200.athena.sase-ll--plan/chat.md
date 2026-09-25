@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-ll--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ll__plan-260815_153029.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ll__code-260815_153029.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/monitor_implicit_agent_identity.md
 
 

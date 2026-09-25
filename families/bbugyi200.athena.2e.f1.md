@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [2e](../agents/bbugyi200.athena.2e/README.md) | ancestor | active |
+| [2e](../agents/bbugyi200.athena.2e/README.md) | ancestor | dismissed |

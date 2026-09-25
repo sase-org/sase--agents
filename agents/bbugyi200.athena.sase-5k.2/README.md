@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-5k](../../users/bbugyi200/machines/athena/hoods/sase-5k/README.md) / sase-5k.2
 
-**Global name:** `bbugyi200.athena.sase-5k.2` · **State:** active · **Source run:** `run-1831d5ff4e0d675c300909eb081d5207`
+**Global name:** `bbugyi200.athena.sase-5k.2` · **State:** dismissed · **Source run:** `run-1831d5ff4e0d675c300909eb081d5207`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-5k
 
@@ -11,12 +11,12 @@
 - Bead: [sase-5k.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-5k/sase-5k.2.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-07-08T04:21:33.763964+00:00
+- Timing: 2026-07-08T00:21:33.763964 → 2026-07-08T00:41:46.767414
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -28,7 +28,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5k](../bbugyi200.athena.sase-5k/README.md) | ancestor | active |
-| [sase-5k.1](../bbugyi200.athena.sase-5k.1/README.md) | sase-5k hood | active |
-| [sase-5k.3](../bbugyi200.athena.sase-5k.3/README.md) | sase-5k hood | active |
-| [sase-5k.4](../bbugyi200.athena.sase-5k.4/README.md) | sase-5k hood | active |
+| [sase-5k](../bbugyi200.athena.sase-5k/README.md) | ancestor | dismissed |
+| [sase-5k.1](../bbugyi200.athena.sase-5k.1/README.md) | sase-5k hood | dismissed |
+| [sase-5k.3](../bbugyi200.athena.sase-5k.3/README.md) | sase-5k hood | dismissed |
+| [sase-5k.4](../bbugyi200.athena.sase-5k.4/README.md) | sase-5k hood | dismissed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0q9](../../users/bbugyi200/machines/athena/hoods/0q9/README.md) / [0q9.f2](../../families/bbugyi200.athena.0q9.f2.md) / 0q9.f2--plan
 
-**Global name:** `bbugyi200.athena.0q9.f2--plan` · **State:** completed · **Source run:** `run-0f74a93f887c9ca5a08d2bf1fd3409ea`
+**Global name:** `bbugyi200.athena.0q9.f2--plan` · **State:** active · **Source run:** `run-0f74a93f887c9ca5a08d2bf1fd3409ea`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0q9
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-09-23T20:02:20.283826+00:00 → 2026-09-23T20:36:21.824627+00:00
+- Timing: 2026-09-23T20:02:20.283826+00:00
 - Commits: 0
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0q9](../../families/bbugyi200.athena.0q9.md) (family · 3) | ancestor | completed 2, failed 1 |
-| [0q9.f2.f0](../../families/bbugyi200.athena.0q9.f2.f0.md) (family · 3) | descendant | active 2, failed 1 |
+| [0q9](../../families/bbugyi200.athena.0q9.md) (family · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0q9.f2.f0](../../families/bbugyi200.athena.0q9.f2.f0.md) (family · 5) | descendant | active 1, completed 2, failed 2 |
 | [0q9.f0](../bbugyi200.athena.0q9.f0/README.md) | 0q9 hood | active |
 | [0q9.f1](../bbugyi200.athena.0q9.f1/README.md) | 0q9 hood | active |

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789566775,"sha":"b9c28f25e880df7436c03cc00a767c248560073a","subject":"fix(gate-shell): restore agent-side gate handoff helpers"}],"schema_version":2,"source_run_id":"run-b45d0a21902c88447f8d64fcadf9aaee"}

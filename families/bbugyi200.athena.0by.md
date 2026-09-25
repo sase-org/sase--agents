@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["0by--code [completed]"]
   n0 --> n2
-  n3["0by--plan [completed]"]
+  n3["0by--plan [active]"]
   n0 --> n3
 ```
 
@@ -24,4 +24,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-1"></a>1 | 0by--1 | failed | gpt-5.5 / codex | 2026-08-23T19:47:21.631570+00:00 → 2026-08-23T20:06:17.364295+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0by--1/prompt.md) | — |
 | <a id="member-mon"></a>mon | 0by--mon | failed | gpt-5.5 / codex | 2026-08-23T19:27:53.565665+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0by--mon/chat.md) |
 | <a id="member-code"></a>code | 0by--code | completed | gpt-5.5 / codex | 2026-08-23T18:44:27.443154+00:00 → 2026-08-23T19:28:06.862121+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0by--code/chat.md) |
-| <a id="member-plan"></a>plan | 0by--plan | completed | opus / claude | 2026-08-23T18:27:11.381805+00:00 → 2026-08-23T19:28:06.862121+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0by--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0by--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0by--plan | active | opus / claude | 2026-08-23T18:27:11.381805+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0by--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0by--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`e02106a`](https://github.com/sase-org/sase/commit/e02106a29f12a8962b75678d4aa84d8f91e4dcb1) | feat(ace): polish proc shell rows | 2026-08-23 16:04:39 EDT |

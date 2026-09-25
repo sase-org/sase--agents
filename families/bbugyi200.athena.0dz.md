@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `0dz` · Members: 2
 ```mermaid
 flowchart TD
   n0["0dz--plan [active]"]
-  n1["0dz--code [active]"]
+  n1["0dz--code [completed]"]
   n0 --> n1
 ```
 
@@ -18,4 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | 0dz--plan | active | opus / claude | 2026-08-26T11:09:00.559524+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0dz--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0dz--plan/chat.md) |
-| <a id="member-code"></a>code | 0dz--code | active | gpt-5.5 / codex | 2026-08-26T11:20:44.389681+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 0dz--code | completed | gpt-5.5 / codex | 2026-08-26T11:20:44.389681+00:00 → 2026-08-26T16:43:07.222702+00:00 | [1](../agents/bbugyi200.athena.0dz--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.0dz--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`a301139`](https://github.com/sase-org/sase/commit/a3011392c432bf3232f9cdb1e1337d5aa5222cc5) | fix(finalizers): run repair follow-up commits | 2026-08-26 12:42:23 EDT |

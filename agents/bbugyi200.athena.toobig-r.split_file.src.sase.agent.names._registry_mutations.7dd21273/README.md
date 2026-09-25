@@ -27,6 +27,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-r.split\_file.src.sase.config.core.42c0c9ed](../bbugyi200.athena.toobig-r.split_file.src.sase.config.core.42c0c9ed/README.md) | toobig-r.split\_file.src.sase hood | active |
-| [toobig-r.split\_file.tests.test\_agent\_name\_registry.25101caa](../bbugyi200.athena.toobig-r.split_file.tests.test_agent_name_registry.25101caa/README.md) | toobig-r.split\_file hood | active |
-| [toobig-r.split\_file.tests.test\_bead.test\_db.0e0c3bdd](../bbugyi200.athena.toobig-r.split_file.tests.test_bead.test_db.0e0c3bdd/README.md) | toobig-r.split\_file hood | active |
+| [toobig-r.split\_file.src.sase.config.core.42c0c9ed](../bbugyi200.athena.toobig-r.split_file.src.sase.config.core.42c0c9ed/README.md) | toobig-r.split\_file.src.sase hood | dismissed |
+| [toobig-r.split\_file.tests.test\_agent\_name\_registry.25101caa](../bbugyi200.athena.toobig-r.split_file.tests.test_agent_name_registry.25101caa/README.md) | toobig-r.split\_file hood | dismissed |
+| [toobig-r.split\_file.tests.test\_bead.test\_db.0e0c3bdd](../bbugyi200.athena.toobig-r.split_file.tests.test_bead.test_db.0e0c3bdd/README.md) | toobig-r.split\_file hood | dismissed |

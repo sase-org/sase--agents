@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 04a--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-04a__plan-260816_155859.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-04a__code-260816_155859.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/restore_gemini_xsmall_only.md
 
 

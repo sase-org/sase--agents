@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789946803,"sha":"8464f4bcb011a7976094fa25dd72c42fa0c323d3","subject":"fix(tui): scope panel paint keys per panel and settle removal collapses in-frame"}],"schema_version":2,"source_run_id":"run-c439fcebe61de4036c41b1c300486b89"}

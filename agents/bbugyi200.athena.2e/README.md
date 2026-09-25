@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [2e](../../users/bbugyi200/machines/athena/hoods/2e/README.md) / 2e
 
-**Global name:** `bbugyi200.athena.2e` · **State:** active · **Source run:** `run-02f5eafe451881f3fa859092e73a9125`
+**Global name:** `bbugyi200.athena.2e` · **State:** dismissed · **Source run:** `run-02f5eafe451881f3fa859092e73a9125`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 2e
 
@@ -10,12 +10,12 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-07-08T18:14:39.518867+00:00
+- Timing: 2026-07-08T14:14:39.518867 → 2026-07-08T14:31:46.561790
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 

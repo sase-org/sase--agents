@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-165.6.f0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_165_6_f0__plan-260922_110040.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_165_6_f0__code-260922_110040.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/fix_ten_master_check_failures.md
 
 

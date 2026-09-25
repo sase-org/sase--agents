@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 0cu--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0cu__plan-260824_143210.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0cu__code-260824_143210.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/rename_config_misc_to_all.md
 
 

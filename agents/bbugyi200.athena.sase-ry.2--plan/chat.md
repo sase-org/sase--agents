@@ -1,6 +1,6 @@
 # Chat History - ace-run (sase-ry.2--plan)
 
-- **TIMESTAMP:** 2026-08-21 19:30:06 UTC
+- **TIMESTAMP:** 2026-08-22 10:52:47 UTC
 - **MODEL:** grok/grok-4.6
 - **AGENT:** sase-ry.2--plan
 
@@ -10,7 +10,6 @@
 %id(2, clan=sase-ry, bead=sase-ry.2)
 %model:@small
 %auto
-%w:sase-ry.1
 %w(bead=sase-ry.1)
 Can you complete the work for bead sase-ry.2? The bead is already reserved for you and assigned to your agent
 name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
@@ -32,30 +31,32 @@ these into task beads.
 # Monitor handoff
 
 This agent delegated the remaining work to a monitor shell.
-Monitor ID: 6a03sp1v57vw
-Inspect with: sase monitor show 6a03sp1v57vw
+Monitor ID: 9g6der5z8sde
+Inspect with: sase monitor show 9g6der5z8sde
 Monitor shell: sase-ry.2--mon
-Directory: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_20
+Directory: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_14
 
 Command:
 
 ```sh
-bash -lc 'set -euo pipefail; deadline=$((SECONDS + 3300)); while :; do state="$(gh pr view 284 --repo sase-org/sase --json state --jq .state)"; merged_at="$(gh pr view 284 --repo sase-org/sase --json mergedAt --jq .mergedAt)"; mergeable="$(gh pr view 284 --repo sase-org/sase --json mergeable --jq .mergeable)"; mss="$(gh pr view 284 --repo sase-org/sase --json mergeStateStatus --jq .mergeStateStatus)"; head="$(gh pr view 284 --repo sase-org/sase --json headRefOid --jq .headRefOid)"; printf "%s PR 284 state=%s mergedAt=%s mergeable=%s mergeStateStatus=%s head=%s\n" "$(date -u +%Y-%m-%dT%H:%M:%SZ)" "$state" "$merged_at" "$mergeable" "$mss" "$head"; if [ "$state" = "MERGED" ]; then echo "PR 284 merged"; gh pr view 284 --repo sase-org/sase --json state,mergedAt,mergeCommit,mergedBy,url,headRefOid; exit 0; fi; if [ "$state" = "CLOSED" ]; then echo "PR 284 closed without merge"; exit 1; fi; if [ "$SECONDS" -ge "$deadline" ]; then echo "Timed out waiting for ci_watch to submit PR 284"; exit 124; fi; sleep 30; done'
+bash -lc 'set -euo pipefail; repo=sase-org/sase; deadline=$((SECONDS + 42000)); while :; do state="$(gh pr view 284 --repo "$repo" --json state --jq .state)"; head="$(gh pr view 284 --repo "$repo" --json headRefOid --jq .headRefOid)"; merged="$(gh pr view 284 --repo "$repo" --json mergedAt --jq .mergedAt)"; printf "%s PR 284 state=%s head=%s mergedAt=%s\n" "$(date -u +%Y-%m-%dT%H:%M:%SZ)" "$state" "$head" "$merged"; if [ "$state" = "MERGED" ]; then echo "PR 284 submitted by remote automation"; exit 0; fi; if [ "$state" != "OPEN" ]; then echo "PR 284 unexpected state=$state"; exit 1; fi; if [ "$SECONDS" -ge "$deadline" ]; then echo "Timed out waiting for ci_watch to submit PR 284"; exit 124; fi; sleep 60; done'
 ```
 
 Reason:
 
-Wait for ci_watch to submit green release PR 284 without merging it
+Wait for ci_watch to squash-merge green release PR 284; do not merge it by hand
 
 Next action:
 
-Continue bead sase-ry.2. First inspect the retained monitor output with `sase monitor show --all-lines` and the current remote state with `gh pr view 284 --repo sase-org/sase --json state,mergedAt,mergeCommit,mergedBy,url,headRefOid,mergeable,mergeStateStatus` plus `gh pr checks 284 --watch=false`. Do not invoke `gh pr merge` or otherwise bypass ci_watch.
+Continue bead sase-ry.2 (phase await_ci_watch_submission of epic sase-ry / plan:202608/release_v0_17_0.md). First inspect the retained monitor output (`sase monitor show --all-lines` or the log path in this prompt) and current remote state.
 
-If the monitor succeeded and GitHub reports state=MERGED, capture mergedAt, merge commit SHA, and the actor when available; confirm the v0.17.0 release tag or Publish workflow has begun; run `sase bead epic-symbols sase-ry.2` and resolve or re-key any leftovers; then close only sase-ry.2 with `sase bead close sase-ry.2 --note "<what you verified>"`. Do not close parent epic sase-ry or any ancestor.
+Re-query: `gh pr view 284 --repo sase-org/sase --json state,mergedAt,mergedBy,mergeCommit,headRefOid,mergeable,mergeStateStatus,url`; `gh pr checks 284 --repo sase-org/sase`; `sase axe status`; `~/.sase/axe/lumberjacks/ci_watch/ci_watch.report.json`. Distinguish an ordinary 5-minute ci_watch tick / max_merges_per_tick=1 delay from a real automation fault. Do NOT invoke gh pr merge or otherwise bypass ci_watch.
 
-If the monitor failed, timed out, or the PR is still OPEN, distinguish an ordinary ci_watch interval from a real automation fault. The chop runs every 5 minutes and skips while any SASE agent holds a runner slot (`inhibit_if.agent_runners.max=0`). It also requires the default branch to be GREEN before merging (reason `default_branch_not_green` / "base branch not green"), and `merge_order` plus `max_merges_per_tick=1` can delay sase behind sase-core/sase-github/sase-telegram. A persistent inhibit by `sase-ru.6--mon` (WAITING RELEASE for the same v0.17.0) or by this phase's own `--mon` is a real automation fault, not an ordinary tick. Check `sase axe status`, tail `~/.sase/axe/logs/lumberjack-ci_watch.log`, and `~/.sase/axe/lumberjacks/ci_watch/ci_watch_releases.report.json`. If the PR is CLOSED without merge, treat that as a fault.
+Predecessor plan for any new code-changing plan is plan:202608/restore_v0_17_0_ci_watch_submit.md (child of plan:202608/release_v0_17_0.md). If a successor plan is required, use /sase_plan, treat that restore tale as the predecessor, and let SASE write the canonical PARENT link; do not hand-author PARENT bullets. After archival confirm the link with the plan-link tooling.
 
-If reaching the phase goal requires any file, configuration, or repository change, use `/sase_plan` before editing. Treat `plan:202608/release_v0_17_0.md` as the predecessor plan artifact (sase-ry.1 recorded no later child plan on this bead); let SASE write the new plan's canonical PARENT link and confirm it with plan-link tooling after archival. Do not hand-author PARENT bullets. If a later predecessor exists, use that rather than inventing one.
+If this monitor succeeded (PR 284 MERGED): capture mergedAt, merge commit SHA, and actor; confirm the release tag/workflow has begun; append a concise sase-m4 evidence note (do not close sase-m4); run `sase bead epic-symbols sase-ry.2` and resolve or re-key any leftovers; then close ONLY sase-ry.2 with `sase bead close sase-ry.2 --note "<what you verified>"`. Do not close sase-ry, sase-ry.3, sase-ry.4, or any ancestor. Do not create task beads; record discovered follow-up on sase-ry.2 as `PROPOSED FOLLOW-UP:`.
 
-Do not create task beads. Record discovered follow-up on sase-ry.2 as `PROPOSED FOLLOW-UP:`. Note sase-m4 only if the evidence is causally relevant to GitHub Actions stabilization. Never bypass ci_watch to force the merge. If another wait is needed, start a new `/sase_monitor` with WAITING FOR SUBMIT / SUBMITTED. Before any normal final response after completion, use the sase_final skill as the last action.
+If the monitor failed or timed out and PR 284 is still OPEN: this is the known default-branch-not-green skip, not a ci_watch liveness bug, unless axe/ci_watch is actually down. At the previous handoff (2026-08-22T10:40Z): AXE HEALTHY, ci_watch running, PR 284 OPEN/CLEAN with release-core-floor-smoke SUCCESS, master@3ab0c52dea38 red (CI tests/visual/perf plus Publish sync-release-metadata asttokens-not-PyPI while ratcheting to sase-core-rs 0.29.10). Last successful master CI was 2026-08-09 run 31317137585. Local uv 0.12.5 ratchet to 0.29.10 succeeded without rewriting asttokens. A failed-Publish rerun of 32555295580 was triggered. Do not propose a competing green-all-master epic (sase-m4 plus in-progress sase-rj/visual/perf own that). If a NEW bounded unowned release-blocking defect appeared, /sase_plan before any edit. If the skip is still the same default-branch CI redness, append a progress note and start another WAITING FOR SUBMIT / SUBMITTED monitor on agent sase-ry.2 (family names with -- cannot take --mon). Never merge.
+
+Before any normal final response after completion, use /sase_final. Monitor/plan/pipe/questions handoffs do not need it.
 

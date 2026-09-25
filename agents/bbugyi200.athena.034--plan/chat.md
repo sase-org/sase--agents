@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 034--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-034__plan-260815_202403.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-034__code-260815_202403.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/ace_launch_default_indicator_liveness.md
 
 

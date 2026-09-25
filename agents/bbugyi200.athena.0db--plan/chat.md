@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 0db--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0db__plan-260825_081303.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0db__code-260825_081303.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/agents_memory_read_view.md
 
 

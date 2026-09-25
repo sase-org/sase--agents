@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-52](../../users/bbugyi200/machines/athena/hoods/toobig-52/README.md) / [toobig-52.machine\_init.0](../../families/bbugyi200.athena.toobig-52.machine_init.0.md) / toobig-52.machine\_init.0--plan
 
-**Global name:** `bbugyi200.athena.toobig-52.machine_init.0--plan` · **State:** completed · **Source run:** `run-c7e81040d499d5b2d2becd1427bfee73`
+**Global name:** `bbugyi200.athena.toobig-52.machine_init.0--plan` · **State:** active · **Source run:** `run-c7e81040d499d5b2d2becd1427bfee73`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-52
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-09T15:33:36.845011+00:00 → 2026-09-09T16:14:02.852082+00:00
+- Timing: 2026-09-09T15:33:36.845011+00:00
 - Commits: 0
 
 ## Files

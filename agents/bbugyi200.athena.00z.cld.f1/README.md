@@ -25,9 +25,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [00z.cld](../bbugyi200.athena.00z.cld/README.md) | ancestor | completed |
-| [00z](../../families/bbugyi200.athena.00z.md) (family · 2) | ancestor | completed 2 |
-| [00z.f0](../../families/bbugyi200.athena.00z.f0.md) (family · 2) | 00z hood | completed 2 |
-| [00z.f0.f0](../../families/bbugyi200.athena.00z.f0.f0.md) (family · 2) | 00z hood | completed 2 |
-| [00z.f0.f0.f0](../../families/bbugyi200.athena.00z.f0.f0.f0.md) (family · 2) | 00z hood | completed 2 |
-| [00z.f0.f0.f1](../bbugyi200.athena.00z.f0.f0.f1/README.md) | 00z hood | dismissed |
-| [00z.f0.f0.f2](../../families/bbugyi200.athena.00z.f0.f0.f2.md) (family · 2) | 00z hood | active 2 |
+| [00z](../../families/bbugyi200.athena.00z.md) (family · 2) | ancestor | active 1, completed 1 |
+| [00z.f0](../../families/bbugyi200.athena.00z.f0.md) (family · 2) | 00z hood | active 1, completed 1 |
+| [00z.f0.f0](../../families/bbugyi200.athena.00z.f0.f0.md) (family · 2) | 00z hood | active 1, completed 1 |
+| [00z.f0.f0.f0](../../families/bbugyi200.athena.00z.f0.f0.f0.md) (family · 2) | 00z hood | active 1, completed 1 |
+| [00z.f0.f0.f1](../bbugyi200.athena.00z.f0.f0.f1/README.md) | 00z hood | active |
+| [00z.f0.f0.f2](../../families/bbugyi200.athena.00z.f0.f0.f2.md) (family · 2) | 00z hood | active 1, completed 1 |

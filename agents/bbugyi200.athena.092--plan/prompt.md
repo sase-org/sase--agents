@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add a new `,E` keymap that serves as a short-hand for `,UE` (i.e. opening the "Update" panel and pressing `E` to update everything with no prompt)? #plan %w(priority=20)

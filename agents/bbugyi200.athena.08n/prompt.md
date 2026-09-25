@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase If sase agents use the `sase artifact read` command to read an artifact, is that shown to the user anywhere in the agent metadata panel when that agent node is selected on the artifacts tab? %m:@xsmall

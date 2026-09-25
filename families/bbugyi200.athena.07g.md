@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `07g` · Members: 2
 ```mermaid
 flowchart TD
   n0["07g--plan [active]"]
-  n1["07g--code [active]"]
+  n1["07g--code [completed]"]
   n0 --> n1
 ```
 
@@ -18,10 +18,16 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | 07g--plan | active | opus / claude | 2026-08-19T01:08:19.195718+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.07g--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.07g--plan/chat.md) |
-| <a id="member-code"></a>code | 07g--code | active | grok-4.6 / grok | 2026-08-19T01:18:27.812777+00:00 | [1](../agents/bbugyi200.athena.07g--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | 07g--code | completed | grok-4.6 / grok | 2026-08-19T01:18:27.812777+00:00 | [1](../agents/bbugyi200.athena.07g--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.07g--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | code | sase | [`1d66373`](https://github.com/sase-org/sase/commit/1d66373d80a8ccd0eb973087612722228c646ab9) | feat(memory): render glossary terms as one GLOSSARY TERMS paragraph | 2026-08-18 21:31:36 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [07g.f0](../agents/bbugyi200.athena.07g.f0/README.md) | descendant | active |

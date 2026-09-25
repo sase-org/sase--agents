@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:088 I'm intending to implement the Bootstrap functionality using a new `sase init` command (see the recently added file in the research sidecar repo for context). Does this seem like a reasonable/advisable direction or should I reverse course? %m:opus

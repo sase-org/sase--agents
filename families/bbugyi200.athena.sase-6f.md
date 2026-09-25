@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6f.1](../agents/bbugyi200.athena.sase-6f.1/README.md) | descendant | active |
-| [sase-6f.2](../agents/bbugyi200.athena.sase-6f.2/README.md) | descendant | active |
-| [sase-6f.3](../agents/bbugyi200.athena.sase-6f.3/README.md) | descendant | active |
-| [sase-6f.4](../agents/bbugyi200.athena.sase-6f.4/README.md) | descendant | active |
+| [sase-6f.1](../agents/bbugyi200.athena.sase-6f.1/README.md) | descendant | dismissed |
+| [sase-6f.2](../agents/bbugyi200.athena.sase-6f.2/README.md) | descendant | dismissed |
+| [sase-6f.3](../agents/bbugyi200.athena.sase-6f.3/README.md) | descendant | dismissed |
+| [sase-6f.4](../agents/bbugyi200.athena.sase-6f.4/README.md) | descendant | dismissed |

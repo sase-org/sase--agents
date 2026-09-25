@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["sase-rm.2--mon [failed]"]
   n0 --> n2
-  n3["sase-rm.2--plan [completed]"]
+  n3["sase-rm.2--plan [active]"]
   n0 --> n3
 ```
 
@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | sase-rm.2--code | completed | gpt-5.5 / codex | 2026-08-21T09:08:02.517474+00:00 | [1](../agents/bbugyi200.athena.sase-rm.2--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-rm.2--code/chat.md) |
 | <a id="member-1"></a>1 | sase-rm.2--1 | failed | grok-4.6 / grok | 2026-08-20T20:47:04.347738+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-rm.2--1/prompt.md) | — |
 | <a id="member-mon"></a>mon | sase-rm.2--mon | failed | grok-4.6 / grok | 2026-08-20T20:33:08.308664+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-rm.2--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-rm.2--plan | completed | gpt-5.6-sol / codex | 2026-08-21T09:02:39.348094+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-rm.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-rm.2--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-rm.2--plan | active | gpt-5.6-sol / codex | 2026-08-21T09:02:39.348094+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-rm.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-rm.2--plan/chat.md) |
 
 ## Commits
 
@@ -36,18 +36,18 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rm.1](bbugyi200.athena.sase-rm.1.md) (family · 2) | sase-rm hood | completed 2 |
-| [sase-rm.10](bbugyi200.athena.sase-rm.10.md) (family · 2) | sase-rm hood | completed 2 |
-| [sase-rm.11](bbugyi200.athena.sase-rm.11.md) (family · 2) | sase-rm hood | completed 2 |
-| [sase-rm.12](../agents/bbugyi200.athena.sase-rm.12/README.md) | sase-rm hood | completed |
-| [sase-rm.13](bbugyi200.athena.sase-rm.13.md) (family · 2) | sase-rm hood | completed 2 |
-| [sase-rm.3](bbugyi200.athena.sase-rm.3.md) (family · 2) | sase-rm hood | completed 2 |
-| [sase-rm.4](bbugyi200.athena.sase-rm.4.md) (family · 2) | sase-rm hood | completed 2 |
-| [sase-rm.5](bbugyi200.athena.sase-rm.5.md) (family · 2) | sase-rm hood | completed 2 |
+| [sase-rm.1](bbugyi200.athena.sase-rm.1.md) (family · 2) | sase-rm hood | active 1, completed 1 |
+| [sase-rm.10](bbugyi200.athena.sase-rm.10.md) (family · 2) | sase-rm hood | active 1, completed 1 |
+| [sase-rm.11](bbugyi200.athena.sase-rm.11.md) (family · 2) | sase-rm hood | active 1, completed 1 |
+| [sase-rm.12](../agents/bbugyi200.athena.sase-rm.12/README.md) | sase-rm hood | active |
+| [sase-rm.13](bbugyi200.athena.sase-rm.13.md) (family · 2) | sase-rm hood | active 1, completed 1 |
+| [sase-rm.3](bbugyi200.athena.sase-rm.3.md) (family · 2) | sase-rm hood | active 1, completed 1 |
+| [sase-rm.4](bbugyi200.athena.sase-rm.4.md) (family · 2) | sase-rm hood | active 1, completed 1 |
+| [sase-rm.5](bbugyi200.athena.sase-rm.5.md) (family · 2) | sase-rm hood | active 1, completed 1 |
 | [sase-rm.6](bbugyi200.athena.sase-rm.6.md) (family · 8) | sase-rm hood | active 1, completed 4, failed 3 |
-| [sase-rm.6](../agents/bbugyi200.athena.sase-rm.6/README.md) | sase-rm hood | completed |
-| [sase-rm.7](../agents/bbugyi200.athena.sase-rm.7/README.md) | sase-rm hood | completed |
-| [sase-rm.8](../agents/bbugyi200.athena.sase-rm.8/README.md) | sase-rm hood | completed |
-| [sase-rm.9](bbugyi200.athena.sase-rm.9.md) (family · 3) | sase-rm hood | completed 2, failed 1 |
-| [sase-rm.land](bbugyi200.athena.sase-rm.land.md) (family · 2) | sase-rm hood | completed 2 |
+| [sase-rm.6](../agents/bbugyi200.athena.sase-rm.6/README.md) | sase-rm hood | active |
+| [sase-rm.7](../agents/bbugyi200.athena.sase-rm.7/README.md) | sase-rm hood | active |
+| [sase-rm.8](../agents/bbugyi200.athena.sase-rm.8/README.md) | sase-rm hood | active |
+| [sase-rm.9](bbugyi200.athena.sase-rm.9.md) (family · 3) | sase-rm hood | active 3 |
+| [sase-rm.land](bbugyi200.athena.sase-rm.land.md) (family · 2) | sase-rm hood | active 1, completed 1 |
 | [sase-rm.land](../agents/bbugyi200.athena.sase-rm.land/README.md) | sase-rm hood | completed |

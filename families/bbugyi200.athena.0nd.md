@@ -23,7 +23,7 @@ flowchart TD
   n0 --> n6
   n7["0nd--4 [completed]"]
   n0 --> n7
-  n8["0nd--plan [completed]"]
+  n8["0nd--plan [active]"]
   n0 --> n8
   n9["0nd--2 [completed]"]
   n0 --> n9
@@ -47,7 +47,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-1"></a>mon-1 | 0nd--mon-1 | failed | grok-4.6 / grok | 2026-09-19T02:14:28.293819+00:00 → 2026-09-19T03:01:16.294645+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0nd--mon-1/chat.md) |
 | <a id="member-code"></a>code | 0nd--code | completed | grok-4.6 / grok | 2026-09-18T23:59:45.337402+00:00 → 2026-09-19T00:29:58.777833+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0nd--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0nd--code/chat.md) |
 | <a id="member-4"></a>4 | 0nd--4 | completed | grok-4.6 / grok | 2026-09-19T03:42:13.011220+00:00 → 2026-09-19T03:56:56.456417+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0nd--4/prompt.md) | [Chat](../agents/bbugyi200.athena.0nd--4/chat.md) |
-| <a id="member-plan"></a>plan | 0nd--plan | completed | grok-4.6 / grok | 2026-09-18T23:02:17.373671+00:00 → 2026-09-18T23:13:54.489312+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0nd--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0nd--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0nd--plan | active | grok-4.6 / grok | 2026-09-18T23:02:17.373671+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0nd--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0nd--plan/chat.md) |
 | <a id="member-2"></a>2 | 0nd--2 | completed | grok-4.6 / grok | 2026-09-19T02:05:04.185880+00:00 → 2026-09-19T02:16:20.241516+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0nd--2/prompt.md) | [Chat](../agents/bbugyi200.athena.0nd--2/chat.md) |
 | <a id="member-mon-3"></a>mon-3 | 0nd--mon-3 | failed | grok-4.6 / grok | 2026-09-19T03:54:47.865666+00:00 → 2026-09-19T04:21:48.492766+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0nd--mon-3/chat.md) |
 | <a id="member-1"></a>1 | 0nd--1 | completed | grok-4.6 / grok | 2026-09-19T01:06:47.296608+00:00 → 2026-09-19T01:24:52.031650+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0nd--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0nd--1/chat.md) |

@@ -37,13 +37,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [gy.f1.f1](../agents/bbugyi200.athena.gy.f1.f1/README.md) | gy.f1 hood | waiting |
 | [gy.f1.f2](../agents/bbugyi200.athena.gy.f1.f2/README.md) | gy.f1 hood | waiting |
 | [gy.f1.f3](../agents/bbugyi200.athena.gy.f1.f3/README.md) | gy.f1 hood | waiting |
-| [gy.f1.f4](../agents/bbugyi200.athena.gy.f1.f4/README.md) | gy.f1 hood | active |
-| [gy.f1.f5](../agents/bbugyi200.athena.gy.f1.f5/README.md) | gy.f1 hood | active |
+| [gy.f1.f4](../agents/bbugyi200.athena.gy.f1.f4/README.md) | gy.f1 hood | dismissed |
+| [gy.f1.f5](../agents/bbugyi200.athena.gy.f1.f5/README.md) | gy.f1 hood | dismissed |
 | [gy.f1.f6.f0](../agents/bbugyi200.athena.gy.f1.f6.f0/README.md) | gy.f1 hood | dismissed |
 | [gy.f1.f6.f0.w0](bbugyi200.athena.gy.f1.f6.f0.w0.md) (family · 2) | gy.f1 hood | active 1, completed 1 |
 | [gy.f1.f6.f0.w0.f0](../agents/bbugyi200.athena.gy.f1.f6.f0.w0.f0/README.md) | gy.f1 hood | waiting |
 | [gy.f1.f6.f0.w0.f2](bbugyi200.athena.gy.f1.f6.f0.w0.f2.md) (family · 2) | gy.f1 hood | active 1, completed 1 |
-| [gy.f1.f6.f0.w0.f2.f1](../agents/bbugyi200.athena.gy.f1.f6.f0.w0.f2.f1/README.md) | gy.f1 hood | active |
+| [gy.f1.f6.f0.w0.f2.f1](../agents/bbugyi200.athena.gy.f1.f6.f0.w0.f2.f1/README.md) | gy.f1 hood | dismissed |
 | [gy.f1.f6.f1](../agents/bbugyi200.athena.gy.f1.f6.f1/README.md) | gy.f1 hood | active |
 | [gy.f1.f7](bbugyi200.athena.gy.f1.f7.md) (family · 2) | gy.f1 hood | active 1, completed 1 |
-| [gy.f0](../agents/bbugyi200.athena.gy.f0/README.md) | gy hood | active |
+| [gy.f0](../agents/bbugyi200.athena.gy.f0/README.md) | gy hood | dismissed |

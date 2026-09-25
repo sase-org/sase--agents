@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ca24b0bfc0765b142b3155c5875f082b"}
+{"commits":[{"committed_at":1787669219,"sha":"9c164528e3eb51989b7086db72f49aec17c7309c","subject":"test(finalizers): add commit dispatch protection guard and live e2e regression coverage"}],"schema_version":2,"source_run_id":"run-d403ab1ab08b414ae437d841b70981ab"}

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:0i3 The fix worked! But can you actually change the pager UX text to show `<ctrl+i>` for this keymap again instead of `<tab>`? #plan %q:3

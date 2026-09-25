@@ -31,12 +31,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-6d](bbugyi200.athena.sase-6d.md) (family · 2) | ancestor | active 1, completed 1 |
-| [sase-6d.1](../agents/bbugyi200.athena.sase-6d.1/README.md) | sase-6d hood | active |
-| [sase-6d.2](../agents/bbugyi200.athena.sase-6d.2/README.md) | sase-6d hood | active |
-| [sase-6d.3](../agents/bbugyi200.athena.sase-6d.3/README.md) | sase-6d hood | active |
-| [sase-6d.4](../agents/bbugyi200.athena.sase-6d.4/README.md) | sase-6d hood | active |
-| [sase-6d.5](../agents/bbugyi200.athena.sase-6d.5/README.md) | sase-6d hood | active |
-| [sase-6d.6](../agents/bbugyi200.athena.sase-6d.6/README.md) | sase-6d hood | active |
-| [sase-6d.8](../agents/bbugyi200.athena.sase-6d.8/README.md) | sase-6d hood | active |
-| [sase-6d.8.f0](../agents/bbugyi200.athena.sase-6d.8.f0/README.md) | sase-6d hood | active |
-| [sase-6d.9](../agents/bbugyi200.athena.sase-6d.9/README.md) | sase-6d hood | active |
+| [sase-6d.1](../agents/bbugyi200.athena.sase-6d.1/README.md) | sase-6d hood | dismissed |
+| [sase-6d.2](../agents/bbugyi200.athena.sase-6d.2/README.md) | sase-6d hood | dismissed |
+| [sase-6d.3](../agents/bbugyi200.athena.sase-6d.3/README.md) | sase-6d hood | dismissed |
+| [sase-6d.4](../agents/bbugyi200.athena.sase-6d.4/README.md) | sase-6d hood | dismissed |
+| [sase-6d.5](../agents/bbugyi200.athena.sase-6d.5/README.md) | sase-6d hood | dismissed |
+| [sase-6d.6](../agents/bbugyi200.athena.sase-6d.6/README.md) | sase-6d hood | dismissed |
+| [sase-6d.8](../agents/bbugyi200.athena.sase-6d.8/README.md) | sase-6d hood | dismissed |
+| [sase-6d.8.f0](../agents/bbugyi200.athena.sase-6d.8.f0/README.md) | sase-6d hood | dismissed |
+| [sase-6d.9](../agents/bbugyi200.athena.sase-6d.9/README.md) | sase-6d hood | dismissed |

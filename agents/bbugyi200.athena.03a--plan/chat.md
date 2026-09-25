@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 03a--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-03a__plan-260816_090705.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-03a__code-260816_090705.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/ctrl_space_stale_prompt_context.md
 
 

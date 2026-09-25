@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:0lw.r0 This agent completed shortly after using its /sase_sudo skill. I did not receive a sudo gate notification. Can you help me diagnose the root cause of this issue and fix it? #plan %m:claude-fable-5

@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [0j9--0](../../../../../../families/bbugyi200.athena.0j9.md#member-0) | active | gpt-6-astra / codex | 2026-09-12T06:45:00.264628+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.0j9--0/prompt.md) |
+| [0j9--0](../../../../../../families/bbugyi200.athena.0j9.md#member-0) | active | gpt-6-astra / codex | 2026-09-12T06:45:00.264628+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.0j9--0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.0j9--0/chat.md) |

@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-n9` · Members: 7 · Bead: [sase-n9.1](
 ```mermaid
 flowchart TD
   n0["sase-n9.1--1 [completed]"]
-  n1["sase-n9.1--plan [completed]"]
+  n1["sase-n9.1--plan [active]"]
   n0 --> n1
   n2["sase-n9.1--3 [completed]"]
   n0 --> n2
@@ -28,7 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | sase-n9.1--1 | completed | sonnet / claude | 2026-08-16T16:24:34.477049+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-n9.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n9.1--1/chat.md) |
-| <a id="member-plan"></a>plan | sase-n9.1--plan | completed | sonnet / claude | 2026-08-16T16:04:18.078363+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-n9.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n9.1--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-n9.1--plan | active | sonnet / claude | 2026-08-16T16:04:18.078363+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-n9.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n9.1--plan/chat.md) |
 | <a id="member-3"></a>3 | sase-n9.1--3 | completed | sonnet / claude | 2026-08-16T16:55:22.516639+00:00 | [1](../agents/bbugyi200.athena.sase-n9.1--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-n9.1--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n9.1--3/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-n9.1--mon-0 | failed | sonnet / claude | 2026-08-16T16:25:21.749740+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-n9.1--mon-0/chat.md) |
 | <a id="member-2"></a>2 | sase-n9.1--2 | completed | sonnet / claude | 2026-08-16T16:35:37.595995+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-n9.1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n9.1--2/chat.md) |
@@ -45,7 +45,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-n9.2](../agents/bbugyi200.athena.sase-n9.2/README.md) | sase-n9 hood | completed |
-| [sase-n9.3](bbugyi200.athena.sase-n9.3.md) (family · 3) | sase-n9 hood | completed 2, failed 1 |
-| [sase-n9.4](bbugyi200.athena.sase-n9.4.md) (family · 3) | sase-n9 hood | completed 2, failed 1 |
-| [sase-n9.land](bbugyi200.athena.sase-n9.land.md) (family · 2) | sase-n9 hood | completed 2 |
+| [sase-n9.2](../agents/bbugyi200.athena.sase-n9.2/README.md) | sase-n9 hood | active |
+| [sase-n9.3](bbugyi200.athena.sase-n9.3.md) (family · 3) | sase-n9 hood | active 1, completed 1, failed 1 |
+| [sase-n9.4](bbugyi200.athena.sase-n9.4.md) (family · 3) | sase-n9 hood | active 1, completed 1, failed 1 |
+| [sase-n9.land](bbugyi200.athena.sase-n9.land.md) (family · 2) | sase-n9 hood | active 1, completed 1 |

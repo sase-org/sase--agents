@@ -17,5 +17,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [28](../bbugyi200.athena.28/README.md) | ancestor | active |
-| [28.f1.w1](../bbugyi200.athena.28.f1.w1/README.md) | descendant | active |
+| [28](../bbugyi200.athena.28/README.md) | ancestor | dismissed |
+| [28.f1.w1](../bbugyi200.athena.28.f1.w1/README.md) | descendant | waiting |

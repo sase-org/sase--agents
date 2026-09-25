@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-oc](../../users/bbugyi200/machines/athena/hoods/sase-oc/README.md) / sase-oc.5
 
-**Global name:** `bbugyi200.athena.sase-oc.5` · **State:** completed · **Source run:** `run-de1fbd81994c3941475ad6067cc653c2`
+**Global name:** `bbugyi200.athena.sase-oc.5` · **State:** active · **Source run:** `run-de1fbd81994c3941475ad6067cc653c2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-oc
 
@@ -17,7 +17,7 @@
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Prompt](prompt.md)
 
 ## Commits
 
@@ -29,11 +29,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-oc.1](../bbugyi200.athena.sase-oc.1/README.md) | sase-oc hood | completed |
-| [sase-oc.2](../bbugyi200.athena.sase-oc.2/README.md) | sase-oc hood | completed |
-| [sase-oc.3](../bbugyi200.athena.sase-oc.3/README.md) | sase-oc hood | completed |
-| [sase-oc.4](../bbugyi200.athena.sase-oc.4/README.md) | sase-oc hood | completed |
-| [sase-oc.6](../bbugyi200.athena.sase-oc.6/README.md) | sase-oc hood | completed |
-| [sase-oc.7](../bbugyi200.athena.sase-oc.7/README.md) | sase-oc hood | completed |
-| [sase-oc.8](../../families/bbugyi200.athena.sase-oc.8.md) (family · 9) | sase-oc hood | completed 5, failed 4 |
-| [sase-oc.land](../bbugyi200.athena.sase-oc.land/README.md) | sase-oc hood | completed |
+| [sase-oc.1](../bbugyi200.athena.sase-oc.1/README.md) | sase-oc hood | active |
+| [sase-oc.2](../bbugyi200.athena.sase-oc.2/README.md) | sase-oc hood | active |
+| [sase-oc.3](../bbugyi200.athena.sase-oc.3/README.md) | sase-oc hood | active |
+| [sase-oc.4](../bbugyi200.athena.sase-oc.4/README.md) | sase-oc hood | active |
+| [sase-oc.6](../bbugyi200.athena.sase-oc.6/README.md) | sase-oc hood | active |
+| [sase-oc.7](../bbugyi200.athena.sase-oc.7/README.md) | sase-oc hood | active |
+| [sase-oc.8](../../families/bbugyi200.athena.sase-oc.8.md) (family · 9) | sase-oc hood | active 9 |
+| [sase-oc.land](../bbugyi200.athena.sase-oc.land/README.md) | sase-oc hood | active |

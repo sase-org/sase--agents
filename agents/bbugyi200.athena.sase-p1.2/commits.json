@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8d9dc73a77afc2fc7f61fce162dece71"}
+{"commits":[{"committed_at":1787009066,"sha":"20ba691616734f2f92760c5bb58cd2070afc5d13","subject":"feat(glossary): add CLI add and del commands"}],"schema_version":2,"source_run_id":"run-8d9dc73a77afc2fc7f61fce162dece71"}

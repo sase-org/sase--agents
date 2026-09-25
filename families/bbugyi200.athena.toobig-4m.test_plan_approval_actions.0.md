@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `toobig-4m` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["toobig-4m.test_plan_approval_actions.0--plan [completed]"]
-  n1["toobig-4m.test_plan_approval_actions.0--mon [failed]"]
+  n0["toobig-4m.test_plan_approval_actions.0--plan [active]"]
+  n1["toobig-4m.test_plan_approval_actions.0--mon [active]"]
   n0 --> n1
   n2["toobig-4m.test_plan_approval_actions.0--1 [active]"]
   n0 --> n2
@@ -19,8 +19,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | toobig-4m.test\_plan\_approval\_actions.0--plan | completed | grok-4.6 / grok | 2026-08-30T13:39:31.990650+00:00 → 2026-08-30T13:49:32.492932+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-4m.test_plan_approval_actions.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-4m.test_plan_approval_actions.0--plan/chat.md) |
-| <a id="member-mon"></a>mon | toobig-4m.test\_plan\_approval\_actions.0--mon | failed | grok-4.6 / grok | 2026-08-30T13:49:25.035875+00:00 → 2026-08-30T14:04:31.796874+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-4m.test_plan_approval_actions.0--mon/chat.md) |
+| <a id="member-plan"></a>plan | toobig-4m.test\_plan\_approval\_actions.0--plan | active | grok-4.6 / grok | 2026-08-30T13:39:31.990650+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-4m.test_plan_approval_actions.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-4m.test_plan_approval_actions.0--plan/chat.md) |
+| <a id="member-mon"></a>mon | toobig-4m.test\_plan\_approval\_actions.0--mon | active | grok-4.6 / grok | 2026-08-30T13:49:25.035875+00:00 | 0 | — | — |
 | <a id="member-1"></a>1 | toobig-4m.test\_plan\_approval\_actions.0--1 | active | grok-4.6 / grok | 2026-08-30T14:04:47.591118+00:00 | [1](../agents/bbugyi200.athena.toobig-4m.test_plan_approval_actions.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-4m.test_plan_approval_actions.0--1/prompt.md) | — |
 
 ## Commits

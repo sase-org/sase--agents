@@ -32,4 +32,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [kh](../agents/bbugyi200.athena.kh/README.md) | ancestor | completed |
 | [kh.f0](../agents/bbugyi200.athena.kh.f0/README.md) | kh hood | waiting |
-| [kh.f1](../agents/bbugyi200.athena.kh.f1/README.md) | kh hood | active |
+| [kh.f1](../agents/bbugyi200.athena.kh.f1/README.md) | kh hood | dismissed |

@@ -16,18 +16,18 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-18d.7.1](../bbugyi200.athena.sase-18d.7.1/README.md) | sase-18d.7 hood | completed |
-| [sase-18d.7.2](../../families/bbugyi200.athena.sase-18d.7.2.md) (family · 3) | sase-18d.7 hood | completed 2, failed 1 |
-| [sase-18d.1](../bbugyi200.athena.sase-18d.1/README.md) | sase-18d hood | completed |
-| [sase-18d.2](../bbugyi200.athena.sase-18d.2/README.md) | sase-18d hood | completed |
-| [sase-18d.3](../bbugyi200.athena.sase-18d.3/README.md) | sase-18d hood | completed |
-| [sase-18d.4](../bbugyi200.athena.sase-18d.4/README.md) | sase-18d hood | completed |
-| [sase-18d.5](../bbugyi200.athena.sase-18d.5/README.md) | sase-18d hood | completed |
-| [sase-18d.6](../bbugyi200.athena.sase-18d.6/README.md) | sase-18d hood | completed |
-| [sase-18d.land](../../families/bbugyi200.athena.sase-18d.land.md) (family · 3) | sase-18d hood | failed 3 |
+| [sase-18d.7.1](../bbugyi200.athena.sase-18d.7.1/README.md) | sase-18d.7 hood | active |
+| [sase-18d.7.2](../../families/bbugyi200.athena.sase-18d.7.2.md) (family · 3) | sase-18d.7 hood | active 3 |
+| [sase-18d.1](../bbugyi200.athena.sase-18d.1/README.md) | sase-18d hood | active |
+| [sase-18d.2](../bbugyi200.athena.sase-18d.2/README.md) | sase-18d hood | active |
+| [sase-18d.3](../bbugyi200.athena.sase-18d.3/README.md) | sase-18d hood | active |
+| [sase-18d.4](../bbugyi200.athena.sase-18d.4/README.md) | sase-18d hood | active |
+| [sase-18d.5](../bbugyi200.athena.sase-18d.5/README.md) | sase-18d hood | active |
+| [sase-18d.6](../bbugyi200.athena.sase-18d.6/README.md) | sase-18d hood | active |
+| [sase-18d.land](../../families/bbugyi200.athena.sase-18d.land.md) (family · 3) | sase-18d hood | active 3 |

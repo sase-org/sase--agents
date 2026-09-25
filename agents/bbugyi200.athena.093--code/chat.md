@@ -1,0 +1,157 @@
+# Chat History - ace-run (093--code)
+
+- **TIMESTAMP:** 2026-08-21 08:54:04 EDT
+- **MODEL:** codex/gpt-5.5
+- **AGENT:** 093--code
+
+## Linked Chats
+
+- 1. --plan — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-093__plan-260821_081717.md`
+- **2. --code** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-093__code-260821_081717.md`
+
+## Prompt
+
+%model:@medium
+#gh:gh_sase-org__sase @sase/repos/plans/202608/runner_statistics_peak.md
+
+The above plan has been reviewed and approved. Implement it now.
+
+
+## Response
+
+I’ll read the approved plan first, then trace the affected code paths before editing. The requested `/sase_final` skill is not in the available skill list, so I’ll use the underlying `sase final` CLI flow at the end if it is available.
+
+The plan spans the main Python repo plus the linked Rust core repo. I’m loading the repo-opening skill now because the project instructions require it before touching any linked checkout.
+
+I’ve confirmed the approved plan and the linked-repo access rule. Next I’m opening `sase-core` through the audited SASE repo path, then I’ll locate the historical occupancy implementation and its tests.
+
+The Python side already has a monitor role helper, but the runner-slot admission code still appears to treat any `monitor_id` as monitor occupancy. I’m checking the Rust core implementation now to see where the same predicate needs to live.
+
+The Rust search was noisy, but it points at `agent_stats` and the Python `is_runner_slot_occupying_record` issue is concrete. I’m narrowing to the Rust statistics modules and the existing parity tests before making a scoped patch.
+
+There’s an existing parity suite that intentionally mirrors Python live occupancy against Rust historical stats; its current helper also treats any `monitor_id` as monitor-like. I’m going to correct that fixture model alongside the production predicates so the tests encode the role-plus-id contract.
+
+The core bug is visible in Rust: `monitor` contributions are keyed from non-empty `monitor_id`, and the overlap prefilter falls back to parsing artifact directory timestamps as UTC. I’m reading the shared runtime module next because that’s where the durable predicate and start-time logic should be centralized.
+
+The Rust live snapshot code has the same monitor-id-only branch, and the existing tests don’t set `agent_family_role` on monitor fixtures. I’m preparing edits in shared runtime code first, then I’ll update Python and parity fixtures to match.
+
+The linked core repo has the needed `agent_family_role` field already, so this is mostly predicate cleanup plus regressions. Before editing I’m checking both worktrees so I don’t overwrite unrelated changes.
+
+I’m making the core patch now: a real monitor becomes `agent_family_role == "monitor"` plus a non-empty `monitor_id`, historical starts come only from `run_started_at`, and old serial family rows can still be carried in solely to fill real monitor handoff gaps without polluting window diagnostics.
+
+The shared Rust runtime predicate is in place. I’m wiring it into statistics contribution merging and query candidate selection next, including a carry-in path for pre-window serial members that only exists to preserve true monitor handoff continuity.
+
+The statistics query now avoids artifact timestamp starts and carries pre-window serial rows only for handoff reconstruction. I’m also updating monitor indexing to use the same centralized role-plus-id predicate so list/query behavior cannot drift.
+
+Core behavior is patched; now I’m updating the Rust tests that previously used `monitor_id` alone. I’m adding negative coverage for inherited monitor IDs and timestamp-created backward movement.
+
+I noticed one timestamp regression needs to be asserted from a wider query, because the old path only shifted a true monitor backward after the row was already selected. I’m tightening that test so it catches both inherited IDs and pre-created monitor artifact timestamps.
+
+Rust tests are updated. I’m applying the same contract to Python live runner occupancy and its unit fixtures now, using a small shared helper in `monitor_state.py`.
+
+The Python live tests now distinguish true monitors from inherited IDs. I’m adjusting the Rust/Python parity fixture so it models explicit monitor roles and adds the negative inherited-id case.
+
+The user-facing monitor docs already describe the real monitor member, so the production docstring change is enough there. I’m checking adjacent Python display code for any local occupancy shortcut that still uses `monitor_id` alone.
+
+The adjacent listing code already requires both `monitor_id` and monitor-member classification for monitor-specific rows, and slot occupancy now delegates to the fixed predicate. I’m moving on to formatting and focused test runs for the Rust core.
+
+I’ve finished the first round of code changes. I’m formatting the Rust workspace now, then I’ll run focused Rust tests to catch any predicate or query-selection issues before installing bindings.
+
+Formatting completed cleanly. I’m checking the diff shape briefly, then I’ll run the focused Rust test modules that cover runtime occupancy and runner statistics.
+
+The diff is the intended scope. I’m starting with targeted Rust tests for `agent_runtime`, `agent_stats::runner`, and `agent_stats::run`; if package names differ I’ll adjust from the Cargo metadata.
+
+`cargo test` only accepts one name filter per invocation. I’m running the focused filters separately to avoid noisy full-suite output.
+
+The first Rust test run is compiling the core crate in this workspace. I’ll poll it and then run the statistics filters once the initial build finishes.
+
+`agent_runtime` focused tests passed, including the inherited-monitor and artifact-start regression. I’m running the runner statistics unit filters now.
+
+The runner builder tests passed too. I’m running the `agent_stats::run` runner tests next; these include the broad-vs-nested query regression.
+
+The focused statistics tests passed. I changed the monitor index predicate as well, so I’m running the monitor-index filter before rebuilding the Python binding.
+
+All focused Rust-side tests passed. I’m checking the linked core repo’s supported commands so I can rebuild/install the Python extension the way this workspace expects.
+
+The primary repo exposes the binding install recipe (`just rust-dev-install`/`rust-install`). Per the project instructions, I’m going to refresh the Python editable install first, then install the Rust extension into that venv.
+
+`.venv` exists in the primary workspace. I’m running `just install` now because this repo’s instructions require it before verification, then I’ll build the local Rust binding into that environment.
+
+`just install` is rebuilding `sase_core_rs` from the linked core checkout as part of the editable install. I’m letting that complete before running Python-side focused tests.
+
+The install is still building the local Rust extension; no failures so far. I’ll continue once the wheel install finishes.
+
+The build is still in progress, likely linking the PyO3 extension now. I’m waiting for the install result rather than starting any parallel Python checks against a stale binding.
+
+No new output yet; the install command is still alive. I’m continuing to wait so the verification uses the rebuilt binding from this change.
+
+The PyO3 crate is compiling now. After this finishes I’ll run the focused Python runner-slot, binding-smoke, statistics, and parity tests called out by the plan.
+
+Still building the extension; no error output. I’ll keep polling until it exits, then proceed with focused verification.
+
+The build is taking a while but remains active. I’m waiting it out because rebuilding the local extension is necessary for the Python parity and binding tests to be meaningful.
+
+No change yet; the Rust extension compile is still running. I’ll continue polling rather than interrupting the install.
+
+`just install` completed and installed the rebuilt `sase_core_rs` into `.venv`. I’m formatting the Python edits, then I’ll run the focused test set.
+
+Python formatting left files unchanged. I’m running the focused Python suite now: live runner slots, Rust binding smoke, runner stats views, TUI runner views, and Rust/Python occupancy parity.
+
+The focused Python suite passed: 75 tests. I’m running the linked core repo’s required check next, since the Rust crate changed beyond just local unit tests.
+
+The core `just check` is compiling/clippy-checking the whole Rust workspace now. I’ll wait for that result before running the primary repo gate.
+
+Core `just check` finished its first check phase and has moved into workspace tests. I’ll keep waiting for the final result.
+
+The full Rust workspace test build is still running. No failures yet; I’ll poll again shortly.
+
+The linked core repo’s full `just check` passed. Before the final primary gate, I’m locating the local statistics index/query entrypoint so I can verify the real seven-day and nested windows against the rebuilt binding.
+
+I’m going to query the default local artifact index directly with the rebuilt binding: seven days ending now, then the highest-peak nested trend slice from that same result. That checks the real overlap-window invariant instead of relying only on fixtures.
+
+The real seven-day query now peaks at 13, not the previously reported 31, and the highest one-hour nested query matches the broad slice exactly. I’ll run the primary repo’s required `just check` now.
+
+`just check` is running in the primary repo. Formatting and Ruff have passed; the remaining lint/type/test-selection gates are still in progress.
+
+Mypy has passed. I’m waiting on the remaining repository checks and scoped tests.
+
+The lightweight lint gates are passing as well. `just check` is now into the slower structural checks and scoped test lane.
+
+`just check` failed in Symvision on unrelated existing private-import violations outside this change. Because that’s a Symvision failure domain and a discovered repo issue, I’m reading the required Symvision memory and the new-task workflow before deciding whether to file it instead of masking it.
+
+I’m following the project’s required workflow for this failure: first audit the new-task skill use, then read the Symvision and task-bead memory notes through `sase memory read`.
+
+The Symvision failure is a confirmed lint gate failure, so it belongs to the `ci` task type if no duplicate exists. I’m searching existing tasks and recent task beads before creating anything.
+
+The search found prior Symvision tasks, but the closest hits look either closed or about different symbol sets. I’m showing the plausible candidates and active epics to decide whether this is a duplicate or a new CI task.
+
+This Symvision failure is already routed to active epic `sase-rm`; its notes name the same `_ProcProducerSite`, finalizer, declaration, and `_result_changed_files` symbols. I’m adding this run’s independent reproduction there instead of creating a duplicate task bead.
+
+I recorded the Symvision blocker on the active owning epic. Since the primary `just check` still fails at that same unrelated gate, I’m checking the worktree status and then I’ll inspect the final diff before the final declaration.
+
+The worktrees contain only the intended files. I’m doing one last functional check of the runner view model with the real seven-day payload so the current runner limit remains separate from the historical peak.
+
+All implementation and verification work is done. The named `/sase_final` skill is unavailable in this session, so I’m using the required `sase final` CLI flow now as the last action before my final response.
+
+The finalizer requires a commit declaration for both dirty repositories. I’m submitting the manifest now with the completed-work commit message for the main repo and linked core repo.
+
+Implemented the approved runner statistics peak fix across both repos.
+
+What changed:
+- Rust core now treats a real monitor as `agent_family_role == "monitor"` plus non-empty `monitor_id`.
+- Historical runner occupancy uses `run_started_at` only, no artifact-directory timestamp backfill.
+- Monitor handoff continuity is preserved by carrying prior serial family intervals into nested windows.
+- Python live runner occupancy now uses the same real-monitor predicate.
+- Added regressions for inherited `monitor_id`, monitor handoff continuity, artifact timestamp backdating, broad/nested query invariance, and Python/Rust parity.
+
+Verification:
+- Linked `sase-core` focused Rust tests passed.
+- Linked `sase-core` `just check` passed.
+- Primary `just install` passed and rebuilt `sase_core_rs`.
+- Focused Python suite passed: `75 passed`.
+- Real local seven-day stats query now reports peak `13`, not `31`; highest nested hour also reports peak `13` with matching runner-seconds.
+- Runner view keeps current limit separate: peak `13`, current limit `10`.
+
+Primary `just check` is still blocked by an unrelated existing Symvision private-import failure in proc/finalizer/declaration files. I recorded this reproduction on the active owning epic `sase-rm`.
+
+Final declaration was accepted for the required commit finalizer.

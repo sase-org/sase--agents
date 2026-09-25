@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5s](../../users/bbugyi200/machines/athena/hoods/toobig-5s/README.md) / toobig-5s.models.0
 
-**Global name:** `bbugyi200.athena.toobig-5s.models.0` · **State:** completed · **Source run:** `run-e8028ebcc90ac5239719e2d48d6a6d68`
+**Global name:** `bbugyi200.athena.toobig-5s.models.0` · **State:** active · **Source run:** `run-e8028ebcc90ac5239719e2d48d6a6d68`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-5s
 
@@ -10,7 +10,7 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-22T07:26:53.430535+00:00 → 2026-09-22T07:47:07.649380+00:00
+- Timing: 2026-09-22T07:26:53.430535+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-5s.test\_preview\_panel\_modal.0](../bbugyi200.athena.toobig-5s.test_preview_panel_modal.0/README.md) | toobig-5s hood | completed |
+| [toobig-5s.test\_preview\_panel\_modal.0](../bbugyi200.athena.toobig-5s.test_preview_panel_modal.0/README.md) | toobig-5s hood | active |
 | [toobig-5s.test\_update\_command\_live\_timeline.0](../bbugyi200.athena.toobig-5s.test_update_command_live_timeline.0/README.md) | toobig-5s hood | active |

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I continue to receive these gate shell errors from axe (see the ~/.sase/axe/error_digests/digest_20260912_132500.txt file for context). Can you help me diagnose the root cause of this issue and fix it? #plan %m:opus

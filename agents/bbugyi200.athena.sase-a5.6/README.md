@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-a5](../../users/bbugyi200/machines/athena/hoods/sase-a5/README.md) / sase-a5.6
 
-**Global name:** `bbugyi200.athena.sase-a5.6` · **State:** active · **Source run:** `run-26a6a02e8d035771cf39c6b597b69ecf`
+**Global name:** `bbugyi200.athena.sase-a5.6` · **State:** dismissed · **Source run:** `run-26a6a02e8d035771cf39c6b597b69ecf`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-a5
 
@@ -11,12 +11,12 @@
 - Bead: [sase-a5.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-a5/sase-a5.6.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-07-28T09:37:17.482885+00:00
+- Timing: 2026-07-28T05:37:17.482885 → 2026-07-28T06:02:01.129416
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -34,4 +34,4 @@
 | [sase-a5.4](../bbugyi200.athena.sase-a5.4/README.md) | sase-a5 hood | active |
 | [sase-a5.5](../bbugyi200.athena.sase-a5.5/README.md) | sase-a5 hood | active |
 | [sase-a5.land](../bbugyi200.athena.sase-a5.land/README.md) | sase-a5 hood | active |
-| [sase-a5.land.f0](../bbugyi200.athena.sase-a5.land.f0/README.md) | sase-a5 hood | active |
+| [sase-a5.land.f0](../bbugyi200.athena.sase-a5.land.f0/README.md) | sase-a5 hood | dismissed |

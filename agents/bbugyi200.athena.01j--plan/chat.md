@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 01j--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-01j__plan-260814_133623.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-01j__code-260814_133623.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/inherit_vcs_xprompt_on_add_pane.md
 
 

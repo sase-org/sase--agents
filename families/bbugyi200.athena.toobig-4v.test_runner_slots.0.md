@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `toobig-4v` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["toobig-4v.test_runner_slots.0--mon [failed]"]
-  n1["toobig-4v.test_runner_slots.0--1 [completed]"]
+  n0["toobig-4v.test_runner_slots.0--mon [active]"]
+  n1["toobig-4v.test_runner_slots.0--1 [active]"]
   n0 --> n1
-  n2["toobig-4v.test_runner_slots.0--plan [completed]"]
+  n2["toobig-4v.test_runner_slots.0--plan [active]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | toobig-4v.test\_runner\_slots.0--mon | failed | sonnet / claude | 2026-09-07T07:53:36.970919+00:00 → 2026-09-07T07:58:08.058722+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--mon/chat.md) |
-| <a id="member-1"></a>1 | toobig-4v.test\_runner\_slots.0--1 | completed | sonnet / claude | 2026-09-07T07:58:29.691514+00:00 → 2026-09-07T08:01:00.003356+00:00 | [1](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--1/chat.md) |
-| <a id="member-plan"></a>plan | toobig-4v.test\_runner\_slots.0--plan | completed | sonnet / claude | 2026-09-07T07:46:41.511204+00:00 → 2026-09-07T07:53:47.302714+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--plan/chat.md) |
+| <a id="member-mon"></a>mon | toobig-4v.test\_runner\_slots.0--mon | active | sonnet / claude | 2026-09-07T07:53:36.970919+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--mon/chat.md) |
+| <a id="member-1"></a>1 | toobig-4v.test\_runner\_slots.0--1 | active | sonnet / claude | 2026-09-07T07:58:29.691514+00:00 | [1](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--1/chat.md) |
+| <a id="member-plan"></a>plan | toobig-4v.test\_runner\_slots.0--plan | active | sonnet / claude | 2026-09-07T07:46:41.511204+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-4v.test_runner_slots.0--plan/chat.md) |
 
 ## Commits
 
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-4v.federation.0](../agents/bbugyi200.athena.toobig-4v.federation.0/README.md) | toobig-4v hood | completed |
-| [toobig-4v.test\_agent\_loader.0](../agents/bbugyi200.athena.toobig-4v.test_agent_loader.0/README.md) | toobig-4v hood | completed |
-| [toobig-4v.test\_fleet\_contract\_sase\_core\_rs.0](../agents/bbugyi200.athena.toobig-4v.test_fleet_contract_sase_core_rs.0/README.md) | toobig-4v hood | completed |
+| [toobig-4v.federation.0](../agents/bbugyi200.athena.toobig-4v.federation.0/README.md) | toobig-4v hood | active |
+| [toobig-4v.test\_agent\_loader.0](../agents/bbugyi200.athena.toobig-4v.test_agent_loader.0/README.md) | toobig-4v hood | active |
+| [toobig-4v.test\_fleet\_contract\_sase\_core\_rs.0](../agents/bbugyi200.athena.toobig-4v.test_fleet_contract_sase_core_rs.0/README.md) | toobig-4v hood | active |
 | [toobig-4v.test\_running\_agents\_snapshot.0](../agents/bbugyi200.athena.toobig-4v.test_running_agents_snapshot.0/README.md) | toobig-4v hood | active |

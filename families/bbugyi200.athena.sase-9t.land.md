@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-9t.land.w0](../agents/bbugyi200.athena.sase-9t.land.w0/README.md) | descendant | active |
+| [sase-9t.land.w0](../agents/bbugyi200.athena.sase-9t.land.w0/README.md) | descendant | dismissed |
 | [sase-9t.1](../agents/bbugyi200.athena.sase-9t.1/README.md) | sase-9t hood | active |
 | [sase-9t.2](../agents/bbugyi200.athena.sase-9t.2/README.md) | sase-9t hood | active |
 | [sase-9t.3](../agents/bbugyi200.athena.sase-9t.3/README.md) | sase-9t hood | active |

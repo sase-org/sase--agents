@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-11e` · Members: 3 · Bead: [sase-11e.8
 
 ```mermaid
 flowchart TD
-  n0["sase-11e.8.6.5.land--plan [failed]"]
-  n1["sase-11e.8.6.5.land--gate [failed]"]
+  n0["sase-11e.8.6.5.land--plan [active]"]
+  n1["sase-11e.8.6.5.land--gate [active]"]
   n0 --> n1
-  n2["sase-11e.8.6.5.land--mon [failed]"]
+  n2["sase-11e.8.6.5.land--mon [active]"]
   n0 --> n2
 ```
 
@@ -19,23 +19,23 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-11e.8.6.5.land--plan | failed | opus / claude | 2026-09-16T18:35:05.594620+00:00 → 2026-09-16T18:58:23.721980+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11e.8.6.5.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11e.8.6.5.land--plan/chat.md) |
-| <a id="member-gate"></a>gate | sase-11e.8.6.5.land--gate | failed | opus / claude | 2026-09-16T18:55:59.089750+00:00 → 2026-09-16T18:58:14.128569+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11e.8.6.5.land--gate/chat.md) |
-| <a id="member-mon"></a>mon | sase-11e.8.6.5.land--mon | failed | opus / claude | 2026-09-16T18:58:03.846409+00:00 → 2026-09-16T19:01:53.773355+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11e.8.6.5.land--mon/chat.md) |
+| <a id="member-plan"></a>plan | sase-11e.8.6.5.land--plan | active | opus / claude | 2026-09-16T18:35:05.594620+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-11e.8.6.5.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-11e.8.6.5.land--plan/chat.md) |
+| <a id="member-gate"></a>gate | sase-11e.8.6.5.land--gate | active | opus / claude | 2026-09-16T18:55:59.089750+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11e.8.6.5.land--gate/chat.md) |
+| <a id="member-mon"></a>mon | sase-11e.8.6.5.land--mon | active | opus / claude | 2026-09-16T18:58:03.846409+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-11e.8.6.5.land--mon/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-11e.8.6.5.1](../agents/bbugyi200.athena.sase-11e.8.6.5.1/README.md) | sase-11e.8.6.5 hood | completed |
-| [sase-11e.8.6.5.2](../agents/bbugyi200.athena.sase-11e.8.6.5.2/README.md) | sase-11e.8.6.5 hood | completed |
-| [sase-11e.8.6.5.3](../agents/bbugyi200.athena.sase-11e.8.6.5.3/README.md) | sase-11e.8.6.5 hood | completed |
+| [sase-11e.8.6.5.1](../agents/bbugyi200.athena.sase-11e.8.6.5.1/README.md) | sase-11e.8.6.5 hood | active |
+| [sase-11e.8.6.5.2](../agents/bbugyi200.athena.sase-11e.8.6.5.2/README.md) | sase-11e.8.6.5 hood | active |
+| [sase-11e.8.6.5.3](../agents/bbugyi200.athena.sase-11e.8.6.5.3/README.md) | sase-11e.8.6.5 hood | active |
 | [sase-11e.8.6.5.4.1](../agents/bbugyi200.athena.sase-11e.8.6.5.4.1/README.md) | sase-11e.8.6.5 hood | active |
-| [sase-11e.8.6.5.4.2](bbugyi200.athena.sase-11e.8.6.5.4.2.md) (family · 3) | sase-11e.8.6.5 hood | completed 2, failed 1 |
+| [sase-11e.8.6.5.4.2](bbugyi200.athena.sase-11e.8.6.5.4.2.md) (family · 3) | sase-11e.8.6.5 hood | active 3 |
 | [sase-11e.8.6.5.4.3](../agents/bbugyi200.athena.sase-11e.8.6.5.4.3/README.md) | sase-11e.8.6.5 hood | active |
-| [sase-11e.8.6.5.4.4](../agents/bbugyi200.athena.sase-11e.8.6.5.4.4/README.md) | sase-11e.8.6.5 hood | completed |
-| [sase-11e.8.6.5.4.5](../agents/bbugyi200.athena.sase-11e.8.6.5.4.5/README.md) | sase-11e.8.6.5 hood | waiting |
-| [sase-11e.8.6.5.4.land](../agents/bbugyi200.athena.sase-11e.8.6.5.4.land/README.md) | sase-11e.8.6.5 hood | waiting |
+| [sase-11e.8.6.5.4.4](../agents/bbugyi200.athena.sase-11e.8.6.5.4.4/README.md) | sase-11e.8.6.5 hood | active |
+| [sase-11e.8.6.5.4.5](bbugyi200.athena.sase-11e.8.6.5.4.5.md) (family · 3) | sase-11e.8.6.5 hood | active 3 |
+| [sase-11e.8.6.5.4.land](bbugyi200.athena.sase-11e.8.6.5.4.land.md) (family · 3) | sase-11e.8.6.5 hood | active 2, completed 1 |
 | [sase-11e.8.6.1](../agents/bbugyi200.athena.sase-11e.8.6.1/README.md) | sase-11e.8.6 hood | active |
 | [sase-11e.8.6.2](../agents/bbugyi200.athena.sase-11e.8.6.2/README.md) | sase-11e.8.6 hood | active |
 | [sase-11e.8.6.3](../agents/bbugyi200.athena.sase-11e.8.6.3/README.md) | sase-11e.8.6 hood | active |

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789762026,"sha":"571039e118dd647ec1d5c9d291c4f4a9f0051195","subject":"feat(tui): accept prompt completions with Ctrl+G instead of Enter"}],"schema_version":2,"source_run_id":"run-1088adf1273edae800ac4c2205f689ed"}

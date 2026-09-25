@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can each machine managed by sase's remote dispatch functionality use the same sase config once the work is complete? See the sase-xe epic bead and the remote_machine_management_enablement.md file in the research sidecar repo for context. %m:opus

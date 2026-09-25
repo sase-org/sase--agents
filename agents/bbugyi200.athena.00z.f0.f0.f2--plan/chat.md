@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 00z.f0.f0.f2--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-00z_f0_f0_f2__plan-260814_103320.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-00z_f0_f0_f2__code-260814_103320.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/tmux_ai_window_disabled_providers.md
 
 

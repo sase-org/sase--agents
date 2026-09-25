@@ -1,0 +1,27 @@
+# Agent: sase-11o.2.f1--gate
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-11o](../../users/bbugyi200/machines/athena/hoods/sase-11o/README.md) / [sase-11o.2.f1](../../families/bbugyi200.athena.sase-11o.2.f1.md) / sase-11o.2.f1--gate
+
+**Global name:** `bbugyi200.athena.sase-11o.2.f1--gate` · **State:** failed · **Source run:** `run-d4c86b5d0cb877f0d4508fa8a7fd8bc3`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-11o
+
+## Summary
+
+- Model: gpt-6-astra
+- Provider: codex
+- Timing: 2026-09-17T11:45:33.040282+00:00 → 2026-09-17T11:46:30.131130+00:00
+- Commits: 0
+
+## Files
+
+[Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-11o.2](../bbugyi200.athena.sase-11o.2/README.md) | ancestor | active |
+| [sase-11o.2.f0](../../families/bbugyi200.athena.sase-11o.2.f0.md) (family · 4) | sase-11o.2 hood | active 1, completed 1, failed 2 |
+| [sase-11o.1](../bbugyi200.athena.sase-11o.1/README.md) | sase-11o hood | active |
+| [sase-11o.land](../bbugyi200.athena.sase-11o.land/README.md) | sase-11o hood | active |

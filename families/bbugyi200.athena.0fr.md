@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `0fr` · Members: 5
 
 ```mermaid
 flowchart TD
-  n0["0fr--1 [active]"]
-  n1["0fr--plan [completed]"]
+  n0["0fr--1 [completed]"]
+  n1["0fr--plan [active]"]
   n0 --> n1
   n2["0fr--gate [failed]"]
   n0 --> n2
@@ -23,8 +23,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | 0fr--1 | active | grok-4.6 / grok | 2026-08-28T22:00:24.484092+00:00 | [1](../agents/bbugyi200.athena.0fr--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0fr--1/prompt.md) | — |
-| <a id="member-plan"></a>plan | 0fr--plan | completed | opus / claude | 2026-08-28T20:54:05.140551+00:00 → 2026-08-28T21:09:20.150859+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0fr--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0fr--plan/chat.md) |
+| <a id="member-1"></a>1 | 0fr--1 | completed | grok-4.6 / grok | 2026-08-28T22:00:24.484092+00:00 → 2026-08-28T22:37:59.491878+00:00 | [1](../agents/bbugyi200.athena.0fr--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0fr--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0fr--1/chat.md) |
+| <a id="member-plan"></a>plan | 0fr--plan | active | opus / claude | 2026-08-28T20:54:05.140551+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0fr--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0fr--plan/chat.md) |
 | <a id="member-gate"></a>gate | 0fr--gate | failed | opus / claude | 2026-08-28T21:09:12.737512+00:00 → 2026-08-28T21:10:19.198212+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0fr--gate/chat.md) |
 | <a id="member-mon"></a>mon | 0fr--mon | failed | grok-4.6 / grok | 2026-08-28T21:54:41.535886+00:00 → 2026-08-28T22:00:07.190891+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0fr--mon/chat.md) |
 | <a id="member-code"></a>code | 0fr--code | completed | grok-4.6 / grok | 2026-08-28T21:10:25.429517+00:00 → 2026-08-28T21:54:49.996383+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0fr--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0fr--code/chat.md) |

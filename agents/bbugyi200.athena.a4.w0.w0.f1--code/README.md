@@ -30,5 +30,5 @@
 | [a4.w0.w0](../../families/bbugyi200.athena.a4.w0.w0.md) (family · 2) | ancestor | active 1, completed 1 |
 | [a4.w0](../../families/bbugyi200.athena.a4.w0.md) (family · 2) | ancestor | active 1, completed 1 |
 | [a4](../../families/bbugyi200.athena.a4.md) (family · 2) | ancestor | active 1, completed 1 |
-| [a4.w0.w0.f1.f0](../bbugyi200.athena.a4.w0.w0.f1.f0/README.md) | descendant | active |
+| [a4.w0.w0.f1.f0](../bbugyi200.athena.a4.w0.w0.f1.f0/README.md) | descendant | dismissed |
 | [a4.w0.w0.f0](../../families/bbugyi200.athena.a4.w0.w0.f0.md) (family · 2) | a4.w0.w0 hood | active 1, completed 1 |

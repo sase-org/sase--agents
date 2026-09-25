@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-n4` · Members: 2 · Bead: [sase-n4.5](
 
 ```mermaid
 flowchart TD
-  n0["sase-n4.5.land--plan [failed]"]
+  n0["sase-n4.5.land--plan [active]"]
   n1["sase-n4.5.land--mon [failed]"]
   n0 --> n1
 ```
@@ -17,18 +17,18 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-n4.5.land--plan | failed | gpt-5.6-sol / codex | 2026-08-16T20:20:17.192982+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-n4.5.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n4.5.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-n4.5.land--plan | active | gpt-5.6-sol / codex | 2026-08-16T20:20:17.192982+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-n4.5.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n4.5.land--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-n4.5.land--mon | failed | gpt-5.6-sol / codex | 2026-08-16T20:52:05.165236+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-n4.5.land--mon/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-n4.5.1](../agents/bbugyi200.athena.sase-n4.5.1/README.md) | sase-n4.5 hood | dismissed |
-| [sase-n4.5.2](../agents/bbugyi200.athena.sase-n4.5.2/README.md) | sase-n4.5 hood | completed |
-| [sase-n4.5.3](../agents/bbugyi200.athena.sase-n4.5.3/README.md) | sase-n4.5 hood | completed |
-| [sase-n4.1](../agents/bbugyi200.athena.sase-n4.1/README.md) | sase-n4 hood | completed |
-| [sase-n4.2](../agents/bbugyi200.athena.sase-n4.2/README.md) | sase-n4 hood | completed |
-| [sase-n4.3](../agents/bbugyi200.athena.sase-n4.3/README.md) | sase-n4 hood | completed |
-| [sase-n4.4](../agents/bbugyi200.athena.sase-n4.4/README.md) | sase-n4 hood | dismissed |
-| [sase-n4.land](bbugyi200.athena.sase-n4.land.md) (family · 2) | sase-n4 hood | failed 2 |
+| [sase-n4.5.1](../agents/bbugyi200.athena.sase-n4.5.1/README.md) | sase-n4.5 hood | active |
+| [sase-n4.5.2](../agents/bbugyi200.athena.sase-n4.5.2/README.md) | sase-n4.5 hood | active |
+| [sase-n4.5.3](../agents/bbugyi200.athena.sase-n4.5.3/README.md) | sase-n4.5 hood | active |
+| [sase-n4.1](../agents/bbugyi200.athena.sase-n4.1/README.md) | sase-n4 hood | active |
+| [sase-n4.2](../agents/bbugyi200.athena.sase-n4.2/README.md) | sase-n4 hood | active |
+| [sase-n4.3](../agents/bbugyi200.athena.sase-n4.3/README.md) | sase-n4 hood | active |
+| [sase-n4.4](../agents/bbugyi200.athena.sase-n4.4/README.md) | sase-n4 hood | active |
+| [sase-n4.land](bbugyi200.athena.sase-n4.land.md) (family · 2) | sase-n4 hood | active 1, failed 1 |

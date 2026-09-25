@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-0"></a>0 | 06c--0 | active | gpt-5.5 / codex | 2026-09-07T21:29:40.446240+00:00 | [1](../agents/bbugyi200.athena.06c--0/README.md#commits) | [Prompt](../agents/bbugyi200.athena.06c--0/prompt.md) | — |
+| <a id="member-0"></a>0 | 06c--0 | active | gpt-5.5 / codex | 2026-09-07T21:29:40.446240+00:00 | [1](../agents/bbugyi200.athena.06c--0/README.md#commits) | [Prompt](../agents/bbugyi200.athena.06c--0/prompt.md) | [Chat](../agents/bbugyi200.athena.06c--0/chat.md) |
 | <a id="member-gate"></a>gate | 06c--gate | failed | gpt-5.5 / codex | 2026-09-07T21:46:34.461185+00:00 → 2026-09-07T21:46:43.248890+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.06c--gate/chat.md) |
 
 ## Commits

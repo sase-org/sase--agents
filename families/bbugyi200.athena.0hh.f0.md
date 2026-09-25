@@ -11,7 +11,7 @@ flowchart TD
   n0["0hh.f0--gate [failed]"]
   n1["0hh.f0--code [completed]"]
   n0 --> n1
-  n2["0hh.f0--plan [completed]"]
+  n2["0hh.f0--plan [active]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 0hh.f0--gate | failed | gpt-6-astra / codex | 2026-09-09T17:35:01.105926+00:00 → 2026-09-09T17:41:58.524090+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0hh.f0--gate/chat.md) |
 | <a id="member-code"></a>code | 0hh.f0--code | completed | gpt-5.5 / codex | 2026-09-09T17:42:06.171792+00:00 → 2026-09-09T18:55:26.215966+00:00 | [1](../agents/bbugyi200.athena.0hh.f0--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0hh.f0--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0hh.f0--code/chat.md) |
-| <a id="member-plan"></a>plan | 0hh.f0--plan | completed | gpt-6-astra / codex | 2026-09-09T17:25:29.866046+00:00 → 2026-09-09T17:35:18.381314+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0hh.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0hh.f0--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0hh.f0--plan | active | gpt-6-astra / codex | 2026-09-09T17:25:29.866046+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0hh.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0hh.f0--plan/chat.md) |
 
 ## Commits
 
@@ -33,4 +33,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [0hh](../agents/bbugyi200.athena.0hh/README.md) | ancestor | dismissed |
+| [0hh](../agents/bbugyi200.athena.0hh/README.md) | ancestor | active |

@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 018--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-018__plan-260814_111707.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-018__code-260814_111707.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/monitor_followup_prompt_escaping.md
 
 

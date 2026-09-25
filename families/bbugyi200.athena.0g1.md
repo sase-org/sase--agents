@@ -17,9 +17,9 @@ flowchart TD
   n0 --> n3
   n4["0g1--gate [failed]"]
   n0 --> n4
-  n5["0g1--2 [active]"]
+  n5["0g1--2 [completed]"]
   n0 --> n5
-  n6["0g1--plan [completed]"]
+  n6["0g1--plan [active]"]
   n0 --> n6
 ```
 
@@ -32,8 +32,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | 0g1--mon-0 | failed | grok-4.6 / grok | 2026-08-29T14:13:16.882410+00:00 → 2026-08-29T14:15:59.641325+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0g1--mon-0/chat.md) |
 | <a id="member-mon"></a>mon | 0g1--mon | failed | grok-4.6 / grok | 2026-08-29T13:54:07.217340+00:00 → 2026-08-29T13:58:14.496465+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0g1--mon/chat.md) |
 | <a id="member-gate"></a>gate | 0g1--gate | failed | opus / claude | 2026-08-29T13:00:31.765032+00:00 → 2026-08-29T13:19:46.631406+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0g1--gate/chat.md) |
-| <a id="member-2"></a>2 | 0g1--2 | active | grok-4.6 / grok | 2026-08-29T14:16:17.101161+00:00 | [1](../agents/bbugyi200.athena.0g1--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0g1--2/prompt.md) | — |
-| <a id="member-plan"></a>plan | 0g1--plan | completed | opus / claude | 2026-08-29T12:44:32.477830+00:00 → 2026-08-29T13:00:38.713241+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0g1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0g1--plan/chat.md) |
+| <a id="member-2"></a>2 | 0g1--2 | completed | grok-4.6 / grok | 2026-08-29T14:16:17.101161+00:00 → 2026-08-29T14:23:01.179865+00:00 | [1](../agents/bbugyi200.athena.0g1--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0g1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.0g1--2/chat.md) |
+| <a id="member-plan"></a>plan | 0g1--plan | active | opus / claude | 2026-08-29T12:44:32.477830+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0g1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0g1--plan/chat.md) |
 
 ## Commits
 
@@ -45,4 +45,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [0g1.w0](../agents/bbugyi200.athena.0g1.w0/README.md) | descendant | dismissed |
+| [0g1.w0](../agents/bbugyi200.athena.0g1.w0/README.md) | descendant | waiting |

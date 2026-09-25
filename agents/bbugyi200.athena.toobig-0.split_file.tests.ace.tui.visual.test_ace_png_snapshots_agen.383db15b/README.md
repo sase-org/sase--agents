@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-0](../../users/bbugyi200/machines/athena/hoods/toobig-0/README.md) / toobig-0.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_agen.383db15b
 
-**Global name:** `bbugyi200.athena.toobig-0.split_file.tests.ace.tui.visual.test_ace_png_snapshots_agen.383db15b` · **State:** active · **Source run:** `run-ef8b82a3d591b4f6ea65cd52b3c5e970`
+**Global name:** `bbugyi200.athena.toobig-0.split_file.tests.ace.tui.visual.test_ace_png_snapshots_agen.383db15b` · **State:** dismissed · **Source run:** `run-ef8b82a3d591b4f6ea65cd52b3c5e970`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-0
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-20T00:53:55.009388+00:00
+- Timing: 2026-07-19T20:53:55.009388 → 2026-07-19T21:17:04.959391
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -27,9 +27,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-0.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_agen.49b52e00](../bbugyi200.athena.toobig-0.split_file.tests.ace.tui.visual.test_ace_png_snapshots_agen.49b52e00/README.md) | toobig-0.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_agen hood | active |
+| [toobig-0.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_agen.49b52e00](../bbugyi200.athena.toobig-0.split_file.tests.ace.tui.visual.test_ace_png_snapshots_agen.49b52e00/README.md) | toobig-0.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_agen hood | dismissed |
 | [toobig-0.split\_file.tests.ace.tui.test\_update\_toast.91124fa7](../bbugyi200.athena.toobig-0.split_file.tests.ace.tui.test_update_toast.91124fa7/README.md) | toobig-0.split\_file.tests.ace.tui hood | active |
-| [toobig-0.split\_file.tests.ace.tui.widgets.test\_agent\_display\_clan.20bb543d](../bbugyi200.athena.toobig-0.split_file.tests.ace.tui.widgets.test_agent_display_clan.20bb543d/README.md) | toobig-0.split\_file.tests.ace.tui hood | active |
+| [toobig-0.split\_file.tests.ace.tui.widgets.test\_agent\_display\_clan.20bb543d](../bbugyi200.athena.toobig-0.split_file.tests.ace.tui.widgets.test_agent_display_clan.20bb543d/README.md) | toobig-0.split\_file.tests.ace.tui hood | dismissed |
 | [toobig-0.split\_file.tests.ace.tui.widgets.test\_agent\_display\_plan\_se.6ebef075](../bbugyi200.athena.toobig-0.split_file.tests.ace.tui.widgets.test_agent_display_plan_se.6ebef075/README.md) | toobig-0.split\_file.tests.ace.tui hood | waiting |
 | [toobig-0.split\_file.tests.ace.tui.widgets.test\_prompt\_g\_prefix\_hints.3cbe82cd](../bbugyi200.athena.toobig-0.split_file.tests.ace.tui.widgets.test_prompt_g_prefix_hints.3cbe82cd/README.md) | toobig-0.split\_file.tests.ace.tui hood | waiting |
 | [toobig-0.split\_file.tests.test\_agent\_chat\_from\_name.aa772bc8](../bbugyi200.athena.toobig-0.split_file.tests.test_agent_chat_from_name.aa772bc8/README.md) | toobig-0.split\_file.tests hood | waiting |

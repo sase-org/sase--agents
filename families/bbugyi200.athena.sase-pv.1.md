@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["sase-pv.1--mon [failed]"]
   n0 --> n3
-  n4["sase-pv.1--plan [completed]"]
+  n4["sase-pv.1--plan [active]"]
   n0 --> n4
 ```
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-1"></a>1 | sase-pv.1--1 | completed | grok-4.6 / grok | 2026-08-18T15:48:38.176568+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-pv.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-pv.1--1/chat.md) |
 | <a id="member-2"></a>2 | sase-pv.1--2 | completed | grok-4.6 / grok | 2026-08-18T16:21:15.755078+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-pv.1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-pv.1--2/chat.md) |
 | <a id="member-mon"></a>mon | sase-pv.1--mon | failed | grok-4.6 / grok | 2026-08-18T15:34:42.116355+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-pv.1--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-pv.1--plan | completed | grok-4.6 / grok | 2026-08-18T15:28:42.521651+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-pv.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-pv.1--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-pv.1--plan | active | grok-4.6 / grok | 2026-08-18T15:28:42.521651+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-pv.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-pv.1--plan/chat.md) |
 
 ## Commits
 
@@ -39,13 +39,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-pv.2](../agents/bbugyi200.athena.sase-pv.2/README.md) | sase-pv hood | completed |
-| [sase-pv.3](../agents/bbugyi200.athena.sase-pv.3/README.md) | sase-pv hood | completed |
-| [sase-pv.4](../agents/bbugyi200.athena.sase-pv.4/README.md) | sase-pv hood | completed |
-| [sase-pv.5](../agents/bbugyi200.athena.sase-pv.5/README.md) | sase-pv hood | completed |
-| [sase-pv.6](../agents/bbugyi200.athena.sase-pv.6/README.md) | sase-pv hood | completed |
-| [sase-pv.7](../agents/bbugyi200.athena.sase-pv.7/README.md) | sase-pv hood | completed |
-| [sase-pv.7.f0](../agents/bbugyi200.athena.sase-pv.7.f0/README.md) | sase-pv hood | completed |
-| [sase-pv.8](bbugyi200.athena.sase-pv.8.md) (family · 3) | sase-pv hood | completed 2, failed 1 |
-| [sase-pv.9](../agents/bbugyi200.athena.sase-pv.9/README.md) | sase-pv hood | completed |
+| [sase-pv.2](../agents/bbugyi200.athena.sase-pv.2/README.md) | sase-pv hood | active |
+| [sase-pv.3](../agents/bbugyi200.athena.sase-pv.3/README.md) | sase-pv hood | active |
+| [sase-pv.4](../agents/bbugyi200.athena.sase-pv.4/README.md) | sase-pv hood | active |
+| [sase-pv.5](../agents/bbugyi200.athena.sase-pv.5/README.md) | sase-pv hood | active |
+| [sase-pv.6](../agents/bbugyi200.athena.sase-pv.6/README.md) | sase-pv hood | active |
+| [sase-pv.7](../agents/bbugyi200.athena.sase-pv.7/README.md) | sase-pv hood | active |
+| [sase-pv.7.f0](../agents/bbugyi200.athena.sase-pv.7.f0/README.md) | sase-pv hood | active |
+| [sase-pv.8](bbugyi200.athena.sase-pv.8.md) (family · 3) | sase-pv hood | active 1, completed 1, failed 1 |
+| [sase-pv.9](../agents/bbugyi200.athena.sase-pv.9/README.md) | sase-pv hood | active |
 | [sase-pv.land](bbugyi200.athena.sase-pv.land.md) (family · 7) | sase-pv hood | active 1, completed 3, failed 3 |

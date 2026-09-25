@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-8k](../../users/bbugyi200/machines/athena/hoods/sase-8k/README.md) / sase-8k.2
 
-**Global name:** `bbugyi200.athena.sase-8k.2` · **State:** active · **Source run:** `run-2f488dcc71778cde6a19542c7bf1b728`
+**Global name:** `bbugyi200.athena.sase-8k.2` · **State:** dismissed · **Source run:** `run-2f488dcc71778cde6a19542c7bf1b728`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-8k
 
@@ -11,12 +11,8 @@
 - Bead: [sase-8k.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-8k/sase-8k.2.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-07-22T16:16:26.777604+00:00
+- Timing: 2026-07-22T12:16:26.777604 → 2026-07-22T12:16:27.729094
 - Commits: 0
-
-## Files
-
-[Prompt](prompt.md)
 
 ## Neighbors
 

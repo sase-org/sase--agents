@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1788100531,"sha":"c087df878c0bf6e2eb17ab3a899e6d4a1f6d7117","subject":"fix(completion): resync the CLI spec snapshot for plan approve --wait"}],"schema_version":2,"source_run_id":"run-56eee1e40a1236ecb699a492c622e00c"}

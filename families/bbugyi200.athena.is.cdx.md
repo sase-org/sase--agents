@@ -30,4 +30,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [is.cld](../agents/bbugyi200.athena.is.cld/README.md) | is hood | active |
+| [is.cld](../agents/bbugyi200.athena.is.cld/README.md) | is hood | dismissed |

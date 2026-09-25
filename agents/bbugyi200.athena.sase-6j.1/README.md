@@ -2,21 +2,17 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-6j](../../users/bbugyi200/machines/athena/hoods/sase-6j/README.md) / sase-6j.1
 
-**Global name:** `bbugyi200.athena.sase-6j.1` · **State:** completed · **Source run:** `run-d3bd23b9bf314c0ec7aa26dc72a5f259`
+**Global name:** `bbugyi200.athena.sase-6j.1` · **State:** completed · **Source run:** `run-a94dfbbfacd319c321bd29bdcdaff7ed`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-6j
 
 ## Summary
 
 - Bead: [sase-6j.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-6j/sase-6j.1.md)
-- Model: gpt-5.6-sol
-- Provider: codex
-- Timing: 2026-07-17T11:52:41.557100+00:00
+- Model: —
+- Provider: —
+- Timing: 2026-07-17T12:24:29+00:00 → 2026-07-17T12:24:29+00:00
 - Commits: [1](#commits)
-
-## Files
-
-[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 

@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase The parent epic file for the `sase-sq.7.1` agent clan is not showing properly in the agent clan summary that was generated for the `sase-sq.7.1` epic (see #sshot for context). Namely, the `Parent: 202608/memory_webs.md` shown in the screenshot should be rendered as `Parent: plan:202608/memory_webs.md` instead (since the 202608/memory_webs.md file lives in the plans sidecar repo). This is also causing the file to be unviewable via the `v` keymap on the "Agents" tab I believe. Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix the issue?
+
+#plan

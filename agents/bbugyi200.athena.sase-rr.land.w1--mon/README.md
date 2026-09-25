@@ -21,14 +21,14 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rr.land](../../families/bbugyi200.athena.sase-rr.land.md) (family · 6) | ancestor | completed 2, failed 4 |
-| [sase-rr.1](../bbugyi200.athena.sase-rr.1/README.md) | sase-rr hood | completed |
-| [sase-rr.2](../bbugyi200.athena.sase-rr.2/README.md) | sase-rr hood | dismissed |
-| [sase-rr.3](../bbugyi200.athena.sase-rr.3/README.md) | sase-rr hood | completed |
-| [sase-rr.4](../bbugyi200.athena.sase-rr.4/README.md) | sase-rr hood | completed |
-| [sase-rr.5.1](../bbugyi200.athena.sase-rr.5.1/README.md) | sase-rr hood | completed |
-| [sase-rr.5.2](../bbugyi200.athena.sase-rr.5.2/README.md) | sase-rr hood | completed |
-| [sase-rr.5.3](../bbugyi200.athena.sase-rr.5.3/README.md) | sase-rr hood | completed |
-| [sase-rr.5.4](../bbugyi200.athena.sase-rr.5.4/README.md) | sase-rr hood | completed |
-| [sase-rr.5.5](../bbugyi200.athena.sase-rr.5.5/README.md) | sase-rr hood | completed |
-| [sase-rr.5.land](../../families/bbugyi200.athena.sase-rr.5.land.md) (family · 2) | sase-rr hood | active 2 |
+| [sase-rr.land](../../families/bbugyi200.athena.sase-rr.land.md) (family · 6) | ancestor | active 6 |
+| [sase-rr.1](../bbugyi200.athena.sase-rr.1/README.md) | sase-rr hood | active |
+| [sase-rr.2](../bbugyi200.athena.sase-rr.2/README.md) | sase-rr hood | active |
+| [sase-rr.3](../bbugyi200.athena.sase-rr.3/README.md) | sase-rr hood | active |
+| [sase-rr.4](../bbugyi200.athena.sase-rr.4/README.md) | sase-rr hood | active |
+| [sase-rr.5.1](../bbugyi200.athena.sase-rr.5.1/README.md) | sase-rr hood | active |
+| [sase-rr.5.2](../bbugyi200.athena.sase-rr.5.2/README.md) | sase-rr hood | active |
+| [sase-rr.5.3](../bbugyi200.athena.sase-rr.5.3/README.md) | sase-rr hood | active |
+| [sase-rr.5.4](../bbugyi200.athena.sase-rr.5.4/README.md) | sase-rr hood | active |
+| [sase-rr.5.5](../bbugyi200.athena.sase-rr.5.5/README.md) | sase-rr hood | active |
+| [sase-rr.5.land](../../families/bbugyi200.athena.sase-rr.5.land.md) (family · 2) | sase-rr hood | active 1, completed 1 |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4382ccc9a02fb82842a1f6615d7f585d"}
+{"commits":[{"committed_at":1787672648,"sha":"cddbc1f16777b662416590da4e3a46bf84712214","subject":"docs(finalizers): document the protection and retry guards"}],"schema_version":2,"source_run_id":"run-4382ccc9a02fb82842a1f6615d7f585d"}

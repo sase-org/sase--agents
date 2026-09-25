@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3668e5236037dcc60f1cdb16237f77cd"}
+{"commits":[{"committed_at":1787748850,"sha":"a2e9f2e145b71eecba8f7a39ef1527e8c3ba6cda","subject":"fix(artifacts): preserve captured file-ref suffixes"}],"schema_version":2,"source_run_id":"run-3668e5236037dcc60f1cdb16237f77cd"}

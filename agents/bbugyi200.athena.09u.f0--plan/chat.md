@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 09u.f0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-09u_f0__plan-260821_185344.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-09u_f0__code-260821_185344.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/compact_bead_wait_status_tokens.md
 
 

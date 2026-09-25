@@ -31,7 +31,7 @@
 |---|---|---|
 | [sase-9w.1](../bbugyi200.athena.sase-9w.1/README.md) | sase-9w hood | active |
 | [sase-9w.2](../bbugyi200.athena.sase-9w.2/README.md) | sase-9w hood | active |
-| [sase-9w.4](../bbugyi200.athena.sase-9w.4/README.md) | sase-9w hood | active |
+| [sase-9w.4](../bbugyi200.athena.sase-9w.4/README.md) | sase-9w hood | dismissed |
 | [sase-9w.5](../bbugyi200.athena.sase-9w.5/README.md) | sase-9w hood | active |
 | [sase-9w.6](../bbugyi200.athena.sase-9w.6/README.md) | sase-9w hood | active |
 | [sase-9w.7](../bbugyi200.athena.sase-9w.7/README.md) | sase-9w hood | active |

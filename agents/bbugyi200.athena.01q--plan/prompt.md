@@ -1,0 +1,3 @@
+#gh:gh_sase-org__sase Can you help me make sase's pager links much more reliable? In particular make sure we search very hard for file paths, which should be referenced from specific workspace directories where corresponding agents ran, if possible, but should fall back to a reliable path when one is available. In addition to this fix you should think hard about what other changes could be made to make links more robust and reliable.
+
+#plan %m:claude-fable-5

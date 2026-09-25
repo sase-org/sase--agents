@@ -21,12 +21,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-3h.split\_file.tests.ace.tui.models.test\_agent\_family\_members.0](../bbugyi200.athena.toobig-3h.split_file.tests.ace.tui.models.test_agent_family_members.0/README.md) | toobig-3h.split\_file.tests hood | waiting |
-| [toobig-3h.split\_file.tests.ace.tui.test\_config\_hub\_pane.0](../bbugyi200.athena.toobig-3h.split_file.tests.ace.tui.test_config_hub_pane.0/README.md) | toobig-3h.split\_file.tests hood | waiting |
+| [toobig-3h.split\_file.tests.ace.tui.models.test\_agent\_family\_members.0](../bbugyi200.athena.toobig-3h.split_file.tests.ace.tui.models.test_agent_family_members.0/README.md) | toobig-3h.split\_file.tests hood | active |
+| [toobig-3h.split\_file.tests.ace.tui.test\_config\_hub\_pane.0](../bbugyi200.athena.toobig-3h.split_file.tests.ace.tui.test_config_hub_pane.0/README.md) | toobig-3h.split\_file.tests hood | active |
 | [toobig-3h.split\_file.tests.ace.tui.test\_statistics\_pane\_interactions.0](../bbugyi200.athena.toobig-3h.split_file.tests.ace.tui.test_statistics_pane_interactions.0/README.md) | toobig-3h.split\_file.tests hood | waiting |
-| [toobig-3h.split\_file.tests.test\_file\_hook\_engine.0](../bbugyi200.athena.toobig-3h.split_file.tests.test_file_hook_engine.0/README.md) | toobig-3h.split\_file.tests hood | waiting |
-| [toobig-3h.split\_file.tests.test\_finalizers\_protocol\_harness.0](../bbugyi200.athena.toobig-3h.split_file.tests.test_finalizers_protocol_harness.0/README.md) | toobig-3h.split\_file.tests hood | waiting |
-| [toobig-3h.split\_file.src.sase.bead.cli\_detail.0](../bbugyi200.athena.toobig-3h.split_file.src.sase.bead.cli_detail.0/README.md) | toobig-3h.split\_file hood | completed |
+| [toobig-3h.split\_file.tests.test\_file\_hook\_engine.0](../bbugyi200.athena.toobig-3h.split_file.tests.test_file_hook_engine.0/README.md) | toobig-3h.split\_file.tests hood | active |
+| [toobig-3h.split\_file.tests.test\_finalizers\_protocol\_harness.0](../bbugyi200.athena.toobig-3h.split_file.tests.test_finalizers_protocol_harness.0/README.md) | toobig-3h.split\_file.tests hood | active |
+| [toobig-3h.split\_file.src.sase.bead.cli\_detail.0](../bbugyi200.athena.toobig-3h.split_file.src.sase.bead.cli_detail.0/README.md) | toobig-3h.split\_file hood | active |
 | [toobig-3h.split\_file.src.sase.finalizers.commit.0](../bbugyi200.athena.toobig-3h.split_file.src.sase.finalizers.commit.0/README.md) | toobig-3h.split\_file hood | active |
-| [toobig-3h.split\_file.src.sase.finalizers.controller.0](../bbugyi200.athena.toobig-3h.split_file.src.sase.finalizers.controller.0/README.md) | toobig-3h.split\_file hood | waiting |
-| [toobig-3h.split\_file.src.sase.finalizers.executor.0](../bbugyi200.athena.toobig-3h.split_file.src.sase.finalizers.executor.0/README.md) | toobig-3h.split\_file hood | waiting |
+| [toobig-3h.split\_file.src.sase.finalizers.controller.0](../../families/bbugyi200.athena.toobig-3h.split_file.src.sase.finalizers.controller.0.md) (family · 3) | toobig-3h.split\_file hood | active 3 |
+| [toobig-3h.split\_file.src.sase.finalizers.executor.0](../bbugyi200.athena.toobig-3h.split_file.src.sase.finalizers.executor.0/README.md) | toobig-3h.split\_file hood | active |

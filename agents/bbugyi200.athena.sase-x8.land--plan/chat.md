@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-x8.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_x8_land__plan-260905_192729.md`
+- 2. --code — `~/.sase/chats/202609/gh_sase_org__sase-ace_run-sase_x8_land__code-260905_192729.md`
+
 **Plan:** /home/bryan/.sase/plans/202609/wait_artifacts_core_floor.md
 
 

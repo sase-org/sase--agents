@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-582dafd21e525da1680e5852e8b814f0"}
+{"commits":[{"committed_at":1787018745,"sha":"98aefd35faa0b39cd6eb2f59710de1810f3371fc","subject":"feat(cli): add sase pipe in-process successor hand-off"}],"schema_version":2,"source_run_id":"run-582dafd21e525da1680e5852e8b814f0"}

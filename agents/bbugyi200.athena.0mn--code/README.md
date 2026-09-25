@@ -22,3 +22,9 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`c331faa`](https://github.com/sase-org/sase/commit/c331faace3696c26d58f941a6500174d8e603a17) | fix(memory): render tui child memories as references | 2026-09-18 05:46:50 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [0mn.f0](../../families/bbugyi200.athena.0mn.f0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |

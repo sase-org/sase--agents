@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-tk.1](../bbugyi200.athena.sase-tk.1/README.md) | sase-tk hood | completed |
-| [sase-tk.2](../bbugyi200.athena.sase-tk.2/README.md) | sase-tk hood | dismissed |
-| [sase-tk.3](../bbugyi200.athena.sase-tk.3/README.md) | sase-tk hood | completed |
-| [sase-tk.land](../bbugyi200.athena.sase-tk.land/README.md) | sase-tk hood | active |
+| [sase-tk.1](../bbugyi200.athena.sase-tk.1/README.md) | sase-tk hood | active |
+| [sase-tk.2](../bbugyi200.athena.sase-tk.2/README.md) | sase-tk hood | active |
+| [sase-tk.3](../bbugyi200.athena.sase-tk.3/README.md) | sase-tk hood | active |
+| [sase-tk.land](../../families/bbugyi200.athena.sase-tk.land.md) (family · 2) | sase-tk hood | active 1, completed 1 |

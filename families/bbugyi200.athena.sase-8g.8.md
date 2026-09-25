@@ -40,4 +40,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-8g.6](bbugyi200.athena.sase-8g.6.md) (family · 2) | sase-8g hood | active 1, completed 1 |
 | [sase-8g.7](bbugyi200.athena.sase-8g.7.md) (family · 2) | sase-8g hood | active 1, completed 1 |
 | [sase-8g.9](../agents/bbugyi200.athena.sase-8g.9/README.md) | sase-8g hood | active |
-| [sase-8g.land](../agents/bbugyi200.athena.sase-8g.land/README.md) | sase-8g hood | active |
+| [sase-8g.land](../agents/bbugyi200.athena.sase-8g.land/README.md) | sase-8g hood | dismissed |

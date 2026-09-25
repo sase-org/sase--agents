@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-6t](../../users/bbugyi200/machines/athena/hoods/sase-6t/README.md) / sase-6t.5
 
-**Global name:** `bbugyi200.athena.sase-6t.5` · **State:** active · **Source run:** `run-38004a6cf98de42d98f009bb360268ba`
+**Global name:** `bbugyi200.athena.sase-6t.5` · **State:** dismissed · **Source run:** `run-38004a6cf98de42d98f009bb360268ba`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-6t
 
@@ -11,12 +11,12 @@
 - Bead: [sase-6t.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-6t/sase-6t.5.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-18T18:39:23.761039+00:00
+- Timing: 2026-07-18T14:39:23.761039 → 2026-07-18T14:57:53.208607
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 
@@ -30,11 +30,11 @@
 |---|---|---|
 | [sase-6t.1](../bbugyi200.athena.sase-6t.1/README.md) | sase-6t hood | completed |
 | [sase-6t.2](../bbugyi200.athena.sase-6t.2/README.md) | sase-6t hood | completed |
-| [sase-6t.3](../bbugyi200.athena.sase-6t.3/README.md) | sase-6t hood | active |
-| [sase-6t.4](../bbugyi200.athena.sase-6t.4/README.md) | sase-6t hood | active |
-| [sase-6t.land](../bbugyi200.athena.sase-6t.land/README.md) | sase-6t hood | active |
+| [sase-6t.3](../bbugyi200.athena.sase-6t.3/README.md) | sase-6t hood | dismissed |
+| [sase-6t.4](../bbugyi200.athena.sase-6t.4/README.md) | sase-6t hood | dismissed |
+| [sase-6t.land](../bbugyi200.athena.sase-6t.land/README.md) | sase-6t hood | dismissed |
 | [sase-6t.land.w0](../bbugyi200.athena.sase-6t.land.w0/README.md) | sase-6t hood | waiting |
-| [sase-6t.land.w1](../bbugyi200.athena.sase-6t.land.w1/README.md) | sase-6t hood | active |
-| [sase-6t.land.w1.w0](../bbugyi200.athena.sase-6t.land.w1.w0/README.md) | sase-6t hood | active |
+| [sase-6t.land.w1](../bbugyi200.athena.sase-6t.land.w1/README.md) | sase-6t hood | dismissed |
+| [sase-6t.land.w1.w0](../bbugyi200.athena.sase-6t.land.w1.w0/README.md) | sase-6t hood | dismissed |
 | [sase-6t.land.w2](../../families/bbugyi200.athena.sase-6t.land.w2.md) (family · 2) | sase-6t hood | active 1, completed 1 |
 | [sase-6t.land.w2.w1](../../families/bbugyi200.athena.sase-6t.land.w2.w1.md) (family · 2) | sase-6t hood | active 1, completed 1 |

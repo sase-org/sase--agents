@@ -30,16 +30,16 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-7z.land.f0](../agents/bbugyi200.athena.sase-7z.land.f0/README.md) | descendant | active |
+| [sase-7z.land.f0](../agents/bbugyi200.athena.sase-7z.land.f0/README.md) | descendant | dismissed |
 | [sase-7z.1](../agents/bbugyi200.athena.sase-7z.1/README.md) | sase-7z hood | active |
-| [sase-7z.2](../agents/bbugyi200.athena.sase-7z.2/README.md) | sase-7z hood | active |
-| [sase-7z.3](../agents/bbugyi200.athena.sase-7z.3/README.md) | sase-7z hood | active |
-| [sase-7z.4](../agents/bbugyi200.athena.sase-7z.4/README.md) | sase-7z hood | active |
-| [sase-7z.5](../agents/bbugyi200.athena.sase-7z.5/README.md) | sase-7z hood | active |
-| [sase-7z.6](../agents/bbugyi200.athena.sase-7z.6/README.md) | sase-7z hood | active |
-| [sase-7z.7](../agents/bbugyi200.athena.sase-7z.7/README.md) | sase-7z hood | active |
-| [sase-7z.8](../agents/bbugyi200.athena.sase-7z.8/README.md) | sase-7z hood | active |
+| [sase-7z.2](../agents/bbugyi200.athena.sase-7z.2/README.md) | sase-7z hood | dismissed |
+| [sase-7z.3](../agents/bbugyi200.athena.sase-7z.3/README.md) | sase-7z hood | dismissed |
+| [sase-7z.4](../agents/bbugyi200.athena.sase-7z.4/README.md) | sase-7z hood | dismissed |
+| [sase-7z.5](../agents/bbugyi200.athena.sase-7z.5/README.md) | sase-7z hood | dismissed |
+| [sase-7z.6](../agents/bbugyi200.athena.sase-7z.6/README.md) | sase-7z hood | dismissed |
+| [sase-7z.7](../agents/bbugyi200.athena.sase-7z.7/README.md) | sase-7z hood | dismissed |
+| [sase-7z.8](../agents/bbugyi200.athena.sase-7z.8/README.md) | sase-7z hood | dismissed |
 | [sase-7z.f0](../agents/bbugyi200.athena.sase-7z.f0/README.md) | sase-7z hood | waiting |
 | [sase-7z.f1](../agents/bbugyi200.athena.sase-7z.f1/README.md) | sase-7z hood | waiting |
-| [sase-7z.f2](../agents/bbugyi200.athena.sase-7z.f2/README.md) | sase-7z hood | active |
-| [sase-7z.f4](../agents/bbugyi200.athena.sase-7z.f4/README.md) | sase-7z hood | active |
+| [sase-7z.f2](../agents/bbugyi200.athena.sase-7z.f2/README.md) | sase-7z hood | dismissed |
+| [sase-7z.f4](../agents/bbugyi200.athena.sase-7z.f4/README.md) | sase-7z hood | dismissed |

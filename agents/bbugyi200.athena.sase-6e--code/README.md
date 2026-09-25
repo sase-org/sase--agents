@@ -28,17 +28,17 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6e.1](../bbugyi200.athena.sase-6e.1/README.md) | descendant | active |
-| [sase-6e.2](../bbugyi200.athena.sase-6e.2/README.md) | descendant | active |
-| [sase-6e.3](../bbugyi200.athena.sase-6e.3/README.md) | descendant | active |
-| [sase-6e.4](../bbugyi200.athena.sase-6e.4/README.md) | descendant | active |
-| [sase-6e.5](../bbugyi200.athena.sase-6e.5/README.md) | descendant | active |
-| [sase-6e.6](../bbugyi200.athena.sase-6e.6/README.md) | descendant | active |
-| [sase-6e.7](../bbugyi200.athena.sase-6e.7/README.md) | descendant | active |
+| [sase-6e.1](../bbugyi200.athena.sase-6e.1/README.md) | descendant | dismissed |
+| [sase-6e.2](../bbugyi200.athena.sase-6e.2/README.md) | descendant | dismissed |
+| [sase-6e.3](../bbugyi200.athena.sase-6e.3/README.md) | descendant | dismissed |
+| [sase-6e.4](../bbugyi200.athena.sase-6e.4/README.md) | descendant | dismissed |
+| [sase-6e.5](../bbugyi200.athena.sase-6e.5/README.md) | descendant | dismissed |
+| [sase-6e.6](../bbugyi200.athena.sase-6e.6/README.md) | descendant | dismissed |
+| [sase-6e.7](../bbugyi200.athena.sase-6e.7/README.md) | descendant | dismissed |
 | [sase-6e.f0](../bbugyi200.athena.sase-6e.f0/README.md) | descendant | waiting |
-| [sase-6e.f1](../bbugyi200.athena.sase-6e.f1/README.md) | descendant | active |
+| [sase-6e.f1](../bbugyi200.athena.sase-6e.f1/README.md) | descendant | dismissed |
 | [sase-6e.f2](../bbugyi200.athena.sase-6e.f2/README.md) | descendant | waiting |
 | [sase-6e.f3](../bbugyi200.athena.sase-6e.f3/README.md) | descendant | waiting |
-| [sase-6e.f4](../bbugyi200.athena.sase-6e.f4/README.md) | descendant | active |
+| [sase-6e.f4](../bbugyi200.athena.sase-6e.f4/README.md) | descendant | dismissed |
 | [sase-6e.f5](../bbugyi200.athena.sase-6e.f5/README.md) | descendant | waiting |
-| [sase-6e.f7](../bbugyi200.athena.sase-6e.f7/README.md) | descendant | active |
+| [sase-6e.f7](../bbugyi200.athena.sase-6e.f7/README.md) | descendant | dismissed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [zl](../../users/bbugyi200/machines/athena/hoods/zl/README.md) / zl
 
-**Global name:** `bbugyi200.athena.zl` · **State:** completed · **Source run:** `run-eb07aa7e38f5090baa9cb5cb8fa5dcb7`
+**Global name:** `bbugyi200.athena.zl` · **State:** active · **Source run:** `run-eb07aa7e38f5090baa9cb5cb8fa5dcb7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** zl
 
@@ -27,6 +27,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [zl.f1](../../families/bbugyi200.athena.zl.f1.md) (family · 2) | descendant | failed 2 |
-| [zl.w0](../../families/bbugyi200.athena.zl.w0.md) (family · 3) | descendant | completed 1, dismissed 1, failed 1 |
-| [zl.w1](../bbugyi200.athena.zl.w1/README.md) | descendant | dismissed |
+| [zl.f1](../../families/bbugyi200.athena.zl.f1.md) (family · 2) | descendant | active 1, failed 1 |
+| [zl.w0](../../families/bbugyi200.athena.zl.w0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |
+| [zl.w1](../bbugyi200.athena.zl.w1/README.md) | descendant | active |

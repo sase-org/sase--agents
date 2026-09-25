@@ -2,21 +2,29 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-qw](../users/bbugyi200/machines/athena/hoods/sase-qw/README.md) / sase-qw.land
 
-Owner: `bbugyi200.athena` · Hood: `sase-qw` · Members: 5 · Bead: [sase-qw](https://github.com/sase-org/sase--beads/blob/main/pages/sase-qw/README.md)
+Owner: `bbugyi200.athena` · Hood: `sase-qw` · Members: 9 · Bead: [sase-qw](https://github.com/sase-org/sase--beads/blob/main/pages/sase-qw/README.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
   n0["sase-qw.land--mon-0 [failed]"]
-  n1["sase-qw.land--plan [completed]"]
+  n1["sase-qw.land--plan [active]"]
   n0 --> n1
   n2["sase-qw.land--1 [completed]"]
   n0 --> n2
-  n3["sase-qw.land--mon [failed]"]
+  n3["sase-qw.land--3 [completed]"]
   n0 --> n3
-  n4["sase-qw.land--2 [active]"]
+  n4["sase-qw.land--4 [failed]"]
   n0 --> n4
+  n5["sase-qw.land--mon [failed]"]
+  n0 --> n5
+  n6["sase-qw.land--mon-2 [failed]"]
+  n0 --> n6
+  n7["sase-qw.land--mon-1 [failed]"]
+  n0 --> n7
+  n8["sase-qw.land--2 [completed]"]
+  n0 --> n8
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -24,10 +32,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon-0"></a>mon-0 | sase-qw.land--mon-0 | failed | opus / claude | 2026-08-19T18:26:30.280919+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-qw.land--mon-0/chat.md) |
-| <a id="member-plan"></a>plan | sase-qw.land--plan | completed | opus / claude | 2026-08-19T17:42:54.800482+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-qw.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-qw.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-qw.land--plan | active | opus / claude | 2026-08-19T17:42:54.800482+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-qw.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-qw.land--plan/chat.md) |
 | <a id="member-1"></a>1 | sase-qw.land--1 | completed | opus / claude | 2026-08-19T18:21:41.385412+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-qw.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-qw.land--1/chat.md) |
+| <a id="member-3"></a>3 | sase-qw.land--3 | completed | opus / claude | 2026-08-19T19:05:08.953437+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-qw.land--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-qw.land--3/chat.md) |
+| <a id="member-4"></a>4 | sase-qw.land--4 | failed | opus / claude | 2026-08-19T20:15:18.285522+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-qw.land--4/prompt.md) | — |
 | <a id="member-mon"></a>mon | sase-qw.land--mon | failed | opus / claude | 2026-08-19T17:53:42.354492+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-qw.land--mon/chat.md) |
-| <a id="member-2"></a>2 | sase-qw.land--2 | active | opus / claude | 2026-08-19T18:39:56.168291+00:00 | [1](../agents/bbugyi200.athena.sase-qw.land--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-qw.land--2/prompt.md) | — |
+| <a id="member-mon-2"></a>mon-2 | sase-qw.land--mon-2 | failed | opus / claude | 2026-08-19T19:09:58.363461+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-qw.land--mon-2/chat.md) |
+| <a id="member-mon-1"></a>mon-1 | sase-qw.land--mon-1 | failed | opus / claude | 2026-08-19T19:00:28.682539+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-qw.land--mon-1/chat.md) |
+| <a id="member-2"></a>2 | sase-qw.land--2 | completed | opus / claude | 2026-08-19T18:39:56.168291+00:00 | [1](../agents/bbugyi200.athena.sase-qw.land--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-qw.land--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-qw.land--2/chat.md) |
 
 ## Commits
 
@@ -39,6 +51,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-qw.1](../agents/bbugyi200.athena.sase-qw.1/README.md) | sase-qw hood | completed |
-| [sase-qw.2](../agents/bbugyi200.athena.sase-qw.2/README.md) | sase-qw hood | completed |
-| [sase-qw.3](../agents/bbugyi200.athena.sase-qw.3/README.md) | sase-qw hood | completed |
+| [sase-qw.1](../agents/bbugyi200.athena.sase-qw.1/README.md) | sase-qw hood | active |
+| [sase-qw.2](../agents/bbugyi200.athena.sase-qw.2/README.md) | sase-qw hood | active |
+| [sase-qw.3](../agents/bbugyi200.athena.sase-qw.3/README.md) | sase-qw hood | active |
+| [sase-qw.land\_2](../agents/bbugyi200.athena.sase-qw.land_2/README.md) | sase-qw hood | active |

@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 0dz--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0dz__plan-260826_070842.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0dz__code-260826_070842.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/conflict_repair_followup_commit.md
 
 

@@ -23,7 +23,7 @@ flowchart TD
   n0 --> n6
   n7["sase-n8.8--mon-4 [failed]"]
   n0 --> n7
-  n8["sase-n8.8--plan [completed]"]
+  n8["sase-n8.8--plan [active]"]
   n0 --> n8
   n9["sase-n8.8--mon-3 [failed]"]
   n0 --> n9
@@ -51,7 +51,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-1"></a>mon-1 | sase-n8.8--mon-1 | failed | gpt-5.5 / codex | 2026-08-16T20:43:22.911685+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-n8.8--mon-1/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | sase-n8.8--mon-2 | failed | gpt-5.5 / codex | 2026-08-16T20:56:13.700363+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-n8.8--mon-2/chat.md) |
 | <a id="member-mon-4"></a>mon-4 | sase-n8.8--mon-4 | failed | gpt-5.5 / codex | 2026-08-16T21:21:10.409522+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-n8.8--mon-4/chat.md) |
-| <a id="member-plan"></a>plan | sase-n8.8--plan | completed | gpt-5.5 / codex | 2026-08-16T20:09:26.195527+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-n8.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n8.8--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-n8.8--plan | active | gpt-5.5 / codex | 2026-08-16T20:09:26.195527+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-n8.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n8.8--plan/chat.md) |
 | <a id="member-mon-3"></a>mon-3 | sase-n8.8--mon-3 | failed | gpt-5.5 / codex | 2026-08-16T21:18:14.859165+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-n8.8--mon-3/chat.md) |
 | <a id="member-7"></a>7 | sase-n8.8--7 | completed | gpt-5.5 / codex | 2026-08-16T21:44:43.026232+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-n8.8--7/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-n8.8--7/chat.md) |
 | <a id="member-mon"></a>mon | sase-n8.8--mon | failed | gpt-5.5 / codex | 2026-08-16T20:12:27.552753+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-n8.8--mon/chat.md) |
@@ -70,12 +70,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-n8.1](bbugyi200.athena.sase-n8.1.md) (family · 2) | sase-n8 hood | completed 2 |
-| [sase-n8.2](bbugyi200.athena.sase-n8.2.md) (family · 2) | sase-n8 hood | completed 2 |
-| [sase-n8.3](../agents/bbugyi200.athena.sase-n8.3/README.md) | sase-n8 hood | completed |
-| [sase-n8.4](../agents/bbugyi200.athena.sase-n8.4/README.md) | sase-n8 hood | completed |
-| [sase-n8.5](../agents/bbugyi200.athena.sase-n8.5/README.md) | sase-n8 hood | completed |
-| [sase-n8.6](bbugyi200.athena.sase-n8.6.md) (family · 2) | sase-n8 hood | completed 2 |
-| [sase-n8.7](../agents/bbugyi200.athena.sase-n8.7/README.md) | sase-n8 hood | completed |
-| [sase-n8.9](../agents/bbugyi200.athena.sase-n8.9/README.md) | sase-n8 hood | completed |
-| [sase-n8.land](../agents/bbugyi200.athena.sase-n8.land/README.md) | sase-n8 hood | completed |
+| [sase-n8.1](bbugyi200.athena.sase-n8.1.md) (family · 2) | sase-n8 hood | active 1, completed 1 |
+| [sase-n8.2](bbugyi200.athena.sase-n8.2.md) (family · 2) | sase-n8 hood | active 1, completed 1 |
+| [sase-n8.3](../agents/bbugyi200.athena.sase-n8.3/README.md) | sase-n8 hood | active |
+| [sase-n8.4](../agents/bbugyi200.athena.sase-n8.4/README.md) | sase-n8 hood | active |
+| [sase-n8.5](../agents/bbugyi200.athena.sase-n8.5/README.md) | sase-n8 hood | active |
+| [sase-n8.6](bbugyi200.athena.sase-n8.6.md) (family · 2) | sase-n8 hood | active 1, completed 1 |
+| [sase-n8.7](../agents/bbugyi200.athena.sase-n8.7/README.md) | sase-n8 hood | active |
+| [sase-n8.9](../agents/bbugyi200.athena.sase-n8.9/README.md) | sase-n8 hood | active |
+| [sase-n8.land](../agents/bbugyi200.athena.sase-n8.land/README.md) | sase-n8 hood | active |

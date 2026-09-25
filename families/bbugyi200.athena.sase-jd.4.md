@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-jd` · Members: 2 · Bead: [sase-jd.4](
 
 ```mermaid
 flowchart TD
-  n0["sase-jd.4--plan [dismissed]"]
+  n0["sase-jd.4--plan [active]"]
   n1["sase-jd.4--code [active]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-jd.4--plan | dismissed | gpt-5.6-sol / codex | 2026-08-11T06:05:13.244573 → 2026-08-11T08:11:10.716149 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-jd.4--plan | active | gpt-5.6-sol / codex | 2026-08-11T10:05:13.244573+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-jd.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-jd.4--plan/chat.md) |
 | <a id="member-code"></a>code | sase-jd.4--code | active | sonnet / claude | 2026-08-11T10:13:47.311596+00:00 | 0 | — | — |
 
 ## Commits
@@ -30,12 +30,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-jd.1](bbugyi200.athena.sase-jd.1.md) (family · 2) | sase-jd hood | completed 1, dismissed 1 |
-| [sase-jd.2](../agents/bbugyi200.athena.sase-jd.2/README.md) | sase-jd hood | dismissed |
-| [sase-jd.3](../agents/bbugyi200.athena.sase-jd.3/README.md) | sase-jd hood | dismissed |
-| [sase-jd.5](bbugyi200.athena.sase-jd.5.md) (family · 2) | sase-jd hood | completed 1, dismissed 1 |
-| [sase-jd.6](bbugyi200.athena.sase-jd.6.md) (family · 2) | sase-jd hood | completed 1, dismissed 1 |
+| [sase-jd.1](bbugyi200.athena.sase-jd.1.md) (family · 2) | sase-jd hood | active 1, completed 1 |
+| [sase-jd.2](../agents/bbugyi200.athena.sase-jd.2/README.md) | sase-jd hood | active |
+| [sase-jd.3](../agents/bbugyi200.athena.sase-jd.3/README.md) | sase-jd hood | active |
+| [sase-jd.5](bbugyi200.athena.sase-jd.5.md) (family · 2) | sase-jd hood | active 1, completed 1 |
+| [sase-jd.6](bbugyi200.athena.sase-jd.6.md) (family · 2) | sase-jd hood | active 1, completed 1 |
 | [sase-jd.6](../agents/bbugyi200.athena.sase-jd.6/README.md) | sase-jd hood | active |
-| [sase-jd.7](../agents/bbugyi200.athena.sase-jd.7/README.md) | sase-jd hood | dismissed |
-| [sase-jd.8](bbugyi200.athena.sase-jd.8.md) (family · 2) | sase-jd hood | active 1, dismissed 1 |
-| [sase-jd.land](../agents/bbugyi200.athena.sase-jd.land/README.md) | sase-jd hood | dismissed |
+| [sase-jd.7](../agents/bbugyi200.athena.sase-jd.7/README.md) | sase-jd hood | active |
+| [sase-jd.8](bbugyi200.athena.sase-jd.8.md) (family · 2) | sase-jd hood | active 2 |
+| [sase-jd.land](../agents/bbugyi200.athena.sase-jd.land/README.md) | sase-jd hood | active |

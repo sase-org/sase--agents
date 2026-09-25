@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-m9` · Members: 2 · Bead: [sase-m9.3](
 
 ```mermaid
 flowchart TD
-  n0["sase-m9.3--plan [failed]"]
+  n0["sase-m9.3--plan [active]"]
   n1["sase-m9.3--mon [failed]"]
   n0 --> n1
 ```
@@ -17,36 +17,37 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-m9.3--plan | failed | gpt-5.6-sol / codex | 2026-08-15T19:13:24.662261+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m9.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m9.3--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-m9.3--plan | active | gpt-5.6-sol / codex | 2026-08-15T19:13:24.662261+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-m9.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-m9.3--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-m9.3--mon | failed | gpt-5.6-sol / codex | 2026-08-15T19:16:49.532776+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-m9.3--mon/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-m9.3.1.1](bbugyi200.athena.sase-m9.3.1.1.md) (family · 2) | descendant | completed 1, dismissed 1 |
-| [sase-m9.3.1.2](bbugyi200.athena.sase-m9.3.1.2.md) (family · 2) | descendant | active 1, dismissed 1 |
-| [sase-m9.3.1.3](bbugyi200.athena.sase-m9.3.1.3.md) (family · 2) | descendant | completed 1, dismissed 1 |
+| [sase-m9.3.1.1](bbugyi200.athena.sase-m9.3.1.1.md) (family · 2) | descendant | active 1, completed 1 |
+| [sase-m9.3.1.2](bbugyi200.athena.sase-m9.3.1.2.md) (family · 2) | descendant | active 2 |
+| [sase-m9.3.1.3](bbugyi200.athena.sase-m9.3.1.3.md) (family · 2) | descendant | active 1, completed 1 |
 | [sase-m9.3.1.3](../agents/bbugyi200.athena.sase-m9.3.1.3/README.md) | descendant | waiting |
-| [sase-m9.3.1.4](bbugyi200.athena.sase-m9.3.1.4.md) (family · 2) | descendant | active 1, dismissed 1 |
+| [sase-m9.3.1.4](bbugyi200.athena.sase-m9.3.1.4.md) (family · 2) | descendant | active 2 |
 | [sase-m9.3.1.4](../agents/bbugyi200.athena.sase-m9.3.1.4/README.md) | descendant | waiting |
-| [sase-m9.3.1.5](bbugyi200.athena.sase-m9.3.1.5.md) (family · 2) | descendant | completed 1, dismissed 1 |
-| [sase-m9.3.1.land](../agents/bbugyi200.athena.sase-m9.3.1.land/README.md) | descendant | dismissed |
-| [sase-m9.1](bbugyi200.athena.sase-m9.1.md) (family · 2) | sase-m9 hood | failed 2 |
-| [sase-m9.1.1.1](../agents/bbugyi200.athena.sase-m9.1.1.1/README.md) | sase-m9 hood | dismissed |
-| [sase-m9.1.1.2](../agents/bbugyi200.athena.sase-m9.1.1.2/README.md) | sase-m9 hood | dismissed |
-| [sase-m9.1.1.3](../agents/bbugyi200.athena.sase-m9.1.1.3/README.md) | sase-m9 hood | dismissed |
-| [sase-m9.1.1.land](bbugyi200.athena.sase-m9.1.1.land.md) (family · 6) | sase-m9 hood | completed 3, dismissed 1, failed 2 |
-| [sase-m9.2](bbugyi200.athena.sase-m9.2.md) (family · 2) | sase-m9 hood | failed 2 |
+| [sase-m9.3.1.5](bbugyi200.athena.sase-m9.3.1.5.md) (family · 2) | descendant | active 1, completed 1 |
+| [sase-m9.3.1.land](../agents/bbugyi200.athena.sase-m9.3.1.land/README.md) | descendant | active |
+| [sase-m9.1](bbugyi200.athena.sase-m9.1.md) (family · 2) | sase-m9 hood | active 1, failed 1 |
+| [sase-m9.1.1.1](../agents/bbugyi200.athena.sase-m9.1.1.1/README.md) | sase-m9 hood | active |
+| [sase-m9.1.1.2](../agents/bbugyi200.athena.sase-m9.1.1.2/README.md) | sase-m9 hood | active |
+| [sase-m9.1.1.3](../agents/bbugyi200.athena.sase-m9.1.1.3/README.md) | sase-m9 hood | active |
+| [sase-m9.1.1.land](bbugyi200.athena.sase-m9.1.1.land.md) (family · 6) | sase-m9 hood | active 1, completed 3, failed 2 |
+| [sase-m9.2](bbugyi200.athena.sase-m9.2.md) (family · 2) | sase-m9 hood | active 1, failed 1 |
 | [sase-m9.2](../agents/bbugyi200.athena.sase-m9.2/README.md) | sase-m9 hood | active |
-| [sase-m9.2.1.1](../agents/bbugyi200.athena.sase-m9.2.1.1/README.md) | sase-m9 hood | dismissed |
-| [sase-m9.2.1.2](../agents/bbugyi200.athena.sase-m9.2.1.2/README.md) | sase-m9 hood | dismissed |
-| [sase-m9.2.1.3](../agents/bbugyi200.athena.sase-m9.2.1.3/README.md) | sase-m9 hood | dismissed |
-| [sase-m9.2.1.4](../agents/bbugyi200.athena.sase-m9.2.1.4/README.md) | sase-m9 hood | dismissed |
-| [sase-m9.2.1.5](bbugyi200.athena.sase-m9.2.1.5.md) (family · 3) | sase-m9 hood | completed 1, dismissed 1, failed 1 |
-| [sase-m9.2.1.6.1](../agents/bbugyi200.athena.sase-m9.2.1.6.1/README.md) | sase-m9 hood | dismissed |
-| [sase-m9.2.1.6.2](../agents/bbugyi200.athena.sase-m9.2.1.6.2/README.md) | sase-m9 hood | dismissed |
-| [sase-m9.2.1.6.3](bbugyi200.athena.sase-m9.2.1.6.3.md) (family · 3) | sase-m9 hood | completed 1, dismissed 1, failed 1 |
-| [sase-m9.2.1.6.land](bbugyi200.athena.sase-m9.2.1.6.land.md) (family · 6) | sase-m9 hood | completed 3, dismissed 1, failed 2 |
-| [sase-m9.2.1.land](bbugyi200.athena.sase-m9.2.1.land.md) (family · 2) | sase-m9 hood | dismissed 1, failed 1 |
-| [sase-m9.land](../agents/bbugyi200.athena.sase-m9.land/README.md) | sase-m9 hood | active |
+| [sase-m9.2.1.1](../agents/bbugyi200.athena.sase-m9.2.1.1/README.md) | sase-m9 hood | active |
+| [sase-m9.2.1.2](../agents/bbugyi200.athena.sase-m9.2.1.2/README.md) | sase-m9 hood | active |
+| [sase-m9.2.1.3](../agents/bbugyi200.athena.sase-m9.2.1.3/README.md) | sase-m9 hood | active |
+| [sase-m9.2.1.4](../agents/bbugyi200.athena.sase-m9.2.1.4/README.md) | sase-m9 hood | active |
+| [sase-m9.2.1.5](bbugyi200.athena.sase-m9.2.1.5.md) (family · 3) | sase-m9 hood | active 1, completed 1, failed 1 |
+| [sase-m9.2.1.6.1](../agents/bbugyi200.athena.sase-m9.2.1.6.1/README.md) | sase-m9 hood | active |
+| [sase-m9.2.1.6.2](../agents/bbugyi200.athena.sase-m9.2.1.6.2/README.md) | sase-m9 hood | active |
+| [sase-m9.2.1.6.3](bbugyi200.athena.sase-m9.2.1.6.3.md) (family · 3) | sase-m9 hood | active 1, completed 1, failed 1 |
+| [sase-m9.2.1.6.land](bbugyi200.athena.sase-m9.2.1.6.land.md) (family · 6) | sase-m9 hood | active 1, completed 3, failed 2 |
+| [sase-m9.2.1.land](bbugyi200.athena.sase-m9.2.1.land.md) (family · 2) | sase-m9 hood | active 1, failed 1 |
+| [sase-m9.land](bbugyi200.athena.sase-m9.land.md) (family · 3) | sase-m9 hood | active 1, completed 1, failed 1 |
+| [sase-m9.land](../agents/bbugyi200.athena.sase-m9.land/README.md) | sase-m9 hood | completed |

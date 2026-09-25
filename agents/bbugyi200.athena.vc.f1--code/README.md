@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [vc](../bbugyi200.athena.vc/README.md) | ancestor | dismissed |
-| [vc.f0](../bbugyi200.athena.vc.f0/README.md) | vc hood | dismissed |
+| [vc](../bbugyi200.athena.vc/README.md) | ancestor | active |
+| [vc.f0](../bbugyi200.athena.vc.f0/README.md) | vc hood | active |

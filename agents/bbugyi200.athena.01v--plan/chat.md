@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 01v--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-01v__plan-260814_174134.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-01v__code-260814_174134.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/k_preview_shorthand_arg_text.md
 
 

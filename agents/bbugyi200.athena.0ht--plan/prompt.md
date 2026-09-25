@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `sase-xe.16.11.6.1` sase agent just failed due to a commit finalizer conflict, but I don't think the agent had a sufficient opportunity to resolve this conflict. Can you help me confirm/deny my suspicion, diagnose the true root cause, and fix the issue? #plan %m:claude-fable-5

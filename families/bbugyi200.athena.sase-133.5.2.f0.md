@@ -25,10 +25,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-133.5.2](../agents/bbugyi200.athena.sase-133.5.2/README.md) | ancestor | waiting |
-| [sase-133.5.1](bbugyi200.athena.sase-133.5.1.md) (family · 7) | sase-133.5 hood | completed 4, failed 3 |
-| [sase-133.5.3](bbugyi200.athena.sase-133.5.3.md) (family · 5) | sase-133.5 hood | completed 3, failed 2 |
+| [sase-133.5.1](bbugyi200.athena.sase-133.5.1.md) (family · 7) | sase-133.5 hood | active 3, completed 1, failed 3 |
+| [sase-133.5.3](bbugyi200.athena.sase-133.5.3.md) (family · 5) | sase-133.5 hood | active 3, failed 2 |
 | [sase-133.5.4](../agents/bbugyi200.athena.sase-133.5.4/README.md) | sase-133.5 hood | active |
-| [sase-133.5.land](../agents/bbugyi200.athena.sase-133.5.land/README.md) | sase-133.5 hood | waiting |
+| [sase-133.5.land](../agents/bbugyi200.athena.sase-133.5.land/README.md) | sase-133.5 hood | active |
 | [sase-133.1](bbugyi200.athena.sase-133.1.md) (family · 3) | sase-133 hood | active 2, completed 1 |
 | [sase-133.2](bbugyi200.athena.sase-133.2.md) (family · 3) | sase-133 hood | active 2, completed 1 |
 | [sase-133.3](bbugyi200.athena.sase-133.3.md) (family · 3) | sase-133 hood | active 2, completed 1 |

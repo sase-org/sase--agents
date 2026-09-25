@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me implement the plan described in the ~/.sase/plans/202609/unrelated_red_gate_bead_close.md file? %m:@medium

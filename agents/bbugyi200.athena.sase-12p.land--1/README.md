@@ -16,12 +16,12 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-12p.1](../bbugyi200.athena.sase-12p.1/README.md) | sase-12p hood | completed |
-| [sase-12p.2](../bbugyi200.athena.sase-12p.2/README.md) | sase-12p hood | completed |
-| [sase-12p.3](../../families/bbugyi200.athena.sase-12p.3.md) (family · 3) | sase-12p hood | completed 2, failed 1 |
+| [sase-12p.1](../bbugyi200.athena.sase-12p.1/README.md) | sase-12p hood | active |
+| [sase-12p.2](../bbugyi200.athena.sase-12p.2/README.md) | sase-12p hood | active |
+| [sase-12p.3](../../families/bbugyi200.athena.sase-12p.3.md) (family · 3) | sase-12p hood | active 3 |

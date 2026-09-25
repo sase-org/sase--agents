@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0ii](../../users/bbugyi200/machines/athena/hoods/0ii/README.md) / [0ii](../../families/bbugyi200.athena.0ii.md) / 0ii--code
 
-**Global name:** `bbugyi200.athena.0ii--code` · **State:** active · **Source run:** `run-8b889e02ad28512d707c125fb6058d2f`
+**Global name:** `bbugyi200.athena.0ii--code` · **State:** completed · **Source run:** `run-8b889e02ad28512d707c125fb6058d2f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0ii
 
@@ -10,12 +10,12 @@
 
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-10T20:36:17.208289+00:00
+- Timing: 2026-09-10T20:36:17.208289+00:00 → 2026-09-10T21:00:16.661801+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 

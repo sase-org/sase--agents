@@ -16,7 +16,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -28,6 +28,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-15p.1](../bbugyi200.athena.sase-15p.1/README.md) | sase-15p hood | completed |
-| [sase-15p.2](../bbugyi200.athena.sase-15p.2/README.md) | sase-15p hood | completed |
-| [sase-15p.3](../bbugyi200.athena.sase-15p.3/README.md) | sase-15p hood | completed |
+| [sase-15p.1](../bbugyi200.athena.sase-15p.1/README.md) | sase-15p hood | active |
+| [sase-15p.2](../bbugyi200.athena.sase-15p.2/README.md) | sase-15p hood | active |
+| [sase-15p.3](../bbugyi200.athena.sase-15p.3/README.md) | sase-15p hood | active |

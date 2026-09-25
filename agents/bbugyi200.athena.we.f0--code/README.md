@@ -27,8 +27,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [we](../bbugyi200.athena.we/README.md) | ancestor | dismissed |
-| [we.f0.f0](../bbugyi200.athena.we.f0.f0/README.md) | descendant | dismissed |
-| [we.f0.w0](../bbugyi200.athena.we.f0.w0/README.md) | descendant | dismissed |
-| [we.f0.w1](../bbugyi200.athena.we.f0.w1/README.md) | descendant | dismissed |
-| [we.f0.w2](../bbugyi200.athena.we.f0.w2/README.md) | descendant | dismissed |
+| [we](../bbugyi200.athena.we/README.md) | ancestor | active |
+| [we.f0.f0](../bbugyi200.athena.we.f0.f0/README.md) | descendant | waiting |
+| [we.f0.w0](../bbugyi200.athena.we.f0.w0/README.md) | descendant | waiting |
+| [we.f0.w1](../bbugyi200.athena.we.f0.w1/README.md) | descendant | active |
+| [we.f0.w2](../bbugyi200.athena.we.f0.w2/README.md) | descendant | active |

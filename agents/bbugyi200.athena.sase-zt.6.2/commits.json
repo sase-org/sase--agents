@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789308823,"sha":"bb68af0fe50be89b3ab7d483aa31f5f2517cba67","subject":"feat(queue): adopt canonical capacity wire and preserve continuation budgets"}],"schema_version":2,"source_run_id":"run-1641ad06051ec3aa3104643e7a77ae11"}

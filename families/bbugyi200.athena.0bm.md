@@ -23,9 +23,9 @@ flowchart TD
   n0 --> n6
   n7["0bm--3 [completed]"]
   n0 --> n7
-  n8["0bm--plan [completed]"]
+  n8["0bm--plan [active]"]
   n0 --> n8
-  n9["0bm--4 [active]"]
+  n9["0bm--4 [completed]"]
   n0 --> n9
 ```
 
@@ -41,5 +41,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-1"></a>mon-1 | 0bm--mon-1 | failed | grok-4.6 / grok | 2026-08-23T14:57:44.172542+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0bm--mon-1/chat.md) |
 | <a id="member-2"></a>2 | 0bm--2 | completed | grok-4.6 / grok | 2026-08-23T14:50:29.709477+00:00 → 2026-08-23T14:57:58.586341+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0bm--2/prompt.md) | [Chat](../agents/bbugyi200.athena.0bm--2/chat.md) |
 | <a id="member-3"></a>3 | 0bm--3 | completed | grok-4.6 / grok | 2026-08-23T15:18:30.276451+00:00 → 2026-08-23T15:24:53.784650+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0bm--3/prompt.md) | [Chat](../agents/bbugyi200.athena.0bm--3/chat.md) |
-| <a id="member-plan"></a>plan | 0bm--plan | completed | gpt-5.6-sol / codex | 2026-08-23T12:00:53.607271+00:00 → 2026-08-23T13:30:52.543903+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0bm--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0bm--plan/chat.md) |
-| <a id="member-4"></a>4 | 0bm--4 | active | grok-4.6 / grok | 2026-08-23T15:30:25.583078+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0bm--4/prompt.md) | — |
+| <a id="member-plan"></a>plan | 0bm--plan | active | gpt-5.6-sol / codex | 2026-08-23T12:00:53.607271+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0bm--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0bm--plan/chat.md) |
+| <a id="member-4"></a>4 | 0bm--4 | completed | grok-4.6 / grok | 2026-08-23T15:30:25.583078+00:00 → 2026-08-23T15:45:39.371694+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0bm--4/prompt.md) | [Chat](../agents/bbugyi200.athena.0bm--4/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`1d00fb2`](https://github.com/sase-org/sase/commit/1d00fb2c4b67be95784ddb22964b14d315d7a366) | feat(agent): admit direct ACE and sase run typed proc launches | 2026-08-23 11:43:07 EDT |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [6j](../../users/bbugyi200/machines/athena/hoods/6j/README.md) / 6j
 
-**Global name:** `bbugyi200.athena.6j` · **State:** active · **Source run:** `run-9c37550d67b292204950b8eff3394bd6`
+**Global name:** `bbugyi200.athena.6j` · **State:** dismissed · **Source run:** `run-9c37550d67b292204950b8eff3394bd6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 6j
 
@@ -10,12 +10,8 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 2026-07-12T12:32:18.137132+00:00
+- Timing: 2026-07-12T08:32:18.137132 → 2026-07-12T08:32:21.334526
 - Commits: [2](#commits)
-
-## Files
-
-[Prompt](prompt.md)
 
 ## Commits
 

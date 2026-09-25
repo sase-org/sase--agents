@@ -22,5 +22,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [01d](../bbugyi200.athena.01d/README.md) | ancestor | completed |
-| [01d.f0](../bbugyi200.athena.01d.f0/README.md) | 01d hood | dismissed |
-| [01d.f2](../../families/bbugyi200.athena.01d.f2.md) (family · 3) | 01d hood | completed 2, failed 1 |
+| [01d.f0](../bbugyi200.athena.01d.f0/README.md) | 01d hood | active |
+| [01d.f2](../../families/bbugyi200.athena.01d.f2.md) (family · 3) | 01d hood | active 1, completed 1, failed 1 |

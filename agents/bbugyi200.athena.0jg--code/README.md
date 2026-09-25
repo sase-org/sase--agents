@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0jg](../../users/bbugyi200/machines/athena/hoods/0jg/README.md) / [0jg](../../families/bbugyi200.athena.0jg.md) / 0jg--code
 
-**Global name:** `bbugyi200.athena.0jg--code` · **State:** active · **Source run:** `run-6114438ccf9d2be5177c7a48eb68402d`
+**Global name:** `bbugyi200.athena.0jg--code` · **State:** completed · **Source run:** `run-6114438ccf9d2be5177c7a48eb68402d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0jg
 
@@ -10,12 +10,12 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-11T15:03:53.245968+00:00
+- Timing: 2026-09-11T15:03:53.245968+00:00 → 2026-09-11T17:04:20.015864+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 

@@ -38,4 +38,4 @@
 | [sase-8g.6](../../families/bbugyi200.athena.sase-8g.6.md) (family · 2) | sase-8g hood | active 1, completed 1 |
 | [sase-8g.7](../../families/bbugyi200.athena.sase-8g.7.md) (family · 2) | sase-8g hood | active 1, completed 1 |
 | [sase-8g.8](../../families/bbugyi200.athena.sase-8g.8.md) (family · 2) | sase-8g hood | active 1, completed 1 |
-| [sase-8g.land](../bbugyi200.athena.sase-8g.land/README.md) | sase-8g hood | active |
+| [sase-8g.land](../bbugyi200.athena.sase-8g.land/README.md) | sase-8g hood | dismissed |

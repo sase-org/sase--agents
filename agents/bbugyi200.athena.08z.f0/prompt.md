@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:08z Can you help me figure out why this agent made file changes to the primary workspace directory (i.e. the ~/projects/github/sase-org/sase/ directory) instead of its ephemeral assigned workspace directory (#10)? Think hard about whether or not there is something here that we should fix. #if_so_plan %m:claude-fable-5 %w(runners=100)

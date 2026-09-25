@@ -8,22 +8,22 @@ Owner: `bbugyi200.athena` · Hood: `sase-z7` · Members: 9 · Bead: [sase-z7.3](
 
 ```mermaid
 flowchart TD
-  n0["sase-z7.3--mon [failed]"]
-  n1["sase-z7.3--plan [completed]"]
+  n0["sase-z7.3--mon [active]"]
+  n1["sase-z7.3--plan [active]"]
   n0 --> n1
-  n2["sase-z7.3--mon-2 [failed]"]
+  n2["sase-z7.3--mon-2 [active]"]
   n0 --> n2
-  n3["sase-z7.3--1 [completed]"]
+  n3["sase-z7.3--1 [active]"]
   n0 --> n3
-  n4["sase-z7.3--2 [completed]"]
+  n4["sase-z7.3--2 [active]"]
   n0 --> n4
-  n5["sase-z7.3--mon-1 [failed]"]
+  n5["sase-z7.3--mon-1 [active]"]
   n0 --> n5
-  n6["sase-z7.3--3 [completed]"]
+  n6["sase-z7.3--3 [active]"]
   n0 --> n6
-  n7["sase-z7.3--mon-0 [failed]"]
+  n7["sase-z7.3--mon-0 [active]"]
   n0 --> n7
-  n8["sase-z7.3--4 [completed]"]
+  n8["sase-z7.3--4 [active]"]
   n0 --> n8
 ```
 
@@ -31,15 +31,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | sase-z7.3--mon | failed | sonnet / claude | 2026-09-10T19:02:53.761797+00:00 → 2026-09-10T19:04:31.856809+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-z7.3--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-z7.3--plan | completed | sonnet / claude | 2026-09-10T18:21:33.599824+00:00 → 2026-09-10T19:03:15.486763+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-z7.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-z7.3--plan/chat.md) |
-| <a id="member-mon-2"></a>mon-2 | sase-z7.3--mon-2 | failed | opus / claude | 2026-09-10T19:18:35.058744+00:00 → 2026-09-10T19:30:54.521378+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-z7.3--mon-2/chat.md) |
-| <a id="member-1"></a>1 | sase-z7.3--1 | completed | opus / claude | 2026-09-10T19:06:00.950766+00:00 → 2026-09-10T19:07:28.327891+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-z7.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-z7.3--1/chat.md) |
-| <a id="member-2"></a>2 | sase-z7.3--2 | completed | opus / claude | 2026-09-10T19:10:11.077689+00:00 → 2026-09-10T19:11:34.384951+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-z7.3--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-z7.3--2/chat.md) |
-| <a id="member-mon-1"></a>mon-1 | sase-z7.3--mon-1 | failed | opus / claude | 2026-09-10T19:11:19.111813+00:00 → 2026-09-10T19:14:09.206405+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-z7.3--mon-1/chat.md) |
-| <a id="member-3"></a>3 | sase-z7.3--3 | completed | opus / claude | 2026-09-10T19:15:43.853707+00:00 → 2026-09-10T19:18:52.139288+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-z7.3--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-z7.3--3/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | sase-z7.3--mon-0 | failed | opus / claude | 2026-09-10T19:07:11.165820+00:00 → 2026-09-10T19:08:43.884332+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-z7.3--mon-0/chat.md) |
-| <a id="member-4"></a>4 | sase-z7.3--4 | completed | opus / claude | 2026-09-10T19:32:34.255436+00:00 → 2026-09-10T20:20:16.649537+00:00 | [1](../agents/bbugyi200.athena.sase-z7.3--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-z7.3--4/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-z7.3--4/chat.md) |
+| <a id="member-mon"></a>mon | sase-z7.3--mon | active | sonnet / claude | 2026-09-10T19:02:53.761797+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-z7.3--mon/chat.md) |
+| <a id="member-plan"></a>plan | sase-z7.3--plan | active | sonnet / claude | 2026-09-10T18:21:33.599824+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-z7.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-z7.3--plan/chat.md) |
+| <a id="member-mon-2"></a>mon-2 | sase-z7.3--mon-2 | active | opus / claude | 2026-09-10T19:18:35.058744+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-z7.3--mon-2/chat.md) |
+| <a id="member-1"></a>1 | sase-z7.3--1 | active | opus / claude | 2026-09-10T19:06:00.950766+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-z7.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-z7.3--1/chat.md) |
+| <a id="member-2"></a>2 | sase-z7.3--2 | active | opus / claude | 2026-09-10T19:10:11.077689+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-z7.3--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-z7.3--2/chat.md) |
+| <a id="member-mon-1"></a>mon-1 | sase-z7.3--mon-1 | active | opus / claude | 2026-09-10T19:11:19.111813+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-z7.3--mon-1/chat.md) |
+| <a id="member-3"></a>3 | sase-z7.3--3 | active | opus / claude | 2026-09-10T19:15:43.853707+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-z7.3--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-z7.3--3/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | sase-z7.3--mon-0 | active | opus / claude | 2026-09-10T19:07:11.165820+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-z7.3--mon-0/chat.md) |
+| <a id="member-4"></a>4 | sase-z7.3--4 | active | opus / claude | 2026-09-10T19:32:34.255436+00:00 | [1](../agents/bbugyi200.athena.sase-z7.3--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-z7.3--4/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-z7.3--4/chat.md) |
 
 ## Commits
 
@@ -51,6 +51,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-z7.1](../agents/bbugyi200.athena.sase-z7.1/README.md) | sase-z7 hood | completed |
-| [sase-z7.2](../agents/bbugyi200.athena.sase-z7.2/README.md) | sase-z7 hood | completed |
-| [sase-z7.land](../agents/bbugyi200.athena.sase-z7.land/README.md) | sase-z7 hood | completed |
+| [sase-z7.1](../agents/bbugyi200.athena.sase-z7.1/README.md) | sase-z7 hood | active |
+| [sase-z7.2](../agents/bbugyi200.athena.sase-z7.2/README.md) | sase-z7 hood | active |
+| [sase-z7.land](../agents/bbugyi200.athena.sase-z7.land/README.md) | sase-z7 hood | active |

@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-to.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_to_land__plan-260825_130632.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_to_land__code-260825_130632.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/plugins_required_batch_fallback.md
 
 

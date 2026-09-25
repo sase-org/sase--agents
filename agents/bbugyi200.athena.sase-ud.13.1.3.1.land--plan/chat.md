@@ -1,11 +1,8 @@
 # Chat History - ace-run (sase-ud.13.1.3.1.land--plan)
 
-- **TIMESTAMP:** 2026-08-28 07:09:29 EDT
+- **TIMESTAMP:** 2026-08-28 08:57:30 EDT
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-ud.13.1.3.1.land--plan
-
-**Plan:** /home/bryan/.sase/plans/202608/finish_status_strip.md
-
 
 ## Prompt
 
@@ -66,20 +63,25 @@ and report it in your final response.
 
 ## Response
 
-*Plan submitted for review.*
+# Monitor handoff
 
-**Plan file:** `/home/bryan/.sase/plans/202608/finish_status_strip.md`
+This agent delegated the remaining work to a monitor shell.
+Monitor ID: 57ezssx044z4
+Inspect with: sase monitor show 57ezssx044z4
+Monitor shell: sase-ud.13.1.3.1.land--mon
+Directory: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_19
 
-> - **PARENT:** [202608/status_strip.md](202608/status_strip.md)
-> # Plan
-> ## Context
-> Epic `sase-ud.13.1.3.1` proved the gate-shell projection contract and removed the
-> notification-driven writers, but it is not complete on the current tree.
-> - Phase `sase-ud.13.1.3.1.3` removed synthetic planner rows in commit `b69b07bc9`.
->   Concurrent Master Gate work then restored them in `4d3156363`, changed the tests to
->   require them in `9c3764539`, and extended their status policy in `69527b84a`.
-> - Phase `sase-ud.13.1.3.1.4` recorded that timestamp reconstruction helpers were
->   deleted, but its landing commit `8efce6de9` did not contain those deletions. The
+Command:
 
-*See full plan file for details.*
+```sh
+just check
+```
+
+Reason:
+
+Verify the fully integrated sase-ud.13.1.3.1 tree before parent epic closure
+
+Next action:
+
+Continue landing epic sase-ud.13.1.3.1. Review the retained audit context and monitor output. If just check passed, close sase-ud.13.1.3.1 with a detailed note covering all phase/source/commit/drift/follow-up outcomes; run just symvision; mark plan:202608/status_strip.md status done. Then inspect parent_bead sase-ud.13.1.3: because it is a phase bead, verify this child plan satisfies that phase and close it normally, leaving containing epic sase-ud.13.1 to its land agent. Run any required final checks and /sase_final before replying. If just check failed, fix only epic-caused issues before closure; route unrelated failures per policy.
 

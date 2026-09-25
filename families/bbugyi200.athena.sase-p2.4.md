@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["sase-p2.4--1 [completed]"]
   n0 --> n3
-  n4["sase-p2.4--plan [completed]"]
+  n4["sase-p2.4--plan [active]"]
   n0 --> n4
 ```
 
@@ -27,13 +27,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-2"></a>2 | sase-p2.4--2 | completed | sonnet / claude | 2026-08-18T02:34:20.790926+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p2.4--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p2.4--2/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-p2.4--mon-0 | failed | sonnet / claude | 2026-08-18T02:31:11.810216+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-p2.4--mon-0/chat.md) |
 | <a id="member-1"></a>1 | sase-p2.4--1 | completed | sonnet / claude | 2026-08-18T02:27:38.839042+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p2.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p2.4--1/chat.md) |
-| <a id="member-plan"></a>plan | sase-p2.4--plan | completed | sonnet / claude | 2026-08-18T02:05:24.782389+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p2.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p2.4--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-p2.4--plan | active | sonnet / claude | 2026-08-18T02:05:24.782389+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p2.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p2.4--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`fd2d71a`](https://github.com/sase-org/sase/commit/fd2d71afc6f26db5b086dfa6063f2a98e4f4b5f1) | feat(ace): jump to repo checkout with Ctrl+\] | 2026-08-17 22:40:56 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-p2.1](../agents/bbugyi200.athena.sase-p2.1/README.md) | sase-p2 hood | completed |
-| [sase-p2.2](bbugyi200.athena.sase-p2.2.md) (family · 3) | sase-p2 hood | completed 2, failed 1 |
-| [sase-p2.3](bbugyi200.athena.sase-p2.3.md) (family · 11) | sase-p2 hood | completed 6, failed 5 |
-| [sase-p2.land](bbugyi200.athena.sase-p2.land.md) (family · 3) | sase-p2 hood | completed 2, failed 1 |
+| [sase-p2.1](../agents/bbugyi200.athena.sase-p2.1/README.md) | sase-p2 hood | active |
+| [sase-p2.2](bbugyi200.athena.sase-p2.2.md) (family · 3) | sase-p2 hood | active 1, completed 1, failed 1 |
+| [sase-p2.3](bbugyi200.athena.sase-p2.3.md) (family · 11) | sase-p2 hood | active 1, completed 5, failed 5 |
+| [sase-p2.land](bbugyi200.athena.sase-p2.land.md) (family · 3) | sase-p2 hood | active 1, completed 1, failed 1 |

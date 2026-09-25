@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-q0.4--mon [failed]"]
   n1["sase-q0.4--1 [completed]"]
   n0 --> n1
-  n2["sase-q0.4--plan [completed]"]
+  n2["sase-q0.4--plan [active]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-q0.4--mon | failed | grok-4.6 / grok | 2026-08-18T21:10:59.815544+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-q0.4--mon/chat.md) |
 | <a id="member-1"></a>1 | sase-q0.4--1 | completed | grok-4.6 / grok | 2026-08-18T21:11:59.890352+00:00 | [1](../agents/bbugyi200.athena.sase-q0.4--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-q0.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-q0.4--1/chat.md) |
-| <a id="member-plan"></a>plan | sase-q0.4--plan | completed | grok-4.6 / grok | 2026-08-18T20:34:02.365196+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-q0.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-q0.4--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-q0.4--plan | active | grok-4.6 / grok | 2026-08-18T20:34:02.365196+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-q0.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-q0.4--plan/chat.md) |
 
 ## Commits
 
@@ -33,10 +33,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-q0.1](bbugyi200.athena.sase-q0.1.md) (family · 5) | sase-q0 hood | completed 3, failed 2 |
-| [sase-q0.2](../agents/bbugyi200.athena.sase-q0.2/README.md) | sase-q0 hood | completed |
-| [sase-q0.3](../agents/bbugyi200.athena.sase-q0.3/README.md) | sase-q0 hood | completed |
-| [sase-q0.5.1](../agents/bbugyi200.athena.sase-q0.5.1/README.md) | sase-q0 hood | completed |
-| [sase-q0.5.2](../agents/bbugyi200.athena.sase-q0.5.2/README.md) | sase-q0 hood | completed |
-| [sase-q0.5.land](../agents/bbugyi200.athena.sase-q0.5.land/README.md) | sase-q0 hood | completed |
-| [sase-q0.land](bbugyi200.athena.sase-q0.land.md) (family · 2) | sase-q0 hood | failed 2 |
+| [sase-q0.1](bbugyi200.athena.sase-q0.1.md) (family · 5) | sase-q0 hood | active 1, completed 2, failed 2 |
+| [sase-q0.2](../agents/bbugyi200.athena.sase-q0.2/README.md) | sase-q0 hood | active |
+| [sase-q0.3](../agents/bbugyi200.athena.sase-q0.3/README.md) | sase-q0 hood | active |
+| [sase-q0.5.1](../agents/bbugyi200.athena.sase-q0.5.1/README.md) | sase-q0 hood | active |
+| [sase-q0.5.2](../agents/bbugyi200.athena.sase-q0.5.2/README.md) | sase-q0 hood | active |
+| [sase-q0.5.land](../agents/bbugyi200.athena.sase-q0.5.land/README.md) | sase-q0 hood | active |
+| [sase-q0.land](bbugyi200.athena.sase-q0.land.md) (family · 2) | sase-q0 hood | active 1, failed 1 |

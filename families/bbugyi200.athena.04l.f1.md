@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `04l` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["04l.f1--plan [completed]"]
+  n0["04l.f1--plan [active]"]
   n1["04l.f1--code [completed]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 04l.f1--plan | completed | opus / claude | 2026-08-17T13:55:40.194719+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.04l.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.04l.f1--plan/chat.md) |
+| <a id="member-plan"></a>plan | 04l.f1--plan | active | opus / claude | 2026-08-17T13:55:40.194719+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.04l.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.04l.f1--plan/chat.md) |
 | <a id="member-code"></a>code | 04l.f1--code | completed | sonnet / claude | 2026-08-17T14:10:40.009206+00:00 | [1](../agents/bbugyi200.athena.04l.f1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.04l.f1--code/chat.md) |
 
 ## Commits
@@ -31,3 +31,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [04l](../agents/bbugyi200.athena.04l/README.md) | ancestor | completed |
+| [04l.f0](../agents/bbugyi200.athena.04l.f0/README.md) | 04l hood | active |

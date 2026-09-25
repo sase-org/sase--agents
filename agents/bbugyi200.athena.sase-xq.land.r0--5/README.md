@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -28,6 +28,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-xq.land](../bbugyi200.athena.sase-xq.land/README.md) | ancestor | waiting |
-| [sase-xq.1](../bbugyi200.athena.sase-xq.1/README.md) | sase-xq hood | completed |
-| [sase-xq.2](../bbugyi200.athena.sase-xq.2/README.md) | sase-xq hood | completed |
-| [sase-xq.3](../bbugyi200.athena.sase-xq.3/README.md) | sase-xq hood | completed |
+| [sase-xq.1](../bbugyi200.athena.sase-xq.1/README.md) | sase-xq hood | active |
+| [sase-xq.2](../bbugyi200.athena.sase-xq.2/README.md) | sase-xq hood | active |
+| [sase-xq.3](../bbugyi200.athena.sase-xq.3/README.md) | sase-xq hood | active |

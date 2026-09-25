@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-ri.land.w2.f2.w2.f1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ri_land_w2_f2_w2_f1__plan-260821_095356.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ri_land_w2_f2_w2_f1__code-260821_095356.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/dot_prefixed_glossary_memory_links.md
 
 

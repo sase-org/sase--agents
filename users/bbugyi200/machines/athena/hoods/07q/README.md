@@ -2,8 +2,8 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 07q
 
-**Global hood:** `bbugyi200.athena.07q` · **Runs:** 1 · **Families:** 0 · **States:** completed 1
+**Global hood:** `bbugyi200.athena.07q` · **Runs:** 1 · **Families:** 0 · **States:** active 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [07q](../../../../../../agents/bbugyi200.athena.07q/README.md) | completed | — | 2026-06-27T13:49:49+00:00 → 2026-06-27T13:57:29+00:00 | 2 | — |
+| [07q](../../../../../../agents/bbugyi200.athena.07q/README.md) | active | opus / claude | 2026-08-19T13:42:09.799450+00:00 | 2 | [prompt](../../../../../../agents/bbugyi200.athena.07q/prompt.md) |

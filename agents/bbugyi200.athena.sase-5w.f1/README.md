@@ -21,13 +21,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5w](../bbugyi200.athena.sase-5w/README.md) | ancestor | active |
+| [sase-5w](../bbugyi200.athena.sase-5w/README.md) | ancestor | dismissed |
 | [sase-5w.1](../bbugyi200.athena.sase-5w.1/README.md) | sase-5w hood | active |
-| [sase-5w.2](../bbugyi200.athena.sase-5w.2/README.md) | sase-5w hood | active |
-| [sase-5w.3](../bbugyi200.athena.sase-5w.3/README.md) | sase-5w hood | active |
-| [sase-5w.4](../bbugyi200.athena.sase-5w.4/README.md) | sase-5w hood | active |
-| [sase-5w.5](../bbugyi200.athena.sase-5w.5/README.md) | sase-5w hood | active |
-| [sase-5w.6](../bbugyi200.athena.sase-5w.6/README.md) | sase-5w hood | active |
+| [sase-5w.2](../bbugyi200.athena.sase-5w.2/README.md) | sase-5w hood | dismissed |
+| [sase-5w.3](../bbugyi200.athena.sase-5w.3/README.md) | sase-5w hood | dismissed |
+| [sase-5w.4](../bbugyi200.athena.sase-5w.4/README.md) | sase-5w hood | dismissed |
+| [sase-5w.5](../bbugyi200.athena.sase-5w.5/README.md) | sase-5w hood | dismissed |
+| [sase-5w.6](../bbugyi200.athena.sase-5w.6/README.md) | sase-5w hood | dismissed |
 | [sase-5w.f0](../bbugyi200.athena.sase-5w.f0/README.md) | sase-5w hood | waiting |
-| [sase-5w.f2](../bbugyi200.athena.sase-5w.f2/README.md) | sase-5w hood | active |
+| [sase-5w.f2](../bbugyi200.athena.sase-5w.f2/README.md) | sase-5w hood | dismissed |
 | [sase-5w.f3](../../families/bbugyi200.athena.sase-5w.f3.md) (family · 2) | sase-5w hood | active 1, completed 1 |

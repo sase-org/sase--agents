@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** sase-rp.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_rp_land__plan-260821_062449.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_rp_land__code-260821_062449.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/config_launch_refresh_dedup.md
 
 

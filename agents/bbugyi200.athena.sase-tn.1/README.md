@@ -23,5 +23,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-tn.2](../bbugyi200.athena.sase-tn.2/README.md) | sase-tn hood | waiting |
-| [sase-tn.land](../bbugyi200.athena.sase-tn.land/README.md) | sase-tn hood | waiting |
+| [sase-tn.2](../bbugyi200.athena.sase-tn.2/README.md) | sase-tn hood | active |
+| [sase-tn.land](../bbugyi200.athena.sase-tn.land/README.md) | sase-tn hood | active |

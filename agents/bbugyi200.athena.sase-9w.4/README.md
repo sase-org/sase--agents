@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-9w](../../users/bbugyi200/machines/athena/hoods/sase-9w/README.md) / sase-9w.4
 
-**Global name:** `bbugyi200.athena.sase-9w.4` · **State:** active · **Source run:** `run-f812141584e692ce63d7e7e2041acc42`
+**Global name:** `bbugyi200.athena.sase-9w.4` · **State:** dismissed · **Source run:** `run-f812141584e692ce63d7e7e2041acc42`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-9w
 
@@ -11,12 +11,12 @@
 - Bead: [sase-9w.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-9w/sase-9w.4.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-07-27T10:13:09.355965+00:00
+- Timing: 2026-07-27T06:13:09.355965 → 2026-07-27T06:32:40.435436
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 

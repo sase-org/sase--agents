@@ -36,6 +36,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [8b](bbugyi200.athena.8b.md) (family · 2) | ancestor | active 1, completed 1 |
 | [8b.f0.w1.w1.f0](../agents/bbugyi200.athena.8b.f0.w1.w1.f0/README.md) | 8b.f0.w1.w1 hood | active |
 | [8b.f0.w1.w1.f1](../agents/bbugyi200.athena.8b.f0.w1.w1.f1/README.md) | 8b.f0.w1.w1 hood | active |
-| [8b.f0.w1.w0](../agents/bbugyi200.athena.8b.f0.w1.w0/README.md) | 8b.f0.w1 hood | active |
-| [8b.f0.w0](../agents/bbugyi200.athena.8b.f0.w0/README.md) | 8b.f0 hood | active |
+| [8b.f0.w1.w0](../agents/bbugyi200.athena.8b.f0.w1.w0/README.md) | 8b.f0.w1 hood | dismissed |
+| [8b.f0.w0](../agents/bbugyi200.athena.8b.f0.w0/README.md) | 8b.f0 hood | dismissed |
 | [8b.cld](../agents/bbugyi200.athena.8b.cld/README.md) | 8b hood | completed |

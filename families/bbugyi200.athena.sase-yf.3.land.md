@@ -33,13 +33,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-yf.3.1](../agents/bbugyi200.athena.sase-yf.3.1/README.md) | sase-yf.3 hood | completed |
-| [sase-yf.3.2](../agents/bbugyi200.athena.sase-yf.3.2/README.md) | sase-yf.3 hood | failed |
-| [sase-yf.1](../agents/bbugyi200.athena.sase-yf.1/README.md) | sase-yf hood | completed |
-| [sase-yf.2](../agents/bbugyi200.athena.sase-yf.2/README.md) | sase-yf hood | completed |
-| [sase-yf.land](bbugyi200.athena.sase-yf.land.md) (family · 3) | sase-yf hood | failed 3 |
-| [sase-yf.land.w0.w0](../agents/bbugyi200.athena.sase-yf.land.w0.w0/README.md) | sase-yf hood | dismissed |
-| [sase-yf.land.w0.w1](../agents/bbugyi200.athena.sase-yf.land.w0.w1/README.md) | sase-yf hood | dismissed |
-| [sase-yf.land.w1](../agents/bbugyi200.athena.sase-yf.land.w1/README.md) | sase-yf hood | dismissed |
+| [sase-yf.3.1](../agents/bbugyi200.athena.sase-yf.3.1/README.md) | sase-yf.3 hood | active |
+| [sase-yf.3.2](../agents/bbugyi200.athena.sase-yf.3.2/README.md) | sase-yf.3 hood | active |
+| [sase-yf.1](../agents/bbugyi200.athena.sase-yf.1/README.md) | sase-yf hood | active |
+| [sase-yf.2](../agents/bbugyi200.athena.sase-yf.2/README.md) | sase-yf hood | active |
+| [sase-yf.land](bbugyi200.athena.sase-yf.land.md) (family · 3) | sase-yf hood | active 3 |
+| [sase-yf.land.w0.w0](../agents/bbugyi200.athena.sase-yf.land.w0.w0/README.md) | sase-yf hood | waiting |
+| [sase-yf.land.w0.w1](../agents/bbugyi200.athena.sase-yf.land.w0.w1/README.md) | sase-yf hood | active |
+| [sase-yf.land.w1](../agents/bbugyi200.athena.sase-yf.land.w1/README.md) | sase-yf hood | waiting |
 | [sase-yf.land.w2.w0](../agents/bbugyi200.athena.sase-yf.land.w2.w0/README.md) | sase-yf hood | waiting |
-| [sase-yf.land.w3](../agents/bbugyi200.athena.sase-yf.land.w3/README.md) | sase-yf hood | active |
+| [sase-yf.land.w3](bbugyi200.athena.sase-yf.land.w3.md) (family · 3) | sase-yf hood | active 1, failed 2 |

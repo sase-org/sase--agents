@@ -1,0 +1,21 @@
+# Hood: sase-14s
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-14s
+
+**Global hood:** `bbugyi200.athena.sase-14s` · **Runs:** 13 · **Families:** 1 · **States:** active 11, failed 2
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [sase-14s.6--1](../../../../../../families/bbugyi200.athena.sase-14s.6.md#member-1) | failed | muse-spark-1.3-contributor / muse | 2026-09-21T05:14:40.017342+00:00 → 2026-09-21T05:26:57.617574+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-14s.6--1/prompt.md) |
+| [sase-14s.1](../../../../../../agents/bbugyi200.athena.sase-14s.1/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-20T23:24:47.420352+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-14s.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-14s.1/chat.md) |
+| [sase-14s.8](../../../../../../agents/bbugyi200.athena.sase-14s.8/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-21T12:50:58.419751+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-14s.8/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-14s.8/chat.md) |
+| [sase-14s.9](../../../../../../agents/bbugyi200.athena.sase-14s.9/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-21T13:37:34.785447+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-14s.9/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-14s.9/chat.md) |
+| [sase-14s.land](../../../../../../agents/bbugyi200.athena.sase-14s.land/README.md) | active | opus / claude | 2026-09-21T15:38:45.717527+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-14s.land/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-14s.land/chat.md) |
+| [sase-14s.6--plan](../../../../../../families/bbugyi200.athena.sase-14s.6.md#member-plan) | active | muse-spark-1.3-contributor / muse | 2026-09-21T04:27:52.496161+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-14s.6--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-14s.6--plan/chat.md) |
+| [sase-14s.6--mon](../../../../../../families/bbugyi200.athena.sase-14s.6.md#member-mon) | failed | muse-spark-1.3-contributor / muse | 2026-09-21T05:08:31.856204+00:00 → 2026-09-21T05:14:40.533368+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-14s.6--mon/chat.md) |
+| [sase-14s.2](../../../../../../agents/bbugyi200.athena.sase-14s.2/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-21T00:33:49.879245+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-14s.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-14s.2/chat.md) |
+| [sase-14s.3](../../../../../../agents/bbugyi200.athena.sase-14s.3/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-21T01:38:42.432291+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-14s.3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-14s.3/chat.md) |
+| [sase-14s.4](../../../../../../agents/bbugyi200.athena.sase-14s.4/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-21T02:42:04.455335+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-14s.4/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-14s.4/chat.md) |
+| [sase-14s.10](../../../../../../agents/bbugyi200.athena.sase-14s.10/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-21T14:36:45.911555+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-14s.10/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-14s.10/chat.md) |
+| [sase-14s.7](../../../../../../agents/bbugyi200.athena.sase-14s.7/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-21T11:46:45.882595+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-14s.7/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-14s.7/chat.md) |
+| [sase-14s.5](../../../../../../agents/bbugyi200.athena.sase-14s.5/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-21T03:32:06.065960+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-14s.5/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-14s.5/chat.md) |

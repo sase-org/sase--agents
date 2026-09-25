@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 0cg--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0cg__plan-260824_110726.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0cg__code-260824_110726.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/fix_symvision_setup_syntax.md
 
 

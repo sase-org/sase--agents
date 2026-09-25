@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-oc](../../users/bbugyi200/machines/athena/hoods/sase-oc/README.md) / [sase-oc.8](../../families/bbugyi200.athena.sase-oc.8.md) / sase-oc.8--mon-1
 
-**Global name:** `bbugyi200.athena.sase-oc.8--mon-1` · **State:** failed · **Source run:** `run-44363dc1395e58eee962986619a50538`
+**Global name:** `bbugyi200.athena.sase-oc.8--mon-1` · **State:** active · **Source run:** `run-44363dc1395e58eee962986619a50538`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-oc
 
@@ -14,19 +14,15 @@
 - Timing: 2026-08-17T19:18:01.392129+00:00
 - Commits: 0
 
-## Files
-
-[Chat](chat.md)
-
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-oc.1](../bbugyi200.athena.sase-oc.1/README.md) | sase-oc hood | completed |
-| [sase-oc.2](../bbugyi200.athena.sase-oc.2/README.md) | sase-oc hood | completed |
-| [sase-oc.3](../bbugyi200.athena.sase-oc.3/README.md) | sase-oc hood | completed |
-| [sase-oc.4](../bbugyi200.athena.sase-oc.4/README.md) | sase-oc hood | completed |
-| [sase-oc.5](../bbugyi200.athena.sase-oc.5/README.md) | sase-oc hood | completed |
-| [sase-oc.6](../bbugyi200.athena.sase-oc.6/README.md) | sase-oc hood | completed |
-| [sase-oc.7](../bbugyi200.athena.sase-oc.7/README.md) | sase-oc hood | completed |
-| [sase-oc.land](../bbugyi200.athena.sase-oc.land/README.md) | sase-oc hood | completed |
+| [sase-oc.1](../bbugyi200.athena.sase-oc.1/README.md) | sase-oc hood | active |
+| [sase-oc.2](../bbugyi200.athena.sase-oc.2/README.md) | sase-oc hood | active |
+| [sase-oc.3](../bbugyi200.athena.sase-oc.3/README.md) | sase-oc hood | active |
+| [sase-oc.4](../bbugyi200.athena.sase-oc.4/README.md) | sase-oc hood | active |
+| [sase-oc.5](../bbugyi200.athena.sase-oc.5/README.md) | sase-oc hood | active |
+| [sase-oc.6](../bbugyi200.athena.sase-oc.6/README.md) | sase-oc hood | active |
+| [sase-oc.7](../bbugyi200.athena.sase-oc.7/README.md) | sase-oc hood | active |
+| [sase-oc.land](../bbugyi200.athena.sase-oc.land/README.md) | sase-oc hood | active |

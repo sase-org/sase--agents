@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [057](../../users/bbugyi200/machines/athena/hoods/057/README.md) / [057](../../families/bbugyi200.athena.057.md) / 057--code
 
-**Global name:** `bbugyi200.athena.057--code` · **State:** active · **Source run:** `run-6c6b9bbdbb248eaa7de4995a1106b486`
+**Global name:** `bbugyi200.athena.057--code` · **State:** completed · **Source run:** `run-6c6b9bbdbb248eaa7de4995a1106b486`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 057
 
@@ -12,6 +12,10 @@
 - Provider: claude
 - Timing: 2026-08-17T21:47:02.773287+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
 
 ## Commits
 

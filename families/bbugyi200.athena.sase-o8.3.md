@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-o8` · Members: 3 · Bead: [sase-o8.3](
 
 ```mermaid
 flowchart TD
-  n0["sase-o8.3--1 [completed]"]
+  n0["sase-o8.3--1 [active]"]
   n1["sase-o8.3--mon [failed]"]
   n0 --> n1
-  n2["sase-o8.3--plan [completed]"]
+  n2["sase-o8.3--plan [active]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-o8.3--1 | completed | grok-4.6 / grok | 2026-08-17T11:42:02.447164+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-o8.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-o8.3--1/chat.md) |
+| <a id="member-1"></a>1 | sase-o8.3--1 | active | grok-4.6 / grok | 2026-08-17T11:42:02.447164+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-o8.3--1/prompt.md) | — |
 | <a id="member-mon"></a>mon | sase-o8.3--mon | failed | grok-4.6 / grok | 2026-08-17T11:25:03.196541+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-o8.3--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-o8.3--plan | completed | grok-4.6 / grok | 2026-08-17T11:03:34.303292+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-o8.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-o8.3--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-o8.3--plan | active | grok-4.6 / grok | 2026-08-17T11:03:34.303292+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-o8.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-o8.3--plan/chat.md) |
 
 ## Commits
 
@@ -33,8 +33,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-o8.1](../agents/bbugyi200.athena.sase-o8.1/README.md) | sase-o8 hood | completed |
-| [sase-o8.2](../agents/bbugyi200.athena.sase-o8.2/README.md) | sase-o8 hood | completed |
-| [sase-o8.4](../agents/bbugyi200.athena.sase-o8.4/README.md) | sase-o8 hood | completed |
-| [sase-o8.5](../agents/bbugyi200.athena.sase-o8.5/README.md) | sase-o8 hood | completed |
-| [sase-o8.land](bbugyi200.athena.sase-o8.land.md) (family · 3) | sase-o8 hood | completed 2, failed 1 |
+| [sase-o8.1](../agents/bbugyi200.athena.sase-o8.1/README.md) | sase-o8 hood | active |
+| [sase-o8.2](../agents/bbugyi200.athena.sase-o8.2/README.md) | sase-o8 hood | active |
+| [sase-o8.4](../agents/bbugyi200.athena.sase-o8.4/README.md) | sase-o8 hood | active |
+| [sase-o8.5](../agents/bbugyi200.athena.sase-o8.5/README.md) | sase-o8 hood | active |
+| [sase-o8.land](bbugyi200.athena.sase-o8.land.md) (family · 3) | sase-o8 hood | active 2, failed 1 |

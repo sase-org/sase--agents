@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [lm](../bbugyi200.athena.lm/README.md) | ancestor | completed |
-| [lm.w1](../bbugyi200.athena.lm.w1/README.md) | lm hood | active |
+| [lm.w1](../bbugyi200.athena.lm.w1/README.md) | lm hood | dismissed |

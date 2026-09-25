@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 05r--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-05r__plan-260818_071308.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-05r__code-260818_071308.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/prompt_Y_yanks_to_end_of_line.md
 
 

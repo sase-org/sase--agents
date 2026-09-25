@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b788387a471ad74374d6971d67598238"}
+{"commits":[{"committed_at":1787265889,"sha":"f2b296c45cc8ec039249b9c525fca05cf437f390","subject":"feat(finalizers): add final declaration channel"}],"schema_version":2,"source_run_id":"run-b788387a471ad74374d6971d67598238"}

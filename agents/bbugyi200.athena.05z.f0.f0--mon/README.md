@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [05z.f0](../bbugyi200.athena.05z.f0/README.md) | ancestor | dismissed |
+| [05z.f0](../bbugyi200.athena.05z.f0/README.md) | ancestor | active |
 | [05z](../bbugyi200.athena.05z/README.md) | ancestor | completed |
 | [05z.w1](../bbugyi200.athena.05z.w1/README.md) | 05z hood | completed |
 | [05z.w1.f1](../bbugyi200.athena.05z.w1.f1/README.md) | 05z hood | completed |

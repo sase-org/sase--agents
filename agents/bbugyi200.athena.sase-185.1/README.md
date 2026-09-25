@@ -17,7 +17,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,7 +29,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-185.2](../bbugyi200.athena.sase-185.2/README.md) | sase-185 hood | waiting |
-| [sase-185.3](../bbugyi200.athena.sase-185.3/README.md) | sase-185 hood | waiting |
-| [sase-185.4](../bbugyi200.athena.sase-185.4/README.md) | sase-185 hood | completed |
-| [sase-185.land](../bbugyi200.athena.sase-185.land/README.md) | sase-185 hood | waiting |
+| [sase-185.2](../../families/bbugyi200.athena.sase-185.2.md) (family · 1) | sase-185 hood | active 1 |
+| [sase-185.3](../bbugyi200.athena.sase-185.3/README.md) | sase-185 hood | active |
+| [sase-185.4](../bbugyi200.athena.sase-185.4/README.md) | sase-185 hood | active |
+| [sase-185.land](../bbugyi200.athena.sase-185.land/README.md) | sase-185 hood | active |

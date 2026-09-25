@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-132](../../users/bbugyi200/machines/athena/hoods/sase-132/README.md) / sase-132.6
 
-**Global name:** `bbugyi200.athena.sase-132.6` · **State:** completed · **Source run:** `run-e37bae01777e293a054c1e3fdc3952f3`
+**Global name:** `bbugyi200.athena.sase-132.6` · **State:** active · **Source run:** `run-e37bae01777e293a054c1e3fdc3952f3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-132
 
@@ -12,7 +12,7 @@
 - Epic: [sase-132](https://github.com/sase-org/sase--beads/blob/main/pages/sase-132/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-18T20:35:19.784492+00:00 → 2026-09-18T21:54:18.813479+00:00
+- Timing: 2026-09-18T20:35:19.784492+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -29,10 +29,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-132.1](../bbugyi200.athena.sase-132.1/README.md) | sase-132 hood | completed |
-| [sase-132.2](../../families/bbugyi200.athena.sase-132.2.md) (family · 3) | sase-132 hood | active 2, failed 1 |
-| [sase-132.3](../../families/bbugyi200.athena.sase-132.3.md) (family · 3) | sase-132 hood | active 2, failed 1 |
-| [sase-132.4](../bbugyi200.athena.sase-132.4/README.md) | sase-132 hood | completed |
-| [sase-132.5](../bbugyi200.athena.sase-132.5/README.md) | sase-132 hood | completed |
-| [sase-132.7](../bbugyi200.athena.sase-132.7/README.md) | sase-132 hood | waiting |
-| [sase-132.land](../bbugyi200.athena.sase-132.land/README.md) | sase-132 hood | waiting |
+| [sase-132.1](../bbugyi200.athena.sase-132.1/README.md) | sase-132 hood | active |
+| [sase-132.2](../../families/bbugyi200.athena.sase-132.2.md) (family · 3) | sase-132 hood | active 1, completed 1, failed 1 |
+| [sase-132.3](../../families/bbugyi200.athena.sase-132.3.md) (family · 5) | sase-132 hood | active 2, completed 1, failed 2 |
+| [sase-132.4](../bbugyi200.athena.sase-132.4/README.md) | sase-132 hood | active |
+| [sase-132.5](../bbugyi200.athena.sase-132.5/README.md) | sase-132 hood | active |
+| [sase-132.7](../bbugyi200.athena.sase-132.7/README.md) | sase-132 hood | active |
+| [sase-132.land](../bbugyi200.athena.sase-132.land/README.md) | sase-132 hood | active |

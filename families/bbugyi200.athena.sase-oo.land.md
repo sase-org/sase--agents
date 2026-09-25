@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-oo` · Members: 3 · Bead: [sase-oo](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-oo.land--plan [completed]"]
-  n1["sase-oo.land--1 [completed]"]
+  n0["sase-oo.land--plan [active]"]
+  n1["sase-oo.land--1 [active]"]
   n0 --> n1
-  n2["sase-oo.land--mon [failed]"]
+  n2["sase-oo.land--mon [active]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-oo.land--plan | completed | opus / claude | 2026-08-17T17:21:50.336914+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-oo.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-oo.land--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-oo.land--1 | completed | opus / claude | 2026-08-17T18:05:07.063993+00:00 | [1](../agents/bbugyi200.athena.sase-oo.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-oo.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-oo.land--1/chat.md) |
-| <a id="member-mon"></a>mon | sase-oo.land--mon | failed | opus / claude | 2026-08-17T17:42:25.219183+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-oo.land--mon/chat.md) |
+| <a id="member-plan"></a>plan | sase-oo.land--plan | active | opus / claude | 2026-08-17T17:21:50.336914+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-oo.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-oo.land--plan/chat.md) |
+| <a id="member-1"></a>1 | sase-oo.land--1 | active | opus / claude | 2026-08-17T18:05:07.063993+00:00 | [1](../agents/bbugyi200.athena.sase-oo.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-oo.land--1/prompt.md) | — |
+| <a id="member-mon"></a>mon | sase-oo.land--mon | active | opus / claude | 2026-08-17T17:42:25.219183+00:00 | 0 | — | — |
 
 ## Commits
 
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-oo.1](../agents/bbugyi200.athena.sase-oo.1/README.md) | sase-oo hood | completed |
-| [sase-oo.2](../agents/bbugyi200.athena.sase-oo.2/README.md) | sase-oo hood | completed |
-| [sase-oo.3](../agents/bbugyi200.athena.sase-oo.3/README.md) | sase-oo hood | completed |
-| [sase-oo.4](../agents/bbugyi200.athena.sase-oo.4/README.md) | sase-oo hood | completed |
+| [sase-oo.1](../agents/bbugyi200.athena.sase-oo.1/README.md) | sase-oo hood | active |
+| [sase-oo.2](../agents/bbugyi200.athena.sase-oo.2/README.md) | sase-oo hood | active |
+| [sase-oo.3](../agents/bbugyi200.athena.sase-oo.3/README.md) | sase-oo hood | active |
+| [sase-oo.4](../agents/bbugyi200.athena.sase-oo.4/README.md) | sase-oo hood | active |

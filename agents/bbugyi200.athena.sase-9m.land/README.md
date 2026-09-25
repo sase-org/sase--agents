@@ -28,7 +28,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-9m.land.w1](../bbugyi200.athena.sase-9m.land.w1/README.md) | descendant | active |
+| [sase-9m.land.w1](../bbugyi200.athena.sase-9m.land.w1/README.md) | descendant | dismissed |
 | [sase-9m.1](../bbugyi200.athena.sase-9m.1/README.md) | sase-9m hood | active |
 | [sase-9m.2](../bbugyi200.athena.sase-9m.2/README.md) | sase-9m hood | active |
 | [sase-9m.3](../bbugyi200.athena.sase-9m.3/README.md) | sase-9m hood | active |

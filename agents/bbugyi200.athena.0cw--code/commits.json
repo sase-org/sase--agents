@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d5623393fd4f7854a111d5445767f0e9"}
+{"commits":[{"committed_at":1787598881,"sha":"04299c29e7d73cbdb43cb66cf3946521e4873bbc","subject":"fix: advance agent marks to folded banners"}],"schema_version":2,"source_run_id":"run-d5623393fd4f7854a111d5445767f0e9"}

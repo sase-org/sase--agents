@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 0e5--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0e5__plan-260826_075820.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0e5__code-260826_075820.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/file_ref_pool_extension_and_relative_path.md
 
 

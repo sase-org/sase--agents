@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-lh.land--mon-0 [failed]"]
   n1["sase-lh.land--2 [completed]"]
   n0 --> n1
-  n2["sase-lh.land [dismissed]"]
+  n2["sase-lh.land [active]"]
   n0 --> n2
   n3["sase-lh.land--mon [failed]"]
   n0 --> n3
@@ -25,7 +25,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon-0"></a>mon-0 | sase-lh.land--mon-0 | failed | opus / claude | 2026-08-14T03:47:21.118873+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-lh.land--mon-0/chat.md) |
 | <a id="member-2"></a>2 | sase-lh.land--2 | completed | opus / claude | 2026-08-14T03:57:59.477635+00:00 | [1](../agents/bbugyi200.athena.sase-lh.land--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-lh.land--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-lh.land--2/chat.md) |
-| <a id="member-root"></a>root | sase-lh.land | dismissed | opus / claude | 2026-08-13T17:26:51 → 2026-08-14T00:05:46.269611 | 0 | — | — |
+| <a id="member-root"></a>root | sase-lh.land | active | opus / claude | 20260813172651 | 0 | [Prompt](../agents/bbugyi200.athena.sase-lh.land/prompt.md) | — |
 | <a id="member-mon"></a>mon | sase-lh.land--mon | failed | opus / claude | 2026-08-14T03:01:05.259169+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-lh.land--mon/chat.md) |
 | <a id="member-1"></a>1 | sase-lh.land--1 | completed | opus / claude | 2026-08-14T03:16:23.671078+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-lh.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-lh.land--1/chat.md) |
 
@@ -39,11 +39,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-lh.1](../agents/bbugyi200.athena.sase-lh.1/README.md) | sase-lh hood | dismissed |
-| [sase-lh.2](../agents/bbugyi200.athena.sase-lh.2/README.md) | sase-lh hood | dismissed |
-| [sase-lh.3](bbugyi200.athena.sase-lh.3.md) (family · 3) | sase-lh hood | completed 1, dismissed 1, failed 1 |
-| [sase-lh.4](../agents/bbugyi200.athena.sase-lh.4/README.md) | sase-lh hood | dismissed |
-| [sase-lh.5](../agents/bbugyi200.athena.sase-lh.5/README.md) | sase-lh hood | dismissed |
-| [sase-lh.6](../agents/bbugyi200.athena.sase-lh.6/README.md) | sase-lh hood | dismissed |
-| [sase-lh.7](../agents/bbugyi200.athena.sase-lh.7/README.md) | sase-lh hood | dismissed |
-| [sase-lh.8](../agents/bbugyi200.athena.sase-lh.8/README.md) | sase-lh hood | dismissed |
+| [sase-lh.1](../agents/bbugyi200.athena.sase-lh.1/README.md) | sase-lh hood | active |
+| [sase-lh.2](../agents/bbugyi200.athena.sase-lh.2/README.md) | sase-lh hood | active |
+| [sase-lh.3](bbugyi200.athena.sase-lh.3.md) (family · 3) | sase-lh hood | active 1, completed 1, failed 1 |
+| [sase-lh.4](../agents/bbugyi200.athena.sase-lh.4/README.md) | sase-lh hood | active |
+| [sase-lh.5](../agents/bbugyi200.athena.sase-lh.5/README.md) | sase-lh hood | active |
+| [sase-lh.6](../agents/bbugyi200.athena.sase-lh.6/README.md) | sase-lh hood | active |
+| [sase-lh.7](../agents/bbugyi200.athena.sase-lh.7/README.md) | sase-lh hood | active |
+| [sase-lh.8](../agents/bbugyi200.athena.sase-lh.8/README.md) | sase-lh hood | active |

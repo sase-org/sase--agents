@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `0ao` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["0ao--plan [completed]"]
-  n1["0ao--code [active]"]
+  n0["0ao--plan [active]"]
+  n1["0ao--code [completed]"]
   n0 --> n1
   n2["0ao--gate [failed]"]
   n0 --> n2
@@ -19,8 +19,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0ao--plan | completed | gpt-6-astra / codex | 2026-09-08T20:16:57.128241+00:00 → 2026-09-08T20:26:31.543747+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0ao--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0ao--plan/chat.md) |
-| <a id="member-code"></a>code | 0ao--code | active | sonnet / claude | 2026-09-08T20:28:52.325065+00:00 | [1](../agents/bbugyi200.athena.0ao--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0ao--code/prompt.md) | — |
+| <a id="member-plan"></a>plan | 0ao--plan | active | gpt-6-astra / codex | 2026-09-08T20:16:57.128241+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0ao--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0ao--plan/chat.md) |
+| <a id="member-code"></a>code | 0ao--code | completed | sonnet / claude | 2026-09-08T20:28:52.325065+00:00 → 2026-09-08T21:30:11.390604+00:00 | [1](../agents/bbugyi200.athena.0ao--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0ao--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0ao--code/chat.md) |
 | <a id="member-gate"></a>gate | 0ao--gate | failed | gpt-6-astra / codex | 2026-09-08T20:25:52.387076+00:00 → 2026-09-08T20:28:44.414368+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0ao--gate/chat.md) |
 
 ## Commits

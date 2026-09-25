@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 04o--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-04o__plan-260817_082444.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-04o__code-260817_082444.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/bead_work_family_member_bead_association.md
 
 

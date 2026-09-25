@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `zl` · Members: 2
 ```mermaid
 flowchart TD
   n0["zl.f1--mon [failed]"]
-  n1["zl.f1--plan [failed]"]
+  n1["zl.f1--plan [active]"]
   n0 --> n1
 ```
 
@@ -18,12 +18,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | zl.f1--mon | failed | opus / claude | 2026-08-13T16:21:24.224132+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.zl.f1--mon/chat.md) |
-| <a id="member-plan"></a>plan | zl.f1--plan | failed | opus / claude | 2026-08-13T16:07:08.986901+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.zl.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.zl.f1--plan/chat.md) |
+| <a id="member-plan"></a>plan | zl.f1--plan | active | opus / claude | 2026-08-13T16:07:08.986901+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.zl.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.zl.f1--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [zl](../agents/bbugyi200.athena.zl/README.md) | ancestor | completed |
-| [zl.w0](bbugyi200.athena.zl.w0.md) (family · 3) | zl hood | completed 1, dismissed 1, failed 1 |
-| [zl.w1](../agents/bbugyi200.athena.zl.w1/README.md) | zl hood | dismissed |
+| [zl](../agents/bbugyi200.athena.zl/README.md) | ancestor | active |
+| [zl.w0](bbugyi200.athena.zl.w0.md) (family · 3) | zl hood | active 1, completed 1, failed 1 |
+| [zl.w1](../agents/bbugyi200.athena.zl.w1/README.md) | zl hood | active |

@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `0g0` · Members: 3
 ```mermaid
 flowchart TD
   n0["0g0.w0--gate [failed]"]
-  n1["0g0.w0--plan [completed]"]
+  n1["0g0.w0--plan [active]"]
   n0 --> n1
-  n2["0g0.w0--code [active]"]
+  n2["0g0.w0--code [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 0g0.w0--gate | failed | opus / claude | 2026-08-29T13:09:13.798653+00:00 → 2026-08-29T13:20:00.496627+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0g0.w0--gate/chat.md) |
-| <a id="member-plan"></a>plan | 0g0.w0--plan | completed | opus / claude | 2026-08-29T13:03:25.631741+00:00 → 2026-08-29T13:09:20.674368+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0g0.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0g0.w0--plan/chat.md) |
-| <a id="member-code"></a>code | 0g0.w0--code | active | grok-4.6 / grok | 2026-08-29T13:20:06.899923+00:00 | [1](../agents/bbugyi200.athena.0g0.w0--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0g0.w0--code/prompt.md) | — |
+| <a id="member-plan"></a>plan | 0g0.w0--plan | active | opus / claude | 2026-08-29T13:03:25.631741+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0g0.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0g0.w0--plan/chat.md) |
+| <a id="member-code"></a>code | 0g0.w0--code | completed | grok-4.6 / grok | 2026-08-29T13:20:06.899923+00:00 → 2026-08-29T13:38:03.758908+00:00 | [1](../agents/bbugyi200.athena.0g0.w0--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0g0.w0--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0g0.w0--code/chat.md) |
 
 ## Commits
 
@@ -33,4 +33,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [0g0](bbugyi200.athena.0g0.md) (family · 3) | ancestor | completed 2, failed 1 |
+| [0g0](bbugyi200.athena.0g0.md) (family · 3) | ancestor | active 1, completed 1, failed 1 |

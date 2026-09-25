@@ -16,7 +16,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -28,6 +28,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-11r.1](../../families/bbugyi200.athena.sase-11r.1.md) (family · 7) | sase-11r hood | completed 4, failed 3 |
-| [sase-11r.2](../bbugyi200.athena.sase-11r.2/README.md) | sase-11r hood | completed |
-| [sase-11r.3](../bbugyi200.athena.sase-11r.3/README.md) | sase-11r hood | completed |
+| [sase-11r.1](../../families/bbugyi200.athena.sase-11r.1.md) (family · 7) | sase-11r hood | active 7 |
+| [sase-11r.2](../bbugyi200.athena.sase-11r.2/README.md) | sase-11r hood | active |
+| [sase-11r.3](../bbugyi200.athena.sase-11r.3/README.md) | sase-11r hood | active |

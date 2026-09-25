@@ -26,10 +26,10 @@
 |---|---|---|
 | [sase-6v.1](../bbugyi200.athena.sase-6v.1/README.md) | sase-6v hood | completed |
 | [sase-6v.3](../bbugyi200.athena.sase-6v.3/README.md) | sase-6v hood | completed |
-| [sase-6v.4](../bbugyi200.athena.sase-6v.4/README.md) | sase-6v hood | active |
-| [sase-6v.5](../bbugyi200.athena.sase-6v.5/README.md) | sase-6v hood | active |
-| [sase-6v.6](../bbugyi200.athena.sase-6v.6/README.md) | sase-6v hood | active |
-| [sase-6v.7](../bbugyi200.athena.sase-6v.7/README.md) | sase-6v hood | active |
+| [sase-6v.4](../bbugyi200.athena.sase-6v.4/README.md) | sase-6v hood | dismissed |
+| [sase-6v.5](../bbugyi200.athena.sase-6v.5/README.md) | sase-6v hood | dismissed |
+| [sase-6v.6](../bbugyi200.athena.sase-6v.6/README.md) | sase-6v hood | dismissed |
+| [sase-6v.7](../bbugyi200.athena.sase-6v.7/README.md) | sase-6v hood | dismissed |
 | [sase-6v.8](../bbugyi200.athena.sase-6v.8/README.md) | sase-6v hood | active |
 | [sase-6v.9](../bbugyi200.athena.sase-6v.9/README.md) | sase-6v hood | active |
 | [sase-6v.land](../bbugyi200.athena.sase-6v.land/README.md) | sase-6v hood | active |

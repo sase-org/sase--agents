@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase I keep getting an error when trying to follow the `~/.ssh/config` file from sase's pager (see #sshot for context). Can you help me diagnose the root cause of this issue and fix it? #plan %m:gpt-6-astra

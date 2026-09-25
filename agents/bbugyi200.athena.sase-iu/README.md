@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-iu](../../users/bbugyi200/machines/athena/hoods/sase-iu/README.md) / sase-iu
 
-**Global name:** `bbugyi200.athena.sase-iu` · **State:** completed · **Source run:** `run-848bd9bb5f2daa5f019ed233146d8f1b`
+**Global name:** `bbugyi200.athena.sase-iu` · **State:** active · **Source run:** `run-848bd9bb5f2daa5f019ed233146d8f1b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-iu
 
@@ -11,7 +11,7 @@
 - Bead: [sase-iu](https://github.com/sase-org/sase--beads/blob/main/pages/sase-iu/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-20T12:38:04.581961+00:00 → 2026-09-20T13:25:39.416525+00:00
+- Timing: 2026-09-20T12:38:04.581961+00:00
 - Commits: [2](#commits)
 
 ## Files

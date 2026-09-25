@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-8e](../../users/bbugyi200/machines/athena/hoods/sase-8e/README.md) / sase-8e.1
 
-**Global name:** `bbugyi200.athena.sase-8e.1` · **State:** active · **Source run:** `run-67b4a8aa253dfbc0f9dc71950eefe45d`
+**Global name:** `bbugyi200.athena.sase-8e.1` · **State:** dismissed · **Source run:** `run-67b4a8aa253dfbc0f9dc71950eefe45d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-8e
 
@@ -11,12 +11,12 @@
 - Bead: [sase-8e.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-8e/sase-8e.1.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-20T19:26:52.949807+00:00
+- Timing: 2026-07-20T15:26:52.949807 → 2026-07-20T15:38:35.958884
 - Commits: [1](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Commits
 

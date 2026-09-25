@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-uk` · Members: 3 · Bead: [sase-uk.3](
 
 ```mermaid
 flowchart TD
-  n0["sase-uk.3--1 [completed]"]
-  n1["sase-uk.3--mon [failed]"]
+  n0["sase-uk.3--1 [active]"]
+  n1["sase-uk.3--mon [active]"]
   n0 --> n1
-  n2["sase-uk.3--plan [completed]"]
+  n2["sase-uk.3--plan [active]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-uk.3--1 | completed | gpt-5.5 / codex | 2026-08-26T23:49:50.315090+00:00 → 2026-08-26T23:52:41.917837+00:00 | [1](../agents/bbugyi200.athena.sase-uk.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-uk.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-uk.3--1/chat.md) |
-| <a id="member-mon"></a>mon | sase-uk.3--mon | failed | sonnet / claude | 2026-08-26T23:44:43.141484+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-uk.3--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-uk.3--plan | completed | sonnet / claude | 2026-08-26T23:00:19.163061+00:00 → 2026-08-26T23:45:26.131219+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-uk.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-uk.3--plan/chat.md) |
+| <a id="member-1"></a>1 | sase-uk.3--1 | active | gpt-5.5 / codex | 2026-08-26T23:49:50.315090+00:00 | [1](../agents/bbugyi200.athena.sase-uk.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-uk.3--1/prompt.md) | — |
+| <a id="member-mon"></a>mon | sase-uk.3--mon | active | sonnet / claude | 2026-08-26T23:44:43.141484+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-uk.3--plan | active | sonnet / claude | 2026-08-26T23:00:19.163061+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-uk.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-uk.3--plan/chat.md) |
 
 ## Commits
 
@@ -33,13 +33,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-uk.1](../agents/bbugyi200.athena.sase-uk.1/README.md) | sase-uk hood | completed |
-| [sase-uk.10](../agents/bbugyi200.athena.sase-uk.10/README.md) | sase-uk hood | waiting |
-| [sase-uk.2](../agents/bbugyi200.athena.sase-uk.2/README.md) | sase-uk hood | completed |
-| [sase-uk.4](../agents/bbugyi200.athena.sase-uk.4/README.md) | sase-uk hood | completed |
-| [sase-uk.5](../agents/bbugyi200.athena.sase-uk.5/README.md) | sase-uk hood | completed |
-| [sase-uk.6](../agents/bbugyi200.athena.sase-uk.6/README.md) | sase-uk hood | dismissed |
-| [sase-uk.7](../agents/bbugyi200.athena.sase-uk.7/README.md) | sase-uk hood | completed |
-| [sase-uk.8](../agents/bbugyi200.athena.sase-uk.8/README.md) | sase-uk hood | completed |
+| [sase-uk.1](../agents/bbugyi200.athena.sase-uk.1/README.md) | sase-uk hood | active |
+| [sase-uk.10](../agents/bbugyi200.athena.sase-uk.10/README.md) | sase-uk hood | active |
+| [sase-uk.2](../agents/bbugyi200.athena.sase-uk.2/README.md) | sase-uk hood | active |
+| [sase-uk.4](../agents/bbugyi200.athena.sase-uk.4/README.md) | sase-uk hood | active |
+| [sase-uk.5](../agents/bbugyi200.athena.sase-uk.5/README.md) | sase-uk hood | active |
+| [sase-uk.6](../agents/bbugyi200.athena.sase-uk.6/README.md) | sase-uk hood | active |
+| [sase-uk.7](../agents/bbugyi200.athena.sase-uk.7/README.md) | sase-uk hood | active |
+| [sase-uk.8](../agents/bbugyi200.athena.sase-uk.8/README.md) | sase-uk hood | active |
 | [sase-uk.9](../agents/bbugyi200.athena.sase-uk.9/README.md) | sase-uk hood | active |
-| [sase-uk.land](../agents/bbugyi200.athena.sase-uk.land/README.md) | sase-uk hood | waiting |
+| [sase-uk.land](bbugyi200.athena.sase-uk.land.md) (family · 3) | sase-uk hood | active 2, failed 1 |

@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me stop showing fields that have no values on the "Beads" sub-tab of the "Artifacts" tab? We currently show `-` as the value for these fields (see #sshot). #plan

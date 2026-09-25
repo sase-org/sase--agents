@@ -25,9 +25,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-5v](bbugyi200.athena.sase-5v.md) (family · 3) | ancestor | active 3 |
-| [sase-5v.1](../agents/bbugyi200.athena.sase-5v.1/README.md) | sase-5v hood | active |
-| [sase-5v.2](../agents/bbugyi200.athena.sase-5v.2/README.md) | sase-5v hood | active |
-| [sase-5v.3](../agents/bbugyi200.athena.sase-5v.3/README.md) | sase-5v hood | active |
-| [sase-5v.4](../agents/bbugyi200.athena.sase-5v.4/README.md) | sase-5v hood | active |
-| [sase-5v.6](../agents/bbugyi200.athena.sase-5v.6/README.md) | sase-5v hood | active |
-| [sase-5v.7](../agents/bbugyi200.athena.sase-5v.7/README.md) | sase-5v hood | active |
+| [sase-5v.1](../agents/bbugyi200.athena.sase-5v.1/README.md) | sase-5v hood | dismissed |
+| [sase-5v.2](../agents/bbugyi200.athena.sase-5v.2/README.md) | sase-5v hood | dismissed |
+| [sase-5v.3](../agents/bbugyi200.athena.sase-5v.3/README.md) | sase-5v hood | dismissed |
+| [sase-5v.4](../agents/bbugyi200.athena.sase-5v.4/README.md) | sase-5v hood | dismissed |
+| [sase-5v.6](../agents/bbugyi200.athena.sase-5v.6/README.md) | sase-5v hood | dismissed |
+| [sase-5v.7](../agents/bbugyi200.athena.sase-5v.7/README.md) | sase-5v hood | dismissed |

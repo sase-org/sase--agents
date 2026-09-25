@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-z4](../../users/bbugyi200/machines/athena/hoods/sase-z4/README.md) / [sase-z4.6.5.1](../../families/bbugyi200.athena.sase-z4.6.5.1.md) / sase-z4.6.5.1--mon-0
 
-**Global name:** `bbugyi200.athena.sase-z4.6.5.1--mon-0` · **State:** failed · **Source run:** `run-40ebeef93da79613b82cd7995cb29689`
+**Global name:** `bbugyi200.athena.sase-z4.6.5.1--mon-0` · **State:** active · **Source run:** `run-40ebeef93da79613b82cd7995cb29689`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-z4
 
@@ -11,7 +11,7 @@
 - Bead: [sase-z4.6.5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-z4/sase-z4.6.5.1.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-10T19:20:07.012296+00:00 → 2026-09-10T19:22:18.729474+00:00
+- Timing: 2026-09-10T19:20:07.012296+00:00
 - Commits: 0
 
 ## Files
@@ -22,23 +22,28 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-z4.6.5.2](../bbugyi200.athena.sase-z4.6.5.2/README.md) | sase-z4.6.5 hood | completed |
-| [sase-z4.6.5.3](../bbugyi200.athena.sase-z4.6.5.3/README.md) | sase-z4.6.5 hood | completed |
-| [sase-z4.6.5.4.1](../bbugyi200.athena.sase-z4.6.5.4.1/README.md) | sase-z4.6.5 hood | completed |
-| [sase-z4.6.5.4.2](../bbugyi200.athena.sase-z4.6.5.4.2/README.md) | sase-z4.6.5 hood | completed |
-| [sase-z4.6.5.4.3](../bbugyi200.athena.sase-z4.6.5.4.3/README.md) | sase-z4.6.5 hood | completed |
+| [sase-z4.6.5.2](../bbugyi200.athena.sase-z4.6.5.2/README.md) | sase-z4.6.5 hood | active |
+| [sase-z4.6.5.3](../bbugyi200.athena.sase-z4.6.5.3/README.md) | sase-z4.6.5 hood | active |
+| [sase-z4.6.5.4.1](../bbugyi200.athena.sase-z4.6.5.4.1/README.md) | sase-z4.6.5 hood | active |
+| [sase-z4.6.5.4.2](../bbugyi200.athena.sase-z4.6.5.4.2/README.md) | sase-z4.6.5 hood | active |
+| [sase-z4.6.5.4.3](../bbugyi200.athena.sase-z4.6.5.4.3/README.md) | sase-z4.6.5 hood | active |
 | [sase-z4.6.5.4.4](../bbugyi200.athena.sase-z4.6.5.4.4/README.md) | sase-z4.6.5 hood | active |
-| [sase-z4.6.5.4.5](../bbugyi200.athena.sase-z4.6.5.4.5/README.md) | sase-z4.6.5 hood | waiting |
-| [sase-z4.6.5.4.land](../bbugyi200.athena.sase-z4.6.5.4.land/README.md) | sase-z4.6.5 hood | waiting |
-| [sase-z4.6.5.land](../../families/bbugyi200.athena.sase-z4.6.5.land.md) (family · 3) | sase-z4.6.5 hood | failed 3 |
-| [sase-z4.6.1](../bbugyi200.athena.sase-z4.6.1/README.md) | sase-z4.6 hood | completed |
-| [sase-z4.6.2](../bbugyi200.athena.sase-z4.6.2/README.md) | sase-z4.6 hood | completed |
-| [sase-z4.6.3](../bbugyi200.athena.sase-z4.6.3/README.md) | sase-z4.6 hood | completed |
-| [sase-z4.6.4](../bbugyi200.athena.sase-z4.6.4/README.md) | sase-z4.6 hood | completed |
-| [sase-z4.6.land](../../families/bbugyi200.athena.sase-z4.6.land.md) (family · 3) | sase-z4.6 hood | failed 3 |
-| [sase-z4.1](../bbugyi200.athena.sase-z4.1/README.md) | sase-z4 hood | completed |
-| [sase-z4.2](../bbugyi200.athena.sase-z4.2/README.md) | sase-z4 hood | completed |
-| [sase-z4.3](../bbugyi200.athena.sase-z4.3/README.md) | sase-z4 hood | completed |
-| [sase-z4.4](../bbugyi200.athena.sase-z4.4/README.md) | sase-z4 hood | completed |
-| [sase-z4.5](../bbugyi200.athena.sase-z4.5/README.md) | sase-z4 hood | completed |
-| [sase-z4.land](../../families/bbugyi200.athena.sase-z4.land.md) (family · 3) | sase-z4 hood | failed 3 |
+| [sase-z4.6.5.4.5](../bbugyi200.athena.sase-z4.6.5.4.5/README.md) | sase-z4.6.5 hood | active |
+| [sase-z4.6.5.4.6.1](../bbugyi200.athena.sase-z4.6.5.4.6.1/README.md) | sase-z4.6.5 hood | active |
+| [sase-z4.6.5.4.6.2](../../families/bbugyi200.athena.sase-z4.6.5.4.6.2.md) (family · 5) | sase-z4.6.5 hood | active 5 |
+| [sase-z4.6.5.4.6.3](../bbugyi200.athena.sase-z4.6.5.4.6.3/README.md) | sase-z4.6.5 hood | active |
+| [sase-z4.6.5.4.6.land](../bbugyi200.athena.sase-z4.6.5.4.6.land/README.md) | sase-z4.6.5 hood | active |
+| [sase-z4.6.5.4.6.land.f0](../bbugyi200.athena.sase-z4.6.5.4.6.land.f0/README.md) | sase-z4.6.5 hood | active |
+| [sase-z4.6.5.4.land](../../families/bbugyi200.athena.sase-z4.6.5.4.land.md) (family · 3) | sase-z4.6.5 hood | active 3 |
+| [sase-z4.6.5.land](../../families/bbugyi200.athena.sase-z4.6.5.land.md) (family · 3) | sase-z4.6.5 hood | active 3 |
+| [sase-z4.6.1](../bbugyi200.athena.sase-z4.6.1/README.md) | sase-z4.6 hood | active |
+| [sase-z4.6.2](../bbugyi200.athena.sase-z4.6.2/README.md) | sase-z4.6 hood | active |
+| [sase-z4.6.3](../bbugyi200.athena.sase-z4.6.3/README.md) | sase-z4.6 hood | active |
+| [sase-z4.6.4](../bbugyi200.athena.sase-z4.6.4/README.md) | sase-z4.6 hood | active |
+| [sase-z4.6.land](../../families/bbugyi200.athena.sase-z4.6.land.md) (family · 3) | sase-z4.6 hood | active 3 |
+| [sase-z4.1](../bbugyi200.athena.sase-z4.1/README.md) | sase-z4 hood | active |
+| [sase-z4.2](../bbugyi200.athena.sase-z4.2/README.md) | sase-z4 hood | active |
+| [sase-z4.3](../bbugyi200.athena.sase-z4.3/README.md) | sase-z4 hood | active |
+| [sase-z4.4](../bbugyi200.athena.sase-z4.4/README.md) | sase-z4 hood | active |
+| [sase-z4.5](../bbugyi200.athena.sase-z4.5/README.md) | sase-z4 hood | active |
+| [sase-z4.land](../../families/bbugyi200.athena.sase-z4.land.md) (family · 3) | sase-z4 hood | active 3 |

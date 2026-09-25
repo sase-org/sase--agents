@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 036--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-036__plan-260815_214436.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-036__code-260815_214436.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/ace_session_worker_submit_kwargs.md
 
 

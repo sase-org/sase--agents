@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `05x` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["05x--code [active]"]
+  n0["05x--code [completed]"]
   n1["05x--plan [active]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 05x--code | active | gemini-3.7-flash-high / agy | 2026-08-18T12:03:10.770857+00:00 | [1](../agents/bbugyi200.athena.05x--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | 05x--code | completed | gemini-3.7-flash-high / agy | 2026-08-18T12:03:10.770857+00:00 | [1](../agents/bbugyi200.athena.05x--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.05x--code/chat.md) |
 | <a id="member-plan"></a>plan | 05x--plan | active | opus / claude | 2026-08-18T11:59:35.678413+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.05x--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.05x--plan/chat.md) |
 
 ## Commits

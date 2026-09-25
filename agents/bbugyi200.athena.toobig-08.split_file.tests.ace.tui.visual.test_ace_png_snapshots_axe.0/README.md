@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-08.split\_file.tests.test\_bead.test\_sync\_conflict\_regressions.0](../bbugyi200.athena.toobig-08.split_file.tests.test_bead.test_sync_conflict_regressions.0/README.md) | toobig-08.split\_file.tests hood | active |
-| [toobig-08.split\_file.tests.test\_bead.test\_sync\_remote.0](../bbugyi200.athena.toobig-08.split_file.tests.test_bead.test_sync_remote.0/README.md) | toobig-08.split\_file.tests hood | active |
+| [toobig-08.split\_file.tests.test\_bead.test\_sync\_conflict\_regressions.0](../bbugyi200.athena.toobig-08.split_file.tests.test_bead.test_sync_conflict_regressions.0/README.md) | toobig-08.split\_file.tests hood | dismissed |
+| [toobig-08.split\_file.tests.test\_bead.test\_sync\_remote.0](../bbugyi200.athena.toobig-08.split_file.tests.test_bead.test_sync_remote.0/README.md) | toobig-08.split\_file.tests hood | dismissed |

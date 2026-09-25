@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 0e4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0e4__plan-260826_075430.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-0e4__code-260826_075430.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/fork_vcs_tag_injection.md
 
 

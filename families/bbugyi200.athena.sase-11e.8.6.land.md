@@ -31,16 +31,16 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-11e.8.6.2](../agents/bbugyi200.athena.sase-11e.8.6.2/README.md) | sase-11e.8.6 hood | active |
 | [sase-11e.8.6.3](../agents/bbugyi200.athena.sase-11e.8.6.3/README.md) | sase-11e.8.6 hood | active |
 | [sase-11e.8.6.4](../agents/bbugyi200.athena.sase-11e.8.6.4/README.md) | sase-11e.8.6 hood | active |
-| [sase-11e.8.6.5.1](../agents/bbugyi200.athena.sase-11e.8.6.5.1/README.md) | sase-11e.8.6 hood | completed |
-| [sase-11e.8.6.5.2](../agents/bbugyi200.athena.sase-11e.8.6.5.2/README.md) | sase-11e.8.6 hood | completed |
-| [sase-11e.8.6.5.3](../agents/bbugyi200.athena.sase-11e.8.6.5.3/README.md) | sase-11e.8.6 hood | completed |
+| [sase-11e.8.6.5.1](../agents/bbugyi200.athena.sase-11e.8.6.5.1/README.md) | sase-11e.8.6 hood | active |
+| [sase-11e.8.6.5.2](../agents/bbugyi200.athena.sase-11e.8.6.5.2/README.md) | sase-11e.8.6 hood | active |
+| [sase-11e.8.6.5.3](../agents/bbugyi200.athena.sase-11e.8.6.5.3/README.md) | sase-11e.8.6 hood | active |
 | [sase-11e.8.6.5.4.1](../agents/bbugyi200.athena.sase-11e.8.6.5.4.1/README.md) | sase-11e.8.6 hood | active |
-| [sase-11e.8.6.5.4.2](bbugyi200.athena.sase-11e.8.6.5.4.2.md) (family · 3) | sase-11e.8.6 hood | completed 2, failed 1 |
+| [sase-11e.8.6.5.4.2](bbugyi200.athena.sase-11e.8.6.5.4.2.md) (family · 3) | sase-11e.8.6 hood | active 3 |
 | [sase-11e.8.6.5.4.3](../agents/bbugyi200.athena.sase-11e.8.6.5.4.3/README.md) | sase-11e.8.6 hood | active |
-| [sase-11e.8.6.5.4.4](../agents/bbugyi200.athena.sase-11e.8.6.5.4.4/README.md) | sase-11e.8.6 hood | completed |
-| [sase-11e.8.6.5.4.5](../agents/bbugyi200.athena.sase-11e.8.6.5.4.5/README.md) | sase-11e.8.6 hood | waiting |
-| [sase-11e.8.6.5.4.land](../agents/bbugyi200.athena.sase-11e.8.6.5.4.land/README.md) | sase-11e.8.6 hood | waiting |
-| [sase-11e.8.6.5.land](bbugyi200.athena.sase-11e.8.6.5.land.md) (family · 3) | sase-11e.8.6 hood | failed 3 |
+| [sase-11e.8.6.5.4.4](../agents/bbugyi200.athena.sase-11e.8.6.5.4.4/README.md) | sase-11e.8.6 hood | active |
+| [sase-11e.8.6.5.4.5](bbugyi200.athena.sase-11e.8.6.5.4.5.md) (family · 3) | sase-11e.8.6 hood | active 3 |
+| [sase-11e.8.6.5.4.land](bbugyi200.athena.sase-11e.8.6.5.4.land.md) (family · 3) | sase-11e.8.6 hood | active 2, completed 1 |
+| [sase-11e.8.6.5.land](bbugyi200.athena.sase-11e.8.6.5.land.md) (family · 3) | sase-11e.8.6 hood | active 3 |
 | [sase-11e.8.1](../agents/bbugyi200.athena.sase-11e.8.1/README.md) | sase-11e.8 hood | active |
 | [sase-11e.8.2](../agents/bbugyi200.athena.sase-11e.8.2/README.md) | sase-11e.8 hood | active |
 | [sase-11e.8.3](../agents/bbugyi200.athena.sase-11e.8.3/README.md) | sase-11e.8 hood | active |

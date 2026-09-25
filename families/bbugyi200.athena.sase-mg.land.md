@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-mg` · Members: 2 · Bead: [sase-mg](ht
 ```mermaid
 flowchart TD
   n0["sase-mg.land--code [completed]"]
-  n1["sase-mg.land--plan [completed]"]
+  n1["sase-mg.land--plan [active]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-mg.land--code | completed | gpt-5.5 / codex | 2026-08-15T22:41:06.636778+00:00 | [1](../agents/bbugyi200.athena.sase-mg.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-mg.land--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-mg.land--plan | completed | gpt-5.6-sol / codex | 2026-08-15T22:31:26.784206+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-mg.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-mg.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-mg.land--plan | active | gpt-5.6-sol / codex | 2026-08-15T22:31:26.784206+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-mg.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-mg.land--plan/chat.md) |
 
 ## Commits
 
@@ -30,8 +30,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-mg.land.w1](bbugyi200.athena.sase-mg.land.w1.md) (family · 4) | descendant | completed 1, dismissed 1, failed 2 |
-| [sase-mg.1](../agents/bbugyi200.athena.sase-mg.1/README.md) | sase-mg hood | completed |
-| [sase-mg.2](../agents/bbugyi200.athena.sase-mg.2/README.md) | sase-mg hood | completed |
-| [sase-mg.3](../agents/bbugyi200.athena.sase-mg.3/README.md) | sase-mg hood | completed |
-| [sase-mg.4](../agents/bbugyi200.athena.sase-mg.4/README.md) | sase-mg hood | completed |
+| [sase-mg.land.w1](bbugyi200.athena.sase-mg.land.w1.md) (family · 4) | descendant | active 1, completed 1, failed 2 |
+| [sase-mg.1](../agents/bbugyi200.athena.sase-mg.1/README.md) | sase-mg hood | active |
+| [sase-mg.2](../agents/bbugyi200.athena.sase-mg.2/README.md) | sase-mg hood | active |
+| [sase-mg.3](../agents/bbugyi200.athena.sase-mg.3/README.md) | sase-mg hood | active |
+| [sase-mg.4](../agents/bbugyi200.athena.sase-mg.4/README.md) | sase-mg hood | active |

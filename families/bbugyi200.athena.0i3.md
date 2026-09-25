@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `0i3` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["0i3--code [active]"]
-  n1["0i3--plan [completed]"]
+  n0["0i3--code [completed]"]
+  n1["0i3--plan [active]"]
   n0 --> n1
   n2["0i3--gate [failed]"]
   n0 --> n2
@@ -19,8 +19,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 0i3--code | active | gpt-5.5 / codex | 2026-09-10T11:56:45.973733+00:00 | [1](../agents/bbugyi200.athena.0i3--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0i3--code/prompt.md) | — |
-| <a id="member-plan"></a>plan | 0i3--plan | completed | gpt-6-astra / codex | 2026-09-10T11:48:29.583262+00:00 → 2026-09-10T11:54:53.623293+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0i3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0i3--plan/chat.md) |
+| <a id="member-code"></a>code | 0i3--code | completed | gpt-5.5 / codex | 2026-09-10T11:56:45.973733+00:00 → 2026-09-10T12:57:56.480082+00:00 | [1](../agents/bbugyi200.athena.0i3--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0i3--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0i3--code/chat.md) |
+| <a id="member-plan"></a>plan | 0i3--plan | active | gpt-6-astra / codex | 2026-09-10T11:48:29.583262+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0i3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0i3--plan/chat.md) |
 | <a id="member-gate"></a>gate | 0i3--gate | failed | gpt-6-astra / codex | 2026-09-10T11:54:44.717256+00:00 → 2026-09-10T11:56:16.108350+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0i3--gate/chat.md) |
 
 ## Commits
@@ -28,3 +28,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | code | sase | [`0523874`](https://github.com/sase-org/sase/commit/0523874af159e7f029ec342218d08d5d2f5b8570) | fix(tui): bind pager tab history | 2026-09-10 08:54:56 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [0i3.f0](../agents/bbugyi200.athena.0i3.f0/README.md) | descendant | waiting |

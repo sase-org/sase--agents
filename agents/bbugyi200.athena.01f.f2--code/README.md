@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [01f](../../families/bbugyi200.athena.01f.md) (family · 2) | ancestor | completed 2 |
-| [01f.f1](../../families/bbugyi200.athena.01f.f1.md) (family · 2) | 01f hood | completed 2 |
+| [01f](../../families/bbugyi200.athena.01f.md) (family · 2) | ancestor | active 1, completed 1 |
+| [01f.f1](../../families/bbugyi200.athena.01f.f1.md) (family · 2) | 01f hood | active 1, completed 1 |

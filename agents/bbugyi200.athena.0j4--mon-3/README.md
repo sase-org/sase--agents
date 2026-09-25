@@ -1,0 +1,18 @@
+# Agent: 0j4--mon-3
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0j4](../../users/bbugyi200/machines/athena/hoods/0j4/README.md) / [0j4](../../families/bbugyi200.athena.0j4.md) / 0j4--mon-3
+
+**Global name:** `bbugyi200.athena.0j4--mon-3` · **State:** failed · **Source run:** `run-5da7860b2d88630e37d2d33d1cc34238`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0j4
+
+## Summary
+
+- Model: sonnet
+- Provider: claude
+- Timing: 2026-09-11T11:28:23.944929+00:00 → 2026-09-11T11:30:26.179917+00:00
+- Commits: 0
+
+## Files
+
+[Chat](chat.md)

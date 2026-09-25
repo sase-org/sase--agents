@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [020](../../users/bbugyi200/machines/athena/hoods/020/README.md) / [020](../../families/bbugyi200.athena.020.md) / 020--plan
 
-**Global name:** `bbugyi200.athena.020--plan` · **State:** completed · **Source run:** `run-1e319854d009954ad691fef4cc4063f6`
+**Global name:** `bbugyi200.athena.020--plan` · **State:** active · **Source run:** `run-1e319854d009954ad691fef4cc4063f6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 020
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-15T11:15:04.791345+00:00
+- Timing: 2026-08-15T07:15:04.791345
 - Commits: 0
 
 ## Files

@@ -36,6 +36,6 @@
 | [sase-96.3](../bbugyi200.athena.sase-96.3/README.md) | sase-96 hood | active |
 | [sase-96.4](../bbugyi200.athena.sase-96.4/README.md) | sase-96 hood | active |
 | [sase-96.5](../bbugyi200.athena.sase-96.5/README.md) | sase-96 hood | active |
-| [sase-96.6](../bbugyi200.athena.sase-96.6/README.md) | sase-96 hood | active |
+| [sase-96.6](../bbugyi200.athena.sase-96.6/README.md) | sase-96 hood | dismissed |
 | [sase-96.7](../bbugyi200.athena.sase-96.7/README.md) | sase-96 hood | active |
 | [sase-96.land](../bbugyi200.athena.sase-96.land/README.md) | sase-96 hood | active |

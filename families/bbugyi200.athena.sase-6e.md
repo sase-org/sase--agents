@@ -30,17 +30,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6e.1](../agents/bbugyi200.athena.sase-6e.1/README.md) | descendant | active |
-| [sase-6e.2](../agents/bbugyi200.athena.sase-6e.2/README.md) | descendant | active |
-| [sase-6e.3](../agents/bbugyi200.athena.sase-6e.3/README.md) | descendant | active |
-| [sase-6e.4](../agents/bbugyi200.athena.sase-6e.4/README.md) | descendant | active |
-| [sase-6e.5](../agents/bbugyi200.athena.sase-6e.5/README.md) | descendant | active |
-| [sase-6e.6](../agents/bbugyi200.athena.sase-6e.6/README.md) | descendant | active |
-| [sase-6e.7](../agents/bbugyi200.athena.sase-6e.7/README.md) | descendant | active |
+| [sase-6e.1](../agents/bbugyi200.athena.sase-6e.1/README.md) | descendant | dismissed |
+| [sase-6e.2](../agents/bbugyi200.athena.sase-6e.2/README.md) | descendant | dismissed |
+| [sase-6e.3](../agents/bbugyi200.athena.sase-6e.3/README.md) | descendant | dismissed |
+| [sase-6e.4](../agents/bbugyi200.athena.sase-6e.4/README.md) | descendant | dismissed |
+| [sase-6e.5](../agents/bbugyi200.athena.sase-6e.5/README.md) | descendant | dismissed |
+| [sase-6e.6](../agents/bbugyi200.athena.sase-6e.6/README.md) | descendant | dismissed |
+| [sase-6e.7](../agents/bbugyi200.athena.sase-6e.7/README.md) | descendant | dismissed |
 | [sase-6e.f0](../agents/bbugyi200.athena.sase-6e.f0/README.md) | descendant | waiting |
-| [sase-6e.f1](../agents/bbugyi200.athena.sase-6e.f1/README.md) | descendant | active |
+| [sase-6e.f1](../agents/bbugyi200.athena.sase-6e.f1/README.md) | descendant | dismissed |
 | [sase-6e.f2](../agents/bbugyi200.athena.sase-6e.f2/README.md) | descendant | waiting |
 | [sase-6e.f3](../agents/bbugyi200.athena.sase-6e.f3/README.md) | descendant | waiting |
-| [sase-6e.f4](../agents/bbugyi200.athena.sase-6e.f4/README.md) | descendant | active |
+| [sase-6e.f4](../agents/bbugyi200.athena.sase-6e.f4/README.md) | descendant | dismissed |
 | [sase-6e.f5](../agents/bbugyi200.athena.sase-6e.f5/README.md) | descendant | waiting |
-| [sase-6e.f7](../agents/bbugyi200.athena.sase-6e.f7/README.md) | descendant | active |
+| [sase-6e.f7](../agents/bbugyi200.athena.sase-6e.f7/README.md) | descendant | dismissed |

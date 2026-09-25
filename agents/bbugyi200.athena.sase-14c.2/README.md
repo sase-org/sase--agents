@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-14c](../../users/bbugyi200/machines/athena/hoods/sase-14c/README.md) / sase-14c.2
 
-**Global name:** `bbugyi200.athena.sase-14c.2` · **State:** completed · **Source run:** `run-3efc4ceeea7c87bdccd8e9caace9fedd`
+**Global name:** `bbugyi200.athena.sase-14c.2` · **State:** active · **Source run:** `run-3efc4ceeea7c87bdccd8e9caace9fedd`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-14c
 
@@ -12,7 +12,7 @@
 - Epic: [sase-14c](https://github.com/sase-org/sase--beads/blob/main/pages/sase-14c/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-20T17:20:57.905780+00:00 → 2026-09-20T19:15:20.949105+00:00
+- Timing: 2026-09-20T17:20:57.905780+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -29,6 +29,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-14c.1](../bbugyi200.athena.sase-14c.1/README.md) | sase-14c hood | completed |
+| [sase-14c.1](../bbugyi200.athena.sase-14c.1/README.md) | sase-14c hood | active |
 | [sase-14c.3](../bbugyi200.athena.sase-14c.3/README.md) | sase-14c hood | active |
-| [sase-14c.land](../bbugyi200.athena.sase-14c.land/README.md) | sase-14c hood | waiting |
+| [sase-14c.land](../bbugyi200.athena.sase-14c.land/README.md) | sase-14c hood | active |

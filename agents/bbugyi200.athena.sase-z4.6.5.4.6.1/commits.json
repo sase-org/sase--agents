@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1789334019,"sha":"de85730bf6931a9bfb932d56a03f2e5e9702f4de","subject":"test(monitor): drive weight-2 --next handoff through real settlement, add timeout/crash reclaim acceptance; fix(gate): claim capacity for creation-time %auto shell gates"}],"schema_version":2,"source_run_id":"run-05dcfdd06238b2d3f6fc845b288ffd5f"}

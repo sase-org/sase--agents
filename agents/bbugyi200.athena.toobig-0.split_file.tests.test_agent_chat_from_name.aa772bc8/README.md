@@ -22,9 +22,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-0.split\_file.tests.ace.tui.test\_update\_toast.91124fa7](../bbugyi200.athena.toobig-0.split_file.tests.ace.tui.test_update_toast.91124fa7/README.md) | toobig-0.split\_file.tests hood | active |
-| [toobig-0.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_agen.383db15b](../bbugyi200.athena.toobig-0.split_file.tests.ace.tui.visual.test_ace_png_snapshots_agen.383db15b/README.md) | toobig-0.split\_file.tests hood | active |
-| [toobig-0.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_agen.49b52e00](../bbugyi200.athena.toobig-0.split_file.tests.ace.tui.visual.test_ace_png_snapshots_agen.49b52e00/README.md) | toobig-0.split\_file.tests hood | active |
-| [toobig-0.split\_file.tests.ace.tui.widgets.test\_agent\_display\_clan.20bb543d](../bbugyi200.athena.toobig-0.split_file.tests.ace.tui.widgets.test_agent_display_clan.20bb543d/README.md) | toobig-0.split\_file.tests hood | active |
+| [toobig-0.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_agen.383db15b](../bbugyi200.athena.toobig-0.split_file.tests.ace.tui.visual.test_ace_png_snapshots_agen.383db15b/README.md) | toobig-0.split\_file.tests hood | dismissed |
+| [toobig-0.split\_file.tests.ace.tui.visual.test\_ace\_png\_snapshots\_agen.49b52e00](../bbugyi200.athena.toobig-0.split_file.tests.ace.tui.visual.test_ace_png_snapshots_agen.49b52e00/README.md) | toobig-0.split\_file.tests hood | dismissed |
+| [toobig-0.split\_file.tests.ace.tui.widgets.test\_agent\_display\_clan.20bb543d](../bbugyi200.athena.toobig-0.split_file.tests.ace.tui.widgets.test_agent_display_clan.20bb543d/README.md) | toobig-0.split\_file.tests hood | dismissed |
 | [toobig-0.split\_file.tests.ace.tui.widgets.test\_agent\_display\_plan\_se.6ebef075](../bbugyi200.athena.toobig-0.split_file.tests.ace.tui.widgets.test_agent_display_plan_se.6ebef075/README.md) | toobig-0.split\_file.tests hood | waiting |
 | [toobig-0.split\_file.tests.ace.tui.widgets.test\_prompt\_g\_prefix\_hints.3cbe82cd](../bbugyi200.athena.toobig-0.split_file.tests.ace.tui.widgets.test_prompt_g_prefix_hints.3cbe82cd/README.md) | toobig-0.split\_file.tests hood | waiting |
 | [toobig-0.split\_file.tests.test\_axe\_chop\_policy.16045fdb](../bbugyi200.athena.toobig-0.split_file.tests.test_axe_chop_policy.16045fdb/README.md) | toobig-0.split\_file.tests hood | waiting |

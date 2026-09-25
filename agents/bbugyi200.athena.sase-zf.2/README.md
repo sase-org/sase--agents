@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-zf](../../users/bbugyi200/machines/athena/hoods/sase-zf/README.md) / sase-zf.2
 
-**Global name:** `bbugyi200.athena.sase-zf.2` · **State:** completed · **Source run:** `run-9e8f97b70a7670a25750659fb7907b9b`
+**Global name:** `bbugyi200.athena.sase-zf.2` · **State:** active · **Source run:** `run-9e8f97b70a7670a25750659fb7907b9b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-zf
 
@@ -12,7 +12,7 @@
 - Epic: [sase-zf](https://github.com/sase-org/sase--beads/blob/main/pages/sase-zf/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-10T23:04:39.271795+00:00 → 2026-09-11T00:03:57.195537+00:00
+- Timing: 2026-09-10T23:04:39.271795+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -29,8 +29,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-zf.1](../bbugyi200.athena.sase-zf.1/README.md) | sase-zf hood | completed |
-| [sase-zf.3](../bbugyi200.athena.sase-zf.3/README.md) | sase-zf hood | completed |
-| [sase-zf.4](../bbugyi200.athena.sase-zf.4/README.md) | sase-zf hood | completed |
-| [sase-zf.5](../bbugyi200.athena.sase-zf.5/README.md) | sase-zf hood | completed |
+| [sase-zf.1](../bbugyi200.athena.sase-zf.1/README.md) | sase-zf hood | active |
+| [sase-zf.3](../bbugyi200.athena.sase-zf.3/README.md) | sase-zf hood | active |
+| [sase-zf.4](../bbugyi200.athena.sase-zf.4/README.md) | sase-zf hood | active |
+| [sase-zf.5](../bbugyi200.athena.sase-zf.5/README.md) | sase-zf hood | active |
 | [sase-zf.land](../bbugyi200.athena.sase-zf.land/README.md) | sase-zf hood | active |

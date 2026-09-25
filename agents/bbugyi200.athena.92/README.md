@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [92.f1](../bbugyi200.athena.92.f1/README.md) | descendant | completed |
-| [92.w0](../bbugyi200.athena.92.w0/README.md) | descendant | active |
+| [92.w0](../bbugyi200.athena.92.w0/README.md) | descendant | dismissed |

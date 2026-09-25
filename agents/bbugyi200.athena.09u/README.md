@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [09u](../../users/bbugyi200/machines/athena/hoods/09u/README.md) / 09u
 
-**Global name:** `bbugyi200.athena.09u` · **State:** completed · **Source run:** `run-88bedbc4613d33cdd908474a1f4f8fb5`
+**Global name:** `bbugyi200.athena.09u` · **State:** active · **Source run:** `run-88bedbc4613d33cdd908474a1f4f8fb5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 09u
 
@@ -10,12 +10,12 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-21T17:41:30.153234+00:00 → 2026-08-21T18:30:14.131135+00:00
+- Timing: 2026-08-21T17:41:30.153234+00:00
 - Commits: [3](#commits)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Prompt](prompt.md)
 
 ## Commits
 
@@ -29,4 +29,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [09u.f0](../../families/bbugyi200.athena.09u.f0.md) (family · 2) | descendant | active 2 |
+| [09u.f0](../../families/bbugyi200.athena.09u.f0.md) (family · 2) | descendant | active 1, completed 1 |

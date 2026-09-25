@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 05x--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-05x__plan-260818_075920.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-05x__code-260818_075920.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/readme_agent_status_cells.md
 
 

@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0a6--1--code](../bbugyi200.athena.0a6--1--code/README.md) | descendant | active |
-| [0a6--1--plan](../bbugyi200.athena.0a6--1--plan/README.md) | descendant | active |
+| [0a6--1--code](../bbugyi200.athena.0a6--1--code/README.md) | descendant | completed |
+| [0a6--1--plan](../bbugyi200.athena.0a6--1--plan/README.md) | descendant | completed |

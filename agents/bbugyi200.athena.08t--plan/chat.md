@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 08t--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-08t__plan-260820_134317.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-08t__code-260820_134317.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/migrate_artifact_skill_to_memory.md
 
 

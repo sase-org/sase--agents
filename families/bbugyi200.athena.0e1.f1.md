@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `0e1` · Members: 2
 ```mermaid
 flowchart TD
   n0["0e1.f1--code [completed]"]
-  n1["0e1.f1--plan [completed]"]
+  n1["0e1.f1--plan [active]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 0e1.f1--code | completed | sonnet / claude | 2026-08-26T12:15:34.079439+00:00 → 2026-08-26T12:49:07.484931+00:00 | [1](../agents/bbugyi200.athena.0e1.f1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.0e1.f1--code/chat.md) |
-| <a id="member-plan"></a>plan | 0e1.f1--plan | completed | opus / claude | 2026-08-26T11:52:46.130548+00:00 → 2026-08-26T12:49:07.484931+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0e1.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0e1.f1--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0e1.f1--plan | active | opus / claude | 2026-08-26T11:52:46.130548+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0e1.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0e1.f1--plan/chat.md) |
 
 ## Commits
 
@@ -30,5 +30,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [0e1](../agents/bbugyi200.athena.0e1/README.md) | ancestor | completed |
-| [0e1.f0](../agents/bbugyi200.athena.0e1.f0/README.md) | 0e1 hood | dismissed |
+| [0e1](../agents/bbugyi200.athena.0e1/README.md) | ancestor | active |
+| [0e1.f0](../agents/bbugyi200.athena.0e1.f0/README.md) | 0e1 hood | active |

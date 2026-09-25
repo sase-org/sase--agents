@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a78fb30a9d00479ac1c38960a1af1ebe"}
+{"commits":[{"committed_at":1787104425,"sha":"66418053282c2937c4ca79a179e5c9a21bea02a8","subject":"feat(plugins): scale latest-version enrichment to installed count"}],"schema_version":2,"source_run_id":"run-a78fb30a9d00479ac1c38960a1af1ebe"}

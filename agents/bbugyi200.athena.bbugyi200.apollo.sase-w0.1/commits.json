@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1788443706,"sha":"f67169ea715310e8da8a8034bd1842f7bc051c88","subject":"refactor(plugins-browser): extract row model and capability derivation into plugins_browser_rows"}],"schema_version":2,"source_run_id":"run-049ec828ce4318d2f1cf3d32a6aeecd2"}

@@ -31,7 +31,7 @@
 | [sase-12z.1](../bbugyi200.athena.sase-12z.1/README.md) | sase-12z hood | active |
 | [sase-12z.2](../../families/bbugyi200.athena.sase-12z.2.md) (family · 9) | sase-12z hood | active 9 |
 | [sase-12z.3](../bbugyi200.athena.sase-12z.3/README.md) | sase-12z hood | active |
-| [sase-12z.5.1](../bbugyi200.athena.sase-12z.5.1/README.md) | sase-12z hood | completed |
-| [sase-12z.5.2](../bbugyi200.athena.sase-12z.5.2/README.md) | sase-12z hood | completed |
+| [sase-12z.5.1](../bbugyi200.athena.sase-12z.5.1/README.md) | sase-12z hood | active |
+| [sase-12z.5.2](../bbugyi200.athena.sase-12z.5.2/README.md) | sase-12z hood | active |
 | [sase-12z.5.land](../bbugyi200.athena.sase-12z.5.land/README.md) | sase-12z hood | active |
 | [sase-12z.land](../../families/bbugyi200.athena.sase-12z.land.md) (family · 5) | sase-12z hood | active 5 |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-97c81b9db2726c137e59a47d62e8b1a7"}
+{"commits":[{"committed_at":1787659745,"sha":"442d1d4e733f7095a51b1cbc7187cfe23c156abf","subject":"test(ace): rebaseline stale visual goldens"}],"schema_version":2,"source_run_id":"run-97c81b9db2726c137e59a47d62e8b1a7"}

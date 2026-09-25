@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-63.1](../agents/bbugyi200.athena.sase-63.1/README.md) | descendant | active |
-| [sase-63.2](../agents/bbugyi200.athena.sase-63.2/README.md) | descendant | active |
+| [sase-63.1](../agents/bbugyi200.athena.sase-63.1/README.md) | descendant | dismissed |
+| [sase-63.2](../agents/bbugyi200.athena.sase-63.2/README.md) | descendant | dismissed |
 | [sase-63.3](../agents/bbugyi200.athena.sase-63.3/README.md) | descendant | waiting |
 | [sase-63.4](../agents/bbugyi200.athena.sase-63.4/README.md) | descendant | waiting |

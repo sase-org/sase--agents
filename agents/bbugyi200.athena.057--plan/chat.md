@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 057--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-057__plan-260817_173649.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-057__code-260817_173649.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/artifacts_relations_rail.md
 
 

@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-ly--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ly__plan-260814_103617.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-sase_ly__code-260814_103617.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/repo_open_safety.md
 
 

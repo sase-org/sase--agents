@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 04t--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-04t__plan-260817_102622.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-04t__code-260817_102622.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/statistics_tab_data_accuracy.md
 
 

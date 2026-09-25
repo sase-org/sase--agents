@@ -1,0 +1,34 @@
+# Agent: sase-uk.land--mon
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-uk](../../users/bbugyi200/machines/athena/hoods/sase-uk/README.md) / [sase-uk.land](../../families/bbugyi200.athena.sase-uk.land.md) / sase-uk.land--mon
+
+**Global name:** `bbugyi200.athena.sase-uk.land--mon` · **State:** failed · **Source run:** `run-1ea675968bf2b412a0db39c12fa316d5`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-uk
+
+## Summary
+
+- Bead: [sase-uk](https://github.com/sase-org/sase--beads/blob/main/pages/sase-uk/README.md)
+- Model: opus
+- Provider: claude
+- Timing: 2026-08-27T14:20:09.492899+00:00
+- Commits: 0
+
+## Files
+
+[Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-uk.1](../bbugyi200.athena.sase-uk.1/README.md) | sase-uk hood | active |
+| [sase-uk.10](../bbugyi200.athena.sase-uk.10/README.md) | sase-uk hood | active |
+| [sase-uk.2](../bbugyi200.athena.sase-uk.2/README.md) | sase-uk hood | active |
+| [sase-uk.3](../../families/bbugyi200.athena.sase-uk.3.md) (family · 3) | sase-uk hood | active 3 |
+| [sase-uk.4](../bbugyi200.athena.sase-uk.4/README.md) | sase-uk hood | active |
+| [sase-uk.5](../bbugyi200.athena.sase-uk.5/README.md) | sase-uk hood | active |
+| [sase-uk.6](../bbugyi200.athena.sase-uk.6/README.md) | sase-uk hood | active |
+| [sase-uk.7](../bbugyi200.athena.sase-uk.7/README.md) | sase-uk hood | active |
+| [sase-uk.8](../bbugyi200.athena.sase-uk.8/README.md) | sase-uk hood | active |
+| [sase-uk.9](../bbugyi200.athena.sase-uk.9/README.md) | sase-uk hood | active |

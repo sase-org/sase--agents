@@ -2,35 +2,40 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ri](../../users/bbugyi200/machines/athena/hoods/sase-ri/README.md) / [sase-ri.3](../../families/bbugyi200.athena.sase-ri.3.md) / sase-ri.3--1
 
-**Global name:** `bbugyi200.athena.sase-ri.3--1` · **State:** dismissed · **Source run:** `run-bd80903d57495368be7487c901d74256`
+**Global name:** `bbugyi200.athena.sase-ri.3--1` · **State:** active · **Source run:** `run-bd80903d57495368be7487c901d74256`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-ri
 
 ## Summary
 
 - Bead: [sase-ri.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ri/sase-ri.3.md)
-- Model: —
-- Provider: —
-- Timing: 2026-08-20T13:37:01
+- Model: gpt-5.5
+- Provider: codex
+- Timing: 2026-08-20T17:37:08.251733+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ri.1](../bbugyi200.athena.sase-ri.1/README.md) | sase-ri hood | dismissed |
-| [sase-ri.2](../bbugyi200.athena.sase-ri.2/README.md) | sase-ri hood | dismissed |
-| [sase-ri.4](../bbugyi200.athena.sase-ri.4/README.md) | sase-ri hood | dismissed |
-| [sase-ri.5](../bbugyi200.athena.sase-ri.5/README.md) | sase-ri hood | dismissed |
-| [sase-ri.land](../bbugyi200.athena.sase-ri.land/README.md) | sase-ri hood | dismissed |
-| [sase-ri.land.w1.f0](../bbugyi200.athena.sase-ri.land.w1.f0/README.md) | sase-ri hood | dismissed |
-| [sase-ri.land.w2](../../families/bbugyi200.athena.sase-ri.land.w2.md) (family · 2) | sase-ri hood | failed 2 |
-| [sase-ri.land.w2.f0](../bbugyi200.athena.sase-ri.land.w2.f0/README.md) | sase-ri hood | dismissed |
-| [sase-ri.land.w2.f1](../bbugyi200.athena.sase-ri.land.w2.f1/README.md) | sase-ri hood | dismissed |
-| [sase-ri.land.w2.f2.f0](../bbugyi200.athena.sase-ri.land.w2.f2.f0/README.md) | sase-ri hood | dismissed |
-| [sase-ri.land.w2.f2.f1](../bbugyi200.athena.sase-ri.land.w2.f2.f1/README.md) | sase-ri hood | dismissed |
+| [sase-ri.1](../bbugyi200.athena.sase-ri.1/README.md) | sase-ri hood | active |
+| [sase-ri.2](../bbugyi200.athena.sase-ri.2/README.md) | sase-ri hood | active |
+| [sase-ri.4](../bbugyi200.athena.sase-ri.4/README.md) | sase-ri hood | active |
+| [sase-ri.5](../bbugyi200.athena.sase-ri.5/README.md) | sase-ri hood | active |
+| [sase-ri.land](../bbugyi200.athena.sase-ri.land/README.md) | sase-ri hood | active |
+| [sase-ri.land.w0](../bbugyi200.athena.sase-ri.land.w0/README.md) | sase-ri hood | active |
+| [sase-ri.land.w1.f0](../bbugyi200.athena.sase-ri.land.w1.f0/README.md) | sase-ri hood | active |
+| [sase-ri.land.w2](../../families/bbugyi200.athena.sase-ri.land.w2.md) (family · 2) | sase-ri hood | active 1, failed 1 |
+| [sase-ri.land.w2.f0](../bbugyi200.athena.sase-ri.land.w2.f0/README.md) | sase-ri hood | active |
+| [sase-ri.land.w2.f1](../bbugyi200.athena.sase-ri.land.w2.f1/README.md) | sase-ri hood | waiting |
+| [sase-ri.land.w2.f2.f0](../bbugyi200.athena.sase-ri.land.w2.f2.f0/README.md) | sase-ri hood | active |
+| [sase-ri.land.w2.f2.f1](../bbugyi200.athena.sase-ri.land.w2.f2.f1/README.md) | sase-ri hood | waiting |
 | [sase-ri.land.w2.f2.f3](../bbugyi200.athena.sase-ri.land.w2.f2.f3/README.md) | sase-ri hood | active |
-| [sase-ri.land.w2.f2.w2](../../families/bbugyi200.athena.sase-ri.land.w2.f2.w2.md) (family · 4) | sase-ri hood | completed 3, failed 1 |
-| [sase-ri.land.w2.f2.w2.f1](../../families/bbugyi200.athena.sase-ri.land.w2.f2.w2.f1.md) (family · 2) | sase-ri hood | active 2 |
+| [sase-ri.land.w2.f2.w2](../../families/bbugyi200.athena.sase-ri.land.w2.f2.w2.md) (family · 4) | sase-ri hood | active 1, completed 2, failed 1 |
+| [sase-ri.land.w2.f2.w2.f1](../../families/bbugyi200.athena.sase-ri.land.w2.f2.w2.f1.md) (family · 2) | sase-ri hood | active 1, completed 1 |
 | [sase-ri.land.w2.f2.w3](../../families/bbugyi200.athena.sase-ri.land.w2.f2.w3.md) (family · 4) | sase-ri hood | active 1, completed 2, failed 1 |
-| [sase-ri.land.w2.f3](../../families/bbugyi200.athena.sase-ri.land.w2.f3.md) (family · 2) | sase-ri hood | completed 2 |
+| [sase-ri.land.w2.f3](../../families/bbugyi200.athena.sase-ri.land.w2.f3.md) (family · 2) | sase-ri hood | active 1, completed 1 |

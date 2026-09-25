@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-850fabcf07570ae6ddc3441b93ef0c29"}
+{"commits":[{"committed_at":1787330861,"sha":"8143f4c61071d819883e9309d7e8ead70767a4e3","subject":"feat(completion): refresh installed completions after every successful update"}],"schema_version":2,"source_run_id":"run-850fabcf07570ae6ddc3441b93ef0c29"}

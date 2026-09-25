@@ -12,20 +12,29 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-08-25T11:42:46.680181+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`436baa7`](https://github.com/sase-org/sase/commit/436baa7c1770d2b05cc471e8032424d86bec8999) | test(beads): refresh structured note CLI fixtures | 2026-08-25 07:58:45 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-th.1](../bbugyi200.athena.sase-th.1/README.md) | sase-th hood | completed |
-| [sase-th.3](../bbugyi200.athena.sase-th.3/README.md) | sase-th hood | completed |
+| [sase-th.1](../bbugyi200.athena.sase-th.1/README.md) | sase-th hood | active |
+| [sase-th.3](../bbugyi200.athena.sase-th.3/README.md) | sase-th hood | active |
 | [sase-th.4](../bbugyi200.athena.sase-th.4/README.md) | sase-th hood | active |
-| [sase-th.5](../../families/bbugyi200.athena.sase-th.5.md) (family · 3) | sase-th hood | completed 2, failed 1 |
+| [sase-th.5](../../families/bbugyi200.athena.sase-th.5.md) (family · 3) | sase-th hood | active 2, failed 1 |
 | [sase-th.6](../bbugyi200.athena.sase-th.6/README.md) | sase-th hood | active |
+| [sase-th.7](../../families/bbugyi200.athena.sase-th.7.md) (family · 8) | sase-th hood | active 4, failed 4 |
 | [sase-th.7](../bbugyi200.athena.sase-th.7/README.md) | sase-th hood | waiting |
+| [sase-th.7--4--0](../bbugyi200.athena.sase-th.7--4--0/README.md) | sase-th hood | active |
+| [sase-th.7--4--1](../bbugyi200.athena.sase-th.7--4--1/README.md) | sase-th hood | completed |
 | [sase-th.land](../bbugyi200.athena.sase-th.land/README.md) | sase-th hood | waiting |

@@ -2,17 +2,22 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-s6](../../users/bbugyi200/machines/athena/hoods/sase-s6/README.md) / sase-s6.1
 
-**Global name:** `bbugyi200.athena.sase-s6.1` · **State:** dismissed · **Source run:** `run-8b2d7be314e4d32b3e3e36f38e9063aa`
+**Global name:** `bbugyi200.athena.sase-s6.1` · **State:** active · **Source run:** `run-8b2d7be314e4d32b3e3e36f38e9063aa`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-s6
 
 ## Summary
 
 - Bead: [sase-s6.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-s6/sase-s6.1.md)
-- Model: —
-- Provider: —
-- Timing: 2026-08-22T18:15:59
+- Epic: [sase-s6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-s6/README.md)
+- Model: grok-4.6
+- Provider: grok
+- Timing: 2026-08-22T18:16:24.072629+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Prompt](prompt.md)
 
 ## Commits
 
@@ -24,11 +29,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-s6.2](../bbugyi200.athena.sase-s6.2/README.md) | sase-s6 hood | dismissed |
-| [sase-s6.3](../bbugyi200.athena.sase-s6.3/README.md) | sase-s6 hood | dismissed |
-| [sase-s6.4](../bbugyi200.athena.sase-s6.4/README.md) | sase-s6 hood | dismissed |
-| [sase-s6.5](../bbugyi200.athena.sase-s6.5/README.md) | sase-s6 hood | dismissed |
-| [sase-s6.6](../bbugyi200.athena.sase-s6.6/README.md) | sase-s6 hood | dismissed |
-| [sase-s6.7](../bbugyi200.athena.sase-s6.7/README.md) | sase-s6 hood | dismissed |
-| [sase-s6.8](../../families/bbugyi200.athena.sase-s6.8.md) (family · 6) | sase-s6 hood | dismissed 5, failed 1 |
-| [sase-s6.land](../bbugyi200.athena.sase-s6.land/README.md) | sase-s6 hood | completed |
+| [sase-s6.2](../bbugyi200.athena.sase-s6.2/README.md) | sase-s6 hood | active |
+| [sase-s6.3](../bbugyi200.athena.sase-s6.3/README.md) | sase-s6 hood | active |
+| [sase-s6.4](../bbugyi200.athena.sase-s6.4/README.md) | sase-s6 hood | active |
+| [sase-s6.5](../bbugyi200.athena.sase-s6.5/README.md) | sase-s6 hood | active |
+| [sase-s6.6](../bbugyi200.athena.sase-s6.6/README.md) | sase-s6 hood | active |
+| [sase-s6.7](../bbugyi200.athena.sase-s6.7/README.md) | sase-s6 hood | active |
+| [sase-s6.8](../../families/bbugyi200.athena.sase-s6.8.md) (family · 6) | sase-s6 hood | active 5, failed 1 |
+| [sase-s6.land](../bbugyi200.athena.sase-s6.land/README.md) | sase-s6 hood | active |

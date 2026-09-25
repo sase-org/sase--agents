@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 04z--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-04z__plan-260817_114333.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-04z__code-260817_114333.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/agents_tab_unread_node_completion_keys.md
 
 

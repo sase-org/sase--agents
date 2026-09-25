@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-l2.land--1 [failed]"]
   n1["sase-l2.land--mon [failed]"]
   n0 --> n1
-  n2["sase-l2.land--plan [dismissed]"]
+  n2["sase-l2.land--plan [active]"]
   n0 --> n2
 ```
 
@@ -21,12 +21,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | sase-l2.land--1 | failed | opus / claude | 2026-08-13T19:24:48.572906+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-l2.land--1/prompt.md) | — |
 | <a id="member-mon"></a>mon | sase-l2.land--mon | failed | opus / claude | 2026-08-13T19:22:14.163316+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-l2.land--mon/chat.md) |
-| <a id="member-plan"></a>plan | sase-l2.land--plan | dismissed | opus / claude | 2026-08-13T15:09:38.968548 → 2026-08-13T15:22:20.529157 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-l2.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-l2.land--plan | active | opus / claude | 2026-08-13T19:09:38.968548+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-l2.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-l2.land--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-l2.1](../agents/bbugyi200.athena.sase-l2.1/README.md) | sase-l2 hood | dismissed |
-| [sase-l2.2](../agents/bbugyi200.athena.sase-l2.2/README.md) | sase-l2 hood | dismissed |
-| [sase-l2.3](../agents/bbugyi200.athena.sase-l2.3/README.md) | sase-l2 hood | dismissed |
+| [sase-l2.1](../agents/bbugyi200.athena.sase-l2.1/README.md) | sase-l2 hood | active |
+| [sase-l2.2](../agents/bbugyi200.athena.sase-l2.2/README.md) | sase-l2 hood | active |
+| [sase-l2.3](../agents/bbugyi200.athena.sase-l2.3/README.md) | sase-l2 hood | active |

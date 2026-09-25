@@ -11,7 +11,7 @@ flowchart TD
   n0["zl.w0--mon [failed]"]
   n1["zl.w0--code [completed]"]
   n0 --> n1
-  n2["zl.w0--plan [dismissed]"]
+  n2["zl.w0--plan [active]"]
   n0 --> n2
 ```
 
@@ -21,12 +21,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | zl.w0--mon | failed | sonnet / claude | 2026-08-13T16:53:44.162449+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.zl.w0--mon/chat.md) |
 | <a id="member-code"></a>code | zl.w0--code | completed | sonnet / claude | 2026-08-13T16:20:58.231926+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.zl.w0--code/chat.md) |
-| <a id="member-plan"></a>plan | zl.w0--plan | dismissed | opus / claude | 2026-08-13T12:08:39.576508 → 2026-08-13T12:53:58.350007 | 0 | — | [Chat](../agents/bbugyi200.athena.zl.w0--plan/chat.md) |
+| <a id="member-plan"></a>plan | zl.w0--plan | active | opus / claude | 2026-08-13T16:08:39.576508+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.zl.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.zl.w0--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [zl](../agents/bbugyi200.athena.zl/README.md) | ancestor | completed |
-| [zl.f1](bbugyi200.athena.zl.f1.md) (family · 2) | zl hood | failed 2 |
-| [zl.w1](../agents/bbugyi200.athena.zl.w1/README.md) | zl hood | dismissed |
+| [zl](../agents/bbugyi200.athena.zl/README.md) | ancestor | active |
+| [zl.f1](bbugyi200.athena.zl.f1.md) (family · 2) | zl hood | active 1, failed 1 |
+| [zl.w1](../agents/bbugyi200.athena.zl.w1/README.md) | zl hood | active |

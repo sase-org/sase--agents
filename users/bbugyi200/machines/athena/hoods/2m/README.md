@@ -2,8 +2,8 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 2m
 
-**Global hood:** `bbugyi200.athena.2m` · **Runs:** 1 · **Families:** 0 · **States:** active 1
+**Global hood:** `bbugyi200.athena.2m` · **Runs:** 1 · **Families:** 0 · **States:** dismissed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [2m](../../../../../../agents/bbugyi200.athena.2m/README.md) | active | gpt-5.5 / codex | 2026-07-08T18:49:50.539531+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.2m/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.2m/prompt.md) |
+| [2m](../../../../../../agents/bbugyi200.athena.2m/README.md) | dismissed | gpt-5.5 / codex | 2026-07-08T14:49:50.539531 → 2026-07-08T15:05:59.977541 | 1 | [chat](../../../../../../agents/bbugyi200.athena.2m/chat.md) |

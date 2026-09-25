@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 09f--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-09f__plan-260821_093537.md`
+- 2. --code — `~/.sase/chats/202608/gh_sase_org__sase-ace_run-09f__code-260821_093537.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/soft_disabled_pool_styling.md
 
 

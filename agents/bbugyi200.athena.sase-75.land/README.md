@@ -24,4 +24,4 @@
 |---|---|---|
 | [sase-75.1](../bbugyi200.athena.sase-75.1/README.md) | sase-75 hood | active |
 | [sase-75.2](../bbugyi200.athena.sase-75.2/README.md) | sase-75 hood | active |
-| [sase-75.f0](../bbugyi200.athena.sase-75.f0/README.md) | sase-75 hood | active |
+| [sase-75.f0](../bbugyi200.athena.sase-75.f0/README.md) | sase-75 hood | dismissed |

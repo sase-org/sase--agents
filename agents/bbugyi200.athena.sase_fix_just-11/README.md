@@ -2,20 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase\_fix\_just-11](../../users/bbugyi200/machines/athena/hoods/sase_fix_just-11/README.md) / sase\_fix\_just-11
 
-**Global name:** `bbugyi200.athena.sase_fix_just-11` · **State:** failed · **Source run:** `run-8b3b9377d5fba10df8d5394a792d1fe8`
+**Global name:** `bbugyi200.athena.sase_fix_just-11` · **State:** completed · **Source run:** `run-6a39466ff2f4bf91e582fd3bf23c7fcf`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase\_fix\_just-11
 
 ## Summary
 
-- Model: gpt-5.6-sol
-- Provider: codex
-- Timing: 2026-07-12T20:48:54.256491+00:00
+- Model: —
+- Provider: —
+- Timing: 2026-06-02T21:27:47+00:00 → 2026-06-02T21:27:47+00:00
 - Commits: [1](#commits)
-
-## Files
-
-[Prompt](prompt.md)
 
 ## Commits
 

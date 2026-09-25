@@ -28,7 +28,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6u.1](../bbugyi200.athena.sase-6u.1/README.md) | sase-6u hood | active |
-| [sase-6u.2](../bbugyi200.athena.sase-6u.2/README.md) | sase-6u hood | active |
-| [sase-6u.3](../bbugyi200.athena.sase-6u.3/README.md) | sase-6u hood | active |
-| [sase-6u.4](../bbugyi200.athena.sase-6u.4/README.md) | sase-6u hood | active |
+| [sase-6u.1](../bbugyi200.athena.sase-6u.1/README.md) | sase-6u hood | dismissed |
+| [sase-6u.2](../bbugyi200.athena.sase-6u.2/README.md) | sase-6u hood | dismissed |
+| [sase-6u.3](../bbugyi200.athena.sase-6u.3/README.md) | sase-6u hood | dismissed |
+| [sase-6u.4](../bbugyi200.athena.sase-6u.4/README.md) | sase-6u hood | dismissed |

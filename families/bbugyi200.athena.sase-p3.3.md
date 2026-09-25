@@ -9,11 +9,11 @@ Owner: `bbugyi200.athena` · Hood: `sase-p3` · Members: 5 · Bead: [sase-p3.3](
 ```mermaid
 flowchart TD
   n0["sase-p3.3--1 [active]"]
-  n1["sase-p3.3--plan [completed]"]
+  n1["sase-p3.3--plan [active]"]
   n0 --> n1
   n2["sase-p3.3--2 [completed]"]
   n0 --> n2
-  n3["sase-p3.3--3 [completed]"]
+  n3["sase-p3.3--3 [active]"]
   n0 --> n3
   n4["sase-p3.3--mon [failed]"]
   n0 --> n4
@@ -24,9 +24,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | sase-p3.3--1 | active | sonnet / claude | 2026-08-17T23:23:04.726904+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-p3.3--1/chat.md) |
-| <a id="member-plan"></a>plan | sase-p3.3--plan | completed | sonnet / claude | 2026-08-17T22:51:37.356981+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p3.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p3.3--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-p3.3--plan | active | sonnet / claude | 2026-08-17T22:51:37.356981+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-p3.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p3.3--plan/chat.md) |
 | <a id="member-2"></a>2 | sase-p3.3--2 | completed | grok-4.6 / grok | 2026-08-17T23:51:43.334116+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-p3.3--2/chat.md) |
-| <a id="member-3"></a>3 | sase-p3.3--3 | completed | grok-4.6 / grok | 2026-08-18T01:12:08.701169+00:00 | [1](../agents/bbugyi200.athena.sase-p3.3--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-p3.3--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-p3.3--3/chat.md) |
+| <a id="member-3"></a>3 | sase-p3.3--3 | active | grok-4.6 / grok | 2026-08-18T01:12:08.701169+00:00 | [1](../agents/bbugyi200.athena.sase-p3.3--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-p3.3--3/prompt.md) | — |
 | <a id="member-mon"></a>mon | sase-p3.3--mon | failed | grok-4.6 / grok | 2026-08-18T00:36:01.831495+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-p3.3--mon/chat.md) |
 
 ## Commits
@@ -39,21 +39,21 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-p3.1](../agents/bbugyi200.athena.sase-p3.1/README.md) | sase-p3 hood | completed |
-| [sase-p3.10](../agents/bbugyi200.athena.sase-p3.10/README.md) | sase-p3 hood | completed |
-| [sase-p3.11](../agents/bbugyi200.athena.sase-p3.11/README.md) | sase-p3 hood | completed |
-| [sase-p3.12](../agents/bbugyi200.athena.sase-p3.12/README.md) | sase-p3 hood | completed |
-| [sase-p3.13](../agents/bbugyi200.athena.sase-p3.13/README.md) | sase-p3 hood | completed |
-| [sase-p3.14](bbugyi200.athena.sase-p3.14.md) (family · 3) | sase-p3 hood | completed 2, failed 1 |
-| [sase-p3.15.1](../agents/bbugyi200.athena.sase-p3.15.1/README.md) | sase-p3 hood | completed |
-| [sase-p3.15.2](bbugyi200.athena.sase-p3.15.2.md) (family · 9) | sase-p3 hood | completed 5, failed 4 |
-| [sase-p3.15.3](../agents/bbugyi200.athena.sase-p3.15.3/README.md) | sase-p3 hood | completed |
+| [sase-p3.1](../agents/bbugyi200.athena.sase-p3.1/README.md) | sase-p3 hood | active |
+| [sase-p3.10](../agents/bbugyi200.athena.sase-p3.10/README.md) | sase-p3 hood | active |
+| [sase-p3.11](../agents/bbugyi200.athena.sase-p3.11/README.md) | sase-p3 hood | active |
+| [sase-p3.12](../agents/bbugyi200.athena.sase-p3.12/README.md) | sase-p3 hood | active |
+| [sase-p3.13](../agents/bbugyi200.athena.sase-p3.13/README.md) | sase-p3 hood | active |
+| [sase-p3.14](bbugyi200.athena.sase-p3.14.md) (family · 3) | sase-p3 hood | active 3 |
+| [sase-p3.15.1](../agents/bbugyi200.athena.sase-p3.15.1/README.md) | sase-p3 hood | active |
+| [sase-p3.15.2](bbugyi200.athena.sase-p3.15.2.md) (family · 9) | sase-p3 hood | active 9 |
+| [sase-p3.15.3](../agents/bbugyi200.athena.sase-p3.15.3/README.md) | sase-p3 hood | active |
 | [sase-p3.15.land](../agents/bbugyi200.athena.sase-p3.15.land/README.md) | sase-p3 hood | active |
-| [sase-p3.2](../agents/bbugyi200.athena.sase-p3.2/README.md) | sase-p3 hood | completed |
-| [sase-p3.4](../agents/bbugyi200.athena.sase-p3.4/README.md) | sase-p3 hood | completed |
-| [sase-p3.5](../agents/bbugyi200.athena.sase-p3.5/README.md) | sase-p3 hood | completed |
-| [sase-p3.6](../agents/bbugyi200.athena.sase-p3.6/README.md) | sase-p3 hood | completed |
-| [sase-p3.7](../agents/bbugyi200.athena.sase-p3.7/README.md) | sase-p3 hood | completed |
-| [sase-p3.8](../agents/bbugyi200.athena.sase-p3.8/README.md) | sase-p3 hood | completed |
-| [sase-p3.9](../agents/bbugyi200.athena.sase-p3.9/README.md) | sase-p3 hood | completed |
-| [sase-p3.land](bbugyi200.athena.sase-p3.land.md) (family · 2) | sase-p3 hood | failed 2 |
+| [sase-p3.2](../agents/bbugyi200.athena.sase-p3.2/README.md) | sase-p3 hood | active |
+| [sase-p3.4](../agents/bbugyi200.athena.sase-p3.4/README.md) | sase-p3 hood | active |
+| [sase-p3.5](../agents/bbugyi200.athena.sase-p3.5/README.md) | sase-p3 hood | active |
+| [sase-p3.6](../agents/bbugyi200.athena.sase-p3.6/README.md) | sase-p3 hood | active |
+| [sase-p3.7](../agents/bbugyi200.athena.sase-p3.7/README.md) | sase-p3 hood | active |
+| [sase-p3.8](../agents/bbugyi200.athena.sase-p3.8/README.md) | sase-p3 hood | active |
+| [sase-p3.9](../agents/bbugyi200.athena.sase-p3.9/README.md) | sase-p3 hood | active |
+| [sase-p3.land](bbugyi200.athena.sase-p3.land.md) (family · 2) | sase-p3 hood | active 2 |

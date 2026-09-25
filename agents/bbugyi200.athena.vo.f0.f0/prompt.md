@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #fork:vo.f0 Why am I still seeing the enum input field for sase task bead gates (see #sshot for context)? Is this just an old gate notification? #if_not_plan

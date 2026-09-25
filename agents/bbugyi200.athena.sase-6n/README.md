@@ -31,5 +31,5 @@
 | [sase-6n.7](../bbugyi200.athena.sase-6n.7/README.md) | descendant | active |
 | [sase-6n.8](../bbugyi200.athena.sase-6n.8/README.md) | descendant | active |
 | [sase-6n.9](../bbugyi200.athena.sase-6n.9/README.md) | descendant | active |
-| [sase-6n.f1](../bbugyi200.athena.sase-6n.f1/README.md) | descendant | active |
-| [sase-6n.w1](../bbugyi200.athena.sase-6n.w1/README.md) | descendant | active |
+| [sase-6n.f1](../bbugyi200.athena.sase-6n.f1/README.md) | descendant | dismissed |
+| [sase-6n.w1](../bbugyi200.athena.sase-6n.w1/README.md) | descendant | dismissed |

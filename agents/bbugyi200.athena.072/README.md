@@ -11,11 +11,11 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-09-08T12:26:20.760606+00:00
-- Commits: [2](#commits)
+- Commits: [3](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -23,3 +23,4 @@
 |---|---|---|---|
 | sase | [`5fcdf98`](https://github.com/sase-org/sase/commit/5fcdf98019f10a78f5284807b0f0729bc9d801ef) | chore: Add SDD prompt and plan for revive\_custom\_search\_initial\_page | 2026-06-26 10:28:53 EDT |
 | sase | [`3f5b1ad`](https://github.com/sase-org/sase/commit/3f5b1adf73b1698c268529ff76632829e393647d) | fix(tui): render custom revival search first page without typing | 2026-06-26 10:36:05 EDT |
+| sase | [`77b7e5e`](https://github.com/sase-org/sase/commit/77b7e5ea05da528cc2b680e14630f4ca11812117) | fix(workspace): harden clone origins and push recovery | 2026-09-08 10:13:11 EDT |

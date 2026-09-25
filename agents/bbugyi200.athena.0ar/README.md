@@ -2,16 +2,20 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0ar](../../users/bbugyi200/machines/athena/hoods/0ar/README.md) / 0ar
 
-**Global name:** `bbugyi200.athena.0ar` · **State:** completed · **Source run:** `run-9794378c1dd2cf3f4dedcfd3d63d19be`
+**Global name:** `bbugyi200.athena.0ar` · **State:** active · **Source run:** `run-5c24813ea47a835a7286bfb0278da39c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0ar
 
 ## Summary
 
-- Model: —
-- Provider: —
-- Timing: 2026-06-30T13:45:54+00:00 → 2026-06-30T14:00:13+00:00
+- Model: gpt-5.6-sol
+- Provider: codex
+- Timing: 2026-09-09T11:07:21.668755+00:00
 - Commits: [2](#commits)
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -24,4 +28,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
+| [0ar.f0](../bbugyi200.athena.0ar.f0/README.md) | descendant | active |
+| [0ar.f0.f0](../bbugyi200.athena.0ar.f0.f0/README.md) | descendant | active |
+| [0ar.f0.f1](../../families/bbugyi200.athena.0ar.f0.f1.md) (family · 3) | descendant | active 1, failed 2 |
 | [0ar.f1](../bbugyi200.athena.0ar.f1/README.md) | descendant | completed |
