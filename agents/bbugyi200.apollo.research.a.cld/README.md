@@ -2,16 +2,20 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.a.cld
 
-**Global name:** `bbugyi200.apollo.research.a.cld` · **State:** completed · **Source run:** `run-18678e6eaf2f7e23523184e9d400acd8`
+**Global name:** `bbugyi200.apollo.research.a.cld` · **State:** active · **Source run:** `run-a617b1eb961d70363ebaaf7133056418`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
 ## Summary
 
-- Model: —
-- Provider: —
-- Timing: 2026-06-12T13:25:24+00:00 → 2026-06-12T13:25:24+00:00
+- Model: opus
+- Provider: claude
+- Timing: 2026-09-25T19:02:27.899297+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Prompt](prompt.md)
 
 ## Commits
 
@@ -23,9 +27,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.a.cdx](../bbugyi200.apollo.research.a.cdx/README.md) | research.a hood | completed |
-| [research.a.final](../bbugyi200.apollo.research.a.final/README.md) | research.a hood | completed |
-| [research.a.image](../bbugyi200.apollo.research.a.image/README.md) | research.a hood | completed |
+| [research.a.cdx](../bbugyi200.apollo.research.a.cdx/README.md) | research.a hood | active |
+| [research.a.final](../bbugyi200.apollo.research.a.final/README.md) | research.a hood | waiting |
+| [research.a.gem](../bbugyi200.apollo.research.a.gem/README.md) | research.a hood | active |
+| [research.a.image](../bbugyi200.apollo.research.a.image/README.md) | research.a hood | waiting |
+| [research.a.mus](../bbugyi200.apollo.research.a.mus/README.md) | research.a hood | active |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
