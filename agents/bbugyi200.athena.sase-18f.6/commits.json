@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1790288068,"sha":"fdc3e3caf65d7d6a56ae0499dd11fac92efd8066","subject":"feat(bead): refuse closing a flag bead while its registry definition survives"}],"schema_version":2,"source_run_id":"run-cf370cc5fb80ec62ce8beb243993439e"}
