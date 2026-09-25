@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1790267828,"sha":"79a16ca7712fca793714e92d9c884aca86da1fc5","subject":"feat(completion): add GATE, TOOL_RUN, TASK_TYPE kinds with entity candidates and kind-coverage ratchet"}],"schema_version":2,"source_run_id":"run-5321cd2bd68ee68523b5c75165dc133b"}
