@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / research
 
-**Global hood:** `bbugyi200.apollo.research` · **Runs:** 246 · **Families:** 0 · **States:** active 27, completed 215, waiting 4
+**Global hood:** `bbugyi200.apollo.research` · **Runs:** 246 · **Families:** 0 · **States:** active 26, completed 216, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -100,7 +100,7 @@
 | [research.cld-17](../../../../../../agents/bbugyi200.apollo.research.cld-17/README.md) | completed | — | 2026-06-08T15:18:57+00:00 → 2026-06-08T15:18:57+00:00 | 1 | — |
 | [research.w.image](../../../../../../agents/bbugyi200.apollo.research.w.image/README.md) | completed | — | 2026-06-20T13:48:26+00:00 → 2026-06-20T13:48:26+00:00 | 1 | — |
 | [research.s.cld](../../../../../../agents/bbugyi200.apollo.research.s.cld/README.md) | completed | — | 2026-06-19T16:28:22+00:00 → 2026-06-19T16:28:22+00:00 | 1 | — |
-| [research.8.gem](../../../../../../agents/bbugyi200.apollo.research.8.gem/README.md) | active | gemini-3.8-flash-high / agy | 2026-09-25T13:25:37.474656+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.8.gem/prompt.md) |
+| [research.8.gem](../../../../../../agents/bbugyi200.apollo.research.8.gem/README.md) | completed | gemini-3.8-flash-high / agy | 2026-09-25T13:25:37.474656+00:00 → 2026-09-25T13:34:37.291803+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.8.gem/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.8.gem/chat.md) |
 | [research.01.final](../../../../../../agents/bbugyi200.apollo.research.01.final/README.md) | completed | — | 2026-06-20T17:27:35+00:00 → 2026-06-20T17:27:35+00:00 | 1 | — |
 | [research.0l.cld](../../../../../../agents/bbugyi200.apollo.research.0l.cld/README.md) | completed | — | 2026-06-26T01:43:55+00:00 → 2026-06-26T01:43:55+00:00 | 1 | — |
 | [research.2.cld](../../../../../../agents/bbugyi200.apollo.research.2.cld/README.md) | active | opus / claude | 2026-09-14T16:40:57.448785+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.2.cld/prompt.md) |
