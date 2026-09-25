@@ -23,7 +23,7 @@
 |---|---|---|
 | [research.9.cld](../bbugyi200.apollo.research.9.cld/README.md) | research.9 hood | active |
 | [research.9.final](../bbugyi200.apollo.research.9.final/README.md) | research.9 hood | waiting |
-| [research.9.gem](../bbugyi200.apollo.research.9.gem/README.md) | research.9 hood | active |
+| [research.9.gem](../bbugyi200.apollo.research.9.gem/README.md) | research.9 hood | completed |
 | [research.9.mus](../bbugyi200.apollo.research.9.mus/README.md) | research.9 hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
