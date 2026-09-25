@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / research
 
-**Global hood:** `bbugyi200.apollo.research` · **Runs:** 246 · **Families:** 0 · **States:** active 28, completed 214, waiting 4
+**Global hood:** `bbugyi200.apollo.research` · **Runs:** 246 · **Families:** 0 · **States:** active 27, completed 215, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -237,7 +237,7 @@
 | [research.cdx-14](../../../../../../agents/bbugyi200.apollo.research.cdx-14/README.md) | completed | — | 2026-06-07T10:24:40+00:00 → 2026-06-07T10:24:40+00:00 | 1 | — |
 | [research.09.image](../../../../../../agents/bbugyi200.apollo.research.09.image/README.md) | completed | — | 2026-06-23T16:18:41+00:00 → 2026-06-23T16:18:41+00:00 | 1 | — |
 | [research.final-11](../../../../../../agents/bbugyi200.apollo.research.final-11/README.md) | completed | — | 2026-06-06T17:21:24+00:00 → 2026-06-06T17:21:24+00:00 | 1 | — |
-| [research.8.mus](../../../../../../agents/bbugyi200.apollo.research.8.mus/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-25T13:25:35.103150+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.8.mus/prompt.md) |
+| [research.8.mus](../../../../../../agents/bbugyi200.apollo.research.8.mus/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-09-25T13:25:35.103150+00:00 → 2026-09-25T13:32:32.028033+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.8.mus/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.8.mus/chat.md) |
 | [research.06.final](../../../../../../agents/bbugyi200.apollo.research.06.final/README.md) | completed | — | 2026-06-22T16:44:53+00:00 → 2026-06-22T16:44:53+00:00 | 1 | — |
 | [research.p.image](../../../../../../agents/bbugyi200.apollo.research.p.image/README.md) | completed | — | 2026-06-18T20:59:23+00:00 → 2026-06-18T20:59:23+00:00 | 1 | — |
 | [research.cdx-17](../../../../../../agents/bbugyi200.apollo.research.cdx-17/README.md) | completed | — | 2026-06-08T15:18:46+00:00 → 2026-06-08T15:18:46+00:00 | 1 | — |
