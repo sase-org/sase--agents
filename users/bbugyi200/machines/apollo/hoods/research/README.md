@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / research
 
-**Global hood:** `bbugyi200.apollo.research` · **Runs:** 253 · **Families:** 0 · **States:** active 33, completed 216, waiting 4
+**Global hood:** `bbugyi200.apollo.research` · **Runs:** 253 · **Families:** 0 · **States:** active 32, completed 217, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -16,7 +16,7 @@
 | [research.k.image](../../../../../../agents/bbugyi200.apollo.research.k.image/README.md) | completed | — | 2026-06-16T02:05:28+00:00 → 2026-06-16T02:05:28+00:00 | 1 | — |
 | [research.0u.cld](../../../../../../agents/bbugyi200.apollo.research.0u.cld/README.md) | completed | — | 2026-07-02T19:23:18+00:00 → 2026-07-02T19:23:18+00:00 | 1 | — |
 | [research.z.final.f1](../../../../../../agents/bbugyi200.apollo.research.z.final.f1/README.md) | completed | — | 2026-06-20T17:50:15+00:00 → 2026-06-20T18:00:52+00:00 | 2 | — |
-| [research.a.gem](../../../../../../agents/bbugyi200.apollo.research.a.gem/README.md) | active | gemini-3.8-flash-high / agy | 2026-09-25T20:27:05.297683+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.a.gem/prompt.md) |
+| [research.a.gem](../../../../../../agents/bbugyi200.apollo.research.a.gem/README.md) | completed | gemini-3.8-flash-high / agy | 2026-09-25T20:27:05.297683+00:00 → 2026-09-25T20:36:32.813912+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.a.gem/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.a.gem/chat.md) |
 | [research.0r.final](../../../../../../agents/bbugyi200.apollo.research.0r.final/README.md) | completed | — | 2026-06-27T13:15:37+00:00 → 2026-06-27T13:15:37+00:00 | 1 | — |
 | [research.cld-13](../../../../../../agents/bbugyi200.apollo.research.cld-13/README.md) | completed | — | 2026-06-07T10:09:41+00:00 → 2026-06-07T10:09:41+00:00 | 1 | — |
 | [research.0.cdx](../../../../../../agents/bbugyi200.apollo.research.0.cdx/README.md) | active | gpt-5.6-sol / codex | 2026-09-03T19:54:05.807049+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.research.0.cdx/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.0.cdx/chat.md) |
