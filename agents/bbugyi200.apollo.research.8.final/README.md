@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.8.final
 
-**Global name:** `bbugyi200.apollo.research.8.final` · **State:** waiting · **Source run:** `run-471e04afff4b99f6c56597bba4db513f`
+**Global name:** `bbugyi200.apollo.research.8.final` · **State:** active · **Source run:** `run-471e04afff4b99f6c56597bba4db513f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20260925092526
+- Timing: 2026-09-25T13:53:52.277002+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -28,7 +28,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.8.cdx](../bbugyi200.apollo.research.8.cdx/README.md) | research.8 hood | completed |
-| [research.8.cld](../bbugyi200.apollo.research.8.cld/README.md) | research.8 hood | active |
+| [research.8.cld](../bbugyi200.apollo.research.8.cld/README.md) | research.8 hood | completed |
 | [research.8.gem](../bbugyi200.apollo.research.8.gem/README.md) | research.8 hood | completed |
 | [research.8.image](../bbugyi200.apollo.research.8.image/README.md) | research.8 hood | waiting |
 | [research.8.mus](../bbugyi200.apollo.research.8.mus/README.md) | research.8 hood | completed |
