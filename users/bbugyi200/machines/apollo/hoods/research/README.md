@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / research
 
-**Global hood:** `bbugyi200.apollo.research` · **Runs:** 246 · **Families:** 0 · **States:** active 26, completed 216, waiting 4
+**Global hood:** `bbugyi200.apollo.research` · **Runs:** 246 · **Families:** 0 · **States:** active 25, completed 217, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -88,7 +88,7 @@
 | [research.final-1](../../../../../../agents/bbugyi200.apollo.research.final-1/README.md) | completed | — | 2026-06-03T07:28:09+00:00 → 2026-06-03T07:28:09+00:00 | 1 | — |
 | [research.x.cdx](../../../../../../agents/bbugyi200.apollo.research.x.cdx/README.md) | completed | — | 2026-06-20T14:13:40+00:00 → 2026-06-20T14:13:40+00:00 | 1 | — |
 | [research.05.cld](../../../../../../agents/bbugyi200.apollo.research.05.cld/README.md) | completed | — | 2026-06-22T15:31:13+00:00 → 2026-06-22T15:31:13+00:00 | 1 | — |
-| [research.8.cdx](../../../../../../agents/bbugyi200.apollo.research.8.cdx/README.md) | active | gpt-5.6-sol / codex | 2026-09-25T13:25:30.464786+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.research.8.cdx/prompt.md) |
+| [research.8.cdx](../../../../../../agents/bbugyi200.apollo.research.8.cdx/README.md) | completed | gpt-5.6-sol / codex | 2026-09-25T13:25:30.464786+00:00 → 2026-09-25T13:38:10.130095+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.research.8.cdx/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.8.cdx/chat.md) |
 | [research.image-11](../../../../../../agents/bbugyi200.apollo.research.image-11/README.md) | completed | — | 2026-06-06T17:27:04+00:00 → 2026-06-06T17:27:04+00:00 | 1 | — |
 | [research.02.cdx](../../../../../../agents/bbugyi200.apollo.research.02.cdx/README.md) | completed | — | 2026-06-20T21:22:46+00:00 → 2026-06-20T21:22:46+00:00 | 1 | — |
 | [research.0o.image](../../../../../../agents/bbugyi200.apollo.research.0o.image/README.md) | completed | — | 2026-06-26T16:01:08+00:00 → 2026-06-26T16:01:08+00:00 | 1 | — |
