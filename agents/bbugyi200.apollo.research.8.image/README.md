@@ -2,16 +2,20 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.8.image
 
-**Global name:** `bbugyi200.apollo.research.8.image` · **State:** completed · **Source run:** `run-2797cdfb702936385eec847c664b5318`
+**Global name:** `bbugyi200.apollo.research.8.image` · **State:** waiting · **Source run:** `run-cd10fbbe36c3269c7d2cc94dc9564b4c`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
 ## Summary
 
-- Model: —
-- Provider: —
-- Timing: 2026-06-11T23:41:03+00:00 → 2026-06-11T23:41:03+00:00
+- Model: gpt-5.6-sol
+- Provider: codex
+- Timing: 20260925092527
 - Commits: [1](#commits)
+
+## Files
+
+[Prompt](prompt.md)
 
 ## Commits
 
@@ -23,9 +27,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.8.cdx](../bbugyi200.apollo.research.8.cdx/README.md) | research.8 hood | completed |
-| [research.8.cld](../bbugyi200.apollo.research.8.cld/README.md) | research.8 hood | completed |
-| [research.8.final](../bbugyi200.apollo.research.8.final/README.md) | research.8 hood | completed |
+| [research.8.cdx](../bbugyi200.apollo.research.8.cdx/README.md) | research.8 hood | active |
+| [research.8.cld](../bbugyi200.apollo.research.8.cld/README.md) | research.8 hood | active |
+| [research.8.final](../bbugyi200.apollo.research.8.final/README.md) | research.8 hood | waiting |
+| [research.8.gem](../bbugyi200.apollo.research.8.gem/README.md) | research.8 hood | active |
+| [research.8.mus](../bbugyi200.apollo.research.8.mus/README.md) | research.8 hood | active |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |

@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,8 +27,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.7.cdx](../bbugyi200.apollo.research.7.cdx/README.md) | research.7 hood | completed |
-| [research.7.cld](../bbugyi200.apollo.research.7.cld/README.md) | research.7 hood | completed |
+| [research.7.cdx](../bbugyi200.apollo.research.7.cdx/README.md) | research.7 hood | active |
+| [research.7.cld](../bbugyi200.apollo.research.7.cld/README.md) | research.7 hood | active |
 | [research.7.image](../bbugyi200.apollo.research.7.image/README.md) | research.7 hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
@@ -80,4 +80,4 @@
 | [research.0e.cld](../bbugyi200.apollo.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.apollo.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.apollo.research.0e.final.f1/README.md) | research hood | completed |
-| … and 190 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 192 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
