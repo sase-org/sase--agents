@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.8.image
 
-**Global name:** `bbugyi200.apollo.research.8.image` · **State:** active · **Source run:** `run-cd10fbbe36c3269c7d2cc94dc9564b4c`
+**Global name:** `bbugyi200.apollo.research.8.image` · **State:** active · **Source run:** `run-c36fd5e2b323fd0ae28d9994a663e38d`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,11 +27,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.8.cdx](../bbugyi200.apollo.research.8.cdx/README.md) | research.8 hood | completed |
-| [research.8.cld](../bbugyi200.apollo.research.8.cld/README.md) | research.8 hood | completed |
-| [research.8.final](../bbugyi200.apollo.research.8.final/README.md) | research.8 hood | completed |
-| [research.8.gem](../bbugyi200.apollo.research.8.gem/README.md) | research.8 hood | completed |
-| [research.8.mus](../bbugyi200.apollo.research.8.mus/README.md) | research.8 hood | completed |
+| [research.8.cdx](../bbugyi200.apollo.research.8.cdx/README.md) | research.8 hood | active |
+| [research.8.cld](../bbugyi200.apollo.research.8.cld/README.md) | research.8 hood | active |
+| [research.8.final](../bbugyi200.apollo.research.8.final/README.md) | research.8 hood | active |
+| [research.8.gem](../bbugyi200.apollo.research.8.gem/README.md) | research.8 hood | active |
+| [research.8.mus](../bbugyi200.apollo.research.8.mus/README.md) | research.8 hood | active |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
@@ -82,4 +82,4 @@
 | [research.0e.cld](../bbugyi200.apollo.research.0e.cld/README.md) | research hood | completed |
 | [research.0e.final](../bbugyi200.apollo.research.0e.final/README.md) | research hood | completed |
 | [research.0e.final.f1](../bbugyi200.apollo.research.0e.final.f1/README.md) | research hood | completed |
-| … and 190 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 195 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
