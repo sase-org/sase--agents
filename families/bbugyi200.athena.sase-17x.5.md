@@ -44,8 +44,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-17x.13.5](../agents/bbugyi200.athena.sase-17x.13.5/README.md) | sase-17x hood | completed |
 | [sase-17x.13.6](bbugyi200.athena.sase-17x.13.6.md) (family · 5) | sase-17x hood | completed 3, failed 2 |
 | [sase-17x.13.7](../agents/bbugyi200.athena.sase-17x.13.7/README.md) | sase-17x hood | completed |
-| [sase-17x.13.8](../agents/bbugyi200.athena.sase-17x.13.8/README.md) | sase-17x hood | active |
-| [sase-17x.13.9](../agents/bbugyi200.athena.sase-17x.13.9/README.md) | sase-17x hood | waiting |
+| [sase-17x.13.8](../agents/bbugyi200.athena.sase-17x.13.8/README.md) | sase-17x hood | completed |
+| [sase-17x.13.9](bbugyi200.athena.sase-17x.13.9.md) (family · 15) | sase-17x hood | active 1, completed 7, failed 7 |
 | [sase-17x.13.land](../agents/bbugyi200.athena.sase-17x.13.land/README.md) | sase-17x hood | waiting |
 | [sase-17x.2](../agents/bbugyi200.athena.sase-17x.2/README.md) | sase-17x hood | completed |
 | [sase-17x.3](../agents/bbugyi200.athena.sase-17x.3/README.md) | sase-17x hood | completed |

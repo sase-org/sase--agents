@@ -29,8 +29,8 @@
 | [sase-17x.13.5](../bbugyi200.athena.sase-17x.13.5/README.md) | sase-17x.13 hood | completed |
 | [sase-17x.13.6](../../families/bbugyi200.athena.sase-17x.13.6.md) (family · 5) | sase-17x.13 hood | completed 3, failed 2 |
 | [sase-17x.13.7](../bbugyi200.athena.sase-17x.13.7/README.md) | sase-17x.13 hood | completed |
-| [sase-17x.13.8](../bbugyi200.athena.sase-17x.13.8/README.md) | sase-17x.13 hood | active |
-| [sase-17x.13.9](../bbugyi200.athena.sase-17x.13.9/README.md) | sase-17x.13 hood | waiting |
+| [sase-17x.13.8](../bbugyi200.athena.sase-17x.13.8/README.md) | sase-17x.13 hood | completed |
+| [sase-17x.13.9](../../families/bbugyi200.athena.sase-17x.13.9.md) (family · 15) | sase-17x.13 hood | active 1, completed 7, failed 7 |
 | [sase-17x.1](../bbugyi200.athena.sase-17x.1/README.md) | sase-17x hood | completed |
 | [sase-17x.10](../../families/bbugyi200.athena.sase-17x.10.md) (family · 3) | sase-17x hood | completed 2, failed 1 |
 | [sase-17x.11](../bbugyi200.athena.sase-17x.11/README.md) | sase-17x hood | completed |
