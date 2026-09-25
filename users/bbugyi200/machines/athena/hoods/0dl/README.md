@@ -6,5 +6,5 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [0dl--plan](../../../../../../families/bbugyi200.athena.0dl.md#member-plan) | active | opus / claude | 2026-08-25T16:37:58.391767+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0dl--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0dl--plan/prompt.md) |
-| [0dl--code](../../../../../../families/bbugyi200.athena.0dl.md#member-code) | completed | sonnet / claude | 2026-08-25T16:42:28.733751+00:00 → 2026-08-25T17:11:42.255545+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0dl--code/chat.md) |
+| [0dl--plan](../../../../../../sessions/bbugyi200.athena.0dl.md#member-plan) | active | opus / claude | 2026-08-25T16:37:58.391767+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0dl--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0dl--plan/prompt.md) |
+| [0dl--code](../../../../../../sessions/bbugyi200.athena.0dl.md#member-code) | completed | sonnet / claude | 2026-08-25T16:42:28.733751+00:00 → 2026-08-25T17:11:42.255545+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0dl--code/chat.md) |

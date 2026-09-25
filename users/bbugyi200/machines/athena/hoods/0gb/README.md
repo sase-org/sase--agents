@@ -6,6 +6,6 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [0gb--plan](../../../../../../families/bbugyi200.athena.0gb.md#member-plan) | active | opus / claude | 2026-08-30T15:02:53.493960+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0gb--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0gb--plan/prompt.md) |
-| [0gb--gate](../../../../../../families/bbugyi200.athena.0gb.md#member-gate) | failed | opus / claude | 2026-08-30T15:11:02.636562+00:00 → 2026-08-30T15:12:08.664916+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0gb--gate/chat.md) |
-| [0gb--code](../../../../../../families/bbugyi200.athena.0gb.md#member-code) | completed | grok-4.6 / grok | 2026-08-30T15:12:14.889021+00:00 → 2026-08-30T15:30:03.441045+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.0gb--code/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0gb--code/prompt.md) |
+| [0gb--plan](../../../../../../sessions/bbugyi200.athena.0gb.md#member-plan) | active | opus / claude | 2026-08-30T15:02:53.493960+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0gb--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0gb--plan/prompt.md) |
+| [0gb--gate](../../../../../../sessions/bbugyi200.athena.0gb.md#member-gate) | failed | opus / claude | 2026-08-30T15:11:02.636562+00:00 → 2026-08-30T15:12:08.664916+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0gb--gate/chat.md) |
+| [0gb--code](../../../../../../sessions/bbugyi200.athena.0gb.md#member-code) | completed | grok-4.6 / grok | 2026-08-30T15:12:14.889021+00:00 → 2026-08-30T15:30:03.441045+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.0gb--code/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0gb--code/prompt.md) |

@@ -6,7 +6,7 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-60--code](../../../../../../families/bbugyi200.athena.sase-60.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-14T17:02:12.266726+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-60--code/chat.md) |
+| [sase-60--code](../../../../../../sessions/bbugyi200.athena.sase-60.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-14T17:02:12.266726+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-60--code/chat.md) |
 | [sase-60.4](../../../../../../agents/bbugyi200.athena.sase-60.4/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-14T11:50:51.575161 → 2026-07-14T12:13:01.549669 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-60.4/chat.md) |
 | [sase-60.1](../../../../../../agents/bbugyi200.athena.sase-60.1/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-14T10:21:09.384927 → 2026-07-14T10:52:44.788683 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-60.1/chat.md) |
 | [sase-60.5](../../../../../../agents/bbugyi200.athena.sase-60.5/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-14T12:13:05.311321 → 2026-07-14T12:43:54.385884 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-60.5/chat.md) |

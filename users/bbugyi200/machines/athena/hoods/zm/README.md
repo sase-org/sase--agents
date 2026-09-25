@@ -6,5 +6,5 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [zm--plan](../../../../../../families/bbugyi200.athena.zm.md#member-plan) | dismissed | opus / claude | 2026-08-13T12:15:11.895610 → 2026-08-13T12:24:59.948131 | 0 | — |
-| [zm--mon](../../../../../../families/bbugyi200.athena.zm.md#member-mon) | failed | opus / claude | 2026-08-13T16:25:44.860174+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.zm--mon/chat.md) |
+| [zm--plan](../../../../../../sessions/bbugyi200.athena.zm.md#member-plan) | dismissed | opus / claude | 2026-08-13T12:15:11.895610 → 2026-08-13T12:24:59.948131 | 0 | — |
+| [zm--mon](../../../../../../sessions/bbugyi200.athena.zm.md#member-mon) | failed | opus / claude | 2026-08-13T16:25:44.860174+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.zm--mon/chat.md) |

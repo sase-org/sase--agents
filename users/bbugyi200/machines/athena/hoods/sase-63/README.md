@@ -8,7 +8,7 @@
 |---|---|---|---|---:|---|
 | [sase-63.1](../../../../../../agents/bbugyi200.athena.sase-63.1/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-15T10:00:27.426048 → 2026-07-15T10:10:02.519148 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-63.1/chat.md) |
 | [sase-63](../../../../../../agents/bbugyi200.athena.sase-63/README.md) | active | gpt-5.6-sol / codex | 2026-07-15T14:27:30.881738+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-63/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-63/prompt.md) |
-| [sase-63--code](../../../../../../families/bbugyi200.athena.sase-63.md#member-code) | active | gpt-5.6-sol / codex | 2026-07-15T14:32:12.145828+00:00 | 0 | — |
+| [sase-63--code](../../../../../../sessions/bbugyi200.athena.sase-63.md#member-code) | active | gpt-5.6-sol / codex | 2026-07-15T14:32:12.145828+00:00 | 0 | — |
 | [sase-63.3](../../../../../../agents/bbugyi200.athena.sase-63.3/README.md) | waiting | gpt-5.6-sol / codex | 20260715092914 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-63.3/prompt.md) |
 | [sase-63.2](../../../../../../agents/bbugyi200.athena.sase-63.2/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-15T10:10:52.836615 → 2026-07-15T10:27:21.176583 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-63.2/chat.md) |
 | [sase-63.4](../../../../../../agents/bbugyi200.athena.sase-63.4/README.md) | waiting | gpt-5.6-sol / codex | 20260715092915 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-63.4/prompt.md) |

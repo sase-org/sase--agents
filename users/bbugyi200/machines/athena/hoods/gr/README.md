@@ -7,7 +7,7 @@
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [gr.w0](../../../../../../agents/bbugyi200.athena.gr.w0/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-21T08:00:19 | 0 | — |
-| [gr--code](../../../../../../families/bbugyi200.athena.gr.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-21T11:51:34.430181+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.gr--code/chat.md) |
-| [gr.w2--plan](../../../../../../families/bbugyi200.athena.gr.w2.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-21T12:23:49.262048+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.gr.w2--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.gr.w2--plan/prompt.md) |
-| [gr--plan](../../../../../../families/bbugyi200.athena.gr.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-21T11:47:12.067517+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.gr--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.gr--plan/prompt.md) |
-| [gr.w2--code](../../../../../../families/bbugyi200.athena.gr.w2.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-21T12:35:17.900538+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.gr.w2--code/chat.md) |
+| [gr--code](../../../../../../sessions/bbugyi200.athena.gr.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-21T11:51:34.430181+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.gr--code/chat.md) |
+| [gr.w2--plan](../../../../../../sessions/bbugyi200.athena.gr.w2.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-21T12:23:49.262048+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.gr.w2--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.gr.w2--plan/prompt.md) |
+| [gr--plan](../../../../../../sessions/bbugyi200.athena.gr.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-21T11:47:12.067517+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.gr--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.gr--plan/prompt.md) |
+| [gr.w2--code](../../../../../../sessions/bbugyi200.athena.gr.w2.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-21T12:35:17.900538+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.gr.w2--code/chat.md) |

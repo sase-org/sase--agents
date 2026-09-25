@@ -6,5 +6,5 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [012--code](../../../../../../families/bbugyi200.athena.012.md#member-code) | active | sonnet / claude | 2026-08-14T14:20:46.271365+00:00 | 0 | — |
-| [012--plan](../../../../../../families/bbugyi200.athena.012.md#member-plan) | active | opus / claude | 2026-08-14T14:06:56.838084+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.012--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.012--plan/prompt.md) |
+| [012--code](../../../../../../sessions/bbugyi200.athena.012.md#member-code) | active | sonnet / claude | 2026-08-14T14:20:46.271365+00:00 | 0 | — |
+| [012--plan](../../../../../../sessions/bbugyi200.athena.012.md#member-plan) | active | opus / claude | 2026-08-14T14:06:56.838084+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.012--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.012--plan/prompt.md) |

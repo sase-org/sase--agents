@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [0ex--plan](../../../../../../families/bbugyi200.athena.0ex.md#member-plan) | dismissed | — | 2026-08-27T11:34:57 | 0 | — |
+| [0ex--plan](../../../../../../sessions/bbugyi200.athena.0ex.md#member-plan) | dismissed | — | 2026-08-27T11:34:57 | 0 | — |

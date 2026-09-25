@@ -6,6 +6,6 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [0kg--plan](../../../../../../families/bbugyi200.athena.0kg.md#member-plan) | active | gpt-6-astra / codex | 2026-09-14T11:21:47.872800+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0kg--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0kg--plan/prompt.md) |
-| [0kg--code](../../../../../../families/bbugyi200.athena.0kg.md#member-code) | completed | gpt-5.5 / codex | 2026-09-14T11:31:53.432960+00:00 → 2026-09-14T12:48:34.393804+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.0kg--code/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0kg--code/prompt.md) |
-| [0kg--gate](../../../../../../families/bbugyi200.athena.0kg.md#member-gate) | failed | gpt-6-astra / codex | 2026-09-14T11:30:14.012123+00:00 → 2026-09-14T11:31:34.293582+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0kg--gate/chat.md) |
+| [0kg--plan](../../../../../../sessions/bbugyi200.athena.0kg.md#member-plan) | active | gpt-6-astra / codex | 2026-09-14T11:21:47.872800+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0kg--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0kg--plan/prompt.md) |
+| [0kg--code](../../../../../../sessions/bbugyi200.athena.0kg.md#member-code) | completed | gpt-5.5 / codex | 2026-09-14T11:31:53.432960+00:00 → 2026-09-14T12:48:34.393804+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.0kg--code/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0kg--code/prompt.md) |
+| [0kg--gate](../../../../../../sessions/bbugyi200.athena.0kg.md#member-gate) | failed | gpt-6-astra / codex | 2026-09-14T11:30:14.012123+00:00 → 2026-09-14T11:31:34.293582+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0kg--gate/chat.md) |

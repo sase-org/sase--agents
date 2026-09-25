@@ -7,5 +7,5 @@
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [096](../../../../../../agents/bbugyi200.athena.096/README.md) | completed | — | 2026-06-28T18:46:11+00:00 → 2026-06-28T19:13:04+00:00 | 2 | — |
-| [096--mon](../../../../../../families/bbugyi200.athena.096.md#member-mon) | failed | gpt-5.6-sol / codex | 2026-08-21T13:05:37.010916+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.096--mon/chat.md) |
-| [096--plan](../../../../../../families/bbugyi200.athena.096.md#member-plan) | active | gpt-5.6-sol / codex | 2026-08-21T12:40:32.274463+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.096--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.096--plan/prompt.md) |
+| [096--mon](../../../../../../sessions/bbugyi200.athena.096.md#member-mon) | failed | gpt-5.6-sol / codex | 2026-08-21T13:05:37.010916+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.096--mon/chat.md) |
+| [096--plan](../../../../../../sessions/bbugyi200.athena.096.md#member-plan) | active | gpt-5.6-sol / codex | 2026-08-21T12:40:32.274463+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.096--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.096--plan/prompt.md) |

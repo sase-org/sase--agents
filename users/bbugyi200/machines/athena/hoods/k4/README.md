@@ -6,5 +6,5 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [k4--plan](../../../../../../families/bbugyi200.athena.k4.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-25T10:42:04.735449+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.k4--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.k4--plan/prompt.md) |
-| [k4--code](../../../../../../families/bbugyi200.athena.k4.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-25T10:46:16.884872+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.k4--code/chat.md) |
+| [k4--plan](../../../../../../sessions/bbugyi200.athena.k4.md#member-plan) | active | gpt-5.6-sol / codex | 2026-07-25T10:42:04.735449+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.k4--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.k4--plan/prompt.md) |
+| [k4--code](../../../../../../sessions/bbugyi200.athena.k4.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-25T10:46:16.884872+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.k4--code/chat.md) |

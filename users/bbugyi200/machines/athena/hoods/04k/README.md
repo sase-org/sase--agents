@@ -6,5 +6,5 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [04k--plan](../../../../../../families/bbugyi200.athena.04k.md#member-plan) | dismissed | — | 2026-08-17T07:21:38 | 0 | — |
-| [04k--code](../../../../../../families/bbugyi200.athena.04k.md#member-code) | active | sonnet / claude | 2026-08-17T11:44:43.056045+00:00 | 0 | — |
+| [04k--plan](../../../../../../sessions/bbugyi200.athena.04k.md#member-plan) | dismissed | — | 2026-08-17T07:21:38 | 0 | — |
+| [04k--code](../../../../../../sessions/bbugyi200.athena.04k.md#member-code) | active | sonnet / claude | 2026-08-17T11:44:43.056045+00:00 | 0 | — |

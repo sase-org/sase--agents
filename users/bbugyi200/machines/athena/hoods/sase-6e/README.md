@@ -19,6 +19,6 @@
 | [sase-6e.7](../../../../../../agents/bbugyi200.athena.sase-6e.7/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-16T19:15:37.361904 → 2026-07-16T19:40:39.843374 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-6e.7/chat.md) |
 | [sase-6e.2](../../../../../../agents/bbugyi200.athena.sase-6e.2/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-16T15:59:59.040334 → 2026-07-16T16:22:21.427819 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-6e.2/chat.md) |
 | [sase-6e.f4](../../../../../../agents/bbugyi200.athena.sase-6e.f4/README.md) | dismissed | claude-fable-5 / claude | 2026-07-16T17:17:55 | 0 | — |
-| [sase-6e--code](../../../../../../families/bbugyi200.athena.sase-6e.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-16T23:54:00.403045+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-6e--code/chat.md) |
+| [sase-6e--code](../../../../../../sessions/bbugyi200.athena.sase-6e.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-16T23:54:00.403045+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-6e--code/chat.md) |
 | [sase-6e.1](../../../../../../agents/bbugyi200.athena.sase-6e.1/README.md) | dismissed | gpt-5.6-sol / codex | 2026-07-16T15:06:44.332193 → 2026-07-16T15:59:53.138108 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-6e.1/chat.md) |
 | [sase-6e.f1](../../../../../../agents/bbugyi200.athena.sase-6e.f1/README.md) | dismissed | claude-fable-5 / claude | 2026-07-16T15:33:09 | 0 | — |

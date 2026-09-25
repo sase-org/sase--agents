@@ -6,5 +6,5 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [07k--plan](../../../../../../families/bbugyi200.athena.07k.md#member-plan) | failed | opus / claude | 2026-08-19T12:59:48.482953+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.07k--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.07k--plan/prompt.md) |
-| [07k--mon](../../../../../../families/bbugyi200.athena.07k.md#member-mon) | failed | opus / claude | 2026-08-19T13:14:27.752741+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.07k--mon/chat.md) |
+| [07k--plan](../../../../../../sessions/bbugyi200.athena.07k.md#member-plan) | failed | opus / claude | 2026-08-19T12:59:48.482953+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.07k--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.07k--plan/prompt.md) |
+| [07k--mon](../../../../../../sessions/bbugyi200.athena.07k.md#member-mon) | failed | opus / claude | 2026-08-19T13:14:27.752741+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.07k--mon/chat.md) |

@@ -6,6 +6,6 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [0fx--gate](../../../../../../families/bbugyi200.athena.0fx.md#member-gate) | failed | gpt-5.6-sol / codex | 2026-08-29T11:11:07.308433+00:00 → 2026-08-29T11:19:32.599173+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0fx--gate/chat.md) |
-| [0fx--code](../../../../../../families/bbugyi200.athena.0fx.md#member-code) | completed | grok-4.6 / grok | 2026-08-29T11:19:38.730205+00:00 → 2026-08-29T11:32:34.073712+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.0fx--code/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0fx--code/prompt.md) |
-| [0fx--plan](../../../../../../families/bbugyi200.athena.0fx.md#member-plan) | active | gpt-5.6-sol / codex | 2026-08-29T10:55:09.245996+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0fx--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0fx--plan/prompt.md) |
+| [0fx--gate](../../../../../../sessions/bbugyi200.athena.0fx.md#member-gate) | failed | gpt-5.6-sol / codex | 2026-08-29T11:11:07.308433+00:00 → 2026-08-29T11:19:32.599173+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0fx--gate/chat.md) |
+| [0fx--code](../../../../../../sessions/bbugyi200.athena.0fx.md#member-code) | completed | grok-4.6 / grok | 2026-08-29T11:19:38.730205+00:00 → 2026-08-29T11:32:34.073712+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.0fx--code/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0fx--code/prompt.md) |
+| [0fx--plan](../../../../../../sessions/bbugyi200.athena.0fx.md#member-plan) | active | gpt-5.6-sol / codex | 2026-08-29T10:55:09.245996+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0fx--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0fx--plan/prompt.md) |

@@ -15,4 +15,4 @@
 | [sase-5j.4](../../../../../../agents/bbugyi200.athena.sase-5j.4/README.md) | dismissed | gpt-5.5 / codex | 2026-07-08T00:37:48.211842 → 2026-07-08T01:11:45.748682 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-5j.4/chat.md) |
 | [sase-5j.f1.f1](../../../../../../agents/bbugyi200.athena.sase-5j.f1.f1/README.md) | waiting | gpt-5.5 / codex | 20260708011917 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-5j.f1.f1/prompt.md) |
 | [sase-5j.2](../../../../../../agents/bbugyi200.athena.sase-5j.2/README.md) | dismissed | gpt-5.5 / codex | 2026-07-07T23:56:14.706035 → 2026-07-08T00:17:54.617447 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-5j.2/chat.md) |
-| [sase-5j--code](../../../../../../families/bbugyi200.athena.sase-5j.md#member-code) | completed | gpt-5.5 / codex | 2026-07-08T06:47:12.536942+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-5j--code/chat.md) |
+| [sase-5j--code](../../../../../../sessions/bbugyi200.athena.sase-5j.md#member-code) | completed | gpt-5.5 / codex | 2026-07-08T06:47:12.536942+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-5j--code/chat.md) |

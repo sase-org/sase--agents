@@ -6,5 +6,5 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [nn--code](../../../../../../families/bbugyi200.athena.nn.md#member-code) | active | gpt-5.6-sol / codex | 2026-07-28T22:03:49.917592+00:00 | 0 | — |
-| [nn--plan](../../../../../../families/bbugyi200.athena.nn.md#member-plan) | active | claude-fable-5 / claude | 2026-07-28T21:55:28.312780+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.nn--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.nn--plan/prompt.md) |
+| [nn--code](../../../../../../sessions/bbugyi200.athena.nn.md#member-code) | active | gpt-5.6-sol / codex | 2026-07-28T22:03:49.917592+00:00 | 0 | — |
+| [nn--plan](../../../../../../sessions/bbugyi200.athena.nn.md#member-plan) | active | claude-fable-5 / claude | 2026-07-28T21:55:28.312780+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.nn--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.nn--plan/prompt.md) |

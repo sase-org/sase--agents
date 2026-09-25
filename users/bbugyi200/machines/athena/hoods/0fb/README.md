@@ -6,6 +6,6 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [0fb--plan](../../../../../../families/bbugyi200.athena.0fb.md#member-plan) | active | opus / claude | 2026-08-27T23:16:54.361439+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0fb--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0fb--plan/prompt.md) |
-| [0fb--code](../../../../../../families/bbugyi200.athena.0fb.md#member-code) | completed | gpt-5.5 / codex | 2026-08-27T23:32:57.313794+00:00 → 2026-08-28T00:09:41.801208+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.0fb--code/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0fb--code/prompt.md) |
-| [0fb--gate](../../../../../../families/bbugyi200.athena.0fb.md#member-gate) | failed | opus / claude | 2026-08-27T23:30:49.377580+00:00 → 2026-08-27T23:32:51.136412+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0fb--gate/chat.md) |
+| [0fb--plan](../../../../../../sessions/bbugyi200.athena.0fb.md#member-plan) | active | opus / claude | 2026-08-27T23:16:54.361439+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0fb--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0fb--plan/prompt.md) |
+| [0fb--code](../../../../../../sessions/bbugyi200.athena.0fb.md#member-code) | completed | gpt-5.5 / codex | 2026-08-27T23:32:57.313794+00:00 → 2026-08-28T00:09:41.801208+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.0fb--code/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0fb--code/prompt.md) |
+| [0fb--gate](../../../../../../sessions/bbugyi200.athena.0fb.md#member-gate) | failed | opus / claude | 2026-08-27T23:30:49.377580+00:00 → 2026-08-27T23:32:51.136412+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0fb--gate/chat.md) |

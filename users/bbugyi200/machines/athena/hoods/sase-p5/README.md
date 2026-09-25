@@ -6,16 +6,16 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-p5.1--plan](../../../../../../families/bbugyi200.athena.sase-p5.1.md#member-plan) | active | sonnet / claude | 2026-08-17T22:56:36.942727+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p5.1--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-p5.1--plan/prompt.md) |
-| [sase-p5.1--2](../../../../../../families/bbugyi200.athena.sase-p5.1.md#member-2) | active | sonnet / claude | 2026-08-17T23:40:13.504765+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p5.1--2/prompt.md) |
+| [sase-p5.1--plan](../../../../../../sessions/bbugyi200.athena.sase-p5.1.md#member-plan) | active | sonnet / claude | 2026-08-17T22:56:36.942727+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p5.1--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-p5.1--plan/prompt.md) |
+| [sase-p5.1--2](../../../../../../sessions/bbugyi200.athena.sase-p5.1.md#member-2) | active | sonnet / claude | 2026-08-17T23:40:13.504765+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p5.1--2/prompt.md) |
 | [sase-p5.5](../../../../../../agents/bbugyi200.athena.sase-p5.5/README.md) | active | sonnet / claude | 2026-08-18T10:49:50.313115+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p5.5/prompt.md) |
-| [sase-p5.1--mon](../../../../../../families/bbugyi200.athena.sase-p5.1.md#member-mon) | active | sonnet / claude | 2026-08-17T23:21:58.636426+00:00 | 0 | — |
-| [sase-p5.4--1](../../../../../../families/bbugyi200.athena.sase-p5.4.md#member-1) | active | sonnet / claude | 2026-08-18T10:46:14.417095+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p5.4--1/prompt.md) |
-| [sase-p5.1--1](../../../../../../families/bbugyi200.athena.sase-p5.1.md#member-1) | active | sonnet / claude | 2026-08-17T23:24:16.092013+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p5.1--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-p5.1--1/prompt.md) |
-| [sase-p5.1--mon-0](../../../../../../families/bbugyi200.athena.sase-p5.1.md#member-mon-0) | active | sonnet / claude | 2026-08-17T23:29:02.273948+00:00 | 0 | — |
+| [sase-p5.1--mon](../../../../../../sessions/bbugyi200.athena.sase-p5.1.md#member-mon) | active | sonnet / claude | 2026-08-17T23:21:58.636426+00:00 | 0 | — |
+| [sase-p5.4--1](../../../../../../sessions/bbugyi200.athena.sase-p5.4.md#member-1) | active | sonnet / claude | 2026-08-18T10:46:14.417095+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p5.4--1/prompt.md) |
+| [sase-p5.1--1](../../../../../../sessions/bbugyi200.athena.sase-p5.1.md#member-1) | active | sonnet / claude | 2026-08-17T23:24:16.092013+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p5.1--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-p5.1--1/prompt.md) |
+| [sase-p5.1--mon-0](../../../../../../sessions/bbugyi200.athena.sase-p5.1.md#member-mon-0) | active | sonnet / claude | 2026-08-17T23:29:02.273948+00:00 | 0 | — |
 | [sase-p5.4](../../../../../../agents/bbugyi200.athena.sase-p5.4/README.md) | waiting | sonnet / claude | 20260817185615 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p5.4/prompt.md) |
-| [sase-p5.4--mon](../../../../../../families/bbugyi200.athena.sase-p5.4.md#member-mon) | active | sonnet / claude | 2026-08-18T10:38:07.060711+00:00 | 0 | — |
+| [sase-p5.4--mon](../../../../../../sessions/bbugyi200.athena.sase-p5.4.md#member-mon) | active | sonnet / claude | 2026-08-18T10:38:07.060711+00:00 | 0 | — |
 | [sase-p5.3](../../../../../../agents/bbugyi200.athena.sase-p5.3/README.md) | active | sonnet / claude | 2026-08-18T01:04:39.363906+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p5.3/prompt.md) |
-| [sase-p5.4--plan](../../../../../../families/bbugyi200.athena.sase-p5.4.md#member-plan) | active | sonnet / claude | 2026-08-18T10:14:06.760421+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p5.4--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-p5.4--plan/prompt.md) |
+| [sase-p5.4--plan](../../../../../../sessions/bbugyi200.athena.sase-p5.4.md#member-plan) | active | sonnet / claude | 2026-08-18T10:14:06.760421+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-p5.4--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-p5.4--plan/prompt.md) |
 | [sase-p5.land](../../../../../../agents/bbugyi200.athena.sase-p5.land/README.md) | active | opus / claude | 2026-08-18T11:18:25.233501+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p5.land/prompt.md) |
 | [sase-p5.2](../../../../../../agents/bbugyi200.athena.sase-p5.2/README.md) | active | sonnet / claude | 2026-08-17T23:48:42.032592+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-p5.2/prompt.md) |

@@ -6,6 +6,6 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [0ol--code](../../../../../../families/bbugyi200.athena.0ol.md#member-code) | completed | muse-spark-1.3-contributor / muse | 2026-09-21T13:27:07.728978+00:00 → 2026-09-21T14:03:57.923961+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.0ol--code/chat.md) |
-| [0ol--plan](../../../../../../families/bbugyi200.athena.0ol.md#member-plan) | active | opus / claude | 2026-09-21T13:19:39.770863+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0ol--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0ol--plan/prompt.md) |
-| [0ol--gate](../../../../../../families/bbugyi200.athena.0ol.md#member-gate) | failed | opus / claude | 2026-09-21T13:24:12.686617+00:00 → 2026-09-21T13:25:20.082290+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0ol--gate/chat.md) |
+| [0ol--code](../../../../../../sessions/bbugyi200.athena.0ol.md#member-code) | completed | muse-spark-1.3-contributor / muse | 2026-09-21T13:27:07.728978+00:00 → 2026-09-21T14:03:57.923961+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.0ol--code/chat.md) |
+| [0ol--plan](../../../../../../sessions/bbugyi200.athena.0ol.md#member-plan) | active | opus / claude | 2026-09-21T13:19:39.770863+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0ol--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0ol--plan/prompt.md) |
+| [0ol--gate](../../../../../../sessions/bbugyi200.athena.0ol.md#member-gate) | failed | opus / claude | 2026-09-21T13:24:12.686617+00:00 → 2026-09-21T13:25:20.082290+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0ol--gate/chat.md) |

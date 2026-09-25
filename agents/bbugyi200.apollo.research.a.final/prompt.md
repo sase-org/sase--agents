@@ -1,17 +1,5 @@
-%clan(research.a, tribe=research, summary=[[[bold]RESEARCH PROMPT:[/bold] Sase's
-finalizers are a critical part of a sase agent's lifecycle yet they are not represented
-on the "Agents" tab in any way. I want to add excellent (and beautiful) support to this
-tab for finalizers.
-
-Can you do some research with the goal of helping me decide the best way to implement
-this? Review the old agents_tab_finalizer_panel.md file in the research sidecar repo for
-context and inspiration before performing your own research. Make sure to think hard
-about what role decks, cards, and/or card blocks (card blocks are an upcoming
-feature--see the agent_data_card_blocks.md file in the research sidecar repo for
-context) should play (if any) in providing the user with an excellent way to visualize
-and troubleshoot their own finalizers (I have several plans for new finalizers so make
-sure you don't overfit this use-case to the builtin `commit` finalizer) . End your
-analysis with a recommended solution.]]) %id:research.a.final %m:opus@xhigh
+%id(final, clan=research.a)
+%m:opus@xhigh
 %wait:research.a.cdx %wait:research.a.cld %wait:research.a.mus %wait:research.a.gem %q(w=0.25)
 #gh:gh_sase-org__sase 
 You are the lead researcher: 4 independent researchers have reported on the request
