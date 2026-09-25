@@ -11,7 +11,13 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-09-25T15:48:05.631982+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`31a37bd`](https://github.com/sase-org/sase/commit/31a37bd7b9b8e83dca71e29a04a84910ada6d866) | feat(ace-tui): show a deck in the other panel from the deck picker capitals | 2026-09-25 14:55:13 EDT |
 
 ## Neighbors
 

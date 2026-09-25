@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7719ea5f5fe38eb5df21d2995a4b2fa6"}
+{"commits":[{"committed_at":1790362513,"sha":"31a37bd7b9b8e83dca71e29a04a84910ada6d866","subject":"feat(ace-tui): show a deck in the other panel from the deck picker capitals"}],"schema_version":2,"source_run_id":"run-7719ea5f5fe38eb5df21d2995a4b2fa6"}
