@@ -201,6 +201,7 @@
 | [0se.md](0se.md) | %queue(weight=1) #fork:0se--4 %model:gpt-5.6-terra %effort:xhigh | - | [bbugyi200.athena.0se--5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0se.md) | 0 |
 | [0sf.md](0sf.md) | %queue(weight=1) #fork:0sf--2 %model:grok-4.6 %effort:medium | - | [bbugyi200.athena.0sf--3](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0sf.md) | 0 |
 | [0so.md](0so.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/plan_approve_recover_failed_coder.md | - | [bbugyi200.athena.0so](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0so/README.md) | 0 |
+| [0sp.md](0sp.md) | %queue(weight=1) #fork:0sp--0 %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.0sp--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0sp.md) | 0 |
 | [0u.md](0u.md) | gh:gh_sase-org__sase Can you explain to me why the sase-11e.8.6.5.4 epic bead's | - | [bbugyi200.kellys_mbp.0u](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.0u/README.md) | 0 |
 | [0u_1.md](0u_1.md) | gh:gh_sase-org__sase Can you give me some concise and numbered steps that help me | - | [bbugyi200.apollo.0u](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.apollo.0u/README.md) | 0 |
 | [0w.md](0w.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/check_full_explicit_only.md][1] | - | [bbugyi200.apollo.0w--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.0w.md) | 1 |
