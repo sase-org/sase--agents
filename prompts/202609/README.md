@@ -209,6 +209,7 @@
 | [0t6.md](0t6.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/telegram_usage_command.md %m:@medium | - | [bbugyi200.athena.0t6](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0t6/README.md) | 0 |
 | [0t8.md](0t8.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0t8--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0t8.md) | 1 |
 | [0t9.md](0t9.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.0t9--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0t9.md) | 1 |
+| [0ta.md](0ta.md) | %queue(weight=1) #fork:0ta--1 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.athena.0ta--2](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0ta.md) | 0 |
 | [0tb.md](0tb.md) | %queue(weight=1) %auto #fork:0tb--code %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.0tb--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0tb.md) | 0 |
 | [0te.md](0te.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.0te--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0te.md) | 1 |
 | [0u.md](0u.md) | gh:gh_sase-org__sase Can you explain to me why the sase-11e.8.6.5.4 epic bead's | - | [bbugyi200.kellys_mbp.0u](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.0u/README.md) | 0 |
