@@ -232,6 +232,7 @@
 | [1b.md](1b.md) | %queue(weight=1) #fork:1b--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.1b--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.1b.md) | 0 |
 | [1b_1.md](1b_1.md) | gh:gh_sase-org__sase Can you help me understand the vaule provided by the E4 epic for | - | [bbugyi200.kellys_mbp.1b](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.1b/README.md) | 0 |
 | [1c.md](1c.md) | gh:gh_sase-org__sase Can you help me thoroughly review the sase-1b2 epic and produce | - | [bbugyi200.kellys_mbp.1c](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.1c/README.md) | 0 |
+| [1c.r0.md](1c.r0.md) | %id:1c.r0 #gh:gh_sase-org__sase Can you help me thoroughly review the sase-1b1 epic | - | [bbugyi200.kellys_mbp.1c.r0](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.1c.r0/README.md) | 0 |
 | [1e.md](1e.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.apollo.1e--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.1e.md) | 1 |
 | [1e.w0.md](1e.w0.md) | %queue(weight=1) #fork:1e.w0--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.1e.w0--1](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.1e.w0.md) | 0 |
 | [1h.f0.f0.f0.md](1h.f0.f0.f0.md) | %queue(weight=1) %auto #fork:1h.f0.f0.f0--1 %model:@small | - | [bbugyi200.apollo.1h.f0.f0.f0--2](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.1h.f0.f0.f0.md) | 0 |
