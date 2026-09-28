@@ -212,6 +212,7 @@
 | [0ta.md](0ta.md) | %queue(weight=1) #fork:0ta--1 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.athena.0ta--2](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0ta.md) | 0 |
 | [0tb.md](0tb.md) | %queue(weight=1) %auto #fork:0tb--code %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.0tb--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0tb.md) | 0 |
 | [0te.md](0te.md) | %model:@small #gh:gh_sase-org__sase | - | [bbugyi200.athena.0te--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0te.md) | 1 |
+| [0tf.md](0tf.md) | %queue(weight=1) %auto #fork:0tf--code %model:grok-4.6@high | - | [bbugyi200.athena.0tf--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0tf.md) | 0 |
 | [0tg.md](0tg.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0tg--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0tg.md) | 1 |
 | [0u.md](0u.md) | gh:gh_sase-org__sase Can you explain to me why the sase-11e.8.6.5.4 epic bead's | - | [bbugyi200.kellys_mbp.0u](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.0u/README.md) | 0 |
 | [0u_1.md](0u_1.md) | gh:gh_sase-org__sase Can you give me some concise and numbered steps that help me | - | [bbugyi200.apollo.0u](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.apollo.0u/README.md) | 0 |
