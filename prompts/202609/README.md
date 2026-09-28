@@ -268,6 +268,7 @@
 | [2n.md](2n.md) | %queue(weight=1) %auto #fork:2n--1 %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.apollo.2n--2](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.2n.md) | 0 |
 | [2o.md](2o.md) | %queue(weight=1) %auto #fork:2o--1 %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.apollo.2o--2](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.2o.md) | 0 |
 | [2r.md](2r.md) | %queue(weight=1) %auto #fork:2r--2 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.2r--3](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.2r.md) | 0 |
+| [2v.md](2v.md) | %queue(weight=1) %auto #fork:2v--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.2v--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.2v.md) | 0 |
 | [30.md](30.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/memory_batch_read_file_counts.md | - | [bbugyi200.athena.30](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.30/README.md) | 0 |
 | [3u.md](3u.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/poseidon_cargo_retention.md][1] | - | [bbugyi200.athena.3u--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.3u.md) | 1 |
 | [47.md](47.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/poseidon_cargo_retention.md | - | [bbugyi200.athena.47](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.47/README.md) | 0 |
