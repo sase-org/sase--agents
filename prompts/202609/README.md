@@ -281,6 +281,7 @@
 | [33.md](33.md) | %queue(weight=1) %auto #fork:33--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.33--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.33.md) | 0 |
 | [39.md](39.md) | %queue(weight=1) %auto #fork:39--2 %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.apollo.39--3](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.39.md) | 0 |
 | [3a.md](3a.md) | %queue(weight=1) %auto #fork:3a--1 %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.apollo.3a--2](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3a.md) | 0 |
+| [3d.md](3d.md) | %queue(weight=1) %auto #fork:3d--1 %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.apollo.3d--2](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3d.md) | 0 |
 | [3u.md](3u.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/poseidon_cargo_retention.md][1] | - | [bbugyi200.athena.3u--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.3u.md) | 1 |
 | [47.md](47.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/poseidon_cargo_retention.md | - | [bbugyi200.athena.47](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.47/README.md) | 0 |
 | [55.md](55.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/swap_agents_retry_refresh.md][1] | - | [bbugyi200.athena.55--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.athena.55.md) | 1 |
