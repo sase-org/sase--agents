@@ -226,6 +226,7 @@
 | [0u7.md](0u7.md) | %queue(weight=1) %auto #fork:0u7--1 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.athena.0u7--2](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0u7.md) | 0 |
 | [0u_1.md](0u_1.md) | gh:gh_sase-org__sase Can you give me some concise and numbered steps that help me | - | [bbugyi200.apollo.0u](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.apollo.0u/README.md) | 0 |
 | [0ub.md](0ub.md) | %queue(weight=1) %auto #fork:0ub--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.athena.0ub--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0ub.md) | 0 |
+| [0uf.md](0uf.md) | %queue(weight=1) %auto #fork:0uf--3 %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.0uf--4](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0uf.md) | 0 |
 | [0w.md](0w.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202609/check_full_explicit_only.md][1] | - | [bbugyi200.apollo.0w--code](https://github.com/sase-org/sase--agents/blob/main/families/bbugyi200.apollo.0w.md) | 1 |
 | [0y.md](0y.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/refresh_muse_spark_models.md | - | [bbugyi200.apollo.0y](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.apollo.0y/README.md) | 0 |
 | [0z.md](0z.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202609/xlarge_alias_pool.md %m:@medium | - | [bbugyi200.apollo.0z](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.apollo.0z/README.md) | 0 |
