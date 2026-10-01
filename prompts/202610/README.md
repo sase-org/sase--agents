@@ -2,6 +2,7 @@
 
 | Prompt | Title | Plan | Agent | Artifacts |
 | --- | --- | --- | --- | ---: |
+| [0ul.md](0ul.md) | %queue(weight=1) %auto #fork:0ul--1 %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.0ul--2](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0ul.md) | 0 |
 | [0uo.md](0uo.md) | %queue(weight=1) #fork:0uo--code %model:muse-spark-1.3-contributor %effort:high | - | [bbugyi200.athena.0uo--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0uo.md) | 0 |
 | [3r.md](3r.md) | %queue(weight=1) %auto #fork:3r--4 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3r--5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3r.md) | 0 |
 | [research.y.cld.md](research.y.cld.md) | %id(cld, clan=research.y) %m:claude/opus@xhigh %q(1.5x, w=0.25) #gh:gh_sase-org**sase | - | [bbugyi200.apollo.research.y.cld](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.apollo.research.y.cld/README.md) | 0 |
