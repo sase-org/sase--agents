@@ -1,0 +1,161 @@
+- **AGENTS:**
+  - [bbugyi200.athena.sase-1d7.land--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.sase-1d7.land.md)
+
+%queue(weight=1) %auto #fork:sase-1d7.land--code %model:muse-spark-1.3-contributor@xhigh
+
+%xprompts_enabled:false
+
+# Monitored command finished
+
+**Command:**
+
+```text
+just check
+```
+
+**Directory:**
+
+```text
+/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13
+```
+
+|              |                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Outcome**  | FAILED — exit 1                                                                                                                                                                                                                                                                                                                                                         |
+| **Started**  | 2026-10-01T00:34:26.933763+00:00                                                                                                                                                                                                                                                                                                                                        |
+| **Finished** | 2026-10-01T01:31:17.516641+00:00                                                                                                                                                                                                                                                                                                                                        |
+| **Elapsed**  | 56m 49s of a 1h 0m 0s budget                                                                                                                                                                                                                                                                                                                                            |
+| **Output**   | 276 KiB · evidence refs: `file:monitor-diagnostic-manifest:xh9er8gek3kk`, `file:monitor-retained-log:xh9er8gek3kk`, `file:monitor-stage:lint-symvision-1577852-1790815883139995929-eca0ba39`, `file:monitor-stage:test-scoped-2434581-1790818272642504814-8949acab` · raw output omitted: `failed_diagnostics` · full log: `sase monitor show xh9er8gek3kk --all-lines` |
+| **Tool run** | sase tool show 1b2d7636e7f0915c1edcb415fc0feb11                                                                                                                                                                                                                                                                                                                         |
+
+**Why this was monitored:** Verify before host completion
+
+## Failure triage
+
+verdict: new_failures — 7 NEW, 15 KNOWN, 2 FLAKY; exit 1
+
+NEW test (scoped): FAILED
+tests/test_suite_gate_scoped_integration.py::test_ungoverned_bypass_is_bounded_by_the_host_budget
+— recorded evidence; no owner NEW test (scoped): FAILED
+tests/test_config_schema_repositories.py::test_config_schema_documents_intrinsic_agents_sidecar_contract
+— recorded evidence; no owner NEW test (scoped): FAILED
+tests/test_suite_gate_scoped_integration.py::test_over_budget_selection_escalates_rather_than_queueing_for_a_lease
+— recorded evidence; no owner NEW test (scoped): FAILED
+tests/test_force_reuse_launch_seam_consume.py::test_launch_query_fanout_contradiction_surfaces_clear_error
+— recorded evidence; no owner NEW test (scoped): FAILED
+tests/test_suite_gate_scoped_integration.py::test_scoped_run_ignores_parent_shard_spec —
+recorded evidence; no owner NEW test (scoped): FAILED
+tests/main/test_parser_tool.py::test_tool_help_advertises_implemented_verbs — recorded
+evidence; no owner NEW test (scoped): FAILED
+tests/test_force_reuse_launch_seam_registry.py::test_launch_query_real_agent_session_cleanup_failure_prevents_spawn
+— recorded evidence; no owner KNOWN 15; FLAKY 2
+
+sase tool show 1b2d7636e7f0915c1edcb415fc0feb11 -j
+
+## Selected diagnostics
+
+<!--sase:budget-span:open:kind=newest_diagnostics;id=1-->
+
+**Diagnostics (untrusted program output):**
+
+```text
+== lint (symvision) (failed exit 1) ==
+[counts: output_bytes=1636, output_lines=12, retained_bytes=1636]
+[validate_sase_core_rs_version] sase-core checkout is ahead of sase's compatibility window: source version 0.36.1 from /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13/sase/repos/linked/sase-core/Cargo.toml does not satisfy `sase`'s `sase-core-rs>=0.35.0,<0.36.0` dependency in pyproject.toml. No action is needed: editable installs build from the checkout regardless, and `tools/ratchet_core_window` moves the published window on the release branch at release time.
+[setup] Note: the sase-core checkout is ahead of the published sase-core-rs window in pyproject.toml; dev installs build from /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13/sase/repos/linked/sase-core regardless. This is normal — the release-branch reconciler ratchets the published window at release time, so no action is needed here.
+.venv/bin/python tools/setup_required_plugins
+[setup] Installing required plugin sase-github>=0.2.5.
+[setup] Installing required plugin sase-research-artifacts>=0.2.0.
+SASE_SYMVISION_BEAD_STATUS_ONLY=1 BD_COMMAND=tools/sase_bead .venv/bin/symvision src/sase --exclude-decorator gate_command_entrypoint --exclude-decorator builtin_chop
+Unused public functions/classes. Make these private if they are used only within the file they are defined. If the functions/classes are completely unused, you should delete them:
+  HandoffSubmitResult in src/sase/tool/handoff_launch.py
+  StarterResolution in src/sase/tool/starter.py
+  fit_next_word_ghost in src/sase/ace/tui/widgets/next_word_completion.py
+  owner_ref in src/sase/tool/owner.py
+error: recipe `_lint-symvision` failed on line 397 with exit code 1
+== test (scoped) (failed exit 1) ==
+[counts: output_bytes=251159, output_lines=3358, retained_bytes=251159]
+[validate_sase_core_rs_version] sase-core checkout is ahead of sase's compatibility window: source version 0.36.1 from /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13/sase/repos/linked/sase-core/Cargo.toml does not satisfy `sase`'s `sase-core-rs>=0.35.0,<0.36.0` dependency in pyproject.toml. No action is needed: editable installs build from the checkout regardless, and `tools/ratchet_core_window` moves the published window on the release branch at release time.
+[setup] Note: the sase-core checkout is ahead of the published sase-core-rs window in pyproject.toml; dev installs build from /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13/sase/repos/linked/sase-core regardless. This is normal — the release-branch reconciler ratchets the published window at release time, so no action is needed here.
+.venv/bin/python tools/setup_required_plugins
+[setup] Installing required plugin sase-github>=0.2.5.
+[setup] Installing required plugin sase-research-artifacts>=0.2.0.
+
+┌───────────────────────────────────────────────────────┐
+│                RUNNING: just test-scoped              │
+└───────────────────────────────────────────────────────┘
+
+---------- Running diff-scoped pytest selection... ----------
+test selection escalated to the full suite (rules: core-identity-changed, src-data-asset); 4734 test files in scope
+coverage contexts: not consulted — the run escalates to the full suite, so ground truth had nothing to add
+escalating to the governed full test lane (rules: core-identity-changed, src-data-asset)
+============================= test session starts ==============================
+platform linux -- Python 3.14.7, pytest-9.1.1, pluggy-1.6.0
+rootdir: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13
+configfile: pyproject.toml
+testpaths: tests
+plugins: cov-7.1.0, hypothesis-6.167.1, platformdirs-4.12.2, asyncio-1.4.0, inline-snapshot-0.35.4, xdist-3.8.0, mock-3.15.1
+asyncio: mode=Mode.AUTO, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function
+created: 5/5 workers
+5 workers [51082 items]
+
+........................................................................ [  0%]
+........................................................................ [  0%]
+........................................................................ [  0%]
+........................................................................ [  0%]
+........................................................................ [  0%]
+........................................................................ [  0%]
+........................................................................ [  0%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  4%]
+........................................................................ [  4%]
+........................................................................ [  4%]
+........................................................................ [  4%]
+........................................................................ [  4%]
+........................................................................ [  4%]
+.....................................................F.................. [  4%]
+........................................................................ [  5%]
+........................................................................ [  5%]
+........................................................................ [  5%]
+........................................................................ [  5%]
+........................................................................ [  5%]
+........................................................................ [  5%]
+........................................................................ [  5%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+.....................s.................................................. [  6%]
+........................................................................ [  7%]
+........
+
+```
+
+<!--sase:budget-span:close:1-->
+
+## Your next action
+
+Inspect the monitor result, repair any failed or timed-out verification, and finish the
+original task. %xprompts_enabled:true
