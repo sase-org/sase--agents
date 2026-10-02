@@ -9,6 +9,7 @@
 | [0ux.md](0ux.md) | %queue(weight=1) %auto #fork:0ux--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.athena.0ux--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0ux.md) | 0 |
 | [0v0.md](0v0.md) | %queue(weight=1) %auto #fork:0v0--2 %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.0v0--3](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0v0.md) | 0 |
 | [0v3.md](0v3.md) | %queue(weight=1) %auto #fork:0v3--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.athena.0v3--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0v3.md) | 0 |
+| [0vd.md](0vd.md) | gh:gh_sase-org__sase Can you do some research to help me figure out if there a safe way | - | [bbugyi200.athena.0vd](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0vd/README.md) | 0 |
 | [3r.md](3r.md) | %queue(weight=1) %auto #fork:3r--4 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3r--5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3r.md) | 0 |
 | [3v.md](3v.md) | %queue(weight=1) %auto #fork:3v--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3v--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3v.md) | 0 |
 | [41.md](41.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202610/memory_history_landing_fixes.md | - | [bbugyi200.apollo.41](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.apollo.41/README.md) | 0 |
