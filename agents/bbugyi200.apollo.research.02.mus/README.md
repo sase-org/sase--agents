@@ -74,7 +74,7 @@
 | [research.09.grk](../bbugyi200.apollo.research.09.grk/README.md) | research hood | completed |
 | [research.09.image](../bbugyi200.apollo.research.09.image/README.md) | research hood | completed |
 | [research.09.linker](../bbugyi200.apollo.research.09.linker/README.md) | research hood | completed |
-| [research.0a.audio](../bbugyi200.apollo.research.0a.audio/README.md) | research hood | active |
+| [research.0a.audio](../bbugyi200.apollo.research.0a.audio/README.md) | research hood | completed |
 | [research.0a.cdx](../bbugyi200.apollo.research.0a.cdx/README.md) | research hood | completed |
 | [research.0a.cld](../bbugyi200.apollo.research.0a.cld/README.md) | research hood | completed |
 | [research.0a.final](../bbugyi200.apollo.research.0a.final/README.md) | research hood | completed |
