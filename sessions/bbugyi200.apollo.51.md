@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 51--code | completed | gpt-6-luna / codex | 2026-10-04T14:01:01.817644+00:00 → 2026-10-04T14:56:42.908870+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.51--code/chat.md) |
-| <a id="member-3"></a>3 | 51--3 | active | gpt-6-luna / codex | 2026-10-04T16:25:11.450261+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.51--3/prompt.md) | — |
+| <a id="member-3"></a>3 | 51--3 | active | gpt-6-luna / codex | 2026-10-04T16:25:11.450261+00:00 | [1](../agents/bbugyi200.apollo.51--3/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.51--3/prompt.md) | — |
 | <a id="member-mon-1"></a>mon-1 | 51--mon-1 | failed | gpt-6-luna / codex | 2026-10-04T16:18:03.356241+00:00 → 2026-10-04T16:25:11.938897+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.51--mon-1/chat.md) |
 | <a id="member-mon"></a>mon | 51--mon | failed | gpt-6-luna / codex | 2026-10-04T14:55:30.082831+00:00 → 2026-10-04T15:21:28.219675+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.51--mon/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 51--mon-0 | failed | gpt-6-luna / codex | 2026-10-04T15:57:06.518390+00:00 → 2026-10-04T16:04:55.474565+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.51--mon-0/chat.md) |
@@ -47,6 +47,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|
 | — | sase | [`86e9ef0`](https://github.com/sase-org/sase/commit/86e9ef0e706125afdcf0674701e76c70ba124847) | chore: Add SDD prompt and plan for tui\_perf\_memory\_migration | 2026-06-10 09:04:22 EDT |
 | — | sase | [`20d1294`](https://github.com/sase-org/sase/commit/20d129453f68a9b6070d1f6464817cfbf9313df9) | chore: migrate tui\_jk\_baseline memory to tui\_perf | 2026-06-10 09:11:41 EDT |
+| 3 | sase | [`3d318f2`](https://github.com/sase-org/sase/commit/3d318f2d3923ab8716b5dddafbd3e926a1a034c1) | feat(ace): continue macro argument lists with parenthesis | 2026-10-04 13:07:29 EDT |
 
 ## Neighbors
 
