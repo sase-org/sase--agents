@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.09.final
 
-**Global name:** `bbugyi200.apollo.research.09.final` · **State:** active · **Source run:** `run-0bdcd43c578e3db40541c5edd516c19c`
+**Global name:** `bbugyi200.apollo.research.09.final` · **State:** completed · **Source run:** `run-0bdcd43c578e3db40541c5edd516c19c`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,12 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-04T14:28:36.679939+00:00
+- Timing: 2026-10-04T14:28:36.679939+00:00 → 2026-10-04T14:45:05.436041+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,12 +27,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.09.audio](../bbugyi200.apollo.research.09.audio/README.md) | research.09 hood | waiting |
+| [research.09.audio](../bbugyi200.apollo.research.09.audio/README.md) | research.09 hood | active |
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research.09 hood | completed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research.09 hood | completed |
 | [research.09.gem](../bbugyi200.apollo.research.09.gem/README.md) | research.09 hood | completed |
 | [research.09.grk](../bbugyi200.apollo.research.09.grk/README.md) | research.09 hood | completed |
-| [research.09.image](../bbugyi200.apollo.research.09.image/README.md) | research.09 hood | waiting |
+| [research.09.image](../bbugyi200.apollo.research.09.image/README.md) | research.09 hood | active |
 | [research.09.linker](../bbugyi200.apollo.research.09.linker/README.md) | research.09 hood | waiting |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |

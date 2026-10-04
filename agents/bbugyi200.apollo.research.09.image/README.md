@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.09.image
 
-**Global name:** `bbugyi200.apollo.research.09.image` · **State:** waiting · **Source run:** `run-71efee55f8acbe18b7330258670b02fa`
+**Global name:** `bbugyi200.apollo.research.09.image` · **State:** active · **Source run:** `run-71efee55f8acbe18b7330258670b02fa`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261004095732
+- Timing: 2026-10-04T14:46:18.946527+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -27,10 +27,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.09.audio](../bbugyi200.apollo.research.09.audio/README.md) | research.09 hood | waiting |
+| [research.09.audio](../bbugyi200.apollo.research.09.audio/README.md) | research.09 hood | active |
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research.09 hood | completed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research.09 hood | completed |
-| [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research.09 hood | active |
+| [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research.09 hood | completed |
 | [research.09.gem](../bbugyi200.apollo.research.09.gem/README.md) | research.09 hood | completed |
 | [research.09.grk](../bbugyi200.apollo.research.09.grk/README.md) | research.09 hood | completed |
 | [research.09.linker](../bbugyi200.apollo.research.09.linker/README.md) | research.09 hood | waiting |

@@ -72,13 +72,13 @@
 | [research.08.grk](../bbugyi200.apollo.research.08.grk/README.md) | research hood | completed |
 | [research.08.image](../bbugyi200.apollo.research.08.image/README.md) | research hood | completed |
 | [research.08.linker](../bbugyi200.apollo.research.08.linker/README.md) | research hood | completed |
-| [research.09.audio](../bbugyi200.apollo.research.09.audio/README.md) | research hood | waiting |
+| [research.09.audio](../bbugyi200.apollo.research.09.audio/README.md) | research hood | active |
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | completed |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | completed |
-| [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | active |
+| [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | completed |
 | [research.09.gem](../bbugyi200.apollo.research.09.gem/README.md) | research hood | completed |
 | [research.09.grk](../bbugyi200.apollo.research.09.grk/README.md) | research hood | completed |
-| [research.09.image](../bbugyi200.apollo.research.09.image/README.md) | research hood | waiting |
+| [research.09.image](../bbugyi200.apollo.research.09.image/README.md) | research hood | active |
 | [research.09.linker](../bbugyi200.apollo.research.09.linker/README.md) | research hood | waiting |
 | [research.0a.cdx](../bbugyi200.apollo.research.0a.cdx/README.md) | research hood | completed |
 | [research.0a.cld](../bbugyi200.apollo.research.0a.cld/README.md) | research hood | completed |
