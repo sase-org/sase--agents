@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.09.linker
 
-**Global name:** `bbugyi200.apollo.research.09.linker` · **State:** active · **Source run:** `run-7069763bef2baa452fc1627cbfd0a39d`
+**Global name:** `bbugyi200.apollo.research.09.linker` · **State:** completed · **Source run:** `run-7069763bef2baa452fc1627cbfd0a39d`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,12 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-04T14:56:02.809230+00:00
+- Timing: 2026-10-04T14:56:02.809230+00:00 → 2026-10-04T15:07:39.231893+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -74,8 +74,8 @@
 | [research.08.grk](../bbugyi200.apollo.research.08.grk/README.md) | research hood | completed |
 | [research.08.image](../bbugyi200.apollo.research.08.image/README.md) | research hood | completed |
 | [research.08.linker](../bbugyi200.apollo.research.08.linker/README.md) | research hood | completed |
-| [research.0a.cdx](../bbugyi200.apollo.research.0a.cdx/README.md) | research hood | completed |
-| [research.0a.cld](../bbugyi200.apollo.research.0a.cld/README.md) | research hood | completed |
-| [research.0a.final](../bbugyi200.apollo.research.0a.final/README.md) | research hood | completed |
-| [research.0a.final.f1](../bbugyi200.apollo.research.0a.final.f1/README.md) | research hood | completed |
-| … and 290 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| [research.0a.audio](../bbugyi200.apollo.research.0a.audio/README.md) | research hood | waiting |
+| [research.0a.cdx](../bbugyi200.apollo.research.0a.cdx/README.md) | research hood | active |
+| [research.0a.cld](../bbugyi200.apollo.research.0a.cld/README.md) | research hood | active |
+| [research.0a.final](../bbugyi200.apollo.research.0a.final/README.md) | research hood | waiting |
+| … and 294 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
