@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.09.audio
 
-**Global name:** `bbugyi200.apollo.research.09.audio` · **State:** active · **Source run:** `run-9b6d1af797b5479a3c99de3e50393ee0`
+**Global name:** `bbugyi200.apollo.research.09.audio` · **State:** completed · **Source run:** `run-9b6d1af797b5479a3c99de3e50393ee0`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-6.1-sol
 - Provider: codex
-- Timing: 2026-10-04T14:46:25.050825+00:00
+- Timing: 2026-10-04T14:46:25.050825+00:00 → 2026-10-04T14:54:43.665529+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -26,8 +26,8 @@
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research.09 hood | completed |
 | [research.09.gem](../bbugyi200.apollo.research.09.gem/README.md) | research.09 hood | completed |
 | [research.09.grk](../bbugyi200.apollo.research.09.grk/README.md) | research.09 hood | completed |
-| [research.09.image](../bbugyi200.apollo.research.09.image/README.md) | research.09 hood | active |
-| [research.09.linker](../bbugyi200.apollo.research.09.linker/README.md) | research.09 hood | waiting |
+| [research.09.image](../bbugyi200.apollo.research.09.image/README.md) | research.09 hood | completed |
+| [research.09.linker](../bbugyi200.apollo.research.09.linker/README.md) | research.09 hood | active |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
