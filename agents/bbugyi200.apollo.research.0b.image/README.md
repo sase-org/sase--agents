@@ -27,8 +27,8 @@
 | [research.0b.final](../bbugyi200.apollo.research.0b.final/README.md) | research.0b hood | completed |
 | [research.0b.gem](../bbugyi200.apollo.research.0b.gem/README.md) | research.0b hood | completed |
 | [research.0b.grk](../bbugyi200.apollo.research.0b.grk/README.md) | research.0b hood | completed |
-| [research.0b.linker](../bbugyi200.apollo.research.0b.linker/README.md) | research.0b hood | active |
-| [research.0b.linker.w0](../bbugyi200.apollo.research.0b.linker.w0/README.md) | research.0b hood | waiting |
+| [research.0b.linker](../bbugyi200.apollo.research.0b.linker/README.md) | research.0b hood | completed |
+| [research.0b.linker.w0](../../sessions/bbugyi200.apollo.research.0b.linker.w0.md) (session · 3) | research.0b hood | failed 3 |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
