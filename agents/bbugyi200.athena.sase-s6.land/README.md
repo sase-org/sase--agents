@@ -35,4 +35,4 @@
 | [sase-s6.5](../bbugyi200.athena.sase-s6.5/README.md) | sase-s6 hood | active |
 | [sase-s6.6](../bbugyi200.athena.sase-s6.6/README.md) | sase-s6 hood | active |
 | [sase-s6.7](../bbugyi200.athena.sase-s6.7/README.md) | sase-s6 hood | active |
-| [sase-s6.8](../../families/bbugyi200.athena.sase-s6.8.md) (family · 6) | sase-s6 hood | active 5, failed 1 |
+| [sase-s6.8](../../sessions/bbugyi200.athena.sase-s6.8.md) (session · 6) | sase-s6 hood | active 5, failed 1 |

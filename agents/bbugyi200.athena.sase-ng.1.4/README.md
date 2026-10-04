@@ -29,10 +29,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ng](../../families/bbugyi200.athena.sase-ng.md) (family · 2) | ancestor | active 1, failed 1 |
-| [sase-ng.1.1](../../families/bbugyi200.athena.sase-ng.1.1.md) (family · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
+| [sase-ng](../../sessions/bbugyi200.athena.sase-ng.md) (session · 2) | ancestor | active 1, failed 1 |
+| [sase-ng.1.1](../../sessions/bbugyi200.athena.sase-ng.1.1.md) (session · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
 | [sase-ng.1.2](../bbugyi200.athena.sase-ng.1.2/README.md) | sase-ng.1 hood | active |
 | [sase-ng.1.3](../bbugyi200.athena.sase-ng.1.3/README.md) | sase-ng.1 hood | active |
-| [sase-ng.1.5](../../families/bbugyi200.athena.sase-ng.1.5.md) (family · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
-| [sase-ng.1.6](../../families/bbugyi200.athena.sase-ng.1.6.md) (family · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
-| [sase-ng.1.land](../../families/bbugyi200.athena.sase-ng.1.land.md) (family · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
+| [sase-ng.1.5](../../sessions/bbugyi200.athena.sase-ng.1.5.md) (session · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
+| [sase-ng.1.6](../../sessions/bbugyi200.athena.sase-ng.1.6.md) (session · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |
+| [sase-ng.1.land](../../sessions/bbugyi200.athena.sase-ng.1.land.md) (session · 3) | sase-ng.1 hood | active 1, completed 1, failed 1 |

@@ -1,6 +1,6 @@
 # Agent: 02z--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [02z](../../users/bbugyi200/machines/athena/hoods/02z/README.md) / [02z](../../families/bbugyi200.athena.02z.md) / 02z--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [02z](../../users/bbugyi200/machines/athena/hoods/02z/README.md) / [02z](../../sessions/bbugyi200.athena.02z.md) / 02z--code
 
 **Global name:** `bbugyi200.athena.02z--code` · **State:** completed · **Source run:** `run-00625f1ced23a527f564ce82d4f07324`
 

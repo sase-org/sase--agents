@@ -38,4 +38,4 @@
 | [sase-11i.6.3](../bbugyi200.athena.sase-11i.6.3/README.md) | sase-11i hood | active |
 | [sase-11i.6.4](../bbugyi200.athena.sase-11i.6.4/README.md) | sase-11i hood | active |
 | [sase-11i.6.land](../bbugyi200.athena.sase-11i.6.land/README.md) | sase-11i hood | active |
-| [sase-11i.land](../../families/bbugyi200.athena.sase-11i.land.md) (family · 3) | sase-11i hood | active 3 |
+| [sase-11i.land](../../sessions/bbugyi200.athena.sase-11i.land.md) (session · 3) | sase-11i hood | active 3 |

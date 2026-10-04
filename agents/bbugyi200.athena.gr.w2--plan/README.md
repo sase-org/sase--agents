@@ -1,6 +1,6 @@
 # Agent: gr.w2--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [gr](../../users/bbugyi200/machines/athena/hoods/gr/README.md) / [gr.w2](../../families/bbugyi200.athena.gr.w2.md) / gr.w2--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [gr](../../users/bbugyi200/machines/athena/hoods/gr/README.md) / [gr.w2](../../sessions/bbugyi200.athena.gr.w2.md) / gr.w2--plan
 
 **Global name:** `bbugyi200.athena.gr.w2--plan` · **State:** active · **Source run:** `run-9ec450cff0f4c4674708afb49377d0b1`
 
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [gr](../../families/bbugyi200.athena.gr.md) (family · 2) | ancestor | active 1, completed 1 |
+| [gr](../../sessions/bbugyi200.athena.gr.md) (session · 2) | ancestor | active 1, completed 1 |
 | [gr.w0](../bbugyi200.athena.gr.w0/README.md) | gr hood | dismissed |

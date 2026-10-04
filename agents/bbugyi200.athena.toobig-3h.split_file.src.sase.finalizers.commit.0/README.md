@@ -27,7 +27,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-3h.split\_file.src.sase.finalizers.controller.0](../../families/bbugyi200.athena.toobig-3h.split_file.src.sase.finalizers.controller.0.md) (family · 3) | toobig-3h.split\_file.src.sase.finalizers hood | active 3 |
+| [toobig-3h.split\_file.src.sase.finalizers.controller.0](../../sessions/bbugyi200.athena.toobig-3h.split_file.src.sase.finalizers.controller.0.md) (session · 3) | toobig-3h.split\_file.src.sase.finalizers hood | active 3 |
 | [toobig-3h.split\_file.src.sase.finalizers.executor.0](../bbugyi200.athena.toobig-3h.split_file.src.sase.finalizers.executor.0/README.md) | toobig-3h.split\_file.src.sase.finalizers hood | active |
 | [toobig-3h.split\_file.src.sase.bead.cli\_detail.0](../bbugyi200.athena.toobig-3h.split_file.src.sase.bead.cli_detail.0/README.md) | toobig-3h.split\_file.src.sase hood | active |
 | [toobig-3h.split\_file.tests.ace.tui.models.test\_agent\_family\_members.0](../bbugyi200.athena.toobig-3h.split_file.tests.ace.tui.models.test_agent_family_members.0/README.md) | toobig-3h.split\_file hood | active |

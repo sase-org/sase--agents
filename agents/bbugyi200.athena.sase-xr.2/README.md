@@ -28,4 +28,4 @@
 | [sase-xr.4](../bbugyi200.athena.sase-xr.4/README.md) | sase-xr hood | active |
 | [sase-xr.5](../bbugyi200.athena.sase-xr.5/README.md) | sase-xr hood | active |
 | [sase-xr.6](../bbugyi200.athena.sase-xr.6/README.md) | sase-xr hood | active |
-| [sase-xr.land](../../families/bbugyi200.athena.sase-xr.land.md) (family · 5) | sase-xr hood | active 1, completed 1, failed 3 |
+| [sase-xr.land](../../sessions/bbugyi200.athena.sase-xr.land.md) (session · 5) | sase-xr hood | active 1, completed 1, failed 3 |

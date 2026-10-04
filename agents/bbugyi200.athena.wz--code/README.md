@@ -1,6 +1,6 @@
 # Agent: wz--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [wz](../../users/bbugyi200/machines/athena/hoods/wz/README.md) / [wz](../../families/bbugyi200.athena.wz.md) / wz--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [wz](../../users/bbugyi200/machines/athena/hoods/wz/README.md) / [wz](../../sessions/bbugyi200.athena.wz.md) / wz--code
 
 **Global name:** `bbugyi200.athena.wz--code` · **State:** completed · **Source run:** `run-5e748a635e1a1316c84598dd942f2dc8`
 

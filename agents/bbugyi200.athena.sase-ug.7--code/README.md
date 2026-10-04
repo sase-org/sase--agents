@@ -1,6 +1,6 @@
 # Agent: sase-ug.7--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ug](../../users/bbugyi200/machines/athena/hoods/sase-ug/README.md) / [sase-ug.7](../../families/bbugyi200.athena.sase-ug.7.md) / sase-ug.7--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ug](../../users/bbugyi200/machines/athena/hoods/sase-ug/README.md) / [sase-ug.7](../../sessions/bbugyi200.athena.sase-ug.7.md) / sase-ug.7--code
 
 **Global name:** `bbugyi200.athena.sase-ug.7--code` · **State:** completed · **Source run:** `run-be9056688de79617aef4b43f149eba15`
 
@@ -32,11 +32,11 @@
 | [sase-ug.1](../bbugyi200.athena.sase-ug.1/README.md) | sase-ug hood | active |
 | [sase-ug.10](../bbugyi200.athena.sase-ug.10/README.md) | sase-ug hood | active |
 | [sase-ug.2](../bbugyi200.athena.sase-ug.2/README.md) | sase-ug hood | active |
-| [sase-ug.3](../../families/bbugyi200.athena.sase-ug.3.md) (family · 6) | sase-ug hood | active 4, completed 1, failed 1 |
+| [sase-ug.3](../../sessions/bbugyi200.athena.sase-ug.3.md) (session · 6) | sase-ug hood | active 4, completed 1, failed 1 |
 | [sase-ug.4](../bbugyi200.athena.sase-ug.4/README.md) | sase-ug hood | active |
 | [sase-ug.5](../bbugyi200.athena.sase-ug.5/README.md) | sase-ug hood | active |
 | [sase-ug.6](../bbugyi200.athena.sase-ug.6/README.md) | sase-ug hood | active |
-| [sase-ug.8](../../families/bbugyi200.athena.sase-ug.8.md) (family · 3) | sase-ug hood | active 2, failed 1 |
+| [sase-ug.8](../../sessions/bbugyi200.athena.sase-ug.8.md) (session · 3) | sase-ug hood | active 2, failed 1 |
 | [sase-ug.9](../bbugyi200.athena.sase-ug.9/README.md) | sase-ug hood | active |
-| [sase-ug.land](../../families/bbugyi200.athena.sase-ug.land.md) (family · 9) | sase-ug hood | active 5, failed 4 |
+| [sase-ug.land](../../sessions/bbugyi200.athena.sase-ug.land.md) (session · 9) | sase-ug hood | active 5, failed 4 |
 | [sase-ug.land](../bbugyi200.athena.sase-ug.land/README.md) | sase-ug hood | waiting |

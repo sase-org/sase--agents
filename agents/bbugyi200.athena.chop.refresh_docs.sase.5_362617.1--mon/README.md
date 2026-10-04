@@ -1,6 +1,6 @@
 # Agent: chop.refresh\_docs.sase.5\_362617.1--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [chop](../../users/bbugyi200/machines/athena/hoods/chop/README.md) / [chop.refresh\_docs.sase.5\_362617.1](../../families/bbugyi200.athena.chop.refresh_docs.sase.5_362617.1.md) / chop.refresh\_docs.sase.5\_362617.1--mon
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [chop](../../users/bbugyi200/machines/athena/hoods/chop/README.md) / [chop.refresh\_docs.sase.5\_362617.1](../../sessions/bbugyi200.athena.chop.refresh_docs.sase.5_362617.1.md) / chop.refresh\_docs.sase.5\_362617.1--mon
 
 **Global name:** `bbugyi200.athena.chop.refresh_docs.sase.5_362617.1--mon` · **State:** failed · **Source run:** `run-9a02f4535e3ea83c544efd66fe0a0842`
 
@@ -60,7 +60,7 @@
 | [chop.refresh\_docs.sase.1\_648818.1](../bbugyi200.athena.chop.refresh_docs.sase.1_648818.1/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.1\_648818.2](../bbugyi200.athena.chop.refresh_docs.sase.1_648818.2/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.1\_824549.1](../bbugyi200.athena.chop.refresh_docs.sase.1_824549.1/README.md) | chop.refresh\_docs.sase hood | active |
-| [chop.refresh\_docs.sase.1\_824549.2](../../families/bbugyi200.athena.chop.refresh_docs.sase.1_824549.2.md) (family · 5) | chop.refresh\_docs.sase hood | active 1, completed 2, failed 2 |
+| [chop.refresh\_docs.sase.1\_824549.2](../../sessions/bbugyi200.athena.chop.refresh_docs.sase.1_824549.2.md) (session · 5) | chop.refresh\_docs.sase hood | active 1, completed 2, failed 2 |
 | [chop.refresh\_docs.sase.2](../bbugyi200.athena.chop.refresh_docs.sase.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.2\_125531.1](../bbugyi200.athena.chop.refresh_docs.sase.2_125531.1/README.md) | chop.refresh\_docs.sase hood | active |
 | [chop.refresh\_docs.sase.2\_125531.2](../bbugyi200.athena.chop.refresh_docs.sase.2_125531.2/README.md) | chop.refresh\_docs.sase hood | active |

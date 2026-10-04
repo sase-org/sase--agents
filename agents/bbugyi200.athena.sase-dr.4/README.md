@@ -33,4 +33,4 @@
 | [sase-dr.2](../bbugyi200.athena.sase-dr.2/README.md) | sase-dr hood | active |
 | [sase-dr.3](../bbugyi200.athena.sase-dr.3/README.md) | sase-dr hood | active |
 | [sase-dr.5](../bbugyi200.athena.sase-dr.5/README.md) | sase-dr hood | active |
-| [sase-dr.land](../../families/bbugyi200.athena.sase-dr.land.md) (family · 2) | sase-dr hood | active 1, completed 1 |
+| [sase-dr.land](../../sessions/bbugyi200.athena.sase-dr.land.md) (session · 2) | sase-dr hood | active 1, completed 1 |

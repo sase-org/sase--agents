@@ -30,4 +30,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-j9.1](../bbugyi200.athena.sase-j9.1/README.md) | sase-j9 hood | active |
-| [sase-j9.land](../../families/bbugyi200.athena.sase-j9.land.md) (family · 2) | sase-j9 hood | active 2 |
+| [sase-j9.land](../../sessions/bbugyi200.athena.sase-j9.land.md) (session · 2) | sase-j9 hood | active 2 |

@@ -1,6 +1,6 @@
 # Agent: sase-cj--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-cj](../../users/bbugyi200/machines/athena/hoods/sase-cj/README.md) / [sase-cj](../../families/bbugyi200.athena.sase-cj.md) / sase-cj--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-cj](../../users/bbugyi200/machines/athena/hoods/sase-cj/README.md) / [sase-cj](../../sessions/bbugyi200.athena.sase-cj.md) / sase-cj--plan
 
 **Global name:** `bbugyi200.athena.sase-cj--plan` · **State:** active · **Source run:** `run-9efa447a32840fcbab34493ac293a260`
 

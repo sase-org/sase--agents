@@ -31,6 +31,6 @@
 |---|---|---|
 | [sase-yw.1](../bbugyi200.athena.sase-yw.1/README.md) | sase-yw hood | active |
 | [sase-yw.3.1](../bbugyi200.athena.sase-yw.3.1/README.md) | sase-yw hood | active |
-| [sase-yw.3.2](../../families/bbugyi200.athena.sase-yw.3.2.md) (family · 3) | sase-yw hood | active 3 |
-| [sase-yw.3.land](../../families/bbugyi200.athena.sase-yw.3.land.md) (family · 4) | sase-yw hood | active 3, failed 1 |
-| [sase-yw.land](../../families/bbugyi200.athena.sase-yw.land.md) (family · 3) | sase-yw hood | active 3 |
+| [sase-yw.3.2](../../sessions/bbugyi200.athena.sase-yw.3.2.md) (session · 3) | sase-yw hood | active 3 |
+| [sase-yw.3.land](../../sessions/bbugyi200.athena.sase-yw.3.land.md) (session · 4) | sase-yw hood | active 3, failed 1 |
+| [sase-yw.land](../../sessions/bbugyi200.athena.sase-yw.land.md) (session · 3) | sase-yw hood | active 3 |

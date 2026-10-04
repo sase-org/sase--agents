@@ -1,6 +1,6 @@
 # Agent: xi--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [xi](../../users/bbugyi200/machines/athena/hoods/xi/README.md) / [xi](../../families/bbugyi200.athena.xi.md) / xi--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [xi](../../users/bbugyi200/machines/athena/hoods/xi/README.md) / [xi](../../sessions/bbugyi200.athena.xi.md) / xi--code
 
 **Global name:** `bbugyi200.athena.xi--code` · **State:** completed · **Source run:** `run-f9bda5a59f514eb866d2c800316b71d3`
 

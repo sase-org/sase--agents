@@ -26,6 +26,6 @@
 |---|---|---|
 | [6f.cld.f1.cdx](../bbugyi200.athena.6f.cld.f1.cdx/README.md) | ancestor | completed |
 | [6f.cld](../bbugyi200.athena.6f.cld/README.md) | ancestor | completed |
-| [6f](../../families/bbugyi200.athena.6f.md) (family · 2) | ancestor | active 1, completed 1 |
+| [6f](../../sessions/bbugyi200.athena.6f.md) (session · 2) | ancestor | active 1, completed 1 |
 | [6f.f-0](../bbugyi200.athena.6f.f-0/README.md) | 6f hood | waiting |
 | [6f.f-1](../bbugyi200.athena.6f.f-1/README.md) | 6f hood | active |

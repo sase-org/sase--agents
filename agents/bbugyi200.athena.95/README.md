@@ -1,6 +1,6 @@
 # Agent: 95
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [95](../../users/bbugyi200/machines/athena/hoods/95/README.md) / [95](../../families/bbugyi200.athena.95.md) / 95
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [95](../../users/bbugyi200/machines/athena/hoods/95/README.md) / [95](../../sessions/bbugyi200.athena.95.md) / 95
 
 **Global name:** `bbugyi200.athena.95` · **State:** active · **Source run:** `run-618e45b5e4f8e2c3b2f6e224da474a1e`
 

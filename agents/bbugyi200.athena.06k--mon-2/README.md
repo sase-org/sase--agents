@@ -1,6 +1,6 @@
 # Agent: 06k--mon-2
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [06k](../../users/bbugyi200/machines/athena/hoods/06k/README.md) / [06k](../../families/bbugyi200.athena.06k.md) / 06k--mon-2
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [06k](../../users/bbugyi200/machines/athena/hoods/06k/README.md) / [06k](../../sessions/bbugyi200.athena.06k.md) / 06k--mon-2
 
 **Global name:** `bbugyi200.athena.06k--mon-2` · **State:** failed · **Source run:** `run-8221332e147083ae502c6d09d5d3db8d`
 

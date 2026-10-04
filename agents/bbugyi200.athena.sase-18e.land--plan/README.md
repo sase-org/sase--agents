@@ -1,6 +1,6 @@
 # Agent: sase-18e.land--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-18e](../../users/bbugyi200/machines/athena/hoods/sase-18e/README.md) / [sase-18e.land](../../families/bbugyi200.athena.sase-18e.land.md) / sase-18e.land--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-18e](../../users/bbugyi200/machines/athena/hoods/sase-18e/README.md) / [sase-18e.land](../../sessions/bbugyi200.athena.sase-18e.land.md) / sase-18e.land--plan
 
 **Global name:** `bbugyi200.athena.sase-18e.land--plan` · **State:** active · **Source run:** `run-4d34d0ebda5ddf557fb5b342369632aa`
 

@@ -35,7 +35,7 @@
 | [sase-fq.4](../bbugyi200.athena.sase-fq.4/README.md) | sase-fq hood | active |
 | [sase-fq.6](../bbugyi200.athena.sase-fq.6/README.md) | sase-fq hood | active |
 | [sase-fq.7](../bbugyi200.athena.sase-fq.7/README.md) | sase-fq hood | active |
-| [sase-fq.8.1](../../families/bbugyi200.athena.sase-fq.8.1.md) (family · 2) | sase-fq hood | active 1, completed 1 |
+| [sase-fq.8.1](../../sessions/bbugyi200.athena.sase-fq.8.1.md) (session · 2) | sase-fq hood | active 1, completed 1 |
 | [sase-fq.8.2](../bbugyi200.athena.sase-fq.8.2/README.md) | sase-fq hood | active |
 | [sase-fq.8.3](../bbugyi200.athena.sase-fq.8.3/README.md) | sase-fq hood | active |
 | [sase-fq.8.land](../bbugyi200.athena.sase-fq.8.land/README.md) | sase-fq hood | active |

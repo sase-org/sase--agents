@@ -1,27 +1,5 @@
-# Family: 4q
+# Moved to sessions/bbugyi200.athena.4q.md
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [4q](../users/bbugyi200/machines/athena/hoods/4q/README.md) / 4q
+This agent session page now lives at [`sessions/bbugyi200.athena.4q.md`](../sessions/bbugyi200.athena.4q.md).
 
-Owner: `bbugyi200.athena` · Hood: `4q` · Members: 2
-
-## Lineage
-
-```mermaid
-flowchart TD
-  n0["4q--code [active]"]
-  n1["4q [active]"]
-  n0 --> n1
-```
-
-The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
-
-| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
-|---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 4q--code | active | gpt-5.6-sol / codex | 2026-07-10T19:47:04.317633+00:00 | [1](../agents/bbugyi200.athena.4q--code/README.md#commits) | — | — |
-| <a id="member-root"></a>root | 4q | active | gpt-5.6-sol / codex | 2026-07-10T19:40:29.039971+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.4q/prompt.md) | [Chat](../agents/bbugyi200.athena.4q/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| code | sase | [`c224c98`](https://github.com/sase-org/sase/commit/c224c98bdc679e6894defe0a2a1c40d2754ca06f) | fix(query): propagate project names to ChangeSpec search | 2026-07-10 16:04:04 EDT |
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

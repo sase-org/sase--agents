@@ -31,10 +31,10 @@
 |---|---|---|
 | [sase-142.2](../bbugyi200.athena.sase-142.2/README.md) | sase-142 hood | active |
 | [sase-142.3](../bbugyi200.athena.sase-142.3/README.md) | sase-142 hood | active |
-| [sase-142.4](../../families/bbugyi200.athena.sase-142.4.md) (family · 3) | sase-142 hood | active 3 |
+| [sase-142.4](../../sessions/bbugyi200.athena.sase-142.4.md) (session · 3) | sase-142 hood | active 3 |
 | [sase-142.5.1](../bbugyi200.athena.sase-142.5.1/README.md) | sase-142 hood | active |
 | [sase-142.5.2](../bbugyi200.athena.sase-142.5.2/README.md) | sase-142 hood | active |
 | [sase-142.5.3](../bbugyi200.athena.sase-142.5.3/README.md) | sase-142 hood | active |
 | [sase-142.5.4](../bbugyi200.athena.sase-142.5.4/README.md) | sase-142 hood | active |
 | [sase-142.5.land](../bbugyi200.athena.sase-142.5.land/README.md) | sase-142 hood | active |
-| [sase-142.land](../../families/bbugyi200.athena.sase-142.land.md) (family · 3) | sase-142 hood | active 3 |
+| [sase-142.land](../../sessions/bbugyi200.athena.sase-142.land.md) (session · 3) | sase-142 hood | active 3 |

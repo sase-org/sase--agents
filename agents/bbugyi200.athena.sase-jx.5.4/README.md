@@ -28,7 +28,7 @@
 | [sase-jx.5.3](../bbugyi200.athena.sase-jx.5.3/README.md) | sase-jx.5 hood | active |
 | [sase-jx.5.5.1](../bbugyi200.athena.sase-jx.5.5.1/README.md) | sase-jx.5 hood | active |
 | [sase-jx.5.5.2](../bbugyi200.athena.sase-jx.5.5.2/README.md) | sase-jx.5 hood | active |
-| [sase-jx.5.5.land](../../families/bbugyi200.athena.sase-jx.5.5.land.md) (family · 2) | sase-jx.5 hood | active 1, completed 1 |
+| [sase-jx.5.5.land](../../sessions/bbugyi200.athena.sase-jx.5.5.land.md) (session · 2) | sase-jx.5 hood | active 1, completed 1 |
 | [sase-jx.5.land](../bbugyi200.athena.sase-jx.5.land/README.md) | sase-jx.5 hood | active |
 | [sase-jx.1](../bbugyi200.athena.sase-jx.1/README.md) | sase-jx hood | active |
 | [sase-jx.2](../bbugyi200.athena.sase-jx.2/README.md) | sase-jx hood | active |

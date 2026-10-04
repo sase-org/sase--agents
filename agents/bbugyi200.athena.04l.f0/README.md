@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [04l](../bbugyi200.athena.04l/README.md) | ancestor | completed |
-| [04l.f1](../../families/bbugyi200.athena.04l.f1.md) (family · 2) | 04l hood | active 1, completed 1 |
+| [04l.f1](../../sessions/bbugyi200.athena.04l.f1.md) (session · 2) | 04l hood | active 1, completed 1 |

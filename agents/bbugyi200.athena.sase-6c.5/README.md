@@ -22,7 +22,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6c](../../families/bbugyi200.athena.sase-6c.md) (family · 2) | ancestor | active 1, completed 1 |
+| [sase-6c](../../sessions/bbugyi200.athena.sase-6c.md) (session · 2) | ancestor | active 1, completed 1 |
 | [sase-6c.1](../bbugyi200.athena.sase-6c.1/README.md) | sase-6c hood | dismissed |
 | [sase-6c.2](../bbugyi200.athena.sase-6c.2/README.md) | sase-6c hood | dismissed |
 | [sase-6c.3](../bbugyi200.athena.sase-6c.3/README.md) | sase-6c hood | dismissed |

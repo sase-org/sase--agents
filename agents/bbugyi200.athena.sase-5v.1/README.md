@@ -22,10 +22,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5v](../../families/bbugyi200.athena.sase-5v.md) (family · 3) | ancestor | active 3 |
+| [sase-5v](../../sessions/bbugyi200.athena.sase-5v.md) (session · 3) | ancestor | active 3 |
 | [sase-5v.2](../bbugyi200.athena.sase-5v.2/README.md) | sase-5v hood | dismissed |
 | [sase-5v.3](../bbugyi200.athena.sase-5v.3/README.md) | sase-5v hood | dismissed |
 | [sase-5v.4](../bbugyi200.athena.sase-5v.4/README.md) | sase-5v hood | dismissed |
-| [sase-5v.5](../../families/bbugyi200.athena.sase-5v.5.md) (family · 2) | sase-5v hood | active 1, completed 1 |
+| [sase-5v.5](../../sessions/bbugyi200.athena.sase-5v.5.md) (session · 2) | sase-5v hood | active 1, completed 1 |
 | [sase-5v.6](../bbugyi200.athena.sase-5v.6/README.md) | sase-5v hood | dismissed |
 | [sase-5v.7](../bbugyi200.athena.sase-5v.7/README.md) | sase-5v hood | dismissed |

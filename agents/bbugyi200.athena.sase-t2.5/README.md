@@ -35,6 +35,6 @@
 | [sase-t2.4](../bbugyi200.athena.sase-t2.4/README.md) | sase-t2 hood | active |
 | [sase-t2.6](../bbugyi200.athena.sase-t2.6/README.md) | sase-t2 hood | active |
 | [sase-t2.7.1](../bbugyi200.athena.sase-t2.7.1/README.md) | sase-t2 hood | active |
-| [sase-t2.7.2](../../families/bbugyi200.athena.sase-t2.7.2.md) (family · 2) | sase-t2 hood | active 1, completed 1 |
+| [sase-t2.7.2](../../sessions/bbugyi200.athena.sase-t2.7.2.md) (session · 2) | sase-t2 hood | active 1, completed 1 |
 | [sase-t2.7.land](../bbugyi200.athena.sase-t2.7.land/README.md) | sase-t2 hood | active |
-| [sase-t2.land](../../families/bbugyi200.athena.sase-t2.land.md) (family · 2) | sase-t2 hood | active 1, failed 1 |
+| [sase-t2.land](../../sessions/bbugyi200.athena.sase-t2.land.md) (session · 2) | sase-t2 hood | active 1, failed 1 |

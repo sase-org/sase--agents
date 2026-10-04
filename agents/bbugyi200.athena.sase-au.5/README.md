@@ -30,7 +30,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-au.5.w0](../bbugyi200.athena.sase-au.5.w0/README.md) | descendant | waiting |
-| [sase-au.5.w1](../../families/bbugyi200.athena.sase-au.5.w1.md) (family · 2) | descendant | active 1, completed 1 |
+| [sase-au.5.w1](../../sessions/bbugyi200.athena.sase-au.5.w1.md) (session · 2) | descendant | active 1, completed 1 |
 | [sase-au.1](../bbugyi200.athena.sase-au.1/README.md) | sase-au hood | active |
 | [sase-au.2](../bbugyi200.athena.sase-au.2/README.md) | sase-au hood | active |
 | [sase-au.3](../bbugyi200.athena.sase-au.3/README.md) | sase-au hood | active |

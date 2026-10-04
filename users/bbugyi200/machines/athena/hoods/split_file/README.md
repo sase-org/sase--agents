@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / split\_file
 
-**Global hood:** `bbugyi200.athena.split_file` · **Runs:** 632 · **Families:** 1 · **States:** active 123, completed 228, waiting 281
+**Global hood:** `bbugyi200.athena.split_file` · **Runs:** 632 · **Sessions:** 1 · **States:** active 123, completed 228, waiting 281
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|

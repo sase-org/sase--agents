@@ -24,10 +24,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [00z](../../families/bbugyi200.athena.00z.md) (family · 2) | ancestor | active 1, completed 1 |
+| [00z](../../sessions/bbugyi200.athena.00z.md) (session · 2) | ancestor | active 1, completed 1 |
 | [00z.cld.f1](../bbugyi200.athena.00z.cld.f1/README.md) | descendant | completed |
-| [00z.f0](../../families/bbugyi200.athena.00z.f0.md) (family · 2) | 00z hood | active 1, completed 1 |
-| [00z.f0.f0](../../families/bbugyi200.athena.00z.f0.f0.md) (family · 2) | 00z hood | active 1, completed 1 |
-| [00z.f0.f0.f0](../../families/bbugyi200.athena.00z.f0.f0.f0.md) (family · 2) | 00z hood | active 1, completed 1 |
+| [00z.f0](../../sessions/bbugyi200.athena.00z.f0.md) (session · 2) | 00z hood | active 1, completed 1 |
+| [00z.f0.f0](../../sessions/bbugyi200.athena.00z.f0.f0.md) (session · 2) | 00z hood | active 1, completed 1 |
+| [00z.f0.f0.f0](../../sessions/bbugyi200.athena.00z.f0.f0.f0.md) (session · 2) | 00z hood | active 1, completed 1 |
 | [00z.f0.f0.f1](../bbugyi200.athena.00z.f0.f0.f1/README.md) | 00z hood | active |
-| [00z.f0.f0.f2](../../families/bbugyi200.athena.00z.f0.f0.f2.md) (family · 2) | 00z hood | active 1, completed 1 |
+| [00z.f0.f0.f2](../../sessions/bbugyi200.athena.00z.f0.f0.f2.md) (session · 2) | 00z hood | active 1, completed 1 |

@@ -1,6 +1,6 @@
 # Agent: 1l
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [1l](../../users/bbugyi200/machines/athena/hoods/1l/README.md) / [1l](../../families/bbugyi200.athena.1l.md) / 1l
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [1l](../../users/bbugyi200/machines/athena/hoods/1l/README.md) / [1l](../../sessions/bbugyi200.athena.1l.md) / 1l
 
 **Global name:** `bbugyi200.athena.1l` · **State:** active · **Source run:** `run-4068df92caea684d4377824eef92d6c6`
 

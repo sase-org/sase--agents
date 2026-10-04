@@ -1,6 +1,6 @@
 # Agent: 0lv.w0--gate
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0lv](../../users/bbugyi200/machines/athena/hoods/0lv/README.md) / [0lv.w0](../../families/bbugyi200.athena.0lv.w0.md) / 0lv.w0--gate
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0lv](../../users/bbugyi200/machines/athena/hoods/0lv/README.md) / [0lv.w0](../../sessions/bbugyi200.athena.0lv.w0.md) / 0lv.w0--gate
 
 **Global name:** `bbugyi200.athena.0lv.w0--gate` · **State:** failed · **Source run:** `run-8cfc51f75e42f541d33c137b1dded7b1`
 
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0lv](../../families/bbugyi200.athena.0lv.md) (family · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0lv](../../sessions/bbugyi200.athena.0lv.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |

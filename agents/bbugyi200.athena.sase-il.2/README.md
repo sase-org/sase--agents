@@ -32,12 +32,12 @@
 | [sase-il.1](../bbugyi200.athena.sase-il.1/README.md) | sase-il hood | active |
 | [sase-il.3](../bbugyi200.athena.sase-il.3/README.md) | sase-il hood | active |
 | [sase-il.4](../bbugyi200.athena.sase-il.4/README.md) | sase-il hood | active |
-| [sase-il.5](../../families/bbugyi200.athena.sase-il.5.md) (family · 2) | sase-il hood | active 1, completed 1 |
+| [sase-il.5](../../sessions/bbugyi200.athena.sase-il.5.md) (session · 2) | sase-il hood | active 1, completed 1 |
 | [sase-il.6](../bbugyi200.athena.sase-il.6/README.md) | sase-il hood | active |
 | [sase-il.7.1](../bbugyi200.athena.sase-il.7.1/README.md) | sase-il hood | active |
 | [sase-il.7.2](../bbugyi200.athena.sase-il.7.2/README.md) | sase-il hood | active |
 | [sase-il.7.3](../bbugyi200.athena.sase-il.7.3/README.md) | sase-il hood | active |
 | [sase-il.7.land](../bbugyi200.athena.sase-il.7.land/README.md) | sase-il hood | active |
 | [sase-il.land](../bbugyi200.athena.sase-il.land/README.md) | sase-il hood | active |
-| [sase-il.land.f1](../../families/bbugyi200.athena.sase-il.land.f1.md) (family · 2) | sase-il hood | active 1, completed 1 |
-| [sase-il.land.w1](../../families/bbugyi200.athena.sase-il.land.w1.md) (family · 3) | sase-il hood | active 3 |
+| [sase-il.land.f1](../../sessions/bbugyi200.athena.sase-il.land.f1.md) (session · 2) | sase-il hood | active 1, completed 1 |
+| [sase-il.land.w1](../../sessions/bbugyi200.athena.sase-il.land.w1.md) (session · 3) | sase-il hood | active 3 |

@@ -1,6 +1,6 @@
 # Agent: b1.f2
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [b1](../../users/bbugyi200/machines/athena/hoods/b1/README.md) / [b1.f2](../../families/bbugyi200.athena.b1.f2.md) / b1.f2
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [b1](../../users/bbugyi200/machines/athena/hoods/b1/README.md) / [b1.f2](../../sessions/bbugyi200.athena.b1.f2.md) / b1.f2
 
 **Global name:** `bbugyi200.athena.b1.f2` · **State:** active · **Source run:** `run-e376ed15a85cf85ba73a51a2a36501ce`
 
@@ -21,8 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [b1](../../families/bbugyi200.athena.b1.md) (family · 2) | ancestor | active 1, completed 1 |
+| [b1](../../sessions/bbugyi200.athena.b1.md) (session · 2) | ancestor | active 1, completed 1 |
 | [b1.f2.f0](../bbugyi200.athena.b1.f2.f0/README.md) | descendant | active |
-| [b1.f2.f1](../../families/bbugyi200.athena.b1.f2.f1.md) (family · 2) | descendant | active 1, completed 1 |
+| [b1.f2.f1](../../sessions/bbugyi200.athena.b1.f2.f1.md) (session · 2) | descendant | active 1, completed 1 |
 | [b1.f0](../bbugyi200.athena.b1.f0/README.md) | b1 hood | dismissed |
 | [b1.f1](../bbugyi200.athena.b1.f1/README.md) | b1 hood | dismissed |

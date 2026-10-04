@@ -25,5 +25,5 @@
 |---|---|---|
 | [43.f1.f1](../bbugyi200.athena.43.f1.f1/README.md) | ancestor | completed |
 | [43.f1](../bbugyi200.athena.43.f1/README.md) | ancestor | completed |
-| [43](../../families/bbugyi200.athena.43.md) (family · 2) | ancestor | active 1, completed 1 |
+| [43](../../sessions/bbugyi200.athena.43.md) (session · 2) | ancestor | active 1, completed 1 |
 | [43.f1.f1.f1.cld.f1.f1.cdx.f1.cld](../bbugyi200.athena.43.f1.f1.f1.cld.f1.f1.cdx.f1.cld/README.md) | descendant | completed |

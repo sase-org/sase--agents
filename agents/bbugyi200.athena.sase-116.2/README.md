@@ -34,5 +34,5 @@
 | [sase-116.4](../bbugyi200.athena.sase-116.4/README.md) | sase-116 hood | active |
 | [sase-116.5.1](../bbugyi200.athena.sase-116.5.1/README.md) | sase-116 hood | active |
 | [sase-116.5.2](../bbugyi200.athena.sase-116.5.2/README.md) | sase-116 hood | active |
-| [sase-116.5.land](../../families/bbugyi200.athena.sase-116.5.land.md) (family · 5) | sase-116 hood | active 5 |
-| [sase-116.land](../../families/bbugyi200.athena.sase-116.land.md) (family · 3) | sase-116 hood | active 3 |
+| [sase-116.5.land](../../sessions/bbugyi200.athena.sase-116.5.land.md) (session · 5) | sase-116 hood | active 5 |
+| [sase-116.land](../../sessions/bbugyi200.athena.sase-116.land.md) (session · 3) | sase-116 hood | active 3 |

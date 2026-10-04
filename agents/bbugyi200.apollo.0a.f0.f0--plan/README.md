@@ -1,6 +1,6 @@
 # Agent: 0a.f0.f0--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [0a](../../users/bbugyi200/machines/apollo/hoods/0a/README.md) / [0a.f0.f0](../../families/bbugyi200.apollo.0a.f0.f0.md) / 0a.f0.f0--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [0a](../../users/bbugyi200/machines/apollo/hoods/0a/README.md) / [0a.f0.f0](../../sessions/bbugyi200.apollo.0a.f0.f0.md) / 0a.f0.f0--plan
 
 **Global name:** `bbugyi200.apollo.0a.f0.f0--plan` · **State:** completed · **Source run:** `run-e480d75d65961b7d0b942fc6fec9319c`
 
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0a.f0](../../families/bbugyi200.apollo.0a.f0.md) (family · 3) | ancestor | completed 2, failed 1 |
+| [0a.f0](../../sessions/bbugyi200.apollo.0a.f0.md) (session · 3) | ancestor | completed 2, failed 1 |
 | [0a](../bbugyi200.apollo.0a/README.md) | ancestor | completed |

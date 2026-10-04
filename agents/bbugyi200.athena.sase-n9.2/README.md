@@ -29,7 +29,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-n9.1](../../families/bbugyi200.athena.sase-n9.1.md) (family · 7) | sase-n9 hood | active 1, completed 3, failed 3 |
-| [sase-n9.3](../../families/bbugyi200.athena.sase-n9.3.md) (family · 3) | sase-n9 hood | active 1, completed 1, failed 1 |
-| [sase-n9.4](../../families/bbugyi200.athena.sase-n9.4.md) (family · 3) | sase-n9 hood | active 1, completed 1, failed 1 |
-| [sase-n9.land](../../families/bbugyi200.athena.sase-n9.land.md) (family · 2) | sase-n9 hood | active 1, completed 1 |
+| [sase-n9.1](../../sessions/bbugyi200.athena.sase-n9.1.md) (session · 7) | sase-n9 hood | active 1, completed 3, failed 3 |
+| [sase-n9.3](../../sessions/bbugyi200.athena.sase-n9.3.md) (session · 3) | sase-n9 hood | active 1, completed 1, failed 1 |
+| [sase-n9.4](../../sessions/bbugyi200.athena.sase-n9.4.md) (session · 3) | sase-n9 hood | active 1, completed 1, failed 1 |
+| [sase-n9.land](../../sessions/bbugyi200.athena.sase-n9.land.md) (session · 2) | sase-n9 hood | active 1, completed 1 |

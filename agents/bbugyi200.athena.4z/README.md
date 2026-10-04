@@ -1,6 +1,6 @@
 # Agent: 4z
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [4z](../../users/bbugyi200/machines/athena/hoods/4z/README.md) / [4z](../../families/bbugyi200.athena.4z.md) / 4z
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [4z](../../users/bbugyi200/machines/athena/hoods/4z/README.md) / [4z](../../sessions/bbugyi200.athena.4z.md) / 4z
 
 **Global name:** `bbugyi200.athena.4z` · **State:** active · **Source run:** `run-b67e1a832ecd2aebd12441ad02c920ea`
 

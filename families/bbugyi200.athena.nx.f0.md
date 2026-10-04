@@ -1,34 +1,5 @@
-# Family: nx.f0
+# Moved to sessions/bbugyi200.athena.nx.f0.md
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [nx](../users/bbugyi200/machines/athena/hoods/nx/README.md) / nx.f0
+This agent session page now lives at [`sessions/bbugyi200.athena.nx.f0.md`](../sessions/bbugyi200.athena.nx.f0.md).
 
-Owner: `bbugyi200.athena` · Hood: `nx` · Members: 2
-
-## Lineage
-
-```mermaid
-flowchart TD
-  n0["nx.f0--code [completed]"]
-  n1["nx.f0--plan [active]"]
-  n0 --> n1
-```
-
-The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
-
-| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
-|---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | nx.f0--code | completed | gpt-5.6-sol / codex | 2026-07-29T12:49:24.201393+00:00 | [1](../agents/bbugyi200.athena.nx.f0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.nx.f0--code/chat.md) |
-| <a id="member-plan"></a>plan | nx.f0--plan | active | gpt-5.6-sol / codex | 2026-07-29T12:36:22.300534+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.nx.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.nx.f0--plan/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| code | sase | [`9e5eadc`](https://github.com/sase-org/sase/commit/9e5eadc6b364d218571ea1cbde82f48d72f3d082) | fix: preserve epic bead page URLs | 2026-07-29 09:15:07 EDT |
-
-## Neighbors
-
-| Agent | Relation | State |
-|---|---|---|
-| [nx](bbugyi200.athena.nx.md) (family · 2) | ancestor | active 1, completed 1 |
-| [nx.f0.f0](bbugyi200.athena.nx.f0.f0.md) (family · 2) | descendant | active 1, completed 1 |
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

@@ -1,6 +1,6 @@
 # Agent: ce--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ce](../../users/bbugyi200/machines/athena/hoods/ce/README.md) / [ce](../../families/bbugyi200.athena.ce.md) / ce--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ce](../../users/bbugyi200/machines/athena/hoods/ce/README.md) / [ce](../../sessions/bbugyi200.athena.ce.md) / ce--code
 
 **Global name:** `bbugyi200.athena.ce--code` · **State:** completed · **Source run:** `run-3ee9ef3a8e766c42610eefc00c804676`
 

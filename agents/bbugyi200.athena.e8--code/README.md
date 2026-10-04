@@ -1,6 +1,6 @@
 # Agent: e8--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [e8](../../users/bbugyi200/machines/athena/hoods/e8/README.md) / [e8](../../families/bbugyi200.athena.e8.md) / e8--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [e8](../../users/bbugyi200/machines/athena/hoods/e8/README.md) / [e8](../../sessions/bbugyi200.athena.e8.md) / e8--code
 
 **Global name:** `bbugyi200.athena.e8--code` · **State:** active · **Source run:** `run-b06b3173e8c16220809a908077d1721f`
 

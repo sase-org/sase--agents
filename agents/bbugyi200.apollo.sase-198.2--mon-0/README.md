@@ -1,6 +1,6 @@
 # Agent: sase-198.2--mon-0
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-198](../../users/bbugyi200/machines/apollo/hoods/sase-198/README.md) / [sase-198.2](../../families/bbugyi200.apollo.sase-198.2.md) / sase-198.2--mon-0
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-198](../../users/bbugyi200/machines/apollo/hoods/sase-198/README.md) / [sase-198.2](../../sessions/bbugyi200.apollo.sase-198.2.md) / sase-198.2--mon-0
 
 **Global name:** `bbugyi200.apollo.sase-198.2--mon-0` · **State:** failed · **Source run:** `run-14c909d7e77ae69cfdab9b710462b707`
 
@@ -22,6 +22,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-198.1](../../families/bbugyi200.apollo.sase-198.1.md) (family · 3) | sase-198 hood | active 1, failed 2 |
-| [sase-198.3](../../families/bbugyi200.apollo.sase-198.3.md) (family · 3) | sase-198 hood | completed 2, failed 1 |
+| [sase-198.1](../../sessions/bbugyi200.apollo.sase-198.1.md) (session · 3) | sase-198 hood | active 1, failed 2 |
+| [sase-198.3](../../sessions/bbugyi200.apollo.sase-198.3.md) (session · 3) | sase-198 hood | completed 2, failed 1 |
 | [sase-198.land](../bbugyi200.apollo.sase-198.land/README.md) | sase-198 hood | active |

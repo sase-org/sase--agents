@@ -1,6 +1,6 @@
 # Agent: ez--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ez](../../users/bbugyi200/machines/athena/hoods/ez/README.md) / [ez](../../families/bbugyi200.athena.ez.md) / ez--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ez](../../users/bbugyi200/machines/athena/hoods/ez/README.md) / [ez](../../sessions/bbugyi200.athena.ez.md) / ez--code
 
 **Global name:** `bbugyi200.athena.ez--code` · **State:** completed · **Source run:** `run-e62982d8bed854dd40d6bce9fd02b229`
 

@@ -25,6 +25,6 @@
 |---|---|---|
 | [sase-xq.2](../bbugyi200.athena.sase-xq.2/README.md) | sase-xq hood | active |
 | [sase-xq.3](../bbugyi200.athena.sase-xq.3/README.md) | sase-xq hood | active |
-| [sase-xq.land](../../families/bbugyi200.athena.sase-xq.land.md) (family · 1) | sase-xq hood | active 1 |
+| [sase-xq.land](../../sessions/bbugyi200.athena.sase-xq.land.md) (session · 1) | sase-xq hood | active 1 |
 | [sase-xq.land](../bbugyi200.athena.sase-xq.land/README.md) | sase-xq hood | waiting |
-| [sase-xq.land.r0](../../families/bbugyi200.athena.sase-xq.land.r0.md) (family · 11) | sase-xq hood | active 11 |
+| [sase-xq.land.r0](../../sessions/bbugyi200.athena.sase-xq.land.r0.md) (session · 11) | sase-xq hood | active 11 |

@@ -32,4 +32,4 @@
 | [sase-xz.2](../bbugyi200.athena.sase-xz.2/README.md) | sase-xz hood | active |
 | [sase-xz.3](../bbugyi200.athena.sase-xz.3/README.md) | sase-xz hood | active |
 | [sase-xz.4](../bbugyi200.athena.sase-xz.4/README.md) | sase-xz hood | active |
-| [sase-xz.land](../../families/bbugyi200.athena.sase-xz.land.md) (family · 7) | sase-xz hood | active 7 |
+| [sase-xz.land](../../sessions/bbugyi200.athena.sase-xz.land.md) (session · 7) | sase-xz hood | active 7 |

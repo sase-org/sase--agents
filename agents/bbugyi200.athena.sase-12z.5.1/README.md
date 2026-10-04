@@ -31,7 +31,7 @@
 | [sase-12z.5.2](../bbugyi200.athena.sase-12z.5.2/README.md) | sase-12z.5 hood | active |
 | [sase-12z.5.land](../bbugyi200.athena.sase-12z.5.land/README.md) | sase-12z.5 hood | active |
 | [sase-12z.1](../bbugyi200.athena.sase-12z.1/README.md) | sase-12z hood | active |
-| [sase-12z.2](../../families/bbugyi200.athena.sase-12z.2.md) (family · 9) | sase-12z hood | active 9 |
+| [sase-12z.2](../../sessions/bbugyi200.athena.sase-12z.2.md) (session · 9) | sase-12z hood | active 9 |
 | [sase-12z.3](../bbugyi200.athena.sase-12z.3/README.md) | sase-12z hood | active |
-| [sase-12z.4](../../families/bbugyi200.athena.sase-12z.4.md) (family · 13) | sase-12z hood | active 13 |
-| [sase-12z.land](../../families/bbugyi200.athena.sase-12z.land.md) (family · 5) | sase-12z hood | active 5 |
+| [sase-12z.4](../../sessions/bbugyi200.athena.sase-12z.4.md) (session · 13) | sase-12z hood | active 13 |
+| [sase-12z.land](../../sessions/bbugyi200.athena.sase-12z.land.md) (session · 5) | sase-12z hood | active 5 |

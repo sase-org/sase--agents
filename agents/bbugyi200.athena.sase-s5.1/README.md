@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-s5.2](../bbugyi200.athena.sase-s5.2/README.md) | sase-s5 hood | active |
 | [sase-s5.3](../bbugyi200.athena.sase-s5.3/README.md) | sase-s5 hood | active |
-| [sase-s5.land](../../families/bbugyi200.athena.sase-s5.land.md) (family · 2) | sase-s5 hood | active 2 |
+| [sase-s5.land](../../sessions/bbugyi200.athena.sase-s5.land.md) (session · 2) | sase-s5 hood | active 2 |

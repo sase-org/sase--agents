@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0a6](../../families/bbugyi200.athena.0a6.md) (family · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0a6](../../sessions/bbugyi200.athena.0a6.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
 | [0a6--1--plan](../bbugyi200.athena.0a6--1--plan/README.md) | 0a6 hood | completed |

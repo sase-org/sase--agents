@@ -1,6 +1,6 @@
 # Agent: toobig-50.artifact\_ref\_models.0--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-50](../../users/bbugyi200/machines/athena/hoods/toobig-50/README.md) / [toobig-50.artifact\_ref\_models.0](../../families/bbugyi200.athena.toobig-50.artifact_ref_models.0.md) / toobig-50.artifact\_ref\_models.0--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-50](../../users/bbugyi200/machines/athena/hoods/toobig-50/README.md) / [toobig-50.artifact\_ref\_models.0](../../sessions/bbugyi200.athena.toobig-50.artifact_ref_models.0.md) / toobig-50.artifact\_ref\_models.0--plan
 
 **Global name:** `bbugyi200.athena.toobig-50.artifact_ref_models.0--plan` · **State:** active · **Source run:** `run-5aaa3ceddc7b4eee224bc1e1336204ef`
 

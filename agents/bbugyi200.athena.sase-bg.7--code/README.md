@@ -1,6 +1,6 @@
 # Agent: sase-bg.7--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-bg](../../users/bbugyi200/machines/athena/hoods/sase-bg/README.md) / [sase-bg.7](../../families/bbugyi200.athena.sase-bg.7.md) / sase-bg.7--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-bg](../../users/bbugyi200/machines/athena/hoods/sase-bg/README.md) / [sase-bg.7](../../sessions/bbugyi200.athena.sase-bg.7.md) / sase-bg.7--code
 
 **Global name:** `bbugyi200.athena.sase-bg.7--code` · **State:** completed · **Source run:** `run-c3e76a336d34a5914856700fb67be362`
 
@@ -27,9 +27,9 @@
 | [sase-bg.10](../bbugyi200.athena.sase-bg.10/README.md) | sase-bg hood | active |
 | [sase-bg.2](../bbugyi200.athena.sase-bg.2/README.md) | sase-bg hood | active |
 | [sase-bg.3](../bbugyi200.athena.sase-bg.3/README.md) | sase-bg hood | active |
-| [sase-bg.4](../../families/bbugyi200.athena.sase-bg.4.md) (family · 2) | sase-bg hood | active 1, completed 1 |
+| [sase-bg.4](../../sessions/bbugyi200.athena.sase-bg.4.md) (session · 2) | sase-bg hood | active 1, completed 1 |
 | [sase-bg.5](../bbugyi200.athena.sase-bg.5/README.md) | sase-bg hood | active |
 | [sase-bg.6](../bbugyi200.athena.sase-bg.6/README.md) | sase-bg hood | active |
-| [sase-bg.8](../../families/bbugyi200.athena.sase-bg.8.md) (family · 2) | sase-bg hood | active 1, completed 1 |
+| [sase-bg.8](../../sessions/bbugyi200.athena.sase-bg.8.md) (session · 2) | sase-bg hood | active 1, completed 1 |
 | [sase-bg.9](../bbugyi200.athena.sase-bg.9/README.md) | sase-bg hood | active |
 | [sase-bg.land](../bbugyi200.athena.sase-bg.land/README.md) | sase-bg hood | active |

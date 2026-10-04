@@ -1,6 +1,6 @@
 # Agent: wv.f4.f0--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [wv](../../users/bbugyi200/machines/athena/hoods/wv/README.md) / [wv.f4.f0](../../families/bbugyi200.athena.wv.f4.f0.md) / wv.f4.f0--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [wv](../../users/bbugyi200/machines/athena/hoods/wv/README.md) / [wv.f4.f0](../../sessions/bbugyi200.athena.wv.f4.f0.md) / wv.f4.f0--plan
 
 **Global name:** `bbugyi200.athena.wv.f4.f0--plan` · **State:** active · **Source run:** `run-00ab14fbe03c60e516f552a4ae9cef6d`
 
@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [wv.f4](../../families/bbugyi200.athena.wv.f4.md) (family · 2) | ancestor | active 1, completed 1 |
+| [wv.f4](../../sessions/bbugyi200.athena.wv.f4.md) (session · 2) | ancestor | active 1, completed 1 |
 | [wv](../bbugyi200.athena.wv/README.md) | ancestor | active |
 | [wv.f0](../bbugyi200.athena.wv.f0/README.md) | wv hood | active |
 | [wv.f1](../bbugyi200.athena.wv.f1/README.md) | wv hood | waiting |

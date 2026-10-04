@@ -21,8 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ws.1](../../families/bbugyi200.kellys_mbp.sase-ws.1.md) (family · 3) | ancestor | active 1, dismissed 2 |
-| [sase-ws.1.f1](../../families/bbugyi200.kellys_mbp.sase-ws.1.f1.md) (family · 2) | sase-ws.1 hood | completed 1, failed 1 |
+| [sase-ws.1](../../sessions/bbugyi200.kellys_mbp.sase-ws.1.md) (session · 3) | ancestor | active 1, dismissed 2 |
+| [sase-ws.1.f1](../../sessions/bbugyi200.kellys_mbp.sase-ws.1.f1.md) (session · 2) | sase-ws.1 hood | completed 1, failed 1 |
 | [sase-ws.2](../bbugyi200.kellys_mbp.sase-ws.2/README.md) | sase-ws hood | active |
 | [sase-ws.3](../bbugyi200.kellys_mbp.sase-ws.3/README.md) | sase-ws hood | dismissed |
 | [sase-ws.4](../bbugyi200.kellys_mbp.sase-ws.4/README.md) | sase-ws hood | dismissed |

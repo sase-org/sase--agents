@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / sase-w3
 
-**Global hood:** `bbugyi200.apollo.sase-w3` · **Runs:** 15 · **Families:** 5 · **States:** active 2, completed 8, failed 4, waiting 1
+**Global hood:** `bbugyi200.apollo.sase-w3` · **Runs:** 15 · **Sessions:** 5 · **States:** active 2, completed 8, failed 4, waiting 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|

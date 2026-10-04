@@ -35,5 +35,5 @@
 | [sase-8y.5](../bbugyi200.athena.sase-8y.5/README.md) | sase-8y hood | active |
 | [sase-8y.6](../bbugyi200.athena.sase-8y.6/README.md) | sase-8y hood | active |
 | [sase-8y.7](../bbugyi200.athena.sase-8y.7/README.md) | sase-8y hood | active |
-| [sase-8y.land](../../families/bbugyi200.athena.sase-8y.land.md) (family · 2) | sase-8y hood | active 1, completed 1 |
+| [sase-8y.land](../../sessions/bbugyi200.athena.sase-8y.land.md) (session · 2) | sase-8y hood | active 1, completed 1 |
 | [sase-8y.land](../bbugyi200.athena.sase-8y.land/README.md) | sase-8y hood | completed |

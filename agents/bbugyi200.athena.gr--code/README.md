@@ -1,6 +1,6 @@
 # Agent: gr--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [gr](../../users/bbugyi200/machines/athena/hoods/gr/README.md) / [gr](../../families/bbugyi200.athena.gr.md) / gr--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [gr](../../users/bbugyi200/machines/athena/hoods/gr/README.md) / [gr](../../sessions/bbugyi200.athena.gr.md) / gr--code
 
 **Global name:** `bbugyi200.athena.gr--code` · **State:** completed · **Source run:** `run-7759132b52aab1e9427012c26291a1db`
 
@@ -28,4 +28,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [gr.w0](../bbugyi200.athena.gr.w0/README.md) | descendant | dismissed |
-| [gr.w2](../../families/bbugyi200.athena.gr.w2.md) (family · 2) | descendant | active 1, completed 1 |
+| [gr.w2](../../sessions/bbugyi200.athena.gr.w2.md) (session · 2) | descendant | active 1, completed 1 |

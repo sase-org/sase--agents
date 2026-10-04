@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [vo.f0](../../families/bbugyi200.athena.vo.f0.md) (family · 2) | ancestor | active 1, completed 1 |
-| [vo](../../families/bbugyi200.athena.vo.md) (family · 2) | ancestor | active 1, completed 1 |
+| [vo.f0](../../sessions/bbugyi200.athena.vo.f0.md) (session · 2) | ancestor | active 1, completed 1 |
+| [vo](../../sessions/bbugyi200.athena.vo.md) (session · 2) | ancestor | active 1, completed 1 |

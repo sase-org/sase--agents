@@ -1,6 +1,6 @@
 # Agent: sase-tk.4--1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-tk](../../users/bbugyi200/machines/athena/hoods/sase-tk/README.md) / [sase-tk.4](../../families/bbugyi200.athena.sase-tk.4.md) / sase-tk.4--1
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-tk](../../users/bbugyi200/machines/athena/hoods/sase-tk/README.md) / [sase-tk.4](../../sessions/bbugyi200.athena.sase-tk.4.md) / sase-tk.4--1
 
 **Global name:** `bbugyi200.athena.sase-tk.4--1` · **State:** active · **Source run:** `run-a7369f10df26989fa51cb6c63eff5e6b`
 
@@ -31,4 +31,4 @@
 | [sase-tk.1](../bbugyi200.athena.sase-tk.1/README.md) | sase-tk hood | active |
 | [sase-tk.2](../bbugyi200.athena.sase-tk.2/README.md) | sase-tk hood | active |
 | [sase-tk.3](../bbugyi200.athena.sase-tk.3/README.md) | sase-tk hood | active |
-| [sase-tk.land](../../families/bbugyi200.athena.sase-tk.land.md) (family · 2) | sase-tk hood | active 1, completed 1 |
+| [sase-tk.land](../../sessions/bbugyi200.athena.sase-tk.land.md) (session · 2) | sase-tk hood | active 1, completed 1 |

@@ -1,27 +1,5 @@
-# Family: mw
+# Moved to sessions/bbugyi200.athena.mw.md
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [mw](../users/bbugyi200/machines/athena/hoods/mw/README.md) / mw
+This agent session page now lives at [`sessions/bbugyi200.athena.mw.md`](../sessions/bbugyi200.athena.mw.md).
 
-Owner: `bbugyi200.athena` · Hood: `mw` · Members: 2
-
-## Lineage
-
-```mermaid
-flowchart TD
-  n0["mw--plan [active]"]
-  n1["mw--code [completed]"]
-  n0 --> n1
-```
-
-The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
-
-| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
-|---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | mw--plan | active | opus / claude | 2026-07-28T13:18:58.864842+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.mw--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.mw--plan/chat.md) |
-| <a id="member-code"></a>code | mw--code | completed | gpt-5.6-sol / codex | 2026-07-28T13:26:14.959290+00:00 | [1](../agents/bbugyi200.athena.mw--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.mw--code/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| code | sase | [`61013b2`](https://github.com/sase-org/sase/commit/61013b22957ca7c8c35c0bd93be4c2a10fc59c15) | feat(ace): render wait fields as responsive lanes | 2026-07-28 09:53:24 EDT |
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

@@ -17,11 +17,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [d7.w1.f1.f0](../../families/bbugyi200.athena.d7.w1.f1.f0.md) (family · 2) | ancestor | active 1, completed 1 |
-| [d7.w1.f1](../../families/bbugyi200.athena.d7.w1.f1.md) (family · 2) | ancestor | active 1, completed 1 |
-| [d7.w1](../../families/bbugyi200.athena.d7.w1.md) (family · 2) | ancestor | active 1, completed 1 |
+| [d7.w1.f1.f0](../../sessions/bbugyi200.athena.d7.w1.f1.f0.md) (session · 2) | ancestor | active 1, completed 1 |
+| [d7.w1.f1](../../sessions/bbugyi200.athena.d7.w1.f1.md) (session · 2) | ancestor | active 1, completed 1 |
+| [d7.w1](../../sessions/bbugyi200.athena.d7.w1.md) (session · 2) | ancestor | active 1, completed 1 |
 | [d7](../bbugyi200.athena.d7/README.md) | ancestor | dismissed |
-| [d7.w1.f1.f0.f0](../../families/bbugyi200.athena.d7.w1.f1.f0.f0.md) (family · 2) | d7.w1.f1.f0 hood | active 1, completed 1 |
+| [d7.w1.f1.f0.f0](../../sessions/bbugyi200.athena.d7.w1.f1.f0.f0.md) (session · 2) | d7.w1.f1.f0 hood | active 1, completed 1 |
 | [d7.w1.f1.f0.f0.f0](../bbugyi200.athena.d7.w1.f1.f0.f0.f0/README.md) | d7.w1.f1.f0 hood | dismissed |
 | [d7.w1.f1.w0](../bbugyi200.athena.d7.w1.f1.w0/README.md) | d7.w1.f1 hood | dismissed |
 | [d7.w1.f0.w0](../bbugyi200.athena.d7.w1.f0.w0/README.md) | d7.w1 hood | waiting |

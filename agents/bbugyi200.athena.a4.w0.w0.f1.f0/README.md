@@ -17,8 +17,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [a4.w0.w0.f1](../../families/bbugyi200.athena.a4.w0.w0.f1.md) (family · 2) | ancestor | active 1, completed 1 |
-| [a4.w0.w0](../../families/bbugyi200.athena.a4.w0.w0.md) (family · 2) | ancestor | active 1, completed 1 |
-| [a4.w0](../../families/bbugyi200.athena.a4.w0.md) (family · 2) | ancestor | active 1, completed 1 |
-| [a4](../../families/bbugyi200.athena.a4.md) (family · 2) | ancestor | active 1, completed 1 |
-| [a4.w0.w0.f0](../../families/bbugyi200.athena.a4.w0.w0.f0.md) (family · 2) | a4.w0.w0 hood | active 1, completed 1 |
+| [a4.w0.w0.f1](../../sessions/bbugyi200.athena.a4.w0.w0.f1.md) (session · 2) | ancestor | active 1, completed 1 |
+| [a4.w0.w0](../../sessions/bbugyi200.athena.a4.w0.w0.md) (session · 2) | ancestor | active 1, completed 1 |
+| [a4.w0](../../sessions/bbugyi200.athena.a4.w0.md) (session · 2) | ancestor | active 1, completed 1 |
+| [a4](../../sessions/bbugyi200.athena.a4.md) (session · 2) | ancestor | active 1, completed 1 |
+| [a4.w0.w0.f0](../../sessions/bbugyi200.athena.a4.w0.w0.f0.md) (session · 2) | a4.w0.w0 hood | active 1, completed 1 |

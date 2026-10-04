@@ -32,4 +32,4 @@
 | [sase-lz.1](../bbugyi200.athena.sase-lz.1/README.md) | sase-lz hood | active |
 | [sase-lz.2](../bbugyi200.athena.sase-lz.2/README.md) | sase-lz hood | active |
 | [sase-lz.3](../bbugyi200.athena.sase-lz.3/README.md) | sase-lz hood | active |
-| [sase-lz.land](../../families/bbugyi200.athena.sase-lz.land.md) (family · 4) | sase-lz hood | active 1, completed 2, failed 1 |
+| [sase-lz.land](../../sessions/bbugyi200.athena.sase-lz.land.md) (session · 4) | sase-lz hood | active 1, completed 2, failed 1 |

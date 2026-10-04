@@ -25,5 +25,5 @@
 |---|---|---|
 | [s.w1.f1](../bbugyi200.athena.s.w1.f1/README.md) | ancestor | completed |
 | [s.w1](../bbugyi200.athena.s.w1/README.md) | ancestor | completed |
-| [s](../../families/bbugyi200.athena.s.md) (family · 2) | ancestor | active 1, completed 1 |
-| [s.w1.w1](../../families/bbugyi200.athena.s.w1.w1.md) (family · 2) | s.w1 hood | active 1, completed 1 |
+| [s](../../sessions/bbugyi200.athena.s.md) (session · 2) | ancestor | active 1, completed 1 |
+| [s.w1.w1](../../sessions/bbugyi200.athena.s.w1.w1.md) (session · 2) | s.w1 hood | active 1, completed 1 |

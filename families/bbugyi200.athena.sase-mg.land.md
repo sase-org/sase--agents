@@ -1,37 +1,5 @@
-# Family: sase-mg.land
+# Moved to sessions/bbugyi200.athena.sase-mg.land.md
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-mg](../users/bbugyi200/machines/athena/hoods/sase-mg/README.md) / sase-mg.land
+This agent session page now lives at [`sessions/bbugyi200.athena.sase-mg.land.md`](../sessions/bbugyi200.athena.sase-mg.land.md).
 
-Owner: `bbugyi200.athena` · Hood: `sase-mg` · Members: 2 · Bead: [sase-mg](https://github.com/sase-org/sase--beads/blob/main/pages/sase-mg/README.md)
-
-## Lineage
-
-```mermaid
-flowchart TD
-  n0["sase-mg.land--code [completed]"]
-  n1["sase-mg.land--plan [active]"]
-  n0 --> n1
-```
-
-The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
-
-| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
-|---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-mg.land--code | completed | gpt-5.5 / codex | 2026-08-15T22:41:06.636778+00:00 | [1](../agents/bbugyi200.athena.sase-mg.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-mg.land--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-mg.land--plan | active | gpt-5.6-sol / codex | 2026-08-15T22:31:26.784206+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-mg.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-mg.land--plan/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| code | sase | [`9d9d499`](https://github.com/sase-org/sase/commit/9d9d49959146740f171753547ad32145fbcb0d3e) | build(deps): require powerful variable core release | 2026-08-15 18:56:15 EDT |
-
-## Neighbors
-
-| Agent | Relation | State |
-|---|---|---|
-| [sase-mg.land.w1](bbugyi200.athena.sase-mg.land.w1.md) (family · 4) | descendant | active 1, completed 1, failed 2 |
-| [sase-mg.1](../agents/bbugyi200.athena.sase-mg.1/README.md) | sase-mg hood | active |
-| [sase-mg.2](../agents/bbugyi200.athena.sase-mg.2/README.md) | sase-mg hood | active |
-| [sase-mg.3](../agents/bbugyi200.athena.sase-mg.3/README.md) | sase-mg hood | active |
-| [sase-mg.4](../agents/bbugyi200.athena.sase-mg.4/README.md) | sase-mg hood | active |
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

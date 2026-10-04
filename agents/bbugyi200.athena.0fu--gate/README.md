@@ -1,6 +1,6 @@
 # Agent: 0fu--gate
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0fu](../../users/bbugyi200/machines/athena/hoods/0fu/README.md) / [0fu](../../families/bbugyi200.athena.0fu.md) / 0fu--gate
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0fu](../../users/bbugyi200/machines/athena/hoods/0fu/README.md) / [0fu](../../sessions/bbugyi200.athena.0fu.md) / 0fu--gate
 
 **Global name:** `bbugyi200.athena.0fu--gate` · **State:** failed · **Source run:** `run-433441249411800d313a3743b5fecd33`
 

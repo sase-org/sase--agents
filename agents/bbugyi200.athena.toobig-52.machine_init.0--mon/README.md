@@ -1,6 +1,6 @@
 # Agent: toobig-52.machine\_init.0--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-52](../../users/bbugyi200/machines/athena/hoods/toobig-52/README.md) / [toobig-52.machine\_init.0](../../families/bbugyi200.athena.toobig-52.machine_init.0.md) / toobig-52.machine\_init.0--mon
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-52](../../users/bbugyi200/machines/athena/hoods/toobig-52/README.md) / [toobig-52.machine\_init.0](../../sessions/bbugyi200.athena.toobig-52.machine_init.0.md) / toobig-52.machine\_init.0--mon
 
 **Global name:** `bbugyi200.athena.toobig-52.machine_init.0--mon` · **State:** active · **Source run:** `run-d22d80dff24d360ab7f020c5ea6334e7`
 

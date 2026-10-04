@@ -1,6 +1,6 @@
 # Agent: 0jq.f0--mon-0
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0jq](../../users/bbugyi200/machines/athena/hoods/0jq/README.md) / [0jq.f0](../../families/bbugyi200.athena.0jq.f0.md) / 0jq.f0--mon-0
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0jq](../../users/bbugyi200/machines/athena/hoods/0jq/README.md) / [0jq.f0](../../sessions/bbugyi200.athena.0jq.f0.md) / 0jq.f0--mon-0
 
 **Global name:** `bbugyi200.athena.0jq.f0--mon-0` · **State:** active · **Source run:** `run-caa75dcd9239129f5cbf6dd9a3637675`
 
@@ -17,4 +17,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0jq](../../families/bbugyi200.athena.0jq.md) (family · 5) | ancestor | active 1, completed 2, failed 2 |
+| [0jq](../../sessions/bbugyi200.athena.0jq.md) (session · 5) | ancestor | active 1, completed 2, failed 2 |

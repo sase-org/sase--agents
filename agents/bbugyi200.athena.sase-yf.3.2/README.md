@@ -24,13 +24,13 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-yf.3.1](../bbugyi200.athena.sase-yf.3.1/README.md) | sase-yf.3 hood | active |
-| [sase-yf.3.land](../../families/bbugyi200.athena.sase-yf.3.land.md) (family · 3) | sase-yf.3 hood | active 1, completed 1, failed 1 |
+| [sase-yf.3.land](../../sessions/bbugyi200.athena.sase-yf.3.land.md) (session · 3) | sase-yf.3 hood | active 1, completed 1, failed 1 |
 | [sase-yf.3.land](../bbugyi200.athena.sase-yf.3.land/README.md) | sase-yf.3 hood | waiting |
 | [sase-yf.1](../bbugyi200.athena.sase-yf.1/README.md) | sase-yf hood | active |
 | [sase-yf.2](../bbugyi200.athena.sase-yf.2/README.md) | sase-yf hood | active |
-| [sase-yf.land](../../families/bbugyi200.athena.sase-yf.land.md) (family · 3) | sase-yf hood | active 3 |
+| [sase-yf.land](../../sessions/bbugyi200.athena.sase-yf.land.md) (session · 3) | sase-yf hood | active 3 |
 | [sase-yf.land.w0.w0](../bbugyi200.athena.sase-yf.land.w0.w0/README.md) | sase-yf hood | waiting |
 | [sase-yf.land.w0.w1](../bbugyi200.athena.sase-yf.land.w0.w1/README.md) | sase-yf hood | active |
 | [sase-yf.land.w1](../bbugyi200.athena.sase-yf.land.w1/README.md) | sase-yf hood | waiting |
 | [sase-yf.land.w2.w0](../bbugyi200.athena.sase-yf.land.w2.w0/README.md) | sase-yf hood | waiting |
-| [sase-yf.land.w3](../../families/bbugyi200.athena.sase-yf.land.w3.md) (family · 3) | sase-yf hood | active 1, failed 2 |
+| [sase-yf.land.w3](../../sessions/bbugyi200.athena.sase-yf.land.w3.md) (session · 3) | sase-yf hood | active 1, failed 2 |

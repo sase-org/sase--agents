@@ -27,4 +27,4 @@
 | [0ar](../bbugyi200.athena.0ar/README.md) | ancestor | active |
 | [0ar.f0](../bbugyi200.athena.0ar.f0/README.md) | 0ar hood | active |
 | [0ar.f0.f0](../bbugyi200.athena.0ar.f0.f0/README.md) | 0ar hood | active |
-| [0ar.f0.f1](../../families/bbugyi200.athena.0ar.f0.f1.md) (family · 3) | 0ar hood | active 1, failed 2 |
+| [0ar.f0.f1](../../sessions/bbugyi200.athena.0ar.f0.f1.md) (session · 3) | 0ar hood | active 1, failed 2 |

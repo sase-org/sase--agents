@@ -29,5 +29,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-17a.1](../../families/bbugyi200.athena.sase-17a.1.md) (family · 3) | sase-17a hood | active 3 |
+| [sase-17a.1](../../sessions/bbugyi200.athena.sase-17a.1.md) (session · 3) | sase-17a hood | active 3 |
 | [sase-17a.land](../bbugyi200.athena.sase-17a.land/README.md) | sase-17a hood | active |

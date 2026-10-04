@@ -29,8 +29,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-p4.1](../../families/bbugyi200.athena.sase-p4.1.md) (family · 5) | sase-p4 hood | active 5 |
-| [sase-p4.3](../../families/bbugyi200.athena.sase-p4.3.md) (family · 9) | sase-p4 hood | active 9 |
-| [sase-p4.4](../../families/bbugyi200.athena.sase-p4.4.md) (family · 9) | sase-p4 hood | active 9 |
+| [sase-p4.1](../../sessions/bbugyi200.athena.sase-p4.1.md) (session · 5) | sase-p4 hood | active 5 |
+| [sase-p4.3](../../sessions/bbugyi200.athena.sase-p4.3.md) (session · 9) | sase-p4 hood | active 9 |
+| [sase-p4.4](../../sessions/bbugyi200.athena.sase-p4.4.md) (session · 9) | sase-p4 hood | active 9 |
 | [sase-p4.5](../bbugyi200.athena.sase-p4.5/README.md) | sase-p4 hood | active |
 | [sase-p4.land](../bbugyi200.athena.sase-p4.land/README.md) | sase-p4 hood | active |

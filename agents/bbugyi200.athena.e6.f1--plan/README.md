@@ -1,6 +1,6 @@
 # Agent: e6.f1--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [e6](../../users/bbugyi200/machines/athena/hoods/e6/README.md) / [e6.f1](../../families/bbugyi200.athena.e6.f1.md) / e6.f1--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [e6](../../users/bbugyi200/machines/athena/hoods/e6/README.md) / [e6.f1](../../sessions/bbugyi200.athena.e6.f1.md) / e6.f1--plan
 
 **Global name:** `bbugyi200.athena.e6.f1--plan` · **State:** active · **Source run:** `run-3847fd513171fd64e11ec41513b91273`
 
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [e6](../../families/bbugyi200.athena.e6.md) (family · 2) | ancestor | active 1, completed 1 |
+| [e6](../../sessions/bbugyi200.athena.e6.md) (session · 2) | ancestor | active 1, completed 1 |
 | [e6.6.verify](../bbugyi200.athena.e6.6.verify/README.md) | e6 hood | failed |

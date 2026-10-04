@@ -27,7 +27,7 @@
 | [9e.f1.f2.f1](../bbugyi200.athena.9e.f1.f2.f1/README.md) | ancestor | completed |
 | [9e.f1.f2](../bbugyi200.athena.9e.f1.f2/README.md) | ancestor | completed |
 | [9e.f1](../bbugyi200.athena.9e.f1/README.md) | ancestor | completed |
-| [9e](../../families/bbugyi200.athena.9e.md) (family · 2) | ancestor | active 1, completed 1 |
+| [9e](../../sessions/bbugyi200.athena.9e.md) (session · 2) | ancestor | active 1, completed 1 |
 | [9e.f1.f2.w1](../bbugyi200.athena.9e.f1.f2.w1/README.md) | 9e.f1.f2 hood | completed |
 | [9e.f1.f1](../bbugyi200.athena.9e.f1.f1/README.md) | 9e.f1 hood | completed |
 | [9e.f1.f1.f1](../bbugyi200.athena.9e.f1.f1.f1/README.md) | 9e.f1 hood | completed |

@@ -35,10 +35,10 @@
 | [sase-16n.11.1](../bbugyi200.athena.sase-16n.11.1/README.md) | sase-16n.11 hood | active |
 | [sase-16n.11.2](../bbugyi200.athena.sase-16n.11.2/README.md) | sase-16n.11 hood | active |
 | [sase-16n.11.3](../bbugyi200.athena.sase-16n.11.3/README.md) | sase-16n.11 hood | active |
-| [sase-16n.11.4](../../families/bbugyi200.athena.sase-16n.11.4.md) (family · 5) | sase-16n.11 hood | active 5 |
+| [sase-16n.11.4](../../sessions/bbugyi200.athena.sase-16n.11.4.md) (session · 5) | sase-16n.11 hood | active 5 |
 | [sase-16n.11.5](../bbugyi200.athena.sase-16n.11.5/README.md) | sase-16n.11 hood | active |
 | [sase-16n.11.6](../bbugyi200.athena.sase-16n.11.6/README.md) | sase-16n.11 hood | active |
-| [sase-16n.11.land](../../families/bbugyi200.athena.sase-16n.11.land.md) (family · 3) | sase-16n.11 hood | active 3 |
+| [sase-16n.11.land](../../sessions/bbugyi200.athena.sase-16n.11.land.md) (session · 3) | sase-16n.11 hood | active 3 |
 | [sase-16n.1](../bbugyi200.athena.sase-16n.1/README.md) | sase-16n hood | active |
 | [sase-16n.10](../bbugyi200.athena.sase-16n.10/README.md) | sase-16n hood | active |
 | [sase-16n.2](../bbugyi200.athena.sase-16n.2/README.md) | sase-16n hood | active |
@@ -49,4 +49,4 @@
 | [sase-16n.7](../bbugyi200.athena.sase-16n.7/README.md) | sase-16n hood | active |
 | [sase-16n.8](../bbugyi200.athena.sase-16n.8/README.md) | sase-16n hood | active |
 | [sase-16n.9](../bbugyi200.athena.sase-16n.9/README.md) | sase-16n hood | active |
-| [sase-16n.land](../../families/bbugyi200.athena.sase-16n.land.md) (family · 3) | sase-16n hood | active 3 |
+| [sase-16n.land](../../sessions/bbugyi200.athena.sase-16n.land.md) (session · 3) | sase-16n hood | active 3 |

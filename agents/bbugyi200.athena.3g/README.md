@@ -1,6 +1,6 @@
 # Agent: 3g
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [3g](../../users/bbugyi200/machines/athena/hoods/3g/README.md) / [3g](../../families/bbugyi200.athena.3g.md) / 3g
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [3g](../../users/bbugyi200/machines/athena/hoods/3g/README.md) / [3g](../../sessions/bbugyi200.athena.3g.md) / 3g
 
 **Global name:** `bbugyi200.athena.3g` · **State:** active · **Source run:** `run-a10494b8f2e022e9a19d263bcd338050`
 

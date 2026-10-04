@@ -35,6 +35,6 @@
 | [sase-9r.4](../bbugyi200.athena.sase-9r.4/README.md) | sase-9r hood | active |
 | [sase-9r.5](../bbugyi200.athena.sase-9r.5/README.md) | sase-9r hood | active |
 | [sase-9r.6](../bbugyi200.athena.sase-9r.6/README.md) | sase-9r hood | active |
-| [sase-9r.7](../../families/bbugyi200.athena.sase-9r.7.md) (family · 2) | sase-9r hood | active 1, completed 1 |
+| [sase-9r.7](../../sessions/bbugyi200.athena.sase-9r.7.md) (session · 2) | sase-9r hood | active 1, completed 1 |
 | [sase-9r.7](../bbugyi200.athena.sase-9r.7/README.md) | sase-9r hood | completed |
 | [sase-9r.land](../bbugyi200.athena.sase-9r.land/README.md) | sase-9r hood | active |

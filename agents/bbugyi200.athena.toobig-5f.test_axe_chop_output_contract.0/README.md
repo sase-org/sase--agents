@@ -29,4 +29,4 @@
 |---|---|---|
 | [toobig-5f.test\_axe\_chop\_wait\_checks.0](../bbugyi200.athena.toobig-5f.test_axe_chop_wait_checks.0/README.md) | toobig-5f hood | active |
 | [toobig-5f.test\_notification\_custom\_gate.0](../bbugyi200.athena.toobig-5f.test_notification_custom_gate.0/README.md) | toobig-5f hood | active |
-| [toobig-5f.test\_procs\_facade.0](../../families/bbugyi200.athena.toobig-5f.test_procs_facade.0.md) (family · 3) | toobig-5f hood | active 3 |
+| [toobig-5f.test\_procs\_facade.0](../../sessions/bbugyi200.athena.toobig-5f.test_procs_facade.0.md) (session · 3) | toobig-5f hood | active 3 |

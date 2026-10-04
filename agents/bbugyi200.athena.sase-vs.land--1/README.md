@@ -1,6 +1,6 @@
 # Agent: sase-vs.land--1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-vs](../../users/bbugyi200/machines/athena/hoods/sase-vs/README.md) / [sase-vs.land](../../families/bbugyi200.athena.sase-vs.land.md) / sase-vs.land--1
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-vs](../../users/bbugyi200/machines/athena/hoods/sase-vs/README.md) / [sase-vs.land](../../sessions/bbugyi200.athena.sase-vs.land.md) / sase-vs.land--1
 
 **Global name:** `bbugyi200.athena.sase-vs.land--1` · **State:** active · **Source run:** `run-56eee1e40a1236ecb699a492c622e00c`
 

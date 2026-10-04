@@ -1,6 +1,6 @@
 # Agent: sase-ei.1--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ei](../../users/bbugyi200/machines/athena/hoods/sase-ei/README.md) / [sase-ei.1](../../families/bbugyi200.athena.sase-ei.1.md) / sase-ei.1--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ei](../../users/bbugyi200/machines/athena/hoods/sase-ei/README.md) / [sase-ei.1](../../sessions/bbugyi200.athena.sase-ei.1.md) / sase-ei.1--plan
 
 **Global name:** `bbugyi200.athena.sase-ei.1--plan` · **State:** active · **Source run:** `run-871877819034b384916c4ce6d5995610`
 
@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ei.2](../bbugyi200.athena.sase-ei.2/README.md) | sase-ei hood | active |
-| [sase-ei.3](../../families/bbugyi200.athena.sase-ei.3.md) (family · 2) | sase-ei hood | active 1, completed 1 |
-| [sase-ei.4](../../families/bbugyi200.athena.sase-ei.4.md) (family · 2) | sase-ei hood | active 2 |
+| [sase-ei.3](../../sessions/bbugyi200.athena.sase-ei.3.md) (session · 2) | sase-ei hood | active 1, completed 1 |
+| [sase-ei.4](../../sessions/bbugyi200.athena.sase-ei.4.md) (session · 2) | sase-ei hood | active 2 |
 | [sase-ei.5](../bbugyi200.athena.sase-ei.5/README.md) | sase-ei hood | waiting |
 | [sase-ei.land](../bbugyi200.athena.sase-ei.land/README.md) | sase-ei hood | waiting |

@@ -17,5 +17,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [96](../../families/bbugyi200.athena.96.md) (family · 2) | ancestor | active 1, completed 1 |
-| [96.f1](../../families/bbugyi200.athena.96.f1.md) (family · 2) | 96 hood | active 1, completed 1 |
+| [96](../../sessions/bbugyi200.athena.96.md) (session · 2) | ancestor | active 1, completed 1 |
+| [96.f1](../../sessions/bbugyi200.athena.96.f1.md) (session · 2) | 96 hood | active 1, completed 1 |

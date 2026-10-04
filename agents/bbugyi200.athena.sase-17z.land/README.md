@@ -28,6 +28,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-17z.1](../../families/bbugyi200.athena.sase-17z.1.md) (family · 3) | sase-17z hood | active 3 |
+| [sase-17z.1](../../sessions/bbugyi200.athena.sase-17z.1.md) (session · 3) | sase-17z hood | active 3 |
 | [sase-17z.2](../bbugyi200.athena.sase-17z.2/README.md) | sase-17z hood | active |
 | [sase-17z.3](../bbugyi200.athena.sase-17z.3/README.md) | sase-17z hood | active |

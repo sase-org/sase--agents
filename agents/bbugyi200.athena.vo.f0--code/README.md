@@ -1,6 +1,6 @@
 # Agent: vo.f0--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [vo](../../users/bbugyi200/machines/athena/hoods/vo/README.md) / [vo.f0](../../families/bbugyi200.athena.vo.f0.md) / vo.f0--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [vo](../../users/bbugyi200/machines/athena/hoods/vo/README.md) / [vo.f0](../../sessions/bbugyi200.athena.vo.f0.md) / vo.f0--code
 
 **Global name:** `bbugyi200.athena.vo.f0--code` · **State:** completed · **Source run:** `run-80e5a09e2432bdf19ad85f606baf1c06`
 
@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [vo](../../families/bbugyi200.athena.vo.md) (family · 2) | ancestor | active 1, completed 1 |
+| [vo](../../sessions/bbugyi200.athena.vo.md) (session · 2) | ancestor | active 1, completed 1 |
 | [vo.f0.f0](../bbugyi200.athena.vo.f0.f0/README.md) | descendant | active |

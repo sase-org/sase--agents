@@ -1,6 +1,6 @@
 # Agent: k3--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [k3](../../users/bbugyi200/machines/athena/hoods/k3/README.md) / [k3](../../families/bbugyi200.athena.k3.md) / k3--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [k3](../../users/bbugyi200/machines/athena/hoods/k3/README.md) / [k3](../../sessions/bbugyi200.athena.k3.md) / k3--plan
 
 **Global name:** `bbugyi200.athena.k3--plan` · **State:** active · **Source run:** `run-12e7f8e706655328e0929444e87d2057`
 

@@ -1,27 +1,5 @@
-# Family: uz
+# Moved to sessions/bbugyi200.athena.uz.md
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [uz](../users/bbugyi200/machines/athena/hoods/uz/README.md) / uz
+This agent session page now lives at [`sessions/bbugyi200.athena.uz.md`](../sessions/bbugyi200.athena.uz.md).
 
-Owner: `bbugyi200.athena` · Hood: `uz` · Members: 2
-
-## Lineage
-
-```mermaid
-flowchart TD
-  n0["uz--code [completed]"]
-  n1["uz--plan [active]"]
-  n0 --> n1
-```
-
-The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
-
-| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
-|---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | uz--code | completed | sonnet / claude | 2026-08-07T18:55:33.102989+00:00 | [1](../agents/bbugyi200.athena.uz--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.uz--code/chat.md) |
-| <a id="member-plan"></a>plan | uz--plan | active | opus / claude | 2026-08-07T18:43:07.395005+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.uz--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.uz--plan/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| code | sase | [`41103b5`](https://github.com/sase-org/sase/commit/41103b594bd852f35e798961a5a7706f4f498246) | fix(ace): route ChangeSpec navigation through the Artifacts PRs sub-tab | 2026-08-07 15:21:12 EDT |
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

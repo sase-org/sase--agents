@@ -1,27 +1,5 @@
-# Family: 05o
+# Moved to sessions/bbugyi200.athena.05o.md
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [05o](../users/bbugyi200/machines/athena/hoods/05o/README.md) / 05o
+This agent session page now lives at [`sessions/bbugyi200.athena.05o.md`](../sessions/bbugyi200.athena.05o.md).
 
-Owner: `bbugyi200.athena` · Hood: `05o` · Members: 2
-
-## Lineage
-
-```mermaid
-flowchart TD
-  n0["05o--plan [active]"]
-  n1["05o--code [active]"]
-  n0 --> n1
-```
-
-The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
-
-| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
-|---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 05o--plan | active | opus / claude | 2026-08-18T10:40:34.187754+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.05o--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.05o--plan/chat.md) |
-| <a id="member-code"></a>code | 05o--code | active | grok-4.6 / grok | 2026-08-18T10:51:31.812563+00:00 | 0 | — | — |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| — | sase | [`68720ff`](https://github.com/sase-org/sase/commit/68720ff0b700ed33de26212e7b3e9952d1d28524) | feat: show multi-repo commit results in agents panel | 2026-06-24 15:24:19 EDT |
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

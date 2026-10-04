@@ -30,7 +30,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-8w.7.4.2](../bbugyi200.athena.sase-8w.7.4.2/README.md) | sase-8w.7.4 hood | active |
-| [sase-8w.7.4.land](../../families/bbugyi200.athena.sase-8w.7.4.land.md) (family · 2) | sase-8w.7.4 hood | active 1, completed 1 |
+| [sase-8w.7.4.land](../../sessions/bbugyi200.athena.sase-8w.7.4.land.md) (session · 2) | sase-8w.7.4 hood | active 1, completed 1 |
 | [sase-8w.7.1](../bbugyi200.athena.sase-8w.7.1/README.md) | sase-8w.7 hood | active |
 | [sase-8w.7.2](../bbugyi200.athena.sase-8w.7.2/README.md) | sase-8w.7 hood | active |
 | [sase-8w.7.3](../bbugyi200.athena.sase-8w.7.3/README.md) | sase-8w.7 hood | active |

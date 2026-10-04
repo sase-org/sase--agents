@@ -1,6 +1,6 @@
 # Agent: sase-14s.6--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-14s](../../users/bbugyi200/machines/athena/hoods/sase-14s/README.md) / [sase-14s.6](../../families/bbugyi200.athena.sase-14s.6.md) / sase-14s.6--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-14s](../../users/bbugyi200/machines/athena/hoods/sase-14s/README.md) / [sase-14s.6](../../sessions/bbugyi200.athena.sase-14s.6.md) / sase-14s.6--plan
 
 **Global name:** `bbugyi200.athena.sase-14s.6--plan` · **State:** active · **Source run:** `run-75284b0a39172623b24326ff9845a9aa`
 

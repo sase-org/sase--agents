@@ -35,5 +35,5 @@
 | [sase-oc.4](../bbugyi200.athena.sase-oc.4/README.md) | sase-oc hood | active |
 | [sase-oc.5](../bbugyi200.athena.sase-oc.5/README.md) | sase-oc hood | active |
 | [sase-oc.7](../bbugyi200.athena.sase-oc.7/README.md) | sase-oc hood | active |
-| [sase-oc.8](../../families/bbugyi200.athena.sase-oc.8.md) (family · 9) | sase-oc hood | active 9 |
+| [sase-oc.8](../../sessions/bbugyi200.athena.sase-oc.8.md) (session · 9) | sase-oc hood | active 9 |
 | [sase-oc.land](../bbugyi200.athena.sase-oc.land/README.md) | sase-oc hood | active |

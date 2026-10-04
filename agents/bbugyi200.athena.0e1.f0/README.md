@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [0e1](../bbugyi200.athena.0e1/README.md) | ancestor | active |
-| [0e1.f1](../../families/bbugyi200.athena.0e1.f1.md) (family · 2) | 0e1 hood | active 1, completed 1 |
+| [0e1.f1](../../sessions/bbugyi200.athena.0e1.f1.md) (session · 2) | 0e1 hood | active 1, completed 1 |

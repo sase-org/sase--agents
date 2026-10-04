@@ -23,4 +23,4 @@
 |---|---|---|
 | [01d](../bbugyi200.athena.01d/README.md) | ancestor | completed |
 | [01d.f1](../bbugyi200.athena.01d.f1/README.md) | 01d hood | active |
-| [01d.f2](../../families/bbugyi200.athena.01d.f2.md) (family · 3) | 01d hood | active 1, completed 1, failed 1 |
+| [01d.f2](../../sessions/bbugyi200.athena.01d.f2.md) (session · 3) | 01d hood | active 1, completed 1, failed 1 |

@@ -25,5 +25,5 @@
 |---|---|---|
 | [sase-tk.1](../bbugyi200.athena.sase-tk.1/README.md) | sase-tk hood | active |
 | [sase-tk.3](../bbugyi200.athena.sase-tk.3/README.md) | sase-tk hood | active |
-| [sase-tk.4](../../families/bbugyi200.athena.sase-tk.4.md) (family · 3) | sase-tk hood | active 2, failed 1 |
-| [sase-tk.land](../../families/bbugyi200.athena.sase-tk.land.md) (family · 2) | sase-tk hood | active 1, completed 1 |
+| [sase-tk.4](../../sessions/bbugyi200.athena.sase-tk.4.md) (session · 3) | sase-tk hood | active 2, failed 1 |
+| [sase-tk.land](../../sessions/bbugyi200.athena.sase-tk.land.md) (session · 2) | sase-tk hood | active 1, completed 1 |

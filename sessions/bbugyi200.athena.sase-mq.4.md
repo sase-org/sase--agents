@@ -1,0 +1,47 @@
+# Session: sase-mq.4
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-mq](../users/bbugyi200/machines/athena/hoods/sase-mq/README.md) / sase-mq.4
+
+Owner: `bbugyi200.athena` · Hood: `sase-mq` · Members: 3 · Bead: [sase-mq.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-mq/sase-mq.4.md)
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["sase-mq.4--plan [active]"]
+  n1["sase-mq.4--1 [completed]"]
+  n0 --> n1
+  n2["sase-mq.4--mon [failed]"]
+  n0 --> n2
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-plan"></a>plan | sase-mq.4--plan | active | grok-4.6 / grok | 2026-08-16T06:30:40.094311+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-mq.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-mq.4--plan/chat.md) |
+| <a id="member-1"></a>1 | sase-mq.4--1 | completed | grok-4.6 / grok | 2026-08-16T07:36:16.914193+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-mq.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-mq.4--1/chat.md) |
+| <a id="member-mon"></a>mon | sase-mq.4--mon | failed | grok-4.6 / grok | 2026-08-16T07:22:17.958893+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-mq.4--mon/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | sase | [`1672858`](https://github.com/sase-org/sase/commit/16728587dd72a1e7c0ba817f380a09ba864e388b) | feat(workspace): run approval launches on operational leases | 2026-08-16 03:48:32 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-mq.1](../agents/bbugyi200.athena.sase-mq.1/README.md) | sase-mq hood | active |
+| [sase-mq.2](bbugyi200.athena.sase-mq.2.md) (session · 3) | sase-mq hood | active 1, completed 1, failed 1 |
+| [sase-mq.3](bbugyi200.athena.sase-mq.3.md) (session · 2) | sase-mq hood | active 1, completed 1 |
+| [sase-mq.5](../agents/bbugyi200.athena.sase-mq.5/README.md) | sase-mq hood | active |
+| [sase-mq.6](../agents/bbugyi200.athena.sase-mq.6/README.md) | sase-mq hood | active |
+| [sase-mq.7](../agents/bbugyi200.athena.sase-mq.7/README.md) | sase-mq hood | active |
+| [sase-mq.8.1](../agents/bbugyi200.athena.sase-mq.8.1/README.md) | sase-mq hood | active |
+| [sase-mq.8.2](../agents/bbugyi200.athena.sase-mq.8.2/README.md) | sase-mq hood | active |
+| [sase-mq.8.3](../agents/bbugyi200.athena.sase-mq.8.3/README.md) | sase-mq hood | active |
+| [sase-mq.8.4](../agents/bbugyi200.athena.sase-mq.8.4/README.md) | sase-mq hood | active |
+| [sase-mq.8.land](bbugyi200.athena.sase-mq.8.land.md) (session · 3) | sase-mq hood | active 1, completed 1, failed 1 |
+| [sase-mq.land](bbugyi200.athena.sase-mq.land.md) (session · 2) | sase-mq hood | active 1, failed 1 |

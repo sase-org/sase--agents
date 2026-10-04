@@ -1,6 +1,6 @@
 # Agent: 0o--mon-2
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [0o](../../users/bbugyi200/machines/apollo/hoods/0o/README.md) / [0o](../../families/bbugyi200.apollo.0o.md) / 0o--mon-2
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [0o](../../users/bbugyi200/machines/apollo/hoods/0o/README.md) / [0o](../../sessions/bbugyi200.apollo.0o.md) / 0o--mon-2
 
 **Global name:** `bbugyi200.apollo.0o--mon-2` · **State:** failed · **Source run:** `run-8d75cda81e3bff6331356ae5c67f389b`
 
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0o.f0](../../families/bbugyi200.apollo.0o.f0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |
+| [0o.f0](../../sessions/bbugyi200.apollo.0o.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |

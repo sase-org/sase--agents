@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / research\_swarm
 
-**Global hood:** `bbugyi200.athena.research_swarm` · **Runs:** 45 · **Families:** 0 · **States:** completed 45
+**Global hood:** `bbugyi200.athena.research_swarm` · **Runs:** 45 · **Sessions:** 0 · **States:** completed 45
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|

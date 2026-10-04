@@ -27,6 +27,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [zl.f1](../../families/bbugyi200.athena.zl.f1.md) (family · 2) | descendant | active 1, failed 1 |
-| [zl.w0](../../families/bbugyi200.athena.zl.w0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |
+| [zl.f1](../../sessions/bbugyi200.athena.zl.f1.md) (session · 2) | descendant | active 1, failed 1 |
+| [zl.w0](../../sessions/bbugyi200.athena.zl.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
 | [zl.w1](../bbugyi200.athena.zl.w1/README.md) | descendant | active |

@@ -1,6 +1,6 @@
 # Agent: 1p--gate
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [1p](../../users/bbugyi200/machines/apollo/hoods/1p/README.md) / [1p](../../families/bbugyi200.apollo.1p.md) / 1p--gate
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [1p](../../users/bbugyi200/machines/apollo/hoods/1p/README.md) / [1p](../../sessions/bbugyi200.apollo.1p.md) / 1p--gate
 
 **Global name:** `bbugyi200.apollo.1p--gate` · **State:** failed · **Source run:** `run-9dcee22977e90c951ac67c3b4ac286bb`
 
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [1p.f0](../../families/bbugyi200.apollo.1p.f0.md) (family · 3) | descendant | active 2, failed 1 |
+| [1p.f0](../../sessions/bbugyi200.apollo.1p.f0.md) (session · 3) | descendant | active 2, failed 1 |

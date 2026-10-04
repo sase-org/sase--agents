@@ -1,6 +1,6 @@
 # Agent: 06c--gate
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [06c](../../users/bbugyi200/machines/athena/hoods/06c/README.md) / [06c](../../families/bbugyi200.athena.06c.md) / 06c--gate
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [06c](../../users/bbugyi200/machines/athena/hoods/06c/README.md) / [06c](../../sessions/bbugyi200.athena.06c.md) / 06c--gate
 
 **Global name:** `bbugyi200.athena.06c--gate` · **State:** failed · **Source run:** `run-e01df9cd6b4c4c1edfdcf0da422ab034`
 

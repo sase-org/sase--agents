@@ -1,6 +1,6 @@
 # Agent: sase-fr.9.2--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-fr](../../users/bbugyi200/machines/athena/hoods/sase-fr/README.md) / [sase-fr.9.2](../../families/bbugyi200.athena.sase-fr.9.2.md) / sase-fr.9.2--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-fr](../../users/bbugyi200/machines/athena/hoods/sase-fr/README.md) / [sase-fr.9.2](../../sessions/bbugyi200.athena.sase-fr.9.2.md) / sase-fr.9.2--plan
 
 **Global name:** `bbugyi200.athena.sase-fr.9.2--plan` · **State:** active · **Source run:** `run-46f9a948193ccd8b35f68c32a8d8e82c`
 
@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-fr.9.1](../../families/bbugyi200.athena.sase-fr.9.1.md) (family · 2) | sase-fr.9 hood | active 1, completed 1 |
+| [sase-fr.9.1](../../sessions/bbugyi200.athena.sase-fr.9.1.md) (session · 2) | sase-fr.9 hood | active 1, completed 1 |
 | [sase-fr.9.3](../bbugyi200.athena.sase-fr.9.3/README.md) | sase-fr.9 hood | active |
 | [sase-fr.9.land](../bbugyi200.athena.sase-fr.9.land/README.md) | sase-fr.9 hood | active |
 | [sase-fr.1](../bbugyi200.athena.sase-fr.1/README.md) | sase-fr hood | active |

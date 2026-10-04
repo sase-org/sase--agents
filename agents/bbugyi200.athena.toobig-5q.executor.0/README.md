@@ -25,7 +25,7 @@
 | [toobig-5q.execution.0](../bbugyi200.athena.toobig-5q.execution.0/README.md) | toobig-5q hood | active |
 | [toobig-5q.loading\_apply.0](../bbugyi200.athena.toobig-5q.loading_apply.0/README.md) | toobig-5q hood | active |
 | [toobig-5q.notification\_utils.0](../bbugyi200.athena.toobig-5q.notification_utils.0/README.md) | toobig-5q hood | active |
-| [toobig-5q.plan\_approval\_actions.0](../../families/bbugyi200.athena.toobig-5q.plan_approval_actions.0.md) (family · 3) | toobig-5q hood | active 3 |
+| [toobig-5q.plan\_approval\_actions.0](../../sessions/bbugyi200.athena.toobig-5q.plan_approval_actions.0.md) (session · 3) | toobig-5q hood | active 3 |
 | [toobig-5q.platform.0](../bbugyi200.athena.toobig-5q.platform.0/README.md) | toobig-5q hood | active |
 | [toobig-5q.ssh.0](../bbugyi200.athena.toobig-5q.ssh.0/README.md) | toobig-5q hood | waiting |
 | [toobig-5q.test\_ace\_tmux.0](../bbugyi200.athena.toobig-5q.test_ace_tmux.0/README.md) | toobig-5q hood | waiting |

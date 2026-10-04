@@ -24,5 +24,5 @@
 | [wv](../bbugyi200.athena.wv/README.md) | ancestor | active |
 | [wv.f1](../bbugyi200.athena.wv.f1/README.md) | wv hood | waiting |
 | [wv.f2](../bbugyi200.athena.wv.f2/README.md) | wv hood | active |
-| [wv.f4](../../families/bbugyi200.athena.wv.f4.md) (family · 2) | wv hood | active 1, completed 1 |
-| [wv.f4.f0](../../families/bbugyi200.athena.wv.f4.f0.md) (family · 2) | wv hood | active 1, completed 1 |
+| [wv.f4](../../sessions/bbugyi200.athena.wv.f4.md) (session · 2) | wv hood | active 1, completed 1 |
+| [wv.f4.f0](../../sessions/bbugyi200.athena.wv.f4.f0.md) (session · 2) | wv hood | active 1, completed 1 |

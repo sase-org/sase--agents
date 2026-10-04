@@ -1,6 +1,6 @@
 # Agent: sase-110.7--gate
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-110](../../users/bbugyi200/machines/athena/hoods/sase-110/README.md) / [sase-110.7](../../families/bbugyi200.athena.sase-110.7.md) / sase-110.7--gate
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-110](../../users/bbugyi200/machines/athena/hoods/sase-110/README.md) / [sase-110.7](../../sessions/bbugyi200.athena.sase-110.7.md) / sase-110.7--gate
 
 **Global name:** `bbugyi200.athena.sase-110.7--gate` · **State:** active · **Source run:** `run-f19e345dcee1751b218e1518df8234e5`
 
@@ -22,11 +22,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-110.1](../../families/bbugyi200.athena.sase-110.1.md) (family · 3) | sase-110 hood | active 2, completed 1 |
-| [sase-110.2](../../families/bbugyi200.athena.sase-110.2.md) (family · 3) | sase-110 hood | active 2, completed 1 |
+| [sase-110.1](../../sessions/bbugyi200.athena.sase-110.1.md) (session · 3) | sase-110 hood | active 2, completed 1 |
+| [sase-110.2](../../sessions/bbugyi200.athena.sase-110.2.md) (session · 3) | sase-110 hood | active 2, completed 1 |
 | [sase-110.3](../bbugyi200.athena.sase-110.3/README.md) | sase-110 hood | active |
-| [sase-110.4](../../families/bbugyi200.athena.sase-110.4.md) (family · 3) | sase-110 hood | active 2, completed 1 |
+| [sase-110.4](../../sessions/bbugyi200.athena.sase-110.4.md) (session · 3) | sase-110 hood | active 2, completed 1 |
 | [sase-110.5](../bbugyi200.athena.sase-110.5/README.md) | sase-110 hood | active |
-| [sase-110.6](../../families/bbugyi200.athena.sase-110.6.md) (family · 3) | sase-110 hood | active 2, completed 1 |
+| [sase-110.6](../../sessions/bbugyi200.athena.sase-110.6.md) (session · 3) | sase-110 hood | active 2, completed 1 |
 | [sase-110.8](../bbugyi200.athena.sase-110.8/README.md) | sase-110 hood | waiting |
 | [sase-110.land](../bbugyi200.athena.sase-110.land/README.md) | sase-110 hood | waiting |

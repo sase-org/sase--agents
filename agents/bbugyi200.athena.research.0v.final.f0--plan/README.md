@@ -1,6 +1,6 @@
 # Agent: research.0v.final.f0--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / [research.0v.final.f0](../../families/bbugyi200.athena.research.0v.final.f0.md) / research.0v.final.f0--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / [research.0v.final.f0](../../sessions/bbugyi200.athena.research.0v.final.f0.md) / research.0v.final.f0--plan
 
 **Global name:** `bbugyi200.athena.research.0v.final.f0--plan` · **State:** active · **Source run:** `run-5f8a7604efad40cb5b06adb1a65238ea`
 

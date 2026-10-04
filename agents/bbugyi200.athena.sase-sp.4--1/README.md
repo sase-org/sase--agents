@@ -1,6 +1,6 @@
 # Agent: sase-sp.4--1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-sp](../../users/bbugyi200/machines/athena/hoods/sase-sp/README.md) / [sase-sp.4](../../families/bbugyi200.athena.sase-sp.4.md) / sase-sp.4--1
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-sp](../../users/bbugyi200/machines/athena/hoods/sase-sp/README.md) / [sase-sp.4](../../sessions/bbugyi200.athena.sase-sp.4.md) / sase-sp.4--1
 
 **Global name:** `bbugyi200.athena.sase-sp.4--1` · **State:** active · **Source run:** `run-5e2917171ad200e6cddd25584379264e`
 
@@ -23,7 +23,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-sp.1](../bbugyi200.athena.sase-sp.1/README.md) | sase-sp hood | active |
-| [sase-sp.2](../../families/bbugyi200.athena.sase-sp.2.md) (family · 7) | sase-sp hood | active 4, failed 3 |
+| [sase-sp.2](../../sessions/bbugyi200.athena.sase-sp.2.md) (session · 7) | sase-sp hood | active 4, failed 3 |
 | [sase-sp.3](../bbugyi200.athena.sase-sp.3/README.md) | sase-sp hood | active |
 | [sase-sp.5](../bbugyi200.athena.sase-sp.5/README.md) | sase-sp hood | active |
 | [sase-sp.6](../bbugyi200.athena.sase-sp.6/README.md) | sase-sp hood | active |

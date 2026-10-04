@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-zq.1](../bbugyi200.athena.sase-zq.1/README.md) | sase-zq hood | active |
 | [sase-zq.3](../bbugyi200.athena.sase-zq.3/README.md) | sase-zq hood | active |
-| [sase-zq.land](../../families/bbugyi200.athena.sase-zq.land.md) (family · 3) | sase-zq hood | active 2, completed 1 |
+| [sase-zq.land](../../sessions/bbugyi200.athena.sase-zq.land.md) (session · 3) | sase-zq hood | active 2, completed 1 |

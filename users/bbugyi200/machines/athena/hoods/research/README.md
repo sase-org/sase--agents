@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / research
 
-**Global hood:** `bbugyi200.athena.research` · **Runs:** 593 · **Families:** 8 · **States:** active 413, completed 77, dismissed 74, failed 2, waiting 27
+**Global hood:** `bbugyi200.athena.research` · **Runs:** 593 · **Sessions:** 8 · **States:** active 413, completed 77, dismissed 74, failed 2, waiting 27
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|

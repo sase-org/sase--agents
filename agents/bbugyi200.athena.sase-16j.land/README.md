@@ -29,5 +29,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-16j.1](../bbugyi200.athena.sase-16j.1/README.md) | sase-16j hood | active |
-| [sase-16j.2](../../families/bbugyi200.athena.sase-16j.2.md) (family · 3) | sase-16j hood | active 3 |
+| [sase-16j.2](../../sessions/bbugyi200.athena.sase-16j.2.md) (session · 3) | sase-16j hood | active 3 |
 | [sase-16j.3](../bbugyi200.athena.sase-16j.3/README.md) | sase-16j hood | active |

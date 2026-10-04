@@ -22,7 +22,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.d.final](../bbugyi200.athena.research.d.final/README.md) | ancestor | dismissed |
-| [research.d.final.f0.1](../../families/bbugyi200.athena.research.d.final.f0.1.md) (family · 2) | research.d.final.f0 hood | active 2 |
+| [research.d.final.f0.1](../../sessions/bbugyi200.athena.research.d.final.f0.1.md) (session · 2) | research.d.final.f0 hood | active 2 |
 | [research.d.cdx](../bbugyi200.athena.research.d.cdx/README.md) | research.d hood | dismissed |
 | [research.d.cld](../bbugyi200.athena.research.d.cld/README.md) | research.d hood | dismissed |
 | [research.d.image](../bbugyi200.athena.research.d.image/README.md) | research.d hood | dismissed |

@@ -32,4 +32,4 @@
 | [sase-qn.2](../bbugyi200.athena.sase-qn.2/README.md) | sase-qn hood | active |
 | [sase-qn.3](../bbugyi200.athena.sase-qn.3/README.md) | sase-qn hood | active |
 | [sase-qn.4](../bbugyi200.athena.sase-qn.4/README.md) | sase-qn hood | active |
-| [sase-qn.5](../../families/bbugyi200.athena.sase-qn.5.md) (family · 3) | sase-qn hood | active 1, completed 1, failed 1 |
+| [sase-qn.5](../../sessions/bbugyi200.athena.sase-qn.5.md) (session · 3) | sase-qn hood | active 1, completed 1, failed 1 |

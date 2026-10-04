@@ -45,4 +45,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [n8.f0](../bbugyi200.athena.n8.f0/README.md) | descendant | active |
-| [n8.f0.f0](../../families/bbugyi200.athena.n8.f0.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [n8.f0.f0](../../sessions/bbugyi200.athena.n8.f0.f0.md) (session · 2) | descendant | active 1, completed 1 |

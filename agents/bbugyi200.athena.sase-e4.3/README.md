@@ -27,5 +27,5 @@
 | [sase-e4.2](../bbugyi200.athena.sase-e4.2/README.md) | sase-e4 hood | waiting |
 | [sase-e4.4](../bbugyi200.athena.sase-e4.4/README.md) | sase-e4 hood | waiting |
 | [sase-e4.5](../bbugyi200.athena.sase-e4.5/README.md) | sase-e4 hood | active |
-| [sase-e4.6](../../families/bbugyi200.athena.sase-e4.6.md) (family · 2) | sase-e4 hood | active 2 |
+| [sase-e4.6](../../sessions/bbugyi200.athena.sase-e4.6.md) (session · 2) | sase-e4 hood | active 2 |
 | [sase-e4.land](../bbugyi200.athena.sase-e4.land/README.md) | sase-e4 hood | waiting |

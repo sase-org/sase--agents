@@ -31,5 +31,5 @@
 |---|---|---|
 | [sase-qy.1](../bbugyi200.athena.sase-qy.1/README.md) | sase-qy hood | active |
 | [sase-qy.2](../bbugyi200.athena.sase-qy.2/README.md) | sase-qy hood | active |
-| [sase-qy.4](../../families/bbugyi200.athena.sase-qy.4.md) (family · 13) | sase-qy hood | active 13 |
+| [sase-qy.4](../../sessions/bbugyi200.athena.sase-qy.4.md) (session · 13) | sase-qy hood | active 13 |
 | [sase-qy.land](../bbugyi200.athena.sase-qy.land/README.md) | sase-qy hood | active |

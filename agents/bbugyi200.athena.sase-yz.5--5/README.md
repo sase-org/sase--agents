@@ -1,6 +1,6 @@
 # Agent: sase-yz.5--5
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-yz](../../users/bbugyi200/machines/athena/hoods/sase-yz/README.md) / [sase-yz.5](../../families/bbugyi200.athena.sase-yz.5.md) / sase-yz.5--5
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-yz](../../users/bbugyi200/machines/athena/hoods/sase-yz/README.md) / [sase-yz.5](../../sessions/bbugyi200.athena.sase-yz.5.md) / sase-yz.5--5
 
 **Global name:** `bbugyi200.athena.sase-yz.5--5` · **State:** active · **Source run:** `run-4daa0aef05fad38ed32e0f293e2b6f4f`
 
@@ -29,7 +29,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-yz.1](../bbugyi200.athena.sase-yz.1/README.md) | sase-yz hood | active |
-| [sase-yz.2](../../families/bbugyi200.athena.sase-yz.2.md) (family · 11) | sase-yz hood | active 11 |
+| [sase-yz.2](../../sessions/bbugyi200.athena.sase-yz.2.md) (session · 11) | sase-yz hood | active 11 |
 | [sase-yz.3](../bbugyi200.athena.sase-yz.3/README.md) | sase-yz hood | active |
 | [sase-yz.4](../bbugyi200.athena.sase-yz.4/README.md) | sase-yz hood | active |
 | [sase-yz.land](../bbugyi200.athena.sase-yz.land/README.md) | sase-yz hood | waiting |

@@ -1,6 +1,6 @@
 # Agent: sase-ws.land--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-ws](../../users/bbugyi200/machines/apollo/hoods/sase-ws/README.md) / [sase-ws.land](../../families/bbugyi200.apollo.sase-ws.land.md) / sase-ws.land--mon
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-ws](../../users/bbugyi200/machines/apollo/hoods/sase-ws/README.md) / [sase-ws.land](../../sessions/bbugyi200.apollo.sase-ws.land.md) / sase-ws.land--mon
 
 **Global name:** `bbugyi200.apollo.sase-ws.land--mon` · **State:** failed · **Source run:** `run-8bc05a588d2e4220032d62cc25111929`
 
@@ -23,7 +23,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ws.3](../bbugyi200.apollo.sase-ws.3/README.md) | sase-ws hood | completed |
-| [sase-ws.3.f0](../../families/bbugyi200.apollo.sase-ws.3.f0.md) (family · 2) | sase-ws hood | active 1, dismissed 1 |
-| [sase-ws.4](../../families/bbugyi200.apollo.sase-ws.4.md) (family · 3) | sase-ws hood | completed 2, failed 1 |
+| [sase-ws.3.f0](../../sessions/bbugyi200.apollo.sase-ws.3.f0.md) (session · 2) | sase-ws hood | active 1, dismissed 1 |
+| [sase-ws.4](../../sessions/bbugyi200.apollo.sase-ws.4.md) (session · 3) | sase-ws hood | completed 2, failed 1 |
 | [sase-ws.5](../bbugyi200.apollo.sase-ws.5/README.md) | sase-ws hood | completed |
 | [sase-ws.6](../bbugyi200.apollo.sase-ws.6/README.md) | sase-ws hood | completed |

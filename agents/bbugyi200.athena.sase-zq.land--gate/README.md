@@ -1,6 +1,6 @@
 # Agent: sase-zq.land--gate
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-zq](../../users/bbugyi200/machines/athena/hoods/sase-zq/README.md) / [sase-zq.land](../../families/bbugyi200.athena.sase-zq.land.md) / sase-zq.land--gate
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-zq](../../users/bbugyi200/machines/athena/hoods/sase-zq/README.md) / [sase-zq.land](../../sessions/bbugyi200.athena.sase-zq.land.md) / sase-zq.land--gate
 
 **Global name:** `bbugyi200.athena.sase-zq.land--gate` · **State:** active · **Source run:** `run-93c605fa5f770f468d7af81124587154`
 

@@ -25,4 +25,4 @@
 |---|---|---|
 | [sase-15p.2](../bbugyi200.athena.sase-15p.2/README.md) | sase-15p hood | active |
 | [sase-15p.3](../bbugyi200.athena.sase-15p.3/README.md) | sase-15p hood | active |
-| [sase-15p.land](../../families/bbugyi200.athena.sase-15p.land.md) (family · 3) | sase-15p hood | active 2, failed 1 |
+| [sase-15p.land](../../sessions/bbugyi200.athena.sase-15p.land.md) (session · 3) | sase-15p hood | active 2, failed 1 |

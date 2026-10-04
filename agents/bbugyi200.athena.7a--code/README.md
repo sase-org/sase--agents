@@ -1,6 +1,6 @@
 # Agent: 7a--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [7a](../../users/bbugyi200/machines/athena/hoods/7a/README.md) / [7a](../../families/bbugyi200.athena.7a.md) / 7a--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [7a](../../users/bbugyi200/machines/athena/hoods/7a/README.md) / [7a](../../sessions/bbugyi200.athena.7a.md) / 7a--code
 
 **Global name:** `bbugyi200.athena.7a--code` · **State:** completed · **Source run:** `run-e0ca9c3471cc4186200a66aeb455a2a2`
 
@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [7a.w-0](../../families/bbugyi200.athena.7a.w-0.md) (family · 2) | descendant | active 1, completed 1 |
+| [7a.w-0](../../sessions/bbugyi200.athena.7a.w-0.md) (session · 2) | descendant | active 1, completed 1 |
 | [7a.w-0.f-0](../bbugyi200.athena.7a.w-0.f-0/README.md) | descendant | active |

@@ -1,6 +1,6 @@
 # Agent: cp
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [cp](../../users/bbugyi200/machines/athena/hoods/cp/README.md) / [cp](../../families/bbugyi200.athena.cp.md) / cp
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [cp](../../users/bbugyi200/machines/athena/hoods/cp/README.md) / [cp](../../sessions/bbugyi200.athena.cp.md) / cp
 
 **Global name:** `bbugyi200.athena.cp` · **State:** active · **Source run:** `run-0786c20b85c9e5b1ade6ca3522bc191a`
 

@@ -1,6 +1,6 @@
 # Agent: sase-t2.7.2--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-t2](../../users/bbugyi200/machines/athena/hoods/sase-t2/README.md) / [sase-t2.7.2](../../families/bbugyi200.athena.sase-t2.7.2.md) / sase-t2.7.2--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-t2](../../users/bbugyi200/machines/athena/hoods/sase-t2/README.md) / [sase-t2.7.2](../../sessions/bbugyi200.athena.sase-t2.7.2.md) / sase-t2.7.2--plan
 
 **Global name:** `bbugyi200.athena.sase-t2.7.2--plan` · **State:** active · **Source run:** `run-86458048cf885f0191452a4ada43b6f2`
 
@@ -31,4 +31,4 @@
 | [sase-t2.4](../bbugyi200.athena.sase-t2.4/README.md) | sase-t2 hood | active |
 | [sase-t2.5](../bbugyi200.athena.sase-t2.5/README.md) | sase-t2 hood | active |
 | [sase-t2.6](../bbugyi200.athena.sase-t2.6/README.md) | sase-t2 hood | active |
-| [sase-t2.land](../../families/bbugyi200.athena.sase-t2.land.md) (family · 2) | sase-t2 hood | active 1, failed 1 |
+| [sase-t2.land](../../sessions/bbugyi200.athena.sase-t2.land.md) (session · 2) | sase-t2 hood | active 1, failed 1 |

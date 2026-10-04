@@ -30,7 +30,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-18z.1](../bbugyi200.athena.sase-18z.1/README.md) | sase-18z hood | completed |
-| [sase-18z.3.1](../../families/bbugyi200.athena.sase-18z.3.1.md) (family · 3) | sase-18z hood | completed 2, failed 1 |
+| [sase-18z.3.1](../../sessions/bbugyi200.athena.sase-18z.3.1.md) (session · 3) | sase-18z hood | completed 2, failed 1 |
 | [sase-18z.3.2](../bbugyi200.athena.sase-18z.3.2/README.md) | sase-18z hood | completed |
 | [sase-18z.3.land](../bbugyi200.athena.sase-18z.3.land/README.md) | sase-18z hood | completed |
-| [sase-18z.land](../../families/bbugyi200.athena.sase-18z.land.md) (family · 3) | sase-18z hood | failed 3 |
+| [sase-18z.land](../../sessions/bbugyi200.athena.sase-18z.land.md) (session · 3) | sase-18z hood | failed 3 |

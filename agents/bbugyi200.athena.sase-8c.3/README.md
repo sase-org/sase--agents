@@ -23,5 +23,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-8c.1](../bbugyi200.athena.sase-8c.1/README.md) | sase-8c hood | active |
-| [sase-8c.2](../../families/bbugyi200.athena.sase-8c.2.md) (family · 2) | sase-8c hood | active 1, completed 1 |
+| [sase-8c.2](../../sessions/bbugyi200.athena.sase-8c.2.md) (session · 2) | sase-8c hood | active 1, completed 1 |
 | [sase-8c.land](../bbugyi200.athena.sase-8c.land/README.md) | sase-8c hood | active |

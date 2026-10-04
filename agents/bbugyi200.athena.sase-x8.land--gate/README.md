@@ -1,6 +1,6 @@
 # Agent: sase-x8.land--gate
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-x8](../../users/bbugyi200/machines/athena/hoods/sase-x8/README.md) / [sase-x8.land](../../families/bbugyi200.athena.sase-x8.land.md) / sase-x8.land--gate
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-x8](../../users/bbugyi200/machines/athena/hoods/sase-x8/README.md) / [sase-x8.land](../../sessions/bbugyi200.athena.sase-x8.land.md) / sase-x8.land--gate
 
 **Global name:** `bbugyi200.athena.sase-x8.land--gate` · **State:** active · **Source run:** `run-fc73b2a854dc6aff1b83a4ef247032fa`
 

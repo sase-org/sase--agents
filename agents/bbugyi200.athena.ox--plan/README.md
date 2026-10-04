@@ -1,6 +1,6 @@
 # Agent: ox--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ox](../../users/bbugyi200/machines/athena/hoods/ox/README.md) / [ox](../../families/bbugyi200.athena.ox.md) / ox--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ox](../../users/bbugyi200/machines/athena/hoods/ox/README.md) / [ox](../../sessions/bbugyi200.athena.ox.md) / ox--plan
 
 **Global name:** `bbugyi200.athena.ox--plan` · **State:** active · **Source run:** `run-9d10d50031b9de6ba91c0ea6e949949e`
 

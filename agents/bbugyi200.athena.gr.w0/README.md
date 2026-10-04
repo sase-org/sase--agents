@@ -17,5 +17,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [gr](../../families/bbugyi200.athena.gr.md) (family · 2) | ancestor | active 1, completed 1 |
-| [gr.w2](../../families/bbugyi200.athena.gr.w2.md) (family · 2) | gr hood | active 1, completed 1 |
+| [gr](../../sessions/bbugyi200.athena.gr.md) (session · 2) | ancestor | active 1, completed 1 |
+| [gr.w2](../../sessions/bbugyi200.athena.gr.w2.md) (session · 2) | gr hood | active 1, completed 1 |

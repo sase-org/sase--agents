@@ -33,4 +33,4 @@
 | [sase-62.3](../bbugyi200.athena.sase-62.3/README.md) | descendant | dismissed |
 | [sase-62.3.f0](../bbugyi200.athena.sase-62.3.f0/README.md) | descendant | dismissed |
 | [sase-62.3.f1](../bbugyi200.athena.sase-62.3.f1/README.md) | descendant | dismissed |
-| [sase-62.3.f2](../../families/bbugyi200.athena.sase-62.3.f2.md) (family · 2) | descendant | active 2 |
+| [sase-62.3.f2](../../sessions/bbugyi200.athena.sase-62.3.f2.md) (session · 2) | descendant | active 2 |

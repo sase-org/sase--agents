@@ -1,6 +1,6 @@
 # Agent: sase-196.3--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-196](../../users/bbugyi200/machines/athena/hoods/sase-196/README.md) / [sase-196.3](../../families/bbugyi200.athena.sase-196.3.md) / sase-196.3--mon
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-196](../../users/bbugyi200/machines/athena/hoods/sase-196/README.md) / [sase-196.3](../../sessions/bbugyi200.athena.sase-196.3.md) / sase-196.3--mon
 
 **Global name:** `bbugyi200.athena.sase-196.3--mon` · **State:** failed · **Source run:** `run-960354d69833eefb53e1286aff50983a`
 
@@ -30,4 +30,4 @@
 | [sase-196.6.1](../bbugyi200.athena.sase-196.6.1/README.md) | sase-196 hood | active |
 | [sase-196.6.2](../bbugyi200.athena.sase-196.6.2/README.md) | sase-196 hood | completed |
 | [sase-196.6.land](../bbugyi200.athena.sase-196.6.land/README.md) | sase-196 hood | waiting |
-| [sase-196.land](../../families/bbugyi200.athena.sase-196.land.md) (family · 3) | sase-196 hood | failed 3 |
+| [sase-196.land](../../sessions/bbugyi200.athena.sase-196.land.md) (session · 3) | sase-196 hood | failed 3 |

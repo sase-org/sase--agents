@@ -1,6 +1,6 @@
 # Agent: toobig-5d.test\_agent\_wait\_resume.0--1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5d](../../users/bbugyi200/machines/athena/hoods/toobig-5d/README.md) / [toobig-5d.test\_agent\_wait\_resume.0](../../families/bbugyi200.athena.toobig-5d.test_agent_wait_resume.0.md) / toobig-5d.test\_agent\_wait\_resume.0--1
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5d](../../users/bbugyi200/machines/athena/hoods/toobig-5d/README.md) / [toobig-5d.test\_agent\_wait\_resume.0](../../sessions/bbugyi200.athena.toobig-5d.test_agent_wait_resume.0.md) / toobig-5d.test\_agent\_wait\_resume.0--1
 
 **Global name:** `bbugyi200.athena.toobig-5d.test_agent_wait_resume.0--1` · **State:** active · **Source run:** `run-a3178a4f70aa5c312a609d8826f0d180`
 
@@ -29,7 +29,7 @@
 |---|---|---|
 | [toobig-5d.agent\_load\_tiering\_fixture.0](../bbugyi200.athena.toobig-5d.agent_load_tiering_fixture.0/README.md) | toobig-5d hood | waiting |
 | [toobig-5d.agent\_load\_tiering\_harness.0](../bbugyi200.athena.toobig-5d.agent_load_tiering_harness.0/README.md) | toobig-5d hood | waiting |
-| [toobig-5d.rendered\_link\_corpus.0](../../families/bbugyi200.athena.toobig-5d.rendered_link_corpus.0.md) (family · 5) | toobig-5d hood | active 5 |
+| [toobig-5d.rendered\_link\_corpus.0](../../sessions/bbugyi200.athena.toobig-5d.rendered_link_corpus.0.md) (session · 5) | toobig-5d hood | active 5 |
 | [toobig-5d.test\_artifact\_cli\_link\_health.0](../bbugyi200.athena.toobig-5d.test_artifact_cli_link_health.0/README.md) | toobig-5d hood | active |
 | [toobig-5d.test\_axe\_chop\_agents.0](../bbugyi200.athena.toobig-5d.test_axe_chop_agents.0/README.md) | toobig-5d hood | waiting |
 | [toobig-5d.test\_bare\_git\_workspace.0](../bbugyi200.athena.toobig-5d.test_bare_git_workspace.0/README.md) | toobig-5d hood | active |

@@ -1,6 +1,6 @@
 # Agent: sase-j0--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-j0](../../users/bbugyi200/machines/athena/hoods/sase-j0/README.md) / [sase-j0](../../families/bbugyi200.athena.sase-j0.md) / sase-j0--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-j0](../../users/bbugyi200/machines/athena/hoods/sase-j0/README.md) / [sase-j0](../../sessions/bbugyi200.athena.sase-j0.md) / sase-j0--code
 
 **Global name:** `bbugyi200.athena.sase-j0--code` · **State:** completed · **Source run:** `run-a98a8129518c3092d6b75c1c615a7fda`
 
@@ -28,5 +28,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-j0.w1](../../families/bbugyi200.athena.sase-j0.w1.md) (family · 2) | descendant | active 1, completed 1 |
+| [sase-j0.w1](../../sessions/bbugyi200.athena.sase-j0.w1.md) (session · 2) | descendant | active 1, completed 1 |
 | [sase-j0.w1.f0](../bbugyi200.athena.sase-j0.w1.f0/README.md) | descendant | active |

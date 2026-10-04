@@ -1,6 +1,6 @@
 # Agent: fi--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [fi](../../users/bbugyi200/machines/athena/hoods/fi/README.md) / [fi](../../families/bbugyi200.athena.fi.md) / fi--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [fi](../../users/bbugyi200/machines/athena/hoods/fi/README.md) / [fi](../../sessions/bbugyi200.athena.fi.md) / fi--plan
 
 **Global name:** `bbugyi200.athena.fi--plan` · **State:** active · **Source run:** `run-57ae5a34cfb981c63615835d4f9f6686`
 
@@ -21,6 +21,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [fi--code.f0](../../families/bbugyi200.athena.fi--code.f0.md) (family · 2) | descendant | active 2 |
+| [fi--code.f0](../../sessions/bbugyi200.athena.fi--code.f0.md) (session · 2) | descendant | active 2 |
 | [fi.f0](../bbugyi200.athena.fi.f0/README.md) | descendant | dismissed |
 | [fi.f1](../bbugyi200.athena.fi.f1/README.md) | descendant | dismissed |

@@ -1,6 +1,6 @@
 # Agent: 094--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [094](../../users/bbugyi200/machines/athena/hoods/094/README.md) / [094](../../families/bbugyi200.athena.094.md) / 094--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [094](../../users/bbugyi200/machines/athena/hoods/094/README.md) / [094](../../sessions/bbugyi200.athena.094.md) / 094--plan
 
 **Global name:** `bbugyi200.athena.094--plan` · **State:** active · **Source run:** `run-f860507fefdba9e3aed25e96829667af`
 

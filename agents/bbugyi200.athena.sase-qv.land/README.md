@@ -30,6 +30,6 @@
 | [sase-qv.6](../bbugyi200.athena.sase-qv.6/README.md) | sase-qv hood | active |
 | [sase-qv.7](../bbugyi200.athena.sase-qv.7/README.md) | sase-qv hood | active |
 | [sase-qv.8.1](../bbugyi200.athena.sase-qv.8.1/README.md) | sase-qv hood | active |
-| [sase-qv.8.2](../../families/bbugyi200.athena.sase-qv.8.2.md) (family · 3) | sase-qv hood | active 3 |
+| [sase-qv.8.2](../../sessions/bbugyi200.athena.sase-qv.8.2.md) (session · 3) | sase-qv hood | active 3 |
 | [sase-qv.8.land](../bbugyi200.athena.sase-qv.8.land/README.md) | sase-qv hood | active |
-| [sase-qv.8.land\_2](../../families/bbugyi200.athena.sase-qv.8.land_2.md) (family · 3) | sase-qv hood | active 3 |
+| [sase-qv.8.land\_2](../../sessions/bbugyi200.athena.sase-qv.8.land_2.md) (session · 3) | sase-qv hood | active 3 |

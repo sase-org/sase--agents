@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-w8.4.2](../bbugyi200.apollo.sase-w8.4.2/README.md) | sase-w8.4 hood | completed |
 | [sase-w8.4.land](../bbugyi200.apollo.sase-w8.4.land/README.md) | sase-w8.4 hood | completed |
-| [sase-w8.land](../../families/bbugyi200.apollo.sase-w8.land.md) (family · 3) | sase-w8 hood | failed 3 |
+| [sase-w8.land](../../sessions/bbugyi200.apollo.sase-w8.land.md) (session · 3) | sase-w8 hood | failed 3 |

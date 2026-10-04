@@ -1,6 +1,6 @@
 # Agent: nx.f0--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [nx](../../users/bbugyi200/machines/athena/hoods/nx/README.md) / [nx.f0](../../families/bbugyi200.athena.nx.f0.md) / nx.f0--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [nx](../../users/bbugyi200/machines/athena/hoods/nx/README.md) / [nx.f0](../../sessions/bbugyi200.athena.nx.f0.md) / nx.f0--code
 
 **Global name:** `bbugyi200.athena.nx.f0--code` · **State:** completed · **Source run:** `run-979756ed7c1888f37514a3fd2e1cff47`
 
@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [nx](../../families/bbugyi200.athena.nx.md) (family · 2) | ancestor | active 1, completed 1 |
-| [nx.f0.f0](../../families/bbugyi200.athena.nx.f0.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [nx](../../sessions/bbugyi200.athena.nx.md) (session · 2) | ancestor | active 1, completed 1 |
+| [nx.f0.f0](../../sessions/bbugyi200.athena.nx.f0.f0.md) (session · 2) | descendant | active 1, completed 1 |

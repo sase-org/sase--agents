@@ -1,6 +1,6 @@
 # Agent: sase-ek.land--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ek](../../users/bbugyi200/machines/athena/hoods/sase-ek/README.md) / [sase-ek.land](../../families/bbugyi200.athena.sase-ek.land.md) / sase-ek.land--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ek](../../users/bbugyi200/machines/athena/hoods/sase-ek/README.md) / [sase-ek.land](../../sessions/bbugyi200.athena.sase-ek.land.md) / sase-ek.land--code
 
 **Global name:** `bbugyi200.athena.sase-ek.land--code` · **State:** completed · **Source run:** `run-1021382f381a7b99987c4e6b7e671cea`
 

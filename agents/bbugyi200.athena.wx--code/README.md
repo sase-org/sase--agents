@@ -1,6 +1,6 @@
 # Agent: wx--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [wx](../../users/bbugyi200/machines/athena/hoods/wx/README.md) / [wx](../../families/bbugyi200.athena.wx.md) / wx--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [wx](../../users/bbugyi200/machines/athena/hoods/wx/README.md) / [wx](../../sessions/bbugyi200.athena.wx.md) / wx--code
 
 **Global name:** `bbugyi200.athena.wx--code` · **State:** completed · **Source run:** `run-0b3a3b3b9973ab57bf4c37436a694039`
 

@@ -1,6 +1,6 @@
 # Agent: zy--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [zy](../../users/bbugyi200/machines/athena/hoods/zy/README.md) / [zy](../../families/bbugyi200.athena.zy.md) / zy--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [zy](../../users/bbugyi200/machines/athena/hoods/zy/README.md) / [zy](../../sessions/bbugyi200.athena.zy.md) / zy--plan
 
 **Global name:** `bbugyi200.athena.zy--plan` · **State:** active · **Source run:** `run-505c2abc577d27159041c1a0fccca790`
 

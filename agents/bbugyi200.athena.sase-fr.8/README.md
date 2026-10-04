@@ -36,8 +36,8 @@
 | [sase-fr.5](../bbugyi200.athena.sase-fr.5/README.md) | sase-fr hood | active |
 | [sase-fr.6](../bbugyi200.athena.sase-fr.6/README.md) | sase-fr hood | active |
 | [sase-fr.7](../bbugyi200.athena.sase-fr.7/README.md) | sase-fr hood | active |
-| [sase-fr.9.1](../../families/bbugyi200.athena.sase-fr.9.1.md) (family · 2) | sase-fr hood | active 1, completed 1 |
-| [sase-fr.9.2](../../families/bbugyi200.athena.sase-fr.9.2.md) (family · 2) | sase-fr hood | active 1, completed 1 |
+| [sase-fr.9.1](../../sessions/bbugyi200.athena.sase-fr.9.1.md) (session · 2) | sase-fr hood | active 1, completed 1 |
+| [sase-fr.9.2](../../sessions/bbugyi200.athena.sase-fr.9.2.md) (session · 2) | sase-fr hood | active 1, completed 1 |
 | [sase-fr.9.3](../bbugyi200.athena.sase-fr.9.3/README.md) | sase-fr hood | active |
 | [sase-fr.9.land](../bbugyi200.athena.sase-fr.9.land/README.md) | sase-fr hood | active |
 | [sase-fr.land](../bbugyi200.athena.sase-fr.land/README.md) | sase-fr hood | active |

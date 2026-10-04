@@ -29,7 +29,7 @@
 | [sase-14s.3](../bbugyi200.athena.sase-14s.3/README.md) | sase-14s hood | active |
 | [sase-14s.4](../bbugyi200.athena.sase-14s.4/README.md) | sase-14s hood | active |
 | [sase-14s.5](../bbugyi200.athena.sase-14s.5/README.md) | sase-14s hood | active |
-| [sase-14s.6](../../families/bbugyi200.athena.sase-14s.6.md) (family · 3) | sase-14s hood | active 1, failed 2 |
+| [sase-14s.6](../../sessions/bbugyi200.athena.sase-14s.6.md) (session · 3) | sase-14s hood | active 1, failed 2 |
 | [sase-14s.8](../bbugyi200.athena.sase-14s.8/README.md) | sase-14s hood | active |
 | [sase-14s.9](../bbugyi200.athena.sase-14s.9/README.md) | sase-14s hood | active |
 | [sase-14s.land](../bbugyi200.athena.sase-14s.land/README.md) | sase-14s hood | active |

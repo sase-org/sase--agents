@@ -32,4 +32,4 @@
 | [sase-cy.2](../bbugyi200.athena.sase-cy.2/README.md) | sase-cy hood | active |
 | [sase-cy.3](../bbugyi200.athena.sase-cy.3/README.md) | sase-cy hood | active |
 | [sase-cy.4](../bbugyi200.athena.sase-cy.4/README.md) | sase-cy hood | active |
-| [sase-cy.land](../../families/bbugyi200.athena.sase-cy.land.md) (family · 2) | sase-cy hood | active 1, completed 1 |
+| [sase-cy.land](../../sessions/bbugyi200.athena.sase-cy.land.md) (session · 2) | sase-cy hood | active 1, completed 1 |

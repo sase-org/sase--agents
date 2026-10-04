@@ -31,4 +31,4 @@
 | [sase-76.1](../bbugyi200.athena.sase-76.1/README.md) | sase-76 hood | active |
 | [sase-76.2](../bbugyi200.athena.sase-76.2/README.md) | sase-76 hood | active |
 | [sase-76.land](../bbugyi200.athena.sase-76.land/README.md) | sase-76 hood | active |
-| [sase-76.land.f1](../../families/bbugyi200.athena.sase-76.land.f1.md) (family · 2) | sase-76 hood | active 1, completed 1 |
+| [sase-76.land.f1](../../sessions/bbugyi200.athena.sase-76.land.f1.md) (session · 2) | sase-76 hood | active 1, completed 1 |

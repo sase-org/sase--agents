@@ -27,6 +27,6 @@
 | [sase-10w.3](../bbugyi200.athena.sase-10w.3/README.md) | sase-10w hood | active |
 | [sase-10w.4](../bbugyi200.athena.sase-10w.4/README.md) | sase-10w hood | active |
 | [sase-10w.5](../bbugyi200.athena.sase-10w.5/README.md) | sase-10w hood | active |
-| [sase-10w.5.f0](../../families/bbugyi200.athena.sase-10w.5.f0.md) (family · 7) | sase-10w hood | active 1, completed 3, failed 3 |
-| [sase-10w.5.f0.f0](../../families/bbugyi200.athena.sase-10w.5.f0.f0.md) (family · 13) | sase-10w hood | active 1, completed 5, failed 7 |
+| [sase-10w.5.f0](../../sessions/bbugyi200.athena.sase-10w.5.f0.md) (session · 7) | sase-10w hood | active 1, completed 3, failed 3 |
+| [sase-10w.5.f0.f0](../../sessions/bbugyi200.athena.sase-10w.5.f0.f0.md) (session · 13) | sase-10w hood | active 1, completed 5, failed 7 |
 | [sase-10w.6](../bbugyi200.athena.sase-10w.6/README.md) | sase-10w hood | waiting |

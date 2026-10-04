@@ -1,6 +1,6 @@
 # Agent: 15.w0--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [15](../../users/bbugyi200/machines/apollo/hoods/15/README.md) / [15.w0](../../families/bbugyi200.apollo.15.w0.md) / 15.w0--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [15](../../users/bbugyi200/machines/apollo/hoods/15/README.md) / [15.w0](../../sessions/bbugyi200.apollo.15.w0.md) / 15.w0--plan
 
 **Global name:** `bbugyi200.apollo.15.w0--plan` · **State:** completed · **Source run:** `run-9db461beffc28c6954587c74d868916f`
 
@@ -21,6 +21,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [15](../../families/bbugyi200.apollo.15.md) (family · 3) | ancestor | completed 2, failed 1 |
+| [15](../../sessions/bbugyi200.apollo.15.md) (session · 3) | ancestor | completed 2, failed 1 |
 | [15.cdx.f1](../bbugyi200.apollo.15.cdx.f1/README.md) | 15 hood | completed |
 | [15.cdx.f1.w1](../bbugyi200.apollo.15.cdx.f1.w1/README.md) | 15 hood | completed |

@@ -1,6 +1,6 @@
 # Agent: sase-s2.3--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-s2](../../users/bbugyi200/machines/athena/hoods/sase-s2/README.md) / [sase-s2.3](../../families/bbugyi200.athena.sase-s2.3.md) / sase-s2.3--mon
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-s2](../../users/bbugyi200/machines/athena/hoods/sase-s2/README.md) / [sase-s2.3](../../sessions/bbugyi200.athena.sase-s2.3.md) / sase-s2.3--mon
 
 **Global name:** `bbugyi200.athena.sase-s2.3--mon` · **State:** active · **Source run:** `run-b3d96f7c8de234b9d5ac10b811e42fb6`
 
@@ -21,4 +21,4 @@
 |---|---|---|
 | [sase-s2.1](../bbugyi200.athena.sase-s2.1/README.md) | sase-s2 hood | active |
 | [sase-s2.2](../bbugyi200.athena.sase-s2.2/README.md) | sase-s2 hood | active |
-| [sase-s2.land](../../families/bbugyi200.athena.sase-s2.land.md) (family · 3) | sase-s2 hood | active 3 |
+| [sase-s2.land](../../sessions/bbugyi200.athena.sase-s2.land.md) (session · 3) | sase-s2 hood | active 3 |

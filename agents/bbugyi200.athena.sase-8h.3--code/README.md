@@ -1,6 +1,6 @@
 # Agent: sase-8h.3--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-8h](../../users/bbugyi200/machines/athena/hoods/sase-8h/README.md) / [sase-8h.3](../../families/bbugyi200.athena.sase-8h.3.md) / sase-8h.3--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-8h](../../users/bbugyi200/machines/athena/hoods/sase-8h/README.md) / [sase-8h.3](../../sessions/bbugyi200.athena.sase-8h.3.md) / sase-8h.3--code
 
 **Global name:** `bbugyi200.athena.sase-8h.3--code` · **State:** completed · **Source run:** `run-748274ef2e0a62ff6032442ba2d10aa4`
 
@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-8h.1](../../families/bbugyi200.athena.sase-8h.1.md) (family · 2) | sase-8h hood | active 1, completed 1 |
-| [sase-8h.1.w1](../../families/bbugyi200.athena.sase-8h.1.w1.md) (family · 2) | sase-8h hood | active 1, completed 1 |
-| [sase-8h.2](../../families/bbugyi200.athena.sase-8h.2.md) (family · 2) | sase-8h hood | active 1, completed 1 |
+| [sase-8h.1](../../sessions/bbugyi200.athena.sase-8h.1.md) (session · 2) | sase-8h hood | active 1, completed 1 |
+| [sase-8h.1.w1](../../sessions/bbugyi200.athena.sase-8h.1.w1.md) (session · 2) | sase-8h hood | active 1, completed 1 |
+| [sase-8h.2](../../sessions/bbugyi200.athena.sase-8h.2.md) (session · 2) | sase-8h hood | active 1, completed 1 |
 | [sase-8h.land](../bbugyi200.athena.sase-8h.land/README.md) | sase-8h hood | active |

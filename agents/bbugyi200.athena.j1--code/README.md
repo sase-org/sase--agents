@@ -1,6 +1,6 @@
 # Agent: j1--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [j1](../../users/bbugyi200/machines/athena/hoods/j1/README.md) / [j1](../../families/bbugyi200.athena.j1.md) / j1--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [j1](../../users/bbugyi200/machines/athena/hoods/j1/README.md) / [j1](../../sessions/bbugyi200.athena.j1.md) / j1--code
 
 **Global name:** `bbugyi200.athena.j1--code` · **State:** completed · **Source run:** `run-c45c18d901b08bf95b509d5c5c1c5fbc`
 
@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [j1.f0](../../families/bbugyi200.athena.j1.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [j1.f0](../../sessions/bbugyi200.athena.j1.f0.md) (session · 2) | descendant | active 1, completed 1 |
 | [j1.f0](../bbugyi200.athena.j1.f0/README.md) | descendant | completed |

@@ -31,4 +31,4 @@
 | [sase-s8.1](../bbugyi200.athena.sase-s8.1/README.md) | sase-s8 hood | active |
 | [sase-s8.2](../bbugyi200.athena.sase-s8.2/README.md) | sase-s8 hood | active |
 | [sase-s8.3](../bbugyi200.athena.sase-s8.3/README.md) | sase-s8 hood | active |
-| [sase-s8.4](../../families/bbugyi200.athena.sase-s8.4.md) (family · 3) | sase-s8 hood | active 3 |
+| [sase-s8.4](../../sessions/bbugyi200.athena.sase-s8.4.md) (session · 3) | sase-s8 hood | active 3 |

@@ -28,5 +28,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-31.split\_file.src.sase.config.core.0](../bbugyi200.athena.toobig-31.split_file.src.sase.config.core.0/README.md) | toobig-31.split\_file.src.sase hood | active |
-| [toobig-31.split\_file.tests.ace.tui.visual.\_ace\_prompt\_png\_snapshot\_helpers.0](../../families/bbugyi200.athena.toobig-31.split_file.tests.ace.tui.visual._ace_prompt_png_snapshot_helpers.0.md) (family · 3) | toobig-31.split\_file hood | active 1, completed 1, failed 1 |
+| [toobig-31.split\_file.tests.ace.tui.visual.\_ace\_prompt\_png\_snapshot\_helpers.0](../../sessions/bbugyi200.athena.toobig-31.split_file.tests.ace.tui.visual._ace_prompt_png_snapshot_helpers.0.md) (session · 3) | toobig-31.split\_file hood | active 1, completed 1, failed 1 |
 | [toobig-31.split\_file.tests.ace.tui.widgets.test\_agent\_display\_bead\_section.0](../bbugyi200.athena.toobig-31.split_file.tests.ace.tui.widgets.test_agent_display_bead_section.0/README.md) | toobig-31.split\_file hood | active |

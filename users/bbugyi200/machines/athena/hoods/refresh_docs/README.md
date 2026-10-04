@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / refresh\_docs
 
-**Global hood:** `bbugyi200.athena.refresh_docs` · **Runs:** 64 · **Families:** 0 · **States:** active 2, completed 60, waiting 2
+**Global hood:** `bbugyi200.athena.refresh_docs` · **Runs:** 64 · **Sessions:** 0 · **States:** active 2, completed 60, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|

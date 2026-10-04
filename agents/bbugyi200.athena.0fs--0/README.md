@@ -1,6 +1,6 @@
 # Agent: 0fs--0
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0fs](../../users/bbugyi200/machines/athena/hoods/0fs/README.md) / [0fs](../../families/bbugyi200.athena.0fs.md) / 0fs--0
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0fs](../../users/bbugyi200/machines/athena/hoods/0fs/README.md) / [0fs](../../sessions/bbugyi200.athena.0fs.md) / 0fs--0
 
 **Global name:** `bbugyi200.athena.0fs--0` · **State:** active · **Source run:** `run-170386d136c933681cdcedf1dba6acd8`
 

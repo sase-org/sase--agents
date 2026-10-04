@@ -37,4 +37,4 @@
 | [sase-5w.f0](../bbugyi200.athena.sase-5w.f0/README.md) | descendant | waiting |
 | [sase-5w.f1](../bbugyi200.athena.sase-5w.f1/README.md) | descendant | waiting |
 | [sase-5w.f2](../bbugyi200.athena.sase-5w.f2/README.md) | descendant | dismissed |
-| [sase-5w.f3](../../families/bbugyi200.athena.sase-5w.f3.md) (family · 2) | descendant | active 1, completed 1 |
+| [sase-5w.f3](../../sessions/bbugyi200.athena.sase-5w.f3.md) (session · 2) | descendant | active 1, completed 1 |

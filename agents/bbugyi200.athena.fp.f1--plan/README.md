@@ -1,6 +1,6 @@
 # Agent: fp.f1--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [fp](../../users/bbugyi200/machines/athena/hoods/fp/README.md) / [fp.f1](../../families/bbugyi200.athena.fp.f1.md) / fp.f1--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [fp](../../users/bbugyi200/machines/athena/hoods/fp/README.md) / [fp.f1](../../sessions/bbugyi200.athena.fp.f1.md) / fp.f1--plan
 
 **Global name:** `bbugyi200.athena.fp.f1--plan` · **State:** active · **Source run:** `run-7cf68759debf00002e5ffb69c853491c`
 
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [fp](../../families/bbugyi200.athena.fp.md) (family · 2) | ancestor | active 1, completed 1 |
+| [fp](../../sessions/bbugyi200.athena.fp.md) (session · 2) | ancestor | active 1, completed 1 |
 | [fp.f0](../bbugyi200.athena.fp.f0/README.md) | fp hood | waiting |

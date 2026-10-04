@@ -1,6 +1,6 @@
 # Agent: gx--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [gx](../../users/bbugyi200/machines/athena/hoods/gx/README.md) / [gx](../../families/bbugyi200.athena.gx.md) / gx--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [gx](../../users/bbugyi200/machines/athena/hoods/gx/README.md) / [gx](../../sessions/bbugyi200.athena.gx.md) / gx--code
 
 **Global name:** `bbugyi200.athena.gx--code` · **State:** completed · **Source run:** `run-24c7b5999ca02e5d0cab9a764697a6cb`
 

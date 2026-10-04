@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [z6](../../families/bbugyi200.athena.z6.md) (family · 2) | ancestor | active 1, completed 1 |
-| [z6.f2](../../families/bbugyi200.athena.z6.f2.md) (family · 2) | z6 hood | active 1, failed 1 |
+| [z6](../../sessions/bbugyi200.athena.z6.md) (session · 2) | ancestor | active 1, completed 1 |
+| [z6.f2](../../sessions/bbugyi200.athena.z6.f2.md) (session · 2) | z6 hood | active 1, failed 1 |

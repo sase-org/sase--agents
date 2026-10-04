@@ -33,8 +33,8 @@
 | [sase-b7.3](../bbugyi200.athena.sase-b7.3/README.md) | sase-b7 hood | active |
 | [sase-b7.4](../bbugyi200.athena.sase-b7.4/README.md) | sase-b7 hood | active |
 | [sase-b7.4.w4](../bbugyi200.athena.sase-b7.4.w4/README.md) | sase-b7 hood | active |
-| [sase-b7.4.w5](../../families/bbugyi200.athena.sase-b7.4.w5.md) (family · 2) | sase-b7 hood | active 2 |
+| [sase-b7.4.w5](../../sessions/bbugyi200.athena.sase-b7.4.w5.md) (session · 2) | sase-b7 hood | active 2 |
 | [sase-b7.4.w6](../bbugyi200.athena.sase-b7.4.w6/README.md) | sase-b7 hood | active |
 | [sase-b7.4.w7](../bbugyi200.athena.sase-b7.4.w7/README.md) | sase-b7 hood | active |
 | [sase-b7.5](../bbugyi200.athena.sase-b7.5/README.md) | sase-b7 hood | active |
-| [sase-b7.land](../../families/bbugyi200.athena.sase-b7.land.md) (family · 2) | sase-b7 hood | active 2 |
+| [sase-b7.land](../../sessions/bbugyi200.athena.sase-b7.land.md) (session · 2) | sase-b7 hood | active 2 |

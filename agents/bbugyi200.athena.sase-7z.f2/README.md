@@ -28,5 +28,5 @@
 | [sase-7z.f0](../bbugyi200.athena.sase-7z.f0/README.md) | sase-7z hood | waiting |
 | [sase-7z.f1](../bbugyi200.athena.sase-7z.f1/README.md) | sase-7z hood | waiting |
 | [sase-7z.f4](../bbugyi200.athena.sase-7z.f4/README.md) | sase-7z hood | dismissed |
-| [sase-7z.land](../../families/bbugyi200.athena.sase-7z.land.md) (family · 2) | sase-7z hood | active 1, completed 1 |
+| [sase-7z.land](../../sessions/bbugyi200.athena.sase-7z.land.md) (session · 2) | sase-7z hood | active 1, completed 1 |
 | [sase-7z.land.f0](../bbugyi200.athena.sase-7z.land.f0/README.md) | sase-7z hood | dismissed |

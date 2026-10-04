@@ -1,6 +1,6 @@
 # Agent: toobig-3b.split\_file.src.sase.ace.tui.widgets.\_file\_completion\_base.0--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-3b](../../users/bbugyi200/machines/athena/hoods/toobig-3b/README.md) / [toobig-3b.split\_file.src.sase.ace.tui.widgets.\_file\_completion\_base.0](../../families/bbugyi200.athena.toobig-3b.split_file.src.sase.ace.tui.widgets._file_completion_base.0.md) / toobig-3b.split\_file.src.sase.ace.tui.widgets.\_file\_completion\_base.0--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-3b](../../users/bbugyi200/machines/athena/hoods/toobig-3b/README.md) / [toobig-3b.split\_file.src.sase.ace.tui.widgets.\_file\_completion\_base.0](../../sessions/bbugyi200.athena.toobig-3b.split_file.src.sase.ace.tui.widgets._file_completion_base.0.md) / toobig-3b.split\_file.src.sase.ace.tui.widgets.\_file\_completion\_base.0--plan
 
 **Global name:** `bbugyi200.athena.toobig-3b.split_file.src.sase.ace.tui.widgets._file_completion_base.0--plan` · **State:** active · **Source run:** `run-f3df49cb35af76ffd28cce6e35937e35`
 

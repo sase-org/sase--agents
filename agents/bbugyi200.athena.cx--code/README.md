@@ -1,6 +1,6 @@
 # Agent: cx--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [cx](../../users/bbugyi200/machines/athena/hoods/cx/README.md) / [cx](../../families/bbugyi200.athena.cx.md) / cx--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [cx](../../users/bbugyi200/machines/athena/hoods/cx/README.md) / [cx](../../sessions/bbugyi200.athena.cx.md) / cx--code
 
 **Global name:** `bbugyi200.athena.cx--code` · **State:** completed · **Source run:** `run-1539147d5dfc466a04d6c2c416a1b5c8`
 
@@ -21,8 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [cx.f0](../../families/bbugyi200.athena.cx.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [cx.f0](../../sessions/bbugyi200.athena.cx.f0.md) (session · 2) | descendant | active 1, completed 1 |
 | [cx.w0.w0](../bbugyi200.athena.cx.w0.w0/README.md) | descendant | dismissed |
 | [cx.w0.w1.w0](../bbugyi200.athena.cx.w0.w1.w0/README.md) | descendant | dismissed |
 | [cx.w0.w2](../bbugyi200.athena.cx.w0.w2/README.md) | descendant | dismissed |
-| [cx.w1](../../families/bbugyi200.athena.cx.w1.md) (family · 2) | descendant | active 2 |
+| [cx.w1](../../sessions/bbugyi200.athena.cx.w1.md) (session · 2) | descendant | active 2 |

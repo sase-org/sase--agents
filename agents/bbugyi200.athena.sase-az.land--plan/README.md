@@ -1,6 +1,6 @@
 # Agent: sase-az.land--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-az](../../users/bbugyi200/machines/athena/hoods/sase-az/README.md) / [sase-az.land](../../families/bbugyi200.athena.sase-az.land.md) / sase-az.land--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-az](../../users/bbugyi200/machines/athena/hoods/sase-az/README.md) / [sase-az.land](../../sessions/bbugyi200.athena.sase-az.land.md) / sase-az.land--plan
 
 **Global name:** `bbugyi200.athena.sase-az.land--plan` · **State:** active · **Source run:** `run-22d97e564ff717be24042d6405217e97`
 
@@ -24,5 +24,5 @@
 |---|---|---|
 | [sase-az.1](../bbugyi200.athena.sase-az.1/README.md) | sase-az hood | active |
 | [sase-az.2](../bbugyi200.athena.sase-az.2/README.md) | sase-az hood | active |
-| [sase-az.3](../../families/bbugyi200.athena.sase-az.3.md) (family · 2) | sase-az hood | active 1, completed 1 |
+| [sase-az.3](../../sessions/bbugyi200.athena.sase-az.3.md) (session · 2) | sase-az hood | active 1, completed 1 |
 | [sase-az.4](../bbugyi200.athena.sase-az.4/README.md) | sase-az hood | active |

@@ -21,6 +21,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [ny](../../families/bbugyi200.athena.ny.md) (family · 2) | ancestor | active 1, completed 1 |
+| [ny](../../sessions/bbugyi200.athena.ny.md) (session · 2) | ancestor | active 1, completed 1 |
 | [ny.f1.f0](../bbugyi200.athena.ny.f1.f0/README.md) | descendant | active |
-| [ny.f0](../../families/bbugyi200.athena.ny.f0.md) (family · 2) | ny hood | active 1, completed 1 |
+| [ny.f0](../../sessions/bbugyi200.athena.ny.f0.md) (session · 2) | ny hood | active 1, completed 1 |

@@ -1,6 +1,6 @@
 # Agent: hz--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [hz](../../users/bbugyi200/machines/athena/hoods/hz/README.md) / [hz](../../families/bbugyi200.athena.hz.md) / hz--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [hz](../../users/bbugyi200/machines/athena/hoods/hz/README.md) / [hz](../../sessions/bbugyi200.athena.hz.md) / hz--plan
 
 **Global name:** `bbugyi200.athena.hz--plan` · **State:** active · **Source run:** `run-a9f2cc0d8a10cff868e2ec5acdf4f4b0`
 

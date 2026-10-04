@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / chop
 
-**Global hood:** `bbugyi200.athena.chop` · **Runs:** 163 · **Families:** 6 · **States:** active 84, completed 9, dismissed 29, failed 6, waiting 35
+**Global hood:** `bbugyi200.athena.chop` · **Runs:** 163 · **Sessions:** 6 · **States:** active 84, completed 9, dismissed 29, failed 6, waiting 35
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|

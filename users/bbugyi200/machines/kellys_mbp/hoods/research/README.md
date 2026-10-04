@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [kellys\_mbp](../../README.md) / research
 
-**Global hood:** `bbugyi200.kellys_mbp.research` · **Runs:** 244 · **Families:** 0 · **States:** active 1, completed 229, dismissed 14
+**Global hood:** `bbugyi200.kellys_mbp.research` · **Runs:** 244 · **Sessions:** 0 · **States:** active 1, completed 229, dismissed 14
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|

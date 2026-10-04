@@ -1,6 +1,6 @@
 # Agent: sase-17p.2--gate
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-17p](../../users/bbugyi200/machines/athena/hoods/sase-17p/README.md) / [sase-17p.2](../../families/bbugyi200.athena.sase-17p.2.md) / sase-17p.2--gate
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-17p](../../users/bbugyi200/machines/athena/hoods/sase-17p/README.md) / [sase-17p.2](../../sessions/bbugyi200.athena.sase-17p.2.md) / sase-17p.2--gate
 
 **Global name:** `bbugyi200.athena.sase-17p.2--gate` · **State:** failed · **Source run:** `run-b11f728a8005994ef777392055b00762`
 
@@ -22,9 +22,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-17p.1](../../families/bbugyi200.athena.sase-17p.1.md) (family · 9) | sase-17p hood | active 7, completed 1, failed 1 |
+| [sase-17p.1](../../sessions/bbugyi200.athena.sase-17p.1.md) (session · 9) | sase-17p hood | active 7, completed 1, failed 1 |
 | [sase-17p.3](../bbugyi200.athena.sase-17p.3/README.md) | sase-17p hood | active |
 | [sase-17p.4](../bbugyi200.athena.sase-17p.4/README.md) | sase-17p hood | active |
-| [sase-17p.5](../../families/bbugyi200.athena.sase-17p.5.md) (family · 3) | sase-17p hood | active 2, failed 1 |
+| [sase-17p.5](../../sessions/bbugyi200.athena.sase-17p.5.md) (session · 3) | sase-17p hood | active 2, failed 1 |
 | [sase-17p.6](../bbugyi200.athena.sase-17p.6/README.md) | sase-17p hood | active |
 | [sase-17p.land](../bbugyi200.athena.sase-17p.land/README.md) | sase-17p hood | active |

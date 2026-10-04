@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / toobig-2y
 
-**Global hood:** `bbugyi200.athena.toobig-2y` · **Runs:** 5 · **Families:** 1 · **States:** active 3, completed 1, failed 1
+**Global hood:** `bbugyi200.athena.toobig-2y` · **Runs:** 5 · **Sessions:** 1 · **States:** active 3, completed 1, failed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|

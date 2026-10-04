@@ -42,4 +42,4 @@
 | [sase-tw.6](../bbugyi200.athena.sase-tw.6/README.md) | sase-tw hood | active |
 | [sase-tw.7](../bbugyi200.athena.sase-tw.7/README.md) | sase-tw hood | active |
 | [sase-tw.8](../bbugyi200.athena.sase-tw.8/README.md) | sase-tw hood | active |
-| [sase-tw.land](../../families/bbugyi200.athena.sase-tw.land.md) (family · 8) | sase-tw hood | active 4, completed 1, failed 3 |
+| [sase-tw.land](../../sessions/bbugyi200.athena.sase-tw.land.md) (session · 8) | sase-tw hood | active 4, completed 1, failed 3 |

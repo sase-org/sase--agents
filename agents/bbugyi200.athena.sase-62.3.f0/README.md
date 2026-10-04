@@ -20,6 +20,6 @@
 | [sase-62.3](../bbugyi200.athena.sase-62.3/README.md) | ancestor | dismissed |
 | [sase-62](../bbugyi200.athena.sase-62/README.md) | ancestor | dismissed |
 | [sase-62.3.f1](../bbugyi200.athena.sase-62.3.f1/README.md) | sase-62.3 hood | dismissed |
-| [sase-62.3.f2](../../families/bbugyi200.athena.sase-62.3.f2.md) (family · 2) | sase-62.3 hood | active 2 |
+| [sase-62.3.f2](../../sessions/bbugyi200.athena.sase-62.3.f2.md) (session · 2) | sase-62.3 hood | active 2 |
 | [sase-62.1](../bbugyi200.athena.sase-62.1/README.md) | sase-62 hood | dismissed |
 | [sase-62.2](../bbugyi200.athena.sase-62.2/README.md) | sase-62 hood | dismissed |

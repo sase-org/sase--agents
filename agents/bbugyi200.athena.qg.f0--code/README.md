@@ -1,6 +1,6 @@
 # Agent: qg.f0--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [qg](../../users/bbugyi200/machines/athena/hoods/qg/README.md) / [qg.f0](../../families/bbugyi200.athena.qg.f0.md) / qg.f0--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [qg](../../users/bbugyi200/machines/athena/hoods/qg/README.md) / [qg.f0](../../sessions/bbugyi200.athena.qg.f0.md) / qg.f0--code
 
 **Global name:** `bbugyi200.athena.qg.f0--code` · **State:** completed · **Source run:** `run-f89a006d5acfdbc6ae1c25647ac81391`
 
@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [qg](../../families/bbugyi200.athena.qg.md) (family · 2) | ancestor | active 1, completed 1 |
+| [qg](../../sessions/bbugyi200.athena.qg.md) (session · 2) | ancestor | active 1, completed 1 |

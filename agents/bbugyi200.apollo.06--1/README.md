@@ -1,6 +1,6 @@
 # Agent: 06--1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [06](../../users/bbugyi200/machines/apollo/hoods/06/README.md) / [06](../../families/bbugyi200.apollo.06.md) / 06--1
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [06](../../users/bbugyi200/machines/apollo/hoods/06/README.md) / [06](../../sessions/bbugyi200.apollo.06.md) / 06--1
 
 **Global name:** `bbugyi200.apollo.06--1` · **State:** active · **Source run:** `run-ab8cb40316b78c91d2d90560afa92bf9`
 

@@ -1,6 +1,6 @@
 # Agent: sase-12p.3--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-12p](../../users/bbugyi200/machines/athena/hoods/sase-12p/README.md) / [sase-12p.3](../../families/bbugyi200.athena.sase-12p.3.md) / sase-12p.3--mon
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-12p](../../users/bbugyi200/machines/athena/hoods/sase-12p/README.md) / [sase-12p.3](../../sessions/bbugyi200.athena.sase-12p.3.md) / sase-12p.3--mon
 
 **Global name:** `bbugyi200.athena.sase-12p.3--mon` · **State:** active · **Source run:** `run-dd4047e0a9bb11136e3b4d684abfd3dc`
 
@@ -25,4 +25,4 @@
 |---|---|---|
 | [sase-12p.1](../bbugyi200.athena.sase-12p.1/README.md) | sase-12p hood | active |
 | [sase-12p.2](../bbugyi200.athena.sase-12p.2/README.md) | sase-12p hood | active |
-| [sase-12p.land](../../families/bbugyi200.athena.sase-12p.land.md) (family · 3) | sase-12p hood | active 3 |
+| [sase-12p.land](../../sessions/bbugyi200.athena.sase-12p.land.md) (session · 3) | sase-12p hood | active 3 |

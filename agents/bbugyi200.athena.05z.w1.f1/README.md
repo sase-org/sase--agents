@@ -29,4 +29,4 @@
 | [05z.w1.f2](../bbugyi200.athena.05z.w1.f2/README.md) | 05z.w1 hood | completed |
 | [05z.w1.f2.f1](../bbugyi200.athena.05z.w1.f2.f1/README.md) | 05z.w1 hood | completed |
 | [05z.f0](../bbugyi200.athena.05z.f0/README.md) | 05z hood | active |
-| [05z.f0.f0](../../families/bbugyi200.athena.05z.f0.f0.md) (family · 4) | 05z hood | active 1, completed 2, failed 1 |
+| [05z.f0.f0](../../sessions/bbugyi200.athena.05z.f0.f0.md) (session · 4) | 05z hood | active 1, completed 2, failed 1 |

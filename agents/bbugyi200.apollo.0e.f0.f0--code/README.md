@@ -1,6 +1,6 @@
 # Agent: 0e.f0.f0--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [0e](../../users/bbugyi200/machines/apollo/hoods/0e/README.md) / [0e.f0.f0](../../families/bbugyi200.apollo.0e.f0.f0.md) / 0e.f0.f0--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [0e](../../users/bbugyi200/machines/apollo/hoods/0e/README.md) / [0e.f0.f0](../../sessions/bbugyi200.apollo.0e.f0.f0.md) / 0e.f0.f0--code
 
 **Global name:** `bbugyi200.apollo.0e.f0.f0--code` · **State:** completed · **Source run:** `run-5d61ec265c6c8b5d5b804c00fd45b8b2`
 
@@ -21,10 +21,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0e.f0](../../families/bbugyi200.apollo.0e.f0.md) (family · 5) | ancestor | completed 3, failed 2 |
-| [0e](../../families/bbugyi200.apollo.0e.md) (family · 3) | ancestor | active 1, completed 1, failed 1 |
-| [0e.f0.f0.w0](../../families/bbugyi200.apollo.0e.f0.f0.w0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |
-| [0e.w0](../../families/bbugyi200.apollo.0e.w0.md) (family · 3) | 0e hood | active 1, completed 1, failed 1 |
+| [0e.f0](../../sessions/bbugyi200.apollo.0e.f0.md) (session · 5) | ancestor | completed 3, failed 2 |
+| [0e](../../sessions/bbugyi200.apollo.0e.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0e.f0.f0.w0](../../sessions/bbugyi200.apollo.0e.f0.f0.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [0e.w0](../../sessions/bbugyi200.apollo.0e.w0.md) (session · 3) | 0e hood | active 1, completed 1, failed 1 |
 | [0e.w1](../bbugyi200.apollo.0e.w1/README.md) | 0e hood | completed |
 | [0e.w1.w1](../bbugyi200.apollo.0e.w1.w1/README.md) | 0e hood | completed |
 | [0e.w1.w1.w1](../bbugyi200.apollo.0e.w1.w1.w1/README.md) | 0e hood | completed |

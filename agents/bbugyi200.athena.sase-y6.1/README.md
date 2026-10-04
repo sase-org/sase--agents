@@ -27,4 +27,4 @@
 | [sase-y6.3](../bbugyi200.athena.sase-y6.3/README.md) | sase-y6 hood | active |
 | [sase-y6.4](../bbugyi200.athena.sase-y6.4/README.md) | sase-y6 hood | active |
 | [sase-y6.5](../bbugyi200.athena.sase-y6.5/README.md) | sase-y6 hood | active |
-| [sase-y6.land](../../families/bbugyi200.athena.sase-y6.land.md) (family · 5) | sase-y6 hood | active 1, completed 1, failed 3 |
+| [sase-y6.land](../../sessions/bbugyi200.athena.sase-y6.land.md) (session · 5) | sase-y6 hood | active 1, completed 1, failed 3 |

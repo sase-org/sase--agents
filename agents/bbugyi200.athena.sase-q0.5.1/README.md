@@ -25,8 +25,8 @@
 |---|---|---|
 | [sase-q0.5.2](../bbugyi200.athena.sase-q0.5.2/README.md) | sase-q0.5 hood | active |
 | [sase-q0.5.land](../bbugyi200.athena.sase-q0.5.land/README.md) | sase-q0.5 hood | active |
-| [sase-q0.1](../../families/bbugyi200.athena.sase-q0.1.md) (family · 5) | sase-q0 hood | active 1, completed 2, failed 2 |
+| [sase-q0.1](../../sessions/bbugyi200.athena.sase-q0.1.md) (session · 5) | sase-q0 hood | active 1, completed 2, failed 2 |
 | [sase-q0.2](../bbugyi200.athena.sase-q0.2/README.md) | sase-q0 hood | active |
 | [sase-q0.3](../bbugyi200.athena.sase-q0.3/README.md) | sase-q0 hood | active |
-| [sase-q0.4](../../families/bbugyi200.athena.sase-q0.4.md) (family · 3) | sase-q0 hood | active 1, completed 1, failed 1 |
-| [sase-q0.land](../../families/bbugyi200.athena.sase-q0.land.md) (family · 2) | sase-q0 hood | active 1, failed 1 |
+| [sase-q0.4](../../sessions/bbugyi200.athena.sase-q0.4.md) (session · 3) | sase-q0 hood | active 1, completed 1, failed 1 |
+| [sase-q0.land](../../sessions/bbugyi200.athena.sase-q0.land.md) (session · 2) | sase-q0 hood | active 1, failed 1 |

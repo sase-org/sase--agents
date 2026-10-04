@@ -31,8 +31,8 @@
 | [sase-6t.land.w0](../bbugyi200.athena.sase-6t.land.w0/README.md) | descendant | waiting |
 | [sase-6t.land.w1](../bbugyi200.athena.sase-6t.land.w1/README.md) | descendant | dismissed |
 | [sase-6t.land.w1.w0](../bbugyi200.athena.sase-6t.land.w1.w0/README.md) | descendant | dismissed |
-| [sase-6t.land.w2](../../families/bbugyi200.athena.sase-6t.land.w2.md) (family · 2) | descendant | active 1, completed 1 |
-| [sase-6t.land.w2.w1](../../families/bbugyi200.athena.sase-6t.land.w2.w1.md) (family · 2) | descendant | active 1, completed 1 |
+| [sase-6t.land.w2](../../sessions/bbugyi200.athena.sase-6t.land.w2.md) (session · 2) | descendant | active 1, completed 1 |
+| [sase-6t.land.w2.w1](../../sessions/bbugyi200.athena.sase-6t.land.w2.w1.md) (session · 2) | descendant | active 1, completed 1 |
 | [sase-6t.1](../bbugyi200.athena.sase-6t.1/README.md) | sase-6t hood | completed |
 | [sase-6t.2](../bbugyi200.athena.sase-6t.2/README.md) | sase-6t hood | completed |
 | [sase-6t.3](../bbugyi200.athena.sase-6t.3/README.md) | sase-6t hood | dismissed |

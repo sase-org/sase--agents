@@ -32,5 +32,5 @@
 | [sase-on.1](../bbugyi200.athena.sase-on.1/README.md) | sase-on hood | active |
 | [sase-on.2](../bbugyi200.athena.sase-on.2/README.md) | sase-on hood | active |
 | [sase-on.4](../bbugyi200.athena.sase-on.4/README.md) | sase-on hood | active |
-| [sase-on.5](../../families/bbugyi200.athena.sase-on.5.md) (family · 3) | sase-on hood | active 3 |
-| [sase-on.land](../../families/bbugyi200.athena.sase-on.land.md) (family · 5) | sase-on hood | active 5 |
+| [sase-on.5](../../sessions/bbugyi200.athena.sase-on.5.md) (session · 3) | sase-on hood | active 3 |
+| [sase-on.land](../../sessions/bbugyi200.athena.sase-on.land.md) (session · 5) | sase-on hood | active 5 |

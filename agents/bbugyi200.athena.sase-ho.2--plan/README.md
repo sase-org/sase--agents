@@ -1,6 +1,6 @@
 # Agent: sase-ho.2--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ho](../../users/bbugyi200/machines/athena/hoods/sase-ho/README.md) / [sase-ho.2](../../families/bbugyi200.athena.sase-ho.2.md) / sase-ho.2--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ho](../../users/bbugyi200/machines/athena/hoods/sase-ho/README.md) / [sase-ho.2](../../sessions/bbugyi200.athena.sase-ho.2.md) / sase-ho.2--plan
 
 **Global name:** `bbugyi200.athena.sase-ho.2--plan` · **State:** active · **Source run:** `run-67092285e2bdbfa508f10dddd1116c8e`
 
@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ho.1](../../families/bbugyi200.athena.sase-ho.1.md) (family · 2) | sase-ho hood | active 1, completed 1 |
+| [sase-ho.1](../../sessions/bbugyi200.athena.sase-ho.1.md) (session · 2) | sase-ho hood | active 1, completed 1 |
 | [sase-ho.3](../bbugyi200.athena.sase-ho.3/README.md) | sase-ho hood | active |
 | [sase-ho.4](../bbugyi200.athena.sase-ho.4/README.md) | sase-ho hood | active |
 | [sase-ho.5](../bbugyi200.athena.sase-ho.5/README.md) | sase-ho hood | active |

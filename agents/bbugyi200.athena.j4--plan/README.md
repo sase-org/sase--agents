@@ -1,6 +1,6 @@
 # Agent: j4--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [j4](../../users/bbugyi200/machines/athena/hoods/j4/README.md) / [j4](../../families/bbugyi200.athena.j4.md) / j4--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [j4](../../users/bbugyi200/machines/athena/hoods/j4/README.md) / [j4](../../sessions/bbugyi200.athena.j4.md) / j4--plan
 
 **Global name:** `bbugyi200.athena.j4--plan` · **State:** active · **Source run:** `run-82d2872bb832788e7f7087acd548dec0`
 

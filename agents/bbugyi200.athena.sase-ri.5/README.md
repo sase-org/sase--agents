@@ -31,18 +31,18 @@
 |---|---|---|
 | [sase-ri.1](../bbugyi200.athena.sase-ri.1/README.md) | sase-ri hood | active |
 | [sase-ri.2](../bbugyi200.athena.sase-ri.2/README.md) | sase-ri hood | active |
-| [sase-ri.3](../../families/bbugyi200.athena.sase-ri.3.md) (family · 5) | sase-ri hood | active 5 |
+| [sase-ri.3](../../sessions/bbugyi200.athena.sase-ri.3.md) (session · 5) | sase-ri hood | active 5 |
 | [sase-ri.4](../bbugyi200.athena.sase-ri.4/README.md) | sase-ri hood | active |
 | [sase-ri.land](../bbugyi200.athena.sase-ri.land/README.md) | sase-ri hood | active |
 | [sase-ri.land.w0](../bbugyi200.athena.sase-ri.land.w0/README.md) | sase-ri hood | active |
 | [sase-ri.land.w1.f0](../bbugyi200.athena.sase-ri.land.w1.f0/README.md) | sase-ri hood | active |
-| [sase-ri.land.w2](../../families/bbugyi200.athena.sase-ri.land.w2.md) (family · 2) | sase-ri hood | active 1, failed 1 |
+| [sase-ri.land.w2](../../sessions/bbugyi200.athena.sase-ri.land.w2.md) (session · 2) | sase-ri hood | active 1, failed 1 |
 | [sase-ri.land.w2.f0](../bbugyi200.athena.sase-ri.land.w2.f0/README.md) | sase-ri hood | active |
 | [sase-ri.land.w2.f1](../bbugyi200.athena.sase-ri.land.w2.f1/README.md) | sase-ri hood | waiting |
 | [sase-ri.land.w2.f2.f0](../bbugyi200.athena.sase-ri.land.w2.f2.f0/README.md) | sase-ri hood | active |
 | [sase-ri.land.w2.f2.f1](../bbugyi200.athena.sase-ri.land.w2.f2.f1/README.md) | sase-ri hood | waiting |
 | [sase-ri.land.w2.f2.f3](../bbugyi200.athena.sase-ri.land.w2.f2.f3/README.md) | sase-ri hood | active |
-| [sase-ri.land.w2.f2.w2](../../families/bbugyi200.athena.sase-ri.land.w2.f2.w2.md) (family · 4) | sase-ri hood | active 1, completed 2, failed 1 |
-| [sase-ri.land.w2.f2.w2.f1](../../families/bbugyi200.athena.sase-ri.land.w2.f2.w2.f1.md) (family · 2) | sase-ri hood | active 1, completed 1 |
-| [sase-ri.land.w2.f2.w3](../../families/bbugyi200.athena.sase-ri.land.w2.f2.w3.md) (family · 4) | sase-ri hood | active 1, completed 2, failed 1 |
-| [sase-ri.land.w2.f3](../../families/bbugyi200.athena.sase-ri.land.w2.f3.md) (family · 2) | sase-ri hood | active 1, completed 1 |
+| [sase-ri.land.w2.f2.w2](../../sessions/bbugyi200.athena.sase-ri.land.w2.f2.w2.md) (session · 4) | sase-ri hood | active 1, completed 2, failed 1 |
+| [sase-ri.land.w2.f2.w2.f1](../../sessions/bbugyi200.athena.sase-ri.land.w2.f2.w2.f1.md) (session · 2) | sase-ri hood | active 1, completed 1 |
+| [sase-ri.land.w2.f2.w3](../../sessions/bbugyi200.athena.sase-ri.land.w2.f2.w3.md) (session · 4) | sase-ri hood | active 1, completed 2, failed 1 |
+| [sase-ri.land.w2.f3](../../sessions/bbugyi200.athena.sase-ri.land.w2.f3.md) (session · 2) | sase-ri hood | active 1, completed 1 |

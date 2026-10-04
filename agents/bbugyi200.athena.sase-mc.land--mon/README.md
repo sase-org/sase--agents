@@ -1,6 +1,6 @@
 # Agent: sase-mc.land--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-mc](../../users/bbugyi200/machines/athena/hoods/sase-mc/README.md) / [sase-mc.land](../../families/bbugyi200.athena.sase-mc.land.md) / sase-mc.land--mon
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-mc](../../users/bbugyi200/machines/athena/hoods/sase-mc/README.md) / [sase-mc.land](../../sessions/bbugyi200.athena.sase-mc.land.md) / sase-mc.land--mon
 
 **Global name:** `bbugyi200.athena.sase-mc.land--mon` · **State:** failed · **Source run:** `run-9b514e1d428c91e96c1acceae7924862`
 
@@ -27,5 +27,5 @@
 | [sase-mc.3](../bbugyi200.athena.sase-mc.3/README.md) | sase-mc hood | active |
 | [sase-mc.4](../bbugyi200.athena.sase-mc.4/README.md) | sase-mc hood | active |
 | [sase-mc.5.1](../bbugyi200.athena.sase-mc.5.1/README.md) | sase-mc hood | active |
-| [sase-mc.5.2](../../families/bbugyi200.athena.sase-mc.5.2.md) (family · 5) | sase-mc hood | active 1, completed 2, failed 2 |
-| [sase-mc.5.land](../../families/bbugyi200.athena.sase-mc.5.land.md) (family · 2) | sase-mc hood | active 1, completed 1 |
+| [sase-mc.5.2](../../sessions/bbugyi200.athena.sase-mc.5.2.md) (session · 5) | sase-mc hood | active 1, completed 2, failed 2 |
+| [sase-mc.5.land](../../sessions/bbugyi200.athena.sase-mc.5.land.md) (session · 2) | sase-mc hood | active 1, completed 1 |

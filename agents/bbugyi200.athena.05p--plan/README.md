@@ -1,6 +1,6 @@
 # Agent: 05p--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [05p](../../users/bbugyi200/machines/athena/hoods/05p/README.md) / [05p](../../families/bbugyi200.athena.05p.md) / 05p--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [05p](../../users/bbugyi200/machines/athena/hoods/05p/README.md) / [05p](../../sessions/bbugyi200.athena.05p.md) / 05p--plan
 
 **Global name:** `bbugyi200.athena.05p--plan` · **State:** active · **Source run:** `run-3e1a0c55aae3d9ebf5ebaa52d0758d80`
 

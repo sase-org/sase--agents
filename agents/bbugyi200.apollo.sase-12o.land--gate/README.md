@@ -1,6 +1,6 @@
 # Agent: sase-12o.land--gate
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-12o](../../users/bbugyi200/machines/apollo/hoods/sase-12o/README.md) / [sase-12o.land](../../families/bbugyi200.apollo.sase-12o.land.md) / sase-12o.land--gate
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-12o](../../users/bbugyi200/machines/apollo/hoods/sase-12o/README.md) / [sase-12o.land](../../sessions/bbugyi200.apollo.sase-12o.land.md) / sase-12o.land--gate
 
 **Global name:** `bbugyi200.apollo.sase-12o.land--gate` · **State:** failed · **Source run:** `run-5dc15912a71148105d07cc4eccae59c1`
 

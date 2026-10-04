@@ -4,7 +4,7 @@
 
 **Project:** sase · **Hoods:** 19 · **Runs:** 315
 
-| Hood | Runs | Families | States |
+| Hood | Runs | Sessions | States |
 |---|---:|---:|---|
 | [0b](hoods/0b/README.md) | 5 | 1 | active 1, completed 3, failed 1 |
 | [0f](hoods/0f/README.md) | 1 | 0 | active 1 |

@@ -1,6 +1,6 @@
 # Agent: 0m8--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0m8](../../users/bbugyi200/machines/athena/hoods/0m8/README.md) / [0m8](../../families/bbugyi200.athena.0m8.md) / 0m8--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0m8](../../users/bbugyi200/machines/athena/hoods/0m8/README.md) / [0m8](../../sessions/bbugyi200.athena.0m8.md) / 0m8--plan
 
 **Global name:** `bbugyi200.athena.0m8--plan` · **State:** active · **Source run:** `run-42dc91c83ad3e5dad2bc68c84537578d`
 

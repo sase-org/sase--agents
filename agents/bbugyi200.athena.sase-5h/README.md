@@ -1,6 +1,6 @@
 # Agent: sase-5h
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-5h](../../users/bbugyi200/machines/athena/hoods/sase-5h/README.md) / [sase-5h](../../families/bbugyi200.athena.sase-5h.md) / sase-5h
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-5h](../../users/bbugyi200/machines/athena/hoods/sase-5h/README.md) / [sase-5h](../../sessions/bbugyi200.athena.sase-5h.md) / sase-5h
 
 **Global name:** `bbugyi200.athena.sase-5h` · **State:** active · **Source run:** `run-7b4f0c25b07cf380966a9fe8ddba0b3d`
 
@@ -29,4 +29,4 @@
 | [sase-5h.5](../bbugyi200.athena.sase-5h.5/README.md) | descendant | dismissed |
 | [sase-5h.6](../bbugyi200.athena.sase-5h.6/README.md) | descendant | dismissed |
 | [sase-5h.6.f1](../bbugyi200.athena.sase-5h.6.f1/README.md) | descendant | dismissed |
-| [sase-5h.w1](../../families/bbugyi200.athena.sase-5h.w1.md) (family · 2) | descendant | active 2 |
+| [sase-5h.w1](../../sessions/bbugyi200.athena.sase-5h.w1.md) (session · 2) | descendant | active 2 |

@@ -1,6 +1,6 @@
 # Agent: 0gr.f0--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0gr](../../users/bbugyi200/machines/athena/hoods/0gr/README.md) / [0gr.f0](../../families/bbugyi200.athena.0gr.f0.md) / 0gr.f0--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0gr](../../users/bbugyi200/machines/athena/hoods/0gr/README.md) / [0gr.f0](../../sessions/bbugyi200.athena.0gr.f0.md) / 0gr.f0--code
 
 **Global name:** `bbugyi200.athena.0gr.f0--code` · **State:** completed · **Source run:** `run-e66e4fe0d8056d6831f5e49f8b043f80`
 
@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0gr](../../families/bbugyi200.athena.0gr.md) (family · 7) | ancestor | active 1, failed 6 |
+| [0gr](../../sessions/bbugyi200.athena.0gr.md) (session · 7) | ancestor | active 1, failed 6 |

@@ -21,8 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0j8.f0](../../families/bbugyi200.athena.0j8.f0.md) (family · 3) | ancestor | active 1, completed 1, failed 1 |
-| [0j8](../../families/bbugyi200.athena.0j8.md) (family · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0j8.f0](../../sessions/bbugyi200.athena.0j8.f0.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0j8](../../sessions/bbugyi200.athena.0j8.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
 | [0j8.f0.f1](../bbugyi200.athena.0j8.f0.f1/README.md) | 0j8.f0 hood | waiting |
-| [0j8.f0.f2](../../families/bbugyi200.athena.0j8.f0.f2.md) (family · 2) | 0j8.f0 hood | active 1, failed 1 |
-| [0j8.f0.f2.f0](../../families/bbugyi200.athena.0j8.f0.f2.f0.md) (family · 3) | 0j8.f0 hood | active 1, failed 2 |
+| [0j8.f0.f2](../../sessions/bbugyi200.athena.0j8.f0.f2.md) (session · 2) | 0j8.f0 hood | active 1, failed 1 |
+| [0j8.f0.f2.f0](../../sessions/bbugyi200.athena.0j8.f0.f2.f0.md) (session · 3) | 0j8.f0 hood | active 1, failed 2 |

@@ -1,53 +1,5 @@
-# Family: sase-sq.1
+# Moved to sessions/bbugyi200.athena.sase-sq.1.md
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-sq](../users/bbugyi200/machines/athena/hoods/sase-sq/README.md) / sase-sq.1
+This agent session page now lives at [`sessions/bbugyi200.athena.sase-sq.1.md`](../sessions/bbugyi200.athena.sase-sq.1.md).
 
-Owner: `bbugyi200.athena` · Hood: `sase-sq` · Members: 2 · Bead: [sase-sq.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-sq/sase-sq.1.md)
-
-## Lineage
-
-```mermaid
-flowchart TD
-  n0["sase-sq.1--plan [active]"]
-  n1["sase-sq.1--code [completed]"]
-  n0 --> n1
-```
-
-The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
-
-| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
-|---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-sq.1--plan | active | opus / claude | 2026-08-24T14:34:55.986220+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-sq.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-sq.1--plan/chat.md) |
-| <a id="member-code"></a>code | sase-sq.1--code | completed | gpt-5.5 / codex | 2026-08-24T14:49:12.154544+00:00 → 2026-08-24T16:51:10.892760+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-sq.1--code/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| — | sase | [`c9ca0db`](https://github.com/sase-org/sase/commit/c9ca0db5f8d0d7b5d007010e661abb1d2b5638dc) | feat(memory): rename memory tiers to core and reference | 2026-08-24 12:41:31 EDT |
-
-## Neighbors
-
-| Agent | Relation | State |
-|---|---|---|
-| [sase-sq.2](bbugyi200.athena.sase-sq.2.md) (family · 2) | sase-sq hood | active 2 |
-| [sase-sq.3](../agents/bbugyi200.athena.sase-sq.3/README.md) | sase-sq hood | active |
-| [sase-sq.4](../agents/bbugyi200.athena.sase-sq.4/README.md) | sase-sq hood | active |
-| [sase-sq.5](bbugyi200.athena.sase-sq.5.md) (family · 7) | sase-sq hood | active 4, failed 3 |
-| [sase-sq.6](../agents/bbugyi200.athena.sase-sq.6/README.md) | sase-sq hood | active |
-| [sase-sq.7](bbugyi200.athena.sase-sq.7.md) (family · 2) | sase-sq hood | active 1, failed 1 |
-| [sase-sq.7.1.1](../agents/bbugyi200.athena.sase-sq.7.1.1/README.md) | sase-sq hood | active |
-| [sase-sq.7.1.2](../agents/bbugyi200.athena.sase-sq.7.1.2/README.md) | sase-sq hood | active |
-| [sase-sq.7.1.2.f0](../agents/bbugyi200.athena.sase-sq.7.1.2.f0/README.md) | sase-sq hood | active |
-| [sase-sq.7.1.2.f0.f0](../agents/bbugyi200.athena.sase-sq.7.1.2.f0.f0/README.md) | sase-sq hood | active |
-| [sase-sq.7.1.3](bbugyi200.athena.sase-sq.7.1.3.md) (family · 5) | sase-sq hood | active 3, failed 2 |
-| [sase-sq.7.1.4](../agents/bbugyi200.athena.sase-sq.7.1.4/README.md) | sase-sq hood | active |
-| [sase-sq.7.1.5](../agents/bbugyi200.athena.sase-sq.7.1.5/README.md) | sase-sq hood | active |
-| [sase-sq.7.1.6](bbugyi200.athena.sase-sq.7.1.6.md) (family · 7) | sase-sq hood | active 4, failed 3 |
-| [sase-sq.7.1.land](../agents/bbugyi200.athena.sase-sq.7.1.land/README.md) | sase-sq hood | active |
-| [sase-sq.8](bbugyi200.athena.sase-sq.8.md) (family · 2) | sase-sq hood | active 1, failed 1 |
-| [sase-sq.8.1.1](../agents/bbugyi200.athena.sase-sq.8.1.1/README.md) | sase-sq hood | active |
-| [sase-sq.8.1.2](../agents/bbugyi200.athena.sase-sq.8.1.2/README.md) | sase-sq hood | active |
-| [sase-sq.8.1.3](../agents/bbugyi200.athena.sase-sq.8.1.3/README.md) | sase-sq hood | active |
-| [sase-sq.8.1.land](../agents/bbugyi200.athena.sase-sq.8.1.land/README.md) | sase-sq hood | active |
-| [sase-sq.land](bbugyi200.athena.sase-sq.land.md) (family · 3) | sase-sq hood | active 3 |
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

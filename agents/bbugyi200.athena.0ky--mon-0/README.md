@@ -1,6 +1,6 @@
 # Agent: 0ky--mon-0
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0ky](../../users/bbugyi200/machines/athena/hoods/0ky/README.md) / [0ky](../../families/bbugyi200.athena.0ky.md) / 0ky--mon-0
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0ky](../../users/bbugyi200/machines/athena/hoods/0ky/README.md) / [0ky](../../sessions/bbugyi200.athena.0ky.md) / 0ky--mon-0
 
 **Global name:** `bbugyi200.athena.0ky--mon-0` · **State:** failed · **Source run:** `run-795ba031d73d37c6e267be7855e9cb3d`
 
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0ky.w0](../../families/bbugyi200.athena.0ky.w0.md) (family · 3) | descendant | active 1, failed 2 |
+| [0ky.w0](../../sessions/bbugyi200.athena.0ky.w0.md) (session · 3) | descendant | active 1, failed 2 |

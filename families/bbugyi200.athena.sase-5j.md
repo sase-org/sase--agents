@@ -1,41 +1,5 @@
-# Family: sase-5j
+# Moved to sessions/bbugyi200.athena.sase-5j.md
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-5j](../users/bbugyi200/machines/athena/hoods/sase-5j/README.md) / sase-5j
+This agent session page now lives at [`sessions/bbugyi200.athena.sase-5j.md`](../sessions/bbugyi200.athena.sase-5j.md).
 
-Owner: `bbugyi200.athena` · Hood: `sase-5j` · Members: 2 · Bead: [sase-5j](https://github.com/sase-org/sase--beads/blob/main/pages/sase-5j/README.md)
-
-## Lineage
-
-```mermaid
-flowchart TD
-  n0["sase-5j [active]"]
-  n1["sase-5j--code [completed]"]
-  n0 --> n1
-```
-
-The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
-
-| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
-|---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | sase-5j | active | opus / claude | 2026-07-08T06:35:32.287566+00:00 | [1](../agents/bbugyi200.athena.sase-5j/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-5j/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-5j/chat.md) |
-| <a id="member-code"></a>code | sase-5j--code | completed | gpt-5.5 / codex | 2026-07-08T06:47:12.536942+00:00 | [1](../agents/bbugyi200.athena.sase-5j--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-5j--code/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| root | sase | [`bb46c64`](https://github.com/sase-org/sase/commit/bb46c640baa116f6e8732cfd7ec4718dfd45cc32) | chore: Add SDD prompt and plan for sase\_5j\_finish | 2026-07-08 02:47:11 EDT |
-| code | sase | [`bbbcf31`](https://github.com/sase-org/sase/commit/bbbcf31fd96f74fcd8e5328cf9b486de3960e34e) | fix(sdd): point missing companion stores at migrate | 2026-07-08 02:58:58 EDT |
-
-## Neighbors
-
-| Agent | Relation | State |
-|---|---|---|
-| [sase-5j.1](../agents/bbugyi200.athena.sase-5j.1/README.md) | descendant | dismissed |
-| [sase-5j.2](../agents/bbugyi200.athena.sase-5j.2/README.md) | descendant | dismissed |
-| [sase-5j.3](../agents/bbugyi200.athena.sase-5j.3/README.md) | descendant | dismissed |
-| [sase-5j.4](../agents/bbugyi200.athena.sase-5j.4/README.md) | descendant | dismissed |
-| [sase-5j.5](../agents/bbugyi200.athena.sase-5j.5/README.md) | descendant | dismissed |
-| [sase-5j.6](../agents/bbugyi200.athena.sase-5j.6/README.md) | descendant | dismissed |
-| [sase-5j.f1](../agents/bbugyi200.athena.sase-5j.f1/README.md) | descendant | waiting |
-| [sase-5j.f1.f1](../agents/bbugyi200.athena.sase-5j.f1.f1/README.md) | descendant | waiting |
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

@@ -1,6 +1,6 @@
 # Agent: sase-99.land.f3--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-99](../../users/bbugyi200/machines/athena/hoods/sase-99/README.md) / [sase-99.land.f3](../../families/bbugyi200.athena.sase-99.land.f3.md) / sase-99.land.f3--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-99](../../users/bbugyi200/machines/athena/hoods/sase-99/README.md) / [sase-99.land.f3](../../sessions/bbugyi200.athena.sase-99.land.f3.md) / sase-99.land.f3--code
 
 **Global name:** `bbugyi200.athena.sase-99.land.f3--code` · **State:** completed · **Source run:** `run-b64bdc2dbd7c2672cb268fa520f59df7`
 
@@ -28,7 +28,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-99.land](../bbugyi200.athena.sase-99.land/README.md) | ancestor | active |
-| [sase-99.land.f2](../../families/bbugyi200.athena.sase-99.land.f2.md) (family · 2) | sase-99.land hood | active 1, completed 1 |
+| [sase-99.land.f2](../../sessions/bbugyi200.athena.sase-99.land.f2.md) (session · 2) | sase-99.land hood | active 1, completed 1 |
 | [sase-99.land.f2](../bbugyi200.athena.sase-99.land.f2/README.md) | sase-99.land hood | completed |
 | [sase-99.1](../bbugyi200.athena.sase-99.1/README.md) | sase-99 hood | active |
 | [sase-99.2](../bbugyi200.athena.sase-99.2/README.md) | sase-99 hood | active |

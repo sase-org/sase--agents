@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [kellys\_mbp](../../README.md) / z
 
-**Global hood:** `bbugyi200.kellys_mbp.z` · **Runs:** 3 · **Families:** 1 · **States:** active 1, completed 1, failed 1
+**Global hood:** `bbugyi200.kellys_mbp.z` · **Runs:** 3 · **Sessions:** 1 · **States:** active 1, completed 1, failed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|

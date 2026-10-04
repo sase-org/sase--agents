@@ -26,4 +26,4 @@
 | [sase-5w.6](../bbugyi200.athena.sase-5w.6/README.md) | sase-5w hood | dismissed |
 | [sase-5w.f0](../bbugyi200.athena.sase-5w.f0/README.md) | sase-5w hood | waiting |
 | [sase-5w.f1](../bbugyi200.athena.sase-5w.f1/README.md) | sase-5w hood | waiting |
-| [sase-5w.f3](../../families/bbugyi200.athena.sase-5w.f3.md) (family · 2) | sase-5w hood | active 1, completed 1 |
+| [sase-5w.f3](../../sessions/bbugyi200.athena.sase-5w.f3.md) (session · 2) | sase-5w hood | active 1, completed 1 |

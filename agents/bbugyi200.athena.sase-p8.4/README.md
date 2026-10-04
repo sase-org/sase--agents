@@ -30,8 +30,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-p8.1](../bbugyi200.athena.sase-p8.1/README.md) | sase-p8 hood | active |
-| [sase-p8.2](../../families/bbugyi200.athena.sase-p8.2.md) (family · 5) | sase-p8 hood | active 5 |
+| [sase-p8.2](../../sessions/bbugyi200.athena.sase-p8.2.md) (session · 5) | sase-p8 hood | active 5 |
 | [sase-p8.3](../bbugyi200.athena.sase-p8.3/README.md) | sase-p8 hood | active |
 | [sase-p8.5](../bbugyi200.athena.sase-p8.5/README.md) | sase-p8 hood | active |
-| [sase-p8.6](../../families/bbugyi200.athena.sase-p8.6.md) (family · 3) | sase-p8 hood | active 3 |
+| [sase-p8.6](../../sessions/bbugyi200.athena.sase-p8.6.md) (session · 3) | sase-p8 hood | active 3 |
 | [sase-p8.land](../bbugyi200.athena.sase-p8.land/README.md) | sase-p8 hood | active |

@@ -29,6 +29,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ps.1](../bbugyi200.athena.sase-ps.1/README.md) | sase-ps hood | active |
-| [sase-ps.2](../../families/bbugyi200.athena.sase-ps.2.md) (family · 7) | sase-ps hood | active 1, completed 3, failed 3 |
+| [sase-ps.2](../../sessions/bbugyi200.athena.sase-ps.2.md) (session · 7) | sase-ps hood | active 1, completed 3, failed 3 |
 | [sase-ps.3](../bbugyi200.athena.sase-ps.3/README.md) | sase-ps hood | active |
 | [sase-ps.4](../bbugyi200.athena.sase-ps.4/README.md) | sase-ps hood | active |

@@ -1,27 +1,5 @@
-# Family: 062.f1
+# Moved to sessions/bbugyi200.athena.062.f1.md
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [062](../users/bbugyi200/machines/athena/hoods/062/README.md) / 062.f1
+This agent session page now lives at [`sessions/bbugyi200.athena.062.f1.md`](../sessions/bbugyi200.athena.062.f1.md).
 
-Owner: `bbugyi200.athena` · Hood: `062` · Members: 2
-
-## Lineage
-
-```mermaid
-flowchart TD
-  n0["062.f1--plan [active]"]
-  n1["062.f1--mon [failed]"]
-  n0 --> n1
-```
-
-The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
-
-| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
-|---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 062.f1--plan | active | opus / claude | 2026-08-18T15:17:37.003428+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.062.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.062.f1--plan/chat.md) |
-| <a id="member-mon"></a>mon | 062.f1--mon | failed | opus / claude | 2026-08-18T15:30:20.101563+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.062.f1--mon/chat.md) |
-
-## Neighbors
-
-| Agent | Relation | State |
-|---|---|---|
-| [062](../agents/bbugyi200.athena.062/README.md) | ancestor | completed |
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

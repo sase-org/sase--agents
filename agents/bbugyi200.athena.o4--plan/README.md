@@ -1,6 +1,6 @@
 # Agent: o4--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [o4](../../users/bbugyi200/machines/athena/hoods/o4/README.md) / [o4](../../families/bbugyi200.athena.o4.md) / o4--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [o4](../../users/bbugyi200/machines/athena/hoods/o4/README.md) / [o4](../../sessions/bbugyi200.athena.o4.md) / o4--plan
 
 **Global name:** `bbugyi200.athena.o4--plan` · **State:** active · **Source run:** `run-6c9515bc4b4b90c5a31d7203159f4512`
 

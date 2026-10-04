@@ -34,4 +34,4 @@
 | [sase-z2.4](../bbugyi200.athena.sase-z2.4/README.md) | sase-z2 hood | active |
 | [sase-z2.5.1](../bbugyi200.athena.sase-z2.5.1/README.md) | sase-z2 hood | active |
 | [sase-z2.5.land](../bbugyi200.athena.sase-z2.5.land/README.md) | sase-z2 hood | active |
-| [sase-z2.land](../../families/bbugyi200.athena.sase-z2.land.md) (family · 3) | sase-z2 hood | active 3 |
+| [sase-z2.land](../../sessions/bbugyi200.athena.sase-z2.land.md) (session · 3) | sase-z2 hood | active 3 |

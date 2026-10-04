@@ -31,4 +31,4 @@
 | [sase-6x.2](../bbugyi200.athena.sase-6x.2/README.md) | sase-6x hood | active |
 | [sase-6x.3](../bbugyi200.athena.sase-6x.3/README.md) | sase-6x hood | active |
 | [sase-6x.4](../bbugyi200.athena.sase-6x.4/README.md) | sase-6x hood | active |
-| [sase-6x.land](../../families/bbugyi200.athena.sase-6x.land.md) (family · 2) | sase-6x hood | active 2 |
+| [sase-6x.land](../../sessions/bbugyi200.athena.sase-6x.land.md) (session · 2) | sase-6x hood | active 2 |

@@ -25,4 +25,4 @@
 |---|---|---|
 | [sase-ek.1](../bbugyi200.athena.sase-ek.1/README.md) | sase-ek hood | active |
 | [sase-ek.2](../bbugyi200.athena.sase-ek.2/README.md) | sase-ek hood | active |
-| [sase-ek.land](../../families/bbugyi200.athena.sase-ek.land.md) (family · 2) | sase-ek hood | active 1, completed 1 |
+| [sase-ek.land](../../sessions/bbugyi200.athena.sase-ek.land.md) (session · 2) | sase-ek hood | active 1, completed 1 |

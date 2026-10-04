@@ -1,6 +1,6 @@
 # Agent: gy--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [gy](../../users/bbugyi200/machines/athena/hoods/gy/README.md) / [gy](../../families/bbugyi200.athena.gy.md) / gy--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [gy](../../users/bbugyi200/machines/athena/hoods/gy/README.md) / [gy](../../sessions/bbugyi200.athena.gy.md) / gy--code
 
 **Global name:** `bbugyi200.athena.gy--code` · **State:** completed · **Source run:** `run-5a4dc253349dc17e258b88ffdb603858`
 
@@ -28,7 +28,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [gy.f0](../bbugyi200.athena.gy.f0/README.md) | descendant | dismissed |
-| [gy.f1](../../families/bbugyi200.athena.gy.f1.md) (family · 2) | descendant | active 1, completed 1 |
+| [gy.f1](../../sessions/bbugyi200.athena.gy.f1.md) (session · 2) | descendant | active 1, completed 1 |
 | [gy.f1.f0](../bbugyi200.athena.gy.f1.f0/README.md) | descendant | waiting |
 | [gy.f1.f1](../bbugyi200.athena.gy.f1.f1/README.md) | descendant | waiting |
 | [gy.f1.f2](../bbugyi200.athena.gy.f1.f2/README.md) | descendant | waiting |
@@ -36,11 +36,11 @@
 | [gy.f1.f4](../bbugyi200.athena.gy.f1.f4/README.md) | descendant | dismissed |
 | [gy.f1.f5](../bbugyi200.athena.gy.f1.f5/README.md) | descendant | dismissed |
 | [gy.f1.f6.f0](../bbugyi200.athena.gy.f1.f6.f0/README.md) | descendant | dismissed |
-| [gy.f1.f6.f0.w0](../../families/bbugyi200.athena.gy.f1.f6.f0.w0.md) (family · 2) | descendant | active 1, completed 1 |
+| [gy.f1.f6.f0.w0](../../sessions/bbugyi200.athena.gy.f1.f6.f0.w0.md) (session · 2) | descendant | active 1, completed 1 |
 | [gy.f1.f6.f0.w0.f0](../bbugyi200.athena.gy.f1.f6.f0.w0.f0/README.md) | descendant | waiting |
-| [gy.f1.f6.f0.w0.f2](../../families/bbugyi200.athena.gy.f1.f6.f0.w0.f2.md) (family · 2) | descendant | active 1, completed 1 |
+| [gy.f1.f6.f0.w0.f2](../../sessions/bbugyi200.athena.gy.f1.f6.f0.w0.f2.md) (session · 2) | descendant | active 1, completed 1 |
 | [gy.f1.f6.f0.w0.f2.f1](../bbugyi200.athena.gy.f1.f6.f0.w0.f2.f1/README.md) | descendant | dismissed |
 | [gy.f1.f6.f1](../bbugyi200.athena.gy.f1.f6.f1/README.md) | descendant | active |
-| [gy.f1.f7](../../families/bbugyi200.athena.gy.f1.f7.md) (family · 2) | descendant | active 1, completed 1 |
-| [gy.f1.f8](../../families/bbugyi200.athena.gy.f1.f8.md) (family · 2) | descendant | active 1, completed 1 |
-| [gy.f1.f8.f0](../../families/bbugyi200.athena.gy.f1.f8.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [gy.f1.f7](../../sessions/bbugyi200.athena.gy.f1.f7.md) (session · 2) | descendant | active 1, completed 1 |
+| [gy.f1.f8](../../sessions/bbugyi200.athena.gy.f1.f8.md) (session · 2) | descendant | active 1, completed 1 |
+| [gy.f1.f8.f0](../../sessions/bbugyi200.athena.gy.f1.f8.f0.md) (session · 2) | descendant | active 1, completed 1 |

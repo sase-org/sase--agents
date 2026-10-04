@@ -1,6 +1,6 @@
 # Agent: z6--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [z6](../../users/bbugyi200/machines/athena/hoods/z6/README.md) / [z6](../../families/bbugyi200.athena.z6.md) / z6--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [z6](../../users/bbugyi200/machines/athena/hoods/z6/README.md) / [z6](../../sessions/bbugyi200.athena.z6.md) / z6--code
 
 **Global name:** `bbugyi200.athena.z6--code` · **State:** completed · **Source run:** `run-824db8e1045ab43e8c2a4c39519504ef`
 
@@ -28,4 +28,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [z6.f0](../bbugyi200.athena.z6.f0/README.md) | descendant | waiting |
-| [z6.f2](../../families/bbugyi200.athena.z6.f2.md) (family · 2) | descendant | active 1, failed 1 |
+| [z6.f2](../../sessions/bbugyi200.athena.z6.f2.md) (session · 2) | descendant | active 1, failed 1 |

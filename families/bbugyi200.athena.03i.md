@@ -1,27 +1,5 @@
-# Family: 03i
+# Moved to sessions/bbugyi200.athena.03i.md
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [03i](../users/bbugyi200/machines/athena/hoods/03i/README.md) / 03i
+This agent session page now lives at [`sessions/bbugyi200.athena.03i.md`](../sessions/bbugyi200.athena.03i.md).
 
-Owner: `bbugyi200.athena` · Hood: `03i` · Members: 2
-
-## Lineage
-
-```mermaid
-flowchart TD
-  n0["03i--code [active]"]
-  n1["03i--plan [active]"]
-  n0 --> n1
-```
-
-The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
-
-| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
-|---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 03i--code | active | gpt-5.5 / codex | 2026-08-16T14:10:29.380806+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | 03i--plan | active | opus / claude | 2026-08-16T13:55:06.760582+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.03i--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.03i--plan/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| — | sase | [`2a587ff`](https://github.com/sase-org/sase/commit/2a587fff70c2cb43035eaa340915291026028eca) | fix: reconcile phantom running procs | 2026-08-16 10:53:58 EDT |
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

@@ -1,6 +1,6 @@
 # Agent: wc--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [wc](../../users/bbugyi200/machines/athena/hoods/wc/README.md) / [wc](../../families/bbugyi200.athena.wc.md) / wc--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [wc](../../users/bbugyi200/machines/athena/hoods/wc/README.md) / [wc](../../sessions/bbugyi200.athena.wc.md) / wc--plan
 
 **Global name:** `bbugyi200.athena.wc--plan` · **State:** active · **Source run:** `run-9d076873f1ed635caf776d8aada94a97`
 

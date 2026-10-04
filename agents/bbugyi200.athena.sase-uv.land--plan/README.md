@@ -1,6 +1,6 @@
 # Agent: sase-uv.land--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-uv](../../users/bbugyi200/machines/athena/hoods/sase-uv/README.md) / [sase-uv.land](../../families/bbugyi200.athena.sase-uv.land.md) / sase-uv.land--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-uv](../../users/bbugyi200/machines/athena/hoods/sase-uv/README.md) / [sase-uv.land](../../sessions/bbugyi200.athena.sase-uv.land.md) / sase-uv.land--plan
 
 **Global name:** `bbugyi200.athena.sase-uv.land--plan` · **State:** active · **Source run:** `run-cebb1676f95d5915a70ad7171257da5f`
 
@@ -28,7 +28,7 @@
 | [sase-uv.4](../bbugyi200.athena.sase-uv.4/README.md) | sase-uv hood | active |
 | [sase-uv.5](../bbugyi200.athena.sase-uv.5/README.md) | sase-uv hood | active |
 | [sase-uv.6](../bbugyi200.athena.sase-uv.6/README.md) | sase-uv hood | active |
-| [sase-uv.7](../../families/bbugyi200.athena.sase-uv.7.md) (family · 3) | sase-uv hood | active 2, completed 1 |
-| [sase-uv.8](../../families/bbugyi200.athena.sase-uv.8.md) (family · 3) | sase-uv hood | active 2, completed 1 |
+| [sase-uv.7](../../sessions/bbugyi200.athena.sase-uv.7.md) (session · 3) | sase-uv hood | active 2, completed 1 |
+| [sase-uv.8](../../sessions/bbugyi200.athena.sase-uv.8.md) (session · 3) | sase-uv hood | active 2, completed 1 |
 | [sase-uv.8](../bbugyi200.athena.sase-uv.8/README.md) | sase-uv hood | waiting |
 | [sase-uv.9](../bbugyi200.athena.sase-uv.9/README.md) | sase-uv hood | active |

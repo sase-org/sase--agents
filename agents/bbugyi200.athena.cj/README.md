@@ -1,6 +1,6 @@
 # Agent: cj
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [cj](../../users/bbugyi200/machines/athena/hoods/cj/README.md) / [cj](../../families/bbugyi200.athena.cj.md) / cj
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [cj](../../users/bbugyi200/machines/athena/hoods/cj/README.md) / [cj](../../sessions/bbugyi200.athena.cj.md) / cj
 
 **Global name:** `bbugyi200.athena.cj` · **State:** active · **Source run:** `run-1c143498340392a8526a86addc1b661f`
 

@@ -1,6 +1,6 @@
 # Agent: qi--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [qi](../../users/bbugyi200/machines/athena/hoods/qi/README.md) / [qi](../../families/bbugyi200.athena.qi.md) / qi--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [qi](../../users/bbugyi200/machines/athena/hoods/qi/README.md) / [qi](../../sessions/bbugyi200.athena.qi.md) / qi--plan
 
 **Global name:** `bbugyi200.athena.qi--plan` · **State:** active · **Source run:** `run-7b1ce84a199d391e310af34c0e92730f`
 

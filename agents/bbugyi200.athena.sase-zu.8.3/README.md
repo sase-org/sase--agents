@@ -32,7 +32,7 @@
 | [sase-zu.8.1](../bbugyi200.athena.sase-zu.8.1/README.md) | sase-zu.8 hood | active |
 | [sase-zu.8.2](../bbugyi200.athena.sase-zu.8.2/README.md) | sase-zu.8 hood | active |
 | [sase-zu.8.4](../bbugyi200.athena.sase-zu.8.4/README.md) | sase-zu.8 hood | active |
-| [sase-zu.8.5](../../families/bbugyi200.athena.sase-zu.8.5.md) (family · 7) | sase-zu.8 hood | active 7 |
+| [sase-zu.8.5](../../sessions/bbugyi200.athena.sase-zu.8.5.md) (session · 7) | sase-zu.8 hood | active 7 |
 | [sase-zu.8.land](../bbugyi200.athena.sase-zu.8.land/README.md) | sase-zu.8 hood | active |
 | [sase-zu.1](../bbugyi200.athena.sase-zu.1/README.md) | sase-zu hood | active |
 | [sase-zu.2](../bbugyi200.athena.sase-zu.2/README.md) | sase-zu hood | active |
@@ -40,5 +40,5 @@
 | [sase-zu.4](../bbugyi200.athena.sase-zu.4/README.md) | sase-zu hood | active |
 | [sase-zu.5](../bbugyi200.athena.sase-zu.5/README.md) | sase-zu hood | active |
 | [sase-zu.6](../bbugyi200.athena.sase-zu.6/README.md) | sase-zu hood | active |
-| [sase-zu.7](../../families/bbugyi200.athena.sase-zu.7.md) (family · 3) | sase-zu hood | active 3 |
-| [sase-zu.land](../../families/bbugyi200.athena.sase-zu.land.md) (family · 3) | sase-zu hood | active 3 |
+| [sase-zu.7](../../sessions/bbugyi200.athena.sase-zu.7.md) (session · 3) | sase-zu hood | active 3 |
+| [sase-zu.land](../../sessions/bbugyi200.athena.sase-zu.land.md) (session · 3) | sase-zu hood | active 3 |

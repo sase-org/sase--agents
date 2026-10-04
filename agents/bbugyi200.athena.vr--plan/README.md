@@ -1,6 +1,6 @@
 # Agent: vr--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [vr](../../users/bbugyi200/machines/athena/hoods/vr/README.md) / [vr](../../families/bbugyi200.athena.vr.md) / vr--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [vr](../../users/bbugyi200/machines/athena/hoods/vr/README.md) / [vr](../../sessions/bbugyi200.athena.vr.md) / vr--plan
 
 **Global name:** `bbugyi200.athena.vr--plan` · **State:** active · **Source run:** `run-6ba056fbd9eb4b883bf82db8311dfbeb`
 

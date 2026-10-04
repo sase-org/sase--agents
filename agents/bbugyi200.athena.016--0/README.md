@@ -1,6 +1,6 @@
 # Agent: 016--0
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [016](../../users/bbugyi200/machines/athena/hoods/016/README.md) / [016](../../families/bbugyi200.athena.016.md) / 016--0
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [016](../../users/bbugyi200/machines/athena/hoods/016/README.md) / [016](../../sessions/bbugyi200.athena.016.md) / 016--0
 
 **Global name:** `bbugyi200.athena.016--0` · **State:** active · **Source run:** `run-7d930b8e02919a6217aa96a8fb1b0e86`
 
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [016.fork\_repair](../../families/bbugyi200.athena.016.fork_repair.md) (family · 3) | descendant | active 1, failed 2 |
+| [016.fork\_repair](../../sessions/bbugyi200.athena.016.fork_repair.md) (session · 3) | descendant | active 1, failed 2 |

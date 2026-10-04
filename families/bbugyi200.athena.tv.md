@@ -1,27 +1,5 @@
-# Family: tv
+# Moved to sessions/bbugyi200.athena.tv.md
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [tv](../users/bbugyi200/machines/athena/hoods/tv/README.md) / tv
+This agent session page now lives at [`sessions/bbugyi200.athena.tv.md`](../sessions/bbugyi200.athena.tv.md).
 
-Owner: `bbugyi200.athena` · Hood: `tv` · Members: 2
-
-## Lineage
-
-```mermaid
-flowchart TD
-  n0["tv--plan [active]"]
-  n1["tv--code [completed]"]
-  n0 --> n1
-```
-
-The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
-
-| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
-|---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | tv--plan | active | opus / claude | 2026-08-06T12:06:25.676128+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.tv--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.tv--plan/chat.md) |
-| <a id="member-code"></a>code | tv--code | completed | sonnet / claude | 2026-08-06T12:16:41.433266+00:00 | [1](../agents/bbugyi200.athena.tv--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.tv--code/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| code | sase | [`301f33a`](https://github.com/sase-org/sase/commit/301f33a544c596224477d2a9499e0e4dcb59b821) | feat(ace): show commit creation time in the commit panel | 2026-08-06 09:11:37 EDT |
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

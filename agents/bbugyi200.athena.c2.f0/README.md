@@ -1,6 +1,6 @@
 # Agent: c2.f0
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [c2](../../users/bbugyi200/machines/athena/hoods/c2/README.md) / [c2.f0](../../families/bbugyi200.athena.c2.f0.md) / c2.f0
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [c2](../../users/bbugyi200/machines/athena/hoods/c2/README.md) / [c2.f0](../../sessions/bbugyi200.athena.c2.f0.md) / c2.f0
 
 **Global name:** `bbugyi200.athena.c2.f0` · **State:** active · **Source run:** `run-a3a92ab898c217741bd6a7301cea39e4`
 
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [c2](../../families/bbugyi200.athena.c2.md) (family · 2) | ancestor | active 1, completed 1 |
+| [c2](../../sessions/bbugyi200.athena.c2.md) (session · 2) | ancestor | active 1, completed 1 |

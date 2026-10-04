@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-ah.1](../bbugyi200.athena.sase-ah.1/README.md) | sase-ah hood | active |
 | [sase-ah.3](../bbugyi200.athena.sase-ah.3/README.md) | sase-ah hood | active |
-| [sase-ah.land](../../families/bbugyi200.athena.sase-ah.land.md) (family · 2) | sase-ah hood | active 1, completed 1 |
+| [sase-ah.land](../../sessions/bbugyi200.athena.sase-ah.land.md) (session · 2) | sase-ah hood | active 1, completed 1 |

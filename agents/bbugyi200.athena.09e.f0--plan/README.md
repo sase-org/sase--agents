@@ -1,6 +1,6 @@
 # Agent: 09e.f0--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [09e](../../users/bbugyi200/machines/athena/hoods/09e/README.md) / [09e.f0](../../families/bbugyi200.athena.09e.f0.md) / 09e.f0--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [09e](../../users/bbugyi200/machines/athena/hoods/09e/README.md) / [09e.f0](../../sessions/bbugyi200.athena.09e.f0.md) / 09e.f0--plan
 
 **Global name:** `bbugyi200.athena.09e.f0--plan` · **State:** completed · **Source run:** `run-e261b758d38dcb336fc52d1bd4cb8b21`
 
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [09e](../../families/bbugyi200.athena.09e.md) (family · 2) | ancestor | completed 1, dismissed 1 |
+| [09e](../../sessions/bbugyi200.athena.09e.md) (session · 2) | ancestor | completed 1, dismissed 1 |

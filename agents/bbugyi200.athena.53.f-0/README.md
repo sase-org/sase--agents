@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [53](../../families/bbugyi200.athena.53.md) (family · 2) | ancestor | active 1, completed 1 |
+| [53](../../sessions/bbugyi200.athena.53.md) (session · 2) | ancestor | active 1, completed 1 |

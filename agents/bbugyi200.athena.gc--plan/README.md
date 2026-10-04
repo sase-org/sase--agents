@@ -1,6 +1,6 @@
 # Agent: gc--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [gc](../../users/bbugyi200/machines/athena/hoods/gc/README.md) / [gc](../../families/bbugyi200.athena.gc.md) / gc--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [gc](../../users/bbugyi200/machines/athena/hoods/gc/README.md) / [gc](../../sessions/bbugyi200.athena.gc.md) / gc--plan
 
 **Global name:** `bbugyi200.athena.gc--plan` · **State:** active · **Source run:** `run-7ec77a328f27dca3268df95a8e528ae9`
 
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [gc.f0](../../families/bbugyi200.athena.gc.f0.md) (family · 2) | descendant | active 1, completed 1 |
-| [gc.f0.f0](../../families/bbugyi200.athena.gc.f0.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [gc.f0](../../sessions/bbugyi200.athena.gc.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [gc.f0.f0](../../sessions/bbugyi200.athena.gc.f0.f0.md) (session · 2) | descendant | active 1, completed 1 |

@@ -33,5 +33,5 @@
 | [sase-l1.3](../bbugyi200.athena.sase-l1.3/README.md) | sase-l1 hood | active |
 | [sase-l1.4](../bbugyi200.athena.sase-l1.4/README.md) | sase-l1 hood | active |
 | [sase-l1.5](../bbugyi200.athena.sase-l1.5/README.md) | sase-l1 hood | active |
-| [sase-l1.6](../../families/bbugyi200.athena.sase-l1.6.md) (family · 3) | sase-l1 hood | active 1, completed 1, failed 1 |
+| [sase-l1.6](../../sessions/bbugyi200.athena.sase-l1.6.md) (session · 3) | sase-l1 hood | active 1, completed 1, failed 1 |
 | [sase-l1.land](../bbugyi200.athena.sase-l1.land/README.md) | sase-l1 hood | active |

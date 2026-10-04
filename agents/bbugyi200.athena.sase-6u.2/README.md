@@ -31,4 +31,4 @@
 | [sase-6u.1](../bbugyi200.athena.sase-6u.1/README.md) | sase-6u hood | dismissed |
 | [sase-6u.3](../bbugyi200.athena.sase-6u.3/README.md) | sase-6u hood | dismissed |
 | [sase-6u.4](../bbugyi200.athena.sase-6u.4/README.md) | sase-6u hood | dismissed |
-| [sase-6u.land](../../families/bbugyi200.athena.sase-6u.land.md) (family · 2) | sase-6u hood | active 1, completed 1 |
+| [sase-6u.land](../../sessions/bbugyi200.athena.sase-6u.land.md) (session · 2) | sase-6u hood | active 1, completed 1 |

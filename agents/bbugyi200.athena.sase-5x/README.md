@@ -32,4 +32,4 @@
 | [sase-5x.2](../bbugyi200.athena.sase-5x.2/README.md) | descendant | dismissed |
 | [sase-5x.3](../bbugyi200.athena.sase-5x.3/README.md) | descendant | dismissed |
 | [sase-5x.4](../bbugyi200.athena.sase-5x.4/README.md) | descendant | dismissed |
-| [sase-5x.w0](../../families/bbugyi200.athena.sase-5x.w0.md) (family · 2) | descendant | active 1, completed 1 |
+| [sase-5x.w0](../../sessions/bbugyi200.athena.sase-5x.w0.md) (session · 2) | descendant | active 1, completed 1 |

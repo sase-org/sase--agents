@@ -1,6 +1,6 @@
 # Agent: 02w--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [02w](../../users/bbugyi200/machines/athena/hoods/02w/README.md) / [02w](../../families/bbugyi200.athena.02w.md) / 02w--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [02w](../../users/bbugyi200/machines/athena/hoods/02w/README.md) / [02w](../../sessions/bbugyi200.athena.02w.md) / 02w--code
 
 **Global name:** `bbugyi200.athena.02w--code` · **State:** completed · **Source run:** `run-1e263f71af5e89507727acce26cc4479`
 
@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [02w.f0](../../families/bbugyi200.athena.02w.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [02w.f0](../../sessions/bbugyi200.athena.02w.f0.md) (session · 2) | descendant | active 1, completed 1 |

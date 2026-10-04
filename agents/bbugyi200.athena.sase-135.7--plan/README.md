@@ -1,6 +1,6 @@
 # Agent: sase-135.7--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-135](../../users/bbugyi200/machines/athena/hoods/sase-135/README.md) / [sase-135.7](../../families/bbugyi200.athena.sase-135.7.md) / sase-135.7--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-135](../../users/bbugyi200/machines/athena/hoods/sase-135/README.md) / [sase-135.7](../../sessions/bbugyi200.athena.sase-135.7.md) / sase-135.7--plan
 
 **Global name:** `bbugyi200.athena.sase-135.7--plan` · **State:** active · **Source run:** `run-9e673a8da652ec91406f1df677159527`
 
@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-135.1](../../families/bbugyi200.athena.sase-135.1.md) (family · 9) | sase-135 hood | active 5, failed 4 |
+| [sase-135.1](../../sessions/bbugyi200.athena.sase-135.1.md) (session · 9) | sase-135 hood | active 5, failed 4 |
 | [sase-135.2](../bbugyi200.athena.sase-135.2/README.md) | sase-135 hood | active |
 | [sase-135.3](../bbugyi200.athena.sase-135.3/README.md) | sase-135 hood | active |
 | [sase-135.4](../bbugyi200.athena.sase-135.4/README.md) | sase-135 hood | active |

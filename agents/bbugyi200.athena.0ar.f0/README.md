@@ -23,5 +23,5 @@
 |---|---|---|
 | [0ar](../bbugyi200.athena.0ar/README.md) | ancestor | active |
 | [0ar.f0.f0](../bbugyi200.athena.0ar.f0.f0/README.md) | descendant | active |
-| [0ar.f0.f1](../../families/bbugyi200.athena.0ar.f0.f1.md) (family · 3) | descendant | active 1, failed 2 |
+| [0ar.f0.f1](../../sessions/bbugyi200.athena.0ar.f0.f1.md) (session · 3) | descendant | active 1, failed 2 |
 | [0ar.f1](../bbugyi200.athena.0ar.f1/README.md) | 0ar hood | completed |

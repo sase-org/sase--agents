@@ -1,6 +1,6 @@
 # Agent: 7j.f-0.f0--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [7j](../../users/bbugyi200/machines/athena/hoods/7j/README.md) / [7j.f-0.f0](../../families/bbugyi200.athena.7j.f-0.f0.md) / 7j.f-0.f0--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [7j](../../users/bbugyi200/machines/athena/hoods/7j/README.md) / [7j.f-0.f0](../../sessions/bbugyi200.athena.7j.f-0.f0.md) / 7j.f-0.f0--plan
 
 **Global name:** `bbugyi200.athena.7j.f-0.f0--plan` · **State:** active · **Source run:** `run-e68f03895f592ac5fcc08355a053c34a`
 
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [7j.f-0](../../families/bbugyi200.athena.7j.f-0.md) (family · 2) | ancestor | active 1, completed 1 |
-| [7j](../../families/bbugyi200.athena.7j.md) (family · 2) | ancestor | active 1, completed 1 |
+| [7j.f-0](../../sessions/bbugyi200.athena.7j.f-0.md) (session · 2) | ancestor | active 1, completed 1 |
+| [7j](../../sessions/bbugyi200.athena.7j.md) (session · 2) | ancestor | active 1, completed 1 |

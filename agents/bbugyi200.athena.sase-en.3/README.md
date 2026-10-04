@@ -32,4 +32,4 @@
 | [sase-en.1](../bbugyi200.athena.sase-en.1/README.md) | sase-en hood | active |
 | [sase-en.2](../bbugyi200.athena.sase-en.2/README.md) | sase-en hood | active |
 | [sase-en.4](../bbugyi200.athena.sase-en.4/README.md) | sase-en hood | active |
-| [sase-en.land](../../families/bbugyi200.athena.sase-en.land.md) (family · 2) | sase-en hood | active 1, completed 1 |
+| [sase-en.land](../../sessions/bbugyi200.athena.sase-en.land.md) (session · 2) | sase-en hood | active 1, completed 1 |

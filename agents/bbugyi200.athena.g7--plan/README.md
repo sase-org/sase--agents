@@ -1,6 +1,6 @@
 # Agent: g7--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [g7](../../users/bbugyi200/machines/athena/hoods/g7/README.md) / [g7](../../families/bbugyi200.athena.g7.md) / g7--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [g7](../../users/bbugyi200/machines/athena/hoods/g7/README.md) / [g7](../../sessions/bbugyi200.athena.g7.md) / g7--plan
 
 **Global name:** `bbugyi200.athena.g7--plan` · **State:** active · **Source run:** `run-4410ae2b4e061bb25556b89c45d79977`
 

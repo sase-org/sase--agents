@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [3w.f-0](../../families/bbugyi200.athena.3w.f-0.md) (family · 2) | ancestor | active 1, completed 1 |
-| [3w](../../families/bbugyi200.athena.3w.md) (family · 2) | ancestor | active 1, completed 1 |
-| [3w.f-0.w-1](../../families/bbugyi200.athena.3w.f-0.w-1.md) (family · 2) | 3w.f-0 hood | active 1, completed 1 |
-| [3w.f-0.w-1.f-0](../../families/bbugyi200.athena.3w.f-0.w-1.f-0.md) (family · 2) | 3w.f-0 hood | active 1, completed 1 |
+| [3w.f-0](../../sessions/bbugyi200.athena.3w.f-0.md) (session · 2) | ancestor | active 1, completed 1 |
+| [3w](../../sessions/bbugyi200.athena.3w.md) (session · 2) | ancestor | active 1, completed 1 |
+| [3w.f-0.w-1](../../sessions/bbugyi200.athena.3w.f-0.w-1.md) (session · 2) | 3w.f-0 hood | active 1, completed 1 |
+| [3w.f-0.w-1.f-0](../../sessions/bbugyi200.athena.3w.f-0.w-1.f-0.md) (session · 2) | 3w.f-0 hood | active 1, completed 1 |

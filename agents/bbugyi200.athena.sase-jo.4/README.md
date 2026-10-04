@@ -34,5 +34,5 @@
 | [sase-jo.3](../bbugyi200.athena.sase-jo.3/README.md) | sase-jo hood | active |
 | [sase-jo.5](../bbugyi200.athena.sase-jo.5/README.md) | sase-jo hood | active |
 | [sase-jo.6](../bbugyi200.athena.sase-jo.6/README.md) | sase-jo hood | active |
-| [sase-jo.land](../../families/bbugyi200.athena.sase-jo.land.md) (family · 2) | sase-jo hood | active 1, completed 1 |
+| [sase-jo.land](../../sessions/bbugyi200.athena.sase-jo.land.md) (session · 2) | sase-jo hood | active 1, completed 1 |
 | [sase-jo.land](../bbugyi200.athena.sase-jo.land/README.md) | sase-jo hood | waiting |

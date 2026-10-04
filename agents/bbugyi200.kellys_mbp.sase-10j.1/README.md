@@ -29,5 +29,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-10j.2](../../families/bbugyi200.kellys_mbp.sase-10j.2.md) (family · 3) | sase-10j hood | completed 1, failed 2 |
+| [sase-10j.2](../../sessions/bbugyi200.kellys_mbp.sase-10j.2.md) (session · 3) | sase-10j hood | completed 1, failed 2 |
 | [sase-10j.land](../bbugyi200.kellys_mbp.sase-10j.land/README.md) | sase-10j hood | waiting |

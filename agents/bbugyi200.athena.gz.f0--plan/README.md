@@ -1,6 +1,6 @@
 # Agent: gz.f0--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [gz](../../users/bbugyi200/machines/athena/hoods/gz/README.md) / [gz.f0](../../families/bbugyi200.athena.gz.f0.md) / gz.f0--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [gz](../../users/bbugyi200/machines/athena/hoods/gz/README.md) / [gz.f0](../../sessions/bbugyi200.athena.gz.f0.md) / gz.f0--plan
 
 **Global name:** `bbugyi200.athena.gz.f0--plan` · **State:** active · **Source run:** `run-8f1490fbbfc3369a5e88b4e7ac0f8d38`
 
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [gz](../../families/bbugyi200.athena.gz.md) (family · 2) | ancestor | active 1, completed 1 |
+| [gz](../../sessions/bbugyi200.athena.gz.md) (session · 2) | ancestor | active 1, completed 1 |

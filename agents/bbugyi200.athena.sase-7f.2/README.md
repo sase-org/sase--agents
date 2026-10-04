@@ -29,4 +29,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-7f.1](../bbugyi200.athena.sase-7f.1/README.md) | sase-7f hood | active |
-| [sase-7f.land](../../families/bbugyi200.athena.sase-7f.land.md) (family · 2) | sase-7f hood | active 1, completed 1 |
+| [sase-7f.land](../../sessions/bbugyi200.athena.sase-7f.land.md) (session · 2) | sase-7f hood | active 1, completed 1 |

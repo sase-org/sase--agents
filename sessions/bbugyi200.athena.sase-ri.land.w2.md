@@ -1,0 +1,43 @@
+# Session: sase-ri.land.w2
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-ri](../users/bbugyi200/machines/athena/hoods/sase-ri/README.md) / sase-ri.land.w2
+
+Owner: `bbugyi200.athena` · Hood: `sase-ri` · Members: 2
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["sase-ri.land.w2--mon [failed]"]
+  n1["sase-ri.land.w2--plan [active]"]
+  n0 --> n1
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-mon"></a>mon | sase-ri.land.w2--mon | failed | gpt-5.6-sol / codex | 2026-08-21T10:23:51.945642+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-ri.land.w2--mon/chat.md) |
+| <a id="member-plan"></a>plan | sase-ri.land.w2--plan | active | gpt-5.6-sol / codex | 2026-08-21T10:14:09.033667+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-ri.land.w2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-ri.land.w2--plan/chat.md) |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-ri.land](../agents/bbugyi200.athena.sase-ri.land/README.md) | ancestor | active |
+| [sase-ri.land.w2.f0](../agents/bbugyi200.athena.sase-ri.land.w2.f0/README.md) | descendant | active |
+| [sase-ri.land.w2.f1](../agents/bbugyi200.athena.sase-ri.land.w2.f1/README.md) | descendant | waiting |
+| [sase-ri.land.w2.f2.f0](../agents/bbugyi200.athena.sase-ri.land.w2.f2.f0/README.md) | descendant | active |
+| [sase-ri.land.w2.f2.f1](../agents/bbugyi200.athena.sase-ri.land.w2.f2.f1/README.md) | descendant | waiting |
+| [sase-ri.land.w2.f2.f3](../agents/bbugyi200.athena.sase-ri.land.w2.f2.f3/README.md) | descendant | active |
+| [sase-ri.land.w2.f2.w2](bbugyi200.athena.sase-ri.land.w2.f2.w2.md) (session · 4) | descendant | active 1, completed 2, failed 1 |
+| [sase-ri.land.w2.f2.w2.f1](bbugyi200.athena.sase-ri.land.w2.f2.w2.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [sase-ri.land.w2.f2.w3](bbugyi200.athena.sase-ri.land.w2.f2.w3.md) (session · 4) | descendant | active 1, completed 2, failed 1 |
+| [sase-ri.land.w2.f3](bbugyi200.athena.sase-ri.land.w2.f3.md) (session · 2) | descendant | active 1, completed 1 |
+| [sase-ri.land.w0](../agents/bbugyi200.athena.sase-ri.land.w0/README.md) | sase-ri.land hood | active |
+| [sase-ri.land.w1.f0](../agents/bbugyi200.athena.sase-ri.land.w1.f0/README.md) | sase-ri.land hood | active |
+| [sase-ri.1](../agents/bbugyi200.athena.sase-ri.1/README.md) | sase-ri hood | active |
+| [sase-ri.2](../agents/bbugyi200.athena.sase-ri.2/README.md) | sase-ri hood | active |
+| [sase-ri.3](bbugyi200.athena.sase-ri.3.md) (session · 5) | sase-ri hood | active 5 |
+| [sase-ri.4](../agents/bbugyi200.athena.sase-ri.4/README.md) | sase-ri hood | active |
+| [sase-ri.5](../agents/bbugyi200.athena.sase-ri.5/README.md) | sase-ri hood | active |

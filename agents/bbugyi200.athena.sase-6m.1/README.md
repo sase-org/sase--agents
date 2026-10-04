@@ -28,6 +28,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-6m](../../families/bbugyi200.athena.sase-6m.md) (family · 1) | ancestor | active 1 |
+| [sase-6m](../../sessions/bbugyi200.athena.sase-6m.md) (session · 1) | ancestor | active 1 |
 | [sase-6m.2](../bbugyi200.athena.sase-6m.2/README.md) | sase-6m hood | active |
 | [sase-6m.3](../bbugyi200.athena.sase-6m.3/README.md) | sase-6m hood | active |

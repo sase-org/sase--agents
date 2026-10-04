@@ -1,6 +1,6 @@
 # Agent: sase-yf.land--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-yf](../../users/bbugyi200/machines/athena/hoods/sase-yf/README.md) / [sase-yf.land](../../families/bbugyi200.athena.sase-yf.land.md) / sase-yf.land--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-yf](../../users/bbugyi200/machines/athena/hoods/sase-yf/README.md) / [sase-yf.land](../../sessions/bbugyi200.athena.sase-yf.land.md) / sase-yf.land--plan
 
 **Global name:** `bbugyi200.athena.sase-yf.land--plan` · **State:** active · **Source run:** `run-102c05203d5154f485efa50819e51535`
 
@@ -27,10 +27,10 @@
 | [sase-yf.land.w0.w1](../bbugyi200.athena.sase-yf.land.w0.w1/README.md) | descendant | active |
 | [sase-yf.land.w1](../bbugyi200.athena.sase-yf.land.w1/README.md) | descendant | waiting |
 | [sase-yf.land.w2.w0](../bbugyi200.athena.sase-yf.land.w2.w0/README.md) | descendant | waiting |
-| [sase-yf.land.w3](../../families/bbugyi200.athena.sase-yf.land.w3.md) (family · 3) | descendant | active 1, failed 2 |
+| [sase-yf.land.w3](../../sessions/bbugyi200.athena.sase-yf.land.w3.md) (session · 3) | descendant | active 1, failed 2 |
 | [sase-yf.1](../bbugyi200.athena.sase-yf.1/README.md) | sase-yf hood | active |
 | [sase-yf.2](../bbugyi200.athena.sase-yf.2/README.md) | sase-yf hood | active |
 | [sase-yf.3.1](../bbugyi200.athena.sase-yf.3.1/README.md) | sase-yf hood | active |
 | [sase-yf.3.2](../bbugyi200.athena.sase-yf.3.2/README.md) | sase-yf hood | active |
-| [sase-yf.3.land](../../families/bbugyi200.athena.sase-yf.3.land.md) (family · 3) | sase-yf hood | active 1, completed 1, failed 1 |
+| [sase-yf.3.land](../../sessions/bbugyi200.athena.sase-yf.3.land.md) (session · 3) | sase-yf hood | active 1, completed 1, failed 1 |
 | [sase-yf.3.land](../bbugyi200.athena.sase-yf.3.land/README.md) | sase-yf hood | waiting |

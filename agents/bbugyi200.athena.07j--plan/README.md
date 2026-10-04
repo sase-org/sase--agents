@@ -1,6 +1,6 @@
 # Agent: 07j--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [07j](../../users/bbugyi200/machines/athena/hoods/07j/README.md) / [07j](../../families/bbugyi200.athena.07j.md) / 07j--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [07j](../../users/bbugyi200/machines/athena/hoods/07j/README.md) / [07j](../../sessions/bbugyi200.athena.07j.md) / 07j--plan
 
 **Global name:** `bbugyi200.athena.07j--plan` · **State:** active · **Source run:** `run-96aeea7e2e06f7d9b110d19a7aaded7b`
 

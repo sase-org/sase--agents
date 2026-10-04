@@ -30,10 +30,10 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-tt.1](../bbugyi200.athena.sase-tt.1/README.md) | sase-tt hood | active |
-| [sase-tt.2](../../families/bbugyi200.athena.sase-tt.2.md) (family · 5) | sase-tt hood | active 3, failed 2 |
+| [sase-tt.2](../../sessions/bbugyi200.athena.sase-tt.2.md) (session · 5) | sase-tt hood | active 3, failed 2 |
 | [sase-tt.4](../bbugyi200.athena.sase-tt.4/README.md) | sase-tt hood | active |
 | [sase-tt.5](../bbugyi200.athena.sase-tt.5/README.md) | sase-tt hood | active |
 | [sase-tt.6](../bbugyi200.athena.sase-tt.6/README.md) | sase-tt hood | active |
 | [sase-tt.7](../bbugyi200.athena.sase-tt.7/README.md) | sase-tt hood | active |
 | [sase-tt.8](../bbugyi200.athena.sase-tt.8/README.md) | sase-tt hood | active |
-| [sase-tt.land](../../families/bbugyi200.athena.sase-tt.land.md) (family · 5) | sase-tt hood | active 3, failed 2 |
+| [sase-tt.land](../../sessions/bbugyi200.athena.sase-tt.land.md) (session · 5) | sase-tt hood | active 3, failed 2 |

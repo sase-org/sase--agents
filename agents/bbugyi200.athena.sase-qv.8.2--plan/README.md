@@ -1,6 +1,6 @@
 # Agent: sase-qv.8.2--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-qv](../../users/bbugyi200/machines/athena/hoods/sase-qv/README.md) / [sase-qv.8.2](../../families/bbugyi200.athena.sase-qv.8.2.md) / sase-qv.8.2--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-qv](../../users/bbugyi200/machines/athena/hoods/sase-qv/README.md) / [sase-qv.8.2](../../sessions/bbugyi200.athena.sase-qv.8.2.md) / sase-qv.8.2--plan
 
 **Global name:** `bbugyi200.athena.sase-qv.8.2--plan` · **State:** active · **Source run:** `run-dd54ddad44368377e3a807b6c9b33f61`
 
@@ -25,7 +25,7 @@
 |---|---|---|
 | [sase-qv.8.1](../bbugyi200.athena.sase-qv.8.1/README.md) | sase-qv.8 hood | active |
 | [sase-qv.8.land](../bbugyi200.athena.sase-qv.8.land/README.md) | sase-qv.8 hood | active |
-| [sase-qv.8.land\_2](../../families/bbugyi200.athena.sase-qv.8.land_2.md) (family · 3) | sase-qv.8 hood | active 3 |
+| [sase-qv.8.land\_2](../../sessions/bbugyi200.athena.sase-qv.8.land_2.md) (session · 3) | sase-qv.8 hood | active 3 |
 | [sase-qv.1](../bbugyi200.athena.sase-qv.1/README.md) | sase-qv hood | active |
 | [sase-qv.2](../bbugyi200.athena.sase-qv.2/README.md) | sase-qv hood | active |
 | [sase-qv.3](../bbugyi200.athena.sase-qv.3/README.md) | sase-qv hood | active |
@@ -33,5 +33,5 @@
 | [sase-qv.5](../bbugyi200.athena.sase-qv.5/README.md) | sase-qv hood | active |
 | [sase-qv.6](../bbugyi200.athena.sase-qv.6/README.md) | sase-qv hood | active |
 | [sase-qv.7](../bbugyi200.athena.sase-qv.7/README.md) | sase-qv hood | active |
-| [sase-qv.land](../../families/bbugyi200.athena.sase-qv.land.md) (family · 2) | sase-qv hood | active 2 |
+| [sase-qv.land](../../sessions/bbugyi200.athena.sase-qv.land.md) (session · 2) | sase-qv hood | active 2 |
 | [sase-qv.land](../bbugyi200.athena.sase-qv.land/README.md) | sase-qv hood | active |

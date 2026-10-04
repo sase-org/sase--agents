@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [kellys\_mbp](../../README.md) / sase-ws
 
-**Global hood:** `bbugyi200.kellys_mbp.sase-ws` · **Runs:** 12 · **Families:** 2 · **States:** active 2, completed 1, dismissed 8, failed 1
+**Global hood:** `bbugyi200.kellys_mbp.sase-ws` · **Runs:** 12 · **Sessions:** 2 · **States:** active 2, completed 1, dismissed 8, failed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|

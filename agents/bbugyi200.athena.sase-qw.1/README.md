@@ -31,5 +31,5 @@
 |---|---|---|
 | [sase-qw.2](../bbugyi200.athena.sase-qw.2/README.md) | sase-qw hood | active |
 | [sase-qw.3](../bbugyi200.athena.sase-qw.3/README.md) | sase-qw hood | active |
-| [sase-qw.land](../../families/bbugyi200.athena.sase-qw.land.md) (family · 9) | sase-qw hood | active 1, completed 3, failed 5 |
+| [sase-qw.land](../../sessions/bbugyi200.athena.sase-qw.land.md) (session · 9) | sase-qw hood | active 1, completed 3, failed 5 |
 | [sase-qw.land\_2](../bbugyi200.athena.sase-qw.land_2/README.md) | sase-qw hood | active |

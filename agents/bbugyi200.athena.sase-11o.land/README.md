@@ -24,5 +24,5 @@
 |---|---|---|
 | [sase-11o.1](../bbugyi200.athena.sase-11o.1/README.md) | sase-11o hood | active |
 | [sase-11o.2](../bbugyi200.athena.sase-11o.2/README.md) | sase-11o hood | active |
-| [sase-11o.2.f0](../../families/bbugyi200.athena.sase-11o.2.f0.md) (family · 4) | sase-11o hood | active 1, completed 1, failed 2 |
-| [sase-11o.2.f1](../../families/bbugyi200.athena.sase-11o.2.f1.md) (family · 11) | sase-11o hood | active 1, completed 5, failed 5 |
+| [sase-11o.2.f0](../../sessions/bbugyi200.athena.sase-11o.2.f0.md) (session · 4) | sase-11o hood | active 1, completed 1, failed 2 |
+| [sase-11o.2.f1](../../sessions/bbugyi200.athena.sase-11o.2.f1.md) (session · 11) | sase-11o hood | active 1, completed 5, failed 5 |

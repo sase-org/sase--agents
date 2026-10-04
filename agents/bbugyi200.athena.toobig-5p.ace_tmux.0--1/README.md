@@ -1,6 +1,6 @@
 # Agent: toobig-5p.ace\_tmux.0--1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5p](../../users/bbugyi200/machines/athena/hoods/toobig-5p/README.md) / [toobig-5p.ace\_tmux.0](../../families/bbugyi200.athena.toobig-5p.ace_tmux.0.md) / toobig-5p.ace\_tmux.0--1
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-5p](../../users/bbugyi200/machines/athena/hoods/toobig-5p/README.md) / [toobig-5p.ace\_tmux.0](../../sessions/bbugyi200.athena.toobig-5p.ace_tmux.0.md) / toobig-5p.ace\_tmux.0--1
 
 **Global name:** `bbugyi200.athena.toobig-5p.ace_tmux.0--1` · **State:** active · **Source run:** `run-2d1f11ed492880b11a3d8e1ba0241b0f`
 
@@ -29,10 +29,10 @@
 |---|---|---|
 | [toobig-5p.agent\_runner\_slots.0](../bbugyi200.athena.toobig-5p.agent_runner_slots.0/README.md) | toobig-5p hood | active |
 | [toobig-5p.commit\_dispatch.0](../bbugyi200.athena.toobig-5p.commit_dispatch.0/README.md) | toobig-5p hood | active |
-| [toobig-5p.commit\_dispatch\_followup.0](../../families/bbugyi200.athena.toobig-5p.commit_dispatch_followup.0.md) (family · 3) | toobig-5p hood | active 3 |
+| [toobig-5p.commit\_dispatch\_followup.0](../../sessions/bbugyi200.athena.toobig-5p.commit_dispatch_followup.0.md) (session · 3) | toobig-5p hood | active 3 |
 | [toobig-5p.detach.0](../bbugyi200.athena.toobig-5p.detach.0/README.md) | toobig-5p hood | waiting |
 | [toobig-5p.execution.0](../bbugyi200.athena.toobig-5p.execution.0/README.md) | toobig-5p hood | active |
-| [toobig-5p.executor.0](../../families/bbugyi200.athena.toobig-5p.executor.0.md) (family · 3) | toobig-5p hood | active 3 |
+| [toobig-5p.executor.0](../../sessions/bbugyi200.athena.toobig-5p.executor.0.md) (session · 3) | toobig-5p hood | active 3 |
 | [toobig-5p.host.0](../bbugyi200.athena.toobig-5p.host.0/README.md) | toobig-5p hood | active |
 | [toobig-5p.platform.0](../bbugyi200.athena.toobig-5p.platform.0/README.md) | toobig-5p hood | active |
 | [toobig-5p.runtime\_cache.0](../bbugyi200.athena.toobig-5p.runtime_cache.0/README.md) | toobig-5p hood | active |

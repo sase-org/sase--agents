@@ -1,6 +1,6 @@
 # Agent: sase-p8.6--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-p8](../../users/bbugyi200/machines/athena/hoods/sase-p8/README.md) / [sase-p8.6](../../families/bbugyi200.athena.sase-p8.6.md) / sase-p8.6--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-p8](../../users/bbugyi200/machines/athena/hoods/sase-p8/README.md) / [sase-p8.6](../../sessions/bbugyi200.athena.sase-p8.6.md) / sase-p8.6--plan
 
 **Global name:** `bbugyi200.athena.sase-p8.6--plan` · **State:** active · **Source run:** `run-1c7438e07999babd84734c628eddc21e`
 
@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-p8.1](../bbugyi200.athena.sase-p8.1/README.md) | sase-p8 hood | active |
-| [sase-p8.2](../../families/bbugyi200.athena.sase-p8.2.md) (family · 5) | sase-p8 hood | active 5 |
+| [sase-p8.2](../../sessions/bbugyi200.athena.sase-p8.2.md) (session · 5) | sase-p8 hood | active 5 |
 | [sase-p8.3](../bbugyi200.athena.sase-p8.3/README.md) | sase-p8 hood | active |
 | [sase-p8.4](../bbugyi200.athena.sase-p8.4/README.md) | sase-p8 hood | active |
 | [sase-p8.5](../bbugyi200.athena.sase-p8.5/README.md) | sase-p8 hood | active |

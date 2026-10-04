@@ -34,4 +34,4 @@
 | [sase-vs.4](../bbugyi200.athena.sase-vs.4/README.md) | sase-vs hood | active |
 | [sase-vs.5](../bbugyi200.athena.sase-vs.5/README.md) | sase-vs hood | active |
 | [sase-vs.6](../bbugyi200.athena.sase-vs.6/README.md) | sase-vs hood | active |
-| [sase-vs.land](../../families/bbugyi200.athena.sase-vs.land.md) (family · 3) | sase-vs hood | active 3 |
+| [sase-vs.land](../../sessions/bbugyi200.athena.sase-vs.land.md) (session · 3) | sase-vs hood | active 3 |

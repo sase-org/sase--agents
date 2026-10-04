@@ -30,4 +30,4 @@
 |---|---|---|
 | [sase-74.1](../bbugyi200.athena.sase-74.1/README.md) | sase-74 hood | active |
 | [sase-74.2](../bbugyi200.athena.sase-74.2/README.md) | sase-74 hood | active |
-| [sase-74.land](../../families/bbugyi200.athena.sase-74.land.md) (family · 2) | sase-74 hood | active 1, completed 1 |
+| [sase-74.land](../../sessions/bbugyi200.athena.sase-74.land.md) (session · 2) | sase-74 hood | active 1, completed 1 |

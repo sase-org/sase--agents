@@ -24,6 +24,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-rj.2](../bbugyi200.athena.sase-rj.2/README.md) | sase-rj hood | active |
-| [sase-rj.3](../../families/bbugyi200.athena.sase-rj.3.md) (family · 5) | sase-rj hood | active 5 |
+| [sase-rj.3](../../sessions/bbugyi200.athena.sase-rj.3.md) (session · 5) | sase-rj hood | active 5 |
 | [sase-rj.4](../bbugyi200.athena.sase-rj.4/README.md) | sase-rj hood | active |
-| [sase-rj.land](../../families/bbugyi200.athena.sase-rj.land.md) (family · 2) | sase-rj hood | active 1, completed 1 |
+| [sase-rj.land](../../sessions/bbugyi200.athena.sase-rj.land.md) (session · 2) | sase-rj hood | active 1, completed 1 |

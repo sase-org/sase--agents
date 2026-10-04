@@ -1,6 +1,6 @@
 # Agent: sase-m4.6--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m4](../../users/bbugyi200/machines/athena/hoods/sase-m4/README.md) / [sase-m4.6](../../families/bbugyi200.athena.sase-m4.6.md) / sase-m4.6--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-m4](../../users/bbugyi200/machines/athena/hoods/sase-m4/README.md) / [sase-m4.6](../../sessions/bbugyi200.athena.sase-m4.6.md) / sase-m4.6--plan
 
 **Global name:** `bbugyi200.athena.sase-m4.6--plan` · **State:** active · **Source run:** `run-9855280fd1e050f90302ccdc3840b4c4`
 
@@ -30,7 +30,7 @@
 | [sase-m4.5](../bbugyi200.athena.sase-m4.5/README.md) | sase-m4 hood | active |
 | [sase-m4.6--2--code](../bbugyi200.athena.sase-m4.6--2--code/README.md) | sase-m4 hood | completed |
 | [sase-m4.6--2--plan](../bbugyi200.athena.sase-m4.6--2--plan/README.md) | sase-m4 hood | completed |
-| [sase-m4.6\_1](../../families/bbugyi200.athena.sase-m4.6_1.md) (family · 3) | sase-m4 hood | active 1, completed 1, failed 1 |
-| [sase-m4.land](../../families/bbugyi200.athena.sase-m4.land.md) (family · 21) | sase-m4 hood | active 1, completed 10, failed 10 |
+| [sase-m4.6\_1](../../sessions/bbugyi200.athena.sase-m4.6_1.md) (session · 3) | sase-m4 hood | active 1, completed 1, failed 1 |
+| [sase-m4.land](../../sessions/bbugyi200.athena.sase-m4.land.md) (session · 21) | sase-m4 hood | active 1, completed 10, failed 10 |
 | [sase-m4.land--a--code](../bbugyi200.athena.sase-m4.land--a--code/README.md) | sase-m4 hood | completed |
 | [sase-m4.land--a--plan](../bbugyi200.athena.sase-m4.land--a--plan/README.md) | sase-m4 hood | completed |

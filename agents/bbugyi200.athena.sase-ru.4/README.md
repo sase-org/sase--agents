@@ -23,14 +23,14 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ru.1](../../families/bbugyi200.athena.sase-ru.1.md) (family · 5) | sase-ru hood | active 5 |
+| [sase-ru.1](../../sessions/bbugyi200.athena.sase-ru.1.md) (session · 5) | sase-ru hood | active 5 |
 | [sase-ru.10](../bbugyi200.athena.sase-ru.10/README.md) | sase-ru hood | active |
 | [sase-ru.11](../bbugyi200.athena.sase-ru.11/README.md) | sase-ru hood | waiting |
 | [sase-ru.12](../bbugyi200.athena.sase-ru.12/README.md) | sase-ru hood | waiting |
 | [sase-ru.2](../bbugyi200.athena.sase-ru.2/README.md) | sase-ru hood | active |
 | [sase-ru.3](../bbugyi200.athena.sase-ru.3/README.md) | sase-ru hood | active |
 | [sase-ru.5](../bbugyi200.athena.sase-ru.5/README.md) | sase-ru hood | active |
-| [sase-ru.6](../../families/bbugyi200.athena.sase-ru.6.md) (family · 6) | sase-ru hood | active 5, failed 1 |
+| [sase-ru.6](../../sessions/bbugyi200.athena.sase-ru.6.md) (session · 6) | sase-ru hood | active 5, failed 1 |
 | [sase-ru.7](../bbugyi200.athena.sase-ru.7/README.md) | sase-ru hood | active |
 | [sase-ru.8](../bbugyi200.athena.sase-ru.8/README.md) | sase-ru hood | active |
 | [sase-ru.9](../bbugyi200.athena.sase-ru.9/README.md) | sase-ru hood | active |

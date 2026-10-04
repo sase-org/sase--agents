@@ -1,6 +1,6 @@
 # Agent: 0g--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [0g](../../users/bbugyi200/machines/kellys_mbp/hoods/0g/README.md) / [0g](../../families/bbugyi200.kellys_mbp.0g.md) / 0g--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [0g](../../users/bbugyi200/machines/kellys_mbp/hoods/0g/README.md) / [0g](../../sessions/bbugyi200.kellys_mbp.0g.md) / 0g--plan
 
 **Global name:** `bbugyi200.kellys_mbp.0g--plan` · **State:** completed · **Source run:** `run-6005895ca794de5b57143c732e1252dd`
 

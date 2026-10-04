@@ -1,6 +1,6 @@
 # Agent: sase-127.1--gate
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-127](../../users/bbugyi200/machines/athena/hoods/sase-127/README.md) / [sase-127.1](../../families/bbugyi200.athena.sase-127.1.md) / sase-127.1--gate
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-127](../../users/bbugyi200/machines/athena/hoods/sase-127/README.md) / [sase-127.1](../../sessions/bbugyi200.athena.sase-127.1.md) / sase-127.1--gate
 
 **Global name:** `bbugyi200.athena.sase-127.1--gate` · **State:** active · **Source run:** `run-3f04d1e1101f3bd699f942979ab7646d`
 
@@ -26,4 +26,4 @@
 | [sase-127.2](../bbugyi200.athena.sase-127.2/README.md) | sase-127 hood | active |
 | [sase-127.3](../bbugyi200.athena.sase-127.3/README.md) | sase-127 hood | active |
 | [sase-127.4](../bbugyi200.athena.sase-127.4/README.md) | sase-127 hood | active |
-| [sase-127.land](../../families/bbugyi200.athena.sase-127.land.md) (family · 5) | sase-127 hood | active 5 |
+| [sase-127.land](../../sessions/bbugyi200.athena.sase-127.land.md) (session · 5) | sase-127 hood | active 5 |

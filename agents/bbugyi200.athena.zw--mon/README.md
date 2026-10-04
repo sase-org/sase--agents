@@ -1,6 +1,6 @@
 # Agent: zw--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [zw](../../users/bbugyi200/machines/athena/hoods/zw/README.md) / [zw](../../families/bbugyi200.athena.zw.md) / zw--mon
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [zw](../../users/bbugyi200/machines/athena/hoods/zw/README.md) / [zw](../../sessions/bbugyi200.athena.zw.md) / zw--mon
 
 **Global name:** `bbugyi200.athena.zw--mon` · **State:** active · **Source run:** `run-9d6e007f2386bba811b564c3189945bd`
 

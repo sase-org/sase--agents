@@ -25,6 +25,6 @@
 |---|---|---|
 | [sase-12y.4.land](../bbugyi200.apollo.sase-12y.4.land/README.md) | sase-12y.4 hood | waiting |
 | [sase-12y.1](../bbugyi200.apollo.sase-12y.1/README.md) | sase-12y hood | completed |
-| [sase-12y.2](../../families/bbugyi200.apollo.sase-12y.2.md) (family · 3) | sase-12y hood | completed 2, failed 1 |
-| [sase-12y.3](../../families/bbugyi200.apollo.sase-12y.3.md) (family · 9) | sase-12y hood | completed 5, failed 4 |
-| [sase-12y.land](../../families/bbugyi200.apollo.sase-12y.land.md) (family · 3) | sase-12y hood | failed 3 |
+| [sase-12y.2](../../sessions/bbugyi200.apollo.sase-12y.2.md) (session · 3) | sase-12y hood | completed 2, failed 1 |
+| [sase-12y.3](../../sessions/bbugyi200.apollo.sase-12y.3.md) (session · 9) | sase-12y hood | completed 5, failed 4 |
+| [sase-12y.land](../../sessions/bbugyi200.apollo.sase-12y.land.md) (session · 3) | sase-12y hood | failed 3 |

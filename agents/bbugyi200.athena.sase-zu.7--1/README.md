@@ -1,6 +1,6 @@
 # Agent: sase-zu.7--1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-zu](../../users/bbugyi200/machines/athena/hoods/sase-zu/README.md) / [sase-zu.7](../../families/bbugyi200.athena.sase-zu.7.md) / sase-zu.7--1
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-zu](../../users/bbugyi200/machines/athena/hoods/sase-zu/README.md) / [sase-zu.7](../../sessions/bbugyi200.athena.sase-zu.7.md) / sase-zu.7--1
 
 **Global name:** `bbugyi200.athena.sase-zu.7--1` · **State:** active · **Source run:** `run-e326bdc184f1551b42d3a7c0325798d6`
 
@@ -38,6 +38,6 @@
 | [sase-zu.8.2](../bbugyi200.athena.sase-zu.8.2/README.md) | sase-zu hood | active |
 | [sase-zu.8.3](../bbugyi200.athena.sase-zu.8.3/README.md) | sase-zu hood | active |
 | [sase-zu.8.4](../bbugyi200.athena.sase-zu.8.4/README.md) | sase-zu hood | active |
-| [sase-zu.8.5](../../families/bbugyi200.athena.sase-zu.8.5.md) (family · 7) | sase-zu hood | active 7 |
+| [sase-zu.8.5](../../sessions/bbugyi200.athena.sase-zu.8.5.md) (session · 7) | sase-zu hood | active 7 |
 | [sase-zu.8.land](../bbugyi200.athena.sase-zu.8.land/README.md) | sase-zu hood | active |
-| [sase-zu.land](../../families/bbugyi200.athena.sase-zu.land.md) (family · 3) | sase-zu hood | active 3 |
+| [sase-zu.land](../../sessions/bbugyi200.athena.sase-zu.land.md) (session · 3) | sase-zu hood | active 3 |

@@ -23,16 +23,16 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-xe.16.11.7.15.1](../bbugyi200.apollo.sase-xe.16.11.7.15.1/README.md) | sase-xe.16.11.7.15 hood | completed |
-| [sase-xe.16.11.7.15.2](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.2.md) (family · 3) | sase-xe.16.11.7.15 hood | completed 2, failed 1 |
-| [sase-xe.16.11.7.15.3](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.3.md) (family · 5) | sase-xe.16.11.7.15 hood | completed 3, failed 2 |
-| [sase-xe.16.11.7.15.4](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.4.md) (family · 9) | sase-xe.16.11.7.15 hood | completed 5, failed 4 |
+| [sase-xe.16.11.7.15.2](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.15.2.md) (session · 3) | sase-xe.16.11.7.15 hood | completed 2, failed 1 |
+| [sase-xe.16.11.7.15.3](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.15.3.md) (session · 5) | sase-xe.16.11.7.15 hood | completed 3, failed 2 |
+| [sase-xe.16.11.7.15.4](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.15.4.md) (session · 9) | sase-xe.16.11.7.15 hood | completed 5, failed 4 |
 | [sase-xe.16.11.7.15.4](../bbugyi200.apollo.sase-xe.16.11.7.15.4/README.md) | sase-xe.16.11.7.15 hood | completed |
-| [sase-xe.16.11.7.15.5](../../families/bbugyi200.apollo.sase-xe.16.11.7.15.5.md) (family · 3) | sase-xe.16.11.7.15 hood | completed 2, failed 1 |
+| [sase-xe.16.11.7.15.5](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.15.5.md) (session · 3) | sase-xe.16.11.7.15 hood | completed 2, failed 1 |
 | [sase-xe.16.11.7.15.6](../bbugyi200.apollo.sase-xe.16.11.7.15.6/README.md) | sase-xe.16.11.7.15 hood | completed |
 | [sase-xe.16.11.7.15.7](../bbugyi200.apollo.sase-xe.16.11.7.15.7/README.md) | sase-xe.16.11.7.15 hood | completed |
 | [sase-xe.16.11.7.16.1](../bbugyi200.apollo.sase-xe.16.11.7.16.1/README.md) | sase-xe.16.11.7 hood | completed |
-| [sase-xe.16.11.7.16.2](../../families/bbugyi200.apollo.sase-xe.16.11.7.16.2.md) (family · 3) | sase-xe.16.11.7 hood | completed 2, failed 1 |
-| [sase-xe.16.11.7.16.3](../../families/bbugyi200.apollo.sase-xe.16.11.7.16.3.md) (family · 5) | sase-xe.16.11.7 hood | completed 3, failed 2 |
+| [sase-xe.16.11.7.16.2](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.16.2.md) (session · 3) | sase-xe.16.11.7 hood | completed 2, failed 1 |
+| [sase-xe.16.11.7.16.3](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.16.3.md) (session · 5) | sase-xe.16.11.7 hood | completed 3, failed 2 |
 | [sase-xe.16.11.7.16.4](../bbugyi200.apollo.sase-xe.16.11.7.16.4/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.16.5.1](../bbugyi200.apollo.sase-xe.16.11.7.16.5.1/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.16.5.2](../bbugyi200.apollo.sase-xe.16.11.7.16.5.2/README.md) | sase-xe.16.11.7 hood | completed |
@@ -40,5 +40,5 @@
 | [sase-xe.16.11.7.16.5.4](../bbugyi200.apollo.sase-xe.16.11.7.16.5.4/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.16.5.5.1](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.1/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.16.5.5.land](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.land/README.md) | sase-xe.16.11.7 hood | active |
-| [sase-xe.16.11.7.16.5.land](../../families/bbugyi200.apollo.sase-xe.16.11.7.16.5.land.md) (family · 3) | sase-xe.16.11.7 hood | failed 3 |
-| [sase-xe.16.11.7.16.land](../../families/bbugyi200.apollo.sase-xe.16.11.7.16.land.md) (family · 3) | sase-xe.16.11.7 hood | failed 3 |
+| [sase-xe.16.11.7.16.5.land](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.16.5.land.md) (session · 3) | sase-xe.16.11.7 hood | failed 3 |
+| [sase-xe.16.11.7.16.land](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.16.land.md) (session · 3) | sase-xe.16.11.7 hood | failed 3 |

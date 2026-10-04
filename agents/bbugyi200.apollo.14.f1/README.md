@@ -24,5 +24,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [14](../../families/bbugyi200.apollo.14.md) (family · 3) | ancestor | active 1, completed 1, failed 1 |
+| [14](../../sessions/bbugyi200.apollo.14.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
 | [14.f1.w1](../bbugyi200.apollo.14.f1.w1/README.md) | descendant | completed |

@@ -1,6 +1,6 @@
 # Agent: ny--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ny](../../users/bbugyi200/machines/athena/hoods/ny/README.md) / [ny](../../families/bbugyi200.athena.ny.md) / ny--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ny](../../users/bbugyi200/machines/athena/hoods/ny/README.md) / [ny](../../sessions/bbugyi200.athena.ny.md) / ny--plan
 
 **Global name:** `bbugyi200.athena.ny--plan` · **State:** active · **Source run:** `run-066880f99da1d380b5eb971d53e84988`
 
@@ -21,6 +21,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [ny.f0](../../families/bbugyi200.athena.ny.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [ny.f0](../../sessions/bbugyi200.athena.ny.f0.md) (session · 2) | descendant | active 1, completed 1 |
 | [ny.f1](../bbugyi200.athena.ny.f1/README.md) | descendant | active |
 | [ny.f1.f0](../bbugyi200.athena.ny.f1.f0/README.md) | descendant | active |

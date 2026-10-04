@@ -23,5 +23,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-72.2](../bbugyi200.athena.sase-72.2/README.md) | sase-72 hood | active |
-| [sase-72.3](../../families/bbugyi200.athena.sase-72.3.md) (family · 2) | sase-72 hood | active 1, completed 1 |
+| [sase-72.3](../../sessions/bbugyi200.athena.sase-72.3.md) (session · 2) | sase-72 hood | active 1, completed 1 |
 | [sase-72.land](../bbugyi200.athena.sase-72.land/README.md) | sase-72 hood | active |

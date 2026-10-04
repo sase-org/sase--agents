@@ -1,6 +1,6 @@
 # Agent: i3--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [i3](../../users/bbugyi200/machines/athena/hoods/i3/README.md) / [i3](../../families/bbugyi200.athena.i3.md) / i3--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [i3](../../users/bbugyi200/machines/athena/hoods/i3/README.md) / [i3](../../sessions/bbugyi200.athena.i3.md) / i3--plan
 
 **Global name:** `bbugyi200.athena.i3--plan` · **State:** active · **Source run:** `run-2485c0a97c26af213703efd0497fc1d2`
 
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [i3.f0](../../families/bbugyi200.athena.i3.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [i3.f0](../../sessions/bbugyi200.athena.i3.f0.md) (session · 2) | descendant | active 1, completed 1 |

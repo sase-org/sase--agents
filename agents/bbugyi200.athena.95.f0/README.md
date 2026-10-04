@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [95](../../families/bbugyi200.athena.95.md) (family · 2) | ancestor | active 1, completed 1 |
+| [95](../../sessions/bbugyi200.athena.95.md) (session · 2) | ancestor | active 1, completed 1 |
 | [95.f1](../bbugyi200.athena.95.f1/README.md) | 95 hood | active |

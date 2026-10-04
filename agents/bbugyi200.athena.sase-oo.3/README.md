@@ -32,4 +32,4 @@
 | [sase-oo.1](../bbugyi200.athena.sase-oo.1/README.md) | sase-oo hood | active |
 | [sase-oo.2](../bbugyi200.athena.sase-oo.2/README.md) | sase-oo hood | active |
 | [sase-oo.4](../bbugyi200.athena.sase-oo.4/README.md) | sase-oo hood | active |
-| [sase-oo.land](../../families/bbugyi200.athena.sase-oo.land.md) (family · 3) | sase-oo hood | active 3 |
+| [sase-oo.land](../../sessions/bbugyi200.athena.sase-oo.land.md) (session · 3) | sase-oo hood | active 3 |

@@ -40,7 +40,7 @@
 | [sase-kp.7](../bbugyi200.athena.sase-kp.7/README.md) | sase-kp hood | active |
 | [sase-kp.8](../bbugyi200.athena.sase-kp.8/README.md) | sase-kp hood | active |
 | [sase-kp.9](../bbugyi200.athena.sase-kp.9/README.md) | sase-kp hood | active |
-| [sase-kp.land](../../families/bbugyi200.athena.sase-kp.land.md) (family · 3) | sase-kp hood | active 1, completed 1, failed 1 |
+| [sase-kp.land](../../sessions/bbugyi200.athena.sase-kp.land.md) (session · 3) | sase-kp hood | active 1, completed 1, failed 1 |
 | [sase-kp.land.w0](../bbugyi200.athena.sase-kp.land.w0/README.md) | sase-kp hood | waiting |
 | [sase-kp.land.w0.r0](../bbugyi200.athena.sase-kp.land.w0.r0/README.md) | sase-kp hood | active |
-| [sase-kp.land.w1](../../families/bbugyi200.athena.sase-kp.land.w1.md) (family · 2) | sase-kp hood | active 1, failed 1 |
+| [sase-kp.land.w1](../../sessions/bbugyi200.athena.sase-kp.land.w1.md) (session · 2) | sase-kp hood | active 1, failed 1 |

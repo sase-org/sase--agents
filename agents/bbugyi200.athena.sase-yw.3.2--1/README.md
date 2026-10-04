@@ -1,6 +1,6 @@
 # Agent: sase-yw.3.2--1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-yw](../../users/bbugyi200/machines/athena/hoods/sase-yw/README.md) / [sase-yw.3.2](../../families/bbugyi200.athena.sase-yw.3.2.md) / sase-yw.3.2--1
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-yw](../../users/bbugyi200/machines/athena/hoods/sase-yw/README.md) / [sase-yw.3.2](../../sessions/bbugyi200.athena.sase-yw.3.2.md) / sase-yw.3.2--1
 
 **Global name:** `bbugyi200.athena.sase-yw.3.2--1` · **State:** active · **Source run:** `run-ddf374aa2b1408f917cb3495cbf3d804`
 
@@ -29,7 +29,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-yw.3.1](../bbugyi200.athena.sase-yw.3.1/README.md) | sase-yw.3 hood | active |
-| [sase-yw.3.land](../../families/bbugyi200.athena.sase-yw.3.land.md) (family · 4) | sase-yw.3 hood | active 3, failed 1 |
+| [sase-yw.3.land](../../sessions/bbugyi200.athena.sase-yw.3.land.md) (session · 4) | sase-yw.3 hood | active 3, failed 1 |
 | [sase-yw.1](../bbugyi200.athena.sase-yw.1/README.md) | sase-yw hood | active |
 | [sase-yw.2](../bbugyi200.athena.sase-yw.2/README.md) | sase-yw hood | active |
-| [sase-yw.land](../../families/bbugyi200.athena.sase-yw.land.md) (family · 3) | sase-yw hood | active 3 |
+| [sase-yw.land](../../sessions/bbugyi200.athena.sase-yw.land.md) (session · 3) | sase-yw hood | active 3 |

@@ -1,6 +1,6 @@
 # Agent: l
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [l](../../users/bbugyi200/machines/athena/hoods/l/README.md) / [l](../../families/bbugyi200.athena.l.md) / l
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [l](../../users/bbugyi200/machines/athena/hoods/l/README.md) / [l](../../sessions/bbugyi200.athena.l.md) / l
 
 **Global name:** `bbugyi200.athena.l` · **State:** active · **Source run:** `run-baaba60abd8081f2bec781df43c52f2c`
 
@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [l.f1](../../families/bbugyi200.athena.l.f1.md) (family · 2) | descendant | active 1, completed 1 |
-| [l.f1.f1](../../families/bbugyi200.athena.l.f1.f1.md) (family · 2) | descendant | active 1, completed 1 |
+| [l.f1](../../sessions/bbugyi200.athena.l.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [l.f1.f1](../../sessions/bbugyi200.athena.l.f1.f1.md) (session · 2) | descendant | active 1, completed 1 |

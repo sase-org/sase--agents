@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.b.cld.f0](../../families/bbugyi200.athena.research.b.cld.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [research.b.cld.f0](../../sessions/bbugyi200.athena.research.b.cld.f0.md) (session · 2) | descendant | active 1, completed 1 |
 | [research.b.cdx](../bbugyi200.athena.research.b.cdx/README.md) | research.b hood | dismissed |
 | [research.b.final](../bbugyi200.athena.research.b.final/README.md) | research.b hood | dismissed |
 | [research.b.image](../bbugyi200.athena.research.b.image/README.md) | research.b hood | dismissed |

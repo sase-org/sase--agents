@@ -1,27 +1,5 @@
-# Family: ht
+# Moved to sessions/bbugyi200.athena.ht.md
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [ht](../users/bbugyi200/machines/athena/hoods/ht/README.md) / ht
+This agent session page now lives at [`sessions/bbugyi200.athena.ht.md`](../sessions/bbugyi200.athena.ht.md).
 
-Owner: `bbugyi200.athena` · Hood: `ht` · Members: 2
-
-## Lineage
-
-```mermaid
-flowchart TD
-  n0["ht--plan [active]"]
-  n1["ht--code [completed]"]
-  n0 --> n1
-```
-
-The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
-
-| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
-|---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | ht--plan | active | gpt-5.6-sol / codex | 2026-07-22T11:05:33.022996+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.ht--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.ht--plan/chat.md) |
-| <a id="member-code"></a>code | ht--code | completed | gpt-5.6-sol / codex | 2026-07-22T11:20:53.122392+00:00 | [1](../agents/bbugyi200.athena.ht--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.ht--code/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| code | sase | [`5839250`](https://github.com/sase-org/sase/commit/58392509657b46b69db09190290438e8b50bdab0) | feat(ace): highlight TODO annotations in prompts | 2026-07-22 08:07:11 EDT |
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

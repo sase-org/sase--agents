@@ -32,7 +32,7 @@
 | [sase-ti.1](../bbugyi200.athena.sase-ti.1/README.md) | sase-ti hood | active |
 | [sase-ti.2](../bbugyi200.athena.sase-ti.2/README.md) | sase-ti hood | active |
 | [sase-ti.4](../bbugyi200.athena.sase-ti.4/README.md) | sase-ti hood | active |
-| [sase-ti.5](../../families/bbugyi200.athena.sase-ti.5.md) (family · 7) | sase-ti hood | active 4, failed 3 |
-| [sase-ti.6](../../families/bbugyi200.athena.sase-ti.6.md) (family · 1) | sase-ti hood | dismissed 1 |
+| [sase-ti.5](../../sessions/bbugyi200.athena.sase-ti.5.md) (session · 7) | sase-ti hood | active 4, failed 3 |
+| [sase-ti.6](../../sessions/bbugyi200.athena.sase-ti.6.md) (session · 1) | sase-ti hood | dismissed 1 |
 | [sase-ti.6](../bbugyi200.athena.sase-ti.6/README.md) | sase-ti hood | active |
 | [sase-ti.land](../bbugyi200.athena.sase-ti.land/README.md) | sase-ti hood | active |

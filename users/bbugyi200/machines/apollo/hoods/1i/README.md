@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / 1i
 
-**Global hood:** `bbugyi200.apollo.1i` · **Runs:** 3 · **Families:** 1 · **States:** active 1, failed 2
+**Global hood:** `bbugyi200.apollo.1i` · **Runs:** 3 · **Sessions:** 1 · **States:** active 1, failed 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|

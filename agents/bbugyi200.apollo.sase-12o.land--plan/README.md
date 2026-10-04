@@ -1,6 +1,6 @@
 # Agent: sase-12o.land--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-12o](../../users/bbugyi200/machines/apollo/hoods/sase-12o/README.md) / [sase-12o.land](../../families/bbugyi200.apollo.sase-12o.land.md) / sase-12o.land--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-12o](../../users/bbugyi200/machines/apollo/hoods/sase-12o/README.md) / [sase-12o.land](../../sessions/bbugyi200.apollo.sase-12o.land.md) / sase-12o.land--plan
 
 **Global name:** `bbugyi200.apollo.sase-12o.land--plan` · **State:** completed · **Source run:** `run-4c264a58c6b67a462f3a023931a43c37`
 

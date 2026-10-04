@@ -1,6 +1,6 @@
 # Agent: hk.f0.f0--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [hk](../../users/bbugyi200/machines/athena/hoods/hk/README.md) / [hk.f0.f0](../../families/bbugyi200.athena.hk.f0.f0.md) / hk.f0.f0--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [hk](../../users/bbugyi200/machines/athena/hoods/hk/README.md) / [hk.f0.f0](../../sessions/bbugyi200.athena.hk.f0.f0.md) / hk.f0.f0--code
 
 **Global name:** `bbugyi200.athena.hk.f0.f0--code` · **State:** completed · **Source run:** `run-5b639b0cbac3ad1ee8ac0c4a7bd39312`
 
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [hk.f0](../../families/bbugyi200.athena.hk.f0.md) (family · 2) | ancestor | active 1, completed 1 |
+| [hk.f0](../../sessions/bbugyi200.athena.hk.f0.md) (session · 2) | ancestor | active 1, completed 1 |
 | [hk](../bbugyi200.athena.hk/README.md) | ancestor | dismissed |

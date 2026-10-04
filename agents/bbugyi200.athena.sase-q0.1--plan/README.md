@@ -1,6 +1,6 @@
 # Agent: sase-q0.1--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-q0](../../users/bbugyi200/machines/athena/hoods/sase-q0/README.md) / [sase-q0.1](../../families/bbugyi200.athena.sase-q0.1.md) / sase-q0.1--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-q0](../../users/bbugyi200/machines/athena/hoods/sase-q0/README.md) / [sase-q0.1](../../sessions/bbugyi200.athena.sase-q0.1.md) / sase-q0.1--plan
 
 **Global name:** `bbugyi200.athena.sase-q0.1--plan` · **State:** active · **Source run:** `run-fb0977575c8ce1a6655716a94444d6ec`
 
@@ -25,8 +25,8 @@
 |---|---|---|
 | [sase-q0.2](../bbugyi200.athena.sase-q0.2/README.md) | sase-q0 hood | active |
 | [sase-q0.3](../bbugyi200.athena.sase-q0.3/README.md) | sase-q0 hood | active |
-| [sase-q0.4](../../families/bbugyi200.athena.sase-q0.4.md) (family · 3) | sase-q0 hood | active 1, completed 1, failed 1 |
+| [sase-q0.4](../../sessions/bbugyi200.athena.sase-q0.4.md) (session · 3) | sase-q0 hood | active 1, completed 1, failed 1 |
 | [sase-q0.5.1](../bbugyi200.athena.sase-q0.5.1/README.md) | sase-q0 hood | active |
 | [sase-q0.5.2](../bbugyi200.athena.sase-q0.5.2/README.md) | sase-q0 hood | active |
 | [sase-q0.5.land](../bbugyi200.athena.sase-q0.5.land/README.md) | sase-q0 hood | active |
-| [sase-q0.land](../../families/bbugyi200.athena.sase-q0.land.md) (family · 2) | sase-q0 hood | active 1, failed 1 |
+| [sase-q0.land](../../sessions/bbugyi200.athena.sase-q0.land.md) (session · 2) | sase-q0 hood | active 1, failed 1 |

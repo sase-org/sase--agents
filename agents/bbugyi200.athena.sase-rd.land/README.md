@@ -22,9 +22,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rd.land.w1](../../families/bbugyi200.athena.sase-rd.land.w1.md) (family · 2) | descendant | active 1, failed 1 |
+| [sase-rd.land.w1](../../sessions/bbugyi200.athena.sase-rd.land.w1.md) (session · 2) | descendant | active 1, failed 1 |
 | [sase-rd.1](../bbugyi200.athena.sase-rd.1/README.md) | sase-rd hood | active |
 | [sase-rd.2](../bbugyi200.athena.sase-rd.2/README.md) | sase-rd hood | active |
 | [sase-rd.3](../bbugyi200.athena.sase-rd.3/README.md) | sase-rd hood | active |
 | [sase-rd.4](../bbugyi200.athena.sase-rd.4/README.md) | sase-rd hood | active |
-| [sase-rd.5](../../families/bbugyi200.athena.sase-rd.5.md) (family · 3) | sase-rd hood | active 3 |
+| [sase-rd.5](../../sessions/bbugyi200.athena.sase-rd.5.md) (session · 3) | sase-rd hood | active 3 |

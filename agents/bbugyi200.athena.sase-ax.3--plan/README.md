@@ -1,6 +1,6 @@
 # Agent: sase-ax.3--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ax](../../users/bbugyi200/machines/athena/hoods/sase-ax/README.md) / [sase-ax.3](../../families/bbugyi200.athena.sase-ax.3.md) / sase-ax.3--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ax](../../users/bbugyi200/machines/athena/hoods/sase-ax/README.md) / [sase-ax.3](../../sessions/bbugyi200.athena.sase-ax.3.md) / sase-ax.3--plan
 
 **Global name:** `bbugyi200.athena.sase-ax.3--plan` · **State:** active · **Source run:** `run-68a73ee3dbe5a852c3119b9c2897be53`
 
@@ -27,4 +27,4 @@
 | [sase-ax.1](../bbugyi200.athena.sase-ax.1/README.md) | sase-ax hood | active |
 | [sase-ax.2](../bbugyi200.athena.sase-ax.2/README.md) | sase-ax hood | active |
 | [sase-ax.4](../bbugyi200.athena.sase-ax.4/README.md) | sase-ax hood | active |
-| [sase-ax.land](../../families/bbugyi200.athena.sase-ax.land.md) (family · 2) | sase-ax hood | active 1, completed 1 |
+| [sase-ax.land](../../sessions/bbugyi200.athena.sase-ax.land.md) (session · 2) | sase-ax hood | active 1, completed 1 |

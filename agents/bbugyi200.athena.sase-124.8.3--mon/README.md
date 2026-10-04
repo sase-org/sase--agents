@@ -1,6 +1,6 @@
 # Agent: sase-124.8.3--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-124](../../users/bbugyi200/machines/athena/hoods/sase-124/README.md) / [sase-124.8.3](../../families/bbugyi200.athena.sase-124.8.3.md) / sase-124.8.3--mon
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-124](../../users/bbugyi200/machines/athena/hoods/sase-124/README.md) / [sase-124.8.3](../../sessions/bbugyi200.athena.sase-124.8.3.md) / sase-124.8.3--mon
 
 **Global name:** `bbugyi200.athena.sase-124.8.3--mon` · **State:** active · **Source run:** `run-6531f6cd9711ed3143b714476a3247ab`
 
@@ -25,18 +25,18 @@
 |---|---|---|
 | [sase-124.8.1](../bbugyi200.athena.sase-124.8.1/README.md) | sase-124.8 hood | active |
 | [sase-124.8.2](../bbugyi200.athena.sase-124.8.2/README.md) | sase-124.8 hood | active |
-| [sase-124.8.4.1](../../families/bbugyi200.athena.sase-124.8.4.1.md) (family · 5) | sase-124.8 hood | active 5 |
+| [sase-124.8.4.1](../../sessions/bbugyi200.athena.sase-124.8.4.1.md) (session · 5) | sase-124.8 hood | active 5 |
 | [sase-124.8.4.2](../bbugyi200.athena.sase-124.8.4.2/README.md) | sase-124.8 hood | active |
-| [sase-124.8.4.3.1](../../families/bbugyi200.athena.sase-124.8.4.3.1.md) (family · 3) | sase-124.8 hood | active 3 |
-| [sase-124.8.4.3.2](../../families/bbugyi200.athena.sase-124.8.4.3.2.md) (family · 3) | sase-124.8 hood | active 3 |
+| [sase-124.8.4.3.1](../../sessions/bbugyi200.athena.sase-124.8.4.3.1.md) (session · 3) | sase-124.8 hood | active 3 |
+| [sase-124.8.4.3.2](../../sessions/bbugyi200.athena.sase-124.8.4.3.2.md) (session · 3) | sase-124.8 hood | active 3 |
 | [sase-124.8.4.3.land](../bbugyi200.athena.sase-124.8.4.3.land/README.md) | sase-124.8 hood | waiting |
-| [sase-124.8.4.land](../../families/bbugyi200.athena.sase-124.8.4.land.md) (family · 3) | sase-124.8 hood | active 3 |
-| [sase-124.8.land](../../families/bbugyi200.athena.sase-124.8.land.md) (family · 3) | sase-124.8 hood | active 3 |
+| [sase-124.8.4.land](../../sessions/bbugyi200.athena.sase-124.8.4.land.md) (session · 3) | sase-124.8 hood | active 3 |
+| [sase-124.8.land](../../sessions/bbugyi200.athena.sase-124.8.land.md) (session · 3) | sase-124.8 hood | active 3 |
 | [sase-124.1](../bbugyi200.athena.sase-124.1/README.md) | sase-124 hood | active |
 | [sase-124.2](../bbugyi200.athena.sase-124.2/README.md) | sase-124 hood | active |
 | [sase-124.3](../bbugyi200.athena.sase-124.3/README.md) | sase-124 hood | active |
-| [sase-124.4](../../families/bbugyi200.athena.sase-124.4.md) (family · 7) | sase-124 hood | active 5, completed 1, failed 1 |
-| [sase-124.5](../../families/bbugyi200.athena.sase-124.5.md) (family · 3) | sase-124 hood | active 3 |
+| [sase-124.4](../../sessions/bbugyi200.athena.sase-124.4.md) (session · 7) | sase-124 hood | active 5, completed 1, failed 1 |
+| [sase-124.5](../../sessions/bbugyi200.athena.sase-124.5.md) (session · 3) | sase-124 hood | active 3 |
 | [sase-124.6](../bbugyi200.athena.sase-124.6/README.md) | sase-124 hood | active |
 | [sase-124.7](../bbugyi200.athena.sase-124.7/README.md) | sase-124 hood | active |
-| [sase-124.land](../../families/bbugyi200.athena.sase-124.land.md) (family · 3) | sase-124 hood | active 3 |
+| [sase-124.land](../../sessions/bbugyi200.athena.sase-124.land.md) (session · 3) | sase-124 hood | active 3 |

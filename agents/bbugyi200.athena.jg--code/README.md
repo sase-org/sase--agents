@@ -1,6 +1,6 @@
 # Agent: jg--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [jg](../../users/bbugyi200/machines/athena/hoods/jg/README.md) / [jg](../../families/bbugyi200.athena.jg.md) / jg--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [jg](../../users/bbugyi200/machines/athena/hoods/jg/README.md) / [jg](../../sessions/bbugyi200.athena.jg.md) / jg--code
 
 **Global name:** `bbugyi200.athena.jg--code` · **State:** completed · **Source run:** `run-7e0d7981e56aeb90abac3217176d6d86`
 

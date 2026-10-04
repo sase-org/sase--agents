@@ -1,6 +1,6 @@
 # Agent: sase-kp.land--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-kp](../../users/bbugyi200/machines/athena/hoods/sase-kp/README.md) / [sase-kp.land](../../families/bbugyi200.athena.sase-kp.land.md) / sase-kp.land--mon
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-kp](../../users/bbugyi200/machines/athena/hoods/sase-kp/README.md) / [sase-kp.land](../../sessions/bbugyi200.athena.sase-kp.land.md) / sase-kp.land--mon
 
 **Global name:** `bbugyi200.athena.sase-kp.land--mon` · **State:** failed · **Source run:** `run-45cc8a3ed7a28f81f7c04a0f77a0169a`
 
@@ -24,7 +24,7 @@
 |---|---|---|
 | [sase-kp.land.w0](../bbugyi200.athena.sase-kp.land.w0/README.md) | descendant | waiting |
 | [sase-kp.land.w0.r0](../bbugyi200.athena.sase-kp.land.w0.r0/README.md) | descendant | active |
-| [sase-kp.land.w1](../../families/bbugyi200.athena.sase-kp.land.w1.md) (family · 2) | descendant | active 1, failed 1 |
+| [sase-kp.land.w1](../../sessions/bbugyi200.athena.sase-kp.land.w1.md) (session · 2) | descendant | active 1, failed 1 |
 | [sase-kp.1](../bbugyi200.athena.sase-kp.1/README.md) | sase-kp hood | active |
 | [sase-kp.10](../bbugyi200.athena.sase-kp.10/README.md) | sase-kp hood | active |
 | [sase-kp.11](../bbugyi200.athena.sase-kp.11/README.md) | sase-kp hood | active |

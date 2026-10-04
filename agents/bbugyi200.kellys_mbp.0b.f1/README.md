@@ -23,5 +23,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0b](../../families/bbugyi200.kellys_mbp.0b.md) (family · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0b](../../sessions/bbugyi200.kellys_mbp.0b.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
 | [0b.f1.f1](../bbugyi200.kellys_mbp.0b.f1.f1/README.md) | descendant | completed |

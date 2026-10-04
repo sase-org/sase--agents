@@ -1,6 +1,6 @@
 # Agent: sase-jx.5.5.land--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-jx](../../users/bbugyi200/machines/athena/hoods/sase-jx/README.md) / [sase-jx.5.5.land](../../families/bbugyi200.athena.sase-jx.5.5.land.md) / sase-jx.5.5.land--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-jx](../../users/bbugyi200/machines/athena/hoods/sase-jx/README.md) / [sase-jx.5.5.land](../../sessions/bbugyi200.athena.sase-jx.5.5.land.md) / sase-jx.5.5.land--plan
 
 **Global name:** `bbugyi200.athena.sase-jx.5.5.land--plan` · **State:** active · **Source run:** `run-10050252daa757325c9d53ade7cd68a5`
 

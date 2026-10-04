@@ -27,7 +27,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [we.f0](../../families/bbugyi200.athena.we.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [we.f0](../../sessions/bbugyi200.athena.we.f0.md) (session · 2) | descendant | active 1, completed 1 |
 | [we.f0.f0](../bbugyi200.athena.we.f0.f0/README.md) | descendant | waiting |
 | [we.f0.w0](../bbugyi200.athena.we.f0.w0/README.md) | descendant | waiting |
 | [we.f0.w1](../bbugyi200.athena.we.f0.w1/README.md) | descendant | active |

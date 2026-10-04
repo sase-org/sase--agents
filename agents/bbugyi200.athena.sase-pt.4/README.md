@@ -23,8 +23,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-pt.1](../../families/bbugyi200.athena.sase-pt.1.md) (family · 4) | sase-pt hood | completed 3, failed 1 |
-| [sase-pt.2](../../families/bbugyi200.athena.sase-pt.2.md) (family · 5) | sase-pt hood | completed 3, failed 2 |
+| [sase-pt.1](../../sessions/bbugyi200.athena.sase-pt.1.md) (session · 4) | sase-pt hood | completed 3, failed 1 |
+| [sase-pt.2](../../sessions/bbugyi200.athena.sase-pt.2.md) (session · 5) | sase-pt hood | completed 3, failed 2 |
 | [sase-pt.2--4--1](../bbugyi200.athena.sase-pt.2--4--1/README.md) | sase-pt hood | dismissed |
-| [sase-pt.3](../../families/bbugyi200.athena.sase-pt.3.md) (family · 3) | sase-pt hood | completed 2, failed 1 |
+| [sase-pt.3](../../sessions/bbugyi200.athena.sase-pt.3.md) (session · 3) | sase-pt hood | completed 2, failed 1 |
 | [sase-pt.land](../bbugyi200.athena.sase-pt.land/README.md) | sase-pt hood | completed |

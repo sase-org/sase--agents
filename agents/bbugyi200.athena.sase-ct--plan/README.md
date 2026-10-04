@@ -1,6 +1,6 @@
 # Agent: sase-ct--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ct](../../users/bbugyi200/machines/athena/hoods/sase-ct/README.md) / [sase-ct](../../families/bbugyi200.athena.sase-ct.md) / sase-ct--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ct](../../users/bbugyi200/machines/athena/hoods/sase-ct/README.md) / [sase-ct](../../sessions/bbugyi200.athena.sase-ct.md) / sase-ct--plan
 
 **Global name:** `bbugyi200.athena.sase-ct--plan` · **State:** active · **Source run:** `run-5999aec592251f69318d89216f1e9d3c`
 

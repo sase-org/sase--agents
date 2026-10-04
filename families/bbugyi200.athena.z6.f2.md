@@ -1,28 +1,5 @@
-# Family: z6.f2
+# Moved to sessions/bbugyi200.athena.z6.f2.md
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [z6](../users/bbugyi200/machines/athena/hoods/z6/README.md) / z6.f2
+This agent session page now lives at [`sessions/bbugyi200.athena.z6.f2.md`](../sessions/bbugyi200.athena.z6.f2.md).
 
-Owner: `bbugyi200.athena` · Hood: `z6` · Members: 2
-
-## Lineage
-
-```mermaid
-flowchart TD
-  n0["z6.f2--mon [failed]"]
-  n1["z6.f2--plan [active]"]
-  n0 --> n1
-```
-
-The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
-
-| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
-|---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | z6.f2--mon | failed | opus / claude | 2026-08-13T13:16:16.986741+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.z6.f2--mon/chat.md) |
-| <a id="member-plan"></a>plan | z6.f2--plan | active | opus / claude | 2026-08-13T13:04:45.682345+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.z6.f2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.z6.f2--plan/chat.md) |
-
-## Neighbors
-
-| Agent | Relation | State |
-|---|---|---|
-| [z6](bbugyi200.athena.z6.md) (family · 2) | ancestor | active 1, completed 1 |
-| [z6.f0](../agents/bbugyi200.athena.z6.f0/README.md) | z6 hood | waiting |
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

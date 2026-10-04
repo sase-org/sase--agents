@@ -1,6 +1,6 @@
 # Agent: split\_file.projects\_pane-2--f
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [split\_file](../../users/bbugyi200/machines/athena/hoods/split_file/README.md) / [split\_file.projects\_pane-2](../../families/bbugyi200.athena.split_file.projects_pane-2.md) / split\_file.projects\_pane-2--f
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [split\_file](../../users/bbugyi200/machines/athena/hoods/split_file/README.md) / [split\_file.projects\_pane-2](../../sessions/bbugyi200.athena.split_file.projects_pane-2.md) / split\_file.projects\_pane-2--f
 
 **Global name:** `bbugyi200.athena.split_file.projects_pane-2--f` · **State:** active · **Source run:** `run-53ea2b60e325fdd4722d3715519f71e1`
 

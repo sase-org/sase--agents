@@ -30,5 +30,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-10h.1](../bbugyi200.athena.sase-10h.1/README.md) | sase-10h hood | active |
-| [sase-10h.3](../../families/bbugyi200.athena.sase-10h.3.md) (family · 3) | sase-10h hood | active 1, failed 2 |
-| [sase-10h.land](../../families/bbugyi200.athena.sase-10h.land.md) (family · 3) | sase-10h hood | active 2, completed 1 |
+| [sase-10h.3](../../sessions/bbugyi200.athena.sase-10h.3.md) (session · 3) | sase-10h hood | active 1, failed 2 |
+| [sase-10h.land](../../sessions/bbugyi200.athena.sase-10h.land.md) (session · 3) | sase-10h hood | active 2, completed 1 |

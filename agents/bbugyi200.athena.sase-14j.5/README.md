@@ -31,7 +31,7 @@
 |---|---|---|
 | [sase-14j.1](../bbugyi200.athena.sase-14j.1/README.md) | sase-14j hood | active |
 | [sase-14j.2](../bbugyi200.athena.sase-14j.2/README.md) | sase-14j hood | active |
-| [sase-14j.3](../../families/bbugyi200.athena.sase-14j.3.md) (family · 3) | sase-14j hood | active 2, failed 1 |
-| [sase-14j.4](../../families/bbugyi200.athena.sase-14j.4.md) (family · 3) | sase-14j hood | active 2, failed 1 |
+| [sase-14j.3](../../sessions/bbugyi200.athena.sase-14j.3.md) (session · 3) | sase-14j hood | active 2, failed 1 |
+| [sase-14j.4](../../sessions/bbugyi200.athena.sase-14j.4.md) (session · 3) | sase-14j hood | active 2, failed 1 |
 | [sase-14j.6](../bbugyi200.athena.sase-14j.6/README.md) | sase-14j hood | active |
-| [sase-14j.land](../../families/bbugyi200.athena.sase-14j.land.md) (family · 3) | sase-14j hood | active 1, completed 1, failed 1 |
+| [sase-14j.land](../../sessions/bbugyi200.athena.sase-14j.land.md) (session · 3) | sase-14j hood | active 1, completed 1, failed 1 |

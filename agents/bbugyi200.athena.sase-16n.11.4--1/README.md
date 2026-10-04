@@ -1,6 +1,6 @@
 # Agent: sase-16n.11.4--1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-16n](../../users/bbugyi200/machines/athena/hoods/sase-16n/README.md) / [sase-16n.11.4](../../families/bbugyi200.athena.sase-16n.11.4.md) / sase-16n.11.4--1
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-16n](../../users/bbugyi200/machines/athena/hoods/sase-16n/README.md) / [sase-16n.11.4](../../sessions/bbugyi200.athena.sase-16n.11.4.md) / sase-16n.11.4--1
 
 **Global name:** `bbugyi200.athena.sase-16n.11.4--1` · **State:** active · **Source run:** `run-958a272357b407e4c211805ceaa5d9e9`
 
@@ -32,7 +32,7 @@
 | [sase-16n.11.7.3](../bbugyi200.athena.sase-16n.11.7.3/README.md) | sase-16n.11 hood | active |
 | [sase-16n.11.7.4](../bbugyi200.athena.sase-16n.11.7.4/README.md) | sase-16n.11 hood | active |
 | [sase-16n.11.7.land](../bbugyi200.athena.sase-16n.11.7.land/README.md) | sase-16n.11 hood | active |
-| [sase-16n.11.land](../../families/bbugyi200.athena.sase-16n.11.land.md) (family · 3) | sase-16n.11 hood | active 3 |
+| [sase-16n.11.land](../../sessions/bbugyi200.athena.sase-16n.11.land.md) (session · 3) | sase-16n.11 hood | active 3 |
 | [sase-16n.1](../bbugyi200.athena.sase-16n.1/README.md) | sase-16n hood | active |
 | [sase-16n.10](../bbugyi200.athena.sase-16n.10/README.md) | sase-16n hood | active |
 | [sase-16n.2](../bbugyi200.athena.sase-16n.2/README.md) | sase-16n hood | active |
@@ -43,4 +43,4 @@
 | [sase-16n.7](../bbugyi200.athena.sase-16n.7/README.md) | sase-16n hood | active |
 | [sase-16n.8](../bbugyi200.athena.sase-16n.8/README.md) | sase-16n hood | active |
 | [sase-16n.9](../bbugyi200.athena.sase-16n.9/README.md) | sase-16n hood | active |
-| [sase-16n.land](../../families/bbugyi200.athena.sase-16n.land.md) (family · 3) | sase-16n hood | active 3 |
+| [sase-16n.land](../../sessions/bbugyi200.athena.sase-16n.land.md) (session · 3) | sase-16n hood | active 3 |

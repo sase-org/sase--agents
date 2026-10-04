@@ -28,4 +28,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-4j.test\_lazy\_tier2\_reconcile.0](../bbugyi200.athena.toobig-4j.test_lazy_tier2_reconcile.0/README.md) | toobig-4j hood | active |
-| [toobig-4j.test\_workflow\_executor.0](../../families/bbugyi200.athena.toobig-4j.test_workflow_executor.0.md) (family · 3) | toobig-4j hood | active 3 |
+| [toobig-4j.test\_workflow\_executor.0](../../sessions/bbugyi200.athena.toobig-4j.test_workflow_executor.0.md) (session · 3) | toobig-4j hood | active 3 |

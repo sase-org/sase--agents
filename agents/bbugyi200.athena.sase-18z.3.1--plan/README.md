@@ -1,6 +1,6 @@
 # Agent: sase-18z.3.1--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-18z](../../users/bbugyi200/machines/athena/hoods/sase-18z/README.md) / [sase-18z.3.1](../../families/bbugyi200.athena.sase-18z.3.1.md) / sase-18z.3.1--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-18z](../../users/bbugyi200/machines/athena/hoods/sase-18z/README.md) / [sase-18z.3.1](../../sessions/bbugyi200.athena.sase-18z.3.1.md) / sase-18z.3.1--plan
 
 **Global name:** `bbugyi200.athena.sase-18z.3.1--plan` · **State:** completed · **Source run:** `run-2945675ebbd2ff4c5d0621d3a5267521`
 
@@ -27,4 +27,4 @@
 | [sase-18z.3.land](../bbugyi200.athena.sase-18z.3.land/README.md) | sase-18z.3 hood | completed |
 | [sase-18z.1](../bbugyi200.athena.sase-18z.1/README.md) | sase-18z hood | completed |
 | [sase-18z.2](../bbugyi200.athena.sase-18z.2/README.md) | sase-18z hood | completed |
-| [sase-18z.land](../../families/bbugyi200.athena.sase-18z.land.md) (family · 3) | sase-18z hood | failed 3 |
+| [sase-18z.land](../../sessions/bbugyi200.athena.sase-18z.land.md) (session · 3) | sase-18z hood | failed 3 |

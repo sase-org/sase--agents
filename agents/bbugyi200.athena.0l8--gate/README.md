@@ -1,6 +1,6 @@
 # Agent: 0l8--gate
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0l8](../../users/bbugyi200/machines/athena/hoods/0l8/README.md) / [0l8](../../families/bbugyi200.athena.0l8.md) / 0l8--gate
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0l8](../../users/bbugyi200/machines/athena/hoods/0l8/README.md) / [0l8](../../sessions/bbugyi200.athena.0l8.md) / 0l8--gate
 
 **Global name:** `bbugyi200.athena.0l8--gate` · **State:** failed · **Source run:** `run-cc9ecd10f99243f1d59104485eecf3d1`
 
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0l8.r0](../../families/bbugyi200.athena.0l8.r0.md) (family · 3) | descendant | active 1, failed 2 |
+| [0l8.r0](../../sessions/bbugyi200.athena.0l8.r0.md) (session · 3) | descendant | active 1, failed 2 |
 | [0l8.r1](../bbugyi200.athena.0l8.r1/README.md) | descendant | waiting |

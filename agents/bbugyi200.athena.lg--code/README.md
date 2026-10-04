@@ -1,6 +1,6 @@
 # Agent: lg--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [lg](../../users/bbugyi200/machines/athena/hoods/lg/README.md) / [lg](../../families/bbugyi200.athena.lg.md) / lg--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [lg](../../users/bbugyi200/machines/athena/hoods/lg/README.md) / [lg](../../sessions/bbugyi200.athena.lg.md) / lg--code
 
 **Global name:** `bbugyi200.athena.lg--code` · **State:** completed · **Source run:** `run-51f91cfa063a5182db96290128d24de6`
 

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-th
 
-**Global hood:** `bbugyi200.athena.sase-th` · **Runs:** 20 · **Families:** 2 · **States:** active 12, completed 1, failed 5, waiting 2
+**Global hood:** `bbugyi200.athena.sase-th` · **Runs:** 20 · **Sessions:** 2 · **States:** active 12, completed 1, failed 5, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|

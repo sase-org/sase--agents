@@ -19,5 +19,5 @@
 |---|---|---|
 | [kh](../bbugyi200.athena.kh/README.md) | ancestor | completed |
 | [kh.f0](../bbugyi200.athena.kh.f0/README.md) | kh hood | waiting |
-| [kh.f2](../../families/bbugyi200.athena.kh.f2.md) (family · 2) | kh hood | active 1, completed 1 |
+| [kh.f2](../../sessions/bbugyi200.athena.kh.f2.md) (session · 2) | kh hood | active 1, completed 1 |
 | [kh.f2](../bbugyi200.athena.kh.f2/README.md) | kh hood | completed |

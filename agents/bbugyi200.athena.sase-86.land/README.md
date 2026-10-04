@@ -22,9 +22,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-86.1](../../families/bbugyi200.athena.sase-86.1.md) (family · 2) | sase-86 hood | active 1, completed 1 |
-| [sase-86.2](../../families/bbugyi200.athena.sase-86.2.md) (family · 2) | sase-86 hood | active 1, completed 1 |
-| [sase-86.3](../../families/bbugyi200.athena.sase-86.3.md) (family · 2) | sase-86 hood | active 1, completed 1 |
-| [sase-86.4](../../families/bbugyi200.athena.sase-86.4.md) (family · 2) | sase-86 hood | active 1, completed 1 |
+| [sase-86.1](../../sessions/bbugyi200.athena.sase-86.1.md) (session · 2) | sase-86 hood | active 1, completed 1 |
+| [sase-86.2](../../sessions/bbugyi200.athena.sase-86.2.md) (session · 2) | sase-86 hood | active 1, completed 1 |
+| [sase-86.3](../../sessions/bbugyi200.athena.sase-86.3.md) (session · 2) | sase-86 hood | active 1, completed 1 |
+| [sase-86.4](../../sessions/bbugyi200.athena.sase-86.4.md) (session · 2) | sase-86 hood | active 1, completed 1 |
 | [sase-86.5](../bbugyi200.athena.sase-86.5/README.md) | sase-86 hood | active |
 | [sase-86.6](../bbugyi200.athena.sase-86.6/README.md) | sase-86 hood | active |

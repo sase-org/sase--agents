@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [lt.f0](../../families/bbugyi200.athena.lt.f0.md) (family · 1) | lt hood | dismissed 1 |
+| [lt.f0](../../sessions/bbugyi200.athena.lt.f0.md) (session · 1) | lt hood | dismissed 1 |
 | [lt.f0](../bbugyi200.athena.lt.f0/README.md) | lt hood | active |

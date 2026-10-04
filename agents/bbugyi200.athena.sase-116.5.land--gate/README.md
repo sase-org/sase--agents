@@ -1,6 +1,6 @@
 # Agent: sase-116.5.land--gate
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-116](../../users/bbugyi200/machines/athena/hoods/sase-116/README.md) / [sase-116.5.land](../../families/bbugyi200.athena.sase-116.5.land.md) / sase-116.5.land--gate
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-116](../../users/bbugyi200/machines/athena/hoods/sase-116/README.md) / [sase-116.5.land](../../sessions/bbugyi200.athena.sase-116.5.land.md) / sase-116.5.land--gate
 
 **Global name:** `bbugyi200.athena.sase-116.5.land--gate` · **State:** active · **Source run:** `run-5f13f6013cc1d13744d3cae1f203e798`
 
@@ -28,4 +28,4 @@
 | [sase-116.2](../bbugyi200.athena.sase-116.2/README.md) | sase-116 hood | active |
 | [sase-116.3](../bbugyi200.athena.sase-116.3/README.md) | sase-116 hood | active |
 | [sase-116.4](../bbugyi200.athena.sase-116.4/README.md) | sase-116 hood | active |
-| [sase-116.land](../../families/bbugyi200.athena.sase-116.land.md) (family · 3) | sase-116 hood | active 3 |
+| [sase-116.land](../../sessions/bbugyi200.athena.sase-116.land.md) (session · 3) | sase-116 hood | active 3 |

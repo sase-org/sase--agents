@@ -1,6 +1,6 @@
 # Agent: sase-pw.9--1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-pw](../../users/bbugyi200/machines/athena/hoods/sase-pw/README.md) / [sase-pw.9](../../families/bbugyi200.athena.sase-pw.9.md) / sase-pw.9--1
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-pw](../../users/bbugyi200/machines/athena/hoods/sase-pw/README.md) / [sase-pw.9](../../sessions/bbugyi200.athena.sase-pw.9.md) / sase-pw.9--1
 
 **Global name:** `bbugyi200.athena.sase-pw.9--1` · **State:** completed · **Source run:** `run-adefd67ec2f1f776585b56e12a6d4110`
 
@@ -32,8 +32,8 @@
 | [sase-pw.2](../bbugyi200.athena.sase-pw.2/README.md) | sase-pw hood | active |
 | [sase-pw.3](../bbugyi200.athena.sase-pw.3/README.md) | sase-pw hood | active |
 | [sase-pw.4](../bbugyi200.athena.sase-pw.4/README.md) | sase-pw hood | active |
-| [sase-pw.5](../../families/bbugyi200.athena.sase-pw.5.md) (family · 7) | sase-pw hood | active 1, completed 3, failed 3 |
+| [sase-pw.5](../../sessions/bbugyi200.athena.sase-pw.5.md) (session · 7) | sase-pw hood | active 1, completed 3, failed 3 |
 | [sase-pw.6](../bbugyi200.athena.sase-pw.6/README.md) | sase-pw hood | active |
-| [sase-pw.7](../../families/bbugyi200.athena.sase-pw.7.md) (family · 5) | sase-pw hood | active 1, completed 2, failed 2 |
-| [sase-pw.8](../../families/bbugyi200.athena.sase-pw.8.md) (family · 5) | sase-pw hood | active 1, completed 2, failed 2 |
+| [sase-pw.7](../../sessions/bbugyi200.athena.sase-pw.7.md) (session · 5) | sase-pw hood | active 1, completed 2, failed 2 |
+| [sase-pw.8](../../sessions/bbugyi200.athena.sase-pw.8.md) (session · 5) | sase-pw hood | active 1, completed 2, failed 2 |
 | [sase-pw.land](../bbugyi200.athena.sase-pw.land/README.md) | sase-pw hood | active |

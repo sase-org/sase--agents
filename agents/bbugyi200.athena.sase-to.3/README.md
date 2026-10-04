@@ -26,4 +26,4 @@
 | [sase-to.1](../bbugyi200.athena.sase-to.1/README.md) | sase-to hood | active |
 | [sase-to.2](../bbugyi200.athena.sase-to.2/README.md) | sase-to hood | active |
 | [sase-to.4](../bbugyi200.athena.sase-to.4/README.md) | sase-to hood | active |
-| [sase-to.land](../../families/bbugyi200.athena.sase-to.land.md) (family · 2) | sase-to hood | active 1, completed 1 |
+| [sase-to.land](../../sessions/bbugyi200.athena.sase-to.land.md) (session · 2) | sase-to hood | active 1, completed 1 |

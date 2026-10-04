@@ -1,6 +1,6 @@
 # Agent: sase-ly--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ly](../../users/bbugyi200/machines/athena/hoods/sase-ly/README.md) / [sase-ly](../../families/bbugyi200.athena.sase-ly.md) / sase-ly--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-ly](../../users/bbugyi200/machines/athena/hoods/sase-ly/README.md) / [sase-ly](../../sessions/bbugyi200.athena.sase-ly.md) / sase-ly--plan
 
 **Global name:** `bbugyi200.athena.sase-ly--plan` · **State:** active · **Source run:** `run-16a13e9d017d9737a546038ae10fc46a`
 

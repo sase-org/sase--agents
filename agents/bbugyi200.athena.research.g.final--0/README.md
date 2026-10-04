@@ -1,6 +1,6 @@
 # Agent: research.g.final--0
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / [research.g.final](../../families/bbugyi200.athena.research.g.final.md) / research.g.final--0
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / [research.g.final](../../sessions/bbugyi200.athena.research.g.final.md) / research.g.final--0
 
 **Global name:** `bbugyi200.athena.research.g.final--0` · **State:** dismissed · **Source run:** `run-31bad93aeb8d444f587febe066161ad7`
 
@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.g.final.f0](../../families/bbugyi200.athena.research.g.final.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [research.g.final.f0](../../sessions/bbugyi200.athena.research.g.final.f0.md) (session · 2) | descendant | active 1, completed 1 |
 | [research.g.cdx](../bbugyi200.athena.research.g.cdx/README.md) | research.g hood | completed |
 | [research.g.cld](../bbugyi200.athena.research.g.cld/README.md) | research.g hood | completed |
 | [research.g.image](../bbugyi200.athena.research.g.image/README.md) | research.g hood | completed |

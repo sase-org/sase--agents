@@ -1,6 +1,6 @@
 # Agent: research.h.final
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / [research.h.final](../../families/bbugyi200.athena.research.h.final.md) / research.h.final
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / [research.h.final](../../sessions/bbugyi200.athena.research.h.final.md) / research.h.final
 
 **Global name:** `bbugyi200.athena.research.h.final` · **State:** active · **Source run:** `run-3dabcede9e88306971b0ae406dd416aa`
 

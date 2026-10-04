@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [2o.cld](../../families/bbugyi200.athena.2o.cld.md) (family · 2) | 2o hood | active 1, completed 1 |
+| [2o.cld](../../sessions/bbugyi200.athena.2o.cld.md) (session · 2) | 2o hood | active 1, completed 1 |

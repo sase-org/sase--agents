@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [38.cld](../../families/bbugyi200.athena.38.cld.md) (family · 2) | 38 hood | active 1, completed 1 |
+| [38.cld](../../sessions/bbugyi200.athena.38.cld.md) (session · 2) | 38 hood | active 1, completed 1 |

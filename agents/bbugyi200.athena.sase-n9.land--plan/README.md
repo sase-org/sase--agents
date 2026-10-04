@@ -1,6 +1,6 @@
 # Agent: sase-n9.land--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-n9](../../users/bbugyi200/machines/athena/hoods/sase-n9/README.md) / [sase-n9.land](../../families/bbugyi200.athena.sase-n9.land.md) / sase-n9.land--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-n9](../../users/bbugyi200/machines/athena/hoods/sase-n9/README.md) / [sase-n9.land](../../sessions/bbugyi200.athena.sase-n9.land.md) / sase-n9.land--plan
 
 **Global name:** `bbugyi200.athena.sase-n9.land--plan` · **State:** active · **Source run:** `run-ab892d60097a5fcc0ab76868eaf6828e`
 
@@ -22,7 +22,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-n9.1](../../families/bbugyi200.athena.sase-n9.1.md) (family · 7) | sase-n9 hood | active 1, completed 3, failed 3 |
+| [sase-n9.1](../../sessions/bbugyi200.athena.sase-n9.1.md) (session · 7) | sase-n9 hood | active 1, completed 3, failed 3 |
 | [sase-n9.2](../bbugyi200.athena.sase-n9.2/README.md) | sase-n9 hood | active |
-| [sase-n9.3](../../families/bbugyi200.athena.sase-n9.3.md) (family · 3) | sase-n9 hood | active 1, completed 1, failed 1 |
-| [sase-n9.4](../../families/bbugyi200.athena.sase-n9.4.md) (family · 3) | sase-n9 hood | active 1, completed 1, failed 1 |
+| [sase-n9.3](../../sessions/bbugyi200.athena.sase-n9.3.md) (session · 3) | sase-n9 hood | active 1, completed 1, failed 1 |
+| [sase-n9.4](../../sessions/bbugyi200.athena.sase-n9.4.md) (session · 3) | sase-n9 hood | active 1, completed 1, failed 1 |

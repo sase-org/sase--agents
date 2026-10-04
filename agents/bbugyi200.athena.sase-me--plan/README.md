@@ -1,6 +1,6 @@
 # Agent: sase-me--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-me](../../users/bbugyi200/machines/athena/hoods/sase-me/README.md) / [sase-me](../../families/bbugyi200.athena.sase-me.md) / sase-me--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-me](../../users/bbugyi200/machines/athena/hoods/sase-me/README.md) / [sase-me](../../sessions/bbugyi200.athena.sase-me.md) / sase-me--plan
 
 **Global name:** `bbugyi200.athena.sase-me--plan` · **State:** active · **Source run:** `run-56048a9e9c66ec43452c0b7663ca9493`
 

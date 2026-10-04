@@ -1,6 +1,6 @@
 # Agent: zl.w0--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [zl](../../users/bbugyi200/machines/athena/hoods/zl/README.md) / [zl.w0](../../families/bbugyi200.athena.zl.w0.md) / zl.w0--mon
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [zl](../../users/bbugyi200/machines/athena/hoods/zl/README.md) / [zl.w0](../../sessions/bbugyi200.athena.zl.w0.md) / zl.w0--mon
 
 **Global name:** `bbugyi200.athena.zl.w0--mon` · **State:** failed · **Source run:** `run-047992bb278eaefe75baaa597c394ab5`
 
@@ -22,5 +22,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [zl](../bbugyi200.athena.zl/README.md) | ancestor | active |
-| [zl.f1](../../families/bbugyi200.athena.zl.f1.md) (family · 2) | zl hood | active 1, failed 1 |
+| [zl.f1](../../sessions/bbugyi200.athena.zl.f1.md) (session · 2) | zl hood | active 1, failed 1 |
 | [zl.w1](../bbugyi200.athena.zl.w1/README.md) | zl hood | active |

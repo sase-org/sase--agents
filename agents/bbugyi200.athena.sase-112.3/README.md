@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-112.1](../bbugyi200.athena.sase-112.1/README.md) | sase-112 hood | active |
 | [sase-112.2](../bbugyi200.athena.sase-112.2/README.md) | sase-112 hood | active |
-| [sase-112.land](../../families/bbugyi200.athena.sase-112.land.md) (family · 5) | sase-112 hood | active 5 |
+| [sase-112.land](../../sessions/bbugyi200.athena.sase-112.land.md) (session · 5) | sase-112 hood | active 5 |

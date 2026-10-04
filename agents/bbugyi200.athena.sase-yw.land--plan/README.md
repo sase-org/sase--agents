@@ -1,6 +1,6 @@
 # Agent: sase-yw.land--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-yw](../../users/bbugyi200/machines/athena/hoods/sase-yw/README.md) / [sase-yw.land](../../families/bbugyi200.athena.sase-yw.land.md) / sase-yw.land--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-yw](../../users/bbugyi200/machines/athena/hoods/sase-yw/README.md) / [sase-yw.land](../../sessions/bbugyi200.athena.sase-yw.land.md) / sase-yw.land--plan
 
 **Global name:** `bbugyi200.athena.sase-yw.land--plan` · **State:** active · **Source run:** `run-ad1bf9f231700cec960dc0312f4b763f`
 
@@ -26,5 +26,5 @@
 | [sase-yw.1](../bbugyi200.athena.sase-yw.1/README.md) | sase-yw hood | active |
 | [sase-yw.2](../bbugyi200.athena.sase-yw.2/README.md) | sase-yw hood | active |
 | [sase-yw.3.1](../bbugyi200.athena.sase-yw.3.1/README.md) | sase-yw hood | active |
-| [sase-yw.3.2](../../families/bbugyi200.athena.sase-yw.3.2.md) (family · 3) | sase-yw hood | active 3 |
-| [sase-yw.3.land](../../families/bbugyi200.athena.sase-yw.3.land.md) (family · 4) | sase-yw hood | active 3, failed 1 |
+| [sase-yw.3.2](../../sessions/bbugyi200.athena.sase-yw.3.2.md) (session · 3) | sase-yw hood | active 3 |
+| [sase-yw.3.land](../../sessions/bbugyi200.athena.sase-yw.3.land.md) (session · 4) | sase-yw hood | active 3, failed 1 |

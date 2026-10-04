@@ -1,6 +1,6 @@
 # Agent: 7b--epic
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [7b](../../users/bbugyi200/machines/athena/hoods/7b/README.md) / [7b](../../families/bbugyi200.athena.7b.md) / 7b--epic
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [7b](../../users/bbugyi200/machines/athena/hoods/7b/README.md) / [7b](../../sessions/bbugyi200.athena.7b.md) / 7b--epic
 
 **Global name:** `bbugyi200.athena.7b--epic` · **State:** completed · **Source run:** `run-4bfcc7701427c0836e655687adfc6ad0`
 

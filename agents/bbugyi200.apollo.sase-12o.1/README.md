@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-12o.2](../bbugyi200.apollo.sase-12o.2/README.md) | sase-12o hood | completed |
 | [sase-12o.3](../bbugyi200.apollo.sase-12o.3/README.md) | sase-12o hood | completed |
-| [sase-12o.land](../../families/bbugyi200.apollo.sase-12o.land.md) (family · 5) | sase-12o hood | active 1, completed 2, failed 2 |
+| [sase-12o.land](../../sessions/bbugyi200.apollo.sase-12o.land.md) (session · 5) | sase-12o hood | active 1, completed 2, failed 2 |

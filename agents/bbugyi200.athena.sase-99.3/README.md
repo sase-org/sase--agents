@@ -34,7 +34,7 @@
 | [sase-99.4](../bbugyi200.athena.sase-99.4/README.md) | sase-99 hood | active |
 | [sase-99.5](../bbugyi200.athena.sase-99.5/README.md) | sase-99 hood | active |
 | [sase-99.land](../bbugyi200.athena.sase-99.land/README.md) | sase-99 hood | active |
-| [sase-99.land.f2](../../families/bbugyi200.athena.sase-99.land.f2.md) (family · 2) | sase-99 hood | active 1, completed 1 |
+| [sase-99.land.f2](../../sessions/bbugyi200.athena.sase-99.land.f2.md) (session · 2) | sase-99 hood | active 1, completed 1 |
 | [sase-99.land.f2](../bbugyi200.athena.sase-99.land.f2/README.md) | sase-99 hood | completed |
-| [sase-99.land.f3](../../families/bbugyi200.athena.sase-99.land.f3.md) (family · 2) | sase-99 hood | active 1, completed 1 |
+| [sase-99.land.f3](../../sessions/bbugyi200.athena.sase-99.land.f3.md) (session · 2) | sase-99 hood | active 1, completed 1 |
 | [sase-99.land.f3](../bbugyi200.athena.sase-99.land.f3/README.md) | sase-99 hood | completed |

@@ -1,29 +1,5 @@
-# Family: 35
+# Moved to sessions/bbugyi200.athena.35.md
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [35](../users/bbugyi200/machines/athena/hoods/35/README.md) / 35
+This agent session page now lives at [`sessions/bbugyi200.athena.35.md`](../sessions/bbugyi200.athena.35.md).
 
-Owner: `bbugyi200.athena` · Hood: `35` · Members: 2
-
-## Lineage
-
-```mermaid
-flowchart TD
-  n0["35--code [completed]"]
-  n1["35 [active]"]
-  n0 --> n1
-```
-
-The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
-
-| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
-|---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 35--code | completed | gpt-5.5 / codex | 2026-07-09T01:53:42.029856+00:00 | [1](../agents/bbugyi200.athena.35--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.35--code/chat.md) |
-| <a id="member-root"></a>root | 35 | active | gpt-5.5 / codex | 2026-07-09T01:49:54.421499+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.35/prompt.md) | [Chat](../agents/bbugyi200.athena.35/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| — | sase | [`59aa4b3`](https://github.com/sase-org/sase/commit/59aa4b3939769b4382e81ee9ce579c54d4cc55b6) | chore: Add SDD prompt and plan for home\_provider\_shim\_refs | 2026-06-06 10:02:21 EDT |
-| — | sase | [`10ec1ef`](https://github.com/sase-org/sase/commit/10ec1ef2eb74353646c4110161f02e842b12f6df) | fix: use home provider shim refs for home roots | 2026-06-06 10:16:43 EDT |
-| code | sase | [`992722f`](https://github.com/sase-org/sase/commit/992722f44d5330b9669b6166b95f55556b4ed40d) | fix(ace): distinguish prompt stash badge color | 2026-07-08 22:02:16 EDT |
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

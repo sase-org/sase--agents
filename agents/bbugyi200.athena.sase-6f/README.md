@@ -1,6 +1,6 @@
 # Agent: sase-6f
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-6f](../../users/bbugyi200/machines/athena/hoods/sase-6f/README.md) / [sase-6f](../../families/bbugyi200.athena.sase-6f.md) / sase-6f
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-6f](../../users/bbugyi200/machines/athena/hoods/sase-6f/README.md) / [sase-6f](../../sessions/bbugyi200.athena.sase-6f.md) / sase-6f
 
 **Global name:** `bbugyi200.athena.sase-6f` · **State:** active · **Source run:** `run-8bd2f9403f4c7381eea9dbcd72ee228d`
 

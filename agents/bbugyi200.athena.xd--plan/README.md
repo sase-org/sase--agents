@@ -1,6 +1,6 @@
 # Agent: xd--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [xd](../../users/bbugyi200/machines/athena/hoods/xd/README.md) / [xd](../../families/bbugyi200.athena.xd.md) / xd--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [xd](../../users/bbugyi200/machines/athena/hoods/xd/README.md) / [xd](../../sessions/bbugyi200.athena.xd.md) / xd--plan
 
 **Global name:** `bbugyi200.athena.xd--plan` · **State:** active · **Source run:** `run-be7096349805e85eaa10e3ce75497e26`
 

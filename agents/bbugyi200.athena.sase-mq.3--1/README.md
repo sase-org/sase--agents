@@ -1,6 +1,6 @@
 # Agent: sase-mq.3--1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-mq](../../users/bbugyi200/machines/athena/hoods/sase-mq/README.md) / [sase-mq.3](../../families/bbugyi200.athena.sase-mq.3.md) / sase-mq.3--1
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-mq](../../users/bbugyi200/machines/athena/hoods/sase-mq/README.md) / [sase-mq.3](../../sessions/bbugyi200.athena.sase-mq.3.md) / sase-mq.3--1
 
 **Global name:** `bbugyi200.athena.sase-mq.3--1` · **State:** completed · **Source run:** `run-c2952cc176f68fb5ab2a9990130b2567`
 
@@ -30,8 +30,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-mq.1](../bbugyi200.athena.sase-mq.1/README.md) | sase-mq hood | active |
-| [sase-mq.2](../../families/bbugyi200.athena.sase-mq.2.md) (family · 3) | sase-mq hood | active 1, completed 1, failed 1 |
-| [sase-mq.4](../../families/bbugyi200.athena.sase-mq.4.md) (family · 3) | sase-mq hood | active 1, completed 1, failed 1 |
+| [sase-mq.2](../../sessions/bbugyi200.athena.sase-mq.2.md) (session · 3) | sase-mq hood | active 1, completed 1, failed 1 |
+| [sase-mq.4](../../sessions/bbugyi200.athena.sase-mq.4.md) (session · 3) | sase-mq hood | active 1, completed 1, failed 1 |
 | [sase-mq.5](../bbugyi200.athena.sase-mq.5/README.md) | sase-mq hood | active |
 | [sase-mq.6](../bbugyi200.athena.sase-mq.6/README.md) | sase-mq hood | active |
 | [sase-mq.7](../bbugyi200.athena.sase-mq.7/README.md) | sase-mq hood | active |
@@ -39,5 +39,5 @@
 | [sase-mq.8.2](../bbugyi200.athena.sase-mq.8.2/README.md) | sase-mq hood | active |
 | [sase-mq.8.3](../bbugyi200.athena.sase-mq.8.3/README.md) | sase-mq hood | active |
 | [sase-mq.8.4](../bbugyi200.athena.sase-mq.8.4/README.md) | sase-mq hood | active |
-| [sase-mq.8.land](../../families/bbugyi200.athena.sase-mq.8.land.md) (family · 3) | sase-mq hood | active 1, completed 1, failed 1 |
-| [sase-mq.land](../../families/bbugyi200.athena.sase-mq.land.md) (family · 2) | sase-mq hood | active 1, failed 1 |
+| [sase-mq.8.land](../../sessions/bbugyi200.athena.sase-mq.8.land.md) (session · 3) | sase-mq hood | active 1, completed 1, failed 1 |
+| [sase-mq.land](../../sessions/bbugyi200.athena.sase-mq.land.md) (session · 2) | sase-mq hood | active 1, failed 1 |

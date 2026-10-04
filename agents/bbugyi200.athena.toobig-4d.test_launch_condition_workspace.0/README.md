@@ -31,4 +31,4 @@
 | [toobig-4d.copy\_targets.0](../bbugyi200.athena.toobig-4d.copy_targets.0/README.md) | toobig-4d hood | active |
 | [toobig-4d.lease.0](../bbugyi200.athena.toobig-4d.lease.0/README.md) | toobig-4d hood | active |
 | [toobig-4d.profiles.0](../bbugyi200.athena.toobig-4d.profiles.0/README.md) | toobig-4d hood | active |
-| [toobig-4d.test\_axe\_chop\_proposal\_launch\_clan\_dispatch.0](../../families/bbugyi200.athena.toobig-4d.test_axe_chop_proposal_launch_clan_dispatch.0.md) (family · 3) | toobig-4d hood | active 2, failed 1 |
+| [toobig-4d.test\_axe\_chop\_proposal\_launch\_clan\_dispatch.0](../../sessions/bbugyi200.athena.toobig-4d.test_axe_chop_proposal_launch_clan_dispatch.0.md) (session · 3) | toobig-4d hood | active 2, failed 1 |

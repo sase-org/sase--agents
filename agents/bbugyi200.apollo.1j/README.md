@@ -29,4 +29,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [1j.w0](../../families/bbugyi200.apollo.1j.w0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |
+| [1j.w0](../../sessions/bbugyi200.apollo.1j.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |

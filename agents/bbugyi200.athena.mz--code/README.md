@@ -1,6 +1,6 @@
 # Agent: mz--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [mz](../../users/bbugyi200/machines/athena/hoods/mz/README.md) / [mz](../../families/bbugyi200.athena.mz.md) / mz--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [mz](../../users/bbugyi200/machines/athena/hoods/mz/README.md) / [mz](../../sessions/bbugyi200.athena.mz.md) / mz--code
 
 **Global name:** `bbugyi200.athena.mz--code` · **State:** completed · **Source run:** `run-412bb7c6aa8b1f83d13e8b74087215d3`
 

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 05a
 
-**Global hood:** `bbugyi200.athena.05a` · **Runs:** 5 · **Families:** 1 · **States:** active 1, completed 1, failed 2, waiting 1
+**Global hood:** `bbugyi200.athena.05a` · **Runs:** 5 · **Sessions:** 1 · **States:** active 1, completed 1, failed 2, waiting 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|

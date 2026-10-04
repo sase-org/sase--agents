@@ -1,6 +1,6 @@
 # Agent: sase-a8.10--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-a8](../../users/bbugyi200/machines/athena/hoods/sase-a8/README.md) / [sase-a8.10](../../families/bbugyi200.athena.sase-a8.10.md) / sase-a8.10--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-a8](../../users/bbugyi200/machines/athena/hoods/sase-a8/README.md) / [sase-a8.10](../../sessions/bbugyi200.athena.sase-a8.10.md) / sase-a8.10--plan
 
 **Global name:** `bbugyi200.athena.sase-a8.10--plan` · **State:** active · **Source run:** `run-a471b688fbaebe6cad6c9815e741a82a`
 

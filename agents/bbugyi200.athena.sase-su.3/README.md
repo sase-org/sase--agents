@@ -32,5 +32,5 @@
 | [sase-su.1](../bbugyi200.athena.sase-su.1/README.md) | sase-su hood | active |
 | [sase-su.2](../bbugyi200.athena.sase-su.2/README.md) | sase-su hood | active |
 | [sase-su.4](../bbugyi200.athena.sase-su.4/README.md) | sase-su hood | active |
-| [sase-su.5](../../families/bbugyi200.athena.sase-su.5.md) (family · 7) | sase-su hood | active 4, failed 3 |
+| [sase-su.5](../../sessions/bbugyi200.athena.sase-su.5.md) (session · 7) | sase-su hood | active 4, failed 3 |
 | [sase-su.land](../bbugyi200.athena.sase-su.land/README.md) | sase-su hood | active |

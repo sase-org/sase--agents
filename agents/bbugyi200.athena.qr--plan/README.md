@@ -1,6 +1,6 @@
 # Agent: qr--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [qr](../../users/bbugyi200/machines/athena/hoods/qr/README.md) / [qr](../../families/bbugyi200.athena.qr.md) / qr--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [qr](../../users/bbugyi200/machines/athena/hoods/qr/README.md) / [qr](../../sessions/bbugyi200.athena.qr.md) / qr--plan
 
 **Global name:** `bbugyi200.athena.qr--plan` · **State:** active · **Source run:** `run-b04d9b323362650f234be2dbbb9ee23d`
 

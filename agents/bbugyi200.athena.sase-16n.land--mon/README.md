@@ -1,6 +1,6 @@
 # Agent: sase-16n.land--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-16n](../../users/bbugyi200/machines/athena/hoods/sase-16n/README.md) / [sase-16n.land](../../families/bbugyi200.athena.sase-16n.land.md) / sase-16n.land--mon
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-16n](../../users/bbugyi200/machines/athena/hoods/sase-16n/README.md) / [sase-16n.land](../../sessions/bbugyi200.athena.sase-16n.land.md) / sase-16n.land--mon
 
 **Global name:** `bbugyi200.athena.sase-16n.land--mon` · **State:** active · **Source run:** `run-2a42c5ad2ca5ffda33b3484ad456ab3f`
 
@@ -27,7 +27,7 @@
 | [sase-16n.11.1](../bbugyi200.athena.sase-16n.11.1/README.md) | sase-16n hood | active |
 | [sase-16n.11.2](../bbugyi200.athena.sase-16n.11.2/README.md) | sase-16n hood | active |
 | [sase-16n.11.3](../bbugyi200.athena.sase-16n.11.3/README.md) | sase-16n hood | active |
-| [sase-16n.11.4](../../families/bbugyi200.athena.sase-16n.11.4.md) (family · 5) | sase-16n hood | active 5 |
+| [sase-16n.11.4](../../sessions/bbugyi200.athena.sase-16n.11.4.md) (session · 5) | sase-16n hood | active 5 |
 | [sase-16n.11.5](../bbugyi200.athena.sase-16n.11.5/README.md) | sase-16n hood | active |
 | [sase-16n.11.6](../bbugyi200.athena.sase-16n.11.6/README.md) | sase-16n hood | active |
 | [sase-16n.11.7.1](../bbugyi200.athena.sase-16n.11.7.1/README.md) | sase-16n hood | active |
@@ -35,7 +35,7 @@
 | [sase-16n.11.7.3](../bbugyi200.athena.sase-16n.11.7.3/README.md) | sase-16n hood | active |
 | [sase-16n.11.7.4](../bbugyi200.athena.sase-16n.11.7.4/README.md) | sase-16n hood | active |
 | [sase-16n.11.7.land](../bbugyi200.athena.sase-16n.11.7.land/README.md) | sase-16n hood | active |
-| [sase-16n.11.land](../../families/bbugyi200.athena.sase-16n.11.land.md) (family · 3) | sase-16n hood | active 3 |
+| [sase-16n.11.land](../../sessions/bbugyi200.athena.sase-16n.11.land.md) (session · 3) | sase-16n hood | active 3 |
 | [sase-16n.2](../bbugyi200.athena.sase-16n.2/README.md) | sase-16n hood | active |
 | [sase-16n.3](../bbugyi200.athena.sase-16n.3/README.md) | sase-16n hood | active |
 | [sase-16n.4](../bbugyi200.athena.sase-16n.4/README.md) | sase-16n hood | active |

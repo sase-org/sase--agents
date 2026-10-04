@@ -31,5 +31,5 @@
 |---|---|---|
 | [sase-xf.1](../bbugyi200.athena.sase-xf.1/README.md) | sase-xf hood | active |
 | [sase-xf.2](../bbugyi200.athena.sase-xf.2/README.md) | sase-xf hood | active |
-| [sase-xf.land](../../families/bbugyi200.athena.sase-xf.land.md) (family · 3) | sase-xf hood | active 2, completed 1 |
+| [sase-xf.land](../../sessions/bbugyi200.athena.sase-xf.land.md) (session · 3) | sase-xf hood | active 2, completed 1 |
 | [sase-xf.land](../bbugyi200.athena.sase-xf.land/README.md) | sase-xf hood | waiting |

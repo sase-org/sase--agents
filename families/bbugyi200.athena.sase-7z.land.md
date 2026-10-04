@@ -1,45 +1,5 @@
-# Family: sase-7z.land
+# Moved to sessions/bbugyi200.athena.sase-7z.land.md
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-7z](../users/bbugyi200/machines/athena/hoods/sase-7z/README.md) / sase-7z.land
+This agent session page now lives at [`sessions/bbugyi200.athena.sase-7z.land.md`](../sessions/bbugyi200.athena.sase-7z.land.md).
 
-Owner: `bbugyi200.athena` · Hood: `sase-7z` · Members: 2 · Bead: [sase-7z](https://github.com/sase-org/sase--beads/blob/main/pages/sase-7z/README.md)
-
-## Lineage
-
-```mermaid
-flowchart TD
-  n0["sase-7z.land--code [completed]"]
-  n1["sase-7z.land--plan [active]"]
-  n0 --> n1
-```
-
-The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
-
-| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
-|---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-7z.land--code | completed | gpt-5.6-sol / codex | 2026-07-20T14:27:52.559847+00:00 | [1](../agents/bbugyi200.athena.sase-7z.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-7z.land--code/chat.md) |
-| <a id="member-plan"></a>plan | sase-7z.land--plan | active | claude-fable-5 / claude | 2026-07-20T14:20:38.059174+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-7z.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-7z.land--plan/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| code | sase | [`6cc67b9`](https://github.com/sase-org/sase/commit/6cc67b90fcc881469f7cf00f926a8a45a1c29084) | fix(beads): show child epics owned by phases (sase-7z) | 2026-07-20 10:39:27 EDT |
-
-## Neighbors
-
-| Agent | Relation | State |
-|---|---|---|
-| [sase-7z.land.f0](../agents/bbugyi200.athena.sase-7z.land.f0/README.md) | descendant | dismissed |
-| [sase-7z.1](../agents/bbugyi200.athena.sase-7z.1/README.md) | sase-7z hood | active |
-| [sase-7z.2](../agents/bbugyi200.athena.sase-7z.2/README.md) | sase-7z hood | dismissed |
-| [sase-7z.3](../agents/bbugyi200.athena.sase-7z.3/README.md) | sase-7z hood | dismissed |
-| [sase-7z.4](../agents/bbugyi200.athena.sase-7z.4/README.md) | sase-7z hood | dismissed |
-| [sase-7z.5](../agents/bbugyi200.athena.sase-7z.5/README.md) | sase-7z hood | dismissed |
-| [sase-7z.6](../agents/bbugyi200.athena.sase-7z.6/README.md) | sase-7z hood | dismissed |
-| [sase-7z.7](../agents/bbugyi200.athena.sase-7z.7/README.md) | sase-7z hood | dismissed |
-| [sase-7z.8](../agents/bbugyi200.athena.sase-7z.8/README.md) | sase-7z hood | dismissed |
-| [sase-7z.f0](../agents/bbugyi200.athena.sase-7z.f0/README.md) | sase-7z hood | waiting |
-| [sase-7z.f1](../agents/bbugyi200.athena.sase-7z.f1/README.md) | sase-7z hood | waiting |
-| [sase-7z.f2](../agents/bbugyi200.athena.sase-7z.f2/README.md) | sase-7z hood | dismissed |
-| [sase-7z.f4](../agents/bbugyi200.athena.sase-7z.f4/README.md) | sase-7z hood | dismissed |
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

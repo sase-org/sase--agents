@@ -1,6 +1,6 @@
 # Agent: sase-tj.8--1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-tj](../../users/bbugyi200/machines/athena/hoods/sase-tj/README.md) / [sase-tj.8](../../families/bbugyi200.athena.sase-tj.8.md) / sase-tj.8--1
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-tj](../../users/bbugyi200/machines/athena/hoods/sase-tj/README.md) / [sase-tj.8](../../sessions/bbugyi200.athena.sase-tj.8.md) / sase-tj.8--1
 
 **Global name:** `bbugyi200.athena.sase-tj.8--1` · **State:** active · **Source run:** `run-ced6485758202510d64fdd4fbd9fc2ca`
 
@@ -26,16 +26,16 @@
 | [sase-tj.10.1](../bbugyi200.athena.sase-tj.10.1/README.md) | sase-tj hood | active |
 | [sase-tj.10.2](../bbugyi200.athena.sase-tj.10.2/README.md) | sase-tj hood | active |
 | [sase-tj.10.3](../bbugyi200.athena.sase-tj.10.3/README.md) | sase-tj hood | active |
-| [sase-tj.10.land](../../families/bbugyi200.athena.sase-tj.10.land.md) (family · 3) | sase-tj hood | active 2, failed 1 |
+| [sase-tj.10.land](../../sessions/bbugyi200.athena.sase-tj.10.land.md) (session · 3) | sase-tj hood | active 2, failed 1 |
 | [sase-tj.10.land](../bbugyi200.athena.sase-tj.10.land/README.md) | sase-tj hood | waiting |
 | [sase-tj.2](../bbugyi200.athena.sase-tj.2/README.md) | sase-tj hood | active |
 | [sase-tj.3](../bbugyi200.athena.sase-tj.3/README.md) | sase-tj hood | active |
 | [sase-tj.4](../bbugyi200.athena.sase-tj.4/README.md) | sase-tj hood | active |
-| [sase-tj.5](../../families/bbugyi200.athena.sase-tj.5.md) (family · 3) | sase-tj hood | active 2, failed 1 |
+| [sase-tj.5](../../sessions/bbugyi200.athena.sase-tj.5.md) (session · 3) | sase-tj hood | active 2, failed 1 |
 | [sase-tj.6](../bbugyi200.athena.sase-tj.6/README.md) | sase-tj hood | active |
-| [sase-tj.7](../../families/bbugyi200.athena.sase-tj.7.md) (family · 3) | sase-tj hood | active 1, failed 2 |
+| [sase-tj.7](../../sessions/bbugyi200.athena.sase-tj.7.md) (session · 3) | sase-tj hood | active 1, failed 2 |
 | [sase-tj.9](../bbugyi200.athena.sase-tj.9/README.md) | sase-tj hood | active |
-| [sase-tj.land](../../families/bbugyi200.athena.sase-tj.land.md) (family · 2) | sase-tj hood | active 1, failed 1 |
+| [sase-tj.land](../../sessions/bbugyi200.athena.sase-tj.land.md) (session · 2) | sase-tj hood | active 1, failed 1 |
 | [sase-tj.land.w0](../bbugyi200.athena.sase-tj.land.w0/README.md) | sase-tj hood | waiting |
 | [sase-tj.land.w1](../bbugyi200.athena.sase-tj.land.w1/README.md) | sase-tj hood | waiting |
-| [sase-tj.land.w3](../../families/bbugyi200.athena.sase-tj.land.w3.md) (family · 2) | sase-tj hood | active 1, failed 1 |
+| [sase-tj.land.w3](../../sessions/bbugyi200.athena.sase-tj.land.w3.md) (session · 2) | sase-tj hood | active 1, failed 1 |

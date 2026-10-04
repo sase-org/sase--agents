@@ -1,6 +1,6 @@
 # Agent: sase-js.1--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-js](../../users/bbugyi200/machines/athena/hoods/sase-js/README.md) / [sase-js.1](../../families/bbugyi200.athena.sase-js.1.md) / sase-js.1--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-js](../../users/bbugyi200/machines/athena/hoods/sase-js/README.md) / [sase-js.1](../../sessions/bbugyi200.athena.sase-js.1.md) / sase-js.1--code
 
 **Global name:** `bbugyi200.athena.sase-js.1--code` · **State:** completed · **Source run:** `run-4813e3713057b449aab0d3190ba76982`
 
@@ -30,12 +30,12 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-js.2](../bbugyi200.athena.sase-js.2/README.md) | sase-js hood | active |
-| [sase-js.3](../../families/bbugyi200.athena.sase-js.3.md) (family · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.4](../../families/bbugyi200.athena.sase-js.4.md) (family · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.5](../../families/bbugyi200.athena.sase-js.5.md) (family · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.6](../../families/bbugyi200.athena.sase-js.6.md) (family · 2) | sase-js hood | active 1, completed 1 |
-| [sase-js.7](../../families/bbugyi200.athena.sase-js.7.md) (family · 2) | sase-js hood | active 1, completed 1 |
+| [sase-js.3](../../sessions/bbugyi200.athena.sase-js.3.md) (session · 2) | sase-js hood | active 1, completed 1 |
+| [sase-js.4](../../sessions/bbugyi200.athena.sase-js.4.md) (session · 2) | sase-js hood | active 1, completed 1 |
+| [sase-js.5](../../sessions/bbugyi200.athena.sase-js.5.md) (session · 2) | sase-js hood | active 1, completed 1 |
+| [sase-js.6](../../sessions/bbugyi200.athena.sase-js.6.md) (session · 2) | sase-js hood | active 1, completed 1 |
+| [sase-js.7](../../sessions/bbugyi200.athena.sase-js.7.md) (session · 2) | sase-js hood | active 1, completed 1 |
 | [sase-js.7](../bbugyi200.athena.sase-js.7/README.md) | sase-js hood | waiting |
-| [sase-js.8](../../families/bbugyi200.athena.sase-js.8.md) (family · 2) | sase-js hood | active 1, completed 1 |
+| [sase-js.8](../../sessions/bbugyi200.athena.sase-js.8.md) (session · 2) | sase-js hood | active 1, completed 1 |
 | [sase-js.9](../bbugyi200.athena.sase-js.9/README.md) | sase-js hood | active |
-| [sase-js.land](../../families/bbugyi200.athena.sase-js.land.md) (family · 2) | sase-js hood | active 2 |
+| [sase-js.land](../../sessions/bbugyi200.athena.sase-js.land.md) (session · 2) | sase-js hood | active 2 |

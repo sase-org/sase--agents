@@ -25,4 +25,4 @@
 |---|---|---|
 | [sase-s0.2](../bbugyi200.athena.sase-s0.2/README.md) | sase-s0 hood | active |
 | [sase-s0.3](../bbugyi200.athena.sase-s0.3/README.md) | sase-s0 hood | active |
-| [sase-s0.land](../../families/bbugyi200.athena.sase-s0.land.md) (family · 8) | sase-s0 hood | active 6, completed 1, failed 1 |
+| [sase-s0.land](../../sessions/bbugyi200.athena.sase-s0.land.md) (session · 8) | sase-s0 hood | active 6, completed 1, failed 1 |

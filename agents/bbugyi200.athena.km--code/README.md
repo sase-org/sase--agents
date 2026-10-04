@@ -1,6 +1,6 @@
 # Agent: km--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [km](../../users/bbugyi200/machines/athena/hoods/km/README.md) / [km](../../families/bbugyi200.athena.km.md) / km--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [km](../../users/bbugyi200/machines/athena/hoods/km/README.md) / [km](../../sessions/bbugyi200.athena.km.md) / km--code
 
 **Global name:** `bbugyi200.athena.km--code` · **State:** completed · **Source run:** `run-ec9cadd22599210f56c68c1e8a28ab75`
 
@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [km.f0](../../families/bbugyi200.athena.km.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [km.f0](../../sessions/bbugyi200.athena.km.f0.md) (session · 2) | descendant | active 1, completed 1 |
 | [km.f0](../bbugyi200.athena.km.f0/README.md) | descendant | completed |

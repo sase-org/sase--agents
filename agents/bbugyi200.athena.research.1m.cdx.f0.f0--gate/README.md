@@ -1,6 +1,6 @@
 # Agent: research.1m.cdx.f0.f0--gate
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / [research.1m.cdx.f0.f0](../../families/bbugyi200.athena.research.1m.cdx.f0.f0.md) / research.1m.cdx.f0.f0--gate
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / [research.1m.cdx.f0.f0](../../sessions/bbugyi200.athena.research.1m.cdx.f0.f0.md) / research.1m.cdx.f0.f0--gate
 
 **Global name:** `bbugyi200.athena.research.1m.cdx.f0.f0--gate` · **State:** failed · **Source run:** `run-f9fbd4c4f7e8f09418606719b9f6ca2a`
 

@@ -1,6 +1,6 @@
 # Agent: g2--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [g2](../../users/bbugyi200/machines/athena/hoods/g2/README.md) / [g2](../../families/bbugyi200.athena.g2.md) / g2--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [g2](../../users/bbugyi200/machines/athena/hoods/g2/README.md) / [g2](../../sessions/bbugyi200.athena.g2.md) / g2--code
 
 **Global name:** `bbugyi200.athena.g2--code` · **State:** completed · **Source run:** `run-4652b03f480d9237ccc7d1bfb30812ff`
 

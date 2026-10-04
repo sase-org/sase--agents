@@ -1,6 +1,6 @@
 # Agent: 9g
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [9g](../../users/bbugyi200/machines/athena/hoods/9g/README.md) / [9g](../../families/bbugyi200.athena.9g.md) / 9g
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [9g](../../users/bbugyi200/machines/athena/hoods/9g/README.md) / [9g](../../sessions/bbugyi200.athena.9g.md) / 9g
 
 **Global name:** `bbugyi200.athena.9g` · **State:** active · **Source run:** `run-0587def120e6a6131e960f9201df4534`
 

@@ -17,5 +17,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [is.cdx](../../families/bbugyi200.athena.is.cdx.md) (family · 2) | is hood | active 1, completed 1 |
+| [is.cdx](../../sessions/bbugyi200.athena.is.cdx.md) (session · 2) | is hood | active 1, completed 1 |
 | [is.cdx](../bbugyi200.athena.is.cdx/README.md) | is hood | completed |

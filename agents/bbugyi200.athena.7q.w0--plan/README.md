@@ -1,6 +1,6 @@
 # Agent: 7q.w0--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [7q](../../users/bbugyi200/machines/athena/hoods/7q/README.md) / [7q.w0](../../families/bbugyi200.athena.7q.w0.md) / 7q.w0--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [7q](../../users/bbugyi200/machines/athena/hoods/7q/README.md) / [7q.w0](../../sessions/bbugyi200.athena.7q.w0.md) / 7q.w0--plan
 
 **Global name:** `bbugyi200.athena.7q.w0--plan` · **State:** active · **Source run:** `run-9697e001f2ce870a4679009492172678`
 
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [7q](../../families/bbugyi200.athena.7q.md) (family · 2) | ancestor | active 1, completed 1 |
-| [7q.w1](../../families/bbugyi200.athena.7q.w1.md) (family · 2) | 7q hood | active 1, completed 1 |
+| [7q](../../sessions/bbugyi200.athena.7q.md) (session · 2) | ancestor | active 1, completed 1 |
+| [7q.w1](../../sessions/bbugyi200.athena.7q.w1.md) (session · 2) | 7q hood | active 1, completed 1 |

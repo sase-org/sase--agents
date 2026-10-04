@@ -1,6 +1,6 @@
 # Agent: sase-zn.land--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-zn](../../users/bbugyi200/machines/athena/hoods/sase-zn/README.md) / [sase-zn.land](../../families/bbugyi200.athena.sase-zn.land.md) / sase-zn.land--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-zn](../../users/bbugyi200/machines/athena/hoods/sase-zn/README.md) / [sase-zn.land](../../sessions/bbugyi200.athena.sase-zn.land.md) / sase-zn.land--plan
 
 **Global name:** `bbugyi200.athena.sase-zn.land--plan` · **State:** active · **Source run:** `run-0b0dd3de93dccd455e5adcfd90f836c1`
 
@@ -36,4 +36,4 @@
 | [sase-zn.9.3](../bbugyi200.athena.sase-zn.9.3/README.md) | sase-zn hood | active |
 | [sase-zn.9.4](../bbugyi200.athena.sase-zn.9.4/README.md) | sase-zn hood | active |
 | [sase-zn.9.5](../bbugyi200.athena.sase-zn.9.5/README.md) | sase-zn hood | active |
-| [sase-zn.9.land](../../families/bbugyi200.athena.sase-zn.9.land.md) (family · 5) | sase-zn hood | active 5 |
+| [sase-zn.9.land](../../sessions/bbugyi200.athena.sase-zn.9.land.md) (session · 5) | sase-zn hood | active 5 |

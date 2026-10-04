@@ -1,27 +1,5 @@
-# Family: cg
+# Moved to sessions/bbugyi200.athena.cg.md
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [cg](../users/bbugyi200/machines/athena/hoods/cg/README.md) / cg
+This agent session page now lives at [`sessions/bbugyi200.athena.cg.md`](../sessions/bbugyi200.athena.cg.md).
 
-Owner: `bbugyi200.athena` · Hood: `cg` · Members: 2
-
-## Lineage
-
-```mermaid
-flowchart TD
-  n0["cg--code [completed]"]
-  n1["cg [active]"]
-  n0 --> n1
-```
-
-The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
-
-| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
-|---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | cg--code | completed | gpt-5.6-sol / codex | 2026-07-17T19:21:09.797459+00:00 | [1](../agents/bbugyi200.athena.cg--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.cg--code/chat.md) |
-| <a id="member-root"></a>root | cg | active | gpt-5.6-sol / codex | 2026-07-17T19:09:03.668926+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.cg/prompt.md) | [Chat](../agents/bbugyi200.athena.cg/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| code | sase | [`f678228`](https://github.com/sase-org/sase/commit/f6782286e42727c2cdda919f27e6a3c2dbc813d5) | fix(sdd): make sidecar integration transactional | 2026-07-17 15:59:57 EDT |
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

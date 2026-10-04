@@ -1,6 +1,6 @@
 # Agent: sase-12z.2--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-12z](../../users/bbugyi200/machines/athena/hoods/sase-12z/README.md) / [sase-12z.2](../../families/bbugyi200.athena.sase-12z.2.md) / sase-12z.2--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-12z](../../users/bbugyi200/machines/athena/hoods/sase-12z/README.md) / [sase-12z.2](../../sessions/bbugyi200.athena.sase-12z.2.md) / sase-12z.2--plan
 
 **Global name:** `bbugyi200.athena.sase-12z.2--plan` · **State:** active · **Source run:** `run-a984b8e45479faae4cf672c0a4ee396a`
 
@@ -25,8 +25,8 @@
 |---|---|---|
 | [sase-12z.1](../bbugyi200.athena.sase-12z.1/README.md) | sase-12z hood | active |
 | [sase-12z.3](../bbugyi200.athena.sase-12z.3/README.md) | sase-12z hood | active |
-| [sase-12z.4](../../families/bbugyi200.athena.sase-12z.4.md) (family · 13) | sase-12z hood | active 13 |
+| [sase-12z.4](../../sessions/bbugyi200.athena.sase-12z.4.md) (session · 13) | sase-12z hood | active 13 |
 | [sase-12z.5.1](../bbugyi200.athena.sase-12z.5.1/README.md) | sase-12z hood | active |
 | [sase-12z.5.2](../bbugyi200.athena.sase-12z.5.2/README.md) | sase-12z hood | active |
 | [sase-12z.5.land](../bbugyi200.athena.sase-12z.5.land/README.md) | sase-12z hood | active |
-| [sase-12z.land](../../families/bbugyi200.athena.sase-12z.land.md) (family · 5) | sase-12z hood | active 5 |
+| [sase-12z.land](../../sessions/bbugyi200.athena.sase-12z.land.md) (session · 5) | sase-12z hood | active 5 |

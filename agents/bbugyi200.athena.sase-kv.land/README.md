@@ -29,6 +29,6 @@
 | [sase-kv.5](../bbugyi200.athena.sase-kv.5/README.md) | sase-kv hood | active |
 | [sase-kv.5.w0.f0](../bbugyi200.athena.sase-kv.5.w0.f0/README.md) | sase-kv hood | waiting |
 | [sase-kv.5.w0.w0](../bbugyi200.athena.sase-kv.5.w0.w0/README.md) | sase-kv hood | waiting |
-| [sase-kv.5.w1](../../families/bbugyi200.athena.sase-kv.5.w1.md) (family · 3) | sase-kv hood | active 1, completed 1, failed 1 |
+| [sase-kv.5.w1](../../sessions/bbugyi200.athena.sase-kv.5.w1.md) (session · 3) | sase-kv hood | active 1, completed 1, failed 1 |
 | [sase-kv.5.w1.f0](../bbugyi200.athena.sase-kv.5.w1.f0/README.md) | sase-kv hood | active |
 | [sase-kv.5.w1.w0](../bbugyi200.athena.sase-kv.5.w1.w0/README.md) | sase-kv hood | waiting |

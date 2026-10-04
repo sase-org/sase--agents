@@ -29,14 +29,14 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-x7.2](../../families/bbugyi200.athena.sase-x7.2.md) (family · 3) | ancestor | active 3 |
+| [sase-x7.2](../../sessions/bbugyi200.athena.sase-x7.2.md) (session · 3) | ancestor | active 3 |
 | [sase-x7.2.1.1](../bbugyi200.athena.sase-x7.2.1.1/README.md) | sase-x7.2.1 hood | active |
 | [sase-x7.2.1.2](../bbugyi200.athena.sase-x7.2.1.2/README.md) | sase-x7.2.1 hood | active |
-| [sase-x7.2.1.3](../../families/bbugyi200.athena.sase-x7.2.1.3.md) (family · 3) | sase-x7.2.1 hood | active 3 |
-| [sase-x7.2.1.5.1](../../families/bbugyi200.athena.sase-x7.2.1.5.1.md) (family · 3) | sase-x7.2.1 hood | active 3 |
+| [sase-x7.2.1.3](../../sessions/bbugyi200.athena.sase-x7.2.1.3.md) (session · 3) | sase-x7.2.1 hood | active 3 |
+| [sase-x7.2.1.5.1](../../sessions/bbugyi200.athena.sase-x7.2.1.5.1.md) (session · 3) | sase-x7.2.1 hood | active 3 |
 | [sase-x7.2.1.5.2](../bbugyi200.athena.sase-x7.2.1.5.2/README.md) | sase-x7.2.1 hood | active |
-| [sase-x7.2.1.5.land](../../families/bbugyi200.athena.sase-x7.2.1.5.land.md) (family · 3) | sase-x7.2.1 hood | active 3 |
-| [sase-x7.2.1.land](../../families/bbugyi200.athena.sase-x7.2.1.land.md) (family · 3) | sase-x7.2.1 hood | active 3 |
+| [sase-x7.2.1.5.land](../../sessions/bbugyi200.athena.sase-x7.2.1.5.land.md) (session · 3) | sase-x7.2.1 hood | active 3 |
+| [sase-x7.2.1.land](../../sessions/bbugyi200.athena.sase-x7.2.1.land.md) (session · 3) | sase-x7.2.1 hood | active 3 |
 | [sase-x7.1](../bbugyi200.athena.sase-x7.1/README.md) | sase-x7 hood | active |
 | [sase-x7.10](../bbugyi200.athena.sase-x7.10/README.md) | sase-x7 hood | waiting |
 | [sase-x7.11](../bbugyi200.athena.sase-x7.11/README.md) | sase-x7 hood | active |
@@ -44,19 +44,19 @@
 | [sase-x7.13](../bbugyi200.athena.sase-x7.13/README.md) | sase-x7 hood | waiting |
 | [sase-x7.14](../bbugyi200.athena.sase-x7.14/README.md) | sase-x7 hood | waiting |
 | [sase-x7.15](../bbugyi200.athena.sase-x7.15/README.md) | sase-x7 hood | waiting |
-| [sase-x7.3](../../families/bbugyi200.athena.sase-x7.3.md) (family · 3) | sase-x7 hood | active 3 |
+| [sase-x7.3](../../sessions/bbugyi200.athena.sase-x7.3.md) (session · 3) | sase-x7 hood | active 3 |
 | [sase-x7.3.1.1](../bbugyi200.athena.sase-x7.3.1.1/README.md) | sase-x7 hood | active |
 | [sase-x7.3.1.2](../bbugyi200.athena.sase-x7.3.1.2/README.md) | sase-x7 hood | active |
 | [sase-x7.3.1.3](../bbugyi200.athena.sase-x7.3.1.3/README.md) | sase-x7 hood | active |
 | [sase-x7.3.1.4](../bbugyi200.athena.sase-x7.3.1.4/README.md) | sase-x7 hood | active |
-| [sase-x7.3.1.5](../../families/bbugyi200.athena.sase-x7.3.1.5.md) (family · 3) | sase-x7 hood | active 3 |
+| [sase-x7.3.1.5](../../sessions/bbugyi200.athena.sase-x7.3.1.5.md) (session · 3) | sase-x7 hood | active 3 |
 | [sase-x7.3.1.5](../bbugyi200.athena.sase-x7.3.1.5/README.md) | sase-x7 hood | waiting |
-| [sase-x7.3.1.5.f0](../../families/bbugyi200.athena.sase-x7.3.1.5.f0.md) (family · 3) | sase-x7 hood | active 1, completed 1, failed 1 |
-| [sase-x7.3.1.land](../../families/bbugyi200.athena.sase-x7.3.1.land.md) (family · 5) | sase-x7 hood | active 5 |
+| [sase-x7.3.1.5.f0](../../sessions/bbugyi200.athena.sase-x7.3.1.5.f0.md) (session · 3) | sase-x7 hood | active 1, completed 1, failed 1 |
+| [sase-x7.3.1.land](../../sessions/bbugyi200.athena.sase-x7.3.1.land.md) (session · 5) | sase-x7 hood | active 5 |
 | [sase-x7.4](../bbugyi200.athena.sase-x7.4/README.md) | sase-x7 hood | waiting |
-| [sase-x7.4.r0](../../families/bbugyi200.athena.sase-x7.4.r0.md) (family · 13) | sase-x7 hood | active 1, completed 5, failed 7 |
-| [sase-x7.4.r0.r0](../../families/bbugyi200.athena.sase-x7.4.r0.r0.md) (family · 3) | sase-x7 hood | active 2, failed 1 |
-| [sase-x7.5](../../families/bbugyi200.athena.sase-x7.5.md) (family · 3) | sase-x7 hood | active 3 |
+| [sase-x7.4.r0](../../sessions/bbugyi200.athena.sase-x7.4.r0.md) (session · 13) | sase-x7 hood | active 1, completed 5, failed 7 |
+| [sase-x7.4.r0.r0](../../sessions/bbugyi200.athena.sase-x7.4.r0.r0.md) (session · 3) | sase-x7 hood | active 2, failed 1 |
+| [sase-x7.5](../../sessions/bbugyi200.athena.sase-x7.5.md) (session · 3) | sase-x7 hood | active 3 |
 | [sase-x7.5](../bbugyi200.athena.sase-x7.5/README.md) | sase-x7 hood | waiting |
 | [sase-x7.5.1.1](../bbugyi200.athena.sase-x7.5.1.1/README.md) | sase-x7 hood | active |
 | [sase-x7.5.1.2](../bbugyi200.athena.sase-x7.5.1.2/README.md) | sase-x7 hood | waiting |

@@ -1,6 +1,6 @@
 # Agent: vo--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [vo](../../users/bbugyi200/machines/athena/hoods/vo/README.md) / [vo](../../families/bbugyi200.athena.vo.md) / vo--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [vo](../../users/bbugyi200/machines/athena/hoods/vo/README.md) / [vo](../../sessions/bbugyi200.athena.vo.md) / vo--plan
 
 **Global name:** `bbugyi200.athena.vo--plan` · **State:** active · **Source run:** `run-3660760c933f724e3e21bd40bb4cad58`
 
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [vo.f0](../../families/bbugyi200.athena.vo.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [vo.f0](../../sessions/bbugyi200.athena.vo.f0.md) (session · 2) | descendant | active 1, completed 1 |
 | [vo.f0.f0](../bbugyi200.athena.vo.f0.f0/README.md) | descendant | active |

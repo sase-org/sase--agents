@@ -1,6 +1,6 @@
 # Agent: ea--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ea](../../users/bbugyi200/machines/athena/hoods/ea/README.md) / [ea](../../families/bbugyi200.athena.ea.md) / ea--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ea](../../users/bbugyi200/machines/athena/hoods/ea/README.md) / [ea](../../sessions/bbugyi200.athena.ea.md) / ea--code
 
 **Global name:** `bbugyi200.athena.ea--code` · **State:** completed · **Source run:** `run-7ca77e430ae6770f4fdf6d611d4fdcce`
 

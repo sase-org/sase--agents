@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-5j](../../families/bbugyi200.athena.sase-5j.md) (family · 2) | ancestor | active 1, completed 1 |
+| [sase-5j](../../sessions/bbugyi200.athena.sase-5j.md) (session · 2) | ancestor | active 1, completed 1 |
 | [sase-5j.f1.f1](../bbugyi200.athena.sase-5j.f1.f1/README.md) | descendant | waiting |
 | [sase-5j.1](../bbugyi200.athena.sase-5j.1/README.md) | sase-5j hood | dismissed |
 | [sase-5j.2](../bbugyi200.athena.sase-5j.2/README.md) | sase-5j hood | dismissed |

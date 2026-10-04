@@ -1,6 +1,6 @@
 # Agent: 06l--2
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [06l](../../users/bbugyi200/machines/athena/hoods/06l/README.md) / [06l](../../families/bbugyi200.athena.06l.md) / 06l--2
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [06l](../../users/bbugyi200/machines/athena/hoods/06l/README.md) / [06l](../../sessions/bbugyi200.athena.06l.md) / 06l--2
 
 **Global name:** `bbugyi200.athena.06l--2` · **State:** completed · **Source run:** `run-a5ed69a31266aed87dee2703a40d5bdf`
 

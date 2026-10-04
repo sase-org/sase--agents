@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-18e.2](../bbugyi200.athena.sase-18e.2/README.md) | sase-18e hood | active |
 | [sase-18e.3](../bbugyi200.athena.sase-18e.3/README.md) | sase-18e hood | active |
-| [sase-18e.land](../../families/bbugyi200.athena.sase-18e.land.md) (family · 5) | sase-18e hood | active 3, completed 1, failed 1 |
+| [sase-18e.land](../../sessions/bbugyi200.athena.sase-18e.land.md) (session · 5) | sase-18e hood | active 3, completed 1, failed 1 |

@@ -1,6 +1,6 @@
 # Agent: 3t
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [3t](../../users/bbugyi200/machines/athena/hoods/3t/README.md) / [3t](../../families/bbugyi200.athena.3t.md) / 3t
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [3t](../../users/bbugyi200/machines/athena/hoods/3t/README.md) / [3t](../../sessions/bbugyi200.athena.3t.md) / 3t
 
 **Global name:** `bbugyi200.athena.3t` · **State:** active · **Source run:** `run-3c28493e2385f39a94e581fd1dcf82a5`
 
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [3t.f-0](../../families/bbugyi200.athena.3t.f-0.md) (family · 2) | descendant | active 1, completed 1 |
-| [3t.f-0.f-0](../../families/bbugyi200.athena.3t.f-0.f-0.md) (family · 2) | descendant | active 1, completed 1 |
+| [3t.f-0](../../sessions/bbugyi200.athena.3t.f-0.md) (session · 2) | descendant | active 1, completed 1 |
+| [3t.f-0.f-0](../../sessions/bbugyi200.athena.3t.f-0.f-0.md) (session · 2) | descendant | active 1, completed 1 |

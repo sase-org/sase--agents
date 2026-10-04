@@ -1,6 +1,6 @@
 # Agent: sase-rr.land--2
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-rr](../../users/bbugyi200/machines/athena/hoods/sase-rr/README.md) / [sase-rr.land](../../families/bbugyi200.athena.sase-rr.land.md) / sase-rr.land--2
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-rr](../../users/bbugyi200/machines/athena/hoods/sase-rr/README.md) / [sase-rr.land](../../sessions/bbugyi200.athena.sase-rr.land.md) / sase-rr.land--2
 
 **Global name:** `bbugyi200.athena.sase-rr.land--2` · **State:** active · **Source run:** `run-1483366776cad9af5b317324f2009821`
 
@@ -22,7 +22,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-rr.land.w1](../../families/bbugyi200.athena.sase-rr.land.w1.md) (family · 2) | descendant | active 1, failed 1 |
+| [sase-rr.land.w1](../../sessions/bbugyi200.athena.sase-rr.land.w1.md) (session · 2) | descendant | active 1, failed 1 |
 | [sase-rr.1](../bbugyi200.athena.sase-rr.1/README.md) | sase-rr hood | active |
 | [sase-rr.2](../bbugyi200.athena.sase-rr.2/README.md) | sase-rr hood | active |
 | [sase-rr.3](../bbugyi200.athena.sase-rr.3/README.md) | sase-rr hood | active |
@@ -32,4 +32,4 @@
 | [sase-rr.5.3](../bbugyi200.athena.sase-rr.5.3/README.md) | sase-rr hood | active |
 | [sase-rr.5.4](../bbugyi200.athena.sase-rr.5.4/README.md) | sase-rr hood | active |
 | [sase-rr.5.5](../bbugyi200.athena.sase-rr.5.5/README.md) | sase-rr hood | active |
-| [sase-rr.5.land](../../families/bbugyi200.athena.sase-rr.5.land.md) (family · 2) | sase-rr hood | active 1, completed 1 |
+| [sase-rr.5.land](../../sessions/bbugyi200.athena.sase-rr.5.land.md) (session · 2) | sase-rr hood | active 1, completed 1 |

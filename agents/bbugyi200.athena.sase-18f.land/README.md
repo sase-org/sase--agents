@@ -35,5 +35,5 @@
 | [sase-18f.5](../bbugyi200.athena.sase-18f.5/README.md) | sase-18f hood | active |
 | [sase-18f.6](../bbugyi200.athena.sase-18f.6/README.md) | sase-18f hood | active |
 | [sase-18f.7](../bbugyi200.athena.sase-18f.7/README.md) | sase-18f hood | active |
-| [sase-18f.8](../../families/bbugyi200.athena.sase-18f.8.md) (family · 5) | sase-18f hood | active 5 |
+| [sase-18f.8](../../sessions/bbugyi200.athena.sase-18f.8.md) (session · 5) | sase-18f hood | active 5 |
 | [sase-18f.9](../bbugyi200.athena.sase-18f.9/README.md) | sase-18f hood | active |

@@ -1,6 +1,6 @@
 # Agent: 08z--gate
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [08z](../../users/bbugyi200/machines/athena/hoods/08z/README.md) / [08z](../../families/bbugyi200.athena.08z.md) / 08z--gate
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [08z](../../users/bbugyi200/machines/athena/hoods/08z/README.md) / [08z](../../sessions/bbugyi200.athena.08z.md) / 08z--gate
 
 **Global name:** `bbugyi200.athena.08z--gate` · **State:** failed · **Source run:** `run-c10fbb1fcfa409cd94bf05d2f1c0fc90`
 

@@ -31,11 +31,11 @@
 |---|---|---|
 | [sase-uk.10](../bbugyi200.athena.sase-uk.10/README.md) | sase-uk hood | active |
 | [sase-uk.2](../bbugyi200.athena.sase-uk.2/README.md) | sase-uk hood | active |
-| [sase-uk.3](../../families/bbugyi200.athena.sase-uk.3.md) (family · 3) | sase-uk hood | active 3 |
+| [sase-uk.3](../../sessions/bbugyi200.athena.sase-uk.3.md) (session · 3) | sase-uk hood | active 3 |
 | [sase-uk.4](../bbugyi200.athena.sase-uk.4/README.md) | sase-uk hood | active |
 | [sase-uk.5](../bbugyi200.athena.sase-uk.5/README.md) | sase-uk hood | active |
 | [sase-uk.6](../bbugyi200.athena.sase-uk.6/README.md) | sase-uk hood | active |
 | [sase-uk.7](../bbugyi200.athena.sase-uk.7/README.md) | sase-uk hood | active |
 | [sase-uk.8](../bbugyi200.athena.sase-uk.8/README.md) | sase-uk hood | active |
 | [sase-uk.9](../bbugyi200.athena.sase-uk.9/README.md) | sase-uk hood | active |
-| [sase-uk.land](../../families/bbugyi200.athena.sase-uk.land.md) (family · 3) | sase-uk hood | active 2, failed 1 |
+| [sase-uk.land](../../sessions/bbugyi200.athena.sase-uk.land.md) (session · 3) | sase-uk hood | active 2, failed 1 |

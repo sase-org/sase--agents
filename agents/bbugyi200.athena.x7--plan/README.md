@@ -1,6 +1,6 @@
 # Agent: x7--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [x7](../../users/bbugyi200/machines/athena/hoods/x7/README.md) / [x7](../../families/bbugyi200.athena.x7.md) / x7--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [x7](../../users/bbugyi200/machines/athena/hoods/x7/README.md) / [x7](../../sessions/bbugyi200.athena.x7.md) / x7--plan
 
 **Global name:** `bbugyi200.athena.x7--plan` · **State:** active · **Source run:** `run-d9f8d1fa4706975e6566ede6909d40dd`
 

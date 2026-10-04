@@ -1,6 +1,6 @@
 # Agent: is.cdx--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [is](../../users/bbugyi200/machines/athena/hoods/is/README.md) / [is.cdx](../../families/bbugyi200.athena.is.cdx.md) / is.cdx--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [is](../../users/bbugyi200/machines/athena/hoods/is/README.md) / [is.cdx](../../sessions/bbugyi200.athena.is.cdx.md) / is.cdx--plan
 
 **Global name:** `bbugyi200.athena.is.cdx--plan` · **State:** active · **Source run:** `run-e10caae10b9f82559251f742ef3071fb`
 
