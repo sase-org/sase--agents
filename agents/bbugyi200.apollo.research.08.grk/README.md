@@ -23,8 +23,8 @@
 |---|---|---|
 | [research.08.audio](../bbugyi200.apollo.research.08.audio/README.md) | research.08 hood | waiting |
 | [research.08.cdx](../bbugyi200.apollo.research.08.cdx/README.md) | research.08 hood | completed |
-| [research.08.cld](../bbugyi200.apollo.research.08.cld/README.md) | research.08 hood | active |
-| [research.08.final](../bbugyi200.apollo.research.08.final/README.md) | research.08 hood | waiting |
+| [research.08.cld](../bbugyi200.apollo.research.08.cld/README.md) | research.08 hood | completed |
+| [research.08.final](../bbugyi200.apollo.research.08.final/README.md) | research.08 hood | active |
 | [research.08.gem](../bbugyi200.apollo.research.08.gem/README.md) | research.08 hood | completed |
 | [research.08.image](../bbugyi200.apollo.research.08.image/README.md) | research.08 hood | waiting |
 | [research.08.linker](../bbugyi200.apollo.research.08.linker/README.md) | research.08 hood | waiting |
