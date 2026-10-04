@@ -73,6 +73,6 @@
 | [research.08.linker](../bbugyi200.apollo.research.08.linker/README.md) | research hood | completed |
 | [research.09.audio](../bbugyi200.apollo.research.09.audio/README.md) | research hood | waiting |
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | completed |
-| [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
-| [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | waiting |
+| [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | completed |
+| [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | active |
 | … and 293 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
