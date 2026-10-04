@@ -12,6 +12,7 @@
 | [0va.md](0va.md) | %queue(weight=1) %auto #fork:0va--1 %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.0va--2](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0va.md) | 0 |
 | [0vd.md](0vd.md) | gh:gh_sase-org__sase Can you do some research to help me figure out if there a safe way | - | [bbugyi200.athena.0vd](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0vd/README.md) | 0 |
 | [0vh.md](0vh.md) | %queue(weight=1) %auto #fork:0vh--code %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.0vh--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0vh.md) | 0 |
+| [0vz.f0.md](0vz.f0.md) | %queue(weight=1) %auto #fork:0vz.f0--7 %model:grok-4.6 %effort:medium | - | [bbugyi200.athena.0vz.f0--8](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0vz.f0.md) | 0 |
 | [0vz.md](0vz.md) | %queue(weight=1) %auto #fork:0vz--7 %model:grok-4.6 %effort:high | - | [bbugyi200.athena.0vz--8](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0vz.md) | 0 |
 | [0w3.md](0w3.md) | %queue(weight=1) %auto #fork:0w3--code %model:grok-4.6 %effort:medium | - | [bbugyi200.athena.0w3--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0w3.md) | 0 |
 | [0wa.md](0wa.md) | %queue(weight=1) %auto #fork:0wa--5 %model:grok-4.6 %effort:high | - | [bbugyi200.athena.0wa--6](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0wa.md) | 0 |
