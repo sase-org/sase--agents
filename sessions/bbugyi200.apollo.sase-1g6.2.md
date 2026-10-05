@@ -34,6 +34,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1g6.1](../agents/bbugyi200.apollo.sase-1g6.1/README.md) | sase-1g6 hood | completed |
-| [sase-1g6.3](../agents/bbugyi200.apollo.sase-1g6.3/README.md) | sase-1g6 hood | active |
-| [sase-1g6.4](../agents/bbugyi200.apollo.sase-1g6.4/README.md) | sase-1g6 hood | waiting |
+| [sase-1g6.3](../agents/bbugyi200.apollo.sase-1g6.3/README.md) | sase-1g6 hood | completed |
+| [sase-1g6.4](../agents/bbugyi200.apollo.sase-1g6.4/README.md) | sase-1g6 hood | active |
 | [sase-1g6.land](../agents/bbugyi200.apollo.sase-1g6.land/README.md) | sase-1g6 hood | waiting |
