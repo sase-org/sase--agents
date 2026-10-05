@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0c.audio
 
-**Global name:** `bbugyi200.apollo.research.0c.audio` · **State:** waiting · **Source run:** `run-e8acbaa7ee8a401fb7e62f692837c85e`
+**Global name:** `bbugyi200.apollo.research.0c.audio` · **State:** completed · **Source run:** `run-e8acbaa7ee8a401fb7e62f692837c85e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,28 @@
 
 - Model: gpt-6.1-sol
 - Provider: codex
-- Timing: 20261005120833
+- Timing: 2026-10-05T16:41:09.566741+00:00 → 2026-10-05T16:43:22.621290+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `audio` | {error: generated\_cover\_unavailable: Installed sase-listen render lacks --generated-cover; uvx sase-listen cannot resolve because the package is absent from the registry. Upgrade or install a sase-li… |
+
+#### audio
+
+```yaml
+error: generated_cover_unavailable: Installed sase-listen render lacks --generated-cover; uvx sase-listen cannot resolve because the package is absent from the registry. Upgrade or install a sase-listen release whose render --help advertises --generated-cover, then retry the audio edition.
+ok: false
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,10 +39,10 @@
 |---|---|---|
 | [research.0c.cdx](../bbugyi200.apollo.research.0c.cdx/README.md) | research.0c hood | completed |
 | [research.0c.cld](../bbugyi200.apollo.research.0c.cld/README.md) | research.0c hood | completed |
-| [research.0c.final](../bbugyi200.apollo.research.0c.final/README.md) | research.0c hood | active |
+| [research.0c.final](../bbugyi200.apollo.research.0c.final/README.md) | research.0c hood | completed |
 | [research.0c.gem](../bbugyi200.apollo.research.0c.gem/README.md) | research.0c hood | completed |
 | [research.0c.grk](../bbugyi200.apollo.research.0c.grk/README.md) | research.0c hood | completed |
-| [research.0c.image](../bbugyi200.apollo.research.0c.image/README.md) | research.0c hood | waiting |
+| [research.0c.image](../bbugyi200.apollo.research.0c.image/README.md) | research.0c hood | active |
 | [research.0c.linker](../bbugyi200.apollo.research.0c.linker/README.md) | research.0c hood | waiting |
 | [research.0c.mus](../bbugyi200.apollo.research.0c.mus/README.md) | research.0c hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
