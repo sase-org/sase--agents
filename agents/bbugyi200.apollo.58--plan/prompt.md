@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me add a new `y` keymap to the stash panel that allows the user to copy the currently selected stashed prompt to their clipboard? #plan %m:gpt-6-astra %auto
