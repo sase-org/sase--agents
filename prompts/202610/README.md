@@ -21,6 +21,7 @@
 | [0ws.md](0ws.md) | gh:gh_sase-org__sase We recently added support to sase-listen for transcribing articles | - | [bbugyi200.athena.0ws](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0ws/README.md) | 0 |
 | [0wz.md](0wz.md) | gh:gh_sase-org__sase What needs to be done to publish the first version of sase-listen | - | [bbugyi200.athena.0wz](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0wz/README.md) | 0 |
 | [0x1.md](0x1.md) | gh:gh_sase-org__sase One problem I have with the plan described in the | - | [bbugyi200.athena.0x1](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0x1/README.md) | 0 |
+| [0x4.md](0x4.md) | %queue(weight=1) %auto #fork:0x4--code %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.0x4--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0x4.md) | 0 |
 | [3r.md](3r.md) | %queue(weight=1) %auto #fork:3r--4 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3r--5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3r.md) | 0 |
 | [3v.md](3v.md) | %queue(weight=1) %auto #fork:3v--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3v--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3v.md) | 0 |
 | [41.md](41.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202610/memory_history_landing_fixes.md | - | [bbugyi200.apollo.41](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.apollo.41/README.md) | 0 |
