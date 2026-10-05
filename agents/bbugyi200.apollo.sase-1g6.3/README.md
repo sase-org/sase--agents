@@ -25,5 +25,5 @@
 |---|---|---|
 | [sase-1g6.1](../bbugyi200.apollo.sase-1g6.1/README.md) | sase-1g6 hood | completed |
 | [sase-1g6.2](../../sessions/bbugyi200.apollo.sase-1g6.2.md) (session · 5) | sase-1g6 hood | completed 3, failed 2 |
-| [sase-1g6.4](../bbugyi200.apollo.sase-1g6.4/README.md) | sase-1g6 hood | active |
-| [sase-1g6.land](../bbugyi200.apollo.sase-1g6.land/README.md) | sase-1g6 hood | waiting |
+| [sase-1g6.4](../bbugyi200.apollo.sase-1g6.4/README.md) | sase-1g6 hood | completed |
+| [sase-1g6.land](../../sessions/bbugyi200.apollo.sase-1g6.land.md) (session · 3) | sase-1g6 hood | active 2, failed 1 |
