@@ -16,6 +16,7 @@
 | [0vz.md](0vz.md) | %queue(weight=1) %auto #fork:0vz--7 %model:grok-4.6 %effort:high | - | [bbugyi200.athena.0vz--8](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0vz.md) | 0 |
 | [0w3.md](0w3.md) | %queue(weight=1) %auto #fork:0w3--code %model:grok-4.6 %effort:medium | - | [bbugyi200.athena.0w3--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0w3.md) | 0 |
 | [0wa.md](0wa.md) | %queue(weight=1) %auto #fork:0wa--5 %model:grok-4.6 %effort:high | - | [bbugyi200.athena.0wa--6](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0wa.md) | 0 |
+| [0wr.md](0wr.md) | gh:gh_sase-org__sase I would like to migrate all existing agent instruction files to | - | [bbugyi200.athena.0wr](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0wr/README.md) | 0 |
 | [0ws.md](0ws.md) | gh:gh_sase-org__sase We recently added support to sase-listen for transcribing articles | - | [bbugyi200.athena.0ws](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0ws/README.md) | 0 |
 | [3r.md](3r.md) | %queue(weight=1) %auto #fork:3r--4 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3r--5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3r.md) | 0 |
 | [3v.md](3v.md) | %queue(weight=1) %auto #fork:3v--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3v--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3v.md) | 0 |
