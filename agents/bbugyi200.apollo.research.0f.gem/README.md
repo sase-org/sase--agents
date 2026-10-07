@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0f.gem
 
-**Global name:** `bbugyi200.apollo.research.0f.gem` · **State:** active · **Source run:** `run-a54a4a105ffa8b5d782bbbe45f407ef5`
+**Global name:** `bbugyi200.apollo.research.0f.gem` · **State:** completed · **Source run:** `run-a54a4a105ffa8b5d782bbbe45f407ef5`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,12 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-10-07T19:14:05.835889+00:00
+- Timing: 2026-10-07T19:14:05.835889+00:00 → 2026-10-07T19:29:02.001024+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
