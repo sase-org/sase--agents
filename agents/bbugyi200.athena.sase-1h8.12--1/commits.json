@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1791404381,"sha":"446f1833deb92962992f7fb9538a82a21f3c0982","subject":"feat(bead): serve list and status queries from indexed read-model tables"}],"schema_version":2,"source_run_id":"run-101d58521eaf7e14507219eb0b16a0a5"}

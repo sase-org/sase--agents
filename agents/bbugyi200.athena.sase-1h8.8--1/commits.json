@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1791379233,"sha":"7da15707ea0331e509f65553b5721f5e465c0d5a","subject":"feat(bead-store): versioned SQLite read model with freshness token and verify-cache (sase-1h8.8)"}],"schema_version":2,"source_run_id":"run-df25615671a9a804e387512da353bfaa"}
