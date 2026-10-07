@@ -12,10 +12,33 @@
 - Provider: codex
 - Timing: 2026-10-07T21:48:34.572562+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `audio` | {audio\_path: /home/bryan/.local/share/sase-listen/library/the-first-sase-blog-post-a-recommended-outline-10fad9/the-first-sase-blog-post-a-recommended-outline.mp3, chapter\_count: 3, duration\_s: 249.4… |
+
+#### audio
+
+```yaml
+audio_path: /home/bryan/.local/share/sase-listen/library/the-first-sase-blog-post-a-recommended-outline-10fad9/the-first-sase-blog-post-a-recommended-outline.mp3
+chapter_count: 3
+duration_s: 249.46
+edition: brief
+episode_id: the-first-sase-blog-post-a-recommended-outline-10fad9
+ok: true
+published: true
+script: 202610/sase_launch_post_outline/sase_launch_post_outline_narration.md
+title: The First SASE Blog Post: A Recommended Outline
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
