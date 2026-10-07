@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0f.image
 
-**Global name:** `bbugyi200.apollo.research.0f.image` · **State:** waiting · **Source run:** `run-067582b5cd603f1615d95b03f4ae9ccc`
+**Global name:** `bbugyi200.apollo.research.0f.image` · **State:** active · **Source run:** `run-067582b5cd603f1615d95b03f4ae9ccc`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261007151332
+- Timing: 2026-10-07T19:48:51.866501+00:00
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 |---|---|---|
 | [research.0f.cdx](../bbugyi200.apollo.research.0f.cdx/README.md) | research.0f hood | completed |
 | [research.0f.cld](../bbugyi200.apollo.research.0f.cld/README.md) | research.0f hood | completed |
-| [research.0f.final](../bbugyi200.apollo.research.0f.final/README.md) | research.0f hood | active |
+| [research.0f.final](../bbugyi200.apollo.research.0f.final/README.md) | research.0f hood | completed |
 | [research.0f.gem](../bbugyi200.apollo.research.0f.gem/README.md) | research.0f hood | completed |
 | [research.0f.grk](../bbugyi200.apollo.research.0f.grk/README.md) | research.0f hood | completed |
 | [research.0f.linker](../bbugyi200.apollo.research.0f.linker/README.md) | research.0f hood | waiting |
