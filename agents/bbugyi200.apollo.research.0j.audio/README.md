@@ -12,10 +12,33 @@
 - Provider: codex
 - Timing: 2026-10-07T22:00:10.508419+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `audio` | {audio\_path: /home/bryan/.local/share/sase-listen/library/the-first-paragraphs-of-the-first-sase-blog-post-1260c4/the-first-paragraphs-of-the-first-sase-blog-post.mp3, chapter\_count: 3, duration\_s: 2… |
+
+#### audio
+
+```yaml
+audio_path: /home/bryan/.local/share/sase-listen/library/the-first-paragraphs-of-the-first-sase-blog-post-1260c4/the-first-paragraphs-of-the-first-sase-blog-post.mp3
+chapter_count: 3
+duration_s: 256.44
+edition: brief
+episode_id: the-first-paragraphs-of-the-first-sase-blog-post-1260c4
+ok: true
+published: true
+script: 202610/sase_launch_post_introduction/sase_launch_post_introduction_narration.md
+title: The First Paragraphs of the First SASE Blog Post
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
