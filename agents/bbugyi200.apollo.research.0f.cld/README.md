@@ -26,7 +26,7 @@
 | [research.0f.gem](../bbugyi200.apollo.research.0f.gem/README.md) | research.0f hood | completed |
 | [research.0f.grk](../bbugyi200.apollo.research.0f.grk/README.md) | research.0f hood | completed |
 | [research.0f.image](../bbugyi200.apollo.research.0f.image/README.md) | research.0f hood | completed |
-| [research.0f.linker](../bbugyi200.apollo.research.0f.linker/README.md) | research.0f hood | active |
+| [research.0f.linker](../bbugyi200.apollo.research.0f.linker/README.md) | research.0f hood | completed |
 | [research.0f.mus](../bbugyi200.apollo.research.0f.mus/README.md) | research.0f hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
@@ -78,4 +78,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | active |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | active |
-| … and 320 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 328 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
