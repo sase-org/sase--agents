@@ -50,7 +50,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.0i.gem](../bbugyi200.apollo.research.0i.gem/README.md) | research.0i hood | completed |
 | [research.0i.grk](../bbugyi200.apollo.research.0i.grk/README.md) | research.0i hood | completed |
 | [research.0i.image](../bbugyi200.apollo.research.0i.image/README.md) | research.0i hood | completed |
-| [research.0i.linker](../bbugyi200.apollo.research.0i.linker/README.md) | research.0i hood | active |
+| [research.0i.linker](../bbugyi200.apollo.research.0i.linker/README.md) | research.0i hood | completed |
 | [research.0i.mus](../bbugyi200.apollo.research.0i.mus/README.md) | research.0i hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
