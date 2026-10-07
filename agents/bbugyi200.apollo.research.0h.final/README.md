@@ -24,7 +24,7 @@
 | [research.0h.audio](../bbugyi200.apollo.research.0h.audio/README.md) | research.0h hood | waiting |
 | [research.0h.cdx](../bbugyi200.apollo.research.0h.cdx/README.md) | research.0h hood | active |
 | [research.0h.cld](../bbugyi200.apollo.research.0h.cld/README.md) | research.0h hood | active |
-| [research.0h.gem](../bbugyi200.apollo.research.0h.gem/README.md) | research.0h hood | active |
+| [research.0h.gem](../bbugyi200.apollo.research.0h.gem/README.md) | research.0h hood | completed |
 | [research.0h.grk](../bbugyi200.apollo.research.0h.grk/README.md) | research.0h hood | active |
 | [research.0h.image](../bbugyi200.apollo.research.0h.image/README.md) | research.0h hood | waiting |
 | [research.0h.linker](../bbugyi200.apollo.research.0h.linker/README.md) | research.0h hood | waiting |
