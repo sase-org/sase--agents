@@ -12,10 +12,33 @@
 - Provider: codex
 - Timing: 2026-10-07T21:53:13.480552+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `audio` | {audio\_path: /home/bryan/.local/share/sase-listen/library/what-omnigent-teaches-sase-ebcb68/what-omnigent-teaches-sase.mp3, chapter\_count: 3, duration\_s: 282.42, edition: brief, episode\_id: what-omni… |
+
+#### audio
+
+```yaml
+audio_path: /home/bryan/.local/share/sase-listen/library/what-omnigent-teaches-sase-ebcb68/what-omnigent-teaches-sase.mp3
+chapter_count: 3
+duration_s: 282.42
+edition: brief
+episode_id: what-omnigent-teaches-sase-ebcb68
+ok: true
+published: true
+script: 202610/omnigent_meta_harness_lessons_for_sase/omnigent_meta_harness_lessons_for_sase_narration.md
+title: What Omnigent Teaches SASE
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
