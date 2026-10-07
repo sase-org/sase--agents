@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0g.cld
 
-**Global name:** `bbugyi200.apollo.research.0g.cld` · **State:** active · **Source run:** `run-14baaba23f7e2dea05e80cf69ec5183f`
+**Global name:** `bbugyi200.apollo.research.0g.cld` · **State:** completed · **Source run:** `run-14baaba23f7e2dea05e80cf69ec5183f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,19 +10,19 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-07T20:39:58.462878+00:00
+- Timing: 2026-10-07T20:39:58.462878+00:00 → 2026-10-07T21:10:10.129143+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.0g.cdx](../bbugyi200.apollo.research.0g.cdx/README.md) | research.0g hood | completed |
-| [research.0g.final](../bbugyi200.apollo.research.0g.final/README.md) | research.0g hood | waiting |
+| [research.0g.final](../bbugyi200.apollo.research.0g.final/README.md) | research.0g hood | active |
 | [research.0g.gem](../bbugyi200.apollo.research.0g.gem/README.md) | research.0g hood | completed |
 | [research.0g.grk](../bbugyi200.apollo.research.0g.grk/README.md) | research.0g hood | completed |
 | [research.0g.image](../bbugyi200.apollo.research.0g.image/README.md) | research.0g hood | waiting |
@@ -78,4 +78,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | active |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | active |
-| … and 328 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 342 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
