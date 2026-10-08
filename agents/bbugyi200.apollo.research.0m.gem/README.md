@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-10-08T16:04:20.267042+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/auto\_directive\_epic\_decomposition\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261008120337/auto\_directive\_epic\_decomposition\_\_gem-62… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/auto_directive_epic_decomposition__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261008120337/auto_directive_epic_decomposition__gem-6207b7a2dfa8.md
+  ref: file:explicit:f68fc36781f976683436c329
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_19/sase/repos/research/202610/auto_directive_epic_decomposition__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.0m.grk](../bbugyi200.apollo.research.0m.grk/README.md) | research.0m hood | active |
 | [research.0m.image](../bbugyi200.apollo.research.0m.image/README.md) | research.0m hood | waiting |
 | [research.0m.linker](../bbugyi200.apollo.research.0m.linker/README.md) | research.0m hood | waiting |
-| [research.0m.mus](../bbugyi200.apollo.research.0m.mus/README.md) | research.0m hood | active |
+| [research.0m.mus](../bbugyi200.apollo.research.0m.mus/README.md) | research.0m hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
