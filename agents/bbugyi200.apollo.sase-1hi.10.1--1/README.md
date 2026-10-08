@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1hi](../../users/bbugyi200/machines/apollo/hoods/sase-1hi/README.md) / [sase-1hi.10.1](../../sessions/bbugyi200.apollo.sase-1hi.10.1.md) / sase-1hi.10.1--1
 
-**Global name:** `bbugyi200.apollo.sase-1hi.10.1--1` · **State:** active · **Source run:** `run-c24e69c3a29a4c602a89ec0981240fb0`
+**Global name:** `bbugyi200.apollo.sase-1hi.10.1--1` · **State:** completed · **Source run:** `run-c24e69c3a29a4c602a89ec0981240fb0`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1hi
 
@@ -11,12 +11,12 @@
 - Bead: [sase-1hi.10.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1hi/sase-1hi.10.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-08T09:50:45.622460+00:00
+- Timing: 2026-10-08T09:50:45.622460+00:00 → 2026-10-08T10:25:23.062089+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -28,7 +28,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1hi.10.2](../bbugyi200.apollo.sase-1hi.10.2/README.md) | sase-1hi.10 hood | waiting |
+| [sase-1hi.10.2](../../sessions/bbugyi200.apollo.sase-1hi.10.2.md) (session · 3) | sase-1hi.10 hood | active 2, failed 1 |
 | [sase-1hi.10.3](../bbugyi200.apollo.sase-1hi.10.3/README.md) | sase-1hi.10 hood | waiting |
 | [sase-1hi.10.4](../bbugyi200.apollo.sase-1hi.10.4/README.md) | sase-1hi.10 hood | waiting |
 | [sase-1hi.10.5](../bbugyi200.apollo.sase-1hi.10.5/README.md) | sase-1hi.10 hood | waiting |

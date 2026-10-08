@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["sase-1hi.10.1--plan [completed]"]
   n0 --> n2
-  n3["sase-1hi.10.1--1 [active]"]
+  n3["sase-1hi.10.1--1 [completed]"]
   n0 --> n3
   n4["sase-1hi.10.1--gate [failed]"]
   n0 --> n4
@@ -26,7 +26,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | sase-1hi.10.1--code | completed | muse-spark-1.3-contributor / muse | 2026-10-08T09:36:54.441784+00:00 → 2026-10-08T09:48:51.283372+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.1--code/chat.md) |
 | <a id="member-mon"></a>mon | sase-1hi.10.1--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-08T09:48:22.246176+00:00 → 2026-10-08T09:50:46.063899+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.1--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1hi.10.1--plan | completed | gpt-6.1-sol / codex | 2026-10-08T09:27:49.645312+00:00 → 2026-10-08T09:48:51.283372+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.1--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.1--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-1hi.10.1--1 | active | muse-spark-1.3-contributor / muse | 2026-10-08T09:50:45.622460+00:00 | [1](../agents/bbugyi200.apollo.sase-1hi.10.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1hi.10.1--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-08T09:50:45.622460+00:00 → 2026-10-08T10:25:23.062089+00:00 | [1](../agents/bbugyi200.apollo.sase-1hi.10.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.1--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.1--1/chat.md) |
 | <a id="member-gate"></a>gate | sase-1hi.10.1--gate | failed | gpt-6.1-sol / codex | 2026-10-08T09:36:24.705473+00:00 → 2026-10-08T09:36:35.903338+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.1--gate/chat.md) |
 
 ## Commits
@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1hi.10.2](../agents/bbugyi200.apollo.sase-1hi.10.2/README.md) | sase-1hi.10 hood | waiting |
+| [sase-1hi.10.2](bbugyi200.apollo.sase-1hi.10.2.md) (session · 3) | sase-1hi.10 hood | active 2, failed 1 |
 | [sase-1hi.10.3](../agents/bbugyi200.apollo.sase-1hi.10.3/README.md) | sase-1hi.10 hood | waiting |
 | [sase-1hi.10.4](../agents/bbugyi200.apollo.sase-1hi.10.4/README.md) | sase-1hi.10 hood | waiting |
 | [sase-1hi.10.5](../agents/bbugyi200.apollo.sase-1hi.10.5/README.md) | sase-1hi.10 hood | waiting |
