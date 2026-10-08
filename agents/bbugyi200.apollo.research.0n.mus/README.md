@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0n.mus
 
-**Global name:** `bbugyi200.apollo.research.0n.mus` · **State:** active · **Source run:** `run-7dc7c578d84c96b38aac4f9ef8282f41`
+**Global name:** `bbugyi200.apollo.research.0n.mus` · **State:** completed · **Source run:** `run-7dc7c578d84c96b38aac4f9ef8282f41`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-08T17:52:51.718927+00:00
+- Timing: 2026-10-08T17:52:51.718927+00:00 → 2026-10-08T18:00:58.499197+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 

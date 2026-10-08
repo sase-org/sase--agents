@@ -12,6 +12,7 @@
 - Provider: codex
 - Timing: 2026-10-08T17:52:36.141333+00:00
 - Commits: [1](#commits)
+- Variables: [1](#variables)
 
 ## Files
 
@@ -22,6 +23,24 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`bb49553`](https://github.com/sase-org/sase/commit/bb495538abb4ee2df7672f3043b0384df778e12a) | docs: research AMD init and memory init consolidation | 2026-06-26 11:38:59 EDT |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase-listen-command-plugin-architecture\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261008135159/sase-listen-command-plugin-architec… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase-listen-command-plugin-architecture__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261008135159/sase-listen-command-plugin-architecture__cdx-c6f1e39394d3.md
+  ref: file:explicit:f05b5c18c57b5df733b6e442
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_16/sase/repos/research/202610/sase-listen-command-plugin-architecture__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -34,7 +53,7 @@
 | [research.0n.grk](../bbugyi200.apollo.research.0n.grk/README.md) | research.0n hood | active |
 | [research.0n.image](../bbugyi200.apollo.research.0n.image/README.md) | research.0n hood | waiting |
 | [research.0n.linker](../bbugyi200.apollo.research.0n.linker/README.md) | research.0n hood | waiting |
-| [research.0n.mus](../bbugyi200.apollo.research.0n.mus/README.md) | research.0n hood | active |
+| [research.0n.mus](../bbugyi200.apollo.research.0n.mus/README.md) | research.0n hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
