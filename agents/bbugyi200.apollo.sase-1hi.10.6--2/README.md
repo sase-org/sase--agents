@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1hi](../../users/bbugyi200/machines/apollo/hoods/sase-1hi/README.md) / [sase-1hi.10.6](../../sessions/bbugyi200.apollo.sase-1hi.10.6.md) / sase-1hi.10.6--2
 
-**Global name:** `bbugyi200.apollo.sase-1hi.10.6--2` · **State:** active · **Source run:** `run-9247c812ab086af3bce6b1bb939ca3d4`
+**Global name:** `bbugyi200.apollo.sase-1hi.10.6--2` · **State:** completed · **Source run:** `run-9247c812ab086af3bce6b1bb939ca3d4`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1hi
 
@@ -11,12 +11,12 @@
 - Bead: [sase-1hi.10.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1hi/sase-1hi.10.6.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-08T15:49:11.421544+00:00
+- Timing: 2026-10-08T15:49:11.421544+00:00 → 2026-10-08T16:16:31.678433+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -27,7 +27,13 @@
 | [sase-1hi.10.3](../../sessions/bbugyi200.apollo.sase-1hi.10.3.md) (session · 3) | sase-1hi.10 hood | completed 2, failed 1 |
 | [sase-1hi.10.4](../../sessions/bbugyi200.apollo.sase-1hi.10.4.md) (session · 5) | sase-1hi.10 hood | completed 3, failed 2 |
 | [sase-1hi.10.5](../../sessions/bbugyi200.apollo.sase-1hi.10.5.md) (session · 3) | sase-1hi.10 hood | completed 2, failed 1 |
-| [sase-1hi.10.land](../bbugyi200.apollo.sase-1hi.10.land/README.md) | sase-1hi.10 hood | waiting |
+| [sase-1hi.10.7.1](../../sessions/bbugyi200.apollo.sase-1hi.10.7.1.md) (session · 4) | sase-1hi.10 hood | active 1, completed 2, failed 1 |
+| [sase-1hi.10.7.2](../bbugyi200.apollo.sase-1hi.10.7.2/README.md) | sase-1hi.10 hood | waiting |
+| [sase-1hi.10.7.3](../../sessions/bbugyi200.apollo.sase-1hi.10.7.3.md) (session · 3) | sase-1hi.10 hood | active 2, failed 1 |
+| [sase-1hi.10.7.4](../bbugyi200.apollo.sase-1hi.10.7.4/README.md) | sase-1hi.10 hood | waiting |
+| [sase-1hi.10.7.5](../bbugyi200.apollo.sase-1hi.10.7.5/README.md) | sase-1hi.10 hood | waiting |
+| [sase-1hi.10.7.land](../bbugyi200.apollo.sase-1hi.10.7.land/README.md) | sase-1hi.10 hood | waiting |
+| [sase-1hi.10.land](../../sessions/bbugyi200.apollo.sase-1hi.10.land.md) (session · 3) | sase-1hi.10 hood | failed 3 |
 | [sase-1hi.1](../../sessions/bbugyi200.apollo.sase-1hi.1.md) (session · 3) | sase-1hi hood | failed 3 |
 | [sase-1hi.1.1.1](../bbugyi200.apollo.sase-1hi.1.1.1/README.md) | sase-1hi hood | completed |
 | [sase-1hi.1.1.2](../bbugyi200.apollo.sase-1hi.1.1.2/README.md) | sase-1hi hood | completed |

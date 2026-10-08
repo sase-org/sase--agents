@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / apollo
 
-**Project:** sase · **Hoods:** 66 · **Runs:** 1121
+**Project:** sase · **Hoods:** 67 · **Runs:** 1141
 
 | Hood | Runs | Sessions | States |
 |---|---:|---:|---|
@@ -39,6 +39,7 @@
 | [5n](hoods/5n/README.md) | 3 | 1 | failed 3 |
 | [5p](hoods/5p/README.md) | 5 | 1 | active 1, completed 2, failed 2 |
 | [5s](hoods/5s/README.md) | 3 | 1 | failed 3 |
+| [5w](hoods/5w/README.md) | 3 | 1 | active 2, failed 1 |
 | [claude-code](hoods/claude-code/README.md) | 3 | 0 | completed 3 |
 | [l](hoods/l/README.md) | 3 | 0 | active 1, completed 2 |
 | [m](hoods/m/README.md) | 1 | 0 | active 1 |
@@ -46,7 +47,7 @@
 | [o](hoods/o/README.md) | 2 | 1 | active 1, completed 1 |
 | [p](hoods/p/README.md) | 1 | 1 | active 1 |
 | [r](hoods/r/README.md) | 3 | 0 | active 1, completed 2 |
-| [research](hoods/research/README.md) | 420 | 1 | active 256, completed 160, failed 2, waiting 2 |
+| [research](hoods/research/README.md) | 424 | 1 | active 260, completed 157, failed 2, waiting 5 |
 | [sase-100](hoods/sase-100/README.md) | 23 | 2 | active 1, completed 13, failed 9 |
 | [sase-10j](hoods/sase-10j/README.md) | 4 | 0 | active 1, completed 2, waiting 1 |
 | [sase-12o](hoods/sase-12o/README.md) | 8 | 1 | active 1, completed 5, failed 2 |
@@ -60,7 +61,7 @@
 | [sase-19f](hoods/sase-19f/README.md) | 6 | 0 | active 1, completed 1, waiting 4 |
 | [sase-1fs](hoods/sase-1fs/README.md) | 20 | 1 | active 1, completed 11, failed 8 |
 | [sase-1g6](hoods/sase-1g6/README.md) | 11 | 2 | active 2, completed 6, failed 3 |
-| [sase-1hi](hoods/sase-1hi/README.md) | 74 | 13 | active 1, completed 42, failed 30, waiting 1 |
+| [sase-1hi](hoods/sase-1hi/README.md) | 87 | 16 | active 3, completed 45, failed 35, waiting 4 |
 | [sase-1i4](hoods/sase-1i4/README.md) | 16 | 2 | active 1, completed 9, failed 6 |
 | [sase-w3](hoods/sase-w3/README.md) | 15 | 5 | active 2, completed 8, failed 4, waiting 1 |
 | [sase-w8](hoods/sase-w8/README.md) | 8 | 1 | completed 5, failed 3 |
