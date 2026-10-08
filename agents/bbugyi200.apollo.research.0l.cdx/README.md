@@ -2,16 +2,20 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0l.cdx
 
-**Global name:** `bbugyi200.apollo.research.0l.cdx` · **State:** completed · **Source run:** `run-d91b61f958633d31ec187f6a8c3d91ed`
+**Global name:** `bbugyi200.apollo.research.0l.cdx` · **State:** active · **Source run:** `run-22591a5d4b284eea0b80f7876ccc2588`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
 ## Summary
 
-- Model: —
-- Provider: —
-- Timing: 2026-06-26T01:45:16+00:00 → 2026-06-26T01:45:16+00:00
+- Model: gpt-6.1-sol
+- Provider: codex
+- Timing: 2026-10-08T14:19:57.134435+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Prompt](prompt.md)
 
 ## Commits
 
@@ -23,9 +27,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.0l.cld](../bbugyi200.apollo.research.0l.cld/README.md) | research.0l hood | completed |
-| [research.0l.final](../bbugyi200.apollo.research.0l.final/README.md) | research.0l hood | completed |
-| [research.0l.image](../bbugyi200.apollo.research.0l.image/README.md) | research.0l hood | completed |
+| [research.0l.cld](../bbugyi200.apollo.research.0l.cld/README.md) | research.0l hood | active |
+| [research.0l.final](../bbugyi200.apollo.research.0l.final/README.md) | research.0l hood | waiting |
+| [research.0l.gem](../bbugyi200.apollo.research.0l.gem/README.md) | research.0l hood | active |
+| [research.0l.grk](../bbugyi200.apollo.research.0l.grk/README.md) | research.0l hood | active |
+| [research.0l.image](../bbugyi200.apollo.research.0l.image/README.md) | research.0l hood | waiting |
+| [research.0l.linker](../bbugyi200.apollo.research.0l.linker/README.md) | research.0l hood | waiting |
+| [research.0l.mus](../bbugyi200.apollo.research.0l.mus/README.md) | research.0l hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
