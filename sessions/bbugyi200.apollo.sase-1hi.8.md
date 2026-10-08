@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-1hi.8--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-08T05:46:00.238101+00:00 → 2026-10-08T06:18:24.822724+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.8--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.8--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-1hi.8--1 | active | muse-spark-1.3-contributor / muse | 2026-10-08T06:49:47.792278+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.8--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1hi.8--1 | active | muse-spark-1.3-contributor / muse | 2026-10-08T06:49:47.792278+00:00 | [1](../agents/bbugyi200.apollo.sase-1hi.8--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-1hi.8--1/prompt.md) | — |
 | <a id="member-mon"></a>mon | sase-1hi.8--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-08T06:17:44.919194+00:00 → 2026-10-08T06:49:47.912252+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.8--mon/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`5b8e6fe`](https://github.com/sase-org/sase/commit/5b8e6fe4c751a0a3e1a5651d3f3416bace679369) | feat(finalizers): add advisory never-blocking memory guard for plan-launched commits | 2026-10-08 03:07:30 EDT |
 
 ## Neighbors
 
@@ -38,6 +44,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1hi.4](../agents/bbugyi200.apollo.sase-1hi.4/README.md) | sase-1hi hood | completed |
 | [sase-1hi.5](../agents/bbugyi200.apollo.sase-1hi.5/README.md) | sase-1hi hood | completed |
 | [sase-1hi.6](bbugyi200.apollo.sase-1hi.6.md) (session · 6) | sase-1hi hood | active 1, completed 3, failed 2 |
-| [sase-1hi.7](bbugyi200.apollo.sase-1hi.7.md) (session · 5) | sase-1hi hood | active 1, completed 2, failed 2 |
+| [sase-1hi.7](bbugyi200.apollo.sase-1hi.7.md) (session · 5) | sase-1hi hood | completed 3, failed 2 |
 | [sase-1hi.9](../agents/bbugyi200.apollo.sase-1hi.9/README.md) | sase-1hi hood | waiting |
 | [sase-1hi.land](../agents/bbugyi200.apollo.sase-1hi.land/README.md) | sase-1hi hood | waiting |

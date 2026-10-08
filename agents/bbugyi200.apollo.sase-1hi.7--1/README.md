@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1hi](../../users/bbugyi200/machines/apollo/hoods/sase-1hi/README.md) / [sase-1hi.7](../../sessions/bbugyi200.apollo.sase-1hi.7.md) / sase-1hi.7--1
 
-**Global name:** `bbugyi200.apollo.sase-1hi.7--1` · **State:** active · **Source run:** `run-f8e4ba6eb0d8506e8e0508137f8ea323`
+**Global name:** `bbugyi200.apollo.sase-1hi.7--1` · **State:** completed · **Source run:** `run-f8e4ba6eb0d8506e8e0508137f8ea323`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1hi
 
@@ -11,12 +11,12 @@
 - Bead: [sase-1hi.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1hi/sase-1hi.7.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-08T06:29:13.552065+00:00
+- Timing: 2026-10-08T06:29:13.552065+00:00 → 2026-10-08T07:05:01.430803+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 

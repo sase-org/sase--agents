@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["sase-1hi.7--gate [failed]"]
   n0 --> n3
-  n4["sase-1hi.7--1 [active]"]
+  n4["sase-1hi.7--1 [completed]"]
   n0 --> n4
 ```
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | sase-1hi.7--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-08T06:26:23.406312+00:00 → 2026-10-08T06:29:13.631869+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.7--mon/chat.md) |
 | <a id="member-code"></a>code | sase-1hi.7--code | completed | muse-spark-1.3-contributor / muse | 2026-10-08T05:55:33.894381+00:00 → 2026-10-08T06:26:58.469412+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.7--code/chat.md) |
 | <a id="member-gate"></a>gate | sase-1hi.7--gate | failed | gpt-6.1-sol / codex | 2026-10-08T05:54:59.089591+00:00 → 2026-10-08T05:55:12.187748+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.7--gate/chat.md) |
-| <a id="member-1"></a>1 | sase-1hi.7--1 | active | muse-spark-1.3-contributor / muse | 2026-10-08T06:29:13.552065+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.7--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1hi.7--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-08T06:29:13.552065+00:00 → 2026-10-08T07:05:01.430803+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.7--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.7--1/chat.md) |
 
 ## Neighbors
 
