@@ -12,19 +12,38 @@
 - Provider: grok
 - Timing: 2026-10-08T16:04:12.602646+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/auto\_autonomy\_verifiable\_epic\_split\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261008120335/auto\_autonomy\_verifiable\_epic\_split\_\_gr… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/auto_autonomy_verifiable_epic_split__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261008120335/auto_autonomy_verifiable_epic_split__grk-10eee6e21093.md
+  ref: file:explicit:7fb58d604d434a64606ccc04
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202610/auto_autonomy_verifiable_epic_split__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.0m.cdx](../bbugyi200.apollo.research.0m.cdx/README.md) | research.0m hood | active |
+| [research.0m.cdx](../bbugyi200.apollo.research.0m.cdx/README.md) | research.0m hood | completed |
 | [research.0m.cld](../bbugyi200.apollo.research.0m.cld/README.md) | research.0m hood | active |
 | [research.0m.final](../bbugyi200.apollo.research.0m.final/README.md) | research.0m hood | waiting |
-| [research.0m.gem](../bbugyi200.apollo.research.0m.gem/README.md) | research.0m hood | active |
+| [research.0m.gem](../bbugyi200.apollo.research.0m.gem/README.md) | research.0m hood | completed |
 | [research.0m.image](../bbugyi200.apollo.research.0m.image/README.md) | research.0m hood | waiting |
 | [research.0m.linker](../bbugyi200.apollo.research.0m.linker/README.md) | research.0m hood | waiting |
 | [research.0m.mus](../bbugyi200.apollo.research.0m.mus/README.md) | research.0m hood | completed |
