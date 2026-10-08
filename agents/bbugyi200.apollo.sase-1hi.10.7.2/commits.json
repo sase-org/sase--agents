@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f677250dac0c51de98703eb2412ce6d8"}
+{"commits":[{"committed_at":1791492274,"sha":"3412a9f1bdc51737beb8ed38449530e1ea0b4c60","subject":"feat(completion): pass CLI proposal as -S with kind-plus-selector caches and exact-wins scoping"}],"schema_version":2,"source_run_id":"run-f677250dac0c51de98703eb2412ce6d8"}
