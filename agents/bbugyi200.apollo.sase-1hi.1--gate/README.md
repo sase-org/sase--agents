@@ -24,8 +24,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1hi.1.1.1](../bbugyi200.apollo.sase-1hi.1.1.1/README.md) | descendant | completed |
-| [sase-1hi.1.1.2](../bbugyi200.apollo.sase-1hi.1.1.2/README.md) | descendant | active |
-| [sase-1hi.1.1.3](../bbugyi200.apollo.sase-1hi.1.1.3/README.md) | descendant | waiting |
+| [sase-1hi.1.1.2](../bbugyi200.apollo.sase-1hi.1.1.2/README.md) | descendant | completed |
+| [sase-1hi.1.1.3](../bbugyi200.apollo.sase-1hi.1.1.3/README.md) | descendant | active |
 | [sase-1hi.1.1.4](../bbugyi200.apollo.sase-1hi.1.1.4/README.md) | descendant | waiting |
 | [sase-1hi.1.1.land](../bbugyi200.apollo.sase-1hi.1.1.land/README.md) | descendant | waiting |
 | [sase-1hi.2](../bbugyi200.apollo.sase-1hi.2/README.md) | sase-1hi hood | completed |
