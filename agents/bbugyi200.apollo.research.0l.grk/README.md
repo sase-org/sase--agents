@@ -12,10 +12,29 @@
 - Provider: grok
 - Timing: 2026-10-08T14:20:09.025364+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/auto\_directive\_cross\_surface\_ux/auto\_directive\_cross\_surface\_ux\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261008101928/auto\_direct… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/auto_directive_cross_surface_ux/auto_directive_cross_surface_ux__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261008101928/auto_directive_cross_surface_ux__grk-d6d567b043f1.md
+  ref: file:explicit:c3883f3383612148788c8b89
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_21/sase/repos/research/202610/auto_directive_cross_surface_ux/auto_directive_cross_surface_ux__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
