@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1hi](../../users/bbugyi200/machines/apollo/hoods/sase-1hi/README.md) / sase-1hi.4
 
-**Global name:** `bbugyi200.apollo.sase-1hi.4` · **State:** active · **Source run:** `run-d0b9434cd54f7017d6360f93c3a01725`
+**Global name:** `bbugyi200.apollo.sase-1hi.4` · **State:** completed · **Source run:** `run-d0b9434cd54f7017d6360f93c3a01725`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1hi
 
@@ -12,12 +12,12 @@
 - Epic: [sase-1hi](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1hi/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-08T04:21:20.416122+00:00
+- Timing: 2026-10-08T04:21:20.416122+00:00 → 2026-10-08T05:45:46.231439+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -37,9 +37,9 @@
 | [sase-1hi.1.1.land](../../sessions/bbugyi200.apollo.sase-1hi.1.1.land.md) (session · 3) | sase-1hi hood | completed 2, failed 1 |
 | [sase-1hi.2](../bbugyi200.apollo.sase-1hi.2/README.md) | sase-1hi hood | completed |
 | [sase-1hi.3](../../sessions/bbugyi200.apollo.sase-1hi.3.md) (session · 7) | sase-1hi hood | completed 4, failed 3 |
-| [sase-1hi.5](../bbugyi200.apollo.sase-1hi.5/README.md) | sase-1hi hood | waiting |
-| [sase-1hi.6](../bbugyi200.apollo.sase-1hi.6/README.md) | sase-1hi hood | waiting |
-| [sase-1hi.7](../bbugyi200.apollo.sase-1hi.7/README.md) | sase-1hi hood | waiting |
-| [sase-1hi.8](../bbugyi200.apollo.sase-1hi.8/README.md) | sase-1hi hood | waiting |
+| [sase-1hi.5](../bbugyi200.apollo.sase-1hi.5/README.md) | sase-1hi hood | active |
+| [sase-1hi.6](../../sessions/bbugyi200.apollo.sase-1hi.6.md) (session · 3) | sase-1hi hood | active 2, failed 1 |
+| [sase-1hi.7](../../sessions/bbugyi200.apollo.sase-1hi.7.md) (session · 5) | sase-1hi hood | active 1, completed 2, failed 2 |
+| [sase-1hi.8](../../sessions/bbugyi200.apollo.sase-1hi.8.md) (session · 2) | sase-1hi hood | active 1, completed 1 |
 | [sase-1hi.9](../bbugyi200.apollo.sase-1hi.9/README.md) | sase-1hi hood | waiting |
 | [sase-1hi.land](../bbugyi200.apollo.sase-1hi.land/README.md) | sase-1hi hood | waiting |
