@@ -12,6 +12,7 @@
 - Provider: codex
 - Timing: 2026-10-08T14:19:57.134435+00:00
 - Commits: [1](#commits)
+- Variables: [1](#variables)
 
 ## Files
 
@@ -23,14 +24,32 @@
 |---|---|---|---|
 | sase | [`152f4c3`](https://github.com/sase-org/sase/commit/152f4c3c98fce27fdedabf7cb0dd2b775eeb2d68) | docs: research sase-dev update option | 2026-06-25 21:45:16 EDT |
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/auto\_directive\_ux\_session\_controls\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261008101923/auto\_directive\_ux\_session\_controls\_\_cdx-… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/auto_directive_ux_session_controls__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261008101923/auto_directive_ux_session_controls__cdx-51b2b18a95cc.md
+  ref: file:explicit:98e1cb47b277b9154ff3acc8
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202610/auto_directive_ux_session_controls__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.0l.cld](../bbugyi200.apollo.research.0l.cld/README.md) | research.0l hood | active |
 | [research.0l.final](../bbugyi200.apollo.research.0l.final/README.md) | research.0l hood | waiting |
-| [research.0l.gem](../bbugyi200.apollo.research.0l.gem/README.md) | research.0l hood | active |
-| [research.0l.grk](../bbugyi200.apollo.research.0l.grk/README.md) | research.0l hood | active |
+| [research.0l.gem](../bbugyi200.apollo.research.0l.gem/README.md) | research.0l hood | completed |
+| [research.0l.grk](../bbugyi200.apollo.research.0l.grk/README.md) | research.0l hood | completed |
 | [research.0l.image](../bbugyi200.apollo.research.0l.image/README.md) | research.0l hood | waiting |
 | [research.0l.linker](../bbugyi200.apollo.research.0l.linker/README.md) | research.0l hood | waiting |
 | [research.0l.mus](../bbugyi200.apollo.research.0l.mus/README.md) | research.0l hood | completed |
