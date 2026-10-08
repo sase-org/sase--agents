@@ -12,6 +12,7 @@
 - Provider: claude
 - Timing: 2026-10-08T17:52:43.405113+00:00
 - Commits: [1](#commits)
+- Variables: [1](#variables)
 
 ## Files
 
@@ -23,14 +24,32 @@
 |---|---|---|---|
 | sase | [`5af9b38`](https://github.com/sase-org/sase/commit/5af9b3810ecf5f378dbb47a770203cbef0f091dd) | docs: Add research on merging amd init into memory init | 2026-06-26 11:39:59 EDT |
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_listen\_first\_class\_plugin\_commands\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261008135202/sase\_listen\_first\_class\_plugin\_comm… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_listen_first_class_plugin_commands__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261008135202/sase_listen_first_class_plugin_commands__cld-d8ac1a64527a.md
+  ref: file:explicit:5bb7220439f37390c2c7e681
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_21/sase/repos/research/202610/sase_listen_first_class_plugin_commands__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.0n.cdx](../bbugyi200.apollo.research.0n.cdx/README.md) | research.0n hood | active |
+| [research.0n.cdx](../bbugyi200.apollo.research.0n.cdx/README.md) | research.0n hood | completed |
 | [research.0n.final](../bbugyi200.apollo.research.0n.final/README.md) | research.0n hood | waiting |
 | [research.0n.final.f1](../bbugyi200.apollo.research.0n.final.f1/README.md) | research.0n hood | completed |
-| [research.0n.gem](../bbugyi200.apollo.research.0n.gem/README.md) | research.0n hood | active |
+| [research.0n.gem](../bbugyi200.apollo.research.0n.gem/README.md) | research.0n hood | completed |
 | [research.0n.grk](../bbugyi200.apollo.research.0n.grk/README.md) | research.0n hood | active |
 | [research.0n.image](../bbugyi200.apollo.research.0n.image/README.md) | research.0n hood | waiting |
 | [research.0n.linker](../bbugyi200.apollo.research.0n.linker/README.md) | research.0n hood | waiting |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0n.gem
 
-**Global name:** `bbugyi200.apollo.research.0n.gem` · **State:** active · **Source run:** `run-c60e6f064f7aa07327e59b683ae012dd`
+**Global name:** `bbugyi200.apollo.research.0n.gem` · **State:** completed · **Source run:** `run-c60e6f064f7aa07327e59b683ae012dd`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-10-08T17:52:56.352336+00:00
+- Timing: 2026-10-08T17:52:56.352336+00:00 → 2026-10-08T18:09:59.853915+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -40,7 +40,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.0n.cdx](../bbugyi200.apollo.research.0n.cdx/README.md) | research.0n hood | active |
+| [research.0n.cdx](../bbugyi200.apollo.research.0n.cdx/README.md) | research.0n hood | completed |
 | [research.0n.cld](../bbugyi200.apollo.research.0n.cld/README.md) | research.0n hood | active |
 | [research.0n.final](../bbugyi200.apollo.research.0n.final/README.md) | research.0n hood | waiting |
 | [research.0n.final.f1](../bbugyi200.apollo.research.0n.final.f1/README.md) | research.0n hood | completed |

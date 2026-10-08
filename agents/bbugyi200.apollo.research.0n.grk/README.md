@@ -12,20 +12,39 @@
 - Provider: grok
 - Timing: 2026-10-08T17:52:47.493808+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_listen\_first\_class\_plugin\_cli\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261008135203/sase\_listen\_first\_class\_plugin\_cli\_\_grk-… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_listen_first_class_plugin_cli__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261008135203/sase_listen_first_class_plugin_cli__grk-604e3b89aae2.md
+  ref: file:explicit:5feae6f3abd371c5f3058838
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_22/sase/repos/research/202610/sase_listen_first_class_plugin_cli__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.0n.cdx](../bbugyi200.apollo.research.0n.cdx/README.md) | research.0n hood | active |
+| [research.0n.cdx](../bbugyi200.apollo.research.0n.cdx/README.md) | research.0n hood | completed |
 | [research.0n.cld](../bbugyi200.apollo.research.0n.cld/README.md) | research.0n hood | active |
 | [research.0n.final](../bbugyi200.apollo.research.0n.final/README.md) | research.0n hood | waiting |
 | [research.0n.final.f1](../bbugyi200.apollo.research.0n.final.f1/README.md) | research.0n hood | completed |
-| [research.0n.gem](../bbugyi200.apollo.research.0n.gem/README.md) | research.0n hood | active |
+| [research.0n.gem](../bbugyi200.apollo.research.0n.gem/README.md) | research.0n hood | completed |
 | [research.0n.image](../bbugyi200.apollo.research.0n.image/README.md) | research.0n hood | waiting |
 | [research.0n.linker](../bbugyi200.apollo.research.0n.linker/README.md) | research.0n hood | waiting |
 | [research.0n.mus](../bbugyi200.apollo.research.0n.mus/README.md) | research.0n hood | completed |
