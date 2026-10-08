@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1hi](../../users/bbugyi200/machines/apollo/hoods/sase-1hi/README.md) / [sase-1hi.10.4](../../sessions/bbugyi200.apollo.sase-1hi.10.4.md) / sase-1hi.10.4--1
 
-**Global name:** `bbugyi200.apollo.sase-1hi.10.4--1` · **State:** active · **Source run:** `run-054cd7d22279eae5ce8aef8a7238a625`
+**Global name:** `bbugyi200.apollo.sase-1hi.10.4--1` · **State:** completed · **Source run:** `run-054cd7d22279eae5ce8aef8a7238a625`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1hi
 
@@ -11,12 +11,12 @@
 - Bead: [sase-1hi.10.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1hi/sase-1hi.10.4.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-08T14:54:39.666894+00:00
+- Timing: 2026-10-08T14:54:39.666894+00:00 → 2026-10-08T15:06:28.171420+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -30,9 +30,9 @@
 |---|---|---|
 | [sase-1hi.10.1](../../sessions/bbugyi200.apollo.sase-1hi.10.1.md) (session · 5) | sase-1hi.10 hood | completed 3, failed 2 |
 | [sase-1hi.10.2](../../sessions/bbugyi200.apollo.sase-1hi.10.2.md) (session · 11) | sase-1hi.10 hood | completed 6, failed 5 |
-| [sase-1hi.10.3](../../sessions/bbugyi200.apollo.sase-1hi.10.3.md) (session · 3) | sase-1hi.10 hood | active 1, completed 1, failed 1 |
-| [sase-1hi.10.5](../bbugyi200.apollo.sase-1hi.10.5/README.md) | sase-1hi.10 hood | waiting |
-| [sase-1hi.10.6](../../sessions/bbugyi200.apollo.sase-1hi.10.6.md) (session · 4) | sase-1hi.10 hood | active 1, completed 2, failed 1 |
+| [sase-1hi.10.3](../../sessions/bbugyi200.apollo.sase-1hi.10.3.md) (session · 3) | sase-1hi.10 hood | completed 2, failed 1 |
+| [sase-1hi.10.5](../../sessions/bbugyi200.apollo.sase-1hi.10.5.md) (session · 3) | sase-1hi.10 hood | active 1, completed 1, failed 1 |
+| [sase-1hi.10.6](../../sessions/bbugyi200.apollo.sase-1hi.10.6.md) (session · 6) | sase-1hi.10 hood | active 1, completed 3, failed 2 |
 | [sase-1hi.10.land](../bbugyi200.apollo.sase-1hi.10.land/README.md) | sase-1hi.10 hood | waiting |
 | [sase-1hi.1](../../sessions/bbugyi200.apollo.sase-1hi.1.md) (session · 3) | sase-1hi hood | failed 3 |
 | [sase-1hi.1.1.1](../bbugyi200.apollo.sase-1hi.1.1.1/README.md) | sase-1hi hood | completed |
