@@ -12,6 +12,7 @@
 - Provider: claude
 - Timing: 2026-10-08T14:51:00.379877+00:00
 - Commits: [1](#commits)
+- Variables: [1](#variables)
 
 ## Files
 
@@ -22,6 +23,24 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`a323d33`](https://github.com/sase-org/sase/commit/a323d33fa42dada649e9f8d4b041ef692ddd396b) | docs: consolidate sase dev update research | 2026-06-25 21:52:05 EDT |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/auto\_autonomy\_profiles\_ux/auto\_autonomy\_profiles\_ux\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261008101932/auto\_autonomy\_profile… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/auto_autonomy_profiles_ux/auto_autonomy_profiles_ux__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261008101932/auto_autonomy_profiles_ux__final-c38e6bbb9dc8.md
+  ref: file:explicit:1ea641e6779d169dff6b2ea9
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_19/sase/repos/research/202610/auto_autonomy_profiles_ux/auto_autonomy_profiles_ux__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
