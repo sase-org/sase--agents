@@ -58,10 +58,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1hi.10.1](bbugyi200.apollo.sase-1hi.10.1.md) (session · 5) | sase-1hi.10 hood | completed 3, failed 2 |
-| [sase-1hi.10.3](../agents/bbugyi200.apollo.sase-1hi.10.3/README.md) | sase-1hi.10 hood | active |
-| [sase-1hi.10.4](bbugyi200.apollo.sase-1hi.10.4.md) (session · 3) | sase-1hi.10 hood | active 2, failed 1 |
+| [sase-1hi.10.3](bbugyi200.apollo.sase-1hi.10.3.md) (session · 3) | sase-1hi.10 hood | active 1, completed 1, failed 1 |
+| [sase-1hi.10.4](bbugyi200.apollo.sase-1hi.10.4.md) (session · 5) | sase-1hi.10 hood | active 1, completed 2, failed 2 |
 | [sase-1hi.10.5](../agents/bbugyi200.apollo.sase-1hi.10.5/README.md) | sase-1hi.10 hood | waiting |
-| [sase-1hi.10.6](bbugyi200.apollo.sase-1hi.10.6.md) (session · 3) | sase-1hi.10 hood | active 2, failed 1 |
+| [sase-1hi.10.6](bbugyi200.apollo.sase-1hi.10.6.md) (session · 4) | sase-1hi.10 hood | active 1, completed 2, failed 1 |
 | [sase-1hi.10.land](../agents/bbugyi200.apollo.sase-1hi.10.land/README.md) | sase-1hi.10 hood | waiting |
 | [sase-1hi.1](bbugyi200.apollo.sase-1hi.1.md) (session · 3) | sase-1hi hood | failed 3 |
 | [sase-1hi.1.1.1](../agents/bbugyi200.apollo.sase-1hi.1.1.1/README.md) | sase-1hi hood | completed |

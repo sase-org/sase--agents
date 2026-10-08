@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1hi](../../users/bbugyi200/machines/apollo/hoods/sase-1hi/README.md) / [sase-1hi.10.6](../../sessions/bbugyi200.apollo.sase-1hi.10.6.md) / sase-1hi.10.6--plan
 
-**Global name:** `bbugyi200.apollo.sase-1hi.10.6--plan` · **State:** active · **Source run:** `run-18d76c92f1250f7a69538642d95f57a2`
+**Global name:** `bbugyi200.apollo.sase-1hi.10.6--plan` · **State:** completed · **Source run:** `run-18d76c92f1250f7a69538642d95f57a2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1hi
 
@@ -12,7 +12,7 @@
 - Epic: [sase-1hi.10](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1hi/sase-1hi.10.md)
 - Model: gpt-6.1-sol
 - Provider: codex
-- Timing: 2026-10-08T14:06:08.585312+00:00
+- Timing: 2026-10-08T14:06:08.585312+00:00 → 2026-10-08T14:54:16.160360+00:00
 - Commits: 0
 
 ## Files
@@ -25,8 +25,8 @@
 |---|---|---|
 | [sase-1hi.10.1](../../sessions/bbugyi200.apollo.sase-1hi.10.1.md) (session · 5) | sase-1hi.10 hood | completed 3, failed 2 |
 | [sase-1hi.10.2](../../sessions/bbugyi200.apollo.sase-1hi.10.2.md) (session · 11) | sase-1hi.10 hood | completed 6, failed 5 |
-| [sase-1hi.10.3](../bbugyi200.apollo.sase-1hi.10.3/README.md) | sase-1hi.10 hood | active |
-| [sase-1hi.10.4](../../sessions/bbugyi200.apollo.sase-1hi.10.4.md) (session · 3) | sase-1hi.10 hood | active 2, failed 1 |
+| [sase-1hi.10.3](../../sessions/bbugyi200.apollo.sase-1hi.10.3.md) (session · 3) | sase-1hi.10 hood | active 1, completed 1, failed 1 |
+| [sase-1hi.10.4](../../sessions/bbugyi200.apollo.sase-1hi.10.4.md) (session · 5) | sase-1hi.10 hood | active 1, completed 2, failed 2 |
 | [sase-1hi.10.5](../bbugyi200.apollo.sase-1hi.10.5/README.md) | sase-1hi.10 hood | waiting |
 | [sase-1hi.10.land](../bbugyi200.apollo.sase-1hi.10.land/README.md) | sase-1hi.10 hood | waiting |
 | [sase-1hi.1](../../sessions/bbugyi200.apollo.sase-1hi.1.md) (session · 3) | sase-1hi hood | failed 3 |
