@@ -29,7 +29,7 @@
 | [sase-1hi.1.1.4](../bbugyi200.apollo.sase-1hi.1.1.4/README.md) | descendant | completed |
 | [sase-1hi.1.1.land](../../sessions/bbugyi200.apollo.sase-1hi.1.1.land.md) (session · 3) | descendant | completed 2, failed 1 |
 | [sase-1hi.10.1](../../sessions/bbugyi200.apollo.sase-1hi.10.1.md) (session · 5) | sase-1hi hood | completed 3, failed 2 |
-| [sase-1hi.10.2](../../sessions/bbugyi200.apollo.sase-1hi.10.2.md) (session · 3) | sase-1hi hood | active 2, failed 1 |
+| [sase-1hi.10.2](../../sessions/bbugyi200.apollo.sase-1hi.10.2.md) (session · 11) | sase-1hi hood | active 1, completed 5, failed 5 |
 | [sase-1hi.10.3](../bbugyi200.apollo.sase-1hi.10.3/README.md) | sase-1hi hood | waiting |
 | [sase-1hi.10.4](../bbugyi200.apollo.sase-1hi.10.4/README.md) | sase-1hi hood | waiting |
 | [sase-1hi.10.5](../bbugyi200.apollo.sase-1hi.10.5/README.md) | sase-1hi hood | waiting |
