@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-bdf0e68192bd3852d26506252549fefb"}
+{"commits":[{"committed_at":1791496952,"sha":"991c8b4dd7c74b7b4c044c53aaffc6d23a169642","subject":"feat(plugin-commands): list plugin commands in root help and sase doctor"}],"schema_version":2,"source_run_id":"run-bdf0e68192bd3852d26506252549fefb"}

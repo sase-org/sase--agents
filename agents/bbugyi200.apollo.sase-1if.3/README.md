@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-08T20:53:52.769237+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`991c8b4`](https://github.com/sase-org/sase/commit/991c8b4dd7c74b7b4c044c53aaffc6d23a169642) | feat(plugin-commands): list plugin commands in root help and sase doctor | 2026-10-08 18:02:32 EDT |
 
 ## Neighbors
 
@@ -26,7 +32,7 @@
 | [sase-1if.1](../bbugyi200.apollo.sase-1if.1/README.md) | sase-1if hood | completed |
 | [sase-1if.10](../bbugyi200.apollo.sase-1if.10/README.md) | sase-1if hood | waiting |
 | [sase-1if.2](../bbugyi200.apollo.sase-1if.2/README.md) | sase-1if hood | completed |
-| [sase-1if.4](../../sessions/bbugyi200.apollo.sase-1if.4.md) (session · 3) | sase-1if hood | active 1, completed 1, failed 1 |
+| [sase-1if.4](../../sessions/bbugyi200.apollo.sase-1if.4.md) (session · 3) | sase-1if hood | completed 2, failed 1 |
 | [sase-1if.5](../bbugyi200.apollo.sase-1if.5/README.md) | sase-1if hood | waiting |
 | [sase-1if.6](../bbugyi200.apollo.sase-1if.6/README.md) | sase-1if hood | waiting |
 | [sase-1if.7](../bbugyi200.apollo.sase-1if.7/README.md) | sase-1if hood | waiting |
