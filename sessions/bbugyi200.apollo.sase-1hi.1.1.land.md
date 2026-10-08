@@ -33,8 +33,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1hi.1.1.3](../agents/bbugyi200.apollo.sase-1hi.1.1.3/README.md) | sase-1hi.1.1 hood | completed |
 | [sase-1hi.1.1.4](../agents/bbugyi200.apollo.sase-1hi.1.1.4/README.md) | sase-1hi.1.1 hood | completed |
 | [sase-1hi.2](../agents/bbugyi200.apollo.sase-1hi.2/README.md) | sase-1hi hood | completed |
-| [sase-1hi.3](bbugyi200.apollo.sase-1hi.3.md) (session · 7) | sase-1hi hood | active 1, completed 3, failed 3 |
-| [sase-1hi.4](../agents/bbugyi200.apollo.sase-1hi.4/README.md) | sase-1hi hood | waiting |
+| [sase-1hi.3](bbugyi200.apollo.sase-1hi.3.md) (session · 7) | sase-1hi hood | completed 4, failed 3 |
+| [sase-1hi.4](../agents/bbugyi200.apollo.sase-1hi.4/README.md) | sase-1hi hood | active |
 | [sase-1hi.5](../agents/bbugyi200.apollo.sase-1hi.5/README.md) | sase-1hi hood | waiting |
 | [sase-1hi.6](../agents/bbugyi200.apollo.sase-1hi.6/README.md) | sase-1hi hood | waiting |
 | [sase-1hi.7](../agents/bbugyi200.apollo.sase-1hi.7/README.md) | sase-1hi hood | waiting |

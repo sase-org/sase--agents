@@ -2,13 +2,13 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / sase-1hi
 
-**Global hood:** `bbugyi200.apollo.sase-1hi` · **Runs:** 25 · **Sessions:** 3 · **States:** active 1, completed 10, failed 7, waiting 7
+**Global hood:** `bbugyi200.apollo.sase-1hi` · **Runs:** 25 · **Sessions:** 3 · **States:** active 1, completed 11, failed 7, waiting 6
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [sase-1hi.3--1](../../../../../../sessions/bbugyi200.apollo.sase-1hi.3.md#member-1) | completed | muse-spark-1.3-contributor / muse | 2026-10-08T03:29:46.084176+00:00 → 2026-10-08T03:32:23.942231+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1hi.3--1/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.sase-1hi.3--1/chat.md) |
 | [sase-1hi.3--mon-0](../../../../../../sessions/bbugyi200.apollo.sase-1hi.3.md#member-mon-0) | failed | muse-spark-1.3-contributor / muse | 2026-10-08T03:31:53.347935+00:00 → 2026-10-08T03:33:01.618057+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1hi.3--mon-0/chat.md) |
-| [sase-1hi.3--2](../../../../../../sessions/bbugyi200.apollo.sase-1hi.3.md#member-2) | active | muse-spark-1.3-contributor / muse | 2026-10-08T03:33:01.511379+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1hi.3--2/prompt.md) |
+| [sase-1hi.3--2](../../../../../../sessions/bbugyi200.apollo.sase-1hi.3.md#member-2) | completed | muse-spark-1.3-contributor / muse | 2026-10-08T03:33:01.511379+00:00 → 2026-10-08T04:21:36.400190+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1hi.3--2/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.sase-1hi.3--2/chat.md) |
 | [sase-1hi.land](../../../../../../agents/bbugyi200.apollo.sase-1hi.land/README.md) | waiting | opus / claude | 20261007184916 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1hi.land/prompt.md) |
 | [sase-1hi.7](../../../../../../agents/bbugyi200.apollo.sase-1hi.7/README.md) | waiting | gpt-6.1-sol / codex | 20261007184913 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1hi.7/prompt.md) |
 | [sase-1hi.8](../../../../../../agents/bbugyi200.apollo.sase-1hi.8/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261007184914 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1hi.8/prompt.md) |
@@ -24,7 +24,7 @@
 | [sase-1hi.1--plan](../../../../../../sessions/bbugyi200.apollo.sase-1hi.1.md#member-plan) | failed | gpt-6.1-sol / codex | 2026-10-07T22:49:40.701648+00:00 → 2026-10-07T23:00:13.995835+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1hi.1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.sase-1hi.1--plan/chat.md) |
 | [sase-1hi.3--mon](../../../../../../sessions/bbugyi200.apollo.sase-1hi.3.md#member-mon) | failed | muse-spark-1.3-contributor / muse | 2026-10-08T03:05:14.959164+00:00 → 2026-10-08T03:29:46.142079+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1hi.3--mon/chat.md) |
 | [sase-1hi.6](../../../../../../agents/bbugyi200.apollo.sase-1hi.6/README.md) | waiting | grok-4.7 / grok | 20261007184912 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1hi.6/prompt.md) |
-| [sase-1hi.4](../../../../../../agents/bbugyi200.apollo.sase-1hi.4/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261007184910 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1hi.4/prompt.md) |
+| [sase-1hi.4](../../../../../../agents/bbugyi200.apollo.sase-1hi.4/README.md) | active | muse-spark-1.3-contributor / muse | 2026-10-08T04:21:20.416122+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1hi.4/prompt.md) |
 | [sase-1hi.9](../../../../../../agents/bbugyi200.apollo.sase-1hi.9/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261007184915 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1hi.9/prompt.md) |
 | [sase-1hi.5](../../../../../../agents/bbugyi200.apollo.sase-1hi.5/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261007184911 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1hi.5/prompt.md) |
 | [sase-1hi.3--plan](../../../../../../sessions/bbugyi200.apollo.sase-1hi.3.md#member-plan) | completed | grok-4.7 / grok | 2026-10-08T02:33:46.949226+00:00 → 2026-10-08T03:05:49.056241+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1hi.3--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.sase-1hi.3--plan/chat.md) |
