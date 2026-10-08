@@ -1,0 +1,37 @@
+# Session: toobig-7b.agent\_scan\_wire\_markers.0
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [toobig-7b](../users/bbugyi200/machines/athena/hoods/toobig-7b/README.md) / toobig-7b.agent\_scan\_wire\_markers.0
+
+Owner: `bbugyi200.athena` · Hood: `toobig-7b` · Members: 3
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["toobig-7b.agent_scan_wire_markers.0--plan [completed]"]
+  n1["toobig-7b.agent_scan_wire_markers.0--mon [failed]"]
+  n0 --> n1
+  n2["toobig-7b.agent_scan_wire_markers.0--1 [completed]"]
+  n0 --> n2
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-plan"></a>plan | toobig-7b.agent\_scan\_wire\_markers.0--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-07T21:58:30.115201+00:00 → 2026-10-07T22:19:25.203252+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-7b.agent_scan_wire_markers.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-7b.agent_scan_wire_markers.0--plan/chat.md) |
+| <a id="member-mon"></a>mon | toobig-7b.agent\_scan\_wire\_markers.0--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-07T22:17:22.436773+00:00 → 2026-10-07T22:23:22.581388+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-7b.agent_scan_wire_markers.0--mon/chat.md) |
+| <a id="member-1"></a>1 | toobig-7b.agent\_scan\_wire\_markers.0--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-07T22:27:01.241962+00:00 → 2026-10-07T22:40:15.325860+00:00 | [1](../agents/bbugyi200.athena.toobig-7b.agent_scan_wire_markers.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-7b.agent_scan_wire_markers.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-7b.agent_scan_wire_markers.0--1/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`f10bf6c`](https://github.com/sase-org/sase/commit/f10bf6cd24c253f3f1ddd53f001edc080c6acc5f) | refactor(core): split agent\_scan\_wire\_markers into facade plus epic and finalizer modules | 2026-10-07 18:36:57 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [toobig-7b.test\_continuation\_replay\_hydration.0](../agents/bbugyi200.athena.toobig-7b.test_continuation_replay_hydration.0/README.md) | toobig-7b hood | completed |
+| [toobig-7b.test\_wait\_epic\_follow\_release.0](bbugyi200.athena.toobig-7b.test_wait_epic_follow_release.0.md) (session · 3) | toobig-7b hood | completed 2, failed 1 |
