@@ -42,11 +42,12 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 |---|---|---|
 | [research.0n.cdx](../bbugyi200.apollo.research.0n.cdx/README.md) | research.0n hood | completed |
 | [research.0n.cld](../bbugyi200.apollo.research.0n.cld/README.md) | research.0n hood | completed |
-| [research.0n.final](../bbugyi200.apollo.research.0n.final/README.md) | research.0n hood | active |
+| [research.0n.final](../bbugyi200.apollo.research.0n.final/README.md) | research.0n hood | completed |
 | [research.0n.final.f1](../bbugyi200.apollo.research.0n.final.f1/README.md) | research.0n hood | completed |
 | [research.0n.grk](../bbugyi200.apollo.research.0n.grk/README.md) | research.0n hood | completed |
-| [research.0n.image](../bbugyi200.apollo.research.0n.image/README.md) | research.0n hood | waiting |
+| [research.0n.image](../bbugyi200.apollo.research.0n.image/README.md) | research.0n hood | active |
 | [research.0n.linker](../bbugyi200.apollo.research.0n.linker/README.md) | research.0n hood | waiting |
+| [research.0n.linker.w0](../bbugyi200.apollo.research.0n.linker.w0/README.md) | research.0n hood | waiting |
 | [research.0n.mus](../bbugyi200.apollo.research.0n.mus/README.md) | research.0n hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |

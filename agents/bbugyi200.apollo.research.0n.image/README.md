@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0n.image
 
-**Global name:** `bbugyi200.apollo.research.0n.image` · **State:** waiting · **Source run:** `run-2c4aa0301534b605cbb45592d0a8d658`
+**Global name:** `bbugyi200.apollo.research.0n.image` · **State:** active · **Source run:** `run-2c4aa0301534b605cbb45592d0a8d658`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,8 +10,9 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261008135208
+- Timing: 2026-10-08T18:32:10.221234+00:00
 - Commits: [1](#commits)
+- Variables: [1](#variables)
 
 ## Files
 
@@ -23,17 +24,36 @@
 |---|---|---|---|
 | sase | [`0089626`](https://github.com/sase-org/sase/commit/008962676a48224d9093f0cec644a5a5ac8f6584) | docs: add AMD memory init infographic | 2026-06-26 11:52:20 EDT |
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: research:202610/sase\_listen\_plugin\_commands/sase\_listen\_plugin\_commands\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261008135208/sase\_listen\_pl… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: research:202610/sase_listen_plugin_commands/sase_listen_plugin_commands_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261008135208/sase_listen_plugin_commands_infographic-59cf3478dbc6.png
+  ref: file:explicit:7c43f967411732a5ad689f13
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/sase_listen_plugin_commands/sase_listen_plugin_commands_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.0n.cdx](../bbugyi200.apollo.research.0n.cdx/README.md) | research.0n hood | completed |
 | [research.0n.cld](../bbugyi200.apollo.research.0n.cld/README.md) | research.0n hood | completed |
-| [research.0n.final](../bbugyi200.apollo.research.0n.final/README.md) | research.0n hood | active |
+| [research.0n.final](../bbugyi200.apollo.research.0n.final/README.md) | research.0n hood | completed |
 | [research.0n.final.f1](../bbugyi200.apollo.research.0n.final.f1/README.md) | research.0n hood | completed |
 | [research.0n.gem](../bbugyi200.apollo.research.0n.gem/README.md) | research.0n hood | completed |
 | [research.0n.grk](../bbugyi200.apollo.research.0n.grk/README.md) | research.0n hood | completed |
 | [research.0n.linker](../bbugyi200.apollo.research.0n.linker/README.md) | research.0n hood | waiting |
+| [research.0n.linker.w0](../bbugyi200.apollo.research.0n.linker.w0/README.md) | research.0n hood | waiting |
 | [research.0n.mus](../bbugyi200.apollo.research.0n.mus/README.md) | research.0n hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
