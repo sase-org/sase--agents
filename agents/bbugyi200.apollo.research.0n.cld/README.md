@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0n.cld
 
-**Global name:** `bbugyi200.apollo.research.0n.cld` · **State:** active · **Source run:** `run-d347c00f05a0dc4e160ada35d87cfc8f`
+**Global name:** `bbugyi200.apollo.research.0n.cld` · **State:** completed · **Source run:** `run-d347c00f05a0dc4e160ada35d87cfc8f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-08T17:52:43.405113+00:00
+- Timing: 2026-10-08T17:52:43.405113+00:00 → 2026-10-08T18:14:31.790230+00:00
 - Commits: [1](#commits)
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -47,10 +47,10 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [research.0n.cdx](../bbugyi200.apollo.research.0n.cdx/README.md) | research.0n hood | completed |
-| [research.0n.final](../bbugyi200.apollo.research.0n.final/README.md) | research.0n hood | waiting |
+| [research.0n.final](../bbugyi200.apollo.research.0n.final/README.md) | research.0n hood | active |
 | [research.0n.final.f1](../bbugyi200.apollo.research.0n.final.f1/README.md) | research.0n hood | completed |
 | [research.0n.gem](../bbugyi200.apollo.research.0n.gem/README.md) | research.0n hood | completed |
-| [research.0n.grk](../bbugyi200.apollo.research.0n.grk/README.md) | research.0n hood | active |
+| [research.0n.grk](../bbugyi200.apollo.research.0n.grk/README.md) | research.0n hood | completed |
 | [research.0n.image](../bbugyi200.apollo.research.0n.image/README.md) | research.0n hood | waiting |
 | [research.0n.linker](../bbugyi200.apollo.research.0n.linker/README.md) | research.0n hood | waiting |
 | [research.0n.mus](../bbugyi200.apollo.research.0n.mus/README.md) | research.0n hood | completed |
