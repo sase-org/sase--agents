@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0m.linker.w0
 
-**Global name:** `bbugyi200.apollo.research.0m.linker.w0` · **State:** waiting · **Source run:** `run-617cbd71c53396145cc81588200b7bf2`
+**Global name:** `bbugyi200.apollo.research.0m.linker.w0` · **State:** active · **Source run:** `run-617cbd71c53396145cc81588200b7bf2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -21,13 +21,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.0m.linker](../bbugyi200.apollo.research.0m.linker/README.md) | ancestor | waiting |
+| [research.0m.linker](../bbugyi200.apollo.research.0m.linker/README.md) | ancestor | active |
 | [research.0m.cdx](../bbugyi200.apollo.research.0m.cdx/README.md) | research.0m hood | completed |
 | [research.0m.cld](../bbugyi200.apollo.research.0m.cld/README.md) | research.0m hood | completed |
 | [research.0m.final](../bbugyi200.apollo.research.0m.final/README.md) | research.0m hood | completed |
 | [research.0m.gem](../bbugyi200.apollo.research.0m.gem/README.md) | research.0m hood | completed |
 | [research.0m.grk](../bbugyi200.apollo.research.0m.grk/README.md) | research.0m hood | completed |
-| [research.0m.image](../bbugyi200.apollo.research.0m.image/README.md) | research.0m hood | active |
+| [research.0m.image](../bbugyi200.apollo.research.0m.image/README.md) | research.0m hood | completed |
 | [research.0m.mus](../bbugyi200.apollo.research.0m.mus/README.md) | research.0m hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
