@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-08T16:04:02.536304+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/auto\_autonomy\_verifiable\_epic\_boundaries\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261008120330/auto\_autonomy\_verifiable\_epic\_boun… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/auto_autonomy_verifiable_epic_boundaries__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261008120330/auto_autonomy_verifiable_epic_boundaries__cdx-b8312a98daf8.md
+  ref: file:explicit:71a5834f5bc1b12a8c3971b7
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/auto_autonomy_verifiable_epic_boundaries__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
