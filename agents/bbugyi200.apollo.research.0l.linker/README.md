@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0l.linker
 
-**Global name:** `bbugyi200.apollo.research.0l.linker` · **State:** waiting · **Source run:** `run-d90c1160292fb6ee9f4e654d18b1a54d`
+**Global name:** `bbugyi200.apollo.research.0l.linker` · **State:** active · **Source run:** `run-d90c1160292fb6ee9f4e654d18b1a54d`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261008101935
+- Timing: 2026-10-08T15:24:00.207901+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/auto\_autonomy\_profiles\_ux/auto\_autonomy\_profiles\_ux.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261008101935/auto\_autonomy\_profiles\_ux-9d… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/auto_autonomy_profiles_ux/auto_autonomy_profiles_ux.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261008101935/auto_autonomy_profiles_ux-9ddbef99d04c.md
+  ref: file:explicit:bb567dde25d21574a52a54e2
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202610/auto_autonomy_profiles_ux/auto_autonomy_profiles_ux.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -26,7 +45,7 @@
 | [research.0l.final](../bbugyi200.apollo.research.0l.final/README.md) | research.0l hood | completed |
 | [research.0l.gem](../bbugyi200.apollo.research.0l.gem/README.md) | research.0l hood | completed |
 | [research.0l.grk](../bbugyi200.apollo.research.0l.grk/README.md) | research.0l hood | completed |
-| [research.0l.image](../bbugyi200.apollo.research.0l.image/README.md) | research.0l hood | active |
+| [research.0l.image](../bbugyi200.apollo.research.0l.image/README.md) | research.0l hood | completed |
 | [research.0l.mus](../bbugyi200.apollo.research.0l.mus/README.md) | research.0l hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
