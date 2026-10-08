@@ -8,10 +8,10 @@ Owner: `bbugyi200.apollo` · Hood: `sase-1hi` · Members: 3 · Bead: [sase-1hi.1
 
 ```mermaid
 flowchart TD
-  n0["sase-1hi.1.1.land--plan [active]"]
+  n0["sase-1hi.1.1.land--plan [completed]"]
   n1["sase-1hi.1.1.land--gate [failed]"]
   n0 --> n1
-  n2["sase-1hi.1.1.land--code [active]"]
+  n2["sase-1hi.1.1.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-1hi.1.1.land--plan | active | gpt-6.1-sol / codex | 2026-10-08T01:55:43.808060+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.1.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.1.1.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-1hi.1.1.land--plan | completed | gpt-6.1-sol / codex | 2026-10-08T01:55:43.808060+00:00 → 2026-10-08T02:50:58.481111+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.1.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.1.1.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-1hi.1.1.land--gate | failed | gpt-6.1-sol / codex | 2026-10-08T02:05:27.859429+00:00 → 2026-10-08T02:05:39.879525+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.1.1.land--gate/chat.md) |
-| <a id="member-code"></a>code | sase-1hi.1.1.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-08T02:05:59.344424+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-1hi.1.1.land--code | completed | muse-spark-1.3-contributor / muse | 2026-10-08T02:05:59.344424+00:00 → 2026-10-08T02:50:58.481111+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.1.1.land--code/chat.md) |
 
 ## Neighbors
 
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1hi.1.1.3](../agents/bbugyi200.apollo.sase-1hi.1.1.3/README.md) | sase-1hi.1.1 hood | completed |
 | [sase-1hi.1.1.4](../agents/bbugyi200.apollo.sase-1hi.1.1.4/README.md) | sase-1hi.1.1 hood | completed |
 | [sase-1hi.2](../agents/bbugyi200.apollo.sase-1hi.2/README.md) | sase-1hi hood | completed |
-| [sase-1hi.3](bbugyi200.apollo.sase-1hi.3.md) (session · 3) | sase-1hi hood | active 2, failed 1 |
+| [sase-1hi.3](bbugyi200.apollo.sase-1hi.3.md) (session · 7) | sase-1hi hood | active 1, completed 3, failed 3 |
 | [sase-1hi.4](../agents/bbugyi200.apollo.sase-1hi.4/README.md) | sase-1hi hood | waiting |
 | [sase-1hi.5](../agents/bbugyi200.apollo.sase-1hi.5/README.md) | sase-1hi hood | waiting |
 | [sase-1hi.6](../agents/bbugyi200.apollo.sase-1hi.6/README.md) | sase-1hi hood | waiting |
