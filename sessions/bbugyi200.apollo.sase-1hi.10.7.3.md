@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `sase-1hi` · Members: 9 · Bead: [sase-1hi.1
 ```mermaid
 flowchart TD
   n0["sase-1hi.10.7.3--mon-0 [failed]"]
-  n1["sase-1hi.10.7.3--3 [active]"]
+  n1["sase-1hi.10.7.3--3 [completed]"]
   n0 --> n1
   n2["sase-1hi.10.7.3--gate [failed]"]
   n0 --> n2
@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon-0"></a>mon-0 | sase-1hi.10.7.3--mon-0 | failed | muse-spark-1.3-contributor / muse | 2026-10-08T18:23:09.931056+00:00 → 2026-10-08T18:40:46.084714+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.3--mon-0/chat.md) |
-| <a id="member-3"></a>3 | sase-1hi.10.7.3--3 | active | muse-spark-1.3-contributor / muse | 2026-10-08T19:44:01.805419+00:00 | [1](../agents/bbugyi200.apollo.sase-1hi.10.7.3--3/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.3--3/prompt.md) | — |
+| <a id="member-3"></a>3 | sase-1hi.10.7.3--3 | completed | muse-spark-1.3-contributor / muse | 2026-10-08T19:44:01.805419+00:00 → 2026-10-08T19:54:10.830362+00:00 | [1](../agents/bbugyi200.apollo.sase-1hi.10.7.3--3/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.3--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.3--3/chat.md) |
 | <a id="member-gate"></a>gate | sase-1hi.10.7.3--gate | failed | grok-4.7 / grok | 2026-10-08T17:29:55.652162+00:00 → 2026-10-08T17:30:07.120275+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.3--gate/chat.md) |
 | <a id="member-code"></a>code | sase-1hi.10.7.3--code | completed | muse-spark-1.3-contributor / muse | 2026-10-08T17:30:25.241900+00:00 → 2026-10-08T18:05:44.845382+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.3--code/chat.md) |
 | <a id="member-1"></a>1 | sase-1hi.10.7.3--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-08T18:18:36.013532+00:00 → 2026-10-08T18:23:43.936843+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.3--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.3--1/chat.md) |
@@ -51,7 +51,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1hi.10.7.1](bbugyi200.apollo.sase-1hi.10.7.1.md) (session · 11) | sase-1hi.10.7 hood | active 1, completed 5, failed 5 |
+| [sase-1hi.10.7.1](bbugyi200.apollo.sase-1hi.10.7.1.md) (session · 13) | sase-1hi.10.7 hood | active 1, completed 6, failed 6 |
 | [sase-1hi.10.7.2](../agents/bbugyi200.apollo.sase-1hi.10.7.2/README.md) | sase-1hi.10.7 hood | waiting |
 | [sase-1hi.10.7.4](../agents/bbugyi200.apollo.sase-1hi.10.7.4/README.md) | sase-1hi.10.7 hood | waiting |
 | [sase-1hi.10.7.5](../agents/bbugyi200.apollo.sase-1hi.10.7.5/README.md) | sase-1hi.10.7 hood | waiting |

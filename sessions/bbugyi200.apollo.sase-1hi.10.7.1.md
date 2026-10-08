@@ -2,13 +2,13 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [sase-1hi](../users/bbugyi200/machines/apollo/hoods/sase-1hi/README.md) / sase-1hi.10.7.1
 
-Owner: `bbugyi200.apollo` · Hood: `sase-1hi` · Members: 11 · Bead: [sase-1hi.10.7.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1hi/sase-1hi.10.7.1.md)
+Owner: `bbugyi200.apollo` · Hood: `sase-1hi` · Members: 13 · Bead: [sase-1hi.10.7.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1hi/sase-1hi.10.7.1.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-1hi.10.7.1--4 [active]"]
+  n0["sase-1hi.10.7.1--4 [completed]"]
   n1["sase-1hi.10.7.1--mon-2 [failed]"]
   n0 --> n1
   n2["sase-1hi.10.7.1--plan [completed]"]
@@ -27,15 +27,19 @@ flowchart TD
   n0 --> n8
   n9["sase-1hi.10.7.1--1 [completed]"]
   n0 --> n9
-  n10["sase-1hi.10.7.1--3 [completed]"]
+  n10["sase-1hi.10.7.1--mon-3 [failed]"]
   n0 --> n10
+  n11["sase-1hi.10.7.1--5 [active]"]
+  n0 --> n11
+  n12["sase-1hi.10.7.1--3 [completed]"]
+  n0 --> n12
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-4"></a>4 | sase-1hi.10.7.1--4 | active | muse-spark-1.3-contributor / muse | 2026-10-08T19:45:33.317966+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.1--4/prompt.md) | — |
+| <a id="member-4"></a>4 | sase-1hi.10.7.1--4 | completed | muse-spark-1.3-contributor / muse | 2026-10-08T19:45:33.317966+00:00 → 2026-10-08T19:55:35.426987+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.1--4/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.1--4/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | sase-1hi.10.7.1--mon-2 | failed | muse-spark-1.3-contributor / muse | 2026-10-08T19:00:01.654460+00:00 → 2026-10-08T19:45:33.778054+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.1--mon-2/chat.md) |
 | <a id="member-plan"></a>plan | sase-1hi.10.7.1--plan | completed | gpt-6.1-sol / codex | 2026-10-08T17:18:06.211299+00:00 → 2026-10-08T17:50:12.408591+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.1--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.1--plan/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-1hi.10.7.1--mon-1 | failed | muse-spark-1.3-contributor / muse | 2026-10-08T18:43:30.697530+00:00 → 2026-10-08T18:50:34.525285+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.1--mon-1/chat.md) |
@@ -45,14 +49,22 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | sase-1hi.10.7.1--code | completed | muse-spark-1.3-contributor / muse | 2026-10-08T17:28:56.477708+00:00 → 2026-10-08T17:50:12.408591+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.1--code/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-1hi.10.7.1--mon-0 | failed | muse-spark-1.3-contributor / muse | 2026-10-08T18:34:22.713881+00:00 → 2026-10-08T18:40:48.306165+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.1--mon-0/chat.md) |
 | <a id="member-1"></a>1 | sase-1hi.10.7.1--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-08T18:21:07.081917+00:00 → 2026-10-08T18:34:53.078277+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.1--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.1--1/chat.md) |
+| <a id="member-mon-3"></a>mon-3 | sase-1hi.10.7.1--mon-3 | failed | muse-spark-1.3-contributor / muse | 2026-10-08T19:54:57.654205+00:00 → 2026-10-08T20:02:00.735548+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.1--mon-3/chat.md) |
+| <a id="member-5"></a>5 | sase-1hi.10.7.1--5 | active | muse-spark-1.3-contributor / muse | 2026-10-08T20:02:00.411728+00:00 | [1](../agents/bbugyi200.apollo.sase-1hi.10.7.1--5/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.1--5/prompt.md) | — |
 | <a id="member-3"></a>3 | sase-1hi.10.7.1--3 | completed | muse-spark-1.3-contributor / muse | 2026-10-08T18:50:34.192916+00:00 → 2026-10-08T19:01:00.547060+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.1--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.1--3/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 5 | sase | [`eb646c3`](https://github.com/sase-org/sase/commit/eb646c3d71d9b4ef18586b402fa861f06a23ed03) | feat(gate): reuse accepted answers, durable stale\_review records, single resolver and quiet receipts (sase-1hi.10.7.1) | 2026-10-08 16:07:06 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1hi.10.7.2](../agents/bbugyi200.apollo.sase-1hi.10.7.2/README.md) | sase-1hi.10.7 hood | waiting |
-| [sase-1hi.10.7.3](bbugyi200.apollo.sase-1hi.10.7.3.md) (session · 9) | sase-1hi.10.7 hood | active 1, completed 4, failed 4 |
+| [sase-1hi.10.7.3](bbugyi200.apollo.sase-1hi.10.7.3.md) (session · 9) | sase-1hi.10.7 hood | completed 5, failed 4 |
 | [sase-1hi.10.7.4](../agents/bbugyi200.apollo.sase-1hi.10.7.4/README.md) | sase-1hi.10.7 hood | waiting |
 | [sase-1hi.10.7.5](../agents/bbugyi200.apollo.sase-1hi.10.7.5/README.md) | sase-1hi.10.7 hood | waiting |
 | [sase-1hi.10.7.land](../agents/bbugyi200.apollo.sase-1hi.10.7.land/README.md) | sase-1hi.10.7 hood | waiting |
