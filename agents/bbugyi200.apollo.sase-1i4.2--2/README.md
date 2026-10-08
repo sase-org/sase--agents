@@ -29,5 +29,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1i4.1](../bbugyi200.apollo.sase-1i4.1/README.md) | sase-1i4 hood | completed |
-| [sase-1i4.3](../../sessions/bbugyi200.apollo.sase-1i4.3.md) (session · 9) | sase-1i4 hood | active 1, completed 4, failed 4 |
-| [sase-1i4.land](../bbugyi200.apollo.sase-1i4.land/README.md) | sase-1i4 hood | waiting |
+| [sase-1i4.3](../../sessions/bbugyi200.apollo.sase-1i4.3.md) (session · 9) | sase-1i4 hood | completed 5, failed 4 |
+| [sase-1i4.land](../bbugyi200.apollo.sase-1i4.land/README.md) | sase-1i4 hood | active |

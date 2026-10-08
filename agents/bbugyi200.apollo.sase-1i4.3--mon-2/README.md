@@ -24,4 +24,4 @@
 |---|---|---|
 | [sase-1i4.1](../bbugyi200.apollo.sase-1i4.1/README.md) | sase-1i4 hood | completed |
 | [sase-1i4.2](../../sessions/bbugyi200.apollo.sase-1i4.2.md) (session · 5) | sase-1i4 hood | completed 3, failed 2 |
-| [sase-1i4.land](../bbugyi200.apollo.sase-1i4.land/README.md) | sase-1i4 hood | waiting |
+| [sase-1i4.land](../bbugyi200.apollo.sase-1i4.land/README.md) | sase-1i4 hood | active |
