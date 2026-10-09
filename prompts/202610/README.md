@@ -35,6 +35,7 @@
 | [0yq.md](0yq.md) | gh:gh_sase-org__sase Can you do some research with the goal of recommending a | - | [bbugyi200.athena.0yq](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0yq/README.md) | 0 |
 | [0yr.md](0yr.md) | %queue(weight=1) %auto #fork:0yr--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.athena.0yr--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0yr.md) | 0 |
 | [0yt.md](0yt.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202610/mac_pom_ten_second_flash.md %m:@medium | - | [bbugyi200.athena.0yt](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0yt/README.md) | 0 |
+| [0yv.md](0yv.md) | gh:gh_sase-org__sase Can you do some research with the goal of helping me figure out | - | [bbugyi200.athena.0yv](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0yv/README.md) | 0 |
 | [3r.md](3r.md) | %queue(weight=1) %auto #fork:3r--4 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3r--5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3r.md) | 0 |
 | [3v.md](3v.md) | %queue(weight=1) %auto #fork:3v--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3v--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3v.md) | 0 |
 | [41.md](41.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202610/memory_history_landing_fixes.md | - | [bbugyi200.apollo.41](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.apollo.41/README.md) | 0 |
