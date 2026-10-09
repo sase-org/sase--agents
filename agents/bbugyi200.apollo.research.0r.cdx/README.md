@@ -12,6 +12,7 @@
 - Provider: codex
 - Timing: 2026-10-09T21:35:18.006521+00:00
 - Commits: [1](#commits)
+- Variables: [1](#variables)
 
 ## Files
 
@@ -22,6 +23,24 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`8d023ac`](https://github.com/sase-org/sase/commit/8d023ac1e31a78e026fff6e349f8f0b2c2e2ec36) | docs: research TUI prompt catalog auto reload | 2026-06-27 09:07:37 EDT |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/muse\_reply\_streaming\_live\_probes\_snapshot\_starvation\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261009173435/muse\_reply\_streaming\_l… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/muse_reply_streaming_live_probes_snapshot_starvation__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261009173435/muse_reply_streaming_live_probes_snapshot_starvation__cdx-20f14587ba38.md
+  ref: file:explicit:bfcf729a27cb04346d6ecbb1
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/muse_reply_streaming_live_probes_snapshot_starvation__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
