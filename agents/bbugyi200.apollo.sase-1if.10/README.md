@@ -33,4 +33,4 @@
 | [sase-1if.7](../bbugyi200.apollo.sase-1if.7/README.md) | sase-1if hood | waiting |
 | [sase-1if.8](../bbugyi200.apollo.sase-1if.8/README.md) | sase-1if hood | completed |
 | [sase-1if.9](../bbugyi200.apollo.sase-1if.9/README.md) | sase-1if hood | completed |
-| [sase-1if.land](../bbugyi200.apollo.sase-1if.land/README.md) | sase-1if hood | waiting |
+| [sase-1if.land](../bbugyi200.apollo.sase-1if.land/README.md) | sase-1if hood | active |

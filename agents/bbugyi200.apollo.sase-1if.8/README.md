@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1if.1](../bbugyi200.apollo.sase-1if.1/README.md) | sase-1if hood | completed |
-| [sase-1if.10](../../sessions/bbugyi200.apollo.sase-1if.10.md) (session · 2) | sase-1if hood | active 1, completed 1 |
+| [sase-1if.10](../../sessions/bbugyi200.apollo.sase-1if.10.md) (session · 3) | sase-1if hood | completed 2, failed 1 |
 | [sase-1if.10](../bbugyi200.apollo.sase-1if.10/README.md) | sase-1if hood | waiting |
 | [sase-1if.2](../bbugyi200.apollo.sase-1if.2/README.md) | sase-1if hood | completed |
 | [sase-1if.3](../bbugyi200.apollo.sase-1if.3/README.md) | sase-1if hood | completed |
@@ -34,4 +34,4 @@
 | [sase-1if.7](../../sessions/bbugyi200.apollo.sase-1if.7.md) (session · 3) | sase-1if hood | completed 2, failed 1 |
 | [sase-1if.7](../bbugyi200.apollo.sase-1if.7/README.md) | sase-1if hood | waiting |
 | [sase-1if.9](../bbugyi200.apollo.sase-1if.9/README.md) | sase-1if hood | completed |
-| [sase-1if.land](../bbugyi200.apollo.sase-1if.land/README.md) | sase-1if hood | waiting |
+| [sase-1if.land](../bbugyi200.apollo.sase-1if.land/README.md) | sase-1if hood | active |
