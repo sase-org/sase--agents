@@ -1,0 +1,4 @@
+#gh:gh_sase-org__sase Something is wrong with the way that we handle bead attachments. Namely, was the
+attachment that the `bob-cli-5z.land` sase agent failed to read private instead of
+public? If so, why? Make sure your report is useful, easy to understand, and concise.
+#research %m:gpt-6-astra
