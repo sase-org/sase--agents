@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1hi.10.7.5--2 [completed]"]
   n1["sase-1hi.10.7.5--1 [completed]"]
   n0 --> n1
-  n2["sase-1hi.10.7.5--3 [active]"]
+  n2["sase-1hi.10.7.5--3 [completed]"]
   n0 --> n2
   n3["sase-1hi.10.7.5--mon-0 [failed]"]
   n0 --> n3
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-2"></a>2 | sase-1hi.10.7.5--2 | completed | muse-spark-1.3-contributor / muse | 2026-10-08T21:42:49.247631+00:00 → 2026-10-08T22:08:30.715920+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.5--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.5--2/chat.md) |
 | <a id="member-1"></a>1 | sase-1hi.10.7.5--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-08T21:18:00.301259+00:00 → 2026-10-08T21:41:55.588600+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.5--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.5--1/chat.md) |
-| <a id="member-3"></a>3 | sase-1hi.10.7.5--3 | active | muse-spark-1.3-contributor / muse | 2026-10-08T22:24:18.093633+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.5--3/prompt.md) | — |
+| <a id="member-3"></a>3 | sase-1hi.10.7.5--3 | completed | muse-spark-1.3-contributor / muse | 2026-10-08T22:24:18.093633+00:00 → 2026-10-08T22:53:46.560777+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.5--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.5--3/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-1hi.10.7.5--mon-0 | failed | muse-spark-1.3-contributor / muse | 2026-10-08T21:41:12.561160+00:00 → 2026-10-08T21:42:49.403203+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.5--mon-0/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-1hi.10.7.5--mon-1 | failed | muse-spark-1.3-contributor / muse | 2026-10-08T22:06:24.975203+00:00 → 2026-10-08T22:24:18.172937+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.5--mon-1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1hi.10.7.5--plan | completed | gpt-6.1-sol / codex | 2026-10-08T20:38:34.977347+00:00 → 2026-10-08T21:04:02.108552+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.5--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.5--plan/chat.md) |
@@ -49,7 +49,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1hi.10.7.2](../agents/bbugyi200.apollo.sase-1hi.10.7.2/README.md) | sase-1hi.10.7 hood | completed |
 | [sase-1hi.10.7.3](bbugyi200.apollo.sase-1hi.10.7.3.md) (session · 9) | sase-1hi.10.7 hood | completed 5, failed 4 |
 | [sase-1hi.10.7.4](bbugyi200.apollo.sase-1hi.10.7.4.md) (session · 5) | sase-1hi.10.7 hood | completed 3, failed 2 |
-| [sase-1hi.10.7.land](../agents/bbugyi200.apollo.sase-1hi.10.7.land/README.md) | sase-1hi.10.7 hood | waiting |
+| [sase-1hi.10.7.6.1](bbugyi200.apollo.sase-1hi.10.7.6.1.md) (session · 5) | sase-1hi.10.7 hood | active 1, completed 2, failed 2 |
+| [sase-1hi.10.7.6.2](../agents/bbugyi200.apollo.sase-1hi.10.7.6.2/README.md) | sase-1hi.10.7 hood | waiting |
+| [sase-1hi.10.7.6.3](bbugyi200.apollo.sase-1hi.10.7.6.3.md) (session · 3) | sase-1hi.10.7 hood | completed 2, failed 1 |
+| [sase-1hi.10.7.6.4](bbugyi200.apollo.sase-1hi.10.7.6.4.md) (session · 5) | sase-1hi.10.7 hood | completed 2, failed 3 |
+| [sase-1hi.10.7.6.land](../agents/bbugyi200.apollo.sase-1hi.10.7.6.land/README.md) | sase-1hi.10.7 hood | waiting |
+| [sase-1hi.10.7.land](bbugyi200.apollo.sase-1hi.10.7.land.md) (session · 3) | sase-1hi.10.7 hood | failed 3 |
 | [sase-1hi.10.1](bbugyi200.apollo.sase-1hi.10.1.md) (session · 5) | sase-1hi.10 hood | completed 3, failed 2 |
 | [sase-1hi.10.2](bbugyi200.apollo.sase-1hi.10.2.md) (session · 11) | sase-1hi.10 hood | completed 6, failed 5 |
 | [sase-1hi.10.3](bbugyi200.apollo.sase-1hi.10.3.md) (session · 3) | sase-1hi.10 hood | completed 2, failed 1 |

@@ -31,7 +31,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-1"></a>1 | sase-1hi.6--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-08T06:43:00.363122+00:00 → 2026-10-08T06:45:45.929996+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.6--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.6--1/chat.md) |
 | <a id="member-code"></a>code | sase-1hi.6--code | completed | muse-spark-1.3-contributor / muse | 2026-10-08T06:02:12.429300+00:00 → 2026-10-08T06:41:29.910852+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.6--code/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-1hi.6--mon-0 | failed | muse-spark-1.3-contributor / muse | 2026-10-08T06:45:01.557758+00:00 → 2026-10-08T07:35:27.631200+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.6--mon-0/chat.md) |
-| <a id="member-2"></a>2 | sase-1hi.6--2 | completed | muse-spark-1.3-contributor / muse | 2026-10-08T07:35:27.276924+00:00 → 2026-10-08T07:59:59.840175+00:00 | [1](../agents/bbugyi200.apollo.sase-1hi.6--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-1hi.6--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.6--2/chat.md) |
+| <a id="member-2"></a>2 | sase-1hi.6--2 | completed | muse-spark-1.3-contributor / muse | 2026-10-08T07:35:27.276924+00:00 → 2026-10-08T07:59:59.840175+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.6--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.6--2/chat.md) |
 | <a id="member-plan"></a>plan | sase-1hi.6--plan | completed | grok-4.7 / grok | 2026-10-08T05:46:03.269663+00:00 → 2026-10-08T06:41:29.910852+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.6--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.6--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-1hi.6--gate | failed | grok-4.7 / grok | 2026-10-08T06:01:42.366157+00:00 → 2026-10-08T06:01:52.907534+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.6--gate/chat.md) |
 
@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | sase | [`edb0120`](https://github.com/sase-org/sase/commit/edb0120aecf99141c4c3b9a20023aab97d2e0a74) | feat(ace): plan decisions accordion with compact verdict and decision-aware inbox | 2026-10-08 03:55:03 EDT |
+| — | sase | [`edb0120`](https://github.com/sase-org/sase/commit/edb0120aecf99141c4c3b9a20023aab97d2e0a74) | feat(ace): plan decisions accordion with compact verdict and decision-aware inbox | 2026-10-08 03:55:03 EDT |
 
 ## Neighbors
 
@@ -61,8 +61,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1hi.10.7.2](../agents/bbugyi200.apollo.sase-1hi.10.7.2/README.md) | sase-1hi hood | completed |
 | [sase-1hi.10.7.3](bbugyi200.apollo.sase-1hi.10.7.3.md) (session · 9) | sase-1hi hood | completed 5, failed 4 |
 | [sase-1hi.10.7.4](bbugyi200.apollo.sase-1hi.10.7.4.md) (session · 5) | sase-1hi hood | completed 3, failed 2 |
-| [sase-1hi.10.7.5](bbugyi200.apollo.sase-1hi.10.7.5.md) (session · 9) | sase-1hi hood | active 1, completed 4, failed 4 |
-| [sase-1hi.10.7.land](../agents/bbugyi200.apollo.sase-1hi.10.7.land/README.md) | sase-1hi hood | waiting |
+| [sase-1hi.10.7.5](bbugyi200.apollo.sase-1hi.10.7.5.md) (session · 9) | sase-1hi hood | completed 5, failed 4 |
+| [sase-1hi.10.7.6.1](bbugyi200.apollo.sase-1hi.10.7.6.1.md) (session · 5) | sase-1hi hood | active 1, completed 2, failed 2 |
+| [sase-1hi.10.7.6.2](../agents/bbugyi200.apollo.sase-1hi.10.7.6.2/README.md) | sase-1hi hood | waiting |
+| [sase-1hi.10.7.6.3](bbugyi200.apollo.sase-1hi.10.7.6.3.md) (session · 3) | sase-1hi hood | completed 2, failed 1 |
+| [sase-1hi.10.7.6.4](bbugyi200.apollo.sase-1hi.10.7.6.4.md) (session · 5) | sase-1hi hood | completed 2, failed 3 |
+| [sase-1hi.10.7.6.land](../agents/bbugyi200.apollo.sase-1hi.10.7.6.land/README.md) | sase-1hi hood | waiting |
+| [sase-1hi.10.7.land](bbugyi200.apollo.sase-1hi.10.7.land.md) (session · 3) | sase-1hi hood | failed 3 |
 | [sase-1hi.10.land](bbugyi200.apollo.sase-1hi.10.land.md) (session · 3) | sase-1hi hood | failed 3 |
 | [sase-1hi.2](../agents/bbugyi200.apollo.sase-1hi.2/README.md) | sase-1hi hood | completed |
 | [sase-1hi.3](bbugyi200.apollo.sase-1hi.3.md) (session · 7) | sase-1hi hood | completed 4, failed 3 |
