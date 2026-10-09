@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0r.image
 
-**Global name:** `bbugyi200.apollo.research.0r.image` · **State:** waiting · **Source run:** `run-6207955b2e9d6dcb2531f9b91408b26b`
+**Global name:** `bbugyi200.apollo.research.0r.image` · **State:** active · **Source run:** `run-6207955b2e9d6dcb2531f9b91408b26b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,8 +10,9 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261009173447
+- Timing: 2026-10-09T22:28:40.509014+00:00
 - Commits: [1](#commits)
+- Variables: [1](#variables)
 
 ## Files
 
@@ -23,16 +24,35 @@
 |---|---|---|---|
 | sase | [`0682924`](https://github.com/sase-org/sase/commit/0682924ec831c80253075f74764732b05d6f0c7c) | docs: add TUI auto-loading research infographic | 2026-06-27 09:19:38 EDT |
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: research:202610/muse\_reply\_card\_follow\_skips\_workflow\_agents/muse\_reply\_card\_follow\_skips\_workflow\_agents\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: research:202610/muse_reply_card_follow_skips_workflow_agents/muse_reply_card_follow_skips_workflow_agents_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261009173447/muse_reply_card_follow_skips_workflow_agents_infographic-a24b447201bf.png
+  ref: file:explicit:c5436d82a74e3cb237be864b
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/muse_reply_card_follow_skips_workflow_agents/muse_reply_card_follow_skips_workflow_agents_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.0r.cdx](../bbugyi200.apollo.research.0r.cdx/README.md) | research.0r hood | completed |
 | [research.0r.cld](../bbugyi200.apollo.research.0r.cld/README.md) | research.0r hood | completed |
-| [research.0r.final](../bbugyi200.apollo.research.0r.final/README.md) | research.0r hood | active |
+| [research.0r.final](../bbugyi200.apollo.research.0r.final/README.md) | research.0r hood | completed |
 | [research.0r.gem](../bbugyi200.apollo.research.0r.gem/README.md) | research.0r hood | completed |
 | [research.0r.grk](../bbugyi200.apollo.research.0r.grk/README.md) | research.0r hood | completed |
 | [research.0r.linker](../bbugyi200.apollo.research.0r.linker/README.md) | research.0r hood | waiting |
+| [research.0r.linker.w0](../bbugyi200.apollo.research.0r.linker.w0/README.md) | research.0r hood | waiting |
 | [research.0r.mus](../bbugyi200.apollo.research.0r.mus/README.md) | research.0r hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
