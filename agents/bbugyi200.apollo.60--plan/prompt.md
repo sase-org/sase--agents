@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase Can you help me make the dictionary panel look much nicer so the term and 1st definition are clearly recognizable at a glance? See the ~/tmp/screenshots/20261008_201942.png screenshot for an example of what this looks like now. #beau #plan %m:@xlarge %auto %q:2
