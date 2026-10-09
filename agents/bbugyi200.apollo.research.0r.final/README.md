@@ -2,16 +2,20 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0r.final
 
-**Global name:** `bbugyi200.apollo.research.0r.final` · **State:** completed · **Source run:** `run-09407d203b89d75c7d82113f1b34f3df`
+**Global name:** `bbugyi200.apollo.research.0r.final` · **State:** waiting · **Source run:** `run-acab1db54be30ef4adacf19a902a0563`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
 ## Summary
 
-- Model: —
-- Provider: —
-- Timing: 2026-06-27T13:15:37+00:00 → 2026-06-27T13:15:37+00:00
+- Model: opus
+- Provider: claude
+- Timing: 20261009173445
 - Commits: [1](#commits)
+
+## Files
+
+[Prompt](prompt.md)
 
 ## Commits
 
@@ -23,9 +27,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.0r.cdx](../bbugyi200.apollo.research.0r.cdx/README.md) | research.0r hood | completed |
+| [research.0r.cdx](../bbugyi200.apollo.research.0r.cdx/README.md) | research.0r hood | active |
 | [research.0r.cld](../bbugyi200.apollo.research.0r.cld/README.md) | research.0r hood | completed |
-| [research.0r.image](../bbugyi200.apollo.research.0r.image/README.md) | research.0r hood | completed |
+| [research.0r.gem](../bbugyi200.apollo.research.0r.gem/README.md) | research.0r hood | active |
+| [research.0r.grk](../bbugyi200.apollo.research.0r.grk/README.md) | research.0r hood | active |
+| [research.0r.image](../bbugyi200.apollo.research.0r.image/README.md) | research.0r hood | waiting |
+| [research.0r.linker](../bbugyi200.apollo.research.0r.linker/README.md) | research.0r hood | waiting |
+| [research.0r.mus](../bbugyi200.apollo.research.0r.mus/README.md) | research.0r hood | active |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
