@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `sase-1if` · Members: 5 · Bead: [sase-1if.5
 
 ```mermaid
 flowchart TD
-  n0["sase-1if.5--2 [active]"]
+  n0["sase-1if.5--2 [completed]"]
   n1["sase-1if.5--1 [completed]"]
   n0 --> n1
   n2["sase-1if.5--plan [completed]"]
@@ -23,7 +23,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-2"></a>2 | sase-1if.5--2 | active | muse-spark-1.3-contributor / muse | 2026-10-09T07:06:51.458247+00:00 | [1](../agents/bbugyi200.apollo.sase-1if.5--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-1if.5--2/prompt.md) | — |
+| <a id="member-2"></a>2 | sase-1if.5--2 | completed | muse-spark-1.3-contributor / muse | 2026-10-09T07:06:51.458247+00:00 → 2026-10-09T07:33:38.755145+00:00 | [1](../agents/bbugyi200.apollo.sase-1if.5--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-1if.5--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1if.5--2/chat.md) |
 | <a id="member-1"></a>1 | sase-1if.5--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-09T05:51:12.285441+00:00 → 2026-10-09T06:07:00.217103+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1if.5--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1if.5--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1if.5--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-09T01:58:40.487867+00:00 → 2026-10-09T04:51:28.032385+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1if.5--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1if.5--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-1if.5--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-09T04:49:18.458166+00:00 → 2026-10-09T05:50:47.916111+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1if.5--mon/chat.md) |
@@ -44,7 +44,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1if.2](../agents/bbugyi200.apollo.sase-1if.2/README.md) | sase-1if hood | completed |
 | [sase-1if.3](../agents/bbugyi200.apollo.sase-1if.3/README.md) | sase-1if hood | completed |
 | [sase-1if.4](bbugyi200.apollo.sase-1if.4.md) (session · 3) | sase-1if hood | completed 2, failed 1 |
-| [sase-1if.6](../agents/bbugyi200.apollo.sase-1if.6/README.md) | sase-1if hood | waiting |
+| [sase-1if.6](../agents/bbugyi200.apollo.sase-1if.6/README.md) | sase-1if hood | active |
 | [sase-1if.7](../agents/bbugyi200.apollo.sase-1if.7/README.md) | sase-1if hood | waiting |
 | [sase-1if.8](../agents/bbugyi200.apollo.sase-1if.8/README.md) | sase-1if hood | completed |
 | [sase-1if.9](../agents/bbugyi200.apollo.sase-1if.9/README.md) | sase-1if hood | completed |
