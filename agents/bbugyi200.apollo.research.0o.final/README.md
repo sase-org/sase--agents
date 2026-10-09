@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0o.final
 
-**Global name:** `bbugyi200.apollo.research.0o.final` · **State:** waiting · **Source run:** `run-c9c4d23506d85aa341b593fe2a8f60c9`
+**Global name:** `bbugyi200.apollo.research.0o.final` · **State:** completed · **Source run:** `run-c9c4d23506d85aa341b593fe2a8f60c9`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,13 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261008202715
+- Timing: 2026-10-09T01:59:09.403983+00:00 → 2026-10-09T03:50:35.870195+00:00
 - Commits: [1](#commits)
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -23,19 +24,37 @@
 |---|---|---|---|
 | sase | [`e072a65`](https://github.com/sase-org/sase/commit/e072a659bcc85da321227b28923b805f4ec3d75e) | docs: consolidate TUI startup freeze research | 2026-06-26 11:55:32 EDT |
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/can\_hermes\_replace\_sase/can\_hermes\_replace\_sase\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261008202715/can\_hermes\_replace\_sase\_\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/can_hermes_replace_sase/can_hermes_replace_sase__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261008202715/can_hermes_replace_sase__final-59768c6abf58.md
+  ref: file:explicit:a572e9989d52ac7458fedf32
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_16/sase/repos/research/202610/can_hermes_replace_sase/can_hermes_replace_sase__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.0o.final.f1](../bbugyi200.apollo.research.0o.final.f1/README.md) | descendant | completed |
-| [research.0o.audio](../bbugyi200.apollo.research.0o.audio/README.md) | research.0o hood | waiting |
-| [research.0o.cdx](../bbugyi200.apollo.research.0o.cdx/README.md) | research.0o hood | active |
-| [research.0o.cld](../bbugyi200.apollo.research.0o.cld/README.md) | research.0o hood | active |
-| [research.0o.gem](../bbugyi200.apollo.research.0o.gem/README.md) | research.0o hood | active |
-| [research.0o.grk](../bbugyi200.apollo.research.0o.grk/README.md) | research.0o hood | active |
-| [research.0o.image](../bbugyi200.apollo.research.0o.image/README.md) | research.0o hood | waiting |
+| [research.0o.audio](../bbugyi200.apollo.research.0o.audio/README.md) | research.0o hood | active |
+| [research.0o.cdx](../bbugyi200.apollo.research.0o.cdx/README.md) | research.0o hood | completed |
+| [research.0o.cld](../bbugyi200.apollo.research.0o.cld/README.md) | research.0o hood | completed |
+| [research.0o.gem](../bbugyi200.apollo.research.0o.gem/README.md) | research.0o hood | completed |
+| [research.0o.grk](../bbugyi200.apollo.research.0o.grk/README.md) | research.0o hood | completed |
+| [research.0o.image](../bbugyi200.apollo.research.0o.image/README.md) | research.0o hood | active |
 | [research.0o.linker](../bbugyi200.apollo.research.0o.linker/README.md) | research.0o hood | waiting |
-| [research.0o.mus](../bbugyi200.apollo.research.0o.mus/README.md) | research.0o hood | active |
+| [research.0o.mus](../bbugyi200.apollo.research.0o.mus/README.md) | research.0o hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
