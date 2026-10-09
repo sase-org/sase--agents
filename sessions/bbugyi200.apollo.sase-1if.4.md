@@ -36,8 +36,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1if.1](../agents/bbugyi200.apollo.sase-1if.1/README.md) | sase-1if hood | completed |
 | [sase-1if.10](../agents/bbugyi200.apollo.sase-1if.10/README.md) | sase-1if hood | waiting |
 | [sase-1if.2](../agents/bbugyi200.apollo.sase-1if.2/README.md) | sase-1if hood | completed |
-| [sase-1if.3](../agents/bbugyi200.apollo.sase-1if.3/README.md) | sase-1if hood | active |
-| [sase-1if.5](../agents/bbugyi200.apollo.sase-1if.5/README.md) | sase-1if hood | waiting |
+| [sase-1if.3](../agents/bbugyi200.apollo.sase-1if.3/README.md) | sase-1if hood | completed |
+| [sase-1if.5](bbugyi200.apollo.sase-1if.5.md) (session · 5) | sase-1if hood | active 1, completed 2, failed 2 |
 | [sase-1if.6](../agents/bbugyi200.apollo.sase-1if.6/README.md) | sase-1if hood | waiting |
 | [sase-1if.7](../agents/bbugyi200.apollo.sase-1if.7/README.md) | sase-1if hood | waiting |
 | [sase-1if.8](../agents/bbugyi200.apollo.sase-1if.8/README.md) | sase-1if hood | completed |
