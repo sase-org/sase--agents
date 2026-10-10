@@ -40,6 +40,7 @@
 | [0z3.md](0z3.md) | %queue(weight=1) #fork:0z3--code %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.0z3--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0z3.md) | 0 |
 | [0za.f0.md](0za.f0.md) | %queue(weight=1) #fork:0za.f0--code %model:gpt-6-luna@xhigh | - | [bbugyi200.athena.0za.f0--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0za.f0.md) | 0 |
 | [0za.md](0za.md) | %queue(weight=1) #fork:0za--1 %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.0za--2](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0za.md) | 0 |
+| [0zg.md](0zg.md) | %queue(weight=1) #fork:0zg--1 %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.0zg--2](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0zg.md) | 0 |
 | [3r.md](3r.md) | %queue(weight=1) %auto #fork:3r--4 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3r--5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3r.md) | 0 |
 | [3v.md](3v.md) | %queue(weight=1) %auto #fork:3v--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3v--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3v.md) | 0 |
 | [41.md](41.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202610/memory_history_landing_fixes.md | - | [bbugyi200.apollo.41](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.apollo.41/README.md) | 0 |
