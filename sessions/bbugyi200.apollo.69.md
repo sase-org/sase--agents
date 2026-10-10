@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 69--code | active | gpt-6-luna / codex | 2026-10-10T16:15:32.782328+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 69--code | active | muse-spark-1.3-contributor / muse | 2026-10-10T16:15:32.782328+00:00 | 0 | — | — |
 | <a id="member-gate"></a>gate | 69--gate | failed | gpt-6-astra / codex | 2026-10-10T16:14:49.456413+00:00 → 2026-10-10T16:15:05.068115+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.69--gate/chat.md) |
 | <a id="member-plan"></a>plan | 69--plan | active | gpt-6-astra / codex | 2026-10-10T16:10:20.354966+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.69--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.69--plan/chat.md) |
 

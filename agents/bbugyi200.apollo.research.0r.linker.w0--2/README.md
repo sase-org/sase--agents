@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / [research.0r.linker.w0](../../sessions/bbugyi200.apollo.research.0r.linker.w0.md) / research.0r.linker.w0--2
 
-**Global name:** `bbugyi200.apollo.research.0r.linker.w0--2` · **State:** active · **Source run:** `run-7fb8e0521ec1d2a796c636aafdb86769`
+**Global name:** `bbugyi200.apollo.research.0r.linker.w0--2` · **State:** completed · **Source run:** `run-7fb8e0521ec1d2a796c636aafdb86769`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,12 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-10T00:06:54.213792+00:00
+- Timing: 2026-10-10T00:06:54.213792+00:00 → 2026-10-10T00:28:19.775722+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -85,4 +85,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | active |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | active |
-| … and 374 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 379 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

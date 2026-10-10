@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["research.0r.linker.w0--plan [completed]"]
   n0 --> n2
-  n3["research.0r.linker.w0--2 [active]"]
+  n3["research.0r.linker.w0--2 [completed]"]
   n0 --> n3
   n4["research.0r.linker.w0--gate [failed]"]
   n0 --> n4
@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-1"></a>1 | research.0r.linker.w0--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-09T23:51:05.714394+00:00 → 2026-10-09T23:59:11.182750+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.research.0r.linker.w0--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.research.0r.linker.w0--1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | research.0r.linker.w0--mon-0 | failed | muse-spark-1.3-contributor / muse | 2026-10-09T23:58:36.455054+00:00 → 2026-10-10T00:06:54.531688+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.research.0r.linker.w0--mon-0/chat.md) |
 | <a id="member-plan"></a>plan | research.0r.linker.w0--plan | completed | gpt-6-astra / codex | 2026-10-09T22:44:43.010899+00:00 → 2026-10-09T23:27:23.048155+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.research.0r.linker.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.research.0r.linker.w0--plan/chat.md) |
-| <a id="member-2"></a>2 | research.0r.linker.w0--2 | active | muse-spark-1.3-contributor / muse | 2026-10-10T00:06:54.213792+00:00 | [1](../agents/bbugyi200.apollo.research.0r.linker.w0--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.research.0r.linker.w0--2/prompt.md) | — |
+| <a id="member-2"></a>2 | research.0r.linker.w0--2 | completed | muse-spark-1.3-contributor / muse | 2026-10-10T00:06:54.213792+00:00 → 2026-10-10T00:28:19.775722+00:00 | [1](../agents/bbugyi200.apollo.research.0r.linker.w0--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.research.0r.linker.w0--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.research.0r.linker.w0--2/chat.md) |
 | <a id="member-gate"></a>gate | research.0r.linker.w0--gate | failed | gpt-6-astra / codex | 2026-10-09T22:49:23.885169+00:00 → 2026-10-09T22:49:34.857533+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.research.0r.linker.w0--gate/chat.md) |
 | <a id="member-mon"></a>mon | research.0r.linker.w0--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-09T23:26:47.618546+00:00 → 2026-10-09T23:51:06.091168+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.research.0r.linker.w0--mon/chat.md) |
 | <a id="member-code"></a>code | research.0r.linker.w0--code | completed | muse-spark-1.3-contributor / muse | 2026-10-09T22:49:56.049822+00:00 → 2026-10-09T23:27:23.048155+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.research.0r.linker.w0--code/chat.md) |
@@ -103,4 +103,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.09.cdx](../agents/bbugyi200.apollo.research.09.cdx/README.md) | research hood | active |
 | [research.09.cld](../agents/bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
 | [research.09.final](../agents/bbugyi200.apollo.research.09.final/README.md) | research hood | active |
-| … and 374 more in the [hood roster](../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 379 more in the [hood roster](../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
