@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c7eee66f44cdb68d360bb33a92dc31d9"}
+{"commits":[{"committed_at":1791667345,"sha":"cc0ec027ace8a4b7bf34fee64108bce8b10f84b6","subject":"fix(agents): stop live in-process handoffs from reading as finished"}],"schema_version":2,"source_run_id":"run-c7eee66f44cdb68d360bb33a92dc31d9"}
