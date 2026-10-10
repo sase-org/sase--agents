@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0s.audio
 
-**Global name:** `bbugyi200.apollo.research.0s.audio` · **State:** waiting · **Source run:** `run-3049b1c6bb0327e2d1727934134df6b2`
+**Global name:** `bbugyi200.apollo.research.0s.audio` · **State:** active · **Source run:** `run-3049b1c6bb0327e2d1727934134df6b2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,26 @@
 
 - Model: gpt-6.1-sol
 - Provider: codex
-- Timing: 20261010134750
+- Timing: 2026-10-10T18:53:23.655045+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `audio` | {error: 3: No API key found for gemini; api\_key\_command timed out after 15 seconds. Check engines.gemini.api\_key\_command and account quota., ok: false} |
+
+#### audio
+
+```yaml
+error: 3: No API key found for gemini; api_key_command timed out after 15 seconds. Check engines.gemini.api_key_command and account quota.
+ok: false
+```
 
 ## Neighbors
 
@@ -23,10 +37,10 @@
 |---|---|---|
 | [research.0s.cdx](../bbugyi200.apollo.research.0s.cdx/README.md) | research.0s hood | completed |
 | [research.0s.cld](../bbugyi200.apollo.research.0s.cld/README.md) | research.0s hood | completed |
-| [research.0s.final](../bbugyi200.apollo.research.0s.final/README.md) | research.0s hood | active |
+| [research.0s.final](../bbugyi200.apollo.research.0s.final/README.md) | research.0s hood | completed |
 | [research.0s.gem](../bbugyi200.apollo.research.0s.gem/README.md) | research.0s hood | completed |
 | [research.0s.grk](../bbugyi200.apollo.research.0s.grk/README.md) | research.0s hood | completed |
-| [research.0s.image](../bbugyi200.apollo.research.0s.image/README.md) | research.0s hood | waiting |
+| [research.0s.image](../bbugyi200.apollo.research.0s.image/README.md) | research.0s hood | active |
 | [research.0s.linker](../bbugyi200.apollo.research.0s.linker/README.md) | research.0s hood | waiting |
 | [research.0s.mus](../bbugyi200.apollo.research.0s.mus/README.md) | research.0s hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
