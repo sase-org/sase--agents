@@ -1,4 +1,5 @@
-%id(linker, clan=research.0s) %m:@xlarge
+%id(linker, clan=research.0s)
+%m:gpt-6-astra 
 %wait:research.0s.final %wait:research.0s.image %wait:research.0s.audio %q(1.5x, w=0.25)
 #gh:gh_sase-org__sase 
 You are the linker agent for a research swarm. The lead researcher,
@@ -107,13 +108,13 @@ Steps:
      blockquote and above the infographic, with the blank lines shown (they make
      GitHub and pandoc parse the inner Markdown):
 
-     ```markdown
-     <div class="listen">
+     ```
+     `<div` class="listen">
 
      ♫ **Brief audio edition** · 4 min · 3 chapters · [Narration
-     script](<name>_narration.md)
+     script](`<name>`_narration.md)
 
-     </div>
+     `</div>`
      ```
 
      Rules: edition word capitalized (`Brief` / `Full`); minutes =
@@ -177,7 +178,7 @@ Steps:
 
 8. **Register** it as a durable snapshot:
 
-   sase artifact create -p "<absolute-report-path>" -l "research:<repo-relative-report-path>"
+   `sase artifact create -p "<absolute-report-path>" -l "research:<repo-relative-report-path>"` 
 
    Use the report's actual absolute path and its path relative to the research repo
    root, for example `research:202609/<name>/<name>.md`. Use no `--move`. If
