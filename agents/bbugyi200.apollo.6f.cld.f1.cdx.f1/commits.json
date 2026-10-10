@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781372163,"sha":"4473752b0058f94f1e6851acb9f22be72b78c91c","subject":"chore: Add SDD prompt and plan for ace_run_layout_review_fixes"},{"committed_at":1781372948,"sha":"ae6e9ff9ca09916827c66c114bb2611d523d57a4","subject":"fix(agents): support sharded artifact layout readers"}],"schema_version":2,"source_run_id":"run-c409a8b2e6a3ca0a290e04d0ea221cec"}
