@@ -25,5 +25,5 @@
 |---|---|---|
 | [sase-1jo.1](../bbugyi200.apollo.sase-1jo.1/README.md) | sase-1jo hood | completed |
 | [sase-1jo.2](../bbugyi200.apollo.sase-1jo.2/README.md) | sase-1jo hood | completed |
-| [sase-1jo.4](../bbugyi200.apollo.sase-1jo.4/README.md) | sase-1jo hood | active |
-| [sase-1jo.land](../bbugyi200.apollo.sase-1jo.land/README.md) | sase-1jo hood | waiting |
+| [sase-1jo.4](../bbugyi200.apollo.sase-1jo.4/README.md) | sase-1jo hood | completed |
+| [sase-1jo.land](../../sessions/bbugyi200.apollo.sase-1jo.land.md) (session · 3) | sase-1jo hood | active 2, failed 1 |
