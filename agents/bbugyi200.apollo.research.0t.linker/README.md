@@ -2,20 +2,39 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0t.linker
 
-**Global name:** `bbugyi200.apollo.research.0t.linker` · **State:** waiting · **Source run:** `run-b0460689b0db0d3fa8292ef7f39cacf1`
+**Global name:** `bbugyi200.apollo.research.0t.linker` · **State:** active · **Source run:** `run-b0460689b0db0d3fa8292ef7f39cacf1`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
 ## Summary
 
-- Model: opus
-- Provider: claude
-- Timing: 20261010163735
+- Model: gpt-6-astra
+- Provider: codex
+- Timing: 2026-10-10T21:23:16.550846+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/agentic\_software\_engineering\_reading\_list/agentic\_software\_engineering\_reading\_list.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261010163… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/agentic_software_engineering_reading_list/agentic_software_engineering_reading_list.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261010163735/agentic_software_engineering_reading_list-c7a960c68604.md
+  ref: file:explicit:3a8eb314574df2cc606c449c
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/agentic_software_engineering_reading_list/agentic_software_engineering_reading_list.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -26,7 +45,7 @@
 | [research.0t.final](../bbugyi200.apollo.research.0t.final/README.md) | research.0t hood | completed |
 | [research.0t.gem](../bbugyi200.apollo.research.0t.gem/README.md) | research.0t hood | completed |
 | [research.0t.grk](../bbugyi200.apollo.research.0t.grk/README.md) | research.0t hood | completed |
-| [research.0t.image](../bbugyi200.apollo.research.0t.image/README.md) | research.0t hood | active |
+| [research.0t.image](../bbugyi200.apollo.research.0t.image/README.md) | research.0t hood | completed |
 | [research.0t.mus](../bbugyi200.apollo.research.0t.mus/README.md) | research.0t hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
