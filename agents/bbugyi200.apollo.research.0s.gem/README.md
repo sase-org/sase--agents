@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0s.gem
 
-**Global name:** `bbugyi200.apollo.research.0s.gem` · **State:** active · **Source run:** `run-8b469c0627ac5fdec32b00a0cb0db96b`
+**Global name:** `bbugyi200.apollo.research.0s.gem` · **State:** failed · **Source run:** `run-8b469c0627ac5fdec32b00a0cb0db96b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-10-10T17:48:47.595859+00:00
+- Timing: 2026-10-10T17:48:47.595859+00:00 → 2026-10-10T17:59:51.203242+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/databricks\_nyc\_roles\_cv\_design\_and\_pitches\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261010134740/databricks\_nyc\_roles\_cv\_design\_a… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/databricks_nyc_roles_cv_design_and_pitches__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261010134740/databricks_nyc_roles_cv_design_and_pitches__gem-79332ae52b80.md
+  ref: file:explicit:d071f5a26cbac8ffe9c56298
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_18/sase/repos/research/202610/databricks_nyc_roles_cv_design_and_pitches__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -28,7 +47,7 @@
 | [research.0s.grk](../bbugyi200.apollo.research.0s.grk/README.md) | research.0s hood | active |
 | [research.0s.image](../bbugyi200.apollo.research.0s.image/README.md) | research.0s hood | waiting |
 | [research.0s.linker](../bbugyi200.apollo.research.0s.linker/README.md) | research.0s hood | waiting |
-| [research.0s.mus](../bbugyi200.apollo.research.0s.mus/README.md) | research.0s hood | active |
+| [research.0s.mus](../bbugyi200.apollo.research.0s.mus/README.md) | research.0s hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |

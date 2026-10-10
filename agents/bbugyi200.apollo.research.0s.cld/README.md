@@ -12,6 +12,7 @@
 - Provider: claude
 - Timing: 2026-10-10T17:48:33.820372+00:00
 - Commits: [1](#commits)
+- Variables: [1](#variables)
 
 ## Files
 
@@ -23,6 +24,29 @@
 |---|---|---|---|
 | sase | [`03a52fe`](https://github.com/sase-org/sase/commit/03a52fe838468a0b067faf2a393251f54907c1fe) | docs: add research on TUI + xprompt LSP shared-index freeze | 2026-06-27 16:10:10 EDT |
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: pdf, label: Databricks CV draft PDF (research swarm cld), path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261010134732/BryanBugyi\_Databricks\_CV-bb3d83af46c1.pdf, ref: file:explic… |
+
+#### artifacts
+
+```yaml
+- kind: pdf
+  label: Databricks CV draft PDF (research swarm cld)
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261010134732/BryanBugyi_Databricks_CV-bb3d83af46c1.pdf
+  ref: file:explicit:d0edce7849a097d298f3e4c8
+  source_path: /tmp/cld_cv_build/BryanBugyi_Databricks_CV.pdf
+- kind: file
+  label: Databricks CV draft LaTeX source (research swarm cld)
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261010134732/BryanBugyi_Databricks_CV-f3998621cd25.tex
+  ref: file:explicit:5030fdba524bbb7f48fd550a
+  source_path: /tmp/cld_cv_build/BryanBugyi_Databricks_CV.tex
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
@@ -30,11 +54,11 @@
 | [research.0s.audio](../bbugyi200.apollo.research.0s.audio/README.md) | research.0s hood | waiting |
 | [research.0s.cdx](../bbugyi200.apollo.research.0s.cdx/README.md) | research.0s hood | active |
 | [research.0s.final](../bbugyi200.apollo.research.0s.final/README.md) | research.0s hood | waiting |
-| [research.0s.gem](../bbugyi200.apollo.research.0s.gem/README.md) | research.0s hood | active |
+| [research.0s.gem](../bbugyi200.apollo.research.0s.gem/README.md) | research.0s hood | failed |
 | [research.0s.grk](../bbugyi200.apollo.research.0s.grk/README.md) | research.0s hood | active |
 | [research.0s.image](../bbugyi200.apollo.research.0s.image/README.md) | research.0s hood | waiting |
 | [research.0s.linker](../bbugyi200.apollo.research.0s.linker/README.md) | research.0s hood | waiting |
-| [research.0s.mus](../bbugyi200.apollo.research.0s.mus/README.md) | research.0s hood | active |
+| [research.0s.mus](../bbugyi200.apollo.research.0s.mus/README.md) | research.0s hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |

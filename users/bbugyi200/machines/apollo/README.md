@@ -44,7 +44,7 @@
 | [5y](hoods/5y/README.md) | 7 | 1 | active 1, completed 3, failed 3 |
 | [60](hoods/60/README.md) | 6 | 1 | active 1, completed 2, failed 3 |
 | [64](hoods/64/README.md) | 1 | 0 | active 1 |
-| [69](hoods/69/README.md) | 4 | 1 | active 2, completed 1, failed 1 |
+| [69](hoods/69/README.md) | 4 | 1 | completed 3, failed 1 |
 | [6f](hoods/6f/README.md) | 6 | 1 | active 2, completed 3, failed 1 |
 | [claude-code](hoods/claude-code/README.md) | 3 | 0 | completed 3 |
 | [l](hoods/l/README.md) | 3 | 0 | active 1, completed 2 |
@@ -53,7 +53,7 @@
 | [o](hoods/o/README.md) | 2 | 1 | active 1, completed 1 |
 | [p](hoods/p/README.md) | 1 | 1 | active 1 |
 | [r](hoods/r/README.md) | 3 | 0 | active 1, completed 2 |
-| [research](hoods/research/README.md) | 448 | 3 | active 294, completed 141, failed 7, waiting 6 |
+| [research](hoods/research/README.md) | 448 | 3 | active 292, completed 142, failed 8, waiting 6 |
 | [sase-100](hoods/sase-100/README.md) | 23 | 2 | active 1, completed 13, failed 9 |
 | [sase-10j](hoods/sase-10j/README.md) | 4 | 0 | active 1, completed 2, waiting 1 |
 | [sase-12o](hoods/sase-12o/README.md) | 8 | 1 | active 1, completed 5, failed 2 |

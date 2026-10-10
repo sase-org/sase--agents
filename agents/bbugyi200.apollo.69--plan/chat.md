@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** 69--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_sase_org__sase-ace_run-69__plan-261010_091145.md`
+- 2. --code — `~/.sase/chats/202610/gh_sase_org__sase-ace_run-69__code-261010_091145.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/adaptive_update_failure_dialog.md
 
 

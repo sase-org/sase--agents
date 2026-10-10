@@ -12,6 +12,7 @@
 - Provider: codex
 - Timing: 2026-10-10T17:48:29.298756+00:00
 - Commits: [1](#commits)
+- Variables: [1](#variables)
 
 ## Files
 
@@ -23,6 +24,24 @@
 |---|---|---|---|
 | sase | [`f53674e`](https://github.com/sase-org/sase/commit/f53674e04683382a9177808c659ac5800cbb0534) | docs: document TUI freeze and xprompt LSP findings | 2026-06-27 16:14:38 EDT |
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/databricks\_nyc\_cv\_linkedin\_application\_strategy\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261010134728/databricks\_nyc\_cv\_linkedin\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/databricks_nyc_cv_linkedin_application_strategy__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261010134728/databricks_nyc_cv_linkedin_application_strategy__cdx-cffae4872792.md
+  ref: file:explicit:eb7ee9a7173e70982ce674fb
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202610/databricks_nyc_cv_linkedin_application_strategy__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
@@ -30,11 +49,11 @@
 | [research.0s.audio](../bbugyi200.apollo.research.0s.audio/README.md) | research.0s hood | waiting |
 | [research.0s.cld](../bbugyi200.apollo.research.0s.cld/README.md) | research.0s hood | active |
 | [research.0s.final](../bbugyi200.apollo.research.0s.final/README.md) | research.0s hood | waiting |
-| [research.0s.gem](../bbugyi200.apollo.research.0s.gem/README.md) | research.0s hood | active |
+| [research.0s.gem](../bbugyi200.apollo.research.0s.gem/README.md) | research.0s hood | failed |
 | [research.0s.grk](../bbugyi200.apollo.research.0s.grk/README.md) | research.0s hood | active |
 | [research.0s.image](../bbugyi200.apollo.research.0s.image/README.md) | research.0s hood | waiting |
 | [research.0s.linker](../bbugyi200.apollo.research.0s.linker/README.md) | research.0s hood | waiting |
-| [research.0s.mus](../bbugyi200.apollo.research.0s.mus/README.md) | research.0s hood | active |
+| [research.0s.mus](../bbugyi200.apollo.research.0s.mus/README.md) | research.0s hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
