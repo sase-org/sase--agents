@@ -43,6 +43,11 @@
   path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261010134732/BryanBugyi_Databricks_CV-f3998621cd25.tex
   ref: file:explicit:5030fdba524bbb7f48fd550a
   source_path: /tmp/cld_cv_build/BryanBugyi_Databricks_CV.tex
+- kind: markdown
+  label: research:202610/databricks_nyc_application_kit__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261010134732/databricks_nyc_application_kit__cld-a3f7b70a3674.md
+  ref: file:explicit:c347af01fec506220cec380d
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202610/databricks_nyc_application_kit__cld.md
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
@@ -52,7 +57,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [research.0s.audio](../bbugyi200.apollo.research.0s.audio/README.md) | research.0s hood | waiting |
-| [research.0s.cdx](../bbugyi200.apollo.research.0s.cdx/README.md) | research.0s hood | active |
+| [research.0s.cdx](../bbugyi200.apollo.research.0s.cdx/README.md) | research.0s hood | completed |
 | [research.0s.final](../bbugyi200.apollo.research.0s.final/README.md) | research.0s hood | waiting |
 | [research.0s.gem](../bbugyi200.apollo.research.0s.gem/README.md) | research.0s hood | failed |
 | [research.0s.grk](../bbugyi200.apollo.research.0s.grk/README.md) | research.0s hood | active |

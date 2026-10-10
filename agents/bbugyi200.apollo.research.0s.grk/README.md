@@ -12,17 +12,36 @@
 - Provider: grok
 - Timing: 2026-10-10T17:48:38.391005+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/databricks\_nyc\_roles\_cv\_and\_pitches\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261010134735/databricks\_nyc\_roles\_cv\_and\_pitches\_\_gr… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/databricks_nyc_roles_cv_and_pitches__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261010134735/databricks_nyc_roles_cv_and_pitches__grk-cdeabe14b8d8.md
+  ref: file:explicit:6d365937aa8234e255d75511
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_16/sase/repos/research/202610/databricks_nyc_roles_cv_and_pitches__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.0s.audio](../bbugyi200.apollo.research.0s.audio/README.md) | research.0s hood | waiting |
-| [research.0s.cdx](../bbugyi200.apollo.research.0s.cdx/README.md) | research.0s hood | active |
+| [research.0s.cdx](../bbugyi200.apollo.research.0s.cdx/README.md) | research.0s hood | completed |
 | [research.0s.cld](../bbugyi200.apollo.research.0s.cld/README.md) | research.0s hood | active |
 | [research.0s.final](../bbugyi200.apollo.research.0s.final/README.md) | research.0s hood | waiting |
 | [research.0s.gem](../bbugyi200.apollo.research.0s.gem/README.md) | research.0s hood | failed |
