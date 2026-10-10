@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0t.cdx
 
-**Global name:** `bbugyi200.apollo.research.0t.cdx` · **State:** active · **Source run:** `run-167930a97f16d3534bec2e4712e1ebc4`
+**Global name:** `bbugyi200.apollo.research.0t.cdx` · **State:** completed · **Source run:** `run-167930a97f16d3534bec2e4712e1ebc4`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gpt-6.1-sol
 - Provider: codex
-- Timing: 2026-10-10T20:38:25.368392+00:00
+- Timing: 2026-10-10T20:38:25.368392+00:00 → 2026-10-10T20:50:15.602796+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -40,10 +40,10 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.0t.cld](../bbugyi200.apollo.research.0t.cld/README.md) | research.0t hood | active |
-| [research.0t.final](../bbugyi200.apollo.research.0t.final/README.md) | research.0t hood | waiting |
-| [research.0t.gem](../bbugyi200.apollo.research.0t.gem/README.md) | research.0t hood | active |
-| [research.0t.grk](../bbugyi200.apollo.research.0t.grk/README.md) | research.0t hood | active |
+| [research.0t.cld](../bbugyi200.apollo.research.0t.cld/README.md) | research.0t hood | completed |
+| [research.0t.final](../bbugyi200.apollo.research.0t.final/README.md) | research.0t hood | active |
+| [research.0t.gem](../bbugyi200.apollo.research.0t.gem/README.md) | research.0t hood | completed |
+| [research.0t.grk](../bbugyi200.apollo.research.0t.grk/README.md) | research.0t hood | completed |
 | [research.0t.image](../bbugyi200.apollo.research.0t.image/README.md) | research.0t hood | waiting |
 | [research.0t.linker](../bbugyi200.apollo.research.0t.linker/README.md) | research.0t hood | waiting |
 | [research.0t.mus](../bbugyi200.apollo.research.0t.mus/README.md) | research.0t hood | completed |
