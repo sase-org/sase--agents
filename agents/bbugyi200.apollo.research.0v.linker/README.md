@@ -23,10 +23,10 @@
 |---|---|---|
 | [research.0v.cdx](../bbugyi200.apollo.research.0v.cdx/README.md) | research.0v hood | completed |
 | [research.0v.cld](../bbugyi200.apollo.research.0v.cld/README.md) | research.0v hood | completed |
-| [research.0v.final](../bbugyi200.apollo.research.0v.final/README.md) | research.0v hood | active |
+| [research.0v.final](../bbugyi200.apollo.research.0v.final/README.md) | research.0v hood | completed |
 | [research.0v.gem](../bbugyi200.apollo.research.0v.gem/README.md) | research.0v hood | completed |
 | [research.0v.grk](../bbugyi200.apollo.research.0v.grk/README.md) | research.0v hood | completed |
-| [research.0v.image](../bbugyi200.apollo.research.0v.image/README.md) | research.0v hood | waiting |
+| [research.0v.image](../bbugyi200.apollo.research.0v.image/README.md) | research.0v hood | active |
 | [research.0v.mus](../bbugyi200.apollo.research.0v.mus/README.md) | research.0v hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
