@@ -45,6 +45,7 @@
 | [0zh.md](0zh.md) | %queue(weight=1) #fork:0zh--3 %model:@medium | - | [bbugyi200.athena.0zh--4](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0zh.md) | 0 |
 | [0zj.md](0zj.md) | gh:gh_sase-org__sase #coder:202610/safe_git_index_lock_recovery.md %m:@medium | - | [bbugyi200.athena.0zj](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0zj/README.md) | 0 |
 | [0zm.md](0zm.md) | %model:@small #gh:gh_sase-org__sase [@plan:202610/fix_ci_lint_symvision.md][1] | - | [bbugyi200.athena.0zm--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0zm.md) | 1 |
+| [1j.md](1j.md) | gh:gh_sase-org__sase Is the `bob-cli-6l.2.1.6` sase agent running on my apollo machine | - | [bbugyi200.kellys_mbp.1j](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.1j/README.md) | 0 |
 | [3r.md](3r.md) | %queue(weight=1) %auto #fork:3r--4 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3r--5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3r.md) | 0 |
 | [3v.md](3v.md) | %queue(weight=1) %auto #fork:3v--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3v--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3v.md) | 0 |
 | [41.md](41.md) | gh:gh_sase-org__sase #coder:~/.sase/plans/202610/memory_history_landing_fixes.md | - | [bbugyi200.apollo.41](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.apollo.41/README.md) | 0 |
