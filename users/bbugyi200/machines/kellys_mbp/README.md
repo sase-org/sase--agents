@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / kellys\_mbp
 
-**Project:** sase · **Hoods:** 19 · **Runs:** 315
+**Project:** sase · **Hoods:** 21 · **Runs:** 318
 
 | Hood | Runs | Sessions | States |
 |---|---:|---:|---|
@@ -13,6 +13,8 @@
 | [0r](hoods/0r/README.md) | 1 | 0 | active 1 |
 | [0u](hoods/0u/README.md) | 1 | 0 | active 1 |
 | [16](hoods/16/README.md) | 1 | 0 | active 1 |
+| [1g](hoods/1g/README.md) | 1 | 0 | completed 1 |
+| [1j](hoods/1j/README.md) | 2 | 0 | active 1, completed 1 |
 | [5](hoods/5/README.md) | 1 | 0 | dismissed 1 |
 | [claude-code-host](hoods/claude-code-host/README.md) | 1 | 0 | completed 1 |
 | [j](hoods/j/README.md) | 5 | 1 | active 1, completed 2, dismissed 1, failed 1 |
