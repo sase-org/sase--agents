@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4f29af28423e4410445e1fc77560ca02"}
+{"commits":[{"committed_at":1791736121,"sha":"725f7ea04e1d82a2f51a5d9d82a6ccb6f4a0a3da","subject":"fix(plan): validate the formatted plan before propose archives it"}],"schema_version":2,"source_run_id":"run-4f29af28423e4410445e1fc77560ca02"}
