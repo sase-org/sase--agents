@@ -1,0 +1,25 @@
+- **AGENTS:**
+  - [bbugyi200.apollo.research.0v.cdx](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.apollo.research.0v.cdx/README.md)
+
+%id(cdx, clan=research.0v) %m:codex/gpt-6.1-sol@xhigh %q(1.5x, w=0.25)
+#gh:gh_sase-org__sase You are researcher cdx in a 5-researcher swarm. The other
+researchers, `research.0v.cld`, `research.0v.grk`, `research.0v.mus`, `research.0v.gem`,
+are independently investigating the same request and will write their own self-named
+reports ending in `__cld.md` and `__grk.md` and `__mus.md` and `__gem.md`. Your report
+will end in `__cdx.md`.
+
+Conduct your research independently and form your own conclusions. Do NOT attempt to
+locate, open, read, or otherwise consult the other researcher's report from this swarm,
+even if it becomes available before you finish. Do not obtain that peer's findings
+indirectly through its chat transcript, summaries, or requests to the peer. You may
+independently use the same external sources, shared input material, and unrelated prior
+research. You may check filenames or file existence to avoid overwriting your own
+output, but do not inspect the peer's report contents. If you encounter its filename,
+leave the report alone. The lead researcher will read every report and synthesize their
+findings after you have all finished.
+
+Can you do some research on the pi repo (see https://github.com/earendil-works/pi)? How
+does this product compare to sase? In what ways can sase learn from pi? End your
+analysis with a ranked list of improvements to sase that you think I should consider
+implementing to make sase more appealing to someone who already uses pi.
+#research(suffix=cdx)
