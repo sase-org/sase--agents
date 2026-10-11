@@ -43,6 +43,7 @@
 | [0ze.md](0ze.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.0ze--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0ze.md) | 1 |
 | [0zg.md](0zg.md) | %queue(weight=1) #fork:0zg--1 %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.0zg--2](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0zg.md) | 0 |
 | [0zh.md](0zh.md) | %queue(weight=1) #fork:0zh--3 %model:@medium | - | [bbugyi200.athena.0zh--4](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0zh.md) | 0 |
+| [0zj.md](0zj.md) | gh:gh_sase-org__sase #coder:202610/safe_git_index_lock_recovery.md %m:@medium | - | [bbugyi200.athena.0zj](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0zj/README.md) | 0 |
 | [0zm.md](0zm.md) | %model:@small #gh:gh_sase-org__sase [@plan:202610/fix_ci_lint_symvision.md][1] | - | [bbugyi200.athena.0zm--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0zm.md) | 1 |
 | [3r.md](3r.md) | %queue(weight=1) %auto #fork:3r--4 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3r--5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3r.md) | 0 |
 | [3v.md](3v.md) | %queue(weight=1) %auto #fork:3v--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3v--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3v.md) | 0 |
