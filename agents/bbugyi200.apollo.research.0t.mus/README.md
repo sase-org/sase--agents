@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0t.mus
 
-**Global name:** `bbugyi200.apollo.research.0t.mus` · **State:** completed · **Source run:** `run-c5977f149df6093893bf66e181717ad8`
+**Global name:** `bbugyi200.apollo.research.0t.mus` · **State:** active · **Source run:** `run-c5977f149df6093893bf66e181717ad8`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-10T20:38:46.616234+00:00 → 2026-10-10T20:47:55.908424+00:00
+- Timing: 2026-10-10T20:38:46.616234+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
@@ -40,12 +40,12 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.0t.cdx](../bbugyi200.apollo.research.0t.cdx/README.md) | research.0t hood | completed |
-| [research.0t.cld](../bbugyi200.apollo.research.0t.cld/README.md) | research.0t hood | completed |
-| [research.0t.final](../bbugyi200.apollo.research.0t.final/README.md) | research.0t hood | completed |
-| [research.0t.gem](../bbugyi200.apollo.research.0t.gem/README.md) | research.0t hood | completed |
-| [research.0t.grk](../bbugyi200.apollo.research.0t.grk/README.md) | research.0t hood | completed |
-| [research.0t.image](../bbugyi200.apollo.research.0t.image/README.md) | research.0t hood | completed |
+| [research.0t.cdx](../bbugyi200.apollo.research.0t.cdx/README.md) | research.0t hood | active |
+| [research.0t.cld](../bbugyi200.apollo.research.0t.cld/README.md) | research.0t hood | active |
+| [research.0t.final](../bbugyi200.apollo.research.0t.final/README.md) | research.0t hood | active |
+| [research.0t.gem](../bbugyi200.apollo.research.0t.gem/README.md) | research.0t hood | active |
+| [research.0t.grk](../bbugyi200.apollo.research.0t.grk/README.md) | research.0t hood | active |
+| [research.0t.image](../bbugyi200.apollo.research.0t.image/README.md) | research.0t hood | active |
 | [research.0t.linker](../bbugyi200.apollo.research.0t.linker/README.md) | research.0t hood | active |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
@@ -97,4 +97,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | active |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | active |
-| … and 388 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 396 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
