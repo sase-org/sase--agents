@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.7.final
 
-**Global name:** `bbugyi200.athena.research.7.final` · **State:** dismissed · **Source run:** `run-09249e22ee63095fe428a30d35c814de`
+**Global name:** `bbugyi200.athena.research.7.final` · **State:** completed · **Source run:** `run-6971656394c85fb2a543c11f53464cc3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
 ## Summary
 
-- Model: gpt-5.6-sol
-- Provider: codex
-- Timing: 2026-07-11T11:55:52.249788 → 2026-07-11T12:00:32.117849
+- Model: —
+- Provider: —
+- Timing: 2026-06-11T22:26:58+00:00 → 2026-06-11T22:26:58+00:00
 - Commits: [1](#commits)
-- Variables: [7](#variables)
 
 ## Files
 
@@ -24,29 +23,17 @@
 |---|---|---|---|
 | sase | [`0dc540d`](https://github.com/sase-org/sase/commit/0dc540d15e577e58524eebfa4f05739eebae8ea5) | chore: consolidate TUI screenshot/demo-video research into one doc | 2026-06-11 18:26:58 EDT |
 
-## Variables
-
-| Variable | Value |
-|---|---|
-| `claim_assessment` | missing\_prompt\_part\_confirmed\_universal\_splicing\_denied |
-| `first_agent_splicing` | reject\_as\_general\_rule |
-| `recommendation` | remove\_bang\_marker\_keep\_standalone\_semantics |
-| `remove_bang_syntax` | yes |
-| `remove_standalone_semantics` | no |
-| `research_path` | /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase\_11/.sase/sdd/research/202607/standalone\_xprompt\_final\_research\_20260711.md |
-| `verification` | 145 focused tests passed |
-
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.7.cdx](../bbugyi200.athena.research.7.cdx/README.md) | research.7 hood | dismissed |
-| [research.7.cld](../bbugyi200.athena.research.7.cld/README.md) | research.7 hood | dismissed |
-| [research.7.image](../bbugyi200.athena.research.7.image/README.md) | research.7 hood | dismissed |
-| [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
-| [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
-| [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
-| [research.0.image](../bbugyi200.athena.research.0.image/README.md) | research hood | dismissed |
+| [research.7.cdx](../bbugyi200.athena.research.7.cdx/README.md) | research.7 hood | completed |
+| [research.7.cld](../bbugyi200.athena.research.7.cld/README.md) | research.7 hood | completed |
+| [research.7.image](../bbugyi200.athena.research.7.image/README.md) | research.7 hood | completed |
+| [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
+| [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
+| [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
+| [research.0.image](../bbugyi200.athena.research.0.image/README.md) | research hood | completed |
 | [research.00.cdx](../bbugyi200.athena.research.00.cdx/README.md) | research hood | active |
 | [research.00.cld](../bbugyi200.athena.research.00.cld/README.md) | research hood | active |
 | [research.00.final](../bbugyi200.athena.research.00.final/README.md) | research hood | active |
@@ -93,4 +80,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 532 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 933 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

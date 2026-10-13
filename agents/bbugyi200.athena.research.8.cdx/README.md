@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.8.cdx
 
-**Global name:** `bbugyi200.athena.research.8.cdx` · **State:** dismissed · **Source run:** `run-ecc26154c3e201f0a7a3f7e8ae4eff63`
+**Global name:** `bbugyi200.athena.research.8.cdx` · **State:** completed · **Source run:** `run-c02b3fc9b255a9e82301632c018c3c76`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
 ## Summary
 
-- Model: gpt-5.6-sol
-- Provider: codex
-- Timing: 2026-07-11T18:57:37.826377 → 2026-07-11T19:01:53.500001
+- Model: —
+- Provider: —
+- Timing: 2026-06-11T23:10:44+00:00 → 2026-06-11T23:10:44+00:00
 - Commits: [1](#commits)
-- Variables: [4](#variables)
 
 ## Files
 
@@ -24,26 +23,17 @@
 |---|---|---|---|
 | sase | [`4b7bccb`](https://github.com/sase-org/sase/commit/4b7bccbcc458cff2c6e276ad3daa723c8e1feaf6) | chore: add repeat STOP variable research | 2026-06-11 19:10:44 EDT |
 
-## Variables
-
-| Variable | Value |
-|---|---|
-| `default_windows` | Public: 90 days plus 2 feature releases; persisted data: 180 days plus 2 feature releases. |
-| `recommendation` | Use an expiring compatibility ledger linked to source/test markers and a pre-created removal bead; fail CI after both calendar and release thresholds pass. |
-| `research_path` | .sase/sdd/research/202607/backward\_compatibility\_sunset\_policy\_research.md |
-| `status` | complete |
-
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.8.cld](../bbugyi200.athena.research.8.cld/README.md) | research.8 hood | dismissed |
-| [research.8.final](../bbugyi200.athena.research.8.final/README.md) | research.8 hood | dismissed |
-| [research.8.image](../bbugyi200.athena.research.8.image/README.md) | research.8 hood | dismissed |
-| [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
-| [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
-| [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
-| [research.0.image](../bbugyi200.athena.research.0.image/README.md) | research hood | dismissed |
+| [research.8.cld](../bbugyi200.athena.research.8.cld/README.md) | research.8 hood | completed |
+| [research.8.final](../bbugyi200.athena.research.8.final/README.md) | research.8 hood | completed |
+| [research.8.image](../bbugyi200.athena.research.8.image/README.md) | research.8 hood | completed |
+| [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
+| [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
+| [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
+| [research.0.image](../bbugyi200.athena.research.0.image/README.md) | research hood | completed |
 | [research.00.cdx](../bbugyi200.athena.research.00.cdx/README.md) | research hood | active |
 | [research.00.cld](../bbugyi200.athena.research.00.cld/README.md) | research hood | active |
 | [research.00.final](../bbugyi200.athena.research.00.final/README.md) | research hood | active |
@@ -90,4 +80,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 532 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 933 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

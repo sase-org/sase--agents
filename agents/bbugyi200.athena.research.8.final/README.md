@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.8.final
 
-**Global name:** `bbugyi200.athena.research.8.final` · **State:** dismissed · **Source run:** `run-0f5ee1f9b90270bcbf72582b45438f45`
+**Global name:** `bbugyi200.athena.research.8.final` · **State:** completed · **Source run:** `run-5962abff135a910304a3098ec1f96dd3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
 ## Summary
 
-- Model: claude-fable-5
-- Provider: claude
-- Timing: 2026-07-11T19:03:56.980578 → 2026-07-11T19:08:47.221984
+- Model: —
+- Provider: —
+- Timing: 2026-06-11T23:21:00+00:00 → 2026-06-11T23:21:00+00:00
 - Commits: [1](#commits)
-- Variables: [7](#variables)
 
 ## Files
 
@@ -24,31 +23,17 @@
 |---|---|---|---|
 | sase | [`690d4a3`](https://github.com/sase-org/sase/commit/690d4a3bee64454f19ba9f9252e1f405d14f171f) | chore: consolidate repeat STOP variable research into one doc | 2026-06-11 19:21:00 EDT |
 
-## Variables
-
-| Variable | Value |
-|---|---|
-| `core_mechanism` | Self-cleaning bead-keyed in-code expiry markers hard-enforced in just check, generalizing the existing pyvision --epic-symbol loop |
-| `recommendation` | Layered lifecycle system: one structured BACKCOMPAT\[bead-id\] in-code marker per shim (source of truth), enforced by a bead-aware \_lint-backcompat stage in just check (modeled on pyvision --epic-symbo… |
-| `research_dir` | .sase/sdd/research/backcompat\_lifecycle\_governance |
-| `research_file` | .sase/sdd/research/backcompat\_lifecycle\_governance/backcompat\_lifecycle\_governance.md |
-| `source_a` | .sase/sdd/research/backcompat\_lifecycle\_governance/backcompat\_lifecycle\_governance\_\_a.md |
-| `source_b` | .sase/sdd/research/backcompat\_lifecycle\_governance/backcompat\_lifecycle\_governance\_\_b.md |
-| `status` | ok |
-
-Values are truncated for display; see [meta.json](meta.json) for the full values.
-
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.8.cdx](../bbugyi200.athena.research.8.cdx/README.md) | research.8 hood | dismissed |
-| [research.8.cld](../bbugyi200.athena.research.8.cld/README.md) | research.8 hood | dismissed |
-| [research.8.image](../bbugyi200.athena.research.8.image/README.md) | research.8 hood | dismissed |
-| [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
-| [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
-| [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
-| [research.0.image](../bbugyi200.athena.research.0.image/README.md) | research hood | dismissed |
+| [research.8.cdx](../bbugyi200.athena.research.8.cdx/README.md) | research.8 hood | completed |
+| [research.8.cld](../bbugyi200.athena.research.8.cld/README.md) | research.8 hood | completed |
+| [research.8.image](../bbugyi200.athena.research.8.image/README.md) | research.8 hood | completed |
+| [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
+| [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
+| [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
+| [research.0.image](../bbugyi200.athena.research.0.image/README.md) | research hood | completed |
 | [research.00.cdx](../bbugyi200.athena.research.00.cdx/README.md) | research hood | active |
 | [research.00.cld](../bbugyi200.athena.research.00.cld/README.md) | research hood | active |
 | [research.00.final](../bbugyi200.athena.research.00.final/README.md) | research hood | active |
@@ -95,4 +80,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 532 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 933 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.6.cdx
 
-**Global name:** `bbugyi200.athena.research.6.cdx` · **State:** dismissed · **Source run:** `run-06b8c0e10b293c7c3d9e851ee52ca5a5`
+**Global name:** `bbugyi200.athena.research.6.cdx` · **State:** completed · **Source run:** `run-0032c9dcd334999772d89c7e34325012`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
 ## Summary
 
-- Model: gpt-5.5
-- Provider: codex
-- Timing: 2026-07-09T16:09:34.077561 → 2026-07-09T16:15:30.369280
+- Model: —
+- Provider: —
+- Timing: 2026-06-11T11:48:50+00:00 → 2026-06-11T11:48:50+00:00
 - Commits: [1](#commits)
-- Variables: [8](#variables)
 
 ## Files
 
@@ -24,30 +23,17 @@
 |---|---|---|---|
 | sase | [`5c71a37`](https://github.com/sase-org/sase/commit/5c71a376147546f5122ba5d389c029c70bb46792) | chore: add Zep memory framework research | 2026-06-11 07:48:50 EDT |
 
-## Variables
-
-| Variable | Value |
-|---|---|
-| `answer` | Use a machine-local SDD cache plus per-agent isolated worktrees/reference clones; avoid one shared mutable checkout unless every SDD write is brokered under an exclusive transaction lock. |
-| `concurrency_solution` | Use mandatory store-identity lock/broker for any single shared mutable checkout; otherwise keep isolated writable views. |
-| `confidence` | high |
-| `recommendation` | shared\_cache\_per\_agent\_worktree |
-| `research_path` | .sase/sdd/research/202607/shared\_sdd\_clone\_research.md |
-| `shared_mutable_checkout_safe` | no |
-| `single_checkout_possible_with_lock` | yes\_but\_not\_recommended |
-| `status` | complete |
-
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.6.cld](../bbugyi200.athena.research.6.cld/README.md) | research.6 hood | dismissed |
-| [research.6.final](../bbugyi200.athena.research.6.final/README.md) | research.6 hood | dismissed |
-| [research.6.image](../bbugyi200.athena.research.6.image/README.md) | research.6 hood | dismissed |
-| [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
-| [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
-| [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
-| [research.0.image](../bbugyi200.athena.research.0.image/README.md) | research hood | dismissed |
+| [research.6.cld](../bbugyi200.athena.research.6.cld/README.md) | research.6 hood | completed |
+| [research.6.final](../bbugyi200.athena.research.6.final/README.md) | research.6 hood | completed |
+| [research.6.image](../bbugyi200.athena.research.6.image/README.md) | research.6 hood | completed |
+| [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
+| [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
+| [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
+| [research.0.image](../bbugyi200.athena.research.0.image/README.md) | research hood | completed |
 | [research.00.cdx](../bbugyi200.athena.research.00.cdx/README.md) | research hood | active |
 | [research.00.cld](../bbugyi200.athena.research.00.cld/README.md) | research hood | active |
 | [research.00.final](../bbugyi200.athena.research.00.final/README.md) | research hood | active |
@@ -94,4 +80,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 532 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 933 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
