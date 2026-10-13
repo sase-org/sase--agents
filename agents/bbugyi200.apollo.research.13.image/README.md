@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.13.image
 
-**Global name:** `bbugyi200.apollo.research.13.image` · **State:** waiting · **Source run:** `run-fb6df93f3d348a3a8ac03a544f411100`
+**Global name:** `bbugyi200.apollo.research.13.image` · **State:** active · **Source run:** `run-fb6df93f3d348a3a8ac03a544f411100`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261013162428
+- Timing: 2026-10-13T21:15:02.161657+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: E3 readiness and bundle inspection infographic, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261013162428/e3\_delivery\_cutover\_readiness\_and\_bundle\_inspection\_inf… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: E3 readiness and bundle inspection infographic
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261013162428/e3_delivery_cutover_readiness_and_bundle_inspection_infographic-3d1214ffc358.png
+  ref: file:explicit:7503e241cc78a48944c52017
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/e3_delivery_cutover_readiness_and_bundle_inspection/e3_delivery_cutover_readiness_and_bundle_inspection_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,10 +42,11 @@
 |---|---|---|
 | [research.13.cdx](../bbugyi200.apollo.research.13.cdx/README.md) | research.13 hood | completed |
 | [research.13.cld](../bbugyi200.apollo.research.13.cld/README.md) | research.13 hood | completed |
-| [research.13.final](../bbugyi200.apollo.research.13.final/README.md) | research.13 hood | active |
+| [research.13.final](../bbugyi200.apollo.research.13.final/README.md) | research.13 hood | completed |
 | [research.13.gem](../bbugyi200.apollo.research.13.gem/README.md) | research.13 hood | completed |
 | [research.13.grk](../bbugyi200.apollo.research.13.grk/README.md) | research.13 hood | completed |
 | [research.13.linker](../bbugyi200.apollo.research.13.linker/README.md) | research.13 hood | waiting |
+| [research.13.linker.w0](../bbugyi200.apollo.research.13.linker.w0/README.md) | research.13 hood | waiting |
 | [research.13.mus](../bbugyi200.apollo.research.13.mus/README.md) | research.13 hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
