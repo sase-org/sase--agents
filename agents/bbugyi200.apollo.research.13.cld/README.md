@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-13T20:24:56.063077+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/e3\_delivery\_cutover\_readiness\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261013162423/e3\_delivery\_cutover\_readiness\_\_cld-c322cf17df… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/e3_delivery_cutover_readiness__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261013162423/e3_delivery_cutover_readiness__cld-c322cf17dfca.md
+  ref: file:explicit:aedee33c21f92841ea23594b
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202610/e3_delivery_cutover_readiness__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
