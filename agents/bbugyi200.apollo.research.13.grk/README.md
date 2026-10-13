@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.13.grk
 
-**Global name:** `bbugyi200.apollo.research.13.grk` · **State:** active · **Source run:** `run-907f8f0df0e31893e84ae211c052e08a`
+**Global name:** `bbugyi200.apollo.research.13.grk` · **State:** completed · **Source run:** `run-907f8f0df0e31893e84ae211c052e08a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-13T20:25:04.796568+00:00
+- Timing: 2026-10-13T20:25:04.796568+00:00 → 2026-10-13T20:47:17.262826+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -40,10 +40,10 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.13.cdx](../bbugyi200.apollo.research.13.cdx/README.md) | research.13 hood | active |
-| [research.13.cld](../bbugyi200.apollo.research.13.cld/README.md) | research.13 hood | active |
-| [research.13.final](../bbugyi200.apollo.research.13.final/README.md) | research.13 hood | waiting |
-| [research.13.gem](../bbugyi200.apollo.research.13.gem/README.md) | research.13 hood | active |
+| [research.13.cdx](../bbugyi200.apollo.research.13.cdx/README.md) | research.13 hood | completed |
+| [research.13.cld](../bbugyi200.apollo.research.13.cld/README.md) | research.13 hood | completed |
+| [research.13.final](../bbugyi200.apollo.research.13.final/README.md) | research.13 hood | active |
+| [research.13.gem](../bbugyi200.apollo.research.13.gem/README.md) | research.13 hood | completed |
 | [research.13.image](../bbugyi200.apollo.research.13.image/README.md) | research.13 hood | waiting |
 | [research.13.linker](../bbugyi200.apollo.research.13.linker/README.md) | research.13 hood | waiting |
 | [research.13.mus](../bbugyi200.apollo.research.13.mus/README.md) | research.13 hood | completed |
