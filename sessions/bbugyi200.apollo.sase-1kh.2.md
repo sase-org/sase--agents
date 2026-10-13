@@ -33,6 +33,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1kh.1](../agents/bbugyi200.apollo.sase-1kh.1/README.md) | sase-1kh hood | active |
+| [sase-1kh.1](../agents/bbugyi200.apollo.sase-1kh.1/README.md) | sase-1kh hood | completed |
 | [sase-1kh.3](../agents/bbugyi200.apollo.sase-1kh.3/README.md) | sase-1kh hood | completed |
-| [sase-1kh.land](../agents/bbugyi200.apollo.sase-1kh.land/README.md) | sase-1kh hood | waiting |
+| [sase-1kh.land](bbugyi200.apollo.sase-1kh.land.md) (session · 3) | sase-1kh hood | active 2, failed 1 |

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1791912246,"sha":"c3d7a7e9b5bd4a5ef9697b3411a97a7a8f01c10e","subject":"fix(finalizer): restrict raw commit absorption to owned suffixes"}],"schema_version":2,"source_run_id":"run-2b1a4aaa40336421dfa8d5f1f38be8c3"}
