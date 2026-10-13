@@ -49,6 +49,7 @@
 | [0zq.md](0zq.md) | %queue(weight=1) #fork:0zq--code %model:grok-4.6@high | - | [bbugyi200.athena.0zq--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0zq.md) | 0 |
 | [0zr.md](0zr.md) | %queue(weight=1) #fork:0zr--code %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.0zr--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0zr.md) | 0 |
 | [0zv.md](0zv.md) | gh:gh_sase-org__sase Muse code is churning through a huge amount of tokens today. Did | - | [bbugyi200.athena.0zv](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.0zv/README.md) | 0 |
+| [0zw.md](0zw.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202610/fix_ci_test_jobs.md][1] | - | [bbugyi200.athena.0zw--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.0zw.md) | 1 |
 | [1j.md](1j.md) | gh:gh_sase-org__sase Is the `bob-cli-6l.2.1.6` sase agent running on my apollo machine | - | [bbugyi200.kellys_mbp.1j](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.1j/README.md) | 0 |
 | [3r.md](3r.md) | %queue(weight=1) %auto #fork:3r--4 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3r--5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3r.md) | 0 |
 | [3v.md](3v.md) | %queue(weight=1) %auto #fork:3v--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3v--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3v.md) | 0 |
