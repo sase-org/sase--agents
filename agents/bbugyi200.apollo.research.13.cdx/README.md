@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-13T20:24:45.099560+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/e3\_instruction\_cutover\_readiness\_and\_historical\_bundle\_inspection\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261013162421/e3\_instru… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/e3_instruction_cutover_readiness_and_historical_bundle_inspection__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261013162421/e3_instruction_cutover_readiness_and_historical_bundle_inspection__cdx-ee2b4be6df0c.md
+  ref: file:explicit:b176f0103209965e0d514c5d
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/e3_instruction_cutover_readiness_and_historical_bundle_inspection__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.13.grk](../bbugyi200.apollo.research.13.grk/README.md) | research.13 hood | active |
 | [research.13.image](../bbugyi200.apollo.research.13.image/README.md) | research.13 hood | waiting |
 | [research.13.linker](../bbugyi200.apollo.research.13.linker/README.md) | research.13 hood | waiting |
-| [research.13.mus](../bbugyi200.apollo.research.13.mus/README.md) | research.13 hood | active |
+| [research.13.mus](../bbugyi200.apollo.research.13.mus/README.md) | research.13 hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
