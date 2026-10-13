@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1791681156,"sha":"04ed4b33cbd426c34c8282aef702dc261e6bee45","subject":"feat(archive): query the Rust-held corpus handle from the facade and CLI"}],"schema_version":2,"source_run_id":"run-d6c887518a4a933a626d214068d61928"}

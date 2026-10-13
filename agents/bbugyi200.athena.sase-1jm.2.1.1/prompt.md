@@ -1,0 +1,5 @@
+%id(1, clan=sase-1jm.2.1, bead=sase-1jm.2.1.1)
+#gh:gh_sase-org__sase
+%model:@medium
+%auto
+#bd/work_phase_bead:sase-1jm.2.1.1
