@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1ko.land--gate | failed | opus / claude | 2026-10-14T14:07:31.239152+00:00 → 2026-10-14T14:07:47.525773+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1ko.land--gate/chat.md) |
-| <a id="member-code"></a>code | sase-1ko.land--code | active | grok-4.6 / grok | 2026-10-14T14:08:05.243278+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-1ko.land--code | active | grok-4.6 / grok | 2026-10-14T14:08:05.243278+00:00 | [1](../agents/bbugyi200.apollo.sase-1ko.land--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-1ko.land--plan | active | opus / claude | 2026-10-14T13:25:39.483173+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1ko.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1ko.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`d070e6b`](https://github.com/sase-org/sase/commit/d070e6b2dc17d1229f6d13b2a4d0ab1dd25b0f5d) | fix(instructions): land remaining E3 explicit-delivery defects | 2026-10-14 11:30:55 EDT |
 
 ## Neighbors
 
