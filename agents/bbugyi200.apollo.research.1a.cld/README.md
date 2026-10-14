@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-14T13:16:20.110149+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/instruction\_bundles\_transparency\_proceed\_or\_revert\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261014091545/instruction\_bundles\_tran… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/instruction_bundles_transparency_proceed_or_revert__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261014091545/instruction_bundles_transparency_proceed_or_revert__cld-dfa4d04aadad.md
+  ref: file:explicit:75a55feddaacdfe0612a308f
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202610/instruction_bundles_transparency_proceed_or_revert__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

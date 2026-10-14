@@ -12,10 +12,29 @@
 - Provider: grok
 - Timing: 2026-10-14T13:16:37.227797+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/instruction\_bundles\_transparency\_proceed\_or\_revert\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261014091546/instruction\_bundles\_tran… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/instruction_bundles_transparency_proceed_or_revert__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261014091546/instruction_bundles_transparency_proceed_or_revert__grk-26941c7b06d2.md
+  ref: file:explicit:592f53324f6105a61acdb92b
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_16/sase/repos/research/202610/instruction_bundles_transparency_proceed_or_revert__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
