@@ -26,5 +26,5 @@
 | [sase-1ko.5](../bbugyi200.apollo.sase-1ko.5/README.md) | sase-1ko hood | completed |
 | [sase-1ko.6](../bbugyi200.apollo.sase-1ko.6/README.md) | sase-1ko hood | completed |
 | [sase-1ko.8](../bbugyi200.apollo.sase-1ko.8/README.md) | sase-1ko hood | completed |
-| [sase-1ko.9](../../sessions/bbugyi200.apollo.sase-1ko.9.md) (session · 3) | sase-1ko hood | active 1, completed 1, failed 1 |
+| [sase-1ko.9](../../sessions/bbugyi200.apollo.sase-1ko.9.md) (session · 3) | sase-1ko hood | completed 2, failed 1 |
 | [sase-1ko.land](../bbugyi200.apollo.sase-1ko.land/README.md) | sase-1ko hood | waiting |

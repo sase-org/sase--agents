@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0c85c0899e73c3c104f0d403aa5c1a95"}
+{"commits":[{"committed_at":1791978170,"sha":"d2652334910952f8c244b58d3d32f1ae4ed8d0fd","subject":"feat(claude): deliver explicit root and helper instruction bundles"}],"schema_version":2,"source_run_id":"run-a5b96b03bddb1a8e8503ababccbcf858"}
