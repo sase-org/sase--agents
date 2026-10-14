@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1ko](../../users/bbugyi200/machines/apollo/hoods/sase-1ko/README.md) / sase-1ko.5
 
-**Global name:** `bbugyi200.apollo.sase-1ko.5` · **State:** waiting · **Source run:** `run-c98f72d09b5880bcc44527e86ec71499`
+**Global name:** `bbugyi200.apollo.sase-1ko.5` · **State:** active · **Source run:** `run-c98f72d09b5880bcc44527e86ec71499`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1ko
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1ko](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ko/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261013181112
-- Commits: 0
+- Timing: 2026-10-13T23:48:03.309735+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`d69cd49`](https://github.com/sase-org/sase/commit/d69cd499dd26b04534b9b4a11af540e14a6c73af) | feat(instructions): land delivery-plan hook and declared-legacy fallback | 2026-10-13 21:37:34 EDT |
 
 ## Neighbors
 
@@ -25,7 +31,7 @@
 |---|---|---|
 | [sase-1ko.1](../bbugyi200.apollo.sase-1ko.1/README.md) | sase-1ko hood | completed |
 | [sase-1ko.10](../bbugyi200.apollo.sase-1ko.10/README.md) | sase-1ko hood | waiting |
-| [sase-1ko.2](../bbugyi200.apollo.sase-1ko.2/README.md) | sase-1ko hood | active |
+| [sase-1ko.2](../bbugyi200.apollo.sase-1ko.2/README.md) | sase-1ko hood | completed |
 | [sase-1ko.3](../bbugyi200.apollo.sase-1ko.3/README.md) | sase-1ko hood | active |
 | [sase-1ko.4](../bbugyi200.apollo.sase-1ko.4/README.md) | sase-1ko hood | waiting |
 | [sase-1ko.6](../bbugyi200.apollo.sase-1ko.6/README.md) | sase-1ko hood | waiting |

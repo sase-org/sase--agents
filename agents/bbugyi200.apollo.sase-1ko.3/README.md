@@ -25,9 +25,9 @@
 |---|---|---|
 | [sase-1ko.1](../bbugyi200.apollo.sase-1ko.1/README.md) | sase-1ko hood | completed |
 | [sase-1ko.10](../bbugyi200.apollo.sase-1ko.10/README.md) | sase-1ko hood | waiting |
-| [sase-1ko.2](../bbugyi200.apollo.sase-1ko.2/README.md) | sase-1ko hood | active |
+| [sase-1ko.2](../bbugyi200.apollo.sase-1ko.2/README.md) | sase-1ko hood | completed |
 | [sase-1ko.4](../bbugyi200.apollo.sase-1ko.4/README.md) | sase-1ko hood | waiting |
-| [sase-1ko.5](../bbugyi200.apollo.sase-1ko.5/README.md) | sase-1ko hood | waiting |
+| [sase-1ko.5](../bbugyi200.apollo.sase-1ko.5/README.md) | sase-1ko hood | active |
 | [sase-1ko.6](../bbugyi200.apollo.sase-1ko.6/README.md) | sase-1ko hood | waiting |
 | [sase-1ko.7](../bbugyi200.apollo.sase-1ko.7/README.md) | sase-1ko hood | waiting |
 | [sase-1ko.8](../bbugyi200.apollo.sase-1ko.8/README.md) | sase-1ko hood | waiting |
