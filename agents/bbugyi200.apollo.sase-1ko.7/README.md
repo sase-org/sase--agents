@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1ko](../../users/bbugyi200/machines/apollo/hoods/sase-1ko/README.md) / sase-1ko.7
 
-**Global name:** `bbugyi200.apollo.sase-1ko.7` · **State:** active · **Source run:** `run-a5b96b03bddb1a8e8503ababccbcf858`
+**Global name:** `bbugyi200.apollo.sase-1ko.7` · **State:** completed · **Source run:** `run-a5b96b03bddb1a8e8503ababccbcf858`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1ko
 
@@ -11,12 +11,12 @@
 - Bead: [sase-1ko.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ko/sase-1ko.7.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-14T10:33:32.735693+00:00
+- Timing: 2026-10-14T10:33:32.735693+00:00 → 2026-10-14T11:50:45.145679+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,7 +29,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1ko.1](../bbugyi200.apollo.sase-1ko.1/README.md) | sase-1ko hood | completed |
-| [sase-1ko.10](../bbugyi200.apollo.sase-1ko.10/README.md) | sase-1ko hood | waiting |
+| [sase-1ko.10](../../sessions/bbugyi200.apollo.sase-1ko.10.md) (session · 4) | sase-1ko hood | active 1, completed 2, failed 1 |
 | [sase-1ko.2](../bbugyi200.apollo.sase-1ko.2/README.md) | sase-1ko hood | completed |
 | [sase-1ko.3](../bbugyi200.apollo.sase-1ko.3/README.md) | sase-1ko hood | completed |
 | [sase-1ko.4](../../sessions/bbugyi200.apollo.sase-1ko.4.md) (session · 5) | sase-1ko hood | completed 3, failed 2 |

@@ -19,7 +19,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1ko.1](../bbugyi200.apollo.sase-1ko.1/README.md) | sase-1ko hood | completed |
-| [sase-1ko.10](../bbugyi200.apollo.sase-1ko.10/README.md) | sase-1ko hood | waiting |
+| [sase-1ko.10](../../sessions/bbugyi200.apollo.sase-1ko.10.md) (session · 4) | sase-1ko hood | active 1, completed 2, failed 1 |
 | [sase-1ko.2](../bbugyi200.apollo.sase-1ko.2/README.md) | sase-1ko hood | completed |
 | [sase-1ko.3](../bbugyi200.apollo.sase-1ko.3/README.md) | sase-1ko hood | completed |
 | [sase-1ko.4](../../sessions/bbugyi200.apollo.sase-1ko.4.md) (session · 5) | sase-1ko hood | completed 3, failed 2 |
