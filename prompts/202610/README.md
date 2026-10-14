@@ -53,6 +53,7 @@
 | [100.md](100.md) | gh:gh_sase-org__sase The TUI keeps crashing with a | - | [bbugyi200.athena.100](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.100/README.md) | 0 |
 | [107.md](107.md) | gh:gh_sase-org__sase What are all of these | - | [bbugyi200.athena.107](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.107/README.md) | 0 |
 | [108.md](108.md) | %queue(weight=1) #fork:108--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.athena.108--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.108.md) | 0 |
+| [109.md](109.md) | %queue(weight=1) #fork:109--1 %model:gpt-6-luna@xhigh | - | [bbugyi200.athena.109--2](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.109.md) | 0 |
 | [1j.md](1j.md) | gh:gh_sase-org__sase Is the `bob-cli-6l.2.1.6` sase agent running on my apollo machine | - | [bbugyi200.kellys_mbp.1j](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.1j/README.md) | 0 |
 | [3r.md](3r.md) | %queue(weight=1) %auto #fork:3r--4 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3r--5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3r.md) | 0 |
 | [3v.md](3v.md) | %queue(weight=1) %auto #fork:3v--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3v--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3v.md) | 0 |
