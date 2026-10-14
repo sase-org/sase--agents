@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.1a.cdx
 
-**Global name:** `bbugyi200.apollo.research.1a.cdx` · **State:** active · **Source run:** `run-bae7018f98689337d5d7996a86f3fda8`
+**Global name:** `bbugyi200.apollo.research.1a.cdx` · **State:** completed · **Source run:** `run-bae7018f98689337d5d7996a86f3fda8`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gpt-6.1-sol
 - Provider: codex
-- Timing: 2026-10-14T13:16:11.588111+00:00
+- Timing: 2026-10-14T13:16:11.588111+00:00 → 2026-10-14T13:35:38.583049+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -40,10 +40,10 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.1a.cld](../bbugyi200.apollo.research.1a.cld/README.md) | research.1a hood | active |
-| [research.1a.final](../bbugyi200.apollo.research.1a.final/README.md) | research.1a hood | waiting |
-| [research.1a.gem](../bbugyi200.apollo.research.1a.gem/README.md) | research.1a hood | active |
-| [research.1a.grk](../bbugyi200.apollo.research.1a.grk/README.md) | research.1a hood | active |
+| [research.1a.cld](../bbugyi200.apollo.research.1a.cld/README.md) | research.1a hood | completed |
+| [research.1a.final](../bbugyi200.apollo.research.1a.final/README.md) | research.1a hood | active |
+| [research.1a.gem](../bbugyi200.apollo.research.1a.gem/README.md) | research.1a hood | completed |
+| [research.1a.grk](../bbugyi200.apollo.research.1a.grk/README.md) | research.1a hood | completed |
 | [research.1a.image](../bbugyi200.apollo.research.1a.image/README.md) | research.1a hood | waiting |
 | [research.1a.linker](../bbugyi200.apollo.research.1a.linker/README.md) | research.1a hood | waiting |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |

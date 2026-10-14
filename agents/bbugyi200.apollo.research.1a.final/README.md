@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.1a.final
 
-**Global name:** `bbugyi200.apollo.research.1a.final` · **State:** waiting · **Source run:** `run-670f4bef8161691ec8f74ad2b745fcd6`
+**Global name:** `bbugyi200.apollo.research.1a.final` · **State:** active · **Source run:** `run-670f4bef8161691ec8f74ad2b745fcd6`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,21 +10,40 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261014091548
+- Timing: 2026-10-14T13:40:53.290851+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/instruction\_bundles\_vs\_readable\_agents\_md/instruction\_bundles\_vs\_readable\_agents\_md\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/2026… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/instruction_bundles_vs_readable_agents_md/instruction_bundles_vs_readable_agents_md__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261014091548/instruction_bundles_vs_readable_agents_md__final-e9da16aac089.md
+  ref: file:explicit:a0f355144ca7b6f7e8fd9cdb
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202610/instruction_bundles_vs_readable_agents_md/instruction_bundles_vs_readable_agents_md__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.1a.cdx](../bbugyi200.apollo.research.1a.cdx/README.md) | research.1a hood | active |
-| [research.1a.cld](../bbugyi200.apollo.research.1a.cld/README.md) | research.1a hood | active |
-| [research.1a.gem](../bbugyi200.apollo.research.1a.gem/README.md) | research.1a hood | active |
-| [research.1a.grk](../bbugyi200.apollo.research.1a.grk/README.md) | research.1a hood | active |
+| [research.1a.cdx](../bbugyi200.apollo.research.1a.cdx/README.md) | research.1a hood | completed |
+| [research.1a.cld](../bbugyi200.apollo.research.1a.cld/README.md) | research.1a hood | completed |
+| [research.1a.gem](../bbugyi200.apollo.research.1a.gem/README.md) | research.1a hood | completed |
+| [research.1a.grk](../bbugyi200.apollo.research.1a.grk/README.md) | research.1a hood | completed |
 | [research.1a.image](../bbugyi200.apollo.research.1a.image/README.md) | research.1a hood | waiting |
 | [research.1a.linker](../bbugyi200.apollo.research.1a.linker/README.md) | research.1a hood | waiting |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
