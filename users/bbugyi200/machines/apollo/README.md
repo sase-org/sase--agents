@@ -77,7 +77,7 @@
 | [sase-1if](hoods/sase-1if/README.md) | 23 | 4 | active 1, completed 15, failed 5, waiting 2 |
 | [sase-1jo](hoods/sase-1jo/README.md) | 9 | 2 | active 2, completed 5, failed 2 |
 | [sase-1kh](hoods/sase-1kh/README.md) | 8 | 2 | active 2, completed 4, failed 2 |
-| [sase-1ko](hoods/sase-1ko/README.md) | 11 | 0 | active 2, completed 2, waiting 7 |
+| [sase-1ko](hoods/sase-1ko/README.md) | 11 | 0 | active 1, completed 3, waiting 7 |
 | [sase-w3](hoods/sase-w3/README.md) | 15 | 5 | active 2, completed 8, failed 4, waiting 1 |
 | [sase-w8](hoods/sase-w8/README.md) | 8 | 1 | completed 5, failed 3 |
 | [sase-wm](hoods/sase-wm/README.md) | 8 | 2 | completed 7, failed 1 |
