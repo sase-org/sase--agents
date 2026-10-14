@@ -1,0 +1,35 @@
+# Agent: sase-1ko.9--mon
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1ko](../../users/bbugyi200/machines/apollo/hoods/sase-1ko/README.md) / [sase-1ko.9](../../sessions/bbugyi200.apollo.sase-1ko.9.md) / sase-1ko.9--mon
+
+**Global name:** `bbugyi200.apollo.sase-1ko.9--mon` · **State:** failed · **Source run:** `run-2b12311fd879947fcbbee7c735e9dcdf`
+
+**Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1ko
+
+## Summary
+
+- Bead: [sase-1ko.9](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ko/sase-1ko.9.md)
+- Epic: [sase-1ko](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ko/README.md)
+- Model: gpt-6-luna
+- Provider: codex
+- Timing: 2026-10-14T04:43:01.504484+00:00 → 2026-10-14T04:49:27.053236+00:00
+- Commits: 0
+
+## Files
+
+[Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-1ko.1](../bbugyi200.apollo.sase-1ko.1/README.md) | sase-1ko hood | completed |
+| [sase-1ko.10](../bbugyi200.apollo.sase-1ko.10/README.md) | sase-1ko hood | waiting |
+| [sase-1ko.2](../bbugyi200.apollo.sase-1ko.2/README.md) | sase-1ko hood | completed |
+| [sase-1ko.3](../bbugyi200.apollo.sase-1ko.3/README.md) | sase-1ko hood | completed |
+| [sase-1ko.4](../../sessions/bbugyi200.apollo.sase-1ko.4.md) (session · 5) | sase-1ko hood | completed 3, failed 2 |
+| [sase-1ko.5](../bbugyi200.apollo.sase-1ko.5/README.md) | sase-1ko hood | completed |
+| [sase-1ko.6](../bbugyi200.apollo.sase-1ko.6/README.md) | sase-1ko hood | completed |
+| [sase-1ko.7](../../sessions/bbugyi200.apollo.sase-1ko.7.md) (session · 8) | sase-1ko hood | active 1, completed 4, failed 3 |
+| [sase-1ko.8](../bbugyi200.apollo.sase-1ko.8/README.md) | sase-1ko hood | completed |
+| [sase-1ko.land](../bbugyi200.apollo.sase-1ko.land/README.md) | sase-1ko hood | waiting |

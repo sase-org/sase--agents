@@ -26,9 +26,9 @@
 | [sase-1ko.10](../bbugyi200.apollo.sase-1ko.10/README.md) | sase-1ko hood | waiting |
 | [sase-1ko.2](../bbugyi200.apollo.sase-1ko.2/README.md) | sase-1ko hood | completed |
 | [sase-1ko.3](../bbugyi200.apollo.sase-1ko.3/README.md) | sase-1ko hood | completed |
-| [sase-1ko.4](../../sessions/bbugyi200.apollo.sase-1ko.4.md) (session · 2) | sase-1ko hood | active 1, completed 1 |
+| [sase-1ko.4](../../sessions/bbugyi200.apollo.sase-1ko.4.md) (session · 5) | sase-1ko hood | completed 3, failed 2 |
 | [sase-1ko.5](../bbugyi200.apollo.sase-1ko.5/README.md) | sase-1ko hood | completed |
-| [sase-1ko.6](../bbugyi200.apollo.sase-1ko.6/README.md) | sase-1ko hood | active |
-| [sase-1ko.7](../bbugyi200.apollo.sase-1ko.7/README.md) | sase-1ko hood | waiting |
-| [sase-1ko.8](../bbugyi200.apollo.sase-1ko.8/README.md) | sase-1ko hood | waiting |
-| [sase-1ko.9](../bbugyi200.apollo.sase-1ko.9/README.md) | sase-1ko hood | waiting |
+| [sase-1ko.6](../bbugyi200.apollo.sase-1ko.6/README.md) | sase-1ko hood | completed |
+| [sase-1ko.7](../../sessions/bbugyi200.apollo.sase-1ko.7.md) (session · 8) | sase-1ko hood | active 1, completed 4, failed 3 |
+| [sase-1ko.8](../bbugyi200.apollo.sase-1ko.8/README.md) | sase-1ko hood | completed |
+| [sase-1ko.9](../../sessions/bbugyi200.apollo.sase-1ko.9.md) (session · 3) | sase-1ko hood | active 1, completed 1, failed 1 |

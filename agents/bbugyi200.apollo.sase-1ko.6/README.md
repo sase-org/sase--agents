@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1ko](../../users/bbugyi200/machines/apollo/hoods/sase-1ko/README.md) / sase-1ko.6
 
-**Global name:** `bbugyi200.apollo.sase-1ko.6` · **State:** active · **Source run:** `run-785b3bace409154b07bc082300b5eaee`
+**Global name:** `bbugyi200.apollo.sase-1ko.6` · **State:** completed · **Source run:** `run-785b3bace409154b07bc082300b5eaee`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1ko
 
@@ -12,12 +12,12 @@
 - Epic: [sase-1ko](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ko/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-14T01:50:20.876737+00:00
+- Timing: 2026-10-14T01:50:20.876737+00:00 → 2026-10-14T03:27:32.859650+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -33,9 +33,9 @@
 | [sase-1ko.10](../bbugyi200.apollo.sase-1ko.10/README.md) | sase-1ko hood | waiting |
 | [sase-1ko.2](../bbugyi200.apollo.sase-1ko.2/README.md) | sase-1ko hood | completed |
 | [sase-1ko.3](../bbugyi200.apollo.sase-1ko.3/README.md) | sase-1ko hood | completed |
-| [sase-1ko.4](../../sessions/bbugyi200.apollo.sase-1ko.4.md) (session · 2) | sase-1ko hood | active 1, completed 1 |
+| [sase-1ko.4](../../sessions/bbugyi200.apollo.sase-1ko.4.md) (session · 5) | sase-1ko hood | completed 3, failed 2 |
 | [sase-1ko.5](../bbugyi200.apollo.sase-1ko.5/README.md) | sase-1ko hood | completed |
-| [sase-1ko.7](../bbugyi200.apollo.sase-1ko.7/README.md) | sase-1ko hood | waiting |
-| [sase-1ko.8](../bbugyi200.apollo.sase-1ko.8/README.md) | sase-1ko hood | waiting |
-| [sase-1ko.9](../bbugyi200.apollo.sase-1ko.9/README.md) | sase-1ko hood | waiting |
+| [sase-1ko.7](../../sessions/bbugyi200.apollo.sase-1ko.7.md) (session · 8) | sase-1ko hood | active 1, completed 4, failed 3 |
+| [sase-1ko.8](../bbugyi200.apollo.sase-1ko.8/README.md) | sase-1ko hood | completed |
+| [sase-1ko.9](../../sessions/bbugyi200.apollo.sase-1ko.9.md) (session · 3) | sase-1ko hood | active 1, completed 1, failed 1 |
 | [sase-1ko.land](../bbugyi200.apollo.sase-1ko.land/README.md) | sase-1ko hood | waiting |
