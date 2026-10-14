@@ -2,19 +2,21 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [sase-1ko](../users/bbugyi200/machines/apollo/hoods/sase-1ko/README.md) / sase-1ko.10
 
-Owner: `bbugyi200.apollo` · Hood: `sase-1ko` · Members: 4 · Bead: [sase-1ko.10](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ko/sase-1ko.10.md)
+Owner: `bbugyi200.apollo` · Hood: `sase-1ko` · Members: 5 · Bead: [sase-1ko.10](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ko/sase-1ko.10.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
   n0["sase-1ko.10--mon [failed]"]
-  n1["sase-1ko.10--mon-0 [active]"]
+  n1["sase-1ko.10--2 [completed]"]
   n0 --> n1
-  n2["sase-1ko.10--1 [completed]"]
+  n2["sase-1ko.10--mon-0 [failed]"]
   n0 --> n2
-  n3["sase-1ko.10--plan [completed]"]
+  n3["sase-1ko.10--1 [completed]"]
   n0 --> n3
+  n4["sase-1ko.10--plan [completed]"]
+  n0 --> n4
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -22,7 +24,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-1ko.10--mon | failed | grok-4.6 / grok | 2026-10-14T12:39:56.088181+00:00 → 2026-10-14T12:51:21.328309+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1ko.10--mon/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | sase-1ko.10--mon-0 | active | grok-4.6 / grok | 2026-10-14T12:58:39.366847+00:00 | [1](../agents/bbugyi200.apollo.sase-1ko.10--mon-0/README.md#commits) | — | — |
+| <a id="member-2"></a>2 | sase-1ko.10--2 | completed | grok-4.6 / grok | 2026-10-14T13:22:14.128679+00:00 → 2026-10-14T13:25:19.474561+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1ko.10--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1ko.10--2/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | sase-1ko.10--mon-0 | failed | grok-4.6 / grok | 2026-10-14T12:58:39.366847+00:00 → 2026-10-14T13:22:14.394053+00:00 | [1](../agents/bbugyi200.apollo.sase-1ko.10--mon-0/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.sase-1ko.10--mon-0/chat.md) |
 | <a id="member-1"></a>1 | sase-1ko.10--1 | completed | grok-4.6 / grok | 2026-10-14T12:51:20.993591+00:00 → 2026-10-14T12:59:30.741456+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1ko.10--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1ko.10--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1ko.10--plan | completed | grok-4.6 / grok | 2026-10-14T11:51:08.201062+00:00 → 2026-10-14T12:40:50.851283+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1ko.10--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1ko.10--plan/chat.md) |
 
@@ -79,4 +82,4 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1ko.7](../agents/bbugyi200.apollo.sase-1ko.7/README.md) | sase-1ko hood | completed |
 | [sase-1ko.8](../agents/bbugyi200.apollo.sase-1ko.8/README.md) | sase-1ko hood | completed |
 | [sase-1ko.9](bbugyi200.apollo.sase-1ko.9.md) (session · 3) | sase-1ko hood | completed 2, failed 1 |
-| [sase-1ko.land](../agents/bbugyi200.apollo.sase-1ko.land/README.md) | sase-1ko hood | waiting |
+| [sase-1ko.land](bbugyi200.apollo.sase-1ko.land.md) (session · 3) | sase-1ko hood | active 2, failed 1 |
