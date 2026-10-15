@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-15T18:34:46.458790+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase-conditional-funding-and-maintainer-runway\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261015143417/sase-conditional-funding-and… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase-conditional-funding-and-maintainer-runway__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261015143417/sase-conditional-funding-and-maintainer-runway__cdx-a623941c7d64.md
+  ref: file:explicit:6506c8e8a9af99417c553c21
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/sase-conditional-funding-and-maintainer-runway__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +42,7 @@
 |---|---|---|
 | [research.1l.cld](../bbugyi200.apollo.research.1l.cld/README.md) | research.1l hood | active |
 | [research.1l.final](../bbugyi200.apollo.research.1l.final/README.md) | research.1l hood | waiting |
-| [research.1l.gem](../bbugyi200.apollo.research.1l.gem/README.md) | research.1l hood | active |
+| [research.1l.gem](../bbugyi200.apollo.research.1l.gem/README.md) | research.1l hood | completed |
 | [research.1l.grk](../bbugyi200.apollo.research.1l.grk/README.md) | research.1l hood | active |
 | [research.1l.image](../bbugyi200.apollo.research.1l.image/README.md) | research.1l hood | waiting |
 | [research.1l.linker](../bbugyi200.apollo.research.1l.linker/README.md) | research.1l hood | waiting |
