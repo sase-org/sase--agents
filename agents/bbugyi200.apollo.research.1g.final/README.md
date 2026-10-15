@@ -44,8 +44,8 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.1g.cld](../bbugyi200.apollo.research.1g.cld/README.md) | research.1g hood | completed |
 | [research.1g.gem](../bbugyi200.apollo.research.1g.gem/README.md) | research.1g hood | completed |
 | [research.1g.grk](../bbugyi200.apollo.research.1g.grk/README.md) | research.1g hood | completed |
-| [research.1g.image](../bbugyi200.apollo.research.1g.image/README.md) | research.1g hood | active |
-| [research.1g.linker](../bbugyi200.apollo.research.1g.linker/README.md) | research.1g hood | waiting |
+| [research.1g.image](../bbugyi200.apollo.research.1g.image/README.md) | research.1g hood | completed |
+| [research.1g.linker](../bbugyi200.apollo.research.1g.linker/README.md) | research.1g hood | active |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
