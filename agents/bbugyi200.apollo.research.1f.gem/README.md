@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-10-15T13:18:02.094957+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/docs\_as\_memory\_migration\_and\_structure\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261015091659/docs\_as\_memory\_migration\_and\_structu… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/docs_as_memory_migration_and_structure__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261015091659/docs_as_memory_migration_and_structure__gem-ec8c592932ab.md
+  ref: file:explicit:f08a35823f53585bfdd4d018
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_17/sase/repos/research/202610/docs_as_memory_migration_and_structure__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

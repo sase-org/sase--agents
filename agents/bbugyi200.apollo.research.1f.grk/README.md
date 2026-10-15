@@ -12,10 +12,29 @@
 - Provider: grok
 - Timing: 2026-10-15T13:17:42.733703+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/docs\_memory\_split\_diataxis\_projections\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261015091658/docs\_memory\_split\_diataxis\_projectio… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/docs_memory_split_diataxis_projections__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261015091658/docs_memory_split_diataxis_projections__grk-ce47e3088bb2.md
+  ref: file:explicit:fa9d3b28d6cae38303d7fae2
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202610/docs_memory_split_diataxis_projections__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

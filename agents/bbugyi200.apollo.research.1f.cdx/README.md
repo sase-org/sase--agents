@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-15T13:17:24.656306+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/documentation\_as\_memory\_source\_backed\_references\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261015091655/documentation\_as\_memory\_so… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/documentation_as_memory_source_backed_references__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261015091655/documentation_as_memory_source_backed_references__cdx-b8077fd16e95.md
+  ref: file:explicit:a980406fb38b45857f4a7bd5
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/documentation_as_memory_source_backed_references__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
