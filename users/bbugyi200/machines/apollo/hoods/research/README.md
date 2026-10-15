@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / research
 
-**Global hood:** `bbugyi200.apollo.research` · **Runs:** 512 · **Sessions:** 4 · **States:** active 341, completed 154, failed 9, waiting 8
+**Global hood:** `bbugyi200.apollo.research` · **Runs:** 512 · **Sessions:** 4 · **States:** active 340, completed 155, failed 9, waiting 8
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -363,7 +363,7 @@
 | [research.0r.linker.w0--code](../../../../../../sessions/bbugyi200.apollo.research.0r.linker.w0.md#member-code) | completed | muse-spark-1.3-contributor / muse | 2026-10-09T22:49:56.049822+00:00 → 2026-10-09T23:27:23.048155+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.research.0r.linker.w0--code/chat.md) |
 | [research.v.cdx](../../../../../../agents/bbugyi200.apollo.research.v.cdx/README.md) | completed | — | 2026-06-20T13:21:21+00:00 → 2026-06-20T13:21:21+00:00 | 1 | — |
 | [research.7.cdx](../../../../../../agents/bbugyi200.apollo.research.7.cdx/README.md) | active | gpt-5.6-sol / codex | 2026-09-19T00:34:11.393425+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.research.7.cdx/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.7.cdx/chat.md) |
-| [research.1g.grk](../../../../../../agents/bbugyi200.apollo.research.1g.grk/README.md) | active | grok-4.6 / grok | 2026-10-15T13:18:32.632315+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.1g.grk/prompt.md) |
+| [research.1g.grk](../../../../../../agents/bbugyi200.apollo.research.1g.grk/README.md) | completed | grok-4.6 / grok | 2026-10-15T13:18:32.632315+00:00 → 2026-10-15T13:38:04.475186+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.1g.grk/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.1g.grk/chat.md) |
 | [research.5.cdx](../../../../../../agents/bbugyi200.apollo.research.5.cdx/README.md) | active | gpt-5.6-sol / codex | 2026-09-18T11:34:19.287532+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.research.5.cdx/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.5.cdx/chat.md) |
 | [research.1g.final](../../../../../../agents/bbugyi200.apollo.research.1g.final/README.md) | waiting | opus / claude | 20261015091714 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.1g.final/prompt.md) |
 | [research.g.cld](../../../../../../agents/bbugyi200.apollo.research.g.cld/README.md) | completed | — | 2026-06-14T21:28:56+00:00 → 2026-06-14T21:28:56+00:00 | 1 | — |
