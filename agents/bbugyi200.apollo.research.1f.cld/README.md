@@ -12,19 +12,38 @@
 - Provider: claude
 - Timing: 2026-10-15T13:17:32.470301+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/docs\_as\_first\_class\_memory\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261015091657/docs\_as\_first\_class\_memory\_\_cld-1053f4c158c8.md,… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/docs_as_first_class_memory__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261015091657/docs_as_first_class_memory__cld-1053f4c158c8.md
+  ref: file:explicit:697ef48e88cddbdb33f367b0
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202610/docs_as_first_class_memory__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.1f.cdx](../bbugyi200.apollo.research.1f.cdx/README.md) | research.1f hood | active |
+| [research.1f.cdx](../bbugyi200.apollo.research.1f.cdx/README.md) | research.1f hood | completed |
 | [research.1f.final](../bbugyi200.apollo.research.1f.final/README.md) | research.1f hood | waiting |
 | [research.1f.gem](../bbugyi200.apollo.research.1f.gem/README.md) | research.1f hood | active |
-| [research.1f.grk](../bbugyi200.apollo.research.1f.grk/README.md) | research.1f hood | active |
+| [research.1f.grk](../bbugyi200.apollo.research.1f.grk/README.md) | research.1f hood | completed |
 | [research.1f.image](../bbugyi200.apollo.research.1f.image/README.md) | research.1f hood | waiting |
 | [research.1f.linker](../bbugyi200.apollo.research.1f.linker/README.md) | research.1f hood | waiting |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |

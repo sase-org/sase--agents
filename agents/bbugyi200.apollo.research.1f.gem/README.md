@@ -40,10 +40,10 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.1f.cdx](../bbugyi200.apollo.research.1f.cdx/README.md) | research.1f hood | active |
+| [research.1f.cdx](../bbugyi200.apollo.research.1f.cdx/README.md) | research.1f hood | completed |
 | [research.1f.cld](../bbugyi200.apollo.research.1f.cld/README.md) | research.1f hood | active |
 | [research.1f.final](../bbugyi200.apollo.research.1f.final/README.md) | research.1f hood | waiting |
-| [research.1f.grk](../bbugyi200.apollo.research.1f.grk/README.md) | research.1f hood | active |
+| [research.1f.grk](../bbugyi200.apollo.research.1f.grk/README.md) | research.1f hood | completed |
 | [research.1f.image](../bbugyi200.apollo.research.1f.image/README.md) | research.1f hood | waiting |
 | [research.1f.linker](../bbugyi200.apollo.research.1f.linker/README.md) | research.1f hood | waiting |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
