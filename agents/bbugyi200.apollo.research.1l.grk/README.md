@@ -12,16 +12,35 @@
 - Provider: grok
 - Timing: 2026-10-15T18:35:09.948381+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_threshold\_pledge\_funding\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261015143420/sase\_threshold\_pledge\_funding\_\_grk-9d1f3aaf0e… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_threshold_pledge_funding__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261015143420/sase_threshold_pledge_funding__grk-9d1f3aaf0e72.md
+  ref: file:explicit:8ea3617e457156a3117b0001
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202610/sase_threshold_pledge_funding__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.1l.cdx](../bbugyi200.apollo.research.1l.cdx/README.md) | research.1l hood | active |
+| [research.1l.cdx](../bbugyi200.apollo.research.1l.cdx/README.md) | research.1l hood | completed |
 | [research.1l.cld](../bbugyi200.apollo.research.1l.cld/README.md) | research.1l hood | active |
 | [research.1l.final](../bbugyi200.apollo.research.1l.final/README.md) | research.1l hood | waiting |
 | [research.1l.gem](../bbugyi200.apollo.research.1l.gem/README.md) | research.1l hood | completed |
