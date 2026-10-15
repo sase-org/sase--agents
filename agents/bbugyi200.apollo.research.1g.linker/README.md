@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-15T14:21:02.792624+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/project\_docs\_as\_managed\_memory\_reading\_list/project\_docs\_as\_managed\_memory\_reading\_list.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/2026101… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/project_docs_as_managed_memory_reading_list/project_docs_as_managed_memory_reading_list.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261015091716/project_docs_as_managed_memory_reading_list-d26b5e4c618d.md
+  ref: file:explicit:5d9db55ce49f7989308ba50d
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202610/project_docs_as_managed_memory_reading_list/project_docs_as_managed_memory_reading_list.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
