@@ -56,6 +56,7 @@
 | [109.md](109.md) | %queue(weight=1) #fork:109--1 %model:gpt-6-luna@xhigh | - | [bbugyi200.athena.109--2](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.109.md) | 0 |
 | [10c.md](10c.md) | gh:gh_sase-org__sase Can you explain to me exactly what the entries on the "Files" | - | [bbugyi200.athena.10c](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.10c/README.md) | 0 |
 | [10f.md](10f.md) | %queue(weight=1) #fork:10f--4 %model:grok-4.6 %effort:medium | - | [bbugyi200.athena.10f--5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.10f.md) | 0 |
+| [10i.md](10i.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202610/e3_live_verification_defects.md][1] | - | [bbugyi200.athena.10i--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.10i.md) | 1 |
 | [1j.md](1j.md) | gh:gh_sase-org__sase Is the `bob-cli-6l.2.1.6` sase agent running on my apollo machine | - | [bbugyi200.kellys_mbp.1j](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.1j/README.md) | 0 |
 | [3r.md](3r.md) | %queue(weight=1) %auto #fork:3r--4 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3r--5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3r.md) | 0 |
 | [3v.md](3v.md) | %queue(weight=1) %auto #fork:3v--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3v--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3v.md) | 0 |
