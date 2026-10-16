@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.1s.image
 
-**Global name:** `bbugyi200.apollo.research.1s.image` · **State:** active · **Source run:** `run-16c4af127293f60716c1b57da0d73d3b`
+**Global name:** `bbugyi200.apollo.research.1s.image` · **State:** failed · **Source run:** `run-16c4af127293f60716c1b57da0d73d3b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-16T22:35:26.042003+00:00
+- Timing: 2026-10-16T22:35:26.042003+00:00 → 2026-10-16T22:44:02.284973+00:00
 - Commits: 0
 - Variables: [1](#variables)
 

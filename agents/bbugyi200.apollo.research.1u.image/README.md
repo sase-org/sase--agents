@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.1u.image
 
-**Global name:** `bbugyi200.apollo.research.1u.image` · **State:** waiting · **Source run:** `run-867e5e4f8b047ed08f4c55f75860114e`
+**Global name:** `bbugyi200.apollo.research.1u.image` · **State:** active · **Source run:** `run-867e5e4f8b047ed08f4c55f75860114e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,35 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261016175340
+- Timing: 2026-10-16T23:01:05.402301+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: Gas Town vs. SASE research infographic, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261016175340/gastown\_vs\_sase\_lessons\_to\_borrow\_infographic-944ad48b4982.png,… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: Gas Town vs. SASE research infographic
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261016175340/gastown_vs_sase_lessons_to_borrow_infographic-944ad48b4982.png
+  ref: file:explicit:e9d4a75796353956413bac54
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202610/gastown_vs_sase_lessons_to_borrow/gastown_vs_sase_lessons_to_borrow_infographic.png
+- kind: file
+  label: Gas Town vs. SASE infographic prompts
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261016175340/gastown_infographic_prompt-ab34bf20995a.txt
+  ref: file:explicit:9729fa37da16bf3793fc32d6
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +46,7 @@
 |---|---|---|
 | [research.1u.cdx](../bbugyi200.apollo.research.1u.cdx/README.md) | research.1u hood | completed |
 | [research.1u.cld](../bbugyi200.apollo.research.1u.cld/README.md) | research.1u hood | completed |
-| [research.1u.final](../bbugyi200.apollo.research.1u.final/README.md) | research.1u hood | active |
+| [research.1u.final](../bbugyi200.apollo.research.1u.final/README.md) | research.1u hood | completed |
 | [research.1u.gem](../bbugyi200.apollo.research.1u.gem/README.md) | research.1u hood | completed |
 | [research.1u.grk](../bbugyi200.apollo.research.1u.grk/README.md) | research.1u hood | completed |
 | [research.1u.linker](../bbugyi200.apollo.research.1u.linker/README.md) | research.1u hood | waiting |
