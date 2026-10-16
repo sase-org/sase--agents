@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-vk.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-vk/sase-vk.3.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-30T10:50:54.641313+00:00

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.1q.mus
 
-**Global name:** `bbugyi200.apollo.research.1q.mus` · **State:** active · **Source run:** `run-f0ae29e0143eddbc76b45f806e223c62`
+**Global name:** `bbugyi200.apollo.research.1q.mus` · **State:** completed · **Source run:** `run-f0ae29e0143eddbc76b45f806e223c62`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-16T19:53:17.086420+00:00
+- Timing: 2026-10-16T19:53:17.086420+00:00 → 2026-10-16T20:06:59.862071+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -40,11 +40,11 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.1q.cdx](../bbugyi200.apollo.research.1q.cdx/README.md) | research.1q hood | active |
-| [research.1q.cld](../bbugyi200.apollo.research.1q.cld/README.md) | research.1q hood | active |
-| [research.1q.final](../bbugyi200.apollo.research.1q.final/README.md) | research.1q hood | waiting |
-| [research.1q.gem](../bbugyi200.apollo.research.1q.gem/README.md) | research.1q hood | active |
-| [research.1q.grk](../bbugyi200.apollo.research.1q.grk/README.md) | research.1q hood | active |
+| [research.1q.cdx](../bbugyi200.apollo.research.1q.cdx/README.md) | research.1q hood | completed |
+| [research.1q.cld](../bbugyi200.apollo.research.1q.cld/README.md) | research.1q hood | completed |
+| [research.1q.final](../bbugyi200.apollo.research.1q.final/README.md) | research.1q hood | active |
+| [research.1q.gem](../bbugyi200.apollo.research.1q.gem/README.md) | research.1q hood | completed |
+| [research.1q.grk](../bbugyi200.apollo.research.1q.grk/README.md) | research.1q hood | completed |
 | [research.1q.image](../bbugyi200.apollo.research.1q.image/README.md) | research.1q hood | waiting |
 | [research.1q.linker](../bbugyi200.apollo.research.1q.linker/README.md) | research.1q hood | waiting |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
