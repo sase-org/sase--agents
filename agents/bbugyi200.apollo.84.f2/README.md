@@ -1,0 +1,27 @@
+# Agent: 84.f2
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [84](../../users/bbugyi200/machines/apollo/hoods/84/README.md) / 84.f2
+
+**Global name:** `bbugyi200.apollo.84.f2` · **State:** completed · **Source run:** `run-843b64d673677cc95f049f1ad1721401`
+
+**Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 84
+
+## Summary
+
+- Model: —
+- Provider: —
+- Timing: 2026-06-15T20:41:34+00:00 → 2026-06-15T20:41:34+00:00
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`214c29b`](https://github.com/sase-org/sase/commit/214c29b15305214aa778e0f626d28bf4dd6600e8) | chore: Add SDD prompt and plan for refresh\_skill\_use\_directives | 2026-06-15 16:41:34 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [84](../bbugyi200.apollo.84/README.md) | ancestor | active |
+| [84.f1](../bbugyi200.apollo.84.f1/README.md) | 84 hood | completed |
