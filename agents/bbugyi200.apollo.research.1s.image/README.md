@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.1s.image
 
-**Global name:** `bbugyi200.apollo.research.1s.image` · **State:** waiting · **Source run:** `run-16c4af127293f60716c1b57da0d73d3b`
+**Global name:** `bbugyi200.apollo.research.1s.image` · **State:** active · **Source run:** `run-16c4af127293f60716c1b57da0d73d3b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261016173708
+- Timing: 2026-10-16T22:35:26.042003+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: research:202610/sase\_stats\_project\_with\_model\_attribution/sase\_stats\_project\_with\_model\_attribution\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/2… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: research:202610/sase_stats_project_with_model_attribution/sase_stats_project_with_model_attribution_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261016173708/sase_stats_project_with_model_attribution_infographic-dc83f7015af4.png
+  ref: file:explicit:5d38f118dc3d662a3eb90dc7
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/sase_stats_project_with_model_attribution/sase_stats_project_with_model_attribution_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,6 +46,7 @@
 | [research.1s.gem](../bbugyi200.apollo.research.1s.gem/README.md) | research.1s hood | completed |
 | [research.1s.grk](../bbugyi200.apollo.research.1s.grk/README.md) | research.1s hood | completed |
 | [research.1s.linker](../bbugyi200.apollo.research.1s.linker/README.md) | research.1s hood | waiting |
+| [research.1s.linker.w0](../bbugyi200.apollo.research.1s.linker.w0/README.md) | research.1s hood | waiting |
 | [research.1s.mus](../bbugyi200.apollo.research.1s.mus/README.md) | research.1s hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
