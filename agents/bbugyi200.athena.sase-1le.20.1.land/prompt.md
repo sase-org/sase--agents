@@ -1,0 +1,27 @@
+#gh:gh_sase-org__sase
+%id(land, clan=sase-1le.20.1, bead=sase-1le.20.1)
+%model:@xlarge
+%auto
+%w(sase-1le.20.1.1,sase-1le.20.1.2,sase-1le.20.1.3,sase-1le.20.1.4,sase-1le.20.1.7,sase-1le.20.1.10,sase-1le.20.1.12,sase-1le.20.1.5,sase-1le.20.1.11,sase-1le.20.1.8,sase-1le.20.1.13,sase-1le.20.1.6,sase-1le.20.1.9,sase-1le.20.1.14,sase-1le.20.1.17,sase-1le.20.1.19,sase-1le.20.1.15,sase-1le.20.1.16,sase-1le.20.1.18,sase-1le.20.1.20,sase-1le.20.1.21, for_epic=false)
+%w(bead=sase-1le.20.1.1)
+%w(bead=sase-1le.20.1.2)
+%w(bead=sase-1le.20.1.3)
+%w(bead=sase-1le.20.1.4)
+%w(bead=sase-1le.20.1.5)
+%w(bead=sase-1le.20.1.6)
+%w(bead=sase-1le.20.1.7)
+%w(bead=sase-1le.20.1.10)
+%w(bead=sase-1le.20.1.11)
+%w(bead=sase-1le.20.1.8)
+%w(bead=sase-1le.20.1.9)
+%w(bead=sase-1le.20.1.12)
+%w(bead=sase-1le.20.1.13)
+%w(bead=sase-1le.20.1.14)
+%w(bead=sase-1le.20.1.15)
+%w(bead=sase-1le.20.1.16)
+%w(bead=sase-1le.20.1.17)
+%w(bead=sase-1le.20.1.18)
+%w(bead=sase-1le.20.1.19)
+%w(bead=sase-1le.20.1.20)
+%w(bead=sase-1le.20.1.21)
+#bd/land_epic:sase-1le.20.1
