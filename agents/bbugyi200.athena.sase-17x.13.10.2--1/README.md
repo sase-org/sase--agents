@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-17x.13.10.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-17x/sase-17x.13.10.2.md)
 - Model: gpt-5.6-terra
 - Provider: codex
 - Timing: 2026-09-25T14:02:04.542576+00:00 → 2026-09-25T14:14:48.180485+00:00

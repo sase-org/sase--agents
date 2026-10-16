@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-16T20:37:59.268755+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/project\_stats\_cli\_design/project\_stats\_cli\_design\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261016155158/project\_stats\_cli\_desig… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/project_stats_cli_design/project_stats_cli_design__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261016155158/project_stats_cli_design__final-054b82ae04a7.md
+  ref: file:explicit:f179b7bf3e1786188d7498af
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202610/project_stats_cli_design/project_stats_cli_design__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
