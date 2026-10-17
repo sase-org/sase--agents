@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-11l.10](https://github.com/sase-org/sase--beads/blob/main/pages/sase-11l/sase-11l.10.md)
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-09-18T17:24:49.778420+00:00 → 2026-09-18T17:30:32.564903+00:00

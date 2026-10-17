@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-wn.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-wn/sase-wn.4.md)
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-09-04T12:40:50.616948 → 2026-09-04T14:23:32.883153

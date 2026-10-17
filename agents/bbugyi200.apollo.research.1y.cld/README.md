@@ -12,19 +12,38 @@
 - Provider: claude
 - Timing: 2026-10-17T19:10:05.128751+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/github\_native\_merge\_queue\_how\_it\_works\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261017150921/github\_native\_merge\_queue\_how\_it\_wor… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/github_native_merge_queue_how_it_works__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261017150921/github_native_merge_queue_how_it_works__cld-1234f3529d20.md
+  ref: file:explicit:e7923b23e357f71fb82b51ad
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13/sase/repos/research/202610/github_native_merge_queue_how_it_works__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.1y.cdx](../bbugyi200.apollo.research.1y.cdx/README.md) | research.1y hood | active |
+| [research.1y.cdx](../bbugyi200.apollo.research.1y.cdx/README.md) | research.1y hood | completed |
 | [research.1y.final](../bbugyi200.apollo.research.1y.final/README.md) | research.1y hood | waiting |
-| [research.1y.gem](../bbugyi200.apollo.research.1y.gem/README.md) | research.1y hood | active |
-| [research.1y.grk](../bbugyi200.apollo.research.1y.grk/README.md) | research.1y hood | active |
+| [research.1y.gem](../bbugyi200.apollo.research.1y.gem/README.md) | research.1y hood | completed |
+| [research.1y.grk](../bbugyi200.apollo.research.1y.grk/README.md) | research.1y hood | completed |
 | [research.1y.image](../bbugyi200.apollo.research.1y.image/README.md) | research.1y hood | waiting |
 | [research.1y.linker](../bbugyi200.apollo.research.1y.linker/README.md) | research.1y hood | waiting |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |

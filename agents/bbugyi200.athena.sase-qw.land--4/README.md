@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-qw](https://github.com/sase-org/sase--beads/blob/main/pages/sase-qw/README.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-08-19T20:15:18.285522+00:00
