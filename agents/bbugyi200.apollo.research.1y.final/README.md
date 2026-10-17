@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.1y.final
 
-**Global name:** `bbugyi200.apollo.research.1y.final` · **State:** waiting · **Source run:** `run-51f8aae9bf2969da84f49cca9384dc3e`
+**Global name:** `bbugyi200.apollo.research.1y.final` · **State:** active · **Source run:** `run-51f8aae9bf2969da84f49cca9384dc3e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,19 +10,38 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261017150924
+- Timing: 2026-10-17T19:30:02.251239+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/github\_native\_merge\_queue\_primer/github\_native\_merge\_queue\_primer\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261017150924/github\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/github_native_merge_queue_primer/github_native_merge_queue_primer__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261017150924/github_native_merge_queue_primer__final-dd00f970e851.md
+  ref: file:explicit:bc9ddf631a7b2065858440a5
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/github_native_merge_queue_primer/github_native_merge_queue_primer__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.1y.cdx](../bbugyi200.apollo.research.1y.cdx/README.md) | research.1y hood | completed |
-| [research.1y.cld](../bbugyi200.apollo.research.1y.cld/README.md) | research.1y hood | active |
+| [research.1y.cld](../bbugyi200.apollo.research.1y.cld/README.md) | research.1y hood | completed |
 | [research.1y.gem](../bbugyi200.apollo.research.1y.gem/README.md) | research.1y hood | completed |
 | [research.1y.grk](../bbugyi200.apollo.research.1y.grk/README.md) | research.1y hood | completed |
 | [research.1y.image](../bbugyi200.apollo.research.1y.image/README.md) | research.1y hood | waiting |
