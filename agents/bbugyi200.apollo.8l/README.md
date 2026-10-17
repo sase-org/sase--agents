@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [8l](../../users/bbugyi200/machines/apollo/hoods/8l/README.md) / 8l
 
-**Global name:** `bbugyi200.apollo.8l` · **State:** active · **Source run:** `run-00e7e59d9a371bf1c5ad6e40ae68e2f2`
+**Global name:** `bbugyi200.apollo.8l` · **State:** completed · **Source run:** `run-00e7e59d9a371bf1c5ad6e40ae68e2f2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 8l
 
@@ -10,13 +10,13 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-17T13:23:53.892685+00:00
+- Timing: 2026-10-17T13:23:53.892685+00:00 → 2026-10-17T13:31:12.026371+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -35,3 +35,10 @@
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [8l.f0](../bbugyi200.apollo.8l.f0/README.md) | descendant | active |
+| [8l.f1](../bbugyi200.apollo.8l.f1/README.md) | descendant | active |
