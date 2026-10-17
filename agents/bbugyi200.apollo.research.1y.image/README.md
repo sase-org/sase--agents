@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.1y.image
 
-**Global name:** `bbugyi200.apollo.research.1y.image` · **State:** waiting · **Source run:** `run-a9945f444001c8298ac6fcb522a6f795`
+**Global name:** `bbugyi200.apollo.research.1y.image` · **State:** active · **Source run:** `run-a9945f444001c8298ac6fcb522a6f795`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,36 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261017150925
+- Timing: 2026-10-17T19:44:32.667069+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: GitHub native merge queue infographic, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261017150925/github\_native\_merge\_queue\_primer\_infographic-06e542091116.png, r… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: GitHub native merge queue infographic
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261017150925/github_native_merge_queue_primer_infographic-06e542091116.png
+  ref: file:explicit:23efd94e0a3a37da8cce6af1
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/github_native_merge_queue_primer/github_native_merge_queue_primer_infographic.png
+- kind: file
+  label: GitHub native merge queue infographic generation prompt
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261017150925/github_native_merge_queue_primer_infographic_prompt_t1a6k4eb-1e9b24769635.txt
+  ref: file:explicit:fb91914670d1d3cb2f54210d
+  source_path: /home/bryan/.cache/sase/tmp/agent-tmp/gh_sase-org__sase-ws0-261017_150925/github_native_merge_queue_primer_infographic_prompt_t1a6k4eb.txt
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +47,7 @@
 |---|---|---|
 | [research.1y.cdx](../bbugyi200.apollo.research.1y.cdx/README.md) | research.1y hood | completed |
 | [research.1y.cld](../bbugyi200.apollo.research.1y.cld/README.md) | research.1y hood | completed |
-| [research.1y.final](../bbugyi200.apollo.research.1y.final/README.md) | research.1y hood | active |
+| [research.1y.final](../bbugyi200.apollo.research.1y.final/README.md) | research.1y hood | completed |
 | [research.1y.gem](../bbugyi200.apollo.research.1y.gem/README.md) | research.1y hood | completed |
 | [research.1y.grk](../bbugyi200.apollo.research.1y.grk/README.md) | research.1y hood | completed |
 | [research.1y.linker](../bbugyi200.apollo.research.1y.linker/README.md) | research.1y hood | waiting |
