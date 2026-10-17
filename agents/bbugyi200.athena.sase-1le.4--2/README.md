@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-1le.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1le/sase-1le.4.md)
 - Model: gpt-6-luna
 - Provider: codex
 - Timing: 2026-10-15T23:04:28.994256+00:00 → 2026-10-15T23:26:38.631716+00:00

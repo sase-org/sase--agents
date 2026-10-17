@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-7i.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-7i/sase-7i.4.md)
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-19T17:21:12.069025+00:00
