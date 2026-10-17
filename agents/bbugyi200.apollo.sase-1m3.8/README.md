@@ -35,7 +35,7 @@
 | [sase-1m3.4.1.3](../bbugyi200.apollo.sase-1m3.4.1.3/README.md) | sase-1m3 hood | completed |
 | [sase-1m3.4.1.4](../bbugyi200.apollo.sase-1m3.4.1.4/README.md) | sase-1m3 hood | completed |
 | [sase-1m3.4.1.land](../../sessions/bbugyi200.apollo.sase-1m3.4.1.land.md) (session · 3) | sase-1m3 hood | completed 2, failed 1 |
-| [sase-1m3.5](../bbugyi200.apollo.sase-1m3.5/README.md) | sase-1m3 hood | active |
+| [sase-1m3.5](../bbugyi200.apollo.sase-1m3.5/README.md) | sase-1m3 hood | completed |
 | [sase-1m3.6](../bbugyi200.apollo.sase-1m3.6/README.md) | sase-1m3 hood | failed |
 | [sase-1m3.7](../../sessions/bbugyi200.apollo.sase-1m3.7.md) (session · 3) | sase-1m3 hood | failed 3 |
 | [sase-1m3.7.1.1](../bbugyi200.apollo.sase-1m3.7.1.1/README.md) | sase-1m3 hood | failed |
