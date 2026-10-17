@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-10-17T20:32:30.691007+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/agent\_software\_factory\_merging\_reading\_list\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261017163116/agent\_software\_factory\_merging\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/agent_software_factory_merging_reading_list__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261017163116/agent_software_factory_merging_reading_list__gem-e8473295b32e.md
+  ref: file:explicit:2f6e7ca7825545f5027cd082
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_16/sase/repos/research/202610/agent_software_factory_merging_reading_list__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
