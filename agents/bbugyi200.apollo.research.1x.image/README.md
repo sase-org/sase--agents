@@ -21,13 +21,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.1x.cdx](../bbugyi200.apollo.research.1x.cdx/README.md) | research.1x hood | waiting |
-| [research.1x.cld](../bbugyi200.apollo.research.1x.cld/README.md) | research.1x hood | waiting |
+| [research.1x.cdx](../bbugyi200.apollo.research.1x.cdx/README.md) | research.1x hood | active |
+| [research.1x.cld](../bbugyi200.apollo.research.1x.cld/README.md) | research.1x hood | active |
 | [research.1x.final](../bbugyi200.apollo.research.1x.final/README.md) | research.1x hood | waiting |
-| [research.1x.gem](../bbugyi200.apollo.research.1x.gem/README.md) | research.1x hood | waiting |
-| [research.1x.grk](../bbugyi200.apollo.research.1x.grk/README.md) | research.1x hood | waiting |
+| [research.1x.gem](../bbugyi200.apollo.research.1x.gem/README.md) | research.1x hood | active |
+| [research.1x.grk](../bbugyi200.apollo.research.1x.grk/README.md) | research.1x hood | active |
 | [research.1x.linker](../bbugyi200.apollo.research.1x.linker/README.md) | research.1x hood | waiting |
-| [research.1x.mus](../bbugyi200.apollo.research.1x.mus/README.md) | research.1x hood | waiting |
+| [research.1x.mus](../bbugyi200.apollo.research.1x.mus/README.md) | research.1x hood | active |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |

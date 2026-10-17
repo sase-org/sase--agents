@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.1x.mus
 
-**Global name:** `bbugyi200.apollo.research.1x.mus` · **State:** waiting · **Source run:** `run-f2c49cd36c16d9123539813dafed57d7`
+**Global name:** `bbugyi200.apollo.research.1x.mus` · **State:** active · **Source run:** `run-f2c49cd36c16d9123539813dafed57d7`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261016215635
+- Timing: 2026-10-17T03:53:11.830860+00:00
 - Commits: 0
 
 ## Files
@@ -21,11 +21,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.1x.cdx](../bbugyi200.apollo.research.1x.cdx/README.md) | research.1x hood | waiting |
-| [research.1x.cld](../bbugyi200.apollo.research.1x.cld/README.md) | research.1x hood | waiting |
+| [research.1x.cdx](../bbugyi200.apollo.research.1x.cdx/README.md) | research.1x hood | active |
+| [research.1x.cld](../bbugyi200.apollo.research.1x.cld/README.md) | research.1x hood | active |
 | [research.1x.final](../bbugyi200.apollo.research.1x.final/README.md) | research.1x hood | waiting |
-| [research.1x.gem](../bbugyi200.apollo.research.1x.gem/README.md) | research.1x hood | waiting |
-| [research.1x.grk](../bbugyi200.apollo.research.1x.grk/README.md) | research.1x hood | waiting |
+| [research.1x.gem](../bbugyi200.apollo.research.1x.gem/README.md) | research.1x hood | active |
+| [research.1x.grk](../bbugyi200.apollo.research.1x.grk/README.md) | research.1x hood | active |
 | [research.1x.image](../bbugyi200.apollo.research.1x.image/README.md) | research.1x hood | waiting |
 | [research.1x.linker](../bbugyi200.apollo.research.1x.linker/README.md) | research.1x hood | waiting |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
