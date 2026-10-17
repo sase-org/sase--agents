@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.1z.final
 
-**Global name:** `bbugyi200.apollo.research.1z.final` · **State:** waiting · **Source run:** `run-73f96b4558f2a862cde8312645dc826c`
+**Global name:** `bbugyi200.apollo.research.1z.final` · **State:** active · **Source run:** `run-fb8262c3569883288faeca429496e317`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,19 +10,38 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261017163117
+- Timing: 2026-10-17T21:20:41.019147+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/agent\_factory\_merge\_discipline\_reading\_list/agent\_factory\_merge\_discipline\_reading\_list\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/agent_factory_merge_discipline_reading_list/agent_factory_merge_discipline_reading_list__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261017172008/agent_factory_merge_discipline_reading_list__final-e55a6e6b40fc.md
+  ref: file:explicit:b41a00988bc13593cd037152
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/agent_factory_merge_discipline_reading_list/agent_factory_merge_discipline_reading_list__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.1z.cdx](../bbugyi200.apollo.research.1z.cdx/README.md) | research.1z hood | completed |
-| [research.1z.cld](../bbugyi200.apollo.research.1z.cld/README.md) | research.1z hood | active |
+| [research.1z.cld](../bbugyi200.apollo.research.1z.cld/README.md) | research.1z hood | completed |
 | [research.1z.gem](../bbugyi200.apollo.research.1z.gem/README.md) | research.1z hood | completed |
 | [research.1z.grk](../bbugyi200.apollo.research.1z.grk/README.md) | research.1z hood | completed |
 | [research.1z.image](../bbugyi200.apollo.research.1z.image/README.md) | research.1z hood | waiting |
