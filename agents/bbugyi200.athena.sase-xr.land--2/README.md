@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-xr](https://github.com/sase-org/sase--beads/blob/main/pages/sase-xr/README.md)
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-09-07T13:34:58.441286+00:00 → 2026-09-07T14:28:12.212579+00:00
