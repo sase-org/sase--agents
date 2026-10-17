@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-17T01:52:36.406560+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/merge\_discipline\_for\_a\_green\_releasable\_master\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261016215157/merge\_discipline\_for\_a\_green… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/merge_discipline_for_a_green_releasable_master__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261016215157/merge_discipline_for_a_green_releasable_master__cld-1fe75f571ea5.md
+  ref: file:explicit:c806944bfda56185974b9b1c
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13/sase/repos/research/202610/merge_discipline_for_a_green_releasable_master__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
