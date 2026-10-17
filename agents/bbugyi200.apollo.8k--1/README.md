@@ -11,12 +11,18 @@
 - Model: gpt-6-astra
 - Provider: codex
 - Timing: 2026-10-17T14:21:21.222366+00:00
-- Commits: 0
+- Commits: [1](#commits)
 - Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`f2a7b80`](https://github.com/sase-org/sase/commit/f2a7b802f9727ffc62b871ae44973c92fa844df6) | fix(tests): derive healer fixture timestamps from test clock | 2026-10-17 15:13:31 EDT |
 
 ## Variables
 
@@ -32,6 +38,11 @@
   path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261017102024/project-stats-verification-5383490b11b2.md
   ref: file:explicit:8d7a5979cc12fda81813545a
   source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/local/project-stats-verification.md
+- kind: markdown
+  label: Main conflict repair verification
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261017102024/main-conflict-verification-61fbe6ac7693.md
+  ref: file:explicit:b86b2d80eafbf649cd5961e2
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.pytest_cache/main-conflict-verification.md
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.

@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-p2.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-p2/sase-p2.4.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-18T02:34:20.790926+00:00
