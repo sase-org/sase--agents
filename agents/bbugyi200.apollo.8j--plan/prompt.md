@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase The `8f` sase agent ran some sudo commands but wasn't their still work for that agent to do? Is there something that we can/should fix here? #if_so_plan Think hard about this. %m:@xlarge

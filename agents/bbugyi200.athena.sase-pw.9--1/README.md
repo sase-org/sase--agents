@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-pw.9](https://github.com/sase-org/sase--beads/blob/main/pages/sase-pw/sase-pw.9.md)
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-08-18T20:36:06.066450+00:00
