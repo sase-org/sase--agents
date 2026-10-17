@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-eca59fe24b2ceac4d16e26a66997ed6e"}
+{"commits":[{"committed_at":1792206827,"sha":"7545e85abf213f9db7ca60a517ac82c8ab26383e","subject":"feat(provenance): stamp model attribution and fix commit metadata"}],"schema_version":2,"source_run_id":"run-eca59fe24b2ceac4d16e26a66997ed6e"}

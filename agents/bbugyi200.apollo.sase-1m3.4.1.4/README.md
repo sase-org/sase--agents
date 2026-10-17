@@ -25,7 +25,7 @@
 |---|---|---|
 | [sase-1m3.4](../../sessions/bbugyi200.apollo.sase-1m3.4.md) (session · 3) | ancestor | failed 3 |
 | [sase-1m3.4.1.1](../bbugyi200.apollo.sase-1m3.4.1.1/README.md) | sase-1m3.4.1 hood | active |
-| [sase-1m3.4.1.2](../bbugyi200.apollo.sase-1m3.4.1.2/README.md) | sase-1m3.4.1 hood | active |
+| [sase-1m3.4.1.2](../bbugyi200.apollo.sase-1m3.4.1.2/README.md) | sase-1m3.4.1 hood | completed |
 | [sase-1m3.4.1.3](../bbugyi200.apollo.sase-1m3.4.1.3/README.md) | sase-1m3.4.1 hood | waiting |
 | [sase-1m3.4.1.land](../bbugyi200.apollo.sase-1m3.4.1.land/README.md) | sase-1m3.4.1 hood | waiting |
 | [sase-1m3.1](../bbugyi200.apollo.sase-1m3.1/README.md) | sase-1m3 hood | active |

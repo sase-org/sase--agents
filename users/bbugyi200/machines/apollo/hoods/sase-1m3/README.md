@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / sase-1m3
 
-**Global hood:** `bbugyi200.apollo.sase-1m3` · **Runs:** 20 · **Sessions:** 1 · **States:** active 4, completed 1, failed 3, waiting 12
+**Global hood:** `bbugyi200.apollo.sase-1m3` · **Runs:** 20 · **Sessions:** 1 · **States:** active 3, completed 2, failed 3, waiting 12
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -21,8 +21,8 @@
 | [sase-1m3.2](../../../../../../agents/bbugyi200.apollo.sase-1m3.2/README.md) | completed | gpt-6-luna / codex | 2026-10-17T02:06:42.349242+00:00 → 2026-10-17T03:10:11.659648+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.2/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.sase-1m3.2/chat.md) |
 | [sase-1m3.4.1.land](../../../../../../agents/bbugyi200.apollo.sase-1m3.4.1.land/README.md) | waiting | gpt-6-astra / codex | 20261016221649 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.4.1.land/prompt.md) |
 | [sase-1m3.4.1.3](../../../../../../agents/bbugyi200.apollo.sase-1m3.4.1.3/README.md) | waiting | gpt-6-luna / codex | 20261016221647 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.4.1.3/prompt.md) |
-| [sase-1m3.1](../../../../../../agents/bbugyi200.apollo.sase-1m3.1/README.md) | active | gpt-6-luna / codex | 2026-10-17T02:06:50.713610+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.1/prompt.md) |
+| [sase-1m3.1](../../../../../../agents/bbugyi200.apollo.sase-1m3.1/README.md) | active | gpt-6-luna / codex | 2026-10-17T02:06:50.713610+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.1/prompt.md) |
 | [sase-1m3.9](../../../../../../agents/bbugyi200.apollo.sase-1m3.9/README.md) | waiting | grok-4.6 / grok | 20261016220620 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.9/prompt.md) |
-| [sase-1m3.4.1.2](../../../../../../agents/bbugyi200.apollo.sase-1m3.4.1.2/README.md) | active | grok-4.6 / grok | 2026-10-17T02:17:09.869385+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.4.1.2/prompt.md) |
+| [sase-1m3.4.1.2](../../../../../../agents/bbugyi200.apollo.sase-1m3.4.1.2/README.md) | completed | grok-4.6 / grok | 2026-10-17T02:17:09.869385+00:00 → 2026-10-17T03:10:45.508137+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.4.1.2/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.sase-1m3.4.1.2/chat.md) |
 | [sase-1m3.10](../../../../../../agents/bbugyi200.apollo.sase-1m3.10/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261016220621 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.10/prompt.md) |
 | [sase-1m3.8](../../../../../../agents/bbugyi200.apollo.sase-1m3.8/README.md) | waiting | gpt-6-luna / codex | 20261016220619 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.8/prompt.md) |

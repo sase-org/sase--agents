@@ -13,11 +13,17 @@
 - Model: gpt-6-luna
 - Provider: codex
 - Timing: 2026-10-17T02:06:50.713610+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`7545e85`](https://github.com/sase-org/sase/commit/7545e85abf213f9db7ca60a517ac82c8ab26383e) | feat(provenance): stamp model attribution and fix commit metadata | 2026-10-16 23:13:47 EDT |
 
 ## Neighbors
 
@@ -30,7 +36,7 @@
 | [sase-1m3.3](../bbugyi200.apollo.sase-1m3.3/README.md) | sase-1m3 hood | active |
 | [sase-1m3.4](../../sessions/bbugyi200.apollo.sase-1m3.4.md) (session · 3) | sase-1m3 hood | failed 3 |
 | [sase-1m3.4.1.1](../bbugyi200.apollo.sase-1m3.4.1.1/README.md) | sase-1m3 hood | active |
-| [sase-1m3.4.1.2](../bbugyi200.apollo.sase-1m3.4.1.2/README.md) | sase-1m3 hood | active |
+| [sase-1m3.4.1.2](../bbugyi200.apollo.sase-1m3.4.1.2/README.md) | sase-1m3 hood | completed |
 | [sase-1m3.4.1.3](../bbugyi200.apollo.sase-1m3.4.1.3/README.md) | sase-1m3 hood | waiting |
 | [sase-1m3.4.1.4](../bbugyi200.apollo.sase-1m3.4.1.4/README.md) | sase-1m3 hood | waiting |
 | [sase-1m3.4.1.land](../bbugyi200.apollo.sase-1m3.4.1.land/README.md) | sase-1m3 hood | waiting |
