@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.1v.image
 
-**Global name:** `bbugyi200.apollo.research.1v.image` · **State:** active · **Source run:** `run-332194efc5d3bbcc2fc785eaecd32d16`
+**Global name:** `bbugyi200.apollo.research.1v.image` · **State:** completed · **Source run:** `run-332194efc5d3bbcc2fc785eaecd32d16`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-17T02:16:36.161073+00:00
+- Timing: 2026-10-17T02:16:36.161073+00:00 → 2026-10-17T02:27:06.722038+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: Gas City research infographic, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261016213210/gascity\_software\_factory\_purpose\_and\_vision\_infographic-1f3dabec6a46.png… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: Gas City research infographic
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261016213210/gascity_software_factory_purpose_and_vision_infographic-1f3dabec6a46.png
+  ref: file:explicit:e7bef4f263179a8d3d81d8b0
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_16/sase/repos/research/202610/gascity_software_factory_purpose_and_vision/gascity_software_factory_purpose_and_vision_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -26,7 +45,7 @@
 | [research.1v.final](../bbugyi200.apollo.research.1v.final/README.md) | research.1v hood | completed |
 | [research.1v.gem](../bbugyi200.apollo.research.1v.gem/README.md) | research.1v hood | completed |
 | [research.1v.grk](../bbugyi200.apollo.research.1v.grk/README.md) | research.1v hood | completed |
-| [research.1v.linker](../bbugyi200.apollo.research.1v.linker/README.md) | research.1v hood | waiting |
+| [research.1v.linker](../bbugyi200.apollo.research.1v.linker/README.md) | research.1v hood | completed |
 | [research.1v.mus](../bbugyi200.apollo.research.1v.mus/README.md) | research.1v hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |

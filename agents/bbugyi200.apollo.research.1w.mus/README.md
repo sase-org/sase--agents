@@ -2,28 +2,47 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.1w.mus
 
-**Global name:** `bbugyi200.apollo.research.1w.mus` · **State:** active · **Source run:** `run-ad3bb0716881cd8179f8e9c68e50ecb9`
+**Global name:** `bbugyi200.apollo.research.1w.mus` · **State:** completed · **Source run:** `run-ad3bb0716881cd8179f8e9c68e50ecb9`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
 ## Summary
 
-- Model: muse-spark-1.3-contributor
-- Provider: muse
-- Timing: 2026-10-17T01:53:01.256452+00:00
+- Model: sonnet
+- Provider: claude
+- Timing: 2026-10-17T01:53:01.256452+00:00 → 2026-10-17T02:54:08.137876+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/merge\_discipline\_green\_master\_and\_pypi\_release\_cadence\_\_mus.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261016215159/merge\_discipline\_gre… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/merge_discipline_green_master_and_pypi_release_cadence__mus.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261016215159/merge_discipline_green_master_and_pypi_release_cadence__mus-e6d2e484abf2.md
+  ref: file:explicit:d8b1c3e547d37d881792f5a3
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_17/sase/repos/research/202610/merge_discipline_green_master_and_pypi_release_cadence__mus.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.1w.cdx](../bbugyi200.apollo.research.1w.cdx/README.md) | research.1w hood | completed |
-| [research.1w.cld](../bbugyi200.apollo.research.1w.cld/README.md) | research.1w hood | active |
-| [research.1w.final](../bbugyi200.apollo.research.1w.final/README.md) | research.1w hood | waiting |
+| [research.1w.cld](../bbugyi200.apollo.research.1w.cld/README.md) | research.1w hood | completed |
+| [research.1w.final](../bbugyi200.apollo.research.1w.final/README.md) | research.1w hood | active |
 | [research.1w.gem](../bbugyi200.apollo.research.1w.gem/README.md) | research.1w hood | completed |
 | [research.1w.grk](../bbugyi200.apollo.research.1w.grk/README.md) | research.1w hood | completed |
 | [research.1w.image](../bbugyi200.apollo.research.1w.image/README.md) | research.1w hood | waiting |
