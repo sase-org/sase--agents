@@ -63,6 +63,7 @@
 | [115.md](115.md) | %queue(weight=1) #fork:115--1 %model:grok-4.6 %effort:high | - | [bbugyi200.athena.115--2](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.115.md) | 0 |
 | [118.md](118.md) | gh:gh_sase-org__sase If I were to proceed with the work described by the | - | [bbugyi200.athena.118](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.118/README.md) | 0 |
 | [119.md](119.md) | gh:gh_sase-org__sase Can you summarize and simplify (I'm struggling to understand) the | - | [bbugyi200.athena.119](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.119/README.md) | 0 |
+| [11a.md](11a.md) | gh:gh_sase-org__sase I'm getting ready to creeate the "master ruleset" described by the | - | [bbugyi200.athena.11a](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.11a/README.md) | 0 |
 | [1j.md](1j.md) | gh:gh_sase-org__sase Is the `bob-cli-6l.2.1.6` sase agent running on my apollo machine | - | [bbugyi200.kellys_mbp.1j](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.1j/README.md) | 0 |
 | [3r.md](3r.md) | %queue(weight=1) %auto #fork:3r--4 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3r--5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3r.md) | 0 |
 | [3v.md](3v.md) | %queue(weight=1) %auto #fork:3v--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3v--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3v.md) | 0 |
