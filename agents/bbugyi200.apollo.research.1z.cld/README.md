@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-17T20:32:04.430273+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/merge\_discipline\_agent\_factory\_recent\_reading\_list\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261017163114/merge\_discipline\_agent\_f… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/merge_discipline_agent_factory_recent_reading_list__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261017163114/merge_discipline_agent_factory_recent_reading_list__cld-f0fd3eb160d9.md
+  ref: file:explicit:0f5224b8a6fcfeee9c21b1b0
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202610/merge_discipline_agent_factory_recent_reading_list__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,8 +42,8 @@
 |---|---|---|
 | [research.1z.cdx](../bbugyi200.apollo.research.1z.cdx/README.md) | research.1z hood | completed |
 | [research.1z.final](../bbugyi200.apollo.research.1z.final/README.md) | research.1z hood | waiting |
-| [research.1z.gem](../bbugyi200.apollo.research.1z.gem/README.md) | research.1z hood | active |
-| [research.1z.grk](../bbugyi200.apollo.research.1z.grk/README.md) | research.1z hood | active |
+| [research.1z.gem](../bbugyi200.apollo.research.1z.gem/README.md) | research.1z hood | completed |
+| [research.1z.grk](../bbugyi200.apollo.research.1z.grk/README.md) | research.1z hood | completed |
 | [research.1z.image](../bbugyi200.apollo.research.1z.image/README.md) | research.1z hood | waiting |
 | [research.1z.linker](../bbugyi200.apollo.research.1z.linker/README.md) | research.1z hood | waiting |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
