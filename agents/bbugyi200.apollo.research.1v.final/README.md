@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-17T01:57:05.184508+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/gascity\_software\_factory\_purpose\_and\_vision/gascity\_software\_factory\_purpose\_and\_vision\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/gascity_software_factory_purpose_and_vision/gascity_software_factory_purpose_and_vision__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261016213209/gascity_software_factory_purpose_and_vision__final-7f5f796f1733.md
+  ref: file:explicit:fda076ff2d2a41eb1bc20fc3
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202610/gascity_software_factory_purpose_and_vision/gascity_software_factory_purpose_and_vision__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
