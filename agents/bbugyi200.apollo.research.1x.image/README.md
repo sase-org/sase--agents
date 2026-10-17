@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.1x.image
 
-**Global name:** `bbugyi200.apollo.research.1x.image` · **State:** active · **Source run:** `run-7c6aac9bda5577d9a80c91c1be5b0fd2`
+**Global name:** `bbugyi200.apollo.research.1x.image` · **State:** completed · **Source run:** `run-7c6aac9bda5577d9a80c91c1be5b0fd2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-17T05:12:52.006141+00:00
+- Timing: 2026-10-17T05:12:52.006141+00:00 → 2026-10-17T05:24:12.060542+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -45,7 +45,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.1x.final](../bbugyi200.apollo.research.1x.final/README.md) | research.1x hood | completed |
 | [research.1x.gem](../bbugyi200.apollo.research.1x.gem/README.md) | research.1x hood | completed |
 | [research.1x.grk](../bbugyi200.apollo.research.1x.grk/README.md) | research.1x hood | completed |
-| [research.1x.linker](../bbugyi200.apollo.research.1x.linker/README.md) | research.1x hood | waiting |
+| [research.1x.linker](../bbugyi200.apollo.research.1x.linker/README.md) | research.1x hood | active |
 | [research.1x.mus](../bbugyi200.apollo.research.1x.mus/README.md) | research.1x hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
