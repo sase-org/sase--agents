@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-17T01:52:24.809790+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/green\_master\_admission\_and\_exact\_release\_certification\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261016215155/green\_master\_admissi… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/green_master_admission_and_exact_release_certification__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261016215155/green_master_admission_and_exact_release_certification__cdx-6cb5a6d74e1c.md
+  ref: file:explicit:665cb46ed0706b112058adae
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202610/green_master_admission_and_exact_release_certification__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -78,4 +97,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | active |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | active |
-| … and 506 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 514 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

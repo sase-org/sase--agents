@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-10-17T01:53:13.007861+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_merge\_discipline\_and\_green\_master\_architecture\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261016215200/sase\_merge\_discipline\_a… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_merge_discipline_and_green_master_architecture__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261016215200/sase_merge_discipline_and_green_master_architecture__gem-ca3c760c14c9.md
+  ref: file:explicit:e1d5ef46b84412c99e264901
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_18/sase/repos/research/202610/sase_merge_discipline_and_green_master_architecture__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -78,4 +97,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | active |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | active |
-| … and 506 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 514 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
