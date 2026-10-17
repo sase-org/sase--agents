@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1m3](../../users/bbugyi200/machines/apollo/hoods/sase-1m3/README.md) / sase-1m3.7.1.3
 
-**Global name:** `bbugyi200.apollo.sase-1m3.7.1.3` · **State:** waiting · **Source run:** `run-dcc2cc643b46087f9861ce7c802ca8f5`
+**Global name:** `bbugyi200.apollo.sase-1m3.7.1.3` · **State:** completed · **Source run:** `run-dcc2cc643b46087f9861ce7c802ca8f5`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1m3
 
@@ -11,20 +11,20 @@
 - Bead: [sase-1m3.7.1.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1m3/sase-1m3.7.1.3.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261017070455
+- Timing: 2026-10-17T12:00:57.010632+00:00 → 2026-10-17T12:36:06.292729+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1m3.7](../../sessions/bbugyi200.apollo.sase-1m3.7.md) (session · 3) | ancestor | failed 3 |
-| [sase-1m3.7.1.1](../bbugyi200.apollo.sase-1m3.7.1.1/README.md) | sase-1m3.7.1 hood | active |
-| [sase-1m3.7.1.2](../bbugyi200.apollo.sase-1m3.7.1.2/README.md) | sase-1m3.7.1 hood | waiting |
+| [sase-1m3.7.1.1](../bbugyi200.apollo.sase-1m3.7.1.1/README.md) | sase-1m3.7.1 hood | completed |
+| [sase-1m3.7.1.2](../bbugyi200.apollo.sase-1m3.7.1.2/README.md) | sase-1m3.7.1 hood | active |
 | [sase-1m3.7.1.4](../bbugyi200.apollo.sase-1m3.7.1.4/README.md) | sase-1m3.7.1 hood | waiting |
 | [sase-1m3.7.1.5](../bbugyi200.apollo.sase-1m3.7.1.5/README.md) | sase-1m3.7.1 hood | waiting |
 | [sase-1m3.7.1.land](../bbugyi200.apollo.sase-1m3.7.1.land/README.md) | sase-1m3.7.1 hood | waiting |

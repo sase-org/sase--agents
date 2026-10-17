@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / sase-1m3
 
-**Global hood:** `bbugyi200.apollo.sase-1m3` · **Runs:** 33 · **Sessions:** 5 · **States:** active 10, completed 6, failed 7, waiting 10
+**Global hood:** `bbugyi200.apollo.sase-1m3` · **Runs:** 33 · **Sessions:** 5 · **States:** active 10, completed 8, failed 7, waiting 8
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -18,15 +18,15 @@
 | [sase-1m3.4--gate](../../../../../../sessions/bbugyi200.apollo.sase-1m3.4.md#member-gate) | failed | gpt-6-astra / codex | 2026-10-17T02:15:31.646157+00:00 → 2026-10-17T02:15:51.924372+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1m3.4--gate/chat.md) |
 | [sase-1m3.7--plan](../../../../../../sessions/bbugyi200.apollo.sase-1m3.7.md#member-plan) | failed | gpt-6-astra / codex | 2026-10-17T06:48:32.231495+00:00 → 2026-10-17T06:57:06.407516+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.7--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.sase-1m3.7--plan/chat.md) |
 | [sase-1m3.7.1.5](../../../../../../agents/bbugyi200.apollo.sase-1m3.7.1.5/README.md) | waiting | gpt-6-luna / codex | 20261017025744 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.7.1.5/prompt.md) |
-| [sase-1m3.7.1.2](../../../../../../agents/bbugyi200.apollo.sase-1m3.7.1.2/README.md) | waiting | grok-4.6 / grok | 20261017025741 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.7.1.2/prompt.md) |
+| [sase-1m3.7.1.2](../../../../../../agents/bbugyi200.apollo.sase-1m3.7.1.2/README.md) | active | grok-4.6 / grok | 2026-10-17T12:01:13.156687+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.7.1.2/prompt.md) |
 | [sase-1m3.4.1.1--plan](../../../../../../sessions/bbugyi200.apollo.sase-1m3.4.1.1.md#member-plan) | active | gpt-6-luna / codex | 2026-10-17T02:54:09.650497+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.4.1.1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.sase-1m3.4.1.1--plan/chat.md) |
 | [sase-1m3.12](../../../../../../agents/bbugyi200.apollo.sase-1m3.12/README.md) | waiting | gpt-6-luna / codex | 20261016220623 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.12/prompt.md) |
 | [sase-1m3.4.1.land--code](../../../../../../sessions/bbugyi200.apollo.sase-1m3.4.1.land.md#member-code) | completed | grok-4.6 / grok | 2026-10-17T05:54:21.258372+00:00 → 2026-10-17T08:24:07.761859+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1m3.4.1.land--code/chat.md) |
 | [sase-1m3.land](../../../../../../agents/bbugyi200.apollo.sase-1m3.land/README.md) | waiting | opus / claude | 20261016220624 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.land/prompt.md) |
-| [sase-1m3.7.1.1](../../../../../../agents/bbugyi200.apollo.sase-1m3.7.1.1/README.md) | active | gpt-6-luna / codex | 2026-10-17T11:07:01.799968+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.7.1.1/prompt.md) |
+| [sase-1m3.7.1.1](../../../../../../agents/bbugyi200.apollo.sase-1m3.7.1.1/README.md) | completed | gpt-6-luna / codex | 2026-10-17T11:07:01.799968+00:00 → 2026-10-17T12:00:44.759526+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.7.1.1/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.sase-1m3.7.1.1/chat.md) |
 | [sase-1m3.4--mon](../../../../../../sessions/bbugyi200.apollo.sase-1m3.4.md#member-mon) | failed | gpt-6-astra / codex | 2026-10-17T02:15:50.838878+00:00 → 2026-10-17T02:17:25.627285+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1m3.4--mon/chat.md) |
 | [sase-1m3.4--plan](../../../../../../sessions/bbugyi200.apollo.sase-1m3.4.md#member-plan) | failed | gpt-6-astra / codex | 2026-10-17T02:07:05.794199+00:00 → 2026-10-17T02:16:15.432178+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.4--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.sase-1m3.4--plan/chat.md) |
-| [sase-1m3.7.1.3](../../../../../../agents/bbugyi200.apollo.sase-1m3.7.1.3/README.md) | waiting | gpt-6-luna / codex | 20261017070455 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.7.1.3/prompt.md) |
+| [sase-1m3.7.1.3](../../../../../../agents/bbugyi200.apollo.sase-1m3.7.1.3/README.md) | completed | gpt-6-luna / codex | 2026-10-17T12:00:57.010632+00:00 → 2026-10-17T12:36:06.292729+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.7.1.3/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.sase-1m3.7.1.3/chat.md) |
 | [sase-1m3.2](../../../../../../agents/bbugyi200.apollo.sase-1m3.2/README.md) | completed | gpt-6-luna / codex | 2026-10-17T02:06:42.349242+00:00 → 2026-10-17T03:10:11.659648+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.2/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.sase-1m3.2/chat.md) |
 | [sase-1m3.10](../../../../../../agents/bbugyi200.apollo.sase-1m3.10/README.md) | waiting | grok-4.6 / grok | 20261017070546 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.10/prompt.md) |
 | [sase-1m3.4.1.land--plan](../../../../../../sessions/bbugyi200.apollo.sase-1m3.4.1.land.md#member-plan) | active | gpt-6-astra / codex | 2026-10-17T05:41:59.618625+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1m3.4.1.land--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.sase-1m3.4.1.land--plan/chat.md) |

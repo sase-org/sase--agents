@@ -82,7 +82,7 @@
 | [sase-1jo](hoods/sase-1jo/README.md) | 9 | 2 | active 2, completed 5, failed 2 |
 | [sase-1kh](hoods/sase-1kh/README.md) | 8 | 2 | active 2, completed 4, failed 2 |
 | [sase-1ko](hoods/sase-1ko/README.md) | 31 | 5 | active 3, completed 19, failed 9 |
-| [sase-1m3](hoods/sase-1m3/README.md) | 33 | 5 | active 10, completed 6, failed 7, waiting 10 |
+| [sase-1m3](hoods/sase-1m3/README.md) | 33 | 5 | active 10, completed 8, failed 7, waiting 8 |
 | [sase-w3](hoods/sase-w3/README.md) | 15 | 5 | active 2, completed 8, failed 4, waiting 1 |
 | [sase-w8](hoods/sase-w8/README.md) | 8 | 1 | completed 5, failed 3 |
 | [sase-wm](hoods/sase-wm/README.md) | 8 | 2 | completed 7, failed 1 |
