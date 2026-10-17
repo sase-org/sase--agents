@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-de8c144d1f07ad9f2e0b261316d2a9c8"}
+{"commits":[{"committed_at":1792206363,"sha":"7c6b32457bdc26d6dda8362c93774b17c5550c23","subject":"feat(repo): resolve linked repo config by target path"}],"schema_version":2,"source_run_id":"run-de8c144d1f07ad9f2e0b261316d2a9c8"}

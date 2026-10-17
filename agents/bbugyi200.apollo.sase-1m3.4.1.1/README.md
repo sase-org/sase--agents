@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1m3](../../users/bbugyi200/machines/apollo/hoods/sase-1m3/README.md) / sase-1m3.4.1.1
 
-**Global name:** `bbugyi200.apollo.sase-1m3.4.1.1` · **State:** waiting · **Source run:** `run-b0e77a4793f2ab4b649ad79f6cbde25a`
+**Global name:** `bbugyi200.apollo.sase-1m3.4.1.1` · **State:** active · **Source run:** `run-b0e77a4793f2ab4b649ad79f6cbde25a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1m3
 
@@ -10,9 +10,9 @@
 
 - Bead: [sase-1m3.4.1.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1m3/sase-1m3.4.1.1.md)
 - Epic: [sase-1m3.4.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1m3/sase-1m3.4.1.md)
-- Model: muse-spark-1.3-contributor
-- Provider: muse
-- Timing: 20261016221645
+- Model: gpt-6-luna
+- Provider: codex
+- Timing: 2026-10-17T02:54:09.650497+00:00
 - Commits: 0
 
 ## Files
