@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.1z.image
 
-**Global name:** `bbugyi200.apollo.research.1z.image` · **State:** waiting · **Source run:** `run-4f0f0ca10e2bb29eb9294df9b0909703`
+**Global name:** `bbugyi200.apollo.research.1z.image` · **State:** active · **Source run:** `run-4f0f0ca10e2bb29eb9294df9b0909703`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261017163118
+- Timing: 2026-10-17T21:48:29.748127+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: research:202610/agent\_factory\_merge\_discipline\_reading\_list/agent\_factory\_merge\_discipline\_reading\_list\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sa… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: research:202610/agent_factory_merge_discipline_reading_list/agent_factory_merge_discipline_reading_list_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261017163118/agent_factory_merge_discipline_reading_list_infographic-2ae565b76017.png
+  ref: file:explicit:f7e247bec3308876ec1d4188
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/agent_factory_merge_discipline_reading_list/agent_factory_merge_discipline_reading_list_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +42,7 @@
 |---|---|---|
 | [research.1z.cdx](../bbugyi200.apollo.research.1z.cdx/README.md) | research.1z hood | completed |
 | [research.1z.cld](../bbugyi200.apollo.research.1z.cld/README.md) | research.1z hood | completed |
-| [research.1z.final](../bbugyi200.apollo.research.1z.final/README.md) | research.1z hood | active |
+| [research.1z.final](../bbugyi200.apollo.research.1z.final/README.md) | research.1z hood | completed |
 | [research.1z.gem](../bbugyi200.apollo.research.1z.gem/README.md) | research.1z hood | completed |
 | [research.1z.grk](../bbugyi200.apollo.research.1z.grk/README.md) | research.1z hood | completed |
 | [research.1z.linker](../bbugyi200.apollo.research.1z.linker/README.md) | research.1z hood | waiting |

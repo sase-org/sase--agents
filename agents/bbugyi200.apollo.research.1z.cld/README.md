@@ -41,10 +41,10 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [research.1z.cdx](../bbugyi200.apollo.research.1z.cdx/README.md) | research.1z hood | completed |
-| [research.1z.final](../bbugyi200.apollo.research.1z.final/README.md) | research.1z hood | active |
+| [research.1z.final](../bbugyi200.apollo.research.1z.final/README.md) | research.1z hood | completed |
 | [research.1z.gem](../bbugyi200.apollo.research.1z.gem/README.md) | research.1z hood | completed |
 | [research.1z.grk](../bbugyi200.apollo.research.1z.grk/README.md) | research.1z hood | completed |
-| [research.1z.image](../bbugyi200.apollo.research.1z.image/README.md) | research.1z hood | waiting |
+| [research.1z.image](../bbugyi200.apollo.research.1z.image/README.md) | research.1z hood | active |
 | [research.1z.linker](../bbugyi200.apollo.research.1z.linker/README.md) | research.1z hood | waiting |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
