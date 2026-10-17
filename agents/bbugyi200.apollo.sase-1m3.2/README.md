@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1m3](../../users/bbugyi200/machines/apollo/hoods/sase-1m3/README.md) / sase-1m3.2
 
-**Global name:** `bbugyi200.apollo.sase-1m3.2` · **State:** active · **Source run:** `run-de8c144d1f07ad9f2e0b261316d2a9c8`
+**Global name:** `bbugyi200.apollo.sase-1m3.2` · **State:** completed · **Source run:** `run-de8c144d1f07ad9f2e0b261316d2a9c8`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1m3
 
@@ -12,12 +12,12 @@
 - Epic: [sase-1m3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1m3/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-17T02:06:42.349242+00:00
+- Timing: 2026-10-17T02:06:42.349242+00:00 → 2026-10-17T03:10:11.659648+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
