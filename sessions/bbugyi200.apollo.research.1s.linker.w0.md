@@ -11,7 +11,7 @@ flowchart TD
   n0["research.1s.linker.w0--mon [failed]"]
   n1["research.1s.linker.w0--gate [failed]"]
   n0 --> n1
-  n2["research.1s.linker.w0--plan [failed]"]
+  n2["research.1s.linker.w0--plan [active]"]
   n0 --> n2
 ```
 
@@ -21,20 +21,20 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | research.1s.linker.w0--mon | failed | opus / claude | 2026-10-17T02:04:56.413864+00:00 → 2026-10-17T02:06:58.329069+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.research.1s.linker.w0--mon/chat.md) |
 | <a id="member-gate"></a>gate | research.1s.linker.w0--gate | failed | opus / claude | 2026-10-17T02:04:38.176407+00:00 → 2026-10-17T02:04:57.272784+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.research.1s.linker.w0--gate/chat.md) |
-| <a id="member-plan"></a>plan | research.1s.linker.w0--plan | failed | opus / claude | 2026-10-17T01:28:10.496377+00:00 → 2026-10-17T02:05:18.960583+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.research.1s.linker.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.research.1s.linker.w0--plan/chat.md) |
+| <a id="member-plan"></a>plan | research.1s.linker.w0--plan | active | opus / claude | 2026-10-17T01:28:10.496377+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.research.1s.linker.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.research.1s.linker.w0--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.1s.linker](../agents/bbugyi200.apollo.research.1s.linker/README.md) | ancestor | completed |
-| [research.1s.cdx](../agents/bbugyi200.apollo.research.1s.cdx/README.md) | research.1s hood | completed |
-| [research.1s.cld](../agents/bbugyi200.apollo.research.1s.cld/README.md) | research.1s hood | completed |
-| [research.1s.final](../agents/bbugyi200.apollo.research.1s.final/README.md) | research.1s hood | completed |
-| [research.1s.gem](../agents/bbugyi200.apollo.research.1s.gem/README.md) | research.1s hood | completed |
-| [research.1s.grk](../agents/bbugyi200.apollo.research.1s.grk/README.md) | research.1s hood | completed |
-| [research.1s.image](../agents/bbugyi200.apollo.research.1s.image/README.md) | research.1s hood | completed |
-| [research.1s.mus](../agents/bbugyi200.apollo.research.1s.mus/README.md) | research.1s hood | completed |
+| [research.1s.linker](../agents/bbugyi200.apollo.research.1s.linker/README.md) | ancestor | active |
+| [research.1s.cdx](../agents/bbugyi200.apollo.research.1s.cdx/README.md) | research.1s hood | active |
+| [research.1s.cld](../agents/bbugyi200.apollo.research.1s.cld/README.md) | research.1s hood | active |
+| [research.1s.final](../agents/bbugyi200.apollo.research.1s.final/README.md) | research.1s hood | active |
+| [research.1s.gem](../agents/bbugyi200.apollo.research.1s.gem/README.md) | research.1s hood | active |
+| [research.1s.grk](../agents/bbugyi200.apollo.research.1s.grk/README.md) | research.1s hood | active |
+| [research.1s.image](../agents/bbugyi200.apollo.research.1s.image/README.md) | research.1s hood | active |
+| [research.1s.mus](../agents/bbugyi200.apollo.research.1s.mus/README.md) | research.1s hood | active |
 | [research.0.cdx](../agents/bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../agents/bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../agents/bbugyi200.apollo.research.0.final/README.md) | research hood | active |
@@ -85,4 +85,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.09.cdx](../agents/bbugyi200.apollo.research.09.cdx/README.md) | research hood | active |
 | [research.09.cld](../agents/bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
 | [research.09.final](../agents/bbugyi200.apollo.research.09.final/README.md) | research hood | active |
-| … and 513 more in the [hood roster](../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 520 more in the [hood roster](../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

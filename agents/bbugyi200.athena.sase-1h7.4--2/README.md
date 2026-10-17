@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-1h7.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1h7/sase-1h7.4.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-07T04:15:31.529811+00:00 → 2026-10-07T04:36:17.001133+00:00
