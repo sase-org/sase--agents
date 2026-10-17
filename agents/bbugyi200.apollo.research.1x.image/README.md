@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.1x.image
 
-**Global name:** `bbugyi200.apollo.research.1x.image` · **State:** waiting · **Source run:** `run-7c6aac9bda5577d9a80c91c1be5b0fd2`
+**Global name:** `bbugyi200.apollo.research.1x.image` · **State:** active · **Source run:** `run-7c6aac9bda5577d9a80c91c1be5b0fd2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261016215638
+- Timing: 2026-10-17T05:12:52.006141+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: Gas City vs. SASE research infographic, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261016215638/gascity\_advantages\_over\_sase\_and\_what\_to\_borrow\_infographic-725… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: Gas City vs. SASE research infographic
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261016215638/gascity_advantages_over_sase_and_what_to_borrow_infographic-72549daf4ef8.png
+  ref: file:explicit:3514699b52f31ad6f5253d94
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202610/gascity_advantages_over_sase_and_what_to_borrow/gascity_advantages_over_sase_and_what_to_borrow_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +42,7 @@
 |---|---|---|
 | [research.1x.cdx](../bbugyi200.apollo.research.1x.cdx/README.md) | research.1x hood | completed |
 | [research.1x.cld](../bbugyi200.apollo.research.1x.cld/README.md) | research.1x hood | completed |
-| [research.1x.final](../bbugyi200.apollo.research.1x.final/README.md) | research.1x hood | active |
+| [research.1x.final](../bbugyi200.apollo.research.1x.final/README.md) | research.1x hood | completed |
 | [research.1x.gem](../bbugyi200.apollo.research.1x.gem/README.md) | research.1x hood | completed |
 | [research.1x.grk](../bbugyi200.apollo.research.1x.grk/README.md) | research.1x hood | completed |
 | [research.1x.linker](../bbugyi200.apollo.research.1x.linker/README.md) | research.1x hood | waiting |
