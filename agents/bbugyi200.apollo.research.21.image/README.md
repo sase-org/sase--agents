@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.21.image
 
-**Global name:** `bbugyi200.apollo.research.21.image` · **State:** waiting · **Source run:** `run-69d79463a78cd21e6299eee5184e5f72`
+**Global name:** `bbugyi200.apollo.research.21.image` · **State:** completed · **Source run:** `run-69d79463a78cd21e6299eee5184e5f72`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261018102808
+- Timing: 2026-10-18T15:17:58.906884+00:00 → 2026-10-18T15:27:56.568247+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: Mermaid research handoff infographic, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261018102808/research\_swarm\_mermaid\_handoff\_to\_linker\_infographic-04a31fd2bc57… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: Mermaid research handoff infographic
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261018102808/research_swarm_mermaid_handoff_to_linker_infographic-04a31fd2bc57.png
+  ref: file:explicit:9eb56210651969b5b4f13048
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202610/research_swarm_mermaid_handoff_to_linker/research_swarm_mermaid_handoff_to_linker_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,10 +42,11 @@
 |---|---|---|
 | [research.21.cdx](../bbugyi200.apollo.research.21.cdx/README.md) | research.21 hood | completed |
 | [research.21.cld](../bbugyi200.apollo.research.21.cld/README.md) | research.21 hood | completed |
-| [research.21.final](../bbugyi200.apollo.research.21.final/README.md) | research.21 hood | active |
+| [research.21.final](../bbugyi200.apollo.research.21.final/README.md) | research.21 hood | completed |
 | [research.21.gem](../bbugyi200.apollo.research.21.gem/README.md) | research.21 hood | completed |
 | [research.21.grk](../bbugyi200.apollo.research.21.grk/README.md) | research.21 hood | completed |
-| [research.21.linker](../bbugyi200.apollo.research.21.linker/README.md) | research.21 hood | waiting |
+| [research.21.linker](../bbugyi200.apollo.research.21.linker/README.md) | research.21 hood | active |
+| [research.21.linker.w0](../bbugyi200.apollo.research.21.linker.w0/README.md) | research.21 hood | waiting |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
@@ -77,4 +97,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | active |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | active |
-| … and 543 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 550 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
