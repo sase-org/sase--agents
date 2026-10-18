@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.20.linker
 
-**Global name:** `bbugyi200.apollo.research.20.linker` · **State:** waiting · **Source run:** `run-6694936fc76a8554baa35dbc776595ac`
+**Global name:** `bbugyi200.apollo.research.20.linker` · **State:** active · **Source run:** `run-6694936fc76a8554baa35dbc776595ac`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261018095102
+- Timing: 2026-10-18T14:56:49.001113+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/google\_release\_engineering\_vs\_sase\_release\_plan/google\_release\_engineering\_vs\_sase\_release\_plan.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/google_release_engineering_vs_sase_release_plan/google_release_engineering_vs_sase_release_plan.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261018095102/google_release_engineering_vs_sase_release_plan-fad088590767.md
+  ref: file:explicit:cb5da05c2dd1bf3175bc1b4d
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202610/google_release_engineering_vs_sase_release_plan/google_release_engineering_vs_sase_release_plan.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -26,7 +45,7 @@
 | [research.20.final](../bbugyi200.apollo.research.20.final/README.md) | research.20 hood | completed |
 | [research.20.gem](../bbugyi200.apollo.research.20.gem/README.md) | research.20 hood | completed |
 | [research.20.grk](../bbugyi200.apollo.research.20.grk/README.md) | research.20 hood | completed |
-| [research.20.image](../bbugyi200.apollo.research.20.image/README.md) | research.20 hood | active |
+| [research.20.image](../bbugyi200.apollo.research.20.image/README.md) | research.20 hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
