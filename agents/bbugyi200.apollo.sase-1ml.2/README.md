@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1ml](../../users/bbugyi200/machines/apollo/hoods/sase-1ml/README.md) / sase-1ml.2
 
-**Global name:** `bbugyi200.apollo.sase-1ml.2` · **State:** waiting · **Source run:** `run-06066b23dd5fb4e858536d5779d98410`
+**Global name:** `bbugyi200.apollo.sase-1ml.2` · **State:** active · **Source run:** `run-06066b23dd5fb4e858536d5779d98410`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1ml
 
@@ -12,7 +12,7 @@
 - Epic: [sase-1ml](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ml/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261018115415
+- Timing: 2026-10-18T16:48:13.223605+00:00
 - Commits: 0
 
 ## Files
@@ -23,5 +23,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1ml.1](../bbugyi200.apollo.sase-1ml.1/README.md) | sase-1ml hood | active |
+| [sase-1ml.1](../bbugyi200.apollo.sase-1ml.1/README.md) | sase-1ml hood | completed |
 | [sase-1ml.land](../bbugyi200.apollo.sase-1ml.land/README.md) | sase-1ml hood | waiting |
