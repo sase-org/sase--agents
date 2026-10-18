@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781696993,"sha":"8b2ae3ef470d97acbf3b1919a1a4d90f6eec45b0","subject":"chore: Add SDD prompt and plan for agent_command_rename"},{"committed_at":1781698786,"sha":"d25be1fa2186a486bd21e9da584981a6adb14c00","subject":"feat(cli)!: rename `sase agents` to `sase agent`"}],"schema_version":2,"source_run_id":"run-d7f72fde66d757e66755a28fbf591a8c"}

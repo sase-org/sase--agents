@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-9w.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-9w/sase-9w.4.md)
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-27T06:13:09.355965 → 2026-07-27T06:32:40.435436

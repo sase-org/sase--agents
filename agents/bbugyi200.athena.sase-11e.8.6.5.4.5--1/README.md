@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-11e.8.6.5.4.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-11e/sase-11e.8.6.5.4.5.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-09-17T11:53:15.741391+00:00
