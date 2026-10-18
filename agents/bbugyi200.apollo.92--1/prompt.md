@@ -1,0 +1,107 @@
+#fork:92
+%model:grok-4.6
+%effort:high
+
+%macros_enabled:false
+# Gate answered
+
+**Decision:** Sudo request: /usr/bin/rm (+1)
+
+| | |
+| --- | --- |
+| **Outcome** | ANSWERED — Approve with sudo |
+| **Answered via** | sudo_finalize |
+| **Opened** | 2026-10-18T20:29:16Z |
+| **Answered** | 2026-10-18T20:30:17Z |
+| **Commands** | 1 of 1 completed |
+| **Gate** | sudo/sudo-d33e8808-79bc-4f4e-82bf-c56d7f693788 |
+
+## Results
+
+### approve — `commands/approve`
+
+```json
+{
+  "command_ids": [
+    "rm-stale-bins",
+    "rm-stale-packages"
+  ],
+  "ledger": [
+    {
+      "duration_seconds": 0.027359344,
+      "exit_code": 0,
+      "id": "rm-stale-bins",
+      "output_tail": "",
+      "status": "ran"
+    },
+    {
+      "duration_seconds": 0.052680555,
+      "exit_code": 0,
+      "id": "rm-stale-packages",
+      "output_tail": "",
+      "status": "ran"
+    }
+  ],
+  "receipt": {
+    "diagnostic": null,
+    "entries": [
+      {
+        "duration_seconds": 0.027359344,
+        "exit_code": 0,
+        "id": "rm-stale-bins",
+        "output_tail": "",
+        "status": "ran"
+      },
+      {
+        "duration_seconds": 0.052680555,
+        "exit_code": 0,
+        "id": "rm-stale-packages",
+        "output_tail": "",
+        "status": "ran"
+      }
+    ],
+    "manifest_sha256": "47e5ac77e57e47fdb276801c504d556b007b1cf6800c1c54bf2f6a8dae5b7adb",
+    "outcome": "completed",
+    "request_id": "sudo-d33e8808-79bc-4f4e-82bf-c56d7f693788",
+    "schema_version": 1
+  },
+  "status": "approved"
+}
+```
+
+## Your next action
+
+Continue implementing approved plan plan:202610/fix_stale_codex_shadowing.md (read it with `sase artifact read`). Auto decisions already applied: stale_installs=remove (done via this sudo gate) and shadow_detection=add. Ignore the upgrade and skip branches.
+
+STEP 1 VERIFY (do this first):
+- Confirm /usr/local/bin/codex and /usr/local/bin/claude and the two node_modules packages are gone.
+- Confirm /usr/local/bin/mcp-hub and /usr/local/lib/node_modules/mcp-hub still exist.
+- Against the runner PATH of pid 2949828 (agent sase-1m3.7.1.5--5, artifacts /home/bryan/.sase/projects/gh_sase-org__sase/artifacts/ace-run/202610/18/20261018160134): `RPATH=$(tr '\0' '\n' < /proc/$PID/environ | sed -n 's/^PATH=//p'); PATH="$RPATH" sh -c 'command -v codex && codex --version'` must print nvm's current version (was 0.163.0) and the same for claude (was 2.1.302). If that pid is gone, use `sase agent list -a -j` to find the live pid or skip PATH verification and proceed to step 2.
+- Report the verification output in your final response.
+
+STEP 2 — retry or relaunch sase-1m3.7.1.5--5:
+- Check retry_state.json and attempts/04/ plus `sase agent show sase-1m3.7.1.5--5`.
+- Retry was scheduled for 2026-10-18 20:41:42 UTC (next_retry_at_epoch 1792356102.7083778), status retrying 3/3.
+- If the retry started after this fix and is not failing with 'requires a newer version of Codex', done for step 2.
+- If the retry fired before the fix or failed anyway: relaunch through /sase_run (LaunchApproval; do NOT run `sase run` directly). Prompt source: <artifacts_dir>/raw_prompt.md. Fresh name from sase.agent.names.allocate_retry_name('sase-1m3.7.1.5--5'). Rewrite with sase.agent.retry_prompt.rewrite_retry_prompt_name(...). Do not force same-name reuse. Do not touch bead sase-1m3.7.1.5 or its notes.
+- If you must submit a launch request, put remaining durable work (steps 3-4, tests, just check) into requester_continuation.checkpoint so the resumed requester finishes it.
+
+STEP 3 — Detect shadowed agent CLI installs (shadow_detection=add):
+1. src/sase/agent_clis/detect.py: after resolving executable in detect_agent_cli_statuses, enumerate every other executable for the same binary. Walk each PATH entry (os.access(..., X_OK)) and add $NVM_BIN/<binary> when that fallback exists. Deduplicate by os.path.realpath and drop the resolved executable itself. Probe each remaining candidate with existing probe_version (same version_argv/version_regex), reusing injected run_fn.
+2. src/sase/agent_clis/models.py: add other_installs: tuple[ShadowInstall, ...] = () on AgentCliStatus, frozen dataclass ShadowInstall with executable, version, version_error. Default empty so existing constructors/fixtures keep working.
+3. src/sase/agent_clis/cli_list.py (and JSON): when other_installs is non-empty, show each extra path and version. Flag version skew when any version differs from installed_version. Remedy hint: remove the stale copy, or pin SASE_<PROVIDER>_PATH using llm_registry.provider_path_env_var.
+4. src/sase/doctor/checks_providers.py: WARN for providers with version skew. Reuse detect_agent_cli_statuses. Keep doctor read-only and offline. Register any new check through provider_check_specs.
+Keep resolve_codex_executable() precedence unchanged.
+
+STEP 4 — Actionable Codex version-rejection error:
+In src/sase/llm_provider/codex.py, where a failed Codex run becomes the provider error, detect substring 'requires a newer version of Codex' in collected error/stderr. Append one line naming the executable SASE launched (resolve_codex_executable() value already used to build argv). Suggest `sase agent-cli list` and SASE_CODEX_PATH. Keep original error text intact. Do not add this phrase to retry error_patterns.
+
+TESTS:
+- tests/ coverage for detect_agent_cli_statuses with a fake PATH containing two executables for one binary: versions differ (skew reported), versions match (listed, not flagged), same realpath through two symlinks (deduped), NVM_BIN candidate. Use existing fake run_fn / tmp-path patterns in agent-cli tests.
+- cli_list rendering test for the skew line, plus a doctor check test (WARN with skew, pass otherwise).
+- A codex provider test asserting the version-rejection error gains the launched-executable hint and keeps the original message.
+
+VERIFICATION: read lint_and_test with /sase_memory_read. Use `just check` through `sase tool run` (not just check-full). The machine fix does not touch git-tracked files. Report step 1 verification output and step 2 outcome in your final response.
+
+Do not mention your workspace directory in any plan files. Follow SASE skills: /sase_sudo already used; /sase_run for relaunch; /sase_final at the end of a normal completing turn; /sase_memory_read for lint_and_test; /sase_new_task before any new task bead (do not file the skip-branch bead).
+%macros_enabled:true

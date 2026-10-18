@@ -24,4 +24,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [92](../../sessions/bbugyi200.apollo.92.md) (session · 3) | ancestor | active 2, failed 1 |
+| [92](../../sessions/bbugyi200.apollo.92.md) (session · 5) | ancestor | active 1, completed 2, failed 2 |
