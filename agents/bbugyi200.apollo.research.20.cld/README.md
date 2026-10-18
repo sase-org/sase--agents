@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.20.cld
 
-**Global name:** `bbugyi200.apollo.research.20.cld` · **State:** active · **Source run:** `run-7e0d8fedbd630355a5c8804612d809e5`
+**Global name:** `bbugyi200.apollo.research.20.cld` · **State:** completed · **Source run:** `run-7e0d8fedbd630355a5c8804612d809e5`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-18T13:51:36.125601+00:00
+- Timing: 2026-10-18T13:51:36.125601+00:00 → 2026-10-18T14:21:28.350330+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -41,7 +41,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [research.20.cdx](../bbugyi200.apollo.research.20.cdx/README.md) | research.20 hood | completed |
-| [research.20.final](../bbugyi200.apollo.research.20.final/README.md) | research.20 hood | waiting |
+| [research.20.final](../bbugyi200.apollo.research.20.final/README.md) | research.20 hood | completed |
 | [research.20.gem](../bbugyi200.apollo.research.20.gem/README.md) | research.20 hood | completed |
 | [research.20.grk](../bbugyi200.apollo.research.20.grk/README.md) | research.20 hood | completed |
 | [research.20.image](../bbugyi200.apollo.research.20.image/README.md) | research.20 hood | waiting |
@@ -96,4 +96,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | active |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | active |
-| … and 536 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 543 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

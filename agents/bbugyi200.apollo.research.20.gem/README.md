@@ -41,8 +41,8 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [research.20.cdx](../bbugyi200.apollo.research.20.cdx/README.md) | research.20 hood | completed |
-| [research.20.cld](../bbugyi200.apollo.research.20.cld/README.md) | research.20 hood | active |
-| [research.20.final](../bbugyi200.apollo.research.20.final/README.md) | research.20 hood | waiting |
+| [research.20.cld](../bbugyi200.apollo.research.20.cld/README.md) | research.20 hood | completed |
+| [research.20.final](../bbugyi200.apollo.research.20.final/README.md) | research.20 hood | completed |
 | [research.20.grk](../bbugyi200.apollo.research.20.grk/README.md) | research.20 hood | completed |
 | [research.20.image](../bbugyi200.apollo.research.20.image/README.md) | research.20 hood | waiting |
 | [research.20.linker](../bbugyi200.apollo.research.20.linker/README.md) | research.20 hood | waiting |
@@ -96,4 +96,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | active |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | active |
-| … and 536 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 543 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
