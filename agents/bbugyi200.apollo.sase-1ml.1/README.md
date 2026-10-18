@@ -23,5 +23,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1ml.2](../bbugyi200.apollo.sase-1ml.2/README.md) | sase-1ml hood | active |
-| [sase-1ml.land](../bbugyi200.apollo.sase-1ml.land/README.md) | sase-1ml hood | waiting |
+| [sase-1ml.2](../bbugyi200.apollo.sase-1ml.2/README.md) | sase-1ml hood | completed |
+| [sase-1ml.land](../bbugyi200.apollo.sase-1ml.land/README.md) | sase-1ml hood | completed |
