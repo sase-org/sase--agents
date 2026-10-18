@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-18T13:51:36.125601+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/google\_release\_process\_vs\_merge\_queue\_release\_plan\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261018095057/google\_release\_process\_v… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/google_release_process_vs_merge_queue_release_plan__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261018095057/google_release_process_vs_merge_queue_release_plan__cld-13540b0b4fc0.md
+  ref: file:explicit:f89418ea0e7bcd4a29395542
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202610/google_release_process_vs_merge_queue_release_plan__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.20.cdx](../bbugyi200.apollo.research.20.cdx/README.md) | research.20 hood | completed |
 | [research.20.final](../bbugyi200.apollo.research.20.final/README.md) | research.20 hood | waiting |
 | [research.20.gem](../bbugyi200.apollo.research.20.gem/README.md) | research.20 hood | completed |
-| [research.20.grk](../bbugyi200.apollo.research.20.grk/README.md) | research.20 hood | active |
+| [research.20.grk](../bbugyi200.apollo.research.20.grk/README.md) | research.20 hood | completed |
 | [research.20.image](../bbugyi200.apollo.research.20.image/README.md) | research.20 hood | waiting |
 | [research.20.linker](../bbugyi200.apollo.research.20.linker/README.md) | research.20 hood | waiting |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
