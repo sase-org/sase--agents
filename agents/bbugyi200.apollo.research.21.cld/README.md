@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-18T14:29:04.164757+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/research\_swarm\_mermaid\_diagram\_handoff\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261018102804/research\_swarm\_mermaid\_diagram\_hando… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/research_swarm_mermaid_diagram_handoff__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261018102804/research_swarm_mermaid_diagram_handoff__cld-885d347f080d.md
+  ref: file:explicit:d1518794cce1bba8972a2867
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13/sase/repos/research/202610/research_swarm_mermaid_diagram_handoff__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.21.cdx](../bbugyi200.apollo.research.21.cdx/README.md) | research.21 hood | completed |
 | [research.21.final](../bbugyi200.apollo.research.21.final/README.md) | research.21 hood | waiting |
 | [research.21.gem](../bbugyi200.apollo.research.21.gem/README.md) | research.21 hood | completed |
-| [research.21.grk](../bbugyi200.apollo.research.21.grk/README.md) | research.21 hood | active |
+| [research.21.grk](../bbugyi200.apollo.research.21.grk/README.md) | research.21 hood | completed |
 | [research.21.image](../bbugyi200.apollo.research.21.image/README.md) | research.21 hood | waiting |
 | [research.21.linker](../bbugyi200.apollo.research.21.linker/README.md) | research.21 hood | waiting |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |

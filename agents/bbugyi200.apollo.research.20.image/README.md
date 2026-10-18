@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.20.image
 
-**Global name:** `bbugyi200.apollo.research.20.image` · **State:** waiting · **Source run:** `run-8fe7fbc57ef9704f290a25be8a5731a7`
+**Global name:** `bbugyi200.apollo.research.20.image` · **State:** active · **Source run:** `run-8fe7fbc57ef9704f290a25be8a5731a7`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261018095101
+- Timing: 2026-10-18T14:47:52.029166+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: research:202610/google\_release\_engineering\_vs\_sase\_release\_plan/google\_release\_engineering\_vs\_sase\_release\_plan\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: research:202610/google_release_engineering_vs_sase_release_plan/google_release_engineering_vs_sase_release_plan_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261018095101/google_release_engineering_vs_sase_release_plan_infographic-aea9530a1dc6.png
+  ref: file:explicit:fc0fdb8131dcb992c15d7b72
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202610/google_release_engineering_vs_sase_release_plan/google_release_engineering_vs_sase_release_plan_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
