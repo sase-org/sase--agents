@@ -2,22 +2,21 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1m3](../../users/bbugyi200/machines/apollo/hoods/sase-1m3/README.md) / sase-1m3.7.1.2
 
-**Global name:** `bbugyi200.apollo.sase-1m3.7.1.2` · **State:** active · **Source run:** `run-93632ece235409f4191279506715260c`
+**Global name:** `bbugyi200.apollo.sase-1m3.7.1.2` · **State:** completed · **Source run:** `run-454085937b17eb4a02a73cf39b6d40fe`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1m3
 
 ## Summary
 
 - Bead: [sase-1m3.7.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1m3/sase-1m3.7.1.2.md)
-- Epic: [sase-1m3.7.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1m3/sase-1m3.7.1.md)
-- Model: grok-4.6
-- Provider: grok
-- Timing: 2026-10-17T12:01:13.156687+00:00
+- Model: gpt-6-astra
+- Provider: codex
+- Timing: 2026-10-18T11:36:35.864949+00:00 → 2026-10-18T11:45:40.796792+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -26,7 +25,7 @@
 | [sase-1m3.7](../../sessions/bbugyi200.apollo.sase-1m3.7.md) (session · 3) | ancestor | failed 3 |
 | [sase-1m3.7.1.1](../bbugyi200.apollo.sase-1m3.7.1.1/README.md) | sase-1m3.7.1 hood | completed |
 | [sase-1m3.7.1.3](../bbugyi200.apollo.sase-1m3.7.1.3/README.md) | sase-1m3.7.1 hood | completed |
-| [sase-1m3.7.1.4](../bbugyi200.apollo.sase-1m3.7.1.4/README.md) | sase-1m3.7.1 hood | waiting |
+| [sase-1m3.7.1.4](../bbugyi200.apollo.sase-1m3.7.1.4/README.md) | sase-1m3.7.1 hood | active |
 | [sase-1m3.7.1.5](../bbugyi200.apollo.sase-1m3.7.1.5/README.md) | sase-1m3.7.1 hood | waiting |
 | [sase-1m3.7.1.land](../bbugyi200.apollo.sase-1m3.7.1.land/README.md) | sase-1m3.7.1 hood | waiting |
 | [sase-1m3.1](../bbugyi200.apollo.sase-1m3.1/README.md) | sase-1m3 hood | completed |
@@ -42,7 +41,7 @@
 | [sase-1m3.4.1.4](../bbugyi200.apollo.sase-1m3.4.1.4/README.md) | sase-1m3 hood | active |
 | [sase-1m3.4.1.land](../../sessions/bbugyi200.apollo.sase-1m3.4.1.land.md) (session · 3) | sase-1m3 hood | active 2, completed 1 |
 | [sase-1m3.5](../bbugyi200.apollo.sase-1m3.5/README.md) | sase-1m3 hood | completed |
-| [sase-1m3.6](../bbugyi200.apollo.sase-1m3.6/README.md) | sase-1m3 hood | active |
+| [sase-1m3.6](../bbugyi200.apollo.sase-1m3.6/README.md) | sase-1m3 hood | completed |
 | [sase-1m3.8](../../sessions/bbugyi200.apollo.sase-1m3.8.md) (session · 2) | sase-1m3 hood | completed 1, failed 1 |
 | [sase-1m3.9](../bbugyi200.apollo.sase-1m3.9/README.md) | sase-1m3 hood | waiting |
 | [sase-1m3.land](../bbugyi200.apollo.sase-1m3.land/README.md) | sase-1m3 hood | waiting |
