@@ -21,12 +21,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.22.cdx](../bbugyi200.apollo.research.22.cdx/README.md) | research.22 hood | active |
-| [research.22.cld](../bbugyi200.apollo.research.22.cld/README.md) | research.22 hood | active |
-| [research.22.final](../bbugyi200.apollo.research.22.final/README.md) | research.22 hood | waiting |
-| [research.22.gem](../bbugyi200.apollo.research.22.gem/README.md) | research.22 hood | active |
-| [research.22.grk](../bbugyi200.apollo.research.22.grk/README.md) | research.22 hood | active |
-| [research.22.image](../bbugyi200.apollo.research.22.image/README.md) | research.22 hood | waiting |
+| [research.22.cdx](../bbugyi200.apollo.research.22.cdx/README.md) | research.22 hood | completed |
+| [research.22.cld](../bbugyi200.apollo.research.22.cld/README.md) | research.22 hood | completed |
+| [research.22.final](../bbugyi200.apollo.research.22.final/README.md) | research.22 hood | completed |
+| [research.22.gem](../bbugyi200.apollo.research.22.gem/README.md) | research.22 hood | completed |
+| [research.22.grk](../bbugyi200.apollo.research.22.grk/README.md) | research.22 hood | completed |
+| [research.22.image](../bbugyi200.apollo.research.22.image/README.md) | research.22 hood | active |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
