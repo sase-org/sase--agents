@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.22.linker
 
-**Global name:** `bbugyi200.apollo.research.22.linker` · **State:** waiting · **Source run:** `run-7de9476057ae60a7484c012c8dda1831`
+**Global name:** `bbugyi200.apollo.research.22.linker` · **State:** completed · **Source run:** `run-7de9476057ae60a7484c012c8dda1831`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,23 +10,43 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261018111727
+- Timing: 2026-10-18T16:32:46.698048+00:00 → 2026-10-18T16:46:35.805836+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/pypi\_release\_reliability\_design\_and\_work\_split/pypi\_release\_reliability\_design\_and\_work\_split.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/2… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/pypi_release_reliability_design_and_work_split/pypi_release_reliability_design_and_work_split.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261018111727/pypi_release_reliability_design_and_work_split-2085a5506408.md
+  ref: file:explicit:d92eb42a86d3d1b8a69c159b
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202610/pypi_release_reliability_design_and_work_split/pypi_release_reliability_design_and_work_split.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [research.22.linker.w0](../../sessions/bbugyi200.apollo.research.22.linker.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
 | [research.22.cdx](../bbugyi200.apollo.research.22.cdx/README.md) | research.22 hood | completed |
 | [research.22.cld](../bbugyi200.apollo.research.22.cld/README.md) | research.22 hood | completed |
 | [research.22.final](../bbugyi200.apollo.research.22.final/README.md) | research.22 hood | completed |
 | [research.22.gem](../bbugyi200.apollo.research.22.gem/README.md) | research.22 hood | completed |
 | [research.22.grk](../bbugyi200.apollo.research.22.grk/README.md) | research.22 hood | completed |
-| [research.22.image](../bbugyi200.apollo.research.22.image/README.md) | research.22 hood | active |
+| [research.22.image](../bbugyi200.apollo.research.22.image/README.md) | research.22 hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |

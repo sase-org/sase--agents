@@ -8,4 +8,4 @@
 |---|---|---|---|---:|---|
 | [sase-1ml.2](../../../../../../agents/bbugyi200.apollo.sase-1ml.2/README.md) | active | grok-4.6 / grok | 2026-10-18T16:48:13.223605+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1ml.2/prompt.md) |
 | [sase-1ml.land](../../../../../../agents/bbugyi200.apollo.sase-1ml.land/README.md) | waiting | gpt-6-astra / codex | 20261018115416 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1ml.land/prompt.md) |
-| [sase-1ml.1](../../../../../../agents/bbugyi200.apollo.sase-1ml.1/README.md) | completed | sonnet / claude | 2026-10-18T15:54:51.714578+00:00 → 2026-10-18T16:47:37.059637+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1ml.1/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.sase-1ml.1/chat.md) |
+| [sase-1ml.1](../../../../../../agents/bbugyi200.apollo.sase-1ml.1/README.md) | completed | sonnet / claude | 2026-10-18T15:54:51.714578+00:00 → 2026-10-18T16:47:37.059637+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1ml.1/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-1ml.1/prompt.md) |

@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-lh.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-lh/sase-lh.3.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-14T01:18:13.999487+00:00
