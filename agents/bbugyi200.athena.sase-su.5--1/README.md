@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-su.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-su/sase-su.5.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-24T18:45:01.670681+00:00

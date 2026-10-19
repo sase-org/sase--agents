@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [sase-ku.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ku/sase-ku.4.md)
 - Model: —
 - Provider: —
 - Timing: 2026-08-13T15:15:44+00:00 → 2026-08-13T15:15:44+00:00
