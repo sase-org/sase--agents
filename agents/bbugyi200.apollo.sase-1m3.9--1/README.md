@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1m3](../../users/bbugyi200/machines/apollo/hoods/sase-1m3/README.md) / [sase-1m3.9](../../sessions/bbugyi200.apollo.sase-1m3.9.md) / sase-1m3.9--1
 
-**Global name:** `bbugyi200.apollo.sase-1m3.9--1` · **State:** active · **Source run:** `run-76c2f8526a56ab67f1ec8013bce372f7`
+**Global name:** `bbugyi200.apollo.sase-1m3.9--1` · **State:** completed · **Source run:** `run-76c2f8526a56ab67f1ec8013bce372f7`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1m3
 
@@ -11,12 +11,12 @@
 - Bead: [sase-1m3.9](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1m3/sase-1m3.9.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-19T12:47:05.392384+00:00
+- Timing: 2026-10-19T12:47:05.392384+00:00 → 2026-10-19T12:56:16.518843+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,8 +29,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1m3.1](../bbugyi200.apollo.sase-1m3.1/README.md) | sase-1m3 hood | completed |
-| [sase-1m3.10](../bbugyi200.apollo.sase-1m3.10/README.md) | sase-1m3 hood | waiting |
-| [sase-1m3.11](../bbugyi200.apollo.sase-1m3.11/README.md) | sase-1m3 hood | waiting |
+| [sase-1m3.10](../bbugyi200.apollo.sase-1m3.10/README.md) | sase-1m3 hood | completed |
+| [sase-1m3.11](../../sessions/bbugyi200.apollo.sase-1m3.11.md) (session · 14) | sase-1m3 hood | active 1, completed 7, failed 6 |
 | [sase-1m3.12](../bbugyi200.apollo.sase-1m3.12/README.md) | sase-1m3 hood | waiting |
 | [sase-1m3.2](../bbugyi200.apollo.sase-1m3.2/README.md) | sase-1m3 hood | completed |
 | [sase-1m3.3](../bbugyi200.apollo.sase-1m3.3/README.md) | sase-1m3 hood | completed |

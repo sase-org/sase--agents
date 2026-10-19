@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `sase-1m3` · Members: 3 · Bead: [sase-1m3.9
 
 ```mermaid
 flowchart TD
-  n0["sase-1m3.9--1 [active]"]
+  n0["sase-1m3.9--1 [completed]"]
   n1["sase-1m3.9--mon [failed]"]
   n0 --> n1
   n2["sase-1m3.9--plan [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-1m3.9--1 | active | grok-4.6 / grok | 2026-10-19T12:47:05.392384+00:00 | [1](../agents/bbugyi200.apollo.sase-1m3.9--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-1m3.9--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1m3.9--1 | completed | grok-4.6 / grok | 2026-10-19T12:47:05.392384+00:00 → 2026-10-19T12:56:16.518843+00:00 | [1](../agents/bbugyi200.apollo.sase-1m3.9--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-1m3.9--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1m3.9--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-1m3.9--mon | failed | grok-4.6 / grok | 2026-10-19T12:18:51.152234+00:00 → 2026-10-19T12:47:05.458563+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1m3.9--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1m3.9--plan | completed | grok-4.6 / grok | 2026-10-19T10:14:52.643382+00:00 → 2026-10-19T12:20:15.847332+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1m3.9--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1m3.9--plan/chat.md) |
 
@@ -34,8 +34,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1m3.1](../agents/bbugyi200.apollo.sase-1m3.1/README.md) | sase-1m3 hood | completed |
-| [sase-1m3.10](../agents/bbugyi200.apollo.sase-1m3.10/README.md) | sase-1m3 hood | waiting |
-| [sase-1m3.11](../agents/bbugyi200.apollo.sase-1m3.11/README.md) | sase-1m3 hood | waiting |
+| [sase-1m3.10](../agents/bbugyi200.apollo.sase-1m3.10/README.md) | sase-1m3 hood | completed |
+| [sase-1m3.11](bbugyi200.apollo.sase-1m3.11.md) (session · 14) | sase-1m3 hood | active 1, completed 7, failed 6 |
 | [sase-1m3.12](../agents/bbugyi200.apollo.sase-1m3.12/README.md) | sase-1m3 hood | waiting |
 | [sase-1m3.2](../agents/bbugyi200.apollo.sase-1m3.2/README.md) | sase-1m3 hood | completed |
 | [sase-1m3.3](../agents/bbugyi200.apollo.sase-1m3.3/README.md) | sase-1m3 hood | completed |
