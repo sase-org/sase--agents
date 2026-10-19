@@ -31,9 +31,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | sase-1m3.7.1.land--mon | failed | gpt-6-luna / codex | 2026-10-18T23:26:01.709179+00:00 → 2026-10-18T23:40:29.505466+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1m3.7.1.land--mon/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-1m3.7.1.land--mon-0 | failed | gpt-6-luna / codex | 2026-10-18T23:43:42.844657+00:00 → 2026-10-19T00:18:05.306439+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1m3.7.1.land--mon-0/chat.md) |
 | <a id="member-1"></a>1 | sase-1m3.7.1.land--1 | completed | gpt-6-luna / codex | 2026-10-18T23:40:29.142586+00:00 → 2026-10-18T23:44:59.794297+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1m3.7.1.land--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1m3.7.1.land--1/chat.md) |
-| <a id="member-2"></a>2 | sase-1m3.7.1.land--2 | active | gpt-6-luna / codex | 2026-10-19T00:18:06.908836+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1m3.7.1.land--2/prompt.md) | — |
+| <a id="member-2"></a>2 | sase-1m3.7.1.land--2 | active | gpt-6-luna / codex | 2026-10-19T00:18:06.908836+00:00 | [1](../agents/bbugyi200.apollo.sase-1m3.7.1.land--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-1m3.7.1.land--2/prompt.md) | — |
 | <a id="member-gate"></a>gate | sase-1m3.7.1.land--gate | failed | opus / claude | 2026-10-18T22:54:13.918718+00:00 → 2026-10-18T22:54:33.235737+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1m3.7.1.land--gate/chat.md) |
 | <a id="member-plan"></a>plan | sase-1m3.7.1.land--plan | completed | opus / claude | 2026-10-18T22:26:19.389114+00:00 → 2026-10-18T23:28:02.670992+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1m3.7.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1m3.7.1.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 2 | sase | [`dd963c0`](https://github.com/sase-org/sase/commit/dd963c0fa64ab25beeaf84ac8e9d073bbb518c91) | fix(stats): align project code counter with SLOC | 2026-10-18 21:32:50 EDT |
 
 ## Neighbors
 
