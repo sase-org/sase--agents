@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [sase-1m3](../users/bbugyi200/machines/apollo/hoods/sase-1m3/README.md) / sase-1m3.11
 
-Owner: `bbugyi200.apollo` · Hood: `sase-1m3` · Members: 14 · Bead: [sase-1m3.11](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1m3/sase-1m3.11.md)
+Owner: `bbugyi200.apollo` · Hood: `sase-1m3` · Members: 15 · Bead: [sase-1m3.11](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1m3/sase-1m3.11.md)
 
 ## Lineage
 
@@ -13,28 +13,30 @@ flowchart TD
   n0 --> n1
   n2["sase-1m3.11--2 [completed]"]
   n0 --> n2
-  n3["sase-1m3.11--mon-4 [active]"]
+  n3["sase-1m3.11--mon-4 [failed]"]
   n0 --> n3
   n4["sase-1m3.11--mon-3 [failed]"]
   n0 --> n4
   n5["sase-1m3.11--mon-0 [failed]"]
   n0 --> n5
-  n6["sase-1m3.11--code [completed]"]
+  n6["sase-1m3.11--6 [completed]"]
   n0 --> n6
-  n7["sase-1m3.11--4 [completed]"]
+  n7["sase-1m3.11--code [completed]"]
   n0 --> n7
-  n8["sase-1m3.11--mon [failed]"]
+  n8["sase-1m3.11--4 [completed]"]
   n0 --> n8
-  n9["sase-1m3.11--1 [completed]"]
+  n9["sase-1m3.11--mon [failed]"]
   n0 --> n9
-  n10["sase-1m3.11--mon-2 [failed]"]
+  n10["sase-1m3.11--1 [completed]"]
   n0 --> n10
-  n11["sase-1m3.11--gate [failed]"]
+  n11["sase-1m3.11--mon-2 [failed]"]
   n0 --> n11
-  n12["sase-1m3.11--mon-1 [failed]"]
+  n12["sase-1m3.11--gate [failed]"]
   n0 --> n12
-  n13["sase-1m3.11--5 [completed]"]
+  n13["sase-1m3.11--mon-1 [failed]"]
   n0 --> n13
+  n14["sase-1m3.11--5 [completed]"]
+  n0 --> n14
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -44,9 +46,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-3"></a>3 | sase-1m3.11--3 | completed | grok-4.6 / grok | 2026-10-19T14:39:30.473268+00:00 → 2026-10-19T14:45:43.775923+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1m3.11--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1m3.11--3/chat.md) |
 | <a id="member-plan"></a>plan | sase-1m3.11--plan | completed | gpt-6-astra / codex | 2026-10-19T12:56:41.882535+00:00 → 2026-10-19T14:09:19.643388+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1m3.11--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1m3.11--plan/chat.md) |
 | <a id="member-2"></a>2 | sase-1m3.11--2 | completed | grok-4.6 / grok | 2026-10-19T14:27:29.351784+00:00 → 2026-10-19T14:37:20.976269+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1m3.11--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1m3.11--2/chat.md) |
-| <a id="member-mon-4"></a>mon-4 | sase-1m3.11--mon-4 | active | grok-4.6 / grok | 2026-10-19T16:41:24.441608+00:00 | [1](../agents/bbugyi200.apollo.sase-1m3.11--mon-4/README.md#commits) | — | — |
+| <a id="member-mon-4"></a>mon-4 | sase-1m3.11--mon-4 | failed | grok-4.6 / grok | 2026-10-19T16:41:24.441608+00:00 → 2026-10-19T17:13:52.971558+00:00 | [1](../agents/bbugyi200.apollo.sase-1m3.11--mon-4/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.sase-1m3.11--mon-4/chat.md) |
 | <a id="member-mon-3"></a>mon-3 | sase-1m3.11--mon-3 | failed | grok-4.6 / grok | 2026-10-19T15:31:53.132706+00:00 → 2026-10-19T16:33:09.685132+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1m3.11--mon-3/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-1m3.11--mon-0 | failed | grok-4.6 / grok | 2026-10-19T14:24:11.588495+00:00 → 2026-10-19T14:27:29.056117+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1m3.11--mon-0/chat.md) |
+| <a id="member-6"></a>6 | sase-1m3.11--6 | completed | grok-4.6 / grok | 2026-10-19T17:13:52.806994+00:00 → 2026-10-19T17:19:54.909068+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1m3.11--6/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1m3.11--6/chat.md) |
 | <a id="member-code"></a>code | sase-1m3.11--code | completed | grok-4.6 / grok | 2026-10-19T13:06:24.729853+00:00 → 2026-10-19T14:09:19.643388+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1m3.11--code/chat.md) |
 | <a id="member-4"></a>4 | sase-1m3.11--4 | completed | grok-4.6 / grok | 2026-10-19T15:25:12.030367+00:00 → 2026-10-19T15:33:20.432088+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1m3.11--4/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1m3.11--4/chat.md) |
 | <a id="member-mon"></a>mon | sase-1m3.11--mon | failed | grok-4.6 / grok | 2026-10-19T14:07:10.288738+00:00 → 2026-10-19T14:15:15.149565+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1m3.11--mon/chat.md) |
@@ -68,7 +71,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1m3.1](../agents/bbugyi200.apollo.sase-1m3.1/README.md) | sase-1m3 hood | completed |
 | [sase-1m3.10](../agents/bbugyi200.apollo.sase-1m3.10/README.md) | sase-1m3 hood | completed |
-| [sase-1m3.12](../agents/bbugyi200.apollo.sase-1m3.12/README.md) | sase-1m3 hood | waiting |
+| [sase-1m3.12](bbugyi200.apollo.sase-1m3.12.md) (session · 3) | sase-1m3 hood | active 1, completed 1, failed 1 |
 | [sase-1m3.2](../agents/bbugyi200.apollo.sase-1m3.2/README.md) | sase-1m3 hood | completed |
 | [sase-1m3.3](../agents/bbugyi200.apollo.sase-1m3.3/README.md) | sase-1m3 hood | completed |
 | [sase-1m3.4](bbugyi200.apollo.sase-1m3.4.md) (session · 3) | sase-1m3 hood | failed 3 |
