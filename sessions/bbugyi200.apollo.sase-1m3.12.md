@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1m3.12--plan [completed]"]
   n1["sase-1m3.12--mon [failed]"]
   n0 --> n1
-  n2["sase-1m3.12--1 [active]"]
+  n2["sase-1m3.12--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-1m3.12--plan | completed | gpt-6-luna / codex | 2026-10-19T17:20:23.663644+00:00 → 2026-10-19T19:12:42.576201+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1m3.12--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1m3.12--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-1m3.12--mon | failed | gpt-6-luna / codex | 2026-10-19T19:11:07.912574+00:00 → 2026-10-19T19:41:59.064652+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1m3.12--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-1m3.12--1 | active | gpt-6-luna / codex | 2026-10-19T19:41:58.788556+00:00 | [1](../agents/bbugyi200.apollo.sase-1m3.12--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-1m3.12--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1m3.12--1 | completed | gpt-6-luna / codex | 2026-10-19T19:41:58.788556+00:00 → 2026-10-19T19:52:38.376593+00:00 | [1](../agents/bbugyi200.apollo.sase-1m3.12--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-1m3.12--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1m3.12--1/chat.md) |
 
 ## Commits
 
@@ -47,15 +47,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1m3.5](../agents/bbugyi200.apollo.sase-1m3.5/README.md) | sase-1m3 hood | completed |
 | [sase-1m3.6](../agents/bbugyi200.apollo.sase-1m3.6/README.md) | sase-1m3 hood | completed |
 | [sase-1m3.7](bbugyi200.apollo.sase-1m3.7.md) (session · 3) | sase-1m3 hood | failed 3 |
-| [sase-1m3.7.1.1](../agents/bbugyi200.apollo.sase-1m3.7.1.1/README.md) | sase-1m3 hood | completed |
+| [sase-1m3.7.1.1](../agents/bbugyi200.apollo.sase-1m3.7.1.1/README.md) | sase-1m3 hood | active |
 | [sase-1m3.7.1.2](bbugyi200.apollo.sase-1m3.7.1.2.md) (session · 5) | sase-1m3 hood | active 1, completed 2, failed 2 |
-| [sase-1m3.7.1.2](../agents/bbugyi200.apollo.sase-1m3.7.1.2/README.md) | sase-1m3 hood | completed |
-| [sase-1m3.7.1.3](../agents/bbugyi200.apollo.sase-1m3.7.1.3/README.md) | sase-1m3 hood | completed |
-| [sase-1m3.7.1.4](../agents/bbugyi200.apollo.sase-1m3.7.1.4/README.md) | sase-1m3 hood | completed |
-| [sase-1m3.7.1.5](bbugyi200.apollo.sase-1m3.7.1.5.md) (session · 13) | sase-1m3 hood | completed 7, failed 6 |
+| [sase-1m3.7.1.2](../agents/bbugyi200.apollo.sase-1m3.7.1.2/README.md) | sase-1m3 hood | active |
+| [sase-1m3.7.1.3](../agents/bbugyi200.apollo.sase-1m3.7.1.3/README.md) | sase-1m3 hood | active |
+| [sase-1m3.7.1.4](../agents/bbugyi200.apollo.sase-1m3.7.1.4/README.md) | sase-1m3 hood | active |
+| [sase-1m3.7.1.5](bbugyi200.apollo.sase-1m3.7.1.5.md) (session · 13) | sase-1m3 hood | active 13 |
 | [sase-1m3.7.1.5](../agents/bbugyi200.apollo.sase-1m3.7.1.5/README.md) | sase-1m3 hood | waiting |
-| [sase-1m3.7.1.land](bbugyi200.apollo.sase-1m3.7.1.land.md) (session · 7) | sase-1m3 hood | completed 4, failed 3 |
+| [sase-1m3.7.1.land](bbugyi200.apollo.sase-1m3.7.1.land.md) (session · 7) | sase-1m3 hood | active 5, completed 1, failed 1 |
 | [sase-1m3.8](bbugyi200.apollo.sase-1m3.8.md) (session · 2) | sase-1m3 hood | completed 1, failed 1 |
 | [sase-1m3.8](../agents/bbugyi200.apollo.sase-1m3.8/README.md) | sase-1m3 hood | completed |
 | [sase-1m3.9](bbugyi200.apollo.sase-1m3.9.md) (session · 3) | sase-1m3 hood | completed 2, failed 1 |
-| [sase-1m3.land](../agents/bbugyi200.apollo.sase-1m3.land/README.md) | sase-1m3 hood | waiting |
+| [sase-1m3.land](bbugyi200.apollo.sase-1m3.land.md) (session · 5) | sase-1m3 hood | active 1, completed 2, failed 2 |
