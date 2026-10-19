@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-1m3.7.1.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1m3/sase-1m3.7.1.5.md)
 - Model: gpt-6-astra
 - Provider: codex
 - Timing: 2026-10-18T16:54:40.145373+00:00

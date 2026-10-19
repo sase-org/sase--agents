@@ -23,11 +23,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-1m3.land--1 | active | muse-spark-1.3-contributor / muse | 2026-10-19T21:31:03.437396+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1m3.land--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1m3.land--1 | active | muse-spark-1.3-contributor / muse | 2026-10-19T21:31:03.437396+00:00 | [1](../agents/bbugyi200.apollo.sase-1m3.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-1m3.land--1/prompt.md) | — |
 | <a id="member-mon"></a>mon | sase-1m3.land--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-19T21:13:53.944011+00:00 → 2026-10-19T21:30:48.951241+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1m3.land--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1m3.land--plan | completed | opus / claude | 2026-10-19T19:53:08.597760+00:00 → 2026-10-19T21:15:25.520633+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1m3.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1m3.land--plan/chat.md) |
 | <a id="member-code"></a>code | sase-1m3.land--code | completed | muse-spark-1.3-contributor / muse | 2026-10-19T20:30:54.170289+00:00 → 2026-10-19T21:15:25.520633+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1m3.land--code/chat.md) |
 | <a id="member-gate"></a>gate | sase-1m3.land--gate | failed | opus / claude | 2026-10-19T20:30:01.983040+00:00 → 2026-10-19T20:30:20.772441+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1m3.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`03c7231`](https://github.com/sase-org/sase/commit/03c7231e11fc68161534ec366c8a399ca53f24f7) | feat(stats): keep Projects report painted across refreshes and stabilize help | 2026-10-19 18:03:58 EDT |
 
 ## Neighbors
 

@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-4r.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-4r/sase-4r.5.md)
 - Model: —
 - Provider: —
 - Timing: 2026-06-16T19:30:30+00:00 → 2026-06-16T19:30:30+00:00

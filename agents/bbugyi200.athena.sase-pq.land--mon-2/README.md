@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-pq](https://github.com/sase-org/sase--beads/blob/main/pages/sase-pq/README.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-18T18:41:50.339011+00:00

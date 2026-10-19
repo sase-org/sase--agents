@@ -8,15 +8,20 @@
 
 ## Summary
 
-- Bead: [sase-1m3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1m3/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-19T21:31:03.437396+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`03c7231`](https://github.com/sase-org/sase/commit/03c7231e11fc68161534ec366c8a399ca53f24f7) | feat(stats): keep Projects report painted across refreshes and stabilize help | 2026-10-19 18:03:58 EDT |
 
 ## Neighbors
 

@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [sase-6f.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-6f/sase-6f.4.md)
 - Model: haiku
 - Provider: claude
 - Timing: 2026-07-16T16:20:58.811285 → 2026-07-16T16:28:14.669113
