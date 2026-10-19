@@ -67,6 +67,7 @@
 | [11m.md](11m.md) | %queue(weight=1) #fork:11m--code %model:grok-4.6@medium | - | [bbugyi200.athena.11m--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.11m.md) | 0 |
 | [11o.md](11o.md) | %model:@small #gh:gh_sase-org__sase [@plan:202610/research_diagrams_drop_bob.md][1] | - | [bbugyi200.athena.11o--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.11o.md) | 1 |
 | [11p.md](11p.md) | %queue(weight=1) #fork:11p--code %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.11p--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.11p.md) | 0 |
+| [11t.md](11t.md) | gh:gh_sase-org__sase How was the `11q.w0` sase agent able to start before the `11q` | - | [bbugyi200.athena.11t](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.11t/README.md) | 0 |
 | [1j.md](1j.md) | gh:gh_sase-org__sase Is the `bob-cli-6l.2.1.6` sase agent running on my apollo machine | - | [bbugyi200.kellys_mbp.1j](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.1j/README.md) | 0 |
 | [3r.md](3r.md) | %queue(weight=1) %auto #fork:3r--4 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3r--5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3r.md) | 0 |
 | [3v.md](3v.md) | %queue(weight=1) %auto #fork:3v--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3v--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3v.md) | 0 |
