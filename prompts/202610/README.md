@@ -70,6 +70,7 @@
 | [11t.md](11t.md) | gh:gh_sase-org__sase How was the `11q.w0` sase agent able to start before the `11q` | - | [bbugyi200.athena.11t](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.11t/README.md) | 0 |
 | [11u.md](11u.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202610/gate_wait_early_release.md][1] | - | [bbugyi200.athena.11u--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.11u.md) | 1 |
 | [11z.md](11z.md) | gh:gh_sase-org__sase Why did my mac just get an sshd request (a window popped up that | - | [bbugyi200.athena.11z](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.11z/README.md) | 0 |
+| [127.md](127.md) | %queue(weight=1) #fork:127--code %model:gpt-6-luna %effort:high | - | [bbugyi200.athena.127--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.127.md) | 0 |
 | [1j.md](1j.md) | gh:gh_sase-org__sase Is the `bob-cli-6l.2.1.6` sase agent running on my apollo machine | - | [bbugyi200.kellys_mbp.1j](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.1j/README.md) | 0 |
 | [3r.md](3r.md) | %queue(weight=1) %auto #fork:3r--4 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3r--5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3r.md) | 0 |
 | [3v.md](3v.md) | %queue(weight=1) %auto #fork:3v--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3v--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3v.md) | 0 |
