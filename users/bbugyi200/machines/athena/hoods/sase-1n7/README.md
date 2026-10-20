@@ -1,0 +1,19 @@
+# Hood: sase-1n7
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-1n7
+
+**Global hood:** `bbugyi200.athena.sase-1n7` · **Runs:** 11 · **Sessions:** 2 · **States:** completed 7, failed 3, waiting 1
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [sase-1n7.land](../../../../../../agents/bbugyi200.athena.sase-1n7.land/README.md) | waiting | gpt-6-astra / codex | 20261019170935 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1n7.land/prompt.md) |
+| [sase-1n7.4--1](../../../../../../sessions/bbugyi200.athena.sase-1n7.4.md#member-1) | completed | grok-4.6 / grok | 2026-10-20T11:22:15.884853+00:00 → 2026-10-20T11:27:30.959196+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1n7.4--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-1n7.4--1/prompt.md) |
+| [sase-1n7.1](../../../../../../agents/bbugyi200.athena.sase-1n7.1/README.md) | completed | grok-4.6 / grok | 2026-10-19T21:10:39.736825+00:00 → 2026-10-19T23:31:01.531727+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-1n7.1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-1n7.1/prompt.md) |
+| [sase-1n7.4--mon](../../../../../../sessions/bbugyi200.athena.sase-1n7.4.md#member-mon) | failed | grok-4.6 / grok | 2026-10-20T11:00:40.822592+00:00 → 2026-10-20T11:13:32.756686+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-1n7.4--mon/chat.md) |
+| [sase-1n7.2--plan](../../../../../../sessions/bbugyi200.athena.sase-1n7.2.md#member-plan) | completed | gpt-6-luna / codex | 2026-10-19T23:31:48.736583+00:00 → 2026-10-19T23:43:25.927734+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1n7.2--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-1n7.2--plan/prompt.md) |
+| [sase-1n7.3](../../../../../../agents/bbugyi200.athena.sase-1n7.3/README.md) | completed | gpt-6-astra / codex | 2026-10-20T10:40:18.628064+00:00 → 2026-10-20T10:46:01.195605+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1n7.3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-1n7.3/prompt.md) |
+| [sase-1n7.2--mon-0](../../../../../../sessions/bbugyi200.athena.sase-1n7.2.md#member-mon-0) | failed | gpt-6-luna / codex | 2026-10-20T00:14:54.662116+00:00 → 2026-10-20T00:36:56.936812+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1n7.2--mon-0/chat.md) |
+| [sase-1n7.2--2](../../../../../../sessions/bbugyi200.athena.sase-1n7.2.md#member-2) | completed | gpt-6-luna / codex | 2026-10-20T00:37:53.128149+00:00 → 2026-10-20T00:53:46.572094+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-1n7.2--2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-1n7.2--2/prompt.md) |
+| [sase-1n7.2--mon](../../../../../../sessions/bbugyi200.athena.sase-1n7.2.md#member-mon) | failed | gpt-6-luna / codex | 2026-10-19T23:41:48.241647+00:00 → 2026-10-19T23:45:48.863453+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1n7.2--mon/chat.md) |
+| [sase-1n7.2--1](../../../../../../sessions/bbugyi200.athena.sase-1n7.2.md#member-1) | completed | gpt-6-luna / codex | 2026-10-19T23:46:47.706707+00:00 → 2026-10-20T00:15:41.205517+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1n7.2--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-1n7.2--1/prompt.md) |
+| [sase-1n7.4--plan](../../../../../../sessions/bbugyi200.athena.sase-1n7.4.md#member-plan) | completed | grok-4.6 / grok | 2026-10-20T10:46:44.208922+00:00 → 2026-10-20T11:01:22.372210+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1n7.4--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-1n7.4--plan/prompt.md) |
