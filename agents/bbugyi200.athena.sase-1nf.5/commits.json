@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1792518972,"sha":"d958a168fc1b21fa68a8cc457f711b6680fb5dcc","subject":"fix(doctor): survive unbound macro templates in model-macro check"}],"schema_version":2,"source_run_id":"run-acd079c10092af7d892b297c2459507a"}

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1792450646,"sha":"d4fed92b7ebc72b09cf9d9f6c22d82a23d0fc23e","subject":"fix(ci): stabilize master gate and full CI tests"},{"committed_at":1792452879,"sha":"befa41b575abbc0745bd7aa33019126760110a58","subject":"feat(release): pin sase-core-rs to an exact published version"}],"schema_version":2,"source_run_id":"run-c813ff8669fea23d88a43f533954968b"}

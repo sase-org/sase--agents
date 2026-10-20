@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1792445778,"sha":"110214f51cbe8ea7deb3e08cfa2aa579f00958ac","subject":"feat(release): build once at the tag and seal the candidate manifest"}],"schema_version":2,"source_run_id":"run-49a9767367d14136ba63bc3d6afabfbe"}
