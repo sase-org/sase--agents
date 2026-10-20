@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d8ea4c8e729bc1c2d1d4da18061bd5bd"}
+{"commits":[{"committed_at":1792523981,"sha":"aae7eae66779aa03486f215f7b44defa2912a508","subject":"feat(tui): add GC attribution telemetry and an acceptance freeze report"}],"schema_version":2,"source_run_id":"run-d8ea4c8e729bc1c2d1d4da18061bd5bd"}
