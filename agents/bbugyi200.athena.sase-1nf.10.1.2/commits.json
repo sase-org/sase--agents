@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1655e6df4437bd3065b691ee7d32c686"}
+{"commits":[{"committed_at":1792528868,"sha":"4adee846d3c32f0927639193f3d3c2717df946ee","subject":"fix(agents-sync): bound publication cleanup on interruption"}],"schema_version":2,"source_run_id":"run-1655e6df4437bd3065b691ee7d32c686"}

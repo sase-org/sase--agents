@@ -27,13 +27,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1nf.10.1.1](../agents/bbugyi200.athena.sase-1nf.10.1.1/README.md) | descendant | active |
-| [sase-1nf.10.1.2](../agents/bbugyi200.athena.sase-1nf.10.1.2/README.md) | descendant | active |
-| [sase-1nf.10.1.3](../agents/bbugyi200.athena.sase-1nf.10.1.3/README.md) | descendant | waiting |
-| [sase-1nf.10.1.4](../agents/bbugyi200.athena.sase-1nf.10.1.4/README.md) | descendant | waiting |
+| [sase-1nf.10.1.1](../agents/bbugyi200.athena.sase-1nf.10.1.1/README.md) | descendant | completed |
+| [sase-1nf.10.1.2](../agents/bbugyi200.athena.sase-1nf.10.1.2/README.md) | descendant | completed |
+| [sase-1nf.10.1.3](../agents/bbugyi200.athena.sase-1nf.10.1.3/README.md) | descendant | completed |
+| [sase-1nf.10.1.4](bbugyi200.athena.sase-1nf.10.1.4.md) (session · 4) | descendant | active 1, completed 2, failed 1 |
 | [sase-1nf.10.1.5](../agents/bbugyi200.athena.sase-1nf.10.1.5/README.md) | descendant | waiting |
 | [sase-1nf.10.1.6](../agents/bbugyi200.athena.sase-1nf.10.1.6/README.md) | descendant | waiting |
-| [sase-1nf.10.1.7](../agents/bbugyi200.athena.sase-1nf.10.1.7/README.md) | descendant | waiting |
+| [sase-1nf.10.1.7](bbugyi200.athena.sase-1nf.10.1.7.md) (session · 5) | descendant | completed 3, failed 2 |
 | [sase-1nf.10.1.8](../agents/bbugyi200.athena.sase-1nf.10.1.8/README.md) | descendant | waiting |
 | [sase-1nf.10.1.9](../agents/bbugyi200.athena.sase-1nf.10.1.9/README.md) | descendant | waiting |
 | [sase-1nf.10.1.land](../agents/bbugyi200.athena.sase-1nf.10.1.land/README.md) | descendant | waiting |
@@ -47,7 +47,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1nf.4](bbugyi200.athena.sase-1nf.4.md) (session · 2) | sase-1nf hood | completed 1, failed 1 |
 | [sase-1nf.5](../agents/bbugyi200.athena.sase-1nf.5/README.md) | sase-1nf hood | completed |
 | [sase-1nf.6](bbugyi200.athena.sase-1nf.6.md) (session · 9) | sase-1nf hood | completed 5, failed 4 |
-| [sase-1nf.7](bbugyi200.athena.sase-1nf.7.md) (session · 4) | sase-1nf hood | active 1, completed 2, failed 1 |
-| [sase-1nf.8](../agents/bbugyi200.athena.sase-1nf.8/README.md) | sase-1nf hood | waiting |
+| [sase-1nf.7](bbugyi200.athena.sase-1nf.7.md) (session · 5) | sase-1nf hood | completed 3, failed 2 |
+| [sase-1nf.8](../agents/bbugyi200.athena.sase-1nf.8/README.md) | sase-1nf hood | completed |
 | [sase-1nf.9](bbugyi200.athena.sase-1nf.9.md) (session · 5) | sase-1nf hood | completed 3, failed 2 |
 | [sase-1nf.land](../agents/bbugyi200.athena.sase-1nf.land/README.md) | sase-1nf hood | waiting |

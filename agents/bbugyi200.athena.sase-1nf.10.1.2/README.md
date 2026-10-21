@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nf](../../users/bbugyi200/machines/athena/hoods/sase-1nf/README.md) / sase-1nf.10.1.2
 
-**Global name:** `bbugyi200.athena.sase-1nf.10.1.2` · **State:** active · **Source run:** `run-1655e6df4437bd3065b691ee7d32c686`
+**Global name:** `bbugyi200.athena.sase-1nf.10.1.2` · **State:** completed · **Source run:** `run-1655e6df4437bd3065b691ee7d32c686`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nf
 
@@ -12,24 +12,30 @@
 - Epic: [sase-1nf.10.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.10.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-20T19:43:51.677599+00:00
-- Commits: 0
+- Timing: 2026-10-20T19:43:51.677599+00:00 → 2026-10-20T20:45:29.018476+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`4adee84`](https://github.com/sase-org/sase/commit/4adee846d3c32f0927639193f3d3c2717df946ee) | fix(agents-sync): bound publication cleanup on interruption | 2026-10-20 16:41:08 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1nf.10](../../sessions/bbugyi200.athena.sase-1nf.10.md) (session · 3) | ancestor | failed 3 |
-| [sase-1nf.10.1.1](../bbugyi200.athena.sase-1nf.10.1.1/README.md) | sase-1nf.10.1 hood | active |
-| [sase-1nf.10.1.3](../bbugyi200.athena.sase-1nf.10.1.3/README.md) | sase-1nf.10.1 hood | waiting |
-| [sase-1nf.10.1.4](../bbugyi200.athena.sase-1nf.10.1.4/README.md) | sase-1nf.10.1 hood | waiting |
+| [sase-1nf.10.1.1](../bbugyi200.athena.sase-1nf.10.1.1/README.md) | sase-1nf.10.1 hood | completed |
+| [sase-1nf.10.1.3](../bbugyi200.athena.sase-1nf.10.1.3/README.md) | sase-1nf.10.1 hood | completed |
+| [sase-1nf.10.1.4](../../sessions/bbugyi200.athena.sase-1nf.10.1.4.md) (session · 4) | sase-1nf.10.1 hood | active 1, completed 2, failed 1 |
 | [sase-1nf.10.1.5](../bbugyi200.athena.sase-1nf.10.1.5/README.md) | sase-1nf.10.1 hood | waiting |
 | [sase-1nf.10.1.6](../bbugyi200.athena.sase-1nf.10.1.6/README.md) | sase-1nf.10.1 hood | waiting |
-| [sase-1nf.10.1.7](../bbugyi200.athena.sase-1nf.10.1.7/README.md) | sase-1nf.10.1 hood | waiting |
+| [sase-1nf.10.1.7](../../sessions/bbugyi200.athena.sase-1nf.10.1.7.md) (session · 5) | sase-1nf.10.1 hood | completed 3, failed 2 |
 | [sase-1nf.10.1.8](../bbugyi200.athena.sase-1nf.10.1.8/README.md) | sase-1nf.10.1 hood | waiting |
 | [sase-1nf.10.1.9](../bbugyi200.athena.sase-1nf.10.1.9/README.md) | sase-1nf.10.1 hood | waiting |
 | [sase-1nf.10.1.land](../bbugyi200.athena.sase-1nf.10.1.land/README.md) | sase-1nf.10.1 hood | waiting |
@@ -43,7 +49,7 @@
 | [sase-1nf.4](../../sessions/bbugyi200.athena.sase-1nf.4.md) (session · 2) | sase-1nf hood | completed 1, failed 1 |
 | [sase-1nf.5](../bbugyi200.athena.sase-1nf.5/README.md) | sase-1nf hood | completed |
 | [sase-1nf.6](../../sessions/bbugyi200.athena.sase-1nf.6.md) (session · 9) | sase-1nf hood | completed 5, failed 4 |
-| [sase-1nf.7](../../sessions/bbugyi200.athena.sase-1nf.7.md) (session · 4) | sase-1nf hood | active 1, completed 2, failed 1 |
-| [sase-1nf.8](../bbugyi200.athena.sase-1nf.8/README.md) | sase-1nf hood | waiting |
+| [sase-1nf.7](../../sessions/bbugyi200.athena.sase-1nf.7.md) (session · 5) | sase-1nf hood | completed 3, failed 2 |
+| [sase-1nf.8](../bbugyi200.athena.sase-1nf.8/README.md) | sase-1nf hood | completed |
 | [sase-1nf.9](../../sessions/bbugyi200.athena.sase-1nf.9.md) (session · 5) | sase-1nf hood | completed 3, failed 2 |
 | [sase-1nf.land](../bbugyi200.athena.sase-1nf.land/README.md) | sase-1nf hood | waiting |

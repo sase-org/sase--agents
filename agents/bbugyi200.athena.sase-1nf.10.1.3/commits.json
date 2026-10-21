@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-068b4c5eefb8551cb97fc7210d491a80"}
+{"commits":[{"committed_at":1792539850,"sha":"1a69c8947d47666c0e4a548ee21bc41ba1e9d9e1","subject":"feat(agents-sync): commit publication drain accounting"}],"schema_version":2,"source_run_id":"run-068b4c5eefb8551cb97fc7210d491a80"}
