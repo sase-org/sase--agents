@@ -1,0 +1,98 @@
+# Agent: sase-1nf.10.1.9.1.land--plan
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nf](../../users/bbugyi200/machines/athena/hoods/sase-1nf/README.md) / [sase-1nf.10.1.9.1.land](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.land.md) / sase-1nf.10.1.9.1.land--plan
+
+**Global name:** `bbugyi200.athena.sase-1nf.10.1.9.1.land--plan` · **State:** failed · **Source run:** `run-e67e6fc11a78ac5905939f79cd0aaa98`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nf
+
+## Summary
+
+- Bead: [sase-1nf.10.1.9.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.10.1.9.1.md)
+- Model: opus
+- Provider: claude
+- Timing: 2026-10-21T14:17:34.950640+00:00 → 2026-10-21T14:45:51.837178+00:00
+- Commits: 0
+- Variables: [1](#variables)
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: sase-1nf.10.1.9.1, kind: markdown, label: sase-1nf.10.1.9.1 landing audit: drain digest-cache regression, quadratic name scan, replay blockers, path: /home/bryan/.sase/artifacts/agents/gh\_sas… |
+
+#### artifacts
+
+```yaml
+- bead: sase-1nf.10.1.9.1
+  kind: markdown
+  label: sase-1nf.10.1.9.1 landing audit: drain digest-cache regression, quadratic name scan, replay blockers
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261021074018/land-audit-evidence-11af89122048.md
+  ref: file:explicit:684de02c487788fab67ad837
+  source_path: /tmp/land-1nf91/land-audit-evidence.md
+- bead: sase-1nf.10.1.9.1
+  kind: file
+  label: Apollo sase snapshot raw vs reserialized digest probe at agents b3da77e44a
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261021074018/digest-probe-88a0c6539453.txt
+  ref: file:explicit:b2ebf67eabeaef7b5e0a1265
+  source_path: /tmp/land-1nf91/digest-probe.txt
+- bead: sase-1nf.10.1.9.1
+  kind: file
+  label: agents_publication_profile --hood sase-1nf JSON under cProfile (athena)
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261021074018/profile-df4e3133656c.json
+  ref: file:explicit:1e757f4f4eadfca380da107c
+  source_path: /tmp/land-1nf91/profile.json
+- bead: sase-1nf.10.1.9.1
+  kind: file
+  label: Athena agent_publication_drains.jsonl tail 05:32-13:47Z 2026-10-21
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261021074018/athena-drain-log-tail-b6a32b2de816.jsonl
+  ref: file:explicit:f3576bf6104be8530cc534e2
+  source_path: /tmp/land-1nf91/athena-drain-log-tail.jsonl
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-1nf.10.1.9](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.md) (session · 3) | ancestor | failed 3 |
+| [sase-1nf.10](../../sessions/bbugyi200.athena.sase-1nf.10.md) (session · 3) | ancestor | failed 3 |
+| [sase-1nf.10.1.9.1.1](../bbugyi200.athena.sase-1nf.10.1.9.1.1/README.md) | sase-1nf.10.1.9.1 hood | completed |
+| [sase-1nf.10.1.9.1.2](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.2.md) (session · 3) | sase-1nf.10.1.9.1 hood | completed 2, failed 1 |
+| [sase-1nf.10.1.9.1.3](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.3.md) (session · 5) | sase-1nf.10.1.9.1 hood | completed 3, failed 2 |
+| [sase-1nf.10.1.9.1.4](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.4.md) (session · 5) | sase-1nf.10.1.9.1 hood | completed 3, failed 2 |
+| [sase-1nf.10.1.9.1.5](../bbugyi200.athena.sase-1nf.10.1.9.1.5/README.md) | sase-1nf.10.1.9.1 hood | completed |
+| [sase-1nf.10.1.9.1.6.1](../bbugyi200.athena.sase-1nf.10.1.9.1.6.1/README.md) | sase-1nf.10.1.9.1 hood | completed |
+| [sase-1nf.10.1.9.1.6.2](../bbugyi200.athena.sase-1nf.10.1.9.1.6.2/README.md) | sase-1nf.10.1.9.1 hood | active |
+| [sase-1nf.10.1.9.1.6.3](../bbugyi200.athena.sase-1nf.10.1.9.1.6.3/README.md) | sase-1nf.10.1.9.1 hood | waiting |
+| [sase-1nf.10.1.9.1.6.4](../bbugyi200.athena.sase-1nf.10.1.9.1.6.4/README.md) | sase-1nf.10.1.9.1 hood | waiting |
+| [sase-1nf.10.1.9.1.6.5](../bbugyi200.athena.sase-1nf.10.1.9.1.6.5/README.md) | sase-1nf.10.1.9.1 hood | waiting |
+| [sase-1nf.10.1.9.1.6.land](../bbugyi200.athena.sase-1nf.10.1.9.1.6.land/README.md) | sase-1nf.10.1.9.1 hood | waiting |
+| [sase-1nf.10.1.1](../bbugyi200.athena.sase-1nf.10.1.1/README.md) | sase-1nf.10.1 hood | completed |
+| [sase-1nf.10.1.2](../bbugyi200.athena.sase-1nf.10.1.2/README.md) | sase-1nf.10.1 hood | completed |
+| [sase-1nf.10.1.3](../bbugyi200.athena.sase-1nf.10.1.3/README.md) | sase-1nf.10.1 hood | completed |
+| [sase-1nf.10.1.4](../../sessions/bbugyi200.athena.sase-1nf.10.1.4.md) (session · 7) | sase-1nf.10.1 hood | completed 4, failed 3 |
+| [sase-1nf.10.1.5](../bbugyi200.athena.sase-1nf.10.1.5/README.md) | sase-1nf.10.1 hood | completed |
+| [sase-1nf.10.1.6](../bbugyi200.athena.sase-1nf.10.1.6/README.md) | sase-1nf.10.1 hood | completed |
+| [sase-1nf.10.1.7](../../sessions/bbugyi200.athena.sase-1nf.10.1.7.md) (session · 5) | sase-1nf.10.1 hood | completed 3, failed 2 |
+| [sase-1nf.10.1.8](../bbugyi200.athena.sase-1nf.10.1.8/README.md) | sase-1nf.10.1 hood | completed |
+| [sase-1nf.10.1.land](../bbugyi200.athena.sase-1nf.10.1.land/README.md) | sase-1nf.10.1 hood | waiting |
+| [sase-1nf.1](../bbugyi200.athena.sase-1nf.1/README.md) | sase-1nf hood | completed |
+| [sase-1nf.11](../bbugyi200.athena.sase-1nf.11/README.md) | sase-1nf hood | waiting |
+| [sase-1nf.12](../bbugyi200.athena.sase-1nf.12/README.md) | sase-1nf hood | completed |
+| [sase-1nf.13](../../sessions/bbugyi200.athena.sase-1nf.13.md) (session · 4) | sase-1nf hood | active 1, completed 2, failed 1 |
+| [sase-1nf.14](../bbugyi200.athena.sase-1nf.14/README.md) | sase-1nf hood | waiting |
+| [sase-1nf.2](../bbugyi200.athena.sase-1nf.2/README.md) | sase-1nf hood | completed |
+| [sase-1nf.3](../bbugyi200.athena.sase-1nf.3/README.md) | sase-1nf hood | completed |
+| [sase-1nf.4](../../sessions/bbugyi200.athena.sase-1nf.4.md) (session · 2) | sase-1nf hood | completed 1, failed 1 |
+| [sase-1nf.5](../bbugyi200.athena.sase-1nf.5/README.md) | sase-1nf hood | completed |
+| [sase-1nf.6](../../sessions/bbugyi200.athena.sase-1nf.6.md) (session · 9) | sase-1nf hood | completed 5, failed 4 |
+| [sase-1nf.7](../../sessions/bbugyi200.athena.sase-1nf.7.md) (session · 5) | sase-1nf hood | completed 3, failed 2 |
+| [sase-1nf.8](../bbugyi200.athena.sase-1nf.8/README.md) | sase-1nf hood | completed |
+| [sase-1nf.9](../../sessions/bbugyi200.athena.sase-1nf.9.md) (session · 5) | sase-1nf hood | completed 3, failed 2 |
+| [sase-1nf.land](../bbugyi200.athena.sase-1nf.land/README.md) | sase-1nf hood | waiting |

@@ -2,28 +2,60 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nf](../../users/bbugyi200/machines/athena/hoods/sase-1nf/README.md) / [sase-1nf.10.1.9](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.md) / sase-1nf.10.1.9--plan
 
-**Global name:** `bbugyi200.athena.sase-1nf.10.1.9--plan` · **State:** completed · **Source run:** `run-75b41f7ebca8e4b1ebc7a0eb8e35a080`
+**Global name:** `bbugyi200.athena.sase-1nf.10.1.9--plan` · **State:** failed · **Source run:** `run-a2481cef3bb31efd1313f51331545b84`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nf
 
 ## Summary
 
 - Bead: [sase-1nf.10.1.9](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.10.1.9.md)
-- Epic: [sase-1nf.10.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.10.1.md)
-- Model: muse-spark-1.3-contributor
-- Provider: muse
-- Timing: 2026-10-21T05:34:21.791725+00:00 → 2026-10-21T06:00:34.603660+00:00
+- Epic: [sase-1nf.10.1.9.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.10.1.9.1.md)
+- Model: gpt-6-astra
+- Provider: codex
+- Timing: 2026-10-21T11:25:30.670051+00:00 → 2026-10-21T11:38:57.731926+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: sase-1nf.10.1.9, kind: markdown, label: Recovery proof continuation baseline after host updates, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261021072359/baseline-a1a901706d1… |
+
+#### artifacts
+
+```yaml
+- bead: sase-1nf.10.1.9
+  kind: markdown
+  label: Recovery proof continuation baseline after host updates
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261021072359/baseline-a1a901706d19.md
+  ref: file:explicit:eaaaade9836ab612d5ce7c78
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.git/publication-recovery-plan/baseline.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1nf.10](../../sessions/bbugyi200.athena.sase-1nf.10.md) (session · 3) | ancestor | failed 3 |
+| [sase-1nf.10.1.9.1.1](../bbugyi200.athena.sase-1nf.10.1.9.1.1/README.md) | descendant | completed |
+| [sase-1nf.10.1.9.1.2](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.2.md) (session · 3) | descendant | completed 2, failed 1 |
+| [sase-1nf.10.1.9.1.3](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.3.md) (session · 5) | descendant | completed 3, failed 2 |
+| [sase-1nf.10.1.9.1.4](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.4.md) (session · 5) | descendant | completed 3, failed 2 |
+| [sase-1nf.10.1.9.1.5](../bbugyi200.athena.sase-1nf.10.1.9.1.5/README.md) | descendant | completed |
+| [sase-1nf.10.1.9.1.6.1](../bbugyi200.athena.sase-1nf.10.1.9.1.6.1/README.md) | descendant | completed |
+| [sase-1nf.10.1.9.1.6.2](../bbugyi200.athena.sase-1nf.10.1.9.1.6.2/README.md) | descendant | active |
+| [sase-1nf.10.1.9.1.6.3](../bbugyi200.athena.sase-1nf.10.1.9.1.6.3/README.md) | descendant | waiting |
+| [sase-1nf.10.1.9.1.6.4](../bbugyi200.athena.sase-1nf.10.1.9.1.6.4/README.md) | descendant | waiting |
+| [sase-1nf.10.1.9.1.6.5](../bbugyi200.athena.sase-1nf.10.1.9.1.6.5/README.md) | descendant | waiting |
+| [sase-1nf.10.1.9.1.6.land](../bbugyi200.athena.sase-1nf.10.1.9.1.6.land/README.md) | descendant | waiting |
+| [sase-1nf.10.1.9.1.land](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.land.md) (session · 3) | descendant | failed 3 |
 | [sase-1nf.10.1.1](../bbugyi200.athena.sase-1nf.10.1.1/README.md) | sase-1nf.10.1 hood | completed |
 | [sase-1nf.10.1.2](../bbugyi200.athena.sase-1nf.10.1.2/README.md) | sase-1nf.10.1 hood | completed |
 | [sase-1nf.10.1.3](../bbugyi200.athena.sase-1nf.10.1.3/README.md) | sase-1nf.10.1 hood | completed |
