@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8d.agent\_publication\_recovery.0](../bbugyi200.athena.toobig-8d.agent_publication_recovery.0/README.md) | toobig-8d hood | active |
+| [toobig-8d.agent\_publication\_recovery.0](../../sessions/bbugyi200.athena.toobig-8d.agent_publication_recovery.0.md) (session · 3) | toobig-8d hood | active 1, completed 1, failed 1 |
 | [toobig-8d.commit\_publication.0](../bbugyi200.athena.toobig-8d.commit_publication.0/README.md) | toobig-8d hood | completed |
 | [toobig-8d.publication\_replay\_recovery.0](../bbugyi200.athena.toobig-8d.publication_replay_recovery.0/README.md) | toobig-8d hood | completed |
 | [toobig-8d.test\_git\_sync\_outbox.0](../bbugyi200.athena.toobig-8d.test_git_sync_outbox.0/README.md) | toobig-8d hood | waiting |
