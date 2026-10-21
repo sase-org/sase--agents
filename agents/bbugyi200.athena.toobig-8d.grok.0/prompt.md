@@ -1,6 +1,6 @@
+%auto
 %id(grok.0, clan=toobig-8d)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `src/sase/llm_provider/grok.py` file into multiple files? Use your best
 %wait:toobig-8d.agent_publication_recovery.0
