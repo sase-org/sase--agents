@@ -1,0 +1,171 @@
+%queue(weight=1)
+#fork:9n--2
+%model:gpt-6-astra@xhigh
+
+%macros_enabled:false
+# Monitored command finished
+
+**Command:**
+
+```text
+.venv/bin/python .pytest_cache/deck-split-recovery/verify.py
+```
+
+**Directory:**
+
+```text
+/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11
+```
+
+| | |
+| --- | --- |
+| **Outcome** | FAILED — exit 1 |
+| **Started** | 2026-10-20T21:29:28.008598+00:00 |
+| **Finished** | 2026-10-20T23:24:27.233435Z |
+| **Elapsed** | 1h 54m 58s of a 2h 0m 0s budget |
+| **Output** | 914 KiB · evidence refs: `file:monitor-diagnostic-manifest:nfpjaqd6ax35`, `file:monitor-retained-log:nfpjaqd6ax35`, `file:monitor-stage:test-scoped-2016690-1792538662571987775-8949acab` · raw output omitted: `failed_diagnostics` · full log: `sase monitor show nfpjaqd6ax35 --all-lines` |
+| **Tool run** | sase tool show b0523842a362ba9cff623882150a8464 |
+
+**Why this was monitored:** Finish visual checks with independent original-source capture and required repository verification after setup timeout
+
+## Selected diagnostics
+
+<!--sase:budget-span:open:kind=newest_diagnostics;id=1-->
+**Diagnostics (untrusted program output):**
+
+```text
+== test (scoped) (failed exit 1) ==
+[counts: output_bytes=170778, output_lines=2222, retained_bytes=170778]
+[validate_sase_core_rs_version] sase-core checkout is ahead of sase's compatibility window: source version 0.42.1 from /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/linked/sase-core/Cargo.toml does not satisfy `sase`'s `sase-core-rs==0.42.0` dependency in pyproject.toml. No action is needed: editable installs build from the checkout regardless, and `tools/ratchet_core_pin` moves the published pin on the release branch at release time.
+[setup] Note: the sase-core checkout is ahead of the published sase-core-rs pin in pyproject.toml; dev installs build from /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/linked/sase-core regardless. This is normal — the release-branch reconciler ratchets the published pin at release time, so no action is needed here.
+.venv/bin/python tools/setup_required_plugins
+[setup] Installing required plugin sase-github>=0.2.5.
+[setup] Installing required plugin sase-research-artifacts>=0.2.0.
+
+┌───────────────────────────────────────────────────────┐
+│                RUNNING: just test-scoped              │
+└───────────────────────────────────────────────────────┘
+
+---------- Running diff-scoped pytest selection... ----------
+test selection escalated to the full suite (rules: core-identity-changed); 5318 test files in scope
+coverage contexts: not consulted — the run escalates to the full suite, so ground truth had nothing to add
+escalating to the governed full test lane (rules: core-identity-changed)
+============================= test session starts ==============================
+platform linux -- Python 3.12.3, pytest-9.1.1, pluggy-1.6.0
+rootdir: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11
+configfile: pyproject.toml
+testpaths: tests
+plugins: cov-7.1.0, xdist-3.8.0, mock-3.15.1, asyncio-1.4.0, hypothesis-6.167.1, platformdirs-4.12.4, inline-snapshot-0.35.4
+asyncio: mode=Mode.AUTO, debug=False, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function
+created: 7/7 workers
+7 workers [56995 items]
+
+........................................................................ [  0%]
+........................................................................ [  0%]
+........................................................................ [  0%]
+........................................................................ [  0%]
+........................................................................ [  0%]
+........................................................................ [  0%]
+........................................................................ [  0%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  1%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+........................................................................ [  2%]
+.............................................s.......................... [  3%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  3%]
+........................................................................ [  4%]
+........................................................................ [  4%]
+........................................................................ [  4%]
+........................................................................ [  4%]
+........................................................................ [  4%]
+........................................................................ [  4%]
+........................................................................ [  4%]
+........................................................................ [  4%]
+........................................................................ [  5%]
+........................................................................ [  5%]
+.................s...................................................... [  5%]
+........................................................................ [  5%]
+........................................................................ [  5%]
+........................................................................ [  5%]
+........................................................................ [  5%]
+..................................s..................................... [  5%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+........................................................................ [  6%]
+........................................................................ [  7%]
+........................................................................ [  7%]
+...........................................................s............ [  7%]
+........................................................................ [  7%]
+........................................................................ [  7%]
+........................................................................ [  7%]
+........................................................................ [  7%]
+........................................................................ [  7%]
+........................................................................ [  8%]
+........................................................................ [  8%]
+........................................................................ [  8%]
+........................................................................ [  8%]
+........................................................................ [  8%]
+........................................................................ [  8%]
+........................................................................ [  8%]
+........................................................................ [  8%]
+........................................................................ [  9%]
+.........................................
+
+```
+
+<!--sase:budget-span:close:1-->
+
+## Continuation checkpoint
+
+- **Ref:** `local:continuation/checkpoints/monitor_start-dac797cb22375679.json`
+
+**Checkpoint (JSON):**
+
+```text
+{
+  "kind": "monitor_start",
+  "payload": {
+    "command": ".venv/bin/python .pytest_cache/deck-split-recovery/verify.py",
+    "cwd": "/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11",
+    "member_agent_name": "9n--mon-1",
+    "monitor_id": "nfpjaqd6ax35",
+    "next_output": "auto",
+    "parent_node_ids": [],
+    "project_name": "gh_sase-org__sase",
+    "request_fingerprint": "sha256:d8da82432492e2cc75c1b88ca8ae6f5e3b8f394f9d993e74e2b05188b8a7a1eb",
+    "starter_agent": "9n--2",
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_sase-org__sase/artifacts/ace-run/202610/20/20261020171822"
+  },
+  "recorded_at_epoch": 1792531769.049264,
+  "schema_version": 1
+}
+```
+
+
+## Your next action
+
+Finish approved plan:202610/deck_split_keeps_focus.md and host-finalize. Implementation unchanged this recovery: 24 files,148 insertions/116 deletions; reviewed plan again, just fix and git diff --check passed. Pager,pane_grid,help/keymaps and all goldens remain untouched. Prior tests:98 focused passed;717 broad passed plus independent pre-existing header-hint failure (sase-1hy; prior +1 recorded). Previous visual monitor xsqg2ac5w119 timed out because Rust rebuild consumed 28m of45m; 37/44 tests reported before timeout. Partial run927070aab469425b9da33a044da13755 had44 captured images,23 pixel-equal/21 drift vs goldens (not final proof), including no-split tests. Representative final_reply_split differs MAIN cards auto vs MAIN PAGE CARDS/+1card; don't assume caused by focus change or update unrelated goldens. This recovery independently reproduced search_committed timeout with working code AND both original production modules PLUS original test loaded from HEAD b15cc3fb5b via .pytest_cache/deck-split-recovery/deck_split_baseline.py import hook (baseline-search.log,baseline-loaded-*.jsonl record digests). +1 on exact duplicate sase-1ii and DISCOVERED ISSUE note on active owning epic sase-1jz (phase.3); no new task. All required duplicate searches/weekly CI task sweep/active-epic review completed. This monitor runs .pytest_cache/deck-split-recovery/verify.py: official six-module check-only visual with verbose logs, THEN if nonzero a governed capture of same six ORIGINAL HEAD test+production modules through validated baseline plugin (no tracked file mutation), compares newest capture per golden pixel-for-pixel, THEN sase tool run check regardless of test exit failures. Read verification-results.json and per-stage .log files in that cache directory; it records new visual run path and baseline comparison lists. Script returns nonzero if any stage did, intentionally. Inspect matching/different/only lists and inventories; establish pre-existing vs real regression, repair only relevant issues and preserve test intent. Do not weaken assertions or blindly refresh goldens. Baseline script is diagnostic only, never commit it. Do not rerun already passing checks without reason; no check-full. If check failed inspect ToolRun triage/receipts, don't claim all green. If all relevant implementation verification accounted for, refresh sase final context and declare completed implementation with accurate known-failure caveats. Old .pytest_cache/deck-split-final-9n.json has useful commit prose but STALE context and an UNTRUE success_message, so rewrite rather than reuse. Use sase_final as last action before a normal response; if a final verification remains prefer prepared completion only for exact just check.
+%macros_enabled:true
