@@ -11,17 +11,23 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-21T12:37:00.363380+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`223754d`](https://github.com/sase-org/sase/commit/223754dff35517205dcc5cf9eb31e9374ac918b5) | test(agents-sync): split test\_git\_sync\_outbox into five-file package | 2026-10-21 08:52:30 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8d.agent\_publication\_recovery.0](../../sessions/bbugyi200.athena.toobig-8d.agent_publication_recovery.0.md) (session · 3) | toobig-8d hood | completed 2, failed 1 |
-| [toobig-8d.commit\_publication.0](../bbugyi200.athena.toobig-8d.commit_publication.0/README.md) | toobig-8d hood | completed |
-| [toobig-8d.grok.0](../bbugyi200.athena.toobig-8d.grok.0/README.md) | toobig-8d hood | completed |
-| [toobig-8d.publication\_replay\_recovery.0](../bbugyi200.athena.toobig-8d.publication_replay_recovery.0/README.md) | toobig-8d hood | completed |
+| [toobig-8d.agent\_publication\_recovery.0](../../sessions/bbugyi200.athena.toobig-8d.agent_publication_recovery.0.md) (session · 3) | toobig-8d hood | active 3 |
+| [toobig-8d.commit\_publication.0](../bbugyi200.athena.toobig-8d.commit_publication.0/README.md) | toobig-8d hood | active |
+| [toobig-8d.grok.0](../bbugyi200.athena.toobig-8d.grok.0/README.md) | toobig-8d hood | active |
+| [toobig-8d.publication\_replay\_recovery.0](../bbugyi200.athena.toobig-8d.publication_replay_recovery.0/README.md) | toobig-8d hood | active |

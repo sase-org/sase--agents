@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8d](../../users/bbugyi200/machines/athena/hoods/toobig-8d/README.md) / toobig-8d.grok.0
 
-**Global name:** `bbugyi200.athena.toobig-8d.grok.0` · **State:** completed · **Source run:** `run-9809360684f1e12abc4468ee22e8f2fc`
+**Global name:** `bbugyi200.athena.toobig-8d.grok.0` · **State:** active · **Source run:** `run-9809360684f1e12abc4468ee22e8f2fc`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8d
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-21T11:58:34.309808+00:00 → 2026-10-21T12:34:57.700782+00:00
+- Timing: 2026-10-21T11:58:34.309808+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -27,7 +27,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8d.agent\_publication\_recovery.0](../../sessions/bbugyi200.athena.toobig-8d.agent_publication_recovery.0.md) (session · 3) | toobig-8d hood | completed 2, failed 1 |
-| [toobig-8d.commit\_publication.0](../bbugyi200.athena.toobig-8d.commit_publication.0/README.md) | toobig-8d hood | completed |
-| [toobig-8d.publication\_replay\_recovery.0](../bbugyi200.athena.toobig-8d.publication_replay_recovery.0/README.md) | toobig-8d hood | completed |
+| [toobig-8d.agent\_publication\_recovery.0](../../sessions/bbugyi200.athena.toobig-8d.agent_publication_recovery.0.md) (session · 3) | toobig-8d hood | active 3 |
+| [toobig-8d.commit\_publication.0](../bbugyi200.athena.toobig-8d.commit_publication.0/README.md) | toobig-8d hood | active |
+| [toobig-8d.publication\_replay\_recovery.0](../bbugyi200.athena.toobig-8d.publication_replay_recovery.0/README.md) | toobig-8d hood | active |
 | [toobig-8d.test\_git\_sync\_outbox.0](../bbugyi200.athena.toobig-8d.test_git_sync_outbox.0/README.md) | toobig-8d hood | active |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-38c306ced4f39f8067974646646a3f1d"}
+{"commits":[{"committed_at":1792587150,"sha":"223754dff35517205dcc5cf9eb31e9374ac918b5","subject":"test(agents-sync): split test_git_sync_outbox into five-file package"}],"schema_version":2,"source_run_id":"run-38c306ced4f39f8067974646646a3f1d"}
