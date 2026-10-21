@@ -26,8 +26,8 @@
 | [sase-1nf.10.1.1](../bbugyi200.athena.sase-1nf.10.1.1/README.md) | sase-1nf.10.1 hood | completed |
 | [sase-1nf.10.1.2](../bbugyi200.athena.sase-1nf.10.1.2/README.md) | sase-1nf.10.1 hood | completed |
 | [sase-1nf.10.1.3](../bbugyi200.athena.sase-1nf.10.1.3/README.md) | sase-1nf.10.1 hood | completed |
-| [sase-1nf.10.1.5](../bbugyi200.athena.sase-1nf.10.1.5/README.md) | sase-1nf.10.1 hood | waiting |
-| [sase-1nf.10.1.6](../bbugyi200.athena.sase-1nf.10.1.6/README.md) | sase-1nf.10.1 hood | waiting |
+| [sase-1nf.10.1.5](../bbugyi200.athena.sase-1nf.10.1.5/README.md) | sase-1nf.10.1 hood | completed |
+| [sase-1nf.10.1.6](../bbugyi200.athena.sase-1nf.10.1.6/README.md) | sase-1nf.10.1 hood | active |
 | [sase-1nf.10.1.7](../../sessions/bbugyi200.athena.sase-1nf.10.1.7.md) (session · 5) | sase-1nf.10.1 hood | completed 3, failed 2 |
 | [sase-1nf.10.1.8](../bbugyi200.athena.sase-1nf.10.1.8/README.md) | sase-1nf.10.1 hood | waiting |
 | [sase-1nf.10.1.9](../bbugyi200.athena.sase-1nf.10.1.9/README.md) | sase-1nf.10.1 hood | waiting |

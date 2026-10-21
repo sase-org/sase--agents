@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5e1b75fda901185e79a282b762960a3a"}
+{"commits":[{"committed_at":1792551954,"sha":"7a08bf2fda1afae8950d04730092fd27df847092","subject":"feat(agents-sync): expose bounded publication retries"}],"schema_version":2,"source_run_id":"run-5e1b75fda901185e79a282b762960a3a"}

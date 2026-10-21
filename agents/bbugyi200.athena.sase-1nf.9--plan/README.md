@@ -48,9 +48,9 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [sase-1nf.10.1.1](../bbugyi200.athena.sase-1nf.10.1.1/README.md) | sase-1nf hood | completed |
 | [sase-1nf.10.1.2](../bbugyi200.athena.sase-1nf.10.1.2/README.md) | sase-1nf hood | completed |
 | [sase-1nf.10.1.3](../bbugyi200.athena.sase-1nf.10.1.3/README.md) | sase-1nf hood | completed |
-| [sase-1nf.10.1.4](../../sessions/bbugyi200.athena.sase-1nf.10.1.4.md) (session · 4) | sase-1nf hood | active 1, completed 2, failed 1 |
-| [sase-1nf.10.1.5](../bbugyi200.athena.sase-1nf.10.1.5/README.md) | sase-1nf hood | waiting |
-| [sase-1nf.10.1.6](../bbugyi200.athena.sase-1nf.10.1.6/README.md) | sase-1nf hood | waiting |
+| [sase-1nf.10.1.4](../../sessions/bbugyi200.athena.sase-1nf.10.1.4.md) (session · 7) | sase-1nf hood | completed 4, failed 3 |
+| [sase-1nf.10.1.5](../bbugyi200.athena.sase-1nf.10.1.5/README.md) | sase-1nf hood | completed |
+| [sase-1nf.10.1.6](../bbugyi200.athena.sase-1nf.10.1.6/README.md) | sase-1nf hood | active |
 | [sase-1nf.10.1.7](../../sessions/bbugyi200.athena.sase-1nf.10.1.7.md) (session · 5) | sase-1nf hood | completed 3, failed 2 |
 | [sase-1nf.10.1.8](../bbugyi200.athena.sase-1nf.10.1.8/README.md) | sase-1nf hood | waiting |
 | [sase-1nf.10.1.9](../bbugyi200.athena.sase-1nf.10.1.9/README.md) | sase-1nf hood | waiting |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nf](../../users/bbugyi200/machines/athena/hoods/sase-1nf/README.md) / sase-1nf.10.1.5
 
-**Global name:** `bbugyi200.athena.sase-1nf.10.1.5` · **State:** waiting · **Source run:** `run-615e9f0a11dad4b7606763abf81bb1f8`
+**Global name:** `bbugyi200.athena.sase-1nf.10.1.5` · **State:** completed · **Source run:** `run-615e9f0a11dad4b7606763abf81bb1f8`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nf
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1nf.10.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.10.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261020154239
-- Commits: 0
+- Timing: 2026-10-21T01:42:29.389378+00:00 → 2026-10-21T02:11:33.395918+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8c6699f`](https://github.com/sase-org/sase/commit/8c6699f413fd89607a250cb82d04cffbb9d91ae8) | feat(agents-sync): render targeted payloads for selected hoods | 2026-10-20 22:06:51 EDT |
 
 ## Neighbors
 
@@ -27,8 +33,8 @@
 | [sase-1nf.10.1.1](../bbugyi200.athena.sase-1nf.10.1.1/README.md) | sase-1nf.10.1 hood | completed |
 | [sase-1nf.10.1.2](../bbugyi200.athena.sase-1nf.10.1.2/README.md) | sase-1nf.10.1 hood | completed |
 | [sase-1nf.10.1.3](../bbugyi200.athena.sase-1nf.10.1.3/README.md) | sase-1nf.10.1 hood | completed |
-| [sase-1nf.10.1.4](../../sessions/bbugyi200.athena.sase-1nf.10.1.4.md) (session · 4) | sase-1nf.10.1 hood | active 1, completed 2, failed 1 |
-| [sase-1nf.10.1.6](../bbugyi200.athena.sase-1nf.10.1.6/README.md) | sase-1nf.10.1 hood | waiting |
+| [sase-1nf.10.1.4](../../sessions/bbugyi200.athena.sase-1nf.10.1.4.md) (session · 7) | sase-1nf.10.1 hood | completed 4, failed 3 |
+| [sase-1nf.10.1.6](../bbugyi200.athena.sase-1nf.10.1.6/README.md) | sase-1nf.10.1 hood | active |
 | [sase-1nf.10.1.7](../../sessions/bbugyi200.athena.sase-1nf.10.1.7.md) (session · 5) | sase-1nf.10.1 hood | completed 3, failed 2 |
 | [sase-1nf.10.1.8](../bbugyi200.athena.sase-1nf.10.1.8/README.md) | sase-1nf.10.1 hood | waiting |
 | [sase-1nf.10.1.9](../bbugyi200.athena.sase-1nf.10.1.9/README.md) | sase-1nf.10.1 hood | waiting |
