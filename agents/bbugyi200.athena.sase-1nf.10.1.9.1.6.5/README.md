@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nf](../../users/bbugyi200/machines/athena/hoods/sase-1nf/README.md) / sase-1nf.10.1.9.1.6.5
 
-**Global name:** `bbugyi200.athena.sase-1nf.10.1.9.1.6.5` · **State:** waiting · **Source run:** `run-7acadd489920d94fe4910de11e8f6fc6`
+**Global name:** `bbugyi200.athena.sase-1nf.10.1.9.1.6.5` · **State:** active · **Source run:** `run-7acadd489920d94fe4910de11e8f6fc6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nf
 
@@ -12,12 +12,32 @@
 - Epic: [sase-1nf.10.1.9.1.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.10.1.9.1.6.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261021104654
+- Timing: 2026-10-22T11:51:02.342764+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: sase-1nf.10.1.9.1.6.5, kind: file, label: Publication acceptance replay fixture test log 2026-10-22, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261021104654/sase-publication… |
+
+#### artifacts
+
+```yaml
+- bead: sase-1nf.10.1.9.1.6.5
+  kind: file
+  label: Publication acceptance replay fixture test log 2026-10-22
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261021104654/sase-publication-acceptance-fixtures-e4d6a710de27.log
+  ref: file:explicit:2c04408af2441e0bc4710cae
+  source_path: /tmp/sase-publication-acceptance-fixtures.log
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -28,7 +48,7 @@
 | [sase-1nf.10.1.9.1.6.1](../bbugyi200.athena.sase-1nf.10.1.9.1.6.1/README.md) | sase-1nf.10.1.9.1.6 hood | completed |
 | [sase-1nf.10.1.9.1.6.2](../bbugyi200.athena.sase-1nf.10.1.9.1.6.2/README.md) | sase-1nf.10.1.9.1.6 hood | completed |
 | [sase-1nf.10.1.9.1.6.3](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.6.3.md) (session · 3) | sase-1nf.10.1.9.1.6 hood | completed 2, failed 1 |
-| [sase-1nf.10.1.9.1.6.4](../bbugyi200.athena.sase-1nf.10.1.9.1.6.4/README.md) | sase-1nf.10.1.9.1.6 hood | active |
+| [sase-1nf.10.1.9.1.6.4](../bbugyi200.athena.sase-1nf.10.1.9.1.6.4/README.md) | sase-1nf.10.1.9.1.6 hood | completed |
 | [sase-1nf.10.1.9.1.6.land](../bbugyi200.athena.sase-1nf.10.1.9.1.6.land/README.md) | sase-1nf.10.1.9.1.6 hood | waiting |
 | [sase-1nf.10.1.9.1.1](../bbugyi200.athena.sase-1nf.10.1.9.1.1/README.md) | sase-1nf.10.1.9.1 hood | active |
 | [sase-1nf.10.1.9.1.2](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.2.md) (session · 3) | sase-1nf.10.1.9.1 hood | active 3 |
