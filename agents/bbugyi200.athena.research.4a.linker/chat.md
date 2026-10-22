@@ -1,0 +1,187 @@
+# Chat History - ace-run (research.4a.linker)
+
+- **TIMESTAMP:** 2026-10-12 08:52:17 EDT
+- **MODEL:** claude/opus
+- **AGENT:** research.4a.linker
+- **PROMPT:** `~/.sase/multi_prompts/202610/gh_sase_org__sase-multiprompt-261012_074540.md`
+
+## Prompt
+
+%id(linker, clan=research.4a) %m:@xlarge
+%wait:research.4a.final %wait:research.4a.image %q(1.5x, w=0.25)
+#gh:gh_sase-org__sase 
+You are the linker agent for a research swarm. The lead researcher,
+`research.4a.final`, has written a consolidated report on the request below. Your job
+is to publish that report as the canonical `<name>.md`: the file readers open, and the
+one SASE renders into a Highlights PDF. You are an editor, not a researcher. The new
+file must carry exactly the lead's meaning and intent. Do not do research of your own:
+add no new claims or sources, settle no open questions, and neither soften nor
+strengthen the conclusions or the recommendation. If the lead seems wrong, leave it as
+written. The only prose you write yourself is the short research-query summary of the
+request that opens the file (step 3).
+
+SASE derives your plan's links from the artifacts you read this turn; use
+`sase artifact read` for context you actually used.
+
+Research request (context only; do not research it, but summarize it as the file's
+research query in step 3):
+
+I
+would like to make decisions look much better in the gate panels shown by the TUI.
+Currently, not only does it look bad, but some of the text related to some decisions
+gets cut off. See the ~/tmp/screenshots/20261012_074036.png screenshot for an example of
+what these look like now. Can you do some research with the goal of helping me come up
+with the best possible TUI design for this? End your analysis with a recommended
+solution and UX.
+
+The lead researcher's registered report:
+
+{% for a in wait.artifacts if a.kind == "markdown" and a.label and a.label.startswith("research:") %}
+- wait_name={{ a.wait_name }} label={{ a.label }} source_path={{ a.source_path }} path={{ a.path }} ref={{ a.ref }}
+{% endfor %}
+
+The image agent's registered images:
+
+{% for a in wait.artifacts if a.kind == "image" %}
+- wait_name={{ a.wait_name }} label={{ a.label }} vcs_relpath={{ a.vcs_relpath }} path={{ a.path }} ref={{ a.ref }}
+{% endfor %}
+
+
+Steps:
+
+1. **Identify the source.** From the registered reports above, find exactly one entry
+   with `wait_name` `research.4a.final` whose label has the form
+   `research:<YYYYMM>/<name>/<name>__final.md`. If there is not exactly one such entry,
+   stop and report the missing or ambiguous input instead of guessing. Open the research
+   repo with `/sase_repo`, then read the report through its canonical research reference
+   (or the `ref` field's `file:<id>` reference if the original has moved) using
+   `sase artifact read`. Take `<YYYYMM>/<name>/` from the label, never from the current
+   date. Do not read predecessor chat transcripts. Never modify, move, or delete
+   `<name>__final.md` or the drafts.
+
+2. **Inventory what must survive.** Before writing, list every finding, recommendation,
+   caveat, open question, confidence statement, number, date, version, code block,
+   table, and link in the lead's report.
+3. **Restructure** the lead's report into a well-thought-out organization:
+   - Keep the frontmatter, updating `updated_time` if present.
+   - **Open the file in this exact order**, with nothing else between these parts: the frontmatter (if any), one `#` title, the research query, the infographic, and then the bottom-line section.
+   - **Research query.** Directly below the title, add one blockquote that summarizes
+     the research request above in one to three sentences, for example
+     `> **Research query:** <summary>`. Phrase it as the question or task being
+     answered, in the requester's own terms: keep the questions, named subjects, and
+     explicit scope or constraints; drop instructions aimed at agents, such as output
+     paths, macro or directive syntax, and formatting requests. Summarize what was
+     asked, not material the request quotes or attaches. Use a request that is already
+     one short sentence verbatim. Never fold findings, answers, or scope the request
+     does not state into it. It is not a heading, so it gets no section number and no
+     TOC entry.
+   - **Embed the infographic** exactly once, directly above the bottom-line section:
+     after the research query and before that section's `##` heading, never further
+     down. Use a relative link with descriptive alt text, for example
+     `![<alt text>](<name>_infographic.png)`. Locate it by the
+     `<name>_infographic.png` convention or the image entries above. Embed only a file
+     you have confirmed exists beside the report in your research checkout. If the
+     image agent completed without producing one, publish without it (the research query then sits directly above the bottom-line section) and say so in the final
+     response.
+   - **Bottom-line section.** The first `##` section is `## Bottom line` (or
+     `## Overview` when the report surveys options rather than giving one answer) and
+     gives the answer first.
+   - Below it, `##` and `###` sections ordered by the questions a reader will ask, with
+     duplicated passages merged.
+   - **Never number headings.** The PDF renderer runs pandoc with `--number-sections`,
+     so hand-numbered headings render doubly numbered.
+   - **No table of contents and no block of jump links.** The PDF already gets a TOC.
+   - Keep the lead's wording where it works. Never drop a claim, caveat, or source to
+     save space. If the lead's report restates the question or lists its inputs, keep
+     those details in a later section; the research query summarizes the request but
+     does not replace them.
+4. **Validate every link carried over.**
+   - Relative links resolve from `<YYYYMM>/<name>/`, and in-document anchors resolve
+     against the final headings. Both are hard requirements.
+   - Check external URLs with `curl -fsSL -o /dev/null --max-time 20 <url>`, retrying
+     a transient failure once. Treat 401, 403, 429, and timeouts as _unverified_ and
+     keep those links.
+   - Verify repository-file links through a `/sase_repo` checkout, not by fetching
+     github.com.
+   - Repair a link only when the right target is certain: a followed redirect, a moved
+     file, an obvious typo, or a renamed heading. For an unrepairable link, keep its
+     text, drop the dead URL, and list it in the final response. **Never search for a
+     replacement source.**
+
+5. **Add in-document links** so readers can jump between parts of the file. Add them
+   inline and sparingly: from summary points to the sections that back them, from "see
+   above" or "see below" phrases, and from mentions of a named option, phase, or
+   finding to where it is discussed. Do not link every mention.
+   - Every heading used as a link target must start with a letter, contain only
+     letters, digits, spaces, and hyphens, and be unique. Its anchor is then the
+     lowercased heading with spaces replaced by hyphens, for example
+     `[the bottom line](#bottom-line)`. pandoc (the PDF) and GitHub then agree.
+   - Move emoji, version numbers, and code out of such headings, into the section's
+     first line.
+   - When `pandoc` is available, confirm anchors with `pandoc <file> -t html`.
+
+6. **Re-check against the step-2 inventory** and restore anything missing or changed.
+   Every URL in `<name>__final.md` must appear in the new file unless it was listed as
+   unrepairable. Then confirm the file opens in the step-3 order: title, research query, infographic, bottom-line section.
+
+7. **Write** `<YYYYMM>/<name>/<name>.md` without overwrite. On a collision, stop and
+   report it.
+
+8. **Register** it as a durable snapshot:
+
+   sase artifact create -p "<absolute-report-path>" -l "research:<repo-relative-report-path>"
+
+   Use the report's actual absolute path and its path relative to the research repo
+   root, for example `research:202609/<name>/<name>.md`. Use no `--move`. If
+   registration fails, report it and do not claim full completion.
+
+Final layout:
+
+```text
+<month-dir>/<name>/
+├── <name>__cdx.md
+├── <name>__cld.md
+├── <name>__grk.md
+├── <name>__mus.md
+├── <name>__gem.md
+├── <name>__final.md
+├── <name>_infographic.png
+└── <name>.md
+```
+
+## Response
+
+I've read the lead's report through the audited path. Next I'll go through the whole report and list what has to carry over.
+
+Next I'll check the external links and look at how a sibling canonical report is laid out, so this one matches.
+
+All seven external URLs return 200. To write accurate alt text for the infographic, I'll check whether `sase artifact read` can handle an image.
+
+The audited read went through, so I'll view the registered copy to get the alt text right.
+
+The infographic exists beside the report and matches it. Now I'll write the restructured canonical report.
+
+The file is written. Next I'll check it against the original line by line, then check the anchors, relative links, and URLs.
+
+All relative files exist, all 13 in-document anchors resolve in pandoc, and the file opens in the required order. Now I'll register the snapshot.
+
+Registered. Now the final declaration.
+
+The lead's report is now published as `202610/gate_panel_decision_cards/gate_panel_decision_cards.md` in the research repo and registered as `file:explicit:22a22e31803043d4424dddfc`. The host commits it after this turn ends.
+
+**How it opens:** the title, then a short research query I wrote, then the infographic, then `## Bottom line`. The infographic was there, so I embedded it with alt text describing what it shows.
+
+**What I changed:**
+- **Order:** sections now follow the questions a reader would ask. What is wrong and why → what real decisions look like → the recommended solution and UX → prototype evidence → implementation sketch → where the reports disagreed → rejected alternatives → open questions → about this report → sources. The recommendation now comes before the "where the reports disagreed" table instead of after it.
+- **Headings:** numbers are removed and the `§` references are now in-document links. Three bold lead-ins in the diagnosis became `###` sections so other parts can link to them. I renamed the density section's heading to "Density and pinning" and kept the lead's own subtitle as its first line. I moved the `z` out of the sheet heading into the section's first line.
+- **Moved, not dropped:** the lead's restated request, the consolidation note, the code baseline (sase `558a45eca4`, Textual 8.0.1/8.2.8) and "What the lead added" are now under "About this report".
+- **Links:** I added some links from the bottom-line points to the sections that back them.
+- **Unchanged:** the content itself. A line-by-line comparison with `gate_panel_decision_cards__final.md` found nothing missing apart from those deliberate heading and reference edits.
+
+**Link checks:**
+- All seven external URLs returned 200.
+- All 11 images and the infographic exist beside the report.
+- All 13 in-document anchors resolve in `pandoc -t html`.
+- No link needed repair or had to be dropped.
+
+I didn't touch `__final.md` or the other drafts.

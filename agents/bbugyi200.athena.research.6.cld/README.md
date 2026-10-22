@@ -2,16 +2,17 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.6.cld
 
-**Global name:** `bbugyi200.athena.research.6.cld` · **State:** completed · **Source run:** `run-5a751401beab297a0e1b41928e32d765`
+**Global name:** `bbugyi200.athena.research.6.cld` · **State:** dismissed · **Source run:** `run-bf1c25d9c45115375cc4a782bf349a76`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
 ## Summary
 
-- Model: —
-- Provider: —
-- Timing: 2026-06-11T12:03:54+00:00 → 2026-06-11T12:03:54+00:00
+- Model: opus
+- Provider: claude
+- Timing: 2026-07-09T16:09:34.935273 → 2026-07-09T16:21:06.451290
 - Commits: [1](#commits)
+- Variables: [6](#variables)
 
 ## Files
 
@@ -23,17 +24,28 @@
 |---|---|---|---|
 | sase | [`e826c9e`](https://github.com/sase-org/sase/commit/e826c9e5e87c80d7e67c5de6c066189172c884fb) | chore: Add research on memory system build-vs-Zep decision | 2026-06-11 08:03:54 EDT |
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `concurrency_solvable` | yes |
+| `duplicated_gib` | "3.3" |
+| `per_clone_mib` | "472" |
+| `recommended_option` | A\_plus\_sparse |
+| `research_file` | .sase/sdd/research/202607/shared\_sdd\_clone\_per\_machine.md |
+| `shared_clone_recommended` | yes\_objects\_only |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.6.cdx](../bbugyi200.athena.research.6.cdx/README.md) | research.6 hood | completed |
-| [research.6.final](../bbugyi200.athena.research.6.final/README.md) | research.6 hood | completed |
-| [research.6.image](../bbugyi200.athena.research.6.image/README.md) | research.6 hood | completed |
-| [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
-| [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
-| [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
-| [research.0.image](../bbugyi200.athena.research.0.image/README.md) | research hood | completed |
+| [research.6.cdx](../bbugyi200.athena.research.6.cdx/README.md) | research.6 hood | dismissed |
+| [research.6.final](../bbugyi200.athena.research.6.final/README.md) | research.6 hood | dismissed |
+| [research.6.image](../bbugyi200.athena.research.6.image/README.md) | research.6 hood | dismissed |
+| [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
+| [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
+| [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
+| [research.0.image](../bbugyi200.athena.research.0.image/README.md) | research hood | dismissed |
 | [research.00.cdx](../bbugyi200.athena.research.00.cdx/README.md) | research hood | active |
 | [research.00.cld](../bbugyi200.athena.research.00.cld/README.md) | research hood | active |
 | [research.00.final](../bbugyi200.athena.research.00.final/README.md) | research hood | active |
@@ -80,4 +92,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 933 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 1030 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
