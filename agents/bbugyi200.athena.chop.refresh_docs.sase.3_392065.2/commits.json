@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d63d3426c23336c4789eae429c54ff2c"}
+{"commits":[{"committed_at":1792673060,"sha":"92d271364cb5a8c20293c0a9707a31db04b6d429","subject":"docs: verify refresh claims against current behavior"}],"schema_version":2,"source_run_id":"run-d63d3426c23336c4789eae429c54ff2c"}

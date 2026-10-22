@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nf](../../users/bbugyi200/machines/athena/hoods/sase-1nf/README.md) / sase-1nf.10.1.9.1.6.land
 
-**Global name:** `bbugyi200.athena.sase-1nf.10.1.9.1.6.land` · **State:** waiting · **Source run:** `run-5bd38a495b0dfa3be594f03214067e77`
+**Global name:** `bbugyi200.athena.sase-1nf.10.1.9.1.6.land` · **State:** active · **Source run:** `run-5bd38a495b0dfa3be594f03214067e77`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nf
 
@@ -11,7 +11,7 @@
 - Bead: [sase-1nf.10.1.9.1.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.10.1.9.1.6.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261021104655
+- Timing: 2026-10-22T12:25:57.595867+00:00
 - Commits: 0
 
 ## Files
@@ -28,7 +28,7 @@
 | [sase-1nf.10.1.9.1.6.2](../bbugyi200.athena.sase-1nf.10.1.9.1.6.2/README.md) | sase-1nf.10.1.9.1.6 hood | completed |
 | [sase-1nf.10.1.9.1.6.3](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.6.3.md) (session · 3) | sase-1nf.10.1.9.1.6 hood | completed 2, failed 1 |
 | [sase-1nf.10.1.9.1.6.4](../bbugyi200.athena.sase-1nf.10.1.9.1.6.4/README.md) | sase-1nf.10.1.9.1.6 hood | completed |
-| [sase-1nf.10.1.9.1.6.5](../bbugyi200.athena.sase-1nf.10.1.9.1.6.5/README.md) | sase-1nf.10.1.9.1.6 hood | active |
+| [sase-1nf.10.1.9.1.6.5](../bbugyi200.athena.sase-1nf.10.1.9.1.6.5/README.md) | sase-1nf.10.1.9.1.6 hood | completed |
 | [sase-1nf.10.1.9.1.1](../bbugyi200.athena.sase-1nf.10.1.9.1.1/README.md) | sase-1nf.10.1.9.1 hood | active |
 | [sase-1nf.10.1.9.1.2](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.2.md) (session · 3) | sase-1nf.10.1.9.1 hood | active 3 |
 | [sase-1nf.10.1.9.1.3](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.3.md) (session · 5) | sase-1nf.10.1.9.1 hood | active 5 |
