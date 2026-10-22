@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [9t](../../users/bbugyi200/machines/apollo/hoods/9t/README.md) / 9t--4--review
 
-**Global name:** `bbugyi200.apollo.9t--4--review` · **State:** active · **Source run:** `run-d17244ed0d7e46e81189f1434c68fad2`
+**Global name:** `bbugyi200.apollo.9t--4--review` · **State:** completed · **Source run:** `run-d17244ed0d7e46e81189f1434c68fad2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 9t
 
@@ -10,9 +10,13 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-21T16:31:18.404747+00:00
+- Timing: 2026-10-21T16:31:18.404747+00:00 → 2026-10-21T17:53:04.128212+00:00
 - Commits: 0
 - Variables: [1](#variables)
+
+## Files
+
+[Chat](chat.md)
 
 ## Variables
 
@@ -81,6 +85,6 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [9t](../../sessions/bbugyi200.apollo.9t.md) (session · 8) | ancestor | completed 4, failed 4 |
-| [9t--4--plan](../bbugyi200.apollo.9t--4--plan/README.md) | 9t hood | active |
+| [9t](../../sessions/bbugyi200.apollo.9t.md) (session · 8) | ancestor | active 1, completed 3, failed 4 |
+| [9t--4--plan](../bbugyi200.apollo.9t--4--plan/README.md) | 9t hood | completed |
 | [9t.cdx](../bbugyi200.apollo.9t.cdx/README.md) | 9t hood | completed |

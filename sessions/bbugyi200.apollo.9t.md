@@ -11,7 +11,7 @@ flowchart TD
   n0["9t--mon [failed]"]
   n1["9t--gate [failed]"]
   n0 --> n1
-  n2["9t--0 [completed]"]
+  n2["9t--0 [active]"]
   n0 --> n2
   n3["9t--3 [completed]"]
   n0 --> n3
@@ -31,7 +31,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | 9t--mon | failed | gpt-6-astra / codex | 2026-10-21T11:14:19.581126+00:00 → 2026-10-21T11:24:46.764047+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.9t--mon/chat.md) |
 | <a id="member-gate"></a>gate | 9t--gate | failed | gpt-6-astra / codex | 2026-10-21T16:19:17.833153+00:00 → 2026-10-21T16:19:46.287495+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.9t--gate/chat.md) |
-| <a id="member-0"></a>0 | 9t--0 | completed | gpt-6-astra / codex | 2026-10-21T11:05:31.514867+00:00 → 2026-10-21T11:15:17.854771+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.9t--0/prompt.md) | [Chat](../agents/bbugyi200.apollo.9t--0/chat.md) |
+| <a id="member-0"></a>0 | 9t--0 | active | gpt-6-astra / codex | 2026-10-21T11:05:31.514867+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.9t--0/prompt.md) | [Chat](../agents/bbugyi200.apollo.9t--0/chat.md) |
 | <a id="member-3"></a>3 | 9t--3 | completed | gpt-6-astra / codex | 2026-10-21T12:02:43.863138+00:00 → 2026-10-21T12:10:54.267283+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.9t--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.9t--3/chat.md) |
 | <a id="member-2"></a>2 | 9t--2 | completed | gpt-6-astra / codex | 2026-10-21T11:40:21.668750+00:00 → 2026-10-21T11:48:32.599523+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.9t--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.9t--2/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 9t--mon-0 | failed | gpt-6-astra / codex | 2026-10-21T11:36:30.790551+00:00 → 2026-10-21T11:40:21.764817+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.9t--mon-0/chat.md) |
@@ -139,6 +139,6 @@ Values are truncated for display; see each member's agent meta.json for the full
 
 | Agent | Relation | State |
 |---|---|---|
-| [9t--4--plan](../agents/bbugyi200.apollo.9t--4--plan/README.md) | descendant | active |
-| [9t--4--review](../agents/bbugyi200.apollo.9t--4--review/README.md) | descendant | active |
+| [9t--4--plan](../agents/bbugyi200.apollo.9t--4--plan/README.md) | descendant | completed |
+| [9t--4--review](../agents/bbugyi200.apollo.9t--4--review/README.md) | descendant | completed |
 | [9t.cdx](../agents/bbugyi200.apollo.9t.cdx/README.md) | descendant | completed |

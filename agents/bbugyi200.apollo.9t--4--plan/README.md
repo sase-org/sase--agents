@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [9t](../../users/bbugyi200/machines/apollo/hoods/9t/README.md) / 9t--4--plan
 
-**Global name:** `bbugyi200.apollo.9t--4--plan` · **State:** active · **Source run:** `run-e2ec9f0892b7c146a9ec35301ba15c41`
+**Global name:** `bbugyi200.apollo.9t--4--plan` · **State:** completed · **Source run:** `run-e2ec9f0892b7c146a9ec35301ba15c41`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 9t
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-21T16:20:36.773410+00:00
+- Timing: 2026-10-21T16:20:36.773410+00:00 → 2026-10-21T17:53:04.128212+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
@@ -65,6 +65,6 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [9t](../../sessions/bbugyi200.apollo.9t.md) (session · 8) | ancestor | completed 4, failed 4 |
-| [9t--4--review](../bbugyi200.apollo.9t--4--review/README.md) | 9t hood | active |
+| [9t](../../sessions/bbugyi200.apollo.9t.md) (session · 8) | ancestor | active 1, completed 3, failed 4 |
+| [9t--4--review](../bbugyi200.apollo.9t--4--review/README.md) | 9t hood | completed |
 | [9t.cdx](../bbugyi200.apollo.9t.cdx/README.md) | 9t hood | completed |

@@ -24,6 +24,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [9t](../../sessions/bbugyi200.apollo.9t.md) (session · 8) | ancestor | completed 4, failed 4 |
-| [9t--4--plan](../bbugyi200.apollo.9t--4--plan/README.md) | 9t hood | active |
-| [9t--4--review](../bbugyi200.apollo.9t--4--review/README.md) | 9t hood | active |
+| [9t](../../sessions/bbugyi200.apollo.9t.md) (session · 8) | ancestor | active 1, completed 3, failed 4 |
+| [9t--4--plan](../bbugyi200.apollo.9t--4--plan/README.md) | 9t hood | completed |
+| [9t--4--review](../bbugyi200.apollo.9t--4--review/README.md) | 9t hood | completed |

@@ -40,6 +40,6 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [9t--4--plan](../bbugyi200.apollo.9t--4--plan/README.md) | descendant | active |
-| [9t--4--review](../bbugyi200.apollo.9t--4--review/README.md) | descendant | active |
+| [9t--4--plan](../bbugyi200.apollo.9t--4--plan/README.md) | descendant | completed |
+| [9t--4--review](../bbugyi200.apollo.9t--4--review/README.md) | descendant | completed |
 | [9t.cdx](../bbugyi200.apollo.9t.cdx/README.md) | descendant | completed |

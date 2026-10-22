@@ -66,7 +66,7 @@
 | [9b](hoods/9b/README.md) | 1 | 0 | active 1 |
 | [9n](hoods/9n/README.md) | 7 | 1 | active 1, completed 3, failed 3 |
 | [9r](hoods/9r/README.md) | 7 | 1 | active 1, completed 3, failed 3 |
-| [9t](hoods/9t/README.md) | 11 | 1 | active 2, completed 5, failed 4 |
+| [9t](hoods/9t/README.md) | 11 | 1 | active 1, completed 6, failed 4 |
 | [claude-code](hoods/claude-code/README.md) | 3 | 0 | completed 3 |
 | [l](hoods/l/README.md) | 3 | 0 | active 1, completed 2 |
 | [m](hoods/m/README.md) | 1 | 0 | active 1 |

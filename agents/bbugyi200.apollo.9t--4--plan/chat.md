@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** 9t--4
 
+## Linked Chats
+
+- **1. ** — `~/.sase/chats/202610/gh_sase_org__sase-ace_run-9t__4-261021_121945.md`
+- 2. --review — `~/.sase/chats/202610/gh_sase_org__sase-ace_run-9t__4__review-261021_121945.md`
+
 ## Prompt
 
 %macros_enabled:false
