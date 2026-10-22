@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["sase-1n6.5.1.5.2.1.2--1 [completed]"]
   n0 --> n4
-  n5["sase-1n6.5.1.5.2.1.2--3 [active]"]
+  n5["sase-1n6.5.1.5.2.1.2--3 [completed]"]
   n0 --> n5
   n6["sase-1n6.5.1.5.2.1.2--mon-1 [failed]"]
   n0 --> n6
@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | sase-1n6.5.1.5.2.1.2--mon-0 | failed | gpt-6-luna / codex | 2026-10-20T21:20:07.516018+00:00 → 2026-10-20T22:06:47.672623+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--mon-0/chat.md) |
 | <a id="member-plan"></a>plan | sase-1n6.5.1.5.2.1.2--plan | completed | gpt-6-luna / codex | 2026-10-20T20:47:35.311267+00:00 → 2026-10-20T20:57:13.736133+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--plan/chat.md) |
 | <a id="member-1"></a>1 | sase-1n6.5.1.5.2.1.2--1 | completed | gpt-6-luna / codex | 2026-10-20T21:02:39.550743+00:00 → 2026-10-20T21:21:42.956571+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--1/chat.md) |
-| <a id="member-3"></a>3 | sase-1n6.5.1.5.2.1.2--3 | active | gpt-6-luna / codex | 2026-10-22T10:21:40.246645+00:00 | [1](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--3/prompt.md) | — |
+| <a id="member-3"></a>3 | sase-1n6.5.1.5.2.1.2--3 | completed | gpt-6-luna / codex | 2026-10-22T10:21:40.246645+00:00 → 2026-10-22T10:32:17.875567+00:00 | [1](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--3/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-1n6.5.1.5.2.1.2--mon-1 | failed | gpt-6-luna / codex | 2026-10-20T22:18:47.034249+00:00 → 2026-10-22T10:20:16.891745+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1n6.5.1.5.2.1.2--mon-1/chat.md) |
 
 ## Commits
