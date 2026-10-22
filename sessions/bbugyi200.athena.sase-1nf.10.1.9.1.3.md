@@ -8,14 +8,14 @@ Owner: `bbugyi200.athena` · Hood: `sase-1nf` · Members: 5 · Bead: [sase-1nf.1
 
 ```mermaid
 flowchart TD
-  n0["sase-1nf.10.1.9.1.3--plan [completed]"]
-  n1["sase-1nf.10.1.9.1.3--mon-0 [failed]"]
+  n0["sase-1nf.10.1.9.1.3--plan [active]"]
+  n1["sase-1nf.10.1.9.1.3--mon-0 [active]"]
   n0 --> n1
-  n2["sase-1nf.10.1.9.1.3--1 [completed]"]
+  n2["sase-1nf.10.1.9.1.3--1 [active]"]
   n0 --> n2
-  n3["sase-1nf.10.1.9.1.3--2 [completed]"]
+  n3["sase-1nf.10.1.9.1.3--2 [active]"]
   n0 --> n3
-  n4["sase-1nf.10.1.9.1.3--mon [failed]"]
+  n4["sase-1nf.10.1.9.1.3--mon [active]"]
   n0 --> n4
 ```
 
@@ -23,11 +23,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-1nf.10.1.9.1.3--plan | completed | gpt-6-luna / codex | 2026-10-21T12:23:31.947320+00:00 → 2026-10-21T12:34:57.669331+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.3--plan/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | sase-1nf.10.1.9.1.3--mon-0 | failed | gpt-6-luna / codex | 2026-10-21T12:49:48.676111+00:00 → 2026-10-21T12:53:23.168051+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.3--mon-0/chat.md) |
-| <a id="member-1"></a>1 | sase-1nf.10.1.9.1.3--1 | completed | gpt-6-luna / codex | 2026-10-21T12:39:23.461693+00:00 → 2026-10-21T12:50:20.836458+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.3--1/chat.md) |
-| <a id="member-2"></a>2 | sase-1nf.10.1.9.1.3--2 | completed | gpt-6-luna / codex | 2026-10-21T12:55:12.618976+00:00 → 2026-10-21T13:08:39.790319+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.3--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.3--2/chat.md) |
-| <a id="member-mon"></a>mon | sase-1nf.10.1.9.1.3--mon | failed | gpt-6-luna / codex | 2026-10-21T12:33:13.426173+00:00 → 2026-10-21T12:37:35.325951+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.3--mon/chat.md) |
+| <a id="member-plan"></a>plan | sase-1nf.10.1.9.1.3--plan | active | gpt-6-luna / codex | 2026-10-21T12:23:31.947320+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.3--plan/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | sase-1nf.10.1.9.1.3--mon-0 | active | gpt-6-luna / codex | 2026-10-21T12:49:48.676111+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.3--mon-0/chat.md) |
+| <a id="member-1"></a>1 | sase-1nf.10.1.9.1.3--1 | active | gpt-6-luna / codex | 2026-10-21T12:39:23.461693+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.3--1/chat.md) |
+| <a id="member-2"></a>2 | sase-1nf.10.1.9.1.3--2 | active | gpt-6-luna / codex | 2026-10-21T12:55:12.618976+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.3--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.3--2/chat.md) |
+| <a id="member-mon"></a>mon | sase-1nf.10.1.9.1.3--mon | active | gpt-6-luna / codex | 2026-10-21T12:33:13.426173+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.3--mon/chat.md) |
 
 ## Variables
 
@@ -100,17 +100,17 @@ Values are truncated for display; see each member's agent meta.json for the full
 |---|---|---|
 | [sase-1nf.10.1.9](bbugyi200.athena.sase-1nf.10.1.9.md) (session · 3) | ancestor | failed 3 |
 | [sase-1nf.10](bbugyi200.athena.sase-1nf.10.md) (session · 3) | ancestor | failed 3 |
-| [sase-1nf.10.1.9.1.1](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.1/README.md) | sase-1nf.10.1.9.1 hood | completed |
-| [sase-1nf.10.1.9.1.2](bbugyi200.athena.sase-1nf.10.1.9.1.2.md) (session · 3) | sase-1nf.10.1.9.1 hood | completed 2, failed 1 |
-| [sase-1nf.10.1.9.1.4](bbugyi200.athena.sase-1nf.10.1.9.1.4.md) (session · 5) | sase-1nf.10.1.9.1 hood | completed 3, failed 2 |
-| [sase-1nf.10.1.9.1.5](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.5/README.md) | sase-1nf.10.1.9.1 hood | completed |
+| [sase-1nf.10.1.9.1.1](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.1/README.md) | sase-1nf.10.1.9.1 hood | active |
+| [sase-1nf.10.1.9.1.2](bbugyi200.athena.sase-1nf.10.1.9.1.2.md) (session · 3) | sase-1nf.10.1.9.1 hood | active 3 |
+| [sase-1nf.10.1.9.1.4](bbugyi200.athena.sase-1nf.10.1.9.1.4.md) (session · 5) | sase-1nf.10.1.9.1 hood | active 5 |
+| [sase-1nf.10.1.9.1.5](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.5/README.md) | sase-1nf.10.1.9.1 hood | active |
 | [sase-1nf.10.1.9.1.6.1](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.6.1/README.md) | sase-1nf.10.1.9.1 hood | completed |
 | [sase-1nf.10.1.9.1.6.2](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.6.2/README.md) | sase-1nf.10.1.9.1 hood | completed |
-| [sase-1nf.10.1.9.1.6.3](bbugyi200.athena.sase-1nf.10.1.9.1.6.3.md) (session · 2) | sase-1nf.10.1.9.1 hood | active 1, completed 1 |
-| [sase-1nf.10.1.9.1.6.4](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.6.4/README.md) | sase-1nf.10.1.9.1 hood | waiting |
+| [sase-1nf.10.1.9.1.6.3](bbugyi200.athena.sase-1nf.10.1.9.1.6.3.md) (session · 3) | sase-1nf.10.1.9.1 hood | completed 2, failed 1 |
+| [sase-1nf.10.1.9.1.6.4](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.6.4/README.md) | sase-1nf.10.1.9.1 hood | active |
 | [sase-1nf.10.1.9.1.6.5](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.6.5/README.md) | sase-1nf.10.1.9.1 hood | waiting |
 | [sase-1nf.10.1.9.1.6.land](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.6.land/README.md) | sase-1nf.10.1.9.1 hood | waiting |
-| [sase-1nf.10.1.9.1.land](bbugyi200.athena.sase-1nf.10.1.9.1.land.md) (session · 3) | sase-1nf.10.1.9.1 hood | failed 3 |
+| [sase-1nf.10.1.9.1.land](bbugyi200.athena.sase-1nf.10.1.9.1.land.md) (session · 3) | sase-1nf.10.1.9.1 hood | active 3 |
 | [sase-1nf.10.1.1](../agents/bbugyi200.athena.sase-1nf.10.1.1/README.md) | sase-1nf.10.1 hood | completed |
 | [sase-1nf.10.1.2](../agents/bbugyi200.athena.sase-1nf.10.1.2/README.md) | sase-1nf.10.1 hood | completed |
 | [sase-1nf.10.1.3](../agents/bbugyi200.athena.sase-1nf.10.1.3/README.md) | sase-1nf.10.1 hood | completed |

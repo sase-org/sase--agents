@@ -33,18 +33,18 @@
 | [sase-1nf.10.1.7](../../sessions/bbugyi200.athena.sase-1nf.10.1.7.md) (session · 5) | sase-1nf hood | completed 3, failed 2 |
 | [sase-1nf.10.1.8](../bbugyi200.athena.sase-1nf.10.1.8/README.md) | sase-1nf hood | completed |
 | [sase-1nf.10.1.9](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.md) (session · 3) | sase-1nf hood | failed 3 |
-| [sase-1nf.10.1.9.1.1](../bbugyi200.athena.sase-1nf.10.1.9.1.1/README.md) | sase-1nf hood | completed |
-| [sase-1nf.10.1.9.1.2](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.2.md) (session · 3) | sase-1nf hood | completed 2, failed 1 |
-| [sase-1nf.10.1.9.1.3](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.3.md) (session · 5) | sase-1nf hood | completed 3, failed 2 |
-| [sase-1nf.10.1.9.1.4](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.4.md) (session · 5) | sase-1nf hood | completed 3, failed 2 |
-| [sase-1nf.10.1.9.1.5](../bbugyi200.athena.sase-1nf.10.1.9.1.5/README.md) | sase-1nf hood | completed |
+| [sase-1nf.10.1.9.1.1](../bbugyi200.athena.sase-1nf.10.1.9.1.1/README.md) | sase-1nf hood | active |
+| [sase-1nf.10.1.9.1.2](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.2.md) (session · 3) | sase-1nf hood | active 3 |
+| [sase-1nf.10.1.9.1.3](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.3.md) (session · 5) | sase-1nf hood | active 5 |
+| [sase-1nf.10.1.9.1.4](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.4.md) (session · 5) | sase-1nf hood | active 5 |
+| [sase-1nf.10.1.9.1.5](../bbugyi200.athena.sase-1nf.10.1.9.1.5/README.md) | sase-1nf hood | active |
 | [sase-1nf.10.1.9.1.6.1](../bbugyi200.athena.sase-1nf.10.1.9.1.6.1/README.md) | sase-1nf hood | completed |
 | [sase-1nf.10.1.9.1.6.2](../bbugyi200.athena.sase-1nf.10.1.9.1.6.2/README.md) | sase-1nf hood | completed |
-| [sase-1nf.10.1.9.1.6.3](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.6.3.md) (session · 2) | sase-1nf hood | active 1, completed 1 |
-| [sase-1nf.10.1.9.1.6.4](../bbugyi200.athena.sase-1nf.10.1.9.1.6.4/README.md) | sase-1nf hood | waiting |
+| [sase-1nf.10.1.9.1.6.3](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.6.3.md) (session · 3) | sase-1nf hood | completed 2, failed 1 |
+| [sase-1nf.10.1.9.1.6.4](../bbugyi200.athena.sase-1nf.10.1.9.1.6.4/README.md) | sase-1nf hood | active |
 | [sase-1nf.10.1.9.1.6.5](../bbugyi200.athena.sase-1nf.10.1.9.1.6.5/README.md) | sase-1nf hood | waiting |
 | [sase-1nf.10.1.9.1.6.land](../bbugyi200.athena.sase-1nf.10.1.9.1.6.land/README.md) | sase-1nf hood | waiting |
-| [sase-1nf.10.1.9.1.land](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.land.md) (session · 3) | sase-1nf hood | failed 3 |
+| [sase-1nf.10.1.9.1.land](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.land.md) (session · 3) | sase-1nf hood | active 3 |
 | [sase-1nf.10.1.land](../bbugyi200.athena.sase-1nf.10.1.land/README.md) | sase-1nf hood | waiting |
 | [sase-1nf.11](../bbugyi200.athena.sase-1nf.11/README.md) | sase-1nf hood | waiting |
 | [sase-1nf.12](../bbugyi200.athena.sase-1nf.12/README.md) | sase-1nf hood | completed |
