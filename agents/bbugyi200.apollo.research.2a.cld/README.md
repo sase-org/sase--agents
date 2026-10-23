@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-23T15:58:10.468751+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/e3\_trustworthy\_signal\_readiness\_and\_design\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261023115728/e3\_trustworthy\_signal\_readiness\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/e3_trustworthy_signal_readiness_and_design__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261023115728/e3_trustworthy_signal_readiness_and_design__cld-625088b6ac14.md
+  ref: file:explicit:932a80be8097445aa240d311
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202610/e3_trustworthy_signal_readiness_and_design__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.2a.cdx](../bbugyi200.apollo.research.2a.cdx/README.md) | research.2a hood | completed |
 | [research.2a.final](../bbugyi200.apollo.research.2a.final/README.md) | research.2a hood | waiting |
 | [research.2a.gem](../bbugyi200.apollo.research.2a.gem/README.md) | research.2a hood | completed |
-| [research.2a.grk](../bbugyi200.apollo.research.2a.grk/README.md) | research.2a hood | active |
+| [research.2a.grk](../bbugyi200.apollo.research.2a.grk/README.md) | research.2a hood | completed |
 | [research.2a.image](../bbugyi200.apollo.research.2a.image/README.md) | research.2a hood | waiting |
 | [research.2a.linker](../bbugyi200.apollo.research.2a.linker/README.md) | research.2a hood | waiting |
 | [research.2a.mus](../bbugyi200.apollo.research.2a.mus/README.md) | research.2a hood | completed |
