@@ -22,5 +22,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1nk.1](../bbugyi200.athena.sase-1nk.1/README.md) | sase-1nk hood | active |
+| [sase-1nk.1](../bbugyi200.athena.sase-1nk.1/README.md) | sase-1nk hood | completed |
 | [sase-1nk.2](../bbugyi200.athena.sase-1nk.2/README.md) | sase-1nk hood | active |

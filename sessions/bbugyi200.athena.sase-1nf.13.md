@@ -26,6 +26,27 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-1"></a>1 | sase-1nf.13--1 | active | gpt-6-astra / codex | 2026-10-23T13:53:27.808638+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nf.13--1/chat.md) |
 | <a id="member-gate"></a>gate | sase-1nf.13--gate | failed | gpt-6-astra / codex | 2026-10-23T13:51:58.250749+00:00 → 2026-10-23T13:53:06.543444+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nf.13--gate/chat.md) |
 
+## Variables
+
+| Role | Variable | Value |
+|---|---|---|
+| 1 | `artifacts` | \[{bead: sase-1nf.13, kind: file, label: Verified GC census launch and capture setup 2026-10-23, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261023095327/gc-measure-20261023-start.tar… |
+
+#### artifacts
+
+**Role:** `1`
+
+```yaml
+- bead: sase-1nf.13
+  kind: file
+  label: Verified GC census launch and capture setup 2026-10-23
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261023095327/gc-measure-20261023-start.tar-27247c09792d.gz
+  ref: file:explicit:d54703bdfa49035878bd0bdd
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.tmp/gc-measure-20261023-start.tar.gz
+```
+
+Values are truncated for display; see each member's agent meta.json for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |

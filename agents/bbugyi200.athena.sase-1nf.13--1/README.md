@@ -13,10 +13,30 @@
 - Provider: codex
 - Timing: 2026-10-23T13:53:27.808638+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Chat](chat.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: sase-1nf.13, kind: file, label: Verified GC census launch and capture setup 2026-10-23, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261023095327/gc-measure-20261023-start.tar… |
+
+#### artifacts
+
+```yaml
+- bead: sase-1nf.13
+  kind: file
+  label: Verified GC census launch and capture setup 2026-10-23
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261023095327/gc-measure-20261023-start.tar-27247c09792d.gz
+  ref: file:explicit:d54703bdfa49035878bd0bdd
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/.tmp/gc-measure-20261023-start.tar.gz
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

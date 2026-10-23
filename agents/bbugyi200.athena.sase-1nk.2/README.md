@@ -13,15 +13,21 @@
 - Model: gpt-6-luna
 - Provider: codex
 - Timing: 2026-10-23T13:32:13.975596+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ed321c5`](https://github.com/sase-org/sase/commit/ed321c5434bba31c7636bdc8dadc80afba040a7f) | fix(agent-launch): restore host PATH for nested launches | 2026-10-23 10:05:29 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1nk.1](../bbugyi200.athena.sase-1nk.1/README.md) | sase-1nk hood | active |
+| [sase-1nk.1](../bbugyi200.athena.sase-1nk.1/README.md) | sase-1nk hood | completed |
 | [sase-1nk.land](../bbugyi200.athena.sase-1nk.land/README.md) | sase-1nk hood | waiting |
