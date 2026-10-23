@@ -2,22 +2,47 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1n6](../../users/bbugyi200/machines/athena/hoods/sase-1n6/README.md) / [sase-1n6.5.1.5.2.1.2](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.2.md) / sase-1n6.5.1.5.2.1.2--plan
 
-**Global name:** `bbugyi200.athena.sase-1n6.5.1.5.2.1.2--plan` · **State:** completed · **Source run:** `run-49b08e67f012428b91f4c3555c4115c7`
+**Global name:** `bbugyi200.athena.sase-1n6.5.1.5.2.1.2--plan` · **State:** completed · **Source run:** `run-60d2286915932bb1a0f1da80af734092`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1n6
 
 ## Summary
 
 - Bead: [sase-1n6.5.1.5.2.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1n6/sase-1n6.5.1.5.2.1.2.md)
-- Epic: [sase-1n6.5.1.5.2.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1n6/sase-1n6.5.1.5.2.1.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-20T20:47:35.311267+00:00 → 2026-10-20T20:57:13.736133+00:00
+- Timing: 2026-10-23T18:00:54.422830+00:00 → 2026-10-23T18:11:34.997116+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: sase-1n6.5.1.5.2.1.2, kind: file, label: Qualification live proof: 2026-10-23 readiness and core/probe checks, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261023135103/readin… |
+
+#### artifacts
+
+```yaml
+- bead: sase-1n6.5.1.5.2.1.2
+  kind: file
+  label: Qualification live proof: 2026-10-23 readiness and core/probe checks
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261023135103/readiness-9ee6bbb63d16.json
+  ref: file:explicit:4b085fa3c19a8eccb6d96032
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/.sase/live-proof-20261023/readiness.json
+- bead: sase-1n6.5.1.5.2.1.2
+  kind: file
+  label: Qualification live proof: 2026-10-23 aligned dispatch receipts
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261023135103/dispatch-dcb966e3713e.json
+  ref: file:explicit:f7620f53009d4743a99d9694
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/.sase/live-proof-20261023/dispatch.json
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
