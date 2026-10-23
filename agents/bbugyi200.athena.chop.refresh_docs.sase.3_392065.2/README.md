@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [chop](../../users/bbugyi200/machines/athena/hoods/chop/README.md) / chop.refresh\_docs.sase.3\_392065.2
 
-**Global name:** `bbugyi200.athena.chop.refresh_docs.sase.3_392065.2` · **State:** completed · **Source run:** `run-d63d3426c23336c4789eae429c54ff2c`
+**Global name:** `bbugyi200.athena.chop.refresh_docs.sase.3_392065.2` · **State:** active · **Source run:** `run-d63d3426c23336c4789eae429c54ff2c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** chop
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-22T12:25:34.063217+00:00 → 2026-10-22T12:46:39.702294+00:00
+- Timing: 2026-10-22T12:25:34.063217+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -27,7 +27,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [chop.refresh\_docs.sase.3\_392065.1](../bbugyi200.athena.chop.refresh_docs.sase.3_392065.1/README.md) | chop.refresh\_docs.sase.3\_392065 hood | completed |
+| [chop.refresh\_docs.sase.3\_392065.1](../bbugyi200.athena.chop.refresh_docs.sase.3_392065.1/README.md) | chop.refresh\_docs.sase.3\_392065 hood | active |
 | [chop.refresh\_docs.sase.0\_190948.1](../bbugyi200.athena.chop.refresh_docs.sase.0_190948.1/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.0\_190948.2](../bbugyi200.athena.chop.refresh_docs.sase.0_190948.2/README.md) | chop.refresh\_docs.sase hood | dismissed |
 | [chop.refresh\_docs.sase.0\_289632.1](../bbugyi200.athena.chop.refresh_docs.sase.0_289632.1/README.md) | chop.refresh\_docs.sase hood | active |

@@ -8,12 +8,12 @@ Owner: `bbugyi200.athena` · Hood: `sase-1nf` · Members: 4 · Bead: [sase-1nf.1
 
 ```mermaid
 flowchart TD
-  n0["sase-1nf.13--gate [failed]"]
+  n0["sase-1nf.13--plan [active]"]
   n1["sase-1nf.13--gate-0 [active]"]
   n0 --> n1
-  n2["sase-1nf.13--plan [completed]"]
+  n2["sase-1nf.13--1 [active]"]
   n0 --> n2
-  n3["sase-1nf.13--1 [completed]"]
+  n3["sase-1nf.13--gate [failed]"]
   n0 --> n3
 ```
 
@@ -21,10 +21,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-gate"></a>gate | sase-1nf.13--gate | failed | muse-spark-1.3-contributor / muse | 2026-10-20T19:33:40.841141+00:00 → 2026-10-20T19:34:10.769825+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nf.13--gate/chat.md) |
+| <a id="member-plan"></a>plan | sase-1nf.13--plan | active | gpt-6-astra / codex | 2026-10-23T13:40:19.661670+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nf.13--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nf.13--plan/chat.md) |
 | <a id="member-gate-0"></a>gate-0 | sase-1nf.13--gate-0 | active | muse-spark-1.3-contributor / muse | 2026-10-20T19:41:16.424769+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-1nf.13--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-20T19:26:26.850453+00:00 → 2026-10-20T19:41:27.134481+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nf.13--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nf.13--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-1nf.13--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-20T19:34:29.206446+00:00 → 2026-10-20T19:41:27.134481+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nf.13--1/chat.md) |
+| <a id="member-1"></a>1 | sase-1nf.13--1 | active | gpt-6-astra / codex | 2026-10-23T13:53:27.808638+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nf.13--1/chat.md) |
+| <a id="member-gate"></a>gate | sase-1nf.13--gate | failed | gpt-6-astra / codex | 2026-10-23T13:51:58.250749+00:00 → 2026-10-23T13:53:06.543444+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nf.13--gate/chat.md) |
 
 ## Neighbors
 
@@ -51,7 +51,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1nf.10.1.9.1.6.3](bbugyi200.athena.sase-1nf.10.1.9.1.6.3.md) (session · 3) | sase-1nf hood | completed 2, failed 1 |
 | [sase-1nf.10.1.9.1.6.4](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.6.4/README.md) | sase-1nf hood | completed |
 | [sase-1nf.10.1.9.1.6.5](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.6.5/README.md) | sase-1nf hood | completed |
-| [sase-1nf.10.1.9.1.6.land](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.6.land/README.md) | sase-1nf hood | active |
+| [sase-1nf.10.1.9.1.6.land](../agents/bbugyi200.athena.sase-1nf.10.1.9.1.6.land/README.md) | sase-1nf hood | completed |
 | [sase-1nf.10.1.9.1.land](bbugyi200.athena.sase-1nf.10.1.9.1.land.md) (session · 3) | sase-1nf hood | active 3 |
 | [sase-1nf.10.1.land](../agents/bbugyi200.athena.sase-1nf.10.1.land/README.md) | sase-1nf hood | waiting |
 | [sase-1nf.11](../agents/bbugyi200.athena.sase-1nf.11/README.md) | sase-1nf hood | waiting |
@@ -60,6 +60,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1nf.2](../agents/bbugyi200.athena.sase-1nf.2/README.md) | sase-1nf hood | completed |
 | [sase-1nf.3](../agents/bbugyi200.athena.sase-1nf.3/README.md) | sase-1nf hood | completed |
 | [sase-1nf.4](bbugyi200.athena.sase-1nf.4.md) (session · 2) | sase-1nf hood | completed 1, failed 1 |
+| [sase-1nf.4](../agents/bbugyi200.athena.sase-1nf.4/README.md) | sase-1nf hood | completed |
 | [sase-1nf.5](../agents/bbugyi200.athena.sase-1nf.5/README.md) | sase-1nf hood | completed |
 | [sase-1nf.6](bbugyi200.athena.sase-1nf.6.md) (session · 9) | sase-1nf hood | completed 5, failed 4 |
 | [sase-1nf.7](bbugyi200.athena.sase-1nf.7.md) (session · 5) | sase-1nf hood | completed 3, failed 2 |
