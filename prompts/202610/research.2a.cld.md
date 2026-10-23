@@ -1,0 +1,26 @@
+- **AGENTS:**
+  - [bbugyi200.apollo.research.2a.cld](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.apollo.research.2a.cld/README.md)
+
+%id(cld, clan=research.2a) %m:claude/opus@xhigh %q(1.5x, w=0.25) #gh:gh_sase-org__sase
+You are researcher cld in a 5-researcher swarm. The other researchers,
+`research.2a.cdx`, `research.2a.grk`, `research.2a.mus`, `research.2a.gem`, are
+independently investigating the same request and will write their own self-named reports
+ending in `__cdx.md` and `__grk.md` and `__mus.md` and `__gem.md`. Your report will end
+in `__cld.md`.
+
+Conduct your research independently and form your own conclusions. Do NOT attempt to
+locate, open, read, or otherwise consult the other researcher's report from this swarm,
+even if it becomes available before you finish. Do not obtain that peer's findings
+indirectly through its chat transcript, summaries, or requests to the peer. You may
+independently use the same external sources, shared input material, and unrelated prior
+research. You may check filenames or file existence to avoid overwriting your own
+output, but do not inspect the peer's report contents. If you encounter its filename,
+leave the report alone. The lead researcher will read every report and synthesize their
+findings after you have all finished.
+
+I'm thinking about moving forward with the E3 epic described by the
+pypi_release_reliability_design_and_work_split.md file in the research sidecar repo. Can
+you do some research with the goal of making sure we are ready for this epic, describing
+the work that has been done so far (e.g. E1 and E2) and what developer-facing behavior
+has been changed by that work, and starting the design for the E3 epic?
+#research(suffix=cld)
