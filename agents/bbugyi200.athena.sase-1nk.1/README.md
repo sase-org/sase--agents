@@ -29,5 +29,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1nk.2](../bbugyi200.athena.sase-1nk.2/README.md) | sase-1nk hood | active |
-| [sase-1nk.land](../bbugyi200.athena.sase-1nk.land/README.md) | sase-1nk hood | waiting |
+| [sase-1nk.2](../bbugyi200.athena.sase-1nk.2/README.md) | sase-1nk hood | completed |
+| [sase-1nk.land](../../sessions/bbugyi200.athena.sase-1nk.land.md) (session · 3) | sase-1nk hood | active 2, failed 1 |
