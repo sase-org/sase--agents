@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1792772745,"sha":"b2a4c380cf464ee2bda5c49d24c08812081e2900","subject":"fix(ci): restore Full CI build-core job and authenticate release metadata sync"}],"schema_version":2,"source_run_id":"run-a6e053432e21a8b8ed7624ce812d4c04"}
