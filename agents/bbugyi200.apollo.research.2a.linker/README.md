@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.2a.linker
 
-**Global name:** `bbugyi200.apollo.research.2a.linker` · **State:** waiting · **Source run:** `run-1228e603131c23ccc50f82beccd77420`
+**Global name:** `bbugyi200.apollo.research.2a.linker` · **State:** active · **Source run:** `run-1228e603131c23ccc50f82beccd77420`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261023115734
+- Timing: 2026-10-23T17:16:15.553189+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/pypi\_release\_e3\_trustworthy\_signal\_readiness/pypi\_release\_e3\_trustworthy\_signal\_readiness.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/pypi_release_e3_trustworthy_signal_readiness/pypi_release_e3_trustworthy_signal_readiness.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261023115734/pypi_release_e3_trustworthy_signal_readiness-eafc36538967.md
+  ref: file:explicit:2da62f34b7c3c82b8c5caf16
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/pypi_release_e3_trustworthy_signal_readiness/pypi_release_e3_trustworthy_signal_readiness.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -26,7 +45,7 @@
 | [research.2a.final](../bbugyi200.apollo.research.2a.final/README.md) | research.2a hood | completed |
 | [research.2a.gem](../bbugyi200.apollo.research.2a.gem/README.md) | research.2a hood | completed |
 | [research.2a.grk](../bbugyi200.apollo.research.2a.grk/README.md) | research.2a hood | completed |
-| [research.2a.image](../bbugyi200.apollo.research.2a.image/README.md) | research.2a hood | active |
+| [research.2a.image](../bbugyi200.apollo.research.2a.image/README.md) | research.2a hood | completed |
 | [research.2a.mus](../bbugyi200.apollo.research.2a.mus/README.md) | research.2a hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
