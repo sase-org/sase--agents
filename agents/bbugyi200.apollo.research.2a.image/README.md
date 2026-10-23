@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.2a.image
 
-**Global name:** `bbugyi200.apollo.research.2a.image` · **State:** waiting · **Source run:** `run-2b31132246c6e7c450af1a10924352e8`
+**Global name:** `bbugyi200.apollo.research.2a.image` · **State:** active · **Source run:** `run-2b31132246c6e7c450af1a10924352e8`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,42 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261023115733
+- Timing: 2026-10-23T17:01:52.769780+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202610/pypi\_release\_e3\_trustworthy\_signal\_readiness/pypi\_release\_e3\_trustworthy\_signal\_readiness\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-or… |
+| `diagrams` | {considered: 15, count: 0, reason: Mermaid CLI 12.0.0 passed the SVG smoke test, one-chart batch check, source and unique-anchor checks, and 79.7% PDF fit, but both bounded PNG exports failed (the fi… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202610/pypi_release_e3_trustworthy_signal_readiness/pypi_release_e3_trustworthy_signal_readiness_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261023115733/pypi_release_e3_trustworthy_signal_readiness_infographic-aa6a48783097.png
+  ref: file:explicit:376f204a135e26db25eec815
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/pypi_release_e3_trustworthy_signal_readiness/pypi_release_e3_trustworthy_signal_readiness_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 15
+count: 0
+reason: Mermaid CLI 12.0.0 passed the SVG smoke test, one-chart batch check, source and unique-anchor checks, and 79.7% PDF fit, but both bounded PNG exports failed (the first logged Puppeteer ConnectionClosedError); visual validation unavailable. No manifest written.
+source_ref: file:explicit:a392c07c38c3957b8b93f464
+status: failed
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +53,7 @@
 |---|---|---|
 | [research.2a.cdx](../bbugyi200.apollo.research.2a.cdx/README.md) | research.2a hood | completed |
 | [research.2a.cld](../bbugyi200.apollo.research.2a.cld/README.md) | research.2a hood | completed |
-| [research.2a.final](../bbugyi200.apollo.research.2a.final/README.md) | research.2a hood | active |
+| [research.2a.final](../bbugyi200.apollo.research.2a.final/README.md) | research.2a hood | completed |
 | [research.2a.gem](../bbugyi200.apollo.research.2a.gem/README.md) | research.2a hood | completed |
 | [research.2a.grk](../bbugyi200.apollo.research.2a.grk/README.md) | research.2a hood | completed |
 | [research.2a.linker](../bbugyi200.apollo.research.2a.linker/README.md) | research.2a hood | waiting |
