@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** sase-1nk.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_sase_org__sase-ace_run-sase_1nk_land__plan-261023_093057.md`
+- 2. --code — `~/.sase/chats/202610/gh_sase_org__sase-ace_run-sase_1nk_land__code-261023_093057.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/finish_monitor_followup_landing.md
 
 
