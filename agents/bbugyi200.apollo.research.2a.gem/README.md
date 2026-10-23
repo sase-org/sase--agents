@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-10-23T15:58:56.504638+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/pypi\_release\_reliability\_e3\_trustworthy\_signal\_readiness\_and\_design\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261023115731/pypi\_re… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/pypi_release_reliability_e3_trustworthy_signal_readiness_and_design__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261023115731/pypi_release_reliability_e3_trustworthy_signal_readiness_and_design__gem-a3a25b30d717.md
+  ref: file:explicit:cc08dab4f70e3125869fd5ab
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_14/sase/repos/research/202610/pypi_release_reliability_e3_trustworthy_signal_readiness_and_design__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
