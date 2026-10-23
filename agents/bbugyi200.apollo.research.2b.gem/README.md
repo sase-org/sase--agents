@@ -40,7 +40,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.2b.cdx](../bbugyi200.apollo.research.2b.cdx/README.md) | research.2b hood | active |
+| [research.2b.cdx](../bbugyi200.apollo.research.2b.cdx/README.md) | research.2b hood | completed |
 | [research.2b.cld](../bbugyi200.apollo.research.2b.cld/README.md) | research.2b hood | active |
 | [research.2b.final](../bbugyi200.apollo.research.2b.final/README.md) | research.2b hood | waiting |
 | [research.2b.grk](../bbugyi200.apollo.research.2b.grk/README.md) | research.2b hood | active |

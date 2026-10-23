@@ -12,16 +12,35 @@
 - Provider: claude
 - Timing: 2026-10-23T19:57:04.328759+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_blog\_post\_task\_split\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261023155631/sase\_blog\_post\_task\_split\_\_cld-e020a5c5e8d0.md, r… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_blog_post_task_split__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261023155631/sase_blog_post_task_split__cld-e020a5c5e8d0.md
+  ref: file:explicit:f52968cb27fe73e09802aace
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202610/sase_blog_post_task_split__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.2b.cdx](../bbugyi200.apollo.research.2b.cdx/README.md) | research.2b hood | active |
+| [research.2b.cdx](../bbugyi200.apollo.research.2b.cdx/README.md) | research.2b hood | completed |
 | [research.2b.final](../bbugyi200.apollo.research.2b.final/README.md) | research.2b hood | waiting |
 | [research.2b.gem](../bbugyi200.apollo.research.2b.gem/README.md) | research.2b hood | completed |
 | [research.2b.grk](../bbugyi200.apollo.research.2b.grk/README.md) | research.2b hood | active |
