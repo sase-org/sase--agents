@@ -28,4 +28,8 @@
 | [sase-1nn.4](../bbugyi200.athena.sase-1nn.4/README.md) | sase-1nn hood | completed |
 | [sase-1nn.6](../bbugyi200.athena.sase-1nn.6/README.md) | sase-1nn hood | completed |
 | [sase-1nn.7](../../sessions/bbugyi200.athena.sase-1nn.7.md) (session · 2) | sase-1nn hood | completed 1, failed 1 |
-| [sase-1nn.land](../bbugyi200.athena.sase-1nn.land/README.md) | sase-1nn hood | active |
+| [sase-1nn.8.1](../bbugyi200.athena.sase-1nn.8.1/README.md) | sase-1nn hood | active |
+| [sase-1nn.8.2](../../sessions/bbugyi200.athena.sase-1nn.8.2.md) (session · 4) | sase-1nn hood | active 1, completed 2, failed 1 |
+| [sase-1nn.8.3](../bbugyi200.athena.sase-1nn.8.3/README.md) | sase-1nn hood | waiting |
+| [sase-1nn.8.land](../bbugyi200.athena.sase-1nn.8.land/README.md) | sase-1nn hood | waiting |
+| [sase-1nn.land](../../sessions/bbugyi200.athena.sase-1nn.land.md) (session · 3) | sase-1nn hood | failed 3 |
