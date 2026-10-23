@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.2a.final
 
-**Global name:** `bbugyi200.apollo.research.2a.final` · **State:** waiting · **Source run:** `run-e8df0ff9049b029abf088de39cf3f68d`
+**Global name:** `bbugyi200.apollo.research.2a.final` · **State:** active · **Source run:** `run-e8df0ff9049b029abf088de39cf3f68d`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,19 +10,38 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261023115732
+- Timing: 2026-10-23T16:31:12.308536+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/pypi\_release\_e3\_trustworthy\_signal\_readiness/pypi\_release\_e3\_trustworthy\_signal\_readiness\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sas… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/pypi_release_e3_trustworthy_signal_readiness/pypi_release_e3_trustworthy_signal_readiness__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261023115732/pypi_release_e3_trustworthy_signal_readiness__final-1c0339db24f8.md
+  ref: file:explicit:a392c07c38c3957b8b93f464
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/pypi_release_e3_trustworthy_signal_readiness/pypi_release_e3_trustworthy_signal_readiness__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.2a.cdx](../bbugyi200.apollo.research.2a.cdx/README.md) | research.2a hood | completed |
-| [research.2a.cld](../bbugyi200.apollo.research.2a.cld/README.md) | research.2a hood | active |
+| [research.2a.cld](../bbugyi200.apollo.research.2a.cld/README.md) | research.2a hood | completed |
 | [research.2a.gem](../bbugyi200.apollo.research.2a.gem/README.md) | research.2a hood | completed |
 | [research.2a.grk](../bbugyi200.apollo.research.2a.grk/README.md) | research.2a hood | completed |
 | [research.2a.image](../bbugyi200.apollo.research.2a.image/README.md) | research.2a hood | waiting |
