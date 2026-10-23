@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-10-23T19:57:37.643351+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_blog\_task\_decomposition\_strategy\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261023155634/sase\_blog\_task\_decomposition\_strategy… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_blog_task_decomposition_strategy__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261023155634/sase_blog_task_decomposition_strategy__gem-dc07346aa1d8.md
+  ref: file:explicit:e8863243cbf1e77bd3b2ee4a
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_14/sase/repos/research/202610/sase_blog_task_decomposition_strategy__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.2b.grk](../bbugyi200.apollo.research.2b.grk/README.md) | research.2b hood | active |
 | [research.2b.image](../bbugyi200.apollo.research.2b.image/README.md) | research.2b hood | waiting |
 | [research.2b.linker](../bbugyi200.apollo.research.2b.linker/README.md) | research.2b hood | waiting |
-| [research.2b.mus](../bbugyi200.apollo.research.2b.mus/README.md) | research.2b hood | active |
+| [research.2b.mus](../bbugyi200.apollo.research.2b.mus/README.md) | research.2b hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
