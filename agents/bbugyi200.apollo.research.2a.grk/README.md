@@ -12,16 +12,35 @@
 - Provider: grok
 - Timing: 2026-10-23T15:58:35.205163+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/e3\_pypi\_trustworthy\_signal\_readiness\_and\_design\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261023115729/e3\_pypi\_trustworthy\_signal\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/e3_pypi_trustworthy_signal_readiness_and_design__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261023115729/e3_pypi_trustworthy_signal_readiness_and_design__grk-da49f60b512b.md
+  ref: file:explicit:d20454c1af3d5ab78b978c64
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202610/e3_pypi_trustworthy_signal_readiness_and_design__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.2a.cdx](../bbugyi200.apollo.research.2a.cdx/README.md) | research.2a hood | active |
+| [research.2a.cdx](../bbugyi200.apollo.research.2a.cdx/README.md) | research.2a hood | completed |
 | [research.2a.cld](../bbugyi200.apollo.research.2a.cld/README.md) | research.2a hood | active |
 | [research.2a.final](../bbugyi200.apollo.research.2a.final/README.md) | research.2a hood | waiting |
 | [research.2a.gem](../bbugyi200.apollo.research.2a.gem/README.md) | research.2a hood | completed |
