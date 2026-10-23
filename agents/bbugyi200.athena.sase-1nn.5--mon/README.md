@@ -28,5 +28,5 @@
 | [sase-1nn.3](../../sessions/bbugyi200.athena.sase-1nn.3.md) (session · 3) | sase-1nn hood | completed 2, failed 1 |
 | [sase-1nn.4](../bbugyi200.athena.sase-1nn.4/README.md) | sase-1nn hood | completed |
 | [sase-1nn.6](../bbugyi200.athena.sase-1nn.6/README.md) | sase-1nn hood | completed |
-| [sase-1nn.7](../bbugyi200.athena.sase-1nn.7/README.md) | sase-1nn hood | waiting |
-| [sase-1nn.land](../bbugyi200.athena.sase-1nn.land/README.md) | sase-1nn hood | waiting |
+| [sase-1nn.7](../../sessions/bbugyi200.athena.sase-1nn.7.md) (session · 2) | sase-1nn hood | completed 1, failed 1 |
+| [sase-1nn.land](../bbugyi200.athena.sase-1nn.land/README.md) | sase-1nn hood | active |

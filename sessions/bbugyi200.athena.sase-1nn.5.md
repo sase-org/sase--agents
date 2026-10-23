@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["sase-1nn.5--mon-3 [failed]"]
   n0 --> n4
-  n5["sase-1nn.5--7 [active]"]
+  n5["sase-1nn.5--7 [completed]"]
   n0 --> n5
   n6["sase-1nn.5--mon-4 [failed]"]
   n0 --> n6
@@ -48,7 +48,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-1"></a>mon-1 | sase-1nn.5--mon-1 | failed | gpt-6-luna / codex | 2026-10-23T18:11:48.262509+00:00 → 2026-10-23T18:18:23.128572+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nn.5--mon-1/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | sase-1nn.5--mon-2 | failed | gpt-6-luna / codex | 2026-10-23T18:24:13.964942+00:00 → 2026-10-23T18:34:33.329551+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nn.5--mon-2/chat.md) |
 | <a id="member-mon-3"></a>mon-3 | sase-1nn.5--mon-3 | failed | gpt-6-luna / codex | 2026-10-23T18:48:24.830174+00:00 → 2026-10-23T18:52:20.482767+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nn.5--mon-3/chat.md) |
-| <a id="member-7"></a>7 | sase-1nn.5--7 | active | gpt-6-luna / codex | 2026-10-23T19:59:47.255161+00:00 | [1](../agents/bbugyi200.athena.sase-1nn.5--7/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1nn.5--7/prompt.md) | — |
+| <a id="member-7"></a>7 | sase-1nn.5--7 | completed | gpt-6-luna / codex | 2026-10-23T19:59:47.255161+00:00 → 2026-10-23T20:52:27.525915+00:00 | [1](../agents/bbugyi200.athena.sase-1nn.5--7/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1nn.5--7/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nn.5--7/chat.md) |
 | <a id="member-mon-4"></a>mon-4 | sase-1nn.5--mon-4 | failed | gpt-6-luna / codex | 2026-10-23T19:24:29.855058+00:00 → 2026-10-23T19:34:39.215935+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nn.5--mon-4/chat.md) |
 | <a id="member-plan"></a>plan | sase-1nn.5--plan | completed | gpt-6-luna / codex | 2026-10-23T16:32:49.381715+00:00 → 2026-10-23T16:38:18.346505+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nn.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nn.5--plan/chat.md) |
 | <a id="member-5"></a>5 | sase-1nn.5--5 | completed | gpt-6-luna / codex | 2026-10-23T18:52:29.563340+00:00 → 2026-10-23T19:28:50.352423+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nn.5--5/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nn.5--5/chat.md) |
@@ -74,5 +74,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1nn.3](bbugyi200.athena.sase-1nn.3.md) (session · 3) | sase-1nn hood | completed 2, failed 1 |
 | [sase-1nn.4](../agents/bbugyi200.athena.sase-1nn.4/README.md) | sase-1nn hood | completed |
 | [sase-1nn.6](../agents/bbugyi200.athena.sase-1nn.6/README.md) | sase-1nn hood | completed |
-| [sase-1nn.7](../agents/bbugyi200.athena.sase-1nn.7/README.md) | sase-1nn hood | waiting |
-| [sase-1nn.land](../agents/bbugyi200.athena.sase-1nn.land/README.md) | sase-1nn hood | waiting |
+| [sase-1nn.7](bbugyi200.athena.sase-1nn.7.md) (session · 2) | sase-1nn hood | completed 1, failed 1 |
+| [sase-1nn.land](../agents/bbugyi200.athena.sase-1nn.land/README.md) | sase-1nn hood | active |
