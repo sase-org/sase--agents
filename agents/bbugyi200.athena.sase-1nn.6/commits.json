@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-df323f57fa614409aae06ef154934463"}
+{"commits":[{"committed_at":1792778395,"sha":"bdec291c77b0de1aab4c00abecef7430761db736","subject":"fix(ci): treat PYTEST_ADDOPTS -p values as plugins, not selectors"}],"schema_version":2,"source_run_id":"run-df323f57fa614409aae06ef154934463"}
