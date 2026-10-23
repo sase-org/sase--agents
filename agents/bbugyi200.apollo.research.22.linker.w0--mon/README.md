@@ -21,13 +21,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.22.linker](../bbugyi200.apollo.research.22.linker/README.md) | ancestor | completed |
-| [research.22.cdx](../bbugyi200.apollo.research.22.cdx/README.md) | research.22 hood | completed |
-| [research.22.cld](../bbugyi200.apollo.research.22.cld/README.md) | research.22 hood | completed |
-| [research.22.final](../bbugyi200.apollo.research.22.final/README.md) | research.22 hood | completed |
-| [research.22.gem](../bbugyi200.apollo.research.22.gem/README.md) | research.22 hood | completed |
-| [research.22.grk](../bbugyi200.apollo.research.22.grk/README.md) | research.22 hood | completed |
-| [research.22.image](../bbugyi200.apollo.research.22.image/README.md) | research.22 hood | completed |
+| [research.22.linker](../bbugyi200.apollo.research.22.linker/README.md) | ancestor | active |
+| [research.22.cdx](../bbugyi200.apollo.research.22.cdx/README.md) | research.22 hood | active |
+| [research.22.cld](../bbugyi200.apollo.research.22.cld/README.md) | research.22 hood | active |
+| [research.22.final](../bbugyi200.apollo.research.22.final/README.md) | research.22 hood | active |
+| [research.22.gem](../bbugyi200.apollo.research.22.gem/README.md) | research.22 hood | active |
+| [research.22.grk](../bbugyi200.apollo.research.22.grk/README.md) | research.22 hood | active |
+| [research.22.image](../bbugyi200.apollo.research.22.image/README.md) | research.22 hood | active |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
@@ -78,4 +78,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | active |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | active |
-| … and 551 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 559 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
