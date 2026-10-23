@@ -25,9 +25,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1nn.1](../agents/bbugyi200.athena.sase-1nn.1/README.md) | sase-1nn hood | completed |
-| [sase-1nn.3](bbugyi200.athena.sase-1nn.3.md) (session · 3) | sase-1nn hood | active 1, completed 1, failed 1 |
+| [sase-1nn.3](bbugyi200.athena.sase-1nn.3.md) (session · 3) | sase-1nn hood | completed 2, failed 1 |
 | [sase-1nn.4](../agents/bbugyi200.athena.sase-1nn.4/README.md) | sase-1nn hood | active |
 | [sase-1nn.5](../agents/bbugyi200.athena.sase-1nn.5/README.md) | sase-1nn hood | waiting |
-| [sase-1nn.6](../agents/bbugyi200.athena.sase-1nn.6/README.md) | sase-1nn hood | waiting |
+| [sase-1nn.6](../agents/bbugyi200.athena.sase-1nn.6/README.md) | sase-1nn hood | active |
 | [sase-1nn.7](../agents/bbugyi200.athena.sase-1nn.7/README.md) | sase-1nn hood | waiting |
 | [sase-1nn.land](../agents/bbugyi200.athena.sase-1nn.land/README.md) | sase-1nn hood | waiting |
