@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.2b.linker
 
-**Global name:** `bbugyi200.apollo.research.2b.linker` · **State:** waiting · **Source run:** `run-63e8acc3dbd30a8db4100b6925a75663`
+**Global name:** `bbugyi200.apollo.research.2b.linker` · **State:** active · **Source run:** `run-63e8acc3dbd30a8db4100b6925a75663`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261023155637
+- Timing: 2026-10-23T20:40:36.388827+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_blog\_writers\_block\_task\_plan/sase\_blog\_writers\_block\_task\_plan.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261023155637/sase\_blog\_wr… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_blog_writers_block_task_plan/sase_blog_writers_block_task_plan.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261023155637/sase_blog_writers_block_task_plan-4720b22b751d.md
+  ref: file:explicit:07ac02d74869866939f2beda
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/sase_blog_writers_block_task_plan/sase_blog_writers_block_task_plan.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -26,7 +45,7 @@
 | [research.2b.final](../bbugyi200.apollo.research.2b.final/README.md) | research.2b hood | completed |
 | [research.2b.gem](../bbugyi200.apollo.research.2b.gem/README.md) | research.2b hood | completed |
 | [research.2b.grk](../bbugyi200.apollo.research.2b.grk/README.md) | research.2b hood | completed |
-| [research.2b.image](../bbugyi200.apollo.research.2b.image/README.md) | research.2b hood | active |
+| [research.2b.image](../bbugyi200.apollo.research.2b.image/README.md) | research.2b hood | completed |
 | [research.2b.mus](../bbugyi200.apollo.research.2b.mus/README.md) | research.2b hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
