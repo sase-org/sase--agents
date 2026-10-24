@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-1nv.3--plan | completed | grok-4.6 / grok | 2026-10-24T11:16:24.152319+00:00 → 2026-10-24T12:20:41.331245+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nv.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nv.3--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-1nv.3--1 | active | grok-4.6 / grok | 2026-10-24T12:49:24.689964+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nv.3--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1nv.3--1 | active | grok-4.6 / grok | 2026-10-24T12:49:24.689964+00:00 | [1](../agents/bbugyi200.athena.sase-1nv.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1nv.3--1/prompt.md) | — |
 | <a id="member-mon"></a>mon | sase-1nv.3--mon | failed | grok-4.6 / grok | 2026-10-24T12:19:38.566895+00:00 → 2026-10-24T12:49:00.566810+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nv.3--mon/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`02cd3b3`](https://github.com/sase-org/sase/commit/02cd3b39b64358f37b2fa097f0ebfa1db2960e53) | feat(agents-sync): name publications with the post-commit SHA | 2026-10-24 09:25:19 EDT |
 
 ## Neighbors
 

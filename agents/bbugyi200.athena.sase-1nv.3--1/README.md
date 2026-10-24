@@ -12,11 +12,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-10-24T12:49:24.689964+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`02cd3b3`](https://github.com/sase-org/sase/commit/02cd3b39b64358f37b2fa097f0ebfa1db2960e53) | feat(agents-sync): name publications with the post-commit SHA | 2026-10-24 09:25:19 EDT |
 
 ## Neighbors
 

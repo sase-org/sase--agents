@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c8c74170d8081b9e1f91c1fab3eff26e"}
+{"commits":[{"committed_at":1792848319,"sha":"02cd3b39b64358f37b2fa097f0ebfa1db2960e53","subject":"feat(agents-sync): name publications with the post-commit SHA"}],"schema_version":2,"source_run_id":"run-c8c74170d8081b9e1f91c1fab3eff26e"}
