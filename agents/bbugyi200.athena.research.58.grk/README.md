@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.58.grk
 
-**Global name:** `bbugyi200.athena.research.58.grk` · **State:** active · **Source run:** `run-ec80bda3d9b8424d48f151ab0282e8cf`
+**Global name:** `bbugyi200.athena.research.58.grk` · **State:** completed · **Source run:** `run-ec80bda3d9b8424d48f151ab0282e8cf`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-24T21:50:11.785966+00:00
+- Timing: 2026-10-24T21:50:11.785966+00:00 → 2026-10-24T22:19:02.501997+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -42,7 +42,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 |---|---|---|
 | [research.58.cdx](../bbugyi200.athena.research.58.cdx/README.md) | research.58 hood | completed |
 | [research.58.cld](../bbugyi200.athena.research.58.cld/README.md) | research.58 hood | completed |
-| [research.58.final](../bbugyi200.athena.research.58.final/README.md) | research.58 hood | waiting |
+| [research.58.final](../bbugyi200.athena.research.58.final/README.md) | research.58 hood | active |
 | [research.58.gem](../bbugyi200.athena.research.58.gem/README.md) | research.58 hood | completed |
 | [research.58.image](../bbugyi200.athena.research.58.image/README.md) | research.58 hood | waiting |
 | [research.58.linker](../bbugyi200.athena.research.58.linker/README.md) | research.58 hood | waiting |
