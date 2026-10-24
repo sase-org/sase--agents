@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-374079ad8014ca7ab1a30f0312a134b1"}
+{"commits":[{"committed_at":1792868210,"sha":"0189f13f7bdb1673ee028c85e3ab68991bca8369","subject":"fix(tui): make GC acceptance calculations trustworthy"}],"schema_version":2,"source_run_id":"run-374079ad8014ca7ab1a30f0312a134b1"}

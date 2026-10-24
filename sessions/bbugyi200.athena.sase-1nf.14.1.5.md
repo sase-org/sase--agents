@@ -2,26 +2,38 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1nf](../users/bbugyi200/machines/athena/hoods/sase-1nf/README.md) / sase-1nf.14.1.5
 
-Owner: `bbugyi200.athena` · Hood: `sase-1nf` · Members: 3 · Bead: [sase-1nf.14.1.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.14.1.5.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1nf` · Members: 5 · Bead: [sase-1nf.14.1.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.14.1.5.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-1nf.14.1.5--1 [active]"]
-  n1["sase-1nf.14.1.5--mon [failed]"]
+  n0["sase-1nf.14.1.5--mon-0 [failed]"]
+  n1["sase-1nf.14.1.5--1 [completed]"]
   n0 --> n1
-  n2["sase-1nf.14.1.5--plan [completed]"]
+  n2["sase-1nf.14.1.5--mon [failed]"]
   n0 --> n2
+  n3["sase-1nf.14.1.5--2 [completed]"]
+  n0 --> n3
+  n4["sase-1nf.14.1.5--plan [completed]"]
+  n0 --> n4
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-1nf.14.1.5--1 | active | gpt-6-luna / codex | 2026-10-24T17:58:35.682867+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nf.14.1.5--1/prompt.md) | — |
+| <a id="member-mon-0"></a>mon-0 | sase-1nf.14.1.5--mon-0 | failed | gpt-6-luna / codex | 2026-10-24T18:47:28.106932+00:00 → 2026-10-24T19:02:40.819641+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nf.14.1.5--mon-0/chat.md) |
+| <a id="member-1"></a>1 | sase-1nf.14.1.5--1 | completed | gpt-6-luna / codex | 2026-10-24T17:58:35.682867+00:00 → 2026-10-24T18:48:20.127865+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nf.14.1.5--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nf.14.1.5--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-1nf.14.1.5--mon | failed | gpt-6-luna / codex | 2026-10-24T17:54:16.784871+00:00 → 2026-10-24T17:57:55.856466+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nf.14.1.5--mon/chat.md) |
+| <a id="member-2"></a>2 | sase-1nf.14.1.5--2 | completed | gpt-6-luna / codex | 2026-10-24T19:03:52.703065+00:00 → 2026-10-24T19:12:42.037723+00:00 | [1](../agents/bbugyi200.athena.sase-1nf.14.1.5--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1nf.14.1.5--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nf.14.1.5--2/chat.md) |
 | <a id="member-plan"></a>plan | sase-1nf.14.1.5--plan | completed | gpt-6-luna / codex | 2026-10-24T17:43:29.684954+00:00 → 2026-10-24T17:55:12.702605+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nf.14.1.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nf.14.1.5--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 2 | sase | [`720b2a2`](https://github.com/sase-org/sase/commit/720b2a22bc42920e0a183778bf69e9a222a0321a) | fix(tui): bound retained event and completion caches | 2026-10-24 15:09:23 EDT |
 
 ## Variables
 
@@ -49,10 +61,10 @@ Values are truncated for display; see each member's agent meta.json for the full
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1nf.14](bbugyi200.athena.sase-1nf.14.md) (session · 3) | ancestor | failed 3 |
-| [sase-1nf.14.1.1](../agents/bbugyi200.athena.sase-1nf.14.1.1/README.md) | sase-1nf.14.1 hood | active |
-| [sase-1nf.14.1.2](../agents/bbugyi200.athena.sase-1nf.14.1.2/README.md) | sase-1nf.14.1 hood | waiting |
-| [sase-1nf.14.1.3](../agents/bbugyi200.athena.sase-1nf.14.1.3/README.md) | sase-1nf.14.1 hood | failed |
-| [sase-1nf.14.1.4](../agents/bbugyi200.athena.sase-1nf.14.1.4/README.md) | sase-1nf.14.1 hood | active |
+| [sase-1nf.14.1.1](../agents/bbugyi200.athena.sase-1nf.14.1.1/README.md) | sase-1nf.14.1 hood | completed |
+| [sase-1nf.14.1.2](../agents/bbugyi200.athena.sase-1nf.14.1.2/README.md) | sase-1nf.14.1 hood | active |
+| [sase-1nf.14.1.3](../agents/bbugyi200.athena.sase-1nf.14.1.3/README.md) | sase-1nf.14.1 hood | active |
+| [sase-1nf.14.1.4](../agents/bbugyi200.athena.sase-1nf.14.1.4/README.md) | sase-1nf.14.1 hood | completed |
 | [sase-1nf.14.1.6](../agents/bbugyi200.athena.sase-1nf.14.1.6/README.md) | sase-1nf.14.1 hood | waiting |
 | [sase-1nf.14.1.7](../agents/bbugyi200.athena.sase-1nf.14.1.7/README.md) | sase-1nf.14.1 hood | waiting |
 | [sase-1nf.14.1.8](../agents/bbugyi200.athena.sase-1nf.14.1.8/README.md) | sase-1nf.14.1 hood | waiting |
