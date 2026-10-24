@@ -40,8 +40,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1nn.8.1](../agents/bbugyi200.athena.sase-1nn.8.1/README.md) | sase-1nn.8 hood | completed |
-| [sase-1nn.8.3](bbugyi200.athena.sase-1nn.8.3.md) (session · 2) | sase-1nn.8 hood | active 1, completed 1 |
-| [sase-1nn.8.land](../agents/bbugyi200.athena.sase-1nn.8.land/README.md) | sase-1nn.8 hood | waiting |
+| [sase-1nn.8.3](bbugyi200.athena.sase-1nn.8.3.md) (session · 2) | sase-1nn.8 hood | completed 1, failed 1 |
+| [sase-1nn.8.4.1](bbugyi200.athena.sase-1nn.8.4.1.md) (session · 3) | sase-1nn.8 hood | active 1, completed 1, failed 1 |
+| [sase-1nn.8.4.2](../agents/bbugyi200.athena.sase-1nn.8.4.2/README.md) | sase-1nn.8 hood | waiting |
+| [sase-1nn.8.4.land](../agents/bbugyi200.athena.sase-1nn.8.4.land/README.md) | sase-1nn.8 hood | waiting |
+| [sase-1nn.8.land](bbugyi200.athena.sase-1nn.8.land.md) (session · 3) | sase-1nn.8 hood | failed 3 |
 | [sase-1nn.1](../agents/bbugyi200.athena.sase-1nn.1/README.md) | sase-1nn hood | completed |
 | [sase-1nn.2](bbugyi200.athena.sase-1nn.2.md) (session · 5) | sase-1nn hood | completed 3, failed 2 |
 | [sase-1nn.3](bbugyi200.athena.sase-1nn.3.md) (session · 3) | sase-1nn hood | completed 2, failed 1 |

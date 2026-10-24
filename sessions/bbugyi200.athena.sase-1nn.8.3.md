@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1nn` · Members: 2 · Bead: [sase-1nn.8
 
 ```mermaid
 flowchart TD
-  n0["sase-1nn.8.3--mon [active]"]
+  n0["sase-1nn.8.3--mon [failed]"]
   n1["sase-1nn.8.3--plan [completed]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | sase-1nn.8.3--mon | active | grok-4.6 / grok | 2026-10-24T00:34:48.623578+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1nn.8.3--mon | failed | grok-4.6 / grok | 2026-10-24T00:34:48.623578+00:00 → 2026-10-24T06:28:37.431512+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nn.8.3--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1nn.8.3--plan | completed | grok-4.6 / grok | 2026-10-24T00:28:25.674444+00:00 → 2026-10-24T00:35:29.300231+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nn.8.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nn.8.3--plan/chat.md) |
 
 ## Neighbors
@@ -26,7 +26,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1nn.8.1](../agents/bbugyi200.athena.sase-1nn.8.1/README.md) | sase-1nn.8 hood | completed |
 | [sase-1nn.8.2](bbugyi200.athena.sase-1nn.8.2.md) (session · 5) | sase-1nn.8 hood | completed 3, failed 2 |
-| [sase-1nn.8.land](../agents/bbugyi200.athena.sase-1nn.8.land/README.md) | sase-1nn.8 hood | waiting |
+| [sase-1nn.8.4.1](bbugyi200.athena.sase-1nn.8.4.1.md) (session · 3) | sase-1nn.8 hood | active 1, completed 1, failed 1 |
+| [sase-1nn.8.4.2](../agents/bbugyi200.athena.sase-1nn.8.4.2/README.md) | sase-1nn.8 hood | waiting |
+| [sase-1nn.8.4.land](../agents/bbugyi200.athena.sase-1nn.8.4.land/README.md) | sase-1nn.8 hood | waiting |
+| [sase-1nn.8.land](bbugyi200.athena.sase-1nn.8.land.md) (session · 3) | sase-1nn.8 hood | failed 3 |
 | [sase-1nn.1](../agents/bbugyi200.athena.sase-1nn.1/README.md) | sase-1nn hood | completed |
 | [sase-1nn.2](bbugyi200.athena.sase-1nn.2.md) (session · 5) | sase-1nn hood | completed 3, failed 2 |
 | [sase-1nn.3](bbugyi200.athena.sase-1nn.3.md) (session · 3) | sase-1nn hood | completed 2, failed 1 |
