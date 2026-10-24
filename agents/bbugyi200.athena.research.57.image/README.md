@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.57.image
 
-**Global name:** `bbugyi200.athena.research.57.image` · **State:** waiting · **Source run:** `run-d7f53190a6285ce297b65ad21c79490f`
+**Global name:** `bbugyi200.athena.research.57.image` · **State:** completed · **Source run:** `run-d7f53190a6285ce297b65ad21c79490f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261024152856
+- Timing: 2026-10-24T20:23:51.510411+00:00 → 2026-10-24T20:33:39.834977+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: research:202610/sase\_launch\_post\_reading\_list/sase\_launch\_post\_reading\_list\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261024152856/sase\_launc… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: research:202610/sase_launch_post_reading_list/sase_launch_post_reading_list_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261024152856/sase_launch_post_reading_list_infographic-6d1ecb87302b.png
+  ref: file:explicit:86faa188ca6f85aa7646dbd3
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_16/sase/repos/research/202610/sase_launch_post_reading_list/sase_launch_post_reading_list_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,10 +42,10 @@
 |---|---|---|
 | [research.57.cdx](../bbugyi200.athena.research.57.cdx/README.md) | research.57 hood | completed |
 | [research.57.cld](../bbugyi200.athena.research.57.cld/README.md) | research.57 hood | completed |
-| [research.57.final](../bbugyi200.athena.research.57.final/README.md) | research.57 hood | active |
+| [research.57.final](../bbugyi200.athena.research.57.final/README.md) | research.57 hood | completed |
 | [research.57.gem](../bbugyi200.athena.research.57.gem/README.md) | research.57 hood | completed |
 | [research.57.grk](../bbugyi200.athena.research.57.grk/README.md) | research.57 hood | completed |
-| [research.57.linker](../bbugyi200.athena.research.57.linker/README.md) | research.57 hood | waiting |
+| [research.57.linker](../bbugyi200.athena.research.57.linker/README.md) | research.57 hood | active |
 | [research.57.mus](../bbugyi200.athena.research.57.mus/README.md) | research.57 hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |

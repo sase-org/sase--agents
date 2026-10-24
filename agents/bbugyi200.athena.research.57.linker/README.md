@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.57.linker
 
-**Global name:** `bbugyi200.athena.research.57.linker` · **State:** waiting · **Source run:** `run-f7cbadcebaa3e8ecb0e4eefdbd5252ba`
+**Global name:** `bbugyi200.athena.research.57.linker` · **State:** active · **Source run:** `run-f7cbadcebaa3e8ecb0e4eefdbd5252ba`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261024152857
+- Timing: 2026-10-24T20:34:27.437674+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_launch\_post\_reading\_list/sase\_launch\_post\_reading\_list.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261024152857/sase\_launch\_post\_rea… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_launch_post_reading_list/sase_launch_post_reading_list.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261024152857/sase_launch_post_reading_list-c439b1567d6d.md
+  ref: file:explicit:23984e1f9af93d45959001b5
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13/sase/repos/research/202610/sase_launch_post_reading_list/sase_launch_post_reading_list.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,10 +42,10 @@
 |---|---|---|
 | [research.57.cdx](../bbugyi200.athena.research.57.cdx/README.md) | research.57 hood | completed |
 | [research.57.cld](../bbugyi200.athena.research.57.cld/README.md) | research.57 hood | completed |
-| [research.57.final](../bbugyi200.athena.research.57.final/README.md) | research.57 hood | active |
+| [research.57.final](../bbugyi200.athena.research.57.final/README.md) | research.57 hood | completed |
 | [research.57.gem](../bbugyi200.athena.research.57.gem/README.md) | research.57 hood | completed |
 | [research.57.grk](../bbugyi200.athena.research.57.grk/README.md) | research.57 hood | completed |
-| [research.57.image](../bbugyi200.athena.research.57.image/README.md) | research.57 hood | waiting |
+| [research.57.image](../bbugyi200.athena.research.57.image/README.md) | research.57 hood | completed |
 | [research.57.mus](../bbugyi200.athena.research.57.mus/README.md) | research.57 hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
