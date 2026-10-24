@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / apollo
 
-**Project:** sase · **Hoods:** 101 · **Runs:** 1692
+**Project:** sase · **Hoods:** 102 · **Runs:** 1693
 
 | Hood | Runs | Sessions | States |
 |---|---:|---:|---|
@@ -67,6 +67,7 @@
 | [9n](hoods/9n/README.md) | 7 | 1 | active 1, completed 3, failed 3 |
 | [9r](hoods/9r/README.md) | 7 | 1 | active 1, completed 3, failed 3 |
 | [9t](hoods/9t/README.md) | 11 | 1 | active 1, completed 6, failed 4 |
+| [a3](hoods/a3/README.md) | 1 | 0 | active 1 |
 | [claude-code](hoods/claude-code/README.md) | 3 | 0 | completed 3 |
 | [l](hoods/l/README.md) | 3 | 0 | active 1, completed 2 |
 | [m](hoods/m/README.md) | 1 | 0 | active 1 |
@@ -74,7 +75,7 @@
 | [o](hoods/o/README.md) | 2 | 1 | active 1, completed 1 |
 | [p](hoods/p/README.md) | 1 | 1 | active 1 |
 | [r](hoods/r/README.md) | 3 | 0 | active 1, completed 2 |
-| [research](hoods/research/README.md) | 643 | 7 | active 478, completed 149, failed 14, waiting 2 |
+| [research](hoods/research/README.md) | 643 | 7 | active 493, completed 134, failed 14, waiting 2 |
 | [sase-100](hoods/sase-100/README.md) | 23 | 2 | active 1, completed 13, failed 9 |
 | [sase-10j](hoods/sase-10j/README.md) | 4 | 0 | active 1, completed 2, waiting 1 |
 | [sase-12o](hoods/sase-12o/README.md) | 8 | 1 | active 1, completed 5, failed 2 |
