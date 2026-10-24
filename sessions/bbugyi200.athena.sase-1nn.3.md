@@ -39,8 +39,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1nn.5](bbugyi200.athena.sase-1nn.5.md) (session · 15) | sase-1nn hood | completed 8, failed 7 |
 | [sase-1nn.6](../agents/bbugyi200.athena.sase-1nn.6/README.md) | sase-1nn hood | completed |
 | [sase-1nn.7](bbugyi200.athena.sase-1nn.7.md) (session · 2) | sase-1nn hood | completed 1, failed 1 |
-| [sase-1nn.8.1](../agents/bbugyi200.athena.sase-1nn.8.1/README.md) | sase-1nn hood | active |
-| [sase-1nn.8.2](bbugyi200.athena.sase-1nn.8.2.md) (session · 4) | sase-1nn hood | active 1, completed 2, failed 1 |
+| [sase-1nn.8.1](../agents/bbugyi200.athena.sase-1nn.8.1/README.md) | sase-1nn hood | completed |
+| [sase-1nn.8.2](bbugyi200.athena.sase-1nn.8.2.md) (session · 5) | sase-1nn hood | active 1, completed 2, failed 2 |
 | [sase-1nn.8.3](../agents/bbugyi200.athena.sase-1nn.8.3/README.md) | sase-1nn hood | waiting |
 | [sase-1nn.8.land](../agents/bbugyi200.athena.sase-1nn.8.land/README.md) | sase-1nn hood | waiting |
 | [sase-1nn.land](bbugyi200.athena.sase-1nn.land.md) (session · 3) | sase-1nn hood | failed 3 |

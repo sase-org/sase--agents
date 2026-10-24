@@ -12,11 +12,17 @@
 - Model: gpt-6-luna
 - Provider: codex
 - Timing: 2026-10-23T22:49:17.471644+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`a7996c3`](https://github.com/sase-org/sase/commit/a7996c3b77d155a9b3449d97b5e79b46b0ddd7f3) | feat(ace): show stranded work in agent details | 2026-10-23 20:06:53 EDT |
 
 ## Neighbors
 

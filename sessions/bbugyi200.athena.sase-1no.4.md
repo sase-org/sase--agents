@@ -26,8 +26,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | sase-1no.4--plan | completed | gpt-6-luna / codex | 2026-10-23T22:27:54.367196+00:00 → 2026-10-23T22:36:32.771382+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1no.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1no.4--plan/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-1no.4--mon-0 | failed | gpt-6-luna / codex | 2026-10-23T22:44:52.583240+00:00 → 2026-10-23T22:47:44.720993+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1no.4--mon-0/chat.md) |
 | <a id="member-mon"></a>mon | sase-1no.4--mon | failed | gpt-6-luna / codex | 2026-10-23T22:35:41.717379+00:00 → 2026-10-23T22:38:38.900169+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1no.4--mon/chat.md) |
-| <a id="member-2"></a>2 | sase-1no.4--2 | active | gpt-6-luna / codex | 2026-10-23T22:49:17.471644+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1no.4--2/prompt.md) | — |
+| <a id="member-2"></a>2 | sase-1no.4--2 | active | gpt-6-luna / codex | 2026-10-23T22:49:17.471644+00:00 | [1](../agents/bbugyi200.athena.sase-1no.4--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1no.4--2/prompt.md) | — |
 | <a id="member-1"></a>1 | sase-1no.4--1 | completed | gpt-6-luna / codex | 2026-10-23T22:40:09.111011+00:00 → 2026-10-23T22:45:44.659402+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1no.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1no.4--1/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 2 | sase | [`a7996c3`](https://github.com/sase-org/sase/commit/a7996c3b77d155a9b3449d97b5e79b46b0ddd7f3) | feat(ace): show stranded work in agent details | 2026-10-23 20:06:53 EDT |
 
 ## Neighbors
 
