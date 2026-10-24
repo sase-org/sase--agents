@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5cf5a3516d77b45e510e73e422648779"}
+{"commits":[{"committed_at":1792801454,"sha":"dd0c6d8d191d2c7c099ec939dbec80cd5ceaf06a","subject":"chore(deps): pin sase-core-rs to 0.42.3"}],"schema_version":2,"source_run_id":"run-5cf5a3516d77b45e510e73e422648779"}

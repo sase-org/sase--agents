@@ -25,9 +25,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon-0"></a>mon-0 | sase-1nn.8.2--mon-0 | failed | grok-4.6 / grok | 2026-10-23T22:51:13.011831+00:00 → 2026-10-23T23:44:20.988359+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nn.8.2--mon-0/chat.md) |
 | <a id="member-plan"></a>plan | sase-1nn.8.2--plan | completed | grok-4.6 / grok | 2026-10-23T22:35:24.347903+00:00 → 2026-10-23T22:42:19.654911+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nn.8.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nn.8.2--plan/chat.md) |
-| <a id="member-2"></a>2 | sase-1nn.8.2--2 | active | grok-4.6 / grok | 2026-10-23T23:45:30.668761+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nn.8.2--2/prompt.md) | — |
+| <a id="member-2"></a>2 | sase-1nn.8.2--2 | active | grok-4.6 / grok | 2026-10-23T23:45:30.668761+00:00 | [1](../agents/bbugyi200.athena.sase-1nn.8.2--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1nn.8.2--2/prompt.md) | — |
 | <a id="member-1"></a>1 | sase-1nn.8.2--1 | completed | grok-4.6 / grok | 2026-10-23T22:45:40.837151+00:00 → 2026-10-23T22:52:25.790230+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nn.8.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nn.8.2--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-1nn.8.2--mon | failed | grok-4.6 / grok | 2026-10-23T22:41:44.245917+00:00 → 2026-10-23T22:44:37.043697+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nn.8.2--mon/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 2 | sase | [`dd0c6d8`](https://github.com/sase-org/sase/commit/dd0c6d8d191d2c7c099ec939dbec80cd5ceaf06a) | chore(deps): pin sase-core-rs to 0.42.3 | 2026-10-23 20:24:14 EDT |
 
 ## Neighbors
 
