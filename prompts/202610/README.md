@@ -78,6 +78,7 @@
 | [12r.md](12r.md) | %queue(weight=1) #fork:12r--0 %model:gpt-6-astra@xhigh | - | [bbugyi200.athena.12r--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.12r.md) | 0 |
 | [12u.md](12u.md) | %queue(weight=1) #fork:12u--code %model:gpt-6-luna@xhigh | - | [bbugyi200.athena.12u--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.12u.md) | 0 |
 | [134.md](134.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202610/sudo_large_ledger_settlement.md][1] | - | [bbugyi200.athena.134--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.134.md) | 1 |
+| [13b.md](13b.md) | %queue(weight=1) #fork:13b--code %model:gpt-6-luna@xhigh | - | [bbugyi200.athena.13b--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.13b.md) | 0 |
 | [13d.md](13d.md) | gh:gh_sase-org__sase Which sase agent(s) stalled the sase-1n6 epic? Make sure your | - | [bbugyi200.athena.13d](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.13d/README.md) | 0 |
 | [13f.md](13f.md) | gh:gh_sase-org__sase I still don't understand how GitHub merge queues will work unless | - | [bbugyi200.athena.13f](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.13f/README.md) | 0 |
 | [1j.md](1j.md) | gh:gh_sase-org__sase Is the `bob-cli-6l.2.1.6` sase agent running on my apollo machine | - | [bbugyi200.kellys_mbp.1j](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.1j/README.md) | 0 |
