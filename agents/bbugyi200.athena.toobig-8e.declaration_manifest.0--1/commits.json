@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1792802895,"sha":"a2a38005dfa9d227a2c7bfc3e90cae4edaccbd20","subject":"refactor(finalizers): split declaration_manifest into commit and io modules"}],"schema_version":2,"source_run_id":"run-167061f4101cf080411b2a6c9441a987"}
