@@ -25,5 +25,5 @@
 |---|---|---|
 | [a4.w0.w0](../bbugyi200.apollo.a4.w0.w0/README.md) | ancestor | completed |
 | [a4.w0](../bbugyi200.apollo.a4.w0/README.md) | ancestor | completed |
-| [a4](../bbugyi200.apollo.a4/README.md) | ancestor | active |
+| [a4](../bbugyi200.apollo.a4/README.md) | ancestor | completed |
 | [a4.w0.w0.f1](../bbugyi200.apollo.a4.w0.w0.f1/README.md) | a4.w0.w0 hood | completed |

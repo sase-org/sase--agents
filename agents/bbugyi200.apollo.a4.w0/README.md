@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [a4](../bbugyi200.apollo.a4/README.md) | ancestor | active |
+| [a4](../bbugyi200.apollo.a4/README.md) | ancestor | completed |
 | [a4.w0.w0](../bbugyi200.apollo.a4.w0.w0/README.md) | descendant | completed |
 | [a4.w0.w0.f0](../bbugyi200.apollo.a4.w0.w0.f0/README.md) | descendant | completed |
 | [a4.w0.w0.f1](../bbugyi200.apollo.a4.w0.w0.f1/README.md) | descendant | completed |
