@@ -86,6 +86,7 @@
 | [13o.md](13o.md) | %queue(weight=1) #fork:13o--3 %model:gpt-6-astra %effort:xhigh | - | [bbugyi200.athena.13o--4](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.13o.md) | 0 |
 | [13s.md](13s.md) | gh:gh_sase-org__sase I would like to start instructing agents to start using `weight=0` | - | [bbugyi200.athena.13s](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.13s/README.md) | 0 |
 | [13u.md](13u.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202610/zero_weight_wait_monitors.md][1] | - | [bbugyi200.athena.13u--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.13u.md) | 1 |
+| [13y.md](13y.md) | gh:gh_sase-org__sase The `J` keymap on the "Agents" tab, which should always cycle to | - | [bbugyi200.athena.13y](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.13y/README.md) | 0 |
 | [1j.md](1j.md) | gh:gh_sase-org__sase Is the `bob-cli-6l.2.1.6` sase agent running on my apollo machine | - | [bbugyi200.kellys_mbp.1j](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.1j/README.md) | 0 |
 | [3r.md](3r.md) | %queue(weight=1) %auto #fork:3r--4 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3r--5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3r.md) | 0 |
 | [3v.md](3v.md) | %queue(weight=1) %auto #fork:3v--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3v--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3v.md) | 0 |
