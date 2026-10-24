@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `toobig-8e` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["toobig-8e.declaration_manifest.0--1 [active]"]
+  n0["toobig-8e.declaration_manifest.0--1 [completed]"]
   n1["toobig-8e.declaration_manifest.0--mon [failed]"]
   n0 --> n1
   n2["toobig-8e.declaration_manifest.0--plan [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | toobig-8e.declaration\_manifest.0--1 | active | muse-spark-1.3-contributor / muse | 2026-10-24T00:44:28.025123+00:00 | [1](../agents/bbugyi200.athena.toobig-8e.declaration_manifest.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-8e.declaration_manifest.0--1/prompt.md) | — |
+| <a id="member-1"></a>1 | toobig-8e.declaration\_manifest.0--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-24T00:44:28.025123+00:00 → 2026-10-24T00:50:09.096845+00:00 | [1](../agents/bbugyi200.athena.toobig-8e.declaration_manifest.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-8e.declaration_manifest.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-8e.declaration_manifest.0--1/chat.md) |
 | <a id="member-mon"></a>mon | toobig-8e.declaration\_manifest.0--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-24T00:10:31.182820+00:00 → 2026-10-24T00:43:25.640761+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-8e.declaration_manifest.0--mon/chat.md) |
 | <a id="member-plan"></a>plan | toobig-8e.declaration\_manifest.0--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-23T23:44:44.989015+00:00 → 2026-10-24T00:15:55.973049+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-8e.declaration_manifest.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-8e.declaration_manifest.0--plan/chat.md) |
 
@@ -33,4 +33,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8e.test\_checks\_beads.0](../agents/bbugyi200.athena.toobig-8e.test_checks_beads.0/README.md) | toobig-8e hood | waiting |
+| [toobig-8e.test\_checks\_beads.0](../agents/bbugyi200.athena.toobig-8e.test_checks_beads.0/README.md) | toobig-8e hood | active |
