@@ -45,7 +45,7 @@ flowchart TD
   n0 --> n17
   n18["sase-1nv.5--mon-1 [failed]"]
   n0 --> n18
-  n19["sase-1nv.5--j [active]"]
+  n19["sase-1nv.5--j [completed]"]
   n0 --> n19
   n20["sase-1nv.5--7 [completed]"]
   n0 --> n20
@@ -110,7 +110,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-g"></a>g | sase-1nv.5--g | completed | gpt-6-luna / codex | 2026-10-24T21:12:04.990679+00:00 → 2026-10-24T21:26:20.263740+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nv.5--g/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nv.5--g/chat.md) |
 | <a id="member-mon-d"></a>mon-d | sase-1nv.5--mon-d | failed | gpt-6-luna / codex | 2026-10-24T20:50:22.357074+00:00 → 2026-10-24T21:12:53.154497+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nv.5--mon-d/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-1nv.5--mon-1 | failed | gpt-6-luna / codex | 2026-10-24T17:12:38.439573+00:00 → 2026-10-24T17:24:48.201272+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nv.5--mon-1/chat.md) |
-| <a id="member-j"></a>j | sase-1nv.5--j | active | gpt-6-luna / codex | 2026-10-24T21:56:39.263863+00:00 | [1](../agents/bbugyi200.athena.sase-1nv.5--j/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1nv.5--j/prompt.md) | — |
+| <a id="member-j"></a>j | sase-1nv.5--j | completed | gpt-6-luna / codex | 2026-10-24T21:56:39.263863+00:00 → 2026-10-24T22:25:49.479233+00:00 | [1](../agents/bbugyi200.athena.sase-1nv.5--j/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1nv.5--j/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nv.5--j/chat.md) |
 | <a id="member-7"></a>7 | sase-1nv.5--7 | completed | gpt-6-luna / codex | 2026-10-24T18:21:12.569069+00:00 → 2026-10-24T18:33:57.538599+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nv.5--7/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nv.5--7/chat.md) |
 | <a id="member-mon-5"></a>mon-5 | sase-1nv.5--mon-5 | failed | gpt-6-luna / codex | 2026-10-24T18:32:02.560617+00:00 → 2026-10-24T18:35:51.518955+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nv.5--mon-5/chat.md) |
 | <a id="member-gate"></a>gate | sase-1nv.5--gate | failed | gpt-6-luna / codex | 2026-10-24T16:09:05.872141+00:00 → 2026-10-24T16:23:46.030030+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nv.5--gate/chat.md) |
