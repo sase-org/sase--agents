@@ -2,21 +2,21 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1no](../../users/bbugyi200/machines/athena/hoods/sase-1no/README.md) / [sase-1no.5](../../sessions/bbugyi200.athena.sase-1no.5.md) / sase-1no.5--1
 
-**Global name:** `bbugyi200.athena.sase-1no.5--1` · **State:** failed · **Source run:** `run-c26837ac5a0a60166288d60203fc6c9e`
+**Global name:** `bbugyi200.athena.sase-1no.5--1` · **State:** completed · **Source run:** `run-5430aa5802d44d7a11b74356e5c7cda0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1no
 
 ## Summary
 
 - Bead: [sase-1no.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1no/sase-1no.5.md)
-- Model: muse-spark-1.3-contributor
-- Provider: muse
-- Timing: 2026-10-23T22:11:36.372562+00:00 → 2026-10-23T23:36:08.205508+00:00
+- Model: gpt-6-astra
+- Provider: codex
+- Timing: 2026-10-24T10:06:26.273138+00:00 → 2026-10-24T10:16:07.357670+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 

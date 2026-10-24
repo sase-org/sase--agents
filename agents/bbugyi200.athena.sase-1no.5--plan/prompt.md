@@ -1,6 +1,6 @@
-#gh:gh_sase-org__sase
 %id(5, clan=sase-1no, bead=sase-1no.5)
-%model:@small
+#gh:gh_sase-org__sase
+%m:gpt-6-astra 
 %auto
 %w(sase-1no.2, for_epic=false)
 %w(bead=sase-1no.2)
