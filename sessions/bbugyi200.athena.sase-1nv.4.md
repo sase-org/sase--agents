@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-1nv.4--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-24T13:29:25.927635+00:00 → 2026-10-24T15:18:40.569109+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nv.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nv.4--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-1nv.4--1 | active | muse-spark-1.3-contributor / muse | 2026-10-24T15:42:50.620069+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nv.4--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1nv.4--1 | active | muse-spark-1.3-contributor / muse | 2026-10-24T15:42:50.620069+00:00 | [1](../agents/bbugyi200.athena.sase-1nv.4--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1nv.4--1/prompt.md) | — |
 | <a id="member-mon"></a>mon | sase-1nv.4--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-24T15:18:00.640120+00:00 → 2026-10-24T15:38:43.393477+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nv.4--mon/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`7b1b437`](https://github.com/sase-org/sase/commit/7b1b43755821fb4b6fe9ab8f51d09fcff0e46879) | feat(agents-sync): add report-first repair for stale publication revision rows (sase-1nv.4) | 2026-10-24 11:48:49 EDT |
 
 ## Neighbors
 
