@@ -28,4 +28,4 @@
 | [sase-1no.4](../../sessions/bbugyi200.athena.sase-1no.4.md) (session · 5) | sase-1no hood | completed 3, failed 2 |
 | [sase-1no.5](../../sessions/bbugyi200.athena.sase-1no.5.md) (session · 5) | sase-1no hood | completed 3, failed 2 |
 | [sase-1no.6](../../sessions/bbugyi200.athena.sase-1no.6.md) (session · 3) | sase-1no hood | completed 2, failed 1 |
-| [sase-1no.land](../../sessions/bbugyi200.athena.sase-1no.land.md) (session · 5) | sase-1no hood | active 1, completed 2, failed 2 |
+| [sase-1no.land](../../sessions/bbugyi200.athena.sase-1no.land.md) (session · 5) | sase-1no hood | completed 3, failed 2 |
