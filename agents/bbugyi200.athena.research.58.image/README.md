@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.58.image
 
-**Global name:** `bbugyi200.athena.research.58.image` · **State:** waiting · **Source run:** `run-477d56189ff434f6aedea14a076c7e99`
+**Global name:** `bbugyi200.athena.research.58.image` · **State:** active · **Source run:** `run-477d56189ff434f6aedea14a076c7e99`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,42 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261024174824
+- Timing: 2026-10-24T22:43:57.837862+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202610/question\_answers\_in\_agents\_main\_deck/question\_answers\_in\_agents\_main\_deck\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261024… |
+| `diagrams` | {considered: 16, count: 0, reason: Mermaid CLI 12.0.0 rendered both SVGs with the PDF-mirroring config (100.0% and 84.8% fit), but both PNG exports timed out at 90 seconds and failed their one permit… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202610/question_answers_in_agents_main_deck/question_answers_in_agents_main_deck_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261024174824/question_answers_in_agents_main_deck_infographic-7fb7edee2436.png
+  ref: file:explicit:76169b687e11188fb6989805
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202610/question_answers_in_agents_main_deck/question_answers_in_agents_main_deck_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 16
+count: 0
+reason: Mermaid CLI 12.0.0 rendered both SVGs with the PDF-mirroring config (100.0% and 84.8% fit), but both PNG exports timed out at 90 seconds and failed their one permitted retry with browser connection failures. Visual validation unavailable; no manifest written.
+source_ref: file:explicit:fc5f185d5495fd83d9db7b71
+status: failed
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,10 +53,11 @@
 |---|---|---|
 | [research.58.cdx](../bbugyi200.athena.research.58.cdx/README.md) | research.58 hood | completed |
 | [research.58.cld](../bbugyi200.athena.research.58.cld/README.md) | research.58 hood | completed |
-| [research.58.final](../bbugyi200.athena.research.58.final/README.md) | research.58 hood | active |
+| [research.58.final](../bbugyi200.athena.research.58.final/README.md) | research.58 hood | completed |
 | [research.58.gem](../bbugyi200.athena.research.58.gem/README.md) | research.58 hood | completed |
 | [research.58.grk](../bbugyi200.athena.research.58.grk/README.md) | research.58 hood | completed |
 | [research.58.linker](../bbugyi200.athena.research.58.linker/README.md) | research.58 hood | waiting |
+| [research.58.linker.w0](../bbugyi200.athena.research.58.linker.w0/README.md) | research.58 hood | waiting |
 | [research.58.mus](../bbugyi200.athena.research.58.mus/README.md) | research.58 hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
