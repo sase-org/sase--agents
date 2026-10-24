@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-914abc21e94f4f5197a7fce085cae32f"}
+{"commits":[{"committed_at":1792873523,"sha":"3d70e0a81b5538d3bc6dd16ca435b89bd7c3c28e","subject":"feat(tui): add freeze-report perf attribution tooling and lifecycle split"}],"schema_version":2,"source_run_id":"run-914abc21e94f4f5197a7fce085cae32f"}

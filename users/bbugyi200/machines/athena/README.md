@@ -686,7 +686,7 @@
 | [13o](hoods/13o/README.md) | 9 | 1 | completed 5, failed 4 |
 | [13p](hoods/13p/README.md) | 3 | 1 | completed 2, failed 1 |
 | [13s](hoods/13s/README.md) | 1 | 0 | active 1 |
-| [13t](hoods/13t/README.md) | 7 | 1 | active 1, completed 3, failed 3 |
+| [13t](hoods/13t/README.md) | 7 | 1 | completed 4, failed 3 |
 | [13u](hoods/13u/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [14](hoods/14/README.md) | 1 | 0 | completed 1 |
 | [15](hoods/15/README.md) | 2 | 0 | completed 2 |
