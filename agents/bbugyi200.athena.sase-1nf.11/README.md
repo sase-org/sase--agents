@@ -48,7 +48,7 @@
 | [sase-1nf.10.1.9.1.land](../../sessions/bbugyi200.athena.sase-1nf.10.1.9.1.land.md) (session · 3) | sase-1nf hood | active 3 |
 | [sase-1nf.10.1.land](../bbugyi200.athena.sase-1nf.10.1.land/README.md) | sase-1nf hood | waiting |
 | [sase-1nf.12](../bbugyi200.athena.sase-1nf.12/README.md) | sase-1nf hood | completed |
-| [sase-1nf.13](../../sessions/bbugyi200.athena.sase-1nf.13.md) (session · 13) | sase-1nf hood | active 1, completed 5, failed 7 |
+| [sase-1nf.13](../../sessions/bbugyi200.athena.sase-1nf.13.md) (session · 13) | sase-1nf hood | completed 6, failed 7 |
 | [sase-1nf.13--5--1](../bbugyi200.athena.sase-1nf.13--5--1/README.md) | sase-1nf hood | completed |
 | [sase-1nf.13--5--mon](../bbugyi200.athena.sase-1nf.13--5--mon/README.md) | sase-1nf hood | failed |
 | [sase-1nf.13--5--plan](../bbugyi200.athena.sase-1nf.13--5--plan/README.md) | sase-1nf hood | completed |

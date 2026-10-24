@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nf](../../users/bbugyi200/machines/athena/hoods/sase-1nf/README.md) / [sase-1nf.13](../../sessions/bbugyi200.athena.sase-1nf.13.md) / sase-1nf.13--6
 
-**Global name:** `bbugyi200.athena.sase-1nf.13--6` · **State:** active · **Source run:** `run-24ca0eae3d72b8b5ef32a9a4e9998959`
+**Global name:** `bbugyi200.athena.sase-1nf.13--6` · **State:** completed · **Source run:** `run-24ca0eae3d72b8b5ef32a9a4e9998959`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nf
 
@@ -11,13 +11,13 @@
 - Bead: [sase-1nf.13](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.13.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-24T02:20:31.112438+00:00
+- Timing: 2026-10-24T02:20:31.112438+00:00 → 2026-10-24T02:38:40.869739+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
