@@ -40,8 +40,8 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.57.cld](../bbugyi200.athena.research.57.cld/README.md) | research.57 hood | active |
-| [research.57.final](../bbugyi200.athena.research.57.final/README.md) | research.57 hood | waiting |
+| [research.57.cld](../bbugyi200.athena.research.57.cld/README.md) | research.57 hood | completed |
+| [research.57.final](../bbugyi200.athena.research.57.final/README.md) | research.57 hood | active |
 | [research.57.gem](../bbugyi200.athena.research.57.gem/README.md) | research.57 hood | completed |
 | [research.57.grk](../bbugyi200.athena.research.57.grk/README.md) | research.57 hood | completed |
 | [research.57.image](../bbugyi200.athena.research.57.image/README.md) | research.57 hood | waiting |
