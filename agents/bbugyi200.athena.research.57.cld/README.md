@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-24T19:31:05.129417+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_blog\_post\_inspiration\_reading\_list\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261024152851/sase\_blog\_post\_inspiration\_reading\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_blog_post_inspiration_reading_list__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261024152851/sase_blog_post_inspiration_reading_list__cld-397e52e980e4.md
+  ref: file:explicit:ddeec52ecb96d0e172ba5fbb
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_16/sase/repos/research/202610/sase_blog_post_inspiration_reading_list__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.57.cdx](../bbugyi200.athena.research.57.cdx/README.md) | research.57 hood | completed |
 | [research.57.final](../bbugyi200.athena.research.57.final/README.md) | research.57 hood | waiting |
 | [research.57.gem](../bbugyi200.athena.research.57.gem/README.md) | research.57 hood | completed |
-| [research.57.grk](../bbugyi200.athena.research.57.grk/README.md) | research.57 hood | active |
+| [research.57.grk](../bbugyi200.athena.research.57.grk/README.md) | research.57 hood | completed |
 | [research.57.image](../bbugyi200.athena.research.57.image/README.md) | research.57 hood | waiting |
 | [research.57.linker](../bbugyi200.athena.research.57.linker/README.md) | research.57 hood | waiting |
 | [research.57.mus](../bbugyi200.athena.research.57.mus/README.md) | research.57 hood | completed |
