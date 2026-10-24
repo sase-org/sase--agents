@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-24T19:54:53.130241+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_launch\_post\_reading\_list/sase\_launch\_post\_reading\_list\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261024152855/sase\_launch\_p… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_launch_post_reading_list/sase_launch_post_reading_list__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261024152855/sase_launch_post_reading_list__final-c5b8c7f7146a.md
+  ref: file:explicit:8d6ebf6d29d02f03ee720069
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202610/sase_launch_post_reading_list/sase_launch_post_reading_list__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
