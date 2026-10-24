@@ -2,17 +2,19 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1nn](../users/bbugyi200/machines/athena/hoods/sase-1nn/README.md) / sase-1nn.8.4.land
 
-Owner: `bbugyi200.athena` · Hood: `sase-1nn` · Members: 3 · Bead: [sase-1nn.8.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nn/sase-1nn.8.4.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1nn` · Members: 4 · Bead: [sase-1nn.8.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nn/sase-1nn.8.4.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
   n0["sase-1nn.8.4.land--gate [failed]"]
-  n1["sase-1nn.8.4.land--plan [active]"]
+  n1["sase-1nn.8.4.land--mon [active]"]
   n0 --> n1
-  n2["sase-1nn.8.4.land--code [active]"]
+  n2["sase-1nn.8.4.land--plan [completed]"]
   n0 --> n2
+  n3["sase-1nn.8.4.land--code [completed]"]
+  n0 --> n3
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -20,8 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1nn.8.4.land--gate | failed | gpt-6-astra / codex | 2026-10-24T13:00:05.505318+00:00 → 2026-10-24T13:01:17.917037+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nn.8.4.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | sase-1nn.8.4.land--plan | active | gpt-6-astra / codex | 2026-10-24T12:37:52.279582+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nn.8.4.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nn.8.4.land--plan/chat.md) |
-| <a id="member-code"></a>code | sase-1nn.8.4.land--code | active | gpt-6-luna / codex | 2026-10-24T13:02:04.488948+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1nn.8.4.land--mon | active | gpt-6-luna / codex | 2026-10-24T13:06:36.994739+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-1nn.8.4.land--plan | completed | gpt-6-astra / codex | 2026-10-24T12:37:52.279582+00:00 → 2026-10-24T13:07:11.841032+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nn.8.4.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nn.8.4.land--plan/chat.md) |
+| <a id="member-code"></a>code | sase-1nn.8.4.land--code | completed | gpt-6-luna / codex | 2026-10-24T13:02:04.488948+00:00 → 2026-10-24T13:07:11.841032+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nn.8.4.land--code/chat.md) |
 
 ## Variables
 

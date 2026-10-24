@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1no` · Members: 3 · Bead: [sase-1no.6
 ```mermaid
 flowchart TD
   n0["sase-1no.6--mon [failed]"]
-  n1["sase-1no.6--1 [active]"]
+  n1["sase-1no.6--1 [completed]"]
   n0 --> n1
   n2["sase-1no.6--plan [completed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-1no.6--mon | failed | grok-4.6 / grok | 2026-10-24T11:25:24.916130+00:00 → 2026-10-24T11:28:31.990771+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1no.6--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-1no.6--1 | active | grok-4.6 / grok | 2026-10-24T11:29:45.937437+00:00 | [1](../agents/bbugyi200.athena.sase-1no.6--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1no.6--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1no.6--1 | completed | grok-4.6 / grok | 2026-10-24T11:29:45.937437+00:00 → 2026-10-24T13:06:27.156544+00:00 | [1](../agents/bbugyi200.athena.sase-1no.6--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1no.6--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1no.6--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1no.6--plan | completed | grok-4.6 / grok | 2026-10-24T10:57:49.947474+00:00 → 2026-10-24T11:26:34.878616+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1no.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1no.6--plan/chat.md) |
 
 ## Commits
@@ -38,4 +38,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1no.3](../agents/bbugyi200.athena.sase-1no.3/README.md) | sase-1no hood | completed |
 | [sase-1no.4](bbugyi200.athena.sase-1no.4.md) (session · 5) | sase-1no hood | completed 3, failed 2 |
 | [sase-1no.5](bbugyi200.athena.sase-1no.5.md) (session · 5) | sase-1no hood | completed 3, failed 2 |
-| [sase-1no.land](../agents/bbugyi200.athena.sase-1no.land/README.md) | sase-1no hood | waiting |
+| [sase-1no.land](../agents/bbugyi200.athena.sase-1no.land/README.md) | sase-1no hood | active |
