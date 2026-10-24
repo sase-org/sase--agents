@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nf](../../users/bbugyi200/machines/athena/hoods/sase-1nf/README.md) / sase-1nf.14.1.3
 
-**Global name:** `bbugyi200.athena.sase-1nf.14.1.3` · **State:** active · **Source run:** `run-f3b3f75c121f04ffdc073b185a4fe1ba`
+**Global name:** `bbugyi200.athena.sase-1nf.14.1.3` · **State:** failed · **Source run:** `run-f3b3f75c121f04ffdc073b185a4fe1ba`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nf
 
@@ -12,7 +12,7 @@
 - Epic: [sase-1nf.14.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.14.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-24T17:40:17.152151+00:00
+- Timing: 2026-10-24T17:40:17.152151+00:00 → 2026-10-24T18:20:47.331090+00:00
 - Commits: 0
 
 ## Files
@@ -27,7 +27,7 @@
 | [sase-1nf.14.1.1](../bbugyi200.athena.sase-1nf.14.1.1/README.md) | sase-1nf.14.1 hood | active |
 | [sase-1nf.14.1.2](../bbugyi200.athena.sase-1nf.14.1.2/README.md) | sase-1nf.14.1 hood | waiting |
 | [sase-1nf.14.1.4](../bbugyi200.athena.sase-1nf.14.1.4/README.md) | sase-1nf.14.1 hood | active |
-| [sase-1nf.14.1.5](../bbugyi200.athena.sase-1nf.14.1.5/README.md) | sase-1nf.14.1 hood | active |
+| [sase-1nf.14.1.5](../../sessions/bbugyi200.athena.sase-1nf.14.1.5.md) (session · 3) | sase-1nf.14.1 hood | active 1, completed 1, failed 1 |
 | [sase-1nf.14.1.6](../bbugyi200.athena.sase-1nf.14.1.6/README.md) | sase-1nf.14.1 hood | waiting |
 | [sase-1nf.14.1.7](../bbugyi200.athena.sase-1nf.14.1.7/README.md) | sase-1nf.14.1 hood | waiting |
 | [sase-1nf.14.1.8](../bbugyi200.athena.sase-1nf.14.1.8/README.md) | sase-1nf.14.1 hood | waiting |
