@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nf](../../users/bbugyi200/machines/athena/hoods/sase-1nf/README.md) / [sase-1nf.13](../../sessions/bbugyi200.athena.sase-1nf.13.md) / sase-1nf.13--plan
 
-**Global name:** `bbugyi200.athena.sase-1nf.13--plan` · **State:** active · **Source run:** `run-827d57977cbeaf666aa6ee068f13d417`
+**Global name:** `bbugyi200.athena.sase-1nf.13--plan` · **State:** completed · **Source run:** `run-827d57977cbeaf666aa6ee068f13d417`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nf
 
@@ -11,7 +11,7 @@
 - Bead: [sase-1nf.13](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.13.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-23T13:40:19.661670+00:00
+- Timing: 2026-10-23T13:40:19.661670+00:00 → 2026-10-23T14:07:44.189655+00:00
 - Commits: 0
 
 ## Files
@@ -48,6 +48,9 @@
 | [sase-1nf.10.1.land](../bbugyi200.athena.sase-1nf.10.1.land/README.md) | sase-1nf hood | waiting |
 | [sase-1nf.11](../bbugyi200.athena.sase-1nf.11/README.md) | sase-1nf hood | waiting |
 | [sase-1nf.12](../bbugyi200.athena.sase-1nf.12/README.md) | sase-1nf hood | completed |
+| [sase-1nf.13--5--1](../bbugyi200.athena.sase-1nf.13--5--1/README.md) | sase-1nf hood | completed |
+| [sase-1nf.13--5--mon](../bbugyi200.athena.sase-1nf.13--5--mon/README.md) | sase-1nf hood | failed |
+| [sase-1nf.13--5--plan](../bbugyi200.athena.sase-1nf.13--5--plan/README.md) | sase-1nf hood | completed |
 | [sase-1nf.14](../bbugyi200.athena.sase-1nf.14/README.md) | sase-1nf hood | waiting |
 | [sase-1nf.2](../bbugyi200.athena.sase-1nf.2/README.md) | sase-1nf hood | completed |
 | [sase-1nf.3](../bbugyi200.athena.sase-1nf.3/README.md) | sase-1nf hood | completed |

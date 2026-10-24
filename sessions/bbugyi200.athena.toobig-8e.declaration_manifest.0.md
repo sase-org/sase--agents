@@ -33,4 +33,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8e.test\_checks\_beads.0](../agents/bbugyi200.athena.toobig-8e.test_checks_beads.0/README.md) | toobig-8e hood | active |
+| [toobig-8e.test\_checks\_beads.0](../agents/bbugyi200.athena.toobig-8e.test_checks_beads.0/README.md) | toobig-8e hood | completed |

@@ -2,18 +2,21 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nf](../../users/bbugyi200/machines/athena/hoods/sase-1nf/README.md) / [sase-1nf.13](../../sessions/bbugyi200.athena.sase-1nf.13.md) / sase-1nf.13--gate-0
 
-**Global name:** `bbugyi200.athena.sase-1nf.13--gate-0` · **State:** active · **Source run:** `run-a0b495f0f6dad17db47f2a4260b7d751`
+**Global name:** `bbugyi200.athena.sase-1nf.13--gate-0` · **State:** failed · **Source run:** `run-cc5f4c03f53cd9942b9f01c75966f1e9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nf
 
 ## Summary
 
 - Bead: [sase-1nf.13](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.13.md)
-- Epic: [sase-1nf](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/README.md)
-- Model: muse-spark-1.3-contributor
-- Provider: muse
-- Timing: 2026-10-20T19:41:16.424769+00:00
+- Model: gpt-6-astra
+- Provider: codex
+- Timing: 2026-10-23T22:07:55.452880+00:00 → 2026-10-23T22:08:56.669985+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -45,6 +48,9 @@
 | [sase-1nf.10.1.land](../bbugyi200.athena.sase-1nf.10.1.land/README.md) | sase-1nf hood | waiting |
 | [sase-1nf.11](../bbugyi200.athena.sase-1nf.11/README.md) | sase-1nf hood | waiting |
 | [sase-1nf.12](../bbugyi200.athena.sase-1nf.12/README.md) | sase-1nf hood | completed |
+| [sase-1nf.13--5--1](../bbugyi200.athena.sase-1nf.13--5--1/README.md) | sase-1nf hood | completed |
+| [sase-1nf.13--5--mon](../bbugyi200.athena.sase-1nf.13--5--mon/README.md) | sase-1nf hood | failed |
+| [sase-1nf.13--5--plan](../bbugyi200.athena.sase-1nf.13--5--plan/README.md) | sase-1nf hood | completed |
 | [sase-1nf.14](../bbugyi200.athena.sase-1nf.14/README.md) | sase-1nf hood | waiting |
 | [sase-1nf.2](../bbugyi200.athena.sase-1nf.2/README.md) | sase-1nf hood | completed |
 | [sase-1nf.3](../bbugyi200.athena.sase-1nf.3/README.md) | sase-1nf hood | completed |
