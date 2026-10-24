@@ -1,0 +1,29 @@
+# Agent: sase-1nv.3--1
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nv](../../users/bbugyi200/machines/athena/hoods/sase-1nv/README.md) / [sase-1nv.3](../../sessions/bbugyi200.athena.sase-1nv.3.md) / sase-1nv.3--1
+
+**Global name:** `bbugyi200.athena.sase-1nv.3--1` · **State:** active · **Source run:** `run-c8c74170d8081b9e1f91c1fab3eff26e`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nv
+
+## Summary
+
+- Bead: [sase-1nv.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nv/sase-1nv.3.md)
+- Model: grok-4.6
+- Provider: grok
+- Timing: 2026-10-24T12:49:24.689964+00:00
+- Commits: 0
+
+## Files
+
+[Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-1nv.1](../bbugyi200.athena.sase-1nv.1/README.md) | sase-1nv hood | completed |
+| [sase-1nv.2](../bbugyi200.athena.sase-1nv.2/README.md) | sase-1nv hood | completed |
+| [sase-1nv.4](../bbugyi200.athena.sase-1nv.4/README.md) | sase-1nv hood | waiting |
+| [sase-1nv.5](../bbugyi200.athena.sase-1nv.5/README.md) | sase-1nv hood | waiting |
+| [sase-1nv.land](../bbugyi200.athena.sase-1nv.land/README.md) | sase-1nv hood | waiting |

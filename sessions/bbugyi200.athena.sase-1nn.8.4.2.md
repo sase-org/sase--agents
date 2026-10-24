@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1nn` · Members: 2 · Bead: [sase-1nn.8
 
 ```mermaid
 flowchart TD
-  n0["sase-1nn.8.4.2--mon [active]"]
+  n0["sase-1nn.8.4.2--mon [failed]"]
   n1["sase-1nn.8.4.2--plan [completed]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | sase-1nn.8.4.2--mon | active | muse-spark-1.3-contributor / muse | 2026-10-24T07:38:40.884357+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1nn.8.4.2--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-24T07:38:40.884357+00:00 → 2026-10-24T12:22:09.807721+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nn.8.4.2--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1nn.8.4.2--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-24T07:36:05.410926+00:00 → 2026-10-24T07:39:13.510473+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nn.8.4.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nn.8.4.2--plan/chat.md) |
 
 ## Neighbors
@@ -25,7 +25,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1nn.8.4.1](bbugyi200.athena.sase-1nn.8.4.1.md) (session · 3) | sase-1nn.8.4 hood | completed 2, failed 1 |
-| [sase-1nn.8.4.land](../agents/bbugyi200.athena.sase-1nn.8.4.land/README.md) | sase-1nn.8.4 hood | waiting |
+| [sase-1nn.8.4.land](bbugyi200.athena.sase-1nn.8.4.land.md) (session · 3) | sase-1nn.8.4 hood | active 2, failed 1 |
 | [sase-1nn.8.1](../agents/bbugyi200.athena.sase-1nn.8.1/README.md) | sase-1nn.8 hood | active |
 | [sase-1nn.8.2](bbugyi200.athena.sase-1nn.8.2.md) (session · 5) | sase-1nn.8 hood | active 5 |
 | [sase-1nn.8.3](bbugyi200.athena.sase-1nn.8.3.md) (session · 2) | sase-1nn.8 hood | active 2 |

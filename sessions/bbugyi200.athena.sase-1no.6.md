@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-1no.6--mon | failed | grok-4.6 / grok | 2026-10-24T11:25:24.916130+00:00 → 2026-10-24T11:28:31.990771+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1no.6--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-1no.6--1 | active | grok-4.6 / grok | 2026-10-24T11:29:45.937437+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1no.6--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1no.6--1 | active | grok-4.6 / grok | 2026-10-24T11:29:45.937437+00:00 | [1](../agents/bbugyi200.athena.sase-1no.6--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1no.6--1/prompt.md) | — |
 | <a id="member-plan"></a>plan | sase-1no.6--plan | completed | grok-4.6 / grok | 2026-10-24T10:57:49.947474+00:00 → 2026-10-24T11:26:34.878616+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1no.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1no.6--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`0a1a8ab`](https://github.com/sase-org/sase/commit/0a1a8aba2fa75e3ab72df3d3ec703086d515ecd9) | feat(ace): add stranded Enter resolve modal and PNG goldens (sase-1no.6) | 2026-10-24 09:02:38 EDT |
 
 ## Neighbors
 
