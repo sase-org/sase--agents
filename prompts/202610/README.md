@@ -83,6 +83,7 @@
 | [13f.md](13f.md) | gh:gh_sase-org__sase I still don't understand how GitHub merge queues will work unless | - | [bbugyi200.athena.13f](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.13f/README.md) | 0 |
 | [13j.md](13j.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202610/stats_plans_blob_budget.md][1] | - | [bbugyi200.athena.13j--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.13j.md) | 1 |
 | [13k.md](13k.md) | %queue(weight=1) #fork:13k--1 %model:gpt-6-luna@xhigh | - | [bbugyi200.athena.13k--2](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.13k.md) | 0 |
+| [13o.md](13o.md) | %queue(weight=1) #fork:13o--3 %model:gpt-6-astra %effort:xhigh | - | [bbugyi200.athena.13o--4](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.13o.md) | 0 |
 | [1j.md](1j.md) | gh:gh_sase-org__sase Is the `bob-cli-6l.2.1.6` sase agent running on my apollo machine | - | [bbugyi200.kellys_mbp.1j](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.1j/README.md) | 0 |
 | [3r.md](3r.md) | %queue(weight=1) %auto #fork:3r--4 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3r--5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3r.md) | 0 |
 | [3v.md](3v.md) | %queue(weight=1) %auto #fork:3v--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3v--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3v.md) | 0 |
