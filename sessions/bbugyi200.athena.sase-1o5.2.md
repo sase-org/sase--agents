@@ -24,10 +24,16 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-1o5.2--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-25T00:24:28.575125+00:00 → 2026-10-25T00:27:03.906178+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1o5.2--mon/chat.md) |
-| <a id="member-2"></a>2 | sase-1o5.2--2 | active | muse-spark-1.3-contributor / muse | 2026-10-25T01:00:39.284067+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1o5.2--2/prompt.md) | — |
+| <a id="member-2"></a>2 | sase-1o5.2--2 | active | muse-spark-1.3-contributor / muse | 2026-10-25T01:00:39.284067+00:00 | [1](../agents/bbugyi200.athena.sase-1o5.2--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1o5.2--2/prompt.md) | — |
 | <a id="member-plan"></a>plan | sase-1o5.2--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-24T23:32:12.322314+00:00 → 2026-10-25T00:25:21.905835+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1o5.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1o5.2--plan/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-1o5.2--mon-0 | failed | muse-spark-1.3-contributor / muse | 2026-10-25T00:48:16.257502+00:00 → 2026-10-25T00:59:26.551594+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1o5.2--mon-0/chat.md) |
 | <a id="member-1"></a>1 | sase-1o5.2--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-25T00:28:14.587227+00:00 → 2026-10-25T00:49:51.546850+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1o5.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1o5.2--1/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 2 | sase | [`5497b59`](https://github.com/sase-org/sase/commit/5497b59c5ddac82c20cf92bd0f63394a1f5e2d82) | feat(questions): add question-round facade, projection loader, and core binding validation | 2026-10-24 21:06:42 EDT |
 
 ## Neighbors
 

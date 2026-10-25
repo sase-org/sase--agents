@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-86a26c16debbbbfe07ffe74fed15e200"}
+{"commits":[{"committed_at":1792890402,"sha":"5497b59c5ddac82c20cf92bd0f63394a1f5e2d82","subject":"feat(questions): add question-round facade, projection loader, and core binding validation"}],"schema_version":2,"source_run_id":"run-86a26c16debbbbfe07ffe74fed15e200"}
