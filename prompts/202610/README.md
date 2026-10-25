@@ -88,6 +88,7 @@
 | [13u.md](13u.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202610/zero_weight_wait_monitors.md][1] | - | [bbugyi200.athena.13u--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.13u.md) | 1 |
 | [13y.md](13y.md) | gh:gh_sase-org__sase The `J` keymap on the "Agents" tab, which should always cycle to | - | [bbugyi200.athena.13y](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.13y/README.md) | 0 |
 | [141.md](141.md) | gh:gh_sase-org__sase Which sase agent(s) stalled the sase-1n6 epic? Make sure your | - | [bbugyi200.athena.141](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.athena.141/README.md) | 0 |
+| [147.f0.md](147.f0.md) | %model:@medium #gh:gh_sase-org__sase [@plan:202610/project_stats_swift_language.md][1] | - | [bbugyi200.athena.147.f0--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.147.f0.md) | 1 |
 | [147.md](147.md) | %queue(weight=1) #fork:147--code %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.147--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.147.md) | 0 |
 | [148.md](148.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.148--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.148.md) | 1 |
 | [14d.md](14d.md) | %queue(weight=1) #fork:14d--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.athena.14d--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.14d.md) | 0 |
