@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1n6` · Members: 5 · Bead: [sase-1n6.5
 
 ```mermaid
 flowchart TD
-  n0["sase-1n6.5.1.5.land--1 [active]"]
+  n0["sase-1n6.5.1.5.land--1 [completed]"]
   n1["sase-1n6.5.1.5.land--code [completed]"]
   n0 --> n1
   n2["sase-1n6.5.1.5.land--plan [completed]"]
@@ -23,7 +23,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-1n6.5.1.5.land--1 | active | muse-spark-1.3-contributor / muse | 2026-10-25T19:30:12.150809+00:00 | [1](../agents/bbugyi200.athena.sase-1n6.5.1.5.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1n6.5.1.5.land--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1n6.5.1.5.land--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-25T19:30:12.150809+00:00 → 2026-10-25T19:46:12.299953+00:00 | [1](../agents/bbugyi200.athena.sase-1n6.5.1.5.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1n6.5.1.5.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1n6.5.1.5.land--1/chat.md) |
 | <a id="member-code"></a>code | sase-1n6.5.1.5.land--code | completed | muse-spark-1.3-contributor / muse | 2026-10-25T19:05:31.574147+00:00 → 2026-10-25T19:18:32.744954+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1n6.5.1.5.land--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-1n6.5.1.5.land--plan | completed | gpt-6-astra / codex | 2026-10-25T18:48:44.539593+00:00 → 2026-10-25T19:18:32.744954+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1n6.5.1.5.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1n6.5.1.5.land--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-1n6.5.1.5.land--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-25T19:17:43.142875+00:00 → 2026-10-25T19:29:01.751031+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1n6.5.1.5.land--mon/chat.md) |
@@ -58,7 +58,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1n6.2](../agents/bbugyi200.athena.sase-1n6.2/README.md) | sase-1n6 hood | completed |
 | [sase-1n6.3](../agents/bbugyi200.athena.sase-1n6.3/README.md) | sase-1n6 hood | completed |
 | [sase-1n6.4](bbugyi200.athena.sase-1n6.4.md) (session · 3) | sase-1n6 hood | completed 2, failed 1 |
-| [sase-1n6.6](../agents/bbugyi200.athena.sase-1n6.6/README.md) | sase-1n6 hood | active |
+| [sase-1n6.6](bbugyi200.athena.sase-1n6.6.md) (session · 2) | sase-1n6 hood | active 1, completed 1 |
 | [sase-1n6.7](bbugyi200.athena.sase-1n6.7.md) (session · 3) | sase-1n6 hood | failed 3 |
 | [sase-1n6.7.1.1](../agents/bbugyi200.athena.sase-1n6.7.1.1/README.md) | sase-1n6 hood | active |
 | [sase-1n6.7.1.2](bbugyi200.athena.sase-1n6.7.1.2.md) (session · 5) | sase-1n6 hood | active 5 |
