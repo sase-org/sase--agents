@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1o5` · Members: 5 · Bead: [sase-1o5.2
 ```mermaid
 flowchart TD
   n0["sase-1o5.2--mon [failed]"]
-  n1["sase-1o5.2--2 [active]"]
+  n1["sase-1o5.2--2 [completed]"]
   n0 --> n1
   n2["sase-1o5.2--plan [completed]"]
   n0 --> n2
@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-1o5.2--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-25T00:24:28.575125+00:00 → 2026-10-25T00:27:03.906178+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1o5.2--mon/chat.md) |
-| <a id="member-2"></a>2 | sase-1o5.2--2 | active | muse-spark-1.3-contributor / muse | 2026-10-25T01:00:39.284067+00:00 | [1](../agents/bbugyi200.athena.sase-1o5.2--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1o5.2--2/prompt.md) | — |
+| <a id="member-2"></a>2 | sase-1o5.2--2 | completed | muse-spark-1.3-contributor / muse | 2026-10-25T01:00:39.284067+00:00 → 2026-10-25T01:09:12.458620+00:00 | [1](../agents/bbugyi200.athena.sase-1o5.2--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1o5.2--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1o5.2--2/chat.md) |
 | <a id="member-plan"></a>plan | sase-1o5.2--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-24T23:32:12.322314+00:00 → 2026-10-25T00:25:21.905835+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1o5.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1o5.2--plan/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-1o5.2--mon-0 | failed | muse-spark-1.3-contributor / muse | 2026-10-25T00:48:16.257502+00:00 → 2026-10-25T00:59:26.551594+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1o5.2--mon-0/chat.md) |
 | <a id="member-1"></a>1 | sase-1o5.2--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-25T00:28:14.587227+00:00 → 2026-10-25T00:49:51.546850+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1o5.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1o5.2--1/chat.md) |
@@ -40,8 +40,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1o5.1](../agents/bbugyi200.athena.sase-1o5.1/README.md) | sase-1o5 hood | completed |
-| [sase-1o5.3](../agents/bbugyi200.athena.sase-1o5.3/README.md) | sase-1o5 hood | waiting |
-| [sase-1o5.4](../agents/bbugyi200.athena.sase-1o5.4/README.md) | sase-1o5 hood | waiting |
+| [sase-1o5.3](../agents/bbugyi200.athena.sase-1o5.3/README.md) | sase-1o5 hood | active |
+| [sase-1o5.4](bbugyi200.athena.sase-1o5.4.md) (session · 3) | sase-1o5 hood | active 1, completed 1, failed 1 |
 | [sase-1o5.5](../agents/bbugyi200.athena.sase-1o5.5/README.md) | sase-1o5 hood | waiting |
 | [sase-1o5.6](../agents/bbugyi200.athena.sase-1o5.6/README.md) | sase-1o5 hood | waiting |
 | [sase-1o5.land](../agents/bbugyi200.athena.sase-1o5.land/README.md) | sase-1o5 hood | waiting |
