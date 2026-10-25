@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1nn` · Members: 2 · Bead: [sase-1nn.8
 
 ```mermaid
 flowchart TD
-  n0["sase-1nn.8.4.3.5.4.2--mon [active]"]
+  n0["sase-1nn.8.4.3.5.4.2--mon [failed]"]
   n1["sase-1nn.8.4.3.5.4.2--plan [completed]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | sase-1nn.8.4.3.5.4.2--mon | active | muse-spark-1.3-contributor / muse | 2026-10-25T08:30:18.824937+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1nn.8.4.3.5.4.2--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-25T08:30:18.824937+00:00 → 2026-10-25T16:21:35.969187+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nn.8.4.3.5.4.2--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1nn.8.4.3.5.4.2--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-25T08:03:30.309611+00:00 → 2026-10-25T08:30:53.739428+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nn.8.4.3.5.4.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nn.8.4.3.5.4.2--plan/chat.md) |
 
 ## Variables
@@ -58,7 +58,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1nn.8.4.3.5.4.1](../agents/bbugyi200.athena.sase-1nn.8.4.3.5.4.1/README.md) | sase-1nn.8.4.3.5.4 hood | completed |
-| [sase-1nn.8.4.3.5.4.land](../agents/bbugyi200.athena.sase-1nn.8.4.3.5.4.land/README.md) | sase-1nn.8.4.3.5.4 hood | waiting |
+| [sase-1nn.8.4.3.5.4.land](bbugyi200.athena.sase-1nn.8.4.3.5.4.land.md) (session · 3) | sase-1nn.8.4.3.5.4 hood | active 2, failed 1 |
 | [sase-1nn.8.4.3.5.1](bbugyi200.athena.sase-1nn.8.4.3.5.1.md) (session · 3) | sase-1nn.8.4.3.5 hood | active 3 |
 | [sase-1nn.8.4.3.5.2](../agents/bbugyi200.athena.sase-1nn.8.4.3.5.2/README.md) | sase-1nn.8.4.3.5 hood | active |
 | [sase-1nn.8.4.3.5.3](bbugyi200.athena.sase-1nn.8.4.3.5.3.md) (session · 2) | sase-1nn.8.4.3.5 hood | active 2 |

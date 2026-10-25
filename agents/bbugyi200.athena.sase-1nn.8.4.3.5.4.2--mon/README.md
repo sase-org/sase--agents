@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nn](../../users/bbugyi200/machines/athena/hoods/sase-1nn/README.md) / [sase-1nn.8.4.3.5.4.2](../../sessions/bbugyi200.athena.sase-1nn.8.4.3.5.4.2.md) / sase-1nn.8.4.3.5.4.2--mon
 
-**Global name:** `bbugyi200.athena.sase-1nn.8.4.3.5.4.2--mon` · **State:** active · **Source run:** `run-482a68f23c428e97919d1eaa2205eb33`
+**Global name:** `bbugyi200.athena.sase-1nn.8.4.3.5.4.2--mon` · **State:** failed · **Source run:** `run-482a68f23c428e97919d1eaa2205eb33`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nn
 
@@ -12,15 +12,19 @@
 - Epic: [sase-1nn.8.4.3.5.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nn/sase-1nn.8.4.3.5.4.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-25T08:30:18.824937+00:00
+- Timing: 2026-10-25T08:30:18.824937+00:00 → 2026-10-25T16:21:35.969187+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1nn.8.4.3.5.4.1](../bbugyi200.athena.sase-1nn.8.4.3.5.4.1/README.md) | sase-1nn.8.4.3.5.4 hood | completed |
-| [sase-1nn.8.4.3.5.4.land](../bbugyi200.athena.sase-1nn.8.4.3.5.4.land/README.md) | sase-1nn.8.4.3.5.4 hood | waiting |
+| [sase-1nn.8.4.3.5.4.land](../../sessions/bbugyi200.athena.sase-1nn.8.4.3.5.4.land.md) (session · 3) | sase-1nn.8.4.3.5.4 hood | active 2, failed 1 |
 | [sase-1nn.8.4.3.5.1](../../sessions/bbugyi200.athena.sase-1nn.8.4.3.5.1.md) (session · 3) | sase-1nn.8.4.3.5 hood | active 3 |
 | [sase-1nn.8.4.3.5.2](../bbugyi200.athena.sase-1nn.8.4.3.5.2/README.md) | sase-1nn.8.4.3.5 hood | active |
 | [sase-1nn.8.4.3.5.3](../../sessions/bbugyi200.athena.sase-1nn.8.4.3.5.3.md) (session · 2) | sase-1nn.8.4.3.5 hood | active 2 |
