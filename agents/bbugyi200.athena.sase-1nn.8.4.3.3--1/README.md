@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nn](../../users/bbugyi200/machines/athena/hoods/sase-1nn/README.md) / [sase-1nn.8.4.3.3](../../sessions/bbugyi200.athena.sase-1nn.8.4.3.3.md) / sase-1nn.8.4.3.3--1
 
-**Global name:** `bbugyi200.athena.sase-1nn.8.4.3.3--1` · **State:** active · **Source run:** `run-8817f862a5abfc3920a0ec9dbef7670a`
+**Global name:** `bbugyi200.athena.sase-1nn.8.4.3.3--1` · **State:** completed · **Source run:** `run-8817f862a5abfc3920a0ec9dbef7670a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nn
 
@@ -11,12 +11,12 @@
 - Bead: [sase-1nn.8.4.3.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nn/sase-1nn.8.4.3.3.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-24T21:10:57.613105+00:00
+- Timing: 2026-10-24T21:10:57.613105+00:00 → 2026-10-24T21:18:25.618370+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -30,8 +30,12 @@
 |---|---|---|
 | [sase-1nn.8.4.3.1](../../sessions/bbugyi200.athena.sase-1nn.8.4.3.1.md) (session · 3) | sase-1nn.8.4.3 hood | completed 2, failed 1 |
 | [sase-1nn.8.4.3.2](../bbugyi200.athena.sase-1nn.8.4.3.2/README.md) | sase-1nn.8.4.3 hood | completed |
-| [sase-1nn.8.4.3.4](../bbugyi200.athena.sase-1nn.8.4.3.4/README.md) | sase-1nn.8.4.3 hood | waiting |
-| [sase-1nn.8.4.3.land](../bbugyi200.athena.sase-1nn.8.4.3.land/README.md) | sase-1nn.8.4.3 hood | waiting |
+| [sase-1nn.8.4.3.4](../../sessions/bbugyi200.athena.sase-1nn.8.4.3.4.md) (session · 2) | sase-1nn.8.4.3 hood | completed 1, failed 1 |
+| [sase-1nn.8.4.3.5.1](../bbugyi200.athena.sase-1nn.8.4.3.5.1/README.md) | sase-1nn.8.4.3 hood | active |
+| [sase-1nn.8.4.3.5.2](../bbugyi200.athena.sase-1nn.8.4.3.5.2/README.md) | sase-1nn.8.4.3 hood | completed |
+| [sase-1nn.8.4.3.5.3](../bbugyi200.athena.sase-1nn.8.4.3.5.3/README.md) | sase-1nn.8.4.3 hood | waiting |
+| [sase-1nn.8.4.3.5.land](../bbugyi200.athena.sase-1nn.8.4.3.5.land/README.md) | sase-1nn.8.4.3 hood | waiting |
+| [sase-1nn.8.4.3.land](../../sessions/bbugyi200.athena.sase-1nn.8.4.3.land.md) (session · 3) | sase-1nn.8.4.3 hood | failed 3 |
 | [sase-1nn.8.4.1](../../sessions/bbugyi200.athena.sase-1nn.8.4.1.md) (session · 3) | sase-1nn.8.4 hood | completed 2, failed 1 |
 | [sase-1nn.8.4.2](../../sessions/bbugyi200.athena.sase-1nn.8.4.2.md) (session · 2) | sase-1nn.8.4 hood | completed 1, failed 1 |
 | [sase-1nn.8.4.land](../../sessions/bbugyi200.athena.sase-1nn.8.4.land.md) (session · 13) | sase-1nn.8.4 hood | completed 7, failed 6 |
