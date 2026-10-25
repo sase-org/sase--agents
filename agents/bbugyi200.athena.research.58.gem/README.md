@@ -45,8 +45,8 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.58.final](../bbugyi200.athena.research.58.final/README.md) | research.58 hood | completed |
 | [research.58.grk](../bbugyi200.athena.research.58.grk/README.md) | research.58 hood | completed |
 | [research.58.image](../bbugyi200.athena.research.58.image/README.md) | research.58 hood | completed |
-| [research.58.linker](../bbugyi200.athena.research.58.linker/README.md) | research.58 hood | active |
-| [research.58.linker.w0](../bbugyi200.athena.research.58.linker.w0/README.md) | research.58 hood | waiting |
+| [research.58.linker](../bbugyi200.athena.research.58.linker/README.md) | research.58 hood | completed |
+| [research.58.linker.w0](../../sessions/bbugyi200.athena.research.58.linker.w0.md) (session · 3) | research.58 hood | failed 3 |
 | [research.58.mus](../bbugyi200.athena.research.58.mus/README.md) | research.58 hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
