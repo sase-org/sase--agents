@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-10-25T17:09:59.231197+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_task\_management\_integration\_architecture\_and\_use\_cases\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261025130851/sase\_task\_manag… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_task_management_integration_architecture_and_use_cases__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261025130851/sase_task_management_integration_architecture_and_use_cases__gem-441451620cb2.md
+  ref: file:explicit:cdc2a004c4f24cef074ee23e
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_14/sase/repos/research/202610/sase_task_management_integration_architecture_and_use_cases__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.2h.grk](../bbugyi200.apollo.research.2h.grk/README.md) | research.2h hood | active |
 | [research.2h.image](../bbugyi200.apollo.research.2h.image/README.md) | research.2h hood | waiting |
 | [research.2h.linker](../bbugyi200.apollo.research.2h.linker/README.md) | research.2h hood | waiting |
-| [research.2h.mus](../bbugyi200.apollo.research.2h.mus/README.md) | research.2h hood | active |
+| [research.2h.mus](../bbugyi200.apollo.research.2h.mus/README.md) | research.2h hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
