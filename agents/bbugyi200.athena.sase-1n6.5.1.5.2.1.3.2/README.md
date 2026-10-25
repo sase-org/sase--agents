@@ -25,11 +25,11 @@
 |---|---|---|
 | [sase-1n6.5.1.5.2](../bbugyi200.athena.sase-1n6.5.1.5.2/README.md) | ancestor | completed |
 | [sase-1n6.5](../../sessions/bbugyi200.athena.sase-1n6.5.md) (session · 3) | ancestor | failed 3 |
-| [sase-1n6.5.1.5.2.1.3.1](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.3.1.md) (session · 2) | sase-1n6.5.1.5.2.1.3 hood | active 1, completed 1 |
+| [sase-1n6.5.1.5.2.1.3.1](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.3.1.md) (session · 3) | sase-1n6.5.1.5.2.1.3 hood | active 1, completed 1, failed 1 |
 | [sase-1n6.5.1.5.2.1.3.land](../bbugyi200.athena.sase-1n6.5.1.5.2.1.3.land/README.md) | sase-1n6.5.1.5.2.1.3 hood | waiting |
-| [sase-1n6.5.1.5.2.1.1](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.1.md) (session · 3) | sase-1n6.5.1.5.2.1 hood | completed 2, failed 1 |
-| [sase-1n6.5.1.5.2.1.2](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.2.md) (session · 7) | sase-1n6.5.1.5.2.1 hood | completed 4, failed 3 |
-| [sase-1n6.5.1.5.2.1.land](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.land.md) (session · 3) | sase-1n6.5.1.5.2.1 hood | failed 3 |
+| [sase-1n6.5.1.5.2.1.1](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.1.md) (session · 3) | sase-1n6.5.1.5.2.1 hood | active 3 |
+| [sase-1n6.5.1.5.2.1.2](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.2.md) (session · 7) | sase-1n6.5.1.5.2.1 hood | active 3, completed 2, failed 2 |
+| [sase-1n6.5.1.5.2.1.land](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.land.md) (session · 3) | sase-1n6.5.1.5.2.1 hood | active 3 |
 | [sase-1n6.5.1.5.1](../bbugyi200.athena.sase-1n6.5.1.5.1/README.md) | sase-1n6.5.1.5 hood | completed |
 | [sase-1n6.5.1.5.land](../bbugyi200.athena.sase-1n6.5.1.5.land/README.md) | sase-1n6.5.1.5 hood | waiting |
 | [sase-1n6.5.1.1](../bbugyi200.athena.sase-1n6.5.1.1/README.md) | sase-1n6.5.1 hood | active |
