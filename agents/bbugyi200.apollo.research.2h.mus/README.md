@@ -42,10 +42,10 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 |---|---|---|
 | [research.2h.cdx](../bbugyi200.apollo.research.2h.cdx/README.md) | research.2h hood | completed |
 | [research.2h.cld](../bbugyi200.apollo.research.2h.cld/README.md) | research.2h hood | completed |
-| [research.2h.final](../bbugyi200.apollo.research.2h.final/README.md) | research.2h hood | active |
+| [research.2h.final](../bbugyi200.apollo.research.2h.final/README.md) | research.2h hood | completed |
 | [research.2h.gem](../bbugyi200.apollo.research.2h.gem/README.md) | research.2h hood | completed |
 | [research.2h.grk](../bbugyi200.apollo.research.2h.grk/README.md) | research.2h hood | completed |
-| [research.2h.image](../bbugyi200.apollo.research.2h.image/README.md) | research.2h hood | waiting |
+| [research.2h.image](../bbugyi200.apollo.research.2h.image/README.md) | research.2h hood | active |
 | [research.2h.linker](../bbugyi200.apollo.research.2h.linker/README.md) | research.2h hood | waiting |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
