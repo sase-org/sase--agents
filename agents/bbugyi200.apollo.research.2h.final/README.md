@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.2h.final
 
-**Global name:** `bbugyi200.apollo.research.2h.final` · **State:** waiting · **Source run:** `run-6d35ff4e8f827e628d53012e6f5f59b9`
+**Global name:** `bbugyi200.apollo.research.2h.final` · **State:** active · **Source run:** `run-6d35ff4e8f827e628d53012e6f5f59b9`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,19 +10,38 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261025130852
+- Timing: 2026-10-25T17:45:18.406240+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_task\_system\_delegation\_layer/sase\_task\_system\_delegation\_layer\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261025130852/sase\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_task_system_delegation_layer/sase_task_system_delegation_layer__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261025130852/sase_task_system_delegation_layer__final-615268a49604.md
+  ref: file:explicit:41beb549033458f6181f781a
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/sase_task_system_delegation_layer/sase_task_system_delegation_layer__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.2h.cdx](../bbugyi200.apollo.research.2h.cdx/README.md) | research.2h hood | completed |
-| [research.2h.cld](../bbugyi200.apollo.research.2h.cld/README.md) | research.2h hood | active |
+| [research.2h.cld](../bbugyi200.apollo.research.2h.cld/README.md) | research.2h hood | completed |
 | [research.2h.gem](../bbugyi200.apollo.research.2h.gem/README.md) | research.2h hood | completed |
 | [research.2h.grk](../bbugyi200.apollo.research.2h.grk/README.md) | research.2h hood | completed |
 | [research.2h.image](../bbugyi200.apollo.research.2h.image/README.md) | research.2h hood | waiting |
