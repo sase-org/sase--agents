@@ -67,7 +67,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [sase-1n6.2](../bbugyi200.athena.sase-1n6.2/README.md) | sase-1n6 hood | completed |
 | [sase-1n6.3](../bbugyi200.athena.sase-1n6.3/README.md) | sase-1n6 hood | completed |
 | [sase-1n6.4](../../sessions/bbugyi200.athena.sase-1n6.4.md) (session · 3) | sase-1n6 hood | completed 2, failed 1 |
-| [sase-1n6.6](../../sessions/bbugyi200.athena.sase-1n6.6.md) (session · 3) | sase-1n6 hood | active 1, completed 1, failed 1 |
+| [sase-1n6.6](../../sessions/bbugyi200.athena.sase-1n6.6.md) (session · 3) | sase-1n6 hood | completed 2, failed 1 |
 | [sase-1n6.7](../../sessions/bbugyi200.athena.sase-1n6.7.md) (session · 3) | sase-1n6 hood | failed 3 |
 | [sase-1n6.7.1.1](../bbugyi200.athena.sase-1n6.7.1.1/README.md) | sase-1n6 hood | active |
 | [sase-1n6.7.1.2](../../sessions/bbugyi200.athena.sase-1n6.7.1.2.md) (session · 5) | sase-1n6 hood | active 5 |
@@ -76,5 +76,5 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [sase-1n6.7.1.5](../../sessions/bbugyi200.athena.sase-1n6.7.1.5.md) (session · 3) | sase-1n6 hood | active 3 |
 | [sase-1n6.7.1.land](../../sessions/bbugyi200.athena.sase-1n6.7.1.land.md) (session · 15) | sase-1n6 hood | active 13, completed 1, failed 1 |
 | [sase-1n6.8](../bbugyi200.athena.sase-1n6.8/README.md) | sase-1n6 hood | completed |
-| [sase-1n6.9](../bbugyi200.athena.sase-1n6.9/README.md) | sase-1n6 hood | waiting |
+| [sase-1n6.9](../bbugyi200.athena.sase-1n6.9/README.md) | sase-1n6 hood | active |
 | [sase-1n6.land](../bbugyi200.athena.sase-1n6.land/README.md) | sase-1n6 hood | waiting |
