@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8h.project\_render\_fixtures.0](../bbugyi200.athena.toobig-8h.project_render_fixtures.0/README.md) | toobig-8h hood | waiting |
+| [toobig-8h.project\_render\_fixtures.0](../bbugyi200.athena.toobig-8h.project_render_fixtures.0/README.md) | toobig-8h hood | completed |
