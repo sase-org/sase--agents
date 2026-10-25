@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-25T17:09:14.680615+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/delegating-work-from-task-systems-to-sase\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261025130846/delegating-work-from-task-systems… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/delegating-work-from-task-systems-to-sase__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261025130846/delegating-work-from-task-systems-to-sase__cdx-0f41725dbab0.md
+  ref: file:explicit:bb6d06b1ebcaf0dca59b439f
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/delegating-work-from-task-systems-to-sase__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +42,7 @@
 |---|---|---|
 | [research.2h.cld](../bbugyi200.apollo.research.2h.cld/README.md) | research.2h hood | active |
 | [research.2h.final](../bbugyi200.apollo.research.2h.final/README.md) | research.2h hood | waiting |
-| [research.2h.gem](../bbugyi200.apollo.research.2h.gem/README.md) | research.2h hood | active |
+| [research.2h.gem](../bbugyi200.apollo.research.2h.gem/README.md) | research.2h hood | completed |
 | [research.2h.grk](../bbugyi200.apollo.research.2h.grk/README.md) | research.2h hood | active |
 | [research.2h.image](../bbugyi200.apollo.research.2h.image/README.md) | research.2h hood | waiting |
 | [research.2h.linker](../bbugyi200.apollo.research.2h.linker/README.md) | research.2h hood | waiting |
