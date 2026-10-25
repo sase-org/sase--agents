@@ -31,11 +31,11 @@
 | [sase-1n6.5.1.5.2](../bbugyi200.athena.sase-1n6.5.1.5.2/README.md) | descendant | completed |
 | [sase-1n6.5.1.5.2.1.1](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.1.md) (session · 3) | descendant | active 3 |
 | [sase-1n6.5.1.5.2.1.2](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.2.md) (session · 7) | descendant | active 3, completed 2, failed 2 |
-| [sase-1n6.5.1.5.2.1.3.1](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.3.1.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
-| [sase-1n6.5.1.5.2.1.3.2](../bbugyi200.athena.sase-1n6.5.1.5.2.1.3.2/README.md) | descendant | waiting |
-| [sase-1n6.5.1.5.2.1.3.land](../bbugyi200.athena.sase-1n6.5.1.5.2.1.3.land/README.md) | descendant | waiting |
+| [sase-1n6.5.1.5.2.1.3.1](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.3.1.md) (session · 3) | descendant | completed 2, failed 1 |
+| [sase-1n6.5.1.5.2.1.3.2](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.3.2.md) (session · 7) | descendant | completed 4, failed 3 |
+| [sase-1n6.5.1.5.2.1.3.land](../bbugyi200.athena.sase-1n6.5.1.5.2.1.3.land/README.md) | descendant | active |
 | [sase-1n6.5.1.5.2.1.land](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.land.md) (session · 3) | descendant | active 3 |
-| [sase-1n6.5.1.5.land](../bbugyi200.athena.sase-1n6.5.1.5.land/README.md) | descendant | waiting |
+| [sase-1n6.5.1.5.land](../bbugyi200.athena.sase-1n6.5.1.5.land/README.md) | descendant | active |
 | [sase-1n6.5.1.land](../../sessions/bbugyi200.athena.sase-1n6.5.1.land.md) (session · 3) | descendant | active 3 |
 | [sase-1n6.1](../bbugyi200.athena.sase-1n6.1/README.md) | sase-1n6 hood | completed |
 | [sase-1n6.10](../bbugyi200.athena.sase-1n6.10/README.md) | sase-1n6 hood | waiting |

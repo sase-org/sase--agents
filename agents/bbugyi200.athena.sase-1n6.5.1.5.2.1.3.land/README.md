@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1n6](../../users/bbugyi200/machines/athena/hoods/sase-1n6/README.md) / sase-1n6.5.1.5.2.1.3.land
 
-**Global name:** `bbugyi200.athena.sase-1n6.5.1.5.2.1.3.land` · **State:** waiting · **Source run:** `run-2e5ce67d4076bb94b6f4a905fbb6dad4`
+**Global name:** `bbugyi200.athena.sase-1n6.5.1.5.2.1.3.land` · **State:** active · **Source run:** `run-2e5ce67d4076bb94b6f4a905fbb6dad4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1n6
 
@@ -11,12 +11,32 @@
 - Bead: [sase-1n6.5.1.5.2.1.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1n6/sase-1n6.5.1.5.2.1.3.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261023182852
+- Timing: 2026-10-25T18:35:15.392567+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: sase-1n6.5.1.5.2.1.3, kind: file, label: Landing-verified qualification observations, source evidence, and evaluator results, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/202610… |
+
+#### artifacts
+
+```yaml
+- bead: sase-1n6.5.1.5.2.1.3
+  kind: file
+  label: Landing-verified qualification observations, source evidence, and evaluator results
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261023182852/verified-qualification-proof.tar-1aa5759072b0.gz
+  ref: file:explicit:ee80ee363315fb88efc6d612
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/.git/landing-audit/verified-qualification-proof.tar.gz
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,13 +44,13 @@
 |---|---|---|
 | [sase-1n6.5.1.5.2](../bbugyi200.athena.sase-1n6.5.1.5.2/README.md) | ancestor | completed |
 | [sase-1n6.5](../../sessions/bbugyi200.athena.sase-1n6.5.md) (session · 3) | ancestor | failed 3 |
-| [sase-1n6.5.1.5.2.1.3.1](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.3.1.md) (session · 3) | sase-1n6.5.1.5.2.1.3 hood | active 1, completed 1, failed 1 |
-| [sase-1n6.5.1.5.2.1.3.2](../bbugyi200.athena.sase-1n6.5.1.5.2.1.3.2/README.md) | sase-1n6.5.1.5.2.1.3 hood | waiting |
+| [sase-1n6.5.1.5.2.1.3.1](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.3.1.md) (session · 3) | sase-1n6.5.1.5.2.1.3 hood | completed 2, failed 1 |
+| [sase-1n6.5.1.5.2.1.3.2](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.3.2.md) (session · 7) | sase-1n6.5.1.5.2.1.3 hood | completed 4, failed 3 |
 | [sase-1n6.5.1.5.2.1.1](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.1.md) (session · 3) | sase-1n6.5.1.5.2.1 hood | active 3 |
 | [sase-1n6.5.1.5.2.1.2](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.2.md) (session · 7) | sase-1n6.5.1.5.2.1 hood | active 3, completed 2, failed 2 |
 | [sase-1n6.5.1.5.2.1.land](../../sessions/bbugyi200.athena.sase-1n6.5.1.5.2.1.land.md) (session · 3) | sase-1n6.5.1.5.2.1 hood | active 3 |
 | [sase-1n6.5.1.5.1](../bbugyi200.athena.sase-1n6.5.1.5.1/README.md) | sase-1n6.5.1.5 hood | completed |
-| [sase-1n6.5.1.5.land](../bbugyi200.athena.sase-1n6.5.1.5.land/README.md) | sase-1n6.5.1.5 hood | waiting |
+| [sase-1n6.5.1.5.land](../bbugyi200.athena.sase-1n6.5.1.5.land/README.md) | sase-1n6.5.1.5 hood | active |
 | [sase-1n6.5.1.1](../bbugyi200.athena.sase-1n6.5.1.1/README.md) | sase-1n6.5.1 hood | active |
 | [sase-1n6.5.1.2](../../sessions/bbugyi200.athena.sase-1n6.5.1.2.md) (session · 5) | sase-1n6.5.1 hood | active 5 |
 | [sase-1n6.5.1.3](../bbugyi200.athena.sase-1n6.5.1.3/README.md) | sase-1n6.5.1 hood | active |
