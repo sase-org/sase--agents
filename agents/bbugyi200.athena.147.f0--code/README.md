@@ -11,11 +11,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-25T19:24:26.539259+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ce75abd`](https://github.com/sase-org/sase/commit/ce75abd76fde594214503c2b55562a39d96e3584) | feat(project-stats): label Swift languages and surface uncounted files | 2026-10-25 17:06:38 EDT |
 
 ## Neighbors
 
