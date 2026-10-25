@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1nn.8.4.3.5.1--mon [failed]"]
   n1["sase-1nn.8.4.3.5.1--plan [completed]"]
   n0 --> n1
-  n2["sase-1nn.8.4.3.5.1--1 [active]"]
+  n2["sase-1nn.8.4.3.5.1--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-1nn.8.4.3.5.1--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-25T02:54:37.542715+00:00 → 2026-10-25T02:57:07.309731+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nn.8.4.3.5.1--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1nn.8.4.3.5.1--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-25T02:24:40.417288+00:00 → 2026-10-25T02:55:22.722427+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nn.8.4.3.5.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nn.8.4.3.5.1--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-1nn.8.4.3.5.1--1 | active | muse-spark-1.3-contributor / muse | 2026-10-25T02:58:35.244856+00:00 | [1](../agents/bbugyi200.athena.sase-1nn.8.4.3.5.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1nn.8.4.3.5.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1nn.8.4.3.5.1--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-25T02:58:35.244856+00:00 → 2026-10-25T03:06:23.586415+00:00 | [1](../agents/bbugyi200.athena.sase-1nn.8.4.3.5.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1nn.8.4.3.5.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nn.8.4.3.5.1--1/chat.md) |
 
 ## Commits
 
@@ -55,7 +55,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1nn.8.4.3.5.2](../agents/bbugyi200.athena.sase-1nn.8.4.3.5.2/README.md) | sase-1nn.8.4.3.5 hood | completed |
-| [sase-1nn.8.4.3.5.3](../agents/bbugyi200.athena.sase-1nn.8.4.3.5.3/README.md) | sase-1nn.8.4.3.5 hood | waiting |
+| [sase-1nn.8.4.3.5.3](bbugyi200.athena.sase-1nn.8.4.3.5.3.md) (session · 2) | sase-1nn.8.4.3.5 hood | active 1, completed 1 |
 | [sase-1nn.8.4.3.5.land](../agents/bbugyi200.athena.sase-1nn.8.4.3.5.land/README.md) | sase-1nn.8.4.3.5 hood | waiting |
 | [sase-1nn.8.4.3.1](bbugyi200.athena.sase-1nn.8.4.3.1.md) (session · 3) | sase-1nn.8.4.3 hood | completed 2, failed 1 |
 | [sase-1nn.8.4.3.2](../agents/bbugyi200.athena.sase-1nn.8.4.3.2/README.md) | sase-1nn.8.4.3 hood | completed |

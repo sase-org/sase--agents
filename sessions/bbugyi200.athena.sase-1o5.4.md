@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1o5.4--plan [completed]"]
   n1["sase-1o5.4--mon [failed]"]
   n0 --> n1
-  n2["sase-1o5.4--1 [active]"]
+  n2["sase-1o5.4--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-1o5.4--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-25T01:10:47.462810+00:00 → 2026-10-25T02:07:30.349895+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1o5.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1o5.4--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-1o5.4--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-25T02:05:16.708466+00:00 → 2026-10-25T02:10:07.768677+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1o5.4--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-1o5.4--1 | active | muse-spark-1.3-contributor / muse | 2026-10-25T02:11:19.891414+00:00 | [1](../agents/bbugyi200.athena.sase-1o5.4--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1o5.4--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1o5.4--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-25T02:11:19.891414+00:00 → 2026-10-25T02:47:35.203095+00:00 | [1](../agents/bbugyi200.athena.sase-1o5.4--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1o5.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1o5.4--1/chat.md) |
 
 ## Commits
 
@@ -36,6 +36,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1o5.1](../agents/bbugyi200.athena.sase-1o5.1/README.md) | sase-1o5 hood | completed |
 | [sase-1o5.2](bbugyi200.athena.sase-1o5.2.md) (session · 5) | sase-1o5 hood | completed 3, failed 2 |
 | [sase-1o5.3](../agents/bbugyi200.athena.sase-1o5.3/README.md) | sase-1o5 hood | completed |
-| [sase-1o5.5](../agents/bbugyi200.athena.sase-1o5.5/README.md) | sase-1o5 hood | waiting |
+| [sase-1o5.5](../agents/bbugyi200.athena.sase-1o5.5/README.md) | sase-1o5 hood | active |
 | [sase-1o5.6](../agents/bbugyi200.athena.sase-1o5.6/README.md) | sase-1o5 hood | waiting |
 | [sase-1o5.land](../agents/bbugyi200.athena.sase-1o5.land/README.md) | sase-1o5 hood | waiting |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nn](../../users/bbugyi200/machines/athena/hoods/sase-1nn/README.md) / [sase-1nn.8.4.3.5.1](../../sessions/bbugyi200.athena.sase-1nn.8.4.3.5.1.md) / sase-1nn.8.4.3.5.1--1
 
-**Global name:** `bbugyi200.athena.sase-1nn.8.4.3.5.1--1` · **State:** active · **Source run:** `run-e5659cd2ebeeef0e15a3bead394ba18d`
+**Global name:** `bbugyi200.athena.sase-1nn.8.4.3.5.1--1` · **State:** completed · **Source run:** `run-e5659cd2ebeeef0e15a3bead394ba18d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nn
 
@@ -11,12 +11,12 @@
 - Bead: [sase-1nn.8.4.3.5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nn/sase-1nn.8.4.3.5.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-25T02:58:35.244856+00:00
+- Timing: 2026-10-25T02:58:35.244856+00:00 → 2026-10-25T03:06:23.586415+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,7 +29,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1nn.8.4.3.5.2](../bbugyi200.athena.sase-1nn.8.4.3.5.2/README.md) | sase-1nn.8.4.3.5 hood | completed |
-| [sase-1nn.8.4.3.5.3](../bbugyi200.athena.sase-1nn.8.4.3.5.3/README.md) | sase-1nn.8.4.3.5 hood | waiting |
+| [sase-1nn.8.4.3.5.3](../../sessions/bbugyi200.athena.sase-1nn.8.4.3.5.3.md) (session · 2) | sase-1nn.8.4.3.5 hood | active 1, completed 1 |
 | [sase-1nn.8.4.3.5.land](../bbugyi200.athena.sase-1nn.8.4.3.5.land/README.md) | sase-1nn.8.4.3.5 hood | waiting |
 | [sase-1nn.8.4.3.1](../../sessions/bbugyi200.athena.sase-1nn.8.4.3.1.md) (session · 3) | sase-1nn.8.4.3 hood | completed 2, failed 1 |
 | [sase-1nn.8.4.3.2](../bbugyi200.athena.sase-1nn.8.4.3.2/README.md) | sase-1nn.8.4.3 hood | completed |
