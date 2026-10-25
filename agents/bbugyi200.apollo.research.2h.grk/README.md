@@ -12,16 +12,35 @@
 - Provider: grok
 - Timing: 2026-10-25T17:09:42.973694+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_tms\_agnostic\_intent\_adapters\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261025130849/sase\_tms\_agnostic\_intent\_adapters\_\_grk-10… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_tms_agnostic_intent_adapters__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261025130849/sase_tms_agnostic_intent_adapters__grk-10c7f6736251.md
+  ref: file:explicit:dca35512e800b34d2bc3c030
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202610/sase_tms_agnostic_intent_adapters__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.2h.cdx](../bbugyi200.apollo.research.2h.cdx/README.md) | research.2h hood | active |
+| [research.2h.cdx](../bbugyi200.apollo.research.2h.cdx/README.md) | research.2h hood | completed |
 | [research.2h.cld](../bbugyi200.apollo.research.2h.cld/README.md) | research.2h hood | active |
 | [research.2h.final](../bbugyi200.apollo.research.2h.final/README.md) | research.2h hood | waiting |
 | [research.2h.gem](../bbugyi200.apollo.research.2h.gem/README.md) | research.2h hood | completed |
