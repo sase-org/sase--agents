@@ -12,17 +12,36 @@
 - Provider: grok
 - Timing: 2026-10-26T17:49:17.018316+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/muse\_reply\_card\_commentary\_not\_streamed\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261026134818/muse\_reply\_card\_commentary\_not\_stre… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/muse_reply_card_commentary_not_streamed__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261026134818/muse_reply_card_commentary_not_streamed__grk-7d7cb22dbab5.md
+  ref: file:explicit:d28119c875ae27925e65345c
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202610/muse_reply_card_commentary_not_streamed__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.2i.cdx](../bbugyi200.apollo.research.2i.cdx/README.md) | research.2i hood | completed |
-| [research.2i.cld](../bbugyi200.apollo.research.2i.cld/README.md) | research.2i hood | active |
+| [research.2i.cld](../bbugyi200.apollo.research.2i.cld/README.md) | research.2i hood | completed |
 | [research.2i.final](../bbugyi200.apollo.research.2i.final/README.md) | research.2i hood | waiting |
 | [research.2i.gem](../bbugyi200.apollo.research.2i.gem/README.md) | research.2i hood | active |
 | [research.2i.image](../bbugyi200.apollo.research.2i.image/README.md) | research.2i hood | waiting |
