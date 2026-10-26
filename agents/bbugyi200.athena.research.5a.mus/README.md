@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5a.mus
 
-**Global name:** `bbugyi200.athena.research.5a.mus` · **State:** completed · **Source run:** `run-7b46db4c3ab8b08aef6612bb62b6c910`
+**Global name:** `bbugyi200.athena.research.5a.mus` · **State:** active · **Source run:** `run-7b46db4c3ab8b08aef6612bb62b6c910`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-26T09:24:47.892913+00:00 → 2026-10-26T09:29:02.895369+00:00
+- Timing: 2026-10-26T09:24:47.892913+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
@@ -40,12 +40,12 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5a.cdx](../bbugyi200.athena.research.5a.cdx/README.md) | research.5a hood | completed |
-| [research.5a.cld](../bbugyi200.athena.research.5a.cld/README.md) | research.5a hood | completed |
-| [research.5a.final](../bbugyi200.athena.research.5a.final/README.md) | research.5a hood | completed |
-| [research.5a.gem](../bbugyi200.athena.research.5a.gem/README.md) | research.5a hood | completed |
-| [research.5a.grk](../bbugyi200.athena.research.5a.grk/README.md) | research.5a hood | completed |
-| [research.5a.image](../bbugyi200.athena.research.5a.image/README.md) | research.5a hood | completed |
+| [research.5a.cdx](../bbugyi200.athena.research.5a.cdx/README.md) | research.5a hood | active |
+| [research.5a.cld](../bbugyi200.athena.research.5a.cld/README.md) | research.5a hood | active |
+| [research.5a.final](../bbugyi200.athena.research.5a.final/README.md) | research.5a hood | active |
+| [research.5a.gem](../bbugyi200.athena.research.5a.gem/README.md) | research.5a hood | active |
+| [research.5a.grk](../bbugyi200.athena.research.5a.grk/README.md) | research.5a hood | active |
+| [research.5a.image](../bbugyi200.athena.research.5a.image/README.md) | research.5a hood | active |
 | [research.5a.linker](../bbugyi200.athena.research.5a.linker/README.md) | research.5a hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
@@ -97,4 +97,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 1051 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 1059 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
