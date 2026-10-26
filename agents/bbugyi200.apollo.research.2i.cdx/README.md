@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-26T17:48:45.359191+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/muse\_reply\_streaming\_stdout\_commentary\_gap\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261026134815/muse\_reply\_streaming\_stdout\_comm… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/muse_reply_streaming_stdout_commentary_gap__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261026134815/muse_reply_streaming_stdout_commentary_gap__cdx-975a48a1e77d.md
+  ref: file:explicit:26ed02946b667441b3fa9daa
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/muse_reply_streaming_stdout_commentary_gap__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.2i.grk](../bbugyi200.apollo.research.2i.grk/README.md) | research.2i hood | active |
 | [research.2i.image](../bbugyi200.apollo.research.2i.image/README.md) | research.2i hood | waiting |
 | [research.2i.linker](../bbugyi200.apollo.research.2i.linker/README.md) | research.2i hood | waiting |
-| [research.2i.mus](../bbugyi200.apollo.research.2i.mus/README.md) | research.2i hood | active |
+| [research.2i.mus](../bbugyi200.apollo.research.2i.mus/README.md) | research.2i hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
