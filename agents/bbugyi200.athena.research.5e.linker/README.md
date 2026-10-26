@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5e.linker
 
-**Global name:** `bbugyi200.athena.research.5e.linker` · **State:** waiting · **Source run:** `run-000c9ecd0c11d4b2b545b23826b983b0`
+**Global name:** `bbugyi200.athena.research.5e.linker` · **State:** active · **Source run:** `run-000c9ecd0c11d4b2b545b23826b983b0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261026174158
+- Timing: 2026-10-26T23:05:32.693183+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/machine\_load\_accounting\_transparency/machine\_load\_accounting\_transparency.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261026174158/machin… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/machine_load_accounting_transparency/machine_load_accounting_transparency.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261026174158/machine_load_accounting_transparency-66d9d991ad1e.md
+  ref: file:explicit:40c8bdcd27614b2afecc819f
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_19/sase/repos/research/202610/machine_load_accounting_transparency/machine_load_accounting_transparency.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.5e.final](../bbugyi200.athena.research.5e.final/README.md) | research.5e hood | completed |
 | [research.5e.gem](../bbugyi200.athena.research.5e.gem/README.md) | research.5e hood | completed |
 | [research.5e.grk](../bbugyi200.athena.research.5e.grk/README.md) | research.5e hood | completed |
-| [research.5e.image](../bbugyi200.athena.research.5e.image/README.md) | research.5e hood | active |
+| [research.5e.image](../bbugyi200.athena.research.5e.image/README.md) | research.5e hood | completed |
 | [research.5e.mus](../bbugyi200.athena.research.5e.mus/README.md) | research.5e hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
