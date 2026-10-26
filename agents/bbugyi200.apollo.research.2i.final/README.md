@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.2i.final
 
-**Global name:** `bbugyi200.apollo.research.2i.final` · **State:** active · **Source run:** `run-dbe5e8a54c53857f51e8821718fcf8f6`
+**Global name:** `bbugyi200.apollo.research.2i.final` · **State:** completed · **Source run:** `run-dbe5e8a54c53857f51e8821718fcf8f6`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-26T18:17:24.147581+00:00
+- Timing: 2026-10-26T18:17:24.147581+00:00 → 2026-10-26T18:31:56.512691+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -44,7 +44,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.2i.cld](../bbugyi200.apollo.research.2i.cld/README.md) | research.2i hood | completed |
 | [research.2i.gem](../bbugyi200.apollo.research.2i.gem/README.md) | research.2i hood | completed |
 | [research.2i.grk](../bbugyi200.apollo.research.2i.grk/README.md) | research.2i hood | completed |
-| [research.2i.image](../bbugyi200.apollo.research.2i.image/README.md) | research.2i hood | waiting |
+| [research.2i.image](../bbugyi200.apollo.research.2i.image/README.md) | research.2i hood | active |
 | [research.2i.linker](../bbugyi200.apollo.research.2i.linker/README.md) | research.2i hood | waiting |
 | [research.2i.linker.w0](../bbugyi200.apollo.research.2i.linker.w0/README.md) | research.2i hood | waiting |
 | [research.2i.mus](../bbugyi200.apollo.research.2i.mus/README.md) | research.2i hood | completed |

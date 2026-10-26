@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.2i.image
 
-**Global name:** `bbugyi200.apollo.research.2i.image` · **State:** waiting · **Source run:** `run-23ab19111b52e70c020208c37d0b52f9`
+**Global name:** `bbugyi200.apollo.research.2i.image` · **State:** active · **Source run:** `run-23ab19111b52e70c020208c37d0b52f9`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,52 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261026134822
+- Timing: 2026-10-26T18:32:44.059808+00:00
 - Commits: 0
+- Variables: [3](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202610/muse\_commentary\_missing\_from\_exec\_stream/muse\_commentary\_missing\_from\_exec\_stream\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/… |
+| `diagrams` | {considered: 15, count: 0, reason: The sole nonduplicative Mermaid candidate failed visual review within two look rounds: incoming arrows overlapped group labels. Mermaid 12.0.0 parsed 1 of 1 charts… |
+| `infographic` | {path: 202610/muse\_commentary\_missing\_from\_exec\_stream/muse\_commentary\_missing\_from\_exec\_stream\_infographic.png, ref: file:explicit:d8f4d080ffb4ba7c28707a38, source\_ref: file:explicit:2c5c0017934df85… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202610/muse_commentary_missing_from_exec_stream/muse_commentary_missing_from_exec_stream_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261026134822/muse_commentary_missing_from_exec_stream_infographic-7516a2804091.png
+  ref: file:explicit:d8f4d080ffb4ba7c28707a38
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/muse_commentary_missing_from_exec_stream/muse_commentary_missing_from_exec_stream_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 15
+count: 0
+reason: The sole nonduplicative Mermaid candidate failed visual review within two look rounds: incoming arrows overlapped group labels. Mermaid 12.0.0 parsed 1 of 1 charts and the revised SVG fit 75.2%, but the figure was dropped and no manifest was written. The infographic is complete.
+source_ref: file:explicit:2c5c0017934df85ed1127753
+status: failed
+```
+
+#### infographic
+
+```yaml
+path: 202610/muse_commentary_missing_from_exec_stream/muse_commentary_missing_from_exec_stream_infographic.png
+ref: file:explicit:d8f4d080ffb4ba7c28707a38
+source_ref: file:explicit:2c5c0017934df85ed1127753
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +63,7 @@
 |---|---|---|
 | [research.2i.cdx](../bbugyi200.apollo.research.2i.cdx/README.md) | research.2i hood | completed |
 | [research.2i.cld](../bbugyi200.apollo.research.2i.cld/README.md) | research.2i hood | completed |
-| [research.2i.final](../bbugyi200.apollo.research.2i.final/README.md) | research.2i hood | active |
+| [research.2i.final](../bbugyi200.apollo.research.2i.final/README.md) | research.2i hood | completed |
 | [research.2i.gem](../bbugyi200.apollo.research.2i.gem/README.md) | research.2i hood | completed |
 | [research.2i.grk](../bbugyi200.apollo.research.2i.grk/README.md) | research.2i hood | completed |
 | [research.2i.linker](../bbugyi200.apollo.research.2i.linker/README.md) | research.2i hood | waiting |
