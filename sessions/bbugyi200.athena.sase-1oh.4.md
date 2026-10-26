@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1oh.4.1.land](../agents/bbugyi200.athena.sase-1oh.4.1.land/README.md) | descendant | waiting |
 | [sase-1oh.1](../agents/bbugyi200.athena.sase-1oh.1/README.md) | sase-1oh hood | completed |
 | [sase-1oh.2](../agents/bbugyi200.athena.sase-1oh.2/README.md) | sase-1oh hood | completed |
-| [sase-1oh.3](bbugyi200.athena.sase-1oh.3.md) (session · 3) | sase-1oh hood | active 2, failed 1 |
+| [sase-1oh.3](bbugyi200.athena.sase-1oh.3.md) (session · 3) | sase-1oh hood | completed 2, failed 1 |
 | [sase-1oh.5](bbugyi200.athena.sase-1oh.5.md) (session · 3) | sase-1oh hood | failed 3 |
 | [sase-1oh.5.1.1](../agents/bbugyi200.athena.sase-1oh.5.1.1/README.md) | sase-1oh hood | active |
 | [sase-1oh.5.1.2](../agents/bbugyi200.athena.sase-1oh.5.1.2/README.md) | sase-1oh hood | waiting |

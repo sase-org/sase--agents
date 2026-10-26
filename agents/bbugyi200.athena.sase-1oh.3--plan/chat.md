@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** sase-1oh.3--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_sase_org__sase-ace_run-sase_1oh_3__plan-261026_141700.md`
+- 2. --code — `~/.sase/chats/202610/gh_sase_org__sase-ace_run-sase_1oh_3__code-261026_141700.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/bead_cache_version_convergence.md
 
 

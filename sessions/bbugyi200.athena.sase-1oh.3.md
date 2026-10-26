@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-1oh` · Members: 3 · Bead: [sase-1oh.3
 
 ```mermaid
 flowchart TD
-  n0["sase-1oh.3--plan [active]"]
+  n0["sase-1oh.3--plan [completed]"]
   n1["sase-1oh.3--gate [failed]"]
   n0 --> n1
-  n2["sase-1oh.3--code [active]"]
+  n2["sase-1oh.3--code [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-1oh.3--plan | active | gpt-6-astra / codex | 2026-10-26T18:19:15.066793+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1oh.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1oh.3--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-1oh.3--plan | completed | gpt-6-astra / codex | 2026-10-26T18:19:15.066793+00:00 → 2026-10-26T20:16:54.998447+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1oh.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1oh.3--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-1oh.3--gate | failed | gpt-6-astra / codex | 2026-10-26T18:28:54.789853+00:00 → 2026-10-26T18:29:35.608435+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1oh.3--gate/chat.md) |
-| <a id="member-code"></a>code | sase-1oh.3--code | active | grok-4.6 / grok | 2026-10-26T18:30:01.251178+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-1oh.3--code | completed | grok-4.6 / grok | 2026-10-26T18:30:01.251178+00:00 → 2026-10-26T20:16:54.998447+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1oh.3--code/chat.md) |
 
 ## Neighbors
 
