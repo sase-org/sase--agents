@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1oh](../../users/bbugyi200/machines/athena/hoods/sase-1oh/README.md) / sase-1oh.2
 
-**Global name:** `bbugyi200.athena.sase-1oh.2` · **State:** active · **Source run:** `run-be0301ede690ec3d054de4106b876b88`
+**Global name:** `bbugyi200.athena.sase-1oh.2` · **State:** completed · **Source run:** `run-be0301ede690ec3d054de4106b876b88`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1oh
 
@@ -12,12 +12,12 @@
 - Epic: [sase-1oh](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1oh/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-26T18:18:11.638410+00:00
+- Timing: 2026-10-26T18:18:11.638410+00:00 → 2026-10-26T19:16:06.098914+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -37,7 +37,7 @@
 | [sase-1oh.4.1.3](../bbugyi200.athena.sase-1oh.4.1.3/README.md) | sase-1oh hood | waiting |
 | [sase-1oh.4.1.land](../bbugyi200.athena.sase-1oh.4.1.land/README.md) | sase-1oh hood | waiting |
 | [sase-1oh.5](../../sessions/bbugyi200.athena.sase-1oh.5.md) (session · 3) | sase-1oh hood | failed 3 |
-| [sase-1oh.5.1.1](../bbugyi200.athena.sase-1oh.5.1.1/README.md) | sase-1oh hood | waiting |
+| [sase-1oh.5.1.1](../bbugyi200.athena.sase-1oh.5.1.1/README.md) | sase-1oh hood | active |
 | [sase-1oh.5.1.2](../bbugyi200.athena.sase-1oh.5.1.2/README.md) | sase-1oh hood | waiting |
 | [sase-1oh.5.1.3](../bbugyi200.athena.sase-1oh.5.1.3/README.md) | sase-1oh hood | waiting |
 | [sase-1oh.5.1.4](../bbugyi200.athena.sase-1oh.5.1.4/README.md) | sase-1oh hood | waiting |
