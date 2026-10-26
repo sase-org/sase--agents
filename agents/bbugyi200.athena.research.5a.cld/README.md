@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-26T09:23:54.273635+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/claude\_design\_vs\_research\_swarms\_for\_sase\_ux\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261026052208/claude\_design\_vs\_research\_swar… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/claude_design_vs_research_swarms_for_sase_ux__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261026052208/claude_design_vs_research_swarms_for_sase_ux__cld-22b595d019c8.md
+  ref: file:explicit:7e21747d01dad96fe4fd0dda
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202610/claude_design_vs_research_swarms_for_sase_ux__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
