@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nv](../../users/bbugyi200/machines/athena/hoods/sase-1nv/README.md) / sase-1nv.5.1.1
 
-**Global name:** `bbugyi200.athena.sase-1nv.5.1.1` · **State:** active · **Source run:** `run-6ab8528fc6fc6a38ebfbecc5257c95df`
+**Global name:** `bbugyi200.athena.sase-1nv.5.1.1` · **State:** completed · **Source run:** `run-6ab8528fc6fc6a38ebfbecc5257c95df`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nv
 
@@ -12,19 +12,19 @@
 - Epic: [sase-1nv.5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nv/sase-1nv.5.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-26T22:08:11.012407+00:00
+- Timing: 2026-10-26T22:08:11.012407+00:00 → 2026-10-26T22:35:35.288770+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1nv.5](../../sessions/bbugyi200.athena.sase-1nv.5.md) (session · 39) | ancestor | completed 19, failed 20 |
-| [sase-1nv.5.1.2](../bbugyi200.athena.sase-1nv.5.1.2/README.md) | sase-1nv.5.1 hood | waiting |
+| [sase-1nv.5.1.2](../bbugyi200.athena.sase-1nv.5.1.2/README.md) | sase-1nv.5.1 hood | active |
 | [sase-1nv.5.1.3](../bbugyi200.athena.sase-1nv.5.1.3/README.md) | sase-1nv.5.1 hood | waiting |
 | [sase-1nv.5.1.4](../bbugyi200.athena.sase-1nv.5.1.4/README.md) | sase-1nv.5.1 hood | waiting |
 | [sase-1nv.5.1.5](../bbugyi200.athena.sase-1nv.5.1.5/README.md) | sase-1nv.5.1 hood | waiting |
