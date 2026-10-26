@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1oj.1](../bbugyi200.apollo.sase-1oj.1/README.md) | sase-1oj hood | active |
+| [sase-1oj.1](../bbugyi200.apollo.sase-1oj.1/README.md) | sase-1oj hood | completed |
 | [sase-1oj.2](../bbugyi200.apollo.sase-1oj.2/README.md) | sase-1oj hood | active |
 | [sase-1oj.3](../bbugyi200.apollo.sase-1oj.3/README.md) | sase-1oj hood | waiting |
 | [sase-1oj.5](../../sessions/bbugyi200.apollo.sase-1oj.5.md) (session · 2) | sase-1oj hood | active 1, completed 1 |

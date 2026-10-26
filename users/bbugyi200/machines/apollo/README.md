@@ -101,7 +101,7 @@
 | [sase-1m3](hoods/sase-1m3/README.md) | 80 | 12 | active 32, completed 26, failed 21, waiting 1 |
 | [sase-1ml](hoods/sase-1ml/README.md) | 3 | 0 | completed 3 |
 | [sase-1n8](hoods/sase-1n8/README.md) | 11 | 0 | active 6, completed 4, failed 1 |
-| [sase-1oj](hoods/sase-1oj/README.md) | 8 | 1 | active 3, completed 1, waiting 4 |
+| [sase-1oj](hoods/sase-1oj/README.md) | 8 | 1 | active 2, completed 2, waiting 4 |
 | [sase-w3](hoods/sase-w3/README.md) | 15 | 5 | active 2, completed 8, failed 4, waiting 1 |
 | [sase-w8](hoods/sase-w8/README.md) | 8 | 1 | completed 5, failed 3 |
 | [sase-wm](hoods/sase-wm/README.md) | 8 | 2 | completed 7, failed 1 |

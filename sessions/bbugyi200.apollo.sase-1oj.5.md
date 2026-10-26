@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1oj.1](../agents/bbugyi200.apollo.sase-1oj.1/README.md) | sase-1oj hood | active |
+| [sase-1oj.1](../agents/bbugyi200.apollo.sase-1oj.1/README.md) | sase-1oj hood | completed |
 | [sase-1oj.2](../agents/bbugyi200.apollo.sase-1oj.2/README.md) | sase-1oj hood | active |
 | [sase-1oj.3](../agents/bbugyi200.apollo.sase-1oj.3/README.md) | sase-1oj hood | waiting |
 | [sase-1oj.4](../agents/bbugyi200.apollo.sase-1oj.4/README.md) | sase-1oj hood | waiting |
