@@ -12,16 +12,35 @@
 - Provider: grok
 - Timing: 2026-10-26T21:43:50.291805+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/machine\_load\_gauge\_occupancy\_ux\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261026174153/machine\_load\_gauge\_occupancy\_ux\_\_grk-db8f07… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/machine_load_gauge_occupancy_ux__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261026174153/machine_load_gauge_occupancy_ux__grk-db8f07650c2d.md
+  ref: file:explicit:59e6f8775ae1c063d72f2674
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_16/sase/repos/research/202610/machine_load_gauge_occupancy_ux__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5e.cdx](../bbugyi200.athena.research.5e.cdx/README.md) | research.5e hood | active |
+| [research.5e.cdx](../bbugyi200.athena.research.5e.cdx/README.md) | research.5e hood | completed |
 | [research.5e.cld](../bbugyi200.athena.research.5e.cld/README.md) | research.5e hood | active |
 | [research.5e.final](../bbugyi200.athena.research.5e.final/README.md) | research.5e hood | waiting |
 | [research.5e.gem](../bbugyi200.athena.research.5e.gem/README.md) | research.5e hood | active |
