@@ -43,7 +43,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.5e.cdx](../bbugyi200.athena.research.5e.cdx/README.md) | research.5e hood | completed |
 | [research.5e.cld](../bbugyi200.athena.research.5e.cld/README.md) | research.5e hood | active |
 | [research.5e.final](../bbugyi200.athena.research.5e.final/README.md) | research.5e hood | waiting |
-| [research.5e.gem](../bbugyi200.athena.research.5e.gem/README.md) | research.5e hood | active |
+| [research.5e.gem](../bbugyi200.athena.research.5e.gem/README.md) | research.5e hood | completed |
 | [research.5e.image](../bbugyi200.athena.research.5e.image/README.md) | research.5e hood | waiting |
 | [research.5e.linker](../bbugyi200.athena.research.5e.linker/README.md) | research.5e hood | waiting |
 | [research.5e.mus](../bbugyi200.athena.research.5e.mus/README.md) | research.5e hood | completed |
