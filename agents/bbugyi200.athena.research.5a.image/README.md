@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5a.image
 
-**Global name:** `bbugyi200.athena.research.5a.image` · **State:** waiting · **Source run:** `run-859a808a6bf89403ca238c5a13b79ff1`
+**Global name:** `bbugyi200.athena.research.5a.image` · **State:** active · **Source run:** `run-859a808a6bf89403ca238c5a13b79ff1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261026052213
+- Timing: 2026-10-26T10:02:32.410692+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202610/claude\_design\_alongside\_research\_swarms/claude\_design\_alongside\_research\_swarms\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20… |
+| `diagrams` | {considered: 13, count: 2, manifest: 202610/claude\_design\_alongside\_research\_swarms/claude\_design\_alongside\_research\_swarms.diagrams.md, source\_ref: file:explicit:d715172339ac144cd35684fe, status: re… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202610/claude_design_alongside_research_swarms/claude_design_alongside_research_swarms_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261026052213/claude_design_alongside_research_swarms_infographic-ffe79e51da5b.png
+  ref: file:explicit:5ab1b1157e55072b47abea03
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202610/claude_design_alongside_research_swarms/claude_design_alongside_research_swarms_infographic.png
+- kind: markdown
+  label: diagrams:202610/claude_design_alongside_research_swarms/claude_design_alongside_research_swarms.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261026052213/claude_design_alongside_research_swarms.diagrams-b4ec640356c7.md
+  ref: file:explicit:f4574285eefb20b77040920c
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202610/claude_design_alongside_research_swarms/claude_design_alongside_research_swarms.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 13
+count: 2
+manifest: 202610/claude_design_alongside_research_swarms/claude_design_alongside_research_swarms.diagrams.md
+source_ref: file:explicit:d715172339ac144cd35684fe
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +58,7 @@
 |---|---|---|
 | [research.5a.cdx](../bbugyi200.athena.research.5a.cdx/README.md) | research.5a hood | completed |
 | [research.5a.cld](../bbugyi200.athena.research.5a.cld/README.md) | research.5a hood | completed |
-| [research.5a.final](../bbugyi200.athena.research.5a.final/README.md) | research.5a hood | active |
+| [research.5a.final](../bbugyi200.athena.research.5a.final/README.md) | research.5a hood | completed |
 | [research.5a.gem](../bbugyi200.athena.research.5a.gem/README.md) | research.5a hood | completed |
 | [research.5a.grk](../bbugyi200.athena.research.5a.grk/README.md) | research.5a hood | completed |
 | [research.5a.linker](../bbugyi200.athena.research.5a.linker/README.md) | research.5a hood | waiting |
