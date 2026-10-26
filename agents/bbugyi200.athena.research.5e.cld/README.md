@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-26T21:43:12.710183+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/machine\_load\_gauge\_transparency\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261026174152/machine\_load\_gauge\_transparency\_\_cld-6a8faa… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/machine_load_gauge_transparency__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261026174152/machine_load_gauge_transparency__cld-6a8faa8e919c.md
+  ref: file:explicit:ec9ffbf0fa07bb337f1a8a4b
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_19/sase/repos/research/202610/machine_load_gauge_transparency__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.5e.cdx](../bbugyi200.athena.research.5e.cdx/README.md) | research.5e hood | completed |
 | [research.5e.final](../bbugyi200.athena.research.5e.final/README.md) | research.5e hood | waiting |
 | [research.5e.gem](../bbugyi200.athena.research.5e.gem/README.md) | research.5e hood | completed |
-| [research.5e.grk](../bbugyi200.athena.research.5e.grk/README.md) | research.5e hood | active |
+| [research.5e.grk](../bbugyi200.athena.research.5e.grk/README.md) | research.5e hood | completed |
 | [research.5e.image](../bbugyi200.athena.research.5e.image/README.md) | research.5e hood | waiting |
 | [research.5e.linker](../bbugyi200.athena.research.5e.linker/README.md) | research.5e hood | waiting |
 | [research.5e.mus](../bbugyi200.athena.research.5e.mus/README.md) | research.5e hood | completed |
