@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.2h.cdx
 
-**Global name:** `bbugyi200.apollo.research.2h.cdx` · **State:** completed · **Source run:** `run-6c61ed5552955fa6565158f5000392a2`
+**Global name:** `bbugyi200.apollo.research.2h.cdx` · **State:** active · **Source run:** `run-6c61ed5552955fa6565158f5000392a2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-25T17:09:14.680615+00:00 → 2026-10-25T17:25:43.152048+00:00
+- Timing: 2026-10-25T17:09:14.680615+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
@@ -40,13 +40,13 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.2h.cld](../bbugyi200.apollo.research.2h.cld/README.md) | research.2h hood | completed |
-| [research.2h.final](../bbugyi200.apollo.research.2h.final/README.md) | research.2h hood | completed |
-| [research.2h.gem](../bbugyi200.apollo.research.2h.gem/README.md) | research.2h hood | completed |
-| [research.2h.grk](../bbugyi200.apollo.research.2h.grk/README.md) | research.2h hood | completed |
-| [research.2h.image](../bbugyi200.apollo.research.2h.image/README.md) | research.2h hood | completed |
+| [research.2h.cld](../bbugyi200.apollo.research.2h.cld/README.md) | research.2h hood | active |
+| [research.2h.final](../bbugyi200.apollo.research.2h.final/README.md) | research.2h hood | active |
+| [research.2h.gem](../bbugyi200.apollo.research.2h.gem/README.md) | research.2h hood | active |
+| [research.2h.grk](../bbugyi200.apollo.research.2h.grk/README.md) | research.2h hood | active |
+| [research.2h.image](../bbugyi200.apollo.research.2h.image/README.md) | research.2h hood | active |
 | [research.2h.linker](../bbugyi200.apollo.research.2h.linker/README.md) | research.2h hood | active |
-| [research.2h.mus](../bbugyi200.apollo.research.2h.mus/README.md) | research.2h hood | completed |
+| [research.2h.mus](../bbugyi200.apollo.research.2h.mus/README.md) | research.2h hood | active |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
@@ -97,4 +97,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | active |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | active |
-| … and 575 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 583 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
