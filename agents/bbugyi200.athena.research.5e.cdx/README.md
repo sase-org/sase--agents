@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-26T21:42:58.863571+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/machine\_capacity\_accounting\_explained\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261026174150/machine\_capacity\_accounting\_explained… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/machine_capacity_accounting_explained__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261026174150/machine_capacity_accounting_explained__cdx-abc95f07aed0.md
+  ref: file:explicit:cd873c63aa00586a5cb9d86a
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_14/sase/repos/research/202610/machine_capacity_accounting_explained__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.5e.grk](../bbugyi200.athena.research.5e.grk/README.md) | research.5e hood | active |
 | [research.5e.image](../bbugyi200.athena.research.5e.image/README.md) | research.5e hood | waiting |
 | [research.5e.linker](../bbugyi200.athena.research.5e.linker/README.md) | research.5e hood | waiting |
-| [research.5e.mus](../bbugyi200.athena.research.5e.mus/README.md) | research.5e hood | active |
+| [research.5e.mus](../bbugyi200.athena.research.5e.mus/README.md) | research.5e hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
