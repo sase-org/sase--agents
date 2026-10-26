@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-26T09:23:27.671892+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/claude\_design\_for\_sase\_ux\_and\_research\_swarms\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261026052207/claude\_design\_for\_sase\_ux\_and… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/claude_design_for_sase_ux_and_research_swarms__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261026052207/claude_design_for_sase_ux_and_research_swarms__cdx-7f90ed48d86b.md
+  ref: file:explicit:7df5114a73df50996e0e61df
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202610/claude_design_for_sase_ux_and_research_swarms__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.5a.grk](../bbugyi200.athena.research.5a.grk/README.md) | research.5a hood | active |
 | [research.5a.image](../bbugyi200.athena.research.5a.image/README.md) | research.5a hood | waiting |
 | [research.5a.linker](../bbugyi200.athena.research.5a.linker/README.md) | research.5a hood | waiting |
-| [research.5a.mus](../bbugyi200.athena.research.5a.mus/README.md) | research.5a hood | active |
+| [research.5a.mus](../bbugyi200.athena.research.5a.mus/README.md) | research.5a hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |

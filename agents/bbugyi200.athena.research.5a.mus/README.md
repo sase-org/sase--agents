@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5a.mus
 
-**Global name:** `bbugyi200.athena.research.5a.mus` · **State:** active · **Source run:** `run-7b46db4c3ab8b08aef6612bb62b6c910`
+**Global name:** `bbugyi200.athena.research.5a.mus` · **State:** completed · **Source run:** `run-7b46db4c3ab8b08aef6612bb62b6c910`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-26T09:24:47.892913+00:00
+- Timing: 2026-10-26T09:24:47.892913+00:00 → 2026-10-26T09:29:02.895369+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
