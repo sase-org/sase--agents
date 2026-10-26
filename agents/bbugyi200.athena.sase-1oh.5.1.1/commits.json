@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-13b75e59a1dfc8197f6ca40493b15242"}
+{"commits":[{"committed_at":1793049006,"sha":"f4591e9106830fb5e558d71f506b4a2d9fe9791b","subject":"feat(agents-sync): add publication protection state"}],"schema_version":2,"source_run_id":"run-13b75e59a1dfc8197f6ca40493b15242"}
