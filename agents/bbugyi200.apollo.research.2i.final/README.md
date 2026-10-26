@@ -24,7 +24,7 @@
 | [research.2i.cdx](../bbugyi200.apollo.research.2i.cdx/README.md) | research.2i hood | completed |
 | [research.2i.cld](../bbugyi200.apollo.research.2i.cld/README.md) | research.2i hood | completed |
 | [research.2i.gem](../bbugyi200.apollo.research.2i.gem/README.md) | research.2i hood | active |
-| [research.2i.grk](../bbugyi200.apollo.research.2i.grk/README.md) | research.2i hood | active |
+| [research.2i.grk](../bbugyi200.apollo.research.2i.grk/README.md) | research.2i hood | completed |
 | [research.2i.image](../bbugyi200.apollo.research.2i.image/README.md) | research.2i hood | waiting |
 | [research.2i.linker](../bbugyi200.apollo.research.2i.linker/README.md) | research.2i hood | waiting |
 | [research.2i.mus](../bbugyi200.apollo.research.2i.mus/README.md) | research.2i hood | completed |
