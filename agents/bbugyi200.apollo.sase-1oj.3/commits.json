@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-eb21c452f961251bfd1b6e316dae15a3"}
+{"commits":[{"committed_at":1793055403,"sha":"60498dcb5ec08bd945a8e89055c74e182065fbab","subject":"docs(rust-backend): point test paths at consolidated integration targets"}],"schema_version":2,"source_run_id":"run-eb21c452f961251bfd1b6e316dae15a3"}

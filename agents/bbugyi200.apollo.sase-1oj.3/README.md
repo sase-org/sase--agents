@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-26T22:10:08.019883+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`60498dc`](https://github.com/sase-org/sase/commit/60498dcb5ec08bd945a8e89055c74e182065fbab) | docs(rust-backend): point test paths at consolidated integration targets | 2026-10-26 18:56:43 EDT |
 
 ## Neighbors
 
