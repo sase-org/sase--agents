@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.2i.cdx
 
-**Global name:** `bbugyi200.apollo.research.2i.cdx` · **State:** active · **Source run:** `run-2f29d240ba323b4d962006d6ad53ecd8`
+**Global name:** `bbugyi200.apollo.research.2i.cdx` · **State:** completed · **Source run:** `run-2f29d240ba323b4d962006d6ad53ecd8`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-26T17:48:45.359191+00:00
+- Timing: 2026-10-26T17:48:45.359191+00:00 → 2026-10-26T18:03:19.036793+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
