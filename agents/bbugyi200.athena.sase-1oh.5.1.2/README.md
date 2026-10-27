@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1oh](../../users/bbugyi200/machines/athena/hoods/sase-1oh/README.md) / sase-1oh.5.1.2
 
-**Global name:** `bbugyi200.athena.sase-1oh.5.1.2` · **State:** waiting · **Source run:** `run-09c81f80551753b222781a35f5e99966`
+**Global name:** `bbugyi200.athena.sase-1oh.5.1.2` · **State:** active · **Source run:** `run-09c81f80551753b222781a35f5e99966`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1oh
 
@@ -12,19 +12,25 @@
 - Epic: [sase-1oh.5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1oh/sase-1oh.5.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261026144700
-- Commits: 0
+- Timing: 2026-10-26T21:13:55.689436+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`67edb96`](https://github.com/sase-org/sase/commit/67edb9677d23a2cdc93b71d944c551336f6416e3) | feat(agents-sync): withhold unsafe transcript bytes without breaking clean publication | 2026-10-26 20:17:10 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1oh.5](../../sessions/bbugyi200.athena.sase-1oh.5.md) (session · 3) | ancestor | failed 3 |
-| [sase-1oh.5.1.1](../bbugyi200.athena.sase-1oh.5.1.1/README.md) | sase-1oh.5.1 hood | active |
+| [sase-1oh.5.1.1](../bbugyi200.athena.sase-1oh.5.1.1/README.md) | sase-1oh.5.1 hood | completed |
 | [sase-1oh.5.1.3](../bbugyi200.athena.sase-1oh.5.1.3/README.md) | sase-1oh.5.1 hood | waiting |
 | [sase-1oh.5.1.4](../bbugyi200.athena.sase-1oh.5.1.4/README.md) | sase-1oh.5.1 hood | waiting |
 | [sase-1oh.5.1.5](../bbugyi200.athena.sase-1oh.5.1.5/README.md) | sase-1oh.5.1 hood | waiting |

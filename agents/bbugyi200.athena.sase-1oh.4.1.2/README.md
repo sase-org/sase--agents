@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-26T19:45:06.130034+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`eb365af`](https://github.com/sase-org/sase/commit/eb365afe30ba8a1b8c5c291f6e0e1be26c999a12) | fix(finalizers): resolve symvision items for failed-close recovery | 2026-10-26 20:18:19 EDT |
 
 ## Neighbors
 
@@ -31,8 +37,8 @@
 | [sase-1oh.2](../bbugyi200.athena.sase-1oh.2/README.md) | sase-1oh hood | completed |
 | [sase-1oh.3](../../sessions/bbugyi200.athena.sase-1oh.3.md) (session · 3) | sase-1oh hood | completed 2, failed 1 |
 | [sase-1oh.5](../../sessions/bbugyi200.athena.sase-1oh.5.md) (session · 3) | sase-1oh hood | failed 3 |
-| [sase-1oh.5.1.1](../bbugyi200.athena.sase-1oh.5.1.1/README.md) | sase-1oh hood | active |
-| [sase-1oh.5.1.2](../bbugyi200.athena.sase-1oh.5.1.2/README.md) | sase-1oh hood | waiting |
+| [sase-1oh.5.1.1](../bbugyi200.athena.sase-1oh.5.1.1/README.md) | sase-1oh hood | completed |
+| [sase-1oh.5.1.2](../bbugyi200.athena.sase-1oh.5.1.2/README.md) | sase-1oh hood | active |
 | [sase-1oh.5.1.3](../bbugyi200.athena.sase-1oh.5.1.3/README.md) | sase-1oh hood | waiting |
 | [sase-1oh.5.1.4](../bbugyi200.athena.sase-1oh.5.1.4/README.md) | sase-1oh hood | waiting |
 | [sase-1oh.5.1.5](../bbugyi200.athena.sase-1oh.5.1.5/README.md) | sase-1oh hood | waiting |

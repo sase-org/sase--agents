@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-09c81f80551753b222781a35f5e99966"}
+{"commits":[{"committed_at":1793060230,"sha":"67edb9677d23a2cdc93b71d944c551336f6416e3","subject":"feat(agents-sync): withhold unsafe transcript bytes without breaking clean publication"}],"schema_version":2,"source_run_id":"run-09c81f80551753b222781a35f5e99966"}
