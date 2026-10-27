@@ -28,7 +28,7 @@
 | [sase-1ou.2](../../sessions/bbugyi200.athena.sase-1ou.2.md) (session · 3) | sase-1ou hood | failed 3 |
 | [sase-1ou.2.1.1](../bbugyi200.athena.sase-1ou.2.1.1/README.md) | sase-1ou hood | completed |
 | [sase-1ou.2.1.2](../../sessions/bbugyi200.athena.sase-1ou.2.1.2.md) (session · 7) | sase-1ou hood | completed 4, failed 3 |
-| [sase-1ou.2.1.land](../../sessions/bbugyi200.athena.sase-1ou.2.1.land.md) (session · 3) | sase-1ou hood | active 1, completed 1, failed 1 |
+| [sase-1ou.2.1.land](../../sessions/bbugyi200.athena.sase-1ou.2.1.land.md) (session · 3) | sase-1ou hood | completed 2, failed 1 |
 | [sase-1ou.3](../../sessions/bbugyi200.athena.sase-1ou.3.md) (session · 7) | sase-1ou hood | completed 4, failed 3 |
 | [sase-1ou.4](../../sessions/bbugyi200.athena.sase-1ou.4.md) (session · 5) | sase-1ou hood | completed 3, failed 2 |
 | [sase-1ou.land](../bbugyi200.athena.sase-1ou.land/README.md) | sase-1ou hood | waiting |

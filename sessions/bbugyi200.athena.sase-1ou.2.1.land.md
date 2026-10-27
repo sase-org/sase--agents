@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1ou` · Members: 3 · Bead: [sase-1ou.2
 
 ```mermaid
 flowchart TD
-  n0["sase-1ou.2.1.land--1 [active]"]
+  n0["sase-1ou.2.1.land--1 [completed]"]
   n1["sase-1ou.2.1.land--plan [completed]"]
   n0 --> n1
   n2["sase-1ou.2.1.land--mon [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-1ou.2.1.land--1 | active | gpt-6-astra / codex | 2026-10-27T22:01:54.073043+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.land--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1ou.2.1.land--1 | completed | gpt-6-astra / codex | 2026-10-27T22:01:54.073043+00:00 → 2026-10-27T22:16:13.026812+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.land--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1ou.2.1.land--plan | completed | gpt-6-astra / codex | 2026-10-27T21:44:54.103409+00:00 → 2026-10-27T21:55:45.117391+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.land--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-1ou.2.1.land--mon | failed | gpt-6-astra / codex | 2026-10-27T21:54:53.983073+00:00 → 2026-10-27T22:00:23.445056+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.land--mon/chat.md) |
 
