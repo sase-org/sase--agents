@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.2k.linker
 
-**Global name:** `bbugyi200.apollo.research.2k.linker` · **State:** waiting · **Source run:** `run-78759121923c19126754ea5c444d6f1d`
+**Global name:** `bbugyi200.apollo.research.2k.linker` · **State:** active · **Source run:** `run-78759121923c19126754ea5c444d6f1d`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,23 +10,41 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261026214653
+- Timing: 2026-10-27T02:51:10.221364+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/conflict\_repair\_xlarge\_routing/conflict\_repair\_xlarge\_routing.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261026214653/conflict\_repair\_xl… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/conflict_repair_xlarge_routing/conflict_repair_xlarge_routing.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261026214653/conflict_repair_xlarge_routing-c4772e84030f.md
+  ref: file:explicit:6d58a5de973f34a002a8eccf
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202610/conflict_repair_xlarge_routing/conflict_repair_xlarge_routing.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.2k.cdx](../bbugyi200.apollo.research.2k.cdx/README.md) | research.2k hood | completed |
-| [research.2k.cld](../bbugyi200.apollo.research.2k.cld/README.md) | research.2k hood | completed |
 | [research.2k.final](../bbugyi200.apollo.research.2k.final/README.md) | research.2k hood | completed |
 | [research.2k.gem](../bbugyi200.apollo.research.2k.gem/README.md) | research.2k hood | completed |
 | [research.2k.grk](../bbugyi200.apollo.research.2k.grk/README.md) | research.2k hood | completed |
-| [research.2k.image](../bbugyi200.apollo.research.2k.image/README.md) | research.2k hood | active |
+| [research.2k.image](../bbugyi200.apollo.research.2k.image/README.md) | research.2k hood | completed |
 | [research.2k.mus](../bbugyi200.apollo.research.2k.mus/README.md) | research.2k hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |

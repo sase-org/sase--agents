@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.2k.image
 
-**Global name:** `bbugyi200.apollo.research.2k.image` · **State:** active · **Source run:** `run-12038b6d9e432b930b0cba98385ab637`
+**Global name:** `bbugyi200.apollo.research.2k.image` · **State:** completed · **Source run:** `run-12038b6d9e432b930b0cba98385ab637`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-27T02:38:34.407431+00:00
+- Timing: 2026-10-27T02:38:34.407431+00:00 → 2026-10-27T02:50:50.157355+00:00
 - Commits: 0
 - Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -57,11 +57,10 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [research.2k.cdx](../bbugyi200.apollo.research.2k.cdx/README.md) | research.2k hood | completed |
-| [research.2k.cld](../bbugyi200.apollo.research.2k.cld/README.md) | research.2k hood | completed |
 | [research.2k.final](../bbugyi200.apollo.research.2k.final/README.md) | research.2k hood | completed |
 | [research.2k.gem](../bbugyi200.apollo.research.2k.gem/README.md) | research.2k hood | completed |
 | [research.2k.grk](../bbugyi200.apollo.research.2k.grk/README.md) | research.2k hood | completed |
-| [research.2k.linker](../bbugyi200.apollo.research.2k.linker/README.md) | research.2k hood | waiting |
+| [research.2k.linker](../bbugyi200.apollo.research.2k.linker/README.md) | research.2k hood | active |
 | [research.2k.mus](../bbugyi200.apollo.research.2k.mus/README.md) | research.2k hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
