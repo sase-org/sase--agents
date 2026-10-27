@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1ou](../../users/bbugyi200/machines/athena/hoods/sase-1ou/README.md) / [sase-1ou.4](../../sessions/bbugyi200.athena.sase-1ou.4.md) / sase-1ou.4--1
 
-**Global name:** `bbugyi200.athena.sase-1ou.4--1` · **State:** waiting · **Source run:** `run-d93f0689bccdfdfbb66e0d341315145f`
+**Global name:** `bbugyi200.athena.sase-1ou.4--1` · **State:** active · **Source run:** `run-d93f0689bccdfdfbb66e0d341315145f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1ou
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1ou.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ou/sase-1ou.4.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261027115711
-- Commits: 0
+- Timing: 2026-10-27T16:07:30.999909+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`691ef46`](https://github.com/sase-org/sase/commit/691ef461533d08759fa6d2fce30eee7bac48bddb) | fix(ace-tui): resolve Files ctrl+j page-anchor scroll race | 2026-10-27 12:12:53 EDT |
 
 ## Neighbors
 
@@ -24,7 +30,7 @@
 |---|---|---|
 | [sase-1ou.1](../bbugyi200.athena.sase-1ou.1/README.md) | sase-1ou hood | completed |
 | [sase-1ou.2](../../sessions/bbugyi200.athena.sase-1ou.2.md) (session · 3) | sase-1ou hood | failed 3 |
-| [sase-1ou.2.1.1](../bbugyi200.athena.sase-1ou.2.1.1/README.md) | sase-1ou hood | active |
+| [sase-1ou.2.1.1](../bbugyi200.athena.sase-1ou.2.1.1/README.md) | sase-1ou hood | completed |
 | [sase-1ou.2.1.2](../bbugyi200.athena.sase-1ou.2.1.2/README.md) | sase-1ou hood | waiting |
 | [sase-1ou.2.1.land](../bbugyi200.athena.sase-1ou.2.1.land/README.md) | sase-1ou hood | waiting |
 | [sase-1ou.3](../../sessions/bbugyi200.athena.sase-1ou.3.md) (session · 5) | sase-1ou hood | active 1, completed 2, failed 2 |
