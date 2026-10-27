@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-38c59099c9d09887ed889b1afe8e8e2b"}
+{"commits":[{"committed_at":1793129176,"sha":"daa96a5bd05c2eb23c8ce23e3dccb67af8b1afb0","subject":"feat(cli): give sase agent load the inspector's tiered capacity view"}],"schema_version":2,"source_run_id":"run-38c59099c9d09887ed889b1afe8e8e2b"}

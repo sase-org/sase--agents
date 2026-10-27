@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1ox.2--mon [failed]"]
   n1["sase-1ox.2--plan [completed]"]
   n0 --> n1
-  n2["sase-1ox.2--1 [active]"]
+  n2["sase-1ox.2--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-1ox.2--mon | failed | gpt-6-luna / codex | 2026-10-27T18:23:06.806363+00:00 → 2026-10-27T18:25:37.068072+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ox.2--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1ox.2--plan | completed | gpt-6-luna / codex | 2026-10-27T18:11:37.116386+00:00 → 2026-10-27T18:23:53.637726+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ox.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ox.2--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-1ox.2--1 | active | gpt-6-luna / codex | 2026-10-27T18:26:54.216891+00:00 | [1](../agents/bbugyi200.athena.sase-1ox.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1ox.2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1ox.2--1 | completed | gpt-6-luna / codex | 2026-10-27T18:26:54.216891+00:00 → 2026-10-27T19:00:22.386698+00:00 | [1](../agents/bbugyi200.athena.sase-1ox.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1ox.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ox.2--1/chat.md) |
 
 ## Commits
 
@@ -34,5 +34,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1ox.1](bbugyi200.athena.sase-1ox.1.md) (session · 9) | sase-1ox hood | completed 5, failed 4 |
-| [sase-1ox.3](../agents/bbugyi200.athena.sase-1ox.3/README.md) | sase-1ox hood | waiting |
+| [sase-1ox.3](../agents/bbugyi200.athena.sase-1ox.3/README.md) | sase-1ox hood | active |
 | [sase-1ox.land](../agents/bbugyi200.athena.sase-1ox.land/README.md) | sase-1ox hood | waiting |
