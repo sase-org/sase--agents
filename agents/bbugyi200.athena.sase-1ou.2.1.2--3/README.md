@@ -12,12 +12,18 @@
 - Model: gpt-6-astra
 - Provider: codex
 - Timing: 2026-10-27T21:27:26.869294+00:00
-- Commits: 0
+- Commits: [1](#commits)
 - Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`57d5f41`](https://github.com/sase-org/sase/commit/57d5f411e41e543ffa10d9a91ab45fd66f62ebb6) | fix(tool): delegate default contention budgets to Rust | 2026-10-27 17:40:35 EDT |
 
 ## Variables
 

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2a4db04613c4506203802d5864c6c291"}
+{"commits":[{"committed_at":1793137235,"sha":"57d5f411e41e543ffa10d9a91ab45fd66f62ebb6","subject":"fix(tool): delegate default contention budgets to Rust"}],"schema_version":2,"source_run_id":"run-2a4db04613c4506203802d5864c6c291"}

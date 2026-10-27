@@ -28,12 +28,18 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon-0"></a>mon-0 | sase-1ou.2.1.2--mon-0 | failed | gpt-6-astra / codex | 2026-10-27T19:19:27.384779+00:00 → 2026-10-27T19:31:41.303203+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--mon-0/chat.md) |
-| <a id="member-3"></a>3 | sase-1ou.2.1.2--3 | active | gpt-6-astra / codex | 2026-10-27T21:27:26.869294+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.2--3/prompt.md) | — |
+| <a id="member-3"></a>3 | sase-1ou.2.1.2--3 | active | gpt-6-astra / codex | 2026-10-27T21:27:26.869294+00:00 | [1](../agents/bbugyi200.athena.sase-1ou.2.1.2--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.2--3/prompt.md) | — |
 | <a id="member-mon"></a>mon | sase-1ou.2.1.2--mon | failed | gpt-6-astra / codex | 2026-10-27T18:50:46.745381+00:00 → 2026-10-27T19:01:35.393579+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--mon/chat.md) |
 | <a id="member-1"></a>1 | sase-1ou.2.1.2--1 | completed | gpt-6-astra / codex | 2026-10-27T19:02:54.103609+00:00 → 2026-10-27T19:20:04.769794+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--1/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-1ou.2.1.2--mon-1 | failed | gpt-6-astra / codex | 2026-10-27T20:23:52.246269+00:00 → 2026-10-27T21:25:54.784592+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--mon-1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1ou.2.1.2--plan | completed | gpt-6-astra / codex | 2026-10-27T18:37:56.080151+00:00 → 2026-10-27T18:51:22.187236+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--plan/chat.md) |
 | <a id="member-2"></a>2 | sase-1ou.2.1.2--2 | completed | gpt-6-astra / codex | 2026-10-27T19:33:05.138708+00:00 → 2026-10-27T20:25:22.908890+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.2--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--2/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 3 | sase | [`57d5f41`](https://github.com/sase-org/sase/commit/57d5f411e41e543ffa10d9a91ab45fd66f62ebb6) | fix(tool): delegate default contention budgets to Rust | 2026-10-27 17:40:35 EDT |
 
 ## Variables
 
