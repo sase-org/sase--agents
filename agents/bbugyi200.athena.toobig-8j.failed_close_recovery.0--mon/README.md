@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8j.test\_finalizers\_failed\_close\_recovery.0](../bbugyi200.athena.toobig-8j.test_finalizers_failed_close_recovery.0/README.md) | toobig-8j hood | waiting |
+| [toobig-8j.test\_finalizers\_failed\_close\_recovery.0](../../sessions/bbugyi200.athena.toobig-8j.test_finalizers_failed_close_recovery.0.md) (session · 3) | toobig-8j hood | active 1, completed 1, failed 1 |
