@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1oh](../../users/bbugyi200/machines/athena/hoods/sase-1oh/README.md) / sase-1oh.5.1.land
 
-**Global name:** `bbugyi200.athena.sase-1oh.5.1.land` · **State:** waiting · **Source run:** `run-e3130f580fc0f8ca531bbaeeeb139765`
+**Global name:** `bbugyi200.athena.sase-1oh.5.1.land` · **State:** completed · **Source run:** `run-136e2fd19ba263cf6d2ce7e89fc62ffb`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1oh
 
@@ -11,12 +11,12 @@
 - Bead: [sase-1oh.5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1oh/sase-1oh.5.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261026144704
+- Timing: 2026-10-27T12:37:39.527108+00:00 → 2026-10-27T12:44:44.185698+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -27,13 +27,15 @@
 | [sase-1oh.5.1.2](../bbugyi200.athena.sase-1oh.5.1.2/README.md) | sase-1oh.5.1 hood | completed |
 | [sase-1oh.5.1.3](../bbugyi200.athena.sase-1oh.5.1.3/README.md) | sase-1oh.5.1 hood | completed |
 | [sase-1oh.5.1.4](../../sessions/bbugyi200.athena.sase-1oh.5.1.4.md) (session · 5) | sase-1oh.5.1 hood | completed 3, failed 2 |
-| [sase-1oh.5.1.5](../bbugyi200.athena.sase-1oh.5.1.5/README.md) | sase-1oh.5.1 hood | active |
+| [sase-1oh.5.1.5](../../sessions/bbugyi200.athena.sase-1oh.5.1.5.md) (session · 3) | sase-1oh.5.1 hood | completed 2, failed 1 |
+| [sase-1oh.5.1.land--3--code](../bbugyi200.athena.sase-1oh.5.1.land--3--code/README.md) | sase-1oh.5.1 hood | completed |
+| [sase-1oh.5.1.land--3--plan](../bbugyi200.athena.sase-1oh.5.1.land--3--plan/README.md) | sase-1oh.5.1 hood | active |
 | [sase-1oh.1](../bbugyi200.athena.sase-1oh.1/README.md) | sase-1oh hood | completed |
 | [sase-1oh.2](../bbugyi200.athena.sase-1oh.2/README.md) | sase-1oh hood | completed |
 | [sase-1oh.3](../../sessions/bbugyi200.athena.sase-1oh.3.md) (session · 3) | sase-1oh hood | completed 2, failed 1 |
 | [sase-1oh.4](../../sessions/bbugyi200.athena.sase-1oh.4.md) (session · 3) | sase-1oh hood | failed 3 |
-| [sase-1oh.4.1.1](../bbugyi200.athena.sase-1oh.4.1.1/README.md) | sase-1oh hood | completed |
-| [sase-1oh.4.1.2](../bbugyi200.athena.sase-1oh.4.1.2/README.md) | sase-1oh hood | completed |
-| [sase-1oh.4.1.3](../bbugyi200.athena.sase-1oh.4.1.3/README.md) | sase-1oh hood | completed |
-| [sase-1oh.4.1.land](../../sessions/bbugyi200.athena.sase-1oh.4.1.land.md) (session · 3) | sase-1oh hood | completed 2, failed 1 |
-| [sase-1oh.land](../bbugyi200.athena.sase-1oh.land/README.md) | sase-1oh hood | waiting |
+| [sase-1oh.4.1.1](../bbugyi200.athena.sase-1oh.4.1.1/README.md) | sase-1oh hood | active |
+| [sase-1oh.4.1.2](../bbugyi200.athena.sase-1oh.4.1.2/README.md) | sase-1oh hood | active |
+| [sase-1oh.4.1.3](../bbugyi200.athena.sase-1oh.4.1.3/README.md) | sase-1oh hood | active |
+| [sase-1oh.4.1.land](../../sessions/bbugyi200.athena.sase-1oh.4.1.land.md) (session · 3) | sase-1oh hood | active 2, completed 1 |
+| [sase-1oh.land](../../sessions/bbugyi200.athena.sase-1oh.land.md) (session · 5) | sase-1oh hood | completed 1, failed 4 |

@@ -1,0 +1,35 @@
+# Agent: sase-1ou.5--mon
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1ou](../../users/bbugyi200/machines/athena/hoods/sase-1ou/README.md) / [sase-1ou.5](../../sessions/bbugyi200.athena.sase-1ou.5.md) / sase-1ou.5--mon
+
+**Global name:** `bbugyi200.athena.sase-1ou.5--mon` · **State:** failed · **Source run:** `run-624709051d5d43545fe631e146874567`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1ou
+
+## Summary
+
+- Bead: [sase-1ou.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ou/sase-1ou.5.md)
+- Epic: [sase-1ou](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ou/README.md)
+- Model: gpt-6-astra
+- Provider: codex
+- Timing: 2026-10-27T13:36:40.155022+00:00 → 2026-10-27T13:39:51.550654+00:00
+- Commits: 0
+
+## Files
+
+[Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-1ou.5.1.1](../bbugyi200.athena.sase-1ou.5.1.1/README.md) | descendant | completed |
+| [sase-1ou.5.1.2](../bbugyi200.athena.sase-1ou.5.1.2/README.md) | descendant | completed |
+| [sase-1ou.5.1.3](../bbugyi200.athena.sase-1ou.5.1.3/README.md) | descendant | active |
+| [sase-1ou.5.1.4](../bbugyi200.athena.sase-1ou.5.1.4/README.md) | descendant | waiting |
+| [sase-1ou.5.1.land](../bbugyi200.athena.sase-1ou.5.1.land/README.md) | descendant | waiting |
+| [sase-1ou.1](../bbugyi200.athena.sase-1ou.1/README.md) | sase-1ou hood | active |
+| [sase-1ou.2](../bbugyi200.athena.sase-1ou.2/README.md) | sase-1ou hood | waiting |
+| [sase-1ou.3](../bbugyi200.athena.sase-1ou.3/README.md) | sase-1ou hood | waiting |
+| [sase-1ou.4](../bbugyi200.athena.sase-1ou.4/README.md) | sase-1ou hood | waiting |
+| [sase-1ou.land](../bbugyi200.athena.sase-1ou.land/README.md) | sase-1ou hood | waiting |
