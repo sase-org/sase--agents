@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-1ok.land--code | active | grok-4.6 / grok | 2026-10-27T02:14:29.436684+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-1ok.land--code | active | grok-4.6 / grok | 2026-10-27T02:14:29.436684+00:00 | [1](../agents/bbugyi200.athena.sase-1ok.land--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-1ok.land--plan | active | gpt-6-astra / codex | 2026-10-27T01:53:39.086729+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ok.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ok.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-1ok.land--gate | failed | gpt-6-astra / codex | 2026-10-27T02:12:51.323705+00:00 → 2026-10-27T02:13:49.381827+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ok.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`c74a32c`](https://github.com/sase-org/sase/commit/c74a32c5c46afb1687751df2d0e0068dc6353596) | fix(wait-checks): dismiss stranded-bead alerts after external waiter release | 2026-10-26 23:05:05 EDT |
 
 ## Neighbors
 
