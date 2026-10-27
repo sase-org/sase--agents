@@ -11,7 +11,13 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-10-27T10:07:09.194878+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`c687d8b`](https://github.com/sase-org/sase/commit/c687d8b6ebba66fc41a3ba600ba789af9cfcdc93) | fix(agents-sync): park withheld publications without charging quarantine | 2026-10-27 07:33:19 EDT |
 
 ## Neighbors
 
