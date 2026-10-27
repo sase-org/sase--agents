@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-26T22:16:37.461121+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`98cb07e`](https://github.com/sase-org/sase/commit/98cb07ebb8f56aedc9d5f9c044687c8ee342d93a) | fix(stranded): find single-turn root members via any(session, name) query | 2026-10-26 20:36:55 EDT |
 
 ## Neighbors
 
