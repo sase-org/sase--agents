@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-1oi.3--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-27T03:42:30.294873+00:00 → 2026-10-27T04:20:36.844210+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1oi.3--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-1oi.3--1 | active | muse-spark-1.3-contributor / muse | 2026-10-27T04:22:20.481026+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1oi.3--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1oi.3--1 | active | muse-spark-1.3-contributor / muse | 2026-10-27T04:22:20.481026+00:00 | [1](../agents/bbugyi200.athena.sase-1oi.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1oi.3--1/prompt.md) | — |
 | <a id="member-plan"></a>plan | sase-1oi.3--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-27T03:14:08.150511+00:00 → 2026-10-27T03:44:52.913252+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1oi.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1oi.3--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`260b9ca`](https://github.com/sase-org/sase/commit/260b9caa3fccf9e9be33fb04bdb7c48d9bfc2473) | feat(muse-provider): add 1.4.13 live-capture fixtures and replay test | 2026-10-27 00:26:26 EDT |
 
 ## Neighbors
 

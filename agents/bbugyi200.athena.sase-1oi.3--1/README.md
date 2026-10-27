@@ -12,11 +12,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-27T04:22:20.481026+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`260b9ca`](https://github.com/sase-org/sase/commit/260b9caa3fccf9e9be33fb04bdb7c48d9bfc2473) | feat(muse-provider): add 1.4.13 live-capture fixtures and replay test | 2026-10-27 00:26:26 EDT |
 
 ## Neighbors
 
