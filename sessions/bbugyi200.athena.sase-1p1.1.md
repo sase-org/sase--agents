@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1p1.1--plan [completed]"]
   n1["sase-1p1.1--mon [failed]"]
   n0 --> n1
-  n2["sase-1p1.1--1 [active]"]
+  n2["sase-1p1.1--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-1p1.1--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-27T19:25:55.323092+00:00 → 2026-10-27T20:29:51.104483+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1p1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1p1.1--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-1p1.1--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-27T20:26:37.995673+00:00 → 2026-10-27T20:42:48.496566+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1p1.1--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-1p1.1--1 | active | muse-spark-1.3-contributor / muse | 2026-10-27T20:44:36.832916+00:00 | [1](../agents/bbugyi200.athena.sase-1p1.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1p1.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1p1.1--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-27T20:44:36.832916+00:00 → 2026-10-27T20:58:40.170521+00:00 | [1](../agents/bbugyi200.athena.sase-1p1.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1p1.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1p1.1--1/chat.md) |
 
 ## Commits
 
@@ -38,7 +38,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1p1.12](../agents/bbugyi200.athena.sase-1p1.12/README.md) | sase-1p1 hood | waiting |
 | [sase-1p1.13](../agents/bbugyi200.athena.sase-1p1.13/README.md) | sase-1p1 hood | waiting |
 | [sase-1p1.2](../agents/bbugyi200.athena.sase-1p1.2/README.md) | sase-1p1 hood | active |
-| [sase-1p1.3](../agents/bbugyi200.athena.sase-1p1.3/README.md) | sase-1p1 hood | waiting |
+| [sase-1p1.3](bbugyi200.athena.sase-1p1.3.md) (session · 2) | sase-1p1 hood | active 1, completed 1 |
 | [sase-1p1.4](../agents/bbugyi200.athena.sase-1p1.4/README.md) | sase-1p1 hood | waiting |
 | [sase-1p1.5](../agents/bbugyi200.athena.sase-1p1.5/README.md) | sase-1p1 hood | waiting |
 | [sase-1p1.6](../agents/bbugyi200.athena.sase-1p1.6/README.md) | sase-1p1 hood | waiting |
