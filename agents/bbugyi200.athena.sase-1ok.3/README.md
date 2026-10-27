@@ -25,5 +25,5 @@
 |---|---|---|
 | [sase-1ok.1](../bbugyi200.athena.sase-1ok.1/README.md) | sase-1ok hood | active |
 | [sase-1ok.2](../bbugyi200.athena.sase-1ok.2/README.md) | sase-1ok hood | waiting |
-| [sase-1ok.4](../bbugyi200.athena.sase-1ok.4/README.md) | sase-1ok hood | active |
+| [sase-1ok.4](../bbugyi200.athena.sase-1ok.4/README.md) | sase-1ok hood | completed |
 | [sase-1ok.land](../bbugyi200.athena.sase-1ok.land/README.md) | sase-1ok hood | waiting |
