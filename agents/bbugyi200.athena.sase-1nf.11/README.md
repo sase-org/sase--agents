@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nf](../../users/bbugyi200/machines/athena/hoods/sase-1nf/README.md) / sase-1nf.11
 
-**Global name:** `bbugyi200.athena.sase-1nf.11` · **State:** waiting · **Source run:** `run-96e38f65ed0385788336a67eb1c5aa7b`
+**Global name:** `bbugyi200.athena.sase-1nf.11` · **State:** waiting · **Source run:** `run-f4e70a3dca8afe8b8546f26cedafd57d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nf
 
 ## Summary
 
 - Bead: [sase-1nf.11](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.11.md)
-- Epic: [sase-1nf](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/README.md)
-- Model: gpt-6-luna
-- Provider: codex
-- Timing: 20261020133817
+- Model: grok-4.6
+- Provider: grok
+- Timing: 20261027084942
 - Commits: 0
 
 ## Files

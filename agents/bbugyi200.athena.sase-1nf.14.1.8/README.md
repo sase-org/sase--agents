@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nf](../../users/bbugyi200/machines/athena/hoods/sase-1nf/README.md) / sase-1nf.14.1.8
 
-**Global name:** `bbugyi200.athena.sase-1nf.14.1.8` · **State:** waiting · **Source run:** `run-975436532493d442bda79a5699ee2e7d`
+**Global name:** `bbugyi200.athena.sase-1nf.14.1.8` · **State:** waiting · **Source run:** `run-a1b790079bcfe587cc5ef13000bce9ae`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nf
 
 ## Summary
 
 - Bead: [sase-1nf.14.1.8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.14.1.8.md)
-- Epic: [sase-1nf.14.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.14.1.md)
-- Model: muse-spark-1.3-contributor
-- Provider: muse
-- Timing: 20261024133919
+- Model: grok-4.6
+- Provider: grok
+- Timing: 20261027083207
 - Commits: 0
 
 ## Files
