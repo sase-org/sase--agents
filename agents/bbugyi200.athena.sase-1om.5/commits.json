@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-fdd9a876f74c14a011c551512c937b02"}
+{"commits":[{"committed_at":1793076581,"sha":"e2b04a88e2a3653e2ce02c08ff30387cb4e083a5","subject":"feat(agents): source list occupancy from Rust accounting"}],"schema_version":2,"source_run_id":"run-fdd9a876f74c14a011c551512c937b02"}

@@ -25,10 +25,10 @@
 |---|---|---|
 | [sase-1om.1](../../sessions/bbugyi200.athena.sase-1om.1.md) (session · 3) | sase-1om hood | completed 2, failed 1 |
 | [sase-1om.2](../../sessions/bbugyi200.athena.sase-1om.2.md) (session · 3) | sase-1om hood | completed 2, failed 1 |
-| [sase-1om.3](../bbugyi200.athena.sase-1om.3/README.md) | sase-1om hood | active |
-| [sase-1om.4](../bbugyi200.athena.sase-1om.4/README.md) | sase-1om hood | waiting |
-| [sase-1om.5](../bbugyi200.athena.sase-1om.5/README.md) | sase-1om hood | waiting |
-| [sase-1om.6](../bbugyi200.athena.sase-1om.6/README.md) | sase-1om hood | waiting |
+| [sase-1om.3](../bbugyi200.athena.sase-1om.3/README.md) | sase-1om hood | completed |
+| [sase-1om.4](../bbugyi200.athena.sase-1om.4/README.md) | sase-1om hood | active |
+| [sase-1om.5](../bbugyi200.athena.sase-1om.5/README.md) | sase-1om hood | completed |
+| [sase-1om.6](../../sessions/bbugyi200.athena.sase-1om.6.md) (session · 3) | sase-1om hood | active 1, completed 1, failed 1 |
 | [sase-1om.7](../bbugyi200.athena.sase-1om.7/README.md) | sase-1om hood | waiting |
 | [sase-1om.9](../bbugyi200.athena.sase-1om.9/README.md) | sase-1om hood | waiting |
 | [sase-1om.land](../bbugyi200.athena.sase-1om.land/README.md) | sase-1om hood | waiting |
