@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8k](../../users/bbugyi200/machines/athena/hoods/toobig-8k/README.md) / toobig-8k.cli\_query.0
 
-**Global name:** `bbugyi200.athena.toobig-8k.cli_query.0` · **State:** active · **Source run:** `run-394d12569af66cfa574640f3ce67e253`
+**Global name:** `bbugyi200.athena.toobig-8k.cli_query.0` · **State:** completed · **Source run:** `run-394d12569af66cfa574640f3ce67e253`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8k
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-27T05:41:13.406183+00:00
+- Timing: 2026-10-27T05:41:13.406183+00:00 → 2026-10-27T06:46:46.601521+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8k.test\_finalizers\_failed\_close\_recovery.0](../bbugyi200.athena.toobig-8k.test_finalizers_failed_close_recovery.0/README.md) | toobig-8k hood | waiting |
+| [toobig-8k.test\_finalizers\_failed\_close\_recovery.0](../bbugyi200.athena.toobig-8k.test_finalizers_failed_close_recovery.0/README.md) | toobig-8k hood | active |
