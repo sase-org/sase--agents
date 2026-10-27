@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.2k.image
 
-**Global name:** `bbugyi200.apollo.research.2k.image` · **State:** waiting · **Source run:** `run-12038b6d9e432b930b0cba98385ab637`
+**Global name:** `bbugyi200.apollo.research.2k.image` · **State:** active · **Source run:** `run-12038b6d9e432b930b0cba98385ab637`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261026214652
+- Timing: 2026-10-27T02:38:34.407431+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202610/conflict\_repair\_xlarge\_routing/conflict\_repair\_xlarge\_routing\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261026214652/confl… |
+| `diagrams` | {considered: 13, count: 1, manifest: 202610/conflict\_repair\_xlarge\_routing/conflict\_repair\_xlarge\_routing.diagrams.md, source\_ref: file:explicit:3b8b830c4f2ae8250b05d69d, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202610/conflict_repair_xlarge_routing/conflict_repair_xlarge_routing_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261026214652/conflict_repair_xlarge_routing_infographic-97ab35ad2930.png
+  ref: file:explicit:8ebc7732171c9cbf9e1e1da0
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/conflict_repair_xlarge_routing/conflict_repair_xlarge_routing_infographic.png
+- kind: markdown
+  label: diagrams:202610/conflict_repair_xlarge_routing/conflict_repair_xlarge_routing.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261026214652/conflict_repair_xlarge_routing.diagrams-194293695a41.md
+  ref: file:explicit:41f22a2856052ada589b5384
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202610/conflict_repair_xlarge_routing/conflict_repair_xlarge_routing.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 13
+count: 1
+manifest: 202610/conflict_repair_xlarge_routing/conflict_repair_xlarge_routing.diagrams.md
+source_ref: file:explicit:3b8b830c4f2ae8250b05d69d
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +58,7 @@
 |---|---|---|
 | [research.2k.cdx](../bbugyi200.apollo.research.2k.cdx/README.md) | research.2k hood | completed |
 | [research.2k.cld](../bbugyi200.apollo.research.2k.cld/README.md) | research.2k hood | completed |
-| [research.2k.final](../bbugyi200.apollo.research.2k.final/README.md) | research.2k hood | active |
+| [research.2k.final](../bbugyi200.apollo.research.2k.final/README.md) | research.2k hood | completed |
 | [research.2k.gem](../bbugyi200.apollo.research.2k.gem/README.md) | research.2k hood | completed |
 | [research.2k.grk](../bbugyi200.apollo.research.2k.grk/README.md) | research.2k hood | completed |
 | [research.2k.linker](../bbugyi200.apollo.research.2k.linker/README.md) | research.2k hood | waiting |
