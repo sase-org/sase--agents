@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1oi](../../users/bbugyi200/machines/athena/hoods/sase-1oi/README.md) / sase-1oi.1
 
-**Global name:** `bbugyi200.athena.sase-1oi.1` · **State:** active · **Source run:** `run-a205893b275dd8a650ea2ccd3862c219`
+**Global name:** `bbugyi200.athena.sase-1oi.1` · **State:** completed · **Source run:** `run-a205893b275dd8a650ea2ccd3862c219`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1oi
 
@@ -12,12 +12,12 @@
 - Epic: [sase-1oi](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1oi/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-26T21:57:18.916255+00:00
+- Timing: 2026-10-26T21:57:18.916255+00:00 → 2026-10-27T03:13:17.079912+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,6 +29,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1oi.2](../bbugyi200.athena.sase-1oi.2/README.md) | sase-1oi hood | waiting |
-| [sase-1oi.3](../bbugyi200.athena.sase-1oi.3/README.md) | sase-1oi hood | waiting |
+| [sase-1oi.2](../bbugyi200.athena.sase-1oi.2/README.md) | sase-1oi hood | active |
+| [sase-1oi.3](../../sessions/bbugyi200.athena.sase-1oi.3.md) (session · 3) | sase-1oi hood | active 1, completed 1, failed 1 |
 | [sase-1oi.land](../bbugyi200.athena.sase-1oi.land/README.md) | sase-1oi hood | waiting |
