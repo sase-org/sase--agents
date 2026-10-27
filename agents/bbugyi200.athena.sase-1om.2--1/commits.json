@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4586bd2eb3a876b8fa4c06034f9e6d59"}
+{"commits":[{"committed_at":1793068473,"sha":"4a64ff9a28e859e92badc9eb6206a78555ccccfd","subject":"feat: adapt record builders for core capacity accounting"}],"schema_version":2,"source_run_id":"run-4586bd2eb3a876b8fa4c06034f9e6d59"}

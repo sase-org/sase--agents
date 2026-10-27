@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1om](../../users/bbugyi200/machines/athena/hoods/sase-1om/README.md) / [sase-1om.1](../../sessions/bbugyi200.athena.sase-1om.1.md) / sase-1om.1--1
 
-**Global name:** `bbugyi200.athena.sase-1om.1--1` · **State:** active · **Source run:** `run-e7fab7613e2ba4c4a0d54f0d7353b89f`
+**Global name:** `bbugyi200.athena.sase-1om.1--1` · **State:** completed · **Source run:** `run-e7fab7613e2ba4c4a0d54f0d7353b89f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1om
 
@@ -11,12 +11,12 @@
 - Bead: [sase-1om.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1om/sase-1om.1.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-27T01:46:25.466299+00:00
+- Timing: 2026-10-27T01:46:25.466299+00:00 → 2026-10-27T01:53:46.216179+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 

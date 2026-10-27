@@ -12,17 +12,23 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-27T01:29:42.690837+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`4a64ff9`](https://github.com/sase-org/sase/commit/4a64ff9a28e859e92badc9eb6206a78555ccccfd) | feat: adapt record builders for core capacity accounting | 2026-10-26 22:34:33 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1om.1](../../sessions/bbugyi200.athena.sase-1om.1.md) (session · 3) | sase-1om hood | active 1, completed 1, failed 1 |
+| [sase-1om.1](../../sessions/bbugyi200.athena.sase-1om.1.md) (session · 3) | sase-1om hood | completed 2, failed 1 |
 | [sase-1om.3](../bbugyi200.athena.sase-1om.3/README.md) | sase-1om hood | waiting |
 | [sase-1om.4](../bbugyi200.athena.sase-1om.4/README.md) | sase-1om hood | waiting |
 | [sase-1om.5](../bbugyi200.athena.sase-1om.5/README.md) | sase-1om hood | waiting |
