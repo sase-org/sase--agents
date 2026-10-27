@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8j.failed\_close\_recovery.0](../../sessions/bbugyi200.athena.toobig-8j.failed_close_recovery.0.md) (session · 2) | toobig-8j hood | active 1, completed 1 |
+| [toobig-8j.failed\_close\_recovery.0](../../sessions/bbugyi200.athena.toobig-8j.failed_close_recovery.0.md) (session · 3) | toobig-8j hood | completed 2, failed 1 |

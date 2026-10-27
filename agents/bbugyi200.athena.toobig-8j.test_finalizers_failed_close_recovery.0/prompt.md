@@ -1,6 +1,6 @@
+%auto
 %id(test_finalizers_failed_close_recovery.0, clan=toobig-8j)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/test_finalizers_failed_close_recovery.py` file into multiple files? Use your best
 %wait:toobig-8j.failed_close_recovery.0

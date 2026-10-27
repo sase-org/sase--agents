@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a5c0026203b82861d5503732f8945987"}
+{"commits":[{"committed_at":1793074721,"sha":"dd9e740aec9bfb6efaf3ed26d59d8116d444760a","subject":"feat(runner-slots): add read-only machine capacity report"}],"schema_version":2,"source_run_id":"run-a5c0026203b82861d5503732f8945987"}
