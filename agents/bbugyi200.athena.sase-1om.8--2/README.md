@@ -12,11 +12,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-27T08:33:56.901799+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`212a476`](https://github.com/sase-org/sase/commit/212a4767861c1a796aa1ba46bdfa6888f3edf808) | feat(ace): add agent capacity accounting and occupancy marks | 2026-10-27 05:40:30 EDT |
 
 ## Neighbors
 
@@ -28,6 +34,6 @@
 | [sase-1om.4](../bbugyi200.athena.sase-1om.4/README.md) | sase-1om hood | completed |
 | [sase-1om.5](../bbugyi200.athena.sase-1om.5/README.md) | sase-1om hood | completed |
 | [sase-1om.6](../../sessions/bbugyi200.athena.sase-1om.6.md) (session · 5) | sase-1om hood | completed 3, failed 2 |
-| [sase-1om.7](../../sessions/bbugyi200.athena.sase-1om.7.md) (session · 4) | sase-1om hood | active 1, completed 2, failed 1 |
-| [sase-1om.9](../bbugyi200.athena.sase-1om.9/README.md) | sase-1om hood | waiting |
+| [sase-1om.7](../../sessions/bbugyi200.athena.sase-1om.7.md) (session · 5) | sase-1om hood | completed 3, failed 2 |
+| [sase-1om.9](../../sessions/bbugyi200.athena.sase-1om.9.md) (session · 3) | sase-1om hood | active 1, completed 1, failed 1 |
 | [sase-1om.land](../bbugyi200.athena.sase-1om.land/README.md) | sase-1om hood | waiting |

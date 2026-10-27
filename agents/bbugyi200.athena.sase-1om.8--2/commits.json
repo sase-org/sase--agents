@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b1562db04505bb6d064603da9e841226"}
+{"commits":[{"committed_at":1793094030,"sha":"212a4767861c1a796aa1ba46bdfa6888f3edf808","subject":"feat(ace): add agent capacity accounting and occupancy marks"}],"schema_version":2,"source_run_id":"run-b1562db04505bb6d064603da9e841226"}
