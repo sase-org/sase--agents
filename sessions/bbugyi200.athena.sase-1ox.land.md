@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-1ox` · Members: 3 · Bead: [sase-1ox](
 
 ```mermaid
 flowchart TD
-  n0["sase-1ox.land--plan [active]"]
+  n0["sase-1ox.land--plan [completed]"]
   n1["sase-1ox.land--gate [failed]"]
   n0 --> n1
-  n2["sase-1ox.land--code [active]"]
+  n2["sase-1ox.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-1ox.land--plan | active | gpt-6-astra / codex | 2026-10-27T19:32:02.978622+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ox.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ox.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-1ox.land--plan | completed | gpt-6-astra / codex | 2026-10-27T19:32:02.978622+00:00 → 2026-10-27T20:32:59.567941+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ox.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ox.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-1ox.land--gate | failed | gpt-6-astra / codex | 2026-10-27T19:43:42.362419+00:00 → 2026-10-27T19:44:20.207934+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ox.land--gate/chat.md) |
-| <a id="member-code"></a>code | sase-1ox.land--code | active | grok-4.6 / grok | 2026-10-27T19:45:04.825223+00:00 | [1](../agents/bbugyi200.athena.sase-1ox.land--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | sase-1ox.land--code | completed | grok-4.6 / grok | 2026-10-27T19:45:04.825223+00:00 → 2026-10-27T20:32:59.567941+00:00 | [1](../agents/bbugyi200.athena.sase-1ox.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-1ox.land--code/chat.md) |
 
 ## Commits
 

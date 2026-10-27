@@ -53,4 +53,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1ox.2](bbugyi200.athena.sase-1ox.2.md) (session · 3) | sase-1ox hood | completed 2, failed 1 |
 | [sase-1ox.3](../agents/bbugyi200.athena.sase-1ox.3/README.md) | sase-1ox hood | completed |
-| [sase-1ox.land](bbugyi200.athena.sase-1ox.land.md) (session · 3) | sase-1ox hood | active 2, failed 1 |
+| [sase-1ox.land](bbugyi200.athena.sase-1ox.land.md) (session · 3) | sase-1ox hood | completed 2, failed 1 |

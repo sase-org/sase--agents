@@ -24,4 +24,4 @@
 |---|---|---|
 | [sase-1ox.2](../../sessions/bbugyi200.athena.sase-1ox.2.md) (session · 3) | sase-1ox hood | completed 2, failed 1 |
 | [sase-1ox.3](../bbugyi200.athena.sase-1ox.3/README.md) | sase-1ox hood | completed |
-| [sase-1ox.land](../../sessions/bbugyi200.athena.sase-1ox.land.md) (session · 3) | sase-1ox hood | active 2, failed 1 |
+| [sase-1ox.land](../../sessions/bbugyi200.athena.sase-1ox.land.md) (session · 3) | sase-1ox hood | completed 2, failed 1 |

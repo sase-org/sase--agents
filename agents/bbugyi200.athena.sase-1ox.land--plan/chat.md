@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** sase-1ox.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_sase_org__sase-ace_run-sase_1ox_land__plan-261027_105005.md`
+- 2. --code — `~/.sase/chats/202610/gh_sase_org__sase-ace_run-sase_1ox_land__code-261027_105005.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/capacity_inspector_landing.md
 
 
