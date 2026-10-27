@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["sase-1ox.1--mon [failed]"]
   n0 --> n3
-  n4["sase-1ox.1--4 [active]"]
+  n4["sase-1ox.1--4 [completed]"]
   n0 --> n4
   n5["sase-1ox.1--mon-1 [failed]"]
   n0 --> n5
@@ -35,7 +35,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-2"></a>mon-2 | sase-1ox.1--mon-2 | failed | grok-4.6 / grok | 2026-10-27T17:37:04.257858+00:00 → 2026-10-27T17:58:18.543985+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ox.1--mon-2/chat.md) |
 | <a id="member-1"></a>1 | sase-1ox.1--1 | completed | grok-4.6 / grok | 2026-10-27T15:38:55.541385+00:00 → 2026-10-27T15:48:11.374623+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ox.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ox.1--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-1ox.1--mon | failed | grok-4.6 / grok | 2026-10-27T15:16:32.581178+00:00 → 2026-10-27T15:23:44.578327+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ox.1--mon/chat.md) |
-| <a id="member-4"></a>4 | sase-1ox.1--4 | active | grok-4.6 / grok | 2026-10-27T17:59:46.486301+00:00 | [1](../agents/bbugyi200.athena.sase-1ox.1--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1ox.1--4/prompt.md) | — |
+| <a id="member-4"></a>4 | sase-1ox.1--4 | completed | grok-4.6 / grok | 2026-10-27T17:59:46.486301+00:00 → 2026-10-27T18:10:35.698772+00:00 | [1](../agents/bbugyi200.athena.sase-1ox.1--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1ox.1--4/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ox.1--4/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-1ox.1--mon-1 | failed | grok-4.6 / grok | 2026-10-27T16:30:04.194727+00:00 → 2026-10-27T17:26:44.370023+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ox.1--mon-1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1ox.1--plan | completed | grok-4.6 / grok | 2026-10-27T14:51:12.955682+00:00 → 2026-10-27T15:17:15.701309+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ox.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ox.1--plan/chat.md) |
 | <a id="member-2"></a>2 | sase-1ox.1--2 | completed | grok-4.6 / grok | 2026-10-27T16:22:30.799077+00:00 → 2026-10-27T16:30:59.518484+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ox.1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ox.1--2/chat.md) |
@@ -51,6 +51,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1ox.2](../agents/bbugyi200.athena.sase-1ox.2/README.md) | sase-1ox hood | waiting |
+| [sase-1ox.2](bbugyi200.athena.sase-1ox.2.md) (session · 3) | sase-1ox hood | active 1, completed 1, failed 1 |
 | [sase-1ox.3](../agents/bbugyi200.athena.sase-1ox.3/README.md) | sase-1ox hood | waiting |
 | [sase-1ox.land](../agents/bbugyi200.athena.sase-1ox.land/README.md) | sase-1ox hood | waiting |
