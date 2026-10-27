@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-1om.9--1 | active | gpt-6-luna / codex | 2026-10-27T09:17:15.538115+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1om.9--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1om.9--1 | active | gpt-6-luna / codex | 2026-10-27T09:17:15.538115+00:00 | [1](../agents/bbugyi200.athena.sase-1om.9--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1om.9--1/prompt.md) | — |
 | <a id="member-plan"></a>plan | sase-1om.9--plan | completed | gpt-6-luna / codex | 2026-10-27T08:54:52.194177+00:00 → 2026-10-27T09:14:25.554428+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1om.9--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1om.9--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-1om.9--mon | failed | gpt-6-luna / codex | 2026-10-27T09:13:42.328189+00:00 → 2026-10-27T09:16:08.945862+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1om.9--mon/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`7d1584c`](https://github.com/sase-org/sase/commit/7d1584c47efb1b1c1350b44ab94a67bbeb0f5196) | feat(ace): add keyboard-first capacity inspector | 2026-10-27 06:05:37 EDT |
 
 ## Neighbors
 
@@ -34,5 +40,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1om.5](../agents/bbugyi200.athena.sase-1om.5/README.md) | sase-1om hood | completed |
 | [sase-1om.6](bbugyi200.athena.sase-1om.6.md) (session · 5) | sase-1om hood | completed 3, failed 2 |
 | [sase-1om.7](bbugyi200.athena.sase-1om.7.md) (session · 5) | sase-1om hood | completed 3, failed 2 |
-| [sase-1om.8](bbugyi200.athena.sase-1om.8.md) (session · 5) | sase-1om hood | active 1, completed 2, failed 2 |
+| [sase-1om.8](bbugyi200.athena.sase-1om.8.md) (session · 5) | sase-1om hood | completed 3, failed 2 |
 | [sase-1om.land](../agents/bbugyi200.athena.sase-1om.land/README.md) | sase-1om hood | waiting |
