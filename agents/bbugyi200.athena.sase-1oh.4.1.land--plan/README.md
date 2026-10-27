@@ -38,4 +38,4 @@
 | [sase-1oh.5.1.land](../../sessions/bbugyi200.athena.sase-1oh.5.1.land.md) (session · 7) | sase-1oh hood | completed 3, failed 4 |
 | [sase-1oh.5.1.land--3--code](../bbugyi200.athena.sase-1oh.5.1.land--3--code/README.md) | sase-1oh hood | active |
 | [sase-1oh.5.1.land--3--plan](../bbugyi200.athena.sase-1oh.5.1.land--3--plan/README.md) | sase-1oh hood | active |
-| [sase-1oh.land](../bbugyi200.athena.sase-1oh.land/README.md) | sase-1oh hood | waiting |
+| [sase-1oh.land](../bbugyi200.athena.sase-1oh.land/README.md) | sase-1oh hood | active |
