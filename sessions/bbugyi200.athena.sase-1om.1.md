@@ -21,7 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-1om.1--mon | failed | gpt-6-astra / codex | 2026-10-27T01:24:21.657983+00:00 → 2026-10-27T01:44:46.969502+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1om.1--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1om.1--plan | completed | gpt-6-astra / codex | 2026-10-27T00:37:16.967262+00:00 → 2026-10-27T01:26:21.495595+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1om.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1om.1--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-1om.1--1 | active | gpt-6-astra / codex | 2026-10-27T01:46:25.466299+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1om.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1om.1--1 | active | gpt-6-astra / codex | 2026-10-27T01:46:25.466299+00:00 | [1](../agents/bbugyi200.athena.sase-1om.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1om.1--1/prompt.md) | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`cef4bb1`](https://github.com/sase-org/sase/commit/cef4bb119942ee627f18ad82e153124620dbbdd0) | fix(tui): preserve monitor capacity in roster projections | 2026-10-26 21:50:26 EDT |
 
 ## Neighbors
 

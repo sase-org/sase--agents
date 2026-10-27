@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e7fab7613e2ba4c4a0d54f0d7353b89f"}
+{"commits":[{"committed_at":1793065826,"sha":"cef4bb119942ee627f18ad82e153124620dbbdd0","subject":"fix(tui): preserve monitor capacity in roster projections"}],"schema_version":2,"source_run_id":"run-e7fab7613e2ba4c4a0d54f0d7353b89f"}

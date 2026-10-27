@@ -12,11 +12,17 @@
 - Model: gpt-6-astra
 - Provider: codex
 - Timing: 2026-10-27T01:46:25.466299+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`cef4bb1`](https://github.com/sase-org/sase/commit/cef4bb119942ee627f18ad82e153124620dbbdd0) | fix(tui): preserve monitor capacity in roster projections | 2026-10-26 21:50:26 EDT |
 
 ## Neighbors
 
