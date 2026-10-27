@@ -12,22 +12,41 @@
 - Provider: grok
 - Timing: 2026-10-27T01:48:06.953481+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/commit\_finalizer\_conflict\_xlarge\_escalation/commit\_finalizer\_conflict\_xlarge\_escalation\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/commit_finalizer_conflict_xlarge_escalation/commit_finalizer_conflict_xlarge_escalation__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261026214648/commit_finalizer_conflict_xlarge_escalation__grk-952b78248bc1.md
+  ref: file:explicit:8f9ebf1ed568c33d9f952417
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_14/sase/repos/research/202610/commit_finalizer_conflict_xlarge_escalation/commit_finalizer_conflict_xlarge_escalation__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.2k.cdx](../bbugyi200.apollo.research.2k.cdx/README.md) | research.2k hood | active |
-| [research.2k.cld](../bbugyi200.apollo.research.2k.cld/README.md) | research.2k hood | active |
+| [research.2k.cdx](../bbugyi200.apollo.research.2k.cdx/README.md) | research.2k hood | completed |
+| [research.2k.cld](../bbugyi200.apollo.research.2k.cld/README.md) | research.2k hood | completed |
 | [research.2k.final](../bbugyi200.apollo.research.2k.final/README.md) | research.2k hood | waiting |
-| [research.2k.gem](../bbugyi200.apollo.research.2k.gem/README.md) | research.2k hood | active |
+| [research.2k.gem](../bbugyi200.apollo.research.2k.gem/README.md) | research.2k hood | completed |
 | [research.2k.image](../bbugyi200.apollo.research.2k.image/README.md) | research.2k hood | waiting |
 | [research.2k.linker](../bbugyi200.apollo.research.2k.linker/README.md) | research.2k hood | waiting |
-| [research.2k.mus](../bbugyi200.apollo.research.2k.mus/README.md) | research.2k hood | active |
+| [research.2k.mus](../bbugyi200.apollo.research.2k.mus/README.md) | research.2k hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |

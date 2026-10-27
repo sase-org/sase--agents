@@ -21,13 +21,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.2k.cdx](../bbugyi200.apollo.research.2k.cdx/README.md) | research.2k hood | active |
-| [research.2k.cld](../bbugyi200.apollo.research.2k.cld/README.md) | research.2k hood | active |
+| [research.2k.cdx](../bbugyi200.apollo.research.2k.cdx/README.md) | research.2k hood | completed |
+| [research.2k.cld](../bbugyi200.apollo.research.2k.cld/README.md) | research.2k hood | completed |
 | [research.2k.final](../bbugyi200.apollo.research.2k.final/README.md) | research.2k hood | waiting |
-| [research.2k.gem](../bbugyi200.apollo.research.2k.gem/README.md) | research.2k hood | active |
+| [research.2k.gem](../bbugyi200.apollo.research.2k.gem/README.md) | research.2k hood | completed |
 | [research.2k.grk](../bbugyi200.apollo.research.2k.grk/README.md) | research.2k hood | active |
 | [research.2k.image](../bbugyi200.apollo.research.2k.image/README.md) | research.2k hood | waiting |
-| [research.2k.mus](../bbugyi200.apollo.research.2k.mus/README.md) | research.2k hood | active |
+| [research.2k.mus](../bbugyi200.apollo.research.2k.mus/README.md) | research.2k hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
