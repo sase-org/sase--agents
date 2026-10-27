@@ -31,12 +31,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1ou.2.1.2](../agents/bbugyi200.athena.sase-1ou.2.1.2/README.md) | descendant | waiting |
 | [sase-1ou.2.1.land](../agents/bbugyi200.athena.sase-1ou.2.1.land/README.md) | descendant | waiting |
 | [sase-1ou.1](../agents/bbugyi200.athena.sase-1ou.1/README.md) | sase-1ou hood | completed |
-| [sase-1ou.3](bbugyi200.athena.sase-1ou.3.md) (session · 4) | sase-1ou hood | active 1, completed 2, failed 1 |
-| [sase-1ou.4](bbugyi200.athena.sase-1ou.4.md) (session · 3) | sase-1ou hood | active 2, failed 1 |
+| [sase-1ou.3](bbugyi200.athena.sase-1ou.3.md) (session · 5) | sase-1ou hood | active 1, completed 2, failed 2 |
+| [sase-1ou.4](bbugyi200.athena.sase-1ou.4.md) (session · 5) | sase-1ou hood | completed 2, failed 2, waiting 1 |
 | [sase-1ou.5](bbugyi200.athena.sase-1ou.5.md) (session · 3) | sase-1ou hood | failed 3 |
 | [sase-1ou.5.1.1](../agents/bbugyi200.athena.sase-1ou.5.1.1/README.md) | sase-1ou hood | completed |
 | [sase-1ou.5.1.2](../agents/bbugyi200.athena.sase-1ou.5.1.2/README.md) | sase-1ou hood | completed |
-| [sase-1ou.5.1.3](bbugyi200.athena.sase-1ou.5.1.3.md) (session · 3) | sase-1ou hood | active 1, completed 1, failed 1 |
-| [sase-1ou.5.1.4](../agents/bbugyi200.athena.sase-1ou.5.1.4/README.md) | sase-1ou hood | waiting |
+| [sase-1ou.5.1.3](bbugyi200.athena.sase-1ou.5.1.3.md) (session · 3) | sase-1ou hood | completed 2, failed 1 |
+| [sase-1ou.5.1.4](bbugyi200.athena.sase-1ou.5.1.4.md) (session · 1) | sase-1ou hood | active 1 |
 | [sase-1ou.5.1.land](../agents/bbugyi200.athena.sase-1ou.5.1.land/README.md) | sase-1ou hood | waiting |
 | [sase-1ou.land](../agents/bbugyi200.athena.sase-1ou.land/README.md) | sase-1ou hood | waiting |

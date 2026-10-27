@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nf](../../users/bbugyi200/machines/athena/hoods/sase-1nf/README.md) / sase-1nf.14.1.2
 
-**Global name:** `bbugyi200.athena.sase-1nf.14.1.2` · **State:** active · **Source run:** `run-683c8bb6f2ce8118cf9afbbc0110a788`
+**Global name:** `bbugyi200.athena.sase-1nf.14.1.2` · **State:** completed · **Source run:** `run-683c8bb6f2ce8118cf9afbbc0110a788`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nf
 
@@ -11,13 +11,13 @@
 - Bead: [sase-1nf.14.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.14.1.2.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-27T12:35:05.060692+00:00
+- Timing: 2026-10-27T12:35:05.060692+00:00 → 2026-10-27T14:46:00.296889+00:00
 - Commits: [2](#commits)
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -54,7 +54,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [sase-1nf.14.1.3](../bbugyi200.athena.sase-1nf.14.1.3/README.md) | sase-1nf.14.1 hood | active |
 | [sase-1nf.14.1.4](../bbugyi200.athena.sase-1nf.14.1.4/README.md) | sase-1nf.14.1 hood | completed |
 | [sase-1nf.14.1.5](../../sessions/bbugyi200.athena.sase-1nf.14.1.5.md) (session · 5) | sase-1nf.14.1 hood | completed 3, failed 2 |
-| [sase-1nf.14.1.6](../bbugyi200.athena.sase-1nf.14.1.6/README.md) | sase-1nf.14.1 hood | waiting |
+| [sase-1nf.14.1.6](../../sessions/bbugyi200.athena.sase-1nf.14.1.6.md) (session · 3) | sase-1nf.14.1 hood | active 1, completed 1, failed 1 |
 | [sase-1nf.14.1.7](../bbugyi200.athena.sase-1nf.14.1.7/README.md) | sase-1nf.14.1 hood | waiting |
 | [sase-1nf.14.1.8](../bbugyi200.athena.sase-1nf.14.1.8/README.md) | sase-1nf.14.1 hood | waiting |
 | [sase-1nf.14.1.land](../bbugyi200.athena.sase-1nf.14.1.land/README.md) | sase-1nf.14.1 hood | waiting |
