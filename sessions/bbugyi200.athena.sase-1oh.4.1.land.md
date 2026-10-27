@@ -28,6 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | code | sase | [`134e869`](https://github.com/sase-org/sase/commit/134e869e4b9b18f85e0f3a4c003d70a9923c0534) | test: split test\_finalizers\_failed\_close\_recovery into focused modules | 2026-10-27 01:41:26 EDT |
+| — | sase | [`3f00441`](https://github.com/sase-org/sase/commit/3f0044196d5e385912b09efbd5477d6c58cee2c7) | fix(finalizers): require current landing proof and retry recovery commits | 2026-10-27 02:21:17 EDT |
 
 ## Neighbors
 
@@ -45,6 +46,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1oh.5.1.2](../agents/bbugyi200.athena.sase-1oh.5.1.2/README.md) | sase-1oh hood | completed |
 | [sase-1oh.5.1.3](../agents/bbugyi200.athena.sase-1oh.5.1.3/README.md) | sase-1oh hood | completed |
 | [sase-1oh.5.1.4](bbugyi200.athena.sase-1oh.5.1.4.md) (session · 5) | sase-1oh hood | completed 3, failed 2 |
-| [sase-1oh.5.1.5](../agents/bbugyi200.athena.sase-1oh.5.1.5/README.md) | sase-1oh hood | active |
-| [sase-1oh.5.1.land](../agents/bbugyi200.athena.sase-1oh.5.1.land/README.md) | sase-1oh hood | waiting |
+| [sase-1oh.5.1.5](bbugyi200.athena.sase-1oh.5.1.5.md) (session · 3) | sase-1oh hood | completed 2, failed 1 |
+| [sase-1oh.5.1.land](bbugyi200.athena.sase-1oh.5.1.land.md) (session · 7) | sase-1oh hood | completed 3, failed 4 |
+| [sase-1oh.5.1.land--3--code](../agents/bbugyi200.athena.sase-1oh.5.1.land--3--code/README.md) | sase-1oh hood | active |
+| [sase-1oh.5.1.land--3--plan](../agents/bbugyi200.athena.sase-1oh.5.1.land--3--plan/README.md) | sase-1oh hood | active |
 | [sase-1oh.land](../agents/bbugyi200.athena.sase-1oh.land/README.md) | sase-1oh hood | waiting |
