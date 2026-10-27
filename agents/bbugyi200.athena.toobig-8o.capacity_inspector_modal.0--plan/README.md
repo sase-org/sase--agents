@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8o.panel\_spread.0](../bbugyi200.athena.toobig-8o.panel_spread.0/README.md) | toobig-8o hood | waiting |
+| [toobig-8o.panel\_spread.0](../bbugyi200.athena.toobig-8o.panel_spread.0/README.md) | toobig-8o hood | active |
