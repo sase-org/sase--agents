@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-96f6b9efb8f96a54fb87771ccd7d1e45"}
+{"commits":[{"committed_at":1793079386,"sha":"78f60cd602e7d416bce656952dddd7fec72b87a3","subject":"feat(agent): add sase agent load capacity view command"}],"schema_version":2,"source_run_id":"run-96f6b9efb8f96a54fb87771ccd7d1e45"}
