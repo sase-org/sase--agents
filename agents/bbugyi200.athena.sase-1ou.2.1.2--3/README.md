@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1ou](../../users/bbugyi200/machines/athena/hoods/sase-1ou/README.md) / [sase-1ou.2.1.2](../../sessions/bbugyi200.athena.sase-1ou.2.1.2.md) / sase-1ou.2.1.2--3
 
-**Global name:** `bbugyi200.athena.sase-1ou.2.1.2--3` · **State:** active · **Source run:** `run-2a4db04613c4506203802d5864c6c291`
+**Global name:** `bbugyi200.athena.sase-1ou.2.1.2--3` · **State:** completed · **Source run:** `run-2a4db04613c4506203802d5864c6c291`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1ou
 
@@ -11,13 +11,13 @@
 - Bead: [sase-1ou.2.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ou/sase-1ou.2.1.2.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-27T21:27:26.869294+00:00
+- Timing: 2026-10-27T21:27:26.869294+00:00 → 2026-10-27T21:43:35.414920+00:00
 - Commits: [1](#commits)
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -56,7 +56,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 |---|---|---|
 | [sase-1ou.2](../../sessions/bbugyi200.athena.sase-1ou.2.md) (session · 3) | ancestor | failed 3 |
 | [sase-1ou.2.1.1](../bbugyi200.athena.sase-1ou.2.1.1/README.md) | sase-1ou.2.1 hood | completed |
-| [sase-1ou.2.1.land](../bbugyi200.athena.sase-1ou.2.1.land/README.md) | sase-1ou.2.1 hood | waiting |
+| [sase-1ou.2.1.land](../../sessions/bbugyi200.athena.sase-1ou.2.1.land.md) (session · 3) | sase-1ou.2.1 hood | active 1, completed 1, failed 1 |
 | [sase-1ou.1](../bbugyi200.athena.sase-1ou.1/README.md) | sase-1ou hood | completed |
 | [sase-1ou.3](../../sessions/bbugyi200.athena.sase-1ou.3.md) (session · 7) | sase-1ou hood | completed 4, failed 3 |
 | [sase-1ou.4](../../sessions/bbugyi200.athena.sase-1ou.4.md) (session · 5) | sase-1ou hood | completed 3, failed 2 |

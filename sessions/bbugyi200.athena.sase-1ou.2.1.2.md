@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1ou` · Members: 7 · Bead: [sase-1ou.2
 ```mermaid
 flowchart TD
   n0["sase-1ou.2.1.2--mon-0 [failed]"]
-  n1["sase-1ou.2.1.2--3 [active]"]
+  n1["sase-1ou.2.1.2--3 [completed]"]
   n0 --> n1
   n2["sase-1ou.2.1.2--mon [failed]"]
   n0 --> n2
@@ -28,7 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon-0"></a>mon-0 | sase-1ou.2.1.2--mon-0 | failed | gpt-6-astra / codex | 2026-10-27T19:19:27.384779+00:00 → 2026-10-27T19:31:41.303203+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--mon-0/chat.md) |
-| <a id="member-3"></a>3 | sase-1ou.2.1.2--3 | active | gpt-6-astra / codex | 2026-10-27T21:27:26.869294+00:00 | [1](../agents/bbugyi200.athena.sase-1ou.2.1.2--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.2--3/prompt.md) | — |
+| <a id="member-3"></a>3 | sase-1ou.2.1.2--3 | completed | gpt-6-astra / codex | 2026-10-27T21:27:26.869294+00:00 → 2026-10-27T21:43:35.414920+00:00 | [1](../agents/bbugyi200.athena.sase-1ou.2.1.2--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.2--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--3/chat.md) |
 | <a id="member-mon"></a>mon | sase-1ou.2.1.2--mon | failed | gpt-6-astra / codex | 2026-10-27T18:50:46.745381+00:00 → 2026-10-27T19:01:35.393579+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--mon/chat.md) |
 | <a id="member-1"></a>1 | sase-1ou.2.1.2--1 | completed | gpt-6-astra / codex | 2026-10-27T19:02:54.103609+00:00 → 2026-10-27T19:20:04.769794+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.2.1.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--1/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-1ou.2.1.2--mon-1 | failed | gpt-6-astra / codex | 2026-10-27T20:23:52.246269+00:00 → 2026-10-27T21:25:54.784592+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ou.2.1.2--mon-1/chat.md) |
@@ -152,7 +152,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 |---|---|---|
 | [sase-1ou.2](bbugyi200.athena.sase-1ou.2.md) (session · 3) | ancestor | failed 3 |
 | [sase-1ou.2.1.1](../agents/bbugyi200.athena.sase-1ou.2.1.1/README.md) | sase-1ou.2.1 hood | completed |
-| [sase-1ou.2.1.land](../agents/bbugyi200.athena.sase-1ou.2.1.land/README.md) | sase-1ou.2.1 hood | waiting |
+| [sase-1ou.2.1.land](bbugyi200.athena.sase-1ou.2.1.land.md) (session · 3) | sase-1ou.2.1 hood | active 1, completed 1, failed 1 |
 | [sase-1ou.1](../agents/bbugyi200.athena.sase-1ou.1/README.md) | sase-1ou hood | completed |
 | [sase-1ou.3](bbugyi200.athena.sase-1ou.3.md) (session · 7) | sase-1ou hood | completed 4, failed 3 |
 | [sase-1ou.4](bbugyi200.athena.sase-1ou.4.md) (session · 5) | sase-1ou hood | completed 3, failed 2 |
