@@ -1,6 +1,6 @@
+%auto
 %id(test_snapshot.0, clan=toobig-8r)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/workspace_provider/test_rescue/test_snapshot.py` file into multiple files? Use your best
 %wait:toobig-8r.snapshot_capture_payload.0
