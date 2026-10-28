@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8p](../../users/bbugyi200/machines/athena/hoods/toobig-8p/README.md) / toobig-8p.catalog\_gen.0
 
-**Global name:** `bbugyi200.athena.toobig-8p.catalog_gen.0` · **State:** active · **Source run:** `run-02573d63e11a83feeaa4ea3c6b604a50`
+**Global name:** `bbugyi200.athena.toobig-8p.catalog_gen.0` · **State:** completed · **Source run:** `run-02573d63e11a83feeaa4ea3c6b604a50`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8p
 
@@ -10,12 +10,12 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-27T23:53:32.554722+00:00
+- Timing: 2026-10-27T23:53:32.554722+00:00 → 2026-10-28T00:18:29.276025+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8p.test\_tool\_run\_store.0](../bbugyi200.athena.toobig-8p.test_tool_run_store.0/README.md) | toobig-8p hood | waiting |
+| [toobig-8p.test\_tool\_run\_store.0](../../sessions/bbugyi200.athena.toobig-8p.test_tool_run_store.0.md) (session · 3) | toobig-8p hood | active 1, completed 1, failed 1 |
