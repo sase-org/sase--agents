@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8q](../../users/bbugyi200/machines/athena/hoods/toobig-8q/README.md) / toobig-8q.statistics\_pane.0
 
-**Global name:** `bbugyi200.athena.toobig-8q.statistics_pane.0` · **State:** active · **Source run:** `run-26089df68b473bb82b14646c0e81f5fd`
+**Global name:** `bbugyi200.athena.toobig-8q.statistics_pane.0` · **State:** completed · **Source run:** `run-26089df68b473bb82b14646c0e81f5fd`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8q
 
@@ -10,12 +10,12 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-28T11:01:30.739366+00:00
+- Timing: 2026-10-28T11:01:30.739366+00:00 → 2026-10-28T12:05:29.831000+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -30,7 +30,7 @@
 | [toobig-8q.artifact\_link\_event\_publish.0](../bbugyi200.athena.toobig-8q.artifact_link_event_publish.0/README.md) | toobig-8q hood | waiting |
 | [toobig-8q.entry.0](../bbugyi200.athena.toobig-8q.entry.0/README.md) | toobig-8q hood | waiting |
 | [toobig-8q.snapshot\_capture.0](../bbugyi200.athena.toobig-8q.snapshot_capture.0/README.md) | toobig-8q hood | waiting |
-| [toobig-8q.statistics\_pane\_actions.0](../bbugyi200.athena.toobig-8q.statistics_pane_actions.0/README.md) | toobig-8q hood | waiting |
+| [toobig-8q.statistics\_pane\_actions.0](../../sessions/bbugyi200.athena.toobig-8q.statistics_pane_actions.0.md) (session · 3) | toobig-8q hood | active 1, completed 1, failed 1 |
 | [toobig-8q.statistics\_pane\_helpers.0](../bbugyi200.athena.toobig-8q.statistics_pane_helpers.0/README.md) | toobig-8q hood | waiting |
 | [toobig-8q.test\_ace\_png\_snapshots\_config\_center\_statistics.0](../bbugyi200.athena.toobig-8q.test_ace_png_snapshots_config_center_statistics.0/README.md) | toobig-8q hood | waiting |
 | [toobig-8q.test\_artifact\_link\_quarantine\_replay\_evidence.0](../bbugyi200.athena.toobig-8q.test_artifact_link_quarantine_replay_evidence.0/README.md) | toobig-8q hood | waiting |
