@@ -41,4 +41,4 @@
 | [sase-1p1.7](../bbugyi200.athena.sase-1p1.7/README.md) | sase-1p1 hood | completed |
 | [sase-1p1.8](../bbugyi200.athena.sase-1p1.8/README.md) | sase-1p1 hood | completed |
 | [sase-1p1.9](../bbugyi200.athena.sase-1p1.9/README.md) | sase-1p1 hood | completed |
-| [sase-1p1.land](../../sessions/bbugyi200.athena.sase-1p1.land.md) (session · 4) | sase-1p1 hood | active 1, completed 2, failed 1 |
+| [sase-1p1.land](../../sessions/bbugyi200.athena.sase-1p1.land.md) (session · 6) | sase-1p1 hood | active 1, completed 3, failed 2 |

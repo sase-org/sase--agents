@@ -2,19 +2,23 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1p1](../users/bbugyi200/machines/athena/hoods/sase-1p1/README.md) / sase-1p1.land
 
-Owner: `bbugyi200.athena` · Hood: `sase-1p1` · Members: 4 · Bead: [sase-1p1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1p1/README.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1p1` · Members: 6 · Bead: [sase-1p1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1p1/README.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
   n0["sase-1p1.land--code [completed]"]
-  n1["sase-1p1.land--gate [failed]"]
+  n1["sase-1p1.land--mon-0 [active]"]
   n0 --> n1
-  n2["sase-1p1.land--plan [completed]"]
+  n2["sase-1p1.land--gate [failed]"]
   n0 --> n2
-  n3["sase-1p1.land--mon [active]"]
+  n3["sase-1p1.land--1 [completed]"]
   n0 --> n3
+  n4["sase-1p1.land--plan [completed]"]
+  n0 --> n4
+  n5["sase-1p1.land--mon [failed]"]
+  n0 --> n5
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -22,9 +26,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-1p1.land--code | completed | muse-spark-1.3-contributor / muse | 2026-10-28T16:16:41.877857+00:00 → 2026-10-28T17:02:54.646366+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1p1.land--code/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | sase-1p1.land--mon-0 | active | muse-spark-1.3-contributor / muse | 2026-10-28T17:45:55.510054+00:00 | 0 | — | — |
 | <a id="member-gate"></a>gate | sase-1p1.land--gate | failed | opus / claude | 2026-10-28T16:14:36.931867+00:00 → 2026-10-28T16:15:55.854759+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1p1.land--gate/chat.md) |
+| <a id="member-1"></a>1 | sase-1p1.land--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-28T17:29:10.907356+00:00 → 2026-10-28T17:48:00.163216+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1p1.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1p1.land--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1p1.land--plan | completed | opus / claude | 2026-10-28T15:38:34.153771+00:00 → 2026-10-28T17:02:54.646366+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1p1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1p1.land--plan/chat.md) |
-| <a id="member-mon"></a>mon | sase-1p1.land--mon | active | muse-spark-1.3-contributor / muse | 2026-10-28T17:00:33.658739+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1p1.land--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-28T17:00:33.658739+00:00 → 2026-10-28T17:27:09.324456+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1p1.land--mon/chat.md) |
 
 ## Neighbors
 

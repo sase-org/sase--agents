@@ -1,6 +1,6 @@
+%auto
 %id(test_axe_runner_workspace_reclone.0, clan=toobig-8q)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/test_axe_runner_workspace_reclone.py` file into multiple files? Use your best
 %wait:toobig-8q.test_artifact_link_quarantine_replay_evidence.0
