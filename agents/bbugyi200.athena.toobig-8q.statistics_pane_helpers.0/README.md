@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8q](../../users/bbugyi200/machines/athena/hoods/toobig-8q/README.md) / toobig-8q.statistics\_pane\_helpers.0
 
-**Global name:** `bbugyi200.athena.toobig-8q.statistics_pane_helpers.0` · **State:** active · **Source run:** `run-6e6b027191d2306f5a7729d582780025`
+**Global name:** `bbugyi200.athena.toobig-8q.statistics_pane_helpers.0` · **State:** completed · **Source run:** `run-6e6b027191d2306f5a7729d582780025`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8q
 
@@ -10,13 +10,13 @@
 
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-28T15:09:58.200617+00:00
+- Timing: 2026-10-28T15:09:58.200617+00:00 → 2026-10-28T15:53:00.985413+00:00
 - Commits: [1](#commits)
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -52,7 +52,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [toobig-8q.snapshot\_capture.0](../bbugyi200.athena.toobig-8q.snapshot_capture.0/README.md) | toobig-8q hood | completed |
 | [toobig-8q.statistics\_pane.0](../bbugyi200.athena.toobig-8q.statistics_pane.0/README.md) | toobig-8q hood | completed |
 | [toobig-8q.statistics\_pane\_actions.0](../../sessions/bbugyi200.athena.toobig-8q.statistics_pane_actions.0.md) (session · 3) | toobig-8q hood | completed 2, failed 1 |
-| [toobig-8q.test\_ace\_png\_snapshots\_config\_center\_statistics.0](../bbugyi200.athena.toobig-8q.test_ace_png_snapshots_config_center_statistics.0/README.md) | toobig-8q hood | waiting |
+| [toobig-8q.test\_ace\_png\_snapshots\_config\_center\_statistics.0](../bbugyi200.athena.toobig-8q.test_ace_png_snapshots_config_center_statistics.0/README.md) | toobig-8q hood | active |
 | [toobig-8q.test\_artifact\_link\_quarantine\_replay\_evidence.0](../bbugyi200.athena.toobig-8q.test_artifact_link_quarantine_replay_evidence.0/README.md) | toobig-8q hood | waiting |
 | [toobig-8q.test\_axe\_runner\_workspace\_reclone.0](../bbugyi200.athena.toobig-8q.test_axe_runner_workspace_reclone.0/README.md) | toobig-8q hood | waiting |
 | [toobig-8q.test\_reset\_replay.0](../bbugyi200.athena.toobig-8q.test_reset_replay.0/README.md) | toobig-8q hood | waiting |
