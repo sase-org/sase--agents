@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["sase-1p1.4--mon-0 [failed]"]
   n0 --> n3
-  n4["sase-1p1.4--2 [active]"]
+  n4["sase-1p1.4--2 [completed]"]
   n0 --> n4
 ```
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | sase-1p1.4--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-28T01:08:31.667756+00:00 → 2026-10-28T01:26:58.642053+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1p1.4--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1p1.4--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-28T00:25:47.223773+00:00 → 2026-10-28T01:09:12.002366+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1p1.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1p1.4--plan/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-1p1.4--mon-0 | failed | muse-spark-1.3-contributor / muse | 2026-10-28T01:34:50.808779+00:00 → 2026-10-28T01:41:57.231992+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1p1.4--mon-0/chat.md) |
-| <a id="member-2"></a>2 | sase-1p1.4--2 | active | muse-spark-1.3-contributor / muse | 2026-10-28T01:43:44.134843+00:00 | [1](../agents/bbugyi200.athena.sase-1p1.4--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1p1.4--2/prompt.md) | — |
+| <a id="member-2"></a>2 | sase-1p1.4--2 | completed | muse-spark-1.3-contributor / muse | 2026-10-28T01:43:44.134843+00:00 → 2026-10-28T01:54:24.334100+00:00 | [1](../agents/bbugyi200.athena.sase-1p1.4--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1p1.4--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1p1.4--2/chat.md) |
 
 ## Commits
 
