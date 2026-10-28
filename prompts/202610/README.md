@@ -100,6 +100,7 @@
 | [159.md](159.md) | %queue(weight=1) #fork:159--code %model:gpt-6-luna@xhigh | - | [bbugyi200.athena.159--1](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.159.md) | 0 |
 | [15a.md](15a.md) | %model:@medium #gh:gh_sase-org__sase | - | [bbugyi200.athena.15a--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.15a.md) | 1 |
 | [15b.md](15b.md) | %model:@small #gh:gh_sase-org__sase [@plan:202610/stopped_jump_collapsed_clans.md][1] | - | [bbugyi200.athena.15b--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.15b.md) | 1 |
+| [15d.md](15d.md) | %queue(weight=1) #fork:15d--2 %model:grok-4.6 %effort:high | - | [bbugyi200.athena.15d--3](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.15d.md) | 0 |
 | [15j.md](15j.md) | %model:@small #gh:gh_sase-org__sase [@plan:202610/custom_gate_stopped_jump.md][1] | - | [bbugyi200.athena.15j--code](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.15j.md) | 1 |
 | [1j.md](1j.md) | gh:gh_sase-org__sase Is the `bob-cli-6l.2.1.6` sase agent running on my apollo machine | - | [bbugyi200.kellys_mbp.1j](https://github.com/sase-org/sase--agents/blob/main/agents/bbugyi200.kellys_mbp.1j/README.md) | 0 |
 | [3r.md](3r.md) | %queue(weight=1) %auto #fork:3r--4 %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.3r--5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.apollo.3r.md) | 0 |

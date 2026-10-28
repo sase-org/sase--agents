@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5f.cld
 
-**Global name:** `bbugyi200.athena.research.5f.cld` · **State:** active · **Source run:** `run-94bc6b56c436d280f28fc16f655b1e2d`
+**Global name:** `bbugyi200.athena.research.5f.cld` · **State:** completed · **Source run:** `run-94bc6b56c436d280f28fc16f655b1e2d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,24 +10,43 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-28T22:15:21.175962+00:00
+- Timing: 2026-10-28T22:15:21.175962+00:00 → 2026-10-28T22:38:20.405590+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/staged\_handoffs\_through\_finalizers\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261028181308/staged\_handoffs\_through\_finalizers\_\_cld-… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/staged_handoffs_through_finalizers__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261028181308/staged_handoffs_through_finalizers__cld-beeba07f8c51.md
+  ref: file:explicit:513adc8ba914d3593a9ada58
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_20/sase/repos/research/202610/staged_handoffs_through_finalizers__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5f.cdx](../bbugyi200.athena.research.5f.cdx/README.md) | research.5f hood | active |
-| [research.5f.final](../bbugyi200.athena.research.5f.final/README.md) | research.5f hood | waiting |
-| [research.5f.gem](../bbugyi200.athena.research.5f.gem/README.md) | research.5f hood | active |
-| [research.5f.grk](../bbugyi200.athena.research.5f.grk/README.md) | research.5f hood | active |
+| [research.5f.cdx](../bbugyi200.athena.research.5f.cdx/README.md) | research.5f hood | completed |
+| [research.5f.final](../bbugyi200.athena.research.5f.final/README.md) | research.5f hood | active |
+| [research.5f.gem](../bbugyi200.athena.research.5f.gem/README.md) | research.5f hood | completed |
+| [research.5f.grk](../bbugyi200.athena.research.5f.grk/README.md) | research.5f hood | completed |
 | [research.5f.image](../bbugyi200.athena.research.5f.image/README.md) | research.5f hood | waiting |
 | [research.5f.linker](../bbugyi200.athena.research.5f.linker/README.md) | research.5f hood | waiting |
-| [research.5f.mus](../bbugyi200.athena.research.5f.mus/README.md) | research.5f hood | active |
+| [research.5f.mus](../bbugyi200.athena.research.5f.mus/README.md) | research.5f hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |

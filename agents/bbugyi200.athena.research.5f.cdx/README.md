@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5f.cdx
 
-**Global name:** `bbugyi200.athena.research.5f.cdx` · **State:** active · **Source run:** `run-39e39df254bf93f2a41485fef1a3c275`
+**Global name:** `bbugyi200.athena.research.5f.cdx` · **State:** completed · **Source run:** `run-39e39df254bf93f2a41485fef1a3c275`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-28T22:15:06.989651+00:00
+- Timing: 2026-10-28T22:15:06.989651+00:00 → 2026-10-28T22:28:51.180516+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -40,13 +40,13 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5f.cld](../bbugyi200.athena.research.5f.cld/README.md) | research.5f hood | active |
-| [research.5f.final](../bbugyi200.athena.research.5f.final/README.md) | research.5f hood | waiting |
-| [research.5f.gem](../bbugyi200.athena.research.5f.gem/README.md) | research.5f hood | active |
-| [research.5f.grk](../bbugyi200.athena.research.5f.grk/README.md) | research.5f hood | active |
+| [research.5f.cld](../bbugyi200.athena.research.5f.cld/README.md) | research.5f hood | completed |
+| [research.5f.final](../bbugyi200.athena.research.5f.final/README.md) | research.5f hood | active |
+| [research.5f.gem](../bbugyi200.athena.research.5f.gem/README.md) | research.5f hood | completed |
+| [research.5f.grk](../bbugyi200.athena.research.5f.grk/README.md) | research.5f hood | completed |
 | [research.5f.image](../bbugyi200.athena.research.5f.image/README.md) | research.5f hood | waiting |
 | [research.5f.linker](../bbugyi200.athena.research.5f.linker/README.md) | research.5f hood | waiting |
-| [research.5f.mus](../bbugyi200.athena.research.5f.mus/README.md) | research.5f hood | active |
+| [research.5f.mus](../bbugyi200.athena.research.5f.mus/README.md) | research.5f hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
