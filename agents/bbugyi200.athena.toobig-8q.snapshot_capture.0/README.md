@@ -21,8 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8q.artifact\_link\_event\_publish.0](../bbugyi200.athena.toobig-8q.artifact_link_event_publish.0/README.md) | toobig-8q hood | waiting |
-| [toobig-8q.entry.0](../bbugyi200.athena.toobig-8q.entry.0/README.md) | toobig-8q hood | active |
+| [toobig-8q.artifact\_link\_event\_publish.0](../bbugyi200.athena.toobig-8q.artifact_link_event_publish.0/README.md) | toobig-8q hood | active |
+| [toobig-8q.entry.0](../bbugyi200.athena.toobig-8q.entry.0/README.md) | toobig-8q hood | completed |
 | [toobig-8q.statistics\_pane.0](../bbugyi200.athena.toobig-8q.statistics_pane.0/README.md) | toobig-8q hood | completed |
 | [toobig-8q.statistics\_pane\_actions.0](../../sessions/bbugyi200.athena.toobig-8q.statistics_pane_actions.0.md) (session · 3) | toobig-8q hood | completed 2, failed 1 |
 | [toobig-8q.statistics\_pane\_helpers.0](../bbugyi200.athena.toobig-8q.statistics_pane_helpers.0/README.md) | toobig-8q hood | waiting |

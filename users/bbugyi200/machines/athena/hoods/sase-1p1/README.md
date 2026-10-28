@@ -2,10 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-1p1
 
-**Global hood:** `bbugyi200.athena.sase-1p1` · **Runs:** 49 · **Sessions:** 4 · **States:** active 1, completed 29, failed 17, waiting 2
+**Global hood:** `bbugyi200.athena.sase-1p1` · **Runs:** 50 · **Sessions:** 4 · **States:** active 1, completed 29, failed 18, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
+| [sase-1p1.12--d](../../../../../../sessions/bbugyi200.athena.sase-1p1.12.md#member-d) | active | grok-4.6 / grok | 2026-10-28T14:03:36.342235+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1p1.12--d/prompt.md) |
 | [sase-1p1.3--1](../../../../../../sessions/bbugyi200.athena.sase-1p1.3.md#member-1) | completed | gpt-6-luna / codex | 2026-10-27T22:03:11.168108+00:00 → 2026-10-27T22:12:45.830244+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1p1.3--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1p1.3--1/chat.md) |
 | [sase-1p1.6](../../../../../../agents/bbugyi200.athena.sase-1p1.6/README.md) | completed | grok-4.6 / grok | 2026-10-27T22:35:08.789184+00:00 → 2026-10-28T03:12:34.458005+00:00 | 2 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1p1.6/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1p1.6/chat.md) |
 | [sase-1p1.12--4](../../../../../../sessions/bbugyi200.athena.sase-1p1.12.md#member-4) | completed | grok-4.6 / grok | 2026-10-28T08:34:26.917543+00:00 → 2026-10-28T08:57:36.126796+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1p1.12--4/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1p1.12--4/chat.md) |
@@ -18,7 +19,7 @@
 | [sase-1p1.3--mon](../../../../../../sessions/bbugyi200.athena.sase-1p1.3.md#member-mon) | failed | gpt-6-luna / codex | 2026-10-27T21:30:30.486946+00:00 → 2026-10-27T22:04:20.159155+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1p1.3--mon/chat.md) |
 | [sase-1p1.4--1](../../../../../../sessions/bbugyi200.athena.sase-1p1.4.md#member-1) | completed | muse-spark-1.3-contributor / muse | 2026-10-28T01:28:50.791876+00:00 → 2026-10-28T01:36:36.015056+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1p1.4--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1p1.4--1/chat.md) |
 | [sase-1p1.3--2](../../../../../../sessions/bbugyi200.athena.sase-1p1.3.md#member-2) | completed | gpt-6-luna / codex | 2026-10-27T22:58:48.022608+00:00 → 2026-10-28T00:24:50.956973+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1p1.3--2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1p1.3--2/chat.md) |
-| [sase-1p1.12--mon-b](../../../../../../sessions/bbugyi200.athena.sase-1p1.12.md#member-mon-b) | active | grok-4.6 / grok | 2026-10-28T13:34:07.503567+00:00 | 0 | — |
+| [sase-1p1.12--mon-b](../../../../../../sessions/bbugyi200.athena.sase-1p1.12.md#member-mon-b) | failed | grok-4.6 / grok | 2026-10-28T13:34:07.503567+00:00 → 2026-10-28T14:01:19.998152+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1p1.12--mon-b/chat.md) |
 | [sase-1p1.8](../../../../../../agents/bbugyi200.athena.sase-1p1.8/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-28T03:13:19.165797+00:00 → 2026-10-28T03:56:11.251282+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1p1.8/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1p1.8/chat.md) |
 | [sase-1p1.12--mon-7](../../../../../../sessions/bbugyi200.athena.sase-1p1.12.md#member-mon-7) | failed | grok-4.6 / grok | 2026-10-28T11:20:52.567300+00:00 → 2026-10-28T11:39:55.455419+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1p1.12--mon-7/chat.md) |
 | [sase-1p1.12--mon-a](../../../../../../sessions/bbugyi200.athena.sase-1p1.12.md#member-mon-a) | failed | grok-4.6 / grok | 2026-10-28T12:59:36.098884+00:00 → 2026-10-28T13:17:25.042034+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1p1.12--mon-a/chat.md) |

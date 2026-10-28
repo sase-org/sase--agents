@@ -1,6 +1,6 @@
+%auto
 %id(artifact_link_event_publish.0, clan=toobig-8q)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `src/sase/sdd/_artifact_link_event_publish.py` file into multiple files? Use your best
 %wait:toobig-8q.entry.0

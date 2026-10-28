@@ -2,75 +2,78 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1p1](../users/bbugyi200/machines/athena/hoods/sase-1p1/README.md) / sase-1p1.12
 
-Owner: `bbugyi200.athena` · Hood: `sase-1p1` · Members: 26 · Bead: [sase-1p1.12](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1p1/sase-1p1.12.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1p1` · Members: 27 · Bead: [sase-1p1.12](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1p1/sase-1p1.12.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-1p1.12--4 [completed]"]
-  n1["sase-1p1.12--8 [completed]"]
+  n0["sase-1p1.12--d [active]"]
+  n1["sase-1p1.12--4 [completed]"]
   n0 --> n1
-  n2["sase-1p1.12--mon-1 [failed]"]
+  n2["sase-1p1.12--8 [completed]"]
   n0 --> n2
-  n3["sase-1p1.12--mon-8 [failed]"]
+  n3["sase-1p1.12--mon-1 [failed]"]
   n0 --> n3
-  n4["sase-1p1.12--plan [completed]"]
+  n4["sase-1p1.12--mon-8 [failed]"]
   n0 --> n4
-  n5["sase-1p1.12--mon-b [active]"]
+  n5["sase-1p1.12--plan [completed]"]
   n0 --> n5
-  n6["sase-1p1.12--mon-7 [failed]"]
+  n6["sase-1p1.12--mon-b [failed]"]
   n0 --> n6
-  n7["sase-1p1.12--mon-a [failed]"]
+  n7["sase-1p1.12--mon-7 [failed]"]
   n0 --> n7
-  n8["sase-1p1.12--9 [completed]"]
+  n8["sase-1p1.12--mon-a [failed]"]
   n0 --> n8
-  n9["sase-1p1.12--6 [completed]"]
+  n9["sase-1p1.12--9 [completed]"]
   n0 --> n9
-  n10["sase-1p1.12--mon-0 [failed]"]
+  n10["sase-1p1.12--6 [completed]"]
   n0 --> n10
-  n11["sase-1p1.12--7 [completed]"]
+  n11["sase-1p1.12--mon-0 [failed]"]
   n0 --> n11
-  n12["sase-1p1.12--5 [completed]"]
+  n12["sase-1p1.12--7 [completed]"]
   n0 --> n12
-  n13["sase-1p1.12--a [completed]"]
+  n13["sase-1p1.12--5 [completed]"]
   n0 --> n13
-  n14["sase-1p1.12--mon [failed]"]
+  n14["sase-1p1.12--a [completed]"]
   n0 --> n14
-  n15["sase-1p1.12--mon-6 [failed]"]
+  n15["sase-1p1.12--mon [failed]"]
   n0 --> n15
-  n16["sase-1p1.12--mon-3 [failed]"]
+  n16["sase-1p1.12--mon-6 [failed]"]
   n0 --> n16
-  n17["sase-1p1.12--3 [completed]"]
+  n17["sase-1p1.12--mon-3 [failed]"]
   n0 --> n17
-  n18["sase-1p1.12--c [completed]"]
+  n18["sase-1p1.12--3 [completed]"]
   n0 --> n18
-  n19["sase-1p1.12--b [completed]"]
+  n19["sase-1p1.12--c [completed]"]
   n0 --> n19
-  n20["sase-1p1.12--mon-5 [failed]"]
+  n20["sase-1p1.12--b [completed]"]
   n0 --> n20
-  n21["sase-1p1.12--2 [completed]"]
+  n21["sase-1p1.12--mon-5 [failed]"]
   n0 --> n21
-  n22["sase-1p1.12--mon-9 [failed]"]
+  n22["sase-1p1.12--2 [completed]"]
   n0 --> n22
-  n23["sase-1p1.12--1 [completed]"]
+  n23["sase-1p1.12--mon-9 [failed]"]
   n0 --> n23
-  n24["sase-1p1.12--mon-4 [failed]"]
+  n24["sase-1p1.12--1 [completed]"]
   n0 --> n24
-  n25["sase-1p1.12--mon-2 [failed]"]
+  n25["sase-1p1.12--mon-4 [failed]"]
   n0 --> n25
+  n26["sase-1p1.12--mon-2 [failed]"]
+  n0 --> n26
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
+| <a id="member-d"></a>d | sase-1p1.12--d | active | grok-4.6 / grok | 2026-10-28T14:03:36.342235+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1p1.12--d/prompt.md) | — |
 | <a id="member-4"></a>4 | sase-1p1.12--4 | completed | grok-4.6 / grok | 2026-10-28T08:34:26.917543+00:00 → 2026-10-28T08:57:36.126796+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1p1.12--4/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1p1.12--4/chat.md) |
 | <a id="member-8"></a>8 | sase-1p1.12--8 | completed | grok-4.6 / grok | 2026-10-28T11:07:32.413548+00:00 → 2026-10-28T11:21:56.348616+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1p1.12--8/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1p1.12--8/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-1p1.12--mon-1 | failed | grok-4.6 / grok | 2026-10-28T07:24:59.407114+00:00 → 2026-10-28T08:04:51.544469+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1p1.12--mon-1/chat.md) |
 | <a id="member-mon-8"></a>mon-8 | sase-1p1.12--mon-8 | failed | grok-4.6 / grok | 2026-10-28T11:58:21.412300+00:00 → 2026-10-28T12:17:20.365597+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1p1.12--mon-8/chat.md) |
 | <a id="member-plan"></a>plan | sase-1p1.12--plan | completed | grok-4.6 / grok | 2026-10-28T03:57:07.197362+00:00 → 2026-10-28T05:45:34.128901+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1p1.12--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1p1.12--plan/chat.md) |
-| <a id="member-mon-b"></a>mon-b | sase-1p1.12--mon-b | active | grok-4.6 / grok | 2026-10-28T13:34:07.503567+00:00 | 0 | — | — |
+| <a id="member-mon-b"></a>mon-b | sase-1p1.12--mon-b | failed | grok-4.6 / grok | 2026-10-28T13:34:07.503567+00:00 → 2026-10-28T14:01:19.998152+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1p1.12--mon-b/chat.md) |
 | <a id="member-mon-7"></a>mon-7 | sase-1p1.12--mon-7 | failed | grok-4.6 / grok | 2026-10-28T11:20:52.567300+00:00 → 2026-10-28T11:39:55.455419+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1p1.12--mon-7/chat.md) |
 | <a id="member-mon-a"></a>mon-a | sase-1p1.12--mon-a | failed | grok-4.6 / grok | 2026-10-28T12:59:36.098884+00:00 → 2026-10-28T13:17:25.042034+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1p1.12--mon-a/chat.md) |
 | <a id="member-9"></a>9 | sase-1p1.12--9 | completed | grok-4.6 / grok | 2026-10-28T11:42:43.950450+00:00 → 2026-10-28T11:59:39.335517+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1p1.12--9/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1p1.12--9/chat.md) |
