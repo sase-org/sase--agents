@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8q](../../users/bbugyi200/machines/athena/hoods/toobig-8q/README.md) / toobig-8q.test\_axe\_runner\_workspace\_reclone.0
 
-**Global name:** `bbugyi200.athena.toobig-8q.test_axe_runner_workspace_reclone.0` · **State:** active · **Source run:** `run-748302499ad7917f86793d4298981bb7`
+**Global name:** `bbugyi200.athena.toobig-8q.test_axe_runner_workspace_reclone.0` · **State:** completed · **Source run:** `run-748302499ad7917f86793d4298981bb7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8q
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-28T17:27:29.230794+00:00
+- Timing: 2026-10-28T17:27:29.230794+00:00 → 2026-10-28T17:57:15.252212+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -35,4 +35,4 @@
 | [toobig-8q.statistics\_pane\_helpers.0](../bbugyi200.athena.toobig-8q.statistics_pane_helpers.0/README.md) | toobig-8q hood | completed |
 | [toobig-8q.test\_ace\_png\_snapshots\_config\_center\_statistics.0](../bbugyi200.athena.toobig-8q.test_ace_png_snapshots_config_center_statistics.0/README.md) | toobig-8q hood | completed |
 | [toobig-8q.test\_artifact\_link\_quarantine\_replay\_evidence.0](../../sessions/bbugyi200.athena.toobig-8q.test_artifact_link_quarantine_replay_evidence.0.md) (session · 3) | toobig-8q hood | completed 2, failed 1 |
-| [toobig-8q.test\_reset\_replay.0](../bbugyi200.athena.toobig-8q.test_reset_replay.0/README.md) | toobig-8q hood | waiting |
+| [toobig-8q.test\_reset\_replay.0](../bbugyi200.athena.toobig-8q.test_reset_replay.0/README.md) | toobig-8q hood | active |

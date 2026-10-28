@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["sase-1p1.land--plan [completed]"]
   n0 --> n4
-  n5["sase-1p1.land--2 [active]"]
+  n5["sase-1p1.land--2 [completed]"]
   n0 --> n5
   n6["sase-1p1.land--mon [failed]"]
   n0 --> n6
@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-gate"></a>gate | sase-1p1.land--gate | failed | opus / claude | 2026-10-28T16:14:36.931867+00:00 → 2026-10-28T16:15:55.854759+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1p1.land--gate/chat.md) |
 | <a id="member-1"></a>1 | sase-1p1.land--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-28T17:29:10.907356+00:00 → 2026-10-28T17:48:00.163216+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1p1.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1p1.land--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1p1.land--plan | completed | opus / claude | 2026-10-28T15:38:34.153771+00:00 → 2026-10-28T17:02:54.646366+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1p1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1p1.land--plan/chat.md) |
-| <a id="member-2"></a>2 | sase-1p1.land--2 | active | muse-spark-1.3-contributor / muse | 2026-10-28T18:06:53.886147+00:00 | [1](../agents/bbugyi200.athena.sase-1p1.land--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1p1.land--2/prompt.md) | — |
+| <a id="member-2"></a>2 | sase-1p1.land--2 | completed | muse-spark-1.3-contributor / muse | 2026-10-28T18:06:53.886147+00:00 → 2026-10-28T18:19:22.420821+00:00 | [1](../agents/bbugyi200.athena.sase-1p1.land--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1p1.land--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1p1.land--2/chat.md) |
 | <a id="member-mon"></a>mon | sase-1p1.land--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-28T17:00:33.658739+00:00 → 2026-10-28T17:27:09.324456+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1p1.land--mon/chat.md) |
 
 ## Commits
