@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8q](../../users/bbugyi200/machines/athena/hoods/toobig-8q/README.md) / toobig-8q.snapshot\_capture.0
 
-**Global name:** `bbugyi200.athena.toobig-8q.snapshot_capture.0` · **State:** waiting · **Source run:** `run-abe27d2e5ba080ef8cf73a135c51626b`
+**Global name:** `bbugyi200.athena.toobig-8q.snapshot_capture.0` · **State:** active · **Source run:** `run-abe27d2e5ba080ef8cf73a135c51626b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8q
 
@@ -10,18 +10,24 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261028070111
-- Commits: 0
+- Timing: 2026-10-28T14:47:20.248887+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`bb9115b`](https://github.com/sase-org/sase/commit/bb9115b4e0dc82d9853281c5b9d6e2ac542fa030) | refactor(workspace): split snapshot capture into focused modules | 2026-10-28 11:06:11 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8q.artifact\_link\_event\_publish.0](../bbugyi200.athena.toobig-8q.artifact_link_event_publish.0/README.md) | toobig-8q hood | active |
+| [toobig-8q.artifact\_link\_event\_publish.0](../bbugyi200.athena.toobig-8q.artifact_link_event_publish.0/README.md) | toobig-8q hood | completed |
 | [toobig-8q.entry.0](../bbugyi200.athena.toobig-8q.entry.0/README.md) | toobig-8q hood | completed |
 | [toobig-8q.statistics\_pane.0](../bbugyi200.athena.toobig-8q.statistics_pane.0/README.md) | toobig-8q hood | completed |
 | [toobig-8q.statistics\_pane\_actions.0](../../sessions/bbugyi200.athena.toobig-8q.statistics_pane_actions.0.md) (session · 3) | toobig-8q hood | completed 2, failed 1 |

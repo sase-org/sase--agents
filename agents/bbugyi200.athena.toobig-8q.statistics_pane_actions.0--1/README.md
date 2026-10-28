@@ -27,9 +27,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8q.artifact\_link\_event\_publish.0](../bbugyi200.athena.toobig-8q.artifact_link_event_publish.0/README.md) | toobig-8q hood | active |
+| [toobig-8q.artifact\_link\_event\_publish.0](../bbugyi200.athena.toobig-8q.artifact_link_event_publish.0/README.md) | toobig-8q hood | completed |
 | [toobig-8q.entry.0](../bbugyi200.athena.toobig-8q.entry.0/README.md) | toobig-8q hood | completed |
-| [toobig-8q.snapshot\_capture.0](../bbugyi200.athena.toobig-8q.snapshot_capture.0/README.md) | toobig-8q hood | waiting |
+| [toobig-8q.snapshot\_capture.0](../bbugyi200.athena.toobig-8q.snapshot_capture.0/README.md) | toobig-8q hood | active |
 | [toobig-8q.statistics\_pane.0](../bbugyi200.athena.toobig-8q.statistics_pane.0/README.md) | toobig-8q hood | completed |
 | [toobig-8q.statistics\_pane\_helpers.0](../bbugyi200.athena.toobig-8q.statistics_pane_helpers.0/README.md) | toobig-8q hood | waiting |
 | [toobig-8q.test\_ace\_png\_snapshots\_config\_center\_statistics.0](../bbugyi200.athena.toobig-8q.test_ace_png_snapshots_config_center_statistics.0/README.md) | toobig-8q hood | waiting |

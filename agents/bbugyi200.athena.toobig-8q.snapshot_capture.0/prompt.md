@@ -1,6 +1,6 @@
+%auto
 %id(snapshot_capture.0, clan=toobig-8q)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `src/sase/workspace_provider/_snapshot_capture.py` file into multiple files? Use your best
 %wait:toobig-8q.artifact_link_event_publish.0
