@@ -16,7 +16,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -40,14 +40,14 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5e.linker.w0](../bbugyi200.athena.research.5e.linker.w0/README.md) | descendant | waiting |
-| [research.5e.cdx](../bbugyi200.athena.research.5e.cdx/README.md) | research.5e hood | completed |
-| [research.5e.cld](../bbugyi200.athena.research.5e.cld/README.md) | research.5e hood | completed |
-| [research.5e.final](../bbugyi200.athena.research.5e.final/README.md) | research.5e hood | completed |
-| [research.5e.gem](../bbugyi200.athena.research.5e.gem/README.md) | research.5e hood | completed |
-| [research.5e.grk](../bbugyi200.athena.research.5e.grk/README.md) | research.5e hood | completed |
-| [research.5e.image](../bbugyi200.athena.research.5e.image/README.md) | research.5e hood | completed |
-| [research.5e.mus](../bbugyi200.athena.research.5e.mus/README.md) | research.5e hood | completed |
+| [research.5e.linker.w0](../../sessions/bbugyi200.athena.research.5e.linker.w0.md) (session · 3) | descendant | active 1, failed 2 |
+| [research.5e.cdx](../bbugyi200.athena.research.5e.cdx/README.md) | research.5e hood | active |
+| [research.5e.cld](../bbugyi200.athena.research.5e.cld/README.md) | research.5e hood | active |
+| [research.5e.final](../bbugyi200.athena.research.5e.final/README.md) | research.5e hood | active |
+| [research.5e.gem](../bbugyi200.athena.research.5e.gem/README.md) | research.5e hood | active |
+| [research.5e.grk](../bbugyi200.athena.research.5e.grk/README.md) | research.5e hood | active |
+| [research.5e.image](../bbugyi200.athena.research.5e.image/README.md) | research.5e hood | active |
+| [research.5e.mus](../bbugyi200.athena.research.5e.mus/README.md) | research.5e hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
@@ -98,4 +98,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 1059 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 1067 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
