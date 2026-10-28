@@ -1,6 +1,6 @@
+%auto
 %id(statistics_pane_helpers.0, clan=toobig-8q)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/ace/tui/_statistics_pane_helpers.py` file into multiple files? Use your best
 %wait:toobig-8q.snapshot_capture.0
