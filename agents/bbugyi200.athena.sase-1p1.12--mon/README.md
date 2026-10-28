@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1p1](../../users/bbugyi200/machines/athena/hoods/sase-1p1/README.md) / [sase-1p1.12](../../sessions/bbugyi200.athena.sase-1p1.12.md) / sase-1p1.12--mon
 
-**Global name:** `bbugyi200.athena.sase-1p1.12--mon` · **State:** active · **Source run:** `run-9e4179f1db0e2f1b0b181d101d19660f`
+**Global name:** `bbugyi200.athena.sase-1p1.12--mon` · **State:** failed · **Source run:** `run-9e4179f1db0e2f1b0b181d101d19660f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1p1
 
@@ -12,15 +12,19 @@
 - Epic: [sase-1p1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1p1/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-28T05:44:53.709321+00:00
+- Timing: 2026-10-28T05:44:53.709321+00:00 → 2026-10-28T06:25:12.196319+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1p1.1](../../sessions/bbugyi200.athena.sase-1p1.1.md) (session · 3) | sase-1p1 hood | completed 2, failed 1 |
-| [sase-1p1.10](../bbugyi200.athena.sase-1p1.10/README.md) | sase-1p1 hood | waiting |
+| [sase-1p1.10](../bbugyi200.athena.sase-1p1.10/README.md) | sase-1p1 hood | active |
 | [sase-1p1.11](../bbugyi200.athena.sase-1p1.11/README.md) | sase-1p1 hood | waiting |
 | [sase-1p1.13](../bbugyi200.athena.sase-1p1.13/README.md) | sase-1p1 hood | waiting |
 | [sase-1p1.2](../bbugyi200.athena.sase-1p1.2/README.md) | sase-1p1 hood | completed |
@@ -30,5 +34,5 @@
 | [sase-1p1.6](../bbugyi200.athena.sase-1p1.6/README.md) | sase-1p1 hood | completed |
 | [sase-1p1.7](../bbugyi200.athena.sase-1p1.7/README.md) | sase-1p1 hood | active |
 | [sase-1p1.8](../bbugyi200.athena.sase-1p1.8/README.md) | sase-1p1 hood | completed |
-| [sase-1p1.9](../bbugyi200.athena.sase-1p1.9/README.md) | sase-1p1 hood | active |
+| [sase-1p1.9](../bbugyi200.athena.sase-1p1.9/README.md) | sase-1p1 hood | completed |
 | [sase-1p1.land](../bbugyi200.athena.sase-1p1.land/README.md) | sase-1p1 hood | waiting |

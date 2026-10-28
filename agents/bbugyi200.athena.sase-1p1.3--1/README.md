@@ -23,9 +23,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1p1.1](../../sessions/bbugyi200.athena.sase-1p1.1.md) (session · 3) | sase-1p1 hood | completed 2, failed 1 |
-| [sase-1p1.10](../bbugyi200.athena.sase-1p1.10/README.md) | sase-1p1 hood | waiting |
+| [sase-1p1.10](../bbugyi200.athena.sase-1p1.10/README.md) | sase-1p1 hood | active |
 | [sase-1p1.11](../bbugyi200.athena.sase-1p1.11/README.md) | sase-1p1 hood | waiting |
-| [sase-1p1.12](../../sessions/bbugyi200.athena.sase-1p1.12.md) (session · 2) | sase-1p1 hood | active 2 |
+| [sase-1p1.12](../../sessions/bbugyi200.athena.sase-1p1.12.md) (session · 3) | sase-1p1 hood | active 1, completed 1, failed 1 |
 | [sase-1p1.13](../bbugyi200.athena.sase-1p1.13/README.md) | sase-1p1 hood | waiting |
 | [sase-1p1.2](../bbugyi200.athena.sase-1p1.2/README.md) | sase-1p1 hood | completed |
 | [sase-1p1.4](../../sessions/bbugyi200.athena.sase-1p1.4.md) (session · 5) | sase-1p1 hood | completed 3, failed 2 |
@@ -33,5 +33,5 @@
 | [sase-1p1.6](../bbugyi200.athena.sase-1p1.6/README.md) | sase-1p1 hood | completed |
 | [sase-1p1.7](../bbugyi200.athena.sase-1p1.7/README.md) | sase-1p1 hood | active |
 | [sase-1p1.8](../bbugyi200.athena.sase-1p1.8/README.md) | sase-1p1 hood | completed |
-| [sase-1p1.9](../bbugyi200.athena.sase-1p1.9/README.md) | sase-1p1 hood | active |
+| [sase-1p1.9](../bbugyi200.athena.sase-1p1.9/README.md) | sase-1p1 hood | completed |
 | [sase-1p1.land](../bbugyi200.athena.sase-1p1.land/README.md) | sase-1p1 hood | waiting |
