@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-28T22:42:44.145125+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/staged\_handoffs\_through\_host\_completion/staged\_handoffs\_through\_host\_completion\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261028… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/staged_handoffs_through_host_completion/staged_handoffs_through_host_completion__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261028181312/staged_handoffs_through_host_completion__final-ec5685285b31.md
+  ref: file:explicit:22906d781f619d2a8647d71b
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_19/sase/repos/research/202610/staged_handoffs_through_host_completion/staged_handoffs_through_host_completion__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
