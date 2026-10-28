@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5f.image
 
-**Global name:** `bbugyi200.athena.research.5f.image` · **State:** waiting · **Source run:** `run-dffbd617002518e37f2144be7d7b9439`
+**Global name:** `bbugyi200.athena.research.5f.image` · **State:** active · **Source run:** `run-dffbd617002518e37f2144be7d7b9439`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261028181313
+- Timing: 2026-10-28T23:20:13.411697+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202610/staged\_handoffs\_through\_host\_completion/staged\_handoffs\_through\_host\_completion.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/202610… |
+| `diagrams` | {considered: 15, count: 1, manifest: 202610/staged\_handoffs\_through\_host\_completion/staged\_handoffs\_through\_host\_completion.diagrams.md, source\_ref: file:explicit:22906d781f619d2a8647d71b, status: re… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202610/staged_handoffs_through_host_completion/staged_handoffs_through_host_completion.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261028181313/staged_handoffs_through_host_completion.diagrams-ccf2e3aa99ae.md
+  ref: file:explicit:e89a7c467e88eb168bde0914
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_14/sase/repos/research/202610/staged_handoffs_through_host_completion/staged_handoffs_through_host_completion.diagrams.md
+- kind: image
+  label: infographic:202610/staged_handoffs_through_host_completion/staged_handoffs_through_host_completion_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261028181313/staged_handoffs_through_host_completion_infographic-088c5ca785ad.png
+  ref: file:explicit:beacb1c88c77b64a0d7fa422
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_14/sase/repos/research/202610/staged_handoffs_through_host_completion/staged_handoffs_through_host_completion_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 15
+count: 1
+manifest: 202610/staged_handoffs_through_host_completion/staged_handoffs_through_host_completion.diagrams.md
+source_ref: file:explicit:22906d781f619d2a8647d71b
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,10 +58,12 @@
 |---|---|---|
 | [research.5f.cdx](../bbugyi200.athena.research.5f.cdx/README.md) | research.5f hood | completed |
 | [research.5f.cld](../bbugyi200.athena.research.5f.cld/README.md) | research.5f hood | completed |
-| [research.5f.final](../bbugyi200.athena.research.5f.final/README.md) | research.5f hood | active |
+| [research.5f.final](../bbugyi200.athena.research.5f.final/README.md) | research.5f hood | completed |
+| [research.5f.final.f0](../bbugyi200.athena.research.5f.final.f0/README.md) | research.5f hood | active |
 | [research.5f.gem](../bbugyi200.athena.research.5f.gem/README.md) | research.5f hood | completed |
 | [research.5f.grk](../bbugyi200.athena.research.5f.grk/README.md) | research.5f hood | completed |
 | [research.5f.linker](../bbugyi200.athena.research.5f.linker/README.md) | research.5f hood | waiting |
+| [research.5f.linker.w0](../bbugyi200.athena.research.5f.linker.w0/README.md) | research.5f hood | waiting |
 | [research.5f.mus](../bbugyi200.athena.research.5f.mus/README.md) | research.5f hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
