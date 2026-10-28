@@ -2279,7 +2279,7 @@
 | [toobig-8n](hoods/toobig-8n/README.md) | 1 | 0 | active 1 |
 | [toobig-8o](hoods/toobig-8o/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
 | [toobig-8p](hoods/toobig-8p/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
-| [toobig-8q](hoods/toobig-8q/README.md) | 12 | 1 | active 1, completed 2, failed 1, waiting 8 |
+| [toobig-8q](hoods/toobig-8q/README.md) | 12 | 1 | active 1, completed 3, failed 1, waiting 7 |
 | [toobig-9](hoods/toobig-9/README.md) | 1 | 0 | active 1 |
 | [toobig-b](hoods/toobig-b/README.md) | 6 | 0 | active 1, dismissed 5 |
 | [toobig-c](hoods/toobig-c/README.md) | 3 | 0 | active 1, dismissed 2 |

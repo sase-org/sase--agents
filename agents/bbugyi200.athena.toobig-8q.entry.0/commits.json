@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-387dd3733a99774a31e992bac499f3d0"}
+{"commits":[{"committed_at":1793194381,"sha":"3d52c6ce744b0955220f074285936fd828640f04","subject":"refactor(cli): split entry point dispatch handlers"}],"schema_version":2,"source_run_id":"run-387dd3733a99774a31e992bac499f3d0"}

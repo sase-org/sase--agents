@@ -11,7 +11,7 @@ flowchart TD
   n0["toobig-8q.statistics_pane_actions.0--plan [completed]"]
   n1["toobig-8q.statistics_pane_actions.0--mon [failed]"]
   n0 --> n1
-  n2["toobig-8q.statistics_pane_actions.0--1 [active]"]
+  n2["toobig-8q.statistics_pane_actions.0--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | toobig-8q.statistics\_pane\_actions.0--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-28T12:06:54.504767+00:00 → 2026-10-28T12:44:11.743138+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-8q.statistics_pane_actions.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-8q.statistics_pane_actions.0--plan/chat.md) |
 | <a id="member-mon"></a>mon | toobig-8q.statistics\_pane\_actions.0--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-28T12:42:16.563239+00:00 → 2026-10-28T13:05:59.530021+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-8q.statistics_pane_actions.0--mon/chat.md) |
-| <a id="member-1"></a>1 | toobig-8q.statistics\_pane\_actions.0--1 | active | muse-spark-1.3-contributor / muse | 2026-10-28T13:04:20.298886+00:00 | [1](../agents/bbugyi200.athena.toobig-8q.statistics_pane_actions.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-8q.statistics_pane_actions.0--1/prompt.md) | — |
+| <a id="member-1"></a>1 | toobig-8q.statistics\_pane\_actions.0--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-28T13:04:20.298886+00:00 → 2026-10-28T13:13:18.041662+00:00 | [1](../agents/bbugyi200.athena.toobig-8q.statistics_pane_actions.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-8q.statistics_pane_actions.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-8q.statistics_pane_actions.0--1/chat.md) |
 
 ## Commits
 
@@ -34,7 +34,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-8q.artifact\_link\_event\_publish.0](../agents/bbugyi200.athena.toobig-8q.artifact_link_event_publish.0/README.md) | toobig-8q hood | waiting |
-| [toobig-8q.entry.0](../agents/bbugyi200.athena.toobig-8q.entry.0/README.md) | toobig-8q hood | waiting |
+| [toobig-8q.entry.0](../agents/bbugyi200.athena.toobig-8q.entry.0/README.md) | toobig-8q hood | active |
 | [toobig-8q.snapshot\_capture.0](../agents/bbugyi200.athena.toobig-8q.snapshot_capture.0/README.md) | toobig-8q hood | waiting |
 | [toobig-8q.statistics\_pane.0](../agents/bbugyi200.athena.toobig-8q.statistics_pane.0/README.md) | toobig-8q hood | completed |
 | [toobig-8q.statistics\_pane\_helpers.0](../agents/bbugyi200.athena.toobig-8q.statistics_pane_helpers.0/README.md) | toobig-8q hood | waiting |
