@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1793146348,"sha":"16a1e22001fdff483f4953157bae6a1324e5a599","subject":"refactor(footprint): split catalog_gen.py under the 500-line cap"}],"schema_version":2,"source_run_id":"run-02573d63e11a83feeaa4ea3c6b604a50"}
