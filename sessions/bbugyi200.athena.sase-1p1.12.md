@@ -67,7 +67,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-d"></a>d | sase-1p1.12--d | active | grok-4.6 / grok | 2026-10-28T14:03:36.342235+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1p1.12--d/prompt.md) | — |
+| <a id="member-d"></a>d | sase-1p1.12--d | active | grok-4.6 / grok | 2026-10-28T14:03:36.342235+00:00 | [1](../agents/bbugyi200.athena.sase-1p1.12--d/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1p1.12--d/prompt.md) | — |
 | <a id="member-4"></a>4 | sase-1p1.12--4 | completed | grok-4.6 / grok | 2026-10-28T08:34:26.917543+00:00 → 2026-10-28T08:57:36.126796+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1p1.12--4/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1p1.12--4/chat.md) |
 | <a id="member-8"></a>8 | sase-1p1.12--8 | completed | grok-4.6 / grok | 2026-10-28T11:07:32.413548+00:00 → 2026-10-28T11:21:56.348616+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1p1.12--8/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1p1.12--8/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-1p1.12--mon-1 | failed | grok-4.6 / grok | 2026-10-28T07:24:59.407114+00:00 → 2026-10-28T08:04:51.544469+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1p1.12--mon-1/chat.md) |
@@ -94,6 +94,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-1"></a>1 | sase-1p1.12--1 | completed | grok-4.6 / grok | 2026-10-28T06:26:44.026775+00:00 → 2026-10-28T06:39:55.222122+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1p1.12--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1p1.12--1/chat.md) |
 | <a id="member-mon-4"></a>mon-4 | sase-1p1.12--mon-4 | failed | grok-4.6 / grok | 2026-10-28T09:45:36.351999+00:00 → 2026-10-28T10:06:48.481607+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1p1.12--mon-4/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | sase-1p1.12--mon-2 | failed | grok-4.6 / grok | 2026-10-28T08:17:55.578194+00:00 → 2026-10-28T08:32:56.034924+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1p1.12--mon-2/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| d | sase | [`9026202`](https://github.com/sase-org/sase/commit/90262021ea8bc9fe57e1f5534f22b3d470f84968) | feat(footprint): add identity-free export packs and import merge | 2026-10-28 10:49:04 EDT |
 
 ## Neighbors
 
