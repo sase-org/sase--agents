@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / [research.5f.final.f0](../../sessions/bbugyi200.athena.research.5f.final.f0.md) / research.5f.final.f0--gate
 
-**Global name:** `bbugyi200.athena.research.5f.final.f0--gate` · **State:** active · **Source run:** `run-fa435837418778262dc5f2e301853e85`
+**Global name:** `bbugyi200.athena.research.5f.final.f0--gate` · **State:** failed · **Source run:** `run-fa435837418778262dc5f2e301853e85`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,8 +10,12 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-28T23:46:58.802461+00:00
+- Timing: 2026-10-29T00:01:06.259397+00:00 → 2026-10-29T00:03:19.555935+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -23,8 +27,8 @@
 | [research.5f.gem](../bbugyi200.athena.research.5f.gem/README.md) | research.5f hood | completed |
 | [research.5f.grk](../bbugyi200.athena.research.5f.grk/README.md) | research.5f hood | completed |
 | [research.5f.image](../bbugyi200.athena.research.5f.image/README.md) | research.5f hood | completed |
-| [research.5f.linker](../bbugyi200.athena.research.5f.linker/README.md) | research.5f hood | active |
-| [research.5f.linker.w0](../bbugyi200.athena.research.5f.linker.w0/README.md) | research.5f hood | waiting |
+| [research.5f.linker](../bbugyi200.athena.research.5f.linker/README.md) | research.5f hood | completed |
+| [research.5f.linker.w0](../../sessions/bbugyi200.athena.research.5f.linker.w0.md) (session · 2) | research.5f hood | active 1, completed 1 |
 | [research.5f.mus](../bbugyi200.athena.research.5f.mus/README.md) | research.5f hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |

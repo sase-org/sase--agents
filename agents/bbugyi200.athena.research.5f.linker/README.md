@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5f.linker
 
-**Global name:** `bbugyi200.athena.research.5f.linker` · **State:** active · **Source run:** `run-f39a0cfe634aa31fb102e8f80b0ea3d5`
+**Global name:** `bbugyi200.athena.research.5f.linker` · **State:** completed · **Source run:** `run-f39a0cfe634aa31fb102e8f80b0ea3d5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-28T23:38:41.386307+00:00
+- Timing: 2026-10-28T23:38:41.386307+00:00 → 2026-10-28T23:53:55.362891+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -40,11 +40,11 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5f.linker.w0](../bbugyi200.athena.research.5f.linker.w0/README.md) | descendant | waiting |
+| [research.5f.linker.w0](../../sessions/bbugyi200.athena.research.5f.linker.w0.md) (session · 2) | descendant | active 1, completed 1 |
 | [research.5f.cdx](../bbugyi200.athena.research.5f.cdx/README.md) | research.5f hood | completed |
 | [research.5f.cld](../bbugyi200.athena.research.5f.cld/README.md) | research.5f hood | completed |
 | [research.5f.final](../bbugyi200.athena.research.5f.final/README.md) | research.5f hood | completed |
-| [research.5f.final.f0](../../sessions/bbugyi200.athena.research.5f.final.f0.md) (session · 2) | research.5f hood | active 1, completed 1 |
+| [research.5f.final.f0](../../sessions/bbugyi200.athena.research.5f.final.f0.md) (session · 3) | research.5f hood | completed 1, failed 2 |
 | [research.5f.gem](../bbugyi200.athena.research.5f.gem/README.md) | research.5f hood | completed |
 | [research.5f.grk](../bbugyi200.athena.research.5f.grk/README.md) | research.5f hood | completed |
 | [research.5f.image](../bbugyi200.athena.research.5f.image/README.md) | research.5f hood | completed |
