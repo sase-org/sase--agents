@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1pm` · Members: 9 · Bead: [sase-1pm.2
 
 ```mermaid
 flowchart TD
-  n0["sase-1pm.2--4 [active]"]
+  n0["sase-1pm.2--4 [completed]"]
   n1["sase-1pm.2--3 [completed]"]
   n0 --> n1
   n2["sase-1pm.2--mon [failed]"]
@@ -31,7 +31,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-4"></a>4 | sase-1pm.2--4 | active | grok-4.6 / grok | 2026-10-29T09:59:04.105943+00:00 | [1](../agents/bbugyi200.athena.sase-1pm.2--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pm.2--4/prompt.md) | — |
+| <a id="member-4"></a>4 | sase-1pm.2--4 | completed | grok-4.6 / grok | 2026-10-29T09:59:04.105943+00:00 → 2026-10-29T10:14:22.619093+00:00 | [1](../agents/bbugyi200.athena.sase-1pm.2--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pm.2--4/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pm.2--4/chat.md) |
 | <a id="member-3"></a>3 | sase-1pm.2--3 | completed | grok-4.6 / grok | 2026-10-29T09:27:38.110413+00:00 → 2026-10-29T09:36:39.215956+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pm.2--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pm.2--3/chat.md) |
 | <a id="member-mon"></a>mon | sase-1pm.2--mon | failed | grok-4.6 / grok | 2026-10-29T05:57:28.538926+00:00 → 2026-10-29T06:59:42.066911+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pm.2--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1pm.2--plan | completed | grok-4.6 / grok | 2026-10-29T05:49:27.634326+00:00 → 2026-10-29T05:58:08.829635+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pm.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pm.2--plan/chat.md) |

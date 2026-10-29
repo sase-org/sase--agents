@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-29T09:47:00.149466+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`aef5524`](https://github.com/sase-org/sase/commit/aef552480b19775d3f197769a6fe7ac2173627a0) | feat(commit): gate rebase publication on project hook findings | 2026-10-29 06:33:12 EDT |
 
 ## Neighbors
 
@@ -29,7 +35,7 @@
 | [sase-1pm.5.1.3](../../sessions/bbugyi200.athena.sase-1pm.5.1.3.md) (session · 9) | sase-1pm.5.1 hood | completed 5, failed 4 |
 | [sase-1pm.5.1.land](../bbugyi200.athena.sase-1pm.5.1.land/README.md) | sase-1pm.5.1 hood | waiting |
 | [sase-1pm.1](../bbugyi200.athena.sase-1pm.1/README.md) | sase-1pm hood | completed |
-| [sase-1pm.2](../../sessions/bbugyi200.athena.sase-1pm.2.md) (session · 9) | sase-1pm hood | active 1, completed 4, failed 4 |
+| [sase-1pm.2](../../sessions/bbugyi200.athena.sase-1pm.2.md) (session · 9) | sase-1pm hood | completed 5, failed 4 |
 | [sase-1pm.3](../bbugyi200.athena.sase-1pm.3/README.md) | sase-1pm hood | completed |
 | [sase-1pm.4](../../sessions/bbugyi200.athena.sase-1pm.4.md) (session · 3) | sase-1pm hood | completed 2, failed 1 |
 | [sase-1pm.land](../bbugyi200.athena.sase-1pm.land/README.md) | sase-1pm hood | waiting |
