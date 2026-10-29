@@ -37,8 +37,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1pj.1.1.1](../agents/bbugyi200.athena.sase-1pj.1.1.1/README.md) | sase-1pj.1.1 hood | completed |
 | [sase-1pj.1.1.2](../agents/bbugyi200.athena.sase-1pj.1.1.2/README.md) | sase-1pj.1.1 hood | completed |
 | [sase-1pj.1.1.3](bbugyi200.athena.sase-1pj.1.1.3.md) (session · 3) | sase-1pj.1.1 hood | completed 2, failed 1 |
-| [sase-1pj.1.1.5](../agents/bbugyi200.athena.sase-1pj.1.1.5/README.md) | sase-1pj.1.1 hood | active |
-| [sase-1pj.1.1.land](../agents/bbugyi200.athena.sase-1pj.1.1.land/README.md) | sase-1pj.1.1 hood | waiting |
+| [sase-1pj.1.1.5](../agents/bbugyi200.athena.sase-1pj.1.1.5/README.md) | sase-1pj.1.1 hood | completed |
+| [sase-1pj.1.1.land](bbugyi200.athena.sase-1pj.1.1.land.md) (session · 3) | sase-1pj.1.1 hood | active 2, failed 1 |
 | [sase-1pj.2](../agents/bbugyi200.athena.sase-1pj.2/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.3](../agents/bbugyi200.athena.sase-1pj.3/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.4](../agents/bbugyi200.athena.sase-1pj.4/README.md) | sase-1pj hood | waiting |
