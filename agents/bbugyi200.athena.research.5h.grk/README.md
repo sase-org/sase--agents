@@ -27,7 +27,7 @@
 | [research.5h.gem](../bbugyi200.athena.research.5h.gem/README.md) | research.5h hood | active |
 | [research.5h.image](../bbugyi200.athena.research.5h.image/README.md) | research.5h hood | waiting |
 | [research.5h.linker](../bbugyi200.athena.research.5h.linker/README.md) | research.5h hood | waiting |
-| [research.5h.mus](../bbugyi200.athena.research.5h.mus/README.md) | research.5h hood | active |
+| [research.5h.mus](../bbugyi200.athena.research.5h.mus/README.md) | research.5h hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
