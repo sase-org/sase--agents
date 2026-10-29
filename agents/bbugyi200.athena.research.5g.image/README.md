@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5g.image
 
-**Global name:** `bbugyi200.athena.research.5g.image` · **State:** waiting · **Source run:** `run-97801cb36bebd86020094caf40d0e3ad`
+**Global name:** `bbugyi200.athena.research.5g.image` · **State:** active · **Source run:** `run-97801cb36bebd86020094caf40d0e3ad`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261029002953
+- Timing: 2026-10-29T05:44:04.567708+00:00
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 |---|---|---|
 | [research.5g.cdx](../bbugyi200.athena.research.5g.cdx/README.md) | research.5g hood | completed |
 | [research.5g.cld](../bbugyi200.athena.research.5g.cld/README.md) | research.5g hood | completed |
-| [research.5g.final](../bbugyi200.athena.research.5g.final/README.md) | research.5g hood | active |
+| [research.5g.final](../bbugyi200.athena.research.5g.final/README.md) | research.5g hood | completed |
 | [research.5g.gem](../bbugyi200.athena.research.5g.gem/README.md) | research.5g hood | completed |
 | [research.5g.grk](../bbugyi200.athena.research.5g.grk/README.md) | research.5g hood | completed |
 | [research.5g.linker](../bbugyi200.athena.research.5g.linker/README.md) | research.5g hood | waiting |
