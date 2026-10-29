@@ -12,7 +12,13 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-29T09:03:10.847079+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`894317d`](https://github.com/sase-org/sase/commit/894317dccd7214c99e7440f6653789f4b97fa5e4) | feat(plan): land staged plan-handoff foundation (sase-1pj.1.1) | 2026-10-29 05:39:49 EDT |
 
 ## Neighbors
 
@@ -24,7 +30,7 @@
 | [sase-1pj.1.1.3](../../sessions/bbugyi200.athena.sase-1pj.1.1.3.md) (session · 3) | sase-1pj.1.1 hood | completed 2, failed 1 |
 | [sase-1pj.1.1.4](../../sessions/bbugyi200.athena.sase-1pj.1.1.4.md) (session · 3) | sase-1pj.1.1 hood | completed 2, failed 1 |
 | [sase-1pj.1.1.5](../bbugyi200.athena.sase-1pj.1.1.5/README.md) | sase-1pj.1.1 hood | completed |
-| [sase-1pj.2](../bbugyi200.athena.sase-1pj.2/README.md) | sase-1pj hood | waiting |
+| [sase-1pj.2](../bbugyi200.athena.sase-1pj.2/README.md) | sase-1pj hood | active |
 | [sase-1pj.3](../bbugyi200.athena.sase-1pj.3/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.4](../bbugyi200.athena.sase-1pj.4/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.5](../bbugyi200.athena.sase-1pj.5/README.md) | sase-1pj hood | waiting |

@@ -25,11 +25,11 @@
 |---|---|---|
 | [sase-1pm.5](../../sessions/bbugyi200.athena.sase-1pm.5.md) (session · 3) | ancestor | failed 3 |
 | [sase-1pm.5.1.1](../bbugyi200.athena.sase-1pm.5.1.1/README.md) | sase-1pm.5.1 hood | completed |
-| [sase-1pm.5.1.2](../../sessions/bbugyi200.athena.sase-1pm.5.1.2.md) (session · 3) | sase-1pm.5.1 hood | active 1, completed 1, failed 1 |
-| [sase-1pm.5.1.3](../../sessions/bbugyi200.athena.sase-1pm.5.1.3.md) (session · 8) | sase-1pm.5.1 hood | active 1, completed 4, failed 3 |
+| [sase-1pm.5.1.2](../../sessions/bbugyi200.athena.sase-1pm.5.1.2.md) (session · 3) | sase-1pm.5.1 hood | completed 2, failed 1 |
+| [sase-1pm.5.1.3](../../sessions/bbugyi200.athena.sase-1pm.5.1.3.md) (session · 9) | sase-1pm.5.1 hood | active 1, completed 4, failed 4 |
 | [sase-1pm.5.1.land](../bbugyi200.athena.sase-1pm.5.1.land/README.md) | sase-1pm.5.1 hood | waiting |
 | [sase-1pm.1](../bbugyi200.athena.sase-1pm.1/README.md) | sase-1pm hood | completed |
-| [sase-1pm.2](../../sessions/bbugyi200.athena.sase-1pm.2.md) (session · 5) | sase-1pm hood | active 1, completed 2, failed 2 |
+| [sase-1pm.2](../../sessions/bbugyi200.athena.sase-1pm.2.md) (session · 8) | sase-1pm hood | active 1, completed 4, failed 3 |
 | [sase-1pm.3](../bbugyi200.athena.sase-1pm.3/README.md) | sase-1pm hood | completed |
 | [sase-1pm.4](../../sessions/bbugyi200.athena.sase-1pm.4.md) (session · 3) | sase-1pm hood | completed 2, failed 1 |
 | [sase-1pm.land](../bbugyi200.athena.sase-1pm.land/README.md) | sase-1pm hood | waiting |

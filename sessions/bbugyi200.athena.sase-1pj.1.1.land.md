@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-1pj.1.1.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-29T09:03:10.847079+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-1pj.1.1.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-29T09:03:10.847079+00:00 | [1](../agents/bbugyi200.athena.sase-1pj.1.1.land--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-1pj.1.1.land--plan | active | opus / claude | 2026-10-29T08:39:52.965734+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.1.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.1.1.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-1pj.1.1.land--gate | failed | opus / claude | 2026-10-29T09:01:21.918213+00:00 → 2026-10-29T09:02:32.157580+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.1.1.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`894317d`](https://github.com/sase-org/sase/commit/894317dccd7214c99e7440f6653789f4b97fa5e4) | feat(plan): land staged plan-handoff foundation (sase-1pj.1.1) | 2026-10-29 05:39:49 EDT |
 
 ## Neighbors
 
@@ -33,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1pj.1.1.3](bbugyi200.athena.sase-1pj.1.1.3.md) (session · 3) | sase-1pj.1.1 hood | completed 2, failed 1 |
 | [sase-1pj.1.1.4](bbugyi200.athena.sase-1pj.1.1.4.md) (session · 3) | sase-1pj.1.1 hood | completed 2, failed 1 |
 | [sase-1pj.1.1.5](../agents/bbugyi200.athena.sase-1pj.1.1.5/README.md) | sase-1pj.1.1 hood | completed |
-| [sase-1pj.2](../agents/bbugyi200.athena.sase-1pj.2/README.md) | sase-1pj hood | waiting |
+| [sase-1pj.2](../agents/bbugyi200.athena.sase-1pj.2/README.md) | sase-1pj hood | active |
 | [sase-1pj.3](../agents/bbugyi200.athena.sase-1pj.3/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.4](../agents/bbugyi200.athena.sase-1pj.4/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.5](../agents/bbugyi200.athena.sase-1pj.5/README.md) | sase-1pj hood | waiting |

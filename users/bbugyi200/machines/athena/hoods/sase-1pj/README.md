@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-1pj
 
-**Global hood:** `bbugyi200.athena.sase-1pj` · **Runs:** 24 · **Sessions:** 4 · **States:** active 2, completed 7, failed 6, waiting 9
+**Global hood:** `bbugyi200.athena.sase-1pj` · **Runs:** 24 · **Sessions:** 4 · **States:** active 3, completed 7, failed 6, waiting 8
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [sase-1pj.2](../../../../../../agents/bbugyi200.athena.sase-1pj.2/README.md) | waiting | gpt-6-astra / codex | 20261028203145 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1pj.2/prompt.md) |
-| [sase-1pj.1.1.land--code](../../../../../../sessions/bbugyi200.athena.sase-1pj.1.1.land.md#member-code) | active | muse-spark-1.3-contributor / muse | 2026-10-29T09:03:10.847079+00:00 | 0 | — |
+| [sase-1pj.2](../../../../../../agents/bbugyi200.athena.sase-1pj.2/README.md) | active | gpt-6-astra / codex | 2026-10-29T09:39:36.521616+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1pj.2/prompt.md) |
+| [sase-1pj.1.1.land--code](../../../../../../sessions/bbugyi200.athena.sase-1pj.1.1.land.md#member-code) | active | muse-spark-1.3-contributor / muse | 2026-10-29T09:03:10.847079+00:00 | 1 | — |
 | [sase-1pj.4](../../../../../../agents/bbugyi200.athena.sase-1pj.4/README.md) | waiting | gpt-6-astra / codex | 20261028203147 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1pj.4/prompt.md) |
 | [sase-1pj.1.1.land--plan](../../../../../../sessions/bbugyi200.athena.sase-1pj.1.1.land.md#member-plan) | active | opus / claude | 2026-10-29T08:39:52.965734+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1pj.1.1.land--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1pj.1.1.land--plan/chat.md) |
 | [sase-1pj.1.1.land--gate](../../../../../../sessions/bbugyi200.athena.sase-1pj.1.1.land.md#member-gate) | failed | opus / claude | 2026-10-29T09:01:21.918213+00:00 → 2026-10-29T09:02:32.157580+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1pj.1.1.land--gate/chat.md) |
