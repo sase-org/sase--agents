@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-5"></a>5 | sase-1pm.5.1.land--5 | active | gpt-6-luna / codex | 2026-10-29T13:24:17.683104+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pm.5.1.land--5/prompt.md) | — |
+| <a id="member-5"></a>5 | sase-1pm.5.1.land--5 | active | gpt-6-luna / codex | 2026-10-29T13:24:17.683104+00:00 | [1](../agents/bbugyi200.athena.sase-1pm.5.1.land--5/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pm.5.1.land--5/prompt.md) | — |
 | <a id="member-mon"></a>mon | sase-1pm.5.1.land--mon | failed | gpt-6-luna / codex | 2026-10-29T11:19:33.955360+00:00 → 2026-10-29T11:41:37.991234+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.land--mon/chat.md) |
 | <a id="member-1"></a>1 | sase-1pm.5.1.land--1 | completed | gpt-6-luna / codex | 2026-10-29T11:43:30.855858+00:00 → 2026-10-29T11:49:49.287541+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pm.5.1.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.land--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1pm.5.1.land--plan | completed | gpt-6-astra / codex | 2026-10-29T10:39:36.153201+00:00 → 2026-10-29T11:20:32.766459+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pm.5.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.land--plan/chat.md) |
@@ -52,6 +52,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | sase-1pm.5.1.land--code | completed | gpt-6-luna / codex | 2026-10-29T10:57:53.098818+00:00 → 2026-10-29T11:20:32.766459+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.land--code/chat.md) |
 | <a id="member-4"></a>4 | sase-1pm.5.1.land--4 | completed | gpt-6-luna / codex | 2026-10-29T12:27:40.641922+00:00 → 2026-10-29T13:11:31.487133+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pm.5.1.land--4/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.land--4/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-1pm.5.1.land--mon-1 | failed | gpt-6-luna / codex | 2026-10-29T12:13:52.499167+00:00 → 2026-10-29T12:16:24.197444+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.land--mon-1/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 5 | sase | [`cddea47`](https://github.com/sase-org/sase/commit/cddea47cc6a684aa50c0eb564af3f672cf9aea5e) | fix(vcs): block broken imports after rebase | 2026-10-29 10:22:41 EDT |
 
 ## Variables
 
