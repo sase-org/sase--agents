@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `research` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["research.5f.final.f0--plan [completed]"]
+  n0["research.5f.final.f0--plan [active]"]
   n1["research.5f.final.f0--mon [failed]"]
   n0 --> n1
   n2["research.5f.final.f0--gate [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | research.5f.final.f0--plan | completed | opus / claude | 2026-10-28T23:22:48.311184+00:00 → 2026-10-28T23:47:50.673960+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.5f.final.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.5f.final.f0--plan/chat.md) |
+| <a id="member-plan"></a>plan | research.5f.final.f0--plan | active | opus / claude | 2026-10-28T23:22:48.311184+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.5f.final.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.5f.final.f0--plan/chat.md) |
 | <a id="member-mon"></a>mon | research.5f.final.f0--mon | failed | opus / claude | 2026-10-29T00:02:52.610005+00:00 → 2026-10-29T00:07:12.438095+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.5f.final.f0--mon/chat.md) |
 | <a id="member-gate"></a>gate | research.5f.final.f0--gate | failed | opus / claude | 2026-10-29T00:01:06.259397+00:00 → 2026-10-29T00:03:19.555935+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.5f.final.f0--gate/chat.md) |
 
@@ -69,7 +69,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [research.5f.grk](../agents/bbugyi200.athena.research.5f.grk/README.md) | research.5f hood | completed |
 | [research.5f.image](../agents/bbugyi200.athena.research.5f.image/README.md) | research.5f hood | completed |
 | [research.5f.linker](../agents/bbugyi200.athena.research.5f.linker/README.md) | research.5f hood | completed |
-| [research.5f.linker.w0](bbugyi200.athena.research.5f.linker.w0.md) (session · 3) | research.5f hood | active 1, completed 1, failed 1 |
+| [research.5f.linker.w0](bbugyi200.athena.research.5f.linker.w0.md) (session · 3) | research.5f hood | active 1, failed 2 |
 | [research.5f.mus](../agents/bbugyi200.athena.research.5f.mus/README.md) | research.5f hood | completed |
 | [research.0.cdx](../agents/bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../agents/bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
@@ -121,4 +121,4 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [research.0a.final](../agents/bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../agents/bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../agents/bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 1067 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 1076 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

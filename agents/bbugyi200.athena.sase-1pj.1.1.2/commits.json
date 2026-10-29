@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4e3bc1af3c8b5a2acd258187e9860b25"}
+{"commits":[{"committed_at":1793248714,"sha":"dd59c28f44c7e5fc83cc75188ca58b710d4f32f7","subject":"feat(handoff): adopt staged plans after finalizer settlement"}],"schema_version":2,"source_run_id":"run-4e3bc1af3c8b5a2acd258187e9860b25"}
