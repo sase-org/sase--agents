@@ -2,29 +2,56 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1ou](../users/bbugyi200/machines/athena/hoods/sase-1ou/README.md) / sase-1ou.6.land
 
-Owner: `bbugyi200.athena` · Hood: `sase-1ou` · Members: 2 · Bead: [sase-1ou.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ou/sase-1ou.6.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1ou` · Members: 4 · Bead: [sase-1ou.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ou/sase-1ou.6.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-1ou.6.land--plan [completed]"]
-  n1["sase-1ou.6.land--mon [active]"]
+  n0["sase-1ou.6.land--1 [completed]"]
+  n1["sase-1ou.6.land--plan [completed]"]
   n0 --> n1
+  n2["sase-1ou.6.land--mon-0 [active]"]
+  n0 --> n2
+  n3["sase-1ou.6.land--mon [failed]"]
+  n0 --> n3
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
+| <a id="member-1"></a>1 | sase-1ou.6.land--1 | completed | gpt-6-astra / codex | 2026-10-29T14:56:09.721563+00:00 → 2026-10-29T15:11:52.134044+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.6.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.6.land--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1ou.6.land--plan | completed | gpt-6-astra / codex | 2026-10-28T23:20:44.020707+00:00 → 2026-10-28T23:27:31.879181+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.6.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.6.land--plan/chat.md) |
-| <a id="member-mon"></a>mon | sase-1ou.6.land--mon | active | gpt-6-astra / codex | 2026-10-28T23:26:56.327881+00:00 | 0 | — | — |
+| <a id="member-mon-0"></a>mon-0 | sase-1ou.6.land--mon-0 | active | gpt-6-astra / codex | 2026-10-29T15:10:50.311592+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1ou.6.land--mon | failed | gpt-6-astra / codex | 2026-10-28T23:26:56.327881+00:00 → 2026-10-29T14:52:56.159167+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ou.6.land--mon/chat.md) |
+
+## Variables
+
+| Role | Variable | Value |
+|---|---|---|
+| 1 | `artifacts` | \[{bead: sase-1ou.6, kind: file, label: Files navigation CI recurrence and landing rejection (2026-10-29), path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261029105155/ci-rejection-eviden… |
+
+#### artifacts
+
+**Role:** `1`
+
+```yaml
+- bead: sase-1ou.6
+  kind: file
+  label: Files navigation CI recurrence and landing rejection (2026-10-29)
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261029105155/ci-rejection-evidence-5e7345b709e1.txt
+  ref: file:explicit:c6f1c46fbe473d24b4235abb
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_16/.pytest_cache/sase-1ou6-land/ci-rejection-evidence.txt
+```
+
+Values are truncated for display; see each member's agent meta.json for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1ou.6.1](../agents/bbugyi200.athena.sase-1ou.6.1/README.md) | sase-1ou.6 hood | completed |
+| [sase-1ou.6.1](../agents/bbugyi200.athena.sase-1ou.6.1/README.md) | sase-1ou.6 hood | active |
 | [sase-1ou.1](../agents/bbugyi200.athena.sase-1ou.1/README.md) | sase-1ou hood | completed |
 | [sase-1ou.2](bbugyi200.athena.sase-1ou.2.md) (session · 3) | sase-1ou hood | failed 3 |
 | [sase-1ou.2.1.1](../agents/bbugyi200.athena.sase-1ou.2.1.1/README.md) | sase-1ou hood | active |

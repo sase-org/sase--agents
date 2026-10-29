@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1ou](../../users/bbugyi200/machines/athena/hoods/sase-1ou/README.md) / sase-1ou.6.1
 
-**Global name:** `bbugyi200.athena.sase-1ou.6.1` · **State:** completed · **Source run:** `run-6c2deed189faf639d564df995697df69`
+**Global name:** `bbugyi200.athena.sase-1ou.6.1` · **State:** active · **Source run:** `run-5ab75a8cf85f8b4e59265a91ba0852a3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1ou
 
@@ -10,10 +10,10 @@
 
 - Bead: [sase-1ou.6.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ou/sase-1ou.6.1.md)
 - Epic: [sase-1ou.6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ou/sase-1ou.6.md)
-- Model: muse-spark-1.3-contributor
-- Provider: muse
-- Timing: 2026-10-28T21:07:36.480043+00:00 → 2026-10-28T23:18:48.656023+00:00
-- Commits: [1](#commits)
+- Model: grok-4.6
+- Provider: grok
+- Timing: 2026-10-29T15:10:19.666467+00:00
+- Commits: [2](#commits)
 
 ## Files
 
@@ -24,12 +24,13 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`aaa88b0`](https://github.com/sase-org/sase/commit/aaa88b002679ac9b12a5cdc4244426daa469011a) | fix(ace-tui): resume stalled Files spread navigation on scroll-extent growth | 2026-10-28 19:11:09 EDT |
+| sase | [`2e68053`](https://github.com/sase-org/sase/commit/2e68053dab2fc560107a882a99f747e6de28761f) | fix(tui): remeasure Files spread reserve when already enabled | 2026-10-29 16:20:28 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1ou.6.land](../../sessions/bbugyi200.athena.sase-1ou.6.land.md) (session · 2) | sase-1ou.6 hood | active 1, completed 1 |
+| [sase-1ou.6.land](../../sessions/bbugyi200.athena.sase-1ou.6.land.md) (session · 4) | sase-1ou.6 hood | active 1, completed 2, failed 1 |
 | [sase-1ou.1](../bbugyi200.athena.sase-1ou.1/README.md) | sase-1ou hood | completed |
 | [sase-1ou.2](../../sessions/bbugyi200.athena.sase-1ou.2.md) (session · 3) | sase-1ou hood | failed 3 |
 | [sase-1ou.2.1.1](../bbugyi200.athena.sase-1ou.2.1.1/README.md) | sase-1ou hood | active |
