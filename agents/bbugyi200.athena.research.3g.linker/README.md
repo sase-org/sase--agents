@@ -27,7 +27,6 @@
 | [research.3g.gem](../bbugyi200.athena.research.3g.gem/README.md) | research.3g hood | active |
 | [research.3g.grk](../bbugyi200.athena.research.3g.grk/README.md) | research.3g hood | active |
 | [research.3g.image](../bbugyi200.athena.research.3g.image/README.md) | research.3g hood | active |
-| [research.3g.mus](../bbugyi200.athena.research.3g.mus/README.md) | research.3g hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |

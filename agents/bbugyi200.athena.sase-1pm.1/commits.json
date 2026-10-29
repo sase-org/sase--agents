@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c529ba301f5c1feda3b6f9a8bce6fed4"}
+{"commits":[{"committed_at":1793258655,"sha":"45ded07c148fd583e089f7b3f22f10ff0fe0272a","subject":"fix(monitor): accept production SHA result markers as successful receipts"}],"schema_version":2,"source_run_id":"run-c529ba301f5c1feda3b6f9a8bce6fed4"}

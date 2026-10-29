@@ -30,8 +30,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1pm.1](../bbugyi200.athena.sase-1pm.1/README.md) | sase-1pm hood | active |
-| [sase-1pm.2](../../sessions/bbugyi200.athena.sase-1pm.2.md) (session · 2) | sase-1pm hood | active 1, completed 1 |
-| [sase-1pm.4](../../sessions/bbugyi200.athena.sase-1pm.4.md) (session · 3) | sase-1pm hood | active 1, completed 1, failed 1 |
+| [sase-1pm.2](../../sessions/bbugyi200.athena.sase-1pm.2.md) (session · 4) | sase-1pm hood | active 1, completed 2, failed 1 |
+| [sase-1pm.4](../../sessions/bbugyi200.athena.sase-1pm.4.md) (session · 3) | sase-1pm hood | completed 2, failed 1 |
 | [sase-1pm.5](../../sessions/bbugyi200.athena.sase-1pm.5.md) (session · 3) | sase-1pm hood | failed 3 |
 | [sase-1pm.5.1.1](../bbugyi200.athena.sase-1pm.5.1.1/README.md) | sase-1pm hood | active |
 | [sase-1pm.5.1.2](../bbugyi200.athena.sase-1pm.5.1.2/README.md) | sase-1pm hood | waiting |
