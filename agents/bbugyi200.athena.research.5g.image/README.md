@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5g.image
 
-**Global name:** `bbugyi200.athena.research.5g.image` · **State:** active · **Source run:** `run-97801cb36bebd86020094caf40d0e3ad`
+**Global name:** `bbugyi200.athena.research.5g.image` · **State:** completed · **Source run:** `run-97801cb36bebd86020094caf40d0e3ad`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-29T05:44:04.567708+00:00
+- Timing: 2026-10-29T05:44:04.567708+00:00 → 2026-10-29T06:01:48.687036+00:00
 - Commits: 0
 - Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -56,7 +56,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.5g.final](../bbugyi200.athena.research.5g.final/README.md) | research.5g hood | completed |
 | [research.5g.gem](../bbugyi200.athena.research.5g.gem/README.md) | research.5g hood | completed |
 | [research.5g.grk](../bbugyi200.athena.research.5g.grk/README.md) | research.5g hood | completed |
-| [research.5g.linker](../bbugyi200.athena.research.5g.linker/README.md) | research.5g hood | waiting |
+| [research.5g.linker](../bbugyi200.athena.research.5g.linker/README.md) | research.5g hood | active |
 | [research.5g.mus](../bbugyi200.athena.research.5g.mus/README.md) | research.5g hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |

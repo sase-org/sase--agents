@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-29T05:40:01.862238+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/commit\_stage\_latency\_synchronous\_publication/commit\_stage\_latency\_synchronous\_publication\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sas… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/commit_stage_latency_synchronous_publication/commit_stage_latency_synchronous_publication__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261029010618/commit_stage_latency_synchronous_publication__final-0cd5d9e70d3e.md
+  ref: file:explicit:9e7844a367ec169e8185a13d
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_21/sase/repos/research/202610/commit_stage_latency_synchronous_publication/commit_stage_latency_synchronous_publication__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
