@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5g.cld
 
-**Global name:** `bbugyi200.athena.research.5g.cld` · **State:** active · **Source run:** `run-c940a87f1200f814b32a0626ebc66df8`
+**Global name:** `bbugyi200.athena.research.5g.cld` · **State:** completed · **Source run:** `run-c940a87f1200f814b32a0626ebc66df8`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-29T04:32:27.352779+00:00
+- Timing: 2026-10-29T04:32:27.352779+00:00 → 2026-10-29T05:04:58.255529+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -41,7 +41,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [research.5g.cdx](../bbugyi200.athena.research.5g.cdx/README.md) | research.5g hood | completed |
-| [research.5g.final](../bbugyi200.athena.research.5g.final/README.md) | research.5g hood | waiting |
+| [research.5g.final](../bbugyi200.athena.research.5g.final/README.md) | research.5g hood | active |
 | [research.5g.gem](../bbugyi200.athena.research.5g.gem/README.md) | research.5g hood | completed |
 | [research.5g.grk](../bbugyi200.athena.research.5g.grk/README.md) | research.5g hood | completed |
 | [research.5g.image](../bbugyi200.athena.research.5g.image/README.md) | research.5g hood | waiting |
@@ -97,4 +97,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 1078 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 1086 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
