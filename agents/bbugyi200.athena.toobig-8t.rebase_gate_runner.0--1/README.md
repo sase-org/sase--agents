@@ -27,6 +27,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8t.test\_monitor\_host\_completion.0](../bbugyi200.athena.toobig-8t.test_monitor_host_completion.0/README.md) | toobig-8t hood | active |
-| [toobig-8t.test\_rebase\_gate\_runner.0](../bbugyi200.athena.toobig-8t.test_rebase_gate_runner.0/README.md) | toobig-8t hood | waiting |
+| [toobig-8t.test\_monitor\_host\_completion.0](../bbugyi200.athena.toobig-8t.test_monitor_host_completion.0/README.md) | toobig-8t hood | completed |
+| [toobig-8t.test\_rebase\_gate\_runner.0](../../sessions/bbugyi200.athena.toobig-8t.test_rebase_gate_runner.0.md) (session · 3) | toobig-8t hood | active 1, completed 1, failed 1 |
 | [toobig-8t.workflow.0](../../sessions/bbugyi200.athena.toobig-8t.workflow.0.md) (session · 7) | toobig-8t hood | completed 4, failed 3 |
