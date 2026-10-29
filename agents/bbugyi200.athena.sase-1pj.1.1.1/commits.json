@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6ce69d85204d028f86f0886b631ccc96"}
+{"commits":[{"committed_at":1793245071,"sha":"06cd630543ab655702474cb75b8f394e6c39cafb","subject":"feat(handoff): add staged-handoff storage, guards, and staged_handoffs flag"}],"schema_version":2,"source_run_id":"run-6ce69d85204d028f86f0886b631ccc96"}
