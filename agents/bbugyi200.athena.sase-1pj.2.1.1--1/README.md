@@ -12,11 +12,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-29T10:43:54.392072+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9c0a31f`](https://github.com/sase-org/sase/commit/9c0a31fba576ffa20feedbe93662d6bb871ed0a2) | feat(core-policy): add finalizer handoff wire, disposition checks and prepared-coverage mirrors | 2026-10-29 07:29:18 EDT |
 
 ## Neighbors
 

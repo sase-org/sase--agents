@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e61d0166f695f6aafdb79c3f509d49f1"}
+{"commits":[{"committed_at":1793273358,"sha":"9c0a31fba576ffa20feedbe93662d6bb871ed0a2","subject":"feat(core-policy): add finalizer handoff wire, disposition checks and prepared-coverage mirrors"}],"schema_version":2,"source_run_id":"run-e61d0166f695f6aafdb79c3f509d49f1"}

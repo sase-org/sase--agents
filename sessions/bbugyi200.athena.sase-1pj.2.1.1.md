@@ -21,7 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-1pj.2.1.1--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-29T09:56:03.314413+00:00 → 2026-10-29T10:36:41.814208+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.2.1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.2.1.1--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-1pj.2.1.1--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-29T10:35:56.006444+00:00 → 2026-10-29T10:41:58.725135+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.2.1.1--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-1pj.2.1.1--1 | active | muse-spark-1.3-contributor / muse | 2026-10-29T10:43:54.392072+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.2.1.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1pj.2.1.1--1 | active | muse-spark-1.3-contributor / muse | 2026-10-29T10:43:54.392072+00:00 | [1](../agents/bbugyi200.athena.sase-1pj.2.1.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pj.2.1.1--1/prompt.md) | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`9c0a31f`](https://github.com/sase-org/sase/commit/9c0a31fba576ffa20feedbe93662d6bb871ed0a2) | feat(core-policy): add finalizer handoff wire, disposition checks and prepared-coverage mirrors | 2026-10-29 07:29:18 EDT |
 
 ## Neighbors
 
