@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pm](../../users/bbugyi200/machines/athena/hoods/sase-1pm/README.md) / [sase-1pm.5.1.land](../../sessions/bbugyi200.athena.sase-1pm.5.1.land.md) / sase-1pm.5.1.land--5
 
-**Global name:** `bbugyi200.athena.sase-1pm.5.1.land--5` · **State:** active · **Source run:** `run-06327b1b1f82b8f0aa5de03408ad3d28`
+**Global name:** `bbugyi200.athena.sase-1pm.5.1.land--5` · **State:** completed · **Source run:** `run-06327b1b1f82b8f0aa5de03408ad3d28`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pm
 
@@ -11,12 +11,12 @@
 - Bead: [sase-1pm.5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pm/sase-1pm.5.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-29T13:24:17.683104+00:00
+- Timing: 2026-10-29T13:24:17.683104+00:00 → 2026-10-29T14:26:59.993961+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
