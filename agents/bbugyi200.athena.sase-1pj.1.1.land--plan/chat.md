@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-1pj.1.1.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_sase_org__sase-ace_run-sase_1pj_1_1_land__plan-261028_204923.md`
+- 2. --code — `~/.sase/chats/202610/gh_sase_org__sase-ace_run-sase_1pj_1_1_land__code-261028_204923.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/staged_plan_foundation_landing.md
 
 

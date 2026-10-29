@@ -1,0 +1,40 @@
+# Agent: sase-1pm.2--4
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pm](../../users/bbugyi200/machines/athena/hoods/sase-1pm/README.md) / [sase-1pm.2](../../sessions/bbugyi200.athena.sase-1pm.2.md) / sase-1pm.2--4
+
+**Global name:** `bbugyi200.athena.sase-1pm.2--4` · **State:** active · **Source run:** `run-37a2f2eaedb0c8b8f410d14ed712bda0`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pm
+
+## Summary
+
+- Bead: [sase-1pm.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pm/sase-1pm.2.md)
+- Model: grok-4.6
+- Provider: grok
+- Timing: 2026-10-29T09:59:04.105943+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`bcddb9e`](https://github.com/sase-org/sase/commit/bcddb9edb3182abfd1d47ff2f05bc6a7a654cf4b) | test: pin TERM so rendering contracts ignore ambient dumb terminals | 2026-10-29 06:09:16 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-1pm.1](../bbugyi200.athena.sase-1pm.1/README.md) | sase-1pm hood | completed |
+| [sase-1pm.3](../bbugyi200.athena.sase-1pm.3/README.md) | sase-1pm hood | completed |
+| [sase-1pm.4](../../sessions/bbugyi200.athena.sase-1pm.4.md) (session · 3) | sase-1pm hood | completed 2, failed 1 |
+| [sase-1pm.5](../../sessions/bbugyi200.athena.sase-1pm.5.md) (session · 3) | sase-1pm hood | failed 3 |
+| [sase-1pm.5.1.1](../bbugyi200.athena.sase-1pm.5.1.1/README.md) | sase-1pm hood | completed |
+| [sase-1pm.5.1.2](../../sessions/bbugyi200.athena.sase-1pm.5.1.2.md) (session · 3) | sase-1pm hood | completed 2, failed 1 |
+| [sase-1pm.5.1.3](../../sessions/bbugyi200.athena.sase-1pm.5.1.3.md) (session · 9) | sase-1pm hood | completed 5, failed 4 |
+| [sase-1pm.5.1.4](../bbugyi200.athena.sase-1pm.5.1.4/README.md) | sase-1pm hood | active |
+| [sase-1pm.5.1.land](../bbugyi200.athena.sase-1pm.5.1.land/README.md) | sase-1pm hood | waiting |
+| [sase-1pm.land](../bbugyi200.athena.sase-1pm.land/README.md) | sase-1pm hood | waiting |

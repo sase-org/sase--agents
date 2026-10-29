@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1pm.5.1.3--3 [completed]"]
   n1["sase-1pm.5.1.3--mon [failed]"]
   n0 --> n1
-  n2["sase-1pm.5.1.3--4 [active]"]
+  n2["sase-1pm.5.1.3--4 [completed]"]
   n0 --> n2
   n3["sase-1pm.5.1.3--mon-2 [failed]"]
   n0 --> n3
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-3"></a>3 | sase-1pm.5.1.3--3 | completed | grok-4.6 / grok | 2026-10-29T09:04:53.391680+00:00 → 2026-10-29T09:11:36.084219+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pm.5.1.3--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.3--3/chat.md) |
 | <a id="member-mon"></a>mon | sase-1pm.5.1.3--mon | failed | grok-4.6 / grok | 2026-10-29T08:08:11.714215+00:00 → 2026-10-29T08:13:03.670440+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.3--mon/chat.md) |
-| <a id="member-4"></a>4 | sase-1pm.5.1.3--4 | active | grok-4.6 / grok | 2026-10-29T09:22:19.638155+00:00 | [1](../agents/bbugyi200.athena.sase-1pm.5.1.3--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pm.5.1.3--4/prompt.md) | — |
+| <a id="member-4"></a>4 | sase-1pm.5.1.3--4 | completed | grok-4.6 / grok | 2026-10-29T09:22:19.638155+00:00 → 2026-10-29T09:45:40.260588+00:00 | [1](../agents/bbugyi200.athena.sase-1pm.5.1.3--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pm.5.1.3--4/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.3--4/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | sase-1pm.5.1.3--mon-2 | failed | grok-4.6 / grok | 2026-10-29T09:10:47.126054+00:00 → 2026-10-29T09:20:20.521564+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.3--mon-2/chat.md) |
 | <a id="member-1"></a>1 | sase-1pm.5.1.3--1 | completed | grok-4.6 / grok | 2026-10-29T08:15:42.828911+00:00 → 2026-10-29T08:24:32.323034+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pm.5.1.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.3--1/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-1pm.5.1.3--mon-1 | failed | grok-4.6 / grok | 2026-10-29T08:53:24.791802+00:00 → 2026-10-29T09:02:56.506556+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pm.5.1.3--mon-1/chat.md) |
@@ -54,10 +54,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1pm.5](bbugyi200.athena.sase-1pm.5.md) (session · 3) | ancestor | failed 3 |
 | [sase-1pm.5.1.1](../agents/bbugyi200.athena.sase-1pm.5.1.1/README.md) | sase-1pm.5.1 hood | completed |
 | [sase-1pm.5.1.2](bbugyi200.athena.sase-1pm.5.1.2.md) (session · 3) | sase-1pm.5.1 hood | completed 2, failed 1 |
-| [sase-1pm.5.1.4](../agents/bbugyi200.athena.sase-1pm.5.1.4/README.md) | sase-1pm.5.1 hood | waiting |
+| [sase-1pm.5.1.4](../agents/bbugyi200.athena.sase-1pm.5.1.4/README.md) | sase-1pm.5.1 hood | active |
 | [sase-1pm.5.1.land](../agents/bbugyi200.athena.sase-1pm.5.1.land/README.md) | sase-1pm.5.1 hood | waiting |
 | [sase-1pm.1](../agents/bbugyi200.athena.sase-1pm.1/README.md) | sase-1pm hood | completed |
-| [sase-1pm.2](bbugyi200.athena.sase-1pm.2.md) (session · 8) | sase-1pm hood | active 1, completed 4, failed 3 |
+| [sase-1pm.2](bbugyi200.athena.sase-1pm.2.md) (session · 9) | sase-1pm hood | active 1, completed 4, failed 4 |
 | [sase-1pm.3](../agents/bbugyi200.athena.sase-1pm.3/README.md) | sase-1pm hood | completed |
 | [sase-1pm.4](bbugyi200.athena.sase-1pm.4.md) (session · 3) | sase-1pm hood | completed 2, failed 1 |
 | [sase-1pm.land](../agents/bbugyi200.athena.sase-1pm.land/README.md) | sase-1pm hood | waiting |
