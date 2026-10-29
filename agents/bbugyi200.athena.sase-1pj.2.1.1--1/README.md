@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / [sase-1pj.2.1.1](../../sessions/bbugyi200.athena.sase-1pj.2.1.1.md) / sase-1pj.2.1.1--1
 
-**Global name:** `bbugyi200.athena.sase-1pj.2.1.1--1` · **State:** active · **Source run:** `run-e61d0166f695f6aafdb79c3f509d49f1`
+**Global name:** `bbugyi200.athena.sase-1pj.2.1.1--1` · **State:** completed · **Source run:** `run-e61d0166f695f6aafdb79c3f509d49f1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -11,12 +11,12 @@
 - Bead: [sase-1pj.2.1.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.2.1.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-29T10:43:54.392072+00:00
+- Timing: 2026-10-29T10:43:54.392072+00:00 → 2026-10-29T11:32:45.022116+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,7 +29,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1pj.2](../../sessions/bbugyi200.athena.sase-1pj.2.md) (session · 3) | ancestor | failed 3 |
-| [sase-1pj.2.1.2](../bbugyi200.athena.sase-1pj.2.1.2/README.md) | sase-1pj.2.1 hood | waiting |
+| [sase-1pj.2.1.2](../bbugyi200.athena.sase-1pj.2.1.2/README.md) | sase-1pj.2.1 hood | active |
 | [sase-1pj.2.1.3](../bbugyi200.athena.sase-1pj.2.1.3/README.md) | sase-1pj.2.1 hood | waiting |
 | [sase-1pj.2.1.4](../bbugyi200.athena.sase-1pj.2.1.4/README.md) | sase-1pj.2.1 hood | waiting |
 | [sase-1pj.2.1.5](../bbugyi200.athena.sase-1pj.2.1.5/README.md) | sase-1pj.2.1 hood | waiting |

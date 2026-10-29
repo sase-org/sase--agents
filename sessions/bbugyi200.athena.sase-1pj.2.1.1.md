@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1pj.2.1.1--plan [completed]"]
   n1["sase-1pj.2.1.1--mon [failed]"]
   n0 --> n1
-  n2["sase-1pj.2.1.1--1 [active]"]
+  n2["sase-1pj.2.1.1--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-1pj.2.1.1--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-29T09:56:03.314413+00:00 → 2026-10-29T10:36:41.814208+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.2.1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.2.1.1--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-1pj.2.1.1--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-29T10:35:56.006444+00:00 → 2026-10-29T10:41:58.725135+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.2.1.1--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-1pj.2.1.1--1 | active | muse-spark-1.3-contributor / muse | 2026-10-29T10:43:54.392072+00:00 | [1](../agents/bbugyi200.athena.sase-1pj.2.1.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pj.2.1.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1pj.2.1.1--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-29T10:43:54.392072+00:00 → 2026-10-29T11:32:45.022116+00:00 | [1](../agents/bbugyi200.athena.sase-1pj.2.1.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pj.2.1.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.2.1.1--1/chat.md) |
 
 ## Commits
 
@@ -34,7 +34,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1pj.2](bbugyi200.athena.sase-1pj.2.md) (session · 3) | ancestor | failed 3 |
-| [sase-1pj.2.1.2](../agents/bbugyi200.athena.sase-1pj.2.1.2/README.md) | sase-1pj.2.1 hood | waiting |
+| [sase-1pj.2.1.2](../agents/bbugyi200.athena.sase-1pj.2.1.2/README.md) | sase-1pj.2.1 hood | active |
 | [sase-1pj.2.1.3](../agents/bbugyi200.athena.sase-1pj.2.1.3/README.md) | sase-1pj.2.1 hood | waiting |
 | [sase-1pj.2.1.4](../agents/bbugyi200.athena.sase-1pj.2.1.4/README.md) | sase-1pj.2.1 hood | waiting |
 | [sase-1pj.2.1.5](../agents/bbugyi200.athena.sase-1pj.2.1.5/README.md) | sase-1pj.2.1 hood | waiting |
