@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1pn` · Members: 3 · Bead: [sase-1pn.3
 ```mermaid
 flowchart TD
   n0["sase-1pn.3--plan [completed]"]
-  n1["sase-1pn.3--1 [active]"]
+  n1["sase-1pn.3--1 [completed]"]
   n0 --> n1
   n2["sase-1pn.3--mon [failed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-1pn.3--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-29T14:48:43.548545+00:00 → 2026-10-29T16:11:27.982313+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pn.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pn.3--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-1pn.3--1 | active | muse-spark-1.3-contributor / muse | 2026-10-29T16:15:39.740092+00:00 | [1](../agents/bbugyi200.athena.sase-1pn.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pn.3--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1pn.3--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-29T16:15:39.740092+00:00 → 2026-10-29T16:34:26.744211+00:00 | [1](../agents/bbugyi200.athena.sase-1pn.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pn.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pn.3--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-1pn.3--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-29T16:09:28.649609+00:00 → 2026-10-29T16:13:03.431014+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pn.3--mon/chat.md) |
 
 ## Commits
