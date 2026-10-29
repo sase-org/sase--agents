@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8ed167aad79bb89bb8db4f5f43b7a900"}
+{"commits":[{"committed_at":1793237797,"sha":"35b00c9dad710ecafb903c98defb7c39a4058048","subject":"feat(release-steward): count only merge-capable release-plz runs as core cuts"}],"schema_version":2,"source_run_id":"run-8ed167aad79bb89bb8db4f5f43b7a900"}
