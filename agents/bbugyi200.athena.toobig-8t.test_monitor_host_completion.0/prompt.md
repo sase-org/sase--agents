@@ -1,6 +1,6 @@
+%auto
 %id(test_monitor_host_completion.0, clan=toobig-8t)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/monitor/test_monitor_host_completion.py` file into multiple files? Use your best
 %wait:toobig-8t.workflow.0
