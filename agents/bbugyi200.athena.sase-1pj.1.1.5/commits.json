@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f84ea11aec156737e8d2a97d2e5a7bc4"}
+{"commits":[{"committed_at":1793262680,"sha":"cc32e69dbbf5ba106c585291f84fe96f2d389844","subject":"test(plan): prove staged commit-before-approval acceptance matrix"}],"schema_version":2,"source_run_id":"run-f84ea11aec156737e8d2a97d2e5a7bc4"}
