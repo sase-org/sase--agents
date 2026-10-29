@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-29T05:07:02.954344+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_core\_ci\_red\_recurrence\_and\_landing\_gate/sase\_core\_ci\_red\_recurrence\_and\_landing\_gate\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sas… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_core_ci_red_recurrence_and_landing_gate/sase_core_ci_red_recurrence_and_landing_gate__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261029002952/sase_core_ci_red_recurrence_and_landing_gate__final-cc437c59ee49.md
+  ref: file:explicit:c4b258ef6822e8949c7a961c
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_20/sase/repos/research/202610/sase_core_ci_red_recurrence_and_landing_gate/sase_core_ci_red_recurrence_and_landing_gate__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
