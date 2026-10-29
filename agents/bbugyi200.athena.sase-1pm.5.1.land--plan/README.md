@@ -51,4 +51,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [sase-1pm.2](../../sessions/bbugyi200.athena.sase-1pm.2.md) (session · 9) | sase-1pm hood | completed 5, failed 4 |
 | [sase-1pm.3](../bbugyi200.athena.sase-1pm.3/README.md) | sase-1pm hood | completed |
 | [sase-1pm.4](../../sessions/bbugyi200.athena.sase-1pm.4.md) (session · 3) | sase-1pm hood | completed 2, failed 1 |
-| [sase-1pm.land](../bbugyi200.athena.sase-1pm.land/README.md) | sase-1pm hood | waiting |
+| [sase-1pm.land](../bbugyi200.athena.sase-1pm.land/README.md) | sase-1pm hood | active |
