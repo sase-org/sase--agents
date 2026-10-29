@@ -12,16 +12,35 @@
 - Provider: grok
 - Timing: 2026-10-29T05:10:10.396009+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/agent\_commit\_stage\_latency\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261029010615/agent\_commit\_stage\_latency\_\_grk-b780ae42f34c.md,… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/agent_commit_stage_latency__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261029010615/agent_commit_stage_latency__grk-b780ae42f34c.md
+  ref: file:explicit:c94262a12b2964e55f86d5b9
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_24/sase/repos/research/202610/agent_commit_stage_latency__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5h.cdx](../bbugyi200.athena.research.5h.cdx/README.md) | research.5h hood | active |
+| [research.5h.cdx](../bbugyi200.athena.research.5h.cdx/README.md) | research.5h hood | completed |
 | [research.5h.cld](../bbugyi200.athena.research.5h.cld/README.md) | research.5h hood | active |
 | [research.5h.final](../bbugyi200.athena.research.5h.final/README.md) | research.5h hood | waiting |
 | [research.5h.gem](../bbugyi200.athena.research.5h.gem/README.md) | research.5h hood | active |
