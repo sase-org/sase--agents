@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-1pj.1.1.3--1 | active | muse-spark-1.3-contributor / muse | 2026-10-29T05:24:33.833072+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.1.1.3--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1pj.1.1.3--1 | active | muse-spark-1.3-contributor / muse | 2026-10-29T05:24:33.833072+00:00 | [1](../agents/bbugyi200.athena.sase-1pj.1.1.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pj.1.1.3--1/prompt.md) | — |
 | <a id="member-mon"></a>mon | sase-1pj.1.1.3--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-29T05:15:20.569310+00:00 → 2026-10-29T05:22:19.976060+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.1.1.3--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1pj.1.1.3--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-29T04:45:04.854479+00:00 → 2026-10-29T05:16:11.909175+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.1.1.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.1.1.3--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`0f73623`](https://github.com/sase-org/sase/commit/0f7362359115682e59f9f8b96e4c2ea67abe3198) | feat(handoff): finalize staged turns after provider failures without retrying ordinary work | 2026-10-29 01:58:19 EDT |
 
 ## Neighbors
 

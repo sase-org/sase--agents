@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-57706cd3338cbfc3efa9330231a4578c"}
+{"commits":[{"committed_at":1793253499,"sha":"0f7362359115682e59f9f8b96e4c2ea67abe3198","subject":"feat(handoff): finalize staged turns after provider failures without retrying ordinary work"}],"schema_version":2,"source_run_id":"run-57706cd3338cbfc3efa9330231a4578c"}
