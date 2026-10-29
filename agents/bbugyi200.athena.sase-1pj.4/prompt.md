@@ -1,7 +1,7 @@
+%auto
 #gh:gh_sase-org__sase
 %id(4, clan=sase-1pj, bead=sase-1pj.4)
 %model:@large
-%auto
 %w(sase-1pj.1,sase-1pj.2, for_epic=false)
 %w(bead=sase-1pj.1)
 %w(bead=sase-1pj.2)
