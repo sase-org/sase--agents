@@ -12,10 +12,40 @@
 - Provider: codex
 - Timing: 2026-10-29T05:44:04.567708+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202610/sase\_core\_ci\_red\_recurrence\_and\_landing\_gate/sase\_core\_ci\_red\_recurrence\_and\_landing\_gate.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_s… |
+| `diagrams` | {considered: 16, count: 1, manifest: 202610/sase\_core\_ci\_red\_recurrence\_and\_landing\_gate/sase\_core\_ci\_red\_recurrence\_and\_landing\_gate.diagrams.md, source\_ref: file:explicit:c4b258ef6822e8949c7a961c,… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202610/sase_core_ci_red_recurrence_and_landing_gate/sase_core_ci_red_recurrence_and_landing_gate.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261029002953/sase_core_ci_red_recurrence_and_landing_gate.diagrams-8f115c947484.md
+  ref: file:explicit:ed3a9b26b51cdae6a223e721
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_22/sase/repos/research/202610/sase_core_ci_red_recurrence_and_landing_gate/sase_core_ci_red_recurrence_and_landing_gate.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 16
+count: 1
+manifest: 202610/sase_core_ci_red_recurrence_and_landing_gate/sase_core_ci_red_recurrence_and_landing_gate.diagrams.md
+source_ref: file:explicit:c4b258ef6822e8949c7a961c
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
