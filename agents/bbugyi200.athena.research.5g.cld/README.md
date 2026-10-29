@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-29T04:32:27.352779+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_core\_ci\_failure\_taxonomy\_and\_landing\_gate\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261029002948/sase\_core\_ci\_failure\_taxonom… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_core_ci_failure_taxonomy_and_landing_gate__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261029002948/sase_core_ci_failure_taxonomy_and_landing_gate__cld-51177eff3efa.md
+  ref: file:explicit:b4342bf7d4353ece0025cb69
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_21/sase/repos/research/202610/sase_core_ci_failure_taxonomy_and_landing_gate__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,8 +42,8 @@
 |---|---|---|
 | [research.5g.cdx](../bbugyi200.athena.research.5g.cdx/README.md) | research.5g hood | completed |
 | [research.5g.final](../bbugyi200.athena.research.5g.final/README.md) | research.5g hood | waiting |
-| [research.5g.gem](../bbugyi200.athena.research.5g.gem/README.md) | research.5g hood | active |
-| [research.5g.grk](../bbugyi200.athena.research.5g.grk/README.md) | research.5g hood | active |
+| [research.5g.gem](../bbugyi200.athena.research.5g.gem/README.md) | research.5g hood | completed |
+| [research.5g.grk](../bbugyi200.athena.research.5g.grk/README.md) | research.5g hood | completed |
 | [research.5g.image](../bbugyi200.athena.research.5g.image/README.md) | research.5g hood | waiting |
 | [research.5g.linker](../bbugyi200.athena.research.5g.linker/README.md) | research.5g hood | waiting |
 | [research.5g.mus](../bbugyi200.athena.research.5g.mus/README.md) | research.5g hood | completed |

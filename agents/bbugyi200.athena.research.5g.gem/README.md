@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5g.gem
 
-**Global name:** `bbugyi200.athena.research.5g.gem` · **State:** active · **Source run:** `run-98f258a245f4176c79779fb7bbf792c2`
+**Global name:** `bbugyi200.athena.research.5g.gem` · **State:** completed · **Source run:** `run-98f258a245f4176c79779fb7bbf792c2`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-10-29T04:34:18.890354+00:00
+- Timing: 2026-10-29T04:34:18.890354+00:00 → 2026-10-29T04:52:44.083900+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -43,7 +43,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.5g.cdx](../bbugyi200.athena.research.5g.cdx/README.md) | research.5g hood | completed |
 | [research.5g.cld](../bbugyi200.athena.research.5g.cld/README.md) | research.5g hood | active |
 | [research.5g.final](../bbugyi200.athena.research.5g.final/README.md) | research.5g hood | waiting |
-| [research.5g.grk](../bbugyi200.athena.research.5g.grk/README.md) | research.5g hood | active |
+| [research.5g.grk](../bbugyi200.athena.research.5g.grk/README.md) | research.5g hood | completed |
 | [research.5g.image](../bbugyi200.athena.research.5g.image/README.md) | research.5g hood | waiting |
 | [research.5g.linker](../bbugyi200.athena.research.5g.linker/README.md) | research.5g hood | waiting |
 | [research.5g.mus](../bbugyi200.athena.research.5g.mus/README.md) | research.5g hood | completed |
