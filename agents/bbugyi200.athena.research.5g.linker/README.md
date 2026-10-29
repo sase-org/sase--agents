@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5g.linker
 
-**Global name:** `bbugyi200.athena.research.5g.linker` · **State:** active · **Source run:** `run-0ea27bbb76f96da582e811973eff0ac5`
+**Global name:** `bbugyi200.athena.research.5g.linker` · **State:** completed · **Source run:** `run-0ea27bbb76f96da582e811973eff0ac5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,17 +10,37 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-29T06:03:48.966921+00:00
+- Timing: 2026-10-29T06:03:48.966921+00:00 → 2026-10-29T06:19:28.383503+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_core\_ci\_red\_recurrence\_and\_landing\_gate/sase\_core\_ci\_red\_recurrence\_and\_landing\_gate.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_core_ci_red_recurrence_and_landing_gate/sase_core_ci_red_recurrence_and_landing_gate.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261029002954/sase_core_ci_red_recurrence_and_landing_gate-78017365e036.md
+  ref: file:explicit:6607ae1f522522839d358013
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_14/sase/repos/research/202610/sase_core_ci_red_recurrence_and_landing_gate/sase_core_ci_red_recurrence_and_landing_gate.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [research.5g.linker.w0](../bbugyi200.athena.research.5g.linker.w0/README.md) | descendant | active |
 | [research.5g.cdx](../bbugyi200.athena.research.5g.cdx/README.md) | research.5g hood | completed |
 | [research.5g.cld](../bbugyi200.athena.research.5g.cld/README.md) | research.5g hood | completed |
 | [research.5g.final](../bbugyi200.athena.research.5g.final/README.md) | research.5g hood | completed |
