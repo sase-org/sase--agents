@@ -1,0 +1,69 @@
+%queue(weight=1)
+#fork:160--code
+%model:muse-spark-1.3-contributor@high
+
+%macros_enabled:false
+# Monitored command finished
+
+**Command:**
+
+```text
+sase tool run check
+```
+
+**Directory:**
+
+```text
+/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_19
+```
+
+| | |
+| --- | --- |
+| **Outcome** | COMPLETED — exit 0 |
+| **Started** | 2026-10-29T22:21:50.533014+00:00 |
+| **Finished** | 2026-10-29T22:28:00.375985Z |
+| **Elapsed** | 6m 4s of a 1h 0m 0s budget |
+| **Output** | 642 KiB · evidence refs: `file:monitor-diagnostic-manifest:n36d4qg5b06v`, `file:monitor-retained-log:n36d4qg5b06v` · raw output omitted: `facts_only` · full log: `sase monitor show n36d4qg5b06v --all-lines` |
+| **Tool run** | sase tool show 769ae0345a09af1957b9c96f8b542002 |
+
+**Why this was monitored:** finish check (joined run)
+
+## Failure triage
+
+verdict: pass
+
+KNOWN 0; FLAKY 0
+
+sase tool show 769ae0345a09af1957b9c96f8b542002 -j
+
+## Continuation checkpoint
+
+- **Ref:** `local:continuation/checkpoints/monitor_start-00cb7a189060f4bb.json`
+
+**Checkpoint (JSON):**
+
+```text
+{
+  "kind": "monitor_start",
+  "payload": {
+    "command": "sase tool run check",
+    "cwd": "/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_19",
+    "member_agent_name": "160--mon",
+    "monitor_id": "n36d4qg5b06v",
+    "next_output": "auto",
+    "parent_node_ids": [],
+    "project_name": "gh_sase-org__sase",
+    "request_fingerprint": "sha256:d0434c7401a949aee9b78abd3dc32e994704fdd80dc0d2fd76d68362f201d523",
+    "starter_agent": "160--code",
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_sase-org__sase/artifacts/ace-run/202610/29/20261029180718"
+  },
+  "recorded_at_epoch": 1793312515.692736,
+  "schema_version": 1
+}
+```
+
+
+## Your next action
+
+Read run 769ae0345a09af1957b9c96f8b542002 with sase tool show. If check passed, submit /sase_final with a commit decision for the sase-core repo using subject: fix(release): accept maturin 1.16 wheel tag order and give the macOS wheel 75 minutes. If it failed, fix the failure, re-run verification, then declare.
+%macros_enabled:true
