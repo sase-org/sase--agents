@@ -13,11 +13,17 @@
 - Model: gpt-6-luna
 - Provider: codex
 - Timing: 2026-10-29T12:52:42.617389+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`89c40e3`](https://github.com/sase-org/sase/commit/89c40e30b004255e71f678dfe5b90f5741afca02) | feat(finalizer): synthesize staged handoff carry | 2026-10-29 11:07:47 EDT |
 
 ## Neighbors
 

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a5b957310f4187795cb4d6be5c4e7c7d"}
+{"commits":[{"committed_at":1793286467,"sha":"89c40e30b004255e71f678dfe5b90f5741afca02","subject":"feat(finalizer): synthesize staged handoff carry"}],"schema_version":2,"source_run_id":"run-a5b957310f4187795cb4d6be5c4e7c7d"}
