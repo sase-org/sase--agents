@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b5261685c53424a010b06b994602fd1c"}
+{"commits":[{"committed_at":1793303907,"sha":"01dcc2e5f5671d351ade5cbac5e5e4c5908c9d86","subject":"fix(workspace): quarantine slots after nested-preservation refusal"}],"schema_version":2,"source_run_id":"run-b5261685c53424a010b06b994602fd1c"}

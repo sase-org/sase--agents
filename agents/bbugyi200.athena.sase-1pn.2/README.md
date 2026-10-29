@@ -13,11 +13,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-10-29T14:47:45.824804+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`01dcc2e`](https://github.com/sase-org/sase/commit/01dcc2e5f5671d351ade5cbac5e5e4c5908c9d86) | fix(workspace): quarantine slots after nested-preservation refusal | 2026-10-29 15:58:27 EDT |
 
 ## Neighbors
 
