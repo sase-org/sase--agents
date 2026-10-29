@@ -23,6 +23,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1pi.1](../bbugyi200.athena.sase-1pi.1/README.md) | sase-1pi hood | active |
+| [sase-1pi.1](../bbugyi200.athena.sase-1pi.1/README.md) | sase-1pi hood | completed |
 | [sase-1pi.3](../bbugyi200.athena.sase-1pi.3/README.md) | sase-1pi hood | active |
 | [sase-1pi.land](../bbugyi200.athena.sase-1pi.land/README.md) | sase-1pi hood | waiting |

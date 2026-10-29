@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-96fa91fbffd87c778cedebe7c283b190"}
+{"commits":[{"committed_at":1793237457,"sha":"528d5fe576f52c2398156c82e71fde69ceb04bf6","subject":"feat(tools): check core pins named by a git ref"}],"schema_version":2,"source_run_id":"run-96fa91fbffd87c778cedebe7c283b190"}
