@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e33b22db87ab894336c7b69a2eb35233"}
+{"commits":[{"committed_at":1793312825,"sha":"c15837cfc6238b0ca4b4f0a4f4b0394fe59bab06","subject":"feat(gate): durable staged gate contract with payload and snapshots"}],"schema_version":2,"source_run_id":"run-e33b22db87ab894336c7b69a2eb35233"}

@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-1pj.4.1.1--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-29T18:44:07.188829+00:00 → 2026-10-29T20:20:52.159535+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.4.1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.4.1.1--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-1pj.4.1.1--1 | active | muse-spark-1.3-contributor / muse | 2026-10-29T21:02:54.493713+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.4.1.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1pj.4.1.1--1 | active | muse-spark-1.3-contributor / muse | 2026-10-29T21:02:54.493713+00:00 | [1](../agents/bbugyi200.athena.sase-1pj.4.1.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pj.4.1.1--1/prompt.md) | — |
 | <a id="member-mon"></a>mon | sase-1pj.4.1.1--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-29T20:16:54.947396+00:00 → 2026-10-29T20:59:31.795481+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.4.1.1--mon/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`c15837c`](https://github.com/sase-org/sase/commit/c15837cfc6238b0ca4b4f0a4f4b0394fe59bab06) | feat(gate): durable staged gate contract with payload and snapshots | 2026-10-29 18:27:05 EDT |
 
 ## Neighbors
 
@@ -50,7 +56,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1pj.2.1.land](../agents/bbugyi200.athena.sase-1pj.2.1.land/README.md) | sase-1pj hood | completed |
 | [sase-1pj.3](../agents/bbugyi200.athena.sase-1pj.3/README.md) | sase-1pj hood | completed |
 | [sase-1pj.5](bbugyi200.athena.sase-1pj.5.md) (session · 3) | sase-1pj hood | failed 3 |
-| [sase-1pj.5.1.1](bbugyi200.athena.sase-1pj.5.1.1.md) (session · 4) | sase-1pj hood | active 1, completed 2, failed 1 |
+| [sase-1pj.5.1.1](bbugyi200.athena.sase-1pj.5.1.1.md) (session · 5) | sase-1pj hood | active 1, completed 2, failed 2 |
 | [sase-1pj.5.1.2](../agents/bbugyi200.athena.sase-1pj.5.1.2/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.5.1.3](../agents/bbugyi200.athena.sase-1pj.5.1.3/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.5.1.4](../agents/bbugyi200.athena.sase-1pj.5.1.4/README.md) | sase-1pj hood | waiting |
