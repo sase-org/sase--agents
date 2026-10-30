@@ -29,7 +29,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1pu.1](../agents/bbugyi200.athena.sase-1pu.1/README.md) | sase-1pu hood | active |
 | [sase-1pu.2](bbugyi200.athena.sase-1pu.2.md) (session · 3) | sase-1pu hood | active 2, failed 1 |
-| [sase-1pu.3](bbugyi200.athena.sase-1pu.3.md) (session · 3) | sase-1pu hood | active 1, completed 1, failed 1 |
+| [sase-1pu.3](bbugyi200.athena.sase-1pu.3.md) (session · 3) | sase-1pu hood | completed 2, failed 1 |
 | [sase-1pu.5](bbugyi200.athena.sase-1pu.5.md) (session · 3) | sase-1pu hood | failed 3 |
 | [sase-1pu.5.1.1](../agents/bbugyi200.athena.sase-1pu.5.1.1/README.md) | sase-1pu hood | active |
 | [sase-1pu.5.1.2](../agents/bbugyi200.athena.sase-1pu.5.1.2/README.md) | sase-1pu hood | waiting |

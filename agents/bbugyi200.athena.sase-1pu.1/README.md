@@ -13,18 +13,24 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-10-29T23:24:10.948208+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`81fdd68`](https://github.com/sase-org/sase/commit/81fdd689fbf6649ad599b5843be674fdcfcf01ae) | fix(agents-sync): scan prompt migrations before sidecar publication | 2026-10-29 21:00:25 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1pu.2](../../sessions/bbugyi200.athena.sase-1pu.2.md) (session · 3) | sase-1pu hood | active 2, failed 1 |
-| [sase-1pu.3](../../sessions/bbugyi200.athena.sase-1pu.3.md) (session · 3) | sase-1pu hood | active 1, completed 1, failed 1 |
+| [sase-1pu.3](../../sessions/bbugyi200.athena.sase-1pu.3.md) (session · 3) | sase-1pu hood | completed 2, failed 1 |
 | [sase-1pu.4](../../sessions/bbugyi200.athena.sase-1pu.4.md) (session · 3) | sase-1pu hood | active 2, failed 1 |
 | [sase-1pu.5](../../sessions/bbugyi200.athena.sase-1pu.5.md) (session · 3) | sase-1pu hood | failed 3 |
 | [sase-1pu.5.1.1](../bbugyi200.athena.sase-1pu.5.1.1/README.md) | sase-1pu hood | active |

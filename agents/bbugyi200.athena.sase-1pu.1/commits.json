@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6e0dfdac7a9f9e2131161bfd69058224"}
+{"commits":[{"committed_at":1793322025,"sha":"81fdd689fbf6649ad599b5843be674fdcfcf01ae","subject":"fix(agents-sync): scan prompt migrations before sidecar publication"}],"schema_version":2,"source_run_id":"run-6e0dfdac7a9f9e2131161bfd69058224"}
