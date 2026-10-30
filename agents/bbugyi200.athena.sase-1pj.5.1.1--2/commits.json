@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-aa843dac2a267032802bc5b5b8cf3bdb"}
+{"commits":[{"committed_at":1793318375,"sha":"b175b6375855c7d8e2c0a5aece625e04e22e78d2","subject":"feat(staged-monitor): wire Rust-owned staged payload and reservation contracts"}],"schema_version":2,"source_run_id":"run-aa843dac2a267032802bc5b5b8cf3bdb"}

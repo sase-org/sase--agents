@@ -26,8 +26,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | sase-1pj.5.1.1--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-29T20:30:01.947985+00:00 → 2026-10-29T20:33:44.690194+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.5.1.1--mon/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-1pj.5.1.1--mon-0 | failed | muse-spark-1.3-contributor / muse | 2026-10-29T20:59:16.572556+00:00 → 2026-10-29T21:50:43.938528+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.5.1.1--mon-0/chat.md) |
 | <a id="member-1"></a>1 | sase-1pj.5.1.1--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-29T20:36:02.811761+00:00 → 2026-10-29T21:02:20.574185+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.5.1.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.5.1.1--1/chat.md) |
-| <a id="member-2"></a>2 | sase-1pj.5.1.1--2 | active | muse-spark-1.3-contributor / muse | 2026-10-29T21:53:25.064829+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.5.1.1--2/prompt.md) | — |
+| <a id="member-2"></a>2 | sase-1pj.5.1.1--2 | active | muse-spark-1.3-contributor / muse | 2026-10-29T21:53:25.064829+00:00 | [1](../agents/bbugyi200.athena.sase-1pj.5.1.1--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pj.5.1.1--2/prompt.md) | — |
 | <a id="member-plan"></a>plan | sase-1pj.5.1.1--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-29T18:58:15.674374+00:00 → 2026-10-29T20:31:36.995331+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.5.1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.5.1.1--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 2 | sase | [`b175b63`](https://github.com/sase-org/sase/commit/b175b6375855c7d8e2c0a5aece625e04e22e78d2) | feat(staged-monitor): wire Rust-owned staged payload and reservation contracts | 2026-10-29 19:59:35 EDT |
 
 ## Neighbors
 
@@ -55,7 +61,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1pj.3](../agents/bbugyi200.athena.sase-1pj.3/README.md) | sase-1pj hood | completed |
 | [sase-1pj.4](bbugyi200.athena.sase-1pj.4.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.4.1.1](bbugyi200.athena.sase-1pj.4.1.1.md) (session · 3) | sase-1pj hood | completed 2, failed 1 |
-| [sase-1pj.4.1.2](../agents/bbugyi200.athena.sase-1pj.4.1.2/README.md) | sase-1pj hood | waiting |
+| [sase-1pj.4.1.2](../agents/bbugyi200.athena.sase-1pj.4.1.2/README.md) | sase-1pj hood | active |
 | [sase-1pj.4.1.3](../agents/bbugyi200.athena.sase-1pj.4.1.3/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.4.1.4](../agents/bbugyi200.athena.sase-1pj.4.1.4/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.4.1.5](../agents/bbugyi200.athena.sase-1pj.4.1.5/README.md) | sase-1pj hood | waiting |
