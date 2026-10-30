@@ -13,11 +13,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-10-29T22:49:00.887686+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`f52b015`](https://github.com/sase-org/sase/commit/f52b0157455cbdabd097048fd612c183f32f3dd0) | feat(gate): publish staged gates from persisted creator context | 2026-10-29 20:29:29 EDT |
 
 ## Neighbors
 
@@ -46,8 +52,8 @@
 | [sase-1pj.2.1.land](../bbugyi200.athena.sase-1pj.2.1.land/README.md) | sase-1pj hood | completed |
 | [sase-1pj.3](../bbugyi200.athena.sase-1pj.3/README.md) | sase-1pj hood | completed |
 | [sase-1pj.5](../../sessions/bbugyi200.athena.sase-1pj.5.md) (session · 3) | sase-1pj hood | failed 3 |
-| [sase-1pj.5.1.1](../../sessions/bbugyi200.athena.sase-1pj.5.1.1.md) (session · 5) | sase-1pj hood | active 1, completed 2, failed 2 |
-| [sase-1pj.5.1.2](../bbugyi200.athena.sase-1pj.5.1.2/README.md) | sase-1pj hood | waiting |
+| [sase-1pj.5.1.1](../../sessions/bbugyi200.athena.sase-1pj.5.1.1.md) (session · 5) | sase-1pj hood | completed 3, failed 2 |
+| [sase-1pj.5.1.2](../bbugyi200.athena.sase-1pj.5.1.2/README.md) | sase-1pj hood | active |
 | [sase-1pj.5.1.3](../bbugyi200.athena.sase-1pj.5.1.3/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.5.1.4](../bbugyi200.athena.sase-1pj.5.1.4/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.5.1.land](../bbugyi200.athena.sase-1pj.5.1.land/README.md) | sase-1pj hood | waiting |
