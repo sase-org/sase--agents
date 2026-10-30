@@ -12,11 +12,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-10-30T02:06:38.977280+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`5437e0b`](https://github.com/sase-org/sase/commit/5437e0baaa60ab862ac7810a79ab776d74e3a93f) | test(sdd): isolate empty-home git identity nested pytest | 2026-10-29 22:24:48 EDT |
 
 ## Neighbors
 
@@ -26,8 +32,8 @@
 | [sase-1pu.2](../../sessions/bbugyi200.athena.sase-1pu.2.md) (session · 5) | sase-1pu hood | completed 3, failed 2 |
 | [sase-1pu.3](../../sessions/bbugyi200.athena.sase-1pu.3.md) (session · 3) | sase-1pu hood | completed 2, failed 1 |
 | [sase-1pu.5](../../sessions/bbugyi200.athena.sase-1pu.5.md) (session · 3) | sase-1pu hood | failed 3 |
-| [sase-1pu.5.1.1](../../sessions/bbugyi200.athena.sase-1pu.5.1.1.md) (session · 3) | sase-1pu hood | active 1, completed 1, failed 1 |
-| [sase-1pu.5.1.2](../bbugyi200.athena.sase-1pu.5.1.2/README.md) | sase-1pu hood | waiting |
+| [sase-1pu.5.1.1](../../sessions/bbugyi200.athena.sase-1pu.5.1.1.md) (session · 3) | sase-1pu hood | completed 2, failed 1 |
+| [sase-1pu.5.1.2](../bbugyi200.athena.sase-1pu.5.1.2/README.md) | sase-1pu hood | active |
 | [sase-1pu.5.1.3](../bbugyi200.athena.sase-1pu.5.1.3/README.md) | sase-1pu hood | waiting |
 | [sase-1pu.5.1.4](../bbugyi200.athena.sase-1pu.5.1.4/README.md) | sase-1pu hood | waiting |
 | [sase-1pu.5.1.land](../bbugyi200.athena.sase-1pu.5.1.land/README.md) | sase-1pu hood | waiting |

@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1pu` · Members: 3 · Bead: [sase-1pu.5
 
 ```mermaid
 flowchart TD
-  n0["sase-1pu.5.1.1--1 [active]"]
+  n0["sase-1pu.5.1.1--1 [completed]"]
   n1["sase-1pu.5.1.1--mon [failed]"]
   n0 --> n1
   n2["sase-1pu.5.1.1--plan [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-1pu.5.1.1--1 | active | gpt-6-luna / codex | 2026-10-30T02:02:50.957656+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pu.5.1.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1pu.5.1.1--1 | completed | gpt-6-luna / codex | 2026-10-30T02:02:50.957656+00:00 → 2026-10-30T02:14:00.775696+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pu.5.1.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pu.5.1.1--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-1pu.5.1.1--mon | failed | gpt-6-luna / codex | 2026-10-30T01:57:01.167146+00:00 → 2026-10-30T02:00:31.273300+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pu.5.1.1--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1pu.5.1.1--plan | completed | gpt-6-luna / codex | 2026-10-30T00:40:01.323086+00:00 → 2026-10-30T01:58:24.516494+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pu.5.1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pu.5.1.1--plan/chat.md) |
 
@@ -28,7 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1pu.5](bbugyi200.athena.sase-1pu.5.md) (session · 3) | ancestor | failed 3 |
-| [sase-1pu.5.1.2](../agents/bbugyi200.athena.sase-1pu.5.1.2/README.md) | sase-1pu.5.1 hood | waiting |
+| [sase-1pu.5.1.2](../agents/bbugyi200.athena.sase-1pu.5.1.2/README.md) | sase-1pu.5.1 hood | active |
 | [sase-1pu.5.1.3](../agents/bbugyi200.athena.sase-1pu.5.1.3/README.md) | sase-1pu.5.1 hood | waiting |
 | [sase-1pu.5.1.4](../agents/bbugyi200.athena.sase-1pu.5.1.4/README.md) | sase-1pu.5.1 hood | waiting |
 | [sase-1pu.5.1.land](../agents/bbugyi200.athena.sase-1pu.5.1.land/README.md) | sase-1pu.5.1 hood | waiting |
