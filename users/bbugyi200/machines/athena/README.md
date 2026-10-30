@@ -61,7 +61,7 @@
 | [02](hoods/02/README.md) | 2 | 0 | completed 2 |
 | [020](hoods/020/README.md) | 3 | 1 | active 1, completed 2 |
 | [025](hoods/025/README.md) | 1 | 0 | active 1 |
-| [026](hoods/026/README.md) | 3 | 1 | active 2, dismissed 1 |
+| [026](hoods/026/README.md) | 3 | 1 | active 1, dismissed 1, failed 1 |
 | [027](hoods/027/README.md) | 2 | 1 | active 1, completed 1 |
 | [028](hoods/028/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [02c](hoods/02c/README.md) | 3 | 0 | active 1, completed 2 |
