@@ -36,7 +36,7 @@
 | [sase-1pj.4.1.3](../bbugyi200.athena.sase-1pj.4.1.3/README.md) | sase-1pj.4.1 hood | completed |
 | [sase-1pj.4.1.4](../bbugyi200.athena.sase-1pj.4.1.4/README.md) | sase-1pj.4.1 hood | completed |
 | [sase-1pj.4.1.5](../../sessions/bbugyi200.athena.sase-1pj.4.1.5.md) (session · 3) | sase-1pj.4.1 hood | completed 2, failed 1 |
-| [sase-1pj.4.1.land](../bbugyi200.athena.sase-1pj.4.1.land/README.md) | sase-1pj.4.1 hood | active |
+| [sase-1pj.4.1.land](../bbugyi200.athena.sase-1pj.4.1.land/README.md) | sase-1pj.4.1 hood | completed |
 | [sase-1pj.1](../../sessions/bbugyi200.athena.sase-1pj.1.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.1.1.1](../bbugyi200.athena.sase-1pj.1.1.1/README.md) | sase-1pj hood | active |
 | [sase-1pj.1.1.2](../bbugyi200.athena.sase-1pj.1.1.2/README.md) | sase-1pj hood | active |
