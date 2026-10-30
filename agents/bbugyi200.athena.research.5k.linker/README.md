@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5k.linker
 
-**Global name:** `bbugyi200.athena.research.5k.linker` · **State:** waiting · **Source run:** `run-60025f750f2cfc5594b460bbc558c1e6`
+**Global name:** `bbugyi200.athena.research.5k.linker` · **State:** completed · **Source run:** `run-60025f750f2cfc5594b460bbc558c1e6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261030164456
+- Timing: 2026-10-30T21:50:04.319843+00:00 → 2026-10-30T22:04:27.231906+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/tui\_slowdown\_index\_lock\_fallback\_scans/tui\_slowdown\_index\_lock\_fallback\_scans.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261030164456/tu… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/tui_slowdown_index_lock_fallback_scans/tui_slowdown_index_lock_fallback_scans.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261030164456/tui_slowdown_index_lock_fallback_scans-c5b141246a8b.md
+  ref: file:explicit:a012614c6eedb39b1e7193ff
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13/sase/repos/research/202610/tui_slowdown_index_lock_fallback_scans/tui_slowdown_index_lock_fallback_scans.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
