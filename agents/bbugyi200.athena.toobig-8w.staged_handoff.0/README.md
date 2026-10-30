@@ -30,7 +30,7 @@
 | [toobig-8w.prompt\_artifact\_staging.0](../bbugyi200.athena.toobig-8w.prompt_artifact_staging.0/README.md) | toobig-8w hood | waiting |
 | [toobig-8w.publication\_protection.0](../bbugyi200.athena.toobig-8w.publication_protection.0/README.md) | toobig-8w hood | completed |
 | [toobig-8w.publication\_snapshot.0](../../sessions/bbugyi200.athena.toobig-8w.publication_snapshot.0.md) (session · 5) | toobig-8w hood | completed 3, failed 2 |
-| [toobig-8w.publication\_state\_repair.0](../bbugyi200.athena.toobig-8w.publication_state_repair.0/README.md) | toobig-8w hood | waiting |
+| [toobig-8w.publication\_state\_repair.0](../bbugyi200.athena.toobig-8w.publication_state_repair.0/README.md) | toobig-8w hood | completed |
 | [toobig-8w.start\_stage.0](../bbugyi200.athena.toobig-8w.start_stage.0/README.md) | toobig-8w hood | waiting |
 | [toobig-8w.test\_agents\_tab\_graph\_isolation.0](../bbugyi200.athena.toobig-8w.test_agents_tab_graph_isolation.0/README.md) | toobig-8w hood | waiting |
 | [toobig-8w.test\_cli.0](../bbugyi200.athena.toobig-8w.test_cli.0/README.md) | toobig-8w hood | waiting |

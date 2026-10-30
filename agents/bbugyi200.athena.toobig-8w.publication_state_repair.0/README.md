@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8w](../../users/bbugyi200/machines/athena/hoods/toobig-8w/README.md) / toobig-8w.publication\_state\_repair.0
 
-**Global name:** `bbugyi200.athena.toobig-8w.publication_state_repair.0` · **State:** waiting · **Source run:** `run-e0eb7307ba7b02501ae41a094e79e37c`
+**Global name:** `bbugyi200.athena.toobig-8w.publication_state_repair.0` · **State:** completed · **Source run:** `run-e0eb7307ba7b02501ae41a094e79e37c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8w
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261030101624
-- Commits: 0
+- Timing: 2026-10-30T20:07:08.381894+00:00 → 2026-10-30T21:53:30.008183+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`cf68c74`](https://github.com/sase-org/sase/commit/cf68c745f1ae0010b4aa205ad19f985b7f32b03c) | refactor(agents-sync): split publication state repair module | 2026-10-30 17:41:32 EDT |
 
 ## Neighbors
 
