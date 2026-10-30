@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1ou.6.land--mon-1 [failed]"]
   n1["sase-1ou.6.land--2 [completed]"]
   n0 --> n1
-  n2["sase-1ou.6.land--3 [active]"]
+  n2["sase-1ou.6.land--3 [completed]"]
   n0 --> n2
   n3["sase-1ou.6.land--1 [completed]"]
   n0 --> n3
@@ -29,7 +29,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon-1"></a>mon-1 | sase-1ou.6.land--mon-1 | failed | gpt-6-astra / codex | 2026-10-29T20:41:59.598280+00:00 → 2026-10-30T07:30:42.197295+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ou.6.land--mon-1/chat.md) |
 | <a id="member-2"></a>2 | sase-1ou.6.land--2 | completed | gpt-6-astra / codex | 2026-10-29T20:27:59.233718+00:00 → 2026-10-29T20:44:32.376592+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.6.land--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.6.land--2/chat.md) |
-| <a id="member-3"></a>3 | sase-1ou.6.land--3 | active | gpt-6-astra / codex | 2026-10-30T07:33:08.612747+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.6.land--3/prompt.md) | — |
+| <a id="member-3"></a>3 | sase-1ou.6.land--3 | completed | gpt-6-astra / codex | 2026-10-30T07:33:08.612747+00:00 → 2026-10-30T11:48:44.572909+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.6.land--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.6.land--3/chat.md) |
 | <a id="member-1"></a>1 | sase-1ou.6.land--1 | completed | gpt-6-astra / codex | 2026-10-29T14:56:09.721563+00:00 → 2026-10-29T15:11:52.134044+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.6.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.6.land--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1ou.6.land--plan | completed | gpt-6-astra / codex | 2026-10-28T23:20:44.020707+00:00 → 2026-10-28T23:27:31.879181+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ou.6.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ou.6.land--plan/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-1ou.6.land--mon-0 | failed | gpt-6-astra / codex | 2026-10-29T15:10:50.311592+00:00 → 2026-10-29T20:25:20.594103+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ou.6.land--mon-0/chat.md) |

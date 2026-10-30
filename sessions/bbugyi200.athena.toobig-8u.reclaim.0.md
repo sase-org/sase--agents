@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `toobig-8u` · Members: 7
 
 ```mermaid
 flowchart TD
-  n0["toobig-8u.reclaim.0--3 [active]"]
+  n0["toobig-8u.reclaim.0--3 [completed]"]
   n1["toobig-8u.reclaim.0--mon-1 [failed]"]
   n0 --> n1
   n2["toobig-8u.reclaim.0--mon-0 [failed]"]
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-3"></a>3 | toobig-8u.reclaim.0--3 | active | muse-spark-1.3-contributor / muse | 2026-10-30T11:10:30.931146+00:00 | [1](../agents/bbugyi200.athena.toobig-8u.reclaim.0--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-8u.reclaim.0--3/prompt.md) | — |
+| <a id="member-3"></a>3 | toobig-8u.reclaim.0--3 | completed | muse-spark-1.3-contributor / muse | 2026-10-30T11:10:30.931146+00:00 → 2026-10-30T11:41:37.685932+00:00 | [1](../agents/bbugyi200.athena.toobig-8u.reclaim.0--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-8u.reclaim.0--3/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-8u.reclaim.0--3/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | toobig-8u.reclaim.0--mon-1 | failed | gpt-6-luna / codex | 2026-10-30T10:46:33.652548+00:00 → 2026-10-30T11:08:37.965114+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-8u.reclaim.0--mon-1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | toobig-8u.reclaim.0--mon-0 | failed | gpt-6-luna / codex | 2026-10-30T10:25:08.231232+00:00 → 2026-10-30T10:31:58.546287+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-8u.reclaim.0--mon-0/chat.md) |
 | <a id="member-2"></a>2 | toobig-8u.reclaim.0--2 | completed | gpt-6-luna / codex | 2026-10-30T10:34:06.173589+00:00 → 2026-10-30T10:46:41.752561+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-8u.reclaim.0--2/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-8u.reclaim.0--2/chat.md) |
@@ -74,4 +74,4 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [toobig-8u.declaration.0](bbugyi200.athena.toobig-8u.declaration.0.md) (session · 5) | toobig-8u hood | completed 3, failed 2 |
 | [toobig-8u.run\_agent\_exec\_staged.0](bbugyi200.athena.toobig-8u.run_agent_exec_staged.0.md) (session · 3) | toobig-8u hood | completed 2, failed 1 |
 | [toobig-8u.test\_rebase\_gate\_runner.0](../agents/bbugyi200.athena.toobig-8u.test_rebase_gate_runner.0/README.md) | toobig-8u hood | waiting |
-| [toobig-8u.workspace\_handler\_maintenance.0](../agents/bbugyi200.athena.toobig-8u.workspace_handler_maintenance.0/README.md) | toobig-8u hood | waiting |
+| [toobig-8u.workspace\_handler\_maintenance.0](../agents/bbugyi200.athena.toobig-8u.workspace_handler_maintenance.0/README.md) | toobig-8u hood | active |
