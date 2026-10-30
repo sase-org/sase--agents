@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pu](../../users/bbugyi200/machines/athena/hoods/sase-1pu/README.md) / sase-1pu.1
 
-**Global name:** `bbugyi200.athena.sase-1pu.1` · **State:** active · **Source run:** `run-6e0dfdac7a9f9e2131161bfd69058224`
+**Global name:** `bbugyi200.athena.sase-1pu.1` · **State:** completed · **Source run:** `run-6e0dfdac7a9f9e2131161bfd69058224`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pu
 
@@ -12,12 +12,12 @@
 - Epic: [sase-1pu](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pu/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-29T23:24:10.948208+00:00
+- Timing: 2026-10-29T23:24:10.948208+00:00 → 2026-10-30T01:06:16.227209+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,9 +29,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1pu.2](../../sessions/bbugyi200.athena.sase-1pu.2.md) (session · 3) | sase-1pu hood | active 2, failed 1 |
+| [sase-1pu.2](../../sessions/bbugyi200.athena.sase-1pu.2.md) (session · 5) | sase-1pu hood | active 1, completed 2, failed 2 |
 | [sase-1pu.3](../../sessions/bbugyi200.athena.sase-1pu.3.md) (session · 3) | sase-1pu hood | completed 2, failed 1 |
-| [sase-1pu.4](../../sessions/bbugyi200.athena.sase-1pu.4.md) (session · 3) | sase-1pu hood | active 2, failed 1 |
+| [sase-1pu.4](../../sessions/bbugyi200.athena.sase-1pu.4.md) (session · 4) | sase-1pu hood | active 1, completed 2, failed 1 |
 | [sase-1pu.5](../../sessions/bbugyi200.athena.sase-1pu.5.md) (session · 3) | sase-1pu hood | failed 3 |
 | [sase-1pu.5.1.1](../bbugyi200.athena.sase-1pu.5.1.1/README.md) | sase-1pu hood | active |
 | [sase-1pu.5.1.2](../bbugyi200.athena.sase-1pu.5.1.2/README.md) | sase-1pu hood | waiting |
