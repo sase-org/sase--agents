@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5k.gem
 
-**Global name:** `bbugyi200.athena.research.5k.gem` · **State:** active · **Source run:** `run-bafee4bf05407f407054ea467d7ad7ab`
+**Global name:** `bbugyi200.athena.research.5k.gem` · **State:** completed · **Source run:** `run-bafee4bf05407f407054ea467d7ad7ab`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-10-30T20:50:22.001384+00:00
+- Timing: 2026-10-30T20:50:22.001384+00:00 → 2026-10-30T21:06:22.106672+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
