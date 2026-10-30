@@ -1,0 +1,28 @@
+# Agent: toobig-8u.declaration.0
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8u](../../users/bbugyi200/machines/athena/hoods/toobig-8u/README.md) / toobig-8u.declaration.0
+
+**Global name:** `bbugyi200.athena.toobig-8u.declaration.0` · **State:** waiting · **Source run:** `run-c26e3d2c0c49812b7379d231367adc78`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8u
+
+## Summary
+
+- Model: gpt-6-luna
+- Provider: codex
+- Timing: 20261029184912
+- Commits: 0
+
+## Files
+
+[Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [toobig-8u.agent\_list\_render\_rail.0](../bbugyi200.athena.toobig-8u.agent_list_render_rail.0/README.md) | toobig-8u hood | active |
+| [toobig-8u.reclaim.0](../bbugyi200.athena.toobig-8u.reclaim.0/README.md) | toobig-8u hood | waiting |
+| [toobig-8u.run\_agent\_exec\_staged.0](../bbugyi200.athena.toobig-8u.run_agent_exec_staged.0/README.md) | toobig-8u hood | waiting |
+| [toobig-8u.test\_rebase\_gate\_runner.0](../bbugyi200.athena.toobig-8u.test_rebase_gate_runner.0/README.md) | toobig-8u hood | waiting |
+| [toobig-8u.workspace\_handler\_maintenance.0](../bbugyi200.athena.toobig-8u.workspace_handler_maintenance.0/README.md) | toobig-8u hood | waiting |

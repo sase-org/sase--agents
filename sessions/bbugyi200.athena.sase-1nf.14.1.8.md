@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1nf` · Members: 5 · Bead: [sase-1nf.1
 ```mermaid
 flowchart TD
   n0["sase-1nf.14.1.8--1 [completed]"]
-  n1["sase-1nf.14.1.8--2 [active]"]
+  n1["sase-1nf.14.1.8--2 [completed]"]
   n0 --> n1
   n2["sase-1nf.14.1.8--mon [failed]"]
   n0 --> n2
@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | sase-1nf.14.1.8--1 | completed | grok-4.6 / grok | 2026-10-29T21:25:19.569134+00:00 → 2026-10-29T21:58:33.870984+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nf.14.1.8--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nf.14.1.8--1/chat.md) |
-| <a id="member-2"></a>2 | sase-1nf.14.1.8--2 | active | grok-4.6 / grok | 2026-10-30T02:24:54.676499+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nf.14.1.8--2/prompt.md) | — |
+| <a id="member-2"></a>2 | sase-1nf.14.1.8--2 | completed | grok-4.6 / grok | 2026-10-30T02:24:54.676499+00:00 → 2026-10-30T02:34:30.080572+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nf.14.1.8--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nf.14.1.8--2/chat.md) |
 | <a id="member-mon"></a>mon | sase-1nf.14.1.8--mon | failed | grok-4.6 / grok | 2026-10-28T23:05:03.721732+00:00 → 2026-10-29T21:22:54.149372+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nf.14.1.8--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1nf.14.1.8--plan | completed | grok-4.6 / grok | 2026-10-28T22:54:05.082027+00:00 → 2026-10-28T23:05:56.277395+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nf.14.1.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nf.14.1.8--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-1nf.14.1.8--gate | failed | grok-4.6 / grok | 2026-10-30T02:19:51.717257+00:00 → 2026-10-30T02:22:05.446758+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nf.14.1.8--gate/chat.md) |
@@ -63,7 +63,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1nf.14.1.6](bbugyi200.athena.sase-1nf.14.1.6.md) (session · 3) | sase-1nf.14.1 hood | completed 2, failed 1 |
 | [sase-1nf.14.1.7](bbugyi200.athena.sase-1nf.14.1.7.md) (session · 3) | sase-1nf.14.1 hood | completed 2, failed 1 |
 | [sase-1nf.14.1.7](../agents/bbugyi200.athena.sase-1nf.14.1.7/README.md) | sase-1nf.14.1 hood | waiting |
-| [sase-1nf.14.1.land](../agents/bbugyi200.athena.sase-1nf.14.1.land/README.md) | sase-1nf.14.1 hood | waiting |
+| [sase-1nf.14.1.land](../agents/bbugyi200.athena.sase-1nf.14.1.land/README.md) | sase-1nf.14.1 hood | active |
 | [sase-1nf.1](../agents/bbugyi200.athena.sase-1nf.1/README.md) | sase-1nf hood | completed |
 | [sase-1nf.10](bbugyi200.athena.sase-1nf.10.md) (session · 3) | sase-1nf hood | failed 3 |
 | [sase-1nf.10.1.1](../agents/bbugyi200.athena.sase-1nf.10.1.1/README.md) | sase-1nf hood | completed |
