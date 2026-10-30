@@ -13,11 +13,17 @@
 - Model: gpt-6-luna
 - Provider: codex
 - Timing: 2026-10-30T05:33:56.993226+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`3ba58ec`](https://github.com/sase-org/sase/commit/3ba58ec222fa6e884dde1fce6b4b681b68254a7b) | feat(workflow): stage HITL reviews before cleanup settlement | 2026-10-30 03:20:14 EDT |
 
 ## Neighbors
 
