@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5j.image
 
-**Global name:** `bbugyi200.athena.research.5j.image` · **State:** active · **Source run:** `run-6667348f0f30e896a1c7448bee2ac844`
+**Global name:** `bbugyi200.athena.research.5j.image` · **State:** completed · **Source run:** `run-6667348f0f30e896a1c7448bee2ac844`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,19 +10,20 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-30T20:50:57.861633+00:00
+- Timing: 2026-10-30T20:50:57.861633+00:00 → 2026-10-30T21:04:10.442141+00:00
 - Commits: 0
-- Variables: [1](#variables)
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
 | Variable | Value |
 |---|---|
 | `artifacts` | \[{kind: image, label: infographic:202610/fork\_wait\_session\_vs\_turn\_target/fork\_wait\_session\_vs\_turn\_target\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261030155922/f… |
+| `diagrams` | {considered: 13, count: 1, manifest: 202610/fork\_wait\_session\_vs\_turn\_target/fork\_wait\_session\_vs\_turn\_target.diagrams.md, source\_ref: file:explicit:78127136f822437e15568fcd, status: ready} |
 
 #### artifacts
 
@@ -32,6 +33,21 @@
   path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261030155922/fork_wait_session_vs_turn_target_infographic-3213e0a95227.png
   ref: file:explicit:ebdec5323910773d66938532
   source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_21/sase/repos/research/202610/fork_wait_session_vs_turn_target/fork_wait_session_vs_turn_target_infographic.png
+- kind: markdown
+  label: diagrams:202610/fork_wait_session_vs_turn_target/fork_wait_session_vs_turn_target.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261030155922/fork_wait_session_vs_turn_target.diagrams-73f7b8cff465.md
+  ref: file:explicit:959939933977ca2caf9b054e
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_21/sase/repos/research/202610/fork_wait_session_vs_turn_target/fork_wait_session_vs_turn_target.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 13
+count: 1
+manifest: 202610/fork_wait_session_vs_turn_target/fork_wait_session_vs_turn_target.diagrams.md
+source_ref: file:explicit:78127136f822437e15568fcd
+status: ready
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.

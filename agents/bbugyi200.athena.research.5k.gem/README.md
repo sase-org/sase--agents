@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-10-30T20:50:22.001384+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/tui\_slowdown\_root\_cause\_and\_architecture\_fixes\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261030164453/tui\_slowdown\_root\_cause\_and\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/tui_slowdown_root_cause_and_architecture_fixes__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261030164453/tui_slowdown_root_cause_and_architecture_fixes__gem-275916cacbf9.md
+  ref: file:explicit:b4ab2b7898738e828fb75480
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13/sase/repos/research/202610/tui_slowdown_root_cause_and_architecture_fixes__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
