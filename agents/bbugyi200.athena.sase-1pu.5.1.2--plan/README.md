@@ -31,5 +31,5 @@
 | [sase-1pu.1](../bbugyi200.athena.sase-1pu.1/README.md) | sase-1pu hood | completed |
 | [sase-1pu.2](../../sessions/bbugyi200.athena.sase-1pu.2.md) (session · 5) | sase-1pu hood | completed 3, failed 2 |
 | [sase-1pu.3](../../sessions/bbugyi200.athena.sase-1pu.3.md) (session · 3) | sase-1pu hood | completed 2, failed 1 |
-| [sase-1pu.4](../../sessions/bbugyi200.athena.sase-1pu.4.md) (session · 5) | sase-1pu hood | active 1, completed 2, failed 2 |
+| [sase-1pu.4](../../sessions/bbugyi200.athena.sase-1pu.4.md) (session · 5) | sase-1pu hood | completed 3, failed 2 |
 | [sase-1pu.land](../bbugyi200.athena.sase-1pu.land/README.md) | sase-1pu hood | waiting |
