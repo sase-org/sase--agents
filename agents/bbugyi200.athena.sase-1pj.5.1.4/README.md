@@ -2,18 +2,17 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / sase-1pj.5.1.4
 
-**Global name:** `bbugyi200.athena.sase-1pj.5.1.4` · **State:** completed · **Source run:** `run-c3c69655a5a7f9a212f550b8da335bce`
+**Global name:** `bbugyi200.athena.sase-1pj.5.1.4` · **State:** completed · **Source run:** `run-7a46120f9bfbd02bfb7e6efcdbd308c4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
 ## Summary
 
 - Bead: [sase-1pj.5.1.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.5.1.4.md)
-- Epic: [sase-1pj.5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.5.1.md)
-- Model: muse-spark-1.3-contributor
-- Provider: muse
-- Timing: 2026-10-30T09:55:21.395827+00:00 → 2026-10-30T16:22:27.646114+00:00
-- Commits: [1](#commits)
+- Model: gpt-6-astra
+- Provider: codex
+- Timing: 2026-10-30T16:38:46.007605+00:00 → 2026-10-30T17:00:51.746575+00:00
+- Commits: [2](#commits)
 
 ## Files
 
@@ -24,6 +23,7 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`7da649b`](https://github.com/sase-org/sase/commit/7da649b56248dcbf2ab94dd775bca61bb24a28f0) | feat(monitor-staging): activate staged starts with post-finalizer adoption | 2026-10-30 12:19:49 EDT |
+| sase | [`c9a65d1`](https://github.com/sase-org/sase/commit/c9a65d1a588a7b909a9c990a60a19b7c7f92da1d) | fix(monitor): release staged resources when finalization is held | 2026-10-30 12:58:54 EDT |
 
 ## Neighbors
 
