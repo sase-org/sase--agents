@@ -1,6 +1,6 @@
+%auto
 %id(test_gc_policy.0, clan=toobig-8v)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/ace/tui/util/test_gc_policy.py` file into multiple files? Use your best
 %wait:toobig-8v.tool_run.0

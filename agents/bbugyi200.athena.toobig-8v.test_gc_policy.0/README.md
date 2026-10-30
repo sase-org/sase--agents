@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8v.migration.0](../bbugyi200.athena.toobig-8v.migration.0/README.md) | toobig-8v hood | active |
-| [toobig-8v.tool\_run.0](../bbugyi200.athena.toobig-8v.tool_run.0/README.md) | toobig-8v hood | waiting |
+| [toobig-8v.migration.0](../bbugyi200.athena.toobig-8v.migration.0/README.md) | toobig-8v hood | completed |
+| [toobig-8v.tool\_run.0](../bbugyi200.athena.toobig-8v.tool_run.0/README.md) | toobig-8v hood | completed |
