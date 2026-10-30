@@ -70,7 +70,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1nf.14.1.5](bbugyi200.athena.sase-1nf.14.1.5.md) (session · 5) | sase-1nf.14.1 hood | completed 3, failed 2 |
 | [sase-1nf.14.1.6](bbugyi200.athena.sase-1nf.14.1.6.md) (session · 3) | sase-1nf.14.1 hood | completed 2, failed 1 |
 | [sase-1nf.14.1.8](bbugyi200.athena.sase-1nf.14.1.8.md) (session · 5) | sase-1nf.14.1 hood | completed 3, failed 2 |
-| [sase-1nf.14.1.land](bbugyi200.athena.sase-1nf.14.1.land.md) (session · 7) | sase-1nf.14.1 hood | active 1, completed 3, failed 3 |
+| [sase-1nf.14.1.land](bbugyi200.athena.sase-1nf.14.1.land.md) (session · 7) | sase-1nf.14.1 hood | completed 4, failed 3 |
 | [sase-1nf.1](../agents/bbugyi200.athena.sase-1nf.1/README.md) | sase-1nf hood | completed |
 | [sase-1nf.10](bbugyi200.athena.sase-1nf.10.md) (session · 3) | sase-1nf hood | failed 3 |
 | [sase-1nf.10.1.1](../agents/bbugyi200.athena.sase-1nf.10.1.1/README.md) | sase-1nf hood | completed |

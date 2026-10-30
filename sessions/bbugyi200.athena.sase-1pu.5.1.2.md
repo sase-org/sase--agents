@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1pu` · Members: 5 · Bead: [sase-1pu.5
 
 ```mermaid
 flowchart TD
-  n0["sase-1pu.5.1.2--2 [active]"]
+  n0["sase-1pu.5.1.2--2 [completed]"]
   n1["sase-1pu.5.1.2--mon [failed]"]
   n0 --> n1
   n2["sase-1pu.5.1.2--1 [completed]"]
@@ -23,7 +23,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-2"></a>2 | sase-1pu.5.1.2--2 | active | muse-spark-1.3-contributor / muse | 2026-10-30T04:03:05.515998+00:00 | [1](../agents/bbugyi200.athena.sase-1pu.5.1.2--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pu.5.1.2--2/prompt.md) | — |
+| <a id="member-2"></a>2 | sase-1pu.5.1.2--2 | completed | muse-spark-1.3-contributor / muse | 2026-10-30T04:03:05.515998+00:00 → 2026-10-30T04:14:54.863426+00:00 | [1](../agents/bbugyi200.athena.sase-1pu.5.1.2--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pu.5.1.2--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pu.5.1.2--2/chat.md) |
 | <a id="member-mon"></a>mon | sase-1pu.5.1.2--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-30T02:27:15.590585+00:00 → 2026-10-30T02:32:44.293990+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pu.5.1.2--mon/chat.md) |
 | <a id="member-1"></a>1 | sase-1pu.5.1.2--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-30T02:35:01.674524+00:00 → 2026-10-30T03:08:19.646712+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pu.5.1.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pu.5.1.2--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1pu.5.1.2--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-30T02:15:26.421130+00:00 → 2026-10-30T02:29:45.077724+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pu.5.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pu.5.1.2--plan/chat.md) |
@@ -41,7 +41,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1pu.5](bbugyi200.athena.sase-1pu.5.md) (session · 3) | ancestor | failed 3 |
 | [sase-1pu.5.1.1](bbugyi200.athena.sase-1pu.5.1.1.md) (session · 3) | sase-1pu.5.1 hood | completed 2, failed 1 |
-| [sase-1pu.5.1.3](../agents/bbugyi200.athena.sase-1pu.5.1.3/README.md) | sase-1pu.5.1 hood | waiting |
+| [sase-1pu.5.1.3](bbugyi200.athena.sase-1pu.5.1.3.md) (session · 3) | sase-1pu.5.1 hood | active 1, completed 1, failed 1 |
 | [sase-1pu.5.1.4](../agents/bbugyi200.athena.sase-1pu.5.1.4/README.md) | sase-1pu.5.1 hood | waiting |
 | [sase-1pu.5.1.land](../agents/bbugyi200.athena.sase-1pu.5.1.land/README.md) | sase-1pu.5.1 hood | waiting |
 | [sase-1pu.1](../agents/bbugyi200.athena.sase-1pu.1/README.md) | sase-1pu hood | completed |

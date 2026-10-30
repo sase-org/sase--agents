@@ -185,7 +185,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [sase-1nf.14.1.7](../../sessions/bbugyi200.athena.sase-1nf.14.1.7.md) (session · 3) | sase-1nf hood | completed 2, failed 1 |
 | [sase-1nf.14.1.7](../bbugyi200.athena.sase-1nf.14.1.7/README.md) | sase-1nf hood | waiting |
 | [sase-1nf.14.1.8](../../sessions/bbugyi200.athena.sase-1nf.14.1.8.md) (session · 5) | sase-1nf hood | completed 3, failed 2 |
-| [sase-1nf.14.1.land](../../sessions/bbugyi200.athena.sase-1nf.14.1.land.md) (session · 7) | sase-1nf hood | active 1, completed 3, failed 3 |
+| [sase-1nf.14.1.land](../../sessions/bbugyi200.athena.sase-1nf.14.1.land.md) (session · 7) | sase-1nf hood | completed 4, failed 3 |
 | [sase-1nf.2](../bbugyi200.athena.sase-1nf.2/README.md) | sase-1nf hood | completed |
 | [sase-1nf.3](../bbugyi200.athena.sase-1nf.3/README.md) | sase-1nf hood | completed |
 | [sase-1nf.4](../../sessions/bbugyi200.athena.sase-1nf.4.md) (session · 2) | sase-1nf hood | completed 1, failed 1 |
