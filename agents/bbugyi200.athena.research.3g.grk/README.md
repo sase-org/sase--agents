@@ -27,6 +27,7 @@
 | [research.3g.gem](../bbugyi200.athena.research.3g.gem/README.md) | research.3g hood | active |
 | [research.3g.image](../bbugyi200.athena.research.3g.image/README.md) | research.3g hood | active |
 | [research.3g.linker](../bbugyi200.athena.research.3g.linker/README.md) | research.3g hood | active |
+| [research.3g.mus](../bbugyi200.athena.research.3g.mus/README.md) | research.3g hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
@@ -77,4 +78,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 1087 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 1110 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

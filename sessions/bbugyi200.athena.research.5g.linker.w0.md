@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `research` · Members: 2
 ```mermaid
 flowchart TD
   n0["research.5g.linker.w0--plan [completed]"]
-  n1["research.5g.linker.w0--gate [active]"]
+  n1["research.5g.linker.w0--gate [failed]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | research.5g.linker.w0--plan | completed | opus / claude | 2026-10-29T06:22:34.887016+00:00 → 2026-10-29T06:56:36.741293+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.5g.linker.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.5g.linker.w0--plan/chat.md) |
-| <a id="member-gate"></a>gate | research.5g.linker.w0--gate | active | opus / claude | 2026-10-29T06:56:03.351210+00:00 | 0 | — | — |
+| <a id="member-gate"></a>gate | research.5g.linker.w0--gate | failed | opus / claude | 2026-10-29T06:56:03.351210+00:00 → 2026-10-30T07:51:33.046149+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.5g.linker.w0--gate/chat.md) |
 
 ## Neighbors
 
@@ -82,4 +82,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.0a.final](../agents/bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../agents/bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../agents/bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 1085 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 1109 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
