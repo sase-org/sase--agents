@@ -50,7 +50,7 @@
 | [01n](hoods/01n/README.md) | 3 | 1 | active 1, completed 2 |
 | [01o](hoods/01o/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [01q](hoods/01q/README.md) | 4 | 1 | active 1, completed 1, failed 2 |
-| [01r](hoods/01r/README.md) | 2 | 1 | active 2 |
+| [01r](hoods/01r/README.md) | 2 | 1 | active 1, completed 1 |
 | [01t](hoods/01t/README.md) | 2 | 1 | active 1, completed 1 |
 | [01u](hoods/01u/README.md) | 2 | 1 | failed 2 |
 | [01v](hoods/01v/README.md) | 3 | 1 | active 1, completed 2 |
