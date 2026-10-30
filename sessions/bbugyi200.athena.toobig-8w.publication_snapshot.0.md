@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8w.prompt\_artifact\_staging.0](../agents/bbugyi200.athena.toobig-8w.prompt_artifact_staging.0/README.md) | toobig-8w hood | waiting |
+| [toobig-8w.prompt\_artifact\_staging.0](../agents/bbugyi200.athena.toobig-8w.prompt_artifact_staging.0/README.md) | toobig-8w hood | completed |
 | [toobig-8w.publication\_protection.0](../agents/bbugyi200.athena.toobig-8w.publication_protection.0/README.md) | toobig-8w hood | completed |
 | [toobig-8w.publication\_state\_repair.0](../agents/bbugyi200.athena.toobig-8w.publication_state_repair.0/README.md) | toobig-8w hood | completed |
 | [toobig-8w.staged\_handoff.0](../agents/bbugyi200.athena.toobig-8w.staged_handoff.0/README.md) | toobig-8w hood | completed |

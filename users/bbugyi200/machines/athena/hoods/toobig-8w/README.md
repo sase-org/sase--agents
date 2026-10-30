@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / toobig-8w
 
-**Global hood:** `bbugyi200.athena.toobig-8w` · **Runs:** 15 · **Sessions:** 1 · **States:** completed 6, failed 2, waiting 7
+**Global hood:** `bbugyi200.athena.toobig-8w` · **Runs:** 15 · **Sessions:** 1 · **States:** completed 7, failed 2, waiting 6
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [toobig-8w.prompt\_artifact\_staging.0](../../../../../../agents/bbugyi200.athena.toobig-8w.prompt_artifact_staging.0/README.md) | waiting | grok-4.6 / grok | 20261030101700 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-8w.prompt_artifact_staging.0/prompt.md) |
+| [toobig-8w.prompt\_artifact\_staging.0](../../../../../../agents/bbugyi200.athena.toobig-8w.prompt_artifact_staging.0/README.md) | completed | grok-4.6 / grok | 2026-10-30T22:05:13.126829+00:00 → 2026-10-30T22:59:52.846876+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-8w.prompt_artifact_staging.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-8w.prompt_artifact_staging.0/chat.md) |
 | [toobig-8w.publication\_snapshot.0--mon-0](../../../../../../sessions/bbugyi200.athena.toobig-8w.publication_snapshot.0.md#member-mon-0) | failed | muse-spark-1.3-contributor / muse | 2026-10-30T19:44:14.884608+00:00 → 2026-10-30T19:50:54.663196+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.toobig-8w.publication_snapshot.0--mon-0/chat.md) |
 | [toobig-8w.publication\_snapshot.0--1](../../../../../../sessions/bbugyi200.athena.toobig-8w.publication_snapshot.0.md#member-1) | completed | muse-spark-1.3-contributor / muse | 2026-10-30T19:25:05.988746+00:00 → 2026-10-30T19:44:27.960570+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-8w.publication_snapshot.0--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-8w.publication_snapshot.0--1/chat.md) |
 | [toobig-8w.publication\_snapshot.0--mon](../../../../../../sessions/bbugyi200.athena.toobig-8w.publication_snapshot.0.md#member-mon) | failed | muse-spark-1.3-contributor / muse | 2026-10-30T18:28:35.630015+00:00 → 2026-10-30T19:23:04.661429+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.toobig-8w.publication_snapshot.0--mon/chat.md) |

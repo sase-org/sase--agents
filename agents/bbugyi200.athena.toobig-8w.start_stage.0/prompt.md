@@ -1,6 +1,6 @@
+%auto
 %id(start_stage.0, clan=toobig-8w)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `src/sase/monitor/start_stage.py` file into multiple files? Use your best
 %wait:toobig-8w.prompt_artifact_staging.0

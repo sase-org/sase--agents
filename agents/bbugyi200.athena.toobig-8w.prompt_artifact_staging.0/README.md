@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8w](../../users/bbugyi200/machines/athena/hoods/toobig-8w/README.md) / toobig-8w.prompt\_artifact\_staging.0
 
-**Global name:** `bbugyi200.athena.toobig-8w.prompt_artifact_staging.0` · **State:** waiting · **Source run:** `run-0d39362fc4da92ca32c1b5f9485423a4`
+**Global name:** `bbugyi200.athena.toobig-8w.prompt_artifact_staging.0` · **State:** completed · **Source run:** `run-0d39362fc4da92ca32c1b5f9485423a4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8w
 
@@ -10,12 +10,18 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261030101700
-- Commits: 0
+- Timing: 2026-10-30T22:05:13.126829+00:00 → 2026-10-30T22:59:52.846876+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`362fcb2`](https://github.com/sase-org/sase/commit/362fcb2e7fd84459feaf9979a2102c6ae7463c8c) | refactor: split prompt\_artifact\_staging under the 500-line cap | 2026-10-30 18:59:41 EDT |
 
 ## Neighbors
 
