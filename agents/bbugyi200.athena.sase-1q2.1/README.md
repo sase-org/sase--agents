@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1q2](../../users/bbugyi200/machines/athena/hoods/sase-1q2/README.md) / sase-1q2.1
 
-**Global name:** `bbugyi200.athena.sase-1q2.1` · **State:** active · **Source run:** `run-89f7310c09e129de6fd0dace7e8fb0a0`
+**Global name:** `bbugyi200.athena.sase-1q2.1` · **State:** completed · **Source run:** `run-89f7310c09e129de6fd0dace7e8fb0a0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1q2
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1q2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1q2/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-30T16:45:02.509592+00:00
-- Commits: 0
+- Timing: 2026-10-30T16:45:02.509592+00:00 → 2026-10-30T17:49:18.884534+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`deb8bb6`](https://github.com/sase-org/sase/commit/deb8bb60b6aa1a159324fb3491f2ec69eedbf945) | fix(release): match compressed macOS tags for core completeness | 2026-10-30 13:48:02 EDT |
 
 ## Neighbors
 
