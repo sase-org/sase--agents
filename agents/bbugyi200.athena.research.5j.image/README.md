@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-30T20:50:57.861633+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202610/fork\_wait\_session\_vs\_turn\_target/fork\_wait\_session\_vs\_turn\_target\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261030155922/f… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202610/fork_wait_session_vs_turn_target/fork_wait_session_vs_turn_target_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261030155922/fork_wait_session_vs_turn_target_infographic-3213e0a95227.png
+  ref: file:explicit:ebdec5323910773d66938532
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_21/sase/repos/research/202610/fork_wait_session_vs_turn_target/fork_wait_session_vs_turn_target_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
