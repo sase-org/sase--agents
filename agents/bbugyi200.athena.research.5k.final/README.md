@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5k.final
 
-**Global name:** `bbugyi200.athena.research.5k.final` · **State:** waiting · **Source run:** `run-ca704ee47345fcf43ba7cd6b8042c51b`
+**Global name:** `bbugyi200.athena.research.5k.final` · **State:** completed · **Source run:** `run-ca704ee47345fcf43ba7cd6b8042c51b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261030164454
+- Timing: 2026-10-30T21:14:30.558285+00:00 → 2026-10-30T21:35:10.120702+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/tui\_slowdown\_index\_lock\_fallback\_scans/tui\_slowdown\_index\_lock\_fallback\_scans\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/2026103016… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/tui_slowdown_index_lock_fallback_scans/tui_slowdown_index_lock_fallback_scans__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261030164454/tui_slowdown_index_lock_fallback_scans__final-8c1ad959241c.md
+  ref: file:explicit:8dc210255fb288d0091b236b
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13/sase/repos/research/202610/tui_slowdown_index_lock_fallback_scans/tui_slowdown_index_lock_fallback_scans__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,6 +46,7 @@
 | [research.5k.grk](../bbugyi200.athena.research.5k.grk/README.md) | research.5k hood | completed |
 | [research.5k.image](../bbugyi200.athena.research.5k.image/README.md) | research.5k hood | waiting |
 | [research.5k.linker](../bbugyi200.athena.research.5k.linker/README.md) | research.5k hood | waiting |
+| [research.5k.linker.w0](../bbugyi200.athena.research.5k.linker.w0/README.md) | research.5k hood | waiting |
 | [research.5k.mus](../bbugyi200.athena.research.5k.mus/README.md) | research.5k hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |

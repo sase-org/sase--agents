@@ -23,10 +23,11 @@
 |---|---|---|
 | [research.5k.cdx](../bbugyi200.athena.research.5k.cdx/README.md) | research.5k hood | completed |
 | [research.5k.cld](../bbugyi200.athena.research.5k.cld/README.md) | research.5k hood | completed |
-| [research.5k.final](../bbugyi200.athena.research.5k.final/README.md) | research.5k hood | waiting |
+| [research.5k.final](../bbugyi200.athena.research.5k.final/README.md) | research.5k hood | completed |
 | [research.5k.gem](../bbugyi200.athena.research.5k.gem/README.md) | research.5k hood | completed |
 | [research.5k.grk](../bbugyi200.athena.research.5k.grk/README.md) | research.5k hood | completed |
 | [research.5k.linker](../bbugyi200.athena.research.5k.linker/README.md) | research.5k hood | waiting |
+| [research.5k.linker.w0](../bbugyi200.athena.research.5k.linker.w0/README.md) | research.5k hood | waiting |
 | [research.5k.mus](../bbugyi200.athena.research.5k.mus/README.md) | research.5k hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
