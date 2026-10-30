@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-30T20:47:01.221147+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/tui\_latency\_memory\_refresh\_architecture\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261030164448/tui\_latency\_memory\_refresh\_architec… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/tui_latency_memory_refresh_architecture__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261030164448/tui_latency_memory_refresh_architecture__cdx-0db554b0838e.md
+  ref: file:explicit:1672094d25de8311b62e41a7
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_14/sase/repos/research/202610/tui_latency_memory_refresh_architecture__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.5k.grk](../bbugyi200.athena.research.5k.grk/README.md) | research.5k hood | active |
 | [research.5k.image](../bbugyi200.athena.research.5k.image/README.md) | research.5k hood | waiting |
 | [research.5k.linker](../bbugyi200.athena.research.5k.linker/README.md) | research.5k hood | waiting |
-| [research.5k.mus](../bbugyi200.athena.research.5k.mus/README.md) | research.5k hood | active |
+| [research.5k.mus](../bbugyi200.athena.research.5k.mus/README.md) | research.5k hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | dismissed |
