@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 20261030155923
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/fork\_wait\_session\_vs\_turn\_target/fork\_wait\_session\_vs\_turn\_target.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261030155923/fork\_wait\_sess… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/fork_wait_session_vs_turn_target/fork_wait_session_vs_turn_target.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261030155923/fork_wait_session_vs_turn_target-e16f10841401.md
+  ref: file:explicit:1171b8a63f158ab7cbac7ae0
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_14/sase/repos/research/202610/fork_wait_session_vs_turn_target/fork_wait_session_vs_turn_target.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
