@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1pj` · Members: 17 · Bead: [sase-1pj.
 ```mermaid
 flowchart TD
   n0["sase-1pj.5.1.2--1 [completed]"]
-  n1["sase-1pj.5.1.2--8 [active]"]
+  n1["sase-1pj.5.1.2--8 [completed]"]
   n0 --> n1
   n2["sase-1pj.5.1.2--plan [completed]"]
   n0 --> n2
@@ -48,7 +48,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | sase-1pj.5.1.2--1 | completed | grok-4.6 / grok | 2026-10-30T01:17:46.282156+00:00 → 2026-10-30T01:27:34.103430+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.5.1.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.5.1.2--1/chat.md) |
-| <a id="member-8"></a>8 | sase-1pj.5.1.2--8 | active | sonnet / claude | 2026-10-30T07:31:47.568210+00:00 | [1](../agents/bbugyi200.athena.sase-1pj.5.1.2--8/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pj.5.1.2--8/prompt.md) | — |
+| <a id="member-8"></a>8 | sase-1pj.5.1.2--8 | completed | sonnet / claude | 2026-10-30T07:31:47.568210+00:00 → 2026-10-30T08:22:13.716793+00:00 | [1](../agents/bbugyi200.athena.sase-1pj.5.1.2--8/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pj.5.1.2--8/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.5.1.2--8/chat.md) |
 | <a id="member-plan"></a>plan | sase-1pj.5.1.2--plan | completed | grok-4.6 / grok | 2026-10-30T00:30:13.982378+00:00 → 2026-10-30T01:11:27.009130+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.5.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.5.1.2--plan/chat.md) |
 | <a id="member-6"></a>6 | sase-1pj.5.1.2--6 | completed | sonnet / claude | 2026-10-30T04:22:28.416860+00:00 → 2026-10-30T04:26:07.261491+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.5.1.2--6/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.5.1.2--6/chat.md) |
 | <a id="member-mon"></a>mon | sase-1pj.5.1.2--mon | failed | grok-4.6 / grok | 2026-10-30T01:09:43.481149+00:00 → 2026-10-30T01:13:30.110576+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.5.1.2--mon/chat.md) |
@@ -77,7 +77,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1pj.5](bbugyi200.athena.sase-1pj.5.md) (session · 3) | ancestor | failed 3 |
 | [sase-1pj.5.1.1](bbugyi200.athena.sase-1pj.5.1.1.md) (session · 5) | sase-1pj.5.1 hood | completed 3, failed 2 |
-| [sase-1pj.5.1.3](../agents/bbugyi200.athena.sase-1pj.5.1.3/README.md) | sase-1pj.5.1 hood | waiting |
+| [sase-1pj.5.1.3](../agents/bbugyi200.athena.sase-1pj.5.1.3/README.md) | sase-1pj.5.1 hood | active |
 | [sase-1pj.5.1.4](../agents/bbugyi200.athena.sase-1pj.5.1.4/README.md) | sase-1pj.5.1 hood | waiting |
 | [sase-1pj.5.1.land](../agents/bbugyi200.athena.sase-1pj.5.1.land/README.md) | sase-1pj.5.1 hood | waiting |
 | [sase-1pj.1](bbugyi200.athena.sase-1pj.1.md) (session · 3) | sase-1pj hood | failed 3 |

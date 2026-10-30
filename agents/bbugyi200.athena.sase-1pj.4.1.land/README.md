@@ -12,11 +12,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-10-30T08:05:34.032046+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`0060c20`](https://github.com/sase-org/sase/commit/0060c20fd7dfe3e09049fd6d09eb1faf40940d7c) | fix(gate): land staged gate epic symbols and sudo skill contract | 2026-10-30 05:10:20 EDT |
 
 ## Neighbors
 
@@ -46,8 +52,8 @@
 | [sase-1pj.3](../bbugyi200.athena.sase-1pj.3/README.md) | sase-1pj hood | completed |
 | [sase-1pj.5](../../sessions/bbugyi200.athena.sase-1pj.5.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.5.1.1](../../sessions/bbugyi200.athena.sase-1pj.5.1.1.md) (session · 5) | sase-1pj hood | completed 3, failed 2 |
-| [sase-1pj.5.1.2](../../sessions/bbugyi200.athena.sase-1pj.5.1.2.md) (session · 17) | sase-1pj hood | active 1, completed 8, failed 8 |
-| [sase-1pj.5.1.3](../bbugyi200.athena.sase-1pj.5.1.3/README.md) | sase-1pj hood | waiting |
+| [sase-1pj.5.1.2](../../sessions/bbugyi200.athena.sase-1pj.5.1.2.md) (session · 17) | sase-1pj hood | completed 9, failed 8 |
+| [sase-1pj.5.1.3](../bbugyi200.athena.sase-1pj.5.1.3/README.md) | sase-1pj hood | active |
 | [sase-1pj.5.1.4](../bbugyi200.athena.sase-1pj.5.1.4/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.5.1.land](../bbugyi200.athena.sase-1pj.5.1.land/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.6](../bbugyi200.athena.sase-1pj.6/README.md) | sase-1pj hood | waiting |
