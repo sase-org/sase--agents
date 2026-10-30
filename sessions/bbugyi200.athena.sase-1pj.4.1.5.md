@@ -21,7 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-1pj.4.1.5--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-30T03:25:04.054193+00:00 → 2026-10-30T03:57:52.442096+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.4.1.5--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1pj.4.1.5--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-30T01:45:44.758986+00:00 → 2026-10-30T03:28:04.299003+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.4.1.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.4.1.5--plan/chat.md) |
-| <a id="member-1"></a>1 | sase-1pj.4.1.5--1 | active | muse-spark-1.3-contributor / muse | 2026-10-30T04:01:26.577317+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.4.1.5--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1pj.4.1.5--1 | active | muse-spark-1.3-contributor / muse | 2026-10-30T04:01:26.577317+00:00 | [1](../agents/bbugyi200.athena.sase-1pj.4.1.5--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pj.4.1.5--1/prompt.md) | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`4356cff`](https://github.com/sase-org/sase/commit/4356cffaa1678646cab8a2d9c40375a90186a5fa) | feat(agents-sync): add background publication job | 2026-10-30 01:19:13 EDT |
 
 ## Neighbors
 

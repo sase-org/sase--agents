@@ -12,11 +12,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-30T04:01:26.577317+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`4356cff`](https://github.com/sase-org/sase/commit/4356cffaa1678646cab8a2d9c40375a90186a5fa) | feat(agents-sync): add background publication job | 2026-10-30 01:19:13 EDT |
 
 ## Neighbors
 
