@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-42f33e89e52cf14f8ba641cab1f0b9f3"}
+{"commits":[{"committed_at":1793337553,"sha":"4356cffaa1678646cab8a2d9c40375a90186a5fa","subject":"feat(agents-sync): add background publication job"}],"schema_version":2,"source_run_id":"run-42f33e89e52cf14f8ba641cab1f0b9f3"}
