@@ -13,17 +13,23 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-10-29T22:16:08.532837+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`5f675c3`](https://github.com/sase-org/sase/commit/5f675c311f82fa66c82ff8659daa7f246da62f44) | feat(artifact-links): emit fenced prompt cites as link events | 2026-10-29 22:46:48 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1pt.2](../../sessions/bbugyi200.athena.sase-1pt.2.md) (session · 3) | sase-1pt hood | active 1, completed 1, failed 1 |
+| [sase-1pt.2](../../sessions/bbugyi200.athena.sase-1pt.2.md) (session · 3) | sase-1pt hood | completed 2, failed 1 |
 | [sase-1pt.3](../bbugyi200.athena.sase-1pt.3/README.md) | sase-1pt hood | completed |
 | [sase-1pt.4](../bbugyi200.athena.sase-1pt.4/README.md) | sase-1pt hood | completed |
 | [sase-1pt.5](../bbugyi200.athena.sase-1pt.5/README.md) | sase-1pt hood | waiting |

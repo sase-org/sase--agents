@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d7e19e28cf216999bfa16f4818dc5d4a"}
+{"commits":[{"committed_at":1793328408,"sha":"5f675c311f82fa66c82ff8659daa7f246da62f44","subject":"feat(artifact-links): emit fenced prompt cites as link events"}],"schema_version":2,"source_run_id":"run-d7e19e28cf216999bfa16f4818dc5d4a"}
