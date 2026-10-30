@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ad1788884caf30e32c9b8383b63f759d"}
+{"commits":[{"committed_at":1793392623,"sha":"feae9c8777948bf0984ccb26be63c1167998cfd6","subject":"fix(monitor): preserve staged adoption context"}],"schema_version":2,"source_run_id":"run-ad1788884caf30e32c9b8383b63f759d"}

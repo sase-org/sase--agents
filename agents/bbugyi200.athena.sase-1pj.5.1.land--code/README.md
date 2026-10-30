@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / [sase-1pj.5.1.land](../../sessions/bbugyi200.athena.sase-1pj.5.1.land.md) / sase-1pj.5.1.land--code
 
-**Global name:** `bbugyi200.athena.sase-1pj.5.1.land--code` · **State:** active · **Source run:** `run-ad1788884caf30e32c9b8383b63f759d`
+**Global name:** `bbugyi200.athena.sase-1pj.5.1.land--code` · **State:** completed · **Source run:** `run-ad1788884caf30e32c9b8383b63f759d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -11,8 +11,18 @@
 - Bead: [sase-1pj.5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.5.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-30T19:00:42.089068+00:00
-- Commits: 0
+- Timing: 2026-10-30T19:00:42.089068+00:00 → 2026-10-30T20:39:21.466091+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`feae9c8`](https://github.com/sase-org/sase/commit/feae9c8777948bf0984ccb26be63c1167998cfd6) | fix(monitor): preserve staged adoption context | 2026-10-30 16:37:03 EDT |
 
 ## Neighbors
 
@@ -37,7 +47,7 @@
 | [sase-1pj.2.1.4](../bbugyi200.athena.sase-1pj.2.1.4/README.md) | sase-1pj hood | completed |
 | [sase-1pj.2.1.5](../../sessions/bbugyi200.athena.sase-1pj.2.1.5.md) (session · 3) | sase-1pj hood | completed 2, failed 1 |
 | [sase-1pj.2.1.land](../bbugyi200.athena.sase-1pj.2.1.land/README.md) | sase-1pj hood | completed |
-| [sase-1pj.3](../bbugyi200.athena.sase-1pj.3/README.md) | sase-1pj hood | completed |
+| [sase-1pj.3](../bbugyi200.athena.sase-1pj.3/README.md) | sase-1pj hood | active |
 | [sase-1pj.4](../../sessions/bbugyi200.athena.sase-1pj.4.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.4.1.1](../../sessions/bbugyi200.athena.sase-1pj.4.1.1.md) (session · 3) | sase-1pj hood | completed 2, failed 1 |
 | [sase-1pj.4.1.2](../bbugyi200.athena.sase-1pj.4.1.2/README.md) | sase-1pj hood | completed |
