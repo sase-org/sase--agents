@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nf](../../users/bbugyi200/machines/athena/hoods/sase-1nf/README.md) / [sase-1nf.14.1.8](../../sessions/bbugyi200.athena.sase-1nf.14.1.8.md) / sase-1nf.14.1.8--mon
 
-**Global name:** `bbugyi200.athena.sase-1nf.14.1.8--mon` · **State:** active · **Source run:** `run-4bf19ba74625650cbbd68b5c8b7264e9`
+**Global name:** `bbugyi200.athena.sase-1nf.14.1.8--mon` · **State:** failed · **Source run:** `run-4bf19ba74625650cbbd68b5c8b7264e9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nf
 
@@ -11,8 +11,12 @@
 - Bead: [sase-1nf.14.1.8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.14.1.8.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-28T23:05:03.721732+00:00
+- Timing: 2026-10-28T23:05:03.721732+00:00 → 2026-10-29T21:22:54.149372+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
