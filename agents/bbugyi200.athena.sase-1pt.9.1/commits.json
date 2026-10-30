@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e149a56425387c761026923cd316c9de"}
+{"commits":[{"committed_at":1793355181,"sha":"6d615680b8eae2a87d2881002ad28b8ff590db72","subject":"fix(agents-sync): stop stale publication retries"}],"schema_version":2,"source_run_id":"run-e149a56425387c761026923cd316c9de"}

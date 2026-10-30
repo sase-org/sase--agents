@@ -13,11 +13,17 @@
 - Model: gpt-6-luna
 - Provider: codex
 - Timing: 2026-10-30T07:28:31.873901+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`6d61568`](https://github.com/sase-org/sase/commit/6d615680b8eae2a87d2881002ad28b8ff590db72) | fix(agents-sync): stop stale publication retries | 2026-10-30 06:13:01 EDT |
 
 ## Neighbors
 
