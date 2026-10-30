@@ -23,13 +23,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1pu.5.1.1](../bbugyi200.athena.sase-1pu.5.1.1/README.md) | descendant | active |
+| [sase-1pu.5.1.1](../../sessions/bbugyi200.athena.sase-1pu.5.1.1.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
 | [sase-1pu.5.1.2](../bbugyi200.athena.sase-1pu.5.1.2/README.md) | descendant | waiting |
 | [sase-1pu.5.1.3](../bbugyi200.athena.sase-1pu.5.1.3/README.md) | descendant | waiting |
 | [sase-1pu.5.1.4](../bbugyi200.athena.sase-1pu.5.1.4/README.md) | descendant | waiting |
 | [sase-1pu.5.1.land](../bbugyi200.athena.sase-1pu.5.1.land/README.md) | descendant | waiting |
 | [sase-1pu.1](../bbugyi200.athena.sase-1pu.1/README.md) | sase-1pu hood | completed |
-| [sase-1pu.2](../../sessions/bbugyi200.athena.sase-1pu.2.md) (session · 5) | sase-1pu hood | active 1, completed 2, failed 2 |
+| [sase-1pu.2](../../sessions/bbugyi200.athena.sase-1pu.2.md) (session · 5) | sase-1pu hood | completed 3, failed 2 |
 | [sase-1pu.3](../../sessions/bbugyi200.athena.sase-1pu.3.md) (session · 3) | sase-1pu hood | completed 2, failed 1 |
-| [sase-1pu.4](../../sessions/bbugyi200.athena.sase-1pu.4.md) (session · 4) | sase-1pu hood | active 1, completed 2, failed 1 |
+| [sase-1pu.4](../../sessions/bbugyi200.athena.sase-1pu.4.md) (session · 5) | sase-1pu hood | active 1, completed 2, failed 2 |
 | [sase-1pu.land](../bbugyi200.athena.sase-1pu.land/README.md) | sase-1pu hood | waiting |
