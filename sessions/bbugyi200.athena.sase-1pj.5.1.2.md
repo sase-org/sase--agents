@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / sase-1pj.5.1.2
 
-Owner: `bbugyi200.athena` · Hood: `sase-1pj` · Members: 14 · Bead: [sase-1pj.5.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.5.1.2.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1pj` · Members: 16 · Bead: [sase-1pj.5.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.5.1.2.md)
 
 ## Lineage
 
@@ -23,18 +23,22 @@ flowchart TD
   n0 --> n6
   n7["sase-1pj.5.1.2--mon-4 [failed]"]
   n0 --> n7
-  n8["sase-1pj.5.1.2--mon-0 [failed]"]
+  n8["sase-1pj.5.1.2--mon-6 [active]"]
   n0 --> n8
-  n9["sase-1pj.5.1.2--3 [completed]"]
+  n9["sase-1pj.5.1.2--mon-0 [failed]"]
   n0 --> n9
-  n10["sase-1pj.5.1.2--mon-5 [active]"]
+  n10["sase-1pj.5.1.2--3 [completed]"]
   n0 --> n10
-  n11["sase-1pj.5.1.2--2 [completed]"]
+  n11["sase-1pj.5.1.2--mon-5 [failed]"]
   n0 --> n11
-  n12["sase-1pj.5.1.2--mon-2 [failed]"]
+  n12["sase-1pj.5.1.2--7 [completed]"]
   n0 --> n12
-  n13["sase-1pj.5.1.2--5 [completed]"]
+  n13["sase-1pj.5.1.2--2 [completed]"]
   n0 --> n13
+  n14["sase-1pj.5.1.2--mon-2 [failed]"]
+  n0 --> n14
+  n15["sase-1pj.5.1.2--5 [completed]"]
+  n0 --> n15
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -49,9 +53,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-3"></a>mon-3 | sase-1pj.5.1.2--mon-3 | failed | sonnet / claude | 2026-10-30T04:05:35.722168+00:00 → 2026-10-30T04:08:20.607950+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.5.1.2--mon-3/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-1pj.5.1.2--mon-1 | failed | grok-4.6 / grok | 2026-10-30T01:41:11.644610+00:00 → 2026-10-30T02:34:51.283497+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.5.1.2--mon-1/chat.md) |
 | <a id="member-mon-4"></a>mon-4 | sase-1pj.5.1.2--mon-4 | failed | sonnet / claude | 2026-10-30T04:13:37.083503+00:00 → 2026-10-30T04:20:06.110343+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.5.1.2--mon-4/chat.md) |
+| <a id="member-mon-6"></a>mon-6 | sase-1pj.5.1.2--mon-6 | active | sonnet / claude | 2026-10-30T06:33:56.159547+00:00 | 0 | — | — |
 | <a id="member-mon-0"></a>mon-0 | sase-1pj.5.1.2--mon-0 | failed | grok-4.6 / grok | 2026-10-30T01:25:24.970899+00:00 → 2026-10-30T01:32:04.229324+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.5.1.2--mon-0/chat.md) |
 | <a id="member-3"></a>3 | sase-1pj.5.1.2--3 | completed | grok-4.6 / grok | 2026-10-30T02:37:34.083619+00:00 → 2026-10-30T02:46:55.207144+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.5.1.2--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.5.1.2--3/chat.md) |
-| <a id="member-mon-5"></a>mon-5 | sase-1pj.5.1.2--mon-5 | active | sonnet / claude | 2026-10-30T04:25:54.766773+00:00 | 0 | — | — |
+| <a id="member-mon-5"></a>mon-5 | sase-1pj.5.1.2--mon-5 | failed | sonnet / claude | 2026-10-30T04:25:54.766773+00:00 → 2026-10-30T06:27:58.351282+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.5.1.2--mon-5/chat.md) |
+| <a id="member-7"></a>7 | sase-1pj.5.1.2--7 | completed | sonnet / claude | 2026-10-30T06:30:14.972502+00:00 → 2026-10-30T06:34:06.471998+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.5.1.2--7/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.5.1.2--7/chat.md) |
 | <a id="member-2"></a>2 | sase-1pj.5.1.2--2 | completed | grok-4.6 / grok | 2026-10-30T01:34:24.852474+00:00 → 2026-10-30T01:41:49.281347+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.5.1.2--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.5.1.2--2/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | sase-1pj.5.1.2--mon-2 | failed | grok-4.6 / grok | 2026-10-30T02:46:47.546358+00:00 → 2026-10-30T03:44:15.729912+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.5.1.2--mon-2/chat.md) |
 | <a id="member-5"></a>5 | sase-1pj.5.1.2--5 | completed | sonnet / claude | 2026-10-30T04:11:54.519960+00:00 → 2026-10-30T04:13:47.266651+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.5.1.2--5/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.5.1.2--5/chat.md) |
