@@ -28,6 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | 1 | sase | [`4356cff`](https://github.com/sase-org/sase/commit/4356cffaa1678646cab8a2d9c40375a90186a5fa) | feat(agents-sync): add background publication job | 2026-10-30 01:19:13 EDT |
+| — | sase | [`20dc76b`](https://github.com/sase-org/sase/commit/20dc76bd0932192b42e1b276eb99ef1df5ca4dcc) | feat(gate): host-owned workflow completion seam for staged HITL reviews | 2026-10-30 01:27:43 EDT |
 
 ## Neighbors
 
@@ -58,8 +59,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1pj.5](bbugyi200.athena.sase-1pj.5.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.5.1.1](bbugyi200.athena.sase-1pj.5.1.1.md) (session · 5) | sase-1pj hood | completed 3, failed 2 |
 | [sase-1pj.5.1.2](bbugyi200.athena.sase-1pj.5.1.2.md) (session · 17) | sase-1pj hood | completed 9, failed 8 |
-| [sase-1pj.5.1.3](../agents/bbugyi200.athena.sase-1pj.5.1.3/README.md) | sase-1pj hood | active |
-| [sase-1pj.5.1.4](../agents/bbugyi200.athena.sase-1pj.5.1.4/README.md) | sase-1pj hood | waiting |
+| [sase-1pj.5.1.3](../agents/bbugyi200.athena.sase-1pj.5.1.3/README.md) | sase-1pj hood | completed |
+| [sase-1pj.5.1.4](../agents/bbugyi200.athena.sase-1pj.5.1.4/README.md) | sase-1pj hood | completed |
 | [sase-1pj.5.1.land](../agents/bbugyi200.athena.sase-1pj.5.1.land/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.6](../agents/bbugyi200.athena.sase-1pj.6/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.7](../agents/bbugyi200.athena.sase-1pj.7/README.md) | sase-1pj hood | waiting |
