@@ -58,7 +58,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [sase-1nf.14.1.7](../../sessions/bbugyi200.athena.sase-1nf.14.1.7.md) (session · 3) | sase-1nf.14.1 hood | completed 2, failed 1 |
 | [sase-1nf.14.1.7](../bbugyi200.athena.sase-1nf.14.1.7/README.md) | sase-1nf.14.1 hood | waiting |
 | [sase-1nf.14.1.8](../../sessions/bbugyi200.athena.sase-1nf.14.1.8.md) (session · 5) | sase-1nf.14.1 hood | completed 3, failed 2 |
-| [sase-1nf.14.1.land](../bbugyi200.athena.sase-1nf.14.1.land/README.md) | sase-1nf.14.1 hood | active |
+| [sase-1nf.14.1.land](../../sessions/bbugyi200.athena.sase-1nf.14.1.land.md) (session · 3) | sase-1nf.14.1 hood | active 2, failed 1 |
 | [sase-1nf.1](../bbugyi200.athena.sase-1nf.1/README.md) | sase-1nf hood | completed |
 | [sase-1nf.10](../../sessions/bbugyi200.athena.sase-1nf.10.md) (session · 3) | sase-1nf hood | failed 3 |
 | [sase-1nf.10.1.1](../bbugyi200.athena.sase-1nf.10.1.1/README.md) | sase-1nf hood | completed |
