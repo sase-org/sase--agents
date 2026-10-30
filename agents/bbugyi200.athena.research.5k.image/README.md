@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5k.image
 
-**Global name:** `bbugyi200.athena.research.5k.image` · **State:** waiting · **Source run:** `run-8df3a473d429b18cbcac3e654d23d42a`
+**Global name:** `bbugyi200.athena.research.5k.image` · **State:** completed · **Source run:** `run-8df3a473d429b18cbcac3e654d23d42a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261030164455
+- Timing: 2026-10-30T21:38:09.441121+00:00 → 2026-10-30T21:48:24.203974+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202610/tui\_slowdown\_index\_lock\_fallback\_scans/tui\_slowdown\_index\_lock\_fallback\_scans.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261030… |
+| `diagrams` | {considered: 9, count: 1, manifest: 202610/tui\_slowdown\_index\_lock\_fallback\_scans/tui\_slowdown\_index\_lock\_fallback\_scans.diagrams.md, source\_ref: file:explicit:8dc210255fb288d0091b236b, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202610/tui_slowdown_index_lock_fallback_scans/tui_slowdown_index_lock_fallback_scans.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261030164455/tui_slowdown_index_lock_fallback_scans.diagrams-69be91ff66ab.md
+  ref: file:explicit:dfa1372987df1512a73f1203
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13/sase/repos/research/202610/tui_slowdown_index_lock_fallback_scans/tui_slowdown_index_lock_fallback_scans.diagrams.md
+- kind: image
+  label: infographic:202610/tui_slowdown_index_lock_fallback_scans/tui_slowdown_index_lock_fallback_scans_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261030164455/tui_slowdown_index_lock_fallback_scans_infographic-5116acac1a0b.png
+  ref: file:explicit:31d301afb18ad4395dfd9a8f
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13/sase/repos/research/202610/tui_slowdown_index_lock_fallback_scans/tui_slowdown_index_lock_fallback_scans_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 9
+count: 1
+manifest: 202610/tui_slowdown_index_lock_fallback_scans/tui_slowdown_index_lock_fallback_scans.diagrams.md
+source_ref: file:explicit:8dc210255fb288d0091b236b
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
