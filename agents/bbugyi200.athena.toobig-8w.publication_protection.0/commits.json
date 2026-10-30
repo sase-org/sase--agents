@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d45c9bf8a2dcb185b00c714761b02ef5"}
+{"commits":[{"committed_at":1793379485,"sha":"d65f395d714220bf2385aab9a494723736543149","subject":"refactor(agents-sync): split publication_protection into private modules"}],"schema_version":2,"source_run_id":"run-d45c9bf8a2dcb185b00c714761b02ef5"}
