@@ -2,32 +2,49 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1nf](../users/bbugyi200/machines/athena/hoods/sase-1nf/README.md) / sase-1nf.14.1.land
 
-Owner: `bbugyi200.athena` · Hood: `sase-1nf` · Members: 3 · Bead: [sase-1nf.14.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.14.1.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1nf` · Members: 4 · Bead: [sase-1nf.14.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nf/sase-1nf.14.1.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-1nf.14.1.land--plan [active]"]
+  n0["sase-1nf.14.1.land--plan [completed]"]
   n1["sase-1nf.14.1.land--gate [failed]"]
   n0 --> n1
-  n2["sase-1nf.14.1.land--code [active]"]
+  n2["sase-1nf.14.1.land--code [completed]"]
   n0 --> n2
+  n3["sase-1nf.14.1.land--mon [active]"]
+  n0 --> n3
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-1nf.14.1.land--plan | active | opus / claude | 2026-10-30T02:36:28.092884+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nf.14.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nf.14.1.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-1nf.14.1.land--plan | completed | opus / claude | 2026-10-30T02:36:28.092884+00:00 → 2026-10-30T03:46:33.436508+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1nf.14.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1nf.14.1.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-1nf.14.1.land--gate | failed | opus / claude | 2026-10-30T03:10:54.469504+00:00 → 2026-10-30T03:12:45.173328+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nf.14.1.land--gate/chat.md) |
-| <a id="member-code"></a>code | sase-1nf.14.1.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-30T03:15:46.195447+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-1nf.14.1.land--code | completed | muse-spark-1.3-contributor / muse | 2026-10-30T03:15:46.195447+00:00 → 2026-10-30T03:46:33.436508+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1nf.14.1.land--code/chat.md) |
+| <a id="member-mon"></a>mon | sase-1nf.14.1.land--mon | active | muse-spark-1.3-contributor / muse | 2026-10-30T03:45:56.261188+00:00 | 0 | — | — |
 
 ## Variables
 
 | Role | Variable | Value |
 |---|---|---|
+| code | `artifacts` | \[{bead: sase-1nf.14.1.3, kind: markdown, label: graph-allocation re-land benchmark, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261029231546/graph\_alloc\_reland\_benchmark-2f22c660abba… |
 | plan | `artifacts` | \[{bead: sase-1nf.14.1, kind: file, label: sase-1nf.14.1.3 graph-allocation diff recovered from Muse session 9780b2e4 (base 602ff33c1b), path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/2026… |
+
+#### artifacts
+
+**Role:** `code`
+
+```yaml
+- bead: sase-1nf.14.1.3
+  kind: markdown
+  label: graph-allocation re-land benchmark
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261029231546/graph_alloc_reland_benchmark-2f22c660abba.md
+  ref: file:explicit:d0e2fb9ef3c7f133be198c25
+  source_path: /tmp/graph_alloc_reland_benchmark.md
+```
 
 #### artifacts
 
