@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / [sase-1pj.5.1.2](../../sessions/bbugyi200.athena.sase-1pj.5.1.2.md) / sase-1pj.5.1.2--mon-2
 
-**Global name:** `bbugyi200.athena.sase-1pj.5.1.2--mon-2` · **State:** active · **Source run:** `run-ed92299ad4975481cab80c815fd1d712`
+**Global name:** `bbugyi200.athena.sase-1pj.5.1.2--mon-2` · **State:** failed · **Source run:** `run-ed92299ad4975481cab80c815fd1d712`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -11,8 +11,12 @@
 - Bead: [sase-1pj.5.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.5.1.2.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-30T02:46:47.546358+00:00
+- Timing: 2026-10-30T02:46:47.546358+00:00 → 2026-10-30T03:44:15.729912+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -42,8 +46,8 @@
 | [sase-1pj.4.1.1](../../sessions/bbugyi200.athena.sase-1pj.4.1.1.md) (session · 3) | sase-1pj hood | completed 2, failed 1 |
 | [sase-1pj.4.1.2](../bbugyi200.athena.sase-1pj.4.1.2/README.md) | sase-1pj hood | completed |
 | [sase-1pj.4.1.3](../bbugyi200.athena.sase-1pj.4.1.3/README.md) | sase-1pj hood | completed |
-| [sase-1pj.4.1.4](../bbugyi200.athena.sase-1pj.4.1.4/README.md) | sase-1pj hood | active |
-| [sase-1pj.4.1.5](../bbugyi200.athena.sase-1pj.4.1.5/README.md) | sase-1pj hood | active |
+| [sase-1pj.4.1.4](../bbugyi200.athena.sase-1pj.4.1.4/README.md) | sase-1pj hood | completed |
+| [sase-1pj.4.1.5](../../sessions/bbugyi200.athena.sase-1pj.4.1.5.md) (session · 3) | sase-1pj hood | active 1, completed 1, failed 1 |
 | [sase-1pj.4.1.6](../bbugyi200.athena.sase-1pj.4.1.6/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.4.1.land](../bbugyi200.athena.sase-1pj.4.1.land/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.6](../bbugyi200.athena.sase-1pj.6/README.md) | sase-1pj hood | waiting |
