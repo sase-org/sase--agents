@@ -28,4 +28,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-8v.migration.0](../bbugyi200.athena.toobig-8v.migration.0/README.md) | toobig-8v hood | completed |
-| [toobig-8v.test\_gc\_policy.0](../bbugyi200.athena.toobig-8v.test_gc_policy.0/README.md) | toobig-8v hood | waiting |
+| [toobig-8v.test\_gc\_policy.0](../bbugyi200.athena.toobig-8v.test_gc_policy.0/README.md) | toobig-8v hood | completed |
