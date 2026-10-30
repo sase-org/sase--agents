@@ -24,7 +24,7 @@
 | [research.5k.cdx](../bbugyi200.athena.research.5k.cdx/README.md) | research.5k hood | completed |
 | [research.5k.cld](../bbugyi200.athena.research.5k.cld/README.md) | research.5k hood | active |
 | [research.5k.final](../bbugyi200.athena.research.5k.final/README.md) | research.5k hood | waiting |
-| [research.5k.grk](../bbugyi200.athena.research.5k.grk/README.md) | research.5k hood | active |
+| [research.5k.grk](../bbugyi200.athena.research.5k.grk/README.md) | research.5k hood | completed |
 | [research.5k.image](../bbugyi200.athena.research.5k.image/README.md) | research.5k hood | waiting |
 | [research.5k.linker](../bbugyi200.athena.research.5k.linker/README.md) | research.5k hood | waiting |
 | [research.5k.mus](../bbugyi200.athena.research.5k.mus/README.md) | research.5k hood | completed |
@@ -78,4 +78,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 1110 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 1111 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

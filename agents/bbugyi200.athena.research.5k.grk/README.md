@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5k.grk
 
-**Global name:** `bbugyi200.athena.research.5k.grk` · **State:** active · **Source run:** `run-1f7afcb9f4a04a7fcaedd5d097e51e24`
+**Global name:** `bbugyi200.athena.research.5k.grk` · **State:** completed · **Source run:** `run-1f7afcb9f4a04a7fcaedd5d097e51e24`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-30T20:48:54.590020+00:00
+- Timing: 2026-10-30T20:48:54.590020+00:00 → 2026-10-30T21:00:40.265034+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/tui\_slowdown\_heap\_swap\_and\_pump\_20261030\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261030164451/tui\_slowdown\_heap\_swap\_and\_pump\_20… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/tui_slowdown_heap_swap_and_pump_20261030__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261030164451/tui_slowdown_heap_swap_and_pump_20261030__grk-00ff010877bd.md
+  ref: file:explicit:94cbcf8430c851531ba36758
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_19/sase/repos/research/202610/tui_slowdown_heap_swap_and_pump_20261030__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -78,4 +97,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 1110 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 1111 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
