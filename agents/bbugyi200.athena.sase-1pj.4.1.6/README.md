@@ -13,7 +13,7 @@
 - Model: gpt-6-luna
 - Provider: codex
 - Timing: 2026-10-30T05:33:56.993226+00:00
-- Commits: [1](#commits)
+- Commits: [2](#commits)
 
 ## Files
 
@@ -24,6 +24,7 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | sase | [`3ba58ec`](https://github.com/sase-org/sase/commit/3ba58ec222fa6e884dde1fce6b4b681b68254a7b) | feat(workflow): stage HITL reviews before cleanup settlement | 2026-10-30 03:20:14 EDT |
+| sase | [`c85ceb0`](https://github.com/sase-org/sase/commit/c85ceb0c3b28dced3d8ef7afc00b265f194b60c9) | fix(symvision): track workflow symbols on open parent epic | 2026-10-30 03:57:25 EDT |
 
 ## Neighbors
 
@@ -53,7 +54,7 @@
 | [sase-1pj.3](../bbugyi200.athena.sase-1pj.3/README.md) | sase-1pj hood | completed |
 | [sase-1pj.5](../../sessions/bbugyi200.athena.sase-1pj.5.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.5.1.1](../../sessions/bbugyi200.athena.sase-1pj.5.1.1.md) (session · 5) | sase-1pj hood | completed 3, failed 2 |
-| [sase-1pj.5.1.2](../../sessions/bbugyi200.athena.sase-1pj.5.1.2.md) (session · 16) | sase-1pj hood | active 1, completed 8, failed 7 |
+| [sase-1pj.5.1.2](../../sessions/bbugyi200.athena.sase-1pj.5.1.2.md) (session · 17) | sase-1pj hood | active 1, completed 8, failed 8 |
 | [sase-1pj.5.1.3](../bbugyi200.athena.sase-1pj.5.1.3/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.5.1.4](../bbugyi200.athena.sase-1pj.5.1.4/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.5.1.land](../bbugyi200.athena.sase-1pj.5.1.land/README.md) | sase-1pj hood | waiting |

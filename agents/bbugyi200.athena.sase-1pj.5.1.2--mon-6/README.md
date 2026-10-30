@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / [sase-1pj.5.1.2](../../sessions/bbugyi200.athena.sase-1pj.5.1.2.md) / sase-1pj.5.1.2--mon-6
 
-**Global name:** `bbugyi200.athena.sase-1pj.5.1.2--mon-6` · **State:** active · **Source run:** `run-8727be38fcfff3604ac4126cee2120ff`
+**Global name:** `bbugyi200.athena.sase-1pj.5.1.2--mon-6` · **State:** failed · **Source run:** `run-8727be38fcfff3604ac4126cee2120ff`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -11,8 +11,12 @@
 - Bead: [sase-1pj.5.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.5.1.2.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-10-30T06:33:56.159547+00:00
+- Timing: 2026-10-30T06:33:56.159547+00:00 → 2026-10-30T07:29:17.488441+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
