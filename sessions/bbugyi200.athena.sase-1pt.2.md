@@ -33,11 +33,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1pt.1](../agents/bbugyi200.athena.sase-1pt.1/README.md) | sase-1pt hood | active |
+| [sase-1pt.1](../agents/bbugyi200.athena.sase-1pt.1/README.md) | sase-1pt hood | completed |
 | [sase-1pt.3](../agents/bbugyi200.athena.sase-1pt.3/README.md) | sase-1pt hood | completed |
 | [sase-1pt.4](../agents/bbugyi200.athena.sase-1pt.4/README.md) | sase-1pt hood | completed |
-| [sase-1pt.5](../agents/bbugyi200.athena.sase-1pt.5/README.md) | sase-1pt hood | waiting |
-| [sase-1pt.6](../agents/bbugyi200.athena.sase-1pt.6/README.md) | sase-1pt hood | waiting |
+| [sase-1pt.5](../agents/bbugyi200.athena.sase-1pt.5/README.md) | sase-1pt hood | active |
+| [sase-1pt.6](../agents/bbugyi200.athena.sase-1pt.6/README.md) | sase-1pt hood | active |
 | [sase-1pt.7](../agents/bbugyi200.athena.sase-1pt.7/README.md) | sase-1pt hood | waiting |
 | [sase-1pt.8](../agents/bbugyi200.athena.sase-1pt.8/README.md) | sase-1pt hood | waiting |
 | [sase-1pt.land](../agents/bbugyi200.athena.sase-1pt.land/README.md) | sase-1pt hood | waiting |
