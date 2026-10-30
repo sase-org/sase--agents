@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `toobig-8u` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["toobig-8u.run_agent_exec_staged.0--1 [active]"]
+  n0["toobig-8u.run_agent_exec_staged.0--1 [completed]"]
   n1["toobig-8u.run_agent_exec_staged.0--plan [completed]"]
   n0 --> n1
   n2["toobig-8u.run_agent_exec_staged.0--mon [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | toobig-8u.run\_agent\_exec\_staged.0--1 | active | muse-spark-1.3-contributor / muse | 2026-10-30T06:31:15.721235+00:00 | [1](../agents/bbugyi200.athena.toobig-8u.run_agent_exec_staged.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-8u.run_agent_exec_staged.0--1/prompt.md) | — |
+| <a id="member-1"></a>1 | toobig-8u.run\_agent\_exec\_staged.0--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-30T06:31:15.721235+00:00 → 2026-10-30T06:42:19.422032+00:00 | [1](../agents/bbugyi200.athena.toobig-8u.run_agent_exec_staged.0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.toobig-8u.run_agent_exec_staged.0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-8u.run_agent_exec_staged.0--1/chat.md) |
 | <a id="member-plan"></a>plan | toobig-8u.run\_agent\_exec\_staged.0--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-30T04:48:55.388284+00:00 → 2026-10-30T05:26:17.519056+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.toobig-8u.run_agent_exec_staged.0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.toobig-8u.run_agent_exec_staged.0--plan/chat.md) |
 | <a id="member-mon"></a>mon | toobig-8u.run\_agent\_exec\_staged.0--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-30T05:26:07.638959+00:00 → 2026-10-30T06:33:13.766307+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.toobig-8u.run_agent_exec_staged.0--mon/chat.md) |
 
@@ -34,7 +34,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-8u.agent\_list\_render\_rail.0](../agents/bbugyi200.athena.toobig-8u.agent_list_render_rail.0/README.md) | toobig-8u hood | completed |
-| [toobig-8u.declaration.0](../agents/bbugyi200.athena.toobig-8u.declaration.0/README.md) | toobig-8u hood | waiting |
+| [toobig-8u.declaration.0](bbugyi200.athena.toobig-8u.declaration.0.md) (session · 5) | toobig-8u hood | active 1, completed 2, failed 2 |
 | [toobig-8u.reclaim.0](../agents/bbugyi200.athena.toobig-8u.reclaim.0/README.md) | toobig-8u hood | waiting |
 | [toobig-8u.test\_rebase\_gate\_runner.0](../agents/bbugyi200.athena.toobig-8u.test_rebase_gate_runner.0/README.md) | toobig-8u hood | waiting |
 | [toobig-8u.workspace\_handler\_maintenance.0](../agents/bbugyi200.athena.toobig-8u.workspace_handler_maintenance.0/README.md) | toobig-8u hood | waiting |

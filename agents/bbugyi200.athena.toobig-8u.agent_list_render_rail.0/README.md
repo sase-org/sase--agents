@@ -27,8 +27,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8u.declaration.0](../bbugyi200.athena.toobig-8u.declaration.0/README.md) | toobig-8u hood | waiting |
+| [toobig-8u.declaration.0](../../sessions/bbugyi200.athena.toobig-8u.declaration.0.md) (session · 5) | toobig-8u hood | active 1, completed 2, failed 2 |
 | [toobig-8u.reclaim.0](../bbugyi200.athena.toobig-8u.reclaim.0/README.md) | toobig-8u hood | waiting |
-| [toobig-8u.run\_agent\_exec\_staged.0](../../sessions/bbugyi200.athena.toobig-8u.run_agent_exec_staged.0.md) (session · 3) | toobig-8u hood | active 1, completed 1, failed 1 |
+| [toobig-8u.run\_agent\_exec\_staged.0](../../sessions/bbugyi200.athena.toobig-8u.run_agent_exec_staged.0.md) (session · 3) | toobig-8u hood | completed 2, failed 1 |
 | [toobig-8u.test\_rebase\_gate\_runner.0](../bbugyi200.athena.toobig-8u.test_rebase_gate_runner.0/README.md) | toobig-8u hood | waiting |
 | [toobig-8u.workspace\_handler\_maintenance.0](../bbugyi200.athena.toobig-8u.workspace_handler_maintenance.0/README.md) | toobig-8u hood | waiting |
