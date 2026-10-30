@@ -2,20 +2,26 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [research](../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5j.linker.w0
 
-Owner: `bbugyi200.athena` · Hood: `research` · Members: 1
+Owner: `bbugyi200.athena` · Hood: `research` · Members: 3
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["research.5j.linker.w0--plan [active]"]
+  n0["research.5j.linker.w0--plan [completed]"]
+  n1["research.5j.linker.w0--gate [failed]"]
+  n0 --> n1
+  n2["research.5j.linker.w0--mon [active]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | research.5j.linker.w0--plan | active | opus / claude | 2026-10-30T21:17:59.147947+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.5j.linker.w0--plan/prompt.md) | — |
+| <a id="member-plan"></a>plan | research.5j.linker.w0--plan | completed | opus / claude | 2026-10-30T21:17:59.147947+00:00 → 2026-10-30T21:40:25.729590+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.5j.linker.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.5j.linker.w0--plan/chat.md) |
+| <a id="member-gate"></a>gate | research.5j.linker.w0--gate | failed | opus / claude | 2026-10-30T21:41:05.040891+00:00 → 2026-10-30T21:43:31.445613+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.5j.linker.w0--gate/chat.md) |
+| <a id="member-mon"></a>mon | research.5j.linker.w0--mon | active | opus / claude | 2026-10-30T21:43:06.211154+00:00 | 0 | — | — |
 
 ## Neighbors
 
