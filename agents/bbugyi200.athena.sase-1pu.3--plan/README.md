@@ -25,6 +25,6 @@
 |---|---|---|
 | [sase-1pu.1](../bbugyi200.athena.sase-1pu.1/README.md) | sase-1pu hood | active |
 | [sase-1pu.2](../../sessions/bbugyi200.athena.sase-1pu.2.md) (session · 3) | sase-1pu hood | active 2, failed 1 |
-| [sase-1pu.4](../../sessions/bbugyi200.athena.sase-1pu.4.md) (session · 2) | sase-1pu hood | active 2 |
-| [sase-1pu.5](../bbugyi200.athena.sase-1pu.5/README.md) | sase-1pu hood | waiting |
+| [sase-1pu.4](../../sessions/bbugyi200.athena.sase-1pu.4.md) (session · 3) | sase-1pu hood | active 2, failed 1 |
+| [sase-1pu.5](../bbugyi200.athena.sase-1pu.5/README.md) | sase-1pu hood | active |
 | [sase-1pu.land](../bbugyi200.athena.sase-1pu.land/README.md) | sase-1pu hood | waiting |

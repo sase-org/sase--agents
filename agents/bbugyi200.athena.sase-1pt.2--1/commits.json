@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-518e3b36daa74680ef61412693a50706"}
+{"commits":[{"committed_at":1793319764,"sha":"4f1a5e0760aae7904372148fb4fbf3f041a1a30f","subject":"feat(finalizers): report commit publication timings"}],"schema_version":2,"source_run_id":"run-518e3b36daa74680ef61412693a50706"}
