@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8y](../../users/bbugyi200/machines/athena/hoods/toobig-8y/README.md) / toobig-8y.test\_agent\_chat\_from\_name\_agent\_session.0
 
-**Global name:** `bbugyi200.athena.toobig-8y.test_agent_chat_from_name_agent_session.0` · **State:** waiting · **Source run:** `run-4fa7058a8eb0ffbd235a01c81948e853`
+**Global name:** `bbugyi200.athena.toobig-8y.test_agent_chat_from_name_agent_session.0` · **State:** completed · **Source run:** `run-4fa7058a8eb0ffbd235a01c81948e853`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8y
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261031084337
-- Commits: 0
+- Timing: 2026-10-31T17:39:12.825037+00:00 → 2026-10-31T18:56:42.549361+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`471dfc3`](https://github.com/sase-org/sase/commit/471dfc3d5ab77b0a4c7ec128981c1bc1cbb89b91) | refactor(tests): split agent session chat coverage | 2026-10-31 14:56:32 EDT |
 
 ## Neighbors
 

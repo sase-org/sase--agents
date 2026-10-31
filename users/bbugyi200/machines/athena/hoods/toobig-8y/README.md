@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / toobig-8y
 
-**Global hood:** `bbugyi200.athena.toobig-8y` · **Runs:** 10 · **Sessions:** 1 · **States:** completed 6, failed 3, waiting 1
+**Global hood:** `bbugyi200.athena.toobig-8y` · **Runs:** 10 · **Sessions:** 1 · **States:** completed 7, failed 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [toobig-8y.index\_queries.0--mon](../../../../../../sessions/bbugyi200.athena.toobig-8y.index_queries.0.md#member-mon) | failed | grok-4.6 / grok | 2026-10-31T13:48:17.454419+00:00 → 2026-10-31T14:14:33.938930+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.toobig-8y.index_queries.0--mon/chat.md) |
-| [toobig-8y.test\_agent\_chat\_from\_name\_agent\_session.0](../../../../../../agents/bbugyi200.athena.toobig-8y.test_agent_chat_from_name_agent_session.0/README.md) | waiting | gpt-6-luna / codex | 20261031084337 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-8y.test_agent_chat_from_name_agent_session.0/prompt.md) |
+| [toobig-8y.test\_agent\_chat\_from\_name\_agent\_session.0](../../../../../../agents/bbugyi200.athena.toobig-8y.test_agent_chat_from_name_agent_session.0/README.md) | completed | gpt-6-luna / codex | 2026-10-31T17:39:12.825037+00:00 → 2026-10-31T18:56:42.549361+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-8y.test_agent_chat_from_name_agent_session.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-8y.test_agent_chat_from_name_agent_session.0/chat.md) |
 | [toobig-8y.index\_queries.0--1](../../../../../../sessions/bbugyi200.athena.toobig-8y.index_queries.0.md#member-1) | completed | grok-4.6 / grok | 2026-10-31T14:16:31.786078+00:00 → 2026-10-31T14:45:44.786997+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-8y.index_queries.0--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-8y.index_queries.0--1/chat.md) |
 | [toobig-8y.index\_queries.0--2](../../../../../../sessions/bbugyi200.athena.toobig-8y.index_queries.0.md#member-2) | completed | grok-4.6 / grok | 2026-10-31T15:47:28.874063+00:00 → 2026-10-31T15:58:01.572926+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-8y.index_queries.0--2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-8y.index_queries.0--2/chat.md) |
 | [toobig-8y.index\_queries.0--3](../../../../../../sessions/bbugyi200.athena.toobig-8y.index_queries.0.md#member-3) | completed | grok-4.6 / grok | 2026-10-31T16:15:21.631229+00:00 → 2026-10-31T16:23:06.732832+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-8y.index_queries.0--3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-8y.index_queries.0--3/chat.md) |
