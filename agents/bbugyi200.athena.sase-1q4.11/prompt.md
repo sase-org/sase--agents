@@ -1,7 +1,7 @@
+%auto
 #gh:gh_sase-org__sase
 %id(11, clan=sase-1q4, bead=sase-1q4.11)
 %model:@medium
-%auto
 %w(sase-1q4.10,sase-1q4.5,sase-1q4.9, for_epic=false)
 %w(bead=sase-1q4.10)
 %w(bead=sase-1q4.5)

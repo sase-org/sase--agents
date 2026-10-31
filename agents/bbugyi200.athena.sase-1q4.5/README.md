@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1q4](../../users/bbugyi200/machines/athena/hoods/sase-1q4/README.md) / sase-1q4.5
 
-**Global name:** `bbugyi200.athena.sase-1q4.5` · **State:** waiting · **Source run:** `run-66a6ee44c854b1064b7bf61216e58646`
+**Global name:** `bbugyi200.athena.sase-1q4.5` · **State:** completed · **Source run:** `run-66a6ee44c854b1064b7bf61216e58646`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1q4
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1q4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1q4/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261030174514
-- Commits: 0
+- Timing: 2026-10-31T04:29:48.530243+00:00 → 2026-10-31T06:39:47.767417+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`eed4ef9`](https://github.com/sase-org/sase/commit/eed4ef925b351e7aa9770dddbee969b79ec15589) | feat(macro): accept %wait(..., target=session\|turn) | 2026-10-31 02:38:38 EDT |
 
 ## Neighbors
 
