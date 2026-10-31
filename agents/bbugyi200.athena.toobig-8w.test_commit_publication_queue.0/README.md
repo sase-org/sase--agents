@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8w](../../users/bbugyi200/machines/athena/hoods/toobig-8w/README.md) / toobig-8w.test\_commit\_publication\_queue.0
 
-**Global name:** `bbugyi200.athena.toobig-8w.test_commit_publication_queue.0` · **State:** waiting · **Source run:** `run-b70190bfd8b0817300daa9d5cce6f50d`
+**Global name:** `bbugyi200.athena.toobig-8w.test_commit_publication_queue.0` · **State:** completed · **Source run:** `run-b70190bfd8b0817300daa9d5cce6f50d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8w
 
@@ -10,12 +10,18 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261030101849
-- Commits: 0
+- Timing: 2026-10-31T02:07:18.903118+00:00 → 2026-10-31T03:18:10.526317+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9c520e5`](https://github.com/sase-org/sase/commit/9c520e5c9f9f9d5389c6fdeb686235685d3a50b5) | test(agents\_sync): split commit publication queue tests | 2026-10-30 23:18:00 EDT |
 
 ## Neighbors
 
