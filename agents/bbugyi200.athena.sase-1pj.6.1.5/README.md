@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / sase-1pj.6.1.5
 
-**Global name:** `bbugyi200.athena.sase-1pj.6.1.5` · **State:** active · **Source run:** `run-97b3c69483dee2b9758e60ba6493baf9`
+**Global name:** `bbugyi200.athena.sase-1pj.6.1.5` · **State:** completed · **Source run:** `run-97b3c69483dee2b9758e60ba6493baf9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1pj.6.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.6.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261031085845
-- Commits: 0
+- Timing: 2026-10-31T14:39:47.635116+00:00 → 2026-10-31T16:22:29.522809+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`b674079`](https://github.com/sase-org/sase/commit/b674079c2be562c75a28f64775da93f4ec820bab) | feat(staged-recovery): close monitor spawn and held-reservation crash windows | 2026-10-31 12:20:19 EDT |
 
 ## Neighbors
 

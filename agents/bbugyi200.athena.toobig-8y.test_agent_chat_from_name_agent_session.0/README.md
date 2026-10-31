@@ -21,6 +21,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8y.index\_queries.0](../bbugyi200.athena.toobig-8y.index_queries.0/README.md) | toobig-8y hood | active |
+| [toobig-8y.index\_queries.0](../../sessions/bbugyi200.athena.toobig-8y.index_queries.0.md) (session · 7) | toobig-8y hood | completed 4, failed 3 |
 | [toobig-8y.meta\_enrichment\_filesystem.0](../bbugyi200.athena.toobig-8y.meta_enrichment_filesystem.0/README.md) | toobig-8y hood | completed |
 | [toobig-8y.test\_deck\_view\_main\_pilot.0](../bbugyi200.athena.toobig-8y.test_deck_view_main_pilot.0/README.md) | toobig-8y hood | waiting |
