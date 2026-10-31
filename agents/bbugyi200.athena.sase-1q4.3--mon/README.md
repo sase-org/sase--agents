@@ -27,7 +27,7 @@
 | [sase-1q4.10](../../sessions/bbugyi200.athena.sase-1q4.10.md) (session · 5) | sase-1q4 hood | completed 3, failed 2 |
 | [sase-1q4.11](../bbugyi200.athena.sase-1q4.11/README.md) | sase-1q4 hood | waiting |
 | [sase-1q4.2](../bbugyi200.athena.sase-1q4.2/README.md) | sase-1q4 hood | completed |
-| [sase-1q4.4](../bbugyi200.athena.sase-1q4.4/README.md) | sase-1q4 hood | waiting |
+| [sase-1q4.4](../bbugyi200.athena.sase-1q4.4/README.md) | sase-1q4 hood | completed |
 | [sase-1q4.5](../bbugyi200.athena.sase-1q4.5/README.md) | sase-1q4 hood | waiting |
 | [sase-1q4.6](../bbugyi200.athena.sase-1q4.6/README.md) | sase-1q4 hood | waiting |
 | [sase-1q4.7](../bbugyi200.athena.sase-1q4.7/README.md) | sase-1q4 hood | waiting |

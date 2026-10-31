@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1q4](../../users/bbugyi200/machines/athena/hoods/sase-1q4/README.md) / sase-1q4.4
 
-**Global name:** `bbugyi200.athena.sase-1q4.4` · **State:** waiting · **Source run:** `run-b4d681b521cf8896ea85c2dfa9e6fa39`
+**Global name:** `bbugyi200.athena.sase-1q4.4` · **State:** completed · **Source run:** `run-b4d681b521cf8896ea85c2dfa9e6fa39`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1q4
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1q4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1q4/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261030174511
-- Commits: 0
+- Timing: 2026-10-31T02:23:16.529387+00:00 → 2026-10-31T04:28:13.353219+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`5ade788`](https://github.com/sase-org/sase/commit/5ade7889b22e276ff20e8d304424b88d7f2777e0) | feat(wait): pin explicit session/turn wait identity records | 2026-10-31 00:27:05 EDT |
 
 ## Neighbors
 
