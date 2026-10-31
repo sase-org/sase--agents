@@ -424,7 +424,7 @@
 | [0dn](hoods/0dn/README.md) | 8 | 1 | active 1, completed 4, failed 3 |
 | [0dq](hoods/0dq/README.md) | 2 | 1 | active 1, completed 1 |
 | [0dr](hoods/0dr/README.md) | 6 | 2 | active 2, completed 3, failed 1 |
-| [0ds](hoods/0ds/README.md) | 2 | 1 | active 2 |
+| [0ds](hoods/0ds/README.md) | 2 | 1 | active 1, completed 1 |
 | [0dt](hoods/0dt/README.md) | 2 | 1 | active 1, completed 1 |
 | [0dv](hoods/0dv/README.md) | 2 | 1 | active 1, completed 1 |
 | [0dx](hoods/0dx/README.md) | 2 | 1 | active 2 |
