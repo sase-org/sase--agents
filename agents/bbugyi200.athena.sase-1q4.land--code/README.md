@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1q4](../../users/bbugyi200/machines/athena/hoods/sase-1q4/README.md) / [sase-1q4.land](../../sessions/bbugyi200.athena.sase-1q4.land.md) / sase-1q4.land--code
 
-**Global name:** `bbugyi200.athena.sase-1q4.land--code` · **State:** active · **Source run:** `run-9e13880d84b7676c8f78394a4b47c08a`
+**Global name:** `bbugyi200.athena.sase-1q4.land--code` · **State:** completed · **Source run:** `run-9e13880d84b7676c8f78394a4b47c08a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1q4
 
@@ -11,8 +11,18 @@
 - Bead: [sase-1q4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1q4/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-31T11:39:37.178817+00:00
-- Commits: 0
+- Timing: 2026-10-31T11:39:37.178817+00:00 → 2026-10-31T13:11:29.322189+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9b880fb`](https://github.com/sase-org/sase/commit/9b880fbfdfc3a3004a3149b853b2981113bed190) | feat(wait): keep typed-admission %wait targets for the runner | 2026-10-31 09:08:59 EDT |
 
 ## Neighbors
 

@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-1q4` · Members: 3 · Bead: [sase-1q4](
 
 ```mermaid
 flowchart TD
-  n0["sase-1q4.land--plan [active]"]
-  n1["sase-1q4.land--code [active]"]
+  n0["sase-1q4.land--plan [completed]"]
+  n1["sase-1q4.land--code [completed]"]
   n0 --> n1
   n2["sase-1q4.land--gate [failed]"]
   n0 --> n2
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-1q4.land--plan | active | opus / claude | 2026-10-31T11:14:37.432358+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1q4.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1q4.land--plan/chat.md) |
-| <a id="member-code"></a>code | sase-1q4.land--code | active | grok-4.6 / grok | 2026-10-31T11:39:37.178817+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-1q4.land--plan | completed | opus / claude | 2026-10-31T11:14:37.432358+00:00 → 2026-10-31T13:11:29.322189+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1q4.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1q4.land--plan/chat.md) |
+| <a id="member-code"></a>code | sase-1q4.land--code | completed | grok-4.6 / grok | 2026-10-31T11:39:37.178817+00:00 → 2026-10-31T13:11:29.322189+00:00 | [1](../agents/bbugyi200.athena.sase-1q4.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-1q4.land--code/chat.md) |
 | <a id="member-gate"></a>gate | sase-1q4.land--gate | failed | opus / claude | 2026-10-31T11:38:15.510791+00:00 → 2026-10-31T11:39:12.934859+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1q4.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`9b880fb`](https://github.com/sase-org/sase/commit/9b880fbfdfc3a3004a3149b853b2981113bed190) | feat(wait): keep typed-admission %wait targets for the runner | 2026-10-31 09:08:59 EDT |
 
 ## Neighbors
 
