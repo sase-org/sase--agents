@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0da](../../users/bbugyi200/machines/athena/hoods/0da/README.md) / [0da](../../sessions/bbugyi200.athena.0da.md) / 0da--mon
 
-**Global name:** `bbugyi200.athena.0da--mon` · **State:** active · **Source run:** `run-11e4747d9b44b533917190b97388bce8`
+**Global name:** `bbugyi200.athena.0da--mon` · **State:** failed · **Source run:** `run-11e4747d9b44b533917190b97388bce8`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0da
 
