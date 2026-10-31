@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-993a2d666be3bca086e1b4ec28e6cd28"}
+{"commits":[{"committed_at":1793484400,"sha":"745d7b57b15e0639c5c62baa80fcd4ca5e94faf8","subject":"feat(monitor): settle stranded workspaces through shared settlement adapter"}],"schema_version":2,"source_run_id":"run-993a2d666be3bca086e1b4ec28e6cd28"}
