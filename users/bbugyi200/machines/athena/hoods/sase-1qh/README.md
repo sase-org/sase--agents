@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-1qh
 
-**Global hood:** `bbugyi200.athena.sase-1qh` · **Runs:** 20 · **Sessions:** 2 · **States:** active 1, completed 10, failed 6, waiting 3
+**Global hood:** `bbugyi200.athena.sase-1qh` · **Runs:** 20 · **Sessions:** 2 · **States:** completed 11, failed 6, waiting 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [sase-1qh.7](../../../../../../agents/bbugyi200.athena.sase-1qh.7/README.md) | waiting | sonnet / claude | 20261031120457 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1qh.7/prompt.md) |
-| [sase-1qh.4](../../../../../../agents/bbugyi200.athena.sase-1qh.4/README.md) | active | sonnet / claude | 2026-10-31T17:21:40.504114+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1qh.4/prompt.md) |
+| [sase-1qh.4](../../../../../../agents/bbugyi200.athena.sase-1qh.4/README.md) | completed | sonnet / claude | 2026-10-31T17:21:40.504114+00:00 → 2026-10-31T18:33:35.944956+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1qh.4/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1qh.4/chat.md) |
 | [sase-1qh.2--mon](../../../../../../sessions/bbugyi200.athena.sase-1qh.2.md#member-mon) | failed | muse-spark-1.3-contributor / muse | 2026-10-31T17:48:30.392797+00:00 → 2026-10-31T18:13:33.519722+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1qh.2--mon/chat.md) |
 | [sase-1qh.3--mon-0](../../../../../../sessions/bbugyi200.athena.sase-1qh.3.md#member-mon-0) | failed | gpt-6-luna / codex | 2026-10-31T16:24:15.909814+00:00 → 2026-10-31T16:26:11.194020+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1qh.3--mon-0/chat.md) |
 | [sase-1qh.3--plan](../../../../../../sessions/bbugyi200.athena.sase-1qh.3.md#member-plan) | completed | gpt-6-luna / codex | 2026-10-31T16:07:27.946204+00:00 → 2026-10-31T16:11:28.918909+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1qh.3--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1qh.3--plan/chat.md) |

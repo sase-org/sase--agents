@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1qh](../../users/bbugyi200/machines/athena/hoods/sase-1qh/README.md) / sase-1qh.4
 
-**Global name:** `bbugyi200.athena.sase-1qh.4` · **State:** active · **Source run:** `run-0916b1d040337dbf72dd66af243145ff`
+**Global name:** `bbugyi200.athena.sase-1qh.4` · **State:** completed · **Source run:** `run-0916b1d040337dbf72dd66af243145ff`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1qh
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1qh](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1qh/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-10-31T17:21:40.504114+00:00
-- Commits: 0
+- Timing: 2026-10-31T17:21:40.504114+00:00 → 2026-10-31T18:33:35.944956+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`f1dcab6`](https://github.com/sase-org/sase/commit/f1dcab6dae643212b225462161dd313787d7e632) | feat(agents-sync): restore planner prompt archives under their plan name | 2026-10-31 14:32:35 EDT |
 
 ## Neighbors
 
