@@ -23,6 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
+| [sase-1pj.7.1.1](../bbugyi200.athena.sase-1pj.7.1.1/README.md) | descendant | active |
 | [sase-1pj.1](../../sessions/bbugyi200.athena.sase-1pj.1.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.1.1.1](../bbugyi200.athena.sase-1pj.1.1.1/README.md) | sase-1pj hood | active |
 | [sase-1pj.1.1.2](../bbugyi200.athena.sase-1pj.1.1.2/README.md) | sase-1pj hood | active |
