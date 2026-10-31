@@ -35,9 +35,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1q5.2](bbugyi200.athena.sase-1q5.2.md) (session · 3) | sase-1q5 hood | completed 2, failed 1 |
 | [sase-1q5.3](../agents/bbugyi200.athena.sase-1q5.3/README.md) | sase-1q5 hood | completed |
-| [sase-1q5.4](../agents/bbugyi200.athena.sase-1q5.4/README.md) | sase-1q5 hood | waiting |
-| [sase-1q5.5](bbugyi200.athena.sase-1q5.5.md) (session · 3) | sase-1q5 hood | active 1, completed 1, failed 1 |
+| [sase-1q5.4](bbugyi200.athena.sase-1q5.4.md) (session · 3) | sase-1q5 hood | active 1, completed 1, failed 1 |
+| [sase-1q5.5](bbugyi200.athena.sase-1q5.5.md) (session · 5) | sase-1q5 hood | active 1, completed 2, failed 2 |
 | [sase-1q5.6](../agents/bbugyi200.athena.sase-1q5.6/README.md) | sase-1q5 hood | completed |
-| [sase-1q5.7](../agents/bbugyi200.athena.sase-1q5.7/README.md) | sase-1q5 hood | waiting |
+| [sase-1q5.7](bbugyi200.athena.sase-1q5.7.md) (session · 3) | sase-1q5 hood | completed 2, failed 1 |
 | [sase-1q5.8](../agents/bbugyi200.athena.sase-1q5.8/README.md) | sase-1q5 hood | waiting |
 | [sase-1q5.land](../agents/bbugyi200.athena.sase-1q5.land/README.md) | sase-1q5 hood | waiting |
