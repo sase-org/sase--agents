@@ -356,7 +356,7 @@
 | [0b9](hoods/0b9/README.md) | 3 | 1 | active 1, completed 2 |
 | [0ba](hoods/0ba/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
 | [0bb](hoods/0bb/README.md) | 3 | 1 | active 1, completed 2 |
-| [0bc](hoods/0bc/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
+| [0bc](hoods/0bc/README.md) | 4 | 1 | completed 3, failed 1 |
 | [0bd](hoods/0bd/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0be](hoods/0be/README.md) | 2 | 0 | active 1, completed 1 |
 | [0bf](hoods/0bf/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
