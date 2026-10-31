@@ -29,8 +29,9 @@
 | [sase-1q2.6](../../sessions/bbugyi200.athena.sase-1q2.6.md) (session · 3) | sase-1q2 hood | completed 2, failed 1 |
 | [sase-1q2.7](../bbugyi200.athena.sase-1q2.7/README.md) | sase-1q2 hood | completed |
 | [sase-1q2.8](../bbugyi200.athena.sase-1q2.8/README.md) | sase-1q2 hood | completed |
-| [sase-1q2.9.1](../bbugyi200.athena.sase-1q2.9.1/README.md) | sase-1q2 hood | active |
-| [sase-1q2.9.2](../bbugyi200.athena.sase-1q2.9.2/README.md) | sase-1q2 hood | active |
+| [sase-1q2.9.1](../../sessions/bbugyi200.athena.sase-1q2.9.1.md) (session · 11) | sase-1q2 hood | completed 6, failed 5 |
+| [sase-1q2.9.2](../../sessions/bbugyi200.athena.sase-1q2.9.2.md) (session · 2) | sase-1q2 hood | active 1, completed 1 |
 | [sase-1q2.9.3](../bbugyi200.athena.sase-1q2.9.3/README.md) | sase-1q2 hood | active |
 | [sase-1q2.9.4](../bbugyi200.athena.sase-1q2.9.4/README.md) | sase-1q2 hood | active |
-| [sase-1q2.land](../../sessions/bbugyi200.athena.sase-1q2.land.md) (session · 3) | sase-1q2 hood | active 1, failed 2 |
+| [sase-1q2.9.land](../bbugyi200.athena.sase-1q2.9.land/README.md) | sase-1q2 hood | waiting |
+| [sase-1q2.land](../../sessions/bbugyi200.athena.sase-1q2.land.md) (session · 3) | sase-1q2 hood | failed 3 |

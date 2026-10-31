@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1793451625,"sha":"ddefc625e001ae255596f77a6461abb642f3929e","subject":"perf(tui): keep footprint bump() under its 2us budget and fix hot-spare reveal subtitle race"}],"schema_version":2,"source_run_id":"run-59c87eced8b60c2517351410b9674806"}
