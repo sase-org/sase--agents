@@ -40,7 +40,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5k.linker.w0](../bbugyi200.athena.research.5k.linker.w0/README.md) | descendant | waiting |
+| [research.5k.linker.w0](../../sessions/bbugyi200.athena.research.5k.linker.w0.md) (session · 3) | descendant | active 1, failed 2 |
 | [research.5k.cdx](../bbugyi200.athena.research.5k.cdx/README.md) | research.5k hood | completed |
 | [research.5k.cld](../bbugyi200.athena.research.5k.cld/README.md) | research.5k hood | completed |
 | [research.5k.final](../bbugyi200.athena.research.5k.final/README.md) | research.5k hood | completed |
@@ -98,4 +98,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 1111 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 1119 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
