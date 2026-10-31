@@ -386,7 +386,7 @@
 | [0c7](hoods/0c7/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
 | [0c8](hoods/0c8/README.md) | 2 | 1 | active 1, completed 1 |
 | [0ca](hoods/0ca/README.md) | 2 | 1 | failed 2 |
-| [0cb](hoods/0cb/README.md) | 2 | 1 | active 1, failed 1 |
+| [0cb](hoods/0cb/README.md) | 2 | 1 | failed 2 |
 | [0cc](hoods/0cc/README.md) | 2 | 1 | active 2 |
 | [0ce](hoods/0ce/README.md) | 2 | 1 | failed 2 |
 | [0cf](hoods/0cf/README.md) | 2 | 1 | active 1, completed 1 |
