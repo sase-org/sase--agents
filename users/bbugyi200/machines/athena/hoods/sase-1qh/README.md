@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-1qh
 
-**Global hood:** `bbugyi200.athena.sase-1qh` · **Runs:** 20 · **Sessions:** 2 · **States:** completed 11, failed 6, waiting 3
+**Global hood:** `bbugyi200.athena.sase-1qh` · **Runs:** 20 · **Sessions:** 2 · **States:** completed 12, failed 6, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -24,5 +24,5 @@
 | [sase-1qh.3--1](../../../../../../sessions/bbugyi200.athena.sase-1qh.3.md#member-1) | completed | gpt-6-luna / codex | 2026-10-31T16:23:16.915531+00:00 → 2026-10-31T16:24:27.570771+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1qh.3--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1qh.3--1/chat.md) |
 | [sase-1qh.3--mon-1](../../../../../../sessions/bbugyi200.athena.sase-1qh.3.md#member-mon-1) | failed | gpt-6-luna / codex | 2026-10-31T16:29:21.138925+00:00 → 2026-10-31T16:34:14.750762+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1qh.3--mon-1/chat.md) |
 | [sase-1qh.3--mon-3](../../../../../../sessions/bbugyi200.athena.sase-1qh.3.md#member-mon-3) | failed | gpt-6-luna / codex | 2026-10-31T16:47:35.601039+00:00 → 2026-10-31T17:09:26.458488+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-1qh.3--mon-3/chat.md) |
-| [sase-1qh.6](../../../../../../agents/bbugyi200.athena.sase-1qh.6/README.md) | waiting | gpt-6-luna / codex | 20261031120456 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1qh.6/prompt.md) |
+| [sase-1qh.6](../../../../../../agents/bbugyi200.athena.sase-1qh.6/README.md) | completed | gpt-6-luna / codex | 2026-10-31T18:23:27.121218+00:00 → 2026-10-31T19:18:41.461335+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1qh.6/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1qh.6/chat.md) |
 | [sase-1qh.3--2](../../../../../../sessions/bbugyi200.athena.sase-1qh.3.md#member-2) | completed | gpt-6-luna / codex | 2026-10-31T16:28:08.579949+00:00 → 2026-10-31T16:29:29.445338+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1qh.3--2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1qh.3--2/chat.md) |

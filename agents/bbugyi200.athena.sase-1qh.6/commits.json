@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d366c7b941682a05341d3aabbcb54958"}
+{"commits":[{"committed_at":1793474262,"sha":"4900d9a0f3c13ec3aac25521b8a6002261e71651","subject":"feat(agents-sync): repair proven planner scopes"}],"schema_version":2,"source_run_id":"run-d366c7b941682a05341d3aabbcb54958"}
