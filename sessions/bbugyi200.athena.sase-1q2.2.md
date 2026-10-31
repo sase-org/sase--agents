@@ -44,6 +44,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1q2.4](bbugyi200.athena.sase-1q2.4.md) (session · 23) | sase-1q2 hood | completed 12, failed 11 |
 | [sase-1q2.5](../agents/bbugyi200.athena.sase-1q2.5/README.md) | sase-1q2 hood | completed |
 | [sase-1q2.6](bbugyi200.athena.sase-1q2.6.md) (session · 3) | sase-1q2 hood | completed 2, failed 1 |
-| [sase-1q2.7](../agents/bbugyi200.athena.sase-1q2.7/README.md) | sase-1q2 hood | waiting |
-| [sase-1q2.8](../agents/bbugyi200.athena.sase-1q2.8/README.md) | sase-1q2 hood | waiting |
-| [sase-1q2.land](../agents/bbugyi200.athena.sase-1q2.land/README.md) | sase-1q2 hood | waiting |
+| [sase-1q2.7](../agents/bbugyi200.athena.sase-1q2.7/README.md) | sase-1q2 hood | completed |
+| [sase-1q2.8](../agents/bbugyi200.athena.sase-1q2.8/README.md) | sase-1q2 hood | completed |
+| [sase-1q2.land](bbugyi200.athena.sase-1q2.land.md) (session · 3) | sase-1q2 hood | active 1, failed 2 |
