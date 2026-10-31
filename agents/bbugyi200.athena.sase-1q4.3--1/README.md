@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1q4](../../users/bbugyi200/machines/athena/hoods/sase-1q4/README.md) / [sase-1q4.3](../../sessions/bbugyi200.athena.sase-1q4.3.md) / sase-1q4.3--1
 
-**Global name:** `bbugyi200.athena.sase-1q4.3--1` · **State:** active · **Source run:** `run-b5d4b92b35ac445642b16b59ef3cc3f3`
+**Global name:** `bbugyi200.athena.sase-1q4.3--1` · **State:** completed · **Source run:** `run-b5d4b92b35ac445642b16b59ef3cc3f3`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1q4
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1q4.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1q4/sase-1q4.3.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-30T22:41:37.050582+00:00
-- Commits: 0
+- Timing: 2026-10-30T22:41:37.050582+00:00 → 2026-10-31T04:16:59.757856+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`cb230ad`](https://github.com/sase-org/sase/commit/cb230adb5e50eed82039be6112716fbde0f23808) | docs(macros): document keyword-only inputs and wait targets | 2026-10-31 00:15:21 EDT |
 
 ## Neighbors
 
