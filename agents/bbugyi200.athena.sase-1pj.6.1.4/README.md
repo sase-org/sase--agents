@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / sase-1pj.6.1.4
 
-**Global name:** `bbugyi200.athena.sase-1pj.6.1.4` · **State:** active · **Source run:** `run-725b5fd310d76fbb5cb737395e6d65ee`
+**Global name:** `bbugyi200.athena.sase-1pj.6.1.4` · **State:** completed · **Source run:** `run-725b5fd310d76fbb5cb737395e6d65ee`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1pj.6.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.6.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261031085844
-- Commits: 0
+- Timing: 2026-10-31T14:40:32.067349+00:00 → 2026-10-31T16:48:01.765917+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`d9129cf`](https://github.com/sase-org/sase/commit/d9129cfd4ba20fc48fe10707a6833c44bf4eb8ee) | feat(gate-turn): finish partial gate publication on request-id replay | 2026-10-31 12:45:33 EDT |
 
 ## Neighbors
 
