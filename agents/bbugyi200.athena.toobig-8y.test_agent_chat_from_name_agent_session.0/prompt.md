@@ -1,6 +1,6 @@
+%auto
 %id(test_agent_chat_from_name_agent_session.0, clan=toobig-8y)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/test_agent_chat_from_name_agent_session.py` file into multiple files? Use your best
 %wait:toobig-8y.test_deck_view_main_pilot.0

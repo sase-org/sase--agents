@@ -19,4 +19,4 @@
 |---|---|---|
 | [toobig-8y.meta\_enrichment\_filesystem.0](../bbugyi200.athena.toobig-8y.meta_enrichment_filesystem.0/README.md) | toobig-8y hood | completed |
 | [toobig-8y.test\_agent\_chat\_from\_name\_agent\_session.0](../bbugyi200.athena.toobig-8y.test_agent_chat_from_name_agent_session.0/README.md) | toobig-8y hood | waiting |
-| [toobig-8y.test\_deck\_view\_main\_pilot.0](../bbugyi200.athena.toobig-8y.test_deck_view_main_pilot.0/README.md) | toobig-8y hood | waiting |
+| [toobig-8y.test\_deck\_view\_main\_pilot.0](../bbugyi200.athena.toobig-8y.test_deck_view_main_pilot.0/README.md) | toobig-8y hood | completed |
