@@ -30,7 +30,7 @@
 |---|---|---|
 | [sase-1q4.1](../../sessions/bbugyi200.athena.sase-1q4.1.md) (session · 3) | sase-1q4 hood | completed 2, failed 1 |
 | [sase-1q4.10](../../sessions/bbugyi200.athena.sase-1q4.10.md) (session · 5) | sase-1q4 hood | completed 3, failed 2 |
-| [sase-1q4.11](../../sessions/bbugyi200.athena.sase-1q4.11.md) (session · 3) | sase-1q4 hood | active 1, completed 1, failed 1 |
+| [sase-1q4.11](../../sessions/bbugyi200.athena.sase-1q4.11.md) (session · 3) | sase-1q4 hood | completed 2, failed 1 |
 | [sase-1q4.2](../bbugyi200.athena.sase-1q4.2/README.md) | sase-1q4 hood | completed |
 | [sase-1q4.4](../bbugyi200.athena.sase-1q4.4/README.md) | sase-1q4 hood | completed |
 | [sase-1q4.5](../bbugyi200.athena.sase-1q4.5/README.md) | sase-1q4 hood | completed |

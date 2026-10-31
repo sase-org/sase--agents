@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1q4.11--plan [completed]"]
   n1["sase-1q4.11--mon [failed]"]
   n0 --> n1
-  n2["sase-1q4.11--1 [active]"]
+  n2["sase-1q4.11--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-1q4.11--plan | completed | gpt-6-luna / codex | 2026-10-31T06:41:42.980527+00:00 → 2026-10-31T06:56:58.065945+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1q4.11--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1q4.11--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-1q4.11--mon | failed | gpt-6-luna / codex | 2026-10-31T06:56:47.539308+00:00 → 2026-10-31T06:59:41.178358+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1q4.11--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-1q4.11--1 | active | gpt-6-luna / codex | 2026-10-31T07:00:57.445554+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1q4.11--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1q4.11--1 | completed | gpt-6-luna / codex | 2026-10-31T07:00:57.445554+00:00 → 2026-10-31T07:59:23.043384+00:00 | [1](../agents/bbugyi200.athena.sase-1q4.11--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1q4.11--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1q4.11--1/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`dcee7f1`](https://github.com/sase-org/sase/commit/dcee7f11e9342935619dfbd85d670c7dfff1c98e) | feat(fork): bind explicit wait targets and structured refs | 2026-10-31 03:58:25 EDT |
 
 ## Neighbors
 
