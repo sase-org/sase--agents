@@ -33,7 +33,7 @@
 | [toobig-8w.publication\_state\_repair.0](../bbugyi200.athena.toobig-8w.publication_state_repair.0/README.md) | toobig-8w hood | completed |
 | [toobig-8w.staged\_handoff.0](../bbugyi200.athena.toobig-8w.staged_handoff.0/README.md) | toobig-8w hood | completed |
 | [toobig-8w.start\_stage.0](../bbugyi200.athena.toobig-8w.start_stage.0/README.md) | toobig-8w hood | completed |
-| [toobig-8w.test\_agents\_tab\_graph\_isolation.0](../bbugyi200.athena.toobig-8w.test_agents_tab_graph_isolation.0/README.md) | toobig-8w hood | waiting |
+| [toobig-8w.test\_agents\_tab\_graph\_isolation.0](../bbugyi200.athena.toobig-8w.test_agents_tab_graph_isolation.0/README.md) | toobig-8w hood | completed |
 | [toobig-8w.test\_cli.0](../../sessions/bbugyi200.athena.toobig-8w.test_cli.0.md) (session · 3) | toobig-8w hood | completed 2, failed 1 |
 | [toobig-8w.test\_commit\_publication\_queue.0](../bbugyi200.athena.toobig-8w.test_commit_publication_queue.0/README.md) | toobig-8w hood | completed |
 | [toobig-8w.test\_workflow\_completion.0](../bbugyi200.athena.toobig-8w.test_workflow_completion.0/README.md) | toobig-8w hood | waiting |

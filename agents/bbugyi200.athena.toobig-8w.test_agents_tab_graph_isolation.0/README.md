@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8w](../../users/bbugyi200/machines/athena/hoods/toobig-8w/README.md) / toobig-8w.test\_agents\_tab\_graph\_isolation.0
 
-**Global name:** `bbugyi200.athena.toobig-8w.test_agents_tab_graph_isolation.0` · **State:** waiting · **Source run:** `run-f4844b41ed9e6461a2e7e681536f48a7`
+**Global name:** `bbugyi200.athena.toobig-8w.test_agents_tab_graph_isolation.0` · **State:** completed · **Source run:** `run-f4844b41ed9e6461a2e7e681536f48a7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8w
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261030102012
-- Commits: 0
+- Timing: 2026-10-31T05:13:13.874206+00:00 → 2026-10-31T05:30:21.788050+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ea77646`](https://github.com/sase-org/sase/commit/ea77646993486995a4c5e29c5ca1fb94917c4397) | test(agents): split graph isolation coverage | 2026-10-31 01:30:06 EDT |
 
 ## Neighbors
 
