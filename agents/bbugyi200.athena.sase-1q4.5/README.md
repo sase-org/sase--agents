@@ -39,4 +39,4 @@
 | [sase-1q4.7](../../sessions/bbugyi200.athena.sase-1q4.7.md) (session · 3) | sase-1q4 hood | completed 2, failed 1 |
 | [sase-1q4.8](../../sessions/bbugyi200.athena.sase-1q4.8.md) (session · 7) | sase-1q4 hood | completed 4, failed 3 |
 | [sase-1q4.9](../bbugyi200.athena.sase-1q4.9/README.md) | sase-1q4 hood | completed |
-| [sase-1q4.land](../bbugyi200.athena.sase-1q4.land/README.md) | sase-1q4 hood | waiting |
+| [sase-1q4.land](../../sessions/bbugyi200.athena.sase-1q4.land.md) (session · 3) | sase-1q4 hood | active 2, failed 1 |

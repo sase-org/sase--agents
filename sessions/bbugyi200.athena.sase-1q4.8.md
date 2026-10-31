@@ -55,4 +55,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1q4.6](../agents/bbugyi200.athena.sase-1q4.6/README.md) | sase-1q4 hood | completed |
 | [sase-1q4.7](bbugyi200.athena.sase-1q4.7.md) (session · 3) | sase-1q4 hood | completed 2, failed 1 |
 | [sase-1q4.9](../agents/bbugyi200.athena.sase-1q4.9/README.md) | sase-1q4 hood | completed |
-| [sase-1q4.land](../agents/bbugyi200.athena.sase-1q4.land/README.md) | sase-1q4 hood | waiting |
+| [sase-1q4.land](bbugyi200.athena.sase-1q4.land.md) (session · 3) | sase-1q4 hood | active 2, failed 1 |
