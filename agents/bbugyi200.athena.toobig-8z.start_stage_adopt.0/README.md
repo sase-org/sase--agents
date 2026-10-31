@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-8z](../../users/bbugyi200/machines/athena/hoods/toobig-8z/README.md) / toobig-8z.start\_stage\_adopt.0
 
-**Global name:** `bbugyi200.athena.toobig-8z.start_stage_adopt.0` · **State:** waiting · **Source run:** `run-999370e80da7ae1f0d3939a496711eaf`
+**Global name:** `bbugyi200.athena.toobig-8z.start_stage_adopt.0` · **State:** completed · **Source run:** `run-999370e80da7ae1f0d3939a496711eaf`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-8z
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261031145856
-- Commits: 0
+- Timing: 2026-10-31T20:12:36.108228+00:00 → 2026-10-31T20:38:15.965978+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`877fef9`](https://github.com/sase-org/sase/commit/877fef9203e71501eb9d1b4981a2e910a83d0baa) | refactor(monitor): split staged adoption flow | 2026-10-31 16:38:04 EDT |
 
 ## Neighbors
 
