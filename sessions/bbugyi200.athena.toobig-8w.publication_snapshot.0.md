@@ -48,4 +48,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [toobig-8w.test\_cli.0](bbugyi200.athena.toobig-8w.test_cli.0.md) (session · 3) | toobig-8w hood | completed 2, failed 1 |
 | [toobig-8w.test\_commit\_publication\_queue.0](../agents/bbugyi200.athena.toobig-8w.test_commit_publication_queue.0/README.md) | toobig-8w hood | completed |
 | [toobig-8w.test\_publication\_state\_repair.0](bbugyi200.athena.toobig-8w.test_publication_state_repair.0.md) (session · 3) | toobig-8w hood | completed 2, failed 1 |
-| [toobig-8w.test\_workflow\_completion.0](../agents/bbugyi200.athena.toobig-8w.test_workflow_completion.0/README.md) | toobig-8w hood | waiting |
+| [toobig-8w.test\_workflow\_completion.0](../agents/bbugyi200.athena.toobig-8w.test_workflow_completion.0/README.md) | toobig-8w hood | completed |
