@@ -97,7 +97,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1q2.2](bbugyi200.athena.sase-1q2.2.md) (session · 5) | sase-1q2 hood | completed 3, failed 2 |
 | [sase-1q2.3](../agents/bbugyi200.athena.sase-1q2.3/README.md) | sase-1q2 hood | completed |
 | [sase-1q2.5](../agents/bbugyi200.athena.sase-1q2.5/README.md) | sase-1q2 hood | completed |
-| [sase-1q2.6](../agents/bbugyi200.athena.sase-1q2.6/README.md) | sase-1q2 hood | waiting |
+| [sase-1q2.6](bbugyi200.athena.sase-1q2.6.md) (session · 3) | sase-1q2 hood | completed 2, failed 1 |
 | [sase-1q2.7](../agents/bbugyi200.athena.sase-1q2.7/README.md) | sase-1q2 hood | waiting |
 | [sase-1q2.8](../agents/bbugyi200.athena.sase-1q2.8/README.md) | sase-1q2 hood | waiting |
 | [sase-1q2.land](../agents/bbugyi200.athena.sase-1q2.land/README.md) | sase-1q2 hood | waiting |
