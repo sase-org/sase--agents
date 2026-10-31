@@ -1,0 +1,7 @@
+%auto
+#gh:gh_sase-org__sase
+%id(7, clan=sase-1q4, bead=sase-1q4.7)
+%model:@medium
+%w(sase-1q4.5, for_epic=false)
+%w(bead=sase-1q4.5)
+#bd/work_phase_bead:sase-1q4.7
