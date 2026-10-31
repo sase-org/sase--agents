@@ -23,7 +23,7 @@
 |---|---|---|
 | [research.5l.cdx](../bbugyi200.athena.research.5l.cdx/README.md) | research.5l hood | completed |
 | [research.5l.cld](../bbugyi200.athena.research.5l.cld/README.md) | research.5l hood | completed |
-| [research.5l.final](../bbugyi200.athena.research.5l.final/README.md) | research.5l hood | active |
+| [research.5l.final](../bbugyi200.athena.research.5l.final/README.md) | research.5l hood | completed |
 | [research.5l.gem](../bbugyi200.athena.research.5l.gem/README.md) | research.5l hood | completed |
 | [research.5l.grk](../bbugyi200.athena.research.5l.grk/README.md) | research.5l hood | completed |
 | [research.5l.linker](../bbugyi200.athena.research.5l.linker/README.md) | research.5l hood | waiting |

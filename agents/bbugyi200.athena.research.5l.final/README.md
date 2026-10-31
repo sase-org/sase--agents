@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5l.final
 
-**Global name:** `bbugyi200.athena.research.5l.final` · **State:** active · **Source run:** `run-63fee4990ff344eec7343dcae0e070cd`
+**Global name:** `bbugyi200.athena.research.5l.final` · **State:** completed · **Source run:** `run-63fee4990ff344eec7343dcae0e070cd`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-31T14:49:18.995971+00:00
+- Timing: 2026-10-31T14:49:18.995971+00:00 → 2026-10-31T15:14:46.064437+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/agent\_publication\_planner\_scope\_mismatch/agent\_publication\_planner\_scope\_mismatch\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/202610… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/agent_publication_planner_scope_mismatch/agent_publication_planner_scope_mismatch__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261031100839/agent_publication_planner_scope_mismatch__final-99134b3f2366.md
+  ref: file:explicit:08dcc671a6b4c4b0a2c9c22b
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_20/sase/repos/research/202610/agent_publication_planner_scope_mismatch/agent_publication_planner_scope_mismatch__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
