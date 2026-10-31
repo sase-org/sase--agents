@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / toobig-8w
 
-**Global hood:** `bbugyi200.athena.toobig-8w` · **Runs:** 15 · **Sessions:** 1 · **States:** completed 7, failed 2, waiting 6
+**Global hood:** `bbugyi200.athena.toobig-8w` · **Runs:** 15 · **Sessions:** 1 · **States:** completed 8, failed 2, waiting 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -18,6 +18,6 @@
 | [toobig-8w.test\_commit\_publication\_queue.0](../../../../../../agents/bbugyi200.athena.toobig-8w.test_commit_publication_queue.0/README.md) | waiting | grok-4.6 / grok | 20261030101849 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-8w.test_commit_publication_queue.0/prompt.md) |
 | [toobig-8w.test\_cli.0](../../../../../../agents/bbugyi200.athena.toobig-8w.test_cli.0/README.md) | waiting | gpt-6-luna / codex | 20261030101815 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-8w.test_cli.0/prompt.md) |
 | [toobig-8w.publication\_protection.0](../../../../../../agents/bbugyi200.athena.toobig-8w.publication_protection.0/README.md) | completed | grok-4.6 / grok | 2026-10-30T16:33:11.641182+00:00 → 2026-10-30T16:58:17.268975+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-8w.publication_protection.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-8w.publication_protection.0/chat.md) |
-| [toobig-8w.start\_stage.0](../../../../../../agents/bbugyi200.athena.toobig-8w.start_stage.0/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261030101738 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-8w.start_stage.0/prompt.md) |
+| [toobig-8w.start\_stage.0](../../../../../../agents/bbugyi200.athena.toobig-8w.start_stage.0/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-31T01:17:53.775995+00:00 → 2026-10-31T01:44:20.223847+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-8w.start_stage.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-8w.start_stage.0/chat.md) |
 | [toobig-8w.publication\_state\_repair.0](../../../../../../agents/bbugyi200.athena.toobig-8w.publication_state_repair.0/README.md) | completed | gpt-6-luna / codex | 2026-10-30T20:07:08.381894+00:00 → 2026-10-30T21:53:30.008183+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-8w.publication_state_repair.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-8w.publication_state_repair.0/chat.md) |
 | [toobig-8w.test\_agents\_tab\_graph\_isolation.0](../../../../../../agents/bbugyi200.athena.toobig-8w.test_agents_tab_graph_isolation.0/README.md) | waiting | gpt-6-luna / codex | 20261030102012 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-8w.test_agents_tab_graph_isolation.0/prompt.md) |
