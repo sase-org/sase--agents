@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-8x.test\_monitor\_start\_stage.0](../bbugyi200.athena.toobig-8x.test_monitor_start_stage.0/README.md) | toobig-8x hood | active |
+| [toobig-8x.test\_monitor\_start\_stage.0](../bbugyi200.athena.toobig-8x.test_monitor_start_stage.0/README.md) | toobig-8x hood | completed |
