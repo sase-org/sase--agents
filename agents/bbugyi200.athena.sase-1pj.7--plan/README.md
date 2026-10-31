@@ -24,6 +24,10 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1pj.7.1.1](../bbugyi200.athena.sase-1pj.7.1.1/README.md) | descendant | active |
+| [sase-1pj.7.1.2](../bbugyi200.athena.sase-1pj.7.1.2/README.md) | descendant | waiting |
+| [sase-1pj.7.1.3](../bbugyi200.athena.sase-1pj.7.1.3/README.md) | descendant | waiting |
+| [sase-1pj.7.1.4](../bbugyi200.athena.sase-1pj.7.1.4/README.md) | descendant | waiting |
+| [sase-1pj.7.1.land](../bbugyi200.athena.sase-1pj.7.1.land/README.md) | descendant | waiting |
 | [sase-1pj.1](../../sessions/bbugyi200.athena.sase-1pj.1.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.1.1.1](../bbugyi200.athena.sase-1pj.1.1.1/README.md) | sase-1pj hood | active |
 | [sase-1pj.1.1.2](../bbugyi200.athena.sase-1pj.1.1.2/README.md) | sase-1pj hood | active |
@@ -54,7 +58,12 @@
 | [sase-1pj.5.1.4](../bbugyi200.athena.sase-1pj.5.1.4/README.md) | sase-1pj hood | completed |
 | [sase-1pj.5.1.land](../../sessions/bbugyi200.athena.sase-1pj.5.1.land.md) (session · 3) | sase-1pj hood | completed 2, failed 1 |
 | [sase-1pj.5.1.land](../bbugyi200.athena.sase-1pj.5.1.land/README.md) | sase-1pj hood | completed |
-| [sase-1pj.6](../../sessions/bbugyi200.athena.sase-1pj.6.md) (session · 2) | sase-1pj hood | active 2 |
+| [sase-1pj.6](../../sessions/bbugyi200.athena.sase-1pj.6.md) (session · 3) | sase-1pj hood | failed 3 |
+| [sase-1pj.6.1.1](../bbugyi200.athena.sase-1pj.6.1.1/README.md) | sase-1pj hood | active |
+| [sase-1pj.6.1.2](../bbugyi200.athena.sase-1pj.6.1.2/README.md) | sase-1pj hood | waiting |
+| [sase-1pj.6.1.4](../bbugyi200.athena.sase-1pj.6.1.4/README.md) | sase-1pj hood | active |
+| [sase-1pj.6.1.5](../bbugyi200.athena.sase-1pj.6.1.5/README.md) | sase-1pj hood | active |
+| [sase-1pj.6.1.7](../bbugyi200.athena.sase-1pj.6.1.7/README.md) | sase-1pj hood | active |
 | [sase-1pj.8](../bbugyi200.athena.sase-1pj.8/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.9](../bbugyi200.athena.sase-1pj.9/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.land](../bbugyi200.athena.sase-1pj.land/README.md) | sase-1pj hood | waiting |
