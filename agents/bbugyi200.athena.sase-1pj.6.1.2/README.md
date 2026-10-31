@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / sase-1pj.6.1.2
 
-**Global name:** `bbugyi200.athena.sase-1pj.6.1.2` · **State:** waiting · **Source run:** `run-b2f37bd93f6ce22b076d94981f6d80ad`
+**Global name:** `bbugyi200.athena.sase-1pj.6.1.2` · **State:** completed · **Source run:** `run-b2f37bd93f6ce22b076d94981f6d80ad`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1pj.6.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.6.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261031085843
-- Commits: 0
+- Timing: 2026-10-31T14:40:17.278487+00:00 → 2026-10-31T16:39:34.497911+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`9c17b84`](https://github.com/sase-org/sase/commit/9c17b8454bfd553f6888e2b91717fbb23e12646e) | feat(axe): replay staged successors exactly once | 2026-10-31 12:37:04 EDT |
 
 ## Neighbors
 
