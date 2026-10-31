@@ -1,6 +1,6 @@
+%auto
 %id(test_agents_tab_graph_isolation.0, clan=toobig-8w)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/test_agents_tab_graph_isolation.py` file into multiple files? Use your best
 %wait:toobig-8w.test_publication_state_repair.0
