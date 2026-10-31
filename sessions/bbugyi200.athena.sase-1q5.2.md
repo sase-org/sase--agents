@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1q5` · Members: 3 · Bead: [sase-1q5.2
 ```mermaid
 flowchart TD
   n0["sase-1q5.2--mon [failed]"]
-  n1["sase-1q5.2--1 [active]"]
+  n1["sase-1q5.2--1 [completed]"]
   n0 --> n1
   n2["sase-1q5.2--plan [completed]"]
   n0 --> n2
@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-1q5.2--mon | failed | gpt-6-luna / codex | 2026-10-30T23:28:33.522237+00:00 → 2026-10-31T00:07:32.594736+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1q5.2--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-1q5.2--1 | active | gpt-6-luna / codex | 2026-10-31T00:09:03.170637+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1q5.2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1q5.2--1 | completed | gpt-6-luna / codex | 2026-10-31T00:09:03.170637+00:00 → 2026-10-31T00:13:39.274583+00:00 | [1](../agents/bbugyi200.athena.sase-1q5.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1q5.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1q5.2--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1q5.2--plan | completed | gpt-6-luna / codex | 2026-10-30T22:44:21.167468+00:00 → 2026-10-30T23:28:50.486933+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1q5.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1q5.2--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`ad6e4d4`](https://github.com/sase-org/sase/commit/ad6e4d4c153316088c866b04e99652826ae00e1d) | perf(ace): throttle stranded report refreshes | 2026-10-30 20:12:35 EDT |
 
 ## Neighbors
 
@@ -31,7 +37,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1q5.3](../agents/bbugyi200.athena.sase-1q5.3/README.md) | sase-1q5 hood | completed |
 | [sase-1q5.4](../agents/bbugyi200.athena.sase-1q5.4/README.md) | sase-1q5 hood | waiting |
 | [sase-1q5.5](../agents/bbugyi200.athena.sase-1q5.5/README.md) | sase-1q5 hood | waiting |
-| [sase-1q5.6](../agents/bbugyi200.athena.sase-1q5.6/README.md) | sase-1q5 hood | active |
+| [sase-1q5.6](../agents/bbugyi200.athena.sase-1q5.6/README.md) | sase-1q5 hood | completed |
 | [sase-1q5.7](../agents/bbugyi200.athena.sase-1q5.7/README.md) | sase-1q5 hood | waiting |
 | [sase-1q5.8](../agents/bbugyi200.athena.sase-1q5.8/README.md) | sase-1q5 hood | waiting |
 | [sase-1q5.land](../agents/bbugyi200.athena.sase-1q5.land/README.md) | sase-1q5 hood | waiting |

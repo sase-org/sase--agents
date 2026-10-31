@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-fe934dd47ce06d898742bc84e82dea54"}
+{"commits":[{"committed_at":1793405602,"sha":"001351f5b921b165c52fb13fe2da8e0ea2d91a0a","subject":"perf(tui): move small synchronous work off pump"}],"schema_version":2,"source_run_id":"run-fe934dd47ce06d898742bc84e82dea54"}

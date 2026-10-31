@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-535a998e244694c55d1c3f074a3915c7"}
+{"commits":[{"committed_at":1793405555,"sha":"ad6e4d4c153316088c866b04e99652826ae00e1d","subject":"perf(ace): throttle stranded report refreshes"}],"schema_version":2,"source_run_id":"run-535a998e244694c55d1c3f074a3915c7"}
