@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a67167cd458e1a2dde6c3acc6acb68a6"}
+{"commits":[{"committed_at":1793468257,"sha":"cb7ab28e4ba9cdebe52acf4fad0dd58a31501f89","subject":"fix(artifact-links): unwrap bracketed bead trailers with versioned stitch cache"}],"schema_version":2,"source_run_id":"run-a67167cd458e1a2dde6c3acc6acb68a6"}
