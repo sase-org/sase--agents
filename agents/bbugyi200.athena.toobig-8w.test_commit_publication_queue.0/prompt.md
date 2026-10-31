@@ -1,6 +1,6 @@
+%auto
 %id(test_commit_publication_queue.0, clan=toobig-8w)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/agents_sync/test_commit_publication_queue.py` file into multiple files? Use your best
 %wait:toobig-8w.test_cli.0
