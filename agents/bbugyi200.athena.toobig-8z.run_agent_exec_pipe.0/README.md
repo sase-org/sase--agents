@@ -29,4 +29,4 @@
 |---|---|---|
 | [toobig-8z.run\_agent\_successor.0](../../sessions/bbugyi200.athena.toobig-8z.run_agent_successor.0.md) (session · 3) | toobig-8z hood | completed 2, failed 1 |
 | [toobig-8z.start\_stage\_adopt.0](../bbugyi200.athena.toobig-8z.start_stage_adopt.0/README.md) | toobig-8z hood | waiting |
-| [toobig-8z.transaction.0](../bbugyi200.athena.toobig-8z.transaction.0/README.md) | toobig-8z hood | waiting |
+| [toobig-8z.transaction.0](../bbugyi200.athena.toobig-8z.transaction.0/README.md) | toobig-8z hood | completed |
