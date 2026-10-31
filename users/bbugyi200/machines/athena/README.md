@@ -107,7 +107,7 @@
 | [03n](hoods/03n/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
 | [03o](hoods/03o/README.md) | 8 | 1 | active 1, completed 4, failed 3 |
 | [03p](hoods/03p/README.md) | 3 | 0 | active 3 |
-| [03q](hoods/03q/README.md) | 2 | 1 | active 1, failed 1 |
+| [03q](hoods/03q/README.md) | 2 | 1 | failed 2 |
 | [03r](hoods/03r/README.md) | 1 | 0 | active 1 |
 | [03s](hoods/03s/README.md) | 4 | 2 | active 3, failed 1 |
 | [03t](hoods/03t/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
