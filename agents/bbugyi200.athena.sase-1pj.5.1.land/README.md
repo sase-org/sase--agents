@@ -2,21 +2,27 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / sase-1pj.5.1.land
 
-**Global name:** `bbugyi200.athena.sase-1pj.5.1.land` · **State:** waiting · **Source run:** `run-77c5486c24e317a3debac53fa3de23eb`
+**Global name:** `bbugyi200.athena.sase-1pj.5.1.land` · **State:** completed · **Source run:** `run-d3a5ca5b7fbffced06ddd02c1c374bdf`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
 ## Summary
 
 - Bead: [sase-1pj.5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.5.1.md)
-- Model: gpt-6-astra
-- Provider: codex
-- Timing: 20261029145102
-- Commits: 0
+- Model: opus
+- Provider: claude
+- Timing: 2026-10-31T12:02:45.006695+00:00 → 2026-10-31T12:40:12.467551+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`2763a6b`](https://github.com/sase-org/sase/commit/2763a6bc58cd74d4882ab97bace343de0c73fa97) | docs(monitor): describe staged monitor starts in help and flag text | 2026-10-31 08:36:37 EDT |
 
 ## Neighbors
 
