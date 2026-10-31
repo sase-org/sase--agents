@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1q4](../../users/bbugyi200/machines/athena/hoods/sase-1q4/README.md) / sase-1q4.2
 
-**Global name:** `bbugyi200.athena.sase-1q4.2` · **State:** active · **Source run:** `run-4e1bf72828db3c8b73fb640db668fa84`
+**Global name:** `bbugyi200.athena.sase-1q4.2` · **State:** completed · **Source run:** `run-4e1bf72828db3c8b73fb640db668fa84`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1q4
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1q4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1q4/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-30T21:47:07.654602+00:00
-- Commits: 0
+- Timing: 2026-10-30T21:47:07.654602+00:00 → 2026-10-31T02:20:41.392637+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`271632e`](https://github.com/sase-org/sase/commit/271632e9d7381398fa1503730ed91f4a03d23e00) | feat(macros): add wait\_target NamedEnum facade and frontmatter wiring | 2026-10-30 22:18:35 EDT |
 
 ## Neighbors
 

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4e1bf72828db3c8b73fb640db668fa84"}
+{"commits":[{"committed_at":1793413115,"sha":"271632e9d7381398fa1503730ed91f4a03d23e00","subject":"feat(macros): add wait_target NamedEnum facade and frontmatter wiring"}],"schema_version":2,"source_run_id":"run-4e1bf72828db3c8b73fb640db668fa84"}
