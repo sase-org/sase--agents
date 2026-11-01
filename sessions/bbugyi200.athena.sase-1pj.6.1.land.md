@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / sase-1pj.6.1.land
 
-Owner: `bbugyi200.athena` · Hood: `sase-1pj` · Members: 4 · Bead: [sase-1pj.6.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.6.1.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1pj` · Members: 5 · Bead: [sase-1pj.6.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.6.1.md)
 
 ## Lineage
 
@@ -15,6 +15,8 @@ flowchart TD
   n0 --> n2
   n3["sase-1pj.6.1.land--gate [completed]"]
   n0 --> n3
+  n4["sase-1pj.6.1.land--1 [completed]"]
+  n0 --> n4
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -25,6 +27,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | sase-1pj.6.1.land--mon | completed | gpt-6-luna / codex | 2026-11-01T18:47:02.097226+00:00 → 2026-11-01T18:49:55.633746+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.6.1.land--mon/chat.md) |
 | <a id="member-code"></a>code | sase-1pj.6.1.land--code | completed | gpt-6-luna / codex | 2026-11-01T18:37:59.127616+00:00 → 2026-11-01T18:47:34.091003+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.6.1.land--code/chat.md) |
 | <a id="member-gate"></a>gate | sase-1pj.6.1.land--gate | completed | opus / claude | 2026-11-01T18:36:18.620908+00:00 → 2026-11-01T18:37:35.596974+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.6.1.land--gate/chat.md) |
+| <a id="member-1"></a>1 | sase-1pj.6.1.land--1 | completed | gpt-6-luna / codex | 2026-11-01T18:53:31.666760+00:00 → 2026-11-01T19:37:54.065418+00:00 | [1](../agents/bbugyi200.athena.sase-1pj.6.1.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pj.6.1.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.6.1.land--1/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`078e3da`](https://github.com/sase-org/sase/commit/078e3da1d6a784cfc8fd2ab783273246318660c2) | fix(axe): recover staged successor claim handovers | 2026-11-01 14:34:16 EST |
 
 ## Neighbors
 
