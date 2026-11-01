@@ -23,9 +23,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1qk.2](../../sessions/bbugyi200.athena.sase-1qk.2.md) (session · 2) | sase-1qk hood | active 1, completed 1 |
-| [sase-1qk.3](../../sessions/bbugyi200.athena.sase-1qk.3.md) (session · 3) | sase-1qk hood | active 1, completed 1, failed 1 |
+| [sase-1qk.2](../../sessions/bbugyi200.athena.sase-1qk.2.md) (session · 3) | sase-1qk hood | completed 3 |
+| [sase-1qk.3](../../sessions/bbugyi200.athena.sase-1qk.3.md) (session · 4) | sase-1qk hood | active 1, completed 2, failed 1 |
 | [sase-1qk.4](../../sessions/bbugyi200.athena.sase-1qk.4.md) (session · 3) | sase-1qk hood | completed 2, failed 1 |
-| [sase-1qk.5](../bbugyi200.athena.sase-1qk.5/README.md) | sase-1qk hood | waiting |
+| [sase-1qk.5](../../sessions/bbugyi200.athena.sase-1qk.5.md) (session · 3) | sase-1qk hood | completed 3 |
 | [sase-1qk.6](../bbugyi200.athena.sase-1qk.6/README.md) | sase-1qk hood | active |
 | [sase-1qk.land](../bbugyi200.athena.sase-1qk.land/README.md) | sase-1qk hood | waiting |
