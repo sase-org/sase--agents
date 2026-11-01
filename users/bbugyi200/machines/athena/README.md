@@ -671,7 +671,7 @@
 | [0z](hoods/0z/README.md) | 7 | 3 | active 3, completed 4 |
 | [1](hoods/1/README.md) | 2 | 1 | active 1, completed 1 |
 | [11](hoods/11/README.md) | 2 | 1 | active 1, completed 1 |
-| [12m](hoods/12m/README.md) | 5 | 1 | active 1, completed 2, failed 2 |
+| [12m](hoods/12m/README.md) | 5 | 1 | completed 3, failed 2 |
 | [12n](hoods/12n/README.md) | 3 | 1 | failed 3 |
 | [12u](hoods/12u/README.md) | 5 | 1 | completed 3, failed 2 |
 | [13](hoods/13/README.md) | 2 | 1 | active 1, completed 1 |

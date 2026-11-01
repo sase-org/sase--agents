@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["12m--gate [failed]"]
   n0 --> n3
-  n4["12m--1 [active]"]
+  n4["12m--1 [completed]"]
   n0 --> n4
 ```
 
@@ -27,10 +27,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | 12m--code | completed | muse-spark-1.3-contributor / muse | 2026-10-20T19:23:14.613092+00:00 → 2026-10-20T19:44:51.382452+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.12m--code/prompt.md) | [Chat](../agents/bbugyi200.athena.12m--code/chat.md) |
 | <a id="member-plan"></a>plan | 12m--plan | completed | opus / claude | 2026-10-20T18:58:56.496614+00:00 → 2026-10-20T19:10:41.142770+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.12m--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.12m--plan/chat.md) |
 | <a id="member-gate"></a>gate | 12m--gate | failed | opus / claude | 2026-10-20T19:21:05.273671+00:00 → 2026-10-20T19:22:33.562803+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.12m--gate/chat.md) |
-| <a id="member-1"></a>1 | 12m--1 | active | muse-spark-1.3-contributor / muse | 2026-10-20T20:08:55.961749+00:00 | [1](../agents/bbugyi200.athena.12m--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.12m--1/prompt.md) | — |
+| <a id="member-1"></a>1 | 12m--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-20T20:08:55.961749+00:00 → 2026-10-20T20:25:21.848635+00:00 | [1](../agents/bbugyi200.athena.12m--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.12m--1/prompt.md) | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`d9ff230`](https://github.com/sase-org/sase/commit/d9ff2309a73e9fdc2dcf26d7b3b54afe9268b4ba) | fix(wait): drop dead host\_completion\_reasons flat-key projection | 2026-10-20 16:16:32 EDT |
+| 1 | — | `d9ff230` | fix(wait): drop dead host\_completion\_reasons flat-key projection | 2026-10-20 16:16:32 EDT |
