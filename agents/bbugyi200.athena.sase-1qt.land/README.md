@@ -24,4 +24,4 @@
 |---|---|---|
 | [sase-1qt.1](../../sessions/bbugyi200.athena.sase-1qt.1.md) (session · 3) | sase-1qt hood | active 2, completed 1 |
 | [sase-1qt.2](../../sessions/bbugyi200.athena.sase-1qt.2.md) (session · 3) | sase-1qt hood | active 2, completed 1 |
-| [sase-1qt.3](../bbugyi200.athena.sase-1qt.3/README.md) | sase-1qt hood | active |
+| [sase-1qt.3](../bbugyi200.athena.sase-1qt.3/README.md) | sase-1qt hood | completed |
