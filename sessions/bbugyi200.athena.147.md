@@ -33,10 +33,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`ba59799`](https://github.com/sase-org/sase/commit/ba59799ce95e7a9697dc7877276adec4274898f1) | feat(stats): add project language breakdown with rows card and repo LANGUAGE column | 2026-10-25 14:45:01 EDT |
+| 1 | — | `ba59799` | feat(stats): add project language breakdown with rows card and repo LANGUAGE column | 2026-10-25 14:45:01 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [147.f0](bbugyi200.athena.147.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [147.f0](bbugyi200.athena.147.f0.md) (session · 3) | descendant | completed 2, failed 1 |
