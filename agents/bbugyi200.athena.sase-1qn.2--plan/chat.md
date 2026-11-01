@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** sase-1qn.2--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1qn_2__plan-261101_143646.md`
+- 2. --code — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1qn_2__code-261101_143646.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/split_neutral_tui_import_budget.md
 
 

@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `sase-1qn` · Members: 3 · Bead: [sase-1qn.2
 ```mermaid
 flowchart TD
   n0["sase-1qn.2--gate [completed]"]
-  n1["sase-1qn.2--plan [active]"]
+  n1["sase-1qn.2--plan [completed]"]
   n0 --> n1
-  n2["sase-1qn.2--code [active]"]
+  n2["sase-1qn.2--code [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1qn.2--gate | completed | gpt-6-astra / codex | 2026-11-01T19:48:27.964816+00:00 → 2026-11-01T19:49:57.423642+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1qn.2--gate/chat.md) |
-| <a id="member-plan"></a>plan | sase-1qn.2--plan | active | gpt-6-astra / codex | 2026-11-01T19:40:16.541353+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1qn.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1qn.2--plan/chat.md) |
-| <a id="member-code"></a>code | sase-1qn.2--code | active | sonnet / claude | 2026-11-01T19:51:19.533380+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-1qn.2--plan | completed | gpt-6-astra / codex | 2026-11-01T19:40:16.541353+00:00 → 2026-11-01T22:35:01.699208+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1qn.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1qn.2--plan/chat.md) |
+| <a id="member-code"></a>code | sase-1qn.2--code | completed | sonnet / claude | 2026-11-01T19:51:19.533380+00:00 → 2026-11-01T22:35:01.699208+00:00 | [1](../agents/bbugyi200.athena.sase-1qn.2--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-1qn.2--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`5d7a79c`](https://github.com/sase-org/sase/commit/5d7a79c3c01bb947078afc5fcabf7f21257cd6a7) | test(tui): measure the import budget in source footprint, not module count | 2026-11-01 17:33:29 EST |
 
 ## Neighbors
 
