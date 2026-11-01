@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `13k` · Members: 7
 ```mermaid
 flowchart TD
   n0["13k--1 [completed]"]
-  n1["13k--2 [active]"]
+  n1["13k--2 [completed]"]
   n0 --> n1
   n2["13k--code [completed]"]
   n0 --> n2
@@ -28,7 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | 13k--1 | completed | gpt-6-luna / codex | 2026-10-24T12:08:28.564385+00:00 → 2026-10-24T12:25:47.790462+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.13k--1/prompt.md) | [Chat](../agents/bbugyi200.athena.13k--1/chat.md) |
-| <a id="member-2"></a>2 | 13k--2 | active | gpt-6-luna / codex | 2026-10-24T12:51:08.623833+00:00 | [1](../agents/bbugyi200.athena.13k--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.13k--2/prompt.md) | — |
+| <a id="member-2"></a>2 | 13k--2 | completed | gpt-6-luna / codex | 2026-10-24T12:51:08.623833+00:00 → 2026-10-24T14:55:46.765762+00:00 | [1](../agents/bbugyi200.athena.13k--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.13k--2/prompt.md) | — |
 | <a id="member-code"></a>code | 13k--code | completed | gpt-6-luna / codex | 2026-10-24T10:11:44.640102+00:00 → 2026-10-24T11:07:27.307957+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.13k--code/prompt.md) | [Chat](../agents/bbugyi200.athena.13k--code/chat.md) |
 | <a id="member-plan"></a>plan | 13k--plan | completed | opus / claude | 2026-10-24T09:55:19.810340+00:00 → 2026-10-24T10:05:41.497945+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.13k--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.13k--plan/chat.md) |
 | <a id="member-mon"></a>mon | 13k--mon | failed | gpt-6-luna / codex | 2026-10-24T11:06:09.292031+00:00 → 2026-10-24T11:41:24.309390+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.13k--mon/chat.md) |
@@ -39,4 +39,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | sase | [`79fa96d`](https://github.com/sase-org/sase/commit/79fa96dfc7d5c5f18f2a0472c01657eddde2d85e) | feat(ace): gate Artifacts Files pane behind a beta flag | 2026-10-24 10:46:39 EDT |
+| 2 | — | `79fa96d` | feat(ace): gate Artifacts Files pane behind a beta flag | 2026-10-24 10:46:39 EDT |
