@@ -28,6 +28,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
+| [sase-1om.8.f0](../bbugyi200.athena.sase-1om.8.f0/README.md) | descendant | completed |
 | [sase-1om.1](../../sessions/bbugyi200.athena.sase-1om.1.md) (session · 3) | sase-1om hood | completed 2, failed 1 |
 | [sase-1om.2](../../sessions/bbugyi200.athena.sase-1om.2.md) (session · 3) | sase-1om hood | completed 2, failed 1 |
 | [sase-1om.3](../bbugyi200.athena.sase-1om.3/README.md) | sase-1om hood | completed |
@@ -35,5 +36,6 @@
 | [sase-1om.5](../bbugyi200.athena.sase-1om.5/README.md) | sase-1om hood | completed |
 | [sase-1om.6](../../sessions/bbugyi200.athena.sase-1om.6.md) (session · 5) | sase-1om hood | completed 3, failed 2 |
 | [sase-1om.7](../../sessions/bbugyi200.athena.sase-1om.7.md) (session · 5) | sase-1om hood | completed 3, failed 2 |
-| [sase-1om.9](../../sessions/bbugyi200.athena.sase-1om.9.md) (session · 3) | sase-1om hood | active 1, completed 1, failed 1 |
+| [sase-1om.9](../../sessions/bbugyi200.athena.sase-1om.9.md) (session · 3) | sase-1om hood | completed 2, failed 1 |
+| [sase-1om.land](../../sessions/bbugyi200.athena.sase-1om.land.md) (session · 3) | sase-1om hood | completed 3 |
 | [sase-1om.land](../bbugyi200.athena.sase-1om.land/README.md) | sase-1om hood | waiting |
