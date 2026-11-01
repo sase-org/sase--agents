@@ -495,7 +495,7 @@
 | [0hb](hoods/0hb/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0hd](hoods/0hd/README.md) | 10 | 2 | active 2, completed 3, failed 5 |
 | [0he](hoods/0he/README.md) | 5 | 1 | active 1, completed 2, failed 2 |
-| [0hf](hoods/0hf/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [0hf](hoods/0hf/README.md) | 3 | 1 | completed 2, failed 1 |
 | [0hh](hoods/0hh/README.md) | 4 | 1 | active 2, completed 1, failed 1 |
 | [0hi](hoods/0hi/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0hl](hoods/0hl/README.md) | 5 | 1 | active 1, completed 2, failed 2 |
