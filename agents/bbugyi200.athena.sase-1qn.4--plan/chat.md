@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** sase-1qn.4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1qn_4__plan-261101_143648.md`
+- 2. --code — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1qn_4__code-261101_143648.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/zsh_completion_pty_isolation.md
 
 
