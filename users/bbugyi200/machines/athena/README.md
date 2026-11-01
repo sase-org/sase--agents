@@ -593,7 +593,7 @@
 | [0o0](hoods/0o0/README.md) | 1 | 0 | active 1 |
 | [0o1](hoods/0o1/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0o3](hoods/0o3/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [0o4](hoods/0o4/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [0o4](hoods/0o4/README.md) | 3 | 1 | completed 2, failed 1 |
 | [0o5](hoods/0o5/README.md) | 1 | 0 | active 1 |
 | [0o9](hoods/0o9/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0og](hoods/0og/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
