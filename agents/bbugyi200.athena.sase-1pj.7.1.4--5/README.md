@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / [sase-1pj.7.1.4](../../sessions/bbugyi200.athena.sase-1pj.7.1.4.md) / sase-1pj.7.1.4--5
 
-**Global name:** `bbugyi200.athena.sase-1pj.7.1.4--5` · **State:** active · **Source run:** `run-beba336306a3c2cb2bd741f23671e44d`
+**Global name:** `bbugyi200.athena.sase-1pj.7.1.4--5` · **State:** completed · **Source run:** `run-beba336306a3c2cb2bd741f23671e44d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1pj.7.1.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.7.1.4.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-01T18:29:15.455653+00:00
-- Commits: 0
+- Timing: 2026-11-01T18:29:15.455653+00:00 → 2026-11-01T22:37:09.704758+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`31a28d9`](https://github.com/sase-org/sase/commit/31a28d9618d20ff656ae57c4a4268cf82f4abaf8) | feat(stranded-work): retain held workspace as stranded unless live successor owns | 2026-11-01 17:33:50 EST |
 
 ## Neighbors
 

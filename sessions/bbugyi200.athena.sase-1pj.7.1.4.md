@@ -21,7 +21,7 @@ flowchart TD
   n0 --> n5
   n6["sase-1pj.7.1.4--plan [completed]"]
   n0 --> n6
-  n7["sase-1pj.7.1.4--5 [active]"]
+  n7["sase-1pj.7.1.4--5 [completed]"]
   n0 --> n7
   n8["sase-1pj.7.1.4--mon-0 [completed]"]
   n0 --> n8
@@ -42,10 +42,16 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | sase-1pj.7.1.4--mon | completed | gpt-6-luna / codex | 2026-11-01T16:03:24.434299+00:00 → 2026-11-01T16:26:05.461679+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.7.1.4--mon/chat.md) |
 | <a id="member-1"></a>1 | sase-1pj.7.1.4--1 | completed | gpt-6-luna / codex | 2026-11-01T16:26:20.405058+00:00 → 2026-11-01T16:30:41.523578+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.7.1.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.7.1.4--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1pj.7.1.4--plan | completed | gpt-6-luna / codex | 2026-11-01T15:00:54.469963+00:00 → 2026-11-01T16:03:33.087073+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.7.1.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.7.1.4--plan/chat.md) |
-| <a id="member-5"></a>5 | sase-1pj.7.1.4--5 | active | muse-spark-1.3-contributor / muse | 2026-11-01T18:29:15.455653+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.7.1.4--5/prompt.md) | — |
+| <a id="member-5"></a>5 | sase-1pj.7.1.4--5 | completed | muse-spark-1.3-contributor / muse | 2026-11-01T18:29:15.455653+00:00 → 2026-11-01T22:37:09.704758+00:00 | [1](../agents/bbugyi200.athena.sase-1pj.7.1.4--5/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pj.7.1.4--5/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.7.1.4--5/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-1pj.7.1.4--mon-0 | completed | gpt-6-luna / codex | 2026-11-01T16:30:34.474864+00:00 → 2026-11-01T16:33:43.092639+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.7.1.4--mon-0/chat.md) |
 | <a id="member-3"></a>3 | sase-1pj.7.1.4--3 | completed | gpt-6-luna / codex | 2026-11-01T16:53:15.867661+00:00 → 2026-11-01T16:55:27.361445+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.7.1.4--3/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.7.1.4--3/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | sase-1pj.7.1.4--mon-2 | failed | gpt-6-luna / codex | 2026-11-01T16:55:11.709090+00:00 → 2026-11-01T17:06:06.365073+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.7.1.4--mon-2/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 5 | sase | [`31a28d9`](https://github.com/sase-org/sase/commit/31a28d9618d20ff656ae57c4a4268cf82f4abaf8) | feat(stranded-work): retain held workspace as stranded unless live successor owns | 2026-11-01 17:33:50 EST |
 
 ## Neighbors
 

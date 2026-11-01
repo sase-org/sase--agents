@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-beba336306a3c2cb2bd741f23671e44d"}
+{"commits":[{"committed_at":1793572430,"sha":"31a28d9618d20ff656ae57c4a4268cf82f4abaf8","subject":"feat(stranded-work): retain held workspace as stranded unless live successor owns"}],"schema_version":2,"source_run_id":"run-beba336306a3c2cb2bd741f23671e44d"}

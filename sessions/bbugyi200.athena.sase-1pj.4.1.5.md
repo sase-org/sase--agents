@@ -78,7 +78,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1pj.7.1.1](../agents/bbugyi200.athena.sase-1pj.7.1.1/README.md) | sase-1pj hood | completed |
 | [sase-1pj.7.1.2](../agents/bbugyi200.athena.sase-1pj.7.1.2/README.md) | sase-1pj hood | completed |
 | [sase-1pj.7.1.3](../agents/bbugyi200.athena.sase-1pj.7.1.3/README.md) | sase-1pj hood | completed |
-| [sase-1pj.7.1.4](bbugyi200.athena.sase-1pj.7.1.4.md) (session · 11) | sase-1pj hood | active 1, completed 7, failed 3 |
+| [sase-1pj.7.1.4](bbugyi200.athena.sase-1pj.7.1.4.md) (session · 11) | sase-1pj hood | completed 8, failed 3 |
 | [sase-1pj.7.1.land](../agents/bbugyi200.athena.sase-1pj.7.1.land/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.8](../agents/bbugyi200.athena.sase-1pj.8/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.9](../agents/bbugyi200.athena.sase-1pj.9/README.md) | sase-1pj hood | waiting |
