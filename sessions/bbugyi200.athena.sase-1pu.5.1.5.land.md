@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `sase-1pu` · Members: 3 · Bead: [sase-1pu.5
 ```mermaid
 flowchart TD
   n0["sase-1pu.5.1.5.land--gate [failed]"]
-  n1["sase-1pu.5.1.5.land--code [active]"]
+  n1["sase-1pu.5.1.5.land--code [completed]"]
   n0 --> n1
-  n2["sase-1pu.5.1.5.land--plan [active]"]
+  n2["sase-1pu.5.1.5.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1pu.5.1.5.land--gate | failed | gpt-6-astra / codex | 2026-11-01T17:59:39.571293+00:00 → 2026-11-01T18:00:41.013753+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pu.5.1.5.land--gate/chat.md) |
-| <a id="member-code"></a>code | sase-1pu.5.1.5.land--code | active | grok-4.6 / grok | 2026-11-01T18:01:26.794828+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-1pu.5.1.5.land--plan | active | gpt-6-astra / codex | 2026-11-01T17:40:59.765418+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pu.5.1.5.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pu.5.1.5.land--plan/chat.md) |
+| <a id="member-code"></a>code | sase-1pu.5.1.5.land--code | completed | grok-4.6 / grok | 2026-11-01T18:01:26.794828+00:00 → 2026-11-01T19:19:54.188464+00:00 | [1](../agents/bbugyi200.athena.sase-1pu.5.1.5.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-1pu.5.1.5.land--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-1pu.5.1.5.land--plan | completed | gpt-6-astra / codex | 2026-11-01T17:40:59.765418+00:00 → 2026-11-01T19:19:54.188464+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pu.5.1.5.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pu.5.1.5.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`0547d23`](https://github.com/sase-org/sase/commit/0547d23ce368aa28e6c028a0335169fd8019d82d) | fix(agents-sync): bound exact-run identity and repair deadlines | 2026-11-01 14:16:33 EST |
 
 ## Variables
 

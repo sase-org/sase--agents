@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** sase-1pu.5.1.5.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1pu_5_1_5_land__plan-261101_101943.md`
+- 2. --code — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1pu_5_1_5_land__code-261101_101943.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/exact_state_closeout.md
 
 
