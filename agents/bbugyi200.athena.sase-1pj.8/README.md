@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / sase-1pj.8
 
-**Global name:** `bbugyi200.athena.sase-1pj.8` · **State:** waiting · **Source run:** `run-e696b762d9fa9dcfa106705217a98816`
+**Global name:** `bbugyi200.athena.sase-1pj.8` · **State:** waiting · **Source run:** `run-786dc9ab0a441c388a271488dedfab8b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -12,7 +12,7 @@
 - Epic: [sase-1pj](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261028203151
+- Timing: 20261101101519
 - Commits: 0
 
 ## Files
@@ -60,14 +60,14 @@
 | [sase-1pj.6.1.4](../bbugyi200.athena.sase-1pj.6.1.4/README.md) | sase-1pj hood | completed |
 | [sase-1pj.6.1.5](../bbugyi200.athena.sase-1pj.6.1.5/README.md) | sase-1pj hood | completed |
 | [sase-1pj.6.1.6](../../sessions/bbugyi200.athena.sase-1pj.6.1.6.md) (session · 3) | sase-1pj hood | completed 2, failed 1 |
-| [sase-1pj.6.1.7](../bbugyi200.athena.sase-1pj.6.1.7/README.md) | sase-1pj hood | active |
-| [sase-1pj.6.1.8](../bbugyi200.athena.sase-1pj.6.1.8/README.md) | sase-1pj hood | waiting |
+| [sase-1pj.6.1.7](../bbugyi200.athena.sase-1pj.6.1.7/README.md) | sase-1pj hood | completed |
+| [sase-1pj.6.1.8](../bbugyi200.athena.sase-1pj.6.1.8/README.md) | sase-1pj hood | active |
 | [sase-1pj.6.1.land](../bbugyi200.athena.sase-1pj.6.1.land/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.7](../../sessions/bbugyi200.athena.sase-1pj.7.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.7.1.1](../bbugyi200.athena.sase-1pj.7.1.1/README.md) | sase-1pj hood | completed |
 | [sase-1pj.7.1.2](../bbugyi200.athena.sase-1pj.7.1.2/README.md) | sase-1pj hood | completed |
 | [sase-1pj.7.1.3](../bbugyi200.athena.sase-1pj.7.1.3/README.md) | sase-1pj hood | completed |
-| [sase-1pj.7.1.4](../bbugyi200.athena.sase-1pj.7.1.4/README.md) | sase-1pj hood | waiting |
+| [sase-1pj.7.1.4](../bbugyi200.athena.sase-1pj.7.1.4/README.md) | sase-1pj hood | active |
 | [sase-1pj.7.1.land](../bbugyi200.athena.sase-1pj.7.1.land/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.9](../bbugyi200.athena.sase-1pj.9/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.land](../bbugyi200.athena.sase-1pj.land/README.md) | sase-1pj hood | waiting |

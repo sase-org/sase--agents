@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / sase-1pj.7.1.4
 
-**Global name:** `bbugyi200.athena.sase-1pj.7.1.4` · **State:** waiting · **Source run:** `run-b0080b770edbb2f1ff854e06836e4e2e`
+**Global name:** `bbugyi200.athena.sase-1pj.7.1.4` · **State:** active · **Source run:** `run-bd1876fcb0dbada558e568c2440cf4b0`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -10,9 +10,9 @@
 
 - Bead: [sase-1pj.7.1.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.7.1.4.md)
 - Epic: [sase-1pj.7.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.7.1.md)
-- Model: grok-4.6
-- Provider: grok
-- Timing: 20261031085438
+- Model: gpt-6-luna
+- Provider: codex
+- Timing: 2026-11-01T15:00:54.469963+00:00
 - Commits: 0
 
 ## Files
@@ -65,8 +65,8 @@
 | [sase-1pj.6.1.4](../bbugyi200.athena.sase-1pj.6.1.4/README.md) | sase-1pj hood | completed |
 | [sase-1pj.6.1.5](../bbugyi200.athena.sase-1pj.6.1.5/README.md) | sase-1pj hood | completed |
 | [sase-1pj.6.1.6](../../sessions/bbugyi200.athena.sase-1pj.6.1.6.md) (session · 3) | sase-1pj hood | completed 2, failed 1 |
-| [sase-1pj.6.1.7](../bbugyi200.athena.sase-1pj.6.1.7/README.md) | sase-1pj hood | active |
-| [sase-1pj.6.1.8](../bbugyi200.athena.sase-1pj.6.1.8/README.md) | sase-1pj hood | waiting |
+| [sase-1pj.6.1.7](../bbugyi200.athena.sase-1pj.6.1.7/README.md) | sase-1pj hood | completed |
+| [sase-1pj.6.1.8](../bbugyi200.athena.sase-1pj.6.1.8/README.md) | sase-1pj hood | active |
 | [sase-1pj.6.1.land](../bbugyi200.athena.sase-1pj.6.1.land/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.8](../bbugyi200.athena.sase-1pj.8/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.9](../bbugyi200.athena.sase-1pj.9/README.md) | sase-1pj hood | waiting |

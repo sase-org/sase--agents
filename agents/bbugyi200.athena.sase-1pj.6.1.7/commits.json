@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ec0158645c499c8ce5ce81a4d6aa6589"}
+{"commits":[{"committed_at":1793547394,"sha":"288d2afeeb0b36e7ab669b73fb9da3c7defd357f","subject":"feat(agent): add staged handoff readoption"}],"schema_version":2,"source_run_id":"run-0f501340543c7bc8c04a2b993a55e4b7"}
