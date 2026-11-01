@@ -659,7 +659,7 @@
 | [0rs](hoods/0rs/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0rt](hoods/0rt/README.md) | 1 | 0 | active 1 |
 | [0ru](hoods/0ru/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [0rv](hoods/0rv/README.md) | 14 | 3 | active 2, completed 5, failed 5, waiting 2 |
+| [0rv](hoods/0rv/README.md) | 14 | 3 | active 1, completed 7, failed 5, waiting 1 |
 | [0s](hoods/0s/README.md) | 2 | 1 | active 1, completed 1 |
 | [0s1](hoods/0s1/README.md) | 3 | 1 | completed 2, failed 1 |
 | [0s3](hoods/0s3/README.md) | 5 | 1 | completed 3, failed 2 |
