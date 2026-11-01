@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** sase-1qn.1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1qn_1__plan-261101_143645.md`
+- 2. --code — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1qn_1__code-261101_143645.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/epic_symbol_checkout_freshness.md
 
 
