@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1qk](../../users/bbugyi200/machines/athena/hoods/sase-1qk/README.md) / [sase-1qk.3](../../sessions/bbugyi200.athena.sase-1qk.3.md) / sase-1qk.3--mon-0
 
-**Global name:** `bbugyi200.athena.sase-1qk.3--mon-0` · **State:** active · **Source run:** `run-1a4b116def9138ed1fe79ae1262f4a37`
+**Global name:** `bbugyi200.athena.sase-1qk.3--mon-0` · **State:** failed · **Source run:** `run-1a4b116def9138ed1fe79ae1262f4a37`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1qk
 
@@ -11,8 +11,12 @@
 - Bead: [sase-1qk.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1qk/sase-1qk.3.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-01T18:34:28.130990+00:00
+- Timing: 2026-11-01T18:34:28.130990+00:00 → 2026-11-01T19:17:30.140811+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -22,5 +26,5 @@
 | [sase-1qk.2](../../sessions/bbugyi200.athena.sase-1qk.2.md) (session · 3) | sase-1qk hood | completed 3 |
 | [sase-1qk.4](../../sessions/bbugyi200.athena.sase-1qk.4.md) (session · 3) | sase-1qk hood | completed 2, failed 1 |
 | [sase-1qk.5](../../sessions/bbugyi200.athena.sase-1qk.5.md) (session · 3) | sase-1qk hood | completed 3 |
-| [sase-1qk.6](../bbugyi200.athena.sase-1qk.6/README.md) | sase-1qk hood | active |
+| [sase-1qk.6](../../sessions/bbugyi200.athena.sase-1qk.6.md) (session · 5) | sase-1qk hood | completed 4, failed 1 |
 | [sase-1qk.land](../bbugyi200.athena.sase-1qk.land/README.md) | sase-1qk hood | waiting |
