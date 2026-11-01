@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `15y` · Members: 9
 ```mermaid
 flowchart TD
   n0["15y--mon [failed]"]
-  n1["15y--3 [active]"]
+  n1["15y--3 [completed]"]
   n0 --> n1
   n2["15y--plan [completed]"]
   n0 --> n2
@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | 15y--mon | failed | grok-4.6 / grok | 2026-10-29T20:08:41.923009+00:00 → 2026-10-29T21:10:36.012297+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.15y--mon/chat.md) |
-| <a id="member-3"></a>3 | 15y--3 | active | grok-4.6 / grok | 2026-10-29T22:49:15.716362+00:00 | [1](../agents/bbugyi200.athena.15y--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.15y--3/prompt.md) | — |
+| <a id="member-3"></a>3 | 15y--3 | completed | grok-4.6 / grok | 2026-10-29T22:49:15.716362+00:00 → 2026-10-29T22:56:39.141296+00:00 | [1](../agents/bbugyi200.athena.15y--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.15y--3/prompt.md) | — |
 | <a id="member-plan"></a>plan | 15y--plan | completed | opus / claude | 2026-10-29T19:34:59.692920+00:00 → 2026-10-29T19:45:52.038109+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.15y--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.15y--plan/chat.md) |
 | <a id="member-code"></a>code | 15y--code | completed | grok-4.6 / grok | 2026-10-29T20:01:46.279869+00:00 → 2026-10-29T20:11:17.758768+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.15y--code/prompt.md) | [Chat](../agents/bbugyi200.athena.15y--code/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 15y--mon-0 | failed | grok-4.6 / grok | 2026-10-29T21:18:22.474475+00:00 → 2026-10-29T22:03:21.935837+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.15y--mon-0/chat.md) |
@@ -45,4 +45,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 3 | sase | [`b4d59ac`](https://github.com/sase-org/sase/commit/b4d59ac50e14a5714a7e1f0f450a271bf6799a1a) | fix(tui): skip GC survivor census on CPython before 3.14 | 2026-10-29 18:53:48 EDT |
+| 3 | — | `b4d59ac` | fix(tui): skip GC survivor census on CPython before 3.14 | 2026-10-29 18:53:48 EDT |
