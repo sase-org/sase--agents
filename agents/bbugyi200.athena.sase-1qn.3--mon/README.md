@@ -27,4 +27,4 @@
 | [sase-1qn.2](../../sessions/bbugyi200.athena.sase-1qn.2.md) (session · 3) | sase-1qn hood | completed 3 |
 | [sase-1qn.4](../../sessions/bbugyi200.athena.sase-1qn.4.md) (session · 3) | sase-1qn hood | completed 3 |
 | [sase-1qn.5](../bbugyi200.athena.sase-1qn.5/README.md) | sase-1qn hood | completed |
-| [sase-1qn.land](../bbugyi200.athena.sase-1qn.land/README.md) | sase-1qn hood | waiting |
+| [sase-1qn.land](../../sessions/bbugyi200.athena.sase-1qn.land.md) (session · 3) | sase-1qn hood | active 2, completed 1 |
