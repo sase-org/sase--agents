@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-1qn.1--code | active | gpt-6-luna / codex | 2026-11-01T19:56:37.036904+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-1qn.1--code | active | gpt-6-luna / codex | 2026-11-01T19:56:37.036904+00:00 | [1](../agents/bbugyi200.athena.sase-1qn.1--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | sase-1qn.1--gate | completed | gpt-6-astra / codex | 2026-11-01T19:51:50.610314+00:00 → 2026-11-01T19:54:52.232637+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1qn.1--gate/chat.md) |
 | <a id="member-plan"></a>plan | sase-1qn.1--plan | active | gpt-6-astra / codex | 2026-11-01T19:41:03.190032+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1qn.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1qn.1--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`5585fad`](https://github.com/sase-org/sase/commit/5585fadefdbe1d82bb806bb1fde77362f5c8ffb9) | fix(bead): preflight stale epic symbol rows | 2026-11-01 16:46:31 EST |
 
 ## Neighbors
 
@@ -30,5 +36,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1qn.2](bbugyi200.athena.sase-1qn.2.md) (session · 3) | sase-1qn hood | active 2, completed 1 |
 | [sase-1qn.3](bbugyi200.athena.sase-1qn.3.md) (session · 5) | sase-1qn hood | completed 5 |
 | [sase-1qn.4](bbugyi200.athena.sase-1qn.4.md) (session · 3) | sase-1qn hood | completed 3 |
-| [sase-1qn.5](../agents/bbugyi200.athena.sase-1qn.5/README.md) | sase-1qn hood | waiting |
+| [sase-1qn.5](../agents/bbugyi200.athena.sase-1qn.5/README.md) | sase-1qn hood | completed |
 | [sase-1qn.land](../agents/bbugyi200.athena.sase-1qn.land/README.md) | sase-1qn hood | waiting |

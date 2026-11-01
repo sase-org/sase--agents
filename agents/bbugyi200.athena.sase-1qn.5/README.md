@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1qn](../../users/bbugyi200/machines/athena/hoods/sase-1qn/README.md) / sase-1qn.5
 
-**Global name:** `bbugyi200.athena.sase-1qn.5` · **State:** waiting · **Source run:** `run-a97bf598a5d6e53caad45478394b60f7`
+**Global name:** `bbugyi200.athena.sase-1qn.5` · **State:** completed · **Source run:** `run-a97bf598a5d6e53caad45478394b60f7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1qn
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1qn](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1qn/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261101143649
-- Commits: 0
+- Timing: 2026-11-01T20:11:29.077022+00:00 → 2026-11-01T21:43:31.906141+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`34a8638`](https://github.com/sase-org/sase/commit/34a8638ee07c7f98591cde669b04779ab2661605) | fix(llm-provider): drain AGY probe stderr so rate-limit wins over timeout | 2026-11-01 16:42:33 EST |
 
 ## Neighbors
 
