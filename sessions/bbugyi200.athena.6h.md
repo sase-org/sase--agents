@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `6h` · Members: 2
 ```mermaid
 flowchart TD
   n0["6h--plan [active]"]
-  n1["6h--gate [waiting]"]
+  n1["6h--gate [failed]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | 6h--plan | active | claude-fable-5 / claude | 2026-09-13T19:42:06.702121+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.6h--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.6h--plan/chat.md) |
-| <a id="member-gate"></a>gate | 6h--gate | waiting | claude-fable-5 / claude | 2026-09-13T19:54:16.434143+00:00 → 2026-09-14T20:30:14.515467+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.6h--gate/chat.md) |
+| <a id="member-gate"></a>gate | 6h--gate | failed | claude-fable-5 / claude | 2026-09-13T19:54:16.434143+00:00 → 2026-09-14T20:30:14.515467+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.6h--gate/chat.md) |
 
 ## Neighbors
 
