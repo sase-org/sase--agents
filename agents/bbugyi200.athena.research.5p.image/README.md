@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5p.image
 
-**Global name:** `bbugyi200.athena.research.5p.image` · **State:** waiting · **Source run:** `run-329ea4e8ec3f897fa9003ea073bd965b`
+**Global name:** `bbugyi200.athena.research.5p.image` · **State:** completed · **Source run:** `run-329ea4e8ec3f897fa9003ea073bd965b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261102125949
+- Timing: 2026-11-02T18:43:50.334342+00:00 → 2026-11-02T18:54:25.236455+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/agent\_publication\_openai\_key\_false\_positives/agent\_publication\_openai\_key\_false\_positives\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sas… |
+| `diagrams` | {considered: 12, count: 2, manifest: 202611/agent\_publication\_openai\_key\_false\_positives/agent\_publication\_openai\_key\_false\_positives.diagrams.md, source\_ref: file:explicit:b46a6c1099e9de0685002f97,… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/agent_publication_openai_key_false_positives/agent_publication_openai_key_false_positives_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261102125949/agent_publication_openai_key_false_positives_infographic-a484d237f706.png
+  ref: file:explicit:dca19198d54ac73d952b6d22
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202611/agent_publication_openai_key_false_positives/agent_publication_openai_key_false_positives_infographic.png
+- kind: markdown
+  label: diagrams:202611/agent_publication_openai_key_false_positives/agent_publication_openai_key_false_positives.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261102125949/agent_publication_openai_key_false_positives.diagrams-6fbf3d93a4bc.md
+  ref: file:explicit:1d294528130e324b669b923a
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202611/agent_publication_openai_key_false_positives/agent_publication_openai_key_false_positives.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 12
+count: 2
+manifest: 202611/agent_publication_openai_key_false_positives/agent_publication_openai_key_false_positives.diagrams.md
+source_ref: file:explicit:b46a6c1099e9de0685002f97
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
