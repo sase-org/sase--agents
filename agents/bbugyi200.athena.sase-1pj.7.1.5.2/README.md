@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / sase-1pj.7.1.5.2
 
-**Global name:** `bbugyi200.athena.sase-1pj.7.1.5.2` · **State:** active · **Source run:** `run-2f509a41984cdbe6b652ef2add1ea595`
+**Global name:** `bbugyi200.athena.sase-1pj.7.1.5.2` · **State:** completed · **Source run:** `run-2f509a41984cdbe6b652ef2add1ea595`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1pj.7.1.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.7.1.5.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-02T22:30:54.701377+00:00
-- Commits: 0
+- Timing: 2026-11-02T22:30:54.701377+00:00 → 2026-11-02T23:20:03.766607+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`5dfd28c`](https://github.com/sase-org/sase/commit/5dfd28c74b2559cb61529291caf5691e25c0b6dd) | fix(gate-turn): preserve root claim origin on publication failure | 2026-11-02 18:18:18 EST |
 
 ## Neighbors
 
