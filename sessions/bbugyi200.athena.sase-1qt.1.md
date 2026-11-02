@@ -47,4 +47,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1qt.2](bbugyi200.athena.sase-1qt.2.md) (session · 7) | sase-1qt hood | completed 6, failed 1 |
 | [sase-1qt.3](../agents/bbugyi200.athena.sase-1qt.3/README.md) | sase-1qt hood | completed |
-| [sase-1qt.land](../agents/bbugyi200.athena.sase-1qt.land/README.md) | sase-1qt hood | waiting |
+| [sase-1qt.land](bbugyi200.athena.sase-1qt.land.md) (session · 3) | sase-1qt hood | active 2, completed 1 |
