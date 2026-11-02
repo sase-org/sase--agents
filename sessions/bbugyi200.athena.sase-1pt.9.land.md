@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `sase-1pt` · Members: 3 · Bead: [sase-1pt.9
 
 ```mermaid
 flowchart TD
-  n0["sase-1pt.9.land--plan [active]"]
+  n0["sase-1pt.9.land--plan [completed]"]
   n1["sase-1pt.9.land--gate [completed]"]
   n0 --> n1
-  n2["sase-1pt.9.land--code [active]"]
+  n2["sase-1pt.9.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,36 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-1pt.9.land--plan | active | opus / claude | 2026-11-02T21:13:20.705992+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pt.9.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pt.9.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-1pt.9.land--plan | completed | opus / claude | 2026-11-02T21:13:20.705992+00:00 → 2026-11-02T22:06:45.528308+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pt.9.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pt.9.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-1pt.9.land--gate | completed | opus / claude | 2026-11-02T21:22:01.934535+00:00 → 2026-11-02T21:22:23.660613+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pt.9.land--gate/chat.md) |
-| <a id="member-code"></a>code | sase-1pt.9.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-02T21:22:46.452766+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-1pt.9.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-02T21:22:46.452766+00:00 → 2026-11-02T22:06:45.528308+00:00 | [1](../agents/bbugyi200.athena.sase-1pt.9.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-1pt.9.land--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`ce7d60a`](https://github.com/sase-org/sase/commit/ce7d60a6666401567a0071945070c6f8c844031e) | chore(justfile): drop stale sase-1pt.6 publisher\_is\_live comment | 2026-11-02 17:04:13 EST |
+
+## Variables
+
+| Role | Variable | Value |
+|---|---|---|
+| code | `artifacts` | \[{bead: sase-1pt.9, kind: markdown, label: Installed re-prove measurement and audit report (73 runs, sase-1pt.9), path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261102162246/report\_repr… |
+
+#### artifacts
+
+**Role:** `code`
+
+```yaml
+- bead: sase-1pt.9
+  kind: markdown
+  label: Installed re-prove measurement and audit report (73 runs, sase-1pt.9)
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261102162246/report_reprove-23db61a35f5b.md
+  ref: file:explicit:87ff881a17a8bfdab19da4bd
+  source_path: /tmp/report_reprove.md
+```
+
+Values are truncated for display; see each member's agent meta.json for the full values.
 
 ## Neighbors
 

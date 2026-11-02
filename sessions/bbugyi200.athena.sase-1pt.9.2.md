@@ -47,7 +47,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 |---|---|---|
 | [sase-1pt.9.2.f0](../agents/bbugyi200.athena.sase-1pt.9.2.f0/README.md) | descendant | active |
 | [sase-1pt.9.1](../agents/bbugyi200.athena.sase-1pt.9.1/README.md) | sase-1pt.9 hood | completed |
-| [sase-1pt.9.land](bbugyi200.athena.sase-1pt.9.land.md) (session · 3) | sase-1pt.9 hood | active 2, completed 1 |
+| [sase-1pt.9.land](bbugyi200.athena.sase-1pt.9.land.md) (session · 3) | sase-1pt.9 hood | completed 3 |
 | [sase-1pt.9.land](../agents/bbugyi200.athena.sase-1pt.9.land/README.md) | sase-1pt.9 hood | waiting |
 | [sase-1pt.1](../agents/bbugyi200.athena.sase-1pt.1/README.md) | sase-1pt hood | completed |
 | [sase-1pt.2](bbugyi200.athena.sase-1pt.2.md) (session · 3) | sase-1pt hood | completed 2, failed 1 |
