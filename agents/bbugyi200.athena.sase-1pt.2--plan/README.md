@@ -30,7 +30,10 @@
 | [sase-1pt.6](../bbugyi200.athena.sase-1pt.6/README.md) | sase-1pt hood | completed |
 | [sase-1pt.7](../bbugyi200.athena.sase-1pt.7/README.md) | sase-1pt hood | completed |
 | [sase-1pt.8](../bbugyi200.athena.sase-1pt.8/README.md) | sase-1pt hood | completed |
-| [sase-1pt.9.1](../bbugyi200.athena.sase-1pt.9.1/README.md) | sase-1pt hood | active |
+| [sase-1pt.9.1](../bbugyi200.athena.sase-1pt.9.1/README.md) | sase-1pt hood | completed |
+| [sase-1pt.9.2](../../sessions/bbugyi200.athena.sase-1pt.9.2.md) (session · 2) | sase-1pt hood | completed 1, stopped 1 |
 | [sase-1pt.9.2](../bbugyi200.athena.sase-1pt.9.2/README.md) | sase-1pt hood | waiting |
+| [sase-1pt.9.2.f0](../bbugyi200.athena.sase-1pt.9.2.f0/README.md) | sase-1pt hood | active |
+| [sase-1pt.9.land](../../sessions/bbugyi200.athena.sase-1pt.9.land.md) (session · 3) | sase-1pt hood | active 2, completed 1 |
 | [sase-1pt.9.land](../bbugyi200.athena.sase-1pt.9.land/README.md) | sase-1pt hood | waiting |
 | [sase-1pt.land](../../sessions/bbugyi200.athena.sase-1pt.land.md) (session · 3) | sase-1pt hood | failed 3 |

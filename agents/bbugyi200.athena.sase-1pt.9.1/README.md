@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pt](../../users/bbugyi200/machines/athena/hoods/sase-1pt/README.md) / sase-1pt.9.1
 
-**Global name:** `bbugyi200.athena.sase-1pt.9.1` · **State:** active · **Source run:** `run-e149a56425387c761026923cd316c9de`
+**Global name:** `bbugyi200.athena.sase-1pt.9.1` · **State:** completed · **Source run:** `run-e149a56425387c761026923cd316c9de`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pt
 
@@ -12,12 +12,12 @@
 - Epic: [sase-1pt.9](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pt/sase-1pt.9.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-30T07:28:31.873901+00:00
+- Timing: 2026-10-30T07:28:31.873901+00:00 → 2026-10-30T10:17:48.663301+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,7 +29,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
+| [sase-1pt.9.2](../../sessions/bbugyi200.athena.sase-1pt.9.2.md) (session · 2) | sase-1pt.9 hood | completed 1, stopped 1 |
 | [sase-1pt.9.2](../bbugyi200.athena.sase-1pt.9.2/README.md) | sase-1pt.9 hood | waiting |
+| [sase-1pt.9.2.f0](../bbugyi200.athena.sase-1pt.9.2.f0/README.md) | sase-1pt.9 hood | active |
+| [sase-1pt.9.land](../../sessions/bbugyi200.athena.sase-1pt.9.land.md) (session · 3) | sase-1pt.9 hood | active 2, completed 1 |
 | [sase-1pt.9.land](../bbugyi200.athena.sase-1pt.9.land/README.md) | sase-1pt.9 hood | waiting |
 | [sase-1pt.1](../bbugyi200.athena.sase-1pt.1/README.md) | sase-1pt hood | completed |
 | [sase-1pt.2](../../sessions/bbugyi200.athena.sase-1pt.2.md) (session · 3) | sase-1pt hood | completed 2, failed 1 |
