@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5p.grk
 
-**Global name:** `bbugyi200.athena.research.5p.grk` · **State:** active · **Source run:** `run-0bac32511027b38f3848c91c2786dd0b`
+**Global name:** `bbugyi200.athena.research.5p.grk` · **State:** completed · **Source run:** `run-0bac32511027b38f3848c91c2786dd0b`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-02T18:01:53.450679+00:00
+- Timing: 2026-11-02T18:01:53.450679+00:00 → 2026-11-02T18:19:25.047063+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/agent\_publication\_protection\_withholds/agent\_publication\_protection\_withholds\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/202611021259… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/agent_publication_protection_withholds/agent_publication_protection_withholds__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261102125945/agent_publication_protection_withholds__grk-31f6331d8773.md
+  ref: file:explicit:1a9322327d94f479d2f1194c
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202611/agent_publication_protection_withholds/agent_publication_protection_withholds__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
