@@ -1,6 +1,6 @@
-#gh:gh_sase-org__sase
 %id(land, clan=sase-1qt, bead=sase-1qt)
-%model:@large
+#gh:gh_sase-org__sase
+%m:@xlarge 
 %auto
 %w(sase-1qt.1,sase-1qt.2,sase-1qt.3, for_epic=false)
 %w(bead=sase-1qt.1)

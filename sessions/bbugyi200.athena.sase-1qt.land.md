@@ -2,47 +2,29 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1qt](../users/bbugyi200/machines/athena/hoods/sase-1qt/README.md) / sase-1qt.land
 
-Owner: `bbugyi200.athena` · Hood: `sase-1qt` · Members: 3 · Bead: [sase-1qt](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1qt/README.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1qt` · Members: 4 · Bead: [sase-1qt](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1qt/README.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-1qt.land--gate [completed]"]
-  n1["sase-1qt.land--code [active]"]
+  n0["sase-1qt.land--plan [completed]"]
+  n1["sase-1qt.land--mon [active]"]
   n0 --> n1
-  n2["sase-1qt.land--plan [active]"]
+  n2["sase-1qt.land--code [completed]"]
   n0 --> n2
+  n3["sase-1qt.land--gate [completed]"]
+  n0 --> n3
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-gate"></a>gate | sase-1qt.land--gate | completed | gpt-6-astra / codex | 2026-11-02T02:14:38.040430+00:00 → 2026-11-02T02:14:59.446686+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1qt.land--gate/chat.md) |
-| <a id="member-code"></a>code | sase-1qt.land--code | active | sonnet / claude | 2026-11-02T02:15:23.435370+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-1qt.land--plan | active | gpt-6-astra / codex | 2026-11-02T01:48:29.879974+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1qt.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1qt.land--plan/chat.md) |
-
-## Variables
-
-| Role | Variable | Value |
-|---|---|---|
-| plan | `artifacts` | \[{bead: sase-1qt, kind: markdown, label: sase-1qt landing audit and follow-up evidence, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261101181016/sase-1qt-landing-audit-e70bb92a897e.m… |
-
-#### artifacts
-
-**Role:** `plan`
-
-```yaml
-- bead: sase-1qt
-  kind: markdown
-  label: sase-1qt landing audit and follow-up evidence
-  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261101181016/sase-1qt-landing-audit-e70bb92a897e.md
-  ref: file:explicit:10d848c95ce1680403f13082
-  source_path: /tmp/sase-1qt-landing-audit.md
-```
-
-Values are truncated for display; see each member's agent meta.json for the full values.
+| <a id="member-plan"></a>plan | sase-1qt.land--plan | completed | opus / claude | 2026-11-02T11:40:23.151818+00:00 → 2026-11-02T12:04:26.676307+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1qt.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1qt.land--plan/chat.md) |
+| <a id="member-mon"></a>mon | sase-1qt.land--mon | active | gpt-6-luna / codex | 2026-11-02T12:04:18.486596+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-1qt.land--code | completed | gpt-6-luna / codex | 2026-11-02T12:02:32.476197+00:00 → 2026-11-02T12:04:26.676307+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1qt.land--code/chat.md) |
+| <a id="member-gate"></a>gate | sase-1qt.land--gate | completed | opus / claude | 2026-11-02T12:01:44.508438+00:00 → 2026-11-02T12:02:07.955556+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1qt.land--gate/chat.md) |
 
 ## Neighbors
 

@@ -25,4 +25,4 @@
 |---|---|---|
 | [sase-1qt.1](../../sessions/bbugyi200.athena.sase-1qt.1.md) (session · 7) | sase-1qt hood | completed 7 |
 | [sase-1qt.3](../bbugyi200.athena.sase-1qt.3/README.md) | sase-1qt hood | completed |
-| [sase-1qt.land](../../sessions/bbugyi200.athena.sase-1qt.land.md) (session · 3) | sase-1qt hood | active 2, completed 1 |
+| [sase-1qt.land](../../sessions/bbugyi200.athena.sase-1qt.land.md) (session · 4) | sase-1qt hood | active 1, completed 3 |
