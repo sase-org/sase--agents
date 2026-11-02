@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5p.cdx
 
-**Global name:** `bbugyi200.athena.research.5p.cdx` · **State:** active · **Source run:** `run-59930a94dc79ed6e638938bf0866690a`
+**Global name:** `bbugyi200.athena.research.5p.cdx` · **State:** completed · **Source run:** `run-59930a94dc79ed6e638938bf0866690a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-02T18:00:56.978491+00:00
+- Timing: 2026-11-02T18:00:56.978491+00:00 → 2026-11-02T18:11:02.433721+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/agent\_publication\_false\_positives\_retry\_loop\_and\_prompt\_gaps\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261102125943/agent\_publicat… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/agent_publication_false_positives_retry_loop_and_prompt_gaps__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261102125943/agent_publication_false_positives_retry_loop_and_prompt_gaps__cdx-16a223cd18df.md
+  ref: file:explicit:e1f65ef92e11183c5038d9b8
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202611/agent_publication_false_positives_retry_loop_and_prompt_gaps__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
