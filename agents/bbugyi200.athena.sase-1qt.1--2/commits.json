@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1793584010,"sha":"d26baecb051927df38a8bfe4683b7d509371b1d1","subject":"fix(agent-prompts): delegate prompt selection to Rust agent_prompt_select binding"}],"schema_version":2,"source_run_id":"run-7bafaf071283bfa9863dd84944def9c1"}
