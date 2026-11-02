@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5p.gem
 
-**Global name:** `bbugyi200.athena.research.5p.gem` · **State:** active · **Source run:** `run-e880e5611b291e5625a97d58100c7349`
+**Global name:** `bbugyi200.athena.research.5p.gem` · **State:** completed · **Source run:** `run-e880e5611b291e5625a97d58100c7349`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,19 +10,38 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-11-02T18:02:43.086254+00:00
+- Timing: 2026-11-02T18:02:43.086254+00:00 → 2026-11-02T18:15:22.584048+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/agent\_publication\_protection\_errors\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261102125947/agent\_publication\_protection\_errors\_\_ge… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/agent_publication_protection_errors__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261102125947/agent_publication_protection_errors__gem-8e72e9814588.md
+  ref: file:explicit:aa5df20761065e9304b71732
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_16/sase/repos/research/202611/agent_publication_protection_errors__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.5p.cdx](../bbugyi200.athena.research.5p.cdx/README.md) | research.5p hood | completed |
-| [research.5p.cld](../bbugyi200.athena.research.5p.cld/README.md) | research.5p hood | active |
+| [research.5p.cld](../bbugyi200.athena.research.5p.cld/README.md) | research.5p hood | completed |
 | [research.5p.final](../bbugyi200.athena.research.5p.final/README.md) | research.5p hood | waiting |
 | [research.5p.grk](../bbugyi200.athena.research.5p.grk/README.md) | research.5p hood | active |
 | [research.5p.image](../bbugyi200.athena.research.5p.image/README.md) | research.5p hood | waiting |
