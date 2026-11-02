@@ -2,21 +2,27 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / [sase-1pj.7.1.4](../../sessions/bbugyi200.athena.sase-1pj.7.1.4.md) / sase-1pj.7.1.4--1
 
-**Global name:** `bbugyi200.athena.sase-1pj.7.1.4--1` · **State:** completed · **Source run:** `run-717b455e0ee949c97d6dca3ab0168eaa`
+**Global name:** `bbugyi200.athena.sase-1pj.7.1.4--1` · **State:** completed · **Source run:** `run-206d6e1aced285d9df8d05e1feaf3a9e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
 ## Summary
 
 - Bead: [sase-1pj.7.1.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.7.1.4.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-01T16:26:20.405058+00:00 → 2026-11-01T16:30:41.523578+00:00
-- Commits: 0
+- Timing: 2026-11-02T21:11:36.139791+00:00 → 2026-11-02T21:43:02.496740+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`d206188`](https://github.com/sase-org/sase/commit/d2061888ecf5be62ce2dc616e26830d7e7a8dee0) | fix(recovery): settle staged workspace holds and honor expiry | 2026-11-02 16:41:16 EST |
 
 ## Neighbors
 

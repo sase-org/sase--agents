@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / [sase-1pj.7.1.4](../../sessions/bbugyi200.athena.sase-1pj.7.1.4.md) / sase-1pj.7.1.4--plan
 
-**Global name:** `bbugyi200.athena.sase-1pj.7.1.4--plan` · **State:** completed · **Source run:** `run-bd1876fcb0dbada558e568c2440cf4b0`
+**Global name:** `bbugyi200.athena.sase-1pj.7.1.4--plan` · **State:** completed · **Source run:** `run-8842fa7b7be2cf62d5f61687be3adfbd`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
 ## Summary
 
 - Bead: [sase-1pj.7.1.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.7.1.4.md)
-- Epic: [sase-1pj.7.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.7.1.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-01T15:00:54.469963+00:00 → 2026-11-01T16:03:33.087073+00:00
+- Timing: 2026-11-02T20:47:17.473654+00:00 → 2026-11-02T20:52:46.219654+00:00
 - Commits: 0
 
 ## Files
