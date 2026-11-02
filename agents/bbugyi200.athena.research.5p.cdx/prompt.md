@@ -1,0 +1,21 @@
+%id(cdx, clan=research.5p)
+%m:gpt-6-astra %q(1.5x, w=0.25)
+#gh:gh_sase-org__sase 
+You are researcher cdx in a 5-researcher swarm.
+The other researchers, `research.5p.cld`, `research.5p.grk`, `research.5p.mus`, `research.5p.gem`, are independently investigating the same request and will write their own self-named reports ending in `__cld.md` and `__grk.md` and `__mus.md` and `__gem.md`. Your report will end in `__cdx.md`.
+
+Conduct your research independently and form your own conclusions. Do NOT attempt to
+locate, open, read, or otherwise consult the other researcher's report from this swarm,
+even if it becomes available before you finish. Do not obtain that peer's findings
+indirectly through its chat transcript, summaries, or requests to the peer. You may
+independently use the same external sources, shared input material, and unrelated prior
+research. You may check filenames or file existence to avoid overwriting your own
+output, but do not inspect the peer's report contents. If you encounter its filename,
+leave the report alone. The lead researcher will read every report and synthesize their
+findings after you have all finished.
+
+It seems to me like we are still dealing with agent publication errors (see the
+~/.sase/axe/error_digests/digest_20261102_125554.txt file for context). Can you do some
+research with the goal of helping me understand where these errors came from (e.g. what
+sase agent introduced them) and what is causing them? End your analysis with a timeline
+of events and a summary of your root cause diagnosis. #research(suffix=cdx)

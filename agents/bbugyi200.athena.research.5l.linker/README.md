@@ -12,15 +12,35 @@
 - Provider: claude
 - Timing: 20261031100841
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/agent\_publication\_planner\_scope\_mismatch/agent\_publication\_planner\_scope\_mismatch.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/2026103110084… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/agent_publication_planner_scope_mismatch/agent_publication_planner_scope_mismatch.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261031100841/agent_publication_planner_scope_mismatch-1d387d94c6f9.md
+  ref: file:explicit:2f11aa08307e7c222d3c4ef5
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_23/sase/repos/research/202610/agent_publication_planner_scope_mismatch/agent_publication_planner_scope_mismatch.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [research.5l.linker.w0](../../sessions/bbugyi200.athena.research.5l.linker.w0.md) (session · 3) | descendant | active 1, completed 2 |
 | [research.5l.cdx](../bbugyi200.athena.research.5l.cdx/README.md) | research.5l hood | completed |
 | [research.5l.cld](../bbugyi200.athena.research.5l.cld/README.md) | research.5l hood | completed |
 | [research.5l.final](../bbugyi200.athena.research.5l.final/README.md) | research.5l hood | completed |
@@ -78,4 +98,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 1120 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 1128 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

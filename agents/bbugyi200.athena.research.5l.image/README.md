@@ -12,10 +12,39 @@
 - Provider: codex
 - Timing: 20261031100840
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202610/agent\_publication\_planner\_scope\_mismatch/agent\_publication\_planner\_scope\_mismatch\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/… |
+| `diagrams` | {considered: 11, count: 0, reason: Publication versus acknowledgment: Repeats the existing Mermaid figure, including producer routes, page/scope/ownership branches and proposed linked scope.; Notific… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202610/agent_publication_planner_scope_mismatch/agent_publication_planner_scope_mismatch_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261031100840/agent_publication_planner_scope_mismatch_infographic-61a4d1bf12ab.png
+  ref: file:explicit:53fc3d49e45d37e552a66228
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_20/sase/repos/research/202610/agent_publication_planner_scope_mismatch/agent_publication_planner_scope_mismatch_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 11
+count: 0
+reason: Publication versus acknowledgment: Repeats the existing Mermaid figure, including producer routes, page/scope/ownership branches and proposed linked scope.; Notification trigger: One sentence explains the status rule; a diagram would be a short linear errors-to-status-to-digest chain.; Competing remedies: The report already supplies evidence and option verdict tables; no additional ordering or branching is stated.; Backlog scope: Counts describe separate samples and are already presented in a census table and bullets; no process relationship to draw.; Deferred restore: The short related-work list already states every restore step and outcome; a picture would repeat that list or a short linear chain.; Cleanup eligibility: The numbered cleanup list already states both evidence alternatives, the ordering, the special rekey case and the historical-row fallback.; Scope merge: A single conditional rule answers the question: revision wins if either request requires it.; Repeat-error retirement: The existing table row spells out the clearing/comparison/quarantine mechanism, and the short repair step spells out the proposed correction and two-attempt outcome.; Scope compatibility: The comparison table already states unknown-scope rejection and whole-outbox impact; the migration list supplies no dependency ordering to add.; Method and limits: An audit list with limits, not a mechanism; a graph would invent process ordering or repeat the list.; October activation: The five dated bullets already show the complete chronology; converting them would make a short linear chain.
+status: none
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,6 +56,7 @@
 | [research.5l.gem](../bbugyi200.athena.research.5l.gem/README.md) | research.5l hood | completed |
 | [research.5l.grk](../bbugyi200.athena.research.5l.grk/README.md) | research.5l hood | completed |
 | [research.5l.linker](../bbugyi200.athena.research.5l.linker/README.md) | research.5l hood | waiting |
+| [research.5l.linker.w0](../../sessions/bbugyi200.athena.research.5l.linker.w0.md) (session · 3) | research.5l hood | active 1, completed 2 |
 | [research.5l.mus](../bbugyi200.athena.research.5l.mus/README.md) | research.5l hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | dismissed |
@@ -78,4 +108,4 @@
 | [research.0a.final](../bbugyi200.athena.research.0a.final/README.md) | research hood | active |
 | [research.0a.final.f1](../bbugyi200.athena.research.0a.final.f1/README.md) | research hood | completed |
 | [research.0a.image](../bbugyi200.athena.research.0a.image/README.md) | research hood | active |
-| … and 1120 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 1128 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
