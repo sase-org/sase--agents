@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5p.final
 
-**Global name:** `bbugyi200.athena.research.5p.final` · **State:** waiting · **Source run:** `run-3b5667e4c87b61efe9b132c63ef73d8e`
+**Global name:** `bbugyi200.athena.research.5p.final` · **State:** completed · **Source run:** `run-3b5667e4c87b61efe9b132c63ef73d8e`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261102125948
+- Timing: 2026-11-02T18:19:54.606760+00:00 → 2026-11-02T18:41:40.720835+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/agent\_publication\_openai\_key\_false\_positives/agent\_publication\_openai\_key\_false\_positives\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sas… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/agent_publication_openai_key_false_positives/agent_publication_openai_key_false_positives__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261102125948/agent_publication_openai_key_false_positives__final-dc15af978e57.md
+  ref: file:explicit:b46a6c1099e9de0685002f97
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_10/sase/repos/research/202611/agent_publication_openai_key_false_positives/agent_publication_openai_key_false_positives__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
