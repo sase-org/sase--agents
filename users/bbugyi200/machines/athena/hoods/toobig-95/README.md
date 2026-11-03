@@ -2,15 +2,16 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / toobig-95
 
-**Global hood:** `bbugyi200.athena.toobig-95` · **Runs:** 8 · **Sessions:** 1 · **States:** completed 4, waiting 4
+**Global hood:** `bbugyi200.athena.toobig-95` · **Runs:** 9 · **Sessions:** 2 · **States:** active 1, completed 5, waiting 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [toobig-95.test\_workspace\_retention.0](../../../../../../agents/bbugyi200.athena.toobig-95.test_workspace_retention.0/README.md) | waiting | grok-4.6 / grok | 20261103073738 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-95.test_workspace_retention.0/prompt.md) |
 | [toobig-95.test\_monitor\_handler\_start\_launch.0](../../../../../../agents/bbugyi200.athena.toobig-95.test_monitor_handler_start_launch.0/README.md) | waiting | gpt-6-luna / codex | 20261103073710 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-95.test_monitor_handler_start_launch.0/prompt.md) |
 | [toobig-95.stop.0--mon](../../../../../../sessions/bbugyi200.athena.toobig-95.stop.0.md#member-mon) | completed | muse-spark-1.3-contributor / muse | 2026-11-03T13:02:54.026373+00:00 → 2026-11-03T13:08:54.421576+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.toobig-95.stop.0--mon/chat.md) |
+| [toobig-95.readout.0--mon](../../../../../../sessions/bbugyi200.athena.toobig-95.readout.0.md#member-mon) | active | grok-4.6 / grok | 2026-11-03T13:48:27.974070+00:00 | 0 | — |
 | [toobig-95.test\_readout.0](../../../../../../agents/bbugyi200.athena.toobig-95.test_readout.0/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261103073637 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-95.test_readout.0/prompt.md) |
 | [toobig-95.stop.0--1](../../../../../../sessions/bbugyi200.athena.toobig-95.stop.0.md#member-1) | completed | muse-spark-1.3-contributor / muse | 2026-11-03T13:09:49.418537+00:00 → 2026-11-03T13:11:34.212767+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-95.stop.0--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-95.stop.0--1/chat.md) |
 | [toobig-95.stop.0--plan](../../../../../../sessions/bbugyi200.athena.toobig-95.stop.0.md#member-plan) | completed | muse-spark-1.3-contributor / muse | 2026-11-03T12:36:16.595356+00:00 → 2026-11-03T13:07:23.240545+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-95.stop.0--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-95.stop.0--plan/chat.md) |
-| [toobig-95.readout.0](../../../../../../agents/bbugyi200.athena.toobig-95.readout.0/README.md) | waiting | grok-4.6 / grok | 20261103073608 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-95.readout.0/prompt.md) |
+| [toobig-95.readout.0--plan](../../../../../../sessions/bbugyi200.athena.toobig-95.readout.0.md#member-plan) | completed | grok-4.6 / grok | 2026-11-03T13:39:12.985885+00:00 → 2026-11-03T13:49:59.132977+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-95.readout.0--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-95.readout.0--plan/chat.md) |
 | [toobig-95.run\_agent\_runner\_lifecycle.0](../../../../../../agents/bbugyi200.athena.toobig-95.run_agent_runner_lifecycle.0/README.md) | completed | gpt-6-luna / codex | 2026-11-03T13:12:08.033874+00:00 → 2026-11-03T13:38:37.864148+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.toobig-95.run_agent_runner_lifecycle.0/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.toobig-95.run_agent_runner_lifecycle.0/chat.md) |
