@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ns](../../users/bbugyi200/machines/athena/hoods/ns/README.md) / [ns](../../sessions/bbugyi200.athena.ns.md) / ns--code
 
-**Global name:** `bbugyi200.athena.ns--code` · **State:** active · **Source run:** `run-54b1e9aeae9f0b418a85547539693c41`
+**Global name:** `bbugyi200.athena.ns--code` · **State:** completed · **Source run:** `run-54b1e9aeae9f0b418a85547539693c41`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** ns
 
