@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / [sase-1pj.8](../../sessions/bbugyi200.athena.sase-1pj.8.md) / sase-1pj.8--mon
 
-**Global name:** `bbugyi200.athena.sase-1pj.8--mon` · **State:** active · **Source run:** `run-17232109091c78525c4d91b4fe19dd64`
+**Global name:** `bbugyi200.athena.sase-1pj.8--mon` · **State:** completed · **Source run:** `run-17232109091c78525c4d91b4fe19dd64`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -12,13 +12,25 @@
 - Epic: [sase-1pj](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-03T01:59:25.867329+00:00
+- Timing: 2026-11-03T01:59:25.867329+00:00 → 2026-11-03T02:02:48.766768+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [sase-1pj.8.1.1](../bbugyi200.athena.sase-1pj.8.1.1/README.md) | descendant | active |
+| [sase-1pj.8.1.2](../bbugyi200.athena.sase-1pj.8.1.2/README.md) | descendant | active |
+| [sase-1pj.8.1.3](../../sessions/bbugyi200.athena.sase-1pj.8.1.3.md) (session · 2) | descendant | active 1, completed 1 |
+| [sase-1pj.8.1.4](../bbugyi200.athena.sase-1pj.8.1.4/README.md) | descendant | waiting |
+| [sase-1pj.8.1.5](../bbugyi200.athena.sase-1pj.8.1.5/README.md) | descendant | completed |
+| [sase-1pj.8.1.6](../bbugyi200.athena.sase-1pj.8.1.6/README.md) | descendant | active |
+| [sase-1pj.8.1.7](../bbugyi200.athena.sase-1pj.8.1.7/README.md) | descendant | waiting |
+| [sase-1pj.8.1.land](../bbugyi200.athena.sase-1pj.8.1.land/README.md) | descendant | waiting |
 | [sase-1pj.1](../../sessions/bbugyi200.athena.sase-1pj.1.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.1.1.1](../bbugyi200.athena.sase-1pj.1.1.1/README.md) | sase-1pj hood | active |
 | [sase-1pj.1.1.2](../bbugyi200.athena.sase-1pj.1.1.2/README.md) | sase-1pj hood | active |

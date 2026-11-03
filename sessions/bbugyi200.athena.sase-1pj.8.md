@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1pj` · Members: 3 · Bead: [sase-1pj.8
 
 ```mermaid
 flowchart TD
-  n0["sase-1pj.8--mon [active]"]
+  n0["sase-1pj.8--mon [completed]"]
   n1["sase-1pj.8--gate [completed]"]
   n0 --> n1
   n2["sase-1pj.8--plan [active]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | sase-1pj.8--mon | active | gpt-6-astra / codex | 2026-11-03T01:59:25.867329+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1pj.8--mon | completed | gpt-6-astra / codex | 2026-11-03T01:59:25.867329+00:00 → 2026-11-03T02:02:48.766768+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.8--mon/chat.md) |
 | <a id="member-gate"></a>gate | sase-1pj.8--gate | completed | gpt-6-astra / codex | 2026-11-03T01:58:26.279245+00:00 → 2026-11-03T01:59:27.327655+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.8--gate/chat.md) |
 | <a id="member-plan"></a>plan | sase-1pj.8--plan | active | gpt-6-astra / codex | 2026-11-03T01:47:05.672257+00:00 → 2026-11-03T01:59:33.269201+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.8--plan/chat.md) |
 
@@ -27,6 +27,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
+| [sase-1pj.8.1.1](../agents/bbugyi200.athena.sase-1pj.8.1.1/README.md) | descendant | active |
+| [sase-1pj.8.1.2](../agents/bbugyi200.athena.sase-1pj.8.1.2/README.md) | descendant | active |
+| [sase-1pj.8.1.3](bbugyi200.athena.sase-1pj.8.1.3.md) (session · 2) | descendant | active 1, completed 1 |
+| [sase-1pj.8.1.4](../agents/bbugyi200.athena.sase-1pj.8.1.4/README.md) | descendant | waiting |
+| [sase-1pj.8.1.5](../agents/bbugyi200.athena.sase-1pj.8.1.5/README.md) | descendant | completed |
+| [sase-1pj.8.1.6](../agents/bbugyi200.athena.sase-1pj.8.1.6/README.md) | descendant | active |
+| [sase-1pj.8.1.7](../agents/bbugyi200.athena.sase-1pj.8.1.7/README.md) | descendant | waiting |
+| [sase-1pj.8.1.land](../agents/bbugyi200.athena.sase-1pj.8.1.land/README.md) | descendant | waiting |
 | [sase-1pj.1](bbugyi200.athena.sase-1pj.1.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.1.1.1](../agents/bbugyi200.athena.sase-1pj.1.1.1/README.md) | sase-1pj hood | active |
 | [sase-1pj.1.1.2](../agents/bbugyi200.athena.sase-1pj.1.1.2/README.md) | sase-1pj hood | active |
