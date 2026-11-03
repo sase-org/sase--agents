@@ -81,8 +81,8 @@
 | [sase-1pj.7.1.land](../../sessions/bbugyi200.athena.sase-1pj.7.1.land.md) (session · 3) | sase-1pj hood | active 1, completed 2 |
 | [sase-1pj.8](../../sessions/bbugyi200.athena.sase-1pj.8.md) (session · 3) | sase-1pj hood | active 1, completed 2 |
 | [sase-1pj.8.1.1](../bbugyi200.athena.sase-1pj.8.1.1/README.md) | sase-1pj hood | completed |
-| [sase-1pj.8.1.2](../../sessions/bbugyi200.athena.sase-1pj.8.1.2.md) (session · 4) | sase-1pj hood | active 1, completed 2, failed 1 |
-| [sase-1pj.8.1.3](../../sessions/bbugyi200.athena.sase-1pj.8.1.3.md) (session · 4) | sase-1pj hood | active 1, completed 2, failed 1 |
+| [sase-1pj.8.1.2](../../sessions/bbugyi200.athena.sase-1pj.8.1.2.md) (session · 5) | sase-1pj hood | completed 4, failed 1 |
+| [sase-1pj.8.1.3](../../sessions/bbugyi200.athena.sase-1pj.8.1.3.md) (session · 5) | sase-1pj hood | active 1, completed 3, failed 1 |
 | [sase-1pj.8.1.4](../bbugyi200.athena.sase-1pj.8.1.4/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.8.1.5](../bbugyi200.athena.sase-1pj.8.1.5/README.md) | sase-1pj hood | completed |
 | … and 5 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) | sase-1pj hood | — |
