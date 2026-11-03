@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / sase-1pj.8.1.4
 
-**Global name:** `bbugyi200.athena.sase-1pj.8.1.4` · **State:** waiting · **Source run:** `run-ef519b23839bc918b86533ecc7a48d59`
+**Global name:** `bbugyi200.athena.sase-1pj.8.1.4` · **State:** completed · **Source run:** `run-ef519b23839bc918b86533ecc7a48d59`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1pj.8.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.8.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261102210123
-- Commits: 0
+- Timing: 2026-11-03T03:54:35.140295+00:00 → 2026-11-03T06:11:37.325269+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`d3518e5`](https://github.com/sase-org/sase/commit/d3518e567d3da94a64fd5ff4a0396cda604bac59) | feat(axe): retire the staged-handoff kill protocol | 2026-11-03 01:09:37 EST |
 
 ## Neighbors
 

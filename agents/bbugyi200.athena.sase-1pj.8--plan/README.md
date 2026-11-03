@@ -26,7 +26,7 @@
 | [sase-1pj.8.1.1](../bbugyi200.athena.sase-1pj.8.1.1/README.md) | descendant | completed |
 | [sase-1pj.8.1.2](../../sessions/bbugyi200.athena.sase-1pj.8.1.2.md) (session · 5) | descendant | completed 4, failed 1 |
 | [sase-1pj.8.1.3](../../sessions/bbugyi200.athena.sase-1pj.8.1.3.md) (session · 5) | descendant | completed 4, failed 1 |
-| [sase-1pj.8.1.4](../bbugyi200.athena.sase-1pj.8.1.4/README.md) | descendant | waiting |
+| [sase-1pj.8.1.4](../bbugyi200.athena.sase-1pj.8.1.4/README.md) | descendant | completed |
 | [sase-1pj.8.1.5](../bbugyi200.athena.sase-1pj.8.1.5/README.md) | descendant | completed |
 | [sase-1pj.8.1.6](../bbugyi200.athena.sase-1pj.8.1.6/README.md) | descendant | completed |
 | [sase-1pj.8.1.7](../bbugyi200.athena.sase-1pj.8.1.7/README.md) | descendant | waiting |
