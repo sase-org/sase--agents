@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-95](../../users/bbugyi200/machines/athena/hoods/toobig-95/README.md) / toobig-95.run\_agent\_runner\_lifecycle.0
 
-**Global name:** `bbugyi200.athena.toobig-95.run_agent_runner_lifecycle.0` · **State:** active · **Source run:** `run-f01ff139bf845079738e4b2d9a13ec33`
+**Global name:** `bbugyi200.athena.toobig-95.run_agent_runner_lifecycle.0` · **State:** completed · **Source run:** `run-f01ff139bf845079738e4b2d9a13ec33`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-95
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-03T13:12:08.033874+00:00
-- Commits: 0
+- Timing: 2026-11-03T13:12:08.033874+00:00 → 2026-11-03T13:38:37.864148+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`d191279`](https://github.com/sase-org/sase/commit/d191279c269aa2c6c75f58332538260e69f89c37) | refactor(axe): split runner shutdown lifecycle | 2026-11-03 08:38:25 EST |
 
 ## Neighbors
 
