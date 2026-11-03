@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-94.test\_monitor\_retention.0](../bbugyi200.athena.toobig-94.test_monitor_retention.0/README.md) | toobig-94 hood | waiting |
+| [toobig-94.test\_monitor\_retention.0](../bbugyi200.athena.toobig-94.test_monitor_retention.0/README.md) | toobig-94 hood | completed |
 | [toobig-94.workspace\_retention.0](../bbugyi200.athena.toobig-94.workspace_retention.0/README.md) | toobig-94 hood | completed |
