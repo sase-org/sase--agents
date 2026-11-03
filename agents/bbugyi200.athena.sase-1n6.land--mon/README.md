@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1n6](../../users/bbugyi200/machines/athena/hoods/sase-1n6/README.md) / [sase-1n6.land](../../sessions/bbugyi200.athena.sase-1n6.land.md) / sase-1n6.land--mon
 
-**Global name:** `bbugyi200.athena.sase-1n6.land--mon` · **State:** active · **Source run:** `run-1f18306f37e6c7045dffa816345b3e49`
+**Global name:** `bbugyi200.athena.sase-1n6.land--mon` · **State:** completed · **Source run:** `run-1f18306f37e6c7045dffa816345b3e49`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1n6
 
@@ -11,8 +11,12 @@
 - Bead: [sase-1n6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1n6/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-03T14:51:07.925772+00:00
+- Timing: 2026-11-03T14:51:07.925772+00:00 → 2026-11-03T14:53:59.588187+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -22,6 +26,11 @@
 | [sase-1n6.10](../../sessions/bbugyi200.athena.sase-1n6.10.md) (session · 2) | sase-1n6 hood | completed 1, stopped 1 |
 | [sase-1n6.10](../bbugyi200.athena.sase-1n6.10/README.md) | sase-1n6 hood | waiting |
 | [sase-1n6.10.f0](../bbugyi200.athena.sase-1n6.10.f0/README.md) | sase-1n6 hood | active |
+| [sase-1n6.11.1](../../sessions/bbugyi200.athena.sase-1n6.11.1.md) (session · 2) | sase-1n6 hood | active 2 |
+| [sase-1n6.11.2](../bbugyi200.athena.sase-1n6.11.2/README.md) | sase-1n6 hood | completed |
+| [sase-1n6.11.3](../bbugyi200.athena.sase-1n6.11.3/README.md) | sase-1n6 hood | waiting |
+| [sase-1n6.11.4](../bbugyi200.athena.sase-1n6.11.4/README.md) | sase-1n6 hood | waiting |
+| [sase-1n6.11.land](../bbugyi200.athena.sase-1n6.11.land/README.md) | sase-1n6 hood | waiting |
 | [sase-1n6.2](../bbugyi200.athena.sase-1n6.2/README.md) | sase-1n6 hood | completed |
 | [sase-1n6.3](../bbugyi200.athena.sase-1n6.3/README.md) | sase-1n6 hood | completed |
 | [sase-1n6.4](../../sessions/bbugyi200.athena.sase-1n6.4.md) (session · 3) | sase-1n6 hood | completed 2, failed 1 |
