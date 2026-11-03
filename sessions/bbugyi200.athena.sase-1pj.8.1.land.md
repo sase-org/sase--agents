@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `sase-1pj` · Members: 3 · Bead: [sase-1pj.8
 ```mermaid
 flowchart TD
   n0["sase-1pj.8.1.land--gate [completed]"]
-  n1["sase-1pj.8.1.land--plan [active]"]
+  n1["sase-1pj.8.1.land--plan [completed]"]
   n0 --> n1
-  n2["sase-1pj.8.1.land--code [active]"]
+  n2["sase-1pj.8.1.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1pj.8.1.land--gate | completed | opus / claude | 2026-11-03T15:17:13.141629+00:00 → 2026-11-03T15:17:44.879643+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.8.1.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | sase-1pj.8.1.land--plan | active | opus / claude | 2026-11-03T14:56:48.724687+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.8.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.8.1.land--plan/chat.md) |
-| <a id="member-code"></a>code | sase-1pj.8.1.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-03T15:18:22.429133+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-1pj.8.1.land--plan | completed | opus / claude | 2026-11-03T14:56:48.724687+00:00 → 2026-11-03T15:55:12.392193+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.8.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.8.1.land--plan/chat.md) |
+| <a id="member-code"></a>code | sase-1pj.8.1.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-03T15:18:22.429133+00:00 → 2026-11-03T15:55:12.392193+00:00 | [1](../agents/bbugyi200.athena.sase-1pj.8.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-1pj.8.1.land--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`ced5901`](https://github.com/sase-org/sase/commit/ced5901dd5612f00f767b3e7bc695a0936bdc14f) | feat(axe): finish staged-handoff kill-path landing | 2026-11-03 10:50:37 EST |
 
 ## Neighbors
 

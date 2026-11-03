@@ -10,8 +10,8 @@
 
 - Bead: [sase-1pj.9](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.9.md)
 - Epic: [sase-1pj](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/README.md)
-- Model: sonnet
-- Provider: claude
+- Model: grok-4.6
+- Provider: grok
 - Timing: 20261101101520
 - Commits: 0
 
