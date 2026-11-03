@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / [sase-1pj.8.1.7](../../sessions/bbugyi200.athena.sase-1pj.8.1.7.md) / sase-1pj.8.1.7--mon
 
-**Global name:** `bbugyi200.athena.sase-1pj.8.1.7--mon` · **State:** active · **Source run:** `run-975c535a602c31b3bcf4bb6efe567897`
+**Global name:** `bbugyi200.athena.sase-1pj.8.1.7--mon` · **State:** completed · **Source run:** `run-975c535a602c31b3bcf4bb6efe567897`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -11,8 +11,12 @@
 - Bead: [sase-1pj.8.1.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.8.1.7.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-03T14:32:18.398316+00:00
+- Timing: 2026-11-03T14:32:18.398316+00:00 → 2026-11-03T14:48:24.424447+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -25,7 +29,7 @@
 | [sase-1pj.8.1.4](../bbugyi200.athena.sase-1pj.8.1.4/README.md) | sase-1pj.8.1 hood | completed |
 | [sase-1pj.8.1.5](../bbugyi200.athena.sase-1pj.8.1.5/README.md) | sase-1pj.8.1 hood | completed |
 | [sase-1pj.8.1.6](../bbugyi200.athena.sase-1pj.8.1.6/README.md) | sase-1pj.8.1 hood | completed |
-| [sase-1pj.8.1.land](../bbugyi200.athena.sase-1pj.8.1.land/README.md) | sase-1pj.8.1 hood | waiting |
+| [sase-1pj.8.1.land](../../sessions/bbugyi200.athena.sase-1pj.8.1.land.md) (session · 3) | sase-1pj.8.1 hood | active 2, completed 1 |
 | [sase-1pj.1](../../sessions/bbugyi200.athena.sase-1pj.1.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.1.1.1](../bbugyi200.athena.sase-1pj.1.1.1/README.md) | sase-1pj hood | active |
 | [sase-1pj.1.1.2](../bbugyi200.athena.sase-1pj.1.1.2/README.md) | sase-1pj hood | active |

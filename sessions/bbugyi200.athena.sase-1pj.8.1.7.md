@@ -2,22 +2,25 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / sase-1pj.8.1.7
 
-Owner: `bbugyi200.athena` · Hood: `sase-1pj` · Members: 2 · Bead: [sase-1pj.8.1.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.8.1.7.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1pj` · Members: 3 · Bead: [sase-1pj.8.1.7](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.8.1.7.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-1pj.8.1.7--mon [active]"]
-  n1["sase-1pj.8.1.7--plan [completed]"]
+  n0["sase-1pj.8.1.7--1 [completed]"]
+  n1["sase-1pj.8.1.7--mon [completed]"]
   n0 --> n1
+  n2["sase-1pj.8.1.7--plan [completed]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | sase-1pj.8.1.7--mon | active | gpt-6-astra / codex | 2026-11-03T14:32:18.398316+00:00 | 0 | — | — |
+| <a id="member-1"></a>1 | sase-1pj.8.1.7--1 | completed | gpt-6-astra / codex | 2026-11-03T14:49:28.514700+00:00 → 2026-11-03T14:51:31.434729+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.8.1.7--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.8.1.7--1/chat.md) |
+| <a id="member-mon"></a>mon | sase-1pj.8.1.7--mon | completed | gpt-6-astra / codex | 2026-11-03T14:32:18.398316+00:00 → 2026-11-03T14:48:24.424447+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.8.1.7--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1pj.8.1.7--plan | completed | gpt-6-astra / codex | 2026-11-03T14:19:26.685666+00:00 → 2026-11-03T14:37:51.850513+00:00 | [1](../agents/bbugyi200.athena.sase-1pj.8.1.7--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pj.8.1.7--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.8.1.7--plan/chat.md) |
 
 ## Commits
@@ -37,7 +40,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1pj.8.1.4](../agents/bbugyi200.athena.sase-1pj.8.1.4/README.md) | sase-1pj.8.1 hood | completed |
 | [sase-1pj.8.1.5](../agents/bbugyi200.athena.sase-1pj.8.1.5/README.md) | sase-1pj.8.1 hood | completed |
 | [sase-1pj.8.1.6](../agents/bbugyi200.athena.sase-1pj.8.1.6/README.md) | sase-1pj.8.1 hood | completed |
-| [sase-1pj.8.1.land](../agents/bbugyi200.athena.sase-1pj.8.1.land/README.md) | sase-1pj.8.1 hood | waiting |
+| [sase-1pj.8.1.land](bbugyi200.athena.sase-1pj.8.1.land.md) (session · 3) | sase-1pj.8.1 hood | active 2, completed 1 |
 | [sase-1pj.1](bbugyi200.athena.sase-1pj.1.md) (session · 3) | sase-1pj hood | failed 3 |
 | [sase-1pj.1.1.1](../agents/bbugyi200.athena.sase-1pj.1.1.1/README.md) | sase-1pj hood | active |
 | [sase-1pj.1.1.2](../agents/bbugyi200.athena.sase-1pj.1.1.2/README.md) | sase-1pj hood | active |
