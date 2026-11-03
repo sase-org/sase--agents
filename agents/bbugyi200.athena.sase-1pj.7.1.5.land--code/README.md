@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / [sase-1pj.7.1.5.land](../../sessions/bbugyi200.athena.sase-1pj.7.1.5.land.md) / sase-1pj.7.1.5.land--code
 
-**Global name:** `bbugyi200.athena.sase-1pj.7.1.5.land--code` · **State:** active · **Source run:** `run-268dfb5d1f2cfd2d830c1f0cefcf5af6`
+**Global name:** `bbugyi200.athena.sase-1pj.7.1.5.land--code` · **State:** completed · **Source run:** `run-268dfb5d1f2cfd2d830c1f0cefcf5af6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -11,8 +11,18 @@
 - Bead: [sase-1pj.7.1.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.7.1.5.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-03T00:49:05.799838+00:00
-- Commits: 0
+- Timing: 2026-11-03T00:49:05.799838+00:00 → 2026-11-03T03:39:45.768957+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`5dcf944`](https://github.com/sase-org/sase/commit/5dcf9448ab7cbe275848effd0c6060ca54f3a301) | fix(retention): require live successor custody before releasing dirty workspaces | 2026-11-02 22:32:42 EST |
 
 ## Neighbors
 
@@ -70,7 +80,7 @@
 | [sase-1pj.6.1.land](../../sessions/bbugyi200.athena.sase-1pj.6.1.land.md) (session · 5) | sase-1pj hood | completed 5 |
 | [sase-1pj.8](../../sessions/bbugyi200.athena.sase-1pj.8.md) (session · 3) | sase-1pj hood | active 1, completed 2 |
 | [sase-1pj.8.1.1](../bbugyi200.athena.sase-1pj.8.1.1/README.md) | sase-1pj hood | completed |
-| [sase-1pj.8.1.2](../../sessions/bbugyi200.athena.sase-1pj.8.1.2.md) (session · 3) | sase-1pj hood | active 1, completed 1, failed 1 |
+| [sase-1pj.8.1.2](../../sessions/bbugyi200.athena.sase-1pj.8.1.2.md) (session · 4) | sase-1pj hood | active 1, completed 2, failed 1 |
 | [sase-1pj.8.1.3](../../sessions/bbugyi200.athena.sase-1pj.8.1.3.md) (session · 4) | sase-1pj hood | active 1, completed 2, failed 1 |
 | [sase-1pj.8.1.4](../bbugyi200.athena.sase-1pj.8.1.4/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.8.1.5](../bbugyi200.athena.sase-1pj.8.1.5/README.md) | sase-1pj hood | completed |

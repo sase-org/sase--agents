@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** sase-1pj.7.1.5.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1pj_7_1_5_land__plan-261102_165915.md`
+- 2. --code — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1pj_7_1_5_land__code-261102_165915.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/retention_custody_closeout.md
 
 

@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1pj.8](bbugyi200.athena.sase-1pj.8.md) (session · 3) | ancestor | active 1, completed 2 |
 | [sase-1pj.8.1.1](../agents/bbugyi200.athena.sase-1pj.8.1.1/README.md) | sase-1pj.8.1 hood | completed |
-| [sase-1pj.8.1.2](bbugyi200.athena.sase-1pj.8.1.2.md) (session · 3) | sase-1pj.8.1 hood | active 1, completed 1, failed 1 |
+| [sase-1pj.8.1.2](bbugyi200.athena.sase-1pj.8.1.2.md) (session · 4) | sase-1pj.8.1 hood | active 1, completed 2, failed 1 |
 | [sase-1pj.8.1.4](../agents/bbugyi200.athena.sase-1pj.8.1.4/README.md) | sase-1pj.8.1 hood | waiting |
 | [sase-1pj.8.1.5](../agents/bbugyi200.athena.sase-1pj.8.1.5/README.md) | sase-1pj.8.1 hood | completed |
 | [sase-1pj.8.1.6](../agents/bbugyi200.athena.sase-1pj.8.1.6/README.md) | sase-1pj.8.1 hood | completed |
@@ -87,5 +87,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1pj.7.1.5.1](../agents/bbugyi200.athena.sase-1pj.7.1.5.1/README.md) | sase-1pj hood | completed |
 | [sase-1pj.7.1.5.2](../agents/bbugyi200.athena.sase-1pj.7.1.5.2/README.md) | sase-1pj hood | completed |
 | [sase-1pj.7.1.5.3](bbugyi200.athena.sase-1pj.7.1.5.3.md) (session · 5) | sase-1pj hood | completed 4, failed 1 |
-| [sase-1pj.7.1.5.land](bbugyi200.athena.sase-1pj.7.1.5.land.md) (session · 3) | sase-1pj hood | active 2, completed 1 |
+| [sase-1pj.7.1.5.land](bbugyi200.athena.sase-1pj.7.1.5.land.md) (session · 3) | sase-1pj hood | completed 3 |
 | … and 3 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) | sase-1pj hood | — |

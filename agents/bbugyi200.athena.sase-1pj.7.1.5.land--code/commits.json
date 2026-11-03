@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-268dfb5d1f2cfd2d830c1f0cefcf5af6"}
+{"commits":[{"committed_at":1793676762,"sha":"5dcf9448ab7cbe275848effd0c6060ca54f3a301","subject":"fix(retention): require live successor custody before releasing dirty workspaces"}],"schema_version":2,"source_run_id":"run-268dfb5d1f2cfd2d830c1f0cefcf5af6"}

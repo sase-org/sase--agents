@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `sase-1pj` · Members: 3 · Bead: [sase-1pj.7
 
 ```mermaid
 flowchart TD
-  n0["sase-1pj.7.1.5.land--code [active]"]
-  n1["sase-1pj.7.1.5.land--plan [active]"]
+  n0["sase-1pj.7.1.5.land--code [completed]"]
+  n1["sase-1pj.7.1.5.land--plan [completed]"]
   n0 --> n1
   n2["sase-1pj.7.1.5.land--gate [completed]"]
   n0 --> n2
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-1pj.7.1.5.land--code | active | grok-4.6 / grok | 2026-11-03T00:49:05.799838+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-1pj.7.1.5.land--plan | active | gpt-6-astra / codex | 2026-11-03T00:35:25.377742+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.7.1.5.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.7.1.5.land--plan/chat.md) |
+| <a id="member-code"></a>code | sase-1pj.7.1.5.land--code | completed | grok-4.6 / grok | 2026-11-03T00:49:05.799838+00:00 → 2026-11-03T03:39:45.768957+00:00 | [1](../agents/bbugyi200.athena.sase-1pj.7.1.5.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-1pj.7.1.5.land--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-1pj.7.1.5.land--plan | completed | gpt-6-astra / codex | 2026-11-03T00:35:25.377742+00:00 → 2026-11-03T03:39:45.768957+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.7.1.5.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.7.1.5.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-1pj.7.1.5.land--gate | completed | gpt-6-astra / codex | 2026-11-03T00:48:29.231395+00:00 → 2026-11-03T00:48:54.407615+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.7.1.5.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | sase | [`5dcf944`](https://github.com/sase-org/sase/commit/5dcf9448ab7cbe275848effd0c6060ca54f3a301) | fix(retention): require live successor custody before releasing dirty workspaces | 2026-11-02 22:32:42 EST |
 
 ## Neighbors
 
@@ -79,7 +85,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1pj.6.1.land](bbugyi200.athena.sase-1pj.6.1.land.md) (session · 5) | sase-1pj hood | completed 5 |
 | [sase-1pj.8](bbugyi200.athena.sase-1pj.8.md) (session · 3) | sase-1pj hood | active 1, completed 2 |
 | [sase-1pj.8.1.1](../agents/bbugyi200.athena.sase-1pj.8.1.1/README.md) | sase-1pj hood | completed |
-| [sase-1pj.8.1.2](bbugyi200.athena.sase-1pj.8.1.2.md) (session · 3) | sase-1pj hood | active 1, completed 1, failed 1 |
+| [sase-1pj.8.1.2](bbugyi200.athena.sase-1pj.8.1.2.md) (session · 4) | sase-1pj hood | active 1, completed 2, failed 1 |
 | [sase-1pj.8.1.3](bbugyi200.athena.sase-1pj.8.1.3.md) (session · 4) | sase-1pj hood | active 1, completed 2, failed 1 |
 | [sase-1pj.8.1.4](../agents/bbugyi200.athena.sase-1pj.8.1.4/README.md) | sase-1pj hood | waiting |
 | [sase-1pj.8.1.5](../agents/bbugyi200.athena.sase-1pj.8.1.5/README.md) | sase-1pj hood | completed |
