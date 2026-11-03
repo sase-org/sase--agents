@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-95](../../users/bbugyi200/machines/athena/hoods/toobig-95/README.md) / toobig-95.test\_workspace\_retention.0
 
-**Global name:** `bbugyi200.athena.toobig-95.test_workspace_retention.0` · **State:** waiting · **Source run:** `run-2e61fa84fe6e2d6b62978e73440bf33c`
+**Global name:** `bbugyi200.athena.toobig-95.test_workspace_retention.0` · **State:** completed · **Source run:** `run-2e61fa84fe6e2d6b62978e73440bf33c`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-95
 
@@ -10,12 +10,18 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261103073738
-- Commits: 0
+- Timing: 2026-11-03T14:48:40.554232+00:00 → 2026-11-03T15:38:39.234251+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`a1a07ef`](https://github.com/sase-org/sase/commit/a1a07efff818acaad000e0eeebf3e9ac753e34b1) | test(turns): split workspace retention tests into policy and records modules | 2026-11-03 10:38:26 EST |
 
 ## Neighbors
 
