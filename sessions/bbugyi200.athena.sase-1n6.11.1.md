@@ -2,23 +2,35 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1n6](../users/bbugyi200/machines/athena/hoods/sase-1n6/README.md) / sase-1n6.11.1
 
-Owner: `bbugyi200.athena` · Hood: `sase-1n6` · Members: 2 · Bead: [sase-1n6.11.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1n6/sase-1n6.11.1.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1n6` · Members: 4 · Bead: [sase-1n6.11.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1n6/sase-1n6.11.1.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-1n6.11.1--mon [active]"]
-  n1["sase-1n6.11.1--plan [active]"]
+  n0["sase-1n6.11.1--mon [completed]"]
+  n1["sase-1n6.11.1--1 [completed]"]
   n0 --> n1
+  n2["sase-1n6.11.1--plan [completed]"]
+  n0 --> n2
+  n3["sase-1n6.11.1--mon-0 [active]"]
+  n0 --> n3
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | sase-1n6.11.1--mon | active | muse-spark-1.3-contributor / muse | 2026-11-03T15:46:59.692711+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-1n6.11.1--plan | active | muse-spark-1.3-contributor / muse | 2026-11-03T14:54:21.513048+00:00 → 2026-11-03T15:56:52.466636+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1n6.11.1--plan/prompt.md) | — |
+| <a id="member-mon"></a>mon | sase-1n6.11.1--mon | completed | gpt-6-astra / codex | 2026-11-03T22:15:36.137490+00:00 → 2026-11-03T22:39:11.897789+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1n6.11.1--mon/chat.md) |
+| <a id="member-1"></a>1 | sase-1n6.11.1--1 | completed | gpt-6-astra / codex | 2026-11-03T22:40:02.472207+00:00 → 2026-11-03T22:48:49.131698+00:00 | [1](../agents/bbugyi200.athena.sase-1n6.11.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1n6.11.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1n6.11.1--1/chat.md) |
+| <a id="member-plan"></a>plan | sase-1n6.11.1--plan | completed | gpt-6-astra / codex | 2026-11-03T21:44:31.086798+00:00 → 2026-11-03T22:16:35.297731+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1n6.11.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1n6.11.1--plan/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | sase-1n6.11.1--mon-0 | active | gpt-6-astra / codex | 2026-11-03T22:45:03.416102+00:00 | 0 | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`a732756`](https://github.com/sase-org/sase/commit/a732756c9eb926ee83d580d24170b65ca83e5efe) | fix(release-steward): read merge checks from the versioned inventory | 2026-11-03 17:47:22 EST |
 
 ## Neighbors
 

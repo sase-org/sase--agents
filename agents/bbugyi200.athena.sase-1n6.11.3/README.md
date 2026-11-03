@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1n6.11.1](../../sessions/bbugyi200.athena.sase-1n6.11.1.md) (session · 2) | sase-1n6.11 hood | active 2 |
+| [sase-1n6.11.1](../../sessions/bbugyi200.athena.sase-1n6.11.1.md) (session · 4) | sase-1n6.11 hood | active 1, completed 3 |
 | [sase-1n6.11.2](../bbugyi200.athena.sase-1n6.11.2/README.md) | sase-1n6.11 hood | completed |
 | [sase-1n6.11.4](../bbugyi200.athena.sase-1n6.11.4/README.md) | sase-1n6.11 hood | waiting |
 | [sase-1n6.11.land](../bbugyi200.athena.sase-1n6.11.land/README.md) | sase-1n6.11 hood | waiting |
