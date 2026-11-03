@@ -33,4 +33,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-96.test\_finalizers\_prepared\_bridge.0](../agents/bbugyi200.athena.toobig-96.test_finalizers_prepared_bridge.0/README.md) | toobig-96 hood | active |
+| [toobig-96.test\_finalizers\_prepared\_bridge.0](../agents/bbugyi200.athena.toobig-96.test_finalizers_prepared_bridge.0/README.md) | toobig-96 hood | completed |
