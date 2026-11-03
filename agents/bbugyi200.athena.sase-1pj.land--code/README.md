@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / [sase-1pj.land](../../sessions/bbugyi200.athena.sase-1pj.land.md) / sase-1pj.land--code
 
-**Global name:** `bbugyi200.athena.sase-1pj.land--code` · **State:** active · **Source run:** `run-d9c9613eb8edbd81bf143342d70cbf0d`
+**Global name:** `bbugyi200.athena.sase-1pj.land--code` · **State:** completed · **Source run:** `run-d9c9613eb8edbd81bf143342d70cbf0d`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -11,8 +11,18 @@
 - Bead: [sase-1pj](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-03T17:19:29.925724+00:00
-- Commits: 0
+- Timing: 2026-11-03T17:19:29.925724+00:00 → 2026-11-03T18:03:01.894095+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`612242e`](https://github.com/sase-org/sase/commit/612242e381a5afe974059027423898de4609bfa3) | fix(monitor): complete staged prepared runs | 2026-11-03 12:57:14 EST |
 
 ## Neighbors
 

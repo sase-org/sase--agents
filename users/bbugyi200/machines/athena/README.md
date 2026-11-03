@@ -1346,7 +1346,7 @@
 | [nc](hoods/nc/README.md) | 2 | 1 | active 1, completed 1 |
 | [nh](hoods/nh/README.md) | 2 | 1 | active 1, completed 1 |
 | [nk](hoods/nk/README.md) | 2 | 1 | active 1, completed 1 |
-| [nn](hoods/nn/README.md) | 2 | 1 | active 2 |
+| [nn](hoods/nn/README.md) | 2 | 1 | active 1, completed 1 |
 | [no](hoods/no/README.md) | 2 | 1 | active 1, completed 1 |
 | [np](hoods/np/README.md) | 2 | 1 | active 2 |
 | [nr](hoods/nr/README.md) | 3 | 1 | active 2, completed 1 |
@@ -1541,7 +1541,7 @@
 | [sase-1p1](hoods/sase-1p1/README.md) | 56 | 5 | completed 35, failed 21 |
 | [sase-1ph](hoods/sase-1ph/README.md) | 6 | 0 | active 1, completed 5 |
 | [sase-1pi](hoods/sase-1pi/README.md) | 4 | 0 | active 1, completed 2, waiting 1 |
-| [sase-1pj](hoods/sase-1pj/README.md) | 159 | 30 | active 16, completed 99, failed 43, waiting 1 |
+| [sase-1pj](hoods/sase-1pj/README.md) | 159 | 30 | active 14, completed 101, failed 43, waiting 1 |
 | [sase-1pm](hoods/sase-1pm/README.md) | 47 | 7 | active 45, completed 1, failed 1 |
 | [sase-1pn](hoods/sase-1pn/README.md) | 9 | 2 | active 2, completed 5, failed 2 |
 | [sase-1pt](hoods/sase-1pt/README.md) | 22 | 4 | active 1, completed 14, failed 4, stopped 1, waiting 2 |

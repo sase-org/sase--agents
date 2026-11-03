@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-1pj.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1pj_land__plan-261101_101521.md`
+- 2. --code — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1pj_land__code-261101_101521.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/staged_handoffs_land_prepared_monitor.md
 
 
