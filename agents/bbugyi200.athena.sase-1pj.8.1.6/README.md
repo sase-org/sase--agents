@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / sase-1pj.8.1.6
 
-**Global name:** `bbugyi200.athena.sase-1pj.8.1.6` · **State:** active · **Source run:** `run-f747c6146f2a89bae80affe1edbc6616`
+**Global name:** `bbugyi200.athena.sase-1pj.8.1.6` · **State:** completed · **Source run:** `run-f747c6146f2a89bae80affe1edbc6616`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1pj.8.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.8.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-03T02:22:27.975492+00:00
-- Commits: 0
+- Timing: 2026-11-03T02:22:27.975492+00:00 → 2026-11-03T03:18:03.008208+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`11147cc`](https://github.com/sase-org/sase/commit/11147ccf2f15c7d890f6ee11de7147de4412c920) | feat(readout): delegate instruction readout classification to Rust core | 2026-11-02 22:15:51 EST |
 
 ## Neighbors
 
@@ -25,8 +31,8 @@
 |---|---|---|
 | [sase-1pj.8](../../sessions/bbugyi200.athena.sase-1pj.8.md) (session · 3) | ancestor | active 1, completed 2 |
 | [sase-1pj.8.1.1](../bbugyi200.athena.sase-1pj.8.1.1/README.md) | sase-1pj.8.1 hood | completed |
-| [sase-1pj.8.1.2](../../sessions/bbugyi200.athena.sase-1pj.8.1.2.md) (session · 2) | sase-1pj.8.1 hood | active 1, completed 1 |
-| [sase-1pj.8.1.3](../../sessions/bbugyi200.athena.sase-1pj.8.1.3.md) (session · 3) | sase-1pj.8.1 hood | active 1, completed 1, failed 1 |
+| [sase-1pj.8.1.2](../../sessions/bbugyi200.athena.sase-1pj.8.1.2.md) (session · 3) | sase-1pj.8.1 hood | active 1, completed 1, failed 1 |
+| [sase-1pj.8.1.3](../../sessions/bbugyi200.athena.sase-1pj.8.1.3.md) (session · 4) | sase-1pj.8.1 hood | active 1, completed 2, failed 1 |
 | [sase-1pj.8.1.4](../bbugyi200.athena.sase-1pj.8.1.4/README.md) | sase-1pj.8.1 hood | waiting |
 | [sase-1pj.8.1.5](../bbugyi200.athena.sase-1pj.8.1.5/README.md) | sase-1pj.8.1 hood | completed |
 | [sase-1pj.8.1.7](../bbugyi200.athena.sase-1pj.8.1.7/README.md) | sase-1pj.8.1 hood | waiting |
