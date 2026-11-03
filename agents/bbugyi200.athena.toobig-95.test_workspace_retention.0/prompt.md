@@ -1,6 +1,6 @@
+%auto
 %id(test_workspace_retention.0, clan=toobig-95)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/turns/test_workspace_retention.py` file into multiple files? Use your best
 %wait:toobig-95.test_monitor_handler_start_launch.0

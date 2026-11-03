@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-95](../../users/bbugyi200/machines/athena/hoods/toobig-95/README.md) / toobig-95.test\_monitor\_handler\_start\_launch.0
 
-**Global name:** `bbugyi200.athena.toobig-95.test_monitor_handler_start_launch.0` · **State:** waiting · **Source run:** `run-2e745e7379494b24f7ca5d878a535308`
+**Global name:** `bbugyi200.athena.toobig-95.test_monitor_handler_start_launch.0` · **State:** completed · **Source run:** `run-2e745e7379494b24f7ca5d878a535308`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-95
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261103073710
-- Commits: 0
+- Timing: 2026-11-03T14:18:57.669286+00:00 → 2026-11-03T14:45:32.450027+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`bdbbce0`](https://github.com/sase-org/sase/commit/bdbbce02e320eee7a9561ae7b2cf9feacedb78f9) | refactor(tests): split monitor start launch tests | 2026-11-03 09:45:22 EST |
 
 ## Neighbors
 
