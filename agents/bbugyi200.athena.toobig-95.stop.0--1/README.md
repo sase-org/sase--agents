@@ -1,0 +1,34 @@
+# Agent: toobig-95.stop.0--1
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-95](../../users/bbugyi200/machines/athena/hoods/toobig-95/README.md) / [toobig-95.stop.0](../../sessions/bbugyi200.athena.toobig-95.stop.0.md) / toobig-95.stop.0--1
+
+**Global name:** `bbugyi200.athena.toobig-95.stop.0--1` · **State:** completed · **Source run:** `run-91940cf5e1c978385686622cacf26962`
+
+**Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-95
+
+## Summary
+
+- Model: muse-spark-1.3-contributor
+- Provider: muse
+- Timing: 2026-11-03T13:09:49.418537+00:00 → 2026-11-03T13:11:34.212767+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`aa7eedb`](https://github.com/sase-org/sase/commit/aa7eedb1c51fa01d2fecddc78eeb34e061f634a5) | refactor(hijack): split stop.py into facade plus five focused modules | 2026-11-03 08:11:24 EST |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [toobig-95.readout.0](../bbugyi200.athena.toobig-95.readout.0/README.md) | toobig-95 hood | waiting |
+| [toobig-95.run\_agent\_runner\_lifecycle.0](../bbugyi200.athena.toobig-95.run_agent_runner_lifecycle.0/README.md) | toobig-95 hood | active |
+| [toobig-95.test\_monitor\_handler\_start\_launch.0](../bbugyi200.athena.toobig-95.test_monitor_handler_start_launch.0/README.md) | toobig-95 hood | waiting |
+| [toobig-95.test\_readout.0](../bbugyi200.athena.toobig-95.test_readout.0/README.md) | toobig-95 hood | waiting |
+| [toobig-95.test\_workspace\_retention.0](../bbugyi200.athena.toobig-95.test_workspace_retention.0/README.md) | toobig-95 hood | waiting |
