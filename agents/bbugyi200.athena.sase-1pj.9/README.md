@@ -73,4 +73,4 @@
 | [sase-1pj.7.1.5.2](../bbugyi200.athena.sase-1pj.7.1.5.2/README.md) | sase-1pj hood | completed |
 | [sase-1pj.7.1.5.3](../../sessions/bbugyi200.athena.sase-1pj.7.1.5.3.md) (session · 5) | sase-1pj hood | completed 4, failed 1 |
 | [sase-1pj.7.1.5.land](../../sessions/bbugyi200.athena.sase-1pj.7.1.5.land.md) (session · 3) | sase-1pj hood | completed 3 |
-| … and 11 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) | sase-1pj hood | — |
+| … and 12 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) | sase-1pj hood | — |
