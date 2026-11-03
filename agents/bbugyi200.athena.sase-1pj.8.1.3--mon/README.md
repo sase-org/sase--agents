@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / [sase-1pj.8.1.3](../../sessions/bbugyi200.athena.sase-1pj.8.1.3.md) / sase-1pj.8.1.3--mon
 
-**Global name:** `bbugyi200.athena.sase-1pj.8.1.3--mon` · **State:** active · **Source run:** `run-7db2bc7f8af7bc27b2b599d61108aa93`
+**Global name:** `bbugyi200.athena.sase-1pj.8.1.3--mon` · **State:** failed · **Source run:** `run-7db2bc7f8af7bc27b2b599d61108aa93`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -12,16 +12,20 @@
 - Epic: [sase-1pj.8.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.8.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-03T02:17:20.292941+00:00
+- Timing: 2026-11-03T02:17:20.292941+00:00 → 2026-11-03T02:42:55.516036+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1pj.8](../../sessions/bbugyi200.athena.sase-1pj.8.md) (session · 3) | ancestor | active 1, completed 2 |
-| [sase-1pj.8.1.1](../bbugyi200.athena.sase-1pj.8.1.1/README.md) | sase-1pj.8.1 hood | active |
-| [sase-1pj.8.1.2](../bbugyi200.athena.sase-1pj.8.1.2/README.md) | sase-1pj.8.1 hood | active |
+| [sase-1pj.8.1.1](../bbugyi200.athena.sase-1pj.8.1.1/README.md) | sase-1pj.8.1 hood | completed |
+| [sase-1pj.8.1.2](../../sessions/bbugyi200.athena.sase-1pj.8.1.2.md) (session · 2) | sase-1pj.8.1 hood | active 1, completed 1 |
 | [sase-1pj.8.1.4](../bbugyi200.athena.sase-1pj.8.1.4/README.md) | sase-1pj.8.1 hood | waiting |
 | [sase-1pj.8.1.5](../bbugyi200.athena.sase-1pj.8.1.5/README.md) | sase-1pj.8.1 hood | completed |
 | [sase-1pj.8.1.6](../bbugyi200.athena.sase-1pj.8.1.6/README.md) | sase-1pj.8.1 hood | active |

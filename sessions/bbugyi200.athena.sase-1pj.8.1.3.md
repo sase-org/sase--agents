@@ -2,15 +2,17 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / sase-1pj.8.1.3
 
-Owner: `bbugyi200.athena` · Hood: `sase-1pj` · Members: 2 · Bead: [sase-1pj.8.1.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.8.1.3.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1pj` · Members: 3 · Bead: [sase-1pj.8.1.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.8.1.3.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
   n0["sase-1pj.8.1.3--plan [completed]"]
-  n1["sase-1pj.8.1.3--mon [active]"]
+  n1["sase-1pj.8.1.3--mon [failed]"]
   n0 --> n1
+  n2["sase-1pj.8.1.3--1 [active]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -18,15 +20,16 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-1pj.8.1.3--plan | completed | grok-4.6 / grok | 2026-11-03T02:02:52.031706+00:00 → 2026-11-03T02:17:28.819817+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.8.1.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.8.1.3--plan/chat.md) |
-| <a id="member-mon"></a>mon | sase-1pj.8.1.3--mon | active | grok-4.6 / grok | 2026-11-03T02:17:20.292941+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1pj.8.1.3--mon | failed | grok-4.6 / grok | 2026-11-03T02:17:20.292941+00:00 → 2026-11-03T02:42:55.516036+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.8.1.3--mon/chat.md) |
+| <a id="member-1"></a>1 | sase-1pj.8.1.3--1 | active | grok-4.6 / grok | 2026-11-03T02:43:58.137967+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.8.1.3--1/prompt.md) | — |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1pj.8](bbugyi200.athena.sase-1pj.8.md) (session · 3) | ancestor | active 1, completed 2 |
-| [sase-1pj.8.1.1](../agents/bbugyi200.athena.sase-1pj.8.1.1/README.md) | sase-1pj.8.1 hood | active |
-| [sase-1pj.8.1.2](../agents/bbugyi200.athena.sase-1pj.8.1.2/README.md) | sase-1pj.8.1 hood | active |
+| [sase-1pj.8.1.1](../agents/bbugyi200.athena.sase-1pj.8.1.1/README.md) | sase-1pj.8.1 hood | completed |
+| [sase-1pj.8.1.2](bbugyi200.athena.sase-1pj.8.1.2.md) (session · 2) | sase-1pj.8.1 hood | active 1, completed 1 |
 | [sase-1pj.8.1.4](../agents/bbugyi200.athena.sase-1pj.8.1.4/README.md) | sase-1pj.8.1 hood | waiting |
 | [sase-1pj.8.1.5](../agents/bbugyi200.athena.sase-1pj.8.1.5/README.md) | sase-1pj.8.1 hood | completed |
 | [sase-1pj.8.1.6](../agents/bbugyi200.athena.sase-1pj.8.1.6/README.md) | sase-1pj.8.1 hood | active |
