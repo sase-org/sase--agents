@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / sase-1pj.9
 
-**Global name:** `bbugyi200.athena.sase-1pj.9` · **State:** waiting · **Source run:** `run-c7f5d5a4cb62e93ccd30409ab2bd60a7`
+**Global name:** `bbugyi200.athena.sase-1pj.9` · **State:** completed · **Source run:** `run-c7f5d5a4cb62e93ccd30409ab2bd60a7`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1pj](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261101101520
-- Commits: 0
+- Timing: 2026-11-03T15:48:36.759352+00:00 → 2026-11-03T16:58:42.097479+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`09a2273`](https://github.com/sase-org/sase/commit/09a2273dbbc8fabf2378f0d5ef8761c33a3708a6) | docs(handoffs): end staged handoffs through host completion | 2026-11-03 11:56:27 EST |
 
 ## Neighbors
 
