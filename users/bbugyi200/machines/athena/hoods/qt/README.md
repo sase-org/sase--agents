@@ -2,9 +2,9 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / qt
 
-**Global hood:** `bbugyi200.athena.qt` · **Runs:** 2 · **Sessions:** 1 · **States:** active 2
+**Global hood:** `bbugyi200.athena.qt` · **Runs:** 2 · **Sessions:** 1 · **States:** active 1, completed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [qt--code](../../../../../../sessions/bbugyi200.athena.qt.md#member-code) | active | sonnet / claude | 2026-07-31T22:05:07.546878+00:00 | 0 | — |
+| [qt--code](../../../../../../sessions/bbugyi200.athena.qt.md#member-code) | completed | sonnet / claude | 2026-07-31T22:05:07.546878+00:00 | 0 | — |
 | [qt--plan](../../../../../../sessions/bbugyi200.athena.qt.md#member-plan) | active | opus / claude | 2026-07-31T21:36:04.870212+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.qt--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.qt--plan/prompt.md) |
