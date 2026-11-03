@@ -1,0 +1,71 @@
+%queue(weight=1)
+#fork:178--code
+%model:muse-spark-1.3-contributor@high
+
+%macros_enabled:false
+# Monitored command finished
+
+**Command:**
+
+```text
+sase tool run check
+```
+
+**Directory:**
+
+```text
+/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13
+```
+
+| | |
+| --- | --- |
+| **Outcome** | COMPLETED — exit 0 |
+| **Started** | 2026-11-03T14:50:39.161106+00:00 |
+| **Finished** | 2026-11-03T14:53:36.897417Z |
+| **Elapsed** | 0.914s of a 1h 0m 0s budget |
+| **Output** | 655 KiB · evidence refs: `file:monitor-diagnostic-manifest:mxgfn7qfg17a`, `file:monitor-retained-log:mxgfn7qfg17a` · raw output omitted: `facts_only` · full log: `sase monitor show mxgfn7qfg17a --all-lines` |
+| **Tool run** | sase tool show dcf8528093976b6ed917140afe551f1a |
+
+**Why this was monitored:** Finish sase-core check for ETXTBSY macOS gating plan
+
+## Failure triage
+
+verdict: pass
+
+KNOWN 0; FLAKY 0
+
+sase tool show dcf8528093976b6ed917140afe551f1a -j
+
+## Continuation checkpoint
+
+- **Ref:** `local:continuation/checkpoints/monitor_start-d8381100d1f77101.json`
+
+**Checkpoint (JSON):**
+
+```text
+{
+  "kind": "monitor_start",
+  "payload": {
+    "command": "sase tool run check",
+    "cwd": "/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_13",
+    "member_agent_name": "178--mon",
+    "monitor_id": "mxgfn7qfg17a",
+    "next_output": "auto",
+    "parent_node_ids": [
+      "agent-delta:20261103093640:3990aafcbc065b5b"
+    ],
+    "project_name": "gh_sase-org__sase",
+    "request_fingerprint": "sha256:001066513cc6033b14d15737855d8ca338a99700864ea74b903bb914d454cdb0",
+    "starter_agent": "178--code",
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_sase-org__sase/artifacts/ace-run/202611/03/20261103093640"
+  },
+  "recorded_at_epoch": 1793717616.0777335,
+  "schema_version": 1
+}
+```
+
+
+## Your next action
+
+Read the check result with sase tool show dcf8528093976b6ed917140afe551f1a -l; if green, submit /sase_final with a commit decision for sase-core (Conventional Commit, e.g. test(sudo-runner): gate kernel ETXTBSY replay tests to Linux and cover retry portably). If red, fix and re-verify. Then state macOS confirmation still needs next master CI job via actstat.
+%macros_enabled:true
