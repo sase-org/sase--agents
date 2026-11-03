@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pj](../../users/bbugyi200/machines/athena/hoods/sase-1pj/README.md) / [sase-1pj.8.1.3](../../sessions/bbugyi200.athena.sase-1pj.8.1.3.md) / sase-1pj.8.1.3--2
 
-**Global name:** `bbugyi200.athena.sase-1pj.8.1.3--2` · **State:** active · **Source run:** `run-19139e0cbb62ac67eba5344286b142c4`
+**Global name:** `bbugyi200.athena.sase-1pj.8.1.3--2` · **State:** completed · **Source run:** `run-19139e0cbb62ac67eba5344286b142c4`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pj
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1pj.8.1.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pj/sase-1pj.8.1.3.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-03T03:46:21.888208+00:00
-- Commits: 0
+- Timing: 2026-11-03T03:46:21.888208+00:00 → 2026-11-03T03:54:13.550891+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8caa3fd`](https://github.com/sase-org/sase/commit/8caa3fd1f5603b07fe5c9e85b9267c4af9c1ad79) | feat(monitor): stage in-agent monitor starts unconditionally | 2026-11-02 22:52:20 EST |
 
 ## Neighbors
 

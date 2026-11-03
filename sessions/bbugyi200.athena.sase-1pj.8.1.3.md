@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1pj` · Members: 5 · Bead: [sase-1pj.8
 
 ```mermaid
 flowchart TD
-  n0["sase-1pj.8.1.3--2 [active]"]
+  n0["sase-1pj.8.1.3--2 [completed]"]
   n1["sase-1pj.8.1.3--mon-0 [completed]"]
   n0 --> n1
   n2["sase-1pj.8.1.3--plan [completed]"]
@@ -23,11 +23,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-2"></a>2 | sase-1pj.8.1.3--2 | active | grok-4.6 / grok | 2026-11-03T03:46:21.888208+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.8.1.3--2/prompt.md) | — |
+| <a id="member-2"></a>2 | sase-1pj.8.1.3--2 | completed | grok-4.6 / grok | 2026-11-03T03:46:21.888208+00:00 → 2026-11-03T03:54:13.550891+00:00 | [1](../agents/bbugyi200.athena.sase-1pj.8.1.3--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1pj.8.1.3--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.8.1.3--2/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | sase-1pj.8.1.3--mon-0 | completed | grok-4.6 / grok | 2026-11-03T02:49:29.531468+00:00 → 2026-11-03T03:45:21.041173+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.8.1.3--mon-0/chat.md) |
 | <a id="member-plan"></a>plan | sase-1pj.8.1.3--plan | completed | grok-4.6 / grok | 2026-11-03T02:02:52.031706+00:00 → 2026-11-03T02:17:28.819817+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.8.1.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.8.1.3--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-1pj.8.1.3--mon | failed | grok-4.6 / grok | 2026-11-03T02:17:20.292941+00:00 → 2026-11-03T02:42:55.516036+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1pj.8.1.3--mon/chat.md) |
 | <a id="member-1"></a>1 | sase-1pj.8.1.3--1 | completed | grok-4.6 / grok | 2026-11-03T02:43:58.137967+00:00 → 2026-11-03T02:49:36.301971+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1pj.8.1.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1pj.8.1.3--1/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 2 | sase | [`8caa3fd`](https://github.com/sase-org/sase/commit/8caa3fd1f5603b07fe5c9e85b9267c4af9c1ad79) | feat(monitor): stage in-agent monitor starts unconditionally | 2026-11-02 22:52:20 EST |
 
 ## Neighbors
 
