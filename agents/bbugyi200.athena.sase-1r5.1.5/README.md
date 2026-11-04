@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1r5](../../users/bbugyi200/machines/athena/hoods/sase-1r5/README.md) / sase-1r5.1.5
 
-**Global name:** `bbugyi200.athena.sase-1r5.1.5` · **State:** waiting · **Source run:** `run-046e24cfa4e6a8329315d1bb331c8485`
+**Global name:** `bbugyi200.athena.sase-1r5.1.5` · **State:** completed · **Source run:** `run-046e24cfa4e6a8329315d1bb331c8485`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1r5
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1r5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1r5/sase-1r5.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261104065644
-- Commits: 0
+- Timing: 2026-11-04T14:33:31.415311+00:00 → 2026-11-04T14:51:28.214153+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8b0e640`](https://github.com/sase-org/sase/commit/8b0e640242331ca08a54b8b49fb4ae7dc7359fec) | docs(retryability): document SSH publickey credential-retry budgets and kill switch | 2026-11-04 09:50:35 EST |
 
 ## Neighbors
 
@@ -26,6 +32,6 @@
 | [sase-1r5](../../sessions/bbugyi200.athena.sase-1r5.md) (session · 3) | ancestor | completed 3 |
 | [sase-1r5.1.1](../bbugyi200.athena.sase-1r5.1.1/README.md) | sase-1r5.1 hood | completed |
 | [sase-1r5.1.2](../../sessions/bbugyi200.athena.sase-1r5.1.2.md) (session · 3) | sase-1r5.1 hood | completed 3 |
-| [sase-1r5.1.3](../../sessions/bbugyi200.athena.sase-1r5.1.3.md) (session · 2) | sase-1r5.1 hood | active 1, completed 1 |
+| [sase-1r5.1.3](../../sessions/bbugyi200.athena.sase-1r5.1.3.md) (session · 3) | sase-1r5.1 hood | completed 3 |
 | [sase-1r5.1.4](../bbugyi200.athena.sase-1r5.1.4/README.md) | sase-1r5.1 hood | completed |
 | [sase-1r5.1.land](../bbugyi200.athena.sase-1r5.1.land/README.md) | sase-1r5.1 hood | waiting |
