@@ -135,7 +135,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| j | sase | [`8782778`](https://github.com/sase-org/sase/commit/87827788c25c826b46e9c76f70b105a1ce624313) | chore: add publication recovery evidence | 2026-10-24 18:21:43 EDT |
+| j | — | `8782778` | chore: add publication recovery evidence | 2026-10-24 18:21:43 EDT |
 
 ## Variables
 
@@ -163,7 +163,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1nv.5.1.1](../agents/bbugyi200.athena.sase-1nv.5.1.1/README.md) | descendant | completed |
-| [sase-1nv.5.1.2](../agents/bbugyi200.athena.sase-1nv.5.1.2/README.md) | descendant | active |
+| [sase-1nv.5.1.2](../agents/bbugyi200.athena.sase-1nv.5.1.2/README.md) | descendant | completed |
 | [sase-1nv.5.1.3](../agents/bbugyi200.athena.sase-1nv.5.1.3/README.md) | descendant | waiting |
 | [sase-1nv.5.1.4](../agents/bbugyi200.athena.sase-1nv.5.1.4/README.md) | descendant | waiting |
 | [sase-1nv.5.1.5](../agents/bbugyi200.athena.sase-1nv.5.1.5/README.md) | descendant | waiting |

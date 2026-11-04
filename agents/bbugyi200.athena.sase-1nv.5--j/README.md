@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8782778`](https://github.com/sase-org/sase/commit/87827788c25c826b46e9c76f70b105a1ce624313) | chore: add publication recovery evidence | 2026-10-24 18:21:43 EDT |
+| — | `8782778` | chore: add publication recovery evidence | 2026-10-24 18:21:43 EDT |
 
 ## Variables
 
@@ -49,7 +49,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1nv.5.1.1](../bbugyi200.athena.sase-1nv.5.1.1/README.md) | descendant | completed |
-| [sase-1nv.5.1.2](../bbugyi200.athena.sase-1nv.5.1.2/README.md) | descendant | active |
+| [sase-1nv.5.1.2](../bbugyi200.athena.sase-1nv.5.1.2/README.md) | descendant | completed |
 | [sase-1nv.5.1.3](../bbugyi200.athena.sase-1nv.5.1.3/README.md) | descendant | waiting |
 | [sase-1nv.5.1.4](../bbugyi200.athena.sase-1nv.5.1.4/README.md) | descendant | waiting |
 | [sase-1nv.5.1.5](../bbugyi200.athena.sase-1nv.5.1.5/README.md) | descendant | waiting |

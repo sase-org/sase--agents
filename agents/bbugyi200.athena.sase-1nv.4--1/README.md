@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7b1b437`](https://github.com/sase-org/sase/commit/7b1b43755821fb4b6fe9ab8f51d09fcff0e46879) | feat(agents-sync): add report-first repair for stale publication revision rows (sase-1nv.4) | 2026-10-24 11:48:49 EDT |
+| — | `7b1b437` | feat(agents-sync): add report-first repair for stale publication revision rows (sase-1nv.4) | 2026-10-24 11:48:49 EDT |
 
 ## Neighbors
 
@@ -33,7 +33,7 @@
 | [sase-1nv.3](../../sessions/bbugyi200.athena.sase-1nv.3.md) (session · 3) | sase-1nv hood | completed 2, failed 1 |
 | [sase-1nv.5](../../sessions/bbugyi200.athena.sase-1nv.5.md) (session · 39) | sase-1nv hood | completed 19, failed 20 |
 | [sase-1nv.5.1.1](../bbugyi200.athena.sase-1nv.5.1.1/README.md) | sase-1nv hood | completed |
-| [sase-1nv.5.1.2](../bbugyi200.athena.sase-1nv.5.1.2/README.md) | sase-1nv hood | active |
+| [sase-1nv.5.1.2](../bbugyi200.athena.sase-1nv.5.1.2/README.md) | sase-1nv hood | completed |
 | [sase-1nv.5.1.3](../bbugyi200.athena.sase-1nv.5.1.3/README.md) | sase-1nv hood | waiting |
 | [sase-1nv.5.1.4](../bbugyi200.athena.sase-1nv.5.1.4/README.md) | sase-1nv hood | waiting |
 | [sase-1nv.5.1.5](../bbugyi200.athena.sase-1nv.5.1.5/README.md) | sase-1nv hood | waiting |

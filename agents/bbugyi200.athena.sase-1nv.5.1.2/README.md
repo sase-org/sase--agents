@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1nv](../../users/bbugyi200/machines/athena/hoods/sase-1nv/README.md) / sase-1nv.5.1.2
 
-**Global name:** `bbugyi200.athena.sase-1nv.5.1.2` · **State:** active · **Source run:** `run-a00cfea7eaea67e6a2f84c5065eed084`
+**Global name:** `bbugyi200.athena.sase-1nv.5.1.2` · **State:** completed · **Source run:** `run-a00cfea7eaea67e6a2f84c5065eed084`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1nv
 
@@ -12,7 +12,7 @@
 - Epic: [sase-1nv.5.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1nv/sase-1nv.5.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-26T23:05:02.143062+00:00
+- Timing: 2026-10-26T23:05:02.143062+00:00 → 2026-10-26T23:58:03.334558+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`aa97e54`](https://github.com/sase-org/sase/commit/aa97e544b0e68c0f1c0211bdfb75cf1b0b3e48d1) | feat(agents-sync): add --retry-key for exact publication retries | 2026-10-26 19:53:11 EDT |
+| — | `aa97e54` | feat(agents-sync): add --retry-key for exact publication retries | 2026-10-26 19:53:11 EDT |
 
 ## Neighbors
 
