@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`8bea2e8`](https://github.com/sase-org/sase/commit/8bea2e84144a1a449b337c725a75b3c1c252cc8a) | feat(bead): include default-branch Justfile epic-symbol rows in close guard | 2026-10-29 12:26:49 EDT |
+| 1 | — | `8bea2e8` | feat(bead): include default-branch Justfile epic-symbol rows in close guard | 2026-10-29 12:26:49 EDT |
 
 ## Neighbors
 
@@ -36,4 +36,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1pn.1](../agents/bbugyi200.athena.sase-1pn.1/README.md) | sase-1pn hood | completed |
 | [sase-1pn.2](../agents/bbugyi200.athena.sase-1pn.2/README.md) | sase-1pn hood | completed |
 | [sase-1pn.4](../agents/bbugyi200.athena.sase-1pn.4/README.md) | sase-1pn hood | completed |
-| [sase-1pn.land](bbugyi200.athena.sase-1pn.land.md) (session · 3) | sase-1pn hood | active 2, failed 1 |
+| [sase-1pn.land](bbugyi200.athena.sase-1pn.land.md) (session · 3) | sase-1pn hood | active 1, completed 1, failed 1 |

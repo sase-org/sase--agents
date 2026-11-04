@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8bea2e8`](https://github.com/sase-org/sase/commit/8bea2e84144a1a449b337c725a75b3c1c252cc8a) | feat(bead): include default-branch Justfile epic-symbol rows in close guard | 2026-10-29 12:26:49 EDT |
+| — | `8bea2e8` | feat(bead): include default-branch Justfile epic-symbol rows in close guard | 2026-10-29 12:26:49 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 | [sase-1pn.1](../bbugyi200.athena.sase-1pn.1/README.md) | sase-1pn hood | completed |
 | [sase-1pn.2](../bbugyi200.athena.sase-1pn.2/README.md) | sase-1pn hood | completed |
 | [sase-1pn.4](../bbugyi200.athena.sase-1pn.4/README.md) | sase-1pn hood | completed |
-| [sase-1pn.land](../../sessions/bbugyi200.athena.sase-1pn.land.md) (session · 3) | sase-1pn hood | active 2, failed 1 |
+| [sase-1pn.land](../../sessions/bbugyi200.athena.sase-1pn.land.md) (session · 3) | sase-1pn hood | active 1, completed 1, failed 1 |

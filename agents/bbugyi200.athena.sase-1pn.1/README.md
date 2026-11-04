@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`464125c`](https://github.com/sase-org/sase/commit/464125cfa6491523c3297a4584d565490534baa7) | fix(claude): isolate SASE agent sessions | 2026-10-29 11:55:46 EDT |
+| — | `464125c` | fix(claude): isolate SASE agent sessions | 2026-10-29 11:55:46 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [sase-1pn.2](../bbugyi200.athena.sase-1pn.2/README.md) | sase-1pn hood | completed |
 | [sase-1pn.3](../../sessions/bbugyi200.athena.sase-1pn.3.md) (session · 3) | sase-1pn hood | completed 2, failed 1 |
 | [sase-1pn.4](../bbugyi200.athena.sase-1pn.4/README.md) | sase-1pn hood | completed |
-| [sase-1pn.land](../../sessions/bbugyi200.athena.sase-1pn.land.md) (session · 3) | sase-1pn hood | active 2, failed 1 |
+| [sase-1pn.land](../../sessions/bbugyi200.athena.sase-1pn.land.md) (session · 3) | sase-1pn hood | active 1, completed 1, failed 1 |

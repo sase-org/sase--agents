@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`995c451`](https://github.com/sase-org/sase/commit/995c451c38eca0befedc61f7e4918b49a6c3d4f4) | chore(deps): pin dev toolchain versions | 2026-10-29 11:33:31 EDT |
+| — | `995c451` | chore(deps): pin dev toolchain versions | 2026-10-29 11:33:31 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [sase-1pn.1](../bbugyi200.athena.sase-1pn.1/README.md) | sase-1pn hood | completed |
 | [sase-1pn.2](../bbugyi200.athena.sase-1pn.2/README.md) | sase-1pn hood | completed |
 | [sase-1pn.3](../../sessions/bbugyi200.athena.sase-1pn.3.md) (session · 3) | sase-1pn hood | completed 2, failed 1 |
-| [sase-1pn.land](../../sessions/bbugyi200.athena.sase-1pn.land.md) (session · 3) | sase-1pn hood | active 2, failed 1 |
+| [sase-1pn.land](../../sessions/bbugyi200.athena.sase-1pn.land.md) (session · 3) | sase-1pn hood | active 1, completed 1, failed 1 |

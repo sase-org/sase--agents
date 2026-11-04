@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`01dcc2e`](https://github.com/sase-org/sase/commit/01dcc2e5f5671d351ade5cbac5e5e4c5908c9d86) | fix(workspace): quarantine slots after nested-preservation refusal | 2026-10-29 15:58:27 EDT |
+| — | `01dcc2e` | fix(workspace): quarantine slots after nested-preservation refusal | 2026-10-29 15:58:27 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [sase-1pn.1](../bbugyi200.athena.sase-1pn.1/README.md) | sase-1pn hood | completed |
 | [sase-1pn.3](../../sessions/bbugyi200.athena.sase-1pn.3.md) (session · 3) | sase-1pn hood | completed 2, failed 1 |
 | [sase-1pn.4](../bbugyi200.athena.sase-1pn.4/README.md) | sase-1pn hood | completed |
-| [sase-1pn.land](../../sessions/bbugyi200.athena.sase-1pn.land.md) (session · 3) | sase-1pn hood | active 2, failed 1 |
+| [sase-1pn.land](../../sessions/bbugyi200.athena.sase-1pn.land.md) (session · 3) | sase-1pn hood | active 1, completed 1, failed 1 |
