@@ -28,4 +28,4 @@
 | [sase-1r5.1.3](../../sessions/bbugyi200.athena.sase-1r5.1.3.md) (session · 3) | descendant | completed 3 |
 | [sase-1r5.1.4](../bbugyi200.athena.sase-1r5.1.4/README.md) | descendant | completed |
 | [sase-1r5.1.5](../bbugyi200.athena.sase-1r5.1.5/README.md) | descendant | completed |
-| [sase-1r5.1.land](../bbugyi200.athena.sase-1r5.1.land/README.md) | descendant | waiting |
+| [sase-1r5.1.land](../bbugyi200.athena.sase-1r5.1.land/README.md) | descendant | completed |

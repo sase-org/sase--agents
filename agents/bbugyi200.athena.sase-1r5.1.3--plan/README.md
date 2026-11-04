@@ -34,4 +34,4 @@
 | [sase-1r5.1.2](../../sessions/bbugyi200.athena.sase-1r5.1.2.md) (session · 3) | sase-1r5.1 hood | completed 3 |
 | [sase-1r5.1.4](../bbugyi200.athena.sase-1r5.1.4/README.md) | sase-1r5.1 hood | completed |
 | [sase-1r5.1.5](../bbugyi200.athena.sase-1r5.1.5/README.md) | sase-1r5.1 hood | completed |
-| [sase-1r5.1.land](../bbugyi200.athena.sase-1r5.1.land/README.md) | sase-1r5.1 hood | waiting |
+| [sase-1r5.1.land](../bbugyi200.athena.sase-1r5.1.land/README.md) | sase-1r5.1 hood | completed |
