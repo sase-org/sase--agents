@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cb7ab28`](https://github.com/sase-org/sase/commit/cb7ab28e4ba9cdebe52acf4fad0dd58a31501f89) | fix(artifact-links): unwrap bracketed bead trailers with versioned stitch cache | 2026-10-31 13:37:37 EDT |
+| — | `cb7ab28` | fix(artifact-links): unwrap bracketed bead trailers with versioned stitch cache | 2026-10-31 13:37:37 EDT |
 
 ## Neighbors
 
@@ -34,5 +34,5 @@
 | [sase-1qh.3](../../sessions/bbugyi200.athena.sase-1qh.3.md) (session · 11) | sase-1qh hood | completed 6, failed 5 |
 | [sase-1qh.4](../bbugyi200.athena.sase-1qh.4/README.md) | sase-1qh hood | completed |
 | [sase-1qh.6](../bbugyi200.athena.sase-1qh.6/README.md) | sase-1qh hood | completed |
-| [sase-1qh.7](../bbugyi200.athena.sase-1qh.7/README.md) | sase-1qh hood | waiting |
+| [sase-1qh.7](../bbugyi200.athena.sase-1qh.7/README.md) | sase-1qh hood | completed |
 | [sase-1qh.land](../bbugyi200.athena.sase-1qh.land/README.md) | sase-1qh hood | waiting |

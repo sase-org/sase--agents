@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9409312`](https://github.com/sase-org/sase/commit/9409312d1e2871c4433947213c9833d609b3540f) | feat(agents-sync): enqueue planner prompt archives with linked scope | 2026-10-31 13:18:21 EDT |
+| — | `9409312` | feat(agents-sync): enqueue planner prompt archives with linked scope | 2026-10-31 13:18:21 EDT |
 
 ## Neighbors
 
@@ -34,5 +34,5 @@
 | [sase-1qh.4](../bbugyi200.athena.sase-1qh.4/README.md) | sase-1qh hood | completed |
 | [sase-1qh.5](../bbugyi200.athena.sase-1qh.5/README.md) | sase-1qh hood | completed |
 | [sase-1qh.6](../bbugyi200.athena.sase-1qh.6/README.md) | sase-1qh hood | completed |
-| [sase-1qh.7](../bbugyi200.athena.sase-1qh.7/README.md) | sase-1qh hood | waiting |
+| [sase-1qh.7](../bbugyi200.athena.sase-1qh.7/README.md) | sase-1qh hood | completed |
 | [sase-1qh.land](../bbugyi200.athena.sase-1qh.land/README.md) | sase-1qh hood | waiting |

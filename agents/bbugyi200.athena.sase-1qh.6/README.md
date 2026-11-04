@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4900d9a`](https://github.com/sase-org/sase/commit/4900d9a0f3c13ec3aac25521b8a6002261e71651) | feat(agents-sync): repair proven planner scopes | 2026-10-31 15:17:42 EDT |
+| — | `4900d9a` | feat(agents-sync): repair proven planner scopes | 2026-10-31 15:17:42 EDT |
 
 ## Neighbors
 
@@ -34,5 +34,5 @@
 | [sase-1qh.3](../../sessions/bbugyi200.athena.sase-1qh.3.md) (session · 11) | sase-1qh hood | completed 6, failed 5 |
 | [sase-1qh.4](../bbugyi200.athena.sase-1qh.4/README.md) | sase-1qh hood | completed |
 | [sase-1qh.5](../bbugyi200.athena.sase-1qh.5/README.md) | sase-1qh hood | completed |
-| [sase-1qh.7](../bbugyi200.athena.sase-1qh.7/README.md) | sase-1qh hood | waiting |
+| [sase-1qh.7](../bbugyi200.athena.sase-1qh.7/README.md) | sase-1qh hood | completed |
 | [sase-1qh.land](../bbugyi200.athena.sase-1qh.land/README.md) | sase-1qh hood | waiting |

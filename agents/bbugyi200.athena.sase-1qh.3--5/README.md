@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`30e012b`](https://github.com/sase-org/sase/commit/30e012baaad77f98f9c68f494a73cf48565970c4) | perf(agents-sync): reuse published protection scans | 2026-10-31 13:15:14 EDT |
+| — | `30e012b` | perf(agents-sync): reuse published protection scans | 2026-10-31 13:15:14 EDT |
 
 ## Neighbors
 
@@ -33,5 +33,5 @@
 | [sase-1qh.4](../bbugyi200.athena.sase-1qh.4/README.md) | sase-1qh hood | completed |
 | [sase-1qh.5](../bbugyi200.athena.sase-1qh.5/README.md) | sase-1qh hood | completed |
 | [sase-1qh.6](../bbugyi200.athena.sase-1qh.6/README.md) | sase-1qh hood | completed |
-| [sase-1qh.7](../bbugyi200.athena.sase-1qh.7/README.md) | sase-1qh hood | waiting |
+| [sase-1qh.7](../bbugyi200.athena.sase-1qh.7/README.md) | sase-1qh hood | completed |
 | [sase-1qh.land](../bbugyi200.athena.sase-1qh.land/README.md) | sase-1qh hood | waiting |

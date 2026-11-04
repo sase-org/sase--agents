@@ -28,4 +28,4 @@
 | [sase-1qh.4](../bbugyi200.athena.sase-1qh.4/README.md) | sase-1qh hood | completed |
 | [sase-1qh.5](../bbugyi200.athena.sase-1qh.5/README.md) | sase-1qh hood | completed |
 | [sase-1qh.6](../bbugyi200.athena.sase-1qh.6/README.md) | sase-1qh hood | completed |
-| [sase-1qh.7](../bbugyi200.athena.sase-1qh.7/README.md) | sase-1qh hood | waiting |
+| [sase-1qh.7](../bbugyi200.athena.sase-1qh.7/README.md) | sase-1qh hood | completed |

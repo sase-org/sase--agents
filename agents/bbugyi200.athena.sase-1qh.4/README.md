@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f1dcab6`](https://github.com/sase-org/sase/commit/f1dcab6dae643212b225462161dd313787d7e632) | feat(agents-sync): restore planner prompt archives under their plan name | 2026-10-31 14:32:35 EDT |
+| — | `f1dcab6` | feat(agents-sync): restore planner prompt archives under their plan name | 2026-10-31 14:32:35 EDT |
 
 ## Neighbors
 
@@ -34,5 +34,5 @@
 | [sase-1qh.3](../../sessions/bbugyi200.athena.sase-1qh.3.md) (session · 11) | sase-1qh hood | completed 6, failed 5 |
 | [sase-1qh.5](../bbugyi200.athena.sase-1qh.5/README.md) | sase-1qh hood | completed |
 | [sase-1qh.6](../bbugyi200.athena.sase-1qh.6/README.md) | sase-1qh hood | completed |
-| [sase-1qh.7](../bbugyi200.athena.sase-1qh.7/README.md) | sase-1qh hood | waiting |
+| [sase-1qh.7](../bbugyi200.athena.sase-1qh.7/README.md) | sase-1qh hood | completed |
 | [sase-1qh.land](../bbugyi200.athena.sase-1qh.land/README.md) | sase-1qh hood | waiting |

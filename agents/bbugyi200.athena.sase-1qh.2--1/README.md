@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ae2c65d`](https://github.com/sase-org/sase/commit/ae2c65dd293f5f73513c1baccb08e313b1c53346) | feat(agents-sync): report real refusal reason and retire repeated refusals | 2026-10-31 14:20:21 EDT |
+| — | `ae2c65d` | feat(agents-sync): report real refusal reason and retire repeated refusals | 2026-10-31 14:20:21 EDT |
 
 ## Neighbors
 
@@ -33,5 +33,5 @@
 | [sase-1qh.4](../bbugyi200.athena.sase-1qh.4/README.md) | sase-1qh hood | completed |
 | [sase-1qh.5](../bbugyi200.athena.sase-1qh.5/README.md) | sase-1qh hood | completed |
 | [sase-1qh.6](../bbugyi200.athena.sase-1qh.6/README.md) | sase-1qh hood | completed |
-| [sase-1qh.7](../bbugyi200.athena.sase-1qh.7/README.md) | sase-1qh hood | waiting |
+| [sase-1qh.7](../bbugyi200.athena.sase-1qh.7/README.md) | sase-1qh hood | completed |
 | [sase-1qh.land](../bbugyi200.athena.sase-1qh.land/README.md) | sase-1qh hood | waiting |
