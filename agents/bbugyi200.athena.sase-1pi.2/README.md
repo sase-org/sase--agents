@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1pi](../../users/bbugyi200/machines/athena/hoods/sase-1pi/README.md) / sase-1pi.2
 
-**Global name:** `bbugyi200.athena.sase-1pi.2` · **State:** active · **Source run:** `run-8ed167aad79bb89bb8db4f5f43b7a900`
+**Global name:** `bbugyi200.athena.sase-1pi.2` · **State:** completed · **Source run:** `run-8ed167aad79bb89bb8db4f5f43b7a900`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1pi
 
@@ -12,7 +12,7 @@
 - Epic: [sase-1pi](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1pi/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-29T00:11:06.537333+00:00
+- Timing: 2026-10-29T00:11:06.537333+00:00 → 2026-10-29T01:40:29.596427+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`35b00c9`](https://github.com/sase-org/sase/commit/35b00c9dad710ecafb903c98defb7c39a4058048) | feat(release-steward): count only merge-capable release-plz runs as core cuts | 2026-10-28 21:36:37 EDT |
+| — | `35b00c9` | feat(release-steward): count only merge-capable release-plz runs as core cuts | 2026-10-28 21:36:37 EDT |
 
 ## Neighbors
 
