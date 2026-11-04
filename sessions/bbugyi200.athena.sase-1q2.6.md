@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`eec20f6`](https://github.com/sase-org/sase/commit/eec20f6ad54e295575f0f1e736527d656e84143c) | fix(tests): stabilize CI regression tests | 2026-10-31 04:37:21 EDT |
+| 1 | — | `eec20f6` | fix(tests): stabilize CI regression tests | 2026-10-31 04:37:21 EDT |
 
 ## Neighbors
 
@@ -41,7 +41,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1q2.7](../agents/bbugyi200.athena.sase-1q2.7/README.md) | sase-1q2 hood | completed |
 | [sase-1q2.8](../agents/bbugyi200.athena.sase-1q2.8/README.md) | sase-1q2 hood | completed |
 | [sase-1q2.9.1](bbugyi200.athena.sase-1q2.9.1.md) (session · 11) | sase-1q2 hood | completed 6, failed 5 |
-| [sase-1q2.9.2](bbugyi200.athena.sase-1q2.9.2.md) (session · 2) | sase-1q2 hood | active 1, completed 1 |
+| [sase-1q2.9.2](bbugyi200.athena.sase-1q2.9.2.md) (session · 2) | sase-1q2 hood | completed 1, stopped 1 |
 | [sase-1q2.9.3](../agents/bbugyi200.athena.sase-1q2.9.3/README.md) | sase-1q2 hood | active |
 | [sase-1q2.9.4](../agents/bbugyi200.athena.sase-1q2.9.4/README.md) | sase-1q2 hood | active |
 | [sase-1q2.9.land](../agents/bbugyi200.athena.sase-1q2.9.land/README.md) | sase-1q2 hood | waiting |

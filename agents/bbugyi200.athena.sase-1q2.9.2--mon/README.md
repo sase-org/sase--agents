@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1q2](../../users/bbugyi200/machines/athena/hoods/sase-1q2/README.md) / [sase-1q2.9.2](../../sessions/bbugyi200.athena.sase-1q2.9.2.md) / sase-1q2.9.2--mon
 
-**Global name:** `bbugyi200.athena.sase-1q2.9.2--mon` · **State:** active · **Source run:** `run-71b3eef671c24460b7a4372ac7ce4782`
+**Global name:** `bbugyi200.athena.sase-1q2.9.2--mon` · **State:** stopped · **Source run:** `run-71b3eef671c24460b7a4372ac7ce4782`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1q2
 
@@ -12,7 +12,7 @@
 - Epic: [sase-1q2.9](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1q2/sase-1q2.9.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-31T09:40:08.643328+00:00
+- Timing: 2026-10-31T09:40:08.643328+00:00 → 2026-11-01T12:26:54.011268+00:00
 - Commits: 0
 
 ## Neighbors

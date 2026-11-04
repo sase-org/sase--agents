@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1q2` · Members: 2 · Bead: [sase-1q2.9
 ```mermaid
 flowchart TD
   n0["sase-1q2.9.2--plan [completed]"]
-  n1["sase-1q2.9.2--mon [active]"]
+  n1["sase-1q2.9.2--mon [stopped]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-1q2.9.2--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-31T09:26:51.357253+00:00 → 2026-10-31T09:40:15.798333+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1q2.9.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1q2.9.2--plan/chat.md) |
-| <a id="member-mon"></a>mon | sase-1q2.9.2--mon | active | muse-spark-1.3-contributor / muse | 2026-10-31T09:40:08.643328+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1q2.9.2--mon | stopped | muse-spark-1.3-contributor / muse | 2026-10-31T09:40:08.643328+00:00 → 2026-11-01T12:26:54.011268+00:00 | 0 | — | — |
 
 ## Neighbors
 

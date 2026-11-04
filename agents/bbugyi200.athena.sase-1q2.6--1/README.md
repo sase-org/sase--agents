@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eec20f6`](https://github.com/sase-org/sase/commit/eec20f6ad54e295575f0f1e736527d656e84143c) | fix(tests): stabilize CI regression tests | 2026-10-31 04:37:21 EDT |
+| — | `eec20f6` | fix(tests): stabilize CI regression tests | 2026-10-31 04:37:21 EDT |
 
 ## Neighbors
 
@@ -36,7 +36,7 @@
 | [sase-1q2.7](../bbugyi200.athena.sase-1q2.7/README.md) | sase-1q2 hood | completed |
 | [sase-1q2.8](../bbugyi200.athena.sase-1q2.8/README.md) | sase-1q2 hood | completed |
 | [sase-1q2.9.1](../../sessions/bbugyi200.athena.sase-1q2.9.1.md) (session · 11) | sase-1q2 hood | completed 6, failed 5 |
-| [sase-1q2.9.2](../../sessions/bbugyi200.athena.sase-1q2.9.2.md) (session · 2) | sase-1q2 hood | active 1, completed 1 |
+| [sase-1q2.9.2](../../sessions/bbugyi200.athena.sase-1q2.9.2.md) (session · 2) | sase-1q2 hood | completed 1, stopped 1 |
 | [sase-1q2.9.3](../bbugyi200.athena.sase-1q2.9.3/README.md) | sase-1q2 hood | active |
 | [sase-1q2.9.4](../bbugyi200.athena.sase-1q2.9.4/README.md) | sase-1q2 hood | active |
 | [sase-1q2.9.land](../bbugyi200.athena.sase-1q2.9.land/README.md) | sase-1q2 hood | waiting |

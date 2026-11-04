@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ddefc62`](https://github.com/sase-org/sase/commit/ddefc625e001ae255596f77a6461abb642f3929e) | perf(tui): keep footprint bump() under its 2us budget and fix hot-spare reveal subtitle race | 2026-10-31 09:00:25 EDT |
+| — | `ddefc62` | perf(tui): keep footprint bump() under its 2us budget and fix hot-spare reveal subtitle race | 2026-10-31 09:00:25 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1q2.9.2](../../sessions/bbugyi200.athena.sase-1q2.9.2.md) (session · 2) | sase-1q2.9 hood | active 1, completed 1 |
+| [sase-1q2.9.2](../../sessions/bbugyi200.athena.sase-1q2.9.2.md) (session · 2) | sase-1q2.9 hood | completed 1, stopped 1 |
 | [sase-1q2.9.3](../bbugyi200.athena.sase-1q2.9.3/README.md) | sase-1q2.9 hood | active |
 | [sase-1q2.9.4](../bbugyi200.athena.sase-1q2.9.4/README.md) | sase-1q2.9 hood | active |
 | [sase-1q2.9.land](../bbugyi200.athena.sase-1q2.9.land/README.md) | sase-1q2.9 hood | waiting |

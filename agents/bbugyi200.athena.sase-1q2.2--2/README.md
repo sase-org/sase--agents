@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1a41907`](https://github.com/sase-org/sase/commit/1a419071c20f3953562b4576d432700745d4cea6) | chore(core): ratchet sase-core-rs to 0.43.2 | 2026-10-30 15:04:39 EDT |
+| — | `1a41907` | chore(core): ratchet sase-core-rs to 0.43.2 | 2026-10-30 15:04:39 EDT |
 
 ## Neighbors
 
@@ -36,7 +36,7 @@
 | [sase-1q2.7](../bbugyi200.athena.sase-1q2.7/README.md) | sase-1q2 hood | completed |
 | [sase-1q2.8](../bbugyi200.athena.sase-1q2.8/README.md) | sase-1q2 hood | completed |
 | [sase-1q2.9.1](../../sessions/bbugyi200.athena.sase-1q2.9.1.md) (session · 11) | sase-1q2 hood | completed 6, failed 5 |
-| [sase-1q2.9.2](../../sessions/bbugyi200.athena.sase-1q2.9.2.md) (session · 2) | sase-1q2 hood | active 1, completed 1 |
+| [sase-1q2.9.2](../../sessions/bbugyi200.athena.sase-1q2.9.2.md) (session · 2) | sase-1q2 hood | completed 1, stopped 1 |
 | [sase-1q2.9.3](../bbugyi200.athena.sase-1q2.9.3/README.md) | sase-1q2 hood | active |
 | [sase-1q2.9.4](../bbugyi200.athena.sase-1q2.9.4/README.md) | sase-1q2 hood | active |
 | [sase-1q2.9.land](../bbugyi200.athena.sase-1q2.9.land/README.md) | sase-1q2 hood | waiting |

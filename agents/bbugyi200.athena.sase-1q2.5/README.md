@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dab2d70`](https://github.com/sase-org/sase/commit/dab2d701fbac135ff3e828b2d0efd330c5a19b47) | fix(workspace): wrap nested-repo enumeration errors and copy the runner import closure | 2026-10-30 14:09:36 EDT |
+| — | `dab2d70` | fix(workspace): wrap nested-repo enumeration errors and copy the runner import closure | 2026-10-30 14:09:36 EDT |
 
 ## Neighbors
 
@@ -37,7 +37,7 @@
 | [sase-1q2.7](../bbugyi200.athena.sase-1q2.7/README.md) | sase-1q2 hood | completed |
 | [sase-1q2.8](../bbugyi200.athena.sase-1q2.8/README.md) | sase-1q2 hood | completed |
 | [sase-1q2.9.1](../../sessions/bbugyi200.athena.sase-1q2.9.1.md) (session · 11) | sase-1q2 hood | completed 6, failed 5 |
-| [sase-1q2.9.2](../../sessions/bbugyi200.athena.sase-1q2.9.2.md) (session · 2) | sase-1q2 hood | active 1, completed 1 |
+| [sase-1q2.9.2](../../sessions/bbugyi200.athena.sase-1q2.9.2.md) (session · 2) | sase-1q2 hood | completed 1, stopped 1 |
 | [sase-1q2.9.3](../bbugyi200.athena.sase-1q2.9.3/README.md) | sase-1q2 hood | active |
 | [sase-1q2.9.4](../bbugyi200.athena.sase-1q2.9.4/README.md) | sase-1q2 hood | active |
 | [sase-1q2.9.land](../bbugyi200.athena.sase-1q2.9.land/README.md) | sase-1q2 hood | waiting |
