@@ -25,7 +25,7 @@
 |---|---|---|
 | [sase-1r5](../../sessions/bbugyi200.athena.sase-1r5.md) (session · 3) | ancestor | completed 3 |
 | [sase-1r5.1.1](../bbugyi200.athena.sase-1r5.1.1/README.md) | sase-1r5.1 hood | completed |
-| [sase-1r5.1.2](../bbugyi200.athena.sase-1r5.1.2/README.md) | sase-1r5.1 hood | active |
+| [sase-1r5.1.2](../../sessions/bbugyi200.athena.sase-1r5.1.2.md) (session · 3) | sase-1r5.1 hood | completed 3 |
 | [sase-1r5.1.3](../bbugyi200.athena.sase-1r5.1.3/README.md) | sase-1r5.1 hood | waiting |
 | [sase-1r5.1.4](../bbugyi200.athena.sase-1r5.1.4/README.md) | sase-1r5.1 hood | waiting |
 | [sase-1r5.1.land](../bbugyi200.athena.sase-1r5.1.land/README.md) | sase-1r5.1 hood | waiting |
