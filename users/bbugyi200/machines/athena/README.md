@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / athena
 
-**Project:** sase · **Hoods:** 2505 · **Runs:** 16217
+**Project:** sase · **Hoods:** 2506 · **Runs:** 16220
 
 | Hood | Runs | Sessions | States |
 |---|---:|---:|---|
@@ -725,6 +725,7 @@
 | [17s](hoods/17s/README.md) | 1 | 0 | completed 1 |
 | [18](hoods/18/README.md) | 1 | 0 | dismissed 1 |
 | [183](hoods/183/README.md) | 1 | 0 | completed 1 |
+| [18b](hoods/18b/README.md) | 3 | 1 | completed 3 |
 | [19](hoods/19/README.md) | 1 | 0 | completed 1 |
 | [1a](hoods/1a/README.md) | 1 | 0 | completed 1 |
 | [1c](hoods/1c/README.md) | 1 | 0 | completed 1 |
