@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1r5` · Members: 2 · Bead: [sase-1r5.1
 ```mermaid
 flowchart TD
   n0["sase-1r5.1.3--mon [active]"]
-  n1["sase-1r5.1.3--plan [active]"]
+  n1["sase-1r5.1.3--plan [completed]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-1r5.1.3--mon | active | muse-spark-1.3-contributor / muse | 2026-11-04T14:08:25.930304+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-1r5.1.3--plan | active | muse-spark-1.3-contributor / muse | 2026-11-04T13:33:23.774392+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1r5.1.3--plan/prompt.md) | — |
+| <a id="member-plan"></a>plan | sase-1r5.1.3--plan | completed | muse-spark-1.3-contributor / muse | 2026-11-04T13:33:23.774392+00:00 → 2026-11-04T14:28:52.076618+00:00 | [1](../agents/bbugyi200.athena.sase-1r5.1.3--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1r5.1.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1r5.1.3--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| plan | sase | [`8274208`](https://github.com/sase-org/sase/commit/82742081f9bdb02a282ebd209b4c2bfa1bd58d0a) | feat(retryability): adopt credential retries in the SDD store clone | 2026-11-04 09:26:41 EST |
 
 ## Neighbors
 
