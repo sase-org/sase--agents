@@ -2,29 +2,32 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1ra](../users/bbugyi200/machines/athena/hoods/sase-1ra/README.md) / sase-1ra.11
 
-Owner: `bbugyi200.athena` · Hood: `sase-1ra` · Members: 2 · Bead: [sase-1ra.11](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ra/sase-1ra.11.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1ra` · Members: 3 · Bead: [sase-1ra.11](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ra/sase-1ra.11.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
   n0["sase-1ra.11--plan [active]"]
-  n1["sase-1ra.11--gate [active]"]
+  n1["sase-1ra.11--gate [completed]"]
   n0 --> n1
+  n2["sase-1ra.11--mon [active]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | sase-1ra.11--plan | active | gpt-6-astra / codex | 2026-11-04T23:25:14.852536+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ra.11--plan/prompt.md) | — |
-| <a id="member-gate"></a>gate | sase-1ra.11--gate | active | gpt-6-astra / codex | 2026-11-04T23:34:18.465817+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-1ra.11--plan | active | gpt-6-astra / codex | 2026-11-04T23:25:14.852536+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1ra.11--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1ra.11--plan/chat.md) |
+| <a id="member-gate"></a>gate | sase-1ra.11--gate | completed | gpt-6-astra / codex | 2026-11-04T23:34:24.623261+00:00 → 2026-11-04T23:37:24.047951+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1ra.11--gate/chat.md) |
+| <a id="member-mon"></a>mon | sase-1ra.11--mon | active | gpt-6-astra / codex | 2026-11-04T23:37:21.487640+00:00 | 0 | — | — |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1ra.1](bbugyi200.athena.sase-1ra.1.md) (session · 2) | sase-1ra hood | active 2 |
+| [sase-1ra.1](bbugyi200.athena.sase-1ra.1.md) (session · 2) | sase-1ra hood | active 1, failed 1 |
 | [sase-1ra.10](../agents/bbugyi200.athena.sase-1ra.10/README.md) | sase-1ra hood | waiting |
 | [sase-1ra.12](../agents/bbugyi200.athena.sase-1ra.12/README.md) | sase-1ra hood | waiting |
 | [sase-1ra.2](../agents/bbugyi200.athena.sase-1ra.2/README.md) | sase-1ra hood | active |

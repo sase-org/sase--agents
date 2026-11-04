@@ -17,13 +17,13 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1ra.1](../../sessions/bbugyi200.athena.sase-1ra.1.md) (session · 2) | sase-1ra hood | active 2 |
+| [sase-1ra.1](../../sessions/bbugyi200.athena.sase-1ra.1.md) (session · 2) | sase-1ra hood | active 1, failed 1 |
 | [sase-1ra.10](../bbugyi200.athena.sase-1ra.10/README.md) | sase-1ra hood | waiting |
 | [sase-1ra.12](../bbugyi200.athena.sase-1ra.12/README.md) | sase-1ra hood | waiting |
 | [sase-1ra.2](../bbugyi200.athena.sase-1ra.2/README.md) | sase-1ra hood | active |
