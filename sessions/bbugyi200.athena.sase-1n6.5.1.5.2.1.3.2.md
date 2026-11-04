@@ -248,9 +248,9 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1n6.10](bbugyi200.athena.sase-1n6.10.md) (session · 2) | sase-1n6 hood | completed 1, stopped 1 |
 | [sase-1n6.10](../agents/bbugyi200.athena.sase-1n6.10/README.md) | sase-1n6 hood | waiting |
 | [sase-1n6.10.f0](../agents/bbugyi200.athena.sase-1n6.10.f0/README.md) | sase-1n6 hood | active |
-| [sase-1n6.11.1](bbugyi200.athena.sase-1n6.11.1.md) (session · 4) | sase-1n6 hood | active 1, completed 3 |
+| [sase-1n6.11.1](bbugyi200.athena.sase-1n6.11.1.md) (session · 5) | sase-1n6 hood | completed 5 |
 | [sase-1n6.11.2](../agents/bbugyi200.athena.sase-1n6.11.2/README.md) | sase-1n6 hood | completed |
-| [sase-1n6.11.3](../agents/bbugyi200.athena.sase-1n6.11.3/README.md) | sase-1n6 hood | waiting |
+| [sase-1n6.11.3](bbugyi200.athena.sase-1n6.11.3.md) (session · 3) | sase-1n6 hood | completed 3 |
 | [sase-1n6.11.4](../agents/bbugyi200.athena.sase-1n6.11.4/README.md) | sase-1n6 hood | waiting |
 | [sase-1n6.11.land](../agents/bbugyi200.athena.sase-1n6.11.land/README.md) | sase-1n6 hood | waiting |
 | [sase-1n6.2](../agents/bbugyi200.athena.sase-1n6.2/README.md) | sase-1n6 hood | completed |
