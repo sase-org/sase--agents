@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`290cd1a`](https://github.com/sase-org/sase/commit/290cd1aa7c8b646dfefd8e457acc0f9fa5c571aa) | fix(tool): record runs under the catalog repo identity and stop nested stage events (sase-18j.1) | 2026-09-24 20:52:11 EDT |
+| — | `290cd1a` | fix(tool): record runs under the catalog repo identity and stop nested stage events (sase-18j.1) | 2026-09-24 20:52:11 EDT |
 
 ## Neighbors
 
@@ -33,7 +33,7 @@
 | [sase-18j.3](../../sessions/bbugyi200.athena.sase-18j.3.md) (session · 3) | sase-18j hood | completed 2, failed 1 |
 | [sase-18j.4](../bbugyi200.athena.sase-18j.4/README.md) | sase-18j hood | completed |
 | [sase-18j.5](../../sessions/bbugyi200.athena.sase-18j.5.md) (session · 9) | sase-18j hood | completed 5, failed 4 |
-| [sase-18j.6](../../sessions/bbugyi200.athena.sase-18j.6.md) (session · 3) | sase-18j hood | active 2, failed 1 |
+| [sase-18j.6](../../sessions/bbugyi200.athena.sase-18j.6.md) (session · 3) | sase-18j hood | active 1, completed 1, failed 1 |
 | [sase-18j.7](../bbugyi200.athena.sase-18j.7/README.md) | sase-18j hood | waiting |
 | [sase-18j.8](../bbugyi200.athena.sase-18j.8/README.md) | sase-18j hood | waiting |
 | [sase-18j.9](../bbugyi200.athena.sase-18j.9/README.md) | sase-18j hood | waiting |

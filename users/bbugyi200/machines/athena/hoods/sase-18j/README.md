@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-18j
 
-**Global hood:** `bbugyi200.athena.sase-18j` · **Runs:** 24 · **Sessions:** 4 · **States:** active 2, completed 11, failed 7, waiting 4
+**Global hood:** `bbugyi200.athena.sase-18j` · **Runs:** 24 · **Sessions:** 4 · **States:** active 1, completed 12, failed 7, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -26,7 +26,7 @@
 | [sase-18j.6--plan](../../../../../../sessions/bbugyi200.athena.sase-18j.6.md#member-plan) | active | gpt-6-sol / codex | 2026-09-25T14:30:30.620187+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-18j.6--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-18j.6--plan/prompt.md) |
 | [sase-18j.7](../../../../../../agents/bbugyi200.athena.sase-18j.7/README.md) | waiting | muse-spark-1.3-contributor / muse | 20260924190903 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-18j.7/prompt.md) |
 | [sase-18j.land](../../../../../../agents/bbugyi200.athena.sase-18j.land/README.md) | waiting | gpt-6-sol / codex | 20260924190906 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-18j.land/prompt.md) |
-| [sase-18j.6--code](../../../../../../sessions/bbugyi200.athena.sase-18j.6.md#member-code) | active | gpt-5.6-terra / codex | 2026-09-25T14:38:03.337868+00:00 | 0 | — |
+| [sase-18j.6--code](../../../../../../sessions/bbugyi200.athena.sase-18j.6.md#member-code) | completed | gpt-5.6-terra / codex | 2026-09-25T14:38:03.337868+00:00 → 2026-09-25T19:09:40.566614+00:00 | 0 | — |
 | [sase-18j.4](../../../../../../agents/bbugyi200.athena.sase-18j.4/README.md) | completed | gpt-5.6-terra / codex | 2026-09-25T01:04:50.653435+00:00 → 2026-09-25T01:31:36.413929+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.sase-18j.4/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.sase-18j.4/prompt.md) |
 | [sase-18j.2--gate](../../../../../../sessions/bbugyi200.athena.sase-18j.2.md#member-gate) | failed | opus / claude | 2026-09-24T23:48:46.530567+00:00 → 2026-09-24T23:50:30.225882+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-18j.2--gate/chat.md) |
 | [sase-18j.3--gate](../../../../../../sessions/bbugyi200.athena.sase-18j.3.md#member-gate) | failed | gpt-6-sol / codex | 2026-09-25T00:36:17.595592+00:00 → 2026-09-25T00:37:20.582970+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.sase-18j.3--gate/chat.md) |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cdcbcdd`](https://github.com/sase-org/sase/commit/cdcbcdd9d3988359f1b4fc77d6d0454632a4e760) | feat(tool): add triage input backtest | 2026-09-24 22:45:15 EDT |
+| — | `cdcbcdd` | feat(tool): add triage input backtest | 2026-09-24 22:45:15 EDT |
 
 ## Neighbors
 
@@ -32,7 +32,7 @@
 | [sase-18j.2](../../sessions/bbugyi200.athena.sase-18j.2.md) (session · 3) | sase-18j hood | completed 2, failed 1 |
 | [sase-18j.3](../../sessions/bbugyi200.athena.sase-18j.3.md) (session · 3) | sase-18j hood | completed 2, failed 1 |
 | [sase-18j.4](../bbugyi200.athena.sase-18j.4/README.md) | sase-18j hood | completed |
-| [sase-18j.6](../../sessions/bbugyi200.athena.sase-18j.6.md) (session · 3) | sase-18j hood | active 2, failed 1 |
+| [sase-18j.6](../../sessions/bbugyi200.athena.sase-18j.6.md) (session · 3) | sase-18j hood | active 1, completed 1, failed 1 |
 | [sase-18j.7](../bbugyi200.athena.sase-18j.7/README.md) | sase-18j hood | waiting |
 | [sase-18j.8](../bbugyi200.athena.sase-18j.8/README.md) | sase-18j hood | waiting |
 | [sase-18j.9](../bbugyi200.athena.sase-18j.9/README.md) | sase-18j hood | waiting |

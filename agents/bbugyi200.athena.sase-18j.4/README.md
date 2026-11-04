@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eb64073`](https://github.com/sase-org/sase/commit/eb640735540d73d728e31ecfb1323fe09ba84dd4) | feat(tool): add opt-in stage continuation | 2026-09-24 21:27:04 EDT |
+| — | `eb64073` | feat(tool): add opt-in stage continuation | 2026-09-24 21:27:04 EDT |
 
 ## Neighbors
 
@@ -33,7 +33,7 @@
 | [sase-18j.2](../../sessions/bbugyi200.athena.sase-18j.2.md) (session · 3) | sase-18j hood | completed 2, failed 1 |
 | [sase-18j.3](../../sessions/bbugyi200.athena.sase-18j.3.md) (session · 3) | sase-18j hood | completed 2, failed 1 |
 | [sase-18j.5](../../sessions/bbugyi200.athena.sase-18j.5.md) (session · 9) | sase-18j hood | completed 5, failed 4 |
-| [sase-18j.6](../../sessions/bbugyi200.athena.sase-18j.6.md) (session · 3) | sase-18j hood | active 2, failed 1 |
+| [sase-18j.6](../../sessions/bbugyi200.athena.sase-18j.6.md) (session · 3) | sase-18j hood | active 1, completed 1, failed 1 |
 | [sase-18j.7](../bbugyi200.athena.sase-18j.7/README.md) | sase-18j hood | waiting |
 | [sase-18j.8](../bbugyi200.athena.sase-18j.8/README.md) | sase-18j hood | waiting |
 | [sase-18j.9](../bbugyi200.athena.sase-18j.9/README.md) | sase-18j hood | waiting |

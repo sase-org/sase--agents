@@ -28,7 +28,7 @@
 | [sase-18j.3](../../sessions/bbugyi200.athena.sase-18j.3.md) (session · 3) | sase-18j hood | completed 2, failed 1 |
 | [sase-18j.4](../bbugyi200.athena.sase-18j.4/README.md) | sase-18j hood | completed |
 | [sase-18j.5](../../sessions/bbugyi200.athena.sase-18j.5.md) (session · 9) | sase-18j hood | completed 5, failed 4 |
-| [sase-18j.6](../../sessions/bbugyi200.athena.sase-18j.6.md) (session · 3) | sase-18j hood | active 2, failed 1 |
+| [sase-18j.6](../../sessions/bbugyi200.athena.sase-18j.6.md) (session · 3) | sase-18j hood | active 1, completed 1, failed 1 |
 | [sase-18j.8](../bbugyi200.athena.sase-18j.8/README.md) | sase-18j hood | waiting |
 | [sase-18j.9](../bbugyi200.athena.sase-18j.9/README.md) | sase-18j hood | waiting |
 | [sase-18j.land](../bbugyi200.athena.sase-18j.land/README.md) | sase-18j hood | waiting |

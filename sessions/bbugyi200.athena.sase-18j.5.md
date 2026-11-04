@@ -45,7 +45,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 3 | sase | [`cdcbcdd`](https://github.com/sase-org/sase/commit/cdcbcdd9d3988359f1b4fc77d6d0454632a4e760) | feat(tool): add triage input backtest | 2026-09-24 22:45:15 EDT |
+| 3 | — | `cdcbcdd` | feat(tool): add triage input backtest | 2026-09-24 22:45:15 EDT |
 
 ## Neighbors
 
@@ -55,7 +55,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-18j.2](bbugyi200.athena.sase-18j.2.md) (session · 3) | sase-18j hood | completed 2, failed 1 |
 | [sase-18j.3](bbugyi200.athena.sase-18j.3.md) (session · 3) | sase-18j hood | completed 2, failed 1 |
 | [sase-18j.4](../agents/bbugyi200.athena.sase-18j.4/README.md) | sase-18j hood | completed |
-| [sase-18j.6](bbugyi200.athena.sase-18j.6.md) (session · 3) | sase-18j hood | active 2, failed 1 |
+| [sase-18j.6](bbugyi200.athena.sase-18j.6.md) (session · 3) | sase-18j hood | active 1, completed 1, failed 1 |
 | [sase-18j.7](../agents/bbugyi200.athena.sase-18j.7/README.md) | sase-18j hood | waiting |
 | [sase-18j.8](../agents/bbugyi200.athena.sase-18j.8/README.md) | sase-18j hood | waiting |
 | [sase-18j.9](../agents/bbugyi200.athena.sase-18j.9/README.md) | sase-18j hood | waiting |

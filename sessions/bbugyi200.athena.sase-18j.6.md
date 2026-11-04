@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-18j.6--gate [failed]"]
   n1["sase-18j.6--plan [active]"]
   n0 --> n1
-  n2["sase-18j.6--code [active]"]
+  n2["sase-18j.6--code [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-18j.6--gate | failed | gpt-6-sol / codex | 2026-09-25T14:36:10.197389+00:00 → 2026-09-25T14:37:38.478562+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-18j.6--gate/chat.md) |
 | <a id="member-plan"></a>plan | sase-18j.6--plan | active | gpt-6-sol / codex | 2026-09-25T14:30:30.620187+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-18j.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-18j.6--plan/chat.md) |
-| <a id="member-code"></a>code | sase-18j.6--code | active | gpt-5.6-terra / codex | 2026-09-25T14:38:03.337868+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-18j.6--code | completed | gpt-5.6-terra / codex | 2026-09-25T14:38:03.337868+00:00 → 2026-09-25T19:09:40.566614+00:00 | 0 | — | — |
 
 ## Neighbors
 
