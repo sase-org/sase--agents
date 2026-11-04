@@ -26,5 +26,5 @@
 | [sase-1r8.2](../bbugyi200.athena.sase-1r8.2/README.md) | sase-1r8 hood | completed |
 | [sase-1r8.3](../../sessions/bbugyi200.athena.sase-1r8.3.md) (session · 3) | sase-1r8 hood | completed 2, failed 1 |
 | [sase-1r8.4](../../sessions/bbugyi200.athena.sase-1r8.4.md) (session · 3) | sase-1r8 hood | completed 3 |
-| [sase-1r8.5](../bbugyi200.athena.sase-1r8.5/README.md) | sase-1r8 hood | waiting |
+| [sase-1r8.5](../bbugyi200.athena.sase-1r8.5/README.md) | sase-1r8 hood | completed |
 | [sase-1r8.6](../bbugyi200.athena.sase-1r8.6/README.md) | sase-1r8 hood | waiting |

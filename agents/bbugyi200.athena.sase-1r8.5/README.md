@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1r8](../../users/bbugyi200/machines/athena/hoods/sase-1r8/README.md) / sase-1r8.5
 
-**Global name:** `bbugyi200.athena.sase-1r8.5` · **State:** waiting · **Source run:** `run-98924268d64416fade04695cfacafb43`
+**Global name:** `bbugyi200.athena.sase-1r8.5` · **State:** completed · **Source run:** `run-98924268d64416fade04695cfacafb43`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1r8
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1r8](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1r8/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261104135622
-- Commits: 0
+- Timing: 2026-11-04T21:21:33.103573+00:00 → 2026-11-04T22:24:41.767616+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`1b62dfb`](https://github.com/sase-org/sase/commit/1b62dfb9bdb52b9a81a7755f8f6184c5d1cc2ec2) | feat(agent-publication): park protection-withheld requests | 2026-11-04 17:21:54 EST |
 
 ## Neighbors
 
