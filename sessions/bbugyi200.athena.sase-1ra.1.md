@@ -26,7 +26,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1ra.10](../agents/bbugyi200.athena.sase-1ra.10/README.md) | sase-1ra hood | waiting |
 | [sase-1ra.11](bbugyi200.athena.sase-1ra.11.md) (session · 3) | sase-1ra hood | active 1, completed 2 |
-| [sase-1ra.11.1.1](bbugyi200.athena.sase-1ra.11.1.1.md) (session · 2) | sase-1ra hood | active 2 |
+| [sase-1ra.11.1.1](bbugyi200.athena.sase-1ra.11.1.1.md) (session · 2) | sase-1ra hood | active 1, completed 1 |
 | [sase-1ra.11.1.2](../agents/bbugyi200.athena.sase-1ra.11.1.2/README.md) | sase-1ra hood | waiting |
 | [sase-1ra.11.1.3](../agents/bbugyi200.athena.sase-1ra.11.1.3/README.md) | sase-1ra hood | waiting |
 | [sase-1ra.11.1.4](../agents/bbugyi200.athena.sase-1ra.11.1.4/README.md) | sase-1ra hood | waiting |
@@ -37,8 +37,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1ra.3](../agents/bbugyi200.athena.sase-1ra.3/README.md) | sase-1ra hood | completed |
 | [sase-1ra.4](bbugyi200.athena.sase-1ra.4.md) (session · 3) | sase-1ra hood | completed 2, waiting 1 |
 | [sase-1ra.5](../agents/bbugyi200.athena.sase-1ra.5/README.md) | sase-1ra hood | completed |
-| [sase-1ra.6](bbugyi200.athena.sase-1ra.6.md) (session · 2) | sase-1ra hood | active 1, completed 1 |
-| [sase-1ra.7](bbugyi200.athena.sase-1ra.7.md) (session · 2) | sase-1ra hood | active 2 |
+| [sase-1ra.6](bbugyi200.athena.sase-1ra.6.md) (session · 5) | sase-1ra hood | active 1, completed 2, failed 2 |
+| [sase-1ra.7](bbugyi200.athena.sase-1ra.7.md) (session · 2) | sase-1ra hood | active 1, failed 1 |
 | [sase-1ra.8](../agents/bbugyi200.athena.sase-1ra.8/README.md) | sase-1ra hood | waiting |
 | [sase-1ra.9](../agents/bbugyi200.athena.sase-1ra.9/README.md) | sase-1ra hood | waiting |
 | [sase-1ra.land](../agents/bbugyi200.athena.sase-1ra.land/README.md) | sase-1ra hood | waiting |
