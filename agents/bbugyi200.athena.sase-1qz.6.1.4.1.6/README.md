@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1qz](../../users/bbugyi200/machines/athena/hoods/sase-1qz/README.md) / sase-1qz.6.1.4.1.6
 
-**Global name:** `bbugyi200.athena.sase-1qz.6.1.4.1.6` · **State:** waiting · **Source run:** `run-019aec409624bf34d9a24c5aa2367780`
+**Global name:** `bbugyi200.athena.sase-1qz.6.1.4.1.6` · **State:** completed · **Source run:** `run-019aec409624bf34d9a24c5aa2367780`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1qz
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1qz.6.1.4.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1qz/sase-1qz.6.1.4.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261105101448
-- Commits: 0
+- Timing: 2026-11-05T21:44:56.035857+00:00 → 2026-11-05T22:52:41.069229+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`ef11650`](https://github.com/sase-org/sase/commit/ef11650ad40dd125d3b7c0cbace7ad6d7481e076) | test(agent): verify hijack recovery production transaction and closure evidence | 2026-11-05 17:51:01 EST |
 
 ## Neighbors
 
