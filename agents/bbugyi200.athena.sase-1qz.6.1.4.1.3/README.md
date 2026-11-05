@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1qz](../../users/bbugyi200/machines/athena/hoods/sase-1qz/README.md) / sase-1qz.6.1.4.1.3
 
-**Global name:** `bbugyi200.athena.sase-1qz.6.1.4.1.3` · **State:** waiting · **Source run:** `run-d464e6a594cf17de0b167060f53cf6f1`
+**Global name:** `bbugyi200.athena.sase-1qz.6.1.4.1.3` · **State:** completed · **Source run:** `run-d464e6a594cf17de0b167060f53cf6f1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1qz
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1qz.6.1.4.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1qz/sase-1qz.6.1.4.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261105101446
-- Commits: 0
+- Timing: 2026-11-05T17:03:43.631409+00:00 → 2026-11-05T19:23:42.568025+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`7896ea6`](https://github.com/sase-org/sase/commit/7896ea657b8ef77c72f16cb309ca70f100e05381) | feat(agent-recovery): persist pinned recovery admission | 2026-11-05 14:21:08 EST |
 
 ## Neighbors
 
