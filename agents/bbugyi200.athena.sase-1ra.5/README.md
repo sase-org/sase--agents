@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1ra](../../users/bbugyi200/machines/athena/hoods/sase-1ra/README.md) / sase-1ra.5
 
-**Global name:** `bbugyi200.athena.sase-1ra.5` · **State:** active · **Source run:** `run-9c69adbc536052d083a30c90270984d1`
+**Global name:** `bbugyi200.athena.sase-1ra.5` · **State:** completed · **Source run:** `run-9c69adbc536052d083a30c90270984d1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1ra
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1ra](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ra/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-04T23:07:14.057619+00:00
-- Commits: 0
+- Timing: 2026-11-04T23:07:14.057619+00:00 → 2026-11-05T00:00:05.491324+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`45bcf6f`](https://github.com/sase-org/sase/commit/45bcf6fe398e1a29e4d6985d820f1ccc9d9903d0) | test(false-red): fix keymap warmup, vcs mru mock, ipc socket path | 2026-11-04 18:58:37 EST |
 
 ## Neighbors
 

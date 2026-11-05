@@ -32,7 +32,7 @@
 | [sase-1ra.2](../bbugyi200.athena.sase-1ra.2/README.md) | sase-1ra hood | completed |
 | [sase-1ra.3](../bbugyi200.athena.sase-1ra.3/README.md) | sase-1ra hood | completed |
 | [sase-1ra.4](../../sessions/bbugyi200.athena.sase-1ra.4.md) (session · 3) | sase-1ra hood | completed 2, waiting 1 |
-| [sase-1ra.5](../bbugyi200.athena.sase-1ra.5/README.md) | sase-1ra hood | active |
+| [sase-1ra.5](../bbugyi200.athena.sase-1ra.5/README.md) | sase-1ra hood | completed |
 | [sase-1ra.7](../../sessions/bbugyi200.athena.sase-1ra.7.md) (session · 2) | sase-1ra hood | active 2 |
 | [sase-1ra.8](../bbugyi200.athena.sase-1ra.8/README.md) | sase-1ra hood | waiting |
 | [sase-1ra.9](../bbugyi200.athena.sase-1ra.9/README.md) | sase-1ra hood | waiting |
