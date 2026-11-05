@@ -1,0 +1,1 @@
+#gh:gh_sase-org__sase #coder:~/.sase/plans/202611/continuation_finalizer_inheritance.md %m:gpt-6-astra
