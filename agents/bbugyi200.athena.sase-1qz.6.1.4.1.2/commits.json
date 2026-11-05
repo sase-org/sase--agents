@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e4d7c09ea57751301d4a32ddb35214dc"}
+{"commits":[{"committed_at":1793897968,"sha":"c6e2c87ba2a826d8b10b4e7418da8bd1c5209167","subject":"fix(agent-hijack): prepare and pin recovery prompts"}],"schema_version":2,"source_run_id":"run-e4d7c09ea57751301d4a32ddb35214dc"}
