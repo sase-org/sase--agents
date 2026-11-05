@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a1e9d4a7df871d2136d9d7fd81ec787b"}
+{"commits":[{"committed_at":1793839579,"sha":"1bd2816d13f910421d2ba07ba8528c2015ff4a9b","subject":"test(agents-sync): pin synthetic scanner fixtures to live rules version"}],"schema_version":2,"source_run_id":"run-a1e9d4a7df871d2136d9d7fd81ec787b"}

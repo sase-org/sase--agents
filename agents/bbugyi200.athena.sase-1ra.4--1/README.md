@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1ra](../../users/bbugyi200/machines/athena/hoods/sase-1ra/README.md) / [sase-1ra.4](../../sessions/bbugyi200.athena.sase-1ra.4.md) / sase-1ra.4--1
 
-**Global name:** `bbugyi200.athena.sase-1ra.4--1` · **State:** waiting · **Source run:** `run-0f5c305706f3d50f310bfd7f8ca15761`
+**Global name:** `bbugyi200.athena.sase-1ra.4--1` · **State:** completed · **Source run:** `run-0f5c305706f3d50f310bfd7f8ca15761`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1ra
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1ra.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ra/sase-1ra.4.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261104184722
-- Commits: 0
+- Timing: 2026-11-05T00:00:28.994724+00:00 → 2026-11-05T00:47:12.095374+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`0c67730`](https://github.com/sase-org/sase/commit/0c677302d95d9f1eb45c51b4697c2e978ac25393) | feat(tests): add fair FIFO worker-token leases | 2026-11-04 19:46:04 EST |
 
 ## Neighbors
 
@@ -35,7 +41,7 @@
 | [sase-1ra.2](../bbugyi200.athena.sase-1ra.2/README.md) | sase-1ra hood | completed |
 | [sase-1ra.3](../bbugyi200.athena.sase-1ra.3/README.md) | sase-1ra hood | completed |
 | [sase-1ra.5](../bbugyi200.athena.sase-1ra.5/README.md) | sase-1ra hood | completed |
-| [sase-1ra.6](../../sessions/bbugyi200.athena.sase-1ra.6.md) (session · 5) | sase-1ra hood | active 1, completed 2, failed 2 |
+| [sase-1ra.6](../../sessions/bbugyi200.athena.sase-1ra.6.md) (session · 8) | sase-1ra hood | active 1, completed 4, failed 3 |
 | [sase-1ra.7](../../sessions/bbugyi200.athena.sase-1ra.7.md) (session · 2) | sase-1ra hood | active 1, failed 1 |
 | [sase-1ra.8](../bbugyi200.athena.sase-1ra.8/README.md) | sase-1ra hood | waiting |
 | [sase-1ra.9](../bbugyi200.athena.sase-1ra.9/README.md) | sase-1ra hood | waiting |

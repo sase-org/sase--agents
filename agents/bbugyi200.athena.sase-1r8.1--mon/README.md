@@ -15,6 +15,10 @@
 - Timing: 2026-11-04T19:32:50.251520+00:00 → 2026-11-04T19:46:47.194964+00:00
 - Commits: 0
 
+## Files
+
+[Chat](chat.md)
+
 ## Neighbors
 
 | Agent | Relation | State |
@@ -23,5 +27,5 @@
 | [sase-1r8.3](../../sessions/bbugyi200.athena.sase-1r8.3.md) (session · 3) | sase-1r8 hood | completed 2, failed 1 |
 | [sase-1r8.4](../../sessions/bbugyi200.athena.sase-1r8.4.md) (session · 3) | sase-1r8 hood | completed 3 |
 | [sase-1r8.5](../bbugyi200.athena.sase-1r8.5/README.md) | sase-1r8 hood | completed |
-| [sase-1r8.6](../bbugyi200.athena.sase-1r8.6/README.md) | sase-1r8 hood | waiting |
-| [sase-1r8.land](../bbugyi200.athena.sase-1r8.land/README.md) | sase-1r8 hood | waiting |
+| [sase-1r8.6](../../sessions/bbugyi200.athena.sase-1r8.6.md) (session · 3) | sase-1r8 hood | completed 3 |
+| [sase-1r8.land](../bbugyi200.athena.sase-1r8.land/README.md) | sase-1r8 hood | completed |
