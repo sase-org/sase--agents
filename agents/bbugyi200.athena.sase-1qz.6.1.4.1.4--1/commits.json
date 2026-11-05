@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-cd12ffa98e9f48645aa785715a04297e"}
+{"commits":[{"committed_at":1793900756,"sha":"3fe8d5d34b7a0530860ff8f0e7922490dcbdc56f","subject":"feat(recovery): enforce bootstrap inheritance before provider execution"}],"schema_version":2,"source_run_id":"run-cd12ffa98e9f48645aa785715a04297e"}
