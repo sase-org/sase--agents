@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1qz](../../users/bbugyi200/machines/athena/hoods/sase-1qz/README.md) / [sase-1qz.6.1.4](../../sessions/bbugyi200.athena.sase-1qz.6.1.4.md) / sase-1qz.6.1.4--mon
 
-**Global name:** `bbugyi200.athena.sase-1qz.6.1.4--mon` · **State:** failed · **Source run:** `run-72e5e6e97c70333a8fe51466a8f55475`
+**Global name:** `bbugyi200.athena.sase-1qz.6.1.4--mon` · **State:** completed · **Source run:** `run-6cfeb5a850edc66ade99c37f48ba96ad`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1qz
 
 ## Summary
 
 - Bead: [sase-1qz.6.1.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1qz/sase-1qz.6.1.4.md)
-- Epic: [sase-1qz.6.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1qz/sase-1qz.6.1.md)
-- Model: muse-spark-1.3-contributor
-- Provider: muse
-- Timing: 2026-11-04T21:36:03.154654+00:00 → 2026-11-04T22:17:42.444209+00:00
+- Model: gpt-6-astra
+- Provider: codex
+- Timing: 2026-11-05T15:11:57.641886+00:00 → 2026-11-05T15:15:34.167454+00:00
 - Commits: 0
 
 ## Files
@@ -23,6 +22,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
+| [sase-1qz.6.1.4.1.1](../bbugyi200.athena.sase-1qz.6.1.4.1.1/README.md) | descendant | active |
+| [sase-1qz.6.1.4.1.2](../bbugyi200.athena.sase-1qz.6.1.4.1.2/README.md) | descendant | active |
+| [sase-1qz.6.1.4.1.4](../bbugyi200.athena.sase-1qz.6.1.4.1.4/README.md) | descendant | active |
 | [sase-1qz.6.1.2](../bbugyi200.athena.sase-1qz.6.1.2/README.md) | sase-1qz.6.1 hood | completed |
 | [sase-1qz.6.1.5](../bbugyi200.athena.sase-1qz.6.1.5/README.md) | sase-1qz.6.1 hood | waiting |
 | [sase-1qz.6.1.6](../bbugyi200.athena.sase-1qz.6.1.6/README.md) | sase-1qz.6.1 hood | waiting |

@@ -1,6 +1,6 @@
-#gh:gh_sase-org__sase
 %id(4, clan=sase-1qz.6.1, bead=sase-1qz.6.1.4)
-%model:@medium
+#gh:gh_sase-org__sase
+%m:gpt-6-astra 
 %auto
 %w(sase-1qz.6.1.2, for_epic=false)
 %w(bead=sase-1qz.6.1.2)
