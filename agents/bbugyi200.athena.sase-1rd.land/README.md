@@ -24,5 +24,5 @@
 |---|---|---|
 | [sase-1rd.1](../bbugyi200.athena.sase-1rd.1/README.md) | sase-1rd hood | completed |
 | [sase-1rd.2](../../sessions/bbugyi200.athena.sase-1rd.2.md) (session · 3) | sase-1rd hood | completed 2, failed 1 |
-| [sase-1rd.3](../bbugyi200.athena.sase-1rd.3/README.md) | sase-1rd hood | waiting |
+| [sase-1rd.3](../bbugyi200.athena.sase-1rd.3/README.md) | sase-1rd hood | completed |
 | [sase-1rd.4](../bbugyi200.athena.sase-1rd.4/README.md) | sase-1rd hood | waiting |
