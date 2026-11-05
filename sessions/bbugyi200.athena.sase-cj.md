@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-cj` · Members: 2 · Bead: [sase-cj](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-cj--code [active]"]
+  n0["sase-cj--code [completed]"]
   n1["sase-cj--plan [active]"]
   n0 --> n1
 ```
@@ -17,5 +17,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-cj--code | active | gpt-5.5 / codex | 2026-08-10T13:33:11.927899+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | sase-cj--code | completed | gpt-5.5 / codex | 2026-08-10T13:33:11.927899+00:00 | 0 | — | — |
 | <a id="member-plan"></a>plan | sase-cj--plan | active | gpt-5.6-sol / codex | 2026-08-10T13:28:04.686025+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-cj--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-cj--plan/chat.md) |
