@@ -28,4 +28,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [toobig-9i.stale\_running\_cleanup.0](../bbugyi200.athena.toobig-9i.stale_running_cleanup.0/README.md) | toobig-9i hood | completed |
-| [toobig-9i.test\_run\_agent\_runner\_notifications.0](../bbugyi200.athena.toobig-9i.test_run_agent_runner_notifications.0/README.md) | toobig-9i hood | waiting |
+| [toobig-9i.test\_run\_agent\_runner\_notifications.0](../bbugyi200.athena.toobig-9i.test_run_agent_runner_notifications.0/README.md) | toobig-9i hood | completed |
