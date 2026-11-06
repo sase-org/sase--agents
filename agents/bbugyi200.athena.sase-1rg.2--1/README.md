@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1rg](../../users/bbugyi200/machines/athena/hoods/sase-1rg/README.md) / [sase-1rg.2](../../sessions/bbugyi200.athena.sase-1rg.2.md) / sase-1rg.2--1
 
-**Global name:** `bbugyi200.athena.sase-1rg.2--1` · **State:** active · **Source run:** `run-284aed31a51439a40a39e04c555ab8d1`
+**Global name:** `bbugyi200.athena.sase-1rg.2--1` · **State:** completed · **Source run:** `run-284aed31a51439a40a39e04c555ab8d1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1rg
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1rg.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1rg/sase-1rg.2.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-06T14:11:47.663311+00:00
-- Commits: 0
+- Timing: 2026-11-06T14:11:47.663311+00:00 → 2026-11-06T16:16:06.383504+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`b313400`](https://github.com/sase-org/sase/commit/b313400ebda21c209ee086264778825ae0ca4816) | fix(agents-sync): recover publication rebase conflicts and clean pass commits | 2026-11-06 11:14:59 EST |
 
 ## Neighbors
 

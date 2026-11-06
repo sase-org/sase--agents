@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1rg` · Members: 3 · Bead: [sase-1rg.2
 
 ```mermaid
 flowchart TD
-  n0["sase-1rg.2--1 [active]"]
+  n0["sase-1rg.2--1 [completed]"]
   n1["sase-1rg.2--plan [completed]"]
   n0 --> n1
   n2["sase-1rg.2--mon [completed]"]
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-1rg.2--1 | active | gpt-6-luna / codex | 2026-11-06T14:11:47.663311+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1rg.2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1rg.2--1 | completed | gpt-6-luna / codex | 2026-11-06T14:11:47.663311+00:00 → 2026-11-06T16:16:06.383504+00:00 | [1](../agents/bbugyi200.athena.sase-1rg.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1rg.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1rg.2--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1rg.2--plan | completed | gpt-6-luna / codex | 2026-11-06T13:25:20.264460+00:00 → 2026-11-06T14:07:41.342703+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1rg.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1rg.2--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-1rg.2--mon | completed | gpt-6-luna / codex | 2026-11-06T14:06:25.692195+00:00 → 2026-11-06T14:09:43.221662+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1rg.2--mon/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`b313400`](https://github.com/sase-org/sase/commit/b313400ebda21c209ee086264778825ae0ca4816) | fix(agents-sync): recover publication rebase conflicts and clean pass commits | 2026-11-06 11:14:59 EST |
 
 ## Neighbors
 
