@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `58` · Members: 9
 ```mermaid
 flowchart TD
   n0["58--code [completed]"]
-  n1["58--3 [active]"]
+  n1["58--3 [completed]"]
   n0 --> n1
   n2["58--mon [failed]"]
   n0 --> n2
@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 58--code | completed | muse-spark-1.3-contributor / muse | 2026-10-05T16:03:16.327533+00:00 → 2026-10-05T16:28:17.044058+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.58--code/chat.md) |
-| <a id="member-3"></a>3 | 58--3 | active | muse-spark-1.3-contributor / muse | 2026-10-05T18:10:04.490232+00:00 | [1](../agents/bbugyi200.apollo.58--3/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.58--3/prompt.md) | — |
+| <a id="member-3"></a>3 | 58--3 | completed | muse-spark-1.3-contributor / muse | 2026-10-05T18:10:04.490232+00:00 → 2026-10-05T18:13:51.331781+00:00 | [1](../agents/bbugyi200.apollo.58--3/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.58--3/prompt.md) | — |
 | <a id="member-mon"></a>mon | 58--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-05T16:27:39.144345+00:00 → 2026-10-05T16:35:59.135013+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.58--mon/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | 58--mon-1 | failed | muse-spark-1.3-contributor / muse | 2026-10-05T18:02:50.367356+00:00 → 2026-10-05T18:10:04.757782+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.58--mon-1/chat.md) |
 | <a id="member-plan"></a>plan | 58--plan | completed | gpt-6-astra / codex | 2026-10-05T15:57:54.415460+00:00 → 2026-10-05T16:28:17.044058+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.58--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.58--plan/chat.md) |
@@ -45,5 +45,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`78e0676`](https://github.com/sase-org/sase/commit/78e0676ad36e1b7266d3495df9ce99a751764ae0) | feat(init): initialize all active projects | 2026-07-10 19:46:15 EDT |
-| 3 | sase | [`235e9ba`](https://github.com/sase-org/sase/commit/235e9ba0c9ccc85e462ac8553d88ac14e84a8d89) | feat(ace): copy highlighted stashed prompt with y key | 2026-10-05 14:11:42 EDT |
+| — | — | `78e0676` | feat(init): initialize all active projects | 2026-07-10 19:46:15 EDT |
+| 3 | — | `235e9ba` | feat(ace): copy highlighted stashed prompt with y key | 2026-10-05 14:11:42 EDT |

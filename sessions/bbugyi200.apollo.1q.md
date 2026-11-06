@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["1q--code [completed]"]
   n0 --> n3
-  n4["1q--2 [active]"]
+  n4["1q--2 [completed]"]
   n0 --> n4
   n5["1q--gate [failed]"]
   n0 --> n5
@@ -31,6 +31,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | 1q--plan | completed | grok-4.6 / grok | 2026-09-25T15:09:34.055339+00:00 → 2026-09-25T15:22:00.908375+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.1q--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.1q--plan/chat.md) |
 | <a id="member-1"></a>1 | 1q--1 | completed | gpt-5.6-terra / codex | 2026-09-25T15:32:46.542397+00:00 → 2026-09-25T15:35:36.918630+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.1q--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.1q--1/chat.md) |
 | <a id="member-code"></a>code | 1q--code | completed | gpt-5.6-terra / codex | 2026-09-25T15:16:26.485959+00:00 → 2026-09-25T15:22:00.908375+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.1q--code/chat.md) |
-| <a id="member-2"></a>2 | 1q--2 | active | grok-4.6 / grok | 2026-09-25T15:36:05.881314+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.1q--2/prompt.md) | — |
+| <a id="member-2"></a>2 | 1q--2 | completed | grok-4.6 / grok | 2026-09-25T15:36:05.881314+00:00 → 2026-09-25T15:38:54.789212+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.1q--2/prompt.md) | — |
 | <a id="member-gate"></a>gate | 1q--gate | failed | grok-4.6 / grok | 2026-09-25T15:15:51.068897+00:00 → 2026-09-25T15:16:03.013019+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.1q--gate/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 1q--mon-0 | failed | gpt-5.6-terra / codex | 2026-09-25T15:35:06.646559+00:00 → 2026-09-25T15:36:06.212544+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.1q--mon-0/chat.md) |

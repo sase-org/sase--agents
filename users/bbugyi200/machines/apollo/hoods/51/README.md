@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / 51
 
-**Global hood:** `bbugyi200.apollo.51` · **Runs:** 10 · **Sessions:** 1 · **States:** active 1, completed 5, failed 4
+**Global hood:** `bbugyi200.apollo.51` · **Runs:** 10 · **Sessions:** 1 · **States:** completed 6, failed 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [51--code](../../../../../../sessions/bbugyi200.apollo.51.md#member-code) | completed | gpt-6-luna / codex | 2026-10-04T14:01:01.817644+00:00 → 2026-10-04T14:56:42.908870+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.51--code/chat.md) |
-| [51--3](../../../../../../sessions/bbugyi200.apollo.51.md#member-3) | active | gpt-6-luna / codex | 2026-10-04T16:25:11.450261+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.51--3/prompt.md) |
+| [51--3](../../../../../../sessions/bbugyi200.apollo.51.md#member-3) | completed | gpt-6-luna / codex | 2026-10-04T16:25:11.450261+00:00 → 2026-10-04T17:12:15.965017+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.51--3/prompt.md) |
 | [51.f1](../../../../../../agents/bbugyi200.apollo.51.f1/README.md) | completed | — | 2026-06-10T14:01:42+00:00 → 2026-06-10T14:06:17+00:00 | 2 | — |
 | [51--mon-1](../../../../../../sessions/bbugyi200.apollo.51.md#member-mon-1) | failed | gpt-6-luna / codex | 2026-10-04T16:18:03.356241+00:00 → 2026-10-04T16:25:11.938897+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.51--mon-1/chat.md) |
 | [51--mon](../../../../../../sessions/bbugyi200.apollo.51.md#member-mon) | failed | gpt-6-luna / codex | 2026-10-04T14:55:30.082831+00:00 → 2026-10-04T15:21:28.219675+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.51--mon/chat.md) |

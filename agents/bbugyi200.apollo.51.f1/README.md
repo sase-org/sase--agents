@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8093ba0`](https://github.com/sase-org/sase/commit/8093ba03aa80639a7b7b82c16670830a596504bf) | chore: Add SDD prompt and plan for tui\_perf\_background\_tasks | 2026-06-10 10:01:42 EDT |
-| sase | [`304731d`](https://github.com/sase-org/sase/commit/304731d3928e632db4fd6b1a2a0267b3ea8b070b) | chore: document tracked TUI background tasks | 2026-06-10 10:06:17 EDT |
+| — | `8093ba0` | chore: Add SDD prompt and plan for tui\_perf\_background\_tasks | 2026-06-10 10:01:42 EDT |
+| — | `304731d` | chore: document tracked TUI background tasks | 2026-06-10 10:06:17 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [51](../../sessions/bbugyi200.apollo.51.md) (session · 9) | ancestor | active 1, completed 4, failed 4 |
+| [51](../../sessions/bbugyi200.apollo.51.md) (session · 9) | ancestor | completed 5, failed 4 |
