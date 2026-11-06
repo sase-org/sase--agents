@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a0244d7`](https://github.com/sase-org/sase/commit/a0244d75993b74a09f054019be583c38f7f51ef7) | fix(muse): coalesce output deltas into one live-reply chunk per run stream | 2026-09-20 13:25:46 EDT |
+| — | `a0244d7` | fix(muse): coalesce output deltas into one live-reply chunk per run stream | 2026-09-20 13:25:46 EDT |
 
 ## Neighbors
 
@@ -29,4 +29,4 @@
 |---|---|---|
 | [15.cdx.f1](../bbugyi200.apollo.15.cdx.f1/README.md) | descendant | completed |
 | [15.cdx.f1.w1](../bbugyi200.apollo.15.cdx.f1.w1/README.md) | descendant | completed |
-| [15.w0](../../sessions/bbugyi200.apollo.15.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [15.w0](../../sessions/bbugyi200.apollo.15.w0.md) (session · 3) | descendant | completed 2, failed 1 |

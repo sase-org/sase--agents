@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`36d4c26`](https://github.com/sase-org/sase/commit/36d4c26c04437006291801f64390edf880bb48c2) | chore: Add SDD prompt and plan for single\_inactive\_project\_state\_1 | 2026-06-02 12:52:23 EDT |
-| sase | [`eff6eaa`](https://github.com/sase-org/sase/commit/eff6eaa5d8dde6873cf4b6497c3d6ea0890fa8eb) | feat: consolidate project lifecycle inactive state | 2026-06-02 13:20:26 EDT |
+| — | `36d4c26` | chore: Add SDD prompt and plan for single\_inactive\_project\_state\_1 | 2026-06-02 12:52:23 EDT |
+| — | `eff6eaa` | feat: consolidate project lifecycle inactive state | 2026-06-02 13:20:26 EDT |
 
 ## Neighbors
 
@@ -26,4 +26,4 @@
 |---|---|---|
 | [15](../../sessions/bbugyi200.apollo.15.md) (session · 3) | ancestor | completed 2, failed 1 |
 | [15.cdx.f1.w1](../bbugyi200.apollo.15.cdx.f1.w1/README.md) | descendant | completed |
-| [15.w0](../../sessions/bbugyi200.apollo.15.w0.md) (session · 3) | 15 hood | active 1, completed 1, failed 1 |
+| [15.w0](../../sessions/bbugyi200.apollo.15.w0.md) (session · 3) | 15 hood | completed 2, failed 1 |

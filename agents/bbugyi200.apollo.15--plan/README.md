@@ -23,4 +23,4 @@
 |---|---|---|
 | [15.cdx.f1](../bbugyi200.apollo.15.cdx.f1/README.md) | descendant | completed |
 | [15.cdx.f1.w1](../bbugyi200.apollo.15.cdx.f1.w1/README.md) | descendant | completed |
-| [15.w0](../../sessions/bbugyi200.apollo.15.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [15.w0](../../sessions/bbugyi200.apollo.15.w0.md) (session · 3) | descendant | completed 2, failed 1 |

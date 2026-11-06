@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a1a127e`](https://github.com/sase-org/sase/commit/a1a127ebe74bf2d9c7a304b2c175e98efc4e76c5) | chore: Add SDD prompt and plan for sibling\_project\_status | 2026-06-02 13:27:45 EDT |
-| sase | [`064cf1f`](https://github.com/sase-org/sase/commit/064cf1f43f295a9dbec0da1b43321299191d7dd4) | feat: support sibling project lifecycle | 2026-06-02 13:53:21 EDT |
+| — | `a1a127e` | chore: Add SDD prompt and plan for sibling\_project\_status | 2026-06-02 13:27:45 EDT |
+| — | `064cf1f` | feat: support sibling project lifecycle | 2026-06-02 13:53:21 EDT |
 
 ## Neighbors
 
@@ -26,4 +26,4 @@
 |---|---|---|
 | [15.cdx.f1](../bbugyi200.apollo.15.cdx.f1/README.md) | ancestor | completed |
 | [15](../../sessions/bbugyi200.apollo.15.md) (session · 3) | ancestor | completed 2, failed 1 |
-| [15.w0](../../sessions/bbugyi200.apollo.15.w0.md) (session · 3) | 15 hood | active 1, completed 1, failed 1 |
+| [15.w0](../../sessions/bbugyi200.apollo.15.w0.md) (session · 3) | 15 hood | completed 2, failed 1 |
