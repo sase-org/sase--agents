@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1rg](../../users/bbugyi200/machines/athena/hoods/sase-1rg/README.md) / sase-1rg.5
 
-**Global name:** `bbugyi200.athena.sase-1rg.5` · **State:** waiting · **Source run:** `run-d40ed5f44a4d8c5094ce1ddee557150a`
+**Global name:** `bbugyi200.athena.sase-1rg.5` · **State:** completed · **Source run:** `run-d40ed5f44a4d8c5094ce1ddee557150a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1rg
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1rg](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1rg/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261106063636
-- Commits: 0
+- Timing: 2026-11-06T12:31:54.571326+00:00 → 2026-11-06T13:17:42.811868+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`4f9c892`](https://github.com/sase-org/sase/commit/4f9c892c58e7405bdae7a3be31614972c08ebc72) | fix(monitor): release leaked and dead claims in stale-running cleanup | 2026-11-06 08:16:37 EST |
 
 ## Neighbors
 
