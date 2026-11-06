@@ -36,10 +36,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1rg.1](../agents/bbugyi200.athena.sase-1rg.1/README.md) | sase-1rg hood | completed |
 | [sase-1rg.10](bbugyi200.athena.sase-1rg.10.md) (session · 3) | sase-1rg hood | completed 3 |
 | [sase-1rg.2](bbugyi200.athena.sase-1rg.2.md) (session · 3) | sase-1rg hood | completed 3 |
+| [sase-1rg.2](../agents/bbugyi200.athena.sase-1rg.2/README.md) | sase-1rg hood | completed |
 | [sase-1rg.3](../agents/bbugyi200.athena.sase-1rg.3/README.md) | sase-1rg hood | completed |
 | [sase-1rg.4](../agents/bbugyi200.athena.sase-1rg.4/README.md) | sase-1rg hood | completed |
 | [sase-1rg.5](../agents/bbugyi200.athena.sase-1rg.5/README.md) | sase-1rg hood | completed |
 | [sase-1rg.6](../agents/bbugyi200.athena.sase-1rg.6/README.md) | sase-1rg hood | completed |
 | [sase-1rg.7](bbugyi200.athena.sase-1rg.7.md) (session · 3) | sase-1rg hood | completed 2, failed 1 |
 | [sase-1rg.8](../agents/bbugyi200.athena.sase-1rg.8/README.md) | sase-1rg hood | completed |
-| [sase-1rg.land](../agents/bbugyi200.athena.sase-1rg.land/README.md) | sase-1rg hood | waiting |
+| [sase-1rg.land](../agents/bbugyi200.athena.sase-1rg.land/README.md) | sase-1rg hood | completed |
