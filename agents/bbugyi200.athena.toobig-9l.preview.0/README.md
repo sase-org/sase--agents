@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-9l.test\_agent\_hijack\_recover\_release.0](../bbugyi200.athena.toobig-9l.test_agent_hijack_recover_release.0/README.md) | toobig-9l hood | active |
+| [toobig-9l.test\_agent\_hijack\_recover\_release.0](../bbugyi200.athena.toobig-9l.test_agent_hijack_recover_release.0/README.md) | toobig-9l hood | completed |
