@@ -36,6 +36,6 @@
 | [sase-1qz.6.1.land](../../sessions/bbugyi200.athena.sase-1qz.6.1.land.md) (session · 3) | sase-1qz.6.1 hood | completed 3 |
 | [sase-1qz.10](../bbugyi200.athena.sase-1qz.10/README.md) | sase-1qz hood | waiting |
 | [sase-1qz.11](../bbugyi200.athena.sase-1qz.11/README.md) | sase-1qz hood | waiting |
-| [sase-1qz.7](../bbugyi200.athena.sase-1qz.7/README.md) | sase-1qz hood | waiting |
+| [sase-1qz.7](../bbugyi200.athena.sase-1qz.7/README.md) | sase-1qz hood | completed |
 | [sase-1qz.9](../bbugyi200.athena.sase-1qz.9/README.md) | sase-1qz hood | waiting |
 | [sase-1qz.land](../bbugyi200.athena.sase-1qz.land/README.md) | sase-1qz hood | waiting |

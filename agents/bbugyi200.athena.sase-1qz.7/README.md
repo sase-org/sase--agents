@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1qz](../../users/bbugyi200/machines/athena/hoods/sase-1qz/README.md) / sase-1qz.7
 
-**Global name:** `bbugyi200.athena.sase-1qz.7` · **State:** waiting · **Source run:** `run-7cd7df80d49bf2e44ac645196954d0f8`
+**Global name:** `bbugyi200.athena.sase-1qz.7` · **State:** completed · **Source run:** `run-7cd7df80d49bf2e44ac645196954d0f8`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1qz
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1qz](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1qz/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261104150615
-- Commits: 0
+- Timing: 2026-11-06T18:00:09.115488+00:00 → 2026-11-06T20:11:24.284981+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`f4ca45e`](https://github.com/sase-org/sase/commit/f4ca45edf82f5561bfeb5fecc8aa410c6df5c82b) | feat(hijack-recovery): add snapshot-verified restart and dismiss resolutions | 2026-11-06 15:09:55 EST |
 
 ## Neighbors
 
