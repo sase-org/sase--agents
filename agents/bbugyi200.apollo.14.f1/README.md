@@ -17,12 +17,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9c391d6`](https://github.com/sase-org/sase/commit/9c391d6782c2c55df56e2c8ef506f9308c5a89cb) | chore: Add SDD prompt and plan for project\_management\_shift\_tab\_filter | 2026-06-02 12:01:09 EDT |
-| sase | [`3eb5a0b`](https://github.com/sase-org/sase/commit/3eb5a0bc356bb90bade9fa2f6381fddba3759995) | feat: cycle project state filters in reverse | 2026-06-02 12:05:31 EDT |
+| — | `9c391d6` | chore: Add SDD prompt and plan for project\_management\_shift\_tab\_filter | 2026-06-02 12:01:09 EDT |
+| — | `3eb5a0b` | feat: cycle project state filters in reverse | 2026-06-02 12:05:31 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [14](../../sessions/bbugyi200.apollo.14.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [14](../../sessions/bbugyi200.apollo.14.md) (session · 3) | ancestor | completed 2, failed 1 |
 | [14.f1.w1](../bbugyi200.apollo.14.f1.w1/README.md) | descendant | completed |
