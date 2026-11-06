@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `0a` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["0a.f0.f0--code [active]"]
+  n0["0a.f0.f0--code [completed]"]
   n1["0a.f0.f0--gate [failed]"]
   n0 --> n1
   n2["0a.f0.f0--plan [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 0a.f0.f0--code | active | gpt-5.5 / codex | 2026-09-18T07:08:07.001311+00:00 | [1](../agents/bbugyi200.apollo.0a.f0.f0--code/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.0a.f0.f0--code/prompt.md) | — |
+| <a id="member-code"></a>code | 0a.f0.f0--code | completed | gpt-5.5 / codex | 2026-09-18T07:08:07.001311+00:00 → 2026-09-18T08:01:11.827804+00:00 | [1](../agents/bbugyi200.apollo.0a.f0.f0--code/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.0a.f0.f0--code/prompt.md) | — |
 | <a id="member-gate"></a>gate | 0a.f0.f0--gate | failed | gpt-5.6-sol / codex | 2026-09-18T07:07:51.385326+00:00 → 2026-09-18T07:08:03.593915+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.0a.f0.f0--gate/chat.md) |
 | <a id="member-plan"></a>plan | 0a.f0.f0--plan | completed | gpt-5.6-sol / codex | 2026-09-17T21:03:27.733825+00:00 → 2026-09-17T21:08:18.163686+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.0a.f0.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.0a.f0.f0--plan/chat.md) |
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`d76b742`](https://github.com/sase-org/sase/commit/d76b742cffc33d686f45bb085360bda8abe9e9fe) | feat(tui): hide default tribe node labels | 2026-09-18 03:59:51 EDT |
+| code | — | `d76b742` | feat(tui): hide default tribe node labels | 2026-09-18 03:59:51 EDT |
 
 ## Neighbors
 

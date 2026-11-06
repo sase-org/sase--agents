@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `0e` · Members: 3
 ```mermaid
 flowchart TD
   n0["0e.f0.f0.w0--gate [failed]"]
-  n1["0e.f0.f0.w0--code [active]"]
+  n1["0e.f0.f0.w0--code [completed]"]
   n0 --> n1
   n2["0e.f0.f0.w0--plan [completed]"]
   n0 --> n2
@@ -20,14 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 0e.f0.f0.w0--gate | failed | gpt-5.6-sol / codex | 2026-09-18T21:29:35.695754+00:00 → 2026-09-18T21:29:54.630213+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.0e.f0.f0.w0--gate/chat.md) |
-| <a id="member-code"></a>code | 0e.f0.f0.w0--code | active | grok-4.6 / grok | 2026-09-18T21:29:59.840299+00:00 | [1](../agents/bbugyi200.apollo.0e.f0.f0.w0--code/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.0e.f0.f0.w0--code/prompt.md) | — |
+| <a id="member-code"></a>code | 0e.f0.f0.w0--code | completed | grok-4.6 / grok | 2026-09-18T21:29:59.840299+00:00 → 2026-09-18T23:09:49.909080+00:00 | [1](../agents/bbugyi200.apollo.0e.f0.f0.w0--code/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.0e.f0.f0.w0--code/prompt.md) | — |
 | <a id="member-plan"></a>plan | 0e.f0.f0.w0--plan | completed | gpt-5.6-sol / codex | 2026-09-18T20:51:03.067588+00:00 → 2026-09-18T20:56:08.865407+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.0e.f0.f0.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.0e.f0.f0.w0--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`5d158ad`](https://github.com/sase-org/sase/commit/5d158ad65ba99293e4cad22d013abbc0e064ad76) | feat(tui): default Agents detail view to metadata-only | 2026-09-18 19:07:42 EDT |
+| code | — | `5d158ad` | feat(tui): default Agents detail view to metadata-only | 2026-09-18 19:07:42 EDT |
 
 ## Neighbors
 

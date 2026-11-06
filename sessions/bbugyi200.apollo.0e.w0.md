@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`868abb2`](https://github.com/sase-org/sase/commit/868abb24671e73b9cf3ce9f1c2ea1f9caf7ddb0f) | feat(ace): rename agent tools panel to LLM Calls | 2026-09-18 04:39:17 EDT |
+| code | — | `868abb2` | feat(ace): rename agent tools panel to LLM Calls | 2026-09-18 04:39:17 EDT |
 
 ## Neighbors
 
@@ -36,7 +36,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [0e](bbugyi200.apollo.0e.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
 | [0e.f0](bbugyi200.apollo.0e.f0.md) (session · 5) | 0e hood | completed 3, failed 2 |
 | [0e.f0.f0](bbugyi200.apollo.0e.f0.f0.md) (session · 7) | 0e hood | completed 4, failed 3 |
-| [0e.f0.f0.w0](bbugyi200.apollo.0e.f0.f0.w0.md) (session · 3) | 0e hood | active 1, completed 1, failed 1 |
+| [0e.f0.f0.w0](bbugyi200.apollo.0e.f0.f0.w0.md) (session · 3) | 0e hood | completed 2, failed 1 |
 | [0e.w1](../agents/bbugyi200.apollo.0e.w1/README.md) | 0e hood | completed |
 | [0e.w1.w1](../agents/bbugyi200.apollo.0e.w1.w1/README.md) | 0e hood | completed |
 | [0e.w1.w1.w1](../agents/bbugyi200.apollo.0e.w1.w1.w1/README.md) | 0e hood | completed |

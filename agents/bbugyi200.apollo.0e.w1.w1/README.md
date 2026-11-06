@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`672f706`](https://github.com/sase-org/sase/commit/672f7068ee588c6e0edfa9e5059170df59dea6b1) | chore: Add SDD prompt and plan for pr\_terminology\_rename | 2026-07-07 11:55:24 EDT |
-| sase | [`ba6d2a1`](https://github.com/sase-org/sase/commit/ba6d2a1e57fd5e6bd93cf444555d58c04b839988) | feat: use PR terminology for ChangeSpec reviews | 2026-07-07 12:54:38 EDT |
+| — | `672f706` | chore: Add SDD prompt and plan for pr\_terminology\_rename | 2026-07-07 11:55:24 EDT |
+| — | `ba6d2a1` | feat: use PR terminology for ChangeSpec reviews | 2026-07-07 12:54:38 EDT |
 
 ## Neighbors
 
@@ -30,5 +30,5 @@
 | [0e.w1.w1.w1.f1](../bbugyi200.apollo.0e.w1.w1.w1.f1/README.md) | descendant | completed |
 | [0e.f0](../../sessions/bbugyi200.apollo.0e.f0.md) (session · 5) | 0e hood | completed 3, failed 2 |
 | [0e.f0.f0](../../sessions/bbugyi200.apollo.0e.f0.f0.md) (session · 7) | 0e hood | completed 4, failed 3 |
-| [0e.f0.f0.w0](../../sessions/bbugyi200.apollo.0e.f0.f0.w0.md) (session · 3) | 0e hood | active 1, completed 1, failed 1 |
+| [0e.f0.f0.w0](../../sessions/bbugyi200.apollo.0e.f0.f0.w0.md) (session · 3) | 0e hood | completed 2, failed 1 |
 | [0e.w0](../../sessions/bbugyi200.apollo.0e.w0.md) (session · 3) | 0e hood | active 1, completed 1, failed 1 |

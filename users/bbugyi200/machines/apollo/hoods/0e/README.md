@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / 0e
 
-**Global hood:** `bbugyi200.apollo.0e` · **Runs:** 25 · **Sessions:** 5 · **States:** active 3, completed 14, failed 8
+**Global hood:** `bbugyi200.apollo.0e` · **Runs:** 25 · **Sessions:** 5 · **States:** active 2, completed 15, failed 8
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -22,7 +22,7 @@
 | [0e.w1.w1.w1](../../../../../../agents/bbugyi200.apollo.0e.w1.w1.w1/README.md) | completed | — | 2026-07-07T17:05:39+00:00 → 2026-07-07T17:34:59+00:00 | 2 | — |
 | [0e.f0--code](../../../../../../sessions/bbugyi200.apollo.0e.f0.md#member-code) | completed | gpt-5.5 / codex | 2026-09-18T09:47:02.585120+00:00 → 2026-09-18T11:25:22.042681+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.0e.f0--code/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.0e.f0--code/prompt.md) |
 | [0e.f0--plan](../../../../../../sessions/bbugyi200.apollo.0e.f0.md#member-plan) | completed | gpt-5.6-sol / codex | 2026-09-18T09:41:03.434014+00:00 → 2026-09-18T09:46:01.068728+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.0e.f0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.0e.f0--plan/prompt.md) |
-| [0e.f0.f0.w0--code](../../../../../../sessions/bbugyi200.apollo.0e.f0.f0.w0.md#member-code) | active | grok-4.6 / grok | 2026-09-18T21:29:59.840299+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.0e.f0.f0.w0--code/prompt.md) |
+| [0e.f0.f0.w0--code](../../../../../../sessions/bbugyi200.apollo.0e.f0.f0.w0.md#member-code) | completed | grok-4.6 / grok | 2026-09-18T21:29:59.840299+00:00 → 2026-09-18T23:09:49.909080+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.0e.f0.f0.w0--code/prompt.md) |
 | [0e.f0.f0--plan](../../../../../../sessions/bbugyi200.apollo.0e.f0.f0.md#member-plan) | completed | gpt-5.6-sol / codex | 2026-09-18T16:21:28.356900+00:00 → 2026-09-18T16:28:00.774882+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.0e.f0.f0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.0e.f0.f0--plan/prompt.md) |
 | [0e.w0--gate](../../../../../../sessions/bbugyi200.apollo.0e.w0.md#member-gate) | failed | gpt-5.6-sol / codex | 2026-09-18T07:07:44.029834+00:00 → 2026-09-18T07:08:08.992298+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.0e.w0--gate/chat.md) |
 | [0e.f0.f0--2](../../../../../../sessions/bbugyi200.apollo.0e.f0.f0.md#member-2) | completed | grok-4.6 / grok | 2026-09-18T20:43:48.148962+00:00 → 2026-09-18T20:51:36.423293+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.0e.f0.f0--2/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.0e.f0.f0--2/prompt.md) |

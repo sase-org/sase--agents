@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`776417d`](https://github.com/sase-org/sase/commit/776417d1b49efb9ee3e9cbd4117b11a076711f66) | feat(ace): support equal agents detail layout | 2026-09-18 12:18:06 EDT |
+| — | `776417d` | feat(ace): support equal agents detail layout | 2026-09-18 12:18:06 EDT |
 
 ## Neighbors
 
@@ -29,7 +29,7 @@
 |---|---|---|
 | [0e](../../sessions/bbugyi200.apollo.0e.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
 | [0e.f0.f0](../../sessions/bbugyi200.apollo.0e.f0.f0.md) (session · 7) | descendant | completed 4, failed 3 |
-| [0e.f0.f0.w0](../../sessions/bbugyi200.apollo.0e.f0.f0.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [0e.f0.f0.w0](../../sessions/bbugyi200.apollo.0e.f0.f0.w0.md) (session · 3) | descendant | completed 2, failed 1 |
 | [0e.w0](../../sessions/bbugyi200.apollo.0e.w0.md) (session · 3) | 0e hood | active 1, completed 1, failed 1 |
 | [0e.w1](../bbugyi200.apollo.0e.w1/README.md) | 0e hood | completed |
 | [0e.w1.w1](../bbugyi200.apollo.0e.w1.w1/README.md) | 0e hood | completed |

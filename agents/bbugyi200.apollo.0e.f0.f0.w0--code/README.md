@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [0e](../../users/bbugyi200/machines/apollo/hoods/0e/README.md) / [0e.f0.f0.w0](../../sessions/bbugyi200.apollo.0e.f0.f0.w0.md) / 0e.f0.f0.w0--code
 
-**Global name:** `bbugyi200.apollo.0e.f0.f0.w0--code` · **State:** active · **Source run:** `run-79d48edd85f9ffdc1906946271e06628`
+**Global name:** `bbugyi200.apollo.0e.f0.f0.w0--code` · **State:** completed · **Source run:** `run-79d48edd85f9ffdc1906946271e06628`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 0e
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-18T21:29:59.840299+00:00
+- Timing: 2026-09-18T21:29:59.840299+00:00 → 2026-09-18T23:09:49.909080+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5d158ad`](https://github.com/sase-org/sase/commit/5d158ad65ba99293e4cad22d013abbc0e064ad76) | feat(tui): default Agents detail view to metadata-only | 2026-09-18 19:07:42 EDT |
+| — | `5d158ad` | feat(tui): default Agents detail view to metadata-only | 2026-09-18 19:07:42 EDT |
 
 ## Neighbors
 

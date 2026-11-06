@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | sase | [`f1723c5`](https://github.com/sase-org/sase/commit/f1723c58b5252b537318ca87fbb1fcca1a78e38f) | feat(ace): add Agents metadata-only and secondary-only layouts | 2026-09-18 16:49:16 EDT |
+| 2 | — | `f1723c5` | feat(ace): add Agents metadata-only and secondary-only layouts | 2026-09-18 16:49:16 EDT |
 
 ## Neighbors
 
@@ -47,7 +47,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [0e.f0](bbugyi200.apollo.0e.f0.md) (session · 5) | ancestor | completed 3, failed 2 |
 | [0e](bbugyi200.apollo.0e.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
-| [0e.f0.f0.w0](bbugyi200.apollo.0e.f0.f0.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [0e.f0.f0.w0](bbugyi200.apollo.0e.f0.f0.w0.md) (session · 3) | descendant | completed 2, failed 1 |
 | [0e.w0](bbugyi200.apollo.0e.w0.md) (session · 3) | 0e hood | active 1, completed 1, failed 1 |
 | [0e.w1](../agents/bbugyi200.apollo.0e.w1/README.md) | 0e hood | completed |
 | [0e.w1.w1](../agents/bbugyi200.apollo.0e.w1.w1/README.md) | 0e hood | completed |

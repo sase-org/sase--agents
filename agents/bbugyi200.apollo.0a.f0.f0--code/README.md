@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [0a](../../users/bbugyi200/machines/apollo/hoods/0a/README.md) / [0a.f0.f0](../../sessions/bbugyi200.apollo.0a.f0.f0.md) / 0a.f0.f0--code
 
-**Global name:** `bbugyi200.apollo.0a.f0.f0--code` · **State:** active · **Source run:** `run-68237f7ae98eaddd0092f89cf1579ed4`
+**Global name:** `bbugyi200.apollo.0a.f0.f0--code` · **State:** completed · **Source run:** `run-68237f7ae98eaddd0092f89cf1579ed4`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 0a
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-18T07:08:07.001311+00:00
+- Timing: 2026-09-18T07:08:07.001311+00:00 → 2026-09-18T08:01:11.827804+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d76b742`](https://github.com/sase-org/sase/commit/d76b742cffc33d686f45bb085360bda8abe9e9fe) | feat(tui): hide default tribe node labels | 2026-09-18 03:59:51 EDT |
+| — | `d76b742` | feat(tui): hide default tribe node labels | 2026-09-18 03:59:51 EDT |
 
 ## Neighbors
 

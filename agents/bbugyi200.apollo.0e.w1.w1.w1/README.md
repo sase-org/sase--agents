@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`63ea7d9`](https://github.com/sase-org/sase/commit/63ea7d9da3c218564a52ce03ee3c0f2b39fe73dd) | chore: Add SDD prompt and plan for merge\_help\_and\_tab\_guide\_panels | 2026-07-07 13:05:39 EDT |
-| sase | [`0862efa`](https://github.com/sase-org/sase/commit/0862efa745f91bd5687d7d34d81b4fece50eb2f7) | feat(ace)!: merge tab guide into help panel | 2026-07-07 13:34:59 EDT |
+| — | `63ea7d9` | chore: Add SDD prompt and plan for merge\_help\_and\_tab\_guide\_panels | 2026-07-07 13:05:39 EDT |
+| — | `0862efa` | feat(ace)!: merge tab guide into help panel | 2026-07-07 13:34:59 EDT |
 
 ## Neighbors
 
@@ -30,5 +30,5 @@
 | [0e.w1.w1.w1.f1](../bbugyi200.apollo.0e.w1.w1.w1.f1/README.md) | descendant | completed |
 | [0e.f0](../../sessions/bbugyi200.apollo.0e.f0.md) (session · 5) | 0e hood | completed 3, failed 2 |
 | [0e.f0.f0](../../sessions/bbugyi200.apollo.0e.f0.f0.md) (session · 7) | 0e hood | completed 4, failed 3 |
-| [0e.f0.f0.w0](../../sessions/bbugyi200.apollo.0e.f0.f0.w0.md) (session · 3) | 0e hood | active 1, completed 1, failed 1 |
+| [0e.f0.f0.w0](../../sessions/bbugyi200.apollo.0e.f0.f0.w0.md) (session · 3) | 0e hood | completed 2, failed 1 |
 | [0e.w0](../../sessions/bbugyi200.apollo.0e.w0.md) (session · 3) | 0e hood | active 1, completed 1, failed 1 |

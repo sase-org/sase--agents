@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b93621d`](https://github.com/sase-org/sase/commit/b93621dbfb43171f826cacb8dfb46a910a9852fa) | chore: Add SDD prompt and plan for demo\_gif\_polish | 2026-07-07 00:49:37 EDT |
-| sase | [`9b6adb9`](https://github.com/sase-org/sase/commit/9b6adb94c3da8f0e34ba95278e3e8de07e094f19) | fix(demos): polish ace demo captures | 2026-07-07 01:07:03 EDT |
-| sase | [`73e4318`](https://github.com/sase-org/sase/commit/73e4318edf65902a4fbe06fdcc95e04e42c4c8a7) | feat(ace): add agents grouping picker | 2026-09-17 14:33:15 EDT |
+| — | `b93621d` | chore: Add SDD prompt and plan for demo\_gif\_polish | 2026-07-07 00:49:37 EDT |
+| — | `9b6adb9` | fix(demos): polish ace demo captures | 2026-07-07 01:07:03 EDT |
+| — | `73e4318` | feat(ace): add agents grouping picker | 2026-09-17 14:33:15 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [0a.f0](../../sessions/bbugyi200.apollo.0a.f0.md) (session · 3) | descendant | completed 2, failed 1 |
-| [0a.f0.f0](../../sessions/bbugyi200.apollo.0a.f0.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [0a.f0.f0](../../sessions/bbugyi200.apollo.0a.f0.f0.md) (session · 3) | descendant | completed 2, failed 1 |
