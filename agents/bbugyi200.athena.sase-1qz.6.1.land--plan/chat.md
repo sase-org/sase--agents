@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** sase-1qz.6.1.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1qz_6_1_land__plan-261104_150254.md`
+- 2. --code — `~/.sase/chats/202611/gh_sase_org__sase-ace_run-sase_1qz_6_1_land__code-261104_150254.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/hijack_recovery_settlement_completion.md
 
 
