@@ -37,5 +37,5 @@
 | [sase-1qz.10](../bbugyi200.athena.sase-1qz.10/README.md) | sase-1qz hood | waiting |
 | [sase-1qz.11](../bbugyi200.athena.sase-1qz.11/README.md) | sase-1qz hood | waiting |
 | [sase-1qz.7](../bbugyi200.athena.sase-1qz.7/README.md) | sase-1qz hood | completed |
-| [sase-1qz.9](../bbugyi200.athena.sase-1qz.9/README.md) | sase-1qz hood | waiting |
+| [sase-1qz.9](../../sessions/bbugyi200.athena.sase-1qz.9.md) (session · 3) | sase-1qz hood | completed 2, failed 1 |
 | [sase-1qz.land](../bbugyi200.athena.sase-1qz.land/README.md) | sase-1qz hood | waiting |
