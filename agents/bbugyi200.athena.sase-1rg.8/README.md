@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1rg](../../users/bbugyi200/machines/athena/hoods/sase-1rg/README.md) / sase-1rg.8
 
-**Global name:** `bbugyi200.athena.sase-1rg.8` · **State:** waiting · **Source run:** `run-b9eccdf3fc512a49a594e43e34c65bd5`
+**Global name:** `bbugyi200.athena.sase-1rg.8` · **State:** completed · **Source run:** `run-b9eccdf3fc512a49a594e43e34c65bd5`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1rg
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1rg](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1rg/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261106063637
-- Commits: 0
+- Timing: 2026-11-06T12:48:35.557923+00:00 → 2026-11-06T13:27:28.869593+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`956310b`](https://github.com/sase-org/sase/commit/956310b7ad7be73908467bb4d1d147f8e76c627a) | fix(monitor): restore readopt for held staged handoffs | 2026-11-06 08:26:22 EST |
 
 ## Neighbors
 

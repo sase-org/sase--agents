@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b9eccdf3fc512a49a594e43e34c65bd5"}
+{"commits":[{"committed_at":1793971582,"sha":"956310b7ad7be73908467bb4d1d147f8e76c627a","subject":"fix(monitor): restore readopt for held staged handoffs"}],"schema_version":2,"source_run_id":"run-b9eccdf3fc512a49a594e43e34c65bd5"}

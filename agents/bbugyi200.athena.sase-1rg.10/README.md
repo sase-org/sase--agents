@@ -30,6 +30,6 @@
 | [sase-1rg.5](../bbugyi200.athena.sase-1rg.5/README.md) | sase-1rg hood | completed |
 | [sase-1rg.6](../bbugyi200.athena.sase-1rg.6/README.md) | sase-1rg hood | completed |
 | [sase-1rg.7](../../sessions/bbugyi200.athena.sase-1rg.7.md) (session · 3) | sase-1rg hood | completed 2, failed 1 |
-| [sase-1rg.8](../bbugyi200.athena.sase-1rg.8/README.md) | sase-1rg hood | waiting |
+| [sase-1rg.8](../bbugyi200.athena.sase-1rg.8/README.md) | sase-1rg hood | completed |
 | [sase-1rg.9](../../sessions/bbugyi200.athena.sase-1rg.9.md) (session · 3) | sase-1rg hood | completed 2, failed 1 |
 | [sase-1rg.land](../bbugyi200.athena.sase-1rg.land/README.md) | sase-1rg hood | waiting |
