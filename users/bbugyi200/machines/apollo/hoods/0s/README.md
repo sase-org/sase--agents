@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / 0s
 
-**Global hood:** `bbugyi200.apollo.0s` · **Runs:** 22 · **Sessions:** 5 · **States:** active 2, completed 8, failed 9, waiting 3
+**Global hood:** `bbugyi200.apollo.0s` · **Runs:** 22 · **Sessions:** 5 · **States:** active 1, completed 9, failed 9, waiting 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -20,7 +20,7 @@
 | [0s.f0.f0--plan](../../../../../../sessions/bbugyi200.apollo.0s.f0.f0.md#member-plan) | completed | opus / claude | 2026-09-20T19:41:41.281494+00:00 → 2026-09-20T19:49:32.971537+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.0s.f0.f0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.0s.f0.f0--plan/prompt.md) |
 | [0s--gate](../../../../../../sessions/bbugyi200.apollo.0s.md#member-gate) | failed | grok-4.6 / grok | 2026-09-19T13:47:45.062389+00:00 → 2026-09-19T13:48:01.425507+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.0s--gate/chat.md) |
 | [0s.f0.f0.w2--gate](../../../../../../sessions/bbugyi200.apollo.0s.f0.f0.w2.md#member-gate) | failed | opus / claude | 2026-09-21T02:21:17.750687+00:00 → 2026-09-21T02:21:34.845921+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.0s.f0.f0.w2--gate/chat.md) |
-| [0s.f0.f0.w2.w0--2](../../../../../../sessions/bbugyi200.apollo.0s.f0.f0.w2.w0.md#member-2) | active | muse-spark-1.3-contributor / muse | 2026-09-21T04:09:48.305480+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.0s.f0.f0.w2.w0--2/prompt.md) |
+| [0s.f0.f0.w2.w0--2](../../../../../../sessions/bbugyi200.apollo.0s.f0.f0.w2.w0.md#member-2) | completed | muse-spark-1.3-contributor / muse | 2026-09-21T04:09:48.305480+00:00 → 2026-09-21T04:23:20.917985+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.0s.f0.f0.w2.w0--2/prompt.md) |
 | [0s.f0.f0--gate](../../../../../../sessions/bbugyi200.apollo.0s.f0.f0.md#member-gate) | failed | opus / claude | 2026-09-20T19:50:14.052397+00:00 → 2026-09-20T19:50:31.693183+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.0s.f0.f0--gate/chat.md) |
 | [0s.f0.f0.w1](../../../../../../agents/bbugyi200.apollo.0s.f0.f0.w1/README.md) | waiting | opus / claude | 20260920164143 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.0s.f0.f0.w1/prompt.md) |
 | [0s.f0.f0.w0](../../../../../../agents/bbugyi200.apollo.0s.f0.f0.w0/README.md) | waiting | opus / claude | 20260920162351 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.0s.f0.f0.w0/prompt.md) |

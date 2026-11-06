@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`7199e07`](https://github.com/sase-org/sase/commit/7199e074208aa54ad062648c94ba413bd171e058) | feat(tui): tone the launch-default pill with its LLM provider's color | 2026-09-20 22:12:01 EDT |
+| code | — | `7199e07` | feat(tui): tone the launch-default pill with its LLM provider's color | 2026-09-20 22:12:01 EDT |
 
 ## Neighbors
 
@@ -38,4 +38,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [0s.f0.f0.w0](../agents/bbugyi200.apollo.0s.f0.f0.w0/README.md) | descendant | waiting |
 | [0s.f0.f0.w1](../agents/bbugyi200.apollo.0s.f0.f0.w1/README.md) | descendant | waiting |
 | [0s.f0.f0.w2](bbugyi200.apollo.0s.f0.f0.w2.md) (session · 3) | descendant | failed 3 |
-| [0s.f0.f0.w2.w0](bbugyi200.apollo.0s.f0.f0.w2.w0.md) (session · 7) | descendant | active 1, completed 3, failed 3 |
+| [0s.f0.f0.w2.w0](bbugyi200.apollo.0s.f0.f0.w2.w0.md) (session · 7) | descendant | completed 4, failed 3 |

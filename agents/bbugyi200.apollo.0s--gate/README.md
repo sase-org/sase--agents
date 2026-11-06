@@ -27,4 +27,4 @@
 | [0s.f0.f0.w0](../bbugyi200.apollo.0s.f0.f0.w0/README.md) | descendant | waiting |
 | [0s.f0.f0.w1](../bbugyi200.apollo.0s.f0.f0.w1/README.md) | descendant | waiting |
 | [0s.f0.f0.w2](../../sessions/bbugyi200.apollo.0s.f0.f0.w2.md) (session · 3) | descendant | failed 3 |
-| [0s.f0.f0.w2.w0](../../sessions/bbugyi200.apollo.0s.f0.f0.w2.w0.md) (session · 7) | descendant | active 1, completed 3, failed 3 |
+| [0s.f0.f0.w2.w0](../../sessions/bbugyi200.apollo.0s.f0.f0.w2.w0.md) (session · 7) | descendant | completed 4, failed 3 |

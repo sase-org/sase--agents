@@ -27,8 +27,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`9a99238`](https://github.com/sase-org/sase/commit/9a99238cdf0e9e415575f5b11559cdb2f29c59c2) | feat(notifications): add ace.notification\_rules config and Python delivery facade | 2026-09-20 14:40:33 EDT |
-| — | sase | [`8c83b8f`](https://github.com/sase-org/sase/commit/8c83b8f0e5d7c1d12144a921b13320c0914061c5) | feat(tui): render the launch-default pill as its shortest %model spelling | 2026-09-20 15:27:29 EDT |
+| code | — | `9a99238` | feat(notifications): add ace.notification\_rules config and Python delivery facade | 2026-09-20 14:40:33 EDT |
+| — | — | `8c83b8f` | feat(tui): render the launch-default pill as its shortest %model spelling | 2026-09-20 15:27:29 EDT |
 
 ## Neighbors
 
@@ -39,4 +39,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [0s.f0.f0.w0](../agents/bbugyi200.apollo.0s.f0.f0.w0/README.md) | descendant | waiting |
 | [0s.f0.f0.w1](../agents/bbugyi200.apollo.0s.f0.f0.w1/README.md) | descendant | waiting |
 | [0s.f0.f0.w2](bbugyi200.apollo.0s.f0.f0.w2.md) (session · 3) | descendant | failed 3 |
-| [0s.f0.f0.w2.w0](bbugyi200.apollo.0s.f0.f0.w2.w0.md) (session · 7) | descendant | active 1, completed 3, failed 3 |
+| [0s.f0.f0.w2.w0](bbugyi200.apollo.0s.f0.f0.w2.w0.md) (session · 7) | descendant | completed 4, failed 3 |

@@ -2,13 +2,13 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / 0o
 
-**Global hood:** `bbugyi200.apollo.0o` · **Runs:** 16 · **Sessions:** 2 · **States:** active 2, completed 6, failed 8
+**Global hood:** `bbugyi200.apollo.0o` · **Runs:** 16 · **Sessions:** 2 · **States:** active 1, completed 7, failed 8
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [0o--4](../../../../../../sessions/bbugyi200.apollo.0o.md#member-4) | completed | grok-4.6 / grok | 2026-09-19T15:51:32.578513+00:00 → 2026-09-19T16:16:07.228832+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.0o--4/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.0o--4/prompt.md) |
 | [0o--code](../../../../../../sessions/bbugyi200.apollo.0o.md#member-code) | completed | grok-4.6 / grok | 2026-09-19T13:04:59.791470+00:00 → 2026-09-19T13:19:20.005071+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.0o--code/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.0o--code/prompt.md) |
-| [0o.f0--code](../../../../../../sessions/bbugyi200.apollo.0o.f0.md#member-code) | active | sonnet / claude | 2026-09-20T10:32:07.989837+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.0o.f0--code/prompt.md) |
+| [0o.f0--code](../../../../../../sessions/bbugyi200.apollo.0o.f0.md#member-code) | completed | sonnet / claude | 2026-09-20T10:32:07.989837+00:00 → 2026-09-20T10:42:22.290004+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.0o.f0--code/prompt.md) |
 | [0o.f0--gate](../../../../../../sessions/bbugyi200.apollo.0o.f0.md#member-gate) | failed | opus / claude | 2026-09-20T10:31:45.577878+00:00 → 2026-09-20T10:32:03.371913+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.0o.f0--gate/chat.md) |
 | [0o--mon-1](../../../../../../sessions/bbugyi200.apollo.0o.md#member-mon-1) | failed | grok-4.6 / grok | 2026-09-19T14:06:45.142007+00:00 → 2026-09-19T15:37:04.007428+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.0o--mon-1/chat.md) |
 | [0o--mon](../../../../../../sessions/bbugyi200.apollo.0o.md#member-mon) | failed | grok-4.6 / grok | 2026-09-19T13:18:26.398547+00:00 → 2026-09-19T13:22:56.847862+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.0o--mon/chat.md) |

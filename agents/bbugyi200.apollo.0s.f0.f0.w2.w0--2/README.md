@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [0s](../../users/bbugyi200/machines/apollo/hoods/0s/README.md) / [0s.f0.f0.w2.w0](../../sessions/bbugyi200.apollo.0s.f0.f0.w2.w0.md) / 0s.f0.f0.w2.w0--2
 
-**Global name:** `bbugyi200.apollo.0s.f0.f0.w2.w0--2` · **State:** active · **Source run:** `run-6f8ecc5d4abc1194f90089a4ebd0d549`
+**Global name:** `bbugyi200.apollo.0s.f0.f0.w2.w0--2` · **State:** completed · **Source run:** `run-6f8ecc5d4abc1194f90089a4ebd0d549`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 0s
 
@@ -10,7 +10,7 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-21T04:09:48.305480+00:00
+- Timing: 2026-09-21T04:09:48.305480+00:00 → 2026-09-21T04:23:20.917985+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d6486ae`](https://github.com/sase-org/sase/commit/d6486aed786cb5b2503bb2e72abb4b3a4bd5500b) | feat(muse): butterfly badge and brighter blue palette for visibility | 2026-09-21 00:19:36 EDT |
+| — | `d6486ae` | feat(muse): butterfly badge and brighter blue palette for visibility | 2026-09-21 00:19:36 EDT |
 
 ## Neighbors
 

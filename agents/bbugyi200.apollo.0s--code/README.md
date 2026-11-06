@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ea5fc2b`](https://github.com/sase-org/sase/commit/ea5fc2b504b20db3e696d8b6db4a397e54e68c57) | feat(ace): show launch-effective default effort on the TUI launch-default pill | 2026-09-19 11:13:27 EDT |
+| — | `ea5fc2b` | feat(ace): show launch-effective default effort on the TUI launch-default pill | 2026-09-19 11:13:27 EDT |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [0s.f0.f0.w0](../bbugyi200.apollo.0s.f0.f0.w0/README.md) | descendant | waiting |
 | [0s.f0.f0.w1](../bbugyi200.apollo.0s.f0.f0.w1/README.md) | descendant | waiting |
 | [0s.f0.f0.w2](../../sessions/bbugyi200.apollo.0s.f0.f0.w2.md) (session · 3) | descendant | failed 3 |
-| [0s.f0.f0.w2.w0](../../sessions/bbugyi200.apollo.0s.f0.f0.w2.w0.md) (session · 7) | descendant | active 1, completed 3, failed 3 |
+| [0s.f0.f0.w2.w0](../../sessions/bbugyi200.apollo.0s.f0.f0.w2.w0.md) (session · 7) | descendant | completed 4, failed 3 |
