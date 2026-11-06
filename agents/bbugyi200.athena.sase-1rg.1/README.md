@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1rg](../../users/bbugyi200/machines/athena/hoods/sase-1rg/README.md) / sase-1rg.1
 
-**Global name:** `bbugyi200.athena.sase-1rg.1` · **State:** active · **Source run:** `run-dd003b1e0543bff8eed00787504b69de`
+**Global name:** `bbugyi200.athena.sase-1rg.1` · **State:** completed · **Source run:** `run-dd003b1e0543bff8eed00787504b69de`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1rg
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1rg](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1rg/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-06T11:38:34.848970+00:00
-- Commits: 0
+- Timing: 2026-11-06T11:38:34.848970+00:00 → 2026-11-06T13:22:56.895766+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`2072bd6`](https://github.com/sase-org/sase/commit/2072bd6d2ef993f1dfaf02be70b97eade7a7a1ca) | feat(publication): add core rebase-conflict policy for agent publication | 2026-11-06 08:21:46 EST |
 
 ## Neighbors
 

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-dd003b1e0543bff8eed00787504b69de"}
+{"commits":[{"committed_at":1793971306,"sha":"2072bd6d2ef993f1dfaf02be70b97eade7a7a1ca","subject":"feat(publication): add core rebase-conflict policy for agent publication"}],"schema_version":2,"source_run_id":"run-dd003b1e0543bff8eed00787504b69de"}
