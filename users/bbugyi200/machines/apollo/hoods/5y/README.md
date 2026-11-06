@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / 5y
 
-**Global hood:** `bbugyi200.apollo.5y` · **Runs:** 7 · **Sessions:** 1 · **States:** active 1, completed 3, failed 3
+**Global hood:** `bbugyi200.apollo.5y` · **Runs:** 7 · **Sessions:** 1 · **States:** completed 4, failed 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -12,4 +12,4 @@
 | [5y--mon-0](../../../../../../sessions/bbugyi200.apollo.5y.md#member-mon-0) | failed | muse-spark-1.3-contributor / muse | 2026-10-09T01:49:07.076895+00:00 → 2026-10-09T04:50:51.739614+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.5y--mon-0/chat.md) |
 | [5y--plan](../../../../../../sessions/bbugyi200.apollo.5y.md#member-plan) | completed | opus / claude | 2026-10-08T22:43:07.600720+00:00 → 2026-10-08T23:34:43.994061+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.5y--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.5y--plan/prompt.md) |
 | [5y--mon](../../../../../../sessions/bbugyi200.apollo.5y.md#member-mon) | failed | muse-spark-1.3-contributor / muse | 2026-10-08T23:33:59.482739+00:00 → 2026-10-09T00:35:58.863780+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.5y--mon/chat.md) |
-| [5y--2](../../../../../../sessions/bbugyi200.apollo.5y.md#member-2) | active | muse-spark-1.3-contributor / muse | 2026-10-09T04:51:57.477373+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.5y--2/prompt.md) |
+| [5y--2](../../../../../../sessions/bbugyi200.apollo.5y.md#member-2) | completed | muse-spark-1.3-contributor / muse | 2026-10-09T04:51:57.477373+00:00 → 2026-10-09T08:49:43.763898+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.5y--2/prompt.md) |

@@ -19,7 +19,7 @@ flowchart TD
   n0 --> n4
   n5["5y--mon [failed]"]
   n0 --> n5
-  n6["5y--2 [active]"]
+  n6["5y--2 [completed]"]
   n0 --> n6
 ```
 
@@ -33,10 +33,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | 5y--mon-0 | failed | muse-spark-1.3-contributor / muse | 2026-10-09T01:49:07.076895+00:00 → 2026-10-09T04:50:51.739614+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.5y--mon-0/chat.md) |
 | <a id="member-plan"></a>plan | 5y--plan | completed | opus / claude | 2026-10-08T22:43:07.600720+00:00 → 2026-10-08T23:34:43.994061+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.5y--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.5y--plan/chat.md) |
 | <a id="member-mon"></a>mon | 5y--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-08T23:33:59.482739+00:00 → 2026-10-09T00:35:58.863780+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.5y--mon/chat.md) |
-| <a id="member-2"></a>2 | 5y--2 | active | muse-spark-1.3-contributor / muse | 2026-10-09T04:51:57.477373+00:00 | [1](../agents/bbugyi200.apollo.5y--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.5y--2/prompt.md) | — |
+| <a id="member-2"></a>2 | 5y--2 | completed | muse-spark-1.3-contributor / muse | 2026-10-09T04:51:57.477373+00:00 → 2026-10-09T08:49:43.763898+00:00 | [1](../agents/bbugyi200.apollo.5y--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.5y--2/prompt.md) | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | sase | [`27e9393`](https://github.com/sase-org/sase/commit/27e939327b5f4ec149c15eccd68eda32b57a4d1c) | feat(completion): privatize runtime spec and grammar key with unkeyed-handle baseline | 2026-10-09 04:37:44 EDT |
+| 2 | — | `27e9393` | feat(completion): privatize runtime spec and grammar key with unkeyed-handle baseline | 2026-10-09 04:37:44 EDT |

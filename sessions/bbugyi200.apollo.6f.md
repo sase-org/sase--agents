@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `6f` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["6f--code [active]"]
+  n0["6f--code [completed]"]
   n1["6f--plan [active]"]
   n0 --> n1
   n2["6f--gate [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 6f--code | active | muse-spark-1.3-contributor / muse | 2026-10-10T16:29:47.958525+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 6f--code | completed | muse-spark-1.3-contributor / muse | 2026-10-10T16:29:47.958525+00:00 → 2026-10-10T17:08:57.605687+00:00 | 0 | — | — |
 | <a id="member-plan"></a>plan | 6f--plan | active | gpt-6-astra / codex | 2026-10-10T16:25:33.200494+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.6f--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.6f--plan/chat.md) |
 | <a id="member-gate"></a>gate | 6f--gate | failed | gpt-6-astra / codex | 2026-10-10T16:28:59.529542+00:00 → 2026-10-10T16:29:18.438381+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.6f--gate/chat.md) |
 

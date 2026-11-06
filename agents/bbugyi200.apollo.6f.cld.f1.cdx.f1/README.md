@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4473752`](https://github.com/sase-org/sase/commit/4473752b0058f94f1e6851acb9f22be72b78c91c) | chore: Add SDD prompt and plan for ace\_run\_layout\_review\_fixes | 2026-06-13 13:36:03 EDT |
-| sase | [`ae6e9ff`](https://github.com/sase-org/sase/commit/ae6e9ff9ca09916827c66c114bb2611d523d57a4) | fix(agents): support sharded artifact layout readers | 2026-06-13 13:49:08 EDT |
+| — | `4473752` | chore: Add SDD prompt and plan for ace\_run\_layout\_review\_fixes | 2026-06-13 13:36:03 EDT |
+| — | `ae6e9ff` | fix(agents): support sharded artifact layout readers | 2026-06-13 13:49:08 EDT |
 
 ## Neighbors
 
@@ -26,4 +26,4 @@
 |---|---|---|
 | [6f.cld.f1.cdx](../bbugyi200.apollo.6f.cld.f1.cdx/README.md) | ancestor | completed |
 | [6f.cld](../bbugyi200.apollo.6f.cld/README.md) | ancestor | completed |
-| [6f](../../sessions/bbugyi200.apollo.6f.md) (session · 3) | ancestor | active 2, failed 1 |
+| [6f](../../sessions/bbugyi200.apollo.6f.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
