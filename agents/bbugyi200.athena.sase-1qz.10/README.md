@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1qz](../../users/bbugyi200/machines/athena/hoods/sase-1qz/README.md) / sase-1qz.10
 
-**Global name:** `bbugyi200.athena.sase-1qz.10` · **State:** waiting · **Source run:** `run-e5b4c96df7138b616adc64baac65bc8f`
+**Global name:** `bbugyi200.athena.sase-1qz.10` · **State:** completed · **Source run:** `run-e5b4c96df7138b616adc64baac65bc8f`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1qz
 
@@ -12,12 +12,18 @@
 - Epic: [sase-1qz](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1qz/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261104150617
-- Commits: 0
+- Timing: 2026-11-06T21:38:54.804392+00:00 → 2026-11-06T21:58:54.706437+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`039c4a8`](https://github.com/sase-org/sase/commit/039c4a858d7ced67bbb89699dcb3d737d9095b85) | feat(ace): wire hijack recovery panel Instruct and Edit through the prompt bar | 2026-11-06 16:57:29 EST |
 
 ## Neighbors
 

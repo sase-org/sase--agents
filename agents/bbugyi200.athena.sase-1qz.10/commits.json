@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e5b4c96df7138b616adc64baac65bc8f"}
+{"commits":[{"committed_at":1794002249,"sha":"039c4a858d7ced67bbb89699dcb3d737d9095b85","subject":"feat(ace): wire hijack recovery panel Instruct and Edit through the prompt bar"}],"schema_version":2,"source_run_id":"run-e5b4c96df7138b616adc64baac65bc8f"}
