@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `7t` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["7t--code [active]"]
+  n0["7t--code [completed]"]
   n1["7t--plan [active]"]
   n0 --> n1
   n2["7t--gate [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 7t--code | active | grok-4.6 / grok | 2026-10-15T14:07:31.137013+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 7t--code | completed | grok-4.6 / grok | 2026-10-15T14:07:31.137013+00:00 → 2026-10-15T15:05:01.701729+00:00 | 0 | — | — |
 | <a id="member-plan"></a>plan | 7t--plan | active | opus / claude | 2026-10-15T13:54:55.057065+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.7t--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.7t--plan/chat.md) |
 | <a id="member-gate"></a>gate | 7t--gate | failed | opus / claude | 2026-10-15T14:06:46.621956+00:00 → 2026-10-15T14:07:02.039518+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.7t--gate/chat.md) |
 
@@ -27,4 +27,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`8675b6b`](https://github.com/sase-org/sase/commit/8675b6bc17b6b067bedbfcfc2a0a4a2db6eba68d) | fix: gate runners before deferred workspace setup | 2026-07-13 09:41:10 EDT |
+| — | — | `8675b6b` | fix: gate runners before deferred workspace setup | 2026-07-13 09:41:10 EDT |
