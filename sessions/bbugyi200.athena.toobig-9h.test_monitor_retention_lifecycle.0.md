@@ -39,4 +39,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-9h.test\_detach.0](../agents/bbugyi200.athena.toobig-9h.test_detach.0/README.md) | toobig-9h hood | active |
+| [toobig-9h.test\_detach.0](../agents/bbugyi200.athena.toobig-9h.test_detach.0/README.md) | toobig-9h hood | completed |
