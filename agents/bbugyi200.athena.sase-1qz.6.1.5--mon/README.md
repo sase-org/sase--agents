@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1qz](../../users/bbugyi200/machines/athena/hoods/sase-1qz/README.md) / [sase-1qz.6.1.5](../../sessions/bbugyi200.athena.sase-1qz.6.1.5.md) / sase-1qz.6.1.5--mon
 
-**Global name:** `bbugyi200.athena.sase-1qz.6.1.5--mon` · **State:** active · **Source run:** `run-62a7168dc466cf974dc8b6e0a43aec31`
+**Global name:** `bbugyi200.athena.sase-1qz.6.1.5--mon` · **State:** failed · **Source run:** `run-62a7168dc466cf974dc8b6e0a43aec31`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1qz
 
@@ -12,8 +12,12 @@
 - Epic: [sase-1qz.6.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1qz/sase-1qz.6.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-06T00:50:07.336691+00:00
+- Timing: 2026-11-06T00:50:07.336691+00:00 → 2026-11-06T01:37:26.056494+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
