@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d1ad5d93a4cbcdbed95446fa3846a23e"}
+{"commits":[{"committed_at":1793968149,"sha":"520962bcba1912af4e8079d1909a6e0d0066f18e","subject":"fix(monitor): scope retention settlement to owning workspace"}],"schema_version":2,"source_run_id":"run-d1ad5d93a4cbcdbed95446fa3846a23e"}
