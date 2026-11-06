@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a13bf16d4897d5a520eb1f64fd01aee6"}
+{"commits":[{"committed_at":1794002573,"sha":"af3ed634cbafa22c5044d9fa45dd289391bb84da","subject":"fix(run-prune): honor full purge protections and report completion honestly"}],"schema_version":2,"source_run_id":"run-a13bf16d4897d5a520eb1f64fd01aee6"}

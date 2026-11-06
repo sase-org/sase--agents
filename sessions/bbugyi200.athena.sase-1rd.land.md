@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `sase-1rd` · Members: 3 · Bead: [sase-1rd](
 ```mermaid
 flowchart TD
   n0["sase-1rd.land--gate [completed]"]
-  n1["sase-1rd.land--code [active]"]
+  n1["sase-1rd.land--code [completed]"]
   n0 --> n1
-  n2["sase-1rd.land--plan [active]"]
+  n2["sase-1rd.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -20,14 +20,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1rd.land--gate | completed | gpt-6-astra / codex | 2026-11-06T18:18:56.808420+00:00 → 2026-11-06T18:19:55.877840+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1rd.land--gate/chat.md) |
-| <a id="member-code"></a>code | sase-1rd.land--code | active | grok-4.6 / grok | 2026-11-06T18:20:55.449255+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | sase-1rd.land--plan | active | gpt-6-astra / codex | 2026-11-06T17:36:55.874639+00:00 | [1](../agents/bbugyi200.athena.sase-1rd.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1rd.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1rd.land--plan/chat.md) |
+| <a id="member-code"></a>code | sase-1rd.land--code | completed | grok-4.6 / grok | 2026-11-06T18:20:55.449255+00:00 → 2026-11-06T22:06:24.977869+00:00 | [1](../agents/bbugyi200.athena.sase-1rd.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.sase-1rd.land--code/chat.md) |
+| <a id="member-plan"></a>plan | sase-1rd.land--plan | completed | gpt-6-astra / codex | 2026-11-06T17:36:55.874639+00:00 → 2026-11-06T22:06:24.977869+00:00 | [1](../agents/bbugyi200.athena.sase-1rd.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1rd.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1rd.land--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | plan | sase | [`d8381f2`](https://github.com/sase-org/sase/commit/d8381f230fff8bcfb0cbf26420f1bbc4af0d100d) | refactor(run-prune): privatize snapshot directory helper | 2026-11-06 13:17:09 EST |
+| code | sase | [`af3ed63`](https://github.com/sase-org/sase/commit/af3ed634cbafa22c5044d9fa45dd289391bb84da) | fix(run-prune): honor full purge protections and report completion honestly | 2026-11-06 17:02:53 EST |
 
 ## Neighbors
 
