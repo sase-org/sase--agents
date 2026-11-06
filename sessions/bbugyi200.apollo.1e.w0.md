@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `1e` · Members: 5
 ```mermaid
 flowchart TD
   n0["1e.w0--code [completed]"]
-  n1["1e.w0--1 [active]"]
+  n1["1e.w0--1 [completed]"]
   n0 --> n1
   n2["1e.w0--gate [failed]"]
   n0 --> n2
@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 1e.w0--code | completed | muse-spark-1.3-contributor / muse | 2026-09-21T12:46:03.902570+00:00 → 2026-09-21T12:59:55.970555+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.1e.w0--code/prompt.md) | [Chat](../agents/bbugyi200.apollo.1e.w0--code/chat.md) |
-| <a id="member-1"></a>1 | 1e.w0--1 | active | muse-spark-1.3-contributor / muse | 2026-09-21T13:44:19.687477+00:00 | [1](../agents/bbugyi200.apollo.1e.w0--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.1e.w0--1/prompt.md) | — |
+| <a id="member-1"></a>1 | 1e.w0--1 | completed | muse-spark-1.3-contributor / muse | 2026-09-21T13:44:19.687477+00:00 → 2026-09-21T14:19:36.189624+00:00 | [1](../agents/bbugyi200.apollo.1e.w0--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.1e.w0--1/prompt.md) | — |
 | <a id="member-gate"></a>gate | 1e.w0--gate | failed | opus / claude | 2026-09-21T12:45:40.986231+00:00 → 2026-09-21T12:45:59.003493+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.1e.w0--gate/chat.md) |
 | <a id="member-plan"></a>plan | 1e.w0--plan | completed | opus / claude | 2026-09-21T12:42:54.349632+00:00 → 2026-09-21T12:45:44.342869+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.1e.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.1e.w0--plan/chat.md) |
 | <a id="member-mon"></a>mon | 1e.w0--mon | failed | muse-spark-1.3-contributor / muse | 2026-09-21T12:59:16.944047+00:00 → 2026-09-21T13:44:20.251909+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.1e.w0--mon/chat.md) |
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`a5ba3f1`](https://github.com/sase-org/sase/commit/a5ba3f1eb0c764e2c4fd307340c38ded0b518437) | docs(xprompt): recommend provider\_enabled("hard") gating for pinned-model segments | 2026-09-21 10:16:02 EDT |
+| 1 | — | `a5ba3f1` | docs(xprompt): recommend provider\_enabled("hard") gating for pinned-model segments | 2026-09-21 10:16:02 EDT |
 
 ## Neighbors
 

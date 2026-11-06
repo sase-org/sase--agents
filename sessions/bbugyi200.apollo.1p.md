@@ -27,12 +27,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`24c7cf6`](https://github.com/sase-org/sase/commit/24c7cf6691b88f30f6b00ded45a0ecd750a12d84) | chore: Add SDD prompt and plan for phase\_bead\_epic\_plan | 2026-07-08 00:10:12 EDT |
-| — | sase | [`36f89b7`](https://github.com/sase-org/sase/commit/36f89b7724fd2b67920769b4c452dd4e9f72dfe5) | feat(bead): show parent epic plans for phase beads | 2026-07-08 00:21:56 EDT |
-| code | sase | [`ce1336e`](https://github.com/sase-org/sase/commit/ce1336eec711d7db93878d75e38afcd32ce19af8) | feat(ace): add Agents deck picker modal on pick\_deck key | 2026-09-25 11:36:52 EDT |
+| — | — | `24c7cf6` | chore: Add SDD prompt and plan for phase\_bead\_epic\_plan | 2026-07-08 00:10:12 EDT |
+| — | — | `36f89b7` | feat(bead): show parent epic plans for phase beads | 2026-07-08 00:21:56 EDT |
+| code | — | `ce1336e` | feat(ace): add Agents deck picker modal on pick\_deck key | 2026-09-25 11:36:52 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [1p.f0](bbugyi200.apollo.1p.f0.md) (session · 3) | descendant | active 2, failed 1 |
+| [1p.f0](bbugyi200.apollo.1p.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |

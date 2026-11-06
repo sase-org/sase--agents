@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | sase | [`c77feeb`](https://github.com/sase-org/sase/commit/c77feebaa1152ad59e96c6efbbaef883c53769bf) | feat(ace): show Agents fleet header row only for actionable problems | 2026-09-22 09:49:34 EDT |
+| 2 | — | `c77feeb` | feat(ace): show Agents fleet header row only for actionable problems | 2026-09-22 09:49:34 EDT |
 
 ## Neighbors
 
@@ -51,7 +51,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [1h.f0.f0.f0.w0](../agents/bbugyi200.apollo.1h.f0.f0.f0.w0/README.md) | descendant | waiting |
 | [1h.f0.f0.f0.w1](../agents/bbugyi200.apollo.1h.f0.f0.f0.w1/README.md) | descendant | waiting |
 | [1h.f0.f0.f0.w2](bbugyi200.apollo.1h.f0.f0.f0.w2.md) (session · 5) | descendant | completed 3, failed 2 |
-| [1h.f0.f0.f0.w2.w0](bbugyi200.apollo.1h.f0.f0.f0.w2.w0.md) (session · 3) | descendant | active 2, failed 1 |
+| [1h.f0.f0.f0.w2.w0](bbugyi200.apollo.1h.f0.f0.f0.w2.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
 | [1h.f0.f0.f0.w2.w0](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2.w0/README.md) | descendant | waiting |
 | [1h.f0.f0.f0.w2.w0.w0](bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.md) (session · 3) | descendant | active 2, failed 1 |
 | [1h.f0.f0.f0.w2.w0.w0.w0](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.w0/README.md) | descendant | waiting |

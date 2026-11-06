@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d60464c`](https://github.com/sase-org/sase/commit/d60464c61359fd9ccd6ea97b22f39ba03ae68bf2) | feat(ace): polish Agents status row with dot grammar, refresh countdown, and load gauge | 2026-09-22 14:47:37 EDT |
+| — | `d60464c` | feat(ace): polish Agents status row with dot grammar, refresh countdown, and load gauge | 2026-09-22 14:47:37 EDT |
 
 ## Neighbors
 
@@ -31,7 +31,7 @@
 | [1h.f0.f0](../../sessions/bbugyi200.apollo.1h.f0.f0.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
 | [1h.f0](../../sessions/bbugyi200.apollo.1h.f0.md) (session · 5) | ancestor | active 1, completed 2, failed 2 |
 | [1h](../../sessions/bbugyi200.apollo.1h.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
-| [1h.f0.f0.f0.w2.w0](../../sessions/bbugyi200.apollo.1h.f0.f0.f0.w2.w0.md) (session · 3) | descendant | active 2, failed 1 |
+| [1h.f0.f0.f0.w2.w0](../../sessions/bbugyi200.apollo.1h.f0.f0.f0.w2.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
 | [1h.f0.f0.f0.w2.w0](../bbugyi200.apollo.1h.f0.f0.f0.w2.w0/README.md) | descendant | waiting |
 | [1h.f0.f0.f0.w2.w0.w0](../../sessions/bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.md) (session · 3) | descendant | active 2, failed 1 |
 | [1h.f0.f0.f0.w2.w0.w0.w0](../bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.w0/README.md) | descendant | waiting |

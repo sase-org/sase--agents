@@ -27,9 +27,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`1f75a19`](https://github.com/sase-org/sase/commit/1f75a191ed847ea91e42bebddad831103fe63a86) | chore: Add SDD prompt and plan for subagent\_tool\_output | 2026-07-07 21:09:39 EDT |
-| — | sase | [`1b33529`](https://github.com/sase-org/sase/commit/1b33529649deeabcd53adf0896507e53ad0a7cd1) | fix: surface subagent final output | 2026-07-07 21:22:40 EDT |
-| code | sase | [`dd1d49b`](https://github.com/sase-org/sase/commit/dd1d49bf5021aa2274e33add9d94348f44b2755a) | feat(ace): labeled launch-context cluster on every tab's status row | 2026-09-21 19:42:05 EDT |
+| — | — | `1f75a19` | chore: Add SDD prompt and plan for subagent\_tool\_output | 2026-07-07 21:09:39 EDT |
+| — | — | `1b33529` | fix: surface subagent final output | 2026-07-07 21:22:40 EDT |
+| code | — | `dd1d49b` | feat(ace): labeled launch-context cluster on every tab's status row | 2026-09-21 19:42:05 EDT |
 
 ## Neighbors
 
@@ -41,7 +41,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [1h.f0.f0.f0.w0](../agents/bbugyi200.apollo.1h.f0.f0.f0.w0/README.md) | descendant | waiting |
 | [1h.f0.f0.f0.w1](../agents/bbugyi200.apollo.1h.f0.f0.f0.w1/README.md) | descendant | waiting |
 | [1h.f0.f0.f0.w2](bbugyi200.apollo.1h.f0.f0.f0.w2.md) (session · 5) | descendant | completed 3, failed 2 |
-| [1h.f0.f0.f0.w2.w0](bbugyi200.apollo.1h.f0.f0.f0.w2.w0.md) (session · 3) | descendant | active 2, failed 1 |
+| [1h.f0.f0.f0.w2.w0](bbugyi200.apollo.1h.f0.f0.f0.w2.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
 | [1h.f0.f0.f0.w2.w0](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2.w0/README.md) | descendant | waiting |
 | [1h.f0.f0.f0.w2.w0.w0](bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.md) (session · 3) | descendant | active 2, failed 1 |
 | [1h.f0.f0.f0.w2.w0.w0.w0](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.w0/README.md) | descendant | waiting |

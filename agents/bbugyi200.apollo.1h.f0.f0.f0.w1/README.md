@@ -27,7 +27,7 @@
 | [1h](../../sessions/bbugyi200.apollo.1h.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
 | [1h.f0.f0.f0.w0](../bbugyi200.apollo.1h.f0.f0.f0.w0/README.md) | 1h.f0.f0.f0 hood | waiting |
 | [1h.f0.f0.f0.w2](../../sessions/bbugyi200.apollo.1h.f0.f0.f0.w2.md) (session · 5) | 1h.f0.f0.f0 hood | completed 3, failed 2 |
-| [1h.f0.f0.f0.w2.w0](../../sessions/bbugyi200.apollo.1h.f0.f0.f0.w2.w0.md) (session · 3) | 1h.f0.f0.f0 hood | active 2, failed 1 |
+| [1h.f0.f0.f0.w2.w0](../../sessions/bbugyi200.apollo.1h.f0.f0.f0.w2.w0.md) (session · 3) | 1h.f0.f0.f0 hood | active 1, completed 1, failed 1 |
 | [1h.f0.f0.f0.w2.w0](../bbugyi200.apollo.1h.f0.f0.f0.w2.w0/README.md) | 1h.f0.f0.f0 hood | waiting |
 | [1h.f0.f0.f0.w2.w0.w0](../../sessions/bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.md) (session · 3) | 1h.f0.f0.f0 hood | active 2, failed 1 |
 | [1h.f0.f0.f0.w2.w0.w0.w0](../bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.w0/README.md) | 1h.f0.f0.f0 hood | waiting |

@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ce1336e`](https://github.com/sase-org/sase/commit/ce1336eec711d7db93878d75e38afcd32ce19af8) | feat(ace): add Agents deck picker modal on pick\_deck key | 2026-09-25 11:36:52 EDT |
+| — | `ce1336e` | feat(ace): add Agents deck picker modal on pick\_deck key | 2026-09-25 11:36:52 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [1p.f0](../../sessions/bbugyi200.apollo.1p.f0.md) (session · 3) | descendant | active 2, failed 1 |
+| [1p.f0](../../sessions/bbugyi200.apollo.1p.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |

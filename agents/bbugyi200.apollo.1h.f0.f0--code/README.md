@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`215f1cd`](https://github.com/sase-org/sase/commit/215f1cd26774e2d70e6234c9d7fb2dc03b6c3241) | feat(ace): lowercase launch-context labels to model:/project: | 2026-09-22 08:20:47 EDT |
+| — | `215f1cd` | feat(ace): lowercase launch-context labels to model:/project: | 2026-09-22 08:20:47 EDT |
 
 ## Neighbors
 
@@ -33,7 +33,7 @@
 | [1h.f0.f0.f0.w0](../bbugyi200.apollo.1h.f0.f0.f0.w0/README.md) | descendant | waiting |
 | [1h.f0.f0.f0.w1](../bbugyi200.apollo.1h.f0.f0.f0.w1/README.md) | descendant | waiting |
 | [1h.f0.f0.f0.w2](../../sessions/bbugyi200.apollo.1h.f0.f0.f0.w2.md) (session · 5) | descendant | completed 3, failed 2 |
-| [1h.f0.f0.f0.w2.w0](../../sessions/bbugyi200.apollo.1h.f0.f0.f0.w2.w0.md) (session · 3) | descendant | active 2, failed 1 |
+| [1h.f0.f0.f0.w2.w0](../../sessions/bbugyi200.apollo.1h.f0.f0.f0.w2.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
 | [1h.f0.f0.f0.w2.w0](../bbugyi200.apollo.1h.f0.f0.f0.w2.w0/README.md) | descendant | waiting |
 | [1h.f0.f0.f0.w2.w0.w0](../../sessions/bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.md) (session · 3) | descendant | active 2, failed 1 |
 | [1h.f0.f0.f0.w2.w0.w0.w0](../bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.w0/README.md) | descendant | waiting |
