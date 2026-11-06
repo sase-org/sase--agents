@@ -2,15 +2,21 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [sase-1oj](../users/bbugyi200/machines/apollo/hoods/sase-1oj/README.md) / sase-1oj.4
 
-Owner: `bbugyi200.apollo` · Hood: `sase-1oj` · Members: 2 · Bead: [sase-1oj.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1oj/sase-1oj.4.md)
+Owner: `bbugyi200.apollo` · Hood: `sase-1oj` · Members: 5 · Bead: [sase-1oj.4](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1oj/sase-1oj.4.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
   n0["sase-1oj.4--plan [failed]"]
-  n1["sase-1oj.4--mon [active]"]
+  n1["sase-1oj.4--2 [active]"]
   n0 --> n1
+  n2["sase-1oj.4--mon-0 [active]"]
+  n0 --> n2
+  n3["sase-1oj.4--mon [active]"]
+  n0 --> n3
+  n4["sase-1oj.4--1 [active]"]
+  n0 --> n4
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -18,13 +24,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-1oj.4--plan | failed | grok-4.6 / grok | 2026-10-26T22:10:03.181924+00:00 → 2026-10-27T02:16:32.536249+00:00 | [1](../agents/bbugyi200.apollo.sase-1oj.4--plan/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-1oj.4--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1oj.4--plan/chat.md) |
-| <a id="member-mon"></a>mon | sase-1oj.4--mon | active | grok-4.6 / grok | 2026-10-27T02:15:39.732979+00:00 | 0 | — | — |
+| <a id="member-2"></a>2 | sase-1oj.4--2 | active | grok-4.6 / grok | 2026-10-27T03:40:45.484309+00:00 | [1](../agents/bbugyi200.apollo.sase-1oj.4--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-1oj.4--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1oj.4--2/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | sase-1oj.4--mon-0 | active | grok-4.6 / grok | 2026-10-27T03:23:03.720088+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1oj.4--mon-0/chat.md) |
+| <a id="member-mon"></a>mon | sase-1oj.4--mon | active | grok-4.6 / grok | 2026-10-27T02:15:39.732979+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1oj.4--mon/chat.md) |
+| <a id="member-1"></a>1 | sase-1oj.4--1 | active | grok-4.6 / grok | 2026-10-27T03:16:37.094022+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1oj.4--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1oj.4--1/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | plan | sase | [`e7d9f7a`](https://github.com/sase-org/sase/commit/e7d9f7a479664f412422ce40c0e679d29e5db41c) | feat(runner-slots): adopt pruned capacity scan | 2026-10-26 22:05:57 EDT |
+| 2 | sase | [`f837112`](https://github.com/sase-org/sase/commit/f83711219c0c5cb137d5b94a25a8923cd7357adf) | test(runner-slots): pin live pids in capacity-scan adoption tests | 2026-10-26 23:45:36 EDT |
 
 ## Neighbors
 
