@@ -29,4 +29,4 @@
 |---|---|---|
 | [toobig-9e.recover.0](../bbugyi200.athena.toobig-9e.recover.0/README.md) | toobig-9e hood | completed |
 | [toobig-9e.recovery\_successor.0](../bbugyi200.athena.toobig-9e.recovery_successor.0/README.md) | toobig-9e hood | completed |
-| [toobig-9e.test\_recovery\_bootstrap.0](../bbugyi200.athena.toobig-9e.test_recovery_bootstrap.0/README.md) | toobig-9e hood | waiting |
+| [toobig-9e.test\_recovery\_bootstrap.0](../bbugyi200.athena.toobig-9e.test_recovery_bootstrap.0/README.md) | toobig-9e hood | completed |
