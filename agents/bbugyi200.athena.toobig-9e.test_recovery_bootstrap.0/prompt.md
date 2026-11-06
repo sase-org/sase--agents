@@ -1,6 +1,6 @@
+%auto
 %id(test_recovery_bootstrap.0, clan=toobig-9e)
 %model:@medium
-%auto
 %queue(capacity=5)
 #gh:gh_sase-org__sase Can you help me split the `tests/agent/test_recovery_bootstrap.py` file into multiple files? Use your best
 %wait:toobig-9e.recovery_successor.0

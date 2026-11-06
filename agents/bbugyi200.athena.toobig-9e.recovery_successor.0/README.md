@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [toobig-9e](../../users/bbugyi200/machines/athena/hoods/toobig-9e/README.md) / toobig-9e.recovery\_successor.0
 
-**Global name:** `bbugyi200.athena.toobig-9e.recovery_successor.0` · **State:** waiting · **Source run:** `run-b1c2ecb1602ca498937231fe8e2d1dc1`
+**Global name:** `bbugyi200.athena.toobig-9e.recovery_successor.0` · **State:** completed · **Source run:** `run-b1c2ecb1602ca498937231fe8e2d1dc1`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** toobig-9e
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261105162134
-- Commits: 0
+- Timing: 2026-11-06T03:15:56.843941+00:00 → 2026-11-06T03:39:56.836630+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`49b2ff5`](https://github.com/sase-org/sase/commit/49b2ff52f37b69cb216f7a9f72fa2e298e77e4de) | refactor(agent-hijack): split recovery successor module | 2026-11-05 22:39:45 EST |
 
 ## Neighbors
 
