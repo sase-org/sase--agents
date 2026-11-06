@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1784316516,"sha":"328b3b5208c5a005b1db105669769e29f27f7338","subject":"feat(ace): summarize collapsed agent panels"},{"committed_at":1793832248,"sha":"99932634cdd41c5798ac7c5b104d6fcedcce58fb","subject":"fix(codex): recognize exec finals and discard mid-turn kills"}],"schema_version":2,"source_run_id":"run-77fbd730ac0406a0d420d601686f13ec"}
