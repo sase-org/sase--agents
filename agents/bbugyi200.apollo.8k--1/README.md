@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [8k](../../users/bbugyi200/machines/apollo/hoods/8k/README.md) / [8k](../../sessions/bbugyi200.apollo.8k.md) / 8k--1
 
-**Global name:** `bbugyi200.apollo.8k--1` · **State:** active · **Source run:** `run-afd482698a88ffe16df5e79a3c4bbde1`
+**Global name:** `bbugyi200.apollo.8k--1` · **State:** completed · **Source run:** `run-afd482698a88ffe16df5e79a3c4bbde1`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 8k
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-17T14:21:21.222366+00:00
+- Timing: 2026-10-17T14:21:21.222366+00:00 → 2026-10-17T20:31:08.012907+00:00
 - Commits: [1](#commits)
 - Variables: [1](#variables)
 
@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f2a7b80`](https://github.com/sase-org/sase/commit/f2a7b802f9727ffc62b871ae44973c92fa844df6) | fix(tests): derive healer fixture timestamps from test clock | 2026-10-17 15:13:31 EDT |
+| — | `f2a7b80` | fix(tests): derive healer fixture timestamps from test clock | 2026-10-17 15:13:31 EDT |
 
 ## Variables
 
