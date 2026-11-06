@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-9i.test\_agent\_publication\_recovery.0](../bbugyi200.athena.toobig-9i.test_agent_publication_recovery.0/README.md) | toobig-9i hood | active |
+| [toobig-9i.test\_agent\_publication\_recovery.0](../bbugyi200.athena.toobig-9i.test_agent_publication_recovery.0/README.md) | toobig-9i hood | completed |
 | [toobig-9i.test\_run\_agent\_runner\_notifications.0](../bbugyi200.athena.toobig-9i.test_run_agent_runner_notifications.0/README.md) | toobig-9i hood | waiting |
