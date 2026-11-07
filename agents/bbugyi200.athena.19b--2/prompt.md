@@ -1,0 +1,49 @@
+%queue(weight=1)
+#fork:19b--1
+%model:grok-4.6
+%effort:high
+
+%macros_enabled:false
+# Monitored command finished
+
+**Command:**
+
+```text
+just check
+```
+
+**Directory:**
+
+```text
+/home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12
+```
+
+| | |
+| --- | --- |
+| **Outcome** | COMPLETED — exit 0 |
+| **Started** | 2026-11-07T12:19:41.579020+00:00 |
+| **Finished** | 2026-11-07T12:30:51.034385Z |
+| **Elapsed** | 10m 6s of a 1h 0m 0s budget |
+| **Output** | 20 KiB · evidence refs: `file:monitor-diagnostic-manifest:4ry4tgt9j08t`, `file:monitor-retained-log:4ry4tgt9j08t` · raw output omitted: `facts_only` · full log: `sase monitor show 4ry4tgt9j08t --all-lines` |
+| **Tool run** | sase tool show b198c5cbea16c52d72577ff9b7a20628 |
+
+**Why this was monitored:** Verify sidecar terminal-handoff init before host completion
+
+## Failure triage
+
+verdict: pass
+
+KNOWN 0; FLAKY 0
+
+sase tool show b198c5cbea16c52d72577ff9b7a20628 -j
+
+## Host completion
+
+Verification COMPLETED — exit 0, but host completion did not land the change.
+
+- `stale_worktree_fingerprint` — the worktree changed after the completion was sealed — re-prepare the completion on the current tree.
+
+## Your next action
+
+Diagnose failures or stale verification, then finish the requested change.
+%macros_enabled:true
