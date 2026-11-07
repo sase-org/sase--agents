@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3l.linker
 
-**Global name:** `bbugyi200.apollo.research.3l.linker` · **State:** waiting · **Source run:** `run-f29db7ee327cb1f1bf8d2b16d0427c38`
+**Global name:** `bbugyi200.apollo.research.3l.linker` · **State:** completed · **Source run:** `run-f29db7ee327cb1f1bf8d2b16d0427c38`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261107094538
+- Timing: 2026-11-07T15:33:14.093968+00:00 → 2026-11-07T15:41:37.343071+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/waiting\_on\_remote\_machine\_agents/waiting\_on\_remote\_machine\_agents.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261107094538/waiting\_on\_rem… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/waiting_on_remote_machine_agents/waiting_on_remote_machine_agents.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261107094538/waiting_on_remote_machine_agents-c97ad300bc1f.md
+  ref: file:explicit:d7fce2912b2df25fbb307be9
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202611/waiting_on_remote_machine_agents/waiting_on_remote_machine_agents.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
