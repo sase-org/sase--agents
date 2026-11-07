@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3k.linker
 
-**Global name:** `bbugyi200.apollo.research.3k.linker` · **State:** waiting · **Source run:** `run-955549cfa6a4ced9d7a74751f20acbf3`
+**Global name:** `bbugyi200.apollo.research.3k.linker` · **State:** completed · **Source run:** `run-955549cfa6a4ced9d7a74751f20acbf3`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261107084955
+- Timing: 2026-11-07T14:44:15.839745+00:00 → 2026-11-07T14:54:55.986980+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/spotify\_library\_access\_for\_agents/spotify\_library\_access\_for\_agents.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261107084955/spotify\_libr… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/spotify_library_access_for_agents/spotify_library_access_for_agents.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261107084955/spotify_library_access_for_agents-e8bf3b8ecd6c.md
+  ref: file:explicit:476c48d498e0b45f92759d42
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202611/spotify_library_access_for_agents/spotify_library_access_for_agents.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

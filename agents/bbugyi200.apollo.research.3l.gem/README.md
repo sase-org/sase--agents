@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3l.gem
 
-**Global name:** `bbugyi200.apollo.research.3l.gem` · **State:** active · **Source run:** `run-64b60a3cd7d7f514abe4f7455f7a5b71`
+**Global name:** `bbugyi200.apollo.research.3l.gem` · **State:** completed · **Source run:** `run-64b60a3cd7d7f514abe4f7455f7a5b71`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,18 +10,37 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-11-07T14:47:01.265179+00:00
+- Timing: 2026-11-07T14:47:01.265179+00:00 → 2026-11-07T14:57:05.872246+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/remote\_machine\_agent\_wait\_directives\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261107094535/remote\_machine\_agent\_wait\_directives\_\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/remote_machine_agent_wait_directives__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261107094535/remote_machine_agent_wait_directives__gem-f33827799199.md
+  ref: file:explicit:d656b3f852d8f97be7b74744
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_16/sase/repos/research/202611/remote_machine_agent_wait_directives__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.3l.cdx](../bbugyi200.apollo.research.3l.cdx/README.md) | research.3l hood | active |
+| [research.3l.cdx](../bbugyi200.apollo.research.3l.cdx/README.md) | research.3l hood | completed |
 | [research.3l.cld](../bbugyi200.apollo.research.3l.cld/README.md) | research.3l hood | active |
 | [research.3l.final](../bbugyi200.apollo.research.3l.final/README.md) | research.3l hood | active |
 | [research.3l.grk](../bbugyi200.apollo.research.3l.grk/README.md) | research.3l hood | active |
