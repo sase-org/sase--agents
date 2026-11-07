@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3l.mus
 
-**Global name:** `bbugyi200.apollo.research.3l.mus` · **State:** active · **Source run:** `run-1a5441ac43870cfdb431d5aecf471fa2`
+**Global name:** `bbugyi200.apollo.research.3l.mus` · **State:** completed · **Source run:** `run-1a5441ac43870cfdb431d5aecf471fa2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-07T14:46:47.066830+00:00
+- Timing: 2026-11-07T14:46:47.066830+00:00 → 2026-11-07T14:53:33.196822+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/remote\_wait\_on\_enrolled\_machine\_\_mus.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261107094534/remote\_wait\_on\_enrolled\_machine\_\_mus-ceb711… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/remote_wait_on_enrolled_machine__mus.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261107094534/remote_wait_on_enrolled_machine__mus-ceb7119a4fbe.md
+  ref: file:explicit:59362007d41441b14c17fbbc
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_15/sase/repos/research/202611/remote_wait_on_enrolled_machine__mus.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
