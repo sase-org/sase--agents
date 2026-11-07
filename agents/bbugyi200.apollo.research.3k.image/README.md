@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3k.image
 
-**Global name:** `bbugyi200.apollo.research.3k.image` · **State:** waiting · **Source run:** `run-696f7b158cbc14601747f7d0a01af51b`
+**Global name:** `bbugyi200.apollo.research.3k.image` · **State:** completed · **Source run:** `run-696f7b158cbc14601747f7d0a01af51b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261107084954
+- Timing: 2026-11-07T14:33:27.740258+00:00 → 2026-11-07T14:43:59.528383+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202611/spotify\_library\_access\_for\_agents/spotify\_library\_access\_for\_agents.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261107084954/spo… |
+| `diagrams` | {considered: 20, count: 2, manifest: 202611/spotify\_library\_access\_for\_agents/spotify\_library\_access\_for\_agents.diagrams.md, source\_ref: file:explicit:50fa8d0e1cd52a4290c9918f, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202611/spotify_library_access_for_agents/spotify_library_access_for_agents.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261107084954/spotify_library_access_for_agents.diagrams-347b2ccbf081.md
+  ref: file:explicit:1106dc9feae573958a7324c9
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202611/spotify_library_access_for_agents/spotify_library_access_for_agents.diagrams.md
+- kind: image
+  label: infographic:202611/spotify_library_access_for_agents/spotify_library_access_for_agents_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261107084954/spotify_library_access_for_agents_infographic-02f5eb4d3f09.png
+  ref: file:explicit:558789a004080f33bfd5ddbd
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202611/spotify_library_access_for_agents/spotify_library_access_for_agents_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 20
+count: 2
+manifest: 202611/spotify_library_access_for_agents/spotify_library_access_for_agents.diagrams.md
+source_ref: file:explicit:50fa8d0e1cd52a4290c9918f
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -78,4 +113,4 @@
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | active |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | active |
-| … and 641 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 649 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
