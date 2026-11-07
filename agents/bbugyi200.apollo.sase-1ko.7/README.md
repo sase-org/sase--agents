@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d265233`](https://github.com/sase-org/sase/commit/d2652334910952f8c244b58d3d32f1ae4ed8d0fd) | feat(claude): deliver explicit root and helper instruction bundles | 2026-10-14 07:42:50 EDT |
+| — | `d265233` | feat(claude): deliver explicit root and helper instruction bundles | 2026-10-14 07:42:50 EDT |
 
 ## Neighbors
 
@@ -37,4 +37,4 @@
 | [sase-1ko.6](../bbugyi200.apollo.sase-1ko.6/README.md) | sase-1ko hood | completed |
 | [sase-1ko.8](../bbugyi200.apollo.sase-1ko.8/README.md) | sase-1ko hood | completed |
 | [sase-1ko.9](../../sessions/bbugyi200.apollo.sase-1ko.9.md) (session · 3) | sase-1ko hood | completed 2, failed 1 |
-| [sase-1ko.land](../../sessions/bbugyi200.apollo.sase-1ko.land.md) (session · 3) | sase-1ko hood | active 2, failed 1 |
+| [sase-1ko.land](../../sessions/bbugyi200.apollo.sase-1ko.land.md) (session · 3) | sase-1ko hood | active 1, completed 1, failed 1 |

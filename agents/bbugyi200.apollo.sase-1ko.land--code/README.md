@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1ko](../../users/bbugyi200/machines/apollo/hoods/sase-1ko/README.md) / [sase-1ko.land](../../sessions/bbugyi200.apollo.sase-1ko.land.md) / sase-1ko.land--code
 
-**Global name:** `bbugyi200.apollo.sase-1ko.land--code` · **State:** active · **Source run:** `run-9fad6c792c089a8947b7372454b0d529`
+**Global name:** `bbugyi200.apollo.sase-1ko.land--code` · **State:** completed · **Source run:** `run-9fad6c792c089a8947b7372454b0d529`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1ko
 
@@ -11,14 +11,14 @@
 - Bead: [sase-1ko](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ko/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-14T14:08:05.243278+00:00
+- Timing: 2026-10-14T14:08:05.243278+00:00 → 2026-10-14T15:38:03.117728+00:00
 - Commits: [1](#commits)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d070e6b`](https://github.com/sase-org/sase/commit/d070e6b2dc17d1229f6d13b2a4d0ab1dd25b0f5d) | fix(instructions): land remaining E3 explicit-delivery defects | 2026-10-14 11:30:55 EDT |
+| — | `d070e6b` | fix(instructions): land remaining E3 explicit-delivery defects | 2026-10-14 11:30:55 EDT |
 
 ## Neighbors
 

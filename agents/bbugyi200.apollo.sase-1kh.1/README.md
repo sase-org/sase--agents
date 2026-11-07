@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1a638ea`](https://github.com/sase-org/sase/commit/1a638eac95b42c13014dd76c384dbfb56f5b323f) | feat(workspace): rescue linked and external clones before eviction | 2026-10-13 10:51:55 EDT |
+| — | `1a638ea` | feat(workspace): rescue linked and external clones before eviction | 2026-10-13 10:51:55 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-1kh.2](../../sessions/bbugyi200.apollo.sase-1kh.2.md) (session · 3) | sase-1kh hood | completed 2, failed 1 |
 | [sase-1kh.3](../bbugyi200.apollo.sase-1kh.3/README.md) | sase-1kh hood | completed |
-| [sase-1kh.land](../../sessions/bbugyi200.apollo.sase-1kh.land.md) (session · 3) | sase-1kh hood | active 2, failed 1 |
+| [sase-1kh.land](../../sessions/bbugyi200.apollo.sase-1kh.land.md) (session · 3) | sase-1kh hood | active 1, completed 1, failed 1 |

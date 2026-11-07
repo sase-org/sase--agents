@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`64bd007`](https://github.com/sase-org/sase/commit/64bd0072040862eb93916ea30bd0c899352cb9c4) | feat(monitor): default monitor cwd to linked clone directory | 2026-10-13 10:43:06 EDT |
+| — | `64bd007` | feat(monitor): default monitor cwd to linked clone directory | 2026-10-13 10:43:06 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-1kh.1](../bbugyi200.apollo.sase-1kh.1/README.md) | sase-1kh hood | completed |
 | [sase-1kh.2](../../sessions/bbugyi200.apollo.sase-1kh.2.md) (session · 3) | sase-1kh hood | completed 2, failed 1 |
-| [sase-1kh.land](../../sessions/bbugyi200.apollo.sase-1kh.land.md) (session · 3) | sase-1kh hood | active 2, failed 1 |
+| [sase-1kh.land](../../sessions/bbugyi200.apollo.sase-1kh.land.md) (session · 3) | sase-1kh hood | active 1, completed 1, failed 1 |

@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `sase-1kh` · Members: 3 · Bead: [sase-1kh](
 ```mermaid
 flowchart TD
   n0["sase-1kh.land--gate [failed]"]
-  n1["sase-1kh.land--code [active]"]
+  n1["sase-1kh.land--code [completed]"]
   n0 --> n1
   n2["sase-1kh.land--plan [active]"]
   n0 --> n2
@@ -20,14 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1kh.land--gate | failed | gpt-6.1-sol / codex | 2026-10-13T15:23:21.798132+00:00 → 2026-10-13T15:23:38.834669+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1kh.land--gate/chat.md) |
-| <a id="member-code"></a>code | sase-1kh.land--code | active | gpt-6-luna / codex | 2026-10-13T15:24:13.691210+00:00 | [1](../agents/bbugyi200.apollo.sase-1kh.land--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | sase-1kh.land--code | completed | gpt-6-luna / codex | 2026-10-13T15:24:13.691210+00:00 → 2026-10-13T17:30:02.006632+00:00 | [1](../agents/bbugyi200.apollo.sase-1kh.land--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-1kh.land--plan | active | gpt-6.1-sol / codex | 2026-10-13T14:57:23.645632+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1kh.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1kh.land--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`c3d7a7e`](https://github.com/sase-org/sase/commit/c3d7a7e9b5bd4a5ef9697b3411a97a7a8f01c10e) | fix(finalizer): restrict raw commit absorption to owned suffixes | 2026-10-13 13:24:06 EDT |
+| code | — | `c3d7a7e` | fix(finalizer): restrict raw commit absorption to owned suffixes | 2026-10-13 13:24:06 EDT |
 
 ## Variables
 

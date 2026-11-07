@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`88acef6`](https://github.com/sase-org/sase/commit/88acef62344479241af5036af108f92fbc71a1eb) | feat(instructions): record E3 explicit-delivery acceptance | 2026-10-14 09:18:29 EDT |
+| — | `88acef6` | feat(instructions): record E3 explicit-delivery acceptance | 2026-10-14 09:18:29 EDT |
 
 ## Neighbors
 
@@ -38,4 +38,4 @@
 | [sase-1ko.7](../bbugyi200.apollo.sase-1ko.7/README.md) | sase-1ko hood | completed |
 | [sase-1ko.8](../bbugyi200.apollo.sase-1ko.8/README.md) | sase-1ko hood | completed |
 | [sase-1ko.9](../../sessions/bbugyi200.apollo.sase-1ko.9.md) (session · 3) | sase-1ko hood | completed 2, failed 1 |
-| [sase-1ko.land](../../sessions/bbugyi200.apollo.sase-1ko.land.md) (session · 3) | sase-1ko hood | active 2, failed 1 |
+| [sase-1ko.land](../../sessions/bbugyi200.apollo.sase-1ko.land.md) (session · 3) | sase-1ko hood | active 1, completed 1, failed 1 |

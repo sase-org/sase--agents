@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`429353b`](https://github.com/sase-org/sase/commit/429353b015be5e4f644a6ee5762be5dd3df64e6b) | feat(codex): deliver explicit root instructions | 2026-10-14 00:17:31 EDT |
+| — | `429353b` | feat(codex): deliver explicit root instructions | 2026-10-14 00:17:31 EDT |
 
 ## Neighbors
 
@@ -39,4 +39,4 @@
 | [sase-1ko.7](../../sessions/bbugyi200.apollo.sase-1ko.7.md) (session · 8) | sase-1ko hood | active 1, completed 4, failed 3 |
 | [sase-1ko.7](../bbugyi200.apollo.sase-1ko.7/README.md) | sase-1ko hood | completed |
 | [sase-1ko.9](../../sessions/bbugyi200.apollo.sase-1ko.9.md) (session · 3) | sase-1ko hood | completed 2, failed 1 |
-| [sase-1ko.land](../../sessions/bbugyi200.apollo.sase-1ko.land.md) (session · 3) | sase-1ko hood | active 2, failed 1 |
+| [sase-1ko.land](../../sessions/bbugyi200.apollo.sase-1ko.land.md) (session · 3) | sase-1ko hood | active 1, completed 1, failed 1 |

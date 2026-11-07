@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`96090a5`](https://github.com/sase-org/sase/commit/96090a52cfb4b38a64e8a05a23d305bf0009080b) | feat(instructions): adopt manifest v2 delivery slots | 2026-10-13 19:44:26 EDT |
+| — | `96090a5` | feat(instructions): adopt manifest v2 delivery slots | 2026-10-13 19:44:26 EDT |
 
 ## Neighbors
 
@@ -39,4 +39,4 @@
 | [sase-1ko.7](../bbugyi200.apollo.sase-1ko.7/README.md) | sase-1ko hood | completed |
 | [sase-1ko.8](../bbugyi200.apollo.sase-1ko.8/README.md) | sase-1ko hood | completed |
 | [sase-1ko.9](../../sessions/bbugyi200.apollo.sase-1ko.9.md) (session · 3) | sase-1ko hood | completed 2, failed 1 |
-| [sase-1ko.land](../../sessions/bbugyi200.apollo.sase-1ko.land.md) (session · 3) | sase-1ko hood | active 2, failed 1 |
+| [sase-1ko.land](../../sessions/bbugyi200.apollo.sase-1ko.land.md) (session · 3) | sase-1ko hood | active 1, completed 1, failed 1 |

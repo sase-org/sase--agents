@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1kh](../../users/bbugyi200/machines/apollo/hoods/sase-1kh/README.md) / [sase-1kh.land](../../sessions/bbugyi200.apollo.sase-1kh.land.md) / sase-1kh.land--code
 
-**Global name:** `bbugyi200.apollo.sase-1kh.land--code` · **State:** active · **Source run:** `run-2b1a4aaa40336421dfa8d5f1f38be8c3`
+**Global name:** `bbugyi200.apollo.sase-1kh.land--code` · **State:** completed · **Source run:** `run-2b1a4aaa40336421dfa8d5f1f38be8c3`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1kh
 
@@ -11,14 +11,14 @@
 - Bead: [sase-1kh](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1kh/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-13T15:24:13.691210+00:00
+- Timing: 2026-10-13T15:24:13.691210+00:00 → 2026-10-13T17:30:02.006632+00:00
 - Commits: [1](#commits)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c3d7a7e`](https://github.com/sase-org/sase/commit/c3d7a7e9b5bd4a5ef9697b3411a97a7a8f01c10e) | fix(finalizer): restrict raw commit absorption to owned suffixes | 2026-10-13 13:24:06 EDT |
+| — | `c3d7a7e` | fix(finalizer): restrict raw commit absorption to owned suffixes | 2026-10-13 13:24:06 EDT |
 
 ## Neighbors
 

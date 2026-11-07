@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8847d07`](https://github.com/sase-org/sase/commit/8847d07a086b9e930f1a787425ec4c3272ea6824) | feat(instructions): add Grok and Muse explicit delivery | 2026-10-14 04:42:35 EDT |
+| — | `8847d07` | feat(instructions): add Grok and Muse explicit delivery | 2026-10-14 04:42:35 EDT |
 
 ## Neighbors
 
@@ -38,4 +38,4 @@
 | [sase-1ko.7](../../sessions/bbugyi200.apollo.sase-1ko.7.md) (session · 8) | sase-1ko hood | active 1, completed 4, failed 3 |
 | [sase-1ko.7](../bbugyi200.apollo.sase-1ko.7/README.md) | sase-1ko hood | completed |
 | [sase-1ko.8](../bbugyi200.apollo.sase-1ko.8/README.md) | sase-1ko hood | completed |
-| [sase-1ko.land](../../sessions/bbugyi200.apollo.sase-1ko.land.md) (session · 3) | sase-1ko hood | active 2, failed 1 |
+| [sase-1ko.land](../../sessions/bbugyi200.apollo.sase-1ko.land.md) (session · 3) | sase-1ko hood | active 1, completed 1, failed 1 |

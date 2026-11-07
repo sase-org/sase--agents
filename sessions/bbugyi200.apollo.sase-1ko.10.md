@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| mon-0 | sase | [`88acef6`](https://github.com/sase-org/sase/commit/88acef62344479241af5036af108f92fbc71a1eb) | feat(instructions): record E3 explicit-delivery acceptance | 2026-10-14 09:18:29 EDT |
+| mon-0 | — | `88acef6` | feat(instructions): record E3 explicit-delivery acceptance | 2026-10-14 09:18:29 EDT |
 
 ## Variables
 
@@ -82,4 +82,4 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1ko.7](../agents/bbugyi200.apollo.sase-1ko.7/README.md) | sase-1ko hood | completed |
 | [sase-1ko.8](../agents/bbugyi200.apollo.sase-1ko.8/README.md) | sase-1ko hood | completed |
 | [sase-1ko.9](bbugyi200.apollo.sase-1ko.9.md) (session · 3) | sase-1ko hood | completed 2, failed 1 |
-| [sase-1ko.land](bbugyi200.apollo.sase-1ko.land.md) (session · 3) | sase-1ko hood | active 2, failed 1 |
+| [sase-1ko.land](bbugyi200.apollo.sase-1ko.land.md) (session · 3) | sase-1ko hood | active 1, completed 1, failed 1 |

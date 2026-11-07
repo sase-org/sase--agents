@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / sase-1ko
 
-**Global hood:** `bbugyi200.apollo.sase-1ko` · **Runs:** 31 · **Sessions:** 5 · **States:** active 3, completed 19, failed 9
+**Global hood:** `bbugyi200.apollo.sase-1ko` · **Runs:** 31 · **Sessions:** 5 · **States:** active 2, completed 20, failed 9
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -21,7 +21,7 @@
 | [sase-1ko.land--gate](../../../../../../sessions/bbugyi200.apollo.sase-1ko.land.md#member-gate) | failed | opus / claude | 2026-10-14T14:07:31.239152+00:00 → 2026-10-14T14:07:47.525773+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1ko.land--gate/chat.md) |
 | [sase-1ko.4--1](../../../../../../sessions/bbugyi200.apollo.sase-1ko.4.md#member-1) | completed | grok-4.6 / grok | 2026-10-14T03:40:29.576479+00:00 → 2026-10-14T03:58:18.827327+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1ko.4--1/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-1ko.4--1/prompt.md) |
 | [sase-1ko.7--mon](../../../../../../sessions/bbugyi200.apollo.sase-1ko.7.md#member-mon) | failed | grok-4.6 / grok | 2026-10-14T04:12:54.474577+00:00 → 2026-10-14T05:14:00.250409+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1ko.7--mon/chat.md) |
-| [sase-1ko.land--code](../../../../../../sessions/bbugyi200.apollo.sase-1ko.land.md#member-code) | active | grok-4.6 / grok | 2026-10-14T14:08:05.243278+00:00 | 1 | — |
+| [sase-1ko.land--code](../../../../../../sessions/bbugyi200.apollo.sase-1ko.land.md#member-code) | completed | grok-4.6 / grok | 2026-10-14T14:08:05.243278+00:00 → 2026-10-14T15:38:03.117728+00:00 | 1 | — |
 | [sase-1ko.7--3](../../../../../../sessions/bbugyi200.apollo.sase-1ko.7.md#member-3) | completed | grok-4.6 / grok | 2026-10-14T08:14:13.864311+00:00 → 2026-10-14T08:29:32.375303+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1ko.7--3/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-1ko.7--3/prompt.md) |
 | [sase-1ko.land--plan](../../../../../../sessions/bbugyi200.apollo.sase-1ko.land.md#member-plan) | active | opus / claude | 2026-10-14T13:25:39.483173+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1ko.land--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-1ko.land--plan/prompt.md) |
 | [sase-1ko.7](../../../../../../agents/bbugyi200.apollo.sase-1ko.7/README.md) | completed | gpt-6-astra / codex | 2026-10-14T10:33:32.735693+00:00 → 2026-10-14T11:50:45.145679+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1ko.7/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-1ko.7/prompt.md) |

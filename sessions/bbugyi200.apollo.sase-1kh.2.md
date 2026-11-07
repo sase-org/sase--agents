@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`86a343d`](https://github.com/sase-org/sase/commit/86a343de2860e17559cec2a0deb32208615b659b) | feat(finalizers): add raw-commit backstop with foreign-trailer exemption | 2026-10-13 09:44:51 EDT |
+| 1 | — | `86a343d` | feat(finalizers): add raw-commit backstop with foreign-trailer exemption | 2026-10-13 09:44:51 EDT |
 
 ## Neighbors
 
@@ -35,4 +35,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1kh.1](../agents/bbugyi200.apollo.sase-1kh.1/README.md) | sase-1kh hood | completed |
 | [sase-1kh.3](../agents/bbugyi200.apollo.sase-1kh.3/README.md) | sase-1kh hood | completed |
-| [sase-1kh.land](bbugyi200.apollo.sase-1kh.land.md) (session · 3) | sase-1kh hood | active 2, failed 1 |
+| [sase-1kh.land](bbugyi200.apollo.sase-1kh.land.md) (session · 3) | sase-1kh hood | active 1, completed 1, failed 1 |

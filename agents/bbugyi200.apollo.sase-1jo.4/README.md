@@ -46,4 +46,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [sase-1jo.1](../bbugyi200.apollo.sase-1jo.1/README.md) | sase-1jo hood | completed |
 | [sase-1jo.2](../bbugyi200.apollo.sase-1jo.2/README.md) | sase-1jo hood | completed |
 | [sase-1jo.3](../../sessions/bbugyi200.apollo.sase-1jo.3.md) (session · 3) | sase-1jo hood | completed 2, failed 1 |
-| [sase-1jo.land](../../sessions/bbugyi200.apollo.sase-1jo.land.md) (session · 3) | sase-1jo hood | active 2, failed 1 |
+| [sase-1jo.land](../../sessions/bbugyi200.apollo.sase-1jo.land.md) (session · 3) | sase-1jo hood | active 1, completed 1, failed 1 |
