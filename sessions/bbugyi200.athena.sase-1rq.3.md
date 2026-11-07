@@ -29,13 +29,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1rq.3.1.1](../agents/bbugyi200.athena.sase-1rq.3.1.1/README.md) | descendant | completed |
 | [sase-1rq.3.1.2](../agents/bbugyi200.athena.sase-1rq.3.1.2/README.md) | descendant | completed |
-| [sase-1rq.3.1.3](../agents/bbugyi200.athena.sase-1rq.3.1.3/README.md) | descendant | waiting |
+| [sase-1rq.3.1.3](bbugyi200.athena.sase-1rq.3.1.3.md) (session · 3) | descendant | active 2, completed 1 |
 | [sase-1rq.3.1.4](../agents/bbugyi200.athena.sase-1rq.3.1.4/README.md) | descendant | waiting |
 | [sase-1rq.3.1.land](../agents/bbugyi200.athena.sase-1rq.3.1.land/README.md) | descendant | waiting |
-| [sase-1rq.1](bbugyi200.athena.sase-1rq.1.md) (session · 8) | sase-1rq hood | active 1, completed 7 |
+| [sase-1rq.1](bbugyi200.athena.sase-1rq.1.md) (session · 9) | sase-1rq hood | completed 9 |
 | [sase-1rq.2](../agents/bbugyi200.athena.sase-1rq.2/README.md) | sase-1rq hood | waiting |
 | [sase-1rq.4](bbugyi200.athena.sase-1rq.4.md) (session · 3) | sase-1rq hood | active 1, completed 2 |
-| [sase-1rq.4.1.1](bbugyi200.athena.sase-1rq.4.1.1.md) (session · 7) | sase-1rq hood | active 1, completed 4, failed 2 |
+| [sase-1rq.4.1.1](bbugyi200.athena.sase-1rq.4.1.1.md) (session · 8) | sase-1rq hood | active 1, completed 5, failed 2 |
 | [sase-1rq.4.1.2](bbugyi200.athena.sase-1rq.4.1.2.md) (session · 3) | sase-1rq hood | completed 2, failed 1 |
 | [sase-1rq.4.1.3](../agents/bbugyi200.athena.sase-1rq.4.1.3/README.md) | sase-1rq hood | active |
 | [sase-1rq.4.1.4](../agents/bbugyi200.athena.sase-1rq.4.1.4/README.md) | sase-1rq hood | waiting |
