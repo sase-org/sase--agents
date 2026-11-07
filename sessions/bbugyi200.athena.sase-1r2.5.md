@@ -31,7 +31,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1r2.2](../agents/bbugyi200.athena.sase-1r2.2/README.md) | sase-1r2 hood | completed |
 | [sase-1r2.3](bbugyi200.athena.sase-1r2.3.md) (session · 7) | sase-1r2 hood | completed 4, failed 3 |
 | [sase-1r2.4](../agents/bbugyi200.athena.sase-1r2.4/README.md) | sase-1r2 hood | completed |
-| [sase-1r2.6](bbugyi200.athena.sase-1r2.6.md) (session · 3) | sase-1r2 hood | active 1, completed 1, failed 1 |
+| [sase-1r2.6](bbugyi200.athena.sase-1r2.6.md) (session · 5) | sase-1r2 hood | active 1, completed 3, failed 1 |
 | [sase-1r2.6](../agents/bbugyi200.athena.sase-1r2.6/README.md) | sase-1r2 hood | waiting |
 | [sase-1r2.7](bbugyi200.athena.sase-1r2.7.md) (session · 3) | sase-1r2 hood | completed 2, failed 1 |
 | [sase-1r2.8](../agents/bbugyi200.athena.sase-1r2.8/README.md) | sase-1r2 hood | completed |
