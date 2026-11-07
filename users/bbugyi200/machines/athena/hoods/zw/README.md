@@ -2,9 +2,9 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / zw
 
-**Global hood:** `bbugyi200.athena.zw` · **Runs:** 2 · **Sessions:** 1 · **States:** active 1, failed 1
+**Global hood:** `bbugyi200.athena.zw` · **Runs:** 2 · **Sessions:** 1 · **States:** completed 1, failed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [zw--mon](../../../../../../sessions/bbugyi200.athena.zw.md#member-mon) | active | opus / claude | 2026-08-13T19:23:25.608493+00:00 | 0 | — |
+| [zw--mon](../../../../../../sessions/bbugyi200.athena.zw.md#member-mon) | completed | opus / claude | 2026-08-13T19:23:25.608493+00:00 | 0 | — |
 | [zw--plan](../../../../../../sessions/bbugyi200.athena.zw.md#member-plan) | failed | opus / claude | 2026-08-13T19:11:48.429241+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.zw--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.zw--plan/prompt.md) |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [zw](../../users/bbugyi200/machines/athena/hoods/zw/README.md) / [zw](../../sessions/bbugyi200.athena.zw.md) / zw--mon
 
-**Global name:** `bbugyi200.athena.zw--mon` · **State:** active · **Source run:** `run-9d6e007f2386bba811b564c3189945bd`
+**Global name:** `bbugyi200.athena.zw--mon` · **State:** completed · **Source run:** `run-9d6e007f2386bba811b564c3189945bd`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** zw
 
