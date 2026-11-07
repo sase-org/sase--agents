@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3l.grk
 
-**Global name:** `bbugyi200.apollo.research.3l.grk` · **State:** active · **Source run:** `run-f1c3878d08dcab4451326e78f4e2c2f1`
+**Global name:** `bbugyi200.apollo.research.3l.grk` · **State:** completed · **Source run:** `run-f1c3878d08dcab4451326e78f4e2c2f1`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,19 +10,38 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-07T14:46:23.104370+00:00
+- Timing: 2026-11-07T14:46:23.104370+00:00 → 2026-11-07T15:01:00.255614+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/cross\_machine\_agent\_wait\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261107094533/cross\_machine\_agent\_wait\_\_grk-60913cb35e11.md, ref… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/cross_machine_agent_wait__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261107094533/cross_machine_agent_wait__grk-60913cb35e11.md
+  ref: file:explicit:3778ed69adef230f19fcadb1
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_14/sase/repos/research/202611/cross_machine_agent_wait__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.3l.cdx](../bbugyi200.apollo.research.3l.cdx/README.md) | research.3l hood | completed |
-| [research.3l.cld](../bbugyi200.apollo.research.3l.cld/README.md) | research.3l hood | active |
+| [research.3l.cld](../bbugyi200.apollo.research.3l.cld/README.md) | research.3l hood | completed |
 | [research.3l.final](../bbugyi200.apollo.research.3l.final/README.md) | research.3l hood | active |
 | [research.3l.gem](../bbugyi200.apollo.research.3l.gem/README.md) | research.3l hood | completed |
 | [research.3l.image](../bbugyi200.apollo.research.3l.image/README.md) | research.3l hood | active |
