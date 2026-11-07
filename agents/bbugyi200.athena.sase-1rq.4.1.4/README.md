@@ -91,7 +91,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [sase-1rq.2](../../sessions/bbugyi200.athena.sase-1rq.2.md) (session · 3) | sase-1rq hood | active 1, completed 2 |
 | [sase-1rq.2.1.1](../../sessions/bbugyi200.athena.sase-1rq.2.1.1.md) (session · 3) | sase-1rq hood | completed 3 |
 | [sase-1rq.2.1.2](../../sessions/bbugyi200.athena.sase-1rq.2.1.2.md) (session · 3) | sase-1rq hood | completed 3 |
-| [sase-1rq.2.1.3](../../sessions/bbugyi200.athena.sase-1rq.2.1.3.md) (session · 4) | sase-1rq hood | active 1, completed 3 |
+| [sase-1rq.2.1.3](../../sessions/bbugyi200.athena.sase-1rq.2.1.3.md) (session · 5) | sase-1rq hood | active 1, completed 3, failed 1 |
 | [sase-1rq.2.1.4](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.md) (session · 3) | sase-1rq hood | active 1, completed 2 |
 | [sase-1rq.2.1.4.1.1](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.1.md) (session · 5) | sase-1rq hood | completed 4, failed 1 |
 | [sase-1rq.2.1.4.1.2](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.2.md) (session · 2) | sase-1rq hood | active 1, completed 1 |
@@ -102,7 +102,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [sase-1rq.2.1.5.1.1](../bbugyi200.athena.sase-1rq.2.1.5.1.1/README.md) | sase-1rq hood | completed |
 | [sase-1rq.2.1.5.1.2](../bbugyi200.athena.sase-1rq.2.1.5.1.2/README.md) | sase-1rq hood | completed |
 | [sase-1rq.2.1.5.1.3](../bbugyi200.athena.sase-1rq.2.1.5.1.3/README.md) | sase-1rq hood | completed |
-| [sase-1rq.2.1.5.1.4](../bbugyi200.athena.sase-1rq.2.1.5.1.4/README.md) | sase-1rq hood | waiting |
+| [sase-1rq.2.1.5.1.4](../../sessions/bbugyi200.athena.sase-1rq.2.1.5.1.4.md) (session · 2) | sase-1rq hood | active 1, completed 1 |
 | [sase-1rq.2.1.5.1.land](../bbugyi200.athena.sase-1rq.2.1.5.1.land/README.md) | sase-1rq hood | waiting |
 | [sase-1rq.2.1.6](../bbugyi200.athena.sase-1rq.2.1.6/README.md) | sase-1rq hood | completed |
 | [sase-1rq.2.1.7](../bbugyi200.athena.sase-1rq.2.1.7/README.md) | sase-1rq hood | waiting |
