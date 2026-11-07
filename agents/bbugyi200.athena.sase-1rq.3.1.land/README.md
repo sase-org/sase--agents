@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1rq](../../users/bbugyi200/machines/athena/hoods/sase-1rq/README.md) / sase-1rq.3.1.land
 
-**Global name:** `bbugyi200.athena.sase-1rq.3.1.land` · **State:** waiting · **Source run:** `run-b50f2c41a931d0b0cc0da4720a326e58`
+**Global name:** `bbugyi200.athena.sase-1rq.3.1.land` · **State:** completed · **Source run:** `run-b50f2c41a931d0b0cc0da4720a326e58`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1rq
 
@@ -11,12 +11,74 @@
 - Bead: [sase-1rq.3.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1rq/sase-1rq.3.1.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261107081228
+- Timing: 2026-11-07T18:57:05.016260+00:00 → 2026-11-07T19:10:50.773937+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `ci_evidence` | {default\_branch: master, fixes: \[{phase: lint-incremental (sase-1rq.3.1.1), sha: b8c417f0ba1995ee24c6e75a35de61128b0028c9, summary: install\_ui EarnedEta test made hermetic: Sandbox.base\_env scrubs CA… |
+
+#### ci_evidence
+
+```yaml
+default_branch: master
+fixes:
+  - phase: lint-incremental (sase-1rq.3.1.1)
+    sha: b8c417f0ba1995ee24c6e75a35de61128b0028c9
+    summary: install_ui EarnedEta test made hermetic: Sandbox.base_env scrubs CARGO_INCREMENTAL
+  - phase: mac-known-failures (sase-1rq.3.1.2)
+    sha: 41a2de71e669905adfef834fb3a0dbe8f9bfb43f
+    summary: APFS-safe test names, gmail link vault-canonicalization production fix, clipboard_status test isolation, deterministic paste flow plus open/xdg-open shims for Google login tests
+  - phase: mac-full-suite (sase-1rq.3.1.3)
+    sha: null
+    summary: no source changes landed; full macOS suite verified green
+notes:
+  - clippy result_large_err warnings are advisory and were deliberately left alone; the lint job actually failed in check-scripts, not clippy
+  - tip 63836395 is the bot-pushed v0.5.0 release commit (version/lockfile/changelog only) which got no push CI, so it was verified by workflow_dispatch run 42397613232
+  - PROPOSED FOLLOW-UP notes: sase-1rq.3.1.1 and sase-1rq.3.1.2 (install_ui live-runner PTY test); sase-1rq.3.1.3 (bob-cli macOS CI build-time headroom)
+  - Landing audit independently re-fetched master: tip remains 63836395; only post-fix commit is release metadata and needs no integration changes. All four GitHub job conclusions independently confirmed success, attempt 1.
+  - Reviewed all 9 child note entries and both implementation commits. No workflow, timeout, lint-level, or quarantine changes; original clippy lead was incorrect.
+  - Mac full-suite local cold build was interrupted and later cleaned up; complete acceptance relies on the two exact-SHA real macOS runner jobs documented in file:explicit:7a3c11fee06bb3820c7abeb6.
+quarantined: []
+repo: bobs-org/bob-cli
+runs:
+  - attempt: 1
+    completed_at: 2026-11-07T18:06:30Z
+    conclusion: success
+    event: workflow_dispatch
+    head_sha: 63836395ab3351a14a7644f8edd615d33c2ae9cd
+    jobs:
+      lint: success
+      package: success
+      test (macos-latest): success
+      test (ubuntu-latest): success
+    run_id: 42397613232
+    url: https://github.com/bobs-org/bob-cli/actions/runs/42397613232
+    workflow: CI (ci.yml)
+  - attempt: 1
+    completed_at: 2026-11-07T15:12:54Z
+    conclusion: success
+    event: push
+    head_sha: 41a2de71e669905adfef834fb3a0dbe8f9bfb43f
+    jobs:
+      lint: success
+      package: success
+      test (macos-latest): success
+      test (ubuntu-latest): success
+    run_id: 42382951164
+    url: https://github.com/bobs-org/bob-cli/actions/runs/42382951164
+    workflow: CI (ci.yml)
+tip_sha: 63836395ab3351a14a7644f8edd615d33c2ae9cd
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
