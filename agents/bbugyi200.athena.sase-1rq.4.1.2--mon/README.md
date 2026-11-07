@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1rq](../../users/bbugyi200/machines/athena/hoods/sase-1rq/README.md) / [sase-1rq.4.1.2](../../sessions/bbugyi200.athena.sase-1rq.4.1.2.md) / sase-1rq.4.1.2--mon
 
-**Global name:** `bbugyi200.athena.sase-1rq.4.1.2--mon` · **State:** active · **Source run:** `run-325d7436e50ff8ec29ece5b5afb4546a`
+**Global name:** `bbugyi200.athena.sase-1rq.4.1.2--mon` · **State:** failed · **Source run:** `run-325d7436e50ff8ec29ece5b5afb4546a`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1rq
 
@@ -11,25 +11,29 @@
 - Bead: [sase-1rq.4.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1rq/sase-1rq.4.1.2.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-07T14:11:28.668069+00:00
+- Timing: 2026-11-07T14:11:28.668069+00:00 → 2026-11-07T14:28:29.539811+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1rq.4](../../sessions/bbugyi200.athena.sase-1rq.4.md) (session · 3) | ancestor | active 1, completed 2 |
-| [sase-1rq.4.1.1](../../sessions/bbugyi200.athena.sase-1rq.4.1.1.md) (session · 5) | sase-1rq.4.1 hood | active 1, completed 3, failed 1 |
+| [sase-1rq.4.1.1](../../sessions/bbugyi200.athena.sase-1rq.4.1.1.md) (session · 7) | sase-1rq.4.1 hood | active 1, completed 4, failed 2 |
 | [sase-1rq.4.1.3](../bbugyi200.athena.sase-1rq.4.1.3/README.md) | sase-1rq.4.1 hood | active |
 | [sase-1rq.4.1.4](../bbugyi200.athena.sase-1rq.4.1.4/README.md) | sase-1rq.4.1 hood | waiting |
 | [sase-1rq.4.1.land](../bbugyi200.athena.sase-1rq.4.1.land/README.md) | sase-1rq.4.1 hood | waiting |
-| [sase-1rq.1](../../sessions/bbugyi200.athena.sase-1rq.1.md) (session · 8) | sase-1rq hood | active 2, completed 6 |
+| [sase-1rq.1](../../sessions/bbugyi200.athena.sase-1rq.1.md) (session · 8) | sase-1rq hood | active 1, completed 7 |
 | [sase-1rq.2](../bbugyi200.athena.sase-1rq.2/README.md) | sase-1rq hood | waiting |
 | [sase-1rq.3](../../sessions/bbugyi200.athena.sase-1rq.3.md) (session · 3) | sase-1rq hood | active 1, completed 2 |
 | [sase-1rq.3.1.1](../bbugyi200.athena.sase-1rq.3.1.1/README.md) | sase-1rq hood | completed |
-| [sase-1rq.3.1.2](../bbugyi200.athena.sase-1rq.3.1.2/README.md) | sase-1rq hood | active |
+| [sase-1rq.3.1.2](../bbugyi200.athena.sase-1rq.3.1.2/README.md) | sase-1rq hood | completed |
 | [sase-1rq.3.1.3](../bbugyi200.athena.sase-1rq.3.1.3/README.md) | sase-1rq hood | waiting |
 | [sase-1rq.3.1.4](../bbugyi200.athena.sase-1rq.3.1.4/README.md) | sase-1rq hood | waiting |
 | [sase-1rq.3.1.land](../bbugyi200.athena.sase-1rq.3.1.land/README.md) | sase-1rq hood | waiting |
-| [sase-1rq.5](../../sessions/bbugyi200.athena.sase-1rq.5.md) (session · 4) | sase-1rq hood | active 1, completed 3 |
+| [sase-1rq.5](../../sessions/bbugyi200.athena.sase-1rq.5.md) (session · 5) | sase-1rq hood | completed 4, failed 1 |
 | [sase-1rq.land](../bbugyi200.athena.sase-1rq.land/README.md) | sase-1rq hood | waiting |
