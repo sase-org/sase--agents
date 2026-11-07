@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1794069947,"sha":"c732c6e38e7b5cc3c270a9c60acb7a800186b593","subject":"fix(tui): keep a visible agent-list highlight on screen across resizes"}],"schema_version":2,"source_run_id":"run-be5cabe1dbd09733fa8aed88d3c38f29"}
