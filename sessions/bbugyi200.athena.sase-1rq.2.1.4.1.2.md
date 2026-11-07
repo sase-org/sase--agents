@@ -2,22 +2,25 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1rq](../users/bbugyi200/machines/athena/hoods/sase-1rq/README.md) / sase-1rq.2.1.4.1.2
 
-Owner: `bbugyi200.athena` · Hood: `sase-1rq` · Members: 2 · Bead: [sase-1rq.2.1.4.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1rq/sase-1rq.2.1.4.1.2.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1rq` · Members: 3 · Bead: [sase-1rq.2.1.4.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1rq/sase-1rq.2.1.4.1.2.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["sase-1rq.2.1.4.1.2--mon [active]"]
-  n1["sase-1rq.2.1.4.1.2--plan [completed]"]
+  n0["sase-1rq.2.1.4.1.2--1 [active]"]
+  n1["sase-1rq.2.1.4.1.2--mon [failed]"]
   n0 --> n1
+  n2["sase-1rq.2.1.4.1.2--plan [completed]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | sase-1rq.2.1.4.1.2--mon | active | opus / claude | 2026-11-07T20:15:36.853590+00:00 | 0 | — | — |
+| <a id="member-1"></a>1 | sase-1rq.2.1.4.1.2--1 | active | opus / claude | 2026-11-07T21:41:15.594101+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.2--1/prompt.md) | — |
+| <a id="member-mon"></a>mon | sase-1rq.2.1.4.1.2--mon | failed | opus / claude | 2026-11-07T20:15:36.853590+00:00 → 2026-11-07T21:38:42.896718+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.2--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1rq.2.1.4.1.2--plan | completed | opus / claude | 2026-11-07T19:04:21.505090+00:00 → 2026-11-07T20:18:33.879016+00:00 | [1](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.2--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.2--plan/chat.md) |
 
 ## Commits
@@ -38,7 +41,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1rq.2.1.4.1.land](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.land/README.md) | sase-1rq.2.1.4.1 hood | waiting |
 | [sase-1rq.2.1.1](bbugyi200.athena.sase-1rq.2.1.1.md) (session · 3) | sase-1rq.2.1 hood | completed 3 |
 | [sase-1rq.2.1.2](bbugyi200.athena.sase-1rq.2.1.2.md) (session · 3) | sase-1rq.2.1 hood | completed 3 |
-| [sase-1rq.2.1.3](bbugyi200.athena.sase-1rq.2.1.3.md) (session · 5) | sase-1rq.2.1 hood | active 1, completed 3, failed 1 |
+| [sase-1rq.2.1.3](bbugyi200.athena.sase-1rq.2.1.3.md) (session · 5) | sase-1rq.2.1 hood | completed 4, failed 1 |
 | [sase-1rq.2.1.5](bbugyi200.athena.sase-1rq.2.1.5.md) (session · 3) | sase-1rq.2.1 hood | active 1, completed 2 |
 | [sase-1rq.2.1.5.1.1](../agents/bbugyi200.athena.sase-1rq.2.1.5.1.1/README.md) | sase-1rq.2.1 hood | completed |
 | [sase-1rq.2.1.5.1.2](../agents/bbugyi200.athena.sase-1rq.2.1.5.1.2/README.md) | sase-1rq.2.1 hood | completed |

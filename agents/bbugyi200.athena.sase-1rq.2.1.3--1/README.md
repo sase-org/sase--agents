@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1rq](../../users/bbugyi200/machines/athena/hoods/sase-1rq/README.md) / [sase-1rq.2.1.3](../../sessions/bbugyi200.athena.sase-1rq.2.1.3.md) / sase-1rq.2.1.3--1
 
-**Global name:** `bbugyi200.athena.sase-1rq.2.1.3--1` · **State:** active · **Source run:** `run-cb4241b51fd24f145870db1be5934e87`
+**Global name:** `bbugyi200.athena.sase-1rq.2.1.3--1` · **State:** completed · **Source run:** `run-cb4241b51fd24f145870db1be5934e87`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1rq
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1rq.2.1.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1rq/sase-1rq.2.1.3.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-07T21:05:37.414649+00:00
-- Commits: 0
+- Timing: 2026-11-07T21:05:37.414649+00:00 → 2026-11-07T21:59:49.282541+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8668755`](https://github.com/sase-org/sase/commit/8668755b3534f6d0065b1ccb3bc8461d96be26b2) | fix(tests): stop cross-test global leaks the full test-cost gate found | 2026-11-07 16:58:12 EST |
 
 ## Neighbors
 
@@ -27,7 +33,7 @@
 | [sase-1rq.2.1.2](../../sessions/bbugyi200.athena.sase-1rq.2.1.2.md) (session · 3) | sase-1rq.2.1 hood | completed 3 |
 | [sase-1rq.2.1.4](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.md) (session · 3) | sase-1rq.2.1 hood | active 1, completed 2 |
 | [sase-1rq.2.1.4.1.1](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.1.md) (session · 5) | sase-1rq.2.1 hood | completed 4, failed 1 |
-| [sase-1rq.2.1.4.1.2](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.2.md) (session · 2) | sase-1rq.2.1 hood | active 1, completed 1 |
+| [sase-1rq.2.1.4.1.2](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.2.md) (session · 3) | sase-1rq.2.1 hood | active 1, completed 1, failed 1 |
 | [sase-1rq.2.1.4.1.3](../bbugyi200.athena.sase-1rq.2.1.4.1.3/README.md) | sase-1rq.2.1 hood | waiting |
 | [sase-1rq.2.1.4.1.4](../bbugyi200.athena.sase-1rq.2.1.4.1.4/README.md) | sase-1rq.2.1 hood | waiting |
 | [sase-1rq.2.1.4.1.land](../bbugyi200.athena.sase-1rq.2.1.4.1.land/README.md) | sase-1rq.2.1 hood | waiting |
