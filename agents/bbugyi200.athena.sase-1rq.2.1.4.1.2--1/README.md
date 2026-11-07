@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1rq](../../users/bbugyi200/machines/athena/hoods/sase-1rq/README.md) / [sase-1rq.2.1.4.1.2](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.2.md) / sase-1rq.2.1.4.1.2--1
 
-**Global name:** `bbugyi200.athena.sase-1rq.2.1.4.1.2--1` · **State:** active · **Source run:** `run-3269811d91375d35b0991937d163b8ef`
+**Global name:** `bbugyi200.athena.sase-1rq.2.1.4.1.2--1` · **State:** completed · **Source run:** `run-3269811d91375d35b0991937d163b8ef`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1rq
 
@@ -11,12 +11,18 @@
 - Bead: [sase-1rq.2.1.4.1.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1rq/sase-1rq.2.1.4.1.2.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-07T21:41:15.594101+00:00
-- Commits: 0
+- Timing: 2026-11-07T21:41:15.594101+00:00 → 2026-11-07T22:14:34.852706+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`291265f`](https://github.com/sase-org/sase/commit/291265f08a56fd3db5f224d1823568e0c8d0adde) | perf(flags): stream the feature-flag checker's AST parse so the contention soak keeps its memory headroom | 2026-11-07 17:13:01 EST |
 
 ## Neighbors
 

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3269811d91375d35b0991937d163b8ef"}
+{"commits":[{"committed_at":1794089581,"sha":"291265f08a56fd3db5f224d1823568e0c8d0adde","subject":"perf(flags): stream the feature-flag checker's AST parse so the contention soak keeps its memory headroom"}],"schema_version":2,"source_run_id":"run-3269811d91375d35b0991937d163b8ef"}

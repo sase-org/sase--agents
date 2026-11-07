@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1rq` · Members: 3 · Bead: [sase-1rq.2
 
 ```mermaid
 flowchart TD
-  n0["sase-1rq.2.1.4.1.2--1 [active]"]
+  n0["sase-1rq.2.1.4.1.2--1 [completed]"]
   n1["sase-1rq.2.1.4.1.2--mon [failed]"]
   n0 --> n1
   n2["sase-1rq.2.1.4.1.2--plan [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-1rq.2.1.4.1.2--1 | active | opus / claude | 2026-11-07T21:41:15.594101+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1rq.2.1.4.1.2--1 | completed | opus / claude | 2026-11-07T21:41:15.594101+00:00 → 2026-11-07T22:14:34.852706+00:00 | [1](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.2--1/chat.md) |
 | <a id="member-mon"></a>mon | sase-1rq.2.1.4.1.2--mon | failed | opus / claude | 2026-11-07T20:15:36.853590+00:00 → 2026-11-07T21:38:42.896718+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.2--mon/chat.md) |
 | <a id="member-plan"></a>plan | sase-1rq.2.1.4.1.2--plan | completed | opus / claude | 2026-11-07T19:04:21.505090+00:00 → 2026-11-07T20:18:33.879016+00:00 | [1](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.2--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.2--plan/chat.md) |
 
@@ -28,6 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | plan | sase | [`618dbb5`](https://github.com/sase-org/sase/commit/618dbb5fcfe3a37c336056c4c44af877f97edd70) | fix(test-contention): shard whole-suite collection so 26 workers survive a 16 GB runner | 2026-11-07 15:16:52 EST |
+| 1 | sase | [`291265f`](https://github.com/sase-org/sase/commit/291265f08a56fd3db5f224d1823568e0c8d0adde) | perf(flags): stream the feature-flag checker's AST parse so the contention soak keeps its memory headroom | 2026-11-07 17:13:01 EST |
 
 ## Neighbors
 
