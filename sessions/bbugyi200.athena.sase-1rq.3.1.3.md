@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["sase-1rq.3.1.3--gate [completed]"]
   n0 --> n3
-  n4["sase-1rq.3.1.3--1 [waiting]"]
+  n4["sase-1rq.3.1.3--1 [completed]"]
   n0 --> n4
 ```
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | sase-1rq.3.1.3--code | completed | opus / claude | 2026-11-07T14:56:57.233242+00:00 → 2026-11-07T16:15:17.984370+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1rq.3.1.3--code/chat.md) |
 | <a id="member-plan"></a>plan | sase-1rq.3.1.3--plan | completed | gpt-6-astra / codex | 2026-11-07T14:46:12.241400+00:00 → 2026-11-07T16:15:17.984370+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1rq.3.1.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1rq.3.1.3--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-1rq.3.1.3--gate | completed | gpt-6-astra / codex | 2026-11-07T14:54:38.486342+00:00 → 2026-11-07T14:56:07.732253+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1rq.3.1.3--gate/chat.md) |
-| <a id="member-1"></a>1 | sase-1rq.3.1.3--1 | waiting | opus / claude | 20261107114215 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1rq.3.1.3--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1rq.3.1.3--1 | completed | opus / claude | 2026-11-07T17:10:16.970476+00:00 → 2026-11-07T17:11:57.835119+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1rq.3.1.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1rq.3.1.3--1/chat.md) |
 
 ## Variables
 
@@ -79,11 +79,11 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1rq.3.1.land](../agents/bbugyi200.athena.sase-1rq.3.1.land/README.md) | sase-1rq.3.1 hood | waiting |
 | [sase-1rq.1](bbugyi200.athena.sase-1rq.1.md) (session · 9) | sase-1rq hood | completed 9 |
 | [sase-1rq.2](bbugyi200.athena.sase-1rq.2.md) (session · 3) | sase-1rq hood | active 1, completed 2 |
-| [sase-1rq.2.1.1](bbugyi200.athena.sase-1rq.2.1.1.md) (session · 2) | sase-1rq hood | active 1, completed 1 |
-| [sase-1rq.2.1.2](bbugyi200.athena.sase-1rq.2.1.2.md) (session · 2) | sase-1rq hood | active 1, completed 1 |
+| [sase-1rq.2.1.1](bbugyi200.athena.sase-1rq.2.1.1.md) (session · 3) | sase-1rq hood | completed 3 |
+| [sase-1rq.2.1.2](bbugyi200.athena.sase-1rq.2.1.2.md) (session · 3) | sase-1rq hood | completed 2, waiting 1 |
 | [sase-1rq.2.1.3](bbugyi200.athena.sase-1rq.2.1.3.md) (session · 3) | sase-1rq hood | active 2, completed 1 |
 | [sase-1rq.2.1.4](bbugyi200.athena.sase-1rq.2.1.4.md) (session · 3) | sase-1rq hood | active 1, completed 2 |
-| [sase-1rq.2.1.4.1.1](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.1/README.md) | sase-1rq hood | active |
+| [sase-1rq.2.1.4.1.1](bbugyi200.athena.sase-1rq.2.1.4.1.1.md) (session · 2) | sase-1rq hood | active 1, completed 1 |
 | [sase-1rq.2.1.4.1.2](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.2/README.md) | sase-1rq hood | waiting |
 | [sase-1rq.2.1.4.1.3](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.3/README.md) | sase-1rq hood | waiting |
 | [sase-1rq.2.1.4.1.4](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.4/README.md) | sase-1rq hood | waiting |
@@ -98,7 +98,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1rq.2.1.7](../agents/bbugyi200.athena.sase-1rq.2.1.7/README.md) | sase-1rq hood | waiting |
 | [sase-1rq.2.1.land](../agents/bbugyi200.athena.sase-1rq.2.1.land/README.md) | sase-1rq hood | waiting |
 | [sase-1rq.4](bbugyi200.athena.sase-1rq.4.md) (session · 3) | sase-1rq hood | active 1, completed 2 |
-| [sase-1rq.4.1.1](bbugyi200.athena.sase-1rq.4.1.1.md) (session · 12) | sase-1rq hood | active 1, completed 7, failed 4 |
+| [sase-1rq.4.1.1](bbugyi200.athena.sase-1rq.4.1.1.md) (session · 14) | sase-1rq hood | active 1, completed 9, failed 4 |
 | [sase-1rq.4.1.2](bbugyi200.athena.sase-1rq.4.1.2.md) (session · 3) | sase-1rq hood | completed 2, failed 1 |
 | [sase-1rq.4.1.3](../agents/bbugyi200.athena.sase-1rq.4.1.3/README.md) | sase-1rq hood | active |
 | [sase-1rq.4.1.4](../agents/bbugyi200.athena.sase-1rq.4.1.4/README.md) | sase-1rq hood | waiting |
