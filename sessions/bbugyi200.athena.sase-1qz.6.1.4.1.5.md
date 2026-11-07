@@ -53,7 +53,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1qz.6.1.7](bbugyi200.athena.sase-1qz.6.1.7.md) (session · 3) | sase-1qz.6.1 hood | completed 2, failed 1 |
 | [sase-1qz.6.1.land](bbugyi200.athena.sase-1qz.6.1.land.md) (session · 3) | sase-1qz.6.1 hood | completed 3 |
 | [sase-1qz.10](../agents/bbugyi200.athena.sase-1qz.10/README.md) | sase-1qz hood | completed |
-| [sase-1qz.11](../agents/bbugyi200.athena.sase-1qz.11/README.md) | sase-1qz hood | waiting |
+| [sase-1qz.11](bbugyi200.athena.sase-1qz.11.md) (session · 3) | sase-1qz hood | completed 3 |
 | [sase-1qz.7](../agents/bbugyi200.athena.sase-1qz.7/README.md) | sase-1qz hood | completed |
 | [sase-1qz.9](bbugyi200.athena.sase-1qz.9.md) (session · 3) | sase-1qz hood | completed 2, failed 1 |
 | [sase-1qz.land](../agents/bbugyi200.athena.sase-1qz.land/README.md) | sase-1qz hood | waiting |
