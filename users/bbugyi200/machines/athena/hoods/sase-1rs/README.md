@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / sase-1rs
 
-**Global hood:** `bbugyi200.athena.sase-1rs` · **Runs:** 14 · **Sessions:** 1 · **States:** completed 7, waiting 7
+**Global hood:** `bbugyi200.athena.sase-1rs` · **Runs:** 14 · **Sessions:** 1 · **States:** completed 8, waiting 6
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -18,5 +18,5 @@
 | [sase-1rs.10](../../../../../../agents/bbugyi200.athena.sase-1rs.10/README.md) | waiting | opus / claude | 20261107105843 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1rs.10/prompt.md) |
 | [sase-1rs.2](../../../../../../agents/bbugyi200.athena.sase-1rs.2/README.md) | completed | opus / claude | 2026-11-07T17:17:58.054791+00:00 → 2026-11-07T17:46:17.539842+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1rs.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1rs.2/chat.md) |
 | [sase-1rs.4](../../../../../../agents/bbugyi200.athena.sase-1rs.4/README.md) | completed | opus / claude | 2026-11-07T18:06:41.888987+00:00 → 2026-11-07T18:48:58.361168+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1rs.4/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1rs.4/chat.md) |
-| [sase-1rs.6](../../../../../../agents/bbugyi200.athena.sase-1rs.6/README.md) | waiting | opus / claude | 20261107105839 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1rs.6/prompt.md) |
+| [sase-1rs.6](../../../../../../agents/bbugyi200.athena.sase-1rs.6/README.md) | completed | opus / claude | 2026-11-07T19:01:09.346152+00:00 → 2026-11-07T19:31:58.242381+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1rs.6/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1rs.6/chat.md) |
 | [sase-1rs.1--plan](../../../../../../sessions/bbugyi200.athena.sase-1rs.1.md#member-plan) | completed | opus / claude | 2026-11-07T16:16:35.019445+00:00 → 2026-11-07T16:22:10.787177+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.sase-1rs.1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.sase-1rs.1--plan/chat.md) |
