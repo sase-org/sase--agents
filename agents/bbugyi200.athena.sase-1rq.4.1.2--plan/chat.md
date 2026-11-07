@@ -1,54 +1,54 @@
 # Chat History - ace-run (sase-1rq.4.1.2--plan)
 
-- **TIMESTAMP:** 2026-11-07 08:24:10 EST
-- **MODEL:** grok/grok-4.6
+- **TIMESTAMP:** 2026-11-07 09:13:14 EST
+- **MODEL:** codex/gpt-6-astra
 - **AGENT:** sase-1rq.4.1.2--plan
 
 # Monitor handoff
 
 This agent delegated the remaining work to a monitor turn.
-Monitor ID: vkv33r475zps
-Inspect with: sase monitor show vkv33r475zps
+Monitor ID: rhsk5z7hg13t
+Inspect with: sase monitor show rhsk5z7hg13t
 Monitor turn: sase-1rq.4.1.2--mon
-Directory: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_23/sase/repos/external/gh/bobs-org/bob-mac-capture
+Directory: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_16/sase/repos/external/gh/bobs-org/bob-mac-capture
 
 Command:
 
 ```sh
-./Scripts/macos-ci-check
+landed_sha=$(git rev-parse HEAD)
+if [ "$landed_sha" = 1e0a092441d0a2bc0a50fc5c42ec09fd7463ce89 ]; then
+    echo "Host completion did not commit the word-motion fix"; exit 2
+fi
+git diff --exit-code af52c1d466d7a1b368852099e8424375f66fd0e6 -- Sources/BobMacCapture/CapturePanelController.swift Tests/BobMacCaptureTests/CaptureEditorWordMotionTests.swift || exit 2
+echo "Checking landed word-motion commit $landed_sha"
+git fetch origin || exit 2
+git merge-base --is-ancestor "$landed_sha" origin/master || exit 2
+for attempt in $(seq 1 60); do
+    run_id=$(gh run list -R bobs-org/bob-mac-capture -w CI -b master --commit "$landed_sha" -L 1 --json databaseId --jq '.[0].databaseId // empty') || exit 2
+    if [ -n "$run_id" ]; then
+        echo "Master CI run $run_id for $landed_sha"
+        gh run watch "$run_id" -R bobs-org/bob-mac-capture --exit-status
+        exit $?
+    fi
+    sleep 10
+done
+echo "No exact-SHA master CI run appeared within ten minutes"; exit 2
 ```
 
 Reason:
 
-Unfiltered macos-ci-check for sase-1rq.4.1.2 word-motion undo fix
+Verify the exact landed word-motion commit on master before closing sase-1rq.4.1.2
 
 Next action:
 
-You are the follow-up for phase bead sase-1rq.4.1.2 (word-motion). Read this monitor result first.
-
-Repo: sase repo open gh:bobs-org/bob-mac-capture (work only in the printed path). Bead is already in_progress; do not sase bead open it. Do not close parent sase-1rq.4.1 or any ancestor.
-
-This turn already changed:
-- Sources/BobMacCapture/CapturePanelController.swift moveByWord: disableUndoRegistration around setSelectedRange/scrollRangeToVisible
-- Tests/BobMacCaptureTests/CaptureEditorWordMotionTests.swift: removeAllActions after hosted setup and after setSelectedRange, assert canUndo false before and after Ctrl-L then Ctrl-H
-
-just portable-check passed on athena. Scratch rsync on tailnet mac ran bundle.sh + just typecheck-tests (PASS) and the copy was deleted.
-
-macos-ci-check was unfiltered. The overall run is expected red until alias-lane/flakes land. Judge by the printed "failed Swift tests" list:
-1. Exit 2: unverified. Rerun Scripts/macos-ci-check via /sase_monitor. Do not land.
-2. CaptureEditorWordMotionTests.testMotionsLeaveTextAndUndoUntouched (any XCTest spelling including BobMacCaptureTests. prefix) MUST be absent. If it is still present, the fixture-undo theory was wrong: keep the test assertions, add diagnostic instrumentation in moveByWord, run a filtered diagnostic snapshot, then a real product fix so motions leave no undo step. Do not delete the assertion.
-3. Known remaining failures (OK): the 11 sigil-alias tests in plan:202611/bob_mac_capture_ci_green.md (CaptureSeparatorToggleTests / CapturePanelModelTests comma/period/semicolon/backslash/slash rows) and the intermittent list (CaptureRelationFlipAliasTests, some CaptureSeparatorToggleTests, CaptureRelationEqualsAliasTests, CapturePullInChoiceTests, CaptureMoveChoiceModelTests, CaptureHashAliasDoubleTapTests).
-4. A test outside those tables that newly fails: if it is caused by this word-motion diff, fix it. If it is from a concurrent bob-cli commit, record sase bead note sase-1rq.4.1.2 "PROPOSED FOLLOW-UP: ..." and leave it to master-green.
-5. When the word-motion test is absent and there is no new failure from this diff: run sase bead epic-symbols sase-1rq.4.1.2 and resolve leftovers; then sase bead close sase-1rq.4.1.2 --note with the snapshot run id, SHA, and that the word-motion test is absent from the failure list. Submit /sase_final with a commit decision for bob-mac-capture (fix(mac-capture): keep Ctrl-H/L word motions off the undo stack) and bead_action close on the primary/assigned repo. Do not close ancestors. Do not create beads.
-
-Do not run just check-full. Do not push master.
+Complete assigned phase sase-1rq.4.1.2 after the host has landed the already verified word-motion fix. Read this monitor output for the landed SHA and exact master CI run. Inspect that run's full Test log: all six CaptureEditorWordMotionTests must pass, especially testMotionsLeaveTextAndUndoUntouched. Overall CI may be red on the known sibling-phase alias/equals failures; those do not keep this phase open. The restored patch is byte-identical to unfiltered snapshot af52c1d466d7a1b368852099e8424375f66fd0e6, CI run 42376806344, whose lint/build and six word-motion tests all passed. Prior bead note records portable-check and scratch mac bundle/typecheck success. If the master test passes, run sase bead epic-symbols sase-1rq.4.1.2, close ONLY sase-1rq.4.1.2 with the snapshot/master evidence, and finish through /sase_final. Do not close any ancestor or create beads. If a new unrelated failure appears, record PROPOSED FOLLOW-UP on this phase with evidence. If host landing failed, recover that concrete failure; do not rerun the unchanged snapshot needlessly.
 
 
 ## Prompt
 
-#gh:gh_sase-org__sase
 %id(2, clan=sase-1rq.4.1, bead=sase-1rq.4.1.2)
-%model:@small
+#gh:gh_sase-org__sase
+%m:gpt-6-astra 
 %auto
 Can you complete the work for bead sase-1rq.4.1.2? The bead is already reserved for you and assigned to your agent
 name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
@@ -80,30 +80,24 @@ single-agent tale unless one coder can clearly finish everything left.
 
 ## Response
 
-I'll start by reading the bead, the SASE memory notes this phase needs, and the skills for the work.
+I’ll read the bead’s scope, decisions, and prior notes, then check what has already landed before making changes. I’m using the `sase_memory_read` skill for the required project guidance.
 
-The bead is in progress; next I’ll pull the rest of the description, notes, and the epic plan.
 
-I’ll open `bob-mac-capture` through `sase repo`, then inspect the word-motion test and Ctrl-H/L handling.
+The earlier agent recorded a fix and staged a macOS test run. I’m checking the test result and current repository state first; the remaining work may be limited to verification.
 
-The product only moves the caret; leftover window undo from panel setup is the likely cause. I’ll clear that in the test and keep word-motion from registering undo.
 
-Next I’ll compile on athena and try a scratch typecheck on the tailnet Mac.
+The plan requires the word-motion test to pass on both an unfiltered snapshot run and the landed commit’s master run. The monitor ID in the earlier note isn’t resolving, so I’m using the `sase_repo` skill to inspect the fix and locate its CI evidence.
 
-Linux portable-check passed and the Mac is online. I’ll rsync a scratch copy there and typecheck the macOS targets.
 
-Compile is green. I’ll snapshot the tree with `macos-ci-check` and hand the result to a follow-up.
+This checkout is clean at `1e0a092` and does not contain the earlier fix. I’m using `sase_chats` to recover the prior verification details. I’ll use `gh` to list CI runs because the GitHub connector doesn’t expose that listing.
 
-Word-motion undo is now isolated from the hosted-panel fixture, and an unfiltered `macos-ci-check` is staged to prove it.
 
-`CaptureEditorWordMotionTests.testMotionsLeaveTextAndUndoUntouched` was failing because `canUndo` was already true on the panel window after `makePanelIfNeeded()` / assigning `textView.string`. Ctrl-L then Ctrl-H only move the caret (`setSelectedRange`); the draft text stayed `"foo bar"`.
+I found the earlier snapshot: all six word-motion tests passed, including the undo regression. Its remaining failures are already covered by sibling phases. The fix has not landed on master, so I’ll restore the exact tested patch and arrange verification of the landed commit.
 
-Changes in `bobs-org/bob-mac-capture`:
-- `CapturePanelController.moveByWord` disables undo registration while applying the caret move.
-- The hosted test helper and this test call `removeAllActions()` and assert `canUndo` is false before the motions as well as after.
 
-Verification so far:
-- `just portable-check` passed on athena.
-- Scratch `bundle.sh` + `just typecheck-tests` passed on the tailnet Mac; that copy was deleted.
+The restored tree exactly matches the snapshot that passed lint, build, and all word-motion tests. There are no leftover epic symbols. I’m using `sase_monitor` and `sase_final` to land the verified patch and check its master CI run before closing the bead, as the phase plan requires.
 
-Unfiltered `Scripts/macos-ci-check` is staged as monitor **vkv33r** (90m). The follow-up will treat the run as still red overall until alias-lane lands, require `testMotionsLeaveTextAndUndoUntouched` to be absent from the failed Swift tests list, then close `sase-1rq.4.1.2` only. Parent epic `sase-1rq.4.1` stays open.
+
+Recovered the earlier fix; all six word-motion tests passed in [CI](https://github.com/bobs-org/bob-mac-capture/actions/runs/42376806344).
+
+Submitted it for landing and staged master verification. Bead `sase-1rq.4.1.2` remains in progress until that check confirms the fix and closes it.

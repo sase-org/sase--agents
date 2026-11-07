@@ -31,7 +31,7 @@
 | [sase-1rq.3.1.4](../bbugyi200.athena.sase-1rq.3.1.4/README.md) | sase-1rq hood | waiting |
 | [sase-1rq.3.1.land](../bbugyi200.athena.sase-1rq.3.1.land/README.md) | sase-1rq hood | waiting |
 | [sase-1rq.4](../../sessions/bbugyi200.athena.sase-1rq.4.md) (session · 3) | sase-1rq hood | active 1, completed 2 |
-| [sase-1rq.4.1.1](../../sessions/bbugyi200.athena.sase-1rq.4.1.1.md) (session · 3) | sase-1rq hood | active 2, completed 1 |
+| [sase-1rq.4.1.1](../../sessions/bbugyi200.athena.sase-1rq.4.1.1.md) (session · 5) | sase-1rq hood | active 1, completed 3, failed 1 |
 | [sase-1rq.4.1.2](../../sessions/bbugyi200.athena.sase-1rq.4.1.2.md) (session · 2) | sase-1rq hood | active 1, completed 1 |
 | [sase-1rq.4.1.3](../bbugyi200.athena.sase-1rq.4.1.3/README.md) | sase-1rq hood | active |
 | [sase-1rq.4.1.4](../bbugyi200.athena.sase-1rq.4.1.4/README.md) | sase-1rq hood | waiting |
