@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1rq` · Members: 3 · Bead: [sase-1rq.2
 ```mermaid
 flowchart TD
   n0["sase-1rq.2.1.4--plan [active]"]
-  n1["sase-1rq.2.1.4--mon [active]"]
+  n1["sase-1rq.2.1.4--mon [completed]"]
   n0 --> n1
   n2["sase-1rq.2.1.4--gate [completed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | sase-1rq.2.1.4--plan | active | gpt-6-astra / codex | 2026-11-07T15:49:25.854020+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1rq.2.1.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1rq.2.1.4--plan/chat.md) |
-| <a id="member-mon"></a>mon | sase-1rq.2.1.4--mon | active | gpt-6-astra / codex | 2026-11-07T16:03:13.879829+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | sase-1rq.2.1.4--mon | completed | gpt-6-astra / codex | 2026-11-07T16:03:13.879829+00:00 → 2026-11-07T16:07:44.996864+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1rq.2.1.4--mon/chat.md) |
 | <a id="member-gate"></a>gate | sase-1rq.2.1.4--gate | completed | gpt-6-astra / codex | 2026-11-07T15:57:46.048267+00:00 → 2026-11-07T16:03:17.446537+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1rq.2.1.4--gate/chat.md) |
 
 ## Neighbors
@@ -28,10 +28,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1rq.2](bbugyi200.athena.sase-1rq.2.md) (session · 3) | ancestor | active 1, completed 2 |
+| [sase-1rq.2.1.4.1.1](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.1/README.md) | descendant | active |
+| [sase-1rq.2.1.4.1.2](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.2/README.md) | descendant | waiting |
+| [sase-1rq.2.1.4.1.3](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.3/README.md) | descendant | waiting |
+| [sase-1rq.2.1.4.1.4](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.4/README.md) | descendant | waiting |
 | [sase-1rq.2.1.1](../agents/bbugyi200.athena.sase-1rq.2.1.1/README.md) | sase-1rq.2.1 hood | active |
 | [sase-1rq.2.1.2](../agents/bbugyi200.athena.sase-1rq.2.1.2/README.md) | sase-1rq.2.1 hood | active |
 | [sase-1rq.2.1.3](bbugyi200.athena.sase-1rq.2.1.3.md) (session · 3) | sase-1rq.2.1 hood | active 2, completed 1 |
-| [sase-1rq.2.1.5](bbugyi200.athena.sase-1rq.2.1.5.md) (session · 2) | sase-1rq.2.1 hood | active 2 |
+| [sase-1rq.2.1.5](bbugyi200.athena.sase-1rq.2.1.5.md) (session · 3) | sase-1rq.2.1 hood | active 2, completed 1 |
 | [sase-1rq.2.1.6](../agents/bbugyi200.athena.sase-1rq.2.1.6/README.md) | sase-1rq.2.1 hood | completed |
 | [sase-1rq.2.1.7](../agents/bbugyi200.athena.sase-1rq.2.1.7/README.md) | sase-1rq.2.1 hood | waiting |
 | [sase-1rq.2.1.land](../agents/bbugyi200.athena.sase-1rq.2.1.land/README.md) | sase-1rq.2.1 hood | waiting |

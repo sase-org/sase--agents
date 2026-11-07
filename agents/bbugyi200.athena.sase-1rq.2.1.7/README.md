@@ -27,8 +27,12 @@
 | [sase-1rq.2.1.1](../bbugyi200.athena.sase-1rq.2.1.1/README.md) | sase-1rq.2.1 hood | active |
 | [sase-1rq.2.1.2](../bbugyi200.athena.sase-1rq.2.1.2/README.md) | sase-1rq.2.1 hood | active |
 | [sase-1rq.2.1.3](../../sessions/bbugyi200.athena.sase-1rq.2.1.3.md) (session · 3) | sase-1rq.2.1 hood | active 2, completed 1 |
-| [sase-1rq.2.1.4](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.md) (session · 3) | sase-1rq.2.1 hood | active 2, completed 1 |
-| [sase-1rq.2.1.5](../../sessions/bbugyi200.athena.sase-1rq.2.1.5.md) (session · 2) | sase-1rq.2.1 hood | active 2 |
+| [sase-1rq.2.1.4](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.md) (session · 3) | sase-1rq.2.1 hood | active 1, completed 2 |
+| [sase-1rq.2.1.4.1.1](../bbugyi200.athena.sase-1rq.2.1.4.1.1/README.md) | sase-1rq.2.1 hood | active |
+| [sase-1rq.2.1.4.1.2](../bbugyi200.athena.sase-1rq.2.1.4.1.2/README.md) | sase-1rq.2.1 hood | waiting |
+| [sase-1rq.2.1.4.1.3](../bbugyi200.athena.sase-1rq.2.1.4.1.3/README.md) | sase-1rq.2.1 hood | waiting |
+| [sase-1rq.2.1.4.1.4](../bbugyi200.athena.sase-1rq.2.1.4.1.4/README.md) | sase-1rq.2.1 hood | waiting |
+| [sase-1rq.2.1.5](../../sessions/bbugyi200.athena.sase-1rq.2.1.5.md) (session · 3) | sase-1rq.2.1 hood | active 2, completed 1 |
 | [sase-1rq.2.1.6](../bbugyi200.athena.sase-1rq.2.1.6/README.md) | sase-1rq.2.1 hood | completed |
 | [sase-1rq.2.1.land](../bbugyi200.athena.sase-1rq.2.1.land/README.md) | sase-1rq.2.1 hood | waiting |
 | [sase-1rq.1](../../sessions/bbugyi200.athena.sase-1rq.1.md) (session · 9) | sase-1rq hood | completed 9 |
