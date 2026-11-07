@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [chop](../../users/bbugyi200/machines/athena/hoods/chop/README.md) / chop.refresh\_docs.sase.0\_275201.2
 
-**Global name:** `bbugyi200.athena.chop.refresh_docs.sase.0_275201.2` · **State:** waiting · **Source run:** `run-ca2fee4007e4d0f0efe68cf818c29390`
+**Global name:** `bbugyi200.athena.chop.refresh_docs.sase.0_275201.2` · **State:** completed · **Source run:** `run-ca2fee4007e4d0f0efe68cf818c29390`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** chop
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261105203126
-- Commits: 0
+- Timing: 2026-11-07T02:23:23.965206+00:00 → 2026-11-07T02:39:44.424399+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| sase | [`8dce35a`](https://github.com/sase-org/sase/commit/8dce35a8f04c1d6717836d201e11224205b08101) | docs: clarify verified recovery and retention behavior | 2026-11-06 21:39:28 EST |
 
 ## Neighbors
 
