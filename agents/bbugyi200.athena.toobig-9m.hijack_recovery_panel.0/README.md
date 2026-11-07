@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [toobig-9m.agent\_artifact\_run\_trash.0](../bbugyi200.athena.toobig-9m.agent_artifact_run_trash.0/README.md) | toobig-9m hood | active |
+| [toobig-9m.agent\_artifact\_run\_trash.0](../bbugyi200.athena.toobig-9m.agent_artifact_run_trash.0/README.md) | toobig-9m hood | completed |
