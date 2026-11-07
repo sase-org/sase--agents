@@ -32,5 +32,5 @@
 | [sase-1rs.5](../bbugyi200.athena.sase-1rs.5/README.md) | sase-1rs hood | completed |
 | [sase-1rs.6](../bbugyi200.athena.sase-1rs.6/README.md) | sase-1rs hood | completed |
 | [sase-1rs.7](../bbugyi200.athena.sase-1rs.7/README.md) | sase-1rs hood | completed |
-| [sase-1rs.8](../bbugyi200.athena.sase-1rs.8/README.md) | sase-1rs hood | waiting |
+| [sase-1rs.8](../bbugyi200.athena.sase-1rs.8/README.md) | sase-1rs hood | completed |
 | [sase-1rs.land](../bbugyi200.athena.sase-1rs.land/README.md) | sase-1rs hood | waiting |
