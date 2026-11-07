@@ -28,7 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1rq.2.1.1](bbugyi200.athena.sase-1rq.2.1.1.md) (session · 2) | descendant | active 1, completed 1 |
-| [sase-1rq.2.1.2](../agents/bbugyi200.athena.sase-1rq.2.1.2/README.md) | descendant | active |
+| [sase-1rq.2.1.2](bbugyi200.athena.sase-1rq.2.1.2.md) (session · 2) | descendant | active 1, completed 1 |
 | [sase-1rq.2.1.3](bbugyi200.athena.sase-1rq.2.1.3.md) (session · 3) | descendant | active 2, completed 1 |
 | [sase-1rq.2.1.4](bbugyi200.athena.sase-1rq.2.1.4.md) (session · 3) | descendant | active 1, completed 2 |
 | [sase-1rq.2.1.4.1.1](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.1/README.md) | descendant | active |

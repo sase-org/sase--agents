@@ -62,7 +62,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1rq.1](bbugyi200.athena.sase-1rq.1.md) (session · 9) | sase-1rq hood | completed 9 |
 | [sase-1rq.2](bbugyi200.athena.sase-1rq.2.md) (session · 3) | sase-1rq hood | active 1, completed 2 |
 | [sase-1rq.2.1.1](bbugyi200.athena.sase-1rq.2.1.1.md) (session · 2) | sase-1rq hood | active 1, completed 1 |
-| [sase-1rq.2.1.2](../agents/bbugyi200.athena.sase-1rq.2.1.2/README.md) | sase-1rq hood | active |
+| [sase-1rq.2.1.2](bbugyi200.athena.sase-1rq.2.1.2.md) (session · 2) | sase-1rq hood | active 1, completed 1 |
 | [sase-1rq.2.1.3](bbugyi200.athena.sase-1rq.2.1.3.md) (session · 3) | sase-1rq hood | active 2, completed 1 |
 | [sase-1rq.2.1.4](bbugyi200.athena.sase-1rq.2.1.4.md) (session · 3) | sase-1rq hood | active 1, completed 2 |
 | [sase-1rq.2.1.4.1.1](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.1/README.md) | sase-1rq hood | active |
