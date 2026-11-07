@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / research
 
-**Global hood:** `bbugyi200.apollo.research` · **Runs:** 721 · **Sessions:** 9 · **States:** active 544, completed 155, failed 17, waiting 5
+**Global hood:** `bbugyi200.apollo.research` · **Runs:** 721 · **Sessions:** 9 · **States:** active 544, completed 156, failed 17, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -66,7 +66,7 @@
 | [research.1r.cld](../../../../../../agents/bbugyi200.apollo.research.1r.cld/README.md) | active | opus / claude | 2026-10-16T21:34:11.072795+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.1r.cld/prompt.md) |
 | [research.0g.cld](../../../../../../agents/bbugyi200.apollo.research.0g.cld/README.md) | active | opus / claude | 2026-10-07T20:39:58.462878+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.0g.cld/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.0g.cld/chat.md) |
 | [research.1w.gem](../../../../../../agents/bbugyi200.apollo.research.1w.gem/README.md) | active | gemini-3.8-flash-high / agy | 2026-10-17T01:53:13.007861+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.1w.gem/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.1w.gem/chat.md) |
-| [research.3k.final](../../../../../../agents/bbugyi200.apollo.research.3k.final/README.md) | waiting | opus / claude | 20261107084953 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.3k.final/prompt.md) |
+| [research.3k.final](../../../../../../agents/bbugyi200.apollo.research.3k.final/README.md) | completed | opus / claude | 2026-11-07T14:10:18.453745+00:00 → 2026-11-07T14:32:08.171658+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.3k.final/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.3k.final/chat.md) |
 | [research.0o.final.f1](../../../../../../agents/bbugyi200.apollo.research.0o.final.f1/README.md) | completed | — | 2026-06-26T16:38:45+00:00 → 2026-06-26T16:56:33+00:00 | 2 | — |
 | [research.0k.final](../../../../../../agents/bbugyi200.apollo.research.0k.final/README.md) | completed | — | 2026-06-25T23:04:45+00:00 → 2026-06-25T23:04:45+00:00 | 1 | — |
 | [research.0q.image](../../../../../../agents/bbugyi200.apollo.research.0q.image/README.md) | completed | — | 2026-06-27T12:46:37+00:00 → 2026-06-27T12:46:37+00:00 | 1 | — |
