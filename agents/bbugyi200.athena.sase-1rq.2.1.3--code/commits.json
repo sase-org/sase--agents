@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-830125e31856163772fdd3e886d9efc6"}
+{"commits":[{"committed_at":1794077675,"sha":"578a317bcf98a383fbd6adf2d96a1f1e4bae2648","subject":"perf(tests): cut test-cost leak-detector overhead about 3x without weakening the gate"}],"schema_version":2,"source_run_id":"run-830125e31856163772fdd3e886d9efc6"}
