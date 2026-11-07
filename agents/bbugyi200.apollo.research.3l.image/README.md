@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3l.image
 
-**Global name:** `bbugyi200.apollo.research.3l.image` · **State:** active · **Source run:** `run-a9b65cd629ea39313d47a8ed54fae465`
+**Global name:** `bbugyi200.apollo.research.3l.image` · **State:** completed · **Source run:** `run-a9b65cd629ea39313d47a8ed54fae465`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261107094537
+- Timing: 2026-11-07T15:21:37.780401+00:00 → 2026-11-07T15:33:05.593228+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202611/waiting\_on\_remote\_machine\_agents/waiting\_on\_remote\_machine\_agents.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261107094537/waiti… |
+| `diagrams` | {considered: 13, count: 2, manifest: 202611/waiting\_on\_remote\_machine\_agents/waiting\_on\_remote\_machine\_agents.diagrams.md, source\_ref: file:explicit:1416a77e48127303c3af0c68, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202611/waiting_on_remote_machine_agents/waiting_on_remote_machine_agents.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261107094537/waiting_on_remote_machine_agents.diagrams-9a70ef689a82.md
+  ref: file:explicit:ba8da1c845e150fc4809270d
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202611/waiting_on_remote_machine_agents/waiting_on_remote_machine_agents.diagrams.md
+- kind: image
+  label: image:202611/waiting_on_remote_machine_agents/waiting_on_remote_machine_agents_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261107094537/waiting_on_remote_machine_agents_infographic-daf774fc3c79.png
+  ref: file:explicit:85f052d1c8ec9e289cc99219
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202611/waiting_on_remote_machine_agents/waiting_on_remote_machine_agents_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 13
+count: 2
+manifest: 202611/waiting_on_remote_machine_agents/waiting_on_remote_machine_agents.diagrams.md
+source_ref: file:explicit:1416a77e48127303c3af0c68
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
