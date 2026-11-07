@@ -29,7 +29,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1rq.4.1.1](bbugyi200.athena.sase-1rq.4.1.1.md) (session · 15) | descendant | completed 11, failed 4 |
 | [sase-1rq.4.1.2](bbugyi200.athena.sase-1rq.4.1.2.md) (session · 3) | descendant | completed 2, failed 1 |
-| [sase-1rq.4.1.3](bbugyi200.athena.sase-1rq.4.1.3.md) (session · 3) | descendant | completed 2, waiting 1 |
+| [sase-1rq.4.1.3](bbugyi200.athena.sase-1rq.4.1.3.md) (session · 4) | descendant | active 1, completed 3 |
 | [sase-1rq.4.1.4](../agents/bbugyi200.athena.sase-1rq.4.1.4/README.md) | descendant | waiting |
 | [sase-1rq.4.1.land](../agents/bbugyi200.athena.sase-1rq.4.1.land/README.md) | descendant | waiting |
 | [sase-1rq.1](bbugyi200.athena.sase-1rq.1.md) (session · 9) | sase-1rq hood | completed 9 |
