@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ee1cf40e9029dea4b5fcafc9a4c6923b"}
+{"commits":[{"committed_at":1794047983,"sha":"8a9a993e0808570e5102b20fb91b2ac5c6499177","subject":"fix(agent-hijack): land epic integration fixes and protect held runs from prune"}],"schema_version":2,"source_run_id":"run-ee1cf40e9029dea4b5fcafc9a4c6923b"}
