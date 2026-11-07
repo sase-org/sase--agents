@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1794081152,"sha":"5922991bcfee7ab2d9afc615811da430ffd95a20","subject":"feat(sidecar-sync): connect never-launched projects so artifact_run_prune stops failing closed"}],"schema_version":2,"source_run_id":"run-bdc08774b6cb2ae00a69b4e2a7e8dedc"}
