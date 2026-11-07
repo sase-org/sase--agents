@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`470442d`](https://github.com/sase-org/sase/commit/470442d3d828e720d99d44c7a0f305dfc225e3ff) | feat(agent-sync): make sync publication-only | 2026-09-05 06:13:38 EDT |
+| — | `470442d` | feat(agent-sync): make sync publication-only | 2026-09-05 06:13:38 EDT |

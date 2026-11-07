@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2a216ed`](https://github.com/sase-org/sase/commit/2a216eda9158cd57ed903d02e9ede93140f0753b) | feat(agents-sync): add purge-local-state command for incoming agent caches | 2026-09-05 11:22:21 EDT |
+| — | `2a216ed` | feat(agents-sync): add purge-local-state command for incoming agent caches | 2026-09-05 11:22:21 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-ws.3.f0](../../sessions/bbugyi200.apollo.sase-ws.3.f0.md) (session · 2) | descendant | active 1, dismissed 1 |
+| [sase-ws.3.f0](../../sessions/bbugyi200.apollo.sase-ws.3.f0.md) (session · 2) | descendant | dismissed 1, failed 1 |
 | [sase-ws.4](../../sessions/bbugyi200.apollo.sase-ws.4.md) (session · 3) | sase-ws hood | completed 2, failed 1 |
 | [sase-ws.5](../bbugyi200.apollo.sase-ws.5/README.md) | sase-ws hood | completed |
 | [sase-ws.6](../bbugyi200.apollo.sase-ws.6/README.md) | sase-ws hood | completed |

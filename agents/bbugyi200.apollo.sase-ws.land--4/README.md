@@ -22,14 +22,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d6705a1`](https://github.com/sase-org/sase/commit/d6705a16bdbc6c8dd44f29154044d8384e47335f) | test(sase-ws): fix landing-gate leak poisonings and models-panel layout flake | 2026-09-06 00:34:08 EDT |
+| — | `d6705a1` | test(sase-ws): fix landing-gate leak poisonings and models-panel layout flake | 2026-09-06 00:34:08 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ws.3](../bbugyi200.apollo.sase-ws.3/README.md) | sase-ws hood | completed |
-| [sase-ws.3.f0](../../sessions/bbugyi200.apollo.sase-ws.3.f0.md) (session · 2) | sase-ws hood | active 1, dismissed 1 |
+| [sase-ws.3.f0](../../sessions/bbugyi200.apollo.sase-ws.3.f0.md) (session · 2) | sase-ws hood | dismissed 1, failed 1 |
 | [sase-ws.4](../../sessions/bbugyi200.apollo.sase-ws.4.md) (session · 3) | sase-ws hood | completed 2, failed 1 |
 | [sase-ws.5](../bbugyi200.apollo.sase-ws.5/README.md) | sase-ws hood | completed |
 | [sase-ws.6](../bbugyi200.apollo.sase-ws.6/README.md) | sase-ws hood | completed |

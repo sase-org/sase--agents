@@ -23,7 +23,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ws.3](../bbugyi200.apollo.sase-ws.3/README.md) | sase-ws hood | completed |
-| [sase-ws.3.f0](../../sessions/bbugyi200.apollo.sase-ws.3.f0.md) (session · 2) | sase-ws hood | active 1, dismissed 1 |
+| [sase-ws.3.f0](../../sessions/bbugyi200.apollo.sase-ws.3.f0.md) (session · 2) | sase-ws hood | dismissed 1, failed 1 |
 | [sase-ws.4](../../sessions/bbugyi200.apollo.sase-ws.4.md) (session · 3) | sase-ws hood | completed 2, failed 1 |
 | [sase-ws.5](../bbugyi200.apollo.sase-ws.5/README.md) | sase-ws hood | completed |
 | [sase-ws.6](../bbugyi200.apollo.sase-ws.6/README.md) | sase-ws hood | completed |

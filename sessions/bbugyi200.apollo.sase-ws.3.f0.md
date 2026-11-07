@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `sase-ws` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["sase-ws.3.f0--gate [active]"]
+  n0["sase-ws.3.f0--gate [failed]"]
   n1["sase-ws.3.f0--plan [dismissed]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-gate"></a>gate | sase-ws.3.f0--gate | active | claude-fable-5 / claude | 2026-09-05T11:16:19.575541+00:00 | 0 | — | — |
+| <a id="member-gate"></a>gate | sase-ws.3.f0--gate | failed | claude-fable-5 / claude | 2026-09-05T11:16:19.575541+00:00 → 2026-09-06T11:27:18.347738+00:00 | 0 | — | — |
 | <a id="member-plan"></a>plan | sase-ws.3.f0--plan | dismissed | claude-fable-5 / claude | 2026-09-05T06:54:15.426937 → 2026-09-05T07:16:34.061172 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-ws.3.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-ws.3.f0--plan/chat.md) |
 
 ## Neighbors

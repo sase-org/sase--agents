@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`302875c`](https://github.com/sase-org/sase/commit/302875cbc6d8d3fd7484e57012eff72db7c61e76) | docs(agents-sync): remove stale import-leg references, add decision records | 2026-09-05 16:26:36 EDT |
+| — | `302875c` | docs(agents-sync): remove stale import-leg references, add decision records | 2026-09-05 16:26:36 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ws.3](../bbugyi200.apollo.sase-ws.3/README.md) | sase-ws hood | completed |
-| [sase-ws.3.f0](../../sessions/bbugyi200.apollo.sase-ws.3.f0.md) (session · 2) | sase-ws hood | active 1, dismissed 1 |
+| [sase-ws.3.f0](../../sessions/bbugyi200.apollo.sase-ws.3.f0.md) (session · 2) | sase-ws hood | dismissed 1, failed 1 |
 | [sase-ws.4](../../sessions/bbugyi200.apollo.sase-ws.4.md) (session · 3) | sase-ws hood | completed 2, failed 1 |
 | [sase-ws.5](../bbugyi200.apollo.sase-ws.5/README.md) | sase-ws hood | completed |
 | [sase-ws.land](../../sessions/bbugyi200.apollo.sase-ws.land.md) (session · 9) | sase-ws hood | active 1, completed 4, failed 4 |

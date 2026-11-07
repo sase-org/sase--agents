@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / sase-ws
 
-**Global hood:** `bbugyi200.apollo.sase-ws` · **Runs:** 18 · **Sessions:** 3 · **States:** active 2, completed 10, dismissed 1, failed 5
+**Global hood:** `bbugyi200.apollo.sase-ws` · **Runs:** 18 · **Sessions:** 3 · **States:** active 1, completed 10, dismissed 1, failed 6
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -10,7 +10,7 @@
 | [sase-ws.land--plan](../../../../../../sessions/bbugyi200.apollo.sase-ws.land.md#member-plan) | completed | claude-fable-5 / claude | 2026-09-05T20:29:32.597340+00:00 → 2026-09-05T20:49:13.589662+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-ws.land--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-ws.land--plan/prompt.md) |
 | [sase-ws.4--gate](../../../../../../sessions/bbugyi200.apollo.sase-ws.4.md#member-gate) | failed | gpt-5.6-sol / codex | 2026-09-05T15:41:38.636615+00:00 → 2026-09-05T15:41:51.264277+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-ws.4--gate/chat.md) |
 | [sase-ws.5](../../../../../../agents/bbugyi200.apollo.sase-ws.5/README.md) | completed | gpt-5.5 / codex | 2026-09-05T17:49:14.343954+00:00 → 2026-09-05T19:26:54.898136+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.sase-ws.5/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-ws.5/prompt.md) |
-| [sase-ws.3.f0--gate](../../../../../../sessions/bbugyi200.apollo.sase-ws.3.f0.md#member-gate) | active | claude-fable-5 / claude | 2026-09-05T11:16:19.575541+00:00 | 0 | — |
+| [sase-ws.3.f0--gate](../../../../../../sessions/bbugyi200.apollo.sase-ws.3.f0.md#member-gate) | failed | claude-fable-5 / claude | 2026-09-05T11:16:19.575541+00:00 → 2026-09-06T11:27:18.347738+00:00 | 0 | — |
 | [sase-ws.4--code](../../../../../../sessions/bbugyi200.apollo.sase-ws.4.md#member-code) | completed | gpt-5.5 / codex | 2026-09-05T15:47:18.242992+00:00 → 2026-09-05T17:48:23.716004+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.sase-ws.4--code/chat.md) |
 | [sase-ws.land--1](../../../../../../sessions/bbugyi200.apollo.sase-ws.land.md#member-1) | completed | claude-fable-5 / claude | 2026-09-05T22:23:38.032130+00:00 → 2026-09-05T22:26:00.689473+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-ws.land--1/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-ws.land--1/prompt.md) |
 | [sase-ws.6](../../../../../../agents/bbugyi200.apollo.sase-ws.6/README.md) | completed | sonnet / claude | 2026-09-05T19:27:10.053087+00:00 → 2026-09-05T20:28:30.367520+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.sase-ws.6/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-ws.6/prompt.md) |

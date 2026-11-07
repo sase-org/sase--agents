@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b5b3a98`](https://github.com/sase-org/sase/commit/b5b3a984f2fbe16909aa75e8007d43c35ea36681) | refactor(agents-sync): delete import engine | 2026-09-05 13:46:14 EDT |
+| — | `b5b3a98` | refactor(agents-sync): delete import engine | 2026-09-05 13:46:14 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ws.3](../bbugyi200.apollo.sase-ws.3/README.md) | sase-ws hood | completed |
-| [sase-ws.3.f0](../../sessions/bbugyi200.apollo.sase-ws.3.f0.md) (session · 2) | sase-ws hood | active 1, dismissed 1 |
+| [sase-ws.3.f0](../../sessions/bbugyi200.apollo.sase-ws.3.f0.md) (session · 2) | sase-ws hood | dismissed 1, failed 1 |
 | [sase-ws.5](../bbugyi200.apollo.sase-ws.5/README.md) | sase-ws hood | completed |
 | [sase-ws.6](../bbugyi200.apollo.sase-ws.6/README.md) | sase-ws hood | completed |
 | [sase-ws.land](../../sessions/bbugyi200.apollo.sase-ws.land.md) (session · 9) | sase-ws hood | active 1, completed 4, failed 4 |

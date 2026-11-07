@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3102527`](https://github.com/sase-org/sase/commit/3102527cd4464e881100bf663e9f2de095acf057) | refactor(agent-identity): drop legacy import facade APIs | 2026-09-05 15:22:59 EDT |
+| — | `3102527` | refactor(agent-identity): drop legacy import facade APIs | 2026-09-05 15:22:59 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-ws.3](../bbugyi200.apollo.sase-ws.3/README.md) | sase-ws hood | completed |
-| [sase-ws.3.f0](../../sessions/bbugyi200.apollo.sase-ws.3.f0.md) (session · 2) | sase-ws hood | active 1, dismissed 1 |
+| [sase-ws.3.f0](../../sessions/bbugyi200.apollo.sase-ws.3.f0.md) (session · 2) | sase-ws hood | dismissed 1, failed 1 |
 | [sase-ws.4](../../sessions/bbugyi200.apollo.sase-ws.4.md) (session · 3) | sase-ws hood | completed 2, failed 1 |
 | [sase-ws.6](../bbugyi200.apollo.sase-ws.6/README.md) | sase-ws hood | completed |
 | [sase-ws.land](../../sessions/bbugyi200.apollo.sase-ws.land.md) (session · 9) | sase-ws hood | active 1, completed 4, failed 4 |
