@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`890058e`](https://github.com/sase-org/sase/commit/890058e80360707212ee0ef5047a99ba0010664e) | feat(visual): wait for maintenance lock and translate -n to SASE\_PYTEST\_WORKERS | 2026-09-22 13:44:24 EDT |
+| — | `890058e` | feat(visual): wait for maintenance lock and translate -n to SASE\_PYTEST\_WORKERS | 2026-09-22 13:44:24 EDT |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [sase-169.2](../bbugyi200.apollo.sase-169.2/README.md) | sase-169 hood | completed |
 | [sase-169.3](../../sessions/bbugyi200.apollo.sase-169.3.md) (session · 9) | sase-169 hood | completed 5, failed 4 |
 | [sase-169.5](../../sessions/bbugyi200.apollo.sase-169.5.md) (session · 3) | sase-169 hood | completed 2, failed 1 |
-| [sase-169.land](../../sessions/bbugyi200.apollo.sase-169.land.md) (session · 3) | sase-169 hood | active 2, failed 1 |
+| [sase-169.land](../../sessions/bbugyi200.apollo.sase-169.land.md) (session · 3) | sase-169 hood | active 1, completed 1, failed 1 |

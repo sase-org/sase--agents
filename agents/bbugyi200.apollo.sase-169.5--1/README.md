@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4be75a3`](https://github.com/sase-org/sase/commit/4be75a3d417deeecd69931a79b9a179c6247dc59) | docs(visual): document fix-tui-screenshots partial-success contract | 2026-09-22 20:44:38 EDT |
+| — | `4be75a3` | docs(visual): document fix-tui-screenshots partial-success contract | 2026-09-22 20:44:38 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [sase-169.2](../bbugyi200.apollo.sase-169.2/README.md) | sase-169 hood | completed |
 | [sase-169.3](../../sessions/bbugyi200.apollo.sase-169.3.md) (session · 9) | sase-169 hood | completed 5, failed 4 |
 | [sase-169.4](../bbugyi200.apollo.sase-169.4/README.md) | sase-169 hood | completed |
-| [sase-169.land](../../sessions/bbugyi200.apollo.sase-169.land.md) (session · 3) | sase-169 hood | active 2, failed 1 |
+| [sase-169.land](../../sessions/bbugyi200.apollo.sase-169.land.md) (session · 3) | sase-169 hood | active 1, completed 1, failed 1 |

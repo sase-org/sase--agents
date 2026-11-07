@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `sase-169` · Members: 3 · Bead: [sase-169](
 
 ```mermaid
 flowchart TD
-  n0["sase-169.land--code [active]"]
+  n0["sase-169.land--code [completed]"]
   n1["sase-169.land--plan [active]"]
   n0 --> n1
   n2["sase-169.land--gate [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | sase-169.land--code | active | muse-spark-1.3-contributor / muse | 2026-09-23T01:35:59.628117+00:00 | [1](../agents/bbugyi200.apollo.sase-169.land--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | sase-169.land--code | completed | muse-spark-1.3-contributor / muse | 2026-09-23T01:35:59.628117+00:00 → 2026-09-23T01:55:06.837378+00:00 | [1](../agents/bbugyi200.apollo.sase-169.land--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | sase-169.land--plan | active | opus / claude | 2026-09-23T00:46:50.619433+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-169.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-169.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | sase-169.land--gate | failed | opus / claude | 2026-09-23T01:35:25.398183+00:00 → 2026-09-23T01:35:37.154558+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-169.land--gate/chat.md) |
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`44cc2b7`](https://github.com/sase-org/sase/commit/44cc2b74b6c38ce4741d2d1a4822d11bdd0ce3db) | fix(visual): close sase-169 landing gaps in fix-tui-screenshots update mode | 2026-09-22 21:53:15 EDT |
+| code | — | `44cc2b7` | fix(visual): close sase-169 landing gaps in fix-tui-screenshots update mode | 2026-09-22 21:53:15 EDT |
 
 ## Neighbors
 

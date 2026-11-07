@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7c763a2`](https://github.com/sase-org/sase/commit/7c763a2e7b0173c2ffdd8f17d79c8f9f7a96d473) | test(visual): ignore non-visual deselection in capture inventory | 2026-09-22 10:54:16 EDT |
+| — | `7c763a2` | test(visual): ignore non-visual deselection in capture inventory | 2026-09-22 10:54:16 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [sase-169.3](../../sessions/bbugyi200.apollo.sase-169.3.md) (session · 9) | sase-169 hood | completed 5, failed 4 |
 | [sase-169.4](../bbugyi200.apollo.sase-169.4/README.md) | sase-169 hood | completed |
 | [sase-169.5](../../sessions/bbugyi200.apollo.sase-169.5.md) (session · 3) | sase-169 hood | completed 2, failed 1 |
-| [sase-169.land](../../sessions/bbugyi200.apollo.sase-169.land.md) (session · 3) | sase-169 hood | active 2, failed 1 |
+| [sase-169.land](../../sessions/bbugyi200.apollo.sase-169.land.md) (session · 3) | sase-169 hood | active 1, completed 1, failed 1 |

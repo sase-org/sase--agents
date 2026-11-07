@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7f01925`](https://github.com/sase-org/sase/commit/7f019258b1bfa1523786632d0f85d2b4bab12cf6) | feat(screenshots): salvage per-node captures with recovery retries and partial apply | 2026-09-22 11:32:01 EDT |
+| — | `7f01925` | feat(screenshots): salvage per-node captures with recovery retries and partial apply | 2026-09-22 11:32:01 EDT |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [sase-169.3](../../sessions/bbugyi200.apollo.sase-169.3.md) (session · 9) | sase-169 hood | completed 5, failed 4 |
 | [sase-169.4](../bbugyi200.apollo.sase-169.4/README.md) | sase-169 hood | completed |
 | [sase-169.5](../../sessions/bbugyi200.apollo.sase-169.5.md) (session · 3) | sase-169 hood | completed 2, failed 1 |
-| [sase-169.land](../../sessions/bbugyi200.apollo.sase-169.land.md) (session · 3) | sase-169 hood | active 2, failed 1 |
+| [sase-169.land](../../sessions/bbugyi200.apollo.sase-169.land.md) (session · 3) | sase-169 hood | active 1, completed 1, failed 1 |
