@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1rs.10](../agents/bbugyi200.athena.sase-1rs.10/README.md) | sase-1rs hood | waiting |
 | [sase-1rs.11](../agents/bbugyi200.athena.sase-1rs.11/README.md) | sase-1rs hood | waiting |
 | [sase-1rs.2](../agents/bbugyi200.athena.sase-1rs.2/README.md) | sase-1rs hood | completed |
-| [sase-1rs.3](../agents/bbugyi200.athena.sase-1rs.3/README.md) | sase-1rs hood | active |
+| [sase-1rs.3](../agents/bbugyi200.athena.sase-1rs.3/README.md) | sase-1rs hood | completed |
 | [sase-1rs.4](../agents/bbugyi200.athena.sase-1rs.4/README.md) | sase-1rs hood | active |
 | [sase-1rs.5](../agents/bbugyi200.athena.sase-1rs.5/README.md) | sase-1rs hood | waiting |
 | [sase-1rs.6](../agents/bbugyi200.athena.sase-1rs.6/README.md) | sase-1rs hood | waiting |

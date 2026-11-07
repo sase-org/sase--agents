@@ -26,7 +26,7 @@
 | [sase-1rs.1](../../sessions/bbugyi200.athena.sase-1rs.1.md) (session · 3) | sase-1rs hood | completed 3 |
 | [sase-1rs.10](../bbugyi200.athena.sase-1rs.10/README.md) | sase-1rs hood | waiting |
 | [sase-1rs.2](../bbugyi200.athena.sase-1rs.2/README.md) | sase-1rs hood | completed |
-| [sase-1rs.3](../bbugyi200.athena.sase-1rs.3/README.md) | sase-1rs hood | active |
+| [sase-1rs.3](../bbugyi200.athena.sase-1rs.3/README.md) | sase-1rs hood | completed |
 | [sase-1rs.4](../bbugyi200.athena.sase-1rs.4/README.md) | sase-1rs hood | active |
 | [sase-1rs.5](../bbugyi200.athena.sase-1rs.5/README.md) | sase-1rs hood | waiting |
 | [sase-1rs.6](../bbugyi200.athena.sase-1rs.6/README.md) | sase-1rs hood | waiting |
