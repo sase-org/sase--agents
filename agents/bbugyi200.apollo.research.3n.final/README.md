@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3n.final
 
-**Global name:** `bbugyi200.apollo.research.3n.final` · **State:** waiting · **Source run:** `run-f278c0fcee5d780dce8753d64ec10343`
+**Global name:** `bbugyi200.apollo.research.3n.final` · **State:** completed · **Source run:** `run-f278c0fcee5d780dce8753d64ec10343`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261108064342
+- Timing: 2026-11-08T11:59:45.855980+00:00 → 2026-11-08T12:13:08.871534+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/athena\_error\_digest\_spotify\_sidecar\_storm/athena\_error\_digest\_spotify\_sidecar\_storm\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/2026… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/athena_error_digest_spotify_sidecar_storm/athena_error_digest_spotify_sidecar_storm__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261108064342/athena_error_digest_spotify_sidecar_storm__final-3f3a25386be7.md
+  ref: file:explicit:df987c3ab040257339fcec6d
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202611/athena_error_digest_spotify_sidecar_storm/athena_error_digest_spotify_sidecar_storm__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
