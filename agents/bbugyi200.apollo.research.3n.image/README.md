@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3n.image
 
-**Global name:** `bbugyi200.apollo.research.3n.image` · **State:** waiting · **Source run:** `run-f98a1b5ae0c6da1bde377eb10bdadd9b`
+**Global name:** `bbugyi200.apollo.research.3n.image` · **State:** completed · **Source run:** `run-f98a1b5ae0c6da1bde377eb10bdadd9b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261108064343
+- Timing: 2026-11-08T12:14:09.215990+00:00 → 2026-11-08T12:25:23.546590+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202611/athena\_error\_digest\_spotify\_sidecar\_storm/athena\_error\_digest\_spotify\_sidecar\_storm\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sas… |
+| `diagrams` | {considered: 11, count: 1, manifest: 202611/athena\_error\_digest\_spotify\_sidecar\_storm/athena\_error\_digest\_spotify\_sidecar\_storm.diagrams.md, source\_ref: file:explicit:df987c3ab040257339fcec6d, status… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202611/athena_error_digest_spotify_sidecar_storm/athena_error_digest_spotify_sidecar_storm_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261108064343/athena_error_digest_spotify_sidecar_storm_infographic-0ae289db3b9b.png
+  ref: file:explicit:a46e50478e55e597b1842f40
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202611/athena_error_digest_spotify_sidecar_storm/athena_error_digest_spotify_sidecar_storm_infographic.png
+- kind: markdown
+  label: diagrams:202611/athena_error_digest_spotify_sidecar_storm/athena_error_digest_spotify_sidecar_storm.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261108064343/athena_error_digest_spotify_sidecar_storm.diagrams-57d4af541024.md
+  ref: file:explicit:4020c0de2f146e9a5490ae66
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_11/sase/repos/research/202611/athena_error_digest_spotify_sidecar_storm/athena_error_digest_spotify_sidecar_storm.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 11
+count: 1
+manifest: 202611/athena_error_digest_spotify_sidecar_storm/athena_error_digest_spotify_sidecar_storm.diagrams.md
+source_ref: file:explicit:df987c3ab040257339fcec6d
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
