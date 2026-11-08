@@ -218,8 +218,8 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [sase-1rq.2.1.4.1.1](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.1.md) (session · 5) | sase-1rq.2.1 hood | completed 4, failed 1 |
 | [sase-1rq.2.1.4.1.2](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.2.md) (session · 3) | sase-1rq.2.1 hood | completed 2, failed 1 |
 | [sase-1rq.2.1.4.1.3](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.3.md) (session · 3) | sase-1rq.2.1 hood | completed 2, failed 1 |
-| [sase-1rq.2.1.4.1.4](../bbugyi200.athena.sase-1rq.2.1.4.1.4/README.md) | sase-1rq.2.1 hood | waiting |
-| [sase-1rq.2.1.4.1.land](../bbugyi200.athena.sase-1rq.2.1.4.1.land/README.md) | sase-1rq.2.1 hood | waiting |
+| [sase-1rq.2.1.4.1.4](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.4.md) (session · 3) | sase-1rq.2.1 hood | completed 2, failed 1 |
+| [sase-1rq.2.1.4.1.land](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.land.md) (session · 3) | sase-1rq.2.1 hood | active 2, completed 1 |
 | [sase-1rq.2.1.6](../bbugyi200.athena.sase-1rq.2.1.6/README.md) | sase-1rq.2.1 hood | completed |
 | [sase-1rq.2.1.7](../bbugyi200.athena.sase-1rq.2.1.7/README.md) | sase-1rq.2.1 hood | waiting |
 | [sase-1rq.2.1.land](../bbugyi200.athena.sase-1rq.2.1.land/README.md) | sase-1rq.2.1 hood | waiting |
