@@ -29,7 +29,7 @@
 | [sase-1rq.2.1.4.1.2](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.2.md) (session · 3) | sase-1rq.2.1.4.1 hood | completed 2, failed 1 |
 | [sase-1rq.2.1.4.1.4](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.4.md) (session · 3) | sase-1rq.2.1.4.1 hood | completed 2, failed 1 |
 | [sase-1rq.2.1.4.1.5.1](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.5.1.md) (session · 5) | sase-1rq.2.1.4.1 hood | completed 4, failed 1 |
-| [sase-1rq.2.1.4.1.5.2](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.5.2.md) (session · 8) | sase-1rq.2.1.4.1 hood | active 1, completed 4, failed 3 |
+| [sase-1rq.2.1.4.1.5.2](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.5.2.md) (session · 10) | sase-1rq.2.1.4.1 hood | active 1, completed 5, failed 4 |
 | [sase-1rq.2.1.4.1.5.3](../bbugyi200.athena.sase-1rq.2.1.4.1.5.3/README.md) | sase-1rq.2.1.4.1 hood | waiting |
 | [sase-1rq.2.1.4.1.5.land](../bbugyi200.athena.sase-1rq.2.1.4.1.5.land/README.md) | sase-1rq.2.1.4.1 hood | waiting |
 | [sase-1rq.2.1.4.1.land](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.land.md) (session · 3) | sase-1rq.2.1.4.1 hood | active 1, completed 2 |
