@@ -29,7 +29,7 @@
 | [sase-1rq.2.1.4.1.3](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.3.md) (session · 3) | descendant | completed 2, failed 1 |
 | [sase-1rq.2.1.4.1.4](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.4.md) (session · 3) | descendant | completed 2, failed 1 |
 | [sase-1rq.2.1.4.1.5.1](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.5.1.md) (session · 5) | descendant | completed 4, failed 1 |
-| [sase-1rq.2.1.4.1.5.2](../bbugyi200.athena.sase-1rq.2.1.4.1.5.2/README.md) | descendant | active |
+| [sase-1rq.2.1.4.1.5.2](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.5.2.md) (session · 4) | descendant | active 1, completed 2, failed 1 |
 | [sase-1rq.2.1.4.1.5.3](../bbugyi200.athena.sase-1rq.2.1.4.1.5.3/README.md) | descendant | waiting |
 | [sase-1rq.2.1.4.1.5.land](../bbugyi200.athena.sase-1rq.2.1.4.1.5.land/README.md) | descendant | waiting |
 | [sase-1rq.2.1.4.1.land](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.land.md) (session · 3) | descendant | active 1, completed 2 |
