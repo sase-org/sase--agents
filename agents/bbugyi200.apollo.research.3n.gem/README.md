@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3n.gem
 
-**Global name:** `bbugyi200.apollo.research.3n.gem` · **State:** active · **Source run:** `run-770c087ad2515eba981f39f8ca1ff5e9`
+**Global name:** `bbugyi200.apollo.research.3n.gem` · **State:** completed · **Source run:** `run-770c087ad2515eba981f39f8ca1ff5e9`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,21 +10,40 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-11-08T11:45:17.979994+00:00
+- Timing: 2026-11-08T11:45:17.979994+00:00 → 2026-11-08T11:58:35.170022+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/sase\_error\_digest\_root\_cause\_analysis\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261108064341/sase\_error\_digest\_root\_cause\_analysis… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/sase_error_digest_root_cause_analysis__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261108064341/sase_error_digest_root_cause_analysis__gem-8d6b8b3f0aad.md
+  ref: file:explicit:3e08061a0fd9ac37a759073b
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_16/sase/repos/research/202611/sase_error_digest_root_cause_analysis__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.3n.cdx](../bbugyi200.apollo.research.3n.cdx/README.md) | research.3n hood | active |
-| [research.3n.cld](../bbugyi200.apollo.research.3n.cld/README.md) | research.3n hood | active |
+| [research.3n.cdx](../bbugyi200.apollo.research.3n.cdx/README.md) | research.3n hood | completed |
+| [research.3n.cld](../bbugyi200.apollo.research.3n.cld/README.md) | research.3n hood | completed |
 | [research.3n.final](../bbugyi200.apollo.research.3n.final/README.md) | research.3n hood | waiting |
-| [research.3n.grk](../bbugyi200.apollo.research.3n.grk/README.md) | research.3n hood | active |
+| [research.3n.grk](../bbugyi200.apollo.research.3n.grk/README.md) | research.3n hood | completed |
 | [research.3n.image](../bbugyi200.apollo.research.3n.image/README.md) | research.3n hood | waiting |
 | [research.3n.linker](../bbugyi200.apollo.research.3n.linker/README.md) | research.3n hood | waiting |
 | [research.3n.mus](../bbugyi200.apollo.research.3n.mus/README.md) | research.3n hood | completed |

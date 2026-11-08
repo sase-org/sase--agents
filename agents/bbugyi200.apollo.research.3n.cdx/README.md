@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3n.cdx
 
-**Global name:** `bbugyi200.apollo.research.3n.cdx` · **State:** active · **Source run:** `run-c9f307428e972910fea11f92adcfa9f0`
+**Global name:** `bbugyi200.apollo.research.3n.cdx` · **State:** completed · **Source run:** `run-c9f307428e972910fea11f92adcfa9f0`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,21 +10,40 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-08T11:44:08.744557+00:00
+- Timing: 2026-11-08T11:44:08.744557+00:00 → 2026-11-08T11:58:38.338588+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/athena\_error\_digests\_sidecar\_bootstrap\_and\_retry\_failures\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_sase-org\_\_sase/20261108064336/athena\_error\_dige… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/athena_error_digests_sidecar_bootstrap_and_retry_failures__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_sase-org__sase/20261108064336/athena_error_digests_sidecar_bootstrap_and_retry_failures__cdx-c3093eb1a6bd.md
+  ref: file:explicit:f6440ce0efca85b36c1af5b6
+  source_path: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_12/sase/repos/research/202611/athena_error_digests_sidecar_bootstrap_and_retry_failures__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.3n.cld](../bbugyi200.apollo.research.3n.cld/README.md) | research.3n hood | active |
+| [research.3n.cld](../bbugyi200.apollo.research.3n.cld/README.md) | research.3n hood | completed |
 | [research.3n.final](../bbugyi200.apollo.research.3n.final/README.md) | research.3n hood | waiting |
-| [research.3n.gem](../bbugyi200.apollo.research.3n.gem/README.md) | research.3n hood | active |
-| [research.3n.grk](../bbugyi200.apollo.research.3n.grk/README.md) | research.3n hood | active |
+| [research.3n.gem](../bbugyi200.apollo.research.3n.gem/README.md) | research.3n hood | completed |
+| [research.3n.grk](../bbugyi200.apollo.research.3n.grk/README.md) | research.3n hood | completed |
 | [research.3n.image](../bbugyi200.apollo.research.3n.image/README.md) | research.3n hood | waiting |
 | [research.3n.linker](../bbugyi200.apollo.research.3n.linker/README.md) | research.3n hood | waiting |
 | [research.3n.mus](../bbugyi200.apollo.research.3n.mus/README.md) | research.3n hood | completed |
