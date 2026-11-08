@@ -2,19 +2,23 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1rq](../users/bbugyi200/machines/athena/hoods/sase-1rq/README.md) / sase-1rq.2.1.4.1.5.2
 
-Owner: `bbugyi200.athena` · Hood: `sase-1rq` · Members: 4 · Bead: [sase-1rq.2.1.4.1.5.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1rq/sase-1rq.2.1.4.1.5.2.md)
+Owner: `bbugyi200.athena` · Hood: `sase-1rq` · Members: 6 · Bead: [sase-1rq.2.1.4.1.5.2](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1rq/sase-1rq.2.1.4.1.5.2.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
   n0["sase-1rq.2.1.4.1.5.2--1 [completed]"]
-  n1["sase-1rq.2.1.4.1.5.2--mon-0 [active]"]
+  n1["sase-1rq.2.1.4.1.5.2--mon-0 [failed]"]
   n0 --> n1
   n2["sase-1rq.2.1.4.1.5.2--plan [completed]"]
   n0 --> n2
   n3["sase-1rq.2.1.4.1.5.2--mon [failed]"]
   n0 --> n3
+  n4["sase-1rq.2.1.4.1.5.2--mon-1 [active]"]
+  n0 --> n4
+  n5["sase-1rq.2.1.4.1.5.2--2 [completed]"]
+  n0 --> n5
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -22,15 +26,18 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | sase-1rq.2.1.4.1.5.2--1 | completed | grok-4.6 / grok | 2026-11-08T09:01:27.684782+00:00 → 2026-11-08T09:33:30.798612+00:00 | [1](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.5.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.5.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.5.2--1/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | sase-1rq.2.1.4.1.5.2--mon-0 | active | grok-4.6 / grok | 2026-11-08T09:30:21.749330+00:00 | 0 | — | — |
+| <a id="member-mon-0"></a>mon-0 | sase-1rq.2.1.4.1.5.2--mon-0 | failed | grok-4.6 / grok | 2026-11-08T09:30:21.749330+00:00 → 2026-11-08T10:47:38.185449+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.5.2--mon-0/chat.md) |
 | <a id="member-plan"></a>plan | sase-1rq.2.1.4.1.5.2--plan | completed | grok-4.6 / grok | 2026-11-08T07:27:47.053820+00:00 → 2026-11-08T07:46:07.542717+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.5.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.5.2--plan/chat.md) |
 | <a id="member-mon"></a>mon | sase-1rq.2.1.4.1.5.2--mon | failed | grok-4.6 / grok | 2026-11-08T07:45:07.161053+00:00 → 2026-11-08T09:00:18.396976+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.5.2--mon/chat.md) |
+| <a id="member-mon-1"></a>mon-1 | sase-1rq.2.1.4.1.5.2--mon-1 | active | grok-4.6 / grok | 2026-11-08T11:11:13.783575+00:00 | 0 | — | — |
+| <a id="member-2"></a>2 | sase-1rq.2.1.4.1.5.2--2 | completed | grok-4.6 / grok | 2026-11-08T10:48:44.843223+00:00 → 2026-11-08T11:14:13.514084+00:00 | [1](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.5.2--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.5.2--2/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1rq.2.1.4.1.5.2--2/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | 1 | sase | [`dde1ada`](https://github.com/sase-org/sase/commit/dde1ada139e5698b8723b2166fab97d65d3d0f7c) | fix(test): isolate contention hang guards and nested soak records | 2026-11-08 04:31:55 EST |
+| 2 | sase | [`2400e61`](https://github.com/sase-org/sase/commit/2400e61e938c0535ca3de61e83f63f698c8b25c2) | fix(test): keep contended TUI waits off the event loop | 2026-11-08 06:12:38 EST |
 
 ## Neighbors
 
