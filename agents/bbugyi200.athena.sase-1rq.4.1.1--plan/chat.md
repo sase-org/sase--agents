@@ -1,95 +1,114 @@
-# Chat History - ace-run (sase-1rq.4.1.1--plan)
+# Chat History - ace-run (sase-1rq.4.1.1--code)
 
-- **TIMESTAMP:** 2026-11-07 08:16:54 EST
-- **MODEL:** codex/gpt-6-astra
-- **AGENT:** sase-1rq.4.1.1--plan
+- **TIMESTAMP:** 2026-11-07 08:42:07 EST
+- **MODEL:** grok/grok-4.6
+- **AGENT:** sase-1rq.4.1.1--code
 
-**Plan:** /home/bryan/.sase/plans/202611/bob_alias_lane_harness.md
+# Monitor handoff
 
+This agent delegated the remaining work to a monitor turn.
+Monitor ID: ee032d1kch6e
+Inspect with: sase monitor show ee032d1kch6e
+Monitor turn: sase-1rq.4.1.1--mon
+Directory: /home/bryan/.local/state/sase/workspaces/sase-org/sase/sase_18/sase/repos/external/gh/bobs-org/bob-mac-capture
 
-## Proposed Plan Preview
+Command:
 
-*Plan submitted for review.*
+```sh
+./Scripts/macos-ci-check
+```
 
-**Plan file:** `/home/bryan/.sase/plans/202611/bob_alias_lane_harness.md`
+Reason:
 
-> - **PARENT:** [202611/bob_mac_capture_ci_green.md](202611/bob_mac_capture_ci_green.md)
-> - **BEAD:** sase-1rq.4.1.1
-> # Repair the eleven deterministic sigil-alias CI tests
-> Implement assigned phase **sase-1rq.4.1.1** in `bobs-org/bob-mac-capture`. The governing
-> design is `plan:202611/bob_mac_capture_ci_green.md` (epic `sase-1rq.4.1`). Read it
-> through `sase artifact read`, and read the assigned bead for current notes and inherited
-> decisions. Open the repository with
-> `sase repo open gh:bobs-org/bob-mac-capture -r "Implement the alias-lane harness repair"`
-> and use only its returned checkout. Read that repository's `AGENTS.md`.
-> This is one bounded coding task: repair the fake protocol responses and test wiring
+Unfiltered macOS CI snapshot for sase-1rq.4.1.1 alias-lane harness repair before landing
 
-*See full plan file for details.*
+Next action:
+
+Continue sase-1rq.4.1.1 (Repair the eleven deterministic sigil-alias CI tests) in the opened gh:bobs-org/bob-mac-capture checkout. Read plan:202611/bob_alias_lane_harness.md via sase artifact read and the assigned bead notes.
+
+Inspect the completed unfiltered Scripts/macos-ci-check. Record run ID, snapshot SHA, the eleven test results, and any unrelated failures on bead sase-1rq.4.1.1. Do not create beads. Never close ancestors.
+
+The eleven tests that must have executed and passed (retain names):
+- CaptureSeparatorToggleTests.testPeriodAliasAfterRouteOpensNewIDBlockPicker
+- CaptureSeparatorToggleTests.testNativeUndoRestoresLiteralSigilAliasWithoutRetriggering
+- CaptureSeparatorToggleTests.testDelayedAcceptedAliasSupersedesGatedCompletion
+- CaptureSeparatorToggleTests.testPeriodAliasOnMoveBulletOpensMovePicker
+- CaptureSeparatorToggleTests.testSemicolonAliasOnOfferMoveBulletOpensMoveAndLinkPicker
+- CaptureSeparatorToggleTests.testUndoAfterMoveAliasRestoresLiteralWithoutRetriggering
+- CaptureSeparatorToggleTests.testCommaAfterCompleteTargetRunOpensNextParentPicker
+- CaptureSeparatorToggleTests.testBackslashAliasAfterTaskTypeOpensTypeMenuAndDoubleTapCloses
+- CaptureSeparatorToggleTests.testSlashAliasAfterTaskTypeOpensTypeMenuAndDoubleTapCloses
+- CapturePanelModelTests.testCommaOnExactRouteUsesBobRewriteLane
+- CapturePanelModelTests.testCommaCommitsPartialRouteThenBobOpensParentTaskPicker
+
+Exit 2 is unverified: repair or retry macos-ci-check. Exit 1 can reflect sibling-phase known failures (word-motion, intermittent tests); inspect the completed Test output, confirm all eleven tests executed and passed, and confirm there are no new failures caused by this change. A missing test name in a failed Build or truncated log is not proof. Do not quarantine a deterministic failure.
+
+After successful pre-land evidence (the eleven passed, no new failures from this change), submit the bob-mac-capture commit decision through /sase_final with bead_action keep. Keep the bead open until landed-run evidence. Stage a /sase_monitor continuation that discovers and watches the exact landed master SHA (do not watch an older green run), then confirms these eleven tests still pass. An overall red result from known sibling failures is acceptable for this phase when its eleven tests pass and it introduced no new failures.
+
+After landed SHA plus snapshot/master run evidence: sase bead epic-symbols sase-1rq.4.1.1, resolve or re-key entries to a still-open bead, then close only sase-1rq.4.1.1. Do not close sase-1rq.4.1, sase-1rq.4, or sase-1rq. Finish every root turn with /sase_final.
+
 
 ## Prompt
 
+%model:@medium
 #gh:gh_sase-org__sase
-%id(sase-1rq.4.1.1, bead=sase-1rq.4.1.1)
-%clan(sase-1rq.4.1, tribe=epic, summary_script=sase_clan_summary_epic)
-%model:@large
-%auto
-Can you complete the work for bead sase-1rq.4.1.1? The bead is already reserved for you and assigned to your agent
-name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
-checkpoint or by the runtime promoting an ad-hoc wait-time claim. Do not set the status by hand. If the host
-notice says the bead was already closed when this run started, the run is attached to the closed bead. Only the
-host notice tells you that; if `sase bead read` shows a closed bead and no host notice said so, you copied the
-wrong ID — re-copy `sase-1rq.4.1.1` from this prompt before concluding anything. Check
-whether the earlier work landed before redoing anything. Only when the host notice said the bead was already
-closed and the work is genuinely unfinished, run `sase bead open sase-1rq.4.1.1` first. Otherwise never run
-`sase bead open` on your own bead: it demotes an `in_progress` bead back to `open`. To view a bead, run
-`sase bead read sase-1rq.4.1.1 -r "<why you need this bead>"`. Read its
-description and design file with `sase bead read sase-1rq.4.1.1 -r "Need the phase scope and design file"`, do the work, and close only this bead with
-`sase bead close sase-1rq.4.1.1 --note "<what you verified>"`. Honor the epic's DECISIONS shown by
-`sase bead read`; they are final, and only memory notes they authorize may be edited. Before closing, run
-`sase bead epic-symbols sase-1rq.4.1.1`. If this phase still has `--epic-symbol` entries, resolve each symbol or
-re-key the Justfile line to a still-open bead (the parent epic or a later phase). `sase bead close` refuses while
-leftovers remain; they go stale the instant this phase closes and turn unrelated agents' `just check` red. Closing
-an assigned phase bead is unaffected by the parent-close descendant guard. Do NOT close the parent epic or any ancestor plan bead. Any instruction in a phase
-description or child plan to close an ancestor is preparation and evidence for that ancestor's land agent, not
-authorization for a phase worker. Do not create beads yourself: record discovered follow-up work as a
-`PROPOSED FOLLOW-UP:` entry via
-`sase bead note sase-1rq.4.1.1 'PROPOSED FOLLOW-UP: <one-line summary — detail>'`; the epic's land agent triages
-these into task beads. A check failure that reproduces identically on the clean base tree does not keep this bead
-open: record it as a `PROPOSED FOLLOW-UP:` entry (citing any task bead that already tracks it) and close anyway;
-nothing relaunches a phase left open. Before planning, check the phase's notes: if an earlier agent already
-worked this phase and left it open with recorded remaining work, that remainder did not fit one agent, so author
-a child epic whose phases each fit one coding agent and whose land agent closes this phase instead of another
-single-agent tale unless one coder can clearly finish everything left.
-Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate
-tier, validate and revalidate until it passes, then submit it with `sase plan propose` (as the skill instructs)
-before making any file changes.
+@plan:202611/bob_alias_lane_harness.md
+
+The above plan has been reviewed and approved. Implement it now.
 
 
 ## Response
 
-I’ll read the bead, its design, and any prior work notes, then use `/sase_plan` to prepare and submit the required plan before changing files.
+I'll read the plan from the plans sidecar and the implementation skills first, then start executing it.
 
+I'll open the plans sidecar next and pull the approved plan from there.
 
-The bead has no prior work notes. Its scope is the eleven repeatable alias failures; the undo and intermittent failures belong to sibling phases. I’ll use `/sase_memory_read` and `/sase_repo` to review the design and current checkout, including whether a fix has already landed.
+The plan is in the sidecar; I'll read it through the audited artifact path.
 
+The plan is a bounded repair in `bob-mac-capture`. I’ll load the parent design, the assigned bead, and the repo next.
 
-The checkout is clean at `1e0a092`, the same revision cited in the design, so no later fix is present. The alias and working separator rewrites share the native edit function. I’m checking their request setup, caret state, and fixtures to identify what differs.
+I'll refresh the repo against master and inspect the latest CI failures before changing anything.
 
+Baseline matches the plan. Next I’ll inspect fake-bob, the failing tests, and the existing fixtures.
 
-I found concrete harness gaps: several rewritten drafts receive empty parse metadata from `fake-bob`, which prevents completion from being requested. The `\` and `/` tests also omit the fixture flag that enables the task-type menu. The comma tests have additional setup gaps. These findings make a single bounded coding plan reasonable.
+I have the diagnosis. Next I’ll add the missing fake-bob parse cases, fix the shadowed completion branch, and repair the test wiring.
 
+Fake-bob coverage is in place. Next I’ll repair the test wiring and picker assertions.
 
-The CI log confirms that the period and move aliases were rewritten successfully; their picker assertions failed afterward. I also found that the comma tests expect inline completion state, while the existing parent-task tests correctly check `model.picker`. I’ll put those specific repairs and the required macOS verification into a `medium` tale plan.
+I'll replay the fake protocol calls next, then compile.
 
+portable-check is still running; I’ll wait for it, then type-check on the Mac.
 
-The plan passed validation with no warnings, and I’ve recorded the findings on the bead. I’ll now submit it through `/sase_plan` as requested. That skill requires ending this turn after the proposal is staged so the approval workflow can launch implementation.
+Portable-check already passed. Next I’ll type-check on the Mac, then start the unfiltered macos-ci-check through `/sase_monitor` and land via `/sase_final`.
 
+I’ll read Mac SSH notes and the current checkout, then rsync a scratch copy and type-check there.
 
-The proposal is staged. I’ll use `/sase_final` to complete the planning handoff; the bead remains open for implementation and verification.
+The status check ran in the workspace root. I’ll inspect bob-mac-capture next, then rsync a scratch copy to the Mac.
 
+Mac is reachable. I’ll inspect the typecheck recipes, then rsync a scratch copy and run them.
 
-Validated and submitted a `medium` tale plan. Investigation found missing fake-Bob responses, incomplete native-editor wiring, and incorrect picker-state assertions.
+I’ll rsync a scratch copy to the Mac and run `bundle.sh` plus `just typecheck-tests`, then delete the copy.
 
-Implementation remains pending; bead `sase-1rq.4.1.1` is still open.
+Mac typecheck passed. I’ll read the plan’s verification and close steps, then start the unfiltered macos-ci-check through prepared completion.
 
-The requested [sase_plan workflow](/home/bryan/.codex/skills/sase_plan/SKILL.md) says, “Nothing starts until your turn ends.” The proposal is staged for approval, and `/sase_final` is complete.
+Typecheck passed. I’ll stage the unfiltered `macos-ci-check` monitor with a follow-up that inspects the eleven tests, then finish through `/sase_final`.
+
+Monitor `ee032d` is staged. Next I’ll read the host finalizer context and submit the declaration without waiting on CI.
+
+Host context does not require a commit this turn: the staged monitor inherits the dirty tree. I’ll confirm the finalizer path, then end.
+
+The alias-lane harness repair is in the `bobs-org/bob-mac-capture` checkout, and unfiltered macOS CI is staged as monitor `ee032d`. The follow-up inspects the eleven tests, then lands.
+
+**What changed**
+- `fake-bob` now parses alias-lane drafts (`@file^`, short move bullets, `@cash+goog-exit +`, lowercase `Call bank @ca`/`@cash`) with the completion needs those tests wait on.
+- `FAKE_BOB_PARENT_TASK_COMMA` unshadows the parent-task complete fixture; plus-route tests keep the legacy inline complete.
+- Hash-alias tests pass `FAKE_BOB_TASK_TYPE_CHOOSER=1`.
+- Comma tests wire native rewrite into an `NSTextView`, wait on `model.picker`, and assert note-scope parent-task context.
+- New parse fixtures plus `testCaptureParseAliasLaneDraftsAdvertiseCompletionNeeds`.
+
+**Verified**
+- `just portable-check`: 2263 tests passed, 1 skipped, 0 failures.
+- Mac scratch `Scripts/bundle.sh` + `just typecheck-tests`: BobMacCaptureTests, BobMacCaptureInstallHelperTests, CaptureCoreTests, RefsCoreTests all PASS. Scratch copy deleted.
+
+**Not landed yet**
+Unfiltered `Scripts/macos-ci-check` is staged (95m, profile `verify`). Host context allows carry into that monitor, so the dirty tree is not committed until the follow-up has snapshot evidence. Bead `sase-1rq.4.1.1` stays open until the landed master SHA is watched, `epic-symbols` is run, and only that phase is closed.
