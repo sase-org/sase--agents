@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [sase-1rq](../../users/bbugyi200/machines/athena/hoods/sase-1rq/README.md) / [sase-1rq.2.1.4.1.3](../../sessions/bbugyi200.athena.sase-1rq.2.1.4.1.3.md) / sase-1rq.2.1.4.1.3--mon
 
-**Global name:** `bbugyi200.athena.sase-1rq.2.1.4.1.3--mon` · **State:** active · **Source run:** `run-27f00689906072b8fe2ee98ddeee8e49`
+**Global name:** `bbugyi200.athena.sase-1rq.2.1.4.1.3--mon` · **State:** failed · **Source run:** `run-27f00689906072b8fe2ee98ddeee8e49`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** sase-1rq
 
@@ -12,8 +12,12 @@
 - Epic: [sase-1rq.2.1.4.1](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1rq/sase-1rq.2.1.4.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-08T00:00:04.137777+00:00
+- Timing: 2026-11-08T00:00:04.137777+00:00 → 2026-11-08T01:20:36.899439+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
