@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `0av` · Members: 2
 ```mermaid
 flowchart TD
   n0["0av--mon [failed]"]
-  n1["0av--plan [active]"]
+  n1["0av--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,10 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | 0av--mon | failed | gpt-5.6-sol / codex | 2026-08-22T13:57:28.241817+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0av--mon/chat.md) |
-| <a id="member-plan"></a>plan | 0av--plan | active | gpt-5.6-sol / codex | 2026-08-22T13:41:21.585400+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0av--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0av--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0av--plan | dismissed | gpt-5.6-sol / codex | 2026-08-22T13:41:08 | 0 | [Prompt](../agents/bbugyi200.athena.0av--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0av--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`937278e`](https://github.com/sase-org/sase/commit/937278ecb1b0723a4aa42d55fe60f1cd635e8660) | feat(ace): render bare count in Agents info strip | 2026-07-01 05:56:59 EDT |
+| — | — | `937278e` | feat(ace): render bare count in Agents info strip | 2026-07-01 05:56:59 EDT |
