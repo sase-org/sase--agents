@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3b338c2`](https://github.com/sase-org/sase/commit/3b338c208a4252aeea9fdd023d0f6763eb4514e0) | perf(wait-deps): cache artifact directory lookups | 2026-09-09 05:13:02 EDT |
+| — | `3b338c2` | perf(wait-deps): cache artifact directory lookups | 2026-09-09 05:13:02 EDT |
 
 ## Neighbors
 

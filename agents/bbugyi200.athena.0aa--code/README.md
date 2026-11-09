@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b1327af`](https://github.com/sase-org/sase/commit/b1327affef876dc5532b713fb07dbaed1ed577f6) | test: expose final directive in ACE completions | 2026-08-22 07:14:59 EDT |
+| — | `b1327af` | test: expose final directive in ACE completions | 2026-08-22 07:14:59 EDT |
 
 ## Neighbors
 

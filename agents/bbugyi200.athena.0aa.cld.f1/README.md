@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e85b0cb`](https://github.com/sase-org/sase/commit/e85b0cbb3ea6857725dfb74d20902d1bd485b49e) | chore: Add SDD prompt and plan for remove\_config\_repo\_migration | 2026-06-29 12:56:45 EDT |
-| sase | [`b453ab7`](https://github.com/sase-org/sase/commit/b453ab7e507bff2ea1aec08c6511c01a4cea92f8) | feat(ace)!: remove repo-key migration UI | 2026-06-29 13:08:42 EDT |
+| — | `e85b0cb` | chore: Add SDD prompt and plan for remove\_config\_repo\_migration | 2026-06-29 12:56:45 EDT |
+| — | `b453ab7` | feat(ace)!: remove repo-key migration UI | 2026-06-29 13:08:42 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0aa](../../sessions/bbugyi200.athena.0aa.md) (session · 2) | ancestor | active 1, completed 1 |
+| [0aa](../../sessions/bbugyi200.athena.0aa.md) (session · 2) | ancestor | completed 1, dismissed 1 |

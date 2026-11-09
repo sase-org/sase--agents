@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`028d4c8`](https://github.com/sase-org/sase/commit/028d4c8715002c42e1c6b4ae9c3d3a77a3145ce9) | fix(release): allow transitive lock refresh in release metadata | 2026-08-21 17:35:08 EDT |
+| — | `028d4c8` | fix(release): allow transitive lock refresh in release metadata | 2026-08-21 17:35:08 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0a6](../../sessions/bbugyi200.athena.0a6.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0a6](../../sessions/bbugyi200.athena.0a6.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
 | [0a6--1--plan](../bbugyi200.athena.0a6--1--plan/README.md) | 0a6 hood | completed |
