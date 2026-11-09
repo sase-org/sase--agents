@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0ar.f0](../bbugyi200.athena.0ar.f0/README.md) | ancestor | active |
-| [0ar](../bbugyi200.athena.0ar/README.md) | ancestor | active |
-| [0ar.f0.f0](../bbugyi200.athena.0ar.f0.f0/README.md) | 0ar.f0 hood | active |
+| [0ar.f0](../bbugyi200.athena.0ar.f0/README.md) | ancestor | dismissed |
+| [0ar](../bbugyi200.athena.0ar/README.md) | ancestor | dismissed |
+| [0ar.f0.f0](../bbugyi200.athena.0ar.f0.f0/README.md) | 0ar.f0 hood | dismissed |
 | [0ar.f1](../bbugyi200.athena.0ar.f1/README.md) | 0ar hood | completed |

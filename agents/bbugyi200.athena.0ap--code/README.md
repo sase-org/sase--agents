@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`104e02e`](https://github.com/sase-org/sase/commit/104e02e4748eaa54d2e4e299119067c08d439957) | feat(ace-tui): show FAMILY SHELLS roster with nested monitor navigation | 2026-08-22 09:33:56 EDT |
+| — | `104e02e` | feat(ace-tui): show FAMILY SHELLS roster with nested monitor navigation | 2026-08-22 09:33:56 EDT |

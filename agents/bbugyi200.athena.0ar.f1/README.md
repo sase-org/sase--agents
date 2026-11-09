@@ -17,14 +17,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b826408`](https://github.com/sase-org/sase/commit/b826408cff763dadd1cee5530c7e94338fe3c300) | chore: Add SDD prompt and plan for bead\_closed\_default\_limit | 2026-06-30 10:07:47 EDT |
-| sase | [`b926688`](https://github.com/sase-org/sase/commit/b9266887d7f25c0950ef3a4a0a77aa1218256ae0) | feat(bead): default closed list results to newest 20 | 2026-06-30 10:20:10 EDT |
+| — | `b826408` | chore: Add SDD prompt and plan for bead\_closed\_default\_limit | 2026-06-30 10:07:47 EDT |
+| — | `b926688` | feat(bead): default closed list results to newest 20 | 2026-06-30 10:20:10 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0ar](../bbugyi200.athena.0ar/README.md) | ancestor | active |
-| [0ar.f0](../bbugyi200.athena.0ar.f0/README.md) | 0ar hood | active |
-| [0ar.f0.f0](../bbugyi200.athena.0ar.f0.f0/README.md) | 0ar hood | active |
-| [0ar.f0.f1](../../sessions/bbugyi200.athena.0ar.f0.f1.md) (session · 3) | 0ar hood | active 1, failed 2 |
+| [0ar](../bbugyi200.athena.0ar/README.md) | ancestor | dismissed |
+| [0ar.f0](../bbugyi200.athena.0ar.f0/README.md) | 0ar hood | dismissed |
+| [0ar.f0.f0](../bbugyi200.athena.0ar.f0.f0/README.md) | 0ar hood | dismissed |
+| [0ar.f0.f1](../../sessions/bbugyi200.athena.0ar.f0.f1.md) (session · 3) | 0ar hood | dismissed 1, failed 2 |

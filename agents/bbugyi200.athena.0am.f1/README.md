@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`59611e3`](https://github.com/sase-org/sase/commit/59611e395dd85b73ec8286ed5d7d838be082d0fa) | chore: Add SDD prompt and plan for model\_alias\_configuration\_migration | 2026-06-30 09:23:28 EDT |
-| sase | [`60a82a3`](https://github.com/sase-org/sase/commit/60a82a382677667f19bec7b43a4bd369b63944ac) | chore: Add epic plan bead and phase beads for model\_alias\_configuration\_migration | 2026-06-30 09:32:01 EDT |
+| — | `59611e3` | chore: Add SDD prompt and plan for model\_alias\_configuration\_migration | 2026-06-30 09:23:28 EDT |
+| — | `60a82a3` | chore: Add epic plan bead and phase beads for model\_alias\_configuration\_migration | 2026-06-30 09:32:01 EDT |
 
 ## Neighbors
 

@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b9065dc`](https://github.com/sase-org/sase/commit/b9065dcabfbc9a9d11f0064e5f0c4740f1204f4a) | chore: Add SDD prompt and plan for answered\_continuation\_asker\_status | 2026-06-30 08:51:52 EDT |
-| sase | [`631beaf`](https://github.com/sase-org/sase/commit/631beaf863226145930cd0bd9b6d45f175aa7b58) | fix: mark answered question continuations | 2026-06-30 09:03:05 EDT |
+| — | `b9065dc` | chore: Add SDD prompt and plan for answered\_continuation\_asker\_status | 2026-06-30 08:51:52 EDT |
+| — | `631beaf` | fix: mark answered question continuations | 2026-06-30 09:03:05 EDT |

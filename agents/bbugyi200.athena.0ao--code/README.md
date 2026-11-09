@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dd1f829`](https://github.com/sase-org/sase/commit/dd1f829c2d2289510be190562e2c3ae090abdd62) | feat(artifact-links): require real changes before publishing links | 2026-09-08 17:26:12 EDT |
+| — | `dd1f829` | feat(artifact-links): require real changes before publishing links | 2026-09-08 17:26:12 EDT |
