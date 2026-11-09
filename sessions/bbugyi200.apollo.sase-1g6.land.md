@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1g6.land--code [completed]"]
   n1["sase-1g6.land--gate [failed]"]
   n0 --> n1
-  n2["sase-1g6.land--plan [active]"]
+  n2["sase-1g6.land--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | sase-1g6.land--code | completed | muse-spark-1.3-contributor / muse | 2026-10-05T01:04:58.252684+00:00 → 2026-10-05T01:37:48.312810+00:00 | 0 | — | — |
 | <a id="member-gate"></a>gate | sase-1g6.land--gate | failed | grok-4.7 / grok | 2026-10-05T01:04:26.315408+00:00 → 2026-10-05T01:04:39.906165+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1g6.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | sase-1g6.land--plan | active | grok-4.7 / grok | 2026-10-05T00:49:41.473032+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1g6.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1g6.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-1g6.land--plan | dismissed | grok-4.7 / grok | 2026-10-04T20:49:41.473032 → 2026-10-04T21:37:48.343080 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1g6.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1g6.land--plan/chat.md) |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1466f1a`](https://github.com/sase-org/sase/commit/1466f1a67b26ef34bd172ec03ab2476e3c0f9691) | feat(agents-sync): accept legacy family-only session manifests via Rust core | 2026-10-03 15:09:07 EDT |
+| — | `1466f1a` | feat(agents-sync): accept legacy family-only session manifests via Rust core | 2026-10-03 15:09:07 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-1fs.2](../bbugyi200.apollo.sase-1fs.2/README.md) | sase-1fs hood | completed |
 | [sase-1fs.3](../../sessions/bbugyi200.apollo.sase-1fs.3.md) (session · 17) | sase-1fs hood | completed 9, failed 8 |
-| [sase-1fs.land](../bbugyi200.apollo.sase-1fs.land/README.md) | sase-1fs hood | active |
+| [sase-1fs.land](../bbugyi200.apollo.sase-1fs.land/README.md) | sase-1fs hood | dismissed |

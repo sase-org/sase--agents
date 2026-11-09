@@ -25,4 +25,4 @@
 |---|---|---|
 | [sase-198.2](../../sessions/bbugyi200.apollo.sase-198.2.md) (session · 4) | sase-198 hood | active 1, completed 1, failed 2 |
 | [sase-198.3](../../sessions/bbugyi200.apollo.sase-198.3.md) (session · 3) | sase-198 hood | completed 2, failed 1 |
-| [sase-198.land](../bbugyi200.apollo.sase-198.land/README.md) | sase-198 hood | active |
+| [sase-198.land](../bbugyi200.apollo.sase-198.land/README.md) | sase-198 hood | dismissed |

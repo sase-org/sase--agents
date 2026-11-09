@@ -23,7 +23,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-19f.1](../bbugyi200.apollo.sase-19f.1/README.md) | sase-19f hood | completed |
-| [sase-19f.2](../bbugyi200.apollo.sase-19f.2/README.md) | sase-19f hood | active |
+| [sase-19f.2](../bbugyi200.apollo.sase-19f.2/README.md) | sase-19f hood | dismissed |
 | [sase-19f.3](../bbugyi200.apollo.sase-19f.3/README.md) | sase-19f hood | waiting |
 | [sase-19f.4](../bbugyi200.apollo.sase-19f.4/README.md) | sase-19f hood | waiting |
 | [sase-19f.5](../bbugyi200.apollo.sase-19f.5/README.md) | sase-19f hood | waiting |

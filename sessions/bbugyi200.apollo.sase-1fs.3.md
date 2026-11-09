@@ -71,4 +71,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-1fs.1](../agents/bbugyi200.apollo.sase-1fs.1/README.md) | sase-1fs hood | completed |
 | [sase-1fs.2](../agents/bbugyi200.apollo.sase-1fs.2/README.md) | sase-1fs hood | completed |
-| [sase-1fs.land](../agents/bbugyi200.apollo.sase-1fs.land/README.md) | sase-1fs hood | active |
+| [sase-1fs.land](../agents/bbugyi200.apollo.sase-1fs.land/README.md) | sase-1fs hood | dismissed |

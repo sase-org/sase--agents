@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1g6](../../users/bbugyi200/machines/apollo/hoods/sase-1g6/README.md) / [sase-1g6.land](../../sessions/bbugyi200.apollo.sase-1g6.land.md) / sase-1g6.land--plan
 
-**Global name:** `bbugyi200.apollo.sase-1g6.land--plan` · **State:** active · **Source run:** `run-c73d92dc1de86dff20d64146ae0df13b`
+**Global name:** `bbugyi200.apollo.sase-1g6.land--plan` · **State:** dismissed · **Source run:** `run-c73d92dc1de86dff20d64146ae0df13b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1g6
 
@@ -11,7 +11,7 @@
 - Bead: [sase-1g6](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1g6/README.md)
 - Model: grok-4.7
 - Provider: grok
-- Timing: 2026-10-05T00:49:41.473032+00:00
+- Timing: 2026-10-04T20:49:41.473032 → 2026-10-04T21:37:48.343080
 - Commits: 0
 
 ## Files

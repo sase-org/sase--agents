@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b51df19`](https://github.com/sase-org/sase/commit/b51df19d88d26d43377530c7176cdf8e3c83802f) | feat(agents-sync): revive retired publication requests with session-aware completion | 2026-10-03 17:07:39 EDT |
+| — | `b51df19` | feat(agents-sync): revive retired publication requests with session-aware completion | 2026-10-03 17:07:39 EDT |
 
 ## Neighbors
 
@@ -30,4 +30,4 @@
 |---|---|---|
 | [sase-1fs.1](../bbugyi200.apollo.sase-1fs.1/README.md) | sase-1fs hood | completed |
 | [sase-1fs.3](../../sessions/bbugyi200.apollo.sase-1fs.3.md) (session · 17) | sase-1fs hood | completed 9, failed 8 |
-| [sase-1fs.land](../bbugyi200.apollo.sase-1fs.land/README.md) | sase-1fs hood | active |
+| [sase-1fs.land](../bbugyi200.apollo.sase-1fs.land/README.md) | sase-1fs hood | dismissed |

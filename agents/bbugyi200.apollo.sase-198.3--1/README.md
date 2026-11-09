@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0607f7a`](https://github.com/sase-org/sase/commit/0607f7a083d80a96d3b1e9e0b5d6174417a6ce4e) | feat(queue): allow zero-load agents with %queue(weight=0) (sase-198.3) | 2026-09-25 13:12:21 EDT |
+| — | `0607f7a` | feat(queue): allow zero-load agents with %queue(weight=0) (sase-198.3) | 2026-09-25 13:12:21 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-198.1](../../sessions/bbugyi200.apollo.sase-198.1.md) (session · 3) | sase-198 hood | active 1, failed 2 |
+| [sase-198.1](../../sessions/bbugyi200.apollo.sase-198.1.md) (session · 3) | sase-198 hood | dismissed 1, failed 2 |
 | [sase-198.2](../../sessions/bbugyi200.apollo.sase-198.2.md) (session · 4) | sase-198 hood | active 1, completed 1, failed 2 |
-| [sase-198.land](../bbugyi200.apollo.sase-198.land/README.md) | sase-198 hood | active |
+| [sase-198.land](../bbugyi200.apollo.sase-198.land/README.md) | sase-198 hood | dismissed |

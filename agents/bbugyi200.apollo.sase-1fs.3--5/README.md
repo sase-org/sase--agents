@@ -24,4 +24,4 @@
 |---|---|---|
 | [sase-1fs.1](../bbugyi200.apollo.sase-1fs.1/README.md) | sase-1fs hood | completed |
 | [sase-1fs.2](../bbugyi200.apollo.sase-1fs.2/README.md) | sase-1fs hood | completed |
-| [sase-1fs.land](../bbugyi200.apollo.sase-1fs.land/README.md) | sase-1fs hood | active |
+| [sase-1fs.land](../bbugyi200.apollo.sase-1fs.land/README.md) | sase-1fs hood | dismissed |
