@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e7d9f7a`](https://github.com/sase-org/sase/commit/e7d9f7a479664f412422ce40c0e679d29e5db41c) | feat(runner-slots): adopt pruned capacity scan | 2026-10-26 22:05:57 EDT |
+| — | `e7d9f7a` | feat(runner-slots): adopt pruned capacity scan | 2026-10-26 22:05:57 EDT |
 
 ## Neighbors
 

@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| mon-0 | sase | [`d6d8b2b`](https://github.com/sase-org/sase/commit/d6d8b2b9425ae2c4e88aa689ad8a89c03852732b) | feat(codex): isolate shadow-home sessions to today and tomorrow | 2026-10-26 19:48:02 EDT |
+| mon-0 | — | `d6d8b2b` | feat(codex): isolate shadow-home sessions to today and tomorrow | 2026-10-26 19:48:02 EDT |
 
 ## Neighbors
 
@@ -42,6 +42,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1oj.1](../agents/bbugyi200.apollo.sase-1oj.1/README.md) | sase-1oj hood | completed |
 | [sase-1oj.2](../agents/bbugyi200.apollo.sase-1oj.2/README.md) | sase-1oj hood | completed |
 | [sase-1oj.3](../agents/bbugyi200.apollo.sase-1oj.3/README.md) | sase-1oj hood | completed |
-| [sase-1oj.4](bbugyi200.apollo.sase-1oj.4.md) (session · 5) | sase-1oj hood | active 4, failed 1 |
+| [sase-1oj.4](bbugyi200.apollo.sase-1oj.4.md) (session · 5) | sase-1oj hood | active 3, dismissed 1, failed 1 |
 | [sase-1oj.6](../agents/bbugyi200.apollo.sase-1oj.6/README.md) | sase-1oj hood | waiting |
 | [sase-1oj.land](../agents/bbugyi200.apollo.sase-1oj.land/README.md) | sase-1oj hood | waiting |

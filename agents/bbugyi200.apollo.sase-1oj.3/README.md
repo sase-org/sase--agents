@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`60498dc`](https://github.com/sase-org/sase/commit/60498dcb5ec08bd945a8e89055c74e182065fbab) | docs(rust-backend): point test paths at consolidated integration targets | 2026-10-26 18:56:43 EDT |
+| — | `60498dc` | docs(rust-backend): point test paths at consolidated integration targets | 2026-10-26 18:56:43 EDT |
 
 ## Neighbors
 
@@ -31,7 +31,7 @@
 |---|---|---|
 | [sase-1oj.1](../bbugyi200.apollo.sase-1oj.1/README.md) | sase-1oj hood | completed |
 | [sase-1oj.2](../bbugyi200.apollo.sase-1oj.2/README.md) | sase-1oj hood | completed |
-| [sase-1oj.4](../../sessions/bbugyi200.apollo.sase-1oj.4.md) (session · 5) | sase-1oj hood | active 4, failed 1 |
+| [sase-1oj.4](../../sessions/bbugyi200.apollo.sase-1oj.4.md) (session · 5) | sase-1oj hood | active 3, dismissed 1, failed 1 |
 | [sase-1oj.5](../../sessions/bbugyi200.apollo.sase-1oj.5.md) (session · 5) | sase-1oj hood | completed 3, failed 2 |
 | [sase-1oj.6](../bbugyi200.apollo.sase-1oj.6/README.md) | sase-1oj hood | waiting |
 | [sase-1oj.land](../bbugyi200.apollo.sase-1oj.land/README.md) | sase-1oj hood | waiting |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c328233`](https://github.com/sase-org/sase/commit/c328233430e4699d92a8abcc4a38ed7e009d1e9c) | test(runner-slots): pin live pids in the persisted-lineage capacity scan test | 2026-10-27 15:22:53 EDT |
+| — | `c328233` | test(runner-slots): pin live pids in the persisted-lineage capacity scan test | 2026-10-27 15:22:53 EDT |
 
 ## Neighbors
 
@@ -31,6 +31,6 @@
 | [sase-1oj.1](../bbugyi200.apollo.sase-1oj.1/README.md) | sase-1oj hood | completed |
 | [sase-1oj.2](../bbugyi200.apollo.sase-1oj.2/README.md) | sase-1oj hood | completed |
 | [sase-1oj.3](../bbugyi200.apollo.sase-1oj.3/README.md) | sase-1oj hood | completed |
-| [sase-1oj.4](../../sessions/bbugyi200.apollo.sase-1oj.4.md) (session · 5) | sase-1oj hood | active 4, failed 1 |
+| [sase-1oj.4](../../sessions/bbugyi200.apollo.sase-1oj.4.md) (session · 5) | sase-1oj hood | active 3, dismissed 1, failed 1 |
 | [sase-1oj.5](../../sessions/bbugyi200.apollo.sase-1oj.5.md) (session · 5) | sase-1oj hood | completed 3, failed 2 |
 | [sase-1oj.6](../bbugyi200.apollo.sase-1oj.6/README.md) | sase-1oj hood | waiting |
