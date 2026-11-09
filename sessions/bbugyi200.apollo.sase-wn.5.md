@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`2eb1335`](https://github.com/sase-org/sase/commit/2eb13350f991a84b340f4d6619334b9311bd7f9c) | feat(ace): gate auto-refresh on per-surface change tokens | 2026-09-04 20:53:28 EDT |
+| — | — | `2eb1335` | feat(ace): gate auto-refresh on per-surface change tokens | 2026-09-04 20:53:28 EDT |
 
 ## Neighbors
 
@@ -48,4 +48,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-wn.7](../agents/bbugyi200.apollo.sase-wn.7/README.md) | sase-wn hood | completed |
 | [sase-wn.8](../agents/bbugyi200.apollo.sase-wn.8/README.md) | sase-wn hood | completed |
 | [sase-wn.9](../agents/bbugyi200.apollo.sase-wn.9/README.md) | sase-wn hood | completed |
-| [sase-wn.land](../agents/bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | active |
+| [sase-wn.land](../agents/bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | dismissed |

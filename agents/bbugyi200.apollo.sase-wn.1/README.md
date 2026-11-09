@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c0b741c`](https://github.com/sase-org/sase/commit/c0b741c9363e58abadf8732ef7bd6fa35521f212) | perf(chops): defer heavy runner imports to cut chop import budget | 2026-09-04 17:56:43 EDT |
+| — | `c0b741c` | perf(chops): defer heavy runner imports to cut chop import budget | 2026-09-04 17:56:43 EDT |
 
 ## Neighbors
 
@@ -37,4 +37,4 @@
 | [sase-wn.7](../bbugyi200.apollo.sase-wn.7/README.md) | sase-wn hood | completed |
 | [sase-wn.8](../bbugyi200.apollo.sase-wn.8/README.md) | sase-wn hood | completed |
 | [sase-wn.9](../bbugyi200.apollo.sase-wn.9/README.md) | sase-wn hood | completed |
-| [sase-wn.land](../bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | active |
+| [sase-wn.land](../bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | dismissed |

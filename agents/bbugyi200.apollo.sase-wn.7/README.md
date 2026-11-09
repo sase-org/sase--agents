@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`969c22b`](https://github.com/sase-org/sase/commit/969c22ba06edd575ff26629f2c11a6547ab3b71b) | feat(ace): cache idle prompt-panel renders of unchanged documents | 2026-09-04 19:06:31 EDT |
+| — | `969c22b` | feat(ace): cache idle prompt-panel renders of unchanged documents | 2026-09-04 19:06:31 EDT |
 
 ## Neighbors
 
@@ -38,4 +38,4 @@
 | [sase-wn.6](../bbugyi200.apollo.sase-wn.6/README.md) | sase-wn hood | completed |
 | [sase-wn.8](../bbugyi200.apollo.sase-wn.8/README.md) | sase-wn hood | completed |
 | [sase-wn.9](../bbugyi200.apollo.sase-wn.9/README.md) | sase-wn hood | completed |
-| [sase-wn.land](../bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | active |
+| [sase-wn.land](../bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | dismissed |

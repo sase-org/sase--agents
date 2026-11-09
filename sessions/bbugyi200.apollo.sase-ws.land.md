@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `sase-ws` · Members: 9 · Bead: [sase-ws](ht
 
 ```mermaid
 flowchart TD
-  n0["sase-ws.land--4 [active]"]
+  n0["sase-ws.land--4 [dismissed]"]
   n1["sase-ws.land--plan [completed]"]
   n0 --> n1
   n2["sase-ws.land--1 [completed]"]
@@ -31,7 +31,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-4"></a>4 | sase-ws.land--4 | active | claude-fable-5 / claude | 2026-09-06T04:15:46.418128+00:00 | [1](../agents/bbugyi200.apollo.sase-ws.land--4/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-ws.land--4/prompt.md) | — |
+| <a id="member-4"></a>4 | sase-ws.land--4 | dismissed | claude-fable-5 / claude | 2026-09-06T00:15:46.418128 → 2026-09-06T00:36:06.687429 | [1](../agents/bbugyi200.apollo.sase-ws.land--4/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-ws.land--4/prompt.md) | — |
 | <a id="member-plan"></a>plan | sase-ws.land--plan | completed | claude-fable-5 / claude | 2026-09-05T20:29:32.597340+00:00 → 2026-09-05T20:49:13.589662+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-ws.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-ws.land--plan/chat.md) |
 | <a id="member-1"></a>1 | sase-ws.land--1 | completed | claude-fable-5 / claude | 2026-09-05T22:23:38.032130+00:00 → 2026-09-05T22:26:00.689473+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-ws.land--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-ws.land--1/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | sase-ws.land--mon-1 | failed | claude-fable-5 / claude | 2026-09-06T00:15:27.654468+00:00 → 2026-09-06T02:05:22.526033+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-ws.land--mon-1/chat.md) |

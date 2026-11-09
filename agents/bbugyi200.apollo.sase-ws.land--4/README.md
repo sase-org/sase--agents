@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-ws](../../users/bbugyi200/machines/apollo/hoods/sase-ws/README.md) / [sase-ws.land](../../sessions/bbugyi200.apollo.sase-ws.land.md) / sase-ws.land--4
 
-**Global name:** `bbugyi200.apollo.sase-ws.land--4` · **State:** active · **Source run:** `run-1216348fdca82971075a48d552e577f8`
+**Global name:** `bbugyi200.apollo.sase-ws.land--4` · **State:** dismissed · **Source run:** `run-1216348fdca82971075a48d552e577f8`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-ws
 
@@ -11,7 +11,7 @@
 - Bead: [sase-ws](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ws/README.md)
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 2026-09-06T04:15:46.418128+00:00
+- Timing: 2026-09-06T00:15:46.418128 → 2026-09-06T00:36:06.687429
 - Commits: [1](#commits)
 
 ## Files

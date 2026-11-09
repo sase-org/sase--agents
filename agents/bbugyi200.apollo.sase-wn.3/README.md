@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ad5bcc9`](https://github.com/sase-org/sase/commit/ad5bcc914b84c5ef3696bf43805038ba354e1800) | feat(ace): wire fs change-token guards into shipped hooks/waits chops | 2026-09-05 06:51:02 EDT |
+| — | `ad5bcc9` | feat(ace): wire fs change-token guards into shipped hooks/waits chops | 2026-09-05 06:51:02 EDT |
 
 ## Neighbors
 
@@ -38,4 +38,4 @@
 | [sase-wn.7](../bbugyi200.apollo.sase-wn.7/README.md) | sase-wn hood | completed |
 | [sase-wn.8](../bbugyi200.apollo.sase-wn.8/README.md) | sase-wn hood | completed |
 | [sase-wn.9](../bbugyi200.apollo.sase-wn.9/README.md) | sase-wn hood | completed |
-| [sase-wn.land](../bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | active |
+| [sase-wn.land](../bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | dismissed |

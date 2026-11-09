@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-wn](../../users/bbugyi200/machines/apollo/hoods/sase-wn/README.md) / sase-wn.land
 
-**Global name:** `bbugyi200.apollo.sase-wn.land` · **State:** active · **Source run:** `run-443963a7e480a618ef4d3e63357f37a4`
+**Global name:** `bbugyi200.apollo.sase-wn.land` · **State:** dismissed · **Source run:** `run-443963a7e480a618ef4d3e63357f37a4`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-wn
 
@@ -11,7 +11,7 @@
 - Bead: [sase-wn](https://github.com/sase-org/sase--beads/blob/main/pages/sase-wn/README.md)
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 2026-09-05T21:39:38.178736+00:00
+- Timing: 2026-09-05T17:39:38.178736 → 2026-09-05T18:18:44.724333
 - Commits: [1](#commits)
 
 ## Files
@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4acd90b`](https://github.com/sase-org/sase/commit/4acd90b9c5e8a259c6e56b3f2851643a96b51e98) | docs(perf): align runbook idle-CPU criterion with sase-wn.10 perf counters (sase-wn) | 2026-09-05 18:15:03 EDT |
+| — | `4acd90b` | docs(perf): align runbook idle-CPU criterion with sase-wn.10 perf counters (sase-wn) | 2026-09-05 18:15:03 EDT |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`da95c82`](https://github.com/sase-org/sase/commit/da95c82480b8ab258478fdd5eacdaf49abfd519c) | feat: cache sase-core release wheels | 2026-09-04 17:33:47 EDT |
+| — | `da95c82` | feat: cache sase-core release wheels | 2026-09-04 17:33:47 EDT |
 
 ## Neighbors
 
@@ -38,4 +38,4 @@
 | [sase-wn.6](../bbugyi200.apollo.sase-wn.6/README.md) | sase-wn hood | completed |
 | [sase-wn.7](../bbugyi200.apollo.sase-wn.7/README.md) | sase-wn hood | completed |
 | [sase-wn.8](../bbugyi200.apollo.sase-wn.8/README.md) | sase-wn hood | completed |
-| [sase-wn.land](../bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | active |
+| [sase-wn.land](../bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | dismissed |

@@ -27,4 +27,4 @@
 | [sase-ws.3.f0](../../sessions/bbugyi200.apollo.sase-ws.3.f0.md) (session · 2) | sase-ws hood | dismissed 1, failed 1 |
 | [sase-ws.5](../bbugyi200.apollo.sase-ws.5/README.md) | sase-ws hood | completed |
 | [sase-ws.6](../bbugyi200.apollo.sase-ws.6/README.md) | sase-ws hood | completed |
-| [sase-ws.land](../../sessions/bbugyi200.apollo.sase-ws.land.md) (session · 9) | sase-ws hood | active 1, completed 4, failed 4 |
+| [sase-ws.land](../../sessions/bbugyi200.apollo.sase-ws.land.md) (session · 9) | sase-ws hood | completed 4, dismissed 1, failed 4 |

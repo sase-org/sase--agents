@@ -37,4 +37,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-ws.3.f0](bbugyi200.apollo.sase-ws.3.f0.md) (session · 2) | sase-ws hood | dismissed 1, failed 1 |
 | [sase-ws.5](../agents/bbugyi200.apollo.sase-ws.5/README.md) | sase-ws hood | completed |
 | [sase-ws.6](../agents/bbugyi200.apollo.sase-ws.6/README.md) | sase-ws hood | completed |
-| [sase-ws.land](bbugyi200.apollo.sase-ws.land.md) (session · 9) | sase-ws hood | active 1, completed 4, failed 4 |
+| [sase-ws.land](bbugyi200.apollo.sase-ws.land.md) (session · 9) | sase-ws hood | completed 4, dismissed 1, failed 4 |

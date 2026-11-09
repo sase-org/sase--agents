@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0927b10`](https://github.com/sase-org/sase/commit/0927b10928b344372127ac956226855f6ccb8b44) | perf(ace): cache immutable axe status reads across ticks | 2026-09-04 22:30:20 EDT |
+| — | `0927b10` | perf(ace): cache immutable axe status reads across ticks | 2026-09-04 22:30:20 EDT |
 
 ## Neighbors
 
@@ -38,4 +38,4 @@
 | [sase-wn.7](../bbugyi200.apollo.sase-wn.7/README.md) | sase-wn hood | completed |
 | [sase-wn.8](../bbugyi200.apollo.sase-wn.8/README.md) | sase-wn hood | completed |
 | [sase-wn.9](../bbugyi200.apollo.sase-wn.9/README.md) | sase-wn hood | completed |
-| [sase-wn.land](../bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | active |
+| [sase-wn.land](../bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | dismissed |

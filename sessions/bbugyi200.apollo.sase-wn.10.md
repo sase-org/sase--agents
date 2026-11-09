@@ -45,7 +45,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 4 | sase | [`9ed0f11`](https://github.com/sase-org/sase/commit/9ed0f11b7c21c5da288833b44bfeb85ca12f16fc) | feat(axe): add idle-host perf counters, budgets, and status overlay | 2026-09-05 17:36:31 EDT |
+| 4 | — | `9ed0f11` | feat(axe): add idle-host perf counters, budgets, and status overlay | 2026-09-05 17:36:31 EDT |
 
 ## Neighbors
 
@@ -60,4 +60,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-wn.7](../agents/bbugyi200.apollo.sase-wn.7/README.md) | sase-wn hood | completed |
 | [sase-wn.8](../agents/bbugyi200.apollo.sase-wn.8/README.md) | sase-wn hood | completed |
 | [sase-wn.9](../agents/bbugyi200.apollo.sase-wn.9/README.md) | sase-wn hood | completed |
-| [sase-wn.land](../agents/bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | active |
+| [sase-wn.land](../agents/bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | dismissed |

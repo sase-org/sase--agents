@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3a48a4c`](https://github.com/sase-org/sase/commit/3a48a4c65b10d7a5e1aa777669fa258b2d5aa2d6) | feat(axe): add pluggable chop trigger provider policy with fs support | 2026-09-04 12:50:58 EDT |
+| — | `3a48a4c` | feat(axe): add pluggable chop trigger provider policy with fs support | 2026-09-04 12:50:58 EDT |
 
 ## Neighbors
 
@@ -38,4 +38,4 @@
 | [sase-wn.7](../bbugyi200.apollo.sase-wn.7/README.md) | sase-wn hood | completed |
 | [sase-wn.8](../bbugyi200.apollo.sase-wn.8/README.md) | sase-wn hood | completed |
 | [sase-wn.9](../bbugyi200.apollo.sase-wn.9/README.md) | sase-wn hood | completed |
-| [sase-wn.land](../bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | active |
+| [sase-wn.land](../bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | dismissed |

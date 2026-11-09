@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c0ae9d2`](https://github.com/sase-org/sase/commit/c0ae9d2d05901cfd9a96f36fdf8240ae2804f1bd) | perf(ace): buffer cat-file reads and batch wait-bead status lookups | 2026-09-04 15:40:57 EDT |
+| — | `c0ae9d2` | perf(ace): buffer cat-file reads and batch wait-bead status lookups | 2026-09-04 15:40:57 EDT |
 
 ## Neighbors
 
@@ -38,4 +38,4 @@
 | [sase-wn.6](../bbugyi200.apollo.sase-wn.6/README.md) | sase-wn hood | completed |
 | [sase-wn.7](../bbugyi200.apollo.sase-wn.7/README.md) | sase-wn hood | completed |
 | [sase-wn.9](../bbugyi200.apollo.sase-wn.9/README.md) | sase-wn hood | completed |
-| [sase-wn.land](../bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | active |
+| [sase-wn.land](../bbugyi200.apollo.sase-wn.land/README.md) | sase-wn hood | dismissed |
