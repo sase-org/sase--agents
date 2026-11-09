@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0f66320`](https://github.com/sase-org/sase/commit/0f66320dffd890e83975d016e0d18c8b2e4d5b39) | feat(tui): add host-owned artifact link reveal ladder | 2026-09-04 10:59:05 EDT |
+| — | `0f66320` | feat(tui): add host-owned artifact link reveal ladder | 2026-09-04 10:59:05 EDT |
 
 ## Neighbors
 
@@ -31,7 +31,7 @@
 |---|---|---|
 | [sase-w3.1](../../sessions/bbugyi200.apollo.sase-w3.1.md) (session · 1) | sase-w3 hood | active 1 |
 | [sase-w3.3](../../sessions/bbugyi200.apollo.sase-w3.3.md) (session · 3) | sase-w3 hood | completed 2, failed 1 |
-| [sase-w3.5](../../sessions/bbugyi200.apollo.sase-w3.5.md) (session · 3) | sase-w3 hood | active 1, completed 1, failed 1 |
+| [sase-w3.5](../../sessions/bbugyi200.apollo.sase-w3.5.md) (session · 3) | sase-w3 hood | completed 1, dismissed 1, failed 1 |
 | [sase-w3.6](../bbugyi200.apollo.sase-w3.6/README.md) | sase-w3 hood | completed |
 | [sase-w3.7](../../sessions/bbugyi200.apollo.sase-w3.7.md) (session · 3) | sase-w3 hood | completed 2, failed 1 |
-| [sase-w3.land](../bbugyi200.apollo.sase-w3.land/README.md) | sase-w3 hood | waiting |
+| [sase-w3.land](../bbugyi200.apollo.sase-w3.land/README.md) | sase-w3 hood | dismissed |

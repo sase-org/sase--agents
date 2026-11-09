@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a81bc8d`](https://github.com/sase-org/sase/commit/a81bc8d5982c01c951294da4a1d3d0c22d844176) | feat(ace): show link-reveal lens chip and pre-flag Links-panel rows (sase-w3.6) | 2026-09-04 11:41:36 EDT |
+| — | `a81bc8d` | feat(ace): show link-reveal lens chip and pre-flag Links-panel rows (sase-w3.6) | 2026-09-04 11:41:36 EDT |
 
 ## Neighbors
 
@@ -32,6 +32,6 @@
 | [sase-w3.1](../../sessions/bbugyi200.apollo.sase-w3.1.md) (session · 1) | sase-w3 hood | active 1 |
 | [sase-w3.3](../../sessions/bbugyi200.apollo.sase-w3.3.md) (session · 3) | sase-w3 hood | completed 2, failed 1 |
 | [sase-w3.4](../../sessions/bbugyi200.apollo.sase-w3.4.md) (session · 3) | sase-w3 hood | completed 2, failed 1 |
-| [sase-w3.5](../../sessions/bbugyi200.apollo.sase-w3.5.md) (session · 3) | sase-w3 hood | active 1, completed 1, failed 1 |
+| [sase-w3.5](../../sessions/bbugyi200.apollo.sase-w3.5.md) (session · 3) | sase-w3 hood | completed 1, dismissed 1, failed 1 |
 | [sase-w3.7](../../sessions/bbugyi200.apollo.sase-w3.7.md) (session · 3) | sase-w3 hood | completed 2, failed 1 |
-| [sase-w3.land](../bbugyi200.apollo.sase-w3.land/README.md) | sase-w3 hood | waiting |
+| [sase-w3.land](../bbugyi200.apollo.sase-w3.land/README.md) | sase-w3 hood | dismissed |

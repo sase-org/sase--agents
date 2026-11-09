@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-w3](../../users/bbugyi200/machines/apollo/hoods/sase-w3/README.md) / [sase-w3.5](../../sessions/bbugyi200.apollo.sase-w3.5.md) / sase-w3.5--1
 
-**Global name:** `bbugyi200.apollo.sase-w3.5--1` · **State:** active · **Source run:** `run-7d3e4d0a373b09359c385e57855f7374`
+**Global name:** `bbugyi200.apollo.sase-w3.5--1` · **State:** dismissed · **Source run:** `run-7d3e4d0a373b09359c385e57855f7374`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-w3
 
@@ -11,7 +11,7 @@
 - Bead: [sase-w3.5](https://github.com/sase-org/sase--beads/blob/main/pages/sase-w3/sase-w3.5.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-04T17:21:19.601701+00:00
+- Timing: 2026-09-04T13:21:19.601701 → 2026-09-04T22:12:52.307925
 - Commits: 0
 
 ## Files
@@ -27,4 +27,4 @@
 | [sase-w3.4](../../sessions/bbugyi200.apollo.sase-w3.4.md) (session · 3) | sase-w3 hood | completed 2, failed 1 |
 | [sase-w3.6](../bbugyi200.apollo.sase-w3.6/README.md) | sase-w3 hood | completed |
 | [sase-w3.7](../../sessions/bbugyi200.apollo.sase-w3.7.md) (session · 3) | sase-w3 hood | completed 2, failed 1 |
-| [sase-w3.land](../bbugyi200.apollo.sase-w3.land/README.md) | sase-w3 hood | waiting |
+| [sase-w3.land](../bbugyi200.apollo.sase-w3.land/README.md) | sase-w3 hood | dismissed |

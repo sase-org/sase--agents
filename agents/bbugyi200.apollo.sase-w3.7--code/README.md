@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ae196a3`](https://github.com/sase-org/sase/commit/ae196a367bf2f0a48533ce3af48e735c73ee44ff) | feat(ace): add targeted hydration for artifact link-follow panes | 2026-09-04 12:09:16 EDT |
+| — | `ae196a3` | feat(ace): add targeted hydration for artifact link-follow panes | 2026-09-04 12:09:16 EDT |
 
 ## Neighbors
 
@@ -32,6 +32,6 @@
 | [sase-w3.1](../../sessions/bbugyi200.apollo.sase-w3.1.md) (session · 1) | sase-w3 hood | active 1 |
 | [sase-w3.3](../../sessions/bbugyi200.apollo.sase-w3.3.md) (session · 3) | sase-w3 hood | completed 2, failed 1 |
 | [sase-w3.4](../../sessions/bbugyi200.apollo.sase-w3.4.md) (session · 3) | sase-w3 hood | completed 2, failed 1 |
-| [sase-w3.5](../../sessions/bbugyi200.apollo.sase-w3.5.md) (session · 3) | sase-w3 hood | active 1, completed 1, failed 1 |
+| [sase-w3.5](../../sessions/bbugyi200.apollo.sase-w3.5.md) (session · 3) | sase-w3 hood | completed 1, dismissed 1, failed 1 |
 | [sase-w3.6](../bbugyi200.apollo.sase-w3.6/README.md) | sase-w3 hood | completed |
-| [sase-w3.land](../bbugyi200.apollo.sase-w3.land/README.md) | sase-w3 hood | waiting |
+| [sase-w3.land](../bbugyi200.apollo.sase-w3.land/README.md) | sase-w3 hood | dismissed |

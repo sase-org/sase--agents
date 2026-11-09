@@ -19,7 +19,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8c3e7b6`](https://github.com/sase-org/sase/commit/8c3e7b6bffd9f518ec33ce1698f717b69a49a394) | feat: use core artifact row resolution | 2026-09-03 17:06:53 EDT |
+| — | `8c3e7b6` | feat: use core artifact row resolution | 2026-09-03 17:06:53 EDT |
 
 ## Neighbors
 
@@ -27,7 +27,7 @@
 |---|---|---|
 | [sase-w3.3](../../sessions/bbugyi200.apollo.sase-w3.3.md) (session · 3) | sase-w3 hood | completed 2, failed 1 |
 | [sase-w3.4](../../sessions/bbugyi200.apollo.sase-w3.4.md) (session · 3) | sase-w3 hood | completed 2, failed 1 |
-| [sase-w3.5](../../sessions/bbugyi200.apollo.sase-w3.5.md) (session · 3) | sase-w3 hood | active 1, completed 1, failed 1 |
+| [sase-w3.5](../../sessions/bbugyi200.apollo.sase-w3.5.md) (session · 3) | sase-w3 hood | completed 1, dismissed 1, failed 1 |
 | [sase-w3.6](../bbugyi200.apollo.sase-w3.6/README.md) | sase-w3 hood | completed |
 | [sase-w3.7](../../sessions/bbugyi200.apollo.sase-w3.7.md) (session · 3) | sase-w3 hood | completed 2, failed 1 |
-| [sase-w3.land](../bbugyi200.apollo.sase-w3.land/README.md) | sase-w3 hood | waiting |
+| [sase-w3.land](../bbugyi200.apollo.sase-w3.land/README.md) | sase-w3 hood | dismissed |

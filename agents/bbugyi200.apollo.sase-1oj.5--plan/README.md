@@ -26,6 +26,6 @@
 | [sase-1oj.1](../bbugyi200.apollo.sase-1oj.1/README.md) | sase-1oj hood | completed |
 | [sase-1oj.2](../bbugyi200.apollo.sase-1oj.2/README.md) | sase-1oj hood | completed |
 | [sase-1oj.3](../bbugyi200.apollo.sase-1oj.3/README.md) | sase-1oj hood | completed |
-| [sase-1oj.4](../../sessions/bbugyi200.apollo.sase-1oj.4.md) (session · 5) | sase-1oj hood | active 3, dismissed 1, failed 1 |
-| [sase-1oj.6](../bbugyi200.apollo.sase-1oj.6/README.md) | sase-1oj hood | waiting |
-| [sase-1oj.land](../bbugyi200.apollo.sase-1oj.land/README.md) | sase-1oj hood | waiting |
+| [sase-1oj.4](../../sessions/bbugyi200.apollo.sase-1oj.4.md) (session · 5) | sase-1oj hood | dismissed 4, failed 1 |
+| [sase-1oj.6](../bbugyi200.apollo.sase-1oj.6/README.md) | sase-1oj hood | dismissed |
+| [sase-1oj.land](../bbugyi200.apollo.sase-1oj.land/README.md) | sase-1oj hood | dismissed |

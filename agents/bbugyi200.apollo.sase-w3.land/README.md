@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-w3](../../users/bbugyi200/machines/apollo/hoods/sase-w3/README.md) / sase-w3.land
 
-**Global name:** `bbugyi200.apollo.sase-w3.land` · **State:** waiting · **Source run:** `run-a240507ad8be51de7473d51377b4934a`
+**Global name:** `bbugyi200.apollo.sase-w3.land` · **State:** dismissed · **Source run:** `run-a240507ad8be51de7473d51377b4934a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-w3
 
@@ -11,7 +11,7 @@
 - Bead: [sase-w3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-w3/README.md)
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20260903142635
+- Timing: 2026-09-04T22:18:17.355022 → 2026-09-04T22:29:57.012425
 - Commits: 0
 
 ## Files
@@ -25,6 +25,6 @@
 | [sase-w3.1](../../sessions/bbugyi200.apollo.sase-w3.1.md) (session · 1) | sase-w3 hood | active 1 |
 | [sase-w3.3](../../sessions/bbugyi200.apollo.sase-w3.3.md) (session · 3) | sase-w3 hood | completed 2, failed 1 |
 | [sase-w3.4](../../sessions/bbugyi200.apollo.sase-w3.4.md) (session · 3) | sase-w3 hood | completed 2, failed 1 |
-| [sase-w3.5](../../sessions/bbugyi200.apollo.sase-w3.5.md) (session · 3) | sase-w3 hood | active 1, completed 1, failed 1 |
+| [sase-w3.5](../../sessions/bbugyi200.apollo.sase-w3.5.md) (session · 3) | sase-w3 hood | completed 1, dismissed 1, failed 1 |
 | [sase-w3.6](../bbugyi200.apollo.sase-w3.6/README.md) | sase-w3 hood | completed |
 | [sase-w3.7](../../sessions/bbugyi200.apollo.sase-w3.7.md) (session · 3) | sase-w3 hood | completed 2, failed 1 |
