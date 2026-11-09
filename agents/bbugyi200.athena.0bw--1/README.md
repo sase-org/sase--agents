@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4612a84`](https://github.com/sase-org/sase/commit/4612a84c896e912c021788cc212d2e843e20242c) | feat(vcs): add stitch type filtering | 2026-08-23 14:53:31 EDT |
+| — | `4612a84` | feat(vcs): add stitch type filtering | 2026-08-23 14:53:31 EDT |

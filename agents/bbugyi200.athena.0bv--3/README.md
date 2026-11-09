@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`22ece6b`](https://github.com/sase-org/sase/commit/22ece6b7c1bcc19301b01339e643d88ca647d3cb) | feat(test-cost): commit per-cause cpu\_limit budgets with provenance | 2026-08-23 12:34:31 EDT |
+| — | `22ece6b` | feat(test-cost): commit per-cause cpu\_limit budgets with provenance | 2026-08-23 12:34:31 EDT |

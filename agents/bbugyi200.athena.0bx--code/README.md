@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6eb51ac`](https://github.com/sase-org/sase/commit/6eb51ac49cc08f23ec240f9b73ed059788395a5c) | fix(ace): preserve proc shell selection on refresh | 2026-08-23 14:15:35 EDT |
+| — | `6eb51ac` | fix(ace): preserve proc shell selection on refresh | 2026-08-23 14:15:35 EDT |

@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `0bz` · Members: 4
 ```mermaid
 flowchart TD
   n0["0bz--code [completed]"]
-  n1["0bz--plan [active]"]
+  n1["0bz--plan [dismissed]"]
   n0 --> n1
   n2["0bz--1 [completed]"]
   n0 --> n2
@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 0bz--code | completed | grok-4.6 / grok | 2026-08-23T19:15:26.162835+00:00 → 2026-08-23T19:58:21.943363+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0bz--code/chat.md) |
-| <a id="member-plan"></a>plan | 0bz--plan | active | gpt-5.6-sol / codex | 2026-08-23T19:00:27.979651+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0bz--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0bz--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0bz--plan | dismissed | gpt-5.6-sol / codex | 2026-08-23T15:00:14 | 0 | [Prompt](../agents/bbugyi200.athena.0bz--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0bz--plan/chat.md) |
 | <a id="member-1"></a>1 | 0bz--1 | completed | grok-4.6 / grok | 2026-08-23T20:16:27.629056+00:00 → 2026-08-23T20:24:46.956748+00:00 | [1](../agents/bbugyi200.athena.0bz--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0bz--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0bz--1/chat.md) |
 | <a id="member-mon"></a>mon | 0bz--mon | failed | grok-4.6 / grok | 2026-08-23T19:58:13.328173+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0bz--mon/chat.md) |
 
@@ -30,4 +30,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`67bcea3`](https://github.com/sase-org/sase/commit/67bcea32329a897f81eb1b74dcdf5d1b3012fc05) | feat(axe): project agent family into completion notifications | 2026-08-23 16:22:54 EDT |
+| 1 | — | `67bcea3` | feat(axe): project agent family into completion notifications | 2026-08-23 16:22:54 EDT |

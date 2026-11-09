@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0bv` · Members: 8
 
 ```mermaid
 flowchart TD
-  n0["0bv--plan [active]"]
+  n0["0bv--plan [dismissed]"]
   n1["0bv--mon-1 [failed]"]
   n0 --> n1
   n2["0bv--mon-0 [failed]"]
@@ -29,7 +29,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0bv--plan | active | opus / claude | 2026-08-23T14:52:50.935263+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0bv--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0bv--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0bv--plan | dismissed | opus / claude | 2026-08-23T12:02:46 | 0 | [Prompt](../agents/bbugyi200.athena.0bv--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0bv--plan/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | 0bv--mon-1 | failed | sonnet / claude | 2026-08-23T16:32:30.715078+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0bv--mon-1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 0bv--mon-0 | failed | sonnet / claude | 2026-08-23T16:07:39.008359+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0bv--mon-0/chat.md) |
 | <a id="member-1"></a>1 | 0bv--1 | completed | sonnet / claude | 2026-08-23T16:02:30.965184+00:00 → 2026-08-23T16:07:48.181158+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0bv--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0bv--1/chat.md) |
@@ -42,4 +42,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 3 | sase | [`22ece6b`](https://github.com/sase-org/sase/commit/22ece6b7c1bcc19301b01339e643d88ca647d3cb) | feat(test-cost): commit per-cause cpu\_limit budgets with provenance | 2026-08-23 12:34:31 EDT |
+| 3 | — | `22ece6b` | feat(test-cost): commit per-cause cpu\_limit budgets with provenance | 2026-08-23 12:34:31 EDT |
