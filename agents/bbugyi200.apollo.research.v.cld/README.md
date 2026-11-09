@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bf6e8ec`](https://github.com/sase-org/sase/commit/bf6e8eca978fa45ccadbfa22c041fcff69ee21bd) | docs: Add research on directives vs xprompts merge architecture | 2026-06-20 09:25:53 EDT |
+| — | `bf6e8ec` | docs: Add research on directives vs xprompts merge architecture | 2026-06-20 09:25:53 EDT |
 
 ## Neighbors
 
@@ -26,7 +26,7 @@
 | [research.v.cdx](../bbugyi200.apollo.research.v.cdx/README.md) | research.v hood | completed |
 | [research.v.final](../bbugyi200.apollo.research.v.final/README.md) | research.v hood | completed |
 | [research.v.image](../bbugyi200.apollo.research.v.image/README.md) | research.v hood | completed |
-| [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
+| [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
 | [research.0.image](../bbugyi200.apollo.research.0.image/README.md) | research hood | completed |
@@ -67,7 +67,7 @@
 | [research.08.audio](../bbugyi200.apollo.research.08.audio/README.md) | research hood | active |
 | [research.08.cdx](../bbugyi200.apollo.research.08.cdx/README.md) | research hood | active |
 | [research.08.cld](../bbugyi200.apollo.research.08.cld/README.md) | research hood | active |
-| [research.08.final](../bbugyi200.apollo.research.08.final/README.md) | research hood | active |
+| [research.08.final](../bbugyi200.apollo.research.08.final/README.md) | research hood | dismissed |
 | [research.08.gem](../bbugyi200.apollo.research.08.gem/README.md) | research hood | active |
 | [research.08.grk](../bbugyi200.apollo.research.08.grk/README.md) | research hood | active |
 | [research.08.image](../bbugyi200.apollo.research.08.image/README.md) | research hood | active |
@@ -75,5 +75,5 @@
 | [research.09.audio](../bbugyi200.apollo.research.09.audio/README.md) | research hood | active |
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | active |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
-| [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | active |
+| [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
 | … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

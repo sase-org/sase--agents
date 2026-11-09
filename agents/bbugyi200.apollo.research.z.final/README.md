@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fbac771`](https://github.com/sase-org/sase/commit/fbac77176d04194bda0cb7041317a75131b9d1d9) | docs: consolidate sibling repo removal research | 2026-06-20 12:18:21 EDT |
+| — | `fbac771` | docs: consolidate sibling repo removal research | 2026-06-20 12:18:21 EDT |
 
 ## Neighbors
 
@@ -29,13 +29,13 @@
 |---|---|---|
 | [research.z.final.f1](../bbugyi200.apollo.research.z.final.f1/README.md) | descendant | completed |
 | [research.z.cdx](../bbugyi200.apollo.research.z.cdx/README.md) | research.z hood | active |
-| [research.z.cld](../bbugyi200.apollo.research.z.cld/README.md) | research.z hood | active |
+| [research.z.cld](../bbugyi200.apollo.research.z.cld/README.md) | research.z hood | dismissed |
 | [research.z.gem](../bbugyi200.apollo.research.z.gem/README.md) | research.z hood | active |
 | [research.z.grk](../bbugyi200.apollo.research.z.grk/README.md) | research.z hood | active |
 | [research.z.image](../bbugyi200.apollo.research.z.image/README.md) | research.z hood | active |
 | [research.z.linker](../bbugyi200.apollo.research.z.linker/README.md) | research.z hood | active |
 | [research.z.mus](../bbugyi200.apollo.research.z.mus/README.md) | research.z hood | active |
-| [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
+| [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
 | [research.0.image](../bbugyi200.apollo.research.0.image/README.md) | research hood | completed |
@@ -76,7 +76,7 @@
 | [research.08.audio](../bbugyi200.apollo.research.08.audio/README.md) | research hood | active |
 | [research.08.cdx](../bbugyi200.apollo.research.08.cdx/README.md) | research hood | active |
 | [research.08.cld](../bbugyi200.apollo.research.08.cld/README.md) | research hood | active |
-| [research.08.final](../bbugyi200.apollo.research.08.final/README.md) | research hood | active |
+| [research.08.final](../bbugyi200.apollo.research.08.final/README.md) | research hood | dismissed |
 | [research.08.gem](../bbugyi200.apollo.research.08.gem/README.md) | research hood | active |
 | [research.08.grk](../bbugyi200.apollo.research.08.grk/README.md) | research hood | active |
 | [research.08.image](../bbugyi200.apollo.research.08.image/README.md) | research hood | active |
@@ -84,5 +84,5 @@
 | [research.09.audio](../bbugyi200.apollo.research.09.audio/README.md) | research hood | active |
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | active |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
-| [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | active |
+| [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
 | … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

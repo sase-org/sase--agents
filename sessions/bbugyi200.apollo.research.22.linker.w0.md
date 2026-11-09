@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`457dd72`](https://github.com/sase-org/sase/commit/457dd728d517ddba3ece2cabe30bdaff8e6a9db4) | fix(publish): build release artifacts from the release-please tagged commit | 2026-10-18 15:32:32 EDT |
+| 1 | — | `457dd72` | fix(publish): build release artifacts from the release-please tagged commit | 2026-10-18 15:32:32 EDT |
 
 ## Variables
 
@@ -68,12 +68,12 @@ Values are truncated for display; see each member's agent meta.json for the full
 |---|---|---|
 | [research.22.linker](../agents/bbugyi200.apollo.research.22.linker/README.md) | ancestor | active |
 | [research.22.cdx](../agents/bbugyi200.apollo.research.22.cdx/README.md) | research.22 hood | active |
-| [research.22.cld](../agents/bbugyi200.apollo.research.22.cld/README.md) | research.22 hood | active |
+| [research.22.cld](../agents/bbugyi200.apollo.research.22.cld/README.md) | research.22 hood | dismissed |
 | [research.22.final](../agents/bbugyi200.apollo.research.22.final/README.md) | research.22 hood | active |
 | [research.22.gem](../agents/bbugyi200.apollo.research.22.gem/README.md) | research.22 hood | active |
-| [research.22.grk](../agents/bbugyi200.apollo.research.22.grk/README.md) | research.22 hood | active |
+| [research.22.grk](../agents/bbugyi200.apollo.research.22.grk/README.md) | research.22 hood | dismissed |
 | [research.22.image](../agents/bbugyi200.apollo.research.22.image/README.md) | research.22 hood | active |
-| [research.0.cdx](../agents/bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
+| [research.0.cdx](../agents/bbugyi200.apollo.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../agents/bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../agents/bbugyi200.apollo.research.0.final/README.md) | research hood | active |
 | [research.0.image](../agents/bbugyi200.apollo.research.0.image/README.md) | research hood | completed |
@@ -114,7 +114,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [research.08.audio](../agents/bbugyi200.apollo.research.08.audio/README.md) | research hood | active |
 | [research.08.cdx](../agents/bbugyi200.apollo.research.08.cdx/README.md) | research hood | active |
 | [research.08.cld](../agents/bbugyi200.apollo.research.08.cld/README.md) | research hood | active |
-| [research.08.final](../agents/bbugyi200.apollo.research.08.final/README.md) | research hood | active |
+| [research.08.final](../agents/bbugyi200.apollo.research.08.final/README.md) | research hood | dismissed |
 | [research.08.gem](../agents/bbugyi200.apollo.research.08.gem/README.md) | research hood | active |
 | [research.08.grk](../agents/bbugyi200.apollo.research.08.grk/README.md) | research hood | active |
 | [research.08.image](../agents/bbugyi200.apollo.research.08.image/README.md) | research hood | active |
@@ -122,5 +122,5 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [research.09.audio](../agents/bbugyi200.apollo.research.09.audio/README.md) | research hood | active |
 | [research.09.cdx](../agents/bbugyi200.apollo.research.09.cdx/README.md) | research hood | active |
 | [research.09.cld](../agents/bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
-| [research.09.final](../agents/bbugyi200.apollo.research.09.final/README.md) | research hood | active |
+| [research.09.final](../agents/bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
 | … and 657 more in the [hood roster](../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

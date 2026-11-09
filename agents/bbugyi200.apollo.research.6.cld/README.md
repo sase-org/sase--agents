@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6.cld
 
-**Global name:** `bbugyi200.apollo.research.6.cld` · **State:** active · **Source run:** `run-10c5784f353a5bd7fff4e45a54ae0aa3`
+**Global name:** `bbugyi200.apollo.research.6.cld` · **State:** dismissed · **Source run:** `run-10c5784f353a5bd7fff4e45a54ae0aa3`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-09-18T21:46:21.066882+00:00
+- Timing: 2026-09-18T17:46:21.066882 → 2026-09-18T18:12:34.159949
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e826c9e`](https://github.com/sase-org/sase/commit/e826c9e5e87c80d7e67c5de6c066189172c884fb) | chore: Add research on memory system build-vs-Zep decision | 2026-06-11 08:03:54 EDT |
+| — | `e826c9e` | chore: Add research on memory system build-vs-Zep decision | 2026-06-11 08:03:54 EDT |
 
 ## Neighbors
 
@@ -30,7 +30,7 @@
 | [research.6.cdx](../bbugyi200.apollo.research.6.cdx/README.md) | research.6 hood | active |
 | [research.6.final](../bbugyi200.apollo.research.6.final/README.md) | research.6 hood | active |
 | [research.6.image](../bbugyi200.apollo.research.6.image/README.md) | research.6 hood | completed |
-| [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | active |
+| [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
 | [research.0.image](../bbugyi200.apollo.research.0.image/README.md) | research hood | completed |
@@ -71,7 +71,7 @@
 | [research.08.audio](../bbugyi200.apollo.research.08.audio/README.md) | research hood | active |
 | [research.08.cdx](../bbugyi200.apollo.research.08.cdx/README.md) | research hood | active |
 | [research.08.cld](../bbugyi200.apollo.research.08.cld/README.md) | research hood | active |
-| [research.08.final](../bbugyi200.apollo.research.08.final/README.md) | research hood | active |
+| [research.08.final](../bbugyi200.apollo.research.08.final/README.md) | research hood | dismissed |
 | [research.08.gem](../bbugyi200.apollo.research.08.gem/README.md) | research hood | active |
 | [research.08.grk](../bbugyi200.apollo.research.08.grk/README.md) | research hood | active |
 | [research.08.image](../bbugyi200.apollo.research.08.image/README.md) | research hood | active |
@@ -79,5 +79,5 @@
 | [research.09.audio](../bbugyi200.apollo.research.09.audio/README.md) | research hood | active |
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | active |
 | [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
-| [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | active |
+| [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
 | … and 661 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
