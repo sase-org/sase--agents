@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c72dded`](https://github.com/sase-org/sase/commit/c72dded9744361c0daa2e7595ee44cb370da77d0) | fix(init): update linked repo memory guidance | 2026-07-06 17:12:54 EDT |
+| — | `c72dded` | fix(init): update linked repo memory guidance | 2026-07-06 17:12:54 EDT |

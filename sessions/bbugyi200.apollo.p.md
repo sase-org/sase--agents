@@ -8,17 +8,17 @@ Owner: `bbugyi200.apollo` · Hood: `p` · Members: 1
 
 ```mermaid
 flowchart TD
-  n0["p--0 [active]"]
+  n0["p--0 [dismissed]"]
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-0"></a>0 | p--0 | active | gpt-5.5 / codex | 2026-09-05T12:13:12.950733+00:00 | [1](../agents/bbugyi200.apollo.p--0/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.p--0/prompt.md) | — |
+| <a id="member-0"></a>0 | p--0 | dismissed | gpt-5.5 / codex | 2026-09-05T08:13:12.950733 → 2026-09-05T09:52:35.208170 | [1](../agents/bbugyi200.apollo.p--0/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.p--0/prompt.md) | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 0 | sase | [`a2ea042`](https://github.com/sase-org/sase/commit/a2ea0421956518b25aec9c296f5f195e9beda390) | fix: repair generated gate command header | 2026-09-05 09:51:03 EDT |
+| 0 | — | `a2ea042` | fix: repair generated gate command header | 2026-09-05 09:51:03 EDT |

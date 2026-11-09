@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2c84220`](https://github.com/sase-org/sase/commit/2c84220537539bce316e550423bd5b9193e45d79) | fix(ace): count monitor starters in family runtime | 2026-09-04 13:42:06 EDT |
+| — | `2c84220` | fix(ace): count monitor starters in family runtime | 2026-09-04 13:42:06 EDT |
