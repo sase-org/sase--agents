@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0b](../../users/bbugyi200/machines/athena/hoods/0b/README.md) / 0b
 
-**Global name:** `bbugyi200.athena.0b` · **State:** waiting · **Source run:** `run-867d8d2fe87396228f65d48661c9b640`
+**Global name:** `bbugyi200.athena.0b` · **State:** dismissed · **Source run:** `run-867d8d2fe87396228f65d48661c9b640`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0b
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20260913055725
+- Timing: 2026-09-13T05:57:25
 - Commits: [4](#commits)
 
 ## Files
@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4c1c10b`](https://github.com/sase-org/sase/commit/4c1c10be6693ebccdea09b0ac0202cec207efa2e) | chore: Add SDD prompt and plan for remove\_agent\_details\_header | 2026-06-02 18:42:32 EDT |
-| sase | [`225648c`](https://github.com/sase-org/sase/commit/225648cd81ed4b6227ed68ab1dbd1613609589be) | fix: remove agents tab details header | 2026-06-02 18:47:20 EDT |
-| sase | [`6b7b3e9`](https://github.com/sase-org/sase/commit/6b7b3e98102d45762a2ce94160b69f553616e742) | docs(research): critique dynamic agent families project note | 2026-07-05 18:58:18 EDT |
-| sase | [`bfabe37`](https://github.com/sase-org/sase/commit/bfabe3728fa715fb1e1c843decec696ac67926a8) | feat(demos): add multi-runtime ACE fan-out demo | 2026-07-07 02:06:58 EDT |
+| — | `4c1c10b` | chore: Add SDD prompt and plan for remove\_agent\_details\_header | 2026-06-02 18:42:32 EDT |
+| — | `225648c` | fix: remove agents tab details header | 2026-06-02 18:47:20 EDT |
+| — | `6b7b3e9` | docs(research): critique dynamic agent families project note | 2026-07-05 18:58:18 EDT |
+| — | `bfabe37` | feat(demos): add multi-runtime ACE fan-out demo | 2026-07-07 02:06:58 EDT |
 
 ## Neighbors
 
