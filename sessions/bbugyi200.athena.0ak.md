@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0ak` · Members: 7
 
 ```mermaid
 flowchart TD
-  n0["0ak--plan [active]"]
+  n0["0ak--plan [dismissed]"]
   n1["0ak--1 [completed]"]
   n0 --> n1
   n2["0ak--code [completed]"]
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0ak--plan | active | gpt-5.6-sol / codex | 2026-08-22T11:38:28.179091+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0ak--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0ak--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0ak--plan | dismissed | gpt-5.6-sol / codex | 2026-08-22T11:38:06 | 0 | [Prompt](../agents/bbugyi200.athena.0ak--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0ak--plan/chat.md) |
 | <a id="member-1"></a>1 | 0ak--1 | completed | grok-4.6 / grok | 2026-08-22T12:55:49.338488+00:00 → 2026-08-22T13:01:30.426558+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0ak--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0ak--1/chat.md) |
 | <a id="member-code"></a>code | 0ak--code | completed | grok-4.6 / grok | 2026-08-22T12:03:33.030099+00:00 → 2026-08-22T12:53:18.023936+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0ak--code/chat.md) |
 | <a id="member-2"></a>2 | 0ak--2 | failed | grok-4.6 / grok | 2026-08-22T13:26:59.540911+00:00 → 2026-08-22T13:36:55.218196+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0ak--2/prompt.md) | — |
@@ -39,4 +39,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`0edfb84`](https://github.com/sase-org/sase/commit/0edfb846b2bc80a4288e7a1a10d34686c935ddc6) | feat(ace)!: move Model Overrides to leader \`,m\` | 2026-06-30 07:46:15 EDT |
+| — | — | `0edfb84` | feat(ace)!: move Model Overrides to leader \`,m\` | 2026-06-30 07:46:15 EDT |

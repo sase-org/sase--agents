@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`95295fe`](https://github.com/sase-org/sase/commit/95295fea07682dc7cce6f09dc654b6d3b6595cb6) | fix(snippets): allow unused prefix triggers | 2026-09-08 16:13:45 EDT |
+| — | `95295fe` | fix(snippets): allow unused prefix triggers | 2026-09-08 16:13:45 EDT |
