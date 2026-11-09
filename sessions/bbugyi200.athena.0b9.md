@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0b9` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["0b9--plan [active]"]
+  n0["0b9--plan [dismissed]"]
   n1["0b9--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0b9--plan | active | gpt-5.6-sol / codex | 2026-08-22T18:01:15.361067+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0b9--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0b9--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0b9--plan | dismissed | gpt-5.6-sol / codex | 2026-08-22T18:01:02 | 0 | [Prompt](../agents/bbugyi200.athena.0b9--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0b9--plan/chat.md) |
 | <a id="member-code"></a>code | 0b9--code | completed | grok-4.6 / grok | 2026-08-22T18:12:17.696573+00:00 → 2026-08-22T18:29:49.215738+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0b9--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`702c8fe`](https://github.com/sase-org/sase/commit/702c8fee83d33d8eecd3440a64e4f3b303c80c18) | docs: recommend plain \`uv tool install sase\` and add INSTALL.md | 2026-07-01 16:40:38 EDT |
+| — | — | `702c8fe` | docs: recommend plain \`uv tool install sase\` and add INSTALL.md | 2026-07-01 16:40:38 EDT |

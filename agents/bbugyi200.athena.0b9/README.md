@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`702c8fe`](https://github.com/sase-org/sase/commit/702c8fee83d33d8eecd3440a64e4f3b303c80c18) | docs: recommend plain \`uv tool install sase\` and add INSTALL.md | 2026-07-01 16:40:38 EDT |
+| — | `702c8fe` | docs: recommend plain \`uv tool install sase\` and add INSTALL.md | 2026-07-01 16:40:38 EDT |

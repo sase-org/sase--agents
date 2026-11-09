@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0ba` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["0ba--plan [active]"]
+  n0["0ba--plan [dismissed]"]
   n1["0ba--mon [failed]"]
   n0 --> n1
   n2["0ba--code [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0ba--plan | active | gpt-5.6-sol / codex | 2026-08-22T18:32:05.277665+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0ba--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0ba--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0ba--plan | dismissed | gpt-5.6-sol / codex | 2026-08-22T18:31:49 | 0 | [Prompt](../agents/bbugyi200.athena.0ba--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0ba--plan/chat.md) |
 | <a id="member-mon"></a>mon | 0ba--mon | failed | grok-4.6 / grok | 2026-08-22T19:05:05.708082+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0ba--mon/chat.md) |
 | <a id="member-code"></a>code | 0ba--code | completed | grok-4.6 / grok | 2026-08-22T18:41:25.872350+00:00 → 2026-08-22T19:05:12.153346+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0ba--code/chat.md) |
 
@@ -27,5 +27,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`3e86a8a`](https://github.com/sase-org/sase/commit/3e86a8a46cab116822dc64c28b8b6fc4db7c5ad8) | chore: Add SDD prompt and plan for fix\_config\_schema\_wheel\_packaging | 2026-07-02 05:56:10 EDT |
-| — | sase | [`3580f1c`](https://github.com/sase-org/sase/commit/3580f1c68810f9409fd7dded341ea312cf39e8bf) | fix: package config schema in wheel | 2026-07-02 06:05:57 EDT |
+| — | — | `3e86a8a` | chore: Add SDD prompt and plan for fix\_config\_schema\_wheel\_packaging | 2026-07-02 05:56:10 EDT |
+| — | — | `3580f1c` | fix: package config schema in wheel | 2026-07-02 06:05:57 EDT |
