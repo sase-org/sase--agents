@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f0c732e`](https://github.com/sase-org/sase/commit/f0c732e70d07e2849556c487f0ff339b7bc9b984) | feat(sase-1if.7): render plugin commands across Updates tab, detail panel, confirms, and toast | 2026-10-09 13:14:31 EDT |
+| — | `f0c732e` | feat(sase-1if.7): render plugin commands across Updates tab, detail panel, confirms, and toast | 2026-10-09 13:14:31 EDT |
 
 ## Neighbors
 
@@ -38,4 +38,4 @@
 | [sase-1if.6](../bbugyi200.apollo.sase-1if.6/README.md) | sase-1if hood | completed |
 | [sase-1if.8](../bbugyi200.apollo.sase-1if.8/README.md) | sase-1if hood | completed |
 | [sase-1if.9](../bbugyi200.apollo.sase-1if.9/README.md) | sase-1if hood | completed |
-| [sase-1if.land](../bbugyi200.apollo.sase-1if.land/README.md) | sase-1if hood | active |
+| [sase-1if.land](../bbugyi200.apollo.sase-1if.land/README.md) | sase-1if hood | dismissed |

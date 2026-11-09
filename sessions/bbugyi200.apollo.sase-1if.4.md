@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`7922974`](https://github.com/sase-org/sase/commit/79229740620312e2be8412024ece417ca03f1998) | feat(completion): merge plugin parsers into runtime spec with plugin-aware cache identity | 2026-10-08 17:55:41 EDT |
+| 1 | — | `7922974` | feat(completion): merge plugin parsers into runtime spec with plugin-aware cache identity | 2026-10-08 17:55:41 EDT |
 
 ## Neighbors
 
@@ -44,4 +44,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1if.7](../agents/bbugyi200.apollo.sase-1if.7/README.md) | sase-1if hood | waiting |
 | [sase-1if.8](../agents/bbugyi200.apollo.sase-1if.8/README.md) | sase-1if hood | completed |
 | [sase-1if.9](../agents/bbugyi200.apollo.sase-1if.9/README.md) | sase-1if hood | completed |
-| [sase-1if.land](../agents/bbugyi200.apollo.sase-1if.land/README.md) | sase-1if hood | active |
+| [sase-1if.land](../agents/bbugyi200.apollo.sase-1if.land/README.md) | sase-1if hood | dismissed |

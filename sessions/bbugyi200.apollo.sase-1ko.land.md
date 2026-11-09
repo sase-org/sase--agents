@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1ko.land--gate [failed]"]
   n1["sase-1ko.land--code [completed]"]
   n0 --> n1
-  n2["sase-1ko.land--plan [active]"]
+  n2["sase-1ko.land--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1ko.land--gate | failed | opus / claude | 2026-10-14T14:07:31.239152+00:00 → 2026-10-14T14:07:47.525773+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1ko.land--gate/chat.md) |
 | <a id="member-code"></a>code | sase-1ko.land--code | completed | grok-4.6 / grok | 2026-10-14T14:08:05.243278+00:00 → 2026-10-14T15:38:03.117728+00:00 | [1](../agents/bbugyi200.apollo.sase-1ko.land--code/README.md#commits) | — | — |
-| <a id="member-plan"></a>plan | sase-1ko.land--plan | active | opus / claude | 2026-10-14T13:25:39.483173+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1ko.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1ko.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-1ko.land--plan | dismissed | opus / claude | 2026-10-14T09:25:39.483173 → 2026-10-14T11:38:03.161569 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1ko.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1ko.land--plan/chat.md) |
 
 ## Commits
 

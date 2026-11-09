@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dd5f0e5`](https://github.com/sase-org/sase/commit/dd5f0e5780fcbb6996c12851727a3f3cac6da364) | docs(sase-1if.10): land acceptance records and plugin command docs | 2026-10-09 13:53:50 EDT |
+| — | `dd5f0e5` | docs(sase-1if.10): land acceptance records and plugin command docs | 2026-10-09 13:53:50 EDT |
 
 ## Neighbors
 
@@ -38,4 +38,4 @@
 | [sase-1if.7](../bbugyi200.apollo.sase-1if.7/README.md) | sase-1if hood | waiting |
 | [sase-1if.8](../bbugyi200.apollo.sase-1if.8/README.md) | sase-1if hood | completed |
 | [sase-1if.9](../bbugyi200.apollo.sase-1if.9/README.md) | sase-1if hood | completed |
-| [sase-1if.land](../bbugyi200.apollo.sase-1if.land/README.md) | sase-1if hood | active |
+| [sase-1if.land](../bbugyi200.apollo.sase-1if.land/README.md) | sase-1if hood | dismissed |

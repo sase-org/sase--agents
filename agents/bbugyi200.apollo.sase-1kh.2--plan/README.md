@@ -25,4 +25,4 @@
 |---|---|---|
 | [sase-1kh.1](../bbugyi200.apollo.sase-1kh.1/README.md) | sase-1kh hood | completed |
 | [sase-1kh.3](../bbugyi200.apollo.sase-1kh.3/README.md) | sase-1kh hood | completed |
-| [sase-1kh.land](../../sessions/bbugyi200.apollo.sase-1kh.land.md) (session · 3) | sase-1kh hood | active 1, completed 1, failed 1 |
+| [sase-1kh.land](../../sessions/bbugyi200.apollo.sase-1kh.land.md) (session · 3) | sase-1kh hood | completed 1, dismissed 1, failed 1 |

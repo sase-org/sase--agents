@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3b3d876`](https://github.com/sase-org/sase/commit/3b3d8769114298c58d8f136c55baaab93a367514) | feat(plugins): command-aware plugin install, update, and uninstall lifecycle | 2026-10-09 03:17:38 EDT |
+| — | `3b3d876` | feat(plugins): command-aware plugin install, update, and uninstall lifecycle | 2026-10-09 03:17:38 EDT |
 
 ## Neighbors
 
@@ -39,4 +39,4 @@
 | [sase-1if.7](../bbugyi200.apollo.sase-1if.7/README.md) | sase-1if hood | waiting |
 | [sase-1if.8](../bbugyi200.apollo.sase-1if.8/README.md) | sase-1if hood | completed |
 | [sase-1if.9](../bbugyi200.apollo.sase-1if.9/README.md) | sase-1if hood | completed |
-| [sase-1if.land](../bbugyi200.apollo.sase-1if.land/README.md) | sase-1if hood | active |
+| [sase-1if.land](../bbugyi200.apollo.sase-1if.land/README.md) | sase-1if hood | dismissed |

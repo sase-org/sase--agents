@@ -51,4 +51,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1ko.6](../agents/bbugyi200.apollo.sase-1ko.6/README.md) | sase-1ko hood | completed |
 | [sase-1ko.8](../agents/bbugyi200.apollo.sase-1ko.8/README.md) | sase-1ko hood | completed |
 | [sase-1ko.9](bbugyi200.apollo.sase-1ko.9.md) (session · 3) | sase-1ko hood | completed 2, failed 1 |
-| [sase-1ko.land](bbugyi200.apollo.sase-1ko.land.md) (session · 3) | sase-1ko hood | active 1, completed 1, failed 1 |
+| [sase-1ko.land](bbugyi200.apollo.sase-1ko.land.md) (session · 3) | sase-1ko hood | completed 1, dismissed 1, failed 1 |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / sase-1if
 
-**Global hood:** `bbugyi200.apollo.sase-1if` · **Runs:** 23 · **Sessions:** 4 · **States:** active 1, completed 15, failed 5, waiting 2
+**Global hood:** `bbugyi200.apollo.sase-1if` · **Runs:** 23 · **Sessions:** 4 · **States:** completed 15, dismissed 1, failed 5, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -23,7 +23,7 @@
 | [sase-1if.6](../../../../../../agents/bbugyi200.apollo.sase-1if.6/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-09T07:33:43.507250+00:00 → 2026-10-09T09:39:10.160542+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1if.6/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-1if.6/prompt.md) |
 | [sase-1if.10--1](../../../../../../sessions/bbugyi200.apollo.sase-1if.10.md#member-1) | completed | muse-spark-1.3-contributor / muse | 2026-10-09T17:56:49.780827+00:00 → 2026-10-09T17:58:39.168067+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1if.10--1/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-1if.10--1/prompt.md) |
 | [sase-1if.10](../../../../../../agents/bbugyi200.apollo.sase-1if.10/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261008152726 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1if.10/prompt.md) |
-| [sase-1if.land](../../../../../../agents/bbugyi200.apollo.sase-1if.land/README.md) | active | opus / claude | 2026-10-09T17:58:25.917581+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1if.land/prompt.md) |
+| [sase-1if.land](../../../../../../agents/bbugyi200.apollo.sase-1if.land/README.md) | dismissed | opus / claude | 2026-10-09T13:58:25.917581 → 2026-10-09T14:16:45.099948 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1if.land/prompt.md) |
 | [sase-1if.7--plan](../../../../../../sessions/bbugyi200.apollo.sase-1if.7.md#member-plan) | completed | muse-spark-1.3-contributor / muse | 2026-10-09T15:01:34.667468+00:00 → 2026-10-09T15:50:19.285272+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1if.7--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-1if.7--plan/prompt.md) |
 | [sase-1if.3](../../../../../../agents/bbugyi200.apollo.sase-1if.3/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-08T20:53:52.769237+00:00 → 2026-10-08T22:10:24.662767+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1if.3/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-1if.3/prompt.md) |
 | [sase-1if.10--plan](../../../../../../sessions/bbugyi200.apollo.sase-1if.10.md#member-plan) | completed | muse-spark-1.3-contributor / muse | 2026-10-09T17:25:23.929730+00:00 → 2026-10-09T17:38:06.666690+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1if.10--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-1if.10--plan/prompt.md) |

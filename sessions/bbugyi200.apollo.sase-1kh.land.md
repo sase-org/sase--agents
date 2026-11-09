@@ -11,7 +11,7 @@ flowchart TD
   n0["sase-1kh.land--gate [failed]"]
   n1["sase-1kh.land--code [completed]"]
   n0 --> n1
-  n2["sase-1kh.land--plan [active]"]
+  n2["sase-1kh.land--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | sase-1kh.land--gate | failed | gpt-6.1-sol / codex | 2026-10-13T15:23:21.798132+00:00 → 2026-10-13T15:23:38.834669+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1kh.land--gate/chat.md) |
 | <a id="member-code"></a>code | sase-1kh.land--code | completed | gpt-6-luna / codex | 2026-10-13T15:24:13.691210+00:00 → 2026-10-13T17:30:02.006632+00:00 | [1](../agents/bbugyi200.apollo.sase-1kh.land--code/README.md#commits) | — | — |
-| <a id="member-plan"></a>plan | sase-1kh.land--plan | active | gpt-6.1-sol / codex | 2026-10-13T14:57:23.645632+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1kh.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1kh.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | sase-1kh.land--plan | dismissed | gpt-6.1-sol / codex | 2026-10-13T10:57:23.645632 → 2026-10-13T13:30:02.058915 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1kh.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1kh.land--plan/chat.md) |
 
 ## Commits
 

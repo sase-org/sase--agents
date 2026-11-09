@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-1ko](../../users/bbugyi200/machines/apollo/hoods/sase-1ko/README.md) / [sase-1ko.land](../../sessions/bbugyi200.apollo.sase-1ko.land.md) / sase-1ko.land--plan
 
-**Global name:** `bbugyi200.apollo.sase-1ko.land--plan` · **State:** active · **Source run:** `run-a4db86bf21f120eddad63d8faacbe8d7`
+**Global name:** `bbugyi200.apollo.sase-1ko.land--plan` · **State:** dismissed · **Source run:** `run-a4db86bf21f120eddad63d8faacbe8d7`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-1ko
 
@@ -11,7 +11,7 @@
 - Bead: [sase-1ko](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1ko/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-14T13:25:39.483173+00:00
+- Timing: 2026-10-14T09:25:39.483173 → 2026-10-14T11:38:03.161569
 - Commits: 0
 
 ## Files

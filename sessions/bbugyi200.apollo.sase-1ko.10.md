@@ -82,4 +82,4 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [sase-1ko.7](../agents/bbugyi200.apollo.sase-1ko.7/README.md) | sase-1ko hood | completed |
 | [sase-1ko.8](../agents/bbugyi200.apollo.sase-1ko.8/README.md) | sase-1ko hood | completed |
 | [sase-1ko.9](bbugyi200.apollo.sase-1ko.9.md) (session · 3) | sase-1ko hood | completed 2, failed 1 |
-| [sase-1ko.land](bbugyi200.apollo.sase-1ko.land.md) (session · 3) | sase-1ko hood | active 1, completed 1, failed 1 |
+| [sase-1ko.land](bbugyi200.apollo.sase-1ko.land.md) (session · 3) | sase-1ko hood | completed 1, dismissed 1, failed 1 |

@@ -30,4 +30,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1jo.1](../agents/bbugyi200.apollo.sase-1jo.1/README.md) | sase-1jo hood | completed |
 | [sase-1jo.2](../agents/bbugyi200.apollo.sase-1jo.2/README.md) | sase-1jo hood | completed |
 | [sase-1jo.4](../agents/bbugyi200.apollo.sase-1jo.4/README.md) | sase-1jo hood | completed |
-| [sase-1jo.land](bbugyi200.apollo.sase-1jo.land.md) (session · 3) | sase-1jo hood | active 1, completed 1, failed 1 |
+| [sase-1jo.land](bbugyi200.apollo.sase-1jo.land.md) (session · 3) | sase-1jo hood | completed 1, dismissed 1, failed 1 |

@@ -2,13 +2,13 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / sase-1kh
 
-**Global hood:** `bbugyi200.apollo.sase-1kh` · **Runs:** 8 · **Sessions:** 2 · **States:** active 1, completed 5, failed 2
+**Global hood:** `bbugyi200.apollo.sase-1kh` · **Runs:** 8 · **Sessions:** 2 · **States:** completed 5, dismissed 1, failed 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [sase-1kh.land--gate](../../../../../../sessions/bbugyi200.apollo.sase-1kh.land.md#member-gate) | failed | gpt-6.1-sol / codex | 2026-10-13T15:23:21.798132+00:00 → 2026-10-13T15:23:38.834669+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1kh.land--gate/chat.md) |
 | [sase-1kh.land--code](../../../../../../sessions/bbugyi200.apollo.sase-1kh.land.md#member-code) | completed | gpt-6-luna / codex | 2026-10-13T15:24:13.691210+00:00 → 2026-10-13T17:30:02.006632+00:00 | 1 | — |
-| [sase-1kh.land--plan](../../../../../../sessions/bbugyi200.apollo.sase-1kh.land.md#member-plan) | active | gpt-6.1-sol / codex | 2026-10-13T14:57:23.645632+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1kh.land--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-1kh.land--plan/prompt.md) |
+| [sase-1kh.land--plan](../../../../../../sessions/bbugyi200.apollo.sase-1kh.land.md#member-plan) | dismissed | gpt-6.1-sol / codex | 2026-10-13T10:57:23.645632 → 2026-10-13T13:30:02.058915 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1kh.land--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-1kh.land--plan/prompt.md) |
 | [sase-1kh.2--1](../../../../../../sessions/bbugyi200.apollo.sase-1kh.2.md#member-1) | completed | muse-spark-1.3-contributor / muse | 2026-10-13T13:15:08.096800+00:00 → 2026-10-13T13:56:05.416170+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1kh.2--1/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-1kh.2--1/prompt.md) |
 | [sase-1kh.1](../../../../../../agents/bbugyi200.apollo.sase-1kh.1/README.md) | completed | gpt-6-luna / codex | 2026-10-13T12:29:29.726210+00:00 → 2026-10-13T14:57:10.371880+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1kh.1/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-1kh.1/prompt.md) |
 | [sase-1kh.3](../../../../../../agents/bbugyi200.apollo.sase-1kh.3/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-13T12:28:57.240803+00:00 → 2026-10-13T14:49:15.007494+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1kh.3/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-1kh.3/prompt.md) |
