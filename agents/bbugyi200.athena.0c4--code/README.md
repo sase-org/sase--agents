@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7f05bed`](https://github.com/sase-org/sase/commit/7f05bed4fa9a2187a1ea8e86b0054ca2576d2b19) | test(finalizer): split declaration channel tests | 2026-08-23 21:52:47 EDT |
+| — | `7f05bed` | test(finalizer): split declaration channel tests | 2026-08-23 21:52:47 EDT |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1f21c4b`](https://github.com/sase-org/sase/commit/1f21c4b846657cbf601be4d7fec7ec47053a52ba) | test: restore green CI for v0.17.0 | 2026-08-24 01:03:10 EDT |
+| — | `1f21c4b` | test: restore green CI for v0.17.0 | 2026-08-24 01:03:10 EDT |

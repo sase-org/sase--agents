@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`20f0d13`](https://github.com/sase-org/sase/commit/20f0d13959116e67db52269d10f4be0591da6011) | fix(tui): stop settled monitor starters from borrowing monitor runtime | 2026-08-23 16:17:06 EDT |
+| — | `20f0d13` | fix(tui): stop settled monitor starters from borrowing monitor runtime | 2026-08-23 16:17:06 EDT |
