@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f078899`](https://github.com/sase-org/sase/commit/f078899fff053a5b16439a2a337eed8577d9c4c5) | chore: Add SDD prompt and plan for remove\_idle\_tracking | 2026-07-02 10:48:31 EDT |
-| sase | [`a39f524`](https://github.com/sase-org/sase/commit/a39f5240141dd057b8ac5af0fdd103db6e1e7f22) | feat!: remove ACE idle activity tracking | 2026-07-02 11:22:11 EDT |
+| — | `f078899` | chore: Add SDD prompt and plan for remove\_idle\_tracking | 2026-07-02 10:48:31 EDT |
+| — | `a39f524` | feat!: remove ACE idle activity tracking | 2026-07-02 11:22:11 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0be](../bbugyi200.athena.0be/README.md) | ancestor | active |
+| [0be](../bbugyi200.athena.0be/README.md) | ancestor | dismissed |

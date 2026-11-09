@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1dd58f0`](https://github.com/sase-org/sase/commit/1dd58f06cd52585d90dcafcbb3d92af670e754a7) | fix(time): resolve UTC-hardcoded display sites and add config.timezone doctor check | 2026-08-23 08:30:21 EDT |
+| — | `1dd58f0` | fix(time): resolve UTC-hardcoded display sites and add config.timezone doctor check | 2026-08-23 08:30:21 EDT |
