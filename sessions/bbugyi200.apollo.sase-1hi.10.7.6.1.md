@@ -8,14 +8,14 @@ Owner: `bbugyi200.apollo` · Hood: `sase-1hi` · Members: 5 · Bead: [sase-1hi.1
 
 ```mermaid
 flowchart TD
-  n0["sase-1hi.10.7.6.1--1 [active]"]
-  n1["sase-1hi.10.7.6.1--plan [active]"]
+  n0["sase-1hi.10.7.6.1--1 [dismissed]"]
+  n1["sase-1hi.10.7.6.1--plan [dismissed]"]
   n0 --> n1
-  n2["sase-1hi.10.7.6.1--mon [active]"]
+  n2["sase-1hi.10.7.6.1--mon [dismissed]"]
   n0 --> n2
-  n3["sase-1hi.10.7.6.1--mon-0 [active]"]
+  n3["sase-1hi.10.7.6.1--mon-0 [dismissed]"]
   n0 --> n3
-  n4["sase-1hi.10.7.6.1--2 [active]"]
+  n4["sase-1hi.10.7.6.1--2 [dismissed]"]
   n0 --> n4
 ```
 
@@ -23,11 +23,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | sase-1hi.10.7.6.1--1 | active | muse-spark-1.3-contributor / muse | 2026-10-09T02:30:19.137808+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.6.1--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.6.1--1/chat.md) |
-| <a id="member-plan"></a>plan | sase-1hi.10.7.6.1--plan | active | muse-spark-1.3-contributor / muse | 2026-10-08T23:17:00.371800+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.6.1--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.6.1--plan/chat.md) |
-| <a id="member-mon"></a>mon | sase-1hi.10.7.6.1--mon | active | muse-spark-1.3-contributor / muse | 2026-10-09T01:24:46.711214+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.6.1--mon/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | sase-1hi.10.7.6.1--mon-0 | active | muse-spark-1.3-contributor / muse | 2026-10-09T02:56:10.095424+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.6.1--mon-0/chat.md) |
-| <a id="member-2"></a>2 | sase-1hi.10.7.6.1--2 | active | muse-spark-1.3-contributor / muse | 2026-10-09T04:27:11.366931+00:00 | [1](../agents/bbugyi200.apollo.sase-1hi.10.7.6.1--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.6.1--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.6.1--2/chat.md) |
+| <a id="member-1"></a>1 | sase-1hi.10.7.6.1--1 | dismissed | muse-spark-1.3-contributor / muse | 2026-10-08T22:30:19.137808 → 2026-10-08T23:53:47.077916 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.6.1--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.6.1--1/chat.md) |
+| <a id="member-plan"></a>plan | sase-1hi.10.7.6.1--plan | dismissed | muse-spark-1.3-contributor / muse | 2026-10-08T19:17:00.371800 → 2026-10-08T21:27:07.602466 | 0 | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.6.1--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.6.1--plan/chat.md) |
+| <a id="member-mon"></a>mon | sase-1hi.10.7.6.1--mon | dismissed | muse-spark-1.3-contributor / muse | 2026-10-08T21:24:46.711214 → 2026-10-08T22:26:38.107957 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.6.1--mon/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | sase-1hi.10.7.6.1--mon-0 | dismissed | muse-spark-1.3-contributor / muse | 2026-10-08T22:56:10.095424 → 2026-10-08T23:56:24.239652 | 0 | — | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.6.1--mon-0/chat.md) |
+| <a id="member-2"></a>2 | sase-1hi.10.7.6.1--2 | dismissed | muse-spark-1.3-contributor / muse | 2026-10-09T00:27:11.366931 → 2026-10-09T00:55:47.452732 | [1](../agents/bbugyi200.apollo.sase-1hi.10.7.6.1--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.sase-1hi.10.7.6.1--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.sase-1hi.10.7.6.1--2/chat.md) |
 
 ## Commits
 
@@ -39,10 +39,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-1hi.10.7.6.2](bbugyi200.apollo.sase-1hi.10.7.6.2.md) (session · 5) | sase-1hi.10.7.6 hood | active 4, dismissed 1 |
+| [sase-1hi.10.7.6.2](bbugyi200.apollo.sase-1hi.10.7.6.2.md) (session · 5) | sase-1hi.10.7.6 hood | dismissed 5 |
 | [sase-1hi.10.7.6.3](bbugyi200.apollo.sase-1hi.10.7.6.3.md) (session · 3) | sase-1hi.10.7.6 hood | dismissed 3 |
-| [sase-1hi.10.7.6.4](bbugyi200.apollo.sase-1hi.10.7.6.4.md) (session · 5) | sase-1hi.10.7.6 hood | active 1, completed 1, failed 3 |
-| [sase-1hi.10.7.6.land](bbugyi200.apollo.sase-1hi.10.7.6.land.md) (session · 3) | sase-1hi.10.7.6 hood | active 2, failed 1 |
+| [sase-1hi.10.7.6.4](bbugyi200.apollo.sase-1hi.10.7.6.4.md) (session · 5) | sase-1hi.10.7.6 hood | completed 1, dismissed 1, failed 3 |
+| [sase-1hi.10.7.6.land](bbugyi200.apollo.sase-1hi.10.7.6.land.md) (session · 3) | sase-1hi.10.7.6 hood | active 1, dismissed 1, failed 1 |
 | [sase-1hi.10.7.6.land](../agents/bbugyi200.apollo.sase-1hi.10.7.6.land/README.md) | sase-1hi.10.7.6 hood | waiting |
 | [sase-1hi.10.7.1](bbugyi200.apollo.sase-1hi.10.7.1.md) (session · 13) | sase-1hi.10.7 hood | active 1, completed 6, failed 6 |
 | [sase-1hi.10.7.2](../agents/bbugyi200.apollo.sase-1hi.10.7.2/README.md) | sase-1hi.10.7 hood | completed |
@@ -50,25 +50,25 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-1hi.10.7.4](bbugyi200.apollo.sase-1hi.10.7.4.md) (session · 5) | sase-1hi.10.7 hood | completed 3, failed 2 |
 | [sase-1hi.10.7.5](bbugyi200.apollo.sase-1hi.10.7.5.md) (session · 9) | sase-1hi.10.7 hood | completed 5, failed 4 |
 | [sase-1hi.10.7.land](bbugyi200.apollo.sase-1hi.10.7.land.md) (session · 3) | sase-1hi.10.7 hood | failed 3 |
-| [sase-1hi.10.1](bbugyi200.apollo.sase-1hi.10.1.md) (session · 5) | sase-1hi.10 hood | active 3, completed 1, failed 1 |
-| [sase-1hi.10.2](bbugyi200.apollo.sase-1hi.10.2.md) (session · 11) | sase-1hi.10 hood | active 5, completed 1, dismissed 4, failed 1 |
+| [sase-1hi.10.1](bbugyi200.apollo.sase-1hi.10.1.md) (session · 5) | sase-1hi.10 hood | completed 1, dismissed 3, failed 1 |
+| [sase-1hi.10.2](bbugyi200.apollo.sase-1hi.10.2.md) (session · 11) | sase-1hi.10 hood | completed 1, dismissed 9, failed 1 |
 | [sase-1hi.10.3](bbugyi200.apollo.sase-1hi.10.3.md) (session · 3) | sase-1hi.10 hood | dismissed 3 |
-| [sase-1hi.10.4](bbugyi200.apollo.sase-1hi.10.4.md) (session · 5) | sase-1hi.10 hood | active 1, completed 1, dismissed 2, failed 1 |
-| [sase-1hi.10.5](bbugyi200.apollo.sase-1hi.10.5.md) (session · 3) | sase-1hi.10 hood | active 2, dismissed 1 |
-| [sase-1hi.10.6](bbugyi200.apollo.sase-1hi.10.6.md) (session · 7) | sase-1hi.10 hood | active 1, completed 1, dismissed 4, failed 1 |
-| [sase-1hi.10.land](bbugyi200.apollo.sase-1hi.10.land.md) (session · 3) | sase-1hi.10 hood | active 2, dismissed 1 |
-| [sase-1hi.1](bbugyi200.apollo.sase-1hi.1.md) (session · 3) | sase-1hi hood | active 3 |
-| [sase-1hi.1.1.1](../agents/bbugyi200.apollo.sase-1hi.1.1.1/README.md) | sase-1hi hood | active |
-| [sase-1hi.1.1.2](../agents/bbugyi200.apollo.sase-1hi.1.1.2/README.md) | sase-1hi hood | active |
-| [sase-1hi.1.1.3](../agents/bbugyi200.apollo.sase-1hi.1.1.3/README.md) | sase-1hi hood | active |
-| [sase-1hi.1.1.4](../agents/bbugyi200.apollo.sase-1hi.1.1.4/README.md) | sase-1hi hood | active |
-| [sase-1hi.1.1.land](bbugyi200.apollo.sase-1hi.1.1.land.md) (session · 3) | sase-1hi hood | active 1, completed 1, dismissed 1 |
-| [sase-1hi.2](../agents/bbugyi200.apollo.sase-1hi.2/README.md) | sase-1hi hood | active |
-| [sase-1hi.3](bbugyi200.apollo.sase-1hi.3.md) (session · 7) | sase-1hi hood | active 1, completed 1, dismissed 4, failed 1 |
-| [sase-1hi.4](../agents/bbugyi200.apollo.sase-1hi.4/README.md) | sase-1hi hood | active |
-| [sase-1hi.5](../agents/bbugyi200.apollo.sase-1hi.5/README.md) | sase-1hi hood | active |
-| [sase-1hi.6](bbugyi200.apollo.sase-1hi.6.md) (session · 7) | sase-1hi hood | active 5, completed 1, failed 1 |
-| [sase-1hi.7](bbugyi200.apollo.sase-1hi.7.md) (session · 5) | sase-1hi hood | active 2, completed 1, dismissed 1, failed 1 |
-| [sase-1hi.8](bbugyi200.apollo.sase-1hi.8.md) (session · 3) | sase-1hi hood | active 1, dismissed 2 |
-| [sase-1hi.9](../agents/bbugyi200.apollo.sase-1hi.9/README.md) | sase-1hi hood | active |
+| [sase-1hi.10.4](bbugyi200.apollo.sase-1hi.10.4.md) (session · 5) | sase-1hi.10 hood | completed 1, dismissed 3, failed 1 |
+| [sase-1hi.10.5](bbugyi200.apollo.sase-1hi.10.5.md) (session · 3) | sase-1hi.10 hood | dismissed 3 |
+| [sase-1hi.10.6](bbugyi200.apollo.sase-1hi.10.6.md) (session · 7) | sase-1hi.10 hood | completed 1, dismissed 5, failed 1 |
+| [sase-1hi.10.land](bbugyi200.apollo.sase-1hi.10.land.md) (session · 3) | sase-1hi.10 hood | dismissed 3 |
+| [sase-1hi.1](bbugyi200.apollo.sase-1hi.1.md) (session · 3) | sase-1hi hood | dismissed 3 |
+| [sase-1hi.1.1.1](../agents/bbugyi200.apollo.sase-1hi.1.1.1/README.md) | sase-1hi hood | dismissed |
+| [sase-1hi.1.1.2](../agents/bbugyi200.apollo.sase-1hi.1.1.2/README.md) | sase-1hi hood | dismissed |
+| [sase-1hi.1.1.3](../agents/bbugyi200.apollo.sase-1hi.1.1.3/README.md) | sase-1hi hood | dismissed |
+| [sase-1hi.1.1.4](../agents/bbugyi200.apollo.sase-1hi.1.1.4/README.md) | sase-1hi hood | dismissed |
+| [sase-1hi.1.1.land](bbugyi200.apollo.sase-1hi.1.1.land.md) (session · 3) | sase-1hi hood | completed 1, dismissed 2 |
+| [sase-1hi.2](../agents/bbugyi200.apollo.sase-1hi.2/README.md) | sase-1hi hood | dismissed |
+| [sase-1hi.3](bbugyi200.apollo.sase-1hi.3.md) (session · 7) | sase-1hi hood | completed 1, dismissed 5, failed 1 |
+| [sase-1hi.4](../agents/bbugyi200.apollo.sase-1hi.4/README.md) | sase-1hi hood | dismissed |
+| [sase-1hi.5](../agents/bbugyi200.apollo.sase-1hi.5/README.md) | sase-1hi hood | dismissed |
+| [sase-1hi.6](bbugyi200.apollo.sase-1hi.6.md) (session · 7) | sase-1hi hood | completed 1, dismissed 5, failed 1 |
+| [sase-1hi.7](bbugyi200.apollo.sase-1hi.7.md) (session · 5) | sase-1hi hood | completed 1, dismissed 3, failed 1 |
+| [sase-1hi.8](bbugyi200.apollo.sase-1hi.8.md) (session · 3) | sase-1hi hood | dismissed 3 |
+| [sase-1hi.9](../agents/bbugyi200.apollo.sase-1hi.9/README.md) | sase-1hi hood | dismissed |
 | [sase-1hi.land](bbugyi200.apollo.sase-1hi.land.md) (session · 3) | sase-1hi hood | dismissed 3 |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dbf6357`](https://github.com/sase-org/sase/commit/dbf6357464fc9a27b947c26cd8fb50fb06c02486) | feat(detach): route background workers through detach\_scope | 2026-10-08 06:54:11 EDT |
+| — | `dbf6357` | feat(detach): route background workers through detach\_scope | 2026-10-08 06:54:11 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-1i4.2](../../sessions/bbugyi200.apollo.sase-1i4.2.md) (session · 5) | sase-1i4 hood | completed 3, failed 2 |
 | [sase-1i4.3](../../sessions/bbugyi200.apollo.sase-1i4.3.md) (session · 9) | sase-1i4 hood | completed 5, failed 4 |
-| [sase-1i4.land](../bbugyi200.apollo.sase-1i4.land/README.md) | sase-1i4 hood | active |
+| [sase-1i4.land](../bbugyi200.apollo.sase-1i4.land/README.md) | sase-1i4 hood | dismissed |

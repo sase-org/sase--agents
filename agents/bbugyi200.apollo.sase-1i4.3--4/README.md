@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a10a6c6`](https://github.com/sase-org/sase/commit/a10a6c60352667d856f4c697134ba4df5fa243a1) | feat(scope): reap orphaned agent scopes with checks-routine backstop job | 2026-10-08 09:50:02 EDT |
+| — | `a10a6c6` | feat(scope): reap orphaned agent scopes with checks-routine backstop job | 2026-10-08 09:50:02 EDT |
 
 ## Neighbors
 
@@ -30,4 +30,4 @@
 |---|---|---|
 | [sase-1i4.1](../bbugyi200.apollo.sase-1i4.1/README.md) | sase-1i4 hood | completed |
 | [sase-1i4.2](../../sessions/bbugyi200.apollo.sase-1i4.2.md) (session · 5) | sase-1i4 hood | completed 3, failed 2 |
-| [sase-1i4.land](../bbugyi200.apollo.sase-1i4.land/README.md) | sase-1i4 hood | active |
+| [sase-1i4.land](../bbugyi200.apollo.sase-1i4.land/README.md) | sase-1i4 hood | dismissed |

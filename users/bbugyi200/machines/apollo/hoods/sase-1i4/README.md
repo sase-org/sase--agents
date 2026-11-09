@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / sase-1i4
 
-**Global hood:** `bbugyi200.apollo.sase-1i4` · **Runs:** 16 · **Sessions:** 2 · **States:** active 1, completed 9, failed 6
+**Global hood:** `bbugyi200.apollo.sase-1i4` · **Runs:** 16 · **Sessions:** 2 · **States:** completed 9, dismissed 1, failed 6
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [sase-1i4.3--mon-2](../../../../../../sessions/bbugyi200.apollo.sase-1i4.3.md#member-mon-2) | failed | muse-spark-1.3-contributor / muse | 2026-10-08T13:28:05.648256+00:00 → 2026-10-08T13:38:21.846869+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1i4.3--mon-2/chat.md) |
-| [sase-1i4.land](../../../../../../agents/bbugyi200.apollo.sase-1i4.land/README.md) | active | grok-4.7 / grok | 2026-10-08T13:54:42.739913+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1i4.land/prompt.md) |
+| [sase-1i4.land](../../../../../../agents/bbugyi200.apollo.sase-1i4.land/README.md) | dismissed | grok-4.7 / grok | 2026-10-08T09:54:42.739913 → 2026-10-08T11:41:33.845152 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-1i4.land/prompt.md) |
 | [sase-1i4.3--4](../../../../../../sessions/bbugyi200.apollo.sase-1i4.3.md#member-4) | completed | muse-spark-1.3-contributor / muse | 2026-10-08T13:38:21.280449+00:00 → 2026-10-08T13:55:12.088660+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1i4.3--4/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-1i4.3--4/prompt.md) |
 | [sase-1i4.3--mon](../../../../../../sessions/bbugyi200.apollo.sase-1i4.3.md#member-mon) | failed | muse-spark-1.3-contributor / muse | 2026-10-08T12:19:21.935989+00:00 → 2026-10-08T12:25:51.944133+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1i4.3--mon/chat.md) |
 | [sase-1i4.3--2](../../../../../../sessions/bbugyi200.apollo.sase-1i4.3.md#member-2) | completed | muse-spark-1.3-contributor / muse | 2026-10-08T12:35:50.633123+00:00 → 2026-10-08T12:48:42.792591+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-1i4.3--2/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-1i4.3--2/prompt.md) |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e4b0faf`](https://github.com/sase-org/sase/commit/e4b0faf443accef65ebc2a78612f4f92dc9c3151) | feat(scope): runner sweeps its own agent scope on exit and turn boundaries | 2026-10-08 08:01:18 EDT |
+| — | `e4b0faf` | feat(scope): runner sweeps its own agent scope on exit and turn boundaries | 2026-10-08 08:01:18 EDT |
 
 ## Neighbors
 
@@ -30,4 +30,4 @@
 |---|---|---|
 | [sase-1i4.1](../bbugyi200.apollo.sase-1i4.1/README.md) | sase-1i4 hood | completed |
 | [sase-1i4.3](../../sessions/bbugyi200.apollo.sase-1i4.3.md) (session · 9) | sase-1i4 hood | completed 5, failed 4 |
-| [sase-1i4.land](../bbugyi200.apollo.sase-1i4.land/README.md) | sase-1i4 hood | active |
+| [sase-1i4.land](../bbugyi200.apollo.sase-1i4.land/README.md) | sase-1i4 hood | dismissed |
