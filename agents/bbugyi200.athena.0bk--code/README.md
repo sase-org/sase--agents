@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9422a5f`](https://github.com/sase-org/sase/commit/9422a5f37df8dcfc8092e25fee05602db19059f9) | feat(tui): color Agents tree guides by hierarchy depth | 2026-08-23 08:39:58 EDT |
+| — | `9422a5f` | feat(tui): color Agents tree guides by hierarchy depth | 2026-08-23 08:39:58 EDT |
