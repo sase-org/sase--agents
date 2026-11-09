@@ -27,4 +27,4 @@
 | [sase-169.2](../bbugyi200.apollo.sase-169.2/README.md) | sase-169 hood | completed |
 | [sase-169.4](../bbugyi200.apollo.sase-169.4/README.md) | sase-169 hood | completed |
 | [sase-169.5](../../sessions/bbugyi200.apollo.sase-169.5.md) (session · 3) | sase-169 hood | completed 2, failed 1 |
-| [sase-169.land](../../sessions/bbugyi200.apollo.sase-169.land.md) (session · 3) | sase-169 hood | active 1, completed 1, failed 1 |
+| [sase-169.land](../../sessions/bbugyi200.apollo.sase-169.land.md) (session · 3) | sase-169 hood | completed 1, dismissed 1, failed 1 |

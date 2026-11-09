@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-13t](../../users/bbugyi200/machines/apollo/hoods/sase-13t/README.md) / sase-13t.land
 
-**Global name:** `bbugyi200.apollo.sase-13t.land` · **State:** active · **Source run:** `run-b80d8d4b568f462ed41d976fd1f1aaf1`
+**Global name:** `bbugyi200.apollo.sase-13t.land` · **State:** dismissed · **Source run:** `run-b80d8d4b568f462ed41d976fd1f1aaf1`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-13t
 
@@ -11,7 +11,7 @@
 - Bead: [sase-13t](https://github.com/sase-org/sase--beads/blob/main/pages/sase-13t/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-09-20T18:54:26.075156+00:00
+- Timing: 2026-09-20T14:54:26.075156 → 2026-09-20T15:46:25.899177
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-13t.1](../bbugyi200.apollo.sase-13t.1/README.md) | sase-13t hood | completed |
-| [sase-13t.1.f0](../bbugyi200.apollo.sase-13t.1.f0/README.md) | sase-13t hood | active |
+| [sase-13t.1.f0](../bbugyi200.apollo.sase-13t.1.f0/README.md) | sase-13t hood | dismissed |
 | [sase-13t.1.f1](../bbugyi200.apollo.sase-13t.1.f1/README.md) | sase-13t hood | completed |
 | [sase-13t.2](../bbugyi200.apollo.sase-13t.2/README.md) | sase-13t hood | completed |
 | [sase-13t.3](../bbugyi200.apollo.sase-13t.3/README.md) | sase-13t hood | completed |

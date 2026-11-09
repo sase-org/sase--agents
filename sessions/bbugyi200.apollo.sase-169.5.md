@@ -37,4 +37,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-169.2](../agents/bbugyi200.apollo.sase-169.2/README.md) | sase-169 hood | completed |
 | [sase-169.3](bbugyi200.apollo.sase-169.3.md) (session · 9) | sase-169 hood | completed 5, failed 4 |
 | [sase-169.4](../agents/bbugyi200.apollo.sase-169.4/README.md) | sase-169 hood | completed |
-| [sase-169.land](bbugyi200.apollo.sase-169.land.md) (session · 3) | sase-169 hood | active 1, completed 1, failed 1 |
+| [sase-169.land](bbugyi200.apollo.sase-169.land.md) (session · 3) | sase-169 hood | completed 1, dismissed 1, failed 1 |

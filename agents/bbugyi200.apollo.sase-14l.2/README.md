@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`64b2463`](https://github.com/sase-org/sase/commit/64b246312a0fd6ee669577e5be8d45f7564c6ea9) | feat(notify): dismiss row-owned settlement rows on agent read ack | 2026-09-20 18:43:05 EDT |
+| — | `64b2463` | feat(notify): dismiss row-owned settlement rows on agent read ack | 2026-09-20 18:43:05 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-14l.1](../bbugyi200.apollo.sase-14l.1/README.md) | sase-14l hood | completed |
 | [sase-14l.3](../bbugyi200.apollo.sase-14l.3/README.md) | sase-14l hood | completed |
-| [sase-14l.land](../bbugyi200.apollo.sase-14l.land/README.md) | sase-14l hood | active |
+| [sase-14l.land](../bbugyi200.apollo.sase-14l.land/README.md) | sase-14l hood | dismissed |

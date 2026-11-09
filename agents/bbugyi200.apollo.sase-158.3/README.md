@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5a89392`](https://github.com/sase-org/sase/commit/5a89392fe0fbfc59052b47257b9a882345c3302a) | feat(dev-update): instrument plan, execute, reconcile and mode-switch backends with progress events | 2026-09-21 10:35:55 EDT |
+| — | `5a89392` | feat(dev-update): instrument plan, execute, reconcile and mode-switch backends with progress events | 2026-09-21 10:35:55 EDT |
 
 ## Neighbors
 
@@ -35,6 +35,6 @@
 | [sase-158.5](../bbugyi200.apollo.sase-158.5/README.md) | sase-158 hood | completed |
 | [sase-158.6.1](../bbugyi200.apollo.sase-158.6.1/README.md) | sase-158 hood | completed |
 | [sase-158.6.2](../bbugyi200.apollo.sase-158.6.2/README.md) | sase-158 hood | completed |
-| [sase-158.6.3](../bbugyi200.apollo.sase-158.6.3/README.md) | sase-158 hood | active |
-| [sase-158.6.land](../bbugyi200.apollo.sase-158.6.land/README.md) | sase-158 hood | waiting |
+| [sase-158.6.3](../bbugyi200.apollo.sase-158.6.3/README.md) | sase-158 hood | dismissed |
+| [sase-158.6.land](../bbugyi200.apollo.sase-158.6.land/README.md) | sase-158 hood | dismissed |
 | [sase-158.land](../../sessions/bbugyi200.apollo.sase-158.land.md) (session · 3) | sase-158 hood | failed 3 |

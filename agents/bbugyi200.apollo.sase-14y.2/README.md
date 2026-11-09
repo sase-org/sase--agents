@@ -24,4 +24,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [sase-14y.1](../bbugyi200.apollo.sase-14y.1/README.md) | sase-14y hood | completed |
-| [sase-14y.land](../bbugyi200.apollo.sase-14y.land/README.md) | sase-14y hood | active |
+| [sase-14y.land](../bbugyi200.apollo.sase-14y.land/README.md) | sase-14y hood | dismissed |

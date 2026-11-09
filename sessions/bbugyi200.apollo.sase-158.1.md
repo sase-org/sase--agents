@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`94ccd19`](https://github.com/sase-org/sase/commit/94ccd19176a50586b97c2f8add0d431d1097ed18) | feat(dev-update): add line-streaming subprocess runner with on\_output sink | 2026-09-21 09:28:42 EDT |
+| 1 | — | `94ccd19` | feat(dev-update): add line-streaming subprocess runner with on\_output sink | 2026-09-21 09:28:42 EDT |
 
 ## Neighbors
 
@@ -39,6 +39,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-158.5](../agents/bbugyi200.apollo.sase-158.5/README.md) | sase-158 hood | completed |
 | [sase-158.6.1](../agents/bbugyi200.apollo.sase-158.6.1/README.md) | sase-158 hood | completed |
 | [sase-158.6.2](../agents/bbugyi200.apollo.sase-158.6.2/README.md) | sase-158 hood | completed |
-| [sase-158.6.3](../agents/bbugyi200.apollo.sase-158.6.3/README.md) | sase-158 hood | active |
-| [sase-158.6.land](../agents/bbugyi200.apollo.sase-158.6.land/README.md) | sase-158 hood | waiting |
+| [sase-158.6.3](../agents/bbugyi200.apollo.sase-158.6.3/README.md) | sase-158 hood | dismissed |
+| [sase-158.6.land](../agents/bbugyi200.apollo.sase-158.6.land/README.md) | sase-158 hood | dismissed |
 | [sase-158.land](bbugyi200.apollo.sase-158.land.md) (session · 3) | sase-158 hood | failed 3 |

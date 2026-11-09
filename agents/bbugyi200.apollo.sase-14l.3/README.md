@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`383f2c2`](https://github.com/sase-org/sase/commit/383f2c282791436ddcdf08d7ce9cb57604a7fd58) | feat(agents): add unread projection for settlement notifications | 2026-09-20 19:49:16 EDT |
+| — | `383f2c2` | feat(agents): add unread projection for settlement notifications | 2026-09-20 19:49:16 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-14l.1](../bbugyi200.apollo.sase-14l.1/README.md) | sase-14l hood | completed |
 | [sase-14l.2](../bbugyi200.apollo.sase-14l.2/README.md) | sase-14l hood | completed |
-| [sase-14l.land](../bbugyi200.apollo.sase-14l.land/README.md) | sase-14l hood | active |
+| [sase-14l.land](../bbugyi200.apollo.sase-14l.land/README.md) | sase-14l hood | dismissed |

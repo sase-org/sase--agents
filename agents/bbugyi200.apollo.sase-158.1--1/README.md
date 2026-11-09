@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`94ccd19`](https://github.com/sase-org/sase/commit/94ccd19176a50586b97c2f8add0d431d1097ed18) | feat(dev-update): add line-streaming subprocess runner with on\_output sink | 2026-09-21 09:28:42 EDT |
+| — | `94ccd19` | feat(dev-update): add line-streaming subprocess runner with on\_output sink | 2026-09-21 09:28:42 EDT |
 
 ## Neighbors
 
@@ -34,6 +34,6 @@
 | [sase-158.5](../bbugyi200.apollo.sase-158.5/README.md) | sase-158 hood | completed |
 | [sase-158.6.1](../bbugyi200.apollo.sase-158.6.1/README.md) | sase-158 hood | completed |
 | [sase-158.6.2](../bbugyi200.apollo.sase-158.6.2/README.md) | sase-158 hood | completed |
-| [sase-158.6.3](../bbugyi200.apollo.sase-158.6.3/README.md) | sase-158 hood | active |
-| [sase-158.6.land](../bbugyi200.apollo.sase-158.6.land/README.md) | sase-158 hood | waiting |
+| [sase-158.6.3](../bbugyi200.apollo.sase-158.6.3/README.md) | sase-158 hood | dismissed |
+| [sase-158.6.land](../bbugyi200.apollo.sase-158.6.land/README.md) | sase-158 hood | dismissed |
 | [sase-158.land](../../sessions/bbugyi200.apollo.sase-158.land.md) (session · 3) | sase-158 hood | failed 3 |

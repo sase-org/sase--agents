@@ -23,11 +23,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`42acc29`](https://github.com/sase-org/sase/commit/42acc29794b3a3dadc7e8a000c767a7f1d1074d0) | refactor(tui): share launch-context polling through LaunchContextSource | 2026-09-21 00:52:21 EDT |
+| — | `42acc29` | refactor(tui): share launch-context polling through LaunchContextSource | 2026-09-21 00:52:21 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-14y.2](../bbugyi200.apollo.sase-14y.2/README.md) | sase-14y hood | active |
-| [sase-14y.land](../bbugyi200.apollo.sase-14y.land/README.md) | sase-14y hood | active |
+| [sase-14y.land](../bbugyi200.apollo.sase-14y.land/README.md) | sase-14y hood | dismissed |
