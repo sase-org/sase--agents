@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6536745`](https://github.com/sase-org/sase/commit/65367452b95634556873d1d44ac4373d9bc7a9e3) | fix(finalizers): give declaration recovery an evidence brief of its own run | 2026-08-23 10:57:47 EDT |
+| — | `6536745` | fix(finalizers): give declaration recovery an evidence brief of its own run | 2026-08-23 10:57:47 EDT |

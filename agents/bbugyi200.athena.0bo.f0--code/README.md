@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8d8d84e`](https://github.com/sase-org/sase/commit/8d8d84e3d8ae04d093bfa90e710d0b1f79d7f5e5) | fix(ace): join family runtime suffix with a bare slash | 2026-08-23 10:48:38 EDT |
+| — | `8d8d84e` | fix(ace): join family runtime suffix with a bare slash | 2026-08-23 10:48:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0bo](../../sessions/bbugyi200.athena.0bo.md) (session · 2) | ancestor | active 1, completed 1 |
+| [0bo](../../sessions/bbugyi200.athena.0bo.md) (session · 2) | ancestor | completed 1, dismissed 1 |

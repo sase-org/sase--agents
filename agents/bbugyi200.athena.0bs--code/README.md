@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7690b23`](https://github.com/sase-org/sase/commit/7690b23f863bc188992a3202d76e364f5decedc1) | feat(memory): generate task\_types.md for project roots only | 2026-08-23 11:27:59 EDT |
+| — | `7690b23` | feat(memory): generate task\_types.md for project roots only | 2026-08-23 11:27:59 EDT |

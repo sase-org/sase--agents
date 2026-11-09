@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`184fa9a`](https://github.com/sase-org/sase/commit/184fa9aed8b71a950393c8d1eba67bcee6141766) | feat(ace): show current family shell runtime | 2026-08-23 10:01:53 EDT |
+| — | `184fa9a` | feat(ace): show current family shell runtime | 2026-08-23 10:01:53 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0bo.f0](../../sessions/bbugyi200.athena.0bo.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [0bo.f0](../../sessions/bbugyi200.athena.0bo.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
