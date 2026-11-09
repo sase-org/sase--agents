@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a92c0b1`](https://github.com/sase-org/sase/commit/a92c0b1c01f9d6a842bb98aeb5967e13c4e5e1e1) | feat(bead): show provenance-aware artifact-link neighborhood | 2026-08-22 08:37:03 EDT |
+| — | `a92c0b1` | feat(bead): show provenance-aware artifact-link neighborhood | 2026-08-22 08:37:03 EDT |
