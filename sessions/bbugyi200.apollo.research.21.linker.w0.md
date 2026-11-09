@@ -11,7 +11,7 @@ flowchart TD
   n0["research.21.linker.w0--mon [failed]"]
   n1["research.21.linker.w0--gate [failed]"]
   n0 --> n1
-  n2["research.21.linker.w0--plan [active]"]
+  n2["research.21.linker.w0--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,17 +21,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | research.21.linker.w0--mon | failed | opus / claude | 2026-10-18T15:53:13.468705+00:00 → 2026-10-18T15:55:00.055940+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.research.21.linker.w0--mon/chat.md) |
 | <a id="member-gate"></a>gate | research.21.linker.w0--gate | failed | opus / claude | 2026-10-18T15:52:53.007140+00:00 → 2026-10-18T15:53:14.537872+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.research.21.linker.w0--gate/chat.md) |
-| <a id="member-plan"></a>plan | research.21.linker.w0--plan | active | opus / claude | 2026-10-18T15:41:42.001556+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.research.21.linker.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.research.21.linker.w0--plan/chat.md) |
+| <a id="member-plan"></a>plan | research.21.linker.w0--plan | dismissed | opus / claude | 2026-10-18T11:41:42.001556 → 2026-10-18T11:53:42.414180 | 0 | [Prompt](../agents/bbugyi200.apollo.research.21.linker.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.research.21.linker.w0--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.21.linker](../agents/bbugyi200.apollo.research.21.linker/README.md) | ancestor | active |
+| [research.21.linker](../agents/bbugyi200.apollo.research.21.linker/README.md) | ancestor | dismissed |
 | [research.21.cdx](../agents/bbugyi200.apollo.research.21.cdx/README.md) | research.21 hood | dismissed |
 | [research.21.cld](../agents/bbugyi200.apollo.research.21.cld/README.md) | research.21 hood | dismissed |
 | [research.21.final](../agents/bbugyi200.apollo.research.21.final/README.md) | research.21 hood | dismissed |
-| [research.21.gem](../agents/bbugyi200.apollo.research.21.gem/README.md) | research.21 hood | active |
+| [research.21.gem](../agents/bbugyi200.apollo.research.21.gem/README.md) | research.21 hood | dismissed |
 | [research.21.grk](../agents/bbugyi200.apollo.research.21.grk/README.md) | research.21 hood | dismissed |
 | [research.21.image](../agents/bbugyi200.apollo.research.21.image/README.md) | research.21 hood | dismissed |
 | [research.0.cdx](../agents/bbugyi200.apollo.research.0.cdx/README.md) | research hood | dismissed |
@@ -46,7 +46,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.02.cdx](../agents/bbugyi200.apollo.research.02.cdx/README.md) | research hood | dismissed |
 | [research.02.cld](../agents/bbugyi200.apollo.research.02.cld/README.md) | research hood | dismissed |
 | [research.02.final](../agents/bbugyi200.apollo.research.02.final/README.md) | research hood | dismissed |
-| [research.02.gem](../agents/bbugyi200.apollo.research.02.gem/README.md) | research hood | active |
+| [research.02.gem](../agents/bbugyi200.apollo.research.02.gem/README.md) | research hood | dismissed |
 | [research.02.grk](../agents/bbugyi200.apollo.research.02.grk/README.md) | research hood | dismissed |
 | [research.02.image](../agents/bbugyi200.apollo.research.02.image/README.md) | research hood | dismissed |
 | [research.02.linker](../agents/bbugyi200.apollo.research.02.linker/README.md) | research hood | active |
@@ -72,7 +72,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.07.final](../agents/bbugyi200.apollo.research.07.final/README.md) | research hood | completed |
 | [research.07.final.f1](../agents/bbugyi200.apollo.research.07.final.f1/README.md) | research hood | completed |
 | [research.07.image](../agents/bbugyi200.apollo.research.07.image/README.md) | research hood | completed |
-| [research.08.audio](../agents/bbugyi200.apollo.research.08.audio/README.md) | research hood | active |
+| [research.08.audio](../agents/bbugyi200.apollo.research.08.audio/README.md) | research hood | dismissed |
 | [research.08.cdx](../agents/bbugyi200.apollo.research.08.cdx/README.md) | research hood | dismissed |
 | [research.08.cld](../agents/bbugyi200.apollo.research.08.cld/README.md) | research hood | dismissed |
 | [research.08.final](../agents/bbugyi200.apollo.research.08.final/README.md) | research hood | dismissed |
