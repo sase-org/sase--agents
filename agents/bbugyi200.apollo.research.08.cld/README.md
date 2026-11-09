@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.08.cld
 
-**Global name:** `bbugyi200.apollo.research.08.cld` · **State:** active · **Source run:** `run-3209f47a1008b7618fed4c67e83b9469`
+**Global name:** `bbugyi200.apollo.research.08.cld` · **State:** dismissed · **Source run:** `run-3209f47a1008b7618fed4c67e83b9469`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-04T12:30:21.563225+00:00
+- Timing: 2026-10-04T08:30:21.563225 → 2026-10-04T08:48:41.435900
 - Commits: [1](#commits)
 
 ## Files
@@ -48,9 +48,9 @@
 | [research.02.final](../bbugyi200.apollo.research.02.final/README.md) | research hood | active |
 | [research.02.gem](../bbugyi200.apollo.research.02.gem/README.md) | research hood | active |
 | [research.02.grk](../bbugyi200.apollo.research.02.grk/README.md) | research hood | active |
-| [research.02.image](../bbugyi200.apollo.research.02.image/README.md) | research hood | active |
+| [research.02.image](../bbugyi200.apollo.research.02.image/README.md) | research hood | dismissed |
 | [research.02.linker](../bbugyi200.apollo.research.02.linker/README.md) | research hood | active |
-| [research.02.mus](../bbugyi200.apollo.research.02.mus/README.md) | research hood | active |
+| [research.02.mus](../bbugyi200.apollo.research.02.mus/README.md) | research hood | dismissed |
 | [research.03.cdx](../bbugyi200.apollo.research.03.cdx/README.md) | research hood | completed |
 | [research.03.cld](../bbugyi200.apollo.research.03.cld/README.md) | research hood | completed |
 | [research.03.final](../bbugyi200.apollo.research.03.final/README.md) | research hood | completed |
@@ -80,7 +80,7 @@
 | [research.09.grk](../bbugyi200.apollo.research.09.grk/README.md) | research hood | active |
 | [research.09.image](../bbugyi200.apollo.research.09.image/README.md) | research hood | active |
 | [research.09.linker](../bbugyi200.apollo.research.09.linker/README.md) | research hood | active |
-| [research.0a.audio](../bbugyi200.apollo.research.0a.audio/README.md) | research hood | active |
+| [research.0a.audio](../bbugyi200.apollo.research.0a.audio/README.md) | research hood | dismissed |
 | [research.0a.cdx](../bbugyi200.apollo.research.0a.cdx/README.md) | research hood | active |
 | [research.0a.cld](../bbugyi200.apollo.research.0a.cld/README.md) | research hood | active |
 | [research.0a.final](../bbugyi200.apollo.research.0a.final/README.md) | research hood | active |
