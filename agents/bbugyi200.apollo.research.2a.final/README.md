@@ -46,9 +46,9 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.2a.grk](../bbugyi200.apollo.research.2a.grk/README.md) | research.2a hood | dismissed |
 | [research.2a.image](../bbugyi200.apollo.research.2a.image/README.md) | research.2a hood | dismissed |
 | [research.2a.linker](../bbugyi200.apollo.research.2a.linker/README.md) | research.2a hood | dismissed |
-| [research.2a.mus](../bbugyi200.apollo.research.2a.mus/README.md) | research.2a hood | active |
+| [research.2a.mus](../bbugyi200.apollo.research.2a.mus/README.md) | research.2a hood | dismissed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | dismissed |
-| [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
+| [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
 | [research.0.image](../bbugyi200.apollo.research.0.image/README.md) | research hood | completed |
 | [research.01.cdx](../bbugyi200.apollo.research.01.cdx/README.md) | research hood | completed |
@@ -56,7 +56,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.01.final](../bbugyi200.apollo.research.01.final/README.md) | research hood | completed |
 | [research.01.final.f0](../bbugyi200.apollo.research.01.final.f0/README.md) | research hood | dismissed |
 | [research.01.image](../bbugyi200.apollo.research.01.image/README.md) | research hood | completed |
-| [research.02.cdx](../bbugyi200.apollo.research.02.cdx/README.md) | research hood | active |
+| [research.02.cdx](../bbugyi200.apollo.research.02.cdx/README.md) | research hood | dismissed |
 | [research.02.cld](../bbugyi200.apollo.research.02.cld/README.md) | research hood | dismissed |
 | [research.02.final](../bbugyi200.apollo.research.02.final/README.md) | research hood | dismissed |
 | [research.02.gem](../bbugyi200.apollo.research.02.gem/README.md) | research hood | active |

@@ -27,13 +27,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.a.cdx](../bbugyi200.apollo.research.a.cdx/README.md) | research.a hood | active |
+| [research.a.cdx](../bbugyi200.apollo.research.a.cdx/README.md) | research.a hood | dismissed |
 | [research.a.final](../bbugyi200.apollo.research.a.final/README.md) | research.a hood | active |
 | [research.a.gem](../bbugyi200.apollo.research.a.gem/README.md) | research.a hood | dismissed |
 | [research.a.image](../bbugyi200.apollo.research.a.image/README.md) | research.a hood | dismissed |
 | [research.a.mus](../bbugyi200.apollo.research.a.mus/README.md) | research.a hood | dismissed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | dismissed |
-| [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
+| [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
 | [research.0.image](../bbugyi200.apollo.research.0.image/README.md) | research hood | completed |
 | [research.01.cdx](../bbugyi200.apollo.research.01.cdx/README.md) | research hood | completed |
@@ -41,7 +41,7 @@
 | [research.01.final](../bbugyi200.apollo.research.01.final/README.md) | research hood | completed |
 | [research.01.final.f0](../bbugyi200.apollo.research.01.final.f0/README.md) | research hood | dismissed |
 | [research.01.image](../bbugyi200.apollo.research.01.image/README.md) | research hood | completed |
-| [research.02.cdx](../bbugyi200.apollo.research.02.cdx/README.md) | research hood | active |
+| [research.02.cdx](../bbugyi200.apollo.research.02.cdx/README.md) | research hood | dismissed |
 | [research.02.cld](../bbugyi200.apollo.research.02.cld/README.md) | research hood | dismissed |
 | [research.02.final](../bbugyi200.apollo.research.02.final/README.md) | research hood | dismissed |
 | [research.02.gem](../bbugyi200.apollo.research.02.gem/README.md) | research hood | active |

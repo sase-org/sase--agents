@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.1t.gem
 
-**Global name:** `bbugyi200.apollo.research.1t.gem` · **State:** active · **Source run:** `run-bff4edc63beec849ac7d6942654ee8e2`
+**Global name:** `bbugyi200.apollo.research.1t.gem` · **State:** dismissed · **Source run:** `run-bff4edc63beec849ac7d6942654ee8e2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-10-16T21:52:13.842458+00:00
+- Timing: 2026-10-16T17:52:13.842458
 - Commits: 0
 
 ## Files
@@ -24,12 +24,12 @@
 | [research.1t.cdx](../bbugyi200.apollo.research.1t.cdx/README.md) | research.1t hood | dismissed |
 | [research.1t.cld](../bbugyi200.apollo.research.1t.cld/README.md) | research.1t hood | dismissed |
 | [research.1t.final](../bbugyi200.apollo.research.1t.final/README.md) | research.1t hood | dismissed |
-| [research.1t.grk](../bbugyi200.apollo.research.1t.grk/README.md) | research.1t hood | active |
+| [research.1t.grk](../bbugyi200.apollo.research.1t.grk/README.md) | research.1t hood | dismissed |
 | [research.1t.image](../bbugyi200.apollo.research.1t.image/README.md) | research.1t hood | active |
 | [research.1t.linker](../bbugyi200.apollo.research.1t.linker/README.md) | research.1t hood | active |
 | [research.1t.mus](../bbugyi200.apollo.research.1t.mus/README.md) | research.1t hood | dismissed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | dismissed |
-| [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
+| [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
 | [research.0.image](../bbugyi200.apollo.research.0.image/README.md) | research hood | completed |
 | [research.01.cdx](../bbugyi200.apollo.research.01.cdx/README.md) | research hood | completed |
@@ -37,7 +37,7 @@
 | [research.01.final](../bbugyi200.apollo.research.01.final/README.md) | research hood | completed |
 | [research.01.final.f0](../bbugyi200.apollo.research.01.final.f0/README.md) | research hood | dismissed |
 | [research.01.image](../bbugyi200.apollo.research.01.image/README.md) | research hood | completed |
-| [research.02.cdx](../bbugyi200.apollo.research.02.cdx/README.md) | research hood | active |
+| [research.02.cdx](../bbugyi200.apollo.research.02.cdx/README.md) | research hood | dismissed |
 | [research.02.cld](../bbugyi200.apollo.research.02.cld/README.md) | research hood | dismissed |
 | [research.02.final](../bbugyi200.apollo.research.02.final/README.md) | research hood | dismissed |
 | [research.02.gem](../bbugyi200.apollo.research.02.gem/README.md) | research hood | active |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0m.grk
 
-**Global name:** `bbugyi200.apollo.research.0m.grk` · **State:** active · **Source run:** `run-c24e90e925023b43e0b57f2cf74298a9`
+**Global name:** `bbugyi200.apollo.research.0m.grk` · **State:** dismissed · **Source run:** `run-c24e90e925023b43e0b57f2cf74298a9`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-08T16:04:12.602646+00:00
+- Timing: 2026-10-08T12:04:12.602646 → 2026-10-08T12:24:48.960009
 - Commits: 0
 - Variables: [1](#variables)
 
@@ -47,9 +47,9 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.0m.image](../bbugyi200.apollo.research.0m.image/README.md) | research.0m hood | active |
 | [research.0m.linker](../bbugyi200.apollo.research.0m.linker/README.md) | research.0m hood | dismissed |
 | [research.0m.linker.w0](../bbugyi200.apollo.research.0m.linker.w0/README.md) | research.0m hood | dismissed |
-| [research.0m.mus](../bbugyi200.apollo.research.0m.mus/README.md) | research.0m hood | active |
+| [research.0m.mus](../bbugyi200.apollo.research.0m.mus/README.md) | research.0m hood | dismissed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | dismissed |
-| [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
+| [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
 | [research.0.image](../bbugyi200.apollo.research.0.image/README.md) | research hood | completed |
 | [research.01.cdx](../bbugyi200.apollo.research.01.cdx/README.md) | research hood | completed |
@@ -57,7 +57,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.01.final](../bbugyi200.apollo.research.01.final/README.md) | research hood | completed |
 | [research.01.final.f0](../bbugyi200.apollo.research.01.final.f0/README.md) | research hood | dismissed |
 | [research.01.image](../bbugyi200.apollo.research.01.image/README.md) | research hood | completed |
-| [research.02.cdx](../bbugyi200.apollo.research.02.cdx/README.md) | research hood | active |
+| [research.02.cdx](../bbugyi200.apollo.research.02.cdx/README.md) | research hood | dismissed |
 | [research.02.cld](../bbugyi200.apollo.research.02.cld/README.md) | research hood | dismissed |
 | [research.02.final](../bbugyi200.apollo.research.02.final/README.md) | research hood | dismissed |
 | [research.02.gem](../bbugyi200.apollo.research.02.gem/README.md) | research hood | active |

@@ -21,14 +21,14 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.n.cdx](../bbugyi200.apollo.research.n.cdx/README.md) | research.n hood | active |
+| [research.n.cdx](../bbugyi200.apollo.research.n.cdx/README.md) | research.n hood | dismissed |
 | [research.n.cld](../bbugyi200.apollo.research.n.cld/README.md) | research.n hood | dismissed |
 | [research.n.final](../bbugyi200.apollo.research.n.final/README.md) | research.n hood | dismissed |
 | [research.n.gem](../bbugyi200.apollo.research.n.gem/README.md) | research.n hood | active |
 | [research.n.image](../bbugyi200.apollo.research.n.image/README.md) | research.n hood | dismissed |
 | [research.n.mus](../bbugyi200.apollo.research.n.mus/README.md) | research.n hood | active |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | dismissed |
-| [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
+| [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | active |
 | [research.0.image](../bbugyi200.apollo.research.0.image/README.md) | research hood | completed |
 | [research.01.cdx](../bbugyi200.apollo.research.01.cdx/README.md) | research hood | completed |
@@ -36,7 +36,7 @@
 | [research.01.final](../bbugyi200.apollo.research.01.final/README.md) | research hood | completed |
 | [research.01.final.f0](../bbugyi200.apollo.research.01.final.f0/README.md) | research hood | dismissed |
 | [research.01.image](../bbugyi200.apollo.research.01.image/README.md) | research hood | completed |
-| [research.02.cdx](../bbugyi200.apollo.research.02.cdx/README.md) | research hood | active |
+| [research.02.cdx](../bbugyi200.apollo.research.02.cdx/README.md) | research hood | dismissed |
 | [research.02.cld](../bbugyi200.apollo.research.02.cld/README.md) | research hood | dismissed |
 | [research.02.final](../bbugyi200.apollo.research.02.final/README.md) | research hood | dismissed |
 | [research.02.gem](../bbugyi200.apollo.research.02.gem/README.md) | research hood | active |
