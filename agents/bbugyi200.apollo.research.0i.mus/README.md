@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0i.mus
 
-**Global name:** `bbugyi200.apollo.research.0i.mus` · **State:** active · **Source run:** `run-6c4bf151bb7f23662e1fedd917a87711`
+**Global name:** `bbugyi200.apollo.research.0i.mus` · **State:** dismissed · **Source run:** `run-6c4bf151bb7f23662e1fedd917a87711`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-07T21:18:05.255242+00:00
+- Timing: 2026-10-07T17:18:05.255242 → 2026-10-07T17:25:53.972464
 - Commits: 0
 
 ## Files
@@ -24,10 +24,10 @@
 | [research.0i.audio](../bbugyi200.apollo.research.0i.audio/README.md) | research.0i hood | dismissed |
 | [research.0i.cdx](../bbugyi200.apollo.research.0i.cdx/README.md) | research.0i hood | active |
 | [research.0i.cld](../bbugyi200.apollo.research.0i.cld/README.md) | research.0i hood | active |
-| [research.0i.final](../bbugyi200.apollo.research.0i.final/README.md) | research.0i hood | active |
+| [research.0i.final](../bbugyi200.apollo.research.0i.final/README.md) | research.0i hood | dismissed |
 | [research.0i.gem](../bbugyi200.apollo.research.0i.gem/README.md) | research.0i hood | active |
 | [research.0i.grk](../bbugyi200.apollo.research.0i.grk/README.md) | research.0i hood | active |
-| [research.0i.image](../bbugyi200.apollo.research.0i.image/README.md) | research.0i hood | active |
+| [research.0i.image](../bbugyi200.apollo.research.0i.image/README.md) | research.0i hood | dismissed |
 | [research.0i.linker](../bbugyi200.apollo.research.0i.linker/README.md) | research.0i hood | active |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | active |
@@ -40,7 +40,7 @@
 | [research.01.image](../bbugyi200.apollo.research.01.image/README.md) | research hood | completed |
 | [research.02.cdx](../bbugyi200.apollo.research.02.cdx/README.md) | research hood | active |
 | [research.02.cld](../bbugyi200.apollo.research.02.cld/README.md) | research hood | active |
-| [research.02.final](../bbugyi200.apollo.research.02.final/README.md) | research hood | active |
+| [research.02.final](../bbugyi200.apollo.research.02.final/README.md) | research hood | dismissed |
 | [research.02.gem](../bbugyi200.apollo.research.02.gem/README.md) | research hood | active |
 | [research.02.grk](../bbugyi200.apollo.research.02.grk/README.md) | research hood | dismissed |
 | [research.02.image](../bbugyi200.apollo.research.02.image/README.md) | research hood | dismissed |
@@ -73,10 +73,10 @@
 | [research.08.final](../bbugyi200.apollo.research.08.final/README.md) | research hood | dismissed |
 | [research.08.gem](../bbugyi200.apollo.research.08.gem/README.md) | research hood | active |
 | [research.08.grk](../bbugyi200.apollo.research.08.grk/README.md) | research hood | active |
-| [research.08.image](../bbugyi200.apollo.research.08.image/README.md) | research hood | active |
-| [research.08.linker](../bbugyi200.apollo.research.08.linker/README.md) | research hood | active |
+| [research.08.image](../bbugyi200.apollo.research.08.image/README.md) | research hood | dismissed |
+| [research.08.linker](../bbugyi200.apollo.research.08.linker/README.md) | research hood | dismissed |
 | [research.09.audio](../bbugyi200.apollo.research.09.audio/README.md) | research hood | active |
 | [research.09.cdx](../bbugyi200.apollo.research.09.cdx/README.md) | research hood | dismissed |
-| [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | active |
+| [research.09.cld](../bbugyi200.apollo.research.09.cld/README.md) | research hood | dismissed |
 | [research.09.final](../bbugyi200.apollo.research.09.final/README.md) | research hood | dismissed |
 | … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
