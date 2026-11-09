@@ -17,12 +17,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`570d734`](https://github.com/sase-org/sase/commit/570d7347a3eb9bdaf6b874d36640e17a814cf775) | chore: Add SDD prompt and plan for github\_enterprise\_support | 2026-07-01 08:06:47 EDT |
-| sase | [`921e119`](https://github.com/sase-org/sase/commit/921e11919a337c993c192801631d24a4b16b5f47) | chore: Mark SDD plan done | 2026-07-01 08:25:59 EDT |
+| — | `570d734` | chore: Add SDD prompt and plan for github\_enterprise\_support | 2026-07-01 08:06:47 EDT |
+| — | `921e119` | chore: Mark SDD plan done | 2026-07-01 08:25:59 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0b2](../bbugyi200.athena.0b2/README.md) | ancestor | active |
+| [0b2](../bbugyi200.athena.0b2/README.md) | ancestor | dismissed |
 | [0b2.cld.f1](../bbugyi200.athena.0b2.cld.f1/README.md) | descendant | completed |

@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 0b4
 
-**Global hood:** `bbugyi200.athena.0b4` · **Runs:** 4 · **Sessions:** 1 · **States:** active 1, completed 2, failed 1
+**Global hood:** `bbugyi200.athena.0b4` · **Runs:** 4 · **Sessions:** 1 · **States:** completed 2, dismissed 1, failed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [0b4--mon](../../../../../../sessions/bbugyi200.athena.0b4.md#member-mon) | failed | grok-4.6 / grok | 2026-08-22T16:53:01.963815+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0b4--mon/chat.md) |
 | [0b4](../../../../../../agents/bbugyi200.athena.0b4/README.md) | completed | — | 2026-07-01T13:13:58+00:00 → 2026-07-01T13:25:22+00:00 | 2 | — |
-| [0b4--0](../../../../../../sessions/bbugyi200.athena.0b4.md#member-0) | active | grok-4.6 / grok | 2026-08-22T16:16:43.584543+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0b4--0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0b4--0/prompt.md) |
+| [0b4--0](../../../../../../sessions/bbugyi200.athena.0b4.md#member-0) | dismissed | grok-4.6 / grok | 2026-08-22T16:16:30 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0b4--0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0b4--0/prompt.md) |
 | [0b4--1](../../../../../../sessions/bbugyi200.athena.0b4.md#member-1) | completed | grok-4.6 / grok | 2026-08-22T17:11:49.648086+00:00 → 2026-08-22T17:30:16.363248+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.0b4--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0b4--1/prompt.md) |
