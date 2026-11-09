@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f7595ad`](https://github.com/sase-org/sase/commit/f7595ad53e21cd26cf630718ce5a5767dac3a5f1) | feat(ace): dismiss finished proc-shell rows from the Agents tab | 2026-08-24 08:48:49 EDT |
+| — | `f7595ad` | feat(ace): dismiss finished proc-shell rows from the Agents tab | 2026-08-24 08:48:49 EDT |

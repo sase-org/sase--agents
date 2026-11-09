@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5dc8973`](https://github.com/sase-org/sase/commit/5dc8973956dbd2b82635cfb836be712ae9fa8439) | feat(tui): render agent header proc count as gear badge | 2026-08-24 07:49:43 EDT |
+| — | `5dc8973` | feat(tui): render agent header proc count as gear badge | 2026-08-24 07:49:43 EDT |
