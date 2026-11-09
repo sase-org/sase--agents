@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3d74d69`](https://github.com/sase-org/sase/commit/3d74d690a2f55474ea8c297da9db67d9dca4f744) | fix(wait-dependency): stop superseded failed shell members from blocking family waits | 2026-09-13 23:56:29 EDT |
+| — | `3d74d69` | fix(wait-dependency): stop superseded failed shell members from blocking family waits | 2026-09-13 23:56:29 EDT |

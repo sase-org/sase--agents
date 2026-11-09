@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / sase-12o
 
-**Global hood:** `bbugyi200.apollo.sase-12o` · **Runs:** 8 · **Sessions:** 1 · **States:** active 1, completed 5, failed 2
+**Global hood:** `bbugyi200.apollo.sase-12o` · **Runs:** 8 · **Sessions:** 1 · **States:** completed 5, dismissed 1, failed 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -12,5 +12,5 @@
 | [sase-12o.1](../../../../../../agents/bbugyi200.apollo.sase-12o.1/README.md) | completed | gpt-5.5 / codex | 2026-09-18T10:06:36.138831+00:00 → 2026-09-18T13:02:25.779971+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.sase-12o.1/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-12o.1/prompt.md) |
 | [sase-12o.3](../../../../../../agents/bbugyi200.apollo.sase-12o.3/README.md) | completed | gpt-5.5 / codex | 2026-09-18T13:56:28.634744+00:00 → 2026-09-18T19:09:14.775876+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.sase-12o.3/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-12o.3/prompt.md) |
 | [sase-12o.land--code](../../../../../../sessions/bbugyi200.apollo.sase-12o.land.md#member-code) | completed | grok-4.6 / grok | 2026-09-18T19:20:46.416591+00:00 → 2026-09-18T20:03:02.985445+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-12o.land--code/chat.md) |
-| [sase-12o.land--1](../../../../../../sessions/bbugyi200.apollo.sase-12o.land.md#member-1) | active | grok-4.6 / grok | 2026-09-18T20:05:41.398707+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-12o.land--1/prompt.md) |
+| [sase-12o.land--1](../../../../../../sessions/bbugyi200.apollo.sase-12o.land.md#member-1) | dismissed | grok-4.6 / grok | 2026-09-18T16:05:41.398707 → 2026-09-18T16:20:41.939974 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-12o.land--1/prompt.md) |
 | [sase-12o.land--mon](../../../../../../sessions/bbugyi200.apollo.sase-12o.land.md#member-mon) | failed | grok-4.6 / grok | 2026-09-18T20:02:27.874273+00:00 → 2026-09-18T20:05:41.628270+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-12o.land--mon/chat.md) |

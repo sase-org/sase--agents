@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / sase-100
 
-**Global hood:** `bbugyi200.apollo.sase-100` · **Runs:** 23 · **Sessions:** 2 · **States:** active 1, completed 13, failed 9
+**Global hood:** `bbugyi200.apollo.sase-100` · **Runs:** 23 · **Sessions:** 2 · **States:** completed 13, dismissed 1, failed 9
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -20,7 +20,7 @@
 | [sase-100.2](../../../../../../agents/bbugyi200.apollo.sase-100.2/README.md) | completed | grok-4.6 / grok | 2026-09-13T08:44:14.892997+00:00 → 2026-09-13T09:47:52.440270+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.sase-100.2/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-100.2/prompt.md) |
 | [sase-100.4--2](../../../../../../sessions/bbugyi200.apollo.sase-100.4.md#member-2) | completed | grok-4.6 / grok | 2026-09-13T14:24:57.448574+00:00 → 2026-09-13T14:32:37.472408+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-100.4--2/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-100.4--2/prompt.md) |
 | [sase-100.4--mon-4](../../../../../../sessions/bbugyi200.apollo.sase-100.4.md#member-mon-4) | failed | grok-4.6 / grok | 2026-09-13T17:24:26.933206+00:00 → 2026-09-13T17:35:15.245180+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-100.4--mon-4/chat.md) |
-| [sase-100.land](../../../../../../agents/bbugyi200.apollo.sase-100.land/README.md) | active | gpt-5.6-sol / codex | 2026-09-13T19:26:35.284963+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-100.land/prompt.md) |
+| [sase-100.land](../../../../../../agents/bbugyi200.apollo.sase-100.land/README.md) | dismissed | gpt-5.6-sol / codex | 2026-09-13T15:26:35.284963 → 2026-09-13T15:57:22.809555 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.sase-100.land/prompt.md) |
 | [sase-100.4--3](../../../../../../sessions/bbugyi200.apollo.sase-100.4.md#member-3) | completed | grok-4.6 / grok | 2026-09-13T16:19:04.693630+00:00 → 2026-09-13T16:28:28.471043+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-100.4--3/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-100.4--3/prompt.md) |
 | [sase-100.4--4](../../../../../../sessions/bbugyi200.apollo.sase-100.4.md#member-4) | completed | grok-4.6 / grok | 2026-09-13T16:52:28.988452+00:00 → 2026-09-13T16:59:04.876458+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-100.4--4/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-100.4--4/prompt.md) |
 | [sase-100.4--5](../../../../../../sessions/bbugyi200.apollo.sase-100.4.md#member-5) | completed | grok-4.6 / grok | 2026-09-13T17:09:38.733650+00:00 → 2026-09-13T17:24:50.183723+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.sase-100.4--5/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.sase-100.4--5/prompt.md) |

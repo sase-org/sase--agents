@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a12a1ab`](https://github.com/sase-org/sase/commit/a12a1abdf6b4183b2e1cdef66afe656cb5889258) | feat(ace): wire R and ,y through the Refresh panel | 2026-09-13 06:51:33 EDT |
+| — | `a12a1ab` | feat(ace): wire R and ,y through the Refresh panel | 2026-09-13 06:51:33 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 | [sase-100.1](../bbugyi200.apollo.sase-100.1/README.md) | sase-100 hood | completed |
 | [sase-100.2](../bbugyi200.apollo.sase-100.2/README.md) | sase-100 hood | completed |
 | [sase-100.4](../../sessions/bbugyi200.apollo.sase-100.4.md) (session · 17) | sase-100 hood | completed 9, failed 8 |
-| [sase-100.land](../bbugyi200.apollo.sase-100.land/README.md) | sase-100 hood | active |
+| [sase-100.land](../bbugyi200.apollo.sase-100.land/README.md) | sase-100 hood | dismissed |

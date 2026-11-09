@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bad80a9`](https://github.com/sase-org/sase/commit/bad80a93248c2217a4c83ab259cd3789abc62422) | feat(ace): add RefreshPanelModal single-key chooser | 2026-09-13 05:46:42 EDT |
+| — | `bad80a9` | feat(ace): add RefreshPanelModal single-key chooser | 2026-09-13 05:46:42 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 | [sase-100.1](../bbugyi200.apollo.sase-100.1/README.md) | sase-100 hood | completed |
 | [sase-100.3](../../sessions/bbugyi200.apollo.sase-100.3.md) (session · 3) | sase-100 hood | completed 2, failed 1 |
 | [sase-100.4](../../sessions/bbugyi200.apollo.sase-100.4.md) (session · 17) | sase-100 hood | completed 9, failed 8 |
-| [sase-100.land](../bbugyi200.apollo.sase-100.land/README.md) | sase-100 hood | active |
+| [sase-100.land](../bbugyi200.apollo.sase-100.land/README.md) | sase-100 hood | dismissed |

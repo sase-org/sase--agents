@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`22c6659`](https://github.com/sase-org/sase/commit/22c66592f715eadcebc45973361c5f24c7cfcae0) | feat(completion): cache runtime grammars and loaders | 2026-09-18 09:00:32 EDT |
+| — | `22c6659` | feat(completion): cache runtime grammars and loaders | 2026-09-18 09:00:32 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-12o.2](../bbugyi200.apollo.sase-12o.2/README.md) | sase-12o hood | completed |
 | [sase-12o.3](../bbugyi200.apollo.sase-12o.3/README.md) | sase-12o hood | completed |
-| [sase-12o.land](../../sessions/bbugyi200.apollo.sase-12o.land.md) (session · 5) | sase-12o hood | active 1, completed 2, failed 2 |
+| [sase-12o.land](../../sessions/bbugyi200.apollo.sase-12o.land.md) (session · 5) | sase-12o hood | completed 2, dismissed 1, failed 2 |

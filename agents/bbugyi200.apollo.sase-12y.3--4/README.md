@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`01f5cb9`](https://github.com/sase-org/sase/commit/01f5cb9e3e0f231cd29440dc10fa1017fac2c04c) | fix(sdd): accept unborn clones of empty remotes | 2026-09-18 18:11:07 EDT |
+| — | `01f5cb9` | fix(sdd): accept unborn clones of empty remotes | 2026-09-18 18:11:07 EDT |
 
 ## Neighbors
 
@@ -30,6 +30,6 @@
 |---|---|---|
 | [sase-12y.1](../bbugyi200.apollo.sase-12y.1/README.md) | sase-12y hood | completed |
 | [sase-12y.2](../../sessions/bbugyi200.apollo.sase-12y.2.md) (session · 3) | sase-12y hood | completed 2, failed 1 |
-| [sase-12y.4.1](../bbugyi200.apollo.sase-12y.4.1/README.md) | sase-12y hood | active |
-| [sase-12y.4.land](../bbugyi200.apollo.sase-12y.4.land/README.md) | sase-12y hood | waiting |
+| [sase-12y.4.1](../bbugyi200.apollo.sase-12y.4.1/README.md) | sase-12y hood | dismissed |
+| [sase-12y.4.land](../bbugyi200.apollo.sase-12y.4.land/README.md) | sase-12y hood | dismissed |
 | [sase-12y.land](../../sessions/bbugyi200.apollo.sase-12y.land.md) (session · 3) | sase-12y hood | failed 3 |

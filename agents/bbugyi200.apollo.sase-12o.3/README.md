@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0320dae`](https://github.com/sase-org/sase/commit/0320daed701fe0b6b8b23a35667d56ca557190c4) | feat(completion): migrate chezmoi to portable loaders | 2026-09-18 15:04:15 EDT |
+| — | `0320dae` | feat(completion): migrate chezmoi to portable loaders | 2026-09-18 15:04:15 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-12o.1](../bbugyi200.apollo.sase-12o.1/README.md) | sase-12o hood | completed |
 | [sase-12o.2](../bbugyi200.apollo.sase-12o.2/README.md) | sase-12o hood | completed |
-| [sase-12o.land](../../sessions/bbugyi200.apollo.sase-12o.land.md) (session · 5) | sase-12o hood | active 1, completed 2, failed 2 |
+| [sase-12o.land](../../sessions/bbugyi200.apollo.sase-12o.land.md) (session · 5) | sase-12o hood | completed 2, dismissed 1, failed 2 |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ecfde91`](https://github.com/sase-org/sase/commit/ecfde919c5ba2a751c3d2a6c4f5c717cdda09c85) | docs(ace): document Refresh panel and refresh visual goldens | 2026-09-13 15:24:14 EDT |
+| — | `ecfde91` | docs(ace): document Refresh panel and refresh visual goldens | 2026-09-13 15:24:14 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 | [sase-100.1](../bbugyi200.apollo.sase-100.1/README.md) | sase-100 hood | completed |
 | [sase-100.2](../bbugyi200.apollo.sase-100.2/README.md) | sase-100 hood | completed |
 | [sase-100.3](../../sessions/bbugyi200.apollo.sase-100.3.md) (session · 3) | sase-100 hood | completed 2, failed 1 |
-| [sase-100.land](../bbugyi200.apollo.sase-100.land/README.md) | sase-100 hood | active |
+| [sase-100.land](../bbugyi200.apollo.sase-100.land/README.md) | sase-100 hood | dismissed |

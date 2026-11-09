@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f28c666`](https://github.com/sase-org/sase/commit/f28c666bdbcad3d9c7f86f85b82c5370cfad620a) | feat(completion): refresh stamped installs as loaders | 2026-09-18 09:53:31 EDT |
+| — | `f28c666` | feat(completion): refresh stamped installs as loaders | 2026-09-18 09:53:31 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 |---|---|---|
 | [sase-12o.1](../bbugyi200.apollo.sase-12o.1/README.md) | sase-12o hood | completed |
 | [sase-12o.3](../bbugyi200.apollo.sase-12o.3/README.md) | sase-12o hood | completed |
-| [sase-12o.land](../../sessions/bbugyi200.apollo.sase-12o.land.md) (session · 5) | sase-12o hood | active 1, completed 2, failed 2 |
+| [sase-12o.land](../../sessions/bbugyi200.apollo.sase-12o.land.md) (session · 5) | sase-12o hood | completed 2, dismissed 1, failed 2 |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [sase-100](../../users/bbugyi200/machines/apollo/hoods/sase-100/README.md) / sase-100.land
 
-**Global name:** `bbugyi200.apollo.sase-100.land` · **State:** active · **Source run:** `run-bded8ea804a0b9ddc5b9d0865f9fe450`
+**Global name:** `bbugyi200.apollo.sase-100.land` · **State:** dismissed · **Source run:** `run-bded8ea804a0b9ddc5b9d0865f9fe450`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** sase-100
 
@@ -11,7 +11,7 @@
 - Bead: [sase-100](https://github.com/sase-org/sase--beads/blob/main/pages/sase-100/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-09-13T19:26:35.284963+00:00
+- Timing: 2026-09-13T15:26:35.284963 → 2026-09-13T15:57:22.809555
 - Commits: 0
 
 ## Files

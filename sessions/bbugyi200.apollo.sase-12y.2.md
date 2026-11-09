@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`2d46e2c`](https://github.com/sase-org/sase/commit/2d46e2cf40344859990dab39b094cad78b24640d) | feat(sdd): bound artifact-link projection with deadline-aware batches | 2026-09-18 14:35:31 EDT |
+| 1 | — | `2d46e2c` | feat(sdd): bound artifact-link projection with deadline-aware batches | 2026-09-18 14:35:31 EDT |
 
 ## Neighbors
 
@@ -35,6 +35,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-12y.1](../agents/bbugyi200.apollo.sase-12y.1/README.md) | sase-12y hood | completed |
 | [sase-12y.3](bbugyi200.apollo.sase-12y.3.md) (session · 9) | sase-12y hood | completed 5, failed 4 |
-| [sase-12y.4.1](../agents/bbugyi200.apollo.sase-12y.4.1/README.md) | sase-12y hood | active |
-| [sase-12y.4.land](../agents/bbugyi200.apollo.sase-12y.4.land/README.md) | sase-12y hood | waiting |
+| [sase-12y.4.1](../agents/bbugyi200.apollo.sase-12y.4.1/README.md) | sase-12y hood | dismissed |
+| [sase-12y.4.land](../agents/bbugyi200.apollo.sase-12y.4.land/README.md) | sase-12y hood | dismissed |
 | [sase-12y.land](bbugyi200.apollo.sase-12y.land.md) (session · 3) | sase-12y hood | failed 3 |

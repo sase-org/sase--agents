@@ -26,4 +26,4 @@
 | [sase-100.1](../bbugyi200.apollo.sase-100.1/README.md) | sase-100 hood | completed |
 | [sase-100.2](../bbugyi200.apollo.sase-100.2/README.md) | sase-100 hood | completed |
 | [sase-100.3](../../sessions/bbugyi200.apollo.sase-100.3.md) (session · 3) | sase-100 hood | completed 2, failed 1 |
-| [sase-100.land](../bbugyi200.apollo.sase-100.land/README.md) | sase-100 hood | active |
+| [sase-100.land](../bbugyi200.apollo.sase-100.land/README.md) | sase-100 hood | dismissed |

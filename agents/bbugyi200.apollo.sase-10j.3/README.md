@@ -23,11 +23,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cb1076e`](https://github.com/sase-org/sase/commit/cb1076e85515292d2fc420825d4909d1b0b878ac) | fix(wait): notify terminally blocked waiters | 2026-09-14 08:36:46 EDT |
+| — | `cb1076e` | fix(wait): notify terminally blocked waiters | 2026-09-14 08:36:46 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-10j.2](../bbugyi200.apollo.sase-10j.2/README.md) | sase-10j hood | active |
-| [sase-10j.land](../bbugyi200.apollo.sase-10j.land/README.md) | sase-10j hood | waiting |
+| [sase-10j.2](../bbugyi200.apollo.sase-10j.2/README.md) | sase-10j hood | dismissed |
+| [sase-10j.land](../bbugyi200.apollo.sase-10j.land/README.md) | sase-10j hood | dismissed |

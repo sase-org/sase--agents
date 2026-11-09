@@ -23,8 +23,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5554dfb`](https://github.com/sase-org/sase/commit/5554dfb0ce7d46250422eb8c1989201a8634ca5a) | fix(notifications): guard snapshot cache token publication | 2026-09-12 18:20:10 EDT |
-| sase | [`442b5ec`](https://github.com/sase-org/sase/commit/442b5ec41f56649ac5db8cebe52230343d5d8597) | feat(refresh): record ACE surface freshness | 2026-09-12 18:56:14 EDT |
+| — | `5554dfb` | fix(notifications): guard snapshot cache token publication | 2026-09-12 18:20:10 EDT |
+| — | `442b5ec` | feat(refresh): record ACE surface freshness | 2026-09-12 18:56:14 EDT |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [sase-100.2](../bbugyi200.apollo.sase-100.2/README.md) | sase-100 hood | completed |
 | [sase-100.3](../../sessions/bbugyi200.apollo.sase-100.3.md) (session · 3) | sase-100 hood | completed 2, failed 1 |
 | [sase-100.4](../../sessions/bbugyi200.apollo.sase-100.4.md) (session · 17) | sase-100 hood | completed 9, failed 8 |
-| [sase-100.land](../bbugyi200.apollo.sase-100.land/README.md) | sase-100 hood | active |
+| [sase-100.land](../bbugyi200.apollo.sase-100.land/README.md) | sase-100 hood | dismissed |

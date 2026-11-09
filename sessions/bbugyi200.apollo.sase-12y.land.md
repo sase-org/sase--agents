@@ -30,5 +30,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-12y.1](../agents/bbugyi200.apollo.sase-12y.1/README.md) | sase-12y hood | completed |
 | [sase-12y.2](bbugyi200.apollo.sase-12y.2.md) (session · 3) | sase-12y hood | completed 2, failed 1 |
 | [sase-12y.3](bbugyi200.apollo.sase-12y.3.md) (session · 9) | sase-12y hood | completed 5, failed 4 |
-| [sase-12y.4.1](../agents/bbugyi200.apollo.sase-12y.4.1/README.md) | sase-12y hood | active |
-| [sase-12y.4.land](../agents/bbugyi200.apollo.sase-12y.4.land/README.md) | sase-12y hood | waiting |
+| [sase-12y.4.1](../agents/bbugyi200.apollo.sase-12y.4.1/README.md) | sase-12y hood | dismissed |
+| [sase-12y.4.land](../agents/bbugyi200.apollo.sase-12y.4.land/README.md) | sase-12y hood | dismissed |
