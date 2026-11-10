@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`04299c2`](https://github.com/sase-org/sase/commit/04299c29e7d73cbdb43cb66cf3946521e4873bbc) | fix: advance agent marks to folded banners | 2026-08-24 15:14:41 EDT |
+| — | `04299c2` | fix: advance agent marks to folded banners | 2026-08-24 15:14:41 EDT |

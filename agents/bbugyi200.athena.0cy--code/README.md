@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9abe196`](https://github.com/sase-org/sase/commit/9abe1967b916f1cdfa9c13a2be483c8cca98bc76) | test(bead): add regression test for legacy JSONL event-stream prefix preservation | 2026-08-24 17:58:58 EDT |
+| — | `9abe196` | test(bead): add regression test for legacy JSONL event-stream prefix preservation | 2026-08-24 17:58:58 EDT |

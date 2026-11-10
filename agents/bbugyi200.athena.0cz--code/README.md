@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e4534d2`](https://github.com/sase-org/sase/commit/e4534d2651783989fddf66e29a0dc3d562cf0e89) | fix(agent): allow forking failed agents | 2026-08-24 18:12:56 EDT |
+| — | `e4534d2` | fix(agent): allow forking failed agents | 2026-08-24 18:12:56 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0cz.f1](../../sessions/bbugyi200.athena.0cz.f1.md) (session · 2) | descendant | active 1, failed 1 |
+| [0cz.f1](../../sessions/bbugyi200.athena.0cz.f1.md) (session · 2) | descendant | dismissed 1, failed 1 |
