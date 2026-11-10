@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8efecdd`](https://github.com/sase-org/sase/commit/8efecdd7390a0103f66ce7a3f4b54376a2079a63) | feat(agent-listing): use bounded index snapshots | 2026-09-06 16:25:23 EDT |
+| — | `8efecdd` | feat(agent-listing): use bounded index snapshots | 2026-09-06 16:25:23 EDT |
 
 ## Neighbors
 

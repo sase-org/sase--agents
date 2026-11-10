@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`8ed00c4`](https://github.com/sase-org/sase/commit/8ed00c4ed67dc85abded7ea31ce8fce49b3cf865) | fix(ace-tui): map remote fleet-row identity fields and suppress stale online chrome | 2026-09-14 09:56:01 EDT |
+| 1 | — | `8ed00c4` | fix(ace-tui): map remote fleet-row identity fields and suppress stale online chrome | 2026-09-14 09:56:01 EDT |
 
 ## Neighbors
 
@@ -50,6 +50,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [sase-xe.16.11.7.16.5.3](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.5.3/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.16.5.4](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.5.4/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.16.5.5.1](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.5.5.1/README.md) | sase-xe.16.11.7 hood | completed |
-| [sase-xe.16.11.7.16.5.5.land](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.5.5.land/README.md) | sase-xe.16.11.7 hood | active |
+| [sase-xe.16.11.7.16.5.5.land](../agents/bbugyi200.apollo.sase-xe.16.11.7.16.5.5.land/README.md) | sase-xe.16.11.7 hood | dismissed |
 | [sase-xe.16.11.7.16.5.land](bbugyi200.apollo.sase-xe.16.11.7.16.5.land.md) (session · 3) | sase-xe.16.11.7 hood | failed 3 |
 | [sase-xe.16.11.7.16.land](bbugyi200.apollo.sase-xe.16.11.7.16.land.md) (session · 3) | sase-xe.16.11.7 hood | failed 3 |

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e47d159`](https://github.com/sase-org/sase/commit/e47d159b55f4a828929827980474ea6572f6d3ad) | fix(launch): resume requesters after launch gates | 2026-09-11 10:48:05 EDT |
+| — | `e47d159` | fix(launch): resume requesters after launch gates | 2026-09-11 10:48:05 EDT |
 
 ## Neighbors
 

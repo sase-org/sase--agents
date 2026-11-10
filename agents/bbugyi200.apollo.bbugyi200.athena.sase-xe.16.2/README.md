@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5015d76`](https://github.com/sase-org/sase/commit/5015d76e9561cc68e0526627473aef9e159bc647) | chore(deps): ratchet sase-core pin and floor | 2026-09-08 13:33:48 EDT |
+| — | `5015d76` | chore(deps): ratchet sase-core pin and floor | 2026-09-08 13:33:48 EDT |
 
 ## Neighbors
 

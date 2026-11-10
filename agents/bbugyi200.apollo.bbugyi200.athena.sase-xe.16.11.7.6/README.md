@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`296b21b`](https://github.com/sase-org/sase/commit/296b21b8848c37079c48c924e422a8d26ba36bbd) | feat(ace): unify agents list behind flag | 2026-09-10 03:00:36 EDT |
+| — | `296b21b` | feat(ace): unify agents list behind flag | 2026-09-10 03:00:36 EDT |
 
 ## Neighbors
 

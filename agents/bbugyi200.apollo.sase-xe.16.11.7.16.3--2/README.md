@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0b1a480`](https://github.com/sase-org/sase/commit/0b1a4806d6b7568a61d67be4f203819b85ef775e) | fix(tui): render invalid or stale remote-host feed status loudly | 2026-09-14 18:04:15 EDT |
+| — | `0b1a480` | fix(tui): render invalid or stale remote-host feed status loudly | 2026-09-14 18:04:15 EDT |
 
 ## Neighbors
 
@@ -36,7 +36,7 @@
 | [sase-xe.16.11.7.16.5.3](../bbugyi200.apollo.sase-xe.16.11.7.16.5.3/README.md) | sase-xe.16.11.7.16 hood | completed |
 | [sase-xe.16.11.7.16.5.4](../bbugyi200.apollo.sase-xe.16.11.7.16.5.4/README.md) | sase-xe.16.11.7.16 hood | completed |
 | [sase-xe.16.11.7.16.5.5.1](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.1/README.md) | sase-xe.16.11.7.16 hood | completed |
-| [sase-xe.16.11.7.16.5.5.land](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.land/README.md) | sase-xe.16.11.7.16 hood | active |
+| [sase-xe.16.11.7.16.5.5.land](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.land/README.md) | sase-xe.16.11.7.16 hood | dismissed |
 | [sase-xe.16.11.7.16.5.land](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.16.5.land.md) (session · 3) | sase-xe.16.11.7.16 hood | failed 3 |
 | [sase-xe.16.11.7.16.land](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.16.land.md) (session · 3) | sase-xe.16.11.7.16 hood | failed 3 |
 | [sase-xe.16.11.7.15.1](../bbugyi200.apollo.sase-xe.16.11.7.15.1/README.md) | sase-xe.16.11.7 hood | completed |

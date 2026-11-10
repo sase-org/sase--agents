@@ -22,8 +22,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7e922da`](https://github.com/sase-org/sase/commit/7e922da66631b2283ae2d31626abf3acaf4d4c59) | chore(core): ratchet sase-core-revision.txt to a35b18220fb3 | 2026-09-14 08:26:43 EDT |
-| sase | [`d699f27`](https://github.com/sase-org/sase/commit/d699f2761a4da7ec0387ff1a10ee5e3cea0563f5) | fix(monitor): use absolute import for store module in store\_lane.py | 2026-09-14 08:32:09 EDT |
+| — | `7e922da` | chore(core): ratchet sase-core-revision.txt to a35b18220fb3 | 2026-09-14 08:26:43 EDT |
+| — | `d699f27` | fix(monitor): use absolute import for store module in store\_lane.py | 2026-09-14 08:32:09 EDT |
 
 ## Neighbors
 
@@ -45,6 +45,6 @@
 | [sase-xe.16.11.7.16.5.3](../bbugyi200.apollo.sase-xe.16.11.7.16.5.3/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.16.5.4](../bbugyi200.apollo.sase-xe.16.11.7.16.5.4/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.16.5.5.1](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.1/README.md) | sase-xe.16.11.7 hood | completed |
-| [sase-xe.16.11.7.16.5.5.land](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.land/README.md) | sase-xe.16.11.7 hood | active |
+| [sase-xe.16.11.7.16.5.5.land](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.land/README.md) | sase-xe.16.11.7 hood | dismissed |
 | [sase-xe.16.11.7.16.5.land](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.16.5.land.md) (session · 3) | sase-xe.16.11.7 hood | failed 3 |
 | [sase-xe.16.11.7.16.land](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.16.land.md) (session · 3) | sase-xe.16.11.7 hood | failed 3 |

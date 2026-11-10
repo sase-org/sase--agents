@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`bc4566d`](https://github.com/sase-org/sase/commit/bc4566dfbf2d47bf9465f717dbbcf825613ad04f) | fix(dispatch): handle failed remote launch receipts | 2026-09-09 17:47:28 EDT |
+| — | `bc4566d` | fix(dispatch): handle failed remote launch receipts | 2026-09-09 17:47:28 EDT |
 
 ## Neighbors
 

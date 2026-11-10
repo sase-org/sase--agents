@@ -23,9 +23,9 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dd672fd`](https://github.com/sase-org/sase/commit/dd672fd6cbd3e5bcf89ae51ea12e77ce62f1228d) | chore(core): ratchet sudo runner core floor | 2026-09-14 13:59:50 EDT |
-| sase | [`2e0dd5e`](https://github.com/sase-org/sase/commit/2e0dd5ee46fe4b8ef583e2c6a2c901c3652a8685) | fix(commit): stop stale plan attribution | 2026-09-14 14:42:21 EDT |
-| sase | [`ccd3253`](https://github.com/sase-org/sase/commit/ccd32537f54e37fddfdbf423da911ab5e44372f0) | fix(tui): prove fleet remote display parity | 2026-09-14 15:12:53 EDT |
+| — | `dd672fd` | chore(core): ratchet sudo runner core floor | 2026-09-14 13:59:50 EDT |
+| — | `2e0dd5e` | fix(commit): stop stale plan attribution | 2026-09-14 14:42:21 EDT |
+| — | `ccd3253` | fix(tui): prove fleet remote display parity | 2026-09-14 15:12:53 EDT |
 
 ## Neighbors
 
@@ -48,6 +48,6 @@
 | [sase-xe.16.11.7.16.5.3](../bbugyi200.apollo.sase-xe.16.11.7.16.5.3/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.16.5.4](../bbugyi200.apollo.sase-xe.16.11.7.16.5.4/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.16.5.5.1](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.1/README.md) | sase-xe.16.11.7 hood | completed |
-| [sase-xe.16.11.7.16.5.5.land](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.land/README.md) | sase-xe.16.11.7 hood | active |
+| [sase-xe.16.11.7.16.5.5.land](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.land/README.md) | sase-xe.16.11.7 hood | dismissed |
 | [sase-xe.16.11.7.16.5.land](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.16.5.land.md) (session · 3) | sase-xe.16.11.7 hood | failed 3 |
 | [sase-xe.16.11.7.16.land](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.16.land.md) (session · 3) | sase-xe.16.11.7 hood | failed 3 |

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6ae983d`](https://github.com/sase-org/sase/commit/6ae983ddc2b607513cf5cebf1c6e9ea5ea2318f6) | test(tui): add Fleet and Focus PNG coverage | 2026-09-08 13:21:01 EDT |
+| — | `6ae983d` | test(tui): add Fleet and Focus PNG coverage | 2026-09-08 13:21:01 EDT |
 
 ## Neighbors
 

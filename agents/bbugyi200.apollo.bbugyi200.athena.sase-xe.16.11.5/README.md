@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b7c6bc0`](https://github.com/sase-org/sase/commit/b7c6bc0067032b53f30e841b54a6f179d4ff52e1) | fix(ace): decode live Fleet worker envelopes for Apollo catalog rows | 2026-09-09 11:59:41 EDT |
+| — | `b7c6bc0` | fix(ace): decode live Fleet worker envelopes for Apollo catalog rows | 2026-09-09 11:59:41 EDT |
 
 ## Neighbors
 

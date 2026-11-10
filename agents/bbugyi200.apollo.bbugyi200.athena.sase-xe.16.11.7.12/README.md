@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eee1d8d`](https://github.com/sase-org/sase/commit/eee1d8d12cceb8ec4d8de27ca9d79c3a40b1938c) | feat(ace): make unified agents list unconditional | 2026-09-10 12:43:22 EDT |
+| — | `eee1d8d` | feat(ace): make unified agents list unconditional | 2026-09-10 12:43:22 EDT |
 
 ## Neighbors
 

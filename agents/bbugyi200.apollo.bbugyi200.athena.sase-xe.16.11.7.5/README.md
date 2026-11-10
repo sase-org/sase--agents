@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5b330b2`](https://github.com/sase-org/sase/commit/5b330b242759f5393170cd334d19669b1236c9f1) | feat(ace): use published fleet projection contracts | 2026-09-10 01:42:38 EDT |
+| — | `5b330b2` | feat(ace): use published fleet projection contracts | 2026-09-10 01:42:38 EDT |
 
 ## Neighbors
 

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8c8dfc3`](https://github.com/sase-org/sase/commit/8c8dfc3f6b08a1ce26304fff822f339c9c84b591) | feat(fleet): consume Rust federation counts | 2026-09-09 15:02:16 EDT |
+| — | `8c8dfc3` | feat(fleet): consume Rust federation counts | 2026-09-09 15:02:16 EDT |
 
 ## Neighbors
 

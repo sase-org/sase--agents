@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`18b0a91`](https://github.com/sase-org/sase/commit/18b0a91a264ddd3e9b55a609c9a62c209b87a06a) | feat(machine): add target bootstrap CLI | 2026-09-08 12:39:32 EDT |
+| — | `18b0a91` | feat(machine): add target bootstrap CLI | 2026-09-08 12:39:32 EDT |
 
 ## Neighbors
 

@@ -22,8 +22,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`155aeee`](https://github.com/sase-org/sase/commit/155aeee2efe67b653c4c715888716a116401fdaa) | fix(tui): allow incremental agent refresh under stable search | 2026-09-17 17:20:00 EDT |
-| sase | [`26797a9`](https://github.com/sase-org/sase/commit/26797a95acef0dc653405b8b917b5e82676133ac) | fix(gates): enforce live owner decision integrity | 2026-09-17 18:26:10 EDT |
+| — | `155aeee` | fix(tui): allow incremental agent refresh under stable search | 2026-09-17 17:20:00 EDT |
+| — | `26797a9` | fix(gates): enforce live owner decision integrity | 2026-09-17 18:26:10 EDT |
 
 ## Neighbors
 
@@ -45,13 +45,13 @@
 | [sase-zr.7.3](../bbugyi200.apollo.sase-zr.7.3/README.md) | sase-zr.7 hood | completed |
 | [sase-zr.7.4](../bbugyi200.apollo.sase-zr.7.4/README.md) | sase-zr.7 hood | completed |
 | [sase-zr.7.5](../bbugyi200.apollo.sase-zr.7.5/README.md) | sase-zr.7 hood | completed |
-| [sase-zr.7.land](../bbugyi200.apollo.sase-zr.7.land/README.md) | sase-zr.7 hood | active |
-| [sase-zr.1](../../sessions/bbugyi200.apollo.sase-zr.1.md) (session · 5) | sase-zr hood | active 5 |
+| [sase-zr.7.land](../bbugyi200.apollo.sase-zr.7.land/README.md) | sase-zr.7 hood | dismissed |
+| [sase-zr.1](../../sessions/bbugyi200.apollo.sase-zr.1.md) (session · 5) | sase-zr hood | dismissed 5 |
 | [sase-zr.1](../bbugyi200.apollo.sase-zr.1/README.md) | sase-zr hood | completed |
-| [sase-zr.2](../../sessions/bbugyi200.apollo.sase-zr.2.md) (session · 3) | sase-zr hood | active 3 |
+| [sase-zr.2](../../sessions/bbugyi200.apollo.sase-zr.2.md) (session · 3) | sase-zr hood | dismissed 3 |
 | [sase-zr.2](../bbugyi200.apollo.sase-zr.2/README.md) | sase-zr hood | completed |
-| [sase-zr.3](../bbugyi200.apollo.sase-zr.3/README.md) | sase-zr hood | active |
-| [sase-zr.4](../bbugyi200.apollo.sase-zr.4/README.md) | sase-zr hood | active |
-| [sase-zr.5](../../sessions/bbugyi200.apollo.sase-zr.5.md) (session · 3) | sase-zr hood | active 1, failed 2 |
-| [sase-zr.6](../../sessions/bbugyi200.apollo.sase-zr.6.md) (session · 6) | sase-zr hood | active 6 |
-| [sase-zr.land](../bbugyi200.apollo.sase-zr.land/README.md) | sase-zr hood | waiting |
+| [sase-zr.3](../bbugyi200.apollo.sase-zr.3/README.md) | sase-zr hood | dismissed |
+| [sase-zr.4](../bbugyi200.apollo.sase-zr.4/README.md) | sase-zr hood | dismissed |
+| [sase-zr.5](../../sessions/bbugyi200.apollo.sase-zr.5.md) (session · 3) | sase-zr hood | dismissed 1, failed 2 |
+| [sase-zr.6](../../sessions/bbugyi200.apollo.sase-zr.6.md) (session · 6) | sase-zr hood | dismissed 6 |
+| [sase-zr.land](../bbugyi200.apollo.sase-zr.land/README.md) | sase-zr hood | dismissed |

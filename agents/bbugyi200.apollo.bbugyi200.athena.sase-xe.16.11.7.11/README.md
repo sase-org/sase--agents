@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ea4685b`](https://github.com/sase-org/sase/commit/ea4685b2e1cea95aa55c4e9d6b4df481338e805b) | fix(ace): keep Fleet refresh off j/k hot path | 2026-09-10 09:41:28 EDT |
+| — | `ea4685b` | fix(ace): keep Fleet refresh off j/k hot path | 2026-09-10 09:41:28 EDT |
 
 ## Neighbors
 

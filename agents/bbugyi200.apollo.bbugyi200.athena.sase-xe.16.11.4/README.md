@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`20c7b98`](https://github.com/sase-org/sase/commit/20c7b9804577b7db315f42131b5702379f4d1c49) | feat(dispatch): integrate core setup policy and durable activation | 2026-09-09 10:13:15 EDT |
+| — | `20c7b98` | feat(dispatch): integrate core setup policy and durable activation | 2026-09-09 10:13:15 EDT |
 
 ## Neighbors
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5ca8a60`](https://github.com/sase-org/sase/commit/5ca8a60d2d732e2c2087019b34e93025312ac181) | fix(tui): hide fleet exact attempt fallback | 2026-09-15 15:42:57 EDT |
+| — | `5ca8a60` | fix(tui): hide fleet exact attempt fallback | 2026-09-15 15:42:57 EDT |
 
 ## Neighbors
 
@@ -33,7 +33,7 @@
 | [sase-xe.16.11.7.16.5.2](../bbugyi200.apollo.sase-xe.16.11.7.16.5.2/README.md) | sase-xe.16.11.7.16.5 hood | completed |
 | [sase-xe.16.11.7.16.5.3](../bbugyi200.apollo.sase-xe.16.11.7.16.5.3/README.md) | sase-xe.16.11.7.16.5 hood | completed |
 | [sase-xe.16.11.7.16.5.5.1](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.1/README.md) | sase-xe.16.11.7.16.5 hood | completed |
-| [sase-xe.16.11.7.16.5.5.land](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.land/README.md) | sase-xe.16.11.7.16.5 hood | active |
+| [sase-xe.16.11.7.16.5.5.land](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.land/README.md) | sase-xe.16.11.7.16.5 hood | dismissed |
 | [sase-xe.16.11.7.16.5.land](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.16.5.land.md) (session · 3) | sase-xe.16.11.7.16.5 hood | failed 3 |
 | [sase-xe.16.11.7.16.1](../bbugyi200.apollo.sase-xe.16.11.7.16.1/README.md) | sase-xe.16.11.7.16 hood | completed |
 | [sase-xe.16.11.7.16.2](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.16.2.md) (session · 3) | sase-xe.16.11.7.16 hood | completed 2, failed 1 |

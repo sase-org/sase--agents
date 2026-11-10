@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c1d8efd`](https://github.com/sase-org/sase/commit/c1d8efd3c0a56c779bccdf36b0a2633aa4cf3f83) | feat(dispatch): expose remote attention inventory | 2026-09-09 16:51:12 EDT |
+| — | `c1d8efd` | feat(dispatch): expose remote attention inventory | 2026-09-09 16:51:12 EDT |
 
 ## Neighbors
 

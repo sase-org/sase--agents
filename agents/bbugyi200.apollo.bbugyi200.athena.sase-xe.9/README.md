@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fdfb4e2`](https://github.com/sase-org/sase/commit/fdfb4e238a386b5470a67025da8db1c30bc92e90) | feat(fleet): add durable follow store | 2026-09-06 17:59:43 EDT |
+| — | `fdfb4e2` | feat(fleet): add durable follow store | 2026-09-06 17:59:43 EDT |
 
 ## Neighbors
 

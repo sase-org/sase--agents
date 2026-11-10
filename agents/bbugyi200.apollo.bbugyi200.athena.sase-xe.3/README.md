@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`804c8ed`](https://github.com/sase-org/sase/commit/804c8ed5bed91652fc4ae249b614bc56a8f29d09) | feat(ace): split running loader owner resolution | 2026-09-06 19:07:58 EDT |
+| — | `804c8ed` | feat(ace): split running loader owner resolution | 2026-09-06 19:07:58 EDT |
 
 ## Neighbors
 

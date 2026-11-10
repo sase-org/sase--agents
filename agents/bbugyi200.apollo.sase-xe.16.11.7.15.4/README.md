@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`631e0b5`](https://github.com/sase-org/sase/commit/631e0b510d89ce4fdaa224e9cad3b601c8b3b0ee) | chore(core): ratchet sase-core revision pin to published v0.34.25 | 2026-09-13 22:01:58 EDT |
+| — | `631e0b5` | chore(core): ratchet sase-core revision pin to published v0.34.25 | 2026-09-13 22:01:58 EDT |
 
 ## Neighbors
 
@@ -40,6 +40,6 @@
 | [sase-xe.16.11.7.16.5.3](../bbugyi200.apollo.sase-xe.16.11.7.16.5.3/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.16.5.4](../bbugyi200.apollo.sase-xe.16.11.7.16.5.4/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.16.5.5.1](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.1/README.md) | sase-xe.16.11.7 hood | completed |
-| [sase-xe.16.11.7.16.5.5.land](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.land/README.md) | sase-xe.16.11.7 hood | active |
+| [sase-xe.16.11.7.16.5.5.land](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.land/README.md) | sase-xe.16.11.7 hood | dismissed |
 | [sase-xe.16.11.7.16.5.land](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.16.5.land.md) (session · 3) | sase-xe.16.11.7 hood | failed 3 |
 | [sase-xe.16.11.7.16.land](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.16.land.md) (session · 3) | sase-xe.16.11.7 hood | failed 3 |

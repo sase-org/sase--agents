@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ace9e2c`](https://github.com/sase-org/sase/commit/ace9e2cd468ff998b1a3b849ea3f7adf12820231) | feat(dispatch): discover tailnet machines | 2026-09-08 16:44:35 EDT |
+| — | `ace9e2c` | feat(dispatch): discover tailnet machines | 2026-09-08 16:44:35 EDT |
 
 ## Neighbors
 

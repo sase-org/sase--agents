@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cef3ea9`](https://github.com/sase-org/sase/commit/cef3ea98d969fc3af9f74daacc590aa59b9ab4a3) | feat(ace-tui): make fleet viewer status and banners liveness-honest | 2026-09-10 19:07:21 EDT |
+| — | `cef3ea9` | feat(ace-tui): make fleet viewer status and banners liveness-honest | 2026-09-10 19:07:21 EDT |
 
 ## Neighbors
 

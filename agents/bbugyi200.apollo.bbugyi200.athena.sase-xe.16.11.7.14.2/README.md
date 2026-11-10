@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f22339c`](https://github.com/sase-org/sase/commit/f22339c182702051cd2d8dd104414912721e8172) | fix(agent-index): reconcile dismissed family identities | 2026-09-10 15:40:21 EDT |
+| — | `f22339c` | fix(agent-index): reconcile dismissed family identities | 2026-09-10 15:40:21 EDT |
 
 ## Neighbors
 

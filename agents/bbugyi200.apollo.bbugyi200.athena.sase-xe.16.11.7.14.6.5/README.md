@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f7a5702`](https://github.com/sase-org/sase/commit/f7a570268b414cb15ba544881b3a14693f5b5237) | fix(ace): integrate fleet catalog evidence | 2026-09-11 08:17:30 EDT |
+| — | `f7a5702` | fix(ace): integrate fleet catalog evidence | 2026-09-11 08:17:30 EDT |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8ed00c4`](https://github.com/sase-org/sase/commit/8ed00c4ed67dc85abded7ea31ce8fce49b3cf865) | fix(ace-tui): map remote fleet-row identity fields and suppress stale online chrome | 2026-09-14 09:56:01 EDT |
+| — | `8ed00c4` | fix(ace-tui): map remote fleet-row identity fields and suppress stale online chrome | 2026-09-14 09:56:01 EDT |
 
 ## Neighbors
 
@@ -45,6 +45,6 @@
 | [sase-xe.16.11.7.16.5.3](../bbugyi200.apollo.sase-xe.16.11.7.16.5.3/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.16.5.4](../bbugyi200.apollo.sase-xe.16.11.7.16.5.4/README.md) | sase-xe.16.11.7 hood | completed |
 | [sase-xe.16.11.7.16.5.5.1](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.1/README.md) | sase-xe.16.11.7 hood | completed |
-| [sase-xe.16.11.7.16.5.5.land](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.land/README.md) | sase-xe.16.11.7 hood | active |
+| [sase-xe.16.11.7.16.5.5.land](../bbugyi200.apollo.sase-xe.16.11.7.16.5.5.land/README.md) | sase-xe.16.11.7 hood | dismissed |
 | [sase-xe.16.11.7.16.5.land](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.16.5.land.md) (session · 3) | sase-xe.16.11.7 hood | failed 3 |
 | [sase-xe.16.11.7.16.land](../../sessions/bbugyi200.apollo.sase-xe.16.11.7.16.land.md) (session · 3) | sase-xe.16.11.7 hood | failed 3 |

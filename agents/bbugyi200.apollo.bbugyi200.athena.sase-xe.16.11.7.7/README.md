@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`36d8a1e`](https://github.com/sase-org/sase/commit/36d8a1e0cb49f1cc65996605e150e9b308bbd768) | feat(ace): add durable remote attention inbox | 2026-09-10 08:10:06 EDT |
+| — | `36d8a1e` | feat(ace): add durable remote attention inbox | 2026-09-10 08:10:06 EDT |
 
 ## Neighbors
 

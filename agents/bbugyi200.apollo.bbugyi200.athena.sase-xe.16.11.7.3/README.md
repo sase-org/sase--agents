@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dacce95`](https://github.com/sase-org/sase/commit/dacce95f3b441832bfe5d32544907652b75b57ef) | fix(fleet): continue catalog pages per host | 2026-09-09 20:07:44 EDT |
+| — | `dacce95` | fix(fleet): continue catalog pages per host | 2026-09-09 20:07:44 EDT |
 
 ## Neighbors
 

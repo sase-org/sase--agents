@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`49cddab`](https://github.com/sase-org/sase/commit/49cddaba38ddfe32bb56bf00d13e77828e4c4764) | fix(fleet): surface dismissed index sync failures | 2026-09-10 22:08:14 EDT |
+| — | `49cddab` | fix(fleet): surface dismissed index sync failures | 2026-09-10 22:08:14 EDT |
 
 ## Neighbors
 

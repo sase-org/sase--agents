@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8c4f8fd`](https://github.com/sase-org/sase/commit/8c4f8fd22ae92ddb1e56e67c13778673476aa79d) | test(tui): add offline fleet refresh fixture | 2026-09-08 10:49:43 EDT |
+| — | `8c4f8fd` | test(tui): add offline fleet refresh fixture | 2026-09-08 10:49:43 EDT |
 
 ## Neighbors
 

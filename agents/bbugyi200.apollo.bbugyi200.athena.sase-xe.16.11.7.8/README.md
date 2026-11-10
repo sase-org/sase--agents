@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`66773a2`](https://github.com/sase-org/sase/commit/66773a2b3cb0890735841a3416dd393f3124e6e4) | feat(ace): unify remote agent row actions | 2026-09-10 07:10:45 EDT |
+| — | `66773a2` | feat(ace): unify remote agent row actions | 2026-09-10 07:10:45 EDT |
 
 ## Neighbors
 
