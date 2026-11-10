@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6308174`](https://github.com/sase-org/sase/commit/630817489aec8f2230109101de4532a3062e70fe) | fix(gate): treat gate handoffs as successful shell handoffs | 2026-08-27 20:07:22 EDT |
+| — | `6308174` | fix(gate): treat gate handoffs as successful shell handoffs | 2026-08-27 20:07:22 EDT |

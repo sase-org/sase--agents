@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8e32b47`](https://github.com/sase-org/sase/commit/8e32b47b36f7e0c9da1d76f7760f57d28d3f69d9) | feat(bead): route show across enabled projects | 2026-08-28 11:17:29 EDT |
+| — | `8e32b47` | feat(bead): route show across enabled projects | 2026-08-28 11:17:29 EDT |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d929ed8`](https://github.com/sase-org/sase/commit/d929ed82bd1b698d4bd010bb8147cc98c459e519) | test(selection): record current flake baseline debt | 2026-08-28 08:05:06 EDT |
+| — | `d929ed8` | test(selection): record current flake baseline debt | 2026-08-28 08:05:06 EDT |

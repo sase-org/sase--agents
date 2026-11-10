@@ -2,8 +2,8 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 0f8
 
-**Global hood:** `bbugyi200.athena.0f8` · **Runs:** 1 · **Sessions:** 0 · **States:** active 1
+**Global hood:** `bbugyi200.athena.0f8` · **Runs:** 1 · **Sessions:** 0 · **States:** dismissed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [0f8](../../../../../../agents/bbugyi200.athena.0f8/README.md) | active | gpt-5.5 / codex | 2026-08-27T18:32:16.919504+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.0f8/prompt.md) |
+| [0f8](../../../../../../agents/bbugyi200.athena.0f8/README.md) | dismissed | gpt-5.5 / codex | 2026-08-27T14:32:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.0f8/prompt.md) |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`65e0974`](https://github.com/sase-org/sase/commit/65e09744a0180e86a21574be01dfc6882d90b969) | fix(pager): bound hint capsule styles | 2026-08-28 07:22:48 EDT |
+| — | `65e0974` | fix(pager): bound hint capsule styles | 2026-08-28 07:22:48 EDT |
