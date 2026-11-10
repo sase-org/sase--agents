@@ -1,0 +1,32 @@
+# Session: sase-1s7.3
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [sase-1s7](../users/bbugyi200/machines/athena/hoods/sase-1s7/README.md) / sase-1s7.3
+
+Owner: `bbugyi200.athena` · Hood: `sase-1s7` · Members: 2 · Bead: [sase-1s7.3](https://github.com/sase-org/sase--beads/blob/main/pages/sase-1s7/sase-1s7.3.md)
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["sase-1s7.3--mon [active]"]
+  n1["sase-1s7.3--plan [completed]"]
+  n0 --> n1
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-mon"></a>mon | sase-1s7.3--mon | active | grok-4.6 / grok | 2026-11-10T19:45:34.098940+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | sase-1s7.3--plan | completed | grok-4.6 / grok | 2026-11-10T19:41:53.967337+00:00 → 2026-11-10T19:46:19.380127+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1s7.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1s7.3--plan/chat.md) |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [sase-1s7.1](bbugyi200.athena.sase-1s7.1.md) (session · 3) | sase-1s7 hood | active 1, completed 2 |
+| [sase-1s7.2](../agents/bbugyi200.athena.sase-1s7.2/README.md) | sase-1s7 hood | completed |
+| [sase-1s7.4](../agents/bbugyi200.athena.sase-1s7.4/README.md) | sase-1s7 hood | waiting |
+| [sase-1s7.5](../agents/bbugyi200.athena.sase-1s7.5/README.md) | sase-1s7 hood | waiting |
+| [sase-1s7.6](../agents/bbugyi200.athena.sase-1s7.6/README.md) | sase-1s7 hood | waiting |
+| [sase-1s7.land](../agents/bbugyi200.athena.sase-1s7.land/README.md) | sase-1s7 hood | waiting |
