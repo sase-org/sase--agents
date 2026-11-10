@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`59dde52`](https://github.com/sase-org/sase/commit/59dde523c37cbc0d629cdab41e82d89c986cdccb) | feat(axe): clean launch scratch on runner exit | 2026-09-14 11:59:47 EDT |
+| — | `59dde52` | feat(axe): clean launch scratch on runner exit | 2026-09-14 11:59:47 EDT |

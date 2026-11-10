@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0kk](../../users/bbugyi200/machines/athena/hoods/0kk/README.md) / [0kk](../../sessions/bbugyi200.athena.0kk.md) / 0kk--plan
 
-**Global name:** `bbugyi200.athena.0kk--plan` · **State:** active · **Source run:** `run-b2729e62ce6373b6017460be8c8886f6`
+**Global name:** `bbugyi200.athena.0kk--plan` · **State:** dismissed · **Source run:** `run-b2729e62ce6373b6017460be8c8886f6`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0kk
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-09-14T14:32:51.310283+00:00
+- Timing: 2026-09-14T10:32:51.310283 → 2026-09-14T10:51:32.654316
 - Commits: 0
 
 ## Files

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a59ded7`](https://github.com/sase-org/sase/commit/a59ded7669c59b7e80fc5d1794ff6e15f7e26c93) | feat(ace,pager): open agent metadata in the pager with V | 2026-09-13 22:21:01 EDT |
+| — | `a59ded7` | feat(ace,pager): open agent metadata in the pager with V | 2026-09-13 22:21:01 EDT |

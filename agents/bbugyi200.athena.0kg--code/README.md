@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f86056c`](https://github.com/sase-org/sase/commit/f86056c7fd08d94f6dcf0ce2ac094249fc9f54ea) | feat(ace): convert argument colons when typing parens | 2026-09-14 08:41:47 EDT |
+| — | `f86056c` | feat(ace): convert argument colons when typing parens | 2026-09-14 08:41:47 EDT |

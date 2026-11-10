@@ -11,7 +11,7 @@ flowchart TD
   n0["0kk--code [completed]"]
   n1["0kk--gate [failed]"]
   n0 --> n1
-  n2["0kk--plan [active]"]
+  n2["0kk--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,10 +21,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 0kk--code | completed | gpt-5.5 / codex | 2026-09-14T14:52:56.145631+00:00 → 2026-09-14T16:06:44.583323+00:00 | [1](../agents/bbugyi200.athena.0kk--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0kk--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0kk--code/chat.md) |
 | <a id="member-gate"></a>gate | 0kk--gate | failed | opus / claude | 2026-09-14T14:51:29.491531+00:00 → 2026-09-14T14:52:34.358879+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0kk--gate/chat.md) |
-| <a id="member-plan"></a>plan | 0kk--plan | active | opus / claude | 2026-09-14T14:32:51.310283+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0kk--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0kk--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0kk--plan | dismissed | opus / claude | 2026-09-14T10:32:51.310283 → 2026-09-14T10:51:32.654316 | 0 | [Prompt](../agents/bbugyi200.athena.0kk--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0kk--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`59dde52`](https://github.com/sase-org/sase/commit/59dde523c37cbc0d629cdab41e82d89c986cdccb) | feat(axe): clean launch scratch on runner exit | 2026-09-14 11:59:47 EDT |
+| code | — | `59dde52` | feat(axe): clean launch scratch on runner exit | 2026-09-14 11:59:47 EDT |

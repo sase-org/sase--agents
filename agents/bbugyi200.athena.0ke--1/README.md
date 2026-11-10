@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9429544`](https://github.com/sase-org/sase/commit/9429544b531f1c12120ee969ab724ebf0fb2ab27) | feat(beads): make --capacity admissible for every epic segment | 2026-09-13 06:05:49 EDT |
+| — | `9429544` | feat(beads): make --capacity admissible for every epic segment | 2026-09-13 06:05:49 EDT |

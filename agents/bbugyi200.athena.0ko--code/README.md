@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`04005a2`](https://github.com/sase-org/sase/commit/04005a222c6648aeccd2200ecbc035ac222c5f12) | fix(bead): verify worker stops before forced reuse | 2026-09-14 12:57:35 EDT |
+| — | `04005a2` | fix(bead): verify worker stops before forced reuse | 2026-09-14 12:57:35 EDT |
