@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0gr` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["0gr.f0--plan [active]"]
+  n0["0gr.f0--plan [dismissed]"]
   n1["0gr.f0--gate [failed]"]
   n0 --> n1
   n2["0gr.f0--code [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0gr.f0--plan | active | claude-fable-5 / claude | 2026-09-06T18:56:41.752709+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0gr.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0gr.f0--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0gr.f0--plan | dismissed | claude-fable-5 / claude | 2026-09-06T14:56:41.752709 → 2026-09-06T15:15:02.879668 | 0 | [Prompt](../agents/bbugyi200.athena.0gr.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0gr.f0--plan/chat.md) |
 | <a id="member-gate"></a>gate | 0gr.f0--gate | failed | claude-fable-5 / claude | 2026-09-06T19:14:52.782755+00:00 → 2026-09-06T19:16:10.167603+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0gr.f0--gate/chat.md) |
 | <a id="member-code"></a>code | 0gr.f0--code | completed | gpt-5.5 / codex | 2026-09-06T19:16:17.473941+00:00 → 2026-09-06T21:20:03.374084+00:00 | [1](../agents/bbugyi200.athena.0gr.f0--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0gr.f0--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0gr.f0--code/chat.md) |
 
@@ -27,10 +27,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`78fdf65`](https://github.com/sase-org/sase/commit/78fdf65b8501c7615f67ea0979ce3d6893a4a7a2) | fix(commit): handle no-commit conflict resumes | 2026-09-06 17:16:44 EDT |
+| code | — | `78fdf65` | fix(commit): handle no-commit conflict resumes | 2026-09-06 17:16:44 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0gr](bbugyi200.athena.0gr.md) (session · 7) | ancestor | active 1, failed 6 |
+| [0gr](bbugyi200.athena.0gr.md) (session · 7) | ancestor | dismissed 1, failed 6 |

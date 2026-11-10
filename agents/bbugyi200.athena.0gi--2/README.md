@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a945518`](https://github.com/sase-org/sase/commit/a9455184f1774d6c7553288b4b4bab378b0bb911) | chore(sase-core): ratchet core pin to fe9a643c | 2026-09-05 18:41:36 EDT |
+| — | `a945518` | chore(sase-core): ratchet core pin to fe9a643c | 2026-09-05 18:41:36 EDT |

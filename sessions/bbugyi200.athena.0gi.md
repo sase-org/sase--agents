@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0gi` · Members: 7
 
 ```mermaid
 flowchart TD
-  n0["0gi--plan [active]"]
+  n0["0gi--plan [dismissed]"]
   n1["0gi--1 [completed]"]
   n0 --> n1
   n2["0gi--mon-0 [failed]"]
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0gi--plan | active | claude-fable-5 / claude | 2026-09-05T22:02:06.743847+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0gi--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0gi--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0gi--plan | dismissed | claude-fable-5 / claude | 2026-09-05T18:02:06.743847 → 2026-09-05T18:09:32.146072 | 0 | [Prompt](../agents/bbugyi200.athena.0gi--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0gi--plan/chat.md) |
 | <a id="member-1"></a>1 | 0gi--1 | completed | sonnet / claude | 2026-09-05T22:28:14.702378+00:00 → 2026-09-05T22:36:28.978465+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0gi--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0gi--1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 0gi--mon-0 | failed | sonnet / claude | 2026-09-05T22:36:19.927173+00:00 → 2026-09-05T22:40:02.942317+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0gi--mon-0/chat.md) |
 | <a id="member-mon"></a>mon | 0gi--mon | failed | sonnet / claude | 2026-09-05T22:12:36.477490+00:00 → 2026-09-05T22:27:54.952703+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0gi--mon/chat.md) |
@@ -39,4 +39,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | sase | [`a945518`](https://github.com/sase-org/sase/commit/a9455184f1774d6c7553288b4b4bab378b0bb911) | chore(sase-core): ratchet core pin to fe9a643c | 2026-09-05 18:41:36 EDT |
+| 2 | — | `a945518` | chore(sase-core): ratchet core pin to fe9a643c | 2026-09-05 18:41:36 EDT |

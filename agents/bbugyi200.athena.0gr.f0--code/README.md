@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`78fdf65`](https://github.com/sase-org/sase/commit/78fdf65b8501c7615f67ea0979ce3d6893a4a7a2) | fix(commit): handle no-commit conflict resumes | 2026-09-06 17:16:44 EDT |
+| — | `78fdf65` | fix(commit): handle no-commit conflict resumes | 2026-09-06 17:16:44 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0gr](../../sessions/bbugyi200.athena.0gr.md) (session · 7) | ancestor | active 1, failed 6 |
+| [0gr](../../sessions/bbugyi200.athena.0gr.md) (session · 7) | ancestor | dismissed 1, failed 6 |
