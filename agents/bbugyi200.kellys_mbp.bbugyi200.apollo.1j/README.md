@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0247b65`](https://github.com/sase-org/sase/commit/0247b657d0dd0b79d8c1f9f9cda43b50b304abe3) | feat(ace): give the top-bar updates badge its own visual language | 2026-09-22 15:47:16 EDT |
+| — | `0247b65` | feat(ace): give the top-bar updates badge its own visual language | 2026-09-22 15:47:16 EDT |
