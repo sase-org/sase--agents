@@ -24,6 +24,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [6f](../../sessions/bbugyi200.apollo.6f.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [6f](../../sessions/bbugyi200.apollo.6f.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
 | [6f.cld.f1.cdx](../bbugyi200.apollo.6f.cld.f1.cdx/README.md) | descendant | completed |
 | [6f.cld.f1.cdx.f1](../bbugyi200.apollo.6f.cld.f1.cdx.f1/README.md) | descendant | completed |
