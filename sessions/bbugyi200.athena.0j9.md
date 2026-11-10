@@ -8,17 +8,17 @@ Owner: `bbugyi200.athena` · Hood: `0j9` · Members: 1
 
 ```mermaid
 flowchart TD
-  n0["0j9--0 [active]"]
+  n0["0j9--0 [dismissed]"]
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-0"></a>0 | 0j9--0 | active | gpt-6-astra / codex | 2026-09-12T06:45:00.264628+00:00 | [1](../agents/bbugyi200.athena.0j9--0/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0j9--0/prompt.md) | [Chat](../agents/bbugyi200.athena.0j9--0/chat.md) |
+| <a id="member-0"></a>0 | 0j9--0 | dismissed | gpt-6-astra / codex | 2026-09-12T02:45:00.264628 → 2026-09-12T03:09:41.189535 | [1](../agents/bbugyi200.athena.0j9--0/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0j9--0/prompt.md) | [Chat](../agents/bbugyi200.athena.0j9--0/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 0 | sase | [`3703e0b`](https://github.com/sase-org/sase/commit/3703e0bfd8b416cf4925887674a05d9cff7aed9d) | chore(config): raise pipe limit for notification task review chain | 2026-09-12 03:03:56 EDT |
+| 0 | — | `3703e0b` | chore(config): raise pipe limit for notification task review chain | 2026-09-12 03:03:56 EDT |

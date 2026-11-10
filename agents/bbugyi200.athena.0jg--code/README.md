@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`71717d9`](https://github.com/sase-org/sase/commit/71717d95a009416058ce7f277009bcf6e2882e2f) | fix(gate-shell): recover approved tale coder handoffs | 2026-09-11 12:42:15 EDT |
+| — | `71717d9` | fix(gate-shell): recover approved tale coder handoffs | 2026-09-11 12:42:15 EDT |

@@ -11,7 +11,7 @@ flowchart TD
   n0["0jb--code [completed]"]
   n1["0jb--gate [failed]"]
   n0 --> n1
-  n2["0jb--plan [active]"]
+  n2["0jb--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,10 +21,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 0jb--code | completed | gpt-5.5 / codex | 2026-09-11T13:12:16.236621+00:00 → 2026-09-11T14:15:53.564284+00:00 | [1](../agents/bbugyi200.athena.0jb--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0jb--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0jb--code/chat.md) |
 | <a id="member-gate"></a>gate | 0jb--gate | failed | gpt-6-astra / codex | 2026-09-11T13:09:46.284790+00:00 → 2026-09-11T13:11:55.480539+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0jb--gate/chat.md) |
-| <a id="member-plan"></a>plan | 0jb--plan | active | gpt-6-astra / codex | 2026-09-11T12:57:58.446747+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0jb--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0jb--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0jb--plan | dismissed | gpt-6-astra / codex | 2026-09-11T08:57:58.446747 → 2026-09-11T09:06:00.718111 | 0 | [Prompt](../agents/bbugyi200.athena.0jb--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0jb--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`e0aa727`](https://github.com/sase-org/sase/commit/e0aa727b6c70717f0ca570ee70a258c31dd69c8c) | fix: recover sidecar publication retries | 2026-09-11 10:08:54 EDT |
+| code | — | `e0aa727` | fix: recover sidecar publication retries | 2026-09-11 10:08:54 EDT |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0jb](../../users/bbugyi200/machines/athena/hoods/0jb/README.md) / [0jb](../../sessions/bbugyi200.athena.0jb.md) / 0jb--plan
 
-**Global name:** `bbugyi200.athena.0jb--plan` · **State:** active · **Source run:** `run-a20d6a783579a42620378a476b8d4e43`
+**Global name:** `bbugyi200.athena.0jb--plan` · **State:** dismissed · **Source run:** `run-a20d6a783579a42620378a476b8d4e43`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0jb
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-09-11T12:57:58.446747+00:00
+- Timing: 2026-09-11T08:57:58.446747 → 2026-09-11T09:06:00.718111
 - Commits: 0
 
 ## Files

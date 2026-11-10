@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2b81149`](https://github.com/sase-org/sase/commit/2b811499c4b661f3b98919a27136b133ce1e20c8) | fix(repo): route provider aliases to configured checkouts | 2026-09-11 10:20:25 EDT |
+| — | `2b81149` | fix(repo): route provider aliases to configured checkouts | 2026-09-11 10:20:25 EDT |

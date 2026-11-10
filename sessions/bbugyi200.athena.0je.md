@@ -21,7 +21,7 @@ flowchart TD
   n0 --> n5
   n6["0je--2 [completed]"]
   n0 --> n6
-  n7["0je--plan [active]"]
+  n7["0je--plan [dismissed]"]
   n0 --> n7
   n8["0je--4 [completed]"]
   n0 --> n8
@@ -52,7 +52,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-1"></a>mon-1 | 0je--mon-1 | failed | grok-4.6 / grok | 2026-09-11T16:02:34.713008+00:00 → 2026-09-11T16:05:07.013205+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0je--mon-1/chat.md) |
 | <a id="member-mon"></a>mon | 0je--mon | failed | grok-4.6 / grok | 2026-09-11T15:29:03.354693+00:00 → 2026-09-11T15:37:49.482101+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0je--mon/chat.md) |
 | <a id="member-2"></a>2 | 0je--2 | completed | grok-4.6 / grok | 2026-09-11T15:51:33.418630+00:00 → 2026-09-11T16:03:03.571311+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0je--2/prompt.md) | [Chat](../agents/bbugyi200.athena.0je--2/chat.md) |
-| <a id="member-plan"></a>plan | 0je--plan | active | gpt-6-astra / codex | 2026-09-11T13:53:51.295609+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0je--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0je--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0je--plan | dismissed | gpt-6-astra / codex | 2026-09-11T09:53:51.295609 → 2026-09-11T10:02:36.725157 | 0 | [Prompt](../agents/bbugyi200.athena.0je--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0je--plan/chat.md) |
 | <a id="member-4"></a>4 | 0je--4 | completed | grok-4.6 / grok | 2026-09-11T16:25:12.468659+00:00 → 2026-09-11T16:45:55.503790+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0je--4/prompt.md) | [Chat](../agents/bbugyi200.athena.0je--4/chat.md) |
 | <a id="member-5"></a>5 | 0je--5 | completed | grok-4.6 / grok | 2026-09-11T16:49:43.941163+00:00 → 2026-09-11T16:56:47.999724+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0je--5/prompt.md) | [Chat](../agents/bbugyi200.athena.0je--5/chat.md) |
 | <a id="member-6"></a>6 | 0je--6 | completed | grok-4.6 / grok | 2026-09-11T17:04:39.617877+00:00 → 2026-09-11T17:10:51.347305+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0je--6/prompt.md) | [Chat](../agents/bbugyi200.athena.0je--6/chat.md) |
@@ -66,4 +66,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`db535fa`](https://github.com/sase-org/sase/commit/db535fabda4620af1e4123630f41a18d4636fce0) | fix(llm-provider): collect Grok omitted-zero billing through core | 2026-09-11 11:21:47 EDT |
+| code | — | `db535fa` | fix(llm-provider): collect Grok omitted-zero billing through core | 2026-09-11 11:21:47 EDT |
