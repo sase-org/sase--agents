@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [9t](../../users/bbugyi200/machines/apollo/hoods/9t/README.md) / [9t](../../sessions/bbugyi200.apollo.9t.md) / 9t--0
 
-**Global name:** `bbugyi200.apollo.9t--0` · **State:** active · **Source run:** `run-7ecbe0139521e1a700c0c2f3dc4cee5a`
+**Global name:** `bbugyi200.apollo.9t--0` · **State:** dismissed · **Source run:** `run-7ecbe0139521e1a700c0c2f3dc4cee5a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 9t
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-21T11:05:31.514867+00:00
+- Timing: 2026-10-21T07:05:31.514867 → 2026-10-21T07:15:17.874175
 - Commits: 0
 
 ## Files

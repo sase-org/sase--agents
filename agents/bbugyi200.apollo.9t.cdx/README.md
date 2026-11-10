@@ -17,13 +17,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`93bdcc6`](https://github.com/sase-org/sase/commit/93bdcc614a6e341f609149d17984a3e51aeaf02a) | chore: Add SDD prompt and plan for bad\_fanout\_xprompt | 2026-06-17 14:24:00 EDT |
-| sase | [`fb921a3`](https://github.com/sase-org/sase/commit/fb921a31125f83b0aee8654f093028eb79c002bc) | fix(tui): expand launch-shaping xprompts before planning fan-out | 2026-06-17 14:37:11 EDT |
+| — | `93bdcc6` | chore: Add SDD prompt and plan for bad\_fanout\_xprompt | 2026-06-17 14:24:00 EDT |
+| — | `fb921a3` | fix(tui): expand launch-shaping xprompts before planning fan-out | 2026-06-17 14:37:11 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [9t](../../sessions/bbugyi200.apollo.9t.md) (session · 8) | ancestor | active 1, completed 3, failed 4 |
+| [9t](../../sessions/bbugyi200.apollo.9t.md) (session · 8) | ancestor | completed 3, dismissed 1, failed 4 |
 | [9t--4--plan](../bbugyi200.apollo.9t--4--plan/README.md) | 9t hood | completed |
 | [9t--4--review](../bbugyi200.apollo.9t--4--review/README.md) | 9t hood | completed |

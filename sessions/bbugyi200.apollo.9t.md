@@ -11,7 +11,7 @@ flowchart TD
   n0["9t--mon [failed]"]
   n1["9t--gate [failed]"]
   n0 --> n1
-  n2["9t--0 [active]"]
+  n2["9t--0 [dismissed]"]
   n0 --> n2
   n3["9t--3 [completed]"]
   n0 --> n3
@@ -31,7 +31,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | 9t--mon | failed | gpt-6-astra / codex | 2026-10-21T11:14:19.581126+00:00 → 2026-10-21T11:24:46.764047+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.9t--mon/chat.md) |
 | <a id="member-gate"></a>gate | 9t--gate | failed | gpt-6-astra / codex | 2026-10-21T16:19:17.833153+00:00 → 2026-10-21T16:19:46.287495+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.9t--gate/chat.md) |
-| <a id="member-0"></a>0 | 9t--0 | active | gpt-6-astra / codex | 2026-10-21T11:05:31.514867+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.9t--0/prompt.md) | [Chat](../agents/bbugyi200.apollo.9t--0/chat.md) |
+| <a id="member-0"></a>0 | 9t--0 | dismissed | gpt-6-astra / codex | 2026-10-21T07:05:31.514867 → 2026-10-21T07:15:17.874175 | 0 | [Prompt](../agents/bbugyi200.apollo.9t--0/prompt.md) | [Chat](../agents/bbugyi200.apollo.9t--0/chat.md) |
 | <a id="member-3"></a>3 | 9t--3 | completed | gpt-6-astra / codex | 2026-10-21T12:02:43.863138+00:00 → 2026-10-21T12:10:54.267283+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.9t--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.9t--3/chat.md) |
 | <a id="member-2"></a>2 | 9t--2 | completed | gpt-6-astra / codex | 2026-10-21T11:40:21.668750+00:00 → 2026-10-21T11:48:32.599523+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.9t--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.9t--2/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 9t--mon-0 | failed | gpt-6-astra / codex | 2026-10-21T11:36:30.790551+00:00 → 2026-10-21T11:40:21.764817+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.9t--mon-0/chat.md) |
@@ -42,7 +42,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`ede79bc`](https://github.com/sase-org/sase/commit/ede79bc989570e82fe5ed8da00f425b8e924e48d) | fix(ace): compact SASE plan heading | 2026-07-15 18:12:20 EDT |
+| — | — | `ede79bc` | fix(ace): compact SASE plan heading | 2026-07-15 18:12:20 EDT |
 
 ## Variables
 

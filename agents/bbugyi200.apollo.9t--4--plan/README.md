@@ -65,6 +65,6 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [9t](../../sessions/bbugyi200.apollo.9t.md) (session · 8) | ancestor | active 1, completed 3, failed 4 |
+| [9t](../../sessions/bbugyi200.apollo.9t.md) (session · 8) | ancestor | completed 3, dismissed 1, failed 4 |
 | [9t--4--review](../bbugyi200.apollo.9t--4--review/README.md) | 9t hood | completed |
 | [9t.cdx](../bbugyi200.apollo.9t.cdx/README.md) | 9t hood | completed |
