@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [0e](../../users/bbugyi200/machines/apollo/hoods/0e/README.md) / [0e.w0](../../sessions/bbugyi200.apollo.0e.w0.md) / 0e.w0--plan
 
-**Global name:** `bbugyi200.apollo.0e.w0--plan` · **State:** active · **Source run:** `run-d48b4ad6e1880d7ff19ce66fa734ce98`
+**Global name:** `bbugyi200.apollo.0e.w0--plan` · **State:** dismissed · **Source run:** `run-d48b4ad6e1880d7ff19ce66fa734ce98`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 0e
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-09-17T22:12:51.086252+00:00
+- Timing: 2026-09-17T18:12:51.086252 → 2026-09-17T18:24:10.913051
 - Commits: 0
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0e](../../sessions/bbugyi200.apollo.0e.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0e](../../sessions/bbugyi200.apollo.0e.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
 | [0e.f0](../../sessions/bbugyi200.apollo.0e.f0.md) (session · 5) | 0e hood | completed 3, failed 2 |
 | [0e.f0.f0](../../sessions/bbugyi200.apollo.0e.f0.f0.md) (session · 7) | 0e hood | completed 4, failed 3 |
 | [0e.f0.f0.w0](../../sessions/bbugyi200.apollo.0e.f0.f0.w0.md) (session · 3) | 0e hood | completed 2, failed 1 |

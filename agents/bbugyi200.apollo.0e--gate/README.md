@@ -24,7 +24,7 @@
 | [0e.f0](../../sessions/bbugyi200.apollo.0e.f0.md) (session · 5) | descendant | completed 3, failed 2 |
 | [0e.f0.f0](../../sessions/bbugyi200.apollo.0e.f0.f0.md) (session · 7) | descendant | completed 4, failed 3 |
 | [0e.f0.f0.w0](../../sessions/bbugyi200.apollo.0e.f0.f0.w0.md) (session · 3) | descendant | completed 2, failed 1 |
-| [0e.w0](../../sessions/bbugyi200.apollo.0e.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [0e.w0](../../sessions/bbugyi200.apollo.0e.w0.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |
 | [0e.w1](../bbugyi200.apollo.0e.w1/README.md) | descendant | completed |
 | [0e.w1.w1](../bbugyi200.apollo.0e.w1.w1/README.md) | descendant | completed |
 | [0e.w1.w1.w1](../bbugyi200.apollo.0e.w1.w1.w1/README.md) | descendant | completed |

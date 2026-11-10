@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `0e` · Members: 3
 ```mermaid
 flowchart TD
   n0["0e.w0--gate [failed]"]
-  n1["0e.w0--plan [active]"]
+  n1["0e.w0--plan [dismissed]"]
   n0 --> n1
   n2["0e.w0--code [completed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 0e.w0--gate | failed | gpt-5.6-sol / codex | 2026-09-18T07:07:44.029834+00:00 → 2026-09-18T07:08:08.992298+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.0e.w0--gate/chat.md) |
-| <a id="member-plan"></a>plan | 0e.w0--plan | active | gpt-5.6-sol / codex | 2026-09-17T22:12:51.086252+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.0e.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.0e.w0--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0e.w0--plan | dismissed | gpt-5.6-sol / codex | 2026-09-17T18:12:51.086252 → 2026-09-17T18:24:10.913051 | 0 | [Prompt](../agents/bbugyi200.apollo.0e.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.0e.w0--plan/chat.md) |
 | <a id="member-code"></a>code | 0e.w0--code | completed | gpt-5.5 / codex | 2026-09-18T07:08:12.313344+00:00 → 2026-09-18T08:40:14.992430+00:00 | [1](../agents/bbugyi200.apollo.0e.w0--code/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.0e.w0--code/prompt.md) | [Chat](../agents/bbugyi200.apollo.0e.w0--code/chat.md) |
 
 ## Commits
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [0e](bbugyi200.apollo.0e.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0e](bbugyi200.apollo.0e.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
 | [0e.f0](bbugyi200.apollo.0e.f0.md) (session · 5) | 0e hood | completed 3, failed 2 |
 | [0e.f0.f0](bbugyi200.apollo.0e.f0.f0.md) (session · 7) | 0e hood | completed 4, failed 3 |
 | [0e.f0.f0.w0](bbugyi200.apollo.0e.f0.f0.w0.md) (session · 3) | 0e hood | completed 2, failed 1 |
