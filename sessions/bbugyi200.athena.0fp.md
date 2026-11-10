@@ -11,7 +11,7 @@ flowchart TD
   n0["0fp--2 [completed]"]
   n1["0fp--1 [completed]"]
   n0 --> n1
-  n2["0fp--plan [active]"]
+  n2["0fp--plan [dismissed]"]
   n0 --> n2
   n3["0fp--3 [completed]"]
   n0 --> n3
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-2"></a>2 | 0fp--2 | completed | grok-4.6 / grok | 2026-08-28T20:07:24.221005+00:00 → 2026-08-28T20:20:36.480627+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0fp--2/prompt.md) | [Chat](../agents/bbugyi200.athena.0fp--2/chat.md) |
 | <a id="member-1"></a>1 | 0fp--1 | completed | grok-4.6 / grok | 2026-08-28T19:39:33.871139+00:00 → 2026-08-28T19:47:07.869561+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0fp--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0fp--1/chat.md) |
-| <a id="member-plan"></a>plan | 0fp--plan | active | opus / claude | 2026-08-28T18:30:18.556667+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0fp--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0fp--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0fp--plan | dismissed | opus / claude | 2026-08-28T14:30:04 | 0 | [Prompt](../agents/bbugyi200.athena.0fp--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0fp--plan/chat.md) |
 | <a id="member-3"></a>3 | 0fp--3 | completed | grok-4.6 / grok | 2026-08-28T20:46:19.015266+00:00 → 2026-08-28T21:03:13.377535+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0fp--3/prompt.md) | [Chat](../agents/bbugyi200.athena.0fp--3/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 0fp--mon-0 | failed | grok-4.6 / grok | 2026-08-28T19:46:42.811898+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0fp--mon-0/chat.md) |
 | <a id="member-gate"></a>gate | 0fp--gate | failed | opus / claude | 2026-08-28T18:51:51.332885+00:00 → 2026-08-28T18:52:57.718375+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0fp--gate/chat.md) |
@@ -45,4 +45,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`6e8744c`](https://github.com/sase-org/sase/commit/6e8744c1013729a53241d6ba86f5318431ed8849) | fix(ace): converge completion toast with agent-list done state | 2026-08-28 17:02:01 EDT |
+| — | — | `6e8744c` | fix(ace): converge completion toast with agent-list done state | 2026-08-28 17:02:01 EDT |

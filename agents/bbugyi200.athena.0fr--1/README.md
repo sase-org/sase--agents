@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`45a0a88`](https://github.com/sase-org/sase/commit/45a0a8880a4e0c7f55e15ca30959fe8f63b7fde3) | fix(ace): complete the Agents window prefix once after first paint | 2026-08-28 18:34:13 EDT |
+| — | `45a0a88` | fix(ace): complete the Agents window prefix once after first paint | 2026-08-28 18:34:13 EDT |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`72a96a8`](https://github.com/sase-org/sase/commit/72a96a801dbf8eeb6ee5b1459af94e9626ffb2ed) | fix(ace): keep pending gate shells visible in the Agents tab | 2026-08-29 06:52:23 EDT |
+| — | `72a96a8` | fix(ace): keep pending gate shells visible in the Agents tab | 2026-08-29 06:52:23 EDT |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`affc43a`](https://github.com/sase-org/sase/commit/affc43a6fef74e33c1c3edfb6cc51b5a978e20af) | docs(memory): apply AGENTS v2 #a annotation trims | 2026-08-28 17:48:54 EDT |
+| — | `affc43a` | docs(memory): apply AGENTS v2 #a annotation trims | 2026-08-28 17:48:54 EDT |

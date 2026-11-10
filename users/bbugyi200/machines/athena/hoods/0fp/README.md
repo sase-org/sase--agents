@@ -2,13 +2,13 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 0fp
 
-**Global hood:** `bbugyi200.athena.0fp` · **Runs:** 9 · **Sessions:** 1 · **States:** active 1, completed 4, failed 4
+**Global hood:** `bbugyi200.athena.0fp` · **Runs:** 9 · **Sessions:** 1 · **States:** completed 4, dismissed 1, failed 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [0fp--2](../../../../../../sessions/bbugyi200.athena.0fp.md#member-2) | completed | grok-4.6 / grok | 2026-08-28T20:07:24.221005+00:00 → 2026-08-28T20:20:36.480627+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0fp--2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0fp--2/prompt.md) |
 | [0fp--1](../../../../../../sessions/bbugyi200.athena.0fp.md#member-1) | completed | grok-4.6 / grok | 2026-08-28T19:39:33.871139+00:00 → 2026-08-28T19:47:07.869561+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0fp--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0fp--1/prompt.md) |
-| [0fp--plan](../../../../../../sessions/bbugyi200.athena.0fp.md#member-plan) | active | opus / claude | 2026-08-28T18:30:18.556667+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0fp--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0fp--plan/prompt.md) |
+| [0fp--plan](../../../../../../sessions/bbugyi200.athena.0fp.md#member-plan) | dismissed | opus / claude | 2026-08-28T14:30:04 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0fp--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0fp--plan/prompt.md) |
 | [0fp--3](../../../../../../sessions/bbugyi200.athena.0fp.md#member-3) | completed | grok-4.6 / grok | 2026-08-28T20:46:19.015266+00:00 → 2026-08-28T21:03:13.377535+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0fp--3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0fp--3/prompt.md) |
 | [0fp--mon-0](../../../../../../sessions/bbugyi200.athena.0fp.md#member-mon-0) | failed | grok-4.6 / grok | 2026-08-28T19:46:42.811898+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0fp--mon-0/chat.md) |
 | [0fp--gate](../../../../../../sessions/bbugyi200.athena.0fp.md#member-gate) | failed | opus / claude | 2026-08-28T18:51:51.332885+00:00 → 2026-08-28T18:52:57.718375+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0fp--gate/chat.md) |
