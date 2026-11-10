@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c671169`](https://github.com/sase-org/sase/commit/c6711695aa60c53f6224aa82113c9aa00ff8a977) | feat(ace): remove the Agent Cleanup clan chooser | 2026-09-05 18:16:56 EDT |
+| — | `c671169` | feat(ace): remove the Agent Cleanup clan chooser | 2026-09-05 18:16:56 EDT |

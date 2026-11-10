@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0gd` · Members: 5
 
 ```mermaid
 flowchart TD
-  n0["0gd--plan [active]"]
+  n0["0gd--plan [dismissed]"]
   n1["0gd--gate [failed]"]
   n0 --> n1
   n2["0gd--code [completed]"]
@@ -23,7 +23,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0gd--plan | active | opus / claude | 2026-08-30T15:10:16.502471+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0gd--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0gd--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0gd--plan | dismissed | opus / claude | 2026-08-30T11:10:16.502471 → 2026-08-30T11:24:51.850629 | 0 | [Prompt](../agents/bbugyi200.athena.0gd--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0gd--plan/chat.md) |
 | <a id="member-gate"></a>gate | 0gd--gate | failed | opus / claude | 2026-08-30T15:24:43.667396+00:00 → 2026-08-30T15:28:25.827075+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0gd--gate/chat.md) |
 | <a id="member-code"></a>code | 0gd--code | completed | grok-4.6 / grok | 2026-08-30T15:28:31.879878+00:00 → 2026-08-30T16:05:22.250070+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0gd--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0gd--code/chat.md) |
 | <a id="member-1"></a>1 | 0gd--1 | completed | grok-4.6 / grok | 2026-08-30T16:23:38.171101+00:00 → 2026-08-30T16:28:56.633704+00:00 | [1](../agents/bbugyi200.athena.0gd--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0gd--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0gd--1/chat.md) |
@@ -33,4 +33,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`fdb962c`](https://github.com/sase-org/sase/commit/fdb962c13ab6827a5ca3b7c3aca3c0d94a5a261c) | fix(tui): keep approved gate shells in the Running bucket | 2026-08-30 12:26:57 EDT |
+| 1 | — | `fdb962c` | fix(tui): keep approved gate shells in the Running bucket | 2026-08-30 12:26:57 EDT |

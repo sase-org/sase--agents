@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ee35836`](https://github.com/sase-org/sase/commit/ee358364ae7b7b87fd9d69b09142c6cee7ed776b) | fix(tui): always hide STARTING agent rows from the Agents tab | 2026-09-05 18:29:41 EDT |
+| — | `ee35836` | fix(tui): always hide STARTING agent rows from the Agents tab | 2026-09-05 18:29:41 EDT |

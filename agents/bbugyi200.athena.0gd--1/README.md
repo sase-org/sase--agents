@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fdb962c`](https://github.com/sase-org/sase/commit/fdb962c13ab6827a5ca3b7c3aca3c0d94a5a261c) | fix(tui): keep approved gate shells in the Running bucket | 2026-08-30 12:26:57 EDT |
+| — | `fdb962c` | fix(tui): keep approved gate shells in the Running bucket | 2026-08-30 12:26:57 EDT |

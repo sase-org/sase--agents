@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0gf` · Members: 5
 
 ```mermaid
 flowchart TD
-  n0["0gf--plan [active]"]
+  n0["0gf--plan [dismissed]"]
   n1["0gf--code [completed]"]
   n0 --> n1
   n2["0gf--gate [failed]"]
@@ -23,7 +23,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0gf--plan | active | gpt-6-astra / codex | 2026-09-05T21:37:47.242139+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0gf--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0gf--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0gf--plan | dismissed | gpt-6-astra / codex | 2026-09-05T17:37:47.242139 → 2026-09-05T17:45:13.526311 | 0 | [Prompt](../agents/bbugyi200.athena.0gf--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0gf--plan/chat.md) |
 | <a id="member-code"></a>code | 0gf--code | completed | sonnet / claude | 2026-09-05T21:49:50.193273+00:00 → 2026-09-05T22:07:41.869134+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0gf--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0gf--code/chat.md) |
 | <a id="member-gate"></a>gate | 0gf--gate | failed | gpt-6-astra / codex | 2026-09-05T21:45:06.113143+00:00 → 2026-09-05T21:49:43.300579+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0gf--gate/chat.md) |
 | <a id="member-mon"></a>mon | 0gf--mon | failed | sonnet / claude | 2026-09-05T22:07:15.394955+00:00 → 2026-09-05T22:17:27.911783+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0gf--mon/chat.md) |
@@ -33,4 +33,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`ee35836`](https://github.com/sase-org/sase/commit/ee358364ae7b7b87fd9d69b09142c6cee7ed776b) | fix(tui): always hide STARTING agent rows from the Agents tab | 2026-09-05 18:29:41 EDT |
+| 1 | — | `ee35836` | fix(tui): always hide STARTING agent rows from the Agents tab | 2026-09-05 18:29:41 EDT |
