@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`965aa5c`](https://github.com/sase-org/sase/commit/965aa5c5ec24921f35cc019842a415b94dbc0bdd) | fix(ace): stamp finished\_at on settled monitor nodes | 2026-08-28 16:04:03 EDT |
+| — | `965aa5c` | fix(ace): stamp finished\_at on settled monitor nodes | 2026-08-28 16:04:03 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0fn](../../sessions/bbugyi200.athena.0fn.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
-| [0fn.f0](../bbugyi200.athena.0fn.f0/README.md) | 0fn hood | active |
+| [0fn](../../sessions/bbugyi200.athena.0fn.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
+| [0fn.f0](../bbugyi200.athena.0fn.f0/README.md) | 0fn hood | dismissed |

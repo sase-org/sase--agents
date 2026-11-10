@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `0fl` · Members: 5
 ```mermaid
 flowchart TD
   n0["0fl--1 [completed]"]
-  n1["0fl--plan [active]"]
+  n1["0fl--plan [dismissed]"]
   n0 --> n1
   n2["0fl--mon [failed]"]
   n0 --> n2
@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | 0fl--1 | completed | grok-4.6 / grok | 2026-08-28T17:51:23.492476+00:00 → 2026-08-28T18:19:42.225648+00:00 | [1](../agents/bbugyi200.athena.0fl--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0fl--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0fl--1/chat.md) |
-| <a id="member-plan"></a>plan | 0fl--plan | active | opus / claude | 2026-08-28T16:31:05.593233+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0fl--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0fl--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0fl--plan | dismissed | opus / claude | 2026-08-28T12:30:52 | 0 | [Prompt](../agents/bbugyi200.athena.0fl--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0fl--plan/chat.md) |
 | <a id="member-mon"></a>mon | 0fl--mon | failed | grok-4.6 / grok | 2026-08-28T17:11:24.157359+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0fl--mon/chat.md) |
 | <a id="member-gate"></a>gate | 0fl--gate | failed | opus / claude | 2026-08-28T16:44:04.015264+00:00 → 2026-08-28T16:45:23.395659+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0fl--gate/chat.md) |
 | <a id="member-code"></a>code | 0fl--code | completed | grok-4.6 / grok | 2026-08-28T16:45:29.342203+00:00 → 2026-08-28T17:11:31.956579+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0fl--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0fl--code/chat.md) |
@@ -33,4 +33,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`dde1b22`](https://github.com/sase-org/sase/commit/dde1b22d843f9a218c950b4141d9d68cca5b3269) | fix(ace): keep live ace-run shards in the artifact watcher | 2026-08-28 14:17:52 EDT |
+| 1 | — | `dde1b22` | fix(ace): keep live ace-run shards in the artifact watcher | 2026-08-28 14:17:52 EDT |

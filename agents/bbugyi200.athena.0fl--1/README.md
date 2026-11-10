@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dde1b22`](https://github.com/sase-org/sase/commit/dde1b22d843f9a218c950b4141d9d68cca5b3269) | fix(ace): keep live ace-run shards in the artifact watcher | 2026-08-28 14:17:52 EDT |
+| — | `dde1b22` | fix(ace): keep live ace-run shards in the artifact watcher | 2026-08-28 14:17:52 EDT |

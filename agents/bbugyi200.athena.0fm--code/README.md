@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`70e2d52`](https://github.com/sase-org/sase/commit/70e2d5250765cbae1fdb892ee6bc00d7aed20199) | fix(task-types): require one plus-one for bug triage | 2026-08-28 13:51:00 EDT |
+| — | `70e2d52` | fix(task-types): require one plus-one for bug triage | 2026-08-28 13:51:00 EDT |

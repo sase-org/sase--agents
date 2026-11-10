@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`98707c0`](https://github.com/sase-org/sase/commit/98707c02b9271e5a01ee2603b60e1d90c35981a0) | fix(wait-deps): resolve self-family fork waits | 2026-08-28 14:23:01 EDT |
+| — | `98707c0` | fix(wait-deps): resolve self-family fork waits | 2026-08-28 14:23:01 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0fn.f0](../bbugyi200.athena.0fn.f0/README.md) | descendant | active |
-| [0fn.f2](../../sessions/bbugyi200.athena.0fn.f2.md) (session · 5) | descendant | active 1, completed 2, failed 2 |
+| [0fn.f0](../bbugyi200.athena.0fn.f0/README.md) | descendant | dismissed |
+| [0fn.f2](../../sessions/bbugyi200.athena.0fn.f2.md) (session · 5) | descendant | completed 2, dismissed 1, failed 2 |
