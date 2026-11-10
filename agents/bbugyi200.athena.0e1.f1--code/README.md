@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9351d79`](https://github.com/sase-org/sase/commit/9351d7953cb41250f639a9f32c061627ff0c94a9) | feat(bead): add show epic expansion for \`\<epic-id\>..\` batch queries | 2026-08-26 08:48:11 EDT |
+| — | `9351d79` | feat(bead): add show epic expansion for \`\<epic-id\>..\` batch queries | 2026-08-26 08:48:11 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0e1](../bbugyi200.athena.0e1/README.md) | ancestor | active |
-| [0e1.f0](../bbugyi200.athena.0e1.f0/README.md) | 0e1 hood | active |
+| [0e1](../bbugyi200.athena.0e1/README.md) | ancestor | dismissed |
+| [0e1.f0](../bbugyi200.athena.0e1.f0/README.md) | 0e1 hood | dismissed |

@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `0e` · Members: 2
 ```mermaid
 flowchart TD
   n0["0e.w1--code [completed]"]
-  n1["0e.w1 [active]"]
+  n1["0e.w1 [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,20 +18,20 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 0e.w1--code | completed | gpt-5.5 / codex | 2026-07-07T15:36:25.489110+00:00 | [1](../agents/bbugyi200.athena.0e.w1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.0e.w1--code/chat.md) |
-| <a id="member-root"></a>root | 0e.w1 | active | claude-fable-5 / claude | 2026-07-07T15:29:01.244630+00:00 | [1](../agents/bbugyi200.athena.0e.w1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0e.w1/prompt.md) | [Chat](../agents/bbugyi200.athena.0e.w1/chat.md) |
+| <a id="member-root"></a>root | 0e.w1 | dismissed | claude-fable-5 / claude | 2026-07-07T11:29:01.244630 → 2026-07-07T11:50:48.833106 | [1](../agents/bbugyi200.athena.0e.w1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0e.w1/prompt.md) | [Chat](../agents/bbugyi200.athena.0e.w1/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | sase | [`3e3cdb8`](https://github.com/sase-org/sase/commit/3e3cdb8c48a7302cbf4b5adf990e2ba4b7c9f0cf) | chore: Add SDD prompt and plan for tab\_guide\_content\_improvements | 2026-07-07 11:36:24 EDT |
-| code | sase | [`410e885`](https://github.com/sase-org/sase/commit/410e885325c8f01cf1e2394f513c60eedbcb0a44) | feat(tui): improve ACE tab guide content | 2026-07-07 11:50:27 EDT |
+| root | — | `3e3cdb8` | chore: Add SDD prompt and plan for tab\_guide\_content\_improvements | 2026-07-07 11:36:24 EDT |
+| code | — | `410e885` | feat(tui): improve ACE tab guide content | 2026-07-07 11:50:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0e](bbugyi200.athena.0e.md) (session · 2) | ancestor | active 1, completed 1 |
-| [0e.w1.w1](bbugyi200.athena.0e.w1.w1.md) (session · 2) | descendant | active 1, completed 1 |
-| [0e.w1.w1.w1](bbugyi200.athena.0e.w1.w1.w1.md) (session · 2) | descendant | active 1, completed 1 |
-| [0e.w1.w1.w1.f1](bbugyi200.athena.0e.w1.w1.w1.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [0e](bbugyi200.athena.0e.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [0e.w1.w1](bbugyi200.athena.0e.w1.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [0e.w1.w1.w1](bbugyi200.athena.0e.w1.w1.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [0e.w1.w1.w1.f1](bbugyi200.athena.0e.w1.w1.w1.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

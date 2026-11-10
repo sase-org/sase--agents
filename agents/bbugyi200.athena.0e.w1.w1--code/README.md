@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ba6d2a1`](https://github.com/sase-org/sase/commit/ba6d2a1e57fd5e6bd93cf444555d58c04b839988) | feat: use PR terminology for ChangeSpec reviews | 2026-07-07 12:54:38 EDT |
+| — | `ba6d2a1` | feat: use PR terminology for ChangeSpec reviews | 2026-07-07 12:54:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0e.w1](../../sessions/bbugyi200.athena.0e.w1.md) (session · 2) | ancestor | active 1, completed 1 |
-| [0e](../../sessions/bbugyi200.athena.0e.md) (session · 2) | ancestor | active 1, completed 1 |
-| [0e.w1.w1.w1](../../sessions/bbugyi200.athena.0e.w1.w1.w1.md) (session · 2) | descendant | active 1, completed 1 |
-| [0e.w1.w1.w1.f1](../../sessions/bbugyi200.athena.0e.w1.w1.w1.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [0e.w1](../../sessions/bbugyi200.athena.0e.w1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [0e](../../sessions/bbugyi200.athena.0e.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [0e.w1.w1.w1](../../sessions/bbugyi200.athena.0e.w1.w1.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [0e.w1.w1.w1.f1](../../sessions/bbugyi200.athena.0e.w1.w1.w1.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

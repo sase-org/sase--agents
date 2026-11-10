@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`904a3e1`](https://github.com/sase-org/sase/commit/904a3e1514308972d27afc79914de6a90a5bedcf) | fix(ace): support tab switching in popup panels | 2026-07-07 11:28:42 EDT |
+| — | `904a3e1` | fix(ace): support tab switching in popup panels | 2026-07-07 11:28:42 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0e.w1](../../sessions/bbugyi200.athena.0e.w1.md) (session · 2) | descendant | active 1, completed 1 |
-| [0e.w1.w1](../../sessions/bbugyi200.athena.0e.w1.w1.md) (session · 2) | descendant | active 1, completed 1 |
-| [0e.w1.w1.w1](../../sessions/bbugyi200.athena.0e.w1.w1.w1.md) (session · 2) | descendant | active 1, completed 1 |
-| [0e.w1.w1.w1.f1](../../sessions/bbugyi200.athena.0e.w1.w1.w1.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [0e.w1](../../sessions/bbugyi200.athena.0e.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [0e.w1.w1](../../sessions/bbugyi200.athena.0e.w1.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [0e.w1.w1.w1](../../sessions/bbugyi200.athena.0e.w1.w1.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [0e.w1.w1.w1.f1](../../sessions/bbugyi200.athena.0e.w1.w1.w1.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

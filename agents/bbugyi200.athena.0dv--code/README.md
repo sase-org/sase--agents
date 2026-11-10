@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2ed9dc7`](https://github.com/sase-org/sase/commit/2ed9dc7c9fbaf640ec79337c2cbdfb0b025bbaad) | feat(bead): page show output and accept multiple ids | 2026-08-25 18:45:53 EDT |
+| — | `2ed9dc7` | feat(bead): page show output and accept multiple ids | 2026-08-25 18:45:53 EDT |

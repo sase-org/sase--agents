@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`410e885`](https://github.com/sase-org/sase/commit/410e885325c8f01cf1e2394f513c60eedbcb0a44) | feat(tui): improve ACE tab guide content | 2026-07-07 11:50:27 EDT |
+| — | `410e885` | feat(tui): improve ACE tab guide content | 2026-07-07 11:50:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0e](../../sessions/bbugyi200.athena.0e.md) (session · 2) | ancestor | active 1, completed 1 |
-| [0e.w1.w1](../../sessions/bbugyi200.athena.0e.w1.w1.md) (session · 2) | descendant | active 1, completed 1 |
-| [0e.w1.w1.w1](../../sessions/bbugyi200.athena.0e.w1.w1.w1.md) (session · 2) | descendant | active 1, completed 1 |
-| [0e.w1.w1.w1.f1](../../sessions/bbugyi200.athena.0e.w1.w1.w1.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [0e](../../sessions/bbugyi200.athena.0e.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [0e.w1.w1](../../sessions/bbugyi200.athena.0e.w1.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [0e.w1.w1.w1](../../sessions/bbugyi200.athena.0e.w1.w1.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [0e.w1.w1.w1.f1](../../sessions/bbugyi200.athena.0e.w1.w1.w1.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

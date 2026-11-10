@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`306b5ec`](https://github.com/sase-org/sase/commit/306b5ec957dbc162f8ba1f72c7eb3b409389cb27) | fix(ace): expand help panel viewport usage | 2026-07-07 13:56:22 EDT |
+| — | `306b5ec` | fix(ace): expand help panel viewport usage | 2026-07-07 13:56:22 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0e.w1.w1.w1](../../sessions/bbugyi200.athena.0e.w1.w1.w1.md) (session · 2) | ancestor | active 1, completed 1 |
-| [0e.w1.w1](../../sessions/bbugyi200.athena.0e.w1.w1.md) (session · 2) | ancestor | active 1, completed 1 |
-| [0e.w1](../../sessions/bbugyi200.athena.0e.w1.md) (session · 2) | ancestor | active 1, completed 1 |
-| [0e](../../sessions/bbugyi200.athena.0e.md) (session · 2) | ancestor | active 1, completed 1 |
+| [0e.w1.w1.w1](../../sessions/bbugyi200.athena.0e.w1.w1.w1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [0e.w1.w1](../../sessions/bbugyi200.athena.0e.w1.w1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [0e.w1](../../sessions/bbugyi200.athena.0e.w1.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [0e](../../sessions/bbugyi200.athena.0e.md) (session · 2) | ancestor | completed 1, dismissed 1 |
