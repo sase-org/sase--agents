@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`140c8e4`](https://github.com/sase-org/sase/commit/140c8e42f268e8b67728be1a2f93cf16b85af776) | fix(ace): derive capacity paths from the sharded artifact layout parser | 2026-09-10 14:24:59 EDT |
+| — | `140c8e4` | fix(ace): derive capacity paths from the sharded artifact layout parser | 2026-09-10 14:24:59 EDT |

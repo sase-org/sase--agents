@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`74de0fa`](https://github.com/sase-org/sase/commit/74de0fa7cc5e36dd153f72e2901863ccb5d4ca43) | fix(sdd): retry sidecar clones without local object reference on any failure | 2026-09-10 12:44:54 EDT |
+| — | `74de0fa` | fix(sdd): retry sidecar clones without local object reference on any failure | 2026-09-10 12:44:54 EDT |

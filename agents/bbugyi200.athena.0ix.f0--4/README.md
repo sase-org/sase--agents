@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`12f01fb`](https://github.com/sase-org/sase/commit/12f01fbc1c7ad45b520391f35df963554f8f94f0) | feat(llm-provider): fall back to collected usage-window data for disable duration | 2026-09-10 18:00:38 EDT |
+| — | `12f01fb` | feat(llm-provider): fall back to collected usage-window data for disable duration | 2026-09-10 18:00:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0ix](../../sessions/bbugyi200.athena.0ix.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0ix](../../sessions/bbugyi200.athena.0ix.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |

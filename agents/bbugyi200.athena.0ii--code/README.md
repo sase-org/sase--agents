@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`37b32cf`](https://github.com/sase-org/sase/commit/37b32cfdef053db297332144592d0f2a166152bc) | fix(pager): restore Ctrl+I as the forward-history key | 2026-09-10 16:58:08 EDT |
+| — | `37b32cf` | fix(pager): restore Ctrl+I as the forward-history key | 2026-09-10 16:58:08 EDT |

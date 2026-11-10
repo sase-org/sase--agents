@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`63a5dbe`](https://github.com/sase-org/sase/commit/63a5dbef1c732d6c95613244da06abe744320732) | fix(agent): repair provider drain forced-reuse relaunches | 2026-09-10 17:21:35 EDT |
+| — | `63a5dbe` | fix(agent): repair provider drain forced-reuse relaunches | 2026-09-10 17:21:35 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0ix.f0](../../sessions/bbugyi200.athena.0ix.f0.md) (session · 11) | descendant | active 1, completed 5, failed 5 |
+| [0ix.f0](../../sessions/bbugyi200.athena.0ix.f0.md) (session · 11) | descendant | completed 5, dismissed 1, failed 5 |

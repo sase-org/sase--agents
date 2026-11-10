@@ -11,7 +11,7 @@ flowchart TD
   n0["0iw--code [failed]"]
   n1["0iw--gate [failed]"]
   n0 --> n1
-  n2["0iw--plan [active]"]
+  n2["0iw--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,10 +21,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 0iw--code | failed | sonnet / claude | 2026-09-10T20:41:10.539389+00:00 → 2026-09-10T21:31:19.010161+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0iw--code/prompt.md) | — |
 | <a id="member-gate"></a>gate | 0iw--gate | failed | claude-fable-5 / claude | 2026-09-10T20:38:40.645800+00:00 → 2026-09-10T20:40:29.608424+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0iw--gate/chat.md) |
-| <a id="member-plan"></a>plan | 0iw--plan | active | claude-fable-5 / claude | 2026-09-10T20:14:23.490689+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0iw--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0iw--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0iw--plan | dismissed | claude-fable-5 / claude | 2026-09-10T16:14:23.490689 → 2026-09-10T16:22:21.535694 | 0 | [Prompt](../agents/bbugyi200.athena.0iw--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0iw--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`4a862d6`](https://github.com/sase-org/sase/commit/4a862d6ea3ff01525f22f3563234ea8cf9e28156) | feat(ace-tui): render status subgroup banners in by-machine agent grouping | 2026-09-10 17:35:21 EDT |
+| — | — | `4a862d6` | feat(ace-tui): render status subgroup banners in by-machine agent grouping | 2026-09-10 17:35:21 EDT |
