@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0eb0730`](https://github.com/sase-org/sase/commit/0eb073079d2fcc63a0c0ec501364ef99ad770551) | feat(xprompt): reference approved plans by path in #coder instead of inlining | 2026-08-24 11:56:25 EDT |
+| — | `0eb0730` | feat(xprompt): reference approved plans by path in #coder instead of inlining | 2026-08-24 11:56:25 EDT |

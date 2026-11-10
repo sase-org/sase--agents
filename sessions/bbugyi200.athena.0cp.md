@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `0cp` · Members: 2
 ```mermaid
 flowchart TD
   n0["0cp--code [completed]"]
-  n1["0cp--plan [active]"]
+  n1["0cp--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,10 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 0cp--code | completed | gpt-5.5 / codex | 2026-08-24T17:15:52.295645+00:00 → 2026-08-24T17:44:57.120307+00:00 | [1](../agents/bbugyi200.athena.0cp--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.0cp--code/chat.md) |
-| <a id="member-plan"></a>plan | 0cp--plan | active | gpt-5.6-sol / codex | 2026-08-24T17:07:42.151258+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0cp--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0cp--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0cp--plan | dismissed | gpt-5.6-sol / codex | 2026-08-24T13:07:10 | 0 | [Prompt](../agents/bbugyi200.athena.0cp--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0cp--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`2a13976`](https://github.com/sase-org/sase/commit/2a139761e1494703bb087444e219a3f56d829614) | fix(agent): suppress clean proc admission notifications | 2026-08-24 13:42:44 EDT |
+| code | — | `2a13976` | fix(agent): suppress clean proc admission notifications | 2026-08-24 13:42:44 EDT |

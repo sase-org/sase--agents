@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2a13976`](https://github.com/sase-org/sase/commit/2a139761e1494703bb087444e219a3f56d829614) | fix(agent): suppress clean proc admission notifications | 2026-08-24 13:42:44 EDT |
+| — | `2a13976` | fix(agent): suppress clean proc admission notifications | 2026-08-24 13:42:44 EDT |

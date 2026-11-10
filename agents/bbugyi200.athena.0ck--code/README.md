@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4580649`](https://github.com/sase-org/sase/commit/45806495fa3905e8d279f1bc504a24a9f02461e2) | feat(final): publish commit declaration consent model | 2026-08-24 12:50:15 EDT |
+| — | `4580649` | feat(final): publish commit declaration consent model | 2026-08-24 12:50:15 EDT |
