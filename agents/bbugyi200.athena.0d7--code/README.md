@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1a652b9`](https://github.com/sase-org/sase/commit/1a652b9e64ad7e11bd09537a05f86a4a3c42174c) | feat(tui): show community plugin repository owners | 2026-08-25 07:22:31 EDT |
+| — | `1a652b9` | feat(tui): show community plugin repository owners | 2026-08-25 07:22:31 EDT |
