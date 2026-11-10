@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `0d6` · Members: 8
 ```mermaid
 flowchart TD
   n0["0d6--mon-0 [failed]"]
-  n1["0d6--plan [active]"]
+  n1["0d6--plan [dismissed]"]
   n0 --> n1
   n2["0d6--mon [failed]"]
   n0 --> n2
@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon-0"></a>mon-0 | 0d6--mon-0 | failed | sonnet / claude | 2026-08-25T00:39:05.607973+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0d6--mon-0/chat.md) |
-| <a id="member-plan"></a>plan | 0d6--plan | active | opus / claude | 2026-08-24T23:18:42.670528+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0d6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0d6--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0d6--plan | dismissed | opus / claude | 2026-08-24T19:17:57 | 0 | [Prompt](../agents/bbugyi200.athena.0d6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0d6--plan/chat.md) |
 | <a id="member-mon"></a>mon | 0d6--mon | failed | sonnet / claude | 2026-08-25T00:22:01.114024+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0d6--mon/chat.md) |
 | <a id="member-2"></a>2 | 0d6--2 | completed | sonnet / claude | 2026-08-25T00:42:02.447705+00:00 → 2026-08-25T00:43:56.797508+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0d6--2/prompt.md) | [Chat](../agents/bbugyi200.athena.0d6--2/chat.md) |
 | <a id="member-code"></a>code | 0d6--code | completed | sonnet / claude | 2026-08-24T23:39:13.993275+00:00 → 2026-08-25T00:22:10.462275+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0d6--code/chat.md) |
@@ -42,4 +42,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 3 | sase | [`9c7c10a`](https://github.com/sase-org/sase/commit/9c7c10aa2a9f73445db7361a6dfaf0e0dbec9877) | feat(axe,xprompt): expand disabled-region handling to fork setup, embedded workflows, and VCS tag parsing | 2026-08-24 21:06:01 EDT |
+| 3 | — | `9c7c10a` | feat(axe,xprompt): expand disabled-region handling to fork setup, embedded workflows, and VCS tag parsing | 2026-08-24 21:06:01 EDT |

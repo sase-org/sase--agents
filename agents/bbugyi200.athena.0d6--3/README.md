@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9c7c10a`](https://github.com/sase-org/sase/commit/9c7c10aa2a9f73445db7361a6dfaf0e0dbec9877) | feat(axe,xprompt): expand disabled-region handling to fork setup, embedded workflows, and VCS tag parsing | 2026-08-24 21:06:01 EDT |
+| — | `9c7c10a` | feat(axe,xprompt): expand disabled-region handling to fork setup, embedded workflows, and VCS tag parsing | 2026-08-24 21:06:01 EDT |

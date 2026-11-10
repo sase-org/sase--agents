@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fdd76b5`](https://github.com/sase-org/sase/commit/fdd76b580a2cfe5dd36972540276de9158dd6f00) | fix(axe): restore typed chop wait chains | 2026-08-24 19:58:27 EDT |
+| — | `fdd76b5` | fix(axe): restore typed chop wait chains | 2026-08-24 19:58:27 EDT |

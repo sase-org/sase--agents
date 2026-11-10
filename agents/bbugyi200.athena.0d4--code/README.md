@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`86bbbb5`](https://github.com/sase-org/sase/commit/86bbbb532096a532c61929695b91e9264c5800e9) | feat(ace): show clan-wide minimum remaining runtime on collapsed clan lanes | 2026-08-24 19:49:18 EDT |
+| — | `86bbbb5` | feat(ace): show clan-wide minimum remaining runtime on collapsed clan lanes | 2026-08-24 19:49:18 EDT |

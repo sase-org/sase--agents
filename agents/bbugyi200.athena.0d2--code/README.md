@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0f3f235`](https://github.com/sase-org/sase/commit/0f3f2350d77270935b9bc6142f39df61b50c9ecc) | fix(sdd): render parent plan provenance canonically | 2026-08-24 18:59:22 EDT |
+| — | `0f3f235` | fix(sdd): render parent plan provenance canonically | 2026-08-24 18:59:22 EDT |

@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eb1aea8`](https://github.com/sase-org/sase/commit/eb1aea8af182c695fb84215ec9c8b121cbc754e2) | fix(axe): admit failed-fork parents into a real workspace instead of asserting | 2026-08-24 19:20:57 EDT |
+| — | `eb1aea8` | fix(axe): admit failed-fork parents into a real workspace instead of asserting | 2026-08-24 19:20:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0d3.f0](../bbugyi200.athena.0d3.f0/README.md) | descendant | active |
+| [0d3.f0](../bbugyi200.athena.0d3.f0/README.md) | descendant | dismissed |
