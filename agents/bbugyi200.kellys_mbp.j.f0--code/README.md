@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [j](../../users/bbugyi200/machines/kellys_mbp/hoods/j/README.md) / [j.f0](../../sessions/bbugyi200.kellys_mbp.j.f0.md) / j.f0--code
 
-**Global name:** `bbugyi200.kellys_mbp.j.f0--code` · **State:** active · **Source run:** `run-664d9423c4bab993359fecd66012c127`
+**Global name:** `bbugyi200.kellys_mbp.j.f0--code` · **State:** completed · **Source run:** `run-664d9423c4bab993359fecd66012c127`
 
 **Owner:** `bbugyi200.kellys_mbp` · **Project:** sase · **Hood:** j
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-03T19:43:31.121690+00:00
+- Timing: 2026-09-03T19:43:31.121690+00:00 → 2026-09-03T20:48:35.495633+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ad1da7f`](https://github.com/sase-org/sase/commit/ad1da7fc2bcb564924eda094ffa7353396103d57) | fix(finalizers): rescue stitch timeouts after the commit already landed | 2026-09-03 16:42:55 EDT |
+| — | `ad1da7f` | fix(finalizers): rescue stitch timeouts after the commit already landed | 2026-09-03 16:42:55 EDT |
 
 ## Neighbors
 

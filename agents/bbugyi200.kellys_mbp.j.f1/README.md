@@ -17,12 +17,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fe6cb66`](https://github.com/sase-org/sase/commit/fe6cb668a6b112c7e877472c8252fc6c2c206480) | chore: Add SDD prompt and plan for typed\_linked\_repo\_prep | 2026-07-06 14:51:28 EDT |
-| sase | [`3646c82`](https://github.com/sase-org/sase/commit/3646c82849cedd3289a2fe1bcb9c7412de68b534) | fix: use fresh linked repo resolution for prep | 2026-07-06 15:02:04 EDT |
+| — | `fe6cb66` | chore: Add SDD prompt and plan for typed\_linked\_repo\_prep | 2026-07-06 14:51:28 EDT |
+| — | `3646c82` | fix: use fresh linked repo resolution for prep | 2026-07-06 15:02:04 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [j](../bbugyi200.kellys_mbp.j/README.md) | ancestor | dismissed |
-| [j.f0](../../sessions/bbugyi200.kellys_mbp.j.f0.md) (session · 3) | j hood | active 1, completed 1, failed 1 |
+| [j.f0](../../sessions/bbugyi200.kellys_mbp.j.f0.md) (session · 3) | j hood | completed 2, failed 1 |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [kellys\_mbp](../../README.md) / m
 
-**Global hood:** `bbugyi200.kellys_mbp.m` · **Runs:** 5 · **Sessions:** 1 · **States:** active 1, completed 2, failed 2
+**Global hood:** `bbugyi200.kellys_mbp.m` · **Runs:** 5 · **Sessions:** 1 · **States:** completed 3, failed 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -10,4 +10,4 @@
 | [m--gate](../../../../../../sessions/bbugyi200.kellys_mbp.m.md#member-gate) | failed | claude-fable-5 / claude | 2026-09-03T21:56:36.297841+00:00 → 2026-09-04T09:22:06.047980+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.kellys_mbp.m--gate/chat.md) |
 | [m--plan](../../../../../../sessions/bbugyi200.kellys_mbp.m.md#member-plan) | completed | claude-fable-5 / claude | 2026-09-03T21:40:49.903136+00:00 → 2026-09-03T21:56:47.709591+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.kellys_mbp.m--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.kellys_mbp.m--plan/prompt.md) |
 | [m--mon](../../../../../../sessions/bbugyi200.kellys_mbp.m.md#member-mon) | failed | grok-4.6 / grok | 2026-09-04T10:03:45.144728+00:00 → 2026-09-04T10:06:47.545952+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.kellys_mbp.m--mon/chat.md) |
-| [m--1](../../../../../../sessions/bbugyi200.kellys_mbp.m.md#member-1) | active | grok-4.6 / grok | 2026-09-04T10:06:50.788175+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.kellys_mbp.m--1/prompt.md) |
+| [m--1](../../../../../../sessions/bbugyi200.kellys_mbp.m.md#member-1) | completed | grok-4.6 / grok | 2026-09-04T10:06:50.788175+00:00 → 2026-09-04T10:20:07.055934+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.kellys_mbp.m--1/prompt.md) |
