@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`00013bb`](https://github.com/sase-org/sase/commit/00013bb5f9093f8ef46cd319fab2ade5e122b11f) | fix(finalizers): stop commit retry loop | 2026-09-06 17:07:05 EDT |
+| — | `00013bb` | fix(finalizers): stop commit retry loop | 2026-09-06 17:07:05 EDT |

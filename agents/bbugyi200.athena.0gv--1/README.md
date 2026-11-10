@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d59bf50`](https://github.com/sase-org/sase/commit/d59bf500e8f5cc452023b0c4997a616004195323) | fix(tui): handle notification capital g scroll | 2026-09-06 15:58:48 EDT |
+| — | `d59bf50` | fix(tui): handle notification capital g scroll | 2026-09-06 15:58:48 EDT |

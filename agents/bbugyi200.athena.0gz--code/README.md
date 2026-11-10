@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`56754a1`](https://github.com/sase-org/sase/commit/56754a17ae5e99b3193d4d8860ae07d64e1c0d35) | fix(monitor): hold slot across follow-up handoff | 2026-09-06 16:47:19 EDT |
+| — | `56754a1` | fix(monitor): hold slot across follow-up handoff | 2026-09-06 16:47:19 EDT |
