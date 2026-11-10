@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `0g0` · Members: 3
 ```mermaid
 flowchart TD
   n0["0g0.w0--gate [failed]"]
-  n1["0g0.w0--plan [active]"]
+  n1["0g0.w0--plan [dismissed]"]
   n0 --> n1
   n2["0g0.w0--code [completed]"]
   n0 --> n2
@@ -20,17 +20,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 0g0.w0--gate | failed | opus / claude | 2026-08-29T13:09:13.798653+00:00 → 2026-08-29T13:20:00.496627+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0g0.w0--gate/chat.md) |
-| <a id="member-plan"></a>plan | 0g0.w0--plan | active | opus / claude | 2026-08-29T13:03:25.631741+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0g0.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0g0.w0--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0g0.w0--plan | dismissed | opus / claude | 2026-08-29T08:59:03 | 0 | [Prompt](../agents/bbugyi200.athena.0g0.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0g0.w0--plan/chat.md) |
 | <a id="member-code"></a>code | 0g0.w0--code | completed | grok-4.6 / grok | 2026-08-29T13:20:06.899923+00:00 → 2026-08-29T13:38:03.758908+00:00 | [1](../agents/bbugyi200.athena.0g0.w0--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0g0.w0--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0g0.w0--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`9bc169e`](https://github.com/sase-org/sase/commit/9bc169e6cf0ff2ad2e1e31ebd15be4d1c21b80fb) | docs(memory): apply AGENTS v3 #b repository reminder annotations | 2026-08-29 09:35:54 EDT |
+| code | — | `9bc169e` | docs(memory): apply AGENTS v3 #b repository reminder annotations | 2026-08-29 09:35:54 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0g0](bbugyi200.athena.0g0.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0g0](bbugyi200.athena.0g0.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |

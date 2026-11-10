@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 0g1
 
-**Global hood:** `bbugyi200.athena.0g1` · **Runs:** 8 · **Sessions:** 1 · **States:** active 1, completed 3, failed 3, waiting 1
+**Global hood:** `bbugyi200.athena.0g1` · **Runs:** 8 · **Sessions:** 1 · **States:** completed 3, dismissed 2, failed 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -12,5 +12,5 @@
 | [0g1--mon](../../../../../../sessions/bbugyi200.athena.0g1.md#member-mon) | failed | grok-4.6 / grok | 2026-08-29T13:54:07.217340+00:00 → 2026-08-29T13:58:14.496465+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0g1--mon/chat.md) |
 | [0g1--gate](../../../../../../sessions/bbugyi200.athena.0g1.md#member-gate) | failed | opus / claude | 2026-08-29T13:00:31.765032+00:00 → 2026-08-29T13:19:46.631406+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0g1--gate/chat.md) |
 | [0g1--2](../../../../../../sessions/bbugyi200.athena.0g1.md#member-2) | completed | grok-4.6 / grok | 2026-08-29T14:16:17.101161+00:00 → 2026-08-29T14:23:01.179865+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.0g1--2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0g1--2/prompt.md) |
-| [0g1--plan](../../../../../../sessions/bbugyi200.athena.0g1.md#member-plan) | active | opus / claude | 2026-08-29T12:44:32.477830+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0g1--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0g1--plan/prompt.md) |
-| [0g1.w0](../../../../../../agents/bbugyi200.athena.0g1.w0/README.md) | waiting | opus / claude | 20260829085630 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.0g1.w0/prompt.md) |
+| [0g1--plan](../../../../../../sessions/bbugyi200.athena.0g1.md#member-plan) | dismissed | opus / claude | 2026-08-29T08:44:18 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0g1--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0g1--plan/prompt.md) |
+| [0g1.w0](../../../../../../agents/bbugyi200.athena.0g1.w0/README.md) | dismissed | opus / claude | 2026-08-29T08:56:30 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.0g1.w0/prompt.md) |

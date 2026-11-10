@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`17c465c`](https://github.com/sase-org/sase/commit/17c465c9d706219323d95e02bc3d8fb7ed09a76f) | fix(tui): keep nested agent rows in parent tribe | 2026-08-29 08:56:03 EDT |
+| — | `17c465c` | fix(tui): keep nested agent rows in parent tribe | 2026-08-29 08:56:03 EDT |

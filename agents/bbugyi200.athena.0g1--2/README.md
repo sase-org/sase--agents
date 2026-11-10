@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`fbd37ca`](https://github.com/sase-org/sase/commit/fbd37ca3da3b262fa310daec15a0fed45489e017) | fix(tui): exclude gate-shell windows from family and clan runtime | 2026-08-29 10:20:56 EDT |
+| — | `fbd37ca` | fix(tui): exclude gate-shell windows from family and clan runtime | 2026-08-29 10:20:56 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0g1.w0](../bbugyi200.athena.0g1.w0/README.md) | descendant | waiting |
+| [0g1.w0](../bbugyi200.athena.0g1.w0/README.md) | descendant | dismissed |

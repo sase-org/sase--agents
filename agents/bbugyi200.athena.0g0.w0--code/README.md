@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9bc169e`](https://github.com/sase-org/sase/commit/9bc169e6cf0ff2ad2e1e31ebd15be4d1c21b80fb) | docs(memory): apply AGENTS v3 #b repository reminder annotations | 2026-08-29 09:35:54 EDT |
+| — | `9bc169e` | docs(memory): apply AGENTS v3 #b repository reminder annotations | 2026-08-29 09:35:54 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0g0](../../sessions/bbugyi200.athena.0g0.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0g0](../../sessions/bbugyi200.athena.0g0.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |

@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`80f389d`](https://github.com/sase-org/sase/commit/80f389d746baddabe1bb1fc800bce86f3b8dbbd7) | feat: add /sase\_memory\_write skill as the memory-edit gate | 2026-08-29 09:02:28 EDT |
+| — | `80f389d` | feat: add /sase\_memory\_write skill as the memory-edit gate | 2026-08-29 09:02:28 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0g0.w0](../../sessions/bbugyi200.athena.0g0.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [0g0.w0](../../sessions/bbugyi200.athena.0g0.w0.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |
