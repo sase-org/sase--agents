@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0fd1cc6`](https://github.com/sase-org/sase/commit/0fd1cc6c180b160bd4954a40ce6d07a62f270dfd) | fix(ace): clear the notification tab after R marks it read | 2026-08-30 11:27:57 EDT |
+| — | `0fd1cc6` | fix(ace): clear the notification tab after R marks it read | 2026-08-30 11:27:57 EDT |

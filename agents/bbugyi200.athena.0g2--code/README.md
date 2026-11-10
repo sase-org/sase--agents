@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`04c676f`](https://github.com/sase-org/sase/commit/04c676f9c69427c6dd11901fdfb4bff069a3b149) | test(directives): cover bounded wait completion ranges | 2026-08-29 09:58:38 EDT |
+| — | `04c676f` | test(directives): cover bounded wait completion ranges | 2026-08-29 09:58:38 EDT |

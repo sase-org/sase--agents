@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 0g5
 
-**Global hood:** `bbugyi200.athena.0g5` · **Runs:** 11 · **Sessions:** 1 · **States:** active 1, completed 5, failed 5
+**Global hood:** `bbugyi200.athena.0g5` · **Runs:** 11 · **Sessions:** 1 · **States:** completed 5, dismissed 1, failed 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -15,5 +15,5 @@
 | [0g5--mon-1](../../../../../../sessions/bbugyi200.athena.0g5.md#member-mon-1) | failed | grok-4.6 / grok | 2026-08-29T16:04:03.851883+00:00 → 2026-08-29T16:22:35.284006+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0g5--mon-1/chat.md) |
 | [0g5--mon-2](../../../../../../sessions/bbugyi200.athena.0g5.md#member-mon-2) | failed | grok-4.6 / grok | 2026-08-29T16:36:41.718045+00:00 → 2026-08-29T16:54:51.612214+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0g5--mon-2/chat.md) |
 | [0g5--gate](../../../../../../sessions/bbugyi200.athena.0g5.md#member-gate) | failed | opus / claude | 2026-08-29T14:26:56.270895+00:00 → 2026-08-29T14:28:25.958069+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0g5--gate/chat.md) |
-| [0g5--plan](../../../../../../sessions/bbugyi200.athena.0g5.md#member-plan) | active | opus / claude | 2026-08-29T14:20:03.162822+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0g5--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0g5--plan/prompt.md) |
+| [0g5--plan](../../../../../../sessions/bbugyi200.athena.0g5.md#member-plan) | dismissed | opus / claude | 2026-08-29T10:19:48 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0g5--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0g5--plan/prompt.md) |
 | [0g5--1](../../../../../../sessions/bbugyi200.athena.0g5.md#member-1) | completed | grok-4.6 / grok | 2026-08-29T15:31:35.150807+00:00 → 2026-08-29T15:38:29.393510+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0g5--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0g5--1/prompt.md) |

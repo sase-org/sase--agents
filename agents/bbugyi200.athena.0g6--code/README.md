@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0e47ef6`](https://github.com/sase-org/sase/commit/0e47ef6482937cf35ae29529fcb69ba5b840765a) | docs(memory): collapse repository reminders into one IMPORTANT paragraph | 2026-08-29 11:10:48 EDT |
+| — | `0e47ef6` | docs(memory): collapse repository reminders into one IMPORTANT paragraph | 2026-08-29 11:10:48 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0g6.w0](../../sessions/bbugyi200.athena.0g6.w0.md) (session · 3) | descendant | active 1, failed 2 |
+| [0g6.w0](../../sessions/bbugyi200.athena.0g6.w0.md) (session · 3) | descendant | dismissed 1, failed 2 |

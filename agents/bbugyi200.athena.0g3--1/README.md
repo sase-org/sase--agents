@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d432798`](https://github.com/sase-org/sase/commit/d4327985d50f37797a4782bd98f29ed7bbb9bd99) | fix(tui): make gate shells own decision statuses | 2026-08-29 10:43:32 EDT |
+| — | `d432798` | fix(tui): make gate shells own decision statuses | 2026-08-29 10:43:32 EDT |

@@ -25,7 +25,7 @@ flowchart TD
   n0 --> n7
   n8["0g5--gate [failed]"]
   n0 --> n8
-  n9["0g5--plan [active]"]
+  n9["0g5--plan [dismissed]"]
   n0 --> n9
   n10["0g5--1 [completed]"]
   n0 --> n10
@@ -44,11 +44,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-1"></a>mon-1 | 0g5--mon-1 | failed | grok-4.6 / grok | 2026-08-29T16:04:03.851883+00:00 → 2026-08-29T16:22:35.284006+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0g5--mon-1/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | 0g5--mon-2 | failed | grok-4.6 / grok | 2026-08-29T16:36:41.718045+00:00 → 2026-08-29T16:54:51.612214+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0g5--mon-2/chat.md) |
 | <a id="member-gate"></a>gate | 0g5--gate | failed | opus / claude | 2026-08-29T14:26:56.270895+00:00 → 2026-08-29T14:28:25.958069+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0g5--gate/chat.md) |
-| <a id="member-plan"></a>plan | 0g5--plan | active | opus / claude | 2026-08-29T14:20:03.162822+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0g5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0g5--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0g5--plan | dismissed | opus / claude | 2026-08-29T10:19:48 | 0 | [Prompt](../agents/bbugyi200.athena.0g5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0g5--plan/chat.md) |
 | <a id="member-1"></a>1 | 0g5--1 | completed | grok-4.6 / grok | 2026-08-29T15:31:35.150807+00:00 → 2026-08-29T15:38:29.393510+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0g5--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0g5--1/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 4 | sase | [`1791874`](https://github.com/sase-org/sase/commit/179187499eb9df7fca11551ffe66afc9b4496297) | feat(memory)!: remove unused memory proposal path | 2026-08-29 13:01:49 EDT |
+| 4 | — | `1791874` | feat(memory)!: remove unused memory proposal path | 2026-08-29 13:01:49 EDT |

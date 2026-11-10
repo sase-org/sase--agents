@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0gb` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["0gb--plan [active]"]
+  n0["0gb--plan [dismissed]"]
   n1["0gb--gate [failed]"]
   n0 --> n1
   n2["0gb--code [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0gb--plan | active | opus / claude | 2026-08-30T15:02:53.493960+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0gb--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0gb--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0gb--plan | dismissed | opus / claude | 2026-08-30T11:02:53.493960 → 2026-08-30T11:11:09.442257 | 0 | [Prompt](../agents/bbugyi200.athena.0gb--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0gb--plan/chat.md) |
 | <a id="member-gate"></a>gate | 0gb--gate | failed | opus / claude | 2026-08-30T15:11:02.636562+00:00 → 2026-08-30T15:12:08.664916+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0gb--gate/chat.md) |
 | <a id="member-code"></a>code | 0gb--code | completed | grok-4.6 / grok | 2026-08-30T15:12:14.889021+00:00 → 2026-08-30T15:30:03.441045+00:00 | [1](../agents/bbugyi200.athena.0gb--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0gb--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0gb--code/chat.md) |
 
@@ -27,4 +27,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`0fd1cc6`](https://github.com/sase-org/sase/commit/0fd1cc6c180b160bd4954a40ce6d07a62f270dfd) | fix(ace): clear the notification tab after R marks it read | 2026-08-30 11:27:57 EDT |
+| code | — | `0fd1cc6` | fix(ace): clear the notification tab after R marks it read | 2026-08-30 11:27:57 EDT |

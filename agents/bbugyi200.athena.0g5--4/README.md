@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1791874`](https://github.com/sase-org/sase/commit/179187499eb9df7fca11551ffe66afc9b4496297) | feat(memory)!: remove unused memory proposal path | 2026-08-29 13:01:49 EDT |
+| — | `1791874` | feat(memory)!: remove unused memory proposal path | 2026-08-29 13:01:49 EDT |
