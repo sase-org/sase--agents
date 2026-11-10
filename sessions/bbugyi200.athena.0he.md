@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0he` · Members: 5
 
 ```mermaid
 flowchart TD
-  n0["0he--plan [active]"]
+  n0["0he--plan [dismissed]"]
   n1["0he--gate [failed]"]
   n0 --> n1
   n2["0he--1 [completed]"]
@@ -23,7 +23,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0he--plan | active | gpt-6-astra / codex | 2026-09-09T13:37:51.474894+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0he--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0he--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0he--plan | dismissed | gpt-6-astra / codex | 2026-09-09T09:37:51.474894 → 2026-09-09T09:47:24.723949 | 0 | [Prompt](../agents/bbugyi200.athena.0he--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0he--plan/chat.md) |
 | <a id="member-gate"></a>gate | 0he--gate | failed | gpt-6-astra / codex | 2026-09-09T13:47:15.942117+00:00 → 2026-09-09T13:49:48.046039+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0he--gate/chat.md) |
 | <a id="member-1"></a>1 | 0he--1 | completed | gpt-5.5 / codex | 2026-09-09T14:49:42.527029+00:00 → 2026-09-09T14:54:13.662165+00:00 | [1](../agents/bbugyi200.athena.0he--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0he--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0he--1/chat.md) |
 | <a id="member-code"></a>code | 0he--code | completed | gpt-5.5 / codex | 2026-09-09T13:49:56.052750+00:00 → 2026-09-09T14:28:57.329740+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0he--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0he--code/chat.md) |
@@ -33,4 +33,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`562e855`](https://github.com/sase-org/sase/commit/562e855bc0c5f1d45d9893dca4d3540733cdcff7) | feat(pager): redesign breadcrumb trail chrome | 2026-09-09 10:52:11 EDT |
+| 1 | — | `562e855` | feat(pager): redesign breadcrumb trail chrome | 2026-09-09 10:52:11 EDT |

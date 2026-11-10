@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`562e855`](https://github.com/sase-org/sase/commit/562e855bc0c5f1d45d9893dca4d3540733cdcff7) | feat(pager): redesign breadcrumb trail chrome | 2026-09-09 10:52:11 EDT |
+| — | `562e855` | feat(pager): redesign breadcrumb trail chrome | 2026-09-09 10:52:11 EDT |

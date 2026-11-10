@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`633af68`](https://github.com/sase-org/sase/commit/633af6862f034436c031ae870f84d1ab59e22238) | fix(usage): tolerate Claude and Codex probe drift | 2026-09-09 12:53:00 EDT |
+| — | `633af68` | fix(usage): tolerate Claude and Codex probe drift | 2026-09-09 12:53:00 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0hd.f1](../../sessions/bbugyi200.athena.0hd.f1.md) (session · 3) | descendant | active 1, failed 2 |
+| [0hd.f1](../../sessions/bbugyi200.athena.0hd.f1.md) (session · 3) | descendant | dismissed 1, failed 2 |

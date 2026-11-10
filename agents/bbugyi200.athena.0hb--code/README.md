@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`72b76ba`](https://github.com/sase-org/sase/commit/72b76bae6673a1f50d9d5e0e2b3d1ec48f17e57d) | feat(ace): compact provider usage indicator | 2026-09-09 09:54:00 EDT |
+| — | `72b76ba` | feat(ace): compact provider usage indicator | 2026-09-09 09:54:00 EDT |

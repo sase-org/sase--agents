@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0hd.f1](../../sessions/bbugyi200.athena.0hd.f1.md) (session · 3) | descendant | active 1, failed 2 |
+| [0hd.f1](../../sessions/bbugyi200.athena.0hd.f1.md) (session · 3) | descendant | dismissed 1, failed 2 |
