@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a723858`](https://github.com/sase-org/sase/commit/a723858f27dc48fe42ea849b71f69527046811a0) | fix(agent): preserve wait agent identity | 2026-09-10 10:14:11 EDT |
+| — | `a723858` | fix(agent): preserve wait agent identity | 2026-09-10 10:14:11 EDT |

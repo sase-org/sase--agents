@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ea096db`](https://github.com/sase-org/sase/commit/ea096dbfcb3198cac511181c2270d44d478b5b17) | feat(agent): bind prompt stack waits to predecessors | 2026-09-09 20:34:34 EDT |
+| — | `ea096db` | feat(agent): bind prompt stack waits to predecessors | 2026-09-09 20:34:34 EDT |

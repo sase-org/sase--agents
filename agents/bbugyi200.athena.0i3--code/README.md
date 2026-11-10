@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0523874`](https://github.com/sase-org/sase/commit/0523874af159e7f029ec342218d08d5d2f5b8570) | fix(tui): bind pager tab history | 2026-09-10 08:54:56 EDT |
+| — | `0523874` | fix(tui): bind pager tab history | 2026-09-10 08:54:56 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0i3.f0](../bbugyi200.athena.0i3.f0/README.md) | descendant | waiting |
+| [0i3.f0](../bbugyi200.athena.0i3.f0/README.md) | descendant | dismissed |
