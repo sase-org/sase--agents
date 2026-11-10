@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7d956d0`](https://github.com/sase-org/sase/commit/7d956d03be392df7ef7d088b5ceb8a8801eeaa0c) | fix(symvision): repair finalizer setup syntax | 2026-08-24 11:28:19 EDT |
+| — | `7d956d0` | fix(symvision): repair finalizer setup syntax | 2026-08-24 11:28:19 EDT |

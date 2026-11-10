@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1b23813`](https://github.com/sase-org/sase/commit/1b238136654b2d2cf5b41c2299ab010b17324083) | fix(ace): make family-root kill-and-edit name reuse deterministic | 2026-08-24 11:36:06 EDT |
+| — | `1b23813` | fix(ace): make family-root kill-and-edit name reuse deterministic | 2026-08-24 11:36:06 EDT |
