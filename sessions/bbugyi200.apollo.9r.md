@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `9r` · Members: 7
 
 ```mermaid
 flowchart TD
-  n0["9r--plan [active]"]
+  n0["9r--plan [dismissed]"]
   n1["9r--code [completed]"]
   n0 --> n1
   n2["9r--1 [completed]"]
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 9r--plan | active | opus / claude | 2026-10-20T21:14:02.194578+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.9r--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.9r--plan/chat.md) |
+| <a id="member-plan"></a>plan | 9r--plan | dismissed | opus / claude | 2026-10-20T17:14:02.194578 → 2026-10-20T18:28:01.002770 | 0 | [Prompt](../agents/bbugyi200.apollo.9r--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.9r--plan/chat.md) |
 | <a id="member-code"></a>code | 9r--code | completed | grok-4.6 / grok | 2026-10-20T21:21:48.187932+00:00 → 2026-10-20T22:28:00.958431+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.9r--code/chat.md) |
 | <a id="member-1"></a>1 | 9r--1 | completed | grok-4.6 / grok | 2026-10-20T23:27:48.252807+00:00 → 2026-10-20T23:34:41.935582+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.9r--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.9r--1/chat.md) |
 | <a id="member-gate"></a>gate | 9r--gate | failed | opus / claude | 2026-10-20T21:20:52.243953+00:00 → 2026-10-20T21:21:15.039308+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.9r--gate/chat.md) |
@@ -39,6 +39,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`fa6e214`](https://github.com/sase-org/sase/commit/fa6e21446401f0dff01fbb719243b40b7441c5d2) | chore: Add SDD prompt and plan for log\_panel | 2026-06-17 14:19:07 EDT |
-| — | sase | [`3b17852`](https://github.com/sase-org/sase/commit/3b17852e718f82a23af6bc75379bfb5b837a732c) | chore: create log panel epic beads | 2026-06-17 14:33:15 EDT |
-| mon-0 | sase | [`ed03952`](https://github.com/sase-org/sase/commit/ed03952a6362d26c4b4909bf064354bcadc4abe8) | feat(llm): reap grok providers that hang after turn end | 2026-10-20 20:09:16 EDT |
+| — | — | `fa6e214` | chore: Add SDD prompt and plan for log\_panel | 2026-06-17 14:19:07 EDT |
+| — | — | `3b17852` | chore: create log panel epic beads | 2026-06-17 14:33:15 EDT |
+| mon-0 | — | `ed03952` | feat(llm): reap grok providers that hang after turn end | 2026-10-20 20:09:16 EDT |

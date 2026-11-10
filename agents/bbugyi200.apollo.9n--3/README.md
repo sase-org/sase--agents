@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2df906d`](https://github.com/sase-org/sase/commit/2df906dd57307209d3d9c4ae6051b762acb05a70) | fix(tui): keep deck focus when opening split panels | 2026-10-20 19:47:40 EDT |
+| — | `2df906d` | fix(tui): keep deck focus when opening split panels | 2026-10-20 19:47:40 EDT |
 
 ## Variables
 
