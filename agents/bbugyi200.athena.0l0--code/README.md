@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3efd7d6`](https://github.com/sase-org/sase/commit/3efd7d6c605a84a4e7ff57ee61e1ff6b2c9733e5) | fix(tui): mirror queued family row status | 2026-09-14 15:55:29 EDT |
+| — | `3efd7d6` | fix(tui): mirror queued family row status | 2026-09-14 15:55:29 EDT |

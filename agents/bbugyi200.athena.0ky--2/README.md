@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`00acd60`](https://github.com/sase-org/sase/commit/00acd607fa0a303cd767fd001d2ff12d2f7e4ea2) | fix(pager): include agent prompts and replies in metadata view | 2026-09-14 16:16:32 EDT |
+| — | `00acd60` | fix(pager): include agent prompts and replies in metadata view | 2026-09-14 16:16:32 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0ky.w0](../../sessions/bbugyi200.athena.0ky.w0.md) (session · 3) | descendant | active 1, failed 2 |
+| [0ky.w0](../../sessions/bbugyi200.athena.0ky.w0.md) (session · 3) | descendant | dismissed 1, failed 2 |
