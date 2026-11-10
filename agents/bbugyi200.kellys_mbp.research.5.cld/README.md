@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1c6e59d`](https://github.com/sase-org/sase/commit/1c6e59deae9a19d414c279edffd8ab57787bd004) | chore: add new-user onboarding improvements research | 2026-06-09 18:09:48 EDT |
+| — | `1c6e59d` | chore: add new-user onboarding improvements research | 2026-06-09 18:09:48 EDT |
 
 ## Neighbors
 
@@ -30,7 +30,7 @@
 | [research.5.cdx](../bbugyi200.kellys_mbp.research.5.cdx/README.md) | research.5 hood | completed |
 | [research.5.final](../bbugyi200.kellys_mbp.research.5.final/README.md) | research.5 hood | completed |
 | [research.5.final.f1](../bbugyi200.kellys_mbp.research.5.final.f1/README.md) | research.5 hood | completed |
-| [research.5.image](../bbugyi200.kellys_mbp.research.5.image/README.md) | research.5 hood | active |
+| [research.5.image](../bbugyi200.kellys_mbp.research.5.image/README.md) | research.5 hood | dismissed |
 | [research.0.cdx](../bbugyi200.kellys_mbp.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.kellys_mbp.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.kellys_mbp.research.0.final/README.md) | research hood | dismissed |

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`72bd50b`](https://github.com/sase-org/sase/commit/72bd50b8b33bc074af28458bc560fbdbfc974b94) | docs: add xprompt plang rename research | 2026-07-08 17:36:04 EDT |
+| — | `72bd50b` | docs: add xprompt plang rename research | 2026-07-08 17:36:04 EDT |
 
 ## Neighbors
 

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0dce323`](https://github.com/sase-org/sase/commit/0dce323c9aef7fba3039e84a88feef1424bc176d) | docs(research): analyze ,r keymap to revert a done agent's commits | 2026-06-14 10:23:25 EDT |
+| — | `0dce323` | docs(research): analyze ,r keymap to revert a done agent's commits | 2026-06-14 10:23:25 EDT |
 
 ## Neighbors
 

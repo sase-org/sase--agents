@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0cba285`](https://github.com/sase-org/sase/commit/0cba2851e8f8551699beaa84a9d49850fe91b22a) | docs: add SASE recent chat pattern research | 2026-06-20 17:39:22 EDT |
+| — | `0cba285` | docs: add SASE recent chat pattern research | 2026-06-20 17:39:22 EDT |
 
 ## Neighbors
 

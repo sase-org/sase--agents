@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e2e277b`](https://github.com/sase-org/sase/commit/e2e277bd359c1d4e6f3a52f488b858d7011d8fc4) | docs: consolidate dynamic agent family research | 2026-06-17 18:36:13 EDT |
+| — | `e2e277b` | docs: consolidate dynamic agent family research | 2026-06-17 18:36:13 EDT |
 
 ## Neighbors
 

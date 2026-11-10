@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [research](../../users/bbugyi200/machines/kellys_mbp/hoods/research/README.md) / research.5.image
 
-**Global name:** `bbugyi200.kellys_mbp.research.5.image` · **State:** active · **Source run:** `run-5acb05c377fcc90b3fc66dbf50596964`
+**Global name:** `bbugyi200.kellys_mbp.research.5.image` · **State:** dismissed · **Source run:** `run-5acb05c377fcc90b3fc66dbf50596964`
 
 **Owner:** `bbugyi200.kellys_mbp` · **Project:** sase · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-09-03T21:49:44.432932+00:00
+- Timing: 2026-09-03T17:49:44.432932 → 2026-09-03T18:01:16.608222
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`60f1b5f`](https://github.com/sase-org/sase/commit/60f1b5fe8026434eaa75eadad6c617dc0804773a) | chore: add new-user onboarding infographic | 2026-06-09 18:21:05 EDT |
+| — | `60f1b5f` | chore: add new-user onboarding infographic | 2026-06-09 18:21:05 EDT |
 
 ## Neighbors
 

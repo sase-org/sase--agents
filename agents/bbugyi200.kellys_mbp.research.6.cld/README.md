@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e826c9e`](https://github.com/sase-org/sase/commit/e826c9e5e87c80d7e67c5de6c066189172c884fb) | chore: Add research on memory system build-vs-Zep decision | 2026-06-11 08:03:54 EDT |
+| — | `e826c9e` | chore: Add research on memory system build-vs-Zep decision | 2026-06-11 08:03:54 EDT |
 
 ## Neighbors
 

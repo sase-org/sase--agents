@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e74784f`](https://github.com/sase-org/sase/commit/e74784f3edd76059fe8a3d2a3e76613c6ca37378) | docs: consolidate TUI performance research | 2026-06-20 17:43:27 EDT |
+| — | `e74784f` | docs: consolidate TUI performance research | 2026-06-20 17:43:27 EDT |
 
 ## Neighbors
 

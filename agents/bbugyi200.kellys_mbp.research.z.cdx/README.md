@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d5d50a1`](https://github.com/sase-org/sase/commit/d5d50a1b5941c02570d96cf668b3ce51fe2d7677) | docs: research sibling repository removal | 2026-06-20 12:10:26 EDT |
+| — | `d5d50a1` | docs: research sibling repository removal | 2026-06-20 12:10:26 EDT |
 
 ## Neighbors
 

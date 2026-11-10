@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`928449e`](https://github.com/sase-org/sase/commit/928449e550eb083214c4abb7c9e0ac571e85fdfd) | docs: research unified model purpose config | 2026-06-17 15:10:09 EDT |
+| — | `928449e` | docs: research unified model purpose config | 2026-06-17 15:10:09 EDT |
 
 ## Neighbors
 

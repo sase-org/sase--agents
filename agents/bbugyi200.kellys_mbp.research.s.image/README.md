@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`701bf6d`](https://github.com/sase-org/sase/commit/701bf6d926d48c27a74ac63716d6027811f858d2) | docs: add license research infographic | 2026-06-19 12:49:24 EDT |
+| — | `701bf6d` | docs: add license research infographic | 2026-06-19 12:49:24 EDT |
 
 ## Neighbors
 

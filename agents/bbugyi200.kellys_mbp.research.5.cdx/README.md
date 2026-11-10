@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d093260`](https://github.com/sase-org/sase/commit/d09326067eef82418b512db11ea63e1c803924e6) | chore: Add research on SASE new-user onboarding | 2026-06-09 18:07:47 EDT |
+| — | `d093260` | chore: Add research on SASE new-user onboarding | 2026-06-09 18:07:47 EDT |
 
 ## Neighbors
 
@@ -30,7 +30,7 @@
 | [research.5.cld](../bbugyi200.kellys_mbp.research.5.cld/README.md) | research.5 hood | completed |
 | [research.5.final](../bbugyi200.kellys_mbp.research.5.final/README.md) | research.5 hood | completed |
 | [research.5.final.f1](../bbugyi200.kellys_mbp.research.5.final.f1/README.md) | research.5 hood | completed |
-| [research.5.image](../bbugyi200.kellys_mbp.research.5.image/README.md) | research.5 hood | active |
+| [research.5.image](../bbugyi200.kellys_mbp.research.5.image/README.md) | research.5 hood | dismissed |
 | [research.0.cdx](../bbugyi200.kellys_mbp.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.kellys_mbp.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.kellys_mbp.research.0.final/README.md) | research hood | dismissed |

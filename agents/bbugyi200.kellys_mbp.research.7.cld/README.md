@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1d1602a`](https://github.com/sase-org/sase/commit/1d1602a6aa27f9e6a4fb2b511f66e5245a6daaff) | chore: add second research pass on TUI screenshots and demo videos | 2026-06-11 18:21:19 EDT |
+| — | `1d1602a` | chore: add second research pass on TUI screenshots and demo videos | 2026-06-11 18:21:19 EDT |
 
 ## Neighbors
 

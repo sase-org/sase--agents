@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`60c5526`](https://github.com/sase-org/sase/commit/60c5526e77e3b6e74f0fe493c7e703eb9bdb8b94) | chore: consolidate new-user onboarding research | 2026-06-09 18:16:06 EDT |
+| — | `60c5526` | chore: consolidate new-user onboarding research | 2026-06-09 18:16:06 EDT |
 
 ## Neighbors
 
@@ -30,7 +30,7 @@
 | [research.5.final.f1](../bbugyi200.kellys_mbp.research.5.final.f1/README.md) | descendant | completed |
 | [research.5.cdx](../bbugyi200.kellys_mbp.research.5.cdx/README.md) | research.5 hood | completed |
 | [research.5.cld](../bbugyi200.kellys_mbp.research.5.cld/README.md) | research.5 hood | completed |
-| [research.5.image](../bbugyi200.kellys_mbp.research.5.image/README.md) | research.5 hood | active |
+| [research.5.image](../bbugyi200.kellys_mbp.research.5.image/README.md) | research.5 hood | dismissed |
 | [research.0.cdx](../bbugyi200.kellys_mbp.research.0.cdx/README.md) | research hood | dismissed |
 | [research.0.cld](../bbugyi200.kellys_mbp.research.0.cld/README.md) | research hood | dismissed |
 | [research.0.final](../bbugyi200.kellys_mbp.research.0.final/README.md) | research hood | dismissed |

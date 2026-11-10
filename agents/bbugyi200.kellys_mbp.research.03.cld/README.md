@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4d46687`](https://github.com/sase-org/sase/commit/4d46687d5102ba7bc1ededa166a3a8db4eeb3114) | docs(research): analyze agent chat friction patterns | 2026-06-20 17:44:08 EDT |
+| — | `4d46687` | docs(research): analyze agent chat friction patterns | 2026-06-20 17:44:08 EDT |
 
 ## Neighbors
 

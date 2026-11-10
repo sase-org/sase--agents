@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [kellys\_mbp](../../README.md) / research
 
-**Global hood:** `bbugyi200.kellys_mbp.research` · **Runs:** 244 · **Sessions:** 0 · **States:** active 1, completed 229, dismissed 14
+**Global hood:** `bbugyi200.kellys_mbp.research` · **Runs:** 244 · **Sessions:** 0 · **States:** completed 229, dismissed 15
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -104,7 +104,7 @@
 | [research.0l.cld](../../../../../../agents/bbugyi200.kellys_mbp.research.0l.cld/README.md) | completed | — | 2026-06-26T01:43:55+00:00 → 2026-06-26T01:43:55+00:00 | 1 | — |
 | [research.8.final](../../../../../../agents/bbugyi200.kellys_mbp.research.8.final/README.md) | completed | — | 2026-06-11T23:21:00+00:00 → 2026-06-11T23:21:00+00:00 | 1 | — |
 | [research.6.cld](../../../../../../agents/bbugyi200.kellys_mbp.research.6.cld/README.md) | completed | — | 2026-06-11T12:03:54+00:00 → 2026-06-11T12:03:54+00:00 | 1 | — |
-| [research.5.image](../../../../../../agents/bbugyi200.kellys_mbp.research.5.image/README.md) | active | gpt-5.6-sol / codex | 2026-09-03T21:49:44.432932+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.kellys_mbp.research.5.image/prompt.md) |
+| [research.5.image](../../../../../../agents/bbugyi200.kellys_mbp.research.5.image/README.md) | dismissed | gpt-5.6-sol / codex | 2026-09-03T17:49:44.432932 → 2026-09-03T18:01:16.608222 | 1 | [prompt](../../../../../../agents/bbugyi200.kellys_mbp.research.5.image/prompt.md) |
 | [research.s.image](../../../../../../agents/bbugyi200.kellys_mbp.research.s.image/README.md) | completed | — | 2026-06-19T16:49:24+00:00 → 2026-06-19T16:49:24+00:00 | 1 | — |
 | [research.7.cld](../../../../../../agents/bbugyi200.kellys_mbp.research.7.cld/README.md) | completed | — | 2026-06-11T22:21:19+00:00 → 2026-06-11T22:21:19+00:00 | 1 | — |
 | [research.08.image](../../../../../../agents/bbugyi200.kellys_mbp.research.08.image/README.md) | completed | — | 2026-06-23T11:17:12+00:00 → 2026-06-23T11:17:12+00:00 | 1 | — |

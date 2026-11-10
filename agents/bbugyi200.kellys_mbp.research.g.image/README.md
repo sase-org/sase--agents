@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0fbdbfd`](https://github.com/sase-org/sase/commit/0fbdbfdd916486c38636aa216707fe670603600e) | docs: add blog launch research infographic | 2026-06-14 17:39:47 EDT |
+| — | `0fbdbfd` | docs: add blog launch research infographic | 2026-06-14 17:39:47 EDT |
 
 ## Neighbors
 

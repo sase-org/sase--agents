@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e16ac98`](https://github.com/sase-org/sase/commit/e16ac986f5c1918e4d438df2bc6b378aa854c179) | docs: research xprompt-to-plang rename critique | 2026-07-08 17:38:05 EDT |
+| — | `e16ac98` | docs: research xprompt-to-plang rename critique | 2026-07-08 17:38:05 EDT |
 
 ## Neighbors
 

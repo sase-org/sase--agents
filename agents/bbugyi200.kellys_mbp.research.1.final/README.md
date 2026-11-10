@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`80dba02`](https://github.com/sase-org/sase/commit/80dba020aaf372f1c1e483a7b24faf77006dbaf7) | chore: consolidate sase doctor research | 2026-06-09 11:33:11 EDT |
-| sase | [`111de03`](https://github.com/sase-org/sase/commit/111de035ed051508a540b99cf5fe1063ea3a2cdb) | docs: consolidate sase doctor improvement research | 2026-07-08 00:52:27 EDT |
+| — | `80dba02` | chore: consolidate sase doctor research | 2026-06-09 11:33:11 EDT |
+| — | `111de03` | docs: consolidate sase doctor improvement research | 2026-07-08 00:52:27 EDT |
 
 ## Neighbors
 

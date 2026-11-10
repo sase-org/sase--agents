@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b480ee9`](https://github.com/sase-org/sase/commit/b480ee9708dec683350d52aefefdf4e2e7f786eb) | docs: consolidate coral subcommand naming research | 2026-06-22 11:37:10 EDT |
+| — | `b480ee9` | docs: consolidate coral subcommand naming research | 2026-06-22 11:37:10 EDT |
 
 ## Neighbors
 
