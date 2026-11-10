@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1795085`](https://github.com/sase-org/sase/commit/179508566ab85654ec67a340f001fa2a361ab503) | fix: repair the three deterministic master CI failure clusters | 2026-08-26 09:45:55 EDT |
+| — | `1795085` | fix: repair the three deterministic master CI failure clusters | 2026-08-26 09:45:55 EDT |

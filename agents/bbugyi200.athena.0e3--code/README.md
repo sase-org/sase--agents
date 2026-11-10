@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3837e92`](https://github.com/sase-org/sase/commit/3837e92201d02f9e002cacc3a35a5b7345571732) | feat(tui): make word completion case-aware | 2026-08-26 08:39:06 EDT |
+| — | `3837e92` | feat(tui): make word completion case-aware | 2026-08-26 08:39:06 EDT |

@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `0e6` · Members: 6
 ```mermaid
 flowchart TD
   n0["0e6--2 [completed]"]
-  n1["0e6--plan [active]"]
+  n1["0e6--plan [dismissed]"]
   n0 --> n1
   n2["0e6--mon-0 [failed]"]
   n0 --> n2
@@ -26,7 +26,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-2"></a>2 | 0e6--2 | completed | sonnet / claude | 2026-08-26T13:40:36.171309+00:00 → 2026-08-26T13:49:00.322111+00:00 | [1](../agents/bbugyi200.athena.0e6--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0e6--2/prompt.md) | [Chat](../agents/bbugyi200.athena.0e6--2/chat.md) |
-| <a id="member-plan"></a>plan | 0e6--plan | active | opus / claude | 2026-08-26T12:00:54.942253+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0e6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0e6--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0e6--plan | dismissed | opus / claude | 2026-08-26T08:00:38 | 0 | [Prompt](../agents/bbugyi200.athena.0e6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0e6--plan/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 0e6--mon-0 | failed | gpt-5.5 / codex | 2026-08-26T13:22:42.440899+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0e6--mon-0/chat.md) |
 | <a id="member-mon"></a>mon | 0e6--mon | failed | gpt-5.5 / codex | 2026-08-26T13:00:52.183607+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0e6--mon/chat.md) |
 | <a id="member-code"></a>code | 0e6--code | completed | gpt-5.5 / codex | 2026-08-26T12:31:26.065206+00:00 → 2026-08-26T13:01:22.649727+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0e6--code/chat.md) |
@@ -36,4 +36,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | sase | [`1795085`](https://github.com/sase-org/sase/commit/179508566ab85654ec67a340f001fa2a361ab503) | fix: repair the three deterministic master CI failure clusters | 2026-08-26 09:45:55 EDT |
+| 2 | — | `1795085` | fix: repair the three deterministic master CI failure clusters | 2026-08-26 09:45:55 EDT |

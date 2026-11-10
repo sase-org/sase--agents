@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6ae021b`](https://github.com/sase-org/sase/commit/6ae021b2bb881b928c26cb8c8118ae7f1f1f13ee) | fix(xprompt): stop injecting the VCS workflow tag into #fork-injected history | 2026-08-26 08:41:12 EDT |
+| — | `6ae021b` | fix(xprompt): stop injecting the VCS workflow tag into #fork-injected history | 2026-08-26 08:41:12 EDT |

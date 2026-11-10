@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a2e9f2e`](https://github.com/sase-org/sase/commit/a2e9f2e145b71eecba8f7a39ef1527e8c3ba6cda) | fix(artifacts): preserve captured file-ref suffixes | 2026-08-26 08:54:10 EDT |
+| — | `a2e9f2e` | fix(artifacts): preserve captured file-ref suffixes | 2026-08-26 08:54:10 EDT |
