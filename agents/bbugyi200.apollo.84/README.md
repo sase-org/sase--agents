@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [84](../../users/bbugyi200/machines/apollo/hoods/84/README.md) / 84
 
-**Global name:** `bbugyi200.apollo.84` · **State:** active · **Source run:** `run-2c68674476df2c6615bf84ea79c6fff3`
+**Global name:** `bbugyi200.apollo.84` · **State:** dismissed · **Source run:** `run-2c68674476df2c6615bf84ea79c6fff3`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 84
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-16T17:23:36.763218+00:00
+- Timing: 2026-10-16T13:23:36.763218 → 2026-10-16T13:37:43.235231
 - Commits: [3](#commits)
 - Variables: [1](#variables)
 
@@ -22,9 +22,9 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e347407`](https://github.com/sase-org/sase/commit/e3474074c34b2b45913c7c183c8bf69386ee6bed) | chore: Add SDD prompt and plan for rename\_skills\_use | 2026-06-15 16:21:54 EDT |
-| sase | [`76a7f0c`](https://github.com/sase-org/sase/commit/76a7f0c0175d8182e360397a87b504718d8cc741) | feat(skills)!: rename \`sase skills log\` to \`sase skills use\` | 2026-06-15 16:32:11 EDT |
-| sase | [`36b962a`](https://github.com/sase-org/sase/commit/36b962ad9f664186dfa52b372469a9318b2c0fa7) | fix(workspaces): isolate generated SASE repo metadata | 2026-07-14 06:16:37 EDT |
+| — | `e347407` | chore: Add SDD prompt and plan for rename\_skills\_use | 2026-06-15 16:21:54 EDT |
+| — | `76a7f0c` | feat(skills)!: rename \`sase skills log\` to \`sase skills use\` | 2026-06-15 16:32:11 EDT |
+| — | `36b962a` | fix(workspaces): isolate generated SASE repo metadata | 2026-07-14 06:16:37 EDT |
 
 ## Variables
 
