@@ -21,14 +21,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`afbfc08`](https://github.com/sase-org/sase/commit/afbfc0883ec34a3b57dcc61f23f337f018573f4d) | feat(ace): emphasize exhausted usage indicators | 2026-09-11 09:41:06 EDT |
+| — | `afbfc08` | feat(ace): emphasize exhausted usage indicators | 2026-09-11 09:41:06 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0j8](../../sessions/bbugyi200.athena.0j8.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
-| [0j8.f0.f0](../bbugyi200.athena.0j8.f0.f0/README.md) | descendant | waiting |
-| [0j8.f0.f1](../bbugyi200.athena.0j8.f0.f1/README.md) | descendant | waiting |
-| [0j8.f0.f2](../../sessions/bbugyi200.athena.0j8.f0.f2.md) (session · 2) | descendant | active 1, failed 1 |
-| [0j8.f0.f2.f0](../../sessions/bbugyi200.athena.0j8.f0.f2.f0.md) (session · 3) | descendant | active 1, failed 2 |
+| [0j8](../../sessions/bbugyi200.athena.0j8.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
+| [0j8.f0.f0](../bbugyi200.athena.0j8.f0.f0/README.md) | descendant | dismissed |
+| [0j8.f0.f1](../bbugyi200.athena.0j8.f0.f1/README.md) | descendant | dismissed |
+| [0j8.f0.f2](../../sessions/bbugyi200.athena.0j8.f0.f2.md) (session · 2) | descendant | dismissed 1, failed 1 |
+| [0j8.f0.f2.f0](../../sessions/bbugyi200.athena.0j8.f0.f2.f0.md) (session · 3) | descendant | dismissed 1, failed 2 |

@@ -21,14 +21,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ac55d0c`](https://github.com/sase-org/sase/commit/ac55d0c874f1927f0555b3cb56233bf3f2eed449) | feat(tui): group usage window indicators | 2026-09-11 08:42:58 EDT |
+| — | `ac55d0c` | feat(tui): group usage window indicators | 2026-09-11 08:42:58 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0j8.f0](../../sessions/bbugyi200.athena.0j8.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
-| [0j8.f0.f0](../bbugyi200.athena.0j8.f0.f0/README.md) | descendant | waiting |
-| [0j8.f0.f1](../bbugyi200.athena.0j8.f0.f1/README.md) | descendant | waiting |
-| [0j8.f0.f2](../../sessions/bbugyi200.athena.0j8.f0.f2.md) (session · 2) | descendant | active 1, failed 1 |
-| [0j8.f0.f2.f0](../../sessions/bbugyi200.athena.0j8.f0.f2.f0.md) (session · 3) | descendant | active 1, failed 2 |
+| [0j8.f0](../../sessions/bbugyi200.athena.0j8.f0.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |
+| [0j8.f0.f0](../bbugyi200.athena.0j8.f0.f0/README.md) | descendant | dismissed |
+| [0j8.f0.f1](../bbugyi200.athena.0j8.f0.f1/README.md) | descendant | dismissed |
+| [0j8.f0.f2](../../sessions/bbugyi200.athena.0j8.f0.f2.md) (session · 2) | descendant | dismissed 1, failed 1 |
+| [0j8.f0.f2.f0](../../sessions/bbugyi200.athena.0j8.f0.f2.f0.md) (session · 3) | descendant | dismissed 1, failed 2 |

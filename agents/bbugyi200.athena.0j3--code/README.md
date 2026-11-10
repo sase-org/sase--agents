@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e6fdda0`](https://github.com/sase-org/sase/commit/e6fdda0179fdcf2dbccd64994557e935dee53b11) | fix(xprompt): ignore prose code-directive mentions | 2026-09-11 07:26:40 EDT |
+| — | `e6fdda0` | fix(xprompt): ignore prose code-directive mentions | 2026-09-11 07:26:40 EDT |

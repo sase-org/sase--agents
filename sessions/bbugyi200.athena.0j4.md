@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["0j4--4 [completed]"]
   n0 --> n3
-  n4["0j4--0 [active]"]
+  n4["0j4--0 [dismissed]"]
   n0 --> n4
   n5["0j4--mon-3 [failed]"]
   n0 --> n5
@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | 0j4--mon-0 | failed | sonnet / claude | 2026-09-11T11:12:51.312703+00:00 → 2026-09-11T11:14:49.288557+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0j4--mon-0/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | 0j4--mon-2 | failed | sonnet / claude | 2026-09-11T11:22:09.949644+00:00 → 2026-09-11T11:25:47.909898+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0j4--mon-2/chat.md) |
 | <a id="member-4"></a>4 | 0j4--4 | completed | sonnet / claude | 2026-09-11T11:26:27.667771+00:00 → 2026-09-11T11:28:36.417652+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0j4--4/prompt.md) | [Chat](../agents/bbugyi200.athena.0j4--4/chat.md) |
-| <a id="member-0"></a>0 | 0j4--0 | active | sonnet / claude | 2026-09-11T10:32:03.682207+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0j4--0/prompt.md) | [Chat](../agents/bbugyi200.athena.0j4--0/chat.md) |
+| <a id="member-0"></a>0 | 0j4--0 | dismissed | sonnet / claude | 2026-09-11T06:32:03.682207 → 2026-09-11T06:49:35.954543 | 0 | [Prompt](../agents/bbugyi200.athena.0j4--0/prompt.md) | [Chat](../agents/bbugyi200.athena.0j4--0/chat.md) |
 | <a id="member-mon-3"></a>mon-3 | 0j4--mon-3 | failed | sonnet / claude | 2026-09-11T11:28:23.944929+00:00 → 2026-09-11T11:30:26.179917+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0j4--mon-3/chat.md) |
 | <a id="member-5"></a>5 | 0j4--5 | completed | sonnet / claude | 2026-09-11T11:31:08.462117+00:00 → 2026-09-11T11:39:23.302888+00:00 | [1](../agents/bbugyi200.athena.0j4--5/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0j4--5/prompt.md) | [Chat](../agents/bbugyi200.athena.0j4--5/chat.md) |
 | <a id="member-1"></a>1 | 0j4--1 | completed | sonnet / claude | 2026-09-11T11:10:55.756145+00:00 → 2026-09-11T11:13:32.447913+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0j4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0j4--1/chat.md) |
@@ -51,4 +51,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 5 | sase | [`f9680bc`](https://github.com/sase-org/sase/commit/f9680bc6554cae264cf2bb08d8edfba96763048c) | feat(axe): add sase axe restart command | 2026-09-11 07:35:07 EDT |
+| 5 | — | `f9680bc` | feat(axe): add sase axe restart command | 2026-09-11 07:35:07 EDT |

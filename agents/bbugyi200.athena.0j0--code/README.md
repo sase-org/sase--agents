@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`77d8e04`](https://github.com/sase-org/sase/commit/77d8e043383e34ec607cee38e340cfb5c9d3331d) | feat(tui): improve usage window legibility in top bar badges | 2026-09-10 18:08:35 EDT |
+| — | `77d8e04` | feat(tui): improve usage window legibility in top bar badges | 2026-09-10 18:08:35 EDT |
