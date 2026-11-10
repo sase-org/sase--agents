@@ -17,12 +17,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`dc8da9e`](https://github.com/sase-org/sase/commit/dc8da9e713876479b30ac02670ba4f6c81183b88) | chore: Add SDD prompt and plan for dynamic\_agent\_families\_v1 | 2026-07-05 21:16:59 EDT |
-| sase | [`2ad36d8`](https://github.com/sase-org/sase/commit/2ad36d8262abd9c604d27d773dc4ae393f21c8cd) | chore: create dynamic agent families epic beads | 2026-07-05 21:21:06 EDT |
+| — | `dc8da9e` | chore: Add SDD prompt and plan for dynamic\_agent\_families\_v1 | 2026-07-05 21:16:59 EDT |
+| — | `2ad36d8` | chore: create dynamic agent families epic beads | 2026-07-05 21:21:06 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [0b.f1](../bbugyi200.kellys_mbp.0b.f1/README.md) | ancestor | completed |
-| [0b](../../sessions/bbugyi200.kellys_mbp.0b.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0b](../../sessions/bbugyi200.kellys_mbp.0b.md) (session · 3) | ancestor | completed 2, failed 1 |

@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`43186b4`](https://github.com/sase-org/sase/commit/43186b41b96b75124ee6d4228a75846fd23fc7a4) | docs(research): add dynamic agent families v1/v2 design | 2026-07-05 20:43:00 EDT |
+| — | `43186b4` | docs(research): add dynamic agent families v1/v2 design | 2026-07-05 20:43:00 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0b](../../sessions/bbugyi200.kellys_mbp.0b.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0b](../../sessions/bbugyi200.kellys_mbp.0b.md) (session · 3) | ancestor | completed 2, failed 1 |
 | [0b.f1.f1](../bbugyi200.kellys_mbp.0b.f1.f1/README.md) | descendant | completed |
