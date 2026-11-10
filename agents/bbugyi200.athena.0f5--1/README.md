@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`eeb257a`](https://github.com/sase-org/sase/commit/eeb257a804538f57d2afad4b7832a1ac26f46675) | fix(wait): resolve gate-shell wait dependencies | 2026-08-27 16:03:10 EDT |
+| — | `eeb257a` | fix(wait): resolve gate-shell wait dependencies | 2026-08-27 16:03:10 EDT |
