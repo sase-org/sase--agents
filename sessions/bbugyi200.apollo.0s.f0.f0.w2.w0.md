@@ -48,6 +48,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [0s.f0.f0.w2](bbugyi200.apollo.0s.f0.f0.w2.md) (session · 3) | ancestor | failed 3 |
 | [0s.f0.f0](bbugyi200.apollo.0s.f0.f0.md) (session · 3) | ancestor | completed 2, failed 1 |
 | [0s.f0](../agents/bbugyi200.apollo.0s.f0/README.md) | ancestor | waiting |
-| [0s](bbugyi200.apollo.0s.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
-| [0s.f0.f0.w0](../agents/bbugyi200.apollo.0s.f0.f0.w0/README.md) | 0s.f0.f0 hood | waiting |
-| [0s.f0.f0.w1](../agents/bbugyi200.apollo.0s.f0.f0.w1/README.md) | 0s.f0.f0 hood | waiting |
+| [0s](bbugyi200.apollo.0s.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
+| [0s.f0.f0.w0](../agents/bbugyi200.apollo.0s.f0.f0.w0/README.md) | 0s.f0.f0 hood | dismissed |
+| [0s.f0.f0.w1](../agents/bbugyi200.apollo.0s.f0.f0.w1/README.md) | 0s.f0.f0 hood | dismissed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [0s](../../users/bbugyi200/machines/apollo/hoods/0s/README.md) / [0s](../../sessions/bbugyi200.apollo.0s.md) / 0s--plan
 
-**Global name:** `bbugyi200.apollo.0s--plan` · **State:** active · **Source run:** `run-477906c6420a1dda23a031c301188104`
+**Global name:** `bbugyi200.apollo.0s--plan` · **State:** dismissed · **Source run:** `run-477906c6420a1dda23a031c301188104`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 0s
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-19T13:31:42.106692+00:00
+- Timing: 2026-09-19T09:31:42.106692 → 2026-09-19T09:47:27.759656
 - Commits: 0
 
 ## Files
@@ -24,7 +24,7 @@
 | [0s.f0](../../sessions/bbugyi200.apollo.0s.f0.md) (session · 3) | descendant | completed 2, failed 1 |
 | [0s.f0](../bbugyi200.apollo.0s.f0/README.md) | descendant | waiting |
 | [0s.f0.f0](../../sessions/bbugyi200.apollo.0s.f0.f0.md) (session · 3) | descendant | completed 2, failed 1 |
-| [0s.f0.f0.w0](../bbugyi200.apollo.0s.f0.f0.w0/README.md) | descendant | waiting |
-| [0s.f0.f0.w1](../bbugyi200.apollo.0s.f0.f0.w1/README.md) | descendant | waiting |
+| [0s.f0.f0.w0](../bbugyi200.apollo.0s.f0.f0.w0/README.md) | descendant | dismissed |
+| [0s.f0.f0.w1](../bbugyi200.apollo.0s.f0.f0.w1/README.md) | descendant | dismissed |
 | [0s.f0.f0.w2](../../sessions/bbugyi200.apollo.0s.f0.f0.w2.md) (session · 3) | descendant | failed 3 |
 | [0s.f0.f0.w2.w0](../../sessions/bbugyi200.apollo.0s.f0.f0.w2.w0.md) (session · 7) | descendant | completed 4, failed 3 |

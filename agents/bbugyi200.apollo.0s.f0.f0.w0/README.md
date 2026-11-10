@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [0s](../../users/bbugyi200/machines/apollo/hoods/0s/README.md) / 0s.f0.f0.w0
 
-**Global name:** `bbugyi200.apollo.0s.f0.f0.w0` · **State:** waiting · **Source run:** `run-93b599552218985841f953a3857cbcc6`
+**Global name:** `bbugyi200.apollo.0s.f0.f0.w0` · **State:** dismissed · **Source run:** `run-93b599552218985841f953a3857cbcc6`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 0s
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20260920162351
+- Timing: 2026-09-20T16:23:51
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 |---|---|---|
 | [0s.f0.f0](../../sessions/bbugyi200.apollo.0s.f0.f0.md) (session · 3) | ancestor | completed 2, failed 1 |
 | [0s.f0](../bbugyi200.apollo.0s.f0/README.md) | ancestor | waiting |
-| [0s](../../sessions/bbugyi200.apollo.0s.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
-| [0s.f0.f0.w1](../bbugyi200.apollo.0s.f0.f0.w1/README.md) | 0s.f0.f0 hood | waiting |
+| [0s](../../sessions/bbugyi200.apollo.0s.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
+| [0s.f0.f0.w1](../bbugyi200.apollo.0s.f0.f0.w1/README.md) | 0s.f0.f0 hood | dismissed |
 | [0s.f0.f0.w2](../../sessions/bbugyi200.apollo.0s.f0.f0.w2.md) (session · 3) | 0s.f0.f0 hood | failed 3 |
 | [0s.f0.f0.w2.w0](../../sessions/bbugyi200.apollo.0s.f0.f0.w2.w0.md) (session · 7) | 0s.f0.f0 hood | completed 4, failed 3 |

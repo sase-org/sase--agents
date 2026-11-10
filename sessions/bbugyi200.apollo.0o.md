@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["0o--mon [failed]"]
   n0 --> n3
-  n4["0o--plan [active]"]
+  n4["0o--plan [dismissed]"]
   n0 --> n4
   n5["0o--mon-3 [failed]"]
   n0 --> n5
@@ -43,7 +43,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | 0o--code | completed | grok-4.6 / grok | 2026-09-19T13:04:59.791470+00:00 → 2026-09-19T13:19:20.005071+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.0o--code/prompt.md) | [Chat](../agents/bbugyi200.apollo.0o--code/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | 0o--mon-1 | failed | grok-4.6 / grok | 2026-09-19T14:06:45.142007+00:00 → 2026-09-19T15:37:04.007428+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.0o--mon-1/chat.md) |
 | <a id="member-mon"></a>mon | 0o--mon | failed | grok-4.6 / grok | 2026-09-19T13:18:26.398547+00:00 → 2026-09-19T13:22:56.847862+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.0o--mon/chat.md) |
-| <a id="member-plan"></a>plan | 0o--plan | active | grok-4.6 / grok | 2026-09-19T12:48:57.152118+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.0o--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.0o--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0o--plan | dismissed | grok-4.6 / grok | 2026-09-19T08:48:57.152118 → 2026-09-19T09:04:00.464250 | 0 | [Prompt](../agents/bbugyi200.apollo.0o--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.0o--plan/chat.md) |
 | <a id="member-mon-3"></a>mon-3 | 0o--mon-3 | failed | grok-4.6 / grok | 2026-09-19T16:15:13.965846+00:00 → 2026-09-19T16:55:22.675374+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.0o--mon-3/chat.md) |
 | <a id="member-5"></a>5 | 0o--5 | failed | sonnet / claude | 2026-09-19T16:55:22.583880+00:00 → 2026-09-19T17:41:25.696945+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.0o--5/prompt.md) | — |
 | <a id="member-mon-2"></a>mon-2 | 0o--mon-2 | failed | grok-4.6 / grok | 2026-09-19T15:40:27.841717+00:00 → 2026-09-19T15:51:32.852474+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.0o--mon-2/chat.md) |

@@ -34,9 +34,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [0s](bbugyi200.apollo.0s.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0s](bbugyi200.apollo.0s.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
 | [0s.f0.f0](bbugyi200.apollo.0s.f0.f0.md) (session · 3) | descendant | completed 2, failed 1 |
-| [0s.f0.f0.w0](../agents/bbugyi200.apollo.0s.f0.f0.w0/README.md) | descendant | waiting |
-| [0s.f0.f0.w1](../agents/bbugyi200.apollo.0s.f0.f0.w1/README.md) | descendant | waiting |
+| [0s.f0.f0.w0](../agents/bbugyi200.apollo.0s.f0.f0.w0/README.md) | descendant | dismissed |
+| [0s.f0.f0.w1](../agents/bbugyi200.apollo.0s.f0.f0.w1/README.md) | descendant | dismissed |
 | [0s.f0.f0.w2](bbugyi200.apollo.0s.f0.f0.w2.md) (session · 3) | descendant | failed 3 |
 | [0s.f0.f0.w2.w0](bbugyi200.apollo.0s.f0.f0.w2.w0.md) (session · 7) | descendant | completed 4, failed 3 |
