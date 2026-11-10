@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cc2d907`](https://github.com/sase-org/sase/commit/cc2d90721baf4188eb6e19b116fd594f89ea9bc4) | fix(sdd): bound artifact link backfill reconciliation | 2026-08-26 12:03:27 EDT |
+| — | `cc2d907` | fix(sdd): bound artifact link backfill reconciliation | 2026-08-26 12:03:27 EDT |

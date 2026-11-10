@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4a987d8`](https://github.com/sase-org/sase/commit/4a987d8e8b2afeda8df636d04ceeee50b289a670) | docs(memory): add sase-gate glossary strand | 2026-08-26 12:05:41 EDT |
+| — | `4a987d8` | docs(memory): add sase-gate glossary strand | 2026-08-26 12:05:41 EDT |
