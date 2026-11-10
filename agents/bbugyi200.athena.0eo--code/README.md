@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`be63e9c`](https://github.com/sase-org/sase/commit/be63e9c7dcd35944ac51d7da8171677bbd499205) | fix(history): fall back when chat workspace helper is unavailable | 2026-08-27 09:52:39 EDT |
+| — | `be63e9c` | fix(history): fall back when chat workspace helper is unavailable | 2026-08-27 09:52:39 EDT |

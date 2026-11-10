@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f49030d`](https://github.com/sase-org/sase/commit/f49030db66b134281bc447c9d367cd7aabad6d9c) | perf(ace-tui): cache provider\_source\_token and cascade tab cache invalidation | 2026-08-27 08:08:07 EDT |
+| — | `f49030d` | perf(ace-tui): cache provider\_source\_token and cascade tab cache invalidation | 2026-08-27 08:08:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0em.f1](../bbugyi200.athena.0em.f1/README.md) | descendant | active |
+| [0em.f1](../bbugyi200.athena.0em.f1/README.md) | descendant | dismissed |
