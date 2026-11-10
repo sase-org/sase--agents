@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e2229a6`](https://github.com/sase-org/sase/commit/e2229a6803cc99ee82d27eb9a1007d93e950bfdf) | feat(ace): show usage windows in header | 2026-09-12 01:15:20 EDT |
+| — | `e2229a6` | feat(ace): show usage windows in header | 2026-09-12 01:15:20 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0jq.f0](../../sessions/bbugyi200.athena.0jq.f0.md) (session · 6) | descendant | active 2, completed 2, failed 2 |
+| [0jq.f0](../../sessions/bbugyi200.athena.0jq.f0.md) (session · 6) | descendant | active 1, completed 2, dismissed 1, failed 2 |

@@ -25,7 +25,7 @@ flowchart TD
   n0 --> n7
   n8["0jn.f0--gate [failed]"]
   n0 --> n8
-  n9["0jn.f0--plan [active]"]
+  n9["0jn.f0--plan [dismissed]"]
   n0 --> n9
   n10["0jn.f0--mon [failed]"]
   n0 --> n10
@@ -44,17 +44,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-4"></a>4 | 0jn.f0--4 | completed | gpt-5.5 / codex | 2026-09-11T23:28:15.693315+00:00 → 2026-09-12T01:25:45.629784+00:00 | [1](../agents/bbugyi200.athena.0jn.f0--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0jn.f0--4/prompt.md) | [Chat](../agents/bbugyi200.athena.0jn.f0--4/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | 0jn.f0--mon-1 | failed | grok-4.6 / grok | 2026-09-11T22:39:39.656575+00:00 → 2026-09-11T22:57:30.860940+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0jn.f0--mon-1/chat.md) |
 | <a id="member-gate"></a>gate | 0jn.f0--gate | failed | gpt-5.6-sol / codex | 2026-09-11T20:06:25.278275+00:00 → 2026-09-11T20:46:05.258120+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0jn.f0--gate/chat.md) |
-| <a id="member-plan"></a>plan | 0jn.f0--plan | active | gpt-5.6-sol / codex | 2026-09-11T19:22:34.119838+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0jn.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0jn.f0--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0jn.f0--plan | dismissed | gpt-5.6-sol / codex | 2026-09-11T15:22:34.119838 → 2026-09-11T15:32:01.699562 | 0 | [Prompt](../agents/bbugyi200.athena.0jn.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0jn.f0--plan/chat.md) |
 | <a id="member-mon"></a>mon | 0jn.f0--mon | failed | grok-4.6 / grok | 2026-09-11T21:43:13.772058+00:00 → 2026-09-11T21:47:18.592190+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0jn.f0--mon/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 4 | sase | [`18f472c`](https://github.com/sase-org/sase/commit/18f472c96e8303fdce4eed49402bc4e9bd62c848) | feat(agents): swap query and search keys | 2026-09-11 21:20:16 EDT |
+| 4 | — | `18f472c` | feat(agents): swap query and search keys | 2026-09-11 21:20:16 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0jn](bbugyi200.athena.0jn.md) (session · 2) | ancestor | active 1, failed 1 |
+| [0jn](bbugyi200.athena.0jn.md) (session · 2) | ancestor | dismissed 1, failed 1 |

@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0jq](../../sessions/bbugyi200.athena.0jq.md) (session · 5) | ancestor | active 1, completed 2, failed 2 |
+| [0jq](../../sessions/bbugyi200.athena.0jq.md) (session · 5) | ancestor | completed 2, dismissed 1, failed 2 |

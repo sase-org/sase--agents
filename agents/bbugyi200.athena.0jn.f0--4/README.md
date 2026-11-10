@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`18f472c`](https://github.com/sase-org/sase/commit/18f472c96e8303fdce4eed49402bc4e9bd62c848) | feat(agents): swap query and search keys | 2026-09-11 21:20:16 EDT |
+| — | `18f472c` | feat(agents): swap query and search keys | 2026-09-11 21:20:16 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0jn](../../sessions/bbugyi200.athena.0jn.md) (session · 2) | ancestor | active 1, failed 1 |
+| [0jn](../../sessions/bbugyi200.athena.0jn.md) (session · 2) | ancestor | dismissed 1, failed 1 |
