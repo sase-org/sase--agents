@@ -29,7 +29,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [sase-ws.1.f0](../agents/bbugyi200.kellys_mbp.sase-ws.1.f0/README.md) | descendant | dismissed |
 | [sase-ws.1.f1](bbugyi200.kellys_mbp.sase-ws.1.f1.md) (session · 2) | descendant | completed 1, failed 1 |
-| [sase-ws.2](../agents/bbugyi200.kellys_mbp.sase-ws.2/README.md) | sase-ws hood | active |
+| [sase-ws.2](../agents/bbugyi200.kellys_mbp.sase-ws.2/README.md) | sase-ws hood | dismissed |
 | [sase-ws.3](../agents/bbugyi200.kellys_mbp.sase-ws.3/README.md) | sase-ws hood | dismissed |
 | [sase-ws.4](../agents/bbugyi200.kellys_mbp.sase-ws.4/README.md) | sase-ws hood | dismissed |
 | [sase-ws.5](../agents/bbugyi200.kellys_mbp.sase-ws.5/README.md) | sase-ws hood | dismissed |

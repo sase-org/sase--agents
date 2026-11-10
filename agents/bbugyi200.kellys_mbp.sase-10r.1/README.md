@@ -23,6 +23,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [sase-10r.2](../bbugyi200.kellys_mbp.sase-10r.2/README.md) | sase-10r hood | active |
-| [sase-10r.3](../bbugyi200.kellys_mbp.sase-10r.3/README.md) | sase-10r hood | active |
-| [sase-10r.land](../bbugyi200.kellys_mbp.sase-10r.land/README.md) | sase-10r hood | waiting |
+| [sase-10r.2](../bbugyi200.kellys_mbp.sase-10r.2/README.md) | sase-10r hood | dismissed |
+| [sase-10r.3](../bbugyi200.kellys_mbp.sase-10r.3/README.md) | sase-10r hood | dismissed |
+| [sase-10r.land](../bbugyi200.kellys_mbp.sase-10r.land/README.md) | sase-10r hood | dismissed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [sase-ws](../../users/bbugyi200/machines/kellys_mbp/hoods/sase-ws/README.md) / sase-ws.2
 
-**Global name:** `bbugyi200.kellys_mbp.sase-ws.2` · **State:** active · **Source run:** `run-b7654d3c437ca728ba45e6673b83ef67`
+**Global name:** `bbugyi200.kellys_mbp.sase-ws.2` · **State:** dismissed · **Source run:** `run-b7654d3c437ca728ba45e6673b83ef67`
 
 **Owner:** `bbugyi200.kellys_mbp` · **Project:** sase · **Hood:** sase-ws
 
@@ -12,7 +12,7 @@
 - Epic: [sase-ws](https://github.com/sase-org/sase--beads/blob/main/pages/sase-ws/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-04T19:01:17.164517+00:00
+- Timing: 2026-09-04T15:01:17.164517
 - Commits: [1](#commits)
 
 ## Files
@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`470442d`](https://github.com/sase-org/sase/commit/470442d3d828e720d99d44c7a0f305dfc225e3ff) | feat(agent-sync): make sync publication-only | 2026-09-05 06:13:38 EDT |
+| — | `470442d` | feat(agent-sync): make sync publication-only | 2026-09-05 06:13:38 EDT |
 
 ## Neighbors
 

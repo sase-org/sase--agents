@@ -23,7 +23,7 @@
 |---|---|---|
 | [sase-ws.1](../../sessions/bbugyi200.kellys_mbp.sase-ws.1.md) (session · 3) | ancestor | active 1, dismissed 2 |
 | [sase-ws.1.f0](../bbugyi200.kellys_mbp.sase-ws.1.f0/README.md) | sase-ws.1 hood | dismissed |
-| [sase-ws.2](../bbugyi200.kellys_mbp.sase-ws.2/README.md) | sase-ws hood | active |
+| [sase-ws.2](../bbugyi200.kellys_mbp.sase-ws.2/README.md) | sase-ws hood | dismissed |
 | [sase-ws.3](../bbugyi200.kellys_mbp.sase-ws.3/README.md) | sase-ws hood | dismissed |
 | [sase-ws.4](../bbugyi200.kellys_mbp.sase-ws.4/README.md) | sase-ws hood | dismissed |
 | [sase-ws.5](../bbugyi200.kellys_mbp.sase-ws.5/README.md) | sase-ws hood | dismissed |
