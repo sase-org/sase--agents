@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`2243ebc`](https://github.com/sase-org/sase/commit/2243ebc97b14dec2f31e7868e5bdaca7538886f7) | fix(wait): unstick session waits after a retried handoff turn | 2026-10-27 12:11:58 EDT |
+| — | `2243ebc` | fix(wait): unstick session waits after a retried handoff turn | 2026-10-27 12:11:58 EDT |

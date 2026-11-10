@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a1d1ea0`](https://github.com/sase-org/sase/commit/a1d1ea04da05262279bc898cbdab134f629599f1) | fix(beads): converge managed sidecar defaults and bead writes | 2026-10-28 09:11:26 EDT |
+| — | `a1d1ea0` | fix(beads): converge managed sidecar defaults and bead writes | 2026-10-28 09:11:26 EDT |
 
 ## Variables
 

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a6cf924`](https://github.com/sase-org/sase/commit/a6cf9242759915a65d1085e361d29b7adff4078a) | fix(finalizer): absorb raw commits in linked repos and bind baselines to the claimed workspace | 2026-10-27 16:42:28 EDT |
+| — | `a6cf924` | fix(finalizer): absorb raw commits in linked repos and bind baselines to the claimed workspace | 2026-10-27 16:42:28 EDT |

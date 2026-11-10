@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `au` · Members: 3
 ```mermaid
 flowchart TD
   n0["au--gate [completed]"]
-  n1["au--plan [active]"]
+  n1["au--plan [dismissed]"]
   n0 --> n1
   n2["au--code [completed]"]
   n0 --> n2
@@ -20,14 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | au--gate | completed | opus / claude | 2026-10-28T11:43:22.098212+00:00 → 2026-10-28T11:43:48.912893+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.au--gate/chat.md) |
-| <a id="member-plan"></a>plan | au--plan | active | opus / claude | 2026-10-28T11:27:57.368812+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.au--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.au--plan/chat.md) |
+| <a id="member-plan"></a>plan | au--plan | dismissed | opus / claude | 2026-10-28T07:27:57.368812 → 2026-10-28T07:38:35.228108 | 0 | [Prompt](../agents/bbugyi200.apollo.au--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.au--plan/chat.md) |
 | <a id="member-code"></a>code | au--code | completed | gpt-6-luna / codex | 2026-10-28T11:44:03.271387+00:00 → 2026-10-28T13:14:33.242070+00:00 | [1](../agents/bbugyi200.apollo.au--code/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.au--code/prompt.md) | [Chat](../agents/bbugyi200.apollo.au--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`a1d1ea0`](https://github.com/sase-org/sase/commit/a1d1ea04da05262279bc898cbdab134f629599f1) | fix(beads): converge managed sidecar defaults and bead writes | 2026-10-28 09:11:26 EDT |
+| code | — | `a1d1ea0` | fix(beads): converge managed sidecar defaults and bead writes | 2026-10-28 09:11:26 EDT |
 
 ## Variables
 

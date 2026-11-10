@@ -23,7 +23,7 @@ flowchart TD
   n0 --> n6
   n7["ak--code [completed]"]
   n0 --> n7
-  n8["ak--plan [active]"]
+  n8["ak--plan [dismissed]"]
   n0 --> n8
 ```
 
@@ -39,11 +39,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-3"></a>3 | ak--3 | completed | grok-4.6 / grok | 2026-10-27T15:44:06.914226+00:00 → 2026-10-27T16:14:45.049031+00:00 | [1](../agents/bbugyi200.apollo.ak--3/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.ak--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.ak--3/chat.md) |
 | <a id="member-mon"></a>mon | ak--mon | failed | grok-4.6 / grok | 2026-10-27T12:38:34.132814+00:00 → 2026-10-27T13:30:47.921188+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.ak--mon/chat.md) |
 | <a id="member-code"></a>code | ak--code | completed | grok-4.6 / grok | 2026-10-27T11:53:35.828816+00:00 → 2026-10-27T12:39:25.219883+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.ak--code/prompt.md) | [Chat](../agents/bbugyi200.apollo.ak--code/chat.md) |
-| <a id="member-plan"></a>plan | ak--plan | active | opus / claude | 2026-10-27T11:41:22.745397+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.ak--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.ak--plan/chat.md) |
+| <a id="member-plan"></a>plan | ak--plan | dismissed | opus / claude | 2026-10-27T07:41:22.745397 → 2026-10-27T07:53:03.922696 | 0 | [Prompt](../agents/bbugyi200.apollo.ak--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.ak--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`592c252`](https://github.com/sase-org/sase/commit/592c252a3e45ff626cc98505e3b4d42dfa49f98b) | test: stabilize cross-version CI checks | 2026-07-16 13:44:11 EDT |
-| 3 | sase | [`2243ebc`](https://github.com/sase-org/sase/commit/2243ebc97b14dec2f31e7868e5bdaca7538886f7) | fix(wait): unstick session waits after a retried handoff turn | 2026-10-27 12:11:58 EDT |
+| — | — | `592c252` | test: stabilize cross-version CI checks | 2026-07-16 13:44:11 EDT |
+| 3 | — | `2243ebc` | fix(wait): unstick session waits after a retried handoff turn | 2026-10-27 12:11:58 EDT |
