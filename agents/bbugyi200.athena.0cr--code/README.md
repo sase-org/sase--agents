@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`43f4538`](https://github.com/sase-org/sase/commit/43f4538f885e982a082119f5597a63b21b0e98da) | feat(finalizers): seal config snapshot into authority artifact and report live drift as diagnostics | 2026-08-24 14:36:04 EDT |
+| — | `43f4538` | feat(finalizers): seal config snapshot into authority artifact and report live drift as diagnostics | 2026-08-24 14:36:04 EDT |

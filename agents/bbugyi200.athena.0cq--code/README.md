@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e500f0a`](https://github.com/sase-org/sase/commit/e500f0a71ebff2650c8dd4b49e2bdcdd464b5daa) | feat(ace): add pane-local artifact query history | 2026-08-24 15:07:23 EDT |
+| — | `e500f0a` | feat(ace): add pane-local artifact query history | 2026-08-24 15:07:23 EDT |

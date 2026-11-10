@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b14532d`](https://github.com/sase-org/sase/commit/b14532d028c66b9abe65b0e353b248df185e1ebd) | refactor(ace): rename config hub misc tab to all | 2026-08-24 15:20:36 EDT |
+| — | `b14532d` | refactor(ace): rename config hub misc tab to all | 2026-08-24 15:20:36 EDT |
