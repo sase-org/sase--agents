@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`baead1f`](https://github.com/sase-org/sase/commit/baead1f50ec68454462989426e73b169e35896f5) | fix(tui): support ctrl bracket insert escape | 2026-09-09 14:53:35 EDT |
+| — | `baead1f` | fix(tui): support ctrl bracket insert escape | 2026-09-09 14:53:35 EDT |

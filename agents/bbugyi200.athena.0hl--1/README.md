@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f7e3d7c`](https://github.com/sase-org/sase/commit/f7e3d7c634d762e70602f1768c55398585880dbc) | feat(ace): show single waited bead ids | 2026-09-10 09:17:07 EDT |
+| — | `f7e3d7c` | feat(ace): show single waited bead ids | 2026-09-10 09:17:07 EDT |

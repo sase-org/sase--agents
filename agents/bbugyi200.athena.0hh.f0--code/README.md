@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`63ec413`](https://github.com/sase-org/sase/commit/63ec413b60492082e0a7a95e142417d74e05150b) | feat(feature-flags): clean unknown saved flags on startup | 2026-09-09 14:48:52 EDT |
+| — | `63ec413` | feat(feature-flags): clean unknown saved flags on startup | 2026-09-09 14:48:52 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0hh](../bbugyi200.athena.0hh/README.md) | ancestor | active |
+| [0hh](../bbugyi200.athena.0hh/README.md) | ancestor | dismissed |

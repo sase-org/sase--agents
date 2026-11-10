@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d590e55`](https://github.com/sase-org/sase/commit/d590e558baa1d024a227b5b607dce37ff5ad0b11) | fix(finalizers): scope conflict repair budget per repo | 2026-09-09 15:56:22 EDT |
+| — | `d590e55` | fix(finalizers): scope conflict repair budget per repo | 2026-09-09 15:56:22 EDT |
