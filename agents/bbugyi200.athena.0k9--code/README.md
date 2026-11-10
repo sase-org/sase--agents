@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`f2bb0af`](https://github.com/sase-org/sase/commit/f2bb0af043a70767812b85f02e248e0157b24ec9) | fix(tui): pin agents metadata bottom scroll | 2026-09-12 13:18:17 EDT |
+| — | `f2bb0af` | fix(tui): pin agents metadata bottom scroll | 2026-09-12 13:18:17 EDT |

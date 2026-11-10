@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0be51f9`](https://github.com/sase-org/sase/commit/0be51f9007c480d1e33d534a7b33c0f712de1e4c) | fix(commit): diagnose stitch hook timeouts | 2026-09-12 09:42:06 EDT |
+| — | `0be51f9` | fix(commit): diagnose stitch hook timeouts | 2026-09-12 09:42:06 EDT |
