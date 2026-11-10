@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [1p](../../users/bbugyi200/machines/apollo/hoods/1p/README.md) / [1p.f0](../../sessions/bbugyi200.apollo.1p.f0.md) / 1p.f0--plan
 
-**Global name:** `bbugyi200.apollo.1p.f0--plan` · **State:** active · **Source run:** `run-7fda71cdb4cb0d58ae48d26d21a5420a`
+**Global name:** `bbugyi200.apollo.1p.f0--plan` · **State:** dismissed · **Source run:** `run-7fda71cdb4cb0d58ae48d26d21a5420a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 1p
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-09-25T15:39:44.804830+00:00
+- Timing: 2026-09-25T11:39:44.804830 → 2026-09-25T14:59:01.446085
 - Commits: 0
 
 ## Files

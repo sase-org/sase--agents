@@ -19,7 +19,7 @@ flowchart TD
   n0 --> n4
   n5["1h.f0.f0.f0--gate [failed]"]
   n0 --> n5
-  n6["1h.f0.f0.f0--plan [active]"]
+  n6["1h.f0.f0.f0--plan [dismissed]"]
   n0 --> n6
 ```
 
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | 1h.f0.f0.f0--code | completed | muse-spark-1.3-contributor / muse | 2026-09-22T12:25:09.844543+00:00 → 2026-09-22T12:38:53.462551+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.1h.f0.f0.f0--code/chat.md) |
 | <a id="member-mon"></a>mon | 1h.f0.f0.f0--mon | failed | muse-spark-1.3-contributor / muse | 2026-09-22T12:38:28.806436+00:00 → 2026-09-22T13:06:07.986670+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.1h.f0.f0.f0--mon/chat.md) |
 | <a id="member-gate"></a>gate | 1h.f0.f0.f0--gate | failed | opus / claude | 2026-09-22T12:24:48.341728+00:00 → 2026-09-22T12:24:57.882899+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.1h.f0.f0.f0--gate/chat.md) |
-| <a id="member-plan"></a>plan | 1h.f0.f0.f0--plan | active | opus / claude | 2026-09-22T12:22:46.490683+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.1h.f0.f0.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.1h.f0.f0.f0--plan/chat.md) |
+| <a id="member-plan"></a>plan | 1h.f0.f0.f0--plan | dismissed | opus / claude | 2026-09-22T08:22:46.490683 → 2026-09-22T08:38:53.497547 | 0 | [Prompt](../agents/bbugyi200.apollo.1h.f0.f0.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.1h.f0.f0.f0--plan/chat.md) |
 
 ## Commits
 
@@ -45,13 +45,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [1h.f0.f0](bbugyi200.apollo.1h.f0.f0.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
-| [1h.f0](bbugyi200.apollo.1h.f0.md) (session · 5) | ancestor | active 1, completed 2, failed 2 |
-| [1h](bbugyi200.apollo.1h.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
-| [1h.f0.f0.f0.w0](../agents/bbugyi200.apollo.1h.f0.f0.f0.w0/README.md) | descendant | waiting |
-| [1h.f0.f0.f0.w1](../agents/bbugyi200.apollo.1h.f0.f0.f0.w1/README.md) | descendant | waiting |
+| [1h.f0.f0](bbugyi200.apollo.1h.f0.f0.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
+| [1h.f0](bbugyi200.apollo.1h.f0.md) (session · 5) | ancestor | completed 2, dismissed 1, failed 2 |
+| [1h](bbugyi200.apollo.1h.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
+| [1h.f0.f0.f0.w0](../agents/bbugyi200.apollo.1h.f0.f0.f0.w0/README.md) | descendant | dismissed |
+| [1h.f0.f0.f0.w1](../agents/bbugyi200.apollo.1h.f0.f0.f0.w1/README.md) | descendant | dismissed |
 | [1h.f0.f0.f0.w2](bbugyi200.apollo.1h.f0.f0.f0.w2.md) (session · 5) | descendant | completed 3, failed 2 |
 | [1h.f0.f0.f0.w2.w0](bbugyi200.apollo.1h.f0.f0.f0.w2.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
-| [1h.f0.f0.f0.w2.w0](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2.w0/README.md) | descendant | waiting |
-| [1h.f0.f0.f0.w2.w0.w0](bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.md) (session · 3) | descendant | active 2, failed 1 |
-| [1h.f0.f0.f0.w2.w0.w0.w0](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.w0/README.md) | descendant | waiting |
+| [1h.f0.f0.f0.w2.w0](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2.w0/README.md) | descendant | dismissed |
+| [1h.f0.f0.f0.w2.w0.w0](bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.md) (session · 3) | descendant | active 1, dismissed 1, failed 1 |
+| [1h.f0.f0.f0.w2.w0.w0.w0](../agents/bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.w0/README.md) | descendant | dismissed |

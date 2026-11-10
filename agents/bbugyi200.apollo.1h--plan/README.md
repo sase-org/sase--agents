@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [1h](../../users/bbugyi200/machines/apollo/hoods/1h/README.md) / [1h](../../sessions/bbugyi200.apollo.1h.md) / 1h--plan
 
-**Global name:** `bbugyi200.apollo.1h--plan` · **State:** active · **Source run:** `run-8b1690748455352296be59c88d78931d`
+**Global name:** `bbugyi200.apollo.1h--plan` · **State:** dismissed · **Source run:** `run-8b1690748455352296be59c88d78931d`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 1h
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-09-21T20:47:59.261363+00:00
+- Timing: 2026-09-21T16:47:59.261363 → 2026-09-21T16:55:12.243963
 - Commits: 0
 
 ## Files
@@ -21,13 +21,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [1h.f0](../../sessions/bbugyi200.apollo.1h.f0.md) (session · 5) | descendant | active 1, completed 2, failed 2 |
-| [1h.f0.f0](../../sessions/bbugyi200.apollo.1h.f0.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
-| [1h.f0.f0.f0](../../sessions/bbugyi200.apollo.1h.f0.f0.f0.md) (session · 7) | descendant | active 1, completed 3, failed 3 |
-| [1h.f0.f0.f0.w0](../bbugyi200.apollo.1h.f0.f0.f0.w0/README.md) | descendant | waiting |
-| [1h.f0.f0.f0.w1](../bbugyi200.apollo.1h.f0.f0.f0.w1/README.md) | descendant | waiting |
+| [1h.f0](../../sessions/bbugyi200.apollo.1h.f0.md) (session · 5) | descendant | completed 2, dismissed 1, failed 2 |
+| [1h.f0.f0](../../sessions/bbugyi200.apollo.1h.f0.f0.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |
+| [1h.f0.f0.f0](../../sessions/bbugyi200.apollo.1h.f0.f0.f0.md) (session · 7) | descendant | completed 3, dismissed 1, failed 3 |
+| [1h.f0.f0.f0.w0](../bbugyi200.apollo.1h.f0.f0.f0.w0/README.md) | descendant | dismissed |
+| [1h.f0.f0.f0.w1](../bbugyi200.apollo.1h.f0.f0.f0.w1/README.md) | descendant | dismissed |
 | [1h.f0.f0.f0.w2](../../sessions/bbugyi200.apollo.1h.f0.f0.f0.w2.md) (session · 5) | descendant | completed 3, failed 2 |
 | [1h.f0.f0.f0.w2.w0](../../sessions/bbugyi200.apollo.1h.f0.f0.f0.w2.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
-| [1h.f0.f0.f0.w2.w0](../bbugyi200.apollo.1h.f0.f0.f0.w2.w0/README.md) | descendant | waiting |
-| [1h.f0.f0.f0.w2.w0.w0](../../sessions/bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.md) (session · 3) | descendant | active 2, failed 1 |
-| [1h.f0.f0.f0.w2.w0.w0.w0](../bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.w0/README.md) | descendant | waiting |
+| [1h.f0.f0.f0.w2.w0](../bbugyi200.apollo.1h.f0.f0.f0.w2.w0/README.md) | descendant | dismissed |
+| [1h.f0.f0.f0.w2.w0.w0](../../sessions/bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.md) (session · 3) | descendant | active 1, dismissed 1, failed 1 |
+| [1h.f0.f0.f0.w2.w0.w0.w0](../bbugyi200.apollo.1h.f0.f0.f0.w2.w0.w0.w0/README.md) | descendant | dismissed |
