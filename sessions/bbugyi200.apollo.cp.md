@@ -11,7 +11,7 @@ flowchart TD
   n0["cp--mon-1 [completed]"]
   n1["cp--5 [completed]"]
   n0 --> n1
-  n2["cp--plan [active]"]
+  n2["cp--plan [dismissed]"]
   n0 --> n2
   n3["cp--3 [completed]"]
   n0 --> n3
@@ -41,7 +41,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon-1"></a>mon-1 | cp--mon-1 | completed | opus / claude | 2026-11-06T04:07:41.114862+00:00 → 2026-11-06T06:09:37.595726+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.cp--mon-1/chat.md) |
 | <a id="member-5"></a>5 | cp--5 | completed | opus / claude | 2026-11-06T10:23:40.636528+00:00 → 2026-11-06T10:46:42.914664+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.cp--5/prompt.md) | [Chat](../agents/bbugyi200.apollo.cp--5/chat.md) |
-| <a id="member-plan"></a>plan | cp--plan | active | opus / claude | 2026-11-05T23:48:00.537316+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.cp--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.cp--plan/chat.md) |
+| <a id="member-plan"></a>plan | cp--plan | dismissed | opus / claude | 2026-11-05T18:48:00.537316 → 2026-11-05T18:49:50.336283 | 0 | [Prompt](../agents/bbugyi200.apollo.cp--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.cp--plan/chat.md) |
 | <a id="member-3"></a>3 | cp--3 | completed | opus / claude | 2026-11-06T06:09:37.143458+00:00 → 2026-11-06T06:15:55.112767+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.cp--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.cp--3/chat.md) |
 | <a id="member-gate"></a>gate | cp--gate | completed | opus / claude | 2026-11-06T10:45:41.203355+00:00 → 2026-11-06T10:46:26.206908+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.cp--gate/chat.md) |
 | <a id="member-mon-4"></a>mon-4 | cp--mon-4 | completed | opus / claude | 2026-11-06T10:46:23.918764+00:00 → 2026-11-06T10:49:48.955395+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.cp--mon-4/chat.md) |
@@ -57,4 +57,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | sase | [`eaf6f68`](https://github.com/sase-org/sase/commit/eaf6f6809e89010b1e31a6880d0cbaab37794195) | fix: expose family runner-slot occupancy in agent listings | 2026-07-17 19:16:18 EDT |
+| — | — | `eaf6f68` | fix: expose family runner-slot occupancy in agent listings | 2026-07-17 19:16:18 EDT |

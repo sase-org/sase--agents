@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [ce](../../users/bbugyi200/machines/apollo/hoods/ce/README.md) / ce
 
-**Global name:** `bbugyi200.apollo.ce` · **State:** active · **Source run:** `run-77fbd730ac0406a0d420d601686f13ec`
+**Global name:** `bbugyi200.apollo.ce` · **State:** dismissed · **Source run:** `run-77fbd730ac0406a0d420d601686f13ec`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** ce
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-04T20:35:16.120321+00:00
+- Timing: 2026-11-04T15:35:16.120321 → 2026-11-04T17:44:25.116919
 - Commits: [2](#commits)
 - Variables: [1](#variables)
 
@@ -22,8 +22,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`328b3b5`](https://github.com/sase-org/sase/commit/328b3b5208c5a005b1db105669769e29f27f7338) | feat(ace): summarize collapsed agent panels | 2026-07-17 15:28:36 EDT |
-| sase | [`9993263`](https://github.com/sase-org/sase/commit/99932634cdd41c5798ac7c5b104d6fcedcce58fb) | fix(codex): recognize exec finals and discard mid-turn kills | 2026-11-04 17:44:08 EST |
+| — | `328b3b5` | feat(ace): summarize collapsed agent panels | 2026-07-17 15:28:36 EDT |
+| — | `9993263` | fix(codex): recognize exec finals and discard mid-turn kills | 2026-11-04 17:44:08 EST |
 
 ## Variables
 

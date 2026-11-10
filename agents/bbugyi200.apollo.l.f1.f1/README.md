@@ -17,12 +17,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`64bbbca`](https://github.com/sase-org/sase/commit/64bbbcaf6734d99bac329f88397569058188da2e) | chore: Add SDD prompt and plan for video\_artifact\_preview | 2026-07-06 16:51:46 EDT |
-| sase | [`e49c4e1`](https://github.com/sase-org/sase/commit/e49c4e13698a4b703c3e2b0e56178b0a7a0b8ef6) | feat(ace): preview video artifacts with mpv | 2026-07-06 17:10:15 EDT |
+| — | `64bbbca` | chore: Add SDD prompt and plan for video\_artifact\_preview | 2026-07-06 16:51:46 EDT |
+| — | `e49c4e1` | feat(ace): preview video artifacts with mpv | 2026-07-06 17:10:15 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [l.f1](../bbugyi200.apollo.l.f1/README.md) | ancestor | completed |
-| [l](../bbugyi200.apollo.l/README.md) | ancestor | active |
+| [l](../bbugyi200.apollo.l/README.md) | ancestor | dismissed |
