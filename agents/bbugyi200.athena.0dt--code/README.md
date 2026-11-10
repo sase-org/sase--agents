@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`44ce806`](https://github.com/sase-org/sase/commit/44ce8061276bd420e9baa6b447460f5f0da9e3ca) | feat(ace): add section jump targets to metadata fold sections | 2026-08-25 17:02:46 EDT |
+| — | `44ce806` | feat(ace): add section jump targets to metadata fold sections | 2026-08-25 17:02:46 EDT |

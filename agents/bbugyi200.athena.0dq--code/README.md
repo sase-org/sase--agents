@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`46fc307`](https://github.com/sase-org/sase/commit/46fc307d83f7c5d68be943ddde6681079541f37f) | feat(sase): make beads sidecar lazy-clone by default | 2026-08-25 15:36:18 EDT |
+| — | `46fc307` | feat(sase): make beads sidecar lazy-clone by default | 2026-08-25 15:36:18 EDT |

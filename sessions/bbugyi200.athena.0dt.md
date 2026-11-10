@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0dt` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["0dt--plan [active]"]
+  n0["0dt--plan [dismissed]"]
   n1["0dt--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0dt--plan | active | opus / claude | 2026-08-25T20:05:41.222848+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0dt--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0dt--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0dt--plan | dismissed | opus / claude | 2026-08-25T16:03:19 | 0 | [Prompt](../agents/bbugyi200.athena.0dt--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0dt--plan/chat.md) |
 | <a id="member-code"></a>code | 0dt--code | completed | sonnet / claude | 2026-08-25T20:18:58.224808+00:00 → 2026-08-25T21:06:40.919593+00:00 | [1](../agents/bbugyi200.athena.0dt--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.0dt--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`44ce806`](https://github.com/sase-org/sase/commit/44ce8061276bd420e9baa6b447460f5f0da9e3ca) | feat(ace): add section jump targets to metadata fold sections | 2026-08-25 17:02:46 EDT |
+| code | — | `44ce806` | feat(ace): add section jump targets to metadata fold sections | 2026-08-25 17:02:46 EDT |

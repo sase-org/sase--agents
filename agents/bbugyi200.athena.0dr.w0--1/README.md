@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8776211`](https://github.com/sase-org/sase/commit/877621113041f1ada918f8f9b0403f388ab2675f) | docs(memory): drop stale project/repo glossary aliases, add sase memory alias | 2026-08-25 15:42:43 EDT |
+| — | `8776211` | docs(memory): drop stale project/repo glossary aliases, add sase memory alias | 2026-08-25 15:42:43 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0dr](../../sessions/bbugyi200.athena.0dr.md) (session · 2) | ancestor | active 1, completed 1 |
+| [0dr](../../sessions/bbugyi200.athena.0dr.md) (session · 2) | ancestor | completed 1, dismissed 1 |

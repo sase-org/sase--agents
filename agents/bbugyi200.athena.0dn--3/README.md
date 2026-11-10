@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e5cd318`](https://github.com/sase-org/sase/commit/e5cd318b8eef1117b1152f6530908466b2d55ec2) | feat(ace): fall back to interactive identity for memory panel audit logging | 2026-08-25 15:09:49 EDT |
+| — | `e5cd318` | feat(ace): fall back to interactive identity for memory panel audit logging | 2026-08-25 15:09:49 EDT |

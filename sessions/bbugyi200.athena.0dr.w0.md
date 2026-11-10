@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0dr` · Members: 4
 
 ```mermaid
 flowchart TD
-  n0["0dr.w0--plan [active]"]
+  n0["0dr.w0--plan [dismissed]"]
   n1["0dr.w0--mon [failed]"]
   n0 --> n1
   n2["0dr.w0--code [completed]"]
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0dr.w0--plan | active | gpt-5.6-sol / codex | 2026-08-25T19:19:47.256247+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0dr.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0dr.w0--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0dr.w0--plan | dismissed | gpt-5.6-sol / codex | 2026-08-25T14:56:13 | 0 | [Prompt](../agents/bbugyi200.athena.0dr.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0dr.w0--plan/chat.md) |
 | <a id="member-mon"></a>mon | 0dr.w0--mon | failed | sonnet / claude | 2026-08-25T19:35:55.205009+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0dr.w0--mon/chat.md) |
 | <a id="member-code"></a>code | 0dr.w0--code | completed | sonnet / claude | 2026-08-25T19:24:12.592211+00:00 → 2026-08-25T19:36:10.337633+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0dr.w0--code/chat.md) |
 | <a id="member-1"></a>1 | 0dr.w0--1 | completed | sonnet / claude | 2026-08-25T19:39:13.681449+00:00 → 2026-08-25T19:44:42.836427+00:00 | [1](../agents/bbugyi200.athena.0dr.w0--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0dr.w0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0dr.w0--1/chat.md) |
@@ -30,10 +30,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | sase | [`8776211`](https://github.com/sase-org/sase/commit/877621113041f1ada918f8f9b0403f388ab2675f) | docs(memory): drop stale project/repo glossary aliases, add sase memory alias | 2026-08-25 15:42:43 EDT |
+| 1 | — | `8776211` | docs(memory): drop stale project/repo glossary aliases, add sase memory alias | 2026-08-25 15:42:43 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0dr](bbugyi200.athena.0dr.md) (session · 2) | ancestor | active 1, completed 1 |
+| [0dr](bbugyi200.athena.0dr.md) (session · 2) | ancestor | completed 1, dismissed 1 |

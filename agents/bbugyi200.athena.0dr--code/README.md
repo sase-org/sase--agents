@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`51bb2f1`](https://github.com/sase-org/sase/commit/51bb2f136663f0ebbf9a54a60ee2ffce05bc2294) | fix(memory): strip roster markers from agent docs | 2026-08-25 15:18:49 EDT |
+| — | `51bb2f1` | fix(memory): strip roster markers from agent docs | 2026-08-25 15:18:49 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0dr.w0](../../sessions/bbugyi200.athena.0dr.w0.md) (session · 4) | descendant | active 1, completed 2, failed 1 |
+| [0dr.w0](../../sessions/bbugyi200.athena.0dr.w0.md) (session · 4) | descendant | completed 2, dismissed 1, failed 1 |
