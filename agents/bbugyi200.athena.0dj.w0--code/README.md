@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`6b22f7e`](https://github.com/sase-org/sase/commit/6b22f7e72d6d989c7350d3dec1ce41cc9ea0f5f5) | feat(task-types): render self-contained memory strands | 2026-08-25 13:41:03 EDT |
+| — | `6b22f7e` | feat(task-types): render self-contained memory strands | 2026-08-25 13:41:03 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0dj](../../sessions/bbugyi200.athena.0dj.md) (session · 2) | ancestor | active 1, completed 1 |
+| [0dj](../../sessions/bbugyi200.athena.0dj.md) (session · 2) | ancestor | completed 1, dismissed 1 |

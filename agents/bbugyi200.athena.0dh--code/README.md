@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cc66e7b`](https://github.com/sase-org/sase/commit/cc66e7bf321680feae3a781a51a1994eb2ef96fa) | feat(ace-tui): show clan/family/lane total runtime rows | 2026-08-25 12:20:22 EDT |
+| — | `cc66e7b` | feat(ace-tui): show clan/family/lane total runtime rows | 2026-08-25 12:20:22 EDT |

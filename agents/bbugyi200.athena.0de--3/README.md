@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`1a96ea9`](https://github.com/sase-org/sase/commit/1a96ea92bf4dd066e20d51f024fb79001867232d) | fix(ace-tui): mount prompt bar immediately and gate relaunch on a cleanup barrier | 2026-08-25 10:52:02 EDT |
+| — | `1a96ea9` | fix(ace-tui): mount prompt bar immediately and gate relaunch on a cleanup barrier | 2026-08-25 10:52:02 EDT |

@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`50d9c3b`](https://github.com/sase-org/sase/commit/50d9c3bc219120a7a6ee8dc4fb060d6053f8cbf0) | chore(memory): trim generated agent instructions | 2026-08-25 12:57:52 EDT |
+| — | `50d9c3b` | chore(memory): trim generated agent instructions | 2026-08-25 12:57:52 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0dj.w0](../../sessions/bbugyi200.athena.0dj.w0.md) (session · 2) | descendant | active 1, completed 1 |
+| [0dj.w0](../../sessions/bbugyi200.athena.0dj.w0.md) (session · 2) | descendant | completed 1, dismissed 1 |
