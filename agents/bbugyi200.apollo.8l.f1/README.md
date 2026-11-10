@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [8l](../../users/bbugyi200/machines/apollo/hoods/8l/README.md) / 8l.f1
 
-**Global name:** `bbugyi200.apollo.8l.f1` · **State:** active · **Source run:** `run-b4f0c322c61f19ea634d9328b1198312`
+**Global name:** `bbugyi200.apollo.8l.f1` · **State:** dismissed · **Source run:** `run-b4f0c322c61f19ea634d9328b1198312`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 8l
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-17T13:39:10.037929+00:00
+- Timing: 2026-10-17T09:39:10.037929 → 2026-10-17T10:00:25.985068
 - Commits: 0
 - Variables: [1](#variables)
 
@@ -41,4 +41,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [8l](../bbugyi200.apollo.8l/README.md) | ancestor | completed |
-| [8l.f0](../bbugyi200.apollo.8l.f0/README.md) | 8l hood | active |
+| [8l.f0](../bbugyi200.apollo.8l.f0/README.md) | 8l hood | dismissed |

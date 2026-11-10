@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [8l](../../users/bbugyi200/machines/apollo/hoods/8l/README.md) / 8l.f0
 
-**Global name:** `bbugyi200.apollo.8l.f0` · **State:** active · **Source run:** `run-bac076ee81ad458904986962248778c8`
+**Global name:** `bbugyi200.apollo.8l.f0` · **State:** dismissed · **Source run:** `run-bac076ee81ad458904986962248778c8`
 
 **Owner:** `bbugyi200.apollo` · **Project:** sase · **Hood:** 8l
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261017093330
+- Timing: 2026-10-17T09:33:30
 - Commits: 0
 
 ## Files
@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [8l](../bbugyi200.apollo.8l/README.md) | ancestor | completed |
-| [8l.f1](../bbugyi200.apollo.8l.f1/README.md) | 8l hood | active |
+| [8l.f1](../bbugyi200.apollo.8l.f1/README.md) | 8l hood | dismissed |

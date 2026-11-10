@@ -40,5 +40,5 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [8l.f0](../bbugyi200.apollo.8l.f0/README.md) | descendant | active |
-| [8l.f1](../bbugyi200.apollo.8l.f1/README.md) | descendant | active |
+| [8l.f0](../bbugyi200.apollo.8l.f0/README.md) | descendant | dismissed |
+| [8l.f1](../bbugyi200.apollo.8l.f1/README.md) | descendant | dismissed |
