@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `sase-1s7` · Members: 3 · Bead: [sase-1s7.1
 ```mermaid
 flowchart TD
   n0["sase-1s7.1--mon [completed]"]
-  n1["sase-1s7.1--1 [active]"]
+  n1["sase-1s7.1--1 [completed]"]
   n0 --> n1
   n2["sase-1s7.1--plan [completed]"]
   n0 --> n2
@@ -20,15 +20,21 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | sase-1s7.1--mon | completed | gpt-6-luna / codex | 2026-11-10T19:46:35.965101+00:00 → 2026-11-10T19:50:28.136517+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.sase-1s7.1--mon/chat.md) |
-| <a id="member-1"></a>1 | sase-1s7.1--1 | active | gpt-6-luna / codex | 2026-11-10T19:51:42.809395+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1s7.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | sase-1s7.1--1 | completed | gpt-6-luna / codex | 2026-11-10T19:51:42.809395+00:00 → 2026-11-10T20:27:04.390333+00:00 | [1](../agents/bbugyi200.athena.sase-1s7.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.sase-1s7.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1s7.1--1/chat.md) |
 | <a id="member-plan"></a>plan | sase-1s7.1--plan | completed | gpt-6-luna / codex | 2026-11-10T19:41:30.777435+00:00 → 2026-11-10T19:47:23.450099+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.sase-1s7.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.sase-1s7.1--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | sase | [`1df3ade`](https://github.com/sase-org/sase/commit/1df3ade04d8fe9c315d5491c816b9b46f21967cf) | fix(ci): clear master reds and stabilize archive goldens | 2026-11-10 15:25:38 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sase-1s7.2](../agents/bbugyi200.athena.sase-1s7.2/README.md) | sase-1s7 hood | completed |
-| [sase-1s7.3](bbugyi200.athena.sase-1s7.3.md) (session · 2) | sase-1s7 hood | active 1, completed 1 |
+| [sase-1s7.3](bbugyi200.athena.sase-1s7.3.md) (session · 3) | sase-1s7 hood | active 1, completed 2 |
 | [sase-1s7.4](../agents/bbugyi200.athena.sase-1s7.4/README.md) | sase-1s7 hood | waiting |
 | [sase-1s7.5](../agents/bbugyi200.athena.sase-1s7.5/README.md) | sase-1s7 hood | waiting |
 | [sase-1s7.6](../agents/bbugyi200.athena.sase-1s7.6/README.md) | sase-1s7 hood | waiting |
