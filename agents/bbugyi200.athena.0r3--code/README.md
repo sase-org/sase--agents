@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`126dd63`](https://github.com/sase-org/sase/commit/126dd63c0a0f1fd2707da177cb96505100076983) | feat(agents): same-tick unread marker for completed agents | 2026-09-24 15:01:40 EDT |
+| — | `126dd63` | feat(agents): same-tick unread marker for completed agents | 2026-09-24 15:01:40 EDT |

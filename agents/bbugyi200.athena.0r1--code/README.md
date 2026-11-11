@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9bd351b`](https://github.com/sase-org/sase/commit/9bd351b677ed6b7375db9807964d08b6396346af) | fix(wait): confirm release membership before family handoff | 2026-09-24 13:36:47 EDT |
+| — | `9bd351b` | fix(wait): confirm release membership before family handoff | 2026-09-24 13:36:47 EDT |

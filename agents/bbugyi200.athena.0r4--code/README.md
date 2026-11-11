@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`9676df0`](https://github.com/sase-org/sase/commit/9676df028f9e925e7d6ec91dbb48c5c8d77aeb63) | fix(finalizers): survive bead-store push races and footer-only checkpoint drift | 2026-09-24 15:36:21 EDT |
+| — | `9676df0` | fix(finalizers): survive bead-store push races and footer-only checkpoint drift | 2026-09-24 15:36:21 EDT |

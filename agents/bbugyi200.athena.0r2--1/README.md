@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`682089c`](https://github.com/sase-org/sase/commit/682089c845f29055ef21d1f5b535bee13bbc822e) | feat(models): add GPT-6 Sol selection and make it the Sol default | 2026-09-24 15:42:08 EDT |
+| — | `682089c` | feat(models): add GPT-6 Sol selection and make it the Sol default | 2026-09-24 15:42:08 EDT |
