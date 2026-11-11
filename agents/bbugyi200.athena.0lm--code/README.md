@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d4b4099`](https://github.com/sase-org/sase/commit/d4b409921ebbcdbd412610f28fe7952309ddb081) | feat(xprompt): support static conditional launch segments | 2026-09-15 21:19:40 EDT |
+| — | `d4b4099` | feat(xprompt): support static conditional launch segments | 2026-09-15 21:19:40 EDT |

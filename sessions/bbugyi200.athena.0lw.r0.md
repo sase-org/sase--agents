@@ -8,18 +8,18 @@ Owner: `bbugyi200.athena` · Hood: `0lw` · Members: 1
 
 ```mermaid
 flowchart TD
-  n0["0lw.r0--0 [active]"]
+  n0["0lw.r0--0 [dismissed]"]
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-0"></a>0 | 0lw.r0--0 | active | gpt-5.6-sol / codex | 2026-09-16T14:03:51.543321+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0lw.r0--0/prompt.md) | [Chat](../agents/bbugyi200.athena.0lw.r0--0/chat.md) |
+| <a id="member-0"></a>0 | 0lw.r0--0 | dismissed | gpt-5.6-sol / codex | 2026-09-16T10:03:51.543321 → 2026-09-16T10:05:21.696813 | 0 | [Prompt](../agents/bbugyi200.athena.0lw.r0--0/prompt.md) | [Chat](../agents/bbugyi200.athena.0lw.r0--0/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0lw](../agents/bbugyi200.athena.0lw/README.md) | ancestor | active |
-| [0lw.r0.f0](bbugyi200.athena.0lw.r0.f0.md) (session · 3) | descendant | active 1, failed 2 |
+| [0lw](../agents/bbugyi200.athena.0lw/README.md) | ancestor | dismissed |
+| [0lw.r0.f0](bbugyi200.athena.0lw.r0.f0.md) (session · 3) | descendant | dismissed 1, failed 2 |

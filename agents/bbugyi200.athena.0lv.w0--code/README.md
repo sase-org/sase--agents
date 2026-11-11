@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`64b87df`](https://github.com/sase-org/sase/commit/64b87df9ce48e69689bbb9d78bdb2ce185152b4e) | fix(core): ratchet sase-core revision pin | 2026-09-16 10:06:52 EDT |
+| — | `64b87df` | fix(core): ratchet sase-core revision pin | 2026-09-16 10:06:52 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0lv](../../sessions/bbugyi200.athena.0lv.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0lv](../../sessions/bbugyi200.athena.0lv.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |

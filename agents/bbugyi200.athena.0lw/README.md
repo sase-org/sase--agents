@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0lw](../../users/bbugyi200/machines/athena/hoods/0lw/README.md) / 0lw
 
-**Global name:** `bbugyi200.athena.0lw` · **State:** active · **Source run:** `run-b45d0a21902c88447f8d64fcadf9aaee`
+**Global name:** `bbugyi200.athena.0lw` · **State:** dismissed · **Source run:** `run-b45d0a21902c88447f8d64fcadf9aaee`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0lw
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-09-16T13:11:52.361560+00:00
+- Timing: 2026-09-16T09:11:52.361560 → 2026-09-16T09:56:42.806109
 - Commits: [1](#commits)
 
 ## Files
@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b9c28f2`](https://github.com/sase-org/sase/commit/b9c28f25e880df7436c03cc00a767c248560073a) | fix(gate-shell): restore agent-side gate handoff helpers | 2026-09-16 09:52:55 EDT |
+| — | `b9c28f2` | fix(gate-shell): restore agent-side gate handoff helpers | 2026-09-16 09:52:55 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0lw.r0](../../sessions/bbugyi200.athena.0lw.r0.md) (session · 1) | descendant | active 1 |
-| [0lw.r0.f0](../../sessions/bbugyi200.athena.0lw.r0.f0.md) (session · 3) | descendant | active 1, failed 2 |
+| [0lw.r0](../../sessions/bbugyi200.athena.0lw.r0.md) (session · 1) | descendant | dismissed 1 |
+| [0lw.r0.f0](../../sessions/bbugyi200.athena.0lw.r0.f0.md) (session · 3) | descendant | dismissed 1, failed 2 |

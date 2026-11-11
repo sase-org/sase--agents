@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a98b96e`](https://github.com/sase-org/sase/commit/a98b96e510fc601cb2cbf9b9d5538bed07120de0) | feat(tui): add xprompt keyword arg completion | 2026-09-15 23:15:16 EDT |
+| — | `a98b96e` | feat(tui): add xprompt keyword arg completion | 2026-09-15 23:15:16 EDT |

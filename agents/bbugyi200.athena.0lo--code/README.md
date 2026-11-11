@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`ea358da`](https://github.com/sase-org/sase/commit/ea358dace46d347ac6b1b25d0d2a7100142dc96e) | fix(tui): merge settled shell rows over stale cache | 2026-09-15 21:42:00 EDT |
+| — | `ea358da` | fix(tui): merge settled shell rows over stale cache | 2026-09-15 21:42:00 EDT |
