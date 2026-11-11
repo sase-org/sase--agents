@@ -1,7 +1,7 @@
 - **AGENTS:**
   - [bbugyi200.athena.sase-1s7.5](https://github.com/sase-org/sase--agents/blob/main/sessions/bbugyi200.athena.sase-1s7.5.md)
 
-%queue(weight=1) #fork:sase-1s7.5--plan %model:grok-4.6@high
+%queue(weight=1) #fork:sase-1s7.5--1 %model:grok-4.6@high
 
 %macros_enabled:false
 
@@ -10,7 +10,7 @@
 **Command:**
 
 ```text
-gh run watch 42895182653 -R sase-org/sase --interval 120 || true; gh run watch 42897320508 -R sase-org/sase --interval 120 || true; gh run watch 42897324688 -R sase-org/sase --interval 120 || true
+sh /tmp/sase-1s7.5-watch.sh
 ```
 
 **Directory:**
@@ -22,24 +22,24 @@ gh run watch 42895182653 -R sase-org/sase --interval 120 || true; gh run watch 4
 |              |                                                                                                                                                                                                                |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Outcome**  | COMPLETED — exit 0                                                                                                                                                                                             |
-| **Started**  | 2026-11-10T20:40:19.574813+00:00                                                                                                                                                                               |
-| **Finished** | 2026-11-11T00:25:13.005158Z                                                                                                                                                                                    |
-| **Elapsed**  | 3h 44m 10s of a 7h 0m 0s budget                                                                                                                                                                                |
-| **Output**   | 441 KiB · evidence refs: `file:monitor-diagnostic-manifest:t1tdawzx48m0`, `file:monitor-retained-log:t1tdawzx48m0` · raw output omitted: `facts_only` · full log: `sase monitor show t1tdawzx48m0 --all-lines` |
+| **Started**  | 2026-11-11T00:53:36.191378+00:00                                                                                                                                                                               |
+| **Finished** | 2026-11-11T02:36:12.667688Z                                                                                                                                                                                    |
+| **Elapsed**  | 1h 37m 26s of a 4h 0m 0s budget                                                                                                                                                                                |
+| **Output**   | 175 KiB · evidence refs: `file:monitor-diagnostic-manifest:m9xwmsjwn4sh`, `file:monitor-retained-log:m9xwmsjwn4sh` · raw output omitted: `facts_only` · full log: `sase monitor show m9xwmsjwn4sh --all-lines` |
 
-**Why this was monitored:** Wait for Master Gate, Full CI, and Telemetry on 1df3ade04d
-for sase-1s7.5
+**Why this was monitored:** Wait for matcher-fix Master Gate, observe-only steward, and
+Telemetry 42933587314 for sase-1s7.5
 
 ## Continuation checkpoint
 
-- **Ref:** `local:continuation/checkpoints/authored-3b37bb03b5a92270.json`
+- **Ref:** `local:continuation/checkpoints/authored-2a9a10767f5225ca.json`
 
 **Checkpoint (JSON):**
 
 ```text
 {
   "author": {
-    "actor_id": "sase-1s7.5",
+    "actor_id": "sase-1s7.5--1",
     "actor_kind": "user"
   },
   "constraints": [
@@ -47,9 +47,10 @@ for sase-1s7.5
     "never create beads; use PROPOSED FOLLOW-UP notes on sase-1s7.5",
     "never sase bead open on this bead",
     "never dispatch release.yml mode=release",
-    "at most 3 repair rounds",
+    "at most 3 repair rounds (this is round 1)",
     "close done only when ALL_GREEN=yes",
-    "if only off-release-path reds remain after 3 rounds, close canceled with RELEASE_PATH_GREEN=yes"
+    "if only off-release-path reds remain after 3 rounds, close canceled with RELEASE_PATH_GREEN=yes",
+    "contention-test is sase-1rq domain; do not raise timeouts"
   ],
   "coverage": [],
   "findings": [],
@@ -64,82 +65,56 @@ for sase-1s7.5
 
 ## Your next action
 
-Continue phase sase-1s7.5 (ci-green) of epic sase-1s7. You are the follow-up after a CI
-wait. Read sase/memory via `sase memory read` for lint_and_test.md and sase_beads.md
-first. Read
-`sase bead read sase-1s7.5 -r "Need phase notes, DECISIONS, and remaining work after CI wait"`
-and honor the epic DECISIONS. Checkpoint: /tmp/sase-1s7.5-ci-green-checkpoint.yml
+Continue sase-1s7.5 ci-green after repair round 1. Read lint_and_test.md and
+sase_beads.md via sase memory read. Read sase bead read sase-1s7.5. Checkpoint:
+/tmp/sase-1s7.5-ci-green-checkpoint.yml. Never close parent sase-1s7. Never create
+beads; use PROPOSED FOLLOW-UP notes. Never sase bead open this bead. Never dispatch
+release.yml mode=release. Never merge PRs.
 
-Do not close parent epic sase-1s7 or any ancestor. Do not create beads. Record
-follow-ups as `sase bead note sase-1s7.5 'PROPOSED FOLLOW-UP: ...'`. Never
-`sase bead open` this bead. Never touch overlapping-bead lifecycle (sase-1s6,
-sase-1q2.9.2/.3/.4, sase-1r2.6, sase-1rq.2.1.7, sase-1rq.2.1.4.1.5.3.1.3, sase-1n6.11.4,
-sase-1oe.4, the sase-1r2 watchdog crontab). Notes on those beads are allowed where the
-plan says so. Never dispatch release.yml with mode=release. Never merge PRs.
+This turn landed an exact-name core_smoke matcher so skipped qualify-ci /
+release-core-floor-smoke from rehearse 42897628895 no longer makes the steward report
+core_incompatible. Host should have committed that fix after the prior turn.
 
-Tip SHA that must hold every phase commit: 1df3ade04d8fe9c315d5491c816b9b46f21967cf
-(origin/master at dispatch). Re-fetch and re-inventory if master moved.
+1. git fetch origin master. Confirm a sase-1s7.5 stitch is on origin/master. If master
+   is still 1df3ade04d, the stitch did not land — record that and do not close done.
 
-Watched runs (all dispatched/pushed at that SHA):
+2. Judge Master Gate on the new tip (workflow master-gate.yml). If still in_progress,
+   start another zero-weight sase monitor start (gh run watch --interval 120 || true,
+   WATCHING CI / WATCHED CI) with --next pointing at this remaining work. If red: run
+   the failing node locally (20 times for a suspected flake). Flake: gh run rerun
+   --failed once plus PROPOSED FOLLOW-UP. Deterministic: fix, land via /sase_final keep,
+   judge the new push. Search beads and sase agent list -j before fixing.
 
-- Master Gate: https://github.com/sase-org/sase/actions/runs/42895182653
-- Full CI: https://github.com/sase-org/sase/actions/runs/42897320508
-- Telemetry: https://github.com/sase-org/sase/actions/runs/42897324688 (was pending
-  behind scheduled 42891137868 at pre-fix SHA c7f6cdce75)
+3. Judge Telemetry 42933587314 job by job
+   (https://github.com/sase-org/sase/actions/runs/42933587314) at 1df3ade04d. Prior
+   attempt 42897324688: coverage-contexts success; test-cost leak detector 3 poisonings
+   after 60517 passed; contention-test cancelled at 90m timeout. This is repair round 1
+   of 3. If test-cost leak fails again, treat as deterministic: identify the 3 nodeids
+   (report was not uploaded last time), search sase-1lq, fix cwd/chdir leaks if those
+   are the poisonings, land, redispatch telemetry.yml only. If contention-test times out
+   again, PROPOSED FOLLOW-UP to sase-1rq (do not raise timeout-minutes).
 
-Work to finish:
+4. Judge the observe-only steward dispatch from the watch script (or dispatch gh
+   workflow run release-steward.yml -R sase-org/sase if none ran on the new tip).
+   Require releasable (merge suppressed) or non-red waiting. Read state from the run log
+   or .venv/bin/python tools/release_watch --once --json. After the matcher fix, exact
+   check release-core-floor-smoke on PR #322 is SUCCESS.
 
-1. Judge each watched run with
-   `gh run view <id> -R sase-org/sase --json status,conclusion,headSha,jobs,url`. If any
-   is still in_progress/queued, start another zero-weight `sase monitor start`
-   (`gh run watch --interval 120 || true`, deadline remaining ~4h, WATCHING CI / WATCHED
-   CI) with --next pointing back to this same remaining work. Do not end the turn
-   waiting.
+5. PR #322: base must contain every phase commit (was 1df3ade04d, head 37dfdbc59c).
+   Required checks prepare, release-core-floor-smoke, Conventional PR title must stay
+   green. If steward has not refreshed it within ~3h of a new tip, dispatch gh workflow
+   run publish.yml -R sase-org/sase bare.
 
-2. Master Gate: if red, run the failing node locally (20 times serially for a suspected
-   flake). Flake: `gh run rerun <id> --failed` once plus a PROPOSED FOLLOW-UP naming the
-   node and run. Deterministic: fix it, land via /sase_final, and judge the new push.
-   Search beads and `sase agent list -j` before fixing; if a RUNNING agent is visibly
-   fixing that exact red, leave it.
+6. Confirm newest master runs of Deploy Docs, Install smoke, Publish, Core Pin Ratchet,
+   Shard Timings Ratchet are still green.
 
-3. Full CI and Telemetry: judge job by job. Repair rounds at most 3. Deterministic red:
-   fix, land, redispatch only the red workflow. Flake: search beads,
-   `gh run rerun --failed` once, PROPOSED FOLLOW-UP with node/run URL/owner bead; if it
-   fails again, treat as deterministic (wait on semantic state). Telemetry
-   contention-test is sase-1rq's domain: fix only if no live owner; a contention failure
-   needing more than a bounded fix is PROPOSED FOLLOW-UP.
+7. Notes (no status change): Full CI URLs already noted on sase-1r2.6. Update
+   sase-1rq.2.1.4.1.5.3.1.3 with contention-test result from 42933587314. Update
+   workflow table on sase-1rq.2.1.7.
 
-4. Release steward: once Master Gate and sase-core CI are green, require one green
-   steward run whose state is `releasable` (merge suppressed) or non-red `waiting`. Wait
-   for a scheduled tick or dispatch observe-only
-   `gh workflow run release-steward.yml -R sase-org/sase`. Read state from the run log
-   or step summary. You may also run
-   `.venv/bin/python tools/release_watch --once --json` locally.
-
-5. Release PR #322: must be refreshed onto a base containing every phase commit, with CI
-   prepare, release-core-floor-smoke, and PR Title green. If the steward has not
-   refreshed it within ~3h of the tip, dispatch
-   `gh workflow run publish.yml -R sase-org/sase` bare. At dispatch, head 37dfdbc59c
-   already contained 1df3ade04d and those checks were green.
-
-6. Other workflows: confirm newest master runs of Deploy Docs (docs-deploy.yml), Install
-   smoke, Publish, Core Pin Ratchet, and Shard Timings Ratchet are still green.
-
-7. Notes (change no status): Full CI run URL and verdict onto sase-1r2.6. Telemetry
-   contention-test result (job URL, conclusion, duration) onto sase-1rq.2.1.4.1.5.3.1.3.
-   Workflow table onto sase-1rq.2.1.7.
-
-8. Before close: `sase bead epic-symbols sase-1s7.5` must list nothing. Close only
-   sase-1s7.5 with `sase bead close sase-1s7.5 --note '...'` (or `-R canceled` per the
-   plan). Close note must include a table of workflow → newest run URL → head SHA →
-   conclusion, plus:
-   - RELEASE_PATH_GREEN=yes|no (Master Gate, Full CI blocking jobs, sase-core CI,
-     steward state, #322 checks)
-   - ALL_GREEN=yes|no (every workflow above, including Full CI advisory jobs and
-     Telemetry) Close done only when ALL_GREEN=yes. If 3 rounds end with only
-     off-release-path reds (Telemetry or Full CI advisory), close `-R canceled` with
-     RELEASE_PATH_GREEN=yes, remaining reds, and PROPOSED FOLLOW-UP notes.
-
-9. Finish through /sase_final. If you changed files, just fix then sase tool run check
-   (never just check-full). If the assigned bead is fully done, bead_action close on the
-   primary repo; otherwise keep. %macros_enabled:true
+8. sase bead epic-symbols sase-1s7.5 must list nothing. Close only sase-1s7.5 with a
+   workflow table plus RELEASE_PATH_GREEN and ALL_GREEN. Close done only when
+   ALL_GREEN=yes. If 3 rounds end with only off-release-path reds (Telemetry or Full CI
+   advisory), close -R canceled with RELEASE_PATH_GREEN=yes. Finish through /sase_final.
+   If files changed, just fix then sase tool run check. bead_action close only when the
+   assigned bead is fully done; otherwise keep. %macros_enabled:true
