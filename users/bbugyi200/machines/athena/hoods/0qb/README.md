@@ -2,8 +2,8 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 0qb
 
-**Global hood:** `bbugyi200.athena.0qb` · **Runs:** 1 · **Sessions:** 0 · **States:** active 1
+**Global hood:** `bbugyi200.athena.0qb` · **Runs:** 1 · **Sessions:** 0 · **States:** dismissed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [0qb](../../../../../../agents/bbugyi200.athena.0qb/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-23T19:53:53.677825+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.0qb/prompt.md) |
+| [0qb](../../../../../../agents/bbugyi200.athena.0qb/README.md) | dismissed | muse-spark-1.3-contributor / muse | 2026-09-23T15:53:53.677825 → 2026-09-23T16:00:20.917734 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.0qb/prompt.md) |

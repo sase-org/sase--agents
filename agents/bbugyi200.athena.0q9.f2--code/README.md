@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0q9](../../sessions/bbugyi200.athena.0q9.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
-| [0q9.f2.f0](../../sessions/bbugyi200.athena.0q9.f2.f0.md) (session · 5) | descendant | active 1, completed 2, failed 2 |
-| [0q9.f0](../bbugyi200.athena.0q9.f0/README.md) | 0q9 hood | active |
-| [0q9.f1](../bbugyi200.athena.0q9.f1/README.md) | 0q9 hood | active |
+| [0q9](../../sessions/bbugyi200.athena.0q9.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
+| [0q9.f2.f0](../../sessions/bbugyi200.athena.0q9.f2.f0.md) (session · 5) | descendant | completed 2, dismissed 1, failed 2 |
+| [0q9.f0](../bbugyi200.athena.0q9.f0/README.md) | 0q9 hood | dismissed |
+| [0q9.f1](../bbugyi200.athena.0q9.f1/README.md) | 0q9 hood | dismissed |

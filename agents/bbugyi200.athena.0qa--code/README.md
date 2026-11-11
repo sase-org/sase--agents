@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`78f1d71`](https://github.com/sase-org/sase/commit/78f1d71e79450382b6b71b7fe9863600c1b02760) | feat(ace): move numbered roster sections into Agents jump panel | 2026-09-23 16:33:57 EDT |
+| — | `78f1d71` | feat(ace): move numbered roster sections into Agents jump panel | 2026-09-23 16:33:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0qa.f0](../../sessions/bbugyi200.athena.0qa.f0.md) (session · 5) | descendant | active 1, completed 2, failed 2 |
+| [0qa.f0](../../sessions/bbugyi200.athena.0qa.f0.md) (session · 5) | descendant | completed 2, dismissed 1, failed 2 |

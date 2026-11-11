@@ -2,13 +2,13 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 0qa
 
-**Global hood:** `bbugyi200.athena.0qa` · **Runs:** 8 · **Sessions:** 2 · **States:** active 2, completed 3, failed 3
+**Global hood:** `bbugyi200.athena.0qa` · **Runs:** 8 · **Sessions:** 2 · **States:** completed 3, dismissed 2, failed 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [0qa--plan](../../../../../../sessions/bbugyi200.athena.0qa.md#member-plan) | active | opus / claude | 2026-09-23T19:10:18.628900+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0qa--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0qa--plan/prompt.md) |
+| [0qa--plan](../../../../../../sessions/bbugyi200.athena.0qa.md#member-plan) | dismissed | opus / claude | 2026-09-23T15:10:18.628900 → 2026-09-23T15:19:45.670258 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0qa--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0qa--plan/prompt.md) |
 | [0qa.f0--gate](../../../../../../sessions/bbugyi200.athena.0qa.f0.md#member-gate) | failed | opus / claude | 2026-09-23T19:43:52.193071+00:00 → 2026-09-23T19:44:43.650055+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0qa.f0--gate/chat.md) |
-| [0qa.f0--plan](../../../../../../sessions/bbugyi200.athena.0qa.f0.md#member-plan) | active | opus / claude | 2026-09-23T19:20:16.019519+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0qa.f0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0qa.f0--plan/prompt.md) |
+| [0qa.f0--plan](../../../../../../sessions/bbugyi200.athena.0qa.f0.md#member-plan) | dismissed | opus / claude | 2026-09-23T15:20:16.019519 → 2026-09-23T15:36:22.204498 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0qa.f0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0qa.f0--plan/prompt.md) |
 | [0qa.f0--plan-0](../../../../../../sessions/bbugyi200.athena.0qa.f0.md#member-plan-0) | completed | opus / claude | 2026-09-23T19:45:21.717308+00:00 → 2026-09-23T19:49:48.251845+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0qa.f0--plan-0/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0qa.f0--plan-0/prompt.md) |
 | [0qa.f0--code](../../../../../../sessions/bbugyi200.athena.0qa.f0.md#member-code) | completed | muse-spark-1.3-contributor / muse | 2026-09-23T19:55:05.906331+00:00 → 2026-09-23T20:25:20.912524+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.0qa.f0--code/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0qa.f0--code/prompt.md) |
 | [0qa--gate](../../../../../../sessions/bbugyi200.athena.0qa.md#member-gate) | failed | opus / claude | 2026-09-23T19:20:54.921239+00:00 → 2026-09-23T19:22:30.213048+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0qa--gate/chat.md) |

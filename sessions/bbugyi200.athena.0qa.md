@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0qa` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["0qa--plan [active]"]
+  n0["0qa--plan [dismissed]"]
   n1["0qa--gate [failed]"]
   n0 --> n1
   n2["0qa--code [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0qa--plan | active | opus / claude | 2026-09-23T19:10:18.628900+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0qa--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0qa--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0qa--plan | dismissed | opus / claude | 2026-09-23T15:10:18.628900 → 2026-09-23T15:19:45.670258 | 0 | [Prompt](../agents/bbugyi200.athena.0qa--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0qa--plan/chat.md) |
 | <a id="member-gate"></a>gate | 0qa--gate | failed | opus / claude | 2026-09-23T19:20:54.921239+00:00 → 2026-09-23T19:22:30.213048+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0qa--gate/chat.md) |
 | <a id="member-code"></a>code | 0qa--code | completed | muse-spark-1.3-contributor / muse | 2026-09-23T19:22:59.129475+00:00 → 2026-09-23T20:38:55.999844+00:00 | [1](../agents/bbugyi200.athena.0qa--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0qa--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0qa--code/chat.md) |
 
@@ -27,10 +27,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`78f1d71`](https://github.com/sase-org/sase/commit/78f1d71e79450382b6b71b7fe9863600c1b02760) | feat(ace): move numbered roster sections into Agents jump panel | 2026-09-23 16:33:57 EDT |
+| code | — | `78f1d71` | feat(ace): move numbered roster sections into Agents jump panel | 2026-09-23 16:33:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0qa.f0](bbugyi200.athena.0qa.f0.md) (session · 5) | descendant | active 1, completed 2, failed 2 |
+| [0qa.f0](bbugyi200.athena.0qa.f0.md) (session · 5) | descendant | completed 2, dismissed 1, failed 2 |

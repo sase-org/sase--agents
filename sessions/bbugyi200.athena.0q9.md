@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0q9` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["0q9--plan [active]"]
+  n0["0q9--plan [dismissed]"]
   n1["0q9--code [completed]"]
   n0 --> n1
   n2["0q9--gate [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0q9--plan | active | opus / claude | 2026-09-23T19:07:45.092706+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0q9--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0q9--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0q9--plan | dismissed | opus / claude | 2026-09-23T15:07:45.092706 → 2026-09-23T15:16:50.458475 | 0 | [Prompt](../agents/bbugyi200.athena.0q9--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0q9--plan/chat.md) |
 | <a id="member-code"></a>code | 0q9--code | completed | muse-spark-1.3-contributor / muse | 2026-09-23T19:18:13.502071+00:00 → 2026-09-23T19:55:16.309287+00:00 | [1](../agents/bbugyi200.athena.0q9--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0q9--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0q9--code/chat.md) |
 | <a id="member-gate"></a>gate | 0q9--gate | failed | opus / claude | 2026-09-23T19:17:03.244987+00:00 → 2026-09-23T19:17:53.479560+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0q9--gate/chat.md) |
 
@@ -27,13 +27,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`f4d70c4`](https://github.com/sase-org/sase/commit/f4d70c452b5cd668cb637b73422f7a0dfa4999d8) | feat(ace): labeled dot-separated top-bar indicator cluster | 2026-09-23 15:51:50 EDT |
+| code | — | `f4d70c4` | feat(ace): labeled dot-separated top-bar indicator cluster | 2026-09-23 15:51:50 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0q9.f0](../agents/bbugyi200.athena.0q9.f0/README.md) | descendant | active |
-| [0q9.f1](../agents/bbugyi200.athena.0q9.f1/README.md) | descendant | active |
-| [0q9.f2](bbugyi200.athena.0q9.f2.md) (session · 5) | descendant | active 1, completed 2, failed 2 |
-| [0q9.f2.f0](bbugyi200.athena.0q9.f2.f0.md) (session · 5) | descendant | active 1, completed 2, failed 2 |
+| [0q9.f0](../agents/bbugyi200.athena.0q9.f0/README.md) | descendant | dismissed |
+| [0q9.f1](../agents/bbugyi200.athena.0q9.f1/README.md) | descendant | dismissed |
+| [0q9.f2](bbugyi200.athena.0q9.f2.md) (session · 5) | descendant | completed 2, dismissed 1, failed 2 |
+| [0q9.f2.f0](bbugyi200.athena.0q9.f2.f0.md) (session · 5) | descendant | completed 2, dismissed 1, failed 2 |

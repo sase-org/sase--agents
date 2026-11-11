@@ -21,13 +21,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d9f3cbd`](https://github.com/sase-org/sase/commit/d9f3cbd4cc2bf79101ad0f198e29af8f1f88410c) | feat(tui): stash-chip contrast fix with dim-label-only top bar and refreshed goldens | 2026-09-23 19:02:47 EDT |
+| — | `d9f3cbd` | feat(tui): stash-chip contrast fix with dim-label-only top bar and refreshed goldens | 2026-09-23 19:02:47 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0q9.f2](../../sessions/bbugyi200.athena.0q9.f2.md) (session · 5) | ancestor | active 1, completed 2, failed 2 |
-| [0q9](../../sessions/bbugyi200.athena.0q9.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
-| [0q9.f0](../bbugyi200.athena.0q9.f0/README.md) | 0q9 hood | active |
-| [0q9.f1](../bbugyi200.athena.0q9.f1/README.md) | 0q9 hood | active |
+| [0q9.f2](../../sessions/bbugyi200.athena.0q9.f2.md) (session · 5) | ancestor | completed 2, dismissed 1, failed 2 |
+| [0q9](../../sessions/bbugyi200.athena.0q9.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
+| [0q9.f0](../bbugyi200.athena.0q9.f0/README.md) | 0q9 hood | dismissed |
+| [0q9.f1](../bbugyi200.athena.0q9.f1/README.md) | 0q9 hood | dismissed |
