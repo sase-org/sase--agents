@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0nr](../../users/bbugyi200/machines/athena/hoods/0nr/README.md) / [0nr](../../sessions/bbugyi200.athena.0nr.md) / 0nr--plan
 
-**Global name:** `bbugyi200.athena.0nr--plan` · **State:** active · **Source run:** `run-516945d0fb6c1ae8ea36ac5b675386c9`
+**Global name:** `bbugyi200.athena.0nr--plan` · **State:** dismissed · **Source run:** `run-516945d0fb6c1ae8ea36ac5b675386c9`
 
 **Owner:** `bbugyi200.athena` · **Project:** sase · **Hood:** 0nr
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-19T13:55:10.341954+00:00
+- Timing: 2026-09-19T09:55:10.341954 → 2026-09-19T10:15:46.946548
 - Commits: 0
 
 ## Files

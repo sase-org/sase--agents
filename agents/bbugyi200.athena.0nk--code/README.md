@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`a733725`](https://github.com/sase-org/sase/commit/a7337251bd2eb4b141e95e37421185f47533171e) | feat(tui): bulk-select tmux workspaces from the Agents chooser | 2026-09-18 22:54:48 EDT |
+| — | `a733725` | feat(tui): bulk-select tmux workspaces from the Agents chooser | 2026-09-18 22:54:48 EDT |

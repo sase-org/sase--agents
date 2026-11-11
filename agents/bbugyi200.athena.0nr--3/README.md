@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`d8b8369`](https://github.com/sase-org/sase/commit/d8b8369b7a18683743e61764afd3fe041b1e8b2a) | fix(sdd): skip ephemeral clones during artifact\_link\_backfill reconcile | 2026-09-19 13:03:45 EDT |
+| — | `d8b8369` | fix(sdd): skip ephemeral clones during artifact\_link\_backfill reconcile | 2026-09-19 13:03:45 EDT |

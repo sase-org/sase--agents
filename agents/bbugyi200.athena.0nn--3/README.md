@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`37f0651`](https://github.com/sase-org/sase/commit/37f0651d6d115012f4a8ee2b11b4493502155395) | feat(sudo): attach remote authentication ssh to /dev/tty | 2026-09-19 10:46:02 EDT |
+| — | `37f0651` | feat(sudo): attach remote authentication ssh to /dev/tty | 2026-09-19 10:46:02 EDT |

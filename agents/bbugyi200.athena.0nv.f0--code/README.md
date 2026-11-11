@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`624a29e`](https://github.com/sase-org/sase/commit/624a29ea72d443a257a4326ef5209baa73bb5e03) | fix(service): decide git readiness from remote auth and preflight plan approvals | 2026-09-20 11:05:52 EDT |
+| — | `624a29e` | fix(service): decide git readiness from remote auth and preflight plan approvals | 2026-09-20 11:05:52 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0nv](../../sessions/bbugyi200.athena.0nv.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0nv](../../sessions/bbugyi200.athena.0nv.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |

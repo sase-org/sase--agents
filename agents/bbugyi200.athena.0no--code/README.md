@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8d2a39c`](https://github.com/sase-org/sase/commit/8d2a39c5684cf86d774173fcfbaa7dd602e07196) | feat(ace): mirror lone queued clan member admission rank | 2026-09-19 09:36:11 EDT |
+| — | `8d2a39c` | feat(ace): mirror lone queued clan member admission rank | 2026-09-19 09:36:11 EDT |
