@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`cc2cf78`](https://github.com/sase-org/sase/commit/cc2cf78a044e361bbd251ffbfa36603fb63f9023) | fix(sdd): write machine bead links via hidden clone | 2026-09-17 09:38:31 EDT |
+| — | `cc2cf78` | fix(sdd): write machine bead links via hidden clone | 2026-09-17 09:38:31 EDT |

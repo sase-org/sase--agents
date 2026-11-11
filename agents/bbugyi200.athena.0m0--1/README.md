@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`89b2443`](https://github.com/sase-org/sase/commit/89b2443948438463976c6182ef7f7d897c8dfb1e) | fix(gates): make gate-shell reclaim receipt-aware | 2026-09-16 15:11:30 EDT |
+| — | `89b2443` | fix(gates): make gate-shell reclaim receipt-aware | 2026-09-16 15:11:30 EDT |

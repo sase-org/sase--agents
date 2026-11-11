@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7636fe0`](https://github.com/sase-org/sase/commit/7636fe03b8c3960653e9ddc7494f52203c9c81c8) | feat(tui): show prompt search match counts | 2026-09-16 13:13:49 EDT |
+| — | `7636fe0` | feat(tui): show prompt search match counts | 2026-09-16 13:13:49 EDT |
