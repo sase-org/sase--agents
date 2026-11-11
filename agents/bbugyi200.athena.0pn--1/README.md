@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c87c9d1`](https://github.com/sase-org/sase/commit/c87c9d1aa9383d0d9bd5431b0339f72270100329) | fix(gate): repair Master Gate failures and shrink docs PDF under size gate | 2026-09-23 07:46:04 EDT |
+| — | `c87c9d1` | fix(gate): repair Master Gate failures and shrink docs PDF under size gate | 2026-09-23 07:46:04 EDT |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`8c89951`](https://github.com/sase-org/sase/commit/8c89951644a32818908645aa7bd26dd264d48974) | feat(agents): keep sticky agent header visible in file/LLM Calls-only layout | 2026-09-22 19:28:36 EDT |
+| — | `8c89951` | feat(agents): keep sticky agent header visible in file/LLM Calls-only layout | 2026-09-22 19:28:36 EDT |

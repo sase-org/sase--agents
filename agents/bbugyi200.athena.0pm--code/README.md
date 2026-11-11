@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`4022cfe`](https://github.com/sase-org/sase/commit/4022cfe595330e2af2c497868fbd8ef62b156c48) | fix(agents): resolve workflow children of project-level workflows to parent meta Patch | 2026-09-22 18:51:26 EDT |
+| — | `4022cfe` | fix(agents): resolve workflow children of project-level workflows to parent meta Patch | 2026-09-22 18:51:26 EDT |
