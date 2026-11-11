@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b69c86a`](https://github.com/sase-org/sase/commit/b69c86a0402495e2e81ad91b54f7cad46a3a10f9) | feat(ace): open Updates tab from cache, refresh only on r | 2026-09-24 12:42:05 EDT |
+| — | `b69c86a` | feat(ace): open Updates tab from cache, refresh only on r | 2026-09-24 12:42:05 EDT |

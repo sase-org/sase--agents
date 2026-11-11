@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`e80b948`](https://github.com/sase-org/sase/commit/e80b948c3e92c52a327e96a019895bdee0f92860) | feat(services): sticky collapsible description header for service proc rows | 2026-09-24 11:25:24 EDT |
+| — | `e80b948` | feat(services): sticky collapsible description header for service proc rows | 2026-09-24 11:25:24 EDT |

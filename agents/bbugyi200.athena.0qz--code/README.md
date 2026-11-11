@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`0648306`](https://github.com/sase-org/sase/commit/0648306324275f38bb1da9f15ef18835d77b4a31) | fix(symvision): return just symvision to green on master | 2026-09-24 13:58:03 EDT |
+| — | `0648306` | fix(symvision): return just symvision to green on master | 2026-09-24 13:58:03 EDT |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`77e0cfb`](https://github.com/sase-org/sase/commit/77e0cfb6c043a1da3efc4c164d9ea328cbe50b77) | feat(ace): route bead hints to pager live detail with copy support | 2026-09-24 10:54:02 EDT |
+| — | `77e0cfb` | feat(ace): route bead hints to pager live detail with copy support | 2026-09-24 10:54:02 EDT |
