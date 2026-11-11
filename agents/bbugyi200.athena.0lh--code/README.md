@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`47def62`](https://github.com/sase-org/sase/commit/47def629305dda1df53be14a1b64589b24b2ea4e) | feat(init): remember reviewed machine init candidates | 2026-09-15 15:46:45 EDT |
+| — | `47def62` | feat(init): remember reviewed machine init candidates | 2026-09-15 15:46:45 EDT |

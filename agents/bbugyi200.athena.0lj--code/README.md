@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`61febdc`](https://github.com/sase-org/sase/commit/61febdcc686eed8d82e9a4a1d9069745a512cfb8) | fix(monitor): propagate auto approval to followups | 2026-09-15 16:59:04 EDT |
+| — | `61febdc` | fix(monitor): propagate auto approval to followups | 2026-09-15 16:59:04 EDT |

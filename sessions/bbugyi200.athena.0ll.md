@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0ll` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["0ll--plan [active]"]
+  n0["0ll--plan [dismissed]"]
   n1["0ll--code [completed]"]
   n0 --> n1
   n2["0ll--gate [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0ll--plan | active | gpt-6-astra / codex | 2026-09-15T22:11:47.062406+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0ll--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0ll--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0ll--plan | dismissed | gpt-6-astra / codex | 2026-09-15T18:11:47.062406 → 2026-09-15T18:20:37.079326 | 0 | [Prompt](../agents/bbugyi200.athena.0ll--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0ll--plan/chat.md) |
 | <a id="member-code"></a>code | 0ll--code | completed | gpt-5.5 / codex | 2026-09-15T22:22:13.963183+00:00 → 2026-09-15T23:23:55.573016+00:00 | [1](../agents/bbugyi200.athena.0ll--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0ll--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0ll--code/chat.md) |
 | <a id="member-gate"></a>gate | 0ll--gate | failed | gpt-6-astra / codex | 2026-09-15T22:21:07.235518+00:00 → 2026-09-15T22:21:52.618345+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0ll--gate/chat.md) |
 
@@ -27,4 +27,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | sase | [`b2d7af0`](https://github.com/sase-org/sase/commit/b2d7af01a77c9dd0a7e99b8fc279abf63ca10ed6) | feat: support double-colon prompt argument pairing | 2026-09-15 19:17:45 EDT |
+| code | — | `b2d7af0` | feat: support double-colon prompt argument pairing | 2026-09-15 19:17:45 EDT |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`b2d7af0`](https://github.com/sase-org/sase/commit/b2d7af01a77c9dd0a7e99b8fc279abf63ca10ed6) | feat: support double-colon prompt argument pairing | 2026-09-15 19:17:45 EDT |
+| — | `b2d7af0` | feat: support double-colon prompt argument pairing | 2026-09-15 19:17:45 EDT |

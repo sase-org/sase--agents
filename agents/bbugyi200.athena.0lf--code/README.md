@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`c632a55`](https://github.com/sase-org/sase/commit/c632a5552d28893b1000d1ff9ff06c6dcffc708e) | fix(tui): let updates restart with telegram receiver | 2026-09-15 14:05:15 EDT |
+| — | `c632a55` | fix(tui): let updates restart with telegram receiver | 2026-09-15 14:05:15 EDT |
