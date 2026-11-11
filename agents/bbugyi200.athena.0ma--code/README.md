@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`7b7b753`](https://github.com/sase-org/sase/commit/7b7b753405c0b389c06365ea2c24da9a63c42bda) | fix(repo): redirect external refs to linked checkouts | 2026-09-17 12:23:46 EDT |
+| — | `7b7b753` | fix(repo): redirect external refs to linked checkouts | 2026-09-17 12:23:46 EDT |

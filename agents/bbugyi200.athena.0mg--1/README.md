@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`15c094c`](https://github.com/sase-org/sase/commit/15c094c6fa172d359cb25588a7a9d0ca71f34be9) | fix(tui): align usage indicator color buckets | 2026-09-17 14:00:19 EDT |
+| — | `15c094c` | fix(tui): align usage indicator color buckets | 2026-09-17 14:00:19 EDT |

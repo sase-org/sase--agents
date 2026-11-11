@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`5e4c866`](https://github.com/sase-org/sase/commit/5e4c866eb5e5a4b6385855404078bc7fc9074fe0) | feat(tui): move agent panel layout toggle into grouping picker | 2026-09-17 17:01:35 EDT |
+| — | `5e4c866` | feat(tui): move agent panel layout toggle into grouping picker | 2026-09-17 17:01:35 EDT |

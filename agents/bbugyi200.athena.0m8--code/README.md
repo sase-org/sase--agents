@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`3ef40e9`](https://github.com/sase-org/sase/commit/3ef40e9155d64ede21c508a78d44f12616320a7c) | test: cover Claude Fable usage identity | 2026-09-17 09:53:27 EDT |
+| — | `3ef40e9` | test: cover Claude Fable usage identity | 2026-09-17 09:53:27 EDT |

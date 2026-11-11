@@ -29,7 +29,7 @@ flowchart TD
   n0 --> n9
   n10["0mi--6 [completed]"]
   n0 --> n10
-  n11["0mi--plan [active]"]
+  n11["0mi--plan [dismissed]"]
   n0 --> n11
   n12["0mi--1 [completed]"]
   n0 --> n12
@@ -62,7 +62,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | 0mi--code | completed | gpt-5.5 / codex | 2026-09-17T19:24:26.145054+00:00 → 2026-09-17T20:37:57.011561+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0mi--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0mi--code/chat.md) |
 | <a id="member-mon"></a>mon | 0mi--mon | failed | gpt-5.5 / codex | 2026-09-17T20:37:13.809177+00:00 → 2026-09-17T22:38:36.064638+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0mi--mon/chat.md) |
 | <a id="member-6"></a>6 | 0mi--6 | completed | gpt-5.5 / codex | 2026-09-18T05:05:34.599101+00:00 → 2026-09-18T05:30:50.976989+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0mi--6/prompt.md) | [Chat](../agents/bbugyi200.athena.0mi--6/chat.md) |
-| <a id="member-plan"></a>plan | 0mi--plan | active | gpt-6-astra / codex | 2026-09-17T19:11:25.191101+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0mi--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0mi--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0mi--plan | dismissed | gpt-6-astra / codex | 2026-09-17T15:11:25.191101 → 2026-09-17T15:19:06.059153 | 0 | [Prompt](../agents/bbugyi200.athena.0mi--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0mi--plan/chat.md) |
 | <a id="member-1"></a>1 | 0mi--1 | completed | gpt-5.5 / codex | 2026-09-17T22:38:51.383400+00:00 → 2026-09-17T23:58:46.451243+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0mi--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0mi--1/chat.md) |
 | <a id="member-3"></a>3 | 0mi--3 | completed | gpt-5.5 / codex | 2026-09-18T03:01:41.829169+00:00 → 2026-09-18T03:41:17.571790+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0mi--3/prompt.md) | [Chat](../agents/bbugyi200.athena.0mi--3/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 0mi--mon-0 | failed | gpt-5.5 / codex | 2026-09-17T23:58:26.462023+00:00 → 2026-09-18T00:25:23.946152+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0mi--mon-0/chat.md) |
@@ -75,4 +75,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 8 | sase | [`756a07c`](https://github.com/sase-org/sase/commit/756a07c9b84b12d2d235d3b2c331b7ce347c57ca) | feat(agent): arm holds at launch submission | 2026-09-18 03:43:11 EDT |
+| 8 | — | `756a07c` | feat(agent): arm holds at launch submission | 2026-09-18 03:43:11 EDT |

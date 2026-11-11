@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 0mi
 
-**Global hood:** `bbugyi200.athena.0mi` · **Runs:** 19 · **Sessions:** 1 · **States:** active 1, completed 9, failed 9
+**Global hood:** `bbugyi200.athena.0mi` · **Runs:** 19 · **Sessions:** 1 · **States:** completed 9, dismissed 1, failed 9
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -17,7 +17,7 @@
 | [0mi--code](../../../../../../sessions/bbugyi200.athena.0mi.md#member-code) | completed | gpt-5.5 / codex | 2026-09-17T19:24:26.145054+00:00 → 2026-09-17T20:37:57.011561+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0mi--code/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0mi--code/prompt.md) |
 | [0mi--mon](../../../../../../sessions/bbugyi200.athena.0mi.md#member-mon) | failed | gpt-5.5 / codex | 2026-09-17T20:37:13.809177+00:00 → 2026-09-17T22:38:36.064638+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0mi--mon/chat.md) |
 | [0mi--6](../../../../../../sessions/bbugyi200.athena.0mi.md#member-6) | completed | gpt-5.5 / codex | 2026-09-18T05:05:34.599101+00:00 → 2026-09-18T05:30:50.976989+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0mi--6/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0mi--6/prompt.md) |
-| [0mi--plan](../../../../../../sessions/bbugyi200.athena.0mi.md#member-plan) | active | gpt-6-astra / codex | 2026-09-17T19:11:25.191101+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0mi--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0mi--plan/prompt.md) |
+| [0mi--plan](../../../../../../sessions/bbugyi200.athena.0mi.md#member-plan) | dismissed | gpt-6-astra / codex | 2026-09-17T15:11:25.191101 → 2026-09-17T15:19:06.059153 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0mi--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0mi--plan/prompt.md) |
 | [0mi--1](../../../../../../sessions/bbugyi200.athena.0mi.md#member-1) | completed | gpt-5.5 / codex | 2026-09-17T22:38:51.383400+00:00 → 2026-09-17T23:58:46.451243+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0mi--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0mi--1/prompt.md) |
 | [0mi--3](../../../../../../sessions/bbugyi200.athena.0mi.md#member-3) | completed | gpt-5.5 / codex | 2026-09-18T03:01:41.829169+00:00 → 2026-09-18T03:41:17.571790+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0mi--3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0mi--3/prompt.md) |
 | [0mi--mon-0](../../../../../../sessions/bbugyi200.athena.0mi.md#member-mon-0) | failed | gpt-5.5 / codex | 2026-09-17T23:58:26.462023+00:00 → 2026-09-18T00:25:23.946152+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0mi--mon-0/chat.md) |

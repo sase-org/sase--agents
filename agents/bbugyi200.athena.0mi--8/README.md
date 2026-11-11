@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| sase | [`756a07c`](https://github.com/sase-org/sase/commit/756a07c9b84b12d2d235d3b2c331b7ce347c57ca) | feat(agent): arm holds at launch submission | 2026-09-18 03:43:11 EDT |
+| — | `756a07c` | feat(agent): arm holds at launch submission | 2026-09-18 03:43:11 EDT |
